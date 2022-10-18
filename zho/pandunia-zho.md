@@ -341,13 +341,6 @@ defa kaska - 盔甲
 deha - 村  
 dele - 迟延  
 den - 日 (天)  
-den un - 星期一 (禮拜一)  
-den du - 星期二 (禮拜二)  
-den tri - 星期三 (禮拜三)  
-den nelu - 星期四 (禮拜四)  
-den lima - 星期五 (禮拜五)  
-den luka - 星期六 (礼拜六)  
-den ceti - 星期日 (禮拜日)  
 den loge - 日记  
 des - 十  
 deu - 神  
@@ -760,7 +753,6 @@ jun bei - 后辈
 jun jen - 年轻人  
 junnen - 青年  
 jun sis - 妹妹 (mèimei)  
-Jupiter - 木星  
 jus - 汁  
 
 ## K  
@@ -989,6 +981,7 @@ lou - 漏
 luga - 绿色  
 luka - 六 (6)  
 lulu table - 算盘  
+lunaden - 星期一 (禮拜一)  
 luna keke - 月饼  
 lung - 龙  
 lung dou - 四棱豆  
@@ -1020,6 +1013,7 @@ manioka - 木薯
 mantol - 斗篷  
 mar - 次 (度, 遍)  
 margai - 長尾虎貓  
+marisden - 星期二 (禮拜二)  
 masa - 质量  
 masa mula sol hua - 菊芋  
 masala - 香料  
@@ -1058,6 +1052,7 @@ memo - 记忆 (记性)
 mendelef yum - 钔  
 meninge - 脑脊膜  
 meranti - 娑羅屬  
+merkurden - 星期三 (禮拜三)  
 mesaje - 信息  
 metan - 甲烷  
 metanol - 甲醇  
@@ -1113,6 +1108,8 @@ murce - 蚂蚁
 mus - 应该 (必须)  
 muskul bina - 健美运动  
 musli - 木斯里 (瑞士麦片)  
+Muxin - 木星  
+muxinden - 星期四 (禮拜四)  
 muxu - 鼠  
 muzika - 音乐  
 
@@ -1410,7 +1407,6 @@ sar hin - 无头的
 sar kexa - 头发  
 sar kexa hin - 秃头的  
 sata - 时刻 (瞬间)  
-Saturne - 土星  
 sau - 兄弟姐妹 (xiōngdì jiěmèi)  
 saur - 蜥蜴  
 se di - 自私  
@@ -1457,6 +1453,7 @@ soi milke - 豆浆
 soi sos - 酱油  
 soki - 寻找  
 sol - 太阳  
+solden - 星期日 (禮拜日)  
 sol hua - 向日葵  
 sol sistem - 太阳系  
 son - 儿子  
@@ -1645,6 +1642,8 @@ xaki - 怀疑 (疑惑)
 xalke - 鳞  
 xam - 晚上  
 xanghai - 上海  
+Xani - 土星  
+xaniden - 星期六 (礼拜六)  
 xatan ja - 撒但  
 xava - 烧 (烧烤)  
 xayu - 鲨鱼  
@@ -1729,5 +1728,6 @@ zinke - 锌
 zira - 孜然  
 zirkon yum - 锆  
 zoku - 还 (依然)  
+zukraden - 星期五 (禮拜五)  
 zuku - 民族  
 zumarde - 绿宝石 (祖母绿)  

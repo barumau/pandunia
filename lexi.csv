@@ -788,13 +788,6 @@ demi.krati.ja|demi krati ja||||democrat|||demócrata||||||||||||||||||demokraatt
 demi.poli.ta|demi polita||||population|||||||||||||||||||||väenpaljous|populacja
 demon|demon|||eng:tur:demon, spa:demonio, por:demônio, fra:démon, deu:Dämon, rus:демон (demon)|demon|||demonio||||||||||||||悪魔|||demono|demoni (piru)|demon
 den|den|||rus:день (deń), hin:दिन (din), ben:দিন (din) + zho:天 (tiān), yue:天 (tin1)|day (24 hours)|||día (24 horas)|dia (24 horas)|день (сутки)||दिन|||hari|يَوْم‎|gün|siku||日 (天)||日|낮 (하루)|ngày|tago (periodo de 24 horoj)|päivä (vuorokausi)|
-den.1|den un||||Monday||lundi|lunes|segunda-feira|понедельник||सोमवार|সোমবার||senin|يوم الإثنين|pazartesi|jumatatu||星期一 (禮拜一)||月曜日|월요일|thứ hai|luno|maanantai|poniedziałek
-den.2|den du||||Tuesday||mardi|martes|terça-feira|вторник||मंगलवार|মঙ্গলবার||selasa|يوم الثلاثاء|salı|jumanne||星期二 (禮拜二)||火曜日|화요일|thứ ba|mardo|tiistai|wtorek
-den.3|den tri||||Wednesday||mercredi|miércoles|quarta-feira|среда||बुधवार|বুধবার||rabu|يوم الأربعاء|çarşamba|jumatano||星期三 (禮拜三)||水曜日|수요일|thứ tư|merredo|keskiviikko|środa
-den.4|den nelu||||Thursday||jeudi|jueves|quinta-feira|четверг||गुरुवार|বৃহস্পতিবার||kamis|يوم الخميس|perşembe|alhamisi||星期四 (禮拜四)||木曜日|목요일|thứ năm|ĵaŭdo|torstai|czwartek
-den.5|den lima||||Friday||vendredi|viernes|sexta-feira|пятница||शुक्रवार|সুক্রবার||jumat|يوم الجمعة|cuma|ijumaa||星期五 (禮拜五)||金曜日|금요일|thứ sáu|vendredo|perjantai|piątek
-den.6|den luka||||Saturday||samedi|sábado|sábado|суббота||शनिवार|শনিবার||sabtu|يَوم السبت|cumartesi|jumamosi||星期六 (礼拜六)||土曜日|토요일|thứ bảy|sabato|lauantai|sobota
-den.7|den ceti||||Sunday||dimanche|domingo|domingo|воскресенье||रविवार|রবিবার||minggu|يوم الأحد|pazar|jumapili||星期日 (禮拜日)||日曜日|일요일|chủ nhật|dimanĉosunnuntai|niedziela|niedziela
 den.loge|den loge||||diary (daily log)||journal|diario|diário|дневник||दैनन्दिनी (डायरी)|||buku harian (diari)||günlük|||日记||日記|일기|sổ nhật ký|taglibro|päiväkirja|
 des|des|nomer|10|fra:dix, spa:diez, por:dez, rus:десять (desyat'), pol:dziesięć, hin:दस (das), ben:দশ (dôś), + eng:deci-, may:desi-, jpn:デシ- (deshi), deu:dezi-|ten (deca-, 10)||dix (deca-)|diez (deca-, 10)|dez|десять (дека-)||दस|দশ||sepuluh||on|kumi||十||十 (１０)|열 (십)|mười|dek (10)|kymmenen (10)|dziesięć (10)
 des.kilo|des kilo||||ten thousand|||||||||||||||||万|||dek miloj|sata tuhatta|dziesięć tysięcy
@@ -2073,7 +2066,6 @@ jun.sis|jun sis|famil|||little sister (younger sister)|||||||||தங்கை (
 jun.ta|junta||||youth (young age)|||juventud|||||||||||||||||juneco|nuoruus|młodość
 jung|jung|||zho:種 (zhǒng), yue:種 (zung2), wuu:種 (tson2), jpn:種 (shu), kor:종 (jong), vie:chủng|species|||especie||||||||||||||||||laji|gatunek
 jupe|jupe|||fra:jupe, ara:(jūb), rus:юбка (yubka)|skirt|||falda|||||||||||||||||jupo|hame|spódnica
-Jupiter|Jupiter|planeta 5|||Jupiter||Jupiter|Jupiter|Júpiter|Юпитер||||||المشتري|Jüpiter|||木星||木星||||Jupiter|Jowisz
 jus|jus|||eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)|juice||jus|jugo (zumo)|suco (sumo)|сок||रस|রস||jus|عَصِير‎|šire|jusi||汁||ジュース|즙 (스)|dịch|suko|mehu|sok
 juste|juste|||eng:just, fra:juste, spa:justo, ita:giusto, jpn:ジャスト (jasto)|just (precise, exact, accurate)||justo (exact, précis)|exacto (preciso)|exato (preciso)|точный|||||||dakik|halisi|||||||ĝuste (precize, ekzakte)|juuri (tarkka, täsmällinen)|tylko (precyzyjny, dokładny)
 juste.pau.ja|juste pau ja||||sniper (sharpshooter)|||francotirador||снайпер||||||||||||狙撃兵|||||snajper (strzelec wyborowy)
@@ -2626,6 +2618,7 @@ lulu.table|lulu table||||abacus||abaque (boulier compteur)|ábaco|ábaco|счё�
 lume|lume|||ara: لَمَعَ‎ (lamaʿa) + spa:lumbre, por:lume, fra:lumineux, eng:luminous + rus:люмен (lyumen),zho:流明 (liúmíng),  jpn:ルーメン (rūmen), kor:루멘 (rumen), may:lumen|shine||||||||||||||||loistaa (loiste)||||||
 lumen|lumen|unomete|lm||lumen|lumen|lumen|lúmen|люмен|لُومِن‎|流明|ルーメン|루멘||||lumen||||luumen|lumen|||||
 luna|luna|planeta 3 lun 1||fra:lune, spa:luna, eng:lunar, rus:луна (luná)|moon||lune|luna|lua|луна|||||||||||||||luno|kuu|księżyc
+luna.den|lunaden|den|1||Monday||lundi|lunes|segunda-feira|понедельник||सोमवार|সোমবার||senin|يوم الإثنين|pazartesi|jumatatu||星期一 (禮拜一)||月曜日|월요일|thứ hai|luno|maanantai|poniedziałek
 luna.keke|luna keke||||mooncake||gâteau de lune|pastel de luna|bolo lunar|лунный пирог|||||kue bulan|كَعْكَة اَلْقَمَر‎|ay keki|||月饼||月餅|월병|||kuukakku|
 lung|lung|||zho:龙 (lóng), yue:龍 (lung4), vie:rồng,long, kor:용 (yong), 룡 (ryong), jpn:竜 (ryū), khm:រោង (roong), tha:มะโรง (má-roong)|dragon|||dragón||||||||||||龙||竜|용 (룡)|rồng||itämainen lohikäärme|smok
 Lung.Dexa|Lung Dexa|dexa|BT||Bhutan|||Bután||||||||||||||||||Bhutan|Bhutan
@@ -2703,8 +2696,9 @@ margai|margai|bio|Leopardus wiedii|eng:margay, spa:maracayá, por:maracajá, rus
 margarin|margarin|||eng:fra:margarine, spa:por:margarina, rus:маргари́н (margarín), tur:margarin, hin:मार्जरीन (mārjarīn), may:marjerin, zho:麦淇淋 (màiqílín), jpn:マーガリン (māgarin)|margarine|||margarina|||||||||||||||||margarino|margariini|margaryna
 margarita|margarita|bio||spa:por:margarita, fra:marguerite, deu:Margerite, rus:маргаритка (margaritka)|daisy|||margarita|margarida|маргаритка|||||||||||||||||stokrotka
 Mariana.nesi|Mariana nesi|dexa|MP||Northern Mariana Islands|||Islas Marianas|||||||||||||||||||Mariany Północne
+Maris|Maris|planeta 4||ell:Άρης (Áris), eng:fra:tur:Mars, spa:por:Marte, rus:Марс (Mars) + ara: اَلْمِرِّيخ‎ (al-mirrīkh), swa:Mirihi, may:Mars; Marikh|Mars||Mars|Marte|Marte|Марс||||||المريخ|Mars|||||||||Mars|Mars
+maris.den|marisden|den|2||Tuesday||mardi|martes|terça-feira|вторник||मंगलवार|মঙ্গলবার||selasa|يوم الثلاثاء|salı|jumanne||星期二 (禮拜二)||火曜日|화요일|thứ ba|mardo|tiistai|wtorek
 marke|marke|||eng:mark, spa:por:marca, fra:marque, kor:마크 (makeu), jpn:マーク (māku)|mark (trace)||trace|marca (huella, mancha)|mancha (marca)|||||||||||||||||merkki (jälki)|znak, trop
-Marse|Marse|planeta 4||eng:fra:tur:may:Mars, spa:por:Marte, rus:Марс (Mars)|Mars||Mars|Marte|Marte|Марс||||||المريخ|Mars|||||||||Mars|Mars
 Marxal.nesi|Marxal nesi|dexa|MH||Marshall Islands|||Islas Marshall||||||||||||||||||Marshall-saaret|Wyspy Marshalla
 masa|masa|||eng:mass, deu:fra:masse, spa:masa, por:may:massa, rus:масса (massa)|mass (quantity of matter)||masse|masa (trozo, pedazo)|massa|масса||द्रव्यमान|||massa|كتلة|kütle|||质量||質量|질량|khối lượng|maso|massa|masa
 masa.mula|masa mula||||tuber (bulb)||tubercule|tubérculo|tubérculo|клубень||||||||||||芋 (塊茎)|||||bulwa
@@ -2803,6 +2797,7 @@ mer|mer||||belong (be a member)|||pertenecer (ser miembro de)||||||||||||||||||k
 mer|mer|||eng:member, spa:miembro, por:membro, fra:membre, jpn:メンバー (menbā)|member (part of a group, component)|||miembro (componente)|||||||||||||||||membro|jäsen (osatekijä, komponentti)|członek
 meranti|meranti|bio|Shorea|may:deu:eng:fra:spa:por:meranti|lauan tree (meranti, balau)|Meranti (Balau)|balau (meranti)|meranti|meranti|шорея|||||pokok meranti|||||娑羅屬||サラノキ|사라수속||ŝoreo|merantipuu|damarzyk (meranti)
 Merkur|Merkur|planeta 1|||Mercury||Mercure|Mercurio|Mercúrio|Меркурий||||||عطارد|Merkür||||||||Merkuro|Merkurius|Merkury
+merkur.den|merkurden|den|3||Wednesday||mercredi|miércoles|quarta-feira|среда||बुधवार|বুধবার||rabu|يوم الأربعاء|çarşamba|jumatano||星期三 (禮拜三)||水曜日|수요일|thứ tư|merredo|keskiviikko|środa
 mes|mes|||fra:mois, spa:mez, por:mês, rus:месяц (mes’ac), eng:menstral + swa:mwezi|month||mois|mez|mês|месяц|||মাস|||||mwezi||||月間|||monato|kuukausi|miesiąc
 mes.bati|mes bati|mes|||August||août|agosto||||||||||||||８月||||elokuu|listopad
 mes.ceti|mes ceti|mes|||July|||julio||||||||||||||７月||||heinäkuu|październik
@@ -2966,6 +2961,8 @@ muskul|muskul|||eng:fra:muscle, spa:por:músculo, deu:Muskel, rus:му́скул
 muskul.bina|muskul bina||||bodybuilding||culturisme (musculation)|fisicoculturismo (culturismo, musculación)|fisiculturismo|культуризм||||||||||健美运动|||||korpokulturado|kehonrakennus (bodaus)|kulturystyka
 musli|musli|||eng:fra:spa:por:muesli, rus:мюсли (myusli), zho:木斯里 (mùsīlǐ), jpn:ミューズリー (myūzurī), kor:뮈슬리 (mwiseulli), tur:müsli|muesli||musli|muesli|muesli|мюсли|||||||müsli|||木斯里 (瑞士麦片)||ミューズリー|뮈슬리||muslio|mysli|musli
 mute|mute|||spa:mudar, por:mutação, eng:mutate, fra:muter, rus:мутировать (mutirovat’)|change (alter, convert)|||cambiar|||||||||||||||||aliigi|muuttaa (muuntaa)|zmienić, zmieniać
+Muxin|Muxin|planeta 5||zho:木星 (Mùxīng), yue:木星 (muk6 sing1), kor:목성 (mokseong), vie:Mộc tinh, jpn:木星 (Mokusei) + ara: اَلْمُشْتَرِي‎ (al-muštarī), swa:Mshtarii, may:Musytar|Jupiter||Jupiter|Jupiter|Júpiter|Юпитер||||||المشتري|Jüpiter|||木星||木星||||Jupiter|Jowisz
+muxin.den|muxinden|den|4||Thursday||jeudi|jueves|quinta-feira|четверг||गुरुवार|বৃহস্পতিবার||kamis|يوم الخميس|perşembe|alhamisi||星期四 (禮拜四)||木曜日|목요일|thứ năm|ĵaŭdo|torstai|czwartek
 muxu|muxu|||rus:мышь (myś), pol:mysz, fas: موش‎ (muš) + zho:鼠 (shǔ)|mouse or rat||souris|ratón|rato|мышь||चूहा|ইঁদুর||tikus|فَأْر‎|fare|kipanya||鼠||鼠|쥐|chuột|muso aŭ rato|hiiri tai rotta|mysz
 muxu.cakra|muxu cakra||||scroll wheel|||rueda del mouse||||||||||||||ホイールマウス|||||
 muzika|muzika|||eng:music, fra:musique, spa:por:música, rus:музика (muzika), ara:(mūsīqā), swa:muziki, tur:müzik, may:musik|music||musique|música|música|музика||संगीत|||musik (bunyi)|||||音乐||音楽|||muziko|musiikki|muzyka
@@ -3777,7 +3774,6 @@ sata|sata|||ara:(sāʿa), fas:(sâ'at), may:tur:saat, swa:saa|moment (instant)||
 sata.di|sata di||||momentary||momentané|momentáneo|momentâneo|моментальный (минутный)||||||سَاعَة‎|||||||||momenta|hetkellinen|chwilowy
 sata.don|sata don||||dedicate (devote)|||dedicar|||||||||||||||||||dedykować (poświęcać, poświęcić)
 sata.don.ta|sata don ta||||dedication (devotion)||||||||||||||||||||||dedykacja (poświęcenie)
-Saturne|Saturne|planeta 6|||Saturn||Saturne|Saturno|Saturno|Сатурн||||||زحل|Satürn|||土星||土星||||Saturnus|Saturn
 sau|sau|famil||hin:सहोदर (sahodar), ben:সহোদর (śôhodôr), tam:சகோதரன் (sahōdaraṉ), may:saudara|sibling (brother or sister)|Geschwisterchen|frère et sœur (adelphe, germain)|hermano o hermana||||सहोदर (भाई-बहन)|সহোদর|உடன்பிறந்தவன் (சகோதரன்)|saudara|شَقِيق‎|kardeş|ndugu||兄弟姐妹 (xiōngdì jiěmèi)||兄弟姉妹|형제자매|anh chị em|gefrato|sisarus (veli tai sisko)|rodzeństwo, brat lub siostra
 sau.ben|sau ben|famil|||nephew or niece||||||||||misan||yeğen|mpwa|||||조카|||sisaruksen lapsi|
 sau.doh|sau doh|famil|||niece|Nichte|nièce|sobrina|sobrinha|племянница||भतीजी|||||kız yeğen|||||姪|조카딸|||sisaruksen tytär|
@@ -3911,6 +3907,7 @@ soi.sos|soi sos||||soy sauce||sauce de soja|salsa de soja|molho de soja|соев
 soki|soki|||zho:搜 (sōu), yue:搜 (sau1), wuu:搜 (seu1), jpn:捜索 (sōsaku) + eng:seek, deu:suchen + rus:искать (iskat’)|search (seek, look for)||chercher|buscar|buscar (procurar)|искать||कुछ खोजना|||menggeledah||aramak|kutafuta||寻找||探す (捜索する)|||||szukać
 sol|sol|||spa:por:sol, fra:soleil, + hin:सौर (sOr), tel:(saur)|sun||soleil|sol|sol|солнце||सूरज|সূর্য||matahari|شَمْس||jua||太阳||太陽 (日)|해 (태양)||suno|aurinko|słońce
 sol.cati|sol cati||||parasol||ombrelle (parasol)|parasol|sombrinha|зонтик от солнца|||||||||||||||sunombrelo|aurinkovarjo|parasol
+sol.den|solden|den|7||Sunday||dimanche|domingo|domingo|воскресенье||रविवार|রবিবার||minggu|يوم الأحد|pazar|jumapili||星期日 (禮拜日)||日曜日|일요일|chủ nhật|dimanĉosunnuntai|niedziela|niedziela
 sol.estasi|sol estasi||||solstice|||solsticio||||||||||||||||||päivänseisaus|przesilenie
 sol.hua|sol hua|bio|Helianthus annus||sunflower||Tournesol|girasol|girassol|подсолнечный||||||||||向日葵||ヒマワリ|||||słonecznik
 sol.kentaur.hua|sol kentaur hua|bio|Centaurea solstitialis||yellow starthistle||Centaurée du solstice|abrepuño|||||||||||||||||||chaber wełnisty
@@ -4343,7 +4340,6 @@ Venjou|Venjou||||Wenzhou|||||||||||||||温州||||||Wenzhou|Wenzhou
 venjou.oranje|venjou oranje|bio|Citrus unshiu||satsuma mandarin||mandarine satsuma|unshu mikan||мандарин уншиу||||||||||温州蜜柑||ウンシュウミカン||||satsuma|mandarynka Satsuma (pomarańcza Satsuma)
 ventur|ventur|||deu:Abenteuer, spa:aventura, fra:aventure, rus:авантюра (avantyura), tur:avantür, eng:adventure|adventure (venture)||aventure|aventura|aventura|авантюра|||||petualangan||avantür (macera)|||冒险|||||aventuro|seikkailu|przygoda
 ventur.ja|ventur ja||||adventurer||aventurier|aventurero|aventureiro|авантюрист|||||||maceracı|||冒险者|||||aventuristo|seikkailija|poszukiwacz przygód (awanturnik)
-Venus|Venus|planeta 2|||Venus||Vénus|Venus|Vénus|Венера||||||الزهرة|Venüs|Zuhura||||||||Venus|Wenus
 ver|ver|||eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai|true (real, genuine, indeed, very)||vrai|verdadero|verdadeiro|верный|||||||||||||||vera|tosi (aito)|prawdziwy (rzeczywisty, szczery)
 veranda|veranda|||hin:बरामदा (barāmd), por:varanda, may:beranda, eng:veranda, rus:веранда (veranda), jpn:ベランダ (beranda), kor:베란다 (beranda), swa:varanda|veranda (balcony, terrace, porch)||balcon|balcón (terraza, veranda)|sacada (varanda)|балкон||छज्जा|||langkan (beranda)||balkon|baraza (varanda)||阳台||ベランダ (バルコニー, 縁側)|||verando (balkono)|kuisti (terassi, veranta, parveke)|weranda, balkon, taras, ganek
 verme|verme|||eng:worm, por:verme, fra:ver, deu:Wurm|worm||ver|verme|verme|||||||||||||||||mato|robak
@@ -4443,6 +4439,8 @@ xampan.vin|xampan vin|alkohol|||champagne||champagne|champaña|champanhe|шам�
 xan|xan|||zho:山 (shān), yue:山 (saan1), jpn:山 (san), kor:산 (san), vie:sơn|mountain (hill)|||montaña (colina)|||||||||||||||||monto|vuori (mäki)|góra, wzgórze
 xan.pike|xan pike||||top (peak, pinnacle, summit, apex, vertex)||cime (pic, sommet)|cima (pico, cumbre, vértice)|cume (pico, topo)|вершина||||||||||||頂点|||pinto|huippu|szczyt (wierzchołek)
 xanghai|xanghai|site|||Shanghai|||||||||||||||上海|||||||Szanghaj
+xani|Xani|planeta 6||hin:शनि (śani), ben:শনি (śôni), tam:சனி (saṉi), tha:เสาร์ (sǎo)|Saturn||Saturne|Saturno|Saturno|Сатурн||शनि|শনি|||زحل|Satürn|||土星||土星||||Saturnus|Saturn
+xani.den|xaniden|den|6||Saturday||samedi|sábado|sábado|суббота||शनिवार|শনিবার||sabtu|يَوم السبت|cumartesi|jumamosi||星期六 (礼拜六)||土曜日|토요일|thứ bảy|sabato|lauantai|sobota
 xanti|xanti|||hin:शांति (shānti), ben:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), mar:शांत (shānta), tel:శాంతి (shānti), guj:શાંતિ (shānti), khm:សន្តិ (sɑnte’), eng:por:shanti, rus:шанти (shanti), jpn:シャンティ (shanti)|rest (relief, repose)||repos|descanso (alivio)|descanso (repouso)|отдых||||||||||||||||lepo|zostawić (zostawiać)
 xanti.di|xanti di||||calm (peaceful, quiet)||calme (tranquille)|tranquilo (calmado)|tranquilo (calmo)|спокойный||शांत|||||||||||||trankvila (serena)|rauhallinen (levollinen, tyyni)|spokojny
 xarma|xarma|||fas:(šarm),  urd:(śarma), hin:शर्म (śarma), deu:Scham, eng:shame, rus:срам (sram)|shame (disgrace)|||vergüenza (pena)|||||||||||||||||honto|häpeä|wstyd (hańba, kompromitacja)
@@ -4628,6 +4626,8 @@ zoku|zoku|||wuu:续 (zoq), yue:續 (zuk6), jpn:続 (zoku), kor:속 (sok), vie:k�
 zombi|zombi|||kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)|zombie||zombi|zombi|zumbi|||ज़ोंबी||||||||||||||zombi|zombie, zombi
 zona|zona|||ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|belt (zone)||zone|cinturón (zona)|zona|пояс (зона)|||||||||||||||zono|vyö|pas, strefa
 zukam|zukam|||ara:زُكَام‎ (zukām), hin:ज़ुकाम (zukām) + zho:感(冒) (gǎn(mào)), jpn:感(冒) (kan(bō)), kor:감(기) (gam(gi)), vie:cảm|cold (illness)|||resfriado (catarro)||||||||||||||||||vilustuminen|przeziębienie, katar
+Zukra|Zukra|planeta 2||ara: الزُّهَرَة‎ (az-zuhara), swa:Zuhura, hau:Zaharatu, tur:Zühre, fas: زهره‎ (zohre), urd: زہرہ‎ (zuhra), may:Zuhrah + hin:शुक्र (śukra), ben:শুক্র (śukr), mya:သောကြာ (sau:kra), tha:ศุกร์ (sùk)|Venus||Vénus|Venus|Vénus|Венера||||||الزهرة|Venüs|Zuhura||||||||Venus|Wenus
+zukra.den|zukraden|den|5||Friday||vendredi|viernes|sexta-feira|пятница||शुक्रवार|সুক্রবার||jumat|يوم الجمعة|cuma|ijumaa||星期五 (禮拜五)||金曜日|금요일|thứ sáu|vendredo|perjantai|piątek
 zuku|zuku|||zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|ethnic group||ethnie|etnia|etnia|этнос||||||||||民族||民族|민족|dân tộc|etno|kansanryhmä (etninen ryhmä)|grupa etniczna
 zuku.di|zuku di||||ethnic||ethnique|étnico|étnico|этнический|||||||etnik|||||民族の|민족의||etna|etninen|etniczny
 zuku.medi.di|zuku medi di||||interethnic|||interétnica||межэтнический|||||||||||||||interetna|kansanryhmien välinen|międzyetniczny

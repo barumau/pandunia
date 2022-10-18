@@ -930,8 +930,8 @@
 **margai** ** ← angla:margay, hispana:maracayá, portugala:maracajá, rusa:маргай (margay), araba:مارج (mārǧ), japana:マーゲイ (māgei)  
 **margarin** *margarino* ← angla:franca:margarine, hispana:portugala:margarina, rusa:маргари́н (margarín), turka:margarin, hindia:मार्जरीन (mārjarīn), malaja:marjerin, mandarena:麦淇淋 (màiqílín), japana:マーガリン (māgarin)  
 **margarita** ** ← hispana:portugala:margarita, franca:marguerite, deu:Margerite, rusa:маргаритка (margaritka)  
+**Maris** ** ← greka:Άρης (Áris), angla:franca:turka:Mars, hispana:portugala:Marte, rusa:Марс (Mars) + araba: اَلْمِرِّيخ‎ (al-mirrīkh), svahila:Mirihi, malaja:Mars; Marikh  
 **marke** ** ← angla:mark, hispana:portugala:marca, franca:marque, korea:마크 (makeu), japana:マーク (māku)  
-**Marse** ** ← angla:franca:turka:malaja:Mars, hispana:portugala:Marte, rusa:Марс (Mars)  
 **masa** *maso* ← angla:mass, deu:franca:masse, hispana:masa, portugala:malaja:massa, rusa:масса (massa)  
 **masaje** ** ← angla:franca:massage, hispana:masaje, portugala:massagem, rusa:масса́ж (massáž), turka:masaj, araba:مَسَاج‎ (masāj), persa:ماساژ‎ (mâsâž), bengala:ম্যাসেজ (mjaśej), mandarena:马杀鸡 (mǎshājī), japana:マッサージ (massāji)  
 **masala** *spico* ← hindia:मसाला (masālā), urdua:(masālā), bengala:মসলা (môsla), svahila:masala  
@@ -1031,6 +1031,7 @@
 **muskul** *muskolo* ← angla:franca:muscle, hispana:portugala:músculo, deu:Muskel, rusa:му́скул (múskul), svahila:msuli  
 **musli** *muslio* ← angla:franca:hispana:portugala:muesli, rusa:мюсли (myusli), mandarena:木斯里 (mùsīlǐ), japana:ミューズリー (myūzurī), korea:뮈슬리 (mwiseulli), turka:müsli  
 **mute** *aliigi* ← hispana:mudar, portugala:mutação, angla:mutate, franca:muter, rusa:мутировать (mutirovat’)  
+**Muxin** ** ← mandarena:木星 (Mùxīng), kantona:木星 (muk6 sing1), korea:목성 (mokseong), vjetnama:Mộc tinh, japana:木星 (Mokusei) + araba: اَلْمُشْتَرِي‎ (al-muštarī), svahila:Mshtarii, malaja:Musytar  
 **muxu** *muso aŭ rato* ← rusa:мышь (myś), polona:mysz, persa: موش‎ (muš) + mandarena:鼠 (shǔ)  
 **muzika** *muziko* ← angla:music, franca:musique, hispana:portugala:música, rusa:музика (muzika), araba:(mūsīqā), svahila:muziki, turka:müzik, malaja:musik  
 **na** ** ← mandarena:拿 (ná), kantona:拿 (naa4) + deu:nehmen  
@@ -1574,6 +1575,7 @@
 **xam** *vespero* ← hindia:शाम (śām), bengala:শাম (śam), turka:akşam  
 **xaman** *ŝamano* ← angla:shaman, franca:chaman, hispana:chamán, rusa:шаман (šaman), turka:şaman, malaja:shaman, japana:シャーマン (shāman)  
 **xan** *monto* ← mandarena:山 (shān), kantona:山 (saan1), japana:山 (san), korea:산 (san), vjetnama:sơn  
+**Xani** ** ← hindia:शनि (śani), bengala:শনি (śôni), tamila:சனி (saṉi), taja:เสาร์ (sǎo)  
 **xanti** ** ← hindia:शांति (shānti), bengala:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), marataja:शांत (shānta), teluga:శాంతి (shānti), guĝarata:શાંતિ (shānti), kmera:សន្តិ (sɑnte’), angla:portugala:shanti, rusa:шанти (shanti), japana:シャンティ (shanti)  
 **xarma** *honto* ← persa:(šarm),  urdua:(śarma), hindia:शर्म (śarma), deu:Scham, angla:shame, rusa:срам (sram)  
 **xarnir** *ĉarniro (pivoto)* ← franca:charnière, hispana:charnela, deu:Scharnier, rusa:шарнир (šarnir)  
@@ -1660,5 +1662,6 @@
 **zombi** ** ← konga:nzambi, angla:zombie, hispana:turka:zombi, portugala:zumbi, rusa:зомби (zombi), araba:زُومْبِي‎ (zūmbī), hindia:ज़ोंबी (zombī), japana:ゾンビ (zonbi), korea:좀비 (jombi)  
 **zona** *zono* ← greka:ζώνη (zónē), angla:franca:zone, hispana:portugala:zona, rusa:зона (zona)  
 **zukam** ** ← araba:زُكَام‎ (zukām), hindia:ज़ुकाम (zukām) + mandarena:感(冒) (gǎn(mào)), japana:感(冒) (kan(bō)), korea:감(기) (gam(gi)), vjetnama:cảm  
+**Zukra** ** ← araba: الزُّهَرَة‎ (az-zuhara), svahila:Zuhura, haŭsa:Zaharatu, turka:Zühre, persa: زهره‎ (zohre), urdua: زہرہ‎ (zuhra), malaja:Zuhrah + hindia:शुक्र (śukra), bengala:শুক্র (śukr), birma:သောကြာ (sau:kra), taja:ศุกร์ (sùk)  
 **zuku** *etno* ← mandarena:族 (zú), kantona:族 (zuk6), japana:族 (zoku), korea:족 (jok), vjetnama:tộc  
 **zumarde** *smeraldo* ← angla:emerald, franca:émeraude, hispana:portugala:esmeralda, japana:エメラルド (emerarudo) + araba: زُمُرُّد‎ (zumurrud), svahila:zumaridi, malaja:zamrud, rusa:изумруд (izumrud), mandarena:祖母绿 (zǔmǔlǜ)  

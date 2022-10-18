@@ -369,13 +369,6 @@ defa bano - щит
 defa kaska - доспехи  
 deha - деревня (село)  
 den - день (сутки)  
-den un - понедельник  
-den du - вторник  
-den tri - среда  
-den nelu - четверг  
-den lima - пятница  
-den luka - суббота  
-den ceti - воскресенье  
 den loge - дневник  
 deu - бог  
 deu kata - миф  
@@ -835,7 +828,6 @@ jumla - фраза
 jun - юный  
 jun jen - юнец  
 jun moka - саженец  
-Jupiter - Юпитер  
 jus - сок  
 juste - точный  
 juste pau ja - снайпер  
@@ -1096,6 +1088,7 @@ luka - шесть (6)
 lulu table - счёты (абак)  
 lumen - لُومِن‎  
 luna - луна  
+lunaden - понедельник  
 luna keke - лунный пирог  
 luta ja - грабитель  
 Luter din - лютера́нство  
@@ -1128,7 +1121,8 @@ mar - раз
 marce - марш  
 margai - маргай  
 margarita - маргаритка  
-Marse - Марс  
+Maris - Марс  
+marisden - вторник  
 masa - масса  
 masa mula - клубень  
 masa mula sol hua - топинамбу́р  
@@ -1172,6 +1166,7 @@ memo note - меморандум
 mendelef yum - менделевий  
 meranti - шорея  
 Merkur - Меркурий  
+merkurden - среда  
 mes - месяц  
 mesaje - رِسالة‎  
 metan - метан  
@@ -1228,6 +1223,8 @@ murce - муравей
 mus - должен  
 muskul bina - культуризм  
 musli - мюсли  
+Muxin - Юпитер  
+muxinden - четверг  
 muxu - мышь  
 muzika - музика  
 
@@ -1567,7 +1564,6 @@ sar kexa - волосы
 sar kexa hin - лысый  
 sata - момент  
 sata di - моментальный (минутный)  
-Saturne - Сатурн  
 sau doh - племянница  
 sau son - племянник  
 saur - ящерица  
@@ -1627,6 +1623,7 @@ soi sos - соевый соус
 soki - искать  
 sol - солнце  
 sol cati - зонтик от солнца  
+solden - воскресенье  
 sol hua - подсолнечный  
 son - сын  
 • ansona - бессонница (инсомния)  
@@ -1804,7 +1801,6 @@ vende xope - торговля
 venjou oranje - мандарин уншиу  
 ventur - авантюра  
 ventur ja - авантюрист  
-Venus - Венера  
 ver - верный  
 veranda - балкон  
 vermute - вермут  
@@ -1850,6 +1846,8 @@ xaman - шаман
 xampan - Шампань  
 xampan vin - шампанское  
 xan pike - вершина  
+Xani - Сатурн  
+xaniden - суббота  
 xanti - отдых  
 xanti di - спокойный  
 xatan - противостоять  
@@ -1939,6 +1937,8 @@ zirkon - циркон
 zirkon yum - цирконий  
 zoku - ещё  
 zona - пояс (зона)  
+Zukra - Венера  
+zukraden - пятница  
 zuku - этнос  
 zuku di - этнический  
 zuku medi di - межэтнический  

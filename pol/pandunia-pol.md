@@ -795,13 +795,6 @@ demi krati ja - demokrata
 demi polita - populacja  
 demon - demon  
 den -   
-den un - poniedziałek  
-den du - wtorek  
-den tri - środa  
-den nelu - czwartek  
-den lima - piątek  
-den luka - sobota  
-den ceti - niedziela  
 den loge -   
 des - dziesięć (10)  
 des kilo - dziesięć tysięcy  
@@ -2091,7 +2084,6 @@ jun sis -
 junta - młodość  
 jung - gatunek  
 jupe - spódnica  
-Jupiter - Jowisz  
 jus - sok  
 juste - tylko (precyzyjny, dokładny)  
 juste pau ja - snajper (strzelec wyborowy)  
@@ -2648,6 +2640,7 @@ lulu table - abak (liczydło)
 lume -   
 lumen -   
 luna - księżyc  
+lunaden - poniedziałek  
 luna keke -   
 lung - smok  
 Lung Dexa - Bhutan  
@@ -2727,8 +2720,9 @@ margai - margaj (ocelot nadrzewny)
 margarin - margaryna  
 margarita - stokrotka  
 Mariana nesi - Mariany Północne  
+Maris - Mars  
+marisden - wtorek  
 marke - znak, trop  
-Marse - Mars  
 Marxal nesi - Wyspy Marshalla  
 masa - masa  
 masa mula - bulwa  
@@ -2827,6 +2821,7 @@ mer - należeć (być członkiem)
 mer - członek  
 meranti - damarzyk (meranti)  
 Merkur - Merkury  
+merkurden - środa  
 mes - miesiąc  
 mes bati - listopad  
 mes ceti - październik  
@@ -2988,6 +2983,8 @@ muskul - muskuł, mięsień
 muskul bina - kulturystyka  
 musli - musli  
 mute - zmienić, zmieniać  
+Muxin - Jowisz  
+muxinden - czwartek  
 muxu - mysz  
 muxu cakra -   
 muzika - muzyka  
@@ -3806,7 +3803,6 @@ sata - moment
 sata di - chwilowy  
 sata don - dedykować (poświęcać, poświęcić)  
 sata don ta - dedykacja (poświęcenie)  
-Saturne - Saturn  
 sau - rodzeństwo, brat lub siostra  
 sau ben -   
 sau doh -   
@@ -3940,6 +3936,7 @@ soi sos - sos sojowy
 soki - szukać  
 sol - słońce  
 sol cati - parasol  
+solden - niedziela  
 sol estasi - przesilenie  
 sol hua - słonecznik  
 sol kentaur hua - chaber wełnisty  
@@ -4377,7 +4374,6 @@ Venjou - Wenzhou
 venjou oranje - mandarynka Satsuma (pomarańcza Satsuma)  
 ventur - przygoda  
 ventur ja - poszukiwacz przygód (awanturnik)  
-Venus - Wenus  
 ver - prawdziwy (rzeczywisty, szczery)  
 veranda - weranda, balkon, taras, ganek  
 verme - robak  
@@ -4479,6 +4475,8 @@ xampan vin - samppanja
 xan - góra, wzgórze  
 xan pike - szczyt (wierzchołek)  
 xanghai - Szanghaj  
+Xani - Saturn  
+xaniden - sobota  
 xanti - zostawić (zostawiać)  
 xanti di - spokojny  
 xarma - wstyd (hańba, kompromitacja)  
@@ -4668,6 +4666,8 @@ zoku - wciąż, nadal; kontynuować, wznawiać, ponawiać
 zombi - zombie, zombi  
 zona - pas, strefa  
 zukam - przeziębienie, katar  
+Zukra - Wenus  
+zukraden - piątek  
 zuku - grupa etniczna  
 zuku di - etniczny  
 zuku medi di - międzyetniczny  

@@ -1610,7 +1610,7 @@ French Guiana - Franse Guyana
 French Polynesia - Franse Polinesi  
 frequency - poli marta  
 fresh - taza  
-Friday - den lima  
+Friday - zukraden  
 friend - dosti  
 friendless - dosti hin  
 friendly (kind, nice, gentle) - dosti di  
@@ -2156,7 +2156,7 @@ July - mes ceti
 jump - jampe  
 June - mes luka  
 junior fellow (kouhai) - jun bei  
-Jupiter - Jupiter  
+Jupiter - Muxin  
 just (fair, righteous) - adil  
 just (precise, exact, accurate) - juste  
 just (recently) - a neu  
@@ -2495,7 +2495,7 @@ Marrakech - Marakux
 marriage (matrimony) - gam  
 married - gam di  
 marry - fa gami  
-Mars - Marse  
+Mars - Maris  
 marsh (bog, swamp, morass) - poto stan  
 Marshall Islands - Marxal nesi  
 martial art - jang suta  
@@ -2653,7 +2653,7 @@ moment (instant) - sata
 moment (while) - cana  
 momentary - sata di  
 Monaco - Monako  
-Monday - den un  
+Monday - lunaden  
 money - pesa  
 Mongolia - Mongol  
 Mongolian - mongol di  
@@ -3645,8 +3645,8 @@ sapling - you moke
 Satanism (devil worship) - xatan din  
 Satanist - xatan din ja  
 satsuma mandarin - venjou oranje  
-Saturday - den luka  
-Saturn - Saturne  
+Saturday - xaniden  
+Saturn - Xani  
 sauce - sos  
 Saudi Arabia - Saudi Arabi  
 sauna - sauna  
@@ -4038,7 +4038,7 @@ sum up (add together) - fa sum
 summer - garma mosim  
 summon (add, spawn, actualize) - fa zai  
 sun - sol  
-Sunday - den ceti  
+Sunday - solden  
 sunflower - sol hua  
 Sunni Islam (Sunnism) - suna islam din  
 superb (wonderful, super) - super  
@@ -4212,7 +4212,7 @@ Thule - Tule
 thulium - tule yum  
 thunder (roaring) - grom  
 thunderstorm - grom tufan  
-Thursday - den nelu  
+Thursday - muxinden  
 Tibet - Bote  
 tick (mite) - akare  
 tie (fasten, bind) - fa bande  
@@ -4323,7 +4323,7 @@ try (attempt) - teste
 try (attempt, give a go, check out, probe) - proba  
 tube (pipe) - tubo  
 tuber (bulb) - masa mula  
-Tuesday - den du  
+Tuesday - marisden  
 tulip - tulpan  
 tuna - tuna  
 tundra - tundra  
@@ -4428,7 +4428,7 @@ vegetarian - fito yam sim ja
 veil (cover, screen) - hijabu  
 velum - boka vele  
 Venezuela - Venezuela  
-Venus - Venus  
+Venus - Zukra  
 veranda (balcony, terrace, porch) - veranda  
 verb - kar lexi  
 verbal irony (sarcasm) - loga ironi  
@@ -4525,7 +4525,7 @@ wear (dress, put on) - fa fuku
 weather - sama hal  
 weave (knit) - fa tela  
 website - nete loka  
-Wednesday - den tri  
+Wednesday - merkurden  
 week - cetiden  
 weft - vei lin  
 weight (heft, gravity) - veze  

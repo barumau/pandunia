@@ -337,13 +337,6 @@ defa kaska - armadura
 deha - aldeia (vila)  
 dele - demora (atraso, espera)  
 den - dia (24 horas)  
-den un - segunda-feira  
-den du - terça-feira  
-den tri - quarta-feira  
-den nelu - quinta-feira  
-den lima - sexta-feira  
-den luka - sábado  
-den ceti - domingo  
 den loge - diário  
 des - dez  
 deu - deus  
@@ -760,7 +753,6 @@ juba - manto
 jude ja - juiz  
 jul - joule (J)  
 jun - jovem  
-Jupiter - Júpiter  
 jus - suco (sumo)  
 juste - exato (preciso)  
 
@@ -1017,6 +1009,7 @@ luka - seis (6)
 lulu table - ábaco  
 lumen - люмен  
 luna - lua  
+lunaden - segunda-feira  
 luna keke - bolo lunar  
 luta ja - ladrão  
 Luter din - luteranismo  
@@ -1048,8 +1041,9 @@ mar - vez
 marce - marcha  
 margai - gato-maracajá  
 margarita - margarida  
+Maris - Marte  
+marisden - terça-feira  
 marke - mancha (marca)  
-Marse - Marte  
 masa - massa  
 masa mula - tubérculo  
 masa mula sol hua - alcachofra-girassol (tupinambo)  
@@ -1089,6 +1083,7 @@ mendelef yum - mendelévio
 meninge - meninge  
 meranti - meranti  
 Merkur - Mercúrio  
+merkurden - quarta-feira  
 mes - mês  
 mesaje - месседж  
 metan - metano  
@@ -1148,6 +1143,8 @@ mur kaguji - papel de parede
 mus - dever  
 muskul bina - fisiculturismo  
 musli - muesli  
+Muxin - Júpiter  
+muxinden - quinta-feira  
 muxu - rato  
 muzika - música  
 
@@ -1475,7 +1472,6 @@ sar kexa - cabelo
 sar kexa hin - calvo  
 sata - momento (instante)  
 sata di - momentâneo  
-Saturne - Saturno  
 sau doh - sobrinha  
 sau son - sobrinho  
 saur - lagarto  
@@ -1527,6 +1523,7 @@ soi sos - molho de soja
 soki - buscar (procurar)  
 sol - sol  
 sol cati - sombrinha  
+solden - domingo  
 sol hua - girassol  
 son - filho  
 sona - sono  
@@ -1673,7 +1670,6 @@ varis - arroz
 vende - vender  
 ventur - aventura  
 ventur ja - aventureiro  
-Venus - Vénus  
 ver - verdadeiro  
 veranda - sacada (varanda)  
 verme - verme  
@@ -1713,6 +1709,8 @@ xam - noitinha
 xampan - Champagne  
 xampan vin - champanhe  
 xan pike - cume (pico, topo)  
+Xani - Saturno  
+xaniden - sábado  
 xanti - descanso (repouso)  
 xanti di - tranquilo (calmo)  
 xatan - opor  
@@ -1793,6 +1791,8 @@ zirkon yum - zircónio
 zoku - ainda  
 zombi - zumbi  
 zona - zona  
+Zukra - Vénus  
+zukraden - sexta-feira  
 zuku - etnia  
 zuku di - étnico  
 zumarde - esmeralda  

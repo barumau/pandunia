@@ -963,8 +963,8 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**margai**|eng:margay, spa:maracayá, por:maracajá, rus:маргай (margay), ara:مارج (mārǧ), jpn:マーゲイ (māgei)|
 |**margarin**|eng:fra:margarine, spa:por:margarina, rus:маргари́н (margarín), tur:margarin, hin:मार्जरीन (mārjarīn), may:marjerin, zho:麦淇淋 (màiqílín), jpn:マーガリン (māgarin)|
 |**margarita**|spa:por:margarita, fra:marguerite, deu:Margerite, rus:маргаритка (margaritka)|
+|**Maris**|ell:Άρης (Áris), eng:fra:tur:Mars, spa:por:Marte, rus:Марс (Mars) + ara: اَلْمِرِّيخ‎ (al-mirrīkh), swa:Mirihi, may:Mars; Marikh|
 |**marke**|eng:mark, spa:por:marca, fra:marque, kor:마크 (makeu), jpn:マーク (māku)|
-|**Marse**|eng:fra:tur:may:Mars, spa:por:Marte, rus:Марс (Mars)|
 |**masa**|eng:mass, deu:fra:masse, spa:masa, por:may:massa, rus:масса (massa)|
 |**masaje**|eng:fra:massage, spa:masaje, por:massagem, rus:масса́ж (massáž), tur:masaj, ara:مَسَاج‎ (masāj), fas:ماساژ‎ (mâsâž), ben:ম্যাসেজ (mjaśej), zho:马杀鸡 (mǎshājī), jpn:マッサージ (massāji)|
 |**masala**|hin:मसाला (masālā), urd:(masālā), ben:মসলা (môsla), swa:masala|
@@ -1064,6 +1064,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**muskul**|eng:fra:muscle, spa:por:músculo, deu:Muskel, rus:му́скул (múskul), swa:msuli|
 |**musli**|eng:fra:spa:por:muesli, rus:мюсли (myusli), zho:木斯里 (mùsīlǐ), jpn:ミューズリー (myūzurī), kor:뮈슬리 (mwiseulli), tur:müsli|
 |**mute**|spa:mudar, por:mutação, eng:mutate, fra:muter, rus:мутировать (mutirovat’)|
+|**Muxin**|zho:木星 (Mùxīng), yue:木星 (muk6 sing1), kor:목성 (mokseong), vie:Mộc tinh, jpn:木星 (Mokusei) + ara: اَلْمُشْتَرِي‎ (al-muštarī), swa:Mshtarii, may:Musytar|
 |**muxu**|rus:мышь (myś), pol:mysz, fas: موش‎ (muš) + zho:鼠 (shǔ)|
 |**muzika**|eng:music, fra:musique, spa:por:música, rus:музика (muzika), ara:(mūsīqā), swa:muziki, tur:müzik, may:musik|
 |**na**|zho:拿 (ná), yue:拿 (naa4) + deu:nehmen|
@@ -1607,6 +1608,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**xam**|hin:शाम (śām), ben:শাম (śam), tur:akşam|
 |**xaman**|eng:shaman, fra:chaman, spa:chamán, rus:шаман (šaman), tur:şaman, may:shaman, jpn:シャーマン (shāman)|
 |**xan**|zho:山 (shān), yue:山 (saan1), jpn:山 (san), kor:산 (san), vie:sơn|
+|**Xani**|hin:शनि (śani), ben:শনি (śôni), tam:சனி (saṉi), tha:เสาร์ (sǎo)|
 |**xanti**|hin:शांति (shānti), ben:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), mar:शांत (shānta), tel:శాంతి (shānti), guj:શાંતિ (shānti), khm:សន្តិ (sɑnte’), eng:por:shanti, rus:шанти (shanti), jpn:シャンティ (shanti)|
 |**xarma**|fas:(šarm),  urd:(śarma), hin:शर्म (śarma), deu:Scham, eng:shame, rus:срам (sram)|
 |**xarnir**|fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)|
@@ -1693,5 +1695,6 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**zombi**|kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)|
 |**zona**|ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|
 |**zukam**|ara:زُكَام‎ (zukām), hin:ज़ुकाम (zukām) + zho:感(冒) (gǎn(mào)), jpn:感(冒) (kan(bō)), kor:감(기) (gam(gi)), vie:cảm|
+|**Zukra**|ara: الزُّهَرَة‎ (az-zuhara), swa:Zuhura, hau:Zaharatu, tur:Zühre, fas: زهره‎ (zohre), urd: زہرہ‎ (zuhra), may:Zuhrah + hin:शुक्र (śukra), ben:শুক্র (śukr), mya:သောကြာ (sau:kra), tha:ศุกร์ (sùk)|
 |**zuku**|zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|
 |**zumarde**|eng:emerald, fra:émeraude, spa:por:esmeralda, jpn:エメラルド (emerarudo) + ara: زُمُرُّد‎ (zumurrud), swa:zumaridi, may:zamrud, rus:изумруд (izumrud), zho:祖母绿 (zǔmǔlǜ)|

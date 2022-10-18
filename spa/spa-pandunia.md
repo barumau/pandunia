@@ -1225,7 +1225,7 @@ domar (amansar) - fa dosil
 domesticado - dosil gene di  
 domesticar (cultivate) - fa dosil gene  
 dominar - maste  
-domingo - den ceti  
+domingo - solden  
 Dominica - Dominika  
 dominio (reinado) - krati  
 dominó - domino geme  
@@ -2093,7 +2093,7 @@ judío - yehudi
 juego - geme  
 juego de mazmorras - donjon ventur  
 juego de mesa - bano geme  
-jueves - den nelu  
+jueves - muxinden  
 juez (árbitro, réferi) - jude ja  
 jugador - geme ja  
 jugar un juego - fa geme  
@@ -2102,7 +2102,7 @@ jugo (zumo) - jus
 julio - mes ceti  
 junio - mes luka  
 juntos - a kon  
-Jupiter - Jupiter  
+Jupiter - Muxin  
 justicia - adilta  
 justo - adil  
 juventud - junnen  
@@ -2267,7 +2267,7 @@ lugar - loka
 lugar de nacimiento - nati loka  
 lujuria (deseo) - kama  
 luna - luna  
-lunes - den un  
+lunes - lunaden  
 lutecio - lutesi yum  
 luteranismo - Luter din  
 luterano - Luter din ja  
@@ -2372,8 +2372,8 @@ mariposa (palomilla) - pelpel
 marmól - kalsi bilor  
 Marruecos - Magribi dexa  
 marrón - kafe rang  
-Marte - Marse  
-martes - den du  
+Marte - Maris  
+martes - marisden  
 martillo (mazo) - hamar  
 marzo - mes tri  
 marítimo - hai di  
@@ -2500,7 +2500,7 @@ mismo (yo) - auto
 missionário - mitioner  
 missão - mition  
 mito (cuento divino) - deu kata  
-miércoles - den tri  
+miércoles - merkurden  
 mochila - ruke sake  
 moda (moderno, popular) - faxon di  
 moda (tendencia) - faxon  
@@ -3479,7 +3479,7 @@ sartén - tava
 satanismo - xatan din  
 satanista - xatan din ja  
 Satanás - xatan ja  
-Saturno - Saturne  
+Saturno - Xani  
 satánico - xatan di  
 sauna - sauna  
 se - se  
@@ -3648,7 +3648,7 @@ sustantivo - nam loga
 sustituir (reemplezar) - fa vise  
 susurrar (curjir) - xaxa  
 Svalbard - Sualbarde  
-sábado - den luka  
+sábado - xaniden  
 sándwich (sánduche) - sanduice  
 sí - ya  
 sílaba - lexi fen  
@@ -3937,7 +3937,7 @@ veneno (toxina) - toxi
 Venezuela - Venezuela  
 venir - lai  
 ventana - janela  
-Venus - Venus  
+Venus - Zukra  
 ver (mirar) - vide  
 verano - garma mosim  
 verbo - kar lexi  
@@ -3972,7 +3972,7 @@ viejo (anciano) - lau
 viejo (anciano) - lau jen  
 viejo (antiguo) - cen zaman di  
 viento - hava  
-viernes - den lima  
+viernes - zukraden  
 Vietnam - Viete  
 vigilante (guardia) - garde ja  
 vigilar (guardar) - garde  

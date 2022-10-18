@@ -1390,7 +1390,7 @@ cztery (4) - nelu
 czuć - tocu sense  
 czuć (poczuć, postrzegać, wykrywać) - fa sense  
 czuć, odczuć, odczuwać - be gamo  
-czwartek - den nelu  
+czwartek - muxinden  
 czyn, uczynek - fate  
 czysty - safa  
 czysty (higieniczny, sanitarny) - salu safa di  
@@ -1980,7 +1980,7 @@ jogurt - yogur
 jon - ion  
 Jordan - Urdun  
 Joruba - Yoruba  
-Jowisz - Jupiter  
+Jowisz - Muxin  
 judaizm - yehudi din  
 judo - judau  
 jurta - yurta  
@@ -2426,7 +2426,7 @@ margaryna - margarin
 Mariany Północne - Mariana nesi  
 marmur - kalsi bilor  
 Maroko - Magribi dexa  
-Mars - Marse  
+Mars - Maris  
 martwić - be duka  
 marynarka (flota) - hai ordu  
 marynować - acar  
@@ -2705,7 +2705,7 @@ niebieskozielony (cyjan) - cian
 niebo - sama  
 niech my, hajda - haide  
 niechętny - anicija  
-niedziela - den ceti  
+niedziela - solden  
 niedźwiedź - baru  
 nieliczność - kamta  
 Niemcy - Doice  
@@ -3039,7 +3039,7 @@ pizza - piza
 pizzeria - pizakan  
 pióro - pena  
 pióro, długopis - kalam  
-piątek - den lima  
+piątek - zukraden  
 pięciokąt (pentagon) - lima gona  
 pięciościan (pryzmat) - lima fase  
 piękno - meita  
@@ -3134,7 +3134,7 @@ pomoc, wsparcie - mede
 pomodlić się, modlić się - fa dua  
 pompować - pompe  
 pomóc, pomagać, asystować - fa mede  
-poniedziałek - den un  
+poniedziałek - lunaden  
 ponieważ, bo - a sabu de  
 poniższy - nice di  
 popełnić błąd - fa galte  
@@ -3579,7 +3579,7 @@ sardela - ancovi
 sarkazm - loga ironi  
 satanista - xatan din ja  
 satanizm - xatan din  
-Saturn - Saturne  
+Saturn - Xani  
 sauna - sauna  
 sawanna - garma zona caustan  
 sałata - letus  
@@ -3664,7 +3664,7 @@ smok - lung
 smutny - duku di  
 smycz (cugiel, lejc, wodza) - lida lin  
 snajper (strzelec wyborowy) - juste pau ja  
-sobota - den luka  
+sobota - xaniden  
 socjalista - sosi sim ja  
 socjalizm - sosi sim  
 socjalizować się - fa sosi  
@@ -4149,7 +4149,7 @@ wegetarianin - fito yam sim ja
 wejście - inmun  
 welon (woalka) - hijabu  
 Wenezuela - Venezuela  
-Wenus - Venus  
+Wenus - Zukra  
 Wenzhou - Venjou  
 weranda, balkon, taras, ganek - veranda  
 wermut - vermute  
@@ -4276,7 +4276,7 @@ wstrzyknąć, wstrzykiwać - fa juxa
 wstyd (hańba, kompromitacja) - xarma  
 wszyscy, wszystkie, wszystko; każdy - pan  
 wszystko - pan xe  
-wtorek - den du  
+wtorek - marisden  
 wulkan - hogo xan  
 wy, was - tumen  
 wybrać (wybierać, selekcjonować; wybór, elekcja, selekcja) - cun  
@@ -4587,7 +4587,7 @@ zły, zrujnowany, zepsuty - harabu
 śnieg - hima  
 śpiewać (piosenka, pieśń) - gani  
 średni - medi di  
-środa - den tri  
+środa - merkurden  
 środek - medi  
 środkowy, centralny - jong  
 środowiskowy, naturalny - eko di  

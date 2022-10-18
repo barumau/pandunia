@@ -805,13 +805,6 @@ demi krati ja - demokraatti
 demi polita - väenpaljous  
 demon - demoni (piru)  
 den - päivä (vuorokausi)  
-den un - maanantai  
-den du - tiistai  
-den tri - keskiviikko  
-den nelu - torstai  
-den lima - perjantai  
-den luka - lauantai  
-den ceti - niedziela  
 den loge - päiväkirja  
 des - kymmenen (10)  
 des kilo - sata tuhatta  
@@ -2015,7 +2008,6 @@ jun sis - pikkusisko
 junta - nuoruus  
 jung - laji  
 jupe - hame  
-Jupiter - Jupiter  
 jus - mehu  
 juste - juuri (tarkka, täsmällinen)  
 juxa - ruiske (injektio)  
@@ -2479,6 +2471,7 @@ luka gona - kuusikulmio
 lulu - helmi  
 lulu table - helmitaulu  
 luna - kuu  
+lunaden - maanantai  
 luna keke - kuukakku  
 lung - itämainen lohikäärme  
 Lung Dexa - Bhutan  
@@ -2551,8 +2544,9 @@ marati - marathi (eräs intialainen kieli)
 maraton - maratoni  
 marce - kävely (marssi)  
 margarin - margariini  
+Maris - Mars  
+marisden - tiistai  
 marke - merkki (jälki)  
-Marse - Mars  
 Marxal nesi - Marshall-saaret  
 masa - massa  
 masaje - hieronta  
@@ -2635,6 +2629,7 @@ mer - kuulua (olla jäsenenä)
 mer - jäsen (osatekijä, komponentti)  
 meranti - merantipuu  
 Merkur - Merkurius  
+merkurden - keskiviikko  
 mes - kuukausi  
 mes bati - elokuu  
 mes ceti - heinäkuu  
@@ -2777,6 +2772,8 @@ muskul - lihas
 muskul bina - kehonrakennus (bodaus)  
 musli - mysli  
 mute - muuttaa (muuntaa)  
+Muxin - Jupiter  
+muxinden - torstai  
 muxu - hiiri tai rotta  
 muzika - musiikki  
 muzika ja - muusikko  
@@ -3481,7 +3478,6 @@ sar kexa hin - kaljupäinen
 sar oste - pääkallo  
 sata - hetki (kotva, ajankohta)  
 sata di - hetkellinen  
-Saturne - Saturnus  
 sau - sisarus (veli tai sisko)  
 sau ben - sisaruksen lapsi  
 sau doh - sisaruksen tytär  
@@ -3592,6 +3588,7 @@ soi milke - soijamaito
 soi sos - soijakastike  
 sol - aurinko  
 sol cati - aurinkovarjo  
+solden - niedziela  
 sol estasi - päivänseisaus  
 sol sistem - aurinkokunta  
 Solomon nesi - Salomon-saaret  
@@ -3995,7 +3992,6 @@ Venjou - Wenzhou
 venjou oranje - satsuma  
 ventur - seikkailu  
 ventur ja - seikkailija  
-Venus - Venus  
 ver - tosi (aito)  
 veranda - kuisti (terassi, veranta, parveke)  
 verme - mato  
@@ -4092,6 +4088,8 @@ xaman - šamaani
 xampan vin - ĉampano  
 xan - vuori (mäki)  
 xan pike - huippu  
+Xani - Saturnus  
+xaniden - lauantai  
 xanti - lepo  
 xanti di - rauhallinen (levollinen, tyyni)  
 xarma - häpeä  
@@ -4267,6 +4265,8 @@ zoku - vielä (yhä, jatkua)
 zombi - zombi  
 zona - vyö  
 zukam - vilustuminen  
+Zukra - Venus  
+zukraden - perjantai  
 zuku - kansanryhmä (etninen ryhmä)  
 zuku di - etninen  
 zuku medi di - kansanryhmien välinen  

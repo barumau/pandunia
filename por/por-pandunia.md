@@ -522,7 +522,7 @@ dobro - dupli
 documento - dokumen  
 documentário - dokumen filme  
 dois (2) - du  
-domingo - den ceti  
+domingo - solden  
 doméstico - dom di  
 dormir - be sona  
 droga (narcótico) - narko  
@@ -885,7 +885,7 @@ jugo - yogo
 juiz - jude ja  
 justiça - adilta  
 justo - adil  
-Júpiter - Jupiter  
+Júpiter - Muxin  
 
 ## K  
 
@@ -1005,7 +1005,7 @@ margem (borda) - kinar
 marinha - hai ordu  
 marinheiro - hai vala  
 Marrocos - Magribi dexa  
-Marte - Marse  
+Marte - Maris  
 marítimo - hai di  
 mas - ama  
 massa - masa  
@@ -1380,7 +1380,7 @@ pós-natal - posnati
 pós-produção - posprodute  
 quadrinhos (banda desenhada) - grafi kata  
 quando - ke sata  
-quarta-feira - den tri  
+quarta-feira - merkurden  
 quarteirão - mahala  
 quartel - ordu jen kan  
 quarto (dormitório) - sona kamar  
@@ -1402,7 +1402,7 @@ quiabo - bamia
 quilate - kirate  
 quimono - kimono  
 quincã (cunquate) - gingam  
-quinta-feira - den nelu  
+quinta-feira - muxinden  
 quisque (pavilhão) - kioske  
 quivi - kivi  
 quivi - kivi frute  
@@ -1508,7 +1508,7 @@ sanduíche - sanduice
 sangue - hemi  
 sariguê (gambá, cuíca) - aposum  
 Satanás - xatan ja  
-Saturno - Saturne  
+Saturno - Xani  
 saudação - salam  
 saudável (saudio) - salu  
 saúde - saludo  
@@ -1518,7 +1518,7 @@ se - se
 seabórgio - siborge yum  
 seda - silke  
 sede - sui yau  
-segunda-feira - den un  
+segunda-feira - lunaden  
 seguro - sekur  
 seio (mama) - titi  
 seis (6) - luka  
@@ -1539,7 +1539,7 @@ serra - sera
 sete (7) - ceti  
 sexo - jinse  
 sexologia - sexe logi  
-sexta-feira - den lima  
+sexta-feira - zukraden  
 significar (querer dizer) - semi  
 silencioso - tix  
 silêncio - tixta  
@@ -1573,7 +1573,7 @@ sunismo - suna islam din
 suor - sueda  
 suástica (cruz gamada) - huke krus  
 Suíça - Suise  
-sábado - den luka  
+sábado - xaniden  
 São Paulo - Sante Paulo  
 século - sento nen  
 série (sequência) - seri  
@@ -1623,7 +1623,7 @@ terra natal - nati stan
 terracota - baka poto  
 terraplanista - plate geo sim ja  
 terreno - geo forme  
-terça-feira - den du  
+terça-feira - marisden  
 tia - cin sis  
 tigre - bagre  
 tijolo - dobe  
@@ -1745,7 +1745,7 @@ voto - vote
 vulcão - hogo xan  
 vulva - vulva  
 vários - vari  
-Vénus - Venus  
+Vénus - Zukra  
 véu - hijabu  
 waffle - vafle  
 

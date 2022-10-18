@@ -445,13 +445,6 @@ defa bano - bouclire
 defa kaska - armure  
 deha - village  
 dele - délai (retard)  
-den un - lundi  
-den du - mardi  
-den tri - mercredi  
-den nelu - jeudi  
-den lima - vendredi  
-den luka - samedi  
-den ceti - dimanche  
 den loge - journal  
 deu - dieu  
 deu kata - mythe  
@@ -943,7 +936,6 @@ jul - joule (J)
 jun - jeune (junior)  
 jun moka - pousse  
 junnen - jeunesse  
-Jupiter - Jupiter  
 jus - jus  
 juste - justo (exact, précis)  
 
@@ -1207,6 +1199,7 @@ luka - six (6)
 lulu table - abaque (boulier compteur)  
 lumen - lumen  
 luna - lune  
+lunaden - lundi  
 luna keke - gâteau de lune  
 lung dou - pois carré  
 luta ja - brigand (bandit)  
@@ -1240,8 +1233,9 @@ mar - fois
 Marakux - Marrakech  
 marce - marche  
 margai - margay (chat-tigre)  
+Maris - Mars  
+marisden - mardi  
 marke - trace  
-Marse - Mars  
 masa - masse  
 masa mula - tubercule  
 masa mula sol hua - topinambour  
@@ -1280,6 +1274,7 @@ mendelef yum - mendélévium
 meninge - méninge  
 meranti - balau (meranti)  
 Merkur - Mercure  
+merkurden - mercredi  
 mes - mois  
 mes bati - août  
 mesaje - mensaje  
@@ -1347,6 +1342,8 @@ murce - fourmi
 mus - devoir  
 muskul bina - culturisme (musculation)  
 musli - musli  
+Muxin - Jupiter  
+muxinden - jeudi  
 muxu - souris  
 muzika - musique  
 
@@ -1700,7 +1697,6 @@ sar hin - acéphale (sans tête)
 sar kexa - cheveux  
 sar kexa hin - chauve  
 sata di - momentané  
-Saturne - Saturne  
 sau - frère et sœur (adelphe, germain)  
 sau doh - nièce  
 sau son - neveu  
@@ -1758,6 +1754,7 @@ soi sos - sauce de soja
 soki - chercher  
 sol - soleil  
 sol cati - ombrelle (parasol)  
+solden - dimanche  
 sol hua - Tournesol  
 sol kentaur hua - Centaurée du solstice  
 son - fils  
@@ -1931,7 +1928,6 @@ Venezuela - Venezuela
 venjou oranje - mandarine satsuma  
 ventur - aventure  
 ventur ja - aventurier  
-Venus - Vénus  
 ver - vrai  
 veranda - balcon  
 verme - ver  
@@ -1975,6 +1971,8 @@ xam - soir (soirée)
 xampan - Champagne  
 xampan vin - champagne  
 xan pike - cime (pic, sommet)  
+Xani - Saturne  
+xaniden - samedi  
 xanti - repos  
 xanti di - calme (tranquille)  
 xatan - s'opposer à  
@@ -2068,6 +2066,8 @@ zirkon yum - zirconium
 zoku - continuer (poursuivre, encore)  
 zombi - zombi  
 zona - zone  
+Zukra - Vénus  
+zukraden - vendredi  
 zuku - ethnie  
 zuku di - ethnique  
 Zulu - zoulou  

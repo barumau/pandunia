@@ -597,7 +597,7 @@ dichotomie - dutomi
 dieu - deu  
 différence - alo sifa  
 différent - alo sifa di  
-dimanche - den ceti  
+dimanche - solden  
 dinde (dindon) - dinde  
 dinosaure - dino saur  
 diorite - diorite  
@@ -967,7 +967,7 @@ jaïnisme - jain din
 je (me) - mi  
 jeu de dames - dama geme  
 jeu de société - bano geme  
-jeudi - den nelu  
+jeudi - muxinden  
 jeune (junior) - jun  
 jeunesse - junnen  
 joug - yogo  
@@ -975,7 +975,7 @@ joule (J) - jul
 jour - dia  
 journal - den loge  
 juje - jude ja  
-Jupiter - Jupiter  
+Jupiter - Muxin  
 jus - jus  
 jusque (jusqu’à) - hata  
 juste - adil  
@@ -1072,7 +1072,7 @@ luisant (brillant) - foto mira di
 lumen - lumen  
 lumière - foto  
 lumière du jour - dia foto  
-lundi - den un  
+lundi - lunaden  
 lune - luna  
 luthéranisme - Luter din  
 luthérien - Luter din ja  
@@ -1112,13 +1112,13 @@ marbre - kalsi bilor
 marche - marce  
 marcher - grese  
 marché (bazar) - bazar  
-mardi - den du  
+mardi - marisden  
 margay (chat-tigre) - margai  
 marguerite - baku margarite  
 mariage - gam  
 Maroc - Magribi dexa  
 Marrakech - Marakux  
-Mars - Marse  
+Mars - Maris  
 marécage (marais) - poto stan  
 masque - maska  
 masse - masa  
@@ -1143,7 +1143,7 @@ menthe verte - kane minte
 menu (carte) - yam liste  
 mer - hai  
 merci - xukur  
-mercredi - den tri  
+mercredi - merkurden  
 mercure - hidrargente  
 Mercure - Merkur  
 merde - xite  
@@ -1679,7 +1679,7 @@ salle de muscu - balakan
 salut (salam) - salam  
 salut - sal  
 samarium - samari yum  
-samedi - den luka  
+samedi - xaniden  
 Samoa américaines - Amerika Samoa  
 sandwich - sanduice  
 sang - hemi  
@@ -1688,7 +1688,7 @@ santé - saluta
 sapin - abies  
 sarigue (opossum) - aposum  
 Satan - xatan ja  
-Saturne - Saturne  
+Saturne - Xani  
 sauce - sos  
 sauce de soja - soi sos  
 saucisse - sosis  
@@ -1921,7 +1921,7 @@ vanadium - vanadi yum
 vapeur d’eau - sui gas  
 varech - yepa alga  
 vendre - vende  
-vendredi - den lima  
+vendredi - zukraden  
 Venezuela - Venezuela  
 venir - lai  
 ver - verme  
@@ -1973,7 +1973,7 @@ voûte - arka cati
 vrai - ver  
 vulve - vulva  
 végétarien - fito yam sim ja  
-Vénus - Venus  
+Vénus - Zukra  
 vêtements - fuku  
 vœu (promesse) - vode  
 wolof - Volof  

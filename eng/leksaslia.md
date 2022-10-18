@@ -930,8 +930,8 @@
 **margai** *margay* ← English:margay, Spanish:maracayá, Portuguese:maracajá, Russian:маргай (margay), Arabic:مارج (mārǧ), Japanese:マーゲイ (māgei)  
 **margarin** *margarine* ← English:French:margarine, Spanish:Portuguese:margarina, Russian:маргари́н (margarín), Turkish:margarin, Hindi:मार्जरीन (mārjarīn), Malay:marjerin, Mandarin:麦淇淋 (màiqílín), Japanese:マーガリン (māgarin)  
 **margarita** *daisy* ← Spanish:Portuguese:margarita, French:marguerite, deu:Margerite, Russian:маргаритка (margaritka)  
+**Maris** *Mars* ← Greek:Άρης (Áris), English:French:Turkish:Mars, Spanish:Portuguese:Marte, Russian:Марс (Mars) + Arabic: اَلْمِرِّيخ‎ (al-mirrīkh), Swahili:Mirihi, Malay:Mars; Marikh  
 **marke** *mark (trace)* ← English:mark, Spanish:Portuguese:marca, French:marque, Korean:마크 (makeu), Japanese:マーク (māku)  
-**Marse** *Mars* ← English:French:Turkish:Malay:Mars, Spanish:Portuguese:Marte, Russian:Марс (Mars)  
 **masa** *mass (quantity of matter)* ← English:mass, deu:French:masse, Spanish:masa, Portuguese:Malay:massa, Russian:масса (massa)  
 **masaje** *massage* ← English:French:massage, Spanish:masaje, Portuguese:massagem, Russian:масса́ж (massáž), Turkish:masaj, Arabic:مَسَاج‎ (masāj), Persian:ماساژ‎ (mâsâž), Bengali:ম্যাসেজ (mjaśej), Mandarin:马杀鸡 (mǎshājī), Japanese:マッサージ (massāji)  
 **masala** *spice (seasoning)* ← Hindi:मसाला (masālā), Urdu:(masālā), Bengali:মসলা (môsla), Swahili:masala  
@@ -1031,6 +1031,7 @@
 **muskul** *muscle* ← English:French:muscle, Spanish:Portuguese:músculo, deu:Muskel, Russian:му́скул (múskul), Swahili:msuli  
 **musli** *muesli* ← English:French:Spanish:Portuguese:muesli, Russian:мюсли (myusli), Mandarin:木斯里 (mùsīlǐ), Japanese:ミューズリー (myūzurī), Korean:뮈슬리 (mwiseulli), Turkish:müsli  
 **mute** *change (alter, convert)* ← Spanish:mudar, Portuguese:mutação, English:mutate, French:muter, Russian:мутировать (mutirovat’)  
+**Muxin** *Jupiter* ← Mandarin:木星 (Mùxīng), Cantonese:木星 (muk6 sing1), Korean:목성 (mokseong), Vietnamese:Mộc tinh, Japanese:木星 (Mokusei) + Arabic: اَلْمُشْتَرِي‎ (al-muštarī), Swahili:Mshtarii, Malay:Musytar  
 **muxu** *mouse or rat* ← Russian:мышь (myś), Polish:mysz, Persian: موش‎ (muš) + Mandarin:鼠 (shǔ)  
 **muzika** *music* ← English:music, French:musique, Spanish:Portuguese:música, Russian:музика (muzika), Arabic:(mūsīqā), Swahili:muziki, Turkish:müzik, Malay:musik  
 **na** *get (obtain, take, grasp, receive)* ← Mandarin:拿 (ná), Cantonese:拿 (naa4) + deu:nehmen  
@@ -1574,6 +1575,7 @@
 **xam** *evening* ← Hindi:शाम (śām), Bengali:শাম (śam), Turkish:akşam  
 **xaman** *shaman* ← English:shaman, French:chaman, Spanish:chamán, Russian:шаман (šaman), Turkish:şaman, Malay:shaman, Japanese:シャーマン (shāman)  
 **xan** *mountain (hill)* ← Mandarin:山 (shān), Cantonese:山 (saan1), Japanese:山 (san), Korean:산 (san), Vietnamese:sơn  
+**Xani** *Saturn* ← Hindi:शनि (śani), Bengali:শনি (śôni), Tamil:சனி (saṉi), Thai:เสาร์ (sǎo)  
 **xanti** *rest (relief, repose)* ← Hindi:शांति (shānti), Bengali:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), Marathi:शांत (shānta), Telugu:శాంతి (shānti), Gujarati:શાંતિ (shānti), Khmer:សន្តិ (sɑnte’), English:Portuguese:shanti, Russian:шанти (shanti), Japanese:シャンティ (shanti)  
 **xarma** *shame (disgrace)* ← Persian:(šarm),  Urdu:(śarma), Hindi:शर्म (śarma), deu:Scham, English:shame, Russian:срам (sram)  
 **xarnir** *hinge (pivot)* ← French:charnière, Spanish:charnela, deu:Scharnier, Russian:шарнир (šarnir)  
@@ -1660,5 +1662,6 @@
 **zombi** *zombie* ← Kongo:nzambi, English:zombie, Spanish:Turkish:zombi, Portuguese:zumbi, Russian:зомби (zombi), Arabic:زُومْبِي‎ (zūmbī), Hindi:ज़ोंबी (zombī), Japanese:ゾンビ (zonbi), Korean:좀비 (jombi)  
 **zona** *belt (zone)* ← Greek:ζώνη (zónē), English:French:zone, Spanish:Portuguese:zona, Russian:зона (zona)  
 **zukam** *cold (illness)* ← Arabic:زُكَام‎ (zukām), Hindi:ज़ुकाम (zukām) + Mandarin:感(冒) (gǎn(mào)), Japanese:感(冒) (kan(bō)), Korean:감(기) (gam(gi)), Vietnamese:cảm  
+**Zukra** *Venus* ← Arabic: الزُّهَرَة‎ (az-zuhara), Swahili:Zuhura, Hausa:Zaharatu, Turkish:Zühre, Persian: زهره‎ (zohre), Urdu: زہرہ‎ (zuhra), Malay:Zuhrah + Hindi:शुक्र (śukra), Bengali:শুক্র (śukr), Burmese:သောကြာ (sau:kra), Thai:ศุกร์ (sùk)  
 **zuku** *ethnic group* ← Mandarin:族 (zú), Cantonese:族 (zuk6), Japanese:族 (zoku), Korean:족 (jok), Vietnamese:tộc  
 **zumarde** *emerald* ← English:emerald, French:émeraude, Spanish:Portuguese:esmeralda, Japanese:エメラルド (emerarudo) + Arabic: زُمُرُّد‎ (zumurrud), Swahili:zumaridi, Malay:zamrud, Russian:изумруд (izumrud), Mandarin:祖母绿 (zǔmǔlǜ)  

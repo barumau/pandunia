@@ -699,13 +699,6 @@ demi krati di - democrático
 demi krati ja - demócrata  
 demon - demonio  
 den - día (24 horas)  
-den un - lunes  
-den du - martes  
-den tri - miércoles  
-den nelu - jueves  
-den lima - viernes  
-den luka - sábado  
-den ceti - domingo  
 den loge - diario  
 des - diez (deca-, 10)  
 desen - dibujo (diseño)  
@@ -1825,7 +1818,6 @@ junnen - juventud
 junta - juventud  
 jung - especie  
 jupe - falda  
-Jupiter - Jupiter  
 jus - jugo (zumo)  
 juste - exacto (preciso)  
 juste pau ja - francotirador  
@@ -2306,6 +2298,7 @@ lulu - perla
 lulu table - ábaco  
 lumen - lúmen  
 luna - luna  
+lunaden - lunes  
 luna keke - pastel de luna  
 lung - dragón  
 Lung Dexa - Bután  
@@ -2375,8 +2368,9 @@ margai - gato tigre (maracayá)
 margarin - margarina  
 margarita - margarita  
 Mariana nesi - Islas Marianas  
+Maris - Marte  
+marisden - martes  
 marke - marca (huella, mancha)  
-Marse - Marte  
 Marxal nesi - Islas Marshall  
 masa - masa (trozo, pedazo)  
 masa mula - tubérculo  
@@ -2462,6 +2456,7 @@ mer - pertenecer (ser miembro de)
 mer - miembro (componente)  
 meranti - meranti  
 Merkur - Mercurio  
+merkurden - miércoles  
 mes - mez  
 mes bati - agosto  
 mes ceti - julio  
@@ -2614,6 +2609,8 @@ muskul - músculo
 muskul bina - fisicoculturismo (culturismo, musculación)  
 musli - muesli  
 mute - cambiar  
+Muxin - Jupiter  
+muxinden - jueves  
 muxu - ratón  
 muxu cakra - rueda del mouse  
 muzika - música  
@@ -3343,7 +3340,6 @@ sar oste - cráneo (calavera)
 sata - momento  
 sata di - momentáneo  
 sata don - dedicar  
-Saturne - Saturno  
 sau - hermano o hermana  
 sau doh - sobrina  
 sau son - sobrino  
@@ -3462,6 +3458,7 @@ soi sos - salsa de soja
 soki - buscar  
 sol - sol  
 sol cati - parasol  
+solden - domingo  
 sol estasi - solsticio  
 sol hua - girasol  
 sol kentaur hua - abrepuño  
@@ -3830,7 +3827,6 @@ Venezuela - Venezuela
 venjou oranje - unshu mikan  
 ventur - aventura  
 ventur ja - aventurero  
-Venus - Venus  
 ver - verdadero  
 veranda - balcón (terraza, veranda)  
 verme - verme  
@@ -3912,6 +3908,8 @@ xampan - Champaña
 xampan vin - champaña  
 xan - montaña (colina)  
 xan pike - cima (pico, cumbre, vértice)  
+Xani - Saturno  
+xaniden - sábado  
 xanti - descanso (alivio)  
 xanti di - tranquilo (calmado)  
 xarma - vergüenza (pena)  
@@ -4079,6 +4077,8 @@ zoku - todavía (aún)
 zombi - zombi  
 zona - cinturón (zona)  
 zukam - resfriado (catarro)  
+Zukra - Venus  
+zukraden - viernes  
 zuku - etnia  
 zuku di - étnico  
 zuku medi di - interétnica  

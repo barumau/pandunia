@@ -306,13 +306,6 @@ deha - 村
 dele - 遅れ (遅延)  
 demon - 悪魔  
 den - 日  
-den un - 月曜日  
-den du - 火曜日  
-den tri - 水曜日  
-den nelu - 木曜日  
-den lima - 金曜日  
-den luka - 土曜日  
-den ceti - 日曜日  
 den loge - 日記  
 des - 十 (１０)  
 des kilo - 万  
@@ -752,7 +745,6 @@ jun man - 男の子
 jun moka - 若木  
 junnen - 青春時代  
 jun sis - 妹 (imōto)  
-Jupiter - 木星  
 jus - ジュース  
 juste pau ja - 狙撃兵  
 
@@ -997,6 +989,7 @@ luga melon - ハネデューメロン
 luka - 六 (6)  
 lulu table - 算盤  
 lumen - lumen  
+lunaden - 月曜日  
 luna keke - 月餅  
 lung - 竜  
 lung dou - 四角豆  
@@ -1022,6 +1015,7 @@ manioka - キャッサバ
 mantol - マント (ケープ)  
 mar - 回 (次, 度)  
 margai - マーゲイ  
+marisden - 火曜日  
 masa - 質量  
 masa mula - 芋 (塊茎)  
 masa mula sol hua - キクイモ  
@@ -1065,6 +1059,7 @@ memo - 記憶
 memo bina - 追悼塔 (碑)  
 mendelef yum - メンデレビウム  
 meranti - サラノキ  
+merkurden - 水曜日  
 mes - 月間  
 mes bati - ８月  
 mes ceti - ７月  
@@ -1135,6 +1130,8 @@ mun - 門
 mur - 壁  
 mur kaguji - 壁紙  
 musli - ミューズリー  
+Muxin - 木星  
+muxinden - 木曜日  
 muxu - 鼠  
 muxu cakra - ホイールマウス  
 muzika - 音楽  
@@ -1429,7 +1426,6 @@ sapatu - 鞋
 sar - 頭  
 sar kexa - 髪の毛 (頭髪)  
 sata - 瞬間  
-Saturne - 土星  
 sau - 兄弟姉妹  
 sau doh - 姪  
 sau son - 甥  
@@ -1482,6 +1478,7 @@ soi milke - 豆乳
 soi sos - 醤油  
 soki - 探す (捜索する)  
 sol - 太陽 (日)  
+solden - 日曜日  
 sol hua - ヒマワリ  
 son - 息子  
 • ansona - 不眠症  
@@ -1670,6 +1667,8 @@ xam yam - 夕食
 xaman - シャーマン  
 xampan - 香槟  
 xan pike - 頂点  
+Xani - 土星  
+xaniden - 土曜日  
 xatan ja - 悪魔  
 xava - 焼く  
 xayu - サメ  
@@ -1757,5 +1756,6 @@ zi forma - フォント (字体)
 zinke - 亜鉛  
 zirkon yum - ジルコニウム  
 zoku - まだ  
+zukraden - 金曜日  
 zuku - 民族  
 zuku di - 民族の  

@@ -1031,7 +1031,7 @@ junarata (rautatie) - tren dau
 juoksija - kore ja  
 juoni (salaliitto) - sir plan  
 juosta - kore  
-Jupiter - Jupiter  
+Jupiter - Muxin  
 jurtta - yurta  
 jutella (höpistä) - blabla  
 juuri (tarkka, täsmällinen) - juste  
@@ -1278,7 +1278,7 @@ keskittyä (olla keskellä) - a jong
 keskittää - fa fokus  
 keskittää - fa jong  
 keskiverto (keski-) - medi di  
-keskiviikko - den tri  
+keskiviikko - merkurden  
 keskiyö (puoliyö) - medi noce  
 keskus (keskikohta) - jong  
 keskustelu (debatti) - fa lona  
@@ -1714,7 +1714,7 @@ latinalaiset aakkoset - Latin zi
 latinoida - fa Latin kitaba  
 lattia - kamar dipe  
 Latvia - Latvia  
-lauantai - den luka  
+lauantai - xaniden  
 laukka - galope  
 laukku - baga  
 laulaa (laulu) - gani  
@@ -1922,7 +1922,7 @@ maalata - pente
 maali (pelissä) - gol  
 maaliskuu - mes tri  
 maanalainen - geo nice di  
-maanantai - den un  
+maanantai - lunaden  
 maanjäristys - geo sismo  
 maantiede - geo grafi  
 maanviljelijä - agrija  
@@ -1994,7 +1994,7 @@ marmori - kalsi bilor
 Marokko - Magribi dexa  
 Marrakesh - Marakux  
 marraskuu - mes des un  
-Mars - Marse  
+Mars - Maris  
 Marshall-saaret - Marxal nesi  
 massa - masa  
 masto (salko) - masta  
@@ -2267,7 +2267,7 @@ neuvontantaja (mentori) - mentor
 neuvotella - fa biznes lona  
 Nevis - Nevis  
 newton (N) - niuton  
-niedziela - den ceti  
+niedziela - solden  
 niellä - gul  
 niemi - yaki nesi  
 Niger - Nijer  
@@ -2586,7 +2586,7 @@ perhe - famili
 perhonen - pelpel  
 perimä (genotyyppi) - gene tipe  
 perintö - varite  
-perjantai - den lima  
+perjantai - zukraden  
 peroksidi - peroxide  
 persia (farsi) - parsi  
 personoida - fa auto  
@@ -3104,7 +3104,7 @@ sattuma (onni) - zar
 sattumanvarainen - zar di  
 satu - pari kata  
 satumaa (paratiisi) - pari dexa  
-Saturnus - Saturne  
+Saturnus - Xani  
 satuttaa - fa pasi  
 Saudi Arabia - Saudi Arabi  
 sauma (ommel) - sutur  
@@ -3609,7 +3609,7 @@ Tiibet - Bote
 tiikeri - bagre  
 tiikerikissa - bagre oselote  
 tiili - dobe  
-tiistai - den du  
+tiistai - marisden  
 tikari - kanjar  
 tikka masala - masala tika  
 tila (tilanne, seikka) - hal  
@@ -3653,7 +3653,7 @@ topografia - topo grafi
 tori (basaari) - bazar  
 torium - tor yum  
 torni - minare  
-torstai - den nelu  
+torstai - muxinden  
 torvi (torvisoitin) - laba  
 tosi (aito) - ver  
 toukka - larva  
@@ -3972,7 +3972,7 @@ vene (laiva) - nave
 veneilijä - nave ga ja  
 veneillä - nave ga  
 Venezuela - Venezuela  
-Venus - Venus  
+Venus - Zukra  
 venyttää (pingottaa) - fa vai tense  
 Venäjä - Rusia  
 venäläinen - rusia baxa  

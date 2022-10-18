@@ -830,13 +830,6 @@ demi krati ja - democrat
 demi polita - population  
 demon - demon  
 den - day (24 hours)  
-den un - Monday  
-den du - Tuesday  
-den tri - Wednesday  
-den nelu - Thursday  
-den lima - Friday  
-den luka - Saturday  
-den ceti - Sunday  
 den loge - diary (daily log)  
 des - ten (deca-, 10)  
 des kilo - ten thousand  
@@ -2126,7 +2119,6 @@ jun sis - little sister (younger sister)
 junta - youth (young age)  
 jung - species  
 jupe - skirt  
-Jupiter - Jupiter  
 jus - juice  
 juste - just (precise, exact, accurate)  
 juste pau ja - sniper (sharpshooter)  
@@ -2682,6 +2674,7 @@ lulu table - abacus
 lume - shine  
 lumen - lumen  
 luna - moon  
+lunaden - Monday  
 luna keke - mooncake  
 lung - dragon  
 Lung Dexa - Bhutan  
@@ -2761,8 +2754,9 @@ margai - margay
 margarin - margarine  
 margarita - daisy  
 Mariana nesi - Northern Mariana Islands  
+Maris - Mars  
+marisden - Tuesday  
 marke - mark (trace)  
-Marse - Mars  
 Marxal nesi - Marshall Islands  
 masa - mass (quantity of matter)  
 masa mula - tuber (bulb)  
@@ -2860,6 +2854,7 @@ mer - belong (be a member)
 mer - member (part of a group, component)  
 meranti - lauan tree (meranti, balau)  
 Merkur - Mercury  
+merkurden - Wednesday  
 mes - month  
 mes bati - August  
 mes ceti - July  
@@ -3022,6 +3017,8 @@ muskul - muscle
 muskul bina - bodybuilding  
 musli - muesli  
 mute - change (alter, convert)  
+Muxin - Jupiter  
+muxinden - Thursday  
 muxu - mouse or rat  
 muxu cakra - scroll wheel  
 muzika - music  
@@ -3841,7 +3838,6 @@ sata - moment (instant)
 sata di - momentary  
 sata don - dedicate (devote)  
 sata don ta - dedication (devotion)  
-Saturne - Saturn  
 sau - sibling (brother or sister)  
 sau ben - nephew or niece  
 sau doh - niece  
@@ -3975,6 +3971,7 @@ soi sos - soy sauce
 soki - search (seek, look for)  
 sol - sun  
 sol cati - parasol  
+solden - Sunday  
 sol estasi - solstice  
 sol hua - sunflower  
 sol kentaur hua - yellow starthistle  
@@ -4413,7 +4410,6 @@ Venjou - Wenzhou
 venjou oranje - satsuma mandarin  
 ventur - adventure (venture)  
 ventur ja - adventurer  
-Venus - Venus  
 ver - true (real, genuine, indeed, very)  
 veranda - veranda (balcony, terrace, porch)  
 verme - worm  
@@ -4515,6 +4511,8 @@ xampan vin - champagne
 xan - mountain (hill)  
 xan pike - top (peak, pinnacle, summit, apex, vertex)  
 xanghai - Shanghai  
+Xani - Saturn  
+xaniden - Saturday  
 xanti - rest (relief, repose)  
 xanti di - calm (peaceful, quiet)  
 xarma - shame (disgrace)  
@@ -4704,6 +4702,8 @@ zoku - continue (go on, keep on, carry on, proceed, still, yet)
 zombi - zombie  
 zona - belt (zone)  
 zukam - cold (illness)  
+Zukra - Venus  
+zukraden - Friday  
 zuku - ethnic group  
 zuku di - ethnic  
 zuku medi di - interethnic  

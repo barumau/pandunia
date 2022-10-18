@@ -421,13 +421,6 @@ demi krati - demokratio
 demi krati di - demokratia  
 demon - demono  
 den - tago (periodo de 24 horoj)  
-den un - luno  
-den du - mardo  
-den tri - merredo  
-den nelu - ĵaŭdo  
-den lima - vendredo  
-den luka - sabato  
-den ceti - dimanĉosunnuntai  
 den loge - taglibro  
 des - dek (10)  
 des kilo - dek miloj  
@@ -1253,6 +1246,7 @@ luga - verda
 lulu - perlo  
 lulu table - bidkalkulilo (abako)  
 luna - luno  
+lunaden - luno  
 luta - rabi  
 luta ja - rabisto  
 lutesi yum - lutecio  
@@ -1277,6 +1271,7 @@ mar - fojo
 maraton - maratono  
 marce - promeno (marŝo)  
 margarin - margarino  
+marisden - mardo  
 masa - maso  
 masala - spico  
 maska - masko  
@@ -1318,6 +1313,7 @@ memo - memoro
 mer - membro  
 meranti - ŝoreo  
 Merkur - Merkuro  
+merkurden - merredo  
 mes - monato  
 mesaje - mesaĝo  
 mesi - kristo  
@@ -1391,6 +1387,7 @@ muskul - muskolo
 muskul bina - korpokulturado  
 musli - muslio  
 mute - aliigi  
+muxinden - ĵaŭdo  
 muxu - muso aŭ rato  
 muzika - muziko  
 muzika ja - muzikisto  
@@ -1804,6 +1801,7 @@ soi milke - sojlakto
 soi sos - sojsaŭco  
 sol - suno  
 sol cati - sunombrelo  
+solden - dimanĉosunnuntai  
 sol sistem - sunsistemo  
 son - filo  
 sona - dormo  
@@ -2020,6 +2018,7 @@ xam yam - vespermanĝo
 xaman - ŝamano  
 xan - monto  
 xan pike - pinto  
+xaniden - sabato  
 xanti di - trankvila (serena)  
 xarma - honto  
 xarnir - ĉarniro (pivoto)  
@@ -2124,6 +2123,7 @@ zira - kumino
 zirkon yum - zirkonio  
 zoku - ankoraŭ  
 zona - zono  
+zukraden - vendredo  
 zuku - etno  
 zuku di - etna  
 zuku medi di - interetna  

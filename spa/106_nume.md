@@ -165,28 +165,20 @@ La manera más largo usa la pauta
 Días de la semana inclusan la palabra
 **den**
 («día de la semana»).
-Se numeran desde lunes.
-lunes es
-**den un**
-(«día de la semana primera»),
-martes es
-**den du**
-(«día de la semana segunda»)
-y demás.
 
-1. **den un**
+1. **lunaden**
    – lunes
-2. **den du**
+2. **marisden**
    – martes
-3. **den tri**
+3. **merkurden**
    – miércoles
-4. **den nelu**
+4. **muxinden**
    – jueves
-5. **den lima**
+5. **zukraden**
    – viernes
-6. **den luka**
+6. **xaniden**
    – sabado
-7. **den ceti**
+7. **solden**
    – domingo
 
 #### Meses

@@ -930,8 +930,8 @@
 **margai** ** ← englanti:margay, espanja:maracayá, portugali:maracajá, venäjä:маргай (margay), arabia:مارج (mārǧ), japani:マーゲイ (māgei)  
 **margarin** *margariini* ← englanti:ranska:margarine, espanja:portugali:margarina, venäjä:маргари́н (margarín), turkki:margarin, hindi:मार्जरीन (mārjarīn), malaiji:marjerin, yleiskiina:麦淇淋 (màiqílín), japani:マーガリン (māgarin)  
 **margarita** ** ← espanja:portugali:margarita, ranska:marguerite, deu:Margerite, venäjä:маргаритка (margaritka)  
+**Maris** *Mars* ← kreikka:Άρης (Áris), englanti:ranska:turkki:Mars, espanja:portugali:Marte, venäjä:Марс (Mars) + arabia: اَلْمِرِّيخ‎ (al-mirrīkh), suahili:Mirihi, malaiji:Mars; Marikh  
 **marke** *merkki (jälki)* ← englanti:mark, espanja:portugali:marca, ranska:marque, korea:마크 (makeu), japani:マーク (māku)  
-**Marse** *Mars* ← englanti:ranska:turkki:malaiji:Mars, espanja:portugali:Marte, venäjä:Марс (Mars)  
 **masa** *massa* ← englanti:mass, deu:ranska:masse, espanja:masa, portugali:malaiji:massa, venäjä:масса (massa)  
 **masaje** *hieronta* ← englanti:ranska:massage, espanja:masaje, portugali:massagem, venäjä:масса́ж (massáž), turkki:masaj, arabia:مَسَاج‎ (masāj), persia:ماساژ‎ (mâsâž), bangla:ম্যাসেজ (mjaśej), yleiskiina:马杀鸡 (mǎshājī), japani:マッサージ (massāji)  
 **masala** *mauste* ← hindi:मसाला (masālā), urdu:(masālā), bangla:মসলা (môsla), suahili:masala  
@@ -1031,6 +1031,7 @@
 **muskul** *lihas* ← englanti:ranska:muscle, espanja:portugali:músculo, deu:Muskel, venäjä:му́скул (múskul), suahili:msuli  
 **musli** *mysli* ← englanti:ranska:espanja:portugali:muesli, venäjä:мюсли (myusli), yleiskiina:木斯里 (mùsīlǐ), japani:ミューズリー (myūzurī), korea:뮈슬리 (mwiseulli), turkki:müsli  
 **mute** *muuttaa (muuntaa)* ← espanja:mudar, portugali:mutação, englanti:mutate, ranska:muter, venäjä:мутировать (mutirovat’)  
+**Muxin** *Jupiter* ← yleiskiina:木星 (Mùxīng), kantoninkiina:木星 (muk6 sing1), korea:목성 (mokseong), vietnami:Mộc tinh, japani:木星 (Mokusei) + arabia: اَلْمُشْتَرِي‎ (al-muštarī), suahili:Mshtarii, malaiji:Musytar  
 **muxu** *hiiri tai rotta* ← venäjä:мышь (myś), puola:mysz, persia: موش‎ (muš) + yleiskiina:鼠 (shǔ)  
 **muzika** *musiikki* ← englanti:music, ranska:musique, espanja:portugali:música, venäjä:музика (muzika), arabia:(mūsīqā), suahili:muziki, turkki:müzik, malaiji:musik  
 **na** *saada (ottaa, ottaa vastaan)* ← yleiskiina:拿 (ná), kantoninkiina:拿 (naa4) + deu:nehmen  
@@ -1574,6 +1575,7 @@
 **xam** *ilta* ← hindi:शाम (śām), bangla:শাম (śam), turkki:akşam  
 **xaman** *šamaani* ← englanti:shaman, ranska:chaman, espanja:chamán, venäjä:шаман (šaman), turkki:şaman, malaiji:shaman, japani:シャーマン (shāman)  
 **xan** *vuori (mäki)* ← yleiskiina:山 (shān), kantoninkiina:山 (saan1), japani:山 (san), korea:산 (san), vietnami:sơn  
+**Xani** *Saturnus* ← hindi:शनि (śani), bangla:শনি (śôni), tamili:சனி (saṉi), thai:เสาร์ (sǎo)  
 **xanti** *lepo* ← hindi:शांति (shānti), bangla:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), marathi:शांत (shānta), telugu:శాంతి (shānti), gujarati:શાંતિ (shānti), khmer:សន្តិ (sɑnte’), englanti:portugali:shanti, venäjä:шанти (shanti), japani:シャンティ (shanti)  
 **xarma** *häpeä* ← persia:(šarm),  urdu:(śarma), hindi:शर्म (śarma), deu:Scham, englanti:shame, venäjä:срам (sram)  
 **xarnir** *sarana* ← ranska:charnière, espanja:charnela, deu:Scharnier, venäjä:шарнир (šarnir)  
@@ -1660,5 +1662,6 @@
 **zombi** *zombi* ← Kongo:nzambi, englanti:zombie, espanja:turkki:zombi, portugali:zumbi, venäjä:зомби (zombi), arabia:زُومْبِي‎ (zūmbī), hindi:ज़ोंबी (zombī), japani:ゾンビ (zonbi), korea:좀비 (jombi)  
 **zona** *vyö* ← kreikka:ζώνη (zónē), englanti:ranska:zone, espanja:portugali:zona, venäjä:зона (zona)  
 **zukam** *vilustuminen* ← arabia:زُكَام‎ (zukām), hindi:ज़ुकाम (zukām) + yleiskiina:感(冒) (gǎn(mào)), japani:感(冒) (kan(bō)), korea:감(기) (gam(gi)), vietnami:cảm  
+**Zukra** *Venus* ← arabia: الزُّهَرَة‎ (az-zuhara), suahili:Zuhura, hausa:Zaharatu, turkki:Zühre, persia: زهره‎ (zohre), urdu: زہرہ‎ (zuhra), malaiji:Zuhrah + hindi:शुक्र (śukra), bangla:শুক্র (śukr), burma:သောကြာ (sau:kra), thai:ศุกร์ (sùk)  
 **zuku** *kansanryhmä (etninen ryhmä)* ← yleiskiina:族 (zú), kantoninkiina:族 (zuk6), japani:族 (zoku), korea:족 (jok), vietnami:tộc  
 **zumarde** *smaragdi* ← englanti:emerald, ranska:émeraude, espanja:portugali:esmeralda, japani:エメラルド (emerarudo) + arabia: زُمُرُّد‎ (zumurrud), suahili:zumaridi, malaiji:zamrud, venäjä:изумруд (izumrud), yleiskiina:祖母绿 (zǔmǔlǜ)  

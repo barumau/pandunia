@@ -251,31 +251,23 @@ It uses the pattern
 
 #### Days of the week
 
-Days of the week include the word
+Days of the week are named after celestial bodies and they include the word
 **den**
-('day of the week').
-They are numbered starting from Monday.
-Monday is
-**den un**
-('weekday one'),
-Tuesday is
-**den du**
-('weekday two')
-and so on.
+('day, 24 hours').
 
-1. **den un**
+1. **lunaden**
    – Monday
-2. **den du**
+2. **marisden**
    – Tuesday
-3. **den tri**
+3. **merkurden**
    – Wednesday
-4. **den nelu**
+4. **muxinden**
    – Thursday
-5. **den lima**
+5. **zukraden**
    – Friday
-6. **den luka**
+6. **xaniden**
    – Saturday
-7. **den ceti**
+7. **solden**
    – Sunday
 
 #### Months
