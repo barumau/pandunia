@@ -65,7 +65,7 @@ If the subject is a personal pronoun, the **ya** is left out.
 – I eat.  
 **tu sona.**
 – You sleep.  
-**ya sona.**
+**da sona.**
 – He or she sleeps.
 
 The basic word order is subject–verb–object
@@ -78,7 +78,7 @@ When the direct object is a noun, it is marked apart from the verb by a demonstr
 
 **mi yam un pai.**
 – I eat a pie.  
-**tu yam ni pai.**
+**tu yam ye pai.**
 – You eat this pie.
 
 ### Negation
@@ -162,7 +162,7 @@ To modify a noun, put adjectives before it.
 To modify a verb, put adverbs before it.
 The adverb can be tagged with **di**.
 
-**mi bon vide tu.**
+**mi bon (di) vide tu.**
 – I see you well.  
 **tu vide di ame da.**
 – You seemingly love him/her.
