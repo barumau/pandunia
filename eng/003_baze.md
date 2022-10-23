@@ -51,7 +51,8 @@ The same word, without any change in form, can serve as a noun, adjective or ver
 
 ### Basic sentence structures
 
-The particle **ya** 'yes' separates the subject and the verb.
+The particle **ya** 'yes' may separate the subject and the verb
+when the subject is a noun.
 
 **mau ya yam.**
 – The cat eats.  
@@ -63,7 +64,9 @@ If the subject is a personal pronoun, the **ya** is left out.
 **mi yam.**
 – I eat.  
 **tu sona.**
-– You sleep.
+– You sleep.  
+**ya sona.**
+– He or she sleeps.
 
 The basic word order is subject–verb–object
 – the same as in English!
