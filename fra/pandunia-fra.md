@@ -709,7 +709,6 @@ gani - chanter (chanson)
 ganir grupe - chœur  
 ganse - oie  
 ganum - blé  
-si - si  
 garma mosim - été  
 garma zona - tropique  
 garma zona caustan - savane  
@@ -1729,6 +1728,7 @@ seri - série
 serime - maillon (chaînon)  
 • ansexe di - asexué  
 sexe logi - sexologie  
+si - si  
 siborge yum - seaborgium  
 sifa loga - adjectif  
 sigar - cigarette  

@@ -547,7 +547,6 @@ ganir - 歌手
 ganir grupe - 合唱团  
 ganse - 雁 (鹅)  
 ganum - 麦  
-si - 如果 (要是)  
 garma mosim - 夏季  
 garma zona - 热带  
 garma zona caustan - 稀树草原  
@@ -1431,6 +1430,7 @@ serami - 陶瓷
 seri - 系列  
 serime - 连结  
 sexe logi - 性学  
+si - 如果 (要是)  
 side loka - 座部 (马鞍)  
 sifa loga - 形容词  
 sigar - 香烟  

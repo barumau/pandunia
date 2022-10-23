@@ -749,7 +749,6 @@ ganir grupe - ĥoro
 ganja - kanabo  
 ganse - ansero  
 ganum - tritiko  
-si - se  
 gar - aŭto (ĉaro)  
 garanti - garantio  
 garde - gardi  
@@ -1768,6 +1767,7 @@ serime - ĉenero
 seri seri - ĉeno  
 serpe - serpento  
 sexe - sekso  
+si - se  
 siborge yum - seborgio  
 sifa loga - adjektivo  
 sigar - cigaredo  

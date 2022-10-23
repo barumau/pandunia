@@ -1545,7 +1545,6 @@ Ganimede -
 ganja - konopie  
 ganse - gęś  
 ganum - pszenica  
-si - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
 gar - wóz, wózek  
 garparke - parking  
 garanti - gwarancja  
@@ -3874,6 +3873,7 @@ sexe - seks, stosunek płciowy
 sexe di - seksowny, ponętny  
 sexe logi - seksuologia  
 Sexel nesi - Seszele  
+si - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
 Sibiria - Syberia  
 siborge yum - seaborg  
 side - usiąść  

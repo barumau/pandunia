@@ -615,7 +615,6 @@ gan cau - сено
 ganir grupe - хор  
 ganse - гусь  
 ganum - пшеница  
-si - если  
 garma mosim - лето  
 garma zona - тропик  
 gas - газ  
@@ -1597,6 +1596,7 @@ serve gi - сервер
 serve ja - слуга  
 sesam - сезам  
 sexe logi - сексология  
+si - если  
 siborge yum - сиборгий  
 side loka - сиденье (седло)  
 sifa loga - прилагательное  

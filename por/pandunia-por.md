@@ -556,7 +556,6 @@ gana kalam - cálamo
 ganir grupe - coro  
 ganse - ganso  
 ganum - trigo  
-si - se  
 garma mosim - verão  
 garma zona - trópicos  
 gas - gás  
@@ -1500,6 +1499,7 @@ serami - cerâmico
 seri - série (sequência)  
 serime - elo  
 sexe logi - sexologia  
+si - se  
 siborge yum - seabórgio  
 sifa loga - adjetivo  
 sigar - cigarro  

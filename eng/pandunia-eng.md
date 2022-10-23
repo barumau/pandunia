@@ -1580,7 +1580,6 @@ Ganimede - Ganymede
 ganja - cannabis (marijuana, ganja, pot, weed)  
 ganse - goose  
 ganum - wheat  
-si - if (suppose, assume)  
 gar - car (cart, carriage, wagon, automobile)  
 garparke - car park (parking lot)  
 garanti - guarantee (warranty)  
@@ -3909,6 +3908,7 @@ sexe - sex (sexual relation)
 sexe di - sexy (sexually arousing)  
 sexe logi - sexology  
 Sexel nesi - Seychelles  
+si - if (suppose, assume)  
 Sibiria - Siberia  
 siborge yum - seaborgium  
 side - sit down  

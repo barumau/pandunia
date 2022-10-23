@@ -1510,7 +1510,6 @@ Ganimede - Ganymedes
 ganja - kannabis (marihuana, hamppu)  
 ganse - hanhi  
 ganum - vehnä  
-si - jos (olettaa)  
 gar - kärry (vaunu, auto, jne)  
 garparke - parkkipaikka  
 garanti - takuu  
@@ -3534,6 +3533,7 @@ sexe - seksi (sukupuolisuhde)
 sexe di - seksikäs  
 sexe logi - seksologia  
 Sexel nesi - Seychellit  
+si - jos (olettaa)  
 Sibiria - Siperia  
 siborge yum - seaborgium  
 sifa - laatu (ominaisuus, ominaispiirre, määrite)  

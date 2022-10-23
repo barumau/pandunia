@@ -534,7 +534,6 @@ ganir - 歌手
 ganir grupe - 合唱団  
 ganse - 雁 (鵝鳥)  
 ganum - 小麦  
-si - もし  
 gar - 車  
 garma - 暖かい (熱い)  
 garma mosim - 夏  
@@ -1453,6 +1452,7 @@ serime - 連結
 serve gi - サーバ  
 serve ja - 使用人  
 sexe logi - 性科学  
+si - もし  
 siborge yum - シーボーギウム  
 side - 座る  
 side loka - 座席 (鞍)  

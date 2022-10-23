@@ -1343,7 +1343,6 @@ ganir grupe - coro
 ganja - cannabis (hachís, marihuana)  
 ganse - ganso (oca)  
 ganum - trigo  
-si - si (suponer)  
 gar - coche (carruaje, auto, vagón)  
 garparke - estacionamiento (aparcamiento)  
 garanti - garantía  
@@ -3400,6 +3399,7 @@ sexe - sexo
 sexe di - sexy (sexual)  
 sexe logi - sexología  
 Sexel nesi - Seychelles  
+si - si (suponer)  
 Sibiria - Siberia  
 siborge yum - seaborgio  
 side - sentarse  
