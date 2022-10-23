@@ -559,7 +559,7 @@ cen den - ayer
 cen di - previo (anterior)  
 cen ding - predeterminado  
 cen fixe - prefijo  
-cen gar - presuponer  
+cen si - presuponer  
 cen vide - prever (esperar, pensar)  
 cen yang di - clásico  
 cen zaman - pasado  
@@ -1343,8 +1343,7 @@ ganir grupe - coro
 ganja - cannabis (hachís, marihuana)  
 ganse - ganso (oca)  
 ganum - trigo  
-ganya - ganar (cobrar)  
-gar - si (suponer)  
+si - si (suponer)  
 gar - coche (carruaje, auto, vagón)  
 garparke - estacionamiento (aparcamiento)  
 garanti - garantía  

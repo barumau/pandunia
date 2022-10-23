@@ -241,7 +241,7 @@ ask (request, beg, plead; please) - cing
 asparagus - asparge  
 aspect (viewpoint) - aspete  
 associate - fa liga  
-assume (presuppose) - cen gar  
+assume (presuppose) - cen si  
 Assur - Axur  
 assure (affirm, confirm) - fa amen  
 Assyria - Axur dexa  
@@ -1251,7 +1251,6 @@ dystopia - dus topi
 each other (one another, mutually) - semen  
 ear - ore  
 earlier (before, in the past) - cen  
-earn (gain) - ganya  
 earth (ground) - geo  
 Earth (Terra) - Geo  
 earthquake - geo sismo  
@@ -2000,7 +1999,7 @@ identity document (identification, ID) - nam dokumen
 ideogram - idea zi  
 idiocy (stupidity) - idioteta  
 idiot - idiote  
-if (suppose, assume) - gar  
+if (suppose, assume) - si  
 ifrit - ifrite  
 igloo - iglu  
 ill (sick) - pati di  

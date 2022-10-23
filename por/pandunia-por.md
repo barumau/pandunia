@@ -556,7 +556,7 @@ gana kalam - cálamo
 ganir grupe - coro  
 ganse - ganso  
 ganum - trigo  
-gar - se  
+si - se  
 garma mosim - verão  
 garma zona - trópicos  
 gas - gás  

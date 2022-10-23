@@ -1971,7 +1971,7 @@ jesion - yasen
 jezioro - lage  
 Jezus - Yesa  
 Jezus Chrystus - Yesa Mesi  
-jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa - gar  
+jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa - si  
 jod; jodyna - iode  
 jodła - abies  
 joga - yoga  
@@ -4389,7 +4389,7 @@ zajęty - mang
 zaklecie - magi asar  
 zakrzywiony - kurva di  
 zakupy (sprawunki, shopping) - xopi  
-zakładać (założyć) - cen gar  
+zakładać (założyć) - cen si  
 zakładać (założyć, ustanowić) - fa baze  
 Zambia - Zambia  
 zamek (zapięcie) - tala  
@@ -4528,7 +4528,6 @@ zwyczajny (rutynowy, normalny) - ada di
 zwykły, zwyczajny, prosty - sada  
 zwłoki (trup) - nekro  
 zygzag - ziza  
-zyskać, zyskiwać, zarobić, zarabiać - ganya  
 ząb - dante  
 zęwnętrzny - vai  
 złamanie lini - lin parce  

@@ -534,7 +534,7 @@ ganir - 歌手
 ganir grupe - 合唱団  
 ganse - 雁 (鵝鳥)  
 ganum - 小麦  
-gar - もし  
+si - もし  
 gar - 車  
 garma - 暖かい (熱い)  
 garma mosim - 夏  

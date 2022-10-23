@@ -462,8 +462,6 @@
 **ganja** *kannabis (marihuana, hamppu)* ← hindi:गांजा (gāñjā), urdu:(gānjā), pandzabi:ਗਾਂਜਾ (gāñjā), bangla:গাঁজা (gañja), telugu:గంజాయి (gañjāyi), tamili:கஞ்சா (kañcā), khmer:កញ្ឆា (kɑñchaa), thai:กัญชา (gan-chaa), vietnami:cần sa, englanti:portugali:malaiji:ganja, japani:ガンジャ (gānjya)  
 **ganse** *hanhi* ← espanja:portugali:ganso, hindi:हंस (hans), bangla:হাঁস (hãs), malaiji:angsa englanti:goose, venäjä:гусь (gus’), puola:gęś + kantoninkiina:雁 (ngaan6), japani:雁 (gan), thai:ห่าน (han)  
 **ganum** *vehnä* ← persia:گندم‎(gandom), malaiji:gandum, urdu:گندم‎(gandum), telugu:గోధుమ (gōdhuma), suahili:ngano  
-**ganya** *hankkia (ansaita)* ← ranska:gagner, portugali:ganhar, espanja:ganar, englanti:gain  
-**gar** *jos (olettaa)* ← kantoninkiina:假 (gaa1), wu-kiina:假 (ga) + hindi:अगर (agar), persia:urdu:اگر‎‎ (agar), turkki:eğer  
 **gar** *kärry (vaunu, auto, jne)* ← englanti:car, portugali:espanja:carro, deu:Karre, telugu:కారు  (kāru), malaiji:kereta + hindi:गाड़ी (gāṛī), suahili:gari, persia:(gâri)  
 **garanti** *takuu* ← englanti:guarantee, espanja:garantía, portugali:garantia, ranska:garantie, deu:Garantie, venäjä:гарантия (garantiya), turkki:garanti  
 **garde** *vartioida (vahtia)* ← englanti:guard, ranska:garde, espanja:portugali:guarda, japani:ガード (gādo), korea:가드 (gadeu)  
@@ -1346,6 +1344,7 @@
 **serve** *palvelu (palvelus)* ← englanti:ranska:service, portugali:serviço, venäjä:сервис (servis), turkki:servis + hindi:सेवा (sevâ), bangla:সেবা  (seba)  
 **sesam** *seesami* ← englanti:sesame, venäjä:сезам (sezam), espanja:sésamo, arabia:(simsim), suahili:simsim, turkki:susam  
 **sexe** *seksi (sukupuolisuhde)* ← englanti:sex, ranska:sexe, espanja:portugali:sexo, venäjä:секс (seks), turkki:seks, hindi:सेक्स (seks), japani:セックス (sekkusu), korea:섹스 (sekseu)  
+**si** *jos (olettaa)* ← ranska:espanja:si, portugali:se, turkki:ise, yleiskiina:使 (shǐ); 要是 (yàoshǐ), kantoninkiina:使 (si2); 要是 (jiu3si6)  
 **siborge yum** *seaborgium* ← englanti:seaborgium, ranska:seaborgium, espanja:seaborgio, portugali:seabórgio, venäjä:сиборгий, yleiskiina: (xǐ), japani:シーボーギウム, korea:새보쥼, vietnami:seaborgi, hindi:सीबोर्गियम, bangla:সিওবোর্গিয়াম, malaiji:seaborgium, suahili:seaborgi, arabia: سيبورجيوم  
 **side** ** ← venäjä:сидеть (sidet'), englanti:sit, deu:sitzen, italia:sedere  
 **sifa** *laatu (ominaisuus, ominaispiirre, määrite)* ← arabia:صفة (ṣifa), persia:صفت (sefat), hindi:सिफ़त (sifat), suahili:sifa, turkki:sıfat, malaiji:sifat  

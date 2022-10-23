@@ -630,15 +630,15 @@ can be combined to the prepositions in order to construct conjunctions of cause 
 
 ## Conditional clauses
 
-The word **gar** means 'to suppose',
+The word **si** means 'to suppose',
 and in conditional sentences, it works in the same way as English 'if'.
 
-**mi no yam da gar mi e tu.**
+**mi no yam da, si mi e tu.**
 – I wouldn't eat it _if_ I were you.
 
 The rest of the sentence can optionally be preceded by the word **asar**, which means 'then'.
 
-**gar tu tocu la tava, asar tu pasi la hande.**
+**si tu tocu tava, asar tu pati hande.**
 – _If_ you touch the pan, _then_ you will hurt your hand.
 
 

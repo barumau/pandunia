@@ -1730,7 +1730,7 @@ sexe - jinse
 sexologie - sexe logi  
 Shiva - xiva  
 shopping - xopi  
-si - gar  
+si - si  
 signer - nam kitaba  
 signifier (voiloir dire) - semi  
 silence - tixta  

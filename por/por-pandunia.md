@@ -1513,8 +1513,8 @@ saudação - salam
 saudável (saudio) - salu  
 saúde - saludo  
 saúde - saluta  
-se - gar  
 se - se  
+se - si  
 seabórgio - siborge yum  
 seda - silke  
 sede - sui yau  

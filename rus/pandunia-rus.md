@@ -615,7 +615,7 @@ gan cau - сено
 ganir grupe - хор  
 ganse - гусь  
 ganum - пшеница  
-gar - если  
+si - если  
 garma mosim - лето  
 garma zona - тропик  
 gas - газ  

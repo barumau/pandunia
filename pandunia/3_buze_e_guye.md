@@ -44,5 +44,5 @@ i pos la, la dai behe ya harabu gui su yen, i parca la gui su oste, i lanse la g
 pos la, da marca to gazo topo.
 a gazo topo, pan behe yam to se e gola.
 damen sun no ten la energi to fuka to dom.
-i gar damen zoku no ga, damen zoku e gola.
+i si damen zoku no ga, damen zoku e gola.
 

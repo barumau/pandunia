@@ -709,7 +709,7 @@ gani - chanter (chanson)
 ganir grupe - chœur  
 ganse - oie  
 ganum - blé  
-gar - si  
+si - si  
 garma mosim - été  
 garma zona - tropique  
 garma zona caustan - savane  

@@ -642,7 +642,7 @@ cen - ennen (aikaisemmin, aiemmin)
 cen den - eilen  
 cen di - edellinen  
 cen fixe - etuliite (prefiksi)  
-cen gar - edellyttää  
+cen si - edellyttää  
 cen vide - ennustaa (nähdä ennalta)  
 cen vide di - ennustettu  
 • ancen vide di - ennennäkemätön  
@@ -1510,8 +1510,7 @@ Ganimede - Ganymedes
 ganja - kannabis (marihuana, hamppu)  
 ganse - hanhi  
 ganum - vehnä  
-ganya - hankkia (ansaita)  
-gar - jos (olettaa)  
+si - jos (olettaa)  
 gar - kärry (vaunu, auto, jne)  
 garparke - parkkipaikka  
 garanti - takuu  

@@ -625,7 +625,7 @@ cen den - wczoraj
 cen di - poprzedni  
 cen ding -   
 cen fixe - przedrostek (prefiks)  
-cen gar - zakładać (założyć)  
+cen si - zakładać (założyć)  
 cen vide - przewidzieć (spodziewać się)  
 cen vide di - spodziewany (przewidziany)  
 • ancen vide di - niespodziewany  
@@ -1545,8 +1545,7 @@ Ganimede -
 ganja - konopie  
 ganse - gęś  
 ganum - pszenica  
-ganya - zyskać, zyskiwać, zarobić, zarabiać  
-gar - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
+si - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
 gar - wóz, wózek  
 garparke - parking  
 garanti - gwarancja  

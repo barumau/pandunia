@@ -547,7 +547,7 @@ ganir - 歌手
 ganir grupe - 合唱团  
 ganse - 雁 (鹅)  
 ganum - 麦  
-gar - 如果 (要是)  
+si - 如果 (要是)  
 garma mosim - 夏季  
 garma zona - 热带  
 garma zona caustan - 稀树草原  

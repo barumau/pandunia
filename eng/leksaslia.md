@@ -462,9 +462,7 @@
 **ganja** *cannabis (marijuana, ganja, pot, weed)* ← Hindi:गांजा (gāñjā), Urdu:(gānjā), Punjabi:ਗਾਂਜਾ (gāñjā), Bengali:গাঁজা (gañja), Telugu:గంజాయి (gañjāyi), Tamil:கஞ்சா (kañcā), Khmer:កញ្ឆា (kɑñchaa), Thai:กัญชา (gan-chaa), Vietnamese:cần sa, English:Portuguese:Malay:ganja, Japanese:ガンジャ (gānjya)  
 **ganse** *goose* ← Spanish:Portuguese:ganso, Hindi:हंस (hans), Bengali:হাঁস (hãs), Malay:angsa English:goose, Russian:гусь (gus’), Polish:gęś + Cantonese:雁 (ngaan6), Japanese:雁 (gan), Thai:ห่าน (han)  
 **ganum** *wheat* ← Persian:گندم‎(gandom), Malay:gandum, Urdu:گندم‎(gandum), Telugu:గోధుమ (gōdhuma), Swahili:ngano  
-**ganya** *earn (gain)* ← French:gagner, Portuguese:ganhar, Spanish:ganar, English:gain  
 **gar** *car (cart, carriage, wagon, automobile)* ← English:car, Portuguese:Spanish:carro, deu:Karre, Telugu:కారు  (kāru), Malay:kereta + Hindi:गाड़ी (gāṛī), Swahili:gari, Persian:(gâri)  
-**gar** *if (suppose, assume)* ← Cantonese:假 (gaa1), Wu-Chinese:假 (ga) + Hindi:अगर (agar), Persian:Urdu:اگر‎‎ (agar), Turkish:eğer  
 **garanti** *guarantee (warranty)* ← English:guarantee, Spanish:garantía, Portuguese:garantia, French:garantie, deu:Garantie, Russian:гарантия (garantiya), Turkish:garanti  
 **garde** *guard (watch)* ← English:guard, French:garde, Spanish:Portuguese:guarda, Japanese:ガード (gādo), Korean:가드 (gadeu)  
 **garma** *warm (hot)* ← Hindi:गरम (garm), Urdu:Persian:گرم‎‎ (garm), kur:germ, deu:English:warm  
@@ -1346,6 +1344,7 @@
 **serve** *service* ← English:French:service, Portuguese:serviço, Russian:сервис (servis), Turkish:servis + Hindi:सेवा (sevâ), Bengali:সেবা  (seba)  
 **sesam** *sesame* ← English:sesame, Russian:сезам (sezam), Spanish:sésamo, Arabic:(simsim), Swahili:simsim, Turkish:susam  
 **sexe** *sex (sexual relation)* ← English:sex, French:sexe, Spanish:Portuguese:sexo, Russian:секс (seks), Turkish:seks, Hindi:सेक्स (seks), Japanese:セックス (sekkusu), Korean:섹스 (sekseu)  
+**si** *if (suppose, assume)* ← French:Spanish:si, Portuguese:se, Turkish:ise, Mandarin:使 (shǐ); 要是 (yàoshǐ), Cantonese:使 (si2); 要是 (jiu3si6)  
 **siborge yum** *seaborgium* ← English:seaborgium, French:seaborgium, Spanish:seaborgio, Portuguese:seabórgio, Russian:сиборгий, Mandarin: (xǐ), Japanese:シーボーギウム, Korean:새보쥼, Vietnamese:seaborgi, Hindi:सीबोर्गियम, Bengali:সিওবোর্গিয়াম, Malay:seaborgium, Swahili:seaborgi, Arabic: سيبورجيوم  
 **side** *sit down* ← Russian:сидеть (sidet'), English:sit, deu:sitzen, Italian:sedere  
 **sifa** *attribute (charasteristic, quality, feature, description, property)* ← Arabic:صفة (ṣifa), Persian:صفت (sefat), Hindi:सिफ़त (sifat), Swahili:sifa, Turkish:sıfat, Malay:sifat  

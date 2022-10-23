@@ -462,9 +462,7 @@
 **ganja** *kanabo* ← hindia:गांजा (gāñjā), urdua:(gānjā), panĝaba:ਗਾਂਜਾ (gāñjā), bengala:গাঁজা (gañja), teluga:గంజాయి (gañjāyi), tamila:கஞ்சா (kañcā), kmera:កញ្ឆា (kɑñchaa), taja:กัญชา (gan-chaa), vjetnama:cần sa, angla:portugala:malaja:ganja, japana:ガンジャ (gānjya)  
 **ganse** *ansero* ← hispana:portugala:ganso, hindia:हंस (hans), bengala:হাঁস (hãs), malaja:angsa angla:goose, rusa:гусь (gus’), polona:gęś + kantona:雁 (ngaan6), japana:雁 (gan), taja:ห่าน (han)  
 **ganum** *tritiko* ← persa:گندم‎(gandom), malaja:gandum, urdua:گندم‎(gandum), teluga:గోధుమ (gōdhuma), svahila:ngano  
-**ganya** *akiri (gajni)* ← franca:gagner, portugala:ganhar, hispana:ganar, angla:gain  
 **gar** *aŭto (ĉaro)* ← angla:car, portugala:hispana:carro, deu:Karre, teluga:కారు  (kāru), malaja:kereta + hindia:गाड़ी (gāṛī), svahila:gari, persa:(gâri)  
-**gar** *se* ← kantona:假 (gaa1), vua:假 (ga) + hindia:अगर (agar), persa:urdua:اگر‎‎ (agar), turka:eğer  
 **garanti** *garantio* ← angla:guarantee, hispana:garantía, portugala:garantia, franca:garantie, deu:Garantie, rusa:гарантия (garantiya), turka:garanti  
 **garde** *gardi* ← angla:guard, franca:garde, hispana:portugala:guarda, japana:ガード (gādo), korea:가드 (gadeu)  
 **garma** *varma* ← hindia:गरम (garm), urdua:persa:گرم‎‎ (garm), kur:germ, deu:angla:warm  
@@ -1346,6 +1344,7 @@
 **serve** ** ← angla:franca:service, portugala:serviço, rusa:сервис (servis), turka:servis + hindia:सेवा (sevâ), bengala:সেবা  (seba)  
 **sesam** ** ← angla:sesame, rusa:сезам (sezam), hispana:sésamo, araba:(simsim), svahila:simsim, turka:susam  
 **sexe** *sekso* ← angla:sex, franca:sexe, hispana:portugala:sexo, rusa:секс (seks), turka:seks, hindia:सेक्स (seks), japana:セックス (sekkusu), korea:섹스 (sekseu)  
+**si** *se* ← franca:hispana:si, portugala:se, turka:ise, mandarena:使 (shǐ); 要是 (yàoshǐ), kantona:使 (si2); 要是 (jiu3si6)  
 **siborge yum** *seborgio* ← angla:seaborgium, franca:seaborgium, hispana:seaborgio, portugala:seabórgio, rusa:сиборгий, mandarena: (xǐ), japana:シーボーギウム, korea:새보쥼, vjetnama:seaborgi, hindia:सीबोर्गियम, bengala:সিওবোর্গিয়াম, malaja:seaborgium, svahila:seaborgi, araba: سيبورجيوم  
 **side** ** ← rusa:сидеть (sidet'), angla:sit, deu:sitzen, itala:sedere  
 **sifa** ** ← araba:صفة (ṣifa), persa:صفت (sefat), hindia:सिफ़त (sifat), svahila:sifa, turka:sıfat, malaja:sifat  

@@ -660,7 +660,7 @@ cen den - yesterday
 cen di - previous (fore)  
 cen ding - default (preset, predecided)  
 cen fixe - prefix  
-cen gar - assume (presuppose)  
+cen si - assume (presuppose)  
 cen vide - expect (anticipate, predict, forsee)  
 cen vide di - expected  
 • ancen vide di - unexpected  
@@ -1580,8 +1580,7 @@ Ganimede - Ganymede
 ganja - cannabis (marijuana, ganja, pot, weed)  
 ganse - goose  
 ganum - wheat  
-ganya - earn (gain)  
-gar - if (suppose, assume)  
+si - if (suppose, assume)  
 gar - car (cart, carriage, wagon, automobile)  
 garparke - car park (parking lot)  
 garanti - guarantee (warranty)  

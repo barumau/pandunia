@@ -749,8 +749,7 @@ ganir grupe - ĥoro
 ganja - kanabo  
 ganse - ansero  
 ganum - tritiko  
-ganya - akiri (gajni)  
-gar - se  
+si - se  
 gar - aŭto (ĉaro)  
 garanti - garantio  
 garde - gardi  

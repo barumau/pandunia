@@ -371,7 +371,7 @@ dyyni (kinos) - duna
 
 Ecuador - Ekuador  
 edellinen - cen di  
-edellyttää - cen gar  
+edellyttää - cen si  
 edeltäjä - prekurser  
 edeltää (mennä edeltä) - precese  
 edeltää (olla ennen) - be cen  
@@ -633,7 +633,6 @@ hana (venttiili, kraana) - kran
 hangata - frike  
 hanhi - ganse  
 hanke (projekti) - projete  
-hankkia (ansaita) - ganya  
 hapan (kirpeä) - suan  
 hapatettu - bio mute di  
 happi - oxe  
@@ -1003,7 +1002,7 @@ joogi - yoga ja
 jopa - hata di  
 Jordania - Urdun  
 joruban kansa ja kieli - Yoruba  
-jos (olettaa) - gar  
+jos (olettaa) - si  
 joskus - yo sata  
 jossa? - ke loka  
 joukko (joukkue, osapuoli, puolue) - parti  

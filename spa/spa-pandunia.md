@@ -1644,7 +1644,6 @@ galleta - biskute
 galope - galope  
 galés - kamri  
 Gambia - Gambia  
-ganar (cobrar) - ganya  
 gancho (anzuelo, alcayata) - huke  
 Ganges - Ganga  
 ganso (oca) - ganse  
@@ -3123,7 +3122,7 @@ presión - prese
 presión atmosférica - air prese  
 prestar (pedir prestado) - jeka  
 prestar - jeka don  
-presuponer - cen gar  
+presuponer - cen si  
 presupuesto - pesa plan  
 prever (esperar, pensar) - cen vide  
 previo (anterior) - cen di  
@@ -3535,7 +3534,7 @@ señal de tránsito - dau bano
 sharía - islam din xaria  
 Shiva - xiva  
 shogunato - ordu raja dexa  
-si (suponer) - gar  
+si (suponer) - si  
 Siberia - Sibiria  
 siempre - pan sata  
 sierra - sera  
