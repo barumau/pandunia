@@ -14,15 +14,15 @@ nav:
     - 'Présentation': 001_ration.md
     - 'Grammaire':
         - 100_baze_kanun.md
-        - 101_dunia_lexe.md
+        - 101_dunia_lexi.md
         - 102_ABC.md
-        - 104_viselexe.md
-        - 105_namelexe.md
+        - 104_viselexi.md
+        - 105_namlexi.md
         - 106_nume.md
-        - 107_modelexe.md
-        - 108_karelexe.md
-        - 109_jumlebine.md
-        - 110_lexebine.md
+        - 107_modelexi.md
+        - 108_karlexi.md
+        - 109_jumla.md
+        - 110_lexibina.md
     - 'Leçons':
         - 'Phrases courantes': 200_baze_jumle.md
         - 'Leçons': 201_xule.md
