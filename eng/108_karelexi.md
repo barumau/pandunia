@@ -54,7 +54,7 @@ which are introduced next.
 The relationship of an action, event or state to time is indicated with auxiliary verbs.
 
 **xuru**
-('begin, start')
+'begin, start'
 indicates beginning of an action or transition to a new situation.
 
 **mi xuru fuku la kote.**
@@ -65,7 +65,7 @@ indicates beginning of an action or transition to a new situation.
 – You start to eat.
 
 **fin**
-('end, cease, quit, stop')
+'end, cease, quit, stop'
 conveys the idea of "to stop doing something".
 
 **damen fin haha.**
@@ -76,7 +76,7 @@ conveys the idea of "to stop doing something".
 – You stop eating.
 
 **pul**
-('fulfill', 'complete')
+'fulfill, complete'
 indicates that an action is done completely.
 
 **tu pul yam un piza.**
@@ -85,7 +85,7 @@ indicates that an action is done completely.
 – I completed watching the film. / I watched the film completely.
 
 **fen**
-('partially')
+'partially'
 indicates that the action is only partially done.
 
 **tu fen yam un piza.**
@@ -94,28 +94,28 @@ indicates that the action is only partially done.
 – I watched some of the movie.
 
 **zai**
-'(be present')
+'be present'
 indicates that a situation is happening at present.
 
 **mi zai yam un piza.**
 – I am eating a pizza.
 
 **dur**
-('keep on', 'continue', 'proceed')
+'keep on, continue, proceed'
 indicates that a situation is continuing or in progress.
 
 **mi dur yam la piza.**
 – I keep on eating the pizza.
 
 **ada**
-('have a habit', 'be used to')
+'have a habit, be used to'
 indicates that an action is done regularly.
 
 **mi ada gul yo bir.**
 – I have a habit of drinking beer.
 
 **le**
-('attain, accomplish, reach; already')
+'attain, accomplish, reach; already'
 indicates that an action has happened in the past and is still ongoing, or is relevant to the current situation.
 It is best translated by *already* or *(not) yet*.
 You can think of it somewhat like the present perfect in English (_I have done_, _I have eaten_).
@@ -134,7 +134,7 @@ You can think of it somewhat like the present perfect in English (_I have done_,
 – I have come to the city. Or: I already came to the city.
 
 **pas**
-('pass, go past, go through')
+'pass, go past, go through'
 indicates that an action is finished and is no longer relevant to the current situation.
 You can think of it somewhat like the past simple in English (I finished, I ate).
 
@@ -148,7 +148,7 @@ You can think of it somewhat like the past simple in English (I finished, I ate)
 – I came to the city.
 
 **xa**
-('will, shall')
+'will, shall'
 indicates that the event will take place later or in the future.
 
 **da _xa_ e guru.**
@@ -186,21 +186,21 @@ the first verb (an auxiliary verb) is something that the subject possesses
 and the second verb is something that the subject does (when there is an object in the end)
 or experiences (when there is no object).
 
-**mi bil kitabu la javabu.**  
+**mi bil kitaba la javabu.**  
 ≈ *I have the ability to write the answer.*  
 – I can write the answer.  
-**mi halal kitabu la javabu.**  
+**mi halal kitaba la javabu.**  
 ≈ *I have the permission to write the answer.*  
 – I may write the answer.  
-**mi mus kitabu la javabu.**  
+**mi mus kitaba la javabu.**  
 ≈ *I have the compulsion to write the answer.*  
 – I must write the answer.
 
 Note that the same auxiliary verbs can be used alone as transitive verbs in the pivot construction.
 
-**guru halal mi kitabu la javabu.**
+**guru halal mi kitaba la javabu.**
 – The teacher permits me to write the answer.  
-**guru mus mi kitabu la javabu.**
+**guru mus mi kitaba la javabu.**
 – The teacher compels me to write the answer.
 
 
