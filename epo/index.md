@@ -1,12 +1,14 @@
-# sal, dunia!
+# Pandunia
 
-Saluton, mondo!
+**sal, dunia!**
+– Saluton, mondo!
+
 Bonvenon al lerni pri pandunio, la egale monda helpolingvo!
 
 ![](http://www.pandunia.info/grafe/halo_dunia.png "halo dunia!")  
 <small>Bildo de [Freepik](http://www.freepik.com)</small>
 
-## Kio estas pandunio?
+## Kio estas la pandunia?
 
 Pandunio estas konstruita helpa mondlingvo kiu celas lingvan neŭtralecon. Ĝi
 estas la produkto de pluraj jaroj ya esplorado, verko kaj eksperimentado.
@@ -20,7 +22,7 @@ Rimarkindaj trajtoj de pandunio estas:
 - Vere internacia. La panduniaj radik-vortoj estas pruntitaj el multaj lingvoj
   el la tuta mondo, inkluzive de la 10 plej parolataj lingvoj.
 
-![](http://www.pandunia.info/bandir/bandir.png "Pandunia flago")
+![](http://www.pandunia.info/grafe/bandir.png "Pandunia flago")
 
 ## Lerniloj
 

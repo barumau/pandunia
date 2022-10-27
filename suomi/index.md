@@ -1,6 +1,8 @@
-# sal, dunia!
+# Pandunia
 
-Tervehdys, maailma!
+**sal, dunia!**
+– Tervehdys, maailma!
+
 Tervetuloa tutustumaan panduniaan, koko maailman apukieleen!
 
 ![](http://www.pandunia.info/grafe/halo_dunia.png "halo dunia!")  
@@ -18,7 +20,7 @@ Pandunia on keinotekoinen kieli, joka on suunniteltu käytettäväksi kansainvä
   Mukaan on otettu mm. maailman 12 puhutuinta kieltä,
   jotka ova englanti, kiina, espanja, hindi-urdu, arabia, venäjä, bangla, portugali, malaiji, japani, ranska ja saksa.
 
-![](http://www.pandunia.info/bandir/bandir.png "Pandunian lippu")
+![](http://www.pandunia.info/grafe/bandir.png "Pandunian lippu")
 
 ## Kelle?
 

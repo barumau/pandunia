@@ -1,6 +1,12 @@
 # ﻿Pandunia - une langue simple pour le monde
 
-![](http://www.pandunia.info/bandir/bandir.png "Le drapeau du pandunia")
+**sal, dunia!**
+– Salut, monde!
+
+Bienvenue pour apprendre Pandunia, la langue auxiliaire également mondiale !
+
+![](http://www.pandunia.info/grafe/halo_dunia.png "halo dunia!")  
+<small>L'image par [Freepik](http://www.freepik.com)</small>
 
 ## Qu’est-ce que le pandunia ?
 
@@ -12,7 +18,7 @@ Quelques traits remarquables du pandunia :
 - En tant que langue construite, le pandunia est entièrement régulier : il n’y a pas d’exception ;
 - Le pandunia est réellement international ! Les mots en pandunia sont des mots empruntés dans le monde entier à des langues présentes aux quatre coins du globe, dont les dix langues les plus parlées du monde.
 
-Cette documentation n'est pas à jour avec la version finale de pandunia. Voir les versions anglaise ou espagnole pour les informations les plus précises.
+![](http://www.pandunia.info/grafe/bandir.png "Le drapeau du pandunia")
 
 ## Ressources pour apprendre
 

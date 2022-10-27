@@ -1,9 +1,12 @@
-pandunia - prosty światowy język
-==================================
+# pandunia - prosty światowy język
 
-![](http://www.pandunia.info/bandir/bandir.png "Flaga Panduni")
+**sal, dunia!**
+– Witaj świecie!
 
-Uwaga: Polskojęzyczna wersja jest w trakcie tworzenia. Cała i aktualna zawartość witryny jest dostępna w wersji anglojęzycznej
+Zapraszamy do zapoznania się z Pandunią, równie globalnym językiem pomocniczym!
+
+![](http://www.pandunia.info/grafe/halo_dunia.png "halo dunia!")  
+<small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 ## Czym jest Pandunia?
 
@@ -14,6 +17,8 @@ Niektóre zauważalne cechy Panduni:
 - Pandunia jest prostsza i łatwiejsza niż naturalnie powstałe międzynarodowe języki jak angielski, chiński, francuski i arabski.
 - Jako skonstruowany język, Pandunia jest kompletnie regularna – nie ma żadnych wyjątków.
 - Pandunia jest prawdziwie międzynarodowa! Słowa Panduni to słowa ogólnoświatowe, które są zapożyczone z wielu języków na całym świecie, w tym najpopularniejszych 10 najczęściej używanych języków świata.
+
+![](http://www.pandunia.info/bandir/bandir.png "Flaga Panduni")
 
 
 ## Materiały do nauki
