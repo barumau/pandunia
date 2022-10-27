@@ -12,13 +12,14 @@ nav:
     - 'Info':
         - 002_filsofi.md
     - 'Gramatica':
+        - 100_baze_kanun.md
         - 102_ABC.md
         - 103_lexitipe.md
         - 104_viselexi.md
         - 105_namlexi.md
         - 106_nume.md
         - 107_modelexi.md
-        - 108_karelexi.md
+        - 108_karlexi.md
         - 109_jumlabina.md
         - 110_lexibina.md
     - 'Lecciones':

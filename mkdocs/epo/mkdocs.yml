@@ -8,14 +8,14 @@ nav:
     - 'Ĉefpaĝo': 'index.md'
     - 'Bazaĵoj kaj strukturo de Pandunia':
         - 'Bazaj reguloj': 100_baze_kanun.md
-        - 'Tutmonda vortaro': 101_dunia_loga.md
+        - 'Tutmonda vortaro': 101_dunia_lexi.md
         - 'Prononco': 102_ABC.md
-        - 'Pronomoj': 104_viseloga.md
-        - 'Substantivoj': 105_namloga.md
-        - 'Nombrovortoj': 106_nomer.md
-        - 'Modifaj vortoj': 107_modeloga.md
-        - 'Verboj': 108_karmaloga.md
-        - 'Vortfarado': 110_loga_bina.md
+        - 'Pronomoj': 104_viselexi.md
+        - 'Substantivoj': 105_namlexi.md
+        - 'Nombrovortoj': 106_nume.md
+        - 'Modifaj vortoj': 107_modelexi.md
+        - 'Verboj': 108_karlexi.md
+        - 'Vortfarado': 110_lexibina.md
     - 'Lecionoj':
         - 'Utilaj frazoj': 200_baze_jumla.md
     - 'Vortaroj':

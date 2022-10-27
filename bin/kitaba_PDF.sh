@@ -21,7 +21,7 @@ fa_dataje_liste() {
     max_dataje_nam $1/105_namlexi.md
     max_dataje_nam $1/106_nume.md
     max_dataje_nam $1/107_modelexi.md
-    max_dataje_nam $1/108_karelexi.md
+    max_dataje_nam $1/108_karlexi.md
     max_dataje_nam $1/109_jumlabina.md
     max_dataje_nam $1/110_lexibina.md
     max_dataje_nam $1/201_xula.md

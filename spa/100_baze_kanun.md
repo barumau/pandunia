@@ -45,9 +45,9 @@ Ellas se describien en más detalle más tarde en este sitio.
    Los adjetivos y adverbos tienen la misma forma.
    El adjetivo está antes del sustantivo que modifica,
    y el adverbo está antes del verbo que modifica.
-    - **un kuai loga**
+    - **un suga loga**
       – Un habla rápida.
-    - **tu kuai loga.**
+    - **tu suga loga.**
       – Tú hablas rápido.
 8. **Verbos:**
    Los verbos no cambian para persona, número, o tenso.
@@ -60,10 +60,10 @@ Ellas se describien en más detalle más tarde en este sitio.
     - El orden de las palabras es subjeto-verbo-objeto.
       El mismo orden se usa en ambos declaraciones y preguntas.
     - Una oración pasiva se construye con la ayuda del verbo auxiliar pasivo **be**.
-      Un efeto similar se puede lograr con el pronombre impersonal **mon**.
+      Un efeto similar se puede lograr con el pronombre impersonal **se**.
         - **pandunia be loga.**
           – Pandunia es hablado.
-        - **men loga pandunia.**
+        - **se loga pandunia.**
           – Uno habla Pandunia.
     - En la _structura de eje_, el objeto del verbo transitivo
       funcciona como el subjeto del verbo siguiente.
