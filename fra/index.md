@@ -17,6 +17,7 @@ Cette documentation n'est pas à jour avec la version finale de pandunia. Voir l
 ## Ressources pour apprendre
 
 - [L'essentiel](003_baze.md) en une seule page
+- [Grammaire complète](pan.pdf) dans un fichier PDF
 - [Leçon en dialogues](201_xule.md)
 - [Flashcards et quiz](https://lingopolo.org/pandunia/) sur le site de Lingopolo (en anglais)
 - [Petits cours en images](http://www.pandunia.info/pandunia/mini_xule.html)

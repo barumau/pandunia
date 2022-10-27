@@ -1,17 +1,17 @@
 fata_lista_pandunia_X() {
     lexilista="$2/pandunia-$2.md"
     #echo "kitaba $lexilista"
-    #pandunia ($2) a 1:ime
+    #pandunia ($2) a 1:me
     cat lexi.csv | awk -F "|" "{print \$2	 \" - \" \$$1 \"  \"}" > $lexilista
-    #mortife 1:ime line
+    #mata 1:me line
     sed -i '1d' $lexilista
-    # ABC nam do title a line xure
+    # ABC nam to title a line xure
     sed -i 's/^[A-Z] - .*$/\n##&\n/' $lexilista
-    # mute "A - A" do "A"
+    # mute "A - A" to "A"
     sed 's/#[A-Z] -/#/g' -i $lexilista
     #Delete empty translations
     sed -i '/-...$/d' $lexilista
-    #kitaba la name e la preloge
+    #kitaba la name i la preloge
     headername="$2/pandunia-$2.preloge.txt"
     if test -f "$headername"; then
        echo "$headername exists"
@@ -24,17 +24,17 @@ fata_lista_pandunia_X() {
 }
 
 fata_lista_X_pandunia() {
-    #ale lingue a 1:ime
+    #ale lingue a 1:me
     lexilista="$2/$2-pandunia.md"
     #echo "kitaba $lexilista"
     cat lexi.csv | awk -F "|" "{print \$$1 \" - \" \$2 \"  \"}" > $lexilista
-    #mortife 1:ime line
+    #mata 1:me line
     sed -i '1d' $lexilista
     # alfabeta
     cat $2/$2-pandunia.md | LC_ALL=C sort -f > temp/temp.txt
-    # ABC nam do title a line xure
+    # ABC nam to title a line xure
     cat temp/temp.txt | sed 's/^[A-Z] - .*$/\n##&\n/' > $lexilista
-    # mute "A - A" do "A"
+    # mute "A - A" to "A"
     sed 's/#[A-Z] -/#/g' -i $lexilista
     #Add header
     sed -i "1s/^/# $3–pandunia\n/" $lexilista
@@ -45,10 +45,10 @@ fata_lista_X_pandunia() {
 }
 
 fa_lexi_asal_lista() {
-    #pandunia = $2 e lexi asal = $5
+    #pandunia = $2 i lexi asal = $5
 #    cat lexi.csv | awk -F "|" "{print \$$1 \$1 \$4 }" > $2/leksaslia.md
     cat lexi.csv | awk -F "|" "{print \"**\" \$2 \"** *\" \$$1 \"* ← \" \$5 \"  \"}" > $2/leksaslia.md
-    #mortife 1:ime line
+    #mata 1:me line
     sed -i '1d' $2/leksaslia.md
     #Sort
     LC_ALL=C sort -f $2/leksaslia.md --output $2/leksaslia.md
@@ -57,7 +57,7 @@ fa_lexi_asal_lista() {
     #Delete empty translations
     sed -i '/←   /d' $2/leksaslia.md
     sed -i '/----/d' $2/leksaslia.md
-    #repare 2:ime line
+    #repare 2:me line
     #sed 's/|\*\*--/|--/' -i $2/leksaslia.md
     #sed 's/--\*\*|/--|/' -i $2/leksaslia.md
 }
@@ -70,9 +70,9 @@ fata_lista() {
 }
 
 fata_lexi_asal() {
-    #pandunia = $2 e lexi asal = $5
+    #pandunia = $2 i lexi asal = $5
     cat lexi.csv | awk -F "|" "{print \"|**\" \$2 \"**|\" \$5 \"|\"}" > temp/lexi.txt
-    #mortife 1:ime line
+    #mata 1:me line
     sed -i '1d' temp/lexi.txt
     sed -i '1d' temp/lexi.txt
     cat pandunia/loge_asle_supre.md temp/lexi.txt > pandunia/leksaslia.md
@@ -84,7 +84,7 @@ fata_lexi_asal() {
 kitaba_Tiddly() {
     cp $1/pandunia-$1.md temp/temp.txt
     sed 's/_//g' -i temp/temp.txt
-    #mortife unime line
+    #mata 1:me line
     sed -i '1d' temp/temp.txt
     cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > $1/tiddly.html
 }
@@ -255,49 +255,49 @@ trabaxa_lexi_asal_to_esperanto() {
 #dos2unix lexi.csv
 sed 's/\t/|/g' -i lexi.csv
 
-# english e pandunia
+# english i pandunia
 fata_lista 6 eng English
 trabaxa_lexi_asal_to_english
 
 #Tiddly dictionary
 kitaba_Tiddly eng
 
-# esperanto e pandunia
+# esperanto i pandunia
 fata_lista 26 epo esperanto
 trabaxa_lexi_asal_to_esperanto
 
-# suomi e pandunia
+# suomi i pandunia
 fata_lista 27 suomi suomi
 trabaxa_lexi_asal_to_suomi
 
-# polski e pandunia
+# polski i pandunia
 fata_lista 28 pol polski
 
-# Tiddly polski e pandunia
+# Tiddly polski i pandunia
 kitaba_Tiddly pol
 
-# putonghan e pandunia
+# putonghan i pandunia
 fata_lista 21 zho "putong han"
 
-# nipon e pandunia
+# nipon i pandunia
 fata_lista 23 jpn nipon
 
-# malayu e pandunia
+# malayu i pandunia
 fata_lista 16 may "bahasa malayu"
 
-# rus e pandunia
+# rus i pandunia
 fata_lista 11 rus русский
 
-# franse e pandunia
+# franse i pandunia
 fata_lista 8 fra français
 
-#Tiddly franse e pandunia
+#Tiddly franse i pandunia
 kitaba_Tiddly fra
 
-# espanya e pandunia
+# espanya i pandunia
 fata_lista 9 spa español
 
-# portugal e pandunia
+# portugal i pandunia
 fata_lista 10 por português
 
 # lexi asal a pandunia baxa

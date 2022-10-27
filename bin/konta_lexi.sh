@@ -1,6 +1,6 @@
 #!/bin/bash
 kitaba_pike() {
-   echo "# nomer da pandunia loga ze alo basha" > pandunia/lexi_nume.md
+   echo "# nume de pandunia lexi de alo baxa" > pandunia/lexi_nume.md
    echo "" >> pandunia/lexi_nume.md
    echo "| baxa  | nume  | fen |" >> pandunia/lexi_nume.md
    echo "|-------|-------|-----|" >> pandunia/lexi_nume.md

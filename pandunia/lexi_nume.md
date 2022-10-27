@@ -1,4 +1,4 @@
-# nomer da pandunia loga ze alo basha
+# nume de pandunia lexi de alo baxa
 
 | baxa  | nume  | fen |
 |-------|-------|-----|
