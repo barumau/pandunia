@@ -21,7 +21,7 @@
 | 4 nelu  | 40 nelu   des| 400 nelu sento  | 4000 nelu kilo    |
 | 5 lima  | 50 lima  des | 500 lima sento  | 5000 lima kilo    |
 | 6 luka  | 60 luka des  | 600 luka sento  | 6000 luka kilo    |
-| 7 ceti  | 70 chetides  | 700 ceti sento  | 7000 ceti kilo    |
+| 7 ceti  | 70 ceti des  | 700 ceti sento  | 7000 ceti kilo    |
 | 8 bati  | 80 bati des  | 800 bati sento  | 8000 bati kilo    |
 | 9 tisa  | 90 tisa des  | 900 tisa sento  | 9000 tisa kilo    |
 
