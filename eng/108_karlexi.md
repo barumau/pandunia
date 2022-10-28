@@ -37,9 +37,13 @@ The marker is typically a particle or an auxiliary verb.
 One of the many suitable markers is
 **ya**
 ('yes'),
-which adds no content to the sentence
-but helps to clarify its structure.
+which doesn't change the meaning of the sentence
+but only helps to clarify its structure.
 
+**tuzi yam.**
+– Rabbit food. – OR Rabbit eats.  
+**tuzi ya yam.**
+– Rabbit does eat. ~ Rabbit eats.  
 **karote e tuzi yam.**
 – Carrot is rabbit food.  
 **tuzi _ya_ yam karote.**

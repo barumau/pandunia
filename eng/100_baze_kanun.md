@@ -42,7 +42,7 @@ They are described in more detail later in this document.
    The adjective and the adverb have the same form.
    The adjective modifier is before the noun that it modifies,
    and the adverb modifier is before the verb that it modifies.
-    - **un kuai loga**
+    - **un suga loga**
       – A fast speech.
     - **tu suga loga.**
       – You speak fast.
@@ -57,10 +57,10 @@ They are described in more detail later in this document.
     - The word order is subject–verb–object.
       The same order is used in declarations and questions.
     - A passive sentence is created with the help of the passive auxiliary verb **be**.
-      A similar effect can be also reached with the impersonal pronoun **men**.
+      A similar effect can be also reached with the impersonal pronoun **se**.
         - **pandunia be loga.**
           – Pandunia is spoken.
-        - **men loga pandunia.**
+        - **se loga pandunia.**
           – One speaks Pandunia.
     - In the _pivot structure_, the object of the transitive verb
       functions as the subject of the following verb.

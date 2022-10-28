@@ -110,7 +110,7 @@ They are placed before the modified noun like normal adjectives.
 **tri me fen**
 – the third part
 
-Also the words for previous, next, first and last use the same suffix.
+Also the words for previous, next, first and last use the same particle.
 
 **pre**
 'before, precede'
@@ -133,6 +133,7 @@ Ordinal numbers are put before cardinal numbers.
 
 **un me tri kupa kafe**
 – the first three cups of coffee
+
 
 ### Ordinal number after noun
 
@@ -272,8 +273,7 @@ Days of the week are named after celestial bodies and they include the word
 
 #### Months
 
-Names of the months are composed like the names of days
-but this time the word
+Names of the months are made up of the number of the month and
 **mes**
 ('month') is used.
 

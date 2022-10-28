@@ -175,10 +175,10 @@ is from English: me, Hindi: मैं (meṇ), Spanish: me, French: me, Swahili:
 **tu e Tomas.**
 You are Thomas.
 
-**mi salam tu.**
+**mi sal tu.**
 I greet you.
 
-**tu salam mi.**
+**tu sal mi.**
 You greet me.
 
 Pronouns don't ever change their form in Pandunia.
@@ -233,8 +233,8 @@ Tip: Yes/no questions frequently begin with
 **sual**.
 It is just a regular verb, not a special _question tag_.
 In fact, the previous question is simply abbreviated from
-**mi sual tu davar**
-(I ask, you doctor?) by dropping out the first word.
+**mi sual tu e davar**
+(I ask, you are doctor?) by dropping out the first word.
 
 **sual tu bon?**
 How are you? (Literally: _Are you good?_)  
@@ -290,7 +290,7 @@ You can use
 to deny anything.
 It is placed before the word that is denied.
 
-**da no salam mi.**
+**da no sal mi.**
 He/she doesn't greet me.
 
 <small>Etymology. **no**
@@ -779,7 +779,7 @@ Swahili, Hausa, Yoruba, Amharic
 **tu ga ke?**
 Where are you going?
 
-**mi ga la dom.**
+**mi ga dom.**
 I'm going home.
 
 **mi mus ga ke?**
