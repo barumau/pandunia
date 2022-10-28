@@ -35,14 +35,14 @@ Es particularmente útil cuando el sujeto y el verbo son palabras de contenido
 que pueden servir de los dos.
 El indicador es tipicalmente una partícula o un verbo auxiliar.
 Un de los indicadores más adecuado es
-**ye**
-(»sí>>),
+**ya**
+(»sí»),
 que añade ningún contenido a la oración
 pero ayuda clarificar su estructura.
 
 **karote e uma yam.**
 – Zanahoria es comida para caballos.  
-**uma _ye_ yam karote.**
+**uma _ya_ yam karote.**
 – El caballo come zanahorias.
 
 Otros indicadores adecuado son verbos auxiliares de tiempo y modo,
@@ -57,9 +57,9 @@ La relación de un acción, evento, o estado a tiempo se indica con verbos auxil
 (»empezar>>, »comenzar>>)
 indica el comienzo de una acción o transición a una situación nueva.
 
-**mi xuru fuke la kote.**
+**mi xuru fuku la kote.**
 – Empiezo a llevar el abrigo. = Me pongo el abrigo.  
-**kaguji ye xuru hoge.**
+**kaguji ya xuru hogo.**
 – Papel empieza a quemar.  
 **tu xuru yam.**
 – Empiezas a comer.
@@ -70,7 +70,7 @@ indica el fin de una acción o situación.
 
 **damen fin haha.**
 – Dejan de reírse.  
-**kaguji ye fin hoge.**
+**kaguji ya fin hogo.**
 – Papel deja de quemar.
 
 **pul**

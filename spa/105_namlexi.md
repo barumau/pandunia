@@ -8,7 +8,7 @@ Entonces la misma forma se usa en singular y plural, en definido e indefinido, e
 
 **ite**
 – una piedra, unas piedras, la piedra, o las piedras  
-**moke**
+**moka**
 – un árbol, unos árboles, el álbol, o los árboles  
 **kursi**
 – una silla, unas sillas, la silla, o las sillas  
@@ -37,14 +37,14 @@ Simplemente inserta un número delante del sustantivo igual.
 – dos sillas  
 **tri kursi**
 – tres sillas  
-**poli kursi**
+**men kursi**
 – muchas sillas
 
 Un método fácil para decir que hay muchos es repetir el sustantivo dos veces.
 
 **ite ite**
 – piedras y piedras, una gran variedad de piedras
-**buke buke**
+**buku buku**
 – libros y libros, una gran variedad de libros
 
 
@@ -83,8 +83,8 @@ y las palabras que preceden a ella solo modifica el significado.
 
 **sol foto**
 – luz solar  
-**lun foto**
+**luna foto**
 – luz lunar  
-**lun ite**
+**luna ite**
 – roca lunar
 

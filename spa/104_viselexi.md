@@ -109,7 +109,7 @@ Arriba,
 
 **mi mana vo: mi ama tu.**
 – Significo esto: te amo. (Significo que te amo.)  
-**mi ame tu. mi mana la.**
+**mi ame tu. mi semi la.**
 – Te amo. Esa es la que significo.
 
 Arriba,

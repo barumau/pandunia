@@ -7,7 +7,7 @@ Pueden consistir en solo una palabra, que llama la atención del oyente.
 
 **mau!**
 – ¡Un gato!  
-**xave!**
+**barxa!**
 – ¡Llueve!
 
 ## Oraciones de estado
@@ -83,20 +83,20 @@ Estes siguen el predicado.
 
 Tal vez, el sujeto de una oración puede ser el objeto de otra.
 
-**la fuke ya gan.**
+**la fuku ya gan.**
 – La ropa se seca.  
-**sol ya gan la fuke.**
+**sol fa fuku gan.**
 – El sol seca la ropa.
 
 Para clarificar el orden o para añadir otros objetos, los verbos auxiliares **fa** y **be** se utilizan.
 **fa** indica que el sujeto es el agento o hacedor de la acción,
 y **be** indica que el sujeto es el paciente o recibirador.
 
-**mi fa salam mi su dosti.**
+**mi fa sal mi su dosti.**
 – Yo saludo a mi amiga.  
-**mi be salam mi su dosti.**
+**mi be sal mi su dosti.**
 – Yo soy saludada por mi amiga.  
-**pa fa mi salam mi su dosti.**
+**pa fa mi sal mi su dosti.**
 – Mi papá me hace saludar a mi amiga.
 
 
@@ -310,40 +310,40 @@ y corresponde a español _que_ o _el cual_.
 
 En Pandunia, cláusulas relativas siempre son separadadas por comas.
 
-**la buku, jo la jen fa kitabu, pada.**
+**la buku, ki la jen fa kitaba, pada.**
 – El libro, que la persona escribe, cae.
 
-Es posible omitir **jo**.
+Es posible omitir **ki**.
 Esta estructura se llama _cláusula relativa reducida_.
 
-**la buku, la jen fa kitabu, pada.**
+**la buku, la jen fa kitaba, pada.**
 – El libro, que la persona escribe, cae.
 
 El pronombre relative es necesario
 cuando el sustantivo relativizado es el sujeto de la cláusula relativa.
 
-**la jen, jo fa kitabu la buku, pada.**
+**la jen, ki fa kitaba la buku, pada.**
 – La persona, que escribe el libro, cae.
 
 En adición el objeto de una preposición puede ser la cabeza de la cláusula relativa.
 Es posible usar pronombres relativas o la estructura de cláusula relativa reducida.
 
-**la kalam, na jo la jen fa kitabu la buku, pada.**
+**la kalam, a ki la jen fa kitaba la buku, pada.**
 – La pluma, con que la persona escribe el libro, cae.  
-**la kalam, la jen fa kitabu la buku a, pada.**
+**la kalam, la jen fa kitaba la buku a, pada.**
 – La pluma, con que la persona escribe el libro, cae.
 
 El pronombre relativo puede ponerse en su lugar correcto en la estructura de eje
 o puede omitirse usando la estructura de cláusula relativa reducida.
 
-**la jen, mi vide jo fa kitabu la buku, pada.**
+**la jen, mi vide ki fa kitaba la buku, pada.**
 – La persona, que veo escribir el libro, cae.
-**la jen, mi vide fa kitabu la buku, pada.**
+**la jen, mi vide fa kitaba la buku, pada.**
 – La persona, que veo escribir el libro, cae.
 
 En adición _pronombre relativo resumivo_ se puede utilizar si es necesario.
 
-**la jen, mi fa kitabu la buku na jo su kalam, padu.**
+**la jen, mi fa kitaba la buku na ki su kalam, padu.**
 – La persona, con cuya pluma escribo el libro, cae.
 
 
@@ -354,7 +354,7 @@ El demostrativo **go** indica la frase siguiente, y **la** indica la previa.
 
 **vo e bari, ki mi le no vide damen.**
 – Lo siguiente es importante: resulta que no los veo.  
-**pan jen ha sam vale, la fate e klar.**
+**ki pan jen ha sam vale, la e klar.**
 – Todas las personas son iguales; este hecho es claro.
 
 --------------------------------------------------------------------------------

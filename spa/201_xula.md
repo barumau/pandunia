@@ -130,15 +130,18 @@ Esta es la manera como se saludan las personas en Pandunia.
 Dicen **sal**.
 Es usado para decir tanto hola como adiós o chao.
 
-**salam**
+**sal**
 – ¡Adiós!
 
-La palabra **salam** significa saludo. (El origen de esta palabra es del árabe “salām”. Pandunia es una lengua planificada multicultural. Por eso en Pandunia es común encontrar que una sola palabra tenga origenes de diferentes idiomas.) 
+La palabra **sal** significa saludo.
+(El origen de esta palabra es del árabe “salām” et del francese "salut".
+Pandunia es una lengua planificada multicultural.
+Por eso en Pandunia es común encontrar que una sola palabra tenga origenes de diferentes idiomas.) 
 
 
-**mi salam tu.**
+**mi sal tu.**
 – Yo te saludo.  
-**tu salam mi.**
+**tu sal mi.**
 – Tú me saludas. Usted me saluda.
 
 **mi salam tu**
@@ -147,7 +150,7 @@ En las oraciones activas el sujeto realiza la acción del verbo y el objeto o co
 En este caso
 **mi**
 es el sujeto,
-**salam**
+**sal**
 es el verbo (la acción), y
 **tu**
 es el objeto.
@@ -163,22 +166,22 @@ posición o función en la oración.
 
 En Pandunia las oraciones pueden ser abreviadas dejando por fuera los pronombres que son evidentes en el contexto.
 
-**mi salam tu!**
+**mi sal tu!**
 – ¡Yo te saludo!  
-**salam tu!**
+**sal tu!**
 – ¡Saludos para usted! (Es obvio que el hablante es quien saluda.)  
-**salam!**
+**sal!**
 – ¡Saludos! (Es obvio que el oyente es saludado.)
 
 La forma de **salam tu** es útil para decir el nombre de la persona, parentesco o profesión.
 
 **halo, karolina!**
 – ¡Hola, Carolina!  
-**salam, mama!**
+**sal, mama!**
 – ¡Hola, mamá!  
 **halo, papa!**
 – ¡Hola, papá!  
-**salam, xefe!**
+**sal, xefe!**
 – ¡Hola, jefe!  
 
 
@@ -196,7 +199,7 @@ Intenta traducir estas frases de Español a Pandunia.
 
 **sal, salam, halo**
 saludo; hola, adiós  
-**salam**
+**sal**
 saludar  
 **mama**
 mamá, madre, ma  
@@ -208,9 +211,9 @@ jefe, patrón
 
 ### Respuestas
 
-1. tu salam da.
-2. mama salam papa.
-3. salam mama!
+1. tu sal da.
+2. mama sal papa.
+3. sal mama!
 4. sal!
 
 
@@ -241,10 +244,10 @@ Pidiendo
 – Quiero té, gracias.  
 ...  
 <big>☺</big>>
-**cing salam tu su mama!**
+**cing sal tu su mama!**
 – Por favor llevale saludos a tu madre.  
 <big>☻</big>>
-**mi salam da. salam reste!**
+**mi sal da. sal reste!**
 – Yo la saludo. ¡Adiós!  
 <big>☺</big>>
 **sal cuti!**
@@ -264,7 +267,7 @@ Pandunia es una lengua de género neutral.
 No distingue sexos en los pronombres de las terceras personas o en otros pronombres.
 Todos los pronombres personales son usados en la siguiente oración.
 
-**mi cing tu salam da.**
+**mi cing tu sal da.**
 – Yo pedirte saludar a él/ella. (Te pido que saludes)
 
 Esta oración es una _oración eje_. El primer verbo,
@@ -274,7 +277,7 @@ Esta oración es una _oración eje_. El primer verbo,
 como su objeto. Al mismo tiempo
 **tu**
 sirve también como el sujeto del segundo verbo,
-**salam**
+**sal**
 'saludar', del cual su objeto es
 **da**.
 Así
@@ -292,9 +295,9 @@ seguridad que los oyentes saben de lo que él o ella está hablando.
 Por lo tanto, es innecesario seguir repitiéndolas. De esta manera se
 pueden hacer frases más cortas. 
 
-**mi cing tu salam da.**
+**mi cing tu sal da.**
 – Yo te pido digas hola a él.
-**cing salam da.**
+**cing sal da.**
 – Por favor dile hola.
 
 ¿Vea cómo la traducción de **ching** ha cambiado entre las dos frases?
@@ -309,20 +312,20 @@ utilizado para hacer peticiones corteses.
 
 **cing side.**
 – Por favor sientese.  
-**cing don yo kafe.**
+**cing don  kafe.**
 – Por favor me da un poco de café.  
-**cing don yo cai.**
+**cing don cai.**
 – Por favor me da un poco de té.  
-**cing yam yo cai.**
+**cing yam cai.**
 – Por favor beba algo de té.  
-**cing safi la kamar.**
+**cing safi kamar.**
 – Por favor limpie la habitación.  
 
 Las ordenes son introducidas con **amir** = ordenar. Se utiliza la misma estructura eje como para pedir con **ching**.
 
-**amir da yo cai.**
+**amir don cai.**
 – ¡Deme un poco de té!  
-**amir safi la kamar.**
+**amir safi kamar.**
 – ¡Limpie la habitación!
 
 
@@ -417,7 +420,7 @@ algo
 **no yam.**
 – No.  
 <big>☺</big>
-**xukur. mi da un cai i un kafe i un supe pos des minute.**
+**xukur. mi don un cai i un kafe i un supe pos des minute.**
  = ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
 
 
@@ -531,14 +534,14 @@ En la lección anterios apredimos a responder con **da** y **no**.
 La palabra **no** es usada para negar algo. Si se pone **no** antes
 del verbo convertimos una oración afirmativa en negativa. 
 
-**mi salam tu.**
+**mi sal tu.**
 – Yo to saludo.  
-**mi no salam tu.**
+**mi no sal tu.**
 – Yo no saludo a usted. (No te saludo.)
 
 Conceptualmente negación significa a ausencia de la palabra negada.
 En la frase
-**mi no salam tu**
+**mi no sal tu**
 la palabra
 **no**
 niega la existencia de 
@@ -547,11 +550,11 @@ niega la existencia de
 En Pandunia la palabra negativa ne se aplica a la palabra que la sigue.
 Si que diferentes alcances de negación pueden resultar en función de la ubicación de la palabra negativa.
 
-**mi cing tu safi la kamar.**
+**mi cing tu safi kamar.**
 – Yo te pedi limpiar la habitación.  
-**mi no cing tu safi la kamar.**
+**mi no cing tu safi kamar.**
 – Yo no te pedi limpiar la habitación.  
-**mi cing tu no safi la kamar.**
+**mi cing tu no safi kamar.**
 – Yo te pedi no limpiar la habitación.  
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 
@@ -674,7 +677,7 @@ que todavía se está hablando en el mismo tiempo.
 En algunas expresiones es pertinente expresar el tiempo. Otras marcas
 de tiempo no son necesarias.
 
-**mi yam yo cai a cen den.**
+**mi yam cai a preden.**
 – Yo tomé té ayer.  
 **da be gene a mes 9.**
 – Él nació en septiembre.  
@@ -724,7 +727,7 @@ actual, presente
 3. tu yam supe a zai.
 4. da safi kamar a pre den.
 5. mau yam milke a pos den.
-6. tu su mama festa a prenoce.
+6. tu su ma festa a prenoce.
 
 
 ---------------------------------------------------------------------

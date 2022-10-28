@@ -57,7 +57,7 @@ dependiendo de su posición en la oración.
 
 **mi _vide_ tu.**
 – Te _veo_. (verbo)  
-**tu ten bon vide.**
+**tu ha bon vide.**
 – Tienes buena _visión_. (sustantivo)  
 **mi estude la _vide_ suta.**
 – Estudio las artes _visuales_. (adjectivo)

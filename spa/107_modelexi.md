@@ -12,7 +12,7 @@ Por ejemplo, la palabra
 modifica un sustantivo en la oración A
 y un verbo en la oración B.
 
-A. **vo e un _suga_ kar.**
+A. **vo e un _suga_ gar.**
 – Eso es un carro _rápido_.  
 B. **tu _suga_ di loga.**
 – Usted habla _rápido_.
@@ -22,13 +22,13 @@ B. **tu _suga_ di loga.**
 
 En Pandunia, _adjetivos_ son modificadores que preceden el sustantivo que modifican.
 
-**un _suga_ kar**
-– un carro _rápido_  
-**un _neu_ kar**
+**un _neu_ gar**
 – un carro _nuevo_  
-**ba _dai_ meza**
+**un _suga_ gar**
+– un carro _rápido_  
+**men _dai_ meza**
 – mesas _grandes_  
-**ba _gau_ meza**
+**men _gau_ meza**
 – mesas _altas_  
 **un bon jen**
 – una persona _buena_
@@ -40,14 +40,14 @@ a diferencia de español, en que adjetivos cambian para acordar con el sustantiv
 – un hombre bueno  
 **un bon fem**
 – una mujer buena  
-**ba bon man**
+**men bon man**
 – hombres buenos  
-**ba bon fem**
+**men bon fem**
 – mujeres buenas
 
 Dos o más modificadores pueden modifican el mismo sustantivo.
 
-**un xiu neu kar**
+**un xiu neu gar**
 – un carro nuevo pequeño
 
 
@@ -65,9 +65,9 @@ Es común poner la partícula de modificación
 entre el modificador y el verbo.
 Hace la estructura del frase verbal más claro.
 
-**tu _mei di_ kitaba.**
+**tu _mei di_ kitabu.**
 – Tú escribes _hermoso_.  
-**damen _kuai di_ marce.**
+**damen _suga di_ marce.**
 – Ellos caminan _rápido_.
 
 

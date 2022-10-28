@@ -103,22 +103,22 @@ Yo soy Sara.
 **mi e Tomas.**
 Yo soy Tomás.
 
-**mi salam mama.**
+**mi sal mama.**
 Yo saludo a mamá.
 
-**mi salam papa.**
+**mi sal papa.**
 Yo saludo a papá.
 
 La palabra **salam** es un sustantivo y un verbo.
 El orden básico de las palabras en pandunia es sujeto–verbo–objeto.
 
-**Sara ya salam Tomas.**
+**Sara ya sal Tomas.**
 Sara saluda a Tomás.
 
-**salam mama!**
+**sal mama!**
 ¡Saludos, mamá!
 
-**salam papa!**
+**sal papa!**
 ¡Saludos, papá!
 
 <small>Etimología. **mi** viene del inglés: me, hindi: मैं (meṇ), español: me.</small>
@@ -128,10 +128,10 @@ Sara saluda a Tomás.
 **tu e Tomas.**
 Tú eres Tomás.
 
-**mi salam tu.**
+**mi sal tu.**
 Te saludo.
 
-**tu salam mi.**
+**tu sal mi.**
 Me saludas.
 
 Los pronombres no cambian su forma en pandunia. Es por eso que **mi** es el
@@ -197,10 +197,10 @@ No estoy bien.
 **ya, mi e Tomas.**
 Sí, soy Tomás.
 
-**sual da e dava ja?**
+**sual da e davar?**
 ¿Él/ella es doctor/a?
 
-**ya, da e dava ja.**
+**ya, da e davar.**
 Sí, él/ella es doctor/a.
 
 
@@ -222,10 +222,12 @@ Sí, estoy bien.
 **no, mi no bon.**
 No, no estoy bien.
 
-Puedes usar **no** para negar cualquier cosa. Se coloca antes de la cosa que se
+Puedes usar
+**no**
+para negar cualquier cosa. Se coloca antes de la cosa que se
 va a negar.
 
-**da no salam mi.**
+**da no sal mi.**
 Él/ella no me saluda.
 
 <small>Etimología. **no**
@@ -247,13 +249,13 @@ viene del español: no, inglés: nofrancés: non.</small>
 **damen**
 (ellos, ellas)
 
-**mimen salam tumen.**
+**mimen sal tumen.**
 Nosotros los saludamos a ustedes. 
 
-**tumen salam damen.**
+**tumen sal damen.**
 Ustedes los saludan a ellos.
 
-**damen salam mimen!**
+**damen sal mimen!**
 ¡Ellos nos saludan!
 
 **mimen e fem.**
@@ -385,40 +387,45 @@ Mi nombre es Tomás.
 **da su nam e Sara.**
 Ella se llama Sara.
 
-<small>Etimología. **nam** viene del hindi: नाम  "nām", farsi: نام‏‎
-"nām", tailandés: นาม "naam", indonesio: nama, japonés: 名前 "namae", alemán:
-Name, inglés: name.</small>
+<small>Etimología. **nam** viene del
+hindi: नाम  "nām",
+farsi: نام‏‎ "nām",
+tailandés: นาม "naam",
+indonesio: nama,
+japonés: 名前 "namae",
+alemán: Name,
+inglés: name.</small>
 
 
-### ten <small>tener</small>
+### ha <small>tener</small>
 
-**mi ten un bon dom.**
+**mi ha un bon dom.**
 Tengo una buena casa.
 
-**da no ten pesa.**
+**da no ha pesa.**
 Él/ella no tiene dinero.
 
-**mi vol ten un neu telefon.**
+**mi vol ha un neu telefon.**
 Yo quiero tener un teléfono nuevo.
 
-**sual tu ten yo ben?**
+**sual tu ha yo ben?**
 ¿Tienes niños?  
-**mi ten du ben.**
+**mi ha du ben.**
 Tengo dos niños.
 
 
-### sabe <small>saber, conocer</small>
+### san <small>saber, conocer</small>
 
-**mi sabe da.**
+**mi san da.**
 Yo lo/a conozco a él/ella.
 
-**sual tu sabe vo jen?**
+**sual tu san vo jen?**
 ¿Conoces esa persona?
 
-**sual tumen sabe semen?**
+**sual tumen san semen?**
 ¿Ustedes se conocen (entre ustedes)?
 
-**mimen sabe semen de long.**
+**mimen san semen de long.**
 Nosotros nos conocemos (entre nosotros) hace tiempo.
 
 
@@ -446,7 +453,7 @@ Quiero ayudarte
 **da yam un aple.**
 Él/ella come una manzana.
 
-**damen yam ba aple.**
+**damen yam aple.**
 Ellos/as comen manzanas.
 
 Nota: A diferencia del español, pandunia no tiene formas separadas de singular y plural.
@@ -495,7 +502,7 @@ No, no quiero té. Quiero café.
 Esta roja.
 
 
-### ching <small>pedir, solicitud, por favor</small>
+### cing <small>pedir, solicitud, por favor</small>
 
 **mi cing tu yam cai.**
 Te pido que bebas té.
@@ -582,10 +589,10 @@ No entiendo nada.
 
 ### bil <small>poder</small>
 
-**mi bil xofe un kar.**
+**mi bil xofe kar.**
 Puedo conducir un auto.
 
-**da no bil xofe un kar.**
+**da no bil xofe kar.**
 Él/ella no saber conducir un auto. (Literalmente:
 _Él/ella no puede conducir un auto._)
 
@@ -598,7 +605,7 @@ _Él/ella no puede conducir un auto._)
 **mi bil pandunia.**
 Puedo hablar pandunia.
 
-**mi bil un lili pandunia.**
+**mi bil kam pandunia.**
 Puedo hablar un poco de pandunia.
 
 **mi no bil englix.**
@@ -619,7 +626,7 @@ Te hablé.
 **mimen loge do semen.**
 Hablamos entre nosotros.
 
-**men loga «gato» a ke yang a pandunia?**
+**se loga «gato» a ke yang a pandunia?**
 ¿Cómo se dice "gato" en pandunia?
 
 **«gato» e ke a pandunia?**
@@ -629,21 +636,21 @@ Hablamos entre nosotros.
 El gato dice «miau».
 
 
-### aude <small>escuchar, oír</small>
+### audi <small>escuchar, oír</small>
 
-**aude mi!**
+**audi mi!**
 ¡Escúchame!
 
-**mi no bil aude tu.**
+**mi no bil audi tu.**
 No puedo oírte.
 
 **cing loga max bala.**
 Por favor, hablar más fuerte.
 
-**mi aude muzike.**
+**mi audi muzika.**
 Escucho música.
 
-**tu aude ke yang di muzike?**
+**tu audi ke yang di muzika?**
 ¿Qué clase de música escuchas?
 
 
@@ -652,7 +659,7 @@ Escucho música.
 **suka vide tu.**
 Encantado de verte.
 
-**vide tu re!**
+**to rivide!**
 ¡Hasta luego! (Literalmente: _¡Hasta que te vea de nuevo!_)
 
 **vide tu a posden!**
@@ -677,16 +684,16 @@ Significa una clase de animal.
 No entiendo qué significa.
 
 
-### kitabu <small>escribir</small>
+### kitaba <small>escribir</small>
 
-**cing kitabu tu su adres.**
+**cing kitaba tu su adres.**
 Por favor, escribe tu dirección.
 
-**cing kitabu da a ye.**
+**cing kitaba da a ye.**
 Por favor, escríbelo aquí.
 
 
-### baxe <small>hablar un idioma, comunicar</small>
+### baxa <small>hablar un idioma, comunicar</small>
 
 **sual tumen baxa pandunia.**
 ¿Hablas pandunia?
@@ -703,10 +710,10 @@ Francés, español, portugués, ruso
 **putong han, nipon, malayu**
 Chino, japonés, indonesio
 
-**arabi, turki, farsi, urdu, hindi**
+**arabi, turki, parsi, urdu, hindi**
 Árabe. turco, farsi, urdu, hindi
 
-**suahili, hausa, yoruba, amare**
+**suahili, hausa, yoruba, amara**
 Suajili, hausa, yoruba, amhárico
 
 
@@ -756,7 +763,7 @@ Vendré a casa mañana.
 **mimen safar de London to Paris.**
 Nosotros viajamos de Londres a París.
 
-**safar tre long.**
+**safar e dai di long.**
 El viaje es muy largo.
 
 
@@ -783,7 +790,7 @@ Estoy en casa.
 Ayuda: Puedes usar **na**
 como una preposición o como un verbo por aparte.
 
-**mi gong a...**
+**mi kar a...**
 Trabajo en...
 
 
@@ -814,7 +821,7 @@ es necesario.
 **damen dele mimen.**
 Ellos/as nos esperan.
 
-**mi dele to tu a hotel.**
+**mi dele tu a hotel.**
 Te espero en el hotel.
 
 ## Parte 5: Negocios
@@ -837,26 +844,26 @@ Le doy un libro a ellos/as.
 Él/ella no quiere darme eso.
 
 
-### na <small>tomar (de agarrar, sujetar)</small>
+### cepe <small>tomar (de agarrar, sujetar)</small>
 
-**mi na un kafe.**
+**mi cepe un kafe.**
 Voy a tomar un café.
 
-**cing na un kafe to mi.**
+**cing cepe un kafe to mi.**
 Por favor toma un café para mí.
 
-**tu pas na pesa de mi.**
+**tu pas cepe pesa de mi.**
 Tú yu tomaste dinero de mí.
 
-**mi na un bir.**
+**mi cepe un bir.**
 Voy a tomar una cerveza.
 
 
 ### kira <small>renta, alquiler</small>
 
-**mi vol kita na un kar.**
+**mi vol kira cepe un kar.**
 Quiero rentar un auto.
 
-**da kira don la kamar to safarer.**
+**da kira don la kamar to safarja.**
 Él/ella vende las habitaciones a los viajeros.
 

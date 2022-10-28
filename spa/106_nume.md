@@ -65,7 +65,7 @@ Ellas preceden la palabra o frase que califican.
 – tres estrellas  
 **kam sing**
 – pocas estrellas  
-**poli sing**
+**men sing**
 – muchas estrellas
 
 **un dai kursi**
