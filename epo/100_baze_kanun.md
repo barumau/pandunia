@@ -49,10 +49,10 @@
     - La normala vortordo estas subjekto–verbo–objekto.
       La sama ordo estas uzata kaj en deklaroj kaj en demandoj.
     - Pasiva frazo estas kreita per helpo de verbo **be**.
-      Oni povas atingi similan rezulton per la nepersona pronomo **men**.
+      Oni povas atingi similan rezulton per la nepersona pronomo **se**.
         - **pandunia be loga.**
           – Pandunia estas parolita.
-        - **men loga la pandunia.**
+        - **se loga la pandunia.**
           – Oni parolas pandunian.
     - En la _ĉarnira konstruo_ la objekto de la unua verbo
       rolas kiel la subjekto de la dua verbo.

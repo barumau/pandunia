@@ -6,9 +6,9 @@ En pandunio, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
 
 ### Modifante substantivon
 
-**un _neu_ kar**
+**un _neu_ gar**
 – nova aŭto 
-**un _suga_ kar**
+**un _suga_ gar**
 – rapida aŭto  
 **men _dai_ meza**
 – grandaj tabloj  
@@ -20,21 +20,21 @@ En pandunio, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
 Kiam modifovorto sekvas substantivon, ĝi rolas kvazaŭ kiel verbo, kiu indikas staton.
 Tio estas, kiel adjektivaj verboj en Esperanto.
 
-**kar si nove.**
+**gar e neu.**
 – La aŭto novas. (Aŭ: La aŭto estas nova.)  
-**bagre si rapide.**
+**bagre e suga.**
 – Tigroj rapidas. (Aŭ: Tigroj estas rapidaj.)  
 
 Kompreneble, eblas ke modifovortoj aperu je ambaŭ flankoj de substantivo.
 
-**un nove kar si rapide.**
+**un neu gar e suga.**
 – Nova aŭto estas rapida.
 
 ## Modifante verbon
 
 **tu _suga_ loga.**
 – Vi _rapide_ parolas.  
-**damen _bon_ kitabu.**
+**damen _bon_ kitaba.**
 – Ili _bone_ skribas.
 
 **tu _mei di_ kitabu.**
@@ -50,8 +50,8 @@ Aldoni partiklon
 **di**
 inter la modifanta kaj la modifata.
 
-**un _surpris di_ bon buku**
-– _surprizante_ bona libro  
+**un dai di_ bon buku**
+– _grande_ bona libro  
 **poli _bala di_ ame ja jen**
 – _forte_ amantaj homoj
 

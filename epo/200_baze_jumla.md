@@ -72,7 +72,7 @@ sŭahila *salaam*,
 indonezia *selamat*.</small>
 
 
-### shukur <small>dankon</small>
+### xukur <small>dankon</small>
 
 <p style="font-size:5em;">�</p>
 
@@ -119,8 +119,10 @@ Vi estas Sara.
 Pomo estas frukto.
 
 <small>Etimologio. **e** venas el
-mandarenĉina: 是 "shì",
-ŝanghajĉina: 是 "sí".</small>
+franca *est* /ɛ/,
+portugala *é*,
+hindia है /ɦɛ/.
+</small>
 
 
 ### mi <small>mi</small>
@@ -131,29 +133,29 @@ Mi estas Sara.
 **mi e Tomas.**
 Mi estas Tomaso.
 
-**mi salam mama.**
-kaj vian nomon. Oni ne bezonas verbon por diri tion pandunie!
-
-**mi salam papa.**
+**mi sal mama.**
 Mi salutas patrinon.
 
-**me salama pape.**
+**mi sal papa.**
 Mi salutas patron.
 
 La vorto **salam** estas la substantivo kaj **salama** estas la verbo. La
 normala vortordo en pandunio estas subjekto-verbo-objekto.
 
-**Sara ya salam Tomas.**
+**Sara ya sal Tomas.**
 Sara salutas Tomason.
 
-**salam mama!**
+**sal mama!**
 Saluton, patrino!
 
-**salam papa!**
+**sal papa!**
 Saluton, patro!
 
-<small>Etimologio. **me**
-venas el angla: me, hindi: मैं (meṇ), hispana: me.</small>
+<small>Etimologio. **mi** venas el
+angla *me*,
+hindia मैं (meṇ),
+hispana *mi*,
+sŭahila *mimi*.</small>
 
 
 ### tu <small>vi (singulare)</small>
@@ -161,16 +163,16 @@ venas el angla: me, hindi: मैं (meṇ), hispana: me.</small>
 **tu e Tomas.**
 Vi estas Tomaso.
 
-**mi salam tu.**
+**mi sal tu.**
 Mi salutas vin.
 
-**tu salam mi.**
+**tu sal mi.**
 Vi salutas min.
 
 Noto:  Vortoj neniam ŝanĝiĝas en pandunio. Do **mi**
 havas la saman formon kaj kiel subjekto kaj kiel objekto.
 
-**salam tu!**
+**sal tu!**
 Saluton al vi!
 
 **mi ame tu.**
@@ -207,13 +209,13 @@ mandarenĉina 他/她 (tā).</small>
 **sual tu e Tomas?**
 Ĉu vi estas Tomaso?
 
-**sual tu e dava ja?**
+**sual tu e davar?**
 Ĉu vi estas doktoro?
 
 Noto: Demandoj ofte komencas per **sual**.
 Sed ĝi estas tute normala verbo, ne demandvorteto kiel esperanta _ĉu_.
 Fakte, la lasta demando estas simple mallonga manero por diri
-**mi sual tu dava ja.**
+**mi sual tu e davar**
 (Mi demandas: Vi estas doktoro?).
 Oni nur forlasis la unuan pronomon.
 
@@ -241,10 +243,10 @@ sŭahila _swali_.</small>
 **ya, mi e Tomas.**
 Jes, mi estas Tomaso.
 
-**sual da e dava ja?**
+**sual da e davar?**
 Ĉu li/ŝi estas doktoro?
 
-**ya, da e dava ja.**
+**ya, da e davar.**
 Jes, li estas doktoro.
 
 
@@ -253,7 +255,7 @@ Jes, li estas doktoro.
 **mi no e Sara.**
 Mi ne estas Sara.
 
-**mi no e dava ja.**
+**mi no e davar.**
 Mi ne estas doktoro.
 
 **sual tu bon?**
@@ -270,15 +272,15 @@ Vi povas uzi
 **no**
 por nei ĉion. Metu ĝin antaŭ la neitan vorton.
 
-**da no salam mi.**
+**da no sal mi.**
 Li/ŝi no salutas min.
 
 <small>Etimologio. **no**
 venas el angla: no, hispana: no, franca: non.</small>
 
-### mon <small>homoj</small>
+### Pluraj pronomoj
 
-Aldoni **mon** al singulara pronomo por krei pluralan pronomon.
+Aldoni **men** al singulara pronomo por krei pluralan pronomon.
 **mi**
 (mi) →
 **mimen**
@@ -292,13 +294,13 @@ Aldoni **mon** al singulara pronomo por krei pluralan pronomon.
 **damen**
 (ili)
 
-**mimen salam tumen.**
+**mimen sal tumen.**
 Ni salutas vin ĉiujn.
 
-**tumen salam damen.**
+**tumen sal damen.**
 Vi ĉiuj salutas ilin.
 
-**damen salam mimen!**
+**damen sal mimen!**
 Ili salutas nin.
 
 **mimen e fem.**
@@ -334,7 +336,7 @@ Kiuj vi estas?
 **damen e ke?**
 Kiuj ili estas?
 
-### ye & vo <small>ĉi tiu & tiu</small>
+### ye i vo <small>ĉi tiu kaj tiu</small>
 
 **ye e ke?**
 Kio estas ĉi tio?
@@ -452,7 +454,7 @@ Mi konas lin/ŝin.
 **sual tu san vo jen?**
 Ĉu vi konas tiun personon?
 
-**sual tumen san se kon?**
+**sual tumen san semen?**
 Ĉu vi konas unu la alian?
 
 **mimen san semen de long.**
@@ -484,7 +486,7 @@ Mi volas helpu vin.
 **da yam un aple.**
 Li/ŝi manĝas pomon.
 
-**damen yam ba aple.**
+**damen yam aple.**
 Ili manĝas pomojn.
 
 Noto: Pandunio ne havas apartajn formojn por singularo kaj pluralo.
@@ -495,10 +497,12 @@ indikas unu aŭ multajn pomojn.
 **sual tu yam kafe?**
 Ĉu vi trinkas kafon?
 
-**me yama kafe.**
-Yes, I drink coffee.
+**ya. mi yam kafe.**
+Jes, mi trinkas kafon.
 
-Noto: Signifo de **yam** kovras manĝadon kaj trinkadon.
+Noto: Signifo de
+**yam**
+kovras manĝadon kaj trinkadon.
 
 **mi yam kafe i pang.**
 Mi manĝas kafon kaj panon.
@@ -630,7 +634,7 @@ Mi povas konduki aŭton.
 **mi bil pandunia.**
 Mi povas pandunion.
 
-**mi bil lili pandunia.**
+**mi bil kam pandunia.**
 Mi povas ete pandunion.
 
 **mi no bil englix.**
@@ -651,7 +655,7 @@ Mi parolas al vi.
 **mimen loga to semen.**
 Ni parolas unu al alia.
 
-**mon loga "kato" a ke yang a pandunia?**
+**se loga "kato" a ke yang a pandunia?**
 Kiel oni diras "kato" pandunie?
 
 **"kato" e ke a pandunia?**
@@ -669,7 +673,7 @@ Aŭskulti min!
 **mi no bil audi tu.**
 Mi ne povas aŭdi vin.
 
-**cing loga mas lika.**
+**cing loga max bala.**
 Bonvolu paroli pli forte.
 
 **mi audi muzika.**
@@ -747,7 +751,7 @@ la sŭahilia, la haŭsa, la joruba, la amhara
 **tu ga ke?**
 Kien vi iras?
 
-**mi ga la dom.**
+**mi ga dom.**
 Mi iras hejmen.
 
 **mi mus ga ke?**
@@ -860,7 +864,7 @@ La viro estas vidanta la virinon.
 
 ### pas <small>-is, pasinte</small>
 
-**mi pas salam tu su dosti.**  
+**mi pas sal tu su dosti.**  
 Mi (pasinte) salutis vian amikon.
 
 **la man ya pas vide un filme.**  
@@ -875,7 +879,7 @@ La viro (pasinte) vidis la virinon
 
 ### le <small>farite</small>
 
-**mi le salam tu su dosti.**  
+**mi le sal tu su dosti.**  
 Mi estas salutinta vian amikon.
 
 **la man le vide un filme.**  
@@ -890,7 +894,7 @@ Li estas estinta hejme.
 
 ### xa <small>-os, estonte</small>
 
-**mi xa salam tu su dosti.**  
+**mi xa sal tu su dosti.**  
 Mi salutos vian amikon.
 
 **la man xa vide la filme.**  

@@ -39,7 +39,7 @@ fa_pan_md() {
     #101_dunia_loga.md 200_baze_jumla.md
 
     # uze la loka di grafe
-    sed 's/http:\/\/www.pandunia.info/\/home\/rkupsala\/pandunia\/html/g' -i $1/pan.md
+    sed 's/http:\/\/www.pandunia.info/\/home\/risto\/pandunia\/html/g' -i $1/pan.md
 }
 
 fa_md_i_pdf() {

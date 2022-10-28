@@ -26,7 +26,7 @@ La aliaj vortoj, kiuj antaŭas la kernan vorton, nur modifas ĝian sencon.
 – suna lumo  
 **luna foto**
 – lun lumo  
-**luna seku**
+**luna ite**
 – luna ŝtono  
 
 
@@ -52,5 +52,5 @@ Oni povas esprimin nombron per numeraloj kiam ĝi estas utila.
 Pandunia ne havas gramatikan genron (t.e. maskla, femala kaj neŭtra kategorioj).
 
 Kelkaj vortoj enhavas _naturan genron_.
-Ekzemple **fem** (ino) estas femala kaj **man** (viro, icxo) estas maskla.
+Ekzemple **fem** (virino) estas femala kaj **man** (viro) estas maskla.
 

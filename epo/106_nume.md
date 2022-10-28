@@ -79,6 +79,64 @@ Nombro staras antaŭ la vorto aŭ vortoĉeno kies kvanton ĝi indikas.
 
 ## Ordaj nombrovortoj
 
+Aldoni partiklon **me** al nombro por krei ordan nombron.
+
+- **un me**
+  – unua
+- **du me**
+  – dua
+- **tri me**
+  – tria
+- **nelu me**
+  – kvara
+- **lima me**
+  – kvina
+- **luka me**
+  – sisa
+- **ceti me**
+  – sepa
+- **bati me**
+  – oka
+- **tisa me**
+  – naŭa
+- **des me**
+  – deka
+
+Ili estas metita antaŭ la modifiita substantivo.
+
+**un me fen**
+– la unua parto  
+**du me fen**
+– la dua parto  
+**tri me fen**
+– la tria parto
+
+Ankaŭ aliaj ordaj vordoj estas kreita per la sama partiklo.
+
+**pre**
+'antaŭ'
+→ **preme**
+'antaŭa'  
+**pos**
+'post'
+→ **posme**
+'sekva'  
+**xuru**
+'komenco'
+→ **xurume**
+'komenca, unua'  
+**fin**
+'fino'
+→ **finme**
+'fina, lasta'
+
+Ordaj nombroj estas metita antaŭ kvantaj nombroj.
+
+**un me tri kupa kafe**
+– la unuaj tri tasoj de kafo
+
+
+### Ordaj nombroj post substantivo
 Se la kvantovorto estas ordonombro, ĝi aperas post la vorto kiun ĝi modifas.
 
 **fen un**
@@ -87,4 +145,58 @@ Se la kvantovorto estas ordonombro, ĝi aperas post la vorto kiun ĝi modifas.
 – la dua parto  
 **fen tri**
 – la tria parto  
+
+## Dato kaj horo
+
+#### Tagoj de semajno
+
+Tagoj de semajno estas nomigitaj laŭ astroj de la sola sistemo, kaj ili finiĝas je la vorto
+**den**
+('tago, 24 horoj').
+
+1. **lunaden**
+   – lundo
+2. **marisden**
+   – mardo
+3. **merkurden**
+   – merkredo
+4. **muxinden**
+   – jaŭdo
+5. **zukraden**
+   – vendredo
+6. **xaniden**
+   – sabato
+7. **solden**
+   – dimanćo
+
+#### Monatoj
+
+Nomoj de monatoj enhavas nombron de monato kaj
+**mes**
+'monato'.
+
+1. **mes un**
+   – januaro
+2. **mes du**
+   – februaro
+3. **mes tri**
+   – marćo
+4. **mes nelu**
+  – aprilo
+5. **mes lima**
+  – majo
+6. **mes luka**
+  – junio
+7. **mes ceti**
+  – julio
+8. **mes bati**
+  – aŭgusto
+9. **mes tisa**
+  – septembro
+10. **mes des**
+  – oktobro
+11. **mes des un**
+  – novembro
+12. **mes des du**
+  – decembro
 
