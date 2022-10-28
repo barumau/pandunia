@@ -990,7 +990,7 @@ I want to take a car for rent.
 **mi vol kira cepe un kar.**
 I want to rent a car.
 
-**da kira don la kamar to safarer.**
+**da kira don la kamar to safarja.**
 He/she rents rooms to travelers.
 
 

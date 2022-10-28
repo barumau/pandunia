@@ -482,7 +482,7 @@ some, a(n)
 **no yam.**
 = No.  
 <big>☺</big>
-**xukur. mi dona un cai i un kafe i un supe pos des minute.**
+**xukur. mi don un cai i un kafe i un supe pos des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 

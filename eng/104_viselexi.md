@@ -180,6 +180,8 @@ and it means the same as English _which_.
 – Who? (Which person?)  
 **ke zaman?**
 – When? (What time?)  
+**ke loka?**
+– Where? (In which place?)
 **ke yang?** 
 – How? (What way?)  
 **ke sabu?**

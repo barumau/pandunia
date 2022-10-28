@@ -15,7 +15,7 @@ For example, the verb
 – I am a friend.  
 **_tu_ e dosti.**
 – You are a friend.  
-**_ya_ e dosti.**
+**_da_ e dosti.**
 – He or she is a friend.  
 **_mimen_ e dosti.**
 – We are friends.  
