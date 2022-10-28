@@ -69,10 +69,7 @@ et il correspond en français à _quel.le.s_, _lequel_, _laquelle_, _lesquelles_
 **ke yang?** 
 – Comment ? (De quelle manière ?)
 
-Le pronom interrogatif adverbial est **ko**
-et il correspond en français à _comment_.
-
-**ko** peut être aussi suivi d'un adjectif pour poser une question.
+**ke** peut être aussi suivi d'un adjectif pour poser une question.
 
 **ke neu?**
 – Quel degré de nouveauté ? (Comment neuf?)
@@ -85,6 +82,6 @@ et il correspond en français à _comment_.
 **ke xiu?**
 – Quelle taille ? (Comment petit ?)
 
-**tu ten ke dai di mau?**
+**tu ha ke dai di mau?**
 – Quelle taille fait le chat que tu as? (Tu as un chat comment grand ?)
 

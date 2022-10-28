@@ -134,5 +134,3 @@ C'est l'ordre des mots d'une phrase affirmative qui sert pour les questions.
 **tu ame da ke poli?**
 – Tu l'aimes combien ?
 
----
-Mis à jour le 28 juin 2022.

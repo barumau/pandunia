@@ -11,28 +11,28 @@ sur le plan de la politesse et de l'intimité.
 
 ### Dialogue
 
-<big>👩🏻</big>
+<big>☺</big>g>
 **halo!**
 = Salut!  
-<big>🧑🏾</big>
+<big>☻</big>g>
 **salam!**
 = Salut!  
-<big>👩🏻</big>
+<big>☺</big>g>
 **tu e ke?**
 = Qui es-tu ?  
-<big>🧑🏾</big>
+<big>☻</big>g>
 **mi e Yusef. tu e ke?**
 = Je suis Yusef. Qui est-tu ?  
-<big>👩🏻</big>
+<big>☺</big>g>
 **mi e Sara. da e ke?**
 = Je suis Sara. Qui est-ce ?  
-<big>🧑🏾</big>
-**da e mi su doste.**
+<big>☻</big>g>
+**da e mi su dosti.**
 = C'est mon amie.  
-<big>👩🏻</big>
+<big>☺</big>g>
 **da su nam e ke?**
 = Quel est son nom ?  
-<big>🧑🏾</big>
+<big>☻</big>g>
 **da su nam e Maria.**
 = Son nom est Maria.
 
@@ -43,7 +43,7 @@ Le sujet indique de qui ou de quoi on parle.
 Le commentaire dit quelque chose sur le sujet. Par exemple, dans
 **da e mi su doste**
 le sujet est le pronom **da** (il, elle, il neutre), suivi du commentaire
-**e mi su doste**
+**e mi su dosti**
 (est mon amie).
 
 Le mot **e** signifie _être_ en Pandunia.
@@ -55,9 +55,9 @@ Et pour dire le contraire, remplacez le simplement par **no** (qui signifie à l
 **da no e Sara.**
 = Ce n'est pas Sara.
 
-**mau e zoe.**
+**mau e hevan.**
 = Le chat est un animal.  
-**dom no e zoe.**
+**dom no e hevan.**
 = La maison n'est pas un animal.  
 
 De la même façon, vous pouvez vous décrire en utilisant **me** suivi d'un mot pour vous décrire.
@@ -106,7 +106,7 @@ oui
 non ; ne pas être  
 **bon**
 bon  
-**doste**
+**dosti**
 ami  
 **nam**
 nom  
@@ -123,7 +123,7 @@ animal
 
 1. tu e ke?
 2. mi e tomas.
-3. tu su doste e ke?
+3. tu su dosti e ke?
 4. da e Sara.
 5. tu su nam e ke?
 6. mi su nam e ........... 
@@ -134,29 +134,25 @@ animal
 
 ## Dire bonjour ou salut
 
-**salam**
+**sal**
 = Bonjour ! | Salut !
 
 C'est de cette manière que les gens se saluent en Pandunia.
 Ils disent **salam**
 à la fois pour dire bonjour et au revoir.
 
-**salam**
+**sal**
 = Au revoir !
 
 Le mot
-**salam**
+**sal**
 signifie "salutation".
-C'est à l'origine un mot arabe qui signifie _paix_ et c'est une manière de se saluer
-commune dans de nombreuses parties du monde, en particulier en
-Afrique et en Asie. Le Pandunia est une langue mondiale construite
-qui emprunte des mots de toutes les parties du monde.
 
-**salam** est aussi un verbe.
+**sal** est aussi un verbe.
 
-**mi salam tu.**
+**mi sal tu.**
 = Je te salue.  
-**tu salam mi.**
+**tu sal mi.**
 = Tu me salues.
 
 Ce sont des phrases actives.
@@ -165,7 +161,7 @@ Dans les phrases actives l'action du sujet se fait sur l'objet. Dans
 le premier mot
 **mi**
 est le sujet,
-**salam**
+**sal**
 est le verbe (verbe d'action), et
 **tu**
 est l'objet.
@@ -182,11 +178,11 @@ position dans une phrase.
 En Pandunia, les phrases peuvent être raccourcies en omettant les
 pronoms lorsque ceux-ci se devinent.
 
-**mi salam tu!**
+**mi sal tu!**
 = Je te salue.  
-**salam tu!**
+**sal tu!**
 = Salutation à toi ! (Il est évident que le locuteur est celui qui salue.)  
-**salam!**
+**sal!**
 = Salutation ! (Il est évident que les interlocuteurs sont salués.)
 
 Le modèle **salam te** est pratique pour s'adresser aux gens par leur nom, leur lien de parenté ou leur profession.
@@ -204,7 +200,7 @@ pouvez librement choisir lequel utiliser pour saluer les gens.
 – Bonjour | Salut, maman !  
 **halo, papa!**
 – Bonjour | Salut, papa !  
-**salam, xefe!**
+**sal, xefe!**
 – Salut, chef !
 
 
@@ -221,9 +217,9 @@ Les réponses correctes sont données plus bas.
 
 ### Liste de mots
 
-**salam, halo**
+**sal, salam, halo**
 salutation, bonjour, salut, salaam, ciao, etc.  
-**salam**
+**sal**
 saluer  
 **mama**
 mère, maman  
@@ -235,10 +231,10 @@ chef, patron
 
 ### Réponses aux exercices
 
-1. tu salam da.
-2. mama salam papa.
-3. salam mama!
-4. salam!
+1. tu sal da.
+2. mama sal papa.
+3. sal mama!
+4. sal!
 
 
 --------------------------------------------------------------------------------
@@ -255,7 +251,7 @@ chef, patron
 **halo! cing side.**
 = Bonjour ! Asseyez-vous je vous prie !  
 <big>🧒</big>
-**xukre.**
+**xukur.**
 = Merci.  
 <big>🧓</big>
 **cing yam kafe o cai.**
@@ -265,13 +261,13 @@ chef, patron
 = Je prends du thé, merci.  
 ...  
 <big>🧓</big>
-**cing salam tu su mama!**
+**cing sal tu su mama!**
 = S'il te plaît, salut ta mère.  
 <big>🧒</big>
-**mi salam da. salam live!**
+**mi sal da. sal reste!**
 = Je la saluerai. Au revoir !  
 <big>🧓</big>
-**salam ga!**
+**sal ga!**
 = Au revoir !
 
 
@@ -284,7 +280,7 @@ sexes des pronoms à la troisième personne ou de n'importe quels
 autres pronoms. Tous les pronoms personnels sont présents dans la
 phrase suivante.
 
-**mi cing tu salam da.**
+**mi cing tu sal da.**
 = Je te demande de le/la saluer.
 
 Cette phrase a une _structure pivot_.
@@ -295,7 +291,7 @@ Le premier verbe
 comme objet. Dans le même temps
 **tu**
 sert également de sujet au deuxième verbe
-**salam**
+**sal**
 (saluer) dont l'objet est
 **da**.
 Ainsi
@@ -315,9 +311,9 @@ auditeurs savent de qui il parle. Il n'est donc pas nécessaire de les
 répéter sans cesse. De cette manière, les phrases peuvent être
 raccourcies.
 
-**mi cing tu salam da.**
+**mi cing tu sal da.**
 = Je te demande de le/la saluer.  
-**cing salam da.**
+**cing sal da.**
 = S'il te plaît salue le/la.
 
 Avez-vous noté comment la traduction de
@@ -331,18 +327,18 @@ des mots différents. C'est un principe en Pandunia qu'il y ait toujours exactem
 On ne crée pas différents mots simplement parce que le rôle grammatical d'un concept change.
 
 La phrase
-**cing salam da**
+**cing sal da**
 est un modèle très utile pour les formules de politesses.
 
 **cing side.**
 = Asseyez-vous s'il vous plaît..  
-**cing don yo kafe.**
+**cing don  kafe.**
 = S'il vous plaît, donnez-moi du café.  
-**cing don yo cai.**
+**cing don cai.**
 = S'il vous plaît, donnez-moi du thé. 
-**cing yam yo cai.**
+**cing yam cai.**
 = S'il vous plaît, prenez un peu de thé.  
-**cing safi la kamar.**
+**cing safi kamar.**
 = Nettoyez la chambre s'il vous plaît
 
 Les ordres sont données avec
@@ -350,9 +346,9 @@ Les ordres sont données avec
 (ordonner). Ils utilisent la même structure de pivot que les requêtes avec
 **cing**.
 
-**amir don yo cai.**
+**amir don cai.**
 = Donnez-moi du thé !  
-**amir safi la kamar.**
+**amir safi kamar.**
 = Nettoiez la chambre !
 
 En pratique, les ordres directs peuvent aussi s'exprimer au moyen

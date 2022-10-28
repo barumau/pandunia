@@ -22,9 +22,9 @@ B. **tu _mei_ di kitabu.**
 
 In Pandunia, "adjectives" are modifiers that are placed before the noun that they modify.
 
-**un _neu_ kar**
+**un _neu_ gar**
 – a _new_ car  
-**un _suga_ kar**
+**un _suga_ gar**
 – a _fast_ car  
 **men _dai_ meza**
 – _big_ tables  
@@ -35,7 +35,7 @@ In Pandunia, "adjectives" are modifiers that are placed before the noun that the
 
 Two or more modifiers can modify the same noun.
 
-**un xiu neu kar**
+**un xiu neu gar**
 – a little new car
 
 
@@ -66,8 +66,8 @@ The particle
 **di**
 is used also when a modifier modifies another one.
 
-**un _surpris di_ bon buku**
-– a _surprisingly_ good book  
+**un _dai di_ bon buku**
+– a _greatly_ good book  
 **poli _bala di_ ame ja jen**
 – _strongly_ loving people
 

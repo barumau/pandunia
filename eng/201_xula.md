@@ -294,7 +294,7 @@ chief, boss
 **mi sal da. sal reste!**
 = I will. Bye!  
 <big>☺</big>
-**sal cuti!**
+**sal ga!**
 = Bye!
 
 

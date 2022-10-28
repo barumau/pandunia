@@ -35,7 +35,7 @@ Le nombre peut être mentionné avec des numéraux au besoin.
 – beaucoup de chaises; des chaises
 
 
-### 2.3. Genre
+### Genre
 
 Le pandunia n'a pas de genre grammatical (maculin, féminin ou neutre).
 

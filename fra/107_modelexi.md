@@ -2,9 +2,9 @@
 
 Un modificateurs est un mot qui ajoute une qualité ou une description à un autre mot, par exemple _bon, mauvais, gros_ et _rapide_.
 
-**un _neu_ kar**
+**un _neu_ gar**
 – une voiture nouvelle  
-**un _suga_ kar**
+**un _suga_ gar**
 – voiture(s) rapide(s)
 **men _dai_ meza**
 – grande(s) table(s)  
@@ -48,7 +48,11 @@ En pandunia, les adverbes se terminent en **-o** et ils se placent avant le verb
 ## Modification d'un autre modificateur
 
 Un modificateur peut également modifier un autre modificateur.
-Ainsi, **day** (grand) et **lil** (petit) peuvent être utilisés comme des adverbes d'intensification.
+Ainsi,
+**dai**
+(grand) et
+**xiu**
+(petit) peuvent être utilisés comme des adverbes d'intensification.
 
 **un dai jen** 
 – un grand individu  

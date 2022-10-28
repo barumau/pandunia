@@ -146,24 +146,24 @@ I'm Sarah.
 **mi e Tomas.**
 I'm Thomas.
 
-**mi salam mama.**
+**mi sal mama.**
 I greet mother.
 
-**mi salam papa.**
+**mi sal papa.**
 I greet father.
 
 The word
-**salam**
+**sal**
 is both a noun and a verb.
 The basic word order in Pandunia is subject–verb–object.
 
-**Sara ya salam Tomas.**
+**Sara ya sal Tomas.**
 Sarah greets Thomas.
 
-**salam mama!**
+**sal mama!**
 Greetings, mother!
 
-**salam papa!**
+**sal papa!**
 Greetings, father!
 
 <small>Etymology. **mi**
@@ -229,7 +229,8 @@ Are you Thomas?
 **sual tu e davar?**
 Are you a doctor?
 
-Tip: Yes/no questions frequently begin with **sual**.
+Tip: Yes/no questions frequently begin with
+**sual**.
 It is just a regular verb, not a special _question tag_.
 In fact, the previous question is simply abbreviated from
 **mi sual tu davar**
@@ -312,13 +313,13 @@ Plural pronouns are created like this:
 **damen**
 (they)
 
-**mimen salam tumen.**
+**mimen sal tumen.**
 We greet you all.
 
-**tumen salam damen.**
+**tumen sal damen.**
 You greet them.
 
-**damen salam mimen!**
+**damen sal mimen!**
 They greet us.
 
 **mimen e fem.**
@@ -356,7 +357,7 @@ Who are they?
 Bengali: কী "ke".</small>
 
 
-### ye e vo <small>this and that</small>
+### ye i vo <small>this and that</small>
 
 **ye e ke?**
 What's this?
@@ -638,7 +639,7 @@ Sorry. I don't understand you.
 **mi no bas aha tu.**
 I didn't quite understand you.
 
-**mi aha siro xe.**
+**mi aha no xe.**
 I don't understand at all.
 
 
@@ -690,21 +691,21 @@ What is "cat" in Pandunia?
 Cat says "meow".
 
 
-### aude <small>to listen, hear</small>
+### audi <small>to listen, hear</small>
 
-**aude mi!**
+**audi mi!**
 Listen to me!
 
-**mi no bil aude tu.**
+**mi no bil audi tu.**
 I can't hear you.
 
 **cing loga max bala.**
 Please speak louder.
 
-**mi aude muzike.**
+**mi audi muzika.**
 I listen to music.
 
-**tu aude ke yang di muzike?**
+**tu audi ke yang di muzika?**
 What kind of music do you listen to?
 
 
@@ -880,7 +881,7 @@ I wait for you in the hotel.
 
 ### zai <small>currently</small>
 
-**mi zai salam tu su dosti.**  
+**mi zai sal tu su dosti.**  
 I am greeting your friend.
 
 **la man ya zai vide un filme.**  
@@ -895,7 +896,7 @@ He or she is currently at home.
 
 ### pas <small>in the past</small>
 
-**mi pas salam tu su dosti.**  
+**mi pas sal tu su dosti.**  
 I greeted your friend.
 
 **la man ya pas vide un filme.**  
@@ -910,7 +911,7 @@ He or she was at home.
 
 ### le <small>already, completed</small>
 
-**mi le salam tu su dosti.**  
+**mi le sal tu su dosti.**  
 I have greeted your friend.
 
 **la man le vide un filme.**  
@@ -925,7 +926,7 @@ He or she has been at home.
 
 ### xa <small>in the future</small>
 
-**mi xa salam tu su dosti.**  
+**mi xa sal tu su dosti.**  
 I will greet your friend.
 
 **la man xa vide la filme.**  
@@ -960,33 +961,33 @@ I give a book to them.
 He/she doesn't want to give it to me.
 
 
-### na <small>take, get</small>
+### cepe <small>take, get</small>
 
-**mi na un kafe.**
+**mi cepe un kafe.**
 I will take a coffee.
 
-**cing na un kafe to mi.**
+**cing cepe un kafe to mi.**
 Please take one coffee for me.
 
-**tu pas na pesa de mi.**
+**tu pas cepe pesa de mi.**
 You already got money from me before.
 
-**mi na un bir.**
+**mi cepe un bir.**
 I will take a beer.
 
 
 ### kira <small>rent, lease, hire</small>
 
-**kira e 500 dolar a lun.**  
+**kira e 500 dolar a mes.**  
 The rent is 500 dollars in a month.
 
 **da no bil pei la kira.**  
 He/she can't pay the rent.
 
-**mi vol na un gar a kira.**  
+**mi vol cepe un gar a kira.**  
 I want to take a car for rent.
 
-**mi vol kira na un kar.**
+**mi vol kira cepe un kar.**
 I want to rent a car.
 
 **da kira don la kamar to safarer.**
@@ -1040,12 +1041,12 @@ Go there / forward / back / left / right.
 ****
 Come here / back / to us.
 
-**mi xula la pandunia.**
+**mi xula pandunia.**
 I study Pandunia.
 
-**xou da to mi a lexibuku!**
+**xou da to mi a lexi buku!**
 Show me in the dictionary!
-**mi no yada.**
+**mi no memo.**
 I don't remember.
 
 ****
@@ -1057,7 +1058,7 @@ I will never forget you.
 ****
 Don't worry! (Hakuna matata!)
 
-**pan e okey.**
+**pan e oke.**
 Everything is alright.
 
 ****
@@ -1066,7 +1067,7 @@ Cheers!
 ****
 Of course!
 
-**sual tu suku ...?**
+**sual tu suka ...?**
 Do you like ...?
 
 ****
@@ -1075,7 +1076,7 @@ I feel alright.
 **cing side a ye!**
 Please, sit here!
 
-**mi suku stasa.**
+**mi suka stasa.**
 I rather stand.
 
 ****

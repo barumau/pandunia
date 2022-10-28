@@ -25,5 +25,5 @@ Elles seront abordées plus en détail plus loin dans ce document.
 11. Les mots composés se construisent en mettant les mots-racines l'un à côté de l'autre.
     La liaison entre eux est marquée par la voyelle **-o-** qui s'insère entre les racines.
     - ex. **huru** (liberté) + **sim** (idéologie) → **huru sim** (libéralisme)
-    - ex. **poste** (courrier) + **kasa** (boîte) → **poste kasa** (boîte à lettres)
+    - ex. **posta** (courrier) + **kasa** (boîte) → **posta kasa** (boîte à lettres)
 

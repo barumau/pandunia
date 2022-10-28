@@ -32,51 +32,49 @@ de la langue. Vous pouvez tout simplement parler en pandunia !
 
 
 
-1re partie : Salutations et bases
---------------------------------------
+## 1re partie : Salutations et bases
 
-### salam <small>salut, salutations</small>
+### sal <small>salut, salutations</small>
 
 <p style="font-size:5em;">🙋‍</p>
 
-**salam**
+**sal**
 Salut !
 
-**salam suba!**
+**sal suba!**
 Bonjour ! (le matin)
 
-**salam den!**
+**sal dia!**
 Bonne journée !
 
-**salam xam!**
+**sal xam!**
 Bonsoir !
 
-**salam noce!**
+**sal noce!**
 Bonne nuit !
 
-**salam yam!**
+**sal yam!**
 Bon appétit !
 
-**salam lai!**
+**sal lai!**
 Bienvenue !
 
-**salam ga!**
+**sal ga!**
 Au revoir !
 
-**salam safar!**
+**sal safar!**
 Bon voyage !
 
-**salam son!**
+**sal sona!**
 Dors/dormez bien !
 
-Astuce : Comme vous le voyez à travers cette gamme d’expressions, **salam** est un mot générique pour souhaiter du bien à quelqu’un. Utilisez-le souvent !
-
-Remarque : **Salam** est une salutation populaire qui est utilisée à la fois par des personnes religieuses et non-regilieuses dans de nombreux pays à travers le monde.
-
-<small>Étymologie : **salam** vient de l'arabe سَلَام‏ "salām", en hébreu il se dit : שָׁלוֹם‏ "šalom", en turc "selam", en Hindi सलाम "salām", en swahili "salaam" et en indonésien "selamat".</small>
+Astuce : Comme vous le voyez à travers cette gamme d’expressions, **sal** est un mot générique pour souhaiter du bien à quelqu’un. Utilisez-le souvent !
 
 
-### shukur <small> thanks</small>
+<small>Étymologie : **sal** vient de l'arabe سَلَام‏ "salām", en hébreu il se dit : שָׁלוֹם‏ "šalom", en turc "selam", en Hindi सलाम "salām", en swahili "salaam" et en indonésien "selamat".</small>
+
+
+### xukur <small>merci</small>
 
 <p style="font-size:5em;">🙏</p>
 
@@ -124,22 +122,24 @@ Je suis Thomas.
 
 Vous pouvez vous présenter simplement en utilisant **me** et votre prénom ; le verbe "être" est optionel.
 
-**mi salam mama.**
+**mi sal mama.**
 Je salue la mère.
 
-**mi salam papa.**
+**mi sal papa.**
 Je salue le père.
 
-Le mot **salam** est un nom et **salama** le verbe correspondant.
+Le mot
+**sal**
+est un nom et un verbe correspondant.
 L'ordre des mots en Pandunia est sujet-verbe-objet.
 
-**Sara ya salam Tomas.**
+**Sara ya sal Tomas.**
 Sara salue Thomas.
 
-**salam mama!**
+**sal mama!**
 Salutations, mère ! | Salut maman !
 
-**salam papa!**
+**sal papa!**
 Salutations, père ! | Salut papa !
 
 <small>Étymologie : **mi** vient de l'anglais "me", en hindi मैं (meṇ), en espagnol "me".</small>
@@ -160,7 +160,7 @@ Tu me salues.
 
 Les pronoms ne changent jamais de forme en Pandunia ; peu importe qu'ils soient sujets ou compléments.
 
-**mi ama tu.**
+**mi ame tu.**
 Je t'aime.
 
 <small>Étymologie : **tu** vient du français "tu", en italien "tu".</small>
@@ -183,7 +183,8 @@ Il est utilisé aussi bien pour les personnes (quel que soit leur sexe) que pour
 **mi salam da.**
 Je le/la salue.
 
-<small>Étymologie : **da** vient du indonesien "ia", en hindi यह (yah).</small>
+<small>Étymologie : **da** vient du
+mandarin 他/她 (tā).</small>
 
 
 
@@ -192,13 +193,14 @@ Je le/la salue.
 **sual tu e Tomas?**
 Es-tu Thomas ?
 
-**sual tu e dava ja?**
+**sual tu e davar?**
 Êtes-vous docteur ?
 
-**Astuce :** Les questions auxquelles on peut répondre par oui ou par non commencent souvent par **sual**.
+**Astuce :** Les questions auxquelles on peut répondre par oui ou par non commencent souvent par
+**sual**.
 C'est un simple verbe régulier et non un marqueur interrogatif particulier.
 En fait, la dernière question est une simple abréviation de
-**mi suala tu dava ja.**
+**mi sual tu davar**
 (je vous demande si vous êtes doctor) ou le premier mot – le pronom personnel **mi** –, est supprimé.
 
 **sual tu bon?**
@@ -213,9 +215,11 @@ Et toi ?
 
 <small>Étymologie :
 **sual**
-vient du français "est-ce que" /ɛskə/,
-en créole haïtien "èske",
-en anglais: "ask" demander.</small>
+vient du
+arabe سؤال (su'āl),
+hindi सवाल (savāl),
+malais _soal_,
+souheli _swali_.</small>
 
 
 
@@ -227,10 +231,10 @@ Es-tu Thomas.
 **ya, mi e Tomas.**
 Oui, je suis Thomas.
 
-**sual da e dava ja?**
+**sual da e davar?**
 Est-il/elle doctor ?
 
-**ya, da e dava ja.**
+**ya, da e davar.**
 Oui, il/elle est doctor.
 
 
@@ -240,7 +244,7 @@ Oui, il/elle est doctor.
 **mi no e Sara.**
 Je ne suis pas Sara.
 
-**mi no e dava ja.**
+**mi no e davar.**
 Je ne suis pas doctor.
 
 **sual tu bon?**
@@ -277,13 +281,13 @@ Il/elle ne me salue pas.
 **damen**
 (ils, elles)
 
-**mimen salam tumen.**
+**mimen sal tumen.**
 Nous vous saluons.
 
-**tumen salam damen.**
+**tumen sal damen.**
 Vous les saluez.
 
-**damen salam mimen!**
+**damen sal mimen!**
 Ils nous saluent.
 
 **mimen e fem.**
@@ -321,7 +325,7 @@ Qui sont-ils ?
 
 
 
-### ye & vo <small>ce … (-ci), cet.te … (-ci), ces … (-ci), ceci</small>
+### ye i vo <small>ce … (-ci), cet.te … (-ci), ces … (-ci), ceci</small>
 
 **ye e ke?**
 Qu’est-ce que c’est que ceci ?
@@ -390,7 +394,7 @@ Son nom est Sara.
  <small>Étymologie : **nam** vient du hindi  नाम "nām", il se dit en farsi نام‏‎ "nām", en thaï นาม "naam", en indonésien "nama", en japonais 名前 "namae", en allemand "Name", en anglais "name".</small>
 
 
-### tena <small>verbe avoir ; il y a </small>
+### ha <small>verbe avoir ; il y a </small>
 
 **mi ha un bon dom.**
 J’ai une bonne maison.
@@ -406,29 +410,29 @@ As-tu des enfants ?
 **mi ha du ben.**
 J’ai deux enfants.
 
-**sual tena dava ja?**
+**sual ha davar?**
 Est-ce qu’il y a un médecin ?  
-**da. le sa dava ja.**
+**ya. da e davar.**
 Oui. Il/elle est médecin.
 
-**sual tena vin?**
+**sual ha vin?**
 Est-ce que tu as du vin?  
 **ya. baki i rubi.**
 Oui, du blanc et du rouge.
 
 
-### sabe <small>connaître</small>
+### san <small>connaître</small>
 
-**mi sabe da.**
+**mi san da.**
 Je le/la connais.
 
-**sual tu sabe vo jen?**
+**sual tu san vo jen?**
 Est-ce que tu connais cette personne ?
 
-**sual tumen sabe se kon?**
+**sual tumen san semen?**
 Est-ce que vous vous connaissez l’un l’autre?
 
-**mimen sabe se kon ze long.**
+**mimen san semen de long.**
 Nous nous connaissons [l’un l’autre] depuis longtemps.
 
 
@@ -459,7 +463,7 @@ Est-ce que tu veux manger quelque chose ?
 **da yam un aple.**
 Il/elle mange une pomme.
 
-**damen yam ba aple.**
+**damen yam aple.**
 Ils/elles mangent des pommes.
 
 Remarque : Contrairement au français, le pandunia n’a pas de formes singulier et pluriel séparées.
@@ -506,7 +510,7 @@ La rouge. (mot à mot _cette rouge-ci_)
 
 
 
-### ching <small>demander, s’il vous plait</small>
+### cing <small>demander, s’il vous plait</small>
 
 **mi cing tu yam cai.**
 Je te demande si tu veux du thé.
@@ -592,12 +596,12 @@ Désolé, je ne t’ai pas compris.
 **mi no bas aha tu.**
 Je ne t’ai pas bien compris.
 
-**mi aha nol.**
+**mi aha no xe.**
 Je n’ai rien compris du tout.
 
 
 
-### abla <small>pouvoir, savoir</small>
+### bil <small>pouvoir, savoir</small>
 
 **mi bil xofe un kar.**
 Je sais conduire une voiture.
@@ -614,7 +618,7 @@ Peux-tu parler pandunia ?
 **mi bil pandunia.**
 Je peux parler pandunia.
 
-**mi bil xiu pandunia.**
+**mi bil kam pandunia.**
 Je peux parler un peu pandunia.
 
 **mi no bil englix.**
@@ -630,13 +634,13 @@ Désolé, je ne parle pas votre langue.
 **tu loga ke?**
 Qu’est-ce que tu dis ?
 
-**mi loga do tu.**
+**mi loga to tu.**
 Je te parle. (mot à mot : _je parle à toi_)
 
-**mimen loga do se kon.**
+**mimen loga to semen.**
 Nous nous parlons. (mot à mot : _nous parlons à l’un l’autre_)
 
-**mon loga "cat" a ke yang a pandunia?**
+**se loga "cat" a ke yang a pandunia?**
 Comment se dit « chat » en pandunia ?
 
 **"cat" e ke a pandunia?**
@@ -654,7 +658,7 @@ Un chat dit miaou.
 **mi no bil audi tu.**
 Je ne t’entends pas. (Je n’arrive pas à t’entendre)
 
-**cing loga mas lika.**
+**cing loga max bala.**
 Parlez plus fort, s’il vous plait.
 
 **mi audi muzika.**
@@ -666,31 +670,31 @@ Quel genre de musique est-ce que tu écoutes ?
 
 ### vide <small>voir</small>
 
-**suku vide tu.**
+**suka vide tu.**
 Heureux de te voir !
 
-**vide tu re!**
+**to rivide!**
 On se voit plus tard ! / À plus tard !
 
 **vide tu a pos den!**
 On se voit demain ! / À demain !
 
-**mi vide da a cen den.**
+**mi vide da a preden.**
 Je l’ai vu(e) hier.
 
 
-### mana <small>signifier, vouloir dire</small>
+### semi <small>signifier, vouloir dire</small>
 
-**ye lexi ya mana ke?**
+**ye lexi ya semi ke?**
 Que veut dire ce mot ?
 
-**"mau" ya mana ke?**
+**"mau" ya semi ke?**
 Que signifie « maw » ?
 
-**da mana un yang de hevan.**
+**da semi un yang de hevan.**
 Ça signifie un genre d’animal.
 
-**mi no aha da mana ke.**
+**mi no aha da semi ke.**
 Je ne comprend pas ce que cela signifie.
 
 
@@ -703,7 +707,7 @@ S’il te plait, écris ton adresse.
 S’il te plait, écris-le là !
 
 
-### basha <small>communiquer, parler une langue</small>
+### baxa <small>communiquer, parler une langue</small>
 
 **sual tumen baxa pandunia.**
 Est-ce que vous parlez tous pandunia ?
@@ -714,16 +718,16 @@ Nous parlons pandunia.
 **sual tu bil baxa englix?**
 Est-ce que tu parles anglais ?
 
-**france, espan, portugal, rus**
+**franse, espanya, portugal, rus**
 français, espagnol, portugais, russe
 
-**putong han, nipon, indonesia**
-chinois, japonas, indonésien
+**putong han, nipon, malayu**
+chinois, japonas, malais
 
-**arabi, turke, farsi, urdu, hindi**
+**arabi, turki, parsi, urdu, hindi**
 arabe, turc, persan, ourdou, hindi
 
-**suahili, hausa, yoruba, amari**
+**suahili, hausa, yoruba, amara**
 swahili, haoussa, yorouba, amharique
 
 
@@ -756,10 +760,10 @@ On y va à pied !
 **cing lai!**
 Viens ici !
 
-**tu lai ze ke?**
+**tu lai de ke?**
 D’où viens-tu ?
 
-**mi lai ze Dubai.**
+**mi lai de Dubai.**
 Je viens de Dubaï.
 
 **mi lai dom a pos den.**
@@ -771,7 +775,7 @@ J'irai chez moi / à la maison demain.
 **sual tu safar a tren?**
 Est-ce que tu voyages en train ?
 
-**mimen safar ze London do Paris.**
+**mimen safar de London to Paris.**
 Nous voyageons de Londres à Paris.
 
 **safar tre long.**
@@ -798,36 +802,38 @@ Où est-il/elle ?
 **da side a kamar.**
 Il/elle est assis(e) dans la pièce.
 
-Astuce ! Vous pouvez utiliser **a** comme préposition ou tout seul comme un verbe.
+Astuce ! Vous pouvez utiliser
+**a**
+comme préposition ou tout seul comme un verbe.
 
-**mi gong a...**
+**mi kar a...**
 Je travaille à ...
 
 
 ### dom <small>vivre, habiter, résider</small>
 
-**tu dom a ke?**
+**tu dom ke?**
 Où est-ce que tu habites ?
 
-**mi dom a Singapur.**
+**mi dom Singapur.**
 Je vis à Singapore.
 
-**sual tu dom a ye hotel?**
+**sual tu dom ye hotel?**
 Est-ce que tu résides dans cet hôtel ?
 
 
-### deng <small>attendre</small>
+### dele <small>attendre</small>
 
 **cing dele!**
 Veuillez attendre !
 
-**dele do mi!**
+**dele mi!**
 Attendez-moi !
 
-**damen dele do mimen.**
+**damen dele mimen.**
 Ils nous attendent.
 
-**mi dele do tu a hotel.**
+**mi dele tu a hotel.**
 Je t’attends à l’hôtel.
 
 
@@ -837,7 +843,7 @@ Je t’attends à l’hôtel.
 
 ### zai <small>actuellement, en ce moment</small>
 
-**mi zai salam tu su doste.**  
+**mi zai sal tu su dosti.**  
 Je suis en train de saluer ton ami(e).
 
 **la man ya zai vide un filme.**  
@@ -852,11 +858,11 @@ En ce moment, il / elle est à la maison.
 
 ### pas <small>dans le passé</small>
 
-**mi pas salam tu su doste.**  
+**mi pas sal tu su dosti.**  
 J'ai salué ton ami(e).
 
-**la man ya pas vide un filme fem.**  
-L'homme a regardé / regardait la femme.
+**la man ya pas vide un filme.**  
+L'homme a regardé / regardait la filme.
 
 **da pas e xefe.**  
 C'était lui le chef. / C'était elle la cheffe.
@@ -865,13 +871,13 @@ C'était lui le chef. / C'était elle la cheffe.
 Il / Elle était à la maison.
 
 
-### leu <small>déjà (action achevée)</small>
+### le <small>déjà (action achevée)</small>
 
-**mi le salam tu su doste.**  
+**mi le sal tu su dosti.**  
 J'ai (déjà) salué ton ami(e).
 
 **la man le vide un filme.**  
-L'homme a (déjà) regardé la femme.
+L'homme a (déjà) regardé la filme.
 
 **da le e xefe.**  
 Il / Elle a (déjà) été le chef / la cheffe.
@@ -880,13 +886,13 @@ Il / Elle a (déjà) été le chef / la cheffe.
 Il / elle a (déjà) été à la maison.
 
 
-### sha <small>(événement futur)</small>
+### xa <small>(événement futur)</small>
 
-**mi xa salam tu su doste.**  
+**mi xa sal tu su dosti.**  
 Je saluerai ton ami(e).
 
 **la man xa vide la filme.**  
-L'homme regardera la femme.
+L'homme regardera la filme.
 
 **da xa e xefe.**  
 Il sera chef. / Elle sera cheffe.
@@ -905,31 +911,31 @@ Il / Elle sera à la maison.
 **cing don yo pesa.**
 Donne-moi de l’argent, s’il te plait.
 
-**cing don da do mi.**
+**cing don da to mi.**
 Donne-le moi, s’il te plait.
 
-**mi don ye do tu.**
+**mi don ye to tu.**
 Je te donne ceci.
 
-**mi don buku do damen.**
+**mi don buku to damen.**
 Je leur donne un livre.
 
-**da no vol don da do mi.**
+**da no vol don da to mi.**
 Il/elle ne veut pas me le donner.
 
 
-### kapa <small>prendre, avoir, recevoir</small>
+### cepe <small>prendre, avoir, recevoir</small>
 
-**mi kapa un kafe.**
+**mi cepe un kafe.**
 Je vais prendre un café.
 
-**cing kapa un kafe do mi.**
+**cing cepe un kafe to mi.**
 Prends-moi un café, s’il te plait.
 
-**tu pas kapa pesa ze mi.**
+**tu pas cepe pesa de mi.**
 tu as déjà eu de l’argent de ma part.
 
-**mi kapa un bir.**
+**mi cepe un bir.**
 Je prendrai une bière.
 
 ### kira <small>location, emprunt</small>
@@ -940,118 +946,13 @@ La location est de 500 dollars par mois / pour un mois.
 **da no bil pei la kira.**  
 Il / Elle ne peut pas payer la location.
 
-**mi vol kapa un gar a kira.**  
+**mi vol cepe un gar a kira.**  
 Je veux prendre une voiture en location.
 
-**mi vol kira kapa un kar.**
+**mi vol kira cepe un kar.**
 Je veux louer une voiture.
 
-**da kira don la kamar do safarer.**
+**da kira don la kamar to safarer.**
 Il/elle loue des chambres à les voyageurs.
 
-<!--
-### mai <small>faire des affaires</small>
 
-Astuce : acheter et vendre sont des mots composés : **mai dar** signifie _vendre_ et **mai kap** signifie _acheter_.
-
-**damen mai don pan.**
-Ils vendent de tout.
-
-**mi mai kapa un bir.**
-Je vais acheter une bière.
-
-
-
-### yang <small>type, genre, sorte</small>
-
-**da e ke yang?**
-Ça ressemble à quoi ?
-
-**sual da e neu?**
-C’est nouveau ?
-
-**ke e max bon?**
-Lequel est mieux ?
-
-**ye e maxim bon (de pan).**
-C’est le meilleur (de tous).
-
-**da kosta ke?**
- Combien ça coûte ? 
-**nol.**
-Rien.
-**da kosta xiu / poli.**
-C'est bon marché. / C'est cher.  
-
-**men cing mimen lai.**
-On nous appelle.
-
-**mi soka tualete.**
-Je cherche les toilettes.
-
-****
-Va là / en avant / en arrière / à gauche / à droite.
-****
-Viens ici / reviens / vers nous.
-
-
-
-**mi xul le pandunia.**
-J’étudie le pandunia.
-
-**xou da do mi a loga buke!**
-Montre-moi dans le dictionnaire !
-**mi no yada.**
-Je ne me souviens pas.
-
-****
-(Je te souhaite) tous mes vœux !
-
-****
-Je ne t’oublierai jamais.
-
-****
-Pas de souci ! (Hakuna matata !)
-
-**pan sa okey.**
-Tout va bien.
-
-****
-Santé !
-
-****
-Bien sûr !
-
-
-**sual tu suku ...?**
-Est-ce que tu aimes… ?
-
-****
-Je me sens très bien.
-
-**cing side a ye!**
-Assieds-toi là, s’il te plait !
-
-**mi suku stasa.**
-Je préfère rester debout.
-
-
-
-****
-Avec plaisir !
-
-**festa kaixi a ke zaman?**
-Quand commence la fête ?
-
-
-**tu sahi.**
-tu as raison.
-
-****
-Laisse-moi tranquille !
-
-**ke habar?**
-Quoi de neuf ?
--->
-
-Mis à jour : 17 juillet 2021

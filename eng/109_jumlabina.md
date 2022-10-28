@@ -713,6 +713,27 @@ Different scopes of negation may result depending on the location of the negativ
 **mi cing tu no safi la kamar.**
 – I ask you NOT to clean the room.
 
+Particles **ya** and **no** are used also for answering questions.
+
+**sual tu vide mi?** 
+– Do you see me?  
+**ya. (mi ya vide tu.)** 
+– Yes. (I do see you.)  
+**no. (mi no vide tu.)** 
+– No. (I don't see you.)
+
+Negative questions are answered so that
+**ya**
+and
+**no**
+apply to the verb alone and not the sentence as a whole.
+
+**sual tu no vide mi?** 
+– Don't you see me?  
+**ya. (mi ya vide tu.)** 
+– Yes. (I do see you.)  
+**no. (mi no vide tu.)** 
+– No. (I don't see you.)
 
 ### Modifier particles
 
@@ -734,7 +755,7 @@ The modifier particles are useful for creating complex adjectives that consists 
 
 Or in the opposite order:
 
-**labe de rode rang**
+**labi de rode rang**
 – lips of the rose-color  
 **yen de sama rang**
 – eyes of the sky-color

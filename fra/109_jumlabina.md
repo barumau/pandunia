@@ -154,9 +154,9 @@ C'est particulièrement valable pour l'expression d'ordres et de demandes.
 
 ###. Short pivot structure (VVO)
 
-**mi cing tu lai do dom.** 
+**mi cing tu lai to dom.**
 – Je te prie de venir à la maison.  
-**cing lai do dom!** 
+**cing lai to dom!**
 – S'il te plait viens à la maison !
 (Mot à mot : _Demande viens maison !_)
 
@@ -166,14 +166,14 @@ C'est particulièrement valable pour l'expression d'ordres et de demandes.
 
 ### Conjonctions de base
 
-1. **i**
-   et (connecte deux mots ou phrases semblables)
-2. **o**
-   ou (connecte deux mots ou phrases alternatifs)
-3. **ama**
-   mais (introduit un mot ou une phrase qui vient en contraste ou en contradiction du mot ou de la phrase précédents)
+**i**
+– et (connecte deux mots ou phrases semblables)
+**o**
+– ou (connecte deux mots ou phrases alternatifs)
+**ama**
+– mais (introduit un mot ou une phrase qui vient en contraste ou en contradiction du mot ou de la phrase précédents)
 
-**mi suka mau e vaf.**
+**mi suka mau i vaf.**
 – J'aime les chats et les chiens.  
 **mi suka mau o vaf.**
 – J'aime les chats ou les chiens.  
@@ -217,7 +217,7 @@ Le sens de la phrase change donc selon l'emplacement du **no**.
 – Je te vois.  
 **mi no vide tu.**
 – Je ne te vois pas.  
-**mi vide no tu a damen.**
+**mi vide no tu ama damen.**
 – Ce n'est pas toi que je vois, mais eux.
 
 **mi cing tu safi la kamar.**
@@ -280,7 +280,7 @@ Ces particules permettent également de créer des mots-mesures.
 **max sake di patate**
 – plus / davantage de sacs de pommes de terre
 
-Remarque : **du** and **da** connectent des propositions.
+Remarque : **di** et **de** connectent des propositions.
 Donc un groupe de mots peut prendre un sens tout à fait différent avec ou sans **du**.
 
 **max mei hua**
@@ -307,7 +307,7 @@ Elle indique que le mot qui la précède est en possession du mot qui la suit.
 – ta maison
 
 
-### 9.3. Particules modales
+### Particules modales
 
 Les particules modales indiquent ce à quoi le locuteur pense de ce qu'il/elle dit par rapport à l'auditeur.
 Les particules modales sont couramment utilisées dans de nombreuses langues.
