@@ -15,8 +15,7 @@ Uwaga! Wiele lekcji zawiera też wskazówki jak ta. Służą wyjaśnieniu detali
 
 
 
-Part 1: Greeting and basics
----------------------------
+## Part 1: Greeting and basics
 
 ### sal <small>pozdrowienie, powitanie</small>
 
@@ -41,7 +40,7 @@ Smacznego!
 **sal lai!**
 Witaj! Zapraszam!
 
-**sal cuti!**
+**sal ga!**
 Żegnaj!
 
 **sal safar!**
@@ -111,7 +110,7 @@ Ty pozdrawiasz mnie.
 Zaimki nigdy nie odmieniają się w Panduni. Dlatego **mi**
 jest takie samo jako podmiot i dopełnienie, gdy język polski dwie różne formy, 'ja' i 'mnie'.
 
-**mi ama tu.**
+**mi ame tu.**
 Ja kocham cię.
 
 <small>Etymologia. **tu**
@@ -146,7 +145,7 @@ pochodzi z języków lingala: yé, suahili: yeye, cziczewa: iye, zuluskiego: -ye
 **sual tu Tomas?**
 Czy ty jesteś Tomasz?
 
-**sual tu davaja?**
+**sual tu davar?**
 Czy ty jesteś lekarzem?
 
 Porada: Pytania tak/nie często zaczynają się od **sual**. Jest to zwykły czasownik, żaden specjaly _znacznik pytania_. Właściwie, poprzednie zdanie powstało z **mi sual tu doktar.**
@@ -174,10 +173,10 @@ Czy ty jesteś Tomasz?
 **ya, mi Tomas.**
 Tak, ja jestem Tomasz.
 
-**sual da davaja?**
+**sual da davar?**
 Czy on/ona jest lekarzem?
 
-**ya, da davaja.**
+**ya, da davar.**
 Tak, on/ona jest lekarzem.
 
 
@@ -200,10 +199,10 @@ w ostatnim zdaniu, bo bez niego wyglądałoby jak wyrażenie rzeczownikowe: **ap
 
 ### no <small>nie</small>
 
-**mi no Sara.**
+**mi no e Sara.**
 Nie jestem Sara.
 
-**mi no davaja.**
+**mi no e davar.**
 Nie jestem lekarzem.
 
 **sual tu bon?**
@@ -212,8 +211,8 @@ Czy czujesz się dobrze?
 Tak, czuję się dobrze.
 
 **sual tu bon?**
-Czy czujesz się dobrze?
-**no. mi no bon.**
+Czy czujesz się dobrze?  
+**no, mi no bon.**
 Nie, nie czuję się dobrze.
 
 Możesz używać **no**
@@ -238,13 +237,13 @@ Wy pozdrawiacie ich.
 **damen sal mimen!**
 Oni/One pozdrawiają nas.
 
-**mimen fem.**
+**mimen e fem.**
 Jesteśmy kobietami.
 
-**tumen man.**
+**tumen e man.**
 Jesteście mężczyznami.
 
-**damen aple.**
+**damen e aple.**
 Są jabłkami.
 
 
@@ -256,18 +255,18 @@ Co?
 
 **tu ke?**
 Kim jesteś?
-**mi Tomas.**
+**mi e Tomas.**
 Jestem Tomasz.
 
-**da ke?**
+**da e ke?**
 Kim ona jest?
-**da Sara.**
+**da e Sara.**
 Ona to Sara.
 
-**tumen ke?**
+**tumen e ke?**
 Kim jesteście?
 
-**damen ke?**
+**damen e ke?**
 Kim są?
 
 <small>Etymologia. **ke**
@@ -298,16 +297,16 @@ Jest czerwone.
 
 ### su <small>(partykuła dzierżawcza)</small>
 
-**ye ke?**
+**ye e ke?**
 Co to jest?
 
-**ye mi su fon.**
+**ye e mi su fon.**
 To mój telefon.
 
-**ye ke su?**
+**ye e ke su?**
 Czyje to?
 
-**ye mi su.**
+**ye e mi su.**
 To jest moje.
 
 Uwaga: Partykuła dzierżawcza **su**
@@ -315,7 +314,7 @@ jest umiejscawiana między właściciela i posiadaną rzecz, więc **mi su**
 znaczy "mój", **tu su**
 znaczy "twój" i tak dalej.
 
-**da ke?**
+**da e ke?**
 Kim on/ona jest?
 
 **da e mi su dosti.**
@@ -324,8 +323,6 @@ On/ona jest moim przyjacielem/przyjaciółką.
 **mi e Sara su dosti.**
 Jestem przyjacielem Sary.
 
-<small>Etymologia. **su**
-pochodzi z języków: mandaryńskiego: 的 "de", pundżabskiego: ਦਾ "dā".</small>
 
 
 
@@ -449,7 +446,7 @@ Czy chcesz napić się herbaty?
 **no. mi no vol cai. mi vol kafe.**
 Nie, nie chcę herbaty. Chcę kawę.
 
-**tu vol ki aple?**
+**tu vol ke aple?**
 Które jabłko chcesz?
 
 **ye rubi.**
@@ -559,26 +556,26 @@ Czy rozumiesz mnie?
 **mi aha.**
 Rozumiem.
 
-**pardon. mi no aha tu.**
+**maf. mi no aha tu.**
 Przepraszam., nie rozumiem cię.
 
 **mi no bas aha tu.**
 Niezbyt zrozumiałem cię.
 
-**mi aha nol.**
+**mi aha no xe.**
 Nic nie rozumiem.
 
 
 
 ### bil <small>móc, umieć</small>
 
-**mi bil gida kar.**
+**mi bil xofe kar.**
 Umiem kierować samochodem.
 
-**da no bil gida kar.**
+**da no bil xofe kar.**
 Nie umie kierować samochodem.
 
-**sual tu bil xula da?**
+**sual tu bil xuli da?**
 Czy umiesz to naprawić?
 
 **sual tu bil pandunia?**
@@ -587,13 +584,13 @@ Czy umiesz mówić w Panduni?
 **mi bil pandunia.**
 Umiem mówić w Panduni.
 
-**mi bil lil pandunia.**
+**mi bil kam pandunia.**
 Umiem trochę mówić w Panduni.
 
-**mi no bil engli.**
+**mi no bil englix.**
 Nie znam języka angielskiego.
 
-**pardon. mi no bil tu su bax.**
+**maf. mi no bil tu su baxa.**
 Przepraszam. Nie mówię w twoim języku.
 
 
@@ -609,7 +606,7 @@ Mówię do ciebie.
 **mimen loga to unale.**
 Mówimy do siebie.
 
-**ze loga "kot" a ki yang a pandunia?**
+**se loga "kot" a ke yang a pandunia?**
 Jak się mówi "kot" w Panduni?
 
 **"kot" e ke a pandunia?**
@@ -625,13 +622,13 @@ Kot mówi miau.
 **mi no bil audi tu.**
 Nie mogę cię usłyszeć.
 
-**cing loga forti.**
+**cing loga max bala.**
 Proszę, mów głośniej.
 
-**mi audi musike.**
+**mi audi muzika.**
 Słucham muzyki.
 
-**tu audi ki yang de musike?**
+**tu audi ke yang di muzika?**
 Jakiego rodzaju muzyki słuchasz?
 
 
@@ -641,13 +638,13 @@ Jakiego rodzaju muzyki słuchasz?
 **suka vide tu.**
 Miło cię widzieć!
 
-**vide tu repi!**
+**to rivide!**
 Do zobaczenia! (Dosłownie: Zobaczyć cię znowu!)
 
-**vide tu badi den!**
+**vide tu a posden!**
 Do jutra! (Dosłownie: Zobaczyć cię jutro!)
 
-**mi vide da predi den.**
+**mi vide da a preden.**
 Widziałem go/ją wczoraj.
 
 
@@ -714,10 +711,10 @@ Dokąd idziesz?
 **mi ga dom.**
 Idę do domu.
 
-**mi bixu ga ke?**
+**mi mus ga ke?**
 Gdzie powinienem pójść?
 
-**mi bixu ga to ki ren?**
+**mi mus ga to ke jen?**
 Do kogo powinienem pójść?
 
 **haida ga!**
@@ -750,10 +747,10 @@ Przyjdę do domu jutro.
 **sual tu safar a tren?**
 Czy podróżujesz pociągiem?
 
-**mimen safar de london to paris.**
+**mimen safar de London to Paris.**
 Podróżujemy z Londynu do Paryża.
 
-**safar dai long.**
+**safar e dai di long.**
 Podróż jest bardzo długa.
 
 
@@ -791,7 +788,7 @@ Pracuję w ...
 **tu dom ke?**
 Gdzie mieszkasz?
 
-**mi dom singapur.**
+**mi dom Singapur.**
 Mieszkam w Singapurze.
 
 **sual tu dom ye hotel?**
@@ -836,17 +833,17 @@ Daję im książkę.
 Nie chce dać mi tego.
 
 
-### kapa <small>brać, dostawać</small>
+### cepe <small>brać, dostawać</small>
 
-**mi kapa un kafe.**
+**mi cepe un kafe.**
 Wezmę kawę.
 
-**cing kapa un kafe to mi.**
+**cing cepe un kafe to mi.**
 Proszę, weź kawę dla mnie.
 
-**tu pas kapa pesa de mi.**
+**tu pas cepe pesa de mi.**
 Już dostałeś ode mnie pieniądze.
 
-**mi kapa un bir.**
+**mi cepe un bir.**
 I will take a beer.
 

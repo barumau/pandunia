@@ -4,31 +4,29 @@
 
 Zaimki mogą zastępować słowa-rzeczy i wyrażenia-rzeczy.
 
-**mi**
-– ja, mnie  
-**tu**
-– ty, ciebie  
-**da**
-– on, ona, ono  
-**mimen**
-– my  
-**tumen**
-– wy  
-**damen**
-– oni, one
+| Singular    | Plural       |
+|:------------|:-------------|
+| **mi**      | **mimen**    |
+| ja, mnie    | my           |
+| **tu**      | **tumen**    |
+| ty, ciebie  | wy           |
+| **da**      | **damen**    |
+| on, ona, ono| oni, one     |
+  
+ 
 
 **se**
 – się, siebie
 
 **mi vide se**
 – Widzę się.  
-**ya vide se**
+**da vide se**
 – Widzi się.  
 **mimen vide se.**
 – Widzimy się.
 
 
-### 5.2. Zaimki wskazujące
+### Zaimki wskazujące
 
 Zaimki wskazujące to:
 

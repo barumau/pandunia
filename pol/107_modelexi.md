@@ -53,9 +53,9 @@ Modyfikator może opisywać też inny modyfikator. Na przykład **dai** (duży) 
 **mei jen**
 – ładna osoba
 
-**dai mei jen**
+**dai di mei jen**
 – bardzo ładna osoba  
-**xiu mei jen**
+**xiu di mei jen**
 – trochę ładna osoba
 
 Modyfikatory mogą być oddzielane **i** (i).
@@ -68,15 +68,20 @@ Modyfikatory mogą być oddzielane **i** (i).
 
 Modyfikatory mogą być porównane.
 
-- **max** (bardziej) oznacza porównanie niższości
-- **maxim** (najbardziej) oznacza stopień najwyższy
-- **min** (mniej) oznacz porónanie niższości
-- **minim** (najmniej) oznacza stopień najniższy
-- **par** (jak) oznacza porównanie równości
+- **max**
+  (bardziej) oznacza porównanie niższości
+- **maxim**
+  (najbardziej) oznacza stopień najwyższy
+- **min**
+  (mniej) oznacz porónanie niższości
+- **minim**
+  (najmniej) oznacza stopień najniższy
+- **par**
+  (jak) oznacza porównanie równości
 
 Partykuła **ka** łączy przysłówki porównania z obiektem porównania.
 
-**mi e max bon ka teu**
+**mi e max bon ka tu**
 – Jestem lepszy od ciebie.  
 **tu loga par bon ka mi.**
 – Mówisz tak dobrze, jak ja.

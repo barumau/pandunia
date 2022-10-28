@@ -645,10 +645,10 @@ I don't understand at all.
 
 ### bil <small>can</small>
 
-**mi bil xofe un kar.**
+**mi bil xofe kar.**
 I can drive a car.
 
-**da no bil xofe un kar.**
+**da no bil xofe kar.**
 He/she doesn't know how to drive a car.
 
 **sual tu bil xuli da?**
@@ -818,7 +818,7 @@ Do you travel by train?
 **mimen safar de London to Paris.**
 We travel from London to Paris.
 
-**safar tre long.**
+**safar e dai di long.**
 The voyage is very long.
 
 

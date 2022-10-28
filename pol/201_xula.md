@@ -31,12 +31,12 @@ Słowo **e** znaczy _być_ w Pandunia. To samo słowo jest używane dla wszystki
 
 **da e Sara.**
 = Ona jest Sarą.  
-**da no Sara.**
+**da no e Sara.**
 = Ona nie jest Sarą.
 
 **mau e hevan.**
 = Kot jest zwierzęciem.  
-**dom no hevan.**
+**dom no e hevan.**
 = Dom nie jest zwierzęciem.  
 
 
@@ -249,10 +249,10 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 ### Odpowiedzi do Ćwiczeń
 
 1. da yam cai.
-2. xefe cing da sida.
-3. cing yam kafe u cai.
+2. la xefe cing da side.
+3. cing yam kafe o cai.
 4. mama cing mi safi kamar.
-5. xefe sida i yam kafe.
+5. xefe side i yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -314,14 +314,14 @@ Prośby zazwyczaj dotyczą pytanego lub pytanych, ale pytania pytania często do
 – Czy on/ona pije herbatę?  
 **sual tu yam supe?**
 – Czy jesz zupę?  
-**sual mimen yam suy?**
+**sual mimen yam sui?**
 – Czy pijemy wodę?
 
 Oczywiście, powszechne rzeczowniki i nazwy własne również mogą być używane.
 
 **sual xefe yam kafe?**
 – Czy szef pije kawę?  
-**sual papá safi kamar?**
+**sual papa safi kamar?**
 – Czy ojciec sprząta pokój?  
 **sual niki baxa pandunia?**
 – Czy Nicky mówi Pandunia?
@@ -444,7 +444,7 @@ Przetłumacz te zdania z języka polskiego na Pandunię. Czasem istnieje więcej
 3. du vaf no yam supe.
 4. da no ha vaf i mau. / da ha no vaf i no mau.
 5. xefe yam cai ama no kafe.
-6. mama ha no vaf a du mau.
+6. mama ha no vaf ama du mau.
 
 
 --------------------------------------------------------------------------------
@@ -564,9 +564,9 @@ Nie trzeba powtarzać oreśleń czasu cały czas. To byłoby dziwne. Wystarczy o
 
 Jakiekolwiek określenie czasu jest dobre. Gdy jedno określenie czasu jest obecne, nie potrzeba dodatkowych słów.
 
-**mi jenu na nen 2003.**
+**mi be gene a nen 2003.**
 – Urodziłem się w 2003. roku.  
-**da safi kamar na badi den.**
+**da safi la kamar a pos den.**
 – Posprząta pokój jutro.
 
 

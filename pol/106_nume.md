@@ -15,7 +15,7 @@
 
 | Jedynki | Dziesiątki   | Setki           | Tysiące           |
 |:--------|:-------------|:----------------|:------------------|
-| 1 un    | 10 (un) des  | 100 un sento    | 1000 un kilo      |
+| 1 un    | 10 (un) des  | 100 (un) sento  | 1000 (un) kilo    |
 | 2 du    | 20 du des    | 200 du sento    | 2000 du kilo      |
 | 3 tri   | 30 tri des   | 300 tri sento   | 3000 tri kilo     |
 | 4 nelu  | 40 nelu   des| 400 nelu sento  | 4000 nelu kilo    |

@@ -10,10 +10,10 @@ Obserwacje to najprostszy typ zdania. Mogą się składać z tylko jednego słow
 – Pada!
 
 
-### 7.2. Zdania oznajmujące
+### Zdania oznajmujące
 
 
-#### 7.2.1. Z podmiotem-zaimkiem
+#### Z podmiotem-zaimkiem
 
 Normalnie zdanie składa się z podmiotu i predykatu. W najprostrzych zdaniach podmiot to zaimek osobowy, a predykat to przymiotnik lub rzeczownik.
 
@@ -40,13 +40,13 @@ Również dwa zaimki osobowe mogą być zestawione.
 **mi no tu.**
 – Ja Nie jestem tobą.
 
-#### 7.2.2. Z podmiotem-rzeczownikiem
+#### Z podmiotem-rzeczownikiem
 
 Gdy podmiot jest rzeczownikiem, słowo **e** (tak) jest dodawane przed predykatem w zdaniach pozytywnych. Przeczenia używają **no**, jak wyżej.
 
 **Sara e bon.**
 – Sara jest dobra.  
-**seku e dai.**
+**ite e dai.**
 – Kamień jest duży.  
 **meza e neu.**
 – Stół jest nowy.  
@@ -54,7 +54,7 @@ Gdy podmiot jest rzeczownikiem, słowo **e** (tak) jest dodawane przed predykate
 – Stół nie jest stary.
 
 
-#### 7.2.3. Z podmiotem-przymiotnikiem
+#### Z podmiotem-przymiotnikiem
 
 Ta sama zasada działa przy zdaniach z dwoma przymiotnikami.
 
@@ -63,13 +63,10 @@ Ta sama zasada działa przy zdaniach z dwoma przymiotnikami.
 **neu no lau.**
 – Nowe nie jest stare.
 
-#### 7.2.4. Być
-
-Pandunia nie używa czasownika jak "być" języka polski.
 
 
 
-### 7.3. Zdania czynne
+### Zdania czynne
 
 W predykatach czynności, główne zdanie w predykatacie to czasownik (tj. słowo-czynność). W Panduni, czasowniki są łatwe do rozpoznania, bo większość kończy się na **-a** lub **-u**.
 
@@ -77,7 +74,7 @@ Zdania czynne używające czasownika kończącego się na **-a** mają szyk podm
 
 **mi yam aple.**
 – Ja jem jabłka.  
-**mi audi musike.**
+**mi audi muzika.**
 – Ja słucham muzyki.  
 **mi vide tu.**
 – Ja widzę cię.
@@ -90,36 +87,36 @@ Czasowniki kończące się na **-u** są użwane w szyku podmiot-dopełnienie-or
 SOV i SVO są dwoma najpowszechniejszymi szykami zdania w językach świata. SOV jest używany w językach jak hindi-urdu, tamil, tureckim, japońskim i koreańskim. SVO jest używany w (między innymi) językach: angielskim, hiszpańskim, mandaryńskim, indonezyjskim i współczesnym arabskim.
 
 
-### 7.4. Zdania bierne
+### Zdania bierne
 
-#### 7.4.1. Szyk OV
+#### Szyk OV
 
-W stronie biernej nie ma podmiotu-agenta w zdaniu. Jest tylko dopełnienie i orzeczenie. Normalnie strona bierna jest wyrażana szykiem zdania dopełnienie-orzeczenie (VO) z czasownikiem kończącym się na **-u**.
+W stronie biernej nie ma podmiotu-agenta w zdaniu.
+Jest tylko dopełnienie i orzeczenie.
 
-**tu vidu.**
+**tu be vide.**
 – Ty jesteś widziany.  
-**musike audu.**
+**muzika be audi.**
 – Muzyka jest słyszana.  
-**pang baku.**
+**pang be baka.**
 – Chleb jest pieczony.
 
-Tu skupienie pada na dopełnienie, które jest pierwszym słowem w zdaniu. Dopełnienie jest biernym aktorem poddawanym działaniu.
+Tu skupienie pada na dopełnienie, które jest pierwszym słowem w zdaniu.
+Dopełnienie jest biernym aktorem poddawanym działaniu.
 
 Agent może być wspomniany po czasowniku z lub bez przyimka **de**.
 
-**tu vidu mi.**
-– Jesteś widziany przez mnie.  
-**tu vidu de mi.**
+**tu be vide de mi.**
 – Jesteś widziany przez mnie.
 
 
-#### 7.4.2. Szyk VO
+#### Szyk VO
 
 W szyku zdania dopełnienie-orzeczenie (VO) skupienie pada na orzeczenie.
 
 **vide tu.**
 – Widzenie cię.  
-**audi musike.**
+**audi muzika.**
 – Słuchanie muzyki.  
 **baka pang.**
 – Pieczenie chleba.
@@ -127,24 +124,26 @@ W szyku zdania dopełnienie-orzeczenie (VO) skupienie pada na orzeczenie.
 
 
 
-### 7.6. Struktura osiowa
+### Struktura osiowa
 
-#### 7.6.1. Podstawowa struktura osiowa (SVOVO)
+#### Podstawowa struktura osiowa (SVOVO)
 
 W _strukturze osiowej_ szyk zdania to:
 podmiot – orzeczenie 1. – dopełnienie 1. – orzeczenie 2. – dopełnienie 2.
 
 Dopełnienie 1. spełnia podwójną rolę. Jest jednocześnie dopełnieniem dla orzeczenia 1. i podmiotem dla orzeczenia 2.
 
-**mi vol tu yam sabze.**
+**mi vol tu yam fito.**
 – Ja chcę ty jesz warzywa.
 
-W powyższym przykładzie, **mi wol** ma **tu** jako swoje dopełnienie; jednocześnie **tu** działa jako podmiot następnego predykatu, **yam sabze**, więc **tu** jest _osią_ całego zdania.
+W powyższym przykładzie, **mi vol** ma **tu** jako swoje dopełnienie;
+jednocześnie **tu** działa jako podmiot następnego predykatu, **yam fito**, więc **tu** jest _osią_ całego zdania.
 
 
-### 7.7. Seryjne czsowniki
+### Seryjne czsowniki
 
-Wszystkie słowa-czyny (czasowniki), które pojawiają się jeden po drugim są aktywowane przez podmiot. Mogą być dwa, trzy albo i więcej słów-czynów w serii.
+Wszystkie słowa-czyny (czasowniki), które pojawiają się jeden po drugim są aktywowane przez podmiot.
+Mogą być dwa, trzy albo i więcej słów-czynów w serii.
 
 1. **mi ga dom.**
 – Idę do domu.  
@@ -154,18 +153,19 @@ Wszystkie słowa-czyny (czasowniki), które pojawiają się jeden po drugim są 
 – Chcę móc iść do domu.
 
 
-### 7.8. Opuszczanie zaimka
+### Opuszczanie zaimka
 
-W pewnych typach wyrażeń zaimki są opuszczane dla zwięzłości. Dochodzi do tego szczególnie w rozkazach i prośbach.
+W pewnych typach wyrażeń zaimki są opuszczane dla zwięzłości.
+Dochodzi do tego szczególnie w rozkazach i prośbach.
 
-#### 7.8.1. Krótka struktura osiowa (VOVO)
+#### Krótka struktura osiowa (VOVO)
 
 **mi sual tu baxa pandunia.**
 – Pytam mówisz w Pandunia.  
 **sual tu baxa pandunia?**
 – Czy mówisz w Panduni?
 
-#### 7.8.2. Krótka struktura osiowa (VVO)
+#### Krótka struktura osiowa (VVO)
 
 **mi cing tu lai dom.**
 – Proszę cię, żebyś wrócił do domu.  
@@ -176,13 +176,15 @@ W pewnych typach wyrażeń zaimki są opuszczane dla zwięzłości. Dochodzi do 
 
 --------------------------------------------------------------------------------
 
-## 8. Spójniki
+## Spójniki
 
-### 8.1. Podstawowe spójniki
+### Podstawowe spójniki
 
-1. **i** i (łączy dwa podobne słowa lub wyrażenia)
-2. **o** lub (łączy dwa alternatywne słowa lub wyrażenia)
-3. **ama**
+**i**
+– i (łączy dwa podobne słowa lub wyrażenia)  
+**o**
+– lub (łączy dwa alternatywne słowa lub wyrażenia)  
+**ama**
 – ale (wprowadza słowo lub wyrażenie, które które kontrastuje lub zaprzecza poprzedzającemu słowu lub wyrażeniu)
 
 **mi suka mau i vaf.**
@@ -194,12 +196,12 @@ W pewnych typach wyrażeń zaimki są opuszczane dla zwięzłości. Dochodzi do 
 
 --------------------------------------------------------------------------------
 
-## 9. Partykuły
+## Partykuły
 
 
-### 9.1. Potwierdzenie i Przeczenie
+### Potwierdzenie i Przeczenie
 
-### 9.1.1. Potwierdzenie
+### Potwierdzenie
 
 Partykuła **e** potwierdza, a **no** przeczy. Inaczej, **e** oznacza "być", a **no** znaczy "nie być".
 
@@ -210,7 +212,7 @@ Wyrażenia są domyślnie twierdzące, więc słowo **e** nie jest zawsze potrze
 **da e neu meza.**
 – To jest nowy stół.
 
-### 9.1.2. Przeczenie
+### Przeczenie
 
 Takie zdania mogą być prosto zaprzeczane przez **no**.
 
@@ -241,7 +243,7 @@ Partykuły **e** i **no** są używane też do odpowiadania na pytania.
 
 ### Partykuły modyfikatorowe
 
-#### 9.2.1. Posiadanie
+#### Posiadanie
 
 Partykuła modyfikatorowa może być używana przy każdym posiadającym rzeczowniku lub zaimku.
 
@@ -268,40 +270,40 @@ Przed **de** pojawia się posiadany obiekt, a po nim posiadacz.
 **dom de papa de mi**
 – dom ojca mojego
 
-#### 9.2.2. Nadawanie cech przymiotnikami
+#### Nadawanie cech przymiotnikami
 
 Innym sposobem użycia tych partykuł jest łączenie przymiotnika lub innych słów z rzeczownikiem. To daje nam więcej informacji o rzeczowniku, a partykuła objaśnia, na którym końcu jest główny rzeczownik.
 
 Partykuły modyfikatorowe są użyteczne do tworzenia złożonych przymiotników, które składają się z dwóch lub większej liczby słów.
 
-**labi de roze rang**
+**labi de rode rang**
 – usta koloru róży  
-**oko de sama rang**
+**yen de sama rang**
 – oczy koloru nieba
 
 Lub w przeciwnej kolejności:
 
-**roze rang di labe**
+**rode rang di labe**
 – koloru róży usta  
-**sama rang di oko**
+**sama rang di yen**
 – koloru nieba oczy
 
-#### 9.2.3. Zdania podrzędne
+#### Zdania podrzędne
 
 Partykułami modyfikatorowymi mogą być tworzone również zdania podrzędne.
 
-Tutaj **jo** ma podobną rolę co polskojęzyczny zaimek _który_.
+Tutaj **ki** ma podobną rolę co polskojęzyczny zaimek _który_.
 
-**da e man _jo mi vide_.**
+**da e man _ki mi vide_.**
 – On jest człowiekiem_, którego widziałem_.
 
 Jeśli zdanie podrzędne nie ma podmiotu, ale zawiera dopełnienie (tj. jeśli orzeczenie jest przechodnie), rzeczownik z zdania nadrzędnego jest w domyśle podmiotem zdania podrzędnego.
 
-**mi vide man _jo yam aple_.**
+**mi vide man _ki yam aple_.**
 – Widzę człowieka_, który je jabłka_.
 
 
-### 9.3. Partykuły modalne
+### Partykuły modalne
 
 Partykuły modalne wyrażają, o czym mówiący myśli w relacji z słuchaczem. Partykuły modalne są powszechnie używane w wielu językach. Wschodniopazjatyckie języki, włączając w to chiński i japoński, używają słynnych patykuł kończących zdania.
 
@@ -321,7 +323,7 @@ Partykuła **plus** _(też)_ jest dość dobrym przykładem.
 Partykuły modalne mogą działać na każde słowo, włączając w to zimki i liczebniki, których przymiotniki nie mogą opisywać.
 
 
-### 9.4. Partykuły czasu i aspektu
+### Partykuły czasu i aspektu
 
 W Panduni, czas może być wyrażany słowami czasu i wyrażeniami czasu, jeśli trzeba. Ogólne słowa czasu to **pas** (przeszłość), **zai** (teraźniejszość) i **futur** (przyszłość). Działają jak przymiotniki i przysłówki, więc zazwyczaj ich miejsce jest przed orzeczeniem lub na końcu zdania.
 
@@ -335,9 +337,9 @@ W Panduni, czas może być wyrażany słowami czasu i wyrażeniami czasu, jeśli
 Naturalnie, wszystkie słowa czasu są używane, gdy są potrzebne. Zazwyczah wystaerczy wspomnieć czas tylko raz, na początku tekstu, a nie w każdym zdaniu, jeśli czas się nie zmienia.
 
 
-## 10. Przyimki
+## Przyimki
 
-### 10.1. Przyimiki miejsca i czasu
+### Przyimiki miejsca i czasu
 
 Pandunia ma cztery przyimki miejsca i czasu.
 
@@ -369,11 +371,11 @@ Przyimki mogą być też użyte jako rozpoczęcie zdania okolicznikowego czasu.
 **mi dele a tu sona.**
 – Czekam, kiedy śpisz.
 
-#### 10.1.2. a
+#### a
 
 **a** jest przyimkiem wszelkiego zastosowania. Jego podstawowym znaczeniem jest "przy".
 
-**mi esta a dom.**
+**mi a dom.**
 _Stoję przy domu._  
 
 **mi loga a pandunia.**
@@ -384,7 +386,7 @@ Mówię w Panduni.
 _Mówię przy przyjaciołach przy Panduni przy telefonie._
 Mówię z przyjaciółmi w Panduni przez telefon.
 
-#### 10.1.3. Czasowniki jako przyimki
+#### Czasowniki jako przyimki
 
 W Panduni kilka czasowników działa jak przyimki lub przypadki gramatyczne w języku polskim.
 
@@ -398,9 +400,9 @@ W Panduni kilka czasowników działa jak przyimki lub przypadki gramatyczne w j�
 
 Oto kilka czasowników, których można użyć jak przyimków:
 
-**bada**
+**pos**
 – podążać; po, za  
-**dura**
+**dur**
 – trwać; podczas, przez  
 **jung**
 – być skocentrowanym; między, w środku  
@@ -413,7 +415,7 @@ Oto kilka czasowników, których można użyć jak przyimków:
 **sabu**
 – być spowodowanym przez; przez, ponieważ, bo
 
-#### 10.1.4. Czasowniki bez przyimów
+#### Czasowniki bez przyimów
 
 Przyimki nie są używane tak często w Panduni jak w języku polskim. W wielu zdaniach, czasownik wyraża wystarczająco wiele.
 
@@ -429,26 +431,26 @@ Przyimki nie są używane tak często w Panduni jak w języku polskim. W wielu z
 – Wojownicy maszerują na drodze.
 
 
-### 10.2. Przyimek relacji
+### Przyimek relacji
 
 Przyimek **ka** wyraża sposób lub styl. Odpowiada polskojęzycznym przyimkom _jak_, _niż_, _jakby_.
 
-**mi sabe pandunia ka guru.**
+**mi sabi pandunia ka guru.**
 – Znam Pandunię jak mistrz.
 
 **ka** wiąże czasownik lub przymiotnik z punktem odniesienia. W powyższym przykładzie **sabe** (wiedzieć) jest czasownikiem, a **guru** (mistrz) jest punktem odniesienia.
 
 **ka** jest też używany, gdy porównywane są przymiotniki.
 
-**baca e min dai ka papa.**
+**ben e min dai ka pa.**
 – Dziecko jest mniejsze niż ojciec.
-**lau papa e par dai ka papa.**
+**cin pa e par dai ka pa.**
 – Dziadek jest tak duży jak ojciec.
 
 **ka** wiąże przysłówki porównania – **mas** (bardziej), **min** (mniej) i **par** (tak samo) – z punktem odniesienia, którym jest **papa** (ojciec) w powyższych przykładach.
 
 
-### 12.2. Hierarchia Części Mowy
+### Hierarchia Części Mowy
 
 Język mówiony jest stumieniem dźwięków budujących słowa. Język pisany, w przypadku Panduni, jest strumieniem liter, od lewej do prawej, które budują słowa. Tak więc każde wyrażenie jest sekwencją słów. Jakkolwiek, nie wszystkie słowa są równe. Istnieje hierarchia słów. Orzeczenie jest strukturalnym centrum zdania i pozostałe słowa są pośrednio lub bezpośrednio z nim połączone.
 
@@ -476,7 +478,7 @@ Przymiotniki i liczebniki wskazują na ich główne słowo, rzeczownik:
 Hierarchia części mowy w Panduni od bardziej do mniej centralnych jest, jak następuje.
 
 1. Spójniki: i, o, ama
-2. Łączniki: di, de
+2. Łączniki: su, di, de
 3. Przyimki: a, to, de
 4. Czasowniki
 5. Rzeczowniki i zaimki
