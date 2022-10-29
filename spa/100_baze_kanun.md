@@ -17,7 +17,7 @@ Ellas se describien en más detalle más tarde en este sitio.
    Si la palabra tiene tres o más sílabas, la segunda sílaba es acentuada.
 4. **Pronombres:**
     - Los pronombres personales son:
-     **mi** _yo_, **tu** _tú o usted_, **ya** _él o ella_,
+     **mi** _yo_, **tu** _tú o usted_, **da** _él o ella_,
      **mimen** _nosotros_, **tumen** _ustedes_, **damen** _ellos o ellas_.
     - Los pronombres posesivos:
      **mi su** _mi_, **tu su** _tu_, **da su** _su (de él o ella)_,
