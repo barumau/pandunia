@@ -17,7 +17,7 @@ They are described in more detail later in this document.
    If the word has three or more syllables, the second syllable is accented.
 4. **Pronouns:**
     - The personal pronouns are:
-     **mi** _I_, **tu** _you_ (sg.), **da** _he or she_,
+     **mi** _I_, **tu** _you_ (sg.), **da** _he/she/it_,
      **mimen** _we_, **tumen** _you_ (pl.), **damen** _they_.
     - The possessive pronouns are:
       **mi su** _my_, **tu su** _your_, **da su** _his or her_,

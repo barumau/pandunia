@@ -394,7 +394,7 @@ Add **men** to form the plural:
 |------------|------------|------------|
 | I          | mi         | wǒ         |
 | you        | tu         | nǐ         |
-| he or she  | da         | tā         |
+| he/she/it  | da         | tā         |
 | we         | mimen      | wǒmen      |
 | you all    | tumen      | nǐmen      |
 | they       | damen      | tāmen      |
@@ -405,7 +405,7 @@ Add **su** to form the possessive:
 |------------|------------|------------|
 | my         | mi su      | wǒ de      |
 | your       | tu su      | nǐ de      |
-| his/her    | da su      | tā de      |
+| his/her/its| da su      | tā de      |
 | our        | mimen su   | wǒmen de   |
 | your       | tumen su   | nǐmen de   |
 | their      | damen su   | tāmen de   |

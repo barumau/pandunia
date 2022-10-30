@@ -16,7 +16,7 @@ For example, the verb
 **_tu_ e dosti.**
 – You are a friend.  
 **_da_ e dosti.**
-– He or she is a friend.  
+– He/she is a friend.  
 **_mimen_ e dosti.**
 – We are friends.  
 **_tumen_ e dosti.**
@@ -125,7 +125,7 @@ It is best translated by *already* or *(not) yet*.
 You can think of it somewhat like the present perfect in English (_I have done_, _I have eaten_).
 
 **da _le_ e guru.**
-– He or she is already a teacher.  
+– He/she is already a teacher.  
 **mi no _le_ gul yo alkohol.**
 – I haven't drunk alcohol yet.  
 **mi _le_ no gul yo alkohol.**
@@ -156,7 +156,7 @@ You can think of it somewhat like the past simple in English (I finished, I ate)
 indicates that the event will take place later or in the future.
 
 **da _xa_ e guru.**
-– He or she shall be a teacher.  
+– He/she shall be a teacher.  
 **mi no _xa_ gul bir.**
 – I will not drink beer.
 

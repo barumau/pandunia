@@ -333,7 +333,7 @@ The pivot structure is a common structure in Pandunia.
 
 Remember that it is allowed to leave out pronouns that are known in
 the context. In other words the speaker can safely assume that the
-listeners know who he or she is talking about. So it is unnecessary
+listeners know who he/she is talking about. So it is unnecessary
 to keep on repeating them. In this manner phrases can be made shorter.
 
 **mi cing tu sal da.**
@@ -505,7 +505,7 @@ needed. It can be left out only when it is clear who is the topic of
 discussion.
 
 **sual da yam cai?**
-= Does he or she drink tea?  
+= Does he/she drink tea?  
 **sual tu yam supe?**
 = Do you eat soup?  
 **sual mimen yam sui?**

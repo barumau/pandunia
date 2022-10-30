@@ -66,7 +66,7 @@ If the subject is a personal pronoun, the **ya** is left out.
 **tu sona.**
 – You sleep.  
 **da sona.**
-– He or she sleeps.
+– He/she sleeps.
 
 The basic word order is subject–verb–object
 – the same as in English!
@@ -112,7 +112,7 @@ It can't be left out when it is part of a serial verb.
 Pandunia words can be ambiguous because they often have more meanings compared to English.
 
 **da ame mau.**
-– He loves cats. / She loved a cat. / He or she will love the cat.
+– He loves cats. / She loved a cat. / He/she will love the cat.
 
 But actually the meaning is clear in the real context:
 

@@ -888,10 +888,10 @@ I am greeting your friend.
 The man is watching a film.
 
 **da zai e xefe.**  
-He or she is currently the chief.
+He/she is currently the chief.
 
 **da zai a dom.**  
-He or she is currently at home.
+He/she is currently at home.
 
 
 ### pas <small>in the past</small>
@@ -903,10 +903,10 @@ I greeted your friend.
 The man watched a film.
 
 **da pas e xefe.**  
-He or she was the chief.
+He/she was the chief.
 
 **da pas a dom.**  
-He or she was at home.
+He/she was at home.
 
 
 ### le <small>already, completed</small>
@@ -918,10 +918,10 @@ I have greeted your friend.
 The man has watched a film.
 
 **da le e xefe.**  
-He or she has been the chief.
+He/she has been the chief.
 
 **da le a la dom.**  
-He or she has been at home.
+He/she has been at home.
 
 
 ### xa <small>in the future</small>
@@ -933,10 +933,10 @@ I will greet your friend.
 The man will watch the film.
 
 **da xa e xefe.**  
-He or she will be the chief.
+He/she will be the chief.
 
 **da xa a dom.**  
-He or she will be at home.
+He/she will be at home.
 
 
 
