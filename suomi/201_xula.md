@@ -11,7 +11,7 @@
 **sal!**
 = Hei!  
 <big>☻</big>
-**salam!**
+**sal!**
 = Terve!  
 <big>☺</big>
 **tu e ke?**
@@ -39,7 +39,9 @@ Teema osoittaa kenestä tai mistä puhutaan.
 Kommentti kertoo jotakin uutta teemasta.
 Esimerkiksi lauseessa
 **da e mi su dosti**
-teema on **da** (hän), ja sitä seuraa kommentti
+teema on
+**da**
+(hän), ja sitä seuraa kommentti
 **e mi su dosti**
 (on minun ystäväni).
 
@@ -130,36 +132,45 @@ eläin
 
 ## Tervehtiminen
 
-**salam**
+**sal**
 = Terve!
 
 Näin ihmiset tervehtivät toisiaan panduniaksi.
-He sanovat **salam**.
+He sanovat **sal**.
 Samaa sanaa voi käyttää sekä tervehtimiseen että hyvästelemiseen.
 
-**salam**
+**sal**
 = Näkemiin!
 
 Sana **salam** tarkoittaa tervehdystä.
-Se on alkujaan arabian kielen sana, joka tarkoittaa _hyvinvointia_ ja _rauhaa_,
-ja se on yleinen tervehdys monessa maassa erityisesti Afrikassa ja Aasiassa.
+Toisaalta se tulee latinan tervehdyksestä *salve* ja sen sukulaissanoista,
+kuten ranskan *salut*.
+on alkujaan arabian kielen sana, joka tarkoittaa _hyvinvointia_ ja _rauhaa_,
+Toisaalta se tulee Lähi-idässä yleisestä tervehdyksestä,
+joka on *šlaam* arameassa, jota Jeesus puhui,
+*šalom* hepreassa
+ja *salaam* arabiassa.
+Nykyään se on yleinen tervehdys monessa Afrikan, Aasian ja Euroopan maassa.
+
 Pandunia on keinotekoinen maailmankieli, joka lainaa sanoja maailman kaikista osista.
 
-Sana **salam** toimii sellainaan myös verbinä "tervehtiä".
+Sana
+**sal**
+toimii sellainaan myös verbinä "tervehtiä".
 
-**mi salam tu.**
+**mi sal tu.**
 = Minä tervehdin sinua.  
-**tu salam mi.**
+**tu sal mi.**
 = Sinä tervehdit minua.
 
 Nämä ovat aktiivisia lauseita.
 Aktiivissa lauseissa tekijä eli subjekti tekee teon eli verbin kohteelle eli objektille.
 Siis lauseessa
-**mi salam tu**
+**mi sal tu**
 ensimmäinen sana,
 **mi**,
 on subjekti,
-**salam**
+**sal**
 on verbi, ja
 **tu**
 on objekti.
@@ -174,11 +185,11 @@ Ne pysyvät koko ajan samoina riippumatta siitä, mikä niiden asema lauseessa o
 
 Panduniassa lauseita voi lyhentää jättämällä pois ilmeiset pronominit.
 
-**mi salam tu!**
+**mi sal tu!**
 = Minä tervehdin sinua.  
-**salam tu!**
+**sal tu!**
 = Tervehdin sinua! (On ilmiselvää että puhuja tervehtii.)  
-**salam!**
+**sal!**
 = Tervehdys! (On ilmiselvää että kuulijaa tervehditään.)
 
 Toinen panduniassa käytetty kansainvälinen tervehdys on
@@ -188,15 +199,17 @@ Voit valita vapaasti, kumpaa sanaa haluat käyttää tervehtimiseen.
 **halo!**
 = Hei!
 
-Lauseen **salam tu** malli on kätevä, kun ihmisiä tervehditään nimen, sukulaisuussuhteen, ammatin tai muun roolin mukaan.
+Lauseen
+**sal tu**
+malli on kätevä, kun ihmisiä tervehditään nimen, sukulaisuussuhteen, ammatin tai muun roolin mukaan.
 
 **halo, toni!**
 = Terve, Toni!  
-**salam, mama!**
+**sal, mama!**
 = Hei, äiti!  
 **halo, papa!**
 = Hei, isä!  
-**salam, xefe!**
+**sal, xefe!**
 = Terve, pomo!
 
 
@@ -223,9 +236,9 @@ pomo, päällikkö
 
 ### Harjoitusten vastaukset
 
-1. tu salam da.
-2. mama salam papa.
-3. salam mama!
+1. tu sal da.
+2. mama sal papa.
+3. sal mama!
 4. sal!
 
 
@@ -259,10 +272,10 @@ pomo, päällikkö
 **cin pa, mi mus ga a zai.**
 = Isoisä, Minun täytyy lähteä nyt.  
 <big>☺</big>
-**oke. cing salam tu su mama!**
+**oke. cing sal tu su mama!**
 = OK. Kerro terveisiä äidillesi!  
 <big>☻</big>
-**mi salam da. sal reste!**
+**mi sal da. sal reste!**
 = Min kerron. Hei hei!  
 <big>☺</big>
 **sal cuti!**
@@ -275,7 +288,7 @@ Pandunian persoonapronominit ovat: **mi** = minä, **tu** = sinä, ja **da** = h
 Kuten suomessa, myös panduniassa persoonapronomineilla ei jaotella sukupuolta.
 Kaikkia edellä mainittuja persoonapronomineja käytettään seuraavassa esimerkkilauseessa.
 
-**mi cing tu salam da.**
+**mi cing tu sal da.**
 = Minä pyydän sinua tervehtimään häntä.
 
 Lauseessa on niin sanottu _saranarakenne_. Ensimmäinen verbi,
@@ -283,7 +296,7 @@ Lauseessa on niin sanottu _saranarakenne_. Ensimmäinen verbi,
 = pyytää, saa kohteekseen sanan
 **tu**, 
 joka toimii samaan aikaan toisen verbin,
-**salam**
+**sal**
 = tervehtiä, tekijänä.
 Sen kohteena on
 **da**.
@@ -303,9 +316,9 @@ Toisin sanoen puhuja voi turvallisin mielin olettaa,
 että kuulijat tietävät mistä tai kenestä hän puhuu, eikä hänen tarvitse jatkuvasti toistaa niitä.
 Tällä tavalla lauseista voi tehdä lyhyempiä.
 
-**mi cing tu salam da.**
+**mi cing tu sal da.**
 = Minä pyydän sinua tervehtimään häntä.  
-**cing salam da.**
+**cing sal da.**
 = (Pyydän,) tervehdi häntä.
 
 Huomasitko miten sanan **cing** rooli muuttui hieman kahdessa edellisessä lauseessa?
@@ -315,18 +328,18 @@ Suomessa käytetään ilmaisua "ole hyvä" tai verbin isi-muotoa.
 Sen sijaan panduniassa käytetään yksinkertaisesti pyytämistä tarkoittavaa verbiä yksinään, sillä kuulija toki tietää kuka pyytää.
 
 Lauseen
-**cing salam da**
+**cing sal da**
 rakennetta voi hyödyntää kaikenlaisten kohteliaiden pyyntöjen ilmaisemiseen.
 
 **cing side.**
 = Istu, ole hyvä.  
 **cing don yo kafe.**
 = Antaisitko kahvia.  
-**cing don yo cai.**
+**cing don cai.**
 = Antaisitko teetä.  
-**cing yam yo cai.**
+**cing yam cai.**
 = Ottaisitko teetä.  
-**cing safi la kamar.**
+**cing safi kamar.**
 = Siivoaisitko huoneen.
 
 Käskyt aloitetaan sanalla
@@ -334,9 +347,9 @@ Käskyt aloitetaan sanalla
 ('käskeä, komentaa').
 Käskylauseiden rakenne on sama kuin pyyntölauseiden.
 
-**amir don yo cai.**
+**amir don cai.**
 = Anna teetä!  
-**amir safi la kamar.**
+**amir safi kamar.**
 = Siivoa huone!
 
 Käytännössä napakat käskyt voi tehdä myös pelkällä verbillä ja

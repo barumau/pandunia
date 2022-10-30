@@ -130,22 +130,21 @@ Minä olen Sara.
 **mi e Tomas.**
 Minä olen Tomas.
 
-Voit esitellä itsesi helposti sanomalla vain **me**
-ja nimesi. Panduniassa siihen ei tarvita verbiä!
-
-**mi salam mama.**
+**mi sal mama.**
 Minä tervehdin äitiä.
 
-**mi salam papa.**
+**mi sal papa.**
 Minä tervehdin isää.
 
-Sana **salam** on sekä substantiivi että verbi.
+Sana
+**sal**
+on sekä substantiivi että verbi.
 Pandunian normaali sanajärjestys on subjekti–verbi–objekti.
 
-**Sara ya salam Tomas.**
+**Sara ya sal Tomas.**
 Sara tervehtii Tomasta.
 
-**salam mama!**
+**sal mama!**
 Terve, äiti!
 
 **salam papa!**
@@ -162,15 +161,13 @@ suahilin *mimi*.</small>
 
 ### tu <small>sinä</small>
 
-<p style="font-size:4em;">🗣️👉👤</p>
-
 **tu e Tomas.**
 Sinä olet Tomas.
 
-**mi salam tu.**
+**mi sal tu.**
 Minä tervehdin sinua.
 
-**tu salam mi.**
+**tu sal mi.**
 Sinä tervehdit minua.
 
 Pandunian sanat ovat taipumattomia.
@@ -202,7 +199,7 @@ Se on omena.
 **da**
 on yleispätevä kolmannen persoonan pronomini, jota käytetään ihmisistä, eläimistä, esineistä ja asioista.
 
-**mi salam da.**
+**mi sal da.**
 Minä tervehdin häntä.
 
 <small>Sanan **da** lähteitä ovat
@@ -212,18 +209,17 @@ yleiskiinan 他/她 (tā).</small>
 
 ### sual <small>kysyä</small>
 
-<p style="font-size:5em">🤔❓</p>
-
 **sual tu e Tomas?**
 Oletko sinä Tomas?
 
-**sual tu e dava ja?**
+**sual tu e davar?**
 Oletko lääkäri?
 
-Kyllä vai ei -kysymykset alkavat tavallisesti sanalla **sual**.
+Kyllä vai ei -kysymykset alkavat tavallisesti sanalla
+**sual**.
 Se on ihan tavallinen verbi eikä _kysymyspartikkeli_ kuten suomen -ko/-kö.
 Itse asiassa äskeinen kysymys on lyhennetty lauseesta
-**mi sual tu dava ja**
+**mi sual tu e davar**
 (Minä kysyn: sinä olet lääkäri?), joka on lyhennetty jättämällä ensimmäinen sana pois.
 
 **sual tu bon?**
@@ -250,10 +246,10 @@ Oletko Tomas?
 **ya, mi e Tomas.**
 Kyllä, olen Tomas.
 
-**sual da e dava ja?**
+**sual da e davar?**
 Onko hän lääkäri?
 
-**ya, da e dava ja.**
+**ya, da e davar.**
 Kyllä, hän on lääkäri.
 
 
@@ -262,7 +258,7 @@ Kyllä, hän on lääkäri.
 **mi no e Sara.**
 Minä en ole Sara.
 
-**mi no e dava ja.**
+**mi no e davar.**
 Minä en ole lääkäri.
 
 **sual tu bon?**
@@ -275,10 +271,12 @@ Voitko hyvin?
 **no, mi no bon.**
 Ei, minä en voi hyvin.
 
-Sanalla **no**
-voi kiistää mitä tahansa. Sen paikka on kiistetyn sanan edellä.
+Sanalla
+**no**
+voi kiistää mitä tahansa.
+Sen paikka on kiistetyn sanan edellä.
 
-**da no salam mi.**
+**da no sal mi.**
 Hän ei tervehdi minua.
 
 <small>Sanan **no**
@@ -302,13 +300,13 @@ Yksikön persoonapronomineista saadaan monikot seuraavasti:
 (he, ne)
 
 
-**mimen salam tumen.**
+**mimen sal tumen.**
 Me tervehdimme teitä.
 
-**tumen salam damen.**
+**tumen sal damen.**
 Te tervehditte heitä.
 
-**damen salam mimen!**
+**damen sal mimen!**
 He tervehtivät meitä.
 
 **mimen e fem.**
@@ -635,17 +633,17 @@ Anteeksi, minä en ymmärrä sinua.
 **mi no bas aha tu.**
 En aivan ymmärtänyt sinua.
 
-**mi aha siro xe.**
+**mi aha no xe.**
 En ymmärrä yhtään.
 
 
 
 ### bil <small>osata</small>
 
-**mi bil xofe un kar.**
+**mi bil xofe gar.**
 Osaan ajaa autolla.
 
-**da no bil xofe un kar.**
+**da no bil xofe gar.**
 Hän ei osaa ajaa autolla.
 
 **sual tu bil xuli da?**
@@ -657,7 +655,7 @@ Osaatko panduniaa?
 **mi bil pandunia.**
 Minä osaan panduniaa.
 
-**mi bil xiu pandunia.**
+**mi bil kam pandunia.**
 Minä osaan vähän panduniaa.
 
 **mi no bil englix.**
@@ -713,8 +711,8 @@ Minkälaista musiikkia sinä kuuntelet?
 **suka vide tu.**
 Hauska nähdä sinua!
 
-**vide tu re!**
-Nähdään taas!
+**to rivide!**
+Näkemiin!
 
 **vide tu a posden!**
 Nähdään huomenna!
@@ -730,7 +728,7 @@ Minä näin hänet eilen.
 Mitä tämä sana tarkoittaa?
 
 **"mau" ya semi ke?**
-Mitä "maw" tarkoittaa?
+Mitä "mau" tarkoittaa?
 
 **da semi un yang de hevan.**
 Se tarkoittaa eräänlaista eläintä.
@@ -767,7 +765,7 @@ Ranskaa, espanjaa, portugalia, venäjää
 **putong han, nipon, malayu**
 Kiinaa, japania, malaijia
 
-**arabi, turki, farsi, urdu, hindi**
+**arabi, turki, parsi, urdu, hindi**
 Arabiaa, turkkia, persiaa, urdua, hindiä
 
 **suahili, hausa, yoruba, amara**
@@ -782,7 +780,7 @@ Swahilia, hausaa, jorubaa, amharaa
 **tu ga ke?**
 Minne sinä menet?
 
-**mi ga la dom.**
+**mi ga dom.**
 Minä menen kotiin.
 
 **mi mus ga ke?**
@@ -822,16 +820,16 @@ Matkustatko junalla?
 **mimen safar de London to Paris.**
 Me matkustamme Lontoosta Pariisiin.
 
-**safar tre long.**
+**safar e dai di long.**
 Matka on hyvin pitkä.
 
 
 ### a <small>luona, kanssa, -lla, -ssa</small>
 
-**la hotel a ke?**
+**hotel a ke?**
 Missä hotelli on?
 
-**la hotel a vo dau.**
+**hotel a vo dau.**
 Hotelli on tuolla tiellä.
 
 **tu a ke?**
@@ -872,13 +870,13 @@ Astuko tässä hotellissa?
 **cing dele!**
 Odota!
 
-**dele to mi!**
+**dele mi!**
 Odota minua!
 
-**damen dele to mimen.**
+**damen dele mimen.**
 He odottavat meitä.
 
-**mi dele to tu a hotel.**
+**mi dele tu a hotel.**
 Minä odotan sinua hotellissa.
 
 
@@ -888,7 +886,7 @@ Minä odotan sinua hotellissa.
 
 ### zai <small>parhaillaan</small>
 
-**mi zai salam tu su dosti.**  
+**mi zai sal tu su dosti.**  
 Minä olen tervehtimässä sinun ystävääsi.
 
 **la man ya zai vide un filme.**  
@@ -903,7 +901,7 @@ Hän on parhaillaan kotona.
 
 ### pas <small>ennen</small>
 
-**mi pas salam tu su dosti.**  
+**mi pas sal tu su dosti.**  
 Minä tervehdin sinun ystävääsi.
 
 **la man ya pas vide un filme.**  
@@ -918,7 +916,7 @@ Hän oli kotona.
 
 ### le <small>jo, valmiiksi</small>
 
-**mi le salam tu su dosti.**  
+**mi le sal tu su dosti.**  
 Minä olen tervehtinyt ystävääsi.
 
 **la man le vide un filme.**  
@@ -933,7 +931,7 @@ Hän on ollut kotona.
 
 ### xa <small>myöhemmin, jatkossa</small>
 
-**mi xa salam tu su dosti.**  
+**mi xa sal tu su dosti.**  
 Minä tervehdin ystävääsi (jatkossa).
 
 **la man xa vide la filme.**  

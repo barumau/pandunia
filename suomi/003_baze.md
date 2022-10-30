@@ -11,7 +11,7 @@ Vokaalit **a, e, i, o, u** äännetään niin kuin suomessa.
 
 Konsonantit ovat:
 **b**,
-**ch** (äännetään kuin _tš_ sanassa _tšekki_),
+**c** (äännetään kuin _tš_ sanassa _tšekki_),
 **d**,
 **f**,
 **g**,
@@ -24,7 +24,7 @@ Konsonantit ovat:
 **p**,
 **r**,
 **s**,
-**sh** (kuin _š_ sanassa _šakki_),
+**x** (kuin _š_ sanassa _šakki_),
 **t**,
 **v**,
 **y** (kuin suomen _j_),
@@ -40,11 +40,11 @@ Samaa sanaa voi käyttää samassa muodossa niin substantiivina, adjektiivina ku
 
 |                   |              |
 |:-----------------:|:------------:|
-| **mi**            | **mimon**    |
+| **mi**            | **mimen**    |
 | _minä_            | _me_         |
-| **tu**            | **tumon**    |
+| **tu**            | **tumen**    |
 | _sinä_            | _te_         |
-| **ye**            | **yemon**    |
+| **da**            | **damen**    |
 | _hän, se_         | _he_         |
 
 ### Perus lauserakenteita
@@ -65,7 +65,7 @@ Kun subjektina on persoonapronomini, pikkusana **ya** jää pois.
 
 Lauseen sanajärjestys on subjekti–verbi–objekti.
 
-**mi ama tu.**
+**mi ame tu.**
 – Minä rakastan sinua.
 
 Kun tekemisen kohde eli lauseen objekti on substantiivi,
@@ -73,7 +73,7 @@ se merkitään verbistä erilleen osoittavalla pronominilla, lukusanalla tai muu
 
 **mi yam un pai.**
 – Minä syön (yhtä) piirakkaa.  
-**tu yam ni pai.**
+**tu yam ye pai.**
 – Sinä syöt tätä piirakkaa.
 
 ### Kieltäminen
@@ -92,9 +92,9 @@ Sen voi jättää pois kaikista yksinkertaisimmissa lauseissa.
 
 **mi un jen.**
 – Minä, ihminen.  
-**mi si un jen.**
+**mi e un jen.**
 – Minä olen ihminen.  
-**mi vol si un mau.**
+**mi vol e un mau.**
 – Minä haluan olla kissa.
 
 ### Monikäyttöiset sanat
@@ -103,12 +103,12 @@ Monet sanat voivat toimia niin substantiivina, adjektiivina kuin verbinä.
 
 Pandunian ovat monikäyttöisiä, ja sen vuoksi ne voivat joskus vaikuttaa epäselviltä suomen sanoihin verrattuna.
 
-**ye ama mau.**
+**da ame mau.**
 – Hän rakastaa kissaa. / Hän rakasti kissoja. / Hän tulee rakastamaan kissoja.
 
 Virkkeen asiayhteys selkeyttää sen merkityksen:
 
-**tri nen cen, mi ha du mau e un vaf. mi mas ha un fem ben. ye ama mau!**
+**pre tri nen, mi ha du mau i un vaf. mi max ha un fem ben. da ame mau!**
 – Kolme vuotta sitten minulla oli kaksi kissaa ja koira. Minulla oli myös tytär. Hän rakasti niitä kissoja!
 
 ### Aika
@@ -123,13 +123,13 @@ Tarvittaessa aika ilmaistaan ajan adverbeilla ja apuverbeillä, kuten
 **xa**
 (tulevaisuudessa).
 
-**mi zai ama tu.**
+**mi zai ame tu.**
 – Minä parhaillaan rakastan sinua.  
-**mi pas ama tu.**
+**mi pas ame tu.**
 – Minä ennen rakastin sinua.  
-**mi le ama tu.**
+**mi le ame tu.**
 – Minä olen jo rakastanut sinua.  
-**mi xa ama tu.**
+**mi xa ame tu.**
 – Minä tulen rakastamaan sinua.
 
 ### Passiivi
@@ -137,16 +137,16 @@ Tarvittaessa aika ilmaistaan ajan adverbeilla ja apuverbeillä, kuten
 Passiivi muodostetaan käyttämällä apuverbiä
 **be**.
 
-**tu be ama.**
+**tu be ame.**
 – Sinua rakastetaan.  
-**mi be ama da tu.**
+**mi be ame de tu.**
 – Minua rakastat sinä.
 
 ### Muiden sanojen luonnehtiminen
 
 Substantiivia luonnehditaan panemalla adjektiivimääre sen eteen.
 
-**un nove ama**
+**un neu ame**
 – uusi rakkaus  
 **la bon pai**
 – hyvä piirakka
@@ -154,19 +154,19 @@ Substantiivia luonnehditaan panemalla adjektiivimääre sen eteen.
 Verbiä luonnehditaan panemalla adverbimääre sen eteen.
 Toisinaan adverbi merkitään pikkusanalla **di**.
 
-**mi bon vide tu.**
+**mi bon (di) vide tu.**
 – Minä hyvin näen sinut.  
-**tu vide di ama ye.**
+**tu vide di ame da.**
 – Sinä nähtävästi rakastat häntä.
 
 Määreitä vertaillaan pikkusanoilla
-**mas** 'enemmän, -mpi', **masim** 'eniten, -in',
+**max** 'enemmän, -mpi', **maxim** 'eniten, -in',
 **min** 'vähemmän', **minim** 'vähiten' ja **par** 'yhtä'.
 Vertailukohde esitellään pikkusanalla **ka** 'kuin'.
 
-**tu si mas lau ka mi.**
+**tu e max sen ka mi.**
 – Sinä olet vanhempi kuin minä.  
-**tu si masim lau.**
+**tu e maxim sen.**
 – Sinä olet vanhin.
 
 ### Kysyminen
@@ -182,21 +182,21 @@ Hakukysymys muodostetaan kirjoittamalla tavallinen lause, josta korvataan kysytt
 **ke**
 'kuka, mikä, mitä'.
 
-**tu ama ke?**
+**tu ame ke?**
 – Sinä rakastat ketä?  
-**tu ama ke man?**
+**tu ame ke man?**
 – Sinä rakastat mitä miestä?  
-**ke man ya ama tu?**
+**ke man ya ame tu?**
 – Mikä mies rakastaa sinua?  
-**tu ama ye ke poli?**
+**tu ame da ke poli?**
 – Sinä rakastat häntä miten paljon?
 
 ### Käskeminen
 
 Käsky muodostetaan jättämällä subjekti pois ja aloittamalla lause verbillä.
 
-**yam ni pai!**
+**yam ye pai!**
 – Syö tämä piirakka!  
-**vide go mau!**
+**vide vo mau!**
 – Katso tuota kissaa!
 

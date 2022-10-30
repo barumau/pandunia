@@ -42,9 +42,9 @@ Kaksi tai useampia sanoja voidaan liittää yhdyssanaksi.
 Yhdyssanan viimeinen sana on edusosa eli yhdyssanan merkittävin osa.
 Sitä ennen tulevat sanat toimivat määriteosana eli ne ainoastaan muokkaavat pääsanan merkitystä.
 
-**sol fote**
+**sol foto**
 = auringon valo  
-**luna fote**
+**luna foto**
 = kuun valo  
 **luna ite**
 = kuukivi  

@@ -50,10 +50,10 @@ Esimerkiksi sana
 ('rakkaus') voi toimia verbinä, substantiivina tai määritteenä sen mukaan,
 mikä on sen paikka lauseessa.
 
-**mi _ama_ tu.**
+**mi _ame_ tu.**
 – Minä _rakastan_ sinua. (verbi)  
-**tu emosi mi su _ama_.**
+**tu gamo mi su _ame_.**
 – Sinä tunnet minun _rakkauteni_. (substantiivi)  
-**mi kitabu un _ama_ anjil.**
-– Minä kirjoitan _love_kirjettä. (adjektiivi)
+**mi kitaba un _ame_ anjil.**
+– Minä kirjoitan _rakkaus_kirjettä. (adjektiivi)
 

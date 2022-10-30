@@ -17,13 +17,13 @@
 
 | Ykköset | Kymmenet     | Sadat           | Tuhannet          |
 |:--------|:-------------|:----------------|:------------------|
-| 1 un    | 10 (un) des  | 100 un sento    | 1000 un kilo      |
+| 1 un    | 10 (un) des  | 100 (un) sento  | 1000 (un) kilo    |
 | 2 du    | 20 du des    | 200 du sento    | 2000 du kilo      |
 | 3 tri   | 30 tri des   | 300 tri sento   | 3000 tri kilo     |
 | 4 nelu  | 40 nelu   des| 400 nelu sento  | 4000 nelu kilo    |
 | 5 lima  | 50 lima  des | 500 lima sento  | 5000 lima kilo    |
 | 6 luka  | 60 luka des  | 600 luka sento  | 6000 luka kilo    |
-| 7 ceti  | 70 cetides   | 700 ceti sento  | 7000 ceti kilo    |
+| 7 ceti  | 70 ceti des  | 700 ceti sento  | 7000 ceti kilo    |
 | 8 bati  | 80 bati des  | 800 bati sento  | 8000 bati kilo    |
 | 9 tisa  | 90 tisa des  | 900 tisa sento  | 9000 tisa kilo    |
 
@@ -169,31 +169,24 @@ Murtoluvut liitetään pääsanaan partikkelilla
 
 #### Viikonpäivät
 
-Viikonpäivien nimet sisältävät sanan
-**var**
-('viikonpäivä').
-Ne numeroidaan maanantaista alkaen.
-Maanantai on
-**var un**
-('ensimmäinen viikonpäivä'),
-tiistai on
-**var du**
-('toinen viikonpäivä')
-ja niin edelleen.
+Viikonpäivät nimetään kansainvälisellä ja historiallisella tavalla planeettojen mukaan,
+ja ne loppuvat sanaan
+**den**
+'vuorokausi'.
 
-1. **var un**
+1. **lunaden**
    – maanantai
-2. **var du**
+2. **marisden**
    – tiistai
-3. **var tri**
+3. **merkurden**
    – keskiviikko
-4. **var nelu**
+4. **muxinden**
    – torstai
-5. **var lima**
+5. **zukraden**
    – perjantai
-6. **var luka**
+6. **xaniden**
    – lauantai
-7. **var ceti**
+7. **solden**
    – sunnuntai
 
 #### Kuukaudet

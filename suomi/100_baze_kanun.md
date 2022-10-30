@@ -13,15 +13,12 @@
    Jos sanassa on kolme tai useampia tavuja, toinen tavu on painollinen.
 4. **Pronominit:**
     - Personaapronominit ovat:
-     **mi** _minä_, **tu** _sinä_, **ye** _hän_,
-     **mimon** _me_, **tumon** _te_, **yemon** _he_.
+     **mi** _minä_, **tu** _sinä_, **da** _hän_,
+     **mimen** _me_, **tumen** _te_, **damen** _he_.
     - Niiden omistusmuodot ovat:
-      **mi su** _minun_, **tu su** _sinun_, **ye su** _hänen_,
-      **mimon su** _meidän_, **tumon su** _teidän_, **yemon su** _heidän_.
+      **mi su** _minun_, **tu su** _sinun_, **da su** _hänen_,
+      **mimen su** _meidän_, **tumen su** _teidän_, **damen su** _heidän_.
      - Kysyvät pronominit ovat: **ke** _mikä_ tai _kuka_, **ke su** _minkä_ tai _kenen_.
-     - Persoonaton pronomini on
-       **mon**
-       ja se vastaa suomen passiivia.
 5. **Substantiivit:**
    Substantiivit ovat taipumattomia.
    Panduniassa ei ole yksikköä eikä monikkoa, sijamuotoja eikä kieliopillista sukua.
@@ -39,9 +36,9 @@
    Adjektiivit ja adverbit ovat muodoltaan samanlaisia.
    Yhdessä niitä kutsutaan määritteiksi.
    Ajektiivimääritteen paikka on ennen substantiivia ja adverbimääritteen ennen verbiä.
-    - **un rapide loga**
+    - **un suga loga**
       – Nopea puhe.
-    - **tu rapide loga.**
+    - **tu suga loga.**
       – Sinä nopeasti puhut.
 8. **Verbit:**
    Verbit ovat taipumattomia.
@@ -63,23 +60,23 @@
       Saman vaikutelman voi luoda myös persoonattomalla pronominilla **mon**.
         - **pandunia be loga.**
           – Panduniaa puhutaan.
-        - **mon loga la pandunia.**
+        - **se loga pandunia.**
           – Ihmiset puhuvat panduniaa.
     - Aktiivisen verbin objekti voi toimia seuraavan verbin subjektina.
       Tämä on ns. _saranarakenne_.
-        - **mi cing tu loga la pandunia.**
+        - **mi cing tu loga pandunia.**
           – Minä pyydän sinua puhumaan panduniaa.
     - Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
-        - **_mi_ cing _tu_ loga la pandunia.**
-          → **cing loga la pandunia.**
+        - **_mi_ cing _tu_ loga pandunia.**
+          → **cing loga pandunia.**
           – Pyydän, puhu panduniaa.
 10. **Sanojen johtaminen:**
     Yhdyssanat muodostetaan asettamalla kaksi tai useampia perussanoja peräkkäin
     siten, että viimeinen sana on merkittävin.
-    - **poste**
+    - **posta**
       ('posti') +
-      **kase**
+      **kasa**
       ('laatikko', 'lipas') =
-      **poste kase**
+      **posta kasa**
       ('postilaatikko')
 

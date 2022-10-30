@@ -56,7 +56,7 @@ jotka esitellään seuraavana.
 Toiminnan, tapahtuman tai olemisen suhde aikaan ilmaistaan panduniassa apuverbeillä.
 
 **xuru**
-('alkaa')
+'alkaa'
 ilmaisee toiminnan alkamista tai siirtymistä uuteen tilanteeseen.
 
 **mi xuru fuku la kote.**
@@ -67,7 +67,7 @@ ilmaisee toiminnan alkamista tai siirtymistä uuteen tilanteeseen.
 – Sinä alat syödä.
 
 **fin**
-('loppua, lakata')
+'loppua, lakata'
 ilmaisee toiminnan loppumista tai lopettamista.
 
 **damen fin haha.**
@@ -78,7 +78,7 @@ ilmaisee toiminnan loppumista tai lopettamista.
 – Sinä lakkaat syömästä.
 
 **pul**
-('täyttää, viedä loppuun')
+'täyttää, viedä loppuun'
 ilmaisee, että toiminta viedään loppuun asti.
 
 **tu pul yam un piza.**
@@ -87,7 +87,7 @@ ilmaisee, että toiminta viedään loppuun asti.
 – Minä katsoin elokuvan (kokonaan).
 
 **fen**
-('osittain')
+'osittain'
 ilmaisee, että toiminta tehdään vain osittain.
 
 **tu fen yam un piza.**
@@ -96,28 +96,28 @@ ilmaisee, että toiminta tehdään vain osittain.
 – Minä katsoin elokuvaa (osittain).
 
 **zai**
-('läsnä')
+'läsnä'
 ilmaisee parhaillaan tapahtuvaa toimintaa.
 
 **mi zai yam un piza.**
 – Minä olen syömässä pitsaa.
 
 **dur**
-('jatkua')
+'jatkua'
 ilmaisee toiminnan jatkumista.
 
 **mi dur yam la piza.**
 – Minä jatkan pitsan syömistä.
 
 **ada**
-('olla tapana, tavallisesti')
+'olla tapana, tavallisesti'
 ilmaisee, että toiminta on toistuvaluonteista.
 
 **mi ada gul yo bir.**
 – Minulla on tapana juoda olutta.
 
 **le**
-('saavuttaa')
+'saavuttaa'
 ilmaisee, että toiminta on loppunut mutta sen seuraukset ovat kuluvan hetken kannalta merkittäviä ja yhä voimassa.
 
 **da _le_ e guru.**

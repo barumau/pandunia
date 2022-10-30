@@ -6,9 +6,9 @@ Määrite on sana, joka muokkaa tai tarkentaa toisen sanan merkitystä, esim. hy
 
 Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Panduniassa adjektiivit ovat yleensä pääsanaa ennen.
 
-**un _neu_ kar**
+**un _neu_ gar**
 – uusi auto  
-**un _suga_ kar**
+**un _suga_ gar**
 – nopea auto  
 **men _dai_ meza**
 = isoja pöytiä  
@@ -61,8 +61,8 @@ Partikkelia
 **di**
 käytetään myös kun määrite määrittää toista määritettä.
 
-**un _surpris di_ bon buku**
-– _yllätävän_ hyvä kirja  
+**un dai di_ bon buku**
+– _isosti_ hyvä kirja  
 **poli _bala di_ ame ja jen**
 – _voimakkaasti_ rakastavat ihmiset
 

@@ -51,7 +51,7 @@ Sana **semen** viittaa tekijöihin toisiinsa.
 **semen**
 – toisiaan
 
-**mi e tu vide semen.**
+**mi i tu vide semen.**
 – Sinä ja minä näemme toisemme.  
 **mimen vide semen.**
 – Me näemme toisemme.
