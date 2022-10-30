@@ -24,10 +24,10 @@ Quelques traits remarquables du pandunia :
 
 - [L'essentiel](003_baze.md) en une seule page
 - [Grammaire complète](pan.pdf) dans un fichier PDF
-- [Leçon en dialogues](201_xule.md)
+- [Leçon en dialogues](201_xula.md)
 - [Flashcards et quiz](https://lingopolo.org/pandunia/) sur le site de Lingopolo (en anglais)
 - [Petits cours en images](http://www.pandunia.info/pandunia/mini_xule.html)
-- [Recueil d’expressions](200_baze_jumle.md)
+- [Recueil d’expressions](200_baze_jumla.md)
 - Dictionnaire [français → pandunia](fra-pandunia.md)
 - Dictionnaire [pandunia → français](pandunia-fra.md)
 - Dictionnaire [étymologique](leksaslia.md) - (consulter la [liste des codes des langues](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes))
