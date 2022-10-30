@@ -172,9 +172,9 @@ Modifiers are compared with
 **min** 'less', **minim** 'least' and **par** 'equally, as'.
 The point of comparison is introduced with **ka** 'than, as'.
 
-**tu e max lau ka mi.**
+**tu e max sen ka mi.**
 – You are older than me.  
-**tu e maxim lau.**
+**tu e maxim sen.**
 – You are the oldest.
 
 ### Questions

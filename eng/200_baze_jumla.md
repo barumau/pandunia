@@ -214,7 +214,7 @@ It is an apple.
 is the general third person pronoun.
 It is used for people (irrespective of gender) as well as for things.
 
-**mi salam da.**
+**mi sal da.**
 I greet him/her.
 
 <small>Etymology. **da** is from
@@ -645,10 +645,10 @@ I don't understand at all.
 
 ### bil <small>can</small>
 
-**mi bil xofe kar.**
+**mi bil xofe gar.**
 I can drive a car.
 
-**da no bil xofe kar.**
+**da no bil xofe gar.**
 He/she doesn't know how to drive a car.
 
 **sual tu bil xuli da?**

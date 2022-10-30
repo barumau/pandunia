@@ -252,7 +252,8 @@ It uses the pattern
 
 #### Days of the week
 
-Days of the week are named after celestial bodies and they include the word
+Days of the week are named after celestial bodies according to the historical international system
+and they include the word
 **den**
 ('day, 24 hours').
 

@@ -86,7 +86,7 @@ Contents of Pandunia website is written in plain-text using the Markdown format.
 ## Dictionary
 
 The original dictionary is a file called
-[pandunia-loge.csv](https://github.com/barumau/pandunia/blob/master/pandunia-loge.csv).
+[lexi.csv](https://github.com/barumau/pandunia/blob/master/lexi.csv).
 It is in character-separated format (CSV) and cells are separated with the vertical bar "|".
 It includes translations from Pandunia to English and many other languages.
 All dictionaries in different languages are created from this file.

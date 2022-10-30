@@ -134,7 +134,7 @@ You can think of it somewhat like the present perfect in English (_I have done_,
 – I have given the book to them. Or: I already gave the book to them.  
 **damen no _le_ ridon da to mi.**
 – They haven't given it back to me. Or: They didn't give it back to me yet.  
-**mi _le_ lai to site.**
+**mi _le_ lai to siti.**
 – I have come to the city. Or: I already came to the city.
 
 **pas**
@@ -148,7 +148,7 @@ You can think of it somewhat like the past simple in English (I finished, I ate)
 – I have visited France.  
 **mi pas ada gul yo bir.**
 – I used to drink beer. / I had a habit of drinking beer.  
-**mi pas lai to site.**
+**mi pas lai to siti.**
 – I came to the city.
 
 **xa**

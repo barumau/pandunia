@@ -150,7 +150,7 @@ The word
 means 'hello' or 'hi'.
 
 It has two origins.
-On one hand, it comes from Latin *salve* and related greetings like French *salut*.
+On one hand, it comes from the Latin greeting *salve* and related greetings like French *salut*.
 Also English *salute* and Spanish *saludo* are related to it.
 On the other hand, it comes from a common Middle Eastern word for wishing well-being, health and safety.
 It appears as *shlaam* in Aramaic, the language that Jesus of Nazareth spoke.
@@ -281,7 +281,7 @@ chief, boss
 **cing yam kafe o cai.**
 = Please have some coffee or tea.  
 <big>☻</big>
-**a mi yam un di cai! xukur.**
+**ama mi yam un di cai! xukur.**
 = But I drink only tea! Thank you.  
 ...  
 <big>☻</big>
@@ -871,7 +871,7 @@ future
 **pre**
 before  
 **den**
-day  
+day, 24 hours  
 **noce**
 night  
 **darba**
