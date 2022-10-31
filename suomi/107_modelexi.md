@@ -49,7 +49,7 @@ Määritepartikkeli
 pannaan usein adverbin ja verbin väliin.
 Se selkeyttää verbilausekkeen rakennetta.
 
-**tu _mei di_ kitabu.**
+**tu _mei di_ kitaba.**
 – Sinä _kauniisti_ kirjoitat.  
 **damen _suga di_ marce.**
 – He _nopeasti_ kävelevät.

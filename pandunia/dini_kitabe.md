@@ -1,4 +1,4 @@
-# din kitabu
+# din kitaba
 
 ## ✝
 

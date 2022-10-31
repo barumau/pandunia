@@ -469,7 +469,7 @@ discussion.
 = Est-ce qu'il ou elle prend du thé ?  
 **sual tu yam supe?**
 = Prenez-vous de la soupe ?  
-**sual mimon yam sui?**
+**sual mimen yam sui?**
 = Buvons-nous de l'eau minérale ?
 
 Bien sûr, les noms communs et les noms propres peuvent aussi être utilisés.
@@ -747,7 +747,7 @@ peut signifier à la fois "Je mange du pain" et
 le contexte de la discussion. Par exemple lorsque les gens parlent à
 propos d'un petit déjeuner qui a déjà été consommé.
 
-**mi yam pang na ni suba yam.**
+**mi yam pang a ye suba yam.**
 = J'ai mangé du pain pour le petit déjeuner.
 
 Il y a également des expressions de temps spécifiques.

@@ -476,7 +476,7 @@ Na pytania o przyczynę, lub powód czegoś, odpowiada się dodając **de sabu**
 
 Oczywiście **de sabu** może być też yżywane do wyrażania przyczyny lub powodu czegoś, nawet nie odpowiadając na pytanie.
 
-**mi suka mau de sabu yemen kaway.**
+**mi suka mau de sabu damen kavai.**
 – Lubię koty, bo są słodkie.
 
 ### Ćwiczenia

@@ -14,12 +14,12 @@ Kun hakusanalle on useampia käännöksiä,
 yleisin käännös on ensimmäisenä
 ja sen perässä on sulkeiden sisällä pääkäännöksen merkitystä laajentavia tai tarkentavia käännöksiä.
 
-> chira - repiä (raastaa)
+> cira - repiä (raastaa)
 
 Jos hakusanalla on useampia merkityksiä,
 niiden käännökset erotetaan puolipisteellä.
 
-> ching - pyytää (anoa; ole hyvä)
+> cing - pyytää (anoa; ole hyvä)
 
 Toisinaan samasta sanasta on kaksi lähes samanlaista hakusanaa.
 
@@ -30,8 +30,8 @@ Näistä **fa**-alkuisen hakusanan kohdalla on varsinaisen pääsanan suomennos 
 Pandunian sanat voivat toimia sekä substantiivina, adjektiivina että verbinä.
 Sen vuoksi lauseyhteydessä riittää yleensä pelkän pääsanan käyttäminen
 ja apuverbin **fa** voi jättää pois.
-Esimerkiksi **mi huru yemon** on riittävä tapa sanoa 'Minä vapautan heidät'.
-Lause **mi fa huru yemon** merkitsisi samaa, mutta siinä olisi merkityksen kannalta ylimääräinen **fa**-sana.
+Esimerkiksi **mi huru damen** on riittävä tapa sanoa 'Minä vapautan heidät'.
+Lause **mi fa huru damen** merkitsisi samaa, mutta siinä olisi merkityksen kannalta ylimääräinen **fa**-sana.
 
 ---
 

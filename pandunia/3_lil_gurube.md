@@ -1,6 +1,6 @@
 # tri xiu goro
 
-<small>"Three Little Pigs" a Pandunia baxa. be kitabu de **thethedorn**.</small>
+<small>"Three Little Pigs" a Pandunia baxa. be kitaba de **thethedorn**.</small>
 
 <p style="font-size:6em;text-align:center;">🐷🐷🐷</p>
 
@@ -81,7 +81,7 @@ la volfe fa darba la mun, i loga:
 ama xiu goro vide la volfe su xiu huang yen a cavi kong.
 damen loga: "no! no! no!"
 la volfe xou se su dante i loga:
-"mi hava i mi hava i mi parca tumon su dom!"
+"mi hava i mi hava i mi parca tumen su dom!"
 
 da hava i da hava.
 da hava i da hava.

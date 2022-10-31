@@ -5,13 +5,13 @@ sabu – huru ta, adil ta, i pase ta a dunia su baze e note la in ten di onor i 
 sabu – insan haki su nega i hen fa asar men barbar karma, ki fa furi la insan jong su moral sense, i putong demo su masim gau gol e kai de un dunia, a ki insan ya ten la huru ta de loga i din huru i e sekur de fobi i yau.
 sabu – vo e krizi, si un insan no vil be paka to, ka fin me plan, rebel kontra yo zalim ta i haki presa, pan insan haki be sekur la kanun.
 sabu – vo e krizi, raste la dosti guanxi a medi de nasi.
-sabu – pan nasi de Un Ta Nasi, a yamen su baze dokumen, re amen yamen su xin de baze insan haki, de onor i valu de insan jen, i de par haki de man i fem, i plan sim yo sosi jin i mas bon jiva darja a mas dai huru ta.
+sabu – pan nasi de Un Ta Nasi, a damen su baze dokumen, re amen damen su xin de baze insan haki, de onor i valu de insan jen, i de par haki de man i fem, i plan sim yo sosi jin i mas bon jiva darja a mas dai huru ta.
 sabu – membre dexa le vode gol, a mede de Un Ta Nasi, la mote de putong onor i sekur ta de insan haki i baze huru ta.
 sabu – un putong aha de ye haki i huru ta ten la masim ham ta si ye vode bil e ver.
-asar – PUTONG JAMA de UN TA NASI ya komun ye PUTONG LOGA de INSAN HAKI ka un putong norma de jin ta to pan demo i pan nasi, to ici de pan un jen i pan un fen de sosi, dur de hema ye loga a pan sata, vil gung a xula to sim la onor de ye haki i huru ta i, a nasi di i nasi medi di jin sim di karma, fa sekur yamen su putong i funsi di note i sekur ta, a medi de nasi jen de membre dexa i medi de jen de dexa, ki nica yamen su krati.
+asar – PUTONG JAMA de UN TA NASI ya komun ye PUTONG LOGA de INSAN HAKI ka un putong norma de jin ta to pan demo i pan nasi, to ici de pan un jen i pan un fen de sosi, dur de hema ye loga a pan sata, vil gung a xula to sim la onor de ye haki i huru ta i, a nasi di i nasi medi di jin sim di karma, fa sekur damen su putong i funsi di note i sekur ta, a medi de nasi jen de membre dexa i medi de jen de dexa, ki nica damen su krati.
 
 ## babu 1
-pan insan be jene a huru ta i par ta a onor i haki. yamen ten yo razon i budi. yamen mus be culi semen a ruhu de sau ta.
+pan insan be jene a huru ta i par ta a onor i haki. damen ten yo razon i budi. damen mus be culi semen a ruhu de sau ta.
 
 ## babu 2
 pan insan ten la haki de pan haki i huru ta a in de ye loga, a hin de eni has ta de yang, to misal: rasa, rang de pil, jinse, baxa, din, politi o alo rai, nasi o sosi asal, mal, jene, o alo hal. plus, mus no fa has a baze de politi di, sultan di, o medi nasi di hal de dexa o area, ki ten pan un insan, si o no si da e auto nomi, vai nomi, o eni alo yang de krati.
@@ -60,7 +60,7 @@ no halal eni insan be an razon di karma a da su tana o famili o dom o posta, o b
 2. no halal fa an zai la nasi jen ta de eni insan o fa nega la haki de mute de nasi jen ta.
 
 ## babu 16
-1. matur insan ten la haki de gami o kai de famili a hin de limite de rasa o nasi jen ta o din. yamen ten yo par haki a gami i dur la gami i a fin de gami.
+1. matur insan ten la haki de gami o kai de famili a hin de limite de rasa o nasi jen ta o din. damen ten yo par haki a gami i dur la gami i a fin de gami.
 2. gami un di e halal a huru i pul di sam rai ta de la gami jen.
 3. famili e tabi i baze di so de sosi i ten la haki de sekur ta de dexa i sosi.
 
@@ -106,7 +106,7 @@ pan insan ten la haki de xux i xanti di zaman; ye fa in klus yo razon di limite 
 
 ## babu 27
 1. pan insan ten la haki de huru parti a kultur jiva de sosi i de uze de sundar suta i de komun de logi jin i da su faida.
-2. pan insan ten la haki de sekur de la moral di i prati di faida, ki be asar de eni logi o kitabu o sundar sana, ki se le sana.
+2. pan insan ten la haki de sekur de la moral di i prati di faida, ki be asar de eni logi o kitaba o sundar sana, ki se le sana.
 
 ## babu 28
 pan insan ten la haki de sosi i nasi medi di ratibu, a ki la haki i huruta de ye dokumen bil be pul di ver.
@@ -117,7 +117,7 @@ pan insan ten la haki de sosi i nasi medi di ratibu, a ki la haki i huruta de ye
 3. no halal, a eni kas, aplika ye haki i huru ta kontra la dike i sim baze de la Un Ta Nasi.
 
 ## babu 30
-siro xe a ye dokumen bil don, to eni dexa o grupe o jen, eni haki de karma o parti a karma, ki dike fa harabu eni haki o huru ta, ki be kitabu a ye dokumen.
+siro xe a ye dokumen bil don, to eni dexa o grupe o jen, eni haki de karma o parti a karma, ki dike fa harabu eni haki o huru ta, ki be kitaba a ye dokumen.
 
 [dugu la loga de insan haki a alo baxa](https://www.ohchr.org/EN/UDHR/Pages/SearchByLang.aspx)
 

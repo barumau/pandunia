@@ -350,7 +350,7 @@ En adición _pronombre relativo resumivo_ se puede utilizar si es necesario.
 ## Cláusulas de contenido
 
 Una cláusula de contenido puede ponerse antes o despues de la cláusula que habla sobre ella.
-El demostrativo **go** indica la frase siguiente, y **la** indica la previa.
+El demostrativo **vo** indica la frase siguiente, y **la** indica la previa.
 
 **vo e bari, ki mi le no vide damen.**
 – Lo siguiente es importante: resulta que no los veo.  

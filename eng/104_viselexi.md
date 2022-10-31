@@ -150,7 +150,7 @@ In the above,
 **ye jumla**
 (_this sentence_) refers to the sentence being spoken.
 
-**mi mana vo: mi ama tu.**
+**mi mana vo: mi ame tu.**
 – I mean this: I love you. OR I mean that I love you.  
 **mi ame tu. mi mana la.**
 – I love you. That is what I mean.

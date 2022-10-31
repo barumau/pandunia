@@ -68,7 +68,7 @@ Osoittava pronomini on:
 **la**
 – se, ne (jotain jonka puhuja olettaa kuulijan tietävän)
 
-Panduniassa **ya**, **vo** ja **la** ovat sekä määreitä että itsenäisiä pronomineja.
+Panduniassa **ye**, **vo** ja **la** ovat sekä määreitä että itsenäisiä pronomineja.
 
 Pronomini
 **ye**

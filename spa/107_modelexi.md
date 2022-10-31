@@ -65,7 +65,7 @@ Es común poner la partícula de modificación
 entre el modificador y el verbo.
 Hace la estructura del frase verbal más claro.
 
-**tu _mei di_ kitabu.**
+**tu _mei di_ kitaba.**
 – Tú escribes _hermoso_.  
 **damen _suga di_ marce.**
 – Ellos caminan _rápido_.

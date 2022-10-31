@@ -12,9 +12,9 @@ For example, the word
 modifies a noun in sentence A
 and a verb in sentence B.
 
-A. **vo e _mei_ kitabu.**
+A. **vo e _mei_ kitaba.**
 – That is a beautiful writing.  
-B. **tu _mei_ di kitabu.**
+B. **tu _mei_ di kitaba.**
 – You write _beautifully_.
 
 
@@ -54,7 +54,7 @@ It is common to put the modifying particle
 between the modifier and the verb.
 It makes the structure of the verb phrase clearer.
 
-**tu _mei di_ kitabu.**
+**tu _mei di_ kitaba.**
 – You write _beautifully_.  
 **damen _suga di_ marce.**
 – They walk _fast_.

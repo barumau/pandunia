@@ -59,7 +59,7 @@ eikä kielioppia ole pakko opiskella.
 | Twitter  | [pandunia_](https://twitter.com/pandunia_) | Uutisia. |
 | Facebook | [Tekokielet-ryhmä](http://www.facebook.com/groups/tekokielet) | Suomenkielinen ryhmä tekokielistä yleensä. |
 | Facebook | [Pandunia-ryhmä](http://www.facebook.com/groups/pandunia) | Keskustelua eri kielillä. |
-| Telegram | [mimon basha pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) | Harjoittelu. Täällä puhutaan vain panduniaa! |
+| Telegram | [mimen baxa pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) | Harjoittelu. Täällä puhutaan vain panduniaa! |
 | Telegram | [multilingual channel](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA) | Keskustelua eri kielillä. |
 | Telegram | [pandunia esperanto grupe](https://pandunia.telegramo.org/) | Keskustelua esperantoksi. |
 | QQ       | 717549404 | Keskustelua kiinaksi ja muilla kielillä. |

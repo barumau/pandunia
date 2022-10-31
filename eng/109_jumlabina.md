@@ -899,7 +899,7 @@ is used to introduce a statement.
 It can fill a pause, particularly at the beginning of a response to a question.
 It can also introduce a statement that may be contrary to expectations.
 
-**tu kitabu da, he? – na, no le.**
+**tu kitaba da, he? – na, no le.**
 – Did you write it? – Well, not yet.  
 **da bon, ne? – na, ya.**
 – It's good, isn't it? – Well, yes.
