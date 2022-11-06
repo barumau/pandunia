@@ -29,7 +29,7 @@ Likewise, the word **kitaba** can function as a verb (_to write_), a noun (_a wr
 – I write a letter.  
 **letre e kitaba misaje.**
 – A letter is a written message.  
-**mi ame tu su kitaba.**
+**mi luba tu su kitaba.**
 – I love your writings.
 
 

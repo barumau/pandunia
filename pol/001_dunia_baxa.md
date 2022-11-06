@@ -452,7 +452,7 @@ polskim, angielskim i chińskim.
 
     Polski:     Ja kocham cię, a ty kochasz mnie.
     Angielski:  I love you, and you love me.
-    Pandunia:   mi ame tu, tu ame mi.
+    Pandunia:   mi luba tu, tu luba mi.
     Chiński:    Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 Czasownik **bey** jest używany, gdy pacjens pojawia się pierwszy w

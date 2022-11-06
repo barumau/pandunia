@@ -64,13 +64,13 @@ alterar - alofa
 alumínio - alumin  
 alô - halo  
 amador - hobi ja  
-amante - ama ja  
+amante - lubar  
 amargo - kali guste  
 amerício - amerika yum  
 amida - amide  
 amigo - dosti  
 amina - amin  
-amor - ama  
+amor - luba  
 amoreira - tuta  
 amêndoa - badam  
 anaeróbico - anair bio di  
@@ -296,7 +296,7 @@ carimbo - posta marke
 carne - nama  
 carrapato (ácaros) - akare  
 carregar - fa karga  
-carreira - pei gong jiva  
+carreira - pei kar jiva  
 carta - karte  
 carta - letre  
 carta geográfica - karta  
@@ -367,7 +367,7 @@ cobre - kupre
 coelho (lebre) - tuzi  
 cogumelo - fungu frute  
 coisa - xe  
-colaborar - kon gong  
+colaborar - kon kar  
 colaborar - konkar  
 colar (aderir) - fa glu  
 colher - camaca  
@@ -578,7 +578,7 @@ equilíbrio - par vezeta
 erro (falta) - galte  
 errôneo - galte di  
 erva marinha - hai cau  
-escama - xalke  
+escama - foli  
 escavar - exkava  
 escola (colégio) - xulakan  
 escorpião (lacrau) - akrabe  
@@ -834,6 +834,7 @@ infantil (imaturo) - you
 infectar (contagiar) - fa pati mise  
 infecção (contágio) - pati mise  
 infecção - infete  
+inferir - infere  
 infiel - andin ja  
 infiel - ankredija  
 inflamaçao - tis  
@@ -1179,7 +1180,7 @@ onda - onda
 onde - a ke  
 onde - ke loka  
 online - a lin  
-ontem - cen den  
+ontem - preden  
 opinião - rai  
 opor - xatan  
 opção - cunbil  
@@ -1333,6 +1334,7 @@ preceder (anteceder) - precese
 precioso - bau di  
 precursor - prekurser  
 preferir - max fili  
+preferir - prefere  
 prensa - prese gi  
 prensa - preser  
 prensar (pressionar, premir) - fa prese  
@@ -1347,7 +1349,7 @@ processo - culi
 professor (docente) - xula guru  
 profeta (arauto) - nabija  
 profetizar - nabi  
-profissão - pei gong  
+profissão - pei kar  
 profundo - fase tele  
 programa - program  
 projeto - projete  
@@ -1395,8 +1397,8 @@ queimarse - be hogo
 queixa (lamento, reclamação) - xikaya  
 quem - ke jen  
 querer (desejar) - vol  
-querido (caro) - ama di  
-querido - ama jen  
+querido (caro) - luba di  
+querido - luba jen  
 questão (pergunta) - sual  
 quiabo - bamia  
 quilate - kirate  
@@ -1428,6 +1430,7 @@ receita - reseta
 receptor - receper  
 reciclar - resikle  
 recém-nascido - neu gene di  
+referir - refere  
 refugo (escória) - lasa  
 regime - politi mode  
 registro - loge  
@@ -1441,6 +1444,7 @@ remédio (medicamento) - dava xe
 Reno - Ren  
 reparador - xuli ja  
 reparar - fa xuli  
+reparar - repar  
 reparo - xuli  
 repetir - fa re  
 repetir - rifete  
@@ -1535,7 +1539,9 @@ sentido - sense
 sepultura (túmulo, enterrar) - gabur  
 ser (estar) - e  
 ser humano - insan  
-serra - sera  
+serra - xara  
+serragem - xarafun  
+serraría - xarakan  
 sete (7) - ceti  
 sexo - jinse  
 sexologia - sexe logi  
@@ -1706,7 +1712,7 @@ vazar - lou
 vazio - hali  
 vegetalista - pul fito yam sim ja  
 vegetariano - fito yam sim ja  
-velho (antigo) - cen zaman di  
+velho (antigo) - prezaman di  
 velocímetro - suga metre gi  
 vender - vende  
 ver - vide  
@@ -1726,7 +1732,7 @@ vice-rei - vise raja
 vidro - kanca  
 vinhedo - putau bagi  
 vir - lai  
-virgem - virje  
+virgem - virge  
 vitamina - vitamin  
 viver (vivo; vida) - jiva  
 vivisecção - jivatomi  

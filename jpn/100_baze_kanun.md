@@ -32,13 +32,13 @@
 
 大半のパンドゥニアの単語の品詞は文脈で寄ります。
 
-例えば **ame** は動詞または名詞または形容詞になれます。
+例えば **luba** は動詞または名詞または形容詞になれます。
 
-**mi ame tu.**
+**mi luba tu.**
 – 私はあなたに恋しています。 (動詞)  
-**tu gamo mi su ame.**
+**tu gamo mi su luba.**
 – あなたは私の恋を感じます。 (名詞)  
-**mi kitabu un ame anjil.**
+**mi kitabu un luba anjil.**
 – 私は恋文を書きます。 (形容詞)
 
 

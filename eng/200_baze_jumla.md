@@ -187,7 +187,7 @@ That's why
 is the same in subject and object positions
 while English has two different forms, 'I' and 'me'.
 
-**mi ame tu.**
+**mi luba tu.**
 I love you.
 
 <small>Etymology. **tu** is from

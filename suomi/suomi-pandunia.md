@@ -120,8 +120,8 @@ amidi - amide
 amiini - amin  
 amiraali - hai amir ja  
 ammatinharjoittaja (niekka) - vala  
-ammatti - pei gong  
-ammattilainen - pei gong ja  
+ammatti - pei kar  
+ammattilainen - pei kar ja  
 ampeeri - amper  
 ampulli - ampul  
 anaalinen - anus di  
@@ -370,8 +370,8 @@ dyyni (kinos) - duna
 ## E  
 
 Ecuador - Ekuador  
-edellinen - cen di  
-edellyttää - cen si  
+edellinen - pre di  
+edellyttää - pre si  
 edeltäjä - prekurser  
 edeltää (mennä edeltä) - precese  
 edeltää (olla ennen) - be cen  
@@ -390,7 +390,7 @@ ei - no
 ei koskaan (ei kertaakaan) - siro sata  
 ei kukaan - siro jen  
 ei mitään - siro xe  
-eilen - cen den  
+eilen - preden  
 einsteinium - einstein yum  
 ekologia (ympäristötiede) - ekologi  
 eksa- - exa  
@@ -435,19 +435,20 @@ englanti - englix di
 englantia puhuva (anglofoni) - englix fon di  
 enimmäis- - maxim di  
 eniten - maxim  
-ennen (aikaisemmin, aiemmin) - cen  
-ennennäkemätön - ancen vide di  
-ennustaa (nähdä ennalta) - cen vide  
-ennustettu - cen vide di  
+ennen (aikaisemmin, aiemmin; aikaisempi, edellinen) - pre  
+ennennäkemätön - anprevide di  
+ennustaa (nähdä ennalta) - previde  
+ennustettu - previde di  
 eno - ma bra  
+ensimmäinen (alku-) - preme  
 ensimmäinen (alku-) - xuru di  
 ensimmäinen (numero yksi) - un me  
 entsyymi - enzim  
 epäaktiivinen (pois toiminnasta) - anativi  
-epäilevä - dute ja  
+epäilevä - xakija  
 epäillä (epäilys, epäusko) - xaki  
 epäillä (olla uskomatta) - ankredi  
-epäilyttävä - dutebil  
+epäilyttävä - xakibil  
 epämuodostunut - dus forma di  
 epäonni - dus zar  
 epäonnistuminen - xiti bai  
@@ -461,6 +462,7 @@ erimielisyys - alo rai
 Eris (kääpiöplaneetta) - Eris  
 Eritrea - Eritra  
 erottaa (nähdä ero) - fa has  
+erottaa (pitää erilaisena) - disfere  
 erä (satsi) - lote  
 esimerkiksi - to misal  
 esimerkki - misal  
@@ -487,7 +489,7 @@ etikka - vin suan
 Etiopia - Etiopia  
 etninen - zuku di  
 että - ki  
-etuliite (prefiksi) - cen fixe  
+etuliite (prefiksi) - prefixe  
 etymologia - lexi asal  
 etyyli - etil  
 etäisyys (kaukaisuus) - tele  
@@ -893,7 +895,7 @@ Indonesia - Indonesi
 Indusjoki - Hindi rivo  
 infektio (tartunta) - pati mise  
 inhimillinen - insan di  
-inhota - anama  
+inhota - anluba  
 inkivääri - jinji  
 insinööri - enjenir  
 internet - internete  
@@ -1044,6 +1046,7 @@ jyrinä (ukkonen) - grom
 jyvä (luoti) - dana  
 jäinen - ais di  
 jäkälä - alga fungu  
+jälkiliite (postfiksi) - posfixe  
 jälkituotanto - posprodute  
 jänis - tuzi  
 jännitys (jännite) - tenseta  
@@ -1325,8 +1328,7 @@ kiillottaa - foto frike
 kiiltävä (valoa heijastava) - foto mira di  
 Kiina - Jongoku  
 kiinalainen tai japanilainen kirjoitusmerkki - Han zi  
-kiinnittää - fa fixe  
-kiinnitys - fixe  
+kiinnittää - fixe  
 kiinnostava - san vol di  
 kiinnostua - be sabi vol  
 kiinnostus (mielenkiinto) - san vol  
@@ -1383,7 +1385,7 @@ kivi (hippu) - seku
 kivulias (tuskallinen) - pasi di  
 klassikko - kanon  
 klassinen (kanooninen) - kanon di  
-klassinen - cen yang di  
+klassinen - preyang di  
 kloonata (monistaa) - fa klon  
 klooni (identtinen kopio) - klon  
 kloori - klor  
@@ -1453,6 +1455,7 @@ kori - baske
 koripallo - baske bol  
 koristella - fa mei daka  
 korjaaja - xuli ja  
+korjata (ennallistaa) - repar  
 korjata (tehdä oikeaksi) - fa sahi  
 korjata - fa xuli  
 korjaus - xuli  
@@ -1518,7 +1521,7 @@ kulkea poikki, läpi tai yli - fa transe
 kulma (nurkka) - gona  
 kulmamitta (goniometri) - gona metre gi  
 kulombi (mittayksikkö C) - kulombe  
-kulta (rakas) - ama jen  
+kulta (rakas) - luba jen  
 kulta - auro  
 kulttuuri - kultur  
 kuluttaa (viettää aikaa) - fa dura  
@@ -1781,6 +1784,7 @@ liikkua ylös ja alas - gau dipe move
 liikuttaa (innoittaa) - fa kino  
 liima - glu  
 liimata - fa glu  
+liite - afixe  
 liitonarkki - liga di sanduku  
 liitto (liittouma, liiga) - liga  
 liitto (unioni) - un ta liga  
@@ -2038,7 +2042,7 @@ Meksiko - Mehiko
 melodia (sävelmä) - melodi  
 melodinen (sointuisa) - melodi di  
 mendelevium - mendelef yum  
-menneisyys - cen zaman  
+menneisyys - prezaman  
 mennä - ga  
 mennä ohi tai läpi - pas  
 mennä sisään - be in  
@@ -2142,7 +2146,7 @@ Mosambik - Mozambike
 moscovium - moskva yum  
 Moskova - Moskva  
 muinainen Egypti - Keme  
-muinaisjäänne - cen zaman xe  
+muinaisjäänne - prezaman xe  
 muistaa - fa memo  
 muisti - memo  
 muistikirja - note buku  
@@ -2243,9 +2247,9 @@ nauraa - haha
 Nauru - Nauru  
 nauta (lehmä) - mumu  
 nauttia (syödä, juoda) - yam  
-neitseellinen (koskematon) - virje di  
-neitsyt - virje  
-Neitsytsaaret - Virjin nesi  
+neitseellinen (koskematon) - virge di  
+neitsyt (neitseellinen, koskematon) - virge  
+Neitsytsaaret - Virgin nesi  
 nekrofilia - nekro fili  
 neli (kiitolaukka) - nelu di galope  
 neliö - nelu gona  
@@ -2503,9 +2507,9 @@ palloakaasia - babul
 pallokala - balon pexe  
 palmu - palma  
 paluu - retro dau  
-palvelija (tarjoilija) - serve ja  
+palvelija (tarjoilija) - servaja  
 palvella (tarjoilla) - fa serve  
-palvelu (palvelus) - serve  
+palvelu (palvelus) - serva  
 palvoa (fanata) - fanati  
 palvoa (fanata; fani) - fan  
 palvonta - puja  
@@ -2667,7 +2671,9 @@ pituusaste - ging gradu
 pituuspiiri - ging gola  
 pitäisi - be sel  
 pitää (pitää kiinni, pitää hallussa) - tene  
+pitää jnkn (suhtautua) - fere  
 pitää koossa - kontene  
+pitää parempana (pitää etusijalla) - prefere  
 pitää sisällä (sisältää; sisältö) - intene  
 planeetta - planeta  
 plastinen (muovailtava) - plasti di  
@@ -2861,6 +2867,7 @@ pääsiäinen - paska
 päästä (mennä läpi) - cese  
 päästä - be laxe  
 päästä pois (nukkua pois; edesmennyt) - decese  
+päätyä johtopäätökseen - infere  
 päätön - sar hin  
 pöly (tomu) - fun  
 pölynimuri - fun cupa gi  
@@ -2889,15 +2896,15 @@ rahka - panir
 raippa - uma bici  
 raja - limite  
 rajapinta - medi fase  
-rakas (armas) - ama di  
+rakas (armas) - luba di  
 rakastaa romanttisesti - fa romanse  
-rakastaja - ama ja  
+rakastaja - lubar  
 rakennus (rakenne) - bina  
 rakentaa - fa bina  
 raketti - rokete  
 raki - anis araki  
 rakkaudenjumala - kama deu  
-rakkaus (tykkääminen) - ama  
+rakkaus (tykkääminen) - luba  
 ramadan - ramazan  
 rankkasade - dai barxa  
 Ranska - Franse  
@@ -3040,6 +3047,9 @@ sade - barxa
 sadekausi - barxa mosim  
 sadetakki - barxa kote  
 sadevesi - barxa sui  
+saha - xara  
+sahalaitos - xarakan  
+sahanpuru (sahajauho) - xarafun  
 sahrami - safran  
 Saint Helena - Sante Helena  
 Saint Kitts - Sante Kitse  
@@ -3190,7 +3200,7 @@ siksakki - ziza
 sileä - lis  
 silkki - silke  
 silkkiäistoukka - silke larva  
-silmukkapanssari (rengashaarniska) - seri nete  
+silmukkapanssari (rengashaarniska) - seri kaska  
 silmä - yen  
 silmä- - yen di  
 silmäillä (katsoa, tarkkailla) - fa yen  
@@ -3331,6 +3341,8 @@ suolainen - yem di
 suolakurkku (etikkakurkku) - acar hiyar  
 suomen kieli - suomi baxa  
 Suomi - Suomi  
+suomu - foli  
+suomupanssari - foli kaska  
 suora - orto  
 suorakulma (oikokulma) - orto gona  
 suorakulmainen - orto gona di  
@@ -3491,7 +3503,7 @@ tappava annos - letali doze
 tarha (piha) - bagi  
 tarha (puisto) - parke  
 tarkastaa (tarkistaa, tutkia, tsekata) - inspete  
-tarkistaa (tsekata, tutkia) - ceke  
+tarkistaa (tsekata, tutkia) - ceka  
 tarpeeksi (riittävästi) - bas  
 tarpeellinen - yau di  
 tarpeeton - anyau di  
@@ -3535,7 +3547,7 @@ tehdä tyhjäksi - defete
 tehdä täydelliseksi - fa pul bon  
 tehdä uudestaan (toistaa) - rifete  
 tehdä valmiiksi - fa redi  
-tehdä yhteistyötä - kon gong  
+tehdä yhteistyötä - kon kar  
 tehdä yhteistyötä - konkar  
 tehkäämme - haide  
 tehokas (tehoava, vaikuttava) - exfetevi  
@@ -3910,7 +3922,7 @@ vampyyritursas - vampir ohtopus
 vanadiini - vanadi yum  
 vanginvartija - jela ja  
 vangita - fa jela  
-vanha (muinainen) - cen zaman di  
+vanha (muinainen) - prezaman di  
 vanha (seniori, iso-) - sen  
 vanhempi (isä tai äiti) - cin  
 vanhempi toveri - sen bei  
@@ -4040,6 +4052,7 @@ viisi (5) - lima
 viisikulmio - lima gona  
 viisitahokas (prisma) - lima fase  
 viisumi - viza  
+viitata jhkn - refere  
 viive (odotus) - dele  
 vika (synti) - doxa  
 viljellä - agri  

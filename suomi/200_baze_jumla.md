@@ -176,7 +176,7 @@ Niinpä esimerkiksi sana
 pysyy koko ajan samana,
 oli se sitten tekijänä taikka teon kohteena.
 
-**mi ame tu.**
+**mi luba tu.**
 Minä rakastan sinua.
 
 <small>Sanan **tu**

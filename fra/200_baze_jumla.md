@@ -160,7 +160,7 @@ Tu me salues.
 
 Les pronoms ne changent jamais de forme en Pandunia ; peu importe qu'ils soient sujets ou compléments.
 
-**mi ame tu.**
+**mi luba tu.**
 Je t'aime.
 
 <small>Étymologie : **tu** vient du français "tu", en italien "tu".</small>

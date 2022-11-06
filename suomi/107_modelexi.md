@@ -63,7 +63,7 @@ käytetään myös kun määrite määrittää toista määritettä.
 
 **un dai di_ bon buku**
 – _isosti_ hyvä kirja  
-**poli _bala di_ ame ja jen**
+**poli _bala di_ luba ja jen**
 – _voimakkaasti_ rakastavat ihmiset
 
 

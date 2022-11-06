@@ -134,11 +134,6 @@ alumin - aluminium
 alumin mate - alum  
 alumin oxide - alumina (aluminum oxide)  
 ama - but (rather)  
-ama - love (liking, affection)  
-• anama - dislike (loathe)  
-ama di - dear (beloved)  
-ama ja - lover  
-ama jen - darling (honey)  
 Amara - Amhara (an Ethiopian ethnic group and language)  
 amen - trust (be sure of, have faith in)  
 amenbil - trustworthy (loyal, faithful)  
@@ -652,22 +647,9 @@ cau kitaba - grass script (calligraphic cursive writing)
 cau medan - lawn  
 cau stan - grassland (prairie)  
 cavi - key  
-ceke - examine (inspect, check)  
+ceka - examine (inspect, check)  
 ceke - cheque (check)  
 celsius gradu - degree Celsius  
-cen - earlier (before, in the past)  
-cen den - yesterday  
-cen di - previous (fore)  
-cen ding - default (preset, predecided)  
-cen fixe - prefix  
-cen si - assume (presuppose)  
-cen vide - expect (anticipate, predict, forsee)  
-cen vide di - expected  
-• ancen vide di - unexpected  
-cen yang di - classic (classical)  
-cen zaman - past times  
-cen zaman di - old (ancient, former)  
-cen zaman xe - relic  
 ceng - layer (level, storey, floor, stratum)  
 ceng bede - bunk bed  
 cepe - catch (capture, take, seize)  
@@ -732,6 +714,7 @@ Cuana - Botswana
 culi - process (handling, treatment, procedure)  
 cum - kiss  
 cun - choose (elect, select, pick; choice, selection)  
+• precun - default (preset, predecided)  
 cunbil - option (choice, preference)  
 cun liste - menu (catalog)  
 cun yo gol - destine (set)  
@@ -830,6 +813,7 @@ demi krati ja - democrat
 demi polita - population  
 demon - demon  
 den - day (24 hours)  
+• preden - yesterday  
 den loge - diary (daily log)  
 des - ten (deca-, 10)  
 des kilo - ten thousand  
@@ -979,8 +963,6 @@ dute - lead (bring to)
 • posprodute - post-production  
 • produter - producer  
 • redute - reduce (lead back, take back)  
-dutebil - dubious (suspicious, unbelievable)  
-dute ja - doubtful (suspicious, disbelieving)  
 dux - shower  
 
 ## E  
@@ -1123,7 +1105,6 @@ fa fen gata - analyse (dissect, parse)
 fa festa - celebrate (party)  
 fa fikir - think (ponder, reflect)  
 fa fin - finish (complete, end)  
-fa fixe - fix (attach)  
 fa fobi - scare (frighten)  
 fa fokus - concentrate  
 fa fon - pronounce (articulate)  
@@ -1391,6 +1372,11 @@ fen don - contribute
 fen gata - analysis (dissection)  
 fenil - phenyl  
 fenol - phenol  
+fere - deem (consider, regard, assign some quality to)  
+• disfere - differ (consider different)  
+• infere - infer  
+• prefere - prefer (assess before)  
+• refere - refer (assign back to)  
 fermi yum - fermium  
 fero - iron  
 festa - party (celebration, festival)  
@@ -1430,7 +1416,10 @@ firuze - turquoise gem
 fito - plant (vegetable, vegetation)  
 fitologi - botany (phytology)  
 fito yam sim ja - vegetarian  
-fixe - attachment (affix)  
+fixe - fix (attach; attachment)  
+• afixe - affix  
+• posfixe - postfix  
+• prefixe - prefix  
 fizika - physics  
 • metafizika - metaphysics  
 fizika di - physical  
@@ -1454,6 +1443,8 @@ fobi di - afraid (scared)
 fobi ja - scary (frightening)  
 Fobos - Phobos  
 foku - focus (concentration)  
+foli - scale (flake)  
+foli kaska - scale mail  
 fon - phone (telephone)  
 foni - phone (speech sound)  
 foni loga - pronounce (articulate)  
@@ -2396,7 +2387,7 @@ kon - with (together; common)
 kon bon - match (fit, suit, go well together)  
 kon forma - conform (fit, mold)  
 kon funsibil - compatible (supported)  
-kon gong - collaborate (work together)  
+kon kar - collaborate (work together)  
 kon pasi - compassion  
 kon sabi - information (communicable knowledge)  
 kon sana sim - communism  
@@ -2662,6 +2653,11 @@ lote - batch (lot)
 lotra - otter  
 lou - leak  
 lou sang - bleed  
+luba - love (strong affection, desire)  
+• anluba - dislike (loathe)  
+luba di - dear (beloved)  
+luba jen - darling (honey)  
+lubar - lover  
 luga - green  
 luga melon - honeydew (green melon)  
 luka - six (6)  
@@ -3308,6 +3304,7 @@ papaya - papaya
 papir - document (paper)  
 Papua neu Ginia - Papua New Guinea  
 par - even (equal, level, peer)  
+• repar - repair (restore to equal condition)  
 par fase - level  
 par jen - peer  
 parta - equality (parity)  
@@ -3367,10 +3364,10 @@ pedi - bring up (educate, raise)
 pedi fili - pedophilia  
 pedi fobi - pedophobia  
 pei - payment  
-pei gong - profession (job, occupation, trade, vocation)  
-pei gong di - professional (occupational, career)  
-pei gong ja - professional (pro)  
-pei gong jiva - career (professional life)  
+pei kar - profession (job, occupation, trade, vocation)  
+pei kar di - professional (occupational, career)  
+pei kar ja - professional (pro)  
+pei kar jiva - career (professional life)  
 pele - drive  
 • apele - appeal (drive to oneself)  
 • depele - drive away  
@@ -3549,6 +3546,10 @@ poze - pose (set; position)
 prati - practice (actuality)  
 prati di - practical (pragmatic)  
 prazedim yum - praseodymium  
+pre - before (previous, fore, past)  
+pre di - previous (fore)  
+preme - initial (first; prime)  
+pre si - assume (presuppose)  
 prese - press (pressure)  
 • deprese - depress (push away)  
 • exprese - express (push out)  
@@ -3888,20 +3889,19 @@ sentimitre - centimeter (cm)
 sento - hundred (hecto-, 100)  
 sento nen - century  
 sento nen di - centenary  
-sera - saw  
 serami - ceramic  
 serami sing - bluet  
 Serbia - Serbia  
 seri - series (sequence, succession)  
+seri kaska - chain mail  
 seri letre - chain letter  
 serime - link  
-seri nete - chain mail  
 seri seri - chain  
 serpe - snake (serpent)  
-serve - service  
-serve gi - server (host machine)  
-serve ja - servant  
-serve nam - servername (hostname)  
+serva - service  
+servaja - servant  
+servar - server (host machine)  
+servar nam - servername (hostname)  
 sesam - sesame  
 sexe - sex (sexual relation)  
 • ansexe di - asexual  
@@ -4433,6 +4433,9 @@ veze - weight (heft, gravity)
 veze di - heavy  
 veze metre gi - scales (weighing device)  
 vide - look (see)  
+• previde - expect (anticipate, predict, forsee)  
+• anprevide di - unexpected  
+• previde di - expected  
 vide ja - spectator (sightseer, observer)  
 vide medan - visual field (field of vision)  
 vide punte - perspective (point of view)  
@@ -4451,9 +4454,9 @@ vin suan - vinegar
 vinil - vinyl  
 violeta - pansy (violet, viola)  
 violeta nil - purple (violet)  
-virje - virgin  
-virje di - pristine (virginal)  
-Virjin nesi - Virgin Islands, US  
+virge - virgin (pristine, virginal; Virgo)  
+virge di - pristine (virginal)  
+Virgin nesi - Virgin Islands, US  
 virus - virus  
 virus logi - virology  
 vise - vice (deputy, alternative, substitute, replacement)  
@@ -4499,8 +4502,9 @@ xah mata - checkmate
 xaka - branch (bough, limb, arm)  
 xakal - jackal  
 xaki - doubt (suspect; suspicion)  
+xakibil - dubious (suspicious, unbelievable)  
+xakija - doubtful (suspicious, disbelieving)  
 xal - scarf (shawl)  
-xalke - scale (flake)  
 xam - evening  
 xam dia - afternoon  
 xam yam - dinner  
@@ -4514,6 +4518,9 @@ Xani - Saturn
 xaniden - Saturday  
 xanti - rest (relief, repose)  
 xanti di - calm (peaceful, quiet)  
+xara - saw  
+xarafun - sawdust  
+xarakan - sawmill  
 xarma - shame (disgrace)  
 xarnir - hinge (pivot)  
 xarti - condition (requirement)  
@@ -4600,6 +4607,7 @@ yam sukar gana - duruka
 yam xe - food (meal)  
 yam yau - hunger  
 yang - kind (style, sort, type)  
+preyang di - classic (classical)  
 Yapetus - Iapetus  
 yasen - ash tree  
 yatim - orphan  
@@ -4670,6 +4678,9 @@ zalim - mean (cruel)
 zalim raja - tyrant (despot)  
 zalimta - cruelty (tyranny, despotism)  
 zaman - time  
+• prezaman - past times  
+• prezaman di - old (ancient, former)  
+• prezaman xe - relic  
 Zambia - Zambia  
 zar - hazard (chance)  
 zar di - random  

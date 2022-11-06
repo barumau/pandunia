@@ -873,7 +873,7 @@ It translates as *bah*, *fie*.
 asks a direct *yes or no* question.
 It translates as *eh?* or *huh?*.
 
-**tu ame kafe, he?**
+**tu luba kafe, he?**
 – You love coffee, huh?
 
 **me**
@@ -889,8 +889,8 @@ It is different from **he** in that it's not directly asking a question but it o
 It roughly translates as *right?*, *isn't it?*, *isn't that so?*, etc.
 One uses it at the end of sentence if one is not completely sure about something but thinks it's probably true.
 
-**tu ame kafe, ne? cepe un kupe ba!**
-– You love coffee, right? Grab a cup!  
+**tu suka kafe, ne? cepe un kupe ba!**
+– You like coffee, right? Grab a cup!  
 **da neu, ne?**
 – It is new, isn't it?
 

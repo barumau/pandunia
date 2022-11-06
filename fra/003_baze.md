@@ -54,30 +54,30 @@ Le nombre, le genre ou le caractère défini sont marqués par des mots complém
 The basic word order is subject–verb–object (SVO).
 L'ordre de base des mots dans une phrase est sujet - verbe - objet (SVO).
 
-**mi ame tu.**
+**mi luba tu.**
 – Je t'aime.
 
 Le temps, l'aspect et le mode sont indiqués à l'aide de particules et d'auxiliaires.
 
-**mi zai ame tu.**
+**mi zai luba tu.**
 – Je suis en train de t'aimer. / Je t'aime en ce moment.
 (**zai** indique le moment présent, en cours)  
-**mi pas ame tu.**
+**mi pas luba tu.**
 – Je t'ai aimé. / Je t'aimais.
 (**pas** marque le passé révolu.)  
-**mi le ame tu.**
+**mi le luba tu.**
 – Je l'ai (déjà) fait.
 (**le** par son sens "déjà", marque l'aspect parfait)  
-**mi xa ame tu.**
+**mi xa luba tu.**
 – Je t'aimerai.
 (**xa** marque le futur)
 
 L'ordre des mots est inversé dans les phrases au passif.
 Les verbes au passif prennent la particule **be**.
 
-**tu be ame.**
+**tu be luba.**
 – Tu es aimé.e.  
-**mi be ame de tu.**
+**mi be luba de tu.**
 – Je suis aimé.e de toi.
 
 
@@ -100,9 +100,9 @@ Le point de comparison est introduit par **ka** (_que_).
 
 Les adverbes se placent généralement avant le nom qu'ils modifient, mais pas toujours.
 
-**mi poli ame tu.**
+**mi poli luba tu.**
 – Je beaucoup t'aime .  
-**mi ame tu, poli.**
+**mi luba tu, poli.**
 – Je t'aime beaucoup.
 
 
@@ -110,13 +110,13 @@ Les adverbes se placent généralement avant le nom qu'ils modifient, mais pas t
 
 Le mot **no** met le mot qui suit à la forme négative.
 
-**no mi ama da vol kape da.**
+**no mi ama da vol cepe da.**
 – Pas moi mais lui [qui] veut le prendre.
-**mi no vol kape da.**
+**mi no vol cepe da.**
 – Je ne veux pas le prendre.  
-**mi vol no kape da.**
+**mi vol no cepe da.**
 – Je veux _ne pas le prendre_.  
-**mi vol kape no ye a vo.**
+**mi vol cepe no ye a vo.**
 – Je veux prendre _pas_ ceci_ mais cela.
 
 
@@ -127,10 +127,10 @@ Les mot interrogatif est
 
 C'est l'ordre des mots d'une phrase affirmative qui sert pour les questions.
 
-**tu ame ke?**
+**tu luba ke?**
 – Tu aimes qui ?  
-**ke man ya ame tu?**
+**ke man ya luba tu?**
 – Quel homme aimes-tu ?  
-**tu ame da ke poli?**
+**tu luba da ke poli?**
 – Tu l'aimes combien ?
 

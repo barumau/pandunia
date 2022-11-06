@@ -36,9 +36,6 @@ alofa - 変える
 alo fen di - 個別的  
 alpaka - アルパカ  
 alumin - アルミニウム  
-ama - 愛  
-ama di - 愛しい  
-ama ja - 恋人 (恋人)  
 amen - 信頼する  
 amenbil - 忠実  
 amen di - 正直  
@@ -242,12 +239,6 @@ cau medan - 芝生
 cau stan - 草地  
 cavi - 鍵  
 ceke - 小切手 (チェック)  
-cen - 以前 (前に)  
-cen den - 昨日  
-cen ding - 既定 (デフォルト)  
-cen vide - 待ち受ける (見込む)  
-cen yang di - 古典的  
-cen zaman di - 古い  
 • excepe - 追出 (退ける, 除いて)  
 ceres yum - セリウム  
 • acese - アクセス  
@@ -270,6 +261,7 @@ coklate - チョコレート
 coklate kane - チョコバー  
 copu - クワ  
 culi - 処理 (プロセス)  
+• precun - 既定 (デフォルト)  
 cunbil - オプション (選択)  
 cun liste - 品書き (メニュー)  
 
@@ -306,6 +298,7 @@ deha - 村
 dele - 遅れ (遅延)  
 demon - 悪魔  
 den - 日  
+• preden - 昨日  
 den loge - 日記  
 des - 十 (１０)  
 des kilo - 万  
@@ -489,6 +482,7 @@ flece - 矢 (矢印)
 flerof yum - フレロビウム  
 flur - フッ素  
 fluride - 弗化物  
+foli - うろこ  
 fonyo - フォニオ  
 • dusforma - 醜くする  
 • konforma - 即する  
@@ -872,7 +866,7 @@ komputa di - デジタル
 kon - 共  
 kon bon - 合わせる (適する)  
 kon forma - 即する  
-kon gong - 共同して働  
+kon kar - 共同して働  
 kon pasi - 同情  
 kon sel ja - 顧問  
 kone - 錐  
@@ -983,6 +977,9 @@ long pipre - 畢撥
 long tire - 伸びる (張る)  
 lotra - 獺  
 lou - 漏る  
+luba - 愛  
+luba di - 愛しい  
+lubar - 恋人 (恋人)  
 luga - 緑 (緑色)  
 luga melon - ハネデューメロン  
 luka - 六 (6)  
@@ -1260,10 +1257,10 @@ pati mise - 伝染
 pau - 撃つ  
 pau gi - 銃  
 pede - 屁  
-pei gong - 職業  
-pei gong di - プロフェッショナル  
-pei gong ja - プロフェッショナル  
-pei gong jiva - キャリア  
+pei kar - 職業  
+pei kar di - プロフェッショナル  
+pei kar ja - プロフェッショナル  
+pei kar jiva - キャリア  
 • propeler - プロペラ (推進器)  
 pelpel - チョウ  
 pena kalam - 羽根ペン  
@@ -1315,6 +1312,7 @@ poto stan - 沼地
 poyu - シラミ  
 poze - 植える  
 prazedim yum - プラセオジム  
+pre - 以前 (前に)  
 prese - 圧力  
 prese gi - 圧搾機  
 • preser - 圧搾機  
@@ -1445,12 +1443,11 @@ sense - 感覚
 sense xaka - 触手  
 sento - 百 (１００)  
 sento nen - 世紀  
-sera - のこぎり  
 serami - 陶器  
 seri - 系列  
 serime - 連結  
-serve gi - サーバ  
-serve ja - 使用人  
+servaja - 使用人  
+servar - サーバ  
 sexe logi - 性科学  
 si - もし  
 siborge yum - シーボーギウム  
@@ -1636,6 +1633,7 @@ veranda - ベランダ (バルコニー, 縁側)
 vespa - 蜂  
 vespa nide - 蜂の巣  
 veste gorila - ニシゴリラ  
+• previde - 待ち受ける (見込む)  
 vide ja - 見物人  
 vide punte - 遠近法 (見通し, 観点)  
 vidou - 寡婦  
@@ -1661,7 +1659,6 @@ vutu - 物 (品)
 
 xah mata - 詰み (チェックメイト)  
 xakal - ジャッカル  
-xalke - うろこ  
 xam - 夕べ  
 xam yam - 夕食  
 xaman - シャーマン  
@@ -1669,6 +1666,8 @@ xampan - 香槟
 xan pike - 頂点  
 Xani - 土星  
 xaniden - 土曜日  
+xara - のこぎり  
+xarafun - 木屑  
 xatan ja - 悪魔  
 xava - 焼く  
 xayu - サメ  
@@ -1712,6 +1711,7 @@ yam liste - メニュー (献立)
 yam xe - 食べ物 (食事)  
 yam yau - 飢え  
 yang - タイプ  
+preyang di - 古典的  
 yasen - 秦皮  
 yau - 要る  
 • anyau di - 不要  
@@ -1748,6 +1748,7 @@ zai zaman - 今 (現在)
 zai zaman di - 現行  
 zalim raja - 暴君  
 zaman - 時間  
+• prezaman di - 古い  
 zar kube - 賽子  
 zeyil - 疣  
 zeze - ハエ目 (双翅目)  

@@ -98,11 +98,6 @@ alumin - glin (aluminium)
 alumin mate -   
 alumin oxide -   
 ama - ale (lecz)  
-ama - miłość (afekt)  
-• anama -   
-ama di - kochany (drogi)  
-ama ja -   
-ama jen -   
 Amara - Amhara, amharski  
 amen - ufać (wierzyć, liczyć, polegać)  
 amenbil - lojalny (wierny)  
@@ -617,22 +612,9 @@ cau kitaba -
 cau medan -   
 cau stan - łąka  
 cavi - klucz  
-ceke - sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać  
+ceka - sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać  
 ceke - czek  
 celsius gradu - stopień Celsjusza  
-cen - wcześniej (uprzednio, poprzednio, przedtem)  
-cen den - wczoraj  
-cen di - poprzedni  
-cen ding -   
-cen fixe - przedrostek (prefiks)  
-cen si - zakładać (założyć)  
-cen vide - przewidzieć (spodziewać się)  
-cen vide di - spodziewany (przewidziany)  
-• ancen vide di - niespodziewany  
-cen yang di - klasyczny  
-cen zaman - przeszłość  
-cen zaman di - stary, starożytny  
-cen zaman xe - relikwia  
 ceng - warstwa (poziom, piętro, kondygnacja)  
 ceng bede -   
 cepe - złapać, łapać, schwytać, chwytać  
@@ -697,6 +679,7 @@ Cuana - Botswana
 culi - proces, procedura  
 cum - całus  
 cun - wybrać (wybierać, selekcjonować; wybór, elekcja, selekcja)  
+• precun -   
 cunbil - opcja (wybór)  
 cun liste -   
 cun yo gol - przeznaczyć  
@@ -795,6 +778,7 @@ demi krati ja - demokrata
 demi polita - populacja  
 demon - demon  
 den -   
+• preden - wczoraj  
 den loge -   
 des - dziesięć (10)  
 des kilo - dziesięć tysięcy  
@@ -944,8 +928,6 @@ dute -
 • posprodute -   
 • produter -   
 • redute -   
-dutebil - wątpliwy (niewiarygodny, podejrzany)  
-dute ja - niepewny (podejrzliwy, niedowierzący)  
 dux - prysznic  
 
 ## E  
@@ -1088,7 +1070,6 @@ fa fen gata - analizować
 fa festa - świętować, imprezować  
 fa fikir - myśleć, dumać, rozmyślać, zastanawiać się, rozważać  
 fa fin - skończyć, kończyć  
-fa fixe - przyczepić, przymocować  
 fa fobi -   
 fa fokus - skupić, się, skoncentrować się  
 fa fon - wymawiać (wymówić)  
@@ -1356,6 +1337,11 @@ fen don - wnieć wkład (przyczynić się)
 fen gata - analiza  
 fenil -   
 fenol -   
+fere -   
+• disfere -   
+• infere -   
+• prefere -   
+• refere -   
 fermi yum - ferm  
 fero - żelazo  
 festa - przyjęcie, święto, festiwal  
@@ -1395,7 +1381,10 @@ firuze - turkus
 fito - roślina, sadzonka  
 fitologi - botanika  
 fito yam sim ja - wegetarianin  
-fixe - załącznik (przyrostek, afiks)  
+fixe - przyczepić, przymocować  
+• afixe - afiks  
+• posfixe -   
+• prefixe - przedrostek (prefiks)  
 fizika - fizyka  
 • metafizika -   
 fizika di -   
@@ -1419,6 +1408,8 @@ fobi di -
 fobi ja -   
 Fobos -   
 foku - skupienie, koncentracja  
+foli - szala   
+foli kaska -   
 fon -   
 foni - głoska  
 foni loga -   
@@ -2362,7 +2353,7 @@ kon - wspólny (wzajemny)
 kon bon - pasować  
 kon forma -   
 kon funsibil - kompatybilny (pasujący)  
-kon gong - współpracować (kolaborować)  
+kon kar - współpracować (kolaborować)  
 kon pasi -   
 kon sabi - informacja  
 kon sana sim - komunizm  
@@ -2628,6 +2619,11 @@ lote - wsad, partia, porcja, seria
 lotra - wydra  
 lou - przeciekać, ciec  
 lou sang - krwawić  
+luba - miłość (afekt)  
+• anluba -   
+luba di - kochany (drogi)  
+luba jen -   
+lubar -   
 luga - zielony  
 luga melon - melon miodowy  
 luka - sześć (6)  
@@ -3273,6 +3269,7 @@ papaya - papaja
 papir - dokument  
 Papua neu Ginia - Papua Nowa Gwinea  
 par - równy  
+• repar -   
 par fase -   
 par jen - równy  
 parta -   
@@ -3333,10 +3330,10 @@ pedi -
 pedi fili -   
 pedi fobi -   
 pei - zapłata, opłata  
-pei gong - profesja, zajęcie, zawód  
-pei gong di -   
-pei gong ja -   
-pei gong jiva -   
+pei kar - profesja, zajęcie, zawód  
+pei kar di -   
+pei kar ja -   
+pei kar jiva -   
 pele -   
 • apele -   
 • depele -   
@@ -3515,6 +3512,10 @@ poze - pozować (ustawiać się; poza, pozycja)
 prati - praktyka, aktualność  
 prati di - practyczny, pragmatyczny  
 prazedim yum - prazeodym  
+pre - poprzedni  
+pre di - poprzedni  
+preme - pierwszy, początkowy  
+pre si - zakładać (założyć)  
 prese -   
 • deprese -   
 • exprese -   
@@ -3853,20 +3854,19 @@ sentimitre - centymetr
 sento - sto (100)  
 sento nen - stulecie  
 sento nen di -   
-sera - piła  
 serami - ceramika  
 serami sing - houstonia  
 Serbia - Serbia  
 seri - seria, szereg  
+seri kaska - kolczuga  
 seri letre - łańcuszek  
 serime -   
-seri nete - kolczuga  
 seri seri - łańcuch  
 serpe - wąż  
-serve - służba  
-serve gi -   
-serve ja - sługa  
-serve nam -   
+serva - służba  
+servaja - sługa  
+servar -   
+servar nam -   
 sesam - sezam  
 sexe - seks, stosunek płciowy  
 • ansexe di - aseksualny  
@@ -4397,6 +4397,9 @@ veze - waga (ciężkość)
 veze di - ciężki (masywny)  
 veze metre gi - waga (urządzenie ważące)  
 vide - patrzeć, widzieć  
+• previde - przewidzieć (spodziewać się)  
+• anprevide di - niespodziewany  
+• previde di - spodziewany (przewidziany)  
 vide ja - obserwator (widz)  
 vide medan - pole widzenia  
 vide punte - perspektywa (punkt widzenia)  
@@ -4415,9 +4418,9 @@ vin suan - ocet
 vinil - winyl  
 violeta -   
 violeta nil - fioletowy  
-virje -   
-virje di -   
-Virjin nesi - Wyspy Dziewicze USA  
+virge -   
+virge di -   
+Virgin nesi - Wyspy Dziewicze USA  
 virus - wirus  
 virus logi - wirusologia  
 vise - wice- (alternatywa, substytut, zastępstwo)  
@@ -4463,8 +4466,9 @@ xah mata -
 xaka - gałąź, konar  
 xakal - szakal  
 xaki - wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność  
+xakibil - wątpliwy (niewiarygodny, podejrzany)  
+xakija - niepewny (podejrzliwy, niedowierzący)  
 xal - szal, szalik  
-xalke - szala   
 xam - wieczór  
 xam dia - popołudnie  
 xam yam - kolacja  
@@ -4478,6 +4482,9 @@ Xani - Saturn
 xaniden - sobota  
 xanti - zostawić (zostawiać)  
 xanti di - spokojny  
+xara - piła  
+xarafun -   
+xarakan - tartak  
 xarma - wstyd (hańba, kompromitacja)  
 xarnir - zawias, oś  
 xarti - warunek  
@@ -4564,6 +4571,7 @@ yam sukar gana - cukrowiec jadalny
 yam xe - jedzenie, posiłek  
 yam yau - głód  
 yang - rodzaj, typ, styl  
+preyang di - klasyczny  
 Yapetus -   
 yasen - jesion  
 yatim - sierota  
@@ -4634,6 +4642,9 @@ zalim - złośliwy, okrutny
 zalim raja - tyran  
 zalimta - tyrania  
 zaman - czas  
+• prezaman - przeszłość  
+• prezaman di - stary, starożytny  
+• prezaman xe - relikwia  
 Zambia - Zambia  
 zar - niebezpieczeństwo, ryzyko, szansa  
 zar di - losowy  

@@ -138,7 +138,7 @@ Los pronombres no cambian su forma en pandunia. Es por eso que **mi** es el
 mismo en las posiciones de sujeto y objeto, mientras que el español tiene
 diferentes formas, 'yo', 'me', etc.
 
-**mi ame tu.**
+**mi luba tu.**
 Te amo. (Yo ama ti)
 
 <small>Etimología. **tu** viene del espanñol: tú, russo:  ты (ty), italiano: tu, francés: tu.</small>

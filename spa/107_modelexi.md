@@ -79,7 +79,7 @@ también se usa cuando un modificador modifica un otro.
 
 **un _surpris di_ bon buku**
 – un _sorprendentemente_ buen libro  
-**poli _bala di_ ame ja jen**
+**poli _bala di_ luba ja jen**
 – personas _firmemente_ amorosas
 
 

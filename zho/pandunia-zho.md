@@ -47,9 +47,6 @@ alo fen di - 分开的
 alpaka - 无峰驼  
 alumin - 铝  
 ama - 但是 (不过)  
-ama - 爱  
-ama di - 亲爱的  
-ama ja - 恋人 (情人, 爱人)  
 amen - 信赖  
 amenbil - 忠实  
 amen di - 诚实  
@@ -273,11 +270,8 @@ cati - 屋顶 (房顶)
 cau kitaba - 草书  
 cau medan - 草地  
 cavi - 钥匙 (锁匙)  
-ceke - 检查  
+ceka - 检查  
 ceke - 支票  
-cen - 以前  
-cen den - 昨日  
-cen zaman di - 古老 (以前)  
 ceng - 层  
 ceng bede - 双层床  
 ceres yum - 铈  
@@ -341,6 +335,7 @@ defa kaska - 盔甲
 deha - 村  
 dele - 迟延  
 den - 日 (天)  
+• preden - 昨日  
 den loge - 日记  
 des - 十  
 deu - 神  
@@ -497,6 +492,7 @@ fizika gi - 硬件
 flece - 箭  
 flur - 氟  
 fluride - 氟化物  
+foli - 鳞  
 fonte kalam - 钢笔  
 fora - 钻孔  
 • dusforma - 变丑  
@@ -868,7 +864,7 @@ kolum - 柱子
 komputa di - 数字的  
 kon - 共  
 kon bon - 相配  
-kon gong - 合作  
+kon kar - 合作  
 kon sel ja - 顾问  
 kon trati - 公約  
 kone - 锥体  
@@ -977,6 +973,9 @@ long pipre - 荜拔
 long tire - 拉  
 lotra - 獭  
 lou - 漏  
+luba - 爱  
+luba di - 亲爱的  
+lubar - 恋人 (情人, 爱人)  
 luga - 绿色  
 luka - 六 (6)  
 lulu table - 算盘  
@@ -1248,7 +1247,7 @@ pati logi - 病理学
 pati mise - 传染  
 pau gi - 手枪  
 pede - 屁  
-pei gong - 职业  
+pei kar - 职业  
 • propeler - 螺旋桨  
 pelmen - 饺子  
 pelpel - 蝴蝶  
@@ -1302,6 +1301,7 @@ poto defa bano - 挡泥板
 poto stan - 沼泽  
 poyu - 虱子  
 prazedim yum - 镨  
+pre - 以前  
 prese - 压力  
 problem - 问题 (难题)  
 program - 计划  
@@ -1425,7 +1425,6 @@ sense - 感觉
 sense xaka - 觸手  
 sento - 百  
 sento nen - 世纪  
-sera - 锯子  
 serami - 陶瓷  
 seri - 系列  
 serime - 连结  
@@ -1619,7 +1618,7 @@ veze di - 重型的
 vide - 看  
 vidou - 寡妇  
 vijin - 味精  
-virje - 处女  
+virge - 处女  
 vise kitaba - 重写  
 vise ma - 继母  
 vise pa - 继父  
@@ -1639,11 +1638,12 @@ vutu - 物体 (物品)
 xah mata - 将死  
 xakal - 胡狼  
 xaki - 怀疑 (疑惑)  
-xalke - 鳞  
 xam - 晚上  
 xanghai - 上海  
 Xani - 土星  
 xaniden - 星期六 (礼拜六)  
+xara - 锯子  
+xarafun - 锯末  
 xatan ja - 撒但  
 xava - 烧 (烧烤)  
 xayu - 鲨鱼  
@@ -1718,6 +1718,7 @@ yuterbi yum - 镱
 
 zai zaman di - 现在的  
 zaman - 时间  
+• prezaman di - 古老 (以前)  
 zar kube - 骰子 (色子)  
 zebra - 斑马  
 zeyil - 疣  

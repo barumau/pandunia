@@ -90,11 +90,6 @@ alumin - aluminio
 alumin mate - alumbre  
 alumin oxide - alúmina  
 ama - pero (sino)  
-ama - amor  
-• anama - detestar  
-ama di - querido  
-ama ja - amante (enamorado)  
-ama jen - amado (cariño)  
 Amara - amhara  
 amen - confiar (contar con)  
 amenbil - leal (fiel)  
@@ -551,20 +546,9 @@ cau - hierba
 cau medan - césped (pasto)  
 cau stan - pradera (pastizal)  
 cavi - llave  
-ceke - revisar (chequear, examinar, inspeccionar)  
+ceka - revisar (chequear, examinar, inspeccionar)  
 ceke - cheque  
 celsius gradu - grado Celsius  
-cen - más temprano (antes, haber, en el pasado)  
-cen den - ayer  
-cen di - previo (anterior)  
-cen ding - predeterminado  
-cen fixe - prefijo  
-cen si - presuponer  
-cen vide - prever (esperar, pensar)  
-cen yang di - clásico  
-cen zaman - pasado  
-cen zaman di - viejo (antiguo)  
-cen zaman xe - reliquia  
 ceng - capa (piso, planta, estrato)  
 ceng bede - litera  
 cepe - capturar (apresar)  
@@ -615,6 +599,7 @@ Cuana - Botsuana
 culi - proceso (procedimiento)  
 cum - beso  
 cun - elegir (escoger, seleccionar)  
+• precun - predeterminado  
 cunbil - opción (preferencia)  
 cun liste - menú (catálogo)  
 cun yo gol - destinar  
@@ -699,6 +684,7 @@ demi krati di - democrático
 demi krati ja - demócrata  
 demon - demonio  
 den - día (24 horas)  
+• preden - ayer  
 den loge - diario  
 des - diez (deca-, 10)  
 desen - dibujo (diseño)  
@@ -949,7 +935,6 @@ fa fen gata - analizar (disecar)
 fa festa - celebrar (festejar)  
 fa fikir - pensar  
 fa fin - terminar (acabar)  
-fa fixe - fijar (pegar, asegurar)  
 fa fobi - asustar (atemorizar)  
 fa fokus - concentración  
 fa fon - pronunciar (articular)  
@@ -1187,6 +1172,9 @@ fen don - contribuir
 fen gata - análisis (disección)  
 fenil - fenilo  
 fenol - fenol  
+• infere - inferir  
+• prefere - preferir  
+• refere - referir  
 fermi yum - fermio  
 fero - hierro  
 festa - celebración (fiesta)  
@@ -1222,7 +1210,8 @@ firuze - turquesa (piedra preciosa)
 fito - planta (vegetal, vegetación)  
 fitologi - botánica  
 fito yam sim ja - vegetariano  
-fixe - accesorio (afijo)  
+fixe - fijar (pegar, asegurar; accesorio, afijo)  
+• prefixe - prefijo  
 fizika - física  
 fizika gi - hardware (soporte físico)  
 fizika ja - físico (científico)  
@@ -1235,6 +1224,7 @@ fluride - fluoruro
 fobi - miedo (-fobia)  
 fobi ja - asustador  
 foku - concentrar (enfocarse)  
+foli - escama  
 foni - fono (segmento acústico)  
 fonilogi - fonología  
 fonime - fonema  
@@ -2057,7 +2047,7 @@ kon - con (común)
 kon bon - emparejar (quedar)  
 kon forma - amoldarse  
 kon funsibil - compatible  
-kon gong - colaborar  
+kon kar - colaborar  
 kon pasi - compasión  
 kon sabi - información  
 kon sana sim - comunismo  
@@ -2287,6 +2277,11 @@ lote - lote (grupo)
 lotra - nutria  
 lou - chorrear  
 lou sang - sangrar  
+luba - amor  
+• anluba - detestar  
+luba di - querido  
+luba jen - amado (cariño)  
+lubar - amante (enamorado)  
 luga - verde  
 luga melon - melón verde  
 luka - seis (6)  
@@ -2872,6 +2867,7 @@ papaya - papaya
 papir - artículo (documento)  
 Papua neu Ginia - Papúa Nueva Guinea  
 par - equilibrado (par)  
+• repar - reparar  
 par fase - nivel  
 par jen - equilibrado (par)  
 par vezeta - equilibrio  
@@ -2921,9 +2917,9 @@ pedal - pedal
 pedal sikle - bicicleta  
 pede - pedo  
 pei - pago  
-pei gong - profesión (ocupación)  
-pei gong di - profesional (de carrera)  
-pei gong jiva - carrera  
+pei kar - profesión (ocupación)  
+pei kar di - profesional (de carrera)  
+pei kar jiva - carrera  
 • expele - expeler (expulsar)  
 • inpele - impeler  
 • propeler - propulsor (hélice)  
@@ -3076,6 +3072,10 @@ poze - posar (pose, postura)
 prati - práctica  
 prati di - práctico  
 prazedim yum - praseodimio  
+pre - previo (anterior; antes; preceder, anteceder)  
+pre di - previo (anterior)  
+preme - primer (inicial, inaugural)  
+pre si - presuponer  
 prese - presión  
 prese gi - prensa  
 • preser - prensa  
@@ -3382,17 +3382,16 @@ sentimitre - centímetro
 sento - cien (100)  
 sento nen - centuria (siglo)  
 sento nen di - centenario  
-sera - sierra  
 serami - cerámica  
 Serbia - Serbia  
 seri - serie  
+seri kaska - cota de malla  
 serime - eslabón  
-seri nete - cota de malla  
 seri seri - cadena  
 serpe - serpiente (culebra)  
-serve - servicio  
-serve gi - servidor  
-serve ja - criado (sirviente)  
+serva - servicio  
+servaja - criado (sirviente)  
+servar - servidor  
 sesam - ajonjolí (sésamo)  
 sexe - sexo  
 • ansexe di - asexual  
@@ -3843,6 +3842,7 @@ veze - peso (gravedad)
 veze di - pesado  
 veze metre gi - pesa (báscula, balanza)  
 vide - ver (mirar)  
+• previde - prever (esperar, pensar)  
 vide ja - espectador  
 vide medan - campo de visión  
 vide punte - perspectiva (punto de vista)  
@@ -3859,9 +3859,9 @@ vin suan - vinagre
 vinil - vinilo  
 violeta - violeta  
 violeta nil - morado (púrpura)  
-virje - virgen  
-virje di - virginal  
-Virjin nesi - Islas Vírgenes  
+virge - virgen (virginal)  
+virge di - virginal  
+Virgin nesi - Islas Vírgenes  
 virus - virus  
 virus logi - virología  
 vise - vice- (alternativa, sustituto)  
@@ -3898,7 +3898,6 @@ xaka - rama
 xakal - chacal  
 xaki - duda  
 xal - bufanda (chal)  
-xalke - escama  
 xam - noche (tarde)  
 xam dia - tarde (después de mediodía)  
 xam yam - cena  
@@ -3911,6 +3910,9 @@ Xani - Saturno
 xaniden - sábado  
 xanti - descanso (alivio)  
 xanti di - tranquilo (calmado)  
+xara - sierra  
+xarafun - serrín  
+xarakan - aserradero  
 xarma - vergüenza (pena)  
 xarnir - bisagra (gozne)  
 xarti - condición (requisito, estipulación)  
@@ -3988,6 +3990,7 @@ yam liste - menú (carta)
 yam xe - comida  
 yam yau - hambre  
 yang - variedad (tipo, estilo)  
+preyang di - clásico  
 yasen - fresno  
 yatim - huérfano  
 yatim dom - orfanato  
@@ -4048,6 +4051,9 @@ zalim - mezquino (antipático, cruel)
 zalim raja - tirano (déspota)  
 zalimta - crueldad (tiranía)  
 zaman - tiempo  
+• prezaman - pasado  
+• prezaman di - viejo (antiguo)  
+• prezaman xe - reliquia  
 Zambia - Zambia  
 zar - riesgo (posibilidad)  
 zar di - azar (aleatorio)  

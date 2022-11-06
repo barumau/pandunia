@@ -30,7 +30,6 @@ acacia de copa plana - helis babul
 accesible - tenebil  
 acceso (acceder) - acese  
 acceso - inlai  
-accesorio (afijo) - fixe  
 acción - ation  
 aceite (óleo) - nefte  
 aceituna - zaitun  
@@ -166,8 +165,8 @@ aluminio - alumin
 aló - halo  
 alófono - alo fon  
 alúmina - alumin oxide  
-amado (cariño) - ama jen  
-amante (enamorado) - ama ja  
+amado (cariño) - luba jen  
+amante (enamorado) - lubar  
 amapola silvestre - medan papi  
 amar románticamente - fa romanse  
 amargo - kali guste  
@@ -186,7 +185,7 @@ amina - amin
 amistad (compañerismo) - dostita  
 amoldarse - kon forma  
 amoldarse - konforma  
-amor - ama  
+amor - luba  
 amperio - amper  
 ampolla (vial) - ampul  
 América - Amerika  
@@ -298,6 +297,7 @@ Aruba - Aruba
 asar (tostar, rostir) - xava  
 asar - kababu  
 asceta - askete  
+aserradero - xarakan  
 asesino - mataja  
 asexual - ansexe di  
 Asia - Asia  
@@ -346,7 +346,7 @@ aviso (notificación) - note anjil
 avispero (colmena) - vespa nide  
 axproximarse - be karibu  
 ay! - ayo  
-ayer - cen den  
+ayer - preden  
 ayuda (socorro, auxilio, asistencia) - mede  
 ayudar (asistar) - fa mede  
 azada - copu  
@@ -650,7 +650,7 @@ carnicero - bucar
 carpa (toldo) - hema  
 carpeta - dokumen sanduku  
 carpintero - moka sanaja  
-carrera - pei gong jiva  
+carrera - pei kar jiva  
 carta - letre  
 cartografía - karta grafi  
 carvis (alcaravea) - karavi  
@@ -796,7 +796,7 @@ clon - fa klon
 clonar - klon  
 cloro - klor  
 club - klube  
-clásico - cen yang di  
+clásico - preyang di  
 cobalto - kobalte  
 cobre - kupre  
 coca - koka  
@@ -814,7 +814,7 @@ cohete (misil) - rokete
 col china - baku coi  
 cola (rabo, coda) - koda  
 cola (refresco de cola) - kola jus  
-colaborar - kon gong  
+colaborar - kon kar  
 colaborar - konkar  
 colarse - sir move  
 colchón - matras  
@@ -956,7 +956,7 @@ costar - fa koste
 costumbre (hábito) - ada  
 costumbre (tradición, convención) - suna  
 costura (sutura) - sutur  
-cota de malla - seri nete  
+cota de malla - seri kaska  
 crecemiento - raste  
 crecer (aumentar, hincharse) - be dai  
 crecer - be raste  
@@ -969,7 +969,7 @@ cremoso - krem di
 crepa (crep, tortilla de trigo) - Franse krepe  
 creyente - din ja  
 creyente - kredija  
-criado (sirviente) - serve ja  
+criado (sirviente) - servaja  
 criar - gene yo hevan  
 crimen (delito) - krim  
 criminal - krim di  
@@ -1159,7 +1159,7 @@ destino - kisma
 detalle - detal  
 determinado (cierto, definido) - ding  
 determinar (establecer, definir) - fa ding  
-detestar - anama  
+detestar - anluba  
 devanágari - deu nagar zi  
 devolver (vomitar) - retro gula  
 diagonal - tragona di  
@@ -1373,7 +1373,7 @@ erróneo - galte di
 es decir (en otras palabras) - alo nam  
 escalar - fa eskale  
 escalera - eskale  
-escama - xalke  
+escama - foli  
 Escandinavia - Eskandinavia  
 escandio - eskandi yum  
 escaparse (evitar, huir) - bega  
@@ -1549,7 +1549,7 @@ fermio - fermi yum
 ferretería - metal tul  
 fideo (tallarín) - mien  
 fiebrie (calentura) - febre  
-fijar (pegar, asegurar) - fa fixe  
+fijar (pegar, asegurar; accesorio, afijo) - fixe  
 Fiji - Fiji  
 Filipinas - Filipin  
 filosofía - filsofi  
@@ -1965,6 +1965,7 @@ infección (contagio) - pati mise
 infección - infete  
 infectar (contagiar) - fa pati mise  
 inferior - nice di  
+inferir - infere  
 infiel (descreído) - andin ja  
 infiel (descreído) - ankredija  
 infierno - naraka  
@@ -2052,7 +2053,7 @@ Islas Marianas - Mariana nesi
 Islas Marshall - Marxal nesi  
 Islas Pitcairn - Pitkerne nesi  
 Islas Salomón - Solomon nesi  
-Islas Vírgenes - Virjin nesi  
+Islas Vírgenes - Virgin nesi  
 Israel - Israel  
 Italia - Italia  
 iterbio - yuterbi yum  
@@ -2586,7 +2587,6 @@ máquina (dispositivo, aparato) - gi
 máquina de escribir - kitaba gi  
 más - max  
 más tarde - a pos  
-más temprano (antes, haber, en el pasado) - cen  
 máscara - maska  
 mástil - masta  
 máximo - maxim di  
@@ -2885,7 +2885,7 @@ partir (dividirse) - be fen
 partícula (grano, bala) - dana  
 parámetro - parametre  
 pasa (uva pasa) - gan putau  
-pasado - cen zaman  
+pasado - prezaman  
 pasaporte - pasporte  
 pasar (transcurrir) - fa dura  
 pasar - pas  
@@ -3104,9 +3104,10 @@ preceder (anteceder) - precese
 precio (coste) - koste  
 precioso - bau di  
 precursor - prekurser  
-predeterminado - cen ding  
+predeterminado - precun  
 preferir (favorecer) - max fili  
-prefijo - cen fixe  
+preferir - prefere  
+prefijo - prefixe  
 pregunta - sual  
 preguntar (inquirir) - fa sual  
 preguntarse - be sabi vol  
@@ -3122,11 +3123,13 @@ presión - prese
 presión atmosférica - air prese  
 prestar (pedir prestado) - jeka  
 prestar - jeka don  
-presuponer - cen si  
+presuponer - pre si  
 presupuesto - pesa plan  
-prever (esperar, pensar) - cen vide  
-previo (anterior) - cen di  
+prever (esperar, pensar) - previde  
+previo (anterior) - pre di  
+previo (anterior; antes; preceder, anteceder) - pre  
 primavera - hua mosim  
+primer (inicial, inaugural) - preme  
 primer (inicial, inaugural) - xuru di  
 primer ministro - xefe ministre ja  
 primero (numbre uno) - un me  
@@ -3145,8 +3148,8 @@ proceso (procedimiento) - culi
 producción - sana  
 producir (hacer, preparar) - fa sana  
 profecía (profetizar) - nabi  
-profesional (de carrera) - pei gong di  
-profesión (ocupación) - pei gong  
+profesional (de carrera) - pei kar di  
+profesión (ocupación) - pei kar  
 profesor - profesor  
 profeta (heraldo) - nabija  
 profeta Mani - Mani  
@@ -3223,7 +3226,7 @@ quemar - fa hogo
 quemarse - be hogo  
 querer (desear) - vol  
 querer (disponer) - fa ici  
-querido - ama di  
+querido - luba di  
 querubín - kerubi  
 queso - cize  
 queso fresco - panir  
@@ -3294,6 +3297,7 @@ red - nete
 redes sociales - sosi medi gi  
 redondo (circular) - gola di  
 reducir a la mitad (dividir en dos) - fa fen do du  
+referir - refere  
 refuerzos - max ordu  
 regaliz (alcazuz, orozuz) - alkasus  
 regalo (obsequio) - don xe  
@@ -3309,7 +3313,7 @@ Reino Unido - Britan
 relatar (narrar) - fa kata  
 religioso - din di  
 religión - din  
-reliquia - cen zaman xe  
+reliquia - prezaman xe  
 reloj - hor loga gi  
 reluciente (brillante, lustroso) - foto mira di  
 relámpago - eletro radi  
@@ -3320,6 +3324,7 @@ renio - ren yum
 renovar - fa neu  
 reparador - xuli ja  
 reparar (arreglar) - fa xuli  
+reparar - repar  
 repetir - fa re  
 repetir - rifete  
 reportar (informe, reporte, noticia) - reporte  
@@ -3351,7 +3356,7 @@ retroalimentación (realimentación, feedback) - retro note
 retículo - krus lin  
 Reunión - Reunion  
 reventar - parce kai  
-revisar (chequear, examinar, inspeccionar) - ceke  
+revisar (chequear, examinar, inspeccionar) - ceka  
 revista (periódico, gaceta) - gazeta  
 rey - rajanan  
 rey o reina - raja  
@@ -3520,8 +3525,9 @@ ser visto - be vide
 Serbia - Serbia  
 serie - seri  
 serpiente (culebra) - serpe  
-servicio - serve  
-servidor - serve gi  
+serrín - xarafun  
+servicio - serva  
+servidor - servar  
 servir - fa serve  
 sexo (género) - jinse  
 sexo - bio jinse  
@@ -3537,7 +3543,7 @@ shogunato - ordu raja dexa
 si (suponer) - si  
 Siberia - Sibiria  
 siempre - pan sata  
-sierra - sera  
+sierra - xara  
 Sierra Leona - Salon  
 siete (7) - ceti  
 sigilo - sirta  
@@ -3969,7 +3975,7 @@ vidrio (cristal) - kanca
 vidrio volcánico - hogo xan kanca  
 viejo (anciano) - lau  
 viejo (anciano) - lau jen  
-viejo (antiguo) - cen zaman di  
+viejo (antiguo) - prezaman di  
 viento - hava  
 viernes - zukraden  
 Vietnam - Viete  
@@ -3979,8 +3985,8 @@ vinagre - vin suan
 vinilo - vinil  
 vino - vin  
 violeta - violeta  
-virgen - virje  
-virginal - virje di  
+virgen (virginal) - virge  
+virginal - virge di  
 virología - virus logi  
 virrey - vise raja  
 virtud (moralidad) - bon moral  

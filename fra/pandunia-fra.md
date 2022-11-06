@@ -72,11 +72,6 @@ alumin - aluminium
 alumin mate - alun  
 alumin oxide - alumine (oxyde d'aluminium)  
 ama - mais  
-ama - amour (affection)  
-• anama - exécrer  
-ama di - cher  
-ama ja - amoureux  
-ama jen - chéri  
 Amara - Amhara (groupe ethnique et langue éthiopienne)  
 amen - faire confiance (espérer, croire qqn./qqch., avoir la foi)  
 amen di - sûr (crédible, sûrement)  
@@ -377,9 +372,6 @@ cau - herbe (gazon)
 cau medan - pelouse (gazon)  
 cavi - clé (clef)  
 ceke - chèque  
-cen - avant  
-cen den - hier  
-cen zaman di - vieux (ancien)  
 ceng bede - lits superposés  
 • acepe - accepter  
 • intercepe - intercepter  
@@ -445,6 +437,7 @@ defa bano - bouclire
 defa kaska - armure  
 deha - village  
 dele - délai (retard)  
+• preden - hier  
 den loge - journal  
 deu - dieu  
 deu kata - mythe  
@@ -632,6 +625,9 @@ fei muxu - chauve-souris
 fen - part  
 fen gata - analyse  
 fenol - phénol  
+• infere - inférer  
+• prefere - préférer  
+• refere - référer  
 fermi yum - fermium  
 fero - fer  
 fete - faire (fait)  
@@ -651,6 +647,7 @@ flerof yum - flérovium
 flur - fluor  
 fluride - fluorure  
 fobi ja - effrayant  
+foli - échelle  
 fonte kalam - stylo-plume  
 fonyo - fonio blanc  
 for - loin (hors, parti)  
@@ -1067,7 +1064,7 @@ koda - queue
 kolum - pilier (colonne, poteau)  
 komputa di - numérique  
 kon - avec (commun)  
-kon gong - collaborer  
+kon kar - collaborer  
 kon sel ja - consultant (conseiller)  
 kon trati - convention (alliance, pacte)  
 konun - commun  
@@ -1193,6 +1190,11 @@ long krokodil - crocodile
 long pipre - poivre long  
 long tire - tender  
 lotra - loutre  
+luba - amour (affection)  
+• anluba - exécrer  
+luba di - cher  
+luba jen - chéri  
+lubar - amoureux  
 luga - vert  
 luka - six (6)  
 lulu table - abaque (boulier compteur)  
@@ -1471,6 +1473,7 @@ pante - pantalon
 papagai - perroquet  
 papaya - papaye  
 par - pair (pareil, egal)  
+• repar - réparer  
 par fase - niveau  
 parta - parité  
 par vezeta - équilibre  
@@ -1501,8 +1504,8 @@ pati mise - infection (contagion)
 pau gi - pistolet  
 pauza - pause  
 pede - pet (vesse)  
-pei gong - profession (métier)  
-pei gong jiva - carrière  
+pei kar - profession (métier)  
+pei kar jiva - carrière  
 • expele - expulser  
 • propeler - hélice  
 pelpel - papillon  
@@ -1578,6 +1581,7 @@ poto stan - marécage (marais)
 poyu - pou  
 • expoze - exposer  
 prazedim yum - praséodyme  
+pre - avant  
 prese - pression  
 prese gi - pressoir  
 • preser - pressoir  
@@ -1723,7 +1727,6 @@ sense xaka - tentacule
 sento - cent (100)  
 sento nen - siècle (centennie)  
 sento nen di - centenaire  
-sera - scie  
 seri - série  
 serime - maillon (chaînon)  
 • ansexe di - asexué  
@@ -1944,7 +1947,7 @@ vide - voir
 vide ja - espectador  
 vidou - veuve  
 violeta nil - violet (pourpre)  
-virje - vierge  
+virge - vierge  
 virus - virus  
 vise raja - vice-roi  
 vitamin - vitamine  
@@ -1966,7 +1969,6 @@ vutu - objet (article)
 xah mata - échec et mat  
 xakal - chacal  
 xaki - doute  
-xalke - échelle  
 xam - soir (soirée)  
 xampan - Champagne  
 xampan vin - champagne  
@@ -1975,6 +1977,9 @@ Xani - Saturne
 xaniden - samedi  
 xanti - repos  
 xanti di - calme (tranquille)  
+xara - scie  
+xarafun - sciure  
+xarakan - scierie  
 xatan - s'opposer à  
 xatan ja - Satan  
 xava - rôtir  
@@ -2052,6 +2057,7 @@ yuterbi yum - ytterbium
 zai di - présent  
 zai zaman di - actuel (courant)  
 zaman - temps  
+• prezaman di - vieux (ancien)  
 zar kube - dé  
 Zardux - Zoroastre  
 zardux din - zoroastrisme  

@@ -147,7 +147,7 @@ The door undergoes a change of state from closed to opened.
 The person can perceive the orange with their senses.
 The orange is a non-living thing.
 
-**jenᴬ ame orangeᴾ.**
+**jenᴬ luba orangeᴾ.**
 – The personᴬ loves orangesᴾ.
 
 The person can feel.
@@ -192,7 +192,7 @@ Examples of different kinds of activity words include the following:
 'fire',
 **yen**
 'eyes',
-**ame**
+**luba**
 'love',
 **huru**
 'freedom', and

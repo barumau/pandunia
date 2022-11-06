@@ -66,7 +66,7 @@ Se la subjekto estas persona pronomo, la **ya** estas forlasita.
 Vortordo ege gravas.
 La normala vortordo estas subjekto–verbo–objekto.
 
-**mi ame tu.**
+**mi luba tu.**
 – Mi amas vin.
 
 Kiam la objekto estas substantivo, ĝi estas markita per montranta pronomo pronoun, nombrovorto aŭ alia vorteto.
@@ -101,12 +101,12 @@ Oni povas forĵeti ĝin de tre simplaj frazoj.
 
 La vortoj de pandunia ofte havas pli vastan sencon ol la korespondaj esperantaj vortoj.
 
-**da ame mau.**
+**da luba mau.**
 – Li amas katojn. / Ŝi amis katon. / Ĝi amos la katon.
 
 Sed la kunteksto normale klarigas la precizan signifon:
 
-**tri nen cen, mi ha du mau e un vaf. mi mas ha un fem ben. da ame mau!**
+**tri nen cen, mi ha du mau e un vaf. mi mas ha un fem ben. da luba mau!**
 – Antaū tri jaroj mi havis du katojn kaj unu hundon. Mi ankaū havis filinon. _Ŝi amis la katojn!_
 
 ### Tempo
@@ -121,13 +121,13 @@ Tensoj kaj aspektoj estas esprimita per adverboj kaj helpantaj verboj, kiel
 **xa**
 (estonte).
 
-**mi zai ame tu.**
+**mi zai luba tu.**
 – Mi amas vin.  
-**mi pas ame tu.**
+**mi pas luba tu.**
 – Mi amis vin.  
-**mi le ame tu.**
+**mi le luba tu.**
 – Mi estas aminta vin.  
-**mi xa ame tu.**
+**mi xa luba tu.**
 – Mi amos vin.
 
 ### Pasivo
@@ -135,16 +135,16 @@ Tensoj kaj aspektoj estas esprimita per adverboj kaj helpantaj verboj, kiel
 La pasivo estas farita uzante la helpantan verbon
 **be**.
 
-**tu be ame.**
+**tu be luba.**
 – Vi estas amita.  
-**mi be ame de tu.**
+**mi be luba de tu.**
 – Mi estas amita de vi.
 
 ### Modifaj vortoj
 
 Adjektivoj estas antaŭ la vorto, kiun ili modifas.
 
-**un nove ame**
+**un nove luba**
 – nova amo  
 **la bon pai**
 – bona torto
@@ -154,7 +154,7 @@ La adverboj povas esti markita de vorteto **di**.
 
 **mi bon vide tu.**
 – Mi bone vidas vin.  
-**tu vide di ame da.**
+**tu vide di luba da.**
 – Vi vidable amas lin aŭ ŝin.
 
 Por kompari modifvortojn, uzu la vortetoj
@@ -180,13 +180,13 @@ Por demandi _ki_-demandon skribu la normala frazo kaj anstataŭigu la demanditan
 **ke**
 'kio, kiu'.
 
-**tu ame ke?**
+**tu luba ke?**
 – Kiun vi amas?  
-**tu ame ke man?**
+**tu luba ke man?**
 – Kiun viron vi amas?  
-**ke man ya ame tu?**
+**ke man ya luba tu?**
 – Kiu viro amas vin?  
-**tu ame da ke poli?**
+**tu luba da ke poli?**
 – Kiom multe vi amas lin?
 
 ### Ordonojn

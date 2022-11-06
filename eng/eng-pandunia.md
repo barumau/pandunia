@@ -60,6 +60,7 @@ advocacy (promotion, -ism) - sim
 advocate (promote, support) - fa sim  
 advocate (promoter, supporter, adherent) - sim ja  
 aerobic - air bio di  
+affix - afixe  
 Afghanistan - Afghan  
 afraid (scared) - fobi di  
 Africa - Afrika  
@@ -241,7 +242,7 @@ ask (request, beg, plead; please) - cing
 asparagus - asparge  
 aspect (viewpoint) - aspete  
 associate - fa liga  
-assume (presuppose) - cen si  
+assume (presuppose) - pre si  
 Assur - Axur  
 assure (affirm, confirm) - fa amen  
 Assyria - Axur dexa  
@@ -262,7 +263,6 @@ atom - atom
 atomic bomb - atom bomba  
 atomic nucleus - atom kerne  
 atomic weapon - atom vuki  
-attachment (affix) - fixe  
 attack (assault, aggression, hostility) - agrese  
 attain (accomplish, indicates the current position) - le  
 attract - atrate  
@@ -391,6 +391,7 @@ beehive (beehouse) - medu vespa sanduku
 beehive (honeycomb) - medu vespa nide  
 beer - bir  
 beetroot - bete  
+before (previous, fore, past) - pre  
 begin (get started) - be xuru  
 begin (start, commence, initiate) - fa xuru  
 beginning (start, commencement, onset) - xuru  
@@ -657,7 +658,7 @@ carbon dioxide - karbe duoxide
 carboxyle - karboxil  
 card - karte  
 care (caution, attention) - jui  
-career (professional life) - pei gong jiva  
+career (professional life) - pei kar jiva  
 careful (cautious, attentive, alert, wary) - jui di  
 Caribbean - Karibe  
 carob (St. John's bread) - karuba  
@@ -705,7 +706,7 @@ certificate - dalil dokumen
 Chad - cade  
 chain - seri seri  
 chain letter - seri letre  
-chain mail - seri nete  
+chain mail - seri kaska  
 chair - kursi  
 Champagne - xampan  
 champagne - xampan vin  
@@ -780,7 +781,7 @@ clarify (clear up) - fa klar
 class (category) - klas  
 classic (authoritative, definitive) - kanon di  
 classic (canon) - kanon  
-classic (classical) - cen yang di  
+classic (classical) - preyang di  
 classify (categorize) - fa klas  
 classroom - xula kamar  
 claw (scratch) - fa nahun  
@@ -831,7 +832,7 @@ coin - pesa diske
 cola - kola jus  
 cold (illness) - zukam  
 cold - leng  
-collaborate (work together) - kon gong  
+collaborate (work together) - kon kar  
 collaborate (work together) - konkar  
 collapse - parce dipe  
 collect (gather, bring together, assemble, congregate) - fa jama  
@@ -1041,7 +1042,7 @@ dangerous (perilous) - hatar di
 Danish - Danske  
 dark (dim) - oskur  
 darling (dear companion) - bau bei  
-darling (honey) - ama jen  
+darling (honey) - luba jen  
 darmstadtium - darmestadi yum  
 Darwinism - darvin sim  
 Darwinist - darvin sim ja  
@@ -1061,7 +1062,7 @@ daylight - dia foto
 deactivate (disable, turn off) - deativi  
 deactivate (turn off) - deativifa  
 dead body - mata badan  
-dear (beloved) - ama di  
+dear (beloved) - luba di  
 debate (discuss) - fa lona  
 debug - fa an galte  
 decay (rot, deteriorate) - be pute  
@@ -1078,9 +1079,10 @@ dedication (devotion) - sata don ta
 deduce (lead from) - dedute  
 deduction - dedution  
 deed (fact) - fate  
+deem (consider, regard, assign some quality to) - fere  
 deem (opine, think that) - fa rai  
 deep - fase tele  
-default (preset, predecided) - cen ding  
+default (preset, predecided) - precun  
 defeat (do away with) - defete  
 defecate (shit) - fa kaka  
 defecate (shit) - fa xite  
@@ -1127,6 +1129,7 @@ dictionary (word list) - lexi liste
 die (death; dead, deceased) - mata  
 die (dice) - zar kube  
 die - be mata  
+differ (consider different) - disfere  
 difference - alo sifa  
 different - alo sifa di  
 dig (pit, cavity) - kava  
@@ -1149,7 +1152,7 @@ discrete (distinct, separate, quantized) - alo fen di
 discussion (debate, discourse) - lona  
 disease (illness, sickness) - pati  
 disfigure - fa dus forma  
-dislike (loathe) - anama  
+dislike (loathe) - anluba  
 dispel (disperse, drive asunder) - dispele  
 disperse (spread out, scatter) - anjami  
 distance (far away) - tele  
@@ -1194,7 +1197,7 @@ dot (spot) - bindu
 double (twofold; multiply by two) - dupli  
 double entendre - du semi di  
 doubt (suspect; suspicion) - xaki  
-doubtful (suspicious, disbelieving) - dute ja  
+doubtful (suspicious, disbelieving) - xakija  
 downgrade - dus gradu  
 download - nete gete  
 downpour (heavy rain) - dai barxa  
@@ -1226,7 +1229,7 @@ dry - gan
 dry out - fa gan  
 dry season - gan mosim  
 dualism - du xe sim  
-dubious (suspicious, unbelievable) - dutebil  
+dubious (suspicious, unbelievable) - xakibil  
 dubnium - dubna yum  
 duck - bata  
 dump (junk yard) - lasa stan  
@@ -1250,7 +1253,6 @@ dystopia - dus topi
 
 each other (one another, mutually) - semen  
 ear - ore  
-earlier (before, in the past) - cen  
 earth (ground) - geo  
 Earth (Terra) - Geo  
 earthquake - geo sismo  
@@ -1377,7 +1379,7 @@ everything - pan xe
 evident (apparent, obvious) - vai vide di  
 evoke (call out) - exvoka  
 exa- - exa  
-examine (inspect, check) - ceke  
+examine (inspect, check) - ceka  
 example (instance of) - misal  
 excavate (dig out) - exkava  
 exceed (be greater than) - be max  
@@ -1399,8 +1401,8 @@ exogeneous - exgene
 exogenous - vai gene di  
 exonym - vai nam  
 exoplanet - vai planeta  
-expect (anticipate, predict, forsee) - cen vide  
-expected - cen vide di  
+expect (anticipate, predict, forsee) - previde  
+expected - previde di  
 expel (drive out) - expele  
 expensive (costly) - koste di  
 explode (blow up) - be bum  
@@ -1530,7 +1532,7 @@ fishing rod (fishing pole) - huke lin kane
 fit (adapt, adjust, make suitable) - fa hapu  
 fit (suit, be suitable) - be hapu  
 five (5) - lima  
-fix (attach) - fa fixe  
+fix (attach; attachment) - fixe  
 fjord - fiorde  
 flag (banner) - bandera  
 flame - flam  
@@ -2043,11 +2045,13 @@ infantile (juvenile, immature) - you
 infect (infection) - infete  
 infect - fa pati mise  
 infection (infestation, contagion) - pati mise  
+infer - infere  
 infidel (pagan, heathen, unbeliever) - kafir  
 infinity - anlimite  
 inflammation (-itis) - tis  
 information (communicable knowledge) - kon sabi  
 initial (first) - xuru di  
+initial (first; prime) - preme  
 inject (injection) - injete  
 inject - fa juxa  
 injection - juxa  
@@ -2390,10 +2394,10 @@ lose (misplace, miss, shed) - xiti
 loser - xiti bai ja  
 lot (plot of land) - geo tika  
 louse - poyu  
-love (liking, affection) - ama  
+love (strong affection, desire) - luba  
 love romantically - fa romanse  
 lovegrass (teff) - tef  
-lover - ama ja  
+lover - lubar  
 low (short, bottom) - dipe  
 lower (inferior) - nice di  
 lower (put down) - fa dipe  
@@ -2902,7 +2906,7 @@ oil - nefte
 okay (acceptance; accept, say okay) - oke  
 okra (okro) - bamia  
 old (aged, elderly) - lau  
-old (ancient, former) - cen zaman di  
+old (ancient, former) - prezaman di  
 older (elder, senior, superior) - sen  
 olive - zaitun  
 Oman - Oman  
@@ -3058,7 +3062,7 @@ passport - pasporte
 password (security code) - sekur kode  
 password - pas loga  
 past (bygone) - pas di  
-past times - cen zaman  
+past times - prezaman  
 paste (dough) - pasta  
 paternal aunt - pa sis  
 paternal grandfather - pa pa  
@@ -3259,6 +3263,7 @@ possible (able, can) - bil
 post office - postakan  
 post-production - posprodute  
 postal stamp - posta cape  
+postfix - posfixe  
 postmark (postage stamp) - posta marke  
 postnatal - posnati  
 postposition - pospoze  
@@ -3285,8 +3290,9 @@ precede (pass before) - precese
 precious - bau di  
 precursor (predecessor, forerunner) - prekurser  
 predate (be before) - be cen  
+prefer (assess before) - prefere  
 prefer (favor) - max fili  
-prefix - cen fixe  
+prefix - prefixe  
 pregnant - hamil  
 prenatal - prenati  
 prepare (make ready) - fa redi  
@@ -3300,7 +3306,7 @@ press (pressure) - prese
 press (squeeze) - fa prese  
 press device - prese gi  
 press device - preser  
-previous (fore) - cen di  
+previous (fore) - pre di  
 prick (sting) - fa pin  
 priest (cleric) - din guru  
 primary school (elementary school, gradeschool) - baze xulakan  
@@ -3309,7 +3315,7 @@ print (stamp) - cape
 prison (imprisonment) - jela  
 prison (jail) - jelakan  
 prisoner - jela jen  
-pristine (virginal) - virje di  
+pristine (virginal) - virge di  
 privateer (buccaneer) - nave kape ja  
 problem (issue) - problem  
 problematic - problem di  
@@ -3320,9 +3326,9 @@ produce (create, make) - fa sana
 produce (lead forward) - produte  
 producer - produter  
 productive (fertile) - sana ja di  
-profession (job, occupation, trade, vocation) - pei gong  
-professional (occupational, career) - pei gong di  
-professional (pro) - pei gong ja  
+profession (job, occupation, trade, vocation) - pei kar  
+professional (occupational, career) - pei kar di  
+professional (pro) - pei kar ja  
 professor - profesor  
 program (set of structured activities) - program  
 programmer (coder) - program ja  
@@ -3450,6 +3456,7 @@ reduce (lead back, take back) - redute
 reduce - kamfa  
 reed (cane) - gana  
 reed pen - gana kalam  
+refer (assign back to) - refere  
 reflect (bend back) - reflexi  
 reflector - reflexir  
 reform - riforma  
@@ -3463,7 +3470,7 @@ reign (rule as an emperor) - imperi
 reinforce (replenish) - fa max lika  
 reinforcements - max ordu  
 reject (throw back) - rejete  
-relic - cen zaman xe  
+relic - prezaman xe  
 religion (worship) - din  
 religious - din di  
 reluctant - anicija  
@@ -3477,6 +3484,7 @@ rent (charter, lease) - kira kape
 rent out (let, lease) - kira don  
 repair (fix) - xuli  
 repair (fix, mend) - fa xuli  
+repair (restore to equal condition) - repar  
 repairer - xuli ja  
 repeat (iterate) - fa re  
 repel (drive back) - repele  
@@ -3653,10 +3661,13 @@ sausage - sosis
 savannah - garma zona caustan  
 save (deposit, bank) - banka  
 savory (umami) - umami  
-saw - sera  
+saw - xara  
+sawdust - xarafun  
+sawmill - xarakan  
 say (speak, talk) - fa loga  
 scaffolding (gangplank) - fute bano  
-scale (flake) - xalke  
+scale (flake) - foli  
+scale mail - foli kaska  
 scales (weighing device) - veze metre gi  
 Scandinavia - Eskandinavia  
 scandium - eskandi yum  
@@ -3727,11 +3738,11 @@ sentence (phrase) - jumla
 September - mes tisa  
 Serbia - Serbia  
 series (sequence, succession) - seri  
-servant - serve ja  
+servant - servaja  
 serve (give service) - fa serve  
-server (host machine) - serve gi  
-servername (hostname) - serve nam  
-service - serve  
+server (host machine) - servar  
+servername (hostname) - servar nam  
+service - serva  
 sesame - sesam  
 seven (7) - ceti  
 sew - kosi  
@@ -4369,7 +4380,7 @@ underestimate - fa min rai
 undergo (passivizing verb) - be  
 underground (subterrainean) - geo nice di  
 underside (underneath) - nice  
-unexpected - ancen vide di  
+unexpected - anprevide di  
 union - un ta liga  
 unit (measurement) - metre unta  
 unite (merge, integrate) - fa un xe  
@@ -4448,8 +4459,8 @@ vine - eskale tana
 vinegar - vin suan  
 vineyard - putau bagi  
 vinyl - vinil  
-virgin - virje  
-Virgin Islands, US - Virjin nesi  
+virgin (pristine, virginal; Virgo) - virge  
+Virgin Islands, US - Virgin nesi  
 virology - virus logi  
 virtue (morals) - bon moral  
 virtuous - bon moral di  
@@ -4630,7 +4641,7 @@ yellow - huang
 yellow starthistle - sol kentaur hua  
 Yemen - Yemen  
 yes - ya  
-yesterday - cen den  
+yesterday - preden  
 yoga - yoga  
 yogi - yoga ja  
 yogurt - yogur  

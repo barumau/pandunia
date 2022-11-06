@@ -19,8 +19,6 @@
  - alpaka  
  - alumin mate  
  - alumin oxide  
- - ama ja  
- - ama jen  
  - amen di  
  - amide  
  - amin  
@@ -120,7 +118,6 @@
  - cana  
  - cau kitaba  
  - cau medan  
- - cen ding  
  - ceng bede  
  - cese  
  - cin bra  
@@ -260,6 +257,7 @@
  - fen di  
  - fenil  
  - fenol  
+ - fere  
  - filme babu  
  - fin di  
  - fizika di  
@@ -269,6 +267,7 @@
  - fobi di  
  - fobi ja  
  - Fobos  
+ - foli kaska  
  - fon  
  - foni loga  
  - fonte kalam  
@@ -486,6 +485,8 @@
  - long dura  
  - long dura di  
  - long kata  
+ - luba jen  
+ - lubar  
  - lume  
  - lumen  
  - luna keke  
@@ -588,9 +589,9 @@
  - pedi  
  - pedi fili  
  - pedi fobi  
- - pei gong di  
- - pei gong ja  
- - pei gong jiva  
+ - pei kar di  
+ - pei kar ja  
+ - pei kar jiva  
  - pele  
  - pena kalam  
  - pente broxa  
@@ -676,8 +677,8 @@
  - sense ja  
  - sento nen di  
  - serime  
- - serve gi  
- - serve nam  
+ - servar  
+ - servar nam  
  - silke larva  
  - sim  
  - sim ja  
@@ -776,8 +777,8 @@
  - viki  
  - viki pedia  
  - violeta  
- - virje  
- - virje di  
+ - virge  
+ - virge di  
  - vise kitaba  
  - vise ma  
  - vise pa  
@@ -789,6 +790,7 @@
  - vuki ordu  
  - xa  
  - xah mata  
+ - xarafun  
  - xi  
  - xi Fulan  
  - xia  
@@ -824,11 +826,11 @@
  - agreser  
  - amira  
  - anair bio di  
- - anama  
  - anding  
  - ankode  
  - ankredi  
  - ankredibil  
+ - anluba  
  - ansona  
  - antomibil  
  - antranse vide di  
@@ -856,6 +858,7 @@
  - deprese  
  - despete  
  - deversi  
+ - disfere  
  - dispele  
  - distrate  
  - disturbe  
@@ -882,6 +885,7 @@
  - flexibil  
  - indika  
  - indute  
+ - infere  
  - inpele  
  - inpoze  
  - inpute  
@@ -914,10 +918,13 @@
  - paraprodute  
  - perversi  
  - poligene  
+ - posfixe  
  - pospoze  
  - pospoze  
  - posprodute  
  - precese  
+ - precun  
+ - prefere  
  - prekurse  
  - prepoze  
  - preser  
@@ -938,11 +945,13 @@
  - redon  
  - redura  
  - redute  
+ - refere  
  - reflexi  
  - reflexir  
  - regrese  
  - rejete  
  - remiti  
+ - repar  
  - repele  
  - represe  
  - respete  
@@ -979,6 +988,7 @@ admirał - hai amir ja
 adres - adres  
 adwokat - kanun vala  
 Afganistan - Afghan  
+afiks - afixe  
 Afryka - Afrika  
 agorafobia - medan fobi  
 agresywny - agresevi  
@@ -2085,7 +2095,7 @@ kiur - kuri yum
 kiwi - kivi  
 klapa - pada mun  
 klasa, kategoria - klas  
-klasyczny - cen yang di  
+klasyczny - preyang di  
 klasyfikować, kategoryzować - fa klas  
 klatka - kane kasa  
 klatka piersiowa - sine kasa  
@@ -2107,7 +2117,7 @@ koala - koala
 kobalt - kobalte  
 kobieta, dorosła samica - matur fem  
 kobieta; kobiecy - ni  
-kochany (drogi) - ama di  
+kochany (drogi) - luba di  
 kochać romantycznie - fa romanse  
 kocioł - dai pote  
 kod, szyfr - kode  
@@ -2120,7 +2130,7 @@ kola (coca-cola) - Koka Kola
 kola, napój gazowany - kola jus  
 kolacja - xam yam  
 kolano - guta  
-kolczuga - seri nete  
+kolczuga - seri kaska  
 kolec - dingi  
 kolej - tren dau  
 kolekcja, zbiór; zgromadzenie, zebranie - jami  
@@ -2535,7 +2545,7 @@ mięta pieprzowa - pipre minta
 mięta wodna - sui minta  
 mięta zielona (mięta kłosowa) - kane minte  
 miłośnik (fan, -fil) - fili ja  
-miłość (afekt) - ama  
+miłość (afekt) - luba  
 miłość romantyczna - romanse  
 miły, przyjemny, uroczy - huxi  
 Mjanma, Birma - Mianma  
@@ -2712,11 +2722,11 @@ Niemcy - Doice
 niemiecki - doice di  
 niemowlę - bebe  
 nienawidzić - hen  
-niepewny (podejrzliwy, niedowierzący) - dute ja  
+niepewny (podejrzliwy, niedowierzący) - xakija  
 niepokój - anpase  
 niepotrzebny - anyau di  
 nieskończoność - anlimite  
-niespodziewany - ancen vide di  
+niespodziewany - anprevide di  
 nietoperz - fei muxu  
 niewiele (mało) - kam  
 niewierny - andin ja  
@@ -3012,6 +3022,7 @@ pierdnięcie - pede
 pierdzieć - fa pede  
 pierwiastek (jednostki podstawowej) - so  
 pierwszy, numer jeden - un me  
+pierwszy, początkowy - preme  
 pierwszy, początkowy - xuru di  
 pierś - sine  
 pierścień - ring  
@@ -3045,7 +3056,7 @@ pięciościan (pryzmat) - lima fase
 piękno - meita  
 piękny, przystojny - mei  
 pięć (5) - lima  
-piła - sera  
+piła - xara  
 piłka - bol  
 piłka do koszykówki (koszykówka) - baske bol  
 piłka nożna - fute bol  
@@ -3144,7 +3155,8 @@ popołudnie - xam dia
 poprawić, poprawiać, prostować, korygować - fa sahi  
 poprawny (wykonalny) - funsibil  
 poprowadzić do (doprowadzić do, powodować) - fa asar  
-poprzedni - cen di  
+poprzedni - pre  
+poprzedni - pre di  
 poprzedzić, poprzedzać - be cen  
 populacja - demi polita  
 popularny, modny - faxon di  
@@ -3250,7 +3262,7 @@ proces, procedura - culi
 proch strzelniczy - barude  
 produkcja - sana  
 produktywny (żyzny) - sana ja di  
-profesja, zajęcie, zawód - pei gong  
+profesja, zajęcie, zawód - pei kar  
 profesor - profesor  
 program - program  
 programista, koder - program ja  
@@ -3284,7 +3296,7 @@ przeciwnie do ruchu wskazówek zegara - rota leu
 przedmiot (obiekt) - vutu  
 przedporodowy - prenati  
 przedpołudnie - suba dia  
-przedrostek (prefiks) - cen fixe  
+przedrostek (prefiks) - prefixe  
 przedłużyć, przedłużać - fa long  
 przegrany, pokonany - xiti bai ja  
 przegrać, przegrywać - fa xiti bai  
@@ -3305,10 +3317,10 @@ przestępstwo - krim
 przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić) - be migra  
 przeszkodzić, przeszkadzać, robić kłopot - fa turbe  
 przeszkodzić, przeszkadzać, robić kłopot - turbe  
-przeszłość - cen zaman  
+przeszłość - prezaman  
 przeszły, miniony - pas di  
 przetwarzać - resikle  
-przewidzieć (spodziewać się) - cen vide  
+przewidzieć (spodziewać się) - previde  
 przewodnik - gida buku  
 przewodnik - gida ja  
 przewód (kanał) - kanal ja  
@@ -3317,7 +3329,7 @@ przeznaczenie, los - kisma
 przeznaczyć - cun yo gol  
 przeźroczysty, jasny - klar  
 przy, z, na, w, u - a  
-przyczepić, przymocować - fa fixe  
+przyczepić, przymocować - fixe  
 przygoda - ventur  
 przygoda w lochu - donjon ventur  
 przygotować, przygotowywać - fa redi  
@@ -3423,7 +3435,7 @@ rejestr - loge
 rekin - xayu  
 religia, wyznanie - din  
 religijny - din di  
-relikwia - cen zaman xe  
+relikwia - prezaman xe  
 Ren - Ren  
 ren - ren yum  
 reporter - reporter  
@@ -3688,7 +3700,7 @@ spis treści (tabela zawartości) - in liste
 spisek (konspiracja) - sir plan  
 spocony - sueda di  
 spodnie (pantalony, portki) - pante  
-spodziewany (przewidziany) - cen vide di  
+spodziewany (przewidziany) - previde di  
 spokojny - xanti di  
 sporokarp - fungu frute  
 sport, lekkoatletyka - esporte  
@@ -3698,7 +3710,7 @@ spowodować, powodować - fa sabu
 społeczeństwo, system społeczny - sosi  
 społeczny - sosi di  
 sprawdzić (sprawdzać, skontrolować, zbadać) - inspete  
-sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać - ceke  
+sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać - ceka  
 sprawiedliwość - adilta  
 sprawiedliwy - adil  
 sprawić ból, sprawiać ból - fa pasi  
@@ -3725,7 +3737,7 @@ Stan Nowy Jork - neu Yorke siti
 Stany Zjednoczone Ameryki - Unta Dex de Amerika (UDA)  
 Starożytny Egipt (Kemet) - Keme  
 stary (sędziwy, wiekowy) - lau  
-stary, starożytny - cen zaman di  
+stary, starożytny - prezaman di  
 starzec - lau jen  
 statyczny, stacjonarny, nieruchomy - estasi di  
 stać - lipa  
@@ -3792,7 +3804,7 @@ szachy - xah geme
 szafran - safran  
 szakal - xakal  
 szal, szalik - xal  
-szala  - xalke  
+szala  - foli  
 szaleństwo - divanta  
 szalony - divan  
 szaman - xaman  
@@ -3871,9 +3883,9 @@ słowo - lexi
 słoń - gaja  
 słońce - sol  
 słuchać - fa ore  
-sługa - serve ja  
+sługa - servaja  
 słup (pal, kołek) - moka kane  
-służba - serve  
+służba - serva  
 służyć - fa serve  
 słód - malte  
 T - T  
@@ -3904,6 +3916,7 @@ taoista - dau din ja
 taoizm - dau din  
 tapeta - mur kaguji  
 tarcza - defa bano  
+tartak - xarakan  
 tatuaż - tatu  
 taxi, taksówka - taxi gar  
 taśma - tepe  
@@ -4139,8 +4152,7 @@ Watykan, Państwo Watykańskie - Vatikan
 ważka - libele  
 ważny - ham di  
 wciąż, nadal; kontynuować, wznawiać, ponawiać - zoku  
-wcześniej (uprzednio, poprzednio, przedtem) - cen  
-wczoraj - cen den  
+wczoraj - preden  
 wdowa - vidou  
 wdzięczność - xukurta  
 według ruchu wskazówek zegara - rota raite  
@@ -4269,7 +4281,7 @@ wspólny (wzajemny) - kon
 wspólny (wzajemny) - kon su  
 wspólny język - konbaxa  
 współczucie - sam emos  
-współpracować (kolaborować) - kon gong  
+współpracować (kolaborować) - kon kar  
 współpracować (kolaborować) - konkar  
 wstecz - a re  
 wstrzyknąć, wstrzykiwać - fa juxa  
@@ -4315,7 +4327,7 @@ wyspa - nesi
 Wyspa Man - Manin nesi  
 Wyspy Alandzkie - Olande nesi  
 Wyspy Cooka - Kuke nesi  
-Wyspy Dziewicze USA - Virjin nesi  
+Wyspy Dziewicze USA - Virgin nesi  
 Wyspy Georgia Południowa i Sandwich Południowy - Sude Jorjia i Sude Sanduice nesi  
 Wyspy Kokosowe - Kokos nesi  
 Wyspy Marshalla - Marxal nesi  
@@ -4341,7 +4353,7 @@ wzywać (wezwać, dodawać, dodać) - fa zai
 wóz, wózek - gar  
 wąchać - fa aroma  
 wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność - xaki  
-wątpliwy (niewiarygodny, podejrzany) - dutebil  
+wątpliwy (niewiarygodny, podejrzany) - xakibil  
 wąż - serpe  
 węgiel - karbe  
 Węgry - Magyar  
@@ -4389,7 +4401,7 @@ zajęty - mang
 zaklecie - magi asar  
 zakrzywiony - kurva di  
 zakupy (sprawunki, shopping) - xopi  
-zakładać (założyć) - cen si  
+zakładać (założyć) - pre si  
 zakładać (założyć, ustanowić) - fa baze  
 Zambia - Zambia  
 zamek (zapięcie) - tala  
@@ -4446,7 +4458,6 @@ zawsze - pan sata
 zazdrosny - garde zelo  
 zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad - fa marke  
 założyciel - baze ja  
-załącznik (przyrostek, afiks) - fixe  
 zbierać opłaty lub podatki (zebrać opłaty lub podatki) - kape yo taxi  
 zbiornik (cysterna, pojemnik, rezerwuar) - tanki  
 zbiorowy, zbiorczy - jami di  

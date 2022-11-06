@@ -80,8 +80,8 @@ amide - amide
 amie - dosti  
 amine - amin  
 amiral - hai amir ja  
-amour (affection) - ama  
-amoureux - ama ja  
+amour (affection) - luba  
+amoureux - lubar  
 ampoule (fiole) - ampul  
 ampère - amper  
 américain - Amerika di  
@@ -187,7 +187,7 @@ automne - pada mosim
 autopsie - nekro tomi  
 autre - alo  
 autrement - alo di  
-avant - cen  
+avant - pre  
 avec (commun) - kon  
 aventure - ventur  
 aventurier - ventur ja  
@@ -375,7 +375,7 @@ cardon - kardon karcof
 carotte - karote  
 caroube - karuba  
 carreau (tuile) - tail  
-carrière - pei gong jiva  
+carrière - pei kar jiva  
 carte (plan) - topo metre grafi  
 carte - karta  
 carte - karte  
@@ -428,7 +428,7 @@ chaux - kalsi mate
 chef - xefe  
 chemise - kamisa  
 chenil - vaf parke  
-cher - ama di  
+cher - luba di  
 chercher - soki  
 cheveux - sar kexa  
 chien - vaf  
@@ -447,7 +447,7 @@ chut - tix
 chèque - ceke  
 chèque cadeau - don xe ceke  
 chèque de voyage - safar ceke  
-chéri - ama jen  
+chéri - luba jen  
 chêne - baluta  
 chêne pédonculé - europa baluta  
 chœur - ganir grupe  
@@ -468,7 +468,7 @@ cloche - dang gi
 clé (clef) - cavi  
 cobalt - kobalte  
 coeur - kerne  
-collaborer - kon gong  
+collaborer - kon kar  
 collaborer - konkar  
 coller - fa glu  
 colorant - rang mate  
@@ -709,7 +709,7 @@ expulser - expele
 extraire - fa vai trata  
 extraire - extrate  
 extérieur - vai  
-exécrer - anama  
+exécrer - anluba  
 
 ## F  
 
@@ -875,7 +875,7 @@ herbe (gazon) - cau
 Hesse - Hese  
 heure - hor  
 heureux (se plaire) - suka  
-hier - cen den  
+hier - preden  
 Hindustan - Hindi dexa  
 hippopotame  - gubu  
 hiver - leng mosim  
@@ -938,6 +938,7 @@ infidèle (incroyant) - ankredija
 inflammation - tis  
 informatique - data culi logi  
 infrastructure - baze strute  
+inférer - infere  
 innomé - nam hin  
 insecte - dudu  
 insomnie - ansona  
@@ -1525,7 +1526,7 @@ problème - problem
 problématique - problem di  
 procédé (rite) - riti  
 professeur (enseignant) - xula guru  
-profession (métier) - pei gong  
+profession (métier) - pei kar  
 profond - fase tele  
 programme - program  
 projectile - lanse xe  
@@ -1548,6 +1549,7 @@ précieux - bau di
 précurseur - prekurser  
 précéder - precese  
 préférer - max fili  
+préférer - prefere  
 prénatal - prenati  
 présent - zai di  
 prêter (empruntre) - jeka  
@@ -1647,10 +1649,12 @@ rutherfordium - ruterfor yum
 ruthénium - rus yum  
 réaction - reation  
 réagir - reati  
+référer - refere  
 réglisse - alkasus  
 réparateur - xuli ja  
 réparation - xuli  
 réparer - fa xuli  
+réparer - repar  
 réponse - javabu  
 répéter - fa re  
 répéter - rifete  
@@ -1703,7 +1707,9 @@ savoir - san
 Scandinavie - Eskandinavia  
 scandium - eskandi yum  
 schtroumpf - nil elfe  
-scie - sera  
+scie - xara  
+scierie - xarakan  
+sciure - xarafun  
 scorpion - akrabe  
 sculpteur - eskulte ja  
 scutelle - oste xalke  
@@ -1939,8 +1945,8 @@ veuve - vidou
 viande - nama  
 vice-roi - vise raja  
 vide - hali  
-vierge - virje  
-vieux (ancien) - cen zaman di  
+vierge - virge  
+vieux (ancien) - prezaman di  
 vieux (âgé, ancien) - lau  
 vigne - eskale tana  
 vignoble - putau bagi  
@@ -2016,7 +2022,7 @@ zéro - siro
 éblouir (étonner, stupéfier, surprendre) - fa ajabu  
 échec - xiti bai  
 échec et mat - xah mata  
-échelle - xalke  
+échelle - foli  
 école (collège) - xulakan  
 école primaire - baze xulakan  
 école secondaire - jong xulakan  

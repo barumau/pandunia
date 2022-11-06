@@ -11,7 +11,7 @@
 **Afrika** *África* ← ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika, eng:spa:por:Africa, fra:Afrique, rus:Африка (Afrika), hin:अफ़्रीका (afrīkā), ben:আফ্রিকা (aphrika), jpn:アフリカ (Afurika), kor:프리카 (Apeurika)  
 **agile** *ágil* ← eng:fra:agile, spa:por:ágil, deu:agil  
 **agri** *cultivar* ← zho:农民 (nóng), yue:農民 (nung4), jpn:農 (nō), kor:농 (nong), vie:nông  
-**aha** *entender (comprender; ajá)* ← eng:aha; uh-huh, deu:fra:aha, spa:ajá, por:ahá, rus:ага (aha), kor: 아하 (aha), zho:啊哈 (ahā), ara: آه (ʾāh)  
+**aha** *entender (comprender; ajá)* ← eng:aha; uh-huh, deu:fra:aha, spa:ajá, por:ahá, rus:ага (aha), hin:अहां (ahā~), kor: 아하 (aha), zho:啊哈 (ahā), ara: آه (ʾāh)  
 **air** *aire* ← eng:fra:spa:air, por:ar, rus:аэро- (aero-)  
 **ais krem** *helado* ← eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), ben:আইসক্রীম (aisôkrīm), may:es krim, swa:aiskrimu  
 **ais** *hielo* ← eng:ice, deu:Eis, may:és  
@@ -25,7 +25,6 @@
 **almari** *armario* ← spa:armario, por:armário, hin:अलमारी (almārī), ben:আলমারি (almari), may:lemari, swa:almari  
 **alo** *otro* ← ell:άλλος (állos), ltn:alius, eng:fra:allo-, por:spa:alo-, rus: алло- (allo-)  
 **alumin** *aluminio* ← eng:aluminium, fra:aluminium, spa:aluminio, por:alumínio, rus:алюминий, zho:铝 (lǚ), jpn:アルミニウム, kor:알루미늄, vie:nhốm, hin:एल्युमिनियम, ben:অ্যালুমিনিয়াম, may:aluminium, swa:alumini, ara: الومينيوم  
-**ama** *amor* ← spa:por:amar, fra:aimer  
 **ama** *pero (sino)* ← ara: أما‎ (ʔamma), tur:ama, fas:urd:اما‎ (ammâ), hau:amma, yor:àmọ́  
 **amen** *confiar (contar con)* ← heb: אָמֵן‎, (ʾāmēn), ara: آمَنَ‎ (āmana), swa:amini, tur:amin + ell:ἀμήν (ámén), eng:deu:fra:pol:spa:amen, zho:阿门 (āmén), kor:아멘 (amen), jpn:アーメン (āmen), vie:a-men  
 **amerika yum** *americio* ← eng:americium, fra:américium, spa:americio, por:amerício, rus:америций, zho:镅 (méi), jpn:アメリシウム, kor:아메리슘, vie:amerixi, hin:अमेरिशियम, ben:অ্যামেরিসিয়াম, may:amerisium, swa:ameriki, ara: أمريكيوم  
@@ -218,9 +217,8 @@
 **cati** *techo (tejado)* ← hin:छत (chat); छदि (chadi), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr) + ara: سَطْح‎ (saṭḥ)  
 **cau** *hierba* ← zho:草 (cǎo), yue:草 (cou2), wuu:草 (tshau2), jpn:草 (sō), vie:tháu  
 **cavi** *llave* ← por:chave, spa:llave, hin:चाबी (cābi), ben:চাবি (cabi), tam: சாவி (cāvi), wol:caabi, kon:nsapi  
+**ceka** *revisar (chequear, examinar, inspeccionar)* ← eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする (chekkusuru)  
 **ceke** *cheque* ← eng:spa:por:cheque, fra:chèque, rus:чек (ček), ara: شِيك‎ (šēk), jpn:チェック (chekku), vie:séc, hin:चेक (cek), ben:চেক (cek), may:cek, ind:cheki  
-**ceke** *revisar (chequear, examinar, inspeccionar)* ← eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする (chekkusuru)  
-**cen** *más temprano (antes, haber, en el pasado)* ← zho:前 (qián), yue:前 (cin4), jpn:前 (zen), kor:전 (jeon), vie:tiền  
 **ceng** *capa (piso, planta, estrato)* ← zho:层 (céng), yue:層 (cang4), wuu:層 (zen3), kor:층 (chŭng), vie:tầng  
 **cepe** *capturar (apresar)* ← eng:reception, deu:Rezeption, fra:réception, spa:recepción, por:recepção, rus:рецепция (recepciya), jpn:レセプション (resepushon), kor:리셉션 (risepsyeon)  
 **ceres yum** *cerio* ← eng:cerium, fra:cérium, spa:cerio, por:cério, rus:церий, zho:铈 (shì), jpn:セリウム, kor:세륨, vie:xeri, hin:सेरियम, ben:সেরিয়াম, may:serium, swa:seri, ara: سيريوم  
@@ -359,7 +357,6 @@
 **fa daka** *cubrir (tapar)* ← hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck  
 **fa estude** *estudiar (examinar)* ← eng:study, fra:étudier, spa:estudiar, por:estudar, rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)  
 **fa fei** *volar* ← zho:飞 (fēi), yue:飛 (fei1), wuu:飛 (fi1), jpn:飛 (hi), kor:비 (bi), vie:bay  
-**fa fixe** *fijar (pegar, asegurar)* ← eng:fix, fra:fixer, spa:fijar, por:fixar  
 **fa koste** *costar* ← eng:cost, spa:costar, por:custar, fra:coûter, deu:kosten  
 **fa piping** *criticar (evaluar)* ← zho:批评 (pīpíng), vie:phê bình, kor:비평 (bipyeong)  
 **fa ratibu** *ordenar (arreglar)* ← ara: رَتَّبَ (rattaba), swa:ratibu, hau:rattaba, fas: ترتيب (tartīb), hin:तरतीब (taratība), may:tertib, tur:tertip  
@@ -402,6 +399,7 @@
 **fiorde** *fiordo* ← nor:eng:fjord, fra:may:fiord, por:fiorde, spa:fiordo, rus:фьорд (f’ord), jpn:フィヨルド (fiyorudo)  
 **firuze** *turquesa (piedra preciosa)* ← per:(firuze), tur:firuze, ara:(fayrūz), swa:feruzi, hin:फीरोज़ा (phīrozā), ben:ফিরোজা (phiroja), may:pirus, rus:бирюза (biryuza)  
 **fito** *planta (vegetal, vegetación)* ← eng:phyto-, -phyte, deu:fra:phyto-, spa:por:fito-, rus:фито- (fito-)  
+**fixe** *fijar (pegar, asegurar; accesorio, afijo)* ← eng:fix, fra:fixer, spa:fijar, por:fixar  
 **fizika suta** *física* ← eng:physics, spa:por:física, rus:физика (fizika), tur:may:fizik, ara:فِيزِيقَا‎ (fīzīqā), swa:fizikia, hin:फ़िज़िक्स (fiziks)  
 **flam** ** ← eng:flame, fra:flamme + zho:炎 (yán), yue:炎 (jim4), kor:염 (yeom), vie:viêm  
 **flece** *flecha* ← spa:por:flecha, fra:flèche, eng:fletch  
@@ -410,6 +408,7 @@
 **flur** *flúor* ← eng:fluorine, fra:fluor, spa:flúor, por:flúor, rus:фтор, zho:氟 (fú), jpn:フッ素, kor:플루오르, vie:flo, hin:फ्लोरीन, ben:ফ্লুরিন, may:fluor, swa:florini, ara: فلور  
 **fobi** *miedo (-fobia)* ← eng:-phobia, spa:por:may:-fobia, fra:deu:-phobie, rus:-фобия (-fobiya), tur:-fobi  
 **foku** *concentrar (enfocarse)* ← eng:focus, spa:por:foco, deu:Fokus, rus:фо́кус, fas:فوکوس‎ (fokus)  
+**foli** *escama* ← ell:φολῐ́ς (folís), ara: فَلْس‎ (fals), fas: فلس‎ (fals) + deu:Flocke, eng:flake  
 **foni** *fono (segmento acústico)* ← eng:fra:phone, spa:fono, por:fone, rus:фона (fona), may:fon + fas: تلفن‎ (telefon), hin:फ़ोन (fon), ben:ফোন (phon), tur:telefon  
 **fonte** *fuente (manantial)* ← por:fonte, spa:fuente, rus:фонтан (fontan), fra:fontaine, eng:fountain, jpn:噴水 (funsui)  
 **fonyo** *mijo fonio* ← wol:foño, bam:fini, mnk:fíndi, mku:fónĩ, ful:fonnye, swa:mfonio, eng:fra:spa:may:fonio, deu:Foniohirse, jpn:フォニオ (fonio)  
@@ -891,6 +890,7 @@
 **lote** *lote (grupo)* ← por:spa:lote, eng:fra:lot  
 **lotra** *nutria* ← eng:otter + fra:loutre, spa:tgl:lutrino, por:lontra + rus:выдра (vydra)  
 **lou** *chorrear* ← zho:漏 (lòu), yue:漏 (lau6), jpn:漏 (rō), 루 (ru)  
+**luba** *amor* ← deu:Liebe, rus:любовь (lyubov), ara: حُبّ (ḥubb), swa:hibu: huba, tur:muhabbet, fas: محبت (mohabbat), hin: मुहब्बत (muhabbat); लुभ् (lubh), hmn:hlub  
 **luga** *verde* ← zho:绿 (lǜ), yue:綠 (luk6), vie:lục, kor:록/녹 (rok/nok), jpn: 緑色 (ryokushoku)  
 **luka** *seis (6)* ← zho:六 (liù), yue:六 (luk6), jpn:六 (roku), kor:육/륙 (六, yuk/ryuk), vie:lục  
 **lulu** *perla* ← amh:ሉል (lul), ara:(luʾluʾa), swa:lulu, orm:lu'ulu'a, hau:lu'ulu'u, ful:luuluuri, fas:(lo'lo')  
@@ -1215,6 +1215,7 @@
 **poze** *posar (pose, postura)* ← eng:spa:por:fra:pose, deu:Pose, rus:поза (poza), jpn:ポーズ (pōzu)  
 **prati** *práctica* ← eng:practice, fra:pratique, por:prática, tur:pratik, pol:praktyka, hin:प्रथा (prathā)  
 **prazedim yum** *praseodimio* ← eng:praseodymium, fra:praséodyme, spa:praseodimio, por:praseodímio, rus:празеодим, jpn:プラセオジム, kor:프라세오디뮴, vie:prazeođim, hin:प्रासियोडाइमियम, ben:প্র্যাসেওডিমিয়াম, may:praseodinium, swa:praseodimi, ara: براسوديميوم  
+**pre** *previo (anterior; antes; preceder, anteceder)* ← eng:fra:spa:por:pre-  
 **prese** *presión* ← fra:pression, spa:presión, por:pressão, rus:пресс (press), jpn:プレス (puresu)  
 **prezidente** *presidente* ← eng:president, spa:por:presidente, rus:президент (prezident), kat:პრეზიდენტი (ṗrezidenṭi), fas:پرزیدنت‎ (perezident), may:presiden  
 **proba** *intentar (probar)* ← deu:Probe, eng:prove; probe, spa:probar, por:provar, rus:проба  
@@ -1337,11 +1338,10 @@
 **seng** *crudo* ← zho:生 (shēng), yue:生, jpn:生 (sei), kor:생 (saeng), vie:sống  
 **sense** *sentido* ← eng:sense, spa:por:sentido, fra:sens  
 **sento** *cien (100)* ← fra:cent, spa:cien, por:cem, ita:cento, eng:cent-, hin:शत (śat), ben:শত (śôt)  
-**sera** *sierra* ← spa:sierra, por:serra, eng:serrate  
 **serami** *cerámica* ← eng:ceramic, spa:cerámica, por:cerâmico, fra:céramique, rus:керамика (keramika), ben:সিরামিক (sirāmika), tur:mel:seramik  
 **seri** *serie* ← eng:series, fra:série, spa:serie, rus:серия (seriya), tur:seri + hin:सिलसिला (silsilā), ara:(silsila), tur:silsile, swa:silisili, fas: سلسله‎ (selsele) + zho:系列 (xìliè)  
 **serpe** *serpiente (culebra)* ← hin:सर्प (sarp), ben:সাপ (sap), tel:(sarpamu), fra:eng:serpent, spa:serpiente, + zho:蛇 (shé), + yor:sèbé  
-**serve** *servicio* ← eng:fra:service, por:serviço, rus:сервис (servis), tur:servis + hin:सेवा (sevâ), ben:সেবা  (seba)  
+**serva** *servicio* ← eng:fra:service, por:serviço, rus:сервис (servis), tur:servis + hin:सेवा (sevâ), ben:সেবা  (seba)  
 **sesam** *ajonjolí (sésamo)* ← eng:sesame, rus:сезам (sezam), spa:sésamo, ara:(simsim), swa:simsim, tur:susam  
 **sexe** *sexo* ← eng:sex, fra:sexe, spa:por:sexo, rus:секс (seks), tur:seks, hin:सेक्स (seks), jpn:セックス (sekkusu), kor:섹스 (sekseu)  
 **si** *si (suponer)* ← fra:spa:si, por:se, tur:ise, zho:使 (shǐ); 要是 (yàoshǐ), yue:使 (si2); 要是 (jiu3si6)  
@@ -1546,7 +1546,7 @@
 **vin** *vino* ← fra:vin, spa:vino, rus:вино (vino), eng:wine, deu:Wein, hin:वाइन (vāin), jpn:ワイン (wain), swa:mvinyo  
 **vinil** *vinilo* ← eng:vinyl, spa:vinilo, por:vinil, fra:vinyle, rus:винил (vinil), jpn:ビニル (viniru)  
 **violeta** *violeta* ← eng:por:fra:violet, spa:violeta, deu:violett, rus:фиолетовый (fioletovyy), jpn:バイオレット (baioretto), kor:보라 (bola)  
-**virje** *virgen* ← eng:virgin, fra:vierge, spa:virgen, por:virgem  
+**virge** *virgen (virginal)* ← eng:virgin, fra:vierge, spa:virgen, por:virgem  
 **virus logi** *virología* ← pol:wirusologia, rus:вирусология (virusologiya)  
 **virus** *virus* ← eng:spa:fra:may:virus, por:vírus, rus:вирус (virus), tur:virüs, hin:वाइरस (vāirasa), jpn:ウイルス (uirusu)  
 **vise** *vice- (alternativa, sustituto)* ← eng:fra:spa:por:vice-, rus:вице- (vitse-), deu:vize-  
@@ -1570,12 +1570,12 @@
 **xakal** *chacal* ← fas: شغال‎ (šağâl), tur:çakal, eng:jackal, fra:spa:por:chacal, rus:шакал (šakal), ben:শৃগাল (śrigal), may:jakal, jpn:ジャッカル (jakkaru), kor:자칼 (jakal), tha:แจ็กคัล (jɛ̀k-kal)  
 **xaki** *duda* ← ara: شَكَّ‎ (šakka), fas: شک‎ (šak), hin:शक (śak); शंका (śankā), may:syak, tur:şek, swa:shaka; -shuku, hau:shakka  
 **xal** *bufanda (chal)* ← fra:châle, rus:шаль (šal), por:xaile, eng:shawl, tur:şal  
-**xalke** *escama* ← eng:scale, fra:échelle, hin:शल्क (shalka)  
 **xam** *noche (tarde)* ← hin:शाम (śām), ben:শাম (śam), tur:akşam  
 **xaman** *chamán (brujo, hechicero)* ← eng:shaman, fra:chaman, spa:chamán, rus:шаман (šaman), tur:şaman, may:shaman, jpn:シャーマン (shāman)  
 **xan** *montaña (colina)* ← zho:山 (shān), yue:山 (saan1), jpn:山 (san), kor:산 (san), vie:sơn  
 **Xani** *Saturno* ← hin:शनि (śani), ben:শনি (śôni), tam:சனி (saṉi), tha:เสาร์ (sǎo)  
 **xanti** *descanso (alivio)* ← hin:शांति (shānti), ben:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), mar:शांत (shānta), tel:శాంతి (shānti), guj:શાંતિ (shānti), khm:សន្តិ (sɑnte’), eng:por:shanti, rus:шанти (shanti), jpn:シャンティ (shanti)  
+**xara** *sierra* ← alb:sharrë + spa:sierra, por:serra + आरा (ārā) + ara: مِنْشَار‎ (minšār), fas: منشار‎ (menšâr)  
 **xarma** *vergüenza (pena)* ← fas:(šarm),  urd:(śarma), hin:शर्म (śarma), deu:Scham, eng:shame, rus:срам (sram)  
 **xarnir** *bisagra (gozne)* ← fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)  
 **xarti** *condición (requisito, estipulación)* ← tur:şart, ara:fas:(šart), swa:sharuti, hin:शर्त (śart), ben:শর্ত (śôrt)  
@@ -1612,7 +1612,7 @@
 **xuli** *arreglo* ← zho:修理 (xiūlǐ), jpn:修理 (shuri), kor:수리 (suri)  
 **xuru** *comienzo (inicio, principio)* ← ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)  
 **xux** *chito (chist)* ← eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus  
-**ya** *sí* ← eng:yeah, deu:ja, kor:예 (ye), jpn:ええ (ē) + may:ya + ara: إِِي (ʾiī)   
+**ya** *sí* ← eng:yeah, deu:ja, kor:예 (ye), may:ya  
 **yake** *yac* ← eng:deu:fra:spa:tur:yak, por:iaque, hin:याक (yāk)  
 **yaki** *aproximadamente* ← kor:약 (yak), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)  
 **yam** *comer (bebir)* ← khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam  

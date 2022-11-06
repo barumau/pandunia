@@ -175,7 +175,7 @@ havas la saman formon kaj kiel subjekto kaj kiel objekto.
 **sal tu!**
 Saluton al vi!
 
-**mi ame tu.**
+**mi luba tu.**
 Mi amas vin.
 
 <small>Etimologio. **tu**

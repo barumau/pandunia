@@ -47,10 +47,6 @@ alofa - alterar
 alo fen di - distinto  
 alumin - alumínio  
 ama - mas  
-ama - amor  
-ama di - querido (caro)  
-ama ja - amante  
-ama jen - querido  
 amen - confiar (contar com)  
 amen di - honesto (sincero)  
 amerika yum - amerício  
@@ -273,8 +269,6 @@ cau - grama (relva)
 cau medan - gramado  
 cavi - chave  
 ceke - cheque  
-cen den - ontem  
-cen zaman di - velho (antigo)  
 ceng bede - beliche  
 • acepe - aceitar  
 • intercepe - interceptar  
@@ -337,6 +331,7 @@ defa kaska - armadura
 deha - aldeia (vila)  
 dele - demora (atraso, espera)  
 den - dia (24 horas)  
+• preden - ontem  
 den loge - diário  
 des - dez  
 deu - deus  
@@ -488,6 +483,9 @@ fei - voo
 fen - parte  
 fen gata - análise  
 fenol - fenol  
+• infere - inferir  
+• prefere - preferir  
+• refere - referir  
 fermi yum - férmio  
 fero - ferro  
 fete - fazer (fato, facto)  
@@ -506,6 +504,7 @@ flerof yum - fleróvio
 flur - flúor  
 fluride - fluoreto  
 fobi ja - assustador  
+foli - escama  
 fonte kalam - caneta de tinta permanente  
 fora - furar (perfurar)  
 • dusforma - desfigurar  
@@ -880,7 +879,7 @@ kolum - poste (coluna)
 komputa di - digital  
 kon - com (comum)  
 kon bon - combinar com  
-kon gong - colaborar  
+kon kar - colaborar  
 kon sel ja - consultor  
 kon trati - pacto  
 konun - comum  
@@ -1003,6 +1002,10 @@ long krokodil - crocodilo
 long tire - estirar  
 lotra - lontra  
 lou - vazar  
+luba - amor  
+luba di - querido (caro)  
+luba jen - querido  
+lubar - amante  
 luga - verde  
 luka - seis (6)  
 lulu table - ábaco  
@@ -1268,6 +1271,7 @@ panka - asa
 pante - calças  
 papaya - mamão (papaia)  
 par - igual (par)  
+• repar - reparar  
 par fase - nivel  
 par jen - par  
 par vezeta - equilíbrio  
@@ -1294,8 +1298,8 @@ pati mise - infecção (contágio)
 pau gi - arma de fogo  
 pauza - pausa  
 pede - peido  
-pei gong - profissão  
-pei gong jiva - carreira  
+pei kar - profissão  
+pei kar jiva - carreira  
 • expele - expelir  
 • inpele - impelir  
 • propeler - propulsor (hélice)  
@@ -1494,7 +1498,6 @@ sense xaka - tentáculo
 sento - cem (100)  
 sento nen - século  
 sento nen di - centénario  
-sera - serra  
 serami - cerâmico  
 seri - série (sequência)  
 serime - elo  
@@ -1680,7 +1683,7 @@ veze di - pesado
 vide - ver  
 vidou - viúvo  
 violeta nil - purpúreo (roxo)  
-virje - virgem  
+virge - virgem  
 vise ma - madrasta  
 vise pa - padrasto  
 vise raja - vice-rei  
@@ -1704,7 +1707,6 @@ xah geme - xadrez
 xah mata - xeque-mate  
 xakal - chacal  
 xaki - dúvida  
-xalke - escama  
 xam - noitinha  
 xampan - Champagne  
 xampan vin - champanhe  
@@ -1713,6 +1715,9 @@ Xani - Saturno
 xaniden - sábado  
 xanti - descanso (repouso)  
 xanti di - tranquilo (calmo)  
+xara - serra  
+xarafun - serragem  
+xarakan - serraría  
 xatan - opor  
 xatan ja - Satanás  
 xava - assar  
@@ -1780,6 +1785,7 @@ yuterbi yum - itérbio
 
 zai zaman di - corrente (atual)  
 zaman - tempo  
+• prezaman di - velho (antigo)  
 zar kube - dado  
 zardux magi ja - mago  
 zebra - zebra  

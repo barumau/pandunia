@@ -49,8 +49,6 @@ alo fen di - раздельный
 alpaka - альпака  
 alumin - алюминий  
 ama - а (но)  
-ama - любовь  
-ama ja - любовник  
 amen - доверять (понадеяться)  
 amenbil - верный  
 amenbilta - верность  
@@ -297,10 +295,6 @@ cau kitaba - цаошу
 cau medan - газон  
 cavi - ключ  
 ceke - чек  
-cen - раньше  
-cen den - вчера  
-cen ding - по умолчанию  
-cen zaman di - старый (древний)  
 ceng bede - двухъярусная кровать  
 • excepe - выгнать (исключить, кроме)  
 • intercepe - перехватывать  
@@ -328,6 +322,7 @@ coi - зелень
 coklate - шоколад  
 copu - мотыга  
 culi - процесс  
+• precun - по умолчанию  
 
 ## D  
 
@@ -369,6 +364,7 @@ defa bano - щит
 defa kaska - доспехи  
 deha - деревня (село)  
 den - день (сутки)  
+• preden - вчера  
 den loge - дневник  
 deu - бог  
 deu kata - миф  
@@ -543,6 +539,7 @@ fei muxu - летучая мышь
 fen - parte  
 fen gata - анализ  
 fenol - фенол  
+• prefere - предпочитать  
 fermi yum - фермий  
 fero - железо  
 fete - факт  
@@ -565,6 +562,7 @@ flece - стрела (стрелка)
 flerof yum - флеровий  
 flur - фтор  
 fluride - фторид  
+foli - чешуя  
 fonte kalam - авторучка  
 for - прочь (вон)  
 fora - сверлить (бурить)  
@@ -962,7 +960,7 @@ koda - хвост
 komputa di - цифровой  
 kon bon - соответствовать (сочетаться)  
 kon forma - применяться (согласоваться)  
-kon gong - сотрудничать (кооперировать)  
+kon kar - сотрудничать (кооперировать)  
 kon pasi - жалость (сердобольность)  
 kon sel ja - консультант (советник)  
 kon trati - контракт  
@@ -1082,6 +1080,8 @@ long pipre - перец длинный
 long tire - вытянуть  
 lotra - выдра  
 lou - протекать (просочиться)  
+luba - любовь  
+lubar - любовник  
 luga - зелёный  
 luka - шесть (6)  
 lulu table - счёты (абак)  
@@ -1352,6 +1352,7 @@ pante - брюки
 papagai - попугай  
 papaya - папайя  
 par - равный  
+• repar - починить  
 par fase - уровень  
 par jen - ровня  
 parta - равенство (паритет)  
@@ -1378,10 +1379,10 @@ pau - стрелять
 pau gi - пистолет  
 pauza - пауза  
 pede - пердение  
-pei gong - профессия  
-pei gong di - профессиона́льный  
-pei gong ja - профессионал (профи)  
-pei gong jiva - карьера  
+pei kar - профессия  
+pei kar di - профессиона́льный  
+pei kar ja - профессионал (профи)  
+pei kar jiva - карьера  
 • propeler - пропеллер (винт)  
 pelpel - бабочка (мотылёк)  
 pena - перо  
@@ -1444,6 +1445,7 @@ poto - болото
 poto stan - болото (топь)  
 poyu - вошь  
 prazedim yum - празеодим  
+pre - раньше  
 prese - давление (нажим)  
 prese gi - пресс  
 • preser - пресс  
@@ -1586,14 +1588,13 @@ sense xaka - щупальце
 sento - сто  
 sento nen - столетие  
 sento nen di - столетний  
-sera - пила  
 serami - керамика  
 seri - серия  
+seri kaska - кольчуга  
 seri letre - письмо счастья  
 serime - звено  
-seri nete - кольчуга  
-serve gi - сервер  
-serve ja - слуга  
+servaja - слуга  
+servar - сервер  
 sesam - сезам  
 sexe logi - сексология  
 si - если  
@@ -1815,7 +1816,7 @@ vide punte - перспектива (точки зрения)
 vidou - вдова  
 vinkan - винном заводе  
 violeta nil - фиолетовый (пурпурный)  
-virje - девственник  
+virge - девственник  
 virus - вирус  
 virus logi - вирусология  
 vise ma - мачеха  
@@ -1840,7 +1841,6 @@ vutu - статья (предмет)
 xah mata - шах и мат  
 xakal - шакал  
 xaki - сомнение  
-xalke - чешуя  
 xam - вечер  
 xaman - шаман  
 xampan - Шампань  
@@ -1850,6 +1850,9 @@ Xani - Сатурн
 xaniden - суббота  
 xanti - отдых  
 xanti di - спокойный  
+xara - пила  
+xarafun - опилки  
+xarakan - лесопилка  
 xatan - противостоять  
 xatan ja - Сатана  
 xaxa - шурша́ть  
@@ -1920,6 +1923,7 @@ yuterbi yum - иттербий
 
 zai zaman di - нынешний  
 zalim raja - тиран (деспот)  
+• prezaman di - старый (древний)  
 Zambia - Замбия  
 zar kube - кость (кубик)  
 Zardux - Зороастр  

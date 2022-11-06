@@ -58,11 +58,6 @@ alo nam - tio estas (alivorte)
 alo sexe di - samseksema  
 alumin - aluminio  
 ama - sed  
-ama - amo  
-• anama - malami  
-ama di - kara  
-ama ja - amanto  
-ama jen - karulo  
 Amerika - Ameriko  
 Amerika di - amerika  
 amerika yum - americio  
@@ -334,12 +329,8 @@ cape - presaĵo
 cati - tekto  
 cau - herbo  
 cavi - ŝlosilo  
-ceke - kontroli  
+ceka - kontroli  
 ceke - ĉeko  
-cen - antaŭe (pasinte)  
-cen den - hieraū  
-cen zaman - pasinteco  
-cen zaman di - malnova  
 cepe - kapti  
 • acepe - akcepti  
 • excepe - escepti (krom)  
@@ -421,6 +412,7 @@ demi krati - demokratio
 demi krati di - demokratia  
 demon - demono  
 den - tago (periodo de 24 horoj)  
+• preden - hieraū  
 den loge - taglibro  
 des - dek (10)  
 des kilo - dek miloj  
@@ -559,7 +551,6 @@ fa fen gata - analizi
 fa festa - festi  
 fa fikir - pensi  
 fa fin - fini  
-fa fixe - fiksi  
 fa fobi - timigi  
 fa fokus - koncentri  
 fa for - forigi  
@@ -650,6 +641,7 @@ febre - febro
 fei - flugo  
 fen - parto (frakcio)  
 fen gata - analizo  
+• prefere - preferi (pliŝati)  
 fermi yum - fermio  
 fero - fero  
 festa - festo  
@@ -677,6 +669,7 @@ fiorde - fjordo
 firuze - turkiso  
 fito - planto  
 fitologi - plantscienco (botaniko)  
+fixe - fiksi  
 fizika - fiziko  
 fizika ja - fizikisto  
 fizika suta - fiziko  
@@ -685,6 +678,7 @@ flur - fluoro
 fobi - timo (fobio)  
 fobi ja - timiga  
 foku - koncentriĝo  
+foli - skvamo  
 foni zi - litero  
 fora - taladri  
 forke - forko  
@@ -1127,7 +1121,7 @@ komal - mola
 kompani - kompanio (firmao)  
 kon - kun (kuna, komuna)  
 kon bon - kongrui  
-kon gong - kunlabori  
+kon kar - kunlabori  
 kon sabi - informacio  
 kon sana sim - komunismo  
 kon sana sim ja - komunisto  
@@ -1240,6 +1234,11 @@ long - longa
 long kata - romano  
 lou - liki  
 lou sang - sangi  
+luba - amo  
+• anluba - malami  
+luba di - kara  
+luba jen - karulo  
+lubar - amanto  
 luga - verda  
 lulu - perlo  
 lulu table - bidkalkulilo (abako)  
@@ -1548,7 +1547,7 @@ pati mise - infekto
 pau gi - fusilo  
 pedal - pedalo  
 pede - furzo  
-pei gong - metiero  
+pei kar - metiero  
 pele - peli  
 • apele - alpeli  
 • depele - elpeli  
@@ -1611,6 +1610,7 @@ posta marke - poŝtmarko
 poto - koto  
 poto di - kota  
 poto stan - marĉo  
+pre - antaŭe (pasinte)  
 prese - premo  
 prese gi - premilo  
 • preser - premilo  
@@ -1986,8 +1986,8 @@ viki makala - vikia artikulo
 viki pedia - vikipedio  
 vin - vino  
 vin suan - vinagro  
-virje - virgulo  
-virje di - virga  
+virge - virga (virgulo)  
+virge di - virga  
 vise - vic-  
 vise loga - pronomo  
 vise ma - vicpatrino  
@@ -2019,6 +2019,8 @@ xan - monto
 xan pike - pinto  
 xaniden - sabato  
 xanti di - trankvila (serena)  
+xara - segilo  
+xarafun - segaĵo  
 xarma - honto  
 xarnir - ĉarniro (pivoto)  
 xarti - kondiĉo (postulo)  
@@ -2106,6 +2108,8 @@ zai zaman - nuno
 zai zaman di - nuna  
 zaitun - olivo  
 zaman - tempo  
+• prezaman - pasinteco  
+• prezaman di - malnova  
 Zambia - Zambio  
 zar - hazardo  
 zar di - hazarda  

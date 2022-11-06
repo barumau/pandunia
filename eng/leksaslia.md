@@ -11,7 +11,7 @@
 **Afrika** *Africa* ← Arabic:(ʾafrīqiyā), Wolof:Afrig, Fulani:Afirik, Amharic:(ʾäfriḳa), Hausa:Afirka, Yoruba:Afirika, Oromo:Afrikaa, Swahili:Afrika, English:Spanish:Portuguese:Africa, French:Afrique, Russian:Африка (Afrika), Hindi:अफ़्रीका (afrīkā), Bengali:আফ্রিকা (aphrika), Japanese:アフリカ (Afurika), Korean:프리카 (Apeurika)  
 **agile** *agile* ← English:French:agile, Spanish:Portuguese:ágil, deu:agil  
 **agri** *cultivate (farm)* ← Mandarin:农民 (nóng), Cantonese:農民 (nung4), Japanese:農 (nō), Korean:농 (nong), Vietnamese:nông  
-**aha** *realize (understand; aha)* ← English:aha; uh-huh, deu:French:aha, Spanish:ajá, Portuguese:ahá, Russian:ага (aha), Korean: 아하 (aha), Mandarin:啊哈 (ahā), Arabic: آه (ʾāh)  
+**aha** *realize (understand; aha)* ← English:aha; uh-huh, deu:French:aha, Spanish:ajá, Portuguese:ahá, Russian:ага (aha), Hindi:अहां (ahā~), Korean: 아하 (aha), Mandarin:啊哈 (ahā), Arabic: آه (ʾāh)  
 **air** *air* ← English:French:Spanish:air, Portuguese:ar, Russian:аэро- (aero-)  
 **ais krem** *ice cream* ← English:ice cream, Japanese:アイスクリーム (aisukurīmu), Korean:아이스크림 (aiseukeurim), Hindi:आइसक्रीम (āisakrīm), Bengali:আইসক্রীম (aisôkrīm), Malay:es krim, Swahili:aiskrimu  
 **ais** *ice* ← English:ice, deu:Eis, Malay:és  
@@ -26,7 +26,6 @@
 **alo** *other* ← Greek:άλλος (állos), Latin:alius, English:French:allo-, Portuguese:Spanish:alo-, Russian: алло- (allo-)  
 **alumin** *aluminium* ← English:aluminium, French:aluminium, Spanish:aluminio, Portuguese:alumínio, Russian:алюминий, Mandarin:铝 (lǚ), Japanese:アルミニウム, Korean:알루미늄, Vietnamese:nhốm, Hindi:एल्युमिनियम, Bengali:অ্যালুমিনিয়াম, Malay:aluminium, Swahili:alumini, Arabic: الومينيوم  
 **ama** *but (rather)* ← Arabic: أما‎ (ʔamma), Turkish:ama, Persian:Urdu:اما‎ (ammâ), Hausa:amma, Yoruba:àmọ́  
-**ama** *love (liking, affection)* ← Spanish:Portuguese:amar, French:aimer  
 **amen** *trust (be sure of, have faith in)* ← heb: אָמֵן‎, (ʾāmēn), Arabic: آمَنَ‎ (āmana), Swahili:amini, Turkish:amin + Greek:ἀμήν (ámén), English:deu:French:Polish:Spanish:amen, Mandarin:阿门 (āmén), Korean:아멘 (amen), Japanese:アーメン (āmen), Vietnamese:a-men  
 **amerika yum** *americium* ← English:americium, French:américium, Spanish:americio, Portuguese:amerício, Russian:америций, Mandarin:镅 (méi), Japanese:アメリシウム, Korean:아메리슘, Vietnamese:amerixi, Hindi:अमेरिशियम, Bengali:অ্যামেরিসিয়াম, Malay:amerisium, Swahili:ameriki, Arabic: أمريكيوم  
 **Amerika** *America (continent)* ← English:America, Spanish:Portuguese:América, Russian:Америка (Amerika), Turkish:Swahili:Malay:Amerika, Arabic:أمريكا‎ (ʾamrīkā), Hindi:अमेरिका (amerikā), Bengali:আমেরিকা (amerika), Japanese:アメリカ (amerika)  
@@ -218,9 +217,8 @@
 **cati** *roof* ← Hindi:छत (chat); छदि (chadi), Bengali: ছাদ (chad), Turkish:çatı, kyr:чатыр (čatyr) + Arabic: سَطْح‎ (saṭḥ)  
 **cau** *grass* ← Mandarin:草 (cǎo), Cantonese:草 (cou2), Wu-Chinese:草 (tshau2), Japanese:草 (sō), Vietnamese:tháu  
 **cavi** *key* ← Portuguese:chave, Spanish:llave, Hindi:चाबी (cābi), Bengali:চাবি (cabi), Tamil: சாவி (cāvi), Wolof:caabi, Kongo:nsapi  
+**ceka** *examine (inspect, check)* ← English:check, Spanish:chequear, Portuguese:checar, deu:chekcen, Japanese:チェックする (chekkusuru)  
 **ceke** *cheque (check)* ← English:Spanish:Portuguese:cheque, French:chèque, Russian:чек (ček), Arabic: شِيك‎ (šēk), Japanese:チェック (chekku), Vietnamese:séc, Hindi:चेक (cek), Bengali:চেক (cek), Malay:cek, ind:cheki  
-**ceke** *examine (inspect, check)* ← English:check, Spanish:chequear, Portuguese:checar, deu:chekcen, Japanese:チェックする (chekkusuru)  
-**cen** *earlier (before, in the past)* ← Mandarin:前 (qián), Cantonese:前 (cin4), Japanese:前 (zen), Korean:전 (jeon), Vietnamese:tiền  
 **ceng** *layer (level, storey, floor, stratum)* ← Mandarin:层 (céng), Cantonese:層 (cang4), Wu-Chinese:層 (zen3), Korean:층 (chŭng), Vietnamese:tầng  
 **cepe** *catch (capture, take, seize)* ← English:reception, deu:Rezeption, French:réception, Spanish:recepción, Portuguese:recepção, Russian:рецепция (recepciya), Japanese:レセプション (resepushon), Korean:리셉션 (risepsyeon)  
 **ceres yum** *cerium* ← English:cerium, French:cérium, Spanish:cerio, Portuguese:cério, Russian:церий, Mandarin:铈 (shì), Japanese:セリウム, Korean:세륨, Vietnamese:xeri, Hindi:सेरियम, Bengali:সেরিয়াম, Malay:serium, Swahili:seri, Arabic: سيريوم  
@@ -359,7 +357,6 @@
 **fa daka** *cover (conceal)* ← Hindi:ढकना (dhaknā), Bengali:ঢাকা (ḍhaka), Punjabi:ਢੱਕਣਾ (ḍhakṇā), deu:decken, English:deck  
 **fa estude** *study (work in order to practise or demonstrate)* ← English:study, French:étudier, Spanish:estudiar, Portuguese:estudar, Russian:студент (student), Hindi:स्टूडेंट (sṭūḍeṇṭ)  
 **fa fei** *fly (go through air)* ← Mandarin:飞 (fēi), Cantonese:飛 (fei1), Wu-Chinese:飛 (fi1), Japanese:飛 (hi), Korean:비 (bi), Vietnamese:bay  
-**fa fixe** *fix (attach)* ← English:fix, French:fixer, Spanish:fijar, Portuguese:fixar  
 **fa koste** *cost* ← English:cost, Spanish:costar, Portuguese:custar, French:coûter, deu:kosten  
 **fa piping** *evaluate (review, criticise)* ← Mandarin:批评 (pīpíng), Vietnamese:phê bình, Korean:비평 (bipyeong)  
 **fa ratibu** *order (arrange)* ← Arabic: رَتَّبَ (rattaba), Swahili:ratibu, Hausa:rattaba, Persian: ترتيب (tartīb), Hindi:तरतीब (taratība), Malay:tertib, Turkish:tertip  
@@ -402,6 +399,7 @@
 **fiorde** *fjord* ← nor:English:fjord, French:Malay:fiord, Portuguese:fiorde, Spanish:fiordo, Russian:фьорд (f’ord), Japanese:フィヨルド (fiyorudo)  
 **firuze** *turquoise gem* ← per:(firuze), Turkish:firuze, Arabic:(fayrūz), Swahili:feruzi, Hindi:फीरोज़ा (phīrozā), Bengali:ফিরোজা (phiroja), Malay:pirus, Russian:бирюза (biryuza)  
 **fito** *plant (vegetable, vegetation)* ← English:phyto-, -phyte, deu:French:phyto-, Spanish:Portuguese:fito-, Russian:фито- (fito-)  
+**fixe** *fix (attach; attachment)* ← English:fix, French:fixer, Spanish:fijar, Portuguese:fixar  
 **fizika suta** *physics (science)* ← English:physics, Spanish:Portuguese:física, Russian:физика (fizika), Turkish:Malay:fizik, Arabic:فِيزِيقَا‎ (fīzīqā), Swahili:fizikia, Hindi:फ़िज़िक्स (fiziks)  
 **flam** *flame* ← English:flame, French:flamme + Mandarin:炎 (yán), Cantonese:炎 (jim4), Korean:염 (yeom), Vietnamese:viêm  
 **flece** *arrow (bolt)* ← Spanish:Portuguese:flecha, French:flèche, English:fletch  
@@ -410,6 +408,7 @@
 **flur** *fluorine* ← English:fluorine, French:fluor, Spanish:flúor, Portuguese:flúor, Russian:фтор, Mandarin:氟 (fú), Japanese:フッ素, Korean:플루오르, Vietnamese:flo, Hindi:फ्लोरीन, Bengali:ফ্লুরিন, Malay:fluor, Swahili:florini, Arabic: فلور  
 **fobi** *fear (phobia)* ← English:-phobia, Spanish:Portuguese:Malay:-fobia, French:deu:-phobie, Russian:-фобия (-fobiya), Turkish:-fobi  
 **foku** *focus (concentration)* ← English:focus, Spanish:Portuguese:foco, deu:Fokus, Russian:фо́кус, Persian:فوکوس‎ (fokus)  
+**foli** *scale (flake)* ← Greek:φολῐ́ς (folís), Arabic: فَلْس‎ (fals), Persian: فلس‎ (fals) + deu:Flocke, English:flake  
 **foni** *phone (speech sound)* ← English:French:phone, Spanish:fono, Portuguese:fone, Russian:фона (fona), Malay:fon + Persian: تلفن‎ (telefon), Hindi:फ़ोन (fon), Bengali:ফোন (phon), Turkish:telefon  
 **fonte** *fountain (spring, well)* ← Portuguese:fonte, Spanish:fuente, Russian:фонтан (fontan), French:fontaine, English:fountain, Japanese:噴水 (funsui)  
 **fonyo** *fonio millet (acha rice)* ← Wolof:foño, bam:fini, mnk:fíndi, mku:fónĩ, Fulani:fonnye, Swahili:mfonio, English:French:Spanish:Malay:fonio, deu:Foniohirse, Japanese:フォニオ (fonio)  
@@ -891,6 +890,7 @@
 **lote** *batch (lot)* ← Portuguese:Spanish:lote, English:French:lot  
 **lotra** *otter* ← English:otter + French:loutre, Spanish:Filipino:lutrino, Portuguese:lontra + Russian:выдра (vydra)  
 **lou** *leak* ← Mandarin:漏 (lòu), Cantonese:漏 (lau6), Japanese:漏 (rō), 루 (ru)  
+**luba** *love (strong affection, desire)* ← deu:Liebe, Russian:любовь (lyubov), Arabic: حُبّ (ḥubb), Swahili:hibu: huba, Turkish:muhabbet, Persian: محبت (mohabbat), Hindi: मुहब्बत (muhabbat); लुभ् (lubh), hmn:hlub  
 **luga** *green* ← Mandarin:绿 (lǜ), Cantonese:綠 (luk6), Vietnamese:lục, Korean:록/녹 (rok/nok), Japanese: 緑色 (ryokushoku)  
 **luka** *six (6)* ← Mandarin:六 (liù), Cantonese:六 (luk6), Japanese:六 (roku), Korean:육/륙 (六, yuk/ryuk), Vietnamese:lục  
 **lulu** *pearl* ← Amharic:ሉል (lul), Arabic:(luʾluʾa), Swahili:lulu, Oromo:lu'ulu'a, Hausa:lu'ulu'u, Fulani:luuluuri, Persian:(lo'lo')  
@@ -1215,6 +1215,7 @@
 **poze** *pose (set; position)* ← English:Spanish:Portuguese:French:pose, deu:Pose, Russian:поза (poza), Japanese:ポーズ (pōzu)  
 **prati** *practice (actuality)* ← English:practice, French:pratique, Portuguese:prática, Turkish:pratik, Polish:praktyka, Hindi:प्रथा (prathā)  
 **prazedim yum** *praseodymium* ← English:praseodymium, French:praséodyme, Spanish:praseodimio, Portuguese:praseodímio, Russian:празеодим, Japanese:プラセオジム, Korean:프라세오디뮴, Vietnamese:prazeođim, Hindi:प्रासियोडाइमियम, Bengali:প্র্যাসেওডিমিয়াম, Malay:praseodinium, Swahili:praseodimi, Arabic: براسوديميوم  
+**pre** *before (previous, fore, past)* ← English:French:Spanish:Portuguese:pre-  
 **prese** *press (pressure)* ← French:pression, Spanish:presión, Portuguese:pressão, Russian:пресс (press), Japanese:プレス (puresu)  
 **prezidente** *president* ← English:president, Spanish:Portuguese:presidente, Russian:президент (prezident), kat:პრეზიდენტი (ṗrezidenṭi), Persian:پرزیدنت‎ (perezident), Malay:presiden  
 **proba** *try (attempt, give a go, check out, probe)* ← deu:Probe, English:prove; probe, Spanish:probar, Portuguese:provar, Russian:проба  
@@ -1337,11 +1338,10 @@
 **seng** *raw (crude, fresh)* ← Mandarin:生 (shēng), Cantonese:生, Japanese:生 (sei), Korean:생 (saeng), Vietnamese:sống  
 **sense** *sense (method of perception)* ← English:sense, Spanish:Portuguese:sentido, French:sens  
 **sento** *hundred (hecto-, 100)* ← French:cent, Spanish:cien, Portuguese:cem, Italian:cento, English:cent-, Hindi:शत (śat), Bengali:শত (śôt)  
-**sera** *saw* ← Spanish:sierra, Portuguese:serra, English:serrate  
 **serami** *ceramic* ← English:ceramic, Spanish:cerámica, Portuguese:cerâmico, French:céramique, Russian:керамика (keramika), Bengali:সিরামিক (sirāmika), Turkish:mel:seramik  
 **seri** *series (sequence, succession)* ← English:series, French:série, Spanish:serie, Russian:серия (seriya), Turkish:seri + Hindi:सिलसिला (silsilā), Arabic:(silsila), tur:silsile, Swahili:silisili, Persian: سلسله‎ (selsele) + Mandarin:系列 (xìliè)  
 **serpe** *snake (serpent)* ← Hindi:सर्प (sarp), Bengali:সাপ (sap), Telugu:(sarpamu), French:English:serpent, Spanish:serpiente, + Mandarin:蛇 (shé), + Yoruba:sèbé  
-**serve** *service* ← English:French:service, Portuguese:serviço, Russian:сервис (servis), Turkish:servis + Hindi:सेवा (sevâ), Bengali:সেবা  (seba)  
+**serva** *service* ← English:French:service, Portuguese:serviço, Russian:сервис (servis), Turkish:servis + Hindi:सेवा (sevâ), Bengali:সেবা  (seba)  
 **sesam** *sesame* ← English:sesame, Russian:сезам (sezam), Spanish:sésamo, Arabic:(simsim), Swahili:simsim, Turkish:susam  
 **sexe** *sex (sexual relation)* ← English:sex, French:sexe, Spanish:Portuguese:sexo, Russian:секс (seks), Turkish:seks, Hindi:सेक्स (seks), Japanese:セックス (sekkusu), Korean:섹스 (sekseu)  
 **si** *if (suppose, assume)* ← French:Spanish:si, Portuguese:se, Turkish:ise, Mandarin:使 (shǐ); 要是 (yàoshǐ), Cantonese:使 (si2); 要是 (jiu3si6)  
@@ -1546,7 +1546,7 @@
 **vin** *wine* ← French:vin, Spanish:vino, Russian:вино (vino), English:wine, deu:Wein, Hindi:वाइन (vāin), Japanese:ワイン (wain), Swahili:mvinyo  
 **vinil** *vinyl* ← English:vinyl, Spanish:vinilo, Portuguese:vinil, French:vinyle, Russian:винил (vinil), Japanese:ビニル (viniru)  
 **violeta** *pansy (violet, viola)* ← English:Portuguese:French:violet, Spanish:violeta, deu:violett, Russian:фиолетовый (fioletovyy), Japanese:バイオレット (baioretto), Korean:보라 (bola)  
-**virje** *virgin* ← English:virgin, French:vierge, Spanish:virgen, Portuguese:virgem  
+**virge** *virgin (pristine, virginal; Virgo)* ← English:virgin, French:vierge, Spanish:virgen, Portuguese:virgem  
 **virus logi** *virology* ← Polish:wirusologia, Russian:вирусология (virusologiya)  
 **virus** *virus* ← English:Spanish:French:Malay:virus, Portuguese:vírus, Russian:вирус (virus), Turkish:virüs, Hindi:वाइरस (vāirasa), Japanese:ウイルス (uirusu)  
 **vise** *vice (deputy, alternative, substitute, replacement)* ← English:French:Spanish:Portuguese:vice-, Russian:вице- (vitse-), deu:vize-  
@@ -1570,12 +1570,12 @@
 **xakal** *jackal* ← Persian: شغال‎ (šağâl), Turkish:çakal, English:jackal, French:Spanish:Portuguese:chacal, Russian:шакал (šakal), Bengali:শৃগাল (śrigal), Malay:jakal, Japanese:ジャッカル (jakkaru), Korean:자칼 (jakal), Thai:แจ็กคัล (jɛ̀k-kal)  
 **xaki** *doubt (suspect; suspicion)* ← Arabic: شَكَّ‎ (šakka), Persian: شک‎ (šak), Hindi:शक (śak); शंका (śankā), Malay:syak, Turkish:şek, Swahili:shaka; -shuku, Hausa:shakka  
 **xal** *scarf (shawl)* ← French:châle, Russian:шаль (šal), Portuguese:xaile, English:shawl, Turkish:şal  
-**xalke** *scale (flake)* ← English:scale, French:échelle, Hindi:शल्क (shalka)  
 **xam** *evening* ← Hindi:शाम (śām), Bengali:শাম (śam), Turkish:akşam  
 **xaman** *shaman* ← English:shaman, French:chaman, Spanish:chamán, Russian:шаман (šaman), Turkish:şaman, Malay:shaman, Japanese:シャーマン (shāman)  
 **xan** *mountain (hill)* ← Mandarin:山 (shān), Cantonese:山 (saan1), Japanese:山 (san), Korean:산 (san), Vietnamese:sơn  
 **Xani** *Saturn* ← Hindi:शनि (śani), Bengali:শনি (śôni), Tamil:சனி (saṉi), Thai:เสาร์ (sǎo)  
 **xanti** *rest (relief, repose)* ← Hindi:शांति (shānti), Bengali:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), Marathi:शांत (shānta), Telugu:శాంతి (shānti), Gujarati:શાંતિ (shānti), Khmer:សន្តិ (sɑnte’), English:Portuguese:shanti, Russian:шанти (shanti), Japanese:シャンティ (shanti)  
+**xara** *saw* ← alb:sharrë + Spanish:sierra, Portuguese:serra + आरा (ārā) + Arabic: مِنْشَار‎ (minšār), Persian: منشار‎ (menšâr)  
 **xarma** *shame (disgrace)* ← Persian:(šarm),  Urdu:(śarma), Hindi:शर्म (śarma), deu:Scham, English:shame, Russian:срам (sram)  
 **xarnir** *hinge (pivot)* ← French:charnière, Spanish:charnela, deu:Scharnier, Russian:шарнир (šarnir)  
 **xarti** *condition (requirement)* ← Turkish:şart, Arabic:Persian:(šart), Swahili:sharuti, Hindi:शर्त (śart), Bengali:শর্ত (śôrt)  
@@ -1612,7 +1612,7 @@
 **xuli** *repair (fix)* ← Mandarin:修理 (xiūlǐ), Japanese:修理 (shuri), Korean:수리 (suri)  
 **xuru** *beginning (start, commencement, onset)* ← Arabic: شُرُوع‎ (šurūʿ), Persian: شروع (šoru') , Hindi:शुरू (śurū), Bengali:শুরু (śuru) + Mandarin:始 (shǐ), Japanese:始 (kaishi), Korean:시 (shi)  
 **xux** *hush (shh)* ← English:shh, French:chut, Russian:ш-ш-ш, Mandarin:噓 (xū), Japanese:しーっ (shīt), Korean:쉿 (swit), Turkish:sus  
-**ya** *yes* ← English:yeah, deu:ja, Korean:예 (ye), Japanese:ええ (ē) + Malay:ya + Arabic: إِِي (ʾiī)   
+**ya** *yes* ← English:yeah, deu:ja, Korean:예 (ye), Malay:ya  
 **yake** *yak* ← English:deu:French:Spanish:Turkish:yak, Portuguese:iaque, Hindi:याक (yāk)  
 **yaki** *about (approximately, nearly, almost)* ← Korean:약 (yak), Japanese:約 (yaku), Cantonese:約 (yœk), Turkish:yaklaşık, Mandarin:约 (yuē)  
 **yam** *consume (eat or drink)* ← Khmer:ញ៉ាំ (nyam), Fulani:nyami, + Spanish:ñam, Russian:ням (nyam), Italian:gnam, English:yum, Korean:냠냠 (nyamnyam), Hungarian:nyam  

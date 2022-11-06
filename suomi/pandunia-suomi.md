@@ -131,11 +131,6 @@ alumin - alumiini
 alumin mate - aluna  
 alumin oxide - alumiinioksidi  
 ama - mutta  
-ama - rakkaus (tykkääminen)  
-• anama - inhota  
-ama di - rakas (armas)  
-ama ja - rakastaja  
-ama jen - kulta (rakas)  
 Amara - amhara (etiopialainen kansa ja kieli)  
 amen - luottaa (pitää varmana)  
 amenbil - luotettava  
@@ -635,21 +630,9 @@ cau - ruoho
 cau medan - nurmikko (ruohikko)  
 cau stan - ruohotasanko  
 cavi - avain  
-ceke - tarkistaa (tsekata, tutkia)  
+ceka - tarkistaa (tsekata, tutkia)  
 ceke - šekki  
 celsius gradu - celsiusaste  
-cen - ennen (aikaisemmin, aiemmin)  
-cen den - eilen  
-cen di - edellinen  
-cen fixe - etuliite (prefiksi)  
-cen si - edellyttää  
-cen vide - ennustaa (nähdä ennalta)  
-cen vide di - ennustettu  
-• ancen vide di - ennennäkemätön  
-cen yang di - klassinen  
-cen zaman - menneisyys  
-cen zaman di - vanha (muinainen)  
-cen zaman xe - muinaisjäänne  
 ceng - kerros  
 ceng bede - kerrossänky  
 cepe - ottaa kiinni (napata, kaapata, siepata)  
@@ -805,6 +788,7 @@ demi krati ja - demokraatti
 demi polita - väenpaljous  
 demon - demoni (piru)  
 den - päivä (vuorokausi)  
+• preden - eilen  
 den loge - päiväkirja  
 des - kymmenen (10)  
 des kilo - sata tuhatta  
@@ -937,8 +921,6 @@ dus vide - ruma (pahannäköinen)
 dus zar - epäonni  
 • paraprodute - sivutuote  
 • posprodute - jälkituotanto  
-dutebil - epäilyttävä  
-dute ja - epäilevä  
 dux - suihku  
 
 ## E  
@@ -1075,7 +1057,6 @@ fa fen gata - analysoida
 fa festa - juhlia  
 fa fikir - ajatella (miettiä)  
 fa fin - lopettaa  
-fa fixe - kiinnittää  
 fa fobi - pelottaa  
 fa fokus - keskittää  
 fa fon - ääntää (lausua)  
@@ -1332,6 +1313,11 @@ fen don - osallistua (tehdä osansa)
 fen gata - analyysi  
 fenil - fenyyli  
 fenol - fenoli  
+fere - pitää jnkn (suhtautua)  
+• disfere - erottaa (pitää erilaisena)  
+• infere - päätyä johtopäätökseen  
+• prefere - pitää parempana (pitää etusijalla)  
+• refere - viitata jhkn  
 fermi yum - fermium  
 fero - rauta  
 festa - juhlat  
@@ -1370,7 +1356,10 @@ firuze - turkoosi
 fito - kasvi  
 fitologi - kasvitiede  
 fito yam sim ja - kasvissyöjä  
-fixe - kiinnitys  
+fixe - kiinnittää  
+• afixe - liite  
+• posfixe - jälkiliite (postfiksi)  
+• prefixe - etuliite (prefiksi)  
 fizika - fysiikka  
 • metafizika - metafysiikka  
 fizika ja - fyysikko  
@@ -1389,6 +1378,8 @@ fobi di - pelokas
 fobi ja - pelottava  
 Fobos - Fobos  
 foku - keskittyminen (keskittymä)  
+foli - suomu  
+foli kaska - suomupanssari  
 fon - puhelin  
 foni - äänne (fooni)  
 foni loga - ääntää (lausua)  
@@ -2241,7 +2232,7 @@ Komoro nesi - Komorit
 kompani - yritys (yhtiö)  
 kon - kanssa (yhdessä; yhteinen)  
 kon bon - sopia  
-kon gong - tehdä yhteistyötä  
+kon kar - tehdä yhteistyötä  
 kon sabi - tieto  
 kon sana sim - kommunismi  
 kon sana sim ja - kommunisti  
@@ -2462,6 +2453,11 @@ longta - pituus
 lote - erä (satsi)  
 lou - vuotaa  
 lou sang - vuotaa verta  
+luba - rakkaus (tykkääminen)  
+• anluba - inhota  
+luba di - rakas (armas)  
+luba jen - kulta (rakas)  
+lubar - rakastaja  
 luga - vihreä  
 luka - kuusi (6)  
 luka fase - kuutio (kuusitahokas)  
@@ -3026,6 +3022,7 @@ papagai - papukaija
 papaya - papaija  
 Papua neu Ginia - Papua Uusi-Guinea  
 par - tasainen (tasavertainen)  
+• repar - korjata (ennallistaa)  
 par fase - taso  
 par jen - vertainen  
 parta - tasavertaisuus  
@@ -3078,8 +3075,8 @@ pedi - kasvattaa lapsia (kasvatus)
 pedi fili - pedofilia  
 pedi fobi - pedofobia (lastenpelko)  
 pei - maksu  
-pei gong - ammatti  
-pei gong ja - ammattilainen  
+pei kar - ammatti  
+pei kar ja - ammattilainen  
 pele - ajaa  
 • apele - ajaa luokseen  
 • depele - ajaa pois (poistaa)  
@@ -3238,6 +3235,9 @@ poze - panna (asettaa; asetelma)
 prati - käytäntö (pragmatia)  
 prati di - käytännöllinen (pragmaattinen)  
 prazedim yum - praseodyymi  
+pre - ennen (aikaisemmin, aiemmin; aikaisempi, edellinen)  
+pre di - edellinen  
+pre si - edellyttää  
 prese - puristaaa (puristus, paine)  
 • konprese - puristaa (pusertaa)  
 • represe - puskea takaisin (alistaa)  
@@ -3520,13 +3520,13 @@ sento nen di - satavuotinen
 serami - savityö (keramiikka)  
 Serbia - Serbia  
 seri - sarja  
+seri kaska - silmukkapanssari (rengashaarniska)  
 seri letre - ketjukirje  
 serime - ketjun lenkki  
-seri nete - silmukkapanssari (rengashaarniska)  
 seri seri - ketju  
 serpe - käärme  
-serve - palvelu (palvelus)  
-serve ja - palvelija (tarjoilija)  
+serva - palvelu (palvelus)  
+servaja - palvelija (tarjoilija)  
 sesam - seesami  
 sexe - seksi (sukupuolisuhde)  
 • ansexe di - aseksuaali  
@@ -4015,6 +4015,9 @@ veze - paino
 veze di - painava  
 veze metre gi - vaaka (puntari)  
 vide - nähdä  
+• previde - ennustaa (nähdä ennalta)  
+• anprevide di - ennennäkemätön  
+• previde di - ennustettu  
 vide ja - katsoja (tarkkailija)  
 vide medan - näkökenttä  
 vide punte - näkökulma  
@@ -4033,9 +4036,9 @@ vin suan - etikka
 vinil - vinyyli  
 violeta - orvokki  
 violeta nil - violetti  
-virje - neitsyt  
-virje di - neitseellinen (koskematon)  
-Virjin nesi - Neitsytsaaret  
+virge - neitsyt (neitseellinen, koskematon)  
+virge di - neitseellinen (koskematon)  
+Virgin nesi - Neitsytsaaret  
 virus - virus  
 virus logi - virologia  
 vise loga - pronomini  
@@ -4079,6 +4082,8 @@ xah mata - matti (šakkimatti)
 xaka - oksa (haara)  
 xakal - šakaali  
 xaki - epäillä (epäilys, epäusko)  
+xakibil - epäilyttävä  
+xakija - epäilevä  
 xal - huivi (šaali)  
 xam - ilta  
 xam dia - iltapäivä  
@@ -4091,6 +4096,9 @@ Xani - Saturnus
 xaniden - lauantai  
 xanti - lepo  
 xanti di - rauhallinen (levollinen, tyyni)  
+xara - saha  
+xarafun - sahanpuru (sahajauho)  
+xarakan - sahalaitos  
 xarma - häpeä  
 xarnir - sarana  
 xarti - vaatimus (edellytys)  
@@ -4170,6 +4178,7 @@ yam liste - ruokalista
 yam xe - ruoka  
 yam yau - nälkä  
 yang - laji (tyyppi, tyyli)  
+preyang di - klassinen  
 Yapetus - Japetus  
 yasen - saarni  
 yatim - orpo  
@@ -4235,6 +4244,9 @@ zalim - ilkeä (julma)
 zalim raja - tyranni  
 zalimta - tyrannia  
 zaman - aika  
+• prezaman - menneisyys  
+• prezaman di - vanha (muinainen)  
+• prezaman xe - muinaisjäänne  
 Zambia - Sambia  
 zar - sattuma (onni)  
 zar di - sattumanvarainen  
