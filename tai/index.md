@@ -1,3 +1,9 @@
+---
+hide:
+  - footer
+  - toc
+---
+
 # พันดูเนีย - ภาษาเรียบง่ายของโลก
 
 ![](http://www.pandunia.info/bandir/bandir.png "ธงของภาษาพันดูเนีย")
@@ -35,6 +41,6 @@
 - [Twitter](https://twitter.com/pandunia_)
 - [Pandunia Vikio](http://eo.pandunia.wikia.com/wiki/%C4%88efpa%C4%9Do)
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimon basha pandunia!")
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")
 
 คุณสามารถติดต่อ Risto Kupsala ผู้ประดิษฐ์ภาษาพันดูเนีย ผ่านทางอีเมลที่ [risto@pandunia.info](mailto:risto@pandunia.info) หรือในที่ที่อยู่ในรายการเครือข่ายชุมชน

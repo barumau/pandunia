@@ -1,5 +1,10 @@
-泛世界语
-========
+---
+hide:
+  - footer
+  - toc
+---
+
+# 泛世界语
 
 ![](http://www.pandunia.info/bandir/bandir.png "pandunia su bandera")
 
@@ -10,7 +15,7 @@
 - [Telegram的聊天室](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
 - [Facebook 社区](http://www.facebook.com/groups/pandunia)
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mome loga pandunia!")
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")
 
 
 本文档不是泛世界语最终版本的最新版本。 有关最准确的信息，请参阅英文版本。

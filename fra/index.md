@@ -1,3 +1,9 @@
+---
+hide:
+  - footer
+  - toc
+---
+
 # ﻿Pandunia - une langue simple pour le monde
 
 **sal, dunia!**
@@ -49,10 +55,6 @@ De nombreuses personnes sont déjà intéressées par le pandunia et certaines l
 - Et vous pouvez suivre l'actualité du pandunia sur [Twitter](https://twitter.com/pandunia_). Diffusez l’info !
 - Vous pouvez aider à [traduire ce site](tarja_netoloke.md)
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mome loga pandunia!")
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")
 
- 
 Vous pouvez contacter Risto Kupsala, un des créateurs du pandunia, en envoyant un courriel à [risto@pandunia.info](mailto:risto@pandunia.info) et également dans les forums mentionnés précédemment.
-
-Page mise à jour le 28 septembre 2021
-

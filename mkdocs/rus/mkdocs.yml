@@ -4,7 +4,9 @@ repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../rus
 site_dir: ../../html/rus
 use_directory_urls: false
-theme: material
+theme:
+  name: material
+  language: ru
 plugins:
     - search:
         lang: ru
@@ -22,5 +24,15 @@ nav:
         - 'пандуния-русский': pandunia-rus.md
         - 'русский-пандуния': rus-pandunia.md
         - 'этимология': leksaslia.md
-
-
+extra:
+  social:
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/r/pandunia/
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/jf5GHcHXKk
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/pandunia_
+    - icon: fontawesome/brands/facebook
+      link: http://www.facebook.com/groups/pandunia
+    - icon: fontawesome/brands/telegram
+      link: https://telegram.me/joinchat/Dhfgywdb7jonCD7DHCxuJw

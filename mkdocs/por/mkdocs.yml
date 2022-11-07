@@ -3,7 +3,9 @@ site_url: http://www.pandunia.info/por
 repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../por
 site_dir: ../../html/por
-theme: readthedocs
+theme:
+  name: material
+  language: pt
 nav:
     - 'Ortografía': 102_ABC.md
     - 'Frases básicas' : 200_baze_jumla.md
@@ -11,4 +13,15 @@ nav:
         - 'Pandunia-Português': pandunia-por.md
         - 'Português-Pandunia': por-pandunia.md
         - 'Dicionario etimologico': leksaslia.md
-
+extra:
+  social:
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/r/pandunia/
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/jf5GHcHXKk
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/pandunia_
+    - icon: fontawesome/brands/facebook
+      link: http://www.facebook.com/groups/pandunia
+    - icon: fontawesome/brands/telegram
+      link: https://telegram.me/joinchat/Dhfgywdb7jonCD7DHCxuJw

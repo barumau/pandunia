@@ -3,11 +3,23 @@ site_url: http://www.pandunia.info/may
 repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../may
 site_dir: ../../html/may
-theme: readthedocs
+theme: material
 nav:
     - Home: 'index.md'
     - 'Kalimat': fraze.md
     - 'Kamus':
         - 'Pandunia–Melayu': pandunia-may.md
         - 'Melayu–Pandunia': may-pandunia.md
+extra:
+  social:
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/r/pandunia/
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/jf5GHcHXKk
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/pandunia_
+    - icon: fontawesome/brands/facebook
+      link: http://www.facebook.com/groups/pandunia
+    - icon: fontawesome/brands/telegram
+      link: https://telegram.me/joinchat/Dhfgywdb7jonCD7DHCxuJw
 

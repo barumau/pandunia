@@ -1,3 +1,9 @@
+---
+hide:
+  - footer
+  - toc
+---
+
 # pandunia - prosty światowy język
 
 **sal, dunia!**
@@ -52,6 +58,6 @@ Wielu ludzi już jest zainteresowanych Pandunią i mówi w niej. Znajdziesz fora
 - Kanał QQ: 717549404
 - Możesz również obserwować Pandunię na [Twitterze](https://twitter.com/pandunia_). Nieś wieści!
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimon basha pandunia!")
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")
 
 Możesz skontaktować się z twórcą Panduni, Risto Kupsala, pocztą elektroniczną [risto@pandunia.info](mailto:risto@pandunia.info) oraz na wyżej wymienionych forach.

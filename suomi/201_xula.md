@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Pandunian oppikurssi
 
 ## Esittäytyminen

@@ -1,5 +1,10 @@
-pandunia
-========
+---
+hide:
+  - footer
+  - toc
+---
+
+# pandunia
 
 ![](http://www.pandunia.info/bandir/bandir.png "bendera Pandunia")
 
@@ -20,7 +25,6 @@ Dokumentasi ini tidak terkini dengan versi terakhir Pandunia. Lihat versi Bahasa
 - [Telegram](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
 - [Twitter](https://twitter.com/pandunia_/)
 
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")
+
 Kontak: risto@pandunia.info
-
-
-

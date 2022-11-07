@@ -5,7 +5,7 @@ site_author: Risto Kupsala
 docs_dir: ../../spa
 site_dir: ../../html/spa
 theme:
-    name: readthedocs
+    name: material
     language: es
 nav:
     - Inicio: 'index.md'
@@ -29,3 +29,15 @@ nav:
         - 'Pandunia-Español': pandunia-spa.md
         - 'Español-Pandunia': spa-pandunia.md
         - 'Diccionario etimológico': leksaslia.md
+extra:
+  social:
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/r/pandunia/
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/jf5GHcHXKk
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/pandunia_
+    - icon: fontawesome/brands/facebook
+      link: http://www.facebook.com/groups/pandunia
+    - icon: fontawesome/brands/telegram
+      link: https://telegram.me/joinchat/Dhfgywdb7jonCD7DHCxuJw

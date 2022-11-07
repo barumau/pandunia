@@ -3,7 +3,9 @@ site_url: http://www.pandunia.info/fra
 repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../fra
 site_dir: ../../html/fra
-theme: material
+theme:
+  name: material
+  language: fr
 extra_css:
   - stile.css
 plugins:
@@ -34,4 +36,16 @@ nav:
     - 'Appendix':
         - 'Questions et réponses': 402_sual_e_javabe.md
         - 'Traduire ce site': tarja_netoloke.md
+extra:
+  social:
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/r/pandunia/
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/jf5GHcHXKk
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/pandunia_
+    - icon: fontawesome/brands/facebook
+      link: http://www.facebook.com/groups/pandunia
+    - icon: fontawesome/brands/telegram
+      link: https://telegram.me/joinchat/Dhfgywdb7jonCD7DHCxuJw
 

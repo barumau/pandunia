@@ -1,3 +1,9 @@
+---
+hide:
+  - footer
+  - toc
+---
+
 # Pandunia
 
 **sal, dunia!**
@@ -69,7 +75,7 @@ Muita pandunian puhujia voi löytää [Amikumu](https://amikumu.com/)-sovellukse
 Suomeksi on tarjolla [sähköpostilista](https://groups.google.com/forum/?hl=fi&fromgroups=#!forum/suomi-pandunia),
 johon voi liittyä lähettämällä tyhjän viestin osoitteeseen suomi-pandunia+subscribe@googlegroups.com tai käyttämällä selainta ja Google-tiliä.
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimon loga pandunia!")  
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")  
 <small>Kuva: [Freepik](http://www.freepik.com)</small>
 
 Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@pandunia.info](mailto:risto@pandunia.info)

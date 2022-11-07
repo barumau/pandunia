@@ -1,4 +1,9 @@
-﻿# Leçons
+﻿---
+hide:
+  - toc
+---
+
+# Leçons
 
 ## Se présenter
 

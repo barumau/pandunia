@@ -1,3 +1,9 @@
+---
+hide:
+  - footer
+  - toc
+---
+
 # Pandunia
 
 **sal, dunia!**

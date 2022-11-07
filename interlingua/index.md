@@ -1,5 +1,10 @@
-pandunia - un lingua mondial simple
-===================================
+---
+hide:
+  - footer
+  - toc
+---
+
+# pandunia - un lingua mondial simple
 
 ![](http://www.pandunia.info/bandir/bandir.png "Bandiera de Pandunia")
 
@@ -35,3 +40,4 @@ Multe personas jam se occupa de Pandunia e lo parla. Vos pote trovar forumos pro
 - canal de QQ: 717549404
 - Vos pote sequer Pandunia etiam in [Twitter](https://twitter.com/pandunia_). Informa vostre amicos!
 
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")

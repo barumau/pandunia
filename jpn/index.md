@@ -1,5 +1,10 @@
-パンドゥニア - シンプルな国際語
-==================================
+---
+hide:
+  - footer
+  - toc
+---
+
+# パンドゥニア - シンプルな国際語
 
 ![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
 
@@ -49,7 +54,8 @@
   言葉を広める!
 <!-- - このサイトの翻訳を[手伝ってください。](tarja_netoloke.md) -->
 
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")
+
 パンドゥニアの制作者である Risto Kupsala にはEメール
 [risto@pandunia.info](mailto:risto@pandunia.info) または前述のフォーラムで
 連絡できます。
-

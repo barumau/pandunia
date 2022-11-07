@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Lessons
 
 ## Introducing yourself
