@@ -2,38 +2,39 @@
 
 ## Introducción
 
-Pandunia es un idioma construido que está diseñado para ser relativamente fácil
-de aprender para todos. Puedes aprenderlo rápidamente con este práctico curso.
+Pandunia es un idioma construido que está diseñado para ser relativamente fácil de aprender para todos.
+Puedes aprenderlo rápidamente con este práctico curso.
 
-Construir oraciones básicas en pandunia es fácil.  No hay artículos definidos
-ni indefinidos, no existe el verbo "ser", y no hay reglas complicadas en cuanto
-a cambiar la forma de las palabras para expresar singular y plural o el tiempo
-de los verbos.
+Construir oraciones básicas en pandunia es fácil.
+No hay artículos definidos ni indefinidos y no hay reglas complicadas en cuanto a cambiar la forma de las palabras para expresar singular y plural o el tiempo de los verbos.
 
-El curso consiste en lecciones cortas. Cada lección introduce una palabra
-nueva, que es usada en diferentes frases en la lección. Esto se hace para
-enseñarte cómo funcionan las palabras como parte de una oración. Posiblemente
-encuentres otras palabras nuevas en la misma lección, pero no te preocupes por
-ellas. No tienes que aprenderlas todas al mismo tiempo. Solo memoriza las
-frases que te sean útiles. Posiblemente las demás se te queden también en la
-memoria sin que te des cuenta.
+El curso consiste en lecciones cortas.
+Cada lección introduce una palabra nueva, que es usada en diferentes frases en la lección.
+Esto se hace para enseñarte cómo funcionan las palabras como parte de una oración.
+Posiblemente encuentres otras palabras nuevas en la misma lección, pero no te preocupes por ellas.
+No tienes que aprenderlas todas al mismo tiempo.
+Solo memoriza las frases que te sean útiles.
+Posiblemente las demás se te queden también en la memoria sin que te des cuenta.
 
-Puedes estudiar este curso con uno o más amigos. Leed las frases juntos e
-intentad crear pequeñas conversaciones. También puedes estudiar solo. Incluso
-así es útil para leer en voz alta y crear conversaciones. Repite las mismas
-frases varias veces cada día. Como suele decirse, _la repetición es la clave
-del aprendizaje_.
+Puedes estudiar este curso con uno o más amigos.
+Leer las frases juntos e intentad crear pequeñas conversaciones.
+También puedes estudiar solo.
+Incluso así es útil para leer en voz alta y crear conversaciones.
+Repite las mismas frases varias veces cada día.
+Como suele decirse, _la repetición es la clave del aprendizaje_.
 
-Nota: Muchas lecciones incluyen notas explicativas como esta y también otras de
-ayuda. Están ahí para aclarar detalles gramaticales para aquellos que estén
-interesados. Puedes saltártelas si no te son útiles. No necesitas saber la
-teoría del idioma. Puedes hablar pandunia sin más.
+Nota: Muchas lecciones incluyen notas explicativas como esta y también otras de ayuda.
+Están ahí para aclarar detalles gramaticales para aquellos que estén interesados.
+Puedes saltártelas si no te son útiles.
+No necesitas saber la teoría del idioma.
+Puedes hablar pandunia sin más.
+
 
 ## Parte 1: Saludos y conceptos básicos
 
-### salam <small>saludar, saludo</small>
+### sal <small>saludar, saludo</small>
 
-**sal**
+**sal!**
 Hola.
 
 **sal suba!**
@@ -63,13 +64,11 @@ Buen viaje.
 **sal sona!**
 Que duermas bien. / Que descanses.
 
-Como puedes ver arriba, **salam** es una palabra general para desear el bien.
+Como puedes ver arriba, **sal** es una palabra general para desear el bien.
 Puedes usarla cuando quieras.
 
-**salam** es un saludo popular usado por personas, tanto religiosas como no
-religiosas, en muchos países del mundo.
 
-<small>Etimología. **salam** viene del árabe: سَلَام‏ "salām", hebreo:
+<small>Etimología. **sal** viene del árabe: سَلَام‏ "salām", hebreo:
 שָׁלוֹם‏ "šalom", turco: selam, hindi: सलाम "salām", suajili: salaam,
 indonesio: selamat.</small>
 
@@ -109,7 +108,7 @@ Yo saludo a mamá.
 **mi sal papa.**
 Yo saludo a papá.
 
-La palabra **salam** es un sustantivo y un verbo.
+La palabra **sal** es un sustantivo y un verbo.
 El orden básico de las palabras en pandunia es sujeto–verbo–objeto.
 
 **Sara ya sal Tomas.**
@@ -134,9 +133,10 @@ Te saludo.
 **tu sal mi.**
 Me saludas.
 
-Los pronombres no cambian su forma en pandunia. Es por eso que **mi** es el
-mismo en las posiciones de sujeto y objeto, mientras que el español tiene
-diferentes formas, 'yo', 'me', etc.
+Los pronombres no cambian su forma en pandunia.
+Es por eso que
+**mi**
+es el mismo en las posiciones de sujeto y objeto, mientras que el español tiene diferentes formas, 'yo', 'me', etc.
 
 **mi luba tu.**
 Te amo. (Yo ama ti)
@@ -159,10 +159,9 @@ Eso es una manzana.
 es un pronombre personal de tercera persona general.
 Es usado en personas (sin importar su género) y en cosas.
 
-**mi salam da.**
+**mi sal da.**
 Yo lo/la saludo.
 
-<small>Etimología. **da** viene del hindi: यह (yeh), suajili: yeye, malayo: ia, mandarín: 伊 (yī)</small>
 
 
 ### sual <small>se utiliza para preguntar</small>
@@ -170,19 +169,20 @@ Yo lo/la saludo.
 **sual tu e Tomas?**
 ¿Eres Tomás?
 
-**sual tu e dava ja?**
+**sual tu e davar?**
 ¿Eres doctor?
 
 Ayuda: Las preguntas que tienen como respuesta un sí o un no, frecuentemente
 inician con **sual**. Solo es un verbo regular, no una _etiqueta de pregunta_.
-De hecho, la pregunta anterior es una sencilla abreviación de **mi sual tu
-dotor** (Yo pregunto, ¿eres doctor?), en que se omite la primera palabra.
+De hecho, la pregunta anterior es una sencilla abreviación de
+**mi sual tu e davar**
+(Yo pregunto, ¿eres doctor?), en que se omite la primera palabra.
 
 **sual tu bon?**
 ¿Cómo estás? (Literalmente: _¿Estás bien?_)  
 **mi bon.**
 Estoy bien.  
-**sual tu?**
+**tu, ne?**
 ¿Y tú?  
 **mi no bon.**
 No estoy bien.
@@ -224,8 +224,8 @@ No, no estoy bien.
 
 Puedes usar
 **no**
-para negar cualquier cosa. Se coloca antes de la cosa que se
-va a negar.
+para negar cualquier cosa.
+Se coloca antes de la cosa que se va a negar.
 
 **da no sal mi.**
 Él/ella no me saluda.
@@ -289,7 +289,7 @@ Ella es Sara.
 **damen e ke?**
 ¿Quiénes son ellos/as?
 
-<small>Etimología. **ke** viene del español: qué, portugués: que, italiano:
+<small>Etimología. **ke** viene del español: qué, portugués: quê, italiano:
 che, bengalí: কী (ki).</small>
 
 ### ye & vo <small>esto, eso, aquello</small>
@@ -583,7 +583,7 @@ Lo siento. No te entiendo.
 **mi no bas aha tu.**
 No te entiendo muy bien.
 
-**mi aha siro xe.**
+**mi aha no xe.**
 No entiendo nada.
 
 
@@ -623,7 +623,7 @@ Lo siento. No puedo hablar tu idioma.
 **mi loga to tu.**
 Te hablé.
 
-**mimen loge do semen.**
+**mimen loge to semen.**
 Hablamos entre nosotros.
 
 **se loga «gato» a ke yang a pandunia?**
@@ -730,13 +730,13 @@ Voy a casa.
 **mi mus ga ke?**
 ¿A dónde debería ir?
 
-**mi mus ga do ke jen?**
+**mi mus ga to ke jen?**
 ¿A quién debería ir?
 
 **haida ga!**
 ¡Vamos! (a algún lugar)
 
-**haide ga na fute**
+**haide ga a fute**
 Vamos caminando.
 
 
@@ -767,7 +767,7 @@ Nosotros viajamos de Londres a París.
 El viaje es muy largo.
 
 
-### na <small>en, estar en (lugar)</small>
+### a <small>en, estar en (lugar)</small>
 
 **hotel a ke?**
 ¿Dónde está el hotel?
@@ -787,7 +787,8 @@ Estoy en casa.
 **da side a kamar.**
 Él/ella se sienta en la habitación.
 
-Ayuda: Puedes usar **na**
+Ayuda: Puedes usar
+**a**
 como una preposición o como un verbo por aparte.
 
 **mi kar a...**
@@ -805,9 +806,13 @@ Vivo en Singapur.
 **sual tu dom ye hotel?**
 ¿Vives en este hotel?
 
-Ayuda: También está bien decir "tu doma a ke?" en vez de "tu doma ke".  Sin
-embargo **dom** yu significa que algo está en algún lugar, así que **sa** no
-es necesario.
+Ayuda: También está bien decir
+"tu dom a ke?"
+en vez de
+"tu doma ke".
+Sin embargo
+**dom**
+ya significa que algo está en algún lugar, así que **a** no es necesario.
 
 
 ### dele <small>esperar</small>
@@ -823,6 +828,7 @@ Ellos/as nos esperan.
 
 **mi dele tu a hotel.**
 Te espero en el hotel.
+
 
 ## Parte 5: Negocios
 
@@ -853,7 +859,7 @@ Voy a tomar un café.
 Por favor toma un café para mí.
 
 **tu pas cepe pesa de mi.**
-Tú yu tomaste dinero de mí.
+Tú ya tomaste dinero de mí.
 
 **mi cepe un bir.**
 Voy a tomar una cerveza.

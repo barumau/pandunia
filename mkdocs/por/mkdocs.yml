@@ -5,8 +5,8 @@ docs_dir: ../../por
 site_dir: ../../html/por
 theme: readthedocs
 nav:
-    - Inicio: 'index.md'
-    - 'Ortografía': abc.md
+    - 'Ortografía': 102_ABC.md
+    - 'Frases básicas' : 200_baze_jumla.md
     - 'Dicionarios':
         - 'Pandunia-Português': pandunia-por.md
         - 'Português-Pandunia': por-pandunia.md
