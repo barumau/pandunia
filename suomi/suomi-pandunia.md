@@ -865,6 +865,7 @@ ihmetys (hämmästys) - ajabu
 ihminen - insan  
 ihmiset (yleisen persoonan pronomini) - jen (jen men)  
 ihmiskunta - insan jong  
+ihmismeri - jen hai  
 ihmisoikeudet - insan haki  
 ikkuna - janela  
 ikkunankehys (ikkunanpuite) - janela frem  
@@ -978,6 +979,7 @@ jasmiini - moli
 jasmiinitee - moli hua cai  
 jatkua uudestaan - redura  
 jauhaa - fa mol  
+jauhe (jauho, tomu) - fun  
 jazz (jatsi) - jaze  
 Jeesus - Yesa  
 Jeesus Kristus - Yesa Mesi  
@@ -1096,6 +1098,7 @@ kaiku - reflexi soni
 kaipuu (ikävä, nostalgia) - nostalgia  
 kaivaa (kuoppa) - kava  
 kaivaa esiin - exkava  
+kaki (persimon) - kaki  
 kakku (keksi) - keke  
 kaksi (2) - du  
 kaksikielinen - du baxa di  
@@ -1303,9 +1306,10 @@ ketterä - agile
 kettu - huli  
 keuhko - pulmon  
 keuhkokuume - pulmon tis  
-kevyt (hento, pehmeä, helppo, jne.) - ligu  
-kevyt (kevytpainoinen) - ligu veze di  
+kevyt (hento, pehmeä, helppo, jne.) - legu  
+kevyt (kevytpainoinen) - legu veze di  
 kevät - hua mosim  
+khaki - haki rang  
 Khartoum - Hartum  
 kiehua - be boli  
 kiekko (levy) - diske  
@@ -1417,7 +1421,7 @@ kolonialisti - koloni sim ja
 kolonisoida - fa koloni  
 Kolumbia - Kolombia  
 komentorivi - amir lin  
-komitea (komissio) - konmitia  
+komitea (komissio) - konmisia  
 kommunismi - kon sana sim  
 kommunisti - kon sana sim ja  
 Komorit - Komoro nesi  
@@ -1456,7 +1460,7 @@ koripallo - baske bol
 koristella - fa mei daka  
 korjaaja - xuli ja  
 korjata (ennallistaa) - repar  
-korjata (tehdä oikeaksi) - fa sahi  
+korjata (tehdä oikeaksi) - sahi  
 korjata - fa xuli  
 korjaus - xuli  
 korkata - antapa  
@@ -1684,7 +1688,7 @@ lakritsi - alkasus
 lamalaisuus - lamadin  
 lammas - meme  
 lamppu - lampa  
-lannoite - darte bon ja  
+lannoite - darti bon ja  
 lannoittaa - fa darte bon  
 lantaani - lantan  
 Laos - Lau  
@@ -1790,7 +1794,7 @@ liitto (liittouma, liiga) - liga
 liitto (unioni) - un ta liga  
 liittosopimus - kon trati  
 liittää - fa liga  
-likainen (mutainen) - darte di  
+likainen (mutainen) - darti di  
 lilja - susan  
 limonadi - limon jus  
 linja (viiva, lanka, liina, naru, köysi) - lin  
@@ -1877,13 +1881,14 @@ lyödä (iskeä) - darba
 lähde (kaivo) - fonte  
 läheinen (melkein) - karibu  
 lähestyä - be karibu  
-lähetin - tramitir  
-lähetti (lähetyssaarnaaja) - mitioner  
+lähetin - tramisir  
+lähetti (lähetyssaarnaaja) - misioner  
 lähettiläs - dai anjil ja  
-lähettää - miti  
-lähettää takaisin - remiti  
-lähettää ulos - exmiti  
-lähetys - mition  
+lähettää - misi  
+lähettää eteen (antaa odottaa) - promisi  
+lähettää takaisin - remisi  
+lähettää ulos - exmisi  
+lähetys - mision  
 lähetystö - dai anjilkan  
 lämmin - garma  
 lämpömittari - termo metre gi  
@@ -1907,8 +1912,8 @@ löytää (keksiä) - eureka
 
 ## M  
 
+maa (maa-aines) - darti  
 maa (maaperä) - geo  
-maa (multa) - darte  
 Maa (Tellus) - Geo  
 maa (valtio) - dexa  
 maahanmuuttaja - in migra ja  
@@ -2360,14 +2365,13 @@ ohra - jau
 oi! (ai, oijoi) - ayo  
 oikea (paikkansapitävä) - sahi  
 oikea puoli - dex  
-oikea puoli - raite  
 oikeakätinen - dexmanuka  
+oikeistolainen - dex sim ja  
 oikeistolainen - dexka  
-oikeistolainen - raite sim ja  
 oikeudellinen - jude di  
 oikeudenmukainen - adil  
 oikeus (käräjätalo) - adilkan  
-oikeus (oikeutus) - haki  
+oikeus (oikeutus) - haku  
 oikeus - adilta  
 oivaltaa (tajuta, hoksata) - aha  
 oja (kanava, kanaali) - kanal  
@@ -2869,8 +2873,8 @@ päästä - be laxe
 päästä pois (nukkua pois; edesmennyt) - decese  
 päätyä johtopäätökseen - infere  
 päätön - sar hin  
-pöly (tomu) - fun  
-pölynimuri - fun cupa gi  
+pöly (tomu) - haki  
+pölynimuri - haki cupu gi  
 pöytä - meza  
 pöytäliina - meza tela  
 pöö! - bu!  
@@ -3024,6 +3028,7 @@ ruuvi - vita
 ryhmä (työryhmä, yhtye, bändi) - banda  
 ryhmä - grupe  
 rytmi - ritim  
+ryystää (hörpätä, ryypätä) - sorbe  
 ryöstää (ryövätä) - luta  
 ryöväri (rosvo) - luta ja  
 räjähdys (pamaus) - bum  
@@ -3764,7 +3769,7 @@ tytär - doh
 Tyyni valtameri - Pase Hai  
 tyyny - kuxen  
 tyyppi (laji, genre) - tipe  
-tyyrpuuri - nave raite  
+tyyrpuuri - nave dex  
 työ (tehtävä) - karxe  
 työkalu - tul  
 työntekijä (työläinen) - karja  
@@ -4026,7 +4031,7 @@ vierailija (vieras) - keka ja
 vieras (tuntematon) - ansan di  
 vieri (oheis-, para-) - para  
 viesti - anjil  
-viesti - mesaje  
+viesti - misije  
 viestintuoja (airut) - anjil ja  
 Vietnam - Viete  
 vietnamilainen - viete baxa  
@@ -4136,14 +4141,15 @@ väite (teesi) - teze
 väittely (debatti) - lona  
 väittää (osoittaa) - fa argu  
 väittää - fa tese  
+väkijoukko - jen jami  
 väli (tyhjä merkki) - hali zi  
 väli - medi  
 Välimeri - Geo Medi Hai  
 väline (instrumentti) - medi gi  
 välipala (naposteltava) - xiu yam  
 välissä - a medi  
-välittää (siirtää, lähettää) - tramiti  
-välitys (siirtäminen, lähetys) - tramition  
+välittää (siirtää, lähettää) - tramisi  
+välitys (siirtäminen, lähetys) - tramision  
 väri - rang  
 väriaine - rang mate  
 väsymys - fatige  
@@ -4184,7 +4190,7 @@ yhteensopiva (yhteentoimiva) - konfunsibil
 yhteinen - kon su  
 yhteinen - konun  
 yhteiskieli - konbaxa  
-yhteiskunnallinen (sosiaalinen) - sosi di  
+yhteiskunnallinen (sosiaalinen) - sosi li  
 yhteisymmärrys - sam rai  
 yhteisö (kokoontuminen, kollektiivi) - jami  
 yhtenäinen - un ta di  

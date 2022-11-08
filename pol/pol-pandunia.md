@@ -283,6 +283,7 @@
  - fufu  
  - fuku di  
  - fulan  
+ - fun  
  - fute marke  
  - gala  
  - gam cin  
@@ -334,6 +335,7 @@
  - habar letre  
  - habar media  
  - hai vala  
+ - haki rang  
  - halal liste  
  - han guan ja  
  - Han zi  
@@ -388,6 +390,8 @@
  - jaru  
  - jela jen  
  - jen (jen men)  
+ - jen hai  
+ - jen jami  
  - jete  
  - jihade  
  - jini  
@@ -403,6 +407,7 @@
  - jun sau  
  - jun sis  
  - kable  
+ - kaki  
  - kali  
  - kali di  
  - Kalisto  
@@ -469,12 +474,12 @@
  - lasa stan  
  - lazur  
  - le  
+ - legu  
  - leta  
  - letali  
  - letali doze  
  - li  
  - liga di sanduku  
- - ligu  
  - limon jus  
  - limon oranje  
  - loga di  
@@ -536,7 +541,7 @@
  - mirabil  
  - Miranda  
  - mirar  
- - mition  
+ - mision  
  - moli hua cai  
  - moto cati  
  - muxu cakra  
@@ -689,6 +694,7 @@
  - son doh  
  - son son  
  - sona tabi  
+ - sorbe  
  - spete  
  - stan  
  - suan mate  
@@ -835,6 +841,7 @@
  - antomibil  
  - antranse vide di  
  - apele  
+ - asorbe  
  - aspete  
  - ation  
  - atir  
@@ -872,7 +879,7 @@
  - exjete  
  - exkava  
  - exkurse  
- - exmiti  
+ - exmisi  
  - expele  
  - expoze  
  - exprese  
@@ -933,6 +940,7 @@
  - produte  
  - produter  
  - progresion  
+ - promisi  
  - propele  
  - propeler  
  - proteste  
@@ -950,7 +958,7 @@
  - reflexir  
  - regrese  
  - rejete  
- - remiti  
+ - remisi  
  - repar  
  - repele  
  - represe  
@@ -971,9 +979,9 @@
  - tomi grafi  
  - trajiva  
  - trakurse  
- - tramiti  
- - tramition  
- - tramitir  
+ - tramisi  
+ - tramision  
+ - tramisir  
  - tritomi  
  - unbaxaka  
  - ungene  
@@ -1761,7 +1769,7 @@ grom, huk - grom
 grubość - grosta  
 gruby - gros  
 grudzień - mes tisa  
-grunt (ziemia, próchnica) - darte  
+grunt (ziemia, próchnica) - darti  
 grupa - grupe  
 grupa etniczna - zuku  
 gruszka - pera  
@@ -2146,7 +2154,7 @@ kolumna, filar - kolum
 komar, moskit - moski  
 komik - yumor ja  
 komiks; kreskówka - grafi kata  
-komisja (komitet) - konmitia  
+komisja (komitet) - konmisia  
 Komory - Komoro nesi  
 kompas (namagnesowana igła) - ponte pin  
 kompatybilny (pasujący) - kon funsibil  
@@ -2313,7 +2321,7 @@ lawa - yung petra
 lazania - lazanya  
 lejek - dara tubo  
 lekcja - xula xe  
-lekki - ligu veze di  
+lekki - legu veze di  
 leksem - lexime  
 lepić (kleić) - fa glu  
 lepki (kleisty) - glu di  
@@ -2527,7 +2535,7 @@ minuta - minute
 minąć, mijać (czas) - fa dura  
 minąć, mijać, przeminąć, przemijać - pas  
 miraż (fatamorgana) - miraje  
-misjonarz - mitioner  
+misjonarz - misioner  
 mistrz (ekspert) - master  
 mistrz (sensei) - xifu  
 mit (boska opowieść) - deu kata  
@@ -2682,7 +2690,7 @@ nautilus - nautile
 nawet - hata di  
 nawozić (nawieźć) - fa darte bon  
 nawyk (przyzwyczajenie) - ada  
-nawóz - darte bon ja  
+nawóz - darti bon ja  
 nazista - natia sosia simja  
 nazwa użytkownika - uze ja nam  
 nazwać, nazywać, wezwać, wzywać - fa nam  
@@ -2826,7 +2834,7 @@ odbyt - anus
 odcisk, ślad; stempel, pieczęć - cape  
 oddech - nafas  
 odetkać, odtykać - antapa  
-odkurzacz - fun cupa gi  
+odkurzacz - haki cupu gi  
 odmówić (odrzucić) - nega  
 odnowić, odnawiać, uczynić nowym - fa neu  
 odpowiedzieć, odpowiadać - fa javabu  
@@ -3152,7 +3160,7 @@ popełnić błąd - fa galte
 popiół - hui  
 poporodowy - posnati  
 popołudnie - xam dia  
-poprawić, poprawiać, prostować, korygować - fa sahi  
+poprawić, poprawiać, prostować, korygować - sahi  
 poprawny (wykonalny) - funsibil  
 poprowadzić do (doprowadzić do, powodować) - fa asar  
 poprzedni - pre  
@@ -3242,14 +3250,13 @@ pralka - fuku vaxi gi
 prawa autorskie - kopi haki  
 prawa człowieka - insan haki  
 prawa strona - dex  
-prawa strona - raite  
 prawdziwy (rzeczywisty, szczery) - ver  
+prawicowiec (prawak) - dex sim ja  
 prawicowiec (prawak) - dexka  
-prawicowiec (prawak) - raite sim ja  
 prawo - kanun  
 prawo wyborcze - vote haki  
-prawo, przywilej - haki  
-prawy (prawostronny, z prawej strony) - raite di  
+prawo, przywilej - haku  
+prawy (prawostronny, z prawej strony) - dex di  
 prazeodym - prazedim yum  
 prać, umyć, myć - vaxi  
 preferować (woleć) - max fili  
@@ -3374,7 +3381,7 @@ pułapka - kape truke
 pyszny - bon guste di  
 pytajny, związany z pytaniem - sual di  
 pytanie - sual  
-pył - fun  
+pył - haki  
 półka (regał na książki) - lipa bano  
 północ - medi noce  
 północ - norde  
@@ -3708,7 +3715,7 @@ sposób (metoda, tryb) - mode
 spotkać (spotkanie, zebranie) - ajami  
 spowodować, powodować - fa sabu  
 społeczeństwo, system społeczny - sosi  
-społeczny - sosi di  
+społeczny - sosi li  
 sprawdzić (sprawdzać, skontrolować, zbadać) - inspete  
 sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać - ceka  
 sprawiedliwość - adilta  
@@ -3742,7 +3749,7 @@ starzec - lau jen
 statyczny, stacjonarny, nieruchomy - estasi di  
 stać - lipa  
 stały (sztywny) - gati mate di  
-sterburta (prawa burta) - nave raite  
+sterburta (prawa burta) - nave dex  
 sto (100) - sento  
 stojak (wieszak) - lipa baze  
 stokrotka - margarita  
@@ -4155,7 +4162,7 @@ wciąż, nadal; kontynuować, wznawiać, ponawiać - zoku
 wczoraj - preden  
 wdowa - vidou  
 wdzięczność - xukurta  
-według ruchu wskazówek zegara - rota raite  
+według ruchu wskazówek zegara - rota dex  
 weganin (weganka) - pul fito yam sim ja  
 wegetarianin - fito yam sim ja  
 wejście - inmun  
@@ -4172,7 +4179,7 @@ wewnętrzny - in di
 wewnętrzny - innati  
 wełna (runo owcze) - meme kexa  
 wiadomość - anjil  
-wiadomość - mesaje  
+wiadomość - misije  
 wiadomość, nius - habar  
 wiadomość, zawiadomienie, powiadomienie - note anjil  
 wiadro - baldi  
@@ -4336,7 +4343,7 @@ Wyspy Zielonego Przylądka (Republika Zielonego Przylądka) - Kabu Verde
 Wyspy Świętego Tomasza i Książęca - Sante Tome i Principe  
 wystarczający - bas  
 wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić) - nete don  
-wysłać (wyemitować) - miti  
+wysłać (wyemitować) - misi  
 wytwórca łuków i strzał - flece ja  
 wyć - fa ulul  
 wyświetlać - fa lanse grafi  
@@ -4489,7 +4496,7 @@ zielenina - coi
 zielony - luga  
 ziemia, grunt, gleba - geo  
 ziemniak - patate  
-ziemny (glebowy, gruntowy) - darte di  
+ziemny (glebowy, gruntowy) - darti di  
 ziggurat - zikura  
 zima - leng mosim  
 Zimbabwe - Zimbabue  

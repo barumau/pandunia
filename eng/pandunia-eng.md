@@ -772,9 +772,9 @@ dara mate di - fluid (liquid)
 dara tubo - funnel  
 darba - strike (punch)  
 darmestadi yum - darmstadtium  
-darte - soil (dirt)  
-darte bon ja - fertilizer  
-darte di - soily (dirty)  
+darti - soil (dirt)  
+darti bon ja - fertilizer  
+darti di - soily (dirty)  
 darvin sim - Darwinism  
 darvin sim ja - Darwinist  
 data - data (numeric information)  
@@ -832,8 +832,10 @@ deu nagar zi - Devanagari alphabet
 • andeu sim ja - atheist  
 deu sofi - theosophy  
 dex - right (right hand side)  
+dex di - right hand  
 dexka - rightist (right-winger)  
 dexmanuka - right-handed (dexter)  
+dex sim ja - rightist (right-winger)  
 dexa - country (land, state)  
 dexa jen - citizen  
 di - attributive postposition  
@@ -1264,7 +1266,6 @@ fa sabu - cause (be the cause for)
 fa safa - clean (purify)  
 fa safa va tela - wipe (clean with a cloth)  
 fa safar - travel  
-fa sahi - correct (make right)  
 fa saide - hunt (fish)  
 fa salam - greet  
 fa sam rai - agree (concur)  
@@ -1500,8 +1501,7 @@ fuku - clothing (clothes)
 fuku di - clothed (dressed)  
 fuku vaxi gi - washing machine  
 fulan - such-and-such (so-and-so)  
-fun - dust (powder)  
-fun cupa gi - vacuum cleaner  
+fun - powder  
 fungu - fungus (mushroom)  
 fungu frute - mushroom (sporocarp)  
 fungu nete - mycelium  
@@ -1773,7 +1773,10 @@ hai ordu - sea force (navy)
 hai porte - harbor (seaport)  
 hai vala - sailor (seaman, mariner)  
 haide - let's  
-haki - right (entitlement)  
+haki - dust  
+haki cupu gi - vacuum cleaner  
+haki rang - khaki  
+haku - right (entitlement)  
 hal - state (condition, status, situation)  
 halal - permissible (allowed, halal)  
 halal liste - whitelist  
@@ -2057,6 +2060,8 @@ jele - gel (jelly)
 jen - person (individual, -ist, -er)  
 jen (jen men) - one (impersonal pronoun: people, you)  
 jen di - personal (intimate, private, custom)  
+jen hai - a sea of people (huge crowd)  
+jen jami - crowd  
 jenxen - ginseng  
 Jerze - Jersey  
 jete - thrust (throw, cast)  
@@ -2136,6 +2141,7 @@ kai - open (not closed)
 Kaiman nesi - Cayman Islands  
 kaka - excrement (shit)  
 kakau - cocoa  
+kaki - persimmon (kaki)  
 kala - black  
 Kalal - Greenland  
 kalam - pen (writing tool)  
@@ -2552,6 +2558,8 @@ lazanya - lasagna
 lazur - azure  
 lazur petra - lapis lazuli  
 le - attain (accomplish, indicates the current position)  
+legu - light (requiring little effort, easy, soft, minute, unimportant, etc.)  
+legu veze di - light (light-weight)  
 leng - cold  
 leng mosim - winter  
 leng mosim di - wintry  
@@ -2589,8 +2597,6 @@ lietuva baxa - Lithuanian
 lifafa - wrapping (envelope, covering)  
 liga - league (alliance)  
 liga di sanduku - Ark of the Covenant  
-ligu - light (requiring little effort, easy, soft, minute, unimportant, etc.)  
-ligu veze di - light (light-weight)  
 Lihtenstain - Liechtenstein  
 lila - lilac  
 lila rang - lilac color  
@@ -2862,7 +2868,6 @@ mes nelu - April
 mes tisa - September  
 mes tri - March  
 mes un - January  
-mesaje - message  
 mesi - Christ (messiah)  
 • anmesi - antichrist  
 mesi di - messianic  
@@ -2928,18 +2933,20 @@ mirar - watcher
 Miranda - Miranda  
 mirde - faint (depending on context: soft, dull, mild, weak, slow, subtle)  
 misal - example (instance of)  
+misi - send (emit, transmit)  
+• exmisi - emit  
+• konmisia - commission (committee)  
+• promisi - send forth (promise)  
+• remisi - send back (remit)  
+• tramisi - transmit   
+• tramision - transmission  
+• tramisir - transmitter  
+misije - message  
+mision - mission (sending)  
+misioner - missionary  
 miskin - poor (miserable)  
 Misri - Egypt  
 misri di - Egyptian  
-miti - send (emit, transmit)  
-• exmiti - emit  
-• konmitia - commission (committee)  
-• remiti - send back (remit)  
-• tramiti - transmit   
-• tramition - transmission  
-• tramitir - transmitter  
-mition - mission (sending)  
-mitioner - missionary  
 mitre - meter (100 cm)  
 mixe - mix (blend)  
 mixe alkol - cocktail  
@@ -3081,11 +3088,11 @@ Nauru - Nauru
 nautile - nautilus  
 nava - Nahuatl (Nahua)  
 nave - boat (ship)  
+nave dex - starboard (right side of a ship)  
 nave ga - sail  
 nave ga ja - sailer  
 nave kape ja - privateer (buccaneer)  
 nave leu - port (left side of a ship)  
-nave raite - starboard (right side of a ship)  
 nave xefe - captain  
 ne - right? (isn't it?)  
 Nederlande - Netherlands  
@@ -3616,9 +3623,6 @@ radio na gi - radio receiver
 radon - radon  
 ragubi - rugby  
 rai - opinion (view)  
-raite - right hand side  
-raite di - right hand  
-raite sim ja - rightist (right-winger)  
 raja - king or queen  
 raja dexa - kingdom  
 raja di - royal  
@@ -3697,8 +3701,8 @@ romanse - romance (romantic love)
 • anromanse - aromantic  
 romanse di - romantic  
 rose - dew  
+rota dex - clockwise  
 rota leu - counterclockwise (anticlockwise)  
-rota raite - clockwise  
 rota tufan - cyclone (hurrican, tornado, typhoon)  
 rota vanu gi - top (spinning top)  
 rota xe - rotor (rotator)  
@@ -3750,6 +3754,7 @@ safran - saffron
 sagu - sago palm  
 sagu fun - sago  
 Sahara Dexa - Sahrawi Arab Democratic Republic  
+sahi - correct (make right)  
 sahi - right (correct, accurate)  
 saide - hunting (fishing)  
 saide ja - hunter  
@@ -3988,10 +3993,12 @@ sona papi - opium poppy
 sona tabi - drowsy  
 songi - pine tree  
 soni - sound (audio)  
+sorbe - sip (slurp, suck up)  
+• asorbe - absorb  
 sos - sauce  
 sosi - society (association)  
-sosi di - social  
 sosi jinse - social gender  
+sosi li - social  
 sosi medi gi - social media  
 sosi sim - socialism  
 sosi sim ja - socialist  

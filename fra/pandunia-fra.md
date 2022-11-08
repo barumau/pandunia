@@ -401,6 +401,7 @@ coklate kane - tablette de chocolat
 copu - houe  
 culi - traitement (processe)  
 cunbil - option  
+cupu - sucer  
 
 ## D  
 
@@ -674,6 +675,7 @@ frute - fruit
 frute bagi - verger  
 fufu - pâte (pulpe, foufou)  
 fuku - vêtements  
+fun - poudre  
 fungu frute - champignon  
 fungu nete - mycélium  
 fute bol - football  
@@ -790,7 +792,9 @@ hai jele - méduse
 hai kinar - côte  
 hai ordu - force navale (marine)  
 hai vala - matelot  
-haki - droit  
+haki - poussière  
+haki rang - kaki  
+haku - droit  
 hal - état  
 hali - vide  
 hali zi - espace  
@@ -911,6 +915,7 @@ jeka na - empruntre
 jelakan - prison (geôle)  
 jen - personne  
 jen (jen men) - on  
+jen jami - foule  
 • projete - projet  
 jete grafi - projeter (image projection)  
 jihade - lutte  
@@ -949,6 +954,7 @@ kafe rang - brun (marron)
 kafe salmon - truite brune (truite de mer)  
 kaguji - papier  
 kaguji limon - lime (citron vert)  
+kaki - kaki  
 kala - noir  
 kalam - plume  
 kalam sui - encre  
@@ -1142,6 +1148,7 @@ laxe - laisser
 lazanya - lasagne  
 lazur - azur  
 lazur petra - lapis-lazuli  
+legu veze di - léger  
 leng mosim - hiver  
 leng mosim di - hivernal (hibernal)  
 lense - lentille  
@@ -1160,7 +1167,6 @@ libele - libellule
 lida ja - dirigeant (leader)  
 liga - ligue (alliance)  
 liga di sanduku - Arche d'Alliance  
-ligu veze di - léger  
 lila - lilas  
 lima - cinq (5)  
 limon - citron  
@@ -1278,7 +1284,6 @@ Merkur - Mercure
 merkurden - mercredi  
 mes - mois  
 mes bati - août  
-mesaje - mensaje  
 mesi - Christ (messie)  
 metan - méthane  
 metanol - méthanol (alcool de bois)  
@@ -1306,14 +1311,16 @@ mirabil - merveille
 miraje - mirage  
 mira plate - miroir  
 mirde - faible  
+• exmisi - émettre  
+• konmisia - comisión (comité)  
+• promisi - promettre  
+• tramisi - transmitir  
+• tramision - transmisión  
+• tramisir - transmisor  
+misije - message  
+mision - misión  
+misioner - misionero  
 Misri - Égypte  
-• exmiti - émettre  
-• konmitia - comisión (comité)  
-• tramiti - transmitir  
-• tramition - transmisión  
-• tramitir - transmisor  
-mition - misión  
-mitioner - misionero  
 mitre - mètre  
 mode - mode (façon, manière)  
 mogu - membrane  
@@ -1374,8 +1381,8 @@ nau - cerveau (cervelle)
 nau di - cérébral  
 nautile - nautile  
 nave - bateau  
+nave dex - tribord  
 nave leu - babord  
-nave raite - tribord  
 nefre - rein  
 nefte - huile (pétrole)  
 nekro - cadavre (corps)  
@@ -1767,6 +1774,7 @@ sona kamar - chambre à coucher
 sona papi - pavot somnifère  
 sona tabi - ensommeillé (somnolent)  
 soni - son  
+• asorbe - absorber (éponger)  
 sos - sauce  
 sosi - société  
 sosis - saucisse  

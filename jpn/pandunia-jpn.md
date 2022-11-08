@@ -282,7 +282,7 @@ Danske - デンマークの
 dante baluta - カシワ  
 dara tubo - 漏斗  
 darmestadi yum - ダームスタチウム  
-darte - 土  
+darti - 土  
 data culi - データ処理  
 data culi logi - 計算機科学  
 data fen gata - データ解析  
@@ -502,6 +502,7 @@ frute bagi - 果樹園
 fuku - 服  
 fuku vaxi gi - 洗濯機  
 fulan - 何々  
+fun - 粉  
 fungu frute - 茸  
 fungu nete - 菌糸体  
 fute bano - 足場  
@@ -615,7 +616,8 @@ hai nil - 水色
 hai ordu - 海軍  
 hai porte - 海港  
 hai vala - 船員 (水夫)  
-haki - 権利  
+haki rang - カーキ色  
+haku - 権利  
 hal - 状態  
 halal liste - ホワイトリスト  
 hali - 空  
@@ -755,6 +757,7 @@ kafe rang - 茶色
 kafe salmon - ブラウントラウト  
 kaguji - 紙  
 kaguji limon - メキシカンライム (マナオ)  
+kaki - 柿  
 kala - 黒い  
 kalam - ペン  
 kalam sui - インク (墨)  
@@ -1069,7 +1072,6 @@ mes nelu - ４月
 mes tisa - ９月  
 mes tri - ３月  
 mes un - １月  
-mesaje - 伝言 (メッセージ)  
 metan - メタン  
 metanol - メタノール  
 metil - メチル  
@@ -1097,9 +1099,10 @@ minta - ハッカ
 miraje - 蜃気楼  
 mira plate - 鏡  
 mirde - 微か  
+• konmisia - 委員会  
+misije - 伝言 (メッセージ)  
+misioner - 宣教師  
 Misri - エジプト  
-• konmitia - 委員会  
-mitioner - 宣教師  
 mitre - メートル  
 mixe alkol - カクテル (混合酒)  
 mogu - 膜  
@@ -1341,7 +1344,6 @@ radi longta - 半径
 radi yum - ラジウム  
 radon - ラドン  
 rai - 意見 (見解)  
-raite - 右  
 raja - 国王  
 rajanan - 王様  
 rajani - 女王  

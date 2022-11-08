@@ -587,6 +587,7 @@ fufu - мякоть (пульпа, фуфу)
 fuku - одежда  
 fuku di - оде́тый  
 fuku vaxi gi - стиральная машина  
+fun - порошок (пудра)  
 fungu frute - гриб  
 fute bol - футбол  
 fute marke - след ноги  
@@ -697,6 +698,8 @@ hai hiyar - голотурия (морские огурц)
 hai hua - морские анемоны  
 hai ordu - военно-морской флот  
 hai vala - моряк  
+haki - пыль  
+haki rang - хаки  
 hal - состояние (статус)  
 hali - пустой  
 halifa - халиф  
@@ -802,6 +805,7 @@ jaru - метла
 jau - ячмень  
 javabu - ответ  
 jebu - карман  
+jen jami - толпа  
 • projete - проект  
 jihade - борьба (бой)  
 jinji - имбирь  
@@ -844,6 +848,7 @@ kafe rang - коричневый
 kafe salmon - кумжа  
 kaguji - бумага  
 kaguji limon - лайм  
+kaki - хурма  
 kala - чёрный  
 kalam - ручка  
 kalam sui - чернила  
@@ -1167,7 +1172,6 @@ meranti - шорея
 Merkur - Меркурий  
 merkurden - среда  
 mes - месяц  
-mesaje - رِسالة‎  
 metan - метан  
 metanol - метанол  
 metil - метил  
@@ -1190,6 +1194,7 @@ minta - мята
 miraje - мираж  
 mira plate - зеркало  
 mirde - слабый  
+misije - месседж  
 Misri - Египет  
 mitre - метр  
 mixe - мешать  
@@ -1257,8 +1262,8 @@ nau di - мозговой (церебральный)
 nau hin - безмозглый  
 nautile - наутилид  
 nave - лодка (бот)  
+nave dex - правый борт  
 nave leu - левый борт  
-nave raite - правый борт  
 nefre - почка  
 nefte - масло  
 nekro - труп (мёртвое тело)  
@@ -1632,6 +1637,7 @@ sona kamar - спальня
 sona papi - мак снотворный  
 sona tabi - сонный  
 songi - сосна  
+sorbe - сёрбать  
 sos - соус  
 sosi - общество (социум)  
 sosi jinse - гендер  

@@ -6,6 +6,7 @@
 ## A  
 
 a couple of - du o tri  
+a sea of people (huge crowd) - jen hai  
 abacus - lulu table  
 abattoir (slaughterhouse) - bucakan  
 ability - bilta  
@@ -13,6 +14,7 @@ Abkhazia - Apsni
 about (approximately, nearly, almost) - yaki  
 about (concerning, on the topic of) - a tema de  
 above (over) - a supra  
+absorb - asorbe  
 Abyssinia - Habaxa  
 Abyssinian - habaxa  
 acacia - akasia  
@@ -800,7 +802,7 @@ clipboard (paste buffer) - gata glu bano
 clipboard (physical board) - pinse bano  
 clock (watch) - hor loga gi  
 clocktower - hor loga minar  
-clockwise - rota raite  
+clockwise - rota dex  
 clone (replica) - klon  
 clone (replicate) - fa klon  
 close (shut) - fa klus  
@@ -852,7 +854,7 @@ come (arrive) - lai
 comic (cartoon) - grafi kata  
 comma - koma  
 command line (console, terminal) - amir lin  
-commission (committee) - konmitia  
+commission (committee) - konmisia  
 common (general) - putong  
 common (mutual) - kon su  
 common (shared) - konun  
@@ -940,7 +942,7 @@ corner (angle) - gona
 cornflower - nil kentaur hua  
 corona virus - korona virus  
 corpse (dead body) - nekro  
-correct (make right) - fa sahi  
+correct (make right) - sahi  
 corrupt (pollute, soil, defile, stain, taint) - fa najis  
 corruption (filth, pollution, contamination, najis) - najis  
 cosmic - kosmo di  
@@ -991,6 +993,7 @@ cross - krus
 crossbow (ballista) - krus arka  
 crosshair (reticle) - krus lin  
 crouch (squat) - lipa side  
+crowd - jen jami  
 crown - korona  
 crucify - fa krus fixe  
 cruelty (tyranny, despotism) - zalimta  
@@ -1241,7 +1244,7 @@ durable (endurable, sustainable) - durabil
 duration (time interval) - dura  
 during (while) - a dura de  
 duruka - yam sukar gana  
-dust (powder) - fun  
+dust - haki  
 dye - rang mate  
 dynamite - dinamite  
 dysfunction (malfunction) - dusfunsi  
@@ -1295,7 +1298,7 @@ embassy - dai anjilkan
 emerald - zumarde  
 emir - amir ja  
 emirate - amir dexa  
-emit - exmiti  
+emit - exmisi  
 emoji (smiley, emoticon) - gamo zi  
 emotion (feeling) - gamo  
 emotional (emotive) - gamo di  
@@ -1495,7 +1498,7 @@ fermented - bio mute di
 fermium - fermi yum  
 fern - parne  
 fertilize - fa darte bon  
-fertilizer - darte bon ja  
+fertilizer - darti bon ja  
 fervour (zeal, passion) - zelo  
 fever - febre  
 fibre - lin so  
@@ -2191,6 +2194,7 @@ key (push-button, switch) - buton
 key - cavi  
 key lime - kaguji limon  
 keyboard - buton bano  
+khaki - haki rang  
 Khartoum - Hartum  
 kidney - nefre  
 kill (slay; violent death) - leta  
@@ -2326,8 +2330,8 @@ Liechtenstein - Lihtenstain
 life (organic) - bio  
 light (bright) - foto di  
 light (illumination) - foto  
-light (light-weight) - ligu veze di  
-light (requiring little effort, easy, soft, minute, unimportant, etc.) - ligu  
+light (light-weight) - legu veze di  
+light (requiring little effort, easy, soft, minute, unimportant, etc.) - legu  
 light blue (sky blue, azure) - sama nil  
 lightning bolt - eletro radi  
 like or characteristic of the previous word (-like, -ly, -al) - li  
@@ -2577,7 +2581,7 @@ Mercury - Merkur
 merge (fuse) - be yung liga  
 meridian (line of longitude) - ging gola  
 message - anjil  
-message - mesaje  
+message - misije  
 messenger - anjil ja  
 messianic - mesi di  
 metal - metal  
@@ -2634,8 +2638,8 @@ misdeed (sin, vice) - dusati
 misdeed (sin, vice) - duskar  
 misfortune (bad luck) - dus zar  
 misfortune (misery, affliction, calamity, catastrophe, disaster, harm) - bela  
-mission (sending) - mition  
-missionary - mitioner  
+mission (sending) - mision  
+missionary - misioner  
 mistake (error, fault, blunder, bug) - galte  
 misunderstand - galte budi  
 mix (blend) - mixe  
@@ -3112,6 +3116,7 @@ perished (ruined, devastated, wretched) - perex
 permissible (allowed, halal) - halal  
 peroxide - peroxide  
 Persia (Persian; Farsi) - parsi  
+persimmon (kaki) - kaki  
 person (individual, -ist, -er) - jen  
 personal (intimate, private, custom) - jen di  
 personal identification number (PIN) - sekur nume  
@@ -3275,6 +3280,7 @@ potion - dava sui
 potter - pote ja  
 pottery - pote suta  
 pound (£) - paunde  
+powder - fun  
 power (authority, rule) - sultan  
 practical (pragmatic) - prati di  
 practice (actuality) - prati  
@@ -3531,15 +3537,14 @@ rice cake (puffed rice cake) - varis biskute
 rice wine - varis vin  
 rich - rike  
 right (correct, accurate) - sahi  
-right (entitlement) - haki  
+right (entitlement) - haku  
 right (right hand side) - dex  
 right angle - orto gona  
-right hand - raite di  
-right hand side - raite  
+right hand - dex di  
 right-handed (dexter) - dexmanuka  
 right? (isn't it?) - ne  
+rightist (right-winger) - dex sim ja  
 rightist (right-winger) - dexka  
-rightist (right-winger) - raite sim ja  
 rigid (solid) - gati mate di  
 ring (sports or exhibition arena) - ringar  
 ring (toll, clang) - dang  
@@ -3726,8 +3731,9 @@ semaphore - semi forar
 sememe - semime  
 seminal - seme di  
 senator - supra vakil ja  
-send (emit, transmit) - miti  
-send back (remit) - remiti  
+send (emit, transmit) - misi  
+send back (remit) - remisi  
+send forth (promise) - promisi  
 Senegal - Senegal  
 senior fellow (senpai) - sen bei  
 sense (method of perception) - sense  
@@ -3817,6 +3823,7 @@ simple (not complicated) - simple
 sing (song, chant) - gani  
 Singapore - Singapur  
 singer - ganir  
+sip (slurp, suck up) - sorbe  
 sister - sis  
 sit (put down) - fa side  
 sit down - side  
@@ -3865,7 +3872,7 @@ snow - hima
 snow drift - hima duna  
 soak (steep, marinate) - pul xipi  
 soap - sabun  
-social - sosi di  
+social - sosi li  
 social gender - sosi jinse  
 social media - sosi medi gi  
 socialism - sosi sim  
@@ -3878,8 +3885,8 @@ sodium - natri
 sofa (couch) - sofa  
 soft - komal  
 software (virtual device) - program gi  
-soil (dirt) - darte  
-soily (dirty) - darte di  
+soil (dirt) - darti  
+soily (dirty) - darti di  
 solar system - sol sistem  
 soldier - ordu jen  
 solid - gati mate  
@@ -3965,7 +3972,7 @@ stand (rack) - lipa baze
 stand - lipa  
 stand still - be estasi  
 star - sing  
-starboard (right side of a ship) - nave raite  
+starboard (right side of a ship) - nave dex  
 stare (watch, gaze) - mira  
 starship - astro nave  
 state (condition, status, situation) - hal  
@@ -4297,9 +4304,9 @@ train ticket - tren tikete
 transit (pass through or across) - fa transe  
 transit (transport, passage) - trapas  
 translate (interpret; translation, interpretation) - trabaxa  
-transmission - tramition  
-transmit  - tramiti  
-transmitter - tramitir  
+transmission - tramision  
+transmit  - tramisi  
+transmitter - tramisir  
 Transnistria - Transe Nistre Dexa  
 transparent (see-through, clear) - transe vide di  
 transport (transportation) - traporte  
@@ -4417,7 +4424,7 @@ Uzbekistan - Uzbeki
 ## V  
 
 vaccine - vasin  
-vacuum cleaner - fun cupa gi  
+vacuum cleaner - haki cupu gi  
 vagina - vagina  
 vaginitis - vagina tis  
 valley - vali  

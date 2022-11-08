@@ -737,9 +737,9 @@ dara mate di - ciekły (płynny)
 dara tubo - lejek  
 darba - bić, uderzyć, uderzać  
 darmestadi yum - darmsztadt  
-darte - grunt (ziemia, próchnica)  
-darte bon ja - nawóz  
-darte di - ziemny (glebowy, gruntowy)  
+darti - grunt (ziemia, próchnica)  
+darti bon ja - nawóz  
+darti di - ziemny (glebowy, gruntowy)  
 darvin sim - darwinizm  
 darvin sim ja - darwinista  
 data - dane  
@@ -797,8 +797,10 @@ deu nagar zi - dewanagari
 • andeu sim ja - ateista  
 deu sofi - teozofia  
 dex - prawa strona  
+dex di - prawy (prawostronny, z prawej strony)  
 dexka - prawicowiec (prawak)  
 dexmanuka -   
+dex sim ja - prawicowiec (prawak)  
 dexa - kraj, ziemia  
 dexa jen - obywatel  
 di -   
@@ -1229,7 +1231,6 @@ fa sabu - spowodować, powodować
 fa safa - wyczyścić, czyścić  
 fa safa va tela -   
 fa safar - podróżować  
-fa sahi - poprawić, poprawiać, prostować, korygować  
 fa saide - polować (łowić)  
 fa salam - pozdrowić, pozdrawiać  
 fa sam rai - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
@@ -1465,8 +1466,7 @@ fuku - ubranie, ubiór, strój
 fuku di -   
 fuku vaxi gi - pralka  
 fulan -   
-fun - pył  
-fun cupa gi - odkurzacz  
+fun -   
 fungu - grzyb  
 fungu frute - sporokarp  
 fungu nete - grzybnia  
@@ -1738,7 +1738,10 @@ hai ordu - marynarka (flota)
 hai porte - port morski (przystań)  
 hai vala -   
 haide - niech my, hajda  
-haki - prawo, przywilej  
+haki - pył  
+haki cupu gi - odkurzacz  
+haki rang -   
+haku - prawo, przywilej  
 hal - stan  
 halal - dozwolony (dopuszczalny, zezwolony, halal)  
 halal liste -   
@@ -2022,6 +2025,8 @@ jele - żel, galareta
 jen - osoba  
 jen (jen men) -   
 jen di - osobisty, intymny, prywatny  
+jen hai -   
+jen jami -   
 jenxen - żeń-szeń  
 Jerze - Jersey  
 jete -   
@@ -2101,6 +2106,7 @@ kai - otwarty, niezamknięty
 Kaiman nesi - Kajmany  
 kaka - ekskrement, gówno  
 kakau - kakao  
+kaki -   
 kala - czarny  
 Kalal - Grenlandia  
 kalam - pióro, długopis  
@@ -2518,6 +2524,8 @@ lazanya - lazania
 lazur -   
 lazur petra - lapis lazuli  
 le -   
+legu -   
+legu veze di - lekki  
 leng - zimny, chłodny  
 leng mosim - zima  
 leng mosim di - zimowy  
@@ -2555,8 +2563,6 @@ lietuva baxa - litewski
 lifafa - owinięcie (koperta, okładka)  
 liga - liga (stowarzyszenie)  
 liga di sanduku -   
-ligu -   
-ligu veze di - lekki  
 Lihtenstain - Liechtenstein  
 lila - lilak  
 lila rang - liliowy  
@@ -2829,7 +2835,6 @@ mes nelu - lipiec
 mes tisa - grudzień  
 mes tri - czerwiec  
 mes un - styczeń  
-mesaje - wiadomość  
 mesi - Chrystus, mesjasz  
 • anmesi - antychryst  
 mesi di - mesjański  
@@ -2894,18 +2899,20 @@ mirar -
 Miranda -   
 mirde - nikły  
 misal - przykład  
+misi - wysłać (wyemitować)  
+• exmisi -   
+• konmisia - komisja (komitet)  
+• promisi -   
+• remisi -   
+• tramisi -   
+• tramision -   
+• tramisir -   
+misije - wiadomość  
+mision -   
+misioner - misjonarz  
 miskin - biedny, mizerny  
 Misri - Egipt  
 misri di - egipski  
-miti - wysłać (wyemitować)  
-• exmiti -   
-• konmitia - komisja (komitet)  
-• remiti -   
-• tramiti -   
-• tramition -   
-• tramitir -   
-mition -   
-mitioner - misjonarz  
 mitre - metr  
 mixe - miksować, mieszać  
 mixe alkol - koktajl  
@@ -3046,11 +3053,11 @@ Nauru - Nauru
 nautile - nautilus  
 nava - nahuatl  
 nave - łódź, statek  
+nave dex - sterburta (prawa burta)  
 nave ga - żeglować (płynąć)  
 nave ga ja - żeglarz (marynarz)  
 nave kape ja - kaper (korsarz)  
 nave leu - bakburta (lewa burta)  
-nave raite - sterburta (prawa burta)  
 nave xefe - kapitan  
 ne -   
 Nederlande - Holandia (Królestwo Niderlandów)  
@@ -3581,9 +3588,6 @@ radio mise gi - nadajnik radiowy
 radio na gi - radio  
 radon - radon  
 rai - opinia, pogląd  
-raite - prawa strona  
-raite di - prawy (prawostronny, z prawej strony)  
-raite sim ja - prawicowiec (prawak)  
 raja - król lub królowa  
 raja dexa - królestwo  
 raja di - królewski  
@@ -3662,8 +3666,8 @@ romanse - miłość romantyczna
 • anromanse - aromantyczny  
 romanse di - romantyczny  
 rose - rosa  
+rota dex - według ruchu wskazówek zegara  
 rota leu - przeciwnie do ruchu wskazówek zegara  
-rota raite - według ruchu wskazówek zegara  
 rota tufan - trąba powietrzna (cyklon, tornado, tajfun)  
 rota vanu gi - bąk, bączek  
 rota xe - rotor, wirnik  
@@ -3715,6 +3719,7 @@ safran - szafran
 sagu - sago  
 sagu fun -   
 Sahara Dexa - Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna)  
+sahi - poprawić, poprawiać, prostować, korygować  
 sahi - właściwy, poprawny  
 saide - polowanie (łowienie)  
 saide ja - łowca (myśliwy)  
@@ -3953,10 +3958,12 @@ sona papi - mak lekarski
 sona tabi -   
 songi - sosna  
 soni - dźwięk, brzmienie  
+sorbe -   
+• asorbe -   
 sos - sos  
 sosi - społeczeństwo, system społeczny  
-sosi di - społeczny  
 sosi jinse - płeć społeczna  
+sosi li - społeczny  
 sosi medi gi - media społecznościowe  
 sosi sim - socjalizm  
 sosi sim ja - socjalista  

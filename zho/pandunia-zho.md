@@ -515,6 +515,7 @@ fufu - 富富
 fuku - 衣服  
 fuku vaxi gi - 洗衣机  
 fulan - 某某  
+fun - 粉  
 fungu frute - 蘑菇  
 funsibil - 機能的  
 fute marke - 脚印  
@@ -620,7 +621,9 @@ hai kinar - 海岸
 hai ordu - 海军  
 hai porte - 海港  
 hai vala - 水手 (海员)  
-haki - 权利  
+haki - 灰尘 (尘土)  
+haki rang - 卡其色  
+haku - 权利  
 hal - 状态  
 hali - 空的  
 hali zi - 空隙  
@@ -726,6 +729,8 @@ jeka don - 借出
 jeka na - 借入  
 jelakan - 监狱 (监牢)  
 jen - 人  
+jen hai - 人海  
+jen jami - 人群  
 jete grafi - 投射 (投影)  
 jinji - 姜  
 jinse - 性别  
@@ -763,6 +768,7 @@ kafe rang - 棕色 (色)
 kafe salmon - 褐鳟  
 kaguji - 纸  
 kaguji limon - 墨西哥萊檬  
+kaki - 柿子  
 kala - 黑色  
 kalam - 笔  
 kalam sui - 墨水  
@@ -1051,7 +1057,6 @@ mendelef yum - 钔
 meninge - 脑脊膜  
 meranti - 娑羅屬  
 merkurden - 星期三 (禮拜三)  
-mesaje - 信息  
 metan - 甲烷  
 metanol - 甲醇  
 metil - 甲基  
@@ -1074,9 +1079,10 @@ minta - 薄荷
 miraje - 海市蜃楼  
 mira plate - 镜子  
 mirde - 微弱的  
+• konmisia - 委员会  
+misije - 信息  
+misioner - 传教士  
 Misri - 埃及  
-• konmitia - 委员会  
-mitioner - 传教士  
 mitre - 米 (公尺)  
 mogu - 膜  
 moka - 树木  
@@ -1134,8 +1140,8 @@ nau - 脑
 nau di - 大脑的  
 nautile - 鹦鹉螺  
 nave - 船 (艇)  
+nave dex - 右舷  
 nave leu - 左舷  
-nave raite - 右舷  
 ne - 呢  
 nefre - 肾脏  
 nefte - 油  

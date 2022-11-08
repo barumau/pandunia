@@ -646,8 +646,8 @@ dara mate di - líquido (fluido)
 dara tubo - embudo  
 darba - golpear (pegar)  
 darmestadi yum - darmstatio  
-darte - tierra (barro)  
-darte di - sucio  
+darti - tierra (barro)  
+darti di - sucio  
 darvin sim - darwinismo  
 darvin sim ja - darwinista  
 data - datos  
@@ -702,8 +702,10 @@ deu nagar zi - devanágari
 • andeu sim ja - ateo  
 deu sofi - teosofía  
 dex - derecho (lado derecho)  
+dex di - derecho  
 dexka - derechista  
 dexmanuka - diestro  
+dex sim ja - derechista  
 dexa - país (nación, estado, terra)  
 dexa jen - ciudadano  
 dia - día  
@@ -1077,7 +1079,6 @@ fa rota - hace girar (dar vueltas)
 fa sabu - causar  
 fa safa - limpiar  
 fa safar - viajar  
-fa sahi - corregir  
 fa saide - cazar (pescar)  
 fa salam - saludar  
 fa sam rai - acordar  
@@ -1273,7 +1274,6 @@ fuku - ropa (vestimenta)
 fuku di - vestido (llevando ropa)  
 fuku vaxi gi - lavadora  
 fun - polvo  
-fun cupa gi - aspiradora  
 fungu - hongo (moho)  
 fungu frute - champiñón (seta)  
 fungu nete - micelio  
@@ -1510,7 +1510,10 @@ hai ordu - marina (armada)
 hai porte - puerto marítimo  
 hai vala - marinero  
 haide - vamos a  
-haki - derecho  
+haki - polvo  
+haki cupu gi - aspiradora  
+haki rang - caqui  
+haku - derecho  
 hal - estado (condición)  
 halal - permitido (admisible)  
 halal liste - lista blanca  
@@ -1765,6 +1768,7 @@ jelakan - cárcel
 jele - gel (jalea, gelatina)  
 jen - persona (ista, -ador)  
 jen di - personal (privado, a medida)  
+jen jami - muchedumbre  
 jenxen - ginseng  
 Jerze - Jersey  
 • injete - inyectar (inyección)  
@@ -1833,6 +1837,7 @@ kai - abierto
 Kaiman nesi - islas Caimán  
 kaka - caca  
 kakau - cacao  
+kaki - caqui  
 kala - negro  
 Kalal - Groenlandia  
 kalam - bolígrafo  
@@ -2189,6 +2194,8 @@ laxe xe - vestigio (sobrante, residuo)
 lazanya - lasaña  
 lazur - azur (blao)  
 lazur petra - lapislázuli  
+legu - leve  
+legu veze di - ligero  
 leng - frío  
 leng mosim - invierno  
 leng mosim di - invernal  
@@ -2222,8 +2229,6 @@ lietuva baxa - lituano
 lifafa - envoltura  
 liga - liga (alianza, federación)  
 liga di sanduku - arca de la Alianza  
-ligu - leve  
-ligu veze di - ligero  
 Lihtenstain - Liechtenstein  
 lila - lila  
 lila rang - lila (de color lila)  
@@ -2463,7 +2468,6 @@ mes nelu - abril
 mes tisa - septiembre  
 mes tri - marzo  
 mes un - enero  
-mesaje - mensagem  
 mesi - Cristo (mesías)  
 • anmesi - Anticristo  
 mesi di - mesiánico  
@@ -2524,17 +2528,19 @@ miraje - espejismo
 mira plate - espejo (retrovisor)  
 mirde - ligero (leve, vago, débil, borroso)  
 misal - ejemplo  
+misi - enviar (transmitar)  
+• exmisi - emitir  
+• konmisia - comissão (comité)  
+• promisi - prometer  
+• tramisi - transmitir  
+• tramision - transmissão  
+• tramisir - transmissor  
+misije - mensaje  
+mision - missão  
+misioner - missionário  
 miskin - pobre (miserable)  
 Misri - Egipto  
 misri di - egipcio  
-miti - enviar (transmitar)  
-• exmiti - emitir  
-• konmitia - comissão (comité)  
-• tramiti - transmitir  
-• tramition - transmissão  
-• tramitir - transmissor  
-mition - missão  
-mitioner - missionário  
 mitre - metro  
 mixe - mezclar  
 mixe alkol - cóctel  
@@ -2666,11 +2672,11 @@ Nauru - Naúru
 nautile - nautilo  
 nava - náhuatl (nahua)  
 nave - barco (bote)  
+nave dex - estribor  
 nave ga - navegar (ir en bote)  
 nave ga ja - velero  
 nave kape ja - corsario  
 nave leu - babor  
-nave raite - estribor  
 nave xefe - capitán  
 Nederlande - Países Bajos  
 Nederlande Antil - Antillas Neerlandesas  
@@ -3135,9 +3141,6 @@ radon - radón
 ragubi - rugbi  
 ragbi - bóng bầu dục  
 rai - opinión (juicio, consideración)  
-raite - lado derecho  
-raite di - derecho  
-raite sim ja - derechista  
 raja - rey o reina  
 raja dexa - reino  
 raja di - real (de realtad)  
@@ -3211,8 +3214,8 @@ romanse - romance
 • anromanse - arromántico  
 romanse di - romántico  
 rose - rocío  
+rota dex - en el sentido del las agujas del reloj  
 rota leu - en el sentido contrario al las agujas del reloj  
-rota raite - en el sentido del las agujas del reloj  
 rota tufan - huracán (tifón)  
 rota vanu gi - trompo  
 rota xe - rotor  
@@ -3259,6 +3262,7 @@ safar keka ja - turista
 safran - azafrán  
 sagu - sagú  
 Sahara Dexa - República Árabe Saharaui Democrática  
+sahi - corregir  
 sahi - correcto (justo)  
 saide ja - cazador  
 saide yo pexe - pescar  
@@ -3472,10 +3476,11 @@ sona papi - adormidera (amapola real)
 sona tabi - soñoliento (somnífero)  
 songi - pino  
 soni - sonido (audio)  
+sorbe - sorber  
 sos - salsa  
 sosi - sociedad  
-sosi di - social  
 sosi jinse - género social  
+sosi li - social  
 sosi medi gi - redes sociales  
 sosi sim - socialismo  
 sosi sim ja - socialista  

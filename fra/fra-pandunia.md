@@ -10,6 +10,7 @@ abeille ou guêpe - vespa
 Abkhazie - Apsni  
 aborigènes australiens - asal Australia jen  
 abricot (prune) - briko  
+absorber (éponger) - asorbe  
 Abyssinie - Habaxa  
 acacia faux-gommier - helis babul  
 acarien - akare  
@@ -473,7 +474,7 @@ collaborer - konkar
 coller - fa glu  
 colorant - rang mate  
 combava - karse limon  
-comisión (comité) - konmitia  
+comisión (comité) - konmisia  
 comment - ke riti  
 commerce - vende xope  
 commun - konun  
@@ -627,7 +628,7 @@ doute - xaki
 drapeau - bandera  
 drogue (narcotique, dope) - narko  
 droit (rectiligne) - orto  
-droit - haki  
+droit - haku  
 droitier (dextre) - dexmanuka  
 droits de l'homme - insan haki  
 dubnium - dubna yum  
@@ -773,6 +774,7 @@ forêt de kelp - alga jangal
 fossé (canal, tranchée) - kanal  
 fouet - bici  
 fougères - parne  
+foule - jen jami  
 fourmi - murce  
 fragment - parce  
 frais - taza  
@@ -987,6 +989,8 @@ Jésus-Christ - Yesa Mesi
 
 ## K  
 
+kaki - haki rang  
+kaki - kaki  
 kangourou - kangaru  
 karaté - karate  
 karatéka - karateja  
@@ -1083,7 +1087,7 @@ luxure (libido) - kama
 lynx - linse  
 lys - susan  
 là (y) - a vo  
-léger - ligu veze di  
+léger - legu veze di  
 légume - yam fito  
 létal - letali  
 lézard - saur  
@@ -1136,7 +1140,6 @@ meitnérium - meitner yum
 melt - yung  
 membrane - mogu  
 mendélévium - mendelef yum  
-mensaje - mesaje  
 menthe - minta  
 Menthe aquatique - sui minta  
 menthe poivrée - pipre minta  
@@ -1151,6 +1154,7 @@ merde - xite
 merveille - ajabu  
 merveille - mirabil  
 message - anjil  
+message - misije  
 messager - anjil ja  
 mettre (placer) - fa loka  
 meule - mol seku  
@@ -1168,8 +1172,8 @@ minuit - medi noce
 mirage - miraje  
 mirer - mira  
 miroir - mira plate  
-misionero - mitioner  
-misión - mition  
+misionero - misioner  
+misión - mision  
 mode (façon, manière) - mode  
 modeler - fa plasti  
 mois - mes  
@@ -1506,12 +1510,14 @@ poterie - pote suta
 potier - pote ja  
 pou - poyu  
 poubelle - lasa tong  
+poudre - fun  
 poudre à canon - barude  
 Poulpe (pieuvre) - ohtopus  
 pourri - pute  
 pourrir (se décomposer) - be pute  
 pousse - jun moka  
 pousse - you moke  
+poussière - haki  
 pouvoir (possible, capacité) - bil  
 praséodyme - prazedim yum  
 presse-papier - gata glu bano  
@@ -1536,6 +1542,7 @@ projeter (donner) - fa lanse grafi
 projeter (image projection) - jete grafi  
 prolongé - long dura di  
 promettre - fa vode  
+promettre - promisi  
 prométhium - promete yum  
 Prométhée - Promete  
 prophète (héraut) - nabija  
@@ -1773,6 +1780,7 @@ squelette - oste jama
 strontium - estronti yum  
 stylo-plume - fonte kalam  
 substance - kimi  
+sucer - cupu  
 sucre - sukre  
 sueur - sueda  
 suffixe - pos fixe  
@@ -1870,15 +1878,15 @@ traitement d'images - grafi culi
 traitement de données - data culi  
 traitement de texte - kitaba culi  
 traiter - fa culi  
-transmisión - tramition  
-transmisor - tramitir  
-transmitir - tramiti  
+transmisión - tramision  
+transmisor - tramisir  
+transmitir - tramisi  
 travail - karxe  
 travailler - kar  
 travailleur (ouvrier) - karja  
 traîner - trate  
 tremper (faire mariner) - pul xipi  
-tribord - nave raite  
+tribord - nave dex  
 trichotomie - tritomi  
 triple - tripli  
 trois (3) - tri  
@@ -2040,7 +2048,7 @@ zéro - siro
 élément (unité fondamentale) - so  
 élément chimique - kimi so  
 émeraude - zumarde  
-émettre - exmiti  
+émettre - exmisi  
 émir - amir ja  
 émirat - amir dexa  
 émoticône (emoji) - gamo zi  

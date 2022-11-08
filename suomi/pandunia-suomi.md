@@ -748,9 +748,9 @@ dara mate di - nestemäinen
 dara tubo - lappo  
 darba - lyödä (iskeä)  
 darmestadi yum - darmstadtium  
-darte - maa (multa)  
-darte bon ja - lannoite  
-darte di - likainen (mutainen)  
+darti - maa (maa-aines)  
+darti bon ja - lannoite  
+darti di - likainen (mutainen)  
 darvin sim - darwinismi  
 darvin sim ja - darwinisti  
 data - data (numeerinen tieto)  
@@ -809,6 +809,7 @@ deu sofi - teosofia
 dex - oikea puoli  
 dexka - oikeistolainen  
 dexmanuka - oikeakätinen  
+dex sim ja - oikeistolainen  
 dexa - maa (valtio)  
 dexa jen - kansalainen (valtion asukas)  
 di - -a (adjektiva partiklo)  
@@ -1210,7 +1211,6 @@ fa rota - pyörittää
 fa sabu - aiheuttaa (olla syynä)  
 fa safa - puhdistaa (siivota)  
 fa safar - matkustaa  
-fa sahi - korjata (tehdä oikeaksi)  
 fa saide - pyytää (metsästää, kalastaa)  
 fa salam - tervehtiä  
 fa sam rai - olla samaa mieltä  
@@ -1432,8 +1432,7 @@ fuku - vaate (puku)
 fuku di - vaatetettu (pukeutunut)  
 fuku vaxi gi - pesukone  
 fulan - se ja se (niin ja niin)  
-fun - pöly (tomu)  
-fun cupa gi - pölynimuri  
+fun - jauhe (jauho, tomu)  
 fungu - sieni  
 fungu frute - sienen hattu  
 fungu nete - sienirihmasto  
@@ -1688,7 +1687,10 @@ hai ordu - merivoimat (sotalaivasto)
 hai porte - satama  
 hai vala - merimies  
 haide - tehkäämme  
-haki - oikeus (oikeutus)  
+haki - pöly (tomu)  
+haki cupu gi - pölynimuri  
+haki rang - khaki  
+haku - oikeus (oikeutus)  
 hal - tila (tilanne, seikka)  
 halal - sallittu (hyväksytty)  
 halela - ylistää  
@@ -1956,6 +1958,8 @@ jele - hyytelö
 jen - henkilö  
 jen (jen men) - ihmiset (yleisen persoonan pronomini)  
 jen di - henkilökohtainen (privaatti)  
+jen hai - ihmismeri  
+jen jami - väkijoukko  
 jenxen - ginseng  
 Jerze - Jersey  
 • injete - ruiskuttaa (ruiske, injektio)  
@@ -2019,6 +2023,7 @@ kai - auki (avoin)
 Kaiman nesi - Cayman-saaret  
 kaka - uloste (kakka)  
 kakau - kaakao  
+kaki - kaki (persimon)  
 kala - musta  
 Kalal - Grönlanti  
 kalam - kynä  
@@ -2369,6 +2374,8 @@ laxe xe - jäte (hylkytavara)
 lazanya - lasagne  
 lazur petra - lapislatsuli  
 le - saavuttaa (saavutettua tilaa ilmaiseva apuverbi)  
+legu - kevyt (hento, pehmeä, helppo, jne.)  
+legu veze di - kevyt (kevytpainoinen)  
 leng - kylmä  
 leng mosim - talvi  
 leng mosim di - talvinen  
@@ -2403,8 +2410,6 @@ lietuva baxa - liettualainen
 lifafa - kääre (kuori)  
 liga - liitto (liittouma, liiga)  
 liga di sanduku - liitonarkki  
-ligu - kevyt (hento, pehmeä, helppo, jne.)  
-ligu veze di - kevyt (kevytpainoinen)  
 Lihtenstain - Liechtenstein  
 lila - syreeni  
 lila rang - violetti (liila)  
@@ -2637,7 +2642,6 @@ mes nelu - huhtikuu
 mes tisa - syyskuu  
 mes tri - maaliskuu  
 mes un - tammikuu  
-mesaje - viesti  
 mesi - kristus (messias)  
 • anmesi - antikristus  
 mesi di - messiaaninen  
@@ -2691,18 +2695,20 @@ miraje - kangastus
 mira plate - peili  
 mirar - tuijottaja  
 misal - esimerkki  
+misi - lähettää  
+• exmisi - lähettää ulos  
+• konmisia - komitea (komissio)  
+• promisi - lähettää eteen (antaa odottaa)  
+• remisi - lähettää takaisin  
+• tramisi - välittää (siirtää, lähettää)  
+• tramision - välitys (siirtäminen, lähetys)  
+• tramisir - lähetin  
+misije - viesti  
+mision - lähetys  
+misioner - lähetti (lähetyssaarnaaja)  
 miskin - kurja (raukka)  
 Misri - Egypti  
 misri di - egyptiläinen  
-miti - lähettää  
-• exmiti - lähettää ulos  
-• konmitia - komitea (komissio)  
-• remiti - lähettää takaisin  
-• tramiti - välittää (siirtää, lähettää)  
-• tramition - välitys (siirtäminen, lähetys)  
-• tramitir - lähetin  
-mition - lähetys  
-mitioner - lähetti (lähetyssaarnaaja)  
 mitre - metri  
 mixe - sekoittaa  
 mixe gi - sekoitin  
@@ -2824,11 +2830,11 @@ nau hin - aivoton
 Nauru - Nauru  
 nava - nahuatli  
 nave - vene (laiva)  
+nave dex - tyyrpuuri  
 nave ga - veneillä  
 nave ga ja - veneilijä  
 nave kape ja - laivakaappari  
 nave leu - paapuuri  
-nave raite - tyyrpuuri  
 nave xefe - kapteeni  
 Nederlande - Alankomaat (Hollanti)  
 Nederlande Antil - Alankomaiden Antillit  
@@ -3289,8 +3295,6 @@ radio mise gi - radiolähetin
 radio na gi - radiovastaanotin  
 radon - radon  
 rai - mielipide (näkemys)  
-raite - oikea puoli  
-raite sim ja - oikeistolainen  
 raja - monarkki (kuningas, kuningatar)  
 raja dexa - kuningaskunta  
 raja di - kuninkaallinen  
@@ -3401,6 +3405,7 @@ safar keka ja - turisti
 safran - sahrami  
 sagu - saagopalmu  
 sagu fun - saagotärkkelys  
+sahi - korjata (tehdä oikeaksi)  
 sahi - oikea (paikkansapitävä)  
 saide - pyynti (metsästys, kalastus)  
 saide ja - pyytäjä (metsästäjä, kalastaja)  
@@ -3603,9 +3608,10 @@ sona papi - unikko (unikukka)
 sona tabi - unelias  
 songi - mänty  
 soni - ääni  
+sorbe - ryystää (hörpätä, ryypätä)  
 sos - kastike (soosi)  
 sosi - seura  
-sosi di - yhteiskunnallinen (sosiaalinen)  
+sosi li - yhteiskunnallinen (sosiaalinen)  
 sosi medi gi - sosiaalinen media  
 sosi sim - sosialismi  
 sosi sim ja - sosialisti  

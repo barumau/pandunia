@@ -601,7 +601,6 @@ fa re - ripeti (refari)
 fa rol - ludi rolon  
 fa safa - purigi  
 fa safar - vojaĝi  
-fa sahi - pravigi  
 fa saide - ĉasi  
 fa salam - saluti  
 fa sam rai - samopinii (interkonsenti)  
@@ -703,7 +702,7 @@ frute bagi - fruktarbejo
 fui - bah!  
 fuku - vesto  
 fuku vaxi gi - lavmaŝino  
-fun - polvo  
+fun - pulvoro  
 fungu - fungo  
 funsi - funkcii  
 furete - furo  
@@ -819,7 +818,8 @@ hai ordu - mararmeo
 hai porte - haveno  
 hai vala - maristo  
 haide - ni faru...  
-haki - rajto  
+haki - polvo  
+haku - rajto  
 hal - stato  
 hali - malplena  
 halifa - kalifo  
@@ -968,6 +968,8 @@ jebu - poŝo
 jelakan - malliberejo  
 jele - ĝelo  
 jen - persono  
+jen hai - amasego da homoj  
+jen jami - amaso da homoj  
 jinji - zingibro  
 jinse - sekso  
 jinse di - seksa  
@@ -1006,6 +1008,7 @@ kaguji - papero
 kai - malferma  
 kaka - feko  
 kakau - kakao  
+kaki - persimono  
 kala - nigra  
 kalam - plumo  
 kalam sui - inko  
@@ -1312,7 +1315,6 @@ meranti - ŝoreo
 Merkur - Merkuro  
 merkurden - merredo  
 mes - monato  
-mesaje - mesaĝo  
 mesi - kristo  
 mesi gene - kristnasko  
 metal - metalo  
@@ -1342,11 +1344,12 @@ ministre ja - ministro
 minute - minuto  
 mira plate - spegulo  
 misal - ekzemplo  
+• konmisia - komiteo (komisiono)  
+misije - mesaĝo  
+misioner - misiisto  
 miskin - mizera  
 Misri - Egipto  
 misri di - egipta  
-• konmitia - komiteo (komisiono)  
-mitioner - misiisto  
 mitre - metro  
 mixe - miksi  
 mixe gi - miksilo  
@@ -1418,9 +1421,9 @@ nau di - cerba
 nau hin - sencerba  
 nava - naūatla  
 nave - boato (ŝipo)  
+nave dex - tribordo  
 nave ga - boatumi  
 nave leu - babordo  
-nave raite - tribordo  
 nefre - reno  
 nekro - kadavro  
 nekro tomi - obdukcio (nekropsio)  
@@ -1694,6 +1697,7 @@ safa ja - purigisto
 safar - vojaĝo  
 safar ja - vojaĝanto  
 safran - safrano  
+sahi - pravigi  
 sahi - ĝusta (prava)  
 saide - ĉasado  
 saide ja - ĉasisto  

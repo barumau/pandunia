@@ -299,6 +299,7 @@ coklate kane - barra de chocolate
 copu - enxada  
 culi - processo  
 cunbil - opção  
+cupu - chupar (sugar)  
 
 ## D  
 
@@ -524,6 +525,7 @@ frutos - frutose
 frute - fruta  
 frute bagi - pomar  
 fuku - roupa (vestidura)  
+fun - pó  
 fungu - fungo  
 fungu frute - cogumelo  
 fute bol - futebol  
@@ -622,7 +624,9 @@ hai kinar - costa
 hai ordu - marinha  
 hai porte - porto marítimo  
 hai vala - marinheiro  
-haki - direito  
+haki - pó  
+haki rang - cáqui  
+haku - direito  
 hal - estado  
 hali - vazio  
 hali zi - espaço  
@@ -733,6 +737,7 @@ jeka - emprestar (pedir emprestado)
 jeka don - emprestar  
 jeka na - pedir emprestado  
 jen - pessoa  
+jen jami - multidão  
 • projete - projeto  
 jete grafi - projeção  
 jihade - luta  
@@ -767,6 +772,7 @@ kafe rang - castanho (marrom)
 kafe salmon - truta-marrom  
 kaguji - papel  
 kaguji limon - lima  
+kaki - caqui (dióspiro)  
 kala - preto  
 kalam - lápis  
 kalam sui - tinta  
@@ -954,6 +960,8 @@ laxe - deixar
 lazanya - lasanha  
 lazur - azur (blau)  
 lazur petra - lápis-lazúli  
+legu - leve  
+legu veze di - ligeiro  
 leng mosim - inverno  
 leng mosim di - invernal (hibernal)  
 lense - lente  
@@ -973,8 +981,6 @@ libele - libélula
 lida ja - líder (chefe)  
 liga - liga (aliança)  
 liga di sanduku - Arca da Aliança  
-ligu - leve  
-ligu veze di - ligeiro  
 lima - cinco (5)  
 limon - limão  
 limon jus - limonada  
@@ -1087,7 +1093,6 @@ meranti - meranti
 Merkur - Mercúrio  
 merkurden - quarta-feira  
 mes - mês  
-mesaje - месседж  
 metan - metano  
 metanol - metanol  
 metil - metil  
@@ -1114,13 +1119,15 @@ mirabil - maravilha
 miraje - miragem  
 mira plate - espelho  
 mirde - fraco  
+• exmisi - emitir  
+• konmisia - комиссия (комитет)  
+• promisi - prometer  
+• tramision - передача  
+• tramisir - передатчик  
+misije - mensagem  
+mision - миссия  
+misioner - миссионер  
 Misri - Egipto (Egito)  
-• exmiti - emitir  
-• konmitia - комиссия (комитет)  
-• tramition - передача  
-• tramitir - передатчик  
-mition - миссия  
-mitioner - миссионер  
 mitre - metro  
 mode - modo (maneira, jeito)  
 mogu - membrana  
@@ -1536,6 +1543,7 @@ sona papi - papoila-dormideira
 sona tabi - sonolento  
 songi - pinheiro  
 soni - som  
+sorbe - sorver  
 sosi - sociedade  
 sosis - salsicha  
 • speter - espetador  

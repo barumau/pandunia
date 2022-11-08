@@ -307,7 +307,7 @@ asma - asma
 asociar - fa liga  
 asombrar - fa ajabu  
 aspecto - rupa  
-aspiradora - fun cupa gi  
+aspiradora - haki cupu gi  
 Assur (Ashur) - Axur  
 astrobiologia - kosmo biologi  
 astronauta - astro nave ja  
@@ -622,6 +622,8 @@ capturar (apresar) - cepe
 capturar (apresar) - kape  
 capítulo (sección) - babu  
 capó (bonete) - moto cati  
+caqui - haki rang  
+caqui - kaki  
 cara (rosto) - muka  
 caramelo - kandi  
 carapacho (cáscara, concha, corteza, capa) - kaska  
@@ -842,7 +844,7 @@ comida - yam xe
 comienzo (inicio, principio) - xuru  
 comilla - sita marke  
 comino - zira  
-comissão (comité) - konmitia  
+comissão (comité) - konmisia  
 Comoros - Komoro nesi  
 compartir (tener en común) - fa komun  
 compasión - kon pasi  
@@ -934,7 +936,7 @@ corporal (corpóreo) - badan di
 correa (rein) - lida lin  
 correcto (justo) - sahi  
 corredor - kore ja  
-corregir - fa sahi  
+corregir - sahi  
 correo - posta  
 correo basura - lasa posta  
 correr - kore  
@@ -1120,11 +1122,11 @@ deporte - esporte
 deportista - esporte ja  
 depurar - fa an galte  
 depósito - hazinkan  
+derechista - dex sim ja  
 derechista - dexka  
-derechista - raite sim ja  
 derecho (lado derecho) - dex  
-derecho - haki  
-derecho - raite di  
+derecho - dex di  
+derecho - haku  
 derechos de autor (copyright) - kopi haki  
 derechos humanos - insan haki  
 derretirse - yung  
@@ -1309,7 +1311,7 @@ embudo - dara tubo
 emir - amir ja  
 emirato - amir dexa  
 Emiratos Árabes Unidos - Unta Arabi Amir Dexa (UAA)  
-emitir - exmiti  
+emitir - exmisi  
 emoticón (emoyi) - gamo zi  
 emotivo - gamo di  
 empanada (pelmeni) - pelmen  
@@ -1321,7 +1323,7 @@ empresario - biznes ja
 empujar (presionar) - puxa  
 en (a) - a  
 en el sentido contrario al las agujas del reloj - rota leu  
-en el sentido del las agujas del reloj - rota raite  
+en el sentido del las agujas del reloj - rota dex  
 en línea - a lin  
 encanto - carme  
 encarcelar (aprisionar) - fa jela  
@@ -1351,7 +1353,7 @@ entrada - inmun
 entrar - be in  
 entre - a medi  
 entristecer (poner triste) - fa duka  
-enviar (transmitar) - miti  
+enviar (transmitar) - misi  
 envoltura - lifafa  
 envolver - fa lifafa  
 enzima - enzim  
@@ -1449,7 +1451,7 @@ estirar (extender) - long tire
 Estonia - Esti  
 estornudar (achís) - aci  
 estrella - sing  
-estribor - nave raite  
+estribor - nave dex  
 estudiante - estude ja  
 estudiante - xula ja  
 estudiar (examinar) - fa estude  
@@ -2138,7 +2140,6 @@ kétchup - kecape
 labio - labi  
 laca - laka  
 lado (flanco) - late  
-lado derecho - raite  
 ladrillo - dobe  
 ladrón - cori ja  
 ladrón - luta ja  
@@ -2188,7 +2189,7 @@ letra (carácter) - foni zi
 letra negrita - gros zi  
 levadura - hamir  
 levantar (elevar) - fa gau  
-leve - ligu  
+leve - legu  
 lexema - lexime  
 leño (tronca) - moka tana  
 león - singa  
@@ -2211,7 +2212,7 @@ licor - araki
 Liechtenstein - Lihtenstain  
 liga (alianza, federación) - liga  
 ligero (leve, vago, débil, borroso) - mirde  
-ligero - ligu veze di  
+ligero - legu veze di  
 lila (de color lila) - lila rang  
 lila - lila  
 limero - kaguji limon  
@@ -2437,8 +2438,8 @@ meninge - meninge
 meningitis - meninge tis  
 menor (leve) - minor  
 menos - min  
-mensagem - mesaje  
 mensaje - anjil  
+mensaje - misije  
 mensajero - anjil ja  
 menta - minta  
 menta acuática - sui minta  
@@ -2497,8 +2498,8 @@ minuto - minute
 minúscula - xiu zi  
 mirar - mira  
 mismo (yo) - auto  
-missionário - mitioner  
-missão - mition  
+missionário - misioner  
+missão - mision  
 mito (cuento divino) - deu kata  
 miércoles - merkurden  
 mochila - ruke sake  
@@ -2559,6 +2560,7 @@ moverse - be kino
 movimiento - kino  
 movimiento - move  
 Mozambique - Mozambike  
+muchedumbre - jen jami  
 mucho (muchos) - poli  
 muchos (múltiples) - men  
 mudar (mover, transferir, traspasar, trasladar, estimular, inspirar) - fa kino  
@@ -3074,6 +3076,7 @@ Polonia - Polska
 polonio - polska yum  
 polpa - fufu  
 polvo - fun  
+polvo - haki  
 polvo de cara - muka fun  
 polígono - poli gona  
 política - politi lona  
@@ -3161,6 +3164,7 @@ prohibir - fa haram
 promesa (voto) - vode  
 Prometeo - Promete  
 prometer (comprometerse) - fa vode  
+prometer - promisi  
 prometio - promete yum  
 pronombre - vise loga  
 pronto - sun  
@@ -3580,7 +3584,7 @@ sobrepasar - be supra
 sobrevivir - trajiva  
 sobrina - sau doh  
 sobrino - sau son  
-social - sosi di  
+social - sosi li  
 socialismo - sosi sim  
 socialismo nacional (nazismo) - natia sosia sim  
 socialista - sosi sim ja  
@@ -3605,6 +3609,7 @@ sonido (audio) - soni
 sopa - supa  
 soplar (echar) - fa hava  
 soporte (perchero, atril) - lipa baze  
+sorber - sorbe  
 sorpresa - supriza  
 soñoliento (somnífero) - sona tabi  
 sranan tongo - surinam baxa  
@@ -3618,7 +3623,7 @@ subir (alzar) - be gau
 subterráneo - geo nice di  
 subtítulos - nice kitaba  
 sucio (corrompido) - najis di  
-sucio - darte di  
+sucio - darti di  
 Sudamérica - Sude Amerika  
 sudor - sueda  
 sudoroso (sudado) - sueda di  
@@ -3760,7 +3765,7 @@ teísmo - deu din
 teísta - deu din ja  
 tiburón - xayu  
 tiempo - zaman  
-tierra (barro) - darte  
+tierra (barro) - darti  
 Tierra - Geo  
 tierra - geo  
 tigre - bagre  
@@ -3820,9 +3825,9 @@ trampilla - pada mun
 tranquilo (calmado) - xanti di  
 transcurrir - trakurse  
 transitar (atravesar) - fa transe  
-transmissor - tramitir  
-transmissão - tramition  
-transmitir - tramiti  
+transmissor - tramisir  
+transmissão - tramision  
+transmitir - tramisi  
 Transnistria (Cisdniéster) - Transe Nistre Dexa  
 transparente - transe vide di  
 transporte - traporte  

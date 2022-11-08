@@ -280,6 +280,7 @@ canção de ninar - lala gani
 capa - mantol  
 capa de chuva - barxa kote  
 capô - moto cati  
+caqui (dióspiro) - kaki  
 caractere - zi  
 caratê - karate  
 carboidrato - karbohidrate  
@@ -349,6 +350,7 @@ chicote - bici
 China - Jongoku  
 chocolate - coklate  
 chumbo - plumbe  
+chupar (sugar) - cupu  
 chuva - barxa  
 chá - cai  
 ciano - cian  
@@ -452,6 +454,7 @@ cádmio - kadim yum
 cálamo - gana kalam  
 cálcio - kalsi yum  
 cápsico - cili  
+cáqui - haki rang  
 cão (cachorro) - vaf  
 célula sanguínea - hemi selu  
 cérebro - nau  
@@ -507,7 +510,7 @@ dinheiro - pesa
 dinossauro - dino saur  
 diorito - diorite  
 directionar (apontar, mirar; direção; objetivo) - dika  
-direito - haki  
+direito - haku  
 direitos humanos - insan haki  
 diretor - xula xefe  
 disco - diske  
@@ -557,7 +560,7 @@ elo - serime
 elogio - eu loga  
 em - a  
 embalar - fa lifafa  
-emitir - exmiti  
+emitir - exmisi  
 emoticon (emoji) - gamo zi  
 emoçao - gamo  
 emprestar (pedir emprestado) - jeka  
@@ -920,13 +923,13 @@ leque - sanzi
 ler - dugu  
 letal - letali  
 Letónia - Latvia  
-leve - ligu  
+leve - legu  
 lexema - lexime  
 lhama - liama  
 libélula - libele  
 licor - araki  
 liga (aliança) - liga  
-ligeiro - ligu veze di  
+ligeiro - legu veze di  
 lima - kaguji limon  
 limonada - limon jus  
 limão - limon  
@@ -1038,6 +1041,7 @@ mendelévio - mendelef yum
 meninge - meninge  
 menosprezar (subestimar) - fa min rai  
 mensagem - anjil  
+mensagem - misije  
 meranti - meranti  
 mercado (bazar) - bazar  
 mercúrio - hidrargente  
@@ -1091,6 +1095,7 @@ mudança climática - klima mute
 mudar-se - be migra  
 muesli - musli  
 muito - tre  
+multidão - jen jami  
 multilíngue (plurilíngue) - poli baxa di  
 multilíngue (plurilíngue) - polibaxaka  
 mundo - dunia  
@@ -1358,6 +1363,7 @@ projeção - lanse grafi
 projétil - lanse xe  
 prolongado - long dura di  
 promessa (voto) - vode  
+prometer - promisi  
 Prometeu - Promete  
 promécio - promete yum  
 propulsor (hélice) - propeler  
@@ -1378,6 +1384,8 @@ pátria - dom dexa
 pântano - poto stan  
 pão - pang  
 pícea (espruce) - pisea  
+pó - fun  
+pó - haki  
 pós-natal - posnati  
 pós-produção - posprodute  
 quadrinhos (banda desenhada) - grafi kata  
@@ -1571,6 +1579,7 @@ sono - sona
 sonolento - sona tabi  
 sopa - supa  
 sorgo - jovar  
+sorver - sorbe  
 sorvete (gelado) - ais krem  
 substância - kimi  
 suco (sumo) - jus  
@@ -1795,10 +1804,9 @@ zumbi - zombi
 ósmio - osmi yum  
 óxide - oxide  
 único (só) - un di  
-комиссия (комитет) - konmitia  
+комиссия (комитет) - konmisia  
 люмен - lumen  
-месседж - mesaje  
-миссионер - mitioner  
-миссия - mition  
-передатчик - tramitir  
-передача - tramition  
+миссионер - misioner  
+миссия - mision  
+передатчик - tramisir  
+передача - tramision  
