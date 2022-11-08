@@ -71,13 +71,13 @@ et il correspond en français à _quel.le.s_, _lequel_, _laquelle_, _lesquelles_
 **ke** peut être aussi suivi d'un adjectif pour poser une question.
 
 **ke neu?**
-– Quel degré de nouveauté ? (Comment neuf?)
+– Quel degré de nouveauté ? (Comment neuf?)  
 **ke koste?**
-– Quel prix ? (Comment cher ?)
+– Quel prix ? (Comment cher ?)  
 **ke poli?**
-– Combien ? En quelle quantité ? (Comment beaucoup ?)
+– Combien ? En quelle quantité ? (Comment beaucoup ?)  
 **ke dai?**
-– Quelle taille ? (Comment grand ?)
+– Quelle taille ? (Comment grand ?)  
 **ke xiu?**
 – Quelle taille ? (Comment petit ?)
 
