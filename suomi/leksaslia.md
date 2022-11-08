@@ -972,7 +972,7 @@
 **mesi** *kristus (messias)* ← englanti:messiah, ranska:messie, espanja:mesías, portugali:messias, venäjä:мессия (messiya), arabia: مَسِيح‎ (masīḥ), hindi:मसीह (masīh), bangla:মসিহ (môśih), malaiji:al-Masih, suahili:Masiya, turkki:Mesih  
 **meta** *myöhempi (jälkeinen)* ← englanti:espanja:portugali:meta-, ranska:méta-, venäjä:мета- (meta-)  
 **metal** *metalli* ← englanti:espanja:portugali:turkki:metal, ranska:métal, deu:Metall, venäjä:мета́лл (metáll)  
-**metre** *mitta (koko, määrä)* ← englanti:meter, espanja:portugali:-metro, venäjä:метр turkki:metre, + hindi:मात्रा (mātrā), bangla:মাত্রা (matra), malaiji:matra  
+**metri** *mitta (koko, määrä)* ← englanti:meter, espanja:portugali:-metro, venäjä:метр turkki:metre, + hindi:मात्रा (mātrā), bangla:মাত্রা (matra), malaiji:matra  
 **meza** *pöytä* ← portugali:espanja:mesa, hindi:मेज़ (mez), suahili:meza, malaiji:meja, tamili:மேசை (mesei), persia: میز‏‎ (miz), turkki:masa  
 **mi** *minä* ← englanti:ranska:portugali:me, espanja:mi; me, persia: من‎ (man), hindi:मैं (mẽ), bangla:আমি (ami), suahili:mimi, turkki:ben  
 **mien** *nuudeli* ← yleiskiina:面 (miàn), kantoninkiina:麵 (min6), japani:麺 (men), korea:면 (myeon), vietnami:mì; miến, malaiji:mie, thai:หมี่ (mii), khmer:មី (mi)  

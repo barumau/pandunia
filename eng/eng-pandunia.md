@@ -347,7 +347,7 @@ barbecue (grill) - kababu
 Barbuda - Barbuda  
 barium - bari yum  
 barley - jau  
-barometer - air prese metre gi  
+barometer - air prese metri gi  
 barracks - ordu jen kan  
 barrel (can, cask) - tong  
 barrier (fence) - bara mur  
@@ -1002,7 +1002,7 @@ cry (shout) - krita
 crystal - bilor  
 Cuba - Kuba  
 cube - kube  
-cubit - kudi metre  
+cubit - kudi metri  
 cuckoo - kuku  
 cucumber - hiyar  
 cultivate (farm) - agri  
@@ -1678,7 +1678,7 @@ genetics (study of reproduction) - gene logi
 genotype - gene tipe  
 geography - geo grafi  
 geology - geo logi  
-geometry - geo metre  
+geometry - geo metri  
 geopolitics - geo politi  
 Georgia (Republic of Georgia) - Kartul  
 geothermal - geo termo  
@@ -1735,7 +1735,7 @@ god (deity) - deu
 god of love (Eros, Kamadeva) - kama deu  
 gold - auro  
 golem - golem  
-goniometer - gona metre gi  
+goniometer - gona metri gi  
 good (prosperous; used in greetings) - salam di  
 good - bon  
 good day - sal dia  
@@ -2486,7 +2486,7 @@ manufacturing (production, industry) - sana
 many (much, more than one) - poli  
 many (plural) - men  
 map (chart) - karta  
-map (chart, geographic map) - topo metre grafi  
+map (chart, geographic map) - topo metri grafi  
 Marathi - marati  
 marathon - maraton  
 marble - kalsi bilor  
@@ -2549,7 +2549,7 @@ mean (cruel) - zalim
 mean (intend) - fa nia  
 mean (signify) - semi  
 meaning (signification) - mana  
-measure (measurement) - metre  
+measure (measurement) - metri  
 meat (flesh) - nama  
 Mecca - Makah  
 medallion (medal) - medal  
@@ -2587,7 +2587,7 @@ messianic - mesi di
 metal - metal  
 metaphysics - metafizika  
 meter (100 cm) - mitre  
-meter (measuring device) - metre gi  
+meter (measuring device) - metri gi  
 methane - metan  
 methanol - metanol  
 methyl - metil  
@@ -3037,7 +3037,7 @@ paprika - cili fun
 Papua New Guinea - Papua neu Ginia  
 Paraguay - Paraguai  
 parallel (line of latitude) - vei gola  
-parameter (argument, input variable) - parametre  
+parameter (argument, input variable) - parametri  
 paranormal - paranormali  
 parasol - sol cati  
 pardon (forgiveness; sorry) - maf  
@@ -3410,7 +3410,7 @@ radio - radio
 radio receiver - radio na gi  
 radioactive - ion radi di  
 radioactivity (ionizing radiation) - ion radi  
-radiometer - radi metre gi  
+radiometer - radi metri gi  
 radiotransmitter - radio mise gi  
 radish - loba  
 radium - radi yum  
@@ -3673,7 +3673,7 @@ say (speak, talk) - fa loga
 scaffolding (gangplank) - fute bano  
 scale (flake) - foli  
 scale mail - foli kaska  
-scales (weighing device) - veze metre gi  
+scales (weighing device) - veze metri gi  
 Scandinavia - Eskandinavia  
 scandium - eskandi yum  
 scarcity - kamta  
@@ -3937,7 +3937,7 @@ species - jung
 spectator (sightseer, observer) - vide ja  
 speech (talk) - loga  
 speed (velocity) - sugata  
-speedometer - suga metre gi  
+speedometer - suga metri gi  
 spell (enchantment) - magi asar  
 spice (seasoning) - masala  
 spider - arane  
@@ -4002,7 +4002,7 @@ stop (halt) - be halte
 stop (halt) - fa halte  
 stop (halt) - halte  
 stopper (cap, peg, plug, tap) - tapa  
-stopwatch - dura metre gi  
+stopwatch - dura metri gi  
 store (deposit) - hazin  
 store (shop) - maikan  
 storehouse (depository) - hazinkan  
@@ -4087,7 +4087,7 @@ Switzerland - Suise
 sword - gem  
 syllable - lexi fen  
 symbol (emblem) - simbol  
-symmetry (symmetrical) - sam metre  
+symmetry (symmetrical) - sam metri  
 synchretism - sinkredisim  
 synthesis - sinteze  
 Syria - Suria  
@@ -4132,7 +4132,7 @@ tattered (ragged, torn) - cira cira di
 tattoo - tatu  
 taxi (cab) - taxi gar  
 taxi driver (cab driver) - taxi vala  
-taximeter - taxi metre gi  
+taximeter - taxi metri gi  
 tea - cai  
 tea cup - cai kupa  
 tea house - caikan  
@@ -4204,7 +4204,7 @@ theology - deu logi
 theory - teori  
 theosophy - deu sofi  
 there - a vo  
-thermometer - termo metre gi  
+thermometer - termo metri gi  
 they - damen  
 thick - gros  
 thickness - grosta  
@@ -4389,7 +4389,7 @@ underground (subterrainean) - geo nice di
 underside (underneath) - nice  
 unexpected - anprevide di  
 union - un ta liga  
-unit (measurement) - metre unta  
+unit (measurement) - metri unta  
 unite (merge, integrate) - fa un xe  
 united - un ta di  
 United Arab Emirates - Unta Arabi Amir Dexa (UAA)  

@@ -37,7 +37,7 @@ air bio di - aérobique
 air ordu - armée de l'air  
 air porte - aéroport  
 air prese - pression atmosphérique  
-air prese metre gi - baromètre  
+air prese metri gi - baromètre  
 ais - glace  
 ais di - glacé (glacial, gelé)  
 ais hoki - hockey sur glace  
@@ -489,7 +489,7 @@ dunia - monde
 dura - durée  
 • redura - reprendre  
 dura di - chronique  
-dura metre gi - chronomètre  
+dura metri gi - chronomètre  
 dus jen - ennemi  
 dus vide - laid (vilain)  
 • posprodute - post-production  
@@ -731,7 +731,7 @@ geo forme - terrain
 geo grafi - geographie  
 geo kaska plate - plaque tectonique  
 geo logi - géologie  
-geo metre - géométrie  
+geo metri - géométrie  
 geo nice jela - oubliette (cul de basse-fosse)  
 geo politi - géopolitique  
 geo termo - géothermique  
@@ -1111,7 +1111,7 @@ kuanga xan - mine
 kuarze - quartz  
 kube - cube  
 kudi - coude  
-kudi metre - coudée  
+kudi metri - coudée  
 kuku - coucou  
 kumu - accumuler  
 kupa - coupe (tasse, verre)  
@@ -1290,7 +1290,7 @@ metanol - méthanol (alcool de bois)
 metil - méthyle  
 metal bede - enclume  
 metal lin - fil de fer  
-• parametre - paramètre  
+• parametri - paramètre  
 meza - table  
 meza tela - nappe  
 mi - je (me)  
@@ -1691,7 +1691,7 @@ saluta - santé
 sam - égal (même)  
 sam bei - pair (pareil)  
 sam emos - compassion  
-sam metre - symétrie  
+sam metri - symétrie  
 sam rai - accord  
 sam sifa xe - simulation  
 sama - ciel  
@@ -1782,7 +1782,7 @@ sosis - saucisse
 sual - question  
 sueda - sueur  
 suga - vite (rapide)  
-suga metre gi - compteur de vitesse  
+suga metri gi - compteur de vitesse  
 sui - eau  
 sui gas - vapeur d’eau  
 sui minta - Menthe aquatique  
@@ -1812,7 +1812,7 @@ tala - serrure
 tali yum - thallium  
 tana - tige  
 tantal yum - tantale  
-taxi metre gi - taximètre  
+taxi metri gi - taximètre  
 taxi vala - chauffeur de taxi  
 taza - frais  
 tef - mil éthiopien  
@@ -1863,7 +1863,7 @@ tomate - tomate
 • tritomi - trichotomie  
 • tomi grafi - tomographie  
 topo grafi - topographie  
-topo metre grafi - carte (plan)  
+topo metri grafi - carte (plan)  
 tor yum - thorium  
 tortuga - tortue  
 toxilogi - toxicologie  
@@ -1950,7 +1950,7 @@ vespa - abeille ou guêpe
 vespa nide - ruche (nid d'abeille)  
 veze - poids (lourdeur, gravité)  
 veze di - lourd  
-veze metre gi - balance (poids)  
+veze metri gi - balance (poids)  
 vide - voir  
 vide ja - espectador  
 vidou - veuve  

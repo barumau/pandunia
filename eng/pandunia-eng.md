@@ -95,7 +95,7 @@ air bio di - aerobic
 air ordu - airforce  
 air porte - airport (aeroport)  
 air prese - atmospheric pressure  
-air prese metre gi - barometer  
+air prese metri gi - barometer  
 ais - ice  
 ais di - icy  
 ais hoki - ice hockey  
@@ -940,7 +940,7 @@ dura - duration (time interval)
 • redura - continue (resume)  
 durabil - durable (endurable, sustainable)  
 dura di - chronic (lasting)  
-dura metre gi - stopwatch  
+dura metri gi - stopwatch  
 dura zaman - period (era, epoch, term)  
 dus - bad (unfavorable, negative, evil, wicked, troublesome, difficult)  
 dus deu sim - dystheism (maltheism)  
@@ -1634,7 +1634,7 @@ geo kaska krake - fault line
 geo kaska plate - tectonic plate  
 geo logi - geology  
 Geo Medi Hai - Mediterranean  
-geo metre - geometry  
+geo metri - geometry  
 geo nice di - underground (subterrainean)  
 geo nice jela - dungeon (underground prison)  
 geo ordu - ground force (army)  
@@ -1681,7 +1681,7 @@ gola seku - cobblestone
 golem - golem  
 gomu - rubber (latex, eraser)  
 gona - corner (angle)  
-gona metre gi - goniometer  
+gona metri gi - goniometer  
 gorila - gorilla  
 goro - pig  
 goro nama - pork  
@@ -2480,7 +2480,7 @@ kuarze - quartz
 Kuba - Cuba  
 kube - cube  
 kudi - elbow  
-kudi metre - cubit  
+kudi metri - cubit  
 kuke - cook (prepare food)  
 kuke ja - cook (chef)  
 kuke kamar - kitchen  
@@ -2884,10 +2884,10 @@ metal bede - anvil
 metal lin - wire  
 metal sanaja - blacksmith (iron forger)  
 metal tul - hardware (ironware, equipment)  
-metre - measure (measurement)  
-metre gi - meter (measuring device)  
-metre unta - unit (measurement)  
-• parametre - parameter (argument, input variable)  
+metri - measure (measurement)  
+metri gi - meter (measuring device)  
+metri unta - unit (measurement)  
+• parametri - parameter (argument, input variable)  
 meza - table  
 meza stan - plateau (tableland)  
 meza tela - tablecloth  
@@ -3615,7 +3615,7 @@ Qazaqe - Kazakhstan
 
 radi - ray (radiation)  
 radi longta - radius  
-radi metre gi - radiometer  
+radi metri gi - radiometer  
 radi yum - radium  
 radio - radio  
 radio mise gi - radiotransmitter  
@@ -3791,7 +3791,7 @@ sam - same (equal, alike, match)
 sam bei - peer  
 sam dexa jen - compatriot  
 sam emos - compassion (sympathy)  
-sam metre - symmetry (symmetrical)  
+sam metri - symmetry (symmetrical)  
 sam nam - homonym  
 sam rai - agreement (consent)  
 sam romanse di - homoromantic  
@@ -4038,7 +4038,7 @@ sueda - sweat (perspiration)
 sueda di - sweaty  
 Suen - Sweden  
 suga - fast (quick, rapid, speedy)  
-suga metre gi - speedometer  
+suga metri gi - speedometer  
 sugata - speed (velocity)  
 sui - water  
 sui culi - water treatment  
@@ -4127,7 +4127,7 @@ tatu - tattoo
 tava - frying pan  
 taxi - fee (fare)  
 taxi gar - taxi (cab)  
-taxi metre gi - taximeter  
+taxi metri gi - taximeter  
 taxi vala - taxi driver (cab driver)  
 taza - fresh  
 tef - lovegrass (teff)  
@@ -4172,7 +4172,7 @@ tera - tera-
 terbi yum - terbium  
 terca - oblique (askew, tilted)  
 termo - temperature  
-termo metre gi - thermometer  
+termo metri gi - thermometer  
 teror - terror  
 teror sim - terrorism  
 teror sim ja - terrorist  
@@ -4232,7 +4232,7 @@ tong - barrel (can, cask)
 Tonga - Tonga  
 topo - region (tract, land, ground)  
 topo grafi - topography  
-topo metre grafi - map (chart, geographic map)  
+topo metri grafi - map (chart, geographic map)  
 tor yum - thorium  
 torso - trunk (torso)  
 tortuga - turtle (tortoise)  
@@ -4438,7 +4438,7 @@ veste di - western
 veste gorila - western gorilla  
 veze - weight (heft, gravity)  
 veze di - heavy  
-veze metre gi - scales (weighing device)  
+veze metri gi - scales (weighing device)  
 vide - look (see)  
 • previde - expect (anticipate, predict, forsee)  
 • anprevide di - unexpected  

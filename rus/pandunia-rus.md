@@ -416,7 +416,7 @@ duna - дюна
 dunia - мир (свет)  
 durabil - долговечный  
 dura di - хронический  
-dura metre gi - секундомер  
+dura metri gi - секундомер  
 dura zaman - период (эпоха)  
 dus jen - враг (противник)  
 dus sin di - зловещий  
@@ -636,7 +636,7 @@ gene tipe - генотип
 gene yo hevan - выращивать  
 Geo - Земля  
 geo grafi - география  
-geo metre - геометрия  
+geo metri - геометрия  
 geo nice jela - ублиет (подземная тюрьма)  
 geo politi - геополитика  
 geo termo - геотерма́льный  
@@ -1176,7 +1176,7 @@ metan - метан
 metanol - метанол  
 metil - метил  
 metal bede - наковальня  
-• parametre - параметр (аргумент)  
+• parametri - параметр (аргумент)  
 meza - стол  
 meza tela - скатерть  
 mi - я  
@@ -1546,7 +1546,7 @@ salamta - благосостояние
 salu safata - гигиена  
 sam bei - ровня  
 sam emos - сострадание  
-sam metre - симметрия  
+sam metri - симметрия  
 sam rai - согласие  
 sam sifa xe - симуляция  
 sama - небо  
@@ -1680,7 +1680,7 @@ tana - стебель
 tantal yum - тантал  
 tasa - блюдо (таз)  
 tatu - татуировка (тату)  
-taxi metre gi - таксометр  
+taxi metri gi - таксометр  
 taxi vala - таксист  
 taza - свежий  
 tef - теф  
@@ -1730,7 +1730,7 @@ tomate - помидор (томат)
 • tritomi - трихотомия  
 • tomi grafi - томография  
 topo grafi - топография  
-topo metre grafi - карта (план)  
+topo metri grafi - карта (план)  
 tor yum - торий  
 toxilogi - токсикология  
 • antranse vide di - непрозрачный  

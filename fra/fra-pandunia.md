@@ -149,7 +149,7 @@ arme nucléaire - kerne vuki
 armure - defa kaska  
 armée - ordu  
 armée - vuki ordu  
-armée de l'ai - air ordu  
+armée de l'air - air ordu  
 arobase (@) - adres zi  
 arrêt de bus - bus halte  
 arsenic - arsen yum  
@@ -216,7 +216,7 @@ baie - beri
 bain - banya  
 baisser - fa dipe  
 balai - jaru  
-balance (poids) - veze metre gi  
+balance (poids) - veze metri gi  
 balau (meranti) - meranti  
 balcon - veranda  
 balle (boule) - bol  
@@ -233,7 +233,7 @@ barbare - barbar
 barbe - barde  
 Barbuda - Barbuda  
 barman - bar vala  
-baromètre - air prese metre gi  
+baromètre - air prese metri gi  
 barrière - bara mur  
 baryum - bari yum  
 bas - dipe  
@@ -377,7 +377,7 @@ carotte - karote
 caroube - karuba  
 carreau (tuile) - tail  
 carrière - pei kar jiva  
-carte (plan) - topo metre grafi  
+carte (plan) - topo metri grafi  
 carte - karta  
 carte - karte  
 carte de crédit - kredikarte  
@@ -442,7 +442,7 @@ chose - xe
 Christ (messie) - mesi  
 chrome - krom yum  
 chronique - dura di  
-chronomètre - dura metre gi  
+chronomètre - dura metri gi  
 chu - pada di  
 chut - tix  
 chèque - ceke  
@@ -486,7 +486,7 @@ compote de pommes - aple sos
 comprendre (réaliser; aha) - aha  
 compte - hisabu loge  
 compter (calculer) - pute  
-compteur de vitesse - suga metre gi  
+compteur de vitesse - suga metri gi  
 concert - konserte  
 concombre - hiyar  
 concombre confit (cornichon) - acar hiyar  
@@ -523,7 +523,7 @@ couch (couchette) - kux loka
 coucher - fa kux  
 coucou - kuku  
 coude - kudi  
-coudée - kudi metre  
+coudée - kudi metri  
 couguar (puma) - puma  
 couleur - rang  
 coupe (tasse, verre) - kupa  
@@ -853,7 +853,7 @@ généreux - karim di
 générosité (charité) - karim  
 génétique - gene logi di  
 géologie - geo logi  
-géométrie - geo metre  
+géométrie - geo metri  
 géopolitique - geo politi  
 géothermique - geo termo  
 gêner (déranger, perturber) - fa turbe  
@@ -1373,7 +1373,7 @@ papier toilette (papier hygiénique) - tuale kaguji
 papillon - pelpel  
 paquet - pake  
 par exemple - to misal  
-paramètre - parametre  
+paramètre - parametri  
 parapluie - barxa cati  
 parc - parke  
 pardonner - fa maf  
@@ -1793,7 +1793,7 @@ survivre - trajiva
 svastika (croix gammée) - huke krus  
 syllabe - lexi fen  
 symbole - simbol  
-symétrie - sam metre  
+symétrie - sam metri  
 sélénium - selen yum  
 sémantique - semi logi  
 sémaphore - semi forar  
@@ -1817,7 +1817,7 @@ tapioca - manioka fufu
 tarte - pai  
 tasse à thé - cai kupa  
 taupe - krote  
-taximètre - taxi metre gi  
+taximètre - taxi metri gi  
 technique - tehni  
 technologie - tehni logi  
 technétium - tehni yum  

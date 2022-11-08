@@ -311,7 +311,7 @@
  - Geo  
  - geo elfe  
  - geo grafi  
- - geo metre  
+ - geo metri  
  - geo politi  
  - geo termo  
  - Germania  
@@ -462,7 +462,7 @@
  - kosmo biologi  
  - kosmo nave  
  - kredibil  
- - kudi metre  
+ - kudi metri  
  - kumu  
  - kurse  
  - la  
@@ -531,7 +531,7 @@
  - metanol  
  - metil  
  - metilamin  
- - metre gi  
+ - metri gi  
  - Mimas  
  - mime  
  - mime ja  
@@ -660,7 +660,7 @@
  - salamta  
  - saludo  
  - sam bei  
- - sam metre  
+ - sam metri  
  - sante kanon  
  - sar kexa hin  
  - sau ben  
@@ -731,7 +731,7 @@
  - to vai  
  - tomi  
  - topo grafi  
- - topo metre grafi  
+ - topo metri grafi  
  - toxilogi  
  - tra  
  - tralongta  
@@ -1140,7 +1140,7 @@ bardzie - max
 bardzo (wielce) - tre  
 bariera - bara mur  
 bark (ramię) - kanta  
-barometr - air prese metre gi  
+barometr - air prese metri gi  
 barwnik - rang mate  
 basen - basen  
 bateria - batri  
@@ -1734,7 +1734,7 @@ gniazdo (ul, nora, jama, barłóg, legowisko) - nide
 gniew, furia - furita  
 godzina - hor  
 golem - golem  
-goniometr (kątomierz) - gona metre gi  
+goniometr (kątomierz) - gona metri gi  
 gorbusza - rode salmon  
 goryl - gorila  
 goryl wschodni - dong gorila  
@@ -1976,7 +1976,7 @@ jebać, kopulować - coda
 jeden (1) - un  
 jednoczyć - fa un xe  
 jednokolorowy (monochromatyczny) - un rang di  
-jednostka miary - metre unta  
+jednostka miary - metri unta  
 jednoznaczny - un semi di  
 jednoznaczny - un semi di  
 jedwab - silke  
@@ -2970,7 +2970,7 @@ papuga - papagai
 para wodna - sui gas  
 paragon, pokwitowanie - reside  
 Paragwaj - Paraguai  
-parametr (argument, wartość wejściowa) - parametre  
+parametr (argument, wartość wejściowa) - parametri  
 parasol - barxa cati  
 parasol - sol cati  
 park (ogród) - parke  
@@ -3358,7 +3358,7 @@ przystojny, atrakcyjny, ładny - bon vide di
 przyszłość - pos zaman  
 przysłówek - mode loge  
 prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający) - tire dara  
-prędkościomierz - suga metre gi  
+prędkościomierz - suga metri gi  
 prędkość (szybkość) - sugata  
 pręt, kij - kane  
 pstrąg potokowy - kafe salmon  
@@ -3418,7 +3418,7 @@ radio - radio
 radio - radio na gi  
 radioaktywność - ion radi  
 radioaktywny - ion radi di  
-radoiometr - radi metre gi  
+radoiometr - radi metri gi  
 radon - radon  
 rakieta - rokete  
 rama - frem  
@@ -3757,7 +3757,7 @@ stokrotka pospolita - englix margarita
 stolarz - moka sanaja  
 stop; przerwa, zatrzymanie - halte  
 stopa - fute  
-stoper (sekundomierz) - dura metre gi  
+stoper (sekundomierz) - dura metri gi  
 stopień Celsjusza - celsius gradu  
 stopień, poziom, ranga, klasa - gradu  
 stopniowy - gradu di  
@@ -3907,7 +3907,7 @@ tajski - Tai baxa
 Tajwan, Republika Chińska - Taivan  
 tak - ya  
 taki sam - sam  
-taksometr - taxi metre gi  
+taksometr - taxi metri gi  
 taksówkarz - taxi vala  
 taktyka, strategia - tatike  
 tal - tali yum  
@@ -3958,7 +3958,7 @@ teraźniejszość, współczesność - zaita
 teraźniejszość, współczesność (teraz) - zai zaman  
 terb - terbi yum  
 teren - geo forme  
-termometr - termo metre gi  
+termometr - termo metri gi  
 terror - teror  
 terrorysta - teror sim ja  
 terroryzm - teror sim  
@@ -4133,7 +4133,7 @@ Vanuatu - Vanuatu
 voodoo - vodun  
 w innym wypadku (inaczej) - alo di  
 waga (ciężkość) - veze  
-waga (urządzenie ważące) - veze metre gi  
+waga (urządzenie ważące) - veze metri gi  
 wagina - vagina  
 walc - valse  
 Walia - Kamri  
@@ -4509,7 +4509,7 @@ zmaksymalizować - fa maxim
 zmiana klimatu - klima mute  
 zmienić (zmieniać) - alofa  
 zmienić, zmieniać - mute  
-zmierzyć (miara) - metre  
+zmierzyć (miara) - metri  
 zminimalizować - fa minim  
 zmniejszyć o jeden - fa min gradu  
 zmysł - sense  

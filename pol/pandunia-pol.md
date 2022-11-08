@@ -59,7 +59,7 @@ air bio di -
 air ordu - siły powietrzne  
 air porte - lotnisko (port lotniczy)  
 air prese - ciśnienie atmosferyczne  
-air prese metre gi - barometr  
+air prese metri gi - barometr  
 ais - lód  
 ais di - lodowy  
 ais hoki - hokej na lodzie  
@@ -905,7 +905,7 @@ dura - trwanie
 • redura -   
 durabil - trwały (wytrzymały, podtrzymywalny)  
 dura di - chroniczny  
-dura metre gi - stoper (sekundomierz)  
+dura metri gi - stoper (sekundomierz)  
 dura zaman - czas (epoka, era)  
 dus -   
 dus deu sim -   
@@ -1599,7 +1599,7 @@ geo kaska krake - uskok
 geo kaska plate - płyta tektoniczna  
 geo logi - geologia  
 Geo Medi Hai - Morze Śródziemne  
-geo metre -   
+geo metri -   
 geo nice di - podziemny  
 geo nice jela - loch  
 geo ordu - wosko lądowe (armia)  
@@ -1646,7 +1646,7 @@ gola seku - bruk
 golem - golem  
 gomu - guma  
 gona - kąt  
-gona metre gi - goniometr (kątomierz)  
+gona metri gi - goniometr (kątomierz)  
 gorila - goryl  
 goro - świnia  
 goro nama - wieprzowina  
@@ -2446,7 +2446,7 @@ kuarze - kwarc
 Kuba - Kuba  
 kube - sześcian  
 kudi - łokieć  
-kudi metre -   
+kudi metri -   
 kuke - gotować, szykować jedzenie  
 kuke ja - kucharz  
 kuke kamar - kuchnia  
@@ -2851,10 +2851,10 @@ metal bede - kowadło
 metal lin -   
 metal sanaja - kowal  
 metal tul -   
-metre - zmierzyć (miara)  
-metre gi -   
-metre unta - jednostka miary  
-• parametre - parametr (argument, wartość wejściowa)  
+metri - zmierzyć (miara)  
+metri gi -   
+metri unta - jednostka miary  
+• parametri - parametr (argument, wartość wejściowa)  
 meza - stół  
 meza stan - płaskowyż (plateau)  
 meza tela - obrus  
@@ -3581,7 +3581,7 @@ Qazaqe - Kazachstan
 
 radi - promień  
 radi longta -   
-radi metre gi - radoiometr  
+radi metri gi - radoiometr  
 radi yum - rad  
 radio - radio  
 radio mise gi - nadajnik radiowy  
@@ -3756,7 +3756,7 @@ sam - taki sam
 sam bei -   
 sam dexa jen - rodak, ziomek, krajan  
 sam emos - współczucie  
-sam metre -   
+sam metri -   
 sam nam - homonim  
 sam rai - porozumienie  
 sam romanse di - homoromantyczny  
@@ -4003,7 +4003,7 @@ sueda - pot
 sueda di - spocony  
 Suen - Szwecja  
 suga - szybki, prędki  
-suga metre gi - prędkościomierz  
+suga metri gi - prędkościomierz  
 sugata - prędkość (szybkość)  
 sui - woda  
 sui culi -   
@@ -4092,7 +4092,7 @@ tatu - tatuaż
 tava - patelnia  
 taxi - podatek, opłata  
 taxi gar - taxi, taksówka  
-taxi metre gi - taksometr  
+taxi metri gi - taksometr  
 taxi vala - taksówkarz  
 taza - świeży  
 tef -   
@@ -4136,7 +4136,7 @@ tepe - taśma
 terbi yum - terb  
 terca - skośny (ukośny, pochyły)  
 termo - temperatura  
-termo metre gi - termometr  
+termo metri gi - termometr  
 teror - terror  
 teror sim - terroryzm  
 teror sim ja - terrorysta  
@@ -4196,7 +4196,7 @@ tong - beczka
 Tonga - Tonga  
 topo - region  
 topo grafi -   
-topo metre grafi -   
+topo metri grafi -   
 tor yum - tor  
 torso - tułów  
 tortuga - żółw  
@@ -4402,7 +4402,7 @@ veste di - zachodni
 veste gorila - goryl zachodni  
 veze - waga (ciężkość)  
 veze di - ciężki (masywny)  
-veze metre gi - waga (urządzenie ważące)  
+veze metri gi - waga (urządzenie ważące)  
 vide - patrzeć, widzieć  
 • previde - przewidzieć (spodziewać się)  
 • anprevide di - niespodziewany  

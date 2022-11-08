@@ -379,7 +379,7 @@ dugu - 读 (看)
 dunia - 世界  
 dura - 时间  
 durabil - 耐用的  
-dura metre gi - 秒表  
+dura metri gi - 秒表  
 dus - 难  
 dus jen - 敌人  
 dus sin di - 不祥的  
@@ -560,7 +560,7 @@ gene logu - 系谱学
 gene tipe - 基因型  
 geo forme - 地势  
 geo grafi - 地理  
-geo metre - 几何学  
+geo metri - 几何学  
 geo politi - 地缘政治  
 geo termo - 地热的  
 german yum - 锗  
@@ -1063,7 +1063,7 @@ metil - 甲基
 metal bede - 铁砧  
 metal lin - 线 (铁丝)  
 metal sanaja - 铁匠  
-• parametre - 参数  
+• parametri - 参数  
 meza - 桌子  
 meza tela - 桌布  
 mi - 我  
@@ -1391,7 +1391,7 @@ saludo - 健康
 saluta - 健康  
 sam - 一样  
 sam bei - 同辈  
-sam metre - 对称  
+sam metri - 对称  
 sam rai - 一致  
 sam sifa xe - 模型  
 sama - 天空  
@@ -1472,7 +1472,7 @@ sosis - 香肠
 • inspete - 检查  
 sual - 问题  
 suga - 快  
-suga metre gi - 速度计  
+suga metri gi - 速度计  
 sugata - 速度  
 sui - 水  
 sui culi - 水处理  
@@ -1506,7 +1506,7 @@ tami - 贪婪的
 tana - 茎 (梗)  
 tantal yum - 钽  
 tasa - 盘 (碟)  
-taxi metre gi - 计程器  
+taxi metri gi - 计程器  
 taxi vala - 出租车司机  
 taza - 新鲜的  
 tef - 苔麸  
@@ -1546,7 +1546,7 @@ tocu - 接触
 tomate - 西红柿  
 • jivatomi - 活体解剖  
 topo grafi - 地形  
-topo metre grafi - 地图  
+topo metri grafi - 地图  
 tor yum - 钍  
 toxilogi - 毒物学  
 transe vide di - 透明的  

@@ -350,7 +350,7 @@ dugu - 読む
 dunia - 世界  
 • redura - 再開する  
 durabil - 持続的  
-dura metre gi - ストップウオッチ  
+dura metri gi - ストップウオッチ  
 dura zaman - 時代 (年代)  
 dus - 難しい  
 dus jen - 敵  
@@ -553,7 +553,7 @@ gene yo hevan - 湧かす
 geo - 地  
 geo forme - 地形  
 geo logi - 地質学  
-geo metre - 幾何学  
+geo metri - 幾何学  
 geo nice di - 地中  
 geo nice jela - 地下牢 (ダンジョン)  
 german yum - ゲルマニウム  
@@ -1079,9 +1079,9 @@ metal - 金属
 metal bede - 金敷き (鉄床)  
 metal lin - 線 (針金)  
 metal tul - 金物  
-metre - 測定  
-metre gi - 測定装置 (計)  
-• parametre - 引数 (パラメーター)  
+metri - 測定  
+metri gi - 測定装置 (計)  
+• parametri - 引数 (パラメーター)  
 meza - 机 (テーブル)  
 meza stan - 台地 (高地)  
 meza tela - テーブル掛け  
@@ -1406,7 +1406,7 @@ salu - 元気 (丈夫)
 saludo - 健康  
 saluta - 健康  
 sam bei - 同輩  
-sam metre - 対称  
+sam metri - 対称  
 sam sifa di - 同じよう (近い)  
 sam sifa xe - 模型 (類似, シミュレーション)  
 sama - 空  
@@ -1493,7 +1493,7 @@ sual dokumen - アンケート (質問用紙)
 suba - 朝  
 suba yam - 朝食  
 suga - 速い  
-suga metre gi - 速度計  
+suga metri gi - 速度計  
 sugata - 速度  
 sui - 水  
 sui gas - 湯気  

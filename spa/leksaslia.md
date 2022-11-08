@@ -972,7 +972,7 @@
 **mesi** *Cristo (mesías)* ← eng:messiah, fra:messie, spa:mesías, por:messias, rus:мессия (messiya), ara: مَسِيح‎ (masīḥ), hin:मसीह (masīh), ben:মসিহ (môśih), may:al-Masih, swa:Masiya, tur:Mesih  
 **meta** ** ← eng:spa:por:meta-, fra:méta-, rus:мета- (meta-)  
 **metal** *metal* ← eng:spa:por:tur:metal, fra:métal, deu:Metall, rus:мета́лл (metáll)  
-**metre** *medir (medida)* ← eng:meter, spa:por:-metro, rus:метр tur:metre, + hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra  
+**metri** *medir (medida)* ← eng:meter, spa:por:-metro, rus:метр tur:metre, + hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra  
 **meza** *mesa* ← por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa  
 **mi** *yo* ← eng:fra:por:me, spa:mi; me, fas: من‎ (man), hin:मैं (mẽ), ben:আমি (ami), swa:mimi, tur:ben  
 **mien** *fideo (tallarín)* ← zho:面 (miàn), yue:麵 (min6), jpn:麺 (men), kor:면 (myeon), vie:mì; miến, may:mie, tha:หมี่ (mii), khm:មី (mi)  

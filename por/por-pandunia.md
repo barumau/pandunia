@@ -301,7 +301,7 @@ carreira - pei kar jiva
 carta - karte  
 carta - letre  
 carta geográfica - karta  
-carta geográfica - topo metre grafi  
+carta geográfica - topo metri grafi  
 cartografia - karta grafi  
 Cartum - Hartum  
 cartão de crédito - kredikarte  
@@ -437,7 +437,7 @@ croassã - kruasan
 crocodiliano - krokodil  
 crocodilo - long krokodil  
 cromo - jami karte  
-cronómetro - dura metre gi  
+cronómetro - dura metri gi  
 cru - seng  
 cruz - krus  
 crème - krem  
@@ -463,7 +463,7 @@ césio - cesi yum
 céu - sama  
 cópia - kopi  
 cósmico - kosmo di  
-cúbito (côvado) - kudi metre  
+cúbito (côvado) - kudi metri  
 cúrio - kuri yum  
 
 ## D  
@@ -746,7 +746,7 @@ genitor - cin
 genético - gene logi di  
 genótipo - gene tipe  
 geografia - geo grafi  
-geometria - geo metre  
+geometria - geo metri  
 geopolítica - geo politi  
 Germânia - Germania  
 germânio - german yum  
@@ -1242,7 +1242,7 @@ parque - parke
 parte - fen  
 partida - mece  
 partido (grupo) - parti  
-parâmetro - parametre  
+parâmetro - parametri  
 passagem - pas dau  
 passagem de volta - retro tikete  
 passaporte - pasporte  
@@ -1559,7 +1559,7 @@ silencioso - tix
 silêncio - tixta  
 silício - silike  
 sim - ya  
-simetria - sam metre  
+simetria - sam metri  
 simulação - sam sifa xe  
 sino (campainha) - dang gi  
 situaçao - xe hal  
@@ -1606,7 +1606,7 @@ tangerina (mandarim) - rubi oranje
 tapioca - manioka fufu  
 tartaruga - tortuga  
 taxista - taxi vala  
-taxímetro - taxi metre gi  
+taxímetro - taxi metri gi  
 tear - tela gi  
 tecnécio - tehni yum  
 tectónica de placas - plate geo kaskalogi  
@@ -1722,7 +1722,7 @@ vazio - hali
 vegetalista - pul fito yam sim ja  
 vegetariano - fito yam sim ja  
 velho (antigo) - prezaman di  
-velocímetro - suga metre gi  
+velocímetro - suga metri gi  
 vender - vende  
 ver - vide  
 verbo - kar lexi  

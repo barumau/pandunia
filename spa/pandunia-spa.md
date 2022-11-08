@@ -52,7 +52,7 @@ air bio di - aeróbico
 air ordu - fuerza aérea  
 air porte - aeropuerto  
 air prese - presión atmosférica  
-air prese metre gi - barómetro  
+air prese metri gi - barómetro  
 ais - hielo  
 ais di - cubierto de hielo  
 ais hoki - hockey sobre hielo  
@@ -796,7 +796,7 @@ dura - duración
 • redura - continuar (reanudar)  
 durabil - durable  
 dura di - crónico  
-dura metre gi - cronómetro  
+dura metri gi - cronómetro  
 dura zaman - era (periodo, época)  
 dus - malo (difícil, duro)  
 dus gradu - degradar  
@@ -1383,7 +1383,7 @@ geo grafi - geografía
 geo kaska plate - placa tectónica  
 geo logi - geología  
 Geo Medi Hai - Mediterráneo  
-geo metre - geometría  
+geo metri - geometría  
 geo nice di - subterráneo  
 geo nice jela - mazmorra  
 geo ordu - ejército  
@@ -1428,7 +1428,7 @@ gola longta - perímetro (circunferencia)
 gola seku - adoquín  
 gomu - goma (caucho, hule, borrador)  
 gona - esquina (rincón, ángulo)  
-gona metre gi - goniómetro (medidor de ángulos)  
+gona metri gi - goniómetro (medidor de ángulos)  
 gorila - gorila  
 goro - cerdo (puerco)  
 goro nama - carne de cerdo  
@@ -2482,10 +2482,10 @@ metal bede - yunque
 metal lin - alambre (hilo)  
 metal sanaja - herrero  
 metal tul - ferretería  
-metre - medir (medida)  
-metre gi - medidor  
-metre unta - unidad (medida)  
-• parametre - parámetro  
+metri - medir (medida)  
+metri gi - medidor  
+metri unta - unidad (medida)  
+• parametri - parámetro  
 meza - mesa  
 meza stan - meseta  
 meza tela - mantel  
@@ -3132,7 +3132,7 @@ Qazaqe - Kazajistán (Kazakistan)
 
 radi - rayo (radiación)  
 radi longta - radio (mitad de diámetro)  
-radi metre gi - radiómetro  
+radi metri gi - radiómetro  
 radi yum - radio  
 radio - radio  
 radio mise gi - radiotransmisor  
@@ -3296,7 +3296,7 @@ sam - equal (similar)
 sam bei - par  
 sam dexa jen - compatriota  
 sam emos - compasión  
-sam metre - simetría (simétrico)  
+sam metri - simetría (simétrico)  
 sam nam - homónimo  
 sam rai - acuerdo  
 sam romanse di - homorromántico  
@@ -3513,7 +3513,7 @@ sueda - sudor
 sueda di - sudoroso (sudado)  
 Suen - Suecia  
 suga - rápido  
-suga metre gi - velocímetro  
+suga metri gi - velocímetro  
 sugata - rapidez (velocidad)  
 sui - agua  
 sui di - acuoso  
@@ -3631,7 +3631,7 @@ tera - tera-
 terbi yum - terbio  
 terca - oblicuo (torcido)  
 termo - temperatura  
-termo metre gi - termómetro  
+termo metri gi - termómetro  
 teror - terror  
 teror sim - terrorismo  
 teror sim ja - terrorista  
@@ -3678,7 +3678,7 @@ tong - barril (tonel)
 Tonga - Tonga  
 topo - región (zona)  
 topo grafi - topografía  
-topo metre grafi - mapa  
+topo metri grafi - mapa  
 tor yum - torio  
 torso - torso  
 tortuga - tortuga  
@@ -3845,7 +3845,7 @@ veste di - occidental
 veste gorila - gorila occidental  
 veze - peso (gravedad)  
 veze di - pesado  
-veze metre gi - pesa (báscula, balanza)  
+veze metri gi - pesa (báscula, balanza)  
 vide - ver (mirar)  
 • previde - prever (esperar, pensar)  
 vide ja - espectador  

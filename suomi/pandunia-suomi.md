@@ -92,7 +92,7 @@ air bio di - aerobinen
 air ordu - ilmavoimat  
 air porte - lentoasema (lentokenttä)  
 air prese - ilmanpaine  
-air prese metre gi - ilmapuntari (ilmanpainemittari, barometri)  
+air prese metri gi - ilmapuntari (ilmanpainemittari, barometri)  
 ais - jää  
 ais di - jäinen  
 ais hoki - jääkiekko  
@@ -906,7 +906,7 @@ dura - aika (kesto, kestoaika)
 • redura - jatkua uudestaan  
 durabil - kestävä (luja)  
 dura di - kestävä (krooninen)  
-dura metre gi - sekuntikello  
+dura metri gi - sekuntikello  
 dura zaman - aikakausi  
 dus - paha (epäsuotuisa, epämiellyttävä, vastustava)  
 dus deu sim - dysteismi (usko jumalan pahuuteen)  
@@ -1555,7 +1555,7 @@ geo grafi - maantiede
 geo kaska plate - mannerlaatta  
 geo logi - geologia (maaperäntutkimus)  
 Geo Medi Hai - Välimeri  
-geo metre - geometria  
+geo metri - geometria  
 geo nice di - maanalainen  
 geo nice jela - vankityrmä  
 geo ordu - maavoimat  
@@ -1600,7 +1600,7 @@ gola seku - mukulakivi
 golem - golem  
 gomu - kumi  
 gona - kulma (nurkka)  
-gona metre gi - kulmamitta (goniometri)  
+gona metri gi - kulmamitta (goniometri)  
 gorila - gorilla  
 goro - sika (possu)  
 goro nama - sianliha  
@@ -2308,7 +2308,7 @@ kuanga sui - kivennäisvesi
 Kuba - Kuuba  
 kube - kuutio  
 kudi - kyynärpää  
-kudi metre - kyynäränmitta  
+kudi metri - kyynäränmitta  
 kuke - kokata (laittaa ruokaa)  
 kuke ja - kokki  
 kuke kamar - keittiö  
@@ -2655,8 +2655,8 @@ meta - myöhempi (jälkeinen)
 metal - metalli  
 metal lin - vaijeri (metallilanka)  
 metal sanaja - seppä  
-metre - mitta (koko, määrä)  
-• parametre - parametri (argumentti)  
+metri - mitta (koko, määrä)  
+• parametri - parametri (argumentti)  
 meza - pöytä  
 meza tela - pöytäliina  
 mi - minä  
@@ -3289,7 +3289,7 @@ Qazaqe - Kazakstan
 ## R  
 
 radi - säde  
-radi metre gi - säteilymittari  
+radi metri gi - säteilymittari  
 radi yum - radium  
 radio mise gi - radiolähetin  
 radio na gi - radiovastaanotin  
@@ -3440,7 +3440,7 @@ sam - sama (yhtäläinen)
 sam bei - vertainen  
 sam dexa jen - samanmaalainen (maanmies)  
 sam emos - myötätunto (sympatia)  
-sam metre - symmetria  
+sam metri - symmetria  
 sam nam - homonyymi  
 sam rai - yhteisymmärrys  
 sam sexe di - homoseksuaali  
@@ -3649,7 +3649,7 @@ sueda - hiki
 sueda di - hikinen  
 Suen - Ruotsi  
 suga - nopea (pikainen, vauhdikas)  
-suga metre gi - nopeusmittari  
+suga metri gi - nopeusmittari  
 sugata - nopeus (vauhti)  
 sui - vesi  
 sui culi - vedenkäsittely  
@@ -3724,7 +3724,7 @@ tatu - tatuointi
 tava - pannu (paistinpannu)  
 taxi - taksa (vero)  
 taxi gar - taksi  
-taxi metre gi - taksamittari  
+taxi metri gi - taksamittari  
 taxi vala - taksinkuljettaja  
 taza - tuore (raikas)  
 tef - tefheinä (röllinurmikka)  
@@ -3764,7 +3764,7 @@ tepe - teippi (nauha)
 terbi yum - terbium  
 terca - vino  
 termo - lämpötila  
-termo metre gi - lämpömittari  
+termo metri gi - lämpömittari  
 teror - kauhu (terrori)  
 teror sim - terrorismi  
 teror sim ja - terroristi  
@@ -3821,7 +3821,7 @@ tong - tynnyri (tölkki)
 Tonga - Tonga  
 topo - seutu (maa, alue)  
 topo grafi - topografia  
-topo metre grafi - kartta  
+topo metri grafi - kartta  
 tor yum - torium  
 torso - vartalo (varsi, torso)  
 tortuga - kilpikonna  
@@ -4019,7 +4019,7 @@ veste di - läntinen
 veste gorila - lännengorilla  
 veze - paino  
 veze di - painava  
-veze metre gi - vaaka (puntari)  
+veze metri gi - vaaka (puntari)  
 vide - nähdä  
 • previde - ennustaa (nähdä ennalta)  
 • anprevide di - ennennäkemätön  

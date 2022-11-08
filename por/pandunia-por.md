@@ -377,7 +377,7 @@ duna - duna (бархан)
 dunia - mundo  
 dura - duração  
 dura di - crónico  
-dura metre gi - cronómetro  
+dura metri gi - cronómetro  
 dus jen - inimigo  
 dus vide - feio  
 • posprodute - pós-produção  
@@ -572,7 +572,7 @@ gene tipe - genótipo
 Geo - Terra  
 geo forme - terreno  
 geo grafi - geografia  
-geo metre - geometria  
+geo metri - geometria  
 geo politi - geopolítica  
 german yum - germânio  
 Germania - Germânia  
@@ -924,7 +924,7 @@ kuanga xan - mina
 kuarze - quartzo  
 kube - cubo  
 kudi - cotovelo  
-kudi metre - cúbito (côvado)  
+kudi metri - cúbito (côvado)  
 kuku - cuco  
 kupa - copo (taça)  
 kupre - cobre  
@@ -1098,7 +1098,7 @@ metanol - metanol
 metil - metil  
 metal bede - bigorna  
 metal lin - arame  
-• parametre - parâmetro  
+• parametri - parâmetro  
 meza - mesa  
 meza tela - toalha de mesa  
 mi - eu (me)  
@@ -1463,7 +1463,7 @@ saluta - saúde
 sam - igual  
 sam bei - par  
 sam emos - compaixão  
-sam metre - simetria  
+sam metri - simetria  
 sam rai - acordo  
 sam sifa xe - simulação  
 sama - céu  
@@ -1550,7 +1550,7 @@ sosis - salsicha
 sual - questão (pergunta)  
 sueda - suor  
 suga - rápido  
-suga metre gi - velocímetro  
+suga metri gi - velocímetro  
 sui - água  
 sui gas - vapor  
 sui minta - hortelã-da-água  
@@ -1578,7 +1578,7 @@ tala - fechadura
 tali yum - tálio  
 tana - haste (talo, caule)  
 tantal yum - tântalo  
-taxi metre gi - taxímetro  
+taxi metri gi - taxímetro  
 taxi vala - taxista  
 tehni - técnica  
 tehni yum - tecnécio  
@@ -1610,7 +1610,7 @@ tomate - tomate
 • jivatomi - vivisecção  
 • tomi grafi - tomografia  
 topo grafi - topografia  
-topo metre grafi - carta geográfica  
+topo metri grafi - carta geográfica  
 tor yum - tório  
 tortuga - tartaruga  
 toxilogi - toxicologia  

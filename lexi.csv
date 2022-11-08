@@ -55,10 +55,10 @@ aha|aha|||eng:aha; uh-huh, deu:fra:aha, spa:ajá, por:ahá, rus:ага (aha), hi
 air|air|||eng:fra:spa:air, por:ar, rus:аэро- (aero-)|air||air|aire|ar|воздух||हवा (वायु)|বায়ু||udara (hawa)|هوا‎|hava|hewa||空气||空気|공기|không khí|aero|ilma|powietrze
 air.bio.di|air bio di||||aerobic||aérobique|aeróbico|aeróbico|аэробный||||||||||||好気性||||aerobinen|
 air.bio.di-an|• anair bio di||||anaerobic||anaérobique|anaeróbico|anaeróbico|||||||||||厌氧的||嫌気性||||anaerobinen|
-air.ordu|air ordu||||airforce||armée de l'ai|fuerza aérea|força aérea|военно-воздушные силы||वायु सेना|||angkatan udara||hava kuvetleri|||空军||空軍|공군|không quân|aerarmeo|ilmavoimat|siły powietrzne
+air.ordu|air ordu||||airforce||armée de l'air|fuerza aérea|força aérea|военно-воздушные силы||वायु सेना|||angkatan udara||hava kuvetleri|||空军||空軍|공군|không quân|aerarmeo|ilmavoimat|siły powietrzne
 air.porte|air porte||||airport (aeroport)||aéroport|aeropuerto|aeroporto|аэропорт||विमानतल|বিমানবন্দর||bandar udara||havalimanı|||飞机场||空港|공항|sân bay|flughaveno|lentoasema (lentokenttä)|lotnisko (port lotniczy)
 air.prese|air prese||||atmospheric pressure||pression atmosphérique|presión atmosférica||||||||||||||||||ilmanpaine|ciśnienie atmosferyczne
-air.prese.metre.gi|air prese metre gi||||barometer||baromètre|barómetro||||||||||||||||||ilmapuntari (ilmanpainemittari, barometri)|barometr
+air.prese.metri.gi|air prese metri gi||||barometer||baromètre|barómetro||||||||||||||||||ilmapuntari (ilmanpainemittari, barometri)|barometr
 ais|ais|||eng:ice, deu:Eis, may:és|ice||glace|hielo||||||||||||冰||氷 (アイス)|||glacio|jää|lód
 ais.di|ais di||||icy||glacé (glacial, gelé)|cubierto de hielo|||||||||||||||||glacia|jäinen|lodowy
 ais.hoki|ais hoki||||ice hockey||hockey sur glace|hockey sobre hielo|hóquei no gelo|хокке́й с ша́йбой|||||||buz hokeyi|||冰球||アイスホッケー|아이스하키|||jääkiekko|hokej na lodzie
@@ -898,7 +898,7 @@ dura|dura|||eng:duration, fra:durée, spa:por:durar + ara: دَوْرَة (dawra
 dura-re|• redura||||continue (resume)||reprendre|continuar (reanudar)||||||||||||||再開する||||jatkua uudestaan|
 dura.bil|durabil||||durable (endurable, sustainable)|||durable||долговечный||||||||||耐用的||持続的||||kestävä (luja)|trwały (wytrzymały, podtrzymywalny)
 dura.di|dura di||||chronic (lasting)||chronique|crónico|crónico|хронический||||||||||||||||kestävä (krooninen)|chroniczny
-dura.metre.gi|dura metre gi||||stopwatch||chronomètre|cronómetro|cronómetro|секундомер|||||jam randik|||||秒表||ストップウオッチ||||sekuntikello|stoper (sekundomierz)
+dura.metri.gi|dura metri gi||||stopwatch||chronomètre|cronómetro|cronómetro|секундомер|||||jam randik|||||秒表||ストップウオッチ||||sekuntikello|stoper (sekundomierz)
 dura.zaman|dura zaman||||period (era, epoch, term)|||era (periodo, época)||период (эпоха)||अवधि|||jaman (zaman)||zaman|zamani||||時代 (年代)||||aikakausi|czas (epoka, era)
 dus|dus|||eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-|bad (unfavorable, negative, evil, wicked, troublesome, difficult)|||malo (difícil, duro)||||दुश्वार||||||||难||難しい||khó (khốn nạn)||paha (epäsuotuisa, epämiellyttävä, vastustava)|
 dus.deu.sim|dus deu sim||||dystheism (maltheism)|||||||||||||||||||||dysteismi (usko jumalan pahuuteen)|
@@ -1586,7 +1586,7 @@ geo.kaske.krake|geo kaska krake||||fault line||||||||||||||||||||||uskok
 geo.kaske.plate|geo kaska plate||||tectonic plate||plaque tectonique|placa tectónica||||||||||||||||||mannerlaatta|płyta tektoniczna
 geo.logi|geo logi||||geology||géologie|geología||||||||||||||地質学||||geologia (maaperäntutkimus)|geologia
 Geo.Medi.Hai|Geo Medi Hai||||Mediterranean|||Mediterráneo||||||||||||||||||Välimeri|Morze Śródziemne
-geo.metre|geo metre||||geometry||géométrie|geometría|geometria|геометрия||ज्यामिति||||||||几何学||幾何学|기하학|hình học|geometrio|geometria|
+geo.metri|geo metri||||geometry||géométrie|geometría|geometria|геометрия||ज्यामिति||||||||几何学||幾何学|기하학|hình học|geometrio|geometria|
 geo.nice.di|geo nice di||||underground (subterrainean)|||subterráneo||||||||||||||地中||||maanalainen|podziemny
 geo.nice.jela|geo nice jela||||dungeon (underground prison)||oubliette (cul de basse-fosse)|mazmorra||ублиет (подземная тюрьма)||||||||||||地下牢 (ダンジョン)||||vankityrmä|loch
 geo.ordu|geo ordu||||ground force (army)|||ejército||||||||||||||||||maavoimat|wosko lądowe (armia)
@@ -1634,7 +1634,7 @@ gola.seku|gola seku||||cobblestone||pavé|adoquín||булыжник||||||||||�
 golem|golem|||heb:גולם‎ (golem), eng:spa:por:fra:may:golem, deu:Golem, rus:голем (golem), ara:غولم (ghwlm) jpn:ゴーレム (gōremu), kor:골렘 (gollem)|golem|||||||||||||||||||||golem|golem
 gomu|gomu|||spa:tgl:goma, fra:gomme, jpn:ゴム (gomu), kor:고무 (gomu), deu:Gummi|rubber (latex, eraser)|||goma (caucho, hule, borrador)||резина (каучук, резинка, ластик)||||||||kifuto||||ゴム (消しゴム)|||kaŭĉuko|kumi|guma
 gona|gona|||hin:कोण (koṇ), tel:(kōnamu), swa:kona, eng:corner, hau:kwana, fra:-gone, spa:por:-gono|corner (angle)|||esquina (rincón, ángulo)||||कोण|||||||||||||angulo|kulma (nurkka)|kąt
-gona.metre.gi|gona metre gi||||goniometer|||goniómetro (medidor de ángulos)||||||||||||||||||kulmamitta (goniometri)|goniometr (kątomierz)
+gona.metri.gi|gona metri gi||||goniometer|||goniómetro (medidor de ángulos)||||||||||||||||||kulmamitta (goniometri)|goniometr (kątomierz)
 gorila|gorila|bio||eng:gorilla, fra:gorille, spa:por:may:gorila, rus:горилла (gorilla), ara:غوريلا (ḡūrīlā), jpn:ゴリラ (gorira), kor:고릴라 (gorilla), vie:gôrila, hin:गोरिल्ला (gorillā), ben:গরিলা (gôrila)|gorilla||gorille|gorila|gorila|горилла||वनमानुष (गोरिल्ला)|গরিলা||gorila|غوريلا||ngagi||大猩猩||ゴリラ|고릴라|khỉ đột (gôrila)||gorilla|goryl
 goro|goro|bio||swa:guruwe zul:ingulube, kon:ngulu spa:guarro,gorrino, jpn:(gorogoro) eng:grunt|pig|||cerdo (puerco)|||||||||||||||||porko|sika (possu)|świnia
 goro.nama|goro nama||||pork|||carne de cerdo|||||||||||||||||porkaĵo|sianliha|wieprzowina
@@ -2426,7 +2426,7 @@ kuarze|kuarze|||deu:Quarz, eng:fra:quartz, spa:cuarzo, rus:кварц (kvarc), t
 Kuba|Kuba|dexa|CU||Cuba|||Cuba||||||||||||||||||Kuuba|Kuba
 kube|kube|||spa:por:cubo, deu:Kubus, eng:fra:cube, rus:куб (kub), ara:(kaʿba), may:kubus, tur:küp|cube||cube|cubo|cubo|куб||घन|ঘনক||kubus|كَعْبَة|küp|||立方体||立方体|입방체|hình lập phương|kubo|kuutio|sześcian
 kudi|kudi|||ara: كُوع‎ m (kūʿ) + fra:coude + hin:कुहनी (kuhnī)|elbow||coude|codo|cotovelo|локоть||कुहनी|বাঁক||siku|كُوع‎|dirsek|kisugudi (kiwiko)||肘||肘|팔꿈치|khuỷu tay|kubuto|kyynärpää|łokieć
-kudi.metre|kudi metre||||cubit||coudée||cúbito (côvado)|||||||||dhiraa||||||||kyynäränmitta|
+kudi.metri|kudi metri||||cubit||coudée||cúbito (côvado)|||||||||dhiraa||||||||kyynäränmitta|
 kuke|kuke|||eng:cook, deu:Kock, ita:cuoco, may:koki, tha:กุ๊ก (kuk), sango:kuku + rus:кухар (kuhar), pol:kucharz|cook (prepare food)|||cocinar (preparar)||||||||||||||||||kokata (laittaa ruokaa)|gotować, szykować jedzenie
 kuke.ja|kuke ja||||cook (chef)|||cocinero||||||||||||||||||kokki|kucharz
 kuke.kamar|kuke kamar||||kitchen|||cocina||кухня||||||||||||台所||||keittiö|kuchnia
@@ -2827,10 +2827,10 @@ metal.bede|metal bede||||anvil||enclume|yunque|bigorna|наковальня|||||
 metal.lin|metal lin||||wire||fil de fer|alambre (hilo)|arame|||तार|তার||||tel|waya||线 (铁丝)||線 (針金)|철사||drato|vaijeri (metallilanka)|
 metal.sana.ja|metal sanaja||||blacksmith (iron forger)|||herrero||||||||||||铁匠||||||seppä|kowal
 metal.tul|metal tul||||hardware (ironware, equipment)|||ferretería||||||||||||||金物|||||
-metre|metre|||eng:meter, spa:por:-metro, rus:метр tur:metre, + hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra|measure (measurement)|||medir (medida)||||||||||||||測定|||mezuri|mitta (koko, määrä)|zmierzyć (miara)
-metre.gi|metre gi||||meter (measuring device)|||medidor||||||||||||||測定装置 (計)|||||
-metre.unta|metre unta||||unit (measurement)|||unidad (medida)|||||||||||||||||||jednostka miary
-metre<para|• parametre||||parameter (argument, input variable)||paramètre|parámetro|parâmetro|параметр (аргумент)||||||||||参数||引数 (パラメーター)|파라미터|||parametri (argumentti)|parametr (argument, wartość wejściowa)
+metri|metri|||eng:meter, spa:por:-metro, rus:метр tur:metre, + hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra|measure (measurement)|||medir (medida)||||||||||||||測定|||mezuri|mitta (koko, määrä)|zmierzyć (miara)
+metri.gi|metri gi||||meter (measuring device)|||medidor||||||||||||||測定装置 (計)|||||
+metri.un.ta|metri unta||||unit (measurement)|||unidad (medida)|||||||||||||||||||jednostka miary
+metri<para|• parametri||||parameter (argument, input variable)||paramètre|parámetro|parâmetro|параметр (аргумент)||||||||||参数||引数 (パラメーター)|파라미터|||parametri (argumentti)|parametr (argument, wartość wejściowa)
 meza|meza|||por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|table||table|mesa|mesa|стол||मेज़|||meja|طَاوِلَة|masa|meza||桌子||机 (テーブル)|||tablo|pöytä|stół
 meza.stan|meza stan||||plateau (tableland)|||meseta||||||||||||||台地 (高地)|||||płaskowyż (plateau)
 meza.tela|meza tela||||tablecloth||nappe|mantel|toalha de mesa|скатерть||मेज़पोश|টেবিলক্লথ||alas meja|غِطَاء اَلْمَائِدَة‎|masa örtüsü|||桌布||テーブル掛け|식탁보|khăn trải bàn|tablotuko|pöytäliina|obrus
@@ -3552,7 +3552,7 @@ Qazaqe|Qazaqe|dexa|KZ||Kazakhstan|||Kazajistán (Kazakistan)||||||||||||||||||Ka
 R|R||||R||R|R|R|R||R|R||R|R|R|R||R||R|R|R|R|R|R
 radi|radi|||eng:fra:radiation, spa:radiación, por:radiação, may:radiasi, rus:радио (radio), tur:radyo, swa:redio, hin:रेडियो (reḍiyo), ben:রেডিও (reḍio), jpn:ラジオ (rajio), kor:라디오 (radio)|ray (radiation)|||rayo (radiación)||||||||||||||||||säde|promień
 radi.long.ta|radi longta||||radius|||radio (mitad de diámetro)||радиус||||||||||||半径|||||
-radi.metre.gi|radi metre gi||||radiometer|||radiómetro||||||||||||||||||säteilymittari|radoiometr
+radi.metri.gi|radi metri gi||||radiometer|||radiómetro||||||||||||||||||säteilymittari|radoiometr
 radi.yum|radi yum|yum 088|Ra|eng:radium, fra:radium, spa:radio, por:rádio, rus:радий, zho:镭 (léi), jpn:ラジウム, kor:라듐, vie:rađi, hin:रेडियम, ben:রেডিয়াম, may:radium, swa:radi, ara: راديوم|radium||radium|radio|rádio|радий||रेडियम|রেডিয়াম||radium|راديوم|radyum|radi||镭||ラジウム|라듐|rađi|radiumo|radium|rad
 radio|radio|||eng:fra:spa:por:radio, rus:радио (radio), tur:radyo, swa:redio, hin:रेडियो (reḍiyo), ben:রেডিও (reḍio), jpn:ラジオ (rajio), kor:라디오 (radio)|radio||radio|radio|radio|радио||रेडियो|রেডিও||||radyo|redio|||||||||radio
 radio.mise.gi|radio mise gi||||radiotransmitter|||radiotransmisor||||||||||||||||||radiolähetin|nadajnik radiowy
@@ -3727,7 +3727,7 @@ sam|sam|||eng:same, fra:semblable, rus:самый (samyy), fas:هم‎ (ham), hi
 sam.bei|sam bei||||peer|Gleicher|pair (pareil)|par|par|ровня||||||||||同辈|同輩|同輩|동배|akran||vertainen|
 sam.dexa.jen|sam dexa jen||||compatriot|||compatriota|||||||||||||||||samlandano|samanmaalainen (maanmies)|rodak, ziomek, krajan
 sam.emos|sam emos||||compassion (sympathy)||compassion|compasión|compaixão|сострадание|||||||||||||||kompato|myötätunto (sympatia)|współczucie
-sam.metre|sam metre||||symmetry (symmetrical)||symétrie|simetría (simétrico)|simetria|симметрия||सममिति||||||||对称||対称|대칭성||simetrio|symmetria|
+sam.metri|sam metri||||symmetry (symmetrical)||symétrie|simetría (simétrico)|simetria|симметрия||सममिति||||||||对称||対称|대칭성||simetrio|symmetria|
 sam.nam|sam nam||||homonym|||homónimo||||समनाम||||||||||||||homonyymi|homonim
 sam.rai|sam rai||||agreement (consent)||accord|acuerdo|acordo|согласие||सहमति|||persetujuan||anlaşma|||一致|||||interkonsento|yhteisymmärrys|porozumienie
 sam.romanse.di|sam romanse di||||homoromantic|||homorromántico|||||||||||||||||||homoromantyczny
@@ -3974,7 +3974,7 @@ sueda|sueda|||eng:sweat, spa:sudor, por:suor, fra:sueur, hin:स्वेद (sv
 sueda.di|sueda di||||sweaty|||sudoroso (sudado)||||||||||||||||||hikinen|spocony
 Suen|Suen|dexa|SE||Sweden|||Suecia||||||||||||||||||Ruotsi|Szwecja
 suga|suga|||zho:速 (sù), yue:速 (cuk4), jpn:速 (soku), kor:속 (sok), vie:tốc + hin:शीघ्र (śīghra) + ara: سُرْعَة‎ (surʿa)|fast (quick, rapid, speedy)||vite (rapide)|rápido|rápido|быстрый|سرعت‎|तेज़ (तीव्र)|গতি||cepat|سُرْعَة|hızlı|haraka||快||速い|빠르다|mau (nhanh)|rapida|nopea (pikainen, vauhdikas)|szybki, prędki
-suga.metre.gi|suga metre gi||||speedometer|Tachometer|compteur de vitesse|velocímetro|velocímetro|||||||||spidometa||速度计|速度計|速度計|속도계|đồng hồ tốc độ|rapidmezurilo|nopeusmittari|prędkościomierz
+suga.metri.gi|suga metri gi||||speedometer|Tachometer|compteur de vitesse|velocímetro|velocímetro|||||||||spidometa||速度计|速度計|速度計|속도계|đồng hồ tốc độ|rapidmezurilo|nopeusmittari|prędkościomierz
 suga.ta|sugata||||speed (velocity)|||rapidez (velocidad)||||||||||||速度|速度|速度|속도|tốc độ|rapideco|nopeus (vauhti)|prędkość (szybkość)
 sui|sui|||zho:水 (shuǐ), yue:水 (seoi2), jpn:水 (sui), kor:수 (su), vie:thuỷ + tur:su|water||eau|agua|água|вода||पानी|জল (পানি)||air||su|maji||水|水|水|물 (수)|nước|akvo|vesi|woda
 sui.culi|sui culi||||water treatment|||||||||||||||水处理||||||vedenkäsittely|
@@ -4061,7 +4061,7 @@ tatu|tatu|||eng:tattoo, fra:tatouage, spa:tatuaje, rus:тату (tatu), may:tato
 tava|tava|||hin:तवा (tavā), tur:tava, fas:(tābe)|frying pan|||sartén|||||||||||||||||pato|pannu (paistinpannu)|patelnia
 taxi|taxi|||eng:tax, por:taxa, spa:tasa, hin:टैक्स (ṭEks) + fra:taxi, rus:такси (taksi), jpn:タクシー (takushī), kor:택시 (taeksi), vie:tắc xi, hin:टैक्सी (ṭaiksī), ben:ট্যাক্সি (ṭyaksi), tur:may:taksi, swa:teksi|fee (fare)|||tasa (precio, cuota, tarifa)||||||||||||||||||taksa (vero)|podatek, opłata
 taxi.gar|taxi gar||||taxi (cab)|||taxi (cab)||||||||||||||||||taksi|taxi, taksówka
-taxi.metre.gi|taxi metre gi||||taximeter||taximètre||taxímetro|таксометр||||||||||计程器||||||taksamittari|taksometr
+taxi.metri.gi|taxi metri gi||||taximeter||taximètre||taxímetro|таксометр||||||||||计程器||||||taksamittari|taksometr
 taxi.vala|taxi vala||||taxi driver (cab driver)||chauffeur de taxi|taxista (taximetrista)|taxista|таксист||टैक्सी चालक||||سَائِق تَاكْسِي‎|taksici|||出租车司机||タクシー運転手|택시 기사|lái xe tắc xi|taksiisto|taksinkuljettaja|taksówkarz
 taza|taza|||tur:taze, hin:ताज़ा (tāzā), ben:তাজা (taja), fas:(tâze)|fresh||frais|fresco||свежий||||||||||新鲜的|||||freŝa|tuore (raikas)|świeży
 tef|tef|bio|Eragrostis tef|amh:ጤፍ (ṭēff), orm:xaafii, swa:mtefi, eng:teff, spa:may:tef, por:tefe, rus:теф (tef), zho:苔麸 (tái fū), jpn:テフ (tefu), kor:테프 (teipeu)|lovegrass (teff)||mil éthiopien|||теф|||||tef|||mtefi||苔麸||テフ (穀物)|테프|||tefheinä (röllinurmikka)|
@@ -4106,7 +4106,7 @@ tera|tera|nomer||eng:fra:spa:por:may:tur:tera-, rus:тера- (tera-), jpn:テ�
 terbi.yum|terbi yum|yum 065|Tb|eng:terbium, fra:terbium, spa:terbio, por:térbio, rus:тербий, zho:铽 (tè), jpn:テルビウム, kor:테르븀, 2터븀, vie:tecbi, hin:टर्बियम, ben:টার্বিয়াম, may:terbium, swa:taribi, ara: تربيوم|terbium||terbium|terbio|térbio|тербий||टर्बियम|টার্বিয়াম||terbium|تربيوم|terbiyum|taribi||铽||テルビウム|테르븀|tecbi|terbio|terbium|terb
 terca|terca|||spa:torcido, por:torto, hin:तिरछा (tirachha), ben:তেরছা (tērachā), pan:तिरकस (tirakasa)|oblique (askew, tilted)||oblique (de travers)|oblicuo (torcido)|oblíquo (torto)|косой||||||||||斜的||斜め||||vino|skośny (ukośny, pochyły)
 termo|termo|||deu:eng:fra:thermo-, spa:por:termo-, rus:термо- (termo-)|temperature|||temperatura||||||||||||||||||lämpötila|temperatura
-termo.metre.gi|termo metre gi||||thermometer|||termómetro|||||||||||||||||termometro|lämpömittari|termometr
+termo.metri.gi|termo metri gi||||thermometer|||termómetro|||||||||||||||||termometro|lämpömittari|termometr
 teror|teror|||eng:spa:por:terror, fra:terreur + rus:терроризм (terrorizm), jpn:テロリズム (terorizumu), kor:테러리즘 (tereorijeum), may:terorisme|terror|||terror|||||||||||||||||teroro|kauhu (terrori)|terror
 teror.sim|teror sim||||terrorism||terrorisme|terrorismo||терроризм||||||||||恐怖行为|||||terorismo|terrorismi|terroryzm
 teror.sim.ja|teror sim ja||||terrorist|||terrorista|||||||||||||||||teroristo|terroristi|terrorysta
@@ -4166,7 +4166,7 @@ tong|tong|||zho:桶 (tǒng), khm:តុង (tong), tha:ถัง (tǎng), kor
 Tonga|Tonga|dexa|TO||Tonga|||Tonga||||||||||||||||||Tonga|Tonga
 topo|topo|||eng:fra:spa:por:tur:mal:topo-, rus:топо- (topo-)|region (tract, land, ground)|||región (zona)|||||||||||||||||regiono|seutu (maa, alue)|region
 topo.grafi|topo grafi||||topography||topographie|topografía|topografia|топография|||||topografi||topografi|||地形||地勢||||topografia|
-topo.metre.grafi|topo metre grafi||||map (chart, geographic map)||carte (plan)|mapa|carta geográfica|карта (план)|||||||harita|||地图||||||kartta|
+topo.metri.grafi|topo metri grafi||||map (chart, geographic map)||carte (plan)|mapa|carta geográfica|карта (план)|||||||harita|||地图||||||kartta|
 tor.yum|tor yum|yum 090|Th|eng:thorium, fra:thorium, spa:torio, por:tório, rus:торий, zho:钍 (tǔ), jpn:トリウム, kor:토륨, vie:thori, hin:थोरियम, ben:থোরিয়াম, may:torium, swa:thori, ara: ثوريوم|thorium||thorium|torio|tório|торий||थोरियम|থোরিয়াম||torium|ثوريوم|toryum|thori||钍||トリウム|토륨|thori|torio|torium|tor
 torso|torso|||fra:torse, rus:торс (tors), deu:eng:spa:may:torso|trunk (torso)|||torso|||||||||||||||||torso|vartalo (varsi, torso)|tułów
 tortuga|tortuga|bio|Testudines|eng:tortoise, spa:tortuga, por:tartaruga, fra:tortue|turtle (tortoise)||tortue|tortuga|tartaruga|||||||||||||||||kilpikonna|żółw
@@ -4368,7 +4368,7 @@ veste.di|veste di||||western|||occidental||||||||||||||||||läntinen|zachodni
 veste.gorila|veste gorila||||western gorilla|||gorila occidental||западная горилла||||||||||||ニシゴリラ||||lännengorilla|goryl zachodni
 veze|veze|||ara: وَزْن‎ (wazn), hin:वज़न (vazan), ben:ওজন (ojôn), kan:ವಜ್ಜೆ (vajje), swa:uzani + rus:вес (ves) + fra:peser, spa:por:peso|weight (heft, gravity)||poids (lourdeur, gravité)|peso (gravedad)||||भार (वज़न)|ওজন||uzani||ağırlık||||||||pezo|paino|waga (ciężkość)
 veze.di|veze di||||heavy||lourd|pesado|pesado|тяжёлый||भारी|||berat||ağır|||重型的|||||peza|painava|ciężki (masywny)
-veze.metre.gi|veze metre gi||||scales (weighing device)||balance (poids)|pesa (báscula, balanza)||||||||||||||||||vaaka (puntari)|waga (urządzenie ważące)
+veze.metri.gi|veze metri gi||||scales (weighing device)||balance (poids)|pesa (báscula, balanza)||||||||||||||||||vaaka (puntari)|waga (urządzenie ważące)
 vide|vide|||rus:видеть (videt’), ita:vedere, spa:por:ver, pol:widzieć, eng:vide|look (see)||voir|ver (mirar)|ver|видеть||||||||||看|||||vidi (rigardi)|nähdä|patrzeć, widzieć
 vide-pre|• previde||||expect (anticipate, predict, forsee)|||prever (esperar, pensar)||||||||||||||待ち受ける (見込む)||||ennustaa (nähdä ennalta)|przewidzieć (spodziewać się)
 vide-pre-an.di|• anprevide di||||unexpected|||||||||||||||||||||ennennäkemätön|niespodziewany

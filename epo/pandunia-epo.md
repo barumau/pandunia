@@ -762,7 +762,7 @@ geme - ludo
 geme ja - ludanto  
 gene logu - genealogio  
 geo grafi - geografio  
-geo metre - geometrio  
+geo metri - geometrio  
 geo sismo - tertremo  
 german yum - germaniumo  
 gi - maŝino  
@@ -1319,7 +1319,7 @@ mesi - kristo
 mesi gene - kristnasko  
 metal - metalo  
 metal lin - drato  
-metre - mezuri  
+metri - mezuri  
 meza - tablo  
 meza tela - tablotuko  
 mi - mi  
@@ -1721,7 +1721,7 @@ saludo - saneco
 sam - sama  
 sam dexa jen - samlandano  
 sam emos - kompato  
-sam metre - simetrio  
+sam metri - simetrio  
 sam rai - interkonsento  
 sam sexe di - samseksema  
 sama - ĉielo  
@@ -1829,7 +1829,7 @@ suba - mateno
 sude - sudo  
 Sude cosen - Sudkoreio  
 suga - rapida  
-suga metre gi - rapidmezurilo  
+suga metri gi - rapidmezurilo  
 sugata - rapideco  
 sui - akvo  
 sui di - akva  
@@ -1883,7 +1883,7 @@ tenis - teniso
 teori - teorio  
 tepe - bendo  
 terbi yum - terbio  
-termo metre gi - termometro  
+termo metri gi - termometro  
 teror - teroro  
 teror sim - terorismo  
 teror sim ja - teroristo  

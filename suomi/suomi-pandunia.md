@@ -560,7 +560,7 @@ gaselli - gazel
 geneettinen - gene logi di  
 genetiikka - gene logi  
 geologia (maaperäntutkimus) - geo logi  
-geometria - geo metre  
+geometria - geo metri  
 geopolitiikka - geo politi  
 Georgia - Kartul  
 geoterminen (maalämpö-) - geo termo  
@@ -876,7 +876,7 @@ ilma - air
 ilman oleva (-ton) - hin di  
 ilmanpaine - air prese  
 ilmapallo - balon  
-ilmapuntari (ilmanpainemittari, barometri) - air prese metre gi  
+ilmapuntari (ilmanpainemittari, barometri) - air prese metri gi  
 ilmasto - klima  
 ilmastonmuutos - klima mute  
 ilmastotiede (klimatologia) - klima logi  
@@ -1172,7 +1172,7 @@ Karnataka (Intian osavaltio) - Karnada
 kartio (keila) - kone  
 kartogratia - karta grafi  
 kartta - karta  
-kartta - topo metre grafi  
+kartta - topo metri grafi  
 karvaton - kexa hin  
 kasarmi - ordu jen kan  
 kassa - pesa kasa  
@@ -1523,7 +1523,7 @@ kulkea edellä - prekurse
 kulkea läpi (läpikulku) - trakurse  
 kulkea poikki, läpi tai yli - fa transe  
 kulma (nurkka) - gona  
-kulmamitta (goniometri) - gona metre gi  
+kulmamitta (goniometri) - gona metri gi  
 kulombi (mittayksikkö C) - kulombe  
 kulta (rakas) - luba jen  
 kulta - auro  
@@ -1617,7 +1617,7 @@ kysyvä - sual di
 kysyä - fa sual  
 kyynel - yen sui  
 kyynärpää - kudi  
-kyynäränmitta - kudi metre  
+kyynäränmitta - kudi metri  
 käki - kuku  
 kärki (pää) - pike  
 kärppä (fretti) - furete  
@@ -1891,7 +1891,7 @@ lähettää ulos - exmisi
 lähetys - mision  
 lähetystö - dai anjilkan  
 lämmin - garma  
-lämpömittari - termo metre gi  
+lämpömittari - termo metri gi  
 lämpötila - termo  
 lännengorilla - veste gorila  
 länsi - veste  
@@ -2117,7 +2117,7 @@ minä - mi
 missä? - a ke  
 mitali - medal  
 miten? - ke riti  
-mitta (koko, määrä) - metre  
+mitta (koko, määrä) - metri  
 Moldova - Moldova  
 molemminpuolinen (keskinäinen) - semen su  
 molybdeeni - moliden  
@@ -2303,7 +2303,7 @@ Nooa - Noe
 Nooan arkki - Noe di nave  
 nopea (pikainen, vauhdikas) - suga  
 nopeus (vauhti) - sugata  
-nopeusmittari - suga metre gi  
+nopeusmittari - suga metri gi  
 noppa (arpakuutio) - zar kube  
 Norfolkin saaret - Norfolke nesi  
 Norja - Norge  
@@ -2552,7 +2552,7 @@ papu tai herne - dou
 Papua Uusi-Guinea - Papua neu Ginia  
 papukaija - papagai  
 Paraguai - Paraguai  
-parametri (argumentti) - parametre  
+parametri (argumentti) - parametri  
 paranormaali (yliluonnollinen) - paranormali  
 pari (kaksikko) - per  
 Pariisi - Paris  
@@ -3149,7 +3149,7 @@ seksi (sukupuolisuhde) - sexe
 seksikäs - sexe di  
 seksologia - sexe logi  
 sekunti - sekunde  
-sekuntikello - dura metre gi  
+sekuntikello - dura metri gi  
 selain - brauza gi  
 selata - brauza  
 seleeni - selen yum  
@@ -3380,7 +3380,7 @@ Swazimaa - Suati
 sydän - xim  
 syksy (syys) - pada mosim  
 sylkeä - tuh  
-symmetria - sam metre  
+symmetria - sam metri  
 synkretismi - sinkredisim  
 synnyinmaa (oma maa) - natia  
 synnyinseutu - nati stan  
@@ -3418,7 +3418,7 @@ säilyttää (varjella, säästää) - hafiza
 säilötty - acar di  
 säilöä - fa acar  
 säteillä - fa radi  
-säteilymittari - radi metre gi  
+säteilymittari - radi metri gi  
 sävel (sävy) - ton  
 sää - sama hal  
 sääty (kasti) - gene klas  
@@ -3463,7 +3463,7 @@ takaisin - re
 takki - kote  
 taksa (tariffi) - tarif  
 taksa (vero) - taxi  
-taksamittari - taxi metre gi  
+taksamittari - taxi metri gi  
 taksi - taxi gar  
 taksinkuljettaja - taxi vala  
 taktiikka - tatike  
@@ -3874,7 +3874,7 @@ Uzbekistan - Uzbeki
 
 ## V  
 
-vaaka (puntari) - veze metre gi  
+vaaka (puntari) - veze metri gi  
 vaakatasossa - vei  
 vaaleanpunainen - rode rang  
 vaara - hatar  

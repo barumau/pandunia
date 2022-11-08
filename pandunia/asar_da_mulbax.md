@@ -2,17 +2,17 @@
 
 | basha | asar |
 |-------|--------|
-| english | 14% |
+| english | 12% |
 | france | 10% |
-| espanya | 11% |
+| espanya | 10% |
 | portugal | 10% |
 | rus | 9% |
 | hindi | 9% |
 | bangla | 4% |
-| putonghan | 5% |
+| putonghan | 6% |
 | nipon | 6% |
-| chosen | 4% |
+| chosen | 5% |
 | viet | 3% |
 | malayu | 6% |
 | arabi | 5% |
-| suahili | 4% |
+| suahili | 5% |

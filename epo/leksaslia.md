@@ -972,7 +972,7 @@
 **mesi** *kristo* ← angla:messiah, franca:messie, hispana:mesías, portugala:messias, rusa:мессия (messiya), araba: مَسِيح‎ (masīḥ), hindia:मसीह (masīh), bengala:মসিহ (môśih), malaja:al-Masih, svahila:Masiya, turka:Mesih  
 **meta** ** ← angla:hispana:portugala:meta-, franca:méta-, rusa:мета- (meta-)  
 **metal** *metalo* ← angla:hispana:portugala:turka:metal, franca:métal, deu:Metall, rusa:мета́лл (metáll)  
-**metre** *mezuri* ← angla:meter, hispana:portugala:-metro, rusa:метр turka:metre, + hindia:मात्रा (mātrā), bengala:মাত্রা (matra), malaja:matra  
+**metri** *mezuri* ← angla:meter, hispana:portugala:-metro, rusa:метр turka:metre, + hindia:मात्रा (mātrā), bengala:মাত্রা (matra), malaja:matra  
 **meza** *tablo* ← portugala:hispana:mesa, hindia:मेज़ (mez), svahila:meza, malaja:meja, tamila:மேசை (mesei), persa: میز‏‎ (miz), turka:masa  
 **mi** *mi* ← angla:franca:portugala:me, hispana:mi; me, persa: من‎ (man), hindia:मैं (mẽ), bengala:আমি (ami), svahila:mimi, turka:ben  
 **mien** *nudelo* ← mandarena:面 (miàn), kantona:麵 (min6), japana:麺 (men), korea:면 (myeon), vjetnama:mì; miến, malaja:mie, taja:หมี่ (mii), kmera:មី (mi)  

@@ -408,7 +408,7 @@ barril (tonel) - tong
 barrio (cuartel) - mahala  
 barrio pobre - harabu mahala  
 baréin - Bahrain  
-barómetro - air prese metre gi  
+barómetro - air prese metri gi  
 base (álcali; alcalino) - kali  
 base - baze  
 bastante - bas  
@@ -987,7 +987,7 @@ Croacia - Horvati
 crocodilio - krokodil  
 cromo - jami karte  
 cromo - krom yum  
-cronómetro - dura metre gi  
+cronómetro - dura metri gi  
 cruasán - kruasan  
 crucificar - fa krus fixe  
 crudo - gene di  
@@ -1683,7 +1683,7 @@ gente - natia jen
 genético - gene logi di  
 geografía - geo grafi  
 geología - geo logi  
-geometría - geo metre  
+geometría - geo metri  
 geopolítica - geo politi  
 Georgia (República de Georgia) - Kartul  
 Georgias del Sur y Sándwich del Sur - Sude Jorjia i Sude Sanduice nesi  
@@ -1715,7 +1715,7 @@ gofre - vafle
 golpear (pegar) - darba  
 goma (caucho, hule, borrador) - gomu  
 goma arábiga - arabi babul  
-goniómetro (medidor de ángulos) - gona metre gi  
+goniómetro (medidor de ángulos) - gona metri gi  
 gorila - gorila  
 gorila occidental - veste gorila  
 gorila oriental - dong gorila  
@@ -2348,7 +2348,7 @@ manzanilla de Castilla - kamil
 manzanilla romana (camomila común) - roma kamil  
 maní - geo dou  
 mapa (carta) - karta  
-mapa - topo metre grafi  
+mapa - topo metri grafi  
 mapache (oso lavador) - rakun  
 mar - hai  
 maratí - marati  
@@ -2408,7 +2408,7 @@ medallón - medal
 medianoche - medi noce  
 medicamento (medicina, remedio, fármaco) - dava xe  
 medicina - dava logi  
-medidor - metre gi  
+medidor - metri gi  
 medio (búfer) - medi xe  
 medio (instrumento) - medi gi  
 medio (mediano) - medi di  
@@ -2416,7 +2416,7 @@ medio - medi
 medioambiente (naturaleza) - eko  
 mediodía - medi dia  
 medios - media  
-medir (medida) - metre  
+medir (medida) - metri  
 meditar (reflexionar) - jan  
 Mediterráneo - Geo Medi Hai  
 medusa - hai jele  
@@ -2885,7 +2885,7 @@ partido - mece
 Partido Pirata - pirate parti  
 partir (dividirse) - be fen  
 partícula (grano, bala) - dana  
-parámetro - parametre  
+parámetro - parametri  
 pasa (uva pasa) - gan putau  
 pasado - prezaman  
 pasaporte - pasporte  
@@ -2982,7 +2982,7 @@ perímetro (circunferencia) - gola longta
 peróxido - peroxide  
 peróxido de hidrógeno - hidre peroxide  
 Perú - Peru  
-pesa (báscula, balanza) - veze metre gi  
+pesa (báscula, balanza) - veze metri gi  
 pesado - veze di  
 pescador - pexe saide ja  
 pescar - kape yo pexe  
@@ -3260,7 +3260,7 @@ radio (mitad de diámetro) - radi longta
 radio - radi yum  
 radio - radio  
 radiotransmisor - radio mise gi  
-radiómetro - radi metre gi  
+radiómetro - radi metri gi  
 radón - radon  
 raja (grieta) - krake  
 rajá - hindi raja  
@@ -3562,7 +3562,7 @@ silencioso - xux di
 silicio - silike  
 silla (montura) - side loka  
 silla - kursi  
-simetría (simétrico) - sam metre  
+simetría (simétrico) - sam metri  
 similar - sam sifa di  
 simple - simple  
 simpático (amable, tierno, dulce) - dosti di  
@@ -3748,7 +3748,7 @@ teosofía - deu sofi
 tera- - tera  
 terbio - terbi yum  
 terminar (acabar) - fa fin  
-termómetro - termo metre gi  
+termómetro - termo metri gi  
 terracota - baka poto  
 terraplanista - plate geo sim ja  
 terremoto - geo sismo  
@@ -3889,7 +3889,7 @@ túnica - tunika
 Ucrania - Ukraina  
 Uganda - Ganda  
 una vez - un mar  
-unidad (medida) - metre unta  
+unidad (medida) - metri unta  
 unidad (unión) - unta  
 unido - un ta di  
 unir - fa un xe  
@@ -3941,7 +3941,7 @@ vegetariano - fito yam sim ja
 vela (candela, cirio) - mum foto  
 velero - nave ga ja  
 velo - hijabu  
-velocímetro - suga metre gi  
+velocímetro - suga metri gi  
 vender - vende  
 veneno (toxina) - toxi  
 Venezuela - Venezuela  
