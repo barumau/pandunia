@@ -34,7 +34,7 @@ aha - comprendre (réaliser; aha)
 air - air  
 air bio di - aérobique  
 • anair bio di - anaérobique  
-air ordu - armée de l'ai  
+air ordu - armée de l'air  
 air porte - aéroport  
 air prese - pression atmosphérique  
 air prese metre gi - baromètre  
