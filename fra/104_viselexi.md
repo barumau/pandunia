@@ -12,7 +12,6 @@ Les pronoms servent à remplacer des noms et des groupes nominaux.
 | **tu**      | **tumen**    |
 | tu, te, toi | vous         |
 | **da**      | **damen**    |
-
 | il, elle, le, lui, la | ils, elles, les, leur |
 
 

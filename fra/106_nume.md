@@ -66,10 +66,8 @@ On les place avant le mot ou le groupe de mots qu'ils qualifient.
 Les nombres ordinaux se placent après le mot qu'ils modifient.
 
 **fen un** 
-– la première partie (partie une)
+– la première partie (partie une)  
 **fen du**
-– la deuxième partie (partie deux)
+– la deuxième partie (partie deux)  
 **fen tri**
 – la troisième partie (partie trois)
-
-
