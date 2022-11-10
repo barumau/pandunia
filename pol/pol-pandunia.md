@@ -149,7 +149,7 @@
  - dele  
  - den  
  - den loge  
- - dexmanuka  
+ - dexhanuka  
  - di  
  - dia foto  
  - din xia  
@@ -3423,7 +3423,7 @@ radon - radon
 rakieta - rokete  
 rama - frem  
 Ramadan - ramazan  
-ramię (kończyna górna) - hande xaka  
+ramię (kończyna górna) - hanu xaka  
 rampa - rampe  
 ranek, rano, poranek - suba  
 raport - reporte  
@@ -3571,8 +3571,8 @@ różny (inny) - alo sifa di
 różny (różnorodny) - vari  
 różowy, różany - rode rang  
 ręcznik - tuale  
-ręczny - hande di  
-ręka, dłoń - hande  
+ręczny - hanu li  
+ręka, dłoń - hanu  
 rękaw - kamisa xaka  
 S - S  
 sago - sagu  

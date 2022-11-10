@@ -1623,15 +1623,15 @@ kärki (pää) - pike
 kärppä (fretti) - furete  
 kärpänen - dom zeze  
 kärry (vaunu, auto, jne) - gar  
-käsi - hande  
-käsi- - hande di  
+käsi - hanu  
+käsi- - hanu li  
 käsite (idea) - idea  
 käsitellä (kohdella, pidellä, prosessoida) - fa culi  
 käsitellä dataa - fa komputa  
 käsitellä tietoja (laskelmoida) - pute  
 käsitteellinen - idea di  
 käsittely (prosessi) - culi  
-käsivarsi - hande xaka  
+käsivarsi - hanu xaka  
 käsky (komento) - amir  
 käskyvalta - amir haki  
 kävellä - fa marce  
@@ -2365,7 +2365,7 @@ ohra - jau
 oi! (ai, oijoi) - ayo  
 oikea (paikkansapitävä) - sahi  
 oikea puoli - dex  
-oikeakätinen - dexmanuka  
+oikeakätinen - dexhanuka  
 oikeistolainen - dex sim ja  
 oikeistolainen - dexka  
 oikeudellinen - jude di  

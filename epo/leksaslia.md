@@ -541,7 +541,7 @@
 **hamar** *martelo* ← angla:hammer, deu:Hammer, japana:ハンマー (hanmā), haŭsa:hamā̀  
 **hamil** *graveda* ← araba:(ḥāmil), malaja:hamil, svahila:himila, turka:hamile, urdua:(hāmila), persa:(hâmele)  
 **hamir** *feĉo* ← araba:(xamīra), hindia:ख़मीर (xamīr), turka:hamur, svahila:hamira, persa:(moxammer), + korea:효모 (hyomo)  
-**hande** *mano* ← hindia:हाथ (hāth), bengala:হাত (hat), angla:hand  
+**hanu** *mano* ← haŭsa:hannu + angla:hand, deu:Hand + hindia:हाथ (hāth), bengala:হাত (hat) + hispana:mano; manual, portugala:mão; manual, franca:main; manuel  
 **haos** *kaoso (malordo)* ← angla:franca:chaos, hispana:portugala:caos, rusa:хаос (haos), japana:カオス (kaosu)  
 **hapu** *taŭga* ← mandarena:合 (hé), kantona:合 (hap6), korea:합 (hap), vjetnama:hợp + angla:apt, franca:apte, hispana:portugala:apto  
 **harabu** *ruinigita* ← araba:persa:urdua:(xarāb), turka:harap, hindia:ख़राब (xarāb), bengala:খারাপ (kharap), svahila:-haribu  

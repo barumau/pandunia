@@ -638,7 +638,7 @@ and in conditional sentences, it works in the same way as English 'if'.
 
 The rest of the sentence can optionally be preceded by the word **asar**, which means 'then'.
 
-**si tu tocu tava, asar tu pati hande.**
+**si tu tocu tava, asar tu pati hanu.**
 – _If_ you touch the pan, _then_ you will hurt your hand.
 
 

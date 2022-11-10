@@ -445,7 +445,7 @@ deu kata - mythe
 deu nagar zi - dévanagari  
 • andeu sim ja - athée  
 deu sofi - théosophie  
-dexmanuka - droitier (dextre)  
+dexhanuka - droitier (dextre)  
 dia - jour  
 dia foto - lumière du jour  
 dika - viser (direction, cible; objectif)  
@@ -803,8 +803,8 @@ halo - allô
 halte - halte  
 ham di - important  
 han guan ja - mandarin  
-hande - main  
-hande xaka - bras  
+hanu - main  
+hanu xaka - bras  
 hapu - approprié (adapté, convenable, opportun)  
 harabu mahala - bidonville  
 Hartum - Khartoum  

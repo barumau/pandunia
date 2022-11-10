@@ -833,8 +833,8 @@ hamil - graveda
 hamir - feĉo  
 Han - hana  
 han guan ja - mandareno  
-hande - mano  
-hande di - mana  
+hanu - mano  
+hanu li - mana  
 haos - kaoso (malordo)  
 hapu - taŭga  
 harabu - ruinigita  

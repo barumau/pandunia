@@ -798,8 +798,8 @@ deu nagar zi - dewanagari
 deu sofi - teozofia  
 dex - prawa strona  
 dex di - prawy (prawostronny, z prawej strony)  
+dexhanuka -   
 dexka - prawicowiec (prawak)  
-dexmanuka -   
 dex sim ja - prawicowiec (prawak)  
 dexa - kraj, ziemia  
 dexa jen - obywatel  
@@ -1761,9 +1761,9 @@ hamir - drożdże
 Han - han chiński  
 han guan ja -   
 Han zi -   
-hande - ręka, dłoń  
-hande di - ręczny  
-hande xaka - ramię (kończyna górna)  
+hanu - ręka, dłoń  
+hanu li - ręczny  
+hanu xaka - ramię (kończyna górna)  
 haos - chaos, nieporządek; wrzawa, zgiełk  
 hapu -   
 harabu - zły, zrujnowany, zepsuty  

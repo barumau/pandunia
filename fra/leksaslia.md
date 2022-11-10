@@ -541,7 +541,7 @@
 **hamar** ** ← eng:hammer, deu:Hammer, jpn:ハンマー (hanmā), hau:hamā̀  
 **hamil** ** ← ara:(ḥāmil), may:hamil, swa:himila, tur:hamile, urd:(hāmila), fas:(hâmele)  
 **hamir** ** ← ara:(xamīra), hin:ख़मीर (xamīr), tur:hamur, swa:hamira, fas:(moxammer), + kor:효모 (hyomo)  
-**hande** *main* ← hin:हाथ (hāth), ben:হাত (hat), eng:hand  
+**hanu** *main* ← hau:hannu + eng:hand, deu:Hand + hin:हाथ (hāth), ben:হাত (hat) + spa:mano; manual, por:mão; manual, fra:main; manuel  
 **haos** ** ← eng:fra:chaos, spa:por:caos, rus:хаос (haos), jpn:カオス (kaosu)  
 **hapu** *approprié (adapté, convenable, opportun)* ← zho:合 (hé), yue:合 (hap6), kor:합 (hap), vie:hợp + eng:apt, fra:apte, spa:por:apto  
 **harabu** ** ← ara:fas:urd:(xarāb), tur:harap, hin:ख़राब (xarāb), ben:খারাপ (kharap), swa:-haribu  

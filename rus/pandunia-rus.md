@@ -708,8 +708,8 @@ ham di - важный (значимый)
 hamil - беременный  
 Han - хань  
 han guan ja - мандарин  
-hande - рука  
-hande xaka - рукав  
+hanu - рука  
+hanu xaka - рукав  
 hapu - подходящий (годный)  
 harabu mahala - трущоба  
 Hartum - Хартум  

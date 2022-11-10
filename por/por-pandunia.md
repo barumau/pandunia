@@ -222,7 +222,7 @@ boxeador (pugilista) - bocer
 branco - baku  
 bravo (valente, corajoso) - bravo  
 bravo! - bravo  
-braço - hande xaka  
+braço - hanu xaka  
 brocha (pincel) - broxa  
 bromo - brom  
 bu! - bu!  
@@ -495,7 +495,7 @@ deslizar - glis
 despelado - kexa hin  
 despertar - be jaga  
 destino - kisma  
-destro - dexmanuka  
+destro - dexhanuka  
 deus - deu  
 devanágari - deu nagar zi  
 dever - mus  
@@ -1106,7 +1106,7 @@ mármore - kalsi bilor
 máscara - maska  
 máximo - maxim xe  
 mãe - ma  
-mão - hande  
+mão - hanu  
 média (mídia) - media  
 mês - mes  
 mímico - mime ja  

@@ -623,8 +623,8 @@ halal liste - ホワイトリスト
 hali - 空  
 hali zi - 間隔  
 halifa - ハリーファ  
-hande - 手  
-hande xaka - 腕  
+hanu - 手  
+hanu xaka - 腕  
 hapu - 適切  
 haram liste - ブラックリスト  
 Hartum - ハルツーム  

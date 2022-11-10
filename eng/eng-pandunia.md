@@ -212,7 +212,7 @@ argument (thesis) - teze
 Ariel - Ariel  
 arithmetics - hisabu suta  
 Ark of the Covenant - liga di sanduku  
-arm - hande xaka  
+arm - hanu xaka  
 armed forces (army) - vuki ordu  
 Armenia - Haye  
 armor (shielding) - defa kaska  
@@ -1836,7 +1836,7 @@ halve (divide by two) - fa fen do du
 hammer - hamar  
 hammock - hamake  
 Han Chinese - Han  
-hand - hande  
+hand - hanu  
 hang (dangle) - pende  
 happen (occur; happening, event, occurence) - voku  
 harbor (seaport) - hai porte  
@@ -2481,7 +2481,7 @@ mangosteen - mangus
 Manichaeism - mani din  
 mankind (humanity) - insan jong  
 mantra (chant) - mantra  
-manual - hande di  
+manual - hanu li  
 manufacturing (production, industry) - sana  
 many (much, more than one) - poli  
 many (plural) - men  
@@ -3541,7 +3541,7 @@ right (entitlement) - haku
 right (right hand side) - dex  
 right angle - orto gona  
 right hand - dex di  
-right-handed (dexter) - dexmanuka  
+right-handed (dexter) - dexhanuka  
 right? (isn't it?) - ne  
 rightist (right-winger) - dex sim ja  
 rightist (right-winger) - dexka  

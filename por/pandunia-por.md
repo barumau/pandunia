@@ -339,7 +339,7 @@ deu - deus
 deu kata - mito  
 deu nagar zi - devanágari  
 deu sofi - teosofia  
-dexmanuka - destro  
+dexhanuka - destro  
 dia - dia  
 dia foto - luz do dia  
 dika - directionar (apontar, mirar; direção; objetivo)  
@@ -635,8 +635,8 @@ halo - alô
 ham di - importante  
 hamil - grávida (prenhe)  
 han guan ja - mandarim  
-hande - mão  
-hande xaka - braço  
+hanu - mão  
+hanu xaka - braço  
 hapu - apropriado (apto)  
 harabu mahala - favela  
 Hartum - Cartum  

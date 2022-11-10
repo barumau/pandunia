@@ -279,6 +279,13 @@ are not compound words in Pandunia.
 
 ### Suffixes
 
+**-di**
+'object of action' :
+**loga**
+'speak'
+→ **loga di baxa**
+'spoken'
+
 **-je**
 'thing made of or consisting of' :  
 **baga**
@@ -322,7 +329,11 @@ are not compound words in Pandunia.
 **dosti**
 'friend'
 → **dostili**
-'friendly, like a friend'
+'friendly, like a friend'  
+**sosi**
+'society'
+→ **sosili**
+'social'
 
 **-ma**
 'distinct meaningful element' :  

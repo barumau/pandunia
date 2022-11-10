@@ -541,7 +541,7 @@
 **hamar** *vasara* ← englanti:hammer, deu:Hammer, japani:ハンマー (hanmā), hausa:hamā̀  
 **hamil** *raskaana (odottava)* ← arabia:(ḥāmil), malaiji:hamil, suahili:himila, turkki:hamile, urdu:(hāmila), persia:(hâmele)  
 **hamir** *hiiva* ← arabia:(xamīra), hindi:ख़मीर (xamīr), turkki:hamur, suahili:hamira, persia:(moxammer), + korea:효모 (hyomo)  
-**hande** *käsi* ← hindi:हाथ (hāth), bangla:হাত (hat), englanti:hand  
+**hanu** *käsi* ← hausa:hannu + englanti:hand, deu:Hand + hindi:हाथ (hāth), bangla:হাত (hat) + espanja:mano; manual, portugali:mão; manual, ranska:main; manuel  
 **haos** *kaaos* ← englanti:ranska:chaos, espanja:portugali:caos, venäjä:хаос (haos), japani:カオス (kaosu)  
 **hapu** *sopiva (passeli)* ← yleiskiina:合 (hé), kantoninkiina:合 (hap6), korea:합 (hap), vietnami:hợp + englanti:apt, ranska:apte, espanja:portugali:apto  
 **harabu** *pilalla (raunioina)* ← arabia:persia:urdu:(xarāb), turkki:harap, hindi:ख़राब (xarāb), bangla:খারাপ (kharap), suahili:-haribu  

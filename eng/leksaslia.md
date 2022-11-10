@@ -541,7 +541,7 @@
 **hamar** *hammer* ← English:hammer, deu:Hammer, Japanese:ハンマー (hanmā), Hausa:hamā̀  
 **hamil** *pregnant* ← Arabic:(ḥāmil), Malay:hamil, Swahili:himila, Turkish:hamile, Urdu:(hāmila), Persian:(hâmele)  
 **hamir** *yeast* ← Arabic:(xamīra), Hindi:ख़मीर (xamīr), Turkish:hamur, Swahili:hamira, Persian:(moxammer), + Korean:효모 (hyomo)  
-**hande** *hand* ← Hindi:हाथ (hāth), Bengali:হাত (hat), English:hand  
+**hanu** *hand* ← Hausa:hannu + English:hand, deu:Hand + Hindi:हाथ (hāth), Bengali:হাত (hat) + Spanish:mano; manual, Portuguese:mão; manual, French:main; manuel  
 **haos** *chaos (disorder, turmoil)* ← English:French:chaos, Spanish:Portuguese:caos, Russian:хаос (haos), Japanese:カオス (kaosu)  
 **hapu** *suitable (appropriate, apt, fit)* ← Mandarin:合 (hé), Cantonese:合 (hap6), Korean:합 (hap), Vietnamese:hợp + English:apt, French:apte, Spanish:Portuguese:apto  
 **harabu** *bad (ruined, destroyed)* ← Arabic:Persian:Urdu:(xarāb), Turkish:harap, Hindi:ख़राब (xarāb), Bengali:খারাপ (kharap), Swahili:-haribu  

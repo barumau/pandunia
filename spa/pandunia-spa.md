@@ -703,8 +703,8 @@ deu nagar zi - devanágari
 deu sofi - teosofía  
 dex - derecho (lado derecho)  
 dex di - derecho  
+dexhanuka - diestro  
 dexka - derechista  
-dexmanuka - diestro  
 dex sim ja - derechista  
 dexa - país (nación, estado, terra)  
 dexa jen - ciudadano  
@@ -1531,9 +1531,9 @@ hamar - martillo (mazo)
 hamil - embarazado (preñado)  
 hamir - levadura  
 Han - chinés (de los Han)  
-hande - mano  
-hande di - manual  
-hande xaka - brazo  
+hanu - mano  
+hanu li - manual  
+hanu xaka - brazo  
 haos - caos (desorden)  
 hapu - apropriado (apto, oportuno)  
 harabu - arruinado (devastado, asolado)  

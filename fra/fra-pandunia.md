@@ -300,7 +300,7 @@ bouteille - botel
 bouton - buton  
 boxe - boce  
 boxeur - bocer  
-bras - hande xaka  
+bras - hanu xaka  
 brave - bravo  
 bravo! - bravo  
 brigand (bandit) - luta ja  
@@ -629,7 +629,7 @@ drapeau - bandera
 drogue (narcotique, dope) - narko  
 droit (rectiligne) - orto  
 droit - haku  
-droitier (dextre) - dexmanuka  
+droitier (dextre) - dexhanuka  
 droits de l'homme - insan haki  
 dubnium - dubna yum  
 dune - duna  
@@ -1099,7 +1099,7 @@ magma - pasta petra
 magnésium - magen yum  
 mah-jong - majang  
 maillon (chaînon) - serime  
-main - hande  
+main - hanu  
 mais - ama  
 maison (foyer, domicile) - dom  
 malt - malte  

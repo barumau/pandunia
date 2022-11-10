@@ -541,7 +541,7 @@
 **hamar** *młot, młotek* ← eng:hammer, deu:Hammer, jpn:ハンマー (hanmā), hau:hamā̀  
 **hamil** *ciężarny (w ciąży)* ← ara:(ḥāmil), may:hamil, swa:himila, tur:hamile, urd:(hāmila), fas:(hâmele)  
 **hamir** *drożdże* ← ara:(xamīra), hin:ख़मीर (xamīr), tur:hamur, swa:hamira, fas:(moxammer), + kor:효모 (hyomo)  
-**hande** *ręka, dłoń* ← hin:हाथ (hāth), ben:হাত (hat), eng:hand  
+**hanu** *ręka, dłoń* ← hau:hannu + eng:hand, deu:Hand + hin:हाथ (hāth), ben:হাত (hat) + spa:mano; manual, por:mão; manual, fra:main; manuel  
 **haos** *chaos, nieporządek; wrzawa, zgiełk* ← eng:fra:chaos, spa:por:caos, rus:хаос (haos), jpn:カオス (kaosu)  
 **hapu** ** ← zho:合 (hé), yue:合 (hap6), kor:합 (hap), vie:hợp + eng:apt, fra:apte, spa:por:apto  
 **harabu** *zły, zrujnowany, zepsuty* ← ara:fas:urd:(xarāb), tur:harap, hin:ख़राब (xarāb), ben:খারাপ (kharap), swa:-haribu  

@@ -341,7 +341,7 @@ des - 十
 deu - 神  
 deu kata - 神话  
 deu nagar zi - 天城文  
-dexmanuka - 右利手 (右撇子)  
+dexhanuka - 右利手 (右撇子)  
 dexa jen - 公民  
 dia - 白天  
 dika - 方向 (目的, 目标, 瞄准)  
@@ -633,8 +633,8 @@ ham di - 重要
 hamil - 怀孕  
 Han - 汉族  
 han guan ja - 官  
-hande - 手  
-hande xaka - 胳膊  
+hanu - 手  
+hanu xaka - 胳膊  
 hapu - 合适  
 Hartum - 喀土穆  
 • anhaste - 慢  

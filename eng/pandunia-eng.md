@@ -833,8 +833,8 @@ deu nagar zi - Devanagari alphabet
 deu sofi - theosophy  
 dex - right (right hand side)  
 dex di - right hand  
+dexhanuka - right-handed (dexter)  
 dexka - rightist (right-winger)  
-dexmanuka - right-handed (dexter)  
 dex sim ja - rightist (right-winger)  
 dexa - country (land, state)  
 dexa jen - citizen  
@@ -1796,9 +1796,9 @@ hamir - yeast
 Han - Han Chinese  
 han guan ja - mandarin  
 Han zi - Chinese or Japanese character (hanzi, kanji)  
-hande - hand  
-hande di - manual  
-hande xaka - arm  
+hanu - hand  
+hanu li - manual  
+hanu xaka - arm  
 haos - chaos (disorder, turmoil)  
 hapu - suitable (appropriate, apt, fit)  
 harabu - bad (ruined, destroyed)  

@@ -791,8 +791,8 @@ deu.sim-an.ja|• andeu sim ja||||atheist||athée|ateo|||||||||||||||||ateisto|a
 deu.sofi|deu sofi||||theosophy||théosophie|teosofía|teosofia|теософия||थियोसोफी|||||||||||신지학|||teosofia|teozofia
 dex|dex|||eng:deu:dexter, fra:dextre, spa:diestro, por:destro, hin:दाहिना (dāhinā), ben:দক্ষিণ (dôkkhin), may:daksina|right (right hand side)|||derecho (lado derecho)||||दाहिना|ডান (দক্ষিণ)|||||||||右||||oikea puoli|prawa strona
 dex.di|dex di||||right hand|||derecho|||||||||||||||||||prawy (prawostronny, z prawej strony)
+dex.hanu.ka|dexhanuka||||right-handed (dexter)||droitier (dextre)|diestro|destro|||||||يمناوي‎||||右利手 (右撇子)||||||oikeakätinen|
 dex.ka|dexka||||rightist (right-winger)|||derechista||||||||||||||||||oikeistolainen|prawicowiec (prawak)
-dex.manu.ka|dexmanuka||||right-handed (dexter)||droitier (dextre)|diestro|destro|||||||يمناوي‎||||右利手 (右撇子)||||||oikeakätinen|
 dex.sim.ja|dex sim ja||||rightist (right-winger)|||derechista||||||||||||||||||oikeistolainen|prawicowiec (prawak)
 dexa|dexa|||hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)|country (land, state)|||país (nación, estado, terra)||||देश|দেশ||||||||||||lando|maa (valtio)|kraj, ziemia
 dexa.jen|dexa jen||||citizen|||ciudadano||||||||||||公民||市民||||kansalainen (valtion asukas)|obywatel
@@ -1747,9 +1747,9 @@ hamir|hamir|||ara:(xamīra), hin:ख़मीर (xamīr), tur:hamur, swa:hamira
 Han|Han||||Han Chinese|||chinés (de los Han)||хань||||||||||汉族|||||hana|han-kiinalainen|han chiński
 han.guan.ja|han guan ja||||mandarin||mandarin||mandarim|мандарин|||||mandarin|||||官||||quan|mandareno|mandariini (kiinalainen virkailija)|
 Han.zi|Han zi||||Chinese or Japanese character (hanzi, kanji)|||||||||||||||||||||kiinalainen tai japanilainen kirjoitusmerkki|
-hande|hande|bode||hin:हाथ (hāth), ben:হাত (hat), eng:hand|hand||main|mano|mão|рука||हाथ|হাত||tangan (yad)|إيد|el|mkono||手||手|손|tay|mano|käsi|ręka, dłoń
-hande.di|hande di||||manual|||manual|||||||||||||||||mana|käsi-|ręczny
-hande.xaka|hande xaka|bode|||arm||bras|brazo|braço|рукав||||||||||胳膊||腕||||käsivarsi|ramię (kończyna górna)
+hanu|hanu|bode||hau:hannu + eng:hand, deu:Hand + hin:हाथ (hāth), ben:হাত (hat) + spa:mano; manual, por:mão; manual, fra:main; manuel|hand|Hand|main|mano|mão|рука||हाथ|হাত||tangan (yad)|إيد|el|mkono|hannu|手||手|손|tay|mano|käsi|ręka, dłoń
+hanu.li|hanu li||||manual|||manual|||||||||||||||||mana|käsi-|ręczny
+hanu.xaka|hanu xaka|bode|||arm||bras|brazo|braço|рукав||||||||||胳膊||腕||||käsivarsi|ramię (kończyna górna)
 haos|haos|||eng:fra:chaos, spa:por:caos, rus:хаос (haos), jpn:カオス (kaosu)|chaos (disorder, turmoil)|||caos (desorden)|||||||||||||||||kaoso (malordo)|kaaos|chaos, nieporządek; wrzawa, zgiełk
 hapu|hapu|||zho:合 (hé), yue:合 (hap6), kor:합 (hap), vie:hợp + eng:apt, fra:apte, spa:por:apto|suitable (appropriate, apt, fit)||approprié (adapté, convenable, opportun)|apropriado (apto, oportuno)|apropriado (apto)|подходящий (годный)||||||||||合适||適切||hợp|taŭga|sopiva (passeli)|
 harabu|harabu|||ara:fas:urd:(xarāb), tur:harap, hin:ख़राब (xarāb), ben:খারাপ (kharap), swa:-haribu|bad (ruined, destroyed)|||arruinado (devastado, asolado)|||||||||||||||||ruinigita|pilalla (raunioina)|zły, zrujnowany, zepsuty

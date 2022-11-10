@@ -807,8 +807,8 @@ deu nagar zi - devanagari
 • andeu sim ja - ateisti (jumalankieltäjä)  
 deu sofi - teosofia  
 dex - oikea puoli  
+dexhanuka - oikeakätinen  
 dexka - oikeistolainen  
-dexmanuka - oikeakätinen  
 dex sim ja - oikeistolainen  
 dexa - maa (valtio)  
 dexa jen - kansalainen (valtion asukas)  
@@ -1709,9 +1709,9 @@ hamir - hiiva
 Han - han-kiinalainen  
 han guan ja - mandariini (kiinalainen virkailija)  
 Han zi - kiinalainen tai japanilainen kirjoitusmerkki  
-hande - käsi  
-hande di - käsi-  
-hande xaka - käsivarsi  
+hanu - käsi  
+hanu li - käsi-  
+hanu xaka - käsivarsi  
 haos - kaaos  
 hapu - sopiva (passeli)  
 harabu - pilalla (raunioina)  

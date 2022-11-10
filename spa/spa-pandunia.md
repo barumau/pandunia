@@ -482,7 +482,7 @@ boxeador - bocer
 boxeo - boce  
 Brasil - Brazil  
 bravo! - bravo  
-brazo - hande xaka  
+brazo - hanu xaka  
 Brazzaville - Brazavil  
 brillante (luminoso) - ming  
 brocheta - xix  
@@ -1172,7 +1172,7 @@ dibujo (diseño) - desen
 dicotomía - dutomi  
 diente - dante  
 dientes de león (panaderos) - makan hua  
-diestro - dexmanuka  
+diestro - dexhanuka  
 diez (deca-, 10) - des  
 diferencia - alo sifa  
 diferenciar (distinguir) - fa has  
@@ -2337,12 +2337,12 @@ mango - mango
 mangosta - mungus  
 mangostán (jobo de la India) - mangus  
 maniqueísmo - mani din  
-mano - hande  
+mano - hanu  
 manso (dócil, obediente) - dosil  
 mantel - meza tela  
 mantequilla - bute  
 mantra (salmodiar) - mantra  
-manual - hande di  
+manual - hanu li  
 manzana - aple  
 manzanilla de Castilla - kamil  
 manzanilla romana (camomila común) - roma kamil  
