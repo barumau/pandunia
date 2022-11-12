@@ -62,9 +62,8 @@ Puedes encontrarles en varios lugares de internet:
 
 - [Chat en Discord](https://discord.gg/jf5GHcHXKk)
 - Salas de chat en Telegram:
-    * [plurilingüe](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA), 
-    * [en esperanto](https://pandunia.telegramo.org/) y 
-    * [en pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
+  [plurilingüe](https://t.me/+Q9WyJ-ZLrFEsCXFU) y
+  [en pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
 - Debates en [Reddit](https://www.reddit.com/r/pandunia/)
 - [Grupo de Facebook](http://www.facebook.com/groups/pandunia)
 - Canal QQ: 717549404

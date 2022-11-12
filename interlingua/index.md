@@ -33,8 +33,7 @@ Multe personas jam se occupa de Pandunia e lo parla. Vos pote trovar forumos pro
 - Ligamines e discussion in [Reddit](https://www.reddit.com/r/pandunia/)
 - [Amicos de Pandunia](http://www.facebook.com/groups/pandunia) in Facebook
 - canales in le messagero instantanee Telegram:
-  [multilingual](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA),
-  [in Esperanto](https://pandunia.telegramo.org/) e
+  [multilingual](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA) e
   [in Pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
 - [canales in Discord](https://discord.gg/FWavWeG)
 - canal de QQ: 717549404

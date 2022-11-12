@@ -22,7 +22,7 @@ Dokumentasi ini tidak terkini dengan versi terakhir Pandunia. Lihat versi Bahasa
 ## Forum diskusi
 
 - [Facebook](http://www.facebook.com/groups/pandunia)
-- [Telegram](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
+- [Telegram](https://t.me/+Q9WyJ-ZLrFEsCXFU)
 - [Twitter](https://twitter.com/pandunia_/)
 
 ![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")

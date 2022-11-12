@@ -44,8 +44,7 @@ hide:
 - リンクとディスカッション: [Reddit](https://www.reddit.com/r/pandunia/)
 - Facebook [Friends of Pandunia](http://www.facebook.com/groups/pandunia)
 - Telegram(インスタントメッセンジャー) のチャンネル:
-    * [多言語で](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
-    * [エスペラントで](https://pandunia.telegramo.org/)
+    * [多言語で](https://t.me/+Q9WyJ-ZLrFEsCXFU)
     * [パンドゥニアで](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg)
 - そのほかのパンドゥニア話者を見つけるには [Amikumu](https://amikumu.com/) アプリで!
 - [Discordのチャンネル](https://discord.gg/FWavWeG)

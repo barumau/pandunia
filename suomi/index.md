@@ -11,7 +11,7 @@ hide:
 
 Tervetuloa tutustumaan panduniaan, koko maailman apukieleen!
 
-![](http://www.pandunia.info/grafe/halo_dunia.png "halo dunia!")  
+![](http://www.pandunia.info/grafe/halo_dunia.png "sal dunia!")  
 <small>Kuva: [Freepik](http://www.freepik.com)</small>
 
 ## Mitä pandunia on?
@@ -66,8 +66,7 @@ eikä kielioppia ole pakko opiskella.
 | Facebook | [Tekokielet-ryhmä](http://www.facebook.com/groups/tekokielet) | Suomenkielinen ryhmä tekokielistä yleensä. |
 | Facebook | [Pandunia-ryhmä](http://www.facebook.com/groups/pandunia) | Keskustelua eri kielillä. |
 | Telegram | [mimen baxa pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) | Harjoittelu. Täällä puhutaan vain panduniaa! |
-| Telegram | [multilingual channel](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA) | Keskustelua eri kielillä. |
-| Telegram | [pandunia esperanto grupe](https://pandunia.telegramo.org/) | Keskustelua esperantoksi. |
+| Telegram | [multilingual channel](https://t.me/+Q9WyJ-ZLrFEsCXFU) | Keskustelua eri kielillä. |
 | QQ       | 717549404 | Keskustelua kiinaksi ja muilla kielillä. |
 
 Muita pandunian puhujia voi löytää [Amikumu](https://amikumu.com/)-sovelluksella.

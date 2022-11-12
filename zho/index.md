@@ -12,7 +12,7 @@ hide:
 
 - [短课](http://www.pandunia.info/pandunia/mini_xule.html)
 - QQ channel: 717549404
-- [Telegram的聊天室](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
+- [Telegram的聊天室](https://t.me/+Q9WyJ-ZLrFEsCXFU)
 - [Facebook 社区](http://www.facebook.com/groups/pandunia)
 
 ![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")
