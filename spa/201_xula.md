@@ -15,19 +15,19 @@
 <big>☺</big>
 **tu e ke?**
 – ¿Quién es usted?  
-<big>☻</big>>
+<big>☻</big>
 **mi e Yusef. tu e ke?**
 – Yo soy Yusef. ¿Quién es usted?  
-<big>☺</big>>
+<big>☺</big>
 **mi e Sara. da e ke?**
 Yo soy Sara. ¿Quién es?  
-<big>☻</big>>
+<big>☻</big>
 **da e mi su dosti.**
 – Es una amiga mia.  
-<big>☺</big>>
+<big>☺</big>
 **da su nam e ke?**
 – ¿Cómo se llama?  
-<big>☻</big>>
+<big>☻</big>
 **da su nam e Maria.**
 – Su nombre es Maria.
 
@@ -232,29 +232,29 @@ Pidiendo
 
 ![](http://www.pandunia.info/grafe/laupapa.png "chin pa i bacha")
 
-<big>☻</big>>
+<big>☻</big>
 **halo!**
 – ¡Hola!  
-<big>☺</big>>
+<big>☺</big>
 **halo! cing side.**
 – ¡ Hola!¡ Por favor sientese!  
-<big>☻</big>>
+<big>☻</big>
 **xukur.**
 – ¡Gracias!  
-<big>☺</big>>
+<big>☺</big>
 **cing yam kafe o cai.**
 – Por favor beba algo de café o té.  
-<big>☻</big>>
+<big>☻</big>
 **mi vol cai. xukur.**
 – Quiero té, gracias.  
 ...  
-<big>☺</big>>
+<big>☺</big>
 **cing sal tu su mama!**
 – Por favor llevale saludos a tu madre.  
-<big>☻</big>>
+<big>☻</big>
 **mi sal da. sal reste!**
 – Yo la saludo. ¡Adiós!  
-<big>☺</big>>
+<big>☺</big>
 **sal cuti!**
 – ¡Chao!
 
