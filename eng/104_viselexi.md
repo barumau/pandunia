@@ -181,8 +181,8 @@ and it means the same as English _which_.
 **ke zaman?**
 – When? (What time?)  
 **ke loka?**
-– Where? (In which place?)
-**ke yang?** 
+– Where? (In which place?)  
+**ke yang?**
 – How? (What way?)  
 **ke sabu?**
 – Why? (What reason?)

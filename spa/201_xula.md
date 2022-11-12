@@ -10,7 +10,7 @@
 **halo!**
 – ¡Hola!  
 <big>☻</big>
-**salam!**
+**sal!**
 – ¡Buenos!  
 <big>☺</big>
 **tu e ke?**
@@ -144,7 +144,7 @@ Por eso en Pandunia es común encontrar que una sola palabra tenga origenes de d
 **tu sal mi.**
 – Tú me saludas. Usted me saluda.
 
-**mi salam tu**
+**mi sal tu**
 es una oración activa.
 En las oraciones activas el sujeto realiza la acción del verbo y el objeto o complemento es el que la recibe.
 En este caso
@@ -158,11 +158,16 @@ Su orden es importante.
 
 > Sujeto + Verbo + Objeto
 
-En Pandunia los pronombres personales son: **mi** = yo, **tu** = tú,
-usted, y **da** = él, ella, ello. Nota: los pronombres se mantienen
-igual a los dos ejemplos de las oraciones anteriores. Las palabras en
-Pandunia nunca cambian. Siempre se mantienen igual sin importar su
-posición o función en la oración.
+En Pandunia los pronombres personales son:
+**mi**
+'yo',
+**tu**
+'tú, usted', y
+**da**
+'él, ella, ello'.
+Nota: los pronombres se mantienen igual a los dos ejemplos de las oraciones anteriores.
+Las palabras en Pandunia nunca cambian.
+Siempre se mantienen igual sin importar su posición o función en la oración.
 
 En Pandunia las oraciones pueden ser abreviadas dejando por fuera los pronombres que son evidentes en el contexto.
 
@@ -173,7 +178,7 @@ En Pandunia las oraciones pueden ser abreviadas dejando por fuera los pronombres
 **sal!**
 – ¡Saludos! (Es obvio que el oyente es saludado.)
 
-La forma de **salam tu** es útil para decir el nombre de la persona, parentesco o profesión.
+La forma de **sal tu** es útil para decir el nombre de la persona, parentesco o profesión.
 
 **halo, karolina!**
 – ¡Hola, Carolina!  
@@ -300,14 +305,14 @@ pueden hacer frases más cortas.
 **cing sal da.**
 – Por favor dile hola.
 
-¿Vea cómo la traducción de **ching** ha cambiado entre las dos frases?
+¿Vea cómo la traducción de **cing** ha cambiado entre las dos frases?
 El significado de la palabra, el concepto, no ha cambiado, pero sí su uso.
 En español se refleja este cambio mediante el uso de diferentes palabras, 'pedir' y 'por favor'.
 Pandunia puede hacer frente a los cambios de este tipo sin recurrir a diferentes palabras.
 Es un principio en Pandunia que siempre hay exactamente una palabra para un concepto.
 Diferentes palabras no se crean sólo por el papel gramatical de algunos cambios de concepto.
 
-La frase **ching salam da** tiene un patrón útil que puede ser
+La frase **cing sal da** tiene un patrón útil que puede ser
 utilizado para hacer peticiones corteses.
 
 **cing side.**
@@ -321,7 +326,8 @@ utilizado para hacer peticiones corteses.
 **cing safi kamar.**
 – Por favor limpie la habitación.  
 
-Las ordenes son introducidas con **amir** = ordenar. Se utiliza la misma estructura eje como para pedir con **ching**.
+Las ordenes son introducidas con **amir** 'ordenar'.
+Se utiliza la misma estructura eje como para pedir con **cing**.
 
 **amir don cai.**
 – ¡Deme un poco de té!  
@@ -390,7 +396,7 @@ algo
 ![](http://www.pandunia.info/grafe/kafekan.png "a kafe kan")  
 
 <big>☺</big>
-**salam! sual tu yam yo kafe o cai?**
+**sal! sual tu yam yo kafe o cai?**
 – ¡Hola! ¿Qué desean tomar café o té?  
 <big>☻</big>
 **cai.**
@@ -421,12 +427,13 @@ algo
 – No.  
 <big>☺</big>
 **xukur. mi don un cai i un kafe i un supe pos des minute.**
- = ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
+ – ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
 
 
 ### Preguntando
 
-Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **ching**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **sual** = preguntar.
+Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **cing** 'pedir', lo cual se vio en la lección anterior.
+Las frases interrogativas se introducen con **sual** 'preguntar'.
 
 **mi sual tu yam cai.**
 – Yo preguntarte, tomas té.  
@@ -435,7 +442,9 @@ Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la mis
 **sual yam cai?**
 – ¿Bebes té?   
 
-En las peticiones por lo general se refiere a los que se habla, pero las preguntas son a menudo acerca de otras personas. Por lo tanto el pronombre de segunda persona suele ser necesario. Se puede omitir sólo cuando está claro con quien es el tema de discusión.
+En las peticiones por lo general se refiere a los que se habla, pero las preguntas son a menudo acerca de otras personas.
+Por lo tanto el pronombre de segunda persona suele ser necesario.
+Se puede omitir sólo cuando está claro con quien es el tema de discusión.
 
 **sual da yam cai?**
 – ¿Bebe él/ella té?  
@@ -447,7 +456,7 @@ En las peticiones por lo general se refiere a los que se habla, pero las pregunt
 
 ### Respondiendo
 
-Las preguntas de sí o no se responden con **da** = sí, y **no** = no.
+Las preguntas de sí o no se responden con **ya** 'sí', y **no** 'no'.
 
 – **sual tu yam supe?**
 – ¿Comes tú sopa?  
@@ -545,7 +554,7 @@ En la frase
 la palabra
 **no**
 niega la existencia de 
-**salam**
+**sal**
 (saludar).
 En Pandunia la palabra negativa ne se aplica a la palabra que la sigue.
 Si que diferentes alcances de negación pueden resultar en función de la ubicación de la palabra negativa.
