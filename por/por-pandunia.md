@@ -185,7 +185,7 @@ bebê - bebe
 beleza - meita  
 beliche - ceng bede  
 belo (lindo) - mei  
-bem-estar - salamta  
+bem-estar - salta  
 beringela - bedinjan  
 berqueélio - berkli yum  
 berço - lala bede  
@@ -304,7 +304,7 @@ carta geográfica - karta
 carta geográfica - topo metri grafi  
 cartografia - karta grafi  
 Cartum - Hartum  
-cartão de crédito - kredikarte  
+cartão de crédito - kredi karte  
 carvalho - baluta  
 carvalho-roble - europa baluta  
 casa (lar) - dom  
@@ -367,6 +367,7 @@ coala - koala
 cobalto - kobalte  
 cobre - kupre  
 coelho (lebre) - tuzi  
+coentro - kotumbar  
 cogumelo - fungu frute  
 coisa - xe  
 colaborar - kon kar  
@@ -932,9 +933,12 @@ liga (aliança) - liga
 ligeiro - legu veze di  
 lima - kaguji limon  
 limonada - limon jus  
+limpo - saf  
 limão - limon  
 lince - linse  
 linha (fio) - lin  
+linhaça - yama seme  
+linho - yama  
 lista - liste  
 literatura - kitaba suta  
 litro - litre  
@@ -1047,6 +1051,7 @@ mercado (bazar) - bazar
 mercúrio - hidrargente  
 Mercúrio - Merkur  
 merda - xite  
+mero - sada  
 mesa - meza  
 mestre - master  
 meta (gol) - gol  
@@ -1346,6 +1351,7 @@ prensar (pressionar, premir) - fa prese
 pressa - haste  
 pressão - prese  
 preto - kala  
+princípio - baze sim  
 problema - problem  
 procedimento (rito) - riti  
 processamento de dados - data culi  
@@ -1521,7 +1527,6 @@ sangue - hemi
 sariguê (gambá, cuíca) - aposum  
 Satanás - xatan ja  
 Saturno - Xani  
-saudação - salam  
 saudável (saudio) - salu  
 saúde - saludo  
 saúde - saluta  
@@ -1583,6 +1588,7 @@ sorver - sorbe
 sorvete (gelado) - ais krem  
 substância - kimi  
 suco (sumo) - jus  
+sujo - ansaf  
 sulfato - sulfate  
 sunismo - suna islam din  
 suor - sueda  

@@ -292,7 +292,7 @@ hide:
 – Пожалуйста, дайте мне немного чая.  
 **cing yam cai.**
 – Пожалуйста, пейте чай.  
-**cing safi kamar.**
+**cing saf kamar.**
 – Пожалуйста, уберите комнату.
 
 Команды выражаются словом
@@ -303,7 +303,7 @@ hide:
 
 **amir don cai.**
 – Дай мне чая!   
-**amir safi kamar.**
+**amir saf kamar.**
 – Почисти комнату!
 
 ### Упражнения
@@ -330,7 +330,7 @@ hide:
 **kamar** комната.
 **amir** командовать.
 **o** или.
-**safi** убирать, чистить.
+**saf** убирать, чистить.
 **side** сидеть; усаживать .
 **yam** кушать, пить, есть.
 
@@ -339,7 +339,7 @@ hide:
 1. da yam cai.
 2. xefe cing da side.
 3. cing yam kafe o cai.
-4. mama cing mi safi kamar.
+4. mama cing mi saf kamar.
 5. xefe side i yam kafe.
 
 
@@ -400,7 +400,7 @@ hide:
 
 **sual xefe yam kafe?**
 – Шеф пьет кофе?  
-**sual papa safi kamar?**
+**sual papa saf kamar?**
 – Отец убирает комнату?  
 **sual niki baxa pandunia?**
 – Ники говорит на Пандунии?
@@ -506,11 +506,11 @@ hide:
 относится к слову, которое следует за ним.
 Различные границы отрицания внутри предложения зависят от местоположения отрицательного слова и меняют его смысл. 
 
-**mi cing tu safi kamar.**
+**mi cing tu saf kamar.**
 – Я прошу, чтобы ты убрал комнату.  
-**mi no cing tu safi kamar.**
+**mi no cing tu saf kamar.**
 – Я не прошу, чтобы ты убрали комнату.  
-**mi cing tu no safi kamar.**
+**mi cing tu no saf kamar.**
 – Я прошу тебя не убирать комнату.
 
 Пандуния всегда четко определяет то, что отрицается.
@@ -520,11 +520,11 @@ hide:
 (2) чашка (не чистая) и пустая.
 Порядок слов в Пандунии предотвращает такой вид двусмысленности.
 
-**kupe no esa safi i hali.**
+**kupe no esa saf i hali.**
 – Чашка не (чистая и пустая).  
-**kupe esa no safi i hali.**
+**kupe esa no saf i hali.**
 – Чашка (не чистая), но пустая.  
-**kupe esa no safi i no hali.**
+**kupe esa no saf i no hali.**
 – Чашка не чистая и не пустая.
 
 Отрицаемое слово может быть любого типа: глаголом, местоимением,
@@ -575,7 +575,7 @@ hide:
 
 ### Ответы на упражнения
 
-1. da no safi kamar.
+1. da no saf kamar.
 2. un kupe no hali.
 3. du vaf no yam supe.
 4. da no ha vaf i mau. / da ha no vaf i no mau.
@@ -640,7 +640,7 @@ hide:
 
 **mi yam cai a preden.**
 – Я пил чай вчера.  
-**da safi kamar a posden.**
+**da saf kamar a posden.**
 – Он будет убирать комнату завтра.  
 **mimen festa a 2000 de prexam**
 – Мы праздновали в канун 2000 года.
@@ -688,7 +688,7 @@ hide:
 1. mi su xefe festa a xa.
 2. mi ha du vaf a pas.
 3. tu yam supe a zai.
-4. da safi kamar a pre den.
+4. da saf kamar a pre den.
 5. mau yam kafe a pos den.
 6. tu su mama festa a pre noce.
 
@@ -883,7 +883,7 @@ hide:
 
 1. *mi vol du kafe to xefe.*
 2. *kia tu vol yam su?*
-3. *da no vol safi kamar.*
+3. *da no vol saf kamar.*
 
 
 ## Урок 10: Как задавать вопросы с помощью **ke**

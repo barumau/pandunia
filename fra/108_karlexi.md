@@ -19,7 +19,7 @@ Le pandunia est une langue dont les phrases suivent généralement un ordre agen
 Ici **mau** 'chat' est l'agent
 et **muxu** 'souris' est l'object.
 
-**mi safi kamar.**
+**mi saf kamar.**
 – Je nettoie une chambre.
 
 
@@ -50,14 +50,14 @@ La phrase passive peut être marquée par la verbe auxiliaire **be**.
 
 **koko be yam.**
 – Le poulet est mangé.  
-**kamar be safi.**
+**kamar be saf.**
 – Chambre est nettoyée.
 
 On peut indiquer l'agent avec la préposition **de**.
 
 **koko be yam de mimen.**
 – Le poulet est mangé par nous.  
-**kamar be safi de mi.**
+**kamar be saf de mi.**
 – Chambre est nettoyée par moi.
 
 

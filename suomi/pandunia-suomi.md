@@ -379,6 +379,7 @@ baze di - perus-
 baze ja - perustaja  
 baze kanun - perustuslaki  
 baze petra - peruskallio  
+baze sim - periaate  
 baze xulakan - ala-aste  
 be - läpikäydä (passiivin muodostava verbi)  
 be ais - jäätyä  
@@ -1211,6 +1212,7 @@ fa rota - pyörittää
 fa sabu - aiheuttaa (olla syynä)  
 fa safa - puhdistaa (siivota)  
 fa safar - matkustaa  
+fa sahi - korjata (tehdä oikeaksi)  
 fa saide - pyytää (metsästää, kalastaa)  
 fa salam - tervehtiä  
 fa sam rai - olla samaa mieltä  
@@ -1223,7 +1225,6 @@ fa serve - palvella (tarjoilla)
 fa side - istua  
 fa sifa - määritellä (luonnehtia)  
 fa sim - kannattaa (tukea, edistää)  
-fa sina - uskoa (luottaa)  
 fa sing foto - tuikkia  
 fa sir - piilottaa (kätkeä)  
 fa siro - nollata  
@@ -2275,6 +2276,7 @@ Kosta Rika - Costa Rica
 koste - hinta (maksu)  
 kote - takki  
 Kote de Ivar - Norsunluurannikko  
+kotumbar - korianteri  
 krabe - rapu (taskurapu)  
 kran - hana (venttiili, kraana)  
 krati - valta  
@@ -2286,7 +2288,7 @@ kredi - uskoa (luottaa)
 • sinkredisim - synkretismi  
 kredibil - uskottava  
 kredija - uskovainen  
-kredikarte - luottokortti  
+kredi karte - luottokortti  
 krem - kerma  
 krem di - kermankeltainen  
 krepe - lätty (räiskäle, pannukakku)  
@@ -3394,9 +3396,11 @@ sablu petra - hiekkakivi
 sablu stan - aavikko (hiekkaerämaa)  
 sabu - syy  
 sabun - saippua  
-sada - koruton (tavanomainen, pelkkä, vain)  
-safa - puhdas (siivo, siisti)  
-safa ja - siivooja  
+sada - pelkkä (koruton, tavanomainen, vain)  
+saf - puhdas (siivo, siisti)  
+• ansaf - likainen  
+safja - siivooja  
+safta - puhtaus  
 safar - matka (reissu)  
 safar ceke - matkašekki  
 safar ja - matkailija  
@@ -3405,7 +3409,6 @@ safar keka ja - turisti
 safran - sahrami  
 sagu - saagopalmu  
 sagu fun - saagotärkkelys  
-sahi - korjata (tehdä oikeaksi)  
 sahi - oikea (paikkansapitävä)  
 saide - pyynti (metsästys, kalastus)  
 saide ja - pyytäjä (metsästäjä, kalastaja)  
@@ -3418,17 +3421,10 @@ sal noce - hyvää yötä
 sal suba - huomenta  
 sal xam - hyvää iltaa  
 sal yam - hyvää ruokahalua!  
+salta - hyvinvointi  
 sala - sali (halli)  
 salade - salaatti  
-salam - tervehdys (terve!)  
-salam cuti - hyvää matkaa  
-salam di - hyvä (tervehdyksissä)  
-salam dia - päivää!  
-salam lai - tervetuloa!  
-salam suba - Huomenta!  
-salamta - hyvinvointi  
-salam xam - Hyvää iltaa  
-salam yam - hyvää ruokahalua!  
+salam - salaam  
 Salon - Sierra Leone  
 salu - terve  
 saludo - terveys (kunto)  
@@ -3558,7 +3554,6 @@ sim ja - kannattaja (tukija, -isti)
 simbol - tunnus (symboli)  
 simple - yksinkertainen (mutkaton)  
 sin - merkki (signaali)  
-sina - usko (luottamus)  
 sine - rinta  
 sine kasa - rintakehä  
 sing - tähti  
@@ -4183,6 +4178,9 @@ yam kamar - ruokasali
 yam liste - ruokalista  
 yam xe - ruoka  
 yam yau - nälkä  
+yama - pellava  
+yama seme - pellavansiemen  
+yama tela - pellavakangas  
 yang - laji (tyyppi, tyyli)  
 preyang di - klassinen  
 Yapetus - Japetus  

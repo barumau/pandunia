@@ -36,7 +36,7 @@ It includes simpler grammar, more international word forms, and many new words.
 
 - [The basics of Pandunia](003_baze.md) (one short page only!)
 - [Lessons with Dialogs](201_xula.md)
-- [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_xule.html)
+- [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_xula.html)
 - [Phrasebook](200_baze_jumla.md)
 - [Complete grammar of Pandunia](pan.pdf) in PDF format
 - [Searchable dictionary](tiddly.html)

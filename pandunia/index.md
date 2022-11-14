@@ -16,7 +16,7 @@ Afrika, Amerika, Asia, Europa
 – de la dunia baxa ya yau vakil mimen su pan dunia!
 
 tu sabi Pandunia, he?
-tu bil xula Pandunia a uze de [mini xula](mini_xule.html).
+tu bil xula Pandunia a uze de [mini xula](mini_xula.html).
 
 - [zi seri](abc.md)
 - kitaba

@@ -199,6 +199,7 @@ bazar - merkato (bazaro)
 baze - bazo  
 baze bol - basbalo  
 baze di - baza  
+baze sim - principo  
 baze xulakan - bazlernejo  
 be ais - glaciiĝi (frostiĝi)  
 be boli - boli  
@@ -601,12 +602,12 @@ fa re - ripeti (refari)
 fa rol - ludi rolon  
 fa safa - purigi  
 fa safar - vojaĝi  
+fa sahi - pravigi  
 fa saide - ĉasi  
 fa salam - saluti  
 fa sam rai - samopinii (interkonsenti)  
 fa sana - produkti (fabriki)  
 fa side - sidi  
-fa sina - kreda  
 fa sual - demandi  
 fa tele fon - telefoni  
 fa vai - krom (escepti)  
@@ -1147,13 +1148,14 @@ korte kata - novelo
 kosmo nave ja - kosmonaŭto  
 koso - tuso  
 kote - palto  
+kotumbar - koriandro  
 krabe - krabo  
 kran - krano (valvo)  
 krati - regi  
 kredi - kreda  
 • ankredija - malkredulo  
 kredija - kredulo  
-kredikarte - kreditkarto  
+kredi karte - kreditkarto  
 krem - kremo  
 krepe - krepo (patkuko)  
 krepekan - krepejo  
@@ -1692,12 +1694,13 @@ sablu - sablo
 sablu stan - dezerto  
 sabu - kialo  
 sabun - sapo  
-safa - pura  
-safa ja - purigisto  
+saf - pura  
+• ansaf - malpura  
+safja - purigisto  
+safta - pureco  
 safar - vojaĝo  
 safar ja - vojaĝanto  
 safran - safrano  
-sahi - pravigi  
 sahi - ĝusta (prava)  
 saide - ĉasado  
 saide ja - ĉasisto  
@@ -1708,14 +1711,6 @@ sal lai - bonvenon!
 sal suba - Bonan matenon!  
 sal xam - Bonan vesperon  
 sal yam - bonan apetiton!  
-salam - saluto  
-salam cuti - bonan vojaĝon  
-salam di - bona (en salutoj)  
-salam dia - Bonan tagon  
-salam lai - bonvenon!  
-salam suba - Bonan matenon!  
-salam xam - Bonan vesperon  
-salam yam - bonan apetiton!  
 salu - sana  
 saludo - saneco  
 sam - sama  
@@ -1783,7 +1778,6 @@ silke larva - silkraŭpo
 sim - ismo  
 simbol - simbolo  
 simple - simpla  
-sina - kredo  
 sine - brusto  
 sine kasa - torako  
 sing - stelo  
@@ -2072,6 +2066,7 @@ yam - manĝi (trinki)
 yam fito - legomo  
 yam kamar - manĝoĉambro  
 yam yau - malsato  
+yama - lino  
 yang - speco (tipo, stilo)  
 yau - bezoni  
 yauta - bezono  

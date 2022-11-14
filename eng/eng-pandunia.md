@@ -404,9 +404,7 @@ being (entity) - eja
 bel (unit) - bel  
 Belarus - Belarus  
 Belgium - Belgi  
-belief (faith, creed) - sina  
 believe (trust, credit, rely on) - kredi  
-believe - fa sina  
 believer (religious person) - din ja  
 believer (religious person) - kredija  
 Belize - Belize  
@@ -492,7 +490,6 @@ Bolivia - Bolivia
 bolt - bolte  
 bomb - bomba  
 bon appetit! - sal yam  
-bon appetit! - salam yam  
 bone - oste  
 bonus - bon max xe  
 boo! - bu!  
@@ -788,9 +785,10 @@ classify (categorize) - fa klas
 classroom - xula kamar  
 claw (scratch) - fa nahun  
 clay - glu poto  
-clean (pure) - safa  
+clean (pure) - saf  
 clean (purify) - fa safa  
-cleaner - safa ja  
+cleaner - safja  
+cleanliness (purity) - safta  
 cleanly (hygienic, sanitary) - salu safa di  
 clear (obvious) - klar  
 click (snap) - klike  
@@ -936,13 +934,14 @@ copy (replicate) - fa kopi
 copyright - kopi haki  
 coral - koral  
 core (nucleus, kernel) - kerne  
+coriander - kotumbar  
 corn (maize) - mais  
 corn poppy - medan papi  
 corner (angle) - gona  
 cornflower - nil kentaur hua  
 corona virus - korona virus  
 corpse (dead body) - nekro  
-correct (make right) - sahi  
+correct (make right) - fa sahi  
 corrupt (pollute, soil, defile, stain, taint) - fa najis  
 corruption (filth, pollution, contamination, najis) - najis  
 cosmic - kosmo di  
@@ -975,7 +974,7 @@ crash (shut down, terminate) - be harabu
 cream - krem  
 creamy (cream colored) - krem di  
 credible (believable) - kredibil  
-credit card - kredikarte  
+credit card - kredi karte  
 crepe - Franse krepe  
 crib - bebe bede  
 cricket (sport) - krikete  
@@ -1145,7 +1144,7 @@ dinosaur - dino saur
 Dione - Dione  
 diorite - diorite  
 direct (point, aim; direction; target, objective) - dika  
-dirty (soiled, polluted, defiled, tainted, unclean, impure) - najis di  
+dirty - ansaf  
 disagree - fa alo rai  
 disagreement (disconsent) - alo rai  
 disappear (vanish) - be an zai  
@@ -1457,7 +1456,6 @@ fantastic (imaginary) - fantazi di
 fantasy (imagination) - fantazi  
 far - tele di  
 farewell - sal cuti  
-farewell - salam cuti  
 farmer - agrija  
 fart (flatulate) - fa pede  
 fart (flatulence) - pede  
@@ -1542,6 +1540,7 @@ flame - flam
 flat (planar) - plate di  
 flat-earther - plate geo sim ja  
 flatbread (chapati, roti) - capati  
+flax (linen) - yama  
 flerovium - flerof yum  
 fletcher - flece ja  
 flexible  - flexibil  
@@ -1736,15 +1735,11 @@ god of love (Eros, Kamadeva) - kama deu
 gold - auro  
 golem - golem  
 goniometer - gona metri gi  
-good (prosperous; used in greetings) - salam di  
 good - bon  
 good day - sal dia  
-Good day - salam dia  
 good evening - sal xam  
-Good evening - salam xam  
 good luck - bon zar  
 good morning - sal suba  
-Good morning - salam suba  
 good night - sal noce  
 goose - ganse  
 gorilla - gorila  
@@ -1782,7 +1777,6 @@ green - luga
 Greenland - Kalal  
 greens - coi  
 greet - fa salam  
-greeting (hello) - salam  
 Grenada - Grenada  
 grey (gray, ashy) - hui rang  
 grieve (be sad; grief, sorrow) - duku  
@@ -2026,6 +2020,7 @@ implosion - in bum
 import - in mise  
 important - ham di  
 imprison (jail) - fa jela  
+impure (polluted, defiled, tainted) - najis di  
 include (enclose, hold in) - fa in klus  
 including - in klus  
 inclusive - in klus di  
@@ -2345,8 +2340,10 @@ limestone - kalsi petra
 limit (boundary) - limite  
 line (thread, string) - lin  
 line break (newline) - lin parce  
+linen fabric - yama tela  
 linguistics - baxa logi  
 link - serime  
+linseed - yama seme  
 lion - singa  
 lip - labi  
 liquid - dara mate  
@@ -3185,7 +3182,7 @@ pixel - grafi so
 pizza - piza  
 pizzeria - pizakan  
 place (location) - loka  
-plain (ordinary, unadorned, simple, mere) - sada  
+plain (ordinary, unadorned, simple, mere, pure) - sada  
 plain (plateau, flat lands) - plate stan  
 plan - plan  
 plane (plate) - plate  
@@ -3317,6 +3314,7 @@ prick (sting) - fa pin
 priest (cleric) - din guru  
 primary school (elementary school, gradeschool) - baze xulakan  
 prime minister - xefe ministre ja  
+principle - baze sim  
 print (stamp) - cape  
 prison (imprisonment) - jela  
 prison (jail) - jelakan  
@@ -3638,6 +3636,7 @@ Saint Kitts and Nevis - Sante Kitse i Nevis
 Saint Lucia - Sante Lucia  
 Saint Vincent - Sante Vincente  
 Saint Vincent and Grenadines - Sante Vincente i Grenadin  
+salaam - salam  
 salad - salade  
 salmon (trout) - salmon  
 salt - yem  
@@ -4547,9 +4546,8 @@ week - cetiden
 weft - vei lin  
 weight (heft, gravity) - veze  
 welcome! - sal lai  
-welcome! - salam lai  
 well (now; used to introduce a statement) - nu  
-well-being (prosperity) - salamta  
+well-being (prosperity) - salta  
 Welsh - kamri  
 Wenzhou - Venjou  
 west - veste  
@@ -4600,7 +4598,7 @@ winter - leng mosim
 winter melon (wax gourd, ash gourd) - mum melon  
 wintry - leng mosim di  
 wipe (clean with a cloth) - fa safa va tela  
-wipe (rag, cleaning cloth) - safa tela  
+wipe (rag, cleaning cloth) - saf tela  
 wire - metal lin  
 wisdom - sofita  
 wise - sofi  

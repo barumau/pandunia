@@ -65,7 +65,6 @@ además - a max
 adhesivo - glu grafi  
 adicional (extra) - max di  
 adiós - sal cuti  
-adiós - salam cuti  
 adjetivo - sifa loga  
 admirar - amira  
 adoquín - gola seku  
@@ -440,9 +439,8 @@ biblioteca - kitabakan
 bibliotecario - kitaba minister  
 bicicleta - pedal sikle  
 bicicleta - sikle  
-bienestar - salamta  
+bienestar - salta  
 bienvenido - sal lai  
-bienvenido - salam lai  
 bilingüe - du baxa di  
 bilingüe - dubaxaka  
 billete de ida y vuelta - retro tikete  
@@ -496,17 +494,12 @@ Buda - Buda
 budismo - Buda din  
 budismo zen - jan buda din  
 budista - Buda din ja  
-buen (hola) - salam di  
 buen provecho - sal yam  
-buen provecho - salam yam  
 buena suerte - bon zar  
 buenas noches - sal xam  
-buenas noches - salam xam  
 buenas tardes - sal dia  
-buenas tardes - salam dia  
 bueno - bon  
 buenos días - sal suba  
-buenos días - salam suba  
 bufanda (chal) - xal  
 bufé - bufete  
 bufón - bobo  
@@ -767,6 +760,7 @@ cien (100) - sento
 ciencia (estudiar, investigar, -ología) - logi  
 ciencia política - politi logi  
 cigarro (cigarillo) - sigar  
+cilantro (coriandro) - kotumbar  
 cima (pico, cumbre, vértice) - xan pike  
 cinc - zinke  
 cinco (5) - lima  
@@ -936,12 +930,13 @@ corporal (corpóreo) - badan di
 correa (rein) - lida lin  
 correcto (justo) - sahi  
 corredor - kore ja  
-corregir - sahi  
+corregir - fa sahi  
 correo - posta  
 correo basura - lasa posta  
 correr - kore  
 corriente de resaca - tire dara  
 corromper (contaminar) - fa najis  
+corrompido - najis di  
 corsario - nave kape ja  
 cortar - gata a caku  
 cortina - parde  
@@ -962,9 +957,7 @@ cota de malla - seri kaska
 crecemiento - raste  
 crecer (aumentar, hincharse) - be dai  
 crecer - be raste  
-creencia (fe) - sina  
 creer (confiar, contar con) - kredi  
-creer - fa sina  
 crema - krem  
 cremallera - ziper  
 cremoso - krem di  
@@ -2217,16 +2210,18 @@ lila (de color lila) - lila rang
 lila - lila  
 limero - kaguji limon  
 limonada - limon jus  
-limpiador - safa ja  
+limpiador - safja  
 limpiar - fa safa  
-limpio - safa  
+limpio - saf  
 limón - limon  
+linaza - yama seme  
 lince - linse  
 lince rojo (gato montés) - rubi linse  
 lindo (precioso) - kavai  
 linea (hilo, cordel, raya) - lin  
 linfa - limfa  
 lingüística - baxa logi  
+lino - yama  
 liquen - alga fungu  
 lirio - susan  
 lista - liste  
@@ -3137,6 +3132,7 @@ primer (inicial, inaugural) - xuru di
 primer ministro - xefe ministre ja  
 primero (numbre uno) - un me  
 principal - xefe di  
+principio - baze sim  
 prisa - haste  
 prisionero - jela jen  
 prisión - jela  
@@ -3464,7 +3460,6 @@ salud - saludo
 salud - saluta  
 saludable - salu  
 saludar - fa salam  
-saludo - salam  
 salvaje - eko gene di  
 salvaje - vilde  
 salón - sala  
@@ -3622,8 +3617,8 @@ subestimar - fa min rai
 subir (alzar) - be gau  
 subterráneo - geo nice di  
 subtítulos - nice kitaba  
-sucio (corrompido) - najis di  
 sucio - darti di  
+sucio - ansaf  
 Sudamérica - Sude Amerika  
 sudor - sueda  
 sudoroso (sudado) - sueda di  
@@ -3696,7 +3691,7 @@ tapón (corcholata) - botel tapa
 tapón (tapa) - tapa  
 tarde (después de mediodía) - xam dia  
 tarjeta (carta) - karte  
-tarjeta de crédito - kredikarte  
+tarjeta de crédito - kredi karte  
 tarjeta de gráfica - grafi karte  
 tasa (precio, cuota, tarifa) - taxi  
 tasa de fotogramas - grafi sugata  
@@ -3831,7 +3826,7 @@ transmitir - tramisi
 Transnistria (Cisdniéster) - Transe Nistre Dexa  
 transparente - transe vide di  
 transporte - traporte  
-trapo (tela para limpiar) - safa tela  
+trapo (tela para limpiar) - saf tela  
 trasero (nalgas) - pigu  
 tratar (llevar, manejar, lidiar, procesar) - fa culi  
 tren - tren  

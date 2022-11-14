@@ -220,11 +220,11 @@ Le sens de la phrase change donc selon l'emplacement du **no**.
 **mi vide no tu ama damen.**
 – Ce n'est pas toi que je vois, mais eux.
 
-**mi cing tu safi la kamar.**
+**mi cing tu saf la kamar.**
 – Je te demande de nettoyer la chambre.  
-**mi no cing tu safi la kamar.**
+**mi no cing tu saf la kamar.**
 – Je NE demande PAS à toi de nettoyer la chambre.  
-**mi cing tu no safi la kamar.**
+**mi cing tu no saf la kamar.**
 – Je te demande de NE PAS nettoyer la chambre.
 
 Les particules **ya** et **no** sont également utilisées pour répondre aux questions.

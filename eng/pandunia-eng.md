@@ -391,6 +391,7 @@ baze di - basic
 baze ja - founder  
 baze kanun - consitution  
 baze petra - bedrock  
+baze sim - principle  
 baze xulakan - primary school (elementary school, gradeschool)  
 be - undergo (passivizing verb)  
 be ais - freeze (get frozen)  
@@ -1266,6 +1267,7 @@ fa sabu - cause (be the cause for)
 fa safa - clean (purify)  
 fa safa va tela - wipe (clean with a cloth)  
 fa safar - travel  
+fa sahi - correct (make right)  
 fa saide - hunt (fish)  
 fa salam - greet  
 fa sam rai - agree (concur)  
@@ -1278,7 +1280,6 @@ fa serve - serve (give service)
 fa side - sit (put down)  
 fa sifa - qualify (describe)  
 fa sim - advocate (promote, support)  
-fa sina - believe  
 fa sing foto - twinkle (sparkle)  
 fa sir - hide (conceal)  
 fa siro - cancel (nullify, delete, erase)  
@@ -2435,6 +2436,7 @@ koste - cost (price)
 koste di - expensive (costly)  
 kote - coat  
 Kote de Ivar - Côte d’Ivoire (Ivory Coast)  
+kotumbar - coriander  
 krabe - crab  
 krake - crack (rift)  
 kran - valve (tap, faucet)  
@@ -2449,7 +2451,7 @@ kredi - believe (trust, credit, rely on)
 • sinkredisim - synchretism  
 kredibil - credible (believable)  
 kredija - believer (religious person)  
-kredikarte - credit card  
+kredi karte - credit card  
 krem - cream  
 krem di - creamy (cream colored)  
 krepe - pancake  
@@ -3042,7 +3044,7 @@ nahun - nail (fingernail)
 Naijiria - Nigeria  
 najis - corruption (filth, pollution, contamination, najis)  
 najis bindu - stain (spot)  
-najis di - dirty (soiled, polluted, defiled, tainted, unclean, impure)  
+najis di - impure (polluted, defiled, tainted)  
 nam - name  
 • annam - antonym  
 nam dokumen - identity document (identification, ID)  
@@ -3741,10 +3743,12 @@ sablu petra - sandstone
 sablu stan - desert  
 sabu - reason (cause)  
 sabun - soap  
-sada - plain (ordinary, unadorned, simple, mere)  
-safa - clean (pure)  
-safa ja - cleaner  
-safa tela - wipe (rag, cleaning cloth)  
+sada - plain (ordinary, unadorned, simple, mere, pure)  
+saf - clean (pure)  
+• ansaf - dirty  
+safja - cleaner  
+safta - cleanliness (purity)  
+saf tela - wipe (rag, cleaning cloth)  
 safar - travel (voyage, trip)  
 safar ceke - traveller's cheque (traveler's check)  
 safar ja - traveler  
@@ -3754,7 +3758,6 @@ safran - saffron
 sagu - sago palm  
 sagu fun - sago  
 Sahara Dexa - Sahrawi Arab Democratic Republic  
-sahi - correct (make right)  
 sahi - right (correct, accurate)  
 saide - hunting (fishing)  
 saide ja - hunter  
@@ -3768,17 +3771,10 @@ sal noce - good night
 sal suba - good morning  
 sal xam - good evening  
 sal yam - bon appetit!  
+salta - well-being (prosperity)  
 sala - hall (big room)  
 salade - salad  
-salam - greeting (hello)  
-salam cuti - farewell  
-salam di - good (prosperous; used in greetings)  
-salam dia - Good day  
-salam lai - welcome!  
-salam suba - Good morning  
-salamta - well-being (prosperity)  
-salam xam - Good evening  
-salam yam - bon appetit!  
+salam - salaam  
 salmon - salmon (trout)  
 Salon - Sierra Leone  
 salu - healthy  
@@ -3935,7 +3931,6 @@ sim ja - advocate (promoter, supporter, adherent)
 simbol - symbol (emblem)  
 simple - simple (not complicated)  
 sin - sign (signal)  
-sina - belief (faith, creed)  
 sine - chest (breast)  
 sine kasa - rib cage  
 sine plate - breastplate  
@@ -4613,6 +4608,9 @@ yam liste - menu (bill of fare)
 yam sukar gana - duruka  
 yam xe - food (meal)  
 yam yau - hunger  
+yama - flax (linen)  
+yama seme - linseed  
+yama tela - linen fabric  
 yang - kind (style, sort, type)  
 preyang di - classic (classical)  
 Yapetus - Iapetus  

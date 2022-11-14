@@ -367,7 +367,7 @@ has a useful pattern that can be used for making polite requests.
 = Please give me some tea.  
 **cing yam cai.**
 = Please have some tea.  
-**cing safi kamar.**
+**cing saf kamar.**
 = Please clean the room.
 
 Commands are introduced with
@@ -377,12 +377,12 @@ Commands are introduced with
 
 **amir don cai.**
 = Give (me) some tea!  
-**amir safi kamar.**
+**amir saf kamar.**
 = Clean the room!
 
 In practice, direct commands can be also made with just one verb and a commanding voice.
 
-**safi da!**
+**saf da!**
 = Clean it!
 
 
@@ -423,7 +423,7 @@ the
 must, have to  
 **o**
 or  
-**safi**
+**saf**
 to clean  
 **xukur**
 thanks  
@@ -442,7 +442,7 @@ some, a(n)
 1. da yam cai.
 2. la xefe cing da side.
 3. cing yam kafe o cai.
-4. mama cing mi safi kamar.
+4. mama cing mi saf kamar.
 5. xefe side i yam kafe.
 
 
@@ -520,7 +520,7 @@ Of course common and proper nouns can also be used.
 
 **sual xefe yam kafe?**
 = Does the chief drink coffee?  
-**sual papa safi kamar?**
+**sual papa saf kamar?**
 = Does the father clean the room?  
 **sual niki baxa pandunia?**
 = Does Nicky speak Pandunia?
@@ -629,11 +629,11 @@ In Pandunia the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
 of the negative word.
 
-**mi cing tu safi kamar.**
+**mi cing tu saf kamar.**
 = I ask you to clean the room.  
-**mi no cing tu safi kamar.**
+**mi no cing tu saf kamar.**
 = I do NOT ask you to clean the room.  
-**mi cing tu no safi kamar.**
+**mi cing tu no saf kamar.**
 = I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
@@ -684,7 +684,7 @@ but
 
 ### Answers to the Exercises
 
-1. da no safi kamar.
+1. da no saf kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
 4. da no ha vaf i mau. / da ha no vaf i no mau.
@@ -850,7 +850,7 @@ time expression is present, other markers are not needed.
 
 **mi be gene a nen 2003.**
 = I was born in 2003.  
-**da safi la kamar a pos den.**
+**da saf la kamar a pos den.**
 = He will clean the room tomorrow.
 
 
@@ -893,7 +893,7 @@ milk
 1. mi su xefe festa a xa.
 2. mi ha du vaf a pas.
 3. tu yam supe a zai.
-4. da safi kamar a preden.
+4. da saf kamar a preden.
 5. mau yam milke a posden.
 6. tu su ma festa a prenoce.
 

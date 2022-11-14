@@ -323,7 +323,7 @@ utilizado para hacer peticiones corteses.
 – Por favor me da un poco de té.  
 **cing yam cai.**
 – Por favor beba algo de té.  
-**cing safi kamar.**
+**cing saf kamar.**
 – Por favor limpie la habitación.  
 
 Las ordenes son introducidas con **amir** 'ordenar'.
@@ -331,7 +331,7 @@ Se utiliza la misma estructura eje como para pedir con **cing**.
 
 **amir don cai.**
 – ¡Deme un poco de té!  
-**amir safi kamar.**
+**amir saf kamar.**
 – ¡Limpie la habitación!
 
 
@@ -368,7 +368,7 @@ habitación
 el/la  
 **o**
 o  
-**safi**
+**saf**
 limpiar  
 **side**
 estar sentado  
@@ -383,7 +383,7 @@ algo
 1. da yam cai.
 2. la xefe cing da side.
 3. cing yam kafe o cai.
-4. mama cing mi safi kamar.
+4. mama cing mi saf kamar.
 5. xefe side i yam kafe.
 
 
@@ -403,7 +403,7 @@ algo
 – Té.  
 <big>☺</big>
 **tu ne?**
-– ¿Y usted? 
+– ¿Y usted?  
 <big>☹</big>
 **mi no baxa pandunia...**
 – Yo no hablo Pandunia...  
@@ -559,11 +559,11 @@ niega la existencia de
 En Pandunia la palabra negativa ne se aplica a la palabra que la sigue.
 Si que diferentes alcances de negación pueden resultar en función de la ubicación de la palabra negativa.
 
-**mi cing tu safi kamar.**
+**mi cing tu saf kamar.**
 – Yo te pedi limpiar la habitación.  
-**mi no cing tu safi kamar.**
+**mi no cing tu saf kamar.**
 – Yo no te pedi limpiar la habitación.  
-**mi cing tu no safi kamar.**
+**mi cing tu no saf kamar.**
 – Yo te pedi no limpiar la habitación.  
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 
@@ -610,7 +610,7 @@ perro.
 
 ### Respuestas
 
-1. da no safi kamar.
+1. da no saf kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
 4. da no ha vaf i mau. / da ha no vaf i no mau.
@@ -734,7 +734,7 @@ actual, presente
 1. mi su xefe festa a xa.
 2. mi ha du vaf a pas.
 3. tu yam supe a zai.
-4. da safi kamar a pre den.
+4. da saf kamar a pre den.
 5. mau yam milke a pos den.
 6. tu su ma festa a prenoce.
 
@@ -778,21 +778,21 @@ Intenta traducir estas oraciones de Español a Pandunia.
 ### Vocabulario
 
 **to**
-– a
+– a  
 **fokus**
-– enfocar, concentrarse.
+– enfocar, concentrarse  
 **loga**
-– hablar, charlar
+– hablar, charlar  
 **xuru**
-– empezar, comenzar.
+– empezar, comenzar  
 **vide**
-– ver, mirar.
+– ver, mirar  
 **vol**
-– querer, necesitar.
+– querer, necesitar
 
 ### Respuestas
 
 1. mi vol da kafe to xefe.
 2. sual tu vol yam sui?
-3. da no vol safi da su kamar.
+3. da no vol saf da su kamar.
 

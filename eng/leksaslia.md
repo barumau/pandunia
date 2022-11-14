@@ -496,7 +496,7 @@
 **gona** *corner (angle)* ← Hindi:कोण (koṇ), Telugu:(kōnamu), Swahili:kona, English:corner, Hausa:kwana, French:-gone, Spanish:Portuguese:-gono  
 **gorila** *gorilla* ← English:gorilla, French:gorille, Spanish:Portuguese:Malay:gorila, Russian:горилла (gorilla), Arabic:غوريلا (ḡūrīlā), Japanese:ゴリラ (gorira), Korean:고릴라 (gorilla), Vietnamese:gôrila, Hindi:गोरिल्ला (gorillā), Bengali:গরিলা (gôrila)  
 **goro** *pig* ← Swahili:guruwe Zulu:ingulube, Kongo:ngulu Spanish:guarro,gorrino, Japanese:(gorogoro) English:grunt  
-**goton** *cotton* ← Arabic:(quṭun), Spanish:algodón, Portuguese:algodão, French:coton, English:cotton  
+**goton** *cotton* ← Arabic: قُطُن‎ (quṭun), Spanish:algodón, Portuguese:algodão, French:coton, English:cotton, Malay:katun, Japanese:コットン (kotton), Korean:코튼 (koteun) + Hindi:गुड (guḍ)  
 **gradu** *step (degree, rank, grade, level, class)* ← deu:Grad, English:grade, degree; French:degré, Spanish:grado, Portuguese:grau, Russian:градус (gradus) + Mandarin:度 (dù), Cantonese:度 (dou6), Japanese:度 (do), Korean:도 (do), Vietnamese:độ + Arabic: دَرَجَة‎ (daraja), Hindi:दर्जा (darjā), Malay:darjah; derajat, Swahili:Hausa:daraja, Turkish:derece  
 **grafi** *drawing (graph, image)* ← English:graphic, deu:Grafik, French:graphique, Spanish:Portuguese:gráfico, Russian:графика (grafika), Japanese:グラフィック (gurafikku), Korean:그래픽 (geuraepik)  
 **granite** *granite* ← English:French:granite, Spanish:Portuguese:granito, Russian:гранит (granit), Turkish:Vietnamese:Malay:granit, Arabic:جرانيت (jaraniat), Hindi:ग्रेनाइट (grenait)  
@@ -792,6 +792,7 @@
 **kosmo** *space (cosmos, universe)* ← Russian:космос (kosmos), English:French:Spanish:cosmos  
 **koso** *cough* ← Russian:кашель (kašel'), Polish:kaszel, Bengali:কাশা (kaśa), Mandarin:咳嗽 (késou)  
 **kote** *coat* ← English:coat, Swahili:koti, Oromo:koota, Japanese:コート (kōto), Persian:(kot), Hindi:कोट (kot)  
+**kotumbar** *coriander* ← Tamil: கொத்துமல்லி (kottumalli), Telugu:కొత్తిమీర (kottimīra), Malay:ketumbar, scr:कुस्तुम्बरी (kustumbarī), Hindi:कोथमीर (kothmīr), Marathi:कोथिंबीर (kothimbīr), Arabic: كُزْبَرَة‎ (kuzbara)  
 **krabe** *crab* ← English:crab, deu:Krebs, French:crabe, Russian:краб (krab)  
 **krake** *crack (rift)* ← Cantonese:隙 (gwik1), nan:隙 (kiah4), Japanese:隙 (kyaku), Vietnamese: khích + English:crack, French:craquer, Spanish:crac  
 **kran** *valve (tap, faucet)* ← ned:kraan, Russian:кран (kran), Polish:kran, Malay:keran  
@@ -1296,8 +1297,8 @@
 **sablu** *sand* ← French:sable, Italian:sabbia + Mandarin:沙漠 (shā), Japanese:砂 (sa), Korean:사 (sa), Vietnamese:sa + Hindi:बालू (bālū), Bengali:বালু (balu)  
 **sabu** *reason (cause)* ← heb:(sibá), Hausa:sabo;sababi, Kongo:sambu, Arabic:Urdu:(sabab), Turkish:sebep, Malay:sebab, Swahili:sababu  
 **sabun** *soap* ← French:savon, Spanish:jabón, Portuguese:sabão, Arabic: صَابُون‎ (ṣābūn), Persian: صابون‎ (sâbun), Hindi:साबुन (sābun), Bengali:সাবান (śaban), Telugu:సబ్బు (sabbu), Malay:Turkish:sabun, Swahili:sabuni, Japanese:シャボン (shabon), Vietnamese:xà bông  
-**sada** *plain (ordinary, unadorned, simple, mere)* ← Turkish:sade, Persian:(sāde), Hindi:सादा (sādā)  
-**safa** *clean (pure)* ← Arabic:صفا (ṣafā), Turkish:saf, Swahili:safi, Malay:safa, Hindi:साफ़ (sāf), Urdu:(sāf), Bengali:চাফা (sapha)  
+**sada** *plain (ordinary, unadorned, simple, mere, pure)* ← Turkish:sade, Persian:(sāde), Hindi:सादा (sādā), Bengali:সাদা (śada), Arabic: سَاذَج (sāḏaj)  
+**saf** *clean (pure)* ← Arabic: صَفِيّ‎ (ṣafiyy), Turkish:saf, Swahili:safi, Malay:safa, Hindi:साफ़ (sāf), Bengali:সাফ (śaph)  
 **safar** *travel (voyage, trip)* ← Arabic:(safar), Hindi:सफ़र (safar), Turkish:sefer, Swahili:safari, English:French:Spanish:Portuguese:deu:Malay:safari  
 **safran** *saffron* ← Arabic:(zaʿfarān), Swahili:zafarani, Persian:(za'ferân), French:Turkish:safran, English:saffron, Spanish:azafrán, Portuguese:açafrão, Russian:шафран (šafran)  
 **sagu** *sago palm* ← English:sago, French:sagou, Spanish:sagú, Portuguese:Malay:sagu, Russian:саго (sago), Arabic: سَاغُو‎ (sāḡū), Mandarin:西谷米 (xīgúmǐ), Japanese:サゴ (sago), Hindi:सागू (sāgū)  
@@ -1356,7 +1357,6 @@
 **simbol** *symbol (emblem)* ← English:symbol, French:symbole, Spanish:Portuguese:símbolo, Russian:символ (simbol), Japanese:シンボル (shinboru), Malay:simbol  
 **simple** *simple (not complicated)* ← English:Spanish:French:simple, Portuguese:simples, deu:simpel  
 **sin** *sign (signal)* ← English:sign, Spanish:señal, Portuguese:sinal, French:signe  
-**sina** *belief (faith, creed)* ← Mandarin:信 (xìn), Cantonese:信 (seon3), Japanese:信 (shin), Vietnamese:tin  
 **sine** *chest (breast)* ← Persian:(sine), Turkish:sine, Hindi:सीना (sīnā), Bengali:সিনা (sinā), Spanish:seno, French:sein, Latin:sinus  
 **sing** *star* ← Mandarin:星 (xīng), Wu-Chinese:星 (xing), Cantonese:星 (sing1), Japanese:星 (sei), Korean:성 (seong)  
 **singa** *lion* ← Malay:singa, Hindi:सिंघ (singh), Bengali:সিংহ (singh), Tamil:சிங்கம் (sinkam), Thai:สิง (sing), Mandarin:狮 (shī), Japanese:獅子 (shishi), + Swahili:simba  
@@ -1617,6 +1617,7 @@
 **yake** *yak* ← English:deu:French:Spanish:Turkish:yak, Portuguese:iaque, Hindi:याक (yāk)  
 **yaki** *about (approximately, nearly, almost)* ← Korean:약 (yak), Japanese:約 (yaku), Cantonese:約 (yœk), Turkish:yaklaşık, Mandarin:约 (yuē)  
 **yam** *consume (eat or drink)* ← Khmer:ញ៉ាំ (nyam), Fulani:nyami, + Spanish:ñam, Russian:ням (nyam), Italian:gnam, English:yum, Korean:냠냠 (nyamnyam), Hungarian:nyam  
+**yama** *flax (linen)* ← Mandarin:亚麻 (yàmá), Cantonese:亞麻 (aa3maa4), Japanese:亜麻 (ama), Korean:아마 (ama), Hindi:उमा (umā)  
 **yang** *kind (style, sort, type)* ← Mandarin:样 (yàng), Thai:อย่าง (yàang), Khmer:យ៉ាង (yaang)  
 **yasen** *ash tree* ← Russian:ясень (yasen’), Polish:jesion  
 **yatim** *orphan* ← Arabic:Persian:(yatim), Turkish:yetim, Swahili:yatima, Hindi:यतीम (yatīm)  

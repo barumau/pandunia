@@ -324,6 +324,7 @@ baze di - básico
 baze ja - fundador  
 baze kanun - constitución  
 baze petra - lecho de roca  
+baze sim - principio  
 baze xulakan - escuela primaria  
 be - sufrir (verbo pasivo)  
 be ais - congelarse (helarse)  
@@ -1079,6 +1080,7 @@ fa rota - hace girar (dar vueltas)
 fa sabu - causar  
 fa safa - limpiar  
 fa safar - viajar  
+fa sahi - corregir  
 fa saide - cazar (pescar)  
 fa salam - saludar  
 fa sam rai - acordar  
@@ -1090,7 +1092,6 @@ fa sense - sentir (detectar)
 fa serve - servir  
 fa side - sentar  
 fa sifa - definir  
-fa sina - creer  
 fa sing foto - centellear (titilar)  
 fa sir - ocultar (esconder)  
 fa siro - cancelar (nulificar, borrar, eliminar)  
@@ -2089,6 +2090,7 @@ Kosta Rika - Costa Rica
 koste - precio (coste)  
 kote - abrigo (chaqueta)  
 Kote de Ivar - Costa de Marfil  
+kotumbar - cilantro (coriandro)  
 krake - raja (grieta)  
 kran - válvula (llave, canilla)  
 krati - dominio (reinado)  
@@ -2097,7 +2099,7 @@ kredi - creer (confiar, contar con)
 • bekredibil - leal (fiel)  
 • bekredibilta - lealtad (fidelidad)  
 kredija - creyente  
-kredikarte - tarjeta de crédito  
+kredi karte - tarjeta de crédito  
 krem - crema  
 krem di - cremoso  
 krepe - panqueque (crepa)  
@@ -2630,7 +2632,7 @@ nahun - uña
 Naijiria - Nigeria  
 najis - contaminación (corrupción, porquería, suciedad)  
 najis bindu - mancha  
-najis di - sucio (corrompido)  
+najis di - corrompido  
 nam - nombre  
 • annam - antónimo  
 nam dokumen - identificación (ID)  
@@ -3251,9 +3253,10 @@ sablu stan - desierto
 sabu - razón (causa)  
 sabun - jabón  
 sada - sencillo (liso)  
-safa - limpio  
-safa ja - limpiador  
-safa tela - trapo (tela para limpiar)  
+saf - limpio  
+• ansaf - sucio  
+safja - limpiador  
+saf tela - trapo (tela para limpiar)  
 safar - viaje  
 safar ceke - cheque de viajero  
 safar ja - viajero  
@@ -3262,7 +3265,6 @@ safar keka ja - turista
 safran - azafrán  
 sagu - sagú  
 Sahara Dexa - República Árabe Saharaui Democrática  
-sahi - corregir  
 sahi - correcto (justo)  
 saide ja - cazador  
 saide yo pexe - pescar  
@@ -3274,17 +3276,9 @@ sal lai - bienvenido
 sal suba - buenos días  
 sal xam - buenas noches  
 sal yam - buen provecho  
+salta - bienestar  
 sala - salón  
 salade - ensalada  
-salam - saludo  
-salam cuti - adiós  
-salam di - buen (hola)  
-salam dia - buenas tardes  
-salam lai - bienvenido  
-salam suba - buenos días  
-salamta - bienestar  
-salam xam - buenas noches  
-salam yam - buen provecho  
 salmon - salmón (trucha)  
 Salon - Sierra Leona  
 salu - saludable  
@@ -3423,7 +3417,6 @@ sim - ideología (doctrina, -ismo)
 simbol - símbolo  
 simple - simple  
 sin - señal (letrero, indicio)  
-sina - creencia (fe)  
 sine - pecho (seno, tórax)  
 sine kasa - caja torácica  
 sine plate - peto  
@@ -3994,6 +3987,8 @@ yam kamar - comedor
 yam liste - menú (carta)  
 yam xe - comida  
 yam yau - hambre  
+yama - lino  
+yama seme - linaza  
 yang - variedad (tipo, estilo)  
 preyang di - clásico  
 yasen - fresno  

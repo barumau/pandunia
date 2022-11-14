@@ -496,7 +496,7 @@
 **gona** *kulma (nurkka)* ← hindi:कोण (koṇ), telugu:(kōnamu), suahili:kona, englanti:corner, hausa:kwana, ranska:-gone, espanja:portugali:-gono  
 **gorila** *gorilla* ← englanti:gorilla, ranska:gorille, espanja:portugali:malaiji:gorila, venäjä:горилла (gorilla), arabia:غوريلا (ḡūrīlā), japani:ゴリラ (gorira), korea:고릴라 (gorilla), vietnami:gôrila, hindi:गोरिल्ला (gorillā), bangla:গরিলা (gôrila)  
 **goro** *sika (possu)* ← suahili:guruwe zulu:ingulube, Kongo:ngulu espanja:guarro,gorrino, japani:(gorogoro) englanti:grunt  
-**goton** *puuvilla* ← arabia:(quṭun), espanja:algodón, portugali:algodão, ranska:coton, englanti:cotton  
+**goton** *puuvilla* ← arabia: قُطُن‎ (quṭun), espanja:algodón, portugali:algodão, ranska:coton, englanti:cotton, malaiji:katun, japani:コットン (kotton), korea:코튼 (koteun) + hindi:गुड (guḍ)  
 **gradu** *porras (aste, taso)* ← deu:Grad, englanti:grade, degree; ranska:degré, espanja:grado, portugali:grau, venäjä:градус (gradus) + yleiskiina:度 (dù), kantoninkiina:度 (dou6), japani:度 (do), korea:도 (do), vietnami:độ + arabia: دَرَجَة‎ (daraja), hindi:दर्जा (darjā), malaiji:darjah; derajat, suahili:hausa:daraja, turkki:derece  
 **grafi** *piirros (graafi)* ← englanti:graphic, deu:Grafik, ranska:graphique, espanja:portugali:gráfico, venäjä:графика (grafika), japani:グラフィック (gurafikku), korea:그래픽 (geuraepik)  
 **granite** *graniitti* ← englanti:ranska:granite, espanja:portugali:granito, venäjä:гранит (granit), turkki:vietnami:malaiji:granit, arabia:جرانيت (jaraniat), hindi:ग्रेनाइट (grenait)  
@@ -792,6 +792,7 @@
 **kosmo** *avaruus (kosmos)* ← venäjä:космос (kosmos), englanti:ranska:espanja:cosmos  
 **koso** *yskä* ← venäjä:кашель (kašel'), puola:kaszel, bangla:কাশা (kaśa), yleiskiina:咳嗽 (késou)  
 **kote** *takki* ← englanti:coat, suahili:koti, oromo:koota, japani:コート (kōto), persia:(kot), hindi:कोट (kot)  
+**kotumbar** *korianteri* ← tamili: கொத்துமல்லி (kottumalli), telugu:కొత్తిమీర (kottimīra), malaiji:ketumbar, scr:कुस्तुम्बरी (kustumbarī), hindi:कोथमीर (kothmīr), marathi:कोथिंबीर (kothimbīr), arabia: كُزْبَرَة‎ (kuzbara)  
 **krabe** *rapu (taskurapu)* ← englanti:crab, deu:Krebs, ranska:crabe, venäjä:краб (krab)  
 **krake** ** ← kantoninkiina:隙 (gwik1), nan:隙 (kiah4), japani:隙 (kyaku), vietnami: khích + englanti:crack, ranska:craquer, espanja:crac  
 **kran** *hana (venttiili, kraana)* ← ned:kraan, venäjä:кран (kran), puola:kran, malaiji:keran  
@@ -1296,8 +1297,8 @@
 **sablu** *hiekka* ← ranska:sable, italia:sabbia + yleiskiina:沙漠 (shā), japani:砂 (sa), korea:사 (sa), vietnami:sa + hindi:बालू (bālū), bangla:বালু (balu)  
 **sabu** *syy* ← heb:(sibá), hausa:sabo;sababi, Kongo:sambu, arabia:urdu:(sabab), turkki:sebep, malaiji:sebab, suahili:sababu  
 **sabun** *saippua* ← ranska:savon, espanja:jabón, portugali:sabão, arabia: صَابُون‎ (ṣābūn), persia: صابون‎ (sâbun), hindi:साबुन (sābun), bangla:সাবান (śaban), telugu:సబ్బు (sabbu), malaiji:turkki:sabun, suahili:sabuni, japani:シャボン (shabon), vietnami:xà bông  
-**sada** *koruton (tavanomainen, pelkkä, vain)* ← turkki:sade, persia:(sāde), hindi:सादा (sādā)  
-**safa** *puhdas (siivo, siisti)* ← arabia:صفا (ṣafā), turkki:saf, suahili:safi, malaiji:safa, hindi:साफ़ (sāf), urdu:(sāf), bangla:চাফা (sapha)  
+**sada** *pelkkä (koruton, tavanomainen, vain)* ← turkki:sade, persia:(sāde), hindi:सादा (sādā), bangla:সাদা (śada), arabia: سَاذَج (sāḏaj)  
+**saf** *puhdas (siivo, siisti)* ← arabia: صَفِيّ‎ (ṣafiyy), turkki:saf, suahili:safi, malaiji:safa, hindi:साफ़ (sāf), bangla:সাফ (śaph)  
 **safar** *matka (reissu)* ← arabia:(safar), hindi:सफ़र (safar), turkki:sefer, suahili:safari, englanti:ranska:espanja:portugali:deu:malaiji:safari  
 **safran** *sahrami* ← arabia:(zaʿfarān), suahili:zafarani, persia:(za'ferân), ranska:turkki:safran, englanti:saffron, espanja:azafrán, portugali:açafrão, venäjä:шафран (šafran)  
 **sagu** *saagopalmu* ← englanti:sago, ranska:sagou, espanja:sagú, portugali:malaiji:sagu, venäjä:саго (sago), arabia: سَاغُو‎ (sāḡū), yleiskiina:西谷米 (xīgúmǐ), japani:サゴ (sago), hindi:सागू (sāgū)  
@@ -1356,7 +1357,6 @@
 **simbol** *tunnus (symboli)* ← englanti:symbol, ranska:symbole, espanja:portugali:símbolo, venäjä:символ (simbol), japani:シンボル (shinboru), malaiji:simbol  
 **simple** *yksinkertainen (mutkaton)* ← englanti:espanja:ranska:simple, portugali:simples, deu:simpel  
 **sin** *merkki (signaali)* ← englanti:sign, espanja:señal, portugali:sinal, ranska:signe  
-**sina** *usko (luottamus)* ← yleiskiina:信 (xìn), kantoninkiina:信 (seon3), japani:信 (shin), vietnami:tin  
 **sine** *rinta* ← persia:(sine), turkki:sine, hindi:सीना (sīnā), bangla:সিনা (sinā), espanja:seno, ranska:sein, latina:sinus  
 **sing** *tähti* ← yleiskiina:星 (xīng), wu-kiina:星 (xing), kantoninkiina:星 (sing1), japani:星 (sei), korea:성 (seong)  
 **singa** *leijona* ← malaiji:singa, hindi:सिंघ (singh), bangla:সিংহ (singh), tamili:சிங்கம் (sinkam), thai:สิง (sing), yleiskiina:狮 (shī), japani:獅子 (shishi), + suahili:simba  
@@ -1617,6 +1617,7 @@
 **yake** *jakki* ← englanti:deu:ranska:espanja:turkki:yak, portugali:iaque, hindi:याक (yāk)  
 **yaki** *noin (arviolta, suunnilleen)* ← korea:약 (yak), japani:約 (yaku), kantoninkiina:約 (yœk), turkki:yaklaşık, yleiskiina:约 (yuē)  
 **yam** *nauttia (syödä, juoda)* ← khmer:ញ៉ាំ (nyam), fulani:nyami, + espanja:ñam, venäjä:ням (nyam), italia:gnam, englanti:yum, korea:냠냠 (nyamnyam), unkari:nyam  
+**yama** *pellava* ← yleiskiina:亚麻 (yàmá), kantoninkiina:亞麻 (aa3maa4), japani:亜麻 (ama), korea:아마 (ama), hindi:उमा (umā)  
 **yang** *laji (tyyppi, tyyli)* ← yleiskiina:样 (yàng), thai:อย่าง (yàang), khmer:យ៉ាង (yaang)  
 **yasen** *saarni* ← venäjä:ясень (yasen’), puola:jesion  
 **yatim** *orpo* ← arabia:persia:(yatim), turkki:yetim, suahili:yatima, hindi:यतीम (yatīm)  

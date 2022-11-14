@@ -29,7 +29,7 @@ Niektóre zauważalne cechy Panduni:
 
 ## Materiały do nauki
 
-- [Mini lekcje z obrazkami](http://www.pandunia.info/pandunia/mini_xule.html)
+- [Mini lekcje z obrazkami](http://www.pandunia.info/pandunia/mini_xula.html)
 - [Kompletna gramatyka](pan.pdf) w pliku PDF
 - [Rozmówki](200_baze_jumla.md)
 - [Lekcje z Dialogami](201_xula.md)

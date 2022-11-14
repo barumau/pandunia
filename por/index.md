@@ -20,7 +20,7 @@ Nota: Esta documentação não está atualizada com a versão final do Pandunia.
 
 ## Junte-se a nós!
 
-- [Pequenas aulas com imagens](http://www.pandunia.info/pandunia/mini_xule.html)
+- [Pequenas aulas com imagens](http://www.pandunia.info/pandunia/mini_xula.html)
 - [Grupo Facebook da pandunia](http://www.facebook.com/groups/pandunia)
 - [Sala de conversa em Telegram](https://t.me/+Q9WyJ-ZLrFEsCXFU)
 - [Servidor do Discord](https://discord.gg/jf5GHcHXKk)

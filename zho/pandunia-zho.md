@@ -170,6 +170,7 @@ baze strute - 基础设施
 bazar - 市场  
 baze - 底部  
 baze bol - 棒球  
+baze sim - 原理  
 baze xulakan - 小学  
 be ais - 结冰  
 be biomute - 发酵  
@@ -887,12 +888,13 @@ kosmo biologi - 太空生物学
 kosmo di - 宇宙的  
 kosmo nave - 太空船  
 kosmo nave ja - 太空人  
+kotumbar - 香菜 (芫荽)  
 krake - 裂缝 (缝隙)  
 kredi - 信赖  
 • ankredija - 不信神的  
 • bekredibil - 忠实  
 kredija - 信徒  
-kredikarte - 信用卡  
+kredi karte - 信用卡  
 krepe - 薄烤饼  
 krikete - 板球  
 kriton - 氪  
@@ -1376,6 +1378,8 @@ rus yum - 钌
 sabi - 会  
 sablu - 沙  
 sabun - 肥皂  
+saf - 干净  
+• ansaf - 脏  
 safar - 旅行  
 safar ceke - 旅行支票  
 sagu - 西谷米  
@@ -1383,9 +1387,8 @@ sahi - 正确
 saide - 狩猎  
 saide ja - 狩人  
 sal - 你好  
+salta - 福利 (福祉)  
 sala - 大厅  
-salam - 迎接  
-salamta - 福利 (福祉)  
 salu - 健康  
 saludo - 健康  
 saluta - 健康  
@@ -1696,6 +1699,8 @@ Yahve - 耶和华 (雅威)
 yam fito - 蔬菜  
 yam liste - 菜单  
 yam yau - 饥饿  
+yama - 亚麻  
+yama seme - 亚麻籽  
 yasen - 白蜡树  
 yatim dom - 孤儿院  
 yau di - 必要的  

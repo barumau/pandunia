@@ -706,11 +706,11 @@ Different scopes of negation may result depending on the location of the negativ
 **mi vide no tu ama damen.**
 – I see, not you, but them.
 
-**mi cing tu safi la kamar.**
+**mi cing tu saf la kamar.**
 – I ask you to clean the room.  
-**mi no cing tu safi la kamar.**
+**mi no cing tu saf la kamar.**
 – I do NOT ask you to clean the room.  
-**mi cing tu no safi la kamar.**
+**mi cing tu no saf la kamar.**
 – I ask you NOT to clean the room.
 
 Particles **ya** and **no** are used also for answering questions.

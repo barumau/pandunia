@@ -353,6 +353,7 @@ baze.di|baze di||||basic|||básico|||||||||||||||||baza|perus-|bazowy, podstawow
 baze.ja|baze ja||||founder|||fundador||||||||||||||||||perustaja|założyciel
 baze.kanun|baze kanun||||consitution|||constitución||||||||||||||||||perustuslaki|konstytucja
 baze.petra|baze petra||||bedrock|||lecho de roca||||||||||||||基盤岩||||peruskallio|skała macierzysta
+baze.sim|baze sim||||principle|Grundsatz (Prinzip)|principe|principio|princípio|принцип||जड़सूत्र|||||prensip (ilke)|||原理|原理|原理|원리|nguyên lí|principo|periaate|zasada
 baze.xula.kan|baze xulakan||||primary school (elementary school, gradeschool)||école primaire|escuela primaria|ensino primário|семилетка||प्राथमिक विद्यालय (प्राइमरी स्कूल)|||sekolah rendah|||||小学||小学校|초등학교 (소학교)||bazlernejo|ala-aste|szkoła podstawowa
 be|be|||zho:被 (bèi), yue:被 (bei6), wuu:被 (bé), jpn:被- (hi-), kor:피— (pi-), vie:bị + eng:be|undergo (passivizing verb)|||sufrir (verbo pasivo)||||||||||||||||||läpikäydä (passiivin muodostava verbi)|być poddanym, doświadczyć, doświadczać (ubierniający czasownik)
 be.ais|be ais||||freeze (get frozen)||geler (glacer)|congelarse (helarse)|gelar|||||||||||结冰||凍る (凍結する)|||glaciiĝi (frostiĝi)|jäätyä|marznąć (zamarznąć)
@@ -1220,6 +1221,7 @@ fa.sabu|fa sabu||||cause (be the cause for)|||causar||||||||||||||||||aiheuttaa 
 fa.safa|fa safa||||clean (purify)|||limpiar||||||||||||||掃く (精げる, 拭く)|||purigi|puhdistaa (siivota)|wyczyścić, czyścić
 fa.safa.va.tela|fa safa va tela||||wipe (clean with a cloth)|||||вытереть||पोंछा|||mengesat (membarut)|||||擦|||||||
 fa.safar|fa safar||||travel|||viajar|||||||||||||||||vojaĝi|matkustaa|podróżować
+fa.sahi|fa sahi||||correct (make right)|||corregir|||||||||||||||||pravigi|korjata (tehdä oikeaksi)|poprawić, poprawiać, prostować, korygować
 fa.saide|fa saide||||hunt (fish)||chasser|cazar (pescar)|caçar|охотиться||||||||||打猎||狩る|||ĉasi|pyytää (metsästää, kalastaa)|polować (łowić)
 fa.salam|fa salam||||greet|||saludar|||||||||||||||||saluti|tervehtiä|pozdrowić, pozdrawiać
 fa.sam.rai|fa sam rai||||agree (concur)|||acordar|||||||||||||||||samopinii (interkonsenti)|olla samaa mieltä|potwierdzić, potwierdzać, zgodzić się, zgadzać się
@@ -1232,7 +1234,6 @@ fa.serve|fa serve||||serve (give service)|||servir||||||||||||||||||palvella (ta
 fa.side|fa side||||sit (put down)|||sentar||сидеть|||||||||||||||sidi|istua|siedzieć
 fa.sifa|fa sifa||||qualify (describe)|||definir||||||||||||||||||määritellä (luonnehtia)|opisać (zakwalifikować)
 fa.sim|fa sim||||advocate (promote, support)|||||||||||||||||||||kannattaa (tukea, edistää)|
-fa.sina|fa sina||||believe|||creer|||||||||||||||||kreda|uskoa (luottaa)|wierzyć
 fa.sing.foto|fa sing foto||||twinkle (sparkle)||étinceler|centellear (titilar)|cintilar|сверкать (мерцать)||||||||||闪烁||ピカピカ光る (きらきらする)||||tuikkia|mruganie (błysk)
 fa.sir|fa sir||||hide (conceal)||cacher|ocultar (esconder)|ocultar (esconder)|скрывать||||||||||隐藏||隠す||||piilottaa (kätkeä)|chować (kryć)
 fa.siro|fa siro||||cancel (nullify, delete, erase)|||cancelar (nulificar, borrar, eliminar)||||||||||||删除 (消除)||消す (キャンセルする)||||nollata|
@@ -1638,7 +1639,7 @@ gona.metri.gi|gona metri gi||||goniometer|||goniómetro (medidor de ángulos)|||
 gorila|gorila|bio||eng:gorilla, fra:gorille, spa:por:may:gorila, rus:горилла (gorilla), ara:غوريلا (ḡūrīlā), jpn:ゴリラ (gorira), kor:고릴라 (gorilla), vie:gôrila, hin:गोरिल्ला (gorillā), ben:গরিলা (gôrila)|gorilla||gorille|gorila|gorila|горилла||वनमानुष (गोरिल्ला)|গরিলা||gorila|غوريلا||ngagi||大猩猩||ゴリラ|고릴라|khỉ đột (gôrila)||gorilla|goryl
 goro|goro|bio||swa:guruwe zul:ingulube, kon:ngulu spa:guarro,gorrino, jpn:(gorogoro) eng:grunt|pig|||cerdo (puerco)|||||||||||||||||porko|sika (possu)|świnia
 goro.nama|goro nama||||pork|||carne de cerdo|||||||||||||||||porkaĵo|sianliha|wieprzowina
-goton|goton|||ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton|cotton||coton|algodón|algodão|хлопок||कपास||||||||棉|||||kotono|puuvilla|bawełna
+goton|goton|bio|Gossypium|ara: قُطُن‎ (quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton, may:katun, jpn:コットン (kotton), kor:코튼 (koteun) + hin:गुड (guḍ)|cotton|Baumwolle|coton|algodón|algodão|хлопок||कपास (गुड)|তুলো|பஞ்சு|kapas (kapuk, katun)|قُطُن‎|pamuk|pamba|auduga|棉||綿糸 (コットン)|면사 (코튼)|bông|kotono|puuvilla|bawełna
 gradu|gradu|||deu:Grad, eng:grade, degree; fra:degré, spa:grado, por:grau, rus:градус (gradus) + zho:度 (dù), yue:度 (dou6), jpn:度 (do), kor:도 (do), vie:độ + ara: دَرَجَة‎ (daraja), hin:दर्जा (darjā), may:darjah; derajat, swa:hau:daraja, tur:derece|step (degree, rank, grade, level, class)|||paso (grado, nivel, rango, calidad, categoría)||||||||||||||||||porras (aste, taso)|stopień, poziom, ranga, klasa
 gradu.di|gradu di||||gradual|||||||||||||||||||||asteittainen (porrastettu)|stopniowy
 gradu.medan|gradu medan||||gradient (gradation, incline)|||||||||||||||||||||kaltevuus|gradient (gradacja, stopniowanie)
@@ -2381,6 +2382,7 @@ koste|koste||||cost (price)|||precio (coste)||||||||||||||||||hinta (maksu)|kosz
 koste.di|koste di||||expensive (costly)||||||||||||||||||||||kosztowny (drogi)
 kote|kote|||eng:coat, swa:koti, orm:koota, jpn:コート (kōto), fas:(kot), hin:कोट (kot)|coat|||abrigo (chaqueta)||||कोट|||||||||||||palto|takki|płaszcz
 Kote.de.Ivar|Kote de Ivar|dexa|CI||Côte d’Ivoire (Ivory Coast)|||Costa de Marfil||||||||||||||||||Norsunluurannikko|Wybrzeże Kości Słowniowej
+kotumbar|kotumbar|bio|Coriandrum sativum|tam: கொத்துமல்லி (kottumalli), tel:కొత్తిమీర (kottimīra), may:ketumbar, scr:कुस्तुम्बरी (kustumbarī), hin:कोथमीर (kothmīr), mar:कोथिंबीर (kothimbīr), ara: كُزْبَرَة‎ (kuzbara)|coriander|Koriander|coriandre|cilantro (coriandro)|coentro|кориандр (кинза)|گشنیز‎|धनिया (कोथमीर)|ধনিয়া|கொத்தமல்லி|ketumbir|كُزْبَرَة‎|kişniş|||香菜 (芫荽)|||고수||koriandro|korianteri|kolendra
 krabe|krabe|bio||eng:crab, deu:Krebs, fra:crabe, rus:краб (krab)|crab||crabe|||краб|||||||yengeç|kaa|||||||krabo|rapu (taskurapu)|krab
 krake|krake|||yue:隙 (gwik1), nan:隙 (kiah4), jpn:隙 (kyaku), vie: khích + eng:crack, fra:craquer, spa:crac|crack (rift)||fente (fissure, fêlure)|raja (grieta)|rachadura|щель (трещина)||||||||||裂缝 (缝隙)||隙間 (ひび)|||||pęknięcie
 kran|kran|||ned:kraan, rus:кран (kran), pol:kran, may:keran|valve (tap, faucet)|||válvula (llave, canilla)||кран|||||keran||||||||||krano (valvo)|hana (venttiili, kraana)|kran (zawór)
@@ -2395,7 +2397,7 @@ kredi-be.bil.ta|• bekredibilta||||loyalty (faithfulness)|||lealtad (fidelidad)
 kredi-sin.ism|• sinkredisim||||synchretism|||||||||||||||||||||synkretismi|
 kredi.bil|kredibil||||credible (believable)|||||||||||||||||||||uskottava|
 kredi.ja|kredija||||believer (religious person)||croyant|creyente|crente|верующий||आस्तिक||||مؤمن|mümin|muumini||信徒||信徒 (信者)|신도 (신자)||kredulo|uskovainen|wierzący (osoba religijna)
-kredi.karte|kredikarte||||credit card||carte de crédit|tarjeta de crédito|cartão de crédito|кредитная карточка||क्रेडिट कार्ड|ক্রেডিট কার্ড||kartu kredit||kredi kartı|||信用卡||クレジットカード|신용 카드|thẻ tín dụng|kreditkarto|luottokortti|karta kredytowa
+kredi.karte|kredi karte||||credit card||carte de crédit|tarjeta de crédito|cartão de crédito|кредитная карточка||क्रेडिट कार्ड|ক্রেডিট কার্ড||kartu kredit||kredi kartı|||信用卡||クレジットカード|신용 카드|thẻ tín dụng|kreditkarto|luottokortti|karta kredytowa
 krem|krem|||fra:crème, por:creme, spa:crema, eng:cream, jpn:クリーム (kurīmu)|cream||crème|crema|crème|||||||||||||クリーム|||kremo|kerma|krem
 krem.di|krem di|rang|||creamy (cream colored)|||cremoso||||||||||||||||||kermankeltainen|kremowy
 krepe|krepe|yam||fra:eng:crêpe, por:crepe, spa:crepa, tur:krep, ita:crespella|pancake||crêpe|panqueque (crepa)|crepe (panqueca)|блин|||||||krep|||薄烤饼||パンケーキ|팬케이크||krepo (patkuko)|lätty (räiskäle, pannukakku)|naleśnik
@@ -2984,7 +2986,7 @@ nahun|nahun|||fas:ناخن‎ (nâxon), hin:नाख़ुन m (nāxun), ben:�
 Naijiria|Naijiria|dexa|NG||Nigeria|||Nigeria|||||||||||||||||Niĝerio|Nigeria|Nigeria
 najis|najis|||ara:نجس (najis), may:najis, swa:najisi, fas:نجس (najes) + eng:najis, rus:наджаса (nadžasa)|corruption (filth, pollution, contamination, najis)||pollution|contaminación (corrupción, porquería, suciedad)|poluição|грязь (скверна)||गंदगी (संदूषक, विकृति, दोष)|||najis (pencemaran, polusi)|||uchafu||污染物||汚れ (汚染)|||||
 najis.bindu|najis bindu||||stain (spot)|||mancha||||||||||||||染み (汚点)|||||
-najis.di|najis di||||dirty (soiled, polluted, defiled, tainted, unclean, impure)|||sucio (corrompido)||||प्रदूषित||||||-chafu||||汚い|||||
+najis.di|najis di||||impure (polluted, defiled, tainted)|||corrompido||||प्रदूषित||||||||||汚い|||||
 nam|nam|||deu:eng:name, fra:nom, hin:नाम (nām), ben:নাম (nam), may:nama, tha:นาม (naam) + jpn:名前 (namae)|name||nom|nombre||имя||नाम|নাম||nama|اِسْم‎|ad (isim)|jina||名||名前|이름 (명칭)|tên|nomo|nimi|imię, nazwa
 nam-an|• annam||||antonym||antonyme|antónimo||антоним|||||antonim||antonim|||||||||vastakohta (antonyymi)|antonim
 nam.dokumen|nam dokumen||||identity document (identification, ID)|||identificación (ID)||ID||||||||||||身分証明書 (ID)|||||
@@ -3677,10 +3679,12 @@ sablu.petra|sablu petra||||sandstone||grès|||||||||||||||砂岩||||hiekkakivi|p
 sablu.stan|sablu stan||||desert|||desierto|||||||||||||||||dezerto|aavikko (hiekkaerämaa)|pustynia
 sabu|sabu|||heb:(sibá), hau:sabo;sababi, kon:sambu, ara:urd:(sabab), tur:sebep, may:sebab, swa:sababu|reason (cause)|||razón (causa)|||||||||||||||||kialo|syy|powód, przyczyna
 sabun|sabun|||fra:savon, spa:jabón, por:sabão, ara: صَابُون‎ (ṣābūn), fas: صابون‎ (sâbun), hin:साबुन (sābun), ben:সাবান (śaban), tel:సబ్బు (sabbu), may:tur:sabun, swa:sabuni, jpn:シャボン (shabon), vie:xà bông|soap|||jabón||||साबुन|||sabun||sabun|sabuni||肥皂|||||sapo|saippua|mydło
-sada|sada|||tur:sade, fas:(sāde), hin:सादा (sādā)|plain (ordinary, unadorned, simple, mere)|||sencillo (liso)||||सादा|||||sade|||||||||koruton (tavanomainen, pelkkä, vain)|zwykły, zwyczajny, prosty
-safa|safa|||ara:صفا (ṣafā), tur:saf, swa:safi, may:safa, hin:साफ़ (sāf), urd:(sāf), ben:চাফা (sapha)|clean (pure)|||limpio||||साफ़|||||||||||||pura|puhdas (siivo, siisti)|czysty
-safa.ja|safa ja||||cleaner|||limpiador|||||||||||||||||purigisto|siivooja|sprzątacz, sprzątacz
-safa.tela|safa tela||||wipe (rag, cleaning cloth)|||trapo (tela para limpiar)||тряпка||||||||||||ワイプ|||||
+sada|sada|||tur:sade, fas:(sāde), hin:सादा (sādā), ben:সাদা (śada), ara: سَاذَج (sāḏaj)|plain (ordinary, unadorned, simple, mere, pure)|bloß|simple|sencillo (liso)|mero|простой (не более чем)||सादा|সাদা|||سَاذَج|sade|||||||||pelkkä (koruton, tavanomainen, vain)|zwykły, zwyczajny, prosty
+saf|saf|||ara: صَفِيّ‎ (ṣafiyy), tur:saf, swa:safi, may:safa, hin:साफ़ (sāf), ben:সাফ (śaph)|clean (pure)|sauber (rein)|net (propre)|limpio|limpo|чистый|پاک‎|साफ़|সাফ (পরিষ্কার)|சுத்தம்|bersih|نَظِيف‎|temiz (arı, saf)|safi (nadhifu)|mai (tsabta)|干净|||||pura|puhdas (siivo, siisti)|czysty
+saf-an|• ansaf||||dirty|schmutzig|sale|sucio|sujo|грязный||गंदा (मैला)|নোংরা||kotor|قَذِر‎|kirli|chafu|dau'da|脏||汚い|더럽다|bẩn thỉu|malpura|likainen|brudny
+saf.ja|safja||||cleaner|||limpiador|||||||||||||||||purigisto|siivooja|sprzątacz, sprzątacz
+saf.ta|safta||||cleanliness (purity)||||||||||||||||||||pureco|puhtaus|
+saf.tela|saf tela||||wipe (rag, cleaning cloth)|||trapo (tela para limpiar)||тряпка||||||||||||ワイプ|||||
 safar|safar|||ara:(safar), hin:सफ़र (safar), tur:sefer, swa:safari, eng:fra:spa:por:deu:may:safari|travel (voyage, trip)|||viaje||||यात्रा (सफ़र)||||||||旅行|||||vojaĝo|matka (reissu)|podróż
 safar.cek|safar ceke||||traveller's cheque (traveler's check)||chèque de voyage|cheque de viajero|cheque de viajante|дорожный чек||||||مُسَافِر شِيك‎||||旅行支票||トラベラーズチェック||||matkašekki|
 safar.ja|safar ja||||traveler|||viajero|||||||||||||||||vojaĝanto|matkailija|podróżnik
@@ -3690,7 +3694,6 @@ safran|safran|||ara:(zaʿfarān), swa:zafarani, fas:(za'ferân), fra:tur:safran,
 sagu|sagu|bio|Metroxylon sagu|eng:sago, fra:sagou, spa:sagú, por:may:sagu, rus:саго (sago), ara: سَاغُو‎ (sāḡū), zho:西谷米 (xīgúmǐ), jpn:サゴ (sago), hin:सागू (sāgū)|sago palm||sagoutier|sagú|sagu|саго||सागू|||pokok sagu|سَاغُو‎||||西谷米||サゴ||||saagopalmu|sago
 sagu.fun|sagu fun||||sago||||||||||sagu|||||||サゴ澱粉||||saagotärkkelys|
 Sahara.Dexa|Sahara Dexa|dexa|||Sahrawi Arab Democratic Republic|||República Árabe Saharaui Democrática|||||||||||||||||||Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna)
-sahi|sahi||||correct (make right)|||corregir|||||||||||||||||pravigi|korjata (tehdä oikeaksi)|poprawić, poprawiać, prostować, korygować
 sahi|sahi|||hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi|right (correct, accurate)||correct (juste)|correcto (justo)|correto (justo)|правильный||सही|||betul (benar)|صَحِيح|doğru|sahihi||正确||正しい|옳다|phải (đúng)|ĝusta (prava)|oikea (paikkansapitävä)|właściwy, poprawny
 saide|saide|||ara:(ṣayd), tur:seyd, urd:صید‎ (said), fas:صید‎ (seyd), heb:ציד‎ (tsayid)|hunting (fishing)|||||||||||||||狩猎||狩り (狩猟)|||ĉasado|pyynti (metsästys, kalastus)|polowanie (łowienie)
 saide.ja|saide ja||||hunter|||cazador||||||||صياد‎||||狩人|||||ĉasisto|pyytäjä (metsästäjä, kalastaja)|łowca (myśliwy)
@@ -3704,17 +3707,10 @@ sal. noc|sal noce||||good night|||||||||||||||||||||hyvää yötä|
 sal. suba|sal suba||||good morning|||buenos días|||||||||||||||||Bonan matenon!|huomenta|dobry ranek
 sal. xam|sal xam||||good evening|||buenas noches|||||||||||||||||Bonan vesperon|hyvää iltaa|dobry wieczór
 sal. yam|sal yam||||bon appetit!|||buen provecho|||||||||||||||||bonan apetiton!|hyvää ruokahalua!|smacznego
+sal.ta|salta||||well-being (prosperity)||bien-être|bienestar|bem-estar|благосостояние||||||||||福利 (福祉)||福利 (福祉)|복리 (복지)|||hyvinvointi|
 sala|sala|||fra:salle, spa:salón, por:salão, deu:Saal, rus:зал (zal), hin:साल (sāl); शाला (śālā), ara: صَالَة‎ (ṣāla), tel:శాల (śāla), khm:សាលា (saalaa)|hall (big room)||salle|salón|salão|зал||साल (शाला)||||صَالَة‎||||大厅||ホール|홀|||sali (halli)|sala
 salade|salade|||fra:salade, may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), khm:សាលាដ (saalaat)|salad|||ensalada||||||||||||||||||salaatti|sałatka
-salam|salam||||greeting (hello)||salut (salam)|saludo|saudação|приветствие||सलाम|সালাম||selamat|سَلَام|selam|salaam (salamu)||迎接||挨拶|인사|lời chào|saluto|tervehdys (terve!)|pozdrowienie
-salam.cuti|salam cuti||||farewell|||adiós|||||||||||||||||bonan vojaĝon|hyvää matkaa|żegnaj, dobre odejście
-salam.di|salam di||||good (prosperous; used in greetings)|||buen (hola)|||||||||||||||||bona (en salutoj)|hyvä (tervehdyksissä)|dobry ...
-salam.dia|salam dia||||Good day|||buenas tardes|||||||||||||||||Bonan tagon|päivää!|dzień dobry
-salam.lai|salam lai||||welcome!|||bienvenido|||||||||||||||||bonvenon!|tervetuloa!|witaj, dobre przybycie
-salam.suba|salam suba||||Good morning|||buenos días|||||||||||||||||Bonan matenon!|Huomenta!|dobry ranek
-salam.ta|salamta||||well-being (prosperity)||bien-être|bienestar|bem-estar|благосостояние||||||||||福利 (福祉)||福利 (福祉)|복리 (복지)|||hyvinvointi|
-salam.xam|salam xam||||Good evening|||buenas noches|||||||||||||||||Bonan vesperon|Hyvää iltaa|dobry wieczór
-salam.yam|salam yam||||bon appetit!|||buen provecho|||||||||||||||||bonan apetiton!|hyvää ruokahalua!|smacznego
+salam|salam||||salaam||salam|||||सलाम|সালাম||selamat|سَلَام|selam|salaam (salamu)||||||||salaam|
 salmon|salmon|bio||eng:may:salmon, spa:salmón, por:salmão, fra:saumon, swa:samoni, jpn:サーモン (sāmon)|salmon (trout)||truite|salmón (trucha)|||||||ikan salmon (ikan trout)|||samoni||||鮭鱒|||||łosoś (pstrąg)
 Salon|Salon|dexa|SL||Sierra Leone|||Sierra Leona||||||||||||||||||Sierra Leone|Sierra Leone
 salu|salu|||fra:spa:por:salubre + ara: سَلَامَة‎ (salāma) + tur:sağlık|healthy||sain|saludable|saudável (saudio)|||||||||||健康||元気 (丈夫)|||sana|terve|zdrowy
@@ -3871,7 +3867,6 @@ sim.ja|sim ja||||advocate (promoter, supporter, adherent)|||||||||||||||||||||ka
 simbol|simbol|||eng:symbol, fra:symbole, spa:por:símbolo, rus:символ (simbol), jpn:シンボル (shinboru), may:simbol|symbol (emblem)||symbole|símbolo|símbolo|символ||प्रतीक|প্রতীক||lambang (simbol)||sembol|||象徵||象徴 (シンボル)|상징|ký hiệu (biểu tượng)|simbolo|tunnus (symboli)|symbol
 simple|simple|||eng:spa:fra:simple, por:simples, deu:simpel|simple (not complicated)|||simple|||||||||||||||||simpla|yksinkertainen (mutkaton)|prosty, nieskomplikowany
 sin|sin|||eng:sign, spa:señal, por:sinal, fra:signe|sign (signal)|||señal (letrero, indicio)||||||||||||||||||merkki (signaali)|znak, sygnał
-sina|sina|||zho:信 (xìn), yue:信 (seon3), jpn:信 (shin), vie:tin|belief (faith, creed)|||creencia (fe)|||||||||||||||||kredo|usko (luottamus)|wiara, wierzenie, kredo
 sine|sine|||fas:(sine), tur:sine, hin:सीना (sīnā), ben:সিনা (sinā), spa:seno, fra:sein, ltn:sinus|chest (breast)|||pecho (seno, tórax)|||||||||||||||||brusto|rinta|pierś
 sine.kasa|sine kasa||||rib cage|||caja torácica|||||||||||||||||torako|rintakehä|klatka piersiowa
 sine.plate|sine plate||||breastplate|||peto||нагрудник|||||||||||||||||napierśnik
@@ -4539,6 +4534,9 @@ yam.liste|yam liste||||menu (bill of fare)||menu (carte)|menú (carta)|cardápio
 yam.sukar.gana|yam sukar gana|bio|Saccharum edule||duruka||||||||||tebu telur||||||||||||cukrowiec jadalny
 yam.xe|yam xe||||food (meal)|||comida||||||||||||||食べ物 (食事)||||ruoka|jedzenie, posiłek
 yam.yau|yam yau||||hunger||faim|hambre|fome|голод||भूख|ক্ষুধা||lapar|جوع‎|açlık|njaa||饥饿||飢え|굶주림|đói|malsato|nälkä|głód
+yama|yama|bio|Linum|zho:亚麻 (yàmá), yue:亞麻 (aa3maa4), jpn:亜麻 (ama), kor:아마 (ama), hin:उमा (umā)|flax (linen)|Flachs (Lein)|lin|lino|linho|лён|کتان‎|अलसी (उमा)|তিসি||flaks|كَتَّان‎|keten|katani||亚麻|亞麻|亜麻|아마|lanh|lino|pellava|
+yama.seme|yama seme||||linseed||graine de lin|linaza|linhaça|льняное семя||||||بَذْر الْكَتَّان‎||||亚麻籽||||||pellavansiemen|
+yama.tela|yama tela||||linen fabric|Leinen||||||||||||||||||||pellavakangas|
 yang|yang|||zho:样 (yàng), tha:อย่าง (yàang), khm:យ៉ាង (yaang)|kind (style, sort, type)|||variedad (tipo, estilo)||||||||||||||タイプ|||speco (tipo, stilo)|laji (tyyppi, tyyli)|rodzaj, typ, styl
 yang-pre.di|preyang di||||classic (classical)|||clásico||||||||||||||古典的||||klassinen|klasyczny
 Yapetus|Yapetus|planeta 6 lun 8|||Iapetus|||||||||||||||||||||Japetus|

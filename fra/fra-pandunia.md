@@ -260,7 +260,7 @@ beurre - bute
 bibliothèque - kitabakan  
 bicyclette - sikle  
 bidonville - harabu mahala  
-bien-être - salamta  
+bien-être - salta  
 bilingue - du baxa di  
 bilingue - dubaxaka  
 billet - tikete  
@@ -380,7 +380,7 @@ carrière - pei kar jiva
 carte (plan) - topo metri grafi  
 carte - karta  
 carte - karte  
-carte de crédit - kredikarte  
+carte de crédit - kredi karte  
 carte à collectionner - jami karte  
 cartographie - karta grafi  
 caserne - ordu jen kan  
@@ -511,6 +511,7 @@ copie - kopi
 coquelicot - medan papi  
 corail - koral  
 corde - kable  
+coriandre - kotumbar  
 corne - korne  
 corps - badan  
 correct (juste) - sahi  
@@ -829,6 +830,7 @@ gombo - bamia
 gorille - gorila  
 goule - gule  
 gouvernement - politi  
+graine de lin - yama seme  
 grand-mère - cin ma  
 grand-père - cin pa  
 granit - granite  
@@ -1051,6 +1053,7 @@ ligne téléphonique - tele fon lin
 ligue (alliance) - liga  
 lilas - lila  
 lime (citron vert) - kaguji limon  
+lin - yama  
 lire - dugu  
 liste - liste  
 lit - bede  
@@ -1240,6 +1243,7 @@ naître (naissance) - nati
 neige - hima  
 Neptune - Neputun  
 neptunium - neputun yum  
+net (propre) - saf  
 neuf (9) - tisa  
 neurone - nerve selu  
 neurotoxine - nerve toxi  
@@ -1527,6 +1531,7 @@ pression atmosphérique - air prese
 pressoir - prese gi  
 pressoir - preser  
 preuve - dalil  
+principe - baze sim  
 prison (geôle) - jelakan  
 problème - problem  
 problématique - problem di  
@@ -1683,11 +1688,12 @@ sagoutier - sagu
 sain - salu  
 saintes écritures  - sante kanon  
 saison - mosim  
+salam - salam  
+sale - ansaf  
 salle - sala  
 salle de bains - banya kamar  
 salle de classe - xula kamar  
 salle de muscu - balakan  
-salut (salam) - salam  
 salut - sal  
 samarium - samari yum  
 samedi - xaniden  
@@ -1750,6 +1756,7 @@ silence - tixta
 silencieux (se taire) - tix  
 silex - hogo seku  
 silicium - silike  
+simple - sada  
 simulation - sam sifa xe  
 situation (état de choses) - xe hal  
 six (6) - luka  

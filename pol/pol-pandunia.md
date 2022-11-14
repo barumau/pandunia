@@ -653,11 +653,13 @@
  - roke kursi  
  - sabi  
  - sablu burge  
- - safa tela  
+ - saf tela  
  - safar ceke  
+ - safta  
  - sagu fun  
  - sal noce  
- - salamta  
+ - salam  
+ - salta  
  - saludo  
  - sam bei  
  - sam metri  
@@ -809,6 +811,9 @@
  - xula kamar  
  - Yahve  
  - yam liste  
+ - yama  
+ - yama seme  
+ - yama tela  
  - Yapetus  
  - yau  
  - yeka  
@@ -1227,6 +1232,7 @@ brodawka - zeyil
 brom - brom  
 broń - vuki  
 broń nuklearna - kerne vuki  
+brudny - ansaf  
 bruk - gola seku  
 brunatnica - kafe alga  
 Brunei Darussalam - Brunei  
@@ -1410,7 +1416,7 @@ czuć (poczuć, postrzegać, wykrywać) - fa sense
 czuć, odczuć, odczuwać - be gamo  
 czwartek - muxinden  
 czyn, uczynek - fate  
-czysty - safa  
+czysty - saf  
 czysty (higieniczny, sanitarny) - salu safa di  
 czytać - dugu  
 cząstka (ziarno, kula, pocisk) - dana  
@@ -1466,12 +1472,9 @@ dioryt - diorite
 dmuchać - fa hava  
 do, dopóki, dla - to  
 dobry - bon  
-dobry ... - salam di  
 dobry los, szczęście - bon zar  
 dobry ranek - sal suba  
-dobry ranek - salam suba  
 dobry wieczór - sal xam  
-dobry wieczór - salam xam  
 dodatkowy - bon max xe  
 dodatkowy - max di  
 doktor (uczony, który osiągnął doktorat) - dotor  
@@ -1552,7 +1555,6 @@ dziewczyna - you ni
 dziewięć (9) - tisa  
 dzień - dia  
 dzień dobry - sal dia  
-dzień dobry - salam dia  
 dzień świętego Jana - Yohan festa  
 dziki - eko gene di  
 dziki - vilde  
@@ -2060,7 +2062,7 @@ karczoch hiszpański - kardon karcof
 karczoch zwyczajny - karcof  
 Karnataka - Karnada  
 karta - karte  
-karta kredytowa - kredikarte  
+karta kredytowa - kredi karte  
 kartka (dokument) - yepa  
 kartografia - karta grafi  
 kasjer - pesa kasa ja  
@@ -2143,6 +2145,7 @@ kolec - dingi
 kolej - tren dau  
 kolekcja, zbiór; zgromadzenie, zebranie - jami  
 kolekcjonować, zebrać, zbierać - fa jama  
+kolendra - kotumbar  
 kolonia, osada - koloni  
 kolonialista - koloni sim ja  
 kolonializm - koloni sim  
@@ -3160,7 +3163,7 @@ popełnić błąd - fa galte
 popiół - hui  
 poporodowy - posnati  
 popołudnie - xam dia  
-poprawić, poprawiać, prostować, korygować - sahi  
+poprawić, poprawiać, prostować, korygować - fa sahi  
 poprawny (wykonalny) - funsibil  
 poprowadzić do (doprowadzić do, powodować) - fa asar  
 poprzedni - pre  
@@ -3215,7 +3218,6 @@ powszechny, uniwersalny - putong
 powtórzyć, powtarzać - fa re  
 powtórzyć, powtarzać - rifete  
 powód, przyczyna - sabu  
-pozdrowienie - salam  
 pozdrowić, pozdrawiać - fa salam  
 poziomy (horyzontalny, boczny) - late di  
 pozostawać w tyle (zwlekać) - be laxe  
@@ -3673,7 +3675,6 @@ skwierczeć - zizi
 skóra - pil  
 slums - harabu mahala  
 smacznego - sal yam  
-smacznego - salam yam  
 smak - guste  
 smakować jak - guste ka  
 smakować, próbować smaku - fa guste  
@@ -3723,7 +3724,7 @@ sprawiedliwy - adil
 sprawić ból, sprawiać ból - fa pasi  
 sprzeciwiać się (opierać się) - xatan  
 sprzedać (sprzedawać) - vende  
-sprzątacz, sprzątacz - safa ja  
+sprzątacz, sprzątacz - safja  
 spróbować, próbować - proba  
 spróbować, próbować - teste  
 spód - nice  
@@ -4184,7 +4185,6 @@ wiadomość, nius - habar
 wiadomość, zawiadomienie, powiadomienie - note anjil  
 wiadro - baldi  
 wiadukt, przejście powyżej - supra  
-wiara, wierzenie, kredo - sina  
 wiatr - hava  
 wiatrak (wentylator) - sanzi  
 wice- (alternatywa, substytut, zastępstwo) - vise  
@@ -4212,7 +4212,6 @@ wieloznaczny - poli semi di
 wielościan - poli fase  
 wieprzowina - goro nama  
 wiercić, borować - fora  
-wierzyć - fa sina  
 wierzący (osoba religijna) - din ja  
 wierzący (osoba religijna) - kredija  
 Wietnam - Viete  
@@ -4235,7 +4234,6 @@ wirus - virus
 wirusologia - virus logi  
 Wisznu - Vixnu  
 witaj, dobre przybycie - sal lai  
-witaj, dobre przybycie - salam lai  
 witamina - vitamin  
 witraż - rang kanca  
 witryna internetowa (portal internetowy) - nete loka  
@@ -4445,6 +4443,7 @@ Zaratusztra - Zardux
 zaratusztrianizm - zardux din  
 zarządzanie (-nomia) - nomi  
 zarządzać (organizować, kierować) - fa nomi  
+zasada - baze sim  
 zaskoczenie - supriza  
 zasmucić (zasmucać) - fa duka  
 zastosować, stosować - fa aplika  
@@ -4633,7 +4632,6 @@ zły, zrujnowany, zepsuty - harabu
 żeglarz (marynarz) - nave ga ja  
 żeglować (płynąć) - nave ga  
 żegnaj, dobre odejście - sal cuti  
-żegnaj, dobre odejście - salam cuti  
 żel, galareta - jele  
 żelazo - fero  
 żeń-szeń - jenxen  

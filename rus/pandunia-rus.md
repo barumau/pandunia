@@ -182,6 +182,7 @@ baze strute - инфраструктура
 bazar - рынок (базар)  
 baze - основа (база,  фундамент)  
 baze bol - бейсбол  
+baze sim - принцип  
 baze xulakan - семилетка  
 be biomute - заквасить  
 be boi - плавать  
@@ -985,6 +986,7 @@ kosmo biologi - астробиология
 kosmo di - космический  
 kosmo nave - космический корабль  
 kosmo nave ja - космонавт  
+kotumbar - кориандр (кинза)  
 krabe - краб  
 krake - щель (трещина)  
 kran - кран  
@@ -993,7 +995,7 @@ kredi - доверять (понадеяться)
 • bekredibil - верный  
 • bekredibilta - верность  
 kredija - верующий  
-kredikarte - кредитная карточка  
+kredi karte - кредитная карточка  
 krepe - блин  
 krikete - крикет  
 kriton - криптон  
@@ -1535,14 +1537,16 @@ ruterfor yum - резерфордий, ²курчатовий
 ## S  
 
 sablu - песок  
-safa tela - тряпка  
+sada - простой (не более чем)  
+saf - чистый  
+• ansaf - грязный  
+saf tela - тряпка  
 safar ceke - дорожный чек  
 safran - шафран  
 sagu - саго  
 sahi - правильный  
+salta - благосостояние  
 sala - зал  
-salam - приветствие  
-salamta - благосостояние  
 salu safata - гигиена  
 sam bei - ровня  
 sam emos - сострадание  
@@ -1901,6 +1905,8 @@ Yahve - Яхве (Иегова)
 yam fito - овощ  
 yam liste - меню  
 yam yau - голод  
+yama - лён  
+yama seme - льняное семя  
 yasen - ясень  
 yatim dom - детский дом  
 yau di - нужный  

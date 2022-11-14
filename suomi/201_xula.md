@@ -344,7 +344,7 @@ rakennetta voi hyödyntää kaikenlaisten kohteliaiden pyyntöjen ilmaisemiseen.
 = Antaisitko teetä.  
 **cing yam cai.**
 = Ottaisitko teetä.  
-**cing safi kamar.**
+**cing saf kamar.**
 = Siivoaisitko huoneen.
 
 Käskyt aloitetaan sanalla
@@ -354,13 +354,13 @@ Käskylauseiden rakenne on sama kuin pyyntölauseiden.
 
 **amir don cai.**
 = Anna teetä!  
-**amir safi kamar.**
+**amir saf kamar.**
 = Siivoa huone!
 
 Käytännössä napakat käskyt voi tehdä myös pelkällä verbillä ja
 käskevällä äänellä.
 
-**safi da!**
+**saf da!**
 = Siivoa se!
 
 
@@ -395,7 +395,7 @@ huone
 käskeä, komentaa  
 **o**
 tai, vai  
-**safi**
+**saf**
 siisti; siistiä, siivota  
 **side**
 istua  
@@ -408,7 +408,7 @@ syödä tai juoda
 1. da yam cai.
 2. la xefe cing da side.
 3. cing yam kafe o cai.
-4. mama cing mi safi kamar.
+4. mama cing mi saf kamar.
 5. xefe side i yam kafe.
 
 
@@ -486,7 +486,7 @@ Tietysti myös yleis- ja erisnimiä voi käyttää kysymyksissä.
 
 **sual xefe yam kafe?**
 = Juoko päällikkö kahvia?  
-**sual papa safi kamar?**
+**sual papa saf kamar?**
 = Siivoaako isä huoneen?  
 **sual niki baxa pandunia?**
 = Puhuuko Niki panduniaa?
@@ -589,11 +589,11 @@ tervehtimisen olemassaolon.
 Panduniassa kieltosana vaikuttaa aina seuraavaan sanaan.
 Siis eri asiat tulevat kielletyksi, kun kieltosanan paikka lauseessa muuttuu.
 
-**mi cing tu safi la kamar.**
+**mi cing tu saf la kamar.**
 = Minä pyydän sinua siivoamaan huoneen.  
-**mi no cing tu safi la kamar.**
+**mi no cing tu saf la kamar.**
 = Minä EN pyydä sinua siivoamaan huonetta.  
-**mi cing tu no safi la kamar.**
+**mi cing tu no saf la kamar.**
 = Minä pyydän sinua ETTET siivoa huonetta.
 
 Kielletty sana voi olla mitä tahansa tyyppiä: verbi, pronomini,
@@ -643,7 +643,7 @@ mutta, vaan
 
 ### Harjoitusten vastaukset
 
-1. da no safi kamar.
+1. da no saf kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
 4. da no ha vaf i mau. / da ha no vaf i no mau.
@@ -805,7 +805,7 @@ tarvita muita aikaa ilmaisevia sanoja.
 
 **mi be gene a nen 2003.**
 = Minä synnyin _vuonna 2003_.  
-**da safi la kamar a pos den.**
+**da saf la kamar a pos den.**
 = Hän siivoa huoneen _huomenna_.
 
 
@@ -842,7 +842,7 @@ maito
 1. mi su xefe festa a xa.
 2. mi ha du vaf a pas.
 3. tu yam supe a zai.
-4. da safi kamar a preden.
+4. da saf kamar a preden.
 5. mau yam milke a posden.
 6. tu su ma festa a prenoce.
 

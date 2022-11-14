@@ -356,6 +356,7 @@ baze di - bazowy, podstawowy
 baze ja - założyciel  
 baze kanun - konstytucja  
 baze petra - skała macierzysta  
+baze sim - zasada  
 baze xulakan - szkoła podstawowa  
 be - być poddanym, doświadczyć, doświadczać (ubierniający czasownik)  
 be ais - marznąć (zamarznąć)  
@@ -1231,6 +1232,7 @@ fa sabu - spowodować, powodować
 fa safa - wyczyścić, czyścić  
 fa safa va tela -   
 fa safar - podróżować  
+fa sahi - poprawić, poprawiać, prostować, korygować  
 fa saide - polować (łowić)  
 fa salam - pozdrowić, pozdrawiać  
 fa sam rai - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
@@ -1243,7 +1245,6 @@ fa serve - służyć
 fa side - siedzieć  
 fa sifa - opisać (zakwalifikować)  
 fa sim -   
-fa sina - wierzyć  
 fa sing foto - mruganie (błysk)  
 fa sir - chować (kryć)  
 fa siro -   
@@ -2401,6 +2402,7 @@ koste - koszt, cena
 koste di - kosztowny (drogi)  
 kote - płaszcz  
 Kote de Ivar - Wybrzeże Kości Słowniowej  
+kotumbar - kolendra  
 krabe - krab  
 krake - pęknięcie  
 kran - kran (zawór)  
@@ -2415,7 +2417,7 @@ kredi - ufać (wierzyć, liczyć, polegać)
 • sinkredisim -   
 kredibil -   
 kredija - wierzący (osoba religijna)  
-kredikarte - karta kredytowa  
+kredi karte - karta kredytowa  
 krem - krem  
 krem di - kremowy  
 krepe - naleśnik  
@@ -3707,9 +3709,11 @@ sablu stan - pustynia
 sabu - powód, przyczyna  
 sabun - mydło  
 sada - zwykły, zwyczajny, prosty  
-safa - czysty  
-safa ja - sprzątacz, sprzątacz  
-safa tela -   
+saf - czysty  
+• ansaf - brudny  
+safja - sprzątacz, sprzątacz  
+safta -   
+saf tela -   
 safar - podróż  
 safar ceke -   
 safar ja - podróżnik  
@@ -3719,7 +3723,6 @@ safran - szafran
 sagu - sago  
 sagu fun -   
 Sahara Dexa - Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna)  
-sahi - poprawić, poprawiać, prostować, korygować  
 sahi - właściwy, poprawny  
 saide - polowanie (łowienie)  
 saide ja - łowca (myśliwy)  
@@ -3733,17 +3736,10 @@ sal noce -
 sal suba - dobry ranek  
 sal xam - dobry wieczór  
 sal yam - smacznego  
+salta -   
 sala - sala  
 salade - sałatka  
-salam - pozdrowienie  
-salam cuti - żegnaj, dobre odejście  
-salam di - dobry ...  
-salam dia - dzień dobry  
-salam lai - witaj, dobre przybycie  
-salam suba - dobry ranek  
-salamta -   
-salam xam - dobry wieczór  
-salam yam - smacznego  
+salam -   
 salmon - łosoś (pstrąg)  
 Salon - Sierra Leone  
 salu - zdrowy  
@@ -3900,7 +3896,6 @@ sim ja -
 simbol - symbol  
 simple - prosty, nieskomplikowany  
 sin - znak, sygnał  
-sina - wiara, wierzenie, kredo  
 sine - pierś  
 sine kasa - klatka piersiowa  
 sine plate - napierśnik  
@@ -4577,6 +4572,9 @@ yam liste -
 yam sukar gana - cukrowiec jadalny  
 yam xe - jedzenie, posiłek  
 yam yau - głód  
+yama -   
+yama seme -   
+yama tela -   
 yang - rodzaj, typ, styl  
 preyang di - klasyczny  
 Yapetus -   

@@ -496,7 +496,7 @@
 **gona** *angulo* ← hindia:कोण (koṇ), teluga:(kōnamu), svahila:kona, angla:corner, haŭsa:kwana, franca:-gone, hispana:portugala:-gono  
 **gorila** ** ← angla:gorilla, franca:gorille, hispana:portugala:malaja:gorila, rusa:горилла (gorilla), araba:غوريلا (ḡūrīlā), japana:ゴリラ (gorira), korea:고릴라 (gorilla), vjetnama:gôrila, hindia:गोरिल्ला (gorillā), bengala:গরিলা (gôrila)  
 **goro** *porko* ← svahila:guruwe zulua:ingulube, konga:ngulu hispana:guarro,gorrino, japana:(gorogoro) angla:grunt  
-**goton** *kotono* ← araba:(quṭun), hispana:algodón, portugala:algodão, franca:coton, angla:cotton  
+**goton** *kotono* ← araba: قُطُن‎ (quṭun), hispana:algodón, portugala:algodão, franca:coton, angla:cotton, malaja:katun, japana:コットン (kotton), korea:코튼 (koteun) + hindia:गुड (guḍ)  
 **gradu** ** ← deu:Grad, angla:grade, degree; franca:degré, hispana:grado, portugala:grau, rusa:градус (gradus) + mandarena:度 (dù), kantona:度 (dou6), japana:度 (do), korea:도 (do), vjetnama:độ + araba: دَرَجَة‎ (daraja), hindia:दर्जा (darjā), malaja:darjah; derajat, svahila:haŭsa:daraja, turka:derece  
 **grafi** *bildo (desegnaĵo)* ← angla:graphic, deu:Grafik, franca:graphique, hispana:portugala:gráfico, rusa:графика (grafika), japana:グラフィック (gurafikku), korea:그래픽 (geuraepik)  
 **granite** ** ← angla:franca:granite, hispana:portugala:granito, rusa:гранит (granit), turka:vjetnama:malaja:granit, araba:جرانيت (jaraniat), hindia:ग्रेनाइट (grenait)  
@@ -792,6 +792,7 @@
 **kosmo** ** ← rusa:космос (kosmos), angla:franca:hispana:cosmos  
 **koso** *tuso* ← rusa:кашель (kašel'), polona:kaszel, bengala:কাশা (kaśa), mandarena:咳嗽 (késou)  
 **kote** *palto* ← angla:coat, svahila:koti, oroma:koota, japana:コート (kōto), persa:(kot), hindia:कोट (kot)  
+**kotumbar** *koriandro* ← tamila: கொத்துமல்லி (kottumalli), teluga:కొత్తిమీర (kottimīra), malaja:ketumbar, scr:कुस्तुम्बरी (kustumbarī), hindia:कोथमीर (kothmīr), marataja:कोथिंबीर (kothimbīr), araba: كُزْبَرَة‎ (kuzbara)  
 **krabe** *krabo* ← angla:crab, deu:Krebs, franca:crabe, rusa:краб (krab)  
 **krake** ** ← kantona:隙 (gwik1), nan:隙 (kiah4), japana:隙 (kyaku), vjetnama: khích + angla:crack, franca:craquer, hispana:crac  
 **kran** *krano (valvo)* ← ned:kraan, rusa:кран (kran), polona:kran, malaja:keran  
@@ -1296,8 +1297,8 @@
 **sablu** *sablo* ← franca:sable, itala:sabbia + mandarena:沙漠 (shā), japana:砂 (sa), korea:사 (sa), vjetnama:sa + hindia:बालू (bālū), bengala:বালু (balu)  
 **sabu** *kialo* ← heb:(sibá), haŭsa:sabo;sababi, konga:sambu, araba:urdua:(sabab), turka:sebep, malaja:sebab, svahila:sababu  
 **sabun** *sapo* ← franca:savon, hispana:jabón, portugala:sabão, araba: صَابُون‎ (ṣābūn), persa: صابون‎ (sâbun), hindia:साबुन (sābun), bengala:সাবান (śaban), teluga:సబ్బు (sabbu), malaja:turka:sabun, svahila:sabuni, japana:シャボン (shabon), vjetnama:xà bông  
-**sada** ** ← turka:sade, persa:(sāde), hindia:सादा (sādā)  
-**safa** *pura* ← araba:صفا (ṣafā), turka:saf, svahila:safi, malaja:safa, hindia:साफ़ (sāf), urdua:(sāf), bengala:চাফা (sapha)  
+**sada** ** ← turka:sade, persa:(sāde), hindia:सादा (sādā), bengala:সাদা (śada), araba: سَاذَج (sāḏaj)  
+**saf** *pura* ← araba: صَفِيّ‎ (ṣafiyy), turka:saf, svahila:safi, malaja:safa, hindia:साफ़ (sāf), bengala:সাফ (śaph)  
 **safar** *vojaĝo* ← araba:(safar), hindia:सफ़र (safar), turka:sefer, svahila:safari, angla:franca:hispana:portugala:deu:malaja:safari  
 **safran** *safrano* ← araba:(zaʿfarān), svahila:zafarani, persa:(za'ferân), franca:turka:safran, angla:saffron, hispana:azafrán, portugala:açafrão, rusa:шафран (šafran)  
 **sagu** ** ← angla:sago, franca:sagou, hispana:sagú, portugala:malaja:sagu, rusa:саго (sago), araba: سَاغُو‎ (sāḡū), mandarena:西谷米 (xīgúmǐ), japana:サゴ (sago), hindia:सागू (sāgū)  
@@ -1356,7 +1357,6 @@
 **simbol** *simbolo* ← angla:symbol, franca:symbole, hispana:portugala:símbolo, rusa:символ (simbol), japana:シンボル (shinboru), malaja:simbol  
 **simple** *simpla* ← angla:hispana:franca:simple, portugala:simples, deu:simpel  
 **sin** ** ← angla:sign, hispana:señal, portugala:sinal, franca:signe  
-**sina** *kredo* ← mandarena:信 (xìn), kantona:信 (seon3), japana:信 (shin), vjetnama:tin  
 **sine** *brusto* ← persa:(sine), turka:sine, hindia:सीना (sīnā), bengala:সিনা (sinā), hispana:seno, franca:sein, latina:sinus  
 **sing** *stelo* ← mandarena:星 (xīng), vua:星 (xing), kantona:星 (sing1), japana:星 (sei), korea:성 (seong)  
 **singa** *leono* ← malaja:singa, hindia:सिंघ (singh), bengala:সিংহ (singh), tamila:சிங்கம் (sinkam), taja:สิง (sing), mandarena:狮 (shī), japana:獅子 (shishi), + svahila:simba  
@@ -1617,6 +1617,7 @@
 **yake** ** ← angla:deu:franca:hispana:turka:yak, portugala:iaque, hindia:याक (yāk)  
 **yaki** ** ← korea:약 (yak), japana:約 (yaku), kantona:約 (yœk), turka:yaklaşık, mandarena:约 (yuē)  
 **yam** *manĝi (trinki)* ← kmera:ញ៉ាំ (nyam), fula:nyami, + hispana:ñam, rusa:ням (nyam), itala:gnam, angla:yum, korea:냠냠 (nyamnyam), hungara:nyam  
+**yama** *lino* ← mandarena:亚麻 (yàmá), kantona:亞麻 (aa3maa4), japana:亜麻 (ama), korea:아마 (ama), hindia:उमा (umā)  
 **yang** *speco (tipo, stilo)* ← mandarena:样 (yàng), taja:อย่าง (yàang), kmera:យ៉ាង (yaang)  
 **yasen** ** ← rusa:ясень (yasen’), polona:jesion  
 **yatim** ** ← araba:persa:(yatim), turka:yetim, svahila:yatima, hindia:यतीम (yatīm)  

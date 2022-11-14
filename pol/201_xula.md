@@ -219,19 +219,19 @@ Zdanie **cing sal da** ma użyteczny wzór, użyteczny przy grzecznych prośbach
 = Proszę, podaj herbatę.  
 **cing yam cai.**
 = Proszę, pij herbatę.  
-**cing safi kamar.**
+**cing saf kamar.**
 = Proszę, sprzątaj pokój.
 
 Rozkazy są wprowadzane z **amir** = rozkazać. Kożystają z takiej samej struktury osiowej, co prośby z **cing**.
 
 **amir don cai.**
 = Daj (mi) herbatę!  
-**amir safi kamar.**
+**amir saf kamar.**
 = Sprzątaj pokój!
 
 W praktyce, bezpośrednie rozkazy mogą być też tworzone tylko jednym czasownikiem i rozkazującym tonem.
 
-**safi da!**
+**saf da!**
 = Sprzątaj to!
 
 
@@ -248,7 +248,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 ### Lista słów
 
-**cai** herbata. **cing** poprosić, prosić. **don** dać, dawać. **xukur** dzięki, dziękuję. **i** i. **kafe** kawa. **kamar** pokój. **amir** rozkazać, rozkazywać. **u** lub. **safi** posprzątać, sprzątać. **sida** siedzieć. **yam** jeść lub pić.
+**cai** herbata. **cing** poprosić, prosić. **don** dać, dawać. **xukur** dzięki, dziękuję. **i** i. **kafe** kawa. **kamar** pokój. **amir** rozkazać, rozkazywać. **u** lub. **saf** posprzątać, sprzątać. **sida** siedzieć. **yam** jeść lub pić.
 
 
 ### Odpowiedzi do Ćwiczeń
@@ -256,7 +256,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 1. da yam cai.
 2. la xefe cing da side.
 3. cing yam kafe o cai.
-4. mama cing mi safi kamar.
+4. mama cing mi saf kamar.
 5. xefe side i yam kafe.
 
 
@@ -326,7 +326,7 @@ Oczywiście, powszechne rzeczowniki i nazwy własne również mogą być używan
 
 **sual xefe yam kafe?**
 – Czy szef pije kawę?  
-**sual papa safi kamar?**
+**sual papa saf kamar?**
 – Czy ojciec sprząta pokój?  
 **sual niki baxa pandunia?**
 – Czy Nicky mówi Pandunia?
@@ -405,11 +405,11 @@ W poprzedniej lekcji nauczyłeś się odpowiadać **ya** i **no** na pytania. S�
 
 Konceptualnie, zdanie przeczące oznacza brak lub nieistnienie przeczonego słowa. W zdaniu **mi no sal tu**, przeczące słowo **no** zaprzecza istnieniu pozdrowienia. W Panduni słowo negujące działa na nastepne słowo. Różne zakresy przeczenia mogą zależeć od lokalizacji słowa negującego.
 
-**mi cing tu safi kamar.**
+**mi cing tu saf kamar.**
 – Ja proszę cię, żebyś sprzątał pokój.  
-**mi no cing tu safi kamar.**
+**mi no cing tu saf kamar.**
 – Ja NIE proszę cię, żebyś sprzątał pokój.  
-**mi cing tu no safi kamar.**
+**mi cing tu no saf kamar.**
 – Ja proszę cię, żebyś NIE sprzątał pokoju.
 
 
@@ -444,7 +444,7 @@ Przetłumacz te zdania z języka polskiego na Pandunię. Czasem istnieje więcej
 
 ### Odpowiedzi do Ćwiczeń
 
-1. da no safi kamar.
+1. da no saf kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
 4. da no ha vaf i mau. / da ha no vaf i no mau.
@@ -571,7 +571,7 @@ Jakiekolwiek określenie czasu jest dobre. Gdy jedno określenie czasu jest obec
 
 **mi be gene a nen 2003.**
 – Urodziłem się w 2003. roku.  
-**da safi la kamar a pos den.**
+**da saf la kamar a pos den.**
 – Posprząta pokój jutro.
 
 
@@ -595,6 +595,6 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 1. mi su xefe festa a xa.
 2. mi ha du vaf a pas.
 3. tu yam supe a zai.
-4. da safi kamar a preden.
+4. da saf kamar a preden.
 5. mau yam milke a posden.
 6. tu su ma festa a prenoce.

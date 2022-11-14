@@ -496,7 +496,7 @@
 **gona** ** ← hin:कोण (koṇ), tel:(kōnamu), swa:kona, eng:corner, hau:kwana, fra:-gone, spa:por:-gono  
 **gorila** *gorila* ← eng:gorilla, fra:gorille, spa:por:may:gorila, rus:горилла (gorilla), ara:غوريلا (ḡūrīlā), jpn:ゴリラ (gorira), kor:고릴라 (gorilla), vie:gôrila, hin:गोरिल्ला (gorillā), ben:গরিলা (gôrila)  
 **goro** ** ← swa:guruwe zul:ingulube, kon:ngulu spa:guarro,gorrino, jpn:(gorogoro) eng:grunt  
-**goton** *algodão* ← ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton  
+**goton** *algodão* ← ara: قُطُن‎ (quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton, may:katun, jpn:コットン (kotton), kor:코튼 (koteun) + hin:गुड (guḍ)  
 **gradu** ** ← deu:Grad, eng:grade, degree; fra:degré, spa:grado, por:grau, rus:градус (gradus) + zho:度 (dù), yue:度 (dou6), jpn:度 (do), kor:도 (do), vie:độ + ara: دَرَجَة‎ (daraja), hin:दर्जा (darjā), may:darjah; derajat, swa:hau:daraja, tur:derece  
 **grafi** ** ← eng:graphic, deu:Grafik, fra:graphique, spa:por:gráfico, rus:графика (grafika), jpn:グラフィック (gurafikku), kor:그래픽 (geuraepik)  
 **granite** *granito* ← eng:fra:granite, spa:por:granito, rus:гранит (granit), tur:vie:may:granit, ara:جرانيت (jaraniat), hin:ग्रेनाइट (grenait)  
@@ -792,6 +792,7 @@
 **kosmo** *cosmo* ← rus:космос (kosmos), eng:fra:spa:cosmos  
 **koso** ** ← rus:кашель (kašel'), pol:kaszel, ben:কাশা (kaśa), zho:咳嗽 (késou)  
 **kote** ** ← eng:coat, swa:koti, orm:koota, jpn:コート (kōto), fas:(kot), hin:कोट (kot)  
+**kotumbar** *coentro* ← tam: கொத்துமல்லி (kottumalli), tel:కొత్తిమీర (kottimīra), may:ketumbar, scr:कुस्तुम्बरी (kustumbarī), hin:कोथमीर (kothmīr), mar:कोथिंबीर (kothimbīr), ara: كُزْبَرَة‎ (kuzbara)  
 **krabe** ** ← eng:crab, deu:Krebs, fra:crabe, rus:краб (krab)  
 **krake** *rachadura* ← yue:隙 (gwik1), nan:隙 (kiah4), jpn:隙 (kyaku), vie: khích + eng:crack, fra:craquer, spa:crac  
 **kran** ** ← ned:kraan, rus:кран (kran), pol:kran, may:keran  
@@ -1296,8 +1297,8 @@
 **sablu** *areia* ← fra:sable, ita:sabbia + zho:沙漠 (shā), jpn:砂 (sa), kor:사 (sa), vie:sa + hin:बालू (bālū), ben:বালু (balu)  
 **sabu** ** ← heb:(sibá), hau:sabo;sababi, kon:sambu, ara:urd:(sabab), tur:sebep, may:sebab, swa:sababu  
 **sabun** ** ← fra:savon, spa:jabón, por:sabão, ara: صَابُون‎ (ṣābūn), fas: صابون‎ (sâbun), hin:साबुन (sābun), ben:সাবান (śaban), tel:సబ్బు (sabbu), may:tur:sabun, swa:sabuni, jpn:シャボン (shabon), vie:xà bông  
-**sada** ** ← tur:sade, fas:(sāde), hin:सादा (sādā)  
-**safa** ** ← ara:صفا (ṣafā), tur:saf, swa:safi, may:safa, hin:साफ़ (sāf), urd:(sāf), ben:চাফা (sapha)  
+**sada** *mero* ← tur:sade, fas:(sāde), hin:सादा (sādā), ben:সাদা (śada), ara: سَاذَج (sāḏaj)  
+**saf** *limpo* ← ara: صَفِيّ‎ (ṣafiyy), tur:saf, swa:safi, may:safa, hin:साफ़ (sāf), ben:সাফ (śaph)  
 **safar** ** ← ara:(safar), hin:सफ़र (safar), tur:sefer, swa:safari, eng:fra:spa:por:deu:may:safari  
 **safran** ** ← ara:(zaʿfarān), swa:zafarani, fas:(za'ferân), fra:tur:safran, eng:saffron, spa:azafrán, por:açafrão, rus:шафран (šafran)  
 **sagu** *sagu* ← eng:sago, fra:sagou, spa:sagú, por:may:sagu, rus:саго (sago), ara: سَاغُو‎ (sāḡū), zho:西谷米 (xīgúmǐ), jpn:サゴ (sago), hin:सागू (sāgū)  
@@ -1356,7 +1357,6 @@
 **simbol** *símbolo* ← eng:symbol, fra:symbole, spa:por:símbolo, rus:символ (simbol), jpn:シンボル (shinboru), may:simbol  
 **simple** ** ← eng:spa:fra:simple, por:simples, deu:simpel  
 **sin** ** ← eng:sign, spa:señal, por:sinal, fra:signe  
-**sina** ** ← zho:信 (xìn), yue:信 (seon3), jpn:信 (shin), vie:tin  
 **sine** ** ← fas:(sine), tur:sine, hin:सीना (sīnā), ben:সিনা (sinā), spa:seno, fra:sein, ltn:sinus  
 **sing** *estrela* ← zho:星 (xīng), wuu:星 (xing), yue:星 (sing1), jpn:星 (sei), kor:성 (seong)  
 **singa** ** ← may:singa, hin:सिंघ (singh), ben:সিংহ (singh), tam:சிங்கம் (sinkam), tha:สิง (sing), zho:狮 (shī), jpn:獅子 (shishi), + swa:simba  
@@ -1617,6 +1617,7 @@
 **yake** ** ← eng:deu:fra:spa:tur:yak, por:iaque, hin:याक (yāk)  
 **yaki** ** ← kor:약 (yak), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)  
 **yam** ** ← khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam  
+**yama** *linho* ← zho:亚麻 (yàmá), yue:亞麻 (aa3maa4), jpn:亜麻 (ama), kor:아마 (ama), hin:उमा (umā)  
 **yang** ** ← zho:样 (yàng), tha:อย่าง (yàang), khm:យ៉ាង (yaang)  
 **yasen** *freixo* ← rus:ясень (yasen’), pol:jesion  
 **yatim** ** ← ara:fas:(yatim), tur:yetim, swa:yatima, hin:यतीम (yatīm)  

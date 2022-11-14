@@ -365,11 +365,11 @@ Se vaikuttaa aina vain seuraavaan sanaan.
 **mi vide no tu ama damen.**
 = Minä näen, en sinua, vaan heidät.
 
-**mi cing tu safi la kamar.**
+**mi cing tu saf la kamar.**
 – Minä pyydän sinua siivoamaan huoneen.  
-**mi no cing tu safi la kamar.**
+**mi no cing tu saf la kamar.**
 – Minä en pyydä sinua siivoamaan huonetta.  
-**mi cing tu no safi la kamar.**
+**mi cing tu no saf la kamar.**
 – Minä pyydän sinua olemaan siivoamatta huonetta.
 
 

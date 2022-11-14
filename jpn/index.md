@@ -27,7 +27,7 @@ hide:
 - [基本](baze.md) 初心者向けに短くまとめられています。
 - [対話形式のレッスン](201_shula.md)
 - [単語帳形式の学習とクイズ](https://lingopolo.org/pandunia/) Lingopolo を利用しています。
-- [絵を用いたミニレッスン](http://www.pandunia.info/pandunia/mini_xule.html)
+- [絵を用いたミニレッスン](http://www.pandunia.info/pandunia/mini_xula.html)
 - [フレーズ集](200_baze_jumla.md)
 - [つづり](102_ABC.md) と [文法](100_baze_kanun.md)
 

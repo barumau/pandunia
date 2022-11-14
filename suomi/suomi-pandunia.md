@@ -781,7 +781,6 @@ huomata (hoksata) - note
 huomauttaa - fa note  
 huomautus - note anjil  
 huomenta - sal suba  
-Huomenta! - salam suba  
 huominen - pos den  
 huomio (kommentti, merkintä) - note xe  
 huone - kamar  
@@ -806,9 +805,8 @@ hyttynen (sääski) - moski
 hyve - bon moral  
 hyveellinen (hyvä) - bon moral di  
 hyvin (sangen) - tre  
-hyvinvointi - salamta  
+hyvinvointi - salta  
 hyvä (eettisesti hyvä) - eu  
-hyvä (tervehdyksissä) - salam di  
 hyvä - bon  
 hyvä onni (tuuri, säkä, lykky) - bon zar  
 hyväksyä (hyväksyntä, OK) - oke  
@@ -816,11 +814,8 @@ hyväksyä - bon rai
 hyväksyä - fa oke  
 hyvännäköinen (kaunis, komea) - bon vide di  
 hyvää iltaa - sal xam  
-Hyvää iltaa - salam xam  
 hyvää matkaa - sal cuti  
-hyvää matkaa - salam cuti  
 hyvää ruokahalua! - sal yam  
-hyvää ruokahalua! - salam yam  
 hyvää yötä - sal noce  
 hyytelö - jele  
 hyödyllinen - faida di  
@@ -1456,11 +1451,12 @@ koralli - koral
 Korea - cosen  
 korealainen - cosen di  
 kori - baske  
+korianteri - kotumbar  
 koripallo - baske bol  
 koristella - fa mei daka  
 korjaaja - xuli ja  
 korjata (ennallistaa) - repar  
-korjata (tehdä oikeaksi) - sahi  
+korjata (tehdä oikeaksi) - fa sahi  
 korjata - fa xuli  
 korjaus - xuli  
 korkata - antapa  
@@ -1472,7 +1468,6 @@ korkittaa (tukkia) - fa tapa
 koronavirus - korona virus  
 korottaa - dai gradu  
 kortti - karte  
-koruton (tavanomainen, pelkkä, vain) - sada  
 korva - ore  
 korvata - fa vise  
 korvatulehdus - ore tis  
@@ -1795,6 +1790,7 @@ liitto (unioni) - un ta liga
 liittosopimus - kon trati  
 liittää - fa liga  
 likainen (mutainen) - darti di  
+likainen - ansaf  
 lilja - susan  
 limonadi - limon jus  
 linja (viiva, lanka, liina, naru, köysi) - lin  
@@ -1859,7 +1855,7 @@ luota (lähtien, -sta, -lta) - de
 luotettava - amenbil  
 luotettavuus - amenbilta  
 luottaa (pitää varmana) - amen  
-luottokortti - kredikarte  
+luottokortti - kredi karte  
 lupaava (hyvältä vaikuttava) - bon sin di  
 lupaus (vala) - vode  
 lusikka - camaca  
@@ -2583,6 +2579,10 @@ Peking (Beijing) - Beijing
 pelaaja - geme ja  
 pelata - fa geme  
 peli - geme  
+pelkkä (koruton, tavanomainen, vain) - sada  
+pellava - yama  
+pellavakangas - yama tela  
+pellavansiemen - yama seme  
 pelokas - fobi di  
 pelottaa - fa fobi  
 pelottava - fobi ja  
@@ -2591,6 +2591,7 @@ penkki - benci
 pensseli (sivellin) - pente broxa  
 perhe - famili  
 perhonen - pelpel  
+periaate - baze sim  
 perimä (genotyyppi) - gene tipe  
 perintö - varite  
 perjantai - zukraden  
@@ -2771,7 +2772,7 @@ pudota (tipahtaa) - pada
 pudottaa - fa pada  
 Puerto Rico - Portoriko  
 puertoricolainen - portoriko jen  
-puhdas (siivo, siisti) - safa  
+puhdas (siivo, siisti) - saf  
 puhdistaa (siivota) - fa safa  
 puhelias - loga tabi di  
 puhelin - fon  
@@ -2780,6 +2781,7 @@ puhelinjohto - tele fon lin
 puhelinkoppi - tele fon bude  
 puhelinnumero - tele fon nume  
 puhelintekniikka - tele fon suta  
+puhtaus - safta  
 puhua (kieli, kommunikaatio) - baxa  
 puhua (puhe) - loga  
 puhuttu (sanallinen) - loga di  
@@ -2858,7 +2860,6 @@ päiväntasaaja - geo par lin
 Päiväntasaajan Guinea - Geo Par Lin Ginia  
 päivänvalo - dia foto  
 päivää! - sal dia  
-päivää! - salam dia  
 pää - sar  
 pää- - xefe di  
 pääkallo - sar oste  
@@ -3068,6 +3069,7 @@ sakkaroosi - sukros
 Saksa - Doice  
 saksalainen - doice di  
 sakset - makas  
+salaam - salam  
 salaatti - salade  
 salainen - sir  
 salama - eletro radi  
@@ -3195,7 +3197,7 @@ siirappi - xirope
 siirtää taakse - pos poza  
 siirtää taakse - pospoze  
 siitin (penis) - penis  
-siivooja - safa ja  
+siivooja - safja  
 sija (taso, ranking, dan) - dan  
 sijaita - be loka  
 sika (possu) - goro  
@@ -3595,10 +3597,8 @@ terrorismi - teror sim
 terroristi - teror sim ja  
 terve (hei) - sal  
 terve - salu  
-tervehdys (terve!) - salam  
 tervehtiä - fa salam  
 tervetuloa! - sal lai  
-tervetuloa! - salam lai  
 terveys (hyvinvointi) - saluta  
 terveys (kunto) - saludo  
 tesla (T) - tesla  
@@ -3845,8 +3845,6 @@ urheilu - esporte
 uros (mies) - nan  
 Uruguai - Uruguai  
 usein - a poli mar  
-usko (luottamus) - sina  
-uskoa (luottaa) - fa sina  
 uskoa (luottaa) - kredi  
 uskomaton - ankredibil  
 uskonnollinen - din di  

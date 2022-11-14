@@ -269,6 +269,7 @@ baze strute - infrastructure
 bazar - marché (bazar)  
 baze - base  
 baze bol - baseball  
+baze sim - principe  
 baze xulakan - école primaire  
 be ais - geler (glacer)  
 be biomute - fermenter  
@@ -1090,12 +1091,13 @@ kosmo biologi - astrobiologie
 kosmo di - cosmique  
 kosmo nave - vaisseau spatial  
 kosmo nave ja - cosmonaute  
+kotumbar - coriandre  
 krabe - crabe  
 krake - fente (fissure, fêlure)  
 kredi - fier  
 • ankredija - infidèle (incroyant)  
 kredija - croyant  
-kredikarte - carte de crédit  
+kredi karte - carte de crédit  
 krem - crème  
 krepe - crêpe  
 krepekan - crêperie  
@@ -1674,15 +1676,18 @@ ruterfor yum - rutherfordium
 sabi - savoir  
 sablu - sable  
 sablu petra - grès  
+sada - simple  
+saf - net (propre)  
+• ansaf - sale  
 safar ceke - chèque de voyage  
 safar keka ja - touriste  
 sagu - sagoutier  
 sahi - correct (juste)  
 sake - sac  
 sal - salut  
+salta - bien-être  
 sala - salle  
-salam - salut (salam)  
-salamta - bien-être  
+salam - salam  
 salmon - truite  
 salu - sain  
 saludo - santé  
@@ -2033,6 +2038,8 @@ Yahve - Yahweh (Jéhovah)
 yam fito - légume  
 yam liste - menu (carte)  
 yam yau - faim  
+yama - lin  
+yama seme - graine de lin  
 yasen - frêne  
 yatim dom - orphelinat  
 • anyau di - inutile  

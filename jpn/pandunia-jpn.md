@@ -134,6 +134,7 @@ baze strute - インフラストラクチャー
 bazar - 市場 (マーケット, バザー)  
 baze bol - 野球  
 baze petra - 基盤岩  
+baze sim - 原理  
 baze xulakan - 小学校  
 be ais - 凍る (凍結する)  
 be biomute - 熟成する (発酵する)  
@@ -580,6 +581,7 @@ gola longta - 周囲長
 gola seku - 丸石 (玉石, 栗石)  
 gomu - ゴム (消しゴム)  
 gorila - ゴリラ  
+goton - 綿糸 (コットン)  
 gradu mute - 発展 (開発)  
 grafi culi - 画像処理  
 grafi fineta - 解像度  
@@ -887,7 +889,7 @@ kredi - 信頼する
 • ankredija - 不信者  
 • bekredibil - 忠実  
 kredija - 信徒 (信者)  
-kredikarte - クレジットカード  
+kredi karte - クレジットカード  
 krem - クリーム  
 krepe - パンケーキ  
 krikete - クリケット  
@@ -1392,15 +1394,15 @@ ruterfor yum - ラザホージウム
 
 sablu - 砂  
 sablu petra - 砂岩  
-safa tela - ワイプ  
+• ansaf - 汚い  
+saf tela - ワイプ  
 safar ceke - トラベラーズチェック  
 sagu - サゴ  
 sagu fun - サゴ澱粉  
 sahi - 正しい  
 saide - 狩り (狩猟)  
+salta - 福利 (福祉)  
 sala - ホール  
-salam - 挨拶  
-salamta - 福利 (福祉)  
 salmon - 鮭鱒  
 salu - 元気 (丈夫)  
 saludo - 健康  
@@ -1712,6 +1714,7 @@ yam - 食べる
 yam liste - メニュー (献立)  
 yam xe - 食べ物 (食事)  
 yam yau - 飢え  
+yama - 亜麻  
 yang - タイプ  
 preyang di - 古典的  
 yasen - 秦皮  

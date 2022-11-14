@@ -343,7 +343,7 @@ est un modèle très utile pour les formules de politesses.
 = S'il vous plaît, donnez-moi du thé. 
 **cing yam cai.**
 = S'il vous plaît, prenez un peu de thé.  
-**cing safi kamar.**
+**cing saf kamar.**
 = Nettoyez la chambre s'il vous plaît
 
 Les ordres sont données avec
@@ -353,13 +353,13 @@ Les ordres sont données avec
 
 **amir don cai.**
 = Donnez-moi du thé !  
-**amir safi kamar.**
+**amir saf kamar.**
 = Nettoiez la chambre !
 
 En pratique, les ordres directs peuvent aussi s'exprimer au moyen
 d'un seul verbe et d'un ton autoritaire.
 
-**safi da!**
+**saf da!**
 = Nettoie-le/la !
 
 
@@ -394,7 +394,7 @@ café
 chambre, pièce  
 **o**
 ou  
-**safi**
+**saf**
 nettoyer  
 **side**
 s'asseoir (être assis)  
@@ -407,7 +407,7 @@ manger ou boire, consommer
 1. da yam cai.
 2. la xefe cing da side.
 3. cing yam kafe o cai.
-4. mama cing mi safi kamar.
+4. mama cing mi saf kamar.
 5. xefe side i yam kafe.
 
 
@@ -481,7 +481,7 @@ Bien sûr, les noms communs et les noms propres peuvent aussi être utilisés.
 
 **sual xefe yam kafe?**
 = Est-ce que le chef prend du café ?  
-**sual papa safi kamar?**
+**sual papa saf kamar?**
 = Le père nettoie-t-il la chambre ?  
 **sual niki baxe pandunia?**
 = Est-ce que Nicky parle le Pandunia ?
@@ -591,11 +591,11 @@ le mot **no** nie l'existence de la salutation.
 En Pandunia, la négation affecte le mot qui le suit ;
 le sens de la phrase change donc selon l'emplacement du **no**.
 
-**mi cing tu safi la kamar.**
+**mi cing tu saf la kamar.**
 = Je te demande de nettoyer la chambre.  
-**mi no cing tu safi la kamar.**
+**mi no cing tu saf la kamar.**
 = Je ne te demande pas de nettoyer la chambre.  
-**mi cing tu no safi la kamar.**
+**mi cing tu no saf la kamar.**
 = Je te demande de ne pas nettoyer la chambre.
 
 
@@ -646,7 +646,7 @@ mais
 
 ### Réponses aux exercices
 
-1. da no safi kamar.
+1. da no saf kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
 4. da no ten vaf i mau. / da ten no vaf i no mau.
@@ -808,7 +808,7 @@ Lorsqu'une expression temporelle est présente, les autres marqueurs de temps ne
 
 **mi be jene a nen 2003.**
 = Je suis né en 2003.  
-**da safi la kamar a pos den.**
+**da saf la kamar a pos den.**
 = Il nettoiera la chambre demain.
 
 
@@ -856,7 +856,7 @@ lait
 1. mi su xefe festa na xa.
 2. mi ten du vaf na pas.
 3. tu yam supe na zai.
-4. da safi kamar a pre den.
+4. da saf kamar a pre den.
 5. mau yam milke na pos den.
 6. tu su mama festa a prenoce.
 
