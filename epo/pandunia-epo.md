@@ -104,8 +104,8 @@ asparge - asparago
 astro - astro  
 astro nave ja - astronaŭto  
 astro nomi ja - astronomo  
-ati - ago  
 Athina - Ateno  
+ati - ago  
 • reation - reakcio (reago  
 • ation - agado  
 • atir - aganto  
@@ -548,8 +548,6 @@ fa eskulte - skulti
 fa fantazi - fantaci  
 fa fei - flugi  
 fa fen - dividi  
-fa fen gata - analizi  
-fa festa - festi  
 fa fikir - pensi  
 fa fin - fini  
 fa fobi - timigi  
@@ -560,7 +558,6 @@ fa fuku - vestigi
 fa fuku - vesti (surporti)  
 fa gami - edzigi  
 fa geme - ludi  
-fa gene - naskigi  
 fa gola - ĉirkaŭi  
 fa grafi - desegni  
 fa guste - gustumi  
@@ -589,6 +586,7 @@ fa long - longigi
 fa maf - pardoni  
 fa marce - promeni (marŝi)  
 fa memo - memori  
+fa nati - naskigi  
 fa nia - celi  
 fa parti - partopreni  
 fa pente - pentri  
@@ -640,10 +638,11 @@ faxa sim ja - faŝisto
 febre - febro  
 fei - flugo  
 fen - parto (frakcio)  
-fen gata - analizo  
+fen lize - analizo  
 • prefere - preferi (pliŝati)  
 fermi yum - fermio  
 fero - fero  
+festa - festi  
 festa - festo  
 fete - fari (faro, fakto)  
 • infete - infekto  
@@ -708,8 +707,6 @@ fungu - fungo
 funsi - funkcii  
 furete - furo  
 furita - kolero (furiozo)  
-futa - graso  
-futa di - grasa  
 fute - piedo  
 fute bol - piedpilko  
 
@@ -850,6 +847,7 @@ hata di - eĉ
 hatar - danĝero  
 hatar di - danĝera  
 hava - vento  
+haxi - haŝio (kvajzo)  
 he - ĉu?  
 Helen - Grekio  
 Helen di - greka  
@@ -1047,6 +1045,7 @@ kanun - lego
 kanun vala - advokato  
 kape - kapti  
 • konkar - kunlabori  
+kargi - ilo  
 karja - laboristo  
 karkan - laborejo  
 kar lexi - verbo  
@@ -1121,7 +1120,7 @@ koda - vosto
 kode - kodo  
 koko - koko  
 kolum - kolono  
-komal - mola  
+koma - komo  
 kompani - kompanio (firmao)  
 kon - kun (kuna, komuna)  
 kon bon - kongrui  
@@ -1178,6 +1177,7 @@ kupre - kupro
 kurban - ofero  
 kuri yum - kuriumo  
 kursi - seĝo  
+kurta - robo  
 kurva - kurbo  
 
 ## L  
@@ -1220,6 +1220,8 @@ lin - lineo (ŝnuro)
 lin so - fibro  
 linke - rilato  
 linse - linko  
+lipi - graso  
+lipi di - grasa  
 lis - glata  
 lisan - lango  
 liste - listo  
@@ -1411,6 +1413,7 @@ nama - viando
 Namibia - Namibio  
 nan - viro  
 nanas - ananaso  
+naram - mola  
 narko - drogo  
 nati - naski (nasko)  
 natia medi - internacia  
@@ -1442,9 +1445,9 @@ nerve selu - neŭrono
 nete - reto  
 neu - novaĵo  
 neu di - nova  
-neu gene di - novnaskita  
 neu jen - novulo  
 neu loga - neologismo  
+neu nati di - novnaskita  
 neuta - noveco  
 ni - ino  
 nia - celo  
@@ -1860,6 +1863,7 @@ Tanzania - Tanzanio
 tasa - plado  
 tatu - tatuo  
 tava - pato  
+taxe nomi - taksonomio  
 taxi vala - taksiisto  
 taza - freŝa  
 tehni - tekniko  
@@ -1917,13 +1921,11 @@ tuale kamar - necesejo
 tubo - tubo  
 tufan - ŝtormo  
 tuh - sputi  
-tul - ilo  
 Tule - Tuleo  
 tule yum - tulio  
 tundra - tundro  
 tunel - tunelo  
 tunel tren - metroo  
-tunika - robo  
 tupi - ĉapelo  
 turfa - torfo  
 Turki - Turkio  
@@ -1967,6 +1969,7 @@ vanu - amuzo
 vanu di - amuza  
 varis - rizo  
 vate - vato  
+vava - plori  
 vaxi - lavi  
 ventur - aventuro  
 ventur ja - aventuristo  

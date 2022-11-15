@@ -92,8 +92,8 @@ astro nave - astronave
 astro nave ja - astronauta  
 astro nomi - astronomia  
 astro nomi ja - astrónomo  
-ati - ato  
 Athina - Atenas  
+ati - ato  
 • dusati - malfeitoria (pecado)  
 • reati - reagir  
 • reation - reação  
@@ -483,7 +483,7 @@ fatu di - penal
 fatura - conta (fatura)  
 fei - voo  
 fen - parte  
-fen gata - análise  
+fen lize - análise  
 fenol - fenol  
 • infere - inferir  
 • prefere - preferir  
@@ -645,6 +645,7 @@ haste - pressa
 • anhaste - lento  
 hata - até  
 hatar - perigo  
+haxi - pauzinho (hashi)  
 hazin - armazenar  
 hazinkan - armazém  
 heli yum - hélio  
@@ -756,6 +757,7 @@ jovar - sorgo
 juba - manto  
 jude ja - juiz  
 jul - joule (J)  
+jumla logi - sintaxe  
 jun - jovem  
 jus - suco (sumo)  
 juste - exato (preciso)  
@@ -883,6 +885,7 @@ klor - cloro
 koala - coala  
 kobalte - cobalto  
 kolum - poste (coluna)  
+koma - vírgula  
 komputa di - digital  
 kon - com (comum)  
 kon bon - combinar com  
@@ -933,6 +936,7 @@ kupre - cobre
 kurban - sacrifício  
 kuri yum - cúrio  
 • prekurser - precursor  
+kurta - túnica  
 kurva - curva  
 
 ## L  
@@ -992,6 +996,7 @@ linke - conexão (vínculo, laço)
 linse - lince  
 lipa bano - prateleira (estante)  
 lipa side - agacharse  
+lipi - gordura  
 lisan - língua  
 liste - lista  
 lito yum - lítio  
@@ -1202,9 +1207,9 @@ nerve selu - neurônio
 nerve toxi - neurotoxina  
 neu - novidade  
 neu di - novo  
-neu gene di - recém-nascido  
 neu jen - novato (neófito)  
 neu loga - neologismo  
+neu nati di - recém-nascido (neonato)  
 neuta - novidade  
 ni per (fem) - esposa  
 nia - intenção  
@@ -1582,6 +1587,9 @@ tala - fechadura
 tali yum - tálio  
 tana - haste (talo, caule)  
 tantal yum - tântalo  
+tatika - tática  
+• sintaxe - sintaxe  
+taxe nomi - taxonomia (taxinomia)  
 taxi metri gi - taxímetro  
 taxi vala - taxista  
 tehni - técnica  
@@ -1613,6 +1621,7 @@ tomate - tomate
 • dutomi - dicotomia  
 • jivatomi - vivisecção  
 • tomi grafi - tomografia  
+ton - tom  
 topo grafi - topografia  
 topo metri grafi - carta geográfica  
 tor yum - tório  
@@ -1634,6 +1643,7 @@ tuale - toalha
 tuale kaguji - papel higiênico  
 tuale kamar - lavatorio (toalete)  
 tule yum - túlio  
+tulpan - túlipa  
 turbe - molestar (perturber)  
 • disturbe - perturbar (turbulência)  
 turbejeter - turbojato  
@@ -1681,7 +1691,9 @@ valu - valor (valia)
 vampir - vampiro  
 vanadi yum - vanádio  
 vari - vários  
+varibil - variável  
 varis - arroz  
+vava - chorar  
 vende - vender  
 ventur - aventura  
 ventur ja - aventureiro  
@@ -1744,6 +1756,7 @@ xia islam din - xiismo
 xikaya - queixa (lamento, reclamação)  
 xilos - xilose  
 xipi - molhado  
+xirope - xarope  
 xite - merda  
 xiti - perder  
 xiti bai ja - perdedor  
@@ -1787,6 +1800,7 @@ yepa - folha
 yepa alga - kelp  
 yepa late - página  
 Yesa Mesi - Jesus Cristo  
+yoga - ioga  
 yogo - jugo  
 yogur - iogurte  
 you - infantil (imaturo)  

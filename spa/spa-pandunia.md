@@ -190,7 +190,7 @@ ampolla (vial) - ampul
 América - Amerika  
 anaeróbico - anair bio di  
 anal - anus di  
-analizar (disecar) - fa fen gata  
+analizar (análisis) - fen lize  
 anaranjado - oranje rang  
 ancho - kuan  
 anchoa - ancovi  
@@ -224,8 +224,7 @@ Antillas Neerlandesas - Nederlande Antil
 antimonio - estibi yum  
 antorcha - fotokane  
 antónimo - annam  
-análisis (disección) - fen gata  
-análisis de datos - data fen gata  
+análisis de datos - data fen lize  
 anís - anis  
 anón (ates, saramuyo) - ata  
 aparecer - be zai  
@@ -452,7 +451,7 @@ bisexual - du sexe di
 bismuto - bismute  
 bisonte - bison  
 blanco - baku  
-blando (mullido) - komal  
+blando (mullido) - naram  
 blog - bloge  
 bloquearse (colgarse, fallar) - be harabu  
 boca - boka  
@@ -680,7 +679,7 @@ cebada - jau
 cebolla - piaze  
 cebra - zebra  
 celebración (fiesta) - festa  
-celebrar (festejar) - fa festa  
+celebrar (festejar) - festa  
 celeste (azul celeste) - sama nil  
 celeste (celestial) - sama di  
 celoso - garde zelo  
@@ -1062,7 +1061,7 @@ dado - zar kube
 damas - dama geme  
 danés - Danske  
 dar - don  
-dar a luz (enngendrar, parir, procrear) - fa gene  
+dar a luz (enngendrar, parir, procrear) - fa nati  
 darmstatio - darmestadi yum  
 darse cuenta (notar) - fa budi  
 darwinismo - darvin sim  
@@ -1726,8 +1725,8 @@ Granadinas - Grenadin nesi
 grande - dai  
 granito - granite  
 granjero (agricultor) - agrija  
-grasa - futa  
-graso (adiposo) - futa di  
+grasa - lipi  
+graso (adiposo) - lipi di  
 gratitud - xukurta  
 grava - grave  
 gravar (cobrar tasas) - kape yo taxi  
@@ -1811,7 +1810,7 @@ hermano - bra
 hermano mayor - sen bra  
 hermano o hermana - sau  
 hermoso (bello, lindo) - mei  
-herramienta - tul  
+herramienta - kargi  
 herrero - metal sanaja  
 hervidor (tetera) - ketel  
 hervir (cocer) - boli  
@@ -2245,6 +2244,7 @@ lleno (completo) - pul
 llevar (verstirse) - fa fuku  
 llorar - be duka  
 llorar - uhu  
+llorar - vava  
 lluvia - barxa  
 lo lejos - tele  
 lo menos - minim  
@@ -2634,7 +2634,7 @@ negro - kala
 nenúfar (lirio de agua) - nenufar  
 neodimio - neodim yum  
 neologismo - neu loga  
-neonato (recién nacido) - neu gene di  
+neonato (recién nacido) - neu nati di  
 Nepal - Nepal  
 neptunio - neputun yum  
 Neptuno - Neputun  
@@ -2817,6 +2817,7 @@ paladio - paladi yum
 palanca - tire kane  
 Palaos - Palau  
 Palestina - Filistin  
+palillos - haxi  
 palmera - palma  
 palpar (tocar) - tocu sense  
 pan - pang  
@@ -3163,7 +3164,7 @@ prometer (comprometerse) - fa vode
 prometer - promisi  
 prometio - promete yum  
 pronombre - vise loga  
-pronto - sun  
+pronto - a korte  
 pronunciar (articular) - fa fon  
 propiedad - mal  
 proponente (defensor) - mede ja  
@@ -3460,7 +3461,7 @@ salud - saludo
 salud - saluta  
 saludable - salu  
 saludar - fa salam  
-salvaje - eko gene di  
+salvaje - eko nati di  
 salvaje - vilde  
 salón - sala  
 salón de té - caikan  
@@ -3565,6 +3566,8 @@ simular - fa sam sifa
 sin amigos - dosti hin  
 Singapur - Singapur  
 sino - alo di  
+sintaxis - jumla logi  
+sintaxis - sintaxe  
 sintoísmo - xindau din  
 Siria - Suria  
 sismología - sismo logi  
@@ -3698,6 +3701,7 @@ tasa de fotogramas - grafi sugata
 tatuaje - tatu  
 taxi (cab) - taxi gar  
 taxista (taximetrista) - taxi vala  
+taxonomía - taxe nomi  
 Tayikistán - Tajiki  
 taza de café - kafe kupa  
 taza de té - cai kupa  
@@ -3864,7 +3868,7 @@ Turkmenistán - Turkomen
 turquesa (piedra preciosa) - firuze  
 Turquía - Turki  
 Tuvalu - Tuvalu  
-táctica (estrategia) - tatike  
+táctica - tatika  
 tántalo - tantal yum  
 té - cai  
 técnica - tehni  
@@ -3877,7 +3881,7 @@ tóxico - toxi di
 tú (usted) - tu  
 túnel - tunel  
 Túnez - Tunis  
-túnica - tunika  
+túnica - kurta  
 
 ## U  
 
@@ -3927,6 +3931,7 @@ vampiro - vampir
 vanadio - vanadi yum  
 Vanuatu - Vanuatu  
 vapor - sui gas  
+variable - varibil  
 variedad (tipo, estilo) - yang  
 vaso (taza, copa) - kupa  
 vatio - vate  
@@ -4091,3 +4096,4 @@ zulú - Zulu
 óxide - oxide  
 único (únicamente, solo) - un di  
 útil (beneficioso) - faida di  
+липосакция - lipi cupu  

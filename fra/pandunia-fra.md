@@ -154,8 +154,8 @@ astro nave - astronef
 astro nave ja - astronaute  
 astro nomi - astronomie  
 astro nomi ja - astronome  
-ati - acte  
 Athina - Athènes  
+ati - acte  
 • dusati - méfait (péché)  
 • reati - réagir  
 • reation - réaction  
@@ -501,7 +501,7 @@ dux - douche
 e - être  
 einstein yum - einsteinium  
 Eire - Irland  
-eko gene di - sauvage  
+eko nati di - sauvage  
 ekore - écureuil  
 eletro - électricité  
 elfe - elfe  
@@ -556,13 +556,11 @@ fa dus forma - défigurer
 fa estude - étudier  
 fa fatu - punir  
 fa fei - voler  
-fa fen gata - analyser  
 fa fin - finir  
 fa fobi - effrayer  
 fa forma - former  
 fa fuku - habiller (vêtir)  
 fa fuku - porter (s’habiller)  
-fa gene - donner naissance (procréer, engendrer, accoucher)  
 fa glu - coller  
 fa hapu - adapter (ajuster)  
 fa hisabu - calculer  
@@ -580,6 +578,7 @@ fa maf - pardonner
 fa memo - se rappeler (se remémorer)  
 fa min rai - sous-estimer  
 fa mol - moudre  
+fa nati - donner naissance (procréer, engendrer, accoucher)  
 fa nomi - organiser  
 fa onor - honorer  
 fa pati mise - infecter  
@@ -625,7 +624,7 @@ faze - phase
 fei - vol  
 fei muxu - chauve-souris  
 fen - part  
-fen gata - analyse  
+fen lize - analyser (analyse)  
 fenol - phénol  
 • infere - inférer  
 • prefere - préférer  
@@ -814,6 +813,7 @@ haste - hâte (précipitation)
 hata - jusque (jusqu’à)  
 hata di - voire (même)  
 hatar - danger  
+haxi - baguettes  
 he - hein?  
 heli yum - hélium  
 helis babul - acacia faux-gommier  
@@ -935,6 +935,7 @@ jovar - sorgho
 juba - robe  
 jude ja - juje  
 jul - joule (J)  
+jumla logi - syntaxe  
 jun - jeune (junior)  
 jun moka - pousse  
 junnen - jeunesse  
@@ -1069,6 +1070,7 @@ koala - koala
 kobalte - cobalt  
 koda - queue  
 kolum - pilier (colonne, poteau)  
+koma - virgule  
 komputa di - numérique  
 kon - avec (commun)  
 kon kar - collaborer  
@@ -1121,6 +1123,7 @@ kupre - cuivre
 kurban - sacrifice  
 kuri yum - curium  
 • prekurser - précurseur  
+kurta - tunique  
 kurva - courbe  
 kux loka - couch (couchette)  
 
@@ -1179,6 +1182,8 @@ linke - lien
 linse - lynx  
 lipa bano - étagère  
 lipa side - s’accroupir  
+lipi - graisse  
+lipi cupu - lipoaspiração  
 lisan - langue  
 liste - liste  
 lito yum - lithium  
@@ -1401,9 +1406,9 @@ nerve selu - neurone
 nerve toxi - neurotoxine  
 nete gete - télécharger  
 neu di - nouveau  
-neu gene di - nouveau-né  
 neu jen - néophyte  
 neu loga - néologisme  
+neu nati di - nouveau-né  
 neuta - nouveauté  
 nia - intention  
 nice - dessous  
@@ -1817,6 +1822,9 @@ tala - serrure
 tali yum - thallium  
 tana - tige  
 tantal yum - tantale  
+tatika - tactique  
+• sintaxe - syntaxe  
+taxe nomi - taxinomie  
 taxi metri gi - taximètre  
 taxi vala - chauffeur de taxi  
 taza - frais  
@@ -1867,6 +1875,7 @@ tomate - tomate
 • jivatomi - vivisection  
 • tritomi - trichotomie  
 • tomi grafi - tomographie  
+ton - ton  
 topo grafi - topographie  
 topo metri grafi - carte (plan)  
 tor yum - thorium  
@@ -1889,6 +1898,7 @@ tuale kaguji - papier toilette (papier hygiénique)
 tuale kamar - toilette (cabinet, waters)  
 Tule - Thulé  
 tule yum - thulium  
+tulpan - tulipe  
 tuna - thon  
 Tunis - Tunisie  
 turbe - gêner (déranger, perturber)  
@@ -1935,6 +1945,7 @@ vampir - vampire
 vampir ohtopus - vampire des abysses  
 vanadi yum - vanadium  
 vari - divers (plusieurs)  
+varibil - variable  
 varis - riz  
 varis vin - vin de riz  
 vei lin - fil de trame  
@@ -1959,6 +1970,7 @@ veze metri gi - balance (poids)
 vide - voir  
 vide ja - espectador  
 vidou - veuve  
+vilde - sauvage  
 violeta nil - violet (pourpre)  
 virge - vierge  
 virus - virus  
@@ -2006,6 +2018,7 @@ xia islam din - chiisme
 xikaya - plainte (lamentation)  
 xilos - xylose  
 xipi - mouillé  
+xirope - sirop  
 xite - merde  
 xiti - perder  
 xiti bai - échec  
@@ -2056,6 +2069,7 @@ yepa alga - varech
 yepa late - page  
 Yesa - Jésus  
 Yesa Mesi - Jésus-Christ  
+yoga - yoga  
 yogo - joug  
 yogur - yaourt (yogourt)  
 you - infantile (immature)  

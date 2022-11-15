@@ -43,6 +43,7 @@ a dura de - during (while)
 a jong - to be centered (amid, in the middle)  
 a ke - where  
 a kon - together (jointly, mutually)  
+a korte - soon (after a while)  
 a late - be beside (accompany)  
 a lin - online  
 a max - also (too, in addition)  
@@ -229,9 +230,9 @@ astro nave - starship
 astro nave ja - astronaut  
 astro nomi - astronomy  
 astro nomi ja - astronomer  
-ati - act (deed)  
 ata - sugar-apple (sweetsop)  
 Athina - Athens  
+ati - act (deed)  
 • deativi - deactivate (disable, turn off)  
 • deativifa - deactivate (turn off)  
 • dusati - misdeed (sin, vice)  
@@ -782,7 +783,7 @@ data - data (numeric information)
 data banke - database (databank)  
 data culi - data processing  
 data culi logi - computer science  
-data fen gata - data analysis  
+data fen lize - data analysis  
 data table - data table (matrix)  
 dau - way (road)  
 dau bano - road sign  
@@ -977,8 +978,8 @@ einstein yum - einsteinium
 Eire - Ireland  
 eko - environment (nature)  
 eko di - environmental (natural)  
-eko gene di - wild (savage)  
 ekologi - ecology (study of environment)  
+eko nati di - wild (savage)  
 ekore - squirrel  
 ekran - screen  
 Ekuador - Ecuador  
@@ -1104,8 +1105,6 @@ fa fatu - punish (penalize)
 fa fei - fly (go through air)  
 fa fen - divide (partition, part, split, separate)  
 fa fen do du - halve (divide by two)  
-fa fen gata - analyse (dissect, parse)  
-fa festa - celebrate (party)  
 fa fikir - think (ponder, reflect)  
 fa fin - finish (complete, end)  
 fa fobi - scare (frighten)  
@@ -1121,7 +1120,6 @@ fa gan - dry out
 fa gas - gasify (vaporize)  
 fa gau - raise (lift)  
 fa geme - play a game  
-fa gene - give birth (beget, generate, breed)  
 fa glu - stick (adhere, paste, glue)  
 fa gol - achieve (accomplish, arrive, reach)  
 fa gola - surround (encircle)  
@@ -1213,6 +1211,7 @@ fa nafas - breathe
 fa nahun - claw (scratch)  
 fa najis - corrupt (pollute, soil, defile, stain, taint)  
 fa nam - call (name)  
+fa nati - give birth (beget, generate, breed)  
 fa neu - renew (make new, renovate)  
 fa nia - mean (intend)  
 fa node - tie a knot  
@@ -1371,8 +1370,8 @@ fem sim ja - feminist
 fen - part (component, segment, fraction, distinct element of something larger)  
 fen di - partial  
 fen don - contribute  
-fen gata - analysis (dissection)  
 fenil - phenyl  
+fen lize - analyse (analysis)  
 fenol - phenol  
 fere - deem (consider, regard, assign some quality to)  
 • disfere - differ (consider different)  
@@ -1381,6 +1380,7 @@ fere - deem (consider, regard, assign some quality to)
 • refere - refer (assign back to)  
 fermi yum - fermium  
 fero - iron  
+festa - celebrate (party)  
 festa - party (celebration, festival)  
 festa den - holiday  
 fete - do (make; deed, fact)  
@@ -1514,8 +1514,6 @@ funsibil - functional (valid, workable)
 furete - polecat (ferret)  
 furi - angry (furious)  
 furita - anger (fury, rage, wrath)  
-futa - fat (grease)  
-futa di - fatty (greasy)  
 futau - axe (hatchet)  
 fute - foot  
 fute bano - scaffolding (gangplank)  
@@ -1822,6 +1820,7 @@ hatar di - dangerous (perilous)
 hava - wind  
 Havai - Hawaii  
 Havai nesia - Hawaiian archipelago  
+haxi - chopsticks  
 haxix - hashish  
 Haye - Armenia  
 hazin - store (deposit)  
@@ -2101,6 +2100,7 @@ jui di - careful (cautious, attentive, alert, wary)
 jui note - warning (advisory)  
 jul - joule (J)  
 jumla - sentence (phrase)  
+jumla logi - syntax (study of phrases)  
 jun - young (junior)  
 jun bei - junior fellow (kouhai)  
 jun bra - little brother (younger brother)  
@@ -2218,6 +2218,7 @@ kar - work
 • duskar - misdeed (sin, vice)  
 • konkar - collaborate (work together)  
 kar cuti - leave (absence from work)  
+kargi - tool  
 karja - worker  
 karkan - workshop  
 kar lexi - verb  
@@ -2385,7 +2386,6 @@ koloni sim - colonialism
 koloni sim ja - colonialist  
 kolum - pillar (column, pole, post)  
 koma - comma  
-komal - soft  
 Komoro nesi - Comoros  
 kompani - company (corporation)  
 komputa di - digital  
@@ -2509,6 +2509,7 @@ kurse - go (going; course)
 • rikurse - recur (go again)  
 • trakurse - go through (go by)  
 kursi - chair  
+kurta - tunic (kirtle)  
 kurva - curve (bend)  
 kurva di - curvy (curved)  
 Kuvaite - Kuwait  
@@ -2623,12 +2624,18 @@ lipa bano - shelf (bookshelf)
 lipa baze - stand (rack)  
 lipa di - erect (standing)  
 lipa side - crouch (squat)  
+lipi - fat (grease)  
+lipi cupu - liposuccion  
+lipi di - fatty (greasy)  
+lipi fobi - lipophobia  
+lipi lize - lipolysis  
 lis - smooth  
 lisan - tongue  
 liste - list (listing, catalogue)  
 lito yum - lithium  
 litre - litre (liter)  
 livermor yum - livermorium  
+lize - breakdown (-lysis)  
 loba - radish  
 loga - speech (talk)  
 loga di - spoken  
@@ -3060,6 +3067,7 @@ nanas - pineapple
 nano - nano-  
 nano mitre - nanometer  
 naraka - hell  
+naram - soft  
 nardi - backgammon  
 narko - drug (narcotic, dope, intoxicating substance)  
 narko manika - drug addict  
@@ -3135,10 +3143,10 @@ nete loka - website
 neu - novelty (new product)  
 neu di - new (recent)  
 neu fito - neophyte plant  
-neu gene di - newborn  
 neu jen - novice (newbie)  
 neu Kaledonia - New Caledonia  
 neu loga - neologism  
+neu nati di - newborn (neonatal)  
 neuta - newness  
 neu yang di - modern  
 neu Yorke - New York  
@@ -3276,7 +3284,7 @@ pai - pie (pastry)
 paka - coercion (force, compulsion)  
 pake - pack (package)  
 Pakistan - Pakistan  
-palaba - conflict (argument, dispute, quarrel)  
+palaba - palaver (debate, fuss)  
 paladi yum - palladium  
 Palau - Palau  
 palma - palm tree  
@@ -4060,7 +4068,6 @@ sultan - power (authority, rule)
 sultan dexa - sultanate  
 sultan ja - ruler  
 sum - sum (total)  
-sun - soon  
 suna - custom (tradition, practice, convention)  
 suna di - conventional (customary, traditional)  
 suna islam din - Sunni Islam (Sunnism)  
@@ -4117,9 +4124,12 @@ tapa - stopper (cap, peg, plug, tap)
 • antapa - unplug (uncork)  
 tarif - tarif (tax, duty)  
 tasa - bowl (dish)  
-tatike - tactics (strategy)  
+tatika - tactic (maneuver)  
 tatu - tattoo  
 tava - frying pan  
+taxe - order (arrangement)  
+• sintaxe - syntax  
+taxe nomi - taxonomy  
 taxi - fee (fare)  
 taxi gar - taxi (cab)  
 taxi metri gi - taximeter  
@@ -4275,7 +4285,6 @@ tuale kamar - toilet (bathrooom, WC)
 tubo - tube (pipe)  
 tufan - storm (tempest, typhoon, hurricane, cyclone)  
 tuh - spit  
-tul - tool  
 Tule - Thule  
 tule yum - thulium  
 tulpan - tulip  
@@ -4284,7 +4293,6 @@ tundra - tundra
 tundra xan - fell  
 tunel - tunnel  
 tunel tren - subway (metro)  
-tunika - tunic (gown)  
 Tunis - Tunisia  
 tupi - hat (cap)  
 turbe - whirl (dizz; disorientate, trouble, disturb, bother, annoy)  
@@ -4388,6 +4396,7 @@ vanu di - funny (amusing)
 vanu gi - toy (plaything)  
 Vanuatu - Vanuatu  
 vari - various (diverse, miscellaneous)  
+varibil - variable  
 varis - rice  
 varis araki - arrack  
 varis biskute - rice cake (puffed rice cake)  
@@ -4396,6 +4405,7 @@ varite - heritage (legacy, bequest)
 vasin - vaccine  
 vate - watt  
 Vatikan - Holy See (Vatican City State)  
+vava - weep (cry)  
 vaxi - wash  
 Vaxington DC - Washington DC  
 vei - latitudinal (horizontal)  

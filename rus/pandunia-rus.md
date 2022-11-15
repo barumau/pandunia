@@ -100,8 +100,8 @@ astro nave - звездолёт
 astro nave ja - астронавт  
 astro nomi - астрономия  
 astro nomi ja - астроном  
-ati - действие (акт)  
 Athina - Афины  
+ati - действие (акт)  
 • reati - реагировать  
 • reation - реакция  
 • ation - действие (акция)  
@@ -429,7 +429,7 @@ dux - душ
 
 e - быть  
 einstein yum - эйнштейний  
-eko gene di - дикий  
+eko nati di - дикий  
 ekore - белка  
 eletro lin - провод (кабель)  
 eletro radi - молния  
@@ -474,12 +474,10 @@ fa eskale - подниматься
 fa estude - изучать  
 fa fatu - наказать  
 fa fei - лететь  
-fa fen gata - анализировать  
 fa fobi - страшить  
 fa forma - формировать  
 fa fuku - одевать  
 fa fuku - носить (одеваться)  
-fa gene - родить  
 fa glu - клеиться  
 fa hisabu - вычислять  
 fa hogo - жечь (палить)  
@@ -498,6 +496,7 @@ fa mei daka - украсить
 fa memo - помнить  
 fa min rai - недооценить  
 fa mol - молоть  
+fa nati - родить  
 fa nomi - организовать  
 fa onor - чтить  
 fa pede - пердеть  
@@ -538,7 +537,7 @@ faze - фаза
 fei - полёт  
 fei muxu - летучая мышь  
 fen - parte  
-fen gata - анализ  
+fen lize - анализировать (анализ)  
 fenol - фенол  
 • prefere - предпочитать  
 fermi yum - фермий  
@@ -827,6 +826,7 @@ jui di - осторожный (внимательный)
 jui note - упреждение  
 jul - джоуль (J)  
 jumla - фраза  
+jumla logi - синтаксис  
 jun - юный  
 jun jen - юнец  
 jun moka - саженец  
@@ -1069,6 +1069,7 @@ linke - связь (ссылка)
 linse - рысь  
 lipa bano - полка  
 lipa side - сесть на корточки  
+lipi - жир  
 lisan - язык  
 liste - список  
 lito yum - литий  
@@ -1280,9 +1281,9 @@ neputun yum - нептуний
 nerve selu - нейрон  
 neu - новинка (новь)  
 neu di - новый  
-neu gene di - новорождённый  
 neu jen - новичок  
 neu loga - неологизм  
+neu nati di - новорождённый  
 neuta - новизна  
 nia - намерение  
 nice kitaba - субтитр  
@@ -1684,6 +1685,8 @@ tana - стебель
 tantal yum - тантал  
 tasa - блюдо (таз)  
 tatu - татуировка (тату)  
+• sintaxe - синтаксис  
+taxe nomi - таксономия  
 taxi metri gi - таксометр  
 taxi vala - таксист  
 taza - свежий  
@@ -1733,6 +1736,7 @@ tomate - помидор (томат)
 • jivatomi - вивисекция  
 • tritomi - трихотомия  
 • tomi grafi - томография  
+ton - тон  
 topo grafi - топография  
 topo metri grafi - карта (план)  
 tor yum - торий  
@@ -1754,6 +1758,7 @@ tuale kaguji - туалетная бумага
 tuale kamar - туалет (уборная, клозет)  
 Tule - Туле  
 tule yum - тулий  
+tulpan - тюльпан  
 tuna - тунец  
 tundra xan - фьельды  
 turbe - утруждай  
@@ -1875,6 +1880,7 @@ xia - фракция (клика)
 xia islam din - шиизм  
 xikaya - жалоба  
 xilos - ксилоза  
+xirope - сироп  
 xite - говно (дерьмо)  
 xiti - потерять (утратить)  
 xiu - маленький (малый)  

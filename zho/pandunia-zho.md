@@ -94,8 +94,8 @@ astro - 天体
 astro nave ja - 宇航员  
 astro nomi - 天文学  
 astro nomi ja - 天文学家  
-ati - 作为 (行为)  
 Athina - 雅典  
+ati - 作为 (行为)  
 • reati - 反应  
 • reation - 反应  
 • ation - 行动  
@@ -425,7 +425,6 @@ fa ding - 决定
 fa dosil - 驯养  
 fa dus forma - 变丑  
 fa fei - 飞  
-fa fen gata - 分析  
 fa fobi - 吓唬  
 fa for - 除去  
 fa fuku - 穿  
@@ -472,8 +471,8 @@ fatu - 惩罚
 fatura - 帐单  
 fei gi tikete - 飞机票  
 fen - 部分  
-fen gata - 分析  
 fenil - 苯基  
+fen lize - 分析  
 fenol - 苯酚  
 fermi yum - 镄  
 fero - 铁  
@@ -642,6 +641,7 @@ Hartum - 喀土穆
 hata - 直到  
 hata di - 连  
 hatar - 危险  
+haxi - 筷子 (箸)  
 heli yum - 氦  
 helis - 螺旋  
 helis fei gi - 直升机  
@@ -749,6 +749,7 @@ jui di - 谨慎的
 jui note - 警告  
 jul - 焦耳 (J)  
 jumla - 句子  
+jumla logi - 句法学  
 jun - 年轻  
 jun bei - 后辈  
 jun jen - 年轻人  
@@ -868,6 +869,7 @@ koala - 樹袋熊 (考拉)
 kobalte - 钴  
 koda - 尾巴 (尾部)  
 kolum - 柱子   
+koma - 逗号  
 komputa di - 数字的  
 kon - 共  
 kon bon - 相配  
@@ -965,6 +967,8 @@ linse - 猞猁 (山貓)
 lipa bano - 架子 (搁板)  
 lipa baze - 架子  
 lipa side - 蹲  
+lipi - 脂肪  
+lipi cupu - 吸脂  
 lisan - 舌头  
 liste - 单子  
 lito yum - 锂  
@@ -1161,6 +1165,7 @@ nerve toxi - 神经毒素
 neu di - 新  
 neu jen - 新手  
 neu loga - 新词  
+neu nati di - 新生  
 ni - 女  
 nia - 意图  
 nice kitaba - 字幕  
@@ -1509,6 +1514,7 @@ tami - 贪婪的
 tana - 茎 (梗)  
 tantal yum - 钽  
 tasa - 盘 (碟)  
+taxe nomi - 分类学  
 taxi metri gi - 计程器  
 taxi vala - 出租车司机  
 taza - 新鲜的  
@@ -1568,6 +1574,7 @@ tumimen - 咱们
 tuale kaguji - 卫生纸  
 tuale kamar - 厕所  
 tule yum - 铥  
+tulpan - 郁金香  
 tuna - 金枪鱼  
 turbin - 涡轮机  
 tuta - 桑树  

@@ -456,4 +456,3 @@ There are also a lot of country names that do not end in **-ia**.
 'curve, bend'
 → **kurvado**
 'curvature'
-

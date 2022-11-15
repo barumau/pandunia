@@ -91,8 +91,7 @@ amérindien (indien) - asal Amerka jen
 Amérique - Amerika  
 an (année) - nen  
 anal - anus di  
-analyse - fen gata  
-analyser - fa fen gata  
+analyser (analyse) - fen lize  
 anaérobique - anair bio di  
 anchois - ancovi  
 ancre - angar  
@@ -210,6 +209,7 @@ aïe! - ayo
 babord - nave leu  
 backgammon - nardi  
 bagage - bagaje  
+baguettes - haxi  
 bah - bah  
 baie (golf) - baya  
 baie - beri  
@@ -620,7 +620,7 @@ domestiquer (apprivoiser) - fa dosil gene
 domestiqué (apprivoisé) - dosil gene di  
 dommage - avar  
 donner - don  
-donner naissance (procréer, engendrer, accoucher) - fa gene  
+donner naissance (procréer, engendrer, accoucher) - fa nati  
 données - data  
 dormir - be sona  
 double - dupli  
@@ -831,6 +831,7 @@ gorille - gorila
 goule - gule  
 gouvernement - politi  
 graine de lin - yama seme  
+graisse - lipi  
 grand-mère - cin ma  
 grand-père - cin pa  
 granit - granite  
@@ -1054,6 +1055,7 @@ ligue (alliance) - liga
 lilas - lila  
 lime (citron vert) - kaguji limon  
 lin - yama  
+lipoaspiração - lipi cupu  
 lire - dugu  
 liste - liste  
 lit - bede  
@@ -1271,7 +1273,7 @@ note - note xe
 notre - mimen su  
 nous - mimen  
 nouveau - neu di  
-nouveau-né - neu gene di  
+nouveau-né - neu nati di  
 nouveauté - neuta  
 nouvelle (récit court) - korte kata  
 noyau atomique - atom kerne  
@@ -1713,7 +1715,8 @@ saumon altentique - atlanti salmon
 saumon du Pacifique (saumon kéta, saumon chien) - baku salmon  
 saumon rose - rode salmon  
 saumon sockeye - rubi salmon  
-sauvage - eko gene di  
+sauvage - eko nati di  
+sauvage - vilde  
 savane - garma zona caustan  
 savoir - sabi  
 savoir - san  
@@ -1758,6 +1761,7 @@ silex - hogo seku
 silicium - silike  
 simple - sada  
 simulation - sam sifa xe  
+sirop - xirope  
 situation (état de choses) - xe hal  
 six (6) - luka  
 siècle (centennie) - sento nen  
@@ -1801,6 +1805,8 @@ svastika (croix gammée) - huke krus
 syllabe - lexi fen  
 symbole - simbol  
 symétrie - sam metri  
+syntaxe - jumla logi  
+syntaxe - sintaxe  
 sélénium - selen yum  
 sémantique - semi logi  
 sémaphore - semi forar  
@@ -1818,6 +1824,7 @@ s’accroupir - lipa side
 table - meza  
 tableau (panneau) - bano  
 tablette de chocolat - coklate kane  
+tactique - tatika  
 tantale - tantal yum  
 tante - cin sis  
 tapioca - manioka fufu  
@@ -1825,6 +1832,7 @@ tarte - pai
 tasse à thé - cai kupa  
 taupe - krote  
 taximètre - taxi metri gi  
+taxinomie - taxe nomi  
 technique - tehni  
 technologie - tehni logi  
 technétium - tehni yum  
@@ -1868,6 +1876,7 @@ toit - cati
 tomate - tomate  
 tombe (enterrer) - gabur  
 tomographie - tomi grafi  
+ton - ton  
 topinambour - masa mula sol hua  
 topographie - topo grafi  
 tortue - tortuga  
@@ -1905,7 +1914,9 @@ truite brune (truite de mer) - kafe salmon
 très - tre  
 tu - tu  
 tubercule - masa mula  
+tulipe - tulpan  
 tungstène - volfram  
+tunique - kurta  
 Tunisie - Tunis  
 turban - pagri  
 turbine - turbin  
@@ -1941,6 +1952,7 @@ vampire des abysses - vampir ohtopus
 vanadium - vanadi yum  
 vapeur d’eau - sui gas  
 varech - yepa alga  
+variable - varibil  
 vendre - vende  
 vendredi - zukraden  
 Venezuela - Venezuela  
@@ -1969,6 +1981,7 @@ village - deha
 ville - siti  
 vin de riz - varis vin  
 violet (pourpre) - violeta nil  
+virgule - koma  
 virus - virus  
 visage - muka  
 viser (direction, cible; objectif) - dika  
@@ -2010,6 +2023,7 @@ y compris - in klus
 Yahweh (Jéhovah) - Yahve  
 yaourt (yogourt) - yogur  
 Yi King - yeka kanon  
+yoga - yoga  
 yourte - yurta  
 ytterbium - yuterbi yum  
 yttrium - yuter yum  

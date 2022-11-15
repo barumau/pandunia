@@ -126,8 +126,7 @@ ampeeri - amper
 ampulli - ampul  
 anaalinen - anus di  
 anaerobinen - anair bio di  
-analysoida - fa fen gata  
-analyysi - fen gata  
+analyysi (osiin hajottaminen) - fen lize  
 ananas - nanas  
 andesiitti - andesite  
 Andit - Andes  
@@ -336,7 +335,7 @@ darmstadtium - darmestadi yum
 darwinismi - darvin sim  
 darwinisti - darvin sim ja  
 data (numeerinen tieto) - data  
-data-analyysi - data fen gata  
+data-analyysi - data fen lize  
 Deimos - Deimos  
 delfiini - dolfin  
 demokraatti - demi krati ja  
@@ -932,6 +931,7 @@ isäpuoli (äidin puoliso) - vise pa
 isäpuoli - gam pa  
 Italia - Italia  
 itkeä (yhyy) - uhu  
+itkeä - vava  
 itse - se  
 itsehallinto (autonomia) - auto nomi  
 itsekäs - se di  
@@ -1018,7 +1018,7 @@ juhannus (keskikesä, mittumaari) - garma mosim medi den
 juhannus (kristillinen juhla) - Yohan festa  
 juhlapäivä - festa den  
 juhlat - festa  
-juhlia - fa festa  
+juhlia - festa  
 julkinen (kansan-) - demi di  
 jumala - deu  
 jumalallinen - deu di  
@@ -1720,6 +1720,7 @@ laukka - galope
 laukku - baga  
 laulaa (laulu) - gani  
 laulaja - ganir  
+lauseoppi (syntaksi) - jumla logi  
 lauta (paneeli) - bano  
 lautanen - plate tasa  
 lautapeli - bano geme  
@@ -1799,6 +1800,8 @@ linna (linnake, linnoitus) - burge
 linssi - lense  
 lintu - paci  
 lintutiede (ornitologia) - paci logi  
+lipofobia (rasvanpelko) - lipi fobi  
+lipolyysi - lipi lize  
 lippu (piletti) - tikete  
 lippu - bandera  
 lisko - saur  
@@ -2038,7 +2041,7 @@ mehiläispesä - vespa nide
 mehu - jus  
 meidän - mimen su  
 meitnerium - meitner yum  
-mekko (tunika) - tunika  
+mekko (tunika) - kurta  
 Meksiko - Mehiko  
 melodia (sävelmä) - melodi  
 melodinen (sointuisa) - melodi di  
@@ -2570,7 +2573,7 @@ patologia (tautioppi) - pati logi
 patonki (ranskanleipä) - kane pang  
 pedofilia - pedi fili  
 pedofobia (lastenpelko) - pedi fobi  
-pehmeä - komal  
+pehmeä - naram  
 peikko - gui  
 peili - mira plate  
 peite (kansi) - daka  
@@ -2614,7 +2617,7 @@ pestä - vaxi
 pesukarhu - rakun  
 pesukone - fuku vaxi gi  
 peta- - peta  
-pian - sun  
+pian - a korte  
 piano - piano  
 pidentää - fa long  
 pieni - xiu  
@@ -2787,6 +2790,7 @@ puhua (puhe) - loga
 puhuttu (sanallinen) - loga di  
 pukea (vaatettaa) - fa fuku  
 pukeutua (pitää vaatetta yllään) - fa fuku  
+pulina (hälinä) - palaba  
 pullo - botel  
 pullonkorkki - botel tapa  
 pultti - bolte  
@@ -2810,6 +2814,7 @@ puristaa (pusertaa) - konprese
 puristaaa (puristus, paine) - prese  
 puristin - prese gi  
 puristin - preser  
+purkaa (purku, hajotus) - lize  
 purkaa koodi (dekoodata) - ankode  
 purra - fa dante  
 purra hampailla - gata a dante  
@@ -2926,8 +2931,9 @@ rasisti - rasa sim ja
 raskaana (odottava) - hamil  
 raskas (kova, vaativa, vaikea, jne.) - bari  
 raskasmetalli - bari metal  
-rasva (öljy) - futa  
-rasvainen - futa di  
+rasva - lipi  
+rasvaimu - lipi cupu  
+rasvainen - lipi di  
 ratas - cakra  
 rauha - pase  
 rauhallinen (levollinen, tyyni) - xanti di  
@@ -2958,7 +2964,6 @@ riippumatto - hamake
 riisi - varis  
 riisikakku - varis biskute  
 riisiviina - varis vin  
-riita (kiista) - palaba  
 rikas - rike  
 rikki (palasina) - parce di  
 rikki - sulfe  
@@ -3386,7 +3391,8 @@ symmetria - sam metri
 synkretismi - sinkredisim  
 synnyinmaa (oma maa) - natia  
 synnyinseutu - nati stan  
-synnyttää - fa gene  
+synnyttää - fa nati  
+syntaksi - sintaxe  
 synteesi - sinteze  
 synti (paha teko) - dusati  
 synti (paha teko) - duskar  
@@ -3405,6 +3411,7 @@ syyllinen - doxa di
 syylä - zeyil  
 Syyria - Suria  
 syyskuu - mes tisa  
+syömäpuikot - haxi  
 syöttää tietoja (syöte) - inpute  
 säde - radi  
 sädekehä (halo) - foto gola  
@@ -3468,7 +3475,8 @@ taksa (vero) - taxi
 taksamittari - taxi metri gi  
 taksi - taxi gar  
 taksinkuljettaja - taxi vala  
-taktiikka - tatike  
+taksonomia (järjestyksenhallinta) - taxe nomi  
+taktiikka - tatika  
 takuu - garanti  
 tallenne (rekisteri, loki) - loge  
 tallettaa (tallentaa) - banka  
@@ -3771,7 +3779,7 @@ tyyny - kuxen
 tyyppi (laji, genre) - tipe  
 tyyrpuuri - nave dex  
 työ (tehtävä) - karxe  
-työkalu - tul  
+työkalu - kargi  
 työntekijä (työläinen) - karja  
 työntää (puskea) - puxa  
 työpöytä (kirjoituspöytä) - karm eza  
@@ -3964,7 +3972,7 @@ vastakohta (antonyymi) - annam
 vastakohtainen (negatiivinen, epä-) - an-  
 vastakohtaisuus - kontraversi  
 vastapäivään - rota leu  
-vastasyntynyt - neu gene di  
+vastasyntynyt - neu nati di  
 vastata - fa javabu  
 vastaus - javabu  
 vastustaa - xatan  
@@ -4061,7 +4069,7 @@ vika (synti) - doxa
 viljellä - agri  
 viljely - agri suta  
 villi (kesytön) - vilde  
-villi (villinä syntynyt) - eko gene di  
+villi (villinä syntynyt) - eko nati di  
 vilustuminen - zukam  
 vino - terca  
 vinyyli - vinil  

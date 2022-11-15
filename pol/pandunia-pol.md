@@ -7,6 +7,7 @@ a dura de -
 a jong - być wycentrowanym, być w środku  
 a ke - gdzie  
 a kon - razem (wspólnie)  
+a korte - wkrótce  
 a late - być obok  
 a lin - online (na linii, w sieci)  
 a max -   
@@ -194,9 +195,9 @@ astro nave -
 astro nave ja - astronauta  
 astro nomi - astronomia  
 astro nomi ja - astronom  
-ati -   
 ata - jabłko cukrowe  
 Athina -   
+ati -   
 • deativi - deaktywować (wyłączyć, zatrzymać)  
 • deativifa -   
 • dusati -   
@@ -747,7 +748,7 @@ data - dane
 data banke - baza danych (bank danych)  
 data culi -   
 data culi logi - informatyka  
-data fen gata -   
+data fen lize -   
 data table - tablioca, macierz  
 dau - droga, szosa, ulica  
 dau bano -   
@@ -942,8 +943,8 @@ einstein yum - einstein
 Eire - Irlandia  
 eko - natura, środowisko  
 eko di - środowiskowy, naturalny  
-eko gene di - dziki  
 ekologi - ekologia (nauka o środowisku)  
+eko nati di - dziki  
 ekore - wiewiórka  
 ekran - ekran  
 Ekuador - Ekwador  
@@ -1069,8 +1070,6 @@ fa fatu -
 fa fei - latać, lecieć  
 fa fen - dzielić  
 fa fen do du - przepołowić (podzielić przez dwa)  
-fa fen gata - analizować  
-fa festa - świętować, imprezować  
 fa fikir - myśleć, dumać, rozmyślać, zastanawiać się, rozważać  
 fa fin - skończyć, kończyć  
 fa fobi -   
@@ -1086,7 +1085,6 @@ fa gan - suszyć (wysuszyć)
 fa gas - zamieniać w gaz  
 fa gau - podnosić (podnieść)  
 fa geme - grać w grę  
-fa gene - urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić  
 fa glu - lepić (kleić)  
 fa gol -   
 fa gola - otoczyć, otaczać  
@@ -1178,6 +1176,7 @@ fa nafas -
 fa nahun -   
 fa najis -   
 fa nam - nazwać, nazywać, wezwać, wzywać  
+fa nati - urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić  
 fa neu - odnowić, odnawiać, uczynić nowym  
 fa nia -   
 fa node - zawiązywać (zawiązać węzeł)  
@@ -1336,8 +1335,8 @@ fem sim ja - feminista (feministka)
 fen - część, ułamek  
 fen di -   
 fen don - wnieć wkład (przyczynić się)  
-fen gata - analiza  
 fenil -   
+fen lize - analizować (analiza)  
 fenol -   
 fere -   
 • disfere -   
@@ -1346,6 +1345,7 @@ fere -
 • refere -   
 fermi yum - ferm  
 fero - żelazo  
+festa - świętować, imprezować  
 festa - przyjęcie, święto, festiwal  
 festa den - święto  
 fete - zrobić (czyn, uczynek)  
@@ -1479,8 +1479,6 @@ funsibil - poprawny (wykonalny)
 furete - tchórz, fretka  
 furi - zły (wsciekły, gniewny)  
 furita - gniew, furia  
-futa - tłuszcz  
-futa di - tłusty  
 futau - siekera, topór  
 fute - stopa  
 fute bano - rusztowanie (trap)  
@@ -1787,6 +1785,7 @@ hatar di - niebezpieczny
 hava - wiatr  
 Havai - Hawaje  
 Havai nesia - Hawaje (archipelag hawajski)  
+haxi -   
 haxix - haszysz  
 Haye - Armenia  
 hazin -   
@@ -2066,6 +2065,7 @@ jui di -
 jui note -   
 jul - dżul (J)  
 jumla - zdanie (fraza)  
+jumla logi -   
 jun - młody  
 jun bei -   
 jun bra -   
@@ -2183,6 +2183,7 @@ kar - pracować
 • duskar -   
 • konkar - współpracować (kolaborować)  
 kar cuti -   
+kargi - narzędzie  
 karja - pracownik  
 karkan -   
 kar lexi - czasownik  
@@ -2351,7 +2352,6 @@ koloni sim - kolonializm
 koloni sim ja - kolonialista  
 kolum - kolumna, filar  
 koma - przecinek  
-komal - miękki  
 Komoro nesi - Komory  
 kompani - firma, kompania, korporacja  
 komputa di - cyfrowy  
@@ -2475,6 +2475,7 @@ kurse -
 • rikurse -   
 • trakurse -   
 kursi - kszesło, fotel  
+kurta - kurta (tunika, toga)  
 kurva - wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać  
 kurva di - zakrzywiony  
 Kuvaite - Kuwejt  
@@ -2589,12 +2590,18 @@ lipa bano - półka (regał na książki)
 lipa baze - stojak (wieszak)  
 lipa di - postawiony (stojący)  
 lipa side - kucać (kucnąć)  
+lipi - tłuszcz  
+lipi cupu -   
+lipi di - tłusty  
+lipi fobi -   
+lipi lize -   
 lis - gładki  
 lisan - język  
 liste - lista, spis, wykaz  
 lito yum - lit  
 litre - litr  
 livermor yum - liwermor  
+lize -   
 loba - rzodkiewka  
 loga - mowić (mowa)  
 loga di -   
@@ -3025,6 +3032,7 @@ nan per (man) - małżonek
 nanas - ananans  
 nano mitre - nanometr  
 naraka - piekło  
+naram - miękki  
 nardi -   
 narko - narkotyk  
 narko manika -   
@@ -3100,10 +3108,10 @@ nete loka - witryna internetowa (portal internetowy)
 neu - nowość  
 neu di - nowy  
 neu fito -   
-neu gene di -   
 neu jen - nowicjusz (nowa osoba)  
 neu Kaledonia - Nowa Kaledonia  
 neu loga - neologizm  
+neu nati di -   
 neuta -   
 neu yang di - nowoczesne  
 neu Yorke - Nowy Jork  
@@ -4025,7 +4033,6 @@ sultan - siła, autorytet, władza
 sultan dexa -   
 sultan ja - władca  
 sum - suma  
-sun - wkrótce  
 suna - obyczaj, zwyczaj, tradycja, praktyka, konwencja  
 suna di - konwencjonalny, zwyczajowy, tradycyjny  
 suna islam din -   
@@ -4082,9 +4089,12 @@ tapa - korek, zatyczka, szpunt
 • antapa - odetkać, odtykać  
 tarif - opłata, taryfa  
 tasa - danie  
-tatike - taktyka, strategia  
+tatika - taktyka  
 tatu - tatuaż  
 tava - patelnia  
+taxe -   
+• sintaxe -   
+taxe nomi -   
 taxi - podatek, opłata  
 taxi gar - taxi, taksówka  
 taxi metri gi - taksometr  
@@ -4239,7 +4249,6 @@ tuale kamar - taleta, WC
 tubo - tuba, rura  
 tufan - burza, sztorm, tajfun  
 tuh - pluć  
-tul - narzędzie  
 Tule -   
 tule yum - tul  
 tulpan - tulipan  
@@ -4248,7 +4257,6 @@ tundra - tundra
 tundra xan -   
 tunel - tunel  
 tunel tren - metro  
-tunika - tunika, toga  
 Tunis - Tunezja  
 tupi - kapelusz, czapka  
 turbe - przeszkodzić, przeszkadzać, robić kłopot  
@@ -4352,6 +4360,7 @@ vanu di - zabawny
 vanu gi -   
 Vanuatu - Vanuatu  
 vari - różny (różnorodny)  
+varibil -   
 varis - ryż  
 varis araki -   
 varis biskute -   
@@ -4360,6 +4369,7 @@ varite - spadek, dziedzictwo, spuścizna, zapis
 vasin - szczepionka  
 vate - wat  
 Vatikan - Watykan, Państwo Watykańskie  
+vava - płakać, łkać  
 vaxi - prać, umyć, myć  
 Vaxington DC - Waszyngton D.C  
 vei -   

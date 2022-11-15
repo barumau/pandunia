@@ -8,7 +8,7 @@
 | portugal | 10% |
 | rus | 9% |
 | hindi | 9% |
-| bangla | 4% |
+| bangla | 5% |
 | putonghan | 6% |
 | nipon | 6% |
 | chosen | 5% |

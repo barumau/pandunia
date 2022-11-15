@@ -43,6 +43,7 @@ a dura de - aikana (kuluessa)
 a jong - keskittyä (olla keskellä)  
 a ke - missä?  
 a kon - yhdessä  
+a korte - pian  
 a max - myös (lisäksi, -kin)  
 a medi - välissä  
 a min de - paitsi (miinus)  
@@ -222,8 +223,8 @@ astro nave - tähtialus
 astro nave ja - astronautti (tähtimatkaaja)  
 astro nomi - tähtitiede (astronomia)  
 astro nomi ja - tähtitieteilijä  
-ati - teko (toimenpide, akti)  
 Athina - Ateena  
+ati - teko (toimenpide, akti)  
 • deativi - poistaa toiminnasta  
 • dusati - synti (paha teko)  
 • interati - olla vuorovaikutuksessa  
@@ -758,7 +759,7 @@ data - data (numeerinen tieto)
 data banke - tietokanta  
 data culi - tietojenkäsittely  
 data culi logi - tietojenkäsittelytiede  
-data fen gata - data-analyysi  
+data fen lize - data-analyysi  
 data table - taulukko  
 dau - tie  
 dau bano - liikennemerkki  
@@ -933,8 +934,8 @@ eglisa - kirkko
 einstein yum - einsteinium  
 Eire - Irlanti  
 eko - luonto  
-eko gene di - villi (villinä syntynyt)  
 ekologi - ekologia (ympäristötiede)  
+eko nati di - villi (villinä syntynyt)  
 ekore - orava  
 ekran - kuvaruutu  
 Ekuador - Ecuador  
@@ -1055,8 +1056,6 @@ fa fantazi - kuvitella
 fa fei - lentää  
 fa fen - jakaa (paloitella)  
 fa fen do du - puolittaa (jakaa kahdella)  
-fa fen gata - analysoida  
-fa festa - juhlia  
 fa fikir - ajatella (miettiä)  
 fa fin - lopettaa  
 fa fobi - pelottaa  
@@ -1072,7 +1071,6 @@ fa gan - kuivata (kuivattaa)
 fa gas - kaasuttaa  
 fa gau - nostaa  
 fa geme - pelata  
-fa gene - synnyttää  
 fa glu - liimata  
 fa gol - saavuttaa  
 fa gola - ympäröidä (piirittää)  
@@ -1160,6 +1158,7 @@ fa mol - jauhaa
 fa muzika - soittaa (musisoida)  
 fa najis - tahrata (korruptoida)  
 fa nam - nimittää (kutsua)  
+fa nati - synnyttää  
 fa neu - uudistaa  
 fa nia - aikoa (meinata)  
 fa node - solmia (tehdä solmu)  
@@ -1311,8 +1310,8 @@ fem sim ja - feministi
 fen - osa (lohko, pala)  
 fen di - osittainen  
 fen don - osallistua (tehdä osansa)  
-fen gata - analyysi  
 fenil - fenyyli  
+fen lize - analyysi (osiin hajottaminen)  
 fenol - fenoli  
 fere - pitää jnkn (suhtautua)  
 • disfere - erottaa (pitää erilaisena)  
@@ -1321,6 +1320,7 @@ fere - pitää jnkn (suhtautua)
 • refere - viitata jhkn  
 fermi yum - fermium  
 fero - rauta  
+festa - juhlia  
 festa - juhlat  
 festa den - juhlapäivä  
 fete - tehdä (toimia; teko, toimenpide)  
@@ -1445,8 +1445,6 @@ funsibil - toimiva
 furete - kärppä (fretti)  
 furi - vihainen (suuttunut)  
 furita - viha (suuttumus, raivo)  
-futa - rasva (öljy)  
-futa di - rasvainen  
 futau - kirves  
 fute - jalka (jalkaterä)  
 fute bano - jalusta (teline)  
@@ -1734,6 +1732,7 @@ hatar di - vaarallinen
 hava - tuuli (puhallus)  
 Havai - Havaiji  
 Havai nesia - Havaijin saaret  
+haxi - syömäpuikot  
 haxix - hasis  
 Haye - Armenia  
 • mahazin - makasiini (suuri varasto)  
@@ -1991,6 +1990,7 @@ jude - tuomio
 jude di - oikeudellinen  
 jude ja - tuomari  
 jul - joule (J)  
+jumla logi - lauseoppi (syntaksi)  
 jun - nuori  
 jun bei - nuorempi toveri  
 jun bra - pikkuveli  
@@ -2084,6 +2084,7 @@ kar - työskennellä
 • duskar - synti (paha teko)  
 • konkar - tehdä yhteistyötä  
 kar cuti - vapaa (poissaolo töistä)  
+kargi - työkalu  
 karja - työntekijä (työläinen)  
 karkan - paja (työpaja)  
 kar lexi - verbi (teonsana)  
@@ -2233,7 +2234,6 @@ koloni sim - kolonialismi
 koloni sim ja - kolonialisti  
 kolum - pylväs (pilari, tolppa)  
 koma - pilkku  
-komal - pehmeä  
 Komoro nesi - Komorit  
 kompani - yritys (yhtiö)  
 kon - kanssa (yhdessä; yhteinen)  
@@ -2336,6 +2336,7 @@ kurse - kulkea (kulku; kurssi; reitti)
 • prekurser - edeltäjä  
 • trakurse - kulkea läpi (läpikulku)  
 kursi - tuoli  
+kurta - mekko (tunika)  
 kurva - mutka (kurvi)  
 kurva di - mutkikas  
 Kuvaite - Kuwait  
@@ -2430,12 +2431,18 @@ linke - yhteys (suhde, side)
 linse - ilves  
 lipa - seistä (seisoa)  
 lipa di - pysty (seisova)  
+lipi - rasva  
+lipi cupu - rasvaimu  
+lipi di - rasvainen  
+lipi fobi - lipofobia (rasvanpelko)  
+lipi lize - lipolyysi  
 lis - sileä  
 lisan - kieli (elin)  
 liste - lista (luettelo)  
 lito yum - litium  
 litre - litra  
 livermor yum - livermorium  
+lize - purkaa (purku, hajotus)  
 loba - retikka (retiisi)  
 loga - puhua (puhe)  
 loga di - puhuttu (sanallinen)  
@@ -2805,6 +2812,7 @@ nanas - ananas
 nano - nano-  
 nano mitre - nanometri  
 naraka - helvetti  
+naram - pehmeä  
 nardi - backgammon  
 narko - huume  
 narko manika - narkomaani (huumeriippuvainen, addikti)  
@@ -2872,10 +2880,10 @@ nete loka - nettisivu
 neu - uutuustuote  
 neu di - uusi (vasta tehty, käyttämätön)  
 neu fito - tulokaskasvi (neofyytti)  
-neu gene di - vastasyntynyt  
 neu jen - noviisi (uusikko, vasta-alkaja)  
 neu Kaledonia - Uusi-Kaledonia  
 neu loga - uudissana  
+neu nati di - vastasyntynyt  
 neuta - uutuus  
 neu Zelande - Uusi-Seelanti  
 Nevis - Nevis  
@@ -2996,7 +3004,7 @@ pai - piirakka (piiras)
 paka - pakko  
 pake - pakkaus (paketti)  
 Pakistan - Pakistan  
-palaba - riita (kiista)  
+palaba - pulina (hälinä)  
 paladi yum - palladium  
 Palau - Palau  
 palma - palmu  
@@ -3663,7 +3671,6 @@ sukros - sakkaroosi
 sulfe - rikki  
 sulfate - sulfaatti  
 sum - summa  
-sun - pian  
 suna - tapa (perinne)  
 suna di - tavanomainen (perinteinen)  
 suna islam din - sunnalaisuus  
@@ -3714,9 +3721,11 @@ tapa - tulppa (tappi, korkki)
 • antapa - korkata  
 tarif - taksa (tariffi)  
 tasa - astia (kulho)  
-tatike - taktiikka  
+tatika - taktiikka  
 tatu - tatuointi  
 tava - pannu (paistinpannu)  
+• sintaxe - syntaksi  
+taxe nomi - taksonomia (järjestyksenhallinta)  
 taxi - taksa (vero)  
 taxi gar - taksi  
 taxi metri gi - taksamittari  
@@ -3860,7 +3869,6 @@ tuale kamar - vessa
 tubo - putki (tuubi)  
 tufan - myrsky  
 tuh - sylkeä  
-tul - työkalu  
 Tule - Thule  
 tule yum - tulium  
 tulpan - tulppaani  
@@ -3869,7 +3877,6 @@ tundra - tundra
 tundra xan - tunturi  
 tunel - tunneli  
 tunel tren - metrojuna (maanalainen)  
-tunika - mekko (tunika)  
 Tunis - Tunisia  
 tupi - lakki (hattu)  
 turbe - kieppua (sekoittaa; häiritä)  
@@ -3977,6 +3984,7 @@ varite - perintö
 vasin - rokote  
 vate - watti  
 Vatikan - Vatikaanivaltio  
+vava - itkeä  
 vaxi - pestä  
 Vaxington DC - Washington DC  
 vei - vaakatasossa  

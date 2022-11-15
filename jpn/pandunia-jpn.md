@@ -72,8 +72,8 @@ astatin - アスタチン
 astro - 天体   
 astro nomi - 天文学  
 astro nomi ja - 天文学者  
-ati - 行為  
 Athina - アテネ  
+ati - 行為  
 • dusati - 悪事  
 • reati - 反応する  
 • reation - 反応  
@@ -286,7 +286,7 @@ darmestadi yum - ダームスタチウム
 darti - 土  
 data culi - データ処理  
 data culi logi - 計算機科学  
-data fen gata - データ解析  
+data fen lize - データ解析  
 data table - 表  
 dau - 道  
 dava ja - 医者  
@@ -362,7 +362,7 @@ dux - シャワー
 ## E  
 
 einstein yum - アインスタイニウム  
-eko gene di - 野生  
+eko nati di - 野生  
 ekore - 栗鼠  
 eletro - 電気  
 eletro lin - 電線  
@@ -404,9 +404,7 @@ fa dus forma - 醜くする
 fa eskale - 上る (乗る, よじ登る)  
 fa fatu - 罰する  
 fa fei - 飛ぶ  
-fa fen gata - 見つめ直す  
 fa fuku - 着る  
-fa gene - 生む  
 fa glu - 張る (付く)  
 fa hapu - 適応する  
 fa hisabu - 計算する  
@@ -424,6 +422,7 @@ fa mede - 手伝う (助ける)
 fa mei daka - 飾る  
 fa memo - 思い出す  
 fa najis - 汚す  
+fa nati - 生む  
 fa nomi - 組織する  
 fa nume - 数える  
 fa pede - おならをする  
@@ -462,8 +461,8 @@ fatura - 料金
 fei muxu - こうもり (飛鼠)  
 fen - 部分  
 fen di - 部分的  
-fen gata - 分析 (解析)  
 fenil - フェニル基  
+fen lize - 分析 (解析)  
 fenol - フェノール (石炭酸)  
 fermi yum - フェルミウム  
 fero - 鉄  
@@ -634,6 +633,7 @@ has nam - 識別名
 • anhaste - 遅い (ゆっくり)  
 hatar - 危険  
 hava - 風  
+haxi - 箸  
 heli yum - ヘリウム  
 helis fei gi - ヘリコプター  
 hem - 考える  
@@ -735,6 +735,7 @@ jui - 注意
 jui di - 気をつける (慎む)  
 jui note - 注意 (戒め, 警告)  
 jul - ジュール (J)  
+jumla logi - 統語論  
 jun bei - 後輩  
 jun fem - 女の子  
 jun jen - 青少年  
@@ -867,6 +868,7 @@ klor - 塩素
 koala - 子守熊 (コアラ)  
 kobalte - コバルト  
 koda - 尾 (尾翼)  
+koma - コンマ (読点)  
 komputa di - デジタル  
 kon - 共  
 kon bon - 合わせる (適する)  
@@ -963,6 +965,8 @@ lipa - 立つ
 lipa bano - 棚  
 lipa baze - 台  
 lipa side - しゃがむ (蹲る)  
+lipi - 脂肪  
+lipi cupu - 脂肪吸引  
 lisan - 舌  
 lito yum - リチウム  
 litre - リットル  
@@ -1177,6 +1181,7 @@ nete - 網
 neu di - 新しい  
 neu jen - 初心者  
 neu loga - 新語 (新造語)  
+neu nati di - 新生の  
 neu yang di - 近代的  
 ni - 女  
 nia - 意図  
@@ -1527,6 +1532,7 @@ tali yum - タリウム
 tana - 茎 (胴)  
 tantal yum - タンタル  
 tasa - 皿  
+taxe nomi - 分類学  
 taxi vala - タクシー運転手  
 tef - テフ (穀物)  
 tehni - 技術  
@@ -1546,6 +1552,7 @@ tenesi yum - テネシン
 terbi yum - テルビウム  
 terca - 斜め  
 tikete - 札  
+tim - チーム  
 tipe - 種類  
 tire dara - 離岸流  
 tire kane - レバー (てこ)  
@@ -1755,6 +1762,7 @@ zalim raja - 暴君
 zaman - 時間  
 • prezaman di - 古い  
 zar kube - 賽子  
+zebra - 縞馬  
 zeyil - 疣  
 zeze - ハエ目 (双翅目)  
 zi - 字  

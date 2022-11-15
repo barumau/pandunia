@@ -140,7 +140,7 @@
  - dante kumu  
  - dara  
  - data culi  
- - data fen gata  
+ - data fen lize  
  - dau bano  
  - dava xe  
  - dava xekan  
@@ -343,6 +343,7 @@
  - haram liste  
  - Hartum  
  - has nam  
+ - haxi  
  - hazin  
  - hazinkan  
  - helis babul  
@@ -402,6 +403,7 @@
  - jui  
  - jui di  
  - jui note  
+ - jumla logi  
  - jun bei  
  - jun bra  
  - jun sau  
@@ -482,6 +484,10 @@
  - liga di sanduku  
  - limon jus  
  - limon oranje  
+ - lipi cupu  
+ - lipi fobi  
+ - lipi lize  
+ - lize  
  - loga di  
  - loga fili  
  - loge cuti  
@@ -564,7 +570,7 @@
  - nelu di galope  
  - nerve toxi  
  - neu fito  
- - neu gene di  
+ - neu nati di  
  - neuta  
  - nia  
  - nice kitaba  
@@ -711,6 +717,8 @@
  - table  
  - table komputa  
  - tai  
+ - taxe  
+ - taxe nomi  
  - tef  
  - tele fon bude  
  - tele fon lin  
@@ -775,6 +783,7 @@
  - vai vide di  
  - vala  
  - vanu gi  
+ - varibil  
  - varis araki  
  - varis biskute  
  - varis vin  
@@ -975,6 +984,7 @@
  - rikurse  
  - rinati  
  - sinkredisim  
+ - sintaxe  
  - sinteze  
  - speter  
  - sucese  
@@ -1041,8 +1051,7 @@ amerykański - Amerika di
 Amhara, amharski - Amara  
 amper - amper  
 ampułka - ampul  
-analiza - fen gata  
-analizować - fa fen gata  
+analizować (analiza) - fen lize  
 analny, odbytni - anus di  
 ananans - nanas  
 andezyt - andesite  
@@ -1556,7 +1565,7 @@ dziewięć (9) - tisa
 dzień - dia  
 dzień dobry - sal dia  
 dzień świętego Jana - Yohan festa  
-dziki - eko gene di  
+dziki - eko nati di  
 dziki - vilde  
 dziobak - bata krote  
 dziura - kung  
@@ -2283,6 +2292,7 @@ kumkwat - gingam
 kupić - fa xopi  
 kupon - kupon  
 kura, kogut, kurczak - koko  
+kurta (tunika, toga) - kurta  
 kurtka - jake  
 kusić, nakłonić, nakłaniać - tenta  
 kusza (balista) - krus arka  
@@ -2548,7 +2558,7 @@ między (wśród, pośród) - a medi
 międzyetniczny - zuku medi di  
 międzynarodowy - natia medi  
 międzyrasowy - rasa medi  
-miękki - komal  
+miękki - naram  
 mięsny (umami) - umami  
 mięso - nama  
 mięta - minta  
@@ -2679,7 +2689,7 @@ narkotyk - narko
 narodowy (ludowy) - natia di  
 narodowy socjalizm (nazizm) - natia sosia sim  
 narodziny - nati  
-narzędzie - tul  
+narzędzie - kargi  
 naród, narodowość - natia  
 nasienny - seme di  
 następny (następujący) - pos di  
@@ -3394,6 +3404,7 @@ pękać (rozrywać się) - parce kai
 pęknięcie - krake  
 pęknąć (rozpaść się) - be fen  
 płakać, łkać - uhu  
+płakać, łkać - vava  
 płaski - plate di  
 płaski chleb, ćapati - capati  
 płaskowyż (plateau) - meza stan  
@@ -3910,7 +3921,7 @@ tak - ya
 taki sam - sam  
 taksometr - taxi metri gi  
 taksówkarz - taxi vala  
-taktyka, strategia - tatike  
+taktyka - tatika  
 tal - tali yum  
 talerz - plate tasa  
 taleta, WC - tuale kamar  
@@ -4022,7 +4033,6 @@ tulipan - tulpan
 tundra - tundra  
 tunel - tunel  
 Tunezja - Tunis  
-tunika, toga - tunika  
 turban - pagri  
 turbina - turbin  
 Turcja - Turki  
@@ -4060,8 +4070,8 @@ tłok - pompe tapa
 tłok - puxa gi  
 tłumacz - trabaxar  
 tłumaczyć (interpretować; tłumaczenie, interpretacja) - trabaxa  
-tłusty - futa di  
-tłuszcz - futa  
+tłusty - lipi di  
+tłuszcz - lipi  
 U - U  
 ubranie, ubiór, strój - fuku  
 ucho - ore  
@@ -4107,7 +4117,7 @@ urdu - urdu
 uroczy, słodki - kavai  
 urodziny - nati den  
 urodzić się, rodzić się - be gene  
-urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić - fa gene  
+urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić - fa nati  
 urosnąć, rosnąć, wzrosnąć, wzrastać - be dai  
 Urugwaj - Uruguai  
 urząd, pozycja, stanowisko, funkcja - guan  
@@ -4246,7 +4256,7 @@ większość - max di fen
 więzienie, kara więzienia, kara pozbawienia wolności - jela  
 więzienie, zakład karny - jelakan  
 wiśnia (czereśnia) - ceri  
-wkrótce - sun  
+wkrótce - a korte  
 wnieć wkład (przyczynić się) - fen don  
 wnętrze (środek) - in  
 woda - sui  
@@ -4618,7 +4628,7 @@ zły, zrujnowany, zepsuty - harabu
 świnia - goro  
 świątynia - pujakan  
 święto - festa den  
-świętować, imprezować - fa festa  
+świętować, imprezować - festa  
 święty - sante  
 źle zrozumieć - galte budi  
 źródło, początek, pochodzenie - asal  

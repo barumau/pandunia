@@ -144,8 +144,7 @@ anaerobic - anair bio di
 anaglyphic (stereoscopic) - du grafi di  
 anal - anus di  
 analog clock - undurali hor loga gi  
-analyse (dissect, parse) - fa fen gata  
-analysis (dissection) - fen gata  
+analyse (analysis) - fen lize  
 anchor - angar  
 anchovy - ancovi  
 Ancient Egypt (Kemet) - Keme  
@@ -530,6 +529,7 @@ bravo! - bravo
 Brazil - Brazil  
 Brazzaville - Brazavil  
 bread - pang  
+breakdown (-lysis) - lize  
 breakfast - suba yam  
 breast (boob, tit) - titi  
 breastplate - sine plate  
@@ -683,7 +683,7 @@ cause (be the cause for) - fa sabu
 cave - gua  
 Cayman Islands - Kaiman nesi  
 ceiling - kamar gau  
-celebrate (party) - fa festa  
+celebrate (party) - festa  
 celestial (heavenly) - sama di  
 celestial body - astro  
 cell (biology) - selu  
@@ -759,6 +759,7 @@ choir (chorus) - ganir grupe
 cholera - holera  
 Chongqing - congcing  
 choose (elect, select, pick; choice, selection) - cun  
+chopsticks - haxi  
 Christ (messiah) - mesi  
 Christian - mesi din ja  
 Christianity - mesi din  
@@ -889,7 +890,6 @@ conduct (lead together) - kondute
 conductor (director) - konduter  
 conduit (channel) - kanal ja  
 cone - kone  
-conflict (argument, dispute, quarrel) - palaba  
 conform (fit, mold) - kon forma  
 conform (fit, mold) - konforma  
 Confucianism - kung fuzi sim  
@@ -1049,7 +1049,7 @@ darmstadtium - darmestadi yum
 Darwinism - darvin sim  
 Darwinist - darvin sim ja  
 data (numeric information) - data  
-data analysis - data fen gata  
+data analysis - data fen lize  
 data processing - data culi  
 data table (matrix) - data table  
 database (databank) - data banke  
@@ -1464,12 +1464,12 @@ fascism - faxa sim
 fascist - faxa sim ja  
 fashion (trend) - faxon  
 fast (quick, rapid, speedy) - suga  
-fat (grease) - futa  
+fat (grease) - lipi  
 father (dad, papa) - pa  
 father-in-law - per pa  
 fatherly (paternal) - pa di  
 fatigue (weariness) - fatige  
-fatty (greasy) - futa di  
+fatty (greasy) - lipi di  
 fault (sin, blame, defect, guilt) - doxa  
 fault line - geo kaska krake  
 favor (goodwill) - favor  
@@ -1705,7 +1705,7 @@ giraffe - jirafa
 girl - jun fem  
 girl - you ni  
 give - don  
-give birth (beget, generate, breed) - fa gene  
+give birth (beget, generate, breed) - fa nati  
 give consultation - kon sel  
 glass - kanca  
 glaze (vitrify) - fa kanca dake  
@@ -2346,6 +2346,9 @@ link - serime
 linseed - yama seme  
 lion - singa  
 lip - labi  
+lipolysis - lipi lize  
+lipophobia - lipi fobi  
+liposuccion - lipi cupu  
 liquid - dara mate  
 liquor - araki  
 list (listing, catalogue) - liste  
@@ -2801,7 +2804,7 @@ New Caledonia - neu Kaledonia
 New York - neu Yorke  
 New York City - neu Yorke siti  
 New Zealand - neu Zelande  
-newborn - neu gene di  
+newborn (neonatal) - neu nati di  
 newness - neuta  
 news - habar  
 news media - habar media  
@@ -2937,6 +2940,7 @@ orange (orange-colored) - oranje rang
 orchard - frute bagi  
 orchid - orkide  
 order (arrange) - fa ratibu  
+order (arrangement) - taxe  
 order (arrangement, sequence) - ratibu  
 order (command) - amir  
 orderly (organized, in sequence, tidy, regular) - ratibu li  
@@ -3004,6 +3008,7 @@ Pakistan - Pakistan
 palace (mansion) - dai dom  
 palate - boka cati  
 Palau - Palau  
+palaver (debate, fuss) - palaba  
 Palestinian Territory - Filistin  
 palladium - paladi yum  
 palm tree - palma  
@@ -3882,7 +3887,7 @@ sock (stocking) - maze
 sockeye salmon - rubi salmon  
 sodium - natri  
 sofa (couch) - sofa  
-soft - komal  
+soft - naram  
 software (virtual device) - program gi  
 soil (dirt) - darti  
 soily (dirty) - darti di  
@@ -3900,7 +3905,7 @@ sometime - yo sata
 son - son  
 son's daughter - son doh  
 son's son - son son  
-soon - sun  
+soon (after a while) - a korte  
 sorghum (durra, jawar, Indian millet) - jovar  
 sororal nephew - sis son  
 sororal niece - sis doh  
@@ -4088,6 +4093,8 @@ syllable - lexi fen
 symbol (emblem) - simbol  
 symmetry (symmetrical) - sam metri  
 synchretism - sinkredisim  
+syntax (study of phrases) - jumla logi  
+syntax - sintaxe  
 synthesis - sinteze  
 Syria - Suria  
 syrup - xirope  
@@ -4102,7 +4109,7 @@ tablecloth - meza tela
 tablespoon - supa camaca  
 tablette computer - table komputa  
 tabulate - table yo data  
-tactics (strategy) - tatike  
+tactic (maneuver) - tatika  
 tag (ticket, label, slip, note) - tikete  
 taiga - taiga  
 tail (coda) - koda  
@@ -4132,6 +4139,7 @@ tattoo - tatu
 taxi (cab) - taxi gar  
 taxi driver (cab driver) - taxi vala  
 taximeter - taxi metri gi  
+taxonomy - taxe nomi  
 tea - cai  
 tea cup - cai kupa  
 tea house - caikan  
@@ -4271,7 +4279,7 @@ tongue - lisan
 tonne (metric ton) - mega gram  
 too little - min ka bas  
 too much - max ka bas  
-tool - tul  
+tool - kargi  
 tooth - dante  
 tooth brush - dante broxa  
 toothless - dante hin  
@@ -4344,7 +4352,7 @@ tulip - tulpan
 tuna - tuna  
 tundra - tundra  
 tungsten (wolfram) - volfram  
-tunic (gown) - tunika  
+tunic (kirtle) - kurta  
 Tunisia - Tunis  
 tunnel - tunel  
 turban - pagri  
@@ -4435,6 +4443,7 @@ vampire squid - vampir ohtopus
 vanadium - vanadi yum  
 vanilla - vanila  
 Vanuatu - Vanuatu  
+variable - varibil  
 various (diverse, miscellaneous) - vari  
 vault (arched ceiling or roof) - arka cati  
 vegan - pul fito yam sim ja  
@@ -4543,6 +4552,7 @@ weave (knit) - fa tela
 website - nete loka  
 Wednesday - merkurden  
 week - cetiden  
+weep (cry) - vava  
 weft - vei lin  
 weight (heft, gravity) - veze  
 welcome! - sal lai  
@@ -4581,7 +4591,7 @@ wife - ni per (fem)
 wiki - viki  
 wiki article - viki makala  
 wikipedia - viki pedia  
-wild (savage) - eko gene di  
+wild (savage) - eko nati di  
 wild (savage) - vilde  
 will (volition, desire) - ici  
 will (want) - fa ici  

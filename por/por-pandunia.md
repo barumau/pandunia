@@ -84,7 +84,7 @@ anis - anis
 Antigo Egito - Keme  
 antimónio - estibi yum  
 anzol - pexe huke  
-análise - fen gata  
+análise - fen lize  
 aperfeiçoar - fa pul bon  
 apodrecer-se - be pute  
 aprender - fa xula  
@@ -349,6 +349,7 @@ chibata - uma bici
 chicote - bici  
 China - Jongoku  
 chocolate - coklate  
+chorar - vava  
 chumbo - plumbe  
 chupar (sugar) - cupu  
 chuva - barxa  
@@ -757,6 +758,7 @@ glicina - glukin
 glicogênio - glukogen  
 glicosa - glukos  
 golfinho (delfim) - dolfin  
+gordura - lipi  
 gorila - gorila  
 governo - politi  
 grama (relva) - cau  
@@ -856,6 +858,7 @@ intestino (entranhas, tripa) - antra
 invernal (hibernal) - leng mosim di  
 inverno - leng mosim  
 iodo - iode  
+ioga - yoga  
 iogurte - yogur  
 ir - ga  
 irmã - sis  
@@ -1257,6 +1260,7 @@ pato - bata
 patologia - pati logi  
 patógeno - pati gene xe  
 pausa - pauza  
+pauzinho (hashi) - haxi  
 pavão real - mayur  
 paz - pase  
 pederneira - hogo seku  
@@ -1443,7 +1447,7 @@ receber - recepe
 receita - reseta  
 receptor - receper  
 reciclar - resikle  
-recém-nascido - neu gene di  
+recém-nascido (neonato) - neu nati di  
 referir - refere  
 refugo (escória) - lasa  
 regime - politi mode  
@@ -1567,6 +1571,8 @@ sim - ya
 simetria - sam metri  
 simulação - sam sifa xe  
 sino (campainha) - dang gi  
+sintaxe - jumla logi  
+sintaxe - sintaxe  
 situaçao - xe hal  
 sobreviver - trajiva  
 sobrinha - sau doh  
@@ -1612,6 +1618,7 @@ tangerina (mandarim) - rubi oranje
 tapioca - manioka fufu  
 tartaruga - tortuga  
 taxista - taxi vala  
+taxonomia (taxinomia) - taxe nomi  
 taxímetro - taxi metri gi  
 tear - tela gi  
 tecnécio - tehni yum  
@@ -1653,6 +1660,7 @@ tio - cin bra
 titânio - titan yum  
 toalha - tuale  
 toalha de mesa - meza tela  
+tom - ton  
 tomate - tomate  
 tomografia - tomi grafi  
 topografia - topo grafi  
@@ -1687,12 +1695,15 @@ turbina - turbin
 turbojato - turbejeter  
 tábua (prancha) - moka bano  
 tálio - tali yum  
+tática - tatika  
 tântalo - tantal yum  
 técnica - tehni  
 térbio - terbi yum  
 título - tema nam  
 tório - tor yum  
 túlio - tule yum  
+túlipa - tulpan  
+túnica - kurta  
 
 ## U  
 
@@ -1721,6 +1732,7 @@ vanádio - vanadi yum
 vapor - sui gas  
 vara (bastão) - kane  
 vara de pescar - huke lin kane  
+variável - varibil  
 vaso de flores - hua pote  
 vassoura - jaru  
 vazar - lou  
@@ -1768,11 +1780,13 @@ vulva - vulva
 vários - vari  
 Vénus - Zukra  
 véu - hijabu  
+vírgula - koma  
 waffle - vafle  
 
 ## X  
 
 xadrez - xah geme  
+xarope - xirope  
 xeque-mate - xah mata  
 xiismo - xia islam din  
 xilose - xilos  

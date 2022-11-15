@@ -7,6 +7,7 @@ a dura de - durante
 a jong - centrarse (en el centro de)  
 a ke - dónde  
 a kon - juntos  
+a korte - pronto  
 a late - estar al lado de  
 a lin - en línea  
 a max - además  
@@ -181,9 +182,9 @@ astro nave - astronave (nave estelar)
 astro nave ja - astronauta  
 astro nomi - astronomía  
 astro nomi ja - astrónomo  
-ati - acto  
 ata - anón (ates, saramuyo)  
 Athina - Atenas  
+ati - acto  
 • dusati - pecado  
 • reati - reaccionar  
 • reation - reacción  
@@ -655,7 +656,7 @@ data - datos
 data banke - banco de datos (base de datos)  
 data culi - procesamiento de datos  
 data culi logi - informática (computación)  
-data fen gata - análisis de datos  
+data fen lize - análisis de datos  
 data table - tabla  
 dau - camino (calle)  
 dau bano - señal de tránsito  
@@ -819,8 +820,8 @@ einstein yum - einsteinium
 Eire - Irlanda  
 eko - medioambiente (naturaleza)  
 eko di - ambiental (ecológico, natural)  
-eko gene di - salvaje  
 ekologi - ecología  
+eko nati di - salvaje  
 ekore - ardilla  
 ekran - pantalla  
 Ekuador - Ecuador  
@@ -934,8 +935,6 @@ fa fatu - castigar
 fa fei - volar  
 fa fen - dividir (repartir)  
 fa fen do du - reducir a la mitad (dividir en dos)  
-fa fen gata - analizar (disecar)  
-fa festa - celebrar (festejar)  
 fa fikir - pensar  
 fa fin - terminar (acabar)  
 fa fobi - asustar (atemorizar)  
@@ -951,7 +950,6 @@ fa gan - secar
 fa gas - gasificar  
 fa gau - levantar (elevar)  
 fa geme - jugar un juego  
-fa gene - dar a luz (enngendrar, parir, procrear)  
 fa glu - pegar  
 fa gol - lograr (llegar)  
 fa gola - rodear (cirundar)  
@@ -1030,6 +1028,7 @@ fa nafas - respirar
 fa nahun - arañar  
 fa najis - corromper (contaminar)  
 fa nam - llamar (poner)  
+fa nati - dar a luz (enngendrar, parir, procrear)  
 fa neu - renovar  
 fa node - hacer un nudo  
 fa nomi - organizar (gestionar)  
@@ -1171,14 +1170,15 @@ fem sim ja - feministe
 fen - parte (fracción)  
 fen di - parcial  
 fen don - contribuir  
-fen gata - análisis (disección)  
 fenil - fenilo  
+fen lize - analizar (análisis)  
 fenol - fenol  
 • infere - inferir  
 • prefere - preferir  
 • refere - referir  
 fermi yum - fermio  
 fero - hierro  
+festa - celebrar (festejar)  
 festa - celebración (fiesta)  
 festa den - día festivo (feriado)  
 fete - hacer (hecho)  
@@ -1284,8 +1284,6 @@ funsi - funcionar
 furete - hurón  
 furi - enojado (furioso)  
 furita - ira (furia)  
-futa - grasa  
-futa di - graso (adiposo)  
 futau - hacha  
 fute - pie (pata)  
 fute bano - andamiaje  
@@ -1557,6 +1555,7 @@ hatar di - peligroso
 hava - viento  
 Havai - Hawái  
 Havai nesia - archipiélago de Hawái  
+haxi - palillos  
 haxix - hachís  
 Haye - Armenia  
 • mahazin - almacén  
@@ -1802,6 +1801,7 @@ jui di - cuidadoso (cauteloso, tener cuidado)
 jui note - advertencia (aviso)  
 jul - joule (J)  
 jumla - oración  
+jumla logi - sintaxis  
 jun - joven  
 jun fem - niña  
 jun jen - joven  
@@ -1900,6 +1900,7 @@ kape yo taxi - gravar (cobrar tasas)
 kar - trabajar  
 • duskar - pecado  
 • konkar - colaborar  
+kargi - herramienta  
 karja - trabajador (obrero)  
 kar lexi - verbo  
 karm eza - escritorio (mesa de trabajo)  
@@ -2045,7 +2046,6 @@ koloni sim - colonialismo
 koloni sim ja - colonialista  
 kolum - poste (columna)  
 koma - coma  
-komal - blando (mullido)  
 Komoro nesi - Comoros  
 kompani - compañía (empresa, corporación)  
 komputa di - dígital  
@@ -2150,6 +2150,7 @@ kuri yum - curio
 • prekurser - precursor  
 • trakurse - transcurrir  
 kursi - silla  
+kurta - túnica  
 kurva - curva  
 kurva di - curvo  
 Kuvaite - Kuwait  
@@ -2253,6 +2254,9 @@ lipa bano - estante (repisa)
 lipa baze - soporte (perchero, atril)  
 lipa di - erguido  
 lipa side - agacharse  
+lipi - grasa  
+lipi cupu - липосакция  
+lipi di - graso (adiposo)  
 lis - suave (liso)  
 lisan - lengua  
 liste - lista  
@@ -2648,6 +2652,7 @@ nanas - piña
 nano - nano-  
 nano mitre - nanometre  
 naraka - infierno  
+naram - blando (mullido)  
 nardi - backgammon  
 narko - droga (narcótico)  
 nati - nacer (nacimiento)  
@@ -2714,10 +2719,10 @@ nete loka - sitio web
 neu - novedad  
 neu di - nuevo  
 neu fito - planta neófita  
-neu gene di - neonato (recién nacido)  
 neu jen - novato  
 neu Kaledonia - Nueva Caledonia  
 neu loga - neologismo  
+neu nati di - neonato (recién nacido)  
 neuta - novedad  
 neu yang di - moderno  
 neu Zelande - Nueva Zelanda  
@@ -3530,7 +3535,6 @@ sultan - poder (autoridad, competencia)
 sultan dexa - sultanato  
 sultan ja - gobernante (soberano)  
 sum - suma (total)  
-sun - pronto  
 suna - costumbre (tradición, convención)  
 suna di - traditional (convencional)  
 suna islam din - sunismo  
@@ -3582,9 +3586,11 @@ tapa - tapón (tapa)
 • antapa - desatascar  
 tarif - impuesto (tributo, tarifa)  
 tasa - plato  
-tatike - táctica (estrategia)  
+tatika - táctica  
 tatu - tatuaje  
 tava - sartén  
+• sintaxe - sintaxis  
+taxe nomi - taxonomía  
 taxi - tasa (precio, cuota, tarifa)  
 taxi gar - taxi (cab)  
 taxi vala - taxista (taximetrista)  
@@ -3711,14 +3717,12 @@ tuale kamar - inodoro (wáter, retrete)
 tubo - tubo  
 tufan - tormenta (tempestad)  
 tuh - escupir (bufar)  
-tul - herramienta  
 tule yum - tulio  
 tulpan - tulipán  
 tuna - atún  
 tundra - tundra  
 tunel - túnel  
 tunel tren - metro  
-tunika - túnica  
 Tunis - Túnez  
 tupi - sombrero  
 turbe - molestar (perturber)  
@@ -3809,11 +3813,13 @@ vanu di - divertido
 vanu gi - jugete  
 Vanuatu - Vanuatu  
 vari - distintos (diversos)  
+varibil - variable  
 varis - arroz  
 varite - patrimonio (herencia, legado)  
 vasin - vacuna  
 vate - vatio  
 Vatikan - Santa Sede (Estado de la Ciudad del Vaticano)  
+vava - llorar  
 vaxi - lavar  
 vei gola - paralelo (línea de latitud)  
 vei gradu - latitud  
