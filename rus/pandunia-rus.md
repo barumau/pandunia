@@ -27,7 +27,7 @@ aha - ага
 air - воздух  
 air bio di - аэробный  
 air ordu - военно-воздушные силы  
-air porte - аэропорт  
+air porto - аэропорт  
 ais hoki - хокке́й с ша́йбой  
 ais krem - мороженое  
 akare - клещ (лепта)  
@@ -135,6 +135,7 @@ bagre oselote - онцилла
 baka ja - хлебопёк (пекарь)  
 bakakan - пекарня (булочная)  
 baka poto - терракота  
+baki - остаток  
 baku - белый  
 baku margarite - нивяник обыкновенный (ромашка)  
 baku salmon - кета  
@@ -207,7 +208,7 @@ bebe - младенец
 bebe bede - детская кроватка  
 bede - кровать (койка)  
 bei - товарищ  
-bele - лопата  
+belca - лопата  
 ben - ребёнок (потомок)  
 ben ben - внуки  
 ben doh - внучка  
@@ -318,7 +319,6 @@ cira - рвать
 cira cira - изорвать  
 cira cira di - изорванный  
 cita - гепард  
-cize - сыр  
 coi - зелень  
 coklate - шоколад  
 copu - мотыга  
@@ -478,12 +478,12 @@ fa fobi - страшить
 fa forma - формировать  
 fa fuku - одевать  
 fa fuku - носить (одеваться)  
+fa glas dake - глазуровать  
 fa glu - клеиться  
 fa hisabu - вычислять  
 fa hogo - жечь (палить)  
 fa in klus - включить  
 fa jui - предостерегать  
-fa kanca dake - глазуровать  
 fa karga - обременять  
 fa kino - двигать  
 fa kung - пробиться  
@@ -504,7 +504,7 @@ fa plasti - лепить
 fa prese - нажимать  
 fa pul - заполнять  
 fa re - повторять  
-fa safa va tela - вытереть  
+fa saf va tela - вытереть  
 fa saide - охотиться  
 fa sel - советовать  
 fa side - сидеть  
@@ -578,6 +578,7 @@ foto minar - маяк
 foto mira di - глянцевый  
 foto so - фотон  
 franse yum - франций  
+frasen - ясень  
 frem - рама  
 frike - царапать  
 frutos - фруктоза  
@@ -648,6 +649,8 @@ gingam - кумкват (кинкан)
 gio - учить (преподавать)  
 gitar - гитара  
 giuka - нефрит (жад)  
+glas - стекло  
+glas daka - глазурь  
 glis - задвигаться (скользи́ть)  
 glu bande - пластырь  
 glu di - клейкий (липкий)  
@@ -717,6 +720,7 @@ has nam - идентификатор
 haste - спешка  
 hata - до  
 hatar - опасность  
+hei - эй  
 heli yum - гелий  
 helis babul - акация кручёная  
 helis fei gi - вертолёт  
@@ -806,6 +810,7 @@ jau - ячмень
 javabu - ответ  
 jebu - карман  
 jen jami - толпа  
+jenju table - счёты (абак)  
 • projete - проект  
 jihade - борьба (бой)  
 jinji - имбирь  
@@ -874,8 +879,6 @@ kamisa - рубашка
 kampe bagi - полевой стан  
 kampe bede - раскладушка  
 kanal - канава (канал)  
-kanca - стекло  
-kanca daka - глазурь  
 kandi - конфета  
 kane - кол (штанга)  
 kane kasa - клетка  
@@ -887,6 +890,10 @@ kantalupo melon - канталупа
 Kantalupo va Sabina - Канталупо-ин-Сабина  
 kanu - каноэ  
 kanyon - овраг (ущелье, каньон)  
+kapa - голова  
+kapa hin - безголовый  
+kapa kexa - волосы  
+kapa kexa hin - лысый  
 kape truke - ловушка  
 kar - работать  
 • konkar - сотрудничать (кооперировать)  
@@ -936,6 +943,7 @@ kerne vuki - ядерное оружие
 keton - кетон  
 kexa broxa - щётка для воло́с  
 kexa hin - безволосый  
+keze - сыр  
 ki - что  
 kimi - вещество  
 kimi logi - химия  
@@ -963,6 +971,7 @@ klor - хлор
 koala - коала  
 kobalte - кобальт  
 koda - хвост  
+komi - комический (смешной)  
 komputa di - цифровой  
 kon bon - соответствовать (сочетаться)  
 kon forma - применяться (согласоваться)  
@@ -1056,7 +1065,7 @@ lexi li - лексический
 lexime - лексема  
 liama - лама  
 libele - стрекоза  
-lida ja - руководитель (лидер)  
+lider - руководитель (лидер)  
 liga - лига (союз)  
 liga di sanduku - ковчег завета  
 lima - пять (5)  
@@ -1092,7 +1101,6 @@ luba - любовь
 lubar - любовник  
 luga - зелёный  
 luka - шесть (6)  
-lulu table - счёты (абак)  
 lumen - لُومِن‎  
 luna - луна  
 lunaden - понедельник  
@@ -1119,6 +1127,7 @@ maltos - мальтоза (солодовый сахар)
 manera - поведение (манера)  
 mang - занятый  
 mangan - марганец  
+mani - мания  
 mani din - манихейство  
 manioka - маниока  
 manioka fufu - тапиока  
@@ -1138,6 +1147,7 @@ maska - маска
 masta - мачта  
 master - мастер  
 mate - материя  
+mate cai - матэ  
 mate lona - материализм  
 matur jen - взрослый  
 mau - кошка  
@@ -1356,6 +1366,7 @@ panda - панда
 pang - хлеб  
 panir - творог  
 panka - крыло  
+pankreas - поджелудочная железа  
 pante - брюки  
 papagai - попугай  
 papaya - папайя  
@@ -1386,6 +1397,7 @@ pati mise - инфекция (заразная болезнь)
 pau - стрелять  
 pau gi - пистолет  
 pauza - пауза  
+payaco - клоун (паяц)  
 pede - пердение  
 pei kar - профессия  
 pei kar di - профессиона́льный  
@@ -1438,11 +1450,12 @@ politi ja - управляющий
 polska yum - полоний  
 pompe tapa - поршень  
 ponte pin - компас  
+pore - пора  
 porei - лук-порей  
-porte - порт  
 porte - носить  
 • reporte - репортаж  
 • reporter - репортёр  
+porto - порт  
 Portoriko - Пуэрто-Рико  
 portoriko jen - пуэрториканец  
 posta marke - почтовый штемпель  
@@ -1498,7 +1511,6 @@ razon - разум
 Ren - Рейн  
 ren yum - рений  
 rentegen yum - рентгений  
-reste - остаток  
 retro gula - рвать (изрыга́ть)  
 retro gula sense - тошнота  
 retro note - обратная связь  
@@ -1548,7 +1560,7 @@ sagu - саго
 sahi - правильный  
 salta - благосостояние  
 sala - зал  
-salu safata - гигиена  
+salu safta - гигиена  
 sam bei - ровня  
 sam emos - сострадание  
 sam metri - симметрия  
@@ -1569,10 +1581,6 @@ sanduku - сундук
 sante kanon - священное писание  
 sanzi - веер  
 sapatu - туфля  
-sar - голова  
-sar hin - безголовый  
-sar kexa - волосы  
-sar kexa hin - лысый  
 sata - момент  
 sata di - моментальный (минутный)  
 sau doh - племянница  
@@ -1741,6 +1749,7 @@ topo grafi - топография
 topo metri grafi - карта (план)  
 tor yum - торий  
 toxilogi - токсикология  
+tragi - трагический  
 • antranse vide di - непрозрачный  
 transe vide di - прозрачный  
 trate - волочить  
@@ -1761,6 +1770,7 @@ tule yum - тулий
 tulpan - тюльпан  
 tuna - тунец  
 tundra xan - фьельды  
+tur - путешествие (турне)  
 turbe - утруждай  
 turbejeter - турбореактивный двигатель  
 turbin - турбина  
@@ -1913,7 +1923,6 @@ yam liste - меню
 yam yau - голод  
 yama - лён  
 yama seme - льняное семя  
-yasen - ясень  
 yatim dom - детский дом  
 yau di - нужный  
 yauta - нужда  

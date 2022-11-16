@@ -91,7 +91,7 @@ air - ilma
 air bio di - aerobinen  
 • anair bio di - anaerobinen  
 air ordu - ilmavoimat  
-air porte - lentoasema (lentokenttä)  
+air porto - lentoasema (lentokenttä)  
 air prese - ilmanpaine  
 air prese metri gi - ilmapuntari (ilmanpainemittari, barometri)  
 ais - jää  
@@ -242,6 +242,7 @@ atom bomba - atomipommi
 atom kerne - atomiydin  
 atom vuki - atomiase  
 audi - kuulla (kuunnella)  
+auge - lisä (kasvu, nousu, huippu)  
 auro - kulta  
 Australia - Australia  
 Austronesi - Austronesia  
@@ -294,6 +295,7 @@ baka ja - leipuri
 bakakan - leipomo  
 baka poto - terrakotta  
 bakalau - turska  
+baki - jäännös (loput)  
 baku - valkoinen (valkea)  
 baku coi - pinaattikiinankaali  
 baku margarite - ahopäivänkakkara  
@@ -400,6 +402,7 @@ be fatige - väsyä
 be fen - jakautua (hajota)  
 be fin - loppua  
 be fobi - pelätä  
+be fuzi liga - sulaa yhteen (fuusioitua)  
 be gamo - tuntea (kokea tunteita)  
 be gas - kaasuuntua  
 be gau - nousta  
@@ -453,7 +456,6 @@ be vai - poistua (mennä ulos)
 be vanu - leikkiä (pitää hauskaa)  
 be vide - näkyä  
 be xuru - alkaa  
-be yung liga - sulaa yhteen (fuusioitua)  
 be zai - ilmestyä  
 bebe - vauva  
 bebe bede - pinnasänky  
@@ -466,7 +468,7 @@ Beijing - Peking (Beijing)
 bel - beli (B)  
 bela - kurjuus (ahdinko, hankaluus, harmi)  
 Belarus - Valkovenäjä  
-bele - lapio  
+belca - lapio  
 Belgi - Belgia  
 Belize - Belize  
 ben - lapsi (jälkeläinen)  
@@ -681,7 +683,6 @@ cira - repiä
 cira cira - raastaa  
 cira cira di - raastettu  
 cita - gepardi  
-cize - juusto  
 coda - nussia (panna)  
 coi - vihannes  
 coklate - suklaa  
@@ -1071,6 +1072,7 @@ fa gan - kuivata (kuivattaa)
 fa gas - kaasuttaa  
 fa gau - nostaa  
 fa geme - pelata  
+fa glas dake - lasittaa  
 fa glu - liimata  
 fa gol - saavuttaa  
 fa gola - ympäröidä (piirittää)  
@@ -1101,7 +1103,6 @@ fa juxa - ruiskuttaa
 fa kai - aukaista (avata)  
 fa kaka - ulostaa (kakata)  
 fa kanal - kanavoida  
-fa kanca dake - lasittaa  
 fa karga - lastata (ladata)  
 fa kata - kertoa  
 fa keka - käydä (vierailla)  
@@ -1209,7 +1210,7 @@ fa rolo - kääriä
 fa romanse - rakastaa romanttisesti  
 fa rota - pyörittää  
 fa sabu - aiheuttaa (olla syynä)  
-fa safa - puhdistaa (siivota)  
+fa saf - puhdistaa (siivota)  
 fa safar - matkustaa  
 fa sahi - korjata (tehdä oikeaksi)  
 fa saide - pyytää (metsästää, kalastaa)  
@@ -1294,9 +1295,9 @@ fati - jakaa (jaella)
 fatige - väsymys  
 fatura - lasku (faktuura)  
 favor - suosio (hyväntahtoisuus)  
-faxa - side (remmi)  
-faxa sim - fasismi  
-faxa sim ja - fasisti  
+faxi - side (remmi)  
+faxisim - fasismi  
+faxisimja - fasisti  
 faxon - trendi  
 faxon di - suosittu (trendikäs)  
 faze - vaihe (etappi)  
@@ -1421,6 +1422,7 @@ Franse Guyana - Ranskan Guiana
 Franse krepe - kreppi  
 Franse Polinesi - Ranskan Polynesia  
 franse yum - frankium  
+frasen - saarni  
 frem - kehys (raamit)  
 frike - hangata  
 frutos - fruktoosi (hedelmäsokeri)  
@@ -1451,6 +1453,9 @@ fute bano - jalusta (teline)
 fute bol - jalkapallo  
 fute marke - jalanjälki  
 fute xaka - jalka (alaraaja)  
+fuzi - sulaa  
+fuzi liga - fuusio (yhteensulautuminen)  
+fuzi petra - laava  
 
 ## G  
 
@@ -1562,7 +1567,7 @@ geo par lin - päiväntasaaja
 Geo Par Lin Ginia - Päiväntasaajan Guinea  
 geo politi - geopolitiikka  
 geo sismo - maanjäristys  
-geo tika - tontti (maakaistale)  
+geo tike - tontti (maakaistale)  
 german yum - germanium  
 Germania - Germania  
 Gernezi - Guernsey  
@@ -1581,6 +1586,7 @@ gio ja - opettaja
 giota - pisara (tippa)  
 gitar - kitara  
 giuka - jade  
+glas - lasi  
 glis - liukua (luistaa)  
 glu - liima  
 glu bande - laastari  
@@ -1617,6 +1623,7 @@ grafi kata - sarjakuva
 grafi lanse gi - projektori (videotykki, piirtoheitin)  
 grafi projeter - projektori (videotykki, piirtoheitin)  
 gram - gramma  
+gran - jyvänen (hiukkanen)  
 granite - graniitti  
 grave - sora  
 Grenada - Grenada  
@@ -1683,7 +1690,7 @@ hai jele - meduusa
 hai kinar - merenranta  
 hai nil - merensininen  
 hai ordu - merivoimat (sotalaivasto)  
-hai porte - satama  
+hai porto - satama  
 hai vala - merimies  
 haide - tehkäämme  
 haki - pöly (tomu)  
@@ -1737,6 +1744,7 @@ haxix - hasis
 Haye - Armenia  
 • mahazin - makasiini (suuri varasto)  
 he - häh (-ko, -kö)  
+hei - hei  
 Helen - Kreikka  
 Helen di - kreikkalainen  
 heli yum - helium  
@@ -1808,7 +1816,7 @@ hogo sanduku - lyhty
 hogo seku - piikivi  
 hogo tehni - pyrotekniikka  
 hogo xan - tulivuori  
-hogo xan kanca - vulkaaninen lasi  
+hogo xan glas - vulkaaninen lasi  
 hoki - hockey (jääkiekko)  
 holera - kolera  
 holme yum - holmium  
@@ -1852,6 +1860,7 @@ i - ja (sekä)
 ibri - heprea  
 ici - tahto  
 • anicija - vastahakoinen (haluton)  
+ide - käsite (idea)  
 idea - käsite (idea)  
 idea di - käsitteellinen  
 idea zi - ideogrammi  
@@ -1951,6 +1960,7 @@ Jayer - Algeria
 jaze - jazz (jatsi)  
 jebra - algebra  
 jebu - tasku  
+jebu caku - taskuveitsi (linkkuveitsi)  
 jela - vankeus  
 jela ja - vanginvartija  
 jelakan - vankila  
@@ -1960,6 +1970,8 @@ jen (jen men) - ihmiset (yleisen persoonan pronomini)
 jen di - henkilökohtainen (privaatti)  
 jen hai - ihmismeri  
 jen jami - väkijoukko  
+jenju - helmi  
+jenju table - helmitaulu  
 jenxen - ginseng  
 Jerze - Jersey  
 • injete - ruiskuttaa (ruiske, injektio)  
@@ -2001,6 +2013,7 @@ junnen - nuoruusvuodet
 jun sis - pikkusisko  
 junta - nuoruus  
 jung - laji  
+junte - nivel (liitos)  
 jupe - hame  
 jus - mehu  
 juste - juuri (tarkka, täsmällinen)  
@@ -2062,7 +2075,6 @@ kamri - walesilainen
 kan - paja (tekimö)  
 Kanada - Kanada  
 kanal - oja (kanava, kanaali)  
-kanca - lasi  
 kandela - kandela  
 kandi - makeinen (karkki, namu)  
 kane - tanko (pinna, sauva, patukka)  
@@ -2078,6 +2090,12 @@ kanta - olkapää (hartia)
 kanu - kanootti  
 kanun - laki (sääntö)  
 kanun vala - lakimies (juristi)  
+kapa - pää  
+kapa hin - päätön  
+kapa kaska - kypärä  
+kapa kexa - hius (hiukset)  
+kapa kexa hin - kaljupäinen  
+kapa oste - pääkallo  
 kape - ottaa kiinni (napata, kaapata)  
 kape yo taxi - veloittaa (verottaa)  
 kar - työskennellä  
@@ -2166,6 +2184,7 @@ kexa bande - hiuspanta
 kexa broxa - hiusharja  
 kexa hin - karvaton  
 kexa sabun - šampoo  
+keze - juusto  
 ki - joka (mikä)  
 ki - että  
 kilogram - kilogramma  
@@ -2234,6 +2253,7 @@ koloni sim - kolonialismi
 koloni sim ja - kolonialisti  
 kolum - pylväs (pilari, tolppa)  
 koma - pilkku  
+komi - koominen (hauska)  
 Komoro nesi - Komorit  
 kompani - yritys (yhtiö)  
 kon - kanssa (yhdessä; yhteinen)  
@@ -2406,8 +2426,8 @@ libele - sudenkorento
 Liberia - Liberia  
 Libia - Libya  
 lici - litši  
-lida - johtaa (ohjata)  
-lida ja - johtaja (pomo)  
+lide - johtaa (ohjata)  
+lider - johtaja (pomo)  
 Lietuva - Liettua  
 lietuva baxa - liettualainen  
 lifafa - kääre (kuori)  
@@ -2476,8 +2496,6 @@ luga - vihreä
 luka - kuusi (6)  
 luka fase - kuutio (kuusitahokas)  
 luka gona - kuusikulmio  
-lulu - helmi  
-lulu table - helmitaulu  
 luna - kuu  
 lunaden - maanantai  
 luna keke - kuukakku  
@@ -2490,6 +2508,7 @@ Luter din - luterilaisuus
 Luter din ja - luterilainen  
 lutesi yum - lutetium  
 Luxemburge - Luxemburg  
+luxu - runsas  
 
 ## M  
 
@@ -2540,6 +2559,7 @@ mangan - mangaani
 mango - mango  
 mangus - mangostani  
 Mani - profeetta Mani  
+mani - mania  
 mani din - manikealaisuus  
 Manin nesi - Manin saari  
 manioka - kassava (maniokki)  
@@ -2559,7 +2579,7 @@ Marxal nesi - Marshall-saaret
 masa - massa  
 masaje - hieronta  
 masala - mauste  
-masala tika - tikka masala  
+masala tike - tikka masala  
 maska - naamio (maski)  
 masta - masto (salko)  
 maste - taitaa (olla mestari jskn)  
@@ -2574,6 +2594,8 @@ matabil - kuolevainen
 matafa - tappaa  
 mataja - tappaja  
 mate - aine (materia)  
+mate - matekasvi  
+mate cai - mate (matejuoma)  
 mate di - aineellinen (materiaalinen)  
 mate lona - materialismi  
 matras - patja  
@@ -3033,6 +3055,7 @@ panike - hätä (paniikki)
 panir - rahka  
 panjabi - pandžabi (eräs intialainen kieli)  
 panka - siipi  
+pankreas - haima  
 pante - housut  
 papagai - papukaija  
 papaya - papaija  
@@ -3084,6 +3107,7 @@ pati mise - infektio (tartunta)
 pau gi - pyssy  
 paunde - punta  
 pauza - tauko (keskeytys, paussi)  
+payaco - pelle (klovni)  
 pedal - poljin (pedaali)  
 pedal sikle - polkupyörä  
 pede - pieru  
@@ -3207,15 +3231,16 @@ pompe - pumppu
 pompe tapa - mäntä  
 ponte - osoittaa (näyttää)  
 ponte flece - osoitin (viisari)  
+pore - huokonen  
 porno - porno  
 porno grafi - pornografia  
-porte - asema (satama, lentokenttä)  
 porte - kantaa  
 • exporte - viedä pois (viedä maasta)  
 • reporte - raportoida (selostaa; raportti, selostus, selonteko)  
 • reporter - reportteri  
 • suporte - kannattaa  
 • traporte - kuljetus  
+porto - asema (satama, lentokenttä)  
 Portoriko - Puerto Rico  
 portoriko jen - puertoricolainen  
 Portugal - Portugali  
@@ -3280,6 +3305,7 @@ pul fina - tehdä loppuun (saada valmiiksi)
 pul fito yam sim ja - vegaani  
 pulmon - keuhko  
 pulmon tis - keuhkokuume  
+pulse - työntää (puskea)  
 punte - piste (täplä)  
 pupe - nukke  
 putau - viinirypäle  
@@ -3292,7 +3318,6 @@ pute - käsitellä tietoja (laskelmoida)
 • konputer - tietokone  
 putong - yleinen (universaali)  
 Putong Han - yleiskiina (mandariinikiina)  
-puxa - työntää (puskea)  
 Qatar - Qatar  
 Qazaqe - Kazakstan  
 
@@ -3333,7 +3358,6 @@ rentegen yum - roentgenium
 reporte - raportti (selostus, selonteko)  
 reseta - resepti (ohje)  
 reside - kuitti (kuittaus)  
-reste - jäännös (loput)  
 restoran - ravintola  
 retro dau - paluu  
 retro tikete - menopaluulippu  
@@ -3436,8 +3460,8 @@ salam - salaam
 Salon - Sierra Leone  
 salu - terve  
 saludo - terveys (kunto)  
-salu safa di - hygieeninen  
-salu safata - hygienia (puhtaus)  
+salu saf di - hygieeninen  
+salu safta - hygienia (puhtaus)  
 saluta - terveys (hyvinvointi)  
 Salvador - El Salvador  
 sam - sama (yhtäläinen)  
@@ -3477,12 +3501,6 @@ sanzi - viuhka (tuuletin)
 sapatu - kenkä  
 sapatu ja - suutari  
 sapatukan - suutarin paja  
-sar - pää  
-sar hin - päätön  
-sar kaska - kypärä  
-sar kexa - hius (hiukset)  
-sar kexa hin - kaljupäinen  
-sar oste - pääkallo  
 sata - hetki (kotva, ajankohta)  
 sata di - hetkellinen  
 sau - sisarus (veli tai sisko)  
@@ -3782,7 +3800,7 @@ teza - kiihkeä (väkevä, voimakas, vahva, kova)
 teze - väite (teesi)  
 • sinteze - synteesi  
 ticin - jousisoitin  
-tika - pala  
+tike - pala  
 tikete - lippu (piletti)  
 tim - joukkue (tiimi)  
 Timor - Timor  
@@ -3835,6 +3853,8 @@ toxilogi - toksikologia (myrkkyoppi)
 tra - läpi  
 tragona di - lävistävä (diagonaalinen)  
 trapas - läpikulku (kuljetus)  
+tragi - murheellinen (traaginen)  
+tragi-komi - surkuhupaisa (tragikoominen)  
 Transe Nistre Dexa - Transdnistria  
 trate - vetää (kiskoa, raahata)  
 • atrate - viehättää (vetää puoleensa)  
@@ -3879,6 +3899,7 @@ tunel - tunneli
 tunel tren - metrojuna (maanalainen)  
 Tunis - Tunisia  
 tupi - lakki (hattu)  
+tur - reissu (retki)  
 turbe - kieppua (sekoittaa; häiritä)  
 • disturbe - hämmentää (sekoittaa; hämmennys, turbulenssi)  
 turbejeter - suihkumoottori (suihkuturbiini)  
@@ -3992,6 +4013,8 @@ vei di - poikittainen (vaaka)
 vei gola - leveyspiiri  
 vei gradu - leveysaste  
 vei lin - kude  
+vel - verho (peite)  
+devel - paljastaa  
 vende - myydä  
 vende xope - kaupankäynti (osto ja myynti)  
 vende xope ja - kauppias  
@@ -4192,7 +4215,6 @@ yama tela - pellavakangas
 yang - laji (tyyppi, tyyli)  
 preyang di - klassinen  
 Yapetus - Japetus  
-yasen - saarni  
 yatim - orpo  
 yatim dom - orpokoti  
 yau - tarvita  
@@ -4236,9 +4258,6 @@ youta - lapsuus (epäkypsyys)
 yumor - huumori  
 yumor di - koominen (hauska)  
 yumor ja - humoristi  
-yung - sulaa  
-yung liga - fuusio (yhteensulautuminen)  
-yung petra - laava  
 yurta - jurtta  
 yuter yum - yttrium  
 yuterbi yum - ytterbium  

@@ -94,7 +94,7 @@ air - air
 air bio di - aerobic  
 • anair bio di - anaerobic  
 air ordu - airforce  
-air porte - airport (aeroport)  
+air porto - airport (aeroport)  
 air prese - atmospheric pressure  
 air prese metri gi - barometer  
 ais - ice  
@@ -253,6 +253,7 @@ atom bomba - atomic bomb
 atom kerne - atomic nucleus  
 atom vuki - atomic weapon  
 audi - hear (listen)  
+auge - augment (increase, rise; boom, peak, apex, zenith, heyday)  
 auro - gold  
 Australia - Australia  
 Austronesi - Austronesia  
@@ -305,6 +306,7 @@ baka ja - baker
 bakakan - bakery (bakehouse)  
 baka poto - terracotta  
 bakalau - cod  
+baki - rest (remainder)  
 baku - white  
 baku coi - bok choy  
 baku margarite - oxeye daisy  
@@ -413,6 +415,7 @@ be fatige - get tired (become weary)
 be fen - split (fall apart, divide, separate)  
 be fin - end  
 be fobi - fear (be afraid)  
+be fuzi liga - merge (fuse)  
 be gamo - feel  
 be gas - gasify (vaporize)  
 be gau - rise (go up)  
@@ -466,7 +469,6 @@ be vai - exit (get out)
 be vanu - enjoy (play)  
 be vide - be seen  
 be xuru - begin (get started)  
-be yung liga - merge (fuse)  
 be zai - appear  
 bebe - baby (infant)  
 bebe bede - crib  
@@ -479,7 +481,7 @@ Beijing - Beijing (Peking)
 bel - bel (unit)  
 bela - misfortune (misery, affliction, calamity, catastrophe, disaster, harm)  
 Belarus - Belarus  
-bele - shovel (spade, scoop)  
+belca - shovel (spade, scoop)  
 Belgi - Belgium  
 Belize - Belize  
 ben - child (offspring)  
@@ -701,7 +703,6 @@ cira cira - tear up (tatter, shred)
 cira cira di - tattered (ragged, torn)  
 cira tela - rag (tattered cloth)  
 cita - cheetah  
-cize - cheese  
 coda - fuck (copulate)  
 coi - greens  
 coklate - chocolate  
@@ -1120,6 +1121,7 @@ fa gan - dry out
 fa gas - gasify (vaporize)  
 fa gau - raise (lift)  
 fa geme - play a game  
+fa glas dake - glaze (vitrify)  
 fa glu - stick (adhere, paste, glue)  
 fa gol - achieve (accomplish, arrive, reach)  
 fa gola - surround (encircle)  
@@ -1152,7 +1154,6 @@ fa juxa - inject
 fa kai - open  
 fa kaka - defecate (shit)  
 fa kanal - channel (conduct)  
-fa kanca dake - glaze (vitrify)  
 fa karga - charge (load)  
 fa kata - tell (narrate)  
 fa keka - visit  
@@ -1263,8 +1264,8 @@ fa rolo - roll (wrap in)
 fa romanse - love romantically  
 fa rota - rotate (make spin)  
 fa sabu - cause (be the cause for)  
-fa safa - clean (purify)  
-fa safa va tela - wipe (clean with a cloth)  
+fa saf - clean (purify)  
+fa saf va tela - wipe (clean with a cloth)  
 fa safar - travel  
 fa sahi - correct (make right)  
 fa saide - hunt (fish)  
@@ -1353,9 +1354,9 @@ fatu - punishment (penalty)
 fatu di - penal (penetenciary)  
 fatura - bill (check, invoice)  
 favor - favor (goodwill)  
-faxa - bandage (strip, ribbon)  
-faxa sim - fascism  
-faxa sim ja - fascist  
+faxi - bandage (strip, ribbon)  
+faxisim - fascism  
+faxisimja - fascist  
 faxon - fashion (trend)  
 faxon di - popular (trendy)  
 faze - stage (phase)  
@@ -1490,6 +1491,7 @@ Franse Guyana - French Guiana
 Franse krepe - crepe  
 Franse Polinesi - French Polynesia  
 franse yum - francium  
+frasen - ash tree  
 frem - frame  
 frike - rub (scrape, scrub)  
 frutos - fructose  
@@ -1520,6 +1522,10 @@ fute bano - scaffolding (gangplank)
 fute bol - football (soccer)  
 fute marke - footprint  
 fute xaka - leg  
+fuzi - melt (liquify)  
+fuzi liga - fusion (amalgamation)  
+fuzi petra - lava  
+fuzi saf - smelt  
 
 ## G  
 
@@ -1642,7 +1648,7 @@ Geo Par Lin Ginia - Equatorial Guinea
 geo politi - geopolitics  
 geo sismo - earthquake  
 geo termo - geothermal  
-geo tika - lot (plot of land)  
+geo tike - lot (plot of land)  
 german yum - germanium  
 Germania - Germania  
 Gernezi - Guernsey  
@@ -1661,6 +1667,8 @@ gio ja - teacher (instructor)
 giota - drop (droplet)  
 gitar - guitar  
 giuka - jade  
+glas - glass  
+glas daka - glazing (enamel)  
 glis - slide (slip, glide, skate)  
 glu - glue (adhesive)  
 glu bande - adhesive bandage (band-aid, sticking plaster)  
@@ -1702,6 +1710,7 @@ grafi projeter - image projector
 grafi so - pixel  
 grafi sugata - framerate  
 gram - gram (g)  
+gran - grain (particle)  
 granite - granite  
 grave - gravel  
 Grenada - Grenada  
@@ -1769,7 +1778,7 @@ hai jele - jellyfish (seajelly)
 hai kinar - shore (coast, beach)  
 hai nil - aqua (teal)  
 hai ordu - sea force (navy)  
-hai porte - harbor (seaport)  
+hai porto - harbor (seaport)  
 hai vala - sailor (seaman, mariner)  
 haide - let's  
 haki - dust  
@@ -1827,6 +1836,7 @@ hazin - store (deposit)
 • mahazin - magazine (warehouse)  
 hazinkan - storehouse (depository)  
 he - huh? (eh?, pardon?)  
+hei - hey (exclamation to get attention)  
 Helen - Greece  
 Helen di - Greek (Hellenic)  
 heli yum - helium  
@@ -1901,7 +1911,7 @@ hogo sanduku - lantern
 hogo seku - flint  
 hogo tehni - fireworks (pyrotechnics)  
 hogo xan - volcano  
-hogo xan kanca - volcanic glass  
+hogo xan glas - volcanic glass  
 hoki - hockey  
 holera - cholera  
 holme yum - holmium  
@@ -1946,6 +1956,7 @@ i - and
 ibri - Hebrew  
 ici - will (volition, desire)  
 • anicija - reluctant  
+ide - idea (concept, notion)  
 idea - idea (concept, notion)  
 idea di - conceptual  
 idea zi - ideogram  
@@ -2048,6 +2059,7 @@ Jayer - Algeria
 jaze - jazz  
 jebra - algebra  
 jebu - pocket  
+jebu caku - pocketknife  
 jeka - borrow (lend)  
 jeka don - lend  
 jeka loga - loanword  
@@ -2062,6 +2074,8 @@ jen (jen men) - one (impersonal pronoun: people, you)
 jen di - personal (intimate, private, custom)  
 jen hai - a sea of people (huge crowd)  
 jen jami - crowd  
+jenju - pearl  
+jenju table - abacus  
 jenxen - ginseng  
 Jerze - Jersey  
 jete - thrust (throw, cast)  
@@ -2113,6 +2127,7 @@ jun sau - younger sibling
 jun sis - little sister (younger sister)  
 junta - youth (young age)  
 jung - species  
+junte - joint (join)  
 jupe - skirt  
 jus - juice  
 juste - just (precise, exact, accurate)  
@@ -2188,8 +2203,6 @@ kan - workshop (shop, building, house or place for doing something)
 Kanada - Canada  
 kanal - ditch (canal, channel, dyke, trench)  
 kanal ja - conduit (channel)  
-kanca - glass  
-kanca daka - glazing (enamel)  
 kandela - candela  
 kandi - candy (sweets)  
 kane - bar (pole, rod, shaft, staff, stick)  
@@ -2209,6 +2222,12 @@ kanu - canoe
 kanun - law (rule, regulation)  
 kanun vala - lawyer  
 kanyon - canyon (ravine, gorge, gully)  
+kapa - head  
+kapa hin - headless  
+kapa kaska - helmet  
+kapa kexa - hair of the head  
+kapa kexa hin - bald-headed  
+kapa oste - skull  
 kape - catch (capture, seize, snatch, intercept)  
 kape truke - trap (snare)  
 kape yo kuanga - mine (extract minerals)  
@@ -2311,6 +2330,7 @@ kexa bande - hairband (headband)
 kexa broxa - hairbrush  
 kexa hin - hairless  
 kexa sabun - shampoo  
+keze - cheese  
 ki - which (who, that)  
 ki - that (conjunction)  
 kilogram - kilogram (kg)  
@@ -2386,6 +2406,7 @@ koloni sim - colonialism
 koloni sim ja - colonialist  
 kolum - pillar (column, pole, post)  
 koma - comma  
+komi - comic (funny)  
 Komoro nesi - Comoros  
 kompani - company (corporation)  
 komputa di - digital  
@@ -2592,9 +2613,9 @@ libele - dragonfly
 Liberia - Liberia  
 Libia - Libya  
 lici - lychee (litchi)  
-lida - lead (direct)  
-lida ja - leader (director)  
-lida lin - leash (rein)  
+lide - lead (direct)  
+lide lin - leash (rein)  
+lider - leader (director)  
 Lietuva - Lithuania  
 lietuva baxa - Lithuanian  
 lifafa - wrapping (envelope, covering)  
@@ -2678,8 +2699,6 @@ luga melon - honeydew (green melon)
 luka - six (6)  
 luka fase - hexahedron (cube)  
 luka gona - hexagon  
-lulu - pearl  
-lulu table - abacus  
 lume - shine  
 lumen - lumen  
 luna - moon  
@@ -2694,6 +2713,7 @@ Luter din - Lutheranism
 Luter din ja - Lutheran  
 lutesi yum - lutetium  
 Luxemburge - Luxembourg  
+luxu - lush  
 
 ## M  
 
@@ -2747,6 +2767,7 @@ mangan - manganese
 mango - mango  
 mangus - mangosteen  
 Mani - prophet Mani  
+mani - mania (abnormally high mood and arousal level)  
 mani din - Manichaeism  
 Manin nesi - Isle of Man  
 manioka - cassava (manioc)  
@@ -2772,7 +2793,7 @@ masa mula - tuber (bulb)
 masa mula sol hua - Jerusalem artichoke (sunroot)  
 masaje - massage  
 masala - spice (seasoning)  
-masala tika - tikka masala  
+masala tike - tikka masala  
 maska - mask (camouflage)  
 masta - mast  
 maste - master (be an expert at sth)  
@@ -2788,6 +2809,8 @@ matabil - mortal
 matafa - kill  
 mataja - killer  
 mate - matter (substance)  
+mate - maté  
+mate cai - maté tea  
 mate di - material  
 mate lona - materialism  
 matras - mattress  
@@ -2858,6 +2881,8 @@ men - many (plural)
 mendelef yum - mendelevium  
 meninge - meninx (meninges)  
 meninge tis - meningitis  
+• demente - demented (out of one’s mind)  
+mente - mind (ability for consciousness, perception and thinking)  
 mentor - advisor (counselor, mentor)  
 mer - belong (be a member)  
 mer - member (part of a group, component)  
@@ -3137,6 +3162,7 @@ nerve toxi - neurotoxin
 nesi - island  
 nesia - archipelago (island chain)  
 nete - net (web, mesh)  
+nete - nexus (web, network)  
 nete don - upload  
 nete gete - download  
 nete loka - website  
@@ -3315,6 +3341,7 @@ panike - panic
 panir - quark (paneer)  
 panjabi - Punjabi  
 panka - wing  
+pankreas - pancreas  
 pante - pants (trousers)  
 papagai - parrot (parakeet)  
 papaya - papaya  
@@ -3362,6 +3389,7 @@ paskal - pascal (Pa)
 pasporte - passport  
 pasta - paste (dough)  
 pasta petra - magma  
+pata - route (path, trail, course, itinerary)  
 patate - potato  
 pati - disease (illness, sickness)  
 pati di - ill (sick)  
@@ -3374,6 +3402,7 @@ pau - shoot (fire)
 pau gi - gun (firearm)  
 paunde - pound (£)  
 pauza - pause (break, interruption)  
+payaco - clown  
 pedal - pedal  
 pedal sikle - bicycle (pedal bike)  
 pede - fart (flatulence)  
@@ -3517,16 +3546,17 @@ pompe tapa - piston
 ponte - point at (indicate)  
 ponte flece - pointer (indicator)  
 ponte pin - compass (magnetized needle)  
+pore - pore  
 porei - leek  
 porno - porn  
 porno grafi - pornography  
-porte - port (station)  
 porte - carry (bear)  
 • exporte - export  
 • reporte - report (bring back news, recount, relate)  
 • reporter - reporter  
 • suporte - support  
 • traporte - transport (transportation)  
+porto - port (station)  
 Portoriko - Puerto Rico  
 portoriko jen - Puerto Rican  
 Portugal - Portugal  
@@ -3600,6 +3630,7 @@ pul fito yam sim ja - vegan
 pul xipi - soak (steep, marinate)  
 pulmon - lung  
 pulmon tis - pneumonia  
+pulse - push  
 puma - cougar (puma, mountain lion)  
 punte - point (period, full stop)  
 punte bano - scoreboard  
@@ -3616,7 +3647,6 @@ pute - reckon (calculate, put into a certain relation, state or condition)
 • konputer - computer  
 putong - common (general)  
 Putong Han - Mandarin Chinese (Putonghua)  
-puxa - push  
 puxa gi - piston  
 Qatar - Qatar  
 Qazaqe - Kazakhstan  
@@ -3645,7 +3675,7 @@ rande - plane (tool for making a smooth surface)
 rang - color (colored)  
 rang arka - rainbow  
 rang arka salmon - rainbow trout  
-rang kanca - stained glass  
+rang glas - stained glass  
 rang mate - dye  
 rasa - race (breed)  
 rasa medi - interracial  
@@ -3666,7 +3696,6 @@ rentegen yum - roentgenium
 reporte - report  
 reseta - instructions (recipe)  
 reside - receipt (acknowledgement)  
-reste - rest (remainder)  
 restoran - restaurant  
 retro dau - return (way back)  
 retro gula - throw up (vomit, regurgitate)  
@@ -3787,8 +3816,8 @@ salmon - salmon (trout)
 Salon - Sierra Leone  
 salu - healthy  
 saludo - health (condition, level of health)  
-salu safa di - cleanly (hygienic, sanitary)  
-salu safata - hygiene (cleanliness)  
+salu saf di - cleanly (hygienic, sanitary)  
+salu safta - hygiene (cleanliness)  
 saluta - health  
 Salvador - El Salvador  
 sam - same (equal, alike, match)  
@@ -3836,12 +3865,6 @@ sanzi - fan (ventilator)
 sapatu - shoe  
 sapatu ja - shoemaker  
 sapatukan - shoemaker's shop  
-sar - head  
-sar hin - headless  
-sar kaska - helmet  
-sar kexa - hair of the head  
-sar kexa hin - bald-headed  
-sar oste - skull  
 sata - moment (instant)  
 sata di - momentary  
 sata don - dedicate (devote)  
@@ -3965,6 +3988,8 @@ sita marke - quotation mark
 siti - city (town)  
 sivil - civilized (civil)  
 sivilta - civilization  
+skute - scoot (ride a scooter, move while sitting)  
+skuter - scooter  
 Slave - Slavic  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
@@ -4192,7 +4217,7 @@ tezata - intensity (volume)
 teze - argument (thesis)  
 • sinteze - synthesis  
 ticin - bow instrument (violin, etc.)  
-tika - piece (nugget, tikka)  
+tike - piece (nugget, tikka)  
 tikete - tag (ticket, label, slip, note)  
 tim - team  
 Timor - Timor  
@@ -4248,6 +4273,8 @@ tra - through
 tragona di - diagonal  
 tralongta - diameter  
 trapas - transit (transport, passage)  
+tragi - sad (tragic)  
+tragi-komi - tragicomic  
 Transe Nistre Dexa - Transnistria  
 • antranse vide di - opaque  
 transe vide di - transparent (see-through, clear)  
@@ -4295,6 +4322,7 @@ tunel - tunnel
 tunel tren - subway (metro)  
 Tunis - Tunisia  
 tupi - hat (cap)  
+tur - tour (excursion, trip)  
 turbe - whirl (dizz; disorientate, trouble, disturb, bother, annoy)  
 • disturbe - disturb (disturbance, turbulence)  
 turbejeter - turbojet  
@@ -4413,6 +4441,8 @@ vei di - traverse (horizontal)
 vei gola - parallel (line of latitude)  
 vei gradu - latitude  
 vei lin - weft  
+vel - veil  
+devel - unveil (reveal, uncover)  
 vende - sell (vend)  
 vende xope - trade (commerce, buying and selling)  
 vende xope ja - trader (merchant)  
@@ -4624,7 +4654,6 @@ yama tela - linen fabric
 yang - kind (style, sort, type)  
 preyang di - classic (classical)  
 Yapetus - Iapetus  
-yasen - ash tree  
 yatim - orphan  
 yatim dom - orphanage  
 yau - need (lack, require)  
@@ -4672,10 +4701,6 @@ youta - childhood (immaturity)
 yumor - humor  
 yumor di - humorous (comical, funny)  
 yumor ja - humorist  
-yung - melt  
-yung liga - fusion (amalgamation)  
-yung petra - lava  
-yung safa - smelt  
 yurta - yurt (ger)  
 yuter yum - yttrium  
 yuterbi yum - ytterbium  

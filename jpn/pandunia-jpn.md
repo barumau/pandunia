@@ -19,7 +19,7 @@ air - 空気
 air bio di - 好気性  
 • anair bio di - 嫌気性  
 air ordu - 空軍  
-air porte - 空港  
+air porto - 空港  
 ais - 氷 (アイス)  
 ais hoki - アイスホッケー  
 ais krem - アイスクリーム  
@@ -159,7 +159,7 @@ be vanu - 遊ぶ
 bebe - 赤ちゃん  
 bebe bede - ベビーベッド  
 bede - 寝床 (ベッド)  
-bele - シャベル (スコップ)  
+belca - シャベル (スコップ)  
 ben - 子供 (息子か娘)  
 ben ben - 孫  
 ben doh - 孫娘  
@@ -256,7 +256,6 @@ cira cira - 千切る
 cira cira di - ぼろぼろ  
 cira tela - ボロ  
 cita - チーター  
-cize - チーズ  
 coi - 菜  
 coklate - チョコレート  
 coklate kane - チョコバー  
@@ -430,7 +429,7 @@ fa politi - 治める (司る)
 fa poze - 植える  
 fa ratibu - 揃える  
 fa re - 繰り返す  
-fa safa - 掃く (精げる, 拭く)  
+fa saf - 掃く (精げる, 拭く)  
 fa saide - 狩る  
 fa sam sifa - シミュレートする  
 fa sing foto - ピカピカ光る (きらきらする)  
@@ -494,6 +493,7 @@ foto grafi - 写真
 foto minar - 狼煙 (ビーコン)  
 foto so - 光子  
 franse yum - フランシウム  
+frasen - 秦皮  
 frem - 額  
 frike - 擦る (擦り傷する)  
 frutos - 果糖 (フルクトース)  
@@ -508,6 +508,8 @@ fungu nete - 菌糸体
 fute bano - 足場  
 fute bol - フットボール  
 fute marke - 足跡  
+fuzi - 溶ける  
+fuzi petra - 溶岩  
 
 ## G  
 
@@ -566,6 +568,8 @@ gingam - キンカン (キンキツ)
 gio - 教える (教義, -教)  
 gio ja - 教員  
 gitar - ギター  
+glas - ガラス  
+glas daka - 釉薬  
 glis - 滑る  
 glu bande - 絆創膏  
 glu di - 粘い  
@@ -615,7 +619,7 @@ hai jele - 海月
 hai kinar - 海岸  
 hai nil - 水色  
 hai ordu - 海軍  
-hai porte - 海港  
+hai porto - 海港  
 hai vala - 船員 (水夫)  
 haki rang - カーキ色  
 haku - 権利  
@@ -634,6 +638,7 @@ has nam - 識別名
 hatar - 危険  
 hava - 風  
 haxi - 箸  
+hei - おい  
 heli yum - ヘリウム  
 helis fei gi - ヘリコプター  
 hem - 考える  
@@ -717,11 +722,13 @@ jaru - 箒
 jau - 大麦  
 javabu - 答え (回答)  
 jebu - ポケット (懐中)  
+jebu caku - ポケットナイフ  
 jeka - 借用  
 jeka don - 貸す  
 jeka na - 借りる  
 jelakan - 監獄  
 jen - 人 (者, 員, 徒)  
+jenju table - 算盤  
 • projete - プロジェクト  
 jete grafi - 映す (投影する, 投影)  
 jinse - 性別 (ジェンダー)  
@@ -785,8 +792,6 @@ kamisa xaka - 袖
 kampe bede - 折り畳み式ベッド  
 kan - 店 (館)  
 kanal - 側溝  
-kanca - ガラス  
-kanca daka - 釉薬  
 kandi - キャンデー  
 kane kasa - 檻 (篭, ケージ)  
 kane minte - スペアミント  
@@ -796,6 +801,8 @@ kantalupo melon - カンタロープ
 kanu - カヌー  
 kanun vala - 弁護士  
 kanyon - 峡谷  
+kapa - 頭  
+kapa kexa - 髪の毛 (頭髪)  
 kape truke - 罠  
 kar - 働く  
 • duskar - 悪事  
@@ -842,6 +849,7 @@ kerne - 核 (核心)
 keton - ケトン  
 kexa - 毛  
 kexa hin - 無毛  
+keze - チーズ  
 kilo - 千 (１０００)  
 kimi - 物質  
 kimi logi - 化学  
@@ -951,7 +959,7 @@ lexi jama - 語彙
 lexime - 語彙素  
 liama - ラマ  
 libele - 蜻蛉  
-lida lin - リード (手綱)  
+lide lin - リード (手綱)  
 liga di sanduku - 契約の箱  
 lima - 五 (5)  
 limon - レモン  
@@ -992,7 +1000,6 @@ lubar - 恋人 (恋人)
 luga - 緑 (緑色)  
 luga melon - ハネデューメロン  
 luka - 六 (6)  
-lulu table - 算盤  
 lumen - lumen  
 lunaden - 月曜日  
 luna keke - 月餅  
@@ -1027,6 +1034,7 @@ masa mula sol hua - キクイモ
 masala - 香辛料  
 maska - 仮面 (マスク)  
 mate - 物質  
+mate cai - マテ茶  
 mate lona - 唯物論 (唯物主義)  
 matur fem - 女の人  
 matur jen - 大人  
@@ -1246,6 +1254,7 @@ pandunia - パンドゥニア
 pang - パン  
 panir - クワルク  
 panka - 翼 (羽)  
+pankreas - 膵臓  
 pante - ズボン  
 papaya - パパイヤ  
 par jen - 同輩  
@@ -1266,6 +1275,7 @@ patikan - 病院 (医院)
 pati mise - 伝染  
 pau - 撃つ  
 pau gi - 銃  
+payaco - ピエロ (道化師)  
 pede - 屁  
 pei kar - 職業  
 pei kar di - プロフェッショナル  
@@ -1310,6 +1320,7 @@ politi mode - 政体
 polska yum - ポロニウム  
 pompe tapa - ピストン (活塞)  
 ponte pin - 羅針盤  
+pore - 線  
 porei - リーキ  
 • reporter - 記者  
 pos - 後 (後ろ)  
@@ -1429,8 +1440,6 @@ sanduice - サンドイッチ
 sante kanon - 聖書  
 sanzi - 扇子  
 sapatu - 鞋  
-sar - 頭  
-sar kexa - 髪の毛 (頭髪)  
 sata - 瞬間  
 sau - 兄弟姉妹  
 sau doh - 姪  
@@ -1587,6 +1596,7 @@ tuale kaguji - ちり紙 (トイレットペーパー)
 tuale kamar - トイレ (手洗い)  
 tule yum - ツリウム  
 tuna - 鮪 (ツナ)  
+tur - 旅行 (ツアー)  
 turbe - 悩む (わざわざする)  
 turbejeter - ターボジェットエンジン  
 turbin - タービン  
@@ -1724,7 +1734,6 @@ yam yau - 飢え
 yama - 亜麻  
 yang - タイプ  
 preyang di - 古典的  
-yasen - 秦皮  
 yau - 要る  
 • anyau di - 不要  
 yau di - 必要  
@@ -1746,8 +1755,6 @@ you moke - 若木
 you nan - 男の子  
 you nen - 幼年時代  
 you ni - 女の子  
-yung - 溶ける  
-yung petra - 溶岩  
 yurta - 包 (ゲル)  
 yuter yum - イットリウム  
 yuterbi yum - イッテルビウム  

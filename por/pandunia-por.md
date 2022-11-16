@@ -27,7 +27,7 @@ air - ar
 air bio di - aeróbico  
 • anair bio di - anaeróbico  
 air ordu - força aérea  
-air porte - aeroporto  
+air porto - aeroporto  
 ais hoki - hóquei no gelo  
 ais krem - sorvete (gelado)  
 ajabu - maravilha  
@@ -104,6 +104,7 @@ ati - ato
 atlanti bakalau - bacalhau-do-atlântico  
 atom bomba - bomba atômica  
 atom kerne - núcleo atómico  
+auge - auge (aumentar)  
 auro - ouro  
 Austronesi - Austronésia  
 auto loga - monólogo  
@@ -124,6 +125,7 @@ bagre oselote - gato-do-mato (gato-maracajá-mirim)
 baka ja - padeiro  
 baka poto - terracota  
 bakalau - bacalhau  
+baki - resto  
 baku - branco  
 baku margarite - margarita-maior  
 baku salmon - salmão-cão (salmão-keta)  
@@ -192,7 +194,7 @@ bebe - bebê
 bede - cama (leito)  
 bedinjan - beringela  
 bei - socio  
-bele - pá  
+belca - pá  
 ben - filho ou filha  
 ben doh - neta  
 ben son - neto  
@@ -293,7 +295,6 @@ cini - porcelana
 cira - rasgar  
 cira cira di - esfarrapado  
 cita - guepardo (chita)  
-cize - queijo  
 coi - verdura  
 coklate - chocolate  
 coklate kane - barra de chocolate  
@@ -521,6 +522,7 @@ foto mira di - lustroso
 foto so - fóton (fotão)  
 Franse krepe - crepe  
 franse yum - frâncio  
+frasen - freixo  
 frem - moldura  
 frutos - frutose  
 frute - fruta  
@@ -531,6 +533,7 @@ fungu - fungo
 fungu frute - cogumelo  
 fute bol - futebol  
 fute marke - pegada  
+fuzi - derretre  
 
 ## G  
 
@@ -583,6 +586,7 @@ gingam - quincã (cunquate)
 gio - ensinar (lecionar)  
 gitar - guitarra  
 giuka - jade  
+glas - vidro  
 glis - deslizar  
 glu bande - penso (band-aid)  
 glu di - pegajoso (adesivo)  
@@ -623,7 +627,7 @@ hai hiyar - pepino-do-mar (holotúrias)
 hai jele - medusa  
 hai kinar - costa  
 hai ordu - marinha  
-hai porte - porto marítimo  
+hai porto - porto marítimo  
 hai vala - marinheiro  
 haki - pó  
 haki rang - cáqui  
@@ -648,6 +652,7 @@ hatar - perigo
 haxi - pauzinho (hashi)  
 hazin - armazenar  
 hazinkan - armazém  
+hei - ei  
 heli yum - hélio  
 helis fei gi - hélicoptero  
 hem - considerar  
@@ -735,11 +740,13 @@ jaru - vassoura
 jau - cevada  
 javabu - resposta  
 jebu - bolso (algebeira)  
+jebu caku - canivete  
 jeka - emprestar (pedir emprestado)  
 jeka don - emprestar  
 jeka na - pedir emprestado  
 jen - pessoa  
 jen jami - multidão  
+jenju table - ábaco  
 • projete - projeto  
 jete grafi - projeção  
 jihade - luta  
@@ -801,7 +808,6 @@ kamisa xaka - manga
 kampe bagi - área de acampamento  
 kampe bede - cama portátil  
 kanal - canal (fosso, trincheira)  
-kanca - vidro  
 kandi - bombom (doce)  
 kane - vara (bastão)  
 kane kasa - gaiola (jaula)  
@@ -812,6 +818,10 @@ kantalupo melon - meloa (cantalupo)
 Kantalupo va Sabina - Cantalupo in Sabina  
 kanu - canoa  
 kanyon - canhão (ravina, barranco)  
+kapa - cabeça  
+kapa hin - acéfalo  
+kapa kexa - cabelo  
+kapa kexa hin - calvo  
 kape truke - armadilha  
 kar - trabalhar  
 • duskar - malfeitoria (pecado)  
@@ -860,6 +870,7 @@ kerne vuki - arma nuclear
 keton - cetona  
 kexa broxa - escova de cabelo  
 kexa hin - despelado  
+keze - queijo  
 ki - que  
 kimi - substância  
 kimi logi - química  
@@ -886,6 +897,7 @@ koala - coala
 kobalte - cobalto  
 kolum - poste (coluna)  
 koma - vírgula  
+komi - cômico  
 komputa di - digital  
 kon - com (comum)  
 kon bon - combinar com  
@@ -984,7 +996,7 @@ lexi li - léxico
 lexime - lexema  
 liama - lhama  
 libele - libélula  
-lida ja - líder (chefe)  
+lider - líder (chefe)  
 liga - liga (aliança)  
 liga di sanduku - Arca da Aliança  
 lima - cinco (5)  
@@ -1021,7 +1033,6 @@ luba jen - querido
 lubar - amante  
 luga - verde  
 luka - seis (6)  
-lulu table - ábaco  
 lumen - люмен  
 luna - lua  
 lunaden - segunda-feira  
@@ -1047,6 +1058,7 @@ maltos - maltose
 manera - comportamento (conduta)  
 mang - ocupado (atarefado)  
 mangan - manganésio  
+mani - mania  
 mani din - maniqueísmo  
 manioka - mandioca (aipim)  
 manioka fufu - tapioca  
@@ -1067,6 +1079,8 @@ maska - máscara
 masta - mastro  
 master - mestre  
 mate - matéria  
+mate - erva-mate  
+mate cai - chá mate  
 mate lona - materialismo  
 mau - gato  
 max - mais  
@@ -1282,6 +1296,7 @@ panda - panda
 pang - pão  
 panir - queijo fresco  
 panka - asa  
+pankreas - pâncreas  
 pante - calças  
 papaya - mamão (papaia)  
 par - igual (par)  
@@ -1311,6 +1326,7 @@ pati logi - patologia
 pati mise - infecção (contágio)  
 pau gi - arma de fogo  
 pauza - pausa  
+payaco - palhaço  
 pede - peido  
 pei kar - profissão  
 pei kar jiva - carreira  
@@ -1367,11 +1383,12 @@ politi ja - administrador
 politi mode - regime  
 polska yum - polónio  
 pompe tapa - pistão  
+pore - poro  
 porei - alho-porro  
-porte - porto  
 porte - portar  
 • reporte - relato  
 • reporter - repórter  
+porto - porto  
 Portoriko - Porto Rico  
 portoriko jen - porto-riquenho  
 pos di - posterior  
@@ -1424,7 +1441,6 @@ Ren - Reno
 ren yum - rénio  
 rentegen yum - roentgênio  
 reseta - receita  
-reste - resto  
 retro gula sense - náusea  
 retro tikete - passagem de volta  
 rezerve - reserva  
@@ -1467,7 +1483,7 @@ salta - bem-estar
 sala - salão  
 salu - saudável (saudio)  
 saludo - saúde  
-salu safata - higiene  
+salu safta - higiene  
 saluta - saúde  
 sam - igual  
 sam bei - par  
@@ -1485,10 +1501,6 @@ sanduice - sanduíche
 sante kanon - sagrada escritura  
 Sante Paulo - São Paulo  
 sanzi - leque  
-sar - cabeça  
-sar hin - acéfalo  
-sar kexa - cabelo  
-sar kexa hin - calvo  
 sata - momento (instante)  
 sata di - momentâneo  
 sau doh - sobrinha  
@@ -1533,6 +1545,7 @@ sir plan - complô (conspiração)
 siro - zero  
 sis - irmã  
 siti - cidade  
+skuter - patinete (trotineta)  
 Slave - eslavo  
 so - elemento  
 sofita - sabedoria (sagacidade, sapiência)  
@@ -1627,6 +1640,7 @@ topo metri grafi - carta geográfica
 tor yum - tório  
 tortuga - tartaruga  
 toxilogi - toxicologia  
+tragi - trágico  
 trate - arrastar  
 • distrate - distrair  
 • extrate - extrair  
@@ -1644,6 +1658,7 @@ tuale kaguji - papel higiênico
 tuale kamar - lavatorio (toalete)  
 tule yum - túlio  
 tulpan - túlipa  
+tur - turnê  
 turbe - molestar (perturber)  
 • disturbe - perturbar (turbulência)  
 turbejeter - turbojato  
@@ -1694,6 +1709,8 @@ vari - vários
 varibil - variável  
 varis - arroz  
 vava - chorar  
+vel - véu  
+devel - revelar  
 vende - vender  
 ventur - aventura  
 ventur ja - aventureiro  
@@ -1786,7 +1803,6 @@ yam liste - cardápio (menu)
 yam yau - fome  
 yama - linho  
 yama seme - linhaça  
-yasen - freixo  
 yatim dom - orfanato  
 yau di - necessário  
 yauta - necessidade  
@@ -1804,7 +1820,6 @@ yoga - ioga
 yogo - jugo  
 yogur - iogurte  
 you - infantil (imaturo)  
-yung - derretre  
 yurta - iurte  
 yuter yum - itrio  
 yuterbi yum - itérbio  

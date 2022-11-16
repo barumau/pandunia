@@ -10,7 +10,7 @@
 | hindi | 9% |
 | bangla | 5% |
 | putonghan | 6% |
-| nipon | 6% |
+| nipon | 7% |
 | chosen | 5% |
 | viet | 3% |
 | malayu | 6% |

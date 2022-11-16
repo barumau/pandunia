@@ -35,7 +35,7 @@ air - air
 air bio di - aérobique  
 • anair bio di - anaérobique  
 air ordu - armée de l'air  
-air porte - aéroport  
+air porto - aéroport  
 air prese - pression atmosphérique  
 air prese metri gi - baromètre  
 ais - glace  
@@ -169,6 +169,7 @@ atom - atome
 atom bomba - bombe atomique  
 atom kerne - noyau atomique  
 atom vuki - arme atomique  
+auge - augmenter  
 auro - or  
 Australia - Australie  
 Austronesi - Austronésie  
@@ -203,6 +204,7 @@ bah - bah
 baka ja - boulanger  
 baka poto - terre cuite  
 bakalau - morue (cabillaud)  
+baki - reste  
 baku - blanc  
 baku margarite - marguerite  
 baku salmon - saumon du Pacifique (saumon kéta, saumon chien)  
@@ -292,7 +294,7 @@ bebe - bébé
 bede - lit  
 bedinjan - aubergine  
 bei - socio  
-bele - pelle  
+belca - pelle  
 ben - fils ou fille  
 ben ben - petit-enfant  
 beri - baie  
@@ -396,7 +398,6 @@ cin sis - tante
 cini - porcelaine  
 cira - déchirer  
 cita - guépard  
-cize - fromage  
 coklate - chocolat  
 coklate kane - tablette de chocolat  
 copu - houe  
@@ -669,6 +670,7 @@ Franse fon dunia - francophonie
 Franse krepe - crêpe  
 Franse Polinesi - Polynésie française  
 franse yum - francium  
+frasen - frêne  
 frem - cadre  
 frutos - fructose  
 frute - fruit  
@@ -680,6 +682,9 @@ fungu frute - champignon
 fungu nete - mycélium  
 fute bol - football  
 fute marke - empreinte de pied  
+fuzi - melt  
+fuzi petra - lave  
+fuzi saf - fondu  
 
 ## G  
 
@@ -744,6 +749,7 @@ gingam - kumquat
 gio - enseigner  
 gitar - guitare  
 giuka - jade  
+glas - verre  
 glis - glisser  
 glu bande - pansement (sparadrap)  
 glu di - adhésif (collant)  
@@ -815,6 +821,7 @@ hata di - voire (même)
 hatar - danger  
 haxi - baguettes  
 he - hein?  
+hei - hé  
 heli yum - hélium  
 helis babul - acacia faux-gommier  
 helis fei gi - hélicoptère  
@@ -910,6 +917,7 @@ jau - orge
 javabu - réponse  
 Jayer - Algérie  
 jebu - poche  
+jebu caku - canif  
 jeka - prêter (empruntre)  
 jeka don - prêter  
 jeka na - empruntre  
@@ -917,6 +925,7 @@ jelakan - prison (geôle)
 jen - personne  
 jen (jen men) - on  
 jen jami - foule  
+jenju table - abaque (boulier compteur)  
 • projete - projet  
 jete grafi - projeter (image projection)  
 jihade - lutte  
@@ -983,7 +992,6 @@ kamisa xaka - manche
 kampe bagi - terrain de camping  
 kampe bede - lit de camp  
 kanal - fossé (canal, tranchée)  
-kanca - verre  
 kandi - bonbon  
 kane - bâton (canne, tige)  
 kane kasa - cage  
@@ -994,6 +1002,10 @@ kanon - classique (canon)
 Kantalupo va Sabina - Cantalupo in Sabina  
 kanu - canoë  
 kanyon - canyon (ravin)  
+kapa - tête  
+kapa hin - acéphale (sans tête)  
+kapa kexa - cheveux  
+kapa kexa hin - chauve  
 kape truke - piège  
 kar - travailler  
 • duskar - méfait (péché)  
@@ -1043,6 +1055,7 @@ kerne vuki - arme nucléaire
 keton - cétone  
 kexa broxa - brosse à cheveux  
 kexa hin - glabre  
+keze - fromage  
 ki - que  
 kimi - substance  
 kimi logi - chimie  
@@ -1071,6 +1084,7 @@ kobalte - cobalt
 koda - queue  
 kolum - pilier (colonne, poteau)  
 koma - virgule  
+komi - comique  
 komputa di - numérique  
 kon - avec (commun)  
 kon kar - collaborer  
@@ -1169,7 +1183,7 @@ lexi li - lexical
 lexime - lexème  
 liama - lama  
 libele - libellule  
-lida ja - dirigeant (leader)  
+lider - dirigeant (leader)  
 liga - ligue (alliance)  
 liga di sanduku - Arche d'Alliance  
 lila - lilas  
@@ -1210,7 +1224,6 @@ luba jen - chéri
 lubar - amoureux  
 luga - vert  
 luka - six (6)  
-lulu table - abaque (boulier compteur)  
 lumen - lumen  
 luna - lune  
 lunaden - lundi  
@@ -1238,6 +1251,7 @@ maltos - maltose
 manera - comportement (manière)  
 mang - occupé  
 mangan - manganèse  
+mani - manie  
 mani din - manichéisme  
 manioka - manioc  
 manioka fufu - tapioca  
@@ -1258,6 +1272,8 @@ maska - masque
 masta - mât  
 master - maître  
 mate - matière  
+mate - yerba mate  
+mate cai - maté  
 mate lona - matérialisme  
 matur jen - adulte  
 mau - chat  
@@ -1483,6 +1499,7 @@ panda - panda
 pang - pain  
 panir - fromage blanc  
 panka - aile  
+pankreas - pancréas  
 pante - pantalon  
 papagai - perroquet  
 papaya - papaye  
@@ -1517,6 +1534,7 @@ pati logi - pathologie
 pati mise - infection (contagion)  
 pau gi - pistolet  
 pauza - pause  
+payaco - clown (paillasse)  
 pede - pet (vesse)  
 pei kar - profession (métier)  
 pei kar jiva - carrière  
@@ -1574,11 +1592,12 @@ politi - gouvernement
 politi ja - administrateur  
 polska yum - polonium  
 pompe tapa - piston  
+pore - pore  
 porei - poireau  
-porte - porte  
 porte - porter  
 • reporte - repport (reportage)  
 • reporter - reporter (rapporteur)  
+porto - porte  
 Portoriko - Porto Rico  
 portoriko jen - Portoricain  
 pos den - demain  
@@ -1632,7 +1651,7 @@ rakun - raton laveur
 rang - couleur  
 rang arka - arc-en-ciel  
 rang arka salmon - truite arc-en-ciel  
-rang kanca - verre coloré  
+rang glas - verre coloré  
 rang mate - colorant  
 rasa - race  
 rasa medi - interracial  
@@ -1641,7 +1660,6 @@ Ren - Rhin
 ren yum - rhénium  
 rentegen yum - roentgenium  
 reseta - recette  
-reste - reste  
 retro gula sense - nausée  
 retro tikete - aller-retour  
 rike - riche  
@@ -1696,7 +1714,7 @@ salam - salam
 salmon - truite  
 salu - sain  
 saludo - santé  
-salu safata - hygiène  
+salu safta - hygiène  
 saluta - santé  
 sam - égal (même)  
 sam bei - pair (pareil)  
@@ -1712,10 +1730,6 @@ sanduice - sandwich
 sante kanon - saintes écritures   
 sanzi - éventail  
 sapatu - chaussure  
-sar - tête  
-sar hin - acéphale (sans tête)  
-sar kexa - cheveux  
-sar kexa hin - chauve  
 sata di - momentané  
 sau - frère et sœur (adelphe, germain)  
 sau doh - nièce  
@@ -1765,6 +1779,7 @@ sirta - célérité
 siro - zéro  
 sis - sœur  
 siti - ville  
+skuter - trottinette  
 so - élément (unité fondamentale)  
 sofa - canapé (sofa)  
 sofita - sagesse  
@@ -1881,6 +1896,8 @@ topo metri grafi - carte (plan)
 tor yum - thorium  
 tortuga - tortue  
 toxilogi - toxicologie  
+tragi - tragique  
+tragi-komi - tragicomique  
 trate - traîner  
 • distrate - distraire  
 • extrate - extraire  
@@ -1901,6 +1918,7 @@ tule yum - thulium
 tulpan - tulipe  
 tuna - thon  
 Tunis - Tunisie  
+tur - excursion (tournée)  
 turbe - gêner (déranger, perturber)  
 • disturbe - perturber (turbulence)  
 turbejeter - turboréacteur  
@@ -1949,6 +1967,8 @@ varibil - variable
 varis - riz  
 varis vin - vin de riz  
 vei lin - fil de trame  
+vel - voile  
+devel - dévoiler (révéler)  
 vende - vendre  
 vende xope - commerce  
 Venezuela - Venezuela  
@@ -2053,7 +2073,6 @@ yam liste - menu (carte)
 yam yau - faim  
 yama - lin  
 yama seme - graine de lin  
-yasen - frêne  
 yatim dom - orphelinat  
 • anyau di - inutile  
 yau di - nécessaire  
@@ -2074,9 +2093,6 @@ yogo - joug
 yogur - yaourt (yogourt)  
 you - infantile (immature)  
 you moke - pousse  
-yung - melt  
-yung petra - lave  
-yung safa - fondu  
 yurta - yourte  
 yuter yum - yttrium  
 yuterbi yum - ytterbium  

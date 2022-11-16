@@ -3,7 +3,7 @@ a (dans, en, chez) - a
 
 ## A  
 
-abaque (boulier compteur) - lulu table  
+abaque (boulier compteur) - jenju table  
 abattoir - bucakan  
 abattre - buca  
 abeille ou guêpe - vespa  
@@ -28,7 +28,7 @@ actif (activer, allumer, mettre en marche) - ativi
 actinium - acini yum  
 action - ation  
 actuel (courant) - zai zaman di  
-acéphale (sans tête) - sar hin  
+acéphale (sans tête) - kapa hin  
 adapter (ajuster) - fa hapu  
 addition (facture) - fatura  
 adhésif (collant) - glu di  
@@ -178,6 +178,7 @@ Athènes - Athina
 athée - andeu sim ja  
 atome - atom  
 aubergine - bedinjan  
+augmenter - auge  
 Australie - Australia  
 Austronésie - Austronesi  
 autel - puja meza  
@@ -200,7 +201,7 @@ Azerbaijan - Azerbaijan
 azote - nitre  
 azur - lazur  
 aérobique - air bio di  
-aéroport - air porte  
+aéroport - air porto  
 aîné (senior, supérieur) - sen  
 aïe! - ayo  
 
@@ -356,6 +357,7 @@ Camomille Romaine - roma kamil
 Camomille sauvage - kamil  
 canapé (sofa) - sofa  
 canevas (toile) - pente tela  
+canif - jebu caku  
 canne - gana  
 canne à pêche - huke lin kane  
 canne à sucre - sukre gana  
@@ -423,7 +425,7 @@ chat - mau
 chaudron - dai pote  
 chauffeur de taxi - taxi vala  
 chaussure - sapatu  
-chauve - sar kexa hin  
+chauve - kapa kexa hin  
 chauve-souris - fei muxu  
 chaux - kalsi mate  
 chef - xefe  
@@ -431,7 +433,7 @@ chemise - kamisa
 chenil - vaf parke  
 cher - luba di  
 chercher - soki  
-cheveux - sar kexa  
+cheveux - kapa kexa  
 chien - vaf  
 chiisme - xia islam din  
 chimie - kimi logi  
@@ -466,6 +468,7 @@ clair - klar
 classique (canon) - kanon  
 client - klien  
 cloche - dang gi  
+clown (paillasse) - payaco  
 clé (clef) - cavi  
 cobalt - kobalte  
 coeur - kerne  
@@ -474,6 +477,7 @@ collaborer - konkar
 coller - fa glu  
 colorant - rang mate  
 combava - karse limon  
+comique - komi  
 comisión (comité) - konmisia  
 comment - ke riti  
 commerce - vende xope  
@@ -605,7 +609,7 @@ dinosaure - dino saur
 diorite - diorite  
 dioxyde de carbone - karbe duoxide  
 directeur (principal) - xula xefe  
-dirigeant (leader) - lida ja  
+dirigeant (leader) - lider  
 disque - diske  
 distinct - alo fen di  
 distraire - distrate  
@@ -653,6 +657,7 @@ désaccord (différend) - alo rai
 désespéré - axa hin  
 dévanagari - deu nagar zi  
 développement - gradu mute  
+dévoiler (révéler) - devel  
 
 ## E  
 
@@ -702,6 +707,7 @@ européen - europa di
 excaver - exkava  
 exclure - fa vai klus  
 exclusif - vai klus di  
+excursion (tournée) - tur  
 exoplanète - vai planeta  
 exploser (détoner) - be bum  
 explosion - bum  
@@ -761,7 +767,7 @@ flérovium - flerof yum
 foie - hepate  
 foin - gan cau  
 fois - mar  
-fondu - yung safa  
+fondu - fuzi saf  
 fonio blanc - fonyo  
 football - fute bol  
 force - balata  
@@ -782,14 +788,14 @@ frais - taza
 francium - franse yum  
 francophone - Franse fon di  
 francophonie - Franse fon dunia  
-fromage - cize  
+fromage - keze  
 fromage blanc - panir  
 fructose - frutos  
 fruit - frute  
 frère - bra  
 frère aîné (grand frère) - sen bra  
 frère et sœur (adelphe, germain) - sau  
-frêne - yasen  
+frêne - frasen  
 fée - pari  
 Félicitations ! - barka  
 féliciter - fa barka  
@@ -902,8 +908,9 @@ humeur - gamo hal
 hum… - hem…  
 hydrate - hidrate  
 hydrogène - hidre  
-hygiène - salu safata  
+hygiène - salu safta  
 hâte (précipitation) - haste  
+hé - hei  
 hélice - propeler  
 hélicoptère - helis fei gi  
 hélium - heli yum  
@@ -1031,7 +1038,7 @@ lapin (lièvre) - tuzi
 lapis-lazuli - lazur petra  
 lasagne - lazanya  
 latéral - late di  
-lave - yung petra  
+lave - fuzi petra  
 lawrencium - laurence yum  
 le (la) - la  
 lent - anhaste  
@@ -1116,6 +1123,7 @@ mandarine - rubi oranje
 mandarine satsuma - venjou oranje  
 manganèse - mangan  
 manichéisme - mani din  
+manie - mani  
 manioc - manioka  
 mantra - mantra  
 marbre - kalsi bilor  
@@ -1138,11 +1146,12 @@ matelot - hai vala
 maternel - ma di  
 mathématiques - hisabu logi  
 matière - mate  
+maté - mate cai  
 matérialisme - mate lona  
 maximum - maxim xe  
 maître - master  
 meitnérium - meitner yum  
-melt - yung  
+melt - fuzi  
 membrane - mogu  
 mendélévium - mendelef yum  
 menthe - minta  
@@ -1362,6 +1371,7 @@ palais (château, manoir) - dai dom
 palais de la bouche - boka cati  
 palladium - paladi yum  
 pamplemousse - putau oranje  
+pancréas - pankreas  
 panda - panda  
 pandémie - pan demi pati  
 paneuropéen - pan europa di  
@@ -1409,7 +1419,7 @@ pavé - gola seku
 pays des fées (paradis) - pari dexa  
 peindre - fa pente  
 peinture - pente  
-pelle - bele  
+pelle - belca  
 pelouse (gazon) - cau medan  
 perdant - xiti bai ja  
 perder - xiti  
@@ -1497,7 +1507,8 @@ Polynésie française - Franse Polinesi
 pomme - aple  
 pont - kio  
 porcelaine - cini  
-porte - porte  
+pore - pore  
+porte - porto  
 porte-bloc (planchette à pince) - pinse bano  
 porter (s’habiller) - fa fuku  
 porter - porte  
@@ -1622,7 +1633,7 @@ repos - xanti
 repport (reportage) - reporte  
 reprendre - redura  
 requin - xayu  
-reste - reste  
+reste - baki  
 retourner (revenir) - be retro  
 Rhin - Ren  
 rhodium - rode yum  
@@ -1889,6 +1900,8 @@ toxine - bio toxi
 trace - marke  
 tracteur - trater  
 traduction - trabaxa  
+tragicomique - tragi-komi  
+tragique - tragi  
 traitement (processe) - culi  
 traitement d'images - grafi culi  
 traitement de données - data culi  
@@ -1908,6 +1921,7 @@ triple - tripli
 trois (3) - tri  
 trombe (averse) - dai barxa  
 tropique - garma zona  
+trottinette - skuter  
 truite - salmon  
 truite arc-en-ciel - rang arka salmon  
 truite brune (truite de mer) - kafe salmon  
@@ -1926,7 +1940,7 @@ télécharger - nete gete
 téléphone - tele fon  
 téléphoner - fa tele fon  
 téléviseur - tele vide gi  
-tête - sar  
+tête - kapa  
 
 ## U  
 
@@ -1962,8 +1976,8 @@ ver à soie - silke larva
 verbe - kar lexi  
 verger - frute bagi  
 vermouth - vermute  
-verre - kanca  
-verre coloré - rang kanca  
+verre - glas  
+verre coloré - rang glas  
 verrue - zeyil  
 verser (verse, face á) - versi  
 verser - fa verse  
@@ -1994,6 +2008,7 @@ vivre (habiter) - be dom
 vivre (vivant; vie) - jiva  
 vocabulaire (lexique) - lexi jama  
 voile - hijabu  
+voile - vel  
 voir - vide  
 voire (même) - hata di  
 vol - fei  
@@ -2022,6 +2037,7 @@ xénon - xenon
 y compris - in klus  
 Yahweh (Jéhovah) - Yahve  
 yaourt (yogourt) - yogur  
+yerba mate - mate  
 Yi King - yeka kanon  
 yoga - yoga  
 yourte - yurta  

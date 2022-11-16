@@ -26,7 +26,7 @@ agri nomi - 农学
 air - 空气  
 • anair bio di - 厌氧的  
 air ordu - 空军  
-air porte - 飞机场  
+air porto - 飞机场  
 ais - 冰  
 ais hoki - 冰球  
 ais krem - 冰淇淋  
@@ -127,6 +127,7 @@ bah - 呸
 bai - 击败  
 baka poto - 陶瓦  
 bakalau - 鱈  
+baki - 其余  
 baku - 白  
 baku coi - 白菜 (小白菜)  
 baku margarite - 法蘭西菊  
@@ -190,7 +191,7 @@ bebe - 宝宝 (娃娃)
 bebe bede - 娃娃床  
 bede - 床  
 behe - 山羊  
-bele - 铲  
+belca - 铲  
 ben - 小孩子  
 ben ben - 孙子 (sūnzi)  
 ben doh - 孙女  
@@ -291,7 +292,6 @@ cira - 撕裂
 cira cira - 撕毁  
 cira cira di - 褴褛的  
 cita - 猎豹  
-cize - 酪 (起司)  
 coklate - 巧克力  
 coklate kane - 巧克力棒  
 congcing - 重庆  
@@ -445,7 +445,7 @@ fa nomi - 组织
 fa pede - 放屁  
 fa ratibu - 整理  
 fa re - 重复  
-fa safa va tela - 擦  
+fa saf va tela - 擦  
 fa saide - 打猎  
 fa sing foto - 闪烁  
 fa sir - 隐藏  
@@ -506,6 +506,7 @@ foto minar - 信号
 foto mira di - 光泽  
 foto so - 光子  
 franse yum - 钫  
+frasen - 白蜡树  
 frem - 框  
 frike - 擦伤  
 frutos - 果糖  
@@ -519,6 +520,9 @@ fun - 粉
 fungu frute - 蘑菇  
 funsibil - 機能的  
 fute marke - 脚印  
+fuzi - 融化  
+fuzi petra - 熔岩  
+fuzi saf - 熔炼  
 
 ## G  
 
@@ -572,6 +576,8 @@ gingam - 金柑
 gio - 教学  
 gitar - 吉他  
 giuka - 玉  
+glas - 玻璃  
+glas daka - 釉  
 glis - 滑下  
 glu bande - 创可贴 (邦迪)  
 glu di - 黏的  
@@ -619,7 +625,7 @@ hai hua - 海葵
 hai jele - 海蜇  
 hai kinar - 海岸  
 hai ordu - 海军  
-hai porte - 海港  
+hai porto - 海港  
 hai vala - 水手 (海员)  
 haki - 灰尘 (尘土)  
 haki rang - 卡其色  
@@ -642,6 +648,7 @@ hata - 直到
 hata di - 连  
 hatar - 危险  
 haxi - 筷子 (箸)  
+hei - 喂  
 heli yum - 氦  
 helis - 螺旋  
 helis fei gi - 直升机  
@@ -725,6 +732,7 @@ jaru - 扫帚
 jau - 大麦  
 javabu - 回答  
 jebu - 口袋 (荷包)  
+jebu caku - 小刀  
 jeka - 借  
 jeka don - 借出  
 jeka na - 借入  
@@ -732,6 +740,7 @@ jelakan - 监狱 (监牢)
 jen - 人  
 jen hai - 人海  
 jen jami - 人群  
+jenju table - 算盘  
 jete grafi - 投射 (投影)  
 jinji - 姜  
 jinse - 性别  
@@ -795,8 +804,6 @@ kamisa - 衬衫
 kamisa xaka - 袖子  
 kan - 店 (馆)  
 kanal - 水沟  
-kanca - 玻璃  
-kanca daka - 釉  
 kandi - 糖果  
 kane kasa - 笼  
 kane minte - 留兰香  
@@ -806,6 +813,10 @@ kanon - 经典
 kantalupo melon - 鈔皮瓜  
 kanun vala - 律师  
 kanyon - 峡谷 (深谷)  
+kapa - 头  
+kapa hin - 无头的  
+kapa kexa - 头发  
+kapa kexa hin - 秃头的  
 kape truke - 陷阱  
 kar - 工作  
 • konkar - 合作  
@@ -846,6 +857,7 @@ kerne - 核心
 keton - 酮  
 kexa broxa - 发刷  
 kexa hin - 无毛  
+keze - 酪 (起司)  
 kimi - 物质  
 kimi logi - 化学  
 kimi so - 元素  
@@ -954,7 +966,7 @@ lexi jama - 词汇
 lexime - 词位  
 liama - 大羊駝  
 libele - 蜻蜓  
-lida ja - 领导  
+lider - 领导  
 liga di sanduku - 约柜  
 lima - 五 (5)  
 limon - 柠檬  
@@ -990,7 +1002,6 @@ luba di - 亲爱的
 lubar - 恋人 (情人, 爱人)  
 luga - 绿色  
 luka - 六 (6)  
-lulu table - 算盘  
 lunaden - 星期一 (禮拜一)  
 luna keke - 月饼  
 lung - 龙  
@@ -1029,6 +1040,7 @@ masa mula sol hua - 菊芋
 masala - 香料  
 masta - 桅  
 mate - 物质  
+mate cai - 马黛茶  
 mate lona - 唯物论 (唯物主义)  
 matur fem - 女人  
 matur jen - 成年人  
@@ -1233,6 +1245,7 @@ pan mime - 哑剧
 pan un - 每  
 pang - 面包  
 panka - 翅膀 (膀子)  
+pankreas - 胰脏  
 pante - 裤子  
 papagai - 鹉鹦  
 papaya - 木瓜  
@@ -1259,6 +1272,7 @@ patikan - 医院
 pati logi - 病理学  
 pati mise - 传染  
 pau gi - 手枪  
+payaco - 小丑  
 pede - 屁  
 pei kar - 职业  
 • propeler - 螺旋桨  
@@ -1304,8 +1318,8 @@ polska yum - 钋
 pompe tapa - 活塞  
 ponte pin - 指南针  
 porei - 韭葱  
-porte - 港  
 • reporter - 记者  
+porto - 港  
 pote camaca - 勺 (舀)  
 pote ja - 陶瓷工  
 pote suta - 陶器制造  
@@ -1348,7 +1362,6 @@ rasa - 种族
 ratibu - 常规 (次序)  
 Ren - 莱茵河  
 ren yum - 铼  
-reste - 其余  
 retro gula - 呕吐  
 retro gula sense - 恶心  
 retro note - 反馈  
@@ -1415,10 +1428,6 @@ sanduice - 三明治 (三文治)
 sante kanon - 圣经  
 sanzi - 扇子  
 sapatu - 鞋  
-sar - 头  
-sar hin - 无头的  
-sar kexa - 头发  
-sar kexa hin - 秃头的  
 sata - 时刻 (瞬间)  
 sau - 兄弟姐妹 (xiōngdì jiěmèi)  
 saur - 蜥蜴  
@@ -1459,6 +1468,7 @@ siro - 零 (〇)
 sis - 姐妹 (jiěmèi)  
 sis doh - 外甥女  
 sis son - 外甥  
+skuter - スクーター  
 sofa - 沙发  
 sofita - 智慧  
 soi - 大豆 (黄豆)  
@@ -1708,7 +1718,6 @@ yam liste - 菜单
 yam yau - 饥饿  
 yama - 亚麻  
 yama seme - 亚麻籽  
-yasen - 白蜡树  
 yatim dom - 孤儿院  
 yau di - 必要的  
 ye - 这 (此)  
@@ -1725,9 +1734,6 @@ yogo - 轭
 yogur - 酸奶 (优格)  
 you - 幼稚  
 you nen - 幼年  
-yung - 融化  
-yung petra - 熔岩  
-yung safa - 熔炼  
 yurta - 穹庐  
 yuter yum - 钇  
 yuterbi yum - 镱  

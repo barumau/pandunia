@@ -76,7 +76,7 @@ adverbo - mode loge
 advertencia (aviso) - jui note  
 advertir - fa jui  
 aeroplano - fei gi  
-aeropuerto - air porte  
+aeropuerto - air porto  
 aeróbico - air bio di  
 afecto (emoción) - gamo  
 Afganistán - Afghan  
@@ -320,6 +320,7 @@ Atenas - Athina
 ateo - andeu sim ja  
 attracción (-filia) - fili  
 atún - tuna  
+auge (aumentar) - auge  
 aullar - fa ulul  
 aullido - ulul  
 auspicioso (propicio) - bon sin di  
@@ -525,8 +526,8 @@ búbalo (arni) - karbau
 ## C  
 
 caballo - uma  
-cabello - sar kexa  
-cabeza - sar  
+cabello - kapa kexa  
+cabeza - kapa  
 cabina (garita) - bude  
 cabina telefónica - tele fon bude  
 cable - eletro lin  
@@ -573,7 +574,7 @@ califato - halifa dexa
 californio - kaliforni yum  
 caliza - kalsi petra  
 calle - gali  
-calvo - sar kexa hin  
+calvo - kapa kexa hin  
 cama (lecho) - bede  
 camarón (gamba) - gamba  
 cambiar (demudar) - alofa  
@@ -653,7 +654,7 @@ casa (hogar, residencia) - dom
 casado - gam di  
 casamiento - gam  
 casar - fa gami  
-casco (yelmo) - sar kaska  
+casco (yelmo) - kapa kaska  
 casta - gene klas  
 castaña - kastana  
 castellano - kastilia baxa  
@@ -926,7 +927,7 @@ coreano - cosen di
 coro - ganir grupe  
 corona - korona  
 corporal (corpóreo) - badan di  
-correa (rein) - lida lin  
+correa (rein) - lide lin  
 correcto (justo) - sahi  
 corredor - kore ja  
 corregir - fa sahi  
@@ -987,7 +988,7 @@ crudo - seng
 crueldad (tiranía) - zalimta  
 cruz - krus  
 cruzar - be krus  
-cráneo (calavera) - sar oste  
+cráneo (calavera) - kapa oste  
 críquet - krikete  
 crítico (fundamental) - krizi di  
 crítico - piping ja  
@@ -1121,7 +1122,7 @@ derecho - dex di
 derecho - haku  
 derechos de autor (copyright) - kopi haki  
 derechos humanos - insan haki  
-derretirse - yung  
+derretirse - fuzi  
 derrota - bai  
 desactivado - anativi  
 desacuerdo - alo rai  
@@ -1155,6 +1156,7 @@ determinado (cierto, definido) - ding
 determinar (establecer, definir) - fa ding  
 detestar - anluba  
 devanágari - deu nagar zi  
+develar (revelar) - devel  
 devolver (vomitar) - retro gula  
 diagonal - tragona di  
 diamante - adamas  
@@ -1179,8 +1181,8 @@ dios - deu
 dirección - adres  
 dirección de IP - IP adres  
 director de colegio - xula xefe  
-dirigente (líder) - lida ja  
-dirigir (mandar, conducir, capitanear) - lida  
+dirigente (líder) - lider  
+dirigir (mandar, conducir, capitanear) - lide  
 disco - diske  
 discreto - alo fen di  
 discusión (debate, discurso) - lona  
@@ -1312,7 +1314,7 @@ emperador - imperi ja
 emplear (aplicar) - fa aplika  
 emplear (aplicar; aplicación) - aplika  
 empresario - biznes ja  
-empujar (presionar) - puxa  
+empujar (presionar) - pulse  
 en (a) - a  
 en el sentido contrario al las agujas del reloj - rota leu  
 en el sentido del las agujas del reloj - rota dex  
@@ -1523,8 +1525,8 @@ faro (baliza, almenara) - foto minar
 farol (linterna) - hogo sanduku  
 farsi - parsi  
 fascinación - fasinta  
-fascismo - faxa sim  
-fascista - faxa sim ja  
+fascismo - faxisim  
+fascista - faxisimja  
 fatiga - fatige  
 favoritismo - max fili sim  
 favorito (preferido) - max fili di  
@@ -1589,7 +1591,7 @@ francotirador - juste pau ja
 frecuencia - poli marta  
 frecuentemente - a poli mar  
 fresco - taza  
-fresno - yasen  
+fresno - frasen  
 frontera (límite, borde, periferia) - kinar  
 fructosa - frutos  
 fruta - frute  
@@ -1606,8 +1608,8 @@ funcionar - funsi
 funcionario - guan ja  
 fundador - baze ja  
 fundar (basar) - fa baze  
-fusionar (fundir) - be yung liga  
-fusión - yung liga  
+fusionar (fundir) - be fuzi liga  
+fusión - fuzi liga  
 fusión nuclear - kerne unta  
 fusta - uma bici  
 futuro - pos zaman  
@@ -1725,6 +1727,7 @@ Granadinas - Grenadin nesi
 grande - dai  
 granito - granite  
 granjero (agricultor) - agrija  
+grano (partícula) - gran  
 grasa - lipi  
 graso (adiposo) - lipi di  
 gratitud - xukurta  
@@ -1826,7 +1829,7 @@ hielo - ais
 hierba - cau  
 hierbabuena - kane minte  
 hierro - fero  
-higiene - salu safata  
+higiene - salu safta  
 hija - doh  
 hijo - son  
 hijo o hija - ben  
@@ -1893,6 +1896,7 @@ hígado - hepate
 
 ## I  
 
+idea (noción, concepto) - ide  
 idea (noción, concepto) - idea  
 idea (pensamiento, reflexión) - fikir  
 identificación (ID) - nam dokumen  
@@ -2151,7 +2155,7 @@ lasaña - lazanya
 lateral (horizontal) - late di  
 latitud - vei gradu  
 laurencio - laurence yum  
-lava - yung petra  
+lava - fuzi petra  
 lavadora - fuku vaxi gi  
 lavar - vaxi  
 leal (fiel) - amenbil  
@@ -2210,7 +2214,7 @@ lila - lila
 limero - kaguji limon  
 limonada - limon jus  
 limpiador - safja  
-limpiar - fa safa  
+limpiar - fa saf  
 limpio - saf  
 limón - limon  
 linaza - yama seme  
@@ -2268,6 +2272,7 @@ lutecio - lutesi yum
 luteranismo - Luter din  
 luterano - Luter din ja  
 Luxemburgo - Luxemburge  
+luxure - luxu  
 luz (iluminación) - foto  
 lágrima - yen sui  
 lámpara - lampa  
@@ -2342,6 +2347,7 @@ manzana - aple
 manzanilla de Castilla - kamil  
 manzanilla romana (camomila común) - roma kamil  
 maní - geo dou  
+manía - mani  
 mapa (carta) - karta  
 mapa - topo metri grafi  
 mapache (oso lavador) - rakun  
@@ -2380,6 +2386,7 @@ matadero - bucakan
 matar (morir, asesinar) - matafa  
 matasellos - posta marke  
 mate (opaco) - foto mata di  
+mate cocido - mate cai  
 matemática - hisabu logi  
 matemático - hisabu logija  
 material - mate di  
@@ -2616,6 +2623,7 @@ nariz - nos
 nasal - nos di  
 natrón - natre bilor  
 nautilo - nautile  
+navaja - jebu caku  
 nave espacial - kosmo nave  
 navegador - brauza gi  
 navegar (ir en bote) - nave ga  
@@ -2797,6 +2805,7 @@ otra vez (de nuevo) - ri
 otro - alo  
 oveja - meme  
 oxígeno - oxe  
+oye (hey) - hei  
 oír (escuchar) - audi  
 
 ## P  
@@ -2809,7 +2818,7 @@ padre (papá) - pa
 pagano (infiel) - kafir  
 pago - pei  
 Pakistán - Pakistan  
-pala - bele  
+pala - belca  
 palabra (vocablo) - lexi  
 palacio (mansión) - dai dom  
 paladar - boka cati  
@@ -2898,6 +2907,7 @@ pastel (galleta) - keke
 pastel (pay) - pai  
 pastel de luna - luna keke  
 paternal - pa di  
+patinete - skuter  
 pato - bata  
 patología - pati logi  
 patria - dom dexa  
@@ -2906,6 +2916,7 @@ patógeno - pati gene xe
 pausa - pauza  
 pavo (guajalote) - dinde  
 pavo real - mayur  
+payaso (clown) - payaco  
 paz - pase  
 país (nación, estado, terra) - dexa  
 país extranjero - vai dexa  
@@ -2915,7 +2926,7 @@ pecado - duskar
 pecho (busto) - buste  
 pecho (seno, tórax) - sine  
 pedal - pedal  
-pedazo - tika  
+pedazo - tike  
 pedernal (sílex) - hogo seku  
 pedir (invitar; por favor) - cing  
 pedir prestado - jeka na  
@@ -2962,7 +2973,7 @@ perforar (agujerar) - fa kung
 periférico - kinar di  
 periodista - gazeta ja  
 periódico (diario) - habar gazeta  
-perla - lulu  
+perla - jenju  
 permitido (admisible) - halal  
 permitir (dejar) - fa halal  
 pero (sino) - ama  
@@ -3083,9 +3094,10 @@ por ejemplo - to misal
 porcelana - cini  
 porno - porno  
 pornografía - porno grafi  
+poro - pore  
 porque - a sabu de  
 portapapeles - gata glu bano  
-porto - porte  
+porto - porto  
 Portugal - Portugal  
 posar (pose, postura) - poze  
 poseer (tener, ser dueño de) - fa mal  
@@ -3196,7 +3208,7 @@ pueblo - nagar
 puente - kio  
 puerro (cebolla larga) - porei  
 puerta - mun  
-puerto marítimo - hai porte  
+puerto marítimo - hai porto  
 Puerto Rico - Portoriko  
 puertorriqueño - portoriko jen  
 pulir (lustrar) - foto frike  
@@ -3213,6 +3225,7 @@ puñal (daga) - kanjar
 página - yepa late  
 página wiki - viki makala  
 pájaro (ave) - paci  
+páncreas - pankreas  
 pánico - panike  
 pícea - pisea  
 píxel - grafi so  
@@ -3229,7 +3242,7 @@ querer (desear) - vol
 querer (disponer) - fa ici  
 querido - luba di  
 querubín - kerubi  
-queso - cize  
+queso - keze  
 queso fresco - panir  
 quilate - kirate  
 quimono - kimono  
@@ -3293,6 +3306,7 @@ reciclar - resikle
 recoger (juntar, reunir, acumular, recolectar, montar) - fa jama  
 reconocer (admitir) - fa reside  
 reconocimiento (recibo) - reside  
+recorrido (tour) - tur  
 recto - orto  
 red - nete  
 redes sociales - sosi medi gi  
@@ -3350,7 +3364,7 @@ respiración - nafas
 respirar - fa nafas  
 responder (contestar) - fa javabu  
 restaurante - restoran  
-resto (demás) - reste  
+resto (demás) - baki  
 resulta (efecto) - asar  
 retornar - fa retro  
 retroalimentación (realimentación, feedback) - retro note  
@@ -3751,7 +3765,7 @@ termómetro - termo metri gi
 terracota - baka poto  
 terraplanista - plate geo sim ja  
 terremoto - geo sismo  
-terreno (solar) - geo tika  
+terreno (solar) - geo tike  
 terreno - geo forme  
 terror - teror  
 terrorismo - teror sim  
@@ -3769,14 +3783,14 @@ Tierra - Geo
 tierra - geo  
 tigre - bagre  
 tijera - makas  
-tikka masala - masala tika  
+tikka masala - masala tike  
 Timor - Timor  
 Timor Oriental - Dong Timor  
 tinta - kalam sui  
 tinte - rang mate  
 tipi - tipi  
 tipo (género) - tipe  
-tira (faja, vendaje, cinta) - faxa  
+tira (faja, vendaje, cinta) - faxi  
 tirano (déspota) - zalim raja  
 tirar (lanzar, echar, arrojar, aventar) - lanse  
 tirar - tire  
@@ -3819,6 +3833,7 @@ traducir (interpretar; tradicción, interpretación) - trabaxa
 traductor - trabaxar  
 traer - fa lai  
 tragar - gul  
+tragicómico - tragi-komi  
 trampa - kape truke  
 trampilla - pada mun  
 tranquilo (calmado) - xanti di  
@@ -3840,6 +3855,7 @@ tridente - tri pike
 trigo - ganum  
 Trinidad y Tobago - Trinidade i Tobago  
 triple - tripli  
+triste (trágico) - tragi  
 triste - duku di  
 triángulo - tri gona  
 trompo - rota vanu gi  
@@ -3941,6 +3957,7 @@ vegetariano - fito yam sim ja
 vela (candela, cirio) - mum foto  
 velero - nave ga ja  
 velo - hijabu  
+velo - vel  
 velocímetro - suga metri gi  
 vender - vende  
 veneno (toxina) - toxi  
@@ -3974,10 +3991,10 @@ viajero - safar ja
 vice- (alternativa, sustituto) - vise  
 vicepresidente - vise prezidente  
 vida (orgánico) - bio  
-vidriado (esmalte) - kanca daka  
-vidriar (glasear) - fa kanca dake  
-vidrio (cristal) - kanca  
-vidrio volcánico - hogo xan kanca  
+vidriado (esmalte) - glas daka  
+vidriar (glasear) - fa glas dake  
+vidrio (cristal) - glas  
+vidrio volcánico - hogo xan glas  
 viejo (anciano) - lau  
 viejo (anciano) - lau jen  
 viejo (antiguo) - prezaman di  
@@ -4040,6 +4057,7 @@ yac - yake
 Yahvé (Jehová) - Yahve  
 yema del dedo - angul pike  
 Yemen - Yemen  
+yerba mate - mate  
 Yibuti - Jibuti  
 yo - mi  
 yodo (iodo) - iode  
@@ -4076,7 +4094,7 @@ zulú - Zulu
 ¡Felicitaciones! - barka  
 África - Afrika  
 Ártico - Artika  
-ábaco - lulu table  
+ábaco - jenju table  
 ágil - agile  
 álgebra - jebra  
 ángulo recto - orto gona  

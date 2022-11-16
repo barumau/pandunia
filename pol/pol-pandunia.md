@@ -38,6 +38,7 @@
  - Athina  
  - ati  
  - atom vuki  
+ - auge  
  - Austronesi  
  - autor  
  - avar di  
@@ -149,6 +150,7 @@
  - dele  
  - den  
  - den loge  
+ - devel  
  - dexhanuka  
  - di  
  - dia foto  
@@ -233,7 +235,7 @@
  - fa plasti  
  - fa prese  
  - fa retro  
- - fa safa va tela  
+ - fa saf va tela  
  - fa sel  
  - fa sim  
  - fa siro  
@@ -389,6 +391,7 @@
  - jan buda din  
  - janela frem  
  - jaru  
+ - jebu caku  
  - jela jen  
  - jen (jen men)  
  - jen hai  
@@ -408,6 +411,7 @@
  - jun bra  
  - jun sau  
  - jun sis  
+ - junte  
  - kable  
  - kaki  
  - kali  
@@ -422,6 +426,7 @@
  - kane sor  
  - kanon  
  - kanon di  
+ - kapa kexa hin  
  - kar cuti  
  - karateja  
  - karbe kalam  
@@ -454,6 +459,7 @@
  - klus  
  - kola  
  - kola frute  
+ - komi  
  - komputa hor loga gi  
  - kon forma  
  - kon pasi  
@@ -502,6 +508,7 @@
  - lumen  
  - luna keke  
  - lung dou  
+ - luxu  
  - ma bra  
  - ma di  
  - ma ma  
@@ -510,6 +517,7 @@
  - magi liki  
  - maikan  
  - maltos  
+ - mani  
  - manioka fufu  
  - mantra  
  - Marakux  
@@ -521,6 +529,8 @@
  - master de tehni logi (MT)  
  - mata badan  
  - matabil  
+ - mate  
+ - mate cai  
  - mate lona  
  - max fili sim  
  - me  
@@ -530,6 +540,7 @@
  - memo tehni  
  - men  
  - mendelef yum  
+ - mente  
  - meta  
  - metal lin  
  - metal tul  
@@ -569,6 +580,7 @@
  - nekro lista  
  - nelu di galope  
  - nerve toxi  
+ - nete  
  - neu fito  
  - neu nati di  
  - neuta  
@@ -597,6 +609,7 @@
  - parta  
  - pas dau  
  - pas loga  
+ - pata  
  - pedi  
  - pedi fili  
  - pedi fobi  
@@ -627,6 +640,7 @@
  - polipli  
  - poliskan  
  - politi mode  
+ - pore  
  - porte  
  - portoriko jen  
  - portugal baxa  
@@ -670,7 +684,6 @@
  - sam bei  
  - sam metri  
  - sante kanon  
- - sar kexa hin  
  - sau ben  
  - sau doh  
  - sau son  
@@ -698,6 +711,8 @@
  - sis  
  - sis doh  
  - sis son  
+ - skute  
+ - skuter  
  - soi  
  - son doh  
  - son son  
@@ -744,6 +759,8 @@
  - topo metri grafi  
  - toxilogi  
  - tra  
+ - tragi  
+ - tragi-komi  
  - tralongta  
  - transe vide di  
  - trate  
@@ -756,6 +773,7 @@
  - tumimen  
  - tuna  
  - tundra xan  
+ - tur  
  - turbejeter  
  - turfa  
  - uma bici  
@@ -790,6 +808,7 @@
  - vei  
  - vei di  
  - vei lin  
+ - vel  
  - versi  
  - viki  
  - viki pedia  
@@ -874,6 +893,7 @@
  - defunsi  
  - deleta  
  - deletabil  
+ - demente  
  - depele  
  - depena  
  - deprese  
@@ -1001,7 +1021,7 @@
  - unbaxaka  
  - ungene  
 A - A  
-abak (liczydło) - lulu table  
+abak (liczydło) - jenju table  
 Abchazja - Apsni  
 Abchazja - Arcah  
 Abisynia - Habaxa  
@@ -1138,7 +1158,7 @@ bakłażan, oberżyna - bedinjan
 balon - balon  
 bambus - bambu  
 banan - banana  
-bandaż, taśma, wstążka - faxa  
+bandaż, taśma, wstążka - faxi  
 Bangladesz - Bangla dexa  
 banglijski - bangla baxa  
 bank - bankakan  
@@ -1181,7 +1201,7 @@ Bermudy - Bermuda
 beryl - beril yum  
 beton - beton  
 bez - hin  
-bezgłowy - sar hin  
+bezgłowy - kapa hin  
 bezimienny - nam hin  
 bezmózgi - nau hin  
 beznadziejny - axa hin  
@@ -1409,7 +1429,7 @@ czas - zaman
 czas (epoka, era) - dura zaman  
 czas; okazja - mar  
 czasownik - kar lexi  
-czaszka - sar oste  
+czaszka - kapa oste  
 czek - ceke  
 czekać - dele do  
 czekolada - coklate  
@@ -1426,8 +1446,9 @@ czuć, odczuć, odczuwać - be gamo
 czwartek - muxinden  
 czyn, uczynek - fate  
 czysty - saf  
-czysty (higieniczny, sanitarny) - salu safa di  
+czysty (higieniczny, sanitarny) - salu saf di  
 czytać - dugu  
+cząstka - gran  
 cząstka (ziarno, kula, pocisk) - dana  
 często - a poli mar  
 częstotliwość - poli marta  
@@ -1508,7 +1529,7 @@ dostać, dostawać, otrzymać, otrzymywać, wziąć, brać - na
 dotyczyć - tocu  
 dowieść, dowodzić; zeznać, zeznawać - fa dalil  
 dowód; zeznanie - dalil  
-dowódca, kierownik - lida ja  
+dowódca, kierownik - lider  
 dozwolony (dopuszczalny, zezwolony, halal) - halal  
 dramat - drama  
 drewno - moka mate  
@@ -1548,7 +1569,7 @@ dystans - teleta
 dywan - dipe tela  
 dzban, dzbanek; słój, słoik; wazon - jara  
 dziadek (dziad) - cin pa  
-działka (teren) - geo tika  
+działka (teren) - geo tike  
 działo - dai pau  
 dziecko (nieletni) - baca  
 dziecko (potomek) - ben  
@@ -1650,8 +1671,8 @@ fantastyczny, fantazyjny - fantazi di
 fantazja (wyobrażenie, wyobraźnia) - fantazi  
 fascynacja - fasinta  
 fasola lub groch, roślina strączkowa - dou  
-faszysta - faxa sim ja  
-faszyzm - faxa sim  
+faszysta - faxisimja  
+faszyzm - faxisim  
 fałszywy, nieprawdziwy - false  
 feminista (feministka) - fem sim ja  
 feminizm - fem sim  
@@ -1698,7 +1719,7 @@ fu, fuj - fui
 funkcja, stanowisko - funsi  
 funkcjonariusz, urzędnik - guan ja  
 funt (£) - paunde  
-fuzja (amalgamowanie, łączenie) - yung liga  
+fuzja (amalgamowanie, łączenie) - fuzi liga  
 fuzja jądrowa (synteza jądrowa, reakcja termojądrowa) - kerne unta  
 G - G  
 Gabon - Gabon  
@@ -1733,7 +1754,7 @@ Ghana - Gana
 ghul - gule  
 Gibraltar - Jibraltar  
 gitara - gitar  
-glazura (emalia) - kanca daka  
+glazura (emalia) - glas daka  
 gleba bielicoziemna - hui darte  
 glin (aluminium) - alumin  
 glina - glu poto  
@@ -1816,7 +1837,7 @@ głaz - dai seku
 głos - vote  
 głoska - foni  
 głosować (złożyć głos) - fa vote  
-głowa - sar  
+głowa - kapa  
 głupi (idiotyczny) - idiote di  
 głupiec, bufon - bobo  
 głód - yam yau  
@@ -1844,6 +1865,7 @@ hałas - esporte ja
 hebel, strug - rande  
 heblować - fa rande  
 hebrajski - ibri  
+hej - hei  
 hel - heli yum  
 helikopter - helis fei gi  
 helisa - helis  
@@ -1853,8 +1875,8 @@ herbata - cai
 herc - herze  
 heteroromantyczny - alo romanse di  
 heteroseksualny - alo sexe di  
-hełm - sar kaska  
-higiena - salu safata  
+hełm - kapa kaska  
+higiena - salu safta  
 Himalaje - Himalaya  
 hinduistyczny - Hindi din ja  
 hinduizm - Hindi din  
@@ -1896,6 +1918,7 @@ hybryda; kundel - hibride
 hę?, co?, pardon? - he  
 I - I  
 i, oraz - i  
+idea, pomysł - ide  
 idea, pomysł - idea  
 ideogram - idea zi  
 idiota - idiote  
@@ -1996,7 +2019,7 @@ Jemen - Yemen
 Jerozolima - Uruxalem  
 Jersey - Jerze  
 jesień - pada mosim  
-jesion - yasen  
+jesion - frasen  
 jezioro - lage  
 Jezus - Yesa  
 Jezus Chrystus - Yesa Mesi  
@@ -2118,6 +2141,7 @@ klasyczny - preyang di
 klasyfikować, kategoryzować - fa klas  
 klatka - kane kasa  
 klatka piersiowa - sine kasa  
+klaun - payaco  
 klawiatura - buton bano  
 klawisz, przycisk, przełącznik, guzik - buton  
 klej - glu  
@@ -2330,7 +2354,7 @@ latać (fruwać) - be dara
 latać, lecieć - fa fei  
 lato - garma mosim  
 laudacja - eu loga  
-lawa - yung petra  
+lawa - fuzi petra  
 lazania - lazanya  
 lejek - dara tubo  
 lekcja - xula xe  
@@ -2391,7 +2415,7 @@ Londyn - London
 lorens - laurence yum  
 losowy - zar di  
 lot - fei  
-lotnisko (port lotniczy) - air porte  
+lotnisko (port lotniczy) - air porto  
 lub, albo - o  
 lud, społeczeństwo - demi  
 ludzie (lud, ludność) - natia jen  
@@ -3010,7 +3034,7 @@ paznokieć - nahun
 pałac - dai dom  
 paść, padać, upaść, upadać - pada  
 październik - mes ceti  
-pchnąć, pchać - puxa  
+pchnąć, pchać - pulse  
 pedał - pedal  
 Pekin - Beijing  
 peleryna (płaszcz, opończa) - mantol  
@@ -3022,7 +3046,7 @@ Pers; perski, farsi - parsi
 perspektywa (punkt widzenia) - vide punte  
 Peru - Peru  
 peryferyjny - kinar di  
-perła - lulu  
+perła - jenju  
 pełny - pul  
 pfuj (fuj) - bah  
 pianino - piano  
@@ -3192,8 +3216,8 @@ pornografia - porno grafi
 porost - alga fungu  
 porozumienie - sam rai  
 porozumienie - trati  
-port - porte  
-port morski (przystań) - hai porte  
+port - porto  
+port morski (przystań) - hai porto  
 Portoryko (Puerto Rico) - Portoriko  
 Portugalia - Portugal  
 porywacz pociągu - tren kape ja  
@@ -3233,7 +3257,7 @@ poziomy (horyzontalny, boczny) - late di
 pozostawać w tyle (zwlekać) - be laxe  
 pozostawiać (pozostawić) - laxe  
 pozostałość (szczątek) - laxe xe  
-pozostałość, reszta - reste  
+pozostałość, reszta - baki  
 pozować (ustawiać się; poza, pozycja) - poze  
 pozować, ustawiać się - fa poze  
 pozwolić, pozwalać, zezwolić, zezwalać - fa halal  
@@ -3303,7 +3327,7 @@ prosty, nieskomplikowany - simple
 protaktyn - protacini yum  
 prowadzić (wskazać drogę) - gida  
 prowadzić pojazd - fa xofer  
-prowadzić, dowodzić, kierować - lida  
+prowadzić, dowodzić, kierować - lide  
 prysznic - dux  
 przebić (perforować, dziurawić) - fa kung  
 przebudzony, przytomny - jaga  
@@ -3632,7 +3656,7 @@ sen - sona
 senator - supra vakil ja  
 Senegal - Senegal  
 sensor (detektor, czujka) - sense gi  
-ser - cize  
+ser - keze  
 Serbia - Serbia  
 serce - xim  
 seria, szereg - seri  
@@ -3693,7 +3717,7 @@ smerf - nil elfe
 smieszany (skonfudowany) - ruhu mixe di  
 smok - lung  
 smutny - duku di  
-smycz (cugiel, lejc, wodza) - lida lin  
+smycz (cugiel, lejc, wodza) - lide lin  
 snajper (strzelec wyborowy) - juste pau ja  
 sobota - xaniden  
 socjalista - sosi sim ja  
@@ -3849,12 +3873,12 @@ sześciokąt (sześciobok) - luka gona
 sześć (6) - luka  
 szisz kebab - xix kababu  
 szkielet - oste jama  
-szklić (glazurować) - fa kanca dake  
+szklić (glazurować) - fa glas dake  
 Szkocja - Eskote  
 szkoła (instytucja) - xulakan  
 szkoła podstawowa - baze xulakan  
-szkło - kanca  
-szkło wulkaniczne - hogo xan kanca  
+szkło - glas  
+szkło wulkaniczne - hogo xan glas  
 szmaragd - zumarde  
 szofer (kierowca) - xofer ja  
 szogun - ordu raja  
@@ -3977,8 +4001,8 @@ terroryzm - teror sim
 Terytorium Palestyńskie - Filistin  
 tesla (T) - tesla  
 test (wyzwanie, próba) - teste  
-tikka - tika  
-tikka masala - masala tika  
+tikka - tike  
+tikka masala - masala tike  
 Timor - Timor  
 Timor Wschodni (Demokratyczna Republika Timoru Wschodniego) - Dong Timor  
 tipi - tipi  
@@ -3997,8 +4021,8 @@ ton, dźwięk, nuta, tonacja - ton
 tona - mega gram  
 Tonga - Tonga  
 topinambur - masa mula sol hua  
-topić (upłynnić, upłynniać) - yung safa  
-topnieć (upłynniać się) - yung  
+topić (upłynnić, upłynniać) - fuzi saf  
+topnieć (upłynniać się) - fuzi  
 tor - tor yum  
 torba, wór, worek, torba, sakwa - sake  
 tost - xava pang  
@@ -4020,6 +4044,7 @@ tryb nocny - noce mode
 Trynidad i Tobago - Trinidade i Tobago  
 trzcina cukrowa - sukre gana  
 trzeć (pocierać, obetrzeć, pucować) - frike  
+trzustka - pankreas  
 trzy (3) - tri  
 trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi) - sismo  
 trzęsienie Ziemi - geo sismo  
@@ -4245,7 +4270,7 @@ wirusologia - virus logi
 Wisznu - Vixnu  
 witaj, dobre przybycie - sal lai  
 witamina - vitamin  
-witraż - rang kanca  
+witraż - rang glas  
 witryna internetowa (portal internetowy) - nete loka  
 wiwatować (hura, jej) - hura  
 wiwisekcja - jivatomi  
@@ -4311,7 +4336,7 @@ wybrzeże - hai kinar
 Wybrzeże Kości Słowniowej - Kote de Ivar  
 wybuch (eksplozja) - bum  
 wycie, skowyt - ulul  
-wyczyścić, czyścić - fa safa  
+wyczyścić, czyścić - fa saf  
 wydarzenie, przypadek, sytuacja - kasu  
 wydoić, doić - tire yo milke  
 wydra - lotra  
@@ -4380,7 +4405,7 @@ właściciel (posiadacz) - mal ja
 właściwy, poprawny - sahi  
 właśnie, dopiero co, ostatnio, niedawno - a neu  
 włos - kexa  
-włosy - sar kexa  
+włosy - kapa kexa  
 włókno - lin so  
 X - X  
 Y - Y  
@@ -4582,7 +4607,7 @@ zły, zrujnowany, zepsuty - harabu
 łańcuszek - seri letre  
 łodyga (tors, pień, trzon) - tana  
 łokieć - kudi  
-łopata (szpadel) - bele  
+łopata (szpadel) - belca  
 łosoś (pstrąg) - salmon  
 łosoś atlantycki - atlanti salmon  
 łowca (myśliwy) - saide ja  
@@ -4596,7 +4621,7 @@ zły, zrujnowany, zepsuty - harabu
 łza - yen sui  
 łódź, statek - nave  
 łóżko - bede  
-łączyć (złączyć) - be yung liga  
+łączyć (złączyć) - be fuzi liga  
 łączyć, wiązać, złączyć - fa linke  
 łąka - cau stan  
 Śiwa - xiva  

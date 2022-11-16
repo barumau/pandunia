@@ -38,7 +38,7 @@ agri suta - agrikulturo
 aha - ekkompreni (aha)  
 air - aero  
 air ordu - aerarmeo  
-air porte - flughaveno  
+air porto - flughaveno  
 ais - glacio  
 ais di - glacia  
 ais krem - glaciaĵo  
@@ -231,7 +231,7 @@ bedinjan - melongeno
 bega - fuĝi  
 behe - kapro  
 Belarus - Belorusio  
-bele - fosilo (ŝovelilo)  
+belca - fosilo (ŝovelilo)  
 Belgi - Belgio  
 Belize - Beliceo  
 ben - ido (gefilo)  
@@ -355,7 +355,6 @@ cing - peti (bonvolu)
 cing lai - inviti  
 cini - porcelano  
 cita - gepardo  
-cize - fromaĝo  
 coda - fiki  
 coklate - ĉokolado  
 coklate kane - ĉokolado  
@@ -598,7 +597,7 @@ fa pul - plenigi
 fa rai - opinii  
 fa re - ripeti (refari)  
 fa rol - ludi rolon  
-fa safa - purigi  
+fa saf - purigi  
 fa safar - vojaĝi  
 fa sahi - pravigi  
 fa saide - ĉasi  
@@ -633,8 +632,8 @@ fasil - facila
 fasinta - fascinado  
 fate - faro (fakto)  
 fatura - kalkulo (fakturo)  
-faxa sim - faŝismo  
-faxa sim ja - faŝisto  
+faxisim - faŝismo  
+faxisimja - faŝisto  
 febre - febro  
 fei - flugo  
 fen - parto (frakcio)  
@@ -768,6 +767,7 @@ gida - gvidi
 gio - instrui (lernigi)  
 gitar - gitaro  
 giuka - jado  
+glas - vitro  
 glu - gluo  
 glu grafi - glumarko  
 gluten - gluteno  
@@ -813,7 +813,7 @@ hai - maro
 hai amir ja - admiralo (ŝiparestro)  
 hai di - mara  
 hai ordu - mararmeo  
-hai porte - haveno  
+hai porto - haveno  
 hai vala - maristo  
 haide - ni faru...  
 haki - polvo  
@@ -919,6 +919,7 @@ huxi - agrabla
 i - kaj  
 ibri - Hebrea  
 ici - volo  
+ide - ideo  
 idea - ideo  
 iglu - iglo  
 iha - azeno  
@@ -969,6 +970,8 @@ jele - ĝelo
 jen - persono  
 jen hai - amasego da homoj  
 jen jami - amaso da homoj  
+jenju - perlo  
+jenju table - bidkalkulilo (abako)  
 jinji - zingibro  
 jinse - sekso  
 jinse di - seksa  
@@ -1032,7 +1035,6 @@ kamisa - ĉemizo
 kamote - batato  
 kan - farejo  
 kanal - fluejo (kanalo)  
-kanca - vitro  
 kandi - bombono  
 kane - stango  
 kane kasa - kaĝo  
@@ -1043,6 +1045,9 @@ kanta - ŝultro
 kanu - kanuo (kanoto)  
 kanun - lego  
 kanun vala - advokato  
+kapa hin - senkapa  
+kapa kaska - kasko  
+kapa kexa - kaphararo  
 kape - kapti  
 • konkar - kunlabori  
 kargi - ilo  
@@ -1092,6 +1097,7 @@ kexa - haro
 kexa broxa - saç fırçası  
 kexa hin - senhara  
 kexa sabun - ŝampuo  
+keze - fromaĝo  
 ki - ke  
 kilomitre - kilometro  
 kimi logi - ĥemio (kemio)  
@@ -1247,8 +1253,6 @@ luba di - kara
 luba jen - karulo  
 lubar - amanto  
 luga - verda  
-lulu - perlo  
-lulu table - bidkalkulilo (abako)  
 luna - luno  
 lunaden - luno  
 luta - rabi  
@@ -1526,6 +1530,7 @@ pandunia - pandunia
 pang - pano  
 panike - paniko  
 panka - flugilo  
+pankreas - pankreato  
 pante - pantalonoj  
 papagai - papago  
 papaya - papajo  
@@ -1553,6 +1558,7 @@ patikan - malsanulejo
 pati logi - patologio  
 pati mise - infekto  
 pau gi - fusilo  
+payaco - klaŭno  
 pedal - pedalo  
 pede - furzo  
 pei kar - metiero  
@@ -1607,7 +1613,8 @@ politi ja - politikisto
 politi lona - politiko  
 polska yum - polonio  
 ponte - montri  
-porte - haveno  
+pore - poro  
+porto - haveno  
 Portoriko - Portoriko  
 pos - sekvo  
 pos den - morgaŭ  
@@ -1738,9 +1745,6 @@ sanzi - ventumilo
 sapatu - ŝuo  
 sapatu ja - ŝuisto  
 sapatukan - ŝuistejo  
-sar hin - senkapa  
-sar kaska - kasko  
-sar kexa - kaphararo  
 sata - momento  
 sata di - momenta  
 sau - gefrato  

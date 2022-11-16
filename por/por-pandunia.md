@@ -20,13 +20,13 @@ acordo (tratado, contrato) - trati
 acordo (tratado, contrato) - kontrati  
 acordo - sam rai  
 actínio - acini yum  
-acéfalo - sar hin  
+acéfalo - kapa hin  
 adesivo - glu grafi  
 adjetivo - sifa loga  
 administrador - politi ja  
 admirar - amira  
 aeite (óleo) - nefte  
-aeroporto - air porte  
+aeroporto - air porto  
 aeróbico - air bio di  
 Afeganistão - Afghan  
 agacharse - lipa side  
@@ -139,6 +139,7 @@ aterro (lixão) - lasa stan
 ativo - ativi  
 ato - ati  
 até - hata  
+auge (aumentar) - auge  
 Austronésia - Austronesi  
 autopsía - nekro tomi  
 autor - autor  
@@ -240,8 +241,8 @@ búzio - kauri
 
 ## C  
 
-cabelo - sar kexa  
-cabeça - sar  
+cabelo - kapa kexa  
+cabeça - kapa  
 cabine - bude  
 cabine telefônica - tele fon bude  
 cacto - katus  
@@ -258,7 +259,7 @@ calcário - kalsi petra
 calendário - kalenda  
 califa - halifa  
 califórnio - kaliforni yum  
-calvo - sar kexa hin  
+calvo - kapa kexa hin  
 calças - pante  
 cama (leito) - bede  
 cama portátil - kampe bede  
@@ -274,6 +275,7 @@ canguru - kangaru
 canhão (ravina, barranco) - kanyon  
 canhǎo - dai pau  
 canil - vaf parke  
+canivete - jebu caku  
 canoa - kanu  
 Cantalupo in Sabina - Kantalupo va Sabina  
 canção de ninar - lala gani  
@@ -354,6 +356,7 @@ chumbo - plumbe
 chupar (sugar) - cupu  
 chuva - barxa  
 chá - cai  
+chá mate - mate cai  
 ciano - cian  
 ciclista - sikle ja  
 cidade - siti  
@@ -465,6 +468,7 @@ césio - cesi yum
 céu - sama  
 cópia - kopi  
 cósmico - kosmo di  
+cômico - komi  
 cúbito (côvado) - kudi metri  
 cúrio - kuri yum  
 
@@ -486,7 +490,7 @@ delir (deletar) - deleta
 demora (atraso, espera) - dele  
 dente-de-leão (taráxaco) - makan hua  
 depenar - depena  
-derretre - yung  
+derretre - fuzi  
 descanso (repouso) - xanti  
 desdentado - dante hin  
 desenvolvimento - gradu mute  
@@ -551,6 +555,7 @@ efeito - exfete
 efeito colateral - parafete  
 efetuar - fa asar  
 Egipto (Egito) - Misri  
+ei - hei  
 einstânio - einstein yum  
 ele ou ela - da  
 elemento - so  
@@ -583,6 +588,7 @@ equilíbrio - par vezeta
 erro (falta) - galte  
 errôneo - galte di  
 erva marinha - hai cau  
+erva-mate - mate  
 escama - foli  
 escavar - exkava  
 escola (colégio) - xulakan  
@@ -708,7 +714,7 @@ fotografia - foto grafi suta
 fraco (débil) - anbala  
 fraco - mirde  
 fragmento - parce  
-freixo - yasen  
+freixo - frasen  
 fruta - frute  
 frutose - frutos  
 frâncio - franse yum  
@@ -789,7 +795,7 @@ hena - hina
 Hesse (Héssia) - Hese  
 hidrato - hidrate  
 hidrogéno - hidre  
-higiene - salu safata  
+higiene - salu safta  
 hipopótamo - gubu  
 hmm… - hem…  
 honesto (sincero) - amen di  
@@ -972,7 +978,7 @@ lápis - karbe kalam
 lápis-lazúli - lazur petra  
 lâmpada (luminária) - lampa  
 léxico - lexi li  
-líder (chefe) - lida ja  
+líder (chefe) - lider  
 língua (idioma) - baxa  
 língua - lisan  
 língua materna - nati baxa  
@@ -1001,6 +1007,7 @@ mandarim - han guan ja
 mandioca (aipim) - manioka  
 manga - kamisa xaka  
 manganésio - mangan  
+mania - mani  
 maniqueísmo - mani din  
 manteiga - bute  
 manto - juba  
@@ -1229,6 +1236,7 @@ painel - bano
 palato (céu da boca) - boka cati  
 palavra (vocábulo) - lexi  
 palavra-passe (senha) - pas loga  
+palhaço - payaco  
 palácio (mansão, palacete) - dai dom  
 paládio - paladi yum  
 pan-europeu - pan europa di  
@@ -1256,6 +1264,7 @@ passagem de volta - retro tikete
 passaporte - pasporte  
 pasta - pasta  
 paternal - pa di  
+patinete (trotineta) - skuter  
 pato - bata  
 patologia - pati logi  
 patógeno - pati gene xe  
@@ -1329,9 +1338,10 @@ ponte - kio
 por exemplo - to misal  
 por muito tempo - long dura  
 porcelana - cini  
+poro - pore  
 portar - porte  
-porto - porte  
-porto marítimo - hai porte  
+porto - porto  
+porto marítimo - hai porto  
 Porto Rico - Portoriko  
 porto-riquenho - portoriko jen  
 possível - bil  
@@ -1387,10 +1397,11 @@ punir (castigar) - fa fatu
 punição (castigo) - fatu  
 purpúreo (roxo) - violeta nil  
 purê de maçã - aple sos  
-pá - bele  
+pá - belca  
 página - yepa late  
 pássaro (ave) - paci  
 pátria - dom dexa  
+pâncreas - pankreas  
 pântano - poto stan  
 pão - pang  
 pícea (espruce) - pisea  
@@ -1408,7 +1419,7 @@ quartzo - kuarze
 quatro (4) - nelu  
 que (como) - ka  
 que - ki  
-queijo - cize  
+queijo - keze  
 queijo fresco - panir  
 queimar - fa hogo  
 queimarse - be hogo  
@@ -1469,9 +1480,10 @@ repetir - rifete
 repórter - reporter  
 reserva - rezerve  
 resposta - javabu  
-resto - reste  
+resto - baki  
 reto - orto  
 retornar - fa retro  
+revelar - devel  
 rim - nefre  
 rima - rim  
 ringue - ringar  
@@ -1684,6 +1696,7 @@ triplo - tripli
 truque (fraude) - truke  
 truta-arco-íris - rang arka salmon  
 truta-marrom - kafe salmon  
+trágico - tragi  
 três (3) - tri  
 trópicos - garma zona  
 tu - tu  
@@ -1693,6 +1706,7 @@ tungsténio - volfram
 turbante - pagri  
 turbina - turbin  
 turbojato - turbejeter  
+turnê - tur  
 tábua (prancha) - moka bano  
 tálio - tali yum  
 tática - tatika  
@@ -1756,7 +1770,7 @@ verão - garma mosim
 vestir - fa fuku  
 vez - mar  
 vice-rei - vise raja  
-vidro - kanca  
+vidro - glas  
 vinhedo - putau bagi  
 vir - lai  
 virgem - virge  
@@ -1780,6 +1794,7 @@ vulva - vulva
 vários - vari  
 Vénus - Zukra  
 véu - hijabu  
+véu - vel  
 vírgula - koma  
 waffle - vafle  
 
@@ -1807,7 +1822,7 @@ zoologia - hevan logi
 zoológico - hevan bagi  
 zoológico - hevan logi di  
 zumbi - zombi  
-ábaco - lulu table  
+ábaco - jenju table  
 ágil - agile  
 água - sui  
 água da chuva - barxa sui  

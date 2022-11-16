@@ -7,7 +7,7 @@
 
 a couple of - du o tri  
 a sea of people (huge crowd) - jen hai  
-abacus - lulu table  
+abacus - jenju table  
 abattoir (slaughterhouse) - bucakan  
 ability - bilta  
 Abkhazia - Apsni  
@@ -90,7 +90,7 @@ aim (point) - fa dika
 air - air  
 airforce - air ordu  
 airplane - fei gi  
-airport (aeroport) - air porte  
+airport (aeroport) - air porto  
 Aland Islands - Olande nesi  
 Alaska - Alaska  
 Albania - cipe  
@@ -235,7 +235,7 @@ Aruba - Aruba
 ascetic - askete  
 asexual - ansexe di  
 ash (ashes) - hui  
-ash tree - yasen  
+ash tree - frasen  
 Asia - Asia  
 Asian - asia  
 ask (inquire) - fa sual  
@@ -271,6 +271,7 @@ attraction (fascination, -philia) - fili
 attractive - atratevi  
 attribute (charasteristic, quality, feature, description, property) - sifa  
 attributive postposition - di  
+augment (increase, rise; boom, peak, apex, zenith, heyday) - auge  
 August - mes bati  
 aunt - cin sis  
 auspicious (promising) - bon sin di  
@@ -321,14 +322,14 @@ Bahrain - Bahrain
 bake - baka  
 baker - baka ja  
 bakery (bakehouse) - bakakan  
-bald-headed - sar kexa hin  
+bald-headed - kapa kexa hin  
 ball - bol  
 balloon - balon  
 bamboo - bambu  
 banana - banana  
 band (squad, group) - banda  
 band (tape, bandage) - bande  
-bandage (strip, ribbon) - faxa  
+bandage (strip, ribbon) - faxi  
 Bangladesh - Bangla dexa  
 banister (handrail) - langan  
 bank (depository, cache) - bankakan  
@@ -729,7 +730,7 @@ chauffeur (driver) - xofer ja
 checkers (draughts) - dama geme  
 checkmate - xah mata  
 cheer (hurrah, hooray, yay) - hura  
-cheese - cize  
+cheese - keze  
 cheetah - cita  
 chemical - kimi di  
 chemical element - kimi so  
@@ -787,10 +788,10 @@ classroom - xula kamar
 claw (scratch) - fa nahun  
 clay - glu poto  
 clean (pure) - saf  
-clean (purify) - fa safa  
+clean (purify) - fa saf  
 cleaner - safja  
 cleanliness (purity) - safta  
-cleanly (hygienic, sanitary) - salu safa di  
+cleanly (hygienic, sanitary) - salu saf di  
 clear (obvious) - klar  
 click (snap) - klike  
 climate - klima  
@@ -812,6 +813,7 @@ clothed (dressed) - fuku di
 clothing (clothes) - fuku  
 cloud - megi  
 cloudy (foggy) - megi di  
+clown - payaco  
 club - klube  
 coat - kote  
 cobalt - kobalte  
@@ -851,6 +853,7 @@ comb - kanga
 combine - konbina  
 come (arrive) - lai  
 comic (cartoon) - grafi kata  
+comic (funny) - komi  
 comma - koma  
 command line (console, terminal) - amir lin  
 commission (committee) - konmisia  
@@ -1099,6 +1102,7 @@ Deimos - Deimos
 delete (eliminate, kill off, wipe off) - deleta  
 delible (eliminable) - deletabil  
 delicious (yummy) - bon guste di  
+demented (out of one’s mind) - demente  
 democracy - demi krati  
 democrat - demi krati ja  
 democratic - demi krati di  
@@ -1460,8 +1464,8 @@ farmer - agrija
 fart (flatulate) - fa pede  
 fart (flatulence) - pede  
 fascination - fasinta  
-fascism - faxa sim  
-fascist - faxa sim ja  
+fascism - faxisim  
+fascist - faxisimja  
 fashion (trend) - faxon  
 fast (quick, rapid, speedy) - suga  
 fat (grease) - lipi  
@@ -1633,7 +1637,7 @@ functional (valid, workable) - funsibil
 fungus (mushroom) - fungu  
 funnel - dara tubo  
 funny (amusing) - vanu di  
-fusion (amalgamation) - yung liga  
+fusion (amalgamation) - fuzi liga  
 future time - pos zaman  
 
 ## G  
@@ -1707,9 +1711,9 @@ girl - you ni
 give - don  
 give birth (beget, generate, breed) - fa nati  
 give consultation - kon sel  
-glass - kanca  
-glaze (vitrify) - fa kanca dake  
-glazing (enamel) - kanca daka  
+glass - glas  
+glaze (vitrify) - fa glas dake  
+glazing (enamel) - glas daka  
 global (concerning the whole world) - pan dunia di  
 global - dunia li  
 globe artichoke - karcof  
@@ -1747,6 +1751,7 @@ gospel (divine message) - eu anjil
 government (administration, polity, politics) - politi  
 gradient (gradation, incline) - gradu medan  
 gradual - gradu di  
+grain (particle) - gran  
 gram (g) - gram  
 grammar - baxa kanun  
 grammatical - baxa kanun di  
@@ -1818,7 +1823,7 @@ gym (fitness center) - balakan
 habit (custom) - ada  
 hafnium - hafen yum  
 hair - kexa  
-hair of the head - sar kexa  
+hair of the head - kapa kexa  
 hairband (headband) - kexa bande  
 hairbrush - kexa broxa  
 hairless - kexa hin  
@@ -1833,7 +1838,7 @@ Han Chinese - Han
 hand - hanu  
 hang (dangle) - pende  
 happen (occur; happening, event, occurence) - voku  
-harbor (seaport) - hai porte  
+harbor (seaport) - hai porto  
 hard (tough) - gati  
 hardship (difficulty, challenge) - dus hal  
 hardware (ironware, equipment) - metal tul  
@@ -1854,8 +1859,8 @@ Hawaiian archipelago - Havai nesia
 hay - gan cau  
 hazard (chance) - zar  
 he or she or it - da  
-head - sar  
-headless - sar hin  
+head - kapa  
+headless - kapa hin  
 headmaster (principal) - xula xefe  
 heal (cure, treat, remedy) - dava  
 health (condition, level of health) - saludo  
@@ -1873,7 +1878,7 @@ helium - heli yum
 hell - naraka  
 hello (hi) - halo  
 hello (hi) - sal  
-helmet - sar kaska  
+helmet - kapa kaska  
 help (aid, assistance) - mede  
 help (assist) - fa mede  
 helper (supporter, proponent, backer) - mede ja  
@@ -1893,6 +1898,7 @@ heteroromantic - alo romanse di
 heterosexual - alo sexe di  
 hexagon - luka gona  
 hexahedron (cube) - luka fase  
+hey (exclamation to get attention) - hei  
 hide (conceal) - fa sir  
 high (tall) - gau di  
 high technology (hi-tech) - gau tehni  
@@ -1979,7 +1985,7 @@ hybrid (mongrel) - hibride
 hydrate (chemical compound) - hidrate  
 hydrogen - hidre  
 hydrogen peroxide - hidre peroxide  
-hygiene (cleanliness) - salu safata  
+hygiene (cleanliness) - salu safta  
 Hyperion - Hiperion  
 I (me) - mi  
 
@@ -1992,6 +1998,7 @@ ice cream - ais krem
 ice hockey - ais hoki  
 Iceland - Islande  
 icy - ais di  
+idea (concept, notion) - ide  
 idea (concept, notion) - idea  
 identifier (ID) - has nam  
 identity document (identification, ID) - nam dokumen  
@@ -2141,6 +2148,7 @@ Jerusalem artichoke (sunroot) - masa mula sol hua
 Jesus - Yesa  
 Jesus Christ - Yesa Mesi  
 Jewish - yehudi  
+joint (join) - junte  
 joke - joke  
 joker - joker  
 Jordan - Urdun  
@@ -2262,7 +2270,7 @@ latitudinal (horizontal) - vei
 Latvia - Latvia  
 lauan tree (meranti, balau) - meranti  
 laugh - haha  
-lava - yung petra  
+lava - fuzi petra  
 law (rule, regulation) - kanun  
 lawn - cau medan  
 lawrencium - laurence yum  
@@ -2270,14 +2278,14 @@ lawyer - kanun vala
 lay (lay down) - fa kux  
 layer (level, storey, floor, stratum) - ceng  
 lead (bring to) - dute  
-lead (direct) - lida  
+lead (direct) - lide  
 lead - plumbe  
-leader (director) - lida ja  
+leader (director) - lider  
 leaf (sheet) - yepa  
 league (alliance) - liga  
 leak - lou  
 learn (study) - fa xula  
-leash (rein) - lida lin  
+leash (rein) - lide lin  
 least (minimally) - minim  
 leave (absence from work) - kar cuti  
 leave (go away, exit) - cuti  
@@ -2396,7 +2404,7 @@ lose (be defeated) - bai
 lose (fail, miss, be defeated) - fa xiti bai  
 lose (misplace, miss, shed) - xiti  
 loser - xiti bai ja  
-lot (plot of land) - geo tika  
+lot (plot of land) - geo tike  
 louse - poyu  
 love (strong affection, desire) - luba  
 love romantically - fa romanse  
@@ -2415,6 +2423,7 @@ lullaby - lala gani
 lumen - lumen  
 lunch - dia yam  
 lung - pulmon  
+lush - luxu  
 lust (desire, libido, sexual passion) - kama  
 lutetium - lutesi yum  
 Lutheran - Luter din ja  
@@ -2478,6 +2487,7 @@ mandarin orange (tangerine) - rubi oranje
 manganese - mangan  
 mango - mango  
 mangosteen - mangus  
+mania (abnormally high mood and arousal level) - mani  
 Manichaeism - mani din  
 mankind (humanity) - insan jong  
 mantra (chant) - mantra  
@@ -2536,6 +2546,8 @@ matter (be important) - ham
 matter (substance) - mate  
 mattress - matras  
 mature (ripe, adult) - matur  
+maté - mate  
+maté tea - mate cai  
 Mauritania - Muritania  
 Mauritius - Moris  
 maximal - maxim di  
@@ -2565,7 +2577,7 @@ megawat (MW) - mega vate
 meitnerium - meitner yum  
 melodious (melodic) - melodi di  
 melody - melodi  
-melt - yung  
+melt (liquify) - fuzi  
 member (part of a group, component) - mer  
 membrane (film) - mogu  
 memorandum (memo) - memo note  
@@ -2578,7 +2590,7 @@ menu (bill of fare) - yam liste
 menu (catalog) - cun liste  
 mercury (quicksilver) - hidrargente  
 Mercury - Merkur  
-merge (fuse) - be yung liga  
+merge (fuse) - be fuzi liga  
 meridian (line of longitude) - ging gola  
 message - anjil  
 message - misije  
@@ -2616,6 +2628,7 @@ millimeter - mili mitre
 million (mega-) - mega  
 Mimas - Mimas  
 mimic (imitate, emulate) - mime  
+mind (ability for consciousness, perception and thinking) - mente  
 mine (extract minerals) - kape yo kuanga  
 mine - kuanga xan  
 miner - kuanga ja  
@@ -2812,6 +2825,7 @@ newsletter - habar letre
 newspaper (gazette) - habar gazeta  
 newton (N) - niuton  
 next (following, back) - pos di  
+nexus (web, network) - nete  
 Nicaragua - Nikaragua  
 nice (pleasant, comfortable, cushy) - huxi  
 niche (recess, alcove) - nix  
@@ -3019,6 +3033,7 @@ pan-European - pan europa di
 Panama - Panama  
 pancake - krepe  
 pancake house (crêperie) - krepekan  
+pancreas - pankreas  
 panda - panda  
 pandemic - pan demi di  
 pandemic disease - pan demi pati  
@@ -3085,7 +3100,7 @@ peace - pase
 peafowl (peacock) - mayur  
 peanut (groundnut) - geo dou  
 pear - pera  
-pearl - lulu  
+pearl - jenju  
 peat - turfa  
 pebble (gravel) - xiu seku  
 pedal - pedal  
@@ -3160,7 +3175,7 @@ picture book - grafi buku
 pidgin (contact language) - pijin  
 pie (pastry) - pai  
 piece (fragment, shred, morsel, crumb, shard) - parce  
-piece (nugget, tikka) - tika  
+piece (nugget, tikka) - tike  
 pierce (perforate, bore) - fa kung  
 pig - goro  
 pilaf (pulao) - polau  
@@ -3222,6 +3237,7 @@ plutonium - pluton yum
 ply (fold, times) - pli  
 pneumonia - pulmon tis  
 pocket - jebu  
+pocketknife - jebu caku  
 podzol - hui darte  
 poem - xir  
 poet - xir ja  
@@ -3255,11 +3271,12 @@ poor (miserable) - miskin
 popular (trendy) - faxon di  
 population - demi polita  
 porcelain (chinaware) - cini  
+pore - pore  
 pork - goro nama  
 porn - porno  
 pornography - porno grafi  
 port (left side of a ship) - nave leu  
-port (station) - porte  
+port (station) - porto  
 portion (dose) - doze  
 Portugal - Portugal  
 Portuguese language - portugal baxa  
@@ -3381,7 +3398,7 @@ punish (penalize) - fa fatu
 punishment (penalty) - fatu  
 Punjabi - panjabi  
 purple (violet) - violeta nil  
-push - puxa  
+push - pulse  
 put (place, set) - fa loka  
 put back (postpone) - pos poza  
 put back (postpone) - pospoze  
@@ -3515,7 +3532,7 @@ respect (honor, esteem) - onor
 respect (honor, think highly of) - fa onor  
 respond (give an answer) - fa javabu  
 rest (relief, repose) - xanti  
-rest (remainder) - reste  
+rest (remainder) - baki  
 restaurant - restoran  
 retain (hold back) - retene  
 return (get back) - be retro  
@@ -3593,6 +3610,7 @@ rotor (rotator) - rota xe
 rotten - pute  
 rough (coarse) - karse  
 round (circular) - gola di  
+route (path, trail, course, itinerary) - pata  
 route (path, trail, course, itinerary) - rute  
 routine (habit) - rutin  
 royal - raja di  
@@ -3623,6 +3641,7 @@ Réunion - Reunion
 
 Sabbath - sabate  
 sacrifice (offer) - kurban  
+sad (tragic) - tragi  
 sad - duku di  
 sadden (make sad) - fa duka  
 safe (secure, protected) - sekur  
@@ -3688,6 +3707,8 @@ scent (odor, fragrance, aroma) - aroma
 school (institution) - xulakan  
 schoolteacher - xula guru  
 scissors (shears) - makas  
+scoot (ride a scooter, move while sitting) - skute  
+scooter - skuter  
 scope (viewer) - oskope  
 score (grade) - punte nume  
 scoreboard - punte bano  
@@ -3798,7 +3819,7 @@ short story - korte kata
 shorten - korte fa  
 should (ought) - be sel  
 shoulder - kanta  
-shovel (spade, scoop) - bele  
+shovel (spade, scoop) - belca  
 show (display, demonstrate) - fa xou  
 show (display, exhibition, demonstration, demo) - xou  
 shower - dux  
@@ -3843,7 +3864,7 @@ skillful (crafty) - suta tabi
 skillful (crafty, dexterous) - suta di  
 skin (peel, bark, leather) - pil  
 skirt - jupe  
-skull - sar oste  
+skull - kapa oste  
 sky (heaven) - sama  
 slab (slate, tablet, board) - table  
 Slavic - Slave  
@@ -3861,7 +3882,7 @@ small town - xiu siti
 small village (hamlet) - xiu deha  
 smell (reek) - fa aroma  
 smell (sniff) - fa aroma  
-smelt - yung safa  
+smelt - fuzi saf  
 smoke - duman  
 smooth - lis  
 smoothen with a plane - fa rande  
@@ -3969,7 +3990,7 @@ stadium (arena) - estadi
 stage (phase) - faze  
 stage (platform, pedestal, podium) - tai  
 stain (spot) - najis bindu  
-stained glass - rang kanca  
+stained glass - rang glas  
 stairs (ladder) - eskale  
 stake (stick, peg, skewer) - moka kane  
 stand (rack) - lipa baze  
@@ -4244,7 +4265,7 @@ tie a knot - fa node
 tiger - bagre  
 tight (tense) - tense  
 tighten - fa tense  
-tikka masala - masala tika  
+tikka masala - masala tike  
 tile - tail  
 tilt (skew) - fa terca  
 time (number of times) - mar  
@@ -4291,6 +4312,7 @@ topography - topo grafi
 torch - fotokane  
 torrent - dai dara  
 touch - tocu  
+tour (excursion, trip) - tur  
 tourism - safar keka  
 tourist - safar keka ja  
 towel - tuale  
@@ -4305,6 +4327,7 @@ tractor - trater
 trade (commerce, buying and selling) - vende xope  
 trader (merchant) - vende xope ja  
 trading card - jami karte  
+tragicomic - tragi-komi  
 train - tren  
 train hijacker - tren kape ja  
 train ticket - tren tikete  
@@ -4411,6 +4434,7 @@ unnecessary (extraneous, unneeded) - anyau di
 unplug (uncork) - antapa  
 unrest - anpase  
 until (til, up to) - hata  
+unveil (reveal, uncover) - devel  
 upgrade (level up) - bon gradu  
 upload - nete don  
 upper - supra di  
@@ -4451,6 +4475,7 @@ veganism - pul fito yam sim
 vegetable - yam fito  
 vegetarian - fito yam sim ja  
 veil (cover, screen) - hijabu  
+veil - vel  
 velum - boka vele  
 Venezuela - Venezuela  
 Venus - Zukra  
@@ -4489,7 +4514,7 @@ visual field (field of vision) - vide medan
 vitamin - vitamin  
 vivisection - jivatomi  
 vocabulary (lexicon) - lexi jama  
-volcanic glass - hogo xan kanca  
+volcanic glass - hogo xan glas  
 volcano - hogo xan  
 volt (V) - volta  
 voodoo - vodun  
@@ -4607,7 +4632,7 @@ winner (victor) - jaija
 winter - leng mosim  
 winter melon (wax gourd, ash gourd) - mum melon  
 wintry - leng mosim di  
-wipe (clean with a cloth) - fa safa va tela  
+wipe (clean with a cloth) - fa saf va tela  
 wipe (rag, cleaning cloth) - saf tela  
 wire - metal lin  
 wisdom - sofita  

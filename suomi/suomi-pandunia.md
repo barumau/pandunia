@@ -188,7 +188,7 @@ arvostelija (kriitikko) - piping ja
 arvottaa - fa valu  
 ase - vuki  
 aseksuaali - ansexe di  
-asema (satama, lentokenttä) - porte  
+asema (satama, lentokenttä) - porto  
 asema - estasi  
 asento - asan  
 asevoimat (armeija) - vuki ordu  
@@ -511,8 +511,8 @@ Falklandin saaret - Malvinas nesi
 fanaatikko - fanatija  
 fani (-fiili) - fili ja  
 farmakologia - dava xelogi  
-fasismi - faxa sim  
-fasisti - faxa sim ja  
+fasismi - faxisim  
+fasisti - faxisimja  
 feminismi - fem sim  
 feministi - fem sim ja  
 fenoli - fenol  
@@ -538,7 +538,7 @@ fosfori - fosfe
 fotoni - foto so  
 frankium - franse yum  
 fruktoosi (hedelmäsokeri) - frutos  
-fuusio (yhteensulautuminen) - yung liga  
+fuusio (yhteensulautuminen) - fuzi liga  
 fysiikka - fizika  
 fysiikka - fizika suta  
 fyysikko - fizika ja  
@@ -602,6 +602,7 @@ haarukka - forke
 hafnium - hafen yum  
 hahmo (figuuri) - figur  
 hai - xayu  
+haima - pankreas  
 haista - fa aroma  
 haistaa - fa aroma  
 Haiti - Aiti  
@@ -665,6 +666,7 @@ he - damen
 hedelmä - frute  
 hedelmätarha - frute bagi  
 hei (haloo) - halo  
+hei - hei  
 heidän - damen su  
 heijastaa (taittaa takaisin) - reflexi  
 heijastaa kuvia (projisoida) - fa lanse grafi  
@@ -677,9 +679,9 @@ heinäkuu - mes ceti
 heittää (paiskata) - lanse  
 helikopteri - helis fei gi  
 helium - heli yum  
-helmi - lulu  
+helmi - jenju  
 helmikuu - mes du  
-helmitaulu - lulu table  
+helmitaulu - jenju table  
 helppo - fasil  
 helppous - fasilta  
 Helsinki - Helsinki  
@@ -742,7 +744,7 @@ hirviö - mostre
 historia (aikakirjat) - histori  
 historia (oppiaine) - histori logi  
 historioitsija - historija  
-hius (hiukset) - sar kexa  
+hius (hiukset) - kapa kexa  
 hius (karva, tukka, hiukset) - kexa  
 hiusharja - kexa broxa  
 hiuspanta - kexa bande  
@@ -776,6 +778,7 @@ humanistinen - insan sim di
 hummus - humus sos  
 humoristi - yumor ja  
 hunaja - medu  
+huokonen - pore  
 huomata (hoksata) - note  
 huomauttaa - fa note  
 huomautus - note anjil  
@@ -792,8 +795,8 @@ huumori - yumor
 huutaa - krita  
 huvi (hauskuus) - vanu  
 hydraatti - hidrate  
-hygieeninen - salu safa di  
-hygienia (puhtaus) - salu safata  
+hygieeninen - salu saf di  
+hygienia (puhtaus) - salu safta  
 hyi! (pyh!) - fui  
 hylkiö (paaria) - paraya  
 hymiö (emoji) - gamo zi  
@@ -986,8 +989,8 @@ jo (tehty teko) - fin
 jodi - iode  
 jogurtti - yogur  
 johanneksenleipäpuu - karuba  
-johtaa (ohjata) - lida  
-johtaja (pomo) - lida ja  
+johtaa (ohjata) - lide  
+johtaja (pomo) - lider  
 joka (jokainen) - pan un  
 joka (mikä) - ki  
 jokainen asia - pan xe  
@@ -1035,12 +1038,13 @@ jutella (höpistä) - blabla
 juuri (tarkka, täsmällinen) - juste  
 juuri - mula  
 juurikas - bete  
-juusto - cize  
+juusto - keze  
 juustokumina (jeera) - zira  
 juutalainen - yehudi  
 juutalaisuus - yehudi din  
 jyrinä (ukkonen) - grom  
 jyvä (luoti) - dana  
+jyvänen (hiukkanen) - gran  
 jäinen - ais di  
 jäkälä - alga fungu  
 jälkiliite (postfiksi) - posfixe  
@@ -1062,7 +1066,7 @@ jää - ais
 jäädä jäljelle - be reste  
 jääkiekko - ais hoki  
 Jäämeri - Artika Hai  
-jäännös (loput) - reste  
+jäännös (loput) - baki  
 jäätelö - ais krem  
 jäätyä - be ais  
 
@@ -1108,7 +1112,7 @@ kalifaatti - halifa dexa
 kalifi - halifa  
 kalifornium - kaliforni yum  
 kalium - kali yum  
-kaljupäinen - sar kexa hin  
+kaljupäinen - kapa kexa hin  
 kalkki - kalsi mate  
 kalkkikivi - kalsi petra  
 kalkkuna - dinde  
@@ -1440,6 +1444,7 @@ kookos - yezi
 Kookossaaret - Kokos nesi  
 koola - kola  
 koolapähkinä - kola frute  
+koominen (hauska) - komi  
 koominen (hauska) - yumor di  
 koota (kerätä) - fa jama  
 kopio (jäljennös) - kopi  
@@ -1604,7 +1609,7 @@ kynä - kalam
 Kypros - Kipris  
 kypsä (aikuinen) - matur  
 kypsä riisi - boli varis  
-kypärä - sar kaska  
+kypärä - kapa kaska  
 kyrilliset aakkoset - Kiril zi  
 kyselylomake - sual dokumen  
 kysymys - sual  
@@ -1620,6 +1625,7 @@ kärpänen - dom zeze
 kärry (vaunu, auto, jne) - gar  
 käsi - hanu  
 käsi- - hanu li  
+käsite (idea) - ide  
 käsite (idea) - idea  
 käsitellä (kohdella, pidellä, prosessoida) - fa culi  
 käsitellä dataa - fa komputa  
@@ -1664,7 +1670,7 @@ laatikko - sanduku
 laatta (levy) - table  
 laatu (laadukkuus, erinomaisuus, hyvyys) - bon sifata  
 laatu (ominaisuus, ominaispiirre, määrite) - sifa  
-laava - yung petra  
+laava - fuzi petra  
 Lagos - Lagos  
 lahja - don xe  
 lahjakortti - don xe ceke  
@@ -1688,7 +1694,7 @@ lannoittaa - fa darte bon
 lantaani - lantan  
 Laos - Lau  
 laoslainen - lau di  
-lapio - bele  
+lapio - belca  
 lapislatsuli - lazur petra  
 lappo - dara tubo  
 lapsen poika - ben son  
@@ -1701,8 +1707,8 @@ lapsi - baca
 lapsuus (epäkypsyys) - youta  
 lapsuusvuodet - you nen  
 lasagne - lazanya  
-lasi - kanca  
-lasittaa - fa kanca dake  
+lasi - glas  
+lasittaa - fa glas dake  
 laskea (pitää lukua, numeroida) - fa nume  
 laskea (tehdä laskutoimitus) - fa hisabu  
 laskea tasoa - dus gradu  
@@ -1745,7 +1751,7 @@ leirintäalue - kampe bagi
 lekseemi - lexime  
 lempi (romanssi, rakkaus) - romanse  
 lento - fei  
-lentoasema (lentokenttä) - air porte  
+lentoasema (lentokenttä) - air porto  
 lentokone - fei gi  
 lentokonekaappari - fei gi di kape ja  
 lentää - fa fei  
@@ -1806,6 +1812,7 @@ lippu (piletti) - tikete
 lippu - bandera  
 lisko - saur  
 lista (luettelo) - liste  
+lisä (kasvu, nousu, huippu) - auge  
 lisä- - max di  
 lisätä (enentää) - fa max  
 litium - lito yum  
@@ -1987,6 +1994,7 @@ mangaani - mangan
 mango - mango  
 mangostani - mangus  
 mangusti - mungus  
+mania - mani  
 manikealaisuus - mani din  
 Manin saari - Manin nesi  
 mannerlaatta - geo kaska plate  
@@ -2007,6 +2015,8 @@ massa - masa
 masto (salko) - masta  
 masuuni - gau tanur  
 matala - dipe  
+mate (matejuoma) - mate cai  
+matekasvi - mate  
 matemaatikko - hisabu logija  
 matematiikka (matikka) - hisabu logi  
 materialismi - mate lona  
@@ -2171,6 +2181,7 @@ muotoilla (muovata) - fa forma
 muovailuvaha - plasti paste  
 muovata (muovailla) - fa plasti  
 muovi - plasti  
+murheellinen (traaginen) - tragi  
 musiikki - muzika  
 musketti - muskete  
 musketööri - muskete ja  
@@ -2293,6 +2304,7 @@ nisäkäs - mamal
 nitraatti - nitrate  
 nitriili - nitril  
 Niue - Niue  
+nivel (liitos) - junte  
 no - nu  
 nobelium - nobel yum  
 noin (arviolta, suunnilleen) - yaki  
@@ -2492,7 +2504,7 @@ pakko - paka
 pakottaa - fa paka  
 paksu - gros  
 paksuus - grosta  
-pala - tika  
+pala - tike  
 palaa - be hogo  
 palanen (murunen, riekale, sirpale) - parce  
 palata - be retro  
@@ -2502,6 +2514,7 @@ palauttaa (antaa takaisin) - redon
 palauttaa - fa retro  
 palauttaa - fuka  
 Palestiina - Filistin  
+paljastaa - devel  
 paljastaa - andaka  
 paljon (monta) - poli  
 palladium - paladi yum  
@@ -2586,6 +2599,7 @@ pelkkä (koruton, tavanomainen, vain) - sada
 pellava - yama  
 pellavakangas - yama tela  
 pellavansiemen - yama seme  
+pelle (klovni) - payaco  
 pelokas - fobi di  
 pelottaa - fa fobi  
 pelottava - fobi ja  
@@ -2776,7 +2790,7 @@ pudottaa - fa pada
 Puerto Rico - Portoriko  
 puertoricolainen - portoriko jen  
 puhdas (siivo, siisti) - saf  
-puhdistaa (siivota) - fa safa  
+puhdistaa (siivota) - fa saf  
 puhelias - loga tabi di  
 puhelin - fon  
 puhelin - tele fon  
@@ -2865,9 +2879,9 @@ päiväntasaaja - geo par lin
 Päiväntasaajan Guinea - Geo Par Lin Ginia  
 päivänvalo - dia foto  
 päivää! - sal dia  
-pää - sar  
+pää - kapa  
 pää- - xefe di  
-pääkallo - sar oste  
+pääkallo - kapa oste  
 päällekävijä (hyökkääjä) - agreser  
 päällekäyvä (aggressiivinen) - agresive  
 päällikkö (pomo) - xefe  
@@ -2878,7 +2892,7 @@ päästä (mennä läpi) - cese
 päästä - be laxe  
 päästä pois (nukkua pois; edesmennyt) - decese  
 päätyä johtopäätökseen - infere  
-päätön - sar hin  
+päätön - kapa hin  
 pöly (tomu) - haki  
 pölynimuri - haki cupu gi  
 pöytä - meza  
@@ -2945,6 +2959,7 @@ reaktio (vastaliike) - reation
 rehtori - xula xefe  
 reikä - kung  
 Rein - Ren  
+reissu (retki) - tur  
 rei’ittää - fa kung  
 rengas (kehä) - ring  
 renium - ren yum  
@@ -3010,6 +3025,7 @@ ruma (pahannäköinen) - dus vide
 rumpu - guma  
 runo - xir  
 runoilija - xir ja  
+runsas - luxu  
 ruoho - cau  
 ruohotasanko - cau stan  
 ruoka - yam xe  
@@ -3049,7 +3065,7 @@ saaja (vastaanottaja) - na ja
 saapas (buutsi) - buta  
 saari - nesi  
 saaristo - nesia  
-saarni - yasen  
+saarni - frasen  
 saatana (sielunvihollinen) - xatan ja  
 saavuttaa (päästä tykö) - acese  
 saavuttaa (saavutettua tilaa ilmaiseva apuverbi) - le  
@@ -3114,7 +3130,7 @@ saslik - xix nama
 sata (hehto-) - sento  
 sata tuhatta - des kilo  
 satakieli - bulbul  
-satama - hai porte  
+satama - hai porto  
 satanismi (paholaisenpalvonta) - xatan din  
 satanisti - xatan din ja  
 satavuotinen - sento nen di  
@@ -3183,7 +3199,7 @@ seurustella (toimia yhdessä) - fa sosi
 seutu (maa, alue) - topo  
 Seychellit - Sexel nesi  
 sianliha - goro nama  
-side (remmi) - faxa  
+side (remmi) - faxi  
 siemen - seme  
 siemen- - seme di  
 siemenjyvä - seme dana  
@@ -3331,8 +3347,8 @@ sukupuoli - jinse
 sukupuolinen - jinse di  
 sukupuolitutkimus - jinselogi  
 sukututkimus - gene logu  
-sulaa - yung  
-sulaa yhteen (fuusioitua) - be yung liga  
+sulaa - fuzi  
+sulaa yhteen (fuusioitua) - be fuzi liga  
 sulfaatti - sulfate  
 suljettu - klus di  
 sulka - pena  
@@ -3366,6 +3382,7 @@ suosio (hyväntahtoisuus) - favor
 suosittu (trendikäs) - faxon di  
 surettaa - fa duka  
 Surinam - Surinam  
+surkuhupaisa (tragikoominen) - tragi-komi  
 surra (murehtia) - be duka  
 suru (murhe) - duku  
 surullinen - duku di  
@@ -3532,6 +3549,7 @@ tasapaino - par vezeta
 tasavalta - vakil krati  
 tasavertaisuus - parta  
 tasku - jebu  
+taskuveitsi (linkkuveitsi) - jebu caku  
 taso - par fase  
 tasoittaa (tasata) - fa par  
 tatuointi - tatu  
@@ -3635,7 +3653,7 @@ tiikerikissa - bagre oselote
 tiili - dobe  
 tiistai - marisden  
 tikari - kanjar  
-tikka masala - masala tika  
+tikka masala - masala tike  
 tila (tilanne, seikka) - hal  
 tilanne (asiaintila) - xe hal  
 tili - hisabu loge  
@@ -3672,7 +3690,7 @@ tomografia (kerroskuvaus) - tomi grafi
 Tonga - Tonga  
 tonni (1000 kg) - mega gram  
 tonnikala - tuna  
-tontti (maakaistale) - geo tika  
+tontti (maakaistale) - geo tike  
 topografia - topo grafi  
 tori (basaari) - bazar  
 torium - tor yum  
@@ -3781,7 +3799,7 @@ tyyrpuuri - nave dex
 työ (tehtävä) - karxe  
 työkalu - kargi  
 työntekijä (työläinen) - karja  
-työntää (puskea) - puxa  
+työntää (puskea) - pulse  
 työpöytä (kirjoituspöytä) - karm eza  
 työskennellä - kar  
 tähti - sing  
@@ -4001,6 +4019,7 @@ venäläinen - rusia baxa
 verbi (teonsana) - kar lexi  
 veretön - hemi hin  
 verho (huntu, peite) - hijabu  
+verho (peite) - vel  
 verhot - parde  
 veri - hemi  
 verisolu - hemi selu  
@@ -4115,7 +4134,7 @@ vokaali - jong fon
 volframi - volfram  
 voltti (V) - volta  
 voodoo - vodun  
-vulkaaninen lasi - hogo xan kanca  
+vulkaaninen lasi - hogo xan glas  
 vuode (sänky, peti) - bede  
 vuodenaika - mosim  
 vuohi - behe  

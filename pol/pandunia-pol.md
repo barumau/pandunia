@@ -58,7 +58,7 @@ air - powietrze
 air bio di -   
 • anair bio di -   
 air ordu - siły powietrzne  
-air porte - lotnisko (port lotniczy)  
+air porto - lotnisko (port lotniczy)  
 air prese - ciśnienie atmosferyczne  
 air prese metri gi - barometr  
 ais - lód  
@@ -218,6 +218,7 @@ atom bomba - bomba atomowa
 atom kerne - jądro atomu  
 atom vuki -   
 audi - usłyszeć, słyszeć; słuchać  
+auge -   
 auro - złoto  
 Australia - Australia  
 Austronesi -   
@@ -270,6 +271,7 @@ baka ja - piekarz
 bakakan - piekarnia  
 baka poto - terakota  
 bakalau - dorsz  
+baki - pozostałość, reszta  
 baku - biały  
 baku coi - kapusta pekińska  
 baku margarite - jastrun właściwy  
@@ -378,6 +380,7 @@ be fatige - męczyć się (nużyć się)
 be fen - pęknąć (rozpaść się)  
 be fin -   
 be fobi -   
+be fuzi liga - łączyć (złączyć)  
 be gamo - czuć, odczuć, odczuwać  
 be gas - zamieniać się w gaz (parować)  
 be gau - wznosić się (wznieść się, wstawać, wstać, powstać, unosić się, unieść się)  
@@ -431,7 +434,6 @@ be vai -
 be vanu - cieszyć się (zażywać, bawić się)  
 be vide - być widzianym  
 be xuru - zaczyna (zacząć, rozpoczynać, rozpocząć)  
-be yung liga - łączyć (złączyć)  
 be zai - pojawić się  
 bebe - niemowlę  
 bebe bede - kojec  
@@ -444,7 +446,7 @@ Beijing - Pekin
 bel - bel  
 bela -   
 Belarus - Białoruś  
-bele - łopata (szpadel)  
+belca - łopata (szpadel)  
 Belgi - Belgia  
 Belize - Belize  
 ben - dziecko (potomek)  
@@ -666,7 +668,6 @@ cira cira - strzępić (drzeć)
 cira cira di - rozstrzępiony (podarty)  
 cira tela -   
 cita - gepard  
-cize - ser  
 coda - jebać, kopulować  
 coi - zielenina  
 coklate - czekolada  
@@ -1085,6 +1086,7 @@ fa gan - suszyć (wysuszyć)
 fa gas - zamieniać w gaz  
 fa gau - podnosić (podnieść)  
 fa geme - grać w grę  
+fa glas dake - szklić (glazurować)  
 fa glu - lepić (kleić)  
 fa gol -   
 fa gola - otoczyć, otaczać  
@@ -1117,7 +1119,6 @@ fa juxa - wstrzyknąć, wstrzykiwać
 fa kai - otworzyć, otwierać  
 fa kaka - defekować, srać  
 fa kanal - kierować (doprowadzać, prowadzić, służyć jako kanał)  
-fa kanca dake - szklić (glazurować)  
 fa karga -   
 fa kata - opowiedzieć, opowiadać  
 fa keka - odwiedzić, odwiedzać  
@@ -1228,8 +1229,8 @@ fa rolo - toczyć, turlać
 fa romanse - kochać romantycznie  
 fa rota - obrócić (kręcić)  
 fa sabu - spowodować, powodować  
-fa safa - wyczyścić, czyścić  
-fa safa va tela -   
+fa saf - wyczyścić, czyścić  
+fa saf va tela -   
 fa safar - podróżować  
 fa sahi - poprawić, poprawiać, prostować, korygować  
 fa saide - polować (łowić)  
@@ -1318,9 +1319,9 @@ fatu -
 fatu di -   
 fatura - rachunek (faktura)  
 favor -   
-faxa - bandaż, taśma, wstążka  
-faxa sim - faszyzm  
-faxa sim ja - faszysta  
+faxi - bandaż, taśma, wstążka  
+faxisim - faszyzm  
+faxisimja - faszysta  
 faxon - moda, trend  
 faxon di - popularny, modny  
 faze - etap, faza  
@@ -1455,6 +1456,7 @@ Franse Guyana - Gujana Francuska
 Franse krepe - francuski naleśnik (crêpe)  
 Franse Polinesi - Polinezja Francuska  
 franse yum - frans  
+frasen - jesion  
 frem - rama  
 frike - trzeć (pocierać, obetrzeć, pucować)  
 frutos -   
@@ -1485,6 +1487,10 @@ fute bano - rusztowanie (trap)
 fute bol - piłka nożna  
 fute marke -   
 fute xaka - noga  
+fuzi - topnieć (upłynniać się)  
+fuzi liga - fuzja (amalgamowanie, łączenie)  
+fuzi petra - lawa  
+fuzi saf - topić (upłynnić, upłynniać)  
 
 ## G  
 
@@ -1607,7 +1613,7 @@ Geo Par Lin Ginia - Gwinea Równikowa
 geo politi -   
 geo sismo - trzęsienie Ziemi  
 geo termo -   
-geo tika - działka (teren)  
+geo tike - działka (teren)  
 german yum - german  
 Germania -   
 Gernezi - Guernsey  
@@ -1626,6 +1632,8 @@ gio ja -
 giota - kropla  
 gitar - gitara  
 giuka - żad  
+glas - szkło  
+glas daka - glazura (emalia)  
 glis - ślizgać się (poślizgnąć się, jeździć na łyżwach)  
 glu - klej  
 glu bande -   
@@ -1667,6 +1675,7 @@ grafi projeter - projektor (rzutnik)
 grafi so -   
 grafi sugata -   
 gram - gram  
+gran - cząstka  
 granite - granit  
 grave - żwir  
 Grenada - Grenada  
@@ -1734,7 +1743,7 @@ hai jele - meduza
 hai kinar - wybrzeże  
 hai nil - morskoniebieski  
 hai ordu - marynarka (flota)  
-hai porte - port morski (przystań)  
+hai porto - port morski (przystań)  
 hai vala -   
 haide - niech my, hajda  
 haki - pył  
@@ -1792,6 +1801,7 @@ hazin -
 • mahazin -   
 hazinkan -   
 he - hę?, co?, pardon?  
+hei - hej  
 Helen - Grecja  
 Helen di - gracki, helleński; Grek  
 heli yum - hel  
@@ -1866,7 +1876,7 @@ hogo sanduku - latarnia
 hogo seku - krzemień  
 hogo tehni - pirotechnika  
 hogo xan - wulkan  
-hogo xan kanca - szkło wulkaniczne  
+hogo xan glas - szkło wulkaniczne  
 hoki - hokej  
 holera - cholera  
 holme yum - holm  
@@ -1911,6 +1921,7 @@ i - i, oraz
 ibri - hebrajski  
 ici - wola, chęć  
 • anicija - niechętny  
+ide - idea, pomysł  
 idea - idea, pomysł  
 idea di - pojęciowy  
 idea zi - ideogram  
@@ -2013,6 +2024,7 @@ Jayer - Algieria
 jaze - jazz, dżez  
 jebra - algebra  
 jebu - kieszeń  
+jebu caku -   
 jeka - pożyczyć  
 jeka don - pożyczać komuś (pożyczyć komuś)  
 jeka loga - zapożyczenie (wyraz obcy)  
@@ -2027,6 +2039,8 @@ jen (jen men) -
 jen di - osobisty, intymny, prywatny  
 jen hai -   
 jen jami -   
+jenju - perła  
+jenju table - abak (liczydło)  
 jenxen - żeń-szeń  
 Jerze - Jersey  
 jete -   
@@ -2078,6 +2092,7 @@ jun sau -
 jun sis -   
 junta - młodość  
 jung - gatunek  
+junte -   
 jupe - spódnica  
 jus - sok  
 juste - tylko (precyzyjny, dokładny)  
@@ -2153,8 +2168,6 @@ kan -
 Kanada - Kanada  
 kanal - kanał  
 kanal ja - przewód (kanał)  
-kanca - szkło  
-kanca daka - glazura (emalia)  
 kandela - kandela  
 kandi - cukierek, słodycze  
 kane - pręt, kij  
@@ -2174,6 +2187,12 @@ kanu - kanoe
 kanun - prawo  
 kanun vala - adwokat  
 kanyon - kanion  
+kapa - głowa  
+kapa hin - bezgłowy  
+kapa kaska - hełm  
+kapa kexa - włosy  
+kapa kexa hin -   
+kapa oste - czaszka  
 kape - złapać, łapać, schwytać, chwytać  
 kape truke - pułapka  
 kape yo kuanga - kopać (wydobywać)  
@@ -2276,6 +2295,7 @@ kexa bande - opaska do włosów
 kexa broxa -   
 kexa hin -   
 kexa sabun - szampon  
+keze - ser  
 ki -   
 ki - że  
 kilo - tysiąc (kilo-)  
@@ -2352,6 +2372,7 @@ koloni sim - kolonializm
 koloni sim ja - kolonialista  
 kolum - kolumna, filar  
 koma - przecinek  
+komi -   
 Komoro nesi - Komory  
 kompani - firma, kompania, korporacja  
 komputa di - cyfrowy  
@@ -2558,9 +2579,9 @@ libele - ważka
 Liberia - Liberia  
 Libia - Libia  
 lici - liczi  
-lida - prowadzić, dowodzić, kierować  
-lida ja - dowódca, kierownik  
-lida lin - smycz (cugiel, lejc, wodza)  
+lide - prowadzić, dowodzić, kierować  
+lide lin - smycz (cugiel, lejc, wodza)  
+lider - dowódca, kierownik  
 Lietuva - Litwa  
 lietuva baxa - litewski  
 lifafa - owinięcie (koperta, okładka)  
@@ -2644,8 +2665,6 @@ luga melon - melon miodowy
 luka - sześć (6)  
 luka fase - sześcian (kostka)  
 luka gona - sześciokąt (sześciobok)  
-lulu - perła  
-lulu table - abak (liczydło)  
 lume -   
 lumen -   
 luna - księżyc  
@@ -2660,6 +2679,7 @@ Luter din - luteranizm
 Luter din ja - luterański  
 lutesi yum - lutet  
 Luxemburge - Luksemburg  
+luxu -   
 
 ## M  
 
@@ -2713,6 +2733,7 @@ mangan - mangan
 mango - mango  
 mangus - mangostan  
 Mani - prorok Mani  
+mani -   
 mani din - manicheizm  
 Manin nesi - Wyspa Man  
 manioka - maniok  
@@ -2738,7 +2759,7 @@ masa mula - bulwa
 masa mula sol hua - topinambur  
 masaje - masaż  
 masala - przyprawa  
-masala tika - tikka masala  
+masala tike - tikka masala  
 maska - maska, kamuflaż  
 masta - maszt  
 maste - być mistrzem (być ekspertem)  
@@ -2754,6 +2775,8 @@ matabil -
 matafa - zabić, zabijać  
 mataja - zabójca  
 mate - materia, substancja  
+mate -   
+mate cai -   
 mate di - materialny  
 mate lona -   
 matras - materac  
@@ -2825,6 +2848,8 @@ men -
 mendelef yum -   
 meninge - opona mózgowa  
 meninge tis - zapalenie opon mózgowych  
+• demente -   
+mente -   
 mentor - doradca (mentor)  
 mer - należeć (być członkiem)  
 mer - członek  
@@ -3102,6 +3127,7 @@ nerve toxi -
 nesi - wyspa  
 nesia - archipelag  
 nete - sieć  
+nete -   
 nete don - wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)  
 nete gete - ściągać (ściągnąć, pobrać, pobierać)  
 nete loka - witryna internetowa (portal internetowy)  
@@ -3280,6 +3306,7 @@ panike - panika
 panir - twaróg  
 panjabi - pendżabski  
 panka - skrzydło  
+pankreas - trzustka  
 pante - spodnie (pantalony, portki)  
 papagai - papuga  
 papaya - papaja  
@@ -3328,6 +3355,7 @@ paskal - paskal (Pa)
 pasporte - paszport  
 pasta - pasta  
 pasta petra - magma  
+pata -   
 patate - ziemniak  
 pati - choroba  
 pati di - chory  
@@ -3340,6 +3368,7 @@ pau - strzelać (strzelić)
 pau gi - pistolet, strzelba, ręczna broń palna  
 paunde - funt (£)  
 pauza - pauza (przerwa)  
+payaco - klaun  
 pedal - pedał  
 pedal sikle - rower z pedałami  
 pede - pierdnięcie  
@@ -3483,16 +3512,17 @@ pompe tapa - tłok
 ponte - wskazać, wskazywać  
 ponte flece - wskaźnik  
 ponte pin - kompas (namagnesowana igła)  
+pore -   
 porei - por  
 porno - porno, film erotyczny  
 porno grafi - pornografia  
-porte - port  
 porte -   
 • exporte - eksportować (wyeksportować)  
 • reporte - raportować (relacjonować, opowiadać; raport)  
 • reporter - reporter  
 • suporte -   
 • traporte - transport  
+porto - port  
 Portoriko - Portoryko (Puerto Rico)  
 portoriko jen -   
 Portugal - Portugalia  
@@ -3566,6 +3596,7 @@ pul fito yam sim ja - weganin (weganka)
 pul xipi - namoczyć (marynować)  
 pulmon - płuco  
 pulmon tis -   
+pulse - pchnąć, pchać  
 puma - puma (kuguar)  
 punte - kropka (znak interpunkcyjny)  
 punte bano - tablica wyników  
@@ -3582,7 +3613,6 @@ pute -
 • konputer - komputer  
 putong - powszechny, uniwersalny  
 Putong Han - mandaryński chiński, Putonghua  
-puxa - pchnąć, pchać  
 puxa gi - tłok  
 Qatar - Katar  
 Qazaqe - Kazachstan  
@@ -3610,7 +3640,7 @@ rande - hebel, strug
 rang - kolor  
 rang arka - tęcza  
 rang arka salmon - pstrąg tęczowy  
-rang kanca - witraż  
+rang glas - witraż  
 rang mate - barwnik  
 rasa - rasa  
 rasa medi - międzyrasowy  
@@ -3631,7 +3661,6 @@ rentegen yum - roentgen
 reporte - raport  
 reseta - recepta, receptura, przepis  
 reside - paragon, pokwitowanie  
-reste - pozostałość, reszta  
 restoran - restauracja  
 retro dau - powrót  
 retro gula - wymiotować (zwrócić)  
@@ -3752,8 +3781,8 @@ salmon - łosoś (pstrąg)
 Salon - Sierra Leone  
 salu - zdrowy  
 saludo -   
-salu safa di - czysty (higieniczny, sanitarny)  
-salu safata - higiena  
+salu saf di - czysty (higieniczny, sanitarny)  
+salu safta - higiena  
 saluta - zdrowie  
 Salvador - Salwador  
 sam - taki sam  
@@ -3801,12 +3830,6 @@ sanzi - wiatrak (wentylator)
 sapatu - but  
 sapatu ja - szewc  
 sapatukan - warsztat szewski  
-sar - głowa  
-sar hin - bezgłowy  
-sar kaska - hełm  
-sar kexa - włosy  
-sar kexa hin -   
-sar oste - czaszka  
 sata - moment  
 sata di - chwilowy  
 sata don - dedykować (poświęcać, poświęcić)  
@@ -3930,6 +3953,8 @@ sita marke - cudzysłów
 siti - miast, miasteczko  
 sivil - cywilizowany (ucywilizowany)  
 sivilta - cywilizacja  
+skute -   
+skuter -   
 Slave - słowiański  
 Slovakia - Słowacja  
 Slovenia - Słowenia  
@@ -4156,7 +4181,7 @@ tezata -
 teze - argument, teza  
 • sinteze -   
 ticin - chordofon, instrument strunowy  
-tika - tikka  
+tike - tikka  
 tikete - bilet  
 tim - drużyna  
 Timor - Timor  
@@ -4212,6 +4237,8 @@ tra -
 tragona di - przekątny  
 tralongta -   
 trapas - przejazd, przewóz, tranzyt, transport  
+tragi -   
+tragi-komi -   
 Transe Nistre Dexa - Naddniestrze  
 • antranse vide di -   
 transe vide di -   
@@ -4259,6 +4286,7 @@ tunel - tunel
 tunel tren - metro  
 Tunis - Tunezja  
 tupi - kapelusz, czapka  
+tur -   
 turbe - przeszkodzić, przeszkadzać, robić kłopot  
 • disturbe -   
 turbejeter -   
@@ -4377,6 +4405,8 @@ vei di -
 vei gola - południk  
 vei gradu - południk  
 vei lin -   
+vel -   
+devel -   
 vende - sprzedać (sprzedawać)  
 vende xope - handel  
 vende xope ja - handlarz (kupiec)  
@@ -4588,7 +4618,6 @@ yama tela -
 yang - rodzaj, typ, styl  
 preyang di - klasyczny  
 Yapetus -   
-yasen - jesion  
 yatim - sierota  
 yatim dom - sierociniec, dom dziecka  
 yau -   
@@ -4636,10 +4665,6 @@ youta -
 yumor - humor  
 yumor di - humorystyczny, śmieszny, zabawny, komiczny  
 yumor ja - komik  
-yung - topnieć (upłynniać się)  
-yung liga - fuzja (amalgamowanie, łączenie)  
-yung petra - lawa  
-yung safa - topić (upłynnić, upłynniać)  
 yurta - jurta  
 yuter yum - itr  
 yuterbi yum - iterb  
