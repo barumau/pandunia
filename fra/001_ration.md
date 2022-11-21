@@ -92,7 +92,7 @@ C'est pour cette raison que le Pandunia utilise l'alphabet latin.
 
 L'anglais et le chinois possèdent une collection de voyelles assez riche.
 L'anglais comporte entre 14 et 20 voyelles, selon le dialecte. 
-e chinois standard en compte 9 (et beaucoup d'autres types de voyelles).
+Le chinois standard en compte 9 (et beaucoup d'autres types de voyelles).
 Ces chiffres sont plutôt élevés si on on considère que généralement on ne dépasse pas les 5 à 6 voyelles.
 
 Le Pandunia n'a que 5 voyelles pures : a, e, i, o, u.
@@ -100,7 +100,7 @@ Le Pandunia n'a que 5 voyelles pures : a, e, i, o, u.
 
 ### Consonnes communes
 
-Le nombre de consonne en Pandunia est moins élevé qu'en anglais ou en mandarin.
+Le nombre de consonnes en Pandunia est moins élevé qu'en anglais ou en mandarin.
 La majorité des consonnes est prononcée de la même manière dans les trois langues ci-dessous.
 Les sons qui existent en anglais ou en mandarin mais pas en Pandunia sont mis entre parenthèses.
 
