@@ -6,8 +6,8 @@ hide:
 
 # pandunia - una lingua igualmente mundial
 
-![](http://www.pandunia.info/bandir/bandir.png "Bandeira de Pandunia")
-
+**sal, dunia!**
+– Olá, mundo!
 
 A pandunia é uma língua artificial multicultural.
 
@@ -29,3 +29,9 @@ Nota: Esta documentação não está atualizada com a versão final do Pandunia.
 
 Contato: risto@pandunia.info
 
+## pandunia
+
+![](http://www.pandunia.info/bandir/bandir.png "Bandeira de Pandunia")
+
+**de pan dunia, to pan dunia**  
+– do mundo inteiro para o mundo inteiro

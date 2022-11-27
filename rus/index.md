@@ -6,8 +6,8 @@ hide:
 
 # Пандуния
 
-![](http://www.pandunia.info/bandir/bandir.png "pandunia su bandir")
-
+**sal, dunia!**
+– Привет, мир!
 
 Пандуния - это межкультурный плановый вспомогательный язык, имеющий своей целью достижение языковой нейтральности. Пандуния - продукт нескольких лет исследований, разработки дизайна и продолжающихся по сей день экспериментов. Развитие языка всё продолжается.
 
@@ -33,3 +33,10 @@ hide:
 
 Контакт: [risto@pandunia.info](mailto:risto@pandunia.info)
 
+
+## pandunia
+
+![](http://www.pandunia.info/bandir/bandir.png "pandunia su bandir")
+
+**de pan dunia, to pan dunia**  
+– со всего мира для всего мира

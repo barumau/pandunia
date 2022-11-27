@@ -26,8 +26,6 @@ Pandunia on keinotekoinen kieli, joka on suunniteltu käytettäväksi kansainvä
   Mukaan on otettu mm. maailman 12 puhutuinta kieltä,
   jotka ova englanti, kiina, espanja, hindi-urdu, arabia, venäjä, bangla, portugali, malaiji, japani, ranska ja saksa.
 
-![](http://www.pandunia.info/grafe/bandir.png "Pandunian lippu")
-
 ## Kelle?
 
 Pandunia on tarkoitettu aivan kaikille!
@@ -84,3 +82,9 @@ Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@p
 - [Maailman yhteyskieli](001_dunia_basha.md)
 - [Panduniasta muissa julkaisuissa](makal_tema_pandunia.md)
 
+## pandunia
+
+![](http://www.pandunia.info/grafe/bandir.png "pandunian lippu")
+
+**de pan dunia, to pan dunia**  
+– koko maailmalta, koko maailmalle

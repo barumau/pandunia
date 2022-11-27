@@ -395,7 +395,14 @@ are not compound words in Pandunia.
 → **longta**
 'length'
 
-**-ia**
+**-ti**
+'function like' :
+**rota**
+'wheel'
+→ **rotati**
+'rotate'
+
+**-a**
 **filsofi**
 'view, outlook, life wisdom'
 → **filsofia**
@@ -445,6 +452,14 @@ There are also a lot of country names that do not end in **-ia**.
 'act, perform'
 → **ativi**
 'active, inclined to act'
+
+**-za**
+'equip with' :
+**ati**
+'act, perform'
+→ **ativi**
+'active, inclined to act'
+
 
 **-do**
 'level or degree' :  
