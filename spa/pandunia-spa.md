@@ -124,7 +124,7 @@ anis - anís
 anjil - mensaje  
 anjil ja - mensajero  
 Antartika - antartida  
-Antartika Hai - océano Antártico  
+Antartika Bahai - océano Antártico  
 antena - antena  
 Antigua - Antigua  
 Antigua i Barbuda - Antigua y Barbuda  
@@ -163,7 +163,7 @@ arte fete intelige (AI) - inteligencia artificial
 arteja - artista  
 arte sanaja - artesano  
 Artika - Ártico  
-Artika Hai - océano Ártico  
+Artika Bahai - océano Ártico  
 Aruba - Aruba  
 asal - origen  
 asal Amerka jen - indígena (indio)  
@@ -192,8 +192,8 @@ ati - acto
 • atir - agente  
 • ativi - activo  
 • anativi - desactivado  
+Atlanti Bahai - océano Atlántico  
 atlanti bakalau - bacalao común  
-Atlanti Hai - océano Atlántico  
 atlanti salmon - salmón del Atlántico  
 atom - átomo  
 atom bomba - bomba atómica  
@@ -240,6 +240,17 @@ bagre oselote - gato manchado (tigrillo)
 bah - bah  
 baha din - bahaísmo (fe bahá'i)  
 baha din ja - bahá'í  
+bahai - mar  
+bahai alga - macroalga  
+bahai amir ja - almirante  
+bahai di - marítimo  
+bahai hiyar - holoturia (pepino de mar)  
+bahai hua - actinia (anémonas de mar)  
+bahai jele - medusa  
+bahai kinar - costa (orilla)  
+bahai ordu - marina (armada)  
+bahai porto - puerto marítimo  
+bahai vala - marinero  
 Bahama - Bahamas  
 Bahrain - baréin  
 bai - derrota  
@@ -290,7 +301,7 @@ bari yum - bario
 barka - ¡Felicitaciones!  
 Barti - India  
 barti - indio (hindú)  
-Barti Hai - océano Índico  
+Barti Bahai - océano Índico  
 baru - oso  
 barude - pólvora  
 barxa - lluvia  
@@ -408,6 +419,7 @@ ben doh - nieta
 ben son - nieto  
 benci - banco (silla)  
 Benin - Benín  
+benzi - azuela  
 benzin - gasolina (bencina)  
 bere - boina  
 beri - baya  
@@ -420,6 +432,7 @@ betula - abedul
 Biblia - Biblia  
 bibre - castor  
 bici - látigo (fusta)  
+biku - monje o monja  
 bil - poder (posible)  
 bil e - quizás (tal vez)  
 bil ja - capaz  
@@ -520,6 +533,7 @@ buro riti - etiqueta (protocolo)
 bus - bus (autobús)  
 bus halte - parada de autobús  
 buste - pecho (busto)  
+busu - beso  
 bute - mantequilla  
 butan - butano  
 butil - butilo  
@@ -600,7 +614,6 @@ cosen - Corea
 cosen di - coreano  
 Cuana - Botsuana  
 culi - proceso (procedimiento)  
-cum - beso  
 cun - elegir (escoger, seleccionar)  
 • precun - predeterminado  
 cunbil - opción (preferencia)  
@@ -617,9 +630,9 @@ damen - ellos o ellas
 dai - grande  
 dai anjil ja - embajador  
 dai anjilkan - embajada  
+dai bahai - océano  
 dai barxa - chubasco (chaparrón)  
 dai dom - palacio (mansión)  
-dai hai - océano  
 dai pau - cañón  
 dai pau ja - cañonear  
 dai pote - caldero  
@@ -1189,10 +1202,8 @@ fete - hacer (hecho)
 • perfete - perfecto  
 • rifete - repetir  
 fete baxa - idioma artificial (lengua construida, conlang)  
-fetekan - fábrica  
 feter - factor  
 feteria - fábrica  
-figur - representación (figura)  
 Fiji - Fiji  
 fikir - idea (pensamiento, reflexión)  
 fili - attracción (-filia)  
@@ -1386,7 +1397,7 @@ geo forme - terreno
 geo grafi - geografía  
 geo kaska plate - placa tectónica  
 geo logi - geología  
-Geo Medi Hai - Mediterráneo  
+Geo Medi Bahai - Mediterráneo  
 geo metri - geometría  
 geo nice di - subterráneo  
 geo nice jela - mazmorra  
@@ -1505,17 +1516,6 @@ hafen yum - hafnio
 hafiza - conservar (preservar, mantener)  
 hafiza ja - guarda (preservador, conservador)  
 haha - reír  
-hai - mar  
-hai alga - macroalga  
-hai amir ja - almirante  
-hai di - marítimo  
-hai hiyar - holoturia (pepino de mar)  
-hai hua - actinia (anémonas de mar)  
-hai jele - medusa  
-hai kinar - costa (orilla)  
-hai ordu - marina (armada)  
-hai porto - puerto marítimo  
-hai vala - marinero  
 haide - vamos a  
 haki - polvo  
 haki cupu gi - aspiradora  
@@ -2070,6 +2070,7 @@ kon - con (común)
 kon bon - emparejar (quedar)  
 kon forma - amoldarse  
 kon funsibil - compatible  
+kon helen baxa - koiné  
 kon kar - colaborar  
 kon pasi - compasión  
 kon sabi - información  
@@ -2350,6 +2351,8 @@ makala - artículo (texto)
 makan hua - dientes de león (panaderos)  
 makas - tijera  
 Makau - Macao  
+makin - máquina  
+makin li - mecánico  
 mal - propiedad  
 mal ja - dueño  
 mal nomi - economía  
@@ -2536,7 +2539,6 @@ mime ja - imitador
 min - menos  
 min di fen - minoría  
 min ka bas - demasiado poco  
-minare - torre  
 ming - brillante (luminoso)  
 minim - lo menos  
 minim di - mínimo  
@@ -2924,7 +2926,7 @@ pas dau - paso (pasaje)
 pas di - anterior (remoto)  
 pas loga - contraseña  
 pase - paz  
-Pase Hai - océano Pacífico  
+Pase Bahai - océano Pacífico  
 pase sim - pacifismo  
 pase sim ja - pacifista  
 pasi - dolor (sufrimiento)  
@@ -3338,6 +3340,7 @@ san vol ja - inquisitivo (curioso)
 san xe - sabiduría (conocimiento)  
 sana - producción  
 sana ja - farbicante  
+sanakan - fábrica  
 sanduice - sándwich (sánduche)  
 sanduku - caja (baúl, cofre, estuche)  
 sante - sagrado (santo)  
@@ -3696,6 +3699,7 @@ topo - región (zona)
 topo grafi - topografía  
 topo metri grafi - mapa  
 tor yum - torio  
+tore - torre  
 torso - torso  
 tortuga - tortuga  
 toxi - veneno (toxina)  

@@ -167,7 +167,7 @@ anis araki - raki
 anjil - viesti  
 anjil ja - viestintuoja (airut)  
 Antartika - Antarktis  
-Antartika Hai - Eteläinen Jäämeri  
+Antartika Bahai - Eteläinen Jäämeri  
 antena - antenni  
 Antigua - Antigua  
 Antigua i Barbuda - Antigua ja Barbuda  
@@ -204,7 +204,7 @@ arte fete intelige (AI) - tekoäly
 arteja - taiteilija  
 arte sanaja - artesaani (käsityöläinen)  
 Artika - Arktis  
-Artika Hai - Jäämeri  
+Artika Bahai - Jäämeri  
 Aruba - Aruba  
 asal - alkuperä  
 asal Amerka jen - intiaani (Amerikan alkuperäisasukas)  
@@ -235,8 +235,8 @@ ati - teko (toimenpide, akti)
 • atir - tekijä (toimija)  
 • ativi - toimelias (aktiivinen; aktivoida, panna käyntiin tai päälle)  
 • anativi - epäaktiivinen (pois toiminnasta)  
+Atlanti Bahai - Atlantin valtameri  
 atlanti bakalau - atlantinturska  
-Atlanti Hai - Atlantin valtameri  
 atom - atomi  
 atom bomba - atomipommi  
 atom kerne - atomiydin  
@@ -287,6 +287,19 @@ bagre oselote - tiikerikissa
 bah - pah (pyh)  
 baha din - bahailaisuus  
 baha din ja - bahailainen  
+bahai - meri  
+bahai alga - merilevä  
+bahai amir ja - amiraali  
+bahai cau - meriheinä  
+bahai di - meri- (merellinen)  
+bahai hiyar - merimakkara  
+bahai hua - merivuokko  
+bahai jele - meduusa  
+bahai kinar - merenranta  
+bahai nil - merensininen  
+bahai ordu - merivoimat (sotalaivasto)  
+bahai porto - satama  
+bahai vala - merimies  
 Bahama - Bahama-saaret  
 Bahrain - Bahrain  
 bai - hävitä (kärsiä tappio)  
@@ -341,7 +354,7 @@ bari yum - barium
 barka - onneksi olkoon!  
 Barti - Intia  
 barti - intialainen  
-Barti Hai - Intian valtameri  
+Barti Bahai - Intian valtameri  
 baru - karhu  
 barude - ruuti  
 barxa - sade  
@@ -477,6 +490,7 @@ ben doh - lapsen tytär
 ben son - lapsen poika  
 benci - penkki  
 Benin - Benin  
+benzi - telsa (koverokirves)  
 benzin - bensiini (bensa)  
 bere - baskeri (baretti)  
 beri - marja  
@@ -491,6 +505,8 @@ Biblia - Raamattu
 Biblia di - raamatullinen  
 bibre - majava  
 bici - piiska (ruoska)  
+biku - munkki tai nunna  
+biku sanga - munkki- tai nunnakunta  
 bil - voida (osata, pystyä, mahdollinen, ehkä)  
 bil e - ehkä (voi olla)  
 bil ja - kykenevä (voiva)  
@@ -602,6 +618,7 @@ buro riti - etiketti (protokolla)
 bus - linja-auto (bussi)  
 bus halte - bussipysäkki (linja-autopysäkki)  
 buste - povi  
+busu - suukko (pusu)  
 bute - voi  
 butan - butaani  
 butil - butyyli  
@@ -695,7 +712,6 @@ cosen - Korea
 cosen di - korealainen  
 Cuana - Botswana  
 culi - käsittely (prosessi)  
-cum - suukko (pusu)  
 cun - valita (valinta)  
 cunbil - vaihtoehto  
 cun yo gol - määrätä  
@@ -713,11 +729,11 @@ da su - hänen (sen)
 dai - iso (suuri)  
 dai anjil ja - lähettiläs  
 dai anjilkan - lähetystö  
+dai bahai - valtameri  
 dai barxa - rankkasade  
 dai dara - hyöky (vyöry)  
 dai dom - palatsi  
 dai gradu - korottaa  
-dai hai - valtameri  
 dai lasun - jättilaukka  
 dai pau - tykki  
 dai pau ja - tykkimies  
@@ -1332,10 +1348,8 @@ fete - tehdä (toimia; teko, toimenpide)
 • perfete - täydellinen  
 • rifete - tehdä uudestaan (toistaa)  
 fete baxa - keinotekoinen kieli (tekokieli, keinokieli)  
-fetekan - tehdas  
 feter - tekijä (toimija)  
 feteria - tehdas  
-figur - hahmo (figuuri)  
 Fiji - Fidži  
 fikir - ajatus  
 fili - tykkääminen  
@@ -1558,7 +1572,7 @@ geo forme - maasto (maan muodot)
 geo grafi - maantiede  
 geo kaska plate - mannerlaatta  
 geo logi - geologia (maaperäntutkimus)  
-Geo Medi Hai - Välimeri  
+Geo Medi Bahai - Välimeri  
 geo metri - geometria  
 geo nice di - maanalainen  
 geo nice jela - vankityrmä  
@@ -1679,19 +1693,6 @@ hafen yum - hafnium
 hafiza - säilyttää (varjella, säästää)  
 hafiza ja - säilyttäjä  
 haha - nauraa  
-hai - meri  
-hai alga - merilevä  
-hai amir ja - amiraali  
-hai cau - meriheinä  
-hai di - meri- (merellinen)  
-hai hiyar - merimakkara  
-hai hua - merivuokko  
-hai jele - meduusa  
-hai kinar - merenranta  
-hai nil - merensininen  
-hai ordu - merivoimat (sotalaivasto)  
-hai porto - satama  
-hai vala - merimies  
 haide - tehkäämme  
 haki - pöly (tomu)  
 haki cupu gi - pölynimuri  
@@ -1967,8 +1968,8 @@ jelakan - vankila
 jele - hyytelö  
 jen - henkilö  
 jen (jen men) - ihmiset (yleisen persoonan pronomini)  
+jen bahai - ihmismeri  
 jen di - henkilökohtainen (privaatti)  
-jen hai - ihmismeri  
 jen jami - väkijoukko  
 jenju - helmi  
 jenju table - helmitaulu  
@@ -2105,6 +2106,7 @@ kar cuti - vapaa (poissaolo töistä)
 kargi - työkalu  
 karja - työntekijä (työläinen)  
 karkan - paja (työpaja)  
+karkan - työpaja  
 kar lexi - verbi (teonsana)  
 karm eza - työpöytä (kirjoituspöytä)  
 karxe - työ (tehtävä)  
@@ -2258,6 +2260,7 @@ Komoro nesi - Komorit
 kompani - yritys (yhtiö)  
 kon - kanssa (yhdessä; yhteinen)  
 kon bon - sopia  
+kon helen baxa - koinee-kreikka  
 kon kar - tehdä yhteistyötä  
 kon sabi - tieto  
 kon sana sim - kommunismi  
@@ -2524,9 +2527,9 @@ maf - anteeksi
 magen yum - magnesium  
 magi - taikuus (magia)  
 magi asar - taika  
+magi bala - taikavoima  
 magi di - taianomainen (maaginen)  
 magi ja - taikuri  
-magi liki - taikavoima  
 Magribi dexa - Marokko  
 Magyar - Unkari  
 mahala - kaupunginosa (kortteli, naapurusto)  
@@ -2536,6 +2539,8 @@ majang - mahjong
 makala - artikkeli (kirjoitus)  
 makas - sakset  
 Makau - Macao  
+makin - kone  
+makinja - mekaanikko  
 mal - omaisuus  
 mal ja - omistaja (pitäjä, hallussapitäjä)  
 mal nomi - taloustiede (ekonomia)  
@@ -2710,7 +2715,6 @@ mime ja - matkija (imitaattori)
 min - vähemmän  
 min di fen - vähemmistö  
 min ka bas - liian vähän  
-minare - torni  
 ming - kirkas (selkeä)  
 minim - vähiten  
 minim di - vähimmäis-  
@@ -3087,7 +3091,7 @@ pas di - ohitettu (mennyt)
 pas loga - tunnussana  
 pase - rauha  
 • anpase - levottomuus (konflikti)  
-Pase Hai - Tyyni valtameri  
+Pase Bahai - Tyyni valtameri  
 pase sim - rauhanaate (pasifismi)  
 pase sim ja - pasifisti  
 pasi - kipu (tuska)  
@@ -3409,7 +3413,7 @@ ruhu logi - psykologia
 ruke - selkä  
 ruke sake - reppu (rinkka)  
 Rundi - Burundi  
-rupa - ilmiasu (ulkonäkö)  
+rupa - ilmiasu (hahmo, ulkomuoto, ulkonäkö)  
 rus krepe - blini  
 rus yum - rutenium  
 Rusia - Venäjä  
@@ -3487,8 +3491,10 @@ san xe - tieto (tietämys)
 sana - valmistus (tuotanto)  
 sana ja - tekijä (valmistaja)  
 sana ja di - tuottava (tuottelias)  
+sanakan - tehdas  
 sanduice - voileipä  
 sanduku - laatikko  
+sanga - kunta (lahko, yhteisö)  
 sante - pyhä  
 Sante Helena - Saint Helena  
 sante kanon - pyhä kirja (pyhät kirjoitukset)  
@@ -3845,6 +3851,7 @@ topo - seutu (maa, alue)
 topo grafi - topografia  
 topo metri grafi - kartta  
 tor yum - torium  
+tore - torni  
 torso - vartalo (varsi, torso)  
 tortuga - kilpikonna  
 toxi - myrkky  
@@ -4238,6 +4245,7 @@ yepa - lehti (arkki, levy)
 yepa late - sivu (kirjassa)  
 Yesa - Jeesus  
 Yesa Mesi - Jeesus Kristus  
+Yesa sanga - jesuiittaveljeskunta  
 yezi - kookos  
 yo - jokin (joku)  
 yo jen - joku  

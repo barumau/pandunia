@@ -132,6 +132,15 @@ badan - тело
 bagaje - багаж  
 bagre - тигр  
 bagre oselote - онцилла  
+bahai - море  
+bahai alga - морские водоросли  
+bahai amir ja - адмирал  
+bahai cau - морские травы  
+bahai di - морской  
+bahai hiyar - голотурия (морские огурц)  
+bahai hua - морские анемоны  
+bahai ordu - военно-морской флот  
+bahai vala - моряк  
 baka ja - хлебопёк (пекарь)  
 bakakan - пекарня (булочная)  
 baka poto - терракота  
@@ -213,6 +222,7 @@ ben - ребёнок (потомок)
 ben ben - внуки  
 ben doh - внучка  
 ben son - внук  
+benzi - тесло (дексель)  
 beri - ягода  
 beril yum - бериллий  
 berkli yum - берклий  
@@ -275,6 +285,7 @@ buro di - казённый (формальный)
 buro krati - бюрократия  
 buro riti - этикет (протокол)  
 bus halte - автобусная остановка  
+busu - поцелуй  
 bute - масло (сливочное масло)  
 butan - бутан  
 buta - ботинок  
@@ -330,9 +341,9 @@ culi - процесс
 da - он или она  
 damen - они  
 damen su - их  
+dai bahai - океан  
 dai barxa - проливной дождь  
 dai dom - дворец (особняк)  
-dai hai - океан  
 dai lasun - лук исполинский  
 dai pau - пушка  
 dai pote - котёл  
@@ -547,7 +558,6 @@ fete - факт
 • infete - инфекция  
 • parafete - побочный эффект  
 • rifete - повторять  
-fetekan - завод (фабрика)  
 feter - фактор  
 filme - фильм (кинокарти́а)  
 filsofi - философия  
@@ -692,15 +702,6 @@ habar letre - информационный бюллетень
 Habaxa - Абиссиния  
 hafen yum - гафний  
 haha - смеяться  
-hai - море  
-hai alga - морские водоросли  
-hai amir ja - адмирал  
-hai cau - морские травы  
-hai di - морской  
-hai hiyar - голотурия (морские огурц)  
-hai hua - морские анемоны  
-hai ordu - военно-морской флот  
-hai vala - моряк  
 haki - пыль  
 haki rang - хаки  
 hal - состояние (статус)  
@@ -975,6 +976,7 @@ komi - комический (смешной)
 komputa di - цифровой  
 kon bon - соответствовать (сочетаться)  
 kon forma - применяться (согласоваться)  
+kon helen baxa - койне  
 kon kar - сотрудничать (кооперировать)  
 kon pasi - жалость (сердобольность)  
 kon sel ja - консультант (советник)  
@@ -1121,6 +1123,8 @@ mahala - квартал
 majang - маджонг  
 majenta - маджента (фуксия)  
 makan hua - одуванчик  
+makin li - механический  
+makinja - механик  
 mal nomi - экономика  
 malte - солод  
 maltos - мальтоза (солодовый сахар)  
@@ -1384,7 +1388,7 @@ parne - папоротник
 parti - партия  
 parti jen - партнёр  
 pas loga - пароль  
-pase hai bakalau - тихоокеанская треска  
+pase bahai bakalau - тихоокеанская треска  
 pase sim - пацифизм  
 pasi - боль  
 pasi di - болезненный  
@@ -1576,8 +1580,10 @@ san logi - эпистемология
 san vol - интерес (любопытство)  
 san vol di - интересный  
 san vol ja - любознательный  
+sanakan - завод (фабрика)  
 sanduice - сандвич  
 sanduku - сундук  
+sanga - орден  
 sante kanon - священное писание  
 sanzi - веер  
 sapatu - туфля  
@@ -1936,6 +1942,7 @@ yen sui gas - слезоточи́вый газ
 yepa - лист  
 Yesa - Иисус  
 Yesa Mesi - Иисус Христос  
+Yesa sanga - иезуитский орден  
 yoga - йога  
 yogo - ярмо (иго)  
 yogur - йогурт  

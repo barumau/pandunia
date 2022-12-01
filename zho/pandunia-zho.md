@@ -124,6 +124,17 @@ bagaje - 行李
 bagre - 虎  
 bagre oselote - 小斑虎貓  
 bah - 呸  
+bahai - 海  
+bahai alga - 海藻  
+bahai amir ja - 海军上将  
+bahai cau - 海草  
+bahai hiyar - 海參  
+bahai hua - 海葵  
+bahai jele - 海蜇  
+bahai kinar - 海岸  
+bahai ordu - 海军  
+bahai porto - 海港  
+bahai vala - 水手 (海员)  
 bai - 击败  
 baka poto - 陶瓦  
 bakalau - 鱈  
@@ -196,6 +207,7 @@ ben - 小孩子
 ben ben - 孙子 (sūnzi)  
 ben doh - 孙女  
 ben son - 孙儿  
+benzi - 锛子  
 beri - 浆果 (莓)  
 beril yum - 铍  
 berkli yum - 锫  
@@ -253,6 +265,7 @@ burge - 要塞
 buro ja - 秘书  
 buro krati - 官僚制  
 bus halte - 汽车站  
+busu - 吻 (亲)  
 bute - 黄油  
 butan - 丁烷  
 buton - 扣子  
@@ -308,9 +321,9 @@ damen - 他们
 damen su - 他们的  
 damimen - 我们  
 da su - 他的  
+dai bahai - 大洋 (大海)  
 dai barxa - 大雨  
 dai dom - 殿 (宫殿, 宅第)  
-dai hai - 大洋 (大海)  
 dai pau - 大炮  
 dai pote - 炼药锅  
 dai seku - 磐石  
@@ -616,17 +629,6 @@ habar media - 新闻媒体
 Habaxa - 阿比西尼亚  
 hafen yum - 铪  
 haha - 笑  
-hai - 海  
-hai alga - 海藻  
-hai amir ja - 海军上将  
-hai cau - 海草  
-hai hiyar - 海參  
-hai hua - 海葵  
-hai jele - 海蜇  
-hai kinar - 海岸  
-hai ordu - 海军  
-hai porto - 海港  
-hai vala - 水手 (海员)  
 haki - 灰尘 (尘土)  
 haki rang - 卡其色  
 haku - 权利  
@@ -738,7 +740,7 @@ jeka don - 借出
 jeka na - 借入  
 jelakan - 监狱 (监牢)  
 jen - 人  
-jen hai - 人海  
+jen bahai - 人海  
 jen jami - 人群  
 jenju table - 算盘  
 jete grafi - 投射 (投影)  
@@ -885,6 +887,7 @@ koma - 逗号
 komputa di - 数字的  
 kon - 共  
 kon bon - 相配  
+kon helen baxa - 通用希臘語  
 kon kar - 合作  
 kon sel ja - 顾问  
 kon trati - 公約  
@@ -1017,11 +1020,13 @@ ma ma - 外婆 (外祖母)
 ma pa - 外公 (外祖父)  
 ma sis - 姨  
 magen yum - 镁  
+magi bala - 魔力  
 magi ja - 魔法师  
-magi liki - 魔力  
 Magribi dexa - 摩洛哥  
 majang - 麻将  
 makan hua - 蒲公英  
+makin - 机  
+makin li - 技工  
 mal nomi - 经济学  
 malte - 麦芽  
 maltos - 麦芽糖  
@@ -1567,6 +1572,7 @@ tomate - 西红柿
 topo grafi - 地形  
 topo metri grafi - 地图  
 tor yum - 钍  
+tore - 塔 (塔楼)  
 toxilogi - 毒物学  
 transe vide di - 透明的  
 trate - 拖  
@@ -1729,6 +1735,7 @@ yen sui gas - 催泪瓦斯
 yepa - 叶  
 Yesa - 耶稣  
 Yesa Mesi - 耶稣基督  
+Yesa sanga - 耶稣会  
 yoga - 瑜伽功  
 yogo - 轭  
 yogur - 酸奶 (优格)  

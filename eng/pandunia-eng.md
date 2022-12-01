@@ -170,7 +170,7 @@ anis araki - raki
 anjil - message  
 anjil ja - messenger  
 Antartika - Antarctica  
-Antartika Hai - Antarctic Ocean  
+Antartika Bahai - Antarctic Ocean  
 antena - antenna (aerial)  
 Antigua - Antigua  
 Antigua i Barbuda - Antigua and Barbuda  
@@ -211,7 +211,7 @@ arte fete intelige (AI) - artificial intelligence (AI)
 arteja - artist  
 arte sanaja - artisan (craftsman)  
 Artika - Arctic  
-Artika Hai - Arctic Ocean  
+Artika Bahai - Arctic Ocean  
 Aruba - Aruba  
 asal - origin (source)  
 asal Amerka jen - Amerindian (Native American)  
@@ -245,8 +245,8 @@ ati - act (deed)
 • ativi - active (working; activate, enable, turn on, trigger)  
 • anativi - off (deactivated, disabled, inactive)  
 • ativifa - activate (turn on)  
+Atlanti Bahai - Atlantic Ocean  
 atlanti bakalau - Atlantic cod  
-Atlanti Hai - Atlantic Ocean  
 atlanti salmon - Atlantic salmon  
 atom - atom  
 atom bomba - atomic bomb  
@@ -298,6 +298,19 @@ bagre oselote - oncilla
 bah - bah  
 baha din - Baha'ism  
 baha din ja - Baha'ist  
+bahai - sea  
+bahai alga - seaweed (macroalgae)  
+bahai amir ja - admiral  
+bahai cau - seagrass  
+bahai di - maritime  
+bahai hiyar - sea cucumber  
+bahai hua - sea anemone  
+bahai jele - jellyfish (seajelly)  
+bahai kinar - shore (coast, beach)  
+bahai nil - aqua (teal)  
+bahai ordu - sea force (navy)  
+bahai porto - harbor (seaport)  
+bahai vala - sailor (seaman, mariner)  
 Bahama - Bahamas  
 Bahrain - Bahrain  
 bai - lose (be defeated)  
@@ -353,7 +366,7 @@ bari yum - barium
 barka - congratulations! (blessing, benediction)  
 Barti - India  
 barti - Indian  
-Barti Hai - Indian Ocean  
+Barti Bahai - Indian Ocean  
 baru - bear  
 barude - gunpowder  
 barxa - rain (precipitation)  
@@ -490,6 +503,7 @@ ben doh - granddaughter
 ben son - grandson  
 benci - bench  
 Benin - Benin  
+benzi - adze  
 benzin - gasoline (petrol)  
 bere - beret  
 beri - berry  
@@ -504,6 +518,8 @@ Biblia - Bible
 Biblia di - Biblical  
 bibre - beaver  
 bici - whip  
+biku - monk or nun  
+biku sanga - order of monks or nuns  
 bil - possible (able, can)  
 bil e - maybe (perhaps)  
 bil ja - capable (talent, skillful)  
@@ -618,6 +634,7 @@ buro riti - etiquette (protocol, procedure)
 bus - bus  
 bus halte - bus stop  
 buste - bust (bosom)  
+busu - kiss  
 bute - butter  
 butan - butane  
 butil - butyl  
@@ -715,7 +732,6 @@ cosen - Korea
 cosen di - Korean  
 Cuana - Botswana  
 culi - process (handling, treatment, procedure)  
-cum - kiss  
 cun - choose (elect, select, pick; choice, selection)  
 • precun - default (preset, predecided)  
 cunbil - option (choice, preference)  
@@ -735,11 +751,11 @@ da su - his or her
 dai - big (great, large)  
 dai anjil ja - ambassador  
 dai anjilkan - embassy  
+dai bahai - ocean  
 dai barxa - downpour (heavy rain)  
 dai dara - torrent  
 dai dom - palace (mansion)  
 dai gradu - amplify (scale)  
-dai hai - ocean  
 dai lasun - giant onion  
 dai pau - gun (cannon)  
 dai pau ja - cannoneer  
@@ -1393,10 +1409,8 @@ fete - do (make; deed, fact)
 • perfete - perfect (complete)  
 • rifete - do again (repeat, iterate)  
 fete baxa - artificial language (conlang)  
-fetekan - factory  
 feter - maker (factor, agent)  
 feteria - factory (plant)  
-figur - figure (representation)  
 Fiji - Fiji  
 fikir - thought (idea)  
 fili - attraction (fascination, -philia)  
@@ -1638,7 +1652,7 @@ geo grafi - geography
 geo kaska krake - fault line  
 geo kaska plate - tectonic plate  
 geo logi - geology  
-Geo Medi Hai - Mediterranean  
+Geo Medi Bahai - Mediterranean  
 geo metri - geometry  
 geo nice di - underground (subterrainean)  
 geo nice jela - dungeon (underground prison)  
@@ -1767,19 +1781,6 @@ hafen yum - hafnium
 hafiza - keep (preserve, conserve, retain, spare)  
 hafiza ja - keeper (preserver)  
 haha - laugh  
-hai - sea  
-hai alga - seaweed (macroalgae)  
-hai amir ja - admiral  
-hai cau - seagrass  
-hai di - maritime  
-hai hiyar - sea cucumber  
-hai hua - sea anemone  
-hai jele - jellyfish (seajelly)  
-hai kinar - shore (coast, beach)  
-hai nil - aqua (teal)  
-hai ordu - sea force (navy)  
-hai porto - harbor (seaport)  
-hai vala - sailor (seaman, mariner)  
 haide - let's  
 haki - dust  
 haki cupu gi - vacuum cleaner  
@@ -2071,8 +2072,8 @@ jelakan - prison (jail)
 jele - gel (jelly)  
 jen - person (individual, -ist, -er)  
 jen (jen men) - one (impersonal pronoun: people, you)  
+jen bahai - a sea of people (huge crowd)  
 jen di - personal (intimate, private, custom)  
-jen hai - a sea of people (huge crowd)  
 jen jami - crowd  
 jenju - pearl  
 jenju table - abacus  
@@ -2239,6 +2240,7 @@ kar - work
 kar cuti - leave (absence from work)  
 kargi - tool  
 karja - worker  
+karkan - workshop  
 karkan - workshop  
 kar lexi - verb  
 karm eza - desk  
@@ -2415,6 +2417,7 @@ kon - with (together; common)
 kon bon - match (fit, suit, go well together)  
 kon forma - conform (fit, mold)  
 kon funsibil - compatible (supported)  
+kon helen baxa - Koine Greek  
 kon kar - collaborate (work together)  
 kon pasi - compassion  
 kon sabi - information (communicable knowledge)  
@@ -2729,9 +2732,9 @@ maf - pardon (forgiveness; sorry)
 magen yum - magnesium  
 magi - magic  
 magi asar - spell (enchantment)  
+magi bala - magical power  
 magi di - magical  
 magi ja - magician (sorcerer, mage, wizard)  
-magi liki - magical power  
 Magribi dexa - Morocco  
 Magyar - Hungary  
 mahala - quarter (neighbourhood, district, locality, section of town)  
@@ -2744,6 +2747,9 @@ makala - article (writing)
 makan hua - dandelion  
 makas - scissors (shears)  
 Makau - Macao  
+makin - machine  
+makin li - mechanical  
+makinja - mechanic  
 mal - property (belongings, possessions)  
 mal ja - owner (proprietor)  
 mal nomi - economics  
@@ -2948,7 +2954,6 @@ min - less
 min di fen - minority  
 min ka bas - too little  
 min poli - less (fewer)  
-minare - tower  
 ming - bright (brilliant, clear)  
 minim - least (minimally)  
 minim di - minimal  
@@ -3378,8 +3383,8 @@ pas loga - password
 pas tabi - passive (inactive)  
 pase - peace  
 • anpase - unrest  
-Pase Hai - Pacific Ocean  
-pase hai bakalau - Pacific cod  
+Pase Bahai - Pacific Ocean  
+pase bahai bakalau - Pacific cod  
 pase sim - pacifism  
 pase sim ja - pacifist  
 pasi - pain (suffering)  
@@ -3760,7 +3765,7 @@ ruhu mixe di - confused (perplexed, disoriented, bewildered)
 ruke - back  
 ruke sake - backpack (rucksack)  
 Rundi - Burundi  
-rupa - appearance (looks)  
+rupa - appear (look like; appearance, looks, figure, representation)  
 rus krepe - blini  
 rus yum - ruthenium  
 Rusia - Russia  
@@ -3848,8 +3853,10 @@ san xe - knowledge
 sana - manufacturing (production, industry)  
 sana ja - maker (manufacturer)  
 sana ja di - productive (fertile)  
+sanakan - factory  
 sanduice - sandwich  
 sanduku - box (chest)  
+sanga - order (group with common interests, -hood)  
 sante - holy (sacred)  
 Sante Helena - Saint Helena  
 sante kanon - holy writ (sacred writings)  
@@ -4264,6 +4271,7 @@ topo - region (tract, land, ground)
 topo grafi - topography  
 topo metri grafi - map (chart, geographic map)  
 tor yum - thorium  
+tore - tower  
 torso - trunk (torso)  
 tortuga - turtle (tortoise)  
 toxi - poison (venom)  
@@ -4679,6 +4687,7 @@ yepa alga - kelp
 yepa late - page (side of a leaf of a book)  
 Yesa - Jesus  
 Yesa Mesi - Jesus Christ  
+Yesa sanga - Jesuits (Society of Jesus)  
 yezi - coconut tree  
 yo - some (one)  
 yo jen - someone (somebody)  

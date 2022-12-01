@@ -60,7 +60,7 @@ alcoolique - alkol di
 alcyne - alkin  
 alcène - alken  
 algue - alga  
-algues - hai alga  
+algues - bahai alga  
 algues brunes - kafe alga  
 Algérie - Jayer  
 alkyle - alkil  
@@ -80,7 +80,7 @@ Amhara (groupe ethnique et langue éthiopienne) - Amara
 amide - amide  
 amie - dosti  
 amine - amin  
-amiral - hai amir ja  
+amiral - bahai amir ja  
 amour (affection) - luba  
 amoureux - lubar  
 ampoule (fiole) - ampul  
@@ -270,6 +270,7 @@ biome - bio sistem
 biscuit - biskute  
 bismuth - bismute  
 bison - bison  
+bisou - busu  
 bizarre - guai  
 bière - bir  
 blanc - baku  
@@ -494,7 +495,7 @@ compteur de vitesse - suga metri gi
 concert - konserte  
 concombre - hiyar  
 concombre confit (cornichon) - acar hiyar  
-concombre de mer - hai hiyar  
+concombre de mer - bahai hiyar  
 connaître - ken  
 conseil - sel  
 conseiller - fa sel  
@@ -579,7 +580,7 @@ cérébral - nau di
 césium - cesi yum  
 cétone - keton  
 cône - kone  
-côte - hai kinar  
+côte - bahai kinar  
 côté - late  
 
 ## D  
@@ -771,7 +772,7 @@ fondu - fuzi saf
 fonio blanc - fonyo  
 football - fute bol  
 force - balata  
-force navale (marine) - hai ordu  
+force navale (marine) - bahai ordu  
 forer (percer) - fora  
 former - fa forma  
 fort - bala  
@@ -883,6 +884,7 @@ Haïti - Aiti
 hein? - he  
 henné - hina  
 herbe (gazon) - cau  
+herminette - benzi  
 Hesse - Hese  
 heure - hor  
 heureux (se plaire) - suka  
@@ -1011,6 +1013,7 @@ Kinshasa - Kinxasa
 kiwi - kivi  
 kiwi - kivi frute  
 koala - koala  
+koinè - kon helen baxa  
 krypton - kriton  
 kumquat - gingam  
 Kâmasûtra - kama kanon  
@@ -1106,6 +1109,7 @@ lézard - saur
 
 ## M  
 
+machine - makin  
 machine à écrire - kitaba gi  
 magma - pasta petra  
 magnésium - magen yum  
@@ -1142,7 +1146,7 @@ masque - maska
 masse - masa  
 mat (opaque) - foto mata di  
 match - mece  
-matelot - hai vala  
+matelot - bahai vala  
 maternel - ma di  
 mathématiques - hisabu logi  
 matière - mate  
@@ -1159,7 +1163,7 @@ Menthe aquatique - sui minta
 menthe poivrée - pipre minta  
 menthe verte - kane minte  
 menu (carte) - yam liste  
-mer - hai  
+mer - bahai  
 merci - xukur  
 mercredi - merkurden  
 mercure - hidrargente  
@@ -1190,6 +1194,7 @@ misionero - misioner
 misión - mision  
 mode (façon, manière) - mode  
 modeler - fa plasti  
+moine ou nonne - biku  
 mois - mes  
 mole (unité) - mole  
 molybdène - moliden  
@@ -1203,7 +1208,7 @@ mordre - fa dante
 mordre - gata a dante  
 morue (cabillaud) - bakalau  
 morue de l'Atlantique - atlanti bakalau  
-morue du Pacifique - pase hai bakalau  
+morue du Pacifique - pase bahai bakalau  
 moscovium - moskva yum  
 mot - lexi  
 mot de passe - pas loga  
@@ -1229,9 +1234,10 @@ mythe - deu kata
 mât - masta  
 mère (maman) - ma  
 mètre - mitre  
+mécanique - makin li  
 médias - media  
 médicament (remède) - dava xe  
-méduse - hai jele  
+méduse - bahai jele  
 méfait (péché) - dusati  
 méfait (péché) - duskar  
 mémoire - memo  
@@ -1307,11 +1313,11 @@ obsidienne - osidian
 occupé - mang  
 ocelot - oselote  
 oculaire - yen di  
-océan - dai hai  
-Océan Antarctique - Antartika Hai  
-océan Arctique - Artika Hai  
-océan Atlantique - Atlanti Hai  
-océan Indien - Barti Hai  
+océan - dai bahai  
+Océan Antarctique - Antartika Bahai  
+océan Arctique - Artika Bahai  
+océan Atlantique - Atlanti Bahai  
+océan Indien - Barti Bahai  
 odeur - aroma  
 oeuf - anda  
 oganesson - oganeson  
@@ -1334,6 +1340,7 @@ ordinaire (habituel, normal) - ada di
 ordinateur - konputer  
 ordinateur tablette - table komputa  
 ordre - ratibu  
+ordre - sanga  
 ordures - lasa  
 oreille - ore  
 organiser - fa nomi  
@@ -1514,7 +1521,7 @@ porter (s’habiller) - fa fuku
 porter - porte  
 Porto Rico - Portoriko  
 Portoricain - portoriko jen  
-posidonie (herbiers marins) - hai cau  
+posidonie (herbiers marins) - bahai cau  
 possédant (propriétaire) - mal ja  
 post-natal - posnati  
 post-production - posprodute  
@@ -1893,6 +1900,7 @@ topographie - topo grafi
 tortue - tortuga  
 toucher - tocu  
 toupie - rota vanu gi  
+tour - tore  
 touriste - safar keka ja  
 Tournesol - sol hua  
 toxicologie - toxilogi  

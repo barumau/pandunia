@@ -99,6 +99,18 @@ badam - アーモンド (扁桃)
 badan - 体  
 baga -  鞄 (バッグ)  
 bagre oselote - ジャガーネコ  
+bahai - 海  
+bahai alga - 海藻  
+bahai amir ja - 提督 (海軍大将)   
+bahai cau - 海草  
+bahai hiyar - 海鼠  
+bahai hua - イソギンチャク  
+bahai jele - 海月  
+bahai kinar - 海岸  
+bahai nil - 水色  
+bahai ordu - 海軍  
+bahai porto - 海港  
+bahai vala - 船員 (水夫)  
 bai - 負け  
 bakakan - パン屋 (ベーカリー)  
 baka poto - テラコッタ  
@@ -163,6 +175,7 @@ belca - シャベル (スコップ)
 ben - 子供 (息子か娘)  
 ben ben - 孫  
 ben doh - 孫娘  
+benzi - 釿  
 beri - 漿果 (ベリー )  
 beril yum - ベリリウム  
 berkli yum - バークリウム  
@@ -268,8 +281,8 @@ cun liste - 品書き (メニュー)
 ## D  
 
 dai - 大きい  
+dai bahai - 大洋 (大海)  
 dai dom - 宮殿 (邸宅)  
-dai hai - 大洋 (大海)  
 dai pau - 大砲  
 dai pote - 大釜 (大鍋)  
 dai seku - 大石  
@@ -469,7 +482,6 @@ fete - する (事実)
 • exfete - 効果  
 • infete - 伝染  
 • rifete - 繰り返す  
-fetekan - 工場 (製造所)  
 filme - 映画  (フィルム)  
 filsofi - 哲学  
 fine - 狭い (薄い, 細い)  
@@ -609,18 +621,6 @@ habar letre - ニュースレター
 Habaxa - アビシニア  
 hafen yum - ハフニウム  
 haha - 笑う  
-hai - 海  
-hai alga - 海藻  
-hai amir ja - 提督 (海軍大将)   
-hai cau - 海草  
-hai hiyar - 海鼠  
-hai hua - イソギンチャク  
-hai jele - 海月  
-hai kinar - 海岸  
-hai nil - 水色  
-hai ordu - 海軍  
-hai porto - 海港  
-hai vala - 船員 (水夫)  
 haki rang - カーキ色  
 haku - 権利  
 hal - 状態  
@@ -1012,8 +1012,8 @@ lutesi yum - ルテニウム
 ma - お母さん (母, ママ)  
 maf - ごめんなさい  
 magen yum - マグネシウム  
+magi bala - 魔力  
 magi ja - 魔法使い  
-magi liki - 魔力  
 Magribi dexa - モロッコ  
 majang - 麻雀  
 majenta - マゼンタ (紅紫色)  
@@ -1264,7 +1264,7 @@ pari dexa - 仙境
 parne - 羊歯  
 parti jen - パートナー  
 pas loga - パスワード  
-pase hai bakalau - マダラ  
+pase bahai bakalau - マダラ  
 pase sim - 平和主義  
 pasi - 痛み  
 pasi di - 痛い  
@@ -1436,6 +1436,7 @@ san logi - 認識論
 san vol - 興味 (好奇心)  
 san vol di - 面白い  
 san vol ja - 知りたがる  
+sanakan - 工場 (製造所)  
 sanduice - サンドイッチ  
 sante kanon - 聖書  
 sanzi - 扇子  
@@ -1578,6 +1579,7 @@ Tokyo - 東京
 • tomi grafi - トモグラフィー  
 topo grafi - 地勢  
 tor yum - トリウム  
+tore - 塔  
 toxi - 毒  
 tralongta - 直径  
 • antranse vide di - 不透明  

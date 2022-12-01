@@ -118,7 +118,7 @@ amerikkalainen - Amerika di
 amhara (etiopialainen kansa ja kieli) - Amara  
 amidi - amide  
 amiini - amin  
-amiraali - hai amir ja  
+amiraali - bahai amir ja  
 ammatinharjoittaja (niekka) - vala  
 ammatti - pei kar  
 ammattilainen - pei kar ja  
@@ -211,7 +211,7 @@ asuttaa - fa dom
 Ateena - Athina  
 ateisti (jumalankieltäjä) - andeu sim ja  
 ateljee (studio) - estudekan  
-Atlantin valtameri - Atlanti Hai  
+Atlantin valtameri - Atlanti Bahai  
 atlantinturska - atlanti bakalau  
 atomi - atom  
 atomiase - atom vuki  
@@ -481,7 +481,7 @@ Etelä-Amerikka - Sude Amerika
 Etelä-Korea - Sude cosen  
 Etelä-Ossetia - Sude Iria (Alonia)  
 Etelä-Sudan - Sude Sudan  
-Eteläinen Jäämeri - Antartika Hai  
+Eteläinen Jäämeri - Antartika Bahai  
 etiikka (moraalioppi) - moral logi  
 etiketti (protokolla) - buro riti  
 etikka - vin suan  
@@ -600,7 +600,6 @@ Guyana - Guyana
 
 haarukka - forke  
 hafnium - hafen yum  
-hahmo (figuuri) - figur  
 hai - xayu  
 haima - pankreas  
 haista - fa aroma  
@@ -862,7 +861,7 @@ ihmetys (hämmästys) - ajabu
 ihminen - insan  
 ihmiset (yleisen persoonan pronomini) - jen (jen men)  
 ihmiskunta - insan jong  
-ihmismeri - jen hai  
+ihmismeri - jen bahai  
 ihmisoikeudet - insan haki  
 ikkuna - janela  
 ikkunankehys (ikkunanpuite) - janela frem  
@@ -880,7 +879,7 @@ ilmastotiede (klimatologia) - klima logi
 ilmavoimat - air ordu  
 ilmeinen (silminnähtävä) - vai vide di  
 ilmestyä - be zai  
-ilmiasu (ulkonäkö) - rupa  
+ilmiasu (hahmo, ulkomuoto, ulkonäkö) - rupa  
 ilostuttaa (tyydyttää) - sukafa  
 ilta - xam  
 iltapäivä - xam dia  
@@ -900,7 +899,7 @@ internet - internete
 Intia - Barti  
 intiaani (Amerikan alkuperäisasukas) - asal Amerka jen  
 intialainen - barti  
-Intian valtameri - Barti Hai  
+Intian valtameri - Barti Bahai  
 into (kiihko) - zelo  
 introspektio - in vide  
 introspektio - intraspete  
@@ -985,6 +984,7 @@ jekuttaa (petkuttaa) - fa truke
 Jemen - Yemen  
 Jersey - Jerze  
 Jerusalem - Uruxalem  
+jesuiittaveljeskunta - Yesa sanga  
 jo (tehty teko) - fin  
 jodi - iode  
 jogurtti - yogur  
@@ -1065,7 +1065,7 @@ jättää (hylätä) - laxe
 jää - ais  
 jäädä jäljelle - be reste  
 jääkiekko - ais hoki  
-Jäämeri - Artika Hai  
+Jäämeri - Artika Bahai  
 jäännös (loput) - baki  
 jäätelö - ais krem  
 jäätyä - be ais  
@@ -1398,6 +1398,7 @@ koettaa (haastaa, koetella, testata; koe, testi) - teste
 kohtalo (määrä) - kisma  
 kohtelias (kiltti) - keci  
 kohti (päin) - versi  
+koinee-kreikka - kon helen baxa  
 koira - vaf  
 koirankoppi - vaf bude  
 koiratarha (kennel) - vaf parke  
@@ -1427,6 +1428,7 @@ Komorit - Komoro nesi
 komponentti (kokoonpane) - konpozeje  
 komposti - bio sana xe  
 kone - gi  
+kone - makin  
 konepelti - moto cati  
 konkani (eräs intialainen kieli) - Konkani  
 konsertti - konserte  
@@ -1544,6 +1546,7 @@ kuninkaallinen - raja di
 kunnianarvoisa - onor di  
 kunnioittaa - fa onor  
 kunnioitus (arvostus) - onor  
+kunta (lahko, yhteisö) - sanga  
 kuntosali (punttisali) - balakan  
 kuokka - copu  
 kuolevainen - matabil  
@@ -2042,7 +2045,7 @@ me ja sinä - tumimen
 me mutta et sinä - damimen  
 media (tiedotusvälineet) - media  
 media - medi xe  
-meduusa - hai jele  
+meduusa - bahai jele  
 megawatti (MW) - mega vate  
 mehiläinen - medu vespa  
 mehiläinen tai ampiainen - vespa  
@@ -2051,6 +2054,8 @@ mehiläispesä - vespa nide
 mehu - jus  
 meidän - mimen su  
 meitnerium - meitner yum  
+mekaanikko - makinja  
+mekaaninen (kone-) - makin li  
 mekko (tunika) - kurta  
 Meksiko - Mehiko  
 melodia (sävelmä) - melodi  
@@ -2064,18 +2069,18 @@ mennä vasten - kontra
 mennä yli tai poikki - be krus  
 menopaluulippu - retro tikete  
 merantipuu - meranti  
-merenranta - hai kinar  
-merensininen - hai nil  
-meri - hai  
-meri- (merellinen) - hai di  
-meriheinä - hai cau  
-merilevä - hai alga  
-merimakkara - hai hiyar  
-merimies - hai vala  
+merenranta - bahai kinar  
+merensininen - bahai nil  
+meri - bahai  
+meri- (merellinen) - bahai di  
+meriheinä - bahai cau  
+merilevä - bahai alga  
+merimakkara - bahai hiyar  
+merimies - bahai vala  
 merirosvo (piraatti) - pirate ja  
 merirosvous - pirate  
-merivoimat (sotalaivasto) - hai ordu  
-merivuokko - hai hua  
+merivoimat (sotalaivasto) - bahai ordu  
+merivuokko - bahai hua  
 merkitys - mana  
 merkitysoppi (semantiikka) - semi logi  
 merkitä (jättää jälki) - fa marke  
@@ -2174,6 +2179,8 @@ mukulakivi - gola seku
 mulperi - tuta  
 muna - anda  
 munakoiso - bedinjan  
+munkki tai nunna - biku  
+munkki- tai nunnakunta - biku sanga  
 munuainen - nefre  
 munuaistulehdus (nefriitti) - nefre tis  
 muoto (morfi) - forma  
@@ -3130,7 +3137,7 @@ saslik - xix nama
 sata (hehto-) - sento  
 sata tuhatta - des kilo  
 satakieli - bulbul  
-satama - hai porto  
+satama - bahai porto  
 satanismi (paholaisenpalvonta) - xatan din  
 satanisti - xatan din ja  
 satavuotinen - sento nen di  
@@ -3390,7 +3397,7 @@ sushi - suxi
 susi (hukka) - volfe  
 sutenööri - sutener  
 suu - boka  
-suukko (pusu) - cum  
+suukko (pusu) - busu  
 suulaki (kitalaki) - boka cati  
 suunnitella - fa plan  
 suunnitelma - plan  
@@ -3472,7 +3479,7 @@ taide - mei arte
 taidekieli - arte baxa  
 taiga - taiga  
 taika - magi asar  
-taikavoima - magi liki  
+taikavoima - magi bala  
 taikuri - magi ja  
 taikuus (magia) - magi  
 Taipei - Taibei  
@@ -3570,8 +3577,8 @@ teelusikka (pikku lusikka) - cai camaca
 teen myyjä - cai vala  
 teepannu - cai pote  
 tefheinä (röllinurmikka) - tef  
-tehdas - fetekan  
 tehdas - feteria  
+tehdas - sanakan  
 tehdä (toimia) - fa  
 tehdä (toimia; teko, toimenpide) - fete  
 tehdä (valmistaa) - fa sana  
@@ -3606,6 +3613,7 @@ tekstinkäsittely - kitaba culi
 teleportata - be tele loka  
 televisio - tele vide gi  
 telluuri - telu yum  
+telsa (koverokirves) - benzi  
 teltta - hema  
 telugu (eräs intialainen kieli) - Telugu  
 temppeli - pujakan  
@@ -3694,7 +3702,7 @@ tontti (maakaistale) - geo tike
 topografia - topo grafi  
 tori (basaari) - bazar  
 torium - tor yum  
-torni - minare  
+torni - tore  
 torstai - muxinden  
 torvi (torvisoitin) - laba  
 tosi (aito) - ver  
@@ -3792,7 +3800,7 @@ tyttärentytär - doh doh
 tyttö (nuori neito) - jun fem  
 tyttö (nuori neito) - you ni  
 tytär - doh  
-Tyyni valtameri - Pase Hai  
+Tyyni valtameri - Pase Bahai  
 tyyny - kuxen  
 tyyppi (laji, genre) - tipe  
 tyyrpuuri - nave dex  
@@ -3800,6 +3808,7 @@ työ (tehtävä) - karxe
 työkalu - kargi  
 työntekijä (työläinen) - karja  
 työntää (puskea) - pulse  
+työpaja - karkan  
 työpöytä (kirjoituspöytä) - karm eza  
 työskennellä - kar  
 tähti - sing  
@@ -3945,7 +3954,7 @@ valokuvaus - foto grafi suta
 valonsäde - foto radi  
 valssi - valse  
 valta - krati  
-valtameri - dai hai  
+valtameri - dai bahai  
 vampyyri - vampir  
 vampyyritursas - vampir ohtopus  
 vanadiini - vanadi yum  
@@ -4169,7 +4178,7 @@ väittää - fa tese
 väkijoukko - jen jami  
 väli (tyhjä merkki) - hali zi  
 väli - medi  
-Välimeri - Geo Medi Hai  
+Välimeri - Geo Medi Bahai  
 väline (instrumentti) - medi gi  
 välipala (naposteltava) - xiu yam  
 välissä - a medi  

@@ -28,8 +28,6 @@ Rimarkindaj trajtoj de pandunio estas:
 - Vere internacia. La panduniaj radik-vortoj estas pruntitaj el multaj lingvoj
   el la tuta mondo, inkluzive de la 10 plej parolataj lingvoj.
 
-![](http://www.pandunia.info/grafe/bandir.png "Pandunia flago")
-
 ## Lerniloj
 
 - [Bazaĵojn de Pandunia rapide](003_baze.md) en nur unu paĝo!

@@ -57,7 +57,7 @@ algodão - goton
 alho - lasun  
 alho-porro - porei  
 aligátor (jacaré) - korte krokodil  
-almirante - hai amir ja  
+almirante - bahai amir ja  
 alquila - alkil  
 altar - puja meza  
 alterar - alofa  
@@ -183,6 +183,7 @@ basketball - baske bol
 bastante (suficiente) - bas  
 baía - baya  
 bebê - bebe  
+beijo - busu  
 beleza - meita  
 beliche - ceng bede  
 belo (lindo) - mei  
@@ -429,7 +430,7 @@ correr - kore
 correto (justo) - sahi  
 cosmo - kosmo  
 cosmonauta - kosmo nave ja  
-costa - hai kinar  
+costa - bahai kinar  
 costume (hábito) - ada  
 cotovelo - kudi  
 crente - din ja  
@@ -583,11 +584,12 @@ ensopar (encharcar, marinar) - pul xipi
 entrar - be in  
 enxada - copu  
 enxofre - sulfe  
+enxó - benzi  
 epistemologia - san logi  
 equilíbrio - par vezeta  
 erro (falta) - galte  
 errôneo - galte di  
-erva marinha - hai cau  
+erva marinha - bahai cau  
 erva-mate - mate  
 escama - foli  
 escavar - exkava  
@@ -905,6 +907,7 @@ Júpiter - Muxin
 
 Kama Sutra - kama kanon  
 kelp - yepa alga  
+koiné - kon helen baxa  
 krípton - kriton  
 
 ## L  
@@ -989,7 +992,7 @@ lúpulo - humel
 
 ## M  
 
-macroalga - hai alga  
+macroalga - bahai alga  
 madrasta - vise ma  
 magnésio - magen yum  
 mago - magi ja  
@@ -1012,7 +1015,7 @@ maniqueísmo - mani din
 manteiga - bute  
 manto - juba  
 mantra - mantra  
-mar - hai  
+mar - bahai  
 maravilha - ajabu  
 maravilha - mirabil  
 marcha - marce  
@@ -1020,11 +1023,11 @@ margarida - margarita
 margarida-comum - englix margarita  
 margarita-maior - baku margarite  
 margem (borda) - kinar  
-marinha - hai ordu  
-marinheiro - hai vala  
+marinha - bahai ordu  
+marinheiro - bahai vala  
 Marrocos - Magribi dexa  
 Marte - Maris  
-marítimo - hai di  
+marítimo - bahai di  
 mas - ama  
 massa - masa  
 massa de modelar (massinha) - plasti paste  
@@ -1036,8 +1039,9 @@ materialismo - mate lona
 maternal - ma di  
 matéria - mate  
 maçã - aple  
+mecânico - makin li  
 medio - medi di  
-medusa - hai jele  
+medusa - bahai jele  
 meia - maze  
 meia-noite - medi noce  
 meio (instrumento) - medi gi  
@@ -1095,6 +1099,7 @@ molho de soja - soi sos
 molibdénio - moliden  
 momento (instante) - sata  
 momentâneo - sata di  
+monje ou monja - biku  
 monstro - mostre  
 monção - barxa mosim  
 monóculo - un yen di lense  
@@ -1188,7 +1193,7 @@ obituário - nekro loga
 oblíquo (torto) - terca  
 obrigado - xukur  
 obsidiana - osidian  
-oceano - dai hai  
+oceano - dai bahai  
 ocular - yen di  
 ocultar (esconder) - fa sir  
 ocupado (atarefado) - mang  
@@ -1290,7 +1295,7 @@ penal - fatu di
 penso (band-aid) - glu bande  
 pepino - hiyar  
 pepino-africano (kiwano) - korne melon  
-pepino-do-mar (holotúrias) - hai hiyar  
+pepino-do-mar (holotúrias) - bahai hiyar  
 pequeno - xiu  
 pera - pera  
 perdedor - xiti bai ja  
@@ -1341,7 +1346,7 @@ porcelana - cini
 poro - pore  
 portar - porte  
 porto - porto  
-porto marítimo - hai porto  
+porto marítimo - bahai porto  
 Porto Rico - Portoriko  
 porto-riquenho - portoriko jen  
 possível - bil  

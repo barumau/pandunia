@@ -6,7 +6,7 @@
 ## A  
 
 a couple of - du o tri  
-a sea of people (huge crowd) - jen hai  
+a sea of people (huge crowd) - jen bahai  
 abacus - jenju table  
 abattoir (slaughterhouse) - bucakan  
 ability - bilta  
@@ -44,7 +44,7 @@ address - adres
 adhesive bandage (band-aid, sticking plaster) - glu bande  
 adjective - sifa loga  
 administer (govern) - fa politi  
-admiral - hai amir ja  
+admiral - bahai amir ja  
 admire (adore) - fanati  
 admire - amira  
 adult - matur jen  
@@ -61,6 +61,7 @@ advisor (counselor, mentor) - mentor
 advocacy (promotion, -ism) - sim  
 advocate (promote, support) - fa sim  
 advocate (promoter, supporter, adherent) - sim ja  
+adze - benzi  
 aerobic - air bio di  
 affix - afixe  
 Afghanistan - Afghan  
@@ -167,7 +168,7 @@ anise - anis
 anniversary - nen festa  
 answer (reply, response) - javabu  
 ant - murce  
-Antarctic Ocean - Antartika Hai  
+Antarctic Ocean - Antartika Bahai  
 Antarctica - Antartika  
 antenna (aerial) - antena  
 antichrist - anmesi  
@@ -178,8 +179,8 @@ antonym - annam
 anus - anus  
 anvil - metal bede  
 appeal (drive to oneself) - apele  
+appear (look like; appearance, looks, figure, representation) - rupa  
 appear - be zai  
-appearance (looks) - rupa  
 apple - aple  
 applesauce - aple sos  
 apply (put to use for a purpose) - fa aplika  
@@ -189,7 +190,7 @@ approach (get near) - be karibu
 approve - bon rai  
 apricot (plum, peach) - briko  
 April - mes nelu  
-aqua (teal) - hai nil  
+aqua (teal) - bahai nil  
 Arabia (Arab; Arabic) - arabi  
 arachnophobia - arane fobi  
 arboretum - moka jong parke  
@@ -199,7 +200,7 @@ archipelago (island chain) - nesia
 architect - bina plan ja  
 architecture - bina plan  
 Arctic - Artika  
-Arctic Ocean - Artika Hai  
+Arctic Ocean - Artika Bahai  
 area (extent of surface) - fase area  
 area (region) - area  
 Argentina - Argentina  
@@ -257,7 +258,7 @@ atheist - andeu sim ja
 Athens - Athina  
 athlete (sportsman) - esporte ja  
 Atlantic cod - atlanti bakalau  
-Atlantic Ocean - Atlanti Hai  
+Atlantic Ocean - Atlanti Bahai  
 Atlantic salmon - atlanti salmon  
 atmospheric pressure - air prese  
 atom - atom  
@@ -1440,7 +1441,7 @@ face - muka
 face powder - muka fun  
 faction (clique) - xia  
 factory (plant) - feteria  
-factory - fetekan  
+factory - sanakan  
 fade - be mirde  
 failure (blunder, flop, miss, loss, defeat) - xiti bai  
 faint (depending on context: soft, dull, mild, weak, slow, subtle) - mirde  
@@ -1508,7 +1509,6 @@ field (square, plaza, maidan) - medan
 fiery - hogo di  
 fight (do battle, make war) - fa jang  
 fight (war, battle, combat) - jang  
-figure (representation) - figur  
 Fiji - Fiji  
 fill - fa pul  
 film (movie or video) - filme  
@@ -1838,7 +1838,7 @@ Han Chinese - Han
 hand - hanu  
 hang (dangle) - pende  
 happen (occur; happening, event, occurence) - voku  
-harbor (seaport) - hai porto  
+harbor (seaport) - bahai porto  
 hard (tough) - gati  
 hardship (difficulty, challenge) - dus hal  
 hardware (ironware, equipment) - metal tul  
@@ -2038,7 +2038,7 @@ indeterminate (uncertain, indefinite, undecided) - anding
 India - Barti  
 Indian - barti  
 Indian chrysanthemum - nefte guku  
-Indian Ocean - Barti Hai  
+Indian Ocean - Barti Bahai  
 indicate (point into) - indika  
 indium - hindi yum  
 indivisible - antomibil  
@@ -2141,10 +2141,11 @@ jasmine - moli
 jasmine tea - moli hua cai  
 jazz - jaze  
 jealous - garde zelo  
-jellyfish (seajelly) - hai jele  
+jellyfish (seajelly) - bahai jele  
 Jersey - Jerze  
 Jerusalem - Uruxalem  
 Jerusalem artichoke (sunroot) - masa mula sol hua  
+Jesuits (Society of Jesus) - Yesa sanga  
 Jesus - Yesa  
 Jesus Christ - Yesa Mesi  
 Jewish - yehudi  
@@ -2214,7 +2215,7 @@ kingdom - raja dexa
 Kinshasa - Kinxasa  
 kiosk (pavilion) - kioske  
 Kiribati - Kiribati  
-kiss - cum  
+kiss - busu  
 kitchen - kuke kamar  
 kiwi bird - kivi  
 kiwi fruit - kivi frute  
@@ -2228,6 +2229,7 @@ know by experience or in person - ken
 know how - sabi  
 knowledge - san xe  
 koala - koala  
+Koine Greek - kon helen baxa  
 kola - kola  
 kola nut - kola frute  
 Konkani - Konkani  
@@ -2437,6 +2439,7 @@ lynx - linse
 
 Macao - Makau  
 machine (device, aparatus) - gi  
+machine - makin  
 mad (insane, crazy) - divan  
 Madagascar - Madagasi  
 madness (insanity) - divanta  
@@ -2445,7 +2448,7 @@ magazine (warehouse) - mahazin
 magenta (fuchsia) - majenta  
 magic - magi  
 magical - magi di  
-magical power - magi liki  
+magical power - magi bala  
 magician (sorcerer, mage, wizard) - magi ja  
 magma - pasta petra  
 magnesium - magen yum  
@@ -2503,7 +2506,7 @@ marble - kalsi bilor
 March - mes tri  
 margarine - margarin  
 margay - margai  
-maritime - hai di  
+maritime - bahai di  
 mark (leave a mark) - fa marke  
 mark (trace) - marke  
 market (bazaar) - bazar  
@@ -2564,11 +2567,13 @@ meaning (signification) - mana
 measure (measurement) - metri  
 meat (flesh) - nama  
 Mecca - Makah  
+mechanic - makinja  
+mechanical - makin li  
 medallion (medal) - medal  
 medicine (drug, medication) - dava xe  
 medicine (field of study) - dava logi  
 meditate (contemplate, ponder, cogitate) - jan  
-Mediterranean - Geo Medi Hai  
+Mediterranean - Geo Medi Bahai  
 medium (intermediate, mean) - medi di  
 medium (media, buffer) - medi xe  
 medium (media, mass media) - media  
@@ -2679,6 +2684,7 @@ Mongolia - Mongol
 Mongolian - mongol di  
 mongoose - mungus  
 monism - un xe sim  
+monk or nun - biku  
 monochrome - un rang di  
 monocle - un yen di lense  
 monogenesis - ungene  
@@ -2898,7 +2904,7 @@ object (item, thing) - vutu
 obligation (compulsion) - musta  
 oblique (askew, tilted) - terca  
 obsidian - osidian  
-ocean - dai hai  
+ocean - dai bahai  
 Oceania - Oseania  
 ocelot - oselote  
 October - mes des  
@@ -2957,6 +2963,8 @@ order (arrange) - fa ratibu
 order (arrangement) - taxe  
 order (arrangement, sequence) - ratibu  
 order (command) - amir  
+order (group with common interests, -hood) - sanga  
+order of monks or nuns - biku sanga  
 orderly (organized, in sequence, tidy, regular) - ratibu li  
 ordinary (customary, habitual, normal) - ada di  
 organism (living thing) - bioxe  
@@ -3002,8 +3010,8 @@ oxygen - oxe
 
 ## P  
 
-Pacific cod - pase hai bakalau  
-Pacific Ocean - Pase Hai  
+Pacific cod - pase bahai bakalau  
+Pacific Ocean - Pase Bahai  
 pacifism - pase sim  
 pacifist - pase sim ja  
 pack (package) - pake  
@@ -3652,7 +3660,7 @@ sago palm - sagu
 Sahrawi Arab Democratic Republic - Sahara Dexa  
 sail - nave ga  
 sailer - nave ga ja  
-sailor (seaman, mariner) - hai vala  
+sailor (seaman, mariner) - bahai vala  
 Saint Helena - Sante Helena  
 Saint John's Day - Yohan festa  
 Saint Kitts - Sante Kitse  
@@ -3722,17 +3730,17 @@ sculptor - eskulte ja
 sculpture (art of sculpting) - eskulte suta  
 sculpture (statue) - eskulte  
 scute - oste xalke  
-sea - hai  
-sea anemone - hai hua  
-sea cucumber - hai hiyar  
-sea force (navy) - hai ordu  
+sea - bahai  
+sea anemone - bahai hua  
+sea cucumber - bahai hiyar  
+sea force (navy) - bahai ordu  
 sea monster - sui gui  
 seaborgium - siborge yum  
-seagrass - hai cau  
+seagrass - bahai cau  
 search (seek, look for) - soki  
 season - mosim  
 seat (saddle) - side loka  
-seaweed (macroalgae) - hai alga  
+seaweed (macroalgae) - bahai alga  
 second (2nd) - dume  
 second(s) - sekunde  
 secondary school - jong xulakan  
@@ -3813,7 +3821,7 @@ shoemaker's shop - sapatukan
 shogunate - ordu raja dexa  
 shoot (fire) - pau  
 shopping - xopi  
-shore (coast, beach) - hai kinar  
+shore (coast, beach) - bahai kinar  
 short (brief) - korte  
 short story - korte kata  
 shorten - korte fa  
@@ -4316,7 +4324,7 @@ tour (excursion, trip) - tur
 tourism - safar keka  
 tourist - safar keka ja  
 towel - tuale  
-tower - minare  
+tower - tore  
 town - nagar  
 toxic (poisonous, venomous) - toxi di  
 toxicology - toxilogi  
@@ -4654,6 +4662,7 @@ work (job, task) - karxe
 work - kar  
 worker - karja  
 workshop (shop, building, house or place for doing something) - kan  
+workshop - karkan  
 workshop - karkan  
 world - dunia  
 world language - dunia baxa  

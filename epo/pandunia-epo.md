@@ -142,6 +142,12 @@ bagaje - pakaĵo
 bagre - tigro  
 baha din - bahaismo  
 baha din ja - bahaisto  
+bahai - maro  
+bahai amir ja - admiralo (ŝiparestro)  
+bahai di - mara  
+bahai ordu - mararmeo  
+bahai porto - haveno  
+bahai vala - maristo  
 baka - baki  
 baka ja - bakisto  
 bakakan - bakejo  
@@ -239,6 +245,7 @@ ben ben - genepo
 ben doh - nepino  
 ben son - nepo  
 benci - benko  
+benzi - adzo  
 benzin - benzino  
 bere - bereto  
 beril yum - berilio  
@@ -250,6 +257,7 @@ Biblia - Biblio
 Biblia di - biblia  
 bibre - kastoro  
 bici - vipo  
+biku - monaĥo aŭ monaĥino  
 bil - ebla (povi)  
 bil e - eble  
 bil ja - kapabla  
@@ -311,6 +319,7 @@ bulbul - najtingalo
 bum - eksplodo  
 bus - buso  
 bus halte - bushaltejo  
+busu - kiso  
 bute - butero  
 buton - klavo (butono)  
 buton bano - klavaro  
@@ -360,7 +369,6 @@ coklate - ĉokolado
 coklate kane - ĉokolado  
 cori - ŝtelo  
 cori ja - ŝtelisto  
-cum - kiso  
 cun - elekti  
 cupu - suĉi  
 cuti - eliri  
@@ -376,8 +384,8 @@ da su - lia aŭ ŝia aŭ ĝia
 dai - granda  
 dai anjil ja - ambasadoro  
 dai anjilkan - ambasado  
+dai bahai - oceano  
 dai dom - palaco  
-dai hai - oceano  
 dai pau - kanono  
 dai pau ja - kanonisto  
 dai seku - ŝtonego  
@@ -647,10 +655,8 @@ fete - fari (faro, fakto)
 • infete - infekto  
 • rifete - ripeti (refari)  
 fete baxa - artefarita lingvo  
-fetekan - fabriko  
 feter - faristo  
 feteria - fabriko  
-figur - figuro  
 fikir - penso  
 Filipin - Filipinoj  
 filme - filmo  
@@ -809,12 +815,6 @@ habar - novaĵoj
 habar gazeta - gazeto  
 hafen yum - hafnio  
 haha - ridi  
-hai - maro  
-hai amir ja - admiralo (ŝiparestro)  
-hai di - mara  
-hai ordu - mararmeo  
-hai porto - haveno  
-hai vala - maristo  
 haide - ni faru...  
 haki - polvo  
 haku - rajto  
@@ -968,7 +968,7 @@ jebu - poŝo
 jelakan - malliberejo  
 jele - ĝelo  
 jen - persono  
-jen hai - amasego da homoj  
+jen bahai - amasego da homoj  
 jen jami - amaso da homoj  
 jenju - perlo  
 jenju table - bidkalkulilo (abako)  
@@ -1130,6 +1130,7 @@ koma - komo
 kompani - kompanio (firmao)  
 kon - kun (kuna, komuna)  
 kon bon - kongrui  
+kon helen baxa - kojnea greka lingvo  
 kon kar - kunlabori  
 kon sabi - informacio  
 kon sana sim - komunismo  
@@ -1268,6 +1269,9 @@ magi - magio
 mahala - kvartalo  
 majang - maĝango  
 makas - tondilo  
+makin - maŝino  
+makin li - meĥanika  
+makinja - meĥaniko (maŝinisto)  
 mal ja - havanto  
 mal nomi - ekonomiko  
 Mali - Malio  
@@ -1346,7 +1350,6 @@ mili mitre - milimetro
 milke - lakto  
 min - malpli  
 min ka bas - maltro  
-minare - turo  
 minim - malplej  
 ministre ja - ministro  
 minute - minuto  
@@ -1739,6 +1742,7 @@ san vol di - interesa
 san vol ja - scivolema  
 san xe - scio  
 sana ja - fabrikisto  
+sanakan - fabriko  
 sanduku - skatolo (kesto)  
 sante - sankta  
 sanzi - ventumilo  
@@ -1906,6 +1910,7 @@ tomate - tomato
 ton - tono  
 topo - regiono  
 tor yum - torio  
+tore - turo  
 torso - torso  
 trate - treni  
 trater - traktoro  

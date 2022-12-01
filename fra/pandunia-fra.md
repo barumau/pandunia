@@ -101,7 +101,7 @@ anis araki - raki
 anjil - message  
 anjil ja - messager  
 Antartika - Antarctique  
-Antartika Hai - Océan Antarctique  
+Antartika Bahai - Océan Antarctique  
 antena - antenne  
 Antigua - Antigua  
 Antigua i Barbuda - Antigua-et-Barbuda  
@@ -135,7 +135,7 @@ arte fete - artefact
 arte fete intelige (AI) - intelligence artificielle  
 arteja - artiste  
 Artika - arctique  
-Artika Hai - océan Arctique  
+Artika Bahai - océan Arctique  
 Aruba - Aruba  
 asal - origine  
 asal Amerka jen - amérindien (indien)  
@@ -162,8 +162,8 @@ ati - acte
 • ation - action  
 • atir - agent (faiseur)  
 • ativi - actif (activer, allumer, mettre en marche)  
+Atlanti Bahai - océan Atlantique  
 atlanti bakalau - morue de l'Atlantique  
-Atlanti Hai - océan Atlantique  
 atlanti salmon - saumon altentique  
 atom - atome  
 atom bomba - bombe atomique  
@@ -201,6 +201,15 @@ bagi bele - bêche (pelle)
 bagre - tigre  
 bagre oselote - oncille  
 bah - bah  
+bahai - mer  
+bahai alga - algues  
+bahai amir ja - amiral  
+bahai cau - posidonie (herbiers marins)  
+bahai hiyar - concombre de mer  
+bahai jele - méduse  
+bahai kinar - côte  
+bahai ordu - force navale (marine)  
+bahai vala - matelot  
 baka ja - boulanger  
 baka poto - terre cuite  
 bakalau - morue (cabillaud)  
@@ -245,7 +254,7 @@ bari yum - baryum
 barka - Félicitations !  
 Barti - Inde  
 barti - indien  
-Barti Hai - océan Indien  
+Barti Bahai - océan Indien  
 baru - ours  
 barude - poudre à canon  
 barxa - pluie  
@@ -297,12 +306,14 @@ bei - socio
 belca - pelle  
 ben - fils ou fille  
 ben ben - petit-enfant  
+benzi - herminette  
 beri - baie  
 beril yum - béryllium  
 berkli yum - berkélium  
 bete - betterave  
 betula - bouleau  
 bici - fouet  
+biku - moine ou nonne  
 bil - pouvoir (possible, capacité)  
 bil e - peut-être  
 bilta - capacité (pouvoir, habileté)  
@@ -355,6 +366,7 @@ buro - bureau (office)
 buro krati - bureaucratie  
 buro riti - protocole  
 bus halte - arrêt de bus  
+busu - bisou  
 bute - beurre  
 butan - butane  
 buta - botte  
@@ -410,9 +422,9 @@ cupu - sucer
 da - il ou elle  
 damen - ils ou elles  
 damen su - leur  
+dai bahai - océan  
 dai barxa - trombe (averse)  
 dai dom - palais (château, manoir)  
-dai hai - océan  
 dai pau - canon  
 dai pote - chaudron  
 dai seku - rocher  
@@ -789,15 +801,6 @@ habar letre - bulletin (infolettre)
 Habaxa - Abyssinie  
 hafen yum - hafnium  
 haha - rire  
-hai - mer  
-hai alga - algues  
-hai amir ja - amiral  
-hai cau - posidonie (herbiers marins)  
-hai hiyar - concombre de mer  
-hai jele - méduse  
-hai kinar - côte  
-hai ordu - force navale (marine)  
-hai vala - matelot  
 haki - poussière  
 haki rang - kaki  
 haku - droit  
@@ -1087,6 +1090,7 @@ koma - virgule
 komi - comique  
 komputa di - numérique  
 kon - avec (commun)  
+kon helen baxa - koinè  
 kon kar - collaborer  
 kon sel ja - consultant (conseiller)  
 kon trati - convention (alliance, pacte)  
@@ -1243,6 +1247,8 @@ Magribi dexa - Maroc
 mahala - quartier  
 majang - mah-jong  
 makan hua - dandélion  
+makin - machine  
+makin li - mécanique  
 mal - propriété (possession, bien)  
 mal ja - possédant (propriétaire)  
 mal nomi - économie  
@@ -1521,7 +1527,7 @@ pas - passer
 pas dau - passe (passage)  
 pas loga - mot de passe  
 pase - paix  
-pase hai bakalau - morue du Pacifique  
+pase bahai bakalau - morue du Pacifique  
 pase sim - pacifisme  
 pase sim ja - pacifiste  
 pasporte - passeport  
@@ -1727,6 +1733,7 @@ samari yum - samarium
 san - savoir  
 san logi - épistémologie  
 sanduice - sandwich  
+sanga - ordre  
 sante kanon - saintes écritures   
 sanzi - éventail  
 sapatu - chaussure  
@@ -1894,6 +1901,7 @@ ton - ton
 topo grafi - topographie  
 topo metri grafi - carte (plan)  
 tor yum - thorium  
+tore - tour  
 tortuga - tortue  
 toxilogi - toxicologie  
 tragi - tragique  

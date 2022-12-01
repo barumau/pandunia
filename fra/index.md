@@ -24,8 +24,6 @@ Quelques traits remarquables du pandunia :
 - En tant que langue construite, le pandunia est entièrement régulier : il n’y a pas d’exception ;
 - Le pandunia est réellement international ! Les mots en pandunia sont des mots empruntés dans le monde entier à des langues présentes aux quatre coins du globe, dont les dix langues les plus parlées du monde.
 
-![](http://www.pandunia.info/grafe/bandir.png "Le drapeau du pandunia")
-
 ## Ressources pour apprendre
 
 - [L'essentiel](003_baze.md) en une seule page

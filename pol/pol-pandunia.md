@@ -48,6 +48,7 @@
  - baga  
  - bagi  
  - bagi bele  
+ - bahai vala  
  - bai  
  - baku varis  
  - balakan  
@@ -80,9 +81,12 @@
  - ben ben  
  - ben doh  
  - ben son  
+ - benzi  
  - Berlin  
  - Biblia di  
  - bici  
+ - biku  
+ - biku sanga  
  - bil ja  
  - bilta  
  - bio lasa  
@@ -336,7 +340,6 @@
  - guku hua  
  - habar letre  
  - habar media  
- - hai vala  
  - haki rang  
  - halal liste  
  - han guan ja  
@@ -394,7 +397,7 @@
  - jebu caku  
  - jela jen  
  - jen (jen men)  
- - jen hai  
+ - jen bahai  
  - jen jami  
  - jete  
  - jihade  
@@ -436,6 +439,7 @@
  - karbol  
  - karboxil  
  - karkan  
+ - karkan  
  - karuba  
  - kasa  
  - Kastilia  
@@ -462,6 +466,7 @@
  - komi  
  - komputa hor loga gi  
  - kon forma  
+ - kon helen baxa  
  - kon pasi  
  - kon sel  
  - kon sel ja  
@@ -514,8 +519,10 @@
  - ma ma  
  - ma pa  
  - ma sis  
- - magi liki  
+ - magi bala  
  - maikan  
+ - makin li  
+ - makinja  
  - maltos  
  - mani  
  - manioka fufu  
@@ -683,6 +690,7 @@
  - saludo  
  - sam bei  
  - sam metri  
+ - sanga  
  - sante kanon  
  - sau ben  
  - sau doh  
@@ -848,6 +856,7 @@
  - yeka kanon  
  - yem biskute  
  - yen di  
+ - Yesa sanga  
  - yota  
  - you  
  - you jen  
@@ -1027,7 +1036,7 @@ Abchazja - Arcah
 Abisynia - Habaxa  
 abisyński - habaxa  
 aborygeński - asal Australia jen  
-admirał - hai amir ja  
+admirał - bahai amir ja  
 adres - adres  
 adwokat - kanun vala  
 Afganistan - Afghan  
@@ -1314,7 +1323,7 @@ błędny (niepoprawny) - galte di
 C - C  
 Cantalupo in Sabina - Kantalupo va Sabina  
 całość (integralność) - holota  
-całus - cum  
+całus - busu  
 cały - holo  
 cebula - piaze  
 cecha, atrybut, własność; -ość - bon sifata  
@@ -1522,7 +1531,7 @@ doradca (mentor) - mentor
 dorosły, dojrzały - matur  
 dorsz - bakalau  
 dorsz atlantycki - atlanti bakalau  
-dorsz pacyficzny - pase hai bakalau  
+dorsz pacyficzny - pase bahai bakalau  
 doskonalić (optymalizować, ulepszać) - fa pul bon  
 dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować) - fati  
 dostać, dostawać, otrzymać, otrzymywać, wziąć, brać - na  
@@ -1662,8 +1671,8 @@ Europa - Europa
 europejski - europa di  
 ewangelia - eu anjil  
 F - F  
-fabryka, manufaktura - fetekan  
 fabryka, manufaktura - feteria  
+fabryka, manufaktura - sanakan  
 fajka - pipe  
 fala - onda  
 Falklandy, Malwiny - Malvinas nesi  
@@ -1679,7 +1688,6 @@ feminizm - fem sim
 ferm - fermi yum  
 fermentować - be biomute  
 Fidżi - Fiji  
-figura, reprezentacja - figur  
 Filipiny - Filipin  
 filiżanka do kawy - kafe kupa  
 film - filme  
@@ -2483,7 +2491,7 @@ marmur - kalsi bilor
 Maroko - Magribi dexa  
 Mars - Maris  
 martwić - be duka  
-marynarka (flota) - hai ordu  
+marynarka (flota) - bahai ordu  
 marynować - acar  
 marzec - mes des un  
 marznąć (zamarznąć) - be ais  
@@ -2492,6 +2500,7 @@ masaż - masaje
 maska, kamuflaż - maska  
 maszt - masta  
 maszyna - gi  
+maszyna - makin  
 maszyna do pisania - kitaba gi  
 masło - bute  
 masłosz Parka - karite  
@@ -2516,7 +2525,7 @@ mecz, rywalizacja - mece
 medalion, medal - medal  
 media - medi xe  
 media społecznościowe - sosi medi gi  
-meduza - hai jele  
+meduza - bahai jele  
 medycyna - dava logi  
 medytować; dumać, rozmyślać, zastanawiać się - jan  
 megawat - mega vate  
@@ -2623,10 +2632,10 @@ moralność, etyka - moral
 moralny - moral di  
 morela (śliwka) - briko  
 morfem - forma so  
-morski - hai di  
-morskoniebieski - hai nil  
+morski - bahai di  
+morskoniebieski - bahai nil  
 morwa - tuta  
-Morze Śródziemne - Geo Medi Hai  
+Morze Śródziemne - Geo Medi Bahai  
 moskovium - moskva yum  
 Moskwa - Moskva  
 most - kio  
@@ -2636,8 +2645,8 @@ motyl - pelpel
 mowić (mowa) - loga  
 Mozambik - Mozambike  
 Mołdawia - Moldova  
+może - bahai  
 może - bil e  
-może - hai  
 mruganie (błysk) - fa sing foto  
 mrówka - murce  
 mucha - dom zeze  
@@ -2853,12 +2862,12 @@ obudzić, budzić - fa jaga
 obyczaj, zwyczaj, tradycja, praktyka, konwencja - suna  
 obywatel - dexa jen  
 obóz - kampe ja  
-ocean - dai hai  
-Ocean Antarktyczny (Ocean Południowy) - Antartika Hai  
-Ocean Arktyczny - Artika Hai  
-Ocean Atlantycki - Atlanti Hai  
-Ocean Indyjski - Barti Hai  
-Ocean Spokojny (Pacyfik) - Pase Hai  
+ocean - dai bahai  
+Ocean Antarktyczny (Ocean Południowy) - Antartika Bahai  
+Ocean Arktyczny - Artika Bahai  
+Ocean Atlantycki - Atlanti Bahai  
+Ocean Indyjski - Barti Bahai  
+Ocean Spokojny (Pacyfik) - Pase Bahai  
 Oceania - Oseania  
 ocelot - oselote  
 ocelot tygrysi - bagre oselote  
@@ -3217,7 +3226,7 @@ porost - alga fungu
 porozumienie - sam rai  
 porozumienie - trati  
 port - porto  
-port morski (przystań) - hai porto  
+port morski (przystań) - bahai porto  
 Portoryko (Puerto Rico) - Portoriko  
 Portugalia - Portugal  
 porywacz pociągu - tren kape ja  
@@ -3809,7 +3818,7 @@ strona (bok) - late
 stront - estronti yum  
 strzała (bełt) - flece  
 strzelać (strzelić) - pau  
-strzykwa - hai hiyar  
+strzykwa - bahai hiyar  
 strzępić (drzeć) - cira cira  
 student - estude ja  
 studio (pracownia) - estudekan  
@@ -4031,7 +4040,7 @@ traktor (ciągnik) - trater
 traktować - fa culi  
 transport - traporte  
 trawa - cau  
-trawa mor - hai cau  
+trawa mor - bahai cau  
 treść (zawartość) - in xe  
 tropikalny - garma zona di  
 tropiki - garma zona  
@@ -4116,7 +4125,7 @@ Ukraina - Ukraina
 ukraść, kraść - fa cori  
 ukrzyżować - fa krus fixe  
 ukształtować, kształtować, urzeźbić, rzeźbić - fa forma  
-ukwiał - hai hua  
+ukwiał - bahai hua  
 układ słoneczny - sol sistem  
 ul - medu vespa sanduku  
 ul (gniazdo pszczół lub os) - vespa nide  
@@ -4254,7 +4263,7 @@ wietnamski - viete baxa
 wiewiórka - ekore  
 wieś, tereny wiejskie - agri stan  
 wieś, wioska - deha  
-wieża - minare  
+wieża - tore  
 wieża zegarowa - hor loga minar  
 wilk - volfe  
 wina, grzech; defekt, wada - doxa  
@@ -4288,7 +4297,7 @@ woda - sui
 woda mineralna - kuanga sui  
 wodny - sui di  
 wodoodporny - sui sekur di  
-wodorosty - hai alga  
+wodorosty - bahai alga  
 wodór - hidre  
 wojownik, bojownik - jang ja  
 wola (chęć, pragnienie) - vol xe  
@@ -4332,7 +4341,7 @@ wtorek - marisden
 wulkan - hogo xan  
 wy, was - tumen  
 wybrać (wybierać, selekcjonować; wybór, elekcja, selekcja) - cun  
-wybrzeże - hai kinar  
+wybrzeże - bahai kinar  
 Wybrzeże Kości Słowniowej - Kote de Ivar  
 wybuch (eksplozja) - bum  
 wycie, skowyt - ulul  

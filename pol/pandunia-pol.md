@@ -135,7 +135,7 @@ anis araki -
 anjil - wiadomość  
 anjil ja - posłaniec (wysłannik)  
 Antartika - Antarktyka  
-Antartika Hai - Ocean Antarktyczny (Ocean Południowy)  
+Antartika Bahai - Ocean Antarktyczny (Ocean Południowy)  
 antena - antena  
 Antigua - Antigua  
 Antigua i Barbuda - Antigua i Barbuda  
@@ -176,7 +176,7 @@ arte fete intelige (AI) - sztuczna inteligencja
 arteja - artysta  
 arte sanaja - rzemieślnik  
 Artika - Arktyka  
-Artika Hai - Ocean Arktyczny  
+Artika Bahai - Ocean Arktyczny  
 Aruba - Aruba  
 asal - źródło, początek, pochodzenie  
 asal Amerka jen - indiański  
@@ -210,8 +210,8 @@ ati -
 • ativi - aktywować (włączyć, uruchomić)  
 • anativi - zdeaktywowany (wyłączony, zatrzymany)  
 • ativifa -   
+Atlanti Bahai - Ocean Atlantycki  
 atlanti bakalau - dorsz atlantycki  
-Atlanti Hai - Ocean Atlantycki  
 atlanti salmon - łosoś atlantycki  
 atom - atom  
 atom bomba - bomba atomowa  
@@ -263,6 +263,19 @@ bagre oselote - ocelot tygrysi
 bah - pfuj (fuj)  
 baha din - bahaizm  
 baha din ja - bahaista  
+bahai - może  
+bahai alga - wodorosty  
+bahai amir ja - admirał  
+bahai cau - trawa mor  
+bahai di - morski  
+bahai hiyar - strzykwa  
+bahai hua - ukwiał  
+bahai jele - meduza  
+bahai kinar - wybrzeże  
+bahai nil - morskoniebieski  
+bahai ordu - marynarka (flota)  
+bahai porto - port morski (przystań)  
+bahai vala -   
 Bahama - Bahamy  
 Bahrain - Bahrajn  
 bai -   
@@ -318,7 +331,7 @@ bari yum - bar
 barka - gratulacje!  
 Barti - Indie  
 barti - Indyjski  
-Barti Hai - Ocean Indyjski  
+Barti Bahai - Ocean Indyjski  
 baru - niedźwiedź  
 barude - proch strzelniczy  
 barxa - deszcz  
@@ -455,6 +468,7 @@ ben doh -
 ben son -   
 benci - ławka  
 Benin - Benin  
+benzi -   
 benzin - benzyna  
 bere - beret  
 beri - jagoda  
@@ -469,6 +483,8 @@ Biblia - Biblia
 Biblia di -   
 bibre - bóbr  
 bici -   
+biku -   
+biku sanga -   
 bil - móc, umieć, możliwy, prawdopodobnie  
 bil e - może  
 bil ja -   
@@ -583,6 +599,7 @@ buro riti -
 bus - autobus, autokar  
 bus halte - przystanek autobusowy  
 buste - biust  
+busu - całus  
 bute - masło  
 butan -   
 butil -   
@@ -680,7 +697,6 @@ cosen - Korea
 cosen di - koreański  
 Cuana - Botswana  
 culi - proces, procedura  
-cum - całus  
 cun - wybrać (wybierać, selekcjonować; wybór, elekcja, selekcja)  
 • precun -   
 cunbil - opcja (wybór)  
@@ -700,11 +716,11 @@ da su -
 dai - duży  
 dai anjil ja - ambasador  
 dai anjilkan - ambasada  
+dai bahai - ocean  
 dai barxa -   
 dai dara -   
 dai dom - pałac  
 dai gradu - wzmacniać (wzmocnić)  
-dai hai - ocean  
 dai lasun - czosnek olbrzymi  
 dai pau - działo  
 dai pau ja - kanonier  
@@ -1358,10 +1374,8 @@ fete - zrobić (czyn, uczynek)
 • perfete - perfekcyjny  
 • rifete - powtórzyć, powtarzać  
 fete baxa - język sztuczny  
-fetekan - fabryka, manufaktura  
 feter - twórca (czynnik)  
 feteria - fabryka, manufaktura  
-figur - figura, reprezentacja  
 Fiji - Fidżi  
 fikir - myśl, pomysł  
 fili - zamiłowanie (-filia)  
@@ -1603,7 +1617,7 @@ geo grafi -
 geo kaska krake - uskok  
 geo kaska plate - płyta tektoniczna  
 geo logi - geologia  
-Geo Medi Hai - Morze Śródziemne  
+Geo Medi Bahai - Morze Śródziemne  
 geo metri -   
 geo nice di - podziemny  
 geo nice jela - loch  
@@ -1732,19 +1746,6 @@ hafen yum - hafn
 hafiza - zachować, zakonserwować, zachować, utrzymać  
 hafiza ja - przechowawca, kustosz, opiekun  
 haha - śmiać się  
-hai - może  
-hai alga - wodorosty  
-hai amir ja - admirał  
-hai cau - trawa mor  
-hai di - morski  
-hai hiyar - strzykwa  
-hai hua - ukwiał  
-hai jele - meduza  
-hai kinar - wybrzeże  
-hai nil - morskoniebieski  
-hai ordu - marynarka (flota)  
-hai porto - port morski (przystań)  
-hai vala -   
 haide - niech my, hajda  
 haki - pył  
 haki cupu gi - odkurzacz  
@@ -2036,8 +2037,8 @@ jelakan - więzienie, zakład karny
 jele - żel, galareta  
 jen - osoba  
 jen (jen men) -   
+jen bahai -   
 jen di - osobisty, intymny, prywatny  
-jen hai -   
 jen jami -   
 jenju - perła  
 jenju table - abak (liczydło)  
@@ -2204,6 +2205,7 @@ kar - pracować
 kar cuti -   
 kargi - narzędzie  
 karja - pracownik  
+karkan -   
 karkan -   
 kar lexi - czasownik  
 karm eza - biurko  
@@ -2381,6 +2383,7 @@ kon - wspólny (wzajemny)
 kon bon - pasować  
 kon forma -   
 kon funsibil - kompatybilny (pasujący)  
+kon helen baxa -   
 kon kar - współpracować (kolaborować)  
 kon pasi -   
 kon sabi - informacja  
@@ -2695,9 +2698,9 @@ maf - przepraszam!
 magen yum - magnez  
 magi - magia  
 magi asar - zaklecie  
+magi bala -   
 magi di - magiczny  
 magi ja - magik, czarownik  
-magi liki -   
 Magribi dexa - Maroko  
 Magyar - Węgry  
 mahala - dzielnica  
@@ -2710,6 +2713,9 @@ makala - artykuł, tekst
 makan hua - mlecz  
 makas - nożyce, nożyczki  
 Makau - Makau  
+makin - maszyna  
+makin li -   
+makinja -   
 mal - własność (mienie)  
 mal ja - właściciel (posiadacz)  
 mal nomi - ekonomia  
@@ -2914,7 +2920,6 @@ min - mniej
 min di fen - mniejszość  
 min ka bas - zbyt mało  
 min poli -   
-minare - wieża  
 ming - jasny, czysty  
 minim - najmniej, minimalnie  
 minim di - minimal  
@@ -3344,8 +3349,8 @@ pas loga -
 pas tabi - pasywny (nieaktywny)  
 pase - pokój  
 • anpase - niepokój  
-Pase Hai - Ocean Spokojny (Pacyfik)  
-pase hai bakalau - dorsz pacyficzny  
+Pase Bahai - Ocean Spokojny (Pacyfik)  
+pase bahai bakalau - dorsz pacyficzny  
 pase sim - pacyfizm  
 pase sim ja - pacyfista  
 pasi - cierpienie, ból  
@@ -3813,8 +3818,10 @@ san xe - wiedza
 sana - produkcja  
 sana ja - twórca, kreator, czynnik  
 sana ja di - produktywny (żyzny)  
+sanakan - fabryka, manufaktura  
 sanduice - kanapka  
 sanduku - pudło, skrzynia  
+sanga -   
 sante - święty  
 Sante Helena - Święta Helena  
 sante kanon -   
@@ -4228,6 +4235,7 @@ topo - region
 topo grafi -   
 topo metri grafi -   
 tor yum - tor  
+tore - wieża  
 torso - tułów  
 tortuga - żółw  
 toxi - trucizna (toksyna)  
@@ -4643,6 +4651,7 @@ yepa alga - listownicowiec
 yepa late - strona  
 Yesa - Jezus  
 Yesa Mesi - Jezus Chrystus  
+Yesa sanga -   
 yezi - kokos  
 yo - jakiś  
 yo jen - ktoś  

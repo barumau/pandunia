@@ -122,6 +122,17 @@ badan - corpo
 bagaje - bagagem  
 bagre - tigre  
 bagre oselote - gato-do-mato (gato-maracajá-mirim)  
+bahai - mar  
+bahai alga - macroalga  
+bahai amir ja - almirante  
+bahai cau - erva marinha  
+bahai di - marítimo  
+bahai hiyar - pepino-do-mar (holotúrias)  
+bahai jele - medusa  
+bahai kinar - costa  
+bahai ordu - marinha  
+bahai porto - porto marítimo  
+bahai vala - marinheiro  
 baka ja - padeiro  
 baka poto - terracota  
 bakalau - bacalhau  
@@ -198,11 +209,13 @@ belca - pá
 ben - filho ou filha  
 ben doh - neta  
 ben son - neto  
+benzi - enxó  
 beri - baga  
 beril yum - berílio  
 berkli yum - berqueélio  
 betula - bétula  
 bici - chicote  
+biku - monje ou monja  
 bil - possível  
 bil e - talvez  
 bilta - habilidade (capacidade)  
@@ -251,6 +264,7 @@ buro - escritório (birô)
 buro krati - burocracia  
 buro riti - protocolo  
 bus halte - parada de ônibus  
+busu - beijo  
 bute - manteiga  
 butan - butano  
 butil - butil  
@@ -307,9 +321,9 @@ cupu - chupar (sugar)
 
 da - ele ou ela  
 damen - eles ou elas  
+dai bahai - oceano  
 dai barxa - temporal (toró)  
 dai dom - palácio (mansão, palacete)  
-dai hai - oceano  
 dai pau - canhǎo  
 dai seku - pedregulho  
 dalil - prova  
@@ -618,17 +632,6 @@ habar letre - boletim de notícias
 Habaxa - Abissínia  
 hafen yum - háfnio  
 haha - rir  
-hai - mar  
-hai alga - macroalga  
-hai amir ja - almirante  
-hai cau - erva marinha  
-hai di - marítimo  
-hai hiyar - pepino-do-mar (holotúrias)  
-hai jele - medusa  
-hai kinar - costa  
-hai ordu - marinha  
-hai porto - porto marítimo  
-hai vala - marinheiro  
 haki - pó  
 haki rang - cáqui  
 haku - direito  
@@ -901,6 +904,7 @@ komi - cômico
 komputa di - digital  
 kon - com (comum)  
 kon bon - combinar com  
+kon helen baxa - koiné  
 kon kar - colaborar  
 kon sel ja - consultor  
 kon trati - pacto  
@@ -1052,6 +1056,7 @@ Magribi dexa - Marrocos
 mahala - quarteirão  
 majang - mahjong  
 makan hua - dente-de-leão (taráxaco)  
+makin li - mecânico  
 mal nomi - economia  
 malte - malte  
 maltos - maltose  

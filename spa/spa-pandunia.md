@@ -47,7 +47,7 @@ acordarse - fa memo
 acortar (abreviar) - korte fa  
 acostar (poner) - fa kux  
 acostarse (echarse, tenderse, tumbarse) - be kux  
-actinia (anémonas de mar) - hai hua  
+actinia (anémonas de mar) - bahai hua  
 actinio - acini yum  
 activo - ativi  
 acto - ati  
@@ -143,7 +143,7 @@ alinear - be ging
 allí (allá) - a vo  
 almacén - mahazin  
 almendra - badam  
-almirante - hai amir ja  
+almirante - bahai amir ja  
 almohada - kuxen  
 almuerzo - dia yam  
 alojar (hospedar) - fa dom  
@@ -353,6 +353,7 @@ azafrán - safran
 azar (aleatorio) - zar di  
 Azerbaiyán - Azerbaijan  
 azucarado - sukre di  
+azuela - benzi  
 azufre - sulfe  
 azul - nil  
 azur (blao) - lazur  
@@ -433,7 +434,7 @@ berenjena - bedinjan
 berilio - beril yum  
 berkelio - berkli yum  
 Bermuda - Bermuda  
-beso - cum  
+beso - busu  
 Biblia - Biblia  
 biblioteca - kitabakan  
 bibliotecario - kitaba minister  
@@ -946,7 +947,7 @@ cosa - xe
 coser - kosi  
 cosmonauta - kosmo nave ja  
 cosmos - kosmo  
-costa (orilla) - hai kinar  
+costa (orilla) - bahai kinar  
 Costa de Marfil - Kote de Ivar  
 Costa Rica - Kosta Rika  
 costar - fa koste  
@@ -1613,8 +1614,8 @@ fusión - fuzi liga
 fusión nuclear - kerne unta  
 fusta - uma bici  
 futuro - pos zaman  
-fábrica - fetekan  
 fábrica - feteria  
+fábrica - sanakan  
 fábula - hevan kata  
 fácil - fasil  
 fácil acceso (accesibilidad) - tene fasilta  
@@ -1849,7 +1850,7 @@ hoja - yepa
 hola - sal  
 holmio - holme yum  
 holograma - holo grafi  
-holoturia (pepino de mar) - hai hiyar  
+holoturia (pepino de mar) - bahai hiyar  
 hombre (señor) - matur man  
 hombro - kanta  
 homorromántico - sam romanse di  
@@ -2125,6 +2126,7 @@ Kiribati - Kiribati
 kiwi - kivi  
 kiwi fruta - kivi frute  
 koala - koala  
+koiné - kon helen baxa  
 konkani - Konkani  
 Kosovo - Kosovo  
 kumquat (quinoto) - gingam  
@@ -2294,7 +2296,7 @@ Macao - Makau
 Macedonia del Norte - Norde Makedonia  
 maceta (plantera) - hua pote  
 macrial (militar) - jang di  
-macroalga - hai alga  
+macroalga - bahai alga  
 Madagascar - Madagasi  
 madera - moka mate  
 madrastra - vise ma  
@@ -2351,7 +2353,7 @@ manía - mani
 mapa (carta) - karta  
 mapa - topo metri grafi  
 mapache (oso lavador) - rakun  
-mar - hai  
+mar - bahai  
 maratí - marati  
 maratón - maraton  
 maravilla - ajabu  
@@ -2367,8 +2369,8 @@ margarina - margarin
 margarita - baku margarite  
 margarita - margarita  
 margarita común (pascueta) - englix margarita  
-marina (armada) - hai ordu  
-marinero - hai vala  
+marina (armada) - bahai ordu  
+marinero - bahai vala  
 marioneta (títere) - pupe  
 mariposa (palomilla) - pelpel  
 marmól - kalsi bilor  
@@ -2378,7 +2380,7 @@ Marte - Maris
 martes - marisden  
 martillo (mazo) - hamar  
 marzo - mes tri  
-marítimo - hai di  
+marítimo - bahai di  
 masa (trozo, pedazo) - masa  
 masaje - masaje  
 masculino (macho) - nan  
@@ -2406,6 +2408,7 @@ mañana - pos den
 mañana - suba  
 mear - fa pix  
 mecedora - roke kursi  
+mecánico - makin li  
 medallón - medal  
 medianoche - medi noce  
 medicamento (medicina, remedio, fármaco) - dava xe  
@@ -2420,8 +2423,8 @@ mediodía - medi dia
 medios - media  
 medir (medida) - metri  
 meditar (reflexionar) - jan  
-Mediterráneo - Geo Medi Hai  
-medusa - hai jele  
+Mediterráneo - Geo Medi Bahai  
+medusa - bahai jele  
 megavatio - mega vate  
 meitnerio - meitner yum  
 mejorar - bon gradu  
@@ -2534,6 +2537,7 @@ moneda - pesa diske
 mongol - mongol di  
 Mongolia - Mongol  
 monismo - un xe sim  
+monje o monja - biku  
 monocromático - un rang di  
 monoteismo - un deu sim  
 monstro - mostre  
@@ -2588,6 +2592,7 @@ mutuo (recíproco) - semen su
 muy - tre  
 Myanmar (Birmania) - Mianma  
 máquina (dispositivo, aparato) - gi  
+máquina - makin  
 máquina de escribir - kitaba gi  
 más - max  
 más tarde - a pos  
@@ -2739,12 +2744,12 @@ octubre - mes des
 ocular - yen di  
 ocultar (esconder) - fa sir  
 ocupado (atareado) - mang  
-océano - dai hai  
-océano Antártico - Antartika Hai  
-océano Atlántico - Atlanti Hai  
-océano Pacífico - Pase Hai  
-océano Ártico - Artika Hai  
-océano Índico - Barti Hai  
+océano - dai bahai  
+océano Antártico - Antartika Bahai  
+océano Atlántico - Atlanti Bahai  
+océano Pacífico - Pase Bahai  
+océano Ártico - Artika Bahai  
+océano Índico - Barti Bahai  
 odiar - fa hen  
 odio - hen  
 oeste - veste  
@@ -3208,7 +3213,7 @@ pueblo - nagar
 puente - kio  
 puerro (cebolla larga) - porei  
 puerta - mun  
-puerto marítimo - hai porto  
+puerto marítimo - bahai porto  
 Puerto Rico - Portoriko  
 puertorriqueño - portoriko jen  
 pulir (lustrar) - foto frike  
@@ -3345,7 +3350,6 @@ repetir - rifete
 reportar (informe, reporte, noticia) - reporte  
 reportar - fa reporte  
 reportero - reporter  
-representación (figura) - figur  
 representar - vakil  
 Republica Dominicana - Dominika Vakil krati  
 repuesta (contestación) - javabu  
@@ -3816,7 +3820,7 @@ torio - tor yum
 tormenta (tempestad) - tufan  
 tormenta - grom tufan  
 tornillo - vita  
-torre - minare  
+torre - tore  
 torre del reloj - hor loga minar  
 torso - torso  
 tortuga - tortuga  
