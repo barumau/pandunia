@@ -145,5 +145,5 @@ Creation years of the Wikipedia articles about Pandunia:
 - 2019 [French](https://fr.wikipedia.org/wiki/Pandunia),
        [Tagalog](https://tl.wikipedia.org/wiki/Pandunia)
 - 2022 [Spanish](https://es.wikipedia.org/wiki/Pandunia),
-       [Basque](https://eu.wikipedia.org/wiki/Pandunia)
-
+       [Basque](https://eu.wikipedia.org/wiki/Pandunia),
+       [Italian](https://it.wikipedia.org/wiki/Pandunia)

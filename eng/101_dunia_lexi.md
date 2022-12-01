@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # World Words
 
 <big>Where Pandunia words come from?</big>
