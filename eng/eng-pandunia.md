@@ -1966,7 +1966,7 @@ humane - insan di
 humanism - insan sim  
 humanist - insan sim ja  
 humanistic - insan sim di  
-hummus - humus sos  
+hummus - humus pasta  
 humor - yumor  
 humorist - yumor ja  
 humorous (comical, funny) - yumor di  
@@ -2402,6 +2402,7 @@ look (see) - vide
 look away from (despise, disregard) - despete  
 look back at (respect) - respete  
 loom - tela gi  
+loose (lax; loosen, let loose, let go) - laxa  
 lose (be defeated) - bai  
 lose (fail, miss, be defeated) - fa xiti bai  
 lose (misplace, miss, shed) - xiti  
@@ -2635,11 +2636,11 @@ Mimas - Mimas
 mimic (imitate, emulate) - mime  
 mind (ability for consciousness, perception and thinking) - mente  
 mine (extract minerals) - kape yo kuanga  
-mine - kuanga xan  
-miner - kuanga ja  
-mineral (ore) - kuanga  
-mineral water - kuanga sui  
-mineshaft - kuanga tunel  
+mine - kuan xan  
+miner - kuanja  
+mineral (ore) - kuan  
+mineral water - kuan sui  
+mineshaft - kuan tunel  
 minimal - minim di  
 minimalism - minim sim  
 minimize - fa minim  
@@ -2663,6 +2664,7 @@ misunderstand - galte budi
 mix (blend) - mixe  
 mixer (blender) - mixe gi  
 mnemotechny - memo tehni  
+mode (type, pattern, state) - mode  
 model (design) - fa model  
 model (design) - model  
 model (simulation) - sam sifa xe  
@@ -3504,6 +3506,7 @@ reign (rule as an emperor) - imperi
 reinforce (replenish) - fa max lika  
 reinforcements - max ordu  
 reject (throw back) - rejete  
+relax  - relaxa  
 relic - prezaman xe  
 religion (worship) - din  
 religious - din di  
@@ -3587,7 +3590,7 @@ river bank - rivo kinar
 road sign - dau bano  
 roast - xava  
 rob (loot, plunder, pillage, ransack) - luta  
-robber (plunderer) - luta ja  
+robber (plunderer) - lutar  
 robe (jubbah) - juba  
 robot (bot) - robote  
 rock (sway, tilt) - roke  
@@ -4571,7 +4574,6 @@ wave - onda
 wax - mum  
 wax seal - mum cape  
 way (manner, means, method, mode, procedure, rite) - riti  
-way (manner, mode) - mode  
 way (road) - dau  
 we (exlusive we) - damimen  
 we (inclusive we) - tumimen  
@@ -4617,9 +4619,9 @@ whitelist - halal liste
 who? - ke jen  
 whole (entire) - holo  
 wholeness (integrity) - holota  
-wide (broad) - kuan  
+wide (broad) - guan  
 widow - vidou  
-width (breadth) - kuanta  
+width (breadth) - guanta  
 wife - ni per (fem)  
 wiki - viki  
 wiki article - viki makala  

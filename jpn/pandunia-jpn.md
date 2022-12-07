@@ -94,6 +94,7 @@ ayo - 痛い
 
 ## B  
 
+babuce - スリッパ  
 baca - 子供 (赤ちゃん)  
 badam - アーモンド (扁桃)  
 badan - 体  
@@ -911,8 +912,8 @@ krote - 田鼠
 kruasan - クロワッサン  
 krus arka - クロスボウ (石弓)  
 krus lin - 十字線  
-kuanga ja - 坑夫  
-kuanga xan - 鉱山  
+kuanja - 坑夫  
+kuan xan - 鉱山  
 kuarze - 石英  
 kube - 立方体  
 kudi - 肘  
@@ -1185,6 +1186,7 @@ neodim yum - ネオジム
 neon - ネオン  
 neputun yum - ネプツニウム  
 nerve toxi - 神経毒  
+nesi - 島  
 nete - 網  
 neu di - 新しい  
 neu jen - 初心者  

@@ -486,6 +486,7 @@ darmstádio - darmestadi yum
 de - de  
 dedo - angul  
 deitar - fa kux  
+deixar - laxa  
 deixar - laxe  
 delir (deletar) - deleta  
 demora (atraso, espera) - dele  
@@ -830,6 +831,7 @@ idoso - lau
 iglu - iglu  
 igual (par) - par  
 igual - sam  
+ilha - nesi  
 imigrante - in migra ja  
 imigrar - in migra  
 imitar (mimetizar) - mime  
@@ -914,7 +916,7 @@ krípton - kriton
 
 lado - late  
 ladrilho (telha, azulejo) - tail  
-ladrão - luta ja  
+ladrão - lutar  
 lagarto - saur  
 lago - lage  
 lama (lodo) - poto  
@@ -1078,13 +1080,13 @@ microscópio - mikroskope
 micróbio - mikro bio  
 migração - migra  
 milhete (painço) - dana.cau  
-mina - kuanga xan  
+mina - kuan xan  
 miragem - miraje  
 mirar (apontar) - fa dika  
 mirar - mira  
 mito - deu kata  
 modelar - fa forma  
-modo (maneira, jeito) - mode  
+modo (tipo) - mode  
 moeda - pesa diske  
 moenda (moinho) - molkan  
 moer - fa mol  

@@ -1129,7 +1129,7 @@ krom yum - chrome
 krote - taupe  
 kruasan - croissant  
 krus - croix  
-kuanga xan - mine  
+kuan xan - mine  
 kuarze - quartz  
 kube - cube  
 kudi - coude  
@@ -1167,6 +1167,7 @@ late di - latéral
 Latvia - Lettonie  
 lau - vieux (âgé, ancien)  
 laurence yum - lawrencium  
+laxa - lâcher (laisser)  
 laxe - laisser  
 lazanya - lasagne  
 lazur - azur  
@@ -1233,7 +1234,7 @@ luna - lune
 lunaden - lundi  
 luna keke - gâteau de lune  
 lung dou - pois carré  
-luta ja - brigand (bandit)  
+lutar - brigand (bandit)  
 Luter din - luthéranisme  
 Luter din ja - luthérien  
 lutesi yum - lutécium  
@@ -1351,7 +1352,7 @@ mision - misión
 misioner - misionero  
 Misri - Égypte  
 mitre - mètre  
-mode - mode (façon, manière)  
+mode - mode (type)  
 mogu - membrane  
 moka - arbre  
 moka bano - planche  
@@ -1426,6 +1427,7 @@ Neputun - Neptune
 neputun yum - neptunium  
 nerve selu - neurone  
 nerve toxi - neurotoxine  
+nesi - île  
 nete gete - télécharger  
 neu di - nouveau  
 neu jen - néophyte  

@@ -1749,8 +1749,10 @@ Guadelupe - Guadeloupe
 guai - odd (strange, weird, peculiar, bizarre)  
 Guam - Guam  
 guan - office (position)  
+guan - wide (broad)  
 guan di - official (pertaining to public trust)  
 guan ja - officer (bureaucrat, public servant)  
+guanta - width (breadth)  
 Guangjou - Guangzhou (Canton)  
 Guatemala - Guatemala  
 gubu - hippopotamus  
@@ -1941,7 +1943,7 @@ huke lin kane - fishing rod (fishing pole)
 huli - fox  
 humel - hop  
 humus - chickpea  
-humus sos - hummus  
+humus pasta - hummus  
 hura - cheer (hurrah, hooray, yay)  
 huru - free (unchained)  
 huru di - free (liberate)  
@@ -2495,13 +2497,11 @@ kruasan - croissant
 krus - cross  
 krus arka - crossbow (ballista)  
 krus lin - crosshair (reticle)  
-kuan - wide (broad)  
-kuanta - width (breadth)  
-kuanga - mineral (ore)  
-kuanga ja - miner  
-kuanga sui - mineral water  
-kuanga tunel - mineshaft  
-kuanga xan - mine  
+kuan - mineral (ore)  
+kuanja - miner  
+kuan sui - mineral water  
+kuan tunel - mineshaft  
+kuan xan - mine  
 kuarze - quartz  
 Kuba - Cuba  
 kube - cube  
@@ -2579,6 +2579,8 @@ lau - old (aged, elderly)
 lau di - Lao (Laotian)  
 lau jen - elder  
 laurence yum - lawrencium  
+laxa - loose (lax; loosen, let loose, let go)  
+• relaxa - relax   
 laxe - leave behind (abandon, let go)  
 laxe xe - leftover (residue, vestige)  
 lazanya - lasagna  
@@ -2711,7 +2713,7 @@ lung - dragon
 Lung Dexa - Bhutan  
 lung dou - winged bean  
 luta - rob (loot, plunder, pillage, ransack)  
-luta ja - robber (plunderer)  
+lutar - robber (plunderer)  
 Luter din - Lutheranism  
 Luter din ja - Lutheran  
 lutesi yum - lutetium  
@@ -2748,8 +2750,8 @@ makan hua - dandelion
 makas - scissors (shears)  
 Makau - Macao  
 makin - machine  
-makin li - mechanical  
 makinja - mechanic  
+makin li - mechanical  
 mal - property (belongings, possessions)  
 mal ja - owner (proprietor)  
 mal nomi - economics  
@@ -2990,7 +2992,7 @@ mitre - meter (100 cm)
 mixe - mix (blend)  
 mixe alkol - cocktail  
 mixe gi - mixer (blender)  
-mode - way (manner, mode)  
+mode - mode (type, pattern, state)  
 mode loge - adverb  
 model - model (design)  
 mogu - membrane (film)  

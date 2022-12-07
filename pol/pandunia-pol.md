@@ -1714,8 +1714,10 @@ Guadelupe - Gwadelupa
 guai - dziwny  
 Guam - Guam  
 guan - urząd, pozycja, stanowisko, funkcja  
+guan - szeroki  
 guan di - oficjalny  
 guan ja - funkcjonariusz, urzędnik  
+guanta - szerokość  
 Guangjou - Kanton  
 Guatemala - Gwatemala  
 gubu - hipopotam  
@@ -1906,7 +1908,7 @@ huke lin kane -
 huli - lis  
 humel - chmiel  
 humus - ciecierzyca  
-humus sos - hummus  
+humus pasta - hummus  
 hura - wiwatować (hura, jej)  
 huru - wolny, niepodległy, niezależny  
 huru di - uwolnić, uwalniać  
@@ -2461,13 +2463,11 @@ kruasan - croissant
 krus - krzyż  
 krus arka - kusza (balista)  
 krus lin - celownik optyczny (siatka lunety)  
-kuan - szeroki  
-kuanta - szerokość  
-kuanga - minerał, ruda  
-kuanga ja - górnik (kopacz)  
-kuanga sui - woda mineralna  
-kuanga tunel - szyb górniczy  
-kuanga xan - kopalnia  
+kuan - minerał, ruda  
+kuanja - górnik (kopacz)  
+kuan sui - woda mineralna  
+kuan tunel - szyb górniczy  
+kuan xan - kopalnia  
 kuarze - kwarc  
 Kuba - Kuba  
 kube - sześcian  
@@ -2545,6 +2545,8 @@ lau - stary (sędziwy, wiekowy)
 lau di - laotański  
 lau jen - starzec  
 laurence yum - lorens  
+laxa - rozluźnić (poluzować)  
+• relaxa -   
 laxe - pozostawiać (pozostawić)  
 laxe xe - pozostałość (szczątek)  
 lazanya - lazania  
@@ -2677,7 +2679,7 @@ lung - smok
 Lung Dexa - Bhutan  
 lung dou -   
 luta - obrabować, splądrować  
-luta ja - rabuś (grabieżca)  
+lutar - rabuś (grabieżca)  
 Luter din - luteranizm  
 Luter din ja - luterański  
 lutesi yum - lutet  
@@ -2714,8 +2716,8 @@ makan hua - mlecz
 makas - nożyce, nożyczki  
 Makau - Makau  
 makin - maszyna  
-makin li -   
 makinja -   
+makin li -   
 mal - własność (mienie)  
 mal ja - właściciel (posiadacz)  
 mal nomi - ekonomia  
@@ -2956,7 +2958,7 @@ mitre - metr
 mixe - miksować, mieszać  
 mixe alkol - koktajl  
 mixe gi - mikser, blender, robot kuchenny  
-mode - sposób (metoda, tryb)  
+mode - tryb  
 mode loge - przysłówek  
 model - model, wzór, wzorzec, projekt  
 mogu - błonka (membrana)  

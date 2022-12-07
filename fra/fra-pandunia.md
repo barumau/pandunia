@@ -305,7 +305,7 @@ boxeur - bocer
 bras - hanu xaka  
 brave - bravo  
 bravo! - bravo  
-brigand (bandit) - luta ja  
+brigand (bandit) - lutar  
 brique - dobe  
 brochette - xix  
 brome - brom  
@@ -1102,6 +1102,7 @@ luxure (libido) - kama
 lynx - linse  
 lys - susan  
 là (y) - a vo  
+lâcher (laisser) - laxa  
 léger - legu veze di  
 légume - yam fito  
 létal - letali  
@@ -1185,14 +1186,14 @@ miel - medu
 migration - migra  
 mil (millet) - dana.cau  
 mil éthiopien - tef  
-mine - kuanga xan  
+mine - kuan xan  
 minuit - medi noce  
 mirage - miraje  
 mirer - mira  
 miroir - mira plate  
 misionero - misioner  
 misión - mision  
-mode (façon, manière) - mode  
+mode (type) - mode  
 modeler - fa plasti  
 moine ou nonne - biku  
 mois - mes  
@@ -2131,5 +2132,6 @@ zéro - siro
 être - e  
 être couché - be kux  
 être humain - insan  
+île - nesi  
 œil - yen  
 럭비 - ragbi  

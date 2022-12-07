@@ -1017,7 +1017,7 @@ krote - крот
 kruasan - круассан  
 krus - крест  
 krus arka - самострел  
-kuanga xan - мина  
+kuan xan - мина  
 kuarze - кварц  
 kube - куб  
 kudi - локоть  
@@ -1107,7 +1107,7 @@ lumen - لُومِن‎
 luna - луна  
 lunaden - понедельник  
 luna keke - лунный пирог  
-luta ja - грабитель  
+lutar - грабитель  
 Luter din - лютера́нство  
 Luter din ja - лютеранский  
 lutesi yum - лютеций  
@@ -1123,8 +1123,8 @@ mahala - квартал
 majang - маджонг  
 majenta - маджента (фуксия)  
 makan hua - одуванчик  
-makin li - механический  
 makinja - механик  
+makin li - механический  
 mal nomi - экономика  
 malte - солод  
 maltos - мальтоза (солодовый сахар)  
@@ -1293,6 +1293,7 @@ neon - неон
 Neputun - Нептун  
 neputun yum - нептуний  
 nerve selu - нейрон  
+nesi - остров  
 neu - новинка (новь)  
 neu di - новый  
 neu jen - новичок  

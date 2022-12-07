@@ -116,6 +116,7 @@ ayo - 哎哟
 ## B  
 
 babu - 章  
+babuce - 拖鞋  
 baca - 小孩  
 badam - 杏仁 (巴旦木)  
 badan - 身体  
@@ -922,7 +923,7 @@ krote - 鼹鼠
 kruasan - 牛角包  
 krus arka - 弩 (十字弓)  
 krus lin - 十字线  
-kuanga xan - 矿场  
+kuan xan - 矿场  
 kuarze - 石英  
 kube - 立方体  
 kudi - 肘  
@@ -1010,7 +1011,7 @@ luna keke - 月饼
 lung - 龙  
 lung dou - 四棱豆  
 luta - 掠夺  
-luta ja - 强盗  
+lutar - 强盗  
 lutesi yum - 镥  
 
 ## M  
@@ -1107,6 +1108,7 @@ misije - 信息
 misioner - 传教士  
 Misri - 埃及  
 mitre - 米 (公尺)  
+mode - 模  
 mogu - 膜  
 moka - 树木  
 moka bano - 木板  
@@ -1179,6 +1181,7 @@ neodim yum - 钕
 neon - 氖  
 neputun yum - 镎  
 nerve toxi - 神经毒素  
+nesi - 岛  
 neu di - 新  
 neu jen - 新手  
 neu loga - 新词  

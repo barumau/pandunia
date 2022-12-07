@@ -96,7 +96,7 @@ agronomía - agri nomi
 agrícola - agri di  
 agua - sui  
 agua de lluvia - barxa sui  
-agua mineral - kuanga sui  
+agua mineral - kuan sui  
 aguacate - avakate  
 agujero (hueco) - kung  
 ahora mismo (justo) - a neu  
@@ -192,9 +192,9 @@ anaeróbico - anair bio di
 anal - anus di  
 analizar (análisis) - fen lize  
 anaranjado - oranje rang  
-ancho - kuan  
+ancho - guan  
 anchoa - ancovi  
-anchura - kuanta  
+anchura - guanta  
 anciano (señor) - sen  
 ancla - angar  
 andamiaje - fute bano  
@@ -1095,6 +1095,7 @@ defensa - defa
 defensor - defa ja  
 definir - fa sifa  
 degradar - dus gradu  
+dejar - laxa  
 dejar - laxe  
 dejar caer - fa pada  
 deleble - deletabil  
@@ -1885,7 +1886,7 @@ humor (gracia) - yumor
 humor - gamo hal  
 humorista - yumor ja  
 humorístico (gracioso, cómico) - yumor di  
-humus - humus sos  
+humus - humus pasta  
 Hungría - Magyar  
 huracán (tifón) - rota tufan  
 hurra (yupi) - hura  
@@ -2140,7 +2141,7 @@ laca - laka
 lado (flanco) - late  
 ladrillo - dobe  
 ladrón - cori ja  
-ladrón - luta ja  
+ladrón - lutar  
 lagarto - saur  
 lago - lage  
 lama - lama  
@@ -2492,9 +2493,9 @@ mili- - mili
 miligrama - mili gram  
 milimetre - mili mitre  
 millón (mega-) - mega  
-mina - kuanga xan  
-mineral (mena) - kuanga  
-minero - kuanga ja  
+mina - kuan xan  
+mineral (mena) - kuan  
+minero - kuanja  
 minimalismo - minim sim  
 ministerio - ministre ofis  
 ministro - ministre ja  
@@ -2514,7 +2515,7 @@ modelar - model
 modelo (similitud, simulación) - sam sifa xe  
 modelo - fa model  
 moderno - neu yang di  
-modo (manera, forma) - mode  
+modo (tipo) - mode  
 modo nocturno - noce mode  
 mojado - xipi  
 mojar - fa xipi  

@@ -1662,6 +1662,7 @@ Guadelupe - Guadeloupe
 guai - outo (kummallinen)  
 Guam - Guam  
 guan - virka (virka-asema)  
+guan - leveä  
 guan di - virallinen  
 guan ja - virkailija (virkamies)  
 Guangjou - Guangzhou (Kanton)  
@@ -1845,7 +1846,7 @@ huke lin kane - onkivapa
 huli - kettu  
 humel - humala  
 humus - kikherne  
-humus sos - hummus  
+humus pasta - hummus  
 hura - hurrata (hurraa, jee, jippii, hiphei)  
 huru - vapaa  
 huru di - vapauttaa  
@@ -2327,9 +2328,8 @@ krote - kontiainen (maamyyrä)
 kruasan - voisarvi (kroissantti)  
 krus - risti  
 krus lin - ristikko  
-kuan - leveä  
-kuanga - kivennäinen (mineraali)  
-kuanga sui - kivennäisvesi  
+kuan - kivennäinen (mineraali)  
+kuan sui - kivennäisvesi  
 Kuba - Kuuba  
 kube - kuutio  
 kudi - kyynärpää  
@@ -2395,6 +2395,8 @@ Latvia - Latvia
 Lau - Laos  
 lau di - laoslainen  
 laurence yum - lawrencium  
+laxa - löysä (löysätä, päästää menemään)  
+• relaxa - rentoutua (rentouttaa)  
 laxe - jättää (hylätä)  
 laxe xe - jäte (hylkytavara)  
 lazanya - lasagne  
@@ -2506,7 +2508,7 @@ lung - itämainen lohikäärme
 Lung Dexa - Bhutan  
 lung dou - siipipapu  
 luta - ryöstää (ryövätä)  
-luta ja - ryöväri (rosvo)  
+lutar - ryöväri (rosvo)  
 Luter din - luterilaisuus  
 Luter din ja - luterilainen  
 lutesi yum - lutetium  
@@ -2747,7 +2749,7 @@ misri di - egyptiläinen
 mitre - metri  
 mixe - sekoittaa  
 mixe gi - sekoitin  
-mode - tapa  
+mode - laatu (tila, moodi, tyyppi)  
 mode loge - adverbi  
 model - malli  
 mogu - kalvo (filmi)  

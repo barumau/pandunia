@@ -1001,6 +1001,7 @@
  - reflexir  
  - regrese  
  - rejete  
+ - relaxa  
  - remisi  
  - repar  
  - repele  
@@ -1835,7 +1836,7 @@ Gwinea - Konakri Ginia
 Gwinea Równikowa - Geo Par Lin Ginia  
 góra (szczyt) - gau  
 góra, wzgórze - xan  
-górnik (kopacz) - kuanga ja  
+górnik (kopacz) - kuanja  
 górny - supra di  
 gówno - xite  
 gąbka - esponje  
@@ -1918,7 +1919,7 @@ houstonia - serami sing
 humanista - insan sim ja  
 humanistyczny - insan sim di  
 humanizm - insan sim  
-hummus - humus sos  
+hummus - humus pasta  
 humor - yumor  
 humor (nastrój) - gamo hal  
 humorystyczny, śmieszny, zabawny, komiczny - yumor di  
@@ -2220,7 +2221,7 @@ konstytucja - baze kanun
 konto - hisabu loge  
 konwalia majowa - vali susan  
 konwencjonalny, zwyczajowy, tradycyjny - suna di  
-kopalnia - kuanga xan  
+kopalnia - kuan xan  
 kopać (dół, jama) - kava  
 kopać (wydobywać) - kape yo kuanga  
 kopernik - koperni yum  
@@ -2572,7 +2573,7 @@ miligram - mili gram
 milimetr - mili mitre  
 milion - mega  
 militarny, wojskowy, wojenny - jang di  
-minerał, ruda - kuanga  
+minerał, ruda - kuan  
 minimal - minim di  
 minimalizm - minim sim  
 minister - ministre ja  
@@ -3454,7 +3455,7 @@ płuco - pulmon
 płyta - tail  
 płyta tektoniczna - geo kaska plate  
 R - R  
-rabuś (grabieżca) - luta ja  
+rabuś (grabieżca) - lutar  
 rachunek (faktura) - fatura  
 rachunek (formalny system obliczeń) - kalkul  
 racjonalny, rozsądny - razon li  
@@ -3536,6 +3537,7 @@ rozciągać (rozciągnąć) - long tire
 rozdział, sekcja - babu  
 rozjaśnić - fa ming  
 rozkaz, komenda - amir  
+rozluźnić (poluzować) - laxa  
 rozmiar - daita  
 rozmnażać - gene yo hevan  
 rozmowny - loga tabi di  
@@ -3756,7 +3758,6 @@ spodziewany (przewidziany) - previde di
 spokojny - xanti di  
 sporokarp - fungu frute  
 sport, lekkoatletyka - esporte  
-sposób (metoda, tryb) - mode  
 spotkać (spotkanie, zebranie) - ajami  
 spowodować, powodować - fa sabu  
 społeczeństwo, system społeczny - sosi  
@@ -3872,8 +3873,8 @@ szczotka - broxa
 szczyt (wierzchołek) - xan pike  
 szef, kierownik - xefe  
 szeleścić - xaxa  
-szeroki - kuan  
-szerokość - kuanta  
+szeroki - guan  
+szerokość - guanta  
 szew - sutur  
 szewc - sapatu ja  
 sześcian - kube  
@@ -3908,7 +3909,7 @@ szuflada - tire sanduku
 szukać - soki  
 Szwajcaria - Suise  
 Szwecja - Suen  
-szyb górniczy - kuanga tunel  
+szyb górniczy - kuan tunel  
 szybki, prędki - suga  
 szyism - xia islam din  
 szympans - cimpanzi  
@@ -4049,6 +4050,7 @@ trudność (trud) - dus hal
 trwanie - dura  
 trwać, zająć czas; przez - be dura  
 trwały (wytrzymały, podtrzymywalny) - durabil  
+tryb - mode  
 tryb nocny - noce mode  
 Trynidad i Tobago - Trinidade i Tobago  
 trzcina cukrowa - sukre gana  
@@ -4294,7 +4296,7 @@ wkrótce - a korte
 wnieć wkład (przyczynić się) - fen don  
 wnętrze (środek) - in  
 woda - sui  
-woda mineralna - kuanga sui  
+woda mineralna - kuan sui  
 wodny - sui di  
 wodoodporny - sui sekur di  
 wodorosty - bahai alga  

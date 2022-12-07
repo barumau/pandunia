@@ -1257,7 +1257,7 @@ luga - verda
 luna - luno  
 lunaden - luno  
 luta - rabi  
-luta ja - rabisto  
+lutar - rabisto  
 lutesi yum - lutecio  
 
 ## M  
@@ -1270,8 +1270,8 @@ mahala - kvartalo
 majang - maĝango  
 makas - tondilo  
 makin - maŝino  
-makin li - meĥanika  
 makinja - meĥaniko (maŝinisto)  
+makin li - meĥanika  
 mal ja - havanto  
 mal nomi - ekonomiko  
 Mali - Malio  
@@ -1449,6 +1449,7 @@ neputun yum - neptunio
 nerve - nervo  
 nerve di - nerva  
 nerve selu - neŭrono  
+nesi - insulo  
 nete - reto  
 neu - novaĵo  
 neu di - nova  

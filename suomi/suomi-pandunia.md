@@ -774,7 +774,7 @@ humala - humel
 humanismi - insan sim  
 humanisti - insan sim ja  
 humanistinen - insan sim di  
-hummus - humus sos  
+hummus - humus pasta  
 humoristi - yumor ja  
 hunaja - medu  
 huokonen - pore  
@@ -1381,8 +1381,8 @@ kissa - mau
 kitapurje - boka vele  
 kitara - gitar  
 kitkerä (karvas) - kali guste  
-kivennäinen (mineraali) - kuanga  
-kivennäisvesi - kuanga sui  
+kivennäinen (mineraali) - kuan  
+kivennäisvesi - kuan sui  
 kivi (hippu) - ite  
 kivi (hippu) - seku  
 kivulias (tuskallinen) - pasi di  
@@ -1673,6 +1673,7 @@ laatikko - sanduku
 laatta (levy) - table  
 laatu (laadukkuus, erinomaisuus, hyvyys) - bon sifata  
 laatu (ominaisuus, ominaispiirre, määrite) - sifa  
+laatu (tila, moodi, tyyppi) - mode  
 laava - fuzi petra  
 Lagos - Lagos  
 lahja - don xe  
@@ -1764,7 +1765,7 @@ leski - vidou
 Lesoto - Soto  
 leveysaste - vei gradu  
 leveyspiiri - vei gola  
-leveä - kuan  
+leveä - guan  
 levottomuus (konflikti) - anpase  
 levä - alga  
 leväkasvusto - alga jangal  
@@ -1917,6 +1918,7 @@ lääke - dava xe
 lääkejuoma - dava sui  
 lääketiede - dava logi  
 lääkäri (tohtori) - dava ja  
+löysä (löysätä, päästää menemään) - laxa  
 löytää (keksiä) - eureka  
 
 ## M  
@@ -2970,6 +2972,7 @@ reissu (retki) - tur
 rei’ittää - fa kung  
 rengas (kehä) - ring  
 renium - ren yum  
+rentoutua (rentouttaa) - relaxa  
 repiä - cira  
 reportteri - reporter  
 reppu (rinkka) - ruke sake  
@@ -3059,7 +3062,7 @@ ryhmä - grupe
 rytmi - ritim  
 ryystää (hörpätä, ryypätä) - sorbe  
 ryöstää (ryövätä) - luta  
-ryöväri (rosvo) - luta ja  
+ryöväri (rosvo) - lutar  
 räjähdys (pamaus) - bum  
 räjähtää - be bum  
 
@@ -3528,7 +3531,6 @@ tapa (keino, menetelmä, menettely, metodi) - riti
 tapa (perinne) - suna  
 tapa (rutiini) - rutin  
 tapa - ada  
-tapa - mode  
 tapahtua (tapahtuma) - voku  
 tapaus (seikka) - kasu  
 tapetti - mur kaguji  

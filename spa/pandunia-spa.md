@@ -1487,8 +1487,10 @@ Guadelupe - Guadalupe
 guai - raro (extraño)  
 Guam - Guam  
 guan - cargo  
+guan - ancho  
 guan di - oficial  
 guan ja - funcionario  
+guanta - anchura  
 Guatemala - Guatemala  
 gubu - hipopótamo  
 gui - ogro (gnomo, trol, duende, trasgo)  
@@ -1659,7 +1661,7 @@ huke lin kane - caña de pesca
 huli - zorro  
 humel - lúpulo (hombrecillo)  
 humus - garbanzo  
-humus sos - humus  
+humus pasta - humus  
 hura - hurra (yupi)  
 huru - libre (horro)  
 huru di - liberar (soltar)  
@@ -2136,12 +2138,10 @@ kruasan - cruasán
 krus - cruz  
 krus arka - ballesta  
 krus lin - retículo  
-kuan - ancho  
-kuanta - anchura  
-kuanga - mineral (mena)  
-kuanga ja - minero  
-kuanga sui - agua mineral  
-kuanga xan - mina  
+kuan - mineral (mena)  
+kuanja - minero  
+kuan sui - agua mineral  
+kuan xan - mina  
 kuarze - cuarzo  
 Kuba - Cuba  
 kube - cubo  
@@ -2210,6 +2210,7 @@ lau - viejo (anciano)
 lau di - laosiano  
 lau jen - viejo (anciano)  
 laurence yum - laurencio  
+laxa - dejar  
 laxe - dejar  
 laxe xe - vestigio (sobrante, residuo)  
 lazanya - lasaña  
@@ -2323,7 +2324,7 @@ luna keke - pastel de luna
 lung - dragón  
 Lung Dexa - Bután  
 luta - saquear (desvalijar, robar)  
-luta ja - ladrón  
+lutar - ladrón  
 Luter din - luteranismo  
 Luter din ja - luterano  
 lutesi yum - lutecio  
@@ -2572,7 +2573,7 @@ mitre - metro
 mixe - mezclar  
 mixe alkol - cóctel  
 mixe gi - batidora (licuadora, mezcladora)  
-mode - modo (manera, forma)  
+mode - modo (tipo)  
 mode loge - adverbo  
 model - modelar  
 mogu - membrana  
