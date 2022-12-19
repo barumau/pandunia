@@ -12,7 +12,7 @@ a ye - 这里 (这儿)
 abies - 冷杉  
 acar - 腌菜  
 aci - 打喷嚏 (阿嚏)  
-acini yum - 锕  
+acinium - 锕  
 ada - 习惯 (风俗)  
 adamas - 钻石  
 adil - 公正地  
@@ -20,11 +20,11 @@ adilta - 正义
 adres - 地址  
 Afghan - 阿富汗  
 agile - 灵活的  
-agri bio logi - 土壤生物学  
+agrobiolojia - 土壤生物学  
+agronomia - 农学  
 agri deha - 农村  
-agri nomi - 农学  
 air - 空气  
-• anair bio di - 厌氧的  
+• anairobiike - 厌氧的  
 air ordu - 空军  
 air porto - 飞机场  
 ais - 冰  
@@ -32,6 +32,7 @@ ais hoki - 冰球
 ais krem - 冰淇淋  
 akare - 蜱 (螨)  
 akrabe - 蝎子 (天蝎座)  
+ale - 另一  
 alga - 藻类  
 alga fungu - 地衣  
 alga jangal - 海藻林  
@@ -41,7 +42,6 @@ alkin - 炔烃
 alkol - 酒  
 alkasus - 甘草 (国老)  
 almari - 碗碟橱  
-alo - 另一  
 alofa - 改變  
 alo fen di - 分开的  
 alpaka - 无峰驼  
@@ -50,7 +50,7 @@ ama - 但是 (不过)
 amen - 信赖  
 amenbil - 忠实  
 amen di - 诚实  
-amerika yum - 镅  
+amerikium - 镅  
 amide - 酰胺  
 amin - 胺  
 ancovi - 凤尾鱼  
@@ -64,7 +64,6 @@ anis - 茴芹
 anis araki - 阿剌吉  
 anjil - 信息  
 antena - 天线  
-antra - 肠子  
 anus - 肛门  
 aple - 苹果  
 aplika - 运用  
@@ -80,26 +79,26 @@ arka - 弓 (琴弓, 拱)
 arka cati - 拱顶  
 aroma - 气味  
 aroma melon - 香瓜  
-arsen yum - 砷  
+arsenium - 砷  
 arte fete intelige (AI) - 人工智能  
 arteja - 美术家  
 arte sanaja - 工匠 (匠人)  
-asal - 起源  
-asal di - 原始的  
 asar - 影响  
+asle - 起源  
+aslike - 原始的  
 asma - 气喘  
 asparge - 芦笋  
 astatin - 砹  
-astro - 天体  
-astro nave ja - 宇航员  
-astro nomi - 天文学  
-astro nomi ja - 天文学家  
-Athina - 雅典  
-ati - 作为 (行为)  
-• reati - 反应  
+astre - 天体  
+astronaver - 宇航员  
+astronomer - 天文学家  
+astronomia - 天文学  
 • reation - 反应  
-• ation - 行动  
-• ativi - 活性  
+• reate - 反应  
+ate - 作为 (行为)  
+ation - 行动  
+ative - 活性  
+Athina - 雅典  
 atlanti bakalau - 大西洋鱈  
 atlanti salmon - 大西洋鮭  
 atom bomba - 原子爆弹  
@@ -108,8 +107,8 @@ auro - 金
 Austronesi - 南岛  
 auto loga - 独白  
 ave - 燕麦  
-axa hin - 没有希望的  
 axe - 轴线  
+axa hin - 没有希望的  
 aya - 女仆 (阿姨)  
 ayo - 哎哟  
 
@@ -146,7 +145,7 @@ baku margarite - 法蘭西菊
 baku salmon - 大麻哈鱼 (狗鮭)  
 baku varis - 白米  
 • anbala - 虚弱 (易坏)  
-balakan - 体育馆  
+• - 体育馆  
 balata - 力  
 balaton - 重音符号  
 baluta - 橡树  
@@ -155,12 +154,12 @@ bamia - 秋葵
 banana - 香蕉  
 banda - 班  (一帮)  
 bandera - 旗  
-bankakan - 银行  
+bankekan - 银行  
 bano - 板子  
 bano geme - 版图游戏  
 banya - 洗澡  
 banya kamar - 浴室  
-bari yum - 钡  
+barium - 钡  
 baru - 熊  
 barxa - 雨  
 barxa cati - 伞  
@@ -175,16 +174,16 @@ batri - 电池
 bau bei - 伴侣 (宝贝)  
 bau di - 宝贵  
 bau seku - 宝石  
-baxa - 语言  
-• trabaxa - 翻译  
-baxa jinse - 文法的性  
-baxa logi - 语言学  
-baze strute - 基础设施  
-bazar - 市场  
+• trabaxe - 翻译  
+baxe - 语言  
+baxe jinse - 文法的性  
+baxe lojia - 语言学  
 baze - 底部  
 baze bol - 棒球  
-baze sim - 原理  
-baze xulakan - 小学  
+bazisme - 原理  
+baze strute - 基础设施  
+baze xulekan - 小学  
+bazar - 市场  
 be ais - 结冰  
 be biomute - 发酵  
 be boi - 漂浮  
@@ -210,23 +209,25 @@ ben doh - 孙女
 ben son - 孙儿  
 benzi - 锛子  
 beri - 浆果 (莓)  
-beril yum - 铍  
-berkli yum - 锫  
+berilium - 铍  
+berklium - 锫  
 bete - 甜菜頭  
 betula - 桦树  
+bier - 生物  
+biofizolojia - 生理学  
+biolojia - 生物学  
+biosistem - 生物群系  
+biotoxe - 毒素  
 bibre - 海狸 (河狸)  
 bici - 鞭子  
 bil - 会 (可能)  
 bil e - 也许 (或是, 可能)  
 bil ja - 熟练  
-bina - 建筑  
-bina plan - 建筑学  
-bina plan ja - 建筑师  
+bil ki - 也许 (或是, 可能)  
+bine - 建筑  
+bine plan - 建筑学  
+bine planer - 建筑师  
 bio jinse - 生物性別  
-bio logi - 生物学  
-bio sistem - 生物群系  
-bio toxi - 毒素  
-bioxe - 生物  
 bir - 啤酒  
 biskute - 饼干 (曲奇饼)  
 bismute - 铋  
@@ -279,7 +280,6 @@ cai camaca - 茶匙
 caikan - 茶馆  
 cai kupa - 茶碗  
 cai pote - 茶壶  
-cakra - 轮子  
 camaca - 匙子  
 cana - 刹那  
 cati - 屋顶 (房顶)  
@@ -290,9 +290,10 @@ ceka - 检查
 ceke - 支票  
 ceng - 层  
 ceng bede - 双层床  
-ceres yum - 铈  
+ceresium - 铈  
+• acesebilta - 無障礙環境  
 • sucese - 成功  
-cesi yum - 铯  
+cesium - 铯  
 ceti - 七 (7)  
 cetiden - 週  
 cian - 青色  
@@ -338,13 +339,14 @@ dara tubo - 漏斗
 data - 数据  
 data banke - 数据库  
 data culi - 数据处理  
-data culi logi - 计算机科学  
+data culi lojia - 计算机科学  
 data table - 表格  
 dava sui - 药水  
 dava xe - 药物  
 dava xekan - 药店  
-dava xelogi - 药理学  
+dava xe lojia - 药理学  
 de - 从  
+dee - 神  
 defa bano - 盾牌  
 defa kaska - 盔甲  
 deha - 村  
@@ -353,13 +355,12 @@ den - 日 (天)
 • preden - 昨日  
 den loge - 日记  
 des - 十  
-deu - 神  
 deu kata - 神话  
 deu nagar zi - 天城文  
 dexhanuka - 右利手 (右撇子)  
 dexa jen - 公民  
 dia - 白天  
-dika - 方向 (目的, 目标, 瞄准)  
+dike - 方向 (目的, 目标, 瞄准)  
 din - 宗教  
 din ja - 信徒  
 • andin ja - 不信神的  
@@ -372,7 +373,7 @@ diorite - 闪长岩
 dipe - 低  
 dipe moka - 灌木  
 diske - 圆盘  
-disprosi yum - 镝  
+disprosium - 镝  
 dobe - 砖  
 doh - 女儿  
 doh doh - 外孙女  
@@ -386,6 +387,7 @@ don xe ceke - 礼物卡
 dong - 东  
 dosil - 驯服的  
 dosti - 朋友 (友人)  
+drame - 戏剧  
 du - 二 (2)  
 dua - 祈祷  
 • dusdua - 诅咒  
@@ -404,24 +406,24 @@ dux - 淋浴
 ## E  
 
 e - 对  
-einstein yum - 锿  
+einsteinium - 锿  
 ekore - 松鼠  
 eletro lin - 电缆 (电线)  
 eletro radi - 闪电  
 elfe - 精灵  
 englix margarita - 雛菊  
-erbi yum - 铒  
-eskandi yum - 钪  
+erbium - 铒  
+eskandium - 钪  
 esponje - 海绵  
 estan - 锡  
-estibi yum - 锑  
-estronti yum - 锶  
+estibium - 锑  
+estrontium - 锶  
 etan - 乙烷  
 etanol - 乙醇  
 etil - 乙基  
 eu anjil - 福音  
+europium - 铕  
 europa baluta - 夏櫟  
-europa yum - 铕  
 
 ## F  
 
@@ -484,47 +486,48 @@ fate - 事实
 fatu - 惩罚  
 fatura - 帐单  
 fei gi tikete - 飞机票  
+feke - 粪  
 fen - 部分  
 fenil - 苯基  
 fen lize - 分析  
 fenol - 苯酚  
-fermi yum - 镄  
+fermium - 镄  
 fero - 铁  
-fete - 事实  
 • infete - 传染  
 • rifete - 重复  
+fete - 事实  
 filme - 电影 (影片)  
 filsofi - 哲学  
 fin - 了  
 fine - 窄 (薄, 稀疏)  
 fiorde - 峡湾  
 firuze - 绿松石  
-fito - 植物  
-fitologi - 植物学  
+fite - 植物  
+fitolojia - 植物学  
 fito yam sim ja - 素食主义者  
-fizika gi - 硬件  
+fizike gi - 硬件  
+fizolojia - 物理学  
 flece - 箭  
 flur - 氟  
 fluride - 氟化物  
 foli - 鳞  
 fonte kalam - 钢笔  
 fora - 钻孔  
-• dusforma - 变丑  
+• dusforme - 变丑  
 fosfe - 磷  
 fosfate - 磷酸盐  
-foto - 光  
-foto frike - 擦亮  
-foto grafi -  照片 (相片)  
-foto lin - 光线  
+fote - 光  
+fotografe -  照片 (相片)  
+fotoline - 光线  
 foto minar - 信号  
 foto mira di - 光泽  
-foto so - 光子  
-franse yum - 钫  
+foton - 光子  
+fransium - 钫  
 frasen - 白蜡树  
 frem - 框  
 frike - 擦伤  
-frutos - 果糖  
 frute - 果  
+frutos - 果糖  
 frute bagi - 果园  
 fufu - 富富  
 fuku - 衣服  
@@ -532,7 +535,8 @@ fuku vaxi gi - 洗衣机
 fulan - 某某  
 fun - 粉  
 fungu frute - 蘑菇  
-funsibil - 機能的  
+funtebil - 機能的  
+funtion - 函数  
 fute marke - 脚印  
 fuzi - 融化  
 fuzi petra - 熔岩  
@@ -544,12 +548,12 @@ ga - 去
 gabur - 坟墓 (埋葬)  
 gabur bagi - 公墓 (墓地)  
 gabur seku - 墓石 (墓碑)  
-gadolin yum - 钆  
+gadolinium - 钆  
+Galia - 高卢  
+galium - 镓  
 gala - 咽喉  
 galaxi - 恆星系  
 gali - 街路  
-gali yum - 镓  
-Galia - 高卢  
 galte - 错误  
 gamba - 虾  
 gamo hal - 心情  
@@ -570,6 +574,10 @@ gata glu bano - 剪贴板
 gati - 硬  
 gati mate - 固体  
 gau tehni - 高科技 (高技术)  
+geografia - 地理  
+geometria - 几何学  
+geopolitia - 地缘政治  
+geoterme - 地热的  
 gem - 剑  
 gem dau - 剑道  
 gem suta - 击剑  
@@ -577,11 +585,7 @@ gene di - 生的
 gene logu - 系谱学  
 gene tipe - 基因型  
 geo forme - 地势  
-geo grafi - 地理  
-geo metri - 几何学  
-geo politi - 地缘政治  
-geo termo - 地热的  
-german yum - 锗  
+germanium - 锗  
 gida - 导游  
 gida buku - 指南  
 gida ja - 导游  
@@ -628,8 +632,9 @@ habar - 消息
 habar letre - 实事通讯  
 habar media - 新闻媒体  
 Habaxa - 阿比西尼亚  
-hafen yum - 铪  
+hafenium - 铪  
 haha - 笑  
+haima - 帐篷  
 haki - 灰尘 (尘土)  
 haki rang - 卡其色  
 haku - 权利  
@@ -652,32 +657,32 @@ hata di - 连
 hatar - 危险  
 haxi - 筷子 (箸)  
 hei - 喂  
-heli yum - 氦  
-helis - 螺旋  
+helium - 氦  
 helis fei gi - 直升机  
+helix - 螺旋  
 hem - 深思 (考虑)  
-hema - 帐篷  
-hemi - 血  
-anhemi - 贫血  
-hemi globin - 血红蛋白  
+• anhemia - 贫血  
+heme - 血  
+hemoglobin - 血红蛋白  
 hemi selu - 血球  
 hepate - 肝脏  
 hero - 英雄 (勇士)  
 Hese - 黑森  
 hevan - 动物  
 hevan bagi - 动物园  
-hevan logi - 动物学  
+hevan lojia - 动物学  
 hidre - 氢  
 hidrate - 水合物  
 hidre peroxide - 过氧化氢  
 hidrargente - 汞  
 hijabu - 面纱  
-Hindi dexa - 印度斯坦  
+Hindocin - 中南半岛 (印度支那)  
+hindium - 铟  
+Hindestan - 印度斯坦  
 hindi raja - 拉贾  
 Hindi rivo - 印度河  
-hindi yum - 铟  
 hisabu loge - 账户  
-hisabu logi - 数学  
+hisabu lojia - 数学  
 hiyar - 黄瓜  
 hobi ja - 爱好者  
 hogo - 火  
@@ -685,7 +690,8 @@ hogo seku - 燧石
 hogo tehni - 烟火  
 hogo xan - 火山  
 hoki - 曲棍球  
-holme yum - 钬  
+holiste - 全面的 (全方位的)  
+holmium - 钬  
 hor - 小时  
 hor loga gi - 钟  
 hotel - 旅馆  
@@ -697,10 +703,13 @@ huke - 钩
 huke krus - 卍 (卐)  
 huke lin kane - 钓鱼竿  
 huli - 狐狸  
+human - 人类  
+humanisme - 人文主义  
+human hake - 人权  
 humel - 蛇麻草  
+hure - 自由的  
+huria - 自由  
 hura - 好哇  
-huru - 自由的  
-huruta - 自由  
 
 ## I  
 
@@ -708,14 +717,10 @@ i - 和
 iglu - 冰屋  
 iha uma - 骡  
 in bum - 内爆  
-in migra - 移民 (移居)  
-in migra ja - 移民者  
+intraje - 肠子  
 in verse jen - 内向的  
-insan - 人类  
-insan haki - 人权  
-insan sim - 人文主义  
 iode - 碘  
-iris yum - 铱  
+iridium - 铱  
 islam din - 回教 (伊斯蘭教)  
 ite - 石 (岩)  
 
@@ -734,7 +739,7 @@ jara - 罐 (瓶)
 jaru - 扫帚  
 jau - 大麦  
 javabu - 回答  
-jebu - 口袋 (荷包)  
+jebe - 口袋 (荷包)  
 jebu caku - 小刀  
 jeka - 借  
 jeka don - 借出  
@@ -761,7 +766,7 @@ jui di - 谨慎的
 jui note - 警告  
 jul - 焦耳 (J)  
 jumla - 句子  
-jumla logi - 句法学  
+jumla lojia - 句法学  
 jun - 年轻  
 jun bei - 后辈  
 jun jen - 年轻人  
@@ -772,9 +777,10 @@ jus - 汁
 ## K  
 
 ka - 比  
+kabile - 部落 (部族)  
 kable - 绳子  
 kaboga - 南瓜  
-kadim yum - 镉  
+kadimium - 镉  
 kafe - 咖啡  
 kafekan - 咖啡馆  
 kafe pote - 咖啡壶  
@@ -789,15 +795,15 @@ kalam sui - 墨水
 kalenda - 日历  
 kali - 碱性  
 kali guste - 苦的  
+kalium - 钾  
 kali melon - 苦瓜  
-kali yum - 钾  
-kaliforni yum - 锎  
+kalifornium - 锎  
 kalmar - 鱿鱼  
-kalsi bilor - 大理石  
-kalsi mate - 石灰  
-kalsi petra - 石灰岩  
-kalsi yum - 钙  
+kalside - 石灰  
 kalsite - 方解石  
+kalsium - 钙  
+kalsi bilor - 大理石  
+kalsi petra - 石灰岩  
 kam - 少  
 kama - 情欲  
 kama kanon - 欲经  
@@ -861,9 +867,9 @@ keton - 酮
 kexa broxa - 发刷  
 kexa hin - 无毛  
 keze - 酪 (起司)  
-kimi - 物质  
-kimi logi - 化学  
-kimi so - 元素  
+kime - 物质  
+kimeme - 元素  
+kimia - 化学  
 kimono - 和服  
 kinar - 边  
 kinar baryer - 篱笆  
@@ -901,8 +907,8 @@ kore ja - 跑步者
 korne melon - 刺角瓜  
 korte kata - 短篇小说  
 korte krokodil - 短吻鳄  
-kosmo - 宇宙  
-kosmo biologi - 太空生物学  
+kosme - 宇宙  
+kosmobiolojia - 太空生物学  
 kosmo di - 宇宙的  
 kosmo nave - 太空船  
 kosmo nave ja - 太空人  
@@ -918,7 +924,7 @@ krikete - 板球
 kriton - 氪  
 krokodil - 鳄  
 krokro - 蛙  
-krom yum - 铬  
+kromium - 铬  
 krote - 鼹鼠  
 kruasan - 牛角包  
 krus arka - 弩 (十字弓)  
@@ -928,10 +934,11 @@ kuarze - 石英
 kube - 立方体  
 kudi - 肘  
 kuku - 布谷鸟 (杜鹃)  
+kulture - 文化  
 kupa - 杯子  
 kupre - 铜  
 kurban - 牺牲  
-kuri yum - 锔  
+kurium - 锔  
 
 ## L  
 
@@ -953,7 +960,7 @@ lasun - 大蒜 (蒜头)
 late - 侧面 (旁边)  
 Latvia - 拉脱维亚  
 lau - 老 (老年, 年歲大)  
-laurence yum - 铹  
+laurencium - 铹  
 laxe - 落 (留下)  
 lazanya - 千层面  
 lazur petra - 青金岩  
@@ -979,15 +986,15 @@ limon oranje - 柑橘
 lin - 线  
 lin so - 纤维  
 linke - 联系 (关系)  
-linse - 猞猁 (山貓)  
+linxe - 猞猁 (山貓)  
+lipe - 脂肪  
 lipa bano - 架子 (搁板)  
 lipa baze - 架子  
 lipa side - 蹲  
-lipi - 脂肪  
 lipi cupu - 吸脂  
 lisan - 舌头  
 liste - 单子  
-lito yum - 锂  
+litium - 锂  
 litre - 升  
 loge - 纪录  
 loge buku - 航海日志  
@@ -1006,13 +1013,14 @@ luba di - 亲爱的
 lubar - 恋人 (情人, 爱人)  
 luga - 绿色  
 luka - 六 (6)  
+lumize - 擦亮  
 lunaden - 星期一 (禮拜一)  
 luna keke - 月饼  
 lung - 龙  
 lung dou - 四棱豆  
 luta - 掠夺  
 lutar - 强盗  
-lutesi yum - 镥  
+lutesium - 镥  
 
 ## M  
 
@@ -1020,7 +1028,7 @@ ma - 妈妈
 ma ma - 外婆 (外祖母)  
 ma pa - 外公 (外祖父)  
 ma sis - 姨  
-magen yum - 镁  
+magenium - 镁  
 magi bala - 魔力  
 magi ja - 魔法师  
 Magribi dexa - 摩洛哥  
@@ -1077,7 +1085,7 @@ meita - 美丽
 melon - 厚皮甜瓜 (蜜瓜)  
 memo - 记忆 (记性)  
 • anmemo - 忘记  
-mendelef yum - 钔  
+mendelevium - 钔  
 meninge - 脑脊膜  
 meranti - 娑羅屬  
 merkurden - 星期三 (禮拜三)  
@@ -1094,8 +1102,10 @@ mi - 我
 mimen - 我们  
 mimen su - 我们的  
 mien - 面条  
-mikro bio - 微生物   
-mikro biologi - 微生物学  
+• inmigre - 移民 (移居)  
+• inmigrer - 移民者  
+mikrobiolojia - 微生物学  
+mikrobie - 微生物   
 mikroskope - 显微镜  
 milke kardon - 水飞蓟  
 mime - 模拟  (模仿)  
@@ -1103,8 +1113,8 @@ minta - 薄荷
 miraje - 海市蜃楼  
 mira plate - 镜子  
 mirde - 微弱的  
-• konmisia - 委员会  
-misije - 信息  
+• konmisea - 委员会  
+misaje - 信息  
 misioner - 传教士  
 Misri - 埃及  
 mitre - 米 (公尺)  
@@ -1154,12 +1164,14 @@ nam - 名
 nam hin - 无名  
 nam kitaba - 签署  
 nama - 肉  
-narko - 毒品 (麻醉. 麻药 )  
-• posnati - 产后  
-• prenati - 产前  
-natia medi - 国际  
-nati baxa - 母语  
-nati loka - 出生地  
+narke - 毒品 (麻醉. 麻药 )  
+narkose - 症  
+• internasial - 国际  
+• posnatal - 产后  
+• prenatal - 产前  
+natal lingue - 母语  
+nateloke - 出生地  
+nature - 性质  
 natri - 钠  
 nau - 脑  
 nau di - 大脑的  
@@ -1177,9 +1189,9 @@ nekro tomi - 尸检
 nelu - 四 (4)  
 nen - 年  
 nen mes den - 年月日  
-neodim yum - 钕  
+neodimium - 钕  
 neon - 氖  
-neputun yum - 镎  
+neputunium - 镎  
 nerve toxi - 神经毒素  
 nesi - 岛  
 neu di - 新  
@@ -1196,7 +1208,7 @@ nil elfe - 蓝精灵
 nil kentaur hua - 矢車菊  
 nil serami sing - 茜草花  
 nilon - 尼龙  
-niobi yum - 铌  
+niobium - 铌  
 Nipon - 日本  
 nitre - 氮  
 nitrate - 硝酸鹽  
@@ -1204,7 +1216,7 @@ nitril - 腈
 nix - 壁龛  
 no - 不  
 no a lin - 离线  
-nobel yum - 锘  
+nobelium - 锘  
 noce - 夜  
 Noe - 诺亚  
 Noe di nave - 诺亚方舟  
@@ -1232,7 +1244,7 @@ orkide - 兰花
 orto - 直  
 oselote - 虎貓  
 osidian - 黑曜岩  
-osmi yum - 锇  
+osmium - 锇  
 oste jama - 骨骼  
 oxe - 氧  
 oxide - 氧化物  
@@ -1244,10 +1256,10 @@ pa ma - 奶奶 (祖母)
 pa pa - 爷爷 (祖父)  
 pa sis - 姑  
 paci - 鸟 (雀)  
-paci logi - 鸟类学  
+paci lojia - 鸟类学  
 pagri - 包头  
 pai - 馅饼  
-paladi yum - 钯  
+paladium - 钯  
 pan demi pati - 大流行病  
 pan mime - 哑剧  
 pan un - 每  
@@ -1274,13 +1286,13 @@ pase sim ja - 和平主义者
 pasi - 疼痛  
 pasporte - 护照  
 pasta petra - 岩漿  
-pati gene xe - 病原体  
+patogener - 病原体  
+patekan - 医院  
+patolojia - 病理学  
+patomise - 传染  
 pati jen - 患者 (病患)  
-patikan - 医院  
-pati logi - 病理学  
-pati mise - 传染  
 pau gi - 手枪  
-payaco - 小丑  
+payace - 小丑  
 pede - 屁  
 pei kar - 职业  
 • propeler - 螺旋桨  
@@ -1317,12 +1329,12 @@ plate geo kaskalogi - 板块构造论
 plate stan - 平原  
 platin - 铂  
 plumbe - 铅  
-pluton yum - 钚  
+plutonium - 钚  
 Polinesi - 波利尼西亚  
-politi - 政府  
+polite - 政府  
 politi lona - 政治  
 politi mode - 政体  
-polska yum - 钋  
+polskium - 钋  
 pompe tapa - 活塞  
 ponte pin - 指南针  
 porei - 韭葱  
@@ -1335,14 +1347,14 @@ poto - 坭
 poto defa bano - 挡泥板  
 poto stan - 沼泽  
 poyu - 虱子  
-prazedim yum - 镨  
+prazedimium - 镨  
 pre - 以前  
 prese - 压力  
 problem - 问题 (难题)  
 program - 计划  
 program gi - 软件  
-promete yum - 钷  
-protacini yum - 镤  
+prometium - 钷  
+protacinium - 镤  
 puding - 布丁  
 pujakan - 寺庙  
 puja meza - 圣坛  
@@ -1359,17 +1371,18 @@ Putong Han - 普通话
 
 ## R  
 
-radi yum - 镭  
+radium - 镭  
 radon - 氡  
 rai - 意见 (见解)  
 rajanan - 王  
+rakete lanser - 火箭筒  
 rakun - 浣熊  
 rang arka salmon - 虹鱒  
 rang mate - 染料  
 rasa - 种族  
 ratibu - 常规 (次序)  
 Ren - 莱茵河  
-ren yum - 铼  
+renium - 铼  
 retro gula - 呕吐  
 retro gula sense - 恶心  
 retro note - 反馈  
@@ -1380,29 +1393,29 @@ riti - 方法
 ritim - 节奏  
 rivo - 河 (江)  
 rode - 玫瑰  
+rodium - 铑  
 rode salmon - 粉紅鮭  
-rode yum - 铑  
+roke musike - 摇滚乐  
 roke kursi - 摇椅  
-roke muzika - 摇滚乐  
-rokete lanse gi - 火箭筒  
 Roma - 罗马  
 roma kamil - 果香菊  
+rote - 轮子  
 rota leu - 反时针方向的  
 rota tufan - 飓风 (台风)  
 rota vanu gi - 陀螺  
 rubi - 红  
 rubi bau seku - 红宝石  
+rubium - 铷  
 rubi linse - 短尾貓  
 rubi oranje - 柑橘 (红橘)  
 rubi salmon - 紅鮭  
-rubi yum - 铷  
 ruhu mixe di - 困惑 (混乱)  
-rus yum - 钌  
+rusium - 钌  
 
 ## S  
 
 sabi - 会  
-sablu - 沙  
+sable - 沙  
 sabun - 肥皂  
 saf - 干净  
 • ansaf - 脏  
@@ -1413,22 +1426,22 @@ sahi - 正确
 saide - 狩猎  
 saide ja - 狩人  
 sal - 你好  
+sale - 健康  
 salta - 福利 (福祉)  
 sala - 大厅  
-salu - 健康  
 saludo - 健康  
 saluta - 健康  
 sam - 一样  
 sam bei - 同辈  
-sam metri - 对称  
+sammetria - 对称  
 sam rai - 一致  
 sam sifa xe - 模型  
 sama - 天空  
 sama hal - 天气  
 sama kinar - 地平线  
-samari yum - 钐  
+samarium - 钐  
 san - 知道 (晓得)  
-san logi - 认识论 (知识论)  
+san lojia - 认识论 (知识论)  
 san vol - 趣  
 san vol di - 有趣  
 san vol ja - 好奇  
@@ -1442,12 +1455,12 @@ saur - 蜥蜴
 se di - 自私  
 semen - 彼此  
 seku - 石 (岩)  
-selen yum - 硒  
-selu logi - 细胞学  
+selenium - 硒  
+selu lojia - 细胞学  
+semolojia - 语义学  
 seme - 种  
 seme dana - 种子  
 seme di - 种子的  
-semi logi - 语义学  
 sen bei - 先辈 (前辈)  
 sen sis - 姐姐 (jiějie)  
 seng - 生的  
@@ -1456,10 +1469,11 @@ sense - 感觉
 sense xaka - 觸手  
 sento - 百  
 sento nen - 世纪  
+ser - 连结  
+seria - 系列  
+serser - 链 (链条)  
 serami - 陶瓷  
-seri - 系列  
-serime - 连结  
-sexe logi - 性学  
+sexolojia - 性学  
 si - 如果 (要是)  
 side loka - 座部 (马鞍)  
 sifa loga - 形容词  
@@ -1527,19 +1541,19 @@ tabi - 特性 (生性)
 table komputa - 平板电脑  
 tail - 砖 (瓦)  
 tala - 锁  
-tali yum - 铊  
+talium - 铊  
 tami - 贪婪的  
 tana - 茎 (梗)  
-tantal yum - 钽  
+tantalium - 钽  
 tasa - 盘 (碟)  
-taxe nomi - 分类学  
-taxi metri gi - 计程器  
+taxonomia - 分类学  
+taximetrer - 计程器  
 taxi vala - 出租车司机  
 taza - 新鲜的  
 tef - 苔麸  
-tehni - 技术  
-tehni logi - 工艺学  
-tehni yum - 锝  
+tehne - 技术  
+tehnetium - 锝  
+tehnolojia - 工艺学  
 tela - 布料  
 tela gi - 织机  
 tele fon - 电话机  
@@ -1547,11 +1561,10 @@ tele fon bude - 电话亭
 tele fon lin - 电话线  
 tele vide gi - 电视机  
 teleskope - 望远镜  
-telu yum - 碲  
+telurium - 碲  
 tema - 主题目  
 tema nam - 标题  
-tene fasilta - 無障礙環境  
-terbi yum - 铽  
+terbium - 铽  
 terca - 斜的  
 teror sim - 恐怖行为  
 teze - 论据  
@@ -1563,7 +1576,7 @@ tire yo milke - 拉
 tire yo pil - 削 (刮去)  
 tis - 炎症  
 tisa - 九 (9)  
-titan yum - 钛  
+titanium - 钛  
 tix - 噓  
 tix - 安静  
 tixta - 沉默  
@@ -1574,16 +1587,18 @@ tomate - 西红柿
 • jivatomi - 活体解剖  
 topo grafi - 地形  
 topo metri grafi - 地图  
-tor yum - 钍  
+torium - 钍  
 tore - 塔 (塔楼)  
-toxilogi - 毒物学  
+toxolojia - 毒物学  
 transe vide di - 透明的  
 trate - 拖  
 trater - 拖拉机 (铁牛)  
 trati - 合同 (合约)  
 tre - 很 (太)  
+tren - 火车 (列车)  
 tren tikete - 火车票  
 tri - 三 (3)  
+trigonometria - 三角法  
 tri pike - 三叉戟  
 truke - 伎俩  
 tu - 你  
@@ -1592,7 +1607,7 @@ tumen su - 你们的
 tumimen - 咱们  
 tuale kaguji - 卫生纸  
 tuale kamar - 厕所  
-tule yum - 铥  
+tulium - 铥  
 tulpan - 郁金香  
 tuna - 金枪鱼  
 turbin - 涡轮机  
@@ -1611,7 +1626,7 @@ un mar - 一次 (一遍)
 unta - 团结 (统一)  
 un ta liga - 合并  
 un zai di - 独自的 (孤单)  
-uran yum - 铀  
+uranium - 铀  
 
 ## V  
 
@@ -1631,7 +1646,7 @@ vali susan - 鈴蘭
 valse - 华尔兹  
 valu - 价值  
 vampir - 吸血鬼  
-vanadi yum - 钒  
+vanadium - 钒  
 vanu - 娱乐  
 vari - 各种各样  
 varis - 米  
@@ -1745,8 +1760,8 @@ yogur - 酸奶 (优格)
 you - 幼稚  
 you nen - 幼年  
 yurta - 穹庐  
-yuter yum - 钇  
-yuterbi yum - 镱  
+yuterium - 钇  
+yuterbium - 镱  
 
 ## Z  
 
@@ -1761,7 +1776,7 @@ zi - 字
 zi seri - 字母表  
 zinke - 锌  
 zira - 孜然  
-zirkon yum - 锆  
+zirkonium - 锆  
 zoku - 还 (依然)  
 zukraden - 星期五 (禮拜五)  
 zuku - 民族  

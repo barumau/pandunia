@@ -2,19 +2,19 @@
 
 | baxa  | nume  | fen |
 |-------|-------|-----|
-| pan | 1682 | 100% |
+| pan | 1680 | 100% |
 | english | 1141 | 68% |
 | espanya | 1041 | 62% |
 | portugal | 997 | 59% |
-| france | 991 | 59% |
-| rus | 869 | 52% |
-| hindi | 758 | 45% |
-| nipon | 687 | 41% |
-| malayu | 624 | 37% |
-| turki | 522 | 31% |
-| arabi | 509 | 30% |
-| chosen | 505 | 30% |
-| putonghan | 458 | 27% |
-| bangla | 458 | 27% |
-| suahili | 456 | 27% |
+| france | 993 | 59% |
+| rus | 868 | 52% |
+| hindi | 757 | 45% |
+| nipon | 688 | 41% |
+| malayu | 619 | 37% |
+| turki | 524 | 31% |
+| arabi | 513 | 31% |
+| chosen | 509 | 30% |
+| putonghan | 460 | 27% |
+| bangla | 459 | 27% |
+| suahili | 457 | 27% |
 | viet | 317 | 19% |

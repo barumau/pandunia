@@ -11,7 +11,7 @@ a ye - здесь (тут)
 abies - пихта  
 acar di - марино́ванный  
 aci - чихать  
-acini yum - актиний  
+acinium - актиний  
 ada - обычай (привычка)  
 adamas - алмаз (бриллиант)  
 adil - справедливый  
@@ -19,13 +19,13 @@ adilta - справедливость
 adres - адрес  
 Afghan - Афганистан  
 agile - подвижный  
-agri - выращивать  
-agri bio logi - агробиология  
-agri di - аграрный  
-agri nomi - агрономия  
+agre - выращивать  
+agral - аграрный  
+agrobiolojia - агробиология  
+agronomia - агрономия  
 aha - ага  
 air - воздух  
-air bio di - аэробный  
+airobiike - аэробный  
 air ordu - военно-воздушные силы  
 air porto - аэропорт  
 ais hoki - хокке́й с ша́йбой  
@@ -33,6 +33,7 @@ ais krem - мороженое
 akare - клещ (лепта)  
 akasia - акация  
 akrabe - скорпион  
+ale - другой (второй)  
 alga - водоросли  
 alga fungu - лишай  
 alga jangal - лес водорослей  
@@ -43,7 +44,6 @@ alkin - алкин
 alkol - алкоголь  
 alkasus - солодка (лакрица)  
 almari - шкаф  
-alo - другой (второй)  
 alofa - изменять  
 alo fen di - раздельный  
 alpaka - альпака  
@@ -53,7 +53,7 @@ amen - доверять (понадеяться)
 amenbil - верный  
 amenbilta - верность  
 amen di - честный (правдивый)  
-amerika yum - америций  
+amerikium - америций  
 amide - амид  
 amir lin - командная строка  
 ancovi - анчоус (хамса)  
@@ -67,7 +67,6 @@ anis - анис
 anis araki - арак (ракы)  
 anjil - месседж  
 antena - антенна  
-antra - внутренности  
 anus - анус  
 aple - яблоко  
 aple sos - яблочное пюре  
@@ -84,29 +83,29 @@ arka - лук (арка)
 arka cati - свод  
 arka ja - лучник  
 aroma - запах (аромат)  
-arsen yum - мышьяк  
+arsenium - мышьяк  
 arte fete - артефакт  
 arte fete intelige (AI) - искусственный интеллект  
 arteja - художник (артист)  
-asal - начало (причина)  
-asal Amerka jen - инде́йский  
 asan - поза  
 asar - эффект  
+asle - начало (причина)  
+aslamerikan - инде́йский  
 asma - астма  
 asparge - спаржа  
 astatin - астат(ин)  
-astro - небесное тело  
-astro nave - звездолёт  
-astro nave ja - астронавт  
-astro nomi - астрономия  
-astro nomi ja - астроном  
-Athina - Афины  
-ati - действие (акт)  
-• reati - реагировать  
+astre - небесное тело  
+astronave - звездолёт  
+astronaver - астронавт  
+astronomer - астроном  
+astronomia - астрономия  
 • reation - реакция  
-• ation - действие (акция)  
-• atir - деятель  
-• ativi - активный (деятельный)  
+• reate - реагировать  
+ate - действие (акт)  
+ater - деятель  
+ation - действие (акция)  
+ative - активный (деятельный)  
+Athina - Афины  
 atlanti bakalau - Атлантическая треска  
 atlanti salmon - Атлантический лосось (сёмга)  
 atom bomba - атомная бомба  
@@ -114,13 +113,13 @@ atom kerne - атомное ядро
 atom vuki - атомное оружие  
 auro - золото  
 Austronesi - Австронезия  
+auter - автор  
 auto loga - монолог  
-autor - автор  
 avar - повреждение (авария)  
 ave - овёс  
+axe - ось  
 axa - надеяться (чаять)  
 axa hin - безнадёжный  
-axe - ось  
 
 ## B  
 
@@ -141,8 +140,8 @@ bahai hiyar - голотурия (морские огурц)
 bahai hua - морские анемоны  
 bahai ordu - военно-морской флот  
 bahai vala - моряк  
-baka ja - хлебопёк (пекарь)  
-bakakan - пекарня (булочная)  
+baker - хлебопёк (пекарь)  
+bakeria - пекарня (булочная)  
 baka poto - терракота  
 baki - остаток  
 baku - белый  
@@ -158,17 +157,17 @@ bamia - окра (бамия)
 banana - банан  
 banda - банда  
 bandera - флаг  
-bankakan - банк  
-banka rute - банкрот  
+bankekan - банк  
+bankrute - банкрот  
 bano - доска (панель)  
 bano geme - настольная игра  
 banya - купание  
 banya kamar - ванная  
+barium - барий  
 bar vala - бармен  
 bara - преграждать  
 bara mur - барьер  
 barde - борода  
-bari yum - барий  
 baru - медведь  
 barxa - дождь  
 barxa cati - зонтик  
@@ -183,17 +182,17 @@ batri - батарея
 bau - сокровище (казна)  
 bau di - драгоценный  
 bau seku - драгоценный камень  
-baxa - язык  
-• dubaxaka - двуязычный  
-• polibaxaka - многоязычный  
-• trabaxa - перевод  
-baxa jinse - род в грамматике  
-baze strute - инфраструктура  
-bazar - рынок (базар)  
+• dubaxike - двуязычный  
+• polibaxike - многоязычный  
+• trabaxe - перевод  
+baxe - язык  
+baxe jinse - род в грамматике  
 baze - основа (база,  фундамент)  
 baze bol - бейсбол  
-baze sim - принцип  
-baze xulakan - семилетка  
+bazisme - принцип  
+baze strute - инфраструктура  
+baze xulekan - семилетка  
+bazar - рынок (базар)  
 be biomute - заквасить  
 be boi - плавать  
 be bum - взрываться  
@@ -224,24 +223,25 @@ ben doh - внучка
 ben son - внук  
 benzi - тесло (дексель)  
 beri - ягода  
-beril yum - бериллий  
-berkli yum - берклий  
+berilium - бериллий  
+berklium - берклий  
 bete - свёкла  
 betula - берёза  
+bie - органический  
+bier - организм  
+biolojia - биология  
+biosistem - биом  
+biotoxe - токсин  
 bibre - бобр  
 bil - возможный  
 bil e - может быть  
+bil ki - может быть  
 bilor - кристалл  
-bina - строение  
-bina plan - архитектура  
-bina plan ja - архитектор  
-bio - органический  
+bine - строение  
+bine plan - архитектура  
+bine planer - архитектор  
 bio jinse - биологический пол  
-bio logi - биология  
 bio sana xe - компост  
-bio sistem - биом  
-bio toxi - токсин  
-bioxe - организм  
 bir - пиво  
 biskute - печенье (бисквит)  
 bismute - висмут  
@@ -257,7 +257,7 @@ bolte - болт
 bomba - бомба  
 bon - хороший  
 bon sin di - благоприятный  
-bor yum - борий  
+borium - борий  
 boron - бор  
 botel - бутылка  
 botel tapa - крышка  
@@ -298,7 +298,6 @@ cai camaca - ложечка (чайная ложка)
 caikan - чайная (чайхана)  
 cai kupa - чайная чашка  
 cai pote - чайник  
-cakra - колесо  
 camaca - ложка  
 canse - возможность (шанс)  
 carme - шарм  
@@ -311,12 +310,14 @@ ceke - чек
 ceng bede - двухъярусная кровать  
 • excepe - выгнать (исключить, кроме)  
 • intercepe - перехватывать  
-ceres yum - церий  
+ceresium - церий  
 ceri - черешня  
 • acese - доступ  
+• acesebil - доступный  
+• acesebilta - доступность  
 • precese - предшествовать  
 • sucese - преуспеть  
-cesi yum - цезий  
+cesium - цезий  
 ceti - семь (7)  
 cian - циан  
 cili - перец (паприка)  
@@ -359,32 +360,32 @@ Danske - датский
 dante baluta - дуб зубчатый  
 dante hin - беззубый  
 dara tubo - воронка  
-darmestadi yum - дармштадтий  
+darmestadium - дармштадтий  
 data - данные  
 data banke - база данных  
 data culi - обработка данных  
-data culi logi - информатика  
+data culi lojia - информатика  
 dau bano - табличка с названием улицы  
 dava - лечить  
 dava ja - врач (медик, лекарь, доктор)  
 dava sui - зелье  
 dava xe - лекарство  
 dava xekan - аптека  
-dava xelogi - фармакология  
+dava xe lojia - фармакология  
 de - из (от)  
+dee - бог  
+deosofia - теософия  
 defa bano - щит  
 defa kaska - доспехи  
 deha - деревня (село)  
 den - день (сутки)  
 • preden - вчера  
 den loge - дневник  
-deu - бог  
 deu kata - миф  
 deu nagar zi - деванагари  
-deu sofi - теософия  
 dia - день  
 dia foto - дневной свет  
-dika - направить (нацелить; цель)  
+dike - направить (нацелить; цель)  
 din - религия (вера)  
 din ja - верующий  
 • andin ja - неверующий  
@@ -398,7 +399,7 @@ dipe megi - туман
 dipe moka - куст  
 dipe tela - ковёр  
 diske - диск  
-disprosi yum - диспрозий  
+disprosium - диспрозий  
 dobe - кирпич  
 doh - дочь  
 dokumen - документ  
@@ -417,11 +418,12 @@ dong gorila - восточная горилла
 dosil - кроткий  
 dosti - друг (приятель)  
 dosti di - приятный (добрый)  
+drame - пьеса (драма)  
 du - два (2)  
 du baxa di - двуязычный  
 du o tri - пара  
 • dusdua - проклятие (анафема)  
-dubna yum - дубний, ²нильсборий  
+dubnium - дубний, ²нильсборий  
 dudu - насекомое  
 dugu - читать  
 duna - дюна  
@@ -433,28 +435,28 @@ dura zaman - период (эпоха)
 dus jen - враг (противник)  
 dus sin di - зловещий  
 dus vide - безобразный (некрасивый)  
-• posprodute - завершающий этап создания  
+• posprodution - завершающий этап создания  
 dux - душ  
 
 ## E  
 
 e - быть  
-einstein yum - эйнштейний  
+einsteinium - эйнштейний  
 eko nati di - дикий  
 ekore - белка  
 eletro lin - провод (кабель)  
 eletro radi - молния  
 elfe - эльф  
 englix margarita - маргаритка многоле́тняя  
-erbi yum - эрбий  
-eskandi yum - скандий  
+erbium - эрбий  
+eskandium - скандий  
 eskulte ja - скульптор  
 esponje - губка  
 esporte - спорт  
 estan - олово  
 estasi grafi - кадр  
-estibi yum - сурьма  
-estronti yum - стронций  
+estibium - сурьма  
+estrontium - стронций  
 estude - этюд  
 estude ja - студент  
 etan - этан  
@@ -462,8 +464,8 @@ etanol - этанол
 etil - этил  
 eu anjil - евангелие  
 eu loga - панегирик  
+europium - европий  
 europa baluta - дуб черешчатый  
-europa yum - европий  
 
 ## F  
 
@@ -551,48 +553,48 @@ fen - parte
 fen lize - анализировать (анализ)  
 fenol - фенол  
 • prefere - предпочитать  
-fermi yum - фермий  
+fermium - фермий  
 fero - железо  
-fete - факт  
 • exfete - эффект  
 • infete - инфекция  
 • parafete - побочный эффект  
 • rifete - повторять  
+fete - факт  
 feter - фактор  
 filme - фильм (кинокарти́а)  
 filsofi - философия  
 fine - тонкий (узкий)  
 fiorde - фьорд  
 firuze - бирюза  
-fito - растение  
-fitologi - ботаника  
+fite - растение  
+fitolojia - ботаника  
 fito yam sim ja - вегетарианец  
-fizika gi - аппаратное обеспечение  
+fizike gi - аппаратное обеспечение  
+fizolojia - физика  
 flece - стрела (стрелка)  
-flerof yum - флеровий  
+flerovium - флеровий  
 flur - фтор  
 fluride - фторид  
 foli - чешуя  
 fonte kalam - авторучка  
 for - прочь (вон)  
 fora - сверлить (бурить)  
-• dusforma - уродовать  
-• konforma - применяться (согласоваться)  
+• dusforme - уродовать  
+• konforme - применяться (согласоваться)  
 fosfe - фосфор  
 fosfate - фосфат  
-foto - свет  
-foto frike - полировать  
-foto grafi suta - фотография  
+fote - свет  
+fotografia - фотография  
 foto mata di - матовый  
 foto minar - маяк  
 foto mira di - глянцевый  
-foto so - фотон  
-franse yum - франций  
+foton - фотон  
+fransium - франций  
 frasen - ясень  
 frem - рама  
 frike - царапать  
-frutos - фруктоза  
 frute - плод (фрукт)  
+frutos - фруктоза  
 frute bagi - фруктовый сад  
 fufu - мякоть (пульпа, фуфу)  
 fuku - одежда  
@@ -600,6 +602,9 @@ fuku di - оде́тый
 fuku vaxi gi - стиральная машина  
 fun - порошок (пудра)  
 fungu frute - гриб  
+• konfunte - функционировать совместно  
+funte - функционировать  
+funtion - функция  
 fute bol - футбол  
 fute marke - след ноги  
 
@@ -609,12 +614,12 @@ ga - идти
 gabur - могила (гроб, хоронить)  
 gabur bagi - кладбище  
 gabur seku - надгробие  
-gadolin yum - гадолиний  
+gadolinium - гадолиний  
+Galia - Галлия  
+galium - галлий  
 gala - горло (глотка)  
 galaxi - галактика  
 gali - улица  
-gali yum - галлий  
-Galia - Галлия  
 galope - кентер и галоп  
 gamba - креветка  
 gamo - эмоция (чувство)  
@@ -634,24 +639,24 @@ gati - твёрдый
 gau tehni - высокие технологии  
 gazel - газель  
 gazeta - газета  
+geografia - география  
+Geia - Земля  
+geometria - геометрия  
+geopolitia - геополитика  
+geoterme - геотерма́льный  
 gem - меч  
 gem dau - кэндо  
+gemer - игрок (геймер)  
 gem suta - фехтование  
-geme ja - игрок (геймер)  
 • exgene - экзогенный  
 gene di - сырой  
 gene grupe - поколение  
-gene logi di - генетический  
 gene logu - генеалогия  
+gene lojia di - генетический  
 gene tipe - генотип  
 gene yo hevan - выращивать  
-Geo - Земля  
-geo grafi - география  
-geo metri - геометрия  
 geo nice jela - ублиет (подземная тюрьма)  
-geo politi - геополитика  
-geo termo - геотерма́льный  
-german yum - германий  
+germanium - германий  
 gida buku - путеводитель  
 gida ja - гид  
 ging - параллельный  
@@ -700,8 +705,9 @@ ha - иметь
 habar - новости  
 habar letre - информационный бюллетень  
 Habaxa - Абиссиния  
-hafen yum - гафний  
+hafenium - гафний  
 haha - смеяться  
+haima - палатка (шатёр)  
 haki - пыль  
 haki rang - хаки  
 hal - состояние (статус)  
@@ -722,39 +728,39 @@ haste - спешка
 hata - до  
 hatar - опасность  
 hei - эй  
-heli yum - гелий  
+helium - гелий  
 helis babul - акация кручёная  
 helis fei gi - вертолёт  
 hem - думать  
+• anhemia - анемия (малокровие)  
+heme - кровь  
 hem… - хм…  
-hema - палатка (шатёр)  
-hemi - кровь  
-anhemi - анемия (малокровие)  
-hemi globin - гемоглобин  
+hemoglobin - гемоглобин  
 hemi hin - бескровный  
 hemi selu - кровяная клетка (гематоцит)  
+hena - хна  
 hepate - печень  
 hero - герой  
 Hese - Гессен  
-hese yum - хассий  
+hesium - хассий  
 hevan - животное  
 hevan bagi - зоопарк  
 hevan kata - басня  
-hevan logi - зоология  
-hevan logi di - зоологический  
+hevan lojia - зоология  
+hevan lojia di - зоологический  
 hidre - водород  
 hidrate - гидрат  
 hidre peroxide - перекись водорода  
 hidrargente - ртуть  
 hijabu - вуаль  
 hin - без  
-hina - хна  
-Hindi dexa - Индостан  
+Hindocin - Индокитай  
+hindium - индий  
+Hindestan - Индостан  
 hindi raja - раджа  
 Hindi rivo - Инд  
-hindi yum - индий  
 hisabu loge - счёт  
-hisabu logi - математика  
+hisabu lojia - математика  
 hiyar - огурец  
 hobi ja - любитель  
 hogo - огонь  
@@ -762,7 +768,10 @@ hogo seku - кремень
 hogo tehni - фейерверк  
 hogo xan - вулкан  
 hoki - хоккей  
-holme yum - гольмий  
+holografia - голография  
+holisme - холизм  
+holiste - всесторонний  
+holmium - гольмий  
 hor - час  
 hor loga gi - часы  
 hotel - гостиница (отель)  
@@ -774,26 +783,30 @@ huke - крюк (гак)
 huke krus - свастика  
 huke lin kane - удочка  
 huli - лиса  
+hume - гумус (перегной)  
+human - человек  
+humanike - человечный  
+humanisme - гуманизм  
+human hake - права человека  
 humel - хмель  
+humor - юмор  
+hure - свободный (вольный)  
 hura - ура  
-huru - свободный (вольный)  
 
 ## I  
 
+ideal - идеальный (абстрактный)  
+ideograme - идеограмма  
 iglu - иглу  
 iha uma - мул  
+imperia - империя  
 in bum - имплозия  
-in migra - иммигрировать  
-in migra ja - иммигрант  
 in tene gi - контейнер  
+intraje - внутренности  
 in verse jen - интроверт  
-insan - человек  
-insan di - человечный  
-insan haki - права человека  
-insan sim - гуманизм  
 iode - йод  
 IP adres - IP-адрес  
-iris yum - иридий  
+iridium - иридий  
 ironi - ирония  
 islam din - ислам (мусульманство)  
 ite - камень (камешек)  
@@ -809,7 +822,7 @@ jara - кувшин (графин)
 jaru - метла  
 jau - ячмень  
 javabu - ответ  
-jebu - карман  
+jebe - карман  
 jen jami - толпа  
 jenju table - счёты (абак)  
 • projete - проект  
@@ -832,7 +845,7 @@ jui di - осторожный (внимательный)
 jui note - упреждение  
 jul - джоуль (J)  
 jumla - фраза  
-jumla logi - синтаксис  
+jumla lojia - синтаксис  
 jun - юный  
 jun jen - юнец  
 jun moka - саженец  
@@ -846,7 +859,7 @@ ka - чем
 kababu nama - кебаб  
 kable - верёвка (канат)  
 kaboga - тыква  
-kadim yum - кадмий  
+kadimium - кадмий  
 kafe - кофе  
 kafe alga - бурые водоросли  
 kafekan - кафе (кофейня)  
@@ -862,16 +875,16 @@ kalam sui - чернила
 kalenda - календарь  
 kali - щёлочь  
 kali guste - горький  
+kalium - калий  
 kali melon - горький огурец (китайская горькая тыква)  
 kali oranje - померанец  
-kali yum - калий  
-kaliforni yum - калифорний  
+kalifornium - калифорний  
 kalmar - кальмар  
-kalsi bilor - мрамор  
-kalsi mate - известь  
-kalsi petra - известняк  
-kalsi yum - кальций  
+kalside - известь  
 kalsite - кальцит  
+kalsium - кальций  
+kalsi bilor - мрамор  
+kalsi petra - известняк  
 kam - мало  
 kama kanon - Камасутра  
 kamar - комната (камера)  
@@ -946,9 +959,9 @@ kexa broxa - щётка для воло́с
 kexa hin - безволосый  
 keze - сыр  
 ki - что  
-kimi - вещество  
-kimi logi - химия  
-kimi so - химический элемент  
+kime - вещество  
+kimeme - химический элемент  
+kimia - химия  
 kimono - кимоно  
 kinar - край (грань)  
 kinar baryer - забор (ограда)  
@@ -972,7 +985,7 @@ klor - хлор
 koala - коала  
 kobalte - кобальт  
 koda - хвост  
-komi - комический (смешной)  
+komike - комический (смешной)  
 komputa di - цифровой  
 kon bon - соответствовать (сочетаться)  
 kon forma - применяться (согласоваться)  
@@ -983,7 +996,7 @@ kon sel ja - консультант (советник)
 kon trati - контракт  
 kone - конус  
 konserte - концерт  
-koperni yum - коперниций  
+kopernium - коперниций  
 kopi - копия  
 koral - коралл  
 kore - бегать (бежать)  
@@ -992,8 +1005,8 @@ korne melon - кивано (рогатая дыня)
 korona - корона  
 korte kata - новелла  
 korte krokodil - аллигатор  
-kosmo - космос  
-kosmo biologi - астробиология  
+kosme - космос  
+kosmobiolojia - астробиология  
 kosmo di - космический  
 kosmo nave - космический корабль  
 kosmo nave ja - космонавт  
@@ -1012,7 +1025,7 @@ krikete - крикет
 kriton - криптон  
 krokodil - крокодил  
 krokro - лягушка  
-krom yum - хром  
+kromium - хром  
 krote - крот  
 kruasan - круассан  
 krus - крест  
@@ -1023,10 +1036,12 @@ kube - куб
 kudi - локоть  
 kuke kamar - кухня  
 kuku - кукушка  
+kulte - выращивать (культивировать)  
+kulture - культура  
 kupa - чаша (чашка, стакан)  
 kupre - медь  
 kurban - жертва  
-kuri yum - кюрий  
+kurium - кюрий  
 kurva - кривая  
 
 ## L  
@@ -1048,7 +1063,7 @@ late - сторона (бок)
 late di - боковой (латеральный)  
 Latvia - Латвия  
 lau - пожилой  
-laurence yum - лоуренсий  
+laurencium - лоуренсий  
 lazanya - лазанья  
 lazur - лазурь  
 lazur petra - лазурит  
@@ -1077,15 +1092,16 @@ limon oranje - цитрус
 lin - линия (нитка)  
 lin so - волокно  
 linke - связь (ссылка)  
-linse - рысь  
+linxe - рысь  
+lipe - жир  
+lipide - липид  
 lipa bano - полка  
 lipa side - сесть на корточки  
-lipi - жир  
 lisan - язык  
 liste - список  
-lito yum - литий  
+litium - литий  
 litre - литр  
-livermor yum - ливерморий  
+livermorium - ливерморий  
 loga - речь  
 loge - запись  
 loge buku - судовой журнал  
@@ -1103,6 +1119,7 @@ luba - любовь
 lubar - любовник  
 luga - зелёный  
 luka - шесть (6)  
+lumize - полировать  
 lumen - لُومِن‎  
 luna - луна  
 lunaden - понедельник  
@@ -1110,13 +1127,13 @@ luna keke - лунный пирог
 lutar - грабитель  
 Luter din - лютера́нство  
 Luter din ja - лютеранский  
-lutesi yum - лютеций  
+lutesium - лютеций  
 
 ## M  
 
 ma - мать (мама)  
 ma di - материнский  
-magen yum - магний  
+magenium - магний  
 magi ja - чародей (маг)  
 Magribi dexa - Марокко  
 mahala - квартал  
@@ -1148,8 +1165,8 @@ masa mula - клубень
 masa mula sol hua - топинамбу́р  
 masala - пряность  
 maska - маска  
-masta - мачта  
 master - мастер  
+masta - мачта  
 mate - материя  
 mate cai - матэ  
 mate lona - материализм  
@@ -1179,12 +1196,12 @@ megi di - туманный
 mei - красивый  
 mei daka - украшение  
 meita - красота  
-meitner yum - майтнерий  
+meitnerium - майтнерий  
 melon - дыня  
 memo - память  
 • anmemo - забывать  
 memo note - меморандум  
-mendelef yum - менделевий  
+mendelevium - менделевий  
 meranti - шорея  
 Merkur - Меркурий  
 merkurden - среда  
@@ -1199,9 +1216,11 @@ meza tela - скатерть
 mi - я  
 mimen - мы  
 mimen su - наш  
+• inmigre - иммигрировать  
+• inmigrer - иммигрант  
 migra - миграция  
-mikro bio - микроб  
-mikro biologi - микробиология  
+mikrobiolojia - микробиология  
+mikrobie - микроб  
 mikroskope - микроскоп  
 milke - молоко  
 milke kardon - расторопша пятнистая  
@@ -1211,7 +1230,7 @@ minta - мята
 miraje - мираж  
 mira plate - зеркало  
 mirde - слабый  
-misije - месседж  
+misaje - месседж  
 Misri - Египет  
 mitre - метр  
 mixe - мешать  
@@ -1226,12 +1245,13 @@ mol seku - жёрнов
 moli - жасмин  
 moliden - молибден  
 moluske - моллюск  
+monograme - монограмма (вензель)  
 mos - мох  
 mos di - мшистый  
 mosim - время года (сезон)  
 moski - комар (москит)  
 Moskva - Москва  
-moskva yum - московий  
+moskvium - московий  
 mostre - монстр  
 moto - мотор  
 moto cati - капот  
@@ -1265,13 +1285,14 @@ nam kitaba - подписать
 nama - мясо  
 nanas - ананас  
 nardi - нарды (триктрак)   
-narko - наркотик  
-nati - родиться  
-• posnati - послеродовой  
-natia - народ  (нация)  
-natia medi - междунаро́дный  
-nati baxa - родной язык  
-nati loka - место рождения  
+narke - наркотик  
+nasia - нация  
+• internasial - междунаро́дный  
+• posnatal - послеродовой  
+nate - родиться  
+natal lingue - родной язык  
+nateloke - место рождения  
+nature - натура (сущность)  
 natre bilor - натрит (натр, натрон, кристаллическая сода)  
 natri - натрий  
 nau - мозг  
@@ -1288,10 +1309,10 @@ nekro fili - некрофилия
 nekro loga - некролог  
 nekro tomi - вскрытие (аутопсия)  
 nelu - четыре (4)  
-neodim yum - неодим  
+neodimium - неодим  
 neon - неон  
 Neputun - Нептун  
-neputun yum - нептуний  
+neputunium - нептуний  
 nerve selu - нейрон  
 nesi - остров  
 neu - новинка (новь)  
@@ -1308,14 +1329,14 @@ nil - синий (голубой)
 nil elfe - смурф (штрумпф)  
 nil kentaur hua - василёк синий  
 nilon - нейлон  
-niobi yum - ниобий  
+niobium - ниобий  
 Nipon - Япония  
-nipon yum - нихоний  
+niponium - нихоний  
 nitre - азот  
 nitrate - нитрат  
 nix - ниша  
 no - нет (не)  
-nobel yum - нобелий  
+nobelium - нобелий  
 noce - ночь  
 Noe di nave - Ноев ковчег  
 nomi - организация  
@@ -1346,7 +1367,7 @@ orto - прямой
 orto gona di - ортогона́льный  
 oselote - оцелот  
 osidian - обсидиан  
-osmi yum - осмий  
+osmium - осмий  
 osmos - осмос  
 oste jama - скелет (остов)  
 oxe - кислород  
@@ -1357,13 +1378,13 @@ oxide - окись (оксид)
 pa - отец (папа)  
 pa di - отеческий  
 paci - птица  
-paci logi - орнитология  
+paci lojia - орнитология  
 pada di - упавший  (падший)  
 pada mun - лаз  
 pagri - чалма  
 pai - пирог  
 pake - пакет  
-paladi yum - палладий  
+paladium - палладий  
 pan demi pati - пандемия  
 pan europa di - панъевропейский  
 pan mime - пантомима  
@@ -1394,15 +1415,15 @@ pase sim - пацифизм
 pasi - боль  
 pasi di - болезненный  
 pasporte - паспорт  
-pati gene xe - патоген  
+patogener - патоген  
+patekan - больница (госпиталь)  
+patolojia - патология  
+patomise - инфекция (заразная болезнь)  
 pati jen - пациент (больной)  
-patikan - больница (госпиталь)  
-pati logi - патология  
-pati mise - инфекция (заразная болезнь)  
 pau - стрелять  
 pau gi - пистолет  
-pauza - пауза  
-payaco - клоун (паяц)  
+pauze - пауза  
+payace - клоун (паяц)  
 pede - пердение  
 pei kar - профессия  
 pei kar di - профессиона́льный  
@@ -1420,6 +1441,7 @@ pente broxa - кисть
 pente ja - художник  
 pente tela - полотно  
 per nume - чётное число  
+peroxide - перекись (пероксид)  
 peroxide - перекись (пероксид)  
 pera - груша  
 pesa - деньги  
@@ -1447,12 +1469,12 @@ plasti di - пластичный
 plate geo sim ja - плоскоземелец  
 platin - платина  
 plumbe - свинец  
-pluton yum - плутоний  
+plutonium - плутоний  
 polau - плов  
 poli baxa di - многоязычный  
 Polinesi - Полинезия  
-politi ja - управляющий  
-polska yum - полоний  
+politike - управляющий  
+polskium - полоний  
 pompe tapa - поршень  
 ponte pin - компас  
 pore - пора  
@@ -1470,7 +1492,7 @@ pote suta - гончарное дело
 poto - болото  
 poto stan - болото (топь)  
 poyu - вошь  
-prazedim yum - празеодим  
+prazedimium - празеодим  
 pre - раньше  
 prese - давление (нажим)  
 prese gi - пресс  
@@ -1481,8 +1503,8 @@ problem di - проблематичный
 program - программа  
 program gi - программное обеспечение  
 Promete - Прометей  
-promete yum - прометий  
-protacini yum - протактиний  
+prometium - прометий  
+protacinium - протактиний  
 pujakan - храм (место богослужения)  
 puja meza - алтарь  
 pul - полный  
@@ -1497,14 +1519,15 @@ putau oranje - грейпфрут
 
 ## R  
 
+radium - радий  
 radi longta - радиус  
-radi yum - радий  
 radio - радио  
 radon - радон  
 ragubi - регби  
 ragbi - rugby  
 rai - мнение  
 rajanan - король  
+rakete lanser - ракетная установка  
 rakun - енот  
 rang arka - радуга  
 rang arka salmon - микижа (камчатская сёмга)  
@@ -1514,8 +1537,8 @@ ratibu - установка
 ratibu li - организованный (порядок)  
 razon - разум  
 Ren - Рейн  
-ren yum - рений  
-rentegen yum - рентгений  
+renium - рений  
+rentegenium - рентгений  
 retro gula - рвать (изрыга́ть)  
 retro gula sense - тошнота  
 retro note - обратная связь  
@@ -1526,35 +1549,35 @@ ritim - ритм (такт)
 rivo - река  
 robote - робот  
 rode - роза  
+rodium - родий  
 rode salmon - горбуша  
-rode yum - родий  
 roke - качать  
+roke musike - рок  
 roke kursi - кресло-качалка  
-roke muzika - рок  
-rokete lanse gi - ракетная установка  
 Roma - Рим  
 roma kamil - ромашка римская  
 romanse - роман  
 romanse di - романтический  
 rose - роса  
+rote - колесо  
 rota leu - против часовой стрелки  
 rota vanu gi - волчок  
 rubi - красный  
 rubi bau seku - рубин  
+rubium - рубидий  
 rubi linse - рыжая рысь  
 rubi oranje - мандарин  
 rubi salmon - нерка (красница)  
-rubi yum - рубидий  
 ruhu - душа (дух)  
 ruhu mixe - озадачить  
 ruhu mixe di - растерянный (озадаченный)  
 ruke sake - рюкзак  
-rus yum - рутений  
-ruterfor yum - резерфордий, ²курчатовий  
+rusium - рутений  
+ruterfordium - резерфордий, ²курчатовий  
 
 ## S  
 
-sablu - песок  
+sable - песок  
 sada - простой (не более чем)  
 saf - чистый  
 • ansaf - грязный  
@@ -1568,16 +1591,16 @@ sala - зал
 salu safta - гигиена  
 sam bei - ровня  
 sam emos - сострадание  
-sam metri - симметрия  
+sammetria - симметрия  
 sam rai - согласие  
 sam sifa xe - симуляция  
 sama - небо  
 sama hal - погода  
 sama kinar - горизонт  
 sama nil - голубой  
-samari yum - самарий  
+samarium - самарий  
 san - знать (ведать)  
-san logi - эпистемология  
+san lojia - эпистемология  
 san vol - интерес (любопытство)  
 san vol di - интересный  
 san vol ja - любознательный  
@@ -1597,14 +1620,14 @@ se - себя (-ся)
 semen - друг друга  
 seku - камень (камешек)  
 sel - совет  
-selen yum - селен  
+selenium - селен  
 selge - мангольд  
-selu logi - цитология  
+selu lojia - цитология  
+semoforer - семафор  
+semolojia - семантика  
 seme - семя  
 seme di - семенной  
 semente - цемент  
-semi forar - семафор  
-semi logi - семантика  
 sen bra - старший брат  
 sen sis - старшая сестра  
 seng - сырой  
@@ -1613,17 +1636,18 @@ sense xaka - щупальце
 sento - сто  
 sento nen - столетие  
 sento nen di - столетний  
+ser - звено  
+seria - серия  
+serser - цепь (ланцуг)  
 serami - керамика  
-seri - серия  
 seri kaska - кольчуга  
 seri letre - письмо счастья  
-serime - звено  
-servaja - слуга  
-servar - сервер  
+server - слуга  
+server - сервер  
 sesam - сезам  
-sexe logi - сексология  
+sexolojia - сексология  
 si - если  
-siborge yum - сиборгий  
+siborgium - сиборгий  
 side loka - сиденье (седло)  
 sifa loga - прилагательное  
 sigar - сигарета (папироса, сигарка)  
@@ -1695,20 +1719,22 @@ tai - сцена (подмостки, эстрада)
 tail - черепи́ца  
 tala - замок  
 tala di - запереть  
-tali yum - таллий  
+talium - таллий  
 tana - стебель  
-tantal yum - тантал  
+tantalium - тантал  
+tapon - тампон  
 tasa - блюдо (таз)  
 tatu - татуировка (тату)  
+tava - сковорода  
 • sintaxe - синтаксис  
-taxe nomi - таксономия  
-taxi metri gi - таксометр  
+taxonomia - таксономия  
+taximetrer - таксометр  
 taxi vala - таксист  
 taza - свежий  
 tef - теф  
-tehni - техника  
-tehni logi - технология  
-tehni yum - технеций  
+tehne - техника  
+tehnetium - технеций  
+tehnolojia - технология  
 tela - ткань  
 tela gi - ткацкий станок  
 tele fon - телефон  
@@ -1717,17 +1743,15 @@ tele fon lin - телефонная линия
 tele fon suta - телефония  
 tele vide gi - телевизор  
 teleskope - телескоп  
-telu yum - теллур  
+telurium - теллур  
 tema - тема  
 tema nam - название (пьесы, заголовок)  
 • kontener - контейнер  
 • sutener - сутенёр  
-tenebil - доступный  
-tene fasilta - доступность  
-tenesi yum - теннессин  
+tenesium - теннессин  
 tense - тугой  
 tepe - лента  
-terbi yum - тербий  
+terbium - тербий  
 terca - косой  
 teror sim - терроризм  
 teste - проба (тест)  
@@ -1740,7 +1764,7 @@ tire yo milke - тянуть
 tire yo pil - ободрать  
 tis - воспаление  
 tisa - девять (9)  
-titan yum - титан  
+titanium - титан  
 tix - тихий  
 tixta - тишина  
 to long - далеко  
@@ -1754,9 +1778,9 @@ tomate - помидор (томат)
 ton - тон  
 topo grafi - топография  
 topo metri grafi - карта (план)  
-tor yum - торий  
-toxilogi - токсикология  
-tragi - трагический  
+torium - торий  
+toxolojia - токсикология  
+tragike - трагический  
 • antranse vide di - непрозрачный  
 transe vide di - прозрачный  
 trate - волочить  
@@ -1765,7 +1789,9 @@ trater - трактор
 trati - договор  
 • kontrati - договор (контракт)  
 tre - очень  
+tren - поезд  
 tri - три (3)  
+trigonometria - тригонометрия  
 tri pike - трезубец  
 truke - обман  
 tu - ты  
@@ -1773,7 +1799,7 @@ tumen su - ваш
 tuale kaguji - туалетная бумага  
 tuale kamar - туалет (уборная, клозет)  
 Tule - Туле  
-tule yum - тулий  
+tulium - тулий  
 tulpan - тюльпан  
 tuna - тунец  
 tundra xan - фьельды  
@@ -1797,7 +1823,7 @@ un ta liga - союз
 un yen di lense - монокль  
 un zai di - одинокий (единичный)  
 Uran - Уран  
-uran yum - уран  
+uranium - уран  
 
 ## V  
 
@@ -1823,7 +1849,7 @@ valse - вальс
 valu - ценность  
 vampir - вампир (упырь)  
 vampir ohtopus - адский вампир  
-vanadi yum - ванадий  
+vanadium - ванадий  
 vanu gi - игрушка  
 varis - рис  
 varis vin - рисовое вино  
@@ -1848,9 +1874,9 @@ vide punte - перспектива (точки зрения)
 vidou - вдова  
 vinkan - винном заводе  
 violeta nil - фиолетовый (пурпурный)  
-virge - девственник  
+virolojia - вирусология  
 virus - вирус  
-virus logi - вирусология  
+virge - девственник  
 vise ma - мачеха  
 vise pa - отчим  
 vise raja - вице-король  
@@ -1896,6 +1922,7 @@ xenon - ксенон
 xia - фракция (клика)  
 xia islam din - шиизм  
 xikaya - жалоба  
+xilitol - ксилит  
 xilos - ксилоза  
 xirope - сироп  
 xite - говно (дерьмо)  
@@ -1949,10 +1976,9 @@ yogo - ярмо (иго)
 yogur - йогурт  
 Yohan festa - Иванов день  
 you moke - саженец  
-yumor - юмор  
 yurta - юрта  
-yuter yum - иттрий  
-yuterbi yum - иттербий  
+yuterium - иттрий  
+yuterbium - иттербий  
 
 ## Z  
 
@@ -1973,7 +1999,7 @@ Zimbabue - Зимбабве
 zinke - цинк  
 zira - тмин (зира)  
 zirkon - циркон  
-zirkon yum - цирконий  
+zirkonium - цирконий  
 zoku - ещё  
 zona - пояс (зона)  
 Zukra - Венера  
