@@ -35,7 +35,7 @@
 **ancovi** *sardelo (anĉovo)* ← angla:anchovy, franca:anchois, hispana:anchoa, portugala:anchova, rusa:анчоус (ančous), japana:アンチョビ (anchobi), hindia:ऐन्चोवी (enchovi)  
 **anda** *ovo* ← hindia:अंडा (aṇḍā), bengala:আণ্ডা (aṇḍa), urdua:(aṇḍā), panĝaba:ਆਂਡਾ (āṇḍā), teluga:(aṇḍamu), zulua:xho:iqanda, mon:өндөг (öndög)  
 **angar** *ankro* ← angla:anchor, franca:ancre, portugala:âncora, malaja:jangkar, rusa:якорь, araba:(ʾanjar), hindia:लंगर (laṅgar), urdua:(laṅgar), teluga:లంగరు (laṅgaru), svahila:nanga  
-**angul** *fingro* ← hindia:अंगुलि (aṅgulī), bengala:আঙুল (aṅgul)  
+**angul** *fingro* ← persa: انگشت‎ (angošt), hindia:अंगुलि (aṅgulī), bengala:আঙুল (aṅgul)  
 **anime** *kartuno* ← angla:franca:animation, hispana:animación, portugala:animação, rusa:анимация, japana:アニメ (anime), turka:malaja:anime, araba:أنمي m (ʾanimī), hindia:ऐनिमे (ainime), korea:아니메 (anime)  
 **anis** ** ← angla:anise, franca:portugala:anis, hispana:anís, rusa:анис (anis), araba: أَنْسُون‎ (ʾansūn), japana:アニス (anisu), korea:아니스 (aniseu)  
 **anjil** *mesaĝo* ← greka:ἀγγελία (angelía), araba:(ʾinjīl), svahila:injili, malaja:injil, turka:incil, hindia:इंजील (iñjīl), rusa:евангелие (evangeliye), franca:évangile, portugala:evangelho  
@@ -45,7 +45,7 @@
 **aplika** ** ← angla:franca:application, hispana:aplicación, portugala:aplicação, polona:aplikacja  
 **aposum** *didelfo* ← angla:franca:opossum, rusa:опоссум (opossum), mandarena:奥珀瑟姆 (àopòsèmǔ), japana:オポッサム (opossamu), vjetnama:ô-pốt-sâm, araba: أُوبُسُوم‎ (ʾubusum)  
 **araki** ** ← araba: عرق‎ ('araq), angla:arrack, franca:raki, portugala:áraque, rusa:арак (arak), mandarena:阿剌吉 (ālàjí), malaja:arak, turka:rakı, birma:အရက် (arak)  
-**arane** *araneo* ← franca:araignee, portugala:aranha, hispana:araña, angla:arachnid  
+**arane** *araneo* ← franca:araignee, portugala:aranha, hispana:araña, angla:arachnid, deu:Arachno-, rusa:арахнофо- (arakhno-), turka:arakno-, tamila:அராக்கினிட் (arākkiṉiṭ), malaja:araknid  
 **arbuza** *akvomelono* ← rusa:арбуз (arbuz), polona:arbuz, turka:karpuz, greka:καρπούζι (karpuzi), hindia:तरबूज़ (tarbūz), bengala:তরমুজ (tôrmuj)  
 **argente** *arĝento* ← portugala:itala:argento, franca:argent, malaja:argentum, svahila:agenti  
 **argon** *argono* ← angla:argon, franca:argon, hispana:argón, portugala:argon, rusa:аргон, japana:アルゴン, korea:아르곤, vjetnama:agon, hindia:ऑर्गन, bengala:আর্গন, malaja:argon, svahila:arigoni, araba: أرجون  
@@ -1276,6 +1276,7 @@
 **re** ** ← angla:franca:hispana:portugala:re-, rusa:ретро- (retro-), japana:レトロ (retoro) + araba: رَدَّ (radda)  
 **rebel** ** ← angla:rebel, hispana:portugala:rebelde franca:rebelle  
 **redi** *preta* ← angla:ready, deu:bereit, franca:prêt, mao:reri  
+**ree** *realaĵo* ← angla:hispana:portugala:malaja:real, franca:réel, deu:real, rusa:реальный (realniy), turka:reel  
 **renium** *renio* ← angla:rhenium, franca:rhénium, hispana:renio, portugala:rénio, rusa:рений, mandarena:铼 (lái), japana:レニウム, korea:레늄, vjetnama:reni, hindia:रेनियम, bengala:রেনিয়াম, malaja:renium, svahila:reni, araba: رنيوم  
 **rentegenium** *rentgenio* ← angla:roentgenium, franca:roentgenium, hispana:roentgenio, portugala:roentgênio, rusa:рентгений, mandarena: (lún), japana:レントゲニウム, korea:뢴트게늄, vjetnama:roentgeni, hindia:रॉन्टजैनियम, bengala:রোয়েন্টজেনিয়াম, malaja:roentgenium, svahila:roentgeni, araba: رونتجينيوم  
 **reporte** ** ← angla:report, hispana:reporte, franca:rapport, rusa:рапорт (raport), turka:rapor, svahila:ripoti, hindia:रिपोर्ट (riporṭ), japana:レポート (repōto)  

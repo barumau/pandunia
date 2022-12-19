@@ -9,8 +9,9 @@ a couple of - du o tri
 a sea of people (huge crowd) - jen bahai  
 abacus - jenju table  
 abattoir (slaughterhouse) - bucakan  
+Abaza language - Abaze baxe  
 ability - bilta  
-Abkhazia - Apsni  
+Abkhazia - Abazia  
 about (approximately, nearly, almost) - yaki  
 about (concerning, on the topic of) - a tema de  
 above (over) - a supra  
@@ -145,7 +146,7 @@ ampoule (vial) - ampul
 amuse (entertain) - fa vanu  
 anaerobic - anairobiike  
 anaglyphic (stereoscopic) - du grafi di  
-anal - anus di  
+anal - anusal  
 analog clock - undurali hor loga gi  
 analyse (analysis) - fen lize  
 anchor - angar  
@@ -166,6 +167,7 @@ animal - hevan
 animal husbandry - hevan agri suta  
 animate - fa anime  
 animation (cartoon) - anime  
+animation (the act of animating) - animation  
 anise - anis  
 anniversary - nen festa  
 answer (reply, response) - javabu  
@@ -193,8 +195,9 @@ approve - bon rai
 apricot (plum, peach) - briko  
 April - mes nelu  
 aqua (teal) - bahai nil  
-Arabia (Arab; Arabic) - arabi  
-arachnophobia - arane fobi  
+Arabia (Arab; Arabic) - arabe  
+arachnide - aranide  
+arachnophobia - aranofobia  
 arboretum - moka jong parke  
 archer - arka ja  
 archery - arka suta  
@@ -1147,7 +1150,8 @@ difference - alo sifa
 different - alo sifa di  
 dig (pit, cavity) - kava  
 digit (figure, numeral) - nume zi  
-digital - komputa di  
+digital (relating to computers) - konputeral  
+digital (relating to numbers) - numerike  
 digital clock - komputa hor loga gi  
 dining room - yam kamar  
 dinner - xam yam  
@@ -1535,6 +1539,7 @@ fine arts - mei arte
 finger (toe) - angul  
 finger ring - angul ring  
 fingerprint - angul marke  
+fingertip - angul pike  
 fingertip - angul pike  
 finish (complete, end) - fa fin  
 finite (limited) - limite di  
@@ -3511,9 +3516,13 @@ react - reate
 reaction - reation  
 read - dugu  
 ready (prepared) - redi  
+real (actual, existing) - real  
+realism - realisme  
+realist - realiste  
+reality - realta  
 realization (awareness, enlightenment, bodhi) - budi  
+realize (understand) - fa budi  
 realize (understand; aha) - aha  
-realize - fa budi  
 reason (cause) - sabu  
 reason (rational thinking) - razon  
 rebellion - rebel  
@@ -4289,6 +4298,7 @@ they - damen
 thick - gros  
 thickness - grosta  
 thief - cori ja  
+thing (stuff) - ree  
 thing - xe  
 think (ponder, reflect) - fa fikir  
 third (3rd) - trime  

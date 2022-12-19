@@ -68,7 +68,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**ancovi**|eng:anchovy, fra:anchois, spa:anchoa, por:anchova, rus:анчоус (ančous), jpn:アンチョビ (anchobi), hin:ऐन्चोवी (enchovi)|
 |**anda**|hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)|
 |**angar**|eng:anchor, fra:ancre, por:âncora, may:jangkar, rus:якорь, ara:(ʾanjar), hin:लंगर (laṅgar), urd:(laṅgar), tel:లంగరు (laṅgaru), swa:nanga|
-|**angul**|hin:अंगुलि (aṅgulī), ben:আঙুল (aṅgul)|
+|**angul**|fas: انگشت‎ (angošt), hin:अंगुलि (aṅgulī), ben:আঙুল (aṅgul)|
 |**anime**|eng:fra:animation, spa:animación, por:animação, rus:анимация, jpn:アニメ (anime), tur:may:anime, ara:أنمي m (ʾanimī), hin:ऐनिमे (ainime), kor:아니메 (anime)|
 |**anis**|eng:anise, fra:por:anis, spa:anís, rus:анис (anis), ara: أَنْسُون‎ (ʾansūn), jpn:アニス (anisu), kor:아니스 (aniseu)|
 |**anjil**|ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl), rus:евангелие (evangeliye), fra:évangile, por:evangelho|
@@ -78,7 +78,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**aplika**|eng:fra:application, spa:aplicación, por:aplicação, pol:aplikacja|
 |**aposum**|eng:fra:opossum, rus:опоссум (opossum), zho:奥珀瑟姆 (àopòsèmǔ), jpn:オポッサム (opossamu), vie:ô-pốt-sâm, ara: أُوبُسُوم‎ (ʾubusum)|
 |**araki**|ara: عرق‎ ('araq), eng:arrack, fra:raki, por:áraque, rus:арак (arak), zho:阿剌吉 (ālàjí), may:arak, tur:rakı, mya:အရက် (arak)|
-|**arane**|fra:araignee, por:aranha, spa:araña, eng:arachnid|
+|**arane**|fra:araignee, por:aranha, spa:araña, eng:arachnid, deu:Arachno-, rus:арахнофо- (arakhno-), tur:arakno-, tam:அராக்கினிட் (arākkiṉiṭ), may:araknid|
 |**arbuza**|rus:арбуз (arbuz), pol:arbuz, tur:karpuz, ell:καρπούζι (karpuzi), hin:तरबूज़ (tarbūz), ben:তরমুজ (tôrmuj)|
 |**argente**|por:ita:argento, fra:argent, may:argentum, swa:agenti|
 |**argon**|eng:argon, fra:argon, spa:argón, por:argon, rus:аргон, jpn:アルゴン, kor:아르곤, vie:agon, hin:ऑर्गन, ben:আর্গন, may:argon, swa:arigoni, ara: أرجون|
@@ -1307,6 +1307,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**rasa**|eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras|
 |**razon**|eng:reason, spa:razón, por:razão, fra:raison rus:разум (razum)|
 |**re**|eng:fra:spa:por:re-, rus:ретро- (retro-), jpn:レトロ (retoro) + ara: رَدَّ (radda)|
+|**ree**|eng:spa:por:may:real, fra:réel, deu:real, rus:реальный (realniy), tur:reel|
 |**rebel**|eng:rebel, spa:por:rebelde fra:rebelle|
 |**redi**|eng:ready, deu:bereit, fra:prêt, mao:reri|
 |**renium**|eng:rhenium, fra:rhénium, spa:renio, por:rénio, rus:рений, zho:铼 (lái), jpn:レニウム, kor:레늄, vie:reni, hin:रेनियम, ben:রেনিয়াম, may:renium, swa:reni, ara: رنيوم|

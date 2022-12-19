@@ -48,11 +48,14 @@ andesite - 安山岩
 angul - 指  
 angul marke - 指紋  
 angul pike - 指先  
+anime - アニメ  
+animation - アニメーション  
 anis - アニス (八角)  
 anjil - 伝言 (メッセージ)  
 aple - 林檎  
 aposum - 袋鼠 (オポッサム)  
 arane - オレンジ  
+aranide - クモ形類  
 arane nete - クモの巣  
 area - 辺  
 argente - 銀  
@@ -883,7 +886,6 @@ koala - 子守熊 (コアラ)
 kobalte - コバルト  
 koda - 尾 (尾翼)  
 koma - コンマ (読点)  
-komputa di - デジタル  
 kon - 共  
 kon bon - 合わせる (適する)  
 kon forma - 即する  
@@ -1231,6 +1233,7 @@ norma - 標準
 norma di - 普段 (ノーマル)  
 nostalgia - 懐古 (懐旧)  
 nuka - 首  
+numerike - デジタル  
 nume zi - 数字  
 
 ## O  
@@ -1386,6 +1389,8 @@ rang mate - 染め粉
 rasa - 人種  
 ratibu - 順  
 ratibu li - 整然  
+realisme - 現実主義  
+realta - 実在 (現実)  
 Ren - ライン川  
 renium - レニウム  
 rentegenium - レントゲニウム  

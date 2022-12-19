@@ -35,7 +35,7 @@
 **ancovi** *anchovy* ← English:anchovy, French:anchois, Spanish:anchoa, Portuguese:anchova, Russian:анчоус (ančous), Japanese:アンチョビ (anchobi), Hindi:ऐन्चोवी (enchovi)  
 **anda** *egg* ← Hindi:अंडा (aṇḍā), Bengali:আণ্ডা (aṇḍa), Urdu:(aṇḍā), Punjabi:ਆਂਡਾ (āṇḍā), Telugu:(aṇḍamu), Zulu:xho:iqanda, mon:өндөг (öndög)  
 **angar** *anchor* ← English:anchor, French:ancre, Portuguese:âncora, Malay:jangkar, Russian:якорь, Arabic:(ʾanjar), Hindi:लंगर (laṅgar), Urdu:(laṅgar), Telugu:లంగరు (laṅgaru), Swahili:nanga  
-**angul** *finger (toe)* ← Hindi:अंगुलि (aṅgulī), Bengali:আঙুল (aṅgul)  
+**angul** *finger (toe)* ← Persian: انگشت‎ (angošt), Hindi:अंगुलि (aṅgulī), Bengali:আঙুল (aṅgul)  
 **anime** *animation (cartoon)* ← English:French:animation, Spanish:animación, Portuguese:animação, Russian:анимация, Japanese:アニメ (anime), Turkish:Malay:anime, Arabic:أنمي m (ʾanimī), Hindi:ऐनिमे (ainime), Korean:아니메 (anime)  
 **anis** *anise* ← English:anise, French:Portuguese:anis, Spanish:anís, Russian:анис (anis), Arabic: أَنْسُون‎ (ʾansūn), Japanese:アニス (anisu), Korean:아니스 (aniseu)  
 **anjil** *message* ← Greek:ἀγγελία (angelía), Arabic:(ʾinjīl), Swahili:injili, Malay:injil, Turkish:incil, Hindi:इंजील (iñjīl), Russian:евангелие (evangeliye), French:évangile, Portuguese:evangelho  
@@ -45,7 +45,7 @@
 **aplika** *apply (put to use for a purpose; application)* ← English:French:application, Spanish:aplicación, Portuguese:aplicação, Polish:aplikacja  
 **aposum** *opossum* ← English:French:opossum, Russian:опоссум (opossum), Mandarin:奥珀瑟姆 (àopòsèmǔ), Japanese:オポッサム (opossamu), Vietnamese:ô-pốt-sâm, Arabic: أُوبُسُوم‎ (ʾubusum)  
 **araki** *liquor* ← Arabic: عرق‎ ('araq), English:arrack, French:raki, Portuguese:áraque, Russian:арак (arak), Mandarin:阿剌吉 (ālàjí), Malay:arak, Turkish:rakı, Burmese:အရက် (arak)  
-**arane** *spider* ← French:araignee, Portuguese:aranha, Spanish:araña, English:arachnid  
+**arane** *spider* ← French:araignee, Portuguese:aranha, Spanish:araña, English:arachnid, deu:Arachno-, Russian:арахнофо- (arakhno-), Turkish:arakno-, Tamil:அராக்கினிட் (arākkiṉiṭ), Malay:araknid  
 **arbuza** *watermelon* ← Russian:арбуз (arbuz), Polish:arbuz, Turkish:karpuz, Greek:καρπούζι (karpuzi), Hindi:तरबूज़ (tarbūz), Bengali:তরমুজ (tôrmuj)  
 **argente** *silver* ← Portuguese:Italian:argento, French:argent, Malay:argentum, Swahili:agenti  
 **argon** *argon* ← English:argon, French:argon, Spanish:argón, Portuguese:argon, Russian:аргон, Japanese:アルゴン, Korean:아르곤, Vietnamese:agon, Hindi:ऑर्गन, Bengali:আর্গন, Malay:argon, Swahili:arigoni, Arabic: أرجون  
@@ -1276,6 +1276,7 @@
 **re** *back (return it to previous place)* ← English:French:Spanish:Portuguese:re-, Russian:ретро- (retro-), Japanese:レトロ (retoro) + Arabic: رَدَّ (radda)  
 **rebel** *rebellion* ← English:rebel, Spanish:Portuguese:rebelde French:rebelle  
 **redi** *ready (prepared)* ← English:ready, deu:bereit, French:prêt, mao:reri  
+**ree** *thing (stuff)* ← English:Spanish:Portuguese:Malay:real, French:réel, deu:real, Russian:реальный (realniy), Turkish:reel  
 **renium** *rhenium* ← English:rhenium, French:rhénium, Spanish:renio, Portuguese:rénio, Russian:рений, Mandarin:铼 (lái), Japanese:レニウム, Korean:레늄, Vietnamese:reni, Hindi:रेनियम, Bengali:রেনিয়াম, Malay:renium, Swahili:reni, Arabic: رنيوم  
 **rentegenium** *roentgenium* ← English:roentgenium, French:roentgenium, Spanish:roentgenio, Portuguese:roentgênio, Russian:рентгений, Mandarin: (lún), Japanese:レントゲニウム, Korean:뢴트게늄, Vietnamese:roentgeni, Hindi:रॉन्टजैनियम, Bengali:রোয়েন্টজেনিয়াম, Malay:roentgenium, Swahili:roentgeni, Arabic: رونتجينيوم  
 **reporte** *report* ← English:report, Spanish:reporte, French:rapport, Russian:рапорт (raport), Turkish:rapor, Swahili:ripoti, Hindi:रिपोर्ट (riporṭ), Japanese:レポート (repōto)  

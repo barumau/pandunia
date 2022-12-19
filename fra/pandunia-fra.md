@@ -11,6 +11,8 @@ a re - en arrière
 a vo - là (y)  
 a xukur de - grâce à  
 a ye - ici  
+Abaze baxe - abaze  
+Abazia - Abkhazie  
 abies - sapin  
 acar di - décapé (mariné)  
 acar hiyar - concombre confit (cornichon)  
@@ -96,9 +98,11 @@ andesite - andésite
 Andora - Andorre  
 angar - ancre  
 Angola - Angola  
+angul - doigt  
 angul marke - empreinte digitale  
 angul pike - bout de doigt  
 anime - animation  
+animation - animation  
 anis - anis  
 anis araki - raki  
 anjil - message  
@@ -109,16 +113,16 @@ antena - antenne
 Antigua - Antigua  
 Antigua i Barbuda - Antigua-et-Barbuda  
 anus - anus  
-anus di - anal  
+anusal - anal  
 aple - pomme  
 aple sos - compote de pommes  
 aplika - appliquer (application)  
 aposum - sarigue (opossum)  
-Apsni - Abkhazie  
-arabi - arabe  
+arabe - arabe  
 araki - spiritueux  
 arane - araignée  
-arane fobi - arachnophobie  
+aranofobia - arachnophobie  
+aranide - arachnide  
 arane nete - toile d'araignée (arantèle)  
 arbuza - pastèque  
 Arcah - Artsakh  
@@ -1110,7 +1114,6 @@ koda - queue
 kolum - pilier (colonne, poteau)  
 komike - comique  
 koma - virgule  
-komputa di - numérique  
 kon - avec (commun)  
 kon helen baxa - koinè  
 kon kar - collaborer  
@@ -1491,6 +1494,7 @@ norde - nord
 nostalgia - nostalgie  
 note xe - note  
 nuka - cou (encolure, nuque)  
+numerike - numérique  
 nume - nombre (numéro)  
 nume zi - ciffre  
 
@@ -1700,6 +1704,8 @@ rang mate - colorant
 rasa - race  
 rasa medi - interracial  
 ratibu - ordre  
+realisme - réalisme  
+realta - réalité  
 Ren - Rhin  
 renium - rhénium  
 rentegenium - roentgenium  

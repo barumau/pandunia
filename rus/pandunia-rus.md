@@ -8,6 +8,8 @@ a poli mar - часто
 a pos - после  
 a vo - там  
 a ye - здесь (тут)  
+Abaze baxe - абазинский  
+Abazia - Абхазия  
 abies - пихта  
 acar di - марино́ванный  
 aci - чихать  
@@ -71,9 +73,10 @@ anus - анус
 aple - яблоко  
 aple sos - яблочное пюре  
 aposum - опоссум  
-Apsni - Абхазия  
 arabi babul - акация нильская  
 arane - паук  
+aranofobia - арахнофобия  
+aranide - паукообразное  
 arane nete - паутина  
 arbuza - арбуз  
 argente - серебро  
@@ -986,7 +989,6 @@ koala - коала
 kobalte - кобальт  
 koda - хвост  
 komike - комический (смешной)  
-komputa di - цифровой  
 kon bon - соответствовать (сочетаться)  
 kon forma - применяться (согласоваться)  
 kon helen baxa - койне  
@@ -1346,6 +1348,7 @@ nostalgia - ностальгия (тоска)
 note xe - запись (заметка)  
 nu - ну  
 nuka - шея  
+numerike - цифровой  
 nume - число  
 nume zi - цифры  
 
@@ -1536,6 +1539,9 @@ rasa medi - межрасовый
 ratibu - установка  
 ratibu li - организованный (порядок)  
 razon - разум  
+real - реальный (настоящий)  
+realisme - реализм  
+realta - реальность  
 Ren - Рейн  
 renium - рений  
 rentegenium - рентгений  

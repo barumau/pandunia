@@ -61,6 +61,8 @@ a vakil de - puolesta
 a vo - tuolla  
 a xukur de - ansiosta  
 a ye - täällä  
+Abaze baxe - abazan kieli  
+Abazia - Abhaasia  
 abies - pihta (jalokuusi)  
 acar - säilyke (pikkelssi)  
 acar di - säilötty  
@@ -163,8 +165,10 @@ Angola - Angola
 angul - sormi tai varvas  
 angul marke - sormenjälki  
 angul pike - sormenpää  
+angul pike - sormenpää  
 angul ring - sormus  
-anime - animaatio (piirretty)  
+anime - animaatio (piirroselokuva, piirretty)  
+animation - animointi  
 anis - anis  
 anis araki - raki  
 anjil - viesti  
@@ -175,16 +179,16 @@ antena - antenni
 Antigua - Antigua  
 Antigua i Barbuda - Antigua ja Barbuda  
 anus - peräaukko (anus)  
-anus di - anaalinen  
+anusal - anaalinen  
 aple - omena  
 aple sos - omenasose  
 aplika - soveltaa (sovellus)  
 aposum - pussirotta (opossumi)  
-Apsni - Abhaasia  
-arabi - Arabia (arabia; arabialainen)  
+arabe - Arabia (arabia; arabialainen)  
 araki - viina  
 arane - hämähäkki  
-arane fobi - araknofobia (hämähäkkikammo)  
+aranofobia - araknofobia (hämähäkkikammo)  
+aranide - hämähäkkieläin  
 arane nete - hämähäkinverkko  
 arbuza - vesimeloni  
 Arcah - Artsakhin tasavalta  
@@ -3006,6 +3010,7 @@ nu - no
 nude - alaston (paljas, naku)  
 nude sim - nudismi  
 nude sim ja - nudisti  
+numerike - numeerinen  
 nume - lukumäärä (luku, numero)  
 
 ## O  
@@ -3394,6 +3399,11 @@ ratibu - järjestys
 razon - järki (järkeily, päättely)  
 razon li - järjellinen (järkiperäinen, rationaalinen)  
 re - takaisin  
+ree - asia (tosiasia)  
+real - todellinen (tosiasialinen, reaalinen)  
+realisme - realismi  
+realiste - realisti  
+realta - todellisuus  
 rebel - kapina  
 redi - valmis  
 Ren - Rein  

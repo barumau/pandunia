@@ -63,6 +63,8 @@ a vakil de - on behalf of
 a vo - there  
 a xukur de - thanks to  
 a ye - here  
+Abaze baxe - Abaza language  
+Abazia - Abkhazia  
 abies - fir tree  
 acar - pickle  
 acar di - pickled  
@@ -167,8 +169,10 @@ Angola - Angola
 angul - finger (toe)  
 angul marke - fingerprint  
 angul pike - fingertip  
+angul pike - fingertip  
 angul ring - finger ring  
 anime - animation (cartoon)  
+animation - animation (the act of animating)  
 anis - anise  
 anis araki - raki  
 anjil - message  
@@ -179,17 +183,17 @@ antena - antenna (aerial)
 Antigua - Antigua  
 Antigua i Barbuda - Antigua and Barbuda  
 anus - anus  
-anus di - anal  
+anusal - anal  
 aple - apple  
 aple sos - applesauce  
 aplika - apply (put to use for a purpose; application)  
 aposum - opossum  
-Apsni - Abkhazia  
-arabi - Arabia (Arab; Arabic)  
+arabe - Arabia (Arab; Arabic)  
 arabi babul - babul tree (thorny acacia)  
 araki - liquor  
 arane - spider  
-arane fobi - arachnophobia  
+aranofobia - arachnophobia  
+aranide - arachnide  
 arane nete - spiderweb (cobweb)  
 arbuza - watermelon  
 Arcah - Artsakh  
@@ -1102,7 +1106,7 @@ fa barka - congratulate (bless)
 fa baze - found  
 fa bina - build (construct)  
 fa biznes lona - negotiate (arrange)  
-fa budi - realize  
+fa budi - realize (understand)  
 fa cape - press (imprint)  
 fa cori - steal  
 fa culi - treat (handle, manage, process)  
@@ -2437,7 +2441,6 @@ komike - comic (funny)
 koma - comma  
 Komoro nesi - Comoros  
 kompani - company (corporation)  
-komputa di - digital  
 komputa hor loga gi - digital clock  
 kon - with (together; common)  
 kon bon - match (fit, suit, go well together)  
@@ -3286,6 +3289,7 @@ nude - naked (bare, nude)
 nude sim - nudism  
 nude sim ja - nudist  
 nuka - neck (nape)  
+numerike - digital (relating to numbers)  
 nume - number  
 nume zi - digit (figure, numeral)  
 
@@ -3687,6 +3691,7 @@ punte - point (period, full stop)
 punte bano - scoreboard  
 punte nume - score (grade)  
 pupe - doll (puppet)  
+konputeral - digital (relating to computers)  
 putau - grape  
 putau bagi - vineyard  
 putau oranje - grapefruit  
@@ -3741,6 +3746,11 @@ ratibu li - orderly (organized, in sequence, tidy, regular)
 razon - reason (rational thinking)  
 razon li - rational (reasonable)  
 re - back (return it to previous place)  
+ree - thing (stuff)  
+real - real (actual, existing)  
+realisme - realism  
+realiste - realist  
+realta - reality  
 Rea - Rhea  
 rebel - rebellion  
 redi - ready (prepared)  

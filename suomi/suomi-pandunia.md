@@ -16,7 +16,8 @@ aasialainen - asian
 aate (aatteen kannatus, ismi) - sim  
 aatteen kannattaja - mede ja  
 aavikko (hiekkaerämaa) - sablestan  
-Abhaasia - Apsni  
+abazan kieli - Abaze baxe  
+Abhaasia - Abazia  
 aboriginaali (Australian alkuperäisasukas) - aslaustralian  
 abyssinia - Habaxa  
 abyssinialainen - habaxa  
@@ -125,7 +126,7 @@ ammatti - pei kar
 ammattilainen - pei kar ja  
 ampeeri - amper  
 ampulli - ampul  
-anaalinen - anus di  
+anaalinen - anusal  
 anaerobinen - anairobiike  
 analyysi (osiin hajottaminen) - fen lize  
 ananas - nanas  
@@ -135,8 +136,9 @@ Andorra - Andora
 anemia - anhemia  
 anglofiili - englix fili ja  
 Angola - Angola  
-animaatio (piirretty) - anime  
+animaatio (piirroselokuva, piirretty) - anime  
 animoida - fa anime  
+animointi - animation  
 anis - anis  
 ankkuri - angar  
 annos - doze  
@@ -160,8 +162,8 @@ appivanhempi - per cin
 aprikoosi (luumu) - briko  
 apteekki - dava xekan  
 apu - mede  
-Arabia (arabia; arabialainen) - arabi  
-araknofobia (hämähäkkikammo) - arane fobi  
+Arabia (arabia; arabialainen) - arabe  
+araknofobia (hämähäkkikammo) - aranofobia  
 arboretum (puulajipuisto) - moka jong parke  
 Argentiina - Argentina  
 argon - argon  
@@ -194,6 +196,7 @@ asema - estasi
 asento - asan  
 asevoimat (armeija) - vuki ordu  
 asia (juttu) - sual tema  
+asia (tosiasia) - ree  
 asia - xe  
 asiakirja (dokumentti, tiedosto) - dokumen  
 askeett - askete  
@@ -347,6 +350,7 @@ demoni (piru) - demon
 desi - desi  
 desibeli - desi bel  
 devanagari - deu nagar zi  
+digitaalinen (tietokone-) - konputeral  
 dinosaurus (hirmulisko) - dino saur  
 Dione - Dione  
 dioriitti - diorite  
@@ -838,6 +842,7 @@ häkki - kane kasa
 hämmentää (sekoittaa; hämmennys, turbulenssi) - disturbe  
 hämähäkinverkko - arane nete  
 hämähäkki - arane  
+hämähäkkieläin - aranide  
 hän (se) - da  
 hänen (sen) - da su  
 häntä - koda  
@@ -2368,6 +2373,7 @@ nudisti - nude sim ja
 nukke - pupe  
 nukkua - be sona  
 nukkuminen (uni) - sona  
+numeerinen - numerike  
 nuolentekijä - flece ja  
 nuoli - flece  
 nuorempi toveri - jun bei  
@@ -2986,6 +2992,8 @@ rauta - fero
 ravintola - restoran  
 reagoida - reate  
 reaktio (vastaliike) - reation  
+realismi - realisme  
+realisti - realiste  
 rehtori - xula xefe  
 reikä - kung  
 Rein - Ren  
@@ -3349,6 +3357,7 @@ sora - grave
 sorakivi - xiu seku  
 sormenjälki - angul marke  
 sormenpää - angul pike  
+sormenpää - angul pike  
 sormi tai varvas - angul  
 sormus - angul ring  
 sorsa (ankka) - bata  
@@ -3701,6 +3710,8 @@ tina - estan
 titaani - titanium  
 Titan - Titan  
 Titania - Titania  
+todellinen (tosiasialinen, reaalinen) - real  
+todellisuus - realta  
 todentaa - fa ver  
 todistaa - fa dalil  
 todiste (todistus, osoitus, demonstraatio) - dalil  

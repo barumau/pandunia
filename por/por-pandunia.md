@@ -94,6 +94,8 @@ aprender - fa xula
 apropriado (apto) - hapu  
 aqui - a ye  
 ar - air  
+aracnofobia - aranofobia  
+aracnídeo - aranide  
 arame - metal lin  
 aranha - arane  
 arbusto (mata) - dipe moka  
@@ -523,7 +525,7 @@ dia (24 horas) - den
 dia - dia  
 diamante - adamas  
 dicotomia - dutomi  
-digital - komputa di  
+digital - numerike  
 dinamite - dinamite  
 dinheiro - pesa  
 dinossauro - dino saur  
@@ -1488,6 +1490,9 @@ rato - muxu
 raça - rasa  
 raíz - mula  
 reagir - reate  
+real - real  
+realidade - realta  
+realismo - realisme  
 reação - reation  
 rebater - boing  
 receber - recepe  

@@ -69,6 +69,8 @@ aple sos - purê de maçã
 aposum - sariguê (gambá, cuíca)  
 araki - licor  
 arane - aranha  
+aranofobia - aracnofobia  
+aranide - aracnídeo  
 arane nete - teia de aranha  
 arbuza - melancia  
 argente - prata  
@@ -920,7 +922,6 @@ kobalte - cobalto
 kolum - poste (coluna)  
 komike - cômico  
 koma - vírgula  
-komputa di - digital  
 kon - com (comum)  
 kon bon - combinar com  
 kon helen baxa - koiné  
@@ -1284,6 +1285,7 @@ norde - norte
 nostalgia - nostalgia (saudade)  
 note xe - nota  
 nuka - pescoço (nuca, gargalo)  
+numerike - digital  
 nume - número  
 nume zi - dígito  
 
@@ -1474,6 +1476,9 @@ rang - cor
 rang arka salmon - truta-arco-íris  
 rasa - raça  
 ratibu - ordem  
+real - real  
+realisme - realismo  
+realta - realidade  
 Ren - Reno  
 renium - rénio  
 rentegenium - roentgênio  

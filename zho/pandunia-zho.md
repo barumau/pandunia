@@ -71,6 +71,8 @@ aposum - 负鼠 (奥珀瑟姆)
 arabi babul - 阿拉伯金合欢  
 araki - 烈酒  
 arane - 蜘蛛  
+aranofobia - 蜘蛛恐惧症  
+aranide - 蜘蛛类  
 arane nete - 蜘蛛网  
 arbuza - 西瓜  
 argente - 银  
@@ -891,7 +893,6 @@ kobalte - 钴
 koda - 尾巴 (尾部)  
 kolum - 柱子   
 koma - 逗号  
-komputa di - 数字的  
 kon - 共  
 kon bon - 相配  
 kon helen baxa - 通用希臘語  
@@ -1224,6 +1225,7 @@ norde - 北
 nostalgia - 怀旧  
 note xe - 便条  
 nuka - 颈  
+numerike - 数字的  
 nume - 数  
 nume zi - 数字  
 
@@ -1381,6 +1383,9 @@ rang arka salmon - 虹鱒
 rang mate - 染料  
 rasa - 种族  
 ratibu - 常规 (次序)  
+real - 现实的  
+realisme - 现实主义  
+realta - 现实  
 Ren - 莱茵河  
 renium - 铼  
 retro gula - 呕吐  

@@ -15,7 +15,7 @@ abierto - kai
 abirse - be kai  
 Abisinia - Habaxa  
 abisinio - habaxa  
-abjazia - Apsni  
+abjazia - Abazia  
 abono orgánico (compost) - bio sana xe  
 aborigen - aslaustralian  
 abrepuño - sol kentaur hua  
@@ -192,7 +192,7 @@ amperio - amper
 ampolla (vial) - ampul  
 América - Amerike  
 anaeróbico - anairobiike  
-anal - anus di  
+anal - anusal  
 analizar (análisis) - fen lize  
 anaranjado - oranje rang  
 ancho - guan  
@@ -212,6 +212,7 @@ Angola - Angola
 anillo (sortija) - angul ring  
 anillo - ring  
 animación (dibujo animado) - anime  
+animación - animation  
 animal (bestia) - hevan  
 animar - fa anime  
 aniversario - nen festa  
@@ -241,7 +242,7 @@ apuntar (indicar) - ponte
 apuntar - fa dika  
 aquí (acá) - a ye  
 Arabia Saudita - Saudi Arabi  
-aracnofobia - arane fobi  
+aracnofobia - aranofobia  
 araña - arane  
 arañar - fa nahun  
 arboreto - moka jong parke  
@@ -295,6 +296,7 @@ Artsaj - Arcah
 artículo (documento) - papir  
 artículo (texto) - makala  
 Aruba - Aruba  
+arácnido - aranide  
 asar (tostar, rostir) - xava  
 asar - kababu  
 asceta - askete  
@@ -1260,7 +1262,7 @@ día (24 horas) - den
 día - dia  
 día de San Juan - Yohan festa  
 día festivo (feriado) - festa den  
-dígital - komputa di  
+dígital - numerike  
 dígito (cifra) - nume zi  
 dónde - a ke  
 dónde - ke loka  
@@ -3321,6 +3323,9 @@ raíz - mula
 reaccionar - reate  
 reacción - reation  
 real (de realtad) - raja di  
+real - real  
+realidad - realta  
+realismo - realisme  
 rebelión (sublevación) - rebel  
 rebotar - boing  
 recargar - rikarga  
@@ -4127,7 +4132,7 @@ zulú - Zulu
 ágil - agile  
 álgebra - jebra  
 ángulo recto - orto gona  
-árabe - arabi  
+árabe - arabe  
 árbol - moka  
 área (superficie) - fase area  
 área (zona, región) - area  

@@ -24,6 +24,7 @@ a supra - sobre
 a vo - allí (allá)  
 a xukur de - gracias a (merced a)  
 a ye - aquí (acá)  
+Abazia - abjazia  
 abies - abeto  
 acar di - encurtido  
 acar hiyar - pepinillo  
@@ -123,6 +124,7 @@ angul marke - huella digital
 angul pike - yema del dedo  
 angul ring - anillo (sortija)  
 anime - animación (dibujo animado)  
+animation - animación  
 anis - anís  
 anjil - mensaje  
 anjil ja - mensajero  
@@ -132,17 +134,17 @@ antena - antena
 Antigua - Antigua  
 Antigua i Barbuda - Antigua y Barbuda  
 anus - ano  
-anus di - anal  
+anusal - anal  
 aple - manzana  
 aple sos - compota de manzanas  
 aplika - emplear (aplicar; aplicación)  
 aposum - zarigüeya  
-Apsni - abjazia  
-arabi - árabe  
+arabe - árabe  
 arabi babul - goma arábiga  
 araki - licor  
 arane - araña  
-arane fobi - aracnofobia  
+aranofobia - aracnofobia  
+aranide - arácnido  
 arane nete - telaraña  
 arbuza - sandía (patilla)  
 Arcah - Artsaj  
@@ -2082,7 +2084,6 @@ kolum - poste (columna)
 koma - coma  
 Komoro nesi - Comoros  
 kompani - compañía (empresa, corporación)  
-komputa di - dígital  
 kon - con (común)  
 kon bon - emparejar (quedar)  
 kon forma - amoldarse  
@@ -2832,6 +2833,7 @@ nude - desnudo
 nude sim - nudismo  
 nude sim ja - nudista  
 nuka - cuello (nuca, pescuezo)  
+numerike - dígital  
 nume - número  
 nume zi - dígito (cifra)  
 
@@ -3223,6 +3225,9 @@ ratibu - orden
 ratibu li - ordenado (regular)  
 razon - razón  
 razon li - razonable  
+real - real  
+realisme - realismo  
+realta - realidad  
 rebel - rebelión (sublevación)  
 redi - listo (preparado)  
 Ren - Rin  

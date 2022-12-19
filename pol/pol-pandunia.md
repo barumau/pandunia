@@ -30,8 +30,11 @@
  - amir lin  
  - angul marke  
  - angul pike  
+ - angul pike  
+ - animation  
  - anis araki  
  - araki  
+ - aranide  
  - Ariel  
  - arka cati  
  - arte baxa  
@@ -490,6 +493,7 @@
  - kon pasi  
  - kon sel  
  - kon sel ja  
+ - konputeral  
  - kore ja  
  - korte kata  
  - kosmo nave  
@@ -702,6 +706,9 @@
  - ratibu li  
  - re  
  - Rea  
+ - realisme  
+ - realiste  
+ - ree  
  - retro note  
  - rikarga  
  - ringar  
@@ -1077,7 +1084,8 @@
  - ungene  
 A - A  
 abak (liczydło) - jenju table  
-Abchazja - Apsni  
+abazyński - Abaze baxe  
+Abchazja - Abazia  
 Abchazja - Arcah  
 Abisynia - Habaxa  
 abisyński - habaxa  
@@ -1127,7 +1135,7 @@ Amhara, amharski - Amara
 amper - amper  
 ampułka - ampul  
 analizować (analiza) - fen lize  
-analny, odbytni - anus di  
+analny, odbytni - anusal  
 ananans - nanas  
 andezyt - andesite  
 Andora - Andora  
@@ -1151,8 +1159,8 @@ Antyle Holenderskie - Nederlande Antil
 antymon - estibium  
 anyż - anis  
 Arabia Saudyjska - Saudi Arabi  
-arabski - arabi  
-arachnofobia - arane fobi  
+arabski - arabe  
+arachnofobia - aranofobia  
 arboretum - moka jong parke  
 arbuz - arbuza  
 archipelag - nesia  
@@ -1462,7 +1470,7 @@ cukinia - xiu kaboga
 cukrowiec jadalny - yam sukar gana  
 curry - kari  
 cwał (galop) - galope  
-cyfrowy - komputa di  
+cyfrowy - numerike  
 cynk - estan  
 cynk - zinke  
 Cypr - Kipris  
@@ -3524,6 +3532,7 @@ rasizm - rasa sim
 raz (jeden raz) - un mar  
 razem (wspólnie) - a kon  
 rdzeń (jądro, pestka) - kerne  
+realny - real  
 rebelia, powstanie - rebel  
 recepta, receptura, przepis - reseta  
 region - topo  
@@ -3630,6 +3639,7 @@ rzadko - nadir mar
 rzadkość - nadirta  
 rzecz - xe  
 rzeczownik - nam loga  
+rzeczywistość (realność) - realta  
 rzeka - rivo  
 rzemieślnik - arte sanaja  
 rzepka - guta kaska oste  

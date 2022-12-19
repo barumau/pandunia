@@ -74,12 +74,12 @@ anime - kartuno
 anjil - mesaĝo  
 antena - anteno  
 anus - anuso  
-anus di - anusa  
+anusal - anusa  
 aple - pomo  
 aposum - didelfo  
-arabi - araba  
+arabe - araba  
 arane - araneo  
-arane fobi - araneofobio  
+aranofobia - araneofobio  
 arane nete - araneaĵo  
 arbuza - akvomelono  
 area - ejo  
@@ -1685,6 +1685,11 @@ rasa - raco
 rasa medi - interrasa  
 rasa sim - racismo  
 rasa sim ja - racisto  
+ree - realaĵo  
+real - reala  
+realisme - realismo  
+realiste - realisto  
+realta - realeco  
 redi - preta  
 Ren - Rejno  
 renium - renio  

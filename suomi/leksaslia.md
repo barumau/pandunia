@@ -35,8 +35,8 @@
 **ancovi** *sardelli (anjovis)* ← englanti:anchovy, ranska:anchois, espanja:anchoa, portugali:anchova, venäjä:анчоус (ančous), japani:アンチョビ (anchobi), hindi:ऐन्चोवी (enchovi)  
 **anda** *muna* ← hindi:अंडा (aṇḍā), bangla:আণ্ডা (aṇḍa), urdu:(aṇḍā), pandzabi:ਆਂਡਾ (āṇḍā), telugu:(aṇḍamu), zulu:xho:iqanda, mon:өндөг (öndög)  
 **angar** *ankkuri* ← englanti:anchor, ranska:ancre, portugali:âncora, malaiji:jangkar, venäjä:якорь, arabia:(ʾanjar), hindi:लंगर (laṅgar), urdu:(laṅgar), telugu:లంగరు (laṅgaru), suahili:nanga  
-**angul** *sormi tai varvas* ← hindi:अंगुलि (aṅgulī), bangla:আঙুল (aṅgul)  
-**anime** *animaatio (piirretty)* ← englanti:ranska:animation, espanja:animación, portugali:animação, venäjä:анимация, japani:アニメ (anime), turkki:malaiji:anime, arabia:أنمي m (ʾanimī), hindi:ऐनिमे (ainime), korea:아니메 (anime)  
+**angul** *sormi tai varvas* ← persia: انگشت‎ (angošt), hindi:अंगुलि (aṅgulī), bangla:আঙুল (aṅgul)  
+**anime** *animaatio (piirroselokuva, piirretty)* ← englanti:ranska:animation, espanja:animación, portugali:animação, venäjä:анимация, japani:アニメ (anime), turkki:malaiji:anime, arabia:أنمي m (ʾanimī), hindi:ऐनिमे (ainime), korea:아니메 (anime)  
 **anis** *anis* ← englanti:anise, ranska:portugali:anis, espanja:anís, venäjä:анис (anis), arabia: أَنْسُون‎ (ʾansūn), japani:アニス (anisu), korea:아니스 (aniseu)  
 **anjil** *viesti* ← kreikka:ἀγγελία (angelía), arabia:(ʾinjīl), suahili:injili, malaiji:injil, turkki:incil, hindi:इंजील (iñjīl), venäjä:евангелие (evangeliye), ranska:évangile, portugali:evangelho  
 **antena** *antenni* ← englanti:antenna, espanja:portugali:malaiji:antena, ranska:antenne, venäjä:антенна (antenna), turkki:anten, japani:アンテナ (antena)  
@@ -45,7 +45,7 @@
 **aplika** *soveltaa (sovellus)* ← englanti:ranska:application, espanja:aplicación, portugali:aplicação, puola:aplikacja  
 **aposum** *pussirotta (opossumi)* ← englanti:ranska:opossum, venäjä:опоссум (opossum), yleiskiina:奥珀瑟姆 (àopòsèmǔ), japani:オポッサム (opossamu), vietnami:ô-pốt-sâm, arabia: أُوبُسُوم‎ (ʾubusum)  
 **araki** *viina* ← arabia: عرق‎ ('araq), englanti:arrack, ranska:raki, portugali:áraque, venäjä:арак (arak), yleiskiina:阿剌吉 (ālàjí), malaiji:arak, turkki:rakı, burma:အရက် (arak)  
-**arane** *hämähäkki* ← ranska:araignee, portugali:aranha, espanja:araña, englanti:arachnid  
+**arane** *hämähäkki* ← ranska:araignee, portugali:aranha, espanja:araña, englanti:arachnid, deu:Arachno-, venäjä:арахнофо- (arakhno-), turkki:arakno-, tamili:அராக்கினிட் (arākkiṉiṭ), malaiji:araknid  
 **arbuza** *vesimeloni* ← venäjä:арбуз (arbuz), puola:arbuz, turkki:karpuz, kreikka:καρπούζι (karpuzi), hindi:तरबूज़ (tarbūz), bangla:তরমুজ (tôrmuj)  
 **argente** *hopea* ← portugali:italia:argento, ranska:argent, malaiji:argentum, suahili:agenti  
 **argon** *argon* ← englanti:argon, ranska:argon, espanja:argón, portugali:argon, venäjä:аргон, japani:アルゴン, korea:아르곤, vietnami:agon, hindi:ऑर्गन, bangla:আর্গন, malaiji:argon, suahili:arigoni, arabia: أرجون  
@@ -1276,6 +1276,7 @@
 **re** *takaisin* ← englanti:ranska:espanja:portugali:re-, venäjä:ретро- (retro-), japani:レトロ (retoro) + arabia: رَدَّ (radda)  
 **rebel** *kapina* ← englanti:rebel, espanja:portugali:rebelde ranska:rebelle  
 **redi** *valmis* ← englanti:ready, deu:bereit, ranska:prêt, mao:reri  
+**ree** *asia (tosiasia)* ← englanti:espanja:portugali:malaiji:real, ranska:réel, deu:real, venäjä:реальный (realniy), turkki:reel  
 **renium** *renium* ← englanti:rhenium, ranska:rhénium, espanja:renio, portugali:rénio, venäjä:рений, yleiskiina:铼 (lái), japani:レニウム, korea:레늄, vietnami:reni, hindi:रेनियम, bangla:রেনিয়াম, malaiji:renium, suahili:reni, arabia: رنيوم  
 **rentegenium** *roentgenium* ← englanti:roentgenium, ranska:roentgenium, espanja:roentgenio, portugali:roentgênio, venäjä:рентгений, yleiskiina: (lún), japani:レントゲニウム, korea:뢴트게늄, vietnami:roentgeni, hindi:रॉन्टजैनियम, bangla:রোয়েন্টজেনিয়াম, malaiji:roentgenium, suahili:roentgeni, arabia: رونتجينيوم  
 **reporte** *raportti (selostus, selonteko)* ← englanti:report, espanja:reporte, ranska:rapport, venäjä:рапорт (raport), turkki:rapor, suahili:ripoti, hindi:रिपोर्ट (riporṭ), japani:レポート (repōto)  

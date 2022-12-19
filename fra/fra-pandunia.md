@@ -6,8 +6,9 @@ a (dans, en, chez) - a
 abaque (boulier compteur) - jenju table  
 abattoir - bucakan  
 abattre - buca  
+abaze - Abaze baxe  
 abeille ou guêpe - vespa  
-Abkhazie - Apsni  
+Abkhazie - Abazia  
 aborigènes australiens - aslaustralian  
 abricot (prune) - briko  
 absorber (éponger) - asorbe  
@@ -93,7 +94,7 @@ américium - amerikium
 amérindien (indien) - aslamerikan  
 Amérique - Amerike  
 an (année) - nen  
-anal - anus di  
+anal - anusal  
 analyser (analyse) - fen lize  
 anaérobique - anairobiike  
 anchois - ancovi  
@@ -104,6 +105,7 @@ andésite - andesite
 anglophone - englix fon di  
 Angola - Angola  
 animal (bête) - hevan  
+animation - animation  
 animation - anime  
 animer - fa anime  
 anis - anis  
@@ -124,8 +126,9 @@ apporter - fa lai
 apprendre (étudier) - fa xula  
 apprivoiser (dresser, dompter, discipliner) - fa dosil  
 approprié (adapté, convenable, opportun) - hapu  
-arabe - arabi  
-arachnophobie - arane fobi  
+arabe - arabe  
+arachnide - aranide  
+arachnophobie - aranofobia  
 araignée - arane  
 arboretum, pépinière - moka jong parke  
 arbre - moka  
@@ -628,6 +631,7 @@ dix (deca-) - des
 docile (insipide) - dosil  
 document (dossier) - dokumen  
 documentaire - dokumen filme  
+doigt - angul  
 domestique - dom di  
 domestiquer (apprivoiser) - fa dosil gene  
 domestiqué (apprivoisé) - dosil gene di  
@@ -1326,7 +1330,7 @@ nouvelle (récit court) - korte kata
 noyau atomique - atom kerne  
 Noé - Noe  
 nuage - megi  
-numérique - komputa di  
+numérique - numerike  
 nylon - nilon  
 nécessaire - yau di  
 nécrologie - nekro loga  
@@ -1718,6 +1722,8 @@ rutherfordium - ruterfordium
 ruthénium - rusium  
 réaction - reation  
 réagir - reate  
+réalisme - realisme  
+réalité - realta  
 référer - refere  
 réglisse - alkasus  
 réparateur - xuli ja  

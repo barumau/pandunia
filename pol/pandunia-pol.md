@@ -27,6 +27,8 @@ a vakil de -
 a vo - tu (tutaj, tam)  
 a xukur de -   
 a ye -   
+Abaze baxe - abazyński  
+Abazia - Abchazja  
 abies - jodła  
 acar - marynować  
 acar di - kiszony (marynowany)  
@@ -132,8 +134,10 @@ Angola - Angola
 angul - palec  
 angul marke -   
 angul pike -   
+angul pike -   
 angul ring - pierścień, pierścionek; obrączka  
 anime - animacja  
+animation -   
 anis - anyż  
 anis araki -   
 anjil - wiadomość  
@@ -144,17 +148,17 @@ antena - antena
 Antigua - Antigua  
 Antigua i Barbuda - Antigua i Barbuda  
 anus - odbyt  
-anus di - analny, odbytni  
+anusal - analny, odbytni  
 aple - jabłko  
 aple sos - sos jabłkowy  
 aplika - stosować (zastosować; zastosowanie, aplikacja)  
 aposum - opos  
-Apsni - Abchazja  
-arabi - arabski  
+arabe - arabski  
 arabi babul - akacja arabska  
 araki -   
 arane - pająk  
-arane fobi - arachnofobia  
+aranofobia - arachnofobia  
+aranide -   
 arane nete - pajęczyna  
 arbuza - arbuz  
 Arcah - Abchazja  
@@ -2403,7 +2407,6 @@ komike -
 koma - przecinek  
 Komoro nesi - Komory  
 kompani - firma, kompania, korporacja  
-komputa di - cyfrowy  
 komputa hor loga gi -   
 kon - wspólny (wzajemny)  
 kon bon - pasować  
@@ -3251,6 +3254,7 @@ nude - nagi, goły, obnażony
 nude sim - nudyzm  
 nude sim ja - nudysta  
 nuka -   
+numerike - cyfrowy  
 nume - numer  
 nume zi -   
 
@@ -3653,6 +3657,7 @@ punte - kropka (znak interpunkcyjny)
 punte bano - tablica wyników  
 punte nume - wynik (punktacja)  
 pupe - lalka, kukiełka, pacynka, marionetka  
+konputeral -   
 putau - winogrono  
 putau bagi - winnica  
 putau oranje - grejpfrut  
@@ -3706,6 +3711,11 @@ ratibu li -
 razon - rozum, rozsądek  
 razon li - racjonalny, rozsądny  
 re -   
+ree -   
+real - realny  
+realisme -   
+realiste -   
+realta - rzeczywistość (realność)  
 Rea -   
 rebel - rebelia, powstanie  
 redi - gotowy  
