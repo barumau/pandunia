@@ -459,14 +459,14 @@ Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words.
 There's no plural ending like -s in English.
 Also verbs are not conjugated.
-One word, **e**, is used instead of
+One word, **es**, is used instead of
 _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  da e aple.
+    Pandunia:  da es aple.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  damen e aple.
+    Pandunia:  damen es aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 

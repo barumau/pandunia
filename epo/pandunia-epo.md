@@ -499,30 +499,26 @@ dux - duŝo
 
 ## E  
 
-e - esti  
+e - kaj  
 eglisa - preĝejo  
 einsteinium - ejnŝtejnio  
 eko - naturo  
-ekore - sciuro  
-ekran - ekrano  
 Ekuador - Ekvadoro  
-eletro - elektro  
-eletro di - elektra  
+eletre - elektro  
+eletrike - elektra  
 eletron - elektrono  
-energi - energio  
+energia - energio  
 englix di - angla  
 erbium - erbio  
 Eris - Eris (planedeto)  
 Eritra - Eritreo  
-eskale - ŝtuparo  
-eskandium - skandio  
+es - esti  
+esai - eseo  
+eskran - ekrano  
 eskulte - statuo (skultaĵo)  
 eskulte ja - skultisto  
-Espanya - Hispanio  
+Espania - Hispanio  
 esperanto - Esperanto  
-esporte - sporto  
-estadi - stadiono (areno)  
-estasi - stacio  
 Esti - Estonio  
 estrontium - stroncio  
 estude ja - studento  
@@ -790,6 +786,7 @@ grafi di - grafika (bilda)
 grafi kata - bildrakonto  
 gram - gramo  
 grame - merkki (kirjoitusmerkki)  
+• programe - programo  
 • agrese - atako (agreso)  
 • agresive - agresema  
 • agresevi - agresema  
@@ -929,7 +926,6 @@ huxi - agrabla
 
 ## I  
 
-i - kaj  
 ibri - Hebrea  
 ici - volo  
 idee - ideo  
@@ -1245,6 +1241,7 @@ lisan - lango
 liste - listo  
 litium - litio  
 litre - litro  
+lixu - sciuro  
 loba - rafaneto  
 logograme - logogrammi (logo)  
 loga - paroli  
@@ -1386,6 +1383,7 @@ moli hua cai - jasmenteo
 moliden - molibdeno  
 moluske - molusko  
 monograme - monogrammi  
+monisme - monismo  
 Mongol - Mongolio  
 mongol di - mongola  
 mosim - sezono  
@@ -1649,13 +1647,12 @@ poto - koto
 poto di - kota  
 poto stan - marĉo  
 pre - antaŭe (pasinte)  
+presidente - prezidento  
 prese - premo  
+preser - premilo  
 prese gi - premilo  
-• preser - premilo  
-prezidente - prezidento  
 problem - problemo  
 profesor - profesoro  
-program - programo  
 prometium - prometio  
 protacinium - protaktinio  
 pujakan - templo  
@@ -1825,6 +1822,7 @@ sismolojia - sismologio
 sistem - sistemo  
 sita - citi  
 siti - urbo  
+skandium - skandio  
 so - elemento (ero)  
 sofa - sofo  
 sofi - saĝa  
@@ -1849,6 +1847,10 @@ sosis - kolbaso
 spete - miri (spekti)  
 • inspete - kontroli  
 • speter - spektanto  
+sporte - sporto  
+stadia - stadiono (areno)  
+state - stacio  
+statia - stacio  
 su - propra (poseda partiklo)  
 suahili - sŭahili  
 sual - demando  
@@ -1943,6 +1945,7 @@ trater - traktoro
 tre - tre  
 tren - trajno (vagonaro)  
 tren dau - fervojo  
+trepe - ŝtuparo  
 tri - tri (3)  
 tu - vi (ci)  
 tumen - vi ĉiu  
@@ -2148,9 +2151,9 @@ Zambia - Zambio
 zar - hazardo  
 zar di - hazarda  
 zar kube - ĵetkubo  
-Zardux - Zoroastro  
-zardux din - zoroastrismo  
-zardux din ja - zoroastristo  
+Zarduxte - Zoroastro  
+zarduxtisme - zoroastrismo  
+zarduxtiste - zoroastristo  
 zebra - zebro  
 zeyil - veruko  
 zi seri - alfabeto  

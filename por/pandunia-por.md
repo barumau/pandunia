@@ -408,17 +408,21 @@ dux - ducha
 
 ## E  
 
-e - ser (estar)  
+e - e  
 einsteinium - einstânio  
-ekore - esquilo  
-eletro - eletricidade  
+eletre - eletricidade  
 elfe - elfo  
 englix margarita - margarida-comum  
+enjener - engenheiro  
+enjenia - engenharia  
 erbium - érbio  
-eskandium - escândio  
+es - ser (estar)  
+esentia - essência (existência)  
+esential - essencial (fundamental)  
+esai - ensaio (redação)  
+eskran - ecrã  
 eskulte ja - escultor  
 esponje - esponja  
-esporte - esporte  
 estan - estanho  
 estibium - antimónio  
 estrontium - estrôncio  
@@ -627,6 +631,7 @@ goton - algodão
 gradu mute - desenvolvimento  
 grafi culi - processamento de imagem  
 grafi kata - quadrinhos (banda desenhada)  
+• programe - programa  
 granite - granito  
 grave - cascalho  
 • agrese - agressão (ataque)  
@@ -731,7 +736,6 @@ hura - urra
 
 ## I  
 
-i - e  
 ideal - ideal  
 ideograme - ideograma  
 iglu - iglu  
@@ -1042,6 +1046,7 @@ liste - lista
 litium - lítio  
 litre - litro  
 livermorium - livermório  
+lixu - esquilo  
 loga - fala  
 loge - registro  
 loge buku - diário de bordo  
@@ -1194,16 +1199,20 @@ mol seku - mó
 mole - mol  
 moli - jasmim  
 moliden - molibdénio  
+monaje - mónada  
 monograme - monograma  
+monike - indivíduo  
 mosim - estação (sazão)  
 moski - mosquito  
 moskvium - moscovio  
 mostre - monstro  
 moto - motor  
 moto cati - capô  
+mudan - peônia  
 mula - raíz  
 mur - muro (muralha)  
 mur kaguji - papel de parede  
+Muritania - Mauritânia  
 mus - dever  
 muskul bina - fisiculturismo  
 musli - muesli  
@@ -1239,6 +1248,7 @@ natri - sódio
 nau - cérebro  
 nau di - cerebral  
 nautile - nautiloide  
+nave trepe - portaló  
 nave - barco (navio)  
 nave leu - bombordo  
 nefre - rim  
@@ -1440,15 +1450,17 @@ poto stan - pântano
 poyu - piolho  
 • expoze - expor (revelar)  
 prazedimium - praseodímio  
+presidente - presidente  
 prese - pressão  
+preser - prensa  
 prese gi - prensa  
-• preser - prensa  
 proba - tentar (provar)  
 problem - problema  
-program - programa  
+profesor - professor  
 Promete - Prometeu  
 prometium - promécio  
 protacinium - protacnídio  
+puding - pudim  
 pujakan - templo  
 puja meza - altar  
 pul - cheio  
@@ -1588,6 +1600,7 @@ sir plan - complô (conspiração)
 siro - zero  
 sis - irmã  
 siti - cidade  
+skandium - escândio  
 skuter - patinete (trotineta)  
 Slave - eslavo  
 so - elemento  
@@ -1612,6 +1625,8 @@ sorbe - sorver
 sosi - sociedade  
 sosis - salsicha  
 • speter - espetador  
+sporte - esporte  
+statia - estação  
 sual - questão (pergunta)  
 sueda - suor  
 suga - rápido  
@@ -1694,6 +1709,8 @@ trati - acordo (tratado, contrato)
 • kontrati - acordo (tratado, contrato)  
 tre - muito  
 tren - trem  
+trepe - escada  
+trepater - cipó  
 tri - três (3)  
 trigonometria - trigonometria  
 triple - triplo  
@@ -1878,10 +1895,11 @@ zai zaman di - corrente (atual)
 zaman - tempo  
 • prezaman di - velho (antigo)  
 zar kube - dado  
-zardux magi ja - mago  
+zarduxtan mager - mago  
 zebra - zebra  
 zeyil - verruga  
 zi - caractere  
+zikura - zigurate  
 zinke - zinco  
 zira - cominho  
 zirkonium - zircónio  

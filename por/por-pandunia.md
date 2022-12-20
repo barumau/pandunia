@@ -371,6 +371,7 @@ cidade - siti
 cigarro - sigar  
 cinco (5) - lima  
 cintilar - fa sing foto  
+cipó - trepater  
 citologia - selu lojia  
 claro - klar  
 cliente - klien  
@@ -563,8 +564,9 @@ dúvida - xaki
 
 ## E  
 
-e - i  
+e - e  
 economia - mal nomi  
+ecrã - eskran  
 educação - xula  
 efeito - asar  
 efeito - exfete  
@@ -577,7 +579,7 @@ ele ou ela - da
 elemento - so  
 elemento químico - kimeme  
 eles ou elas - damen  
-eletricidade - eletro  
+eletricidade - eletre  
 elfo - elfe  
 elo - ser  
 elogio - eu loga  
@@ -592,6 +594,9 @@ encarar (afrontar; vérsus) - versi
 encontrar - ajami  
 endereço - adres  
 enganar - fa truke  
+engenharia - enjenia  
+engenheiro - enjener  
+ensaio (redação) - esai  
 ensinar (lecionar) - gio  
 ensino primário - baze xulekan  
 ensino secundário - jong xulakan  
@@ -607,6 +612,7 @@ erro (falta) - galte
 errôneo - galte di  
 erva marinha - bahai cau  
 erva-mate - mate  
+escada - trepe  
 escama - foli  
 escavar - exkava  
 escola (colégio) - xulakan  
@@ -618,7 +624,7 @@ escritório (birô) - buro
 escudo - defa bano  
 escudo - oste xalke  
 escultor - eskulte ja  
-escândio - eskandium  
+escândio - skandium  
 esfarrapado - cira cira di  
 esgrima - gem suta  
 eslavo - Slave  
@@ -630,7 +636,7 @@ espetador - speter
 espirrar - aci  
 espodossolo - hui darte  
 esponja - esponje  
-esporte - esporte  
+esporte - sporte  
 esposa - ni per (fem)  
 esposo - nan per (man)  
 esposo ou esposa - gam per  
@@ -638,13 +644,16 @@ espírito (gênio) - jini
 esquecer - anmemo  
 esqueleto - oste jama  
 esquerdo - leu  
-esquilo - ekore  
+esquilo - lixu  
 esse (aquele) - vo  
+essencial (fundamental) - esential  
+essência (existência) - esentia  
 estaca - moka kane  
 estado - hal  
 estanho - estan  
 estar deitado (jazer) - be kux  
 estação (sazão) - mosim  
+estação - statia  
 este (leste) - dong  
 este - ye  
 estirar - long tire  
@@ -869,6 +878,7 @@ inativo - anative
 incluindo - in klus  
 incluir - fa in klus  
 inclusivo - in klus di  
+indivíduo - monike  
 Indo - Hindi rivo  
 Indochina - Hindocin  
 indígena (índio) - aslamerikan  
@@ -1026,7 +1036,7 @@ macroalga - bahai alga
 madrasta - vise ma  
 magnésio - magenium  
 mago - magi ja  
-mago - zardux magi ja  
+mago - zarduxtan mager  
 mahjong - majang  
 mais - max  
 maldição - dusdua  
@@ -1068,6 +1078,7 @@ matemática - hisabu lojia
 materialismo - mate lona  
 maternal - ma di  
 matéria - mate  
+Mauritânia - Muritania  
 maçã - aple  
 mecânico - makin li  
 medio - medi di  
@@ -1162,6 +1173,7 @@ média (mídia) - media
 mês - mes  
 mímico - mime ja  
 mó - mol seku  
+mónada - monaje  
 múltiplos - polipli  
 música - muzika  
 
@@ -1347,6 +1359,7 @@ pescador - pexe saide ja
 pescoço (nuca, gargalo) - nuka  
 pessoa - jen  
 petróleo - petra nefte  
+peônia - mudan  
 picareta - pin cope  
 pilha (bateria) - batri  
 pimenta - pipre  
@@ -1377,6 +1390,7 @@ por exemplo - to misal
 por muito tempo - long dura  
 porcelana - cini  
 poro - pore  
+portaló - nave trepe  
 portar - porte  
 porto - porto  
 porto marítimo - bahai porto  
@@ -1400,6 +1414,7 @@ preferir - prefere
 prensa - prese gi  
 prensa - preser  
 prensar (pressionar, premir) - fa prese  
+presidente - presidente  
 pressa - haste  
 pressão - prese  
 preto - kala  
@@ -1410,11 +1425,12 @@ processamento de dados - data culi
 processamento de imagem - grafi culi  
 processo - culi  
 professor (docente) - xula guru  
+professor - profesor  
 profeta (arauto) - nabija  
 profetizar - nabi  
 profissão - pei kar  
 profundo - fase tele  
-programa - program  
+programa - programe  
 projeto - projete  
 projeção - jete grafi  
 projeção - lanse grafi  
@@ -1431,6 +1447,7 @@ protocolo - buro riti
 prova - dalil  
 proxeneta (cafetão) - sutener  
 pré-natal - prenatal  
+pudim - puding  
 punir (castigar) - fa fatu  
 punição (castigo) - fatu  
 purpúreo (roxo) - violeta nil  
@@ -1607,7 +1624,7 @@ semântica - semolojia
 senador - supra vakil ja  
 sentido - sense  
 sepultura (túmulo, enterrar) - gabur  
-ser (estar) - e  
+ser (estar) - es  
 ser humano - human  
 serra - xara  
 serragem - xarafun  
@@ -1863,6 +1880,7 @@ xénon - xenon
 
 zebra - zebra  
 zero - siro  
+zigurate - zikura  
 zinco - zinke  
 zircónio - zirkonium  
 zona - zona  

@@ -838,8 +838,7 @@ dux - ducha
 
 ## E  
 
-e - ser (estar)  
-eja - ser  
+e - y  
 eglisa - iglesia  
 einsteinium - einsteinium  
 Eire - Irlanda  
@@ -847,46 +846,39 @@ ekolojia - ecología
 eko - medioambiente (naturaleza)  
 eko di - ambiental (ecológico, natural)  
 eko nati di - salvaje  
-ekore - ardilla  
-ekran - pantalla  
 Ekuador - Ecuador  
-elasti - elástico (flexible)  
-eletro - electricidad  
-eletro di - eléctrico  
-eletro lin - cable  
-eletro posta (e-posta) - email (correo electrónico)  
-eletro radi - relámpago  
+elastike - elástico (flexible)  
+eletre - electricidad  
+eletrike - eléctrico  
+eletroline - cable  
 eletron - electrón  
+eletroposte (e-poste) - email (correo electrónico)  
+eletrorade - relámpago  
 elfe - elfo  
-energi - energía  
+energia - energía  
 Englix - Inglaterra  
 englix di - inglés  
 englix fili ja - anglófilo  
 englix margarita - margarita común (pascueta)  
-enjenir - ingeniero  
+enjener - ingeniero  
+enjenia - ingeniería  
 enzim - enzima  
 erbium - erbio  
 Eris - Eris (planeta enano)  
 Eritra - Eritrea  
+es - ser (estar)  
+esentia - esencia (existencia)  
+esential - esencial  
+eser - ser  
 esai - ensayo (redacción)  
-eskale - escalera  
-eskale tana - enredadera  
-eskandium - escandio  
-Eskandinavia - Escandinavia  
-Eskote - Escocia  
+eskran - pantalla  
 eskulte - escultura (estatua)  
 eskulte ja - escultor  
 eskulte suta - escultura (arte de escultura)  
-Espanya - España  
+Espania - España  
 esperanto - Esperanto  
 esponje - esponja  
-esporte - deporte  
-esporte ja - deportista  
-estadi - estadio (arena)  
 estan - estaño  
-estasi - estación  
-estasi di - estático (estacionario)  
-estasi grafi - fotograma  
 Esti - Estonia  
 estibium - antimonio  
 estrontium - strontium  
@@ -1473,6 +1465,9 @@ grafi projeter - proyector
 grafi so - píxel  
 grafi sugata - tasa de fotogramas  
 gram - gramo (g)  
+• programe - programa  
+• programaje - software (soporte lógico)  
+• programer - programador  
 gran - grano (partícula)  
 granite - granito  
 grave - grava  
@@ -1694,7 +1689,6 @@ huxi - cómodo (lujoso)
 
 ## I  
 
-i - y  
 ibri - hebreo  
 ici - voluntad  
 idee - idea (noción, concepto)  
@@ -2288,9 +2282,7 @@ linxe - lince
 lipe - grasa  
 lipide - lípido  
 lipike - graso (adiposo)  
-lipa - estar de pie  
 lipa bano - estante (repisa)  
-lipa baze - soporte (perchero, atril)  
 lipa di - erguido  
 lipa side - agacharse  
 lipi cupu - липосакция  
@@ -2300,6 +2292,7 @@ liste - lista
 litium - litio  
 litre - litro  
 livermorium - livermorio  
+lixu - ardilla  
 loba - rábano  
 loga - habla  
 loga tabi di - hablador (locuaz)  
@@ -2616,7 +2609,10 @@ molekul - molécula
 moli - jazmín  
 moliden - molibdeno  
 moluske - molusco  
+monaje - mónada  
 monograme - monograma  
+monike - individuo  
+monisme - monismo  
 Monako - Mónaco  
 Mongol - Mongolia  
 mongol di - mongol  
@@ -2651,7 +2647,7 @@ mungus - mangosta
 mur - muro (muralha)  
 mur kaguji - papel tapiz  
 murce - hormigo  
-Muritania - mauritania  
+Muritania - Mauritania  
 mus - deber (necesitar)  
 musta - obligación (compulsión)  
 muskete - mosquete  
@@ -2725,6 +2721,7 @@ nau di - cerebral
 nau hin - descerebrado  
 Nauru - Naúru  
 nautile - nautilo  
+nave trepe - portalón  
 nava - náhuatl (nahua)  
 nave - barco (bote)  
 nave dex - estribor  
@@ -3142,17 +3139,14 @@ pre - previo (anterior; antes; preceder, anteceder)
 pre di - previo (anterior)  
 preme - primer (inicial, inaugural)  
 pre si - presuponer  
+presidente - presidente  
 prese - presión  
+preser - prensa  
 prese gi - prensa  
-• preser - prensa  
-prezidente - presidente  
 proba - intentar (probar)  
 problem - problema  
 problem di - problemático  
 profesor - profesor  
-program - programa  
-program gi - software (soporte lógico)  
-program ja - programador  
 Promete - Prometeo  
 prometium - prometio  
 protacinium - proactinio  
@@ -3160,7 +3154,7 @@ puding - pudín
 puja - adoración (veneración, culto)  
 pujakan - templo  
 puja meza - altar  
-puja riti - rito (ceremonia)  
+puja rite - rito (ceremonia)  
 pul - lleno (completo)  
 pul bon - perfecto  
 pul ekran - pantalla completa  
@@ -3495,6 +3489,9 @@ sita marke - comilla
 siti - ciudad  
 sivil - civilizado  
 sivilta - civilización  
+Skandia - Escandinavia  
+skandium - escandio  
+Skotia - Escocia  
 skuter - patinete  
 Slave - eslavo  
 Slovakia - Eslovaquia  
@@ -3537,6 +3534,14 @@ sosis - salchicha
 Soto - Lesoto  
 • inspete - inspeccionar (examinar, revisar, chequear)  
 • speter - espectador  
+sporte - deporte  
+sporter - deportista  
+stadia - estadio (arena)  
+state - estar de pie  
+statobaze - soporte (perchero, atril)  
+statia - estación  
+statike - estático (estacionario)  
+statike grafe - fotograma  
 su - de (posposición de posesión)  
 suahili - suajili  
 sual - pregunta  
@@ -3753,6 +3758,8 @@ trati - contrato (tratado)
 tre - muy  
 tren - tren  
 tren dau - vía férrea  
+trepe - escalera  
+trepater - trepadora (enredadera)  
 tri - tres (3)  
 trigone - triángulo  
 trigonometria - trigonometría  
@@ -4116,10 +4123,10 @@ Zambia - Zambia
 zar - riesgo (posibilidad)  
 zar di - azar (aleatorio)  
 zar kube - dado  
-Zardux - Zoroastro  
-zardux din - zoroastrismo  
-zardux din ja - zoroastriano  
-zardux magi ja - mago  
+Zarduxte - Zoroastro  
+zarduxtan mager - mago  
+zarduxtisme - zoroastrismo  
+zarduxtiste - zoroastriano  
 zebra - cebra  
 zeyil - verruga  
 zi - carácter  

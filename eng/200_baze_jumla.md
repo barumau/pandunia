@@ -119,20 +119,20 @@ Thanks for helping me.
 You're welcome. (Literally: _No need to thank._)
 
 
-### e <small>to be</small>
+### es <small>to be</small>
 
-The word **e** can be used also for stating something as a fact.
+The word **es** can be used also for stating something as a fact.
 
-**mi e Tomas.**
+**mi es Tomas.**
 I am Thomas.
 
-**tu e Sara.**
+**tu es Sara.**
 You are Sarah.
 
-**aple e frute.**
+**aple es frute.**
 The apple is a fruit.
 
-<small>Etymology. **e** is from
+<small>Etymology. **es** is from
 French *est* /ɛ/,
 Portuguese *é*,
 Hindi है /ɦɛ/.</small>
@@ -140,10 +140,10 @@ Hindi है /ɦɛ/.</small>
 
 ### mi <small>I, me</small>
 
-**mi e Sara.**
+**mi es Sara.**
 I'm Sarah.
 
-**mi e Tomas.**
+**mi es Tomas.**
 I'm Thomas.
 
 **mi sal mama.**
@@ -172,7 +172,7 @@ is from English: me, Hindi: मैं (meṇ), Spanish: me, French: me, Swahili:
 
 ### tu <small>you</small>
 
-**tu e Tomas.**
+**tu es Tomas.**
 You are Thomas.
 
 **mi sal tu.**
@@ -201,13 +201,13 @@ French *tu*.</small>
 
 <p style="font-size:4em;">👥🗣️👉👤</p>
 
-**da e man.**
+**da es man.**
 He is a man.
 
-**da e fem.**
+**da es fem.**
 She is a woman.
 
-**da e aple.**
+**da es aple.**
 It is an apple.
 
 **da**
@@ -223,17 +223,17 @@ Mandarin 他/她 (tā).</small>
 
 ### sual <small>to ask a question</small>
 
-**sual tu e Tomas?**
+**sual tu es Tomas?**
 Are you Thomas?
 
-**sual tu e davar?**
+**sual tu es davar?**
 Are you a doctor?
 
 Tip: Yes/no questions frequently begin with
 **sual**.
 It is just a regular verb, not a special _question tag_.
 In fact, the previous question is simply abbreviated from
-**mi sual tu e davar**
+**mi sual tu es davar**
 (I ask, you are doctor?) by dropping out the first word.
 
 **sual tu bon?**
@@ -254,25 +254,25 @@ Swahili _swali_.</small>
 
 ### ya <small>yes</small>
 
-**sual tu e Tomas?**
+**sual tu es Tomas?**
 Are you Thomas.
 
-**ya, mi e Tomas.**
+**ya, mi es Tomas.**
 Yes, I am Thomas.
 
-**sual da e davar?**
+**sual da es davar?**
 Is he/she a doctor?
 
-**ya, da e davar.**
+**ya, da es davar.**
 Yes, he is a doctor.
 
 
 ### no <small>no, not</small>
 
-**mi no e Sara.**
+**mi no es Sara.**
 I'm not Sarah.
 
-**mi no e davar.**
+**mi no es davar.**
 I'm not a doctor.
 
 **sual tu bon?**
@@ -322,13 +322,13 @@ You greet them.
 **damen sal mimen!**
 They greet us.
 
-**mimen e fem.**
+**mimen es fem.**
 We are women.
 
-**tumen e man.**
+**tumen es man.**
 You are men.
 
-**damen e aple.**
+**damen es aple.**
 They are apples.
 
 
@@ -337,47 +337,47 @@ They are apples.
 **ke?**
 What?
 
-**tu e ke?**
+**tu es ke?**
 Who are you?  
-**mi e Tomas.**
+**mi es Tomas.**
 I'm Thomas.
 
-**da e ke?**
+**da es ke?**
 Who is he/she?  
-**da e Sara.**
+**da es Sara.**
 She is Sarah.
 
-**tumen e ke?**
+**tumen es ke?**
 Who are you people?
 
-**damen e ke?**
+**damen es ke?**
 Who are they?
 
 <small>Etymology. **ke** is from Spanish: qué, Portuguese: que, Italian: che,
 Bengali: কী "ke".</small>
 
 
-### ye i vo <small>this and that</small>
+### ye e vo <small>this and that</small>
 
-**ye e ke?**
+**ye es ke?**
 What's this?
 
-**ye e aple.**
+**ye es aple.**
 This is an apple.
 
-**vo e ke?**
+**vo es ke?**
 What is that?
 
-**vo e oranje.**
+**vo es oranje.**
 That is an orange.
 
-**ye e rubi aple.**
+**ye es rubi aple.**
 This is a red apple.
 
-**ye aple e rubi.**
+**ye aple es rubi.**
 This apple is red.
 
-**ye e rubi.**
+**ye es rubi.**
 This is red.
 
 **damen a ke?**
@@ -393,16 +393,16 @@ They are there.
 
 ### su <small>'s (possessive particle)</small>
 
-**ye e ke?**
+**ye es ke?**
 What's this?
 
-**da e mi su telefon.**
+**da es mi su telefon.**
 It's my telephone.
 
-**ye e ke su?**
+**ye es ke su?**
 Whose is this?
 
-**da e mi su.**
+**da es mi su.**
 It's mine.
 
 Note: Possessive particle
@@ -413,13 +413,13 @@ means "my",
 **tu su**
 means "your" and so on.
 
-**da e ke?**
+**da es ke?**
 Who's he/she?
 
-**da e mi su dosti.**
+**da es mi su dosti.**
 He/she is my friend.
 
-**mi e Sara su dosti.**
+**mi es Sara su dosti.**
 I am Sarah's friend.
 
 <small>Etymology. **su**
@@ -430,16 +430,16 @@ Spanish _su_.</small>
 
 ### nam <small>name</small>
 
-**tu su nam e ke?**
+**tu su nam es ke?**
 What's your name?
 
-**mi su nam e Tomas.**
+**mi su nam es Tomas.**
 My name is Thomas.
 
-**da su nam e ke?**
+**da su nam es ke?**
 What is his/her name?
 
-**da su nam e Sara.**
+**da su nam es Sara.**
 Her name is Sarah.
 
 <small>Etymology. **nam** is from
@@ -618,10 +618,10 @@ Are you thirsty?
 **maf! mi no aha.**
 Sorry, I don't understand.
 
-**maf! ye e ke?**
+**maf! ye es ke?**
 Excuse me, what's this?
 
-**maf. tu su nam e ke?**
+**maf. tu su nam es ke?**
 Excuse me, what's your name?
 
 
@@ -684,7 +684,7 @@ We talk to each other.
 **se loga "cat" a ke yang a pandunia?**
 How do you say "cat" in Pandunia?
 
-**"cat" e ke a pandunia?**
+**"cat" es ke a pandunia?**
 What is "cat" in Pandunia?
 
 **mau loga "miau".**
@@ -818,7 +818,7 @@ Do you travel by train?
 **mimen safar de London to Paris.**
 We travel from London to Paris.
 
-**safar e dai di long.**
+**safar es dai di long.**
 The voyage is very long.
 
 
@@ -887,7 +887,7 @@ I am greeting your friend.
 **la man ya zai vide un filme.**  
 The man is watching a film.
 
-**da zai e xefe.**  
+**da zai es xefe.**  
 He/she is currently the chief.
 
 **da zai a dom.**  
@@ -902,7 +902,7 @@ I greeted your friend.
 **la man ya pas vide un filme.**  
 The man watched a film.
 
-**da pas e xefe.**  
+**da pas es xefe.**  
 He/she was the chief.
 
 **da pas a dom.**  
@@ -917,7 +917,7 @@ I have greeted your friend.
 **la man le vide un filme.**  
 The man has watched a film.
 
-**da le e xefe.**  
+**da le es xefe.**  
 He/she has been the chief.
 
 **da le a la dom.**  
@@ -932,7 +932,7 @@ I will greet your friend.
 **la man xa vide la filme.**  
 The man will watch the film.
 
-**da xa e xefe.**  
+**da xa es xefe.**  
 He/she will be the chief.
 
 **da xa a dom.**  
@@ -978,7 +978,7 @@ I will take a beer.
 
 ### kira <small>rent, lease, hire</small>
 
-**kira e 500 dolar a mes.**  
+**kira es 500 dolar a mes.**  
 The rent is 500 dollars in a month.
 
 **da no bil pei la kira.**  
@@ -1010,16 +1010,16 @@ I will buy a beer.
 
 ### yang <small>type, kind, sort</small>
 
-**da e ke yang?**
+**da es ke yang?**
 What is it like?
 
-**sual da e neu?**
+**sual da es neu?**
 Is it new?
 
-**ke e max boni?**
+**ke es max boni?**
 Which is better?
 
-**ye e maxim bon (de pan).**
+**ye es maxim bon (de pan).**
 This is the best (of all).
 
 **da kosta ke?**
@@ -1058,7 +1058,7 @@ I will never forget you.
 ****
 Don't worry! (Hakuna matata!)
 
-**pan e oke.**
+**pan es oke.**
 Everything is alright.
 
 ****

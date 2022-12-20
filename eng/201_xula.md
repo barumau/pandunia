@@ -19,22 +19,22 @@ hide:
 **sal!**
 = Hello!  
 <big>☺</big>
-**tu e ke?**
+**tu es ke?**
 = Who are you?  
 <big>☻</big>
-**mi e Yusef. tu e ke?**
+**mi es Yusef. tu es ke?**
 = I am Yusef. Who are you?  
 <big>☺</big>
-**mi e Sara. da e ke?**
+**mi es Sara. da es ke?**
 = I am Sara. Who is that?  
 <big>☻</big>
-**da e mi su dosti.**
+**da es mi su dosti.**
 = That is my friend.  
 <big>☺</big>
-**da su nam e ke?**
+**da su nam es ke?**
 = What's her name?  
 <big>☻</big>
-**da su nam e Maria.**
+**da su nam es Maria.**
 = Her name is Maria.
 
 ### Grammar
@@ -42,38 +42,38 @@ hide:
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
 tells something about the topic. For instance in
-**da e mi su dosti**
+**da es mi su dosti**
 the topic is the pronoun
 **da**
 (he, she, it), which is followed by the comment
-**e mi su dosti**
+**es mi su dosti**
 (is my friend).
 
-In Pandunia, the word **e** functions like _to be_ in English.
+In Pandunia, the word **es** functions like _to be_ in English.
 The same word is used for all persons.
 And to say the opposite, simply put **no** before it.
 
-**da e Sara.**
+**da es Sara.**
 = She is Sarah.  
-**da no e Sara.**
+**da no es Sara.**
 = She is not Sarah.
 
-**mau e hevan.**
+**mau es hevan.**
 = The cat is an animal.  
-**dom no e hevan.**
+**dom no es hevan.**
 = The house is not an animal.  
 
 In the same way you can describe yourself by saying
-**mi e**
+**mi es**
 and a word that describes you.
 
-**mi e bon.**
+**mi es bon.**
 = I'm good.  
-**mi e man.**
+**mi es man.**
 = I'm a man.  
-**mi e fem.**
+**mi es fem.**
 = I'm a woman.  
-**mi e nobi.**
+**mi es nobi.**
 = I'm non-binary.
 
 
@@ -106,7 +106,7 @@ he, she or it
 his, her, its  
 **ke**
 who or what  
-**e**
+**es**
 to be  
 **no**
 no; not  
@@ -127,12 +127,12 @@ animal
 
 ### Answers to the Exercises
 
-1. tu e ke?
-2. mi e Tomas.
-3. tu su dosti e ke?
-4. da e Sara.
-5. tu su nam e ke?
-6. mi su nam e ........... 
+1. tu es ke?
+2. mi es Tomas.
+3. tu su dosti es ke?
+4. da es Sara.
+5. tu su nam es ke?
+6. mi su nam es ........... 
 
 
 --------------------------------------------------------------------------------
@@ -270,7 +270,7 @@ chief, boss
 
 ### Dialog
 
-![](http://www.pandunia.info/grafe/laupapa.png "cin pa e bacha")  
+![](http://www.pandunia.info/grafe/laupapa.png "cin pa es bacha")  
 <small>Image designed by [macrovector](https://www.freepik.com/macrovector)</small>
 
 <big>☻</big>
@@ -409,7 +409,7 @@ grandfather
 to ask; please  
 **don**
 to give  
-**e**
+**es**
 and  
 **ga**
 to go  
@@ -443,7 +443,7 @@ some, a(n)
 2. la xefe cing da side.
 3. cing yam kafe o cai.
 4. mama cing mi saf kamar.
-5. xefe side i yam kafe.
+5. xefe side e yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -487,7 +487,7 @@ some, a(n)
 **no yam.**
 = No.  
 <big>☺</big>
-**xukur. mi don un cai i un kafe i un supe pos des minute.**
+**xukur. mi don un cai e un kafe e un supe pos des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -687,7 +687,7 @@ but
 1. da no saf kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da no ha vaf i mau. / da ha no vaf i no mau.
+4. da no ha vaf e mau. / da ha no vaf e no mau.
 5. xefe yam cai ama no kafe.
 6. mama ha no vaf ama du mau.
 
@@ -701,11 +701,11 @@ _when_, the interrogative pronoun **ke** is normally used. The
 question can be made more specific by adding words for person, time,
 manner or thing if needed.
 
-**da e ke?**
+**da es ke?**
 = What is that? / Who is (s)he?  
-**da e ke jen?**
+**da es ke jen?**
 = Who is he/she?  
-**da e ke xe?**
+**da es ke xe?**
 = What (thing) is it?  
 **ke jen lai?**
 = Who is coming? (**jen** = person)  
@@ -726,13 +726,13 @@ before the cause or reason.
 
 **ke sabu tu suka mau?**
 = Why do you like cats?  
-**de sabu damen e kavai.**
+**de sabu damen es kavai.**
 = Because they are cute.
 
 Of course **sabu** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-**mi suka mau de sabu damen e kavai**
+**mi suka mau de sabu damen es kavai**
 = I like cats because they are cute.
 
 ### Exercises
@@ -771,7 +771,7 @@ period of time
 3. ke zaman da lai?
 4. pos des minute.
 5. ke sabu da no yam?
-6. de sabu da no suka kafe i supe.
+6. de sabu da no suka kafe e supe.
 
 
 --------------------------------------------------------------------------------
@@ -805,11 +805,11 @@ There are also specific time words.
 
 They can be used for modifying nouns.
 
-**Sara e mi su pas xefe.**
+**Sara es mi su pas xefe.**
 = Sarah is my former boss.  
-**Yusef e mi su zai xefe.**
+**Yusef es mi su zai xefe.**
 = Yusef is my current boss.  
-**Maria e mi su xa xefe.**
+**Maria es mi su xa xefe.**
 = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
@@ -840,7 +840,7 @@ or until it becomes useful to stress that you are still talking in the same tens
 
 **mi pas ha un mau.**
 = I had a cat in the past.  
-**da e bon mau.**
+**da es bon mau.**
 = It was a good cat.  
 **mi ha un vaf a zai.**
 = I have a dog now.

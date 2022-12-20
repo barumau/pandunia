@@ -12,7 +12,7 @@ For example, the word
 modifies a noun in sentence A
 and a verb in sentence B.
 
-A. **vo e _mei_ kitaba.**
+A. **vo es _mei_ kitaba.**
 – That is a beautiful writing.  
 B. **tu _mei_ di kitaba.**
 – You write _beautifully_.
@@ -138,9 +138,9 @@ The particle
 **ka**
 relates the adverbs of comparison to the object of comparison.
 
-**aple e max bon ka oranje.**
+**aple es max bon ka oranje.**
 = Apples are better than oranges.  
-**oranje e min bon ka aple.**
+**oranje es min bon ka aple.**
 = Oranges are less good than apples.  
 **tu loga par bon ka mi.**
 = You speak as well as me.

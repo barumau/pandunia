@@ -193,12 +193,15 @@
  - dus topi  
  - dusastre  
  - dute  
- - eja  
  - elfe  
  - Enceladus  
  - englix fon di  
- - espanya fon di  
- - estasi grafi  
+ - enjenia  
+ - esente  
+ - esentia  
+ - esential  
+ - eser  
+ - espanofonike  
  - estude  
  - etan  
  - etanol  
@@ -596,6 +599,8 @@
  - mision  
  - module  
  - moli hua cai  
+ - mone  
+ - monike  
  - monograme  
  - moto cati  
  - muxu cakra  
@@ -694,7 +699,7 @@
  - poyu  
  - prese  
  - prese gi  
- - program gi  
+ - preser  
  - Promete  
  - pul ekran  
  - pul fina  
@@ -766,6 +771,7 @@
  - sorbe  
  - spete  
  - stan  
+ - statike grafe  
  - suan mate  
  - sui culi  
  - sui gui  
@@ -903,7 +909,7 @@
  - you jen  
  - you nen  
  - youta  
- - zardux magi ja  
+ - zarduxtan mager  
  - zelo  
  - zeta  
  - zeze  
@@ -1029,11 +1035,11 @@
  - prefere  
  - prekurse  
  - prepoze  
- - preser  
  - procese  
  - proceser  
  - produte  
  - produter  
+ - programaje  
  - progresion  
  - promise  
  - propele  
@@ -1353,7 +1359,7 @@ but - sapatu
 butelka - botel  
 Bułgaria - Bolgaria  
 bułka gotowana na parze - mantu  
-być - e  
+być - es  
 być mistrzem (być ekspertem) - maste  
 być obok - a late  
 być poddanym, doświadczyć, doświadczać (ubierniający czasownik) - be  
@@ -1684,17 +1690,17 @@ egzoplaneta - vai planeta
 einstein - einsteinium  
 ekologia (nauka o środowisku) - ekolojia  
 ekonomia - mal nomi  
-ekran - ekran  
+ekran - eskran  
 ekskrement, gówno - kaka  
 eksplodować (wybuchnąć, wybuchać) - be bum  
 eksportować (wyeksportować) - vai mise  
 eksportować (wyeksportować) - exporte  
 Ekwador - Ekuador  
-elastyczny - elasti  
+elastyczny - elastike  
 elegancki, szykowny - xike  
 elektron - eletron  
-elektryczność - eletro  
-elektryczny - eletro di  
+elektryczność - eletre  
+elektryczny - eletrike  
 eliksir (magiczny napój) - dava sui  
 emir - amir ja  
 emirat - amir dexa  
@@ -1703,7 +1709,7 @@ emocjonalny (uczuciowy) - gamo di
 emoji (emotkon) - gamo zi  
 emulować (symulować, naśladować, modelować) - fa sam sifa  
 endonim - in nam  
-energia - energi  
+energia - energia  
 energia nuklearna - kerne energi  
 enzym - enzim  
 epistemologia (gnoseologia, teoria poznania) - san lojia  
@@ -1922,7 +1928,7 @@ haszysz - haxix
 hasło - sekur kode  
 Hawaje - Havai  
 Hawaje (archipelag hawajski) - Havai nesia  
-hałas - esporte ja  
+hałas - sporter  
 hebel, strug - rande  
 heblować - fa rande  
 hebrajski - ibri  
@@ -1945,7 +1951,7 @@ hipopotam - gubu
 historia, badanie historii - historolojia  
 historia; annały, roczniki - historia  
 historyk - historer  
-Hiszpania - Espanya  
+Hiszpania - Espania  
 hmm… - hem…  
 Ho Chi Minh (Sajgon) - Ho Ci Min site  
 hobby - hobi  
@@ -1978,7 +1984,7 @@ humorystyczny, śmieszny, zabawny, komiczny - humorike
 hybryda; kundel - hibride  
 hę?, co?, pardon? - he  
 I - I  
-i, oraz - i  
+i, oraz - e  
 idea, pomysł - idee  
 ideogram - ideograme  
 idiota - idiote  
@@ -2019,7 +2025,7 @@ intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki) - tez
 interesujący - san vol di  
 interfejs - medi fase  
 internet - internete  
-inżynier - enjenir  
+inżynier - enjener  
 Irak - Iraqi  
 Iran - Iran  
 Irlandia - Eire  
@@ -2110,7 +2116,7 @@ język; komunikacja; mówić - baxe
 językoznastwo - baxe lojia  
 K - K  
 kabaczek (dynia, tykwa) - kaboga  
-kabel (linia) - eletro lin  
+kabel (linia) - eletroline  
 kaczka - bata  
 kadm - kadimium  
 Kajmany - Kaiman nesi  
@@ -2672,11 +2678,13 @@ mol - mole
 molekuła (cząsteczka) - molekul  
 molibden - moliden  
 moment - sata  
+monada - monaje  
 Monako - Monako  
 monarchia - autokratia  
 moneta - pesa diske  
 Mongolia - Mongol  
 Mongolski - mongol di  
+monizm - monisme  
 monizm - un xe sim  
 monolog - auto loga  
 monoteizm - un deu sim  
@@ -3140,7 +3148,7 @@ pilaw - polau
 pilot - pilote  
 pingwin - pinguin  
 pionowy - gau dipe  
-piorun (grom) - eletro radi  
+piorun (grom) - eletrorade  
 piractwo - pirate  
 piramida - piram  
 pirat - pirate ja  
@@ -3185,12 +3193,12 @@ plemię - kabile
 pluton - plutonium  
 Pluton (planeta karłowata) - Pluton  
 pluć - tuh  
-pnącz - eskale tana  
+pnącz - trepater  
 pochochodnia (latarka) - fote kane  
 pocisk - lanse xe  
 pociąg - tren  
 poczta - posta  
-poczta elektroniczna - eletro posta (e-posta)  
+poczta elektroniczna - eletroposte (e-poste)  
 poczta, budynek poczty - postakan  
 początek - xuru  
 pod (poniżej) - a nice  
@@ -3358,7 +3366,7 @@ prać, umyć, myć - vaxi
 preferować (woleć) - max fili  
 prekursor - prekurser  
 premier - xefe ministre ja  
-prezydent - prezidente  
+prezydent - presidente  
 problem - problem  
 problematyczny - problem di  
 proces, procedura - culi  
@@ -3367,8 +3375,8 @@ produkcja - sana
 produktywny (żyzny) - sana ja di  
 profesja, zajęcie, zawód - pei kar  
 profesor - profesor  
-program - program  
-programista, koder - program ja  
+program - programe  
+programista, koder - programer  
 projekt, planowane przedsięwzięcie - projete  
 projektor (rzutnik) - grafi lanse gi  
 projektor (rzutnik) - grafi projeter  
@@ -3628,7 +3636,7 @@ rym (wers) - rim
 rynek, bazar - bazar  
 rysunek, obraz - desen  
 rytm, bit - ritim  
-rytuał, ceremonia, ryt - puja riti  
+rytuał, ceremonia, ryt - puja rite  
 ryzyko - risko  
 ryzykowny - risko di  
 ryś - linxe  
@@ -3703,7 +3711,7 @@ sauna - sauna
 sawanna - garma zona caustan  
 sałata - letus  
 sałatka - salade  
-schody (drabina) - eskale  
+schody (drabina) - trepe  
 seaborg - siborgium  
 sejsmologia - sismolojia  
 sekcja zwłok (obdukcja) - nekro tomi  
@@ -3749,8 +3757,8 @@ się (nawzajem, wzajemnie) - semen
 siła - balata  
 siła, autorytet, władza - sultan  
 siły powietrzne - air ordu  
-skand - eskandium  
-Skandynawia - Eskandinavia  
+skand - skandium  
+Skandynawia - Skandia  
 skarb; skrabiec - bau  
 skarpeta, skarpetka, pończocha - maze  
 skała - petra  
@@ -3809,7 +3817,7 @@ spodnie (pantalony, portki) - pante
 spodziewany (przewidziany) - previde di  
 spokojny - xanti di  
 sporokarp - fungu frute  
-sport, lekkoatletyka - esporte  
+sport, lekkoatletyka - sporte  
 spotkać (spotkanie, zebranie) - ajami  
 spowodować, powodować - fa sabu  
 społeczeństwo, system społeczny - sosi  
@@ -3836,8 +3844,8 @@ Sri Lanka - Lanka
 srom - vulva  
 ssak - mamal  
 ssać - cupu  
-stacja - estasi  
-stadion, arena - estadi  
+stacja - statia  
+stadion, arena - stadia  
 stan - hal  
 Stan Nowy Jork - neu Yorke siti  
 Stany Zjednoczone Ameryki - Unta Dex de Amerika (UDA)  
@@ -3845,12 +3853,12 @@ Starożytny Egipt (Kemet) - Keme
 stary (sędziwy, wiekowy) - lau  
 stary, starożytny - prezaman di  
 starzec - lau jen  
-statyczny, stacjonarny, nieruchomy - estasi di  
-stać - lipa  
+statyczny, stacjonarny, nieruchomy - statike  
+stać - state  
 stały (sztywny) - gati mate di  
 sterburta (prawa burta) - nave dex  
 sto (100) - sento  
-stojak (wieszak) - lipa baze  
+stojak (wieszak) - statobaze  
 stokrotka - margarita  
 stokrotka pospolita - englix margarita  
 stolarz - moka sanaja  
@@ -3937,7 +3945,7 @@ sześć (6) - luka
 szisz kebab - xix kababu  
 szkielet - oste jama  
 szklić (glazurować) - fa glas dake  
-Szkocja - Eskote  
+Szkocja - Skotia  
 szkoła (instytucja) - xulakan  
 szkoła podstawowa - baze xulekan  
 szkło - glas  
@@ -4093,6 +4101,7 @@ towarzysz (partner, kumpel) - late jen
 traktor (ciągnik) - trater  
 traktować - fa culi  
 transport - traporte  
+trap - nave trepe  
 trawa - cau  
 trawa mor - bahai cau  
 treść (zawartość) - in xe  
@@ -4318,7 +4327,7 @@ wierzący (osoba religijna) - din ja
 wierzący (osoba religijna) - kredija  
 Wietnam - Viete  
 wietnamski - viete baxa  
-wiewiórka - ekore  
+wiewiórka - lixu  
 wieś, tereny wiejskie - agristan  
 wieś, wioska - deha  
 wieża - tore  
@@ -4541,9 +4550,9 @@ zapytać, pytać - ke sata
 zapytać, spytać, pytać - fa sual  
 zapłacić, opłacić, płacić - fa pei  
 zapłata, opłata - pei  
-zaratrustianin - zardux din ja  
-Zaratusztra - Zardux  
-zaratusztrianizm - zardux din  
+zaratrustianin - zarduxtiste  
+Zaratusztra - Zarduxte  
+zaratusztrianizm - zarduxtisme  
 zarządzanie (-nomia) - nomi  
 zarządzać (organizować, kierować) - fa nomi  
 zasada - bazisme  
@@ -4585,7 +4594,7 @@ zdrowie - saluta
 zdrowy - sale  
 zebra - zebra  
 zegar (zegarek) - hor loga gi  
-zejść (schodzić, zstąpić, zstępować) - aneskale  
+zejść (schodzić, zstąpić, zstępować) - detrepe  
 zemleć (mleć, mielić) - fa mol  
 zero, nic, żaden - siro  
 zespół (drużyna, grupa) - banda  

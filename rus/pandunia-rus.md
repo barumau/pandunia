@@ -443,21 +443,23 @@ dux - душ
 
 ## E  
 
-e - быть  
 einsteinium - эйнштейний  
 eko nati di - дикий  
-ekore - белка  
-eletro lin - провод (кабель)  
-eletro radi - молния  
+elastike - эластичный  
+eletroline - провод (кабель)  
+eletrorade - молния  
 elfe - эльф  
 englix margarita - маргаритка многоле́тняя  
+enjener - инженер  
+enjenia - инженерия  
 erbium - эрбий  
-eskandium - скандий  
+es - быть  
+esentia - бытие (существование)  
+esai - сочинение (эссе)  
+eskran - экран  
 eskulte ja - скульптор  
 esponje - губка  
-esporte - спорт  
 estan - олово  
-estasi grafi - кадр  
 estibium - сурьма  
 estrontium - стронций  
 estude - этюд  
@@ -686,6 +688,8 @@ gradu mute - развитие
 grafi culi - обработка изображений  
 grafi kata - комикс  
 grafi so - пиксель  
+• programe - программа  
+• programaje - программное обеспечение  
 granite - гранит  
 grave - гравий  
 • agrese - нападение (атака, агрессия)  
@@ -1104,6 +1108,7 @@ liste - список
 litium - литий  
 litre - литр  
 livermorium - ливерморий  
+lixu - белка  
 loga - речь  
 loge - запись  
 loge buku - судовой журнал  
@@ -1247,7 +1252,9 @@ mol seku - жёрнов
 moli - жасмин  
 moliden - молибден  
 moluske - моллюск  
+monaje - монада  
 monograme - монограмма (вензель)  
+monike - особа (индивидуум)  
 mos - мох  
 mos di - мшистый  
 mosim - время года (сезон)  
@@ -1258,6 +1265,7 @@ mostre - монстр
 moto - мотор  
 moto cati - капот  
 moto sikle - мотоцикл  
+mudan - пион  
 mula - корень  
 mum melon - восковая тыква (зимняя дыня)  
 mur - стена (вал)  
@@ -1301,6 +1309,7 @@ nau - мозг
 nau di - мозговой (церебральный)  
 nau hin - безмозглый  
 nautile - наутилид  
+nave trepe - трап  
 nave - лодка (бот)  
 nave dex - правый борт  
 nave leu - левый борт  
@@ -1497,17 +1506,18 @@ poto stan - болото (топь)
 poyu - вошь  
 prazedimium - празеодим  
 pre - раньше  
+presidente - президент  
 prese - давление (нажим)  
+preser - пресс  
 prese gi - пресс  
-• preser - пресс  
 proba - пытаться (пробовать; проба)  
 problem - проблема  
 problem di - проблематичный  
-program - программа  
-program gi - программное обеспечение  
+profesor - профессор  
 Promete - Прометей  
 prometium - прометий  
 protacinium - протактиний  
+puding - пудинг  
 pujakan - храм (место богослужения)  
 puja meza - алтарь  
 pul - полный  
@@ -1669,6 +1679,7 @@ sing - звезда
 sir plan - заговор (сговор)  
 siro - нуль (зеро)  
 sis - сестра (sestra)  
+skandium - скандий  
 Slave - славянский  
 so - элемент  
 sofa - софа (диван, канапе)  
@@ -1692,6 +1703,9 @@ sos - соус
 sosi - общество (социум)  
 sosi jinse - гендер  
 sosis - колбаса (сосиска)  
+sporte - спорт  
+statia - станция  
+statike grafe - кадр  
 sual - вопрос  
 sual dokumen - анкета  
 suga - быстрый  
@@ -1796,6 +1810,7 @@ trati - договор
 • kontrati - договор (контракт)  
 tre - очень  
 tren - поезд  
+trepe - лестница (ступеньки)  
 tri - три (3)  
 trigonometria - тригонометрия  
 tri pike - трезубец  
@@ -1993,14 +2008,15 @@ zalim raja - тиран (деспот)
 • prezaman di - старый (древний)  
 Zambia - Замбия  
 zar kube - кость (кубик)  
-Zardux - Зороастр  
-zardux din ja - зороастризм  
+Zarduxte - Зороастр  
+zarduxtiste - зороастризм  
 zebra - зебра  
 zeyil - бородавка  
 zeze - двукрылое  
 zi - буква (символ, иероглиф)  
 zi forma - шрифт  
 zi seri - алфавит  
+zikura - зиккурат  
 Zimbabue - Зимбабве  
 zinke - цинк  
 zira - тмин (зира)  

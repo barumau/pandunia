@@ -521,22 +521,25 @@ dux - douche
 
 ## E  
 
-e - être  
+e - et  
 einsteinium - einsteinium  
 Eire - Irland  
 eko nati di - sauvage  
-ekore - écureuil  
-eletro - électricité  
+elastike - élastique  
+eletre - électricité  
 elfe - elfe  
 englix fon di - anglophone  
 englix margarita - pâquerette  
+enjener - ingénieur  
+enjenia - ingénierie (génie)  
 erbium - erbium  
-eskale tana - vigne  
-eskandium - scandium  
-Eskandinavia - Scandinavie  
+es - être  
+esentia - être (existence, essence)  
+esential - essentiel (fondamental)  
+esai - essai  
+eskran - écran  
 eskulte ja - sculpteur  
 esponje - éponge  
-esporte - sport  
 estan - étain  
 estibium - antimoine  
 estrontium - strontium  
@@ -794,6 +797,7 @@ goton - coton
 gradu mute - développement  
 grafi culi - traitement d'images  
 grafi kata - bande dessinée  
+• programe - programme  
 granite - granit  
 grave - gravire  
 grese - marcher  
@@ -908,7 +912,6 @@ hura - hourra
 
 ## I  
 
-i - et  
 ideal - idéal  
 ideograme - idéogramme  
 iglu - iglou  
@@ -1236,6 +1239,7 @@ liste - liste
 litium - lithium  
 litre - litre  
 livermorium - livermorium  
+lixu - écureuil  
 loga - parole  
 loga tabi di - loquace  
 loge - enregistrement  
@@ -1398,7 +1402,9 @@ mol seku - meule
 mole - mole (unité)  
 moli - jasmin  
 moliden - molybdène  
+monaje - monade  
 monograme - monogramme  
+monike - individu  
 mos - mousse  
 mos di - moussu  
 mosim - saison  
@@ -1407,11 +1413,13 @@ moskvium - moscovium
 mostre - monstre  
 moto - moteur  
 moto cati - capot  
+mudan - pivoine  
 muka - visage  
 mula - racine  
 mur - mur  
 mur kaguji - papier peint  
 murce - fourmi  
+Muritania - Mauritanie  
 mus - devoir  
 muskul bina - culturisme (musculation)  
 musli - musli  
@@ -1446,6 +1454,7 @@ natri - sodium
 nau - cerveau (cervelle)  
 nau di - cérébral  
 nautile - nautile  
+nave trepe - passerelle  
 nave - bateau  
 nave dex - tribord  
 nave leu - babord  
@@ -1661,16 +1670,18 @@ poyu - pou
 • expoze - exposer  
 prazedimium - praséodyme  
 pre - avant  
+presidente - président  
 prese - pression  
+preser - pressoir  
 prese gi - pressoir  
-• preser - pressoir  
 proba - essayer (tenter)  
 problem - problème  
 problem di - problématique  
-program - programme  
+profesor - professeur  
 Promete - Prométhée  
 prometium - prométhium  
 protacinium - protactinium  
+puding - pudding  
 pujakan - temple  
 puja meza - autel  
 pul - plein  
@@ -1830,6 +1841,8 @@ sirta - célérité
 siro - zéro  
 sis - sœur  
 siti - ville  
+Skandia - Scandinavie  
+skandium - scandium  
 skuter - trottinette  
 so - élément (unité fondamentale)  
 sofa - canapé (sofa)  
@@ -1855,6 +1868,9 @@ sos - sauce
 sosi - société  
 sosis - saucisse  
 • speter - spectateur  
+sporte - sport  
+state - estar debout  
+statia - station (gare)  
 sual - question  
 sueda - sueur  
 suga - vite (rapide)  
@@ -1959,6 +1975,8 @@ trati - contract (traité)
 • kontrati - contract (traité)  
 tre - très  
 tren - train  
+trepe - escalier (traper)  
+trepater - vigne  
 tri - trois (3)  
 trigonometria - trigonométrie  
 triple - triple  
@@ -2160,13 +2178,14 @@ zai zaman di - actuel (courant)
 zaman - temps  
 • prezaman di - vieux (ancien)  
 zar kube - dé  
-Zardux - Zoroastre  
-zardux din - zoroastrisme  
-zardux din ja - zoroastrien  
+Zarduxte - Zoroastre  
+zarduxtisme - zoroastrisme  
+zarduxtiste - zoroastrien  
 zebra - zèbre  
 zeyil - verrue  
 zi - caractère  
 zi seri - alphabet  
+zikura - ziggourat  
 zinke - zinc  
 zira - cumin  
 zirkonium - zirconium  

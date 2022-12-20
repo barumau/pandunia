@@ -708,15 +708,19 @@ entrer - intre
 envelopper (emballer) - fa lifafa  
 erbium - erbium  
 erroné - galte di  
+escalier (traper) - trepe  
 escrime - gem suta  
 escroquer - fa truke  
 espace (zone, région) - area  
 espace - hali zi  
 espectador - vide ja  
 esprit (génie) - jini  
+essai - esai  
 essayer (tenter) - proba  
+essentiel (fondamental) - esential  
+estar debout - state  
 estrade - tai  
-et - i  
+et - e  
 ethnie - zuku  
 ethnique - zuku di  
 Europe - Europa  
@@ -971,6 +975,7 @@ inclusif - in klus di
 Inde - Barti  
 indien - barti  
 indium - hindium  
+individu - monike  
 Indochine - Hindocin  
 Indus - Hindi rivo  
 infantile (immature) - you  
@@ -983,6 +988,8 @@ inflammation - tis
 informatique - data culi lojia  
 infrastructure - baze strute  
 inférer - infere  
+ingénierie (génie) - enjenia  
+ingénieur - enjener  
 innomé - nam hin  
 insecte - dudu  
 insomnie - ansona  
@@ -1185,6 +1192,7 @@ mathématiques - hisabu lojia
 matière - mate  
 maté - mate cai  
 matérialisme - mate lona  
+Mauritanie - Muritania  
 maximum - maxim xe  
 maître - master  
 meitnérium - meitnerium  
@@ -1233,6 +1241,7 @@ mois - mes
 mole (unité) - mole  
 molybdène - moliden  
 momentané - sata di  
+monade - monaje  
 monde - dunia  
 monnaie (pièce) - pesa diske  
 monocle - un yen di lense  
@@ -1449,6 +1458,7 @@ passe (passage) - pas dau
 passeport - pasporte  
 passer - fa dura  
 passer - pas  
+passerelle - nave trepe  
 pastèque - arbuza  
 paternel - pa di  
 pathologie - patolojia  
@@ -1508,6 +1518,7 @@ piquenique - vai yam
 piraterie - pirate  
 pistolet - pau gi  
 piston - pompe tapa  
+pivoine - mudan  
 pizza - piza  
 pièce (chambre) - kamar  
 pièce de théâtre (drame) - drame  
@@ -1598,9 +1609,10 @@ problème - problem
 problématique - problem di  
 procédé (rite) - riti  
 professeur (enseignant) - xula guru  
+professeur - profesor  
 profession (métier) - pei kar  
 profond - fase tele  
-programme - program  
+programme - programe  
 projectile - lanse xe  
 projection - lanse grafi  
 projet - projete  
@@ -1625,10 +1637,12 @@ préférer - max fili
 préférer - prefere  
 prénatal - prenatal  
 présent - zai di  
+président - presidente  
 prêter (empruntre) - jeka  
 prêter - jeka don  
 psychologie - ruhu lojia  
 psyché - ruhu  
+pudding - puding  
 punicion - fatu  
 punir - fa fatu  
 pyramide - piram  
@@ -1781,8 +1795,8 @@ sauvage - vilde
 savane - garma zona caustan  
 savoir - sabi  
 savoir - san  
-Scandinavie - Eskandinavia  
-scandium - eskandium  
+Scandinavie - Skandia  
+scandium - skandium  
 schtroumpf - nil elfe  
 scie - xara  
 scierie - xarakan  
@@ -1847,8 +1861,9 @@ sous-estimer - fa min rai
 souteneur (maquereau) - sutener  
 spectateur - speter  
 spiritueux - araki  
-sport - esporte  
+sport - sporte  
 squelette - oste jama  
+station (gare) - statia  
 strontium - estrontium  
 stylo-plume - fonte kalam  
 substance - kime  
@@ -2044,7 +2059,7 @@ vide - hali
 vierge - virge  
 vieux (ancien) - prezaman di  
 vieux (âgé, ancien) - lau  
-vigne - eskale tana  
+vigne - trepater  
 vignoble - putau bagi  
 village - deha  
 ville - siti  
@@ -2102,6 +2117,7 @@ yttrium - yuterium
 ## Z  
 
 zen - jan buda din  
+ziggourat - zikura  
 zinc - zinke  
 zirconium - zirkonium  
 zombi - zombi  
@@ -2109,9 +2125,9 @@ zone - zona
 zoo - hevan bagi  
 zoologie - hevan lojia  
 zoologique - hevan lojia di  
-Zoroastre - Zardux  
-zoroastrien - zardux din ja  
-zoroastrisme - zardux din  
+Zoroastre - Zarduxte  
+zoroastrien - zarduxtiste  
+zoroastrisme - zarduxtisme  
 zoulou - Zulu  
 zèbre - zebra  
 zéro - siro  
@@ -2128,12 +2144,14 @@ zéro - siro
 école secondaire - jong xulakan  
 économie - mal nomi  
 écorce - tire yo pil  
+écran - eskran  
 écrire - kitaba  
-écureuil - ekore  
+écureuil - lixu  
 édenté - dante hin  
 éducation - xula  
 égal (même) - sam  
-électricité - eletro  
+élastique - elastike  
+électricité - eletre  
 élevage - hevan agri suta  
 élever - gene yo hevan  
 éloge - eu loga  
@@ -2175,7 +2193,8 @@ zéro - siro
 éveillé - jaga  
 éventail - sanzi  
 évident - vai vide di  
-être - e  
+être (existence, essence) - esentia  
+être - es  
 être couché - be kux  
 être humain - human  
 île - nesi  

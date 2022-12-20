@@ -967,8 +967,7 @@ dux - prysznic
 
 ## E  
 
-e - być  
-eja -   
+e - i, oraz  
 eglisa - kościół  
 einsteinium - einstein  
 Eire - Irlandia  
@@ -976,50 +975,43 @@ ekolojia - ekologia (nauka o środowisku)
 eko - natura, środowisko  
 eko di - środowiskowy, naturalny  
 eko nati di - dziki  
-ekore - wiewiórka  
-ekran - ekran  
 Ekuador - Ekwador  
-elasti - elastyczny  
-eletro - elektryczność  
-eletro di - elektryczny  
-eletro lin - kabel (linia)  
-eletro posta (e-posta) - poczta elektroniczna  
-eletro radi - piorun (grom)  
+elastike - elastyczny  
+eletre - elektryczność  
+eletrike - elektryczny  
+eletroline - kabel (linia)  
 eletron - elektron  
+eletroposte (e-poste) - poczta elektroniczna  
+eletrorade - piorun (grom)  
 elfe -   
 Enceladus -   
-energi - energia  
+energia - energia  
 Englix - Anglia  
 englix di - Anglik; angielski  
 englix fili ja - anglofil  
 englix fon di -   
 englix margarita - stokrotka pospolita  
-enjenir - inżynier  
+enjener - inżynier  
+enjenia -   
 enzim - enzym  
 erbium - erb  
 Eris - Eris (planeta karłowata)  
 Eritra - Erytrea  
+es - być  
+esente -   
+esentia -   
+esential -   
+eser -   
 esai - esej  
-eskale - schody (drabina)  
-• aneskale - zejść (schodzić, zstąpić, zstępować)  
-eskale tana - pnącz  
-eskandium - skand  
-Eskandinavia - Skandynawia  
-Eskote - Szkocja  
+eskran - ekran  
 eskulte - rzeźba  
 eskulte ja - rzeźbiarz  
 eskulte suta - rzeźbiarstwo  
-Espanya - Hiszpania  
-espanya fon di -   
+espanofonike -   
+Espania - Hiszpania  
 esperanto - Esperanto  
 esponje - gąbka  
-esporte - sport, lekkoatletyka  
-esporte ja - hałas  
-estadi - stadion, arena  
 estan - cynk  
-estasi - stacja  
-estasi di - statyczny, stacjonarny, nieruchomy  
-estasi grafi -   
 Esti - Estonia  
 estibium - antymon  
 estrontium - stront  
@@ -1703,6 +1695,9 @@ grafi so -
 grafi sugata -   
 gram - gram  
 grame -   
+• programe - program  
+• programaje -   
+• programer - programista, koder  
 gran - cząstka  
 granite - granit  
 grave - żwir  
@@ -1951,7 +1946,6 @@ huxi - miły, przyjemny, uroczy
 
 ## I  
 
-i - i, oraz  
 ibri - hebrajski  
 ici - wola, chęć  
 • anicija - niechętny  
@@ -2645,9 +2639,7 @@ lipofobia -
 lipide -   
 lipike - tłusty  
 lipolize -   
-lipa - stać  
 lipa bano - półka (regał na książki)  
-lipa baze - stojak (wieszak)  
 lipa di - postawiony (stojący)  
 lipa side - kucać (kucnąć)  
 lipi cupu -   
@@ -2657,6 +2649,7 @@ liste - lista, spis, wykaz
 litium - lit  
 litre - litr  
 livermorium - liwermor  
+lixu - wiewiórka  
 lize -   
 loba - rzodkiewka  
 logograme -   
@@ -3017,7 +3010,11 @@ moli - jaśmin
 moli hua cai -   
 moliden - molibden  
 moluske - mięczak (morski bezkręgowiec)  
+mone -   
+monaje - monada  
 monograme -   
+monike -   
+monisme - monizm  
 Monako - Monako  
 Mongol - Mongolia  
 mongol di - Mongolski  
@@ -3134,6 +3131,7 @@ nau di - mózgowy
 nau hin - bezmózgi  
 Nauru - Nauru  
 nautile - nautilus  
+nave trepe - trap  
 nava - nahuatl  
 nave - łódź, statek  
 nave dex - sterburta (prawa burta)  
@@ -3618,22 +3616,19 @@ pre - poprzedni
 pre di - poprzedni  
 preme - pierwszy, początkowy  
 pre si - zakładać (założyć)  
-prese -   
+presidente - prezydent  
 • deprese -   
 • exprese -   
 • konprese - ścisnąć (sciskać, wycisnąć)  
 • niceprese -   
 • represe -   
+prese -   
+preser -   
 prese gi -   
-• preser -   
-prezidente - prezydent  
 proba - spróbować, próbować  
 problem - problem  
 problem di - problematyczny  
 profesor - profesor  
-program - program  
-program gi -   
-program ja - programista, koder  
 Promete -   
 prometium - promet  
 protacinium - protaktyn  
@@ -3641,7 +3636,7 @@ puding - puding
 puja - cześć, szacunek  
 pujakan - świątynia  
 puja meza - ołtarz  
-puja riti - rytuał, ceremonia, ryt  
+puja rite - rytuał, ceremonia, ryt  
 pul - pełny  
 pul bon - perfekcyjny  
 pul ekran -   
@@ -4017,6 +4012,9 @@ sita marke - cudzysłów
 siti - miast, miasteczko  
 sivil - cywilizowany (ucywilizowany)  
 sivilta - cywilizacja  
+Skandia - Skandynawia  
+skandium - skand  
+Skotia - Szkocja  
 skute -   
 skuter -   
 Slave - słowiański  
@@ -4068,7 +4066,15 @@ spete -
 • intraspete -   
 • respete -   
 • speter -   
+sporte - sport, lekkoatletyka  
+sporter - hałas  
+stadia - stadion, arena  
 stan -   
+state - stać  
+statobaze - stojak (wieszak)  
+statia - stacja  
+statike - statyczny, stacjonarny, nieruchomy  
+statike grafe -   
 su - mieć (partykuła posiadania)  
 suahili - suahili  
 sual - pytanie  
@@ -4321,6 +4327,9 @@ tren - pociąg
 tren dau - kolej  
 tren kape ja - porywacz pociągu  
 tren tikete -   
+• detrepe - zejść (schodzić, zstąpić, zstępować)  
+trepe - schody (drabina)  
+trepater - pnącz  
 tri - trzy (3)  
 trigone - trójkąt  
 trigonometria -   
@@ -4756,10 +4765,10 @@ Zambia - Zambia
 zar - niebezpieczeństwo, ryzyko, szansa  
 zar di - losowy  
 zar kube - kość do gry  
-Zardux - Zaratusztra  
-zardux din - zaratusztrianizm  
-zardux din ja - zaratrustianin  
-zardux magi ja -   
+Zarduxte - Zaratusztra  
+zarduxtan mager -   
+zarduxtisme - zaratusztrianizm  
+zarduxtiste - zaratrustianin  
 zebra - zebra  
 zelo -   
 zeta -   

@@ -255,7 +255,7 @@ arcilla (barro) - glu poto
 arco - arka  
 arco iris - rang arka  
 ardiente (encendido) - hogo di  
-ardilla - ekore  
+ardilla - lixu  
 arena - sable  
 Argelia - Jayer  
 Argentina - Argentina  
@@ -537,7 +537,7 @@ cabello - kapa kexa
 cabeza - kapa  
 cabina (garita) - bude  
 cabina telefónica - tele fon bude  
-cable - eletro lin  
+cable - eletroline  
 cable - kable  
 Cabo Verde - Kabu Verde  
 cabra - behe  
@@ -1121,8 +1121,8 @@ demora (retraso) - dele
 demostrar - fa xou  
 demócrata - demi krati ja  
 dentista (odontólogo) - dante dava ja  
-deporte - esporte  
-deportista - esporte ja  
+deporte - sporte  
+deportista - sporter  
 depurar - fa an galte  
 depósito - hazinkan  
 derechista - dexiste  
@@ -1292,7 +1292,7 @@ ejército - ordu
 el (la) - la  
 El Salvador - Salvador  
 el uno al otro (mutuamente) - semen  
-electricidad - eletro  
+electricidad - eletre  
 electrón - eletron  
 elefante - gaja  
 elegante (chic) - xike  
@@ -1303,9 +1303,9 @@ elfo - elfe
 ellos o ellas - damen  
 elogiar (alabar, exaltar) - halela  
 elogio - eu loga  
-elástico (flexible) - elasti  
-eléctrico - eletro di  
-email (correo electrónico) - eletro posta (e-posta)  
+elástico (flexible) - elastike  
+eléctrico - eletrike  
+email (correo electrónico) - eletroposte (e-poste)  
 embajada - dai anjilkan  
 embajador - dai anjil ja  
 embalar (llevar) - fa pake  
@@ -1338,7 +1338,7 @@ encurtir - fa acar
 enderezar (poner recto) - fa orto  
 endónimo - in nam  
 enemigo - dus jen  
-energía - energi  
+energía - energia  
 energía nuclear - kerne energi  
 enero - mes un  
 enfermedad - pate  
@@ -1346,7 +1346,6 @@ enfermo - patike
 engañar - fa truke  
 engendrador - na ja  
 enojado (furioso) - furi  
-enredadera - eskale tana  
 ensalada - salade  
 ensayo (ejercitio) - lenxi  
 ensayo (redacción) - esai  
@@ -1380,17 +1379,17 @@ error - galte
 erróneo - galte di  
 es decir (en otras palabras) - alo nam  
 escalar - fa eskale  
-escalera - eskale  
+escalera - trepe  
 escama - foli  
-Escandinavia - Eskandinavia  
-escandio - eskandium  
+Escandinavia - Skandia  
+escandio - skandium  
 escaparse (evitar, huir) - bega  
 escarcha - hima rose  
 escasez - kamia  
 escaso (disperso, ralo) - anjami di  
 escenario (podio, estrado, tarima) - tai  
 escoba - jaru  
-Escocia - Eskote  
+Escocia - Skotia  
 escorpión (alacrán) - akrabe  
 escribir - kitaba  
 escritorio (mesa de trabajo) - karm eza  
@@ -1405,6 +1404,8 @@ escultura (arte de escultura) - eskulte suta
 escultura (estatua) - eskulte  
 escupir (bufar) - tuh  
 ese (aquel) - vo  
+esencia (existencia) - esentia  
+esencial - esential  
 esgrima - gem suta  
 eslabón - ser  
 eslavo - Slave  
@@ -1414,7 +1415,7 @@ esmeralda - zumarde
 espacio (texto) - hali zi  
 espada - gem  
 espalda (lomo) - ruke  
-España - Espanya  
+España - Espania  
 especia - masala  
 especial (diferenciado, distinto) - has  
 especialización (distinción) - hasta  
@@ -1439,15 +1440,15 @@ esquina (rincón, ángulo) - gona
 estaca - moka kane  
 estacionamiento (aparcamiento) - car parke  
 estación (temporada) - mosim  
-estación - estasi  
+estación - statia  
 estación lluviosa - barxa mosim  
-estadio (arena) - estadi  
+estadio (arena) - stadia  
 estado (condición) - hal  
 Estados Unidos de América - Unta Dex de Amerika (UDA)  
 estadounidense - UDA di  
 estante (repisa) - lipa bano  
 estar al lado de - a late  
-estar de pie - lipa  
+estar de pie - state  
 estar en contra - kontra  
 estaño - estan  
 este - ye  
@@ -1463,7 +1464,7 @@ estudiante - xula ja
 estudiar (examinar) - fa estude  
 estudio - estudekan  
 estupidez (tontería) - idioteta  
-estático (estacionario) - estasi di  
+estático (estacionario) - statike  
 estúpido (tonto) - idiote di  
 Esuatini (Suazilandia) - Suati  
 esvástica (cruz gamada) - huke krus  
@@ -1592,7 +1593,7 @@ forzar (usar fuerte, imponer, coaccionar) - fa paka
 fosfato - fosfate  
 foto (fotografía) - fotografe  
 fotografía - fotografia  
-fotograma - estasi grafi  
+fotograma - statike grafe  
 fotógrafo - fotografer  
 fotón - foton  
 fracaso - xiti bai  
@@ -1966,6 +1967,7 @@ India - Barti
 indicador (cursor) - ponte flece  
 indio (hindú) - barti  
 indium - hindium  
+individuo - monike  
 Indo - Hindi rivo  
 Indochina - Hindocin  
 Indonesia - Indonesia  
@@ -1988,7 +1990,8 @@ informe (reporte, noticia) - reporte
 informática (computación) - data culi lojia  
 infortunio (mala suerte) - dus zar  
 infraestructura - baze strute  
-ingeniero - enjenir  
+ingeniero - enjener  
+ingeniería - enjenia  
 Inglaterra - Englix  
 inglés - englix di  
 iniciar sesión - loge jin  
@@ -2331,7 +2334,7 @@ magma - pasta petra
 magnesio - magenium  
 magnético - manete di  
 mago - magi ja  
-mago - zardux magi ja  
+mago - zarduxtan mager  
 mahjong - majang  
 malaria (paludismo) - malaria  
 Malasia - Malaisia  
@@ -2413,7 +2416,7 @@ material - mate di
 materialismo - mate lona  
 maternal - ma di  
 Mauricio - Moris  
-mauritania - Muritania  
+Mauritania - Muritania  
 maya - maya  
 mayo - mes lima  
 mayoría - max di fen  
@@ -2554,6 +2557,7 @@ momia - mum jen
 moneda - pesa diske  
 mongol - mongol di  
 Mongolia - Mongol  
+monismo - monisme  
 monismo - un xe sim  
 monje o monja - biku  
 monocromático - un rang di  
@@ -2623,6 +2627,7 @@ máximo - maxim xe
 México - Mehiko  
 mínimo - minim di  
 Mónaco - Monako  
+mónada - monaje  
 múltiple - polipli  
 músculo - muskul  
 música - muzika  
@@ -2873,7 +2878,7 @@ paneuropeo - pan europa di
 panqueque (crepa) - krepe  
 panrromántico - pan romanse di  
 pansexual - pan sexe di  
-pantalla - ekran  
+pantalla - eskran  
 pantalla completa - pul ekran  
 pantalones - pante  
 panteísmo - pan deu sim  
@@ -3123,6 +3128,7 @@ porno - porno
 pornografía - porno grafi  
 poro - pore  
 porque - a sabu de  
+portalón - nave trepe  
 portapapeles - gata glu bano  
 porto - porto  
 Portugal - Portugal  
@@ -3156,7 +3162,7 @@ prensar (oprimir) - fa prese
 preparar (hacer listo) - fa redi  
 presencia (existencia) - zaita  
 presente (actualidad) - zai zaman  
-presidente - prezidente  
+presidente - presidente  
 presión - prese  
 presión atmosférica - air prese  
 prestar (pedir prestado) - jeka  
@@ -3193,8 +3199,8 @@ profesor - profesor
 profeta (heraldo) - nabija  
 profeta Mani - Mani  
 profundo (hondo) - fase tele  
-programa - program  
-programador - program ja  
+programa - programe  
+programador - programer  
 prohibido (tabú) - haram  
 prohibir - fa haram  
 promesa (voto) - vode  
@@ -3362,7 +3368,7 @@ religión - din
 reliquia - prezaman xe  
 reloj - hor loga gi  
 reluciente (brillante, lustroso) - foto mira di  
-relámpago - eletro radi  
+relámpago - eletrorade  
 remojar (marinar, encurtir, macerar) - pul xipi  
 remolacha - bete  
 remolacha azucarera - sukre bete  
@@ -3418,7 +3424,7 @@ ring - ringar
 rinoceronte - kargadan:  
 rio - rivo  
 ritmo - ritim  
-rito (ceremonia) - puja riti  
+rito (ceremonia) - puja rite  
 riñon - nefre  
 robar (hurtar) - fa cori  
 roble - baluta  
@@ -3561,8 +3567,8 @@ sentido - sense
 sentir (detectar) - fa sense  
 sentir - be gamo  
 septiembre - mes tisa  
-ser (estar) - e  
-ser - eja  
+ser (estar) - es  
+ser - eser  
 ser de - be mal  
 ser humano - human  
 ser visto - be vide  
@@ -3635,7 +3641,7 @@ sociedad - sosi
 socio (compañero) - bei  
 socio - parti jen  
 sodio - natri  
-software (soporte lógico) - program gi  
+software (soporte lógico) - programaje  
 sofá - sofa  
 soja - soi  
 sol - sol  
@@ -3651,7 +3657,7 @@ sonar - fa soni
 sonido (audio) - soni  
 sopa - supa  
 soplar (echar) - fa hava  
-soporte (perchero, atril) - lipa baze  
+soporte (perchero, atril) - statobaze  
 sorber - sorbe  
 sorpresa - supriza  
 soñoliento (somnífero) - sona tabi  
@@ -3881,6 +3887,7 @@ trapo (tela para limpiar) - saf tela
 trasero (nalgas) - pigu  
 tratar (llevar, manejar, lidiar, procesar) - fa culi  
 tren - tren  
+trepadora (enredadera) - trepater  
 tres (3) - tri  
 tribu - kabile  
 tridente - tri pike  
@@ -4082,7 +4089,7 @@ Wallis y Futuna - Valis i Futuna nesi
 xenón - xenon  
 xilitol - xilitol  
 xilosa - xilos  
-y - i  
+y - e  
 
 ## Y  
 
@@ -4120,9 +4127,9 @@ zombi - zombi
 zoo - hevan bagi  
 zoología - hevan lojia  
 zoológico - hevan lojia di  
-zoroastriano - zardux din ja  
-zoroastrismo - zardux din  
-Zoroastro - Zardux  
+zoroastriano - zarduxtiste  
+zoroastrismo - zarduxtisme  
+Zoroastro - Zarduxte  
 zorro - huli  
 zulú - Zulu  
 ¡Felicitaciones! - barka  

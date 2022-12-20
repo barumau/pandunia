@@ -1002,8 +1002,7 @@ dux - shower
 
 ## E  
 
-e - be  
-eja - being (entity)  
+e - and  
 eglisa - church  
 einsteinium - einsteinium  
 Eire - Ireland  
@@ -1011,50 +1010,43 @@ ekolojia - ecology (study of environment)
 eko - environment (nature)  
 eko di - environmental (natural)  
 eko nati di - wild (savage)  
-ekore - squirrel  
-ekran - screen  
 Ekuador - Ecuador  
-elasti - elastic  
-eletro - electricity  
-eletro di - electric  
-eletro lin - cable (wire, line)  
-eletro posta (e-posta) - e-mail  
-eletro radi - lightning bolt  
+elastike - elastic  
+eletre - electricity  
+eletrike - electric  
+eletroline - cable (wire, line)  
 eletron - electron  
+eletroposte (e-poste) - e-mail  
+eletrorade - lightning bolt  
 elfe - elf  
 Enceladus - Enceladus  
-energi - energy  
+energia - energy  
 Englix - England  
 englix di - English  
 englix fili ja - anglophile  
 englix fon di - anglophone (English speking)  
 englix margarita - English daisy  
-enjenir - engineer  
+enjener - engineer  
+enjenia - engineering  
 enzim - enzyme  
 erbium - erbium  
 Eris - Eris (dwarf planet)  
 Eritra - Eritrea  
+es - be  
+esente - being (that which is)  
+esentia - being (essence)  
+esential - essential (fundamental)  
+eser - being (entity)  
 esai - essay  
-eskale - stairs (ladder)  
-• aneskale - get off (descend)  
-eskale tana - vine  
-eskandium - scandium  
-Eskandinavia - Scandinavia  
-Eskote - Scotland  
+eskran - screen  
 eskulte - sculpture (statue)  
 eskulte ja - sculptor  
 eskulte suta - sculpture (art of sculpting)  
-Espanya - Spain  
-espanya fon di - hispanophone (Spanish speaking)  
+espanofonike - hispanophone (Spanish speaking)  
+Espania - Spain  
 esperanto - Esperanto  
 esponje - sponge  
-esporte - sport (athletics)  
-esporte ja - athlete (sportsman)  
-estadi - stadium (arena)  
 estan - tin  
-estasi - station  
-estasi di - static (stationary, still)  
-estasi grafi - film frame (still)  
 Esti - Estonia  
 estibium - antimony  
 estrontium - strontium  
@@ -1738,6 +1730,9 @@ grafi so - pixel
 grafi sugata - framerate  
 gram - gram (g)  
 grame - written character  
+• programe - program (set of structured activities)  
+• programaje - software (virtual device)  
+• programer - programmer (coder)  
 gran - grain (particle)  
 granite - granite  
 grave - gravel  
@@ -1986,7 +1981,6 @@ huxi - nice (pleasant, comfortable, cushy)
 
 ## I  
 
-i - and  
 ibri - Hebrew  
 ici - will (volition, desire)  
 • anicija - reluctant  
@@ -2679,9 +2673,7 @@ lipofobia - lipophobia
 lipide - lipid  
 lipike - fatty (greasy)  
 lipolize - lipolysis  
-lipa - stand  
 lipa bano - shelf (bookshelf)  
-lipa baze - stand (rack)  
 lipa di - erect (standing)  
 lipa side - crouch (squat)  
 lipi cupu - liposuccion  
@@ -2691,6 +2683,7 @@ liste - list (listing, catalogue)
 litium - lithium  
 litre - litre (liter)  
 livermorium - livermorium  
+lixu - squirrel  
 lize - breakdown (-lysis)  
 loba - radish  
 logograme - logogram (logo)  
@@ -3051,7 +3044,11 @@ moli - jasmine
 moli hua cai - jasmine tea  
 moliden - molybdenum  
 moluske - mollusk  
+mone - only (lone, single, individual)  
+monaje - monad  
 monograme - monogram  
+monike - individual (single person)  
+monisme - monism  
 Monako - Monaco  
 Mongol - Mongolia  
 mongol di - Mongolian  
@@ -3169,6 +3166,7 @@ nau di - cerebral
 nau hin - brainless  
 Nauru - Nauru  
 nautile - nautilus  
+nave trepe - gangway (ramp)  
 nava - Nahuatl (Nahua)  
 nave - boat (ship)  
 nave dex - starboard (right side of a ship)  
@@ -3652,30 +3650,27 @@ pre - before (previous, fore, past)
 pre di - previous (fore)  
 preme - initial (first; prime)  
 pre si - assume (presuppose)  
-prese - press (pressure)  
+presidente - president  
 • deprese - depress (push away)  
 • exprese - express (push out)  
 • konprese - compress (squeeze, squish)  
 • niceprese - suppress (press down)  
 • represe - repress (push back)  
+prese - press (pressure)  
+preser - press device  
 prese gi - press device  
-• preser - press device  
-prezidente - president  
 proba - try (attempt, give a go, check out, probe)  
 problem - problem (issue)  
 problem di - problematic  
 profesor - professor  
-program - program (set of structured activities)  
-program gi - software (virtual device)  
-program ja - programmer (coder)  
 Promete - Prometheus  
 prometium - promethium  
 protacinium - protactinium  
 puding - pudding  
-puja - worship (reveration)  
+puja - worship (adore; reveration, veneration)  
 pujakan - temple (shrine, place of worship)  
 puja meza - altar  
-puja riti - ritual (ceremony, religious custom)  
+puja rite - ritual (ceremony, religious custom)  
 pul - full (complete, saturated)  
 pul bon - perfect  
 pul ekran - fullscreen  
@@ -4052,6 +4047,9 @@ sita marke - quotation mark
 siti - city (town)  
 sivil - civilized (civil)  
 sivilta - civilization  
+Skandia - Scandinavia  
+skandium - scandium  
+Skotia - Scotland  
 skute - scoot (ride a scooter, move while sitting)  
 skuter - scooter  
 Slave - Slavic  
@@ -4103,7 +4101,15 @@ spete - watch (spectate, observe)
 • intraspete - introspection  
 • respete - look back at (respect)  
 • speter - watcher (spectator, observer)  
+sporte - sport (athletics)  
+sporter - athlete (sportsman)  
+stadia - stadium (arena)  
 stan - tract (land, ground, region)  
+state - stand  
+statobaze - stand (rack)  
+statia - station  
+statike - static (stationary, still)  
+statike grafe - film frame (still)  
 su - possessive postposition (’s)  
 suahili - Swahili  
 sual - question (query, inquiry)  
@@ -4357,6 +4363,9 @@ tren - train
 tren dau - rail (railway, railroad)  
 tren kape ja - train hijacker  
 tren tikete - train ticket  
+• detrepe - get off (descend)  
+trepe - stairs (ladder; climb)  
+trepater - vine  
 tri - three (3)  
 trigone - triangle  
 trigonometria - trigonometry  
@@ -4792,10 +4801,10 @@ Zambia - Zambia
 zar - hazard (chance)  
 zar di - random  
 zar kube - die (dice)  
-Zardux - Zoroaster  
-zardux din - Zoroastrianism  
-zardux din ja - Zoroastrian  
-zardux magi ja - magus (Zoroastrian priest)  
+Zarduxte - Zoroaster  
+zarduxtan mager - magus (Zoroastrian priest)  
+zarduxtisme - Zoroastrianism  
+zarduxtiste - Zoroastrian  
 zebra - zebra  
 zelo - fervour (zeal, passion)  
 zeta - zetta-  

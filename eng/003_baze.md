@@ -92,17 +92,17 @@ To negate a word, add **no** before it.
 
 ### To be
 
-The verb **e** means 'to be'.
+The verb **es** means 'to be'.
 It can be left out in very simple sentences.
 
-**mi e jen.**
+**mi es jen.**
 – I am a person.  
 **mi jen.**
 – I'm a person.
 
 It can't be left out when it is part of a serial verb.
 
-**mi vol e mau.**
+**mi vol es mau.**
 – I want to be a cat.  
 **mi vol mau!**
 – I want a cat!
@@ -116,7 +116,7 @@ Pandunia words can be ambiguous because they often have more meanings compared t
 
 But actually the meaning is clear in the real context:
 
-**pre tri nen, mi ha du mau i un vaf. mi max ha un fem ben. da luba mau!**
+**pre tri nen, mi ha du mau e un vaf. mi max ha un fem ben. da luba mau!**
 – Three years ago, I had two cats and a dog. I also had a daughter. _She loved the cats!_
 
 ### Time
@@ -172,9 +172,9 @@ Modifiers are compared with
 **min** 'less', **minim** 'least' and **par** 'equally, as'.
 The point of comparison is introduced with **ka** 'than, as'.
 
-**tu e max sen ka mi.**
+**tu es max sen ka mi.**
 – You are older than me.  
-**tu e maxim sen.**
+**tu es maxim sen.**
 – You are the oldest.
 
 ### Questions

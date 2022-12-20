@@ -407,15 +407,17 @@ dux - 淋浴
 
 ## E  
 
-e - 对  
+e - 和  
 einsteinium - 锿  
-ekore - 松鼠  
-eletro lin - 电缆 (电线)  
-eletro radi - 闪电  
+eletroline - 电缆 (电线)  
+eletrorade - 闪电  
 elfe - 精灵  
 englix margarita - 雛菊  
+enjenia - 工程  
 erbium - 铒  
-eskandium - 钪  
+es - 是  
+esentia - 存在  
+esai - 雜文  
 esponje - 海绵  
 estan - 锡  
 estibium - 锑  
@@ -614,6 +616,8 @@ goton - 棉
 gradu mute - 发展 (开发)  
 grafi culi - 影像处理  
 grafi kata - 漫画  
+• programe - 计划  
+• programaje - 软件  
 granite - 花岗石  
 grave - 砾石  
 • agrese - 攻击  
@@ -715,7 +719,6 @@ hura - 好哇
 
 ## I  
 
-i - 和  
 iglu - 冰屋  
 iha uma - 骡  
 in bum - 内爆  
@@ -990,13 +993,13 @@ linke - 联系 (关系)
 linxe - 猞猁 (山貓)  
 lipe - 脂肪  
 lipa bano - 架子 (搁板)  
-lipa baze - 架子  
 lipa side - 蹲  
 lipi cupu - 吸脂  
 lisan - 舌头  
 liste - 单子  
 litium - 锂  
 litre - 升  
+lixu - 松鼠 (栗鼠)  
 loge - 纪录  
 loge buku - 航海日志  
 loka - 地方  
@@ -1133,12 +1136,14 @@ molekul - 分子
 moli - 茉莉  
 moli hua cai - 茉莉花茶  
 moliden - 钼  
+mone - 单  
 mos - 苔藓  
 mosim - 季  
 moski - 蚊子  
 mostre - 妖怪 (怪物)  
 moto - 马达 (发动机)  
 moto cati - 引擎盖  
+mudan - 牡丹  
 mula - 根  
 mum cape - 封印  
 mum melon - 冬瓜 (白瓜)  
@@ -1351,10 +1356,9 @@ poto stan - 沼泽
 poyu - 虱子  
 prazedimium - 镨  
 pre - 以前  
+presidente - 總統  
 prese - 压力  
 problem - 问题 (难题)  
-program - 计划  
-program gi - 软件  
 prometium - 钷  
 protacinium - 镤  
 puding - 布丁  
@@ -1495,6 +1499,7 @@ siro - 零 (〇)
 sis - 姐妹 (jiěmèi)  
 sis doh - 外甥女  
 sis son - 外甥  
+skandium - 钪  
 skuter - スクーター  
 sofa - 沙发  
 sofita - 智慧  
@@ -1515,6 +1520,8 @@ sosi - 社会
 sosi jinse - 社會性別  
 sosis - 香肠  
 • inspete - 检查  
+statobaze - 架子  
+statia - 站  
 sual - 问题  
 suga - 快  
 suga metri gi - 速度计  
@@ -1779,6 +1786,7 @@ zeyil - 疣
 zeze - 双翅目  
 zi - 字  
 zi seri - 字母表  
+zikura - 金字形神塔  
 zinke - 锌  
 zira - 孜然  
 zirkonium - 锆  

@@ -152,7 +152,7 @@ analyse (analysis) - fen lize
 anchor - angar  
 anchovy - ancovi  
 Ancient Egypt (Kemet) - Keme  
-and - i  
+and - e  
 Andes - Andes  
 andesite - andesite  
 Andorra - Andora  
@@ -262,7 +262,7 @@ astronomer - astronomer
 astronomy - astronomia  
 atheist - andeiste  
 Athens - Athina  
-athlete (sportsman) - esporte ja  
+athlete (sportsman) - sporter  
 Atlantic cod - atlanti bakalau  
 Atlantic Ocean - Atlanti Bahai  
 Atlantic salmon - atlanti salmon  
@@ -372,7 +372,7 @@ bathe - fa banya
 bathroom - banya kamar  
 battery - batri  
 bay (gulf) - baya  
-be - e  
+be - es  
 be beside (accompany) - a late  
 be born - be gene  
 be bothered by (bother to, take the trouble to) - be turbe  
@@ -407,7 +407,9 @@ beginning (start, commencement, onset) - xuru
 behave (act) - fa manera  
 behavior (manners) - manera  
 Beijing (Peking) - Beijing  
-being (entity) - eja  
+being (entity) - eser  
+being (essence) - esentia  
+being (that which is) - esente  
 bel (unit) - bel  
 Belarus - Belarus  
 Belgium - Belgi  
@@ -603,7 +605,7 @@ by (at, in, on) - a
 
 ## C  
 
-cable (wire, line) - eletro lin  
+cable (wire, line) - eletroline  
 Cabo Verde (Cape Verde) - Kabu Verde  
 cactus - katus  
 cadmium - kadimium  
@@ -1296,12 +1298,12 @@ eight (8) - bati
 einsteinium - einsteinium  
 eject (throw out) - exjete  
 El Salvador - Salvador  
-elastic - elasti  
+elastic - elastike  
 elbow - kudi  
 elder - lau jen  
 elder sibling - sen sau  
-electric - eletro di  
-electricity - eletro  
+electric - eletrike  
+electricity - eletre  
 electron - eletron  
 elegant (chic) - xike  
 element (factor, the simplest unit) - so  
@@ -1328,9 +1330,10 @@ ended (finished) - fin di
 endonym - in nam  
 enemy (foe, villain) - dus jen  
 enemy (unfriend) - andosti  
-energy - energi  
+energy - energia  
 engine (motor) - moto  
-engineer - enjenir  
+engineer - enjener  
+engineering - enjenia  
 England - Englix  
 English - englix di  
 English daisy - englix margarita  
@@ -1363,6 +1366,7 @@ Eritrea - Eritra
 escape (flee, run away) - bega  
 Esperanto - esperanto  
 essay - esai  
+essential (fundamental) - esential  
 estimate (approximate) - fa yagu  
 Estonia - Esti  
 Eswatini (Swaziland) - Suati  
@@ -1531,7 +1535,7 @@ fight (war, battle, combat) - jang
 Fiji - Fiji  
 fill - fa pul  
 film (movie or video) - filme  
-film frame (still) - estasi grafi  
+film frame (still) - statike grafe  
 filter - filtre  
 find (discover) - eureka  
 fine (thin, narrow, slender, delicate) - fine  
@@ -1673,6 +1677,7 @@ gallop - nelu di galope
 Gambia - Gambia  
 game - geme  
 Ganges - Ganga  
+gangway (ramp) - nave trepe  
 Ganymede - Ganimede  
 garam masala - garma masala  
 garbage (rubbish, trash, junk) - lasa  
@@ -1713,7 +1718,7 @@ germanium - germanium
 Germany - Doice  
 gesture - geste  
 get (obtain, take, grasp, receive) - na  
-get off (descend) - aneskale  
+get off (descend) - detrepe  
 get tired (become weary) - be fatige  
 getter (receiver, recipient) - na ja  
 Ghana - Gana  
@@ -1934,7 +1939,7 @@ Hindustan - Hindestan
 hinge (pivot) - xarnir  
 hippopotamus - gubu  
 his or her - da su  
-hispanophone (Spanish speaking) - espanya fon di  
+hispanophone (Spanish speaking) - espanofonike  
 historian - historer  
 history (annals) - historia  
 history (study of history) - historolojia  
@@ -2068,6 +2073,7 @@ Indian chrysanthemum - nefte guku
 Indian Ocean - Barti Bahai  
 indicate (point into) - indike  
 indium - hindium  
+individual (single person) - monike  
 indivisible - antomibil  
 Indochina - Hindocin  
 Indonesia - Indonesia  
@@ -2368,7 +2374,7 @@ light (illumination) - fote
 light (light-weight) - legu veze di  
 light (requiring little effort, easy, soft, minute, unimportant, etc.) - legu  
 light blue (sky blue, azure) - sama nil  
-lightning bolt - eletro radi  
+lightning bolt - eletrorade  
 like or characteristic of the previous word (-like, -ly, -al) - li  
 lilac - lila  
 lilac color - lila rang  
@@ -2489,7 +2495,7 @@ magma - pasta petra
 magnesium - magenium  
 magnet - manete  
 magnetic - manete di  
-magus (Zoroastrian priest) - zardux magi ja  
+magus (Zoroastrian priest) - zarduxtan mager  
 mahjong - majang  
 maid (nanny, ayah) - aya  
 mail (send by mail) - fa posta  
@@ -2716,11 +2722,13 @@ moment (instant) - sata
 moment (while) - cana  
 momentary - sata di  
 Monaco - Monako  
+monad - monaje  
 Monday - lunaden  
 money - pesa  
 Mongolia - Mongol  
 Mongolian - mongol di  
 mongoose - mungus  
+monism - monisme  
 monism - un xe sim  
 monk or nun - biku  
 monochrome - un rang di  
@@ -2983,6 +2991,7 @@ one (1) - un
 one (impersonal pronoun: people, you) - jen (jen men)  
 onion - piaze  
 online - a lin  
+only (lone, single, individual) - mone  
 only (single, sole, lone, just) - un di  
 opaque - antranse vide di  
 open (not closed) - kai  
@@ -3378,7 +3387,7 @@ preposition - prepoze
 presence (existence) - zaita  
 present (existing) - zai di  
 present time (now) - zai zaman  
-president - prezidente  
+president - presidente  
 press (imprint) - fa cape  
 press (pressure) - prese  
 press (squeeze) - fa prese  
@@ -3409,8 +3418,8 @@ profession (job, occupation, trade, vocation) - pei kar
 professional (occupational, career) - pei kar di  
 professional (pro) - pei kar ja  
 professor - profesor  
-program (set of structured activities) - program  
-programmer (coder) - program ja  
+program (set of structured activities) - programe  
+programmer (coder) - programer  
 progress (stride forward, advance, go forward) - progrese  
 project (cast) - fa lanse grafi  
 project (cast; projection image) - jete grafi  
@@ -3630,7 +3639,7 @@ rip current - tire dara
 rise (go up) - be gau  
 risk - risko  
 risky - risko di  
-ritual (ceremony, religious custom) - puja riti  
+ritual (ceremony, religious custom) - puja rite  
 river (stream) - rivo  
 river bank - rivo kinar  
 road sign - dau bano  
@@ -3755,8 +3764,8 @@ scaffolding (gangplank) - fute bano
 scale (flake) - foli  
 scale mail - foli kaska  
 scales (weighing device) - veze metri gi  
-Scandinavia - Eskandinavia  
-scandium - eskandium  
+Scandinavia - Skandia  
+scandium - skandium  
 scarcity - kamia  
 scare (frighten) - fa fobi  
 scarf (shawl) - xal  
@@ -3771,8 +3780,8 @@ scope (viewer) - oskope
 score (grade) - punte nume  
 scoreboard - punte bano  
 scorpion (Scorpio) - akrabe  
-Scotland - Eskote  
-screen - ekran  
+Scotland - Skotia  
+screen - eskran  
 screw - vita  
 scroll wheel - muxu cakra  
 sculpt (carve) - fa eskulte  
@@ -3967,7 +3976,7 @@ sockeye salmon - rubi salmon
 sodium - natri  
 sofa (couch) - sofa  
 soft - naram  
-software (virtual device) - program gi  
+software (virtual device) - programaje  
 soil (dirt) - darti  
 soily (dirty) - darti di  
 solar system - sol sistem  
@@ -4009,7 +4018,7 @@ space (character) - hali zi
 space (cosmos, universe) - kosme  
 spaceship - kosmo nave  
 spade - bagi bele  
-Spain - Espanya  
+Spain - Espania  
 spam mail - lasa posta  
 sparse (scattered) - anjami di  
 speak (talk, language, communication) - baxe  
@@ -4033,7 +4042,7 @@ split (fall apart, divide, separate) - be fen
 spoken - loga di  
 sponge - esponje  
 spoon - camaca  
-sport (athletics) - esporte  
+sport (athletics) - sporte  
 spouse (husband or wife) - gam per  
 spring (springtime) - hua mosim  
 spruce tree - pisea  
@@ -4041,26 +4050,26 @@ square (tetragon) - nelu gona
 squash (pumpkin, gourd) - kaboga  
 squeeze (squish) - in puxe  
 squid (cuttlefish) - kalmar  
-squirrel - ekore  
+squirrel - lixu  
 Sranan Tongo - surinam baxa  
 Sri Lanka (Ceylon) - Lanka  
-stadium (arena) - estadi  
+stadium (arena) - stadia  
 stage (phase) - faze  
 stage (platform, pedestal, podium) - tai  
 stain (spot) - najis bindu  
 stained glass - rang glas  
-stairs (ladder) - eskale  
+stairs (ladder; climb) - trepe  
 stake (stick, peg, skewer) - moka kane  
-stand (rack) - lipa baze  
-stand - lipa  
+stand (rack) - statobaze  
+stand - state  
 stand still - be estasi  
 star - sing  
 starboard (right side of a ship) - nave dex  
 stare (watch, gaze) - mira  
 starship - astronave  
 state (condition, status, situation) - hal  
-static (stationary, still) - estasi di  
-station - estasi  
+static (stationary, still) - statike  
+station - statia  
 stay behind (linger) - be laxe  
 steal - fa cori  
 stealth (secrecy) - sirta  
@@ -4559,7 +4568,7 @@ Viet Nam - Viete
 Vietnamese language (Viet) - viete baxa  
 view (vision) - vide xe  
 village - deha  
-vine - eskale tana  
+vine - trepater  
 vinegar - vin suan  
 vineyard - putau bagi  
 vinyl - vinil  
@@ -4723,7 +4732,7 @@ workshop - karkan
 world - dunia  
 world language - dunia baxa  
 worm - verme  
-worship (reveration) - puja  
+worship (adore; reveration, veneration) - puja  
 wow! (gee!) - va  
 wrap - fa lifafa  
 wrapping (envelope, covering) - lifafa  
@@ -4790,8 +4799,8 @@ zoological - hevan lojia di
 zoology - hevan lojia  
 zoophily - hevan fili  
 zootoxin - hevan toxi  
-Zoroaster - Zardux  
-Zoroastrian - zardux din ja  
-Zoroastrianism - zardux din  
+Zoroaster - Zarduxte  
+Zoroastrian - zarduxtiste  
+Zoroastrianism - zarduxtisme  
 zucchini - xiu kaboga  
 Zulu - Zulu  

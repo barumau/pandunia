@@ -46,6 +46,7 @@ aina - pan sata
 aine (aines, materia) - kime  
 aine (materia) - mate  
 aineellinen (materiaalinen) - mate di  
+ainoa - mone  
 aisti - sense  
 aistia - fa sense  
 aivastaa (atsii!) - aci  
@@ -192,7 +193,7 @@ arvottaa - fa valu
 ase - vuki  
 aseksuaali - ansexe di  
 asema (satama, lentokenttä) - porto  
-asema - estasi  
+asema - statia  
 asento - asan  
 asevoimat (armeija) - vuki ordu  
 asia (juttu) - sual tema  
@@ -434,7 +435,7 @@ Enceladus - Enceladus
 endonyymi (omakielinen nimi) - in nam  
 enemmistö - max di fen  
 enemmän (myös, lisäksi, plus) - max  
-energia - energi  
+energia - energia  
 englannistaa - fa englix kitaba  
 Englanti - Englix  
 englanti - englix di  
@@ -473,10 +474,9 @@ erä (satsi) - lote
 esimerkiksi - to misal  
 esimerkki - misal  
 esine (tavara) - vutu  
-Espanja - Espanya  
-espanjaa puhuva - espanya fon di  
+Espanja - Espania  
+espanjaa puhuva - espanofonike  
 esperanto - esperanto  
-essee - esai  
 este - bara mur  
 estää kulku (tukkia tie) - bara  
 etaani - etan  
@@ -908,7 +908,8 @@ infektio (tartunta) - patomise
 inhimillinen - humanike  
 inhota - anluba  
 inkivääri - jinji  
-insinööri - enjenir  
+insinööri - enjener  
+insinööritaito - enjenia  
 internet - internete  
 Intia - Barti  
 intiaani (Amerikan alkuperäisasukas) - aslamerikan  
@@ -963,7 +964,7 @@ iäkäs - umur di
 
 ## J  
 
-ja (sekä) - i  
+ja (sekä) - e  
 jade - giuka  
 Jahve (Jehova) - Yahve  
 jainalaisuus - jain din  
@@ -1029,7 +1030,7 @@ joulukuu - mes des du
 jousiammunta - arka suta  
 jousiampuja - arka ja  
 jousisoitin - ticin  
-joustava (elastinen) - elasti  
+joustava (kimmoisa, elastinen) - elastike  
 judo - judau  
 juhannus (keskikesä, mittumaari) - garma mosim medi den  
 juhannus (kristillinen juhla) - Yohan festa  
@@ -1386,6 +1387,7 @@ kirjain - fone zi
 kirjallisuus - kitaba suta  
 kirjasto - kitabakan  
 kirje - letre  
+kirjoitelma (essee) - esai  
 kirjoitus (teksti) - kitaba  
 kirjoituskone - kitaba gi  
 kirjoitusmerkki - zi  
@@ -1613,7 +1615,7 @@ kuvakirja - grafi buku
 kuvankäsittely - grafi culi  
 kuvanveisto - eskulte suta  
 kuvanveistäjä - eskulte ja  
-kuvaruutu - ekran  
+kuvaruutu - eskran  
 kuvitella - fa fantazi  
 Kuwait - Kuvaite  
 kvadriljoona (jotta-) - yota  
@@ -1680,7 +1682,7 @@ kääriä (panna kääröön) - fa lifafa
 kääriä - fa rolo  
 käärme - serpe  
 käärö - rolo  
-köynnös - eskale tana  
+köynnös - trepater  
 
 ## L  
 
@@ -1735,7 +1737,7 @@ lasittaa - fa glas dake
 laskea (pitää lukua, numeroida) - fa nume  
 laskea (tehdä laskutoimitus) - fa hisabu  
 laskea tasoa - dus gradu  
-laskeutua - aneskale  
+laskeutua portaita - detrepe  
 lasku (faktuura) - fatura  
 lasku (laskelma) - hisabu  
 laskuoppi (aritmetiikka) - hisabu suta  
@@ -1983,6 +1985,7 @@ maha (vatsa) - pete
 mahdollisuus (taito, kyky) - bilta  
 mahdollisuus (tilaisuus) - canse  
 mahjong - majang  
+maihinnousuportaat - nave trepe  
 maissi - mais  
 maistaa - fa guste  
 maistua - guste ka  
@@ -2161,6 +2164,7 @@ Moldova - Moldova
 molemminpuolinen (keskinäinen) - semen su  
 molybdeeni - moliden  
 Monaco - Monako  
+monadi - monaje  
 monarkki (kuningas, kuningatar) - raja  
 monenlainen - vari  
 mongoli - mongol di  
@@ -2175,6 +2179,7 @@ monikulmio (polygoni) - poli gona
 monimerkityksinen (polyseeminen) - polisemike  
 monimerkityksinen - poli semi di  
 moninkertainen - polipli  
+monismi - monisme  
 monismi - un xe sim  
 monitahoinen (monipuolinen) - disversi  
 monitahokas - poli fase  
@@ -2407,8 +2412,8 @@ odottaa - dele do
 oganesson - oganeson  
 ohitettu (mennyt) - pas di  
 ohjaaja (pilotti, luotsi) - pilote  
-ohjelma - program  
-ohjelmoija - program ja  
+ohjelma - programe  
+ohjelmoija - programer  
 oho (vau) - va  
 ohra - jau  
 oi! (ai, oijoi) - ayo  
@@ -2427,11 +2432,14 @@ okra - bamia
 oksa (haara) - xaka  
 oksidi - oxide  
 ole hyvä - cing na  
-olento (olio) - eja  
+oleellinen - esential  
+olento (olio) - eser  
+oleva - esente  
+olevaisuus - esentia  
 oliivi - zaitun  
 olkapää (hartia) - kanta  
 olla (omistaa) - ha  
-olla - e  
+olla - es  
 olla eri mieltä - fa alo rai  
 olla hereillä - jaga  
 olla jtkn mieltä (pitää jnkn) - fa rai  
@@ -2469,7 +2477,7 @@ oppi (opetus) - xula xe
 oppia (opiskella) - fa xula  
 oppilas - xula ja  
 oranssi - oranje rang  
-orava - ekore  
+orava - lixu  
 orgaaninen elämä - bier  
 orgasmi - orgazme  
 orija (eräs intialainen kieli) - Odisa  
@@ -2789,7 +2797,7 @@ porkkana - karote
 porno - porno  
 pornografia - porno grafi  
 porras (aste, taso) - gradu  
-portaat (rappuset, tikkaat) - eskale  
+portaat (rappuset, tikkaat) - trepe  
 Portugali - Portugal  
 portugali - portugal baxa  
 porukka (kuppikunta, lohko, siipi) - xia  
@@ -2806,7 +2814,7 @@ potkuri (propelli) - propeler
 povi - buste  
 praseodyymi - prazedimium  
 prepositio - prepoze  
-presidentti - prezidente  
+presidentti - presidente  
 profeetta (airut, viestintuoja) - nabija  
 profeetta Mani - Mani  
 professori - profesor  
@@ -2892,6 +2900,7 @@ pystysuuntainen - gau dipe
 pysähdys - halte  
 pysähtyä - be halte  
 pysäyttää - fa halte  
+pysäytyskuva (still-kuva) - statike grafe  
 pyyheliina - tuale  
 pyynti (metsästys, kalastus) - saide  
 pyyntö - cing  
@@ -3031,7 +3040,7 @@ risteytys (hybridi) - hibride
 risti - krus  
 ristiinnaulita - fa krus fixe  
 ristikko - krus lin  
-rituaali (seremonia, riitti) - puja riti  
+rituaali (seremonia, riitti) - puja rite  
 rivinvaihto - lin parce  
 robotti - robote  
 rodium - rodium  
@@ -3133,7 +3142,7 @@ sakset - makas
 salaam - salam  
 salaatti - salade  
 salainen - sir  
-salama - eletro radi  
+salama - eletrorade  
 sali (halli) - sala  
 sallia (antaa lupa) - fa halal  
 sallia - tolera  
@@ -3203,8 +3212,8 @@ seikkailu - ventur
 seinä (muuri) - mur  
 seismologia - sismolojia  
 seisoa (seisahtaa) - be estasi  
-seisova (staattinen) - estasi di  
-seistä (seisoa) - lipa  
+seisova (staattinen) - statike  
+seistä (seisoa) - state  
 seitsemän (7) - ceti  
 sekoitin - mixe gi  
 sekoittaa - mixe  
@@ -3318,10 +3327,10 @@ sivu (kirjassa) - yepa late
 sivu (kylki, puoli) - late  
 sivu- - late di  
 sivutuote - paraprodute  
-Skandinavia - Eskandinavia  
-skandium - eskandium  
+Skandinavia - Skandia  
+skandium - skandium  
 skorpioni - akrabe  
-Skotlanti - Eskote  
+Skotlanti - Skotia  
 slaavilainen - Slave  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
@@ -3374,7 +3383,7 @@ soveltaa - fa aplika
 sovittaa (mukauttaa) - fa hapu  
 sranan tongo - surinam baxa  
 Sri Lanka - Lanka  
-stadioni (areena) - estadi  
+stadioni (areena) - stadia  
 stereofoninen - du soni di  
 stereoskooppinen - du grafi di  
 strontium - estrontium  
@@ -3477,10 +3486,10 @@ syöttää tietoja (syöte) - inpute
 säde - radi  
 sädekehä (halo) - foto gola  
 säe (riimi) - rim  
-sähkö - eletro  
-sähköinen - eletro di  
-sähköjohto - eletro lin  
-sähköposti - eletro posta (e-posta)  
+sähkö - eletre  
+sähköinen - eletrike  
+sähköjohto - eletroline  
+sähköposti - eletroposte (e-poste)  
 säie (kuitu) - lin so  
 säilyke (pikkelssi) - acar  
 säilyttäjä - hafiza ja  
@@ -3921,8 +3930,8 @@ Uranus - Uran
 urbaani (kaupunkilais-) - nagar di  
 urdu - urdu  
 urhea (sankarillinen) - heroike  
-urheilija - esporte ja  
-urheilu - esporte  
+urheilija - sporter  
+urheilu - sporte  
 uros (mies) - nan  
 Uruguai - Uruguai  
 usein - a poli mar  
@@ -4280,6 +4289,7 @@ yhtäjaksoinen - undura
 ykseys - unta  
 yksi (1) - un  
 yksikielinen - unbaxike  
+yksilö - monike  
 yksimerkityksinen - un semi di  
 yksimerkityksinen - unsemike  
 yksinkertainen (mutkaton) - simple  
@@ -4323,10 +4333,10 @@ yömoodi - noce mode
 
 ## Z  
 
-Zarathustra - Zardux  
-zarathustralainen - zardux din ja  
-zarathustralainen pappi - zardux magi ja  
-zarathustralaisuus - zardux din  
+Zarathustra - Zarduxte  
+zarathustralainen - zarduxtiste  
+zarathustralainen pappi - zarduxtan mager  
+zarathustralaisuus - zarduxtisme  
 zenbuddhalaisuus - jan buda din  
 zikkurat - zikura  
 Zimbabwe - Zimbabue  

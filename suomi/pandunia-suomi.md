@@ -960,57 +960,50 @@ dux - suihku
 
 ## E  
 
-e - olla  
-eja - olento (olio)  
+e - ja (sekä)  
 eglisa - kirkko  
 einsteinium - einsteinium  
 Eire - Irlanti  
 ekolojia - ekologia (ympäristötiede)  
 eko - luonto  
 eko nati di - villi (villinä syntynyt)  
-ekore - orava  
-ekran - kuvaruutu  
 Ekuador - Ecuador  
-elasti - joustava (elastinen)  
-eletro - sähkö  
-eletro di - sähköinen  
-eletro lin - sähköjohto  
-eletro posta (e-posta) - sähköposti  
-eletro radi - salama  
+elastike - joustava (kimmoisa, elastinen)  
+eletre - sähkö  
+eletrike - sähköinen  
+eletroline - sähköjohto  
 eletron - elektroni  
+eletroposte (e-poste) - sähköposti  
+eletrorade - salama  
 elfe - haltia (tonttu)  
 Enceladus - Enceladus  
-energi - energia  
+energia - energia  
 Englix - Englanti  
 englix di - englanti  
 englix fili ja - anglofiili  
 englix fon di - englantia puhuva (anglofoni)  
 englix margarita - kaunokainen  
-enjenir - insinööri  
+enjener - insinööri  
+enjenia - insinööritaito  
 enzim - entsyymi  
 erbium - erbium  
 Eris - Eris (kääpiöplaneetta)  
 Eritra - Eritrea  
-esai - essee  
-eskale - portaat (rappuset, tikkaat)  
-• aneskale - laskeutua  
-eskale tana - köynnös  
-eskandium - skandium  
-Eskandinavia - Skandinavia  
-Eskote - Skotlanti  
+es - olla  
+esente - oleva  
+esentia - olevaisuus  
+esential - oleellinen  
+eser - olento (olio)  
+esai - kirjoitelma (essee)  
+eskran - kuvaruutu  
 eskulte - veistos (patsas)  
 eskulte ja - kuvanveistäjä  
 eskulte suta - kuvanveisto  
-Espanya - Espanja  
-espanya fon di - espanjaa puhuva  
+espanofonike - espanjaa puhuva  
+Espania - Espanja  
 esperanto - esperanto  
 esponje - sienieläin  
-esporte - urheilu  
-esporte ja - urheilija  
-estadi - stadioni (areena)  
 estan - tina  
-estasi - asema  
-estasi di - seisova (staattinen)  
 Esti - Viro (Eesti)  
 estibium - antimoni  
 estrontium - strontium  
@@ -1652,6 +1645,8 @@ grafi kata - sarjakuva
 grafi lanse gi - projektori (videotykki, piirtoheitin)  
 grafi projeter - projektori (videotykki, piirtoheitin)  
 gram - gramma  
+• programe - ohjelma  
+• programer - ohjelmoija  
 gran - jyvänen (hiukkanen)  
 granite - graniitti  
 grave - sora  
@@ -1889,7 +1884,6 @@ huxi - mukava (kiva, miellyttävä)
 
 ## I  
 
-i - ja (sekä)  
 ibri - heprea  
 ici - tahto  
 • anicija - vastahakoinen (haluton)  
@@ -2488,7 +2482,6 @@ lipofobia - lipofobia (rasvanpelko)
 lipide - lipidi  
 lipike - rasvainen  
 lipolize - lipolyysi  
-lipa - seistä (seisoa)  
 lipa di - pysty (seisova)  
 lipi cupu - rasvaimu  
 lis - sileä  
@@ -2497,6 +2490,7 @@ liste - lista (luettelo)
 litium - litium  
 litre - litra  
 livermorium - livermorium  
+lixu - orava  
 lize - purkaa (purku, hajotus)  
 loba - retikka (retiisi)  
 loga - puhua (puhe)  
@@ -2803,6 +2797,10 @@ moli - jasmiini
 moli hua cai - jasmiinitee  
 moliden - molybdeeni  
 moluske - nilviäinen  
+mone - ainoa  
+monaje - monadi  
+monike - yksilö  
+monisme - monismi  
 Monako - Monaco  
 Mongol - Mongolia  
 mongol di - mongoli  
@@ -2905,6 +2903,7 @@ natri - natrium
 nau - aivot  
 nau hin - aivoton  
 Nauru - Nauru  
+nave trepe - maihinnousuportaat  
 nava - nahuatli  
 nave - vene (laiva)  
 nave dex - tyyrpuuri  
@@ -3325,18 +3324,16 @@ prazedimium - praseodyymi
 pre - ennen (aikaisemmin, aiemmin; aikaisempi, edellinen)  
 pre di - edellinen  
 pre si - edellyttää  
-prese - puristaaa (puristus, paine)  
+presidente - presidentti  
 • konprese - puristaa (pusertaa)  
 • represe - puskea takaisin (alistaa)  
+prese - puristaaa (puristus, paine)  
+preser - puristin  
 prese gi - puristin  
-• preser - puristin  
-prezidente - presidentti  
 proba - yrittää (kokeilla, koettaa; koe, kokeilu, yritys)  
 problem - ongelma  
 problem di - ongelmallinen  
 profesor - professori  
-program - ohjelma  
-program ja - ohjelmoija  
 Promete - Prometheus  
 prometium - prometium  
 protacinium - protaktinium  
@@ -3344,7 +3341,7 @@ puding - vanukas
 puja - palvonta  
 pujakan - temppeli  
 puja meza - alttari  
-puja riti - rituaali (seremonia, riitti)  
+puja rite - rituaali (seremonia, riitti)  
 pul - täysi  
 pul bon - täydellinen (täysin hyvä)  
 pul fina - tehdä loppuun (saada valmiiksi)  
@@ -3655,6 +3652,9 @@ sita marke - lainausmerkki
 siti - kaupunki  
 sivil - sivistynyt  
 sivilta - sivilisaatio  
+Skandia - Skandinavia  
+skandium - skandium  
+Skotia - Skotlanti  
 Slave - slaavilainen  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
@@ -3699,7 +3699,14 @@ spete - katsoa (tarkastella)
 • intraspete - introspektio  
 • respete - katsoa silmiin (arvostaa)  
 • speter - katsoja (tarkkailija)  
+sporte - urheilu  
+sporter - urheilija  
+stadia - stadioni (areena)  
 stan - alue (seutu)  
+state - seistä (seisoa)  
+statia - asema  
+statike - seisova (staattinen)  
+statike grafe - pysäytyskuva (still-kuva)  
 su - -n (oma)  
 suahili - suahili  
 sual - kysymys  
@@ -3924,6 +3931,9 @@ tre - hyvin (sangen)
 tren - juna  
 tren dau - junarata (rautatie)  
 tren kape ja - junakaappari  
+• detrepe - laskeutua portaita  
+trepe - portaat (rappuset, tikkaat)  
+trepater - köynnös  
 tri - kolme (3)  
 trigone - kolmio  
 trigonometria - kolmiomittaus (trigonometria)  
@@ -4338,10 +4348,10 @@ Zambia - Sambia
 zar - sattuma (onni)  
 zar di - sattumanvarainen  
 zar kube - noppa (arpakuutio)  
-Zardux - Zarathustra  
-zardux din - zarathustralaisuus  
-zardux din ja - zarathustralainen  
-zardux magi ja - zarathustralainen pappi  
+Zarduxte - Zarathustra  
+zarduxtan mager - zarathustralainen pappi  
+zarduxtisme - zarathustralaisuus  
+zarduxtiste - zarathustralainen  
 zebra - seepra  
 zelo - into (kiihko)  
 zeyil - syylä  

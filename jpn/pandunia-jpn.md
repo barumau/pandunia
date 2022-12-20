@@ -381,19 +381,16 @@ dux - シャワー
 
 einsteinium - アインスタイニウム  
 eko nati di - 野生  
-ekore - 栗鼠  
-eletro - 電気  
-eletro lin - 電線  
-eletro radi - 雷 (稲妻)  
+eletre - 電気  
+eletroline - 電線  
+eletrorade - 雷 (稲妻)  
 elfe - 妖精 (エルフ)  
 englix margarita - ヒナギク  
 erbium - エルビウム  
-• aneskale - 下る (降りる)  
-eskale tana - 蔓草  
-eskandium - スカンジウム  
+es - である  
+eskran - スクリーン  
 esponje - スポンジ (海綿)  
 estan - スズ  
-estasi grafi - コマ  
 estibium - アンチモン  
 estrontium - ストロンチウム  
 etan - エタン  
@@ -610,6 +607,8 @@ grafi karte - グラフィックカード
 grafi kata - 漫画  
 grafi so - 画素 (ピクセル)  
 grafi sugata - フレームレート  
+• programe - 次第 (計画, プログラム)  
+• programaje - ソフトウェア  
 granite - 花崗岩  
 grave - 砂利  
 guai - 変  
@@ -979,15 +978,14 @@ lin so - 繊維
 linke - 繋がり (リンク)  
 linxe - 大山猫  
 lipe - 脂肪  
-lipa - 立つ  
 lipa bano - 棚  
-lipa baze - 台  
 lipa side - しゃがむ (蹲る)  
 lipi cupu - 脂肪吸引  
 lisan - 舌  
 litium - リチウム  
 litre - リットル  
 livermorium - リバモリウム  
+lixu - 栗鼠  
 loge - 記録  
 loge buku - 日誌  
 loge cuti - ログアウト  
@@ -1149,6 +1147,7 @@ mostre - 怪物  (モンスター)
 moto - モーター (エンジン, 機関)  
 moto cati - ボンネット (フード)  
 moto sikle - オートバイ (モーターサイクル)  
+mudan - 牡丹  
 mula - 根  
 mum melon - トウガン  
 mun - 門  
@@ -1184,6 +1183,7 @@ nature - 性質
 natri - ナトリウム  
 nau - 脳  
 nautile - オウムガイ  
+nave trepe - タラップ  
 nave - 舟 (ボート)  
 ne - ね  
 nefre - 腎臓  
@@ -1350,14 +1350,14 @@ poyu - シラミ
 poze - 植える  
 prazedimium - プラセオジム  
 pre - 以前 (前に)  
+presidente - 大統領  
 prese - 圧力  
+preser - 圧搾機  
 prese gi - 圧搾機  
-• preser - 圧搾機  
 problem - 問題  
-program - 次第 (計画, プログラム)  
-program gi - ソフトウェア  
 prometium - プロメチウム  
 protacinium - プロトアクチニウム  
+puding - プディング  
 pujakan - 神殿 (宮, 寺, 神社)  
 pul ekran - フルスクリーン  
 pul fito yam sim - ヴィーガニズム  
@@ -1506,6 +1506,7 @@ sir plan - 陰謀
 sirta - 忍び  
 siro - 零 (０)  
 sis - 姉妹 (shimai)  
+skandium - スカンジウム  
 so - 元素 (-素)  
 sofa - ソファー  
 sofita - 知恵  
@@ -1525,6 +1526,9 @@ sos - ソース
 sosi - 社会  
 sosi jinse - ジェンダー  
 sosis - ソーセージ  
+statobaze - 台  
+statia - 立つ  
+statike grafe - コマ  
 sual - 質問 (問題)  
 sual dokumen - アンケート (質問用紙)  
 suba - 朝  
@@ -1607,6 +1611,8 @@ trater - トラクター
 trati - 合意  
 tre - とても  
 tren - 電車 (列車)  
+• detrepe - 下る (降りる)  
+trepater - 蔓草  
 tri - 三 (3)  
 trigonometria - 三角法  
 tri pike - 三つまた (トライデント)  
@@ -1796,6 +1802,7 @@ zeyil - 疣
 zeze - ハエ目 (双翅目)  
 zi - 字  
 zi forma - フォント (字体)  
+zikura - ジッグラト  
 zinke - 亜鉛  
 zirkonium - ジルコニウム  
 zoku - まだ  
