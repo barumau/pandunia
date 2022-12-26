@@ -435,6 +435,8 @@ desen - desegno
 desi - dekono  
 detal - detalo  
 deu kata - mito  
+deval - freneza  
+devalta - frenezeco  
 dexa - lando  
 dia - tago  
 dia foto - taglumo  
@@ -451,8 +453,6 @@ dingi - najlo
 dino saur - dinosaŭro  
 diske - disko  
 disprosium - disprozio  
-divan - freneza  
-divanta - frenezeco  
 doh - filino  
 dokumen - dokumento  
 dokumen filme - dokumentfilmo  
@@ -486,6 +486,8 @@ dua - preĝo
 dubnium - dubnio  
 dudu - insekto  
 dugu - legi  
+panduke - taverno  
+dukan - vendejo  
 duku - malĝojo  
 duku di - malĝoja  
 duman - fumo  
@@ -1013,6 +1015,7 @@ kafekan - kafejo
 kafe kupa - kaftaso  
 kafe pote - kafeujo  
 kafe rang - bruna  
+kafur - kamforo  
 kaguji - papero  
 kai - malferma  
 kaju - akaĵuo  

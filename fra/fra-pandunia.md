@@ -306,6 +306,7 @@ boulon - bolte
 bout (pointe, pic) - pike  
 bout de doigt - angul pike  
 bouteille - botel  
+boutique (magasin) - dukan  
 bouton - buton  
 boxe - boce  
 boxeur - bocer  
@@ -364,6 +365,7 @@ calmar (encornet, calamar) - kalmar
 calme (tranquille) - xanti di  
 Camomille Romaine - roma kamil  
 Camomille sauvage - kamil  
+camphre - kafur  
 canapé (sofa) - sofa  
 canevas (toile) - pente tela  
 canif - jebu caku  
@@ -823,6 +825,7 @@ frère - bra
 frère aîné (grand frère) - sen bra  
 frère et sœur (adelphe, germain) - sau  
 frêne - frasen  
+fundic - panduke  
 furet - furete  
 fèces - feke  
 fée - pari  
@@ -1685,6 +1688,7 @@ rayon de miel - medu vespa nide
 rebondir - boing  
 recette - reseta  
 receveur (récepteur) - receper  
+recevoir - duke  
 recevoir - recepe  
 recycler - resikle  
 rein - nefre  

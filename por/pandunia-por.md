@@ -396,6 +396,7 @@ duple - dobro
 dubnium - dúbnio  
 dudu - inseto  
 dugu - ler  
+dukan - loja  
 duna - duna (бархан)  
 dunia - mundo  
 dura - duração  
@@ -809,6 +810,7 @@ kafekan - café
 kafe pote - cafeteira  
 kafe rang - castanho (marrom)  
 kafe salmon - truta-marrom  
+kafur - cânfora  
 kaguji - papel  
 kaguji limon - lima  
 kaju - caju  

@@ -632,8 +632,8 @@ camaca - łyżka
 campion - czempion  
 cana -   
 canse - szansa  
-capati - płaski chleb, ćapati  
 cape - odcisk, ślad; stempel, pieczęć  
+capati - płaski chleb, ćapati  
 car - wóz, wózek  
 car parke - parking  
 carme - czar (urok, wdzięk)  
@@ -828,6 +828,8 @@ desi bel - decybel
 detal - detal, szczegół  
 deu kata - mit (boska opowieść)  
 deu nagar zi - dewanagari  
+deval - szalony  
+devalta - szaleństwo  
 dex - prawa strona  
 dex di - prawy (prawostronny, z prawej strony)  
 dexhanuka -   
@@ -861,8 +863,6 @@ dipe moka - krzak (krzew)
 dipe tela - dywan  
 diske - dysk  
 disprosium - dysproz  
-divan - szalony  
-divanta - szaleństwo  
 Divehi - Malediwy (Republika Malediwów)  
 dobe - cegła  
 doh - córka  
@@ -927,6 +927,9 @@ dua - modlitwa
 dubnium - dubn  
 dudu - owad  
 dugu - czytać  
+panduke -   
+duke -   
+dukan - sklep (skład)  
 duku - żal, smutek  
 duku di - smutny  
 duman - dym  
@@ -2140,6 +2143,7 @@ kafe pote - imbryk do kawy
 kafe rang - brązowy, koloru kawy  
 kafe salmon - pstrąg potokowy  
 kafir - niewierny (poganin, niewierzący)  
+kafur - kamfora  
 kaguji - papier  
 kaguji limon - lima (limonka)  
 kai - otwarty, niezamknięty  
@@ -2734,7 +2738,6 @@ magi ja - magik, czarownik
 Magribi dexa - Maroko  
 Magyar - Węgry  
 mahala - dzielnica  
-maikan -   
 mais - kukurydza  
 majang - madżong  
 majenta - magenta  

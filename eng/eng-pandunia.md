@@ -636,6 +636,7 @@ camp - kampe
 camp bed (cot) - kampe bede  
 camper - kampe ja  
 campground - kampe bagi  
+camphor tree - kafur  
 Canada - Kanada  
 cancel (nullify, delete, erase) - fa siro  
 candela - kandela  
@@ -2098,6 +2099,7 @@ inject - fa juxa
 injection - juxa  
 ink - kalam sui  
 inkbrush (calligraphy brush) - broxa kalam  
+inn (fonduk, tavern) - panduke  
 innate (endogenous, indigenous, inborn) - innatike  
 inner (internal) - in di  
 inner (internal) - inike  
@@ -2483,9 +2485,9 @@ lynx - linxe
 Macao - Makau  
 machine (device, aparatus) - gi  
 machine - makin  
-mad (insane, crazy) - divan  
+mad (insane, crazy) - deval  
 Madagascar - Madagasi  
-madness (insanity) - divanta  
+madness (insanity) - devalta  
 magazine (journal, gazette) - gazeta  
 magazine (warehouse) - mahazin  
 magenta (fuchsia) - majenta  
@@ -3542,6 +3544,7 @@ rebellion - rebel
 rebirth (renaissance) - rinate  
 recede (retreat) - recese  
 receipt (acknowledgement) - reside  
+receive (attend to, wait on) - duke  
 receiver (receptor) - receper  
 recharge (reload) - rikarga  
 reckon (calculate, put into a certain relation, state or condition) - pute  
@@ -4100,7 +4103,7 @@ stop (halt) - halte
 stopper (cap, peg, plug, spigot, tap) - tape  
 stopwatch - dura metri gi  
 store (deposit) - hazin  
-store (shop) - maikan  
+store (shop) - dukan  
 storehouse (depository) - hazinkan  
 storm (tempest, typhoon, hurricane, cyclone) - tufan  
 straight - orto  

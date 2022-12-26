@@ -472,6 +472,7 @@ cálamo - gana kalam
 cálcio - kalsium  
 cápsico - cili  
 cáqui - haki rang  
+cânfora - kafur  
 cão (cachorro) - vaf  
 célula sanguínea - hemi selu  
 cérebro - nau  
@@ -1001,6 +1002,7 @@ lixeira - lasa tong
 lição - xula xe  
 lobo - volfe  
 local - loka di  
+loja - dukan  
 longo - long  
 lontra - lotra  
 lua - luna  

@@ -653,8 +653,8 @@ camaca - lusikka
 campion - mestari (voittaja)  
 cana - hetki (kotva)  
 canse - mahdollisuus (tilaisuus)  
-capati - chapati  
 cape - painos (leima)  
+capati - chapati  
 car - kärry (vaunu, auto, jne)  
 car parke - parkkipaikka  
 carme - vetovoima (šarmi)  
@@ -838,6 +838,8 @@ desi bel - desibeli
 detal - yksityiskohta (detalji)  
 deu kata - jumaltaru (myytti)  
 deu nagar zi - devanagari  
+deval - hullu (mieletön)  
+devalta - hulluus (mielettömyys)  
 dex - oikea puoli  
 dexhanuka - oikeakätinen  
 dexiste - oikeistolainen  
@@ -864,8 +866,6 @@ diorite - dioriitti
 dipe - matala  
 diske - kiekko (levy)  
 disprosium - dysprosium  
-divan - hullu (mieletön)  
-divanta - hulluus (mielettömyys)  
 Divehi - Malediivit  
 dobe - tiili  
 doh - tytär  
@@ -929,6 +929,9 @@ dua - rukous
 dubnium - dubnium  
 dudu - hyönteinen (ötökkä)  
 dugu - lukea  
+panduke - taverna  
+duke - palvella (kestitä)  
+dukan - kauppa (myymälä)  
 duku - suru (murhe)  
 duku di - surullinen  
 duman - savu  
@@ -2054,6 +2057,7 @@ kafe kupa - kahvikuppi
 kafe pote - kahvipannu  
 kafe rang - ruskea  
 kafir - pakana  
+kafur - kamferi  
 kaguji - paperi  
 kai - auki (avoin)  
 Kaiman nesi - Cayman-saaret  
@@ -2563,7 +2567,6 @@ magi ja - taikuri
 Magribi dexa - Marokko  
 Magyar - Unkari  
 mahala - kaupunginosa (kortteli, naapurusto)  
-maikan - kauppa  
 mais - maissi  
 majang - mahjong  
 makala - artikkeli (kirjoitus)  

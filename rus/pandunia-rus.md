@@ -429,6 +429,7 @@ du o tri - пара
 dubnium - дубний, ²нильсборий  
 dudu - насекомое  
 dugu - читать  
+dukan - магазин (лавка, бутик)  
 duna - дюна  
 dunia - мир (свет)  
 durabil - долговечный  
@@ -873,6 +874,7 @@ kafekan - кафе (кофейня)
 kafe pote - кофейник  
 kafe rang - коричневый  
 kafe salmon - кумжа  
+kafur - камфора  
 kaguji - бумага  
 kaguji limon - лайм  
 kaju - кешью  

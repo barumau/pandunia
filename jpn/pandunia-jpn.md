@@ -367,6 +367,7 @@ dua - 祈祷
 dubnium - ドブニウム  
 dudu - 昆虫  
 dugu - 読む  
+dukan - 店 (店鋪)  
 dunia - 世界  
 • redura - 再開する  
 durabil - 持続的  
@@ -773,6 +774,7 @@ kafekan - カフェ (コーヒー店)
 kafe pote - コーヒーポット  
 kafe rang - 茶色  
 kafe salmon - ブラウントラウト  
+kafur - 樟脳 (カンフル)  
 kaguji - 紙  
 kaguji limon - メキシカンライム (マナオ)  
 kaju - カシュー  

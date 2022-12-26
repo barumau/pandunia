@@ -562,8 +562,8 @@ caku - cuchillo
 camaca - cuchara  
 campion - campeón  
 canse - oportunidad (chance)  
-capati - chapati (pan sin levadura)  
 cape - grabado (sello, estampando)  
+capati - chapati (pan sin levadura)  
 car - coche (carruaje, auto, vagón)  
 car parke - estacionamiento (aparcamiento)  
 carme - encanto  
@@ -728,6 +728,8 @@ desi bel - decibelio
 detal - detalle  
 deu kata - mito (cuento divino)  
 deu nagar zi - devanágari  
+deval - demente (loco, insensato)  
+devalta - demencia (locura)  
 dex - derecho (lado derecho)  
 dex di - derecho  
 dexhanuka - diestro  
@@ -756,8 +758,6 @@ dipe moka - arbusto (mata)
 dipe tela - alfombra (tapete)  
 diske - disco  
 disprosium - disprosio  
-divan - demente (loco, insensato)  
-divanta - demencia (locura)  
 Divehi - Maldivas  
 dobe - ladrillo  
 doh - hija  
@@ -812,6 +812,8 @@ dua - rezo (oración)
 dubnium - dubnio  
 dudu - insecto  
 dugu - leer  
+panduke - fonda  
+dukan - tienda (comercio)  
 duku - pena (tristeza)  
 duku di - triste  
 duman - humo  
@@ -1857,6 +1859,7 @@ kafe pote - cafetera
 kafe rang - marrón  
 kafe salmon - trucha marrón  
 kafir - pagano (infiel)  
+kafur - alcanfor  
 kaguji - papel  
 kaguji limon - limero  
 kai - abierto  

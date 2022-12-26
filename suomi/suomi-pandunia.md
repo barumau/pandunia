@@ -780,8 +780,8 @@ huhtikuu - mes nelu
 huippu - gau  
 huippu - xan pike  
 huivi (šaali) - xal  
-hullu (mieletön) - divan  
-hulluus (mielettömyys) - divanta  
+hullu (mieletön) - deval  
+hulluus (mielettömyys) - devalta  
 humala - humel  
 humanismi (ihmisusko) - humanisme  
 humanisti - humaniste  
@@ -1143,6 +1143,7 @@ Kambodja - Kambojia
 kameli - gamel  
 kamera - fotografe gi  
 Kamerun - Kamerun  
+kamferi - kafur  
 kammo (fobia) - fobi  
 kamomilla - kamil  
 kampa - kanga  
@@ -1234,7 +1235,7 @@ kauneus - meita
 kaunis (komea, sievä) - mei  
 kaunokainen - englix margarita  
 kaupankäynti (osto ja myynti) - vende xope  
-kauppa - maikan  
+kauppa (myymälä) - dukan  
 kauppias - vende xope ja  
 kaupunginosa (kortteli, naapurusto) - mahala  
 kaupunki - nagar  
@@ -2571,6 +2572,7 @@ pallokala - balon pexe
 palmu - palma  
 paluu - retro dau  
 palvelija (tarjoilija) - server  
+palvella (kestitä) - duke  
 palvella (tarjoilla) - fa serve  
 palvelu (palvelus) - serve  
 palvoa (fanata) - fanati  
@@ -3616,6 +3618,7 @@ taulutietokone (tabletti) - table komputa
 tavallinen - ada di  
 tavanomainen (perinteinen) - suna di  
 tavata (tapaaminen, kokous) - ajami  
+taverna - panduke  
 tavu - lexi fen  
 te - tumen  
 teatraalinen (näytelmällinen, dramaattinen) - dramatike  

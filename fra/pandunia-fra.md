@@ -508,6 +508,9 @@ duple - double
 dubnium - dubnium  
 dudu - insecte  
 dugu - lire  
+panduke - fundic  
+duke - recevoir  
+dukan - boutique (magasin)  
 duna - dune  
 dunia - monde  
 dura - durée  
@@ -996,6 +999,7 @@ kafekan - café
 kafe pote - cafetière  
 kafe rang - brun (marron)  
 kafe salmon - truite brune (truite de mer)  
+kafur - camphre  
 kaguji - papier  
 kaguji limon - lime (citron vert)  
 kaju - cajou  

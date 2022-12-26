@@ -278,6 +278,7 @@
 **des** *dek (10)* ← franca:dix, hispana:diez, portugala:dez, rusa:десять (desyat'), polona:dziesięć, hindia:दस (das), bengala:দশ (dôś) + angla:deci-, malaja:desi-, japana:デシ- (deshi), deu:dezi-  
 **desen** *desegno* ← angla:design, hispana:diseño, rusa:дизайн (dizain), turka:desen, hindia:डिज़ाइन (ḍizāin), japana:デザイン (dezain)  
 **detal** *detalo* ← angla:detail, hispana:detalle, portugala:detalhe, franca:détail, deu:Detail, rusa:дета́ль (detal’)  
+**deval** *freneza* ← persa: دیوانه‎ (divâne), hindia:दीवाना (dīvānā), bengala:দেওয়ানা (devana) + mandarena:癫 (diān), kantona:癲 (din1), vjetnama:điên, japana:癲 (ten)  
 **dex** ** ← angla:deu:dexter, franca:dextre, hispana:diestro, portugala:destro, hindia:दाहिना (dāhinā), bengala:দক্ষিণ (dôkkhin), malaja:daksina  
 **dexa** *lando* ← hindia:देश (deś), bengala:দেশ (deś), teluga:(dēśamu)  
 **di** ** ← mandarena:的 (dí), kantona:的 (dik1), japana:的 (teki), vjetnama:đích  
@@ -292,7 +293,6 @@
 **dipe** ** ← mandarena:低 (dī) + vjetnama:thấp + kmera:ទាប (diəp) + turka:dip + angla:deep  
 **diske** *disko* ← angla:turka:disk, franca:disque, hispana:portugala:disco, rusa:диск (disk), hindia:डिस्क (ḍisk), bengala:ডিস্ক (ḑisk), japana:ディスク (disuku), korea:디스크 (diseukeu)  
 **disprosium** *disprozio* ← angla:dysprosium, franca:dysprosium, hispana:disprosio, portugala:disprósio, rusa:диспрозий, mandarena:镝 (dī), japana:ジスプロシウム, korea:디스프로슘, vjetnama:đysprosi, hindia:डिस्प्रोसियम, bengala:ডিসপ্রোসিয়াম, malaja:disprosium, svahila:disprosi, araba: ديسبروسيوم  
-**divan** *freneza* ← persa: دیوانه‎ (divâne), hindia:दीवाना (dīvānā), bengala:দেওয়ানা (devana) + mandarena:癫 (diān), kantona:癲 (din1), vjetnama:điên, japana:癲 (ten)  
 **dobe** ** ← araba:طوبةطوبة (ṭūba), amhara:ጡብ (ṭub), deu:angla:franca:hispana:portugala:adobe  
 **doh** *filino* ← deu:Tochter, angla:daughter, rusa:дочь (dočʹ), persa: دختر (doxtar), hindia:दुख़्तर (duxtar), teluga:దుహిత (duhita)  
 **dokumen** *dokumento* ← angla:franca:document, hispana:portugala:documento, rusa:документ (dokument), japana:ドキュメント (dokyumento), malaja:dokumen, turka:doküman  
@@ -314,6 +314,7 @@
 **dubnium** *dubnio* ← angla:dubnium, franca:dubnium, hispana:dubnio, portugala:dúbnio, rusa:дубний, ²нильсборий, mandarena: (dù), japana:ドブニウム, korea:더브늄, vjetnama:dubni, hindia:डब्नियम, bengala:ডুবনিয়াম, malaja:dubnium, svahila:dubni, araba: دبنيوم  
 **dudu** *insekto* ← svahila:mdudu, araba: دُود (dūd)  
 **dugu** *legi* ← mandarena:读 (dú), kantona:讀 (duk6), japana:讀 (doku-), korea:독 (dok), vjetnama:đọc  
+**duke** ** ← greka:πανδοκεῖον (pandokeîon), araba: دُكَّان‎ (dukkān); فُنْدُق (funduq), heb: פונדק‎ (pundák), hispana:fonda; fondac, angla:fonduk; dukhan, persa: دکان‎ (dokân), hindia:दुकान (dukān), bengala:দোকান (dokan), teluga:దుకాణము (dukāṇamu), malaja:dukan, svahila:duka, turka:dükkân, rusa:духан (duxan)  
 **duku** *malĝojo* ← hindia:दुःख (duḥkh), bengala:দুঃখ (dukhô), malaja:duka, birma:ဒုက္ခ (dukhka), taja:ทุกข์ (tuk), angla:dukkha + mandarena: 苦痛 (kǔ), japana:苦 (ku), vjetnama:khổ   
 **duman** *fumo* ← hindia:धूआँ (dhuã), turka:duman, rusa:дым (dym), kanara:(dhūma), bengala:ধোঁয়া (dhõẇa)  
 **duna** ** ← angla:franca:dune, hispana:portugala:duna, rusa:дюна (diuna) + vjetnama:đụn, korea:둔(덕) (dun(deok))  
@@ -667,6 +668,7 @@
 **kadimium** *kadmio* ← angla:cadmium, franca:cadmium, hispana:cadmio, portugala:cádmio, rusa:кадмий, mandarena:镉 (gé), japana:カドミウム, korea:카드뮴, vjetnama:catmi, hindia:काडमियम, bengala:ক্যাডমিয়াম, malaja:kadmium, svahila:kadimi, araba: كادميوم  
 **kafe** *kafo* ← deu:Kaffee, franca:hispana:portugala:café, rusa:кофе, mandarena: 咖啡 (kāfēi), kantona:咖啡 (gaa3 fe1), angla:coffee, hindia:काफ़ी (kāfī), bengala:কফি (kôphi), turka:kahve, filipina:kape, taja:กาแฟ (kafæ)  
 **kafir** ** ← araba:(kāfir), persa:(kāfer), turka:franca:kâfir, joruba:kaferi, svahila:kafiri, malaja:kafir, rusa:кафир (kafir), hindia:काफ़िर (kāfir)  
+**kafur** *kamforo* ← malaja:kapur, araba: كَافُور‎ (kāfūr), svahila:kafuri, persa: کافور‎ (kâfur), hindia:कपूर (kapūr), tamila:கற்பூரம் (kaṟpūram), angla:camphor, franca:camphre, deu:Kampfer, hispana:alcanfor, portugala:cânfora, rusa:камфора (kamfora), japana:カンフル (kanfuru)  
 **kaguji** *papero* ← mandarena:榖纸 (gǔzhǐ), kantona:榖紙 (guk1zi2), japana:榖紙 (kokushi), + persa:(kâğaz), hindia:काग़ज़ (kāġaz), bengala:কাগজ (kagôj), turka:kâğıt, araba:(kāḡid), kanara:ಕಾಗದ (kāgada), teluga:కాగితము (kāgitamu), tamila:காகிதம் (kākitam), volofa:keyit, uig:(qeghez)  
 **kai** *malferma* ← mandarena:开 (kāi), vua:開 (khe1), japana:開 (kai), korea:개 (gae), vjetnama:khai, taja:ไข (kǎi), lao:ໄຂ (khai)  
 **kaju** *akaĵuo* ← franca:cajou, hispana:cajú, portugala:caju, angla:cashew, deu:Kaschu, hindia:काजू (kājū), bengala:কাজু (kaju), araba: كَاجُو‎ (kājū), malaja:gajus, turka:kaşu, japana:カシュー (kashū), korea:캐슈 (kaesyu)  

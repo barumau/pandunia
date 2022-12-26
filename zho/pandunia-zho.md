@@ -395,6 +395,7 @@ dua - 祈祷
 • dusdua - 诅咒  
 dudu - 昆虫  
 dugu - 读 (看)  
+dukan - 商店 (店铺)  
 dunia - 世界  
 dura - 时间  
 durabil - 耐用的  
@@ -791,6 +792,7 @@ kafekan - 咖啡馆
 kafe pote - 咖啡壶  
 kafe rang - 棕色 (色)  
 kafe salmon - 褐鳟  
+kafur - 樟脑  
 kaguji - 纸  
 kaguji limon - 墨西哥萊檬  
 kaju - 腰果树  

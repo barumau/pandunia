@@ -183,6 +183,7 @@
  - dramatike  
  - du grafi di  
  - du soni di  
+ - duke  
  - dume  
  - duna  
  - dus  
@@ -550,7 +551,6 @@
  - ma pa  
  - ma sis  
  - magi bala  
- - maikan  
  - makin li  
  - makinja  
  - maltos  
@@ -646,6 +646,7 @@
  - pakaje  
  - pakete  
  - palaba  
+ - panduke  
  - panmime  
  - par fase  
  - para  
@@ -2134,6 +2135,7 @@ kalkulować - fa hisabu
 Kambodża - Kambojia  
 kamera, aparat fotograficzny - fotografe gi  
 Kamerun - Kamerun  
+kamfora - kafur  
 kamieniarz - seku sanaja  
 kamień (kawał skały) - ite  
 kamień (kawał skały) - seku  
@@ -3767,6 +3769,7 @@ skarb; skrabiec - bau
 skarpeta, skarpetka, pończocha - maze  
 skała - petra  
 skała macierzysta - baze petra  
+sklep (skład) - dukan  
 skoczyć, skakać - jampe  
 skonsumować, konsumować, zjeść, jeść, wypić, pić) - yam  
 skorpion - akrabe  
@@ -3923,8 +3926,8 @@ szafran - safran
 szakal - xakal  
 szal, szalik - xal  
 szala  - foli  
-szaleństwo - divanta  
-szalony - divan  
+szaleństwo - devalta  
+szalony - deval  
 szaman - xaman  
 szampon - kexa sabun  
 Szanghaj - xanghai  

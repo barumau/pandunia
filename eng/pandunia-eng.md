@@ -667,8 +667,8 @@ camaca - spoon
 campion - champion  
 cana - moment (while)  
 canse - opportunity (chance)  
-capati - flatbread (chapati, roti)  
 cape - print (stamp)  
+capati - flatbread (chapati, roti)  
 car - car (cart, carriage, wagon, automobile)  
 car parke - car park (parking lot)  
 carme - charm (attraction)  
@@ -863,6 +863,8 @@ desi bel - decibel
 detal - detail  
 deu kata - myth (divine story)  
 deu nagar zi - Devanagari alphabet  
+deval - mad (insane, crazy)  
+devalta - madness (insanity)  
 dex - right (right hand side)  
 dex di - right hand  
 dexhanuka - right-handed (dexter)  
@@ -896,8 +898,6 @@ dipe moka - bush (shrub)
 dipe tela - carpet (rug)  
 diske - disc (disk)  
 disprosium - dysprosium  
-divan - mad (insane, crazy)  
-divanta - madness (insanity)  
 Divehi - Maldives  
 dobe - brick  
 doh - daughter  
@@ -962,6 +962,9 @@ dua - prayer
 dubnium - dubnium  
 dudu - insect  
 dugu - read  
+panduke - inn (fonduk, tavern)  
+duke - receive (attend to, wait on)  
+dukan - store (shop)  
 duku - grieve (be sad; grief, sorrow)  
 duku di - sad  
 duman - smoke  
@@ -2175,6 +2178,7 @@ kafe pote - coffeepot
 kafe rang - brown  
 kafe salmon - brown trout  
 kafir - infidel (pagan, heathen, unbeliever)  
+kafur - camphor tree  
 kaguji - paper (material)  
 kaguji limon - key lime  
 kai - open (not closed)  
@@ -2768,7 +2772,6 @@ magi ja - magician (sorcerer, mage, wizard)
 Magribi dexa - Morocco  
 Magyar - Hungary  
 mahala - quarter (neighbourhood, district, locality, section of town)  
-maikan - store (shop)  
 mais - corn (maize)  
 majang - mahjong  
 majenta - magenta (fuchsia)  

@@ -115,6 +115,7 @@ albaricoque (ciruela) - briko
 albañil (mampostero, cantero) - seku sanaja  
 alcachofera - karcof  
 alcalino - kali di  
+alcanfor - kafur  
 alcano - alkan  
 alcohol - alkol  
 alcohólico - alkolike  
@@ -1113,8 +1114,8 @@ delfín - dolfin
 delicioso - bon guste di  
 demasiado - max ka bas  
 demasiado poco - min ka bas  
-demencia (locura) - divanta  
-demente (loco, insensato) - divan  
+demencia (locura) - devalta  
+demente (loco, insensato) - deval  
 democracia - demi krati  
 democrático - demi krati di  
 demografía - demi grafi  
@@ -1583,6 +1584,7 @@ flotador (boya) - boi
 fluir - be dara  
 fluoruro - fluride  
 flúor - flur  
+fonda - panduke  
 fonema - foneme  
 fono (segmento acústico) - fone  
 fonología - fonolojia  
@@ -3818,6 +3820,7 @@ teísmo - deisme
 teísta - deiste  
 tiburón - xayu  
 tiempo - zaman  
+tienda (comercio) - dukan  
 tierra (barro) - darti  
 tierra - gee  
 Tierra - Geia  
