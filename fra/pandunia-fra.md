@@ -24,8 +24,8 @@ adamas - diamant
 adil - juste  
 adilta - justice  
 adres - adresse  
-adres zi - arobase (@)  
-Afghan - Afghanistan  
+adres grame - arobase (@)  
+Afganestan - Afghanistan  
 Afrika - Afrique  
 agile - agile  
 agre - cultiver  
@@ -635,6 +635,7 @@ fa xipi - mouiller
 fa xopi - acheter  
 fa xula - apprendre (étudier)  
 fa xuli - réparer  
+false - faux  
 fan - fan  
 fanatija - fanatique  
 fase - face (facette)  
@@ -997,6 +998,7 @@ kafe rang - brun (marron)
 kafe salmon - truite brune (truite de mer)  
 kaguji - papier  
 kaguji limon - lime (citron vert)  
+kaju - cajou  
 kaki - kaki  
 kala - noir  
 kalam - plume  
@@ -1546,9 +1548,9 @@ pai - tarte
 pake - paquet  
 palaba - querelle (dispute, palabre)  
 paladium - palladium  
-pan demi pati - pandémie  
-pan europa di - paneuropéen  
-pan mime - pantomime  
+pandemike pate - pandémie  
+paneuropan - paneuropéen  
+panmime - pantomime  
 panda - panda  
 pang - pain  
 panir - fromage blanc  
@@ -2013,6 +2015,7 @@ un verse di - universel
 un yen di lense - monocle  
 Uran - Uranus  
 uranium - uranium  
+uzike - utile  
 
 ## V  
 
@@ -2168,8 +2171,8 @@ yogur - yaourt (yogourt)
 you - infantile (immature)  
 you moke - pousse  
 yurta - yourte  
-yuterium - yttrium  
 yuterbium - ytterbium  
+yutrium - yttrium  
 
 ## Z  
 

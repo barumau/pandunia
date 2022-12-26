@@ -12,7 +12,8 @@ acar - 漬物
 acinium - アクチニウム  
 ada - 習慣 (風俗)  
 adamas - 金剛石 (ダイヤモンド)  
-Afghan - アフガニスタン  
+adres - 住所  
+Afganestan - アフガニスタン  
 agronomia - 農学  
 agri deha - 農村  
 air - 空気  
@@ -455,14 +456,13 @@ fa sual - 聞く
 fa tele fon - 電話する  
 fa truke - 騙す  
 fa vai - 追出 (退ける, 除いて)  
-fa ver - ただす  
 fa xipi - 濡らす  
 fa xiti bai - 負ける  
 fa xopi - 買う  
 fa xou - 見せる (示す, デモる)  
 fa xula - 学ぶ  
 fa xuli - 修理する  
-faida - 使用 (為, 利)  
+faide - 使用 (為, 利)  
 false vide - 幻覚  
 fan - ファン  
 fase - 面  
@@ -775,6 +775,7 @@ kafe rang - 茶色
 kafe salmon - ブラウントラウト  
 kaguji - 紙  
 kaguji limon - メキシカンライム (マナオ)  
+kaju - カシュー  
 kaki - 柿  
 kala - 黒い  
 kalam - ペン  
@@ -1263,10 +1264,10 @@ paci lojia - 鳥類学
 pada mun - 落とし戸  
 paladium - パラジウム  
 pan - 全ての  
-pan demi pati - パンデミック  
-pan mime - パントマイム   
-pan un - 毎  
+pandemike pate - パンデミック  
 pandunia - パンドゥニア  
+panmime - パントマイム   
+pan un - 毎  
 pang - パン  
 panir - クワルク  
 panka - 翼 (羽)  
@@ -1643,7 +1644,7 @@ unta - 団結 (統一)
 un ta liga - 連合 (接合)  
 un zai di - 一人の (寂しい, ポツリ)  
 uranium - ウラン  
-uzebil di - 使用可能  
+uzebil - 使用可能  
 
 ## V  
 
@@ -1674,6 +1675,7 @@ vei lin - 横糸
 vende - 売る  
 vende xope - 交易 (売買)  
 venjou oranje - ウンシュウミカン  
+verife - ただす  
 veranda - ベランダ (バルコニー, 縁側)  
 • exversi - 外向的な  
 • extraversi - 外向的な  
@@ -1784,8 +1786,8 @@ you nan - 男の子
 you nen - 幼年時代  
 you ni - 女の子  
 yurta - 包 (ゲル)  
-yuterium - イットリウム  
 yuterbium - イッテルビウム  
+yutrium - イットリウム  
 
 ## Z  
 

@@ -76,8 +76,8 @@ adil - oikeudenmukainen
 adilkan - oikeus (käräjätalo)  
 adilta - oikeus  
 adres - osoite  
-adres zi - @-merkki  
-Afghan - Afganistan  
+adres grame - @-merkki  
+Afganestan - Afganistan  
 Afrika - Afrikka  
 agile - ketterä  
 agre - viljellä  
@@ -1274,7 +1274,6 @@ fa vai tense - venyttää (pingottaa)
 fa vai trata - vetää ulos  
 fa valu - arvottaa  
 fa vanu - viihdyttää (huvittaa)  
-fa ver - todentaa  
 fa verse - kääntää jtkn päin  
 fa vise - korvata  
 fa vode - luvata (vannoa)  
@@ -1293,9 +1292,9 @@ fa xux - hiljentää
 fa yagu - arvioida  
 fa yen - silmäillä (katsoa, tarkkailla)  
 fa zai - manata esiin  
-faida - hyöty (etu)  
-faida di - hyödyllinen  
-faida xe - hyötyaines  
+faide - hyöty (etu)  
+faidaje - hyötyaines  
+faidike - hyödyllinen  
 false vide - harhanäky (näköharha)  
 famili - perhe  
 famili nam - sukunimi  
@@ -2058,6 +2057,7 @@ kafir - pakana
 kaguji - paperi  
 kai - auki (avoin)  
 Kaiman nesi - Cayman-saaret  
+kaju - munuaispuu (cashew)  
 kaka - uloste (kakka)  
 kakau - kaakao  
 kaki - kaki (persimon)  
@@ -3068,33 +3068,33 @@ pada di - pudonnut (tippunut)
 pada mosim - syksy (syys)  
 pagri - turbaani  
 pai - piirakka (piiras)  
-paka - pakko  
 pake - pakkaus (paketti)  
+paka - pakko  
 Pakistan - Pakistan  
 palaba - pulina (hälinä)  
 paladium - palladium  
 Palau - Palau  
 palma - palmu  
 pan - kaikki  
-pan afrika di - panafrikkalainen  
-pan amerika di - panamerikkalainen  
-pan asia di - panaasialainen  
-pan demi di - pandeeminen (koko väestöä koskeva)  
-pan demi pati - pandemia  
-pan demon - pandemonio  
-pan deu - pantheon  
-pan deu sim - monijumalisuus (panteismi)  
-pan dunia di - maailmanlaajuinen (globaali)  
-pan europa di - paneurooppalainen  
+panafrikan - panafrikkalainen  
+panamerikan - panamerikkalainen  
+panasian - panaasialainen  
+pandeia - pantheon  
+pandeisme - monijumalisuus (panteismi)  
+pandemike - pandeeminen (koko väestöä koskeva)  
+pandemike pate - pandemia  
+pandemonia - pandemonio  
+pandunia - pandunia  
+panduniste - pandunian puhuja  
+pandunial - maailmanlaajuinen (globaali)  
+paneuropan - paneurooppalainen  
 pan jen - jokainen ihminen  
-pan mime - pantomiimi  
+panmime - pantomiimi  
 pan sata - aina  
 pan un - joka (jokainen)  
 pan xe - jokainen asia  
 Panama - Panama  
 panda - panda  
-pandunia - pandunia  
-pandunia ja - pandunian puhuja  
 pang - leipä  
 panike - hätä (paniikki)  
 panir - rahka  
@@ -4016,11 +4016,12 @@ urdu - urdu
 Urdun - Jordania  
 Uruguai - Uruguai  
 Uruxalem - Jerusalem  
-Uzbeki - Uzbekistan  
 uze - käyttää  
-uzebil di - käytettävissä oleva  
-uze ja - käyttäjä  
-uze ja nam - käyttäjänimi  
+uzebil - käytettävissä oleva  
+uzer - käyttäjä  
+uzer nam - käyttäjänimi  
+uzike - käytännöllinen  
+Uzbeki - Uzbekistan  
 
 ## V  
 
@@ -4092,6 +4093,7 @@ venjou oranje - satsuma
 ventur - seikkailu  
 ventur ja - seikkailija  
 ver - tosi (aito)  
+verife - todentaa  
 veranda - kuisti (terassi, veranta, parveke)  
 verme - mato  
 vermute - vermutti  
@@ -4325,8 +4327,8 @@ you nen - lapsuusvuodet
 you ni - tyttö (nuori neito)  
 youta - lapsuus (epäkypsyys)  
 yurta - jurtta  
-yuterium - yttrium  
 yuterbium - ytterbium  
+yutrium - yttrium  
 
 ## Z  
 
@@ -4346,7 +4348,7 @@ zaman - aika
 • prezaman xe - muinaisjäänne  
 Zambia - Sambia  
 zar - sattuma (onni)  
-zar di - sattumanvarainen  
+zarike - sattumanvarainen  
 zar kube - noppa (arpakuutio)  
 Zarduxte - Zarathustra  
 zarduxtan mager - zarathustralainen pappi  

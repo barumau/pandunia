@@ -17,7 +17,7 @@ adamas - diamante
 adil - justo  
 adilta - justiça  
 adres - endereço  
-Afghan - Afeganistão  
+Afganestan - Afeganistão  
 agile - ágil  
 agre - cultivar  
 agral - agrícola  
@@ -498,6 +498,7 @@ fa xofer - conduzir
 fa xopi - comprar  
 fa xula - aprender  
 fa xuli - reparar  
+false - falso  
 fan - fã  
 fase - face (faceta)  
 fase tele - profundo  
@@ -810,6 +811,7 @@ kafe rang - castanho (marrom)
 kafe salmon - truta-marrom  
 kaguji - papel  
 kaguji limon - lima  
+kaju - caju  
 kaki - caqui (dióspiro)  
 kala - preto  
 kalam - lápis  
@@ -1336,9 +1338,9 @@ pagri - turbante
 pai - torta  
 pake - pacote  
 paladium - paládio  
-pan demi pati - pandemia  
-pan europa di - pan-europeu  
-pan mime - pantomima (mímica)  
+pandemike pate - pandemia  
+paneuropan - pan-europeu  
+panmime - pantomima (mímica)  
 panda - panda  
 pang - pão  
 panir - queijo fresco  
@@ -1745,6 +1747,7 @@ un yen di lense - monóculo
 un zai di - só (solitário)  
 Uran - Urano  
 uranium - urânio  
+uzike - útil  
 
 ## V  
 
@@ -1886,8 +1889,8 @@ yogo - jugo
 yogur - iogurte  
 you - infantil (imaturo)  
 yurta - iurte  
-yuterium - itrio  
 yuterbium - itérbio  
+yutrium - itrio  
 
 ## Z  
 

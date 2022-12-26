@@ -24,7 +24,7 @@ abyssinialainen - habaxa
 adjektiivi (laatusana) - sifa loga  
 adverbi - mode loge  
 aerobinen - airobiike  
-Afganistan - Afghan  
+Afganistan - Afganestan  
 Afrikka - Afrika  
 agorafobia (avaran paikan kammo) - medan fobi  
 agronomia (maatalous) - agronomia  
@@ -830,12 +830,12 @@ hyvää matkaa - sal cuti
 hyvää ruokahalua! - sal yam  
 hyvää yötä - sal noce  
 hyytelö - jele  
-hyödyllinen - faida di  
+hyödyllinen - faidike  
 hyökkäävä (aggressiivinen) - agresevi  
 hyöky (vyöry) - dai dara  
 hyönteinen (ötökkä) - dudu  
-hyöty (etu) - faida  
-hyötyaines - faida xe  
+hyöty (etu) - faide  
+hyötyaines - faidaje  
 häh (-ko, -kö) - he  
 häiritä (vaivata) - fa turbe  
 häkki - kane kasa  
@@ -1665,12 +1665,13 @@ käydä (vierailla) - fa keka
 käydä järkeen - be razon  
 käydä päälle (käydä kimppuun; päällekarkaus, aggressio) - agrese  
 käynti (vierailu, visiitti) - keka  
-käytettävissä oleva - uzebil di  
-käyttäjä - uze ja  
-käyttäjänimi - uze ja nam  
+käytettävissä oleva - uzebil  
+käyttäjä - uzer  
+käyttäjänimi - uzer nam  
 käyttäytyä - fa manera  
 käyttää - uze  
 käytännöllinen (pragmaattinen) - prati di  
+käytännöllinen - uzike  
 käytäntö (pragmatia) - prati  
 käytös (käyttäytyminen, tapa, tavat) - manera  
 kääntyä pois - deversi  
@@ -1955,7 +1956,7 @@ maahinen - geo elfe
 maailma - dunia  
 maailman- - dunia li  
 maailmankieli - dunia baxa  
-maailmanlaajuinen (globaali) - pan dunia di  
+maailmanlaajuinen (globaali) - pandunial  
 maalais- - agristanike  
 maalaiskylä - agri deha  
 maalari - pente ja  
@@ -2170,7 +2171,7 @@ monenlainen - vari
 mongoli - mongol di  
 Mongolia - Mongol  
 moni (monta) - men  
-monijumalisuus (panteismi) - pan deu sim  
+monijumalisuus (panteismi) - pandeisme  
 monikansallinen - poli nasi di  
 monikansallinen - polinasial  
 monikielinen - poli baxa di  
@@ -2214,6 +2215,7 @@ munakoiso - bedinjan
 munkki tai nunna - biku  
 munkki- tai nunnakunta - biku sanga  
 munuainen - nefre  
+munuaispuu (cashew) - kaju  
 munuaistulehdus (nefriitti) - nefre tis  
 muoto (morfi) - forme  
 muotoilla (muovata) - fa forma  
@@ -2574,18 +2576,18 @@ palvelu (palvelus) - serve
 palvoa (fanata) - fanati  
 palvoa (fanata; fani) - fan  
 palvonta - puja  
-panaasialainen - pan asia di  
-panafrikkalainen - pan afrika di  
+panaasialainen - panasian  
+panafrikkalainen - panafrikan  
 Panama - Panama  
-panamerikkalainen - pan amerika di  
+panamerikkalainen - panamerikan  
 panda - panda  
-pandeeminen (koko väestöä koskeva) - pan demi di  
-pandemia - pan demi pati  
-pandemonio - pan demon  
+pandeeminen (koko väestöä koskeva) - pandemike  
+pandemia - pandemike pate  
+pandemonio - pandemonia  
 pandunia - pandunia  
-pandunian puhuja - pandunia ja  
+pandunian puhuja - panduniste  
 pandžabi (eräs intialainen kieli) - panjabi  
-paneurooppalainen - pan europa di  
+paneurooppalainen - paneuropan  
 pankinjohtaja - bankexefe  
 pankki - bankekan  
 pankkiiri - banker  
@@ -2598,8 +2600,8 @@ panna sisään - fa in
 panna sisään - inpoze  
 panna vinoon - fa terca  
 pannu (paistinpannu) - tava  
-pantheon - pan deu  
-pantomiimi - pan mime  
+pantheon - pandeia  
+pantomiimi - panmime  
 papaija - papaya  
 paperi - kaguji  
 pappi - din guru  
@@ -3187,7 +3189,7 @@ sateenvarjo - barxa cati
 satsuma - venjou oranje  
 sattua (käydä kipeää) - be pasi  
 sattuma (onni) - zar  
-sattumanvarainen - zar di  
+sattumanvarainen - zarike  
 satu - pari kata  
 satumaa (paratiisi) - pari dexa  
 Saturnus - Xani  
@@ -3721,7 +3723,7 @@ Titan - Titan
 Titania - Titania  
 todellinen (tosiasialinen, reaalinen) - real  
 todellisuus - realta  
-todentaa - fa ver  
+todentaa - verife  
 todistaa - fa dalil  
 todiste (todistus, osoitus, demonstraatio) - dalil  
 Togo - Togo  
@@ -4327,7 +4329,7 @@ ystävyys - dostita
 ystävä (kaveri) - dosti  
 ystävällinen (kiltti) - dosti di  
 ytterbium - yuterbium  
-yttrium - yuterium  
+yttrium - yutrium  
 yö - noce  
 yömoodi - noce mode  
 

@@ -28,7 +28,7 @@ admirar - amira
 aeite (óleo) - nefte  
 aeroporto - air porto  
 aeróbico - airobiike  
-Afeganistão - Afghan  
+Afeganistão - Afganestan  
 agacharse - lipa side  
 agente - ater  
 agressor - agreser  
@@ -260,6 +260,7 @@ cadáver - nekro
 cafeteira - kafe pote  
 café - kafe  
 café - kafekan  
+caju - kaju  
 cal - kalside  
 calcita - kalsite  
 calcular - fa hisabu  
@@ -696,6 +697,7 @@ fada - pari
 fadiga - fatige  
 fala - loga  
 falar - fa loga  
+falso - false  
 farmacologia - dava xe lojia  
 farmácia (drogaria) - dava xekan  
 farol (baliza) - foto minar  
@@ -915,7 +917,7 @@ ironia - ironi
 irídio - iridium  
 islã - islam din  
 item - vutu  
-itrio - yuterium  
+itrio - yutrium  
 itérbio - yuterbium  
 iurte - yurta  
 
@@ -1288,10 +1290,10 @@ palavra-passe (senha) - pas loga
 palhaço - payace  
 palácio (mansão, palacete) - dai dom  
 paládio - paladium  
-pan-europeu - pan europa di  
+pan-europeu - paneuropan  
 panda - panda  
-pandemia - pan demi pati  
-pantomima (mímica) - pan mime  
+pandemia - pandemike pate  
+pantomima (mímica) - panmime  
 papel - kaguji  
 papel de parede - mur kaguji  
 papel higiênico - tuale kaguji  
@@ -1905,6 +1907,7 @@ zumbi - zombi
 ósmio - osmium  
 óxide - oxide  
 único (só) - un di  
+útil - uzike  
 комиссия (комитет) - konmisea  
 люмен - lumen  
 миссионер - misioner  

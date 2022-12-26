@@ -7,7 +7,7 @@
 **ada** *nawyk (przyzwyczajenie)* ← ara: عادة (ʿāda), hin:आदत (ādat), may:adat, tur:adet, swa:ada  
 **adamas** *diament* ← rus:алмаз (almaz), ara: أَلْمَاس‎ (ʾalmās), hin:अलमास (almās), may:almas, swa:almasi, fas: الماس‎ (almâs) + gre:ἀδάμας (adámas), eng:diamond, fra:diamant, spa:por:diamante, jpn:ダイヤモンド (daiyamondo), kor:다이아몬드 (daiamondeu)  
 **adil** *sprawiedliwy* ← ara: عدل (’adl), may:tur:adil, swa:adili + hin:अदालत (adālat)  
-**adres** *adres* ← eng:address, fra:deu:adresse, rus:адрес (adres), por:endereço  
+**adres** *adres* ← eng:address, fra:adresse, deu:Adresse, rus:адрес (adres), fas: آدرس‎ (âdres), tur:adres  
 **Afrika** *Afryka* ← ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika, eng:spa:por:Africa, fra:Afrique, rus:Африка (Afrika), hin:अफ़्रीका (afrīkā), ben:আফ্রিকা (aphrika), jpn:アフリカ (Afurika), kor:프리카 (Apeurika)  
 **agile** *zwinny, sprawny* ← eng:fra:agile, spa:por:ágil, deu:agil  
 **agre** *uprawić, uprawiać* ← deu:eng:fra:spa:por:agri-, rus:агри- (agri-), tur:agro-  
@@ -204,7 +204,7 @@
 **buste** *biust* ← fra:buste, eng:bust, spa:por:busto, rus:бюст (byust), deu:Büste  
 **busu** *całus* ← ara: بُوسَة‎ (būsa), fas: بوسه‎ (buse), tur:buse, swa:busu, deu:Busserl, fra:bisou, spa:beso  
 **buta** *but* ← eng:boot, fra:botte, spa:por:bota, rus:ботинок (botinok), pol:may:but, fas: بوت‎ (but), jpn:ブーツ (būtsu), swa:buti  
-**bute** *masło* ← deu:Butter, eng:butter, fra:beurre, jpn:バター (batā), kor:버터 (beoteo), vie:bơ  
+**bute** *masło* ← deu:Butter, eng:butter, fra:beurre, jpn:バター (batā), kor:버터 (beoteo), vie:bơ, wuu:白脱 (ba' ta)  
 **buton** *klawisz, przycisk, przełącznik, guzik* ← eng:button, spa:botón, por:botão, fra:bouton, hin:बटन (baṭan), ben:বোতাম (botam), jpn:ボタン (botan), kor:버튼 (beoteun)  
 **buyu** *baobab* ← swa:mbuyu, wol:buy, sna:muuyu, zul:isimuhu  
 **cai** *herbata* ← zho: 茶 (chá), jpn: (cha), kor:차 (cha), vie:trà, tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy), por:chá  
@@ -358,7 +358,7 @@
 **fa turbe** *przeszkodzić, przeszkadzać, robić kłopot* ← eng:disturb, fra:perturber, spa:por:perturbar  
 **fa ulul** *wyć* ← deu:Heulen, ita:ululato, tur:uluma, tgl:aulong,  
 **fa** *zrobić (stworzyć, wykreować)* ← fra:faire, por:fazer, ita:fare + ara: فَعَلَ‎ (faʿala) + swa:fanya + yue:化 (faa3), hak:化 (fa), zho:化 (huà), vie:hoá  
-**faida** *zasób (zastosowanie, użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta)* ← ara:(fāʾida), tur:fayda, swa:faida, hin:फ़ायदा (fāyadā), may:faedah  
+**faide** *zasób (zastosowanie, użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta)* ← ara: فَائِدَة‎ (fāʾida), tur:fayda, swa:faida, hau:fa'ida, fas: فایده‎ (fâyede), hin:फ़ायदा (fāyadā), may:faedah  
 **false** *fałszywy, nieprawdziwy* ← eng:false, spa:por:falso, fra:faux, deu:falsch  
 **famili** *rodzina* ← eng:family, spa:familia, por:família, fra:famille, swa:familia  
 **fan** ** ← eng:fra:spa:vie:fan, por:fã, rus:фанат (fanat), zho:粉丝 (fensi), jpn:ファン (fan), kor:팬 (pän)  
@@ -669,6 +669,7 @@
 **kafir** *niewierny (poganin, niewierzący)* ← ara:(kāfir), fas:(kāfer), tur:fra:kâfir, yor:kaferi, swa:kafiri, may:kafir, rus:кафир (kafir), hin:काफ़िर (kāfir)  
 **kaguji** *papier* ← zho:榖纸 (gǔzhǐ), yue:榖紙 (guk1zi2), jpn:榖紙 (kokushi), + fas:(kâğaz), hin:काग़ज़ (kāġaz), ben:কাগজ (kagôj), tur:kâğıt, ara:(kāḡid), kan:ಕಾಗದ (kāgada), tel:కాగితము (kāgitamu), tam:காகிதம் (kākitam), wol:keyit, uig:(qeghez)  
 **kai** *otwarty, niezamknięty* ← zho:开 (kāi), wuu:開 (khe1), jpn:開 (kai), kor:개 (gae), vie:khai, tha:ไข (kǎi), lao:ໄຂ (khai)  
+**kaju** *nerkowiec* ← fra:cajou, spa:cajú, por:caju, eng:cashew, deu:Kaschu, hin:काजू (kājū), ben:কাজু (kaju), ara: كَاجُو‎ (kājū), may:gajus, tur:kaşu, jpn:カシュー (kashū), kor:캐슈 (kaesyu)  
 **kaka** *ekskrement, gówno* ← spa:por:fra:caca, deu:Kacke, ara:(kākā), tur:kaka, rus:кака (kaka), fas:(kake)  
 **kakau** *kakao* ← por:cacau, ara:(kākāw), spa:cacao, eng:cocoa, rus:какао (kakao), jpn:カカオ (kakao), zho:可可 (kěkě), vie:cacao, swa:kakao  
 **kaki** ** ← jpn:柿 (kaki), min:柿 (khī), deu:Kaki, eng:fra:kaki, spa:por:caqui, ara: كَاكَا‎ (kākā), swa:mjoho kaki  
@@ -1654,7 +1655,7 @@
 **you** ** ← zho:幼 (yòu), yue:幼 (yau3), jpn:幼 (yõ), kor:유 (yu) + hin:युवा (yuvā), tam:யுவன் (yuvaṉ), tel:యువ (yuva) + spa:joven, por:jovem, fra:juvénile  
 **yurta** *jurta* ← tur:eng:yurt, deu:Jurte, fra:yourte, spa:yurta, por:iurte, rus:юрта (yurta), hin:युर्त (yurt), kor:유르트 (yureuteu)  
 **yuterbium** *iterb* ← eng:ytterbium, fra:ytterbium, spa:iterbio, por:itérbio, rus:иттербий, zho:镱 (yì), jpn:イッテルビウム, kor:이테르븀, vie:ytecbi, hin:यिट्टरबियम, ben:ইটারবিয়াম, may:iterbium, swa:yitebi, ara: يتربيوم  
-**yuterium** *itr* ← eng:yttrium, fra:yttrium, spa:itrio, por:itrio, rus:иттрий, zho:钇 (yǐ), jpn:イットリウム, kor:이트륨, vie:ytri, hin:इत्रियम, ben:ইটরিয়াম, may:itrium, swa:yitri, ara: يتريوم  
+**yutrium** *itr* ← eng:yttrium, fra:yttrium, spa:itrio, por:itrio, rus:иттрий, zho:钇 (yǐ), jpn:イットリウム, kor:이트륨, vie:ytri, hin:इत्रियम, ben:ইটরিয়াম, may:itrium, swa:yitri, ara: يتريوم  
 **zai** *istnieć* ← zho:在 (zài), jpn:在 (zai), vie:tại  
 **zaitun** *oliwka* ← ara:(zaitūn), spa:aceituna, may:zaitun, hau:swa:zaituni, hin:urd:(zaitūn)  
 **zalim** *złośliwy, okrutny* ← ara:(ẓālim), tur:zalim, urd:hin:(zālim), fas:(zālem), swa:dhalimu  

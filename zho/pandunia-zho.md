@@ -18,7 +18,7 @@ adamas - 钻石
 adil - 公正地  
 adilta - 正义  
 adres - 地址  
-Afghan - 阿富汗  
+Afganestan - 阿富汗  
 agile - 灵活的  
 agrobiolojia - 土壤生物学  
 agronomia - 农学  
@@ -481,7 +481,7 @@ fa xopi - 买
 fa xula - 学习  
 fa xuli - 修理  
 fa xuru - 开始  
-faida - 效用 (好处)  
+faide - 效用 (好处)  
 fan - 粉丝 (fensi)  
 fase - 面  
 fase area - 面积  
@@ -793,6 +793,7 @@ kafe rang - 棕色 (色)
 kafe salmon - 褐鳟  
 kaguji - 纸  
 kaguji limon - 墨西哥萊檬  
+kaju - 腰果树  
 kaki - 柿子  
 kala - 黑色  
 kalam - 笔  
@@ -1267,8 +1268,8 @@ paci lojia - 鸟类学
 pagri - 包头  
 pai - 馅饼  
 paladium - 钯  
-pan demi pati - 大流行病  
-pan mime - 哑剧  
+pandemike pate - 大流行病  
+panmime - 哑剧  
 pan un - 每  
 pang - 面包  
 panka - 翅膀 (膀子)  
@@ -1772,8 +1773,8 @@ yogur - 酸奶 (优格)
 you - 幼稚  
 you nen - 幼年  
 yurta - 穹庐  
-yuterium - 钇  
 yuterbium - 镱  
+yutrium - 钇  
 
 ## Z  
 

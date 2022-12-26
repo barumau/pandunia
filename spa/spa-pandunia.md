@@ -79,7 +79,7 @@ aeroplano - fei gi
 aeropuerto - air porto  
 aeróbico - airobiike  
 afecto (emoción) - gamo  
-Afganistán - Afghan  
+Afganistán - Afganestan  
 afilado (puntiagudo) - gata ja  
 agacharse - lipa side  
 agente - ater  
@@ -279,7 +279,7 @@ arquitectura - bine plan
 arrastrar - trate  
 arreglo - xuli  
 arriesgado - risko di  
-arroba (@) - adres zi  
+arroba (@) - adres grame  
 arromántico - anromanse  
 arroz - varis  
 arroz blanco - baku varis  
@@ -333,7 +333,7 @@ auspicioso (propicio) - bon sin di
 Australia - Australia  
 Austria - Ostria  
 Austronesia - Austronesi  
-autenticar - fa ver  
+autenticar - verife  
 autocratia (monarquía) - autokratia  
 automotor (automotriz) - auto move  
 automóvil (coche) - moto gar  
@@ -356,7 +356,7 @@ ayuda (socorro, auxilio, asistencia) - mede
 ayudar (asistar) - fa mede  
 azada - copu  
 azafrán - safran  
-azar (aleatorio) - zar di  
+azar (aleatorio) - zarike  
 Azerbaiyán - Azerbaijan  
 azucarado - sukre di  
 azuela - benzi  
@@ -434,6 +434,7 @@ belio - bel
 bellas artes - mei arte  
 belleza (hermosura) - meita  
 bellota - baluta frute  
+beneficio - faide  
 beneficioso (bueno) - eu  
 Benín - Benin  
 berenjena - bedinjan  
@@ -559,6 +560,7 @@ caja (caja registradora) - pesa kasa
 caja torácica - sine kasa  
 cajero - pesa kasa ja  
 cajón (gaveta) - tire sanduku  
+cajú (marañón) - kaju  
 cal - kalside  
 calabacín - xiu kaboga  
 calabaza - kaboga  
@@ -1706,7 +1708,7 @@ ginseng - jenxen
 girar (rotar) - be rota  
 girasol - sol hua  
 glicina - glukin  
-global (de todo el mundo) - pan dunia di  
+global (de todo el mundo) - pandunial  
 global (mundial) - dunia li  
 globo - balon  
 glucosa - glukos  
@@ -1788,7 +1790,7 @@ habilidad (capacidad) - bilta
 habitación (cuarto, sala, pieza) - kamar  
 habla - loga  
 hablador (locuaz) - loga tabi di  
-hablante de Pandunia - pandunia ja  
+hablante de Pandunia - panduniste  
 hace girar (dar vueltas) - rotate  
 hacedor (perpetrador) - ja  
 hacer (hecho) - fete  
@@ -2075,7 +2077,7 @@ Islas Vírgenes - Virgin nesi
 Israel - Israel  
 Italia - Italia  
 iterbio - yuterbium  
-itrio - yuterium  
+itrio - yutrium  
 izquerdista - leu sim ja  
 izquierdo - leu  
 izquierdo - leu di  
@@ -2711,7 +2713,7 @@ nobiembre - mes des un
 noche (tarde) - xam  
 noche - noce  
 nombre - nam  
-nombre de usuario - uze ja nam  
+nombre de usuario - uzer nam  
 norma - norma  
 norma - norma di  
 norte - norde  
@@ -2864,25 +2866,25 @@ pan - pang
 pan tostado - xava pang  
 panadero - baker  
 panadería - bakeria  
-panafricano - pan afrika di  
-panamericano - pan amerika di  
+panafricano - panafrikan  
+panamericano - panamerikan  
 Panamá - Panama  
-panasiano - pan asia di  
+panasiano - panasian  
 panda - panda  
-pandemia - pan demi pati  
-pandemonio - pan demon  
+pandemia - pandemike pate  
+pandemonio - pandemonia  
 Pandunia - pandunia  
-pandémico - pan demi di  
+pandémico - pandemike  
 panecillos al vapor (mantou) - mantu  
-paneuropeo - pan europa di  
+paneuropeo - paneuropan  
 panqueque (crepa) - krepe  
 panrromántico - pan romanse di  
 pansexual - pan sexe di  
 pantalla - eskran  
 pantalla completa - pul ekran  
 pantalones - pante  
-panteísmo - pan deu sim  
-panteón - pan deu  
+panteísmo - pandeisme  
+panteón - pandeia  
 papa - patate  
 papaya - papaya  
 papel - kaguji  
@@ -3960,10 +3962,9 @@ urbano - nagar di
 urdu - urdu  
 Uruguay - Uruguai  
 usar (aplicar) - uze  
-uso (utilidad, beneficio) - faida  
 ustedes - tumen  
-usuario - uze ja  
-utilizable (disponible) - uzebil di  
+usuario - uzer  
+utilizable (disponible) - uzebil  
 uva - putau  
 Uzbekistán - Uzbeki  
 uña - nahun  
@@ -4154,5 +4155,6 @@ zulú - Zulu
 ósmosis - osmos  
 óxide - oxide  
 único (únicamente, solo) - un di  
-útil (beneficioso) - faida di  
+útil (beneficioso) - faidike  
+útil - uzike  
 липосакция - lipi cupu  

@@ -7,7 +7,7 @@
 **ada** *habit (custom)* ← Arabic: عادة (ʿāda), Hindi:आदत (ādat), Malay:adat, Turkish:adet, Swahili:ada  
 **adamas** *diamond* ← Russian:алмаз (almaz), Arabic: أَلْمَاس‎ (ʾalmās), Hindi:अलमास (almās), Malay:almas, Swahili:almasi, Persian: الماس‎ (almâs) + gre:ἀδάμας (adámas), English:diamond, French:diamant, Spanish:Portuguese:diamante, Japanese:ダイヤモンド (daiyamondo), Korean:다이아몬드 (daiamondeu)  
 **adil** *just (fair, righteous)* ← Arabic: عدل (’adl), Malay:Turkish:adil, Swahili:adili + Hindi:अदालत (adālat)  
-**adres** *address* ← English:address, French:deu:adresse, Russian:адрес (adres), Portuguese:endereço  
+**adres** *address* ← English:address, French:adresse, deu:Adresse, Russian:адрес (adres), Persian: آدرس‎ (âdres), Turkish:adres  
 **Afrika** *Africa* ← Arabic:(ʾafrīqiyā), Wolof:Afrig, Fulani:Afirik, Amharic:(ʾäfriḳa), Hausa:Afirka, Yoruba:Afirika, Oromo:Afrikaa, Swahili:Afrika, English:Spanish:Portuguese:Africa, French:Afrique, Russian:Африка (Afrika), Hindi:अफ़्रीका (afrīkā), Bengali:আফ্রিকা (aphrika), Japanese:アフリカ (Afurika), Korean:프리카 (Apeurika)  
 **agile** *agile* ← English:French:agile, Spanish:Portuguese:ágil, deu:agil  
 **agre** *cultivate (farm)* ← deu:English:French:Spanish:Portuguese:agri-, Russian:агри- (agri-), Turkish:agro-  
@@ -204,7 +204,7 @@
 **buste** *bust (bosom)* ← French:buste, English:bust, Spanish:Portuguese:busto, Russian:бюст (byust), deu:Büste  
 **busu** *kiss* ← Arabic: بُوسَة‎ (būsa), Persian: بوسه‎ (buse), Turkish:buse, Swahili:busu, deu:Busserl, French:bisou, Spanish:beso  
 **buta** *boot* ← English:boot, French:botte, Spanish:Portuguese:bota, Russian:ботинок (botinok), Polish:Malay:but, Persian: بوت‎ (but), Japanese:ブーツ (būtsu), Swahili:buti  
-**bute** *butter* ← deu:Butter, English:butter, French:beurre, Japanese:バター (batā), Korean:버터 (beoteo), Vietnamese:bơ  
+**bute** *butter* ← deu:Butter, English:butter, French:beurre, Japanese:バター (batā), Korean:버터 (beoteo), Vietnamese:bơ, Wu-Chinese:白脱 (ba' ta)  
 **buton** *key (push-button, switch)* ← English:button, Spanish:botón, Portuguese:botão, French:bouton, Hindi:बटन (baṭan), Bengali:বোতাম (botam), Japanese:ボタン (botan), Korean:버튼 (beoteun)  
 **buyu** *baobab* ← Swahili:mbuyu, Wolof:buy, sna:muuyu, Zulu:isimuhu  
 **cai** *tea* ← Mandarin: 茶 (chá), Japanese: (cha), Korean:차 (cha), Vietnamese:trà, Turkish:çay, Swahili:chai, Russian:чай (čay), Hindi:चाय (cāy), Arabic:(šāy), Portuguese:chá  
@@ -358,7 +358,7 @@
 **fa turbe** *bother (annoy, disturb, irritate)* ← English:disturb, French:perturber, Spanish:Portuguese:perturbar  
 **fa ulul** *howl* ← deu:Heulen, Italian:ululato, Turkish:uluma, Filipino:aulong,  
 **fa** *do* ← French:faire, Portuguese:fazer, Italian:fare + Arabic: فَعَلَ‎ (faʿala) + Swahili:fanya + Cantonese:化 (faa3), Hakka-Chinese:化 (fa), Mandarin:化 (huà), Vietnamese:hoá  
-**faida** *use (utility, benefit, gain, advantage, asset)* ← Arabic:(fāʾida), Turkish:fayda, Swahili:faida, Hindi:फ़ायदा (fāyadā), Malay:faedah  
+**faide** *gain (benefit, advantage, asset, profit)* ← Arabic: فَائِدَة‎ (fāʾida), Turkish:fayda, Swahili:faida, Hausa:fa'ida, Persian: فایده‎ (fâyede), Hindi:फ़ायदा (fāyadā), Malay:faedah  
 **false** *false (fake)* ← English:false, Spanish:Portuguese:falso, French:faux, deu:falsch  
 **famili** *family* ← English:family, Spanish:familia, Portuguese:família, French:famille, Swahili:familia  
 **fan** *fan (be a fan, admire)* ← English:French:Spanish:Vietnamese:fan, Portuguese:fã, Russian:фанат (fanat), Mandarin:粉丝 (fensi), Japanese:ファン (fan), Korean:팬 (pän)  
@@ -669,6 +669,7 @@
 **kafir** *infidel (pagan, heathen, unbeliever)* ← Arabic:(kāfir), Persian:(kāfer), Turkish:French:kâfir, Yoruba:kaferi, Swahili:kafiri, Malay:kafir, Russian:кафир (kafir), Hindi:काफ़िर (kāfir)  
 **kaguji** *paper (material)* ← Mandarin:榖纸 (gǔzhǐ), Cantonese:榖紙 (guk1zi2), Japanese:榖紙 (kokushi), + Persian:(kâğaz), Hindi:काग़ज़ (kāġaz), Bengali:কাগজ (kagôj), Turkish:kâğıt, Arabic:(kāḡid), Kannada:ಕಾಗದ (kāgada), Telugu:కాగితము (kāgitamu), Tamil:காகிதம் (kākitam), Wolof:keyit, uig:(qeghez)  
 **kai** *open (not closed)* ← Mandarin:开 (kāi), Wu-Chinese:開 (khe1), Japanese:開 (kai), Korean:개 (gae), Vietnamese:khai, Thai:ไข (kǎi), lao:ໄຂ (khai)  
+**kaju** *cashew* ← French:cajou, Spanish:cajú, Portuguese:caju, English:cashew, deu:Kaschu, Hindi:काजू (kājū), Bengali:কাজু (kaju), Arabic: كَاجُو‎ (kājū), Malay:gajus, Turkish:kaşu, Japanese:カシュー (kashū), Korean:캐슈 (kaesyu)  
 **kaka** *excrement (shit)* ← Spanish:Portuguese:French:caca, deu:Kacke, Arabic:(kākā), Turkish:kaka, Russian:кака (kaka), Persian:(kake)  
 **kakau** *cocoa* ← Portuguese:cacau, Arabic:(kākāw), Spanish:cacao, English:cocoa, Russian:какао (kakao), Japanese:カカオ (kakao), Mandarin:可可 (kěkě), Vietnamese:cacao, Swahili:kakao  
 **kaki** *persimmon (kaki)* ← Japanese:柿 (kaki), Min-Chinese:柿 (khī), deu:Kaki, English:French:kaki, Spanish:Portuguese:caqui, Arabic: كَاكَا‎ (kākā), Swahili:mjoho kaki  
@@ -1654,7 +1655,7 @@
 **you** *infantile (juvenile, immature)* ← Mandarin:幼 (yòu), Cantonese:幼 (yau3), Japanese:幼 (yõ), Korean:유 (yu) + Hindi:युवा (yuvā), Tamil:யுவன் (yuvaṉ), Telugu:యువ (yuva) + Spanish:joven, Portuguese:jovem, French:juvénile  
 **yurta** *yurt (ger)* ← Turkish:English:yurt, deu:Jurte, French:yourte, Spanish:yurta, Portuguese:iurte, Russian:юрта (yurta), Hindi:युर्त (yurt), Korean:유르트 (yureuteu)  
 **yuterbium** *ytterbium* ← English:ytterbium, French:ytterbium, Spanish:iterbio, Portuguese:itérbio, Russian:иттербий, Mandarin:镱 (yì), Japanese:イッテルビウム, Korean:이테르븀, Vietnamese:ytecbi, Hindi:यिट्टरबियम, Bengali:ইটারবিয়াম, Malay:iterbium, Swahili:yitebi, Arabic: يتربيوم  
-**yuterium** *yttrium* ← English:yttrium, French:yttrium, Spanish:itrio, Portuguese:itrio, Russian:иттрий, Mandarin:钇 (yǐ), Japanese:イットリウム, Korean:이트륨, Vietnamese:ytri, Hindi:इत्रियम, Bengali:ইটরিয়াম, Malay:itrium, Swahili:yitri, Arabic: يتريوم  
+**yutrium** *yttrium* ← English:yttrium, French:yttrium, Spanish:itrio, Portuguese:itrio, Russian:иттрий, Mandarin:钇 (yǐ), Japanese:イットリウム, Korean:이트륨, Vietnamese:ytri, Hindi:इत्रियम, Bengali:ইটরিয়াম, Malay:itrium, Swahili:yitri, Arabic: يتريوم  
 **zai** *exist (presently, currently)* ← Mandarin:在 (zài), Japanese:在 (zai), Vietnamese:tại  
 **zaitun** *olive* ← Arabic:(zaitūn), Spanish:aceituna, Malay:zaitun, Hausa:Swahili:zaituni, Hindi:Urdu:(zaitūn)  
 **zalim** *mean (cruel)* ← Arabic:(ẓālim), Turkish:zalim, Urdu:Hindi:(zālim), Persian:(zālem), Swahili:dhalimu  

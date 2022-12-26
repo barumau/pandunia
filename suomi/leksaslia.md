@@ -7,7 +7,7 @@
 **ada** *tapa* ← arabia: عادة (ʿāda), hindi:आदत (ādat), malaiji:adat, turkki:adet, suahili:ada  
 **adamas** *timantti* ← venäjä:алмаз (almaz), arabia: أَلْمَاس‎ (ʾalmās), hindi:अलमास (almās), malaiji:almas, suahili:almasi, persia: الماس‎ (almâs) + gre:ἀδάμας (adámas), englanti:diamond, ranska:diamant, espanja:portugali:diamante, japani:ダイヤモンド (daiyamondo), korea:다이아몬드 (daiamondeu)  
 **adil** *oikeudenmukainen* ← arabia: عدل (’adl), malaiji:turkki:adil, suahili:adili + hindi:अदालत (adālat)  
-**adres** *osoite* ← englanti:address, ranska:deu:adresse, venäjä:адрес (adres), portugali:endereço  
+**adres** *osoite* ← englanti:address, ranska:adresse, deu:Adresse, venäjä:адрес (adres), persia: آدرس‎ (âdres), turkki:adres  
 **Afrika** *Afrikka* ← arabia:(ʾafrīqiyā), wolof:Afrig, fulani:Afirik, amhara:(ʾäfriḳa), hausa:Afirka, yoruba:Afirika, oromo:Afrikaa, suahili:Afrika, englanti:espanja:portugali:Africa, ranska:Afrique, venäjä:Африка (Afrika), hindi:अफ़्रीका (afrīkā), bangla:আফ্রিকা (aphrika), japani:アフリカ (Afurika), korea:프리카 (Apeurika)  
 **agile** *ketterä* ← englanti:ranska:agile, espanja:portugali:ágil, deu:agil  
 **agre** *viljellä* ← deu:englanti:ranska:espanja:portugali:agri-, venäjä:агри- (agri-), turkki:agro-  
@@ -204,7 +204,7 @@
 **buste** *povi* ← ranska:buste, englanti:bust, espanja:portugali:busto, venäjä:бюст (byust), deu:Büste  
 **busu** *suukko (pusu)* ← arabia: بُوسَة‎ (būsa), persia: بوسه‎ (buse), turkki:buse, suahili:busu, deu:Busserl, ranska:bisou, espanja:beso  
 **buta** *saapas (buutsi)* ← englanti:boot, ranska:botte, espanja:portugali:bota, venäjä:ботинок (botinok), puola:malaiji:but, persia: بوت‎ (but), japani:ブーツ (būtsu), suahili:buti  
-**bute** *voi* ← deu:Butter, englanti:butter, ranska:beurre, japani:バター (batā), korea:버터 (beoteo), vietnami:bơ  
+**bute** *voi* ← deu:Butter, englanti:butter, ranska:beurre, japani:バター (batā), korea:버터 (beoteo), vietnami:bơ, wu-kiina:白脱 (ba' ta)  
 **buton** *nappi (näppäin, kytkin, nappula)* ← englanti:button, espanja:botón, portugali:botão, ranska:bouton, hindi:बटन (baṭan), bangla:বোতাম (botam), japani:ボタン (botan), korea:버튼 (beoteun)  
 **buyu** *apinanleipäpuu (baobab)* ← suahili:mbuyu, wolof:buy, sna:muuyu, zulu:isimuhu  
 **cai** *tee* ← yleiskiina: 茶 (chá), japani: (cha), korea:차 (cha), vietnami:trà, turkki:çay, suahili:chai, venäjä:чай (čay), hindi:चाय (cāy), arabia:(šāy), portugali:chá  
@@ -358,7 +358,7 @@
 **fa turbe** *häiritä (vaivata)* ← englanti:disturb, ranska:perturber, espanja:portugali:perturbar  
 **fa ulul** *ulvoa* ← deu:Heulen, italia:ululato, turkki:uluma, filippiini:aulong,  
 **fa** *tehdä (toimia)* ← ranska:faire, portugali:fazer, italia:fare + arabia: فَعَلَ‎ (faʿala) + suahili:fanya + kantoninkiina:化 (faa3), hakkakiina:化 (fa), yleiskiina:化 (huà), vietnami:hoá  
-**faida** *hyöty (etu)* ← arabia:(fāʾida), turkki:fayda, suahili:faida, hindi:फ़ायदा (fāyadā), malaiji:faedah  
+**faide** *hyöty (etu)* ← arabia: فَائِدَة‎ (fāʾida), turkki:fayda, suahili:faida, hausa:fa'ida, persia: فایده‎ (fâyede), hindi:फ़ायदा (fāyadā), malaiji:faedah  
 **false** *väärä (epätosi, vale-)* ← englanti:false, espanja:portugali:falso, ranska:faux, deu:falsch  
 **famili** *perhe* ← englanti:family, espanja:familia, portugali:família, ranska:famille, suahili:familia  
 **fan** *palvoa (fanata; fani)* ← englanti:ranska:espanja:vietnami:fan, portugali:fã, venäjä:фанат (fanat), yleiskiina:粉丝 (fensi), japani:ファン (fan), korea:팬 (pän)  
@@ -669,6 +669,7 @@
 **kafir** *pakana* ← arabia:(kāfir), persia:(kāfer), turkki:ranska:kâfir, yoruba:kaferi, suahili:kafiri, malaiji:kafir, venäjä:кафир (kafir), hindi:काफ़िर (kāfir)  
 **kaguji** *paperi* ← yleiskiina:榖纸 (gǔzhǐ), kantoninkiina:榖紙 (guk1zi2), japani:榖紙 (kokushi), + persia:(kâğaz), hindi:काग़ज़ (kāġaz), bangla:কাগজ (kagôj), turkki:kâğıt, arabia:(kāḡid), kannada:ಕಾಗದ (kāgada), telugu:కాగితము (kāgitamu), tamili:காகிதம் (kākitam), wolof:keyit, uig:(qeghez)  
 **kai** *auki (avoin)* ← yleiskiina:开 (kāi), wu-kiina:開 (khe1), japani:開 (kai), korea:개 (gae), vietnami:khai, thai:ไข (kǎi), lao:ໄຂ (khai)  
+**kaju** *munuaispuu (cashew)* ← ranska:cajou, espanja:cajú, portugali:caju, englanti:cashew, deu:Kaschu, hindi:काजू (kājū), bangla:কাজু (kaju), arabia: كَاجُو‎ (kājū), malaiji:gajus, turkki:kaşu, japani:カシュー (kashū), korea:캐슈 (kaesyu)  
 **kaka** *uloste (kakka)* ← espanja:portugali:ranska:caca, deu:Kacke, arabia:(kākā), turkki:kaka, venäjä:кака (kaka), persia:(kake)  
 **kakau** *kaakao* ← portugali:cacau, arabia:(kākāw), espanja:cacao, englanti:cocoa, venäjä:какао (kakao), japani:カカオ (kakao), yleiskiina:可可 (kěkě), vietnami:cacao, suahili:kakao  
 **kaki** *kaki (persimon)* ← japani:柿 (kaki), min-kiina:柿 (khī), deu:Kaki, englanti:ranska:kaki, espanja:portugali:caqui, arabia: كَاكَا‎ (kākā), suahili:mjoho kaki  
@@ -1654,7 +1655,7 @@
 **you** *lapsi (alaikäinen, epäkypsä, kasvava)* ← yleiskiina:幼 (yòu), kantoninkiina:幼 (yau3), japani:幼 (yõ), korea:유 (yu) + hindi:युवा (yuvā), tamili:யுவன் (yuvaṉ), telugu:యువ (yuva) + espanja:joven, portugali:jovem, ranska:juvénile  
 **yurta** *jurtta* ← turkki:englanti:yurt, deu:Jurte, ranska:yourte, espanja:yurta, portugali:iurte, venäjä:юрта (yurta), hindi:युर्त (yurt), korea:유르트 (yureuteu)  
 **yuterbium** *ytterbium* ← englanti:ytterbium, ranska:ytterbium, espanja:iterbio, portugali:itérbio, venäjä:иттербий, yleiskiina:镱 (yì), japani:イッテルビウム, korea:이테르븀, vietnami:ytecbi, hindi:यिट्टरबियम, bangla:ইটারবিয়াম, malaiji:iterbium, suahili:yitebi, arabia: يتربيوم  
-**yuterium** *yttrium* ← englanti:yttrium, ranska:yttrium, espanja:itrio, portugali:itrio, venäjä:иттрий, yleiskiina:钇 (yǐ), japani:イットリウム, korea:이트륨, vietnami:ytri, hindi:इत्रियम, bangla:ইটরিয়াম, malaiji:itrium, suahili:yitri, arabia: يتريوم  
+**yutrium** *yttrium* ← englanti:yttrium, ranska:yttrium, espanja:itrio, portugali:itrio, venäjä:иттрий, yleiskiina:钇 (yǐ), japani:イットリウム, korea:이트륨, vietnami:ytri, hindi:इत्रियम, bangla:ইটরিয়াম, malaiji:itrium, suahili:yitri, arabia: يتريوم  
 **zai** *olla olemassa* ← yleiskiina:在 (zài), japani:在 (zai), vietnami:tại  
 **zaitun** *oliivi* ← arabia:(zaitūn), espanja:aceituna, malaiji:zaitun, hausa:suahili:zaituni, hindi:urdu:(zaitūn)  
 **zalim** *ilkeä (julma)* ← arabia:(ẓālim), turkki:zalim, urdu:hindi:(zālim), persia:(zālem), suahili:dhalimu  

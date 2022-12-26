@@ -7,7 +7,7 @@
 **ada** *kutimo* ← araba: عادة (ʿāda), hindia:आदत (ādat), malaja:adat, turka:adet, svahila:ada  
 **adamas** *diamanto* ← rusa:алмаз (almaz), araba: أَلْمَاس‎ (ʾalmās), hindia:अलमास (almās), malaja:almas, svahila:almasi, persa: الماس‎ (almâs) + gre:ἀδάμας (adámas), angla:diamond, franca:diamant, hispana:portugala:diamante, japana:ダイヤモンド (daiyamondo), korea:다이아몬드 (daiamondeu)  
 **adil** *justa* ← araba: عدل (’adl), malaja:turka:adil, svahila:adili + hindia:अदालत (adālat)  
-**adres** *adreso* ← angla:address, franca:deu:adresse, rusa:адрес (adres), portugala:endereço  
+**adres** *adreso* ← angla:address, franca:adresse, deu:Adresse, rusa:адрес (adres), persa: آدرس‎ (âdres), turka:adres  
 **Afrika** *Afriko* ← araba:(ʾafrīqiyā), volofa:Afrig, fula:Afirik, amhara:(ʾäfriḳa), haŭsa:Afirka, joruba:Afirika, oroma:Afrikaa, svahila:Afrika, angla:hispana:portugala:Africa, franca:Afrique, rusa:Африка (Afrika), hindia:अफ़्रीका (afrīkā), bengala:আফ্রিকা (aphrika), japana:アフリカ (Afurika), korea:프리카 (Apeurika)  
 **agile** *lerta* ← angla:franca:agile, hispana:portugala:ágil, deu:agil  
 **agre** ** ← deu:angla:franca:hispana:portugala:agri-, rusa:агри- (agri-), turka:agro-  
@@ -204,7 +204,7 @@
 **buste** ** ← franca:buste, angla:bust, hispana:portugala:busto, rusa:бюст (byust), deu:Büste  
 **busu** *kiso* ← araba: بُوسَة‎ (būsa), persa: بوسه‎ (buse), turka:buse, svahila:busu, deu:Busserl, franca:bisou, hispana:beso  
 **buta** ** ← angla:boot, franca:botte, hispana:portugala:bota, rusa:ботинок (botinok), polona:malaja:but, persa: بوت‎ (but), japana:ブーツ (būtsu), svahila:buti  
-**bute** *butero* ← deu:Butter, angla:butter, franca:beurre, japana:バター (batā), korea:버터 (beoteo), vjetnama:bơ  
+**bute** *butero* ← deu:Butter, angla:butter, franca:beurre, japana:バター (batā), korea:버터 (beoteo), vjetnama:bơ, vua:白脱 (ba' ta)  
 **buton** *klavo (butono)* ← angla:button, hispana:botón, portugala:botão, franca:bouton, hindia:बटन (baṭan), bengala:বোতাম (botam), japana:ボタン (botan), korea:버튼 (beoteun)  
 **buyu** *baobabo* ← svahila:mbuyu, volofa:buy, sna:muuyu, zulua:isimuhu  
 **cai** *teo* ← mandarena: 茶 (chá), japana: (cha), korea:차 (cha), vjetnama:trà, turka:çay, svahila:chai, rusa:чай (čay), hindia:चाय (cāy), araba:(šāy), portugala:chá  
@@ -358,7 +358,7 @@
 **fa turbe** ** ← angla:disturb, franca:perturber, hispana:portugala:perturbar  
 **fa ulul** ** ← deu:Heulen, itala:ululato, turka:uluma, filipina:aulong,  
 **fa** *fari* ← franca:faire, portugala:fazer, itala:fare + araba: فَعَلَ‎ (faʿala) + svahila:fanya + kantona:化 (faa3), hakaa:化 (fa), mandarena:化 (huà), vjetnama:hoá  
-**faida** *utileco* ← araba:(fāʾida), turka:fayda, svahila:faida, hindia:फ़ायदा (fāyadā), malaja:faedah  
+**faide** *utileco* ← araba: فَائِدَة‎ (fāʾida), turka:fayda, svahila:faida, haŭsa:fa'ida, persa: فایده‎ (fâyede), hindia:फ़ायदा (fāyadā), malaja:faedah  
 **false** ** ← angla:false, hispana:portugala:falso, franca:faux, deu:falsch  
 **famili** *familio* ← angla:family, hispana:familia, portugala:família, franca:famille, svahila:familia  
 **fan** ** ← angla:franca:hispana:vjetnama:fan, portugala:fã, rusa:фанат (fanat), mandarena:粉丝 (fensi), japana:ファン (fan), korea:팬 (pän)  
@@ -669,6 +669,7 @@
 **kafir** ** ← araba:(kāfir), persa:(kāfer), turka:franca:kâfir, joruba:kaferi, svahila:kafiri, malaja:kafir, rusa:кафир (kafir), hindia:काफ़िर (kāfir)  
 **kaguji** *papero* ← mandarena:榖纸 (gǔzhǐ), kantona:榖紙 (guk1zi2), japana:榖紙 (kokushi), + persa:(kâğaz), hindia:काग़ज़ (kāġaz), bengala:কাগজ (kagôj), turka:kâğıt, araba:(kāḡid), kanara:ಕಾಗದ (kāgada), teluga:కాగితము (kāgitamu), tamila:காகிதம் (kākitam), volofa:keyit, uig:(qeghez)  
 **kai** *malferma* ← mandarena:开 (kāi), vua:開 (khe1), japana:開 (kai), korea:개 (gae), vjetnama:khai, taja:ไข (kǎi), lao:ໄຂ (khai)  
+**kaju** *akaĵuo* ← franca:cajou, hispana:cajú, portugala:caju, angla:cashew, deu:Kaschu, hindia:काजू (kājū), bengala:কাজু (kaju), araba: كَاجُو‎ (kājū), malaja:gajus, turka:kaşu, japana:カシュー (kashū), korea:캐슈 (kaesyu)  
 **kaka** *feko* ← hispana:portugala:franca:caca, deu:Kacke, araba:(kākā), turka:kaka, rusa:кака (kaka), persa:(kake)  
 **kakau** *kakao* ← portugala:cacau, araba:(kākāw), hispana:cacao, angla:cocoa, rusa:какао (kakao), japana:カカオ (kakao), mandarena:可可 (kěkě), vjetnama:cacao, svahila:kakao  
 **kaki** *persimono* ← japana:柿 (kaki), mina:柿 (khī), deu:Kaki, angla:franca:kaki, hispana:portugala:caqui, araba: كَاكَا‎ (kākā), svahila:mjoho kaki  
@@ -1654,7 +1655,7 @@
 **you** ** ← mandarena:幼 (yòu), kantona:幼 (yau3), japana:幼 (yõ), korea:유 (yu) + hindia:युवा (yuvā), tamila:யுவன் (yuvaṉ), teluga:యువ (yuva) + hispana:joven, portugala:jovem, franca:juvénile  
 **yurta** *jurto (gero)* ← turka:angla:yurt, deu:Jurte, franca:yourte, hispana:yurta, portugala:iurte, rusa:юрта (yurta), hindia:युर्त (yurt), korea:유르트 (yureuteu)  
 **yuterbium** *iterbio* ← angla:ytterbium, franca:ytterbium, hispana:iterbio, portugala:itérbio, rusa:иттербий, mandarena:镱 (yì), japana:イッテルビウム, korea:이테르븀, vjetnama:ytecbi, hindia:यिट्टरबियम, bengala:ইটারবিয়াম, malaja:iterbium, svahila:yitebi, araba: يتربيوم  
-**yuterium** *itrio* ← angla:yttrium, franca:yttrium, hispana:itrio, portugala:itrio, rusa:иттрий, mandarena:钇 (yǐ), japana:イットリウム, korea:이트륨, vjetnama:ytri, hindia:इत्रियम, bengala:ইটরিয়াম, malaja:itrium, svahila:yitri, araba: يتريوم  
+**yutrium** *itrio* ← angla:yttrium, franca:yttrium, hispana:itrio, portugala:itrio, rusa:иттрий, mandarena:钇 (yǐ), japana:イットリウム, korea:이트륨, vjetnama:ytri, hindia:इत्रियम, bengala:ইটরিয়াম, malaja:itrium, svahila:yitri, araba: يتريوم  
 **zai** ** ← mandarena:在 (zài), japana:在 (zai), vjetnama:tại  
 **zaitun** *olivo* ← araba:(zaitūn), hispana:aceituna, malaja:zaitun, haŭsa:svahila:zaituni, hindia:urdua:(zaitūn)  
 **zalim** ** ← araba:(ẓālim), turka:zalim, urdua:hindia:(zālim), persa:(zālem), svahila:dhalimu  

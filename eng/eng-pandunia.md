@@ -1,7 +1,7 @@
 # English–pandunia
 -ness, (-ity) - ta  
 -th (ordinal suffix) - me  
-@ symbol - adres zi  
+@ symbol - adres grame  
 
 ## A  
 
@@ -64,7 +64,7 @@ advocate (promoter, supporter, adherent) - sim ja
 adze - benzi  
 aerobic - airobiike  
 affix - afixe  
-Afghanistan - Afghan  
+Afghanistan - Afganestan  
 afraid (scared) - fobi di  
 Africa - Afrika  
 afternoon - xam dia  
@@ -678,6 +678,7 @@ carrot - karote
 carry (bear) - porte  
 cartography - karta grafi  
 cash box - pesa kasa  
+cashew - kaju  
 cashier - pesa kasa ja  
 cassava (manioc) - manioka  
 caste - gene klas  
@@ -1669,6 +1670,7 @@ future time - pos zaman
 
 Gabon - Gabon  
 gadolinium - gadolinium  
+gain (benefit, advantage, asset, profit) - faide  
 gains and losses (pros and cons) - na xiti  
 galaxy - galaxi  
 gallery (exhibition hall) - galeri  
@@ -1740,7 +1742,7 @@ give consultation - kon sel
 glass - glas  
 glaze (vitrify) - fa glas dake  
 glazing (enamel) - glas daka  
-global (concerning the whole world) - pan dunia di  
+global (concerning the whole world) - pandunial  
 global - dunia li  
 globe artichoke - karcof  
 glossy - foto mira di  
@@ -2576,7 +2578,7 @@ Master of Technology - master de tehnolojia (MT)
 match (contest) - mece  
 match (fit, suit, go well together) - kon bon  
 mate (fellow member of a social group) - bei  
-material (ingredient, resource) - faida xe  
+material (ingredient, resource) - faidaje  
 material - mate di  
 materialism - mate lona  
 maternal aunt - ma sis  
@@ -3067,6 +3069,8 @@ pacifism - pase sim
 pacifist - pase sim ja  
 pack (package) - pake  
 pack - fa pake  
+package - pakaje  
+packet - pakete  
 pact (contract, covenant, alliance) - kon trati  
 padlock - pende sor  
 page (side of a leaf of a book) - yepa late  
@@ -3085,27 +3089,27 @@ palaver (debate, fuss) - palaba
 Palestinian Territory - Filistin  
 palladium - paladium  
 palm tree - palma  
-pan-African - pan afrika di  
-pan-American - pan amerika di  
-pan-Asian - pan asia di  
-pan-European - pan europa di  
+pan-African - panafrikan  
+pan-American - panamerikan  
+pan-Asian - panasian  
+pan-European - paneuropan  
 Panama - Panama  
 pancake - krepe  
 pancake house (crêperie) - krepekan  
 pancreas - pankreas  
 panda - panda  
-pandemic - pan demi di  
-pandemic disease - pan demi pati  
-pandemonium - pan demon  
+pandemic - pandemike  
+pandemic disease - pandemike pate  
+pandemonium - pandemonia  
 Pandunia - pandunia  
-Pandunia speaker - pandunia ja  
+Pandunia speaker - panduniste  
 panic - panike  
 panromantic - pan romanse di  
 pansexual - pan sexe di  
 pansy (violet, viola) - violeta  
-pantheism - pan deu sim  
-pantheon - pan deu  
-pantomime - pan mime  
+pantheism - pandeisme  
+pantheon - pandeia  
+pantomime - panmime  
 pants (trousers) - pante  
 papaya - papaya  
 paper (material) - kaguji  
@@ -3512,7 +3516,7 @@ rajah - hindi raja
 raki - anis araki  
 Ramadan - ramazan  
 ramp (incline, slope) - rampe  
-random - zar di  
+random - zarike  
 rank (grade, dan) - dan  
 rare (scarce, sparse, uncommon) - nadir  
 rarity - nadirta  
@@ -4516,12 +4520,12 @@ Uranus - Uran
 urban - nagar di  
 Urdu - urdu  
 Uruguay - Uruguai  
-usable (available) - uzebil di  
+usable (available) - uzebil  
 use (employ, apply) - uze  
-use (utility, benefit, gain, advantage, asset) - faida  
-useful (beneficial, advantageous) - faida di  
-user - uze ja  
-username - uze ja nam  
+useful (beneficial, advantageous) - faidike  
+useful (practical) - uzike  
+user - uzer  
+username - uzer nam  
 utopia - eutopi  
 Uzbekistan - Uzbeki  
 
@@ -4555,7 +4559,7 @@ Venus - Zukra
 veranda (balcony, terrace, porch) - veranda  
 verb - kar lexi  
 verbal irony (sarcasm) - loga ironi  
-verify (authenticate) - fa ver  
+verify (authenticate) - verife  
 vermouth - vermute  
 version (variation, edition) - version  
 vertical - gau dipe  
@@ -4774,7 +4778,7 @@ youth (years in life following childhood) - junnen
 youth (young age) - junta  
 youth (youngster, young person) - jun jen  
 ytterbium - yuterbium  
-yttrium - yuterium  
+yttrium - yutrium  
 yurt (ger) - yurta  
 
 ## Z  

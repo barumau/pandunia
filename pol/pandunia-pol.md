@@ -42,8 +42,8 @@ adil - sprawiedliwy
 adilkan -   
 adilta - sprawiedliwość  
 adres - adres  
-adres zi - małpa (znak na  
-Afghan - Afganistan  
+adres grame - małpa (znak na  
+Afganestan - Afganistan  
 Afrika - Afryka  
 agile - zwinny, sprawny  
 agre - uprawić, uprawiać  
@@ -1292,7 +1292,6 @@ fa vai tense -
 fa vai trata -   
 fa valu -   
 fa vanu - bawić, zabawiać  
-fa ver -   
 fa verse -   
 fa vise - zastąpić (podstawić, zamienić)  
 fa vode - obiecać, angażować się  
@@ -1312,9 +1311,9 @@ fa xux - uciszyć (uciszać)
 fa yagu - oszacować, szacować, przybliżyć, przybliżać  
 fa yen - patrzeć (oglądać)  
 fa zai - wzywać (wezwać, dodawać, dodać)  
-faida - zasób (zastosowanie, użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta)  
-faida di - użyteczny, pomocny, przydatny, pożyteczny, korzystny  
-faida xe - materiał (składnik, zasób)  
+faide - zasób (zastosowanie, użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta)  
+faidaje - materiał (składnik, zasób)  
+faidike - użyteczny, pomocny, przydatny, pożyteczny, korzystny  
 false - fałszywy, nieprawdziwy  
 false vide - iluzja (halucynacja)  
 famili - rodzina  
@@ -2145,6 +2144,7 @@ kaguji - papier
 kaguji limon - lima (limonka)  
 kai - otwarty, niezamknięty  
 Kaiman nesi - Kajmany  
+kaju - nerkowiec  
 kaka - ekskrement, gówno  
 kakau - kakao  
 kaki -   
@@ -3319,26 +3319,30 @@ pada mosim - jesień
 pada mun - klapa  
 pagri - turban  
 pai - placek, ciasto  
-paka -   
 pake - paczka, paka  
+pakaje -   
+pakete -   
+paka -   
 Pakistan - Pakistan  
 palaba -   
 paladium - pallad  
 Palau - Palau  
 palma - palma, drzewo palmowe  
 pan - wszyscy, wszystkie, wszystko; każdy  
-pan afrika di - panafrykański  
-pan amerika di - panamerykański  
-pan asia di - panazjatycki  
-pan demi di - pandemiczny  
-pan demi pati - pandemia  
-pan demon - pandemonium  
-pan deu - panteon  
-pan deu sim - panteizm  
-pan dunia di - globalny (światowy)  
-pan europa di - paneuropejski  
+panafrikan - panafrykański  
+panamerikan - panamerykański  
+panasian - panazjatycki  
+pandeia - panteon  
+pandeisme - panteizm  
+pandemike - pandemiczny  
+pandemike pate - pandemia  
+pandemonia - pandemonium  
+pandunia - Pandunia  
+panduniste - osoba mówiąca w Panduni  
+pandunial - globalny (światowy)  
+paneuropan - paneuropejski  
 pan jen - każdy człowiek, wszyscy  
-pan mime -   
+panmime -   
 pan romanse di - panromantyczny  
 pan sata - zawsze  
 pan sexe di - panseksualny  
@@ -3346,8 +3350,6 @@ pan un - każdy, wszyscy
 pan xe - wszystko  
 Panama - Panama  
 panda - panda  
-pandunia - Pandunia  
-pandunia ja - osoba mówiąca w Panduni  
 pang - chleb  
 panike - panika  
 panir - twaróg  
@@ -4414,11 +4416,12 @@ urdu - urdu
 Urdun - Jordan  
 Uruguai - Urugwaj  
 Uruxalem - Jerozolima  
-Uzbeki - Uzbekistan  
 uze - użyć, używać, zatrudnić, stosować  
-uzebil di -   
-uze ja - użytkownik  
-uze ja nam - nazwa użytkownika  
+uzebil -   
+uzer - użytkownik  
+uzer nam - nazwa użytkownika  
+uzike -   
+Uzbeki - Uzbekistan  
 
 ## V  
 
@@ -4493,6 +4496,7 @@ venjou oranje - mandarynka Satsuma (pomarańcza Satsuma)
 ventur - przygoda  
 ventur ja - poszukiwacz przygód (awanturnik)  
 ver - prawdziwy (rzeczywisty, szczery)  
+verife -   
 veranda - weranda, balkon, taras, ganek  
 verme - robak  
 vermute - wermut  
@@ -4742,8 +4746,8 @@ you nen -
 you ni - dziewczyna  
 youta -   
 yurta - jurta  
-yuterium - itr  
 yuterbium - iterb  
+yutrium - itr  
 
 ## Z  
 
@@ -4763,7 +4767,7 @@ zaman - czas
 • prezaman xe - relikwia  
 Zambia - Zambia  
 zar - niebezpieczeństwo, ryzyko, szansa  
-zar di - losowy  
+zarike - losowy  
 zar kube - kość do gry  
 Zarduxte - Zaratusztra  
 zarduxtan mager -   

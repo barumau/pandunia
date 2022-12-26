@@ -264,7 +264,6 @@
  - fa vai tense  
  - fa vai trata  
  - fa valu  
- - fa ver  
  - fa verse  
  - fa xou  
  - fan  
@@ -644,8 +643,10 @@
  - pa pa  
  - pa sis  
  - paka  
+ - pakaje  
+ - pakete  
  - palaba  
- - pan mime  
+ - panmime  
  - par fase  
  - para  
  - pari dexa  
@@ -840,7 +841,8 @@
  - un zai di  
  - undurali hor loga gi  
  - unta  
- - uzebil di  
+ - uzebil  
+ - uzike  
  - vaf bude  
  - vaf parke  
  - vafle  
@@ -863,6 +865,7 @@
  - vei di  
  - vei lin  
  - vel  
+ - verife  
  - versi  
  - viki  
  - viki pedia  
@@ -1099,7 +1102,7 @@ aborygeński - aslaustralian
 admirał - bahai amir ja  
 adres - adres  
 adwokat - kanun vala  
-Afganistan - Afghan  
+Afganistan - Afganestan  
 afiks - afixe  
 Afryka - Afrika  
 agorafobia - medan fobi  
@@ -1826,7 +1829,7 @@ gleba bielicoziemna - hui darte
 glin (aluminium) - alumin  
 glina - glu poto  
 globalny - dunia li  
-globalny (światowy) - pan dunia di  
+globalny (światowy) - pandunial  
 glutaminian sodu - vijin  
 gluten - gluten  
 gniazdo (ul, nora, jama, barłóg, legowisko) - nide  
@@ -2041,7 +2044,7 @@ Islandia - Islande
 istnieć - zai  
 Italia, Włochy - Italia  
 iterb - yuterbium  
-itr - yuterium  
+itr - yutrium  
 Izrael - Israel  
 iść - ga  
 iść w dół (iść pod spód, iść na dno) - be nice  
@@ -2479,7 +2482,7 @@ lojalny (wierny) - amenbil
 lojalny (wierny) - bekredibil  
 Londyn - London  
 lorens - laurencium  
-losowy - zar di  
+losowy - zarike  
 lot - fei  
 lotnisko (port lotniczy) - air porto  
 lub, albo - o  
@@ -2567,12 +2570,12 @@ matematyka - hisabu lojia
 materac - matras  
 materia, substancja - mate  
 materialny - mate di  
-materiał (składnik, zasób) - faida xe  
+materiał (składnik, zasób) - faidaje  
 matka (mama) - ma  
 Mauretania - Muritania  
 Mauritius - Moris  
 Maya - maya  
-małpa (znak na - adres zi  
+małpa (znak na - adres grame  
 mały - xiu  
 małżeństwo, związek małżeński - gam  
 małżonek - nan per (man)  
@@ -2798,7 +2801,7 @@ nawozić (nawieźć) - fa darte bon
 nawyk (przyzwyczajenie) - ada  
 nawóz - darti bon ja  
 nazista - nasial sosialiste  
-nazwa użytkownika - uze ja nam  
+nazwa użytkownika - uzer nam  
 nazwać, nazywać, wezwać, wzywać - fa nam  
 nazwisko, imię rodziny - famili nam  
 negatywny (przeciwny, nie) - an-  
@@ -2812,6 +2815,7 @@ Neptun - Neputun
 neptun - neputunium  
 nerka - nefre  
 nerka (łosoś czerwony) - rubi salmon  
+nerkowiec - kaju  
 nerw - nerve  
 nerwowy (neuronowy) - nerve di  
 neuron - nerve selu  
@@ -3003,7 +3007,7 @@ osmoza - osmos
 osoba - jen  
 osoba biznesu, biznesman - biznes ja  
 osoba dorosła - matur jen  
-osoba mówiąca w Panduni - pandunia ja  
+osoba mówiąca w Panduni - panduniste  
 osobisty numer identyfikacyjny (pin) - sekur nume  
 osobisty, intymny, prywatny - jen di  
 ostatni, końcowy - finme  
@@ -3048,21 +3052,21 @@ pallad - paladium
 palma, drzewo palmowe - palma  
 pamiętać - fa memo  
 pamięć - memo  
-panafrykański - pan afrika di  
+panafrykański - panafrikan  
 Panama - Panama  
-panamerykański - pan amerika di  
-panazjatycki - pan asia di  
+panamerykański - panamerikan  
+panazjatycki - panasian  
 panda - panda  
-pandemia - pan demi pati  
-pandemiczny - pan demi di  
-pandemonium - pan demon  
+pandemia - pandemike pate  
+pandemiczny - pandemike  
+pandemonium - pandemonia  
 Pandunia - pandunia  
-paneuropejski - pan europa di  
+paneuropejski - paneuropan  
 panika - panike  
 panromantyczny - pan romanse di  
 panseksualny - pan sexe di  
-panteizm - pan deu sim  
-panteon - pan deu  
+panteizm - pandeisme  
+panteon - pandeia  
 papaja - papaya  
 papeda - karse limon  
 papier - kaguji  
@@ -4234,8 +4238,8 @@ uznać (przynać, przyjąć do wiadomości) - fa reside
 ułożyć w trabelę - table yo data  
 uświadomienie, świadomość; oświecenie, bodhi - budi  
 uświadomić sobie, zdać sobie sprawę, pojąć, pojmować - fa budi  
-użyteczny, pomocny, przydatny, pożyteczny, korzystny - faida di  
-użytkownik - uze ja  
+użyteczny, pomocny, przydatny, pożyteczny, korzystny - faidike  
+użytkownik - uzer  
 użyć, używać, zatrudnić, stosować - uze  
 V - V  
 Vanuatu - Vanuatu  
@@ -4562,7 +4566,7 @@ zastosować, stosować - fa aplika
 zastrzyk - juxa  
 zastrzyk (wstrzyknąć, wstrzykiwać) - injete  
 zastąpić (podstawić, zamienić) - fa vise  
-zasób (zastosowanie, użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta) - faida  
+zasób (zastosowanie, użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta) - faide  
 zasłona, kurtyna - parde  
 zatkać, ztykać - fa tapa  
 zatoka - baya  

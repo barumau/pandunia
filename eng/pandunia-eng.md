@@ -78,8 +78,8 @@ adil - just (fair, righteous)
 adilkan - court of justice  
 adilta - justice  
 adres - address  
-adres zi - @ symbol  
-Afghan - Afghanistan  
+adres grame - @ symbol  
+Afganestan - Afghanistan  
 Afrika - Africa  
 agile - agile  
 agre - cultivate (farm)  
@@ -1327,7 +1327,6 @@ fa vai tense - extend (stretch out)
 fa vai trata - extract (draw out)  
 fa valu - value (evaluate)  
 fa vanu - amuse (entertain)  
-fa ver - verify (authenticate)  
 fa verse - turn around (flip)  
 fa vise - substitute (replace)  
 fa vode - promise (pledge)  
@@ -1347,9 +1346,9 @@ fa xux - silence (make silent)
 fa yagu - estimate (approximate)  
 fa yen - eye (look, watch, observe, spectate)  
 fa zai - summon (add, spawn, actualize)  
-faida - use (utility, benefit, gain, advantage, asset)  
-faida di - useful (beneficial, advantageous)  
-faida xe - material (ingredient, resource)  
+faide - gain (benefit, advantage, asset, profit)  
+faidaje - material (ingredient, resource)  
+faidike - useful (beneficial, advantageous)  
 false - false (fake)  
 false vide - illusion (hallucination)  
 famili - family  
@@ -2180,6 +2179,7 @@ kaguji - paper (material)
 kaguji limon - key lime  
 kai - open (not closed)  
 Kaiman nesi - Cayman Islands  
+kaju - cashew  
 kaka - excrement (shit)  
 kakau - cocoa  
 kaki - persimmon (kaki)  
@@ -3354,26 +3354,30 @@ pada mosim - autumn (fall)
 pada mun - trapdoor  
 pagri - turban  
 pai - pie (pastry)  
-paka - coercion (force, compulsion)  
 pake - pack (package)  
+pakaje - package  
+pakete - packet  
+paka - coercion (force, compulsion)  
 Pakistan - Pakistan  
 palaba - palaver (debate, fuss)  
 paladium - palladium  
 Palau - Palau  
 palma - palm tree  
 pan - every (all)  
-pan afrika di - pan-African  
-pan amerika di - pan-American  
-pan asia di - pan-Asian  
-pan demi di - pandemic  
-pan demi pati - pandemic disease  
-pan demon - pandemonium  
-pan deu - pantheon  
-pan deu sim - pantheism  
-pan dunia di - global (concerning the whole world)  
-pan europa di - pan-European  
+panafrikan - pan-African  
+panamerikan - pan-American  
+panasian - pan-Asian  
+pandeia - pantheon  
+pandeisme - pantheism  
+pandemike - pandemic  
+pandemike pate - pandemic disease  
+pandemonia - pandemonium  
+pandunia - Pandunia  
+panduniste - Pandunia speaker  
+pandunial - global (concerning the whole world)  
+paneuropan - pan-European  
 pan jen - everybody (everyone)  
-pan mime - pantomime  
+panmime - pantomime  
 pan romanse di - panromantic  
 pan sata - always  
 pan sexe di - pansexual  
@@ -3381,8 +3385,6 @@ pan un - every (each)
 pan xe - everything  
 Panama - Panama  
 panda - panda  
-pandunia - Pandunia  
-pandunia ja - Pandunia speaker  
 pang - bread  
 panike - panic  
 panir - quark (paneer)  
@@ -4450,11 +4452,12 @@ urdu - Urdu
 Urdun - Jordan  
 Uruguai - Uruguay  
 Uruxalem - Jerusalem  
-Uzbeki - Uzbekistan  
 uze - use (employ, apply)  
-uzebil di - usable (available)  
-uze ja - user  
-uze ja nam - username  
+uzebil - usable (available)  
+uzer - user  
+uzer nam - username  
+uzike - useful (practical)  
+Uzbeki - Uzbekistan  
 
 ## V  
 
@@ -4529,6 +4532,7 @@ venjou oranje - satsuma mandarin
 ventur - adventure (venture)  
 ventur ja - adventurer  
 ver - true (real, genuine, indeed, very)  
+verife - verify (authenticate)  
 veranda - veranda (balcony, terrace, porch)  
 verme - worm  
 vermute - vermouth  
@@ -4778,8 +4782,8 @@ you nen - childhood (years of being very young)
 you ni - girl  
 youta - childhood (immaturity)  
 yurta - yurt (ger)  
-yuterium - yttrium  
 yuterbium - ytterbium  
+yutrium - yttrium  
 
 ## Z  
 
@@ -4799,7 +4803,7 @@ zaman - time
 • prezaman xe - relic  
 Zambia - Zambia  
 zar - hazard (chance)  
-zar di - random  
+zarike - random  
 zar kube - die (dice)  
 Zarduxte - Zoroaster  
 zarduxtan mager - magus (Zoroastrian priest)  

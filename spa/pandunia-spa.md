@@ -36,8 +36,8 @@ adamas - diamante
 adil - justo  
 adilta - justicia  
 adres - dirección  
-adres zi - arroba (@)  
-Afghan - Afganistán  
+adres grame - arroba (@)  
+Afganestan - Afganistán  
 Afrika - África  
 agile - ágil  
 agre - cultivar  
@@ -1129,7 +1129,6 @@ fa vai klus - excluir
 fa vai trata - extraer  
 fa valu - valorar  
 fa vanu - divertir (entretener)  
-fa ver - autenticar  
 fa verse - versar  
 fa vise - sustituir (reemplezar)  
 fa vode - prometer (comprometerse)  
@@ -1147,8 +1146,8 @@ fa xuli - reparar (arreglar)
 fa xuru - comenzar (iniciar, empezar)  
 fa yagu - estimar (apriximarse a)  
 fa zai - generar (añadir, realizar)  
-faida - uso (utilidad, beneficio)  
-faida di - útil (beneficioso)  
+faide - beneficio  
+faidike - útil (beneficioso)  
 false - falso  
 false vide - ilusión  
 famili - familia  
@@ -1862,6 +1861,7 @@ kaguji - papel
 kaguji limon - limero  
 kai - abierto  
 Kaiman nesi - islas Caimán  
+kaju - cajú (marañón)  
 kaka - caca  
 kakau - cacao  
 kaki - caqui  
@@ -2895,16 +2895,18 @@ paladium - paladio
 Palau - Palaos  
 palma - palmera  
 pan - todo  
-pan afrika di - panafricano  
-pan amerika di - panamericano  
-pan asia di - panasiano  
-pan demi di - pandémico  
-pan demi pati - pandemia  
-pan demon - pandemonio  
-pan deu - panteón  
-pan deu sim - panteísmo  
-pan dunia di - global (de todo el mundo)  
-pan europa di - paneuropeo  
+panafrikan - panafricano  
+panamerikan - panamericano  
+panasian - panasiano  
+pandeia - panteón  
+pandeisme - panteísmo  
+pandemike - pandémico  
+pandemike pate - pandemia  
+pandemonia - pandemonio  
+pandunia - Pandunia  
+panduniste - hablante de Pandunia  
+pandunial - global (de todo el mundo)  
+paneuropan - paneuropeo  
 pan jen - todas las personas  
 pan romanse di - panrromántico  
 pan sata - siempre  
@@ -2913,8 +2915,6 @@ pan un - cada
 pan xe - todas las cosas  
 Panama - Panamá  
 panda - panda  
-pandunia - Pandunia  
-pandunia ja - hablante de Pandunia  
 pang - pan  
 panike - pánico  
 panir - queso fresco  
@@ -3832,11 +3832,12 @@ uranium - uranio
 urdu - urdu  
 Urdun - Jordania  
 Uruguai - Uruguay  
-Uzbeki - Uzbekistán  
 uze - usar (aplicar)  
-uzebil di - utilizable (disponible)  
-uze ja - usuario  
-uze ja nam - nombre de usuario  
+uzebil - utilizable (disponible)  
+uzer - usuario  
+uzer nam - nombre de usuario  
+uzike - útil  
+Uzbeki - Uzbekistán  
 
 ## V  
 
@@ -3895,6 +3896,7 @@ venjou oranje - unshu mikan
 ventur - aventura  
 ventur ja - aventurero  
 ver - verdadero  
+verife - autenticar  
 veranda - balcón (terraza, veranda)  
 verme - verme  
 vermute - vermú  
@@ -4100,8 +4102,8 @@ you moke - pimpollo
 you nan - niño  
 you ni - niña  
 yurta - yurta  
-yuterium - itrio  
 yuterbium - iterbio  
+yutrium - itrio  
 
 ## Z  
 
@@ -4121,7 +4123,7 @@ zaman - tiempo
 • prezaman xe - reliquia  
 Zambia - Zambia  
 zar - riesgo (posibilidad)  
-zar di - azar (aleatorio)  
+zarike - azar (aleatorio)  
 zar kube - dado  
 Zarduxte - Zoroastro  
 zarduxtan mager - mago  

@@ -19,7 +19,7 @@ adamas - алмаз (бриллиант)
 adil - справедливый  
 adilta - справедливость  
 adres - адрес  
-Afghan - Афганистан  
+Afganestan - Афганистан  
 agile - подвижный  
 agre - выращивать  
 agral - аграрный  
@@ -541,7 +541,7 @@ fa xopi - покупать (купить)
 fa xou - доказать (демонстрировать)  
 fa xula - учиться  
 fa xuli - чинить (ремонтировать)  
-faida - применение (утилитарность)  
+faide - применение  
 fan - фан (фанат)  
 fase - грань  
 fase area - площадь  
@@ -875,6 +875,7 @@ kafe rang - коричневый
 kafe salmon - кумжа  
 kaguji - бумага  
 kaguji limon - лайм  
+kaju - кешью  
 kaki - хурма  
 kala - чёрный  
 kalam - ручка  
@@ -1397,9 +1398,9 @@ pagri - чалма
 pai - пирог  
 pake - пакет  
 paladium - палладий  
-pan demi pati - пандемия  
-pan europa di - панъевропейский  
-pan mime - пантомима  
+pandemike pate - пандемия  
+paneuropan - панъевропейский  
+panmime - пантомима  
 panda - панда  
 pang - хлеб  
 panir - творог  
@@ -1845,6 +1846,7 @@ un yen di lense - монокль
 un zai di - одинокий (единичный)  
 Uran - Уран  
 uranium - уран  
+uzike - полезный (практичный)  
 
 ## V  
 
@@ -1998,8 +2000,8 @@ yogur - йогурт
 Yohan festa - Иванов день  
 you moke - саженец  
 yurta - юрта  
-yuterium - иттрий  
 yuterbium - иттербий  
+yutrium - иттрий  
 
 ## Z  
 

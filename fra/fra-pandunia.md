@@ -37,7 +37,7 @@ adjectif - sifa loga
 administrateur - politike  
 adresse - adres  
 adulte - matur jen  
-Afghanistan - Afghan  
+Afghanistan - Afganestan  
 Afrique - Afrika  
 agent (faiseur) - ater  
 agent pathogène - patogener  
@@ -155,7 +155,7 @@ armure - defa kaska
 armée - ordu  
 armée - vuki ordu  
 armée de l'air - air ordu  
-arobase (@) - adres zi  
+arobase (@) - adres grame  
 arrêt de bus - bus halte  
 arsenic - arsenium  
 art - suta  
@@ -350,6 +350,7 @@ café - kafe
 café - kafekan  
 cage - kane kasa  
 caillou - xiu seku  
+cajou - kaju  
 calame - gana kalam  
 calcaire - kalsi petra  
 calcite - kalsite  
@@ -761,6 +762,7 @@ fanal (balise) - foto minar
 fanatique - fanatija  
 fatigue - fatige  
 faute (erreur) - galte  
+faux - false  
 favori (préféré) - max fili di  
 favoritisme - max fili sim  
 fente (fissure, fêlure) - krake  
@@ -1425,13 +1427,13 @@ palladium - paladium
 pamplemousse - putau oranje  
 pancréas - pankreas  
 panda - panda  
-pandémie - pan demi pati  
-paneuropéen - pan europa di  
+pandémie - pandemike pate  
+paneuropéen - paneuropan  
 panier (panier de basketball) - baske  
 panneau de signalisation - dau bano  
 pansement (sparadrap) - glu bande  
 pantalon - pante  
-pantomime - pan mime  
+pantomime - panmime  
 pantoufle (babouche) - babuce  
 paon - mayur  
 papaye - papaya  
@@ -2020,6 +2022,7 @@ union - un ta liga
 universel - un verse di  
 uranium - uranium  
 Uranus - Uran  
+utile - uzike  
 
 ## V  
 
@@ -2112,7 +2115,7 @@ Yi King - yeka kanon
 yoga - yoga  
 yourte - yurta  
 ytterbium - yuterbium  
-yttrium - yuterium  
+yttrium - yutrium  
 
 ## Z  
 

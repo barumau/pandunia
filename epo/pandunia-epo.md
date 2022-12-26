@@ -29,7 +29,7 @@ adamas - diamanto
 adil - justa  
 adilta - justeco  
 adres - adreso  
-Afghan - Afganujo, Afganio  
+Afganestan - Afganujo, Afganio  
 Afrika - Afriko  
 agile - lerta  
 agral - agrikultura  
@@ -626,8 +626,8 @@ fa xuli - ripari
 fa xuru - komenci  
 fa xux - silentigi  
 fa yen - okulumi  
-faida - utileco  
-faida di - utila  
+faide - utileco  
+faidike - utila  
 famili - familio  
 famili nam - familinomo  
 fantazi - fantazio  
@@ -1015,6 +1015,7 @@ kafe pote - kafeujo
 kafe rang - bruna  
 kaguji - papero  
 kai - malferma  
+kaju - akaĵuo  
 kaka - feko  
 kakau - kakao  
 kaki - persimono  
@@ -1535,13 +1536,13 @@ pake - pako
 paladium - paladio  
 palma - palmo  
 pan - ĉiu  
-pan demi pati - pandemio  
-pan dunia di - tuttera  
+pandemike pate - pandemio  
+pandunia - pandunia  
+pandunial - tuttera  
 pan sata - ĉiam  
 pan un - ĉiuj  
 Panama - Panamo  
 panda - pando  
-pandunia - pandunia  
 pang - pano  
 panike - paniko  
 panka - flugilo  
@@ -1982,6 +1983,9 @@ un xe sim - monismo
 un yen di lense - monoklo  
 uranium - uranio  
 uze - uzi  
+uzebil - uzebla  
+uzer - uzanto  
+uzike - utila  
 
 ## V  
 
@@ -2133,8 +2137,8 @@ yogur - jogurto
 you nan - knabo  
 you ni - knabino  
 yurta - jurto (gero)  
-yuterium - itrio  
 yuterbium - iterbio  
+yutrium - itrio  
 
 ## Z  
 
@@ -2149,7 +2153,7 @@ zaman - tempo
 • prezaman di - malnova  
 Zambia - Zambio  
 zar - hazardo  
-zar di - hazarda  
+zarike - hazarda  
 zar kube - ĵetkubo  
 Zarduxte - Zoroastro  
 zarduxtisme - zoroastrismo  
