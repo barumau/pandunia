@@ -53,6 +53,9 @@ alian - alien
 altre - altérer  
 altrisme - altruisme  
 Alaska - Alaska  
+• analgive - analgésique (antidouleur)  
+• algesia - analgésie  
+algometria - algométrie  
 alga - algue  
 alga fungu - lichen  
 alga jangal - forêt de kelp  
@@ -78,6 +81,8 @@ alumin mate - alun
 alumin oxide - alumine (oxyde d'aluminium)  
 ama - mais  
 Amara - Amhara (groupe ethnique et langue éthiopienne)  
+Amazon - Amazone  
+Amazonia - Amazonie  
 amen - faire confiance (espérer, croire qqn./qqch., avoir la foi)  
 amen di - sûr (crédible, sûrement)  
 Amerike - Amérique  
@@ -200,6 +205,7 @@ babu - chapitre
 babuce - pantoufle (babouche)  
 babul - vachellia  
 baca - enfant  
+baceler - licence  
 badam - amande  
 badan - corps  
 badavi - bédouin  
@@ -388,6 +394,7 @@ cai camaca - cuillère à café (petite cuillère)
 cai kupa - tasse à thé  
 cai pote - théière  
 camaca - cuiller  
+canaike - momentané  
 canse - chance  
 carme - charme  
 cati - toit  
@@ -484,6 +491,10 @@ dipe - bas
 dipe moka - buisson  
 diske - disque  
 disprosium - dysprosium  
+dite - dicter  
+• ditater - dictateur  
+• ditateria - dictature  
+• dition - diction  
 dobe - brique  
 doh - fille  
 dokumen - document (dossier)  
@@ -502,7 +513,7 @@ dosil gene di - domestiqué (apprivoisé)
 dosti - amie  
 drame - pièce de théâtre (drame)  
 du - deux (2)  
-du baxa di - bilingue  
+dubaxike - bilingue  
 duple - double  
 • dusdua - malédiction  
 dubnium - dubnium  
@@ -511,8 +522,9 @@ dugu - lire
 panduke - fundic  
 duke - recevoir  
 dukan - boutique (magasin)  
-duna - dune  
+dum - fumée  
 dunia - monde  
+duna - dune  
 dura - durée  
 • redura - reprendre  
 dura di - chronique  
@@ -527,7 +539,7 @@ dux - douche
 e - et  
 einsteinium - einsteinium  
 Eire - Irland  
-eko nati di - sauvage  
+ekonative - sauvage  
 elastike - élastique  
 eletre - électricité  
 elfe - elfe  
@@ -661,6 +673,7 @@ fenol - phénol
 • infere - inférer  
 • prefere - préférer  
 • refere - référer  
+terife - terrifier  
 fermium - fermium  
 fero - fer  
 festal - festif  
@@ -810,6 +823,8 @@ grese - marcher
 • agreser - agresseur  
 • agresevi - agressif  
 grimas - grimace  
+gros - rêche (rugueux, gros)  
+gros limon - combava  
 grupe - groupe  
 guai - bizarre  
 gubu - hippopotame   
@@ -894,9 +909,9 @@ holografe - hologramme
 holografia - holographie  
 holisme - holisme  
 holiste - holistique  
+holonam - holonyme  
 holmium - holmium  
-hor - heure  
-hor loga gi - horloge  
+horure - horreur  
 hotel - hôtel  
 hua - fleur  
 hua pote - pot de fleur  
@@ -952,7 +967,8 @@ jau - orge
 javabu - réponse  
 Jayer - Algérie  
 jebe - poche  
-jebu caku - canif  
+jebe caku - canif  
+jebre - algèbre  
 jeka - prêter (empruntre)  
 jeka don - prêter  
 jeka na - empruntre  
@@ -962,10 +978,10 @@ jen (jen men) - on
 jen jami - foule  
 jenju table - abaque (boulier compteur)  
 • projete - projet  
-jete grafi - projeter (image projection)  
+jete grafe - projeter (image projection)  
 jihade - lutte  
 jini - esprit (génie)  
-jinji - gingembre  
+jinje - gingembre  
 jinse - sexe  
 jinselogi - études de genre  
 jirafa - giraffe  
@@ -977,7 +993,9 @@ jong xulakan - école secondaire
 Jongoku - Chine  
 jovar - sorgho  
 juba - robe  
-jude ja - juje  
+• prejude - préjuger  
+juder - juje  
+judau - judo  
 jul - joule (J)  
 jumla lojia - syntaxe  
 jun - jeune (junior)  
@@ -1004,6 +1022,7 @@ kaguji - papier
 kaguji limon - lime (citron vert)  
 kaju - cajou  
 kaki - kaki  
+kalium - potassium  
 kala - noir  
 kalam - plume  
 kalam sui - encre  
@@ -1011,7 +1030,6 @@ kalenda - calendrier
 kali - base (alcali; basique)  
 kali di - basique  
 kali guste - amer  
-kalium - potassium  
 kali oranje - orange amère  
 kalifornium - californium  
 kalmar - calmar (encornet, calamar)  
@@ -1066,11 +1084,9 @@ Karibe - Caraïbes
 karim - générosité (charité)  
 karim di - généreux  
 karote - carotte  
-karse - rêche (rugueux, gros)  
-karse limon - combava  
+karte - carte (plan)  
+kartografia - cartographie  
 karta - carte  
-karta grafi - cartographie  
-karte - carte  
 karuba - caroube  
 kaska - carapace (coquille, coquillage, croûte)  
 Kastilia - Castille  
@@ -1122,6 +1138,7 @@ kobalte - cobalt
 koda - queue  
 kolum - pilier (colonne, poteau)  
 komike - comique  
+komodia - comédie  
 koma - virgule  
 kon - avec (commun)  
 kon helen baxa - koinè  
@@ -1148,6 +1165,10 @@ kosmo nave ja - cosmonaute
 kotumbar - coriandre  
 krabe - crabe  
 krake - fente (fissure, fêlure)  
+kree - créer  
+kreater - créateur  
+kreatia - création  
+kreative - créatif  
 kredi - fier  
 • ankredija - infidèle (incroyant)  
 kredija - croyant  
@@ -1156,6 +1177,7 @@ krem - crème
 krepe - crêpe  
 krepekan - crêperie  
 krikete - cricket  
+kriste - Christ  
 kriton - krypton  
 krokodil - crocodilien  
 krokro - grenouille  
@@ -1174,8 +1196,8 @@ kulture - culture
 kume - accumuler  
 kupa - coupe (tasse, verre)  
 kupre - cuivre  
-kurban - sacrifice  
 kurium - curium  
+kurban - sacrifice  
 • prekurser - précurseur  
 kurta - tunique  
 kurva - courbe  
@@ -1350,12 +1372,13 @@ memo - mémoire
 • anmemo - oublier  
 mendelevium - mendélévium  
 meninge - méninge  
+meronam - méronyme  
 meranti - balau (meranti)  
 Merkur - Mercure  
 merkurden - mercredi  
 mes - mois  
 mes bati - août  
-mesi - Christ (messie)  
+mesi - messie  
 metan - méthane  
 metanol - méthanol (alcool de bois)  
 metil - méthyle  
@@ -1460,11 +1483,12 @@ natri - sodium
 nau - cerveau (cervelle)  
 nau di - cérébral  
 nautile - nautile  
-nave trepe - passerelle  
 nave - bateau  
+nave trepe - passerelle  
 nave dex - tribord  
 nave leu - babord  
 nefre - rein  
+nefritis - néphrite  
 nefte - huile (pétrole)  
 nekro - cadavre (corps)  
 nekro fili - nécrophilie  
@@ -1476,15 +1500,20 @@ neodimium - néodyme
 neon - néon  
 Neputun - Neptune  
 neputunium - neptunium  
-nerve selu - neurone  
-nerve toxi - neurotoxine  
-nesi - île  
+nese - île  
+• konnete - connecter  
+• konneter - connecteur  
+• konnetion - connexion  
 nete gete - télécharger  
 neu di - nouveau  
 neu jen - néophyte  
 neu loga - néologisme  
 neu nati di - nouveau-né  
 neuta - nouveauté  
+neure - nerf  
+neuralgia - névralgie  
+neuron - neurone  
+neurotoxe - neurotoxine  
 nia - intention  
 nice - dessous  
 nide - nid  
@@ -1512,10 +1541,11 @@ nuka - cou (encolure, nuque)
 numerike - numérique  
 nume - nombre (numéro)  
 nume zi - ciffre  
+o - ou  
 
 ## O  
 
-o - ou  
+ode - ode  
 oganeson - oganesson  
 ohtopus - Poulpe (pieuvre)  
 onda - onde  
@@ -1536,6 +1566,9 @@ osidian - obsidienne
 osmium - osmium  
 oste jama - squelette  
 oste xalke - scutelle  
+ote - opter  
+otimal - optimal  
+otion - option (choix)  
 oxe - oxygène  
 oxide - oxyde  
 
@@ -1543,6 +1576,12 @@ oxide - oxyde
 
 pa - pere (papa)  
 pa di - paternel  
+patria - patrie  
+• konpatrian - compatriote  
+pace - paix  
+pace bahai bakalau - morue du Pacifique  
+pacisme - pacifisme  
+paciste - pacifiste  
 paci - oiseau  
 paci lojia - ornithologie  
 pada di - chu  
@@ -1568,22 +1607,19 @@ par - pair (pareil, egal)
 par fase - niveau  
 parta - parité  
 par vezeta - équilibre  
-parce - fragment  
+paranam - paronyme  
 pari - fée  
 pari dexa - pays des fées (paradis)  
 pari kata - conte de fées  
 Paris - Paris  
 parke - parc  
 parne - fougères  
-parti - partie  
-parti jen - partenaire  
+parte - fragment  
+partaner - partenaire  
+partia - partie (faction)  
 pas - passer  
 pas dau - passe (passage)  
 pas loga - mot de passe  
-pase - paix  
-pase bahai bakalau - morue du Pacifique  
-pase sim - pacifisme  
-pase sim ja - pacifiste  
 pasporte - passeport  
 pasta - pâte  
 pasta petra - magma  
@@ -1687,6 +1723,9 @@ profesor - professeur
 Promete - Prométhée  
 prometium - prométhium  
 protacinium - protactinium  
+proxe - proche  
+• aproxe - approcher  
+proxia - proximité  
 puding - pudding  
 pujakan - temple  
 puja meza - autel  
@@ -1750,9 +1789,9 @@ rose - rosée
 rote - roue  
 rota leu - dans le sens antihoraire  
 rota vanu gi - toupie  
+rubium - rubidium  
 rubi - rouge  
 rubi bau seku - rubis  
-rubium - rubidium  
 rubi oranje - mandarine  
 rubi salmon - saumon sockeye  
 ruhu - psyché  
@@ -1771,6 +1810,8 @@ saf - net (propre)
 • ansaf - sale  
 safar ceke - chèque de voyage  
 sagu - sagoutier  
+sah - heure  
+sah diker - horloge  
 sahi - correct (juste)  
 sake - sac  
 sal - salut  
@@ -1797,7 +1838,7 @@ sanga - ordre
 sante kanon - saintes écritures   
 sanzi - éventail  
 sapatu - chaussure  
-sata di - momentané  
+sari - sari  
 sau - frère et sœur (adelphe, germain)  
 sau doh - nièce  
 sau son - neveu  
@@ -1906,8 +1947,8 @@ suta - art
 table komputa - ordinateur tablette  
 tai - estrade  
 tail - carreau (tuile)  
-tala - serrure  
 talium - thallium  
+tala - serrure  
 tana - tige  
 tantalium - tantale  
 tapon - tampon  
@@ -1938,9 +1979,9 @@ tene - tenir
 tenesium - tennessine  
 tense - tendu  
 tepe - ruban (bande)  
+terurisme - terrorisme  
 terbium - terbium  
 terca - oblique (de travers)  
-teror sim - terrorisme  
 teste - épreuve  
 teze - argument  
 tikete - billet  
@@ -1959,20 +2000,22 @@ to jin - en avant
 to long - loin  
 to misal - par exemple  
 tocu - toucher  
+tole - tolérer (supporter, suffrir)  
+tolerate - tolérer (supporter, suffrir)  
+• biotomia - vivisection  
+• dutomia - dichotomie  
+• tritomia - trichotomie  
+• tomografia - tomographie  
 tomate - tomate  
-• dutomi - dichotomie  
-• jivatomi - vivisection  
-• tritomi - trichotomie  
-• tomi grafi - tomographie  
 ton - ton  
-topo grafi - topographie  
-topo metri grafi - carte (plan)  
-torium - thorium  
+topografia - topographie  
 tore - tour  
+torium - thorium  
 tortuga - tortue  
 toxolojia - toxicologie  
 tragike - tragique  
 tragokomike - tragicomique  
+tragodia - tragédie  
 trate - traîner  
 • distrate - distraire  
 • extrate - extraire  
@@ -2070,7 +2113,7 @@ veze di - lourd
 veze metri gi - balance (poids)  
 vide - voir  
 vide ja - espectador  
-vidou - veuve  
+vidua - veuve  
 vilde - sauvage  
 violeta nil - violet (pourpre)  
 virus - virus  
@@ -2080,7 +2123,7 @@ vitamin - vitamine
 Vixnu - Vishnou  
 vo - ce...lá  
 vode - vœu (promesse)  
-voka soni - voyelle  
+vokal fone - voyelle  
 vol - vouloir  
 volfe - loup  
 volfram - tungstène  
@@ -2093,10 +2136,11 @@ vutu - objet (article)
 ## X  
 
 xah mata - échec et mat  
+xake - doute  
+• prexake - idée préconçue  
 xakal - chacal  
-xaki - doute  
 xam - soir (soirée)  
-xampan - Champagne  
+Xampan - Champagne  
 xampan vin - champagne  
 xan pike - cime (pic, sommet)  
 Xani - Saturne  
@@ -2106,8 +2150,7 @@ xanti di - calme (tranquille)
 xara - scie  
 xarafun - sciure  
 xarakan - scierie  
-xatan - s'opposer à  
-xatan ja - Satan  
+xatan - Satan  
 xava - rôtir  
 xayu - requin  
 xe - chose  

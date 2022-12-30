@@ -27,6 +27,8 @@ ais krem - アイスクリーム
 akare - 壁蝨  
 akrabe - 蠍 (天蝎宮)  
 ale - 他の  
+alge - 痛み  
+algike - 痛い  
 alga fungu - 地衣類 (苔癬)  
 alga jangal - 藻場  
 alkan - アルカン  
@@ -99,6 +101,7 @@ ayo - 痛い
 
 babuce - スリッパ  
 baca - 子供 (赤ちゃん)  
+baceler - 학사  
 badam - アーモンド (扁桃)  
 badan - 体  
 baga -  鞄 (バッグ)  
@@ -249,6 +252,7 @@ caikan - 茶店 (茶館)
 cai kupa - 茶碗  
 cai pote - 急須  
 camaca - スプーン  
+cana - 瞬間  
 car - 車  
 cati - 屋根  
 cau - 草  
@@ -344,6 +348,8 @@ dipe moka - 灌木 (藪)
 dipe tela - 絨毯 (カーペット)  
 diske - ディスク (円盤)  
 disprosium - ジスプロシウム  
+• ditater - 独裁者  
+• ditateria - 独裁  
 dobe - レンガ (磚)  
 doh - 娘  
 dokumen - 書類 (文書, ドキュメント)  
@@ -368,6 +374,7 @@ dubnium - ドブニウム
 dudu - 昆虫  
 dugu - 読む  
 dukan - 店 (店鋪)  
+dum - 煙  
 dunia - 世界  
 • redura - 再開する  
 durabil - 持続的  
@@ -382,7 +389,7 @@ dux - シャワー
 ## E  
 
 einsteinium - アインスタイニウム  
-eko nati di - 野生  
+ekonative - 野生  
 eletre - 電気  
 eletroline - 電線  
 eletrorade - 雷 (稲妻)  
@@ -612,6 +619,8 @@ grafi sugata - フレームレート
 • programaje - ソフトウェア  
 granite - 花崗岩  
 grave - 砂利  
+gros - 荒い  
+gros limon - コブミカン (スワンギ, プルット)  
 guai - 変  
 gubu - 河馬  
 gui - 鬼  
@@ -681,8 +690,6 @@ hogo xan - 火山
 hoki - ホッケー  
 holografia - 홀로그래피  
 holmium - ホルミウム  
-hor - 時 (１時間)  
-hor loga gi - 時計  
 hotel - ホテル (旅館)  
 hua - 花  
 hua mosim - 春  
@@ -730,15 +737,18 @@ jaru - 箒
 jau - 大麦  
 javabu - 答え (回答)  
 jebe - ポケット (懐中)  
-jebu caku - ポケットナイフ  
+jebe caku - ポケットナイフ  
+jebre - 代数  
 jeka - 借用  
 jeka don - 貸す  
 jeka na - 借りる  
 jelakan - 監獄  
 jen - 人 (者, 員, 徒)  
 jenju table - 算盤  
+jensen - 人蔘   
 • projete - プロジェクト  
-jete grafi - 映す (投影する, 投影)  
+jete grafe - 映す (投影する, 投影)  
+jinje - 生姜  
 jinse - 性別 (ジェンダー)  
 jinselogi - ジェンダー研究  
 jirafa - 麒麟  
@@ -746,6 +756,8 @@ jiva - 命 (生命)
 jong - 中心  
 Jongoku - 中国  
 jovar - 蜀黍 (コーリャン)  
+• prejude - 偏見  
+judau - 柔道  
 jui - 注意  
 jui di - 気をつける (慎む)  
 jui note - 注意 (戒め, 警告)  
@@ -779,13 +791,13 @@ kaguji - 紙
 kaguji limon - メキシカンライム (マナオ)  
 kaju - カシュー  
 kaki - 柿  
+kalium - カリウム  
 kala - 黒い  
 kalam - ペン  
 kalam sui - インク (墨)  
 kalenda - 暦 (カレンダー)  
 kali - 塩基  
 kali guste - 苦い  
-kalium - カリウム  
 kali melon - ツルレイシ (ニガウリ)  
 kali oranje - ダイダイ  
 kalifornium - カリホルニウム  
@@ -828,17 +840,14 @@ karbohidrate - 炭水化物
 karbe kalam - 鉛筆  
 karbol - 石炭酸  
 karboxil - カルボキシル基  
-karbe sui - 炭水化物  
 karcof - アーティチョーク  
-kardon - アザミ  
+kardon - 薊 (アザミ)  
 kardon karcof - カルドン  
 kargadan: - 犀  
 kari - カレー  
 karote - ニンジン  
-karse - 荒い  
-karse limon - コブミカン (スワンギ, プルット)  
-karta - 地図  
-karte - カルタ  
+karte - 地図  
+karta - カルタ  
 karuba - 蝗豆  
 kaska - 殻 (皮)  
 katana - 刀  
@@ -887,6 +896,7 @@ klor - 塩素
 koala - 子守熊 (コアラ)  
 kobalte - コバルト  
 koda - 尾 (尾翼)  
+komodia - 喜劇 (コメディ)  
 koma - コンマ (読点)  
 kon - 共  
 kon bon - 合わせる (適する)  
@@ -905,6 +915,9 @@ korte kata - 短編小説
 korte krokodil - アリゲーター  
 kosmo nave - 宇宙船  
 krake - 隙間 (ひび)  
+kreater - 創造者  
+kreatia - 万物  
+kreative - 創造的な  
 kredi - 信頼する  
 • ankredija - 不信者  
 • bekredibil - 忠実  
@@ -932,8 +945,8 @@ kul - カッコいい
 kulture - 文化  
 kupa - コップ  
 kupre - 銅  
-kurban - 犠牲  
 kurium - キュリウム  
+kurban - 犠牲  
 
 ## L  
 
@@ -1186,8 +1199,8 @@ nature - 性質
 natri - ナトリウム  
 nau - 脳  
 nautile - オウムガイ  
-nave trepe - タラップ  
 nave - 舟 (ボート)  
+nave trepe - タラップ  
 ne - ね  
 nefre - 腎臓  
 nefte - 油 (オイル)  
@@ -1201,14 +1214,18 @@ nen mes den - 年月日
 neodimium - ネオジム  
 neon - ネオン  
 neputunium - ネプツニウム  
-nerve toxi - 神経毒  
-nesi - 島  
-nete - 網  
+nese - 島  
+• konnete - 繋げる  
 neu di - 新しい  
 neu jen - 初心者  
 neu loga - 新語 (新造語)  
 neu nati di - 新生の  
 neu yang di - 近代的  
+neure - 神経  
+neuralgia - 神経痛  
+neuritis - 神経炎  
+neuron - 神経細胞  
+neurotoxe - 神経毒  
 ni - 女  
 nia - 意図  
 nice - 下  
@@ -1241,6 +1258,7 @@ nume zi - 数字
 
 ## O  
 
+ode - 頌歌 (オード)  
 oganeson - オガネソン  
 ohtopus - タコ  
 okebil - 大丈夫 (ＯＫ)  
@@ -1261,6 +1279,8 @@ oxe - 酸素
 ## P  
 
 pa - お父さん (父, パパ)  
+pace bahai bakalau - マダラ  
+pacisme - 平和主義  
 paci - 鳥 (鳥類)  
 paci lojia - 鳥類学  
 pada mun - 落とし戸  
@@ -1281,12 +1301,9 @@ par vezeta - 均衡 (平衡)
 parce kai - 弾ける  
 pari dexa - 仙境  
 parne - 羊歯  
-parti jen - パートナー  
+partaner - パートナー  
+partaneria - パートナーシップ  
 pas loga - パスワード  
-pase bahai bakalau - マダラ  
-pase sim - 平和主義  
-pasi - 痛み  
-pasi di - 痛い  
 pasporte - パスポート  
 pasta petra - マグマ (岩漿)  
 patekan - 病院 (医院)  
@@ -1416,9 +1433,9 @@ romanse di - ロマンチック
 rote - 車輪  
 rota leu - 左回り (反時計回り)  
 rota vanu gi - 独楽  
+rubium - ルビジウム  
 rubi - 赤い  
 rubi bau seku - ルビー  
-rubium - ルビジウム  
 rubi linse - ボブキャット  
 rubi oranje - ポンカン (マンダリン)  
 rubi salmon - ベニザケ  
@@ -1437,6 +1454,8 @@ saf tela - ワイプ
 safar ceke - トラベラーズチェック  
 sagu - サゴ  
 sagu fun - サゴ澱粉  
+sah - 時 (１時間)  
+sah diker - 時計  
 sahi - 正しい  
 saide - 狩り (狩猟)  
 sale - 元気 (丈夫)  
@@ -1463,7 +1482,7 @@ sanduice - サンドイッチ
 sante kanon - 聖書  
 sanzi - 扇子  
 sapatu - 鞋  
-sata - 瞬間  
+sari - サリー  
 sau - 兄弟姉妹  
 sau doh - 姪  
 sau son - 甥  
@@ -1564,8 +1583,8 @@ ta - さ (み, 性)
 tabi - 性質 (性)  
 table komputa - タブレットコンピュータ  
 tail - タイル (瓦)  
-tala - 錠  
 talium - タリウム  
+tala - 錠  
 tana - 茎 (胴)  
 tantalium - タンタル  
 tapon - タンポン  
@@ -1600,14 +1619,17 @@ tix - 静かな (無音)
 tixta - 静けさ (静寂, 黙秘)  
 to misal - 例えば  
 Tokyo - 東京  
-• jivatomi - 生体解剖  
-• tritomi - 三分法  
-• tomi grafi - トモグラフィー  
-topo grafi - 地勢  
-torium - トリウム  
+tole - 黙認する  
+tolerate - 黙認する  
+• biotomia - 生体解剖  
+• tritomia - 三分法  
+• tomografia - トモグラフィー  
+topografia - 地勢  
 tore - 塔  
+torium - トリウム  
 toxe - 毒  
 tralongta - 直径  
+tragodia - 悲劇  
 • antranse vide di - 不透明  
 transe vide di - 透明  
 trater - トラクター  
@@ -1689,7 +1711,7 @@ veste gorila - ニシゴリラ
 • previde - 待ち受ける (見込む)  
 vide ja - 見物人  
 vide punte - 遠近法 (見通し, 観点)  
-vidou - 寡婦  
+vidua - 寡婦  
 vinkan - ワイナリー (酒造場)  
 violeta - スミレ  
 violeta nil - 紫色 (パープル)  
@@ -1715,13 +1737,13 @@ xakal - ジャッカル
 xam - 夕べ  
 xam yam - 夕食  
 xaman - シャーマン  
-xampan - 香槟  
+Xampan - 香槟  
 xan pike - 頂点  
 Xani - 土星  
 xaniden - 土曜日  
 xara - のこぎり  
 xarafun - 木屑  
-xatan ja - 悪魔  
+xatan - 悪魔  
 xava - 焼く  
 xayu - サメ  
 xe - 事 (物)  

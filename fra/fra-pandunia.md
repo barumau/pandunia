@@ -60,9 +60,11 @@ alcool - alkol
 alcoolique - alkolike  
 alcyne - alkin  
 alcène - alken  
+algométrie - algometria  
 algue - alga  
 algues - bahai alga  
 algues brunes - kafe alga  
+algèbre - jebre  
 Algérie - Jayer  
 alien - alian  
 alkyle - alkil  
@@ -79,6 +81,8 @@ aluminium - alumin
 alun - alumin mate  
 amande - badam  
 amateur - hobi ja  
+Amazone - Amazon  
+Amazonie - Amazonia  
 amer - kali guste  
 Amhara (groupe ethnique et langue éthiopienne) - Amara  
 amide - amide  
@@ -95,6 +99,8 @@ amérindien (indien) - aslamerikan
 Amérique - Amerike  
 an (année) - nen  
 anal - anusal  
+analgésie - algesia  
+analgésique (antidouleur) - analgive  
 analyser (analyse) - fen lize  
 anaérobique - anairobiike  
 anchois - ancovi  
@@ -125,6 +131,7 @@ appliquer - fa aplika
 apporter - fa lai  
 apprendre (étudier) - fa xula  
 apprivoiser (dresser, dompter, discipliner) - fa dosil  
+approcher - aproxe  
 approprié (adapté, convenable, opportun) - hapu  
 arabe - arabe  
 arachnide - aranide  
@@ -269,7 +276,7 @@ bibliothèque - kitabakan
 bicyclette - sikle  
 bidonville - harabu mahala  
 bien-être - salta  
-bilingue - du baxa di  
+bilingue - dubaxike  
 bilingue - dubaxike  
 billet - tikete  
 biologie - biolojia  
@@ -368,7 +375,7 @@ Camomille sauvage - kamil
 camphre - kafur  
 canapé (sofa) - sofa  
 canevas (toile) - pente tela  
-canif - jebu caku  
+canif - jebe caku  
 canne - gana  
 canne à pêche - huke lin kane  
 canne à sucre - sukre gana  
@@ -390,12 +397,11 @@ carotte - karote
 caroube - karuba  
 carreau (tuile) - tail  
 carrière - pei kar jiva  
-carte (plan) - topo metri grafi  
+carte (plan) - karte  
 carte - karta  
-carte - karte  
 carte de crédit - kredi karte  
 carte à collectionner - jami karte  
-cartographie - karta grafi  
+cartographie - kartografia  
 caserne - ordu jen kan  
 castillan - kastilia baxa  
 Castille - Kastilia  
@@ -416,7 +422,7 @@ chacal - xakal
 chachlik - xix nama  
 chaise à bascule (berçante) - roke kursi  
 chambre à coucher - sona kamar  
-Champagne - xampan  
+Champagne - Xampan  
 champagne - xampan vin  
 champignon - fungu frute  
 chance - canse  
@@ -453,7 +459,7 @@ Chine - Jongoku
 chlore - klor  
 chocolat - coklate  
 chose - xe  
-Christ (messie) - mesi  
+Christ - kriste  
 chrome - kromium  
 chronique - dura di  
 chronomètre - dura metri gi  
@@ -488,13 +494,14 @@ collaborer - kon kar
 collaborer - konkar  
 coller - fa glu  
 colorant - rang mate  
-combava - karse limon  
+combava - gros limon  
 comique - komike  
 comisión (comité) - konmisea  
 comment - ke riti  
 commerce - vende xope  
 commun - konun  
 compassion - sam emos  
+compatriote - konpatrian  
 complot (conspiration) - sir plan  
 comportement (manière) - manera  
 compost - bio sana xe  
@@ -503,11 +510,15 @@ comprendre (réaliser; aha) - aha
 compte - hisabu loge  
 compter (calculer) - pute  
 compteur de vitesse - suga metri gi  
+comédie - komodia  
 concert - konserte  
 concombre - hiyar  
 concombre confit (cornichon) - acar hiyar  
 concombre de mer - bahai hiyar  
 connaître - ken  
+connecter - konnete  
+connecteur - konneter  
+connexion - konnetion  
 conseil - sel  
 conseiller - fa sel  
 considérer - hem  
@@ -570,6 +581,10 @@ croyant - kredija
 cru - seng  
 crème - krem  
 crème glacée - ais krem  
+créateur - kreater  
+créatif - kreative  
+création - kreatia  
+créer - kree  
 crêpe - Franse krepe  
 crêpe - krepe  
 crêperie - krepekan  
@@ -614,7 +629,11 @@ destin - kisma
 deux (2) - du  
 devoir - mus  
 diamant - adamas  
-dichotomie - dutomi  
+dichotomie - dutomia  
+dictateur - ditater  
+dictature - ditateria  
+dicter - dite  
+diction - dition  
 dieu - dee  
 différence - alo sifa  
 différent - alo sifa di  
@@ -645,7 +664,7 @@ données - data
 dormir - be sona  
 double - duple  
 douche - dux  
-doute - xaki  
+doute - xake  
 drapeau - bandera  
 drogue (narcotique, dope) - narke  
 droit (rectiligne) - orto  
@@ -812,7 +831,7 @@ fouet - bici
 fougères - parne  
 foule - jen jami  
 fourmi - murce  
-fragment - parce  
+fragment - parte  
 frais - taza  
 francium - fransium  
 francophone - Franse fon di  
@@ -825,6 +844,7 @@ frère - bra
 frère aîné (grand frère) - sen bra  
 frère et sœur (adelphe, germain) - sau  
 frêne - frasen  
+fumée - dum  
 fundic - panduke  
 furet - furete  
 fèces - feke  
@@ -851,7 +871,7 @@ genre grammatical - baxe jinse
 geographie - geografia  
 Germanie - Germania  
 germanium - germanium  
-gingembre - jinji  
+gingembre - jinje  
 giraffe - jirafa  
 glabre - kexa hin  
 glace - ais  
@@ -917,7 +937,7 @@ henné - hena
 herbe (gazon) - cau  
 herminette - benzi  
 Hesse - Hese  
-heure - hor  
+heure - sah  
 heureux (se plaire) - suka  
 hier - preden  
 Hindustan - Hindestan  
@@ -931,9 +951,11 @@ holistique - holiste
 holmium - holmium  
 hologramme - holografe  
 holographie - holografia  
+holonyme - holonam  
 honneur - onor  
 honorer - fa onor  
-horloge - hor loga gi  
+horloge - sah diker  
+horreur - horure  
 houblon - humel  
 houe - copu  
 hourra - hura  
@@ -963,6 +985,7 @@ hôtel - hotel
 
 ici - a ye  
 idéal - ideal  
+idée préconçue - prexake  
 idéogramme - ideograme  
 iglou - iglu  
 il ou elle - da  
@@ -1031,7 +1054,8 @@ joug - yogo
 joule (J) - jul  
 jour - dia  
 journal - den loge  
-juje - jude ja  
+judo - judau  
+juje - juder  
 Jupiter - Muxin  
 jus - jus  
 jusque (jusqu’à) - hata  
@@ -1096,6 +1120,7 @@ lexème - lexime
 leçon - xula xe  
 libellule - libele  
 libre - hure  
+licence - baceler  
 lichen - alga fungu  
 lien - linke  
 lieu - loka  
@@ -1220,6 +1245,7 @@ merveille - mirabil
 message - anjil  
 message - misaje  
 messager - anjil ja  
+messie - mesi  
 mettre (placer) - fa loka  
 meule - mol seku  
 microbe - mikrobie  
@@ -1245,7 +1271,7 @@ moine ou nonne - biku
 mois - mes  
 mole (unité) - mole  
 molybdène - moliden  
-momentané - sata di  
+momentané - canaike  
 monade - monaje  
 monde - dunia  
 monnaie (pièce) - pesa diske  
@@ -1257,7 +1283,7 @@ mordre - fa dante
 mordre - gata a dante  
 morue (cabillaud) - bakalau  
 morue de l'Atlantique - atlanti bakalau  
-morue du Pacifique - pase bahai bakalau  
+morue du Pacifique - pace bahai bakalau  
 moscovium - moskvium  
 mot - lexi  
 mot de passe - pas loga  
@@ -1291,6 +1317,7 @@ méfait (péché) - dusate
 méfait (péché) - duskar  
 mémoire - memo  
 méninge - meninge  
+méronyme - meronam  
 métaux lourds - bari metal  
 méthane - metan  
 méthanol (alcool de bois) - metanol  
@@ -1310,10 +1337,11 @@ naître (naissance) - nate
 neige - hima  
 Neptune - Neputun  
 neptunium - neputunium  
+nerf - neure  
 net (propre) - saf  
 neuf (9) - tisa  
-neurone - nerve selu  
-neurotoxine - nerve toxi  
+neurone - neuron  
+neurotoxine - neurotoxe  
 neveu - sau son  
 niche (de chien) - vaf bude  
 niche - nix  
@@ -1353,6 +1381,8 @@ néodyme - neodimium
 néologisme - neu loga  
 néon - neon  
 néophyte - neu jen  
+néphrite - nefritis  
+névralgie - neuralgia  
 
 ## O  
 
@@ -1368,6 +1398,7 @@ Océan Antarctique - Antartika Bahai
 océan Arctique - Artika Bahai  
 océan Atlantique - Atlanti Bahai  
 océan Indien - Barti Bahai  
+ode - ode  
 odeur - aroma  
 oeuf - anda  
 oganesson - oganeson  
@@ -1379,6 +1410,9 @@ on - jen (jen men)
 oncille - bagre oselote  
 oncle - cin bra  
 onde - onda  
+opter - ote  
+optimal - otimal  
+option (choix) - otion  
 option - cunbil  
 or - auro  
 orange (couleur) - oranje rang  
@@ -1416,14 +1450,14 @@ où - ke loka
 
 ## P  
 
-pacifisme - pase sim  
-pacifiste - pase sim ja  
+pacifisme - pacisme  
+pacifiste - paciste  
 page - yepa late  
 pain - pang  
 pair (pareil) - sam bei  
 pair (pareil, egal) - par  
 paire - per  
-paix - pase  
+paix - pace  
 palais (château, manoir) - dai dom  
 palais de la bouche - boka cati  
 palladium - paladium  
@@ -1456,9 +1490,10 @@ Paris - Paris
 parité - parta  
 parler - fa loga  
 parole - loga  
+paronyme - paranam  
 part - fen  
-partenaire - parti jen  
-partie - parti  
+partenaire - partaner  
+partie (faction) - partia  
 passe (passage) - pas dau  
 passeport - pasporte  
 passer - fa dura  
@@ -1469,6 +1504,7 @@ paternel - pa di
 pathologie - patolojia  
 patient - pati jen  
 patrie - dom dexa  
+patrie - patria  
 pause - pauze  
 pavillon - kioske  
 pavot d'Orient - gui papi  
@@ -1612,6 +1648,7 @@ principe - bazisme
 prison (geôle) - jelakan  
 problème - problem  
 problématique - problem di  
+proche - proxe  
 procédé (rite) - riti  
 professeur (enseignant) - xula guru  
 professeur - profesor  
@@ -1622,7 +1659,7 @@ projectile - lanse xe
 projection - lanse grafi  
 projet - projete  
 projeter (donner) - fa lanse grafi  
-projeter (image projection) - jete grafi  
+projeter (image projection) - jete grafe  
 prolongé - long dura di  
 promettre - fa vode  
 promettre - promise  
@@ -1634,12 +1671,14 @@ propice - bon sin di
 propriété (possession, bien) - mal  
 protactinium - protacinium  
 protocole - buro riti  
+proximité - proxia  
 prune de Java - jamul  
 précieux - bau di  
 précurseur - prekurser  
 précéder - precese  
 préférer - max fili  
 préférer - prefere  
+préjuger - prejude  
 prénatal - prenatal  
 présent - zai di  
 président - presidente  
@@ -1754,13 +1793,12 @@ réponse - javabu
 répéter - fa re  
 répéter - rifete  
 réussir (avoir du succès, prospérer) - sucese  
-rêche (rugueux, gros) - karse  
+rêche (rugueux, gros) - gros  
 rôtir - xava  
 
 ## S  
 
 s'installer (déménager) - be migra  
-s'opposer à - xatan  
 sable - sable  
 sac - baga  
 sac - sake  
@@ -1786,8 +1824,9 @@ sang - heme
 santé - saludo  
 santé - saluta  
 sapin - abies  
+sari - sari  
 sarigue (opossum) - aposum  
-Satan - xatan ja  
+Satan - xatan  
 Saturne - Xani  
 sauce - sos  
 sauce de soja - soi sos  
@@ -1796,7 +1835,7 @@ saumon altentique - atlanti salmon
 saumon du Pacifique (saumon kéta, saumon chien) - baku salmon  
 saumon rose - rode salmon  
 saumon sockeye - rubi salmon  
-sauvage - eko nati di  
+sauvage - ekonative  
 sauvage - vilde  
 savane - garma zona caustan  
 savoir - sabi  
@@ -1936,7 +1975,8 @@ terrain de camping - kampe bagi
 Terre - Geia  
 terre cuite - baka poto  
 terreplatiste - plate geo sim ja  
-terrorisme - teror sim  
+terrifier - terife  
+terrorisme - terurisme  
 thallium - talium  
 thon - tuna  
 thorium - torium  
@@ -1956,12 +1996,14 @@ titre - tema nam
 toile d'araignée (arantèle) - arane nete  
 toilette (cabinet, waters) - tuale kamar  
 toit - cati  
+tolérer (supporter, suffrir) - tole  
+tolérer (supporter, suffrir) - tolerate  
 tomate - tomate  
 tombe (enterrer) - gabur  
-tomographie - tomi grafi  
+tomographie - tomografia  
 ton - ton  
 topinambour - masa mula sol hua  
-topographie - topo grafi  
+topographie - topografia  
 tortue - tortuga  
 toucher - tocu  
 toupie - rota vanu gi  
@@ -1975,6 +2017,7 @@ tracteur - trater
 traduction - trabaxe  
 tragicomique - tragokomike  
 tragique - tragike  
+tragédie - tragodia  
 train - tren  
 traitement (processe) - culi  
 traitement d'images - grafi culi  
@@ -1991,7 +2034,7 @@ traîner - trate
 tremper (faire mariner) - pul xipi  
 tribord - nave dex  
 tribu - kabile  
-trichotomie - tritomi  
+trichotomie - tritomia  
 trigonométrie - trigonometria  
 triple - triple  
 trois (3) - tri  
@@ -2059,7 +2102,7 @@ verrue - zeyil
 verser (verse, face á) - versi  
 verser - fa verse  
 vert - luga  
-veuve - vidou  
+veuve - vidua  
 viande - nama  
 vice-roi - vise raja  
 vide - hali  
@@ -2080,7 +2123,7 @@ viser - fa dika
 Vishnou - Vixnu  
 vitamine - vitamin  
 vite (rapide) - suga  
-vivisection - jivatomi  
+vivisection - biotomia  
 vivre (habiter) - be dom  
 vivre (vivant; vie) - jiva  
 vocabulaire (lexique) - lexi jama  
@@ -2094,7 +2137,7 @@ voler - fa fei
 votre - tumen su  
 vouloir - vol  
 voyelle - jong fon  
-voyelle - voka soni  
+voyelle - vokal fone  
 voûte - arka cati  
 vrai - ver  
 vulve - vulva  
@@ -2204,6 +2247,6 @@ zéro - siro
 être - es  
 être couché - be kux  
 être humain - human  
-île - nesi  
+île - nese  
 œil - yen  
 럭비 - ragbi  

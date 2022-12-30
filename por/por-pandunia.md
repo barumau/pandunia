@@ -53,7 +53,11 @@ alface - letus
 alfarroba - karuba  
 alfinete - pin  
 alga - alga  
+algesia - analgesia  
 algodão - goton  
+algogênico - algogenike  
+algologia (ficologia) - algalojia  
+algometria - algometria  
 alho - lasun  
 alho-porro - porei  
 alienígena - alian  
@@ -69,6 +73,7 @@ alô - halo
 amador - hobi ja  
 amante - lubar  
 amargo - kali guste  
+Amazônia - Amazonia  
 amerício - amerikium  
 amida - amide  
 amigo - dosti  
@@ -77,6 +82,8 @@ amor - luba
 amoreira - tuta  
 amêndoa - badam  
 anaeróbico - anairobiike  
+analgesia (analgia) - algesia  
+analgésico - analgive  
 analógico - undura  
 anchova - ancovi  
 andesito - andesite  
@@ -92,6 +99,7 @@ aperfeiçoar - fa pul bon
 apodrecer-se - be pute  
 aprender - fa xula  
 apropriado (apto) - hapu  
+aproximar - aproxe  
 aqui - a ye  
 ar - air  
 aracnofobia - aranofobia  
@@ -165,6 +173,7 @@ aí (lá) - a vo
 
 bacalhau - bakalau  
 bacalhau-do-atlântico - atlanti bakalau  
+bacharelato - baceler  
 bacia - basen  
 baga - beri  
 bagagem - bagaje  
@@ -203,7 +212,7 @@ bicho-da-seda (sirgo) - silke larva
 bicho-papão - bubu  
 bigorna - metal bede  
 bilhete - tikete  
-bilíngue - du baxa di  
+bilíngue - dubaxike  
 bilíngue - dubaxike  
 biología - biolojia  
 bioma - biosistem  
@@ -284,7 +293,7 @@ canguru - kangaru
 canhão (ravina, barranco) - kanyon  
 canhǎo - dai pau  
 canil - vaf parke  
-canivete - jebu caku  
+canivete - jebe caku  
 canoa - kanu  
 Cantalupo in Sabina - Kantalupo va Sabina  
 canção de ninar - lala gani  
@@ -309,11 +318,10 @@ carne - nama
 carrapato (ácaros) - akare  
 carregar - fa karga  
 carreira - pei kar jiva  
-carta - karte  
+carta - karta  
 carta - letre  
-carta geográfica - karta  
-carta geográfica - topo metri grafi  
-cartografia - karta grafi  
+carta geográfica - karte  
+cartografia - kartografia  
 Cartum - Hartum  
 cartão de crédito - kredi karte  
 carvalho - baluta  
@@ -344,10 +352,10 @@ cerâmico - serami
 cetona - keton  
 cevada - jau  
 chacal - xakal  
-Champagne - xampan  
+Champagne - Xampan  
 champanhe - xampan vin  
 chance - canse  
-charme - carme  
+charme (encanto, fascinação) - carme  
 chave - cavi  
 chavena (tigela de chá) - cai kupa  
 chefe - xefe  
@@ -392,12 +400,13 @@ colher de chá - cai camaca
 colher de sopa - supa camaca  
 colocar (pôr) - fa loka  
 com (comum) - kon  
-combava - karse limon  
+combava - gros limon  
 combinar com - kon bon  
 começo (início, princípio) - xuru  
 cominho - zira  
 como - ke riti  
 compaixão - sam emos  
+compatriota (compatrício) - konpatrian  
 complô (conspiração) - sir plan  
 comportamento (conduta) - manera  
 composto - bio sana xe  
@@ -405,11 +414,15 @@ comprar - fa xopi
 compras - xopi  
 computador - konputer  
 comum - konun  
+comédia - komodia  
 concerto - konserte  
 concha - pote camaca  
 condutor (chofer, motorista) - xofer ja  
 conduzir - fa xofer  
+conectar - konnete  
+conector - konneter  
 conexão (vínculo, laço) - linke  
+conexão - konnetion  
 confiar (contar com) - amen  
 confiar (contar com) - kredi  
 conhecer - ken  
@@ -446,7 +459,11 @@ crente - din ja
 crente - kredija  
 crepe (panqueca) - krepe  
 crepe - Franse krepe  
+criador - kreater  
 criança (menino) - baca  
+criar - kree  
+criativo - kreative  
+criação - kreatia  
 cristal - bilor  
 croassã - kruasan  
 crocodiliano - krokodil  
@@ -510,6 +527,7 @@ depenar - depena
 derretre - fuzi  
 desastre - dusastre  
 descanso (repouso) - xanti  
+desconectar - dekonnete  
 desdentado - dante hin  
 desenvolvimento - gradu mute  
 desesperado - axa hin  
@@ -527,7 +545,8 @@ dez - des
 dia (24 horas) - den  
 dia - dia  
 diamante - adamas  
-dicotomia - dutomi  
+dicotomia - dutomia  
+dicção - dition  
 digital - numerike  
 dinamite - dinamite  
 dinheiro - pesa  
@@ -542,6 +561,9 @@ discordar - fa alo rai
 disprósio - disprosium  
 distinto - alo fen di  
 distrair - distrate  
+ditador - ditater  
+ditadura - ditateria  
+ditar - dite  
 diário - den loge  
 diário de bordo - loge buku  
 dióxido de carbono - karbe duoxide  
@@ -562,7 +584,7 @@ duração - dura
 duro - gati  
 dígito - nume zi  
 dúbnio - dubnium  
-dúvida - xaki  
+dúvida - xake  
 
 ## E  
 
@@ -744,12 +766,13 @@ foto (fotografia) - fotografe
 fotografia - fotografia  
 fraco (débil) - anbala  
 fraco - mirde  
-fragmento - parce  
+fragmento - parte  
 freixo - frasen  
 fruta - frute  
 frutose - frutos  
 frâncio - fransium  
 fulano - xi Fulan  
+fumo - dum  
 fungo - fungu  
 funil - dara tubo  
 função - funtion  
@@ -791,6 +814,7 @@ geometria - geometria
 geopolítica - geopolitia  
 Germânia - Germania  
 germânio - germanium  
+ginseng - jensen  
 girafa - jirafa  
 girassol - sol hua  
 glicina - glukin  
@@ -837,7 +861,8 @@ holograma - holografe
 honesto (sincero) - amen di  
 honra - onor  
 honrar - fa onor  
-hora - hor  
+hora - sah  
+horror - horure  
 hortelã - minta  
 hortelã-da-água - sui minta  
 hortelã-pimenta - pipre minta  
@@ -867,7 +892,7 @@ idoso - lau
 iglu - iglu  
 igual (par) - par  
 igual - sam  
-ilha - nesi  
+ilha - nese  
 imigrante - inmigrer  
 imigrar - inmigre  
 imitar (mimetizar) - mime  
@@ -932,14 +957,15 @@ Japão - Nipon
 jarra (jarro) - jara  
 jasmim - moli  
 Javé (Jeová) - Yahve  
-jengibre - jinji  
+jengibre - jinje  
 Jesus Cristo - Yesa Mesi  
 joelho - guta  
 jogo de tabuleiro - bano geme  
 joule (J) - jul  
 jovem - jun  
+judo - judau  
 jugo - yogo  
-juiz - jude ja  
+juiz - juder  
 justiça - adilta  
 justo - adil  
 Júpiter - Muxin  
@@ -1142,8 +1168,8 @@ molhado - xipi
 molhar - fa xipi  
 molho de soja - soi sos  
 molibdénio - moliden  
-momento (instante) - sata  
-momentâneo - sata di  
+momento (instante) - cana  
+momentâneo - canaike  
 monje ou monja - biku  
 monograma - monograme  
 monstro - mostre  
@@ -1192,15 +1218,18 @@ nação - nasia
 necessidade - yauta  
 necessário - yau di  
 necrofilia - nekro fili  
+nefrite - nefritis  
 neodímio - neodimium  
 neologismo - neu loga  
 neptúnio - neputunium  
+nervo - neure  
 neta - ben doh  
 neto - ben son  
 Netuno - Neputun  
-neurotoxina - nerve toxi  
-neurônio - nerve selu  
+neurotoxina - neurotoxe  
+neurônio - neuron  
 neve - hima  
+nevralgia - neuralgia  
 nicho - nix  
 nihonium - niponium  
 ninho (vespiero) - nide  
@@ -1245,6 +1274,7 @@ oceano - dai bahai
 ocular - yen di  
 ocultar (esconder) - fa sir  
 ocupado (atarefado) - mang  
+ode - ode  
 oganesson - oganeson  
 oito (8) - bati  
 oleiro - pote ja  
@@ -1255,8 +1285,9 @@ onde - ke loka
 online - a lin  
 ontem - preden  
 opinião - rai  
-opor - xatan  
+optar - ote  
 opção - cunbil  
+opção - otion  
 ordem - ratibu  
 orelha - ore  
 orfanato - yatim dom  
@@ -1278,8 +1309,8 @@ oásis - vahi
 ## P  
 
 paciente - pati jen  
-pacifismo - pase sim  
-pacifista - pase sim ja  
+pacifismo - pacisme  
+pacifista - paciste  
 pacote - pake  
 pacto - kon trati  
 padeiro - baker  
@@ -1306,12 +1337,13 @@ par - par jen
 par - sam bei  
 para-lama - poto defa bano  
 parada de ônibus - bus halte  
-parceiro - parti jen  
+parceiro - partaner  
 parque - parke  
 parte - fen  
 partida - mece  
-partido (grupo) - parti  
+partido - partia  
 parâmetro - parametri  
+parónimo - paranam  
 passagem - pas dau  
 passagem de volta - retro tikete  
 passaporte - pasporte  
@@ -1324,7 +1356,7 @@ patógeno - patogener
 pausa - pauze  
 pauzinho (hashi) - haxi  
 pavão real - mayur  
-paz - pase  
+paz - pace  
 pederneira - hogo seku  
 pedir emprestado - jeka na  
 pedra - ite  
@@ -1412,9 +1444,11 @@ prateleira (estante) - lipa bano
 praça - medan  
 preceder (anteceder) - precese  
 precioso - bau di  
+preconceito - prexake  
 precursor - prekurser  
 preferir - max fili  
 preferir - prefere  
+prejulgamento - prejude  
 prensa - prese gi  
 prensa - preser  
 prensar (pressionar, premir) - fa prese  
@@ -1436,7 +1470,7 @@ profissão - pei kar
 profundo - fase tele  
 programa - programe  
 projeto - projete  
-projeção - jete grafi  
+projeção - jete grafe  
 projeção - lanse grafi  
 projétil - lanse xe  
 prolongado - long dura di  
@@ -1450,7 +1484,9 @@ protacnídio - protacinium
 protocolo - buro riti  
 prova - dalil  
 proxeneta (cafetão) - sutener  
+proximidade - proxia  
 pré-natal - prenatal  
+próximo - proxe  
 pudim - puding  
 punir (castigar) - fa fatu  
 punição (castigo) - fatu  
@@ -1460,6 +1496,8 @@ pá - belca
 página - yepa late  
 pássaro (ave) - paci  
 pátria - dom dexa  
+pátria - patria  
+pátria-mãe - matria  
 pâncreas - pankreas  
 pântano - poto stan  
 pão - pang  
@@ -1529,7 +1567,7 @@ rei - rajanan
 relato - reporte  
 relier (connecter) - fa linke  
 religião - din  
-relógio - hor loga gi  
+relógio - sah diker  
 remover - fa for  
 remédio (medicamento) - dava xe  
 Reno - Ren  
@@ -1574,6 +1612,7 @@ rádon - radon
 rápido - suga  
 rã - krokro  
 rénio - renium  
+Río Amazonas - Amazon  
 ródio - rodium  
 rótula (patela) - guta kaska oste  
 
@@ -1602,8 +1641,9 @@ samba-canção - boce pante
 samário - samarium  
 sanduíche - sanduice  
 sangue - heme  
+sari - sari  
 sariguê (gambá, cuíca) - aposum  
-Satanás - xatan ja  
+Satanás - xatan  
 Saturno - Xani  
 saudável (saudio) - sale  
 saúde - saludo  
@@ -1737,10 +1777,12 @@ tio - cin bra
 titânio - titanium  
 toalha - tuale  
 toalha de mesa - meza tela  
+tolerar (suportar) - tole  
+tolerar (suportar) - tolerate  
 tom - ton  
 tomate - tomate  
-tomografia - tomi grafi  
-topografia - topo grafi  
+tomografia - tomografia  
+topografia - topografia  
 tora - moka tana  
 toranja - putau oranje  
 torta - pai  
@@ -1750,6 +1792,7 @@ toxina - biotoxe
 trabalhador - karja  
 trabalhar - kar  
 trabalho - karxe  
+tragédia - tragodia  
 trajar (vestir-se) - fa fuku  
 tranca - kane sor  
 tranquilo (calmo) - xanti di  
@@ -1844,13 +1887,13 @@ vir - lai
 virgem - virge  
 vitamina - vitamin  
 viver (vivo; vida) - jiva  
-vivisecção - jivatomi  
+vivisecção - biotomia  
 Vixnu - Vixnu  
-viúvo - vidou  
+viúvo - vidua  
 voar - fa fei  
 vocabulário - lexi jama  
 vogal - jong fon  
-vogal - voka soni  
+vogal - vokal fone  
 voltar (regressar) - be retro  
 vontade - vol xe  
 voo - fei  
@@ -1897,16 +1940,18 @@ zumbi - zombi
 água - sui  
 água da chuva - barxa sui  
 álcool - alkol  
+álgebra - jebre  
 áraque - anis araki  
 área de acampamento - kampe bagi  
 área de transferência - gata glu bano  
 árvore - moka  
-áspero - karse  
+áspero - gros  
 âncora - angar  
 érbio - erbium  
 étnico - zuku di  
 índio - hindium  
 ósmio - osmium  
+ótimo (óptimo) - otimal  
 óxide - oxide  
 único (só) - un di  
 útil - uzike  

@@ -37,8 +37,14 @@ ale - outro
 alian - alienígena  
 altre - alterar  
 altrisme - altruísmo  
+• analgive - analgésico  
+• analgesia - algesia  
+• algesia - analgesia (analgia)  
+algogenike - algogênico  
+algometria - algometria  
 alga - alga  
 alga jangal - floresta de algas  
+algalojia - algologia (ficologia)  
 alkan - alcano  
 alken - alceno  
 alkil - alquila  
@@ -50,6 +56,8 @@ alofa - alterar
 alo fen di - distinto  
 alumin - alumínio  
 ama - mas  
+Amazon - Río Amazonas  
+Amazonia - Amazônia  
 amen - confiar (contar com)  
 amen di - honesto (sincero)  
 amerikium - amerício  
@@ -123,6 +131,7 @@ ayo - ai!
 ## B  
 
 baca - criança (menino)  
+baceler - bacharelato  
 badam - amêndoa  
 badan - corpo  
 bagaje - bagagem  
@@ -285,8 +294,10 @@ cai camaca - colher de chá
 cai kupa - chavena (tigela de chá)  
 cai pote - bule  
 camaca - colher  
+cana - momento (instante)  
+canaike - momentâneo  
 canse - chance  
-carme - charme  
+carme - charme (encanto, fascinação)  
 cati - telhado  
 cau - grama (relva)  
 cau medan - gramado  
@@ -376,6 +387,10 @@ diorite - diorito
 dipe moka - arbusto (mata)  
 diske - disco  
 disprosium - disprósio  
+dite - ditar  
+• ditater - ditador  
+• ditateria - ditadura  
+• dition - dicção  
 dobe - tijolo  
 doh - filha  
 dokumen - documento  
@@ -390,15 +405,16 @@ dong - este (leste)
 dosti - amigo  
 drame - drama  
 du - dois (2)  
-du baxa di - bilíngue  
+dubaxike - bilíngue  
 duple - dobro  
 • dusdua - maldição  
 dubnium - dúbnio  
 dudu - inseto  
 dugu - ler  
 dukan - loja  
-duna - duna (бархан)  
+dum - fumo  
 dunia - mundo  
+duna - duna (бархан)  
 dura - duração  
 dura di - crónico  
 dura metri gi - cronómetro  
@@ -639,6 +655,8 @@ grave - cascalho
 • agrese - agressão (ataque)  
 • agreser - agressor  
 grimas - careta (esgar)  
+gros - áspero  
+gros limon - combava  
 grupe - grupo  
 guai - bizarro  
 gubu - hipopótamo  
@@ -717,8 +735,7 @@ holografe - holograma
 holografia - holografia  
 holisme - holismo  
 holmium - hólmio  
-hor - hora  
-hor loga gi - relógio  
+horure - horror  
 hotel - hotel  
 hua - flor  
 hua pote - vaso de flores  
@@ -769,18 +786,20 @@ jaru - vassoura
 jau - cevada  
 javabu - resposta  
 jebe - bolso (algebeira)  
-jebu caku - canivete  
+jebe caku - canivete  
+jebre - álgebra  
 jeka - emprestar (pedir emprestado)  
 jeka don - emprestar  
 jeka na - pedir emprestado  
 jen - pessoa  
 jen jami - multidão  
 jenju table - ábaco  
+jensen - ginseng  
 • projete - projeto  
-jete grafi - projeção  
+jete grafe - projeção  
 jihade - luta  
 jini - espírito (gênio)  
-jinji - jengibre  
+jinje - jengibre  
 jinse - sexo  
 jirafa - girafa  
 jiva - viver (vivo; vida)  
@@ -791,7 +810,9 @@ jong xulakan - ensino secundário
 Jongoku - China  
 jovar - sorgo  
 juba - manto  
-jude ja - juiz  
+• prejude - prejulgamento  
+juder - juiz  
+judau - judo  
 jul - joule (J)  
 jumla lojia - sintaxe  
 jun - jovem  
@@ -815,6 +836,7 @@ kaguji - papel
 kaguji limon - lima  
 kaju - caju  
 kaki - caqui (dióspiro)  
+kalium - potássio  
 kala - preto  
 kalam - lápis  
 kalam sui - tinta  
@@ -822,7 +844,6 @@ kalenda - calendário
 kali - base (álcali; alcalino)  
 kali di - alcalino  
 kali guste - amargo  
-kalium - potássio  
 kalifornium - califórnio  
 kalmar - lula (calamar)  
 kalside - cal  
@@ -875,11 +896,9 @@ kari - curry
 Karibe - Caribe  
 karim - generosidade  
 karote - cenoura  
-karse - áspero  
-karse limon - combava  
-karta - carta geográfica  
-karta grafi - cartografia  
-karte - carta  
+karte - carta geográfica  
+kartografia - cartografia  
+karta - carta  
 karuba - alfarroba  
 kaska - casca (concha)  
 Kastilia - Castela  
@@ -929,6 +948,7 @@ koala - coala
 kobalte - cobalto  
 kolum - poste (coluna)  
 komike - cômico  
+komodia - comédia  
 koma - vírgula  
 kon - com (comum)  
 kon bon - combinar com  
@@ -955,6 +975,10 @@ kosmo nave - nave espacial
 kosmo nave ja - cosmonauta  
 kotumbar - coentro  
 krake - rachadura  
+kree - criar  
+kreater - criador  
+kreatia - criação  
+kreative - criativo  
 kredi - confiar (contar com)  
 • ankredija - infiel  
 kredija - crente  
@@ -979,8 +1003,8 @@ kulte - cultivar
 kulture - cultura  
 kupa - copo (taça)  
 kupre - cobre  
-kurban - sacrifício  
 kurium - cúrio  
+kurban - sacrifício  
 • prekurser - precursor  
 kurta - túnica  
 kurva - curva  
@@ -1085,6 +1109,7 @@ lutesium - lutécio
 
 ma - mãe  
 ma di - maternal  
+matria - pátria-mãe  
 magenium - magnésio  
 magi ja - mago  
 Magribi dexa - Marrocos  
@@ -1252,10 +1277,11 @@ natri - sódio
 nau - cérebro  
 nau di - cerebral  
 nautile - nautiloide  
-nave trepe - portaló  
 nave - barco (navio)  
+nave trepe - portaló  
 nave leu - bombordo  
 nefre - rim  
+nefritis - nefrite  
 nefte - aeite (óleo)  
 nekro - cadáver  
 nekro fili - necrofilia  
@@ -1266,15 +1292,21 @@ neodimium - neodímio
 neon - néon  
 Neputun - Netuno  
 neputunium - neptúnio  
-nerve selu - neurônio  
-nerve toxi - neurotoxina  
-nesi - ilha  
+nese - ilha  
+• konnete - conectar  
+• dekonnete - desconectar  
+• konneter - conector  
+• konnetion - conexão  
 neu - novidade  
 neu di - novo  
 neu jen - novato (neófito)  
 neu loga - neologismo  
 neu nati di - recém-nascido (neonato)  
 neuta - novidade  
+neure - nervo  
+neuralgia - nevralgia  
+neuron - neurônio  
+neurotoxe - neurotoxina  
 ni per (fem) - esposa  
 nia - intenção  
 nide - ninho (vespiero)  
@@ -1302,10 +1334,11 @@ nuka - pescoço (nuca, gargalo)
 numerike - digital  
 nume - número  
 nume zi - dígito  
+o - ou  
 
 ## O  
 
-o - ou  
+ode - ode  
 oganeson - oganesson  
 ohtopus - polvo  
 onda - onda  
@@ -1326,6 +1359,9 @@ osidian - obsidiana
 osmium - ósmio  
 oste jama - esqueleto  
 oste xalke - escudo  
+ote - optar  
+otimal - ótimo (óptimo)  
+otion - opção  
 oxe - oxigénio  
 oxide - óxide  
 
@@ -1333,6 +1369,11 @@ oxide - óxide
 
 pa - pai  
 pa di - paternal  
+patria - pátria  
+• konpatrian - compatriota (compatrício)  
+pace - paz  
+pacisme - pacifismo  
+paciste - pacifista  
 paci - pássaro (ave)  
 paci lojia - ornitologia  
 pada mosim - outono  
@@ -1355,19 +1396,17 @@ par - igual (par)
 par fase - nivel  
 par jen - par  
 par vezeta - equilíbrio  
-parce - fragmento  
+paranam - parónimo  
 pari - fada  
 pari dexa - mundo das fadas (paraíso)  
 pari kata - conto de fadas  
 parke - parque  
 parne - samambaia  
-parti - partido (grupo)  
-parti jen - parceiro  
+parte - fragmento  
+partaner - parceiro  
+partia - partido  
 pas dau - passagem  
 pas loga - palavra-passe (senha)  
-pase - paz  
-pase sim - pacifismo  
-pase sim ja - pacifista  
 pasporte - passaporte  
 pasta - pasta  
 patogener - patógeno  
@@ -1464,6 +1503,9 @@ profesor - professor
 Promete - Prometeu  
 prometium - promécio  
 protacinium - protacnídio  
+proxe - próximo  
+• aproxe - aproximar  
+proxia - proximidade  
 puding - pudim  
 pujakan - templo  
 puja meza - altar  
@@ -1517,9 +1559,9 @@ roke kursi - cadeira de balanço
 Roma - Roma  
 roma kamil - camomila-romana  
 rote - roda  
+rubium - rubídio  
 rubi - vermelho  
 rubi bau seku - rubi  
-rubium - rubídio  
 rubi oranje - tangerina (mandarim)  
 rubi salmon - salmão-vermelho  
 ruhu mixe di - perplexo (confuso)  
@@ -1535,6 +1577,8 @@ saf - limpo
 • ansaf - sujo  
 safar ceke - cheque de viajante  
 sagu - sagu  
+sah - hora  
+sah diker - relógio  
 sahi - correto (justo)  
 sake - saco  
 sale - saudável (saudio)  
@@ -1559,8 +1603,7 @@ sanduice - sanduíche
 sante kanon - sagrada escritura  
 Sante Paulo - São Paulo  
 sanzi - leque  
-sata - momento (instante)  
-sata di - momentâneo  
+sari - sari  
 sau doh - sobrinha  
 sau son - sobrinho  
 saur - lagarto  
@@ -1658,8 +1701,8 @@ suta - arte
 table komputa - tablet  
 tai - estrado  
 tail - ladrilho (telha, azulejo)  
-tala - fechadura  
 talium - tálio  
+tala - fechadura  
 tana - haste (talo, caule)  
 tantalium - tântalo  
 tapon - tampão  
@@ -1694,17 +1737,19 @@ titi - seio (mama)
 tix - silencioso  
 tixta - silêncio  
 to misal - por exemplo  
+tole - tolerar (suportar)  
+tolerate - tolerar (suportar)  
+• biotomia - vivisecção  
+• dutomia - dicotomia  
+• tomografia - tomografia  
 tomate - tomate  
-• dutomi - dicotomia  
-• jivatomi - vivisecção  
-• tomi grafi - tomografia  
 ton - tom  
-topo grafi - topografia  
-topo metri grafi - carta geográfica  
+topografia - topografia  
 torium - tório  
 tortuga - tartaruga  
 toxolojia - toxicologia  
 tragike - trágico  
+tragodia - tragédia  
 trate - arrastar  
 • distrate - distrair  
 • extrate - extrair  
@@ -1791,7 +1836,7 @@ versi - encarar (afrontar; vérsus)
 vespa - abelha ou vespa  
 veze di - pesado  
 vide - ver  
-vidou - viúvo  
+vidua - viúvo  
 violeta nil - purpúreo (roxo)  
 virge - virgem  
 vise ma - madrasta  
@@ -1801,7 +1846,7 @@ vitamin - vitamina
 Vixnu - Vixnu  
 vo - esse (aquele)  
 vode - promessa (voto)  
-voka soni - vogal  
+vokal fone - vogal  
 vol - querer (desejar)  
 vol xe - vontade  
 volfe - lobo  
@@ -1815,10 +1860,11 @@ vutu - item
 
 xah geme - xadrez  
 xah mata - xeque-mate  
+xake - dúvida  
+• prexake - preconceito  
 xakal - chacal  
-xaki - dúvida  
 xam - noitinha  
-xampan - Champagne  
+Xampan - Champagne  
 xampan vin - champanhe  
 xan pike - cume (pico, topo)  
 Xani - Saturno  
@@ -1828,8 +1874,7 @@ xanti di - tranquilo (calmo)
 xara - serra  
 xarafun - serragem  
 xarakan - serraría  
-xatan - opor  
-xatan ja - Satanás  
+xatan - Satanás  
 xava - assar  
 xayu - tubarão  
 xe - coisa  

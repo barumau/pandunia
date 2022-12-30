@@ -136,6 +136,8 @@ algas pardas - kafe alga
 algién - yo jen  
 algo - yo xe  
 algodón - goton  
+algología (ficología) - algalojia  
+algometría - algometria  
 algún - yo  
 algún día (algún vez) - yo sata  
 alheña (henna) - hena  
@@ -176,7 +178,8 @@ amargo - kali guste
 amarillo - huang  
 amasar (masajear) - fa masaje  
 amateur (aficionado) - hobi ja  
-ambiental (ecológico, natural) - eko di  
+Amazonas - Amazon  
+ambiental (ecológico, natural) - ekal  
 ambiguo - poli semi di  
 ambiguo - polisemike  
 americano - Amerikan  
@@ -193,7 +196,9 @@ amperio - amper
 ampolla (vial) - ampul  
 América - Amerike  
 anaeróbico - anairobiike  
+anagesia - algesia  
 anal - anusal  
+analgésico - analgive  
 analizar (análisis) - fen lize  
 anaranjado - oranje rang  
 ancho - guan  
@@ -222,7 +227,7 @@ antartida - Antartika
 antena - antena  
 anterior (remoto) - pas di  
 antibalas - dana sekur  
-Anticristo - anmesi  
+Anticristo - antikriste  
 Antigua - Antigua  
 Antigua y Barbuda - Antigua i Barbuda  
 Antillas Neerlandesas - Nederlande Antil  
@@ -238,6 +243,7 @@ apellido - famili nam
 aprender (estudiar) - fa xula  
 apropriado (apto, oportuno) - hapu  
 aproximadamente - yaki  
+aproximar - aproxe  
 apuntar (dirección) - dike  
 apuntar (indicar) - ponte  
 apuntar - fa dika  
@@ -325,6 +331,7 @@ asustar (atemorizar) - fa fobi
 atar (amarrar) - fa bande  
 Atenas - Athina  
 ateo - andeiste  
+aterrar - terife  
 attracción (-filia) - fili  
 atún - tuna  
 auge (aumentar) - auge  
@@ -372,6 +379,7 @@ año - nen
 babor - nave leu  
 bacalao - bakalau  
 bacalao común - atlanti bakalau  
+bachiller - baceler  
 backgammon - nardi  
 baguette - kane pang  
 bah - bah  
@@ -450,7 +458,7 @@ bicicleta - pedal sikle
 bicicleta - sikle  
 bienestar - salta  
 bienvenido - sal lai  
-bilingüe - du baxa di  
+bilingüe - dubaxike  
 bilingüe - dubaxike  
 billete de ida y vuelta - retro tikete  
 biología - biolojia  
@@ -632,7 +640,6 @@ caramelo - kandi
 carapacho (cáscara, concha, corteza, capa) - kaska  
 cararés - karnada baxa  
 caravana - karvan  
-carbohidrato - karbe sui  
 carbohidrato - karbohidrate  
 carboxilo - karboxil  
 carburo - karbide  
@@ -657,7 +664,7 @@ carpeta - dokumen sanduku
 carpintero - moka sanaja  
 carrera - pei kar jiva  
 carta - letre  
-cartografía - karta grafi  
+cartografía - kartografia  
 carvis (alcaravea) - karavi  
 carácter - zi  
 casa (hogar, residencia) - dom  
@@ -712,7 +719,6 @@ cepillo (brocha) - broxa
 cepillo de dientes - dante broxa  
 cepillo de pelo - kexa broxa  
 cera (lacre) - mum  
-cerca (casi, aproximadamente) - karibu  
 cerdo (puerco) - goro  
 cerebral - nau di  
 cerebro - nau  
@@ -732,7 +738,7 @@ cesta (canasta, barquilla, aro) - baske
 cetona - keton  
 chacal - xakal  
 Chad - cade  
-Champaña - xampan  
+Champaña - Xampan  
 champaña - xampan vin  
 champiñón (seta) - fungu frute  
 champú - kexa sabun  
@@ -836,8 +842,9 @@ colonizar - fa koloni
 colono - koloni ja  
 color (colorido) - rang  
 coma - koma  
-combava (lima kafir) - karse limon  
+combava (lima kafir) - gros limon  
 combinar - konbine  
+comedia - komodia  
 comedor - yam kamar  
 comenzar (iniciar, empezar) - fa xuru  
 comenzar (iniciarse, empezar) - be xuru  
@@ -854,6 +861,7 @@ compasión - kon pasi
 compasión - sam emos  
 compatible - kon funsibil  
 compatible - konfuntebil  
+compatriota (cotérraneo) - konpatrian  
 compatriota - sam dexa jen  
 compañero (compinche) - late jen  
 compañía (empresa, corporación) - kompani  
@@ -883,8 +891,11 @@ condición (requisito, estipulación) - xarti
 conducir - fa xofer  
 conductor (chofer) - xofer ja  
 conectar (empalmar, enlazar, vincular) - fa linke  
+conectar - konnete  
+conector - konneter  
 conejo (liebre) - tuzi  
 conexión (relación, asociación, juntura, enlace) - linke  
+conexión - konnetion  
 confiar (contar con) - amen  
 confirmar - fa amen  
 confucianismo - kung fuzi sim  
@@ -963,6 +974,10 @@ costumbre (hábito) - ada
 costumbre (tradición, convención) - suna  
 costura (sutura) - sutur  
 cota de malla - seri kaska  
+creación - kreatia  
+creador - kreater  
+crear - kree  
+creativo - kreative  
 crecemiento - raste  
 crecer (aumentar, hincharse) - be dai  
 crecer - be raste  
@@ -981,9 +996,9 @@ criptón (kriptón) - kriton
 crisantemo - guku hua  
 crisis - krizi  
 cristal - bilor  
-cristianismo - mesi din  
-cristiano - mesi din ja  
-Cristo (mesías) - mesi  
+cristianismo - kristisme  
+cristiano - krististe  
+Cristo - kriste  
 criticar (evaluar) - fa piping  
 Croacia - Horvatia  
 crocodilio - krokodil  
@@ -1097,7 +1112,6 @@ deciembre - mes des du
 decir (hablar) - fa loga  
 decoración (adorno) - mei daka  
 decorar (adornar) - fa mei daka  
-dedicar - sata don  
 dedo - angul  
 defecar - fa kaka  
 defecar - defeke  
@@ -1147,6 +1161,7 @@ desbordarse (derramarse) - vai dara
 descanso (alivio) - xanti  
 descargar - nete gete  
 descerebrado - nau hin  
+desconectar - dekonnete  
 descriptivo - sifa di  
 desdentado - dante hin  
 deseo - vol xe  
@@ -1176,7 +1191,11 @@ diamante - adamas
 diario - den loge  
 dibujar (trazar) - fa grafi  
 dibujo (diseño) - desen  
-dicotomía - dutomi  
+dicción - dition  
+dicotomía - dutomia  
+dictador - ditater  
+dictadura - ditateria  
+dictar - dite  
 diente - dante  
 dientes de león (panaderos) - makan hua  
 diestro - dexhanuka  
@@ -1229,8 +1248,8 @@ documental - dokumen filme
 documento (archivo, nota) - dokumen  
 dolar - dolar  
 doler (hacer daño) - fa pasi  
-dolor (sufrimiento) - pasi  
-doloroso - pasi di  
+dolor (sufrimiento) - alge  
+doloroso - algike  
 domar (amansar) - fa dosil  
 domesticado - dosil gene di  
 domesticar (cultivate) - fa dosil gene  
@@ -1248,10 +1267,10 @@ dotes (arte, habilidad) - suta
 dragón - lung  
 drama - drame  
 droga (narcótico) - narke  
-dualismo - du xe sim  
+dualismo - duajisme  
 dubnio - dubnium  
 ducha - dux  
-duda - xaki  
+duda - xake  
 dueño - mal ja  
 duna - duna  
 durable - durabil  
@@ -1332,7 +1351,7 @@ en (a) - a
 en el sentido contrario al las agujas del reloj - rota leu  
 en el sentido del las agujas del reloj - rota dex  
 en línea - a lin  
-encanto - carme  
+encanto (fascinación) - carme  
 encarcelar (aprisionar) - fa jela  
 encontrar (reunión, junta, mitin) - ajami  
 encontrarse (estar, situarse) - be loka  
@@ -1527,7 +1546,7 @@ facilidad - fasilta
 factor - feter  
 falda - jupe  
 falla (mal funcionamiento) - dusfunte  
-fallo (juicio, criterio) - jude  
+fallo (juicio, criterio) - judaje  
 falso - false  
 faltar (sin) - hin  
 familia - famili  
@@ -1601,7 +1620,7 @@ fotograma - statike grafe
 fotógrafo - fotografer  
 fotón - foton  
 fracaso - xiti bai  
-fragmento (pedazo) - parce  
+fragmento (pedazo) - parte  
 Francia - Franse  
 francio - fransium  
 francotirador - juste pau ja  
@@ -1687,7 +1706,7 @@ generar (añadir, realizar) - fa zai
 generosidad (caridad) - karim  
 generoso (dadivoso) - don tabi  
 generoso (dadivoso, caritativo) - karim di  
-gengibre - jinji  
+gengibre - jinje  
 genial - kul  
 genotipo - gene tipe  
 gente - nas  
@@ -1706,12 +1725,12 @@ gesto - geste
 Ghana - Gana  
 Gibraltar - Jibraltar  
 giga- - giga  
-ginseng - jenxen  
+ginseng - jensen  
 girar (rotar) - be rota  
 girasol - sol hua  
 glicina - glukin  
 global (de todo el mundo) - pandunial  
-global (mundial) - dunia li  
+global (mundial) - dunial  
 globo - balon  
 glucosa - glukos  
 glucógeno - glukogen  
@@ -1857,7 +1876,7 @@ hindú - Hindi din ja
 hipopótamo - gubu  
 historia (cuento, relato, leyenda) - kata  
 historia (estudio de sucesos del pasado) - historolojia  
-historia (pasado) - historia  
+historia (pasado) - histor  
 historiador - historer  
 historieta (caricaturas) - grafi kata  
 hm… - hem…  
@@ -1870,6 +1889,7 @@ holmio - holmium
 holografia - holografia  
 holograma - holografe  
 holoturia (pepino de mar) - bahai hiyar  
+holónimo - holonam  
 hombre (señor) - matur man  
 hombro - kanta  
 homorromántico - sam romanse di  
@@ -1880,13 +1900,14 @@ honesto (seguramente, amén) - amen di
 Hong Kong - Hong Gong  
 hongo (moho) - fungu  
 honrar - fa onor  
-hora - hor  
+hora - sah  
 horizonte - sama kinar  
 hormigo - murce  
 hormona - hormon  
 hornacina - nix  
 hornear (cocer) - bake  
 horno - tanur  
+horror - horure  
 hospital - patekan  
 hotel (albergue) - hotel  
 hoy - zai den  
@@ -1898,7 +1919,7 @@ humanidad (género humano) - humania
 humanismo - humanisme  
 humanista - humaniste  
 humano - humanike  
-humo - duman  
+humo - dum  
 humor (gracia) - humor  
 humor - gamo hal  
 humorista - humoriste  
@@ -1932,7 +1953,7 @@ idioma portugués - portugal baxa
 idioma ruso - rus lingue  
 idioma tailandés - Tai baxa  
 idioma turco - turki baxa  
-idioma vietnamita - viete baxa  
+idioma vietnamita - viete baxe  
 idiota (imbécil) - idiote  
 iglesia - eglisa  
 iglú - iglu  
@@ -2058,7 +2079,7 @@ Irlanda del Norte - Norde Aire
 ironía - ironi  
 Irán - Iran  
 irónico - ironi di  
-isla - nesi  
+isla - nese  
 Isla de Man - Manin nesi  
 Isla de San Vicente - Sante Vincente  
 Isla Norfolk - Norfolke nesi  
@@ -2116,7 +2137,7 @@ juego - geme
 juego de mazmorras - donjon ventur  
 juego de mesa - bano geme  
 jueves - muxinden  
-juez (árbitro, réferi) - jude ja  
+juez (árbitro, réferi) - juder  
 jugador - gemer  
 jugar un juego - fa geme  
 jugete - vanu gi  
@@ -2129,7 +2150,7 @@ justicia - adilta
 justo - adil  
 juventud - junnen  
 juventud - junta  
-juzgar - fa jude  
+juzgar - jude  
 
 ## K  
 
@@ -2200,7 +2221,7 @@ lejos - to long
 lengua (idioma, hablar, comunicación) - baxe  
 lengua - lisan  
 lengua materna - natal lingue  
-lengua mundial - dunia baxa  
+lengua mundial - dunia baxe  
 lente - lense  
 lento (despacio) - anhaste  
 Lesoto - Soto  
@@ -2375,8 +2396,7 @@ manzanilla de Castilla - kamil
 manzanilla romana (camomila común) - roma kamil  
 maní - geo dou  
 manía - mani  
-mapa (carta) - karta  
-mapa - topo metri grafi  
+mapa (carta) - karte  
 mapache (oso lavador) - rakun  
 mar - bahai  
 maratí - marati  
@@ -2443,7 +2463,7 @@ medio (búfer) - medi xe
 medio (instrumento) - medi gi  
 medio (mediano) - medi di  
 medio - medi  
-medioambiente (naturaleza) - eko  
+medioambiente (naturaleza) - ekia  
 mediodía - medi dia  
 medios - media  
 medir (medida) - metri  
@@ -2481,9 +2501,11 @@ mercado (bazar) - bazar
 mercurio - hidrargente  
 Mercurio - Merkur  
 meridiano (línea de longitud) - ging gola  
+merónimo - meronam  
 mesa - meza  
 meseta - meza stan  
 mesiánico - mesi di  
+mesías - mesi  
 meta (gol, destinación) - gol  
 metal - metal  
 metal pesado - bari metal  
@@ -2555,8 +2577,8 @@ molinero - mol ja
 molino - molkan  
 molusco - moluske  
 molécula - molekul  
-momento - sata  
-momentáneo - sata di  
+momento - cana  
+momentáneo - canaike  
 momia - mum jen  
 moneda - pesa diske  
 mongol - mongol di  
@@ -2658,11 +2680,11 @@ nasal - nos di
 natrón - natre bilor  
 naturaleza - nature  
 nautilo - nautile  
-navaja - jebu caku  
+navaja - jebe caku  
 nave espacial - kosmo nave  
 navegador - brauza gi  
 navegar (ir en bote) - nave ga  
-Navidad - mesi gene  
+Navidad - kristogene  
 Nazi - nasial sosialiste  
 Naúru - Nauru  
 necesario - yau di  
@@ -2670,7 +2692,8 @@ necesidad - yauta
 necesitar - yau  
 necrofilia - nekro fili  
 necrología (obituario) - nekro loga  
-nefritis - nefre tis  
+nefrectomía - nefrextomia  
+nefritis - nefritis  
 negociar - fa biznes lona  
 negocios (comercio) - biznes  
 negro - kala  
@@ -2681,10 +2704,12 @@ neonato (recién nacido) - neu nati di
 Nepal - Nepal  
 neptunio - neputunium  
 Neptuno - Neputun  
-nervio - nerve  
-neural - nerve di  
-neurona - nerve selu  
-neuropatía - nerve pati  
+nervio - neure  
+neural - neural  
+neuralgia - neuralgia  
+neuritis - neuritis  
+neurona - neuron  
+neuropatía - neuropatia  
 newton (N) - niuton  
 neón - neon  
 Nicaragua - Nikaragua  
@@ -2724,7 +2749,7 @@ norteño - norde di
 Noruega - Norge  
 nosotros - mimen  
 nostalgia - nostalgia  
-nostálgico - nostalgia di  
+nostálgico - nostalgike  
 nota - note xe  
 notar (observar) - note  
 notar el sabor - fa guste  
@@ -2777,9 +2802,10 @@ ocupado (atareado) - mang
 océano - dai bahai  
 océano Antártico - Antartika Bahai  
 océano Atlántico - Atlanti Bahai  
-océano Pacífico - Pase Bahai  
+océano Pacífico - Pace Bahai  
 océano Ártico - Artika Bahai  
 océano Índico - Barti Bahai  
+oda - ode  
 odiar - fa hen  
 odio - hen  
 oeste - veste  
@@ -2800,11 +2826,12 @@ ominoso (amenazador) - dus sin di
 Omán - Oman  
 onda - onda  
 opaco - antranse vide di  
+opción (alternativa) - otion  
 opción (preferencia) - cunbil  
 opinar - fa rai  
 opinión (juicio, consideración) - rai  
-oponerse (resistir) - xatan  
 oportunidad (chance) - canse  
+optar - ote  
 oración - jumla  
 orden (mando, comando) - amir  
 orden - ratibu  
@@ -2846,8 +2873,8 @@ oír (escuchar) - audi
 ## P  
 
 paciente - pati jen  
-pacifismo - pase sim  
-pacifista - pase sim ja  
+pacifismo - pacisme  
+pacifista - paciste  
 padrastro - vise pa  
 padre (papá) - pa  
 pagano (infiel) - kafir  
@@ -2916,16 +2943,17 @@ paria - paraya
 parque - parke  
 parte (fracción) - fen  
 parte inferior - nice  
-participante - parti ceper  
+participante - parteceper  
 participar - fa parti  
-participar - parti cepe  
+participar - partecepe  
 partidario de infracción de copyright - pirate sim ja  
-partido (grupo) - parti  
 partido - mece  
+partido - partia  
 Partido Pirata - pirate parti  
 partir (dividirse) - be fen  
 partícula (grano, bala) - dana  
 parámetro - parametri  
+parónimo - paranam  
 pasa (uva pasa) - gan putau  
 pasado - prezaman  
 pasaporte - pasporte  
@@ -2946,13 +2974,14 @@ patinete - skuter
 pato - bata  
 patología - patolojia  
 patria - dom dexa  
+patria - patria  
 patrimonio (herencia, legado) - varite  
 patógeno - patogener  
 pausa - pauze  
 pavo (guajalote) - dinde  
 pavo real - mayur  
 payaso (clown) - payace  
-paz - pase  
+paz - pace  
 país (nación, estado, terra) - dexa  
 país extranjero - vai dexa  
 Países Bajos - Nederlande  
@@ -3018,7 +3047,6 @@ persona (ista, -ador) - jen
 personal (privado, a medida) - jen di  
 personalizar - fa auto  
 perspectiva (punto de vista) - vide punte  
-pertenecer (ser miembro de) - mer  
 perturbar (turbulencia) - disturbe  
 perímetro (circunferencia) - gola longta  
 peróxido - peroxide  
@@ -3159,6 +3187,8 @@ prefijo - prefixe
 pregunta - sual  
 preguntar (inquirir) - fa sual  
 preguntarse - be sabi vol  
+prejuicio - prejude  
+prejuicio - prexake  
 prenatal - prenatal  
 prensa - prese gi  
 prensa - preser  
@@ -3222,9 +3252,9 @@ propulsor (hélice) - propeler
 prosperar - sucese  
 proteger (asegurar, guardar) - fa sekur  
 proxeneta (chulo) - sutener  
-proximidad - kaributa  
+proximidad - proxia  
 proyección - lanse grafi  
-proyectar (proyección) - jete grafi  
+proyectar (proyección) - jete grafe  
 proyectar - fa lanse grafi  
 proyectil (misil) - lanse xe  
 proyecto - projete  
@@ -3235,6 +3265,7 @@ prueba - teste
 práctica - prati  
 práctico - prati di  
 préstamo lingüístico - jeka loga  
+próximo - proxe  
 psicología - ruhu lojia  
 psique - ruhu  
 puaj - fui  
@@ -3349,7 +3380,6 @@ reconocer (admitir) - fa reside
 reconocimiento (recibo) - reside  
 recorrido (tour) - tur  
 recto - orto  
-red - nete  
 redes sociales - sosi medi gi  
 redondo (circular) - gola di  
 reducir a la mitad (dividir en dos) - fa fen do du  
@@ -3358,7 +3388,7 @@ refuerzos - max ordu
 regaliz (alcazuz, orozuz) - alkasus  
 regalo (obsequio) - don xe  
 registro (archivo, anotación) - loge  
-región (zona) - topo  
+región (zona) - tope  
 regla (ley) - kanun  
 regresar (restablecer, restaurar, recuperar, reanudar) - fuka  
 reina - rajani  
@@ -3370,7 +3400,7 @@ relatar (narrar) - fa kata
 religioso - din di  
 religión - din  
 reliquia - prezaman xe  
-reloj - hor loga gi  
+reloj - sah diker  
 reluciente (brillante, lustroso) - foto mira di  
 relámpago - eletrorade  
 remojar (marinar, encurtir, macerar) - pul xipi  
@@ -3515,7 +3545,7 @@ salud - saludo
 salud - saluta  
 saludable - sale  
 saludar - fa salam  
-salvaje - eko nati di  
+salvaje - ekonative  
 salvaje - vilde  
 salón - sala  
 salón de té - caikan  
@@ -3533,12 +3563,13 @@ Santa Lucía - Sante Lucia
 Santa Sede (Estado de la Ciudad del Vaticano) - Vatikan  
 Santo Tomé y Príncipe - Sante Tome i Principe  
 saquear (desvalijar, robar) - luta  
+sari - sari  
 sartén - tava  
-satanismo - xatan din  
-satanista - xatan din ja  
-Satanás - xatan ja  
+satanismo - xatanisme  
+satanista - xataniste  
+Satanás - xatan  
 Saturno - Xani  
-satánico - xatan di  
+satánico - xatanike  
 sauna - sauna  
 se - se  
 seaborgio - siborgium  
@@ -3629,7 +3660,7 @@ sismología - sismolojia
 sistema - sistem  
 sistema solar - sol sistem  
 sistémico - sistem di  
-sitio web - nete loka  
+sitio web - nete loke  
 situación - xe hal  
 sobre - a supra  
 sobreescribir - vise kitaba  
@@ -3643,7 +3674,7 @@ socialismo nacional (nazismo) - nasial sosialisme
 socialista - sosi sim ja  
 sociedad - sosi  
 socio (compañero) - bei  
-socio - parti jen  
+socio - partaner  
 sodio - natri  
 software (soporte lógico) - programaje  
 sofá - sofa  
@@ -3688,7 +3719,7 @@ suegra - per ma
 suegro - per pa  
 sueño - sona  
 sufijo - pos fixe  
-sufragio (derecho al voto) - vote haki  
+sufragio (derecho al voto) - vote hake  
 sufrir (verbo pasivo) - be  
 sufrir - be pasi  
 Suiza - Suise  
@@ -3749,7 +3780,7 @@ taponar - fa tapa
 tapón (corcholata) - botel tapa  
 tapón (tapa) - tape  
 tarde (después de mediodía) - xam dia  
-tarjeta (carta) - karte  
+tarjeta (carta) - karta  
 tarjeta de crédito - kredi karte  
 tarjeta de gráfica - grafi karte  
 tasa (precio, cuota, tarifa) - taxi  
@@ -3809,9 +3840,10 @@ terraplanista - plate geo sim ja
 terremoto - geo sismo  
 terreno (solar) - geo tike  
 terreno - geo forme  
-terror - teror  
-terrorismo - teror sim  
-terrorista - teror sim ja  
+terror - tere  
+terror - terure  
+terrorismo - terurisme  
+terrorista - teruriste  
 tesis - teze  
 tesla (T) - tesla  
 tesoro - bau  
@@ -3847,20 +3879,21 @@ todas las personas - pan jen
 todavía (aún) - zoku  
 todo - pan  
 Togo - Togo  
-tolerar - tolera  
+tolerar (soportar) - tole  
+tolerar (soportar) - tolerate  
 tomate - tomate  
-tomografía - tomi grafi  
+tomografía - tomografia  
 tonelada - mega gram  
 Tonga - Tonga  
 tono - ton  
 topo - krote  
-topografía - topo grafi  
+topografía - topografia  
 torio - torium  
 tormenta (tempestad) - tufan  
 tormenta - grom tufan  
 tornillo - vita  
 torre - tore  
-torre del reloj - hor loga minar  
+torre del reloj - sah tore  
 torso - torso  
 tortuga - tortuga  
 tos - koso  
@@ -3876,6 +3909,7 @@ traducir (interpretar; tradicción, interpretación) - trabaxe
 traductor - trabaxer  
 traer - fa lai  
 tragar - gul  
+tragedia - tragodia  
 tragicómico - tragokomike  
 trampa - kape truke  
 trampilla - pada mun  
@@ -4062,16 +4096,16 @@ visado - viza
 Vishnú - Vixnu  
 visitar - fa keka  
 visitar - keka  
-vista (visión) - vide xe  
+vista (visión) - vidaje  
 vitamina - vitamin  
-viudo - vidou  
+viudo - vidua  
 vivir (residir) - be dom  
 vivir (vivo; vida) - jiva  
-vivisección - jivatomi  
+vivisección - biotomia  
 viñedo - putau bagi  
 vocabulario (léxico) - lexi jama  
 vocal - jong fon  
-vocal - voka soni  
+vocal - vokal fone  
 volar - fa fei  
 volcán - hogo xan  
 voltio (V) - volta  
@@ -4141,13 +4175,13 @@ zulú - Zulu
 Ártico - Artika  
 ábaco - jenju table  
 ágil - agile  
-álgebra - jebra  
+álgebra - jebre  
 ángulo recto - orto gona  
 árabe - arabe  
 árbol - moka  
 área (superficie) - fase area  
 área (zona, región) - area  
-áspero (basto) - karse  
+áspero (basto) - gros  
 ástato - astatin  
 átomo - atom  
 él o ella - da  
@@ -4155,6 +4189,7 @@ zulú - Zulu
 ética (filosofía moral) - moral lojia  
 étnico - zuku di  
 índice de contenidos - in liste  
+óptimo - otimal  
 ósmosis - osmos  
 óxide - oxide  
 único (únicamente, solo) - un di  

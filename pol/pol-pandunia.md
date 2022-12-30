@@ -12,6 +12,8 @@
  - agrobiolojia  
  - agrokulte  
  - airobiike  
+ - algogenike  
+ - algometria  
  - alia  
  - alian  
  - alkan  
@@ -23,6 +25,8 @@
  - altrisme  
  - alumin mate  
  - alumin oxide  
+ - Amazon  
+ - Amazonia  
  - amen di  
  - amide  
  - amin  
@@ -54,6 +58,7 @@
  - ave  
  - aya  
  - babul  
+ - baceler  
  - baga  
  - bagi  
  - bagi bele  
@@ -129,7 +134,6 @@
  - butan  
  - butil  
  - cai vala  
- - cana  
  - cau kitaba  
  - cau medan  
  - ceng bede  
@@ -394,10 +398,15 @@
  - Hindocin  
  - Hiperion  
  - hisabu  
+ - historia  
  - hobi ja  
  - holiste  
  - holo nume  
  - holografia  
+ - holonam  
+ - hore  
+ - horife  
+ - horure  
  - hua jara  
  - hua pote  
  - huke lin kane  
@@ -420,7 +429,7 @@
  - jan buda din  
  - janela frem  
  - jaru  
- - jebu caku  
+ - jebe caku  
  - jela jen  
  - jen (jen men)  
  - jen bahai  
@@ -430,8 +439,7 @@
  - jini  
  - jinselogi  
  - jong xulakan  
- - juba  
- - jude di  
+ - judike  
  - jui  
  - jui di  
  - jui note  
@@ -459,7 +467,6 @@
  - kar cuti  
  - karateja  
  - karbe kalam  
- - karbe sui  
  - karbide  
  - karbohidrate  
  - karbol  
@@ -501,7 +508,10 @@
  - korte kata  
  - kosmo nave  
  - kosmobiolojia  
+ - kreater  
+ - kreatia  
  - kredibil  
+ - kree  
  - kudi metri  
  - kulte  
  - kume  
@@ -618,13 +628,15 @@
  - natre bilor  
  - nature  
  - ne  
+ - nefralgia  
  - nekro fili  
  - nekro lista  
  - nelu di galope  
- - nerve toxi  
  - nete  
  - neu fito  
  - neu nati di  
+ - neuritis  
+ - neurotoxe  
  - neuta  
  - nia  
  - nice kitaba  
@@ -636,7 +648,15 @@
  - nuka  
  - nume zi  
  - Oberon  
+ - ode  
  - oskope  
+ - ote  
+ - otimal  
+ - otime  
+ - otimisme  
+ - otimiste  
+ - otion  
+ - otional  
  - pa bra  
  - pa di  
  - pa ma  
@@ -650,8 +670,11 @@
  - panmime  
  - par fase  
  - para  
+ - paranam  
  - pari dexa  
  - parta  
+ - partaneria  
+ - partative  
  - pas dau  
  - pas loga  
  - pata  
@@ -799,6 +822,7 @@
  - Tenesi  
  - tense  
  - tenseta  
+ - terife  
  - Tetis  
  - tezata  
  - Titan  
@@ -808,9 +832,8 @@
  - to in  
  - to long  
  - to vai  
- - tomi  
- - topo grafi  
- - topo metri grafi  
+ - tome  
+ - topografia  
  - toxolojia  
  - tra  
  - tragike  
@@ -878,8 +901,8 @@
  - vise pa  
  - viski  
  - vode  
- - voka  
- - voka soni  
+ - vokal fone  
+ - voke  
  - voku  
  - vuki ordu  
  - xa  
@@ -928,13 +951,15 @@
  - agreser  
  - amira  
  - anairobiike  
+ - analgesia  
+ - analgive  
  - anding  
  - ankode  
  - ankredi  
  - ankredibil  
  - anluba  
  - ansona  
- - antomibil  
+ - antomebil  
  - antranse vide di  
  - apele  
  - asorbe  
@@ -950,20 +975,24 @@
  - deflexe  
  - deforme  
  - defunte  
+ - dekonnete  
  - deleta  
  - deletabil  
  - deluxe  
  - demente  
+ - depake  
  - depele  
  - depena  
  - deprese  
  - despete  
+ - detere  
  - deversi  
  - disfere  
  - dispele  
  - distrate  
  - disturbe  
  - disversi  
+ - dition  
  - dusate  
  - dusforme  
  - duskar  
@@ -986,7 +1015,7 @@
  - extrater  
  - extraversi  
  - exversi  
- - exvoka  
+ - exvoke  
  - flexebil  
  - indike  
  - indute  
@@ -1004,7 +1033,7 @@
  - intercepe  
  - intraspete  
  - intraversi  
- - invoka  
+ - invoke  
  - jai pandunia!  
  - konbine  
  - koncepe  
@@ -1012,6 +1041,9 @@
  - konduter  
  - konforme  
  - konfunte  
+ - konnete  
+ - konneter  
+ - konnetion  
  - konpele  
  - konpozeje  
  - kontene  
@@ -1019,6 +1051,7 @@
  - konteste  
  - kontrati  
  - kontraversi  
+ - kontredite  
  - konversi  
  - luxure  
  - luxuria  
@@ -1036,9 +1069,14 @@
  - posprodution  
  - precese  
  - precun  
+ - predite  
+ - predition  
  - prefere  
+ - prehistoria  
+ - prejude  
  - prekurse  
  - prepoze  
+ - prexake  
  - procese  
  - proceser  
  - produte  
@@ -1049,7 +1087,7 @@
  - propele  
  - propeler  
  - proteste  
- - provoka  
+ - provoke  
  - reate  
  - reation  
  - recepe  
@@ -1066,12 +1104,13 @@
  - relaxa  
  - remise  
  - repar  
+ - repatriate  
  - repele  
  - represe  
  - respete  
  - retene  
  - reversi  
- - revoka  
+ - revoke  
  - riforme  
  - rikurse  
  - rinate  
@@ -1083,13 +1122,13 @@
  - suporte  
  - sutene  
  - sutener  
- - tomi grafi  
+ - tomografe  
  - trajiva  
  - trakurse  
  - tramise  
  - tramiseon  
  - tramiser  
- - tritomi  
+ - tritomia  
  - unbaxike  
  - ungene  
 A - A  
@@ -1126,8 +1165,9 @@ ale (lecz) - ama
 alfabet łaciński, łacinka, alfabet rzymski - Latin zi  
 alfabet, abecadło - zi seri  
 alga (wodorost) - alga  
-algebra - jebra  
+algebra - jebre  
 Algieria - Jayer  
+algologia - algalojia  
 aligator - korte krokodil  
 alkohol - alkol  
 alkoholowy - alkolike  
@@ -1144,6 +1184,7 @@ amerykański - Amerikan
 Amhara, amharski - Amara  
 amper - amper  
 ampułka - ampul  
+analgezja - algesia  
 analizować (analiza) - fen lize  
 analny, odbytni - anusal  
 ananans - nanas  
@@ -1164,7 +1205,7 @@ antena - antena
 Antigua - Antigua  
 Antigua i Barbuda - Antigua i Barbuda  
 antonim - annam  
-antychryst - anmesi  
+antychryst - antikriste  
 Antyle Holenderskie - Nederlande Antil  
 antymon - estibium  
 anyż - anis  
@@ -1304,8 +1345,8 @@ biust - buste
 bizmut - bismute  
 biznes, interes (aktywność komercyjna) - biznes  
 bić, uderzyć, uderzać - darba  
-bliski (niemal, prawie) - karibu  
-bliskość - kaributa  
+bliski - proxe  
+bliskość - proxia  
 blog - bloge  
 blokować, hamować - bara  
 bogactwo (fortuna, majątek) - riketa  
@@ -1315,7 +1356,7 @@ bohaterski, heroiczny, odważny, brawurowy - heroike
 bohr - borium  
 bojkot - boikote  
 boks - boce  
-bolesny - pasi di  
+bolesny - algike  
 Boliwia - Bolivia  
 bomba - bomba  
 bomba atomowa - atom bomba  
@@ -1326,7 +1367,7 @@ botanika - fitolojia
 Botswana - Cuana  
 boćwina (botwina) - selge  
 Bośnia i Harcegowina - Bosna i Hercegovina  
-Boże Narodzenie - mesi gene  
+Boże Narodzenie - kristogene  
 brawo (gratulacje) - bravo  
 Brazyla - Brazil  
 broda - barde  
@@ -1409,7 +1450,7 @@ Ceres (planeta karłowata) - Ceres
 cez - cesium  
 chaber - kentaur hua  
 chaber wełnisty - sol kentaur hua  
-Champagne - xampan  
+Champagne - Xampan  
 chaos, nieporządek; wrzawa, zgiełk - haos  
 chcieć (pragnąć) - fa ici  
 chcieć, pragnąć - vol  
@@ -1434,11 +1475,11 @@ chrom - kromium
 chroniczny - dura di  
 chronić (ratować) - fa sekur  
 chronić, strzec,  osłaniać, bronić - garde  
-Chrystus, mesjasz - mesi  
-chrześcijanin - mesi din ja  
-chrześcijaństwo - mesi din  
+Chrystus - kriste  
+chrześcijanin - krististe  
+chrześcijaństwo - kristisme  
 chwalić (wychwalać) - halela  
-chwilowy - sata di  
+chwilowy - canaike  
 chór - ganir grupe  
 chłopak - jun man  
 chłopak - you nan  
@@ -1454,7 +1495,7 @@ ciekły (płynny) - dara mate di
 cielesny - badan di  
 ciemny, słabo oświetlony - oskur  
 ciepły - garma  
-cierpienie, ból - pasi  
+cierpienie, ból - alge  
 cierpieć - be pasi  
 cieszyć się (zażywać, bawić się) - be vanu  
 cieszyć, podobać się - sukafa  
@@ -1525,7 +1566,7 @@ cząstka - gran
 cząstka (ziarno, kula, pocisk) - dana  
 często - a poli mar  
 częstotliwość - poli marta  
-część (fragment, strzęp, kawałek, okruch) - parce  
+część (fragment, strzęp, kawałek, okruch) - parte  
 część, ułamek - fen  
 członek - mer  
 człowiek, istota ludzka - human  
@@ -1548,8 +1589,6 @@ deaktywować (wyłączyć, zatrzymać) - deative
 debatować, prowadzić dyskurs - fa lona  
 decy-, dziesiąta część - desi  
 decybel - desi bel  
-dedykacja (poświęcenie) - sata don ta  
-dedykować (poświęcać, poświęcić) - sata don  
 defekować, srać - fa kaka  
 dekoracja (ornament) - mei daka  
 dekorować - fa mei daka  
@@ -1567,8 +1606,8 @@ deszcz - barxa
 detal, szczegół - detal  
 dewanagari - deu nagar zi  
 dezaktualizować (pogorszyć) - dus gradu  
-diabelski, szatański - xatan di  
-diabeł, szatan - xatan ja  
+diabelski, szatański - xatanike  
+diabeł, szatan - xatan  
 diament - adamas  
 dinozaur - dino saur  
 dioryt - diorite  
@@ -1595,7 +1634,7 @@ doradca (mentor) - mentor
 dorosły, dojrzały - matur  
 dorsz - bakalau  
 dorsz atlantycki - atlanti bakalau  
-dorsz pacyficzny - pase bahai bakalau  
+dorsz pacyficzny - pace bahai bakalau  
 doskonalić (optymalizować, ulepszać) - fa pul bon  
 dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować) - fati  
 dostać, dostawać, otrzymać, otrzymywać, wziąć, brać - na  
@@ -1614,7 +1653,7 @@ drzewo - moka
 drzeć (rwać, rozrywać, rozdzierać, rozszczepiać) - cira  
 drzwi wyjściowe - cuti mun  
 drzwi, brama, portal - mun  
-dualizm - du xe sim  
+dualizm - duajisme  
 dubn - dubnium  
 duch, fantom - fantom  
 dumać, rozmyślać, zastanawiać się, rozważać, brać pod uwagę - hem  
@@ -1623,13 +1662,16 @@ dusza, duch, umysł - ruhu
 duński - Danske  
 duży - dai  
 dwa (2) - du  
-dwujęzyczny - du baxa di  
+dwujęzyczny - dubaxike  
 dwujęzyczny - dubaxike  
 dwukrotnie (dwa razy) - du mar  
 dwutlenek węgla - karbe duoxide  
 dwuznacznik - du semi di  
-dychotomia - dutomi  
-dym - duman  
+dychotomia - dutomia  
+dyktator - ditater  
+dyktatura - ditateria  
+dyktować - dite  
+dym - dum  
 dynamit - dinamite  
 dyrektor szkoły - xula xefe  
 dysk - diske  
@@ -1659,7 +1701,7 @@ dziewięć (9) - tisa
 dzień - dia  
 dzień dobry - sal dia  
 dzień świętego Jana - Yohan festa  
-dziki - eko nati di  
+dziki - ekonative  
 dziki - vilde  
 dziobak - bata krote  
 dziura - kung  
@@ -1829,13 +1871,13 @@ glazura (emalia) - glas daka
 gleba bielicoziemna - hui darte  
 glin (aluminium) - alumin  
 glina - glu poto  
-globalny - dunia li  
+globalny - dunial  
 globalny (światowy) - pandunial  
 glutaminian sodu - vijin  
 gluten - gluten  
 gniazdo (ul, nora, jama, barłóg, legowisko) - nide  
 gniew, furia - furita  
-godzina - hor  
+godzina - sah  
 golem - golem  
 goniometr (kątomierz) - gona metri gi  
 gorbusza - rode salmon  
@@ -1953,7 +1995,7 @@ hinduistyczny - Hindi din ja
 hinduizm - Hindi din  
 hipopotam - gubu  
 historia, badanie historii - historolojia  
-historia; annały, roczniki - historia  
+historia; annały, roczniki - histor  
 historyk - historer  
 Hiszpania - Espania  
 hmm… - hem…  
@@ -2000,7 +2042,7 @@ ile? - ke poli di
 ilość(mnóstwo) - polita  
 ilustrator, grafik - grafi ja  
 iluzja (halucynacja) - false vide  
-imbir - jinji  
+imbir - jinje  
 imbryk (czajnik) - cai pote  
 imbryk do kawy - kafe pote  
 imię, nazwa - nam  
@@ -2115,7 +2157,7 @@ język ojczysty (język rodzimy) - natal lingue
 język surinamski - surinam baxa  
 język sztuczny - arte fete baxa  
 język sztuczny - fete baxe  
-język świata, język ogólnoświatowy - dunia baxa  
+język świata, język ogólnoświatowy - dunia baxe  
 język; komunikacja; mówić - baxe  
 językoznastwo - baxe lojia  
 K - K  
@@ -2164,10 +2206,10 @@ karawana - karvan
 karczoch hiszpański - kardon karcof  
 karczoch zwyczajny - karcof  
 Karnataka - Karnada  
-karta - karte  
+karta - karta  
 karta kredytowa - kredi karte  
 kartka (dokument) - yepa  
-kartografia - karta grafi  
+kartografia - kartografia  
 kasjer - pesa kasa ja  
 kasta - gene klas  
 kaszel; kaszlnięcie - koso  
@@ -2259,11 +2301,13 @@ kolor - rang
 Kolumbia - Kolombia  
 kolumna, filar - kolum  
 komar, moskit - moski  
+komedia - komodia  
 komik - humoriste  
 komiks; kreskówka - grafi kata  
 komisja (komitet) - konmisea  
 Komory - Komoro nesi  
 kompas (namagnesowana igła) - ponte pin  
+kompatriota - konpatrian  
 kompatybilny (pasujący) - kon funsibil  
 kompatybilny (pasujący) - konfuntebil  
 kompost - bio sana xe  
@@ -2503,6 +2547,7 @@ luty - mes des
 luźna rozmowa, gadanina - blabla  
 lód - ais  
 M - M  
+macierz - matria  
 macka (czułek) - sense xaka  
 Madagaskar - Madagasi  
 madagaskarski; malagaski - madagasi di  
@@ -2543,7 +2588,7 @@ mangostan - mangus
 mangusta - mungus  
 manicheizm - mani din  
 maniok - manioka  
-mapa - karta  
+mapa - karte  
 marathi - marati  
 maraton - maraton  
 marchew - karote  
@@ -2601,6 +2646,8 @@ melodyczny - melodi di
 melon koreański - aroma melon  
 melon miodowy - luga melon  
 Merkury - Merkur  
+meronim - meronam  
+mesjasz - mesi  
 mesjański - mesi di  
 metal - metal  
 metal ciężki - bari metal  
@@ -2682,7 +2729,7 @@ mokry (wilgotny) - xipi
 mol - mole  
 molekuła (cząsteczka) - molekul  
 molibden - moliden  
-moment - sata  
+moment - cana  
 monada - monaje  
 Monako - Monako  
 monarchia - autokratia  
@@ -2770,7 +2817,6 @@ najmniej, minimalnie - minim
 naleśnik - krepe  
 naleśnikarnia - krepekan  
 należeć - be mal  
-należeć (być członkiem) - mer  
 namalować, malować - fa pente  
 namalować, malować - pente  
 Namibia - Namibia  
@@ -2791,7 +2837,7 @@ narzędzie - kargi
 naród, narodowość - nasia  
 nasienny - seme di  
 następny (następujący) - pos di  
-natura, środowisko - eko  
+natura, środowisko - ekia  
 natura, środowisko - tabi  
 nauczyciel - xula guru  
 nauczyć się, uczyć się, studiować - fa xula  
@@ -2806,6 +2852,7 @@ nazista - nasial sosialiste
 nazwa użytkownika - uzer nam  
 nazwać, nazywać, wezwać, wzywać - fa nam  
 nazwisko, imię rodziny - famili nam  
+nefrektomia - nefrextomia  
 negatywny (przeciwny, nie) - an-  
 negocjować - fa biznes lona  
 nekrolog - nekro loga  
@@ -2818,10 +2865,11 @@ neptun - neputunium
 nerka - nefre  
 nerka (łosoś czerwony) - rubi salmon  
 nerkowiec - kaju  
-nerw - nerve  
-nerwowy (neuronowy) - nerve di  
-neuron - nerve selu  
-neuropatia - nerve pati  
+nerw - neure  
+nerwoból (newralgia) - neuralgia  
+nerwowy (neuronowy) - neural  
+neuron - neuron  
+neuropatia - neuropatia  
 Nevis - Nevis  
 nic, żadna rzecz - siro xe  
 nie - no  
@@ -2842,8 +2890,8 @@ Niemcy - Doice
 niemiecki - doice di  
 niemowlę - bebe  
 nienawidzić - hen  
-niepewny (podejrzliwy, niedowierzący) - xakija  
-niepokój - anpase  
+niepewny (podejrzliwy, niedowierzący) - xakive  
+niepokój - anpace  
 niepotrzebny - anyau di  
 nieskończoność - anlimite  
 niespodziewany - anprevide di  
@@ -2880,7 +2928,7 @@ nosić ubrania - fa fuku
 nosorożec - kargadan:  
 nosowy - nos di  
 nostalgia (tęsknota) - nostalgia  
-nostalgiczny - nostalgia di  
+nostalgiczny - nostalgike  
 notatka, memo - memo note  
 notatnik - note buku  
 notować, obserwować, zauważyć, zauważać - note  
@@ -2933,7 +2981,7 @@ Ocean Antarktyczny (Ocean Południowy) - Antartika Bahai
 Ocean Arktyczny - Artika Bahai  
 Ocean Atlantycki - Atlanti Bahai  
 Ocean Indyjski - Barti Bahai  
-Ocean Spokojny (Pacyfik) - Pase Bahai  
+Ocean Spokojny (Pacyfik) - Pace Bahai  
 Oceania - Oseania  
 ocelot - oselote  
 ocelot tygrysi - bagre oselote  
@@ -2967,6 +3015,7 @@ ogórek - hiyar
 ogórek kiwano - korne melon  
 ogórek melon - melon  
 ojciec - pa  
+ojczyzna - patria  
 okej, spoko, akceptowalny - okebil  
 okno - janela  
 oko - yen  
@@ -3041,8 +3090,8 @@ ożenić się, poślubić, wyjść za mąż - fa gami
 P - P  
 pachnieć - fa aroma  
 pacjent - pati jen  
-pacyfista - pase sim ja  
-pacyfizm - pase sim  
+pacyfista - paciste  
+pacyfizm - pacisme  
 paczka, paka - pake  
 pająk - arane  
 pajęczyna - arane nete  
@@ -3070,7 +3119,7 @@ panseksualny - pan sexe di
 panteizm - pandeisme  
 panteon - pandeia  
 papaja - papaya  
-papeda - karse limon  
+papeda - gros limon  
 papier - kaguji  
 papier toaletowy - tuale kaguji  
 papieros (cygar) - sigar  
@@ -3087,9 +3136,9 @@ parasol - barxa cati
 parasol - sol cati  
 park (ogród) - parke  
 parking - car parke  
-partia - parti  
+partia - partia  
 Partia Piratów - pirate parti  
-partner - parti jen  
+partner - partaner  
 Paryż - Paris  
 parę - du o tri  
 pas, strefa - zona  
@@ -3236,7 +3285,7 @@ pokaz, ekspozycja, wystawa - xou
 poker - poker  
 pokolenie (generacja) - gene grupe  
 pokrycie; pokrywa, wieko, dekiel; pokład - dake  
-pokój - pase  
+pokój - pace  
 pokój rozmów, chat - blablakan  
 pokój, sala - kamar  
 pole widzenia - vide medan  
@@ -3364,7 +3413,7 @@ prawa strona - dex
 prawdziwy (rzeczywisty, szczery) - ver  
 prawicowiec (prawak) - dexiste  
 prawo - kanun  
-prawo wyborcze - vote haki  
+prawo wyborcze - vote hake  
 prawo, przywilej - haku  
 prawy (prawostronny, z prawej strony) - dex di  
 prazeodym - prazedimium  
@@ -3549,7 +3598,7 @@ rdzeń (jądro, pestka) - kerne
 realny - real  
 rebelia, powstanie - rebel  
 recepta, receptura, przepis - reseta  
-region - topo  
+region - tope  
 rejestr - loge  
 rekin - xayu  
 religia, wyznanie - din  
@@ -3709,9 +3758,10 @@ samolot - fei gi
 samppanja - xampan vin  
 San Marino - Sante Marino  
 sardela - ancovi  
+sari - sari  
 sarkazm - loga ironi  
-satanista - xatan din ja  
-satanizm - xatan din  
+satanista - xataniste  
+satanizm - xatanisme  
 Saturn - Xani  
 sauna - sauna  
 sawanna - garma zona caustan  
@@ -3751,7 +3801,6 @@ sierociniec, dom dziecka - yatim dom
 sierota - yatim  
 sierpień - mes lima  
 Sierra Leone - Sera Leone  
-sieć - nete  
 sikać, szczać, oddawać mocz - fa pix  
 sikh - siki din ja  
 sikhizm - siki din  
@@ -3834,7 +3883,6 @@ sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać - ceka
 sprawiedliwość - adilta  
 sprawiedliwy - adil  
 sprawić ból, sprawiać ból - fa pasi  
-sprzeciwiać się (opierać się) - xatan  
 sprzedać (sprzedawać) - vende  
 sprzątacz, sprzątacz - safja  
 spróbować, próbować - proba  
@@ -3930,7 +3978,7 @@ szaleństwo - devalta
 szalony - deval  
 szaman - xaman  
 szampon - kexa sabun  
-Szanghaj - xanghai  
+Szanghaj - Xanghai  
 szansa - canse  
 szariat - islam din xaria  
 szary - hui rang  
@@ -3963,7 +4011,7 @@ szogun - ordu raja
 szogunat - ordu raja dexa  
 szokwstrząs; kolizja - xoke  
 szop pracz - rakun  
-szorstki - karse  
+szorstki - gros  
 szparag; szparagia - asparge  
 szpital - patekan  
 szron - hima rose  
@@ -3987,8 +4035,8 @@ szyć - kosi
 São Paulo - Sante Paulo  
 sód - natri  
 sól - yem  
-sądzić (osądzić) - fa jude  
-sędzia - jude ja  
+sądzić (osądzić) - jude  
+sędzia - juder  
 słaby - anbala  
 słodki - sukre di  
 słodki ziemniak - kamote  
@@ -4073,9 +4121,10 @@ teraźniejszość, współczesność (teraz) - zai zaman
 terb - terbium  
 teren - geo forme  
 termometr - termo metri gi  
-terror - teror  
-terrorysta - teror sim ja  
-terroryzm - teror sim  
+terror - tere  
+terror - terure  
+terrorysta - teruriste  
+terroryzm - terurisme  
 Terytorium Palestyńskie - Filistin  
 tesla (T) - tesla  
 test (wyzwanie, próba) - teste  
@@ -4093,8 +4142,9 @@ Togo - Togo
 Tokio - Tokyo  
 toksyczny (trujący) - toxike  
 toksyna - biotoxe  
-tolerować - tolera  
-tomografia - tomi grafi  
+tolerować - tole  
+tolerować - tolerate  
+tomografia - tomografia  
 ton, dźwięk, nuta, tonacja - ton  
 tona - mega gram  
 Tonga - Tonga  
@@ -4105,6 +4155,7 @@ tor - torium
 torba, wór, worek, torba, sakwa - sake  
 tost - xava pang  
 towarzysz (partner, kumpel) - late jen  
+tragedia - tragodia  
 traktor (ciągnik) - trater  
 traktować - fa culi  
 transport - traporte  
@@ -4156,6 +4207,7 @@ twaróg - panir
 twój - tu su  
 twórca (czynnik) - feter  
 twórca, kreator, czynnik - sana ja  
+twórczy - kreative  
 ty, ciebie - tu  
 Tybet - Bote  
 tydzień - cetiden  
@@ -4183,8 +4235,8 @@ ucho - ore
 uciec, uciekać - bega  
 uciszyć (uciszać) - fa xux  
 uczestniczyć, wziąć udział, brać udział - fa parti  
-uczestniczyć, wziąć udział, brać udział - parti cepe  
-uczestnik - parti ceper  
+uczestniczyć, wziąć udział, brać udział - partecepe  
+uczestnik - parteceper  
 uczeń, student - xula ja  
 udomowiony (domowy) - dosil gene di  
 udomowić (kultywować) - fa dosil gene  
@@ -4276,7 +4328,7 @@ ważka - libele
 ważny - ham di  
 wciąż, nadal; kontynuować, wznawiać, ponawiać - zoku  
 wczoraj - preden  
-wdowa - vidou  
+wdowa - vidua  
 wdzięczność - xukurta  
 według ruchu wskazówek zegara - rota dex  
 weganin (weganka) - pul fito yam sim ja  
@@ -4308,7 +4360,7 @@ wice- (alternatywa, substytut, zastępstwo) - vise
 wicekról - vise raja  
 wiceprezydent - vise prezidente  
 widelec - forke  
-widok, wzrok - vide xe  
+widok, wzrok - vidaje  
 wieczór - xam  
 wiedza - san xe  
 wiedzieć - san  
@@ -4333,12 +4385,12 @@ wiercić, borować - fora
 wierzący (osoba religijna) - din ja  
 wierzący (osoba religijna) - kredija  
 Wietnam - Viete  
-wietnamski - viete baxa  
+wietnamski - viete baxe  
 wiewiórka - lixu  
 wieś, tereny wiejskie - agristan  
 wieś, wioska - deha  
 wieża - tore  
-wieża zegarowa - hor loga minar  
+wieża zegarowa - sah tore  
 wilk - volfe  
 wina, grzech; defekt, wada - doxa  
 winiarnia - vinkan  
@@ -4354,9 +4406,9 @@ Wisznu - Vixnu
 witaj, dobre przybycie - sal lai  
 witamina - vitamin  
 witraż - rang glas  
-witryna internetowa (portal internetowy) - nete loka  
+witryna internetowa (portal internetowy) - nete loke  
 wiwatować (hura, jej) - hura  
-wiwisekcja - jivatomi  
+wiwisekcja - biotomia  
 wiza - viza  
 wizyta - keka  
 wizytant (gość) - keka ja  
@@ -4440,14 +4492,14 @@ wynik (punktacja) - punte nume
 wyobrazić, wyobrażać, fantazjować - fa fantazi  
 wypadek - xigu  
 wypełnić, wypełniać - fa pul  
-wyrok - jude  
+wyrok - judaje  
 wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz) - fa vai  
 wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz) - excepe  
 wyrzutek - paraya  
 wyrzutnia rakietowa - rakete lanser  
 wysoki - gau di  
 wysokość - gauta  
-wyspa - nesi  
+wyspa - nese  
 Wyspa Man - Manin nesi  
 Wyspy Alandzkie - Olande nesi  
 Wyspy Cooka - Kuke nesi  
@@ -4464,7 +4516,7 @@ wysłać (wyemitować) - mise
 wytwórca łuków i strzał - flece ja  
 wyć - fa ulul  
 wyświetlać - fa lanse grafi  
-wyświetlać (rzut, projekcja) - jete grafi  
+wyświetlać (rzut, projekcja) - jete grafe  
 wzajemny - semen su  
 wzmacniać (wzmocnić) - dai gradu  
 wzmacniać się (wzmagać, pogłębiać się) - be teza  
@@ -4476,8 +4528,8 @@ wzrost - raste
 wzywać (wezwać, dodawać, dodać) - fa zai  
 wóz, wózek - car  
 wąchać - fa aroma  
-wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność - xaki  
-wątpliwy (niewiarygodny, podejrzany) - xakibil  
+wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność - xake  
+wątpliwy (niewiarygodny, podejrzany) - xakebil  
 wąż - serpe  
 węgiel - karbe  
 Węgry - Magyar  
@@ -4543,7 +4595,7 @@ zamknąć zamkiem błyskawicznym - zipe
 zapach (aromat, smród, odór) - aroma  
 zapakować, pakować - fa pake  
 zapalenie - tis  
-zapalenie nerek - nefre tis  
+zapalenie nerek - nefritis  
 zapalenie opon mózgowych - meninge tis  
 zapalenie pochwy - vagina tis  
 zapalenie ucha - ore tis  
@@ -4587,6 +4639,7 @@ zbierać opłaty lub podatki (zebrać opłaty lub podatki) - kape yo taxi
 zbiornik (cysterna, pojemnik, rezerwuar) - tanki  
 zbiorowy, zbiorczy - jamive  
 zbliżać się (zbliżyć się) - be karibu  
+zbliżać się (zbliżyć się) - aproxe  
 zbroja - defa kaska  
 zbudować, budować, konstruować - fa bina  
 zbyt - max ka bas  
@@ -4600,7 +4653,7 @@ zdrada małżeńska, cudzołóstwo - zina
 zdrowie - saluta  
 zdrowy - sale  
 zebra - zebra  
-zegar (zegarek) - hor loga gi  
+zegar (zegarek) - sah diker  
 zejść (schodzić, zstąpić, zstępować) - detrepe  
 zemleć (mleć, mielić) - fa mol  
 zero, nic, żaden - siro  
@@ -4725,7 +4778,7 @@ zły, zrujnowany, zepsuty - harabu
 środa - merkurden  
 środek - medi  
 środkowy, centralny - jong  
-środowiskowy, naturalny - eko di  
+środowiskowy, naturalny - ekal  
 śruba, wkręt - vita  
 świadomy; oświecony - budi di  
 świat - dunia  
@@ -4752,9 +4805,10 @@ zły, zrujnowany, zepsuty - harabu
 żegnaj, dobre odejście - sal cuti  
 żel, galareta - jele  
 żelazo - fero  
-żeń-szeń - jenxen  
+żeń-szeń - jensen  
 żołnierz - ordu jen  
 żołądź - baluta frute  
+żupan - juba  
 żwir - grave  
 życie organiczne - bier  
 żydowski - yehudi  

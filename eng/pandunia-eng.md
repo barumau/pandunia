@@ -115,9 +115,17 @@ alian - alien
 altre - alter  
 altrisme - altruism  
 Alaska - Alaska  
+alge - pain (distress, grief, woe)  
+• analgive - painkiller  
+• analgesia - algesia (sensitivity to pain)  
+• algesia - analgesia  
+algogenike - algogenic (inducing pain)  
+algike - painful  
+algometria - algometry (measurement of pain)  
 alga - alga  
 alga fungu - lichen  
 alga jangal - kelp forest  
+algalojia - algology  
 alkan - alkane  
 alken - alkene  
 alkil - alkyl  
@@ -142,6 +150,8 @@ alumin mate - alum
 alumin oxide - alumina (aluminum oxide)  
 ama - but (rather)  
 Amara - Amhara (an Ethiopian ethnic group and language)  
+Amazon - Amazon river  
+Amazonia - Amazonia  
 amen - trust (be sure of, have faith in)  
 amenbil - trustworthy (loyal, faithful)  
 amenbilta - loyalty (faithfulness)  
@@ -291,6 +301,7 @@ babu - chapter (section)
 babuce - slipper  
 babul - thorn tree (acacia, wattle)  
 baca - child (minor)  
+baceler - bachelor (bachelor’s degree)  
 badal - exchange (swap, replace, trade, switch)  
 badam - almond  
 badan - body  
@@ -665,13 +676,14 @@ cai vala - tea seller (chaiwallah)
 caku - knife  
 camaca - spoon  
 campion - champion  
-cana - moment (while)  
+cana - moment (instant, while)  
+canaike - momentary  
 canse - opportunity (chance)  
 cape - print (stamp)  
 capati - flatbread (chapati, roti)  
 car - car (cart, carriage, wagon, automobile)  
 car parke - car park (parking lot)  
-carme - charm (attraction)  
+carme - charm (fascination)  
 cati - roof  
 cau - grass  
 cau kitaba - grass script (calligraphic cursive writing)  
@@ -826,8 +838,8 @@ dava sui - potion
 dava xe - medicine (drug, medication)  
 dava xekan - drugstore (pharmacy)  
 dava xe lojia - pharmacology  
-de - of (attributive preposition)  
 de - from (since, because)  
+de - of (attributive preposition)  
 dee - god (deity)  
 deike - divine (godly)  
 deisme - theism  
@@ -898,6 +910,13 @@ dipe moka - bush (shrub)
 dipe tela - carpet (rug)  
 diske - disc (disk)  
 disprosium - dysprosium  
+dite - dictate  
+• kontredite - contradict   
+• predite - predict (foretell)  
+• predition - prediction  
+• ditater - dictator  
+• ditateria - dictatorship  
+• dition - saying (diction)  
 Divehi - Maldives  
 dobe - brick  
 doh - daughter  
@@ -946,7 +965,8 @@ dramater - actor (actress)
 dramatike - theatrical (dramatic)  
 dramatike ironia - dramatic irony  
 du - two (2)  
-du baxa di - bilingual  
+duajisme - dualism  
+dubaxike - bilingual  
 du grafi di - anaglyphic (stereoscopic)  
 du mar - twice  
 dume - second (2nd)  
@@ -956,7 +976,6 @@ du romanse di - biromantic
 du semi di - double entendre  
 du sexe di - bisexual  
 du soni di - stereophonic  
-du xe sim - dualism  
 dua - prayer  
 • dusdua - curse (damn, malediction)  
 dubnium - dubnium  
@@ -967,11 +986,11 @@ duke - receive (attend to, wait on)
 dukan - store (shop)  
 duku - grieve (be sad; grief, sorrow)  
 duku di - sad  
-duman - smoke  
-duna - dune  
+dum - smoke  
 dunia - world  
-dunia baxa - world language  
-dunia li - global  
+dunial - global  
+dunia baxe - world language  
+duna - dune  
 dura - duration (time interval)  
 • redura - continue (resume)  
 durabil - durable (endurable, sustainable)  
@@ -1009,10 +1028,10 @@ e - and
 eglisa - church  
 einsteinium - einsteinium  
 Eire - Ireland  
+ekal - environmental (natural)  
+ekia - environment (nature)  
 ekolojia - ecology (study of environment)  
-eko - environment (nature)  
-eko di - environmental (natural)  
-eko nati di - wild (savage)  
+ekonative - wild (savage)  
 Ekuador - Ecuador  
 elastike - elastic  
 eletre - electricity  
@@ -1173,7 +1192,6 @@ fa javabu - respond (give an answer)
 fa jela - imprison (jail)  
 fa jin - put forward (advance, progress)  
 fa jong - center (concentrate)  
-fa jude - judge  
 fa jui - warn (caution, alert)  
 fa juxa - inject  
 fa kai - open  
@@ -1403,6 +1421,7 @@ fenol - phenol
 • prefere - prefer (assess before)  
 • refere - refer (assign back to)  
 fere - deem (consider, regard, assign some quality to)  
+terife - terrify  
 fermium - fermium  
 fero - iron  
 feste - party (celebrate; celebration, festival)  
@@ -1752,6 +1771,8 @@ grimas - grimace
 grom - thunder (roaring)  
 grom tufan - thunderstorm  
 gros - thick  
+gros - rough (coarse, harsh)  
+gros limon - makrut lime (kaffir lime)  
 grosta - thickness  
 gros zi - bold letter  
 grupe - group  
@@ -1912,8 +1933,10 @@ hisabu loge - account
 hisabu lojia - mathematics (math)  
 hisabu lojiaja - mathematician  
 hisabu suta - arithmetics  
+histor - history (annals)  
 historer - historian  
-historia - history (annals)  
+historia - history (past times)  
+• prehistoria - prehistory  
 historolojia - history (study of history)  
 hiyar - cucumber  
 Ho Ci Min site - Ho Chi Minh City (Saigon)  
@@ -1934,13 +1957,14 @@ holografia - holography
 holia - wholeness (integrity)  
 holisme - holism  
 holiste - holistic (comprehensive, overall, pertaining to the whole)  
+holonam - holonym  
 holera - cholera  
 holmium - holmium  
 holo nume - integer (whole number)  
 Hong Gong - Hong Kong, SAR China  
-hor - hour  
-hor loga gi - clock (watch)  
-hor loga minar - clocktower  
+hore - shiver (creeps)  
+horife - horrify (give the creeps)  
+horure - horror  
 hormon - hormone  
 Horvatia - Croatia  
 hotel - hotel  
@@ -2084,8 +2108,8 @@ javabu - answer (reply, response)
 Jayer - Algeria  
 jaze - jazz  
 jebe - pocket  
-jebra - algebra  
-jebu caku - pocketknife  
+jebe caku - pocketknife  
+jebre - algebra  
 jeka - borrow (lend)  
 jeka don - lend  
 jeka loga - loanword  
@@ -2102,19 +2126,19 @@ jen di - personal (intimate, private, custom)
 jen jami - crowd  
 jenju - pearl  
 jenju table - abacus  
-jenxen - ginseng  
+jensen - ginseng  
 Jerze - Jersey  
 jete - thrust (throw, cast)  
 • exjete - eject (throw out)  
 • injete - inject (injection)  
 • projete - project (forecast, endeavour)  
 • rejete - reject (throw back)  
-jete grafi - project (cast; projection image)  
+jete grafe - project (cast; projection image)  
 Jibraltar - Gibraltar  
 Jibuti - Djibouti  
 jihade - struggle (strife)  
 jini - spirit (soul, vitality, life force)  
-jinji - ginger  
+jinje - ginger  
 jinse - gender (sex)  
 jinse di - sexual (pertaining to gender)  
 jinselogi - gender studies  
@@ -2130,11 +2154,13 @@ jong fon - vowel
 jong xulakan - secondary school  
 Jongoku - China  
 jovar - sorghum (durra, jawar, Indian millet)  
-juba - robe (jubbah)  
+juba - robe (tunica, gown, jubbah)  
+jude - judge  
+• prejude - prejudice  
+judaje - judgement (sentence)  
+juder - judge (referee)  
+judike - judicial  
 judau - judo  
-jude - judgement (sentence)  
-jude di - judicial  
-jude ja - judge (referee)  
 jui - care (caution, attention)  
 jui di - careful (cautious, attentive, alert, wary)  
 jui note - warning (advisory)  
@@ -2187,6 +2213,7 @@ kaju - cashew
 kaka - excrement (shit)  
 kakau - cocoa  
 kaki - persimmon (kaki)  
+kalium - potassium  
 kala - black  
 Kalal - Greenland  
 kalam - pen (writing tool)  
@@ -2195,7 +2222,6 @@ kalenda - calendar
 kali - base (alkali; alkaline)  
 kali di - alkaline  
 kali guste - bitter  
-kalium - potassium  
 kali melon - bitter melon  
 kali oranje - bitter orange  
 kalifornium - californium  
@@ -2285,7 +2311,6 @@ karbide - carbide
 karbe kalam - pencil  
 karbol - carbole (carbolic acid)  
 karboxil - carboxyle  
-karbe sui - carbohydrate (saccharide)  
 karbau - water buffalo  
 karcof - globe artichoke  
 kardon - thistle  
@@ -2294,19 +2319,15 @@ karga - charge (burden, load, weight)
 kargadan: - rhinoceros  
 kari - curry  
 Karibe - Caribbean  
-karibu - near (close, almost)  
-kaributa - proximity  
 karim - charity  
 karim di - charitable (gentle, kind)  
 karite - shea (vitellaria)  
 Karnada - Karnataka  
 karnada baxa - Kannada  
 karote - carrot  
-karse - rough (coarse)  
-karse limon - makrut lime (kaffir lime)  
-karta - map (chart)  
-karta grafi - cartography  
-karte - card  
+karte - map (chart, geographic map)  
+kartografia - cartography  
+karta - card  
 Kartul - Georgia (Republic of Georgia)  
 karuba - carob (St. John's bread)  
 karvan - caravan (convoy)  
@@ -2361,8 +2382,8 @@ kexa broxa - hairbrush
 kexa hin - hairless  
 kexa sabun - shampoo  
 keze - cheese  
-ki - which (who, that)  
 ki - that (conjunction)  
+ki - which (who, that)  
 kilogram - kilogram (kg)  
 kilomitre - kilometer (km)  
 kime - substance (physical material from which something is made)  
@@ -2436,6 +2457,7 @@ koloni sim - colonialism
 koloni sim ja - colonialist  
 kolum - pillar (column, pole, post)  
 komike - comic (funny)  
+komodia - comedy  
 koma - comma  
 Komoro nesi - Comoros  
 kompani - company (corporation)  
@@ -2492,6 +2514,10 @@ krabe - crab
 krake - crack (rift)  
 kran - valve (tap, faucet)  
 krati - rule (reign, government, -ocracy, -archy)  
+kree - create  
+kreater - creator  
+kreatia - creation (all which exists)  
+kreative - creative  
 kredi - believe (trust, credit, rely on)  
 • ankredi - distrust (disbelieve)  
 • ankredibil - incredible (unbelievable)  
@@ -2510,6 +2536,11 @@ krepekan - pancake house (crêperie)
 krikete - cricket (sport)  
 krim - crime  
 krim di - criminal  
+• antikriste - antichrist  
+kriste - Christ  
+kristogene - Christmas  
+kristisme - Christianity  
+krististe - Christian  
 krita - cry (shout)  
 kriton - krypton  
 krizi - crisis  
@@ -2550,9 +2581,9 @@ kupa - drinking vessel (cup, glass, mug, goblet, chalice)
 kupa cati - dome  
 kupon - coupon  
 kupre - copper  
+kurium - curium  
 kuran - Quran (Koran)  
 kurban - sacrifice (offer)  
-kurium - curium  
 kurse - go (going; course)  
 • exkurse - excursion  
 • prekurse - go or come before  
@@ -2760,6 +2791,7 @@ ma di - motherly (maternal)
 ma ma - maternal grandmother  
 ma pa - maternal grandfather  
 ma sis - maternal aunt  
+matria - motherland  
 Madagasi - Madagascar  
 madagasi di - Malagasy  
 maf - pardon (forgiveness; sorry)  
@@ -2923,8 +2955,8 @@ meninge tis - meningitis
 • demente - demented (out of one’s mind)  
 mente - mind (ability for consciousness, perception and thinking)  
 mentor - advisor (counselor, mentor)  
-mer - belong (be a member)  
 mer - member (part of a group, component)  
+meronam - meronym  
 meranti - lauan tree (meranti, balau)  
 Merkur - Mercury  
 merkurden - Wednesday  
@@ -2941,12 +2973,8 @@ mes nelu - April
 mes tisa - September  
 mes tri - March  
 mes un - January  
-mesi - Christ (messiah)  
-• anmesi - antichrist  
+mesi - messiah  
 mesi di - messianic  
-mesi din - Christianity  
-mesi din ja - Christian  
-mesi gene - Christmas  
 metan - methane  
 metanol - methanol  
 metil - methyl  
@@ -3169,20 +3197,22 @@ nau di - cerebral
 nau hin - brainless  
 Nauru - Nauru  
 nautile - nautilus  
-nave trepe - gangway (ramp)  
-nava - Nahuatl (Nahua)  
 nave - boat (ship)  
+nave trepe - gangway (ramp)  
+nave xefe - captain  
+nava - Nahuatl (Nahua)  
 nave dex - starboard (right side of a ship)  
 nave ga - sail  
 nave ga ja - sailer  
 nave kape ja - privateer (buccaneer)  
 nave leu - port (left side of a ship)  
-nave xefe - captain  
 ne - right? (isn't it?)  
 Nederlande - Netherlands  
 Nederlande Antil - Netherlands Antilles  
 nefre - kidney  
-nefre tis - nephritis  
+nefralgia - nephralgia (pain of the kidneys)  
+nefrextomia - nefrectomy  
+nefritis - nephritis  
 nefte - oil  
 nefte guku - Indian chrysanthemum  
 nega - refuse (deny, decline)  
@@ -3203,18 +3233,16 @@ neon - neon
 Nepal - Nepal  
 Neputun - Neptune  
 neputunium - neptunium  
-nerve - nerve  
-nerve di - neural  
-nerve pati - neuropathy  
-nerve selu - neuron  
-nerve toxi - neurotoxin  
-nesi - island  
+nese - island  
 nesia - archipelago (island chain)  
-nete - net (web, mesh)  
+• konnete - connect  
+• dekonnete - disconnect  
+• konneter - connector  
+• konnetion - connection  
 nete - nexus (web, network)  
+nete loke - website  
 nete don - upload  
 nete gete - download  
-nete loka - website  
 neu - novelty (new product)  
 neu di - new (recent)  
 neu fito - neophyte plant  
@@ -3227,6 +3255,13 @@ neu yang di - modern
 neu Yorke - New York  
 neu Yorke siti - New York City  
 neu Zelande - New Zealand  
+neure - nerve  
+neural - neural  
+neuralgia - neuralgia (nerve pain)  
+neuritis - neuritis (inflammantion of nerves)  
+neuron - neuron  
+neuropatia - neuropathy  
+neurotoxe - neurotoxin  
 Nevis - Nevis  
 ni - female  
 ni per (fem) - wife  
@@ -3280,7 +3315,7 @@ norma di - normal
 nos - nose  
 nos di - nasal  
 nostalgia - nostalgia (longing)  
-nostalgia di - nostalgic  
+nostalgike - nostalgic  
 note - note (observe, notice)  
 note anjil - notice (notification)  
 note buku - notebook  
@@ -3293,11 +3328,12 @@ nuka - neck (nape)
 numerike - digital (relating to numbers)  
 nume - number  
 nume zi - digit (figure, numeral)  
+o - or  
 
 ## O  
 
-o - or  
 Oberon - Oberon  
+ode - ode (verse)  
 Odisa - Odia (Oriya)  
 oganeson - oganesson  
 ohtopus - octopus  
@@ -3330,14 +3366,21 @@ oselote - ocelot
 osidian - obsidian  
 oskope - scope (viewer)  
 oskur - dark (dim)  
+osmium - osmium  
 osman - Ottoman  
 Osman Imperi Dexa - Ottoman Empire  
-osmium - osmium  
 osmos - osmosis  
 oste - bone  
 oste jama - skeleton (frame)  
 oste xalke - scute  
 Ostria - Austria  
+ote - opt (prefer, choose)  
+otime - optimum  
+otimal - optimal  
+otimisme - optimism  
+otimiste - optimist  
+otion - option (preference)  
+otional - optional  
 oxe - oxygen  
 oxide - oxide  
 
@@ -3349,6 +3392,15 @@ pa di - fatherly (paternal)
 pa ma - paternal grandmother  
 pa pa - paternal grandfather  
 pa sis - paternal aunt  
+patria - fatherland  
+• konpatrian - compatriot (fellow citizen)  
+• repatriate - repatriate  
+pace - peace  
+• anpace - unrest  
+Pace Bahai - Pacific Ocean  
+pace bahai bakalau - Pacific cod  
+pacisme - pacifism  
+paciste - pacifist  
 paci - bird  
 paci lojia - ornithology (birdlore)  
 pada - fall  
@@ -3358,6 +3410,7 @@ pada mun - trapdoor
 pagri - turban  
 pai - pie (pastry)  
 pake - pack (package)  
+• depake - unpack  
 pakaje - package  
 pakete - packet  
 paka - coercion (force, compulsion)  
@@ -3405,9 +3458,9 @@ par fase - level
 par jen - peer  
 parta - equality (parity)  
 par vezeta - equilibrium (balance)  
+paranam - paronym  
 Paraguai - Paraguay  
 paraya - outcast (pariah)  
-parce - piece (fragment, shred, morsel, crumb, shard)  
 parce di - broken (shattered)  
 parce dipe - collapse  
 parce kai - burst (pop)  
@@ -3419,23 +3472,18 @@ Paris - Paris
 parke - park (garden)  
 parne - fern  
 parsi - Persia (Persian; Farsi)  
-parti - party (group)  
-parti cepe - participate (attend, partake, take part)  
-parti ceper - participant  
-parti jen - partner  
+parte - piece (chip, fragment, shred, morsel, crumb, shard)  
+partaner - partner  
+partaneria - partnership  
+partative - partitive case  
+partecepe - participate (attend, partake, take part)  
+parteceper - participant  
+partia - party (faction, side)  
 pas - pass (go across or through, skip)  
 pas dau - pass (passage)  
 pas di - past (bygone)  
 pas loga - password  
 pas tabi - passive (inactive)  
-pase - peace  
-• anpase - unrest  
-Pase Bahai - Pacific Ocean  
-pase bahai bakalau - Pacific cod  
-pase sim - pacifism  
-pase sim ja - pacifist  
-pasi - pain (suffering)  
-pasi di - painful  
 paska - Easter  
 paskal - pascal (Pa)  
 pasporte - passport  
@@ -3671,6 +3719,9 @@ profesor - professor
 Promete - Prometheus  
 prometium - promethium  
 protacinium - protactinium  
+proxe - close (near)  
+• aproxe - approach (get close, approximate)  
+proxia - proximity  
 puding - pudding  
 puja - worship (adore; reveration, veneration)  
 pujakan - temple (shrine, place of worship)  
@@ -3709,8 +3760,8 @@ Qazaqe - Kazakhstan
 
 ## R  
 
-radi - ray (radiation)  
 radium - radium  
+radi - ray (radiation)  
 radi longta - radius  
 radi metri gi - radiometer  
 radio - radio  
@@ -3810,9 +3861,9 @@ rota leu - counterclockwise (anticlockwise)
 rota tufan - cyclone (hurrican, tornado, typhoon)  
 rota vanu gi - top (spinning top)  
 Ruanda - Rwanda  
+rubium - rubidium  
 rubi - red  
 rubi bau seku - ruby  
-rubium - rubidium  
 rubi linse - bobcat  
 rubi oranje - mandarin orange (tangerine)  
 rubi salmon - sockeye salmon  
@@ -3856,6 +3907,9 @@ safarer - traveler
 safran - saffron  
 sagu - sago palm  
 sagu fun - sago  
+sah - hour (sixty minutes)  
+sah diker - clock (watch)  
+sah tore - clocktower  
 Sahara Dexa - Sahrawi Arab Democratic Republic  
 sahi - right (correct, accurate)  
 saide - hunting (fishing)  
@@ -3928,10 +3982,7 @@ sanzi - fan (ventilator)
 sapatu - shoe  
 sapatu ja - shoemaker  
 sapatukan - shoemaker's shop  
-sata - moment (instant)  
-sata di - momentary  
-sata don - dedicate (devote)  
-sata don ta - dedication (devotion)  
+sari - sari  
 sau - sibling (brother or sister)  
 sau ben - nephew or niece  
 sau doh - niece  
@@ -4206,11 +4257,11 @@ taiga - taiga
 tail - tile  
 Taivan - Taiwan (Republic of China)  
 Tajiki - Tajikistan  
+talium - thallium  
 tala - lock (fastener)  
 • detala - unlock  
 • detala di - unlocked  
 tala di - locked (secure)  
-talium - thallium  
 tamar - date fruit  
 tami - greedy  
 Tamil - Tamil  
@@ -4265,22 +4316,24 @@ tene - hold (grasp, detain)
 • retene - retain (hold back)  
 • sutene - sustain  
 • sutener - souteneur (pimp)  
-Tenesi - Tennessee  
 tenesium - tennessine  
+Tenesi - Tennessee  
 tenis - tennis  
 tense - tight (tense)  
 tenseta - tension  
 tenta - tempt (entice)  
 teori - theory  
 tepe - tape  
+tere - fear (fright, terror)  
+• detere - deter (scare away)  
+terure - terror  
+terurisme - terrorism  
+teruriste - terrorist  
 tera - tera-  
 terbium - terbium  
 terca - oblique (askew, tilted)  
 termo - temperature  
 termo metri gi - thermometer  
-teror - terror  
-teror sim - terrorism  
-teror sim ja - terrorist  
 tesla - tesla (T)  
 teste - try (attempt)  
 teste - test (challenge, trial)  
@@ -4323,23 +4376,23 @@ tocu - touch
 tocu sense - feel (sense by touch)  
 Togo - Togo  
 Tokyo - Tokyo  
-tolera - tolerate  
+tole - tolerate (bear, endure, stand, put up with)  
+tolerate - tolerate (bear, endure, stand, put up with)  
+tome - split (dissect)  
+• antomebil - indivisible  
+• biotomia - vivisection  
+• dutomia - dichotomy  
+• tritomia - trichotomy  
+• tomografe - tomogram  
+• tomografia - tomography  
 tomate - tomato  
-tomi - split (dissect)  
-• antomibil - indivisible  
-• dutomi - dichotomy  
-• jivatomi - vivisection  
-• tritomi - trichotomy  
-• tomi grafi - tomogram  
-• tomi grafi - tomography  
 ton - tone (note, pitch, shade)  
 tong - barrel (can, cask)  
 Tonga - Tonga  
-topo - region (tract, land, ground)  
-topo grafi - topography  
-topo metri grafi - map (chart, geographic map)  
-torium - thorium  
+tope - region (tract, land, ground)  
+topografia - topography  
 tore - tower  
+torium - thorium  
 torso - trunk (torso)  
 tortuga - turtle (tortoise)  
 toxe - poison (venom)  
@@ -4351,6 +4404,7 @@ tralongta - diameter
 trapas - transit (transport, passage)  
 tragike - sad (tragic)  
 tragokomike - tragicomic  
+tragodia - tragedy  
 Transe Nistre Dexa - Transnistria  
 • antranse vide di - opaque  
 transe vide di - transparent (see-through, clear)  
@@ -4562,13 +4616,13 @@ vide - look (see)
 • previde - expect (anticipate, predict, forsee)  
 • anprevide di - unexpected  
 • previde di - expected  
+vidaje - view (vision)  
 vide ja - spectator (sightseer, observer)  
 vide medan - visual field (field of vision)  
 vide punte - perspective (point of view)  
-vide xe - view (vision)  
-vidou - widow  
+vidua - widow  
 Viete - Viet Nam  
-viete baxa - Vietnamese language (Viet)  
+viete baxe - Vietnamese language (Viet)  
 vijin - MSG (monosodium glutamate)  
 viki - wiki  
 viki makala - wiki article  
@@ -4600,12 +4654,12 @@ viza - visa
 vo - that over there  
 vode - promise (vow, oath)  
 vodun - voodoo  
-voka - call (voice; summon)  
-• exvoka - evoke (call out)  
-• invoka - invoke  
-• provoka - provoke  
-• revoka - revoke (call back)  
-voka soni - vowel  
+voke - call (voice; summon)  
+• exvoke - evoke (call out)  
+• invoke - invoke  
+• provoke - provoke  
+• revoke - revoke (call back)  
+vokal fone - vowel  
 voku - happen (occur; happening, event, occurence)  
 vol - want (desire, wish)  
 vol xe - want (desire, wish)  
@@ -4614,7 +4668,7 @@ volfram - tungsten (wolfram)
 Volof - Wolof (language and people)  
 volta - volt (V)  
 vote - vote (ballot)  
-vote haki - franchise (right to vote)  
+vote hake - franchise (right to vote)  
 vuki - weapon (arms)  
 vuki ordu - armed forces (army)  
 vulva - vulva  
@@ -4625,21 +4679,22 @@ vutu - object (item, thing)
 xa - auxiliary verb that marks future tense (will, shall)  
 xah geme - chess  
 xah mata - checkmate  
+xake - suspect (doubt; suspicion)  
+• prexake - preconception (bias)  
+xakebil - dubious (suspicious)  
+xakive - doubtful (suspicious, disbelieving)  
 xaka - branch (bough, limb, arm)  
 xakal - jackal  
-xaki - doubt (suspect; suspicion)  
-xakibil - dubious (suspicious, unbelievable)  
-xakija - doubtful (suspicious, disbelieving)  
 xal - scarf (shawl)  
 xam - evening  
 xam dia - afternoon  
 xam yam - dinner  
 xaman - shaman  
-xampan - Champagne  
+Xampan - Champagne  
 xampan vin - champagne  
 xan - mountain (hill)  
 xan pike - top (peak, pinnacle, summit, apex, vertex)  
-xanghai - Shanghai  
+Xanghai - Shanghai  
 Xani - Saturn  
 xaniden - Saturday  
 xanti - rest (relief, repose)  
@@ -4650,11 +4705,10 @@ xarakan - sawmill
 xarma - shame (disgrace)  
 xarnir - hinge (pivot)  
 xarti - condition (requirement)  
-xatan - oppose (antagonize, object, resist)  
-xatan di - devilish (satanic)  
-xatan din - Satanism (devil worship)  
-xatan din ja - Satanist  
-xatan ja - devil (Satan)  
+xatan - devil (Satan)  
+xatanike - devilish (satanic)  
+xatanisme - Satanism (devil worship)  
+xataniste - Satanist  
 xava - roast  
 xava pang - toast (toasted bread)  
 xaxa - rustle  

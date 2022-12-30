@@ -33,6 +33,8 @@ ais krem - 冰淇淋
 akare - 蜱 (螨)  
 akrabe - 蝎子 (天蝎座)  
 ale - 另一  
+alge - 疼痛  
+• analgive - 止痛药  
 alga - 藻类  
 alga fungu - 地衣  
 alga jangal - 海藻林  
@@ -283,7 +285,7 @@ caikan - 茶馆
 cai kupa - 茶碗  
 cai pote - 茶壶  
 camaca - 匙子  
-cana - 刹那  
+cana - 时刻 (瞬间, 刹那)  
 cati - 屋顶 (房顶)  
 cau kitaba - 草书  
 cau medan - 草地  
@@ -376,6 +378,9 @@ dipe - 低
 dipe moka - 灌木  
 diske - 圆盘  
 disprosium - 镝  
+• ditater - 独裁者  
+• ditateria - 独裁  
+• dition - 吐字  
 dobe - 砖  
 doh - 女儿  
 doh doh - 外孙女  
@@ -391,11 +396,13 @@ dosil - 驯服的
 dosti - 朋友 (友人)  
 drame - 戏剧  
 du - 二 (2)  
+dubaxike - 会双语的  
 dua - 祈祷  
 • dusdua - 诅咒  
 dudu - 昆虫  
 dugu - 读 (看)  
 dukan - 商店 (店铺)  
+dum - 烟  
 dunia - 世界  
 dura - 时间  
 durabil - 耐用的  
@@ -624,6 +631,8 @@ grave - 砾石
 • agrese - 攻击  
 • agreser - 侵略者  
 grimas - 鬼脸  
+gros - 粗糙  
+gros limon - 箭叶橙  
 guai - 奇怪  
 Guangjou - 广州  
 gubu - 河马  
@@ -698,9 +707,9 @@ hogo tehni - 烟火
 hogo xan - 火山  
 hoki - 曲棍球  
 holiste - 全面的 (全方位的)  
+holonam - 整体词  
 holmium - 钬  
-hor - 小时  
-hor loga gi - 钟  
+horure - 恐怖  
 hotel - 旅馆  
 hua - 花  
 hua jara - 花瓶  
@@ -746,7 +755,8 @@ jaru - 扫帚
 jau - 大麦  
 javabu - 回答  
 jebe - 口袋 (荷包)  
-jebu caku - 小刀  
+jebe caku - 小刀  
+jebre - 代数  
 jeka - 借  
 jeka don - 借出  
 jeka na - 借入  
@@ -755,8 +765,9 @@ jen - 人
 jen bahai - 人海  
 jen jami - 人群  
 jenju table - 算盘  
-jete grafi - 投射 (投影)  
-jinji - 姜  
+jensen - 人蔘   
+jete grafe - 投射 (投影)  
+jinje - 姜  
 jinse - 性别  
 jinselogi - 性别研究  
 jirafa - 长颈鹿  
@@ -767,6 +778,8 @@ jong xulakan - 中学
 Jongoku - 中国  
 jovar - 高粱  
 juba - 长袍  
+• prejude - 偏见  
+judau - 柔道  
 jui - 注意 (谨慎)  
 jui di - 谨慎的  
 jui note - 警告  
@@ -797,13 +810,13 @@ kaguji - 纸
 kaguji limon - 墨西哥萊檬  
 kaju - 腰果树  
 kaki - 柿子  
+kalium - 钾  
 kala - 黑色  
 kalam - 笔  
 kalam sui - 墨水  
 kalenda - 日历  
 kali - 碱性  
 kali guste - 苦的  
-kalium - 钾  
 kali melon - 苦瓜  
 kalifornium - 锎  
 kalmar - 鱿鱼  
@@ -854,11 +867,9 @@ karga - 擔子
 kargadan: - 犀牛  
 kari - 咖喱  
 karote - 红萝卜  
-karse - 粗糙  
-karse limon - 箭叶橙  
-karta - 地图  
-karta grafi - 地图学  
-karte - 牌  
+karte - 地图  
+kartografia - 地图学  
+karta - 牌  
 kaska - 壳 (皮)  
 katus - 仙人掌  
 kauri - 宝贝  
@@ -898,6 +909,7 @@ koala - 樹袋熊 (考拉)
 kobalte - 钴  
 koda - 尾巴 (尾部)  
 kolum - 柱子   
+komodia - 喜剧  
 koma - 逗号  
 kon - 共  
 kon bon - 相配  
@@ -921,6 +933,8 @@ kosmo nave - 太空船
 kosmo nave ja - 太空人  
 kotumbar - 香菜 (芫荽)  
 krake - 裂缝 (缝隙)  
+kreater - 创作者  
+kreatia - 万物  
 kredi - 信赖  
 • ankredija - 不信神的  
 • bekredibil - 忠实  
@@ -944,8 +958,8 @@ kuku - 布谷鸟 (杜鹃)
 kulture - 文化  
 kupa - 杯子  
 kupre - 铜  
-kurban - 牺牲  
 kurium - 锔  
+kurban - 牺牲  
 
 ## L  
 
@@ -1094,6 +1108,7 @@ memo - 记忆 (记性)
 • anmemo - 忘记  
 mendelevium - 钔  
 meninge - 脑脊膜  
+meronam - 分体词  
 meranti - 娑羅屬  
 merkurden - 星期三 (禮拜三)  
 metan - 甲烷  
@@ -1190,6 +1205,7 @@ nave dex - 右舷
 nave leu - 左舷  
 ne - 呢  
 nefre - 肾脏  
+nefritis - 肾炎  
 nefte - 油  
 nefte guku - 野菊花  
 nekro - 尸体  
@@ -1201,12 +1217,17 @@ nen mes den - 年月日
 neodimium - 钕  
 neon - 氖  
 neputunium - 镎  
-nerve toxi - 神经毒素  
-nesi - 岛  
+nese - 岛  
+• konnete - 连接  
+• konneter - 连接器  
 neu di - 新  
 neu jen - 新手  
 neu loga - 新词  
 neu nati di - 新生  
+neure - 神经  
+neuralgia - 神经痛  
+neuron - 神经细胞  
+neurotoxe - 神经毒素  
 ni - 女  
 nia - 意图  
 nice kitaba - 字幕  
@@ -1236,10 +1257,11 @@ nuka - 颈
 numerike - 数字的  
 nume - 数  
 nume zi - 数字  
+o - 或  
 
 ## O  
 
-o - 或  
+ode - 頌  
 ohtopus - 章鱼  
 onda - 波浪  
 oranje - 橙子  
@@ -1265,6 +1287,9 @@ pa - 爸爸
 pa ma - 奶奶 (祖母)  
 pa pa - 爷爷 (祖父)  
 pa sis - 姑  
+pace - 和平  
+pacisme - 和平主义  
+paciste - 和平主义者  
 paci - 鸟 (雀)  
 paci lojia - 鸟类学  
 pagri - 包头  
@@ -1287,13 +1312,9 @@ pari dexa - 仙境
 pari kata - 童话  
 parke - 园  
 parne - 蕨  
-parti jen - 伙伴  
+partaner - 伙伴  
 pas - 過  
 pas loga - 密码  
-pase - 和平  
-pase sim - 和平主义  
-pase sim ja - 和平主义者  
-pasi - 疼痛  
 pasporte - 护照  
 pasta petra - 岩漿  
 patogener - 病原体  
@@ -1415,9 +1436,9 @@ rote - 轮子
 rota leu - 反时针方向的  
 rota tufan - 飓风 (台风)  
 rota vanu gi - 陀螺  
+rubium - 铷  
 rubi - 红  
 rubi bau seku - 红宝石  
-rubium - 铷  
 rubi linse - 短尾貓  
 rubi oranje - 柑橘 (红橘)  
 rubi salmon - 紅鮭  
@@ -1434,6 +1455,8 @@ saf - 干净
 safar - 旅行  
 safar ceke - 旅行支票  
 sagu - 西谷米  
+sah - 小时  
+sah diker - 钟  
 sahi - 正确  
 saide - 狩猎  
 saide ja - 狩人  
@@ -1461,7 +1484,7 @@ sanduice - 三明治 (三文治)
 sante kanon - 圣经  
 sanzi - 扇子  
 sapatu - 鞋  
-sata - 时刻 (瞬间)  
+sari - 莎丽  
 sau - 兄弟姐妹 (xiōngdì jiěmèi)  
 saur - 蜥蜴  
 se di - 自私  
@@ -1555,8 +1578,8 @@ suta - 技术
 tabi - 特性 (生性)  
 table komputa - 平板电脑  
 tail - 砖 (瓦)  
-tala - 锁  
 talium - 铊  
+tala - 锁  
 tami - 贪婪的  
 tana - 茎 (梗)  
 tantalium - 钽  
@@ -1579,9 +1602,9 @@ teleskope - 望远镜
 telurium - 碲  
 tema - 主题目  
 tema nam - 标题  
+terurisme - 恐怖行为  
 terbium - 铽  
 terca - 斜的  
-teror sim - 恐怖行为  
 teze - 论据  
 tikete - 票  
 tim - 队  
@@ -1598,13 +1621,15 @@ tixta - 沉默
 to - 到  
 to misal - 比如  
 tocu - 接触  
+tole - 忍受  
+tolerate - 忍受  
+• biotomia - 活体解剖  
 tomate - 西红柿  
-• jivatomi - 活体解剖  
-topo grafi - 地形  
-topo metri grafi - 地图  
-torium - 钍  
+topografia - 地形  
 tore - 塔 (塔楼)  
+torium - 钍  
 toxolojia - 毒物学  
+tragodia - 悲剧  
 transe vide di - 透明的  
 trate - 拖  
 trater - 拖拉机 (铁牛)  
@@ -1681,7 +1706,7 @@ veranda - 阳台
 vespa - 蜂  
 veze di - 重型的  
 vide - 看  
-vidou - 寡妇  
+vidua - 寡妇  
 vijin - 味精  
 virge - 处女  
 vise kitaba - 重写  
@@ -1701,15 +1726,16 @@ vutu - 物体 (物品)
 ## X  
 
 xah mata - 将死  
+xake - 怀疑 (疑惑)  
+• prexake - 成见  
 xakal - 胡狼  
-xaki - 怀疑 (疑惑)  
 xam - 晚上  
-xanghai - 上海  
+Xanghai - 上海  
 Xani - 土星  
 xaniden - 星期六 (礼拜六)  
 xara - 锯子  
 xarafun - 锯末  
-xatan ja - 撒但  
+xatan - 撒但  
 xava - 烧 (烧烤)  
 xayu - 鲨鱼  
 xe - 事物 (东西)  

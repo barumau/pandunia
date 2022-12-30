@@ -58,6 +58,7 @@ alo nam - tio estas (alivorte)
 alo sexe di - samseksema  
 alumin - aluminio  
 ama - sed  
+Amazon - Amazono  
 Amerike - Ameriko  
 Amerikan - amerika  
 amerikium - americio  
@@ -133,6 +134,7 @@ ayo - aj (alas)
 babu - ĉapitro  
 babuce - pantoflo  
 baca - infano  
+baceler - kandidaatti (tutkinto)  
 badal - interŝanĝi  
 badan - korpo  
 badan di - korpa  
@@ -334,9 +336,12 @@ cai pote - teujo
 caku - tranĉilo  
 camaca - kulero  
 campion - ĉampiono  
+cana - momento  
+canaike - momenta  
 canse - ŝanco  
 cape - presaĵo  
 car - aŭto (ĉaro)  
+carme - ĉarmo  
 cati - tekto  
 cau - herbo  
 cavi - ŝlosilo  
@@ -410,8 +415,8 @@ data table - tabelo
 dau - vojo  
 dava - sanigi (kuraci)  
 dava ja - kuracisto  
-de - de (partiklo de posedo)  
 de - de (el, pro)  
+de - de (partiklo de posedo)  
 dee - dio  
 deike - dia  
 • andeiste - ateisto  
@@ -453,6 +458,8 @@ dingi - najlo
 dino saur - dinosaŭro  
 diske - disko  
 disprosium - disprozio  
+• ditater - diktatoro  
+• ditateria - diktaturo  
 doh - filino  
 dokumen - dokumento  
 dokumen filme - dokumentfilmo  
@@ -480,7 +487,7 @@ drame - dramo
 dramate - ludi rolon  
 dramater - aktoro (aktorino)  
 du - du (2)  
-du baxa di - dulingva  
+dubaxike - dulingva  
 dume - dua  
 dua - preĝo  
 dubnium - dubnio  
@@ -490,10 +497,10 @@ panduke - taverno
 dukan - vendejo  
 duku - malĝojo  
 duku di - malĝoja  
-duman - fumo  
+dum - fumo  
 dunia - mondo  
-dunia baxa - mondlingvo  
-dunia li - tera  
+dunial - tera  
+dunia baxe - mondlingvo  
 dura - daŭro  
 dus jen - malamiko  
 dus vide - malbonaspekta  
@@ -504,7 +511,7 @@ dux - duŝo
 e - kaj  
 eglisa - preĝejo  
 einsteinium - ejnŝtejnio  
-eko - naturo  
+ekia - naturo  
 Ekuador - Ekvadoro  
 eletre - elektro  
 eletrike - elektra  
@@ -886,8 +893,8 @@ hisabu - kalkulo
 hisabu loge - konto  
 hisabu lojia - matematiko  
 hisabu lojiaja - matematikisto  
+histor - historio  
 historer - historiisto  
-historia - historio  
 historolojia - historio (studo de historio)  
 hiyar - kukumo  
 hobi - hobio  
@@ -898,8 +905,6 @@ hoki - hokeo
 holografe - hologrammi (kokokuva)  
 holografia - holografia  
 holmium - holmio  
-hor - horo  
-hor loga gi - horloĝo  
 hormon - hormono  
 Horvatia - Kroatio  
 hotel - hotelo  
@@ -973,6 +978,7 @@ jaru - balailo
 jau - hordeo  
 javabu - respondo  
 jebe - poŝo  
+jebre - algebro  
 jelakan - malliberejo  
 jele - ĝelo  
 jen - persono  
@@ -980,7 +986,7 @@ jen bahai - amasego da homoj
 jen jami - amaso da homoj  
 jenju - perlo  
 jenju table - bidkalkulilo (abako)  
-jinji - zingibro  
+jinje - zingibro  
 jinse - sekso  
 jinse di - seksa  
 jirafa - ĝirafo  
@@ -991,9 +997,11 @@ jong fon - vokalo
 jong xulakan - gimnazio  
 Jongoku - Ĉinio  
 juba - robo  
+jude - juĝi  
+• prejude - angaŭjuĝo  
+judaje - juĝo  
+juder - juĝisto  
 judau - ĵudo  
-jude - juĝo  
-jude ja - juĝisto  
 jul - ĵulo (J)  
 jun - juna  
 jun fem - knabino  
@@ -1022,6 +1030,7 @@ kaju - akaĵuo
 kaka - feko  
 kakau - kakao  
 kaki - persimono  
+kalium - kalio  
 kala - nigra  
 kalam - plumo  
 kalam sui - inko  
@@ -1029,7 +1038,6 @@ kalenda - kalendaro
 kali - alkala  
 kali di - alkaleca  
 kali guste - amara  
-kalium - kalio  
 kalifornium - kaliforniumo  
 kalside - kalko  
 kalsite - kalcito  
@@ -1074,10 +1082,9 @@ karbe kalam - krajono
 kargadan: - rinocero  
 kari - kareo  
 Karibe - Karibio  
-karibu - proksima  
 karote - karoto  
-karta - mapo  
-karte - karto  
+karte - mapo  
+karta - karto  
 karvan - karavano  
 kastana - kaŝtano  
 kata - rakonto  
@@ -1137,6 +1144,7 @@ koda - vosto
 kode - kodo  
 koko - koko  
 kolum - kolono  
+komodia - komedio  
 koma - komo  
 kompani - kompanio (firmao)  
 kon - kun (kuna, komuna)  
@@ -1169,6 +1177,9 @@ kotumbar - koriandro
 krabe - krabo  
 kran - krano (valvo)  
 krati - regi  
+kree - krei  
+kreater - kreinto  
+kreative - kreema  
 kredi - kreda  
 • ankredija - malkredulo  
 kredija - kredulo  
@@ -1179,6 +1190,8 @@ krepekan - krepejo
 krikete - kriketo  
 krim - krimo  
 krim di - krima  
+kriste - kristo  
+kristogene - kristnasko  
 kriton - kriptono  
 krizi - krizo  
 kromium - kromo  
@@ -1192,8 +1205,8 @@ kulture - kulturo
 Kung Fuzi - Konfuceo  
 kupa - taso  
 kupre - kupro  
-kurban - ofero  
 kurium - kuriumo  
+kurban - ofero  
 kursi - seĝo  
 kurta - robo  
 kurva - kurbo  
@@ -1340,8 +1353,6 @@ meranti - ŝoreo
 Merkur - Merkuro  
 merkurden - merredo  
 mes - monato  
-mesi - kristo  
-mesi gene - kristnasko  
 metal - metalo  
 metal lin - drato  
 metri - mezuri  
@@ -1446,8 +1457,8 @@ natri - natrio
 nau - cerbo  
 nau di - cerba  
 nau hin - sencerba  
-nava - naūatla  
 nave - boato (ŝipo)  
+nava - naūatla  
 nave dex - tribordo  
 nave ga - boatumi  
 nave leu - babordo  
@@ -1461,17 +1472,16 @@ neon - neono
 Nepal - Nepalo  
 Neputun - Neptuno  
 neputunium - neptunio  
-nerve - nervo  
-nerve di - nerva  
-nerve selu - neŭrono  
-nesi - insulo  
-nete - reto  
+nese - insulo  
 neu - novaĵo  
 neu di - nova  
 neu jen - novulo  
 neu loga - neologismo  
 neu nati di - novnaskita  
 neuta - noveco  
+neure - nervo  
+neural - nerva  
+neuron - neŭrono  
 ni - ino  
 nia - celo  
 Nijer - Niĝero  
@@ -1502,10 +1512,10 @@ note buku - kajero
 note xe - noto (rimarko, komento)  
 nu - nu  
 nume - nombro  
+o - aŭ  
 
 ## O  
 
-o - aŭ  
 oganeson - oganesono  
 okebil - akceptebla  
 onda - ondo  
@@ -1525,12 +1535,19 @@ Oseania - Oceanio
 osmium - osmio  
 osmos - osmozo  
 oste - osto  
+ote - preferi  
 oxe - oksigeno  
 oxide - oksido  
 
 ## P  
 
 pa - patro  
+patria - patrujo  
+• konpatrian - samlandano  
+pace - paco  
+• anpace - malpaco  
+pacisme - pacifismo  
+paciste - pacifisto  
 paci - birdo  
 paci lojia - ornitologio  
 pada mosim - aŭtuno  
@@ -1555,20 +1572,17 @@ papagai - papago
 papaya - papajo  
 par fase - nivelo  
 par vezeta - ekvilibro  
-parce - ero  
+paranam - paronimo  
 parde - kurteno  
 pari - feo  
 pari kata - fabelo  
 parke - parko (ĝardeno)  
 parsi - persa  
-parti - partio  
-parti cepe - partopreni  
+parte - ero  
+partecepe - partopreni  
+partia - partio  
 pas - pasi  
 pas di - pasinta  
-pase - paco  
-• anpase - malpaco  
-pase sim - pacifismo  
-pase sim ja - pacifisto  
 pasporte - pasporto  
 patike - malsana  
 patekan - malsanulejo  
@@ -1659,6 +1673,7 @@ problem - problemo
 profesor - profesoro  
 prometium - prometio  
 protacinium - protaktinio  
+proxe - proksima  
 pujakan - templo  
 puja meza - altaro  
 pul - plena  
@@ -1713,9 +1728,9 @@ rose - roso
 rote - rado  
 rota leu - maldekstrume  
 rota tufan - uragano (tajfuno)  
+rubium - rubidio  
 rubi - ruĝa  
 rubi bau seku - rubeno  
-rubium - rubidio  
 rubi oranje - mandarino  
 ruhu - animo (psiko)  
 ruhu lojia - psikologio  
@@ -1740,6 +1755,8 @@ safta - pureco
 safar - vojaĝo  
 safarer - vojaĝanto  
 safran - safrano  
+sah - horo  
+sah diker - horloĝo  
 sahi - ĝusta (prava)  
 saide - ĉasado  
 saide ja - ĉasisto  
@@ -1775,8 +1792,7 @@ sanzi - ventumilo
 sapatu - ŝuo  
 sapatu ja - ŝuisto  
 sapatukan - ŝuistejo  
-sata - momento  
-sata di - momenta  
+sari - sario  
 sau - gefrato  
 sauna - saŭno  
 saur - lacerto  
@@ -1893,8 +1909,8 @@ tabi - naturo
 Tai baxa - tajlanda  
 Tai Dexa - Tajlando  
 taiga - tajgo  
-tala - fermilo (seruro)  
 talium - talio  
+tala - fermilo (seruro)  
 tami - avida  
 tantalium - tantalo  
 tanur - forno  
@@ -1920,11 +1936,12 @@ tenesium - teneso
 tenis - teniso  
 teori - teorio  
 tepe - bendo  
+tere - timo (teroro)  
+terure - teroro  
+terurisme - terorismo  
+teruriste - teroristo  
 terbium - terbio  
 termo metri gi - termometro  
-teror - teroro  
-teror sim - terorismo  
-teror sim ja - teroristo  
 tire - tiri  
 tire yo milke - melki  
 titanium - titanio  
@@ -1936,13 +1953,13 @@ to misal - ekzemple
 tocu - tuŝi  
 tocu sense - senti  
 Togo - Toglando  
+• biotomia - vivisekcio  
+• dutomia - diĥotomio  
 tomate - tomato  
-• dutomi - diĥotomio  
-• jivatomi - vivisekcio  
 ton - tono  
-topo - regiono  
-torium - torio  
+tope - regiono  
 tore - turo  
+torium - torio  
 torso - torso  
 trate - treni  
 trater - traktoro  
@@ -2026,7 +2043,7 @@ veze - pezo
 veze di - peza  
 vide - vidi (rigardi)  
 vide ja - spektanto  
-vidou - vidvo  
+vidua - vidvo  
 viki makala - vikia artikulo  
 viki pedia - vikipedio  
 vin - vino  
@@ -2039,7 +2056,7 @@ vise ma - vicpatrino
 vise pa - vicpatro  
 Vixnu - Viŝnuo  
 vo - tio  
-voka soni - vokalo  
+vokal fone - vokalo  
 voku - okazi  
 vol - voli  
 vol xe - volo  
@@ -2052,9 +2069,9 @@ vulva - vulvo
 xa - –os  
 xah geme - ŝako  
 xah mata - ŝakmato  
+xake - dubo  
 xaka - branĉo  
 xakal - ŝakalo  
-xaki - dubo  
 xal - koltuko  
 xam - vespero  
 xam dia - posttagmeze  
@@ -2069,7 +2086,7 @@ xarafun - segaĵo
 xarma - honto  
 xarnir - ĉarniro (pivoto)  
 xarti - kondiĉo (postulo)  
-xatan ja - diablo (Satano)  
+xatan - diablo (Satano)  
 xayu - ŝarko  
 xe hal - situacio (aferstato)  
 xefe - estro (ĉefulo)  
