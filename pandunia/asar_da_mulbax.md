@@ -1,18 +1,21 @@
 # asar da mula basha da pandunia
 
-| basha | asar |
+| baxe  | asar |
 |-------|--------|
-| english | 12% |
-| france | 10% |
-| espanya | 10% |
-| portugal | 10% |
-| rus | 9% |
-| hindi | 9% |
-| bangla | 5% |
-| putonghan | 6% |
-| nipon | 7% |
-| chosen | 5% |
+| english | 11% |
+| franse | 9% |
+| espan | 10% |
+| portugal | 9% |
+| rus | 8% |
+| hindi | 7% |
+| bangla | 4% |
+| parsi | 3% |
+| turki | 5% |
+| putonghan | 5% |
+| guangdong | 2% |
+| nipon | 6% |
+| cosen | 4% |
 | viet | 3% |
-| malayu | 6% |
-| arabi | 5% |
-| suahili | 5% |
+| malayu | 5% |
+| arabi | 4% |
+| suahili | 4% |

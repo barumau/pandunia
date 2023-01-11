@@ -144,7 +144,7 @@ bas - 十分
 bata - 鴨  
 bati - 八 (8)  
 batri - バッテリー  
-bau seku - 宝石  
+bauite - 宝石  
 • trabaxe - 翻訳する  
 baxe - 言語  
 baxe jinse - 文法的性 (名詞クラス)  
@@ -258,9 +258,13 @@ cati - 屋根
 cau - 草  
 cau kitaba - 草書  
 cau medan - 芝生  
+cau mien - 炒麺  
 cau stan - 草地  
 cavi - 鍵  
 ceke - 小切手 (チェック)  
+ceng fem - 女の人  
+ceng jen - 大人  
+ceng man - 男の人  
 • excepe - 追出 (退ける, 除いて)  
 ceresium - セリウム  
 • acese - アクセス  
@@ -316,6 +320,8 @@ dava sui - ポーション (水薬)
 dava xe - 薬 (医薬品)  
 de - -から  
 dee - 神  
+deokata - 神話  
+deonagre grame - デーヴァナーガリー  
 defa bano - 盾  
 defa kaska - 鎧  
 deha - 村  
@@ -326,10 +332,7 @@ den - 日
 den loge - 日記  
 des - 十 (１０)  
 des kilo - 万  
-deu kata - 神話  
-deu nagar zi - デーヴァナーガリー  
 dex - 右  
-dexa jen - 市民  
 dia - 昼  
 dia yam - 昼食  
 dike - 方向 (標的, ターゲット; 狙う)  
@@ -356,8 +359,8 @@ dokumen - 書類 (文書, ドキュメント)
 dokumen filme - ドキュメンタリー  
 dolfin - イルカ (ドルフィン)  
 dom - 家  
-dom dexa - 祖国  
-Dominika Vakil krati - ドミニカ共和国  
+dom gogia - 祖国  
+Dominika Vakilkratia - ドミニカ共和国  
 don - あげる (くれる)  
 dong - 東  
 dong gorila - ヒガシゴリラ  
@@ -521,7 +524,7 @@ frem - 額
 frike - 擦る (擦り傷する)  
 frute - 果実 (フルーツ)  
 frutos - 果糖 (フルクトース)  
-frute bagi - 果樹園  
+frute parke - 果樹園  
 fuku - 服  
 fuku vaxi gi - 洗濯機  
 fulan - 何々  
@@ -538,23 +541,26 @@ fuzi petra - 溶岩
 ## G  
 
 ga - 行く  
-gabur - 墓 (埋葬, 葬る)  
-gabur bagi - 墓 (墓地)  
-gabur seku - 墓石 (墓碑)  
+gabre - 墓 (埋葬, 葬る)  
+gabrite - 墓石 (墓碑)  
+gabrestan - 墓 (墓地)  
 gadolinium - ガドリニウム  
 Galia - ガリア  
 galium - ガリウム  
 gala - のど  
-galaxi - 銀河  
+galaxia - 銀河  
 gali - 道路 (街路)  
 galte - 間違い (誤り, バグ)  
 gamba - 海老  
+gamel - 駱駝  
 gamo zi - 絵文字  
 gan cau - 干し草  
+gandum - 小麦  
+Ganga - ガンジス川  
 ganir - 歌手  
 ganir grupe - 合唱団  
 ganse - 雁 (鵝鳥)  
-ganum - 小麦  
+garde tor - 望楼  
 garma - 暖かい (熱い)  
 garma mosim - 夏  
 garma zona - 熱帯  
@@ -602,6 +608,7 @@ glukerol - グリセロール
 glukin - グリシン  
 glukogen - 糖原 (グリコーゲン)  
 glukos - 葡萄糖 (グルコース)  
+gogia jen - 市民  
 gol - 目的 (行き先, ゴール)  
 gola longta - 周囲長  
 gola seku - 丸石 (玉石, 栗石)  
@@ -642,7 +649,7 @@ hal - 状態
 halal liste - ホワイトリスト  
 hali - 空  
 hali zi - 間隔  
-halifa - ハリーファ  
+halife - ハリーファ  
 hanu - 手  
 hanu xaka - 腕  
 hapu - 適切  
@@ -660,6 +667,7 @@ hem - 考える
 • anhemia - 貧血  
 heme - 血  
 hemoglobin - 血色素 (ヘモグロビン)  
+hemopresia - 血圧  
 hemi selu - 血球  
 hepate - 肝臓  
 hepatitis - 肝炎  
@@ -677,10 +685,12 @@ hidre peroxide - 過酸化水素
 hidrargente - 水銀  
 Hindocin - 印度支那  
 hindium - インジウム  
+hinde sos - チャツネ  
 hindi raja - ラージャー  
 Hindi rivo - インダス川  
+hipoglukohemia - 低血糖  
+hipohemopresia - 低血圧  
 hisabu loge - 口座  
-hisabu lojia - 数学  
 hiyar - キュウリ  
 hobi ja - アマチュア  
 hogo - 火  
@@ -711,7 +721,6 @@ iglu - イグルー
 iha uma - 騾馬  
 imperia - 제국  
 in - 内  
-in tene gi - コンテナ  
 intraje - 腸 (臓器)  
 in verse jen - 内向的な人  
 iode - ヨウ素  
@@ -802,9 +811,9 @@ kali melon - ツルレイシ (ニガウリ)
 kali oranje - ダイダイ  
 kalifornium - カリホルニウム  
 kalmar - イカ  
+kalsobilor - 大理石  
 kalside - 石灰  
 kalsium - カルシウム  
-kalsi bilor - 大理石  
 kam - 少ない  
 kama - 色欲  
 kama deu - カーマ  
@@ -1002,14 +1011,14 @@ litium - リチウム
 litre - リットル  
 livermorium - リバモリウム  
 lixu - 栗鼠  
-loge - 記録  
-loge buku - 日誌  
-loge cuti - ログアウト  
-loge jin - ログイン  
+• exloga - ログアウト  
+• inloga - ログイン  
+loga - 記録  
+loga buku - 日誌  
 logi safar ja - 探検家  
 loje - 研究 (科学, 学)  
-loka - 場所  
-loka nume - 座標  
+loke - 場所  
+loke kode - 座標  
 long - 長い  
 long kata - 小説  
 long krokodil - クロコダイル  
@@ -1034,11 +1043,13 @@ lutesium - ルテニウム
 ## M  
 
 ma - お母さん (母, ママ)  
+made - 物質  
+madisme - 唯物論 (唯物主義)  
 maf - ごめんなさい  
 magenium - マグネシウム  
 magi bala - 魔力  
 magi ja - 魔法使い  
-Magribi dexa - モロッコ  
+Magribia - モロッコ  
 majang - 麻雀  
 majenta - マゼンタ (紅紫色)  
 makan hua - タンポポ  
@@ -1057,27 +1068,22 @@ masa mula - 芋 (塊茎)
 masa mula sol hua - キクイモ  
 masala - 香辛料  
 maska - 仮面 (マスク)  
-mate - 物質  
+mate - 数学  
+matike - 数学者  
 mate cai - マテ茶  
-mate lona - 唯物論 (唯物主義)  
-matur fem - 女の人  
-matur jen - 大人  
-matur man - 男の人  
-mau - 猫  
+matras - 布団 (マットレス)  
 max fili di - 好き (お気に入りの)  
 max ordu - 増派 (援兵)  
 mayur - 孔雀  
 maze - 靴下 (ソックス)  
 me - 第  
 mece - 試合 (競技)  
+mede - 助け  
+medal - 賞牌 (メダル)  
 medan - 広場  
 medan papi - ヒナゲシ  
-mede - 助け  
-media - 媒体 (メディア)  
 medi dia - 正午  
 medi fase - 界面  
-medi noce - 真夜中  
-medi xe - 媒体 (バッファ)  
 medu - 蜂蜜  
 medu vespa - 蜜蜂  
 medu vespa nide - 蜂の巣 (ハニカム)  
@@ -1126,16 +1132,20 @@ meza tela - テーブル掛け
 mi - 私  
 mimen - 私たち  
 mi su - 私の  
+miau - 猫  
+midia - 媒体 (メディア)  
+mide noce - 真夜中  
 mien - 麺 (ヌードル)  
 • inmigre - 移住する (移民する)  
 • inmigrer - 移民 (移住者)  
-mikrobiolojia - 微生物学  
 mikrobie - 微生物  
+mikrobiolojia - 微生物学  
 mikroskope - 顕微鏡 (マイクロスコープ)  
 milke - 牛乳 (ミルク)  
 milke kardon - マリアアザミ  
-mime ja - 模倣者  
-minta - ハッカ  
+mimer - 模倣者  
+minte - 薄荷 (ハッカ)  
+mintol - メントール (薄荷脳)  
 miraje - 蜃気楼  
 mira plate - 鏡  
 mirde - 微か  
@@ -1182,6 +1192,7 @@ na - 受ける (もらう)
 na xiti - 得失  
 nabija - 預言者  
 nadir - 稀 (疎ら)  
+nagre gogia - 都市国家  
 najis - 汚れ (汚染)  
 najis bindu - 染み (汚点)  
 najis di - 汚い  
@@ -1299,7 +1310,7 @@ papaya - パパイヤ
 par jen - 同輩  
 par vezeta - 均衡 (平衡)  
 parce kai - 弾ける  
-pari dexa - 仙境  
+paristan - 仙境  
 parne - 羊歯  
 partaner - パートナー  
 partaneria - パートナーシップ  
@@ -1339,6 +1350,8 @@ pike - 先
 pin - 針 (刺, ピン)  
 pin kardon - ゴロツキアザミ  
 pinse bano - 用箋挟  
+pipa - 琵琶  
+pipa frute - 枇杷  
 pipre minta - ペパーミント  
 piram - ピラミッド (金字塔)  
 pisea - トウヒ  
@@ -1495,6 +1508,7 @@ selenium - セレン
 selge - フダンソウ (スイスチャード)  
 semolojia - 意味論  
 seme dana - 種  
+senater - 上院議員  
 sen bei - 先輩  
 sen sis - 姉 (ane)  
 seng - 生の  
@@ -1545,7 +1559,7 @@ sona kamar - 寝室
 sona papi - ケシ  
 songi - マツ  
 sos - ソース  
-sosi - 社会  
+sosia - 社会  
 sosi jinse - ジェンダー  
 sosis - ソーセージ  
 statobaze - 台  
@@ -1564,17 +1578,18 @@ sui kaboga - ヒョウタン (ひさご)
 sui yau - 喉の渇き  
 Suise - スイス  
 suka - 幸せな  
-sukre - 砂糖  
-sukre bete - テンサイ (サトウダイコン)  
-sukre gana - サトウキビ  
-sukre oranje - オレンジ (アマダイダイ)  
-sukros - 蔗糖 (スクロース)  
+sukar - 砂糖  
+sukar bete - テンサイ (サトウダイコン)  
+sukar gana - サトウキビ  
+sukar oranje - オレンジ (アマダイダイ)  
+sukaros - 蔗糖 (スクロース)  
 sulfe - 硫黄  
 sulfate - 硫酸  
+sulfide - sulfido  
 supa - スープ (汁)  
 supa camaca - さじ (テーブルスプーン)  
+supa mien - ラーメン  
 supra - 上  
-supra vakil ja - 上院議員  
 suta - 術  
 
 ## T  
@@ -1606,6 +1621,7 @@ tene - 持つ (有する, 飼う, ある, いる)
 tenesium - テネシン  
 terbium - テルビウム  
 terca - 斜め  
+• hipotermia - 低体温症  
 tikete - 札  
 tim - チーム  
 tipe - 種類  
@@ -1681,7 +1697,8 @@ vai - 外
 vai dara - 溢れる (越流する)  
 vai jen - 部外者 (アウトサイダー)  
 vai planeta - 系外惑星  
-vai verse di - 外向的な  
+vakiler - 代表  
+vakilkratia - 共和国  
 vali - 谷  
 vali susan - キミカゲソウ (スズラン)  
 valse - ワルツ (円舞曲)  
@@ -1701,10 +1718,10 @@ vende xope - 交易 (売買)
 venjou oranje - ウンシュウミカン  
 verife - ただす  
 veranda - ベランダ (バルコニー, 縁側)  
-• exversi - 外向的な  
-• extraversi - 外向的な  
-• intraversi - 内向的な人  
-• reversi - 逆らう  
+• exverse - 外向的な  
+• extraverse - 外向的な  
+• intraverse - 内向的な人  
+• reverse - 逆らう  
 vespa - 蜂  
 vespa nide - 蜂の巣  
 veste gorila - ニシゴリラ  
@@ -1743,6 +1760,7 @@ Xani - 土星
 xaniden - 土曜日  
 xara - のこぎり  
 xarafun - 木屑  
+xarbe - 飲む  
 xatan - 悪魔  
 xava - 焼く  
 xayu - サメ  

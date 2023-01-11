@@ -30,6 +30,7 @@ air porto - 飞机场
 ais - 冰  
 ais hoki - 冰球  
 ais krem - 冰淇淋  
+ais xarbe - 冰果子露  
 akare - 蜱 (螨)  
 akrabe - 蝎子 (天蝎座)  
 ale - 另一  
@@ -109,6 +110,7 @@ atom bomba - 原子爆弹
 atom kerne - 原子核  
 auro - 金  
 Austronesi - 南岛  
+autatike - 自动的  
 auto loga - 独白  
 ave - 燕麦  
 axe - 轴线  
@@ -177,7 +179,7 @@ bati - 八 (8)
 batri - 电池  
 bau bei - 伴侣 (宝贝)  
 bau di - 宝贵  
-bau seku - 宝石  
+bauite - 宝石  
 • trabaxe - 翻译  
 baxe - 语言  
 baxe jinse - 文法的性  
@@ -289,11 +291,15 @@ cana - 时刻 (瞬间, 刹那)
 cati - 屋顶 (房顶)  
 cau kitaba - 草书  
 cau medan - 草地  
+cau mien - 炒面  
 cavi - 钥匙 (锁匙)  
 ceka - 检查  
 ceke - 支票  
 ceng - 层  
 ceng bede - 双层床  
+ceng fem - 女人  
+ceng jen - 成人 (成年人)  
+ceng man - 男人  
 ceresium - 铈  
 • acesebilta - 無障礙環境  
 • sucese - 成功  
@@ -351,6 +357,8 @@ dava xekan - 药店
 dava xe lojia - 药理学  
 de - 从  
 dee - 神  
+deokata - 神话  
+deonagre grame - 天城文  
 defa bano - 盾牌  
 defa kaska - 盔甲  
 deha - 村  
@@ -359,10 +367,7 @@ den - 日 (天)
 • preden - 昨日  
 den loge - 日记  
 des - 十  
-deu kata - 神话  
-deu nagar zi - 天城文  
 dexhanuka - 右利手 (右撇子)  
-dexa jen - 公民  
 dia - 白天  
 dike - 方向 (目的, 目标, 瞄准)  
 din - 宗教  
@@ -388,7 +393,7 @@ dokumen - 文件
 dokumen filme - 纪录片  
 dolfin - 海豚  
 dom - 家 (房子)  
-dom dexa - 祖国  
+dom gogia - 祖国  
 • redon - 退回  
 don xe ceke - 礼物卡  
 dong - 东  
@@ -540,7 +545,8 @@ frem - 框
 frike - 擦伤  
 frute - 果  
 frutos - 果糖  
-frute bagi - 果园  
+frute parke - 果园  
+frute xarbe - 果子露  
 fufu - 富富  
 fuku - 衣服  
 fuku vaxi gi - 洗衣机  
@@ -557,27 +563,31 @@ fuzi saf - 熔炼
 ## G  
 
 ga - 去  
-gabur - 坟墓 (埋葬)  
-gabur bagi - 公墓 (墓地)  
-gabur seku - 墓石 (墓碑)  
+gabre - 坟墓 (埋葬)  
+gabrite - 墓石 (墓碑)  
+gabrestan - 公墓 (墓地)  
 gadolinium - 钆  
 Galia - 高卢  
 galium - 镓  
 gala - 咽喉  
-galaxi - 恆星系  
+galaxia - 恆星系  
 gali - 街路  
 galte - 错误  
 gamba - 虾  
+gamel - 骆驼  
 gamo hal - 心情  
 gamo zi - 绘文字  
 gan cau - 干草  
 gana - 秆  
 gana kalam - 蘆葦筆  
+gandum - 麦  
+Ganga - 恒河   
 gani - 歌  
 ganir - 歌手  
 ganir grupe - 合唱团  
 ganse - 雁 (鹅)  
-ganum - 麦  
+garder - 看守者  
+garde tor - 岗楼 (望楼)  
 garma mosim - 夏季  
 garma zona - 热带  
 garma zona caustan - 稀树草原  
@@ -617,6 +627,7 @@ glukerol - 甘油 ( 丙三醇)
 glukin - 甘氨酸  
 glukogen - 糖原  
 glukos - 葡萄糖  
+gogia jen - 公民  
 gol - 目的  
 gola seku - 鹅卵石  
 gorila - 大猩猩  
@@ -657,7 +668,7 @@ haku - 权利
 hal - 状态  
 hali - 空的  
 hali zi - 空隙  
-halifa - 哈里发  
+halife - 哈里发  
 halo - 哈啰 (哈喽)  
 ham di - 重要  
 hamil - 怀孕  
@@ -680,6 +691,7 @@ hem - 深思 (考虑)
 • anhemia - 贫血  
 heme - 血  
 hemoglobin - 血红蛋白  
+hemopresia - 血压  
 hemi selu - 血球  
 hepate - 肝脏  
 hero - 英雄 (勇士)  
@@ -697,8 +709,9 @@ hindium - 铟
 Hindestan - 印度斯坦  
 hindi raja - 拉贾  
 Hindi rivo - 印度河  
+hipoglukohemia - 低血糖  
+hipohemopresia - 低血压症  
 hisabu loge - 账户  
-hisabu lojia - 数学  
 hiyar - 黄瓜  
 hobi ja - 爱好者  
 hogo - 火  
@@ -820,11 +833,11 @@ kali guste - 苦的
 kali melon - 苦瓜  
 kalifornium - 锎  
 kalmar - 鱿鱼  
+kalsobilor - 大理石  
 kalside - 石灰  
 kalsite - 方解石  
 kalsium - 钙  
-kalsi bilor - 大理石  
-kalsi petra - 石灰岩  
+kalsopetre - 石灰岩  
 kam - 少  
 kama - 情欲  
 kama kanon - 欲经  
@@ -1017,10 +1030,10 @@ liste - 单子
 litium - 锂  
 litre - 升  
 lixu - 松鼠 (栗鼠)  
-loge - 纪录  
-loge buku - 航海日志  
-loka - 地方  
-loka nume - 坐标  
+loga - 纪录  
+loga buku - 航海日志  
+loke - 地方  
+loke kode - 坐标  
 lona - 论  
 long - 长  
 long dura - 久  
@@ -1049,10 +1062,12 @@ ma - 妈妈
 ma ma - 外婆 (外祖母)  
 ma pa - 外公 (外祖父)  
 ma sis - 姨  
+made - 物质  
+madisme - 唯物论 (唯物主义)  
 magenium - 镁  
 magi bala - 魔力  
 magi ja - 魔法师  
-Magribi dexa - 摩洛哥  
+Magribia - 摩洛哥  
 majang - 麻将  
 makan hua - 蒲公英  
 makin - 机  
@@ -1074,26 +1089,22 @@ masa - 质量
 masa mula sol hua - 菊芋  
 masala - 香料  
 masta - 桅  
-mate - 物质  
+mate - 数学  
+matike - 数学家  
 mate cai - 马黛茶  
-mate lona - 唯物论 (唯物主义)  
-matur fem - 女人  
-matur jen - 成年人  
-matur man - 男人  
-mau - 猫  
+matras - 床垫  
 max fili - 比较喜欢  
-max ordu - 加固  
 maxim - 最  
+max ordu - 加固  
+maya - 玛雅  
 mayur - 孔雀  
 maze - 袜子  
 mece - 比赛  
+mede - 帮  
+medal - 奖章  
 medan - 广场  
 medan papi - 虞美人 (雛罌粟)  
-mede - 帮  
-media - 媒体  
-medi di - 中型  
 medi dia - 正午  
-medi noce - 半夜 (午夜)  
 medu - 蜜  
 medu vespa - 蜜蜂  
 medu vespa sanduku - 蜂箱  
@@ -1123,15 +1134,20 @@ meza tela - 桌布
 mi - 我  
 mimen - 我们  
 mimen su - 我们的  
+miau - 猫  
+midia - 媒体  
+midike - 中型  
+mide noce - 半夜 (午夜)  
 mien - 面条  
 • inmigre - 移民 (移居)  
 • inmigrer - 移民者  
-mikrobiolojia - 微生物学  
 mikrobie - 微生物   
+mikrobiolojia - 微生物学  
 mikroskope - 显微镜  
 milke kardon - 水飞蓟  
 mime - 模拟  (模仿)  
-minta - 薄荷  
+minte - 薄荷  
+mintol - 薄荷醇  
 miraje - 海市蜃楼  
 mira plate - 镜子  
 mirde - 微弱的  
@@ -1183,6 +1199,7 @@ na xiti - 得失
 nabija - 预言家  
 nadir - 稀有 (稀少的)  
 nadir mar - 很少  
+nagre gogia - 城邦  
 najis - 污染物  
 nam - 名  
 nam hin - 无名  
@@ -1308,8 +1325,8 @@ par fase - 水平
 par jen - 同辈  
 par vezeta - 平衡  
 parce kai - 爆裂  
-pari dexa - 仙境  
 pari kata - 童话  
+paristan - 仙境  
 parke - 园  
 parne - 蕨  
 partaner - 伙伴  
@@ -1352,6 +1369,8 @@ pil - 皮
 pin - 别针  
 pin cope - 镐  
 pin kardon - 大翅蓟  
+pipa - 琵琶  
+pipa frute - 枇杷  
 pipre - 胡椒  
 pipre minta - 辣薄荷  
 piram - 金字塔  
@@ -1496,6 +1515,7 @@ semolojia - 语义学
 seme - 种  
 seme dana - 种子  
 seme di - 种子的  
+senater - 参议员  
 sen bei - 先辈 (前辈)  
 sen sis - 姐姐 (jiějie)  
 seng - 生的  
@@ -1542,7 +1562,7 @@ son - 儿子
 sona kamar - 卧室 (寝室)  
 sona papi - 鴉片罌粟  
 songi - 松  
-sosi - 社会  
+sosia - 社会  
 sosi jinse - 社會性別  
 sosis - 香肠  
 • inspete - 检查  
@@ -1561,14 +1581,14 @@ sui minta - 水薄荷
 sui yau - 口渴  
 Suise - 瑞士  
 suka - 高兴  
-sukre - 糖  
-sukre gana - 甘蔗  
-sukros - 蔗糖  
+sukar - 糖  
+sukar gana - 甘蔗  
+sukaros - 蔗糖  
 sulfe - 硫  
 sulfate - 硫酸盐  
 supa - 汤  
 supa camaca - 汤匙  
-supra vakil ja - 参议员  
+supa mien - 拉面  
 supriza - 惊奇  
 susan - 百合花  
 suta - 技术  
@@ -1605,6 +1625,7 @@ tema nam - 标题
 terurisme - 恐怖行为  
 terbium - 铽  
 terca - 斜的  
+• hipotermia - 失温症  
 teze - 论据  
 tikete - 票  
 tim - 队  
@@ -1679,8 +1700,9 @@ vai - 外
 vai dara - 溢出  
 vai jen - 外人 (局外人)  
 vai planeta - 系外行星  
-vai verse di - 外向的  
 vai yam - 野餐  
+vakiler - 代表  
+vakilkratia - 共和国  
 vali - 山谷  
 vali susan - 鈴蘭  
 valse - 华尔兹  
@@ -1700,9 +1722,9 @@ venjou oranje - 温州蜜柑
 ventur - 冒险  
 ventur ja - 冒险者  
 veranda - 阳台  
-• exversi - 外向的  
-• extraversi - 外向的  
-• intraversi - 内向的  
+• exverse - 外向的  
+• extraverse - 外向的  
+• intraverse - 内向的  
 vespa - 蜂  
 veze di - 重型的  
 vide - 看  
@@ -1735,6 +1757,7 @@ Xani - 土星
 xaniden - 星期六 (礼拜六)  
 xara - 锯子  
 xarafun - 锯末  
+xarbe - 喝 (饮)  
 xatan - 撒但  
 xava - 烧 (烧烤)  
 xayu - 鲨鱼  

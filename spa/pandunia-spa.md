@@ -12,7 +12,6 @@ a late - estar al lado de
 a lin - en línea  
 a max - además  
 a medi - entre  
-a min de - excepto (menos)  
 a neu - ahora mismo (justo)  
 a nice - debajo  
 a poli mar - frecuentemente  
@@ -59,6 +58,7 @@ ais - hielo
 ais di - cubierto de hielo  
 ais hoki - hockey sobre hielo  
 ais krem - helado  
+ais xarbe - sorbete  
 Aiti - Haití  
 ajabu - maravilla  
 ajabu di - maravilloso (asombroso)  
@@ -114,7 +114,7 @@ amerikium - americio
 amide - amida  
 amin - amina  
 amir - orden (mando, comando)  
-amir dexa - emirato  
+amiria - emirato  
 amir ja - emir  
 amir lin - interfaz de línea de comandos  
 amper - amperio  
@@ -218,6 +218,7 @@ auro - oro
 Australia - Australia  
 Austronesi - Austronesia  
 aute - mismo (yo)  
+autatike - automático  
 auter - autor  
 autokratia - autocratia (monarquía)  
 autonomia - autonomía  
@@ -233,7 +234,7 @@ axe - eje
 axa - esperar (desear)  
 axa hin - desesperado  
 Axur - Assur (Ashur)  
-Axur dexa - Asiria  
+Axuria - Asiria  
 ayo - ay!  
 Azerbaijan - Azerbaiyán  
 
@@ -295,7 +296,7 @@ banda - banda
 bande - banda (cinta)  
 bandera - bandera  
 bangla baxa - idioma bengalí  
-Bangla dexa - Bangladés  
+Bangla gogia - Bangladés  
 banke - ahorrar (reservar, depositar)  
 banker - banquero  
 bankekan - banco  
@@ -333,7 +334,7 @@ bati - ocho (8)
 batri - pila (batería)  
 bau - tesoro  
 bau di - precioso  
-bau seku - piedra preciosa (joya, gema)  
+bauite - piedra preciosa (joya, gema)  
 • dubaxike - bilingüe  
 • polibaxike - multilingüe (plurilingüe)  
 • trabaxe - traducir (interpretar; tradicción, interpretación)  
@@ -384,7 +385,6 @@ be in - entrar
 be in bum - implosionar  
 be islam - someterse (rendirse, ceder)  
 be jaga - despertarse  
-be jin - avanzar (entrar, adelantar, progresar)  
 be kai - abirse  
 be karibu - axproximarse  
 be kino - moverse  
@@ -580,13 +580,18 @@ carme - encanto (fascinación)
 cati - techo (tejado)  
 cau - hierba  
 cau medan - césped (pasto)  
+cau mien - chow mein  
 cau stan - pradera (pastizal)  
 cavi - llave  
 ceka - revisar (chequear, examinar, inspeccionar)  
 ceke - cheque  
 celsius gradu - grado Celsius  
 ceng - capa (piso, planta, estrato)  
+ceng - maduro (adulto, curado)  
 ceng bede - litera  
+ceng fem - mujer (señora)  
+ceng jen - adulto  
+ceng man - hombre (señor)  
 • acepe - aceptar  
 • excepe - excepto (exceptuar)  
 • intercepe - interceptar  
@@ -672,7 +677,7 @@ dana sekur - antibalas
 dang gi - campana (cencerro)  
 danse - baile (danza)  
 Danske - danés  
-Danske dexa - Dinamarca  
+Danske gogia - Dinamarca  
 dante - diente  
 dante baluta - roble daimyo  
 dante broxa - cepillo de dientes  
@@ -711,8 +716,10 @@ deike - divino
 deisme - teísmo  
 • andeiste - ateo  
 deiste - teísta  
+deokata - mito (cuento divino)  
 deokratia - teocracia  
 deojojia - teología  
+deonagre grame - devanágari  
 deosofia - teosofía  
 defa - defensa  
 defa bano - escudo  
@@ -736,16 +743,12 @@ desen - dibujo (diseño)
 desi - deci-  
 desi bel - decibelio  
 detal - detalle  
-deu kata - mito (cuento divino)  
-deu nagar zi - devanágari  
 deval - demente (loco, insensato)  
 devalta - demencia (locura)  
 dex - derecho (lado derecho)  
 dex di - derecho  
 dexhanuka - diestro  
 dexiste - derechista  
-dexa - país (nación, estado, terra)  
-dexa jen - ciudadano  
 dia - día  
 dia yam - almuerzo  
 dike - apuntar (dirección)  
@@ -783,11 +786,11 @@ dokumen sanduku - carpeta
 dolar - dolar  
 dolfin - delfín  
 dom - casa (hogar, residencia)  
-dom dexa - patria  
 dom di - doméstico (domesticado)  
+dom gogia - patria  
 dom zeze - mosco  
 Dominika - Dominica  
-Dominika Vakil krati - Republica Dominicana  
+Dominika Vakilkratia - Republica Dominicana  
 domino geme - dominó  
 don - dar  
 don tabi - generoso (dadivoso)  
@@ -915,6 +918,8 @@ Europa - Europa
 europa baluta - roble común  
 europa di - europeo  
 Europa Unta - Unión Europea  
+exgogia - país extranjero  
+exgogike - extranjero  
 
 ## F  
 
@@ -1141,7 +1146,6 @@ fa ulul - aullar
 fa un xe - unir  
 fa vai - expulsar (exceptuar, excepto)  
 fa vai klus - excluir  
-fa vai trata - extraer  
 fa valu - valorar  
 fa vanu - divertir (entretener)  
 fa verse - versar  
@@ -1295,7 +1299,7 @@ frem - marco
 frike - raspar (arañar)  
 frute - fruta  
 frutos - fructosa  
-frute bagi - huerta  
+frute parke - huerta  
 fufu - polpa  
 fui - puaj  
 fuka - regresar (restablecer, restaurar, recuperar, reanudar)  
@@ -1327,26 +1331,26 @@ fuzi petra - lava
 
 ga - ir  
 Gabon - Gabón  
-gabur - tumba (sepultura, enterrar)  
-gabur bagi - cementerio  
-gabur seku - lápida  
+gabre - tumba (sepultura, enterrar)  
+gabrite - lápida  
+gabrestan - cementerio  
 gadolinium - gadolinio  
 gaja - elefante  
 Galia - Galia  
 galium - galio  
 gala - garganta   
-galaxi - galaxia  
+galaxia - galaxia  
 galeri - galería  
 gali - calle  
 galope - galope  
 galte - error  
 galte budi - malinterpretar  
 galte di - erróneo  
-gam - casamiento  
-gam di - casado  
+gamia - casamiento  
+gamike - casado  
 gam per - esposo o esposa  
-gamba - camarón (gamba)  
 Gambia - Gambia  
+gamba - camarón (gamba)  
 gamel - camello  
 gamo - afecto (emoción)  
 gamo di - emotivo  
@@ -1359,15 +1363,16 @@ Gana - Ghana
 gana - caña  
 gana kalam - cálamo  
 Ganda - Uganda  
+gandum - trigo  
 Ganga - Ganges  
 gani - cantar (canción)  
 ganir grupe - coro  
 ganja - cannabis (hachís, marihuana)  
 ganse - ganso (oca)  
-ganum - trigo  
 garanti - garantía  
 garde - vigilar (guardar)  
-garde ja - vigilante (guardia)  
+garder - vigilante (guardia, centinela)  
+garde tor - atalaya (vigía, garita)  
 garde zelo - celoso  
 garma - caliente (cálido)  
 garma masala - garam masala  
@@ -1453,6 +1458,8 @@ glukin - glicina
 glukogen - glucógeno  
 glukos - glucosa  
 gluten - gluten  
+gogia - país (nación, estado, terra)  
+gogia jen - ciudadano  
 gol - meta (gol, destinación)  
 gola - círculo  
 gola di - redondo (circular)  
@@ -1550,8 +1557,8 @@ halal liste - lista blanca
 halela - elogiar (alabar, exaltar)  
 hali - vacío (desocupado)  
 hali zi - espacio (texto)  
-halifa - califa  
-halifa dexa - califato  
+halife - califa  
+halifia - califato  
 halo - aló  
 halte - parada (alto)  
 ham - importar  
@@ -1604,6 +1611,7 @@ hem - considerar (reflexionar, pensar en)
 heme - sangre  
 hem… - hm…  
 hemoglobin - hemoglobina  
+hemopresia - presión sanguínea  
 hemi hin - exangüe  
 hemi selu - glóbulo  
 hen - odio  
@@ -1632,15 +1640,16 @@ Himalaya - Himalaya
 hin - faltar (sin)  
 Hindocin - Indochina  
 hindium - indium  
+hinde sos - chatni  
 Hindestan - Indostán  
 Hindi din - hinduismo  
 Hindi din ja - hindú  
 hindi raja - rajá  
 Hindi rivo - Indo  
+hipoglukohemia - hipoglucemia  
+hipohemopresia - hipotensión  
+hisabia - aritmética (cálculos)  
 hisabu loge - cuenta  
-hisabu lojia - matemática  
-hisabu lojiaja - matemático  
-hisabu suta - aritmética (cálculos)  
 histor - historia (pasado)  
 historer - historiador  
 historolojia - historia (estudio de sucesos del pasado)  
@@ -1734,7 +1743,6 @@ in mise - importar
 inmun - entrada  
 in nam - endónimo  
 in tene - contener  
-in tene gi - contenedor  
 intre - entrar  
 intraje - intestino (visceras, entrañas, tripas)  
 intromun - entrada  
@@ -1827,7 +1835,7 @@ jiva - vivir (vivo; vida)
 joke - broma (chiste)  
 joker - bromista (chistoso)  
 jong - centro  
-Jong Afrika Vakilkrati - República Centroafricana  
+Jong Afrika Vakilkratia - República Centroafricana  
 jong di - central  
 jong fon - vocal  
 jong xulakan - escuela secundaria  
@@ -1880,7 +1888,7 @@ kafur - alcanfor
 kaguji - papel  
 kaguji limon - limero  
 kai - abierto  
-Kaiman nesi - islas Caimán  
+Kaiman nesia - islas Caimán  
 kaju - cajú (marañón)  
 kaka - caca  
 kakau - cacao  
@@ -1899,11 +1907,11 @@ kali oranje - naranjo amargo
 kalifornium - californio  
 kalkul - cálculo  
 kalmar - calamar  
+kalsobilor - marmól  
 kalside - cal  
 kalsite - calcita  
 kalsium - calcio  
-kalsi bilor - marmól  
-kalsi petra - caliza  
+kalsopetre - caliza  
 kam - poco (pocos)  
 kamia - escasez  
 kama - lujuria (deseo)  
@@ -2319,19 +2327,19 @@ litre - litro
 livermorium - livermorio  
 lixu - ardilla  
 loba - rábano  
-loga - habla  
+loge - habla  
+• exloga - cerrar sesión  
+• inloga - iniciar sesión  
+loga - registro (archivo, anotación)  
+loga buku - libro de registro  
 loga tabi di - hablador (locuaz)  
-loge - registro (archivo, anotación)  
-loge buku - libro de registro  
-loge cuti - cerrar sesión  
-loge jin - iniciar sesión  
 logi safar ja - explorador  
 logika - lógica  
 logika di - logical  
 loje - ciencia (estudiar, investigar, -ología)  
-loka - lugar  
-loka di - local  
-loka nume - coordenadas  
+loke - lugar  
+lokal - local  
+loke kode - coordenadas  
 lona - discusión (debate, discurso)  
 long - largo  
 long dura di - perdurable (longevo, prolongado)  
@@ -2374,6 +2382,9 @@ Luxemburge - Luxemburgo
 
 ma - madre (mamá)  
 ma di - maternal  
+made - sustancia (materia)  
+madike - material  
+madisme - materialismo  
 Madagasi - Madagascar  
 madagasi di - malgache  
 maf - perdón  
@@ -2381,7 +2392,7 @@ magenium - magnesio
 magi - magia  
 magi di - magical  
 magi ja - mago  
-Magribi dexa - Marruecos  
+Magribia - Marruecos  
 Magyar - Hungría  
 mahala - barrio (cuartel)  
 mais - maíz  
@@ -2443,55 +2454,44 @@ masaje - masaje
 masala - especia  
 masala tike - tikka masala  
 maska - máscara  
+maste - dominar  
 master - maestro (experto)  
 masta - mástil  
-maste - dominar  
+mate - matemática  
+matike - matemático  
 mata - morirse (muerte; muerto)  
 matafa - matar (morir, asesinar)  
 mataja - asesino  
-mate - sustancia (materia)  
 mate - yerba mate  
 mate cai - mate cocido  
-mate di - material  
-mate lona - materialismo  
 matras - colchón  
-matur - maduro (adulto, curado)  
-matur fem - mujer (señora)  
-matur jen - adulto  
-matur man - hombre (señor)  
-mau - gato  
 max - más  
-max di - adicional (extra)  
-max di fen - mayoría  
+maxaje - adicional (extra)  
 max fili - preferir (favorecer)  
 max fili di - favorito (preferido)  
 max fili sim - favoritismo  
+maxia - mayoría  
+maxike - mayor  
+maxim - lo más  
+maximaje - máximo  
+maximal - máximo  
 max ka bas - demasiado  
 max ordu - refuerzos  
-maxim - lo más  
-maxim di - máximo  
-maxim xe - máximo  
 maya - maya  
 Mayote - Mayotte (Mahoré)  
 mayur - pavo real  
 maze - calcetín  
 me - -ésimo  
 mece - partido  
-medal - medallón  
-medan - plaza  
-medan di - abierto (extenso)  
-medan fobi - agorafobia  
-medan papi - amapola silvestre  
 mede - ayuda (socorro, auxilio, asistencia)  
-mede ja - proponente (defensor)  
-medi - medio  
-media - medios  
-medi di - medio (mediano)  
+medal - medalla  
+medalon - medallón  
+medan - plaza  
+medan fobi - agorafobia  
+medanike - abierto (extenso)  
+medan papi - amapola silvestre  
 medi dia - mediodía  
 medi fase - interfaz  
-medi gi - medio (instrumento)  
-medi noce - medianoche  
-medi xe - medio (búfer)  
 medu - miel  
 medu vespa - abeja  
 medu vespa nide - colmena (panal)  
@@ -2558,14 +2558,20 @@ mimen - nosotros
 mimen su - nuestro  
 mi su - mi  
 Mianma - Myanmar (Birmania)  
+miau - gato  
+mide - medio  
+midaje - medio (instrumento)  
+midia - medios  
+midike - medio (mediano)  
+mide noce - medianoche  
 mien - fideo (tallarín)  
+migre - migración  
 • inmigre - inmigrar  
 • inmigrer - inmigrante  
-migra - migración  
 mikre - micro-  
-mikrobiolojia - microbiología  
 mikrobie - microbio  
-Mikronesi - Micronesia  
+mikrobiolojia - microbiología  
+Mikronesia - Micronesia  
 mikroskope - microscopio  
 mili - mili-  
 mili gram - miligrama  
@@ -2573,18 +2579,20 @@ mili mitre - milimetre
 milke - leche  
 milke kardon - cardo mariano  
 mime - imitar (mimetizar)  
-mime ja - imitador  
+mimer - imitador  
 min - menos  
-min di fen - minoría  
-min ka bas - demasiado poco  
-ming - brillante (luminoso)  
+minia - minoría  
+minike - menor (leve)  
 minim - lo menos  
-minim di - mínimo  
-minim sim - minimalismo  
+minimal - mínimo  
+minisme - minimalismo  
+min ka bas - demasiado poco  
+minus - excepto (menos)  
+ming - brillante (luminoso)  
 ministre ja - ministro  
 ministre ofis - ministerio  
-minor - menor (leve)  
-minta - menta  
+minte - menta  
+mintol - mentol  
 minute - minuto  
 mira - mirar  
 • amira - admirar  
@@ -2693,8 +2701,9 @@ nabija - profeta (heraldo)
 nadir - raro  
 nadir mar - raramente  
 nafas - respiración  
-nagar - pueblo  
-nagar di - urbano  
+nagre - pueblo  
+nagral - urbano  
+nagre gogia - ciudad estado  
 nahun - uña  
 Naijiria - Nigeria  
 najis - contaminación (corrupción, porquería, suciedad)  
@@ -2881,8 +2890,8 @@ oranje rang - anaranjado
 ordu - ejército  
 ordu jen - soldado  
 ordu jen kan - cuartel (barraca)  
+ordu rajia - shogunato  
 ordu raja - generalísimo (sogún)  
-ordu raja dexa - shogunato  
 ore - oreja  
 ore tis - otitis  
 orgazme - orgasmo  
@@ -3062,6 +3071,8 @@ pin kardon - cardo borriquero
 pinguin - pingüino  
 pinse bano - tabla con pinza (carpeta con sujetapapeles)  
 pinse gi - alicate  
+pipa - laúd  
+pipa frute - níspero japonés  
 pipe - tubo (caño)  
 piping - evaluación (crítica)  
 piping ja - crítico  
@@ -3230,8 +3241,8 @@ radon - radón
 ragubi - rugbi  
 ragbi - bóng bầu dục  
 rai - opinión (juicio, consideración)  
+rajia - reino  
 raja - rey o reina  
-raja dexa - reino  
 raja di - real (de realtad)  
 rajanan - rey  
 rajani - reina  
@@ -3378,8 +3389,8 @@ saluta - salud
 Salvador - El Salvador  
 sam - equal (similar)  
 sam bei - par  
-sam dexa jen - compatriota  
 sam emos - compasión  
+sam gogia jen - compatriota  
 sammetria - simetría (simétrico)  
 sam nam - homónimo  
 sam rai - acuerdo  
@@ -3453,6 +3464,7 @@ seme dana - pepita
 seme di - seminal  
 semente - cemento  
 sen - anciano (señor)  
+senater - senador  
 sen bra - hermano mayor  
 sen sis - hermana mayor  
 Senegal - Senegal  
@@ -3560,12 +3572,12 @@ songi - pino
 soni - sonido (audio)  
 sorbe - sorber  
 sos - salsa  
-sosi - sociedad  
+sosia - sociedad  
+sosial - social  
+sosial midia - redes sociales  
+sosisme - socialismo  
+sosiste - socialista  
 sosi jinse - género social  
-sosi li - social  
-sosi medi gi - redes sociales  
-sosi sim - socialismo  
-sosi sim ja - socialista  
 sosis - salchicha  
 Soto - Lesoto  
 • inspete - inspeccionar (examinar, revisar, chequear)  
@@ -3581,8 +3593,8 @@ statike grafe - fotograma
 su - de (posposición de posesión)  
 suahili - suajili  
 sual - pregunta  
-sual di - interrogativa  
 sual dokumen - formulario  
+sualive - interrogativa  
 sual tema - asunto (caso)  
 Sualbarde - Svalbard  
 suan - agrio (ácido)  
@@ -3616,16 +3628,18 @@ sui yau - sed
 Suise - Suiza  
 suka - feliz (gustarse, disfrutar)  
 sukafa - gustar (complacer)  
-sukre - azúcar  
-sukre bete - remolacha azucarera  
-sukre di - azucarado  
-sukre gana - caña de azúcar  
-sukros - sacarosa  
+sukar - azúcar  
+sukar bete - remolacha azucarera  
+sukar di - azucarado  
+sukar gana - caña de azúcar  
+sukaros - sacarosa  
 sulfe - azufre  
 sulfate - sulfato  
+sulfide - sulfuro  
+sulfite - sulfito  
 sultan - poder (autoridad, competencia)  
-sultan dexa - sultanato  
-sultan ja - gobernante (soberano)  
+sultaner - gobernante (soberano)  
+sultania - sultanato  
 sum - suma (total)  
 suna - costumbre (tradición, convención)  
 suna di - traditional (convencional)  
@@ -3634,10 +3648,10 @@ Suomi - Finlandia
 suomi baxa - idioma finés  
 supa - sopa  
 supa camaca - cuchara de sopa  
+supa mien - ramen  
 super - maravilloso (magnífico)  
 supra - paso elevado  
 supra di - superior (más alto)  
-supra vakil ja - senador  
 supriza - sorpresa  
 Suria - Siria  
 Surinam - Surinam  
@@ -3707,6 +3721,7 @@ Telugu - télugu
 tema - tema (tratar de)  
 tema nam - título  
 tene - tener (mantener, detener)  
+• detene - detener (arrestar, prender)  
 • intene - contener (contenido)  
 • kontener - contenedor  
 • sutener - proxeneta (chulo)  
@@ -3724,14 +3739,16 @@ teruriste - terrorista
 tera - tera-  
 terbium - terbio  
 terca - oblicuo (torcido)  
-termo - temperatura  
-termo metri gi - termómetro  
+• hipotermia - hipotermia  
+terme - temperatura  
+termal - termal  
+termometrer - termómetro  
 tesla - tesla (T)  
 teste - intentar (probar)  
 teste - prueba  
+teze - tesis  
 teza - intenso (brusco, ácido, fuerte, afilado, rápido)  
 tezata - intensidad (volumen)  
-teze - tesis  
 ticin - instrumento de arco  
 tike - pedazo  
 tikete - etiqueta (boleto, billete)  
@@ -3753,9 +3770,9 @@ tix - chito (chist)
 tix - silencioso  
 tixta - silencio  
 to - a (hacia)  
-to jin - adelante  
 to long - lejos  
 to misal - por ejemplo  
+to pro - adelante  
 tocu - tocar (rozar)  
 tocu sense - palpar (tocar)  
 Togo - Togo  
@@ -3888,8 +3905,6 @@ vagina tis - vaginitis
 vahi - oasis  
 vai - fuera (exterior)  
 vai dara - desbordarse (derramarse)  
-vai dexa - país extranjero  
-vai dexa di - extranjero  
 vai di - exterior  
 vai gene di - exógeno  
 vai klus di - exclusivo  
@@ -3897,10 +3912,11 @@ vai mise - exportar
 vai nam - exónimo  
 vai planeta - exoplaneta (planeta extrasolar)  
 vai poze - exponer (revelar)  
-vai trata gi - extractor  
-vai vide di - evidente  
 vai yam - jira (pícnic)  
 vakil - representar  
+vakiler - representante  
+vakilize - diputar  
+vakilkratia - república  
 vali - valle  
 vali susan - convalaria (lirio de los valles)  
 Valis i Futuna nesi - Wallis y Futuna  
@@ -3938,9 +3954,9 @@ verife - autenticar
 veranda - balcón (terraza, veranda)  
 verme - verme  
 vermute - vermú  
-versi - versar (afrontar)  
-• intraversi - introvertido  
-• reversi - invertir  
+• intraverse - introvertido  
+• reverse - invertir  
+verse - versar (afrontar)  
 version - versión (modelo)  
 vespa - abeja o avispa  
 vespa nide - avispero (colmena)  
@@ -3951,6 +3967,7 @@ veze - peso (gravedad)
 veze di - pesado  
 veze metri gi - pesa (báscula, balanza)  
 vide - ver (mirar)  
+• exvidebil - evidente  
 • previde - prever (esperar, pensar)  
 vidaje - vista (visión)  
 vide ja - espectador  
@@ -4023,6 +4040,7 @@ xanti di - tranquilo (calmado)
 xara - sierra  
 xarafun - serrín  
 xarakan - aserradero  
+xarbe - beber (tomar)  
 xarma - vergüenza (pena)  
 xarnir - bisagra (gozne)  
 xarti - condición (requisito, estipulación)  

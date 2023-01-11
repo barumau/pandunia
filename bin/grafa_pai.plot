@@ -1,7 +1,7 @@
 filename = 'temp/asarnumbe.csv'
 
 rowi = 0
-rowf = 13
+rowf = 16
 
 # obtain sum(column(2)) from rows `rowi` to `rowf`
 set datafile separator ','

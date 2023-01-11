@@ -44,6 +44,7 @@ ais - glace
 ais di - glacé (glacial, gelé)  
 ais hoki - hockey sur glace  
 ais krem - crème glacée  
+ais xarbe - sorbet  
 Aiti - Haïti  
 ajabu - merveille  
 akare - acarien  
@@ -91,7 +92,7 @@ Amerikan Samoa - Samoa américaines
 amerikium - américium  
 amide - amide  
 amin - amine  
-amir dexa - émirat  
+amiria - émirat  
 amir ja - émir  
 amir lin - ligne de commande (console, terminal, invite de commande)  
 amper - ampère  
@@ -186,6 +187,7 @@ auge - augmenter
 auro - or  
 Australia - Australie  
 Austronesi - Austronésie  
+autatike - automatique  
 auter - auteur  
 auto loga - monologue  
 avakate - avocat  
@@ -194,7 +196,7 @@ ave - avoine
 axe - axe  
 axa hin - désespéré  
 Axur - Assur  
-Axur dexa - Assyrie  
+Axuria - Assyrie  
 aya - bonne (domestique)  
 ayo - aïe!  
 Azerbaijan - Azerbaijan  
@@ -248,7 +250,7 @@ banana - banane
 banda - bande  
 bandera - drapeau  
 bangla baxa - bengali  
-Bangla dexa - Bangladesh  
+Bangla gogia - Bangladesh  
 banker - banquier  
 bankekan - banque  
 bankrute - failli  
@@ -283,7 +285,7 @@ baske bol - basketball
 bati - huit (8)  
 batri - pile (batterie)  
 bau di - précieux  
-bau seku - pierre précieuse (joyau)  
+bauite - pierre précieuse (joyau)  
 • dubaxike - bilingue  
 • polibaxike - plurilingue (multilingue)  
 • trabaxe - traduction  
@@ -400,9 +402,12 @@ carme - charme
 cati - toit  
 cau - herbe (gazon)  
 cau medan - pelouse (gazon)  
+cau mien - chow mein  
 cavi - clé (clef)  
 ceke - chèque  
+ceng - mûr (mature)  
 ceng bede - lits superposés  
+ceng jen - adulte  
 • acepe - accepter  
 • intercepe - intercepter  
 • recepe - recevoir  
@@ -466,6 +471,8 @@ dava xe lojia - pharmacologie
 de - de  
 dee - dieu  
 • andeiste - athée  
+deokata - mythe  
+deonagre grame - dévanagari  
 deosofia - théosophie  
 defa bano - bouclire  
 defa kaska - armure  
@@ -473,8 +480,6 @@ deha - village
 dele - délai (retard)  
 • preden - hier  
 den loge - journal  
-deu kata - mythe  
-deu nagar zi - dévanagari  
 dexhanuka - droitier (dextre)  
 dia - jour  
 dia foto - lumière du jour  
@@ -501,8 +506,8 @@ dokumen - document (dossier)
 dokumen filme - documentaire  
 dolfin - dauphin  
 dom - maison (foyer, domicile)  
-dom dexa - patrie  
 dom di - domestique  
+dom gogia - patrie  
 dom zeze - mouche  
 don - donner  
 don tabi - généreux  
@@ -642,7 +647,6 @@ fa tele fon - téléphoner
 fa truke - escroquer  
 fa turbe - gêner (déranger, perturber)  
 fa vai klus - exclure  
-fa vai trata - extraire  
 fa valu - évaluer  
 fa verse - verser  
 fa vode - promettre  
@@ -719,7 +723,7 @@ frasen - frêne
 frem - cadre  
 frute - fruit  
 frutos - fructose  
-frute bagi - verger  
+frute parke - verger  
 fufu - pâte (pulpe, foufou)  
 fuku - vêtements  
 fun - poudre  
@@ -737,30 +741,35 @@ fuzi saf - fondu
 ## G  
 
 ga - aller  
-gabur - tombe (enterrer)  
-gabur bagi - cimetière  
-gabur seku - pierre tombale  
+gabre - tombe (enterrer)  
+gabrite - pierre tombale  
+gabrestan - cimetière  
 gadolinium - gadolinium  
 Galia - Gaule  
 galium - gallium  
-galaxi - galaxie  
+galaxia - galaxie  
 gali - rue  
 galope - galop  
 galte - faute (erreur)  
 galte di - erroné  
-gam - mariage  
+gamia - mariage  
 gam per - époux  
 gamba - crevette  
+gamel - chameau  
 gamo - émotion  
 gamo hal - humeur  
 gamo zi - émoticône (emoji)  
 gan cau - foin  
 gana - canne  
 gana kalam - calame  
+gandum - blé  
+Ganga - Gange  
 gani - chanter (chanson)  
 ganir grupe - chœur  
 ganse - oie  
-ganum - blé  
+garde - garder  
+garder - guetteur (sentinelle)  
+garde tor - tour de guet (tour de garde)  
 garma mosim - été  
 garma zona - tropique  
 garma zona caustan - savane  
@@ -847,7 +856,7 @@ haku - droit
 hal - état  
 hali - vide  
 hali zi - espace  
-halifa - calife  
+halife - calife  
 halo - allô  
 halte - halte  
 ham di - important  
@@ -873,6 +882,7 @@ hem - considérer
 heme - sang  
 hem… - hum…  
 hemoglobin - hémoglobine  
+hemopresia - tension artérielle  
 hemi selu - cellule sanguine (globule)  
 hen - haine  
 hena - henné  
@@ -894,10 +904,12 @@ hijabu - voile
 hima - neige  
 Hindocin - Indochine  
 hindium - indium  
+hinde sos - chutney  
 Hindestan - Hindustan  
 Hindi rivo - Indus  
+hipoglukohemia - hypoglycémie  
+hipohemopresia - hypotension  
 hisabu loge - compte  
-hisabu lojia - mathématiques  
 hiyar - concombre  
 hobi ja - amateur  
 hogo - feu  
@@ -940,7 +952,6 @@ in bum - implosion
 in klus - y compris  
 in klus di - inclusif  
 inlai - accès  
-in tene gi - conteneur  
 intre - entrer  
 intraje - intestin (entrailles, ventre, boyau)  
 in verse jen - introverti  
@@ -1033,11 +1044,11 @@ kali guste - amer
 kali oranje - orange amère  
 kalifornium - californium  
 kalmar - calmar (encornet, calamar)  
+kalsobilor - marbre  
 kalside - chaux  
 kalsite - calcite  
 kalsium - calcium  
-kalsi bilor - marbre  
-kalsi petra - calcaire  
+kalsopetre - calcaire  
 kam - peu  
 kama - luxure (libido)  
 kama kanon - Kâmasûtra  
@@ -1268,12 +1279,12 @@ litium - lithium
 litre - litre  
 livermorium - livermorium  
 lixu - écureuil  
-loga - parole  
+loge - parole  
+loga - enregistrement  
+loga buku - livre de bord  
 loga tabi di - loquace  
-loge - enregistrement  
-loge buku - livre de bord  
-loka - lieu  
-loka di - local  
+loke - lieu  
+lokal - local  
 long - long  
 long dura - longtemps  
 long dura di - prolongé  
@@ -1306,8 +1317,10 @@ lutesium - lutécium
 
 ma - mère (maman)  
 ma di - maternel  
+made - matière  
+madisme - matérialisme  
 magenium - magnésium  
-Magribi dexa - Maroc  
+Magribia - Maroc  
 mahala - quartier  
 majang - mah-jong  
 makan hua - dandélion  
@@ -1341,26 +1354,26 @@ masala - épices
 maska - masque  
 master - maître  
 masta - mât  
-mate - matière  
+mate - mathématiques (maths)  
+matike - mathématicien  
 mate - yerba mate  
 mate cai - maté  
-mate lona - matérialisme  
-matur jen - adulte  
-mau - chat  
+matras - matelas  
 max - plus  
 max fili - préférer  
 max fili di - favori (préféré)  
 max fili sim - favoritisme  
-maxim xe - maximum  
+maxia - majorité  
+maxike - majeur  
+maximaje - maximum  
 mayur - paon  
 mece - match  
+mede - aide (secours)  
+medal - médaille  
+medalon - médaillon  
 medan - place  
 medan papi - coquelicot  
-mede - aide (secours)  
-media - médias  
-medi di - moyen  
 medi dia - midi  
-medi noce - minuit  
 medu - miel  
 medu vespa nide - rayon de miel  
 megi - nuage  
@@ -1390,18 +1403,22 @@ meza tela - nappe
 mi - je (me)  
 mimen - nous  
 mimen su - notre  
+miau - chat  
+midia - médias  
+midike - moyen  
+mide noce - minuit  
+migre - migration  
 • inmigre - immigrer  
 • inmigrer - immigrant  
-migra - migration  
-mikrobiolojia - microbiologie  
 mikrobie - microbe  
-Mikronesi - Micronésie  
+mikrobiolojia - microbiologie  
+Mikronesia - Micronésie  
 mikroskope - microscope  
 milke - lait  
 milke kardon - chardon Marie  
 mime - imiter  
-mime ja - imitateur (mime)  
-minta - menthe  
+mimer - imitateur (mime)  
+minte - menthe  
 mira - mirer  
 mirabil - merveille  
 miraje - mirage  
@@ -1454,6 +1471,7 @@ muskul bina - culturisme (musculation)
 musli - musli  
 Muxin - Jupiter  
 muxinden - jeudi  
+muxmula - néflier  
 muxu - souris  
 muzika - musique  
 
@@ -1463,6 +1481,8 @@ nabi - prophétiser
 nabija - prophète (héraut)  
 nadir - rare  
 nadir mar - rarement  
+nagral - urbain  
+nagre gogia - cité-état  
 najis - pollution  
 nam - nom  
 • annam - antonyme  
@@ -1609,8 +1629,8 @@ parta - parité
 par vezeta - équilibre  
 paranam - paronyme  
 pari - fée  
-pari dexa - pays des fées (paradis)  
 pari kata - conte de fées  
+paristan - pays des fées (paradis)  
 Paris - Paris  
 parke - parc  
 parne - fougères  
@@ -1668,6 +1688,8 @@ pin cope - pioche
 pin kardon - chardon aux ânes  
 pin sense di - piquant  
 pinse bano - porte-bloc (planchette à pince)  
+pipa - luth  
+pipa frute - bibace (nèfle du Japon)  
 pipre - poivre  
 pipre minta - menthe poivrée  
 piram - pyramide  
@@ -1858,6 +1880,7 @@ semolojia - sémantique
 seme - semence  
 seme di - séminal  
 sen - aîné (senior, supérieur)  
+senater - sénateur  
 sen bra - frère aîné (grand frère)  
 sen sis - sœur aînée (grande sœur)  
 seng - cru  
@@ -1912,7 +1935,7 @@ sona tabi - ensommeillé (somnolent)
 soni - son  
 • asorbe - absorber (éponger)  
 sos - sauce  
-sosi - société  
+sosia - société  
 sosis - saucisse  
 • speter - spectateur  
 sporte - sport  
@@ -1929,16 +1952,17 @@ sui yau - soif
 Suise - Suisse  
 suka - heureux (se plaire)  
 sukafa - plaire  
-sukre - sucre  
-sukre bete - betterave à sucre (betterave sucrière)  
-sukre gana - canne à sucre  
-sukre oranje - orange douce  
-sukros - saccharose  
+sukar - sucre  
+sukar bete - betterave à sucre (betterave sucrière)  
+sukar gana - canne à sucre  
+sukar oranje - orange douce  
+sukaros - saccharose  
 sulfe - soufre  
 sulfate - sulfate  
+sulfide - sulfure  
+sulfite - sulfite  
 suna islam din - sunnisme  
 supa - soupe  
-supra vakil ja - sénateur  
 susan - lys  
 suta - art  
 
@@ -1974,6 +1998,7 @@ telurium - tellure
 tema - sujet (thème)  
 tema nam - titre  
 tene - tenir  
+• detene - détenir (arrêter)  
 • kontener - conteneur  
 • sutener - souteneur (maquereau)  
 tenesium - tennessine  
@@ -1982,6 +2007,8 @@ tepe - ruban (bande)
 terurisme - terrorisme  
 terbium - terbium  
 terca - oblique (de travers)  
+• hipotermia - hypothermie  
+termal - thermique  
 teste - épreuve  
 teze - argument  
 tikete - billet  
@@ -1996,9 +2023,9 @@ titi - sein
 tix - chut  
 tix - silencieux (se taire)  
 tixta - silence  
-to jin - en avant  
 to long - loin  
 to misal - par exemple  
+to pro - en avant  
 tocu - toucher  
 tole - tolérer (supporter, suffrir)  
 tolerate - tolérer (supporter, suffrir)  
@@ -2078,8 +2105,10 @@ vai - extérieur
 vai klus di - exclusif  
 vai planeta - exoplanète  
 vai poze - exposer  
-vai vide di - évident  
 vai yam - piquenique  
+vakiler - représentant (délégué)  
+vakilize - déléguer  
+vakilkratia - république  
 vali - vallée (oued)  
 valse - valse  
 valu - valeur  
@@ -2103,15 +2132,16 @@ ver - vrai
 veranda - balcon  
 verme - ver  
 vermute - vermouth  
-versi - verser (verse, face á)  
-• intraversi - introverti  
-• perversi - pervers  
+• intraverse - introverti  
+• perverse - pervers  
+verse - verser (verse, face á)  
 vespa - abeille ou guêpe  
 vespa nide - ruche (nid d'abeille)  
 veze - poids (lourdeur, gravité)  
 veze di - lourd  
 veze metri gi - balance (poids)  
 vide - voir  
+• exvidebil - évident  
 vide ja - espectador  
 vidua - veuve  
 vilde - sauvage  
@@ -2150,6 +2180,7 @@ xanti di - calme (tranquille)
 xara - scie  
 xarafun - sciure  
 xarakan - scierie  
+xarbe - boire  
 xatan - Satan  
 xava - rôtir  
 xayu - requin  

@@ -2,7 +2,7 @@
 kitaba_pike() {
    echo "# asar da mula basha da pandunia" > pandunia/asar_da_mulbax.md
    echo "" >> pandunia/asar_da_mulbax.md
-   echo "| basha | asar |" >> pandunia/asar_da_mulbax.md
+   echo "| baxe  | asar |" >> pandunia/asar_da_mulbax.md
    echo "|-------|--------|" >> pandunia/asar_da_mulbax.md
    cat temp/stats.txt >> pandunia/asar_da_mulbax.md
 }
@@ -21,13 +21,16 @@ fata_leksasli_liste() {
     sed -i 's/rus-/rus:/g' temp/logaslia.txt
     sed -i 's/ara-/ara:/g' temp/logaslia.txt
     sed -i 's/zho-/zho:/g' temp/logaslia.txt
+    sed -i 's/yue-/yue:/g' temp/logaslia.txt
     sed -i 's/jpn-/jpn:/g' temp/logaslia.txt
     sed -i 's/kor-/kor:/g' temp/logaslia.txt
     sed -i 's/vie-/vie:/g' temp/logaslia.txt
+    sed -i 's/fas-/fas:/g' temp/logaslia.txt
     sed -i 's/hin-/hin:/g' temp/logaslia.txt
     sed -i 's/ben-/ben:/g' temp/logaslia.txt
     sed -i 's/may-/may:/g' temp/logaslia.txt
     sed -i 's/swa-/swa:/g' temp/logaslia.txt
+    sed -i 's/tur-/tur:/g' temp/logaslia.txt
 }
 
 konta_asar() {
@@ -75,19 +78,20 @@ pan=$(cat temp/logaslia.txt | grep -c ":" )
 #echo "pan $pan 100%" >> temp/stats.txt
 
 konta_asar eng english $pan
-konta_asar fra france $pan
-konta_asar spa espanya $pan
+konta_asar fra franse $pan
+konta_asar spa espan $pan
 konta_asar por portugal $pan
 konta_asar rus rus $pan
 
 konta_asar hin hindi $pan
 konta_asar ben bangla $pan
-#konta_asar fas farsi $pan
-#konta_asar tur turki $pan
+konta_asar fas parsi $pan
+konta_asar tur turki $pan
 
 konta_asar zho putonghan $pan
+konta_asar yue guangdong $pan
 konta_asar jpn nipon $pan
-konta_asar kor chosen $pan
+konta_asar kor cosen $pan
 konta_asar vie viet $pan
 
 konta_asar may malayu $pan

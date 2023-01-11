@@ -36,7 +36,7 @@ adhésif (collant) - glu di
 adjectif - sifa loga  
 administrateur - politike  
 adresse - adres  
-adulte - matur jen  
+adulte - ceng jen  
 Afghanistan - Afganestan  
 Afrique - Afrika  
 agent (faiseur) - ater  
@@ -178,7 +178,7 @@ Asie - Asia
 asperge - asparge  
 assez - bas  
 Assur - Axur  
-Assyrie - Axur dexa  
+Assyrie - Axuria  
 astate - astatin  
 asthme - asma  
 astral - astral  
@@ -198,6 +198,7 @@ Austronésie - Austronesi
 autel - puja meza  
 auteur - auter  
 autocollant - glu grafi  
+automatique - autatike  
 automne - pada mosim  
 autopsie - nekro tomi  
 autre - ale  
@@ -240,7 +241,7 @@ bambou - bambu
 banane - banana  
 bande - banda  
 bande dessinée - grafi kata  
-Bangladesh - Bangla dexa  
+Bangladesh - Bangla gogia  
 banque - bankekan  
 banquier - banker  
 Barbade - Barbados  
@@ -270,8 +271,9 @@ berceause - lala gani
 berkélium - berklium  
 besoin - yauta  
 betterave - bete  
-betterave à sucre (betterave sucrière) - sukre bete  
+betterave à sucre (betterave sucrière) - sukar bete  
 beurre - bute  
+bibace (nèfle du Japon) - pipa frute  
 bibliothèque - kitabakan  
 bicyclette - sikle  
 bidonville - harabu mahala  
@@ -291,8 +293,9 @@ blanc - baku
 blettes (bettes) - selge  
 bleu - nil  
 bloquer - bara  
-blé - ganum  
+blé - gandum  
 bohrium - borium  
+boire - xarbe  
 bombe - bomba  
 bombe atomique - atom bomba  
 bon - bon  
@@ -360,13 +363,13 @@ cage - kane kasa
 caillou - xiu seku  
 cajou - kaju  
 calame - gana kalam  
-calcaire - kalsi petra  
+calcaire - kalsopetre  
 calcite - kalsite  
 calcium - kalsium  
 calculer - fa hisabu  
 calendrier - kalenda  
 caleçon - boce pante  
-calife - halifa  
+calife - halife  
 californium - kalifornium  
 calmar (encornet, calamar) - kalmar  
 calme (tranquille) - xanti di  
@@ -378,7 +381,7 @@ canevas (toile) - pente tela
 canif - jebe caku  
 canne - gana  
 canne à pêche - huke lin kane  
-canne à sucre - sukre gana  
+canne à sucre - sukar gana  
 canon - dai pau  
 canoë - kanu  
 Cantalupo in Sabina - Kantalupo va Sabina  
@@ -422,6 +425,7 @@ chacal - xakal
 chachlik - xix nama  
 chaise à bascule (berçante) - roke kursi  
 chambre à coucher - sona kamar  
+chameau - gamel  
 Champagne - Xampan  
 champagne - xampan vin  
 champignon - fungu frute  
@@ -438,7 +442,7 @@ charge (fardeau, poids) - karga
 charger - fa karga  
 charme - carme  
 chasser - fa saide  
-chat - mau  
+chat - miau  
 chaudron - dai pote  
 chauffeur de taxi - taxi vala  
 chaussure - sapatu  
@@ -459,12 +463,14 @@ Chine - Jongoku
 chlore - klor  
 chocolat - coklate  
 chose - xe  
+chow mein - cau mien  
 Christ - kriste  
 chrome - kromium  
 chronique - dura di  
 chronomètre - dura metri gi  
 chu - pada di  
 chut - tix  
+chutney - hinde sos  
 chèque - ceke  
 chèque cadeau - don xe ceke  
 chèque de voyage - safar ceke  
@@ -476,12 +482,13 @@ ciel - sama
 ciffre - nume zi  
 cigarette - sigar  
 cime (pic, sommet) - xan pike  
-cimetière - gabur bagi  
+cimetière - gabrestan  
 cinq (5) - lima  
 cirse commun - pena kardon  
 citron - limon  
 citronnade - limon jus  
 citrouille - kaboga  
+cité-état - nagre gogia  
 clair - klar  
 classique (canon) - kanon  
 client - klien  
@@ -525,7 +532,6 @@ considérer - hem
 construire - fa bina  
 consultant (conseiller) - kon sel ja  
 conte de fées - pari kata  
-conteneur - in tene gi  
 conteneur - kontener  
 continu (analogique) - undura  
 continuer (poursuivre, encore) - zoku  
@@ -690,10 +696,12 @@ défigurer - dusforme
 défunt - defunte  
 déféquer - defeke  
 délai (retard) - dele  
+déléguer - vakilize  
 désaccord (différend) - alo rai  
 désastre - dusastre  
 désespéré - axa hin  
-dévanagari - deu nagar zi  
+détenir (arrêter) - detene  
+dévanagari - deonagre grame  
 développement - gradu mute  
 dévoiler (révéler) - devel  
 
@@ -714,13 +722,13 @@ empreinte de pied - fute marke
 empreinte digitale - angul marke  
 empruntre - jeka na  
 en arrière - a re  
-en avant - to jin  
+en avant - to pro  
 en ligne - a lin  
 enclume - metal bede  
 encre - kalam sui  
 enfant - baca  
 ennemi - dus jen  
-enregistrement - loge  
+enregistrement - loga  
 enseigner - gio  
 ensommeillé (somnolent) - sona tabi  
 ensuite (après, plus tard, ir a, en el futuro) - a pos  
@@ -758,7 +766,6 @@ explosion - bum
 exposer - vai poze  
 exposer - expoze  
 expulser - expele  
-extraire - fa vai trata  
 extraire - extrate  
 extérieur - vai  
 exécrer - anluba  
@@ -855,10 +862,12 @@ féliciter - fa barka
 ## G  
 
 gadolinium - gadolinium  
-galaxie - galaxi  
+galaxie - galaxia  
 gallium - galium  
 galop - galope  
+Gange - Ganga  
 garde-boue (aile) - poto defa bano  
+garder - garde  
 gauche - leu  
 gaufre - vafle  
 Gaule - Galia  
@@ -900,6 +909,7 @@ grimace - grimas
 groupe - grupe  
 grâce à - a xukur de  
 grès - sablite  
+guetteur (sentinelle) - garder  
 guide - gida ja  
 guide touristique - gida buku  
 guider - gida  
@@ -969,6 +979,9 @@ hum… - hem…
 hydrate - hidrate  
 hydrogène - hidre  
 hygiène - salu safta  
+hypoglycémie - hipoglukohemia  
+hypotension - hipohemopresia  
+hypothermie - hipotermia  
 hâte (précipitation) - haste  
 hé - hei  
 hélice - propeler  
@@ -990,7 +1003,7 @@ idéogramme - ideograme
 iglou - iglu  
 il ou elle - da  
 ils ou elles - damen  
-imitateur (mime) - mime ja  
+imitateur (mime) - mimer  
 imiter - mime  
 immigrant - inmigrer  
 immigrer - inmigre  
@@ -1028,7 +1041,7 @@ international - internasial
 interracial - rasa medi  
 intestin (entrailles, ventre, boyau) - intraje  
 introverti - in verse jen  
-introverti - intraversi  
+introverti - intraverse  
 inutile - anyau di  
 inverse (négatif, in-) - an-  
 iode - iode  
@@ -1123,7 +1136,7 @@ libre - hure
 licence - baceler  
 lichen - alga fungu  
 lien - linke  
-lieu - loka  
+lieu - loke  
 lieu de naissance - nateloke  
 ligne (fil) - lin  
 ligne de commande (console, terminal, invite de commande) - amir lin  
@@ -1144,8 +1157,8 @@ lits superposés - ceng bede
 littérature - kitaba suta  
 livermorium - livermorium  
 livre - buku  
-livre de bord - loge buku  
-local - loka di  
+livre de bord - loga buku  
+local - lokal  
 loin (hors, parti) - for  
 loin - to long  
 long - long  
@@ -1162,6 +1175,7 @@ lumière - fote
 lumière du jour - dia foto  
 lundi - lunaden  
 lune - luna  
+luth - pipa  
 luthéranisme - Luter din  
 luthérien - Luter din ja  
 lutte - jihade  
@@ -1188,6 +1202,8 @@ maillon (chaînon) - ser
 main - hanu  
 mais - ama  
 maison (foyer, domicile) - dom  
+majeur - maxike  
+majorité - maxia  
 malt - malte  
 maltose - maltos  
 malédiction - dusdua  
@@ -1200,15 +1216,15 @@ manichéisme - mani din
 manie - mani  
 manioc - manioka  
 mantra - mantra  
-marbre - kalsi bilor  
+marbre - kalsobilor  
 marche - marce  
 marcher - grese  
 marché (bazar) - bazar  
 mardi - marisden  
 margay (chat-tigre) - margai  
 marguerite - baku margarite  
-mariage - gam  
-Maroc - Magribi dexa  
+mariage - gamia  
+Maroc - Magribia  
 Marrakech - Marakux  
 Mars - Maris  
 marécage (marais) - poto stan  
@@ -1216,20 +1232,22 @@ masque - maska
 masse - masa  
 mat (opaque) - foto mata di  
 match - mece  
+matelas - matras  
 matelot - bahai vala  
 maternel - ma di  
-mathématiques - hisabu lojia  
-matière - mate  
+mathématicien - matike  
+mathématiques (maths) - mate  
+matière - made  
 maté - mate cai  
-matérialisme - mate lona  
+matérialisme - madisme  
 Mauritanie - Muritania  
-maximum - maxim xe  
+maximum - maximaje  
 maître - master  
 meitnérium - meitnerium  
 melt - fuzi  
 membrane - mogu  
 mendélévium - mendelevium  
-menthe - minta  
+menthe - minte  
 Menthe aquatique - sui minta  
 menthe poivrée - pipre minta  
 menthe verte - kane minte  
@@ -1250,15 +1268,15 @@ mettre (placer) - fa loka
 meule - mol seku  
 microbe - mikrobie  
 microbiologie - mikrobiolojia  
-Micronésie - Mikronesi  
+Micronésie - Mikronesia  
 microscope - mikroskope  
 midi - medi dia  
 miel - medu  
-migration - migra  
+migration - migre  
 mil (millet) - dana.cau  
 mil éthiopien - tef  
 mine - kuan xan  
-minuit - medi noce  
+minuit - mide noce  
 mirage - miraje  
 mirer - mira  
 miroir - mira plate  
@@ -1298,19 +1316,21 @@ mousson - barxa mosim
 moussu - mos di  
 moustique - moski  
 mouvoir (bouger) - fa kino  
-moyen - medi di  
+moyen - midike  
 mule - iha uma  
 multiple - polipli  
 mur - mur  
 musique - muzika  
 musli - musli  
 mycélium - fungu nete  
-mythe - deu kata  
+mythe - deokata  
 mât - masta  
 mère (maman) - ma  
 mètre - mitre  
 mécanique - makin li  
-médias - media  
+médaille - medal  
+médaillon - medalon  
+médias - midia  
 médicament (remède) - dava xe  
 méduse - bahai jele  
 méfait (péché) - dusate  
@@ -1323,6 +1343,7 @@ méthane - metan
 méthanol (alcool de bois) - metanol  
 méthyle - metil  
 métier à tisser - tela gi  
+mûr (mature) - ceng  
 mûrier - tuta  
 
 ## N  
@@ -1377,6 +1398,7 @@ nylon - nilon
 nécessaire - yau di  
 nécrologie - nekro loga  
 nécrophilie - nekro fili  
+néflier - muxmula  
 néodyme - neodimium  
 néologisme - neu loga  
 néon - neon  
@@ -1418,7 +1440,7 @@ or - auro
 orange (couleur) - oranje rang  
 orange (fruit) - oranje  
 orange amère - kali oranje  
-orange douce - sukre oranje  
+orange douce - sukar oranje  
 orchidée - orkide  
 ordinaire (habituel, normal) - ada di  
 ordinateur - konputer  
@@ -1489,7 +1511,7 @@ parfait - perfete
 Paris - Paris  
 parité - parta  
 parler - fa loga  
-parole - loga  
+parole - loge  
 paronyme - paranam  
 part - fen  
 partenaire - partaner  
@@ -1503,14 +1525,14 @@ pastèque - arbuza
 paternel - pa di  
 pathologie - patolojia  
 patient - pati jen  
-patrie - dom dexa  
+patrie - dom gogia  
 patrie - patria  
 pause - pauze  
 pavillon - kioske  
 pavot d'Orient - gui papi  
 pavot somnifère - sona papi  
 pavé - gola seku  
-pays des fées (paradis) - pari dexa  
+pays des fées (paradis) - paristan  
 peindre - fa pente  
 peinture - pente  
 pelle - belca  
@@ -1526,7 +1548,7 @@ perplexe (désorienté) - ruhu mixe di
 perroquet - papagai  
 personne - jen  
 perturber (turbulence) - disturbe  
-pervers - perversi  
+pervers - perverse  
 pet (vesse) - pede  
 petit - xiu  
 petit-enfant - ben ben  
@@ -1546,8 +1568,8 @@ physique - fizolojia
 phénol - fenol  
 pierre - ite  
 pierre - seku  
-pierre précieuse (joyau) - bau seku  
-pierre tombale - gabur seku  
+pierre précieuse (joyau) - bauite  
+pierre tombale - gabrite  
 pieu - moka kane  
 pile (batterie) - batri  
 pilier (colonne, poteau) - kolum  
@@ -1739,6 +1761,7 @@ reporter (rapporteur) - reporter
 repos - xanti  
 repport (reportage) - reporte  
 reprendre - redura  
+représentant (délégué) - vakiler  
 requin - xayu  
 reste - baki  
 retourner (revenir) - be retro  
@@ -1790,6 +1813,7 @@ réparation - xuli
 réparer - fa xuli  
 réparer - repar  
 réponse - javabu  
+république - vakilkratia  
 répéter - fa re  
 répéter - rifete  
 réussir (avoir du succès, prospérer) - sucese  
@@ -1802,7 +1826,7 @@ s'installer (déménager) - be migra
 sable - sable  
 sac - baga  
 sac - sake  
-saccharose - sukros  
+saccharose - sukaros  
 sacrifice - kurban  
 sagesse - sofita  
 sagoutier - sagu  
@@ -1886,7 +1910,7 @@ situation (état de choses) - xe hal
 six (6) - luka  
 siècle (centennie) - sento nen  
 socio - bei  
-société - sosi  
+société - sosia  
 sodium - natri  
 soie - silke  
 soif - sui yau  
@@ -1897,6 +1921,7 @@ soleil - sol
 sommeil - sona  
 son (sa) - se su  
 son - soni  
+sorbet - ais xarbe  
 sorgho - jovar  
 soufre - sulfe  
 soumission - islam  
@@ -1913,13 +1938,15 @@ strontium - estrontium
 stylo-plume - fonte kalam  
 substance - kime  
 sucer - cupu  
-sucre - sukre  
+sucre - sukar  
 sueur - sueda  
 suffixe - pos fixe  
 Suisse - Suise  
 suivre - fa pos  
 sujet (thème) - tema  
 sulfate - sulfate  
+sulfite - sulfite  
+sulfure - sulfide  
 sunnisme - suna islam din  
 survivre - trajiva  
 svastika (croix gammée) - huke krus  
@@ -1932,7 +1959,7 @@ sélénium - selenium
 sémantique - semolojia  
 sémaphore - semoforer  
 séminal - seme di  
-sénateur - supra vakil ja  
+sénateur - senater  
 série - seria  
 sûr (crédible, sûrement) - amen di  
 sûr - sekur  
@@ -1967,6 +1994,7 @@ tender - long tire
 tendu - tense  
 tenir - tene  
 tennessine - tenesium  
+tension artérielle - hemopresia  
 tentacule - sense xaka  
 tente - haima  
 terbium - terbium  
@@ -1978,6 +2006,7 @@ terreplatiste - plate geo sim ja
 terrifier - terife  
 terrorisme - terurisme  
 thallium - talium  
+thermique - termal  
 thon - tuna  
 thorium - torium  
 thulium - tulium  
@@ -1999,7 +2028,7 @@ toit - cati
 tolérer (supporter, suffrir) - tole  
 tolérer (supporter, suffrir) - tolerate  
 tomate - tomate  
-tombe (enterrer) - gabur  
+tombe (enterrer) - gabre  
 tomographie - tomografia  
 ton - ton  
 topinambour - masa mula sol hua  
@@ -2008,6 +2037,7 @@ tortue - tortuga
 toucher - tocu  
 toupie - rota vanu gi  
 tour - tore  
+tour de guet (tour de garde) - garde tor  
 touriste - turiste  
 Tournesol - sol hua  
 toxicologie - toxolojia  
@@ -2069,6 +2099,7 @@ union - un ta liga
 universel - un verse di  
 uranium - uranium  
 Uranus - Uran  
+urbain - nagral  
 utile - uzike  
 
 ## V  
@@ -2094,12 +2125,12 @@ venir - lai
 ver - verme  
 ver à soie - silke larva  
 verbe - kar lexi  
-verger - frute bagi  
+verger - frute parke  
 vermouth - vermute  
 verre - glas  
 verre coloré - rang glas  
 verrue - zeyil  
-verser (verse, face á) - versi  
+verser (verse, face á) - verse  
 verser - fa verse  
 vert - luga  
 veuve - vidua  
@@ -2210,7 +2241,7 @@ zéro - siro
 émeraude - zumarde  
 émettre - exmise  
 émir - amir ja  
-émirat - amir dexa  
+émirat - amiria  
 émoticône (emoji) - gamo zi  
 émotion - gamo  
 épices - masala  
@@ -2242,7 +2273,7 @@ zéro - siro
 évangile - eu anjil  
 éveillé - jaga  
 éventail - sanzi  
-évident - vai vide di  
+évident - exvidebil  
 être (existence, essence) - esentia  
 être - es  
 être couché - be kux  

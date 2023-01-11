@@ -32,6 +32,7 @@ air ordu - военно-воздушные силы
 air porto - аэропорт  
 ais hoki - хокке́й с ша́йбой  
 ais krem - мороженое  
+ais xarbe - шербет  
 akare - клещ (лепта)  
 akasia - акация  
 akrabe - скорпион  
@@ -119,6 +120,7 @@ atom kerne - атомное ядро
 atom vuki - атомное оружие  
 auro - золото  
 Austronesi - Австронезия  
+autatike - автоматический  
 auter - автор  
 auto loga - монолог  
 avar - повреждение (авария)  
@@ -188,7 +190,7 @@ bati - восемь (8)
 batri - батарея  
 bau - сокровище (казна)  
 bau di - драгоценный  
-bau seku - драгоценный камень  
+bauite - драгоценный камень  
 • dubaxike - двуязычный  
 • polibaxike - многоязычный  
 • trabaxe - перевод  
@@ -314,6 +316,7 @@ cati - крыша (кров)
 cau - трава  
 cau kitaba - цаошу  
 cau medan - газон  
+cau mien - чаомянь  
 cavi - ключ  
 ceke - чек  
 ceng bede - двухъярусная кровать  
@@ -383,6 +386,8 @@ dava xekan - аптека
 dava xe lojia - фармакология  
 de - из (от)  
 dee - бог  
+deokata - миф  
+deonagre grame - деванагари  
 deosofia - теософия  
 defa bano - щит  
 defa kaska - доспехи  
@@ -390,8 +395,6 @@ deha - деревня (село)
 den - день (сутки)  
 • preden - вчера  
 den loge - дневник  
-deu kata - миф  
-deu nagar zi - деванагари  
 dia - день  
 dia foto - дневной свет  
 dike - направить (нацелить; цель)  
@@ -419,10 +422,10 @@ dokumen - документ
 dokumen filme - документальный фильм  
 dolfin - дельфин  
 dom - дом  
-dom dexa - родина (отечество)  
 dom di - домашний  
+dom gogia - родина (отечество)  
 dom zeze - муха  
-Dominika Vakil krati - Доминиканская Республика  
+Dominika Vakilkratia - Доминиканская Республика  
 don - дать  
 don tabi - щедрый  
 don xe ceke - подарочный сертификат  
@@ -546,7 +549,6 @@ fa truke - обмануть
 fa turbe - утруждать  
 fa vai - выгнать (исключить, кроме)  
 fa vai klus - исключить  
-fa vai trata - извлекать  
 fa valu - оценивать  
 fa xiti bai - проиграть (провалиться)  
 fa xopi - покупать (купить)  
@@ -612,7 +614,7 @@ frem - рама
 frike - царапать  
 frute - плод (фрукт)  
 frutos - фруктоза  
-frute bagi - фруктовый сад  
+frute parke - фруктовый сад  
 fufu - мякоть (пульпа, фуфу)  
 fuku - одежда  
 fuku di - оде́тый  
@@ -628,25 +630,30 @@ fute marke - след ноги
 ## G  
 
 ga - идти  
-gabur - могила (гроб, хоронить)  
-gabur bagi - кладбище  
-gabur seku - надгробие  
+gabre - могила (гроб, хоронить)  
+gabrite - надгробие  
+gabrestan - кладбище  
 gadolinium - гадолиний  
 Galia - Галлия  
 galium - галлий  
 gala - горло (глотка)  
-galaxi - галактика  
+galaxia - галактика  
 gali - улица  
 galope - кентер и галоп  
 gamba - креветка  
+gamel - верблюд  
 gamo - эмоция (чувство)  
 gamo di - эмоциональный  
 gamo hal - настроение  
 gamo zi - смайлик (эмодзи)  
 gan cau - сено  
+gandum - пшеница  
+Ganga - Ганг  
 ganir grupe - хор  
 ganse - гусь  
-ganum - пшеница  
+garde - беречь (сторожить, караулить)  
+garder - сторож (вахтёр)  
+garde tor - сторожевая башня  
 garma mosim - лето  
 garma zona - тропик  
 gas - газ  
@@ -733,7 +740,7 @@ haki - пыль
 haki rang - хаки  
 hal - состояние (статус)  
 hali - пустой  
-halifa - халиф  
+halife - халиф  
 halo - алло  
 ham di - важный (значимый)  
 hamil - беременный  
@@ -757,6 +764,7 @@ hem - думать
 heme - кровь  
 hem… - хм…  
 hemoglobin - гемоглобин  
+hemopresia - кровяное давление  
 hemi hin - бескровный  
 hemi selu - кровяная клетка (гематоцит)  
 hena - хна  
@@ -777,11 +785,12 @@ hijabu - вуаль
 hin - без  
 Hindocin - Индокитай  
 hindium - индий  
+hinde sos - чатни  
 Hindestan - Индостан  
 hindi raja - раджа  
 Hindi rivo - Инд  
+hipohemopresia - пониженное кровяное давление  
 hisabu loge - счёт  
-hisabu lojia - математика  
 hiyar - огурец  
 hobi ja - любитель  
 hogo - огонь  
@@ -820,7 +829,6 @@ iglu - иглу
 iha uma - мул  
 imperia - империя  
 in bum - имплозия  
-in tene gi - контейнер  
 intraje - внутренности  
 in verse jen - интроверт  
 iode - йод  
@@ -905,11 +913,11 @@ kali melon - горький огурец (китайская горькая ты
 kali oranje - померанец  
 kalifornium - калифорний  
 kalmar - кальмар  
+kalsobilor - мрамор  
 kalside - известь  
 kalsite - кальцит  
 kalsium - кальций  
-kalsi bilor - мрамор  
-kalsi petra - известняк  
+kalsopetre - известняк  
 kam - мало  
 kama kanon - Камасутра  
 kamar - комната (камера)  
@@ -1129,12 +1137,12 @@ litium - литий
 litre - литр  
 livermorium - ливерморий  
 lixu - белка  
-loga - речь  
-loge - запись  
-loge buku - судовой журнал  
+loge - речь  
+loga - запись  
+loga buku - судовой журнал  
 logi safar ja - исследователь  
-loka - место  
-loka nume - координаты  
+loke - место  
+loke kode - координаты  
 long dura - долго  
 long dura di - долгий (длительный)  
 long kata - роман  
@@ -1161,9 +1169,11 @@ lutesium - лютеций
 ma - мать (мама)  
 ma di - материнский  
 matria - родина  
+made - материя  
+madisme - материализм  
 magenium - магний  
 magi ja - чародей (маг)  
-Magribi dexa - Марокко  
+Magribia - Марокко  
 mahala - квартал  
 majang - маджонг  
 majenta - маджента (фуксия)  
@@ -1195,28 +1205,25 @@ masala - пряность
 maska - маска  
 master - мастер  
 masta - мачта  
-mate - материя  
+mate - математика (матика)  
+matike - математик  
 mate cai - матэ  
-mate lona - материализм  
-matur jen - взрослый  
-mau - кошка  
+matras - матрас  
 max fili - предпочитать  
 max fili di - любимый  
 max fili sim - фаворитизм (кумовство)  
+maximaje - максимум  
 max ordu - пополнение  
-maxim xe - максимум  
+maya - майя  
 mayur - павлин (пава)  
 maze - носок  
 mece - матч  
+mede - помощь  
+medal - медаль  
+medalon - медальон  
 medan - площадь (сквер, майдан)  
 medan papi - мак самосейка  
-mede - помощь  
-media - медиа  
-medi di - средний  
 medi dia - полдень  
-medi gi - средство  
-medi noce - полночь  
-medi xe - медиа (посредник, буфер)  
 medu - мёд  
 medu vespa nide - улей (соты)  
 megi - облако  
@@ -1245,17 +1252,23 @@ meza tela - скатерть
 mi - я  
 mimen - мы  
 mimen su - наш  
+miau - кошка  
+midaje - средство  
+midia - медиа  
+midike - средний  
+mide noce - полночь  
+migre - миграция  
 • inmigre - иммигрировать  
 • inmigrer - иммигрант  
-migra - миграция  
-mikrobiolojia - микробиология  
 mikrobie - микроб  
+mikrobiolojia - микробиология  
 mikroskope - микроскоп  
 milke - молоко  
 milke kardon - расторопша пятнистая  
 mime - имитировать  
-mime ja - мим (имитатор)  
-minta - мята  
+mimer - мим (имитатор)  
+minte - мята  
+mintol - ментол  
 miraje - мираж  
 mira plate - зеркало  
 mirde - слабый  
@@ -1298,6 +1311,7 @@ muskul bina - культуризм
 musli - мюсли  
 Muxin - Юпитер  
 muxinden - четверг  
+muxmula - мушмула  
 muxu - мышь  
 muzika - музика  
 
@@ -1308,6 +1322,8 @@ nabi - пророчество
 nabija - пророк (вестник)  
 nadir - редкий  
 nadir mar - редко  
+nagral - городской  
+nagre gogia - город-государство  
 najis - грязь (скверна)  
 nam - имя  
 • annam - антоним  
@@ -1500,6 +1516,8 @@ pin cope - киркомотыга
 pin kardon - татарник колючий  
 pin sense di - пикантный  
 pinse bano - планшет  
+pipa - лютня  
+pipa frute - локва  
 pipre - перец  
 pipre minta - мята перечная  
 piram - пирамида  
@@ -1675,6 +1693,7 @@ semolojia - семантика
 seme - семя  
 seme di - семенной  
 semente - цемент  
+senater - сенатор  
 sen bra - старший брат  
 sen sis - старшая сестра  
 seng - сырой  
@@ -1731,7 +1750,7 @@ sona tabi - сонный
 songi - сосна  
 sorbe - сёрбать  
 sos - соус  
-sosi - общество (социум)  
+sosia - общество (социум)  
 sosi jinse - гендер  
 sosis - колбаса (сосиска)  
 sporte - спорт  
@@ -1747,17 +1766,18 @@ sui minta - мята водная
 sui yau - жажда  
 Suise - Швейцария  
 suka - счастливый (радостный)  
-sukre - сахар  
-sukre bete - сахарная свёкла  
-sukre gana - сахарный тростник  
-sukre oranje - апельсин  
-sukros - сахароза  
+sukar - сахар  
+sukar bete - сахарная свёкла  
+sukar gana - сахарный тростник  
+sukar oranje - апельсин  
+sukaros - сахароза  
 sulfe - сера  
 sulfate - сульфат  
+sulfide - сульфид  
 suna islam din - сунниты  
 supa - суп  
 supa camaca - суповая ложка  
-supra vakil ja - сенатор  
+supa mien - рамэн  
 susan - лилия  
 suta - искусство  
 
@@ -1797,6 +1817,7 @@ teleskope - телескоп
 telurium - теллур  
 tema - тема  
 tema nam - название (пьесы, заголовок)  
+• detene - арестовывать  
 • kontener - контейнер  
 • sutener - сутенёр  
 tenesium - теннессин  
@@ -1805,6 +1826,8 @@ tepe - лента
 terurisme - терроризм  
 terbium - тербий  
 terca - косой  
+• hipotermia - гипотермия  
+termal - тепловой (термальный)  
 teste - проба (тест)  
 teze - довод  
 tikete - билет  
@@ -1894,9 +1917,10 @@ vai gene di - экзогенный
 vai jen - посторонний (аутсайдер)  
 vai klus di - исключительный (эксклюзивный)  
 vai planeta - экзопланета (внесолнечная планета)  
-vai verse di - экстраверт  
-vai vide di - очевидный  
 vai yam - пикник  
+vakiler - представитель (делегат)  
+vakilize - поручать (делегировать)  
+vakilkratia - республика  
 vali susan - ландыш  
 valse - вальс  
 valu - ценность  
@@ -1916,12 +1940,13 @@ ventur ja - авантюрист
 ver - верный  
 veranda - балкон  
 vermute - вермут  
-• exversi - экстраверт  
-• extraversi - экстраверт  
-• intraversi - интроверт  
+• exverse - экстраверт  
+• extraverse - экстраверт  
+• intraverse - интроверт  
 veste gorila - западная горилла  
 veze di - тяжёлый  
 vide - видеть  
+• exvidebil - очевидный  
 vide ja - зрительница  
 vide punte - перспектива (точки зрения)  
 vidua - вдова  
@@ -1964,6 +1989,7 @@ xanti di - спокойный
 xara - пила  
 xarafun - опилки  
 xarakan - лесопилка  
+xarbe - пить  
 xatan - Сатана  
 xaxa - шурша́ть  
 xayu - акула  

@@ -40,6 +40,7 @@ ai! - ayo
 ainda - zoku  
 ajuda (socorro, auxílio) - mede  
 alaranjado - oranje rang  
+alaúde - pipa  
 alcachofra - karcof  
 alcachofra-girassol (tupinambo) - masa mula sol hua  
 alcalino - kali di  
@@ -155,6 +156,7 @@ ato - ate
 até - hata  
 auge (aumentar) - auge  
 Austronésia - Austronesi  
+automático - autatike  
 autopsía - nekro tomi  
 autor - auter  
 aveia - ave  
@@ -166,7 +168,7 @@ azur (blau) - lazur
 azur - nil  
 açougueiro (talhante) - bucar  
 ação - ation  
-açúcar - sukre  
+açúcar - sukar  
 aí (lá) - a vo  
 
 ## B  
@@ -197,6 +199,7 @@ basebol (beisebol) - baze bol
 basketball - baske bol  
 bastante (suficiente) - bas  
 baía - baya  
+beber (tomar) - xarbe  
 bebê - bebe  
 beijo - busu  
 beleza - meita  
@@ -273,20 +276,21 @@ caju - kaju
 cal - kalside  
 calcita - kalsite  
 calcular - fa hisabu  
-calcário - kalsi petra  
+calcário - kalsopetre  
 calendário - kalenda  
-califa - halifa  
+califa - halife  
 califórnio - kalifornium  
 calvo - kapa kexa hin  
 calças - pante  
 cama (leito) - bede  
 cama portátil - kampe bede  
 camarão (gamba) - gamba  
+camelo - gamel  
 camisa - kamisa  
 camomila-romana - roma kamil  
 camomila-vulgar - kamil  
 cana - gana  
-cana-de-açúcar - sukre gana  
+cana-de-açúcar - sukar gana  
 canal (fosso, trincheira) - kanal  
 caneta de tinta permanente - fonte kalam  
 canguru - kangaru  
@@ -337,7 +341,7 @@ cavar (escavar) - kava
 caçar - fa saide  
 cebola - piaze  
 cem (100) - sento  
-cemitério - gabur bagi  
+cemitério - gabrestan  
 cenoura - karote  
 centauro - kentaur  
 centro - jong  
@@ -364,11 +368,13 @@ cheirar - fa aroma
 cheiro - aroma  
 cheque - ceke  
 cheque de viajante - safar ceke  
+chetnim - hinde sos  
 chibata - uma bici  
 chicote - bici  
 China - Jongoku  
 chocolate - coklate  
 chorar - vava  
+chow mein - cau mien  
 chumbo - plumbe  
 chupar (sugar) - cupu  
 chuva - barxa  
@@ -377,6 +383,7 @@ chá mate - mate cai
 ciano - cian  
 ciclista - sikle ja  
 cidade - siti  
+Cidade-estado - nagre gogia  
 cigarro - sigar  
 cinco (5) - lima  
 cintilar - fa sing foto  
@@ -395,6 +402,7 @@ coisa - xe
 colaborar - kon kar  
 colaborar - konkar  
 colar (aderir) - fa glu  
+colchão - matras  
 colher - camaca  
 colher de chá - cai camaca  
 colher de sopa - supa camaca  
@@ -436,7 +444,6 @@ conta - hisabu loge
 contar (calcular) - pute  
 conto - korte kata  
 conto de fadas - pari kata  
-contêiner - in tene gi  
 contêiner - kontener  
 copernício - kopernium  
 copo (taça) - kupa  
@@ -520,6 +527,7 @@ defunto - defunte
 deitar - fa kux  
 deixar - laxa  
 deixar - laxe  
+delegar - vakilize  
 delir (deletar) - deleta  
 demora (atraso, espera) - dele  
 dente-de-leão (taráxaco) - makan hua  
@@ -538,8 +546,9 @@ despelado - kexa hin
 despertar - be jaga  
 destino - kisma  
 destro - dexhanuka  
+deter (prender) - detene  
 deus - dee  
-devanágari - deu nagar zi  
+devanágari - deonagre grame  
 dever - mus  
 dez - des  
 dia (24 horas) - den  
@@ -565,7 +574,7 @@ ditador - ditater
 ditadura - ditateria  
 ditar - dite  
 diário - den loge  
-diário de bordo - loge buku  
+diário de bordo - loga buku  
 dióxido de carbono - karbe duoxide  
 dobro - duple  
 documento - dokumen  
@@ -614,7 +623,7 @@ emoticon (emoji) - gamo zi
 emoçao - gamo  
 emprestar (pedir emprestado) - jeka  
 emprestar - jeka don  
-encarar (afrontar; vérsus) - versi  
+encarar (afrontar; vérsus) - verse  
 encontrar - ajami  
 endereço - adres  
 enganar - fa truke  
@@ -695,7 +704,7 @@ etnia - zuku
 eu (me) - mi  
 európio - europium  
 evangelho - eu anjil  
-evidente - vai vide di  
+evidente - exvidebil  
 exato (preciso) - juste  
 excluir - fa vai klus  
 exclusivo - vai klus di  
@@ -706,7 +715,6 @@ explosão - bum
 expor (revelar) - vai poze  
 expor (revelar) - expoze  
 exterior - vai  
-extrair - fa vai trata  
 extrair - extrate  
 exército - ordu  
 exógeno - vai gene di  
@@ -718,7 +726,7 @@ face (faceta) - fase
 facção - xia  
 fada - pari  
 fadiga - fatige  
-fala - loga  
+fala - loge  
 falar - fa loga  
 falso - false  
 farmacologia - dava xe lojia  
@@ -792,13 +800,14 @@ fóton (fotão) - foton
 gadolínio - gadolinium  
 gaiola (jaula) - kane kasa  
 galope - galope  
-galáxia - galaxi  
+galáxia - galaxia  
 gamão - nardi  
 gancho - huke  
+Ganges - Ganga  
 ganso - ganse  
 garganta - gala  
 garrafa (botelha) - botel  
-gato - mau  
+gato - miau  
 gato-do-mato (gato-maracajá-mirim) - bagre oselote  
 gato-maracajá - margai  
 gelar - be ais  
@@ -832,6 +841,7 @@ graças a - a xukur de
 grupo - grupe  
 grávida (prenhe) - hamil  
 guarda-chuva - barxa cati  
+guardar - garde  
 guaxinim (rato-lavadeiro) - rakun  
 guepardo (chita) - cita  
 guia - gida ja  
@@ -853,7 +863,10 @@ Hesse (Héssia) - Hese
 hidrato - hidrate  
 hidrogéno - hidre  
 higiene - salu safta  
+hipoglicemia - hipoglukohemia  
 hipopótamo - gubu  
+hipotensão - hipohemopresia  
+hipotermia - hipotermia  
 hmm… - hem…  
 holismo - holisme  
 holografia - holografia  
@@ -863,7 +876,6 @@ honra - onor
 honrar - fa onor  
 hora - sah  
 horror - horure  
-hortelã - minta  
 hortelã-da-água - sui minta  
 hortelã-pimenta - pipre minta  
 hortelã-verde - kane minte  
@@ -1027,12 +1039,12 @@ livro - buku
 lixeira - lasa tong  
 lição - xula xe  
 lobo - volfe  
-local - loka di  
+local - lokal  
 loja - dukan  
 longo - long  
 lontra - lotra  
 lua - luna  
-lugar (local) - loka  
+lugar (local) - loke  
 lula (calamar) - kalmar  
 lustroso - foto mira di  
 luta - jihade  
@@ -1044,7 +1056,7 @@ luxúria - luxuria
 luz - fote  
 luz do dia - dia foto  
 lábio - labi  
-lápide - gabur seku  
+lápide - gabrite  
 lápis - kalam  
 lápis - karbe kalam  
 lápis-lazúli - lazur petra  
@@ -1064,10 +1076,12 @@ lúpulo - humel
 
 macroalga - bahai alga  
 madrasta - vise ma  
+maduro (adulto) - ceng  
 magnésio - magenium  
 mago - magi ja  
 mago - zarduxtan mager  
 mahjong - majang  
+maioria - maxia  
 mais - max  
 maldição - dusdua  
 malfeitoria (pecado) - dusate  
@@ -1095,7 +1109,7 @@ margarita-maior - baku margarite
 margem (borda) - kinar  
 marinha - bahai ordu  
 marinheiro - bahai vala  
-Marrocos - Magribi dexa  
+Marrocos - Magribia  
 Marte - Maris  
 marítimo - bahai di  
 mas - ama  
@@ -1104,19 +1118,22 @@ massa de modelar (massinha) - plasti paste
 mastro - masta  
 matadouro - bucakan  
 mate (opaco) - foto mata di  
-matemática - hisabu lojia  
-materialismo - mate lona  
+matemática - mate  
+matemático - matike  
+materialismo - madisme  
 maternal - ma di  
-matéria - mate  
+matéria - made  
 Mauritânia - Muritania  
 maçã - aple  
 mecânico - makin li  
-medio - medi di  
+medalha - medal  
+medalhão - medalon  
+medio - midike  
 medusa - bahai jele  
 meia - maze  
-meia-noite - medi noce  
-meio (instrumento) - medi gi  
-meio (metade) - medi  
+meia-noite - mide noce  
+meio (instrumento) - midaje  
+meio (metade) - mide  
 meio-dia - medi dia  
 meitnério - meitnerium  
 mel - medu  
@@ -1131,6 +1148,8 @@ meninge - meninge
 menosprezar (subestimar) - fa min rai  
 mensagem - anjil  
 mensagem - misaje  
+menta (hortelã) - minte  
+mentol - mintol  
 meranti - meranti  
 mercado (bazar) - bazar  
 mercúrio - hidrargente  
@@ -1147,13 +1166,13 @@ metro - mitre
 microbiologia - mikrobiolojia  
 microscópio - mikroskope  
 micróbio - mikrobie  
-migração - migra  
+migração - migre  
 milhete (painço) - dana.cau  
 mina - kuan xan  
 miragem - miraje  
 mirar (apontar) - fa dika  
 mirar - mira  
-mito - deu kata  
+mito - deokata  
 modelar - fa forma  
 modo (tipo) - mode  
 moeda - pesa diske  
@@ -1166,6 +1185,7 @@ molestar (perturber) - fa turbe
 molestar (perturber) - turbe  
 molhado - xipi  
 molhar - fa xipi  
+molho - sos  
 molho de soja - soi sos  
 molibdénio - moliden  
 momento (instante) - cana  
@@ -1191,17 +1211,17 @@ multidão - jen jami
 multilíngue (plurilíngue) - poli baxa di  
 multilíngue (plurilíngue) - polibaxike  
 mundo - dunia  
-mundo das fadas (paraíso) - pari dexa  
+mundo das fadas (paraíso) - paristan  
 muro (muralha) - mur  
 máquina de escrever - kitaba gi  
-mármore - kalsi bilor  
+mármore - kalsobilor  
 máscara - maska  
-máximo - maxim xe  
+máximo - maximaje  
 mãe - ma  
 mão - hanu  
-média (mídia) - media  
+média (mídia) - midia  
 mês - mes  
-mímico - mime ja  
+mímico - mimer  
 mó - mol seku  
 mónada - monaje  
 múltiplos - polipli  
@@ -1256,6 +1276,7 @@ náusea - retro gula sense
 não - no  
 não-binário - nobi  
 néon - neon  
+nêspera - pipa frute  
 níquel - nikel  
 nós - mimen  
 núcleo (cerne) - kerne  
@@ -1361,7 +1382,7 @@ pederneira - hogo seku
 pedir emprestado - jeka na  
 pedra - ite  
 pedra - seku  
-pedra preciosa (gema) - bau seku  
+pedra preciosa (gema) - bauite  
 pedregulho - dai seku  
 pedrinha - xiu seku  
 pegada - fute marke  
@@ -1418,7 +1439,7 @@ Polinésia - Polinesi
 poluição - najis  
 polvo - ohtopus  
 polónio - polskium  
-pomar - frute bagi  
+pomar - frute parke  
 ponta (pico, bico) - pike  
 ponta do dedo - angul pike  
 ponte - kio  
@@ -1455,6 +1476,7 @@ prensar (pressionar, premir) - fa prese
 presidente - presidente  
 pressa - haste  
 pressão - prese  
+pressão sanguínea - hemopresia  
 preto - kala  
 princípio - bazisme  
 problema - problem  
@@ -1495,7 +1517,7 @@ purê de maçã - aple sos
 pá - belca  
 página - yepa late  
 pássaro (ave) - paci  
-pátria - dom dexa  
+pátria - dom gogia  
 pátria - patria  
 pátria-mãe - matria  
 pâncreas - pankreas  
@@ -1541,6 +1563,7 @@ química - kimia
 rachadura - krake  
 radio - radio  
 rajá - hindi raja  
+ramen (miojo) - supa mien  
 raposa - huli  
 raramente - nadir mar  
 raro - nadir  
@@ -1562,7 +1585,7 @@ recém-nascido (neonato) - neu nati di
 referir - refere  
 refugo (escória) - lasa  
 regime - politi mode  
-registro - loge  
+registro - loga  
 rei - rajanan  
 relato - reporte  
 relier (connecter) - fa linke  
@@ -1577,7 +1600,9 @@ reparar - repar
 reparo - xuli  
 repetir - fa re  
 repetir - rifete  
+representante - vakiler  
 repórter - reporter  
+república - vakilkratia  
 reserva - rezerve  
 resposta - javabu  
 resto - baki  
@@ -1622,7 +1647,7 @@ sabedoria (sagacidade, sapiência) - sofita
 saber - sabi  
 saber - san  
 sacada (varanda) - veranda  
-sacarose - sukros  
+sacarose - sukaros  
 saco - sake  
 sacrifício - kurban  
 sagrada escritura - sante kanon  
@@ -1665,9 +1690,9 @@ sem nome - nam hin
 semente - seme  
 seminal - seme di  
 semântica - semolojia  
-senador - supra vakil ja  
+senador - senater  
 sentido - sense  
-sepultura (túmulo, enterrar) - gabur  
+sepultura (túmulo, enterrar) - gabre  
 ser (estar) - es  
 ser humano - human  
 serra - xara  
@@ -1692,7 +1717,7 @@ situaçao - xe hal
 sobreviver - trajiva  
 sobrinha - sau doh  
 sobrinho - sau son  
-sociedade - sosi  
+sociedade - sosia  
 socio - bei  
 sogra - per ma  
 sogro - per pa  
@@ -1707,10 +1732,13 @@ sopa - supa
 sorgo - jovar  
 sorver - sorbe  
 sorvete (gelado) - ais krem  
+sorvete - ais xarbe  
 substância - kime  
 suco (sumo) - jus  
 sujo - ansaf  
 sulfato - sulfate  
+sulfeto - sulfide  
+sulfito - sulfite  
 sunismo - suna islam din  
 suor - sueda  
 suástica (cruz gamada) - huke krus  
@@ -1761,6 +1789,7 @@ tentáculo - sense xaka
 teosofia - deosofia  
 ter (achar, receber) - na  
 ter - tene  
+termal (térmico) - termal  
 terminar (acabar, concluir) - pul fina  
 Terra - Geia  
 terra natal - nateloke  
@@ -1785,6 +1814,7 @@ tomografia - tomografia
 topografia - topografia  
 tora - moka tana  
 toranja - putau oranje  
+torre de observação - garde tor  
 torta - pai  
 toupeira - krote  
 toxicologia - toxolojia  
@@ -1801,7 +1831,7 @@ trator - trater
 trazer - fa lai  
 trem - tren  
 tribo - kabile  
-trigo - ganum  
+trigo - gandum  
 trigonometria - trigonometria  
 triplo - triple  
 truque (fraude) - truke  
@@ -1839,6 +1869,7 @@ uma vez - un mar
 universal - un verse di  
 união - un ta liga  
 Urano - Uran  
+urbano - nagral  
 urra - hura  
 urso - baru  
 urânio - uranium  
@@ -1882,6 +1913,7 @@ vestir - fa fuku
 vez - mar  
 vice-rei - vise raja  
 vidro - glas  
+vigia (sentinela) - garder  
 vinhedo - putau bagi  
 vir - lai  
 virgem - virge  

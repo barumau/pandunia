@@ -12,6 +12,7 @@
  - agrobiolojia  
  - agrokulte  
  - airobiike  
+ - ais xarbe  
  - algogenike  
  - algometria  
  - alia  
@@ -53,6 +54,7 @@
  - atom vuki  
  - auge  
  - Austronesi  
+ - autatike  
  - auter  
  - avar di  
  - ave  
@@ -136,6 +138,7 @@
  - cai vala  
  - cau kitaba  
  - cau medan  
+ - cau mien  
  - ceng bede  
  - cese  
  - cin bra  
@@ -180,7 +183,7 @@
  - doh doh  
  - doh son  
  - dokumen filme  
- - dom dexa  
+ - dom gogia  
  - don tabi  
  - don xe ceke  
  - dosti hin  
@@ -216,6 +219,7 @@
  - Europa luna  
  - eutopi  
  - exa  
+ - extre  
  - fa amen  
  - fa an galte  
  - fa an verse  
@@ -238,14 +242,12 @@
  - fa in klus  
  - fa ja  
  - fa jang  
- - fa jin  
  - fa jui  
  - fa karga  
  - fa lai  
  - fa maf  
  - fa mantra  
  - fa masaje  
- - fa max  
  - fa min  
  - fa min rai  
  - fa nafas  
@@ -267,7 +269,6 @@
  - fa tense  
  - fa vai klus  
  - fa vai tense  
- - fa vai trata  
  - fa valu  
  - fa verse  
  - fa xou  
@@ -306,7 +307,8 @@
  - fotoline  
  - Franse fon di  
  - Franse fon dunia  
- - frute bagi  
+ - frute parke  
+ - frute xarbe  
  - frutos  
  - fufu  
  - fuku di  
@@ -324,6 +326,7 @@
  - gana kalam  
  - Ganimede  
  - ganir  
+ - garde tor  
  - gata  
  - gata a dante  
  - gata glu bano  
@@ -396,8 +399,12 @@
  - hindi raja  
  - Hindi rivo  
  - Hindocin  
+ - hipe  
  - Hiperion  
- - hisabu  
+ - hipoglukohemia  
+ - hipohemopresia  
+ - hipokalsohemia  
+ - hisabe  
  - historia  
  - hobi ja  
  - holiste  
@@ -415,11 +422,11 @@
  - imperial  
  - in klus  
  - in klus di  
- - in tene gi  
  - in verse jen  
  - in vide  
  - inlai  
  - intraje  
+ - intre  
  - intre  
  - Io  
  - IP adres  
@@ -539,12 +546,10 @@
  - lipofobia  
  - lipolize  
  - lize  
- - loga di  
- - loga fili  
- - loge cuti  
- - loge jin  
+ - logal  
+ - logofilia  
  - logograme  
- - loka nume  
+ - loke kode  
  - long dura  
  - long dura di  
  - long kata  
@@ -560,6 +565,7 @@
  - ma ma  
  - ma pa  
  - ma sis  
+ - madisme  
  - magi bala  
  - makin li  
  - makinja  
@@ -578,11 +584,10 @@
  - matabil  
  - mate  
  - mate cai  
- - mate lona  
  - max fili sim  
+ - maxife  
  - me  
- - medi gi  
- - media  
+ - meder  
  - megi di  
  - memo tehni  
  - men  
@@ -596,10 +601,12 @@
  - metil  
  - metilamin  
  - metri gi  
+ - midaje  
+ - midia  
  - Mimas  
  - mime  
- - mime ja  
  - mimen su  
+ - mimer  
  - min poli  
  - mira  
  - mirabil  
@@ -612,9 +619,12 @@
  - monike  
  - monograme  
  - moto cati  
+ - muxmula  
  - muxu cakra  
  - na xiti  
  - nadir  
+ - nagre gogia  
+ - nagria  
  - najis  
  - najis bindu  
  - najis di  
@@ -671,7 +681,7 @@
  - par fase  
  - para  
  - paranam  
- - pari dexa  
+ - paristan  
  - parta  
  - partaneria  
  - partative  
@@ -703,6 +713,7 @@
  - pin sense di  
  - pinse  
  - pinse bano  
+ - pipa frute  
  - plasti di  
  - plasti paste  
  - pli  
@@ -800,10 +811,13 @@
  - suan mate  
  - sui culi  
  - sui gui  
- - sukros  
- - sultan dexa  
+ - sukaros  
+ - sulfide  
+ - sulfite  
+ - sultania  
  - suna islam din  
  - suomi baxa  
+ - supa mien  
  - suta tabi  
  - ta  
  - table  
@@ -823,15 +837,14 @@
  - tense  
  - tenseta  
  - terife  
+ - termal  
  - Tetis  
  - tezata  
  - Titan  
  - Titania  
  - titi  
  - tixta  
- - to in  
  - to long  
- - to vai  
  - tome  
  - topografia  
  - toxolojia  
@@ -876,9 +889,8 @@
  - vai klus di  
  - vai poze  
  - vai tense  
- - vai trata gi  
- - vai verse di  
- - vai vide di  
+ - vakilia  
+ - vakilize  
  - vala  
  - vanu gi  
  - varibil  
@@ -890,7 +902,7 @@
  - vei lin  
  - vel  
  - verife  
- - versi  
+ - verse  
  - viki  
  - viki pedia  
  - violeta  
@@ -908,6 +920,7 @@
  - xa  
  - xah mata  
  - xarafun  
+ - xarbe  
  - xi  
  - xi Fulan  
  - xia  
@@ -985,13 +998,14 @@
  - depena  
  - deprese  
  - despete  
+ - detene  
  - detere  
- - deversi  
+ - deverse  
  - disfere  
  - dispele  
  - distrate  
  - disturbe  
- - disversi  
+ - disverse  
  - dition  
  - dusate  
  - dusforme  
@@ -1003,6 +1017,7 @@
  - exjete  
  - exkava  
  - exkurse  
+ - exloga  
  - exmise  
  - expele  
  - experaje  
@@ -1013,14 +1028,18 @@
  - expute  
  - extrate  
  - extrater  
- - extraversi  
- - exversi  
+ - extraverse  
+ - exverse  
+ - exvidebil  
  - exvoke  
  - flexebil  
+ - hipoteze  
+ - hipotezike  
  - indike  
  - indute  
  - infere  
  - inhume  
+ - inloga  
  - inmigre  
  - inmigrer  
  - inpele  
@@ -1031,8 +1050,8 @@
  - interate  
  - interative  
  - intercepe  
- - intraspete  
- - intraversi  
+ - intraverse  
+ - introspete  
  - invoke  
  - jai pandunia!  
  - konbine  
@@ -1050,9 +1069,9 @@
  - kontener  
  - konteste  
  - kontrati  
- - kontraversi  
+ - kontraverse  
  - kontredite  
- - konversi  
+ - konverse  
  - luxure  
  - luxuria  
  - mahazin  
@@ -1061,7 +1080,7 @@
  - parafete  
  - paranormali  
  - paraprodute  
- - perversi  
+ - perverse  
  - poligene  
  - posfixe  
  - pospoze  
@@ -1109,7 +1128,7 @@
  - represe  
  - respete  
  - retene  
- - reversi  
+ - reverse  
  - revoke  
  - riforme  
  - rikurse  
@@ -1231,7 +1250,7 @@ artykuł wiki - viki makala
 artykuł, tekst - makala  
 artysta - arteja  
 Aruba - Aruba  
-arytmetyka - hisabu suta  
+arytmetyka - hisabia  
 asceta - askete  
 aseksualny - ansexe di  
 astat - astatin  
@@ -1239,7 +1258,7 @@ astma - asma
 astronauta - astronaver  
 astronom - astronomer  
 astronomia - astronomia  
-Asyria - Axur dexa  
+Asyria - Axuria  
 Aszur - Axur  
 atak (agresja, napaść) - agrese  
 ateista - andeiste  
@@ -1273,7 +1292,7 @@ balon - balon
 bambus - bambu  
 banan - banana  
 bandaż, taśma, wstążka - faxi  
-Bangladesz - Bangla dexa  
+Bangladesz - Bangla gogia  
 banglijski - bangla baxa  
 bank - bankekan  
 bankier - banker  
@@ -1394,7 +1413,7 @@ budżet - pesa plan
 bufet (szwedzki stół) - bufete  
 bulwa - masa mula  
 burak - bete  
-burak cukrowy - sukre bete  
+burak cukrowy - sukar bete  
 Burkina Faso - Burkina Faso  
 Burundi - Rundi  
 burza z piorunami - grom tufan  
@@ -1507,7 +1526,8 @@ ciężar (brzemię) - karga
 ciężarny (w ciąży) - hamil  
 ciężki (masywny) - veze di  
 ciśnienie atmosferyczne - air prese  
-cmentarz - gabur bagi  
+ciśnienie krwi - hemopresia  
+cmentarz - gabrestan  
 cnota (moralność) - bon moral  
 cnotliwy (prawy) - bon moral di  
 co? - ke  
@@ -1515,7 +1535,7 @@ co? - ke jen
 coś - yo xe  
 croissant - kruasan  
 cudzysłów - sita marke  
-cukier - sukre  
+cukier - sukar  
 cukierek, słodycze - kandi  
 cukinia - xiu kaboga  
 cukrowiec jadalny - yam sukar gana  
@@ -1577,7 +1597,7 @@ daktyl - tamar
 daleki, odległy - tele di  
 damarzyk (meranti) - meranti  
 dane - data  
-Dania - Danske dexa  
+Dania - Danske gogia  
 danie - tasa  
 darmsztadt - darmestadium  
 darwinista - darvin sim ja  
@@ -1604,7 +1624,7 @@ dentysta - dante dava ja
 deska - moka bano  
 deszcz - barxa  
 detal, szczegół - detal  
-dewanagari - deu nagar zi  
+dewanagari - deonagre grame  
 dezaktualizować (pogorszyć) - dus gradu  
 diabelski, szatański - xatanike  
 diabeł, szatan - xatan  
@@ -1618,7 +1638,7 @@ dobry los, szczęście - bon zar
 dobry ranek - sal suba  
 dobry wieczór - sal xam  
 dodatkowy - bon max xe  
-dodatkowy - max di  
+dodatkowy - maxaje  
 doktor (uczony, który osiągnął doktorat) - dotor  
 doktor, lekarz, uzdrowiciel - dava ja  
 doktorat - dotorta  
@@ -1631,7 +1651,7 @@ Dominika (Wspólnota Dominiki) - Dominika
 domino - domino geme  
 domowy - dom di  
 doradca (mentor) - mentor  
-dorosły, dojrzały - matur  
+dorosły, dojrzały - ceng  
 dorsz - bakalau  
 dorsz atlantycki - atlanti bakalau  
 dorsz pacyficzny - pace bahai bakalau  
@@ -1691,7 +1711,7 @@ dziecko (potomek) - ben
 dzielić - fa fen  
 dzielić (współdzielić) - fa komun  
 dzielnica - mahala  
-dziennik pokładowy (notatnik) - loge buku  
+dziennik pokładowy (notatnik) - loga buku  
 dziennikarz - gazeta ja  
 dziesięć (10) - des  
 dziesięć tysięcy - des kilo  
@@ -1749,7 +1769,7 @@ elektryczność - eletre
 elektryczny - eletrike  
 eliksir (magiczny napój) - dava sui  
 emir - amir ja  
-emirat - amir dexa  
+emirat - amiria  
 emocja, uczucie - gamo  
 emocjonalny (uczuciowy) - gamo di  
 emoji (emotkon) - gamo zi  
@@ -1838,7 +1858,7 @@ G - G
 Gabon - Gabon  
 gadolin - gadolinium  
 gal - galium  
-galaktyka - galaxi  
+galaktyka - galaxia  
 galeria, sala wystawowa - galeri  
 Galia - Galia  
 Gambia - Gambia  
@@ -1923,7 +1943,7 @@ grymas - grimas
 grzebień - kanga  
 grzyb - fungu  
 grzybnia - fungu nete  
-grób (mogiła, grobowiec, zakopać, pochować) - gabur  
+grób (mogiła, grobowiec, zakopać, pochować) - gabre  
 Guam - Guam  
 Gudżarat - gujarati  
 Guernsey - Gernezi  
@@ -1994,6 +2014,7 @@ Himalaje - Himalaya
 hinduistyczny - Hindi din ja  
 hinduizm - Hindi din  
 hipopotam - gubu  
+hipotermia (wychłodzenie) - hipotermia  
 historia, badanie historii - historolojia  
 historia; annały, roczniki - histor  
 historyk - historer  
@@ -2165,13 +2186,13 @@ kabaczek (dynia, tykwa) - kaboga
 kabel (linia) - eletroline  
 kaczka - bata  
 kadm - kadimium  
-Kajmany - Kaiman nesi  
+Kajmany - Kaiman nesia  
 kakao - kakau  
 kaktus - katus  
 kalcyt - kalsite  
 kalendarz - kalenda  
-kalif - halifa  
-kalifat - halifa dexa  
+kalif - halife  
+kalifat - halifia  
 kaliforn - kalifornium  
 kalkulować - fa hisabu  
 Kambodża - Kambojia  
@@ -2258,7 +2279,7 @@ klaun - payace
 klawiatura - buton bano  
 klawisz, przycisk, przełącznik, guzik - buton  
 klej - glu  
-klejnot - bau seku  
+klejnot - bauite  
 klescz (roztocze) - akare  
 klimat - klima  
 klimatologia - klimalojia  
@@ -2271,7 +2292,7 @@ kląć (przeklinać; przekleństwo) - dusdua
 kminek - karavi  
 koala - koala  
 kobalt - kobalte  
-kobieta, dorosła samica - matur fem  
+kobieta, dorosła samica - ceng fem  
 kobieta; kobiecy - ni  
 kochany (drogi) - luba di  
 kochać romantycznie - fa romanse  
@@ -2357,7 +2378,7 @@ koszt, cena - koste
 kosztować - fa koste  
 kosztowny (drogi) - koste di  
 koszula - kamisa  
-kot - mau  
+kot - miau  
 kotwica - angar  
 kowadło - metal bede  
 kowal - metal sanaja  
@@ -2371,7 +2392,7 @@ kość - oste
 kość do gry - zar kube  
 krab - krabe  
 kradzież - cori  
-kraj, ziemia - dexa  
+kraj, ziemia - gogia  
 kran (zawór) - kran  
 kredens (szafa, szafka) - almari  
 krem - krem  
@@ -2401,7 +2422,7 @@ krzywdzący (szkodliwy) - avar ja
 krzyż - krus  
 król - rajanan  
 król lub królowa - raja  
-królestwo - raja dexa  
+królestwo - rajia  
 królewski - raja di  
 królik, zając - tuzi  
 królowa - rajani  
@@ -2521,7 +2542,7 @@ lodowy - ais di
 lody - ais krem  
 logiczny - logika di  
 logika, dedukcja - logika  
-logofil (miłośnik słów) - loga fili ja  
+logofil (miłośnik słów) - logofiliste  
 lojalność (wierność) - amenbilta  
 lojalność (wierność) - bekredibilta  
 lojalny (wierny) - amenbil  
@@ -2543,6 +2564,7 @@ lustro - mira plate
 luteranizm - Luter din  
 luterański - Luter din ja  
 lutet - lutesium  
+lutnia - pipa  
 luty - mes des  
 luźna rozmowa, gadanina - blabla  
 lód - ais  
@@ -2568,8 +2590,8 @@ mak polny - medan papi
 mak wschodni - gui papi  
 makaron - mien  
 Makau - Makau  
-maksimum - maxim xe  
-maksymalny - maxim di  
+maksimum - maximaje  
+maksymalny - maximal  
 malajski - malayali  
 malajski - malayu  
 malaria - malaria  
@@ -2595,8 +2617,8 @@ marchew - karote
 margaj (ocelot nadrzewny) - margai  
 margaryna - margarin  
 Mariany Północne - Mariana nesi  
-marmur - kalsi bilor  
-Maroko - Magribi dexa  
+marmur - kalsobilor  
+Maroko - Magribia  
 Mars - Maris  
 martwić - be duka  
 marynarka (flota) - bahai ordu  
@@ -2612,11 +2634,11 @@ maszyna - makin
 maszyna do pisania - kitaba gi  
 masło - bute  
 masłosz Parka - karite  
-matematyk - hisabu lojiaja  
-matematyka - hisabu lojia  
+matematyk - matike  
+matematyka - mate  
 materac - matras  
-materia, substancja - mate  
-materialny - mate di  
+materia, substancja - made  
+materialny - madike  
 materiał (składnik, zasób) - faidaje  
 matka (mama) - ma  
 Mauretania - Muritania  
@@ -2624,15 +2646,15 @@ Mauritius - Moris
 Maya - maya  
 małpa (znak na - adres grame  
 mały - xiu  
-małżeństwo, związek małżeński - gam  
+małżeństwo, związek małżeński - gamia  
 małżonek - nan per (man)  
 małżonek (małżonka) - gam per  
 małżonka - ni per (fem)  
 mech - mos  
 mecz, rywalizacja - mece  
-medalion, medal - medal  
-media - medi xe  
-media społecznościowe - sosi medi gi  
+medal - medal  
+medalion - medalon  
+media społecznościowe - sosial midia  
 meduza - bahai jele  
 medycyna - dava lojia  
 medytować; dumać, rozmyślać, zastanawiać się - jan  
@@ -2645,6 +2667,7 @@ melodia - melodi
 melodyczny - melodi di  
 melon koreański - aroma melon  
 melon miodowy - luga melon  
+mentol - mintol  
 Merkury - Merkur  
 meronim - meronam  
 mesjasz - mesi  
@@ -2655,12 +2678,12 @@ metoda, sposób - riti
 metr - mitre  
 metro - tunel tren  
 miast, miasteczko - siti  
-miasto - nagar  
+miasto - nagre  
 miecz - gem  
 miedź - kupre  
-miejsce, lokacja - loka  
-miejscowy, lokalny - loka di  
-miejski - nagar di  
+miejsce, lokacja - loke  
+miejscowy, lokalny - lokal  
+miejski - nagral  
 mielić - molkan  
 miesiąc - mes  
 mieszkać - be dom  
@@ -2669,10 +2692,10 @@ mieć (posiadać) - fa mal
 mieć (trzymać) - ha  
 mieć sens - be razon  
 migdał - badam  
-migracja - migra  
+migracja - migre  
 mikro- - mikre  
 mikrobiologia - mikrobiolojia  
-Mikronezja - Mikronesi  
+Mikronezja - Mikronesia  
 mikroorganizm  (mikrob) - mikrobie  
 mikroskop - mikroskope  
 mikser, blender, robot kuchenny - mixe gi  
@@ -2683,8 +2706,8 @@ milimetr - mili mitre
 milion - mega  
 militarny, wojskowy, wojenny - jang di  
 minerał, ruda - kuan  
-minimal - minim di  
-minimalizm - minim sim  
+minimal - minimal  
+minimalizm - minisme  
 minister - ministre ja  
 ministry - ministre ofis  
 minuta - minute  
@@ -2694,7 +2717,7 @@ miraż (fatamorgana) - miraje
 misjonarz - misioner  
 mistrz (ekspert) - master  
 mistrz (sensei) - xifu  
-mit (boska opowieść) - deu kata  
+mit (boska opowieść) - deokata  
 miód - medu  
 mięczak (morski bezkręgowiec) - moluske  
 między (wśród, pośród) - a medi  
@@ -2704,7 +2727,7 @@ międzyrasowy - rasa medi
 miękki - naram  
 mięsny (umami) - umami  
 mięso - nama  
-mięta - minta  
+mięta - minte  
 mięta pieprzowa - pipre minta  
 mięta wodna - sui minta  
 mięta zielona (mięta kłosowa) - kane minte  
@@ -2717,8 +2740,8 @@ mlecz - makan hua
 mleko - milke  
 mleko sojowe - soi milke  
 mniej - min  
-mniejszościowy - minor  
-mniejszość - min di fen  
+mniejszościowy - minike  
+mniejszość - minia  
 moczyć (zmoczyć) - fa xipi  
 moda, trend - faxon  
 model (podobieństwo, symulować) - sam sifa xe  
@@ -2754,7 +2777,7 @@ most - kio
 motocykl (motor) - moto sikle  
 motyka - copu  
 motyl - pelpel  
-mowić (mowa) - loga  
+mowić (mowa) - loge  
 Mozambik - Mozambike  
 Mołdawia - Moldova  
 może - bahai  
@@ -2789,7 +2812,7 @@ mądrość - sofita
 mądry - sofi  
 męczyć się (nużyć się) - be fatige  
 męski - nan  
-mężczyzna, dorosły samiec - matur man  
+mężczyzna, dorosły samiec - ceng man  
 młode drzewo - jun moka  
 młode drzewo - you moke  
 młodość - junnen  
@@ -2811,7 +2834,7 @@ nadać, wysłać pocztą - fa posta
 Naddniestrze - Transe Nistre Dexa  
 nadzieja, życzenie - axa  
 nagi, goły, obnażony - nude  
-nagrobek - gabur seku  
+nagrobek - gabrite  
 nahuatl - nava  
 najmniej, minimalnie - minim  
 naleśnik - krepe  
@@ -2828,7 +2851,7 @@ napierśnik - sine plate
 naprawa - xuli  
 naprawiacz - xuli ja  
 naprawić, naprawiać - fa xuli  
-naprzód - to jin  
+naprzód - to pro  
 narkotyk - narke  
 narodowy (ludowy) - nasial  
 narodowy socjalizm (nazizm) - nasial sosialisme  
@@ -2974,7 +2997,7 @@ obserwator (widz) - vide ja
 obsydian - osidian  
 obudzić, budzić - fa jaga  
 obyczaj, zwyczaj, tradycja, praktyka, konwencja - suna  
-obywatel - dexa jen  
+obywatel - gogia jen  
 obóz - kampe ja  
 ocean - dai bahai  
 Ocean Antarktyczny (Ocean Południowy) - Antartika Bahai  
@@ -3039,7 +3062,7 @@ opona mózgowa - meninge
 opos - aposum  
 opowiadanie, opowieść, legenda, saga - kata  
 opowiedzieć, opowiadać - fa kata  
-oprócz, minus - a min de  
+oprócz, minus - minus  
 opłata, taryfa - tarif  
 organiczny - bie  
 orgazm - orgazme  
@@ -3057,7 +3080,7 @@ osm - osmium
 osmoza - osmos  
 osoba - jen  
 osoba biznesu, biznesman - biznes ja  
-osoba dorosła - matur jen  
+osoba dorosła - ceng jen  
 osoba mówiąca w Panduni - panduniste  
 osobisty numer identyfikacyjny (pin) - sekur nume  
 osobisty, intymny, prywatny - jen di  
@@ -3071,7 +3094,7 @@ oszacować, szacować, przybliżyć, przybliżać - fa yagu
 oszczędzać (deponować) - banke  
 oszukać (oszukiwać - fa truke  
 otoczyć, otaczać - fa gola  
-otwarty (przestrzenny) - medan di  
+otwarty (przestrzenny) - medanike  
 otwarty, niezamknięty - kai  
 otworzyć (otwierać, odkluczyć, odkluczać) - detala  
 otworzyć się, otwierać się - be kai  
@@ -3085,7 +3108,7 @@ ołtarz - puja meza
 ołów - plumbe  
 oś - axe  
 ośmiornica - ohtopus  
-ożeniony, zamężny, w związku małżeńskim - gam di  
+ożeniony, zamężny, w związku małżeńskim - gamike  
 ożenić się, poślubić, wyjść za mąż - fa gami  
 P - P  
 pachnieć - fa aroma  
@@ -3306,7 +3329,7 @@ polować (łowić) - fa saide
 Polska - Polska  
 polski - polska baxa  
 pomarańcza - oranje  
-pomarańcza słodka (pomarańcza chińska) - sukre oranje  
+pomarańcza słodka (pomarańcza chińska) - sukar oranje  
 pomarańczowy - oranje rang  
 pomidor - tomate  
 pomnik (memoriał) - memo bina  
@@ -3352,7 +3375,6 @@ poręcz (balustrada) - langan
 postawa ciała; asana - asan  
 postawiony (stojący) - lipa di  
 postawić (stawiać) - fa libu  
-posuwać się do przodu (dokonywać postępu, wejść) - be jin  
 posuwać się do przodu (dokonywać postępu, wejść) - progrese  
 poszukiwacz (badacz, eksplorator) - logi safar ja  
 poszukiwacz przygód (awanturnik) - ventur ja  
@@ -3510,7 +3532,6 @@ przymiotnik - sifa loga
 przymus - musta  
 przyprawa - masala  
 przyrostek (sufiks) - pos fixe  
-przyrostek dla wsperającego ideę - mede ja  
 przyrostek dla wykonawcy - ja  
 przystanek autobusowy - bus halte  
 przystojny, atrakcyjny, ładny - bon vide di  
@@ -3525,7 +3546,7 @@ pstrąg tęczowy - rang arka salmon
 psychologia - ruhu lojia  
 pszczoła lub osa - vespa  
 pszczoła miodna - medu vespa  
-pszenica - ganum  
+pszenica - gandum  
 ptak - paci  
 publiczny - demi di  
 puder - muka fun  
@@ -3538,11 +3559,11 @@ pusty - hali
 pustynia - sablestan  
 pułapka - kape truke  
 pyszny - bon guste di  
-pytajny, związany z pytaniem - sual di  
+pytajny, związany z pytaniem - sualive  
 pytanie - sual  
 pył - haki  
 półka (regał na książki) - lipa bano  
-północ - medi noce  
+północ - mide noce  
 północ - norde  
 północny - norde di  
 półwysep - yaki nesi  
@@ -3599,7 +3620,7 @@ realny - real
 rebelia, powstanie - rebel  
 recepta, receptura, przepis - reseta  
 region - tope  
-rejestr - loge  
+rejestr - loga  
 rekin - xayu  
 religia, wyznanie - din  
 religijny - din di  
@@ -3607,14 +3628,14 @@ relikwia - prezaman xe
 Ren - Ren  
 ren - renium  
 reporter - reporter  
-reprezentant (przedstawiciel) - vakil ja  
+reprezentant (przedstawiciel) - vakiler  
 reprezentować - vakil  
-republika - vakil krati  
+republika - vakilkratia  
 Republika Czeska, Czechy - ceska  
-Republika Dominikańska (Dominikana) - Dominika Vakil krati  
+Republika Dominikańska (Dominikana) - Dominika Vakilkratia  
 Republika Konga - Brazavil Kongo  
 Republika Macedonii, Macedonia - Norde Makedonia  
-Republika Środkowoafrykańska - Jong Afrika Vakilkrati  
+Republika Środkowoafrykańska - Jong Afrika Vakilkratia  
 respekt, honor, szacunek, poważanie - onor  
 restauracja - restoran  
 Reunion - Reunion  
@@ -3626,7 +3647,7 @@ robot - robote
 rock - roke musike  
 rocznica - nen festa  
 rod - rodium  
-rodak, ziomek, krajan - sam dexa jen  
+rodak, ziomek, krajan - sam gogia jen  
 rodzaj gramatyczny - baxe jinse  
 rodzaj, typ, styl - yang  
 rodzeństwo, brat lub siostra - sau  
@@ -3780,7 +3801,7 @@ seksuologia - sexolojia
 sekunda - sekunde  
 selen - selenium  
 sen - sona  
-senator - supra vakil ja  
+senator - senater  
 Senegal - Senegal  
 sensor (detektor, czujka) - sense gi  
 ser - keze  
@@ -3847,8 +3868,8 @@ smutny - duku di
 smycz (cugiel, lejc, wodza) - lide lin  
 snajper (strzelec wyborowy) - juste pau ja  
 sobota - xaniden  
-socjalista - sosi sim ja  
-socjalizm - sosi sim  
+socjalista - sosiste  
+socjalizm - sosisme  
 socjalizować się - fa sosi  
 soczewka - lense  
 sofa (kanapa) - sofa  
@@ -3876,8 +3897,8 @@ sporokarp - fungu frute
 sport, lekkoatletyka - sporte  
 spotkać (spotkanie, zebranie) - ajami  
 spowodować, powodować - fa sabu  
-społeczeństwo, system społeczny - sosi  
-społeczny - sosi li  
+społeczeństwo, system społeczny - sosia  
+społeczny - sosial  
 sprawdzić (sprawdzać, skontrolować, zbadać) - inspete  
 sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać - ceka  
 sprawiedliwość - adilta  
@@ -3929,7 +3950,7 @@ stowarzyszać się (zrzeszać się) - fa liga
 strach, fobia - fobi  
 stracić (utracić, tracić, zgubuć, gubić) - xiti  
 strażnik więzienny - jela ja  
-strażnik, ochroniarz - garde ja  
+strażnik, ochroniarz - garder  
 strona - yepa late  
 strona (bok) - late  
 stront - estrontium  
@@ -4008,7 +4029,7 @@ szkło wulkaniczne - hogo xan glas
 szmaragd - zumarde  
 szofer (kierowca) - xofer ja  
 szogun - ordu raja  
-szogunat - ordu raja dexa  
+szogunat - ordu rajia  
 szokwstrząs; kolizja - xoke  
 szop pracz - rakun  
 szorstki - gros  
@@ -4038,7 +4059,7 @@ sól - yem
 sądzić (osądzić) - jude  
 sędzia - juder  
 słaby - anbala  
-słodki - sukre di  
+słodki - sukar di  
 słodki ziemniak - kamote  
 słonecznik - sol hua  
 słony - yem di  
@@ -4105,7 +4126,7 @@ telewizja - tele vide gi
 tellur - telurium  
 telugu - Telugu  
 temat (motyw; dyskutować o) - tema  
-temperatura - termo  
+temperatura - terme  
 ten - ye  
 tendencja (być skłonnym) - klin  
 tenesyn, tennessine - tenesium  
@@ -4120,7 +4141,7 @@ teraźniejszość, współczesność - zaita
 teraźniejszość, współczesność (teraz) - zai zaman  
 terb - terbium  
 teren - geo forme  
-termometr - termo metri gi  
+termometr - termometrer  
 terror - tere  
 terror - terure  
 terrorysta - teruriste  
@@ -4173,7 +4194,7 @@ trwały (wytrzymały, podtrzymywalny) - durabil
 tryb - mode  
 tryb nocny - noce mode  
 Trynidad i Tobago - Trinidade i Tobago  
-trzcina cukrowa - sukre gana  
+trzcina cukrowa - sukar gana  
 trzeć (pocierać, obetrzeć, pucować) - frike  
 trzustka - pankreas  
 trzy (3) - tri  
@@ -4311,7 +4332,7 @@ wampir - vampir
 wampirzyca piekielna (wampirnica) - vampir ohtopus  
 wanad - vanadium  
 wanilia - vanila  
-wapień - kalsi petra  
+wapień - kalsopetre  
 wapno - kalside  
 wapń - kalsium  
 warcaby - dama geme  
@@ -4412,7 +4433,8 @@ wiwisekcja - biotomia
 wiza - viza  
 wizyta - keka  
 wizytant (gość) - keka ja  
-większość - max di fen  
+większościowy, wiodący, główny - maxike  
+większość - maxia  
 więzienie, kara więzienia, kara pozbawienia wolności - jela  
 więzienie, zakład karny - jelakan  
 wiśnia (czereśnia) - ceri  
@@ -4535,7 +4557,7 @@ węgiel - karbe
 Węgry - Magyar  
 węzeł, zupeł - node  
 władać, panować, rządzić jako imperator - impere  
-władca - sultan ja  
+władca - sultaner  
 własność (mienie) - mal  
 właściciel (posiadacz) - mal ja  
 właściwy, poprawny - sahi  
@@ -4567,8 +4589,8 @@ zachwycić się (być zachwyconym) - be ajabu
 zachód - veste  
 zaczyna (zacząć, rozpoczynać, rozpocząć) - be xuru  
 zacząć, zaczynać - fa xuru  
-zagranica - vai dexa  
-zagraniczny - vai dexa di  
+zagranica - exgogia  
+zagraniczny - exgogike  
 zagrożenie, niebezpieczeństwo - hatar  
 zaimek - vise loga  
 zainteresowanie, zaciekawienie; interesujący - san vol  
@@ -4676,7 +4698,7 @@ zimowy - leng mosim di
 Zjednoczone Emiraty Arabskie - Unta Arabi Amir Dexa (UAA)  
 Zjednoczone Królestwo - Britan  
 zjednoczony - un ta di  
-zmaksymalizować - fa maxim  
+zmaksymalizować - maximize  
 zmiana klimatu - klima mute  
 zmienić (zmieniać) - alofa  
 zmienić, zmieniać - mute  
@@ -4730,6 +4752,7 @@ złośliwy, okrutny - zalim
 zły (wsciekły, gniewny) - furi  
 zły los - dus zar  
 zły, zrujnowany, zepsuty - harabu  
+ćatni - hinde sos  
 ćsi - tix  
 ćsi - xux  
 ćwiczenie - lenxi  
@@ -4774,9 +4797,9 @@ zły, zrujnowany, zepsuty - harabu
 śniadanie - suba yam  
 śnieg - hima  
 śpiewać (piosenka, pieśń) - gani  
-średni - medi di  
+średni - midike  
 środa - merkurden  
-środek - medi  
+środek - mide  
 środkowy, centralny - jong  
 środowiskowy, naturalny - ekal  
 śruba, wkręt - vita  

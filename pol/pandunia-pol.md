@@ -12,7 +12,6 @@ a late - być obok
 a lin - online (na linii, w sieci)  
 a max -   
 a medi - między (wśród, pośród)  
-a min de - oprócz, minus  
 a neu - właśnie, dopiero co, ostatnio, niedawno  
 a nice - pod (poniżej)  
 a poli mar - często  
@@ -67,6 +66,7 @@ ais - lód
 ais di - lodowy  
 ais hoki - hokej na lodzie  
 ais krem - lody  
+ais xarbe -   
 Aiti - Haiti  
 ajabu - dziw (cudo, zachwyt)  
 ajabu di - zachwycający (zdumiewający, zadziwiający)  
@@ -127,8 +127,8 @@ amerikium - ameryk
 amide -   
 amin -   
 amir - rozkaz, komenda  
-amir dexa - emirat  
 amir haki -   
+amiria - emirat  
 amir ja - emir  
 amir lin -   
 amper - amper  
@@ -240,6 +240,7 @@ auro - złoto
 Australia - Australia  
 Austronesi -   
 aute - jaźń (tożsamość)  
+autatike -   
 auter -   
 autokratia - monarchia  
 autonomia - autonomia  
@@ -255,7 +256,7 @@ axe - oś
 axa - nadzieja, życzenie  
 axa hin - beznadziejny  
 Axur - Aszur  
-Axur dexa - Asyria  
+Axuria - Asyria  
 aya -   
 ayo - aj!, ał!  
 Azerbaijan - Azerbejdżan  
@@ -325,7 +326,7 @@ banda - zespół (drużyna, grupa)
 bande - taśma; bandaż  
 bandera - flaga, sztandar  
 bangla baxa - banglijski  
-Bangla dexa - Bangladesz  
+Bangla gogia - Bangladesz  
 banke - oszczędzać (deponować)  
 banker - bankier  
 bankekan - bank  
@@ -368,7 +369,7 @@ batri - bateria
 bau - skarb; skrabiec  
 bau bei -   
 bau di - cenny  
-bau seku - klejnot  
+bauite - klejnot  
 • dubaxike - dwujęzyczny  
 • konbaxe - wspólny język  
 • polibaxike - wielojęzyczny  
@@ -426,7 +427,6 @@ be in -
 be in bum - implodować  
 be islam - poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym  
 be jaga -   
-be jin - posuwać się do przodu (dokonywać postępu, wejść)  
 be kai - otworzyć się, otwierać się  
 be karibu - zbliżać się (zbliżyć się)  
 be kino -   
@@ -653,13 +653,18 @@ cati - dach
 cau - trawa  
 cau kitaba -   
 cau medan -   
+cau mien -   
 cau stan - łąka  
 cavi - klucz  
 ceka - sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać  
 ceke - czek  
 celsius gradu - stopień Celsjusza  
 ceng - warstwa (poziom, piętro, kondygnacja)  
+ceng - dorosły, dojrzały  
 ceng bede -   
+ceng fem - kobieta, dorosła samica  
+ceng jen - osoba dorosła  
+ceng man - mężczyzna, dorosły samiec  
 • acepe -   
 • decepe -   
 • excepe - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
@@ -768,7 +773,7 @@ dang - dzwonić (dźwięczeć, szczękać)
 dang gi - dzwon (dzwonek)  
 danse - taniec  
 Danske - duński  
-Danske dexa - Dania  
+Danske gogia - Dania  
 dante - ząb  
 dante baluta - dąb zębaty  
 dante broxa - szczoteczka do zębów  
@@ -810,8 +815,10 @@ deike - boski
 deisme - teizm  
 • andeiste - ateista  
 deiste - teistyczny  
+deokata - mit (boska opowieść)  
 deokratia - teokracja  
 deojojia - teologia  
+deonagre grame - dewanagari  
 deosofia - teozofia  
 defa - obrona  
 defa bano - tarcza  
@@ -838,16 +845,12 @@ desen - rysunek, obraz
 desi - decy-, dziesiąta część  
 desi bel - decybel  
 detal - detal, szczegół  
-deu kata - mit (boska opowieść)  
-deu nagar zi - dewanagari  
 deval - szalony  
 devalta - szaleństwo  
 dex - prawa strona  
 dex di - prawy (prawostronny, z prawej strony)  
 dexhanuka -   
 dexiste - prawicowiec (prawak)  
-dexa - kraj, ziemia  
-dexa jen - obywatel  
 di -   
 dia - dzień  
 dia foto -   
@@ -895,11 +898,11 @@ dokumen sanduku - folder (teczka)
 dolar - dolar  
 dolfin - delfin  
 dom - dom, mieszkanie  
-dom dexa -   
 dom di - domowy  
+dom gogia -   
 dom zeze - mucha  
 Dominika - Dominika (Wspólnota Dominiki)  
-Dominika Vakil krati - Republika Dominikańska (Dominikana)  
+Dominika Vakilkratia - Republika Dominikańska (Dominikana)  
 domino geme - domino  
 don - dać, dawać  
 • redon -   
@@ -1059,6 +1062,9 @@ europa baluta - dąb szypułkowy
 europa di - europejski  
 Europa luna -   
 Europa Unta - Unia Europejska (EU)  
+exgogia - zagranica  
+exgogike - zagraniczny  
+extre -   
 exa -   
 
 ## F  
@@ -1155,7 +1161,6 @@ fa jama - kolekcjonować, zebrać, zbierać
 fa jang -   
 fa javabu - odpowiedzieć, odpowiadać  
 fa jela - uwięzić, więzić, pozbawić wolności  
-fa jin -   
 fa jong - centrować, skupić, skupiać  
 fa jui -   
 fa juxa - wstrzyknąć, wstrzykiwać  
@@ -1200,9 +1205,7 @@ fa mantra -
 fa marce - iść, maszerować  
 fa marke - zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad  
 fa masaje -   
-fa max -   
 fa max lika - wesprzeć (wzmocnić, zasilić)  
-fa maxim - zmaksymalizować  
 fa mece - konkurować, rywalizować; odbyć mecz, odbywać mecz  
 fa mede - pomóc, pomagać, asystować  
 fa mei daka - dekorować  
@@ -1310,7 +1313,6 @@ fa un xe - jednoczyć
 fa vai - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
 fa vai klus -   
 fa vai tense -   
-fa vai trata -   
 fa valu -   
 fa vanu - bawić, zabawiać  
 fa verse -   
@@ -1501,7 +1503,8 @@ frem - rama
 frike - trzeć (pocierać, obetrzeć, pucować)  
 frute - owoc  
 frutos -   
-frute bagi -   
+frute parke -   
+frute xarbe -   
 fufu -   
 fui - fu, fuj  
 fuka - wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać  
@@ -1538,30 +1541,30 @@ fuzi saf - topić (upłynnić, upłynniać)
 
 ga - iść  
 Gabon - Gabon  
-gabur - grób (mogiła, grobowiec, zakopać, pochować)  
-gabur bagi - cmentarz  
-gabur seku - nagrobek  
+gabre - grób (mogiła, grobowiec, zakopać, pochować)  
+gabrite - nagrobek  
+gabrestan - cmentarz  
 gadolinium - gadolin  
 gaja - słoń  
 Galia - Galia  
 galium - gal  
 gala -   
-galaxi - galaktyka  
+galaxia - galaktyka  
 galeri - galeria, sala wystawowa  
 gali - ulica  
 galope - cwał (galop)  
 galte - błąd (pomyłka)  
 galte budi - źle zrozumieć  
 galte di - błędny (niepoprawny)  
-gam - małżeństwo, związek małżeński  
 gam cin -   
-gam di - ożeniony, zamężny, w związku małżeńskim  
+gamia - małżeństwo, związek małżeński  
+gamike - ożeniony, zamężny, w związku małżeńskim  
 gam ma -   
 gam pa -   
 gam per - małżonek (małżonka)  
 gam sau -   
-gamba - krewetka  
 Gambia - Gambia  
+gamba - krewetka  
 gamel - wielbłąd, wielbłądzica  
 gamo - emocja, uczucie  
 gamo di - emocjonalny (uczuciowy)  
@@ -1575,6 +1578,7 @@ Gana - Ghana
 gana -   
 gana kalam -   
 Ganda - Uganda  
+gandum - pszenica  
 Ganga - Ganges  
 gani - śpiewać (piosenka, pieśń)  
 ganir -   
@@ -1582,10 +1586,10 @@ ganir grupe - chór
 Ganimede -   
 ganja - konopie  
 ganse - gęś  
-ganum - pszenica  
 garanti - gwarancja  
 garde - chronić, strzec,  osłaniać, bronić  
-garde ja - strażnik, ochroniarz  
+garder - strażnik, ochroniarz  
+garde tor -   
 garde zelo - zazdrosny  
 garma - ciepły  
 garma masala - garam masala  
@@ -1685,6 +1689,8 @@ glukin -
 glukogen -   
 glukos -   
 gluten - gluten  
+gogia - kraj, ziemia  
+gogia jen - obywatel  
 gol - cel  
 gola - koło, okrąg  
 gola di - okrągły  
@@ -1792,8 +1798,8 @@ halal liste -
 halela - chwalić (wychwalać)  
 hali - pusty  
 hali zi - spacja  
-halifa - kalif  
-halifa dexa - kalifat  
+halife - kalif  
+halifia - kalifat  
 halo - halo, cześć  
 halte - stop; przerwa, zatrzymanie  
 ham - znaczyć (liczyć się, być ważnym)  
@@ -1851,6 +1857,7 @@ heme - krew
 hem… - hmm…  
 hemofobia -   
 hemoglobin - hemoglobina  
+hemopresia - ciśnienie krwi  
 hemi hin -   
 hemi selu - dumać, rozmyślać, zastanawiać się, rozważać, brać pod uwagę  
 hen - nienawidzić  
@@ -1887,17 +1894,20 @@ hin di -
 Hinde -   
 Hindocin -   
 hindium - ind  
+hinde sos - ćatni  
 Hindestan -   
 Hindi din - hinduizm  
 Hindi din ja - hinduistyczny  
 hindi raja -   
 Hindi rivo -   
+hipe -   
+hipoglukohemia -   
+hipohemopresia -   
+hipokalsohemia -   
 Hiperion -   
-hisabu -   
+hisabe -   
+hisabia - arytmetyka  
 hisabu loge - konto  
-hisabu lojia - matematyka  
-hisabu lojiaja - matematyk  
-hisabu suta - arytmetyka  
 histor - historia; annały, roczniki  
 historer - historyk  
 historia -   
@@ -2005,7 +2015,7 @@ inmun - wejście
 in nam - endonim  
 in puxe - ścisnąć (sciskać, wycisnąć)  
 in tene - zawierać  
-in tene gi -   
+intre -   
 intre -   
 intraje -   
 intromun - wejście  
@@ -2113,7 +2123,7 @@ jiva - żyć (żywy, żyjący; życie)
 joke - żart  
 joker - żartowniś, dowcipniś  
 jong - środkowy, centralny  
-Jong Afrika Vakilkrati - Republika Środkowoafrykańska  
+Jong Afrika Vakilkratia - Republika Środkowoafrykańska  
 jong di - centralny (środkowy)  
 jong fon - samogłoska  
 jong xulakan -   
@@ -2173,7 +2183,7 @@ kafur - kamfora
 kaguji - papier  
 kaguji limon - lima (limonka)  
 kai - otwarty, niezamknięty  
-Kaiman nesi - Kajmany  
+Kaiman nesia - Kajmany  
 kaju - nerkowiec  
 kaka - ekskrement, gówno  
 kakau - kakao  
@@ -2193,11 +2203,11 @@ kalifornium - kaliforn
 Kalisto -   
 kalkul - rachunek (formalny system obliczeń)  
 kalmar - kałamarnica (mątwa)  
+kalsobilor - marmur  
 kalside - wapno  
 kalsite - kalcyt  
 kalsium - wapń  
-kalsi bilor - marmur  
-kalsi petra - wapień  
+kalsopetre - wapień  
 kam - niewiele (mało)  
 kamia - nieliczność  
 kamife -   
@@ -2687,24 +2697,24 @@ livermorium - liwermor
 lixu - wiewiórka  
 lize -   
 loba - rzodkiewka  
+loge - mowić (mowa)  
+logal -   
+logofilia -   
+logofiliste - logofil (miłośnik słów)  
 logograme -   
-loga - mowić (mowa)  
-loga di -   
-loga fili -   
-loga fili ja - logofil (miłośnik słów)  
+• exloga -   
+• inloga -   
+loga - rejestr  
+loga buku - dziennik pokładowy (notatnik)  
 loga ironi - sarkazm  
 loga tabi di - rozmowny  
-loge - rejestr  
-loge buku - dziennik pokładowy (notatnik)  
-loge cuti -   
-loge jin -   
 logi safar ja - poszukiwacz (badacz, eksplorator)  
 logika - logika, dedukcja  
 logika di - logiczny  
 loje - nauka, badanie, studiowanie  
-loka - miejsce, lokacja  
-loka di - miejscowy, lokalny  
-loka nume -   
+loke - miejsce, lokacja  
+lokal - miejscowy, lokalny  
+loke kode -   
 lona - dyskusja, debata, dyskurs  
 London - Londyn  
 long - długi  
@@ -2758,6 +2768,9 @@ ma ma -
 ma pa -   
 ma sis -   
 matria - macierz  
+made - materia, substancja  
+madike - materialny  
+madisme -   
 Madagasi - Madagaskar  
 madagasi di - madagaskarski; malagaski  
 maf - przepraszam!  
@@ -2767,7 +2780,7 @@ magi asar - zaklecie
 magi bala -   
 magi di - magiczny  
 magi ja - magik, czarownik  
-Magribi dexa - Maroko  
+Magribia - Maroko  
 Magyar - Węgry  
 mahala - dzielnica  
 mais - kukurydza  
@@ -2832,6 +2845,7 @@ masaje - masaż
 masala - przyprawa  
 masala tike - tikka masala  
 maska - maska, kamuflaż  
+maste - być mistrzem (być ekspertem)  
 master - mistrz (ekspert)  
 master de arte (MA) -   
 master de enjenia (ME) -   
@@ -2839,56 +2853,47 @@ master de filsofia (MF) -
 master de lojia (ML) -   
 master de tehnolojia (MT) -   
 masta - maszt  
-maste - być mistrzem (być ekspertem)  
+mate - matematyka  
+matike - matematyk  
 mata - umrzeć (umierać; śmierć; martwy, nieżywy, zabity)  
 mata badan -   
 matabil -   
 matafa - zabić, zabijać  
 mataja - zabójca  
-mate - materia, substancja  
 mate -   
 mate cai -   
-mate di - materialny  
-mate lona -   
 matras - materac  
-matur - dorosły, dojrzały  
-matur fem - kobieta, dorosła samica  
-matur jen - osoba dorosła  
-matur man - mężczyzna, dorosły samiec  
-mau - kot  
 max - bardzie  
-max di - dodatkowy  
-max di fen - większość  
+maxaje - dodatkowy  
 max fili - preferować (woleć)  
 max fili di - ulubiony  
 max fili sim -   
 max gradu - zwiększyć o jeden  
+maxia - większość  
+maxife -   
+maxike - większościowy, wiodący, główny  
+maxim - nabardziej, maksymalnie  
+maximaje - maksimum  
+maximal - maksymalny  
+maximize - zmaksymalizować  
 max ka bas - zbyt  
 max ordu - wsparcie (wzmocnienie, zasilenie)  
-maxim - nabardziej, maksymalnie  
-maxim di - maksymalny  
-maxim xe - maksimum  
 maya - Maya  
 Mayote - Majotta  
 mayur - paw  
 maze - skarpeta, skarpetka, pończocha  
 me -   
 mece - mecz, rywalizacja  
-medal - medalion, medal  
-medan - skwer, plac  
-medan di - otwarty (przestrzenny)  
-medan fobi - agorafobia  
-medan papi - mak polny  
 mede - pomoc, wsparcie  
-mede ja - przyrostek dla wsperającego ideę  
-medi - środek  
-media -   
-medi di - średni  
+meder -   
+medal - medal  
+medalon - medalion  
+medan - skwer, plac  
+medan fobi - agorafobia  
+medanike - otwarty (przestrzenny)  
+medan papi - mak polny  
 medi dia - południe  
 medi fase - interfejs  
-medi gi -   
-medi noce - północ  
-medi xe - media  
 medu - miód  
 medu vespa - pszczoła miodna  
 medu vespa nide - plaster  
@@ -2964,33 +2969,41 @@ mimen - my
 mimen su -   
 mi su - mój  
 Mianma - Mjanma, Birma  
+miau - kot  
+mide - środek  
+midaje -   
+midia -   
+midike - średni  
+mide noce - północ  
 mien - makaron  
+migre - migracja  
 • inmigre -   
 • inmigrer -   
-migra - migracja  
-mikrobiolojia - mikrobiologia  
 mikrobie - mikroorganizm  (mikrob)  
-Mikronesi - Mikronezja  
+mikrobiolojia - mikrobiologia  
+Mikronesia - Mikronezja  
 mikroskope - mikroskop  
 mili gram - miligram  
 mili mitre - milimetr  
 milke - mleko  
 milke kardon - ostropest plamisty  
-Mimas -   
 mime -   
-mime ja -   
+mimer -   
+Mimas -   
 min - mniej  
-min di fen - mniejszość  
+minia - mniejszość  
+minike - mniejszościowy  
+minim - najmniej, minimalnie  
+minimal - minimal  
+minisme - minimalizm  
 min ka bas - zbyt mało  
 min poli -   
+minus - oprócz, minus  
 ming - jasny, czysty  
-minim - najmniej, minimalnie  
-minim di - minimal  
-minim sim - minimalizm  
 ministre ja - minister  
 ministre ofis - ministry  
-minor - mniejszościowy  
-minta - mięta  
+minte - mięta  
+mintol - mentol  
 minute - minuta  
 mira -   
 • amira -   
@@ -3094,6 +3107,7 @@ musli - musli
 mute - zmienić, zmieniać  
 Muxin - Jowisz  
 muxinden - czwartek  
+muxmula -   
 muxu - mysz  
 muxu cakra -   
 muzika - muzyka  
@@ -3110,8 +3124,10 @@ nadir -
 nadir mar - rzadko  
 nadirta - rzadkość  
 nafas - oddech  
-nagar - miasto  
-nagar di - miejski  
+nagre - miasto  
+nagral - miejski  
+nagre gogia -   
+nagria -   
 nahun - paznokieć  
 Naijiria - Nigeria  
 najis -   
@@ -3315,8 +3331,8 @@ oranje rang - pomarańczowy
 ordu - armia  
 ordu jen - żołnierz  
 ordu jen kan - koszary  
+ordu rajia - szogunat  
 ordu raja - szogun  
-ordu raja dexa - szogunat  
 ore - ucho  
 ore tis - zapalenie ucha  
 orgazme - orgazm  
@@ -3432,8 +3448,8 @@ parce dipe - zapaść się (zapadać się, runąć)
 parce kai - pękać (rozrywać się)  
 parde - zasłona, kurtyna  
 pari - wróżka  
-pari dexa -   
 pari kata - baśń  
+paristan -   
 Paris - Paryż  
 parke - park (ogród)  
 parne - paproć  
@@ -3548,6 +3564,8 @@ pinguin - pingwin
 pinse -   
 pinse bano -   
 pinse gi - obcęgi, kleszcze, szczypce  
+pipa - lutnia  
+pipa frute -   
 pipe - fajka  
 piping - ocena, krytyka  
 piping ja - krytyk  
@@ -3736,8 +3754,8 @@ radio na gi - radio
 radon - radon  
 rage -   
 rai - opinia, pogląd  
+rajia - królestwo  
 raja - król lub królowa  
-raja dexa - królestwo  
 raja di - królewski  
 rajanan - król  
 rajani - królowa  
@@ -3902,8 +3920,8 @@ saluta - zdrowie
 Salvador - Salwador  
 sam - taki sam  
 sam bei -   
-sam dexa jen - rodak, ziomek, krajan  
 sam emos - współczucie  
+sam gogia jen - rodak, ziomek, krajan  
 sammetria -   
 sam nam - homonim  
 sam rai - porozumienie  
@@ -3984,6 +4002,7 @@ seme dana - ziarno, nasienie
 seme di - nasienny  
 semente - cement  
 sen -   
+senater - senator  
 sen bei -   
 sen bra -   
 sen sau -   
@@ -4107,19 +4126,19 @@ soni - dźwięk, brzmienie
 sorbe -   
 • asorbe -   
 sos - sos  
-sosi - społeczeństwo, system społeczny  
+sosia - społeczeństwo, system społeczny  
+sosial - społeczny  
+sosial midia - media społecznościowe  
+sosisme - socjalizm  
+sosiste - socjalista  
 sosi jinse - płeć społeczna  
-sosi li - społeczny  
-sosi medi gi - media społecznościowe  
-sosi sim - socjalizm  
-sosi sim ja - socjalista  
 sosis - kiełbasa  
 Soto - Lesotho  
 spete -   
 • aspete -   
 • despete -   
 • inspete - sprawdzić (sprawdzać, skontrolować, zbadać)  
-• intraspete -   
+• introspete -   
 • respete -   
 • speter -   
 sporte - sport, lekkoatletyka  
@@ -4134,8 +4153,8 @@ statike grafe -
 su - mieć (partykuła posiadania)  
 suahili - suahili  
 sual - pytanie  
-sual di - pytajny, związany z pytaniem  
 sual dokumen - formularz (kwestionariusz)  
+sualive - pytajny, związany z pytaniem  
 sual tema - kwestia, problem  
 Sualbarde - Swalbard  
 suan - kwaśny  
@@ -4172,17 +4191,19 @@ sui yau - pragnienie
 Suise - Szwajcaria  
 suka - wesoły (ucieszony; cieszyć się)  
 sukafa - cieszyć, podobać się  
-sukre - cukier  
-sukre bete - burak cukrowy  
-sukre di - słodki  
-sukre gana - trzcina cukrowa  
-sukre oranje - pomarańcza słodka (pomarańcza chińska)  
-sukros -   
+sukar - cukier  
+sukar bete - burak cukrowy  
+sukar di - słodki  
+sukar gana - trzcina cukrowa  
+sukar oranje - pomarańcza słodka (pomarańcza chińska)  
+sukaros -   
 sulfe - siarka  
 sulfate - sulfat  
+sulfide -   
+sulfite -   
 sultan - siła, autorytet, władza  
-sultan dexa -   
-sultan ja - władca  
+sultaner - władca  
+sultania -   
 sum - suma  
 suna - obyczaj, zwyczaj, tradycja, praktyka, konwencja  
 suna di - konwencjonalny, zwyczajowy, tradycyjny  
@@ -4191,10 +4212,10 @@ Suomi - Finlandia
 suomi baxa -   
 supa - zupa  
 supa camaca - łyżka stołowa  
+supa mien -   
 super - wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super  
 supra - wiadukt, przejście powyżej  
 supra di - górny  
-supra vakil ja - senator  
 supriza - zaskoczenie  
 Suria - Syria  
 Surinam - Surinam  
@@ -4275,6 +4296,7 @@ Telugu - telugu
 tema - temat (motyw; dyskutować o)  
 tema nam - tytuł (nagłówek)  
 tene -   
+• detene -   
 • intene -   
 • kontene -   
 • kontener -   
@@ -4296,18 +4318,22 @@ terurisme - terroryzm
 teruriste - terrorysta  
 terbium - terb  
 terca - skośny (ukośny, pochyły)  
-termo - temperatura  
-termo metri gi - termometr  
+• hipotermia - hipotermia (wychłodzenie)  
+terme - temperatura  
+termal -   
+termometrer - termometr  
 tesla - tesla (T)  
 teste - spróbować, próbować  
 teste - test (wyzwanie, próba)  
 • konteste -   
 • proteste -   
 Tetis -   
+• hipoteze -   
+• hipotezike -   
+• sinteze -   
+teze - argument, teza  
 teza - intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)  
 tezata -   
-teze - argument, teza  
-• sinteze -   
 ticin - chordofon, instrument strunowy  
 tike - tikka  
 tikete - bilet  
@@ -4324,18 +4350,16 @@ tire yo pil - obrać (obierać)
 tis - zapalenie  
 tisa - dziewięć (9)  
 Titan -   
-titanium - tytan  
 Titania -   
+titanium - tytan  
 titi -   
 tix - ćsi  
 tix - cichy  
 tixta -   
 to - do, dopóki, dla  
-to in -   
-to jin - naprzód  
 to long -   
 to misal - na przykład  
-to vai -   
+to pro - naprzód  
 tocu - dotyczyć  
 tocu sense - czuć  
 Togo - Togo  
@@ -4492,8 +4516,6 @@ vagina tis - zapalenie pochwy
 vahi - oaza  
 vai - zęwnętrzny  
 vai dara -   
-vai dexa - zagranica  
-vai dexa di - zagraniczny  
 vai di - zewnętrzny  
 vai gene di -   
 vai jen -   
@@ -4503,13 +4525,12 @@ vai nam - egzonim
 vai planeta - egzoplaneta  
 vai poze -   
 vai tense -   
-vai trata gi -   
-vai verse di -   
-vai vide di -   
 vai yam - piknik  
 vakil - reprezentować  
-vakil ja - reprezentant (przedstawiciel)  
-vakil krati - republika  
+vakiler - reprezentant (przedstawiciel)  
+vakilia -   
+vakilize -   
+vakilkratia - republika  
 vala -   
 vali - dolina  
 vali susan - konwalia majowa  
@@ -4557,16 +4578,16 @@ verife -
 veranda - weranda, balkon, taras, ganek  
 verme - robak  
 vermute - wermut  
-versi -   
-• deversi -   
-• disversi -   
-• exversi -   
-• extraversi -   
-• intraversi -   
-• konversi -   
-• kontraversi -   
-• perversi -   
-• reversi -   
+• deverse -   
+• disverse -   
+• exverse -   
+• extraverse -   
+• intraverse -   
+• konverse -   
+• kontraverse -   
+• perverse -   
+• reverse -   
+verse -   
 version - wersja (wariacja, edycja, wydanie)  
 vespa - pszczoła lub osa  
 vespa nide - ul (gniazdo pszczół lub os)  
@@ -4577,6 +4598,7 @@ veze - waga (ciężkość)
 veze di - ciężki (masywny)  
 veze metri gi - waga (urządzenie ważące)  
 vide - patrzeć, widzieć  
+• exvidebil -   
 • previde - przewidzieć (spodziewać się)  
 • anprevide di - niespodziewany  
 • previde di - spodziewany (przewidziany)  
@@ -4666,6 +4688,7 @@ xanti di - spokojny
 xara - piła  
 xarafun -   
 xarakan - tartak  
+xarbe -   
 xarma - wstyd (hańba, kompromitacja)  
 xarnir - zawias, oś  
 xarti - warunek  

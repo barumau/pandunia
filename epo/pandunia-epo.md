@@ -8,7 +8,6 @@ a ke - kie
 a kon - kune  
 a max - ankaŭ  
 a medi - inter  
-a min de - escepte  
 a neu - ĵus  
 a poli mar - ofte  
 a pos - estonte  
@@ -42,6 +41,7 @@ air porto - flughaveno
 ais - glacio  
 ais di - glacia  
 ais krem - glaciaĵo  
+ais xarbe - ŝorbeto  
 Aiti - Haitio  
 akasia - akacio  
 akrabe - skorpio  
@@ -165,7 +165,7 @@ bambu - bambuo
 banana - banano  
 bande - bandaĝo (vindo)  
 bandera - flago  
-Bangla dexa - Bangladeŝo  
+Bangla gogia - Bangladeŝo  
 banker - bankisto  
 bankekan - banko  
 bankrute - bankrota  
@@ -192,7 +192,7 @@ bata - anaso
 bati - ok (8)  
 batri - baterio (pilo)  
 bau - trezoro  
-bau seku - juvelo  
+bauite - juvelo  
 • dubaxike - dulingva  
 • konbaxe - komuna lingvo  
 • polibaxike - multlingva  
@@ -347,6 +347,10 @@ cau - herbo
 cavi - ŝlosilo  
 ceka - kontroli  
 ceke - ĉeko  
+ceng - matura (plenkreska)  
+ceng fem - virino  
+ceng jen - plenaĝulo  
+ceng man - viro  
 • acepe - akcepti  
 • excepe - escepti (krom)  
 cepe - kapti  
@@ -402,7 +406,7 @@ dama geme - damludo
 dana.cau - milio  
 danse - danco  
 Danske - dana  
-Danske dexa - Danio  
+Danske gogia - Danio  
 dante - dento  
 dante broxa - dentbroso  
 dante dava ja - dentisto  
@@ -420,6 +424,7 @@ de - de (partiklo de posedo)
 dee - dio  
 deike - dia  
 • andeiste - ateisto  
+deokata - mito  
 deokratia - teokratio  
 deojojia - teologio  
 defa - defendo  
@@ -439,10 +444,8 @@ des kilo - dek miloj
 desen - desegno  
 desi - dekono  
 detal - detalo  
-deu kata - mito  
 deval - freneza  
 devalta - frenezeco  
-dexa - lando  
 dia - tago  
 dia foto - taglumo  
 dia yam - tagmanĝo  
@@ -466,8 +469,8 @@ dokumen filme - dokumentfilmo
 dolar - dolaro  
 dolfin - delfeno  
 dom - hejmo (loĝejo)  
-dom dexa - patrio  
 dom di - hejma  
+dom gogia - patrio  
 dom zeze - muŝo  
 don - doni  
 don tabi - malavara  
@@ -540,6 +543,7 @@ europium - eŭropio
 Europa - Eŭropo  
 europa di - Eŭropa  
 Europa Unta - Eŭropa Unio (EU)  
+exgogia - fremda lando  
 
 ## F  
 
@@ -709,7 +713,7 @@ fransium - franciumo
 Franse krepe - franca krepo  
 frem - kadro  
 frute - frukto  
-frute bagi - fruktarbejo  
+frute parke - fruktarbejo  
 fui - bah!  
 fuku - vesto  
 fuku vaxi gi - lavmaŝino  
@@ -725,19 +729,20 @@ fute bol - piedpilko
 ## G  
 
 ga - iri  
-gabur - tombo (enterigi)  
-gabur bagi - tombejo  
-gabur seku - tomboŝtono  
+gabre - tombo (enterigi)  
+gabrite - tomboŝtono  
+gabrestan - tombejo  
 gadolinium - gadolinio  
 gaja - elefanto  
 Galia - Gaŭlio  
 galium - galiumo  
-galaxi - galaksio  
+galaxia - galaksio  
 galeri - galerio (ekspozicio)  
 gali - strato  
 galte - eraro (miso)  
 galte di - erara  
-gam - geedzeco  
+gamia - geedzeco  
+gamba - salikoko  
 gamel - kamelo  
 gamo - emocio  
 gamo di - emocia  
@@ -745,16 +750,17 @@ gamo hal - animstato
 gan - seka  
 gan putau - sekvinbero  
 gana kalam - kalamo  
+gandum - tritiko  
 Ganga - Gangoj  
 gani - kanto  
 ganir - kantisto  
 ganir grupe - ĥoro  
 ganja - kanabo  
 ganse - ansero  
-ganum - tritiko  
 garanti - garantio  
 garde - gardi  
-garde ja - gardisto  
+garder - gardisto  
+garde tor - gardoturo  
 garma - varma  
 garma mosim - somero  
 gas - gaso  
@@ -783,6 +789,7 @@ glas - vitro
 glu - gluo  
 glu grafi - glumarko  
 gluten - gluteno  
+gogia - lando  
 gol - golo  
 gomu - kaŭĉuko  
 gona - angulo  
@@ -829,7 +836,7 @@ haki - polvo
 haku - rajto  
 hal - stato  
 hali - malplena  
-halifa - kalifo  
+halife - kalifo  
 halo - saluton!  
 halte - halto  
 ham - gravi  
@@ -867,6 +874,7 @@ hem - pripensi (rigardi ia)
 heme - sango  
 hem… - hm…  
 hemoglobin - hemoglobino  
+hemopresia - sangopremo  
 hemi hin - sensanga  
 hen - malamo  
 hero - heroo  
@@ -889,10 +897,8 @@ hindium - indio
 Hindi din - hinduismo  
 Hindi din ja - hinduo  
 Hindi rivo - Induso  
-hisabu - kalkulo  
+hisabe - kalkuli  
 hisabu loge - konto  
-hisabu lojia - matematiko  
-hisabu lojiaja - matematikisto  
 histor - historio  
 historer - historiisto  
 historolojia - historio (studo de historio)  
@@ -1039,11 +1045,11 @@ kali - alkala
 kali di - alkaleca  
 kali guste - amara  
 kalifornium - kaliforniumo  
+kalsobilor - marmoro  
 kalside - kalko  
 kalsite - kalcito  
 kalsium - kalcio  
-kalsi bilor - marmoro  
-kalsi petra - kalkoŝtono  
+kalsopetre - kalkoŝtono  
 kam - malmulte  
 kamia - malmulteco  
 kamife - malmultigi  
@@ -1260,16 +1266,16 @@ litium - litio
 litre - litro  
 lixu - sciuro  
 loba - rafaneto  
+loge - paroli  
+logal - parola  
 logograme - logogrammi (logo)  
-loga - paroli  
-loga di - parola  
+loga - registraĵo  
 loga tabi di - parolema  
-loge - registraĵo  
 logika - logiko  
 logika di - logika  
 loje - scienco  
-loka - loko  
-loka di - loka  
+loke - loko  
+lokal - loka  
 long - longa  
 long kata - romano  
 lou - liki  
@@ -1289,6 +1295,8 @@ lutesium - lutecio
 ## M  
 
 ma - patrino  
+made - materio  
+madisme - materiismo  
 maf - pardono  
 magenium - magnezio  
 magi - magio  
@@ -1314,27 +1322,21 @@ masa - maso
 masala - spico  
 maska - masko  
 masta - masto  
+mate - matematiko  
+matike - matematikisto  
 mata - morti (morto; morta)  
 matafa - mortigi  
 mataja - mortigisto  
-mate - materio  
-matur - matura (plenkreska)  
-matur fem - virino  
-matur jen - plenaĝa  
-matur man - viro  
-mau - kato  
 max - pli  
 max fili - preferi (pliŝati)  
-max ka bas - tro  
 maxim - plej  
+max ka bas - tro  
 maya - majao  
 mayur - pavo  
 maze - ŝtrumpo  
 mede - helpo  
-medi di - mezo  
+medal - medalo  
 medi dia - tagmezo  
-medi gi - rimedo  
-medi noce - noktmezo  
 medu - mielo  
 medu vespa - abelo  
 mega - miliono  
@@ -1363,19 +1365,26 @@ mimen - ni
 mimen su - nia  
 mi su - mia  
 Mianma - Birmo  
+miau - kato  
+midaje - rimedo  
+midike - mezo  
+mide noce - noktmezo  
 mien - nudelo  
-migra - migrado  
+migre - migrado  
 mikre - mikro-  
-mikrobiolojia - mikrobiologio  
 mikrobie - mikrobo  
+mikrobiolojia - mikrobiologio  
 mikroskope - mikroskopo  
 mili - mili-  
 mili mitre - milimetro  
 milke - lakto  
 min - malpli  
-min ka bas - maltro  
 minim - malplej  
+min ka bas - maltro  
+minus - escepte  
 ministre ja - ministro  
+minte - mento  
+mintol - mentolo  
 minute - minuto  
 mira plate - spegulo  
 • konmisea - komiteo (komisiono)  
@@ -1425,6 +1434,7 @@ muskul bina - korpokulturado
 musli - muslio  
 mute - aliigi  
 muxinden - ĵaŭdo  
+muxmula - mespilujo  
 muxu - muso aŭ rato  
 muzika - muziko  
 muzika ja - muzikisto  
@@ -1436,8 +1446,8 @@ nabija - profeto
 nadir - malofta  
 nadir mar - malofte  
 nafas - spiro  
-nagar - urbo  
-nagar di - urba  
+nagre - urbo  
+nagral - urba  
 Naijiria - Niĝerio  
 nam - nomo  
 nam hin - sennoma  
@@ -1635,6 +1645,7 @@ pil - haŭto
 pin - nadlo (pinglo, pikilo)  
 pinguin - pingveno  
 pinse gi - pinĉilo  
+pipa - liuto  
 pipre - pipro  
 piram - piramido  
 pixa - piso (urino)  
@@ -1770,8 +1781,8 @@ sal xam - Bonan vesperon
 sal yam - bonan apetiton!  
 saludo - saneco  
 sam - sama  
-sam dexa jen - samlandano  
 sam emos - kompato  
+sam gogia jen - samlandano  
 sammetria - simetrio  
 sam rai - interkonsento  
 sam sexe di - samseksema  
@@ -1808,6 +1819,7 @@ seme - signifi
 semolojia - semantiko  
 seme - semo  
 seme di - sema  
+senater - senatano  
 sense - sentumo  
 senti - centono  
 sento - cent  
@@ -1862,7 +1874,7 @@ sona tabi - dormema
 songi - pino  
 soni - sono  
 sos - saŭco  
-sosi - socio  
+sosia - socio  
 sosis - kolbaso  
 spete - miri (spekti)  
 • inspete - kontroli  
@@ -1874,7 +1886,7 @@ statia - stacio
 su - propra (poseda partiklo)  
 suahili - sŭahili  
 sual - demando  
-sual di - demandanta  
+sualive - demandanta  
 suan - acida  
 suan mate - acido  
 suba - mateno  
@@ -1889,16 +1901,16 @@ sui gas - vaporo
 sui yau - soifo  
 Suise - Svislando  
 suka - feliĉa (ŝati)  
-sukre - sukero  
-sukros - sakarozo  
+sukar - sukero  
+sukaros - sakarozo  
 sulfe - sulfuro  
 sum - sumo  
 suna islam din - sunaismo  
 Suomi - Finnlando  
 suomi baxa - lingvo  
 supa - supo  
+supa mien - rameno  
 super - bonega  
-supra vakil ja - senatano  
 supriza - surprizo  
 suxi - suŝio  
 
@@ -1941,7 +1953,8 @@ terure - teroro
 terurisme - terorismo  
 teruriste - teroristo  
 terbium - terbio  
-termo metri gi - termometro  
+• hipotermia - hipotermio  
+termometrer - termometro  
 tire - tiri  
 tire yo milke - melki  
 titanium - titanio  
@@ -2018,11 +2031,9 @@ vagina - vagino
 vagina tis - vaginito  
 vahi - oazo  
 vai - ekstero  
-vai dexa - fremda lando  
 vai di - ekstera  
 vai planeta - ekzoplanedo  
-vai vide di - evidenta  
-vakil krati - republiko  
+vakilkratia - republiko  
 vala - isto  
 vali - valo  
 valu - valoro  
@@ -2042,6 +2053,7 @@ vespa - abelo aŭ vespo
 veze - pezo  
 veze di - peza  
 vide - vidi (rigardi)  
+• exvidebil - evidenta  
 vide ja - spektanto  
 vidua - vidvo  
 viki makala - vikia artikulo  
@@ -2083,6 +2095,7 @@ xaniden - sabato
 xanti di - trankvila (serena)  
 xara - segilo  
 xarafun - segaĵo  
+xarbe - trinki (trinkaĵo)  
 xarma - honto  
 xarnir - ĉarniro (pivoto)  
 xarti - kondiĉo (postulo)  

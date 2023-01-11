@@ -30,6 +30,7 @@ air ordu - força aérea
 air porto - aeroporto  
 ais hoki - hóquei no gelo  
 ais krem - sorvete (gelado)  
+ais xarbe - sorvete  
 ajabu - maravilha  
 akare - carrapato (ácaros)  
 akrabe - escorpião (lacrau)  
@@ -121,6 +122,7 @@ atom kerne - núcleo atómico
 auge - auge (aumentar)  
 auro - ouro  
 Austronesi - Austronésia  
+autatike - automático  
 auter - autor  
 auto loga - monólogo  
 avar - dano (avaria)  
@@ -187,7 +189,7 @@ bata - pato
 bati - oito (8)  
 batri - pilha (bateria)  
 bau di - precioso  
-bau seku - pedra preciosa (gema)  
+bauite - pedra preciosa (gema)  
 • dubaxike - bilíngue  
 • polibaxike - multilíngue (plurilíngue)  
 baxe - língua (idioma)  
@@ -301,8 +303,10 @@ carme - charme (encanto, fascinação)
 cati - telhado  
 cau - grama (relva)  
 cau medan - gramado  
+cau mien - chow mein  
 cavi - chave  
 ceke - cheque  
+ceng - maduro (adulto)  
 ceng bede - beliche  
 • acepe - aceitar  
 • intercepe - interceptar  
@@ -361,6 +365,8 @@ dava xekan - farmácia (drogaria)
 dava xe lojia - farmacologia  
 de - de  
 dee - deus  
+deokata - mito  
+deonagre grame - devanágari  
 deosofia - teosofia  
 defa bano - escudo  
 defa kaska - armadura  
@@ -370,8 +376,6 @@ den - dia (24 horas)
 • preden - ontem  
 den loge - diário  
 des - dez  
-deu kata - mito  
-deu nagar zi - devanágari  
 dexhanuka - destro  
 dia - dia  
 dia foto - luz do dia  
@@ -397,8 +401,8 @@ dokumen - documento
 dokumen filme - documentário  
 dolfin - golfinho (delfim)  
 dom - casa (lar)  
-dom dexa - pátria  
 dom di - doméstico  
+dom gogia - pátria  
 don - dar  
 don tabi - generoso (dadivoso, mão-aberta)  
 dong - este (leste)  
@@ -507,7 +511,6 @@ fa tele fon - telefonar
 fa truke - enganar  
 fa turbe - molestar (perturber)  
 fa vai klus - excluir  
-fa vai trata - extrair  
 fa valu - valorar  
 fa vote - votar  
 fa xipi - molhar  
@@ -572,7 +575,7 @@ frasen - freixo
 frem - moldura  
 frute - fruta  
 frutos - frutose  
-frute bagi - pomar  
+frute parke - pomar  
 fuku - roupa (vestidura)  
 fun - pó  
 fungu - fungo  
@@ -586,29 +589,34 @@ fuzi - derretre
 ## G  
 
 ga - ir  
-gabur - sepultura (túmulo, enterrar)  
-gabur bagi - cemitério  
-gabur seku - lápide  
+gabre - sepultura (túmulo, enterrar)  
+gabrite - lápide  
+gabrestan - cemitério  
 gadolinium - gadolínio  
 Galia - Gália  
 galium - gálio  
 gala - garganta  
-galaxi - galáxia  
+galaxia - galáxia  
 gali - rua  
 galope - galope  
 galte - erro (falta)  
 galte di - errôneo  
 gam per - esposo ou esposa  
 gamba - camarão (gamba)  
+gamel - camelo  
 gamo - emoçao  
 gamo hal - humor  
 gamo zi - emoticon (emoji)  
 gan cau - feno  
 gana - cana  
 gana kalam - cálamo  
+gandum - trigo  
+Ganga - Ganges  
 ganir grupe - coro  
 ganse - ganso  
-ganum - trigo  
+garde - guardar  
+garder - vigia (sentinela)  
+garde tor - torre de observação  
 garma mosim - verão  
 garma zona - trópicos  
 gas - gás  
@@ -675,7 +683,7 @@ haku - direito
 hal - estado  
 hali - vazio  
 hali zi - espaço  
-halifa - califa  
+halife - califa  
 halo - alô  
 ham di - importante  
 hamil - grávida (prenhe)  
@@ -700,6 +708,7 @@ hem - considerar
 heme - sangue  
 hem… - hmm…  
 hemoglobin - hemoglobina  
+hemopresia - pressão sanguínea  
 hemi selu - célula sanguínea  
 hena - hena  
 hepate - fígado  
@@ -720,10 +729,12 @@ hima - neve
 hin - sem  
 Hindocin - Indochina  
 hindium - índio  
+hinde sos - chetnim  
 hindi raja - rajá  
 Hindi rivo - Indo  
+hipoglukohemia - hipoglicemia  
+hipohemopresia - hipotensão  
 hisabu loge - conta  
-hisabu lojia - matemática  
 hiyar - pepino  
 hobi ja - amador  
 hogo - fogo  
@@ -763,7 +774,6 @@ in bum - imploção
 in klus - incluindo  
 in klus di - inclusivo  
 inlai - acesso  
-in tene gi - contêiner  
 intre - entrar  
 intraje - intestino (entranhas, tripa)  
 iode - iodo  
@@ -846,11 +856,11 @@ kali di - alcalino
 kali guste - amargo  
 kalifornium - califórnio  
 kalmar - lula (calamar)  
+kalsobilor - mármore  
 kalside - cal  
 kalsite - calcita  
 kalsium - cálcio  
-kalsi bilor - mármore  
-kalsi petra - calcário  
+kalsopetre - calcário  
 kam - poucos  
 kama - luxúria  
 kama kanon - Kama Sutra  
@@ -1075,11 +1085,11 @@ litium - lítio
 litre - litro  
 livermorium - livermório  
 lixu - esquilo  
-loga - fala  
-loge - registro  
-loge buku - diário de bordo  
-loka - lugar (local)  
-loka di - local  
+loge - fala  
+loga - registro  
+loga buku - diário de bordo  
+loke - lugar (local)  
+lokal - local  
 long - longo  
 long dura - por muito tempo  
 long dura di - prolongado  
@@ -1110,9 +1120,11 @@ lutesium - lutécio
 ma - mãe  
 ma di - maternal  
 matria - pátria-mãe  
+made - matéria  
+madisme - materialismo  
 magenium - magnésio  
 magi ja - mago  
-Magribi dexa - Marrocos  
+Magribia - Marrocos  
 mahala - quarteirão  
 majang - mahjong  
 makan hua - dente-de-leão (taráxaco)  
@@ -1143,28 +1155,26 @@ masala - tempero
 maska - máscara  
 master - mestre  
 masta - mastro  
-mate - matéria  
+mate - matemática  
+matike - matemático  
 mate - erva-mate  
 mate cai - chá mate  
-mate lona - materialismo  
-mau - gato  
+matras - colchão  
 max - mais  
 max fili - preferir  
 max fili di - favorito (preferido)  
 max fili sim - favoritismo  
-maxim xe - máximo  
+maxia - maioria  
+maximaje - máximo  
 mayur - pavão real  
 maze - meia  
 mece - partida  
+mede - ajuda (socorro, auxílio)  
+medal - medalha  
+medalon - medalhão  
 medan - praça  
 medan papi - papoila  
-mede - ajuda (socorro, auxílio)  
-medi - meio (metade)  
-media - média (mídia)  
-medi di - medio  
 medi dia - meio-dia  
-medi gi - meio (instrumento)  
-medi noce - meia-noite  
 medu - mel  
 megi - nuvem  
 mei - belo (lindo)  
@@ -1190,17 +1200,24 @@ meza tela - toalha de mesa
 mi - eu (me)  
 mimen - nós  
 mimen su - nosso  
+miau - gato  
+mide - meio (metade)  
+midaje - meio (instrumento)  
+midia - média (mídia)  
+midike - medio  
+mide noce - meia-noite  
+migre - migração  
 • inmigre - imigrar  
 • inmigrer - imigrante  
-migra - migração  
-mikrobiolojia - microbiologia  
 mikrobie - micróbio  
+mikrobiolojia - microbiologia  
 mikroskope - microscópio  
 milke - leite  
 milke kardon - cardo-mariano  
 mime - imitar (mimetizar)  
-mime ja - mímico  
-minta - hortelã  
+mimer - mímico  
+minte - menta (hortelã)  
+mintol - mentol  
 mira - mirar  
 • amira - admirar  
 mirabil - maravilha  
@@ -1257,6 +1274,8 @@ nabi - profetizar
 nabija - profeta (arauto)  
 nadir - raro  
 nadir mar - raramente  
+nagral - urbano  
+nagre gogia - Cidade-estado  
 najis - poluição  
 nam hin - sem nome  
 nam kitaba - assinar  
@@ -1398,8 +1417,8 @@ par jen - par
 par vezeta - equilíbrio  
 paranam - parónimo  
 pari - fada  
-pari dexa - mundo das fadas (paraíso)  
 pari kata - conto de fadas  
+paristan - mundo das fadas (paraíso)  
 parke - parque  
 parne - samambaia  
 parte - fragmento  
@@ -1453,6 +1472,8 @@ pin - alfinete
 pin cope - picareta  
 pin kardon - acanto-bastardo  
 pinse bano - prancheta  
+pipa - alaúde  
+pipa frute - nêspera  
 pipre - pimenta  
 pipre minta - hortelã-pimenta  
 piram - pirâmida  
@@ -1619,6 +1640,7 @@ semolojia - semântica
 seme - semente  
 seme di - seminal  
 sen - sênior  
+senater - senador  
 sen bra - irmão mais velho  
 sen sis - irmã mais velha  
 seng - cru  
@@ -1669,7 +1691,8 @@ sona tabi - sonolento
 songi - pinheiro  
 soni - som  
 sorbe - sorver  
-sosi - sociedade  
+sos - molho  
+sosia - sociedade  
 sosis - salsicha  
 • speter - espetador  
 sporte - esporte  
@@ -1684,15 +1707,17 @@ sui minta - hortelã-da-água
 sui yau - sede  
 Suise - Suíça  
 suka - feliz  
-sukre - açúcar  
-sukre gana - cana-de-açúcar  
-sukros - sacarose  
+sukar - açúcar  
+sukar gana - cana-de-açúcar  
+sukaros - sacarose  
 sulfe - enxofre  
 sulfate - sulfato  
+sulfide - sulfeto  
+sulfite - sulfito  
 suna islam din - sunismo  
 supa - sopa  
 supa camaca - colher de sopa  
-supra vakil ja - senador  
+supa mien - ramen (miojo)  
 susan - lírio  
 suta - arte  
 
@@ -1722,12 +1747,15 @@ teleskope - telescópio
 telurium - telúrio  
 tema nam - título  
 tene - ter  
+• detene - deter (prender)  
 • kontener - contêiner  
 • sutener - proxeneta (cafetão)  
 tenesium - tennessine  
 tense - tenso  
 terbium - térbio  
 terca - oblíquo (torto)  
+• hipotermia - hipotermia  
+termal - termal (térmico)  
 teste - tentar (provar)  
 tikete - bilhete  
 tis - inflamaçao  
@@ -1811,8 +1839,10 @@ vai gene di - exógeno
 vai klus di - exclusivo  
 vai planeta - exoplaneta (planeta extrassolar)  
 vai poze - expor (revelar)  
-vai vide di - evidente  
 vai yam - piquenique  
+vakiler - representante  
+vakilize - delegar  
+vakilkratia - república  
 vali - vale (uadi)  
 vali susan - lírio-do-vale  
 valse - valsa  
@@ -1832,10 +1862,11 @@ ver - verdadeiro
 veranda - sacada (varanda)  
 verme - verme  
 vermute - vermute  
-versi - encarar (afrontar; vérsus)  
+verse - encarar (afrontar; vérsus)  
 vespa - abelha ou vespa  
 veze di - pesado  
 vide - ver  
+• exvidebil - evidente  
 vidua - viúvo  
 violeta nil - purpúreo (roxo)  
 virge - virgem  
@@ -1874,6 +1905,7 @@ xanti di - tranquilo (calmo)
 xara - serra  
 xarafun - serragem  
 xarakan - serraría  
+xarbe - beber (tomar)  
 xatan - Satanás  
 xava - assar  
 xayu - tubarão  
