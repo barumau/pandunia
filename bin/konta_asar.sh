@@ -102,14 +102,6 @@ konta_asar swa suahili $pan
 #ratiba la dayi va lili numbe, ya kolum 2
 sort --field-separator=',' --key=2 -rn temp/asarpercent.csv -o temp/asarpercent.csv
 
-#Insert before the first line
-sed -i '1 i -,0' temp/asarpercent.csv
-#Append after the last line
-sed -i '$ a -,0' temp/asarpercent.csv
-
-
-echo "-,0" >> temp/asarpercent.csv
-
 #kina nam e numbe va sami linye
 perl -pi -e 's/ \n/ /' temp/stats.txt
 
