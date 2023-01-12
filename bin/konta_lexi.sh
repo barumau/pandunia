@@ -66,11 +66,6 @@ perl -pi -e 's/ \n/ /' temp/stats.txt
 sort -rn -k2 temp/stats.txt -o temp/stats.txt
 sort --field-separator=',' --key=2 -rn temp/logonumbe.csv -o temp/logonumbe.csv
 
-#Insert before the first line
-sed -i '1 i -,0' temp/logonumbe.csv
-#Append after the last line
-sed -i '$ a -,0' temp/logonumbe.csv
-
 fata_table
 
 kitaba_pike
