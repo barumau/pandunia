@@ -6,27 +6,35 @@ import re # For finding specific strings in the text
 import networkx as nx
 import matplotlib.pyplot as plt
 
-#%% funtion to fete la poze de node a long de grupe ~ partaje
-def fete_node_poze(grafe, partition_attr, partaje_ratibe, epsilon=.6):
-        
-    # fete la poze dict to pan partaje
-    asle_partaje_poze_dict = {partition:nx.spiral_layout(grafe.subgraph([node for node, part in grafe.nodes(data=partition_attr)
-                                                                                      if part == partition]))
-                                for partition in partaje_ratibe}
+def fete_node_poze(G):
+    pos = nx.circular_layout(G)
+    pos['jpn'] = (0.2, 0.2)
+    pos['kor'] = (0.4, 0.5)
+    pos['vie'] = (0.5, 0.8)
+    pos['zho'] = (0.8, 0.5)
+    pos['yue'] = (0.7, 0.95)
+
+    pos['eng'] = (0.2, -0.2)
+    pos['fra'] = (0.5, -0.1)
+    pos['rus'] = (0.9, -0.5)
+    pos['spa'] = (0.4, -0.6)
+    pos['por'] = (0.1, -0.8)
+    pos['deu'] = (0.8, 0)
+
+    pos['hin'] = (-0.2, 0.2)
+    pos['may'] = (-0.2, -0.2)
+    pos['tur'] = (-0.2, -0.8)
+
+    pos['ara'] = (-0.5, -0.4)
+    pos['swa'] = (-0.7, -0.2)
+    pos['hau'] = (-0.8, -0.5)
+
+    pos['fas'] = (-0.5, 0.2)
+    pos['ben'] = (-0, 0.5)
+    pos['tam'] = (-0.4, 0.5)
     
-    # update the x coordinate in the position dicts so partitions
-    # don't overlap and are in the specified order left-to-right
-    final_poze_dict = asle_partaje_poze_dict[partaje_ratibe[0]]
-    for i,partition in enumerate(partaje_ratibe[1:]):
-        # get the largest x coordinate from the previous partition's nodes
-        max_previous = max([x for x,y in final_poze_dict.values()])
-        # get smallest x coordinate from this partition's nodes
-        current_min = min([x for x,y in asle_partaje_poze_dict[partition].values()])
-        # update the x coordinates for this partition to be at least epsilon units
-        # to the right of the right-most node in the previous partition
-        final_poze_dict.update({node:(pos[0]+max_previous+abs(current_min)+epsilon,pos[1])
-                                               for node,pos in asle_partaje_poze_dict[partition].items()})
-    return(final_poze_dict)
+    print (pos)
+    return pos
 
 def hisabe_nam_konbine(nam1, nam2):
     with open("temp/lexaslia.csv", 'r') as file:
@@ -95,8 +103,9 @@ nodelist = G.nodes()
 
 plt.figure(figsize=(12,8))
 
-my_pos = fete_node_poze(G, partition_attr='partition', partaje_ratibe=[ 'dongasia_grupe', 'euro_grupe', 'hindiran_grupe', 'afrasia_grupe'])
-nx.draw_networkx_nodes(G, my_pos, node_color=[c for n, c in G.nodes(data='color')], node_size=node_sizes)
+pos = fete_node_poze(G)
+
+nx.draw_networkx_nodes(G, pos, node_color=[c for n, c in G.nodes(data='color')], node_size=node_sizes)
 '''
 pos = nx.circular_layout(G)
 nx.draw_networkx_nodes(G, pos,
@@ -105,17 +114,17 @@ nx.draw_networkx_nodes(G, pos,
                        node_color='black',
                        alpha=0.7)
 '''
-nx.draw_networkx_labels(G, my_pos)
+nx.draw_networkx_labels(G, pos)
 '''
 nx.draw_networkx_labels(G, pos=pos,
                         labels=dict(zip(nodelist,nodelist)),
                         font_color='white')
 '''
 '''
-#nx.draw_networkx_edges(G, my_pos, edge_color=[c for u, v, c in G.edges(data='color')])
+#nx.draw_networkx_edges(G, pos, edge_color=[c for u, v, c in G.edges(data='color')])
 
 '''
-nx.draw_networkx_edges(G,my_pos,
+nx.draw_networkx_edges(G,pos,
                        edgelist = widths.keys(),
                        width=list(widths.values()),
                        edge_color='lightblue',

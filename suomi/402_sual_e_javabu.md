@@ -36,6 +36,34 @@ Pandunian lippu kuvastaa yleismaailmallista tasavertaisuutta. Lipun
 tausta on tumman sininen. Ympyrä esittää _sinistä planeettaamme_ ja
 sen päälle on asetettu yhtäsuuruusmerkki valkoisella.
 
+#### Mistä pandunian sanat ovat peräisin?
+
+Pandunian sanat tulevat kaikkialta maailmasta.
+Vieraile
+[Pandunia lexi a dunia karte](http://www.pandunia.info/lexikarta/index.html)
+-sivustolla nähdäksesi kaikki Pandunian perussanat maailman kartalla.
+
+Yhteisen maailmankielen pitäisi olla sekoitus kaikista maailman kielistä.
+Sen vuoksi pandunialla on kaikkien maailman kielten kanssa ainakin muutama yhteinen sana.
+Kaikki maailman kielet ovat yhteydessä toisiinsa jotakin kautta.
+Pandunia lainaa sanansa sellaisista vaikutusvaltaisista kielistä, joista muutkin kielet omaksuvat sanoja.
+
+![](http://www.pandunia.info/grafe/logasle.png "Pylväskaavio yhteisestä sanastosta")  
+**Kuva.** Tämä pylväsdiagrammi näyttää, kuinka iso prosenttiosuus pandunian perussanoista on samanlaisia lähdekieliin verrattuna.
+
+![](http://www.pandunia.info/grafe/logasar.png "Pie chart depicting influence distribution")  
+**Kuva.** Tämä piirakkakaavio näyttää, kuinka suuri vaikutus eri lähdekielillä on panduniaan.
+
+Alla oleva verkostokaavio näyttää, kuinka paljon yhteisiä pandunian sanoja lähdekielillä on keskenään
+Ympyrät esittävät pandunian 20 lähdekieltä.
+Mitä suurempi ympyrä on, sitä enemmän panduniaan on lainattu perussanoja siitä.
+Ympyröiden välillä olevat viivat kertovat, kuinka paljon yhteistä lähdekielillä on suhteessa panduniaan.
+Mitä paksumpi viiva on, sitä enemmän viivan yhdistämillä kielillä on yhteistä keskenään.
+
+![](http://www.pandunia.info/grafe/konnete.png "Etymologinen verkostokaavio")  
+**Kuva.** Tämä verkostokaavio näyttää, kuinka paljon yhteisiä pandunian sanoja lähdekielillä on keskenään.
+
+
 #### Miksi pandunian maskotti on vesinokkaeläin?
 
 Vesinokkaeläin (panduniaksi **batokrote**) on munia muniva,

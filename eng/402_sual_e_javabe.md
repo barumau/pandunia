@@ -34,6 +34,69 @@ The flag of Pandunia represents global equality. There is a symbol of
 _the blue planet_ against the background of the dark blue space. The
 equality sign is laid over the Earth.
 
+
+#### Where Pandunia's words come from?
+
+Pandunia's words come from all parts of the world.
+Go to the
+[Pandunia lexe a dunia karte](http://www.pandunia.info/lexikarta/index.html)
+pages to see where every Pandunia word is from on a world map.
+
+In our opinion the world language should be a mix of all languages in the world.
+That's why Pandunia has at least a few words in common with almost all languages of the world,
+because every language has borrowed at least some international words from the major languages
+from where Pandunia words are borrowed too.
+
+![](http://www.pandunia.info/grafe/logasle.png "Bar chart depicting lexical similarity")  
+**Figure.** This bar chart shows how the percentage of Pandunia's base words that are similar with the source languages.
+
+![](http://www.pandunia.info/grafe/logasar.png "Pie chart depicting influence distribution")  
+**Figure.** This pie chart shows how big influence each source language has on Pandunia.
+
+The figure below is a network diagram of the twenty source languages of Pandunia.
+The circles symbolize source languages.
+The larger the diameter, the more words Pandunia has borrowed from that language.
+Lines between the circles indicate how many Pandunia words the languages connected by the line have in common.
+The thicker the line is, the more words the connected languages have in common with each other and Pandunia.
+
+![](http://www.pandunia.info/grafe/konnete.png "Network diagram of etymologies")  
+**Figure.** This network diagram shows how much Pandunia words the source languages have in common with each other.
+
+
+#### Why Pandunia doesn't take words from all languages?
+
+About 6000-7000 languages are spoken in the world today.
+The figure below shows cumulative distribution of the number of speakers of the 50 most spoken native languages.
+The figure shows that:
+
+- 25 percent of all people speak the top-3 languages
+- 50 percent of all people speak the top-13 languages
+- 75 percent of all people speak the top-50 languages
+
+The remaining languages – remember, there are over 6000 of them! – are outside the picture.
+The curve, which is steep at the beginning, turns virtually into a flat line when it approaches the last language,
+which is spoken only by a handful of people.
+
+The figure indicates that _beyond a certain point_
+including one more language to the mix wouldn't make the interlanguage significantly more international.
+For example, if the top-50 languages were already included,
+adding the 51st language wouldn't make much of a difference,
+because it would increase the coverage from 75.07% to 75.43%.
+
+One can also question the practical implications of including 51 languages versus 50.
+The increase in population coverage would be marginal, only 0.36%,
+and it would not help the remaining 24.24% of the world who speak other, smaller languages!
+
+![](http://www.pandunia.info/grafe/kumule.png)  
+Figure. Percentage of world population by language by number of native speakers.
+
+The vocabulary of Pandunia is based on the most spoken languages.
+They cover all continents and all major modern cultures of the world.
+They also have a lot of _international words_ in common with less spoken languages.
+That's why Pandunia-like words can be found also in smaller languages.
+
+
+
 #### Why the mascot of Pandunia is a duck-billed platypus?
 
 Platypus (**batakrote** in Pandunia) is an egg-laying, duck-billed,
@@ -317,56 +380,6 @@ So the letter *c* is free to be reassigned to some useful sound.
 
 
 ## Vocabulary
-
-#### Where Pandunia's words come from?
-
-Pandunia's words come from all parts of the world.
-Go to the
-[Pandunia lexi a dunia karte](http://www.pandunia.info/lexikarta/index.html)
-pages to see where every Pandunia word is from on a world map.
-
-In our opinion the world language should be a mix of all languages in the world.
-That's why Pandunia has at least a few words in common with almost all languages of the world,
-because every language has borrowed at least some international words from the major languages
-from where Pandunia words are borrowed too.
-
-![](http://www.pandunia.info/grafe/logasle.png "Bar chart depicting lexical similarity")  
-Figure. Bar chart showing the percentage of words similar in the source languages and Pandunia.
-
-![](http://www.pandunia.info/grafe/logasar.png "Pie chart depicting influence distribution")  
-Figure. Pie chart showing distribution of influence from the main source languages to Pandunia.
-
-#### Why Pandunia doesn't take words from all languages?
-
-About 6000-7000 languages are spoken in the world today.
-The figure below shows cumulative distribution of the number of speakers of the 50 most spoken native languages.
-The figure shows that:
-
-- 25 percent of all people speak the top-3 languages
-- 50 percent of all people speak the top-13 languages
-- 75 percent of all people speak the top-50 languages
-
-The remaining languages – remember, there are over 6000 of them! – are outside the picture.
-The curve, which is steep at the beginning, turns virtually into a flat line when it approaches the last language,
-which is spoken only by a handful of people.
-
-The figure indicates that _beyond a certain point_
-including one more language to the mix wouldn't make the interlanguage significantly more international.
-For example, if the top-50 languages were already included,
-adding the 51st language wouldn't make much of a difference,
-because it would increase the coverage from 75.07% to 75.43%.
-
-One can also question the practical implications of including 51 languages versus 50.
-The increase in population coverage would be marginal, only 0.36%,
-and it would not help the remaining 24.24% of the world who speak other, smaller languages!
-
-![](http://www.pandunia.info/grafe/kumule.png)  
-Figure. Percentage of world population by language by number of native speakers.
-
-The vocabulary of Pandunia is based on the most spoken languages.
-They cover all continents and all major modern cultures of the world.
-They also have a lot of _international words_ in common with less spoken languages.
-That's why Pandunia-like words can be found also in smaller languages.
 
 
 #### Why the last vowel of words is sometimes different in Pandunia than in language X?
