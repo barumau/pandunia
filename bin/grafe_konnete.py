@@ -6,11 +6,11 @@ import re # For finding specific strings in the text
 import networkx as nx
 import matplotlib.pyplot as plt
 
-#%% Function to make position dicts by partition
+#%% funtion to fete la poze de node a long de grupe ~ partaje
 def fete_node_poze(grafe, partition_attr, partaje_ratibe, epsilon=.6):
         
     # fete la poze dict to pan partaje
-    asle_partaje_poze_dict = {partition:nx.spring_layout(grafe.subgraph([node for node,part in grafe.nodes(data=partition_attr)
+    asle_partaje_poze_dict = {partition:nx.spiral_layout(grafe.subgraph([node for node, part in grafe.nodes(data=partition_attr)
                                                                                       if part == partition]))
                                 for partition in partaje_ratibe}
     
