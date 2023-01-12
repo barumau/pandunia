@@ -6,9 +6,6 @@ import re # For finding specific strings in the text
 import networkx as nx
 import matplotlib.pyplot as plt
 
-baxe_nam = ['eng', 'deu', 'fra', 'spa', 'por', 'rus', 'fas', 'hin', 'ben', 'tam',
-            'may', 'ara', 'tur', 'swa', 'hau', 'zho', 'yue', 'jpn', 'kor', 'vie' ]
-
 def hisabe_nam_konbine(nam1, nam2):
     with open("temp/lexaslia.csv", 'r') as file:
         sume = 0
@@ -27,6 +24,13 @@ def hisabe(G):
                 G.add_edge(baxe_nam[i], baxe_nam[j], weight = sume / 100)
             j += 1
 
+def kreate_baxe_grupe(liste, dataje, node_sizes, G):
+    for nam in liste:
+        node_size = dataje.count(nam);
+        G.add_node(nam, size = node_size)
+        node_sizes.append(node_size * 3)
+        print(nam, node_size)
+    
 
 
 G = nx.Graph()
@@ -35,11 +39,10 @@ file = open("temp/logaslia.txt", "r")
 dataje = file.read()
 node_sizes = []
 
-for nam in baxe_nam:
-    node_size = dataje.count(nam);
-    G.add_node(nam, size = node_size)
-    node_sizes.append(node_size * 3)
-    print(nam, node_size)
+baxe_nam = ['eng', 'deu', 'fra', 'spa', 'por', 'rus', 'fas', 'hin', 'ben', 'tam',
+            'may', 'ara', 'tur', 'swa', 'hau', 'zho', 'yue', 'jpn', 'kor', 'vie' ]
+
+G = kreate_baxe_grupe(baxe_nam, dataje, liste, G)
 
 print(G.nodes)
 
