@@ -629,6 +629,7 @@ bufete - noutopöytä (buffetti)
 buku - kirja  
 bulbul - satakieli  
 bum - räjähdys (pamaus)  
+burokoli - parsakaali  
 burge - linna (linnake, linnoitus)  
 Burkina Faso - Burkina Faso  
 buro - toimisto (konttori, byroo)  
@@ -1879,6 +1880,7 @@ Horvatia - Kroatia
 hotel - hotelli  
 hua - kukka  
 hua jara - kukkamaljakko  
+hua koli - kukkakaali  
 hua mosim - kevät  
 hua pote - kukkaruukku  
 huang - keltainen  
@@ -2307,6 +2309,7 @@ Kokos nesi - Kookossaaret
 kola - koola  
 kola frute - koolapähkinä  
 kola jus - colajuoma  
+koli - kaali  
 Kolombia - Kolumbia  
 koloni - kolonia (siirtomaa)  
 koloni ja - kolonialisti  
@@ -3510,7 +3513,6 @@ roke - keinuttaa (keikuttaa)
 roke musike - rokki (rock)  
 roke kursi - keinutuoli (kiikkutuoli)  
 rol - rooli (osa)  
-rolo - käärö  
 rom - rommi  
 Roma - Rooma  
 roman - roomalainen  
@@ -3536,6 +3538,9 @@ ruhu di - henkinen (psyykkinen)
 ruhu lojia - psykologia  
 ruke - selkä  
 ruke sake - reppu (rinkka)  
+rul - käärö (kerä)  
+rulete - ruletti  
+rul koli - keräkaali  
 Rundi - Burundi  
 rupa - ilmiasu (hahmo, ulkomuoto, ulkonäkö)  
 Rusia - Venäjä  
@@ -3607,6 +3612,7 @@ samarium - samarium
 Samoa - Samoa  
 san - tietää  
 • ansan di - vieras (tuntematon)  
+sanateria - parantola (sanatorio)  
 san lojia - tietoteoria (epistemologia)  
 san vol - kiinnostus (mielenkiinto)  
 san vol di - kiinnostava  
@@ -4390,6 +4396,7 @@ yen di - silmä-
 yen kexa - silmäripsi  
 yen sui - kyynel  
 yepa - lehti (arkki, levy)  
+yepa koli - lehtikaali  
 yepa late - sivu (kirjassa)  
 Yesa - Jeesus  
 Yesa Mesi - Jeesus Kristus  

@@ -757,6 +757,7 @@
  - roke  
  - roke kursi  
  - roman  
+ - rul koli  
  - sabi  
  - sable burge  
  - saf tela  
@@ -769,6 +770,7 @@
  - saludo  
  - sam bei  
  - sammetria  
+ - sanateria  
  - sanga  
  - sante kanon  
  - sau ben  
@@ -1391,6 +1393,7 @@ brawo (gratulacje) - bravo
 Brazyla - Brazil  
 broda - barde  
 brodawka - zeyil  
+brokuł - burokoli  
 brom - brom  
 broń - vuki  
 broń nuklearna - kerne vuki  
@@ -2129,6 +2132,7 @@ jakiś - yo
 Jamajka - Jamaika  
 Japonia - Nipon  
 japoński - nipon di  
+jarmuż - yepa koli  
 jarzmo - yogo  
 jaskinia - gua  
 jasnoniebieski (lazurowy) - sama nil  
@@ -2189,6 +2193,7 @@ kadm - kadimium
 Kajmany - Kaiman nesia  
 kakao - kakau  
 kaktus - katus  
+kalafior - hua koli  
 kalcyt - kalsite  
 kalendarz - kalenda  
 kalif - halife  
@@ -2218,6 +2223,7 @@ kapelusz, czapka - tupi
 kaper (korsarz) - nave kape ja  
 kapeć (papeć, bambosz) - babuce  
 kapitan - nave xefe  
+kapusta - koli  
 kapusta pekińska - baku coi  
 Karaiby - Karibe  
 karaoke - karaoke  
@@ -3693,7 +3699,8 @@ ruch - kino
 ruch - move  
 ruchowy, kinetyczny - kino di  
 rujnować, dewastwować, burzyć - fa harabu  
-rulon (rolka, zwój) - rolo  
+ruletka - rulete  
+rulon (rolka, zwój) - rul  
 rum - rom  
 rumian rzymski - roma kamil  
 rumianek pospolity - kamil  

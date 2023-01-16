@@ -780,6 +780,7 @@
 **koka** *coca* ← Spanish:English:coca, Russian:кока (koka), Turkish:koka, Mandarin:古柯 (gǔké)  
 **koko** *chicken* ← French:coq, English:cock, Polish:kogut, Gujarati:કૂકડો (kūkḍo) + Swahili:kuku, Zulu:inkukhu, Igbo:Ọkụkọ + (onom.) Italian:coccodè, Japanese:コッコッ (kokko), Persian:(qod-qod-qodās), Russian:куд-куда, Hindi:कुटकुटा (kutkutā)  
 **kola** *kola* ← English:Spanish:cola, Russian:кола (kola), Hindi:कोला (kolā), Japanese:コラ (kora), Swahili:mkola, Hausa:gworo  
+**koli** *cabbage* ← deu:Kohl, Spanish:col, Malay:kol, Mandarin:高丽菜 (gāolícài) + English:cauliflower; broccoli, French:brocoli, spa:coliflor; brócoli, Portuguese:brócolis, Russian:брокколи (brokkoli), may:Turkish:brokoli, Filipino:koliplor, Arabic: بْرُوكُلِي‎ (brūkulī), Japanese:ブロッコリ (burokkori), Korean:브로콜리 (beurokolli)  
 **koloni** *colony (settlement)* ← English:colony, Spanish:colonia, Portuguese:colônia, Russian:колония (koloniya), Turkish:ma:koloni, Hindi:कॉलोनी (kŏlonī), Japanese:コロニー  
 **kolum** *pillar (column, pole, post)* ← English:column, French:colonne, Spanish:columna, Portuguese:coluna, Russian:колонна (kolonna), Polish:kolumna  
 **koma** *comma* ← English:comma, deu:Komma, Hindi:कामा (kāmā), Japanese:コンマ (konma), Korean:콤마 (komma), Malay:koma  
@@ -1295,7 +1296,6 @@
 **rodium** *rhodium* ← English:rhodium, French:rhodium, Spanish:rodio, Portuguese:ródio, Russian:родий, Japanese:ロジウム, Korean:로듐, Vietnamese:rođi, Hindi:रोडियम, Bengali:রোডিয়াম, Malay:rodium, Swahili:rodi, Arabic: روديوم  
 **roke** *rock (sway, tilt)* ← English:French:Spanish:Portuguese:rock, Russian:рок (rok), Hindi:रॉक (rŏk), Bengali:রক (rôk), Japanese:ロック (rokku), Korean:록 (rok), Arabic: رُوك‎ (rūk)  
 **rol** *role* ← English:role, French:rôle, deu:Rolle, Russian:роль (rol’), Turkish:rol, kat:როლი (roli), Persian:رل‎ (rol)  
-**rolo** *roll (scroll, coil)* ← English:roll, deu:Rolle, French:rouleau, Spanish:rollo, Portuguese:rolo, Russian:рулон (rulon), Turkish:rulo, Japanese:ローラー (rōrā)  
 **rom** *rum* ← English:rum, Spanish:ron, Hindi:रम (ram), Russian:ром (rom)  
 **romanse** *romance (romantic love)* ← French:English:Spanish:Portuguese:romance, Russian:роман (roman), Japanese:ロマンス (romansu), Korean:로맨스 (romaenseu), Arabic: رُومَانْسِيّ‎ (rōmansiyy), Turkish:romans  
 **rose** *dew* ← French:rosée, Spanish:rocío, Russian:роса (rosa)  
@@ -1305,6 +1305,8 @@
 **ruhu lojia** *psychology* ← Turkish:ruh bilimi, Hindi:मनोविज्ञान (manovigyān), Bengali:মনোবিজ্ঞান (mônobiggan), Malay:ilmu jiwa, Arabic:(ʿilm an-nafs), deu:Seelenkunde, English:psychology, Spanish:psicológia  
 **ruhu** *soul (mind, psyche)* ← Arabic: رُوح‎ (rūḥ), Persian: روح‎ (ruh), Hindi:रूह (rūh), Bengali:রূহ (ruh), Malay:ruh, Swahili:roho, Hausa:ruhu, som:ruux + Russian:дух (duh)  
 **ruke** *back* ← deu:Rücken + deu:English:rucksack, Russian:рюкзак (rjukzak), Japanese: リュックサック (ryukkusakku), Korean:륙색 (ryuksaek)  
+**rul koli** *cabbage* ← Portuguese:couve, Hindi:गोभी (gobhī), Bengali:কপি (kôpi), Malay:kubis  
+**rul** *roll (scroll, coil)* ← English:roll, deu:Rolle, French:rouleau, Spanish:rollo, Portuguese:rolo, Russian:рулон (rulon), Turkish:rulo, Japanese:ローラー (rōrā)  
 **rupa** *appear (look like; appearance, looks, figure, representation)* ← Hindi:रूप (rūp), Urdu: روپ‎ (rūp), Bengali:রূপ (rup), Tamil:ரூபம் (rūpam), Malay: rupa, Thai: รูป (rūp), Khmer:រូប (rūp)  
 **rute** *route (path, trail, course, itinerary)* ← English:French:route, Spanish:ruta, Portuguese:rota, deu:Route, Japanese:ルート (rūto), Russian:маршрут (maršrut)  
 **ruterfordium** *rutherfordium* ← English:rutherfordium, French:rutherfordium, Spanish:rutherfordio, Portuguese:rutherfórdio, Russian:резерфордий, ²курчатовий, Mandarin: (lú), Japanese:ラザホージウム, Korean:러더포듐, Vietnamese:rutherfordi, Hindi:रुथरफोर्डियम, Bengali:রাদারফোর্ডিয়াম, Malay:rutherfordium, Swahili:rutherfordi, Arabic: رذرفورديوم  

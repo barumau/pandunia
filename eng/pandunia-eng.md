@@ -642,6 +642,7 @@ bufete - buffet (smorgasbord)
 buku - book  
 bulbul - nightingale  
 bum - explosion (blast, eruption)  
+burokoli - broccoli  
 burge - fortress (castle, fort, stronghold)  
 Burkina Faso - Burkina Faso  
 buro - office (bureau)  
@@ -1979,6 +1980,7 @@ Horvatia - Croatia
 hotel - hotel  
 hua - flower  
 hua jara - flower vase  
+hua koli - cauliflower  
 hua mosim - spring (springtime)  
 hua pote - flowerpot  
 huang - yellow  
@@ -2459,6 +2461,7 @@ Kokos nesi - Cocos (Keeling) Islands
 kola - kola  
 kola frute - kola nut  
 kola jus - cola  
+koli - cabbage  
 Kolombia - Colombia  
 koloni - colony (settlement)  
 koloni ja - colonist  
@@ -3859,7 +3862,6 @@ roke - rock (sway, tilt)
 roke musike - rock music  
 roke kursi - rocking chair  
 rol - role  
-rolo - roll (scroll, coil)  
 rom - rum  
 Roma - Rome  
 roman - Roman  
@@ -3891,6 +3893,9 @@ ruhu mixe - confuse (perplex, bewilder, baffle)
 ruhu mixe di - confused (perplexed, disoriented, bewildered)  
 ruke - back  
 ruke sake - backpack (rucksack)  
+rul - roll (scroll, coil)  
+rulete - roulette  
+rul koli - cabbage  
 Rundi - Burundi  
 rupa - appear (look like; appearance, looks, figure, representation)  
 Rusia - Russia  
@@ -3972,6 +3977,7 @@ samarium - samarium
 Samoa - Samoa  
 san - know as a fact (be aware of)  
 • ansan di - strange (unknown)  
+sanateria - sanatorium (sanitarium)  
 san lojia - epistemology  
 san vol - interest (curiosity)  
 san vol di - interesting (curious)  
@@ -4837,6 +4843,7 @@ yen sui - tear drop
 yen sui gas - tear gas  
 yepa - leaf (sheet)  
 yepa alga - kelp  
+yepa koli - kale  
 yepa late - page (side of a leaf of a book)  
 Yesa - Jesus  
 Yesa Mesi - Jesus Christ  

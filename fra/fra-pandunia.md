@@ -326,6 +326,7 @@ bravo! - bravo
 brigand (bandit) - lutar  
 brique - dobe  
 brochette - xix  
+brocoli - burokoli  
 brome - brom  
 brosse - broxa  
 brosse à cheveux - kexa broxa  
@@ -463,6 +464,9 @@ Chine - Jongoku
 chlore - klor  
 chocolat - coklate  
 chose - xe  
+chou - koli  
+chou frisé - yepa koli  
+chou-fleur - hua koli  
 chow mein - cau mien  
 Christ - kriste  
 chrome - kromium  
@@ -1793,6 +1797,8 @@ rosée - rose
 rotule - guta kaska oste  
 roue - rote  
 rouge - rubi  
+rouleau - rul  
+roulette - rulete  
 ruban (bande) - tepe  
 rubidium - rubium  
 rubis - rubi bau seku  
@@ -1843,6 +1849,7 @@ salut - sal
 samarium - samarium  
 samedi - xaniden  
 Samoa américaines - Amerikan Samoa  
+sanatorium - sanateria  
 sandwich - sanduice  
 sang - heme  
 santé - saludo  

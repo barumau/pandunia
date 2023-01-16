@@ -378,6 +378,7 @@ bude - cabine
 buku - livre  
 bulbul - rossignol  
 bum - explosion  
+burokoli - brocoli  
 burge - fort  
 buro - bureau (office)  
 buro krati - bureaucratie  
@@ -926,6 +927,7 @@ holmium - holmium
 horure - horreur  
 hotel - hôtel  
 hua - fleur  
+hua koli - chou-fleur  
 hua pote - pot de fleur  
 hui darte - podzol  
 huke - crochet  
@@ -1147,6 +1149,7 @@ klor - chlore
 koala - koala  
 kobalte - cobalt  
 koda - queue  
+koli - chou  
 kolum - pilier (colonne, poteau)  
 komike - comique  
 komodia - comédie  
@@ -1819,6 +1822,8 @@ rubi salmon - saumon sockeye
 ruhu - psyché  
 ruhu lojia - psychologie  
 ruhu mixe di - perplexe (désorienté)  
+rul - rouleau  
+rulete - roulette  
 rusium - ruthénium  
 ruterfordium - rutherfordium  
 
@@ -1854,6 +1859,7 @@ sam sifa xe - simulation
 sama - ciel  
 samarium - samarium  
 san - savoir  
+sanateria - sanatorium  
 san lojia - épistémologie  
 sanduice - sandwich  
 sanga - ordre  
@@ -2240,6 +2246,7 @@ yen di - oculaire
 yen sui gas - gaz lacrymogène  
 yepa - feuille  
 yepa alga - varech  
+yepa koli - chou frisé  
 yepa late - page  
 Yesa - Jésus  
 Yesa Mesi - Jésus-Christ  

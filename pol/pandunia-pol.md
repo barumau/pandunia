@@ -607,6 +607,7 @@ bufete - bufet (szwedzki stół)
 buku - książka  
 bulbul - słowik  
 bum - wybuch (eksplozja)  
+burokoli - brokuł  
 burge - zamek, forteca, twierdza  
 Burkina Faso - Burkina Faso  
 buro - biuro, urząd  
@@ -1945,6 +1946,7 @@ Horvatia - Chorwacja
 hotel - hotel  
 hua - kwiat  
 hua jara -   
+hua koli - kalafior  
 hua mosim - wiosna  
 hua pote -   
 huang - żółty  
@@ -2426,6 +2428,7 @@ Kokos nesi - Wyspy Kokosowe
 kola -   
 kola frute -   
 kola jus - kola, napój gazowany  
+koli - kapusta  
 Kolombia - Kolumbia  
 koloni - kolonia, osada  
 koloni ja - kolonizator  
@@ -3825,7 +3828,6 @@ roke -
 roke musike - rock  
 roke kursi -   
 rol - rola  
-rolo - rulon (rolka, zwój)  
 rom - rum  
 Roma - Rzym  
 roman -   
@@ -3857,6 +3859,9 @@ ruhu mixe - mylić (gmatwać, zmieszać, konsternować)
 ruhu mixe di - smieszany (skonfudowany)  
 ruke - placy  
 ruke sake - plecak  
+rul - rulon (rolka, zwój)  
+rulete - ruletka  
+rul koli -   
 Rundi - Burundi  
 rupa - wygląd  
 Rusia - Rosja  
@@ -3938,6 +3943,7 @@ samarium - samar
 Samoa - Samoa  
 san - wiedzieć  
 • ansan di - dziwny (nieznany)  
+sanateria -   
 san lojia - epistemologia (gnoseologia, teoria poznania)  
 san vol - zainteresowanie, zaciekawienie; interesujący  
 san vol di - interesujący  
@@ -4802,6 +4808,7 @@ yen sui - łza
 yen sui gas - gaz łzawiący  
 yepa - kartka (dokument)  
 yepa alga - listownicowiec  
+yepa koli - jarmuż  
 yepa late - strona  
 Yesa - Jezus  
 Yesa Mesi - Jezus Chrystus  

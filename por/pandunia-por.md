@@ -277,6 +277,7 @@ bude - cabine
 buku - livro  
 bulbul - rouxinol  
 bum - explosão  
+burokoli - brócolis  
 burge - forte  
 buro - escritório (birô)  
 buro krati - burocracia  
@@ -749,6 +750,7 @@ holmium - hólmio
 horure - horror  
 hotel - hotel  
 hua - flor  
+hua koli - couve-flor  
 hua pote - vaso de flores  
 hui darte - espodossolo  
 huke - gancho  
@@ -956,6 +958,7 @@ klin - tendência
 klor - cloro  
 koala - coala  
 kobalte - cobalto  
+koli - couve (repolho)  
 kolum - poste (coluna)  
 komike - cômico  
 komodia - comédia  
@@ -1586,6 +1589,7 @@ rubi bau seku - rubi
 rubi oranje - tangerina (mandarim)  
 rubi salmon - salmão-vermelho  
 ruhu mixe di - perplexo (confuso)  
+rulete - roleta  
 rusium - ruténio  
 ruterfordium - rutherfórdio  
 
@@ -1617,6 +1621,7 @@ sam sifa xe - simulação
 sama - céu  
 samarium - samário  
 san - saber  
+sanateria - sanatório  
 san lojia - epistemologia  
 san vol ja - inquisitivo  
 sana ja - fator  
@@ -1961,6 +1966,7 @@ yen di - ocular
 yen sui gas - gás lacrimogéneo  
 yepa - folha  
 yepa alga - kelp  
+yepa koli - couve-de-folhas  
 yepa late - página  
 Yesa Mesi - Jesus Cristo  
 yoga - ioga  

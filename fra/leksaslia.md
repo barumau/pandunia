@@ -780,6 +780,7 @@
 **koka** ** ← spa:eng:coca, rus:кока (koka), tur:koka, zho:古柯 (gǔké)  
 **koko** ** ← fra:coq, eng:cock, pol:kogut, guj:કૂકડો (kūkḍo) + swa:kuku, zul:inkukhu, ibo:Ọkụkọ + (onom.) ita:coccodè, jpn:コッコッ (kokko), fas:(qod-qod-qodās), rus:куд-куда, hin:कुटकुटा (kutkutā)  
 **kola** ** ← eng:spa:cola, rus:кола (kola), hin:कोला (kolā), jpn:コラ (kora), swa:mkola, hau:gworo  
+**koli** *chou* ← deu:Kohl, spa:col, may:kol, zho:高丽菜 (gāolícài) + eng:cauliflower; broccoli, fra:brocoli, spa:coliflor; brócoli, por:brócolis, rus:брокколи (brokkoli), may:tur:brokoli, tgl:koliplor, ara: بْرُوكُلِي‎ (brūkulī), jpn:ブロッコリ (burokkori), kor:브로콜리 (beurokolli)  
 **koloni** ** ← eng:colony, spa:colonia, por:colônia, rus:колония (koloniya), tur:ma:koloni, hin:कॉलोनी (kŏlonī), jpn:コロニー  
 **kolum** *pilier (colonne, poteau)* ← eng:column, fra:colonne, spa:columna, por:coluna, rus:колонна (kolonna), pol:kolumna  
 **koma** *virgule* ← eng:comma, deu:Komma, hin:कामा (kāmā), jpn:コンマ (konma), kor:콤마 (komma), may:koma  
@@ -1295,7 +1296,6 @@
 **rodium** *rhodium* ← eng:rhodium, fra:rhodium, spa:rodio, por:ródio, rus:родий, jpn:ロジウム, kor:로듐, vie:rođi, hin:रोडियम, ben:রোডিয়াম, may:rodium, swa:rodi, ara: روديوم  
 **roke** *secouer* ← eng:fra:spa:por:rock, rus:рок (rok), hin:रॉक (rŏk), ben:রক (rôk), jpn:ロック (rokku), kor:록 (rok), ara: رُوك‎ (rūk)  
 **rol** ** ← eng:role, fra:rôle, deu:Rolle, rus:роль (rol’), tur:rol, kat:როლი (roli), fas:رل‎ (rol)  
-**rolo** ** ← eng:roll, deu:Rolle, fra:rouleau, spa:rollo, por:rolo, rus:рулон (rulon), tur:rulo, jpn:ローラー (rōrā)  
 **rom** ** ← eng:rum, spa:ron, hin:रम (ram), rus:ром (rom)  
 **romanse** ** ← fra:eng:spa:por:romance, rus:роман (roman), jpn:ロマンス (romansu), kor:로맨스 (romaenseu), ara: رُومَانْسِيّ‎ (rōmansiyy), tur:romans  
 **rose** *rosée* ← fra:rosée, spa:rocío, rus:роса (rosa)  
@@ -1305,6 +1305,8 @@
 **ruhu lojia** *psychologie* ← tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia  
 **ruhu** *psyché* ← ara: رُوح‎ (rūḥ), fas: روح‎ (ruh), hin:रूह (rūh), ben:রূহ (ruh), may:ruh, swa:roho, hau:ruhu, som:ruux + rus:дух (duh)  
 **ruke** ** ← deu:Rücken + deu:eng:rucksack, rus:рюкзак (rjukzak), jpn: リュックサック (ryukkusakku), kor:륙색 (ryuksaek)  
+**rul koli** ** ← por:couve, hin:गोभी (gobhī), ben:কপি (kôpi), may:kubis  
+**rul** *rouleau* ← eng:roll, deu:Rolle, fra:rouleau, spa:rollo, por:rolo, rus:рулон (rulon), tur:rulo, jpn:ローラー (rōrā)  
 **rupa** ** ← hin:रूप (rūp), urd: روپ‎ (rūp), ben:রূপ (rup), tam:ரூபம் (rūpam), may: rupa, tha: รูป (rūp), khm:រូប (rūp)  
 **rute** ** ← eng:fra:route, spa:ruta, por:rota, deu:Route, jpn:ルート (rūto), rus:маршрут (maršrut)  
 **ruterfordium** *rutherfordium* ← eng:rutherfordium, fra:rutherfordium, spa:rutherfordio, por:rutherfórdio, rus:резерфордий, ²курчатовий, zho: (lú), jpn:ラザホージウム, kor:러더포듐, vie:rutherfordi, hin:रुथरफोर्डियम, ben:রাদারফোর্ডিয়াম, may:rutherfordium, swa:rutherfordi, ara: رذرفورديوم  

@@ -780,6 +780,7 @@
 **koka** ** ← hispana:angla:coca, rusa:кока (koka), turka:koka, mandarena:古柯 (gǔké)  
 **koko** *koko* ← franca:coq, angla:cock, polona:kogut, guĝarata:કૂકડો (kūkḍo) + svahila:kuku, zulua:inkukhu, igba:Ọkụkọ + (onom.) itala:coccodè, japana:コッコッ (kokko), persa:(qod-qod-qodās), rusa:куд-куда, hindia:कुटकुटा (kutkutā)  
 **kola** ** ← angla:hispana:cola, rusa:кола (kola), hindia:कोला (kolā), japana:コラ (kora), svahila:mkola, haŭsa:gworo  
+**koli** *brasiko* ← deu:Kohl, hispana:col, malaja:kol, mandarena:高丽菜 (gāolícài) + angla:cauliflower; broccoli, franca:brocoli, spa:coliflor; brócoli, portugala:brócolis, rusa:брокколи (brokkoli), may:turka:brokoli, filipina:koliplor, araba: بْرُوكُلِي‎ (brūkulī), japana:ブロッコリ (burokkori), korea:브로콜리 (beurokolli)  
 **koloni** ** ← angla:colony, hispana:colonia, portugala:colônia, rusa:колония (koloniya), turka:ma:koloni, hindia:कॉलोनी (kŏlonī), japana:コロニー  
 **kolum** *kolono* ← angla:column, franca:colonne, hispana:columna, portugala:coluna, rusa:колонна (kolonna), polona:kolumna  
 **koma** *komo* ← angla:comma, deu:Komma, hindia:कामा (kāmā), japana:コンマ (konma), korea:콤마 (komma), malaja:koma  
@@ -1295,7 +1296,6 @@
 **rodium** *rodio* ← angla:rhodium, franca:rhodium, hispana:rodio, portugala:ródio, rusa:родий, japana:ロジウム, korea:로듐, vjetnama:rođi, hindia:रोडियम, bengala:রোডিয়াম, malaja:rodium, svahila:rodi, araba: روديوم  
 **roke** ** ← angla:franca:hispana:portugala:rock, rusa:рок (rok), hindia:रॉक (rŏk), bengala:রক (rôk), japana:ロック (rokku), korea:록 (rok), araba: رُوك‎ (rūk)  
 **rol** ** ← angla:role, franca:rôle, deu:Rolle, rusa:роль (rol’), turka:rol, kat:როლი (roli), persa:رل‎ (rol)  
-**rolo** ** ← angla:roll, deu:Rolle, franca:rouleau, hispana:rollo, portugala:rolo, rusa:рулон (rulon), turka:rulo, japana:ローラー (rōrā)  
 **rom** ** ← angla:rum, hispana:ron, hindia:रम (ram), rusa:ром (rom)  
 **romanse** ** ← franca:angla:hispana:portugala:romance, rusa:роман (roman), japana:ロマンス (romansu), korea:로맨스 (romaenseu), araba: رُومَانْسِيّ‎ (rōmansiyy), turka:romans  
 **rose** *roso* ← franca:rosée, hispana:rocío, rusa:роса (rosa)  
@@ -1305,6 +1305,8 @@
 **ruhu lojia** *psikologio* ← turka:ruh bilimi, hindia:मनोविज्ञान (manovigyān), bengala:মনোবিজ্ঞান (mônobiggan), malaja:ilmu jiwa, araba:(ʿilm an-nafs), deu:Seelenkunde, angla:psychology, hispana:psicológia  
 **ruhu** *animo (psiko)* ← araba: رُوح‎ (rūḥ), persa: روح‎ (ruh), hindia:रूह (rūh), bengala:রূহ (ruh), malaja:ruh, svahila:roho, haŭsa:ruhu, som:ruux + rusa:дух (duh)  
 **ruke** *dorso* ← deu:Rücken + deu:angla:rucksack, rusa:рюкзак (rjukzak), japana: リュックサック (ryukkusakku), korea:륙색 (ryuksaek)  
+**rul koli** ** ← portugala:couve, hindia:गोभी (gobhī), bengala:কপি (kôpi), malaja:kubis  
+**rul** ** ← angla:roll, deu:Rolle, franca:rouleau, hispana:rollo, portugala:rolo, rusa:рулон (rulon), turka:rulo, japana:ローラー (rōrā)  
 **rupa** *aspekto* ← hindia:रूप (rūp), urdua: روپ‎ (rūp), bengala:রূপ (rup), tamila:ரூபம் (rūpam), malaja: rupa, taja: รูป (rūp), kmera:រូប (rūp)  
 **rute** ** ← angla:franca:route, hispana:ruta, portugala:rota, deu:Route, japana:ルート (rūto), rusa:маршрут (maršrut)  
 **ruterfordium** *ruterfordio* ← angla:rutherfordium, franca:rutherfordium, hispana:rutherfordio, portugala:rutherfórdio, rusa:резерфордий, ²курчатовий, mandarena: (lú), japana:ラザホージウム, korea:러더포듐, vjetnama:rutherfordi, hindia:रुथरफोर्डियम, bengala:রাদারফোর্ডিয়াম, malaja:rutherfordium, svahila:rutherfordi, araba: رذرفورديوم  

@@ -288,6 +288,7 @@ bufete - буфет
 buku - книга  
 bulbul - соловей  
 bum - взрыв  
+burokoli - брокколи  
 burge - крепость (форт)  
 buro - контора (бюро, офис)  
 buro di - казённый (формальный)  
@@ -804,6 +805,7 @@ holiste - всесторонний
 holmium - гольмий  
 hotel - гостиница (отель)  
 hua - цветок  
+hua koli - цветная капуста  
 hua mosim - весна  
 hua pote - цвето́чный горшок  
 hui darte - подзол  
@@ -1015,6 +1017,7 @@ klor - хлор
 koala - коала  
 kobalte - кобальт  
 koda - хвост  
+koli - капуста  
 komike - комический (смешной)  
 komodia - комедия  
 kon bon - соответствовать (сочетаться)  
@@ -1636,6 +1639,8 @@ ruhu - душа (дух)
 ruhu mixe - озадачить  
 ruhu mixe di - растерянный (озадаченный)  
 ruke sake - рюкзак  
+rul - рулон  
+rulete - рулетка  
 rusium - рутений  
 ruterfordium - резерфордий, ²курчатовий  
 
@@ -1666,6 +1671,7 @@ sama kinar - горизонт
 sama nil - голубой  
 samarium - самарий  
 san - знать (ведать)  
+sanateria - санаторий (здравница)  
 san lojia - эпистемология  
 san vol - интерес (любопытство)  
 san vol di - интересный  
@@ -2046,6 +2052,7 @@ yen - глаз (око)
 yen di - глазной  
 yen sui gas - слезоточи́вый газ  
 yepa - лист  
+yepa koli - кале  
 Yesa - Иисус  
 Yesa Mesi - Иисус Христос  
 Yesa sanga - иезуитский орден  

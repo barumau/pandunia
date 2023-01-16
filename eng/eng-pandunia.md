@@ -562,6 +562,7 @@ bright (brilliant, clear) - ming
 brighten - fa ming  
 bring - fa lai  
 bring up (educate, raise) - pede  
+broccoli - burokoli  
 broken (shattered) - parce di  
 bromine - brom  
 broom (sweep) - jaru  
@@ -615,6 +616,8 @@ by (at, in, on) - a
 
 ## C  
 
+cabbage - koli  
+cabbage - rul koli  
 cable (wire, line) - eletroline  
 Cabo Verde (Cape Verde) - Kabu Verde  
 cactus - katus  
@@ -701,6 +704,7 @@ catch (capture, take, seize) - cepe
 catch fish - kape yo pexe  
 Caucasia - Kaukasia  
 cauldron - dai pote  
+cauliflower - hua koli  
 cause (be the cause for) - fa sabu  
 cave - gua  
 Cayman Islands - Kaiman nesia  
@@ -2250,6 +2254,7 @@ justice - adilta
 
 ## K  
 
+kale - yepa koli  
 Kama Sutra - kama kanon  
 kangaroo - kangaru  
 Kannada - karnada baxa  
@@ -3724,7 +3729,7 @@ rocket launcher - rakete lanser
 rocking chair - roke kursi  
 roentgenium - rentegenium  
 role - rol  
-roll (scroll, coil) - rolo  
+roll (scroll, coil) - rul  
 roll (wrap in) - fa rolo  
 Roman - roman  
 Roman camomile - roma kamil  
@@ -3744,6 +3749,7 @@ rotate (spin, turn on an axis) - be rota
 rotor (rotator) - rotater  
 rotten - pute  
 rough (coarse, harsh) - gros  
+roulette - rulete  
 round (circular) - gola di  
 route (path, trail, course, itinerary) - pata  
 route (path, trail, course, itinerary) - rute  
@@ -3804,6 +3810,7 @@ samarium - samarium
 same (equal, alike, match) - sam  
 Samoa - Samoa  
 San Marino - Sante Marino  
+sanatorium (sanitarium) - sanateria  
 sand - sable  
 sandcastle - sable burge  
 sandstone - sablite  

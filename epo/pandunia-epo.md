@@ -320,6 +320,7 @@ budi di - konscia
 buku - libro  
 bulbul - najtingalo  
 bum - eksplodo  
+burokoli - brokolo  
 bus - buso  
 bus halte - bushaltejo  
 busu - kiso  
@@ -916,6 +917,7 @@ Horvatia - Kroatio
 hotel - hotelo  
 hua - floro  
 hua jara - vazo  
+hua koli - florbrasiko  
 hua mosim - printempo  
 hua pote - florpoto  
 huang - flava  
@@ -1149,6 +1151,7 @@ kobalte - kobalto
 koda - vosto  
 kode - kodo  
 koko - koko  
+koli - brasiko  
 kolum - kolono  
 komodia - komedio  
 koma - komo  
@@ -1746,6 +1749,7 @@ rubi oranje - mandarino
 ruhu - animo (psiko)  
 ruhu lojia - psikologio  
 ruke - dorso  
+rulete - ruleto  
 rupa - aspekto  
 rusium - rutenio  
 rus krepe - rusa krepo  

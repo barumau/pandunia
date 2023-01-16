@@ -269,6 +269,7 @@ bufete - 自助餐
 buku - 书  
 bulbul - 夜莺  
 bum - 爆炸  
+burokoli - 西兰花  
 burge - 要塞  
 buro ja - 秘书  
 buro krati - 官僚制  
@@ -726,6 +727,7 @@ horure - 恐怖
 hotel - 旅馆  
 hua - 花  
 hua jara - 花瓶  
+hua koli - 花椰菜  
 hua pote - 花盆  
 hui darte - 灰化土  
 huke - 钩  
@@ -921,6 +923,7 @@ klor - 氯
 koala - 樹袋熊 (考拉)  
 kobalte - 钴  
 koda - 尾巴 (尾部)  
+koli - 卷心菜 (高丽菜)  
 kolum - 柱子   
 komodia - 喜剧  
 koma - 逗号  

@@ -1109,6 +1109,7 @@ jäätyä - be ais
 ## K  
 
 kaakao - kakau  
+kaali - koli  
 kaaos - haos  
 kaappi - almari  
 kaapu - juba  
@@ -1316,6 +1317,7 @@ kertoa - fa kata
 kertomus (tarina, saaga) - kata  
 kerubi - kerubi  
 keräilykortti - jami karte  
+keräkaali - rul koli  
 keskeyttää (tauottaa) - fa pauza  
 Keski-Afrikan Tasavalta - Jong Afrika Vakilkratia  
 keskipäivä (puolipäivä) - medi dia  
@@ -1567,6 +1569,7 @@ kuivakausi - gan mosim
 kuivata (kuivattaa) - fa gan  
 kuka? - ke jen  
 kukka - hua  
+kukkakaali - hua koli  
 kukkamaljakko - hua jara  
 kukkaruukku - hua pote  
 kuljetus - traporte  
@@ -1709,7 +1712,7 @@ kääre (kuori) - lifafa
 kääriä (panna kääröön) - fa lifafa  
 kääriä - fa rolo  
 käärme - serpe  
-käärö - rolo  
+käärö (kerä) - rul  
 köynnös - trepater  
 
 ## L  
@@ -1788,6 +1791,7 @@ lawrencium - laurencium
 lehmän liha - mumu nama  
 lehti (arkki, levy) - yepa  
 lehti (sanomalehti) - gazeta  
+lehtikaali - yepa koli  
 lehtisalaatti - letus  
 leijona - singa  
 leikata (purra) - gata  
@@ -2676,12 +2680,14 @@ papukaija - papagai
 Paraguai - Paraguai  
 parametri (argumentti) - parametri  
 paranormaali (yliluonnollinen) - paranormali  
+parantola (sanatorio) - sanateria  
 pari (kaksikko) - per  
 Pariisi - Paris  
 parillinen luku - per nume  
 parkkipaikka - car parke  
 paronyymi - paranam  
 parsa - asparge  
+parsakaali - burokoli  
 parta - barde  
 partitiivi - partative  
 partneri (kumppani, osakas) - partaner  
@@ -3143,6 +3149,7 @@ ruiskuttaa (ruiske, injektio) - injete
 ruiskuttaa - fa juxa  
 rukoilla (anoa) - fa dua  
 rukous - dua  
+ruletti - rulete  
 ruma (pahannäköinen) - dus vide  
 rumpu - guma  
 runo - xir  

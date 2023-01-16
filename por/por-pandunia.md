@@ -245,6 +245,7 @@ bravo! - bravo
 braço - hanu xaka  
 brocha (pincel) - broxa  
 bromo - brom  
+brócolis - burokoli  
 bu! - bu!  
 Buda - Buda  
 budismo zen - jan buda din  
@@ -462,6 +463,9 @@ cosmonauta - kosmo nave ja
 costa - bahai kinar  
 costume (hábito) - ada  
 cotovelo - kudi  
+couve (repolho) - koli  
+couve-de-folhas - yepa koli  
+couve-flor - hua koli  
 crente - din ja  
 crente - kredija  
 crepe (panqueca) - krepe  
@@ -1620,6 +1624,7 @@ rocha (pedra) - petra
 rock - roke musike  
 roda - rote  
 roentgênio - rentegenium  
+roleta - rulete  
 Roma - Roma  
 romance - long kata  
 rosa - rode  
@@ -1664,6 +1669,7 @@ salão - sala
 samambaia - parne  
 samba-canção - boce pante  
 samário - samarium  
+sanatório - sanateria  
 sanduíche - sanduice  
 sangue - heme  
 sari - sari  

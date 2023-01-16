@@ -507,6 +507,7 @@ broma (chiste) - joke
 bromista (chistoso) - joker  
 bromo - brom  
 Brunei - Brunei  
+brócoli (brécol) - burokoli  
 brújula - ponte pin  
 bu! - bu!  
 Buda - Buda  
@@ -827,7 +828,9 @@ codicioso (avaro) - tami
 codificar (cifrar) - fa kode  
 codo - kudi  
 cohete (misil) - rakete  
+col (repollo) - koli  
 col china - baku coi  
+col rizada - yepa koli  
 cola (rabo, coda) - koda  
 cola (refresco de cola) - kola jus  
 colaborar - kon kar  
@@ -837,6 +840,7 @@ colchón - matras
 colección (grupo, conjunto, montón) - jamia  
 colectivo - jamive  
 colgar - pende  
+coliflor - hua koli  
 colmena (panal) - medu vespa nide  
 colocar (poner, ubicar) - fa loka  
 Colombia - Kolombia  
@@ -3488,7 +3492,7 @@ rodilla - guta
 rodio - rodium  
 roentgenio - rentegenium  
 rojo - rubi  
-rollo - rolo  
+rollo - rul  
 Roma - Roma  
 romance - romanse  
 romanizar - fa Latin kitaba  
@@ -3508,6 +3512,7 @@ rueda del mouse - muxu cakra
 rugbi - ragubi  
 ruido - kelele  
 ruiseñor - bulbul  
+ruleta - rulete  
 Rumania - Romania  
 rural (rústico) - agristanike  
 Rusia - Rusia  
@@ -3570,6 +3575,7 @@ San Cristóbal - Sante Kitse
 San Cristóbal y Nieves - Sante Kitse i Nevis  
 San Marino - Sante Marino  
 San Vicente y las Granadinas - Sante Vincente i Grenadin  
+sanatorio - sanateria  
 sandía (patilla) - arbuza  
 sangrar - lou sang  
 sangre - heme  

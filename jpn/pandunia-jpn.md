@@ -235,6 +235,7 @@ bude - ブース
 bufete - ビュッフェ (バイキング)  
 buku - 本 (書物)  
 bum - 爆発  
+burokoli - ブロッコリ  
 burge - 要塞  
 buro ja - 秘書  
 buro krati - 官僚制  
@@ -702,6 +703,7 @@ holografia - 홀로그래피
 holmium - ホルミウム  
 hotel - ホテル (旅館)  
 hua - 花  
+hua koli - 花甘藍  (カリフラワー)  
 hua mosim - 春  
 hua pote - 植木鉢  
 hui darte - ポドゾル  
@@ -905,6 +907,7 @@ klor - 塩素
 koala - 子守熊 (コアラ)  
 kobalte - コバルト  
 koda - 尾 (尾翼)  
+koli - 甘藍 (キャベツ)  
 komodia - 喜劇 (コメディ)  
 koma - コンマ (読点)  
 kon - 共  
@@ -1455,6 +1458,7 @@ rubi salmon - ベニザケ
 ruhu mixe - 惑わす  
 ruhu mixe di - まごまご  
 ruke sake - リュックサック  
+rulete - ルーレット  
 rusium - ルテニウム  
 ruterfordium - ラザホージウム  
 

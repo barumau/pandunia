@@ -780,6 +780,7 @@
 **koka** *kooka* ← espanja:englanti:coca, venäjä:кока (koka), turkki:koka, yleiskiina:古柯 (gǔké)  
 **koko** *kana* ← ranska:coq, englanti:cock, puola:kogut, gujarati:કૂકડો (kūkḍo) + suahili:kuku, zulu:inkukhu, igbo:Ọkụkọ + (onom.) italia:coccodè, japani:コッコッ (kokko), persia:(qod-qod-qodās), venäjä:куд-куда, hindi:कुटकुटा (kutkutā)  
 **kola** *koola* ← englanti:espanja:cola, venäjä:кола (kola), hindi:कोला (kolā), japani:コラ (kora), suahili:mkola, hausa:gworo  
+**koli** *kaali* ← deu:Kohl, espanja:col, malaiji:kol, yleiskiina:高丽菜 (gāolícài) + englanti:cauliflower; broccoli, ranska:brocoli, spa:coliflor; brócoli, portugali:brócolis, venäjä:брокколи (brokkoli), may:turkki:brokoli, filippiini:koliplor, arabia: بْرُوكُلِي‎ (brūkulī), japani:ブロッコリ (burokkori), korea:브로콜리 (beurokolli)  
 **koloni** *kolonia (siirtomaa)* ← englanti:colony, espanja:colonia, portugali:colônia, venäjä:колония (koloniya), turkki:ma:koloni, hindi:कॉलोनी (kŏlonī), japani:コロニー  
 **kolum** *pylväs (pilari, tolppa)* ← englanti:column, ranska:colonne, espanja:columna, portugali:coluna, venäjä:колонна (kolonna), puola:kolumna  
 **koma** *pilkku* ← englanti:comma, deu:Komma, hindi:कामा (kāmā), japani:コンマ (konma), korea:콤마 (komma), malaiji:koma  
@@ -1295,7 +1296,6 @@
 **rodium** *rodium* ← englanti:rhodium, ranska:rhodium, espanja:rodio, portugali:ródio, venäjä:родий, japani:ロジウム, korea:로듐, vietnami:rođi, hindi:रोडियम, bangla:রোডিয়াম, malaiji:rodium, suahili:rodi, arabia: روديوم  
 **roke** *keinuttaa (keikuttaa)* ← englanti:ranska:espanja:portugali:rock, venäjä:рок (rok), hindi:रॉक (rŏk), bangla:রক (rôk), japani:ロック (rokku), korea:록 (rok), arabia: رُوك‎ (rūk)  
 **rol** *rooli (osa)* ← englanti:role, ranska:rôle, deu:Rolle, venäjä:роль (rol’), turkki:rol, kat:როლი (roli), persia:رل‎ (rol)  
-**rolo** *käärö* ← englanti:roll, deu:Rolle, ranska:rouleau, espanja:rollo, portugali:rolo, venäjä:рулон (rulon), turkki:rulo, japani:ローラー (rōrā)  
 **rom** *rommi* ← englanti:rum, espanja:ron, hindi:रम (ram), venäjä:ром (rom)  
 **romanse** *lempi (romanssi, rakkaus)* ← ranska:englanti:espanja:portugali:romance, venäjä:роман (roman), japani:ロマンス (romansu), korea:로맨스 (romaenseu), arabia: رُومَانْسِيّ‎ (rōmansiyy), turkki:romans  
 **rose** *kaste* ← ranska:rosée, espanja:rocío, venäjä:роса (rosa)  
@@ -1305,6 +1305,8 @@
 **ruhu lojia** *psykologia* ← turkki:ruh bilimi, hindi:मनोविज्ञान (manovigyān), bangla:মনোবিজ্ঞান (mônobiggan), malaiji:ilmu jiwa, arabia:(ʿilm an-nafs), deu:Seelenkunde, englanti:psychology, espanja:psicológia  
 **ruhu** *henki (sielu, mieli, psyyke)* ← arabia: رُوح‎ (rūḥ), persia: روح‎ (ruh), hindi:रूह (rūh), bangla:রূহ (ruh), malaiji:ruh, suahili:roho, hausa:ruhu, som:ruux + venäjä:дух (duh)  
 **ruke** *selkä* ← deu:Rücken + deu:englanti:rucksack, venäjä:рюкзак (rjukzak), japani: リュックサック (ryukkusakku), korea:륙색 (ryuksaek)  
+**rul koli** *keräkaali* ← portugali:couve, hindi:गोभी (gobhī), bangla:কপি (kôpi), malaiji:kubis  
+**rul** *käärö (kerä)* ← englanti:roll, deu:Rolle, ranska:rouleau, espanja:rollo, portugali:rolo, venäjä:рулон (rulon), turkki:rulo, japani:ローラー (rōrā)  
 **rupa** *ilmiasu (hahmo, ulkomuoto, ulkonäkö)* ← hindi:रूप (rūp), urdu: روپ‎ (rūp), bangla:রূপ (rup), tamili:ரூபம் (rūpam), malaiji: rupa, thai: รูป (rūp), khmer:រូប (rūp)  
 **rute** *polku (reitti, kurssi)* ← englanti:ranska:route, espanja:ruta, portugali:rota, deu:Route, japani:ルート (rūto), venäjä:маршрут (maršrut)  
 **ruterfordium** *rutherfordium* ← englanti:rutherfordium, ranska:rutherfordium, espanja:rutherfordio, portugali:rutherfórdio, venäjä:резерфордий, ²курчатовий, yleiskiina: (lú), japani:ラザホージウム, korea:러더포듐, vietnami:rutherfordi, hindi:रुथरफोर्डियम, bangla:রাদারফোর্ডিয়াম, malaiji:rutherfordium, suahili:rutherfordi, arabia: رذرفورديوم  
