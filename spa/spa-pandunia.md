@@ -351,6 +351,7 @@ autonomía - autonomia
 autopsia - nekro tomi  
 autor - auter  
 autónomo - autonomike  
+avanzar (entrar, adelantar, progresar) -   
 avanzar (entrar, adelantar, progresar) - progrese  
 avena - ave  
 aventura - ventur  
@@ -507,7 +508,7 @@ broma (chiste) - joke
 bromista (chistoso) - joker  
 bromo - brom  
 Brunei - Brunei  
-brócoli (brécol) - burokoli  
+brócoli (brécol) - brokoli  
 brújula - ponte pin  
 bu! - bu!  
 Buda - Buda  
@@ -657,11 +658,13 @@ cargar (subir) - nete don
 cargar - fa karga  
 cargo - guan  
 Caribe - Karibe  
-carne - nama  
-carne de cerdo - goro nama  
-carne de vaca - mumu nama  
-carnear (matar) - buca  
-carnicero - bucar  
+carnal - karnal  
+carnaval - karne feste  
+carne - karne  
+carne de cerdo - goro karne  
+carne de vaca - mumu karne  
+carnear (matar) - karnize  
+carnicero - karnizer  
 carpa (toldo) - haima  
 carpeta - dokumen sanduku  
 carpintero - moka sanaja  
@@ -718,7 +721,7 @@ centro - jong
 centuria (siglo) - sento nen  
 centímetro - sentimitre  
 cepillar con garlopa - fa rande  
-cepillo (brocha) - broxa  
+cepillo (brocha) - brox  
 cepillo de dientes - dante broxa  
 cepillo de pelo - kexa broxa  
 cera (lacre) - mum  
@@ -2441,7 +2444,7 @@ marítimo - bahai di
 masa (trozo, pedazo) - masa  
 masaje - masaje  
 masculino (macho) - nan  
-matadero - bucakan  
+matadero - karnekan  
 matar (morir, asesinar) - matafa  
 matasellos - posta marke  
 mate (opaco) - foto mata di  
@@ -2696,7 +2699,7 @@ naturaleza - nature
 nautilo - nautile  
 navaja - jebe caku  
 nave espacial - kosmo nave  
-navegador - brauza gi  
+navegador - brauzer  
 navegar (ir en bote) - nave ga  
 Navidad - kristogene  
 Nazi - nasial sosialiste  
@@ -2845,6 +2848,7 @@ opción (alternativa) - otion
 opción (preferencia) - cunbil  
 opinar - fa rai  
 opinión (juicio, consideración) - rai  
+oponerse (resistir) -   
 oportunidad (chance) - canse  
 optar - ote  
 oración - jumla  
@@ -3115,7 +3119,7 @@ pistón - pompe tapa
 pitufo - nil elfe  
 pizza - piza  
 pizzería - pizakan  
-piña - nanas  
+piña - ananas  
 placa tectónica - geo kaska plate  
 plan - plan  
 plana (llano, liso) - plate di  
@@ -3399,6 +3403,7 @@ recto - orto
 redes sociales - sosial midia  
 redondo (circular) - gola di  
 reducir a la mitad (dividir en dos) - fa fen do du  
+reencarnación - reinkarnation  
 referir - refere  
 refuerzos - max ordu  
 regaliz (alcazuz, orozuz) - alkasus  

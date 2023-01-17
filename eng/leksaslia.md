@@ -33,6 +33,7 @@
 **amir** *order (command)* ← Arabic: أَمْر‎ (ʾamr), Persian: امر‎ (amr), Turkish:emir, Swahili:amiri, Hausa:umarni + English:admiral, French:amiral, Spanish:Portuguese:emir Russian:эмир (emir)  
 **ampul** *ampoule (vial)* ← French:English:ampoule, Mandarin:安瓿 (ānbù), Japanese:アンプル (anpuru), Russian:ампула (ámpula), Arabic:(ʾambūla)  
 **an-** *reverse (negative, un-)* ← Greek:ἀν- (an-), English:un-, Hindi:अन- (an-), French:Spanish:Portuguese:in-  
+**ananas** *pineapple* ← deu:Ananas, French:Turkish:ananas, Portuguese:ananás, Russian:ананас (ananas), Persian: آناناس‎ (ânânâs), Hindi:अनन्नास (anānnas), Tamil:அன்னாசிப் பழம் (aṉṉācip paḻam), Arabic: أَنَانَاس‎ (ʾanānās), Malay:nanas, Swahili:nanasi  
 **ancovi** *anchovy* ← English:anchovy, French:anchois, Spanish:anchoa, Portuguese:anchova, Russian:анчоус (ančous), Japanese:アンチョビ (anchobi), Hindi:ऐन्चोवी (enchovi)  
 **anda** *egg* ← Hindi:अंडा (aṇḍā), Bengali:আণ্ডা (aṇḍa), Urdu:(aṇḍā), Punjabi:ਆਂਡਾ (āṇḍā), Telugu:(aṇḍamu), Zulu:xho:iqanda, mon:өндөг (öndög)  
 **angar** *anchor* ← English:anchor, French:ancre, Portuguese:âncora, Malay:jangkar, Russian:якорь, Arabic:(ʾanjar), Hindi:लंगर (laṅgar), Urdu:(laṅgar), Telugu:లంగరు (laṅgaru), Swahili:nanga  
@@ -185,14 +186,12 @@
 **Bote** *Tibet* ← tib:བོད (bod, phø)  
 **botel** *bottle* ← English:bottle, French:bouteille, Spanish:botella, Portuguese:botelha, Russian:бутылка (butylka), Hindi:बोतल (botal), Bengali:বোতল (botôl), Malay:botol  
 **bra** *brother* ← Greek:φράτηρ (phrater), English:brother, Portuguese:brada; bródi, Russian:брат (brat), Persian: برادر‎ (barâdar), Hindi:बिरादर (birādar), Bengali:বেরাদর (beradôr), Malay:bruder, Japanese:ブラザー (burazā), Korean:브라더 (beuradeo), Turkish:birader, Swahili:bradha  
-**brauza gi** *browser* ← English:browser, deu:Browser, Russian:браузер (brauzer), Hindi:ब्राउज़र (brauzar), Bengali:ব্রাউজার (brā'ujāra), Japanese:ブラウザ (burauzā)  
+**brauzer** *browser* ← English:browser, deu:Browser, Russian:браузер (brauzer), Hindi:ब्राउज़र (brauzar), Bengali:ব্রাউজার (brā'ujāra), Japanese:ブラウザ (burauzā)  
 **bravo** *brave (gallant, valiant)* ← English:French:brave, Russian:бравый (braviy), Portuguese:bravo, Arabic:(brāvo)  
 **briko** *apricot (plum, peach)* ← Arabic:(barqūq), English:apricot, French:abricot, Spanish:albaricoque, Portuguese:abricó, Russian:абрикос (abrikos), Filipino:albarikoke, Swahili:aprikoti  
 **brom** *bromine* ← English:bromine, French:brome, Spanish:bromo, Portuguese:bromo, Russian:бром, Korean:브롬, Vietnamese:brom, Hindi:ब्रोमिन, Bengali:ব্রোমিন, Malay:brom, Swahili:bromi, Arabic: بروم  
-**broxa** *brush* ← English:brush, French:brosse, Spanish:Portuguese:brocha, Japanese:ブラシ (burashi), Korean:브러시 (beureosi), Hindi:ब्रश (braś), Bengali:ব্রাশ (braś), Hausa:Swahili:burashi, Persian:(boros), Malay:berus, Arabic: فُرْشَاة‎ (furšāh), Turkish:fırça  
+**brox** *brush* ← English:brush, French:brosse, Spanish:Portuguese:brocha, Japanese:ブラシ (burashi), Korean:브러시 (beureosi), Hindi:ब्रश (braś), Bengali:ব্রাশ (braś), Hausa:Swahili:burashi, Persian:(boros), Malay:berus, Arabic: فُرْشَاة‎ (furšāh), Turkish:fırça  
 **bu!** *boo!* ← English:boo, French:bouh, Portuguese:Spanish:bu, Russian:бу (bu), Korean:부 (bu) + Hindi:भूत (bhūt)  
-**buca** *butcher* ← English:butcher, French:boucher, Italian:beccaio, Hindi:बूचड़ (būcaṛ) + Korean:푸주한 (pujuhan)  
-**bucakan** *abattoir (slaughterhouse)* ← Persian: سلاخ خانه‎ (sallâx-xâne), Hindi:बूचड़खाना (būcaṛkhānā), Bengali:কসাইখানা (kôśaikhana)  
 **bude** *booth (cabin, stall, stand)* ← deu:Bude, English:booth, Russian:будка (budka), Hindi:बूथ (būth), Bengali:বুথ (buth), Japanese:ブース (būsu), Korean:부스 (buseu), Vietnamese:bốt  
 **budi** *realization (awareness, enlightenment, bodhi)* ← Sanskrit:बोधि (bodhi), Hindi:बुद्धि (buddhi), Japanese:菩提 (bodai), Mandarin:菩提 (pútí), mon:бодь (bodʹ), Korean:보리 (bori), Vietnamese:Bụt, Thai:โพธิ (potí) + Russian:будить  
 **bufete** *buffet (smorgasbord)* ← French:buffet, English:buffet, Spanish:bufé, Portuguese:bufete, deu:Büfett, Russian:буфет (bufet), Mandarin:部飛 (bùfēi), Japanese:ビュッフェ (byuffe), Korean:뷔페 (bwipe), Malay:bufet, Swahili:bufee  
@@ -697,7 +696,7 @@
 **kampe** *camp* ← English:camp, Spanish:campamento, Portuguese:acampamento, Turkish:kamp, Swahili:kambi, Hindi:कैंप (kaimp), Malay:kem, Japanese:キャンプ (kyanpu)  
 **kan** *workshop (shop, building, house or place for doing something)* ← Persian:خانه‎ (xâne), Russian:-хана (-hana), Hindi:ख़ाना (xānā), Bengali:খানা (khana), Swahili:karakana, Turkish:hane + Mandarin:馆 (guǎn), Korean:관 (gwan), Japanese:館 (-kan), Vietnamese:quán  
 **kanal** *ditch (canal, channel, dyke, trench)* ← English:Spanish:Portuguese:French:canal, Russian:канал (kanal), Malay:kanal + Arabic: قَنَاة‎ (qanāh) + Bengali:খাল (khal)  
-**kandi** *candy (sweets)* ← English:candy, Hindi:कैंडी (kaiṇḍī), Bengali:ক্যান্ডি (kyandi), Japanese:キャンデー (kyandē), Filipino:kendi + Arabic:Persian: قند (qand)  
+**kandi** *candy (sweets)* ← English:candy, Hindi:कैंडी (kaiṇḍī), Bengali:ক্যান্ডি (kyandi), Japanese:キャンデー (kyandē), Filipino:kendi + Arabic:Persian: قند (qand), Tamil:கண்டு (kaṇṭu)  
 **kane** *bar (pole, rod, shaft, staff, stick)* ← English:cane, French:canne + Mandarin:杆 (gǎn), Cantonese:杆 (gon1), Vietnamese:cần, Thai:คัน (khan)  
 **kanga** *comb* ← Hindi:कंघी (kaṅghī), Urdu:(kaṅghī), Bengali:কঙ্কত (kaṅkata), pan:ਕੰਘਾ (kaghā), Marathi:कंगवा (kaṅgvā), Punjabi:ਕੰਘਾ (kaṅghā) + English:French:Malay:kanga  
 **kangaru** *kangaroo* ← English:kangaroo, Spanish:canguro, Portuguese:canguru, Russian:кенгуру (kenguru), Turkish:kanguru, Swahili:kangaruu, Arabic:كَنْغَر‎ (kanḡar), Hindi:कंगारू (kaṅgārū), Malay:kanggaru, Japanese:カンガルー (kangarū)  
@@ -721,6 +720,7 @@
 **kari** *curry* ← English:French:Portuguese:curry, Spanish:curri, Russian:карри (karri), Mandarin:咖喱 (kālǐ), Japanese:カレー (karē), Korean:커리 (keori), Vietnamese:cà ri,Hindi:करी (karī), Bengali:কারি (kari), Malay:kari, Arabic: كَارِي‎ (kārī)  
 **karim di** *charitable (gentle, kind)* ← Arabic:(karīm), Swahili:-karimu, Turkish:kerim, Spanish:Portuguese:caritativo  
 **karite** *shea (vitellaria)* ← Wolof:kaarite, French:Spanish:karité, Portuguese:carité, Fulani:kaare, kareje, Hausa:kaɗanya  
+**karne** *meat (flesh)* ← Spanish:Portuguese:carne, English:carnal + French:charnel; incarnation, deu:Inkarnation  
 **karote** *carrot* ← English:carrot, French:carotte, deu:Karotte, Swahili:karoti, Amharic:ካሮት (karot), Malay:karot, Vietnamese:cà rốt, Tamil:காரட் (kāraṭ)  
 **karta** *card* ← English:card, French:carte, Spanish:Portuguese:carta, deu:Karte, Russian:карта (karta), Turkish:kart, Swahili:kadi, Hindi:कार्ड (kārḍa), Bengali:কার্ড (kārḍa), Malay:kartu, Mandarin:卡 (kǎ), Japanese:カード (kādo), Korean:카드 (kadeu)  
 **karte** *map (chart, geographic map)* ← English:chart, French:carte, Spanish:Portuguese:carta, Russian:карта (karta), Arabic: خَرِيطَة‎ (ḵarīṭa), Turkish:harita  
@@ -1054,9 +1054,7 @@
 **najis** *corruption (filth, pollution, contamination, najis)* ← Arabic:نجس (najis), Malay:najis, Swahili:najisi, Persian:نجس (najes) + English:najis, Russian:наджаса (nadžasa)  
 **nam loga** *noun* ← Mandarin:名词 (míngcí), Cantonese:名詞 (ming4 ci4), Japanese:名詞 (meishi), Korean:명사 (myeongsa), Hindi:नाम (nām), French:nom, Spanish:nombre, Portuguese:nome, Russian:имя (imya), Arabic:(ism), per:(esm), Swahili:nomino  
 **nam** *name* ← deu:English:name, French:nom, Hindi:नाम (nām), Bengali:নাম (nam), Malay:nama, Thai:นาม (naam) + Japanese:名前 (namae)  
-**nama** *meat (flesh)* ← Swahili:nyama, Hausa:nama, rwa:xho:Zulu:inyama, sot:nama  
 **nan** *male* ← Mandarin:男 (nán), Japanese:男 (nan), Korean:남 (nam), Vietnamese:nam + Persian: نر‎ (nar), Hindi:नर (nar), Bengali:নর (nôr), Telugu:నరుడు (naruḍu) + English:man, deu:Mann + Tamil:ஆண் (āṇ)  
-**nanas** *pineapple* ← Malay:nanas, Swahili:nanasi, Hindi:अनन्नास (anānnas), Russian:ананас (ananas)  
 **naraka** *hell* ← Hindi:नरक (narak), Bengali:নরক (nôrôk), pan:ਨਰਕ (nark), Marathi:नर्क (nark), Telugu:నరకము (narakamu), Tamil:நரகம் (narakam), Malay:neraka, Thai:นรก (ná-rók), Japanese:奈落 (naraku)  
 **naram** *soft* ← Persian: نرم‎ (narm), Hindi:नरम (naram), Bengali:নরম (nôrôm) + Arabic: نَاعِم‎ (nāʿim) + Thai:นุ่ม (num)  
 **nardi** *backgammon* ← Persian:Urdu: نرد‎ (nard), Russian:нарды (nardy)  

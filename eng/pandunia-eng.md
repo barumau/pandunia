@@ -169,6 +169,7 @@ amir ja - emir
 amir lin - command line (console, terminal)  
 amper - ampere (amp)  
 ampul - ampoule (vial)  
+ananas - pineapple  
 ancovi - anchovy  
 anda - egg  
 Andes - Andes  
@@ -613,7 +614,7 @@ bra doh - fraternal niece
 bra son - fraternal nephew  
 Brahma - Brahma  
 brauza - explore (browse)  
-brauza gi - browser  
+brauzer - browser  
 bravo - brave (gallant, valiant)  
 bravo - bravo!  
 Brazavil - Brazzaville  
@@ -621,16 +622,14 @@ Brazavil Kongo - Congo (Brazzaville)
 Brazil - Brazil  
 briko - apricot (plum, peach)  
 Britan - United Kingdom  
+brokoli - broccoli  
 brom - bromine  
-broxa - brush  
-broxa kalam - inkbrush (calligraphy brush)  
+brox - brush  
+brox kalam - inkbrush (calligraphy brush)  
 brun varis - brown rice  
 Brunei - Brunei Darussalam  
 bu! - boo!  
 bubu - bogeyman (ghost)  
-buca - butcher  
-bucakan - abattoir (slaughterhouse)  
-bucar - butcher  
 Buda - Buddha  
 Buda din - Buddhism  
 Buda din ja - Buddhist  
@@ -642,7 +641,6 @@ bufete - buffet (smorgasbord)
 buku - book  
 bulbul - nightingale  
 bum - explosion (blast, eruption)  
-burokoli - broccoli  
 burge - fortress (castle, fort, stronghold)  
 Burkina Faso - Burkina Faso  
 buro - office (bureau)  
@@ -1737,7 +1735,7 @@ gona - corner (angle)
 gona metri gi - goniometer  
 gorila - gorilla  
 goro - pig  
-goro nama - pork  
+goro karne - pork  
 goton - cotton  
 gradu - step (degree, rank, grade, level, class)  
 gradu di - gradual  
@@ -2201,7 +2199,7 @@ juxa - injection
 
 ka - than (as, compared to, relative to)  
 kababu - barbecue (grill)  
-kababu nama - grilled meat (kebab)  
+kababu karne - grilled meat (kebab)  
 kabile - tribe  
 kable - rope (cable)  
 kaboga - squash (pumpkin, gourd)  
@@ -2333,6 +2331,15 @@ Karibe - Caribbean
 karim - charity  
 karim di - charitable (gentle, kind)  
 karite - shea (vitellaria)  
+• reinkarnation - reincarnation  
+• inkarnate - incarnate  
+• inkarnatike - incarnation (embodiment)  
+karne - meat (flesh)  
+karnal - carnal (fleshly)  
+karne feste - carnival  
+karnize - butcher  
+karnizer - butcher  
+karnekan - abattoir (slaughterhouse)  
 Karnada - Karnataka  
 karnada baxa - Kannada  
 karote - carrot  
@@ -3126,7 +3133,7 @@ mum jen - mummy
 mum melon - winter melon (wax gourd, ash gourd)  
 Mumbai - Mumbai (Bombay)  
 mumu - cow  
-mumu nama - beef  
+mumu karne - beef  
 mun - door (gate, portal)  
 mungus - mongoose  
 mur - wall (structure for delimitation)  
@@ -3176,11 +3183,9 @@ nam hin - nameless (unnamed, anonymous)
 nam kitaba - sign (autograph)  
 nam loga - noun  
 nam tikete - nametag  
-nama - meat (flesh)  
 Namibia - Namibia  
 nan - male  
 nan per (man) - husband  
-nanas - pineapple  
 nano - nano-  
 nano mitre - nanometer  
 naraka - hell  
@@ -4779,7 +4784,7 @@ xiu zi - lowercase letter
 xiva - Shiva  
 xix - skewer  
 xix kababu - shish kebab  
-xix nama - shashlik  
+xix karne - shashlik  
 xofer ja - chauffeur (driver)  
 xoke - shock (collision)  
 xopi - shopping  
@@ -4925,3 +4930,6 @@ zuku di - ethnic
 zuku medi di - interethnic  
 Zulu - Zulu  
 zumarde - emerald  
+ - advance (progress, go forward, enter)  
+ - put forward (advance, progress)  
+ - oppose (antagonize, object, resist)  

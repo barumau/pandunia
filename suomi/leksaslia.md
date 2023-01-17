@@ -33,6 +33,7 @@
 **amir** *käsky (komento)* ← arabia: أَمْر‎ (ʾamr), persia: امر‎ (amr), turkki:emir, suahili:amiri, hausa:umarni + englanti:admiral, ranska:amiral, espanja:portugali:emir venäjä:эмир (emir)  
 **ampul** *ampulli* ← ranska:englanti:ampoule, yleiskiina:安瓿 (ānbù), japani:アンプル (anpuru), venäjä:ампула (ámpula), arabia:(ʾambūla)  
 **an-** *vastakohtainen (negatiivinen, epä-)* ← kreikka:ἀν- (an-), englanti:un-, hindi:अन- (an-), ranska:espanja:portugali:in-  
+**ananas** *ananas* ← deu:Ananas, ranska:turkki:ananas, portugali:ananás, venäjä:ананас (ananas), persia: آناناس‎ (ânânâs), hindi:अनन्नास (anānnas), tamili:அன்னாசிப் பழம் (aṉṉācip paḻam), arabia: أَنَانَاس‎ (ʾanānās), malaiji:nanas, suahili:nanasi  
 **ancovi** *sardelli (anjovis)* ← englanti:anchovy, ranska:anchois, espanja:anchoa, portugali:anchova, venäjä:анчоус (ančous), japani:アンチョビ (anchobi), hindi:ऐन्चोवी (enchovi)  
 **anda** *muna* ← hindi:अंडा (aṇḍā), bangla:আণ্ডা (aṇḍa), urdu:(aṇḍā), pandzabi:ਆਂਡਾ (āṇḍā), telugu:(aṇḍamu), zulu:xho:iqanda, mon:өндөг (öndög)  
 **angar** *ankkuri* ← englanti:anchor, ranska:ancre, portugali:âncora, malaiji:jangkar, venäjä:якорь, arabia:(ʾanjar), hindi:लंगर (laṅgar), urdu:(laṅgar), telugu:లంగరు (laṅgaru), suahili:nanga  
@@ -185,14 +186,12 @@
 **Bote** *Tiibet* ← tib:བོད (bod, phø)  
 **botel** *pullo* ← englanti:bottle, ranska:bouteille, espanja:botella, portugali:botelha, venäjä:бутылка (butylka), hindi:बोतल (botal), bangla:বোতল (botôl), malaiji:botol  
 **bra** *veli* ← kreikka:φράτηρ (phrater), englanti:brother, portugali:brada; bródi, venäjä:брат (brat), persia: برادر‎ (barâdar), hindi:बिरादर (birādar), bangla:বেরাদর (beradôr), malaiji:bruder, japani:ブラザー (burazā), korea:브라더 (beuradeo), turkki:birader, suahili:bradha  
-**brauza gi** *selain* ← englanti:browser, deu:Browser, venäjä:браузер (brauzer), hindi:ब्राउज़र (brauzar), bangla:ব্রাউজার (brā'ujāra), japani:ブラウザ (burauzā)  
+**brauzer** *selain* ← englanti:browser, deu:Browser, venäjä:браузер (brauzer), hindi:ब्राउज़र (brauzar), bangla:ব্রাউজার (brā'ujāra), japani:ブラウザ (burauzā)  
 **bravo** *rohkea (urhea, uljas)* ← englanti:ranska:brave, venäjä:бравый (braviy), portugali:bravo, arabia:(brāvo)  
 **briko** *aprikoosi (luumu)* ← arabia:(barqūq), englanti:apricot, ranska:abricot, espanja:albaricoque, portugali:abricó, venäjä:абрикос (abrikos), filippiini:albarikoke, suahili:aprikoti  
 **brom** *bromi* ← englanti:bromine, ranska:brome, espanja:bromo, portugali:bromo, venäjä:бром, korea:브롬, vietnami:brom, hindi:ब्रोमिन, bangla:ব্রোমিন, malaiji:brom, suahili:bromi, arabia: بروم  
-**broxa** *harja* ← englanti:brush, ranska:brosse, espanja:portugali:brocha, japani:ブラシ (burashi), korea:브러시 (beureosi), hindi:ब्रश (braś), bangla:ব্রাশ (braś), hausa:suahili:burashi, persia:(boros), malaiji:berus, arabia: فُرْشَاة‎ (furšāh), turkki:fırça  
+**brox** *harja* ← englanti:brush, ranska:brosse, espanja:portugali:brocha, japani:ブラシ (burashi), korea:브러시 (beureosi), hindi:ब्रश (braś), bangla:ব্রাশ (braś), hausa:suahili:burashi, persia:(boros), malaiji:berus, arabia: فُرْشَاة‎ (furšāh), turkki:fırça  
 **bu!** *pöö!* ← englanti:boo, ranska:bouh, portugali:espanja:bu, venäjä:бу (bu), korea:부 (bu) + hindi:भूत (bhūt)  
-**buca** *teurastaa (lahdata)* ← englanti:butcher, ranska:boucher, italia:beccaio, hindi:बूचड़ (būcaṛ) + korea:푸주한 (pujuhan)  
-**bucakan** *teurastamo* ← persia: سلاخ خانه‎ (sallâx-xâne), hindi:बूचड़खाना (būcaṛkhānā), bangla:কসাইখানা (kôśaikhana)  
 **bude** *koppi (koju)* ← deu:Bude, englanti:booth, venäjä:будка (budka), hindi:बूथ (būth), bangla:বুথ (buth), japani:ブース (būsu), korea:부스 (buseu), vietnami:bốt  
 **budi** *ymmärrys (taju, oivallus)* ← sanskriitti:बोधि (bodhi), hindi:बुद्धि (buddhi), japani:菩提 (bodai), yleiskiina:菩提 (pútí), mon:бодь (bodʹ), korea:보리 (bori), vietnami:Bụt, thai:โพธิ (potí) + venäjä:будить  
 **bufete** *noutopöytä (buffetti)* ← ranska:buffet, englanti:buffet, espanja:bufé, portugali:bufete, deu:Büfett, venäjä:буфет (bufet), yleiskiina:部飛 (bùfēi), japani:ビュッフェ (byuffe), korea:뷔페 (bwipe), malaiji:bufet, suahili:bufee  
@@ -697,7 +696,7 @@
 **kampe** *leiri* ← englanti:camp, espanja:campamento, portugali:acampamento, turkki:kamp, suahili:kambi, hindi:कैंप (kaimp), malaiji:kem, japani:キャンプ (kyanpu)  
 **kan** *paja (tekimö)* ← persia:خانه‎ (xâne), venäjä:-хана (-hana), hindi:ख़ाना (xānā), bangla:খানা (khana), suahili:karakana, turkki:hane + yleiskiina:馆 (guǎn), korea:관 (gwan), japani:館 (-kan), vietnami:quán  
 **kanal** *oja (kanava, kanaali)* ← englanti:espanja:portugali:ranska:canal, venäjä:канал (kanal), malaiji:kanal + arabia: قَنَاة‎ (qanāh) + bangla:খাল (khal)  
-**kandi** *makeinen (karkki, namu)* ← englanti:candy, hindi:कैंडी (kaiṇḍī), bangla:ক্যান্ডি (kyandi), japani:キャンデー (kyandē), filippiini:kendi + arabia:persia: قند (qand)  
+**kandi** *makeinen (karkki, namu)* ← englanti:candy, hindi:कैंडी (kaiṇḍī), bangla:ক্যান্ডি (kyandi), japani:キャンデー (kyandē), filippiini:kendi + arabia:persia: قند (qand), tamili:கண்டு (kaṇṭu)  
 **kane** *tanko (pinna, sauva, patukka)* ← englanti:cane, ranska:canne + yleiskiina:杆 (gǎn), kantoninkiina:杆 (gon1), vietnami:cần, thai:คัน (khan)  
 **kanga** *kampa* ← hindi:कंघी (kaṅghī), urdu:(kaṅghī), bangla:কঙ্কত (kaṅkata), pan:ਕੰਘਾ (kaghā), marathi:कंगवा (kaṅgvā), pandzabi:ਕੰਘਾ (kaṅghā) + englanti:ranska:malaiji:kanga  
 **kangaru** *kenguru* ← englanti:kangaroo, espanja:canguro, portugali:canguru, venäjä:кенгуру (kenguru), turkki:kanguru, suahili:kangaruu, arabia:كَنْغَر‎ (kanḡar), hindi:कंगारू (kaṅgārū), malaiji:kanggaru, japani:カンガルー (kangarū)  
@@ -721,6 +720,7 @@
 **kari** *curry (karri)* ← englanti:ranska:portugali:curry, espanja:curri, venäjä:карри (karri), yleiskiina:咖喱 (kālǐ), japani:カレー (karē), korea:커리 (keori), vietnami:cà ri,hindi:करी (karī), bangla:কারি (kari), malaiji:kari, arabia: كَارِي‎ (kārī)  
 **karim di** *vieraanvarainen (antelias, hyväntahtoinen)* ← arabia:(karīm), suahili:-karimu, turkki:kerim, espanja:portugali:caritativo  
 **karite** *voipuu* ← wolof:kaarite, ranska:espanja:karité, portugali:carité, fulani:kaare, kareje, hausa:kaɗanya  
+**karne** *liha* ← espanja:portugali:carne, englanti:carnal + ranska:charnel; incarnation, deu:Inkarnation  
 **karote** *porkkana* ← englanti:carrot, ranska:carotte, deu:Karotte, suahili:karoti, amharabia:ካሮት (karot), malaiji:karot, vietnami:cà rốt, tamili:காரட் (kāraṭ)  
 **karta** *kortti* ← englanti:card, ranska:carte, espanja:portugali:carta, deu:Karte, venäjä:карта (karta), turkki:kart, suahili:kadi, hindi:कार्ड (kārḍa), bangla:কার্ড (kārḍa), malaiji:kartu, yleiskiina:卡 (kǎ), japani:カード (kādo), korea:카드 (kadeu)  
 **karte** *kartta* ← englanti:chart, ranska:carte, espanja:portugali:carta, venäjä:карта (karta), arabia: خَرِيطَة‎ (ḵarīṭa), turkki:harita  
@@ -1054,9 +1054,7 @@
 **najis** ** ← arabia:نجس (najis), malaiji:najis, suahili:najisi, persia:نجس (najes) + englanti:najis, venäjä:наджаса (nadžasa)  
 **nam loga** *substantiivi (nimisana)* ← yleiskiina:名词 (míngcí), kantoninkiina:名詞 (ming4 ci4), japani:名詞 (meishi), korea:명사 (myeongsa), hindi:नाम (nām), ranska:nom, espanja:nombre, portugali:nome, venäjä:имя (imya), arabia:(ism), per:(esm), suahili:nomino  
 **nam** *nimi* ← deu:englanti:name, ranska:nom, hindi:नाम (nām), bangla:নাম (nam), malaiji:nama, thai:นาม (naam) + japani:名前 (namae)  
-**nama** *liha* ← suahili:nyama, hausa:nama, rwa:xho:zulu:inyama, sot:nama  
 **nan** *uros (mies)* ← yleiskiina:男 (nán), japani:男 (nan), korea:남 (nam), vietnami:nam + persia: نر‎ (nar), hindi:नर (nar), bangla:নর (nôr), telugu:నరుడు (naruḍu) + englanti:man, deu:Mann + tamili:ஆண் (āṇ)  
-**nanas** *ananas* ← malaiji:nanas, suahili:nanasi, hindi:अनन्नास (anānnas), venäjä:ананас (ananas)  
 **naraka** *helvetti* ← hindi:नरक (narak), bangla:নরক (nôrôk), pan:ਨਰਕ (nark), marathi:नर्क (nark), telugu:నరకము (narakamu), tamili:நரகம் (narakam), malaiji:neraka, thai:นรก (ná-rók), japani:奈落 (naraku)  
 **naram** *pehmeä* ← persia: نرم‎ (narm), hindi:नरम (naram), bangla:নরম (nôrôm) + arabia: نَاعِم‎ (nāʿim) + thai:นุ่ม (num)  
 **nardi** *backgammon* ← persia:urdu: نرد‎ (nard), venäjä:нарды (nardy)  

@@ -56,6 +56,7 @@ amen di - 诚实
 amerikium - 镅  
 amide - 酰胺  
 amin - 胺  
+ananas - 菠萝  
 ancovi - 凤尾鱼  
 andesite - 安山岩  
 angar - 锚  
@@ -256,20 +257,18 @@ bra doh - 侄女 (姪女)
 bra son - 姪 (侄)  
 Brahma - 梵天  
 briko - 杏子 (李子)  
+brokoli - 西兰花  
 brom - 溴  
-broxa - 笔  
-broxa kalam - 毛笔  
+brox - 笔  
+brox kalam - 毛笔  
 brun varis - 糙米  
 bubu - 魔鬼  
-bucakan - 屠宰场  
-bucar - 屠夫  
 Buda - 佛陀  
 bude - 亭  
 bufete - 自助餐  
 buku - 书  
 bulbul - 夜莺  
 bum - 爆炸  
-burokoli - 西兰花  
 burge - 要塞  
 buro ja - 秘书  
 buro krati - 官僚制  
@@ -881,6 +880,10 @@ kardon karcof - 刺苞菜蓟
 karga - 擔子  
 kargadan: - 犀牛  
 kari - 咖喱  
+• inkarnatike - 化身  
+karne - 肉  
+karnizer - 屠夫  
+karnekan - 屠宰场  
 karote - 红萝卜  
 karte - 地图  
 kartografia - 地图学  
@@ -1207,12 +1210,12 @@ najis - 污染物
 nam - 名  
 nam hin - 无名  
 nam kitaba - 签署  
-nama - 肉  
 narke - 毒品 (麻醉. 麻药 )  
 narkose - 症  
 • internasial - 国际  
 • posnatal - 产后  
 • prenatal - 产前  
+• rinate - 转生  
 natal lingue - 母语  
 nateloke - 出生地  
 nature - 性质  
@@ -1784,7 +1787,7 @@ xiu kaboga - 西葫芦
 xiu seku - 砾石  
 xiva - 湿婆  
 xix - 扦子  
-xix nama - 串烧  
+xix karne - 串烧  
 xofer ja - 司机  
 xopi - 购物 (血拼)  
 xukur - 谢谢  

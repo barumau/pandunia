@@ -33,6 +33,7 @@
 **amir** *ordono* ← araba: أَمْر‎ (ʾamr), persa: امر‎ (amr), turka:emir, svahila:amiri, haŭsa:umarni + angla:admiral, franca:amiral, hispana:portugala:emir rusa:эмир (emir)  
 **ampul** ** ← franca:angla:ampoule, mandarena:安瓿 (ānbù), japana:アンプル (anpuru), rusa:ампула (ámpula), araba:(ʾambūla)  
 **an-** *mala* ← greka:ἀν- (an-), angla:un-, hindia:अन- (an-), franca:hispana:portugala:in-  
+**ananas** *ananaso* ← deu:Ananas, franca:turka:ananas, portugala:ananás, rusa:ананас (ananas), persa: آناناس‎ (ânânâs), hindia:अनन्नास (anānnas), tamila:அன்னாசிப் பழம் (aṉṉācip paḻam), araba: أَنَانَاس‎ (ʾanānās), malaja:nanas, svahila:nanasi  
 **ancovi** *sardelo (anĉovo)* ← angla:anchovy, franca:anchois, hispana:anchoa, portugala:anchova, rusa:анчоус (ančous), japana:アンチョビ (anchobi), hindia:ऐन्चोवी (enchovi)  
 **anda** *ovo* ← hindia:अंडा (aṇḍā), bengala:আণ্ডা (aṇḍa), urdua:(aṇḍā), panĝaba:ਆਂਡਾ (āṇḍā), teluga:(aṇḍamu), zulua:xho:iqanda, mon:өндөг (öndög)  
 **angar** *ankro* ← angla:anchor, franca:ancre, portugala:âncora, malaja:jangkar, rusa:якорь, araba:(ʾanjar), hindia:लंगर (laṅgar), urdua:(laṅgar), teluga:లంగరు (laṅgaru), svahila:nanga  
@@ -185,14 +186,12 @@
 **Bote** *Tibeto* ← tib:བོད (bod, phø)  
 **botel** *botelo* ← angla:bottle, franca:bouteille, hispana:botella, portugala:botelha, rusa:бутылка (butylka), hindia:बोतल (botal), bengala:বোতল (botôl), malaja:botol  
 **bra** *frato* ← greka:φράτηρ (phrater), angla:brother, portugala:brada; bródi, rusa:брат (brat), persa: برادر‎ (barâdar), hindia:बिरादर (birādar), bengala:বেরাদর (beradôr), malaja:bruder, japana:ブラザー (burazā), korea:브라더 (beuradeo), turka:birader, svahila:bradha  
-**brauza gi** ** ← angla:browser, deu:Browser, rusa:браузер (brauzer), hindia:ब्राउज़र (brauzar), bengala:ব্রাউজার (brā'ujāra), japana:ブラウザ (burauzā)  
+**brauzer** ** ← angla:browser, deu:Browser, rusa:браузер (brauzer), hindia:ब्राउज़र (brauzar), bengala:ব্রাউজার (brā'ujāra), japana:ブラウザ (burauzā)  
 **bravo** *brava* ← angla:franca:brave, rusa:бравый (braviy), portugala:bravo, araba:(brāvo)  
 **briko** *abrikoto (pruno)* ← araba:(barqūq), angla:apricot, franca:abricot, hispana:albaricoque, portugala:abricó, rusa:абрикос (abrikos), filipina:albarikoke, svahila:aprikoti  
 **brom** *bromo* ← angla:bromine, franca:brome, hispana:bromo, portugala:bromo, rusa:бром, korea:브롬, vjetnama:brom, hindia:ब्रोमिन, bengala:ব্রোমিন, malaja:brom, svahila:bromi, araba: بروم  
-**broxa** *broso* ← angla:brush, franca:brosse, hispana:portugala:brocha, japana:ブラシ (burashi), korea:브러시 (beureosi), hindia:ब्रश (braś), bengala:ব্রাশ (braś), haŭsa:svahila:burashi, persa:(boros), malaja:berus, araba: فُرْشَاة‎ (furšāh), turka:fırça  
+**brox** *broso* ← angla:brush, franca:brosse, hispana:portugala:brocha, japana:ブラシ (burashi), korea:브러시 (beureosi), hindia:ब्रश (braś), bengala:ব্রাশ (braś), haŭsa:svahila:burashi, persa:(boros), malaja:berus, araba: فُرْشَاة‎ (furšāh), turka:fırça  
 **bu!** ** ← angla:boo, franca:bouh, portugala:hispana:bu, rusa:бу (bu), korea:부 (bu) + hindia:भूत (bhūt)  
-**buca** *buĉi* ← angla:butcher, franca:boucher, itala:beccaio, hindia:बूचड़ (būcaṛ) + korea:푸주한 (pujuhan)  
-**bucakan** *buĉejo* ← persa: سلاخ خانه‎ (sallâx-xâne), hindia:बूचड़खाना (būcaṛkhānā), bengala:কসাইখানা (kôśaikhana)  
 **bude** ** ← deu:Bude, angla:booth, rusa:будка (budka), hindia:बूथ (būth), bengala:বুথ (buth), japana:ブース (būsu), korea:부스 (buseu), vjetnama:bốt  
 **budi** *kompreno* ← sanskrita:बोधि (bodhi), hindia:बुद्धि (buddhi), japana:菩提 (bodai), mandarena:菩提 (pútí), mon:бодь (bodʹ), korea:보리 (bori), vjetnama:Bụt, taja:โพธิ (potí) + rusa:будить  
 **bufete** ** ← franca:buffet, angla:buffet, hispana:bufé, portugala:bufete, deu:Büfett, rusa:буфет (bufet), mandarena:部飛 (bùfēi), japana:ビュッフェ (byuffe), korea:뷔페 (bwipe), malaja:bufet, svahila:bufee  
@@ -697,7 +696,7 @@
 **kampe** ** ← angla:camp, hispana:campamento, portugala:acampamento, turka:kamp, svahila:kambi, hindia:कैंप (kaimp), malaja:kem, japana:キャンプ (kyanpu)  
 **kan** *farejo* ← persa:خانه‎ (xâne), rusa:-хана (-hana), hindia:ख़ाना (xānā), bengala:খানা (khana), svahila:karakana, turka:hane + mandarena:馆 (guǎn), korea:관 (gwan), japana:館 (-kan), vjetnama:quán  
 **kanal** *fluejo (kanalo)* ← angla:hispana:portugala:franca:canal, rusa:канал (kanal), malaja:kanal + araba: قَنَاة‎ (qanāh) + bengala:খাল (khal)  
-**kandi** *bombono* ← angla:candy, hindia:कैंडी (kaiṇḍī), bengala:ক্যান্ডি (kyandi), japana:キャンデー (kyandē), filipina:kendi + araba:persa: قند (qand)  
+**kandi** *bombono* ← angla:candy, hindia:कैंडी (kaiṇḍī), bengala:ক্যান্ডি (kyandi), japana:キャンデー (kyandē), filipina:kendi + araba:persa: قند (qand), tamila:கண்டு (kaṇṭu)  
 **kane** *stango* ← angla:cane, franca:canne + mandarena:杆 (gǎn), kantona:杆 (gon1), vjetnama:cần, taja:คัน (khan)  
 **kanga** ** ← hindia:कंघी (kaṅghī), urdua:(kaṅghī), bengala:কঙ্কত (kaṅkata), pan:ਕੰਘਾ (kaghā), marataja:कंगवा (kaṅgvā), panĝaba:ਕੰਘਾ (kaṅghā) + angla:franca:malaja:kanga  
 **kangaru** *kangaro* ← angla:kangaroo, hispana:canguro, portugala:canguru, rusa:кенгуру (kenguru), turka:kanguru, svahila:kangaruu, araba:كَنْغَر‎ (kanḡar), hindia:कंगारू (kaṅgārū), malaja:kanggaru, japana:カンガルー (kangarū)  
@@ -721,6 +720,7 @@
 **kari** *kareo* ← angla:franca:portugala:curry, hispana:curri, rusa:карри (karri), mandarena:咖喱 (kālǐ), japana:カレー (karē), korea:커리 (keori), vjetnama:cà ri,hindia:करी (karī), bengala:কারি (kari), malaja:kari, araba: كَارِي‎ (kārī)  
 **karim di** ** ← araba:(karīm), svahila:-karimu, turka:kerim, hispana:portugala:caritativo  
 **karite** ** ← volofa:kaarite, franca:hispana:karité, portugala:carité, fula:kaare, kareje, haŭsa:kaɗanya  
+**karne** *viando* ← hispana:portugala:carne, angla:carnal + franca:charnel; incarnation, deu:Inkarnation  
 **karote** *karoto* ← angla:carrot, franca:carotte, deu:Karotte, svahila:karoti, amharaba:ካሮት (karot), malaja:karot, vjetnama:cà rốt, tamila:காரட் (kāraṭ)  
 **karta** *karto* ← angla:card, franca:carte, hispana:portugala:carta, deu:Karte, rusa:карта (karta), turka:kart, svahila:kadi, hindia:कार्ड (kārḍa), bengala:কার্ড (kārḍa), malaja:kartu, mandarena:卡 (kǎ), japana:カード (kādo), korea:카드 (kadeu)  
 **karte** *mapo* ← angla:chart, franca:carte, hispana:portugala:carta, rusa:карта (karta), araba: خَرِيطَة‎ (ḵarīṭa), turka:harita  
@@ -1054,9 +1054,7 @@
 **najis** ** ← araba:نجس (najis), malaja:najis, svahila:najisi, persa:نجس (najes) + angla:najis, rusa:наджаса (nadžasa)  
 **nam loga** *substantivo* ← mandarena:名词 (míngcí), kantona:名詞 (ming4 ci4), japana:名詞 (meishi), korea:명사 (myeongsa), hindia:नाम (nām), franca:nom, hispana:nombre, portugala:nome, rusa:имя (imya), araba:(ism), per:(esm), svahila:nomino  
 **nam** *nomo* ← deu:angla:name, franca:nom, hindia:नाम (nām), bengala:নাম (nam), malaja:nama, taja:นาม (naam) + japana:名前 (namae)  
-**nama** *viando* ← svahila:nyama, haŭsa:nama, rwa:xho:zulua:inyama, sot:nama  
 **nan** *viro* ← mandarena:男 (nán), japana:男 (nan), korea:남 (nam), vjetnama:nam + persa: نر‎ (nar), hindia:नर (nar), bengala:নর (nôr), teluga:నరుడు (naruḍu) + angla:man, deu:Mann + tamila:ஆண் (āṇ)  
-**nanas** *ananaso* ← malaja:nanas, svahila:nanasi, hindia:अनन्नास (anānnas), rusa:ананас (ananas)  
 **naraka** ** ← hindia:नरक (narak), bengala:নরক (nôrôk), pan:ਨਰਕ (nark), marataja:नर्क (nark), teluga:నరకము (narakamu), tamila:நரகம் (narakam), malaja:neraka, tha:นรก (ná-rók), japana:奈落 (naraku)  
 **naram** *mola* ← persa: نرم‎ (narm), hindia:नरम (naram), bengala:নরম (nôrôm) + araba: نَاعِم‎ (nāʿim) + taja:นุ่ม (num)  
 **nardi** ** ← persa:urdua: نرد‎ (nard), rusa:нарды (nardy)  

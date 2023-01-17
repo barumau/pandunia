@@ -64,6 +64,7 @@ amen di - honesto (sincero)
 amerikium - amerício  
 amide - amida  
 amin - amina  
+ananas - ananás (abacaxi)  
 ancovi - anchova  
 andesite - andesito  
 angar - âncora  
@@ -264,20 +265,17 @@ bra - irmão
 bravo - bravo (valente, corajoso)  
 bravo - bravo!  
 briko - damasco (abricó, ameixa)  
+brokoli - brócolis  
 brom - bromo  
-broxa - brocha (pincel)  
+brox - brocha (pincel)  
 brun varis - arroz integral  
 bu! - bu!  
 bubu - bicho-papão  
-buca - abater  
-bucakan - matadouro  
-bucar - açougueiro (talhante)  
 Buda - Buda  
 bude - cabine  
 buku - livro  
 bulbul - rouxinol  
 bum - explosão  
-burokoli - brócolis  
 burge - forte  
 buro - escritório (birô)  
 buro krati - burocracia  
@@ -907,6 +905,13 @@ karga - carga (peso)
 kari - curry  
 Karibe - Caribe  
 karim - generosidade  
+• reinkarnation - reincarnação  
+karne - carne  
+karnal - carnal  
+karne feste - carnaval  
+karnize - abater  
+karnizer - açougueiro (talhante)  
+karnekan - matadouro  
 karote - cenoura  
 karte - carta geográfica  
 kartografia - cartografia  
@@ -1282,7 +1287,6 @@ nagre gogia - Cidade-estado
 najis - poluição  
 nam hin - sem nome  
 nam kitaba - assinar  
-nama - carne  
 nan per (man) - esposo  
 nardi - gamão  
 narke - droga (narcótico)  
@@ -1999,3 +2003,4 @@ zukraden - sexta-feira
 zuku - etnia  
 zuku di - étnico  
 zumarde - esmeralda  
+ - opor  

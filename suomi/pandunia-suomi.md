@@ -165,6 +165,7 @@ amir ja - emiiri
 amir lin - komentorivi  
 amper - ampeeri  
 ampul - ampulli  
+ananas - ananas  
 ancovi - sardelli (anjovis)  
 anda - muna  
 Andes - Andit  
@@ -600,7 +601,7 @@ bra doh - veljentytär
 bra son - veljenpoika  
 Brahma - Brahma  
 brauza - selata  
-brauza gi - selain  
+brauzer - selain  
 bravo - rohkea (urhea, uljas)  
 bravo - bravo!  
 Brazavil - Brazzaville  
@@ -608,16 +609,14 @@ Brazavil Kongo - Brazzavillen Kongo
 Brazil - Brasilia  
 briko - aprikoosi (luumu)  
 Britan - Iso-Britannia (Yhdistyneet Kuningaskunnat)  
+brokoli - parsakaali  
 brom - bromi  
-broxa - harja  
-broxa kalam - mustesivellin  
+brox - harja  
+brox kalam - mustesivellin  
 brun varis - ruskea riisi (täysjyväriisi)  
 Brunei - Brunei  
 bu! - pöö!  
 bubu - kummitus (mörkö)  
-buca - teurastaa (lahdata)  
-bucakan - teurastamo  
-bucar - teurastaja  
 Buda - Buddha  
 Buda din - buddhalaisuus (buddhismi)  
 Buda din ja - buddhalainen  
@@ -629,7 +628,6 @@ bufete - noutopöytä (buffetti)
 buku - kirja  
 bulbul - satakieli  
 bum - räjähdys (pamaus)  
-burokoli - parsakaali  
 burge - linna (linnake, linnoitus)  
 Burkina Faso - Burkina Faso  
 buro - toimisto (konttori, byroo)  
@@ -1656,7 +1654,7 @@ gona - kulma (nurkka)
 gona metri gi - kulmamitta (goniometri)  
 gorila - gorilla  
 goro - sika (possu)  
-goro nama - sianliha  
+goro karne - sianliha  
 goton - puuvilla  
 gradu - porras (aste, taso)  
 gradu di - asteittainen (porrastettu)  
@@ -2081,7 +2079,7 @@ juxa - ruiske (injektio)
 
 ka - kuin (verrattuna)  
 kababu - grillata (kärventää)  
-kababu nama - kebab (grilliliha)  
+kababu karne - kebab (grilliliha)  
 kabile - heimo  
 Kabu Verde - Cabo Verde  
 kadimium - kadmium  
@@ -2190,6 +2188,15 @@ Karibe - Karibia
 karim - anteliaisuus (vieraanvaraisuus, hyväntekeväisyys)  
 karim di - vieraanvarainen (antelias, hyväntahtoinen)  
 karite - voipuu  
+• reinkarnation - reinkarnaatio (uudelleen ruumiillistuminen)  
+• inkarnate - tulla lihaksi (lihallistua, ruumiillistua)  
+• inkarnatike - ruumiillistuma (inkarnaatio)  
+karne - liha  
+karnal - lihallinen  
+karne feste - karnevaali  
+karnize - teurastaa (lahdata, lyödä lihoiksi)  
+karnizer - teurastaja  
+karnekan - teurastamo  
 Karnada - Karnataka (Intian osavaltio)  
 karnada baxa - kannada (eräs intialainen kieli)  
 karote - porkkana  
@@ -2879,7 +2886,7 @@ mum cape - sinetti
 mum foto - kynttilä  
 mum jen - muumio  
 mumu - nauta (lehmä)  
-mumu nama - lehmän liha  
+mumu karne - lehmän liha  
 mun - ovi (portti, veräjä)  
 mungus - mangusti  
 mur - seinä (muuri)  
@@ -2920,11 +2927,9 @@ nam - nimi
 • annam - vastakohta (antonyymi)  
 nam hin - nimetön  
 nam loga - substantiivi (nimisana)  
-nama - liha  
 Namibia - Namibia  
 nan - uros (mies)  
 nan per (man) - aviomies  
-nanas - ananas  
 nano - nano-  
 nano mitre - nanometri  
 naraka - helvetti  
@@ -4336,7 +4341,7 @@ xiu yam - välipala (naposteltava)
 xiva - Šiva  
 xix - varras  
 xix kababu - varraskebab  
-xix nama - saslik  
+xix karne - saslik  
 xofer ja - kuski (ajuri, ajaja)  
 xoke - isku (šokki)  
 xopi - ostokset  
@@ -4474,3 +4479,6 @@ zuku di - etninen
 zuku medi di - kansanryhmien välinen  
 Zulu - zulu  
 zumarde - smaragdi  
+ - edetä (edistyä)  
+ - edistää  
+ - vastustaa  

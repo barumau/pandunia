@@ -33,6 +33,7 @@
 **amir** ** ← ara: أَمْر‎ (ʾamr), fas: امر‎ (amr), tur:emir, swa:amiri, hau:umarni + eng:admiral, fra:amiral, spa:por:emir rus:эмир (emir)  
 **ampul** *ampoule (fiole)* ← fra:eng:ampoule, zho:安瓿 (ānbù), jpn:アンプル (anpuru), rus:ампула (ámpula), ara:(ʾambūla)  
 **an-** *inverse (négatif, in-)* ← ell:ἀν- (an-), eng:un-, hin:अन- (an-), fra:spa:por:in-  
+**ananas** *ananas* ← deu:Ananas, fra:tur:ananas, por:ananás, rus:ананас (ananas), fas: آناناس‎ (ânânâs), hin:अनन्नास (anānnas), tam:அன்னாசிப் பழம் (aṉṉācip paḻam), ara: أَنَانَاس‎ (ʾanānās), may:nanas, swa:nanasi  
 **ancovi** *anchois* ← eng:anchovy, fra:anchois, spa:anchoa, por:anchova, rus:анчоус (ančous), jpn:アンチョビ (anchobi), hin:ऐन्चोवी (enchovi)  
 **anda** *oeuf* ← hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)  
 **angar** *ancre* ← eng:anchor, fra:ancre, por:âncora, may:jangkar, rus:якорь, ara:(ʾanjar), hin:लंगर (laṅgar), urd:(laṅgar), tel:లంగరు (laṅgaru), swa:nanga  
@@ -185,14 +186,12 @@
 **Bote** ** ← tib:བོད (bod, phø)  
 **botel** *bouteille* ← eng:bottle, fra:bouteille, spa:botella, por:botelha, rus:бутылка (butylka), hin:बोतल (botal), ben:বোতল (botôl), may:botol  
 **bra** *frère* ← ell:φράτηρ (phrater), eng:brother, por:brada; bródi, rus:брат (brat), fas: برادر‎ (barâdar), hin:बिरादर (birādar), ben:বেরাদর (beradôr), may:bruder, jpn:ブラザー (burazā), kor:브라더 (beuradeo), tur:birader, swa:bradha  
-**brauza gi** ** ← eng:browser, deu:Browser, rus:браузер (brauzer), hin:ब्राउज़र (brauzar), ben:ব্রাউজার (brā'ujāra), jpn:ブラウザ (burauzā)  
+**brauzer** ** ← eng:browser, deu:Browser, rus:браузер (brauzer), hin:ब्राउज़र (brauzar), ben:ব্রাউজার (brā'ujāra), jpn:ブラウザ (burauzā)  
 **bravo** *brave* ← eng:fra:brave, rus:бравый (braviy), por:bravo, ara:(brāvo)  
 **briko** *abricot (prune)* ← ara:(barqūq), eng:apricot, fra:abricot, spa:albaricoque, por:abricó, rus:абрикос (abrikos), tgl:albarikoke, swa:aprikoti  
 **brom** *brome* ← eng:bromine, fra:brome, spa:bromo, por:bromo, rus:бром, kor:브롬, vie:brom, hin:ब्रोमिन, ben:ব্রোমিন, may:brom, swa:bromi, ara: بروم  
-**broxa** *brosse* ← eng:brush, fra:brosse, spa:por:brocha, jpn:ブラシ (burashi), kor:브러시 (beureosi), hin:ब्रश (braś), ben:ব্রাশ (braś), hau:swa:burashi, fas:(boros), may:berus, ara: فُرْشَاة‎ (furšāh), tur:fırça  
+**brox** *brosse* ← eng:brush, fra:brosse, spa:por:brocha, jpn:ブラシ (burashi), kor:브러시 (beureosi), hin:ब्रश (braś), ben:ব্রাশ (braś), hau:swa:burashi, fas:(boros), may:berus, ara: فُرْشَاة‎ (furšāh), tur:fırça  
 **bu!** *bouh!* ← eng:boo, fra:bouh, por:spa:bu, rus:бу (bu), kor:부 (bu) + hin:भूत (bhūt)  
-**buca** *abattre* ← eng:butcher, fra:boucher, ita:beccaio, hin:बूचड़ (būcaṛ) + kor:푸주한 (pujuhan)  
-**bucakan** *abattoir* ← fas: سلاخ خانه‎ (sallâx-xâne), hin:बूचड़खाना (būcaṛkhānā), ben:কসাইখানা (kôśaikhana)  
 **bude** *cabine* ← deu:Bude, eng:booth, rus:будка (budka), hin:बूथ (būth), ben:বুথ (buth), jpn:ブース (būsu), kor:부스 (buseu), vie:bốt  
 **budi** ** ← san:बोधि (bodhi), hin:बुद्धि (buddhi), jpn:菩提 (bodai), zho:菩提 (pútí), mon:бодь (bodʹ), kor:보리 (bori), vie:Bụt, tha:โพธิ (potí) + rus:будить  
 **bufete** ** ← fra:buffet, eng:buffet, spa:bufé, por:bufete, deu:Büfett, rus:буфет (bufet), zho:部飛 (bùfēi), jpn:ビュッフェ (byuffe), kor:뷔페 (bwipe), may:bufet, swa:bufee  
@@ -697,7 +696,7 @@
 **kampe** ** ← eng:camp, spa:campamento, por:acampamento, tur:kamp, swa:kambi, hin:कैंप (kaimp), may:kem, jpn:キャンプ (kyanpu)  
 **kan** ** ← fas:خانه‎ (xâne), rus:-хана (-hana), hin:ख़ाना (xānā), ben:খানা (khana), swa:karakana, tur:hane + zho:馆 (guǎn), kor:관 (gwan), jpn:館 (-kan), vie:quán  
 **kanal** *fossé (canal, tranchée)* ← eng:spa:por:fra:canal, rus:канал (kanal), may:kanal + ara: قَنَاة‎ (qanāh) + ben:খাল (khal)  
-**kandi** *bonbon* ← eng:candy, hin:कैंडी (kaiṇḍī), ben:ক্যান্ডি (kyandi), jpn:キャンデー (kyandē), tgl:kendi + ara:fas: قند (qand)  
+**kandi** *bonbon* ← eng:candy, hin:कैंडी (kaiṇḍī), ben:ক্যান্ডি (kyandi), jpn:キャンデー (kyandē), tgl:kendi + ara:fas: قند (qand), tam:கண்டு (kaṇṭu)  
 **kane** *bâton (canne, tige)* ← eng:cane, fra:canne + zho:杆 (gǎn), yue:杆 (gon1), vie:cần, tha:คัน (khan)  
 **kanga** ** ← hin:कंघी (kaṅghī), urd:(kaṅghī), ben:কঙ্কত (kaṅkata), pan:ਕੰਘਾ (kaghā), mar:कंगवा (kaṅgvā), pnb:ਕੰਘਾ (kaṅghā) + eng:fra:may:kanga  
 **kangaru** *kangourou* ← eng:kangaroo, spa:canguro, por:canguru, rus:кенгуру (kenguru), tur:kanguru, swa:kangaruu, ara:كَنْغَر‎ (kanḡar), hin:कंगारू (kaṅgārū), may:kanggaru, jpn:カンガルー (kangarū)  
@@ -721,6 +720,7 @@
 **kari** *curry* ← eng:fra:por:curry, spa:curri, rus:карри (karri), zho:咖喱 (kālǐ), jpn:カレー (karē), kor:커리 (keori), vie:cà ri,hin:करी (karī), ben:কারি (kari), may:kari, ara: كَارِي‎ (kārī)  
 **karim di** *généreux* ← ara:(karīm), swa:-karimu, tur:kerim, spa:por:caritativo  
 **karite** ** ← wol:kaarite, fra:spa:karité, por:carité, ful:kaare, kareje, hau:kaɗanya  
+**karne** *viande* ← spa:por:carne, eng:carnal + fra:charnel; incarnation, deu:Inkarnation  
 **karote** *carotte* ← eng:carrot, fra:carotte, deu:Karotte, swa:karoti, amh:ካሮት (karot), may:karot, vie:cà rốt, tam:காரட் (kāraṭ)  
 **karta** *carte* ← eng:card, fra:carte, spa:por:carta, deu:Karte, rus:карта (karta), tur:kart, swa:kadi, hin:कार्ड (kārḍa), ben:কার্ড (kārḍa), may:kartu, zho:卡 (kǎ), jpn:カード (kādo), kor:카드 (kadeu)  
 **karte** *carte (plan)* ← eng:chart, fra:carte, spa:por:carta, rus:карта (karta), ara: خَرِيطَة‎ (ḵarīṭa), tur:harita  
@@ -1054,9 +1054,7 @@
 **najis** *pollution* ← ara:نجس (najis), may:najis, swa:najisi, fas:نجس (najes) + eng:najis, rus:наджаса (nadžasa)  
 **nam loga** ** ← zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino  
 **nam** *nom* ← deu:eng:name, fra:nom, hin:नाम (nām), ben:নাম (nam), may:nama, tha:นาม (naam) + jpn:名前 (namae)  
-**nama** *viande* ← swa:nyama, hau:nama, rwa:xho:zul:inyama, sot:nama  
 **nan** ** ← zho:男 (nán), jpn:男 (nan), kor:남 (nam), vie:nam + fas: نر‎ (nar), hin:नर (nar), ben:নর (nôr), tel:నరుడు (naruḍu) + eng:man, deu:Mann + tam:ஆண் (āṇ)  
-**nanas** ** ← may:nanas, swa:nanasi, hin:अनन्नास (anānnas), rus:ананас (ananas)  
 **naraka** ** ← hin:नरक (narak), ben:নরক (nôrôk), pan:ਨਰਕ (nark), mar:नर्क (nark), tel:నరకము (narakamu), tam:நரகம் (narakam), may:neraka, tha:นรก (ná-rók), jpn:奈落 (naraku)  
 **naram** ** ← fas: نرم‎ (narm), hin:नरम (naram), ben:নরম (nôrôm) + ara: نَاعِم‎ (nāʿim) + tha:นุ่ม (num)  
 **nardi** *backgammon* ← fas:urd: نرد‎ (nard), rus:нарды (nardy)  

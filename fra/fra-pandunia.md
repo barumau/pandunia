@@ -4,8 +4,8 @@ a (dans, en, chez) - a
 ## A  
 
 abaque (boulier compteur) - jenju table  
-abattoir - bucakan  
-abattre - buca  
+abattoir - karnekan  
+abattre - karnize  
 abaze - Abaze baxe  
 abeille ou guêpe - vespa  
 Abkhazie - Abazia  
@@ -102,6 +102,7 @@ anal - anusal
 analgésie - algesia  
 analgésique (antidouleur) - analgive  
 analyser (analyse) - fen lize  
+ananas - ananas  
 anaérobique - anairobiike  
 anchois - ancovi  
 ancre - angar  
@@ -305,7 +306,7 @@ bord - kinar
 boron - boron  
 botanique - fitolojia  
 botte - buta  
-boucher - bucar  
+boucher - karnizer  
 bouclire - defa bano  
 Bouddha - Buda  
 boue (fange, bourbe, gadoue) - poto  
@@ -326,9 +327,9 @@ bravo! - bravo
 brigand (bandit) - lutar  
 brique - dobe  
 brochette - xix  
-brocoli - burokoli  
+brocoli - brokoli  
 brome - brom  
-brosse - broxa  
+brosse - brox  
 brosse à cheveux - kexa broxa  
 brun (marron) - kafe rang  
 brûler - fa hogo  
@@ -397,6 +398,7 @@ carat - kirate
 Caraïbes - Karibe  
 carbone - karbe  
 cardon - kardon karcof  
+carnaval - karne feste  
 carotte - karote  
 caroube - karuba  
 carreau (tuile) - tail  
@@ -423,7 +425,7 @@ centre - jong
 cerise - ceri  
 cerveau (cervelle) - nau  
 chacal - xakal  
-chachlik - xix nama  
+chachlik - xix karne  
 chaise à bascule (berçante) - roke kursi  
 chambre à coucher - sona kamar  
 chameau - gamel  
@@ -442,6 +444,7 @@ chardon penché - pende kardon
 charge (fardeau, poids) - karga  
 charger - fa karga  
 charme - carme  
+charnel - karnal  
 chasser - fa saide  
 chat - miau  
 chaudron - dai pote  
@@ -1814,6 +1817,7 @@ réalisme - realisme
 réalité - realta  
 référer - refere  
 réglisse - alkasus  
+réincarnation - reinkarnation  
 réparateur - xuli ja  
 réparation - xuli  
 réparer - fa xuli  
@@ -1829,6 +1833,7 @@ rôtir - xava
 ## S  
 
 s'installer (déménager) - be migra  
+s'opposer à -   
 sable - sable  
 sac - baga  
 sac - sake  
@@ -2141,7 +2146,7 @@ verser (verse, face á) - verse
 verser - fa verse  
 vert - luga  
 veuve - vidua  
-viande - nama  
+viande - karne  
 vice-roi - vise raja  
 vide - hali  
 vierge - virge  

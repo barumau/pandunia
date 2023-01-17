@@ -65,6 +65,7 @@ amerikium - americio
 amir - ordono  
 amper - ampero  
 an- - mala  
+ananas - ananaso  
 ancovi - sardelo (anĉovo)  
 anda - ovo  
 Andes - Andoj  
@@ -307,11 +308,9 @@ bravo - brava
 bravo - brave!  
 Brazil - Brazilo  
 briko - abrikoto (pruno)  
+brokoli - brokolo  
 brom - bromo  
-broxa - broso  
-buca - buĉi  
-bucakan - buĉejo  
-bucar - buĉisto  
+brox - broso  
 Buda - Budho  
 Buda din - budhismo  
 Buda din ja - budhisto  
@@ -320,7 +319,6 @@ budi di - konscia
 buku - libro  
 bulbul - najtingalo  
 bum - eksplodo  
-burokoli - brokolo  
 bus - buso  
 bus halte - bushaltejo  
 busu - kiso  
@@ -795,7 +793,7 @@ gol - golo
 gomu - kaŭĉuko  
 gona - angulo  
 goro - porko  
-goro nama - porkaĵo  
+goro karne - porkaĵo  
 goton - kotono  
 gradu mute - disvolvi  
 grafi - bildo (desegnaĵo)  
@@ -1090,6 +1088,12 @@ karbe kalam - krajono
 kargadan: - rinocero  
 kari - kareo  
 Karibe - Karibio  
+• reinkarnation - reenkarnigo  
+karne - viando  
+karne feste - karnavalo  
+karnize - buĉi  
+karnizer - buĉisto  
+karnekan - buĉejo  
 karote - karoto  
 karte - mapo  
 karta - karto  
@@ -1424,7 +1428,7 @@ mula - radiko
 mum foto - kandelo  
 mum jen - mumio  
 mumu - bovo  
-mumu nama - bovaĵo  
+mumu karne - bovaĵo  
 mun - pordo  
 mur - vando  
 mur kaguji - tapeto  
@@ -1455,10 +1459,8 @@ Naijiria - Niĝerio
 nam - nomo  
 nam hin - sennoma  
 nam loga - substantivo  
-nama - viando  
 Namibia - Namibio  
 nan - viro  
-nanas - ananaso  
 naram - mola  
 narke - drogo  
 • internasial - internacia  
@@ -2124,7 +2126,7 @@ xiu deha - vilaĝeto
 xiu seku - ŝtoneto  
 xiu siti - urbeto  
 xiva - Ŝivo  
-xix nama - ŝaŝliko  
+xix karne - ŝaŝliko  
 xofer ja - ŝoforo (kondukisto)  
 xopi ja - aĉetanto (aĉetisto)  
 xou - montri (ekspozicii)  

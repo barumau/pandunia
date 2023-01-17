@@ -97,6 +97,7 @@ amir ja - émir
 amir lin - ligne de commande (console, terminal, invite de commande)  
 amper - ampère  
 ampul - ampoule (fiole)  
+ananas - ananas  
 ancovi - anchois  
 anda - oeuf  
 Andes - Andes  
@@ -365,20 +366,17 @@ bra - frère
 bravo - brave  
 bravo - bravo!  
 briko - abricot (prune)  
+brokoli - brocoli  
 brom - brome  
-broxa - brosse  
+brox - brosse  
 brun varis - riz complet  
 bu! - bouh!  
 bubu - croque-mitaine  
-buca - abattre  
-bucakan - abattoir  
-bucar - boucher  
 Buda - Bouddha  
 bude - cabine  
 buku - livre  
 bulbul - rossignol  
 bum - explosion  
-burokoli - brocoli  
 burge - fort  
 buro - bureau (office)  
 buro krati - bureaucratie  
@@ -1096,6 +1094,13 @@ kari - curry
 Karibe - Caraïbes  
 karim - générosité (charité)  
 karim di - généreux  
+• reinkarnation - réincarnation  
+karne - viande  
+karnal - charnel  
+karne feste - carnaval  
+karnize - abattre  
+karnizer - boucher  
+karnekan - abattoir  
 karote - carotte  
 karte - carte (plan)  
 kartografia - cartographie  
@@ -1491,7 +1496,6 @@ nam - nom
 • annam - antonyme  
 nam hin - innomé  
 nam kitaba - signer  
-nama - viande  
 nardi - backgammon  
 narke - drogue (narcotique, dope)  
 nasia - nation  
@@ -2210,7 +2214,7 @@ xiu kaboga - courgette
 xiu seku - caillou  
 xiva - Shiva  
 xix - brochette  
-xix nama - chachlik  
+xix karne - chachlik  
 xopi - shopping  
 xukur - merci  
 xukurta - gratitude  
@@ -2286,3 +2290,4 @@ zuku - ethnie
 zuku di - ethnique  
 Zulu - zoulou  
 zumarde - émeraude  
+ - s'opposer à  

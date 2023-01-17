@@ -133,6 +133,7 @@ amir.lin|amir lin||||command line (console, terminal)||ligne de commande (consol
 amper|amper|unomete|A||ampere (amp)||ampère|amperio|||||||||||||||||ampero|ampeeri|amper
 ampul|ampul|||fra:eng:ampoule, zho:安瓿 (ānbù), jpn:アンプル (anpuru), rus:ампула (ámpula), ara:(ʾambūla)|ampoule (vial)||ampoule (fiole)|ampolla (vial)||||||||||||||||||ampulli|ampułka
 an|an-|||ell:ἀν- (an-), eng:un-, hin:अन- (an-), fra:spa:por:in-|reverse (negative, un-)||inverse (négatif, in-)||||||||||||||||||mala|vastakohtainen (negatiivinen, epä-)|negatywny (przeciwny, nie)
+ananas|ananas|bio||deu:Ananas, fra:tur:ananas, por:ananás, rus:ананас (ananas), fas: آناناس‎ (ânânâs), hin:अनन्नास (anānnas), tam:அன்னாசிப் பழம் (aṉṉācip paḻam), ara: أَنَانَاس‎ (ʾanānās), may:nanas, swa:nanasi|pineapple|Ananas|ananas|piña|ananás (abacaxi)|ананас|آناناس‎|अनन्नास|আনারস|அன்னாசிப் பழம்|nanas|أَنَانَاس‎|ananas|nanasi||菠萝|菠蘿|パイナップル|파인애플|dứa (thơm)|ananaso|ananas|ananans
 ancovi|ancovi|bio|Engraulidae|eng:anchovy, fra:anchois, spa:anchoa, por:anchova, rus:анчоус (ančous), jpn:アンチョビ (anchobi), hin:ऐन्चोवी (enchovi)|anchovy||anchois|anchoa|anchova|анчоус (хамса)||ऐन्चोवी|||bilis|أَنْشُوفة‎|hamsi|||凤尾鱼||アンチョビ|멸치|cá cơm|sardelo (anĉovo)|sardelli (anjovis)|sardela
 anda|anda|||hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)|egg||oeuf|huevo|||||||||||||||||ovo|muna|jajko (jajo)
 Andes|Andes||||Andes||Andes|Andes|||||||||||||||||Andoj|Andit|Andy
@@ -574,8 +575,8 @@ bra|bra|famil||ell:φράτηρ (phrater), eng:brother, por:brada; bródi, rus:�
 bra.doh|bra doh||||fraternal niece|||||||||||||||侄女 (姪女)||||||veljentytär|
 bra.son|bra son||||fraternal nephew|||||||||||||||姪 (侄)||||||veljenpoika|
 Brahma|Brahma|din|||Brahma|||||Брахма||ब्रह्मा||||||||梵天||ブラフマー (梵天)|||Bramo|Brahma|
-brauza|brauza||||explore (browse)|||explorar||исследовать||||||||||||探る, 探検する||||selata|poszukiwać (badać, eksplorować, przeglądać, wyszukiwać)
-brauza.gi|brauza gi|||eng:browser, deu:Browser, rus:браузер (brauzer), hin:ब्राउज़र (brauzar), ben:ব্রাউজার (brā'ujāra), jpn:ブラウザ (burauzā)|browser|||navegador||браузер||||||||||||ブラウザ||||selain|
+brauz-|brauza||||explore (browse)|||explorar||исследовать||||||||||||探る, 探検する||||selata|poszukiwać (badać, eksplorować, przeglądać, wyszukiwać)
+brauz.er|brauzer|||eng:browser, deu:Browser, rus:браузер (brauzer), hin:ब्राउज़र (brauzar), ben:ব্রাউজার (brā'ujāra), jpn:ブラウザ (burauzā)|browser|||navegador||браузер||||||||||||ブラウザ||||selain|
 bravo|bravo|||eng:fra:brave, rus:бравый (braviy), por:bravo, ara:(brāvo)|brave (gallant, valiant)||brave||bravo (valente, corajoso)||||||||||||||||brava|rohkea (urhea, uljas)|Odwarzny (
 bravo|bravo||||bravo!||bravo!|bravo!|bravo!|браво||शाबाश|||||||||||||brave!|bravo!|brawo (gratulacje)
 Brazavil|Brazavil|xefsite|CG||Brazzaville|||Brazzaville||||||||||||||||||Brazzaville|
@@ -583,16 +584,14 @@ Brazavil.Kongo|Brazavil Kongo|dexa|CG||Congo (Brazzaville)|||República del Cong
 Brazil|Brazil|dexa|BR||Brazil|||Brasil|||||||||||||||||Brazilo|Brasilia|Brazyla
 briko|briko|pal||ara:(barqūq), eng:apricot, fra:abricot, spa:albaricoque, por:abricó, rus:абрикос (abrikos), tgl:albarikoke, swa:aprikoti|apricot (plum, peach)||abricot (prune)|albaricoque (ciruela)|damasco (abricó, ameixa)|абрикос (слива)||ख़ूबानी (आलूचा)|খুবানি||||kayısı (zerdali, erik)|aprikoti||杏子 (李子)||アンズ (梅, モモ, プラム)|자두|mận|abrikoto (pruno)|aprikoosi (luumu)|morela (śliwka)
 Britan|Britan|dexa|GB||United Kingdom|||Reino Unido||||||||||||||||||Iso-Britannia (Yhdistyneet Kuningaskunnat)|Zjednoczone Królestwo
+bro.koli|brokoli|bio|Brassica oleracea var. Italica||broccoli|Brokkoli|brocoli|brócoli (brécol)|brócolis|брокколи|کلم بروکلی‎|हरी गोभी (ब्रोकोली)|||brokoli|بْرُوكُلِي‎|brokoli|||西兰花|西蘭花|ブロッコリ|브로콜리|bông cải xanh|brokolo|parsakaali|brokuł
 brom|brom|yum 035|Br|eng:bromine, fra:brome, spa:bromo, por:bromo, rus:бром, kor:브롬, vie:brom, hin:ब्रोमिन, ben:ব্রোমিন, may:brom, swa:bromi, ara: بروم|bromine||brome|bromo|bromo|бром||ब्रोमिन|ব্রোমিন||brom|بروم|brom|bromi||溴||臭素|브롬|brom|bromo|bromi|brom
-broxa|broxa|||eng:brush, fra:brosse, spa:por:brocha, jpn:ブラシ (burashi), kor:브러시 (beureosi), hin:ब्रश (braś), ben:ব্রাশ (braś), hau:swa:burashi, fas:(boros), may:berus, ara: فُرْشَاة‎ (furšāh), tur:fırça|brush||brosse|cepillo (brocha)|brocha (pincel)|щётка||ब्रश|ব্রাশ|||فُرْشَاة‎|fırça|burashi||笔|||||broso|harja|szczotka
-broxa.kalam|broxa kalam||||inkbrush (calligraphy brush)|||||||||||||||毛笔||筆 (毛筆)||||mustesivellin|
+brox-|brox|||eng:brush, fra:brosse, spa:por:brocha, jpn:ブラシ (burashi), kor:브러시 (beureosi), hin:ब्रश (braś), ben:ব্রাশ (braś), hau:swa:burashi, fas:(boros), may:berus, ara: فُرْشَاة‎ (furšāh), tur:fırça|brush||brosse|cepillo (brocha)|brocha (pincel)|щётка||ब्रश|ব্রাশ|||فُرْشَاة‎|fırça|burashi||笔|||||broso|harja|szczotka
+brox.kalam|brox kalam||||inkbrush (calligraphy brush)|||||||||||||||毛笔||筆 (毛筆)||||mustesivellin|
 brun.varis|brun varis||||brown rice||riz complet|arroz integral|arroz integral|||||||||||糙米||玄米|현미|gạo lứt||ruskea riisi (täysjyväriisi)|
 Brunei|Brunei|dexa|BN||Brunei Darussalam|||Brunei||||||||||||||||||Brunei|Brunei Darussalam
 bu!|bu!|||eng:boo, fra:bouh, por:spa:bu, rus:бу (bu), kor:부 (bu) + hin:भूत (bhūt)|boo!||bouh!|bu!|bu!|бу||||||||||||ばあ|부|hù!||pöö!|bu!
 bu.bu|bubu||||bogeyman (ghost)||croque-mitaine|coco|bicho-papão|бука||भूत||||||||魔鬼||||||kummitus (mörkö)|
-buca|buca|||eng:butcher, fra:boucher, ita:beccaio, hin:बूचड़ (būcaṛ) + kor:푸주한 (pujuhan)|butcher||abattre|carnear (matar)|abater||||||||||||||||buĉi|teurastaa (lahdata)|
-buca.kan|bucakan|||fas: سلاخ خانه‎ (sallâx-xâne), hin:बूचड़खाना (būcaṛkhānā), ben:কসাইখানা (kôśaikhana)|abattoir (slaughterhouse)||abattoir|matadero|matadouro|бойня||बूचड़खाना (कसाईखाना)|কসাইখানা||||mezbaha|||屠宰场||屠畜場|도살장|lò mổ|buĉejo|teurastamo|
-buca.r|bucar||||butcher||boucher|carnicero|açougueiro (talhante)|мясник||क़साई (बूचड़)|||tukang daging|جَزَّار‎||||屠夫||肉屋|푸주한|người hàng thịt|buĉisto|teurastaja|
 Buda|Buda||||Buddha||Bouddha|Buda|Buda|Будда||बुद्ध|বুদ্ধ||Buddha||Buda|||佛陀||仏陀|부처 (불타)|Phật (Bụt)|Budho|Buddha|Budda
 Buda.din|Buda din||||Buddhism|||budismo||||बौद्ध धर्म|||||||||||||budhismo|buddhalaisuus (buddhismi)|Buddyzm
 Buda.din.ja|Buda din ja||||Buddhist|||budista|||||||||||||||||budhisto|buddhalainen|buddysta
@@ -604,7 +603,6 @@ bufete|bufete|||fra:buffet, eng:buffet, spa:bufé, por:bufete, deu:Büfett, rus:
 buku|buku|||eng:book, deu:Buch, may:buku, swa:buku, fra:bouquin, hin:बुक (buk)|book||livre|libro|livro|книга||पुस्तक (किताब)|||buku (pustaka, kitab)||kitap|kitabu||书||本 (書物)|||libro|kirja|książka
 bulbul|bulbul|bio|Luscinia megarhynchos|ara: بلبل‎ (bulbul), fas:(bolbol), hin:बुलबुल (bulbul), may:bulbul, tur:bülbül|nightingale||rossignol|ruiseñor|rouxinol|соловей||बुलबुल|||bulbul|بلبل‎|bülbül|||夜莺|||||najtingalo|satakieli|słowik
 bum|bum|||eng:boom, deu:Bumm, fra:boum, spa:por:bum, hin:बूम (būm), zho:砰 (pēng), kor:펑 (peong), vie:bùm|explosion (blast, eruption)||explosion|explosión (estallado)|explosão|взрыв||विस्फोट|বিস্ফোরণ||||patlama|ledakan (letupan, eksplosi)||爆炸||爆発|폭발|nổ|eksplodo|räjähdys (pamaus)|wybuch (eksplozja)
-bur.koli|burokoli|bio|Brassica oleracea var. Italica||broccoli|Brokkoli|brocoli|brócoli (brécol)|brócolis|брокколи|کلم بروکلی‎|हरी गोभी (ब्रोकोली)|||brokoli|بْرُوكُلِي‎|brokoli|||西兰花|西蘭花|ブロッコリ|브로콜리|bông cải xanh|brokolo|parsakaali|brokuł
 burge|burge|||deu:Burg, egy: برج‎ (burg), ara:urd: بُرْج‎ (burj), hin:बुर्ज (burj), may:puri, + hin:दुर्ग (durg), ben:দুর্গ (durg)|fortress (castle, fort, stronghold)||fort|castillo (fortaleza)|forte|крепость (форт)||क़िला (कोट)||||(بُرْج‎) قَلْعَة‎|kale|husuni||要塞||要塞|요새|pháo đài||linna (linnake, linnoitus)|zamek, forteca, twierdza
 Burkina.Faso|Burkina Faso|dexa|BF||Burkina Faso|||Burkina Faso||||||||||||||||||Burkina Faso|Burkina Faso
 buro|buro|||eng:fra:bureau, spa:buro-, por:birô, rus:бюро (byuro), pol:biuro, tur:büro|office (bureau)||bureau (office)|oficina|escritório (birô)|контора (бюро, офис)||||||||||||||||toimisto (konttori, byroo)|biuro, urząd
@@ -1691,7 +1689,7 @@ gona|gona|||hin:कोण (koṇ), tel:(kōnamu), swa:kona, eng:corner; -gon, ha
 gona.metri.gi|gona metri gi||||goniometer|||goniómetro (medidor de ángulos)||||||||||||||||||kulmamitta (goniometri)|goniometr (kątomierz)
 gorila|gorila|bio||eng:gorilla, fra:gorille, spa:por:may:gorila, rus:горилла (gorilla), ara:غوريلا (ḡūrīlā), jpn:ゴリラ (gorira), kor:고릴라 (gorilla), vie:gôrila, hin:गोरिल्ला (gorillā), ben:গরিলা (gôrila)|gorilla||gorille|gorila|gorila|горилла||वनमानुष (गोरिल्ला)|গরিলা||gorila|غوريلا||ngagi||大猩猩||ゴリラ|고릴라|khỉ đột (gôrila)||gorilla|goryl
 goro|goro|bio||swa:guruwe zul:ingulube, kon:ngulu spa:guarro,gorrino, jpn:(gorogoro) eng:grunt|pig|||cerdo (puerco)|||||||||||||||||porko|sika (possu)|świnia
-goro.nama|goro nama||||pork|||carne de cerdo|||||||||||||||||porkaĵo|sianliha|wieprzowina
+goro.karne|goro karne||||pork|||carne de cerdo|||||||||||||||||porkaĵo|sianliha|wieprzowina
 goton|goton|bio|Gossypium|ara: قُطُن‎ (quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton, may:katun, jpn:コットン (kotton), kor:코튼 (koteun) + hin:गुड (guḍ)|cotton|Baumwolle|coton|algodón|algodão|хлопок||कपास (गुड)|তুলো|பஞ்சு|kapas (kapuk, katun)|قُطُن‎|pamuk|pamba|auduga|棉||綿糸 (コットン)|면사 (코튼)|bông|kotono|puuvilla|bawełna
 gradu|gradu|||deu:Grad, eng:grade, degree; fra:degré, spa:grado, por:grau, rus:градус (gradus) + zho:度 (dù), yue:度 (dou6), jpn:度 (do), kor:도 (do), vie:độ + ara: دَرَجَة‎ (daraja), hin:दर्जा (darjā), may:darjah; derajat, swa:hau:daraja, tur:derece|step (degree, rank, grade, level, class)|||paso (grado, nivel, rango, calidad, categoría)||||||||||||||||||porras (aste, taso)|stopień, poziom, ranga, klasa
 gradu.di|gradu di||||gradual|||||||||||||||||||||asteittainen (porrastettu)|stopniowy
@@ -2147,7 +2145,7 @@ juxa|juxa|||zho:注射 (zhùshè), kor:주사 (jusa), jpn:注射 (chusha)|inject
 K|K||||K||K|K|K|K||K|K||K|K|K|K||K||K|K|K|K|K|K
 ka|ka|prep.||spa:por:fra:que, swa:kumliko, suo:kuin, lao:ກວ່າ (kuā), tgl:kaysa|than (as, compared to, relative to)||que (comme)|que (como, en comparación con)|que (como)|чем|||||daripada||göre|kuliko||比||より (に比べ)||hơn|ol (kiel)|kuin (verrattuna)|jak, niż, od
 kababu|kababu|||ara:fas:urd:  كباب (kabāb), tur:may:eng:spa:kebab, rus:кебаб (kebab), hin:कबाब (kabāb), ben:কাবাব (kabab), swa:kababu|barbecue (grill)|||asar||||||||||||||||||grillata (kärventää)|grillować
-kababu.nama|kababu nama||||grilled meat (kebab)|||||кебаб||कबाब|কাবাব|||كباب|kebap|||||||||kebab (grilliliha)|kebab
+kababu.karne|kababu karne||||grilled meat (kebab)|||||кебаб||कबाब|কাবাব|||كباب|kebap|||||||||kebab (grilliliha)|kebab
 kabil.|kabile|||ara: قَبِيلَة‎ (qabīla), fas: قبیله‎ (qabile), hin:क़बीला (qābilā), tur:kabile, swa:hau:kabila|tribe|Volkstamm|tribu|tribu|tribo||قبیله‎|जनजाति (कबीला)|উপজাতি||suku|قَبِيلَة‎|kabile|kabila|kabila (al'umma)|部落 (部族)||部族|겨레 (부족)|bộ lạc (bộ tộc)|tribo|heimo|plemię
 kabl.|kable|||eng:spa:cable, por:cabo fra:câble, rus:кабель (kabel'), jpn:ケーブル (kēburu), kor:까벨 (kkabel), may:kabel, tur:kablo + ara:حَبْل‎ (ḥabl)|rope (cable)||corde|cable|corda (cabo)|верёвка (канат)||रस्सी|||tali|حبل|halat|kamba (ugwe)||绳子||縄 (綱)|||||
 kaboga|kaboga|bio|Cucurbita|tur:kabak, swa:boga, jpn:カボチャ (kabocha)|squash (pumpkin, gourd)||citrouille|calabaza|abóbora (jerimun)|тыква||||||||||南瓜||カボチャ|||||kabaczek (dynia, tykwa)
@@ -2216,7 +2214,7 @@ Kanada|Kanada|dexa|CA||Canada|||Canadá||||||||||||||||||Kanada|Kanada
 kanal|kanal|||eng:spa:por:fra:canal, rus:канал (kanal), may:kanal + ara: قَنَاة‎ (qanāh) + ben:খাল (khal)|ditch (canal, channel, dyke, trench)||fossé (canal, tranchée)|canal (cauce, acequia, foso, zanja)|canal (fosso, trincheira)|канава (канал)||खाई (नाली)|খাল|||خَنْدَق‎|hendek|||水沟||側溝|||fluejo (kanalo)|oja (kanava, kanaali)|kanał
 kanal.ja|kanal ja||||conduit (channel)||||||||||||||||||||||przewód (kanał)
 kandela|kandela|unomete|cd||candela|||candela (unidad de intensidad luminosa)||||||||||||||||||kandela|kandela
-kandi|kandi|||eng:candy, hin:कैंडी (kaiṇḍī), ben:ক্যান্ডি (kyandi), jpn:キャンデー (kyandē), tgl:kendi + ara:fas: قند (qand)|candy (sweets)||bonbon|caramelo|bombom (doce)|конфета||कैंडी|ক্যান্ডি||gula-gula||tatlı (bonbon)|||糖果||キャンデー|사탕|kẹo|bombono|makeinen (karkki, namu)|cukierek, słodycze
+kandi|kandi|||eng:candy, hin:कैंडी (kaiṇḍī), ben:ক্যান্ডি (kyandi), jpn:キャンデー (kyandē), tgl:kendi + ara:fas: قند (qand), tam:கண்டு (kaṇṭu)|candy (sweets)||bonbon|caramelo|bombom (doce)|конфета||कैंडी|ক্যান্ডি|கண்டு|gula-gula||tatlı (bonbon)|||糖果||キャンデー|사탕|kẹo|bombono|makeinen (karkki, namu)|cukierek, słodycze
 kane|kane|||eng:cane, fra:canne + zho:杆 (gǎn), yue:杆 (gon1), vie:cần, tha:คัน (khan)|bar (pole, rod, shaft, staff, stick)||bâton (canne, tige)|barra (vara, palo)|vara (bastão)|кол (штанга)|||||||||||||||stango|tanko (pinna, sauva, patukka)|pręt, kij
 kane.kasa|kane kasa||||cage||cage|jaula (caja)|gaiola (jaula)|клетка||क़फ़स (पिंजड़ा)|খাঁচা||sangkar|قَفَص|kafes|tundu||笼||檻 (篭, ケージ)|우리|lồng|kaĝo|häkki|klatka
 kane.minte|kane minte|bio|Mentha spicata||spearmint||menthe verte|hierbabuena|hortelã-verde|мята колоси́стая||||||||||留兰香||スペアミント|||||mięta zielona (mięta kłosowa)
@@ -2279,6 +2277,15 @@ karib.|Karibe|aria|||Caribbean||Caraïbes|Caribe|Caribe||||||||||||||||Karibio|K
 karim|karim||||charity||générosité (charité)|generosidad (caridad)|generosidade|||||||||ukarimu||||||||anteliaisuus (vieraanvaraisuus, hyväntekeväisyys)|hojność (szczodrość)
 karim.di|karim di|||ara:(karīm), swa:-karimu, tur:kerim, spa:por:caritativo|charitable (gentle, kind)||généreux|generoso (dadivoso, caritativo)||||||||||karimu||||||||vieraanvarainen (antelias, hyväntahtoinen)|hojny (szczodry)
 karite|karite|||wol:kaarite, fra:spa:karité, por:carité, ful:kaare, kareje, hau:kaɗanya|shea (vitellaria)|||karité||||||||||||||||||voipuu|masłosz Parka
+karn-in-re.at.ion|• reinkarnation||||reincarnation|Reinkarnation|réincarnation|reencarnación|reincarnação|перевоплощение (реинкарнация)|||||||||||||||reenkarnigo|reinkarnaatio (uudelleen ruumiillistuminen)|
+karn-in.at-|• inkarnate||||incarnate|||||||||||||||||||||tulla lihaksi (lihallistua, ruumiillistua)|
+karn-in.at.ik-|• inkarnatike||||incarnation (embodiment)|||||||||||||||化身|化身|化身|화신|||ruumiillistuma (inkarnaatio)|
+karn.|karne|||spa:por:carne, eng:carnal + fra:charnel; incarnation, deu:Inkarnation|meat (flesh)|Fleisch|viande|carne|carne|мясо||गोश्त (मांस)|মাংস||daging|لَحْم‎|et|nyama|nama|肉||肉|고기|thịt|viando|liha|mięso
+karn.al|karnal||||carnal (fleshly)||charnel|carnal|carnal|плотский||||||||||||||||lihallinen|
+karn.fest.|karne feste||||carnival|Karneval|carnaval|carnaval|carnaval|карнавал|کارناوال‎|कार्निवल|কার্নিভাল|||كَرْنَفَال‎|karnaval|||||カーニバル|카니발||karnavalo|karnevaali|karnawał
+karn.iz.|karnize||||butcher||abattre|carnear (matar)|abater||||||||||||||||buĉi|teurastaa (lahdata, lyödä lihoiksi)|
+karn.iz.er|karnizer||||butcher||boucher|carnicero|açougueiro (talhante)|мясник|قصاب‎|क़साई (बूचड़)|কসাই||tukang daging|جَزَّار‎||||屠夫||肉屋|푸주한|người hàng thịt|buĉisto|teurastaja|
+karn.kan|karnekan||||abattoir (slaughterhouse)||abattoir|matadero|matadouro|бойня||बूचड़खाना (कसाईखाना)|কসাইখানা||||mezbaha|||屠宰场||屠畜場|도살장|lò mổ|buĉejo|teurastamo|
 Karnada|Karnada||||Karnataka|||Karnataka||||||||||||||||||Karnataka (Intian osavaltio)|Karnataka
 karnada.baxa|karnada baxa|basha|||Kannada|||cararés||||||||||||||||||kannada (eräs intialainen kieli)|kannada
 karot.|karote|bio|Daucus carota|eng:carrot, fra:carotte, deu:Karotte, swa:karoti, amh:ካሮት (karot), may:karot, vie:cà rốt, tam:காரட் (kāraṭ)|carrot|Möhre|carotte|zanahoria|cenoura|морковь||गाजर|গাজর|காரட்|wortel (karot)|جزر‎|havuç|karoti||红萝卜||ニンジン|당근|cà rốt|karoto|porkkana|marchew
@@ -3071,7 +3078,7 @@ mum.jen|mum jen||||mummy|||momia|||||||||||||||||mumio|muumio|mumia
 mum.melon|mum melon|bio|Benincasa hispida||winter melon (wax gourd, ash gourd)|||calabaza china (calabaza de la cera)||восковая тыква (зимняя дыня)||||||||||冬瓜 (白瓜)||トウガン|||||beninkaza szorstka (beninkaza woskodajna, woszcza szorstka)
 Mumbai|Mumbai|site|||Mumbai (Bombay)||||||||||||||||||||||Bombaj (Mumbaj)
 mumu|mumu|bio||(onom,) eng:moo, deu:muh, rus:му (mu), tha:มอ (mo), hin:(mū), jpn:モーモー (mō mō), zho:哞 (mōu), tur:mö|cow|||vaca (toro)|||||||||||||||||bovo|nauta (lehmä)|krowa
-mumu.nama|mumu nama||||beef|||carne de vaca|||||||||||||||||bovaĵo|lehmän liha|wołowina
+mumu.karne|mumu karne||||beef|||carne de vaca|||||||||||||||||bovaĵo|lehmän liha|wołowina
 mun|mun|||zho:门 (mén), yue:門 (mun4), jpn:門 (mon), kor:문 (mun), vie:môn|door (gate, portal)|||puerta||||||||||||||門|||pordo|ovi (portti, veräjä)|drzwi, brama, portal
 mungus|mungus|||tel:ముంగిస (muṅgisa), mar:मुंगूस (muṅgūs), eng:mongoose, spa:mangosta, por:mangusto, fra:mangouste, rus:мангу́ст (mangúst), jpn:マングース (mangūsu)|mongoose|||mangosta||||||||||||||||||mangusti|mangusta
 mur|mur|||fra:mur, spa:por:muro + deu:Mauer, pol:mur|wall (structure for delimitation)||mur|muro (muralha)|muro (muralha)|стена (вал)||दीवार|দেওয়াল||dinding|جِدَار‎|duvar|kuta||墙壁||壁||tường|vando|seinä (muuri)|mur, ściana
@@ -3119,11 +3126,9 @@ nam.hin|nam hin||||nameless (unnamed, anonymous)||innomé|innominado|sem nome|б
 nam.kitaba|nam kitaba||||sign (autograph)||signer|firmar|assinar|подписать||||||||||签署||署名する (サイン)|||||podpis (autograf)
 nam.loga|nam loga|||zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|noun|||sustantivo|||||||||||||||||substantivo|substantiivi (nimisana)|rzeczownik
 nam.tikete|nam tikete||||nametag|||gafete (etiqueta de identificación)|||||||||isim etiketi||||||||||
-nama|nama|||swa:nyama, hau:nama, rwa:xho:zul:inyama, sot:nama|meat (flesh)||viande|carne|carne|мясо||गोश्त (मांस)|মাংস||daging||et|nyama||肉||肉|고기|thịt|viando|liha|mięso
-Namibia|Namibia|dexa|NA||Namibia|||Namibia|||||||||||||||||Namibio|Namibia|Namibia
+namib.ia|Namibia|dexa|NA||Namibia|||Namibia|||||||||||||||||Namibio|Namibia|Namibia
 nan|nan|||zho:男 (nán), jpn:男 (nan), kor:남 (nam), vie:nam + fas: نر‎ (nar), hin:नर (nar), ben:নর (nôr), tel:నరుడు (naruḍu) + eng:man, deu:Mann + tam:ஆண் (āṇ)|male|||masculino (macho)||||||||||||||男|||viro|uros (mies)|męski
 nan.per (man)|nan per (man)|famil|||husband|||esposo|esposo|||||||||||||||||aviomies|małżonek
-nanas|nanas|bio||may:nanas, swa:nanasi, hin:अनन्नास (anānnas), rus:ананас (ananas)|pineapple|||piña||ананас|||||nanas|||nanasi|||||||ananaso|ananas|ananans
 nano|nano|numbe|||nano-|||nano-||||||||||||||||||nano-|nano-
 nano.mitre|nano mitre|unomete|nm||nanometer|||nanometre||||||||||||||||||nanometri|nanometr
 naraka|naraka|||hin:नरक (narak), ben:নরক (nôrôk), pan:ਨਰਕ (nark), mar:नर्क (nark), tel:నరకము (narakamu), tam:நரகம் (narakam), may:neraka, tha:นรก (ná-rók), jpn:奈落 (naraku)|hell|||infierno||||||||||||||||||helvetti|piekło
@@ -3144,7 +3149,7 @@ nas.ist.|nasiste||||nationalist|||nacionalista||||||||||||||||||nationalisti|nac
 nat-in.ik|• innatike||||innate (endogenous, indigenous, inborn)|||innato (endógeno)||||||||||||||||||sisäsyntyinen|wewnętrzny
 nat-pos.al|• posnatal||||postnatal||post-natal|postnatal|pós-natal|послеродовой||||||||||产后||||||syntymän jälkeinen|poporodowy
 nat-pre.al|• prenatal||||prenatal||prénatal|prenatal|pré-natal|||||||||||产前||||||syntymää edeltävä|przedporodowy
-nat-ri|• rinate||||rebirth (renaissance)|||||||||||||||||||||syntyä uudelleen|
+nat-ri|• rinate||||rebirth (renaissance)|||||||पुनर्जन्म||||||||转生||転生||||syntyä uudelleen|
 nat.|nate|||fra:naître, spa:por:nato, eng:-nate + deu:Nazion, pol:nacja, rus:нация (natsiya) + ara:(nās)|birth||naître (naissance)|nacer (nacimiento)|nascer|родиться|||||||||||||||naski (nasko)|syntyä (synty, syntymä)|narodziny
 nat.al.lingu.|natal lingue||||native language (mother tongue)||langue maternelle|lengua materna|língua materna|родной язык||मातृभाषा||||||||母语|||||hejmlingvo|äidinkieli|język ojczysty (język rodzimy)
 nat.den.|nateden||||birthday|||cumpleaños|||||||||||||||||naskiĝtago|syntymäpäivä|urodziny
@@ -4708,7 +4713,7 @@ xiu.zi|xiu zi||||lowercase letter|||minúscula||||||||||||||小文字|||||
 xiva|xiva|din|||Shiva||Shiva|Shiva|Xiva|Шива||शिव|শিব||Siwa (Mahadeva)||Şiva|||湿婆||シヴァ|시바||Ŝivo|Šiva|Śiwa
 xix|xix|||tur:şiş + eng:shish-, rus:шиш- (šiš-)|skewer||brochette|brocheta|||||||||şiş|||扦子||||xiên||varras|rożen (szpikulec)
 xix.kababu|xix kababu||||shish kebab|||||шиш-кебаб|||||||şiş kebap|||||||||varraskebab|szisz kebab
-xix.nama|xix nama||||shashlik||chachlik|||шашлык|||||sate||şişlik|||串烧|||||ŝaŝliko|saslik|szaszłyk
+xix.karne|xix karne||||shashlik||chachlik|||шашлык|||||sate||şişlik|||串烧|||||ŝaŝliko|saslik|szaszłyk
 xofer.ja|xofer ja|||fra:eng:deu:chauffeur, spa:por:chofer, rus:шофёр (šofjor), pol:szofer, tha: โชเฟอร์ (chofoe), tur:şoför, fas:(šofer)|chauffeur (driver)|||conductor (chofer)|condutor (chofer, motorista)|шофёр|||||||sürücü (şoför)|||司机|||||ŝoforo (kondukisto)|kuski (ajuri, ajaja)|szofer (kierowca)
 xoke|xoke|||eng:nld:shock, fra:choc, spa:por:choque, tur:şok, may:syok + zho:冲击 (chōngjī), yue:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), jpn:衝撃 (shōgeki)|shock (collision)|||choque (sacudida)||||||||||||||||||isku (šokki)|szokwstrząs; kolizja
 xopi|xopi|||eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼핑 (syoping), tha:ชอปปิ้ง (chop-bing), rus:шоппинг (šopping), zho:血拼 (xuèpīn)|shopping||shopping|compras (shopping)|compras|покупка (шоппинг)||||||||||购物 (血拼)||||||ostokset|zakupy (sprawunki, shopping)
@@ -4850,3 +4855,6 @@ zuku.di|zuku di||||ethnic||ethnique|étnico|étnico|этнический|||||||e
 zuku.medi.di|zuku medi di||||interethnic|||interétnica||межэтнический|||||||||||||||interetna|kansanryhmien välinen|międzyetniczny
 Zulu|Zulu||||Zulu||zoulou|zulú||зулус|||||||||||||||zuluo|zulu|zulu
 zumarde|zumarde|||eng:emerald, fra:émeraude, spa:por:esmeralda, jpn:エメラルド (emerarudo) + ara: زُمُرُّد‎ (zumurrud), swa:zumaridi, may:zamrud, rus:изумруд (izumrud), zho:祖母绿 (zǔmǔlǜ)|emerald||émeraude|esmeralda|esmeralda|изумруд||पन्ना (मरकत)|||zamrud||zümrüt|zumaridi||绿宝石 (祖母绿)|||||smeraldo|smaragdi|szmaragd
+|||||advance (progress, go forward, enter)|||avanzar (entrar, adelantar, progresar)||||||||||||||||||edetä (edistyä)|posuwać się do przodu (dokonywać postępu, wejść)
+|||||put forward (advance, progress)|||||||||||||||||||||edistää|
+|||||oppose (antagonize, object, resist)||s'opposer à|oponerse (resistir)|opor|противостоять||||||||||||||||vastustaa|sprzeciwiać się (opierać się)

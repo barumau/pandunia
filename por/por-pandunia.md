@@ -2,7 +2,7 @@
 
 ## A  
 
-abater - buca  
+abater - karnize  
 abelha ou vespa - vespa  
 abeto - abies  
 Abissínia - Habaxa  
@@ -86,6 +86,7 @@ anaeróbico - anairobiike
 analgesia (analgia) - algesia  
 analgésico - analgive  
 analógico - undura  
+ananás (abacaxi) - ananas  
 anchova - ancovi  
 andesito - andesite  
 anel - ring  
@@ -166,7 +167,7 @@ avó - cin ma
 avô - cin pa  
 azur (blau) - lazur  
 azur - nil  
-açougueiro (talhante) - bucar  
+açougueiro (talhante) - karnizer  
 ação - ation  
 açúcar - sukar  
 aí (lá) - a vo  
@@ -243,9 +244,9 @@ branco - baku
 bravo (valente, corajoso) - bravo  
 bravo! - bravo  
 braço - hanu xaka  
-brocha (pincel) - broxa  
+brocha (pincel) - brox  
 bromo - brom  
-brócolis - burokoli  
+brócolis - brokoli  
 bu! - bu!  
 Buda - Buda  
 budismo zen - jan buda din  
@@ -319,7 +320,9 @@ careta (esgar) - grimas
 carga (peso) - karga  
 Caribe - Karibe  
 carimbo - posta marke  
-carne - nama  
+carnal - karnal  
+carnaval - karne feste  
+carne - karne  
 carrapato (ácaros) - akare  
 carregar - fa karga  
 carreira - pei kar jiva  
@@ -1120,7 +1123,7 @@ mas - ama
 massa - masa  
 massa de modelar (massinha) - plasti paste  
 mastro - masta  
-matadouro - bucakan  
+matadouro - karnekan  
 mate (opaco) - foto mata di  
 matemática - mate  
 matemático - matike  
@@ -1310,6 +1313,7 @@ onde - ke loka
 online - a lin  
 ontem - preden  
 opinião - rai  
+opor -   
 optar - ote  
 opção - cunbil  
 opção - otion  
@@ -1591,6 +1595,7 @@ refugo (escória) - lasa
 regime - politi mode  
 registro - loga  
 rei - rajanan  
+reincarnação - reinkarnation  
 relato - reporte  
 relier (connecter) - fa linke  
 religião - din  

@@ -46,6 +46,7 @@ amerikium - アメリシウム
 amide - アミド  
 amin - アミン  
 amir lin - コマンド行  
+ananas - パイナップル  
 ancovi - アンチョビ  
 andesite - 安山岩  
 angul - 指  
@@ -222,20 +223,18 @@ boron - ホウ素
 botel - 瓶  
 Brahma - ブラフマー (梵天)  
 brauza - 探る, 探検する  
-brauza gi - ブラウザ  
+brauzer - ブラウザ  
 briko - アンズ (梅, モモ, プラム)  
+brokoli - ブロッコリ  
 brom - 臭素  
-broxa kalam - 筆 (毛筆)  
+brox kalam - 筆 (毛筆)  
 brun varis - 玄米  
 bu! - ばあ  
-bucakan - 屠畜場  
-bucar - 肉屋  
 Buda - 仏陀  
 bude - ブース  
 bufete - ビュッフェ (バイキング)  
 buku - 本 (書物)  
 bum - 爆発  
-burokoli - ブロッコリ  
 burge - 要塞  
 buro ja - 秘書  
 buro krati - 官僚制  
@@ -856,6 +855,11 @@ kardon - 薊 (アザミ)
 kardon karcof - カルドン  
 kargadan: - 犀  
 kari - カレー  
+• inkarnatike - 化身  
+karne - 肉  
+karne feste - カーニバル  
+karnizer - 肉屋  
+karnekan - 屠畜場  
 karote - ニンジン  
 karte - 地図  
 karta - カルタ  
@@ -1203,11 +1207,11 @@ nam - 名前
 nam dokumen - 身分証明書 (ID)  
 nam hin - 名無し (無名の)  
 nam kitaba - 署名する (サイン)  
-nama - 肉  
 nan - 男  
 narke - 麻薬  
 narkose - 症  
 • internasial - 国際的  
+• rinate - 転生  
 nateloke - 出生地  
 nature - 性質  
 natri - ナトリウム  

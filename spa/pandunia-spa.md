@@ -119,6 +119,7 @@ amir ja - emir
 amir lin - interfaz de línea de comandos  
 amper - amperio  
 ampul - ampolla (vial)  
+ananas - piña  
 ancovi - anchoa  
 anda - huevo  
 Andes - Andes  
@@ -510,22 +511,20 @@ botel - botella
 botel tapa - tapón (corcholata)  
 bra - hermano  
 brauza - explorar  
-brauza gi - navegador  
+brauzer - navegador  
 bravo - bravo!  
 Brazavil - Brazzaville  
 Brazavil Kongo - República del Congo  
 Brazil - Brasil  
 briko - albaricoque (ciruela)  
 Britan - Reino Unido  
+brokoli - brócoli (brécol)  
 brom - bromo  
-broxa - cepillo (brocha)  
+brox - cepillo (brocha)  
 brun varis - arroz integral  
 Brunei - Brunei  
 bu! - bu!  
 bubu - coco  
-buca - carnear (matar)  
-bucakan - matadero  
-bucar - carnicero  
 Buda - Buda  
 Buda din - budismo  
 Buda din ja - budista  
@@ -536,7 +535,6 @@ bufete - bufé
 buku - libro  
 bulbul - ruiseñor  
 bum - explosión (estallado)  
-burokoli - brócoli (brécol)  
 burge - castillo (fortaleza)  
 Burkina Faso - Burkina Faso  
 buro - oficina  
@@ -1471,7 +1469,7 @@ gona - esquina (rincón, ángulo)
 gona metri gi - goniómetro (medidor de ángulos)  
 gorila - gorila  
 goro - cerdo (puerco)  
-goro nama - carne de cerdo  
+goro karne - carne de cerdo  
 goton - algodón  
 gradu - paso (grado, nivel, rango, calidad, categoría)  
 gradu mute - desarrollo  
@@ -1983,6 +1981,13 @@ Karibe - Caribe
 karim - generosidad (caridad)  
 karim di - generoso (dadivoso, caritativo)  
 karite - karité  
+• reinkarnation - reencarnación  
+karne - carne  
+karnal - carnal  
+karne feste - carnaval  
+karnize - carnear (matar)  
+karnizer - carnicero  
+karnekan - matadero  
 Karnada - Karnataka  
 karnada baxa - cararés  
 karote - zanahoria  
@@ -2673,7 +2678,7 @@ mum foto - vela (candela, cirio)
 mum jen - momia  
 mum melon - calabaza china (calabaza de la cera)  
 mumu - vaca (toro)  
-mumu nama - carne de vaca  
+mumu karne - carne de vaca  
 mun - puerta  
 mungus - mangosta  
 mur - muro (muralha)  
@@ -2719,11 +2724,9 @@ nam hin - innominado
 nam kitaba - firmar  
 nam loga - sustantivo  
 nam tikete - gafete (etiqueta de identificación)  
-nama - carne  
 Namibia - Namibia  
 nan - masculino (macho)  
 nan per (man) - esposo  
-nanas - piña  
 nano - nano-  
 nano mitre - nanometre  
 naraka - infierno  
@@ -4218,3 +4221,5 @@ zuku di - étnico
 zuku medi di - interétnica  
 Zulu - zulú  
 zumarde - esmeralda  
+ - avanzar (entrar, adelantar, progresar)  
+ - oponerse (resistir)  

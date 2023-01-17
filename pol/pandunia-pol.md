@@ -134,6 +134,7 @@ amir lin -
 amper - amper  
 ampul - ampułka  
 an- - negatywny (przeciwny, nie)  
+ananas - ananans  
 ancovi - sardela  
 anda - jajko (jajo)  
 Andes - Andy  
@@ -578,7 +579,7 @@ bra doh -
 bra son -   
 Brahma -   
 brauza - poszukiwać (badać, eksplorować, przeglądać, wyszukiwać)  
-brauza gi -   
+brauzer -   
 bravo - Odwarzny (  
 bravo - brawo (gratulacje)  
 Brazavil -   
@@ -586,16 +587,14 @@ Brazavil Kongo - Republika Konga
 Brazil - Brazyla  
 briko - morela (śliwka)  
 Britan - Zjednoczone Królestwo  
+brokoli - brokuł  
 brom - brom  
-broxa - szczotka  
-broxa kalam -   
+brox - szczotka  
+brox kalam -   
 brun varis -   
 Brunei - Brunei Darussalam  
 bu! - bu!  
 bubu -   
-buca -   
-bucakan -   
-bucar -   
 Buda - Budda  
 Buda din - Buddyzm  
 Buda din ja - buddysta  
@@ -607,7 +606,6 @@ bufete - bufet (szwedzki stół)
 buku - książka  
 bulbul - słowik  
 bum - wybuch (eksplozja)  
-burokoli - brokuł  
 burge - zamek, forteca, twierdza  
 Burkina Faso - Burkina Faso  
 buro - biuro, urząd  
@@ -1703,7 +1701,7 @@ gona - kąt
 gona metri gi - goniometr (kątomierz)  
 gorila - goryl  
 goro - świnia  
-goro nama - wieprzowina  
+goro karne - wieprzowina  
 goton - bawełna  
 gradu - stopień, poziom, ranga, klasa  
 gradu di - stopniowy  
@@ -2167,7 +2165,7 @@ juxa - zastrzyk
 
 ka - jak, niż, od  
 kababu - grillować  
-kababu nama - kebab  
+kababu karne - kebab  
 kabile - plemię  
 kable -   
 kaboga - kabaczek (dynia, tykwa)  
@@ -2299,6 +2297,15 @@ Karibe - Karaiby
 karim - hojność (szczodrość)  
 karim di - hojny (szczodry)  
 karite - masłosz Parka  
+• reinkarnation -   
+• inkarnate -   
+• inkarnatike -   
+karne - mięso  
+karnal -   
+karne feste - karnawał  
+karnize -   
+karnizer -   
+karnekan -   
 Karnada - Karnataka  
 karnada baxa - kannada  
 karote - marchew  
@@ -3093,7 +3100,7 @@ mum jen - mumia
 mum melon - beninkaza szorstka (beninkaza woskodajna, woszcza szorstka)  
 Mumbai - Bombaj (Mumbaj)  
 mumu - krowa  
-mumu nama - wołowina  
+mumu karne - wołowina  
 mun - drzwi, brama, portal  
 mungus - mangusta  
 mur - mur, ściana  
@@ -3143,11 +3150,9 @@ nam hin - bezimienny
 nam kitaba - podpis (autograf)  
 nam loga - rzeczownik  
 nam tikete -   
-nama - mięso  
 Namibia - Namibia  
 nan - męski  
 nan per (man) - małżonek  
-nanas - ananans  
 nano mitre - nanometr  
 naraka - piekło  
 naram - miękki  
@@ -4744,7 +4749,7 @@ xiu zi -
 xiva - Śiwa  
 xix - rożen (szpikulec)  
 xix kababu - szisz kebab  
-xix nama - szaszłyk  
+xix karne - szaszłyk  
 xofer ja - szofer (kierowca)  
 xoke - szokwstrząs; kolizja  
 xopi - zakupy (sprawunki, shopping)  
@@ -4890,3 +4895,6 @@ zuku di - etniczny
 zuku medi di - międzyetniczny  
 Zulu - zulu  
 zumarde - szmaragd  
+ - posuwać się do przodu (dokonywać postępu, wejść)  
+ -   
+ - sprzeciwiać się (opierać się)  

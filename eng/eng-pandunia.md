@@ -8,7 +8,7 @@
 a couple of - du o tri  
 a sea of people (huge crowd) - jen bahai  
 abacus - jenju table  
-abattoir (slaughterhouse) - bucakan  
+abattoir (slaughterhouse) - karnekan  
 Abaza language - Abaze baxe  
 ability - bilta  
 Abkhazia - Abazia  
@@ -49,6 +49,7 @@ admire (adore) - fanati
 admire - amira  
 adult - ceng jen  
 adultery (infidelity) - zina  
+advance (progress, go forward, enter) -   
 advanced (high-level) - gau gradu di  
 advancement (milestone) - progresion  
 adventure (venture) - ventur  
@@ -405,7 +406,7 @@ bedrock - baze petra
 bedroom - sona kamar  
 bee nest (beehive, wasp's nest) - vespa nide  
 bee or wasp - vespa  
-beef - mumu nama  
+beef - mumu karne  
 beehive (beehouse) - medu vespa sanduku  
 beehive (honeycomb) - medu vespa nide  
 beer - bir  
@@ -562,7 +563,7 @@ bright (brilliant, clear) - ming
 brighten - fa ming  
 bring - fa lai  
 bring up (educate, raise) - pede  
-broccoli - burokoli  
+broccoli - brokoli  
 broken (shattered) - parce di  
 bromine - brom  
 broom (sweep) - jaru  
@@ -571,9 +572,9 @@ brown - kafe rang
 brown algae - kafe alga  
 brown rice - brun varis  
 brown trout - kafe salmon  
-browser - brauza gi  
+browser - brauzer  
 Brunei Darussalam - Brunei  
-brush - broxa  
+brush - brox  
 bubble - xiu bol  
 bucket - baldi  
 Budapest - Budapexte  
@@ -604,8 +605,8 @@ bust (bosom) - buste
 busy (occupied) - mang  
 but (rather) - ama  
 butane - butan  
-butcher - buca  
-butcher - bucar  
+butcher - karnize  
+butcher - karnizer  
 butter - bute  
 butterfly (moth) - pelpel  
 buttocks (bum, butt, ass) - pigu  
@@ -684,6 +685,8 @@ care (caution, attention) - jui
 career (professional life) - pei kar jiva  
 careful (cautious, attentive, alert, wary) - jui di  
 Caribbean - Karibe  
+carnal (fleshly) - karnal  
+carnival - karne feste  
 carob (St. John's bread) - karuba  
 carpenter - moka sanaja  
 carpet (rug) - dipe tela  
@@ -1847,7 +1850,7 @@ Grenada - Grenada
 grey (gray, ashy) - hui rang  
 grieve (be sad; grief, sorrow) - duku  
 grieve - be duka  
-grilled meat (kebab) - kababu nama  
+grilled meat (kebab) - kababu karne  
 grimace - grimas  
 grind (grind in mill) - fa mol  
 grindstone (millstone) - mol seku  
@@ -2104,6 +2107,8 @@ import - in mise
 important - ham di  
 imprison (jail) - fa jela  
 impure (polluted, defiled, tainted) - najis di  
+incarnate - inkarnate  
+incarnation (embodiment) - inkarnatike  
 include (enclose, hold in) - fa in klus  
 including - in klus  
 inclusive - in klus di  
@@ -2139,7 +2144,7 @@ inject (injection) - injete
 inject - fa juxa  
 injection - juxa  
 ink - kalam sui  
-inkbrush (calligraphy brush) - broxa kalam  
+inkbrush (calligraphy brush) - brox kalam  
 inn (fonduk, tavern) - panduke  
 innate (endogenous, indigenous, inborn) - innatike  
 inner (internal) - in di  
@@ -2654,7 +2659,7 @@ mean (intend) - fa nia
 mean (signify) - seme  
 meaning (signification) - mana  
 measure (measurement) - metri  
-meat (flesh) - nama  
+meat (flesh) - karne  
 Mecca - Makah  
 mechanic - makinja  
 mechanical - makin li  
@@ -3056,6 +3061,7 @@ opinion (view) - rai
 opium poppy - sona papi  
 opossum - aposum  
 opportunity (chance) - canse  
+oppose (antagonize, object, resist) -   
 opt (prefer, choose) - ote  
 optical fibre (optical cable) - fotoline  
 optimal - otimal  
@@ -3310,7 +3316,7 @@ pillar (column, pole, post) - kolum
 pilot - pilote  
 pinch - pinse  
 pine tree - songi  
-pineapple - nanas  
+pineapple - ananas  
 pink (rosy) - rode rang  
 pink salmon - rode salmon  
 pipe - pipe  
@@ -3400,7 +3406,7 @@ popular (trendy) - faxon di
 population - demi polita  
 porcelain (chinaware) - cini  
 pore - pore  
-pork - goro nama  
+pork - goro karne  
 porn - porno  
 pornography - porno grafi  
 port (left side of a ship) - nave leu  
@@ -3535,6 +3541,7 @@ push - pulse
 put (place, set) - fa loka  
 put back (postpone) - pos poza  
 put back (postpone) - pospoze  
+put forward (advance, progress) -   
 put in (impose) - inpoze  
 pyramid - piram  
 pyrolatry - hogo puja  
@@ -3631,6 +3638,7 @@ region of birth - natestan
 register (record, log) - loga  
 regress (fall back) - regrese  
 reign (rule as an emperor) - impere  
+reincarnation - reinkarnation  
 reinforce (replenish) - fa max lika  
 reinforcements - max ordu  
 reject (throw back) - rejete  
@@ -3937,7 +3945,7 @@ share - fa komun
 shari'a - islam din xaria  
 shark - xayu  
 sharp (cutting, edged, pointed) - gata ja  
-shashlik - xix nama  
+shashlik - xix karne  
 shatter (break into pieces) - fa parce  
 shea (vitellaria) - karite  
 sheep - meme  

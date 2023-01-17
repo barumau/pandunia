@@ -1,4 +1,5 @@
 # polski–pandunia
+ -   
  - a dura de  
  - a max  
  - a tema de  
@@ -121,14 +122,11 @@
  - bra doh  
  - bra son  
  - Brahma  
- - brauza gi  
+ - brauzer  
  - Brazavil  
- - broxa kalam  
+ - brox kalam  
  - brun varis  
  - bubu  
- - buca  
- - bucakan  
- - bucar  
  - Budapexte  
  - buro di  
  - buro krati  
@@ -480,6 +478,10 @@
  - karboxil  
  - karkan  
  - karkan  
+ - karnal  
+ - karnekan  
+ - karnize  
+ - karnizer  
  - karuba  
  - kasa  
  - Kastilia  
@@ -1041,6 +1043,8 @@
  - indute  
  - infere  
  - inhume  
+ - inkarnate  
+ - inkarnatike  
  - inloga  
  - inmigre  
  - inmigrer  
@@ -1121,6 +1125,7 @@
  - reflexe  
  - reflexer  
  - regrese  
+ - reinkarnation  
  - rejete  
  - relaxa  
  - remise  
@@ -1208,7 +1213,7 @@ ampułka - ampul
 analgezja - algesia  
 analizować (analiza) - fen lize  
 analny, odbytni - anusal  
-ananans - nanas  
+ananans - ananas  
 andezyt - andesite  
 Andora - Andora  
 Andy - Andes  
@@ -1393,7 +1398,7 @@ brawo (gratulacje) - bravo
 Brazyla - Brazil  
 broda - barde  
 brodawka - zeyil  
-brokuł - burokoli  
+brokuł - brokoli  
 brom - brom  
 broń - vuki  
 broń nuklearna - kerne vuki  
@@ -2233,6 +2238,7 @@ karawana - karvan
 karczoch hiszpański - kardon karcof  
 karczoch zwyczajny - karcof  
 Karnataka - Karnada  
+karnawał - karne feste  
 karta - karta  
 karta kredytowa - kredi karte  
 kartka (dokument) - yepa  
@@ -2251,7 +2257,7 @@ Kazachstan - Qazaqe
 kałamarnica (mątwa) - kalmar  
 każdy człowiek, wszyscy - pan jen  
 każdy, wszyscy - pan un  
-kebab - kababu nama  
+kebab - kababu karne  
 keczup - kecape  
 kelwin - kelvin  
 Kenia - Kenya  
@@ -2732,7 +2738,7 @@ międzynarodowy - internasial
 międzyrasowy - rasa medi  
 miękki - naram  
 mięsny (umami) - umami  
-mięso - nama  
+mięso - karne  
 mięta - minte  
 mięta pieprzowa - pipre minta  
 mięta wodna - sui minta  
@@ -3381,6 +3387,7 @@ poręcz (balustrada) - langan
 postawa ciała; asana - asan  
 postawiony (stojący) - lipa di  
 postawić (stawiać) - fa libu  
+posuwać się do przodu (dokonywać postępu, wejść) -   
 posuwać się do przodu (dokonywać postępu, wejść) - progrese  
 poszukiwacz (badacz, eksplorator) - logi safar ja  
 poszukiwacz przygód (awanturnik) - ventur ja  
@@ -3911,6 +3918,7 @@ sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać - ceka
 sprawiedliwość - adilta  
 sprawiedliwy - adil  
 sprawić ból, sprawiać ból - fa pasi  
+sprzeciwiać się (opierać się) -   
 sprzedać (sprzedawać) - vende  
 sprzątacz, sprzątacz - safja  
 spróbować, próbować - proba  
@@ -4010,10 +4018,10 @@ Szanghaj - Xanghai
 szansa - canse  
 szariat - islam din xaria  
 szary - hui rang  
-szaszłyk - xix nama  
+szaszłyk - xix karne  
 szczepionka - vasin  
 szczoteczka do zębów - dante broxa  
-szczotka - broxa  
+szczotka - brox  
 szczyt (wierzchołek) - xan pike  
 szef, kierownik - xefe  
 szeleścić - xaxa  
@@ -4408,7 +4416,7 @@ wielonarodowy - polinasial
 wieloznaczny - poli semi di  
 wieloznaczny - polisemike  
 wielościan - poli fase  
-wieprzowina - goro nama  
+wieprzowina - goro karne  
 wiercić, borować - fora  
 wierzący (osoba religijna) - din ja  
 wierzący (osoba religijna) - kredija  
@@ -4466,7 +4474,7 @@ wolt (V) - volta
 wosk - mum  
 wosko lądowe (armia) - geo ordu  
 wow!, łoł!, jej! - va  
-wołowina - mumu nama  
+wołowina - mumu karne  
 wprostowywać (wyprostować) - fa orto  
 wrzesień - mes luka  
 wrócić, wracać, wycofać się, wycofywać się - be retro  

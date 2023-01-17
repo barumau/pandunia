@@ -133,7 +133,7 @@ anaalinen - anusal
 anaerobinen - anairobiike  
 analgesia - algesia  
 analyysi (osiin hajottaminen) - fen lize  
-ananas - nanas  
+ananas - ananas  
 andesiitti - andesite  
 Andit - Andes  
 Andorra - Andora  
@@ -389,8 +389,10 @@ edellyttää - pre si
 edeltäjä - prekurser  
 edeltää (mennä edeltä) - precese  
 edeltää (olla ennen) - be cen  
+edetä (edistyä) -   
 edetä (päästä eteenpäin) - procese  
 edistyä (edetä, harppoa eteenpäin) - progrese  
+edistää -   
 edistää - progresion  
 edustaa - vakil  
 edustaja (agentti) - vakiler  
@@ -662,7 +664,7 @@ happi - oxe
 happo - suan mate  
 harhanäky (näköharha) - false vide  
 harhautua - be rute galte  
-harja - broxa  
+harja - brox  
 harjoitella (treenata) - fa lenxi  
 harjoitus - lenxi  
 harmaa - hui rang  
@@ -1209,6 +1211,7 @@ Karibia - Karibe
 karjanhoito - hevan agri suta  
 karkea (karhea) - gros  
 Karnataka (Intian osavaltio) - Karnada  
+karnevaali - karne feste  
 kartio (keila) - kone  
 kartogratia - kartografia  
 kartta - karte  
@@ -1267,7 +1270,7 @@ kaupunkivaltio - nagre gogia
 kaura - ave  
 kaveriton - dosti hin  
 Kazakstan - Qazaqe  
-kebab (grilliliha) - kababu nama  
+kebab (grilliliha) - kababu karne  
 kehitys - gradu mute  
 keho (ruumis) - badan  
 kehonrakennus (bodaus) - muskul bina  
@@ -1788,7 +1791,7 @@ lautanen - plate tasa
 lautapeli - bano geme  
 lava - tai  
 lawrencium - laurencium  
-lehmän liha - mumu nama  
+lehmän liha - mumu karne  
 lehti (arkki, levy) - yepa  
 lehti (sanomalehti) - gazeta  
 lehtikaali - yepa koli  
@@ -1833,7 +1836,8 @@ Liechtenstein - Lihtenstain
 liekki - flam  
 Liettua - Lietuva  
 liettualainen - lietuva baxa  
-liha - nama  
+liha - karne  
+lihallinen - karnal  
 lihas - muskul  
 lihavoitu kirjain - gros zi  
 liian vähän - min ka bas  
@@ -2288,7 +2292,7 @@ mustasukkainen - garde zelo
 muste - kalam sui  
 mustekala - ohtopus  
 mustekynä - fonte kalam  
-mustesivellin - broxa kalam  
+mustesivellin - brox kalam  
 muta (kura, lieju) - poto  
 mutka (kurvi) - kurva  
 mutkikas - kurva di  
@@ -2687,7 +2691,7 @@ parillinen luku - per nume
 parkkipaikka - car parke  
 paronyymi - paranam  
 parsa - asparge  
-parsakaali - burokoli  
+parsakaali - brokoli  
 parta - barde  
 partitiivi - partative  
 partneri (kumppani, osakas) - partaner  
@@ -3085,6 +3089,7 @@ realisti - realiste
 rehtori - xula xefe  
 reikä - kung  
 Rein - Ren  
+reinkarnaatio (uudelleen ruumiillistuminen) - reinkarnation  
 reissu (retki) - tur  
 rei’ittää - fa kung  
 rengas (kehä) - ring  
@@ -3171,6 +3176,7 @@ rutenium - rusium
 rutherfordium - ruterfordium  
 ruukku (kannu, maljakko, karahvi) - jara  
 ruumiillinen - badan di  
+ruumiillistuma (inkarnaatio) - inkarnatike  
 ruumiinavaus (obduktio) - nekro tomi  
 ruumis (vainaja) - nekro  
 ruusu - rode  
@@ -3258,7 +3264,7 @@ sarjakuva - grafi kata
 sarjan jakso - filme babu  
 sarvi - korne  
 sarvikuono - kargadan:  
-saslik - xix nama  
+saslik - xix karne  
 sata (hehto-) - sento  
 sata tuhatta - des kilo  
 satakieli - bulbul  
@@ -3305,7 +3311,7 @@ seksikäs - sexe di
 seksologia - sexolojia  
 sekunti - sekunde  
 sekuntikello - dura metri gi  
-selain - brauza gi  
+selain - brauzer  
 selata - brauza  
 seleeni - selenium  
 selkeyttää (selittää) - fa klar  
@@ -3330,7 +3336,7 @@ seuraus - pos
 seurustella (toimia yhdessä) - fa sosi  
 seutu (maa, alue) - tope  
 Seychellit - Sexel nesi  
-sianliha - goro nama  
+sianliha - goro karne  
 side (remmi) - faxi  
 siemen - seme  
 siemen- - seme di  
@@ -3772,9 +3778,9 @@ terveys (hyvinvointi) - saluta
 terveys (kunto) - saludo  
 tesla (T) - tesla  
 Tethys - Tetis  
-teurastaa (lahdata) - buca  
-teurastaja - bucar  
-teurastamo - bucakan  
+teurastaa (lahdata, lyödä lihoiksi) - karnize  
+teurastaja - karnizer  
+teurastamo - karnekan  
 thai - Tai baxa  
 Thaimaa - Tai Dexa  
 Thule - Tule  
@@ -3873,6 +3879,7 @@ tulinen - hogo di
 tulium - tulium  
 tulivuori - hogo xan  
 tulla (saapua) - lai  
+tulla lihaksi (lihallistua, ruumiillistua) - inkarnate  
 tulokaskasvi (neofyytti) - neu fito  
 tulostaa tietoja (tuloste) - expute  
 tulppa (tappi, korkki) - tape  
@@ -4150,6 +4157,7 @@ vastapäivään - rota leu
 vastasyntynyt - neu nati di  
 vastata - fa javabu  
 vastaus - javabu  
+vastustaa -   
 Vatikaanivaltio - Vatikan  
 vaurio (vahinko, haveri) - avar  
 vaurioitunut - avar di  

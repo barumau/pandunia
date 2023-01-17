@@ -62,6 +62,7 @@ amen di - честный (правдивый)
 amerikium - америций  
 amide - амид  
 amir lin - командная строка  
+ananas - ананас  
 ancovi - анчоус (хамса)  
 andesite - андезит  
 angar - якорь  
@@ -273,22 +274,20 @@ botel tapa - крышка
 bra - брат  
 Brahma - Брахма  
 brauza - исследовать  
-brauza gi - браузер  
+brauzer - браузер  
 bravo - браво  
 briko - абрикос (слива)  
+brokoli - брокколи  
 brom - бром  
-broxa - щётка  
+brox - щётка  
 bu! - бу  
 bubu - бука  
-bucakan - бойня  
-bucar - мясник  
 Buda - Будда  
 bude - будка (кабина)  
 bufete - буфет  
 buku - книга  
 bulbul - соловей  
 bum - взрыв  
-burokoli - брокколи  
 burge - крепость (форт)  
 buro - контора (бюро, офис)  
 buro di - казённый (формальный)  
@@ -889,7 +888,7 @@ juste pau ja - снайпер
 ## K  
 
 ka - чем  
-kababu nama - кебаб  
+kababu karne - кебаб  
 kable - верёвка (канат)  
 kaboga - тыква  
 kadimium - кадмий  
@@ -962,6 +961,12 @@ kardon karcof - артишок испанский (кардон)
 karga - бремя (товар, груз, ноша)  
 kargadan: - носорог  
 kari - карри  
+• reinkarnation - перевоплощение (реинкарнация)  
+karne - мясо  
+karnal - плотский  
+karne feste - карнавал  
+karnizer - мясник  
+karnekan - бойня  
 karote - морковь  
 karte - карта (план)  
 kartografia - картография  
@@ -1333,8 +1338,6 @@ nam - имя
 nam dokumen - ID  
 nam hin - безымянный  
 nam kitaba - подписать  
-nama - мясо  
-nanas - ананас  
 nardi - нарды (триктрак)   
 narke - наркотик  
 nasia - нация  
@@ -2017,7 +2020,7 @@ xiu kaboga - цукини
 xiu seku - галька  
 xiva - Шива  
 xix kababu - шиш-кебаб  
-xix nama - шашлык  
+xix karne - шашлык  
 xofer ja - шофёр  
 xopi - покупка (шоппинг)  
 xukur - спасибо  
@@ -2095,3 +2098,4 @@ zuku di - этнический
 zuku medi di - межэтнический  
 Zulu - зулус  
 zumarde - изумруд  
+ - противостоять  
