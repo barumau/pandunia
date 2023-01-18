@@ -1433,6 +1433,7 @@ fonolojia - fonologia (äänneoppi)
 fone zi - kirjain  
 fonte - lähde (kaivo)  
 fonte kalam - mustekynä  
+fonte sui - lähdevesi  
 fonyo - fonio (heinäkasvi)  
 for - pois (poissa)  
 fora - porata  
@@ -2227,8 +2228,8 @@ ke loka - jossa?
 ke poli di - montako? (paljonko?)  
 ke riti - miten?  
 ke sata - milloin? (koska?)  
+ke tipe - millainen?  
 ke xe - mikä? (mitä?)  
-ke yang - millainen?  
 kecape - ketsuppi  
 keci - kohtelias (kiltti)  
 keka - käynti (vierailu, visiitti)  
@@ -2918,6 +2919,8 @@ nabija - profeetta (airut, viestintuoja)
 nadir - harvinainen  
 nadir mar - harvoin  
 nafas - hengitys (henkäys)  
+nafte - öljy  
+nafte fonte - öljylähde  
 nagre - kaupunki  
 nagre gogia - kaupunkivaltio  
 nagria - urbaani valtio  
@@ -2976,12 +2979,14 @@ nefre - munuainen
 nefralgia - munuaiskipu  
 nefrextomia - munuaisenpoistoleikkaus  
 nefritis - munuaistulehdus (nefriitti)  
-nega - kieltää  
-nekro - ruumis (vainaja)  
-nekro fili - nekrofilia  
-nekro lista - kuolinluettelo  
-nekro loga - muistosanat (muistopuhe, muistokirjoitus)  
-nekro tomi - ruumiinavaus (obduktio)  
+• denege - kieltää (evätä)  
+nege - kieltää (kiistää)  
+negative - kielteinen (negatiivinen)  
+nekre - ruumis (vainaja)  
+nekrofilia - nekrofilia  
+nekroliste - kuolinluettelo  
+nekrologa - muistosanat (muistopuhe, muistokirjoitus)  
+nekrotomia - ruumiinavaus (obduktio)  
 nelu - neljä (4)  
 nelu di galope - neli (kiitolaukka)  
 nelu gona - neliö  
@@ -3964,7 +3969,7 @@ tike - pala
 tikete - lippu (piletti)  
 tim - joukkue (tiimi)  
 Timor - Timor  
-tipe - tyyppi (laji, genre)  
+tipe - tyyppi (laji, genre, tyyli)  
 tipi - kota (tiipii)  
 tire - vetää  
 tire kane - vipu  
@@ -4347,8 +4352,8 @@ xoke - isku (šokki)
 xopi - ostokset  
 xopi ja - ostaja  
 xou - näytös (esitys, show)  
-xukur - kiitos  
-xukurta - kiitollisuus  
+xukre - kiitos  
+xukria - kiitollisuus  
 xula - koulutus  
 xula guru - opettaja  
 xula ja - oppilas  
@@ -4378,8 +4383,7 @@ yam yau - nälkä
 yama - pellava  
 yama seme - pellavansiemen  
 yama tela - pellavakangas  
-yang - laji (tyyppi, tyyli)  
-preyang di - klassinen  
+yang - jang (positiivinen, kirkas, valo, elävä, luja, maskuliininen)  
 Yapetus - Japetus  
 yatim - orpo  
 yatim dom - orpokoti  
@@ -4407,6 +4411,8 @@ Yesa - Jeesus
 Yesa Mesi - Jeesus Kristus  
 Yesa sanga - jesuiittaveljeskunta  
 yezi - kookos  
+yim - jin (negatiivinen, hämärä, varjo, aave-, pehmeä, feminiininen)  
+yim yang - jin-jang (jin ja jang)  
 yo - jokin (joku)  
 yo jen - joku  
 yo sata - joskus  
@@ -4479,6 +4485,3 @@ zuku di - etninen
 zuku medi di - kansanryhmien välinen  
 Zulu - zulu  
 zumarde - smaragdi  
- - edetä (edistyä)  
- - edistää  
- - vastustaa  

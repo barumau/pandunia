@@ -11,6 +11,7 @@ abóbada - arka cati
 abóbora (jerimun) - kaboga  
 acanto-bastardo - pin kardon  
 aceitar - acepe  
+aceite (óleo) - nafte  
 acento - balaton  
 acesso (acceder) - acese  
 acesso - inlai  
@@ -25,7 +26,6 @@ adesivo - glu grafi
 adjetivo - sifa loga  
 administrador - politike  
 admirar - amira  
-aeite (óleo) - nefte  
 aeroporto - air porto  
 aeróbico - airobiike  
 Afeganistão - Afganestan  
@@ -158,7 +158,7 @@ até - hata
 auge (aumentar) - auge  
 Austronésia - Austronesi  
 automático - autatike  
-autopsía - nekro tomi  
+autopsía - nekrotomia  
 autor - auter  
 aveia - ave  
 aventura - ventur  
@@ -270,7 +270,7 @@ cacto - katus
 cadeado - pende sor  
 cadeia - serser  
 cadeira de balanço - roke kursi  
-cadáver - nekro  
+cadáver - nekre  
 cafeteira - kafe pote  
 café - kafe  
 café - kafekan  
@@ -537,6 +537,7 @@ deixar - laxe
 delegar - vakilize  
 delir (deletar) - deleta  
 demora (atraso, espera) - dele  
+denegar - denege  
 dente-de-leão (taráxaco) - makan hua  
 depenar - depena  
 derretre - fuzi  
@@ -843,7 +844,7 @@ governo - polite
 grama (relva) - cau  
 gramado - cau medan  
 granito - granite  
-gratidão - xukurta  
+gratidão - xukria  
 graças a - a xukur de  
 grupo - grupe  
 grávida (prenhe) - hamil  
@@ -1244,8 +1245,9 @@ nave espacial - kosmo nave
 nação - nasia  
 necessidade - yauta  
 necessário - yau di  
-necrofilia - nekro fili  
+necrofilia - nekrofilia  
 nefrite - nefritis  
+negativo - negative  
 neodímio - neodimium  
 neologismo - neu loga  
 neptúnio - neputunium  
@@ -1294,9 +1296,9 @@ o (a) - la
 ## O  
 
 o que - ke  
-obituário - nekro loga  
+obituário - nekrologa  
 oblíquo (torto) - terca  
-obrigado - xukur  
+obrigado - xukre  
 obsidiana - osidian  
 oceano - dai bahai  
 ocular - yen di  
@@ -1313,7 +1315,6 @@ onde - ke loka
 online - a lin  
 ontem - preden  
 opinião - rai  
-opor -   
 optar - ote  
 opção - cunbil  
 opção - otion  
@@ -1423,7 +1424,7 @@ pesado - veze di
 pescador - pexe saide ja  
 pescoço (nuca, gargalo) - nuka  
 pessoa - jen  
-petróleo - petra nefte  
+petróleo - petra nafte  
 peônia - mudan  
 picareta - pin cope  
 pilha (bateria) - batri  
@@ -1466,6 +1467,7 @@ poste (coluna) - kolum
 posterior - pos di  
 potássio - kalium  
 poucos - kam  
+poço de petróleo - nafte fonte  
 prancheta - pinse bano  
 praseodímio - prazedimium  
 prata - argente  
@@ -1965,6 +1967,7 @@ xénon - xenon
 
 ## Y  
 
+yin-yang - yim yang  
 
 ## Z  
 
@@ -1982,6 +1985,7 @@ zumbi - zombi
 ágil - agile  
 água - sui  
 água da chuva - barxa sui  
+água de fonte - fonte sui  
 álcool - alkol  
 álgebra - jebre  
 áraque - anis araki  

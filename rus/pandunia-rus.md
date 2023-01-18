@@ -596,6 +596,7 @@ flur - фтор
 fluride - фторид  
 foli - чешуя  
 fonte kalam - авторучка  
+fonte sui - родниковая вода  
 for - прочь (вон)  
 fora - сверлить (бурить)  
 • dusforme - уродовать  
@@ -984,7 +985,7 @@ ke jen - кто
 ke loka - где  
 ke riti - как  
 ke sata - когда  
-ke yang - какой  
+ke tipe - какой  
 Keme - Древний Египет  
 ken - знать  
 kentaur - кентавр  
@@ -1330,6 +1331,8 @@ nabi - пророчество
 nabija - пророк (вестник)  
 nadir - редкий  
 nadir mar - редко  
+nafte - масло  
+nafte fonte - скважина  
 nagral - городской  
 nagre gogia - город-государство  
 najis - грязь (скверна)  
@@ -1359,11 +1362,11 @@ nave dex - правый борт
 nave leu - левый борт  
 nefre - почка  
 nefritis - нефрит  
-nefte - масло  
-nekro - труп (мёртвое тело)  
-nekro fili - некрофилия  
-nekro loga - некролог  
-nekro tomi - вскрытие (аутопсия)  
+negative - негативный  
+nekre - труп (мёртвое тело)  
+nekrofilia - некрофилия  
+nekrologa - некролог  
+nekrotomia - вскрытие (аутопсия)  
 nelu - четыре (4)  
 neodimium - неодим  
 neon - неон  
@@ -1511,7 +1514,7 @@ pera - груша
 pesa - деньги  
 pesa diske - монета  
 petra - горная порода  
-petra nefte - нефть  
+petra nafte - нефть  
 pexe - рыба  
 pexe huke - крючок  
 pexe saide ja - рыбак (рыболов)  
@@ -2023,8 +2026,8 @@ xix kababu - шиш-кебаб
 xix karne - шашлык  
 xofer ja - шофёр  
 xopi - покупка (шоппинг)  
-xukur - спасибо  
-xukurta - благодарность  
+xukre - спасибо  
+xukria - благодарность  
 xula - образование  
 xula guru - учитель  
 xulakan - школа   
@@ -2059,6 +2062,7 @@ yepa koli - кале
 Yesa - Иисус  
 Yesa Mesi - Иисус Христос  
 Yesa sanga - иезуитский орден  
+yim yang - инь и ян  
 yoga - йога  
 yogo - ярмо (иго)  
 yogur - йогурт  
@@ -2098,4 +2102,3 @@ zuku di - этнический
 zuku medi di - межэтнический  
 Zulu - зулус  
 zumarde - изумруд  
- - противостоять  

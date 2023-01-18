@@ -389,10 +389,8 @@ edellyttää - pre si
 edeltäjä - prekurser  
 edeltää (mennä edeltä) - precese  
 edeltää (olla ennen) - be cen  
-edetä (edistyä) -   
 edetä (päästä eteenpäin) - procese  
 edistyä (edetä, harppoa eteenpäin) - progrese  
-edistää -   
 edistää - progresion  
 edustaa - vakil  
 edustaja (agentti) - vakiler  
@@ -1005,6 +1003,7 @@ jalokivi - bauite
 jalusta (teline) - fute bano  
 Jamaika - Jamaika  
 jambolaani - jamul  
+jang (positiivinen, kirkas, valo, elävä, luja, maskuliininen) - yang  
 jano - sui yau  
 Japani - Nipon  
 japanilainen - nipon di  
@@ -1023,6 +1022,8 @@ Jemen - Yemen
 Jersey - Jerze  
 Jerusalem - Uruxalem  
 jesuiittaveljeskunta - Yesa sanga  
+jin (negatiivinen, hämärä, varjo, aave-, pehmeä, feminiininen) - yim  
+jin-jang (jin ja jang) - yim yang  
 jo (tehty teko) - fin  
 jodi - iode  
 jogurtti - yogur  
@@ -1366,8 +1367,10 @@ kielioppi - baxe kanun
 kielitiede (lingvistiikka) - baxe lojia  
 kielletty - haram  
 kielo - vali susan  
+kielteinen (negatiivinen) - negative  
+kieltää (evätä) - denege  
+kieltää (kiistää) - nege  
 kieltää - fa haram  
-kieltää - nega  
 kieppua (sekoittaa; häiritä) - turbe  
 kiero (perverssi) - perverse  
 kierre (spiraali) - helix  
@@ -1387,8 +1390,8 @@ kiinteä - gati mate di
 kiinteä aine - gati mate  
 kiireinen (kiire) - haste  
 kiireinen - mang  
-kiitollisuus - xukurta  
-kiitos - xukur  
+kiitollisuus - xukria  
+kiitos - xukre  
 kiittää - fa xukur  
 kiivetä - fa eskale  
 kiivi (lintu) - kivi  
@@ -1440,7 +1443,6 @@ kivulias (tuskallinen) - algike
 kivunmittaus (algometria) - algometria  
 klassikko - kanon  
 klassinen (kanooninen) - kanon di  
-klassinen - preyang di  
 kloonata (monistaa) - fa klon  
 klooni (identtinen kopio) - klon  
 kloori - klor  
@@ -1606,7 +1608,7 @@ kunta (lahko, yhteisö) - sanga
 kuntosali (punttisali) -  
 kuokka - copu  
 kuolevainen - matabil  
-kuolinluettelo - nekro lista  
+kuolinluettelo - nekroliste  
 kuolla (kuolema, kuolo; kuollut, vainaa) - mata  
 kuolla - be mata  
 kuollut ruumis - mata badan  
@@ -1738,7 +1740,6 @@ lahti - baya
 lainata (siteerata) - sita  
 lainausmerkki - sita marke  
 laivakaappari - nave kape ja  
-laji (tyyppi, tyyli) - yang  
 laji - jung  
 laki (sääntö) - kanun  
 lakimies (juristi) - kanun vala  
@@ -1957,6 +1958,7 @@ lymfa - limfa
 lypsää maitoa - tire yo milke  
 lyödä (iskeä) - darba  
 lähde (kaivo) - fonte  
+lähdevesi - fonte sui  
 läheinen - proxe  
 lähestyä - be karibu  
 lähestyä - aproxe  
@@ -2199,7 +2201,7 @@ mikä? (mitä?) - ke
 mikä? (mitä?) - ke xe  
 miljardi (giga-) - giga  
 miljoona (mega-) - mega  
-millainen? - ke yang  
+millainen? - ke tipe  
 milli- - mili  
 milligramma - mili gram  
 millimetri - mili mitre  
@@ -2260,7 +2262,7 @@ muisti - memo
 muistikirja - note buku  
 muistio (muistiinmerkintä) - memo note  
 muistitekniikka - memo tehni  
-muistosanat (muistopuhe, muistokirjoitus) - nekro loga  
+muistosanat (muistopuhe, muistokirjoitus) - nekrologa  
 muistuttaa (vaikuttaa samalta) - be sam rupa  
 mukaan lukien - in klus  
 mukava (kiva, miellyttävä) - huxi  
@@ -2367,7 +2369,7 @@ nauttia (syödä, juoda) - yam
 neitseellinen (koskematon) - virge di  
 neitsyt (neitseellinen, koskematon) - virge  
 Neitsytsaaret - Virgin nesi  
-nekrofilia - nekro fili  
+nekrofilia - nekrofilia  
 neli (kiitolaukka) - nelu di galope  
 neliö - nelu gona  
 neljä (4) - nelu  
@@ -3177,8 +3179,8 @@ rutherfordium - ruterfordium
 ruukku (kannu, maljakko, karahvi) - jara  
 ruumiillinen - badan di  
 ruumiillistuma (inkarnaatio) - inkarnatike  
-ruumiinavaus (obduktio) - nekro tomi  
-ruumis (vainaja) - nekro  
+ruumiinavaus (obduktio) - nekrotomia  
+ruumis (vainaja) - nekre  
 ruusu - rode  
 ruuti - barude  
 ruuvi - vita  
@@ -3950,7 +3952,7 @@ tyttö (nuori neito) - you ni
 tytär - doh  
 Tyyni valtameri - Pace Bahai  
 tyyny - kuxen  
-tyyppi (laji, genre) - tipe  
+tyyppi (laji, genre, tyyli) - tipe  
 tyyrpuuri - nave dex  
 työ (tehtävä) - karxe  
 työkalu - kargi  
@@ -4157,7 +4159,6 @@ vastapäivään - rota leu
 vastasyntynyt - neu nati di  
 vastata - fa javabu  
 vastaus - javabu  
-vastustaa -   
 Vatikaanivaltio - Vatikan  
 vaurio (vahinko, haveri) - avar  
 vaurioitunut - avar di  
@@ -4465,6 +4466,8 @@ zulu - Zulu
 ääntää (lausua) - fonologe  
 ääntää - fa soni  
 äärettömyys (rajattomuus) - anlimite  
+öljy - nafte  
+öljylähde - nafte fonte  
 ĉampano - xampan vin  
 Šiva - xiva  
 šakaali - xakal  

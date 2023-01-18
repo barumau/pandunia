@@ -1450,8 +1450,9 @@ fon.em.|foneme||||phoneme|||fonema||||||||||||||||||äänne (foneemi)|fonem
 fon.log.|fonologe||||pronounce (articulate)|||||||||||||||||||||ääntää (lausua)|
 fon.loj.ia|fonolojia||||phonology|||fonología||||||||||||||||||fonologia (äänneoppi)|fonologia
 fon.zi|fone zi||||letter (character, written symbol)|||letra (carácter)|||||||||harf|herufi|||||||litero|kirjain|litera, znak
-font.|fonte|||por:fonte, spa:fuente, rus:фонтан (fontan), fra:fontaine, eng:fountain, jpn:噴水 (funsui)|fountain (spring, well)|||fuente (manantial)||||||||||||||||||lähde (kaivo)|fontanna (studnia, źródło)
+font.|fonte|||por:fonte, spa:fuente, rus:фонтан (fontan), fra:fontaine, eng:fountain, jpn:噴水 (funsui)|fountain (spring, well)|Quelle|source|fuente (manantial)||||||||||||泉||||||lähde (kaivo)|fontanna (studnia, źródło)
 font.kalam|fonte kalam||||fountain pen||stylo-plume|estilógrafo|caneta de tinta permanente|авторучка||||||||||钢笔||||||mustekynä|
+font.sui|fonte sui||||sping water|Quellwasser|eau de source|agua manantial|água de fonte|родниковая вода||||||||||泉水||清水||||lähdevesi|
 fonyo|fonyo|bio|Digitaria|wol:foño, bam:fini, mnk:fíndi, mku:fónĩ, ful:fonnye, swa:mfonio, eng:fra:spa:may:fonio, deu:Foniohirse, jpn:フォニオ (fonio)|fonio millet (acha rice)||fonio blanc|mijo fonio||||||||||mfonio||||フォニオ||||fonio (heinäkasvi)|
 for|for|||spa:fuera, por:fora, deu:fort + eng:far|off (away, gone, far-off)||loin (hors, parti)|lejos (fuera)||прочь (вон)||||||||||||||||pois (poissa)|
 fora|fora|||fra:forer, por:furar, eng:perforate, spa:perforar|drill (bore, perforate)||forer (percer)|taladrar (perforar)|furar (perfurar)|сверлить (бурить)||||||||||钻孔|||||taladri|porata|wiercić, borować
@@ -2317,8 +2318,8 @@ ke.loka|ke loka||||where?||où|dónde|onde|где|||||mana||nerede|wapi||||ど�
 ke.poli.di|ke poli di||||how many?|||cuántos|||||||||||||||||kiom?|montako? (paljonko?)|ile?
 ke.riti|ke riti||||how?||comment|cómo|como|как||कैसे|কিভাবে||bagaimana||nasıl|-je||怎么||どのように|어떻게||kiel?|miten?|kiedy?
 ke.sata|ke sata||||when?||quand|cuándo|quando|когда|||||kapan||ne zaman|lini||||何時|||kiam?|milloin? (koska?)|zapytać, pytać
+ke.tip.|ke tipe||||what kind of?|||qué tipo de||какой||||||||||||どんな|||kia?|millainen?|jaki?
 ke.xe|ke xe||||what thing?|||cuál cosa||||||||||||||何事|||kio?|mikä? (mitä?)|jak?
-ke.yang|ke yang||||what kind of?|||qué tipo de||какой||||||||||||どんな|||kia?|millainen?|jaki?
 kecape|kecape|||yue:茄汁 (kezap), eng:fra:spa:ketchup, por:catchup, rus:кетчуп (ketčup), jpn:ケチャップ (kechappu), kor:케첩 (kecheop), hin:केचप (kecap), ben:কেচাপ (kecap), ara: كَتْشَب‎ (katšab)|ketchup|||kétchup|||||||||||||||||keĉupo|ketsuppi|keczup
 keci|keci|||zho:客气 (kèqì), yue:客氣 (haak3 hei3), wuu:客氣 (khaq qi4)|polite|||educado||||||||||||客气|||||ĝentila|kohtelias (kiltti)|uprzejmy
 keka|keka|||zho:客 (kè), wuu:客 (ka’), jpn:客 (kyaku), kor:객 (gaek), vie:khách, tha:แขก (khæk)|visitation (visit)|||visitar|||||||||||||||||viziti|käynti (vierailu, visiitti)|wizyta
@@ -3110,6 +3111,9 @@ nadir|nadir|||ara: نَادِر‎ (nādir), fas: نادر (nâder), hin:ना�
 nadir.mar|nadir mar||||seldom (rarely)||rarement|raramente|raramente|редко||||||نَادِرًا‎||||很少|||||malofte|harvoin|rzadko
 nadir.ta|nadirta||||rarity||||||||||||||||||||||rzadkość
 nafas|nafas|||ara:fas:(nafas), may:napas, tur:nefes, hau:numfashi|breath|||respiración|||||||||||||||||spiro|hengitys (henkäys)|oddech
+naft.|nafte|||ara:نفط (nafṭ), heb:נֵּפְטְ‎ (neft), tur:aze:neft, rus:нефть (neft’), fas:نفت (naft), eng:naphtha, spa:por:nafta, jpn:ナフサ (nafusa), kor:나프타 (napeuta), may:nafta|oil|Öl|huile (pétrole)|aceite (óleo)|aceite (óleo)|масло|نفت‎|||||نَفْط‎||||油||油 (オイル)||||öljy|olej
+naft.font.|nafte fonte||||oil well|Ölquelle|puits de pétrole|pozo petrolífero|poço de petróleo|скважина|چاه نفت‎|||||بِئْر نَفْط‎||||油井|油井|油井||||öljylähde|
+naft.guku|nafte guku|bio|Chrysanthemum indicum||Indian chrysanthemum|||||||||||||||野菊花||シマカンギク (アブラギク)|||||złocień indyjski
 nagr.|nagre|||hin:नगर (nagar), ben:নগর (nôgôr), tel:నగరము (nagaramu), tam:நகரம் (nakaram), khm:អង្គរ (ʾɑngkɔɔ), tha:นคร (na-khon) + may:negara|town|||pueblo|||||||||||||||||urbo|kaupunki|miasto
 nagr.al.|nagral||||urban|städtisch (urban)|urbain|urbano|urbano|городской|شهری‎|नगर का|||||||||||||urba|urbaani (kaupunkilais-)|miejski
 nagr.gog.ia|nagre gogia||||city state|Stadtstaat|cité-état|ciudad estado|Cidade-estado|город-государство|دولت‌شهر‎|||நகர அரசு|negara kota|||||城邦||都市国家|도시 국가|||kaupunkivaltio|
@@ -3179,14 +3183,14 @@ nefr.|nefre|||eng:fra:nephro-, spa:por:nefro-, deu:Niere + rus:нефрит (nef
 nefr.alg.ia|nefralgia||||nephralgia (pain of the kidneys)|||||||||||||||||||||munuaiskipu|
 nefr.ex.tom.ia|nefrextomia||||nefrectomy|||nefrectomía||||||||||||||||||munuaisenpoistoleikkaus|nefrektomia
 nefr.itis.|nefritis||||nephritis||néphrite|nefritis|nefrite|нефрит|||||radang ginjal (nefritis)|||||肾炎||||||munuaistulehdus (nefriitti)|zapalenie nerek
-nefte|nefte|||ara:نفط (nifṭ), heb:נֵּפְטְ‎ (neft), tur:aze:neft, rus:нефть (neft’), kar:ნავთი (navti) + fas:نفت (naft), eng:naphtha, spa:por:nafta, jpn:ナフサ (nafusa), kor:나프타 (napeuta), may:nafta|oil||huile (pétrole)|aceite (óleo)|aeite (óleo)|масло||||||||||油||油 (オイル)|||||olej
-nefte.guku|nefte guku|bio|Chrysanthemum indicum|zho:油菊, jpn:アブラギク|Indian chrysanthemum|||||||||||||||野菊花||シマカンギク (アブラギク)|||||złocień indyjski
-nega|nega|||spa:por:negar, eng:negate|refuse (deny, decline)|||rechazar (negar)||||||||||||||||||kieltää|odmówić (odrzucić)
-nekro|nekro||||corpse (dead body)||cadavre (corps)|cadáver|cadáver|труп (мёртвое тело)||लाश (शव)|মৃতদেহ (লাশ)||mayat (jenazah)|جُثَّة|ceset (naaş)|mfu (maiti)||尸体||死体|시체|xác (thi thể, tử thi)|kadavro|ruumis (vainaja)|zwłoki (trup)
-nekro.fili|nekro fili||||nechrophilia||nécrophilie|necrofilia|necrofilia|некрофилия|||||||nekrofili|||恋尸癖||屍姦 (死体性愛)||||nekrofilia|
-nekro.lista|nekro lista||||necrology (listing of people who have died)|||||||||||||||||||||kuolinluettelo|
-nekro.loga|nekro loga||||obituary (necrology)||nécrologie|necrología (obituario)|obituário|некролог|||||berita duka|||||||||||muistosanat (muistopuhe, muistokirjoitus)|nekrolog
-nekro.tomi|nekro tomi||||autopsy (necrotomy)||autopsie|autopsia|autopsía|вскрытие (аутопсия)||||||||||尸检||検視|검시 (부검)||obdukcio (nekropsio)|ruumiinavaus (obduktio)|sekcja zwłok (obdukcja)
+neg-de.|• denege||||deny (refuse, reject, turn away)||dénier|denegar|denegar|||||||||||||||||kieltää (evätä)|odmówić (odrzucić)
+neg.|nege|||eng:negate, deu:negieren, fra:nier; négatif, spa:por:negar, rus:негативный (negativniy)|deny (negate)|negieren (verneinen)|nier|rechazar (negar)||||||||||||||||||kieltää (kiistää)|negować
+neg.at.iv.|negative||||negative|negativ|négatif|negativo|negativo|негативный|||||||olumsuz|||||||||kielteinen (negatiivinen)|
+nekr.|nekre|||eng:spa:por:necro-, fra:nécro-, deu:nekro-, rus:некро- (nekro-)|corpse (dead body)||cadavre (corps)|cadáver|cadáver|труп (мёртвое тело)||लाश (शव)|মৃতদেহ (লাশ)||mayat (jenazah)|جُثَّة|ceset (naaş)|mfu (maiti)||尸体||死体|시체|xác (thi thể, tử thi)|kadavro|ruumis (vainaja)|zwłoki (trup)
+nekr.fil.ia|nekrofilia||||nechrophilia||nécrophilie|necrofilia|necrofilia|некрофилия|||||||nekrofili|||恋尸癖||屍姦 (死体性愛)||||nekrofilia|
+nekr.list-|nekroliste||||necrology (listing of people who have died)|||||||||||||||||||||kuolinluettelo|
+nekr.loga|nekrologa||||obituary (necrology)||nécrologie|necrología (obituario)|obituário|некролог|||||berita duka|||||||||||muistosanat (muistopuhe, muistokirjoitus)|nekrolog
+nekr.tom.ia|nekrotomia||||autopsy (necrotomy)||autopsie|autopsia|autopsía|вскрытие (аутопсия)||||||||||尸检||検視|검시 (부검)||obdukcio (nekropsio)|ruumiinavaus (obduktio)|sekcja zwłok (obdukcja)
 nelu|nelu|nomer|4|kor:넷 (net) + swa:nne, zul:ne, + mal:നാലു (nālu), tel:నాలుగు (nālugu), kan:ನಾಲ್ಕು (nālku) + fin:neljä, est:neli, hun:négy|four (4)||quatre (4)|cuatro (4)|quatro (4)|четыре (4)||||||||||四 (4)||四 (4)|||kvar (4)|neljä (4)|cztery (4)
 nelu.di.galope|nelu di galope||||gallop|||||||||||||||||||||neli (kiitolaukka)|
 nelu.gona|nelu gona||||square (tetragon)|||cuadro||||||||||||||||||neliö|kwadrat (czworokąt, czworobok, tetragon)
@@ -3217,7 +3221,7 @@ neu.Kaledonia|neu Kaledonia|dexa|NC||New Caledonia|||Nueva Caledonia||||||||||||
 neu.loga|neu loga||||neologism||néologisme|neologismo|neologismo|неологизм|||||||yenici deyim|||新词||新語 (新造語)|신어 (신조어)||neologismo|uudissana|neologizm
 neu.nati.di|neu nati di||||newborn (neonatal)|neugeboren|nouveau-né|neonato (recién nacido)|recém-nascido (neonato)|новорождённый|نوزاد‎||||||yenidoğan|||新生||新生の|신생의 (갓 난)|mới sinh|novnaskita|vastasyntynyt|
 neu.ta|neuta||||newness||nouveauté|novedad|novidade|новизна|||||||yenilik||||||||noveco|uutuus|
-neu.yang.di|neu yang di||||modern|||moderno||||||||||||||近代的|||||nowoczesne
+neu.tip.di|neu tipe di||||modern|||moderno||||||||||||||近代的|||||nowoczesne
 neu.Yorke|neu Yorke||||New York||||||||||||||||||||||Nowy Jork
 neu.Yorke.siti|neu Yorke siti|site|US||New York City||||||||||||||||||||||Stan Nowy Jork
 neu.Zelande|neu Zelande|dexa|NZ||New Zealand|||Nueva Zelanda||||||||||||||||||Uusi-Seelanti|Nowa Zelandia
@@ -3525,7 +3529,7 @@ pesa.plan|pesa plan||||budget|||presupuesto|||||||||||||||||buĝeto|budjetti|bud
 peta|peta|nomer||eng:fra:spa:por:may:tur:peta-, rus:пета- (peta-), jpn:ペタ (peta), kor:페타- (peta-), zho:拍它- (pāitā-)|peta-||||||||||||||||||||tuhat biljoonaa (peta-)|peta-|
 pete|pete|bode||ben:পেট (peṭ), hin:पेट (peṭ), may:perut, ara:(baṭn)|belly (stomach, abdomen)|||barriga (vientre, panza)||||पेट (उदर)|পেট||perut||||||||||ventro|maha (vatsa)|brzuch
 petra|petra|||hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra, fra:pierre|rock||roche (pierre)|roca (piedra)|rocha (pedra)|горная порода|||पत्थर||||||||||石 (岩)|岩石|roko|kallio (kivi)|skała
-petra.nefte|petra nefte||||petroleum||pétrole (essence)|petróleo|petróleo|нефть||||||||||石油||石油|||||ropa naftowa
+petra.nafte|petra nafte||||petroleum||pétrole (essence)|petróleo|petróleo|нефть||||||||||石油||石油|||||ropa naftowa
 pexe|pexe|bio||spa:pez, por:peixe, ita:pesce + eng:fish, deu:Fisch|fish||poisson|pez (pescado)|peixe|рыба||मछली|মাছ||ikan|سَمَك‎|balık|samaki||鱼||魚|물고기|cá|fiŝo|kala|ryba
 pexe.huke|pexe huke||||fishhook||hameçon|hamo (anzuelo)|anzol|крючок|||||mata kail|||||鱼钩||釣り針|낚시|móc câu|fiŝhoko|ongenkoukku|haczyk
 pexe.saide.ja|pexe saide ja||||fisher||pêcheur|pescador|pescador|рыбак (рыболов)||||||صياد‎|balıkçı|||鱼夫||漁師|낚시꾼 (어부)||fiŝkaptisto|kalastaja|rybak
@@ -4320,7 +4324,7 @@ tik.|tike|||fas: تکه (tekke), hin:टिक्का (ṭikkā) + eng:deu:tic
 tik.et.|tikete||||tag (ticket, label, slip, note)||billet|etiqueta (boleto, billete)|bilhete|билет||टिकट (लेबुल)|||tiket (etiket, label)||etiket (bilet)|||票||札||||lippu (piletti)|bilet
 tim|tim|||eng:team, deu:Team, swa:timu, fas: تیم‎ (tim), hin:टीम (ṭīm), ben:টীম (ṭim), jpn:チーム (chīmu), kor:팀 (tim)|team|Team|équipe|equipo||команда||||||||||队||チーム|팀|||joukkue (tiimi)|drużyna
 Timor|Timor|dexa|||Timor|||Timor||||||||||||||||||Timor|Timor
-tip.|tipe|||eng:fra:type, spa:por:tipo, ru:тип (tip), tur:tip, jpn:タイプ (taipu)|type (kind, genre)|||tipo (género)||||||||||||||種類||||tyyppi (laji, genre)|typ (rodzaj, gatunek)
+tip.|tipe|||eng:fra:type, spa:por:tipo, ru:тип (tip), tur:tip, jpn:タイプ (taipu)|type (kind, sort, style, genre)|||variedad (tipo, estilo)||||||||||||||種類|||speco (tipo, stilo)|tyyppi (laji, genre, tyyli)|typ (rodzaj, gatunek, styl)
 tipi|tipi|||deu:Tipi, eng:fra:spa:por:may:tur:tipi, hin:टीपी (tipi), zho:梯皮 (tīpí), jpn:ティピー (tipi), kor:티피 (tipi)|tipi (teepee)|Tipi|tipi|tipi||||||||||||梯皮||||||kota (tiipii)|tipi
 tire|tire|||spa:por:tirar, fra:tirer, eng:tear, tur:tire, may:tarik|pull|||tirar|||||||||||||||||tiri|vetää|ciągnąć
 tire.dara|tire dara||||rip current|||corriente de resaca||отбойное течение||||||||||||離岸流|||||prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)
@@ -4719,8 +4723,8 @@ xoke|xoke|||eng:nld:shock, fra:choc, spa:por:choque, tur:şok, may:syok + zho:�
 xopi|xopi|||eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼핑 (syoping), tha:ชอปปิ้ง (chop-bing), rus:шоппинг (šopping), zho:血拼 (xuèpīn)|shopping||shopping|compras (shopping)|compras|покупка (шоппинг)||||||||||购物 (血拼)||||||ostokset|zakupy (sprawunki, shopping)
 xopi.ja|xopi ja||||buyer|||comprador|||||||||||||||||aĉetanto (aĉetisto)|ostaja|nabywca (kupiec)
 xou|xou|||eng:deu:fra:spa:por:show, rus:шоу (šou), tur:şov, swa:shoo, tha:โชว์ (choo), kor:쇼 (syo), jpn:ショー (shō), zho:秀 (xiù)|show (display, exhibition, demonstration, demo)|||exposición (espectáculo)|||||||||||||||||montri (ekspozicii)|näytös (esitys, show)|pokaz, ekspozycja, wystawa
-xukur|xukur|||ara: شُكْر‎ m (šukr), hin:शुक्र (śukr), ben:শোকর (śokôr), swa:-shukuru, tur:şükür|thanks (thank you)||merci|gracias|obrigado|спасибо||धन्यवाद (शुक्रिया)|ধন্যবাদ (শুকরিয়া)||terima kasih|شُكْرًا|teşekkürler|asante (shukrani)||谢谢||ありがとう (どうも)|고마워|cám ơn|danko|kiitos|dzięki, dzięki ci
-xukur.ta|xukurta||||gratitude||gratitude|gratitud|gratidão|благодарность||||||||ushukuru||谢意|||||dankemo|kiitollisuus|wdzięczność
+xukr.|xukre|||ara: شُكْر‎ m (šukr), hin:शुक्र (śukr), ben:শোকর (śokôr), swa:-shukuru, tur:şükür|thanks (thank you)||merci|gracias|obrigado|спасибо||धन्यवाद (शुक्रिया)|ধন্যবাদ (শুকরিয়া)||terima kasih|شُكْرًا|teşekkürler|asante (shukrani)||谢谢||ありがとう (どうも)|고마워|cám ơn|danko|kiitos|dzięki, dzięki ci
+xukr.ia|xukria||||gratitude||gratitude|gratitud|gratidão|благодарность||||||||ushukuru||谢意|||||dankemo|kiitollisuus|wdzięczność
 xula|xula||||education (schooling)||éducation|educación|educação|образование||शिक्षा|শিক্ষা|||تَعْلِيم||elimu||教育||教育||||koulutus|
 xula.guru|xula guru||||schoolteacher||professeur (enseignant)|maestro (profesor, docente)|professor (docente)|учитель||शिक्षक (अध्यापक, टीचर, गुरु)|ওস্তাদ (মুয়াল্লিম, শিক্ষক)||pengajar (guru)|مُدَرِّس‎|öğretmen (muallim)|mwalimu||教师 (老师)||先生 (教師)|선생 (교사)|giáo viên|instruisto|opettaja|nauczyciel
 xula.ja|xula ja||||student (pupil, learner)||étudiant|estudiante||||विद्यार्थी|ছাত্র (তালিব)||pelajar (murid)|طَالِب‎|öğrenci|mwanafunzi||学生||学生|학생|học sinh (sinh viên)|studento (lernanto)|oppilas|uczeń, student
@@ -4750,8 +4754,7 @@ yam.yau|yam yau||||hunger||faim|hambre|fome|голод||भूख|ক্ষু�
 yama|yama|bio|Linum|zho:亚麻 (yàmá), yue:亞麻 (aa3maa4), jpn:亜麻 (ama), kor:아마 (ama), hin:उमा (umā)|flax (linen)|Flachs (Lein)|lin|lino|linho|лён|کتان‎|अलसी (उमा)|তিসি||flaks|كَتَّان‎|keten|katani||亚麻|亞麻|亜麻|아마|lanh|lino|pellava|
 yama.seme|yama seme||||linseed||graine de lin|linaza|linhaça|льняное семя||||||بَذْر الْكَتَّان‎||||亚麻籽||||||pellavansiemen|
 yama.tela|yama tela||||linen fabric|Leinen||||||||||||||||||||pellavakangas|
-yang|yang|||zho:样 (yàng), tha:อย่าง (yàang), khm:យ៉ាង (yaang)|kind (style, sort, type)|||variedad (tipo, estilo)||||||||||||||タイプ|||speco (tipo, stilo)|laji (tyyppi, tyyli)|rodzaj, typ, styl
-yang-pre.di|preyang di||||classic (classical)|||clásico||||||||||||||古典的||||klassinen|klasyczny
+yang|yang|||zho:阳 (yáng), yue:陽 (joeng4), jpn:陽 (yō), kor:양 (yang), vie:dương, eng:deu:fra:spa:por:yang, rus:ян (yan)|yang (positive, bright, living, hard, masculine)|||||||||||||||阳|陽|陽|양|dương||jang (positiivinen, kirkas, valo, elävä, luja, maskuliininen)|
 Yapetus|Yapetus|planeta 6 lun 8|||Iapetus|||||||||||||||||||||Japetus|
 yatim|yatim|||ara:fas:(yatim), tur:yetim, swa:yatima, hin:यतीम (yatīm)|orphan|||huérfano||||||||||||||||||orpo|sierota
 yatim.dom|yatim dom||||orphanage||orphelinat|orfanato|orfanato|детский дом|||||||yetimhane|||孤儿院||||||orpokoti|sierociniec, dom dziecka
@@ -4781,6 +4784,8 @@ Yesa|Yesa|din|||Jesus||Jésus|Jesús||Иисус||||||||||耶稣|||||Jesuo|Jeesu
 Yesa.Mesi|Yesa Mesi||||Jesus Christ||Jésus-Christ|Jesucristo|Jesus Cristo|Иисус Христос||ईसा मसीह|যিশু খ্রিস্ট||Yesus Kristus|يَسُوع الْمَسِيح‎|İsa Mesih|Yesu Kristo||耶稣基督||イエス・キリスト|예수 그리스도|Chúa Giê-su Ki-tô|Jesuo Kristo|Jeesus Kristus|Jezus Chrystus
 Yesa.sanga|Yesa sanga||||Jesuits (Society of Jesus)|Jesuiten||||иезуитский орден||||||||||耶稣会|耶穌會||예수회|||jesuiittaveljeskunta|
 yezi|yezi|bio|Cocos nucifera|zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)|coconut tree|||coco|||||||||||||||||kokoso|kookos|kokos
+yim|yim|||zho:阴 (yīn), yue:陰 (jam1), jpn:陰 (in), kor:음 (eum), vie:âm, eng:deu:fra:spa:por:yin, rus:инь (in')|yin (negative, dark, ghostly, soft, feminine)|||||||||||||||阴|陰|陰|음|âm||jin (negatiivinen, hämärä, varjo, aave-, pehmeä, feminiininen)|
+yim.yang|yim yang||||yin-yang|Yin und Yang|yin-yang|yin-yang|yin-yang|инь и ян||यिन यांग||||يِين وَيَانْغ‎||||阴阳|陰陽|陰陽|음양|âm dương||jin-jang (jin ja jang)|
 yo|yo|||zho:有 (yǒu), yue:有 (jau5)|some (one)|||algún||||||||||||||何分の|||iu|jokin (joku)|jakiś
 yo.jen|yo jen||||someone (somebody)|||algién|||||||||||||||||iu persono|joku|ktoś
 yo.sata|yo sata||||sometime|||algún día (algún vez)|||||||||||||||||iam|joskus|sometime
@@ -4855,6 +4860,3 @@ zuku.di|zuku di||||ethnic||ethnique|étnico|étnico|этнический|||||||e
 zuku.medi.di|zuku medi di||||interethnic|||interétnica||межэтнический|||||||||||||||interetna|kansanryhmien välinen|międzyetniczny
 Zulu|Zulu||||Zulu||zoulou|zulú||зулус|||||||||||||||zuluo|zulu|zulu
 zumarde|zumarde|||eng:emerald, fra:émeraude, spa:por:esmeralda, jpn:エメラルド (emerarudo) + ara: زُمُرُّد‎ (zumurrud), swa:zumaridi, may:zamrud, rus:изумруд (izumrud), zho:祖母绿 (zǔmǔlǜ)|emerald||émeraude|esmeralda|esmeralda|изумруд||पन्ना (मरकत)|||zamrud||zümrüt|zumaridi||绿宝石 (祖母绿)|||||smeraldo|smaragdi|szmaragd
-|||||advance (progress, go forward, enter)|||avanzar (entrar, adelantar, progresar)||||||||||||||||||edetä (edistyä)|posuwać się do przodu (dokonywać postępu, wejść)
-|||||put forward (advance, progress)|||||||||||||||||||||edistää|
-|||||oppose (antagonize, object, resist)||s'opposer à|oponerse (resistir)|opor|противостоять||||||||||||||||vastustaa|sprzeciwiać się (opierać się)

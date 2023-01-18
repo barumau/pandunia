@@ -1049,6 +1049,7 @@
 **nabi** *näky (profetia)* ← arabia: نَبِيّ‎ (nabiy), persia: نبی‎ (nabi), hindi:नबी (nabī), bangla:নবী (nôbi), malaiji:nabi, turkki:nebi, suahili:nabii, fulani:hausa:annabi, amhara:ነቢይ (näbiy), som:nebi  
 **nadir** *harvinainen* ← arabia: نَادِر‎ (nādir), persia: نادر (nâder), hindi:नादिर (nādir), suahili:nadra, turkki:nadir  
 **nafas** *hengitys (henkäys)* ← arabia:persia:(nafas), malaiji:napas, turkki:nefes, hausa:numfashi  
+**nafte** *öljy* ← arabia:نفط (nafṭ), heb:נֵּפְטְ‎ (neft), turkki:aze:neft, venäjä:нефть (neft’), persia:نفت (naft), englanti:naphtha, espanja:portugali:nafta, japani:ナフサ (nafusa), korea:나프타 (napeuta), malaiji:nafta  
 **nagre** *kaupunki* ← hindi:नगर (nagar), bangla:নগর (nôgôr), telugu:నగరము (nagaramu), tamili:நகரம் (nakaram), khmer:អង្គរ (ʾɑngkɔɔ), thai:นคร (na-khon) + malaiji:negara  
 **nahun** *kynsi* ← persia:ناخن‎ (nâxon), hindi:नाख़ुन m (nāxun), bangla:নখ (nôkh), pan:नख (nakh), venäjä:нога́ (nogá)  
 **najis** ** ← arabia:نجس (najis), malaiji:najis, suahili:najisi, persia:نجس (najes) + englanti:najis, venäjä:наджаса (nadžasa)  
@@ -1067,9 +1068,8 @@
 **nave** *vene (laiva)* ← ranska:navire, espanja:nave, portugali:navio, persia: ناو‎ (nâv), hindi:नाव (nāv)  
 **ne** ** ← portugali:né, hindi:न (na), yleiskiina:呢 (ne), japani:ね (ne), vietnami:nhé  
 **nefre** *munuainen* ← englanti:ranska:nephro-, espanja:portugali:nefro-, deu:Niere + venäjä:нефрит (nefrit)  
-**nefte guku** ** ← yleiskiina:油菊, japani:アブラギク  
-**nefte** ** ← arabia:نفط (nifṭ), heb:נֵּפְטְ‎ (neft), turkki:aze:neft, venäjä:нефть (neft’), kar:ნავთი (navti) + persia:نفت (naft), englanti:naphtha, espanja:portugali:nafta, japani:ナフサ (nafusa), korea:나프타 (napeuta), malaiji:nafta  
-**nega** *kieltää* ← espanja:portugali:negar, englanti:negate  
+**nege** *kieltää (kiistää)* ← englanti:negate, deu:negieren, ranska:nier; négatif, espanja:portugali:negar, venäjä:негативный (negativniy)  
+**nekre** *ruumis (vainaja)* ← englanti:espanja:portugali:necro-, ranska:nécro-, deu:nekro-, venäjä:некро- (nekro-)  
 **nelu** *neljä (4)* ← korea:넷 (net) + suahili:nne, zulu:ne, + malayalam:നാലു (nālu), telugu:నాలుగు (nālugu), kannada:ನಾಲ್ಕು (nālku) + fin:neljä, est:neli, unkari:négy  
 **nen mes den** *päivämäärä* ← yleiskiina:年月日 (niányuèrì), japani:年月日 (nengappi), korea:연월일 (yeonworil)  
 **nen** *vuosi* ← yleiskiina:年 (nián), kantoninkiina:年 (nin4), japani:年 (nen), korea:년 (nyeon), vietnami:năm,niên  
@@ -1475,7 +1475,7 @@
 **ticin** *jousisoitin* ← yleiskiina:提琴 (tíqín), kantoninkiina:提琴 (tai4 kam4), wu-kiina:提琴 (di jin3), japani:提琴 (teikin)  
 **tike** *pala* ← persia: تکه (tekke), hindi:टिक्का (ṭikkā) + englanti:deu:ticket, malaiji:tiket, bangla:টিকিট (ṭikiṭ), amharabia:ቲኬት (tiket), korea:티켓 (tiket), japani:チケット (chiketto)  
 **tim** *joukkue (tiimi)* ← englanti:team, deu:Team, suahili:timu, persia: تیم‎ (tim), hindi:टीम (ṭīm), bangla:টীম (ṭim), japani:チーム (chīmu), korea:팀 (tim)  
-**tipe** *tyyppi (laji, genre)* ← englanti:ranska:type, espanja:portugali:tipo, ru:тип (tip), turkki:tip, japani:タイプ (taipu)  
+**tipe** *tyyppi (laji, genre, tyyli)* ← englanti:ranska:type, espanja:portugali:tipo, ru:тип (tip), turkki:tip, japani:タイプ (taipu)  
 **tipi** *kota (tiipii)* ← deu:Tipi, englanti:ranska:espanja:portugali:malaiji:turkki:tipi, hindi:टीपी (tipi), yleiskiina:梯皮 (tīpí), japani:ティピー (tipi), korea:티피 (tipi)  
 **tire** *vetää* ← espanja:portugali:tirar, ranska:tirer, englanti:tear, turkki:tire, malaiji:tarik  
 **tis** *tulehdus* ← englanti:espanja:-itis, ranska:portugali:-ite, venäjä:-ит (-it)  
@@ -1630,7 +1630,7 @@
 **xoke** *isku (šokki)* ← englanti:nld:shock, ranska:choc, espanja:portugali:choque, turkki:şok, malaiji:syok + yleiskiina:冲击 (chōngjī), kantoninkiina:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), japani:衝撃 (shōgeki)  
 **xopi** *ostokset* ← englanti:ranska:espanja:shopping, japani:ショッピング (shoppingu), korea:쇼핑 (syoping), thai:ชอปปิ้ง (chop-bing), venäjä:шоппинг (šopping), yleiskiina:血拼 (xuèpīn)  
 **xou** *näytös (esitys, show)* ← englanti:deu:ranska:espanja:portugali:show, venäjä:шоу (šou), turkki:şov, suahili:shoo, thai:โชว์ (choo), korea:쇼 (syo), japani:ショー (shō), yleiskiina:秀 (xiù)  
-**xukur** *kiitos* ← arabia: شُكْر‎ m (šukr), hindi:शुक्र (śukr), bangla:শোকর (śokôr), suahili:-shukuru, turkki:şükür  
+**xukre** *kiitos* ← arabia: شُكْر‎ m (šukr), hindi:शुक्र (śukr), bangla:শোকর (śokôr), suahili:-shukuru, turkki:şükür  
 **xulakan** *koulu (opisto)* ← yleiskiina:学 (xué) + deu:Schule, suahili:shule + englanti:school, ranska:école, espanja:escuela, portugali:escola, venäjä:школа (škola), bangla:স্কুল (śkul), malaiji:sekolah + hindi:पाठशाला (pāṭhśālā), marathi:शाळा (śāḷā), tamili:பாடசாலை (pāṭasālai)  
 **xuli** *korjaus* ← yleiskiina:修理 (xiūlǐ), japani:修理 (shuri), korea:수리 (suri)  
 **xuru** *alku* ← arabia: شُرُوع‎ (šurūʿ), persia: شروع (šoru') , hindi:शुरू (śurū), bangla:শুরু (śuru) + yleiskiina:始 (shǐ), japani:始 (kaishi), korea:시 (shi)  
@@ -1640,7 +1640,7 @@
 **yaki** *noin (arviolta, suunnilleen)* ← korea:약 (yak), japani:約 (yaku), kantoninkiina:約 (yœk), turkki:yaklaşık, yleiskiina:约 (yuē)  
 **yam** *nauttia (syödä, juoda)* ← khmer:ញ៉ាំ (nyam), fulani:nyami, + espanja:ñam, venäjä:ням (nyam), italia:gnam, englanti:yum, korea:냠냠 (nyamnyam), unkari:nyam  
 **yama** *pellava* ← yleiskiina:亚麻 (yàmá), kantoninkiina:亞麻 (aa3maa4), japani:亜麻 (ama), korea:아마 (ama), hindi:उमा (umā)  
-**yang** *laji (tyyppi, tyyli)* ← yleiskiina:样 (yàng), thai:อย่าง (yàang), khmer:យ៉ាង (yaang)  
+**yang** *jang (positiivinen, kirkas, valo, elävä, luja, maskuliininen)* ← yleiskiina:阳 (yáng), kantoninkiina:陽 (joeng4), japani:陽 (yō), korea:양 (yang), vietnami:dương, englanti:deu:ranska:espanja:portugali:yang, venäjä:ян (yan)  
 **yatim** *orpo* ← arabia:persia:(yatim), turkki:yetim, suahili:yatima, hindi:यतीम (yatīm)  
 **yau** *tarvita* ← yleiskiina:要 (yāo), kantoninkiina:要 (jiu1), wu-kiina:要 (yo1), japani:要 (yō), vietnami:yêu  
 **ye** *tämä* ← korea:이 (i) + bangla:এ (e), hindi:यह (ye) + telugu:ఈ (ī), tamili:இது (itu) + yoruba:yìí  
@@ -1650,6 +1650,7 @@
 **yen** *silmä* ← yleiskiina:眼 (yǎn) + arabia: عَيْن‎ (ʿayn), egyptinarabia: عين‎ (ʕēn), amhara:ዐይን (ʿäyn), malaiji:ain, ranska:yeux  
 **yepa** *lehti (arkki, levy)* ← yleiskiina:叶 (yè), kantoninkiina:葉 (jip6), korea:잎 (ip);엽 (yeop), vietnami:diệp, japani:葉 (yō)  
 **yezi** *kookos* ← yleiskiina:椰子 (yēzi), kantoninkiina:椰子 (ye4zi2), korea:야자 (yaja), japani:椰子 (yashi)  
+**yim** *jin (negatiivinen, hämärä, varjo, aave-, pehmeä, feminiininen)* ← yleiskiina:阴 (yīn), kantoninkiina:陰 (jam1), japani:陰 (in), korea:음 (eum), vietnami:âm, englanti:deu:ranska:espanja:portugali:yin, venäjä:инь (in')  
 **yo** *jokin (joku)* ← yleiskiina:有 (yǒu), kantoninkiina:有 (jau5)  
 **yoga** *jooga* ← hindi:योग (yog), pandzabi:ਯੋਗ (yog), urdu:(yog), bangla:যোগ (jog), telugu:యోగా (yōgā), thai:โยคะ (yōga), englanti:ranska:espanja:malaiji:turkki:yoga, portugali:ioga, venäjä:йога (yoga), yleiskiina:瑜伽 (yújiā), japani:ヨーガ (yōga), korea:요가 (yoga)  
 **yogo** *ies* ← englanti:yoke, espanja:yugo, portugali:jugo, ranska:joug, venäjä:иго (igo), persia:  یوغ‎ (yuğ) + kantoninkiina:軛 (aak1), vietnami:ách  

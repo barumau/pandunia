@@ -1463,6 +1463,7 @@ fonolojia - fonologia
 fone zi - litera, znak  
 fonte - fontanna (studnia, źródło)  
 fonte kalam -   
+fonte sui -   
 fonyo -   
 for -   
 fora - wiercić, borować  
@@ -2337,8 +2338,8 @@ ke loka - gdzie?
 ke poli di - ile?  
 ke riti - kiedy?  
 ke sata - zapytać, pytać  
+ke tipe - jaki?  
 ke xe - jak?  
-ke yang - jaki?  
 kecape - keczup  
 keci - uprzejmy  
 keka - wizyta  
@@ -3134,6 +3135,9 @@ nadir -
 nadir mar - rzadko  
 nadirta - rzadkość  
 nafas - oddech  
+nafte - olej  
+nafte fonte -   
+nafte guku - złocień indyjski  
 nagre - miasto  
 nagral - miejski  
 nagre gogia -   
@@ -3202,14 +3206,14 @@ nefre - nerka
 nefralgia -   
 nefrextomia - nefrektomia  
 nefritis - zapalenie nerek  
-nefte - olej  
-nefte guku - złocień indyjski  
-nega - odmówić (odrzucić)  
-nekro - zwłoki (trup)  
-nekro fili -   
-nekro lista -   
-nekro loga - nekrolog  
-nekro tomi - sekcja zwłok (obdukcja)  
+• denege - odmówić (odrzucić)  
+nege - negować  
+negative -   
+nekre - zwłoki (trup)  
+nekrofilia -   
+nekroliste -   
+nekrologa - nekrolog  
+nekrotomia - sekcja zwłok (obdukcja)  
 nelu - cztery (4)  
 nelu di galope -   
 nelu gona - kwadrat (czworokąt, czworobok, tetragon)  
@@ -3240,7 +3244,7 @@ neu Kaledonia - Nowa Kaledonia
 neu loga - neologizm  
 neu nati di -   
 neuta -   
-neu yang di - nowoczesne  
+neu tipe di - nowoczesne  
 neu Yorke - Nowy Jork  
 neu Yorke siti - Stan Nowy Jork  
 neu Zelande - Nowa Zelandia  
@@ -3552,7 +3556,7 @@ pesa plan - budżet
 peta -   
 pete - brzuch  
 petra - skała  
-petra nefte - ropa naftowa  
+petra nafte - ropa naftowa  
 pexe - ryba  
 pexe huke - haczyk  
 pexe saide ja - rybak  
@@ -4350,7 +4354,7 @@ tike - tikka
 tikete - bilet  
 tim - drużyna  
 Timor - Timor  
-tipe - typ (rodzaj, gatunek)  
+tipe - typ (rodzaj, gatunek, styl)  
 tipi - tipi  
 tire - ciągnąć  
 tire dara - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
@@ -4755,8 +4759,8 @@ xoke - szokwstrząs; kolizja
 xopi - zakupy (sprawunki, shopping)  
 xopi ja - nabywca (kupiec)  
 xou - pokaz, ekspozycja, wystawa  
-xukur - dzięki, dzięki ci  
-xukurta - wdzięczność  
+xukre - dzięki, dzięki ci  
+xukria - wdzięczność  
 xula -   
 xula guru - nauczyciel  
 xula ja - uczeń, student  
@@ -4788,8 +4792,7 @@ yam yau - głód
 yama -   
 yama seme -   
 yama tela -   
-yang - rodzaj, typ, styl  
-preyang di - klasyczny  
+yang -   
 Yapetus -   
 yatim - sierota  
 yatim dom - sierociniec, dom dziecka  
@@ -4819,6 +4822,8 @@ Yesa - Jezus
 Yesa Mesi - Jezus Chrystus  
 Yesa sanga -   
 yezi - kokos  
+yim -   
+yim yang -   
 yo - jakiś  
 yo jen - ktoś  
 yo sata - sometime  
@@ -4895,6 +4900,3 @@ zuku di - etniczny
 zuku medi di - międzyetniczny  
 Zulu - zulu  
 zumarde - szmaragd  
- - posuwać się do przodu (dokonywać postępu, wejść)  
- -   
- - sprzeciwiać się (opierać się)  

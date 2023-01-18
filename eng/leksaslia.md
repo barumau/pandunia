@@ -1049,6 +1049,7 @@
 **nabi** *prophecy (prophesy, prophetize)* ← Arabic: نَبِيّ‎ (nabiy), Persian: نبی‎ (nabi), Hindi:नबी (nabī), Bengali:নবী (nôbi), Malay:nabi, Turkish:nebi, Swahili:nabii, Fulani:Hausa:annabi, Amharic:ነቢይ (näbiy), som:nebi  
 **nadir** *rare (scarce, sparse, uncommon)* ← Arabic: نَادِر‎ (nādir), Persian: نادر (nâder), Hindi:नादिर (nādir), Swahili:nadra, Turkish:nadir  
 **nafas** *breath* ← Arabic:Persian:(nafas), Malay:napas, Turkish:nefes, Hausa:numfashi  
+**nafte** *oil* ← Arabic:نفط (nafṭ), heb:נֵּפְטְ‎ (neft), Turkish:aze:neft, Russian:нефть (neft’), Persian:نفت (naft), English:naphtha, Spanish:Portuguese:nafta, Japanese:ナフサ (nafusa), Korean:나프타 (napeuta), Malay:nafta  
 **nagre** *town* ← Hindi:नगर (nagar), Bengali:নগর (nôgôr), Telugu:నగరము (nagaramu), Tamil:நகரம் (nakaram), Khmer:អង្គរ (ʾɑngkɔɔ), Thai:นคร (na-khon) + Malay:negara  
 **nahun** *nail (fingernail)* ← Persian:ناخن‎ (nâxon), Hindi:नाख़ुन m (nāxun), Bengali:নখ (nôkh), pan:नख (nakh), Russian:нога́ (nogá)  
 **najis** *corruption (filth, pollution, contamination, najis)* ← Arabic:نجس (najis), Malay:najis, Swahili:najisi, Persian:نجس (najes) + English:najis, Russian:наджаса (nadžasa)  
@@ -1067,9 +1068,8 @@
 **nave** *boat (ship)* ← French:navire, Spanish:nave, Portuguese:navio, Persian: ناو‎ (nâv), Hindi:नाव (nāv)  
 **ne** *right? (isn't it?)* ← Portuguese:né, Hindi:न (na), Mandarin:呢 (ne), Japanese:ね (ne), Vietnamese:nhé  
 **nefre** *kidney* ← English:French:nephro-, Spanish:Portuguese:nefro-, deu:Niere + Russian:нефрит (nefrit)  
-**nefte guku** *Indian chrysanthemum* ← Mandarin:油菊, Japanese:アブラギク  
-**nefte** *oil* ← Arabic:نفط (nifṭ), heb:נֵּפְטְ‎ (neft), Turkish:aze:neft, Russian:нефть (neft’), kar:ნავთი (navti) + Persian:نفت (naft), English:naphtha, Spanish:Portuguese:nafta, Japanese:ナフサ (nafusa), Korean:나프타 (napeuta), Malay:nafta  
-**nega** *refuse (deny, decline)* ← Spanish:Portuguese:negar, English:negate  
+**nege** *deny (negate)* ← English:negate, deu:negieren, French:nier; négatif, Spanish:Portuguese:negar, Russian:негативный (negativniy)  
+**nekre** *corpse (dead body)* ← English:Spanish:Portuguese:necro-, French:nécro-, deu:nekro-, Russian:некро- (nekro-)  
 **nelu** *four (4)* ← Korean:넷 (net) + Swahili:nne, Zulu:ne, + Malayalam:നാലു (nālu), Telugu:నాలుగు (nālugu), Kannada:ನಾಲ್ಕು (nālku) + fin:neljä, est:neli, Hungarian:négy  
 **nen mes den** *date* ← Mandarin:年月日 (niányuèrì), Japanese:年月日 (nengappi), Korean:연월일 (yeonworil)  
 **nen** *year* ← Mandarin:年 (nián), Cantonese:年 (nin4), Japanese:年 (nen), Korean:년 (nyeon), Vietnamese:năm,niên  
@@ -1475,7 +1475,7 @@
 **ticin** *bow instrument (violin, etc.)* ← Mandarin:提琴 (tíqín), Cantonese:提琴 (tai4 kam4), Wu-Chinese:提琴 (di jin3), Japanese:提琴 (teikin)  
 **tike** *slip (shred, tikka)* ← Persian: تکه (tekke), Hindi:टिक्का (ṭikkā) + English:deu:ticket, Malay:tiket, Bengali:টিকিট (ṭikiṭ), Amharic:ቲኬት (tiket), Korean:티켓 (tiket), Japanese:チケット (chiketto)  
 **tim** *team* ← English:team, deu:Team, Swahili:timu, Persian: تیم‎ (tim), Hindi:टीम (ṭīm), Bengali:টীম (ṭim), Japanese:チーム (chīmu), Korean:팀 (tim)  
-**tipe** *type (kind, genre)* ← English:French:type, Spanish:Portuguese:tipo, ru:тип (tip), Turkish:tip, Japanese:タイプ (taipu)  
+**tipe** *type (kind, sort, style, genre)* ← English:French:type, Spanish:Portuguese:tipo, ru:тип (tip), Turkish:tip, Japanese:タイプ (taipu)  
 **tipi** *tipi (teepee)* ← deu:Tipi, English:French:Spanish:Portuguese:Malay:Turkish:tipi, Hindi:टीपी (tipi), Mandarin:梯皮 (tīpí), Japanese:ティピー (tipi), Korean:티피 (tipi)  
 **tire** *pull* ← Spanish:Portuguese:tirar, French:tirer, English:tear, Turkish:tire, Malay:tarik  
 **tis** *inflammation (-itis)* ← English:Spanish:-itis, French:Portuguese:-ite, Russian:-ит (-it)  
@@ -1630,7 +1630,7 @@
 **xoke** *shock (collision)* ← English:nld:shock, French:choc, Spanish:Portuguese:choque, Turkish:şok, Malay:syok + Mandarin:冲击 (chōngjī), Cantonese:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), Japanese:衝撃 (shōgeki)  
 **xopi** *shopping* ← English:French:Spanish:shopping, Japanese:ショッピング (shoppingu), Korean:쇼핑 (syoping), Thai:ชอปปิ้ง (chop-bing), Russian:шоппинг (šopping), Mandarin:血拼 (xuèpīn)  
 **xou** *show (display, exhibition, demonstration, demo)* ← English:deu:French:Spanish:Portuguese:show, Russian:шоу (šou), Turkish:şov, Swahili:shoo, Thai:โชว์ (choo), Korean:쇼 (syo), Japanese:ショー (shō), Mandarin:秀 (xiù)  
-**xukur** *thanks (thank you)* ← Arabic: شُكْر‎ m (šukr), Hindi:शुक्र (śukr), Bengali:শোকর (śokôr), Swahili:-shukuru, Turkish:şükür  
+**xukre** *thanks (thank you)* ← Arabic: شُكْر‎ m (šukr), Hindi:शुक्र (śukr), Bengali:শোকর (śokôr), Swahili:-shukuru, Turkish:şükür  
 **xulakan** *school (institution)* ← Mandarin:学 (xué) + deu:Schule, Swahili:shule + English:school, French:école, Spanish:escuela, Portuguese:escola, Russian:школа (škola), Bengali:স্কুল (śkul), Malay:sekolah + Hindi:पाठशाला (pāṭhśālā), Marathi:शाळा (śāḷā), Tamil:பாடசாலை (pāṭasālai)  
 **xuli** *repair (fix)* ← Mandarin:修理 (xiūlǐ), Japanese:修理 (shuri), Korean:수리 (suri)  
 **xuru** *beginning (start, commencement, onset)* ← Arabic: شُرُوع‎ (šurūʿ), Persian: شروع (šoru') , Hindi:शुरू (śurū), Bengali:শুরু (śuru) + Mandarin:始 (shǐ), Japanese:始 (kaishi), Korean:시 (shi)  
@@ -1640,7 +1640,7 @@
 **yaki** *about (approximately, nearly, almost)* ← Korean:약 (yak), Japanese:約 (yaku), Cantonese:約 (yœk), Turkish:yaklaşık, Mandarin:约 (yuē)  
 **yam** *consume (eat or drink)* ← Khmer:ញ៉ាំ (nyam), Fulani:nyami, + Spanish:ñam, Russian:ням (nyam), Italian:gnam, English:yum, Korean:냠냠 (nyamnyam), Hungarian:nyam  
 **yama** *flax (linen)* ← Mandarin:亚麻 (yàmá), Cantonese:亞麻 (aa3maa4), Japanese:亜麻 (ama), Korean:아마 (ama), Hindi:उमा (umā)  
-**yang** *kind (style, sort, type)* ← Mandarin:样 (yàng), Thai:อย่าง (yàang), Khmer:យ៉ាង (yaang)  
+**yang** *yang (positive, bright, living, hard, masculine)* ← Mandarin:阳 (yáng), Cantonese:陽 (joeng4), Japanese:陽 (yō), Korean:양 (yang), Vietnamese:dương, English:deu:French:Spanish:Portuguese:yang, Russian:ян (yan)  
 **yatim** *orphan* ← Arabic:Persian:(yatim), Turkish:yetim, Swahili:yatima, Hindi:यतीम (yatīm)  
 **yau** *need (lack, require)* ← Mandarin:要 (yāo), Cantonese:要 (jiu1), Wu-Chinese:要 (yo1), Japanese:要 (yō), Vietnamese:yêu  
 **ye** *this* ← Korean:이 (i) + Bengali:এ (e), Hindi:यह (ye) + Telugu:ఈ (ī), Tamil:இது (itu) + Yoruba:yìí  
@@ -1650,6 +1650,7 @@
 **yen** *eye* ← Mandarin:眼 (yǎn) + Arabic: عَيْن‎ (ʿayn), Egyptian-Arabic: عين‎ (ʕēn), Amharic:ዐይን (ʿäyn), Malay:ain, French:yeux  
 **yepa** *leaf (sheet)* ← Mandarin:叶 (yè), Cantonese:葉 (jip6), Korean:잎 (ip);엽 (yeop), Vietnamese:diệp, Japanese:葉 (yō)  
 **yezi** *coconut tree* ← Mandarin:椰子 (yēzi), Cantonese:椰子 (ye4zi2), Korean:야자 (yaja), Japanese:椰子 (yashi)  
+**yim** *yin (negative, dark, ghostly, soft, feminine)* ← Mandarin:阴 (yīn), Cantonese:陰 (jam1), Japanese:陰 (in), Korean:음 (eum), Vietnamese:âm, English:deu:French:Spanish:Portuguese:yin, Russian:инь (in')  
 **yo** *some (one)* ← Mandarin:有 (yǒu), Cantonese:有 (jau5)  
 **yoga** *yoga* ← Hindi:योग (yog), Punjabi:ਯੋਗ (yog), Urdu:(yog), Bengali:যোগ (jog), Telugu:యోగా (yōgā), Thai:โยคะ (yōga), English:French:Spanish:Malay:Turkish:yoga, Portuguese:ioga, Russian:йога (yoga), Mandarin:瑜伽 (yújiā), Japanese:ヨーガ (yōga), Korean:요가 (yoga)  
 **yogo** *yoke* ← English:yoke, Spanish:yugo, Portuguese:jugo, French:joug, Russian:иго (igo), Persian:  یوغ‎ (yuğ) + Cantonese:軛 (aak1), Vietnamese:ách  

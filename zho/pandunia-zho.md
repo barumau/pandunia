@@ -528,7 +528,9 @@ flece - 箭
 flur - 氟  
 fluride - 氟化物  
 foli - 鳞  
+fonte - 泉  
 fonte kalam - 钢笔  
+fonte sui - 泉水  
 fora - 钻孔  
 • dusforme - 变丑  
 fosfe - 磷  
@@ -1205,6 +1207,9 @@ na xiti - 得失
 nabija - 预言家  
 nadir - 稀有 (稀少的)  
 nadir mar - 很少  
+nafte - 油  
+nafte fonte - 油井  
+nafte guku - 野菊花  
 nagre gogia - 城邦  
 najis - 污染物  
 nam - 名  
@@ -1229,11 +1234,9 @@ nave leu - 左舷
 ne - 呢  
 nefre - 肾脏  
 nefritis - 肾炎  
-nefte - 油  
-nefte guku - 野菊花  
-nekro - 尸体  
-nekro fili - 恋尸癖  
-nekro tomi - 尸检  
+nekre - 尸体  
+nekrofilia - 恋尸癖  
+nekrotomia - 尸检  
 nelu - 四 (4)  
 nen - 年  
 nen mes den - 年月日  
@@ -1365,7 +1368,7 @@ peroxide - 过氧化物
 pera - 梨  
 pesa - 钱  
 pesa diske - 硬币  
-petra nefte - 石油  
+petra nafte - 石油  
 pexe - 鱼  
 pexe huke - 鱼钩  
 pexe saide ja - 鱼夫  
@@ -1790,8 +1793,8 @@ xix - 扦子
 xix karne - 串烧  
 xofer ja - 司机  
 xopi - 购物 (血拼)  
-xukur - 谢谢  
-xukurta - 谢意  
+xukre - 谢谢  
+xukria - 谢意  
 xula - 教育  
 xula guru - 教师 (老师)  
 xula ja - 学生  
@@ -1812,6 +1815,7 @@ yam liste - 菜单
 yam yau - 饥饿  
 yama - 亚麻  
 yama seme - 亚麻籽  
+yang - 阳  
 yatim dom - 孤儿院  
 yau di - 必要的  
 ye - 这 (此)  
@@ -1824,6 +1828,8 @@ yepa - 叶
 Yesa - 耶稣  
 Yesa Mesi - 耶稣基督  
 Yesa sanga - 耶稣会  
+yim - 阴  
+yim yang - 阴阳  
 yoga - 瑜伽功  
 yogo - 轭  
 yogur - 酸奶 (优格)  

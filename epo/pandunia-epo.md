@@ -1110,8 +1110,8 @@ ke loka - kie?
 ke poli di - kiom?  
 ke riti - kiel?  
 ke sata - kiam?  
+ke tipe - kia?  
 ke xe - kio?  
-ke yang - kia?  
 kecape - keĉupo  
 keci - ĝentila  
 keka - viziti  
@@ -1478,8 +1478,8 @@ nave dex - tribordo
 nave ga - boatumi  
 nave leu - babordo  
 nefre - reno  
-nekro - kadavro  
-nekro tomi - obdukcio (nekropsio)  
+nekre - kadavro  
+nekrotomia - obdukcio (nekropsio)  
 nelu - kvar (4)  
 nen - jaro  
 nen mes den - dato  
@@ -1961,6 +1961,7 @@ teruriste - teroristo
 terbium - terbio  
 • hipotermia - hipotermio  
 termometrer - termometro  
+tipe - speco (tipo, stilo)  
 tire - tiri  
 tire yo milke - melki  
 titanium - titanio  
@@ -2130,8 +2131,8 @@ xix karne - ŝaŝliko
 xofer ja - ŝoforo (kondukisto)  
 xopi ja - aĉetanto (aĉetisto)  
 xou - montri (ekspozicii)  
-xukur - danko  
-xukurta - dankemo  
+xukre - danko  
+xukria - dankemo  
 xula guru - instruisto  
 xula ja - studento (lernanto)  
 xulakan - lernejo  
@@ -2151,7 +2152,6 @@ yam fito - legomo
 yam kamar - manĝoĉambro  
 yam yau - malsato  
 yama - lino  
-yang - speco (tipo, stilo)  
 yau - bezoni  
 yauta - bezono  
 ye - ĉi tiu  

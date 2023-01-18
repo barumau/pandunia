@@ -1049,6 +1049,7 @@
 **nabi** *profetumi* ← araba: نَبِيّ‎ (nabiy), persa: نبی‎ (nabi), hindia:नबी (nabī), bengala:নবী (nôbi), malaja:nabi, turka:nebi, svahila:nabii, fula:haŭsa:annabi, amhara:ነቢይ (näbiy), som:nebi  
 **nadir** *malofta* ← araba: نَادِر‎ (nādir), persa: نادر (nâder), hindia:नादिर (nādir), svahila:nadra, turka:nadir  
 **nafas** *spiro* ← araba:persa:(nafas), malaja:napas, turka:nefes, haŭsa:numfashi  
+**nafte** ** ← araba:نفط (nafṭ), heb:נֵּפְטְ‎ (neft), turka:aze:neft, rusa:нефть (neft’), persa:نفت (naft), angla:naphtha, hispana:portugala:nafta, japana:ナフサ (nafusa), korea:나프타 (napeuta), malaja:nafta  
 **nagre** *urbo* ← hindia:नगर (nagar), bengala:নগর (nôgôr), teluga:నగరము (nagaramu), tamila:நகரம் (nakaram), kmera:អង្គរ (ʾɑngkɔɔ), taja:นคร (na-khon) + malaja:negara  
 **nahun** ** ← persa:ناخن‎ (nâxon), hindia:नाख़ुन m (nāxun), bengala:নখ (nôkh), pan:नख (nakh), rusa:нога́ (nogá)  
 **najis** ** ← araba:نجس (najis), malaja:najis, svahila:najisi, persa:نجس (najes) + angla:najis, rusa:наджаса (nadžasa)  
@@ -1067,9 +1068,8 @@
 **nave** *boato (ŝipo)* ← franca:navire, hispana:nave, portugala:navio, persa: ناو‎ (nâv), hindia:नाव (nāv)  
 **ne** ** ← portugala:né, hindia:न (na), mandarena:呢 (ne), japana:ね (ne), vjetnama:nhé  
 **nefre** *reno* ← angla:franca:nephro-, hispana:portugala:nefro-, deu:Niere + rusa:нефрит (nefrit)  
-**nefte guku** ** ← mandarena:油菊, japana:アブラギク  
-**nefte** ** ← araba:نفط (nifṭ), heb:נֵּפְטְ‎ (neft), turka:aze:neft, rusa:нефть (neft’), kar:ნავთი (navti) + persa:نفت (naft), angla:naphtha, hispana:portugala:nafta, japana:ナフサ (nafusa), korea:나프타 (napeuta), malaja:nafta  
-**nega** ** ← hispana:portugala:negar, angla:negate  
+**nege** ** ← angla:negate, deu:negieren, franca:nier; négatif, hispana:portugala:negar, rusa:негативный (negativniy)  
+**nekre** *kadavro* ← angla:hispana:portugala:necro-, franca:nécro-, deu:nekro-, rusa:некро- (nekro-)  
 **nelu** *kvar (4)* ← korea:넷 (net) + svahila:nne, zulua:ne, + malajala:നാലു (nālu), teluga:నాలుగు (nālugu), kanara:ನಾಲ್ಕು (nālku) + fin:neljä, est:neli, hungara:négy  
 **nen mes den** *dato* ← mandarena:年月日 (niányuèrì), japana:年月日 (nengappi), korea:연월일 (yeonworil)  
 **nen** *jaro* ← mandarena:年 (nián), kantona:年 (nin4), japana:年 (nen), korea:년 (nyeon), vjetnama:năm,niên  
@@ -1475,7 +1475,7 @@
 **ticin** ** ← mandarena:提琴 (tíqín), kantona:提琴 (tai4 kam4), vua:提琴 (di jin3), japana:提琴 (teikin)  
 **tike** ** ← persa: تکه (tekke), hindia:टिक्का (ṭikkā) + angla:deu:ticket, malaja:tiket, bengala:টিকিট (ṭikiṭ), amharaba:ቲኬት (tiket), korea:티켓 (tiket), japana:チケット (chiketto)  
 **tim** ** ← angla:team, deu:Team, svahila:timu, persa: تیم‎ (tim), hindia:टीम (ṭīm), bengala:টীম (ṭim), japana:チーム (chīmu), korea:팀 (tim)  
-**tipe** ** ← angla:franca:type, hispana:portugala:tipo, ru:тип (tip), turka:tip, japana:タイプ (taipu)  
+**tipe** *speco (tipo, stilo)* ← angla:franca:type, hispana:portugala:tipo, ru:тип (tip), turka:tip, japana:タイプ (taipu)  
 **tipi** ** ← deu:Tipi, angla:franca:hispana:portugala:malaja:turka:tipi, hindia:टीपी (tipi), mandarena:梯皮 (tīpí), japana:ティピー (tipi), korea:티피 (tipi)  
 **tire** *tiri* ← hispana:portugala:tirar, franca:tirer, angla:tear, turka:tire, malaja:tarik  
 **tis** ** ← angla:hispana:-itis, franca:portugala:-ite, rusa:-ит (-it)  
@@ -1630,7 +1630,7 @@
 **xoke** ** ← angla:nld:shock, franca:choc, hispana:portugala:choque, turka:şok, malaja:syok + mandarena:冲击 (chōngjī), kantona:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), japana:衝撃 (shōgeki)  
 **xopi** ** ← angla:franca:hispana:shopping, japana:ショッピング (shoppingu), korea:쇼핑 (syoping), taja:ชอปปิ้ง (chop-bing), rusa:шоппинг (šopping), mandarena:血拼 (xuèpīn)  
 **xou** *montri (ekspozicii)* ← angla:deu:franca:hispana:portugala:show, rusa:шоу (šou), turka:şov, svahila:shoo, taja:โชว์ (choo), korea:쇼 (syo), japana:ショー (shō), mandarena:秀 (xiù)  
-**xukur** *danko* ← araba: شُكْر‎ m (šukr), hindia:शुक्र (śukr), bengala:শোকর (śokôr), svahila:-shukuru, turka:şükür  
+**xukre** *danko* ← araba: شُكْر‎ m (šukr), hindia:शुक्र (śukr), bengala:শোকর (śokôr), svahila:-shukuru, turka:şükür  
 **xulakan** *lernejo* ← mandarena:学 (xué) + deu:Schule, svahila:shule + angla:school, franca:école, hispana:escuela, portugala:escola, rusa:школа (škola), bengala:স্কুল (śkul), malaja:sekolah + hindia:पाठशाला (pāṭhśālā), marataja:शाळा (śāḷā), tamila:பாடசாலை (pāṭasālai)  
 **xuli** *riparo* ← mandarena:修理 (xiūlǐ), japana:修理 (shuri), korea:수리 (suri)  
 **xuru** *komenco* ← araba: شُرُوع‎ (šurūʿ), persa: شروع (šoru') , hindia:शुरू (śurū), bengala:শুরু (śuru) + mandarena:始 (shǐ), japana:始 (kaishi), korea:시 (shi)  
@@ -1640,7 +1640,7 @@
 **yaki** ** ← korea:약 (yak), japana:約 (yaku), kantona:約 (yœk), turka:yaklaşık, mandarena:约 (yuē)  
 **yam** *manĝi (trinki)* ← kmera:ញ៉ាំ (nyam), fula:nyami, + hispana:ñam, rusa:ням (nyam), itala:gnam, angla:yum, korea:냠냠 (nyamnyam), hungara:nyam  
 **yama** *lino* ← mandarena:亚麻 (yàmá), kantona:亞麻 (aa3maa4), japana:亜麻 (ama), korea:아마 (ama), hindia:उमा (umā)  
-**yang** *speco (tipo, stilo)* ← mandarena:样 (yàng), taja:อย่าง (yàang), kmera:យ៉ាង (yaang)  
+**yang** ** ← mandarena:阳 (yáng), kantona:陽 (joeng4), japana:陽 (yō), korea:양 (yang), vjetnama:dương, angla:deu:franca:hispana:portugala:yang, rusa:ян (yan)  
 **yatim** ** ← araba:persa:(yatim), turka:yetim, svahila:yatima, hindia:यतीम (yatīm)  
 **yau** *bezoni* ← mandarena:要 (yāo), kantona:要 (jiu1), vua:要 (yo1), japana:要 (yō), vjetnama:yêu  
 **ye** *ĉi tiu* ← korea:이 (i) + bengala:এ (e), hindia:यह (ye) + teluga:ఈ (ī), tamila:இது (itu) + joruba:yìí  
@@ -1650,6 +1650,7 @@
 **yen** *okulo* ← mandarena:眼 (yǎn) + araba: عَيْن‎ (ʿayn), egipta araba: عين‎ (ʕēn), amhara:ዐይን (ʿäyn), malaja:ain, franca:yeux  
 **yepa** *folio* ← mandarena:叶 (yè), kantona:葉 (jip6), korea:잎 (ip);엽 (yeop), vjetnama:diệp, japana:葉 (yō)  
 **yezi** *kokoso* ← mandarena:椰子 (yēzi), kantona:椰子 (ye4zi2), korea:야자 (yaja), japana:椰子 (yashi)  
+**yim** ** ← mandarena:阴 (yīn), kantona:陰 (jam1), japana:陰 (in), korea:음 (eum), vjetnama:âm, angla:deu:franca:hispana:portugala:yin, rusa:инь (in')  
 **yo** *iu* ← mandarena:有 (yǒu), kantona:有 (jau5)  
 **yoga** *jogo* ← hindia:योग (yog), panĝaba:ਯੋਗ (yog), urdua:(yog), bengala:যোগ (jog), teluga:యోగా (yōgā), taja:โยคะ (yōga), angla:franca:hispana:malaja:turka:yoga, portugala:ioga, rusa:йога (yoga), mandarena:瑜伽 (yújiā), japana:ヨーガ (yōga), korea:요가 (yoga)  
 **yogo** *jugo* ← angla:yoke, hispana:yugo, portugala:jugo, franca:joug, rusa:иго (igo), persa:  یوغ‎ (yuğ) + kantona:軛 (aak1), vjetnama:ách  

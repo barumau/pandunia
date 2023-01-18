@@ -49,7 +49,6 @@ admire (adore) - fanati
 admire - amira  
 adult - ceng jen  
 adultery (infidelity) - zina  
-advance (progress, go forward, enter) -   
 advanced (high-level) - gau gradu di  
 advancement (milestone) - progresion  
 adventure (venture) - ventur  
@@ -301,7 +300,7 @@ autocracy (monarchy) - autokratia
 automatic - autatike  
 autonomous - autonomike  
 autonomy - autonomia  
-autopsy (necrotomy) - nekro tomi  
+autopsy (necrotomy) - nekrotomia  
 autumn (fall) - pada mosim  
 auxiliary verb that marks future tense (will, shall) - xa  
 avert - deverse  
@@ -813,7 +812,6 @@ clarify (clear up) - fa klar
 class (category) - klas  
 classic (authoritative, definitive) - kanon di  
 classic (canon) - kanon  
-classic (classical) - preyang di  
 classify (categorize) - fa klas  
 classroom - xula kamar  
 claw (scratch) - fa nahun  
@@ -980,7 +978,7 @@ corn poppy - medan papi
 corner (angle) - gona  
 cornflower - nil kentaur hua  
 corona virus - korona virus  
-corpse (dead body) - nekro  
+corpse (dead body) - nekre  
 correct (make right) - fa sahi  
 corrupt (pollute, soil, defile, stain, taint) - fa najis  
 corruption (filth, pollution, contamination, najis) - najis  
@@ -1153,6 +1151,8 @@ demography - demi grafi
 demon - demon  
 Denmark - Danske gogia  
 dentist - dante dava ja  
+deny (negate) - nege  
+deny (refuse, reject, turn away) - denege  
 depress (push away) - deprese  
 depth - fase teleta  
 descriptive - sifa di  
@@ -1835,7 +1835,7 @@ graphics card (video card) - grafi karte
 grass - cau  
 grass script (calligraphic cursive writing) - cau kitaba  
 grassland (prairie) - cau stan  
-gratitude - xukurta  
+gratitude - xukria  
 grave (tomb, bury) - gabre  
 gravel - grave  
 graveyard (cemetery, burial ground) - gabrestan  
@@ -2118,7 +2118,7 @@ increment - max gradu
 indeterminate (uncertain, indefinite, undecided) - anding  
 India - Barti  
 Indian - barti  
-Indian chrysanthemum - nefte guku  
+Indian chrysanthemum - nafte guku  
 Indian Ocean - Barti Bahai  
 indicate (point into) - indike  
 indium - hindium  
@@ -2293,7 +2293,6 @@ killer - mataja
 kilogram (kg) - kilogram  
 kilometer (km) - kilomitre  
 kimono - kimono  
-kind (style, sort, type) - yang  
 kinetic - kino di  
 king - rajanan  
 king or queen - raja  
@@ -2766,7 +2765,7 @@ mode (type, pattern, state) - mode
 model (design) - fa model  
 model (design) - model  
 model (simulation) - sam sifa xe  
-modern - neu yang di  
+modern - neu tipe di  
 module - module  
 mold (shape) - fa plasti  
 Moldova - Moldova  
@@ -2895,13 +2894,14 @@ nausea (motion sickness) - retro gula sense
 nautilus - nautile  
 Nazi - nasial sosialiste  
 necessary (needed) - yau di  
-nechrophilia - nekro fili  
+nechrophilia - nekrofilia  
 neck (nape) - nuka  
-necrology (listing of people who have died) - nekro lista  
+necrology (listing of people who have died) - nekroliste  
 need (lack, require) - yau  
 need (shortage, lack, requirement) - yauta  
 needle (pin, splinter, prickle, thorn, stinger, spine, quill) - pin  
 nefrectomy - nefrextomia  
+negative - negative  
 negotiate (arrange) - fa biznes lona  
 neodymium - neodimium  
 neologism - neu loga  
@@ -3007,7 +3007,7 @@ oak tree - baluta
 oasis - vahi  
 oat - ave  
 Oberon - Oberon  
-obituary (necrology) - nekro loga  
+obituary (necrology) - nekrologa  
 object (item, thing) - vutu  
 obligation (compulsion) - musta  
 oblique (askew, tilted) - terca  
@@ -3035,7 +3035,8 @@ offline - no a lin
 often (frequently) - a poli mar  
 oganesson - oganeson  
 ogre (troll, goblin) - gui  
-oil - nefte  
+oil - nafte  
+oil well - nafte fonte  
 okay (acceptance; accept, say okay) - oke  
 okra (okro) - bamia  
 old (aged, elderly) - lau  
@@ -3061,7 +3062,6 @@ opinion (view) - rai
 opium poppy - sona papi  
 opossum - aposum  
 opportunity (chance) - canse  
-oppose (antagonize, object, resist) -   
 opt (prefer, choose) - ote  
 optical fibre (optical cable) - fotoline  
 optimal - otimal  
@@ -3275,7 +3275,7 @@ perspective (point of view) - vide punte
 Peru - Peru  
 pervert (twist; perverse) - perverse  
 peta- - peta  
-petroleum - petra nefte  
+petroleum - petra nafte  
 pharmacology - dava xe lojia  
 phenol - fenol  
 phenyl - fenil  
@@ -3541,7 +3541,6 @@ push - pulse
 put (place, set) - fa loka  
 put back (postpone) - pos poza  
 put back (postpone) - pospoze  
-put forward (advance, progress) -   
 put in (impose) - inpoze  
 pyramid - piram  
 pyrolatry - hogo puja  
@@ -3631,7 +3630,6 @@ refer (assign back to) - refere
 reflect (bend back) - reflexe  
 reflector - reflexer  
 reform - riforme  
-refuse (deny, decline) - nega  
 regime - politi mode  
 region (tract, land, ground) - tope  
 region of birth - natestan  
@@ -4122,6 +4120,7 @@ spell (enchantment) - magi asar
 spice (seasoning) - masala  
 spider - arane  
 spiderweb (cobweb) - arane nete  
+sping water - fonte sui  
 spiral (helix, corkscrew, twist) - helix  
 spirit (soul, vitality, life force) - jini  
 spit - tuh  
@@ -4377,7 +4376,7 @@ Thailand - Tai Dexa
 thallium - talium  
 than (as, compared to, relative to) - ka  
 thank - fa xukur  
-thanks (thank you) - xukur  
+thanks (thank you) - xukre  
 thanks to - a xukur de  
 that (conjunction) - ki  
 that is (in other words, i.e., alias) - alo nam  
@@ -4561,7 +4560,7 @@ Tuvalu - Tuvalu
 twice - du mar  
 twinkle (sparkle) - fa sing foto  
 two (2) - du  
-type (kind, genre) - tipe  
+type (kind, sort, style, genre) - tipe  
 typewriter - kitaba gi  
 tyrant (despot) - zalim raja  
 
@@ -4760,7 +4759,7 @@ western - veste di
 western gorilla - veste gorila  
 wet (damp, moist) - xipi  
 wet (dampen, moisten) - fa xipi  
-what kind of? - ke yang  
+what kind of? - ke tipe  
 what thing? - ke xe  
 what's-his-name - xi Fulan  
 what? - ke  
@@ -4848,6 +4847,7 @@ xylose (wood sugar) - xilos
 
 Yahweh (Jehovah) - Yahve  
 yak - yake  
+yang (positive, bright, living, hard, masculine) - yang  
 yard (garden) - bagi  
 year - nen  
 yeast - hamir  
@@ -4856,6 +4856,8 @@ yellow starthistle - sol kentaur hua
 Yemen - Yemen  
 yes - ya  
 yesterday - preden  
+yin (negative, dark, ghostly, soft, feminine) - yim  
+yin-yang - yim yang  
 yoga - yoga  
 yogi - yoga ja  
 yogurt - yogur  

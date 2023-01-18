@@ -509,6 +509,7 @@ flerovium - フレロビウム
 flur - フッ素  
 fluride - 弗化物  
 foli - うろこ  
+fonte sui - 清水  
 fonyo - フォニオ  
 • dusforme - 醜くする  
 • konforme - 即する  
@@ -874,8 +875,8 @@ ke jen - 誰
 ke loka - どこ  
 ke riti - どのように  
 ke sata - 何時  
+ke tipe - どんな  
 ke xe - 何事  
-ke yang - どんな  
 keka ja - 客人  
 Keme - 古代エジプト  
 ken - 知る  
@@ -1199,6 +1200,9 @@ na - 受ける (もらう)
 na xiti - 得失  
 nabija - 預言者  
 nadir - 稀 (疎ら)  
+nafte - 油 (オイル)  
+nafte fonte - 油井  
+nafte guku - シマカンギク (アブラギク)  
 nagre gogia - 都市国家  
 najis - 汚れ (汚染)  
 najis bindu - 染み (汚点)  
@@ -1221,11 +1225,9 @@ nave - 舟 (ボート)
 nave trepe - タラップ  
 ne - ね  
 nefre - 腎臓  
-nefte - 油 (オイル)  
-nefte guku - シマカンギク (アブラギク)  
-nekro - 死体  
-nekro fili - 屍姦 (死体性愛)  
-nekro tomi - 検視  
+nekre - 死体  
+nekrofilia - 屍姦 (死体性愛)  
+nekrotomia - 検視  
 nelu - 四 (4)  
 nen - 年  
 nen mes den - 年月日  
@@ -1238,7 +1240,7 @@ neu di - 新しい
 neu jen - 初心者  
 neu loga - 新語 (新造語)  
 neu nati di - 新生の  
-neu yang di - 近代的  
+neu tipe di - 近代的  
 neure - 神経  
 neuralgia - 神経痛  
 neuritis - 神経炎  
@@ -1348,7 +1350,7 @@ per nume - 偶数
 peroxide - 過酸化物  
 pera - 梨  
 pesa - 金  
-petra nefte - 石油  
+petra nafte - 石油  
 pexe - 魚  
 pexe huke - 釣り針  
 pexe saide ja - 漁師  
@@ -1792,7 +1794,7 @@ xiu kaboga - ズッキーニ
 xiu seku - 小石  
 xiu zi - 小文字  
 xiva - シヴァ  
-xukur - ありがとう (どうも)  
+xukre - ありがとう (どうも)  
 xula - 教育  
 xula guru - 先生 (教師)  
 xula ja - 学生  
@@ -1812,8 +1814,7 @@ yam liste - メニュー (献立)
 yam xe - 食べ物 (食事)  
 yam yau - 飢え  
 yama - 亜麻  
-yang - タイプ  
-preyang di - 古典的  
+yang - 陽  
 yau - 要る  
 • anyau di - 不要  
 yau di - 必要  
@@ -1827,6 +1828,8 @@ yepa - 葉
 yepa alga - コンブ  
 yepa late - ページ (面)  
 Yesa Mesi - イエス・キリスト  
+yim - 陰  
+yim yang - 陰陽  
 yo - 何分の  
 yogo - 軛  
 yogur - ヨーグルト  

@@ -1,5 +1,4 @@
 # polski–pandunia
- -   
  - a dura de  
  - a max  
  - a tema de  
@@ -298,6 +297,7 @@
  - fon  
  - fonologe  
  - fonte kalam  
+ - fonte sui  
  - fonyo  
  - for  
  - foto mata di  
@@ -625,6 +625,7 @@
  - muxu cakra  
  - na xiti  
  - nadir  
+ - nafte fonte  
  - nagre gogia  
  - nagria  
  - najis  
@@ -641,8 +642,9 @@
  - nature  
  - ne  
  - nefralgia  
- - nekro fili  
- - nekro lista  
+ - negative  
+ - nekrofilia  
+ - nekroliste  
  - nelu di galope  
  - nete  
  - neu fito  
@@ -941,6 +943,7 @@
  - yama  
  - yama seme  
  - yama tela  
+ - yang  
  - Yapetus  
  - yau  
  - yeka  
@@ -948,6 +951,8 @@
  - yem biskute  
  - yen di  
  - Yesa sanga  
+ - yim  
+ - yim yang  
  - yota  
  - you  
  - you jen  
@@ -1736,7 +1741,7 @@ dziura - kung
 dziw (cudo, zachwyt) - ajabu  
 dziwny - guai  
 dziwny (nieznany) - ansan di  
-dzięki, dzięki ci - xukur  
+dzięki, dzięki ci - xukre  
 dziękować - fa xukur  
 dziś, dzisiaj - zai den  
 dzwon (dzwonek) - dang gi  
@@ -2132,7 +2137,7 @@ jajko (jajo) - anda
 jak (zwierzę) - yake  
 jak, niż, od - ka  
 jak? - ke xe  
-jaki? - ke yang  
+jaki? - ke tipe  
 jakiś - yo  
 Jamajka - Jamaika  
 Japonia - Nipon  
@@ -2283,7 +2288,6 @@ kiur - kurium
 kiwi - kivi  
 klapa - pada mun  
 klasa, kategoria - klas  
-klasyczny - preyang di  
 klasyfikować, kategoryzować - fa klas  
 klatka - kane kasa  
 klatka piersiowa - sine kasa  
@@ -2890,7 +2894,8 @@ nazwisko, imię rodziny - famili nam
 nefrektomia - nefrextomia  
 negatywny (przeciwny, nie) - an-  
 negocjować - fa biznes lona  
-nekrolog - nekro loga  
+negować - nege  
+nekrolog - nekrologa  
 neodym - neodimium  
 neologizm - neu loga  
 neon - neon  
@@ -2970,7 +2975,7 @@ notować, obserwować, zauważyć, zauważać - note
 Nowa Kaledonia - neu Kaledonia  
 Nowa Zelandia - neu Zelande  
 nowicjusz (nowa osoba) - neu jen  
-nowoczesne - neu yang di  
+nowoczesne - neu tipe di  
 nowość - neu  
 nowy - neu di  
 Nowy Jork - neu Yorke  
@@ -3030,7 +3035,7 @@ odcisk, ślad; stempel, pieczęć - cape
 oddech - nafas  
 odetkać, odtykać - antape  
 odkurzacz - haki cupu gi  
-odmówić (odrzucić) - nega  
+odmówić (odrzucić) - denege  
 odnowić, odnawiać, uczynić nowym - fa neu  
 odpowiedzieć, odpowiadać - fa javabu  
 odpowiedź, odzew - javabu  
@@ -3056,7 +3061,7 @@ okno - janela
 oko - yen  
 około; przybliżony - yaki  
 okrągły - gola di  
-olej - nefte  
+olej - nafte  
 oliwka - zaitun  
 Oman - Oman  
 omszały (mszysty) - mos di  
@@ -3387,7 +3392,6 @@ poręcz (balustrada) - langan
 postawa ciała; asana - asan  
 postawiony (stojący) - lipa di  
 postawić (stawiać) - fa libu  
-posuwać się do przodu (dokonywać postępu, wejść) -   
 posuwać się do przodu (dokonywać postępu, wejść) - progrese  
 poszukiwacz (badacz, eksplorator) - logi safar ja  
 poszukiwacz przygód (awanturnik) - ventur ja  
@@ -3662,7 +3666,6 @@ rocznica - nen festa
 rod - rodium  
 rodak, ziomek, krajan - sam gogia jen  
 rodzaj gramatyczny - baxe jinse  
-rodzaj, typ, styl - yang  
 rodzeństwo, brat lub siostra - sau  
 rodzic (matka lub ojciec) - cin  
 rodzina - famili  
@@ -3672,7 +3675,7 @@ rok - nen
 rola - rol  
 rolnik, farmer - agrer  
 romantyczny - romanse di  
-ropa naftowa - petra nefte  
+ropa naftowa - petra nafte  
 rosa - rose  
 Rosja - Rusia  
 rosyjski - rus lingue  
@@ -3805,7 +3808,7 @@ sałatka - salade
 schody (drabina) - trepe  
 seaborg - siborgium  
 sejsmologia - sismolojia  
-sekcja zwłok (obdukcja) - nekro tomi  
+sekcja zwłok (obdukcja) - nekrotomia  
 sekret - sir  
 sekretariat - buro ja grupe  
 sekretarz - buro ja  
@@ -3918,7 +3921,6 @@ sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać - ceka
 sprawiedliwość - adilta  
 sprawiedliwy - adil  
 sprawić ból, sprawiać ból - fa pasi  
-sprzeciwiać się (opierać się) -   
 sprzedać (sprzedawać) - vende  
 sprzątacz, sprzątacz - safja  
 spróbować, próbować - proba  
@@ -4251,7 +4253,7 @@ tygrys - bagre
 tykwa pospolita (kabalasz) - sui kaboga  
 tylko (jedyny, wyłączny) - un di  
 tylko (precyzyjny, dokładny) - juste  
-typ (rodzaj, gatunek) - tipe  
+typ (rodzaj, gatunek, styl) - tipe  
 tyran - zalim raja  
 tyrania - zalimta  
 tysiąc (kilo-) - kilo  
@@ -4365,7 +4367,7 @@ ważny - ham di
 wciąż, nadal; kontynuować, wznawiać, ponawiać - zoku  
 wczoraj - preden  
 wdowa - vidua  
-wdzięczność - xukurta  
+wdzięczność - xukria  
 według ruchu wskazówek zegara - rota dex  
 weganin (weganka) - pul fito yam sim ja  
 wegetarianin - fito yam sim ja  
@@ -4752,14 +4754,14 @@ zwiększyć o jeden - max gradu
 zwyciężyć (wygrać; zwycięstwo, wygrana) - jai  
 zwyczajny (rutynowy, normalny) - ada di  
 zwykły, zwyczajny, prosty - sada  
-zwłoki (trup) - nekro  
+zwłoki (trup) - nekre  
 zygzag - ziza  
 ząb - dante  
 zęwnętrzny - vai  
 złamanie lini - lin parce  
 złapać, łapać, schwytać, chwytać - cepe  
 złapać, łapać, schwytać, chwytać - kape  
-złocień indyjski - nefte guku  
+złocień indyjski - nafte guku  
 złodziej - cori ja  
 złoto - auro  
 złowieszczy - dus sin di  

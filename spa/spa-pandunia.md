@@ -31,7 +31,7 @@ accesible - acesebil
 acceso (acceder) - acese  
 acceso - inlai  
 acción - ation  
-aceite (óleo) - nefte  
+aceite (óleo) - nafte  
 aceituna - zaitun  
 acelga - selge  
 acento - balaton  
@@ -96,6 +96,7 @@ agronomía - agronomia
 agrícola - agral  
 agua - sui  
 agua de lluvia - barxa sui  
+agua manantial - fonte sui  
 agua mineral - kuan sui  
 aguacate - avakate  
 agujero (hueco) - kung  
@@ -348,10 +349,9 @@ automotor (automotriz) - auto move
 automático - autatike  
 automóvil (coche) - moto gar  
 autonomía - autonomia  
-autopsia - nekro tomi  
+autopsia - nekrotomia  
 autor - auter  
 autónomo - autonomike  
-avanzar (entrar, adelantar, progresar) -   
 avanzar (entrar, adelantar, progresar) - progrese  
 avena - ave  
 aventura - ventur  
@@ -561,7 +561,7 @@ cacto - katus
 cada - pan un  
 cadena - serser  
 cadmio - kadimium  
-cadáver - nekro  
+cadáver - nekre  
 caer - pada  
 cafetera - kafe pote  
 café (cafetería) - kafekan  
@@ -816,7 +816,6 @@ clon - fa klon
 clonar - klon  
 cloro - klor  
 club - klube  
-clásico - preyang di  
 cobalto - kobalte  
 cobre - kupre  
 coca - koka  
@@ -1148,6 +1147,7 @@ demonio - demon
 demora (retraso) - dele  
 demostrar - fa xou  
 demócrata - demi krati ja  
+denegar - denege  
 dentista (odontólogo) - dante dava ja  
 deporte - sporte  
 deportista - sporter  
@@ -1762,7 +1762,7 @@ gorila occidental - veste gorila
 gorila oriental - dong gorila  
 gota - giota  
 grabado (sello, estampando) - cape  
-gracias - xukur  
+gracias - xukre  
 gracias a (merced a) - a xukur de  
 grado Celsius - celsius gradu  
 grafema - kitaba so  
@@ -1777,7 +1777,7 @@ granjero (agricultor) - agrer
 grano (partícula) - gran  
 grasa - lipe  
 graso (adiposo) - lipike  
-gratitud - xukurta  
+gratitud - xukria  
 grava - grave  
 gravar (cobrar tasas) - kape yo taxi  
 Grecia - Helen  
@@ -2577,7 +2577,7 @@ moda (tendencia) - faxon
 modelar - model  
 modelo (similitud, simulación) - sam sifa xe  
 modelo - fa model  
-moderno - neu yang di  
+moderno - neu tipe di  
 modo (tipo) - mode  
 modo nocturno - noce mode  
 mojado - xipi  
@@ -2707,10 +2707,11 @@ Naúru - Nauru
 necesario - yau di  
 necesidad - yauta  
 necesitar - yau  
-necrofilia - nekro fili  
-necrología (obituario) - nekro loga  
+necrofilia - nekrofilia  
+necrología (obituario) - nekrologa  
 nefrectomía - nefrextomia  
 nefritis - nefritis  
+negativo - negative  
 negociar - fa biznes lona  
 negocios (comercio) - biznes  
 negro - kala  
@@ -2848,7 +2849,6 @@ opción (alternativa) - otion
 opción (preferencia) - cunbil  
 opinar - fa rai  
 opinión (juicio, consideración) - rai  
-oponerse (resistir) -   
 oportunidad (chance) - canse  
 optar - ote  
 oración - jumla  
@@ -3080,7 +3080,7 @@ pescar - saide yo pexe
 peso (gravedad) - veze  
 pestaña - yen kexa  
 peto - sine plate  
-petróleo - petra nefte  
+petróleo - petra nafte  
 pez (pescado) - pexe  
 pez globo - balon pexe  
 peñasco (pedrusco) - dai seku  
@@ -3191,6 +3191,7 @@ posterior - pos di
 postnatal - posnatal  
 postura (posición) - asan  
 potasio - kalium  
+pozo petrolífero - nafte fonte  
 practicar (ensayar, ejercitar) - fa lenxi  
 pradera (pastizal) - cau stan  
 praseodimio - prazedimium  
@@ -3342,7 +3343,7 @@ quizás (tal vez) - bil e
 quizás (tal vez) - bil ki  
 quién - ke jen  
 qué - ke  
-qué tipo de - ke yang  
+qué tipo de - ke tipe  
 química - kimia  
 químico - kimike  
 
@@ -3392,7 +3393,7 @@ rebotar - boing
 recargar - rikarga  
 receptor - receper  
 receptor de radio - radio na gi  
-rechazar (negar) - nega  
+rechazar (negar) - nege  
 recibir - recepe  
 reciclar - resikle  
 recoger (juntar, reunir, acumular, recolectar, montar) - fa jama  
@@ -3893,7 +3894,6 @@ Timor Oriental - Dong Timor
 tinta - kalam sui  
 tinte - rang mate  
 tipi - tipi  
-tipo (género) - tipe  
 tira (faja, vendaje, cinta) - faxi  
 tirano (déspota) - zalim raja  
 tirar (lanzar, echar, arrojar, aventar) - lanse  
@@ -4055,7 +4055,7 @@ vanadio - vanadium
 Vanuatu - Vanuatu  
 vapor - sui gas  
 variable - varibil  
-variedad (tipo, estilo) - yang  
+variedad (tipo, estilo) - tipe  
 vaso (taza, copa) - kupa  
 vatio - vate  
 veganismo - pul fito yam sim  
@@ -4167,6 +4167,7 @@ yema del dedo - angul pike
 Yemen - Yemen  
 yerba mate - mate  
 Yibuti - Jibuti  
+yin-yang - yim yang  
 yo - mi  
 yodo (iodo) - iode  
 yoga - yoga  

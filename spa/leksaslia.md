@@ -1049,6 +1049,7 @@
 **nabi** *profecía (profetizar)* ← ara: نَبِيّ‎ (nabiy), fas: نبی‎ (nabi), hin:नबी (nabī), ben:নবী (nôbi), may:nabi, tur:nebi, swa:nabii, ful:hau:annabi, amh:ነቢይ (näbiy), som:nebi  
 **nadir** *raro* ← ara: نَادِر‎ (nādir), fas: نادر (nâder), hin:नादिर (nādir), swa:nadra, tur:nadir  
 **nafas** *respiración* ← ara:fas:(nafas), may:napas, tur:nefes, hau:numfashi  
+**nafte** *aceite (óleo)* ← ara:نفط (nafṭ), heb:נֵּפְטְ‎ (neft), tur:aze:neft, rus:нефть (neft’), fas:نفت (naft), eng:naphtha, spa:por:nafta, jpn:ナフサ (nafusa), kor:나프타 (napeuta), may:nafta  
 **nagre** *pueblo* ← hin:नगर (nagar), ben:নগর (nôgôr), tel:నగరము (nagaramu), tam:நகரம் (nakaram), khm:អង្គរ (ʾɑngkɔɔ), tha:นคร (na-khon) + may:negara  
 **nahun** *uña* ← fas:ناخن‎ (nâxon), hin:नाख़ुन m (nāxun), ben:নখ (nôkh), pan:नख (nakh), rus:нога́ (nogá)  
 **najis** *contaminación (corrupción, porquería, suciedad)* ← ara:نجس (najis), may:najis, swa:najisi, fas:نجس (najes) + eng:najis, rus:наджаса (nadžasa)  
@@ -1067,9 +1068,8 @@
 **nave** *barco (bote)* ← fra:navire, spa:nave, por:navio, fas: ناو‎ (nâv), hin:नाव (nāv)  
 **ne** ** ← por:né, hin:न (na), zho:呢 (ne), jpn:ね (ne), vie:nhé  
 **nefre** *riñon* ← eng:fra:nephro-, spa:por:nefro-, deu:Niere + rus:нефрит (nefrit)  
-**nefte guku** ** ← zho:油菊, jpn:アブラギク  
-**nefte** *aceite (óleo)* ← ara:نفط (nifṭ), heb:נֵּפְטְ‎ (neft), tur:aze:neft, rus:нефть (neft’), kar:ნავთი (navti) + fas:نفت (naft), eng:naphtha, spa:por:nafta, jpn:ナフサ (nafusa), kor:나프타 (napeuta), may:nafta  
-**nega** *rechazar (negar)* ← spa:por:negar, eng:negate  
+**nege** *rechazar (negar)* ← eng:negate, deu:negieren, fra:nier; négatif, spa:por:negar, rus:негативный (negativniy)  
+**nekre** *cadáver* ← eng:spa:por:necro-, fra:nécro-, deu:nekro-, rus:некро- (nekro-)  
 **nelu** *cuatro (4)* ← kor:넷 (net) + swa:nne, zul:ne, + mal:നാലു (nālu), tel:నాలుగు (nālugu), kan:ನಾಲ್ಕು (nālku) + fin:neljä, est:neli, hun:négy  
 **nen mes den** *fecha* ← zho:年月日 (niányuèrì), jpn:年月日 (nengappi), kor:연월일 (yeonworil)  
 **nen** *año* ← zho:年 (nián), yue:年 (nin4), jpn:年 (nen), kor:년 (nyeon), vie:năm,niên  
@@ -1475,7 +1475,7 @@
 **ticin** *instrumento de arco* ← zho:提琴 (tíqín), yue:提琴 (tai4 kam4), wuu:提琴 (di jin3), jpn:提琴 (teikin)  
 **tike** *pedazo* ← fas: تکه (tekke), hin:टिक्का (ṭikkā) + eng:deu:ticket, may:tiket, ben:টিকিট (ṭikiṭ), amh:ቲኬት (tiket), kor:티켓 (tiket), jpn:チケット (chiketto)  
 **tim** *equipo* ← eng:team, deu:Team, swa:timu, fas: تیم‎ (tim), hin:टीम (ṭīm), ben:টীম (ṭim), jpn:チーム (chīmu), kor:팀 (tim)  
-**tipe** *tipo (género)* ← eng:fra:type, spa:por:tipo, ru:тип (tip), tur:tip, jpn:タイプ (taipu)  
+**tipe** *variedad (tipo, estilo)* ← eng:fra:type, spa:por:tipo, ru:тип (tip), tur:tip, jpn:タイプ (taipu)  
 **tipi** *tipi* ← deu:Tipi, eng:fra:spa:por:may:tur:tipi, hin:टीपी (tipi), zho:梯皮 (tīpí), jpn:ティピー (tipi), kor:티피 (tipi)  
 **tire** *tirar* ← spa:por:tirar, fra:tirer, eng:tear, tur:tire, may:tarik  
 **tis** *inflamación* ← eng:spa:-itis, fra:por:-ite, rus:-ит (-it)  
@@ -1630,7 +1630,7 @@
 **xoke** *choque (sacudida)* ← eng:nld:shock, fra:choc, spa:por:choque, tur:şok, may:syok + zho:冲击 (chōngjī), yue:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), jpn:衝撃 (shōgeki)  
 **xopi** *compras (shopping)* ← eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼핑 (syoping), tha:ชอปปิ้ง (chop-bing), rus:шоппинг (šopping), zho:血拼 (xuèpīn)  
 **xou** *exposición (espectáculo)* ← eng:deu:fra:spa:por:show, rus:шоу (šou), tur:şov, swa:shoo, tha:โชว์ (choo), kor:쇼 (syo), jpn:ショー (shō), zho:秀 (xiù)  
-**xukur** *gracias* ← ara: شُكْر‎ m (šukr), hin:शुक्र (śukr), ben:শোকর (śokôr), swa:-shukuru, tur:şükür  
+**xukre** *gracias* ← ara: شُكْر‎ m (šukr), hin:शुक्र (śukr), ben:শোকর (śokôr), swa:-shukuru, tur:şükür  
 **xulakan** *escuela (colegio, institución)* ← zho:学 (xué) + deu:Schule, swa:shule + eng:school, fra:école, spa:escuela, por:escola, rus:школа (škola), ben:স্কুল (śkul), may:sekolah + hin:पाठशाला (pāṭhśālā), mar:शाळा (śāḷā), tam:பாடசாலை (pāṭasālai)  
 **xuli** *arreglo* ← zho:修理 (xiūlǐ), jpn:修理 (shuri), kor:수리 (suri)  
 **xuru** *comienzo (inicio, principio)* ← ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)  
@@ -1640,7 +1640,7 @@
 **yaki** *aproximadamente* ← kor:약 (yak), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)  
 **yam** *comer (bebir)* ← khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam  
 **yama** *lino* ← zho:亚麻 (yàmá), yue:亞麻 (aa3maa4), jpn:亜麻 (ama), kor:아마 (ama), hin:उमा (umā)  
-**yang** *variedad (tipo, estilo)* ← zho:样 (yàng), tha:อย่าง (yàang), khm:យ៉ាង (yaang)  
+**yang** ** ← zho:阳 (yáng), yue:陽 (joeng4), jpn:陽 (yō), kor:양 (yang), vie:dương, eng:deu:fra:spa:por:yang, rus:ян (yan)  
 **yatim** *huérfano* ← ara:fas:(yatim), tur:yetim, swa:yatima, hin:यतीम (yatīm)  
 **yau** *necesitar* ← zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu  
 **ye** *este* ← kor:이 (i) + ben:এ (e), hin:यह (ye) + tel:ఈ (ī), tam:இது (itu) + yor:yìí  
@@ -1650,6 +1650,7 @@
 **yen** *ojo* ← zho:眼 (yǎn) + ara: عَيْن‎ (ʿayn), egy: عين‎ (ʕēn), amh:ዐይን (ʿäyn), may:ain, fra:yeux  
 **yepa** *hoja* ← zho:叶 (yè), yue:葉 (jip6), kor:잎 (ip);엽 (yeop), vie:diệp, jpn:葉 (yō)  
 **yezi** *coco* ← zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)  
+**yim** ** ← zho:阴 (yīn), yue:陰 (jam1), jpn:陰 (in), kor:음 (eum), vie:âm, eng:deu:fra:spa:por:yin, rus:инь (in')  
 **yo** *algún* ← zho:有 (yǒu), yue:有 (jau5)  
 **yoga** *yoga* ← hin:योग (yog), pnb:ਯੋਗ (yog), urd:(yog), ben:যোগ (jog), tel:యోగా (yōgā), tha:โยคะ (yōga), eng:fra:spa:may:tur:yoga, por:ioga, rus:йога (yoga), zho:瑜伽 (yújiā), jpn:ヨーガ (yōga), kor:요가 (yoga)  
 **yogo** *yugo* ← eng:yoke, spa:yugo, por:jugo, fra:joug, rus:иго (igo), fas:  یوغ‎ (yuğ) + yue:軛 (aak1), vie:ách  

@@ -1498,6 +1498,7 @@ fonolojia - phonology
 fone zi - letter (character, written symbol)  
 fonte - fountain (spring, well)  
 fonte kalam - fountain pen  
+fonte sui - sping water  
 fonyo - fonio millet (acha rice)  
 for - off (away, gone, far-off)  
 fora - drill (bore, perforate)  
@@ -2371,8 +2372,8 @@ ke loka - where?
 ke poli di - how many?  
 ke riti - how?  
 ke sata - when?  
+ke tipe - what kind of?  
 ke xe - what thing?  
-ke yang - what kind of?  
 kecape - ketchup  
 keci - polite  
 keka - visitation (visit)  
@@ -3167,6 +3168,9 @@ nadir - rare (scarce, sparse, uncommon)
 nadir mar - seldom (rarely)  
 nadirta - rarity  
 nafas - breath  
+nafte - oil  
+nafte fonte - oil well  
+nafte guku - Indian chrysanthemum  
 nagre - town  
 nagral - urban  
 nagre gogia - city state  
@@ -3236,14 +3240,14 @@ nefre - kidney
 nefralgia - nephralgia (pain of the kidneys)  
 nefrextomia - nefrectomy  
 nefritis - nephritis  
-nefte - oil  
-nefte guku - Indian chrysanthemum  
-nega - refuse (deny, decline)  
-nekro - corpse (dead body)  
-nekro fili - nechrophilia  
-nekro lista - necrology (listing of people who have died)  
-nekro loga - obituary (necrology)  
-nekro tomi - autopsy (necrotomy)  
+• denege - deny (refuse, reject, turn away)  
+nege - deny (negate)  
+negative - negative  
+nekre - corpse (dead body)  
+nekrofilia - nechrophilia  
+nekroliste - necrology (listing of people who have died)  
+nekrologa - obituary (necrology)  
+nekrotomia - autopsy (necrotomy)  
 nelu - four (4)  
 nelu di galope - gallop  
 nelu gona - square (tetragon)  
@@ -3274,7 +3278,7 @@ neu Kaledonia - New Caledonia
 neu loga - neologism  
 neu nati di - newborn (neonatal)  
 neuta - newness  
-neu yang di - modern  
+neu tipe di - modern  
 neu Yorke - New York  
 neu Yorke siti - New York City  
 neu Zelande - New Zealand  
@@ -3585,7 +3589,7 @@ pesa plan - budget
 peta - peta-  
 pete - belly (stomach, abdomen)  
 petra - rock  
-petra nefte - petroleum  
+petra nafte - petroleum  
 pexe - fish  
 pexe huke - fishhook  
 pexe saide ja - fisher  
@@ -4385,7 +4389,7 @@ tike - slip (shred, tikka)
 tikete - tag (ticket, label, slip, note)  
 tim - team  
 Timor - Timor  
-tipe - type (kind, genre)  
+tipe - type (kind, sort, style, genre)  
 tipi - tipi (teepee)  
 tire - pull  
 tire dara - rip current  
@@ -4790,8 +4794,8 @@ xoke - shock (collision)
 xopi - shopping  
 xopi ja - buyer  
 xou - show (display, exhibition, demonstration, demo)  
-xukur - thanks (thank you)  
-xukurta - gratitude  
+xukre - thanks (thank you)  
+xukria - gratitude  
 xula - education (schooling)  
 xula guru - schoolteacher  
 xula ja - student (pupil, learner)  
@@ -4823,8 +4827,7 @@ yam yau - hunger
 yama - flax (linen)  
 yama seme - linseed  
 yama tela - linen fabric  
-yang - kind (style, sort, type)  
-preyang di - classic (classical)  
+yang - yang (positive, bright, living, hard, masculine)  
 Yapetus - Iapetus  
 yatim - orphan  
 yatim dom - orphanage  
@@ -4854,6 +4857,8 @@ Yesa - Jesus
 Yesa Mesi - Jesus Christ  
 Yesa sanga - Jesuits (Society of Jesus)  
 yezi - coconut tree  
+yim - yin (negative, dark, ghostly, soft, feminine)  
+yim yang - yin-yang  
 yo - some (one)  
 yo jen - someone (somebody)  
 yo sata - sometime  
@@ -4930,6 +4935,3 @@ zuku di - ethnic
 zuku medi di - interethnic  
 Zulu - Zulu  
 zumarde - emerald  
- - advance (progress, go forward, enter)  
- - put forward (advance, progress)  
- - oppose (antagonize, object, resist)  

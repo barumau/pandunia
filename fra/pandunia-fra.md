@@ -699,7 +699,9 @@ flur - fluor
 fluride - fluorure  
 fobi ja - effrayant  
 foli - échelle  
+fonte - source  
 fonte kalam - stylo-plume  
+fonte sui - eau de source  
 fonyo - fonio blanc  
 for - loin (hors, parti)  
 fora - forer (percer)  
@@ -1489,6 +1491,8 @@ nabi - prophétiser
 nabija - prophète (héraut)  
 nadir - rare  
 nadir mar - rarement  
+nafte - huile (pétrole)  
+nafte fonte - puits de pétrole  
 nagral - urbain  
 nagre gogia - cité-état  
 najis - pollution  
@@ -1516,11 +1520,13 @@ nave dex - tribord
 nave leu - babord  
 nefre - rein  
 nefritis - néphrite  
-nefte - huile (pétrole)  
-nekro - cadavre (corps)  
-nekro fili - nécrophilie  
-nekro loga - nécrologie  
-nekro tomi - autopsie  
+• denege - dénier  
+nege - nier  
+negative - négatif  
+nekre - cadavre (corps)  
+nekrofilia - nécrophilie  
+nekrologa - nécrologie  
+nekrotomia - autopsie  
 nelu - quatre (4)  
 nen - an (année)  
 neodimium - néodyme  
@@ -1684,7 +1690,7 @@ perex fa - périr
 pesa - argent  
 pesa diske - monnaie (pièce)  
 petra - roche (pierre)  
-petra nefte - pétrole (essence)  
+petra nafte - pétrole (essence)  
 pexe - poisson  
 pexe huke - hameçon  
 pexe saide ja - pêcheur  
@@ -2216,8 +2222,8 @@ xiva - Shiva
 xix - brochette  
 xix karne - chachlik  
 xopi - shopping  
-xukur - merci  
-xukurta - gratitude  
+xukre - merci  
+xukria - gratitude  
 xula - éducation  
 xula guru - professeur (enseignant)  
 xula ja - étudiant  
@@ -2254,6 +2260,7 @@ yepa koli - chou frisé
 yepa late - page  
 Yesa - Jésus  
 Yesa Mesi - Jésus-Christ  
+yim yang - yin-yang  
 yoga - yoga  
 yogo - joug  
 yogur - yaourt (yogourt)  
@@ -2290,4 +2297,3 @@ zuku - ethnie
 zuku di - ethnique  
 Zulu - zoulou  
 zumarde - émeraude  
- - s'opposer à  

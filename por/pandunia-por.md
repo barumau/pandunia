@@ -557,6 +557,7 @@ fluride - fluoreto
 fobi ja - assustador  
 foli - escama  
 fonte kalam - caneta de tinta permanente  
+fonte sui - água de fonte  
 fora - furar (perfurar)  
 • dusforme - desfigurar  
 fosfe - fósforo  
@@ -1282,6 +1283,8 @@ nabi - profetizar
 nabija - profeta (arauto)  
 nadir - raro  
 nadir mar - raramente  
+nafte - aceite (óleo)  
+nafte fonte - poço de petróleo  
 nagral - urbano  
 nagre gogia - Cidade-estado  
 najis - poluição  
@@ -1308,11 +1311,12 @@ nave trepe - portaló
 nave leu - bombordo  
 nefre - rim  
 nefritis - nefrite  
-nefte - aeite (óleo)  
-nekro - cadáver  
-nekro fili - necrofilia  
-nekro loga - obituário  
-nekro tomi - autopsía  
+• denege - denegar  
+negative - negativo  
+nekre - cadáver  
+nekrofilia - necrofilia  
+nekrologa - obituário  
+nekrotomia - autopsía  
 nelu - quatro (4)  
 neodimium - neodímio  
 neon - néon  
@@ -1468,7 +1472,7 @@ perex fa - perecer
 pesa - dinheiro  
 pesa diske - moeda  
 petra - rocha (pedra)  
-petra nefte - petróleo  
+petra nafte - petróleo  
 pexe - peixe  
 pexe huke - anzol  
 pexe saide ja - pescador  
@@ -1939,8 +1943,8 @@ xiu seku - pedrinha
 xiva - Xiva  
 xofer ja - condutor (chofer, motorista)  
 xopi - compras  
-xukur - obrigado  
-xukurta - gratidão  
+xukre - obrigado  
+xukria - gratidão  
 xula - educação  
 xula guru - professor (docente)  
 xulakan - escola (colégio)  
@@ -1973,6 +1977,7 @@ yepa alga - kelp
 yepa koli - couve-de-folhas  
 yepa late - página  
 Yesa Mesi - Jesus Cristo  
+yim yang - yin-yang  
 yoga - ioga  
 yogo - jugo  
 yogur - iogurte  
@@ -2003,4 +2008,3 @@ zukraden - sexta-feira
 zuku - etnia  
 zuku di - étnico  
 zumarde - esmeralda  
- - opor  

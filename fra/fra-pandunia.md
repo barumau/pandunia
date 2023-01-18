@@ -201,7 +201,7 @@ auteur - auter
 autocollant - glu grafi  
 automatique - autatike  
 automne - pada mosim  
-autopsie - nekro tomi  
+autopsie - nekrotomia  
 autre - ale  
 autrement - alo di  
 avant - pre  
@@ -354,7 +354,7 @@ cabine téléphonique - tele fon bude
 cacher - fa sir  
 cachet de la poste - posta marke  
 cactus - katus  
-cadavre (corps) - nekro  
+cadavre (corps) - nekre  
 cadenas - pende sor  
 cadmium - kadimium  
 cadre - frem  
@@ -704,6 +704,7 @@ défunt - defunte
 déféquer - defeke  
 délai (retard) - dele  
 déléguer - vakilize  
+dénier - denege  
 désaccord (différend) - alo rai  
 désastre - dusastre  
 désespéré - axa hin  
@@ -716,6 +717,7 @@ dévoiler (révéler) - devel
 
 east (orient) - dong  
 eau - sui  
+eau de source - fonte sui  
 eaux de pluie - barxa sui  
 effectuer - fa asar  
 effet - asar  
@@ -909,7 +911,7 @@ graisse - lipe
 grand-mère - cin ma  
 grand-père - cin pa  
 granit - granite  
-gratitude - xukurta  
+gratitude - xukria  
 gravire - grave  
 grenouille - krokro  
 grimace - grimas  
@@ -976,7 +978,7 @@ horreur - horure
 houblon - humel  
 houe - copu  
 hourra - hura  
-huile (pétrole) - nefte  
+huile (pétrole) - nafte  
 huit (8) - bati  
 humain - humanike  
 humanisme - humanisme  
@@ -1260,7 +1262,7 @@ menthe poivrée - pipre minta
 menthe verte - kane minte  
 menu (carte) - yam liste  
 mer - bahai  
-merci - xukur  
+merci - xukre  
 mercredi - merkurden  
 mercure - hidrargente  
 Mercure - Merkur  
@@ -1375,6 +1377,7 @@ niche (de chien) - vaf bude
 niche - nix  
 nickel - nikel  
 nid - nide  
+nier - nege  
 nihonium - niponium  
 niobium - niobium  
 nitrate - nitrate  
@@ -1403,9 +1406,10 @@ nuage - megi
 numérique - numerike  
 nylon - nilon  
 nécessaire - yau di  
-nécrologie - nekro loga  
-nécrophilie - nekro fili  
+nécrologie - nekrologa  
+nécrophilie - nekrofilia  
 néflier - muxmula  
+négatif - negative  
 néodyme - neodimium  
 néologisme - neu loga  
 néon - neon  
@@ -1716,6 +1720,7 @@ prêter - jeka don
 psychologie - ruhu lojia  
 psyché - ruhu  
 pudding - puding  
+puits de pétrole - nafte fonte  
 punicion - fatu  
 punir - fa fatu  
 pyramide - piram  
@@ -1726,7 +1731,7 @@ pâte à modeler - plasti paste
 pénal - fatu di  
 périr - perex fa  
 péter - fa pede  
-pétrole (essence) - petra nefte  
+pétrole (essence) - petra nafte  
 pêcheur - pexe saide ja  
 quand - ke sata  
 quartier - mahala  
@@ -1833,7 +1838,6 @@ rôtir - xava
 ## S  
 
 s'installer (déménager) - be migra  
-s'opposer à -   
 sable - sable  
 sac - baga  
 sac - sake  
@@ -1938,6 +1942,7 @@ sorgho - jovar
 soufre - sulfe  
 soumission - islam  
 soupe - supa  
+source - fonte  
 souris - muxu  
 sous-estimer - fa min rai  
 souteneur (maquereau) - sutener  
@@ -2202,6 +2207,7 @@ Yahweh (Jéhovah) - Yahve
 yaourt (yogourt) - yogur  
 yerba mate - mate  
 Yi King - yeka kanon  
+yin-yang - yim yang  
 yoga - yoga  
 yourte - yurta  
 ytterbium - yuterbium  

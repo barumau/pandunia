@@ -1264,6 +1264,7 @@ fonolojia - fonología
 fone zi - letra (carácter)  
 fonte - fuente (manantial)  
 fonte kalam - estilógrafo  
+fonte sui - agua manantial  
 fonyo - mijo fonio  
 for - lejos (fuera)  
 fora - taladrar (perforar)  
@@ -2017,8 +2018,8 @@ ke loka - dónde
 ke poli di - cuántos  
 ke riti - cómo  
 ke sata - cuándo  
+ke tipe - qué tipo de  
 ke xe - cuál cosa  
-ke yang - qué tipo de  
 kecape - kétchup  
 keci - educado  
 keka - visitar  
@@ -2709,6 +2710,8 @@ nabija - profeta (heraldo)
 nadir - raro  
 nadir mar - raramente  
 nafas - respiración  
+nafte - aceite (óleo)  
+nafte fonte - pozo petrolífero  
 nagre - pueblo  
 nagral - urbano  
 nagre gogia - ciudad estado  
@@ -2771,12 +2774,13 @@ Nederlande Antil - Antillas Neerlandesas
 nefre - riñon  
 nefrextomia - nefrectomía  
 nefritis - nefritis  
-nefte - aceite (óleo)  
-nega - rechazar (negar)  
-nekro - cadáver  
-nekro fili - necrofilia  
-nekro loga - necrología (obituario)  
-nekro tomi - autopsia  
+• denege - denegar  
+nege - rechazar (negar)  
+negative - negativo  
+nekre - cadáver  
+nekrofilia - necrofilia  
+nekrologa - necrología (obituario)  
+nekrotomia - autopsia  
 nelu - cuatro (4)  
 nelu gona - cuadro  
 nen - año  
@@ -2805,7 +2809,7 @@ neu Kaledonia - Nueva Caledonia
 neu loga - neologismo  
 neu nati di - neonato (recién nacido)  
 neuta - novedad  
-neu yang di - moderno  
+neu tipe di - moderno  
 neu Zelande - Nueva Zelanda  
 neure - nervio  
 neural - neural  
@@ -3060,7 +3064,7 @@ pesa kasa ja - cajero
 pesa plan - presupuesto  
 pete - barriga (vientre, panza)  
 petra - roca (piedra)  
-petra nefte - petróleo  
+petra nafte - petróleo  
 pexe - pez (pescado)  
 pexe huke - hamo (anzuelo)  
 pexe saide ja - pescador  
@@ -3762,7 +3766,7 @@ tike - pedazo
 tikete - etiqueta (boleto, billete)  
 tim - equipo  
 Timor - Timor  
-tipe - tipo (género)  
+tipe - variedad (tipo, estilo)  
 tipi - tipi  
 tire - tirar  
 tire dara - corriente de resaca  
@@ -4097,8 +4101,8 @@ xoke - choque (sacudida)
 xopi - compras (shopping)  
 xopi ja - comprador  
 xou - exposición (espectáculo)  
-xukur - gracias  
-xukurta - gratitud  
+xukre - gracias  
+xukria - gratitud  
 xula - educación  
 xula guru - maestro (profesor, docente)  
 xula ja - estudiante  
@@ -4127,8 +4131,6 @@ yam xe - comida
 yam yau - hambre  
 yama - lino  
 yama seme - linaza  
-yang - variedad (tipo, estilo)  
-preyang di - clásico  
 yatim - huérfano  
 yatim dom - orfanato  
 yau - necesitar  
@@ -4153,6 +4155,7 @@ yepa late - página
 Yesa - Jesús  
 Yesa Mesi - Jesucristo  
 yezi - coco  
+yim yang - yin-yang  
 yo - algún  
 yo jen - algién  
 yo sata - algún día (algún vez)  
@@ -4221,5 +4224,3 @@ zuku di - étnico
 zuku medi di - interétnica  
 Zulu - zulú  
 zumarde - esmeralda  
- - avanzar (entrar, adelantar, progresar)  
- - oponerse (resistir)  
