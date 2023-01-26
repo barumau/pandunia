@@ -108,8 +108,12 @@ Angola - Angola
 angul - doigt  
 angul marke - empreinte digitale  
 angul pike - bout de doigt  
-anime - animation  
+anime - âme (esprit)  
+animaje - animation  
+• reanimate - réanimer  
+animate - animer  
 animation - animation  
+animisme - animisme  
 anis - anis  
 anis araki - raki  
 anjil - message  
@@ -123,7 +127,6 @@ anus - anus
 anusal - anal  
 aple - pomme  
 aple sos - compote de pommes  
-aplika - appliquer (application)  
 aposum - sarigue (opossum)  
 arabe - arabe  
 araki - spiritueux  
@@ -483,6 +486,7 @@ dexhanuka - droitier (dextre)
 dia - jour  
 dia foto - lumière du jour  
 dike - viser (direction, cible; objectif)  
+dike - viser  
 din - religion  
 din ja - croyant  
 • andin ja - infidèle (incroyant)  
@@ -499,7 +503,6 @@ dite - dicter
 • ditater - dictateur  
 • ditateria - dictature  
 • dition - diction  
-dobe - brique  
 doh - fille  
 dokumen - document (dossier)  
 dokumen filme - documentaire  
@@ -592,7 +595,6 @@ fa bina - construire
 fa culi - traiter  
 fa daka - couvrir  
 fa dante - mordre  
-fa dika - viser  
 fa dipe - baisser  
 fa dosil - apprivoiser (dresser, dompter, discipliner)  
 fa dosil gene - domestiquer (apprivoiser)  
@@ -1222,6 +1224,7 @@ kurban - sacrifice
 • prekurser - précurseur  
 kurta - tunique  
 kurva - courbe  
+kutu - pou  
 kux loka - couch (couchette)  
 
 ## L  
@@ -1696,6 +1699,7 @@ pexe huke - hameçon
 pexe saide ja - pêcheur  
 piaze - oignon  
 pike - bout (pointe, pic)  
+pilau - pilaf  
 pin - épingle  
 pin cope - pioche  
 pin kardon - chardon aux ânes  
@@ -1709,8 +1713,9 @@ piram - pyramide
 pirate - piraterie  
 pisea - Épicéa  
 piza - pizza  
+• aplike - appliquer  
 plan - plan  
-plasti paste - pâte à modeler  
+plaste paste - pâte à modeler  
 plate geo kaskalogi - tectonique des plaques  
 plate geo sim ja - terreplatiste  
 plate stan - plaine  
@@ -1718,12 +1723,12 @@ platin - platine
 plumbe - plomb  
 plutonium - plutonium  
 poli baxa di - plurilingue (multilingue)  
+Polinesia - Polynesie  
 polipli - multiple  
-Polinesi - Polynesie  
 polite - gouvernement  
 politike - administrateur  
 polskium - polonium  
-pompe tapa - piston  
+pompe tape - piston  
 pore - pore  
 porei - poireau  
 porte - porter  
@@ -1733,24 +1738,25 @@ porto - porte
 Portoriko - Porto Rico  
 portoriko jen - Portoricain  
 pos den - demain  
-pos di - postérieur  
-pos fixe - suffixe  
-posta marke - cachet de la poste  
+posfixe - suffixe  
+posike - postérieur  
+poste marke - cachet de la poste  
 pote - pot (vase)  
 pote camaca - louche (cuillère à pot)  
-pote ja - potier  
-pote suta - poterie  
+poter - potier  
+poteria - poterie  
 poto - boue (fange, bourbe, gadoue)  
 poto defa bano - garde-boue (aile)  
 poto stan - marécage (marais)  
-poyu - pou  
 • expoze - exposer  
 prazedimium - praséodyme  
 pre - avant  
 presidente - président  
 prese - pression  
 preser - pressoir  
-prese gi - pressoir  
+prive - personnel (privé)  
+• deprive - priver de  
+privatize - privatiser  
 proba - essayer (tenter)  
 problem - problème  
 problem di - problématique  
@@ -1794,6 +1800,8 @@ rang glas - verre coloré
 rang mate - colorant  
 rasa - race  
 rasa medi - interracial  
+ration - raisonnement  
+ratolojia - logique  
 ratibu - ordre  
 realisme - réalisme  
 realta - réalité  
@@ -1986,7 +1994,6 @@ suta - art
 
 table komputa - ordinateur tablette  
 tai - estrade  
-tail - carreau (tuile)  
 talium - thallium  
 tala - serrure  
 tana - tige  
@@ -2000,6 +2007,9 @@ taximetrer - taximètre
 taxi vala - chauffeur de taxi  
 taza - frais  
 tef - mil éthiopien  
+tege - brique  
+tegule - tuile  
+tege pote - tagine  
 tehne - technique  
 tehnetium - technétium  
 tehnolojia - technologie  

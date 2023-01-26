@@ -87,7 +87,7 @@ agricultural - agral
 agriculture - agrokulte  
 agrobiology - agrobiolojia  
 agronomy - agronomia  
-aim (point) - fa dika  
+aim (point) - dike  
 air - air  
 airforce - air ordu  
 airplane - fei gi  
@@ -172,9 +172,11 @@ Angola - Angola
 angry (furious) - furi  
 animal - hevan  
 animal husbandry - hevan agri suta  
+animate - animate  
 animate - fa anime  
-animation (cartoon) - anime  
-animation (the act of animating) - animation  
+animation (animating) - animation  
+animation (cartoon) - animaje  
+animism - animisme  
 anise - anis  
 anniversary - nen festa  
 answer (reply, response) - javabu  
@@ -194,8 +196,8 @@ appear (look like; appearance, looks, figure, representation) - rupa
 appear - be zai  
 apple - aple  
 applesauce - aple sos  
+apply (put sth on sth else) - aplike  
 apply (put to use for a purpose) - fa aplika  
-apply (put to use for a purpose; application) - aplika  
 apprentice - kar xular  
 approach (get close, approximate) - aproxe  
 approach (get near) - be karibu  
@@ -318,7 +320,7 @@ azure bluet - nil serami sing
 babul tree (thorny acacia) - arabi babul  
 baby (infant) - bebe  
 bachelor (bachelor’s degree) - baceler  
-back (posterior) - pos di  
+back (posterior) - posike  
 back (return it to previous place) - re  
 back - ruke  
 backgammon - nardi  
@@ -556,7 +558,7 @@ breastplate - sine plate
 breath - nafas  
 breathe - fa nafas  
 breed - gene yo hevan  
-brick - dobe  
+brick - tege  
 bridge - kio  
 bright (brilliant, clear) - ming  
 brighten - fa ming  
@@ -845,6 +847,7 @@ cloud - megi
 cloudy (foggy) - megi di  
 clown - payace  
 club - klube  
+coast (shore) - bahai kinar  
 coat - kote  
 cobalt - kobalte  
 cobblestone - gola seku  
@@ -898,7 +901,7 @@ communist - kon sana sim ja
 Comoros - Komoro nesi  
 companion (partner, sidekick) - late jen  
 company (corporation) - kompani  
-compass (magnetized needle) - ponte pin  
+compass (magnetized needle) - dike pin  
 compassion (sympathy) - sam emos  
 compassion - kon pasi  
 compatible (interoperable, supported) - konfuntebil  
@@ -908,7 +911,8 @@ compatriot - sam gogia jen
 compete (have a match) - fa mece  
 complain (lament) - xikaya  
 complete (make done) - pul fina  
-component - konpozeje  
+complicated - konplike  
+component - konpozaje  
 compost - bio sana xe  
 compress (squeeze, squish) - konprese  
 compute (reckon together) - konpute  
@@ -1154,6 +1158,7 @@ dentist - dante dava ja
 deny (negate) - nege  
 deny (refuse, reject, turn away) - denege  
 depress (push away) - deprese  
+deprive - deprive  
 depth - fase teleta  
 descriptive - sifa di  
 desert - sablestan  
@@ -1627,6 +1632,7 @@ fly (go through air) - fa fei
 fly - zeze  
 focus (concentration) - foku  
 fog (mist, haze) - dipe megi  
+fold (layer) - ple  
 folder (directory) - dokumen sanduku  
 follow (come after) - fa pos  
 fonio millet (acha rice) - fonyo  
@@ -2139,7 +2145,7 @@ infinity - anlimite
 inflammation (-itis) - tis  
 information (communicable knowledge) - kon sabi  
 initial (first) - xuru di  
-initial (first; prime) - preme  
+initial (first; prime) - prime  
 inject (injection) - injete  
 inject - fa juxa  
 injection - juxa  
@@ -2474,7 +2480,9 @@ log in (sign in) - inloga
 log out (log off) - exloga  
 logbook - loga buku  
 logic (deduction) - logika  
+logic - ratolojia  
 logical - logika di  
+logical - ratolojike  
 logogram (logo) - logograme  
 logophile (word buff) - logofiliste  
 logophilia - logofilia  
@@ -2496,7 +2504,7 @@ lose (fail, miss, be defeated) - fa xiti bai
 lose (misplace, miss, shed) - xiti  
 loser - xiti bai ja  
 lot (plot of land) - geo tike  
-louse - poyu  
+louse (cootie) - kutu  
 love (strong affection, desire) - luba  
 love romantically - fa romanse  
 lovegrass (teff) - tef  
@@ -2550,12 +2558,12 @@ magus (Zoroastrian priest) - zarduxtan mager
 mahjong - majang  
 maid (nanny, ayah) - aya  
 mail (send by mail) - fa posta  
-mail - posta  
+mail - poste  
 main (principal) - xefe di  
 major (greater) - maxike  
 majority - maxia  
 make a mistake - fa galte  
-make sense - be razon  
+make sense (reason) - rate  
 maker (factor, agent) - feter  
 maker (manufacturer) - sana ja  
 makrut lime (kaffir lime) - gros limon  
@@ -2938,7 +2946,7 @@ news media - habar media
 newsletter - habar letre  
 newspaper (gazette) - habar gazeta  
 newton (N) - niuton  
-next (following, back) - pos di  
+next (following, back) - posime  
 nexus (web, network) - nete  
 Nicaragua - Nikaragua  
 nice (pleasant, comfortable, cushy) - huxi  
@@ -3119,6 +3127,7 @@ oven (furnace) - tanur
 overflow (spill out) - vai dara  
 overpass - supra  
 overwrite - vise kitaba  
+own (personal, private) - prive  
 own (possess) - fa mal  
 own - se su  
 owner (proprietor) - mal ja  
@@ -3311,7 +3320,7 @@ pie (pastry) - pai
 piece (chip, fragment, shred, morsel, crumb, shard) - parte  
 pierce (perforate, bore) - fa kung  
 pig - goro  
-pilaf (pulao) - polau  
+pilaf (pulao) - pilau  
 pillar (column, pole, post) - kolum  
 pilot - pilote  
 pinch - pinse  
@@ -3328,7 +3337,7 @@ Pirate Party - pirate parti
 piss (urinate) - fa pix  
 piss (urine) - pixa  
 pistol - pistol  
-piston - pompe tapa  
+piston - pompe tape  
 piston - puxa gi  
 Pitcairn Islands - Pitkerne nesi  
 pixel - grafi so  
@@ -3345,22 +3354,22 @@ plane ticket - fei gi tikete
 planet - planeta  
 plant (vegetable, vegetation) - fite  
 plasma (ionized gas) - plazma  
-plastic (moldable, malleable) - plasti di  
-plastic - plasti  
+plastic (moldable, malleable) - plastike  
+plastic - plaste  
 plate - plate tasa  
 plate tectonics - plate geo kaskalogi  
 plateau (tableland) - meza stan  
 platform - plate forma  
 platinum - platin  
 Plato - Platon  
-Platonic - Platon sim di  
-Platonism - Platon sim  
-Platonist - Platon sim ja  
+Platonic - platonike  
+Platonism - platonisme  
+Platonist - platoniste  
 platypus - bata krote  
 play (theatrical play, drama) - drame  
 play a game - fa geme  
 play music - fa muzika  
-playdough - plasti paste  
+playdough - plaste paste  
 player (gamer) - gemer  
 please (satisfy, delight) - sukafa  
 pliers (pincers) - pinse gi  
@@ -3368,7 +3377,6 @@ pluck feathers - depena
 plug (stop with a plug) - fa tapa  
 Pluto (dwarf planet) - Pluton  
 plutonium - plutonium  
-ply (fold, times) - pli  
 pneumonia - pulmon tis  
 pocket - jebe  
 pocketknife - jebe caku  
@@ -3377,14 +3385,14 @@ poem - xir
 poet - xir ja  
 point (period, full stop) - punte  
 point (tip, cusp, peak) - pike  
-point at (indicate) - ponte  
-pointer (indicator) - ponte flece  
+point at (indicate) - dike  
+pointer (indicator) - diker  
 poison (venom) - toxe  
-poker - poker  
+poker - poke  
 Poland - Polska  
 polecat (ferret) - furete  
 police - polis  
-police officer - polis ja  
+police officer - poliser  
 police station - poliskan  
 polish - lumize  
 Polish language - polska baxa  
@@ -3397,7 +3405,7 @@ polonium - polskium
 polygenesis - poligene  
 polygon - poli gona  
 polyhedron - poli fase  
-Polynesia - Polinesi  
+Polynesia - Polinesia  
 polytheism - poli deu sim  
 ponder (think, contemplate, consider, regard) - hem  
 pool (basin, bowl) - basen  
@@ -3418,25 +3426,25 @@ pose (set, plant) - fa poze
 pose (set; position) - poze  
 possessive postposition (’s) - su  
 possible (able, can) - bil  
-post office - postakan  
+post office - postekan  
 post-production - posprodution  
-postal stamp - posta cape  
+postal stamp - poste cape  
 postfix - posfixe  
-postmark (postage stamp) - posta marke  
+postmark (postage stamp) - poste marke  
 postnatal - posnatal  
-postposition - pospoze  
+postposition - pospozaje  
 posture (asana) - asan  
 pot (vase, bin, jar) - pote  
 potassium - kalium  
 potato - patate  
 potion - dava sui  
-potter - pote ja  
-pottery - pote suta  
+potter - poter  
+pottery - poteria  
 pound (£) - paunde  
 powder - fun  
 power (authority, rule) - sultan  
-practical (pragmatic) - prati di  
-practice (actuality) - prati  
+practical (pragmatic) - pratike  
+practice (actuality) - prate  
 practice (to exercise) - fa lenxi  
 practicioner (person in charge or employed in an area, -person, -man) - vala  
 praise (commend, exalt) - halela  
@@ -3460,7 +3468,7 @@ prehistory - prehistoria
 prejudice - prejude  
 prenatal - prenatal  
 prepare (make ready) - fa redi  
-preposition - prepoze  
+preposition - prepozaje  
 presence (existence) - zaita  
 present (existing) - zai di  
 present time (now) - zai zaman  
@@ -3468,7 +3476,6 @@ president - presidente
 press (imprint) - fa cape  
 press (pressure) - prese  
 press (squeeze) - fa prese  
-press device - prese gi  
 press device - preser  
 previous (fore) - pre di  
 prick (sting) - fa pin  
@@ -3482,6 +3489,7 @@ prison (jail) - jelakan
 prisoner - jela jen  
 pristine (virginal) - virge di  
 privateer (buccaneer) - nave kape ja  
+privatize - privatize  
 problem (issue) - problem  
 problematic - problem di  
 process (handling, treatment, procedure) - culi  
@@ -3539,7 +3547,7 @@ Punjabi - panjabi
 purple (violet) - violeta nil  
 push - pulse  
 put (place, set) - fa loka  
-put back (postpone) - pos poza  
+put back (postpone) - pospoze  
 put back (postpone) - pospoze  
 put in (impose) - inpoze  
 pyramid - piram  
@@ -3593,7 +3601,7 @@ random - zarike
 rank (grade, dan) - dan  
 rare (scarce, sparse, uncommon) - nadir  
 rarity - nadirta  
-rational (reasonable) - razon li  
+rational (reasonable) - rational  
 raw (crude) - gene di  
 raw (crude, fresh) - seng  
 ray (radiation) - radi  
@@ -3609,8 +3617,9 @@ reality - realta
 realization (awareness, enlightenment, bodhi) - budi  
 realize (understand) - fa budi  
 realize (understand; aha) - aha  
+reanimate - reanimate  
 reason (cause) - sabu  
-reason (rational thinking) - razon  
+reason (reasoning, rational thinking) - ration  
 rebellion - rebel  
 rebirth (renaissance) - rinate  
 recede (retreat) - recese  
@@ -3965,7 +3974,6 @@ shoemaker's shop - sapatukan
 shogunate - ordu rajia  
 shoot (fire) - pau  
 shopping - xopi  
-shore (coast, beach) - bahai kinar  
 short (brief) - korte  
 short story - korte kata  
 shorten - korte fa  
@@ -4083,6 +4091,7 @@ soon (after a while) - a korte
 sorghum (durra, jawar, Indian millet) - jovar  
 sororal nephew - sis son  
 sororal niece - sis doh  
+soul (life spirit) - anime  
 soul (mind, psyche) - ruhu  
 sound (audio) - soni  
 sound (make a sound) - fa soni  
@@ -4219,7 +4228,7 @@ suck (absorb) - cupu
 sucrose - sukaros  
 Sudan - Sudan  
 suffer (get hurt) - be pasi  
-suffix - pos fixe  
+suffix - posfixe  
 sugar - sukar  
 sugar beet - sukar bete  
 sugar-apple (sweetsop) - ata  
@@ -4294,6 +4303,7 @@ tail (coda) - koda
 Taipei - Taibei  
 Taiwan (Republic of China) - Taivan  
 Tajikistan - Tajiki  
+tajine - tege pote  
 take back - recepe  
 tale (story, legend, saga) - kata  
 talkative - loga tabi di  
@@ -4429,7 +4439,7 @@ tiger - bagre
 tight (tense) - tense  
 tighten - fa tense  
 tikka masala - masala tike  
-tile - tail  
+tile - tegule  
 tilt (skew) - fa terca  
 time (number of times) - mar  
 time - zaman  
@@ -4664,6 +4674,7 @@ Viet Nam - Viete
 Vietnamese language (Viet) - viete baxe  
 view (vision) - vidaje  
 village - deha  
+village council - ratekan  
 vine - trepater  
 vinegar - vin suan  
 vineyard - putau bagi  

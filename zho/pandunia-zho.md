@@ -63,14 +63,13 @@ angar - 锚
 angul - 手指  
 angul marke - 指纹 (指印)  
 angul pike - 指尖  
-anime - 活跃  
+animaje - 活跃  
 anis - 茴芹  
 anis araki - 阿剌吉  
 anjil - 信息  
 antena - 天线  
 anus - 肛门  
 aple - 苹果  
-aplika - 运用  
 aposum - 负鼠 (奥珀瑟姆)  
 arabi babul - 阿拉伯金合欢  
 araki - 烈酒  
@@ -370,6 +369,8 @@ des - 十
 dexhanuka - 右利手 (右撇子)  
 dia - 白天  
 dike - 方向 (目的, 目标, 瞄准)  
+dike - 瞄准  
+dike pin - 指南针  
 din - 宗教  
 din ja - 信徒  
 • andin ja - 不信神的  
@@ -386,7 +387,6 @@ disprosium - 镝
 • ditater - 独裁者  
 • ditateria - 独裁  
 • dition - 吐字  
-dobe - 砖  
 doh - 女儿  
 doh doh - 外孙女  
 dokumen - 文件  
@@ -453,7 +453,6 @@ fa banya - 游泳
 fa bina - 建设  
 fa culi - 处理 (对待)  
 fa dante - 咬  
-fa dika - 瞄准  
 fa ding - 决定  
 fa dosil - 驯养  
 fa dus forma - 变丑  
@@ -981,6 +980,7 @@ kupa - 杯子
 kupre - 铜  
 kurium - 锔  
 kurban - 牺牲  
+kutu - 虱子  
 
 ## L  
 
@@ -1375,6 +1375,7 @@ pexe saide ja - 鱼夫
 piaze - 洋葱  
 pike - 尖顶  
 pil - 皮  
+pilau - 抓饭  
 pin - 别针  
 pin cope - 镐  
 pin kardon - 大翅蓟  
@@ -1384,32 +1385,33 @@ pipre - 胡椒
 pipre minta - 辣薄荷  
 piram - 金字塔  
 pisea - 云杉  
+• aplike - 运用  
 plate geo kaskalogi - 板块构造论  
 plate stan - 平原  
 platin - 铂  
 plumbe - 铅  
 plutonium - 钚  
-Polinesi - 波利尼西亚  
+Polinesia - 波利尼西亚  
 polite - 政府  
 politi lona - 政治  
 politi mode - 政体  
 polskium - 钋  
-pompe tapa - 活塞  
-ponte pin - 指南针  
+pompe tape - 活塞  
 porei - 韭葱  
 • reporter - 记者  
 porto - 港  
 pote camaca - 勺 (舀)  
-pote ja - 陶瓷工  
-pote suta - 陶器制造  
+poter - 陶瓷工  
+poteria - 陶器制造  
 poto - 坭  
 poto defa bano - 挡泥板  
 poto stan - 沼泽  
-poyu - 虱子  
 prazedimium - 镨  
 pre - 以前  
 presidente - 總統  
 prese - 压力  
+prive - 私立  
+privatize - 私有化  
 problem - 问题 (难题)  
 prometium - 钷  
 protacinium - 镤  
@@ -1438,6 +1440,8 @@ rakun - 浣熊
 rang arka salmon - 虹鱒  
 rang mate - 染料  
 rasa - 种族  
+ration - 推论  
+ratolojia - 论理 (逻辑)  
 ratibu - 常规 (次序)  
 real - 现实的  
 realisme - 现实主义  
@@ -1606,7 +1610,6 @@ suta - 技术
 
 tabi - 特性 (生性)  
 table komputa - 平板电脑  
-tail - 砖 (瓦)  
 talium - 铊  
 tala - 锁  
 tami - 贪婪的  
@@ -1618,6 +1621,9 @@ taximetrer - 计程器
 taxi vala - 出租车司机  
 taza - 新鲜的  
 tef - 苔麸  
+tege - 砖  
+tegule - 砖 (瓦)  
+tege pote - 尖盖锅  
 tehne - 技术  
 tehnetium - 锝  
 tehnolojia - 工艺学  

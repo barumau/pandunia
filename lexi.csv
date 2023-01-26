@@ -146,8 +146,12 @@ angul.marke|angul marke||||fingerprint||empreinte digitale|huella digital|impres
 angul.pik.|angul pike||||fingertip|Fingerspitze||||||||||||||||||||sormenpää|
 angul.pike|angul pike||||fingertip||bout de doigt|yema del dedo|ponta do dedo|кончик пальца||अंगुलाग्र||||بَنَان‎||||指尖||指先||||sormenpää|
 angul.ring|angul ring||||finger ring|||anillo (sortija)|||||||||||||||||ringo|sormus|pierścień, pierścionek; obrączka
-anim.|anime|||eng:fra:animation, spa:animación, por:animação, rus:анимация, jpn:アニメ (anime), tur:may:anime, ara:أنمي m (ʾanimī), hin:ऐनिमे (ainime), kor:아니메 (anime)|animation (cartoon)||animation|animación (dibujo animado)||анимация|||||anime|||||活跃||アニメ|||kartuno|animaatio (piirroselokuva, piirretty)|animacja
-anim.at.ion.|animation||||animation (the act of animating)||animation|animación|||||||animasi||animasyon|||||アニメーション|애니메이션|||animointi|
+anim.|anime|||eng:fra:animation, spa:animación, por:animação, rus:анимация + jpn:アニメ (anime), tur:may:anime, ara:أنمي (ʾanimī), hin:ऐनिमे (ainime), kor:아니메 (anime)|soul (life spirit)|Seele (Geist)|âme (esprit)|alma (espíritu)|alma (espírito)|||||||||||||||||elämän henki|
+anim.aj.|animaje||||animation (cartoon)||animation|animación (dibujo animado)||анимация|||||anime|||||活跃||アニメ|||kartuno|animaatio (piirroselokuva, piirretty)|animacja
+anim.at-re|• reanimate||||reanimate|wieder beleben|réanimer|reanimar|reanimar|реанимировать (оживлять)|||||||||||||||reanimi|elvyttää (palauttaa henkiin)|
+anim.at.|animate||||animate|beleben|animer||animar|animar|||||||||||||||animi|elävöittää (animoida)|
+anim.at.ion.|animation||||animation (animating)||animation|animación|||||||animasi||animasyon|||||アニメーション|애니메이션|||animointi|
+anim.ism.|animisme||||animism|Animismus|animisme|animismo|animismo|анимизм||||||||||||||||animismi|animizm
 anis|anis|bio|Pimpinella anisum|eng:anise, fra:por:anis, spa:anís, rus:анис (anis), ara: أَنْسُون‎ (ʾansūn), jpn:アニス (anisu), kor:아니스 (aniseu)|anise||anis|anís|anis|анис||||||أَنْسُون‎||||茴芹||アニス (八角)|아니스|||anis|anyż
 anis.araki|anis araki||||raki||raki||áraque|арак (ракы)|||||||rakı|||阿剌吉||||||raki|
 anjil|anjil|||ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl), rus:евангелие (evangeliye), fra:évangile, por:evangelho|message||message|mensaje|mensagem|месседж||सन्देश (रिसाला)|||pesan (mesej)|رِسالة‎||||信息||伝言 (メッセージ)|소식 (메시지)|tin nhắn|mesaĝo|viesti|wiadomość
@@ -161,7 +165,6 @@ anus|anus|||eng:fra:anus, por:ânus, spa:ano, deu:Anus, rus:анус (anus), tur
 anus.al|anusal||||anal||anal|anal|||||||||||||||||anusa|anaalinen|analny, odbytni
 apl.|aple|bio||eng:apple, deu:Apfel, rus:яблоко (yabloko), may:apel, ben:আেপল (apôl), zul:ihhabhula|apple|Apfel|pomme|manzana|maçã|яблоко||सेब|আপেল||apel (epal)|تُفَّاح‎|elma|tofaa||苹果||林檎|사과|táo tây (bôm)|pomo|omena|jabłko
 apl.sos|aple sos||||applesauce||compote de pommes|compota de manzanas|purê de maçã|яблочное пюре||||||||||||||||omenasose|sos jabłkowy
-aplika|aplika|||eng:fra:application, spa:aplicación, por:aplicação, pol:aplikacja|apply (put to use for a purpose; application)||appliquer (application)|emplear (aplicar; aplicación)||||प्रयोग में लाना|||||kullanmak|||运用||||||soveltaa (sovellus)|stosować (zastosować; zastosowanie, aplikacja)
 aposum|aposum|bie|Didelphidae|eng:fra:opossum, rus:опоссум (opossum), zho:奥珀瑟姆 (àopòsèmǔ), jpn:オポッサム (opossamu), vie:ô-pốt-sâm, ara: أُوبُسُوم‎ (ʾubusum)|opossum||sarigue (opossum)|zarigüeya|sariguê (gambá, cuíca)|опоссум||||||أُوبُسُوم‎||||负鼠 (奥珀瑟姆)||袋鼠 (オポッサム)|ô-pốt-sâm||didelfo|pussirotta (opossumi)|opos
 arab.|arabe||||Arabia (Arab; Arabic)||arabe|árabe|||||||||||||||||araba|Arabia (arabia; arabialainen)|arabski
 arabi.babul|arabi babul|bio|Vachellia nilotica||babul tree (thorny acacia)|||goma arábiga||акация нильская||||||||||阿拉伯金合欢|||||||akacja arabska
@@ -288,7 +291,7 @@ bahai.di|bahai di||||maritime|||marítimo|marítimo|морской||||||||||||||
 bahai.hiyar|bahai hiyar|bio|Holothuroidea||sea cucumber||concombre de mer|holoturia (pepino de mar)|pepino-do-mar (holotúrias)|голотурия (морские огурц)|||||gamat|||||海參||海鼠||||merimakkara|strzykwa
 bahai.hua|bahai hua|bio|Actiniaria||sea anemone|||actinia (anémonas de mar)||морские анемоны|||||buran|||||海葵||イソギンチャク||||merivuokko|ukwiał
 bahai.jele|bahai jele|bio|Medusozoa||jellyfish (seajelly)||méduse|medusa|medusa|||||||||||海蜇||海月||||meduusa|meduza
-bahai.kinar|bahai kinar||||shore (coast, beach)||côte|costa (orilla)|costa|||तट||||||||海岸||海岸||||merenranta|wybrzeże
+bahai.kinar|bahai kinar||||coast (shore)|Küste|côte|costa (orilla)|costa||ساحل|तट (सीमा, कनारा, साहिल)|||pantai|سَاحِل‎|sahil|||海岸||海岸|||marbordo|merenranta|wybrzeże
 bahai.nil|bahai nil||||aqua (teal)|||||||||||||||||水色||||merensininen|morskoniebieski
 bahai.ordu|bahai ordu||||sea force (navy)||force navale (marine)|marina (armada)|marinha|военно-морской флот||नौसेना|||angkatan laut|||||海军||海軍|해군|hải quân|mararmeo|merivoimat (sotalaivasto)|marynarka (flota)
 bahai.porto|bahai porto||||harbor (seaport)|||puerto marítimo|porto marítimo|||||||||||海港||海港|||haveno|satama|port morski (przystań)
@@ -444,7 +447,6 @@ be.par|be par||||equal|||||||||||||||||||||olla yhtä kuin|
 be.pasi|be pasi||||suffer (get hurt)|||sufrir||||||||||||||||||sattua (käydä kipeää)|cierpieć
 be.pute|be pute||||decay (rot, deteriorate)||pourrir (se décomposer)|pudrirse (cariarse, descomponerse)|apodrecer-se|гнить (портиться)||सड़ना||||||||腐烂||腐敗||||mädäntyä (mädätä)|rozłożyć się (rozkładać się, gnić, psuć się)
 be.raste|be raste|||fra:croîter, rus:выраста́ть (vyrastat’), bel:расці́ (rascí), fas:رستن‎ (rostan)|grow (grow up, expand)|||crecer|||||||||||||||||kreski|kasvaa|wzrastać
-be.razon|be razon||||make sense|||tener sentido||||||||||||||||||käydä järkeen|mieć sens
 be.reste|be reste||||remain (stay)|||quedarse||||||||||||||||||jäädä jäljelle|zostać, zostawać
 be.retro|be retro||||return (get back)||retourner (revenir)|volver|voltar (regressar)|возвращаться||लौटना||||||||返回 (回来)|||||reiri|palata|wrócić, wracać, wycofać się, wycofywać się
 be.rota|be rota||||rotate (spin, turn on an axis)|||girar (rotar)||||||||||||||||||pyöriä|obrócić się (kręcić się)
@@ -847,8 +849,12 @@ di|di|part.||zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích|attributi
 dia|dia|||spa:día, por:dia + eng:day + hin:दिन (din), ben:দিন (din)|day (daytime)||jour|día|dia|день||दिन (दिवस)|দিন||hari (siang)|نَهَارُ|gündüz|mchana||白天||昼|낮|ban ngày|tago|päivä (päiväsaika)|dzień
 dia.foto|dia foto||||daylight||lumière du jour||luz do dia|дневной свет|||||||gün ışığı||||||||taglumo|päivänvalo|
 dia.yam|dia yam||||lunch|||almuerzo||||||||||||||昼食|||tagmanĝo|lounas|obiad, lunch
+dik-|dike|||eng:indicate, fra:indiquer, spa:por:indicar + hin:दिशा (diśā) + ben:দিকে (dike) + zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích|direct (point, aim; direction; target, objective)||viser (direction, cible; objectif)|apuntar (dirección)|directionar (apontar, mirar; direção; objetivo)|направить (нацелить; цель)||दिशा (तरफ़)|||arah (membidik)||yön|||方向 (目的, 目标, 瞄准)||方向 (標的, ターゲット; 狙う)|방향 (목표, 표적)|phương hướng  (mục tiêu, đích)|direkti (celi; direkto, celo)|osoittaa (tähdätä; suunta, kohde; maali)|cel (celować; kierunek)
+dik-|dike||||aim (point)||viser|apuntar|mirar (apontar)|целиться|||||membidik|||||瞄准||狙う|||celi|osoittaa (tähdätä)|celować
+dik-|dike||||point at (indicate)|||apuntar (indicar)|||||||||||||||||montri|osoittaa (näyttää)|wskazać, wskazywać
 dik-in|• indike||||indicate (point into)|||||||||||||||||||||osoittaa (näyttää)|
-dik.|dike|||eng:indicate, fra:indiquer, spa:por:indicar + hin:दिशा (diśā) + ben:দিকে (dike) + zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích|direct (point, aim; direction; target, objective)||viser (direction, cible; objectif)|apuntar (dirección)|directionar (apontar, mirar; direção; objetivo)|направить (нацелить; цель)||दिशा (तरफ़)|||arah (membidik)||yön|||方向 (目的, 目标, 瞄准)||方向 (標的, ターゲット; 狙う)|방향 (목표, 표적)|phương hướng  (mục tiêu, đích)|direkti (celi; direkto, celo)|osoittaa (tähdätä; suunta, kohde; maali)|cel (celować; kierunek)
+dik.er|diker||||pointer (indicator)|||indicador (cursor)||||||||||||||||||osoitin (viisari)|wskaźnik
+dik.pin|dike pin||||compass (magnetized needle)|||brújula||компас||||||||||指南针||羅針盤|||||kompas (namagnesowana igła)
 din|din|||ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|religion (worship)||religion|religión|religião|религия (вера)||धर्म (दीन)|ধর্ম (দীন)||agama (din)|دين‎|din (inanç)|dini||宗教||宗教|종교|tôn giáo|religio|uskonto|religia, wyznanie
 din.di|din di||||religious|||religioso|||||||||||||||||religia|uskonnollinen|religijny
 din.guru|din guru||||priest (cleric)|||sacerdote (clérigo, eclesiástico)|||||||||||||||||pastro|pappi|ksiądz, kleryk, kaznodzieja
@@ -878,7 +884,6 @@ dit.at.er|• ditater||||dictator||dictateur|dictador|ditador|диктатор||
 dit.at.er.ia|• ditateria||||dictatorship||dictature|dictadura|ditadura|диктатура||||||||||独裁||独裁|독재||diktaturo|diktatuuri|dyktatura
 dit.ion|• dition||||saying (diction)||diction|dicción|dicção|дикция|||||diksi|||||吐字||||||sanoittaminen (diktio)|
 Divehi|Divehi|dexa|MV||Maldives|||Maldivas||||||||||||||||||Malediivit|Malediwy (Republika Malediwów)
-dobe|dobe|||ara:طوبةطوبة (ṭūba), amh:ጡብ (ṭub), deu:eng:fra:spa:por:adobe|brick||brique|ladrillo|tijolo|кирпич||||||||tofali||砖||レンガ (磚)||||tiili|cegła
 doh|doh|famil||deu:Tochter, eng:daughter, rus:дочь (dočʹ), fas: دختر (doxtar), hin:दुख़्तर (duxtar), tel:దుహిత (duhita)|daughter|Tochter|fille|hija|filha|дочь|دختر‎|बेटी (पुत्री)|মেয়ে||anak perempuan (putri)|بِنْت‎ (bint)|kız|mtoto wa kike (binti)|'ya|女儿|囡 (女)|娘|딸|con gái|filino|tytär|córka
 doh.doh|doh doh|famil|||daughter's daughter|||||||नाती||||||||外孙女|||외손녀|||tyttärentytär|
 doh.son|doh son|famil|||daughter's son|||||||||||||||||||||tyttärenpoika|
@@ -1088,7 +1093,6 @@ fa.dalil|fa dalil||||prove (demonstrate, testify)|||probar (demonstrar, comproba
 fa.dante|fa dante||||bite||mordre|morder|morder|откусить|||||gigit|مَضَغَ‎|ısırmak|kuuma||咬||咬む|물어떼다 (깨물다)|cắn|mordi|purra|
 fa.darte.bon|fa darte bon||||fertilize|||||||||||||||||||||lannoittaa|nawozić (nawieźć)
 fa.defa|fa defa||||defend|||defender|||||||||||||||||defendi|puolustaa|obronić (chronić)
-fa.dika|fa dika||||aim (point)||viser|apuntar|mirar (apontar)|целиться|||||membidik|||||瞄准||狙う|||celi|osoittaa (tähdätä)|celować
 fa.ding|fa ding||||determine (establish, fix, decide, set, confirm, specify, resolve)|||determinar (establecer, definir)||определить||||||||||决定||定める (決する, 決定する)|||||
 fa.dipe|fa dipe||||lower (put down)||baisser|bajar||||||||||||||||||alentaa (laskea alas)|obniżać (obniżyć)
 fa.dom|fa dom||||accommodate|||alojar (hospedar)|||||||||||||||||loĝigi|asuttaa|dać mieszkanie (zakwaterować)
@@ -2561,6 +2565,7 @@ kursi|kursi|||ara:(kursiy), hin:कुरसी (kursī), urd:(kursī), pnb:ਕ
 kurta|kurta|||fas: کرته‎ (korte), hin:कुरता (kurtā), ben:কুরতা (kurôta), tel:కుర్తా (kurtā), may:kurta, rus:курта (kurta), eng:kirtle|tunic (kirtle)|Tunika|tunique|túnica|túnica|||कुरता|কুরতা||||||||||||robo|mekko (tunika)|kurta (tunika, toga)
 kurva|kurva|||eng:curve, fra:courbe, spa:por:curva, swa:kuruba + rus:кривая (krivaya)|curve (bend)||courbe|curva|curva|кривая||||||||kuruba|||||||kurbo|mutka (kurvi)|wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać
 kurva.di|kurva di||||curvy (curved)|||curvo||||||||||||||||||mutkikas|zakrzywiony
+kutu|kutu|bio|Psocodea|may:kutu, tgl:kuto, eng:cootie|louse (cootie)|Laus|pou|piojo|piolho|вошь|شِپِش‎|जुंआँ (चीलर)|উকুন|பேன்|kutu|قَمْلَة‎|bit|chawa|kwarkwata|虱子|蝨乸|シラミ|이|rận|||
 Kuvaite|Kuvaite|dexa|KW||Kuwait|||Kuwait||||||||||||||||||Kuwait|Kuwejt
 kux.loka|kux loka|||fra:eng:couchette, ita:cuccetta, pol:kuszetka|berth (couchette)||couch (couchette)||||||||||||||||||||kuszetka (koja)
 kuxen|kuxen|||eng:cushion, fra:coussin, spa:cojín, por:coxim, jpn:クッション (kusshon), kor:쿠션 (kusyeon), yue:咕𠱸 (ku1 seon2), hau:kushin, ibo:kushọn|cushion (pillow)|||almohada||||||||||||||||||tyyny|poduszka
@@ -3538,8 +3543,9 @@ piano|piano|||eng:spa:por:fra:swa:may:piano, rus:пианино (pianino), tur:p
 piaze|piaze|bio|Allium cepa|fas:urd:پیاز (piaz), hin:प्याज (pyaz), ben:পেঁয়াজ (peadz)|onion||oignon|cebolla|cebola|лук||प्याज|পেঁয়াজ||bawang|بَصَل|soğan|kitunguu||洋葱||玉葱|양파|hành tây|cepo|sipuli|cebula
 pigu|pigu|||tgl:pigi, zho:屁股 (pìgu), yue:屁股 (pei3 gu2)|buttocks (bum, butt, ass)|||trasero (nalgas)|||||||||||||||||kulo|pylly (takapuoli, pakarat)|pośladki, pupa, tyłek, zadek
 pijin|pijin|||eng:spa:por:fra:pidgin, rus:пиджин (pidzhin), swa:pijini, zho:皮欽語 (píqīnyǔ), jpn:ピジン (pijin)|pidgin (contact language)|||pidgin|||||||||||||||||piĝino|kontaktikieli (pidgin)|pidżin, język pomocniczy
-pike|pike|||eng:peak, fra:pic, spa:por:pico, rus:пик (pik), que:pikchu|point (tip, cusp, peak)||bout (pointe, pic)|pico (punta)|ponta (pico, bico)|кончик (остриё, пик)||||||||||尖顶||先||chóp||kärki (pää)|
+pik-|pike|||eng:peak, fra:pic, spa:por:pico, rus:пик (pik), que:pikchu|point (tip, cusp, peak)||bout (pointe, pic)|pico (punta)|ponta (pico, bico)|кончик (остриё, пик)||||||||||尖顶||先||chóp||kärki (pää)|
 pil|pil|||eng:peel, spa:piel, por:pele, zho:皮 (pí), wuu:皮 (bí), yue:皮 (pei4)|skin (peel, bark, leather)|||piel|pele|||||||||||皮|||||haŭto|nahka (kuori, iho)|skóra
+pilau|pilau|||eng:fra:spa:por:pilaf, deu:Pilaw, rus:плов (plov), fas: پلو‎ (polou), hin:पुलाव (pulav), ben:পোলাও (polao), tam:புழுக்கு (puḻukku), tel:పులావ్ (pulāv), ara: بِيلَاو‎ (bilāw), tur:pilav, jpn:ピラフ (pirafu), kor:필라프 (pillapeu)|pilaf (pulao)|Pilaw|pilaf|pilaf (pulaw)|pilafe|плов|پلو‎|पुलाव|পোলাও|||بِيلَاو‎|pilav|||抓饭|抓飯||||pilafo|pilahvi|pilaw
 pilote|pilote|||eng:por:pilot, spa:piloto, fra:pilote, deu:Pilot, rus:пило́т (pilót), jpn:パイロット (pairotto)|pilot|||piloto||||||||||||||||||ohjaaja (pilotti, luotsi)|pilot
 pin|pin|||eng:pin, jpn:ピン (pin), kor:핀 (pin), hin:पिन (pin)|needle (pin, splinter, prickle, thorn, stinger, spine, quill)||épingle|alfiler (espina, aguja)|alfinete|булавка (игла, шип)||पिन||||||||别针||針 (刺, ピン)|핀|ghim|nadlo (pinglo, pikilo)|piikki (pistin, neula)|igła, szpilka
 pin.cope|pin cope||||pickaxe||pioche||picareta|киркомотыга||||||||||镐|||||||kilof
@@ -3567,11 +3573,14 @@ Pitkerne.nesi|Pitkerne nesi|dexa|PN||Pitcairn Islands|||Islas Pitcairn||||||||||
 pixa|pixa|||eng:piss, fra:pisse, ita:piscia, hin:पेशाब (pešāb), may:pipis|piss (urine)|||pis (meados)|||||||||||||||||piso (urino)|virtsa (pissa, kusi)|siki
 piza|piza|||ita:eng:fra:pizza, zho:比萨 (bǐsà), rus:пицца (pitsa), jpn:ピザ (piza), kor:피자 (pija)|pizza||pizza|pizza||пицца|||||||||||||||pico|pitsa (pizza)|pizza
 piza.kan|pizakan||||pizzeria|||pizzería|||||||||||||||||picejo|pitseria|pizzeria
+pl-|ple|||eng:ply, fra:pli, spa:plegar + por:aplicação|fold (layer)|||||||||||||||||||||kerta (kerros, monikerta)|
+pl.ik-a|• aplike||||apply (put sth on sth else)|anwenden|appliquer|aplicar (untar)|aplicar|||प्रयोग में लाना|||||kullanmak|||运用||||||kerrostaa|stosować (zastosować; zastosowanie, aplikacja)
+pl.ik-kon|• konplike||||complicated|||||||||||||||||||||monikerroksinen (monimutkainen)|
 plan|plan|||eng:spa:fra:plan, por:plano, rus:план (plan), fas:پلان‎ (plân), hin:प्लैन (plain), jpn:プラン (puran)|plan||plan|plan|plano|план||प्लैन||||||||||||||suunnitelma|plan
 planeta|planeta|||eng:tur:may:planet, spa:por:planeta, fra:planète, rus:планета (planeta)|planet|||planeta||||||||||||||||||planeetta|planeta
-plasti|plasti|||eng:plastic, spa:por:plástico, rus:пластик (plastik), tur:may:plastik, swa:plastiki, ara:بلاستيك (blastīk), hin:प्लास्टिक (plāsṭik), jpn:プラスチック (purasuchikku), kor:플라스틱 (peullaseutik)|plastic|||plástico||пластмасса||||||||||||||||muovi|plastik
-plasti.di|plasti di||||plastic (moldable, malleable)|||maleable|plástico|пластичный||||||||||||||||plastinen (muovailtava)|
-plasti.paste|plasti paste||||playdough||pâte à modeler|plastilina|massa de modelar (massinha)|||||||||||||||||muovailuvaha|
+plast.|plaste|||eng:plastic, spa:por:plástico, rus:пластик (plastik), tur:may:plastik, swa:plastiki, ara:بلاستيك (blastīk), hin:प्लास्टिक (plāsṭik), jpn:プラスチック (purasuchikku), kor:플라스틱 (peullaseutik)|plastic|||plástico||пластмасса||||||||||||||||muovi|plastik
+plast.ik.|plastike||||plastic (moldable, malleable)|||maleable|plástico|пластичный||||||||||||||||plastinen (muovailtava)|
+plast.past.|plaste paste||||playdough||pâte à modeler|plastilina|massa de modelar (massinha)|||||||||||||||||muovailuvaha|
 plate|plate|||eng:plate, spa:por:placa, deu:Platte, rus:пластина (plastina)|plane (plate)|||plano (placa)|||||||||||||||||||płaszczyzna (płyta)
 plate.di|plate di||||flat (planar)|||plana (llano, liso)||||||||||||||平ら||||litteä|płaski
 plate.forma|plate forma||||platform||||||||||||||||||||||platforma
@@ -3580,17 +3589,15 @@ plate.geo.sim.ja|plate geo sim ja||||flat-earther||terreplatiste|terraplanista|t
 plate.stan|plate stan||||plain (plateau, flat lands)||plaine|llanura||||||||||||平原||草原|||||równina (plaskowyż, plateau)
 plate.tasa|plate tasa||||plate|||plato||||||||||||||||||lautanen|talerz
 platin|platin|yum 078|Pt|eng:platinum, fra:platine, spa:platino, por:platina, rus:платина, zho:铂 (bó), vie:platin, hin:प्लाटिनम, ben:প্লাটিনাম, may:platina, swa:platini, ara: بلاتين|platinum||platine|platino|platina|платина||प्लाटिनम|প্লাটিনাম||platina|بلاتين|platin|platini||铂||白金|백금|platin|plateno|platina|platyna
-Platon|Platon||||Plato|||Platón||||||||||||||||||Platon|Platon
-Platon.sim|Platon sim||||Platonism|||platonismo||||||||||||||||||platonismi|platonizm
-Platon.sim.di|Platon sim di||||Platonic|||platónico||||||||||||||||||platoninen|platoniczne
-Platon.sim.ja|Platon sim ja||||Platonist|||platonista||||||||||||||||||platonisti|platończyk
+platon|Platon||||Plato|||Platón||||||||||||||||||Platon|Platon
+platon.ik|platonike||||Platonic|||platónico||||||||||||||||||platoninen|platoniczne
+platon.ism|platonisme||||Platonism|||platonismo||||||||||||||||||platonismi|platonizm
+platon.ist|platoniste||||Platonist|||platonista||||||||||||||||||platonisti|platończyk
 plazma|plazma|||eng:plasma, spa:plasma, rus:плазма (plazma), ara:بلازما (balazima), hin:प्लाज़्मा (plaazma), jpn:プラズマ (purazuma), may:plasma|plasma (ionized gas)|||plasma (gas ionizado)|||||||||||||||||||plazma (zjonizowany gaz)
-pli|pli||||ply (fold, times)|||||||||||||||||||||kerta (monikerta)|
 plumbe|plumbe|yum 082|Pb|fra:plomb, spa:plomo, por:chumbo, swa:plumbi|lead||plomb|plomo|chumbo|свинец||सीसा|লেড||timbal|رصاص|kurşun|risasi (plumbi)||铅||鉛|납|chì|plumbo|lyijy|ołów
 Pluton|Pluton||||Pluto (dwarf planet)|||Plutón||||||||||||||||||Pluto (kääpiöplaneetta)|Pluton (planeta karłowata)
 pluton.ium|plutonium|yum 094|Pu|eng:plutonium, fra:plutonium, spa:plutonio, por:plutónio, rus:плутоний, zho:钚 (bù), jpn:プルトニウム, kor:플루토늄, vie:plutoni, hin:प्लूटोनियम, ben:প্লুটোনিয়াম, may:plutonium, swa:plutoni, ara: بلوتونيوم|plutonium||plutonium|plutonio|plutónio|плутоний||प्लूटोनियम|প্লুটোনিয়াম||plutonium|بلوتونيوم|plutonyum|plutoni||钚||プルトニウム|플루토늄|plutoni|plutonio|plutonium|pluton
-poker|poker|||eng:fra:tur:poker, spa:por:póquer, rus:покер (poker), ara:بُوكَر‎ (būkar), hin:पोकर (pokar), zho:扑克 (pūkè), jpn:ポーカー (pōkā), kor:포커 (pokeo)|poker|||póquer|||||||||||||||||pokero|pokeri|poker
-polau|polau|||fas:(polou), hin:पुलाव (pulav), tur:pilav, rus:плов (plov)|pilaf (pulao)|||pilaf (pulaw)||плов||पुलाव|||||pilav|||||||||pilahvi|pilaw
+pok.|poke|||eng:fra:tur:poker, spa:por:póquer, rus:покер (poker), ara:بُوكَر‎ (būkar), hin:पोकर (pokar), zho:扑克 (pūkè), jpn:ポーカー (pōkā), kor:포커 (pokeo)|poker|||póquer|||||||||||||||||pokero|pokeri|poker
 poli|poli|||ell:πολλοί (polloí), eng:fra:deu:poly-, spa:por:poli-, rus:поли- (poli-)|many (much, more than one)|||mucho (muchos)||||||||||||||たくさん|||multe|paljon (monta)|wiele
 poli.baxa.di|poli baxa di||||multilingual||plurilingue (multilingue)|multilingüe (plurilingüe)|multilíngue (plurilíngue)|многоязычный|||||||||||||||multlingva|monikielinen|wielojęzyczny
 poli.deu.sim|poli deu sim||||polytheism|||politeísmo||||||||||||||||||polyteismi (monijumalisuus)|politeizm
@@ -3600,12 +3607,12 @@ poli.kultur.di|poli kultur di||||multicultural|||multicultural||||||||||||||||||
 poli.kultur.sim|poli kultur sim||||multiculturalism|||multiculturalismo|||||||||||||||||||wielokulturowość
 poli.mar.ta|poli marta||||frequency|||frecuencia||||||||||||||||||taajuus (tiheys)|częstotliwość
 poli.nasi.di|poli nasi di||||multinational|||multinacional||||||||||||||||||monikansallinen|wielonarodowy
+poli.nes.ia|Polinesia||||Polynesia||Polynesie|Polinesia|Polinésia|Полинезия||||||||||波利尼西亚||ポリネシア|폴리네시아||||
 poli.pli|polipli||||multiple||multiple|múltiple|múltiplos|||||||||||||||||moninkertainen|
 poli.semi.di|poli semi di||||ambiguous|||ambiguo||||||||||||||||||monimerkityksinen|wieloznaczny
 poli.ta|polita||||amount (quantity)|||cantidad|||||||||||||||||||ilość(mnóstwo)
-Polinesi|Polinesi||||Polynesia||Polynesie|Polinesia|Polinésia|Полинезия||||||||||波利尼西亚||ポリネシア|폴리네시아||||
 polis|polis|||eng:fra:police, por:polícia, spa:policía, rus:полиция (policija), tur:may:polis, swa:polisi, ara:بُولِيس‎ (būlīs), hin:पोलिस (polis), ben:পুলিশ (puliś)|police|||policía||||||||||||||||||poliisi|policja
-polis.ja|polis ja||||police officer|||policía||||||||||||||||||poliiisi (poliisimies)|oficer policji, policjant
+polis.er|poliser||||police officer|||policía||||||||||||||||||poliiisi (poliisimies)|oficer policji, policjant
 polis.kan|poliskan||||police station|||||||||||||||||||||poliisiasema|
 polit.|polite|||ell:πολιτική (politikē), may:politik, tur:politika, eng:politics, por:spa:política, fra:politique, rus:политика (politika)|government (administration, polity, politics)||gouvernement|gobierno|governo|||||||||||政府||政府||||hallinto|rząd
 polit.ik.|politike||||politician (administrator, statesman)||administrateur|político (administrador)|administrador|управляющий|||||||||||||||politikisto|poliitikko (hallinnoija)|polityk
@@ -3616,21 +3623,18 @@ politi.mode|politi mode||||regime|||régimen|regime|||||||||||政体||政体||||
 polsk.ium|polskium|yum 084|Po|eng:polonium, fra:polonium, spa:polonio, por:polónio, rus:полоний, zho:钋 (pō), jpn:ポロニウム, kor:폴로늄, vie:poloni, hin:पोलोनियम, ben:পোলনিয়াম, may:polonium, swa:poloni, ara: بولونيوم|polonium||polonium|polonio|polónio|полоний||पोलोनियम|পোলনিয়াম||polonium|بولونيوم|polonyum|poloni||钋||ポロニウム|폴로늄|poloni|polonio|polonium|polon
 Polska|Polska|dexa|PL||Poland|||Polonia||||||||||||||||||puola|Polska
 polska.baxa|polska baxa|basha|||Polish language|||idioma polaco||||||||||||||||||puolalainen|polski
-pompe|pompe|||eng:pump, spa:por:bombear, fra:pomper, deu:pumpen|pump|||bombear||||||||||||||||||pumppu|pompować
-pompe.tapa|pompe tapa||||piston||piston|pistón|pistão|поршень||||||||||活塞||ピストン (活塞)|피스톤|pít tông||mäntä|tłok
-ponte|ponte|||eng:point, por:apontar, spa:apuntar, fra:pointer|point at (indicate)|||apuntar (indicar)|||||||||||||||||montri|osoittaa (näyttää)|wskazać, wskazywać
-ponte.flece|ponte flece||||pointer (indicator)|||indicador (cursor)||||||||||||||||||osoitin (viisari)|wskaźnik
-ponte.pin|ponte pin||||compass (magnetized needle)|||brújula||компас||||||||||指南针||羅針盤|||||kompas (namagnesowana igła)
+pomp.|pompe|||eng:pump, spa:por:bombear, fra:pomper, deu:pumpen|pump|||bombear||||||||||||||||||pumppu|pompować
+pomp.tap.|pompe tape||||piston||piston|pistón|pistão|поршень||||||||||活塞||ピストン (活塞)|피스톤|pít tông||mäntä|tłok
 pore|pore|||eng:fra:deu:pore, spa:por:poro, rus:пора (pora)|pore|Pore|pore|poro|poro|пора||||||||||||線|||poro|huokonen|
-porei|porei|bio|Allium ampeloprasum, Porrum|spa:puerro, por:porro, fra:poireau, deu:Porree, fin:purjo, rus:порей (porey), may:perai|leek||poireau|puerro (cebolla larga)|alho-porro|лук-порей||||||||||韭葱||リーキ|||||por
+porei|porei|bio|Allium ampeloprasum, Porrum|deu:Porree, fra:poireau, spa:puerro, por:porro, rus:порей (porey), may:perai + tur:pırasa|leek|Porree|poireau|puerro (cebolla larga)|alho-porro|лук-порей|||||||pırasa|||韭葱||リーキ|||poreo|purjo|por
 porno|porno|||eng:porn, spa:tur:may:porno, por:pornô, deu:Pornografie, rus:порно (porno), jpn:ポルノ (poruno)|porn|||porno||||||||||||||||||porno|porno, film erotyczny
 porno.grafi|porno grafi||||pornography|||pornografía||||||||||||||||||pornografia|pornografia
-porte|porte|||fra:porter, spa:por:portar, eng:(trans)port, deu:-portieren, rus:-портация (-portaciya) + hin:रिपोर्ट (riporṭ), swa:ripoti, tur:rapor, jpn:レポート (repōto)|carry (bear)||porter||portar|носить||||||||||||||||kantaa|
-porte-ex|• exporte||||export|||exportar||||||||||||||||||viedä pois (viedä maasta)|eksportować (wyeksportować)
-porte-re|• reporte||||report (bring back news, recount, relate)||repport (reportage)|reportar (informe, reporte, noticia)|relato|репортаж||रिपोर्ट|||||rapor (röpörtaj)|ripoti||||||||raportoida (selostaa; raportti, selostus, selonteko)|raportować (relacjonować, opowiadać; raport)
-porte-re.r|• reporter||||reporter||reporter (rapporteur)|reportero|repórter|репортёр|||||||muhabir|mwanahabari||记者||記者|기자|phóng viên||reportteri|reporter
-porte-su|• suporte||||support|||||||||||||||||||||kannattaa|
-porte-tra|• traporte||||transport (transportation)|||transporte||||||||||||||||||kuljetus|transport
+port-|porte|||fra:porter, spa:por:portar, eng:(trans)port, deu:-portieren, rus:-портация (-portaciya) + hin:रिपोर्ट (riporṭ), swa:ripoti, tur:rapor, jpn:レポート (repōto)|carry (bear)||porter||portar|носить||||||||||||||||kantaa|
+port-ex|• exporte||||export|||exportar||||||||||||||||||viedä pois (viedä maasta)|eksportować (wyeksportować)
+port-re|• reporte||||report (bring back news, recount, relate)||repport (reportage)|reportar (informe, reporte, noticia)|relato|репортаж||रिपोर्ट|||||rapor (röpörtaj)|ripoti||||||||raportoida (selostaa; raportti, selostus, selonteko)|raportować (relacjonować, opowiadać; raport)
+port-re.er|• reporter||||reporter||reporter (rapporteur)|reportero|repórter|репортёр|||||||muhabir|mwanahabari||记者||記者|기자|phóng viên||reportteri|reporter
+port-su|• suporte||||support|||||||||||||||||||||kannattaa|
+port-tra|• traporte||||transport (transportation)|||transporte||||||||||||||||||kuljetus|transport
 porto|porto|||eng:port, fra:porte, spa:puerto, por:porto, rus:порт (port), hin:पोर्ट (porṭ), urd:(porṭ), ben:পোর্ট (porṭ), tha:พอร์ต (phot)|port (station)||porte|porto|porto|порт|||||bandar||liman|||港|||||haveno|asema (satama, lentokenttä)|port
 Portoriko|Portoriko|dexa|PR||Puerto Rico||Porto Rico|Puerto Rico|Porto Rico|Пуэрто-Рико|||||||Porto Riko||||||||Portoriko|Puerto Rico|Portoryko (Puerto Rico)
 portoriko.jen|portoriko jen||||Puerto Rican||Portoricain|puertorriqueño|porto-riquenho|пуэрториканец||||||||||||||||puertoricolainen|
@@ -3638,49 +3642,50 @@ Portugal|Portugal|dexa|PT||Portugal|||Portugal||||||||||||||||||Portugali|Portug
 portugal.baxa|portugal baxa|basha|||Portuguese language|||idioma portugués||||||||||||||||||portugali|
 pos|pos|||eng:fra:post-, spa:pos, por:pós-, rus:после- (posle-) + fas: پس (pas)|consequence (back, follow-up)|||consecuencia (siguiente)||||||||||||||後 (後ろ)|||sekvo|seuraus|konsekwencja, skutek
 pos.den|pos den||||tomorrow||demain|mañana||||||||||||||明日|||morgaŭ|huominen|jutro
-pos.di|pos di||||next (following, back)|||siguiente (trasero)|||||||||||||||||sekva|seuraava|następny (następujący)
-pos.di|pos di||||back (posterior)||postérieur|posterior|posterior|||||||||||||||||myöhempi (takainen)|
-pos.fixe|pos fixe||||suffix||suffixe|sufijo||||||||||||||||||loppuliite (jälkiliite)|przyrostek (sufiks)
-pos.poza|pos poza||||put back (postpone)|||||||||||||||||||||siirtää taakse|
+pos.fix-|posfixe||||suffix||suffixe|sufijo||||||||||||||||||loppuliite (jälkiliite)|przyrostek (sufiks)
+pos.ik.|posike||||back (posterior)||postérieur|posterior|posterior|||||||||||||||||myöhempi (takainen)|
+pos.im-|posime||||next (following, back)|||siguiente (trasero)|||||||||||||||||sekva|seuraava|następny (następujący)
+pos.poz-|pospoze||||put back (postpone)|||||||||||||||||||||siirtää taakse|
 pos.zaman|pos zaman||||future time|||futuro|||||||||||||||||estonoteco|tulevaisuus|przyszłość
-posta|posta|||eng:post, por:postagem, fra:poste, rus:почта (pochta), tur:posta, ara:بوسطة‎ (busṭa), swa:posta, may:pos, fas:پست‎ (post)|mail|||correo|||||||pos|||posta||||||||posti (postilähetys)|poczta
-posta.cape|posta cape||||postal stamp|||sello postal||||||||||||||||||postileima|znaczek pocztowy
-posta.kan|postakan||||post office|||oficina de correos|||||||||||||||||poŝtejo|postitoimisto|poczta, budynek poczty
-posta.marke|posta marke||||postmark (postage stamp)||cachet de la poste|matasellos|carimbo|почтовый штемпель|||||||||||||||poŝtmarko|postileima|
-pote|pote|||eng:fra:pot, spa:por:pote, may:poci, jpn:ポット (potto), kor:포트 (poteu)|pot (vase, bin, jar)||pot (vase)|||||||||||||||||||pata|
-pote.camaca|pote camaca||||ladle (dipper, scoop)||louche (cuillère à pot)|cucharón (cazo)|concha|половник (черпак, ковш)||चमचा (कलछी, डोई)|||||kepçe (çömçe)|||勺 (舀)||||||kauha|
-pote.ja|pote ja||||potter||potier|alfarero|oleiro|гончар||कुम्हार ||||خَزَّاف‎||||陶瓷工||陶工|도공|||savenvalaja|
-pote.suta|pote suta||||pottery||poterie|alfarería|cerâmica|гончарное дело|||||||ufinyanzi|||陶器制造||陶芸||||keramiikka|
+post-|poste|||eng:post, por:postagem, fra:poste, rus:почта (pochta), tur:posta, ara:بوسطة‎ (busṭa), swa:posta, may:pos, fas:پست‎ (post)|mail|||correo|||||||pos|||posta||||||||posti (postilähetys)|poczta
+post.cap-|poste cape||||postal stamp|||sello postal||||||||||||||||||postileima|znaczek pocztowy
+post.kan|postekan||||post office|||oficina de correos|||||||||||||||||poŝtejo|postitoimisto|poczta, budynek poczty
+post.mark-|poste marke||||postmark (postage stamp)||cachet de la poste|matasellos|carimbo|почтовый штемпель|||||||||||||||poŝtmarko|postileima|
+pot-|pote|||eng:fra:pot, spa:por:pote, may:poci, jpn:ポット (potto), kor:포트 (poteu)|pot (vase, bin, jar)||pot (vase)|||||||||||||||||||pata|
+pot.camaca|pote camaca||||ladle (dipper, scoop)||louche (cuillère à pot)|cucharón (cazo)|concha|половник (черпак, ковш)||चमचा (कलछी, डोई)|||||kepçe (çömçe)|||勺 (舀)||||||kauha|
+pot.er|poter||||potter||potier|alfarero|oleiro|гончар||कुम्हार ||||خَزَّاف‎||||陶瓷工||陶工|도공|||savenvalaja|
+pot.er.ia|poteria||||pottery||poterie|alfarería|cerâmica|гончарное дело|||||||ufinyanzi|||陶器制造||陶芸||||keramiikka|
 poto|poto|||pcm:kon:lin:poto-poto|mud (mire)||boue (fange, bourbe, gadoue)|lodo (barro, fango)|lama (lodo)|болото||कीचड़|কাদা||lumpur|طِين‎|çamur|tope||坭||泥|||koto|muta (kura, lieju)|błoto
 poto.defa.bano|poto defa bano||||fender||garde-boue (aile)|guarda-barros (aleta)|para-lama|||||||||||挡泥板||フェンダー||||lokasuoja|błotnik
 poto.di|poto di||||muddy|||embarrado (enlodado)|||||||||||||||||kota|kurainen (mutainen)|błotnisty
 poto.stan|poto stan||||marsh (bog, swamp, morass)||marécage (marais)|ciénaga (pantano)|pântano|болото (топь)|||||paya (rawa)||bataklık|bwawa||沼泽||沼地|늪||marĉo|suo (räme)|bagno (moczary)
-poyu|poyu|bio|Psocodea|fra:pou, por:piolho, spa:piojo|louse||pou|piojo|piolho|вошь||जुंआँ (चीलर)|||kutu||bit|chawa||虱子||シラミ|||||
-poze|poze|||eng:spa:por:fra:pose, deu:Pose, rus:поза (poza), jpn:ポーズ (pōzu)|pose (set; position)|||posar (pose, postura)||||||||||||||植える||||panna (asettaa; asetelma)|pozować (ustawiać się; poza, pozycja)
-poze-de|• depoze||||remove (delete, dispose, erase)|||quitar (eliminar, borrar)||||||||||||||||||poistaa (hävittää, panna pois)|usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)
-poze-ex|• expoze||||expose (reveal)||exposer|exponer (revelar)|expor (revelar)|||||||||||||||||ottaa ulos (ottaa esiin, paljastaa)|
-poze-in|• inpoze||||put in (impose)|||||||||||||||||||||panna sisään|
-poze-kon.je|• konpozeje||||component|||||||||||||||||||||komponentti (kokoonpane)|
-poze-pos|• pospoze||||put back (postpone)|||||||||||||||||||||siirtää taakse|
-poze-pos|• pospoze||||postposition|||||||||||||||||||||postpositio|
-poze-pre|• prepoze||||preposition|||||||||||||||||||||prepositio|
-poze-pro|• propoze||||propose (put forth; proposal, suggestion)|||proponer (sugerir; propuesta)||||||||||||||||||ehdottaa (ehdotus)|proponować (sugerować; propozycja, sugestia)
-prati|prati|||eng:practice, fra:pratique, por:prática, tur:pratik, pol:praktyka, hin:प्रथा (prathā)|practice (actuality)|||práctica||||||||||||||||||käytäntö (pragmatia)|praktyka, aktualność
-prati.di|prati di||||practical (pragmatic)|||práctico||||||||||||||||||käytännöllinen (pragmaattinen)|practyczny, pragmatyczny
+poz-|poze|||eng:spa:por:fra:pose, deu:Pose, rus:поза (poza), jpn:ポーズ (pōzu)|pose (set; position)|||posar (pose, postura)||||||||||||||植える||||panna (asettaa; asetelma)|pozować (ustawiać się; poza, pozycja)
+poz-de|• depoze||||remove (delete, dispose, erase)|||quitar (eliminar, borrar)||||||||||||||||||poistaa (hävittää, panna pois)|usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)
+poz-ex|• expoze||||expose (reveal)||exposer|exponer (revelar)|expor (revelar)|||||||||||||||||ottaa ulos (ottaa esiin, paljastaa)|
+poz-in|• inpoze||||put in (impose)|||||||||||||||||||||panna sisään|
+poz-kon.aj|• konpozaje||||component|||||||||||||||||||||komponentti (kokoonpane)|
+poz-pos|• pospoze||||put back (postpone)|||||||||||||||||||||siirtää taakse|
+poz-pos.aj|• pospozaje||||postposition|||||||||||||||||||||postpositio|
+poz-pre.aj|• prepozaje||||preposition|||||||||||||||||||||prepositio|
+poz-pro|• propoze||||propose (put forth; proposal, suggestion)|||proponer (sugerir; propuesta)||||||||||||||||||ehdottaa (ehdotus)|proponować (sugerować; propozycja, sugestia)
+prat.|prate|||eng:practice, fra:pratique, por:prática, tur:pratik, pol:praktyka, hin:प्रथा (prathā)|practice (actuality)|||práctica||||||||||||||||||käytäntö (pragmatia)|praktyka, aktualność
+prat.ik-|pratike||||practical (pragmatic)|||práctico||||||||||||||||||käytännöllinen (pragmaattinen)|practyczny, pragmatyczny
 prazedim.ium|prazedimium|yum 059|Pr|eng:praseodymium, fra:praséodyme, spa:praseodimio, por:praseodímio, rus:празеодим, jpn:プラセオジム, kor:프라세오디뮴, vie:prazeođim, hin:प्रासियोडाइमियम, ben:প্র্যাসেওডিমিয়াম, may:praseodinium, swa:praseodimi, ara: براسوديميوم|praseodymium||praséodyme|praseodimio|praseodímio|празеодим||प्रासियोडाइमियम|প্র্যাসেওডিমিয়াম||praseodinium|براسوديميوم|praseodim|praseodimi||镨||プラセオジム|프라세오디뮴|prazeođim||praseodyymi|prazeodym
 pre|pre|||eng:fra:spa:por:pre-, hin:प्र- (pra-), ben:প্র- (prô-), may:pra-|before (previous, fore, past)||avant|previo (anterior; antes; preceder, anteceder)||раньше||||||||||以前||以前 (前に)|전에||antaŭe (pasinte)|ennen (aikaisemmin, aiemmin; aikaisempi, edellinen)|poprzedni
 pre.di|pre di||||previous (fore)|||previo (anterior)||||||||||||||||||edellinen|poprzedni
-pre.me|preme||||initial (first; prime)|||primer (inicial, inaugural)||||||||||||||||||ensimmäinen (alku-)|pierwszy, początkowy
+pre.im.|prime||||initial (first; prime)|||primer (inicial, inaugural)||||||||||||||||||ensimmäinen (alku-)|pierwszy, początkowy
 pre.si|pre si||||assume (presuppose)|||presuponer||||||||||||||||||edellyttää|zakładać (założyć)
 pre.sid.ent.|presidente|||eng:president, deu:Präsident, fra:président, spa:por:presidente, rus:президент (prezident), fas: پرزیدنت‎ (perezident), may:presiden|president|Präsident|président|presidente|presidente|президент|رئیس‌جمهور‎|राष्ट्रपति|রাষ্ট্রপতি|ஜனாதிபதி|presiden|رَئِيس‎|cumhurbaşkanı|rais||總統||大統領|대통령|tổng thống|prezidento|presidentti|prezydent
+pres-|prese|||fra:pression, spa:presión, por:pressão, rus:пресс (press), jpn:プレス (puresu)|press (pressure)||pression|presión|pressão|давление (нажим)||दाब|চাপ||tekanan||basınç|||压力||圧力|압력|áp lực|premo|puristaaa (puristus, paine)|
 pres-de|• deprese||||depress (push away)||||||||||||||||||||||
 pres-ex|• exprese||||express (push out)||||||||||||||||||||||
 pres-kon|• konprese||||compress (squeeze, squish)|||||||||||||||||||||puristaa (pusertaa)|ścisnąć (sciskać, wycisnąć)
 pres-nice|• niceprese||||suppress (press down)||||||||||||||||||||||
 pres-re|• represe||||repress (push back)|||||||||||||||||||||puskea takaisin (alistaa)|
-pres.|prese|||fra:pression, spa:presión, por:pressão, rus:пресс (press), jpn:プレス (puresu)|press (pressure)||pression|presión|pressão|давление (нажим)||दाब|চাপ||tekanan||basınç|||压力||圧力|압력|áp lực|premo|puristaaa (puristus, paine)|
-pres.er|preser||||press device||pressoir|prensa|prensa|пресс||||||||||||圧搾機|||premilo|puristin|
-pres.gi|prese gi||||press device||pressoir|prensa|prensa|пресс||||||||||||圧搾機|||premilo|puristin|
+pres.er|preser||||press device||pressoir|prensa|prensa|пресс||||||||||||圧搾機|||premilo|puristin (prässi)|
+priv-|prive|||eng:private, deu:privat, fra:privé, spa:por:privado, rus:прива́тный (privatnyi), may:pribadi|own (personal, private)|privat|personnel (privé)|privado|pessoal (privado)|частный (приватный)|||||pribadi|||||私立||||||oma (henkilökohtainen, yksityinen, privaatti)|
+priv-de|• deprive||||deprive||priver de|privar (desproveer)|privar|||||||||||||||||riistää (viedä omistuksesta)|
+priv.at.iz.|privatize||||privatize|privatisieren|privatiser|privatizar|privatizar|приватизировать||||||خَصْخَصَ‎||||私有化||||||yksityistää|
 proba|proba|||deu:Probe, eng:prove; probe, spa:probar, por:provar, rus:проба|try (attempt, give a go, check out, probe)|versuchen (probieren)|essayer (tenter)|intentar (probar)|tentar (provar)|пытаться (пробовать; проба)||कोशिश करना|চেষ্টা করা||कोशिश करना|চেষ্টা করা||||||||||yrittää (kokeilla, koettaa; koe, kokeilu, yritys)|spróbować, próbować
 problem|problem|||eng:problem, fra:problème, spa:por:problema, rus:проблема (problema), ben:প্রব্লেম (prôblem)|problem (issue)||problème|problema|problema|проблема||समस्या (मसला)|প্রব্লেম||masalah||sorun (problem)|tatizo||问题 (难题)||問題|문제|vấn đề|problemo|ongelma|problem
 problem.di|problem di||||problematic||problématique|problemático||проблематичный||||||||||||||||ongelmallinen|problematyczny
@@ -3707,7 +3712,7 @@ pulmon|pulmon|||spa:pulmón, fra:poumon, por:pulmão, eng:pulmonic|lung|||pulmó
 pulmon.tis|pulmon tis||||pneumonia||pneumonie|pulmonía (neumonía)|pneumonia |пневмония (воспаление лёгких)|||||paru-paru berair|ذَات اَلرِّئَة‎|zatürre (pnömoni)|||肺炎||肺炎|폐렴|viêm phổi||keuhkokuume|
 pulse|pulse|||eng:push; pulse, fra:pousser + spa:por:impulso, rus:импульс (impul's)|push|||empujar (presionar)||||||||||||||||||työntää (puskea)|pchnąć, pchać
 puma|puma|bio||eng:spa:fra:por:swa:may:tur:puma, rus:пума (puma), jpn:ピューマ (pyūma), hin:पूमा (pooma), pan:ਪੂਮਾ (pūmā), mar:प्युमा (pyumā)|cougar (puma, mountain lion)||couguar (puma)|puma||пума (кугуар)||||||||||美洲獅 (山狮)||ピューマ (クーガー)|||||puma (kuguar)
-punte|punte|||spa:punto, rus:пункт (punkt), eng:point|point (period, full stop)|||punto|||||||||||||||||punkto|piste (täplä)|kropka (znak interpunkcyjny)
+punte|punte|||eng:point, deu:Punkt, spa:punto, rus:пункт (punkt)|point (period, full stop)|||punto|||||||||||||||||punkto|piste (täplä)|kropka (znak interpunkcyjny)
 punte.bano|punte bano||||scoreboard|||marcador||||||||||||||スコアボード|||||tablica wyników
 punte.nume|punte nume||||score (grade)|||puntuación (resultado)||оценка||||||||||||得点 (点数)|||||wynik (punktacja)
 pupe|pupe|||fra:poupée, deu:Puppe, eng:puppet, vie:búp bê, ktu:popi, heb:(bubá)|doll (puppet)|||marioneta (títere)||||||||||||||||||nukke|lalka, kukiełka, pacynka, marionetka
@@ -3760,10 +3765,14 @@ rasa.medi|rasa medi||||interracial||interracial|interracial||межрасовы�
 rasa.sim|rasa sim||||racism|||racismo|||||||||||||||||racismo|rasismi (rotuoppi)|rasizm
 rasa.sim.ja|rasa sim ja||||racist|||racista|||||||||||||||||racisto|rasisti|rasista
 raste|raste||||growth|||crecemiento||||||||||||||||||kasvu|wzrost
+rat-|rate|||lat:ratio, eng:rational, fra:rationnel, spa:por:racional + deu:Rat, rus:рада (rada), pol:rada|make sense (reason)|||tener sentido||||||||||||||||||järkeillä (käydä järkeen)|mieć sens
+rat.ion:|ration||||reason (reasoning, rational thinking)||raisonnement|razonamiento|razoamento|рассуждение||||||||||推论||推論|||rezono|järki (järkeily, päättely)|rozum, rozsądek
+rat.ion.al|rational||||rational (reasonable)|||racional|racional|||||||||||||||||järjellinen (järkiperäinen, rationaalinen)|racjonalny, rozsądny
+rat.kan:|ratekan||||village council|||||||||||||||||||||neuvosto (raati)|
+rat.loj.ia|ratolojia||||logic||logique|lógica|lógica|логика||तर्क|মন্তেক||logika (mantik)|مَنْطِق‎|mantık|mantiki||论理 (逻辑)||論理|논리|luận lý (lô-gíc)|logiko|logiikka|logika, dedukcja
+rat.loj.ik.|ratolojike||||logical|||logical|||||||||||||||||logika|looginen|logiczny
 ratibu|ratibu||||order (arrangement, sequence)||ordre|orden|ordem|установка|||||tatatertib|||taratibu||常规 (次序)||順||||järjestys|porządek
 ratibu.li|ratibu li||||orderly (organized, in sequence, tidy, regular)|||ordenado (regular)||организованный (порядок)||||||||||||整然|||||
-razon|razon|||eng:reason, spa:razón, por:razão, fra:raison rus:разум (razum)|reason (rational thinking)|||razón||разум||||||||||||||||järki (järkeily, päättely)|rozum, rozsądek
-razon.li|razon li||||rational (reasonable)|||razonable||||||||||||||||||järjellinen (järkiperäinen, rationaalinen)|racjonalny, rozsądny
 re|re|||eng:fra:spa:por:re-, rus:ретро- (retro-), jpn:レトロ (retoro) + ara: رَدَّ (radda)|back (return it to previous place)|||||||||||||||||||||takaisin|
 re.|ree|||eng:spa:por:may:real, fra:réel, deu:real, rus:реальный (realniy), tur:reel|thing (stuff)||||||||||||||||||||realaĵo|asia (tosiasia)|
 re.al.|real||||real (actual, existing)|wirklich (real)||real|real|реальный (настоящий)|واقعی‎||||real (aktual)|وَاقِعِيّ‎|reel|||现实的|||||reala|todellinen (tosiasialinen, reaalinen)|realny
@@ -4224,7 +4233,6 @@ Tai.baxa|Tai baxa|basha|||Thai language|||idioma tailandés|||||||||||||||||tajl
 Tai.Dexa|Tai Dexa|dexa|TH||Thailand|||Tailandia|||||||||||||||||Tajlando|Thaimaa|Tajlandia
 Taibei|Taibei||||Taipei|||Taipei||||||||||||||||||Taipei|Tajpej
 taiga|taiga|||rus:тайга (tayga), eng:spa:por:may:taiga, tur:tayga, ara:تايغا‎ (tāyḡā), zho:泰加林 (tàijiālín), jpn:タイガ (taiga)|taiga|||taiga|||||||||||||||||tajgo|taiga|tajga
-tail|tail|||eng:tile, por:telha, fra:tuile, nld:tegel, fin:tiili, hin:टाइल (ṭāila), ben:টালি (ṭali), jpn:タイル (tairu), kor:타일 (tail)|tile||carreau (tuile)|baldosa (teja, azulejo)|ladrilho (telha, azulejo)|черепи́ца||||||||||砖 (瓦)||タイル (瓦)|||||płyta
 Taivan|Taivan|dexa|TW||Taiwan (Republic of China)|||Taiwán||||||||||||||||||Taiwan|Tajwan, Republika Chińska
 Tajiki|Tajiki|dexa|TJ||Tajikistan|||Tayikistán||||||||||||||||||Tadžikistan|Tadżykistan
 tal.ium|talium|yum 081|Tl|eng:thallium, fra:thallium, spa:talio, por:tálio, rus:таллий, zho:铊 (tā), jpn:タリウム, kor:탈륨, vie:tali, hin:थैलियम, ben:থ্যালিয়াম, may:tallium, swa:tali, ara: ثاليوم|thallium||thallium|talio|tálio|таллий||थैलियम|থ্যালিয়াম||tallium|ثاليوم|talyum|tali||铊||タリウム|탈륨|tali|talio|tallium|tal
@@ -4241,8 +4249,8 @@ tanki|tanki|||eng:tank, deu:Tank, spa:tanque, hin:टंकी (ṭaṅkī), ma
 tantal.ium|tantalium|yum 073|Ta|eng:tantalum, fra:tantale, spa:tántalo, por:tântalo, rus:тантал, zho:钽 (tǎn), jpn:タンタル, kor:탄탈, vie:tantali, hin:टाण्टलम, ben:ট্যান্টালাম, may:tantalum, swa:tantali, ara: تنتالم|tantalum||tantale|tántalo|tântalo|тантал||टाण्टलम|ট্যান্টালাম||tantalum|تنتالم|tantal|tantali||钽||タンタル|탄탈|tantali, tantan|tantalo|tantaali|tantal
 tanur|tanur|||fas:heb:tanur, ara:(tannūr), eng:tandoor, athanor, tur:tandır, hin:तनूर (tanūr), urd:(tanūr), pnb:ਤੰਦੂਰ (tandūr), swa:tanuri|oven (furnace)|||horno||||||||||tanuri|||||||forno|uuni|piec (piekarnik)
 Tanzania|Tanzania|dexa|TZ||Tanzania|||Tanzania|||||||||||||||||Tanzanio|Tansania|Tanzania
+tap-|tape|||eng:tap, deu:Zapfen, spa:tur:tapa, por:tampa, ell:τάπα (tapa), bul:тапа (tapa)|stopper (cap, peg, plug, spigot, tap)|||tapón (tapa)||||||||||||||||||tulppa (tappi, korkki)|korek, zatyczka, szpunt
 tap-an|• antape||||unplug (uncork)|||desatascar||||||||||||||||||korkata|odetkać, odtykać
-tap.|tape|||eng:tap, deu:Zapfen, spa:tur:tapa, por:tampa, ell:τάπα (tapa), bul:тапа (tapa)|stopper (cap, peg, plug, spigot, tap)|||tapón (tapa)||||||||||||||||||tulppa (tappi, korkki)|korek, zatyczka, szpunt
 tap.on.|tapon||||tampon|Tampon|tampon|tampón|tampão|тампон||तंपन|||tampon||tampon|||||タンポン|탐폰|tăm-bông||tamppooni|
 tarif|tarif|||eng:tariff, spa:por:tarifa, deu:fra:tur:tarif, ara:(taʿrīf), rus:тариф (tarif), hin:टैरिफ़ (ṭairif)|tarif (tax, duty)|||impuesto (tributo, tarifa)||||||||||||||||||taksa (tariffi)|opłata, taryfa
 tasa|tasa|||ara: طَاس (ṭās), hau:taasaa, swa:tasa, tur:tas, fra:tasse, spa:taza, rus:таз, hin:तश्तरी (tashtarī)|bowl (dish)|||plato||блюдо (таз)||तश्तरी|||tasa|طَاس|tas|tasa|taasaa|盘 (碟)||皿|||plado|astia (kulho)|danie
@@ -4258,6 +4266,9 @@ taxi.metr.er|taximetrer||||taximeter||taximètre||taxímetro|таксометр|
 taxi.vala|taxi vala||||taxi driver (cab driver)||chauffeur de taxi|taxista (taximetrista)|taxista|таксист||टैक्सी चालक||||سَائِق تَاكْسِي‎|taksici|||出租车司机||タクシー運転手|택시 기사|lái xe tắc xi|taksiisto|taksinkuljettaja|taksówkarz
 taza|taza|||fas: تازه (tâze), hin:ताज़ा (tāzā), ben:তাজা (taja), tur:taze, ara: طَازَج (ṭāzaj)|fresh||frais|fresco||свежий||||||||||新鲜的|||||freŝa|tuore (raikas)|świeży
 tef|tef|bio|Eragrostis tef|amh:ጤፍ (ṭēff), orm:xaafii, swa:mtefi, eng:teff, spa:may:tef, por:tefe, rus:теф (tef), zho:苔麸 (tái fū), jpn:テフ (tefu), kor:테프 (teipeu)|lovegrass (teff)||mil éthiopien|||теф|||||tef|||mtefi||苔麸||テフ (穀物)|테프|||tefheinä (röllinurmikka)|
+teg.|tege|||lat:tegula, ita:tegola, eng:tile, deu:Ziegel, fra:tuile, spa:teja, por:telha, hin:टाइल (ṭāila), ben:টালি (ṭali), jpn:タイル (tairu), kor:타일 (tail), ara: طَجِين‎  (ṭajīn), tur:tuğla; tajine|brick|Ziegel|brique|ladrillo|tijolo|кирпич|آجر‎|ईंट|ইট|செங்கல்|batu bata|طُوبَة‎|tuğla|tofali|tubali|砖|磚|レンガ (磚)|벽돌|gạch|briko|tiili|cegła
+teg.ul-|tegule||||tile|Kachel (Dachziegel)|tuile|teja|telha|черепи́ца|کاشی‎|टाइल|টালি||jubin|قِرْمِيدَة‎|kiremit (karo)|||砖 (瓦)||タイル (瓦)|||kahelo (tegolo)|tiililaatta (kattotiili)|płyta
+teg+pot-|tege pote||||tajine||tagine|tajín|tagine|||||||طَجِين‎|tajine|||尖盖锅|尖蓋鍋|||||savipata (tagine)|
 tehn.|tehne|||ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|technique (technology)||technique|técnica|técnica|техника|||||teknik||teknik|||技术||技術|기술|kỹ thuật|tekniko|tekniikka (keino, menetelmä)|technika, technologia
 tehn.et.ium|tehnetium|yum 043|Tc|eng:technetium, fra:technétium, spa:tecnetio, por:tecnécio, rus:технеций, zho:锝 (dé), jpn:テクネチウム, kor:테크네튬, vie:tecnexi, hin:टेक्निशियम, ben:টেকনিসিয়াম, may:teknetium, swa:tekineti, ara: تكنيتيوم|technetium||technétium|tecnetio|tecnécio|технеций||टेक्निशियम|টেকনিসিয়াম||teknetium|تكنيتيوم|teknesyum|tekineti||锝||テクネチウム|테크네튬|tecnexi|teknecio|teknetium|technet
 tehn.krat.ia|tehnokratia||||technocracy|||tecnocracia||||||||||||||||||teknokratia|technokracja

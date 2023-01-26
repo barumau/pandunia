@@ -147,8 +147,12 @@ angul marke -
 angul pike -   
 angul pike -   
 angul ring - pierścień, pierścionek; obrączka  
-anime - animacja  
+anime -   
+animaje - animacja  
+• reanimate -   
+animate -   
 animation -   
+animisme - animizm  
 anis - anyż  
 anis araki -   
 anjil - wiadomość  
@@ -162,7 +166,6 @@ anus - odbyt
 anusal - analny, odbytni  
 aple - jabłko  
 aple sos - sos jabłkowy  
-aplika - stosować (zastosować; zastosowanie, aplikacja)  
 aposum - opos  
 arabe - arabski  
 arabi babul - akacja arabska  
@@ -447,7 +450,6 @@ be par -
 be pasi - cierpieć  
 be pute - rozłożyć się (rozkładać się, gnić, psuć się)  
 be raste - wzrastać  
-be razon - mieć sens  
 be reste - zostać, zostawać  
 be retro - wrócić, wracać, wycofać się, wycofywać się  
 be rota - obrócić się (kręcić się)  
@@ -854,8 +856,12 @@ di -
 dia - dzień  
 dia foto -   
 dia yam - obiad, lunch  
-• indike -   
 dike - cel (celować; kierunek)  
+dike - celować  
+dike - wskazać, wskazywać  
+• indike -   
+diker - wskaźnik  
+dike pin - kompas (namagnesowana igła)  
 din - religia, wyznanie  
 din di - religijny  
 din guru - ksiądz, kleryk, kaznodzieja  
@@ -885,7 +891,6 @@ dite - dyktować
 • ditateria - dyktatura  
 • dition -   
 Divehi - Malediwy (Republika Malediwów)  
-dobe - cegła  
 doh - córka  
 doh doh -   
 doh son -   
@@ -1099,7 +1104,6 @@ fa dalil - dowieść, dowodzić; zeznać, zeznawać
 fa dante -   
 fa darte bon - nawozić (nawieźć)  
 fa defa - obronić (chronić)  
-fa dika - celować  
 fa ding -   
 fa dipe - obniżać (obniżyć)  
 fa dom - dać mieszkanie (zakwaterować)  
@@ -2581,6 +2585,7 @@ kursi - kszesło, fotel
 kurta - kurta (tunika, toga)  
 kurva - wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać  
 kurva di - zakrzywiony  
+kutu -   
 Kuvaite - Kuwejt  
 kux loka - kuszetka (koja)  
 kuxen - poduszka  
@@ -3567,6 +3572,7 @@ pigu - pośladki, pupa, tyłek, zadek
 pijin - pidżin, język pomocniczy  
 pike -   
 pil - skóra  
+pilau - pilaw  
 pilote - pilot  
 pin - igła, szpilka  
 pin cope - kilof  
@@ -3594,11 +3600,14 @@ Pitkerne nesi - Pitcairn
 pixa - siki  
 piza - pizza  
 pizakan - pizzeria  
+ple -   
+• aplike - stosować (zastosować; zastosowanie, aplikacja)  
+• konplike -   
 plan - plan  
 planeta - planeta  
-plasti - plastik  
-plasti di -   
-plasti paste -   
+plaste - plastik  
+plastike -   
+plaste paste -   
 plate - płaszczyzna (płyta)  
 plate di - płaski  
 plate forma - platforma  
@@ -3608,16 +3617,14 @@ plate stan - równina (plaskowyż, plateau)
 plate tasa - talerz  
 platin - platyna  
 Platon - Platon  
-Platon sim - platonizm  
-Platon sim di - platoniczne  
-Platon sim ja - platończyk  
+platonike - platoniczne  
+platonisme - platonizm  
+platoniste - platończyk  
 plazma - plazma (zjonizowany gaz)  
-pli -   
 plumbe - ołów  
 Pluton - Pluton (planeta karłowata)  
 plutonium - pluton  
-poker - poker  
-polau - pilaw  
+poke - poker  
 poli - wiele  
 poli baxa di - wielojęzyczny  
 poli deu sim - politeizm  
@@ -3627,12 +3634,12 @@ poli kultur di - wielokulturowy
 poli kultur sim - wielokulturowość  
 poli marta - częstotliwość  
 poli nasi di - wielonarodowy  
+Polinesia -   
 polipli -   
 poli semi di - wieloznaczny  
 polita - ilość(mnóstwo)  
-Polinesi -   
 polis - policja  
-polis ja - oficer policji, policjant  
+poliser - oficer policji, policjant  
 poliskan -   
 polite - rząd  
 politike - polityk  
@@ -3644,10 +3651,7 @@ polskium - polon
 Polska - Polska  
 polska baxa - polski  
 pompe - pompować  
-pompe tapa - tłok  
-ponte - wskazać, wskazywać  
-ponte flece - wskaźnik  
-ponte pin - kompas (namagnesowana igła)  
+pompe tape - tłok  
 pore -   
 porei - por  
 porno - porno, film erotyczny  
@@ -3665,49 +3669,50 @@ Portugal - Portugalia
 portugal baxa -   
 pos - konsekwencja, skutek  
 pos den - jutro  
-pos di - następny (następujący)  
-pos di -   
-pos fixe - przyrostek (sufiks)  
-pos poza -   
+posfixe - przyrostek (sufiks)  
+posike -   
+posime - następny (następujący)  
+pospoze -   
 pos zaman - przyszłość  
-posta - poczta  
-posta cape - znaczek pocztowy  
-postakan - poczta, budynek poczty  
-posta marke -   
+poste - poczta  
+poste cape - znaczek pocztowy  
+postekan - poczta, budynek poczty  
+poste marke -   
 pote -   
 pote camaca -   
-pote ja -   
-pote suta -   
+poter -   
+poteria -   
 poto - błoto  
 poto defa bano - błotnik  
 poto di - błotnisty  
 poto stan - bagno (moczary)  
-poyu -   
 poze - pozować (ustawiać się; poza, pozycja)  
 • depoze - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
 • expoze -   
 • inpoze -   
-• konpozeje -   
+• konpozaje -   
 • pospoze -   
-• pospoze -   
-• prepoze -   
+• pospozaje -   
+• prepozaje -   
 • propoze - proponować (sugerować; propozycja, sugestia)  
-prati - praktyka, aktualność  
-prati di - practyczny, pragmatyczny  
+prate - praktyka, aktualność  
+pratike - practyczny, pragmatyczny  
 prazedimium - prazeodym  
 pre - poprzedni  
 pre di - poprzedni  
-preme - pierwszy, początkowy  
+prime - pierwszy, początkowy  
 pre si - zakładać (założyć)  
 presidente - prezydent  
+prese -   
 • deprese -   
 • exprese -   
 • konprese - ścisnąć (sciskać, wycisnąć)  
 • niceprese -   
 • represe -   
-prese -   
 preser -   
-prese gi -   
+prive -   
+• deprive -   
+privatize -   
 proba - spróbować, próbować  
 problem - problem  
 problem di - problematyczny  
@@ -3787,10 +3792,14 @@ rasa medi - międzyrasowy
 rasa sim - rasizm  
 rasa sim ja - rasista  
 raste - wzrost  
+rate - mieć sens  
+ration - rozum, rozsądek  
+rational - racjonalny, rozsądny  
+ratekan -   
+ratolojia - logika, dedukcja  
+ratolojike - logiczny  
 ratibu - porządek  
 ratibu li -   
-razon - rozum, rozsądek  
-razon li - racjonalny, rozsądny  
 re -   
 ree -   
 real - realny  
@@ -4255,7 +4264,6 @@ Tai baxa - tajski
 Tai Dexa - Tajlandia  
 Taibei - Tajpej  
 taiga - tajga  
-tail - płyta  
 Taivan - Tajwan, Republika Chińska  
 Tajiki - Tadżykistan  
 talium - tal  
@@ -4272,8 +4280,8 @@ tanki - zbiornik (cysterna, pojemnik, rezerwuar)
 tantalium - tantal  
 tanur - piec (piekarnik)  
 Tanzania - Tanzania  
-• antape - odetkać, odtykać  
 tape - korek, zatyczka, szpunt  
+• antape - odetkać, odtykać  
 tapon -   
 tarif - opłata, taryfa  
 tasa - danie  
@@ -4289,6 +4297,9 @@ taximetrer - taksometr
 taxi vala - taksówkarz  
 taza - świeży  
 tef -   
+tege - cegła  
+tegule - płyta  
+tege pote -   
 tehne - technika, technologia  
 tehnetium - technet  
 tehnokratia - technokracja  

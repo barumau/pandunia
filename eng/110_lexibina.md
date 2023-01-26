@@ -23,13 +23,13 @@ For example, the word **hali** can function equally as an adjective (_blank_ or 
 **tu mus hali vo lexi.**
 – You must blank out that word.
 
-Likewise, the word **kitaba** can function as a verb (_to write_), a noun (_a writing_) and adjective (_written_ or _textual_).
+Likewise, the word **kitabe** can function as a verb (_to write_), a noun (_a writing_) and adjective (_written_ or _textual_).
 
-**mi kitaba letre.**
+**mi kitabe letre.**
 – I write a letter.  
-**letre e kitaba misaje.**
+**letre e kitabe misaje.**
 – A letter is a written message.  
-**mi luba tu su kitaba.**
+**mi luba tu su kitabe.**
 – I love your writings.
 
 
@@ -367,11 +367,22 @@ are not compound words in Pandunia.
 'earthling' and, _by extension_, 'human being'
 
 **-ate**
-'doing, action' :  
+'do, act' :  
 **rote**
 'wheel'
 → **rotate**
 'rotate, turn like a wheel'
+
+**-ation** = **-ate* + **-ion**
+'doing, action' :  
+**anime**
+'to animate'
+→ **animation**
+'animation, animating'  
+**rote**
+'wheel'
+→ **rotation**
+'rotation, turning like a wheel'
 
 **-bil**
 'that can be done' :  

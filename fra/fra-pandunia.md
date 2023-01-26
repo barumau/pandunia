@@ -112,9 +112,11 @@ andésite - andesite
 anglophone - englix fon di  
 Angola - Angola  
 animal (bête) - hevan  
+animation - animaje  
 animation - animation  
-animation - anime  
+animer - animate  
 animer - fa anime  
+animisme - animisme  
 anis - anis  
 anneau - ring  
 Antarctique - Antartika  
@@ -127,8 +129,8 @@ anus - anus
 anémie - anhemia  
 août - mes bati  
 appartenir à - be mal  
-appliquer (application) - aplika  
 appliquer - fa aplika  
+appliquer - aplike  
 apporter - fa lai  
 apprendre (étudier) - fa xula  
 apprivoiser (dresser, dompter, discipliner) - fa dosil  
@@ -325,7 +327,7 @@ bras - hanu xaka
 brave - bravo  
 bravo! - bravo  
 brigand (bandit) - lutar  
-brique - dobe  
+brique - tege  
 brochette - xix  
 brocoli - brokoli  
 brome - brom  
@@ -352,7 +354,7 @@ bûche - moka tana
 cabine - bude  
 cabine téléphonique - tele fon bude  
 cacher - fa sir  
-cachet de la poste - posta marke  
+cachet de la poste - poste marke  
 cactus - katus  
 cadavre (corps) - nekre  
 cadenas - pende sor  
@@ -401,7 +403,6 @@ cardon - kardon karcof
 carnaval - karne feste  
 carotte - karote  
 caroube - karuba  
-carreau (tuile) - tail  
 carrière - pei kar jiva  
 carte (plan) - karte  
 carte - karta  
@@ -1168,6 +1169,7 @@ livermorium - livermorium
 livre - buku  
 livre de bord - loga buku  
 local - lokal  
+logique - ratolojia  
 loin (hors, parti) - for  
 loin - to long  
 long - long  
@@ -1558,6 +1560,7 @@ peroxyde d'hydrogène - hidre peroxide
 perplexe (désorienté) - ruhu mixe di  
 perroquet - papagai  
 personne - jen  
+personnel (privé) - prive  
 perturber (turbulence) - disturbe  
 pervers - perverse  
 pet (vesse) - pede  
@@ -1582,6 +1585,7 @@ pierre - seku
 pierre précieuse (joyau) - bauite  
 pierre tombale - gabrite  
 pieu - moka kane  
+pilaf - pilau  
 pile (batterie) - batri  
 pilier (colonne, poteau) - kolum  
 piment - cili  
@@ -1591,7 +1595,7 @@ piquant - pin sense di
 piquenique - vai yam  
 piraterie - pirate  
 pistolet - pau gi  
-piston - pompe tapa  
+piston - pompe tape  
 pivoine - mudan  
 pizza - piza  
 pièce (chambre) - kamar  
@@ -1634,7 +1638,7 @@ poivre long - long pipre
 poli - lumize  
 pollution - najis  
 polonium - polskium  
-Polynesie - Polinesi  
+Polynesie - Polinesia  
 Polynésie française - Franse Polinesi  
 pomme - aple  
 pont - kio  
@@ -1651,13 +1655,13 @@ possédant (propriétaire) - mal ja
 post-natal - posnatal  
 post-production - posprodution  
 posture (position) - asan  
-postérieur - pos di  
+postérieur - posike  
 pot (vase) - pote  
 pot de fleur - hua pote  
 potassium - kalium  
-poterie - pote suta  
-potier - pote ja  
-pou - poyu  
+poterie - poteria  
+potier - poter  
+pou - kutu  
 poubelle - lasa tong  
 poudre - fun  
 poudre à canon - barude  
@@ -1674,11 +1678,12 @@ presse-papier - gata glu bano
 presser - fa prese  
 pression - prese  
 pression atmosphérique - air prese  
-pressoir - prese gi  
 pressoir - preser  
 preuve - dalil  
 principe - bazisme  
 prison (geôle) - jelakan  
+privatiser - privatize  
+priver de - deprive  
 problème - problem  
 problématique - problem di  
 proche - proxe  
@@ -1727,7 +1732,7 @@ pyramide - piram
 pâquerette - englix margarita  
 pâte (pulpe, foufou) - fufu  
 pâte - pasta  
-pâte à modeler - plasti paste  
+pâte à modeler - plaste paste  
 pénal - fatu di  
 périr - perex fa  
 péter - fa pede  
@@ -1752,6 +1757,7 @@ racine - mula
 radio - radio  
 radium - radium  
 radon - radon  
+raisonnement - ration  
 raki - anis araki  
 rang - dan  
 rare - nadir  
@@ -1820,6 +1826,7 @@ réaction - reation
 réagir - reate  
 réalisme - realisme  
 réalité - realta  
+réanimer - reanimate  
 référer - refere  
 réglisse - alkasus  
 réincarnation - reinkarnation  
@@ -1957,7 +1964,7 @@ substance - kime
 sucer - cupu  
 sucre - sukar  
 sueur - sueda  
-suffixe - pos fixe  
+suffixe - posfixe  
 Suisse - Suise  
 suivre - fa pos  
 sujet (thème) - tema  
@@ -1990,6 +1997,7 @@ table - meza
 tableau (panneau) - bano  
 tablette de chocolat - coklate kane  
 tactique - taxike  
+tagine - tege pote  
 tampon - tapon  
 tantale - tantalium  
 tante - cin sis  
@@ -2094,6 +2102,7 @@ truite brune (truite de mer) - kafe salmon
 très - tre  
 tu - tu  
 tubercule - masa mula  
+tuile - tegule  
 tulipe - tulpan  
 tungstène - volfram  
 tunique - kurta  
@@ -2167,7 +2176,7 @@ virgule - koma
 virus - virus  
 visage - muka  
 viser (direction, cible; objectif) - dike  
-viser - fa dika  
+viser - dike  
 Vishnou - Vixnu  
 vitamine - vitamin  
 vite (rapide) - suga  
@@ -2234,6 +2243,7 @@ zéro - siro
 Égypte antique - Keme  
 Épicéa - pisea  
 âge - umur  
+âme (esprit) - anime  
 éblouir (étonner, stupéfier, surprendre) - fa ajabu  
 échec - xiti bai  
 échec et mat - xah mata  

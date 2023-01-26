@@ -178,8 +178,12 @@ angul marke - sormenjälki
 angul pike - sormenpää  
 angul pike - sormenpää  
 angul ring - sormus  
-anime - animaatio (piirroselokuva, piirretty)  
+anime - elämän henki  
+animaje - animaatio (piirroselokuva, piirretty)  
+• reanimate - elvyttää (palauttaa henkiin)  
+animate - elävöittää (animoida)  
 animation - animointi  
+animisme - animismi  
 anis - anis  
 anis araki - raki  
 anjil - viesti  
@@ -193,7 +197,6 @@ anus - peräaukko (anus)
 anusal - anaalinen  
 aple - omena  
 aple sos - omenasose  
-aplika - soveltaa (sovellus)  
 aposum - pussirotta (opossumi)  
 arabe - Arabia (arabia; arabialainen)  
 araki - viina  
@@ -470,7 +473,6 @@ be par - olla yhtä kuin
 be pasi - sattua (käydä kipeää)  
 be pute - mädäntyä (mädätä)  
 be raste - kasvaa  
-be razon - käydä järkeen  
 be reste - jäädä jäljelle  
 be retro - palata  
 be rota - pyöriä  
@@ -862,8 +864,11 @@ di - -a (adjektiva partiklo)
 dia - päivä (päiväsaika)  
 dia foto - päivänvalo  
 dia yam - lounas  
-• indike - osoittaa (näyttää)  
 dike - osoittaa (tähdätä; suunta, kohde; maali)  
+dike - osoittaa (tähdätä)  
+dike - osoittaa (näyttää)  
+• indike - osoittaa (näyttää)  
+diker - osoitin (viisari)  
 din - uskonto  
 din di - uskonnollinen  
 din guru - pappi  
@@ -887,7 +892,6 @@ dite - sanella
 • ditateria - diktatuuri  
 • dition - sanoittaminen (diktio)  
 Divehi - Malediivit  
-dobe - tiili  
 doh - tytär  
 doh doh - tyttärentytär  
 doh son - tyttärenpoika  
@@ -1088,7 +1092,6 @@ fa dalil - todistaa
 fa dante - purra  
 fa darte bon - lannoittaa  
 fa defa - puolustaa  
-fa dika - osoittaa (tähdätä)  
 fa dipe - alentaa (laskea alas)  
 fa dom - asuttaa  
 fa dosil - kesyttää  
@@ -3297,6 +3300,7 @@ pigu - pylly (takapuoli, pakarat)
 pijin - kontaktikieli (pidgin)  
 pike - kärki (pää)  
 pil - nahka (kuori, iho)  
+pilau - pilahvi  
 pilote - ohjaaja (pilotti, luotsi)  
 pin - piikki (pistin, neula)  
 pin sense di - pisteliäs (pikantti)  
@@ -3319,25 +3323,26 @@ Pitkerne nesi - Pitcairn
 pixa - virtsa (pissa, kusi)  
 piza - pitsa (pizza)  
 pizakan - pitseria  
+ple - kerta (kerros, monikerta)  
+• aplike - kerrostaa  
+• konplike - monikerroksinen (monimutkainen)  
 plan - suunnitelma  
 planeta - planeetta  
-plasti - muovi  
-plasti di - plastinen (muovailtava)  
-plasti paste - muovailuvaha  
+plaste - muovi  
+plastike - plastinen (muovailtava)  
+plaste paste - muovailuvaha  
 plate di - litteä  
 plate geo sim ja - litteän maapallon kannattaja  
 plate tasa - lautanen  
 platin - platina  
 Platon - Platon  
-Platon sim - platonismi  
-Platon sim di - platoninen  
-Platon sim ja - platonisti  
-pli - kerta (monikerta)  
+platonike - platoninen  
+platonisme - platonismi  
+platoniste - platonisti  
 plumbe - lyijy  
 Pluton - Pluto (kääpiöplaneetta)  
 plutonium - plutonium  
-poker - pokeri  
-polau - pilahvi  
+poke - pokeri  
 poli - paljon (monta)  
 poli baxa di - monikielinen  
 poli deu sim - polyteismi (monijumalisuus)  
@@ -3348,7 +3353,7 @@ poli nasi di - monikansallinen
 polipli - moninkertainen  
 poli semi di - monimerkityksinen  
 polis - poliisi  
-polis ja - poliiisi (poliisimies)  
+poliser - poliiisi (poliisimies)  
 poliskan - poliisiasema  
 polite - hallinto  
 politike - poliitikko (hallinnoija)  
@@ -3360,10 +3365,9 @@ polskium - polonium
 Polska - puola  
 polska baxa - puolalainen  
 pompe - pumppu  
-pompe tapa - mäntä  
-ponte - osoittaa (näyttää)  
-ponte flece - osoitin (viisari)  
+pompe tape - mäntä  
 pore - huokonen  
+porei - purjo  
 porno - porno  
 porno grafi - pornografia  
 porte - kantaa  
@@ -3379,19 +3383,19 @@ Portugal - Portugali
 portugal baxa - portugali  
 pos - seuraus  
 pos den - huominen  
-pos di - seuraava  
-pos di - myöhempi (takainen)  
-pos fixe - loppuliite (jälkiliite)  
-pos poza - siirtää taakse  
+posfixe - loppuliite (jälkiliite)  
+posike - myöhempi (takainen)  
+posime - seuraava  
+pospoze - siirtää taakse  
 pos zaman - tulevaisuus  
-posta - posti (postilähetys)  
-posta cape - postileima  
-postakan - postitoimisto  
-posta marke - postileima  
+poste - posti (postilähetys)  
+poste cape - postileima  
+postekan - postitoimisto  
+poste marke - postileima  
 pote - pata  
 pote camaca - kauha  
-pote ja - savenvalaja  
-pote suta - keramiikka  
+poter - savenvalaja  
+poteria - keramiikka  
 poto - muta (kura, lieju)  
 poto defa bano - lokasuoja  
 poto di - kurainen (mutainen)  
@@ -3400,23 +3404,25 @@ poze - panna (asettaa; asetelma)
 • depoze - poistaa (hävittää, panna pois)  
 • expoze - ottaa ulos (ottaa esiin, paljastaa)  
 • inpoze - panna sisään  
-• konpozeje - komponentti (kokoonpane)  
+• konpozaje - komponentti (kokoonpane)  
 • pospoze - siirtää taakse  
-• pospoze - postpositio  
-• prepoze - prepositio  
+• pospozaje - postpositio  
+• prepozaje - prepositio  
 • propoze - ehdottaa (ehdotus)  
-prati - käytäntö (pragmatia)  
-prati di - käytännöllinen (pragmaattinen)  
+prate - käytäntö (pragmatia)  
+pratike - käytännöllinen (pragmaattinen)  
 prazedimium - praseodyymi  
 pre - ennen (aikaisemmin, aiemmin; aikaisempi, edellinen)  
 pre di - edellinen  
 pre si - edellyttää  
 presidente - presidentti  
+prese - puristaaa (puristus, paine)  
 • konprese - puristaa (pusertaa)  
 • represe - puskea takaisin (alistaa)  
-prese - puristaaa (puristus, paine)  
-preser - puristin  
-prese gi - puristin  
+preser - puristin (prässi)  
+prive - oma (henkilökohtainen, yksityinen, privaatti)  
+• deprive - riistää (viedä omistuksesta)  
+privatize - yksityistää  
 proba - yrittää (kokeilla, koettaa; koe, kokeilu, yritys)  
 problem - ongelma  
 problem di - ongelmallinen  
@@ -3482,9 +3488,13 @@ rasa medi - rotujen välinen
 rasa sim - rasismi (rotuoppi)  
 rasa sim ja - rasisti  
 raste - kasvu  
+rate - järkeillä (käydä järkeen)  
+ration - järki (järkeily, päättely)  
+rational - järjellinen (järkiperäinen, rationaalinen)  
+ratekan - neuvosto (raati)  
+ratolojia - logiikka  
+ratolojike - looginen  
 ratibu - järjestys  
-razon - järki (järkeily, päättely)  
-razon li - järjellinen (järkiperäinen, rationaalinen)  
 re - takaisin  
 ree - asia (tosiasia)  
 real - todellinen (tosiasialinen, reaalinen)  
@@ -3892,8 +3902,8 @@ tanki - tankki (säiliö)
 tantalium - tantaali  
 tanur - uuni  
 Tanzania - Tansania  
-• antape - korkata  
 tape - tulppa (tappi, korkki)  
+• antape - korkata  
 tapon - tamppooni  
 tarif - taksa (tariffi)  
 tasa - astia (kulho)  
@@ -3908,6 +3918,9 @@ taximetrer - taksamittari
 taxi vala - taksinkuljettaja  
 taza - tuore (raikas)  
 tef - tefheinä (röllinurmikka)  
+tege - tiili  
+tegule - tiililaatta (kattotiili)  
+tege pote - savipata (tagine)  
 tehne - tekniikka (keino, menetelmä)  
 tehnetium - teknetium  
 tehnokratia - teknokratia  

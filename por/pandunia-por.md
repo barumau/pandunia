@@ -71,6 +71,10 @@ angar - âncora
 angul - dedo  
 angul marke - impressão digital  
 angul pike - ponta do dedo  
+anime - alma (espírito)  
+• reanimate - reanimar  
+animate - animar  
+animisme - animismo  
 anis - anis  
 anis araki - áraque  
 anjil - mensagem  
@@ -379,6 +383,7 @@ dexhanuka - destro
 dia - dia  
 dia foto - luz do dia  
 dike - directionar (apontar, mirar; direção; objetivo)  
+dike - mirar (apontar)  
 din - religião  
 din ja - crente  
 • andin ja - infiel  
@@ -394,7 +399,6 @@ dite - ditar
 • ditater - ditador  
 • ditateria - ditadura  
 • dition - dicção  
-dobe - tijolo  
 doh - filha  
 dokumen - documento  
 dokumen filme - documentário  
@@ -466,7 +470,6 @@ fa asar - efetuar
 fa bina - construir  
 fa culi - tratar (lidar, procesar)  
 fa dante - morder  
-fa dika - mirar (apontar)  
 fa dus forma - desfigurar  
 fa estude - estudar (examinar)  
 fa fatu - punir (castigar)  
@@ -1027,6 +1030,7 @@ kurban - sacrifício
 • prekurser - precursor  
 kurta - túnica  
 kurva - curva  
+kutu - piolho  
 
 ## L  
 
@@ -1479,6 +1483,7 @@ pexe saide ja - pescador
 piaze - cebola  
 pike - ponta (pico, bico)  
 pil - pele  
+pilau - pilafe  
 pin - alfinete  
 pin cope - picareta  
 pin kardon - acanto-bastardo  
@@ -1490,22 +1495,23 @@ pipre minta - hortelã-pimenta
 piram - pirâmida  
 pirate - pirataria  
 pisea - pícea (espruce)  
+• aplike - aplicar  
 plan - plano  
-plasti di - plástico  
-plasti paste - massa de modelar (massinha)  
+plastike - plástico  
+plaste paste - massa de modelar (massinha)  
 plate geo kaskalogi - tectónica de placas  
 plate geo sim ja - terraplanista  
 platin - platina  
 plumbe - chumbo  
 plutonium - plutónio  
 poli baxa di - multilíngue (plurilíngue)  
+Polinesia - Polinésia  
 polipli - múltiplos  
-Polinesi - Polinésia  
 polite - governo  
 politike - administrador  
 politi mode - regime  
 polskium - polónio  
-pompe tapa - pistão  
+pompe tape - pistão  
 pore - poro  
 porei - alho-porro  
 porte - portar  
@@ -1514,21 +1520,22 @@ porte - portar
 porto - porto  
 Portoriko - Porto Rico  
 portoriko jen - porto-riquenho  
-pos di - posterior  
-posta marke - carimbo  
+posike - posterior  
+poste marke - carimbo  
 pote camaca - concha  
-pote ja - oleiro  
-pote suta - cerâmica  
+poter - oleiro  
+poteria - cerâmica  
 poto - lama (lodo)  
 poto defa bano - para-lama  
 poto stan - pântano  
-poyu - piolho  
 • expoze - expor (revelar)  
 prazedimium - praseodímio  
 presidente - presidente  
 prese - pressão  
 preser - prensa  
-prese gi - prensa  
+prive - pessoal (privado)  
+• deprive - privar  
+privatize - privatizar  
 proba - tentar (provar)  
 problem - problema  
 profesor - professor  
@@ -1565,6 +1572,9 @@ rakun - guaxinim (rato-lavadeiro)
 rang - cor  
 rang arka salmon - truta-arco-íris  
 rasa - raça  
+ration - razoamento  
+rational - racional  
+ratolojia - lógica  
 ratibu - ordem  
 real - real  
 realisme - realismo  
@@ -1738,7 +1748,6 @@ suta - arte
 
 table komputa - tablet  
 tai - estrado  
-tail - ladrilho (telha, azulejo)  
 talium - tálio  
 tala - fechadura  
 tana - haste (talo, caule)  
@@ -1750,6 +1759,9 @@ taxike - tática
 taxonomia - taxonomia (taxinomia)  
 taximetrer - taxímetro  
 taxi vala - taxista  
+tege - tijolo  
+tegule - telha  
+tege pote - tagine  
 tehne - técnica  
 tehnetium - tecnécio  
 tela - fazenda (tecido)  

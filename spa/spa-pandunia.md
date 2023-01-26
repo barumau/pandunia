@@ -127,8 +127,8 @@ alemán - doice di
 alfabeto - zi seri  
 alfabeto cirílico - Kiril zi  
 alfabeto latino - Latin zi  
-alfarero - pote ja  
-alfarería - pote suta  
+alfarero - poter  
+alfarería - poteria  
 alfiler (espina, aguja) - pin  
 alfombra (tapete) - dipe tela  
 alga - alga  
@@ -146,6 +146,7 @@ alicate - pinse gi
 alienígena - alian  
 alinear - be ging  
 allí (allá) - a vo  
+alma (espíritu) - anime  
 almacén - mahazin  
 almendra - badam  
 almirante - bahai amir ja  
@@ -218,10 +219,11 @@ anglófilo - englix fili ja
 Angola - Angola  
 anillo (sortija) - angul ring  
 anillo - ring  
-animación (dibujo animado) - anime  
+animación (dibujo animado) - animaje  
 animación - animation  
 animal (bestia) - hevan  
 animar - fa anime  
+animismo - animisme  
 aniversario - nen festa  
 ano - anus  
 antartida - Antartika  
@@ -241,13 +243,14 @@ anón (ates, saramuyo) - ata
 aparecer - be zai  
 apartarse (desviarse) - be rute galte  
 apellido - famili nam  
+aplicar (untar) - aplike  
 aprender (estudiar) - fa xula  
 apropriado (apto, oportuno) - hapu  
 aproximadamente - yaki  
 aproximar - aproxe  
 apuntar (dirección) - dike  
-apuntar (indicar) - ponte  
-apuntar - fa dika  
+apuntar (indicar) - dike  
+apuntar - dike  
 aquí (acá) - a ye  
 Arabia Saudita - Saudi Arabi  
 aracnofobia - aranofobia  
@@ -394,7 +397,6 @@ bajar - fa dipe
 bajo - dipe  
 balcón (terraza, veranda) - veranda  
 balde (cubo) - baldi  
-baldosa (teja, azulejo) - tail  
 ballesta - krus arka  
 baloncesto (básquetbol) - baske bol  
 bambú - bambu  
@@ -509,7 +511,7 @@ bromista (chistoso) - joker
 bromo - brom  
 Brunei - Brunei  
 brócoli (brécol) - brokoli  
-brújula - ponte pin  
+brújula - dike pin  
 bu! - bu!  
 Buda - Buda  
 budismo - Buda din  
@@ -961,7 +963,7 @@ correa (rein) - lide lin
 correcto (justo) - sahi  
 corredor - kore ja  
 corregir - fa sahi  
-correo - posta  
+correo - poste  
 correo basura - lasa posta  
 correr - kore  
 corriente de resaca - tire dara  
@@ -1357,7 +1359,6 @@ empanada (pelmeni) - pelmen
 emparejar (quedar) - kon bon  
 emperador - imperer  
 emplear (aplicar) - fa aplika  
-emplear (aplicar; aplicación) - aplika  
 empresario - biznes ja  
 empujar (presionar) - pulse  
 en (a) - a  
@@ -2003,7 +2004,7 @@ incluir - fa in klus
 inclusivo - in klus di  
 indeterminado (incierto, indefinido) - anding  
 India - Barti  
-indicador (cursor) - ponte flece  
+indicador (cursor) - diker  
 indio (hindú) - barti  
 indium - hindium  
 individuo - monike  
@@ -2196,7 +2197,7 @@ kétchup - kecape
 labio - labi  
 laca - laka  
 lado (flanco) - late  
-ladrillo - dobe  
+ladrillo - tege  
 ladrón - cori ja  
 ladrón - lutar  
 lagarto - saur  
@@ -2318,6 +2319,7 @@ lobo - volfe
 local - lokal  
 lodo (barro, fango) - poto  
 logical - logika di  
+logical - ratolojike  
 lograr (llegar) - fa gol  
 longitud - ging gradu  
 loro (papagayo) - papagai  
@@ -2348,6 +2350,7 @@ lípido - lipide
 líquido (fluido) - dara mate di  
 líquido - dara mate  
 lógica - logika  
+lógica - ratolojia  
 lúmen - lumen  
 lúpulo (hombrecillo) - humel  
 
@@ -2383,7 +2386,7 @@ malayali (malabar, malayalam) - malayali
 malayo - malayu  
 maldecir (maldición) - dusdua  
 Maldivas - Divehi  
-maleable - plasti di  
+maleable - plastike  
 malgache - madagasi di  
 Mali - Mali  
 malinterpretar - galte budi  
@@ -2446,7 +2449,7 @@ masaje - masaje
 masculino (macho) - nan  
 matadero - karnekan  
 matar (morir, asesinar) - matafa  
-matasellos - posta marke  
+matasellos - poste marke  
 mate (opaco) - foto mata di  
 mate cocido - mate cai  
 matemática - mate  
@@ -2832,7 +2835,7 @@ oficial (formal, protocolario) - buro di
 oficial - guan di  
 oficina - buro  
 oficina - burokan  
-oficina de correos - postakan  
+oficina de correos - postekan  
 oganesón - oganeson  
 ogro (gnomo, trol, duende, trasgo) - gui  
 ojo - yen  
@@ -3093,7 +3096,7 @@ piedra - seku
 piedra preciosa (joya, gema) - bauite  
 piel - pil  
 pila (batería) - batri  
-pilaf (pulaw) - polau  
+pilaf (pulaw) - pilau  
 piloto - pilote  
 pimienta - pipre  
 pimpollo - jun moka  
@@ -3104,7 +3107,7 @@ pino - songi
 pintar - fa pente  
 pintor - pente ja  
 pintura - pente  
-piojo - poyu  
+piojo - kutu  
 piperita - pipre minta  
 pirata - pirate ja  
 piratería - pirate  
@@ -3115,7 +3118,7 @@ piscina (alberca, lavadero) - basen
 piso (suelo) - kamar dipe  
 pistola (rifle) - pau gi  
 pistola - pistol  
-pistón - pompe tapa  
+pistón - pompe tape  
 pitufo - nil elfe  
 pizza - piza  
 pizzería - pizakan  
@@ -3129,22 +3132,22 @@ plano (placa) - plate
 planta (vegetal, vegetación) - fite  
 planta neófita - neu fito  
 plasma (gas ionizado) - plazma  
-plastilina - plasti paste  
+plastilina - plaste paste  
 plata - argente  
 platino - platin  
 plato - plate tasa  
 plato - tasa  
-platonismo - Platon sim  
-platonista - Platon sim ja  
+platonismo - platonisme  
+platonista - platoniste  
 Platón - Platon  
-platónico - Platon sim di  
+platónico - platonike  
 plaza - medan  
 plomo - plumbe  
 pluma - pena  
 pluma - pena kalam  
 plutonio - plutonium  
 Plutón - Pluton  
-plástico - plasti  
+plástico - plaste  
 plátano (banana) - banana  
 pobre (miserable) - miskin  
 poción - dava sui  
@@ -3156,9 +3159,9 @@ podsol - hui darte
 poema - xir  
 poeta - xir ja  
 policía - polis  
-policía - polis ja  
+policía - poliser  
 poliedro - poli fase  
-Polinesia - Polinesi  
+Polinesia - Polinesia  
 Polinesia Francesa - Franse Polinesi  
 politeísmo - poli deu sim  
 pollo - koko  
@@ -3187,7 +3190,7 @@ posar (pose, postura) - poze
 poseer (tener, ser dueño de) - fa mal  
 posproducción - posprodution  
 poste (columna) - kolum  
-posterior - pos di  
+posterior - posike  
 postnatal - posnatal  
 postura (posición) - asan  
 potasio - kalium  
@@ -3210,7 +3213,6 @@ preguntarse - be sabi vol
 prejuicio - prejude  
 prejuicio - prexake  
 prenatal - prenatal  
-prensa - prese gi  
 prensa - preser  
 prensar (oprimir) - fa prese  
 preparar (hacer listo) - fa redi  
@@ -3228,7 +3230,7 @@ prever (esperar, pensar) - previde
 previo (anterior) - pre di  
 previo (anterior; antes; preceder, anteceder) - pre  
 primavera - hua mosim  
-primer (inicial, inaugural) - preme  
+primer (inicial, inaugural) - prime  
 primer (inicial, inaugural) - xuru di  
 primer ministro - xefe ministre ja  
 primero (numbre uno) - un me  
@@ -3237,6 +3239,9 @@ principio - bazisme
 prisa - haste  
 prisionero - jela jen  
 prisión - jela  
+privado - prive  
+privar (desproveer) - deprive  
+privatizar - privatize  
 proactinio - protacinium  
 probar (demonstrar, comprobar) - fa dalil  
 problema - problem  
@@ -3282,8 +3287,8 @@ proyector - grafi lanse gi
 proyector - grafi projeter  
 prueba - dalil  
 prueba - teste  
-práctica - prati  
-práctico - prati di  
+práctica - prate  
+práctico - pratike  
 préstamo lingüístico - jeka loga  
 próximo - proxe  
 psicología - ruhu lojia  
@@ -3318,7 +3323,7 @@ pánico - panike
 pícea - pisea  
 píxel - grafi so  
 pólvora - barude  
-póquer - poker  
+póquer - poke  
 público - demi di  
 que (como, en comparación con) - ka  
 que - ki  
@@ -3349,6 +3354,7 @@ químico - kimike
 
 ## R  
 
+racional - rational  
 racismo - rasa sim  
 racista - rasa sim ja  
 ración (dosis) - doze  
@@ -3378,9 +3384,8 @@ ratón - muxu
 rayo (radiación) - radi  
 rayo luminoso - foto radi  
 raza - rasa  
-razonable - razon li  
+razonamiento - ration  
 razón (causa) - sabu  
-razón - razon  
 raíz - mula  
 reaccionar - reate  
 reacción - reation  
@@ -3388,6 +3393,7 @@ real (de realtad) - raja di
 real - real  
 realidad - realta  
 realismo - realisme  
+reanimar - reanimate  
 rebelión (sublevación) - rebel  
 rebotar - boing  
 recargar - rikarga  
@@ -3612,7 +3618,7 @@ segundo - sekunde
 seguro - sekur  
 seis (6) - luka  
 selenio - selenium  
-sello postal - posta cape  
+sello postal - poste cape  
 semana - cetiden  
 semilla - seme  
 seminal - seme di  
@@ -3660,7 +3666,7 @@ siete (7) - ceti
 sigilo - sirta  
 significado (acepción) - mana  
 significar (querer decir) - seme  
-siguiente (trasero) - pos di  
+siguiente (trasero) - posime  
 sij - siki din ja  
 sijismo - siki din  
 silencio - tixta  
@@ -3745,7 +3751,7 @@ Suecia - Suen
 suegra - per ma  
 suegro - per pa  
 sueño - sona  
-sufijo - pos fixe  
+sufijo - posfixe  
 sufragio (derecho al voto) - vote hake  
 sufrir (verbo pasivo) - be  
 sufrir - be pasi  
@@ -3791,6 +3797,7 @@ taiga - taiga
 Tailandia - Tai Dexa  
 Taipei - Taibei  
 Taiwán - Taivan  
+tajín - tege pote  
 taladrar (perforar) - fora  
 talio - talium  
 tallo - tana  
@@ -3828,6 +3835,7 @@ tecnetio - tehnetium
 tecnocracia - tehnokratia  
 tecnología - tehnolojia  
 tectónica de placas - plate geo kaskalogi  
+teja - tegule  
 tejer - fa tela  
 tela (paño, tejido) - tela  
 tela - pente tela  
@@ -3848,7 +3856,7 @@ tenedor - forke
 tener (mantener, detener) - tene  
 tener - ha  
 tener gusto a - guste ka  
-tener sentido - be razon  
+tener sentido - rate  
 teneso - tenesium  
 Tennessee - Tenesi  
 tennis - tenis  

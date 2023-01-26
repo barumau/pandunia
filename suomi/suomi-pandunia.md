@@ -140,7 +140,8 @@ Andorra - Andora
 anemia - anhemia  
 anglofiili - englix fili ja  
 Angola - Angola  
-animaatio (piirroselokuva, piirretty) - anime  
+animaatio (piirroselokuva, piirretty) - animaje  
+animismi - animisme  
 animoida - fa anime  
 animointi - animation  
 anis - anis  
@@ -421,6 +422,7 @@ elokuva - kino grafi
 elokuvallinen - kino grafi di  
 elokuvataide - kino grafi arte  
 elokuvateatteri - kino grafikan  
+elvyttää (palauttaa henkiin) - reanimate  
 eläin - hevan  
 eläinmaantiede - hevan geo grafi  
 eläinmyrkky (zootoksiini) - hevan toxi  
@@ -429,7 +431,9 @@ eläinsatu - hevan kata
 eläintarha - hevan bagi  
 eläintiede (zoologia) - hevan lojia  
 eläintieteellinen - hevan lojia di  
+elämän henki - anime  
 elävä (orgaaninen) - bie  
+elävöittää (animoida) - animate  
 elää (elävä; elämä, olemassaolo) - jiva  
 emiiri - amir ja  
 emiirikunta - amiria  
@@ -459,7 +463,7 @@ ennustaa (nähdä ennalta) - previde
 ennustettu - previde di  
 ennustus - predition  
 eno - ma bra  
-ensimmäinen (alku-) - preme  
+ensimmäinen (alku-) - prime  
 ensimmäinen (alku-) - xuru di  
 ensimmäinen (numero yksi) - un me  
 entsyymi - enzim  
@@ -1090,12 +1094,13 @@ jälkiliite (postfiksi) - posfixe
 jälkituotanto - posprodution  
 jänis - tuzi  
 jännitys (jännite) - tenseta  
-järjellinen (järkiperäinen, rationaalinen) - razon li  
+järjellinen (järkiperäinen, rationaalinen) - rational  
 järjestellä (hallinnoida, organisoida, manageroida) - fa nomi  
 järjestelmä (systeemi) - sistem  
 järjestys - ratibu  
 järjestää (järjestellä) - fa ratibu  
-järki (järkeily, päättely) - razon  
+järkeillä (käydä järkeen) - rate  
+järki (järkeily, päättely) - ration  
 jäsen (osatekijä, komponentti) - mer  
 jäte (hylkytavara) - laxe xe  
 jäteastia (roskakori, roskis) - lasa tong  
@@ -1308,14 +1313,15 @@ kentauri - kentaur
 kenttä (aukio) - medan  
 kenttävuode - kampe bede  
 keppi (puukeppi) - moka kane  
-keramiikka - pote suta  
+keramiikka - poteria  
 kerho (klubi) - klube  
 kerma - krem  
 kermankeltainen - krem di  
 kerran - un mar  
 kerros - ceng  
 kerrossänky - ceng bede  
-kerta (monikerta) - pli  
+kerrostaa - aplike  
+kerta (kerros, monikerta) - ple  
 kerta (vuoro) - mar  
 kertoa - fa kata  
 kertomus (tarina, saaga) - kata  
@@ -1482,7 +1488,7 @@ komitea (komissio) - konmisea
 kommunismi - kon sana sim  
 kommunisti - kon sana sim ja  
 Komorit - Komoro nesi  
-komponentti (kokoonpane) - konpozeje  
+komponentti (kokoonpane) - konpozaje  
 komposti - bio sana xe  
 kone - gi  
 kone - makin  
@@ -1697,7 +1703,6 @@ käskyvalta - amir haki
 kävellä - fa marce  
 kävely (marssi) - marce  
 käydä (vierailla) - fa keka  
-käydä järkeen - be razon  
 käydä päälle (käydä kimppuun; päällekarkaus, aggressio) - agrese  
 käynti (vierailu, visiitti) - keka  
 käytettävissä oleva - uzebil  
@@ -1705,9 +1710,9 @@ käyttäjä - uzer
 käyttäjänimi - uzer nam  
 käyttäytyä - fa manera  
 käyttää - uze  
-käytännöllinen (pragmaattinen) - prati di  
+käytännöllinen (pragmaattinen) - pratike  
 käytännöllinen - uzike  
-käytäntö (pragmatia) - prati  
+käytäntö (pragmatia) - prate  
 käytös (käyttäytyminen, tapa, tavat) - manera  
 kääntyä pois - deverse  
 kääntäjä (tulkki) - trabaxer  
@@ -1888,6 +1893,7 @@ litši - lici
 liukua (luistaa) - glis  
 livermorium - livermorium  
 logiikka - logika  
+logiikka - ratolojia  
 logofiili - logofiliste  
 logofilia - logofilia  
 lohkare (järkäle) - dai seku  
@@ -1896,10 +1902,11 @@ lokakuu - mes des
 lokasuoja - poto defa bano  
 lokikirja - loga buku  
 looginen - logika di  
+looginen - ratolojike  
 lopettaa - fa fin  
 loppu - fin  
 loppua - be fin  
-loppuliite (jälkiliite) - pos fixe  
+loppuliite (jälkiliite) - posfixe  
 loppunut - fin di  
 loukkaus (herja) - dus nam  
 loukkaus (törkeys) - insulte  
@@ -2233,6 +2240,7 @@ moni (monta) - men
 monijumalisuus (panteismi) - pandeisme  
 monikansallinen - poli nasi di  
 monikansallinen - polinasial  
+monikerroksinen (monimutkainen) - konplike  
 monikielinen - poli baxa di  
 monikielinen - polibaxike  
 monikulmio (polygoni) - poli gona  
@@ -2280,9 +2288,9 @@ munuaispuu (cashew) - kaju
 munuaistulehdus (nefriitti) - nefritis  
 muoto (morfi) - forme  
 muotoilla (muovata) - fa forma  
-muovailuvaha - plasti paste  
+muovailuvaha - plaste paste  
 muovata (muovailla) - fa plasti  
-muovi - plasti  
+muovi - plaste  
 murheellinen (traaginen) - tragike  
 musiikki - muzika  
 musketti - muskete  
@@ -2328,12 +2336,12 @@ mysli - musli
 myydä - vende  
 myöhemmin (tuleva) - a pos  
 myöhempi (jälkeinen) - meta  
-myöhempi (takainen) - pos di  
+myöhempi (takainen) - posike  
 myös (lisäksi, -kin) - a max  
 myötätunto (sympatia) - sam emos  
 mädäntyä (mädätä) - be pute  
 mänty - songi  
-mäntä - pompe tapa  
+mäntä - pompe tape  
 märkä (kostea) - xipi  
 mätä - pute  
 määritellä (luonnehtia) - fa sifa  
@@ -2386,6 +2394,7 @@ nettisivu - nete loke
 neuvo - sel  
 neuvoa - fa sel  
 neuvontantaja (mentori) - mentor  
+neuvosto (raati) - ratekan  
 neuvotella - fa biznes lona  
 Nevis - Nevis  
 newton (N) - niuton  
@@ -2516,6 +2525,7 @@ olla väliä (olla tärkeä) - ham
 olla yhtä kuin - be par  
 olut (kalja) - bir  
 oma (-nsa) - se su  
+oma (henkilökohtainen, yksityinen, privaatti) - prive  
 omaisuus - mal  
 Oman - Oman  
 omena - aple  
@@ -2570,10 +2580,10 @@ Osmanien valtakunta - Osman Imperi Dexa
 osmium - osmium  
 osmoosi - osmos  
 osoite - adres  
-osoitin (viisari) - ponte flece  
-osoittaa (näyttää) - ponte  
+osoitin (viisari) - diker  
+osoittaa (näyttää) - dike  
 osoittaa (näyttää) - indike  
-osoittaa (tähdätä) - fa dika  
+osoittaa (tähdätä) - dike  
 osoittaa (tähdätä; suunta, kohde; maali) - dike  
 ostaa - fa xopi  
 ostaja - xopi ja  
@@ -2784,7 +2794,7 @@ pikkusisko - jun sis
 pikkutakki (jakku) - jake  
 pikkuveli - jun bra  
 pilaantua (raunioitua) - be harabu  
-pilahvi - polau  
+pilahvi - pilau  
 pilalla (raunioina) - harabu  
 pilata (raunioittaa) - fa harabu  
 pilkku - koma  
@@ -2826,12 +2836,12 @@ pitää sisällä (sisältää; sisältö) - intene
 pitää takana - retene  
 pitää yllä - sutene  
 planeetta - planeta  
-plastinen (muovailtava) - plasti di  
+plastinen (muovailtava) - plastike  
 platina - platin  
 Platon - Platon  
-platoninen - Platon sim di  
-platonismi - Platon sim  
-platonisti - Platon sim ja  
+platoninen - platonike  
+platonismi - platonisme  
+platonisti - platoniste  
 Pluto (kääpiöplaneetta) - Pluton  
 plutonium - plutonium  
 podsoli - hui darte  
@@ -2858,8 +2868,8 @@ poistua (lähteä pois, mennä pois) - cuti
 poistua (mennä ulos) - be vai  
 pojanpoika - son son  
 pojantytär - son doh  
-pokeri - poker  
-poliiisi (poliisimies) - polis ja  
+pokeri - poke  
+poliiisi (poliisimies) - poliser  
 poliisi - polis  
 poliisiasema - poliskan  
 poliitikko (hallinnoija) - politike  
@@ -2886,17 +2896,17 @@ portugali - portugal baxa
 porukka (kuppikunta, lohko, siipi) - xia  
 posliini - cini  
 posliinikotilo - kauri  
-posti (postilähetys) - posta  
-postileima - posta cape  
-postileima - posta marke  
-postitoimisto - postakan  
+posti (postilähetys) - poste  
+postileima - poste cape  
+postileima - poste marke  
+postitoimisto - postekan  
 postittaa - fa posta  
-postpositio - pospoze  
+postpositio - pospozaje  
 potilas - pati jen  
 potkuri (propelli) - propeler  
 povi - buste  
 praseodyymi - prazedimium  
-prepositio - prepoze  
+prepositio - prepozaje  
 presidentti - presidente  
 profeetta (airut, viestintuoja) - nabija  
 profeetta Mani - Mani  
@@ -2953,8 +2963,8 @@ puolustus - defa
 puristaa (painaa) - fa prese  
 puristaa (pusertaa) - konprese  
 puristaaa (puristus, paine) - prese  
-puristin - prese gi  
-puristin - preser  
+puristin (prässi) - preser  
+purjo - porei  
 purkaa (purku, hajotus) - lize  
 purkaa koodi (dekoodata) - ankode  
 purkaa pakkaus - depake  
@@ -3113,6 +3123,7 @@ riippumatto - hamake
 riisi - varis  
 riisikakku - varis biskute  
 riisiviina - varis vin  
+riistää (viedä omistuksesta) - deprive  
 rikas - rike  
 rikki (palasina) - parce di  
 rikki - sulfe  
@@ -3287,8 +3298,9 @@ Saudi Arabia - Saudi Arabi
 sauma (ommel) - sutur  
 sauna - sauna  
 savanni - garma zona caustan  
-savenvalaja - pote ja  
+savenvalaja - poter  
 savi - glu poto  
+savipata (tagine) - tege pote  
 savityö (keramiikka) - serami  
 savu - dum  
 savuke tai sikari - sigar  
@@ -3332,7 +3344,7 @@ Serbia - Serbia
 setä - pa bra  
 setä tai eno - cin bra  
 seura - sosia  
-seuraava - pos di  
+seuraava - posime  
 seurata (tulla perässä, tulla jäljessä) - fa pos  
 seuraus - pos  
 seurustella (toimia yhdessä) - fa sosi  
@@ -3357,7 +3369,7 @@ sihteeristö - buro ja grupe
 siipi - panka  
 siipipapu - lung dou  
 siirappi - xirope  
-siirtää taakse - pos poza  
+siirtää taakse - pospoze  
 siirtää taakse - pospoze  
 siitin (penis) - penis  
 siivooja - safja  
@@ -3472,7 +3484,6 @@ sotaherran maa - ordu rajia
 sotilaallinen - jang di  
 sotilas - ordu jen  
 soturi (taistelija) - jang ja  
-soveltaa (sovellus) - aplika  
 soveltaa - fa aplika  
 sovittaa (mukauttaa) - fa hapu  
 sranan tongo - surinam baxa  
@@ -3802,7 +3813,8 @@ tietää - san
 Tiibet - Bote  
 tiikeri - bagre  
 tiikerikissa - bagre oselote  
-tiili - dobe  
+tiili - tege  
+tiililaatta (kattotiili) - tegule  
 tiistai - marisden  
 tikari - kanjar  
 tikka masala - masala tike  
@@ -4400,6 +4412,7 @@ yksinpuhelu (monologi) - auto loga
 yksinvaltius (autokratia, monarkia) - autokratia  
 yksinäinen - un zai di  
 yksityiskohta (detalji) - detal  
+yksityistää - privatize  
 yksivärinen - un rang di  
 yleinen (universaali) - putong  
 yleiskiina (mandariinikiina) - Putong Han  

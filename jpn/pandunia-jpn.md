@@ -52,7 +52,7 @@ andesite - 安山岩
 angul - 指  
 angul marke - 指紋  
 angul pike - 指先  
-anime - アニメ  
+animaje - アニメ  
 animation - アニメーション  
 anis - アニス (八角)  
 anjil - 伝言 (メッセージ)  
@@ -336,6 +336,8 @@ dex - 右
 dia - 昼  
 dia yam - 昼食  
 dike - 方向 (標的, ターゲット; 狙う)  
+dike - 狙う  
+dike pin - 羅針盤  
 din - 宗教  
 din ja - 信徒 (信者)  
 • andin ja - 不信者  
@@ -353,7 +355,6 @@ diske - ディスク (円盤)
 disprosium - ジスプロシウム  
 • ditater - 独裁者  
 • ditateria - 独裁  
-dobe - レンガ (磚)  
 doh - 娘  
 dokumen - 書類 (文書, ドキュメント)  
 dokumen filme - ドキュメンタリー  
@@ -424,7 +425,6 @@ fa bina - 建てる
 fa biznes lona - 話し合う (話を付ける)  
 fa culi - 扱う (処理する)  
 fa dante - 咬む  
-fa dika - 狙う  
 fa ding - 定める (決する, 決定する)  
 fa dosil - 馴らす  
 fa dus forma - 醜くする  
@@ -964,6 +964,7 @@ kupa - コップ
 kupre - 銅  
 kurium - キュリウム  
 kurban - 犠牲  
+kutu - シラミ  
 
 ## L  
 
@@ -1371,31 +1372,28 @@ platin - 白金
 plumbe - 鉛  
 plutonium - プルトニウム  
 poli - たくさん  
-Polinesi - ポリネシア  
+Polinesia - ポリネシア  
 polite - 政府  
 politi lona - 政道  
 politi mode - 政体  
 polskium - ポロニウム  
-pompe tapa - ピストン (活塞)  
-ponte pin - 羅針盤  
+pompe tape - ピストン (活塞)  
 pore - 線  
 porei - リーキ  
 • reporter - 記者  
 pos - 後 (後ろ)  
 pos den - 明日  
-pote ja - 陶工  
-pote suta - 陶芸  
+poter - 陶工  
+poteria - 陶芸  
 poto - 泥  
 poto defa bano - フェンダー  
 poto stan - 沼地  
-poyu - シラミ  
 poze - 植える  
 prazedimium - プラセオジム  
 pre - 以前 (前に)  
 presidente - 大統領  
 prese - 圧力  
 preser - 圧搾機  
-prese gi - 圧搾機  
 problem - 問題  
 prometium - プロメチウム  
 protacinium - プロトアクチニウム  
@@ -1429,6 +1427,8 @@ rang arka - 虹
 rang arka salmon - ニジマス  
 rang mate - 染め粉  
 rasa - 人種  
+ration - 推論  
+ratolojia - 論理  
 ratibu - 順  
 ratibu li - 整然  
 realisme - 現実主義  
@@ -1607,7 +1607,6 @@ suta - 術
 ta - さ (み, 性)  
 tabi - 性質 (性)  
 table komputa - タブレットコンピュータ  
-tail - タイル (瓦)  
 talium - タリウム  
 tala - 錠  
 tana - 茎 (胴)  
@@ -1617,6 +1616,8 @@ tasa - 皿
 taxonomia - 分類学  
 taxi vala - タクシー運転手  
 tef - テフ (穀物)  
+tege - レンガ (磚)  
+tegule - タイル (瓦)  
 tehne - 技術  
 tehnetium - テクネチウム  
 tela - 布  

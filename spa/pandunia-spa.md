@@ -131,8 +131,11 @@ angul - dedo
 angul marke - huella digital  
 angul pike - yema del dedo  
 angul ring - anillo (sortija)  
-anime - animación (dibujo animado)  
+anime - alma (espíritu)  
+animaje - animación (dibujo animado)  
+• reanimate - reanimar  
 animation - animación  
+animisme - animismo  
 anis - anís  
 anjil - mensaje  
 anjil ja - mensajero  
@@ -145,7 +148,6 @@ anus - ano
 anusal - anal  
 aple - manzana  
 aple sos - compota de manzanas  
-aplika - emplear (aplicar; aplicación)  
 aposum - zarigüeya  
 arabe - árabe  
 arabi babul - goma arábiga  
@@ -399,7 +401,6 @@ be nam - llamarse
 be pasi - sufrir  
 be pute - pudrirse (cariarse, descomponerse)  
 be raste - crecer  
-be razon - tener sentido  
 be reste - quedarse  
 be retro - volver  
 be rota - girar (rotar)  
@@ -751,6 +752,10 @@ dexiste - derechista
 dia - día  
 dia yam - almuerzo  
 dike - apuntar (dirección)  
+dike - apuntar  
+dike - apuntar (indicar)  
+diker - indicador (cursor)  
+dike pin - brújula  
 din - religión  
 din di - religioso  
 din guru - sacerdote (clérigo, eclesiástico)  
@@ -775,7 +780,6 @@ dite - dictar
 • ditateria - dictadura  
 • dition - dicción  
 Divehi - Maldivas  
-dobe - ladrillo  
 doh - hija  
 Doice - Alemania  
 doice di - alemán  
@@ -952,7 +956,6 @@ fa daka - cubrir (tapar)
 fa dalil - probar (demonstrar, comprobar)  
 fa dante - morder  
 fa defa - defender  
-fa dika - apuntar  
 fa ding - determinar (establecer, definir)  
 fa dipe - bajar  
 fa dom - alojar (hospedar)  
@@ -2224,6 +2227,7 @@ kursi - silla
 kurta - túnica  
 kurva - curva  
 kurva di - curvo  
+kutu - piojo  
 Kuvaite - Kuwait  
 kuxen - almohada  
 
@@ -3075,6 +3079,7 @@ pigu - trasero (nalgas)
 pijin - pidgin  
 pike - pico (punta)  
 pil - piel  
+pilau - pilaf (pulaw)  
 pilote - piloto  
 pin - alfiler (espina, aguja)  
 pin kardon - cardo borriquero  
@@ -3099,11 +3104,12 @@ Pitkerne nesi - Islas Pitcairn
 pixa - pis (meados)  
 piza - pizza  
 pizakan - pizzería  
+• aplike - aplicar (untar)  
 plan - plan  
 planeta - planeta  
-plasti - plástico  
-plasti di - maleable  
-plasti paste - plastilina  
+plaste - plástico  
+plastike - maleable  
+plaste paste - plastilina  
 plate - plano (placa)  
 plate di - plana (llano, liso)  
 plate geo kaskalogi - tectónica de placas  
@@ -3112,15 +3118,14 @@ plate stan - llanura
 plate tasa - plato  
 platin - platino  
 Platon - Platón  
-Platon sim - platonismo  
-Platon sim di - platónico  
-Platon sim ja - platonista  
+platonike - platónico  
+platonisme - platonismo  
+platoniste - platonista  
 plazma - plasma (gas ionizado)  
 plumbe - plomo  
 Pluton - Plutón  
 plutonium - plutonio  
-poker - póquer  
-polau - pilaf (pulaw)  
+poke - póquer  
 poli - mucho (muchos)  
 poli baxa di - multilingüe (plurilingüe)  
 poli deu sim - politeísmo  
@@ -3130,12 +3135,12 @@ poli kultur di - multicultural
 poli kultur sim - multiculturalismo  
 poli marta - frecuencia  
 poli nasi di - multinacional  
+Polinesia - Polinesia  
 polipli - múltiple  
 poli semi di - ambiguo  
 polita - cantidad  
-Polinesi - Polinesia  
 polis - policía  
-polis ja - policía  
+poliser - policía  
 polite - gobierno  
 politike - político (administrador)  
 politolojia - ciencia política  
@@ -3146,10 +3151,7 @@ polskium - polonio
 Polska - Polonia  
 polska baxa - idioma polaco  
 pompe - bombear  
-pompe tapa - pistón  
-ponte - apuntar (indicar)  
-ponte flece - indicador (cursor)  
-ponte pin - brújula  
+pompe tape - pistón  
 pore - poro  
 porei - puerro (cebolla larga)  
 porno - porno  
@@ -3165,37 +3167,38 @@ Portugal - Portugal
 portugal baxa - idioma portugués  
 pos - consecuencia (siguiente)  
 pos den - mañana  
-pos di - siguiente (trasero)  
-pos di - posterior  
-pos fixe - sufijo  
+posfixe - sufijo  
+posike - posterior  
+posime - siguiente (trasero)  
 pos zaman - futuro  
-posta - correo  
-posta cape - sello postal  
-postakan - oficina de correos  
-posta marke - matasellos  
+poste - correo  
+poste cape - sello postal  
+postekan - oficina de correos  
+poste marke - matasellos  
 pote camaca - cucharón (cazo)  
-pote ja - alfarero  
-pote suta - alfarería  
+poter - alfarero  
+poteria - alfarería  
 poto - lodo (barro, fango)  
 poto defa bano - guarda-barros (aleta)  
 poto di - embarrado (enlodado)  
 poto stan - ciénaga (pantano)  
-poyu - piojo  
 poze - posar (pose, postura)  
 • depoze - quitar (eliminar, borrar)  
 • expoze - exponer (revelar)  
 • propoze - proponer (sugerir; propuesta)  
-prati - práctica  
-prati di - práctico  
+prate - práctica  
+pratike - práctico  
 prazedimium - praseodimio  
 pre - previo (anterior; antes; preceder, anteceder)  
 pre di - previo (anterior)  
-preme - primer (inicial, inaugural)  
+prime - primer (inicial, inaugural)  
 pre si - presuponer  
 presidente - presidente  
 prese - presión  
 preser - prensa  
-prese gi - prensa  
+prive - privado  
+• deprive - privar (desproveer)  
+privatize - privatizar  
 proba - intentar (probar)  
 problem - problema  
 problem di - problemático  
@@ -3271,10 +3274,13 @@ rasa medi - interracial
 rasa sim - racismo  
 rasa sim ja - racista  
 raste - crecemiento  
+rate - tener sentido  
+ration - razonamiento  
+rational - racional  
+ratolojia - lógica  
+ratolojike - logical  
 ratibu - orden  
 ratibu li - ordenado (regular)  
-razon - razón  
-razon li - razonable  
 real - real  
 realisme - realismo  
 realta - realidad  
@@ -3686,7 +3692,6 @@ Tai baxa - idioma tailandés
 Tai Dexa - Tailandia  
 Taibei - Taipei  
 taiga - taiga  
-tail - baldosa (teja, azulejo)  
 Taivan - Taiwán  
 Tajiki - Tayikistán  
 talium - talio  
@@ -3700,8 +3705,8 @@ tanki - tanque (cisterna)
 tantalium - tántalo  
 tanur - horno  
 Tanzania - Tanzania  
-• antape - desatascar  
 tape - tapón (tapa)  
+• antape - desatascar  
 tapon - tampón  
 tarif - impuesto (tributo, tarifa)  
 tasa - plato  
@@ -3714,6 +3719,9 @@ taxi - tasa (precio, cuota, tarifa)
 taxi gar - taxi (cab)  
 taxi vala - taxista (taximetrista)  
 taza - fresco  
+tege - ladrillo  
+tegule - teja  
+tege pote - tajín  
 tehne - técnica  
 tehnetium - tecnetio  
 tehnokratia - tecnocracia  

@@ -63,6 +63,7 @@ alho - lasun
 alho-porro - porei  
 alienígena - alian  
 aligátor (jacaré) - korte krokodil  
+alma (espírito) - anime  
 almirante - bahai amir ja  
 alquila - alkil  
 altar - puja meza  
@@ -92,12 +93,15 @@ andesito - andesite
 anel - ring  
 anemia - anhemia  
 animal (besta, bicho) - hevan  
+animar - animate  
+animismo - animisme  
 anis - anis  
 Antigo Egito - Keme  
 antimónio - estibium  
 anzol - pexe huke  
 análise - fen lize  
 aperfeiçoar - fa pul bon  
+aplicar - aplike  
 apodrecer-se - be pute  
 aprender - fa xula  
 apropriado (apto) - hapu  
@@ -319,7 +323,7 @@ cardápio (menu) - yam liste
 careta (esgar) - grimas  
 carga (peso) - karga  
 Caribe - Karibe  
-carimbo - posta marke  
+carimbo - poste marke  
 carnal - karnal  
 carnaval - karne feste  
 carne - karne  
@@ -355,7 +359,7 @@ cerca - kinar baryer
 cerebral - nau di  
 cereja - ceri  
 cerveja - bir  
-cerâmica - pote suta  
+cerâmica - poteria  
 cerâmico - serami  
 cetona - keton  
 cevada - jau  
@@ -1000,7 +1004,6 @@ krípton - kriton
 ## L  
 
 lado - late  
-ladrilho (telha, azulejo) - tail  
 ladrão - lutar  
 lagarto - saur  
 lago - lage  
@@ -1078,6 +1081,7 @@ lípido - lipide
 lírio - susan  
 lírio-do-vale - vali susan  
 lítio - litium  
+lógica - ratolojia  
 lúpulo - humel  
 
 ## M  
@@ -1122,7 +1126,7 @@ Marte - Maris
 marítimo - bahai di  
 mas - ama  
 massa - masa  
-massa de modelar (massinha) - plasti paste  
+massa de modelar (massinha) - plaste paste  
 mastro - masta  
 matadouro - karnekan  
 mate (opaco) - foto mata di  
@@ -1178,7 +1182,7 @@ migração - migre
 milhete (painço) - dana.cau  
 mina - kuan xan  
 miragem - miraje  
-mirar (apontar) - fa dika  
+mirar (apontar) - dike  
 mirar - mira  
 mito - deokata  
 modelar - fa forma  
@@ -1307,7 +1311,7 @@ ocupado (atarefado) - mang
 ode - ode  
 oganesson - oganeson  
 oito (8) - bati  
-oleiro - pote ja  
+oleiro - poter  
 olho - yen  
 onda - onda  
 onde - a ke  
@@ -1424,27 +1428,29 @@ pesado - veze di
 pescador - pexe saide ja  
 pescoço (nuca, gargalo) - nuka  
 pessoa - jen  
+pessoal (privado) - prive  
 petróleo - petra nafte  
 peônia - mudan  
 picareta - pin cope  
+pilafe - pilau  
 pilha (bateria) - batri  
 pimenta - pipre  
 pincel - pente broxa  
 pinheiro - songi  
 pintura - pente  
-piolho - poyu  
+piolho - kutu  
 piquenique - vai yam  
 pirataria - pirate  
 pirâmida - piram  
-pistão - pompe tapa  
+pistão - pompe tape  
 plano - plan  
 planta (vegetal) - fite  
 platina - platin  
 pluma (pena) - pena  
 plutónio - plutonium  
-plástico - plasti di  
+plástico - plastike  
 pneumonia  - pulmon tis  
-Polinésia - Polinesi  
+Polinésia - Polinesia  
 poluição - najis  
 polvo - ohtopus  
 polónio - polskium  
@@ -1464,7 +1470,7 @@ Porto Rico - Portoriko
 porto-riquenho - portoriko jen  
 possível - bil  
 poste (coluna) - kolum  
-posterior - pos di  
+posterior - posike  
 potássio - kalium  
 poucos - kam  
 poço de petróleo - nafte fonte  
@@ -1480,7 +1486,6 @@ precursor - prekurser
 preferir - max fili  
 preferir - prefere  
 prejulgamento - prejude  
-prensa - prese gi  
 prensa - preser  
 prensar (pressionar, premir) - fa prese  
 presidente - presidente  
@@ -1489,6 +1494,8 @@ pressão - prese
 pressão sanguínea - hemopresia  
 preto - kala  
 princípio - bazisme  
+privar - deprive  
+privatizar - privatize  
 problema - problem  
 procedimento (rito) - riti  
 processamento de dados - data culi  
@@ -1571,6 +1578,7 @@ química - kimia
 ## R  
 
 rachadura - krake  
+racional - rational  
 radio - radio  
 rajá - hindi raja  
 ramen (miojo) - supa mien  
@@ -1579,12 +1587,14 @@ raramente - nadir mar
 raro - nadir  
 rasgar - cira  
 rato - muxu  
+razoamento - ration  
 raça - rasa  
 raíz - mula  
 reagir - reate  
 real - real  
 realidade - realta  
 realismo - realisme  
+reanimar - reanimate  
 reação - reation  
 rebater - boing  
 receber - recepe  
@@ -1769,6 +1779,7 @@ sódio - natri
 ## T  
 
 tablet - table komputa  
+tagine - tege pote  
 talvez - bil e  
 talvez - bil ki  
 tampão - tapon  
@@ -1786,6 +1797,7 @@ tela - pente tela
 telefonar - fa tele fon  
 telefonia - tele fon suta  
 telescópio - teleskope  
+telha - tegule  
 telhado - cati  
 telúrio - telurium  
 temer - be fobi  
@@ -1813,7 +1825,7 @@ terreno - geo forme
 terça-feira - marisden  
 tia - cin sis  
 tigre - bagre  
-tijolo - dobe  
+tijolo - tege  
 tinta - kalam sui  
 tio - cin bra  
 titânio - titanium  

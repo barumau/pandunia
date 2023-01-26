@@ -38,13 +38,12 @@
 **anda** *oeuf* ← hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)  
 **angar** *ancre* ← eng:anchor, fra:ancre, por:âncora, may:jangkar, rus:якорь, ara:(ʾanjar), hin:लंगर (laṅgar), urd:(laṅgar), tel:లంగరు (laṅgaru), swa:nanga  
 **angul** *doigt* ← fas: انگشت‎ (angošt), hin:अंगुलि (aṅgulī), ben:আঙুল (aṅgul)  
-**anime** *animation* ← eng:fra:animation, spa:animación, por:animação, rus:анимация, jpn:アニメ (anime), tur:may:anime, ara:أنمي m (ʾanimī), hin:ऐनिमे (ainime), kor:아니메 (anime)  
+**anime** *âme (esprit)* ← eng:fra:animation, spa:animación, por:animação, rus:анимация + jpn:アニメ (anime), tur:may:anime, ara:أنمي (ʾanimī), hin:ऐनिमे (ainime), kor:아니메 (anime)  
 **anis** *anis* ← eng:anise, fra:por:anis, spa:anís, rus:анис (anis), ara: أَنْسُون‎ (ʾansūn), jpn:アニス (anisu), kor:아니스 (aniseu)  
 **anjil** *message* ← ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl), rus:евангелие (evangeliye), fra:évangile, por:evangelho  
 **antena** *antenne* ← eng:antenna, spa:por:may:antena, fra:antenne, rus:антенна (antenna), tur:anten, jpn:アンテナ (antena)  
 **anus** *anus* ← eng:fra:anus, por:ânus, spa:ano, deu:Anus, rus:анус (anus), tur:anüs  
 **aple** *pomme* ← eng:apple, deu:Apfel, rus:яблоко (yabloko), may:apel, ben:আেপল (apôl), zul:ihhabhula  
-**aplika** *appliquer (application)* ← eng:fra:application, spa:aplicación, por:aplicação, pol:aplikacja  
 **aposum** *sarigue (opossum)* ← eng:fra:opossum, rus:опоссум (opossum), zho:奥珀瑟姆 (àopòsèmǔ), jpn:オポッサム (opossamu), vie:ô-pốt-sâm, ara: أُوبُسُوم‎ (ʾubusum)  
 **araki** *spiritueux* ← ara: عرق‎ ('araq), eng:arrack, fra:raki, por:áraque, rus:арак (arak), zho:阿剌吉 (ālàjí), may:arak, tur:rakı, mya:အရက် (arak)  
 **arane** *araignée* ← fra:araignee, por:aranha, spa:araña, eng:arachnid, deu:Arachno-, rus:арахнофо- (arakhno-), tur:arakno-, tam:அராக்கினிட் (arākkiṉiṭ), may:araknid  
@@ -294,7 +293,6 @@
 **diske** *disque* ← eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin:डिस्क (ḍisk), ben:ডিস্ক (ḑisk), jpn:ディスク (disuku), kor:디스크 (diseukeu)  
 **disprosium** *dysprosium* ← eng:dysprosium, fra:dysprosium, spa:disprosio, por:disprósio, rus:диспрозий, zho:镝 (dī), jpn:ジスプロシウム, kor:디스프로슘, vie:đysprosi, hin:डिस्प्रोसियम, ben:ডিসপ্রোসিয়াম, may:disprosium, swa:disprosi, ara: ديسبروسيوم  
 **dite** *dicter* ← eng:dictate, fra:dicter, spa:dictar, por:ditar + deu:may:diktator, rus:диктатор (diktator), tur:diktatör, ara:(diktatūr)  
-**dobe** *brique* ← ara:طوبةطوبة (ṭūba), amh:ጡብ (ṭub), deu:eng:fra:spa:por:adobe  
 **doh** *fille* ← deu:Tochter, eng:daughter, rus:дочь (dočʹ), fas: دختر (doxtar), hin:दुख़्तर (duxtar), tel:దుహిత (duhita)  
 **dokumen** *document (dossier)* ← eng:fra:document, spa:por:documento, rus:документ (dokument), jpn:ドキュメント (dokyumento), may:dokumen, tur:doküman  
 **dolfin** *dauphin* ← ell:δελφίνια (delphínia), eng:dolphin, spa:delfín, por:delfim, rus:дельфин (del’fin), ara:دلفين (dulfin), jpn:ドルフィン (dorufin), ben:ডলফিন (ḍalaphina), hin:डॉल्फ़िन (ḍŏlfin)  
@@ -839,6 +837,7 @@
 **kursi** ** ← ara:(kursiy), hin:कुरसी (kursī), urd:(kursī), pnb:ਕੁਰਸੀ (kursī), tel:(kurcī), may:som:kursi, fas:(korsi)  
 **kurta** *tunique* ← fas: کرته‎ (korte), hin:कुरता (kurtā), ben:কুরতা (kurôta), tel:కుర్తా (kurtā), may:kurta, rus:курта (kurta), eng:kirtle  
 **kurva** *courbe* ← eng:curve, fra:courbe, spa:por:curva, swa:kuruba + rus:кривая (krivaya)  
+**kutu** *pou* ← may:kutu, tgl:kuto, eng:cootie  
 **kux loka** *couch (couchette)* ← fra:eng:couchette, ita:cuccetta, pol:kuszetka  
 **kuxen** ** ← eng:cushion, fra:coussin, spa:cojín, por:coxim, jpn:クッション (kusshon), kor:쿠션 (kusyeon), yue:咕𠱸 (ku1 seon2), hau:kushin, ibo:kushọn  
 **la** *le (la)* ← fra:la, spa:la, ara: الـ‎ (al-)  
@@ -1189,6 +1188,7 @@
 **pijin** ** ← eng:spa:por:fra:pidgin, rus:пиджин (pidzhin), swa:pijini, zho:皮欽語 (píqīnyǔ), jpn:ピジン (pijin)  
 **pike** *bout (pointe, pic)* ← eng:peak, fra:pic, spa:por:pico, rus:пик (pik), que:pikchu  
 **pil** ** ← eng:peel, spa:piel, por:pele, zho:皮 (pí), wuu:皮 (bí), yue:皮 (pei4)  
+**pilau** *pilaf* ← eng:fra:spa:por:pilaf, deu:Pilaw, rus:плов (plov), fas: پلو‎ (polou), hin:पुलाव (pulav), ben:পোলাও (polao), tam:புழுக்கு (puḻukku), tel:పులావ్ (pulāv), ara: بِيلَاو‎ (bilāw), tur:pilav, jpn:ピラフ (pirafu), kor:필라프 (pillapeu)  
 **pilote** ** ← eng:por:pilot, spa:piloto, fra:pilote, deu:Pilot, rus:пило́т (pilót), jpn:パイロット (pairotto)  
 **pin** *épingle* ← eng:pin, jpn:ピン (pin), kor:핀 (pin), hin:पिन (pin)  
 **pinguin** ** ← eng:may:penguin, spa:pingüino, por:pinguim, rus:пингвин (pingvin), tur:penguen, hin:पेंगुइन (peṅguin), ben:পেঙ্গুইন (peṅguin), jpn:ペンギン (pingin)  
@@ -1205,36 +1205,35 @@
 **piza** *pizza* ← ita:eng:fra:pizza, zho:比萨 (bǐsà), rus:пицца (pitsa), jpn:ピザ (piza), kor:피자 (pija)  
 **plan** *plan* ← eng:spa:fra:plan, por:plano, rus:план (plan), fas:پلان‎ (plân), hin:प्लैन (plain), jpn:プラン (puran)  
 **planeta** ** ← eng:tur:may:planet, spa:por:planeta, fra:planète, rus:планета (planeta)  
-**plasti** ** ← eng:plastic, spa:por:plástico, rus:пластик (plastik), tur:may:plastik, swa:plastiki, ara:بلاستيك (blastīk), hin:प्लास्टिक (plāsṭik), jpn:プラスチック (purasuchikku), kor:플라스틱 (peullaseutik)  
+**plaste** ** ← eng:plastic, spa:por:plástico, rus:пластик (plastik), tur:may:plastik, swa:plastiki, ara:بلاستيك (blastīk), hin:प्लास्टिक (plāsṭik), jpn:プラスチック (purasuchikku), kor:플라스틱 (peullaseutik)  
 **plate** ** ← eng:plate, spa:por:placa, deu:Platte, rus:пластина (plastina)  
 **platin** *platine* ← eng:platinum, fra:platine, spa:platino, por:platina, rus:платина, zho:铂 (bó), vie:platin, hin:प्लाटिनम, ben:প্লাটিনাম, may:platina, swa:platini, ara: بلاتين  
 **plazma** ** ← eng:plasma, spa:plasma, rus:плазма (plazma), ara:بلازما (balazima), hin:प्लाज़्मा (plaazma), jpn:プラズマ (purazuma), may:plasma  
+**ple** ** ← eng:ply, fra:pli, spa:plegar + por:aplicação  
 **plumbe** *plomb* ← fra:plomb, spa:plomo, por:chumbo, swa:plumbi  
 **plutonium** *plutonium* ← eng:plutonium, fra:plutonium, spa:plutonio, por:plutónio, rus:плутоний, zho:钚 (bù), jpn:プルトニウム, kor:플루토늄, vie:plutoni, hin:प्लूटोनियम, ben:প্লুটোনিয়াম, may:plutonium, swa:plutoni, ara: بلوتونيوم  
-**poker** ** ← eng:fra:tur:poker, spa:por:póquer, rus:покер (poker), ara:بُوكَر‎ (būkar), hin:पोकर (pokar), zho:扑克 (pūkè), jpn:ポーカー (pōkā), kor:포커 (pokeo)  
-**polau** ** ← fas:(polou), hin:पुलाव (pulav), tur:pilav, rus:плов (plov)  
+**poke** ** ← eng:fra:tur:poker, spa:por:póquer, rus:покер (poker), ara:بُوكَر‎ (būkar), hin:पोकर (pokar), zho:扑克 (pūkè), jpn:ポーカー (pōkā), kor:포커 (pokeo)  
 **poli** ** ← ell:πολλοί (polloí), eng:fra:deu:poly-, spa:por:poli-, rus:поли- (poli-)  
 **polis** ** ← eng:fra:police, por:polícia, spa:policía, rus:полиция (policija), tur:may:polis, swa:polisi, ara:بُولِيس‎ (būlīs), hin:पोलिस (polis), ben:পুলিশ (puliś)  
 **polite** *gouvernement* ← ell:πολιτική (politikē), may:politik, tur:politika, eng:politics, por:spa:política, fra:politique, rus:политика (politika)  
 **polskium** *polonium* ← eng:polonium, fra:polonium, spa:polonio, por:polónio, rus:полоний, zho:钋 (pō), jpn:ポロニウム, kor:폴로늄, vie:poloni, hin:पोलोनियम, ben:পোলনিয়াম, may:polonium, swa:poloni, ara: بولونيوم  
 **pompe** ** ← eng:pump, spa:por:bombear, fra:pomper, deu:pumpen  
-**ponte** ** ← eng:point, por:apontar, spa:apuntar, fra:pointer  
 **pore** *pore* ← eng:fra:deu:pore, spa:por:poro, rus:пора (pora)  
-**porei** *poireau* ← spa:puerro, por:porro, fra:poireau, deu:Porree, fin:purjo, rus:порей (porey), may:perai  
+**porei** *poireau* ← deu:Porree, fra:poireau, spa:puerro, por:porro, rus:порей (porey), may:perai + tur:pırasa  
 **porno** ** ← eng:porn, spa:tur:may:porno, por:pornô, deu:Pornografie, rus:порно (porno), jpn:ポルノ (poruno)  
 **porte** *porter* ← fra:porter, spa:por:portar, eng:(trans)port, deu:-portieren, rus:-портация (-portaciya) + hin:रिपोर्ट (riporṭ), swa:ripoti, tur:rapor, jpn:レポート (repōto)  
 **porto** *porte* ← eng:port, fra:porte, spa:puerto, por:porto, rus:порт (port), hin:पोर्ट (porṭ), urd:(porṭ), ben:পোর্ট (porṭ), tha:พอร์ต (phot)  
 **pos** ** ← eng:fra:post-, spa:pos, por:pós-, rus:после- (posle-) + fas: پس (pas)  
-**posta** ** ← eng:post, por:postagem, fra:poste, rus:почта (pochta), tur:posta, ara:بوسطة‎ (busṭa), swa:posta, may:pos, fas:پست‎ (post)  
+**poste** ** ← eng:post, por:postagem, fra:poste, rus:почта (pochta), tur:posta, ara:بوسطة‎ (busṭa), swa:posta, may:pos, fas:پست‎ (post)  
 **pote** *pot (vase)* ← eng:fra:pot, spa:por:pote, may:poci, jpn:ポット (potto), kor:포트 (poteu)  
 **poto** *boue (fange, bourbe, gadoue)* ← pcm:kon:lin:poto-poto  
-**poyu** *pou* ← fra:pou, por:piolho, spa:piojo  
 **poze** ** ← eng:spa:por:fra:pose, deu:Pose, rus:поза (poza), jpn:ポーズ (pōzu)  
-**prati** ** ← eng:practice, fra:pratique, por:prática, tur:pratik, pol:praktyka, hin:प्रथा (prathā)  
+**prate** ** ← eng:practice, fra:pratique, por:prática, tur:pratik, pol:praktyka, hin:प्रथा (prathā)  
 **prazedimium** *praséodyme* ← eng:praseodymium, fra:praséodyme, spa:praseodimio, por:praseodímio, rus:празеодим, jpn:プラセオジム, kor:프라세오디뮴, vie:prazeođim, hin:प्रासियोडाइमियम, ben:প্র্যাসেওডিমিয়াম, may:praseodinium, swa:praseodimi, ara: براسوديميوم  
 **pre** *avant* ← eng:fra:spa:por:pre-, hin:प्र- (pra-), ben:প্র- (prô-), may:pra-  
 **prese** *pression* ← fra:pression, spa:presión, por:pressão, rus:пресс (press), jpn:プレス (puresu)  
 **presidente** *président* ← eng:president, deu:Präsident, fra:président, spa:por:presidente, rus:президент (prezident), fas: پرزیدنت‎ (perezident), may:presiden  
+**prive** *personnel (privé)* ← eng:private, deu:privat, fra:privé, spa:por:privado, rus:прива́тный (privatnyi), may:pribadi  
 **proba** *essayer (tenter)* ← deu:Probe, eng:prove; probe, spa:probar, por:provar, rus:проба  
 **problem** *problème* ← eng:problem, fra:problème, spa:por:problema, rus:проблема (problema), ben:প্রব্লেম (prôblem)  
 **profesor** *professeur* ← eng:deu:por:professor, fra:professeur, spa:profesor, rus:профессор (professor), ara: بروفيسور‎ (brofesōr), tur:profesör, swa:profesa, fas:پروفسور‎ (profesor), hin:प्रोफ़ेसर (profesar)  
@@ -1247,7 +1246,7 @@
 **pulmon** ** ← spa:pulmón, fra:poumon, por:pulmão, eng:pulmonic  
 **pulse** ** ← eng:push; pulse, fra:pousser + spa:por:impulso, rus:импульс (impul's)  
 **puma** *couguar (puma)* ← eng:spa:fra:por:swa:may:tur:puma, rus:пума (puma), jpn:ピューマ (pyūma), hin:पूमा (pooma), pan:ਪੂਮਾ (pūmā), mar:प्युमा (pyumā)  
-**punte** ** ← spa:punto, rus:пункт (punkt), eng:point  
+**punte** ** ← eng:point, deu:Punkt, spa:punto, rus:пункт (punkt)  
 **pupe** ** ← fra:poupée, deu:Puppe, eng:puppet, vie:búp bê, ktu:popi, heb:(bubá)  
 **putau** ** ← zho:葡萄 (pútáo), yue:葡萄 (pou4 tou4), wuu:葡萄 (bu dau3), jpn:葡萄 (budō), kor:포도 (podo), vie:bồ đào  
 **pute** *compter (calculer)* ← eng:put + spa:computadora, por:computador, rus:компьютер (komp’uter), ara:كَمْبْيُوتَر‎ (kambyūtar), swa:kompyuta, hin:कंप्यूटर (kampyūṭar), ben:কম্পিউটার (kômpiuṭar), may:komputer, jpn:コンピューター (konpyūtā)  
@@ -1268,7 +1267,7 @@
 **rande** ** ← fas: رنده‎ (rande), hin:रंदा, (randā), tur:rende, swa:randa  
 **rang** *couleur* ← ben:রং (rông), hin:रंग (raṅg), urd:(raṅg), fas:(rang), tel:రంగు (raṅgu), swa:rangi, lin:lángi, tur:renk  
 **rasa** *race* ← eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras  
-**razon** ** ← eng:reason, spa:razón, por:razão, fra:raison rus:разум (razum)  
+**rate** ** ← lat:ratio, eng:rational, fra:rationnel, spa:por:racional + deu:Rat, rus:рада (rada), pol:rada  
 **re** ** ← eng:fra:spa:por:re-, rus:ретро- (retro-), jpn:レトロ (retoro) + ara: رَدَّ (radda)  
 **rebel** ** ← eng:rebel, spa:por:rebelde fra:rebelle  
 **redi** ** ← eng:ready, deu:bereit, fra:prêt, mao:reri  
@@ -1434,7 +1433,6 @@
 **table** ** ← eng:table, fra:tableau, spa:tabla, rus:табличка (tablichka), may:tabel, tur:tablo  
 **tai** *estrade* ← zho:台 (tái), yue:臺 (toi4), jpn:台 (dai), vie:đài, kor:대 (dae) + eng:dais  
 **taiga** ** ← rus:тайга (tayga), eng:spa:por:may:taiga, tur:tayga, ara:تايغا‎ (tāyḡā), zho:泰加林 (tàijiālín), jpn:タイガ (taiga)  
-**tail** *carreau (tuile)* ← eng:tile, por:telha, fra:tuile, nld:tegel, fin:tiili, hin:टाइल (ṭāila), ben:টালি (ṭali), jpn:タイル (tairu), kor:타일 (tail)  
 **tala** *serrure* ← hin:ताला (tālā), ben:তালা (tala), tel:తాళము (tāḷamu)  
 **talium** *thallium* ← eng:thallium, fra:thallium, spa:talio, por:tálio, rus:таллий, zho:铊 (tā), jpn:タリウム, kor:탈륨, vie:tali, hin:थैलियम, ben:থ্যালিয়াম, may:tallium, swa:tali, ara: ثاليوم  
 **tamar** ** ← por:tamara, ara:(tamar)  
@@ -1452,6 +1450,7 @@
 **taxi** ** ← eng:tax, por:taxa, spa:tasa, hin:टैक्स (ṭEks) + fra:taxi, rus:такси (taksi), jpn:タクシー (takushī), kor:택시 (taeksi), vie:tắc xi, hin:टैक्सी (ṭaiksī), ben:ট্যাক্সি (ṭyaksi), tur:may:taksi, swa:teksi  
 **taza** *frais* ← fas: تازه (tâze), hin:ताज़ा (tāzā), ben:তাজা (taja), tur:taze, ara: طَازَج (ṭāzaj)  
 **tef** *mil éthiopien* ← amh:ጤፍ (ṭēff), orm:xaafii, swa:mtefi, eng:teff, spa:may:tef, por:tefe, rus:теф (tef), zho:苔麸 (tái fū), jpn:テフ (tefu), kor:테프 (teipeu)  
+**tege** *brique* ← lat:tegula, ita:tegola, eng:tile, deu:Ziegel, fra:tuile, spa:teja, por:telha, hin:टाइल (ṭāila), ben:টালি (ṭali), jpn:タイル (tairu), kor:타일 (tail), ara: طَجِين‎  (ṭajīn), tur:tuğla; tajine  
 **tehne** *technique* ← ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik  
 **tehnetium** *technétium* ← eng:technetium, fra:technétium, spa:tecnetio, por:tecnécio, rus:технеций, zho:锝 (dé), jpn:テクネチウム, kor:테크네튬, vie:tecnexi, hin:टेक्निशियम, ben:টেকনিসিয়াম, may:teknetium, swa:tekineti, ara: تكنيتيوم  
 **tela** *tissu* ← spa:por:tgl:tela, fra:toile + eng:towel, hin:तौलिया (tauliyā), swa:taulo, jpn:タオル (taoru), may:tuala  

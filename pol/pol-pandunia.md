@@ -36,7 +36,9 @@
  - angul marke  
  - angul pike  
  - angul pike  
+ - animate  
  - animation  
+ - anime  
  - anis araki  
  - araki  
  - aranide  
@@ -526,6 +528,7 @@
  - kume  
  - kumule  
  - kurse  
+ - kutu  
  - la  
  - Lagos  
  - lala gani  
@@ -718,10 +721,10 @@
  - pinse  
  - pinse bano  
  - pipa frute  
- - plasti di  
- - plasti paste  
- - pli  
- - Polinesi  
+ - plaste paste  
+ - plastike  
+ - ple  
+ - Polinesia  
  - polipli  
  - poliskan  
  - politi mode  
@@ -729,17 +732,17 @@
  - porte  
  - portoriko jen  
  - portugal baxa  
- - pos di  
- - pos poza  
- - posta marke  
+ - posike  
+ - pospoze  
+ - poste marke  
  - pote  
  - pote camaca  
- - pote ja  
- - pote suta  
- - poyu  
+ - poter  
+ - poteria  
  - prese  
- - prese gi  
  - preser  
+ - privatize  
+ - prive  
  - Promete  
  - pul ekran  
  - pul fina  
@@ -748,6 +751,7 @@
  - pute  
  - radi longta  
  - rage  
+ - ratekan  
  - ratibu li  
  - re  
  - Rea  
@@ -833,6 +837,7 @@
  - taxe  
  - taxonomia  
  - tef  
+ - tege pote  
  - tele fon bude  
  - tele fon lin  
  - tele fon nume  
@@ -1006,6 +1011,7 @@
  - depele  
  - depena  
  - deprese  
+ - deprive  
  - despete  
  - detene  
  - detere  
@@ -1075,7 +1081,8 @@
  - konneter  
  - konnetion  
  - konpele  
- - konpozeje  
+ - konplike  
+ - konpozaje  
  - kontene  
  - kontener  
  - konteste  
@@ -1094,7 +1101,7 @@
  - perverse  
  - poligene  
  - posfixe  
- - pospoze  
+ - pospozaje  
  - pospoze  
  - posprodution  
  - precese  
@@ -1105,7 +1112,7 @@
  - prehistoria  
  - prejude  
  - prekurse  
- - prepoze  
+ - prepozaje  
  - prexake  
  - procese  
  - proceser  
@@ -1118,6 +1125,7 @@
  - propeler  
  - proteste  
  - provoke  
+ - reanimate  
  - reate  
  - reation  
  - recepe  
@@ -1228,8 +1236,9 @@ Anglik; angielski - englix di
 anglizować (zanglizować) - fa englix kitaba  
 anglofil - englix fili ja  
 Angola - Angola  
-animacja - anime  
+animacja - animaje  
 animal - hevan  
+animizm - animisme  
 animować - fa anime  
 Antarktyka - Antartika  
 antena - antena  
@@ -1465,10 +1474,10 @@ cały - hol
 cebula - piaze  
 cecha, atrybut, własność; -ość - bon sifata  
 cecha, właściwość, parametr - sifa  
-cegła - dobe  
+cegła - tege  
 cel - gol  
 cel (celować; kierunek) - dike  
-celować - fa dika  
+celować - dike  
 celownik optyczny (siatka lunety) - krus lin  
 cement - semente  
 cenny - bau di  
@@ -2343,7 +2352,7 @@ komik - humoriste
 komiks; kreskówka - grafi kata  
 komisja (komitet) - konmisea  
 Komory - Komoro nesi  
-kompas (namagnesowana igła) - ponte pin  
+kompas (namagnesowana igła) - dike pin  
 kompatriota - konpatrian  
 kompatybilny (pasujący) - kon funsibil  
 kompatybilny (pasujący) - konfuntebil  
@@ -2557,7 +2566,9 @@ loch - geo nice jela
 lodowy - ais di  
 lody - ais krem  
 logiczny - logika di  
+logiczny - ratolojike  
 logika, dedukcja - logika  
+logika, dedukcja - ratolojia  
 logofil (miłośnik słów) - logofiliste  
 lojalność (wierność) - amenbilta  
 lojalność (wierność) - bekredibilta  
@@ -2706,7 +2717,7 @@ mieszkać - be dom
 mieć (partykuła posiadania) - su  
 mieć (posiadać) - fa mal  
 mieć (trzymać) - ha  
-mieć sens - be razon  
+mieć sens - rate  
 migdał - badam  
 migracja - migre  
 mikro- - mikre  
@@ -2875,7 +2886,7 @@ narodziny - nate
 narzędzie - kargi  
 naród, narodowość - nasia  
 nasienny - seme di  
-następny (następujący) - pos di  
+następny (następujący) - posime  
 natura, środowisko - ekia  
 natura, środowisko - tabi  
 nauczyciel - xula guru  
@@ -3044,7 +3055,7 @@ Odwarzny ( - bravo
 odwiedzić, odwiedzać - fa keka  
 offline (nie na linii, poza siecią) - no a lin  
 ofiara - kurban  
-oficer policji, policjant - polis ja  
+oficer policji, policjant - poliser  
 oficjalny - guan di  
 oganesson - oganeson  
 ogień - hogo  
@@ -3231,7 +3242,7 @@ pierdnięcie - pede
 pierdzieć - fa pede  
 pierwiastek (jednostki podstawowej) - so  
 pierwszy, numer jeden - un me  
-pierwszy, początkowy - preme  
+pierwszy, początkowy - prime  
 pierwszy, początkowy - xuru di  
 pierś - sine  
 pierścień - ring  
@@ -3239,7 +3250,7 @@ pierścień, pierścionek; obrączka - angul ring
 pies - vaf  
 pień - moka tana  
 piknik - vai yam  
-pilaw - polau  
+pilaw - pilau  
 pilot - pilote  
 pingwin - pinguin  
 pionowy - gau dipe  
@@ -3275,12 +3286,12 @@ plan - plan
 planeta - planeta  
 planować - fa plan  
 plaster - medu vespa nide  
-plastik - plasti  
+plastik - plaste  
 platforma - plate forma  
 Platon - Platon  
-platoniczne - Platon sim di  
-platonizm - Platon sim  
-platończyk - Platon sim ja  
+platoniczne - platonike  
+platonizm - platonisme  
+platończyk - platoniste  
 platyna - platin  
 plazma (zjonizowany gaz) - plazma  
 plecak - ruke sake  
@@ -3292,9 +3303,9 @@ pnącz - trepater
 pochochodnia (latarka) - fote kane  
 pocisk - lanse xe  
 pociąg - tren  
-poczta - posta  
+poczta - poste  
 poczta elektroniczna - eletroposte (e-poste)  
-poczta, budynek poczty - postakan  
+poczta, budynek poczty - postekan  
 początek - xuru  
 pod (poniżej) - a nice  
 podarunek, dar, prezent - don xe  
@@ -3322,7 +3333,7 @@ poinformować, informować, zakomunikować, komunikować - fa kon sabi
 pojawić się - be zai  
 pojęciowy - ideal  
 pokaz, ekspozycja, wystawa - xou  
-poker - poker  
+poker - poke  
 pokolenie (generacja) - gene grupe  
 pokrycie; pokrywa, wieko, dekiel; pokład - dake  
 pokój - pace  
@@ -3441,9 +3452,9 @@ pożądanie, żadza - kama
 praca, zjęcie, zadanie - karxe  
 pracować - kar  
 pracownik - karja  
-practyczny, pragmatyczny - prati di  
+practyczny, pragmatyczny - pratike  
 pragnienie - sui yau  
-praktyka, aktualność - prati  
+praktyka, aktualność - prate  
 praktykant - kar xular  
 pralka - fuku vaxi gi  
 prawa autorskie - kopi haki  
@@ -3548,7 +3559,7 @@ przykład - misal
 przymiotnik - sifa loga  
 przymus - musta  
 przyprawa - masala  
-przyrostek (sufiks) - pos fixe  
+przyrostek (sufiks) - posfixe  
 przyrostek dla wykonawcy - ja  
 przystanek autobusowy - bus halte  
 przystojny, atrakcyjny, ładny - bon vide di  
@@ -3603,13 +3614,13 @@ płeć biologiczna - bio jinse
 płeć społeczna - sosi jinse  
 płot - kinar baryer  
 płuco - pulmon  
-płyta - tail  
+płyta - tegule  
 płyta tektoniczna - geo kaska plate  
 R - R  
 rabuś (grabieżca) - lutar  
 rachunek (faktura) - fatura  
 rachunek (formalny system obliczeń) - kalkul  
-racjonalny, rozsądny - razon li  
+racjonalny, rozsądny - rational  
 rad - radium  
 rada, porada - sel  
 radio - radio  
@@ -3696,7 +3707,7 @@ rozproszyć, rozpraszać - anjami
 rozróżniać (rozróżnić) - fa has  
 rozstrzępiony (podarty) - cira cira di  
 rozszczepienie jądra atomowego - kerne cira  
-rozum, rozsądek - razon  
+rozum, rozsądek - ration  
 rozumieć, pojmować - aha  
 rozwój - gradu mute  
 rozłożyć się (rozkładać się, gnić, psuć się) - be pute  
@@ -3962,7 +3973,7 @@ stopień Celsjusza - celsius gradu
 stopień, poziom, ranga, klasa - gradu  
 stopniowy - gradu di  
 storczyk (orchidea) - orkide  
-stosować (zastosować; zastosowanie, aplikacja) - aplika  
+stosować (zastosować; zastosowanie, aplikacja) - aplike  
 stowarzyszać się (zrzeszać się) - fa liga  
 strach, fobia - fobi  
 stracić (utracić, tracić, zgubuć, gubić) - xiti  
@@ -4261,7 +4272,7 @@ tytan - titanium
 tytoń - tabaku  
 tytuł (nagłówek) - tema nam  
 tęcza - rang arka  
-tłok - pompe tapa  
+tłok - pompe tape  
 tłok - puxa gi  
 tłumacz - trabaxer  
 tłumaczyć (interpretować; tłumaczenie, interpretacja) - trabaxe  
@@ -4485,8 +4496,8 @@ wróżka - pari
 wsad, partia, porcja, seria - lote  
 wschodni - dong di  
 wschód - dong  
-wskazać, wskazywać - ponte  
-wskaźnik - ponte flece  
+wskazać, wskazywać - dike  
+wskaźnik - diker  
 wspaniały - bon sifa di  
 wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super - super  
 wsparcie (wzmocnienie, zasilenie) - max ordu  
@@ -4724,7 +4735,7 @@ zminimalizować - fa minim
 zmniejszyć o jeden - fa min gradu  
 zmysł - sense  
 zmęczenie (wyczerpanie) - fatige  
-znaczek pocztowy - posta cape  
+znaczek pocztowy - poste cape  
 znaczenie - mana  
 znaczyć - seme  
 znaczyć (liczyć się, być ważnym) - ham  

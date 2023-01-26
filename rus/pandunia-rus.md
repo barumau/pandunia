@@ -69,7 +69,10 @@ angar - якорь
 angul - палец  
 angul marke - отпечаток пальца  
 angul pike - кончик пальца  
-anime - анимация  
+animaje - анимация  
+• reanimate - реанимировать (оживлять)  
+animate - animar  
+animisme - анимизм  
 anis - анис  
 anis araki - арак (ракы)  
 anjil - месседж  
@@ -398,6 +401,8 @@ den loge - дневник
 dia - день  
 dia foto - дневной свет  
 dike - направить (нацелить; цель)  
+dike - целиться  
+dike pin - компас  
 din - религия (вера)  
 din ja - верующий  
 • andin ja - неверующий  
@@ -416,7 +421,6 @@ dite - диктовать
 • ditater - диктатор  
 • ditateria - диктатура  
 • dition - дикция  
-dobe - кирпич  
 doh - дочь  
 dokumen - документ  
 dokumen filme - документальный фильм  
@@ -498,7 +502,6 @@ fa banya - купаться
 fa bina - строить  
 fa culi - обращаться (обработать, обрабатываться, разбираться)  
 fa dante - откусить  
-fa dika - целиться  
 fa ding - определить  
 fa dosil - укрощать (приручить)  
 fa dosil gene - одомашнивать  
@@ -1086,6 +1089,7 @@ kupre - медь
 kurium - кюрий  
 kurban - жертва  
 kurva - кривая  
+kutu - вошь  
 
 ## L  
 
@@ -1520,6 +1524,7 @@ pexe huke - крючок
 pexe saide ja - рыбак (рыболов)  
 piaze - лук  
 pike - кончик (остриё, пик)  
+pilau - плов  
 pin - булавка (игла, шип)  
 pin cope - киркомотыга  
 pin kardon - татарник колючий  
@@ -1533,19 +1538,17 @@ piram - пирамида
 pisea - ель  
 piza - пицца  
 plan - план  
-plasti - пластмасса  
-plasti di - пластичный  
+plaste - пластмасса  
+plastike - пластичный  
 plate geo sim ja - плоскоземелец  
 platin - платина  
 plumbe - свинец  
 plutonium - плутоний  
-polau - плов  
 poli baxa di - многоязычный  
-Polinesi - Полинезия  
+Polinesia - Полинезия  
 politike - управляющий  
 polskium - полоний  
-pompe tapa - поршень  
-ponte pin - компас  
+pompe tape - поршень  
 pore - пора  
 porei - лук-порей  
 porte - носить  
@@ -1554,19 +1557,19 @@ porte - носить
 porto - порт  
 Portoriko - Пуэрто-Рико  
 portoriko jen - пуэрториканец  
-posta marke - почтовый штемпель  
+poste marke - почтовый штемпель  
 pote camaca - половник (черпак, ковш)  
-pote ja - гончар  
-pote suta - гончарное дело  
+poter - гончар  
+poteria - гончарное дело  
 poto - болото  
 poto stan - болото (топь)  
-poyu - вошь  
 prazedimium - празеодим  
 pre - раньше  
 presidente - президент  
 prese - давление (нажим)  
 preser - пресс  
-prese gi - пресс  
+prive - частный (приватный)  
+privatize - приватизировать  
 proba - пытаться (пробовать; проба)  
 problem - проблема  
 problem di - проблематичный  
@@ -1603,9 +1606,10 @@ rang arka - радуга
 rang arka salmon - микижа (камчатская сёмга)  
 rasa - раса  
 rasa medi - межрасовый  
+ration - рассуждение  
+ratolojia - логика  
 ratibu - установка  
 ratibu li - организованный (порядок)  
-razon - разум  
 real - реальный (настоящий)  
 realisme - реализм  
 realta - реальность  
@@ -1799,7 +1803,6 @@ tabi - природа (естество, характер)
 table - плита  
 table komputa - планшетный компьютер  
 tai - сцена (подмостки, эстрада)  
-tail - черепи́ца  
 talium - таллий  
 tala - замок  
 tala di - запереть  
@@ -1815,6 +1818,8 @@ taximetrer - таксометр
 taxi vala - таксист  
 taza - свежий  
 tef - теф  
+tege - кирпич  
+tegule - черепи́ца  
 tehne - техника  
 tehnetium - технеций  
 tehnolojia - технология  

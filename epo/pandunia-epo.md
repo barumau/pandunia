@@ -72,7 +72,9 @@ Andes - Andoj
 angar - ankro  
 angul - fingro  
 angul ring - ringo  
-anime - kartuno  
+animaje - kartuno  
+• reanimate - reanimi  
+animate - animi  
 anjil - mesaĝo  
 antena - anteno  
 anus - anuso  
@@ -148,6 +150,7 @@ baha din ja - bahaisto
 bahai - maro  
 bahai amir ja - admiralo (ŝiparestro)  
 bahai di - mara  
+bahai kinar - marbordo  
 bahai ordu - mararmeo  
 bahai porto - haveno  
 bahai vala - maristo  
@@ -449,6 +452,8 @@ dia - tago
 dia foto - taglumo  
 dia yam - tagmanĝo  
 dike - direkti (celi; direkto, celo)  
+dike - celi  
+dike - montri  
 din - religio  
 din di - religia  
 din guru - pastro  
@@ -558,7 +563,6 @@ fa cori - ŝteli
 fa daka - kovri  
 fa dante - mordi  
 fa defa - defendi  
-fa dika - celi  
 fa dom - loĝigi  
 fa dua - preĝi  
 fa duka - malĝojigi  
@@ -1647,6 +1651,7 @@ piaze - cepo
 pigu - kulo  
 pijin - piĝino  
 pil - haŭto  
+pilau - pilafo  
 pin - nadlo (pinglo, pikilo)  
 pinguin - pingveno  
 pinse gi - pinĉilo  
@@ -1659,7 +1664,7 @@ pizakan - picejo
 platin - plateno  
 plumbe - plumbo  
 plutonium - plutonio  
-poker - pokero  
+poke - pokero  
 poli - multe  
 poli baxa di - multlingva  
 poli gona - poligono  
@@ -1667,16 +1672,16 @@ politike - politikisto
 politi di - politika  
 politi lona - politiko  
 polskium - polonio  
-ponte - montri  
 pore - poro  
+porei - poreo  
 porto - haveno  
 Portoriko - Portoriko  
 pos - sekvo  
 pos den - morgaŭ  
-pos di - sekva  
+posime - sekva  
 pos zaman - estonoteco  
-postakan - poŝtejo  
-posta marke - poŝtmarko  
+postekan - poŝtejo  
+poste marke - poŝtmarko  
 poto - koto  
 poto di - kota  
 poto stan - marĉo  
@@ -1684,7 +1689,6 @@ pre - antaŭe (pasinte)
 presidente - prezidento  
 prese - premo  
 preser - premilo  
-prese gi - premilo  
 problem - problemo  
 profesor - profesoro  
 prometium - prometio  
@@ -1717,6 +1721,9 @@ rasa - raco
 rasa medi - interrasa  
 rasa sim - racismo  
 rasa sim ja - racisto  
+ration - rezono  
+ratolojia - logiko  
+ratolojike - logika  
 ree - realaĵo  
 real - reala  
 realisme - realismo  
@@ -1939,6 +1946,8 @@ tava - pato
 taxonomia - taksonomio  
 taxi vala - taksiisto  
 taza - freŝa  
+tege - briko  
+tegule - kahelo (tegolo)  
 tehne - tekniko  
 tehnetium - teknecio  
 tehnolojia - teknologio  

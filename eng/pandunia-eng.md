@@ -182,8 +182,12 @@ angul marke - fingerprint
 angul pike - fingertip  
 angul pike - fingertip  
 angul ring - finger ring  
-anime - animation (cartoon)  
-animation - animation (the act of animating)  
+anime - soul (life spirit)  
+animaje - animation (cartoon)  
+• reanimate - reanimate  
+animate - animate  
+animation - animation (animating)  
+animisme - animism  
 anis - anise  
 anis araki - raki  
 anjil - message  
@@ -197,7 +201,6 @@ anus - anus
 anusal - anal  
 aple - apple  
 aple sos - applesauce  
-aplika - apply (put to use for a purpose; application)  
 aposum - opossum  
 arabe - Arabia (Arab; Arabic)  
 arabi babul - babul tree (thorny acacia)  
@@ -326,7 +329,7 @@ bahai di - maritime
 bahai hiyar - sea cucumber  
 bahai hua - sea anemone  
 bahai jele - jellyfish (seajelly)  
-bahai kinar - shore (coast, beach)  
+bahai kinar - coast (shore)  
 bahai nil - aqua (teal)  
 bahai ordu - sea force (navy)  
 bahai porto - harbor (seaport)  
@@ -482,7 +485,6 @@ be par - equal
 be pasi - suffer (get hurt)  
 be pute - decay (rot, deteriorate)  
 be raste - grow (grow up, expand)  
-be razon - make sense  
 be reste - remain (stay)  
 be retro - return (get back)  
 be rota - rotate (spin, turn on an axis)  
@@ -889,8 +891,12 @@ di - attributive postposition
 dia - day (daytime)  
 dia foto - daylight  
 dia yam - lunch  
-• indike - indicate (point into)  
 dike - direct (point, aim; direction; target, objective)  
+dike - aim (point)  
+dike - point at (indicate)  
+• indike - indicate (point into)  
+diker - pointer (indicator)  
+dike pin - compass (magnetized needle)  
 din - religion (worship)  
 din di - religious  
 din guru - priest (cleric)  
@@ -920,7 +926,6 @@ dite - dictate
 • ditateria - dictatorship  
 • dition - saying (diction)  
 Divehi - Maldives  
-dobe - brick  
 doh - daughter  
 doh doh - daughter's daughter  
 doh son - daughter's son  
@@ -1134,7 +1139,6 @@ fa dalil - prove (demonstrate, testify)
 fa dante - bite  
 fa darte bon - fertilize  
 fa defa - defend  
-fa dika - aim (point)  
 fa ding - determine (establish, fix, decide, set, confirm, specify, resolve)  
 fa dipe - lower (put down)  
 fa dom - accommodate  
@@ -2614,6 +2618,7 @@ kursi - chair
 kurta - tunic (kirtle)  
 kurva - curve (bend)  
 kurva di - curvy (curved)  
+kutu - louse (cootie)  
 Kuvaite - Kuwait  
 kux loka - berth (couchette)  
 kuxen - cushion (pillow)  
@@ -3600,6 +3605,7 @@ pigu - buttocks (bum, butt, ass)
 pijin - pidgin (contact language)  
 pike - point (tip, cusp, peak)  
 pil - skin (peel, bark, leather)  
+pilau - pilaf (pulao)  
 pilote - pilot  
 pin - needle (pin, splinter, prickle, thorn, stinger, spine, quill)  
 pin cope - pickaxe  
@@ -3627,11 +3633,14 @@ Pitkerne nesi - Pitcairn Islands
 pixa - piss (urine)  
 piza - pizza  
 pizakan - pizzeria  
+ple - fold (layer)  
+• aplike - apply (put sth on sth else)  
+• konplike - complicated  
 plan - plan  
 planeta - planet  
-plasti - plastic  
-plasti di - plastic (moldable, malleable)  
-plasti paste - playdough  
+plaste - plastic  
+plastike - plastic (moldable, malleable)  
+plaste paste - playdough  
 plate - plane (plate)  
 plate di - flat (planar)  
 plate forma - platform  
@@ -3641,16 +3650,14 @@ plate stan - plain (plateau, flat lands)
 plate tasa - plate  
 platin - platinum  
 Platon - Plato  
-Platon sim - Platonism  
-Platon sim di - Platonic  
-Platon sim ja - Platonist  
+platonike - Platonic  
+platonisme - Platonism  
+platoniste - Platonist  
 plazma - plasma (ionized gas)  
-pli - ply (fold, times)  
 plumbe - lead  
 Pluton - Pluto (dwarf planet)  
 plutonium - plutonium  
-poker - poker  
-polau - pilaf (pulao)  
+poke - poker  
 poli - many (much, more than one)  
 poli baxa di - multilingual  
 poli deu sim - polytheism  
@@ -3660,12 +3667,12 @@ poli kultur di - multicultural
 poli kultur sim - multiculturalism  
 poli marta - frequency  
 poli nasi di - multinational  
+Polinesia - Polynesia  
 polipli - multiple  
 poli semi di - ambiguous  
 polita - amount (quantity)  
-Polinesi - Polynesia  
 polis - police  
-polis ja - police officer  
+poliser - police officer  
 poliskan - police station  
 polite - government (administration, polity, politics)  
 politike - politician (administrator, statesman)  
@@ -3677,10 +3684,7 @@ polskium - polonium
 Polska - Poland  
 polska baxa - Polish language  
 pompe - pump  
-pompe tapa - piston  
-ponte - point at (indicate)  
-ponte flece - pointer (indicator)  
-ponte pin - compass (magnetized needle)  
+pompe tape - piston  
 pore - pore  
 porei - leek  
 porno - porn  
@@ -3698,49 +3702,50 @@ Portugal - Portugal
 portugal baxa - Portuguese language  
 pos - consequence (back, follow-up)  
 pos den - tomorrow  
-pos di - next (following, back)  
-pos di - back (posterior)  
-pos fixe - suffix  
-pos poza - put back (postpone)  
+posfixe - suffix  
+posike - back (posterior)  
+posime - next (following, back)  
+pospoze - put back (postpone)  
 pos zaman - future time  
-posta - mail  
-posta cape - postal stamp  
-postakan - post office  
-posta marke - postmark (postage stamp)  
+poste - mail  
+poste cape - postal stamp  
+postekan - post office  
+poste marke - postmark (postage stamp)  
 pote - pot (vase, bin, jar)  
 pote camaca - ladle (dipper, scoop)  
-pote ja - potter  
-pote suta - pottery  
+poter - potter  
+poteria - pottery  
 poto - mud (mire)  
 poto defa bano - fender  
 poto di - muddy  
 poto stan - marsh (bog, swamp, morass)  
-poyu - louse  
 poze - pose (set; position)  
 • depoze - remove (delete, dispose, erase)  
 • expoze - expose (reveal)  
 • inpoze - put in (impose)  
-• konpozeje - component  
+• konpozaje - component  
 • pospoze - put back (postpone)  
-• pospoze - postposition  
-• prepoze - preposition  
+• pospozaje - postposition  
+• prepozaje - preposition  
 • propoze - propose (put forth; proposal, suggestion)  
-prati - practice (actuality)  
-prati di - practical (pragmatic)  
+prate - practice (actuality)  
+pratike - practical (pragmatic)  
 prazedimium - praseodymium  
 pre - before (previous, fore, past)  
 pre di - previous (fore)  
-preme - initial (first; prime)  
+prime - initial (first; prime)  
 pre si - assume (presuppose)  
 presidente - president  
+prese - press (pressure)  
 • deprese - depress (push away)  
 • exprese - express (push out)  
 • konprese - compress (squeeze, squish)  
 • niceprese - suppress (press down)  
 • represe - repress (push back)  
-prese - press (pressure)  
 preser - press device  
-prese gi - press device  
+prive - own (personal, private)  
+• deprive - deprive  
+privatize - privatize  
 proba - try (attempt, give a go, check out, probe)  
 problem - problem (issue)  
 problem di - problematic  
@@ -3821,10 +3826,14 @@ rasa medi - interracial
 rasa sim - racism  
 rasa sim ja - racist  
 raste - growth  
+rate - make sense (reason)  
+ration - reason (reasoning, rational thinking)  
+rational - rational (reasonable)  
+ratekan - village council  
+ratolojia - logic  
+ratolojike - logical  
 ratibu - order (arrangement, sequence)  
 ratibu li - orderly (organized, in sequence, tidy, regular)  
-razon - reason (rational thinking)  
-razon li - rational (reasonable)  
 re - back (return it to previous place)  
 ree - thing (stuff)  
 real - real (actual, existing)  
@@ -4289,7 +4298,6 @@ Tai baxa - Thai language
 Tai Dexa - Thailand  
 Taibei - Taipei  
 taiga - taiga  
-tail - tile  
 Taivan - Taiwan (Republic of China)  
 Tajiki - Tajikistan  
 talium - thallium  
@@ -4306,8 +4314,8 @@ tanki - tank (reservoir)
 tantalium - tantalum  
 tanur - oven (furnace)  
 Tanzania - Tanzania  
-• antape - unplug (uncork)  
 tape - stopper (cap, peg, plug, spigot, tap)  
+• antape - unplug (uncork)  
 tapon - tampon  
 tarif - tarif (tax, duty)  
 tasa - bowl (dish)  
@@ -4323,6 +4331,9 @@ taximetrer - taximeter
 taxi vala - taxi driver (cab driver)  
 taza - fresh  
 tef - lovegrass (teff)  
+tege - brick  
+tegule - tile  
+tege pote - tajine  
 tehne - technique (technology)  
 tehnetium - technetium  
 tehnokratia - technocracy  
