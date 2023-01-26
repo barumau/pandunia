@@ -9,15 +9,19 @@ hide:
 **sal, dunia!**
 – Hello, world!
 
-Welcome to learn about Pandunia, the evenly global helping language!
+Welcome to learn about Pandunia,
+a little language that wants to help the whole world!
 
 ![](http://www.pandunia.info/grafe/halo_dunia.png "halo dunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 ## What is Pandunia?
 
-Pandunia is a globally sourced constructed language
-that combines a simple grammar and international words from all continents into one language.
+Pandunia is a little constructed language.
+It is here to help people who speak different languages to talk together.
+It is a globally sourced language
+that brings together words from all over the world.
+It has a simple structure and very little grammar.
 
 Pandunia is a helping language for world-wide use.
 It is an easy language that people can use to talk with each other
@@ -26,11 +30,11 @@ It is meant to supplement other languages in our multilingual world.
 
 Pandunia is simpler, more regular and easier to learn than natural world languages,
 like English, French, Spanish, Chinese, Russian, Arabic and Hindi.
-Learning Pandunia is equally easy for everybody.
-Its words have been borrowed from many languages on all continents and all cultures of the world.
+Learning Pandunia is equally easy for everybody!
+Its words have been borrowed from all continents and from all cultures of the world.
 
-The second version of Pandunia was published in September 2021.
-It includes simpler grammar, more international word forms, and many new words.
+The final version of Pandunia will be published in 2023.
+
 
 ## How to learn it?
 

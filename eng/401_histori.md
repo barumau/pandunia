@@ -1,139 +1,104 @@
 # History of Pandunia
 
-## Prehistory
+## The seed
 
-In the year 2000, Risto Kupsala, a young student of computer engineering in Finland,
-finds out about the classical auxiliary languages,
-Esperanto, Ido, Volapük and Interlingua.
-Inspired by them, he soon creates several crude drafts of an Europe-centred constructed auxiliary language (auxlang).
-Risto joins
-[AUXLANG](https://listserv.brown.edu/cgi-bin/wa?A0=AUXLANG)
-mailing list,
-which is the only forum to discuss with other auxlangers at that time.
+Once upon a time there was a little boy called Risto.
+He grew up in a small village called Luohua, far from the hustle and bustle of the world.
+The small world around him spoke the same way and thought the same way.
 
-In 2003, Risto publishes an auxiliary language draft called _Lone_ in his personal web pages.
-It has analytic grammar and its words are borrowed from different languages from all continents.
-In 2004 Risto drafts a quota system for selecting words from different language families.
-In his opinion the vocabulary of the future world language should be evenly global
-and not European or Western as in the classical auxiliary languages.
-Later this idea becomes a guiding principle for the creation of Pandunia's vocabulary.
+He met people from other parts of the world only when he was fourteen years old
+after a reception centre for refugees had been opened nearby.
+Life with the newcomers wasn't always easy
+because the locals and the refugees practiced different cultures and spoke different languages.
 
-In 2005, Risto,
-Florent Garet (from France, the creator of _Luni_, an auxlang inspired by Japanese), and
-Jens Wilkinson (a USA born translator working in Japan, the creator of _Dunia Patwa_)
-start to work together for creating a multicultural world language.
-The language is called _Gaia_.
+The boy grew up to be a young man, and he moved to the city.
+He was surrounded by more and more people from different cultures.
+He studied in a crosscultural, English speaking study program,
+but he became disillusioned with the English language.
+It worked relatively well when it was written,
+but in spoken communication it was a source of confusion and misuderstandings.
 
-In a time when electronic multilingual dictionaries were not available in the internet,
-Risto creates a new collaborative wiki called
-[Multilingual Vocabulary Resource (Mulivo)](http://mulivo.pbworks.com)
-for finding out common words in widely spoken languages around the world.
+In his youth globalization was the word of the day.
+He worked in the biggest and the most international company in his country.
+In his free time he studied languages from all over the world
+and he started also making his own languages.
+He got married with a woman from Shanghai.
+Their marriage ended after ten years and two children,
+but his love for foreign cultures and languages remained.
+He continued his life alone with his children for several years
+before he found the love of his life.
 
-In 2006, the Gaia project is ended without completion.
-Intensive work has produced a short list of international words
-and a bunch of ideas for analytic grammar.
-Risto, Florent and Jens go their separate ways.
-Jens reforms his Dunia Patwa into _Neo Patwa_
-using some of the ideas and words from Gaia.
+All this time languages were only a hobby for him, nothing more.
+Once he travelled to India in business and there he met an old, wise poet.
+"I would kill myself if I had to live like you," said the old poet.
+After the business trip the man spent many days at work staring at the wall.
+He realized that the way he had been going was a dead end.
 
-In 2007, Risto and Jens continue to work together
-in a short-lived project called _Pangaia_,
-which is an international language
-"that is especially designed to be easy to learn and easy to pronounce".
+The man left his job and started to study linguistics in a university.
+At the same time he decided to finish his language, Pandunia,
+and let it go out into the world.
+Maybe it would find a home also in the hearts of other people.
 
-## Early years
 
-In 2007, Risto publishes the first version of _Pandunia_.
-In the following years Risto develops Pandunia
-trying to make the grammar ever simpler.
-The goal is use only meaningful content words and as few structure words as possible, but it leads to syntactic chaos.
-Progress is slow because Risto is occupied by graduation, work and raising children.
+## The ecosystem
 
-In 2010, Risto starts to develop an agglutinative language as a private sideproject.
-He invents the three types of verbs and their vowel endings
-(active -a, passive -u, and stative -i).
-The vowel endings are originally borrowed from Arabic verb patterns "faʕala", "faʕila" and "faʕula".
-These ideas will find their way into Pandunia several years later.
+Pandunia was formed in an inspiring environment.
+Risto, the initiator of Pandunia, worked and played together with other people
+who are interested in languages.
+He participated in forums like
+the [AUXLANG](https://listserv.brown.edu/cgi-bin/wa?A0=AUXLANG) mailing list
+and the [Auxlangs](https://www.reddit.com/r/auxlangs/) bulletin board in Reddit.
 
-![](http://www.pandunia.info/bandir/bandera2007.gif "The 2016 flag of Pandunia")  
+He exchanged ideas with
+Florent Garet (creator of Luni),
+Jens Wilkinson ([Neo Patwa](http://patwa.pbworks.com)),
+Dana Nutter (Sasxsek),
+Rex May ([Ceqli](http://ceqli.pbworks.com)),
+Steve Rice (Inlis),
+Dmitri Ivanov ([Lingwa de Planeta](http://www.lingwadeplaneta.info)),
+Olivier Simon ([Sambahsa Mundialect](https://sambahsa.neocities.org/)),
+Zeinelabidin Elhassi (Ardano),
+Sonja Lang ([Toki Pona](https://tokipona.org/))
+Arkadii Balandin,
+and Justin Kunimune
+only to mention a few.
+
+
+## Early buds
+
+In the early years, Pandunia was Risto's personal language project.
+It was like play dough to him that could be shaped and reshaped again for experimenting new ideas.
+
+![](http://www.pandunia.info/bandir/bandera2007.gif "Pandunia flag in 2007")  
 Pandunia flag in 2007
 
-Finally, in 2012, other people learn Pandunia for the first time.
-[A discussion group for Pandunia](http://www.facebook.com/groups/pandunia)
-is created in Facebook social media.
+He published the first sketch of Pandunia in 2007,
+but it was only in 2012 that other people learned Pandunia for the first time.
+Risto recorded a [short video in Pandunia](https://www.youtube.com/watch?v=yfkQrdyfLcQ) in 2013
+to show what Pandunia sounded like then.
 
-The learning materials are translated to Russian by Arkadii Balandin,
-who later becomes an important proponent of the _Lojban_ language.
-The first translation to Esperanto is written by Maksim Solokhin.
-
-[The first YouTube video in Pandunia](https://www.youtube.com/watch?v=yfkQrdyfLcQ) is published in 2013.
-It records what Pandunia sounded like then.
-
-Risto goes through a divorce and loses his interest for auxiliary languages for a while.
-Things slow down again.
-
-## Fruition
-
-![](http://www.pandunia.info/bandir/bandera2016.png "The 2016 flag of Pandunia")  
+![](http://www.pandunia.info/bandir/bandera2016.png "Pandunia flag in 2016")  
 Pandunia flag in 2016
 
-In 2016, the Pandunia website is completely remade.
-The source text is changed to Markdown format,
-and the files are stored the Git version control system and then in GitHub, where
-[the first version](https://github.com/barumau/pandunia/commit/44f2e415bd7c2b03030fa4acd541fc01e4e50217)
-and
-[all later changes](https://github.com/barumau/pandunia/commits/master)
-can be viewed.
-This technology also enables collaboration
-because
-[everybody can propose](https://github.com/barumau/pandunia/graphs/contributors)
-changes and improvements to the language and its documentation.
+A few more people got interested about Pandunia in 2016,
+and the Pandunia community started to grow slowly.
+Pandunia got more known in 2017
+when an article titled
+["Pandunia, a global contact language"](https://dea.digar.ee/cgi-bin/dea?a=d&d=JVinterlinguisticatrt201705.2.5.2.4)
+was published in the _Interlinguistica Tartuensis_ journal,
+and a chapter is dedicated for Pandunia in the book *Keksittyjä kieliä* (in Finnish) by Kauko Kämäräinen.
+One year later, Pandunia is mentioned in the
+[Artificial Languages article](https://oxfordre.com/linguistics/view/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-11)
+in the Oxford Research Encyclopedias.
 
-A new wave of people get interested about Pandunia in late 2016 and early 2017.
-Pandunia community begins to grow slowly but surely.
-Discussion groups in Telegram instant messenger are created.
+Risto recorded another [short video in Pandunia](https://www.youtube.com/watch?v=TgO8AwX4OCU)
+in 2016 to show how the language had evolved.
+Alex André recorded a [30 day challenge to learn Pandunia](https://twitter.com/XanderLeaDaren/status/1114972322157465612) in 2019.
 
-In 2017, Pandunia gets some publicity
-as the _Interlinguistica Tartuensis_ journal publishes an article titled
-["Pandunia, a global contact language"](https://dea.digar.ee/cgi-bin/dea?a=d&d=JVinterlinguisticatrt201705.2.5.2.4),
-and a chapter is dedicated for Pandunia in the book "Keksittyjä kieliä" (in Finnish) by Kauko Kämäräinen.
-One year later, Pandunia is mentioned in
-["Artificial Languages" article](https://oxfordre.com/linguistics/view/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-11)
-in Oxford Research Encyclopedias.
-
-Unfortunately the analytic grammar of Pandunia turns out to produce too often sentences
-that are ambiguous and/or difficult to understand.
-That's why the grammar is changed for agglutinating grammar
-that uses vowel endings to indicate word-classes.
-
-[The second YouTube video in Pandunia](https://www.youtube.com/watch?v=TgO8AwX4OCU)
-records how Pandunia sounded at that time.
-
-[Reddit discussion forum](https://www.reddit.com/r/pandunia) for Pandunia is created in 2017.
-The most important changes to the language are announced there
-because it is the only forum that everybody can read without logging in.
-
-![](http://www.pandunia.info/bandir/bandir.png "The 2018 flag of Pandunia")  
+![](http://www.pandunia.info/bandir/bandir.png "Pandunia flag in 2018")  
 Pandunia flag in 2018
 
-In 2019, Pandunia version 1.0 is published.
-[*](https://github.com/barumau/pandunia/commit/6be2c56a130f9ed16effc8869c869472bcbff7c4)
-However, it's not entirely satisfactory, so the work for version 2.0 is started.
-
-Alex André records a [30 day challenge to learn Pandunia](https://twitter.com/XanderLeaDaren/status/1114972322157465612).
-
-In a major change in 2020, the alphabet of Pandunia is changed from an eccentrict one
-to something that conforms more to the international standards.
-[*](https://github.com/barumau/pandunia/commit/9337bbbdb54e72f019d1738159e38427f15c1a34)
-
-In 2021, the grammar of Pandunia is changed back to analytic and the grammatical vowel-endings are dropped.
-The dictionary is updated accordingly.
-More systematic rules are established for adapting words from the source languages to Pandunia.
-Pandunia version 2.0 is published in September 28, 2021.
-
-#### Miscellaneous
-
-Creation years of the Wikipedia articles about Pandunia:
+Here are the creation years of the Wikipedia articles about Pandunia.
 
 - 2008 [Esperanto](https://eo.wikipedia.org/wiki/Pandunia)
 - 2016 [Farsi](https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D9%86%D8%AF%D9%88%D9%86%DB%8C%D8%A7)

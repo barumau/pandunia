@@ -14,6 +14,7 @@ nav:
     - Kotisivu: 'index.md'
     - 'Tietoa':
         - 'Maailman yhteyskieli': 001_dunia_basha.md
+        - 'Historia': 401_histor.md
     - 'Pandunian perusteet ja rakenne':
         - 'Perussäännöt': 100_baze_kanun.md
         - 'Yleismaailmallinen sanasto': 101_dunia_loga.md

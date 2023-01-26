@@ -9,22 +9,31 @@ hide:
 **sal, dunia!**
 – Tervehdys, maailma!
 
-Tervetuloa tutustumaan panduniaan, koko maailman apukieleen!
+Tervetuloa tutustumaan panduniaan,
+pieneen kieleen, joka haluaisi auttaa koko maailmaa!
 
 ![](http://www.pandunia.info/grafe/halo_dunia.png "sal dunia!")  
 <small>Kuva: [Freepik](http://www.freepik.com)</small>
 
 ## Mitä pandunia on?
 
-Pandunia on keinotekoinen kieli, joka on suunniteltu käytettäväksi kansainvälisessä viestinnässä.
+Pandunia on pieni, keinotekoinen kieli.
+Se on tehty auttamaan erikielisiä ihmisiä puhumaan keskenään.
+Se on monikulttuurinen kieli,
+joka tuo yhteen sanoja kaikkialta maailmasta.
+Se on rakenteeltaan yksinkertainen, ja siinä on vain vähän kielioppisääntöjä.
 
-- Pandunia on helpompi ja yksinkertaisempi kuin luonnollisesti kehittyneet maailmankielet, kuten englanti, ranska, venäjä, arabia ja kiina.
-- Keinotekoisena kielenä pandunia on täysin säännöllinen kieli.
-  Siinä ei ole poikkeuksia eikä muitakaan tarpeettomia hankaluuksia.
-- Pandunia on aidosti kansainvälinen!
-  Sen sanat ovat peräisin tasapuolisesti maailman eri puolilta.
-  Mukaan on otettu mm. maailman 12 puhutuinta kieltä,
-  jotka ova englanti, kiina, espanja, hindi-urdu, arabia, venäjä, bangla, portugali, malaiji, japani, ranska ja saksa.
+Pandunia on maailmanlaajuiseen käyttöön tarkoitettu apukieli.
+Se on helppo kieli, jolla ihmiset voivat puhua keskenään silloin,
+kun heillä ei ole muuta yhteistä kieltä.
+Sen tehtävä on täydentää muita kieliä monikielisessä maailmassa.
+
+Pandunia on yksinkertaisempi, säännöllisempi ja helpommin opittava kuin luonnollisesti kehittyneet maailmankielet,
+kuten englanti, ranska, espanja, venäjä, arabia ja kiina.
+Pandunian oppiminen on kaikille yhtä helppoa!
+Sen sanat tulevat kaikilta mantereilta ja kaikista kulttuureista.
+
+Pandunian lopullinen versio julkaistaan vuonna 2023.
 
 ## Kelle?
 
