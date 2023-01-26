@@ -126,7 +126,7 @@ altruism - altrisme
 alum - alumin mate  
 alumina (aluminum oxide) - alumin oxide  
 aluminium - alumin  
-alveolar ridge (gum ridge) - dante kumu  
+alveolar ridge (gum ridge) - dante kume  
 always - pan sata  
 amaze - fa ajabu  
 amazing (astonishing) - ajabu di  
@@ -432,7 +432,7 @@ Belize - Belize
 bell - dang gi  
 belly (stomach, abdomen) - pete  
 belong - be mal  
-belt (zone) - zona  
+belt (zone) - zone  
 bench - benci  
 bend (flex) - flexe  
 beneficial (good) - eu  
@@ -500,6 +500,7 @@ bob up and down - gau dipe move
 bobcat - rubi linse  
 bodily (corporal) - badan di  
 body - badan  
+body of water (sea, lake, river) - daria  
 bodybuilding - muskul bina  
 bogeyman (ghost) - bubu  
 bohrium - borium  
@@ -528,7 +529,7 @@ botany (phytology) - fitolojia
 bother (annoy, disturb, irritate) - fa turbe  
 Botswana - Cuana  
 bottle - botel  
-bottle cap - botel tapa  
+bottle cap - botel tape  
 boulder - dai seku  
 bounce - boing  
 bow (arch, arc) - arka  
@@ -986,8 +987,8 @@ corpse (dead body) - nekre
 correct (make right) - fa sahi  
 corrupt (pollute, soil, defile, stain, taint) - fa najis  
 corruption (filth, pollution, contamination, najis) - najis  
-cosmic - kosmo di  
-cosmonaut - kosmo nave ja  
+cosmic - kosmike  
+cosmonaut - kosmonaver  
 cost (price) - koste  
 cost - fa koste  
 Costa Rica - Kosta Rika  
@@ -1041,7 +1042,7 @@ crouch (squat) - lipa side
 crowd - jen jami  
 crown - korona  
 crucify - fa krus fixe  
-cruelty (tyranny, despotism) - zalimta  
+cruelty (tyranny, despotism) - zalimia  
 cry (boo-hoo, alas, woe) - uhu  
 cry (shout) - krita  
 crystal - bilor  
@@ -1093,8 +1094,8 @@ dark (dim) - oskur
 darling (dear companion) - bau bei  
 darling (honey) - luba jen  
 darmstadtium - darmestadium  
-Darwinism - darvin sim  
-Darwinist - darvin sim ja  
+Darwinism - darvinisme  
+Darwinist - darviniste  
 data (numeric information) - data  
 data analysis - data fen lize  
 data processing - data culi  
@@ -1352,7 +1353,7 @@ element (factor, the simplest unit) - so
 elephant - gaja  
 elf - elfe  
 embassy - dai anjilkan  
-emerald - zumarde  
+emerald - ezmurude  
 emir - amir ja  
 emirate - amiria  
 emit - exmise  
@@ -1620,12 +1621,11 @@ float (swim) - be boi
 floating point number - boi punte nume  
 floor - kamar dipe  
 florist's chrysanthemum - guku hua  
-flow (current, stream) - dara  
-flow - be dara  
+flow (current, stream) - dare  
 flower - hua  
 flower vase - hua jara  
 flowerpot - hua pote  
-fluid (liquid) - dara mate di  
+fluid (liquid) - darike  
 fluoride - fluride  
 fluorine - flur  
 fly (go through air) - fa fei  
@@ -1702,7 +1702,7 @@ function (relation between inputs and outputs) - funtion
 function (work) - funte  
 functional (valid, workable) - funtebil  
 fungus (mushroom) - fungu  
-funnel - dara tubo  
+funnel - dare tube  
 funny (amusing) - vanu di  
 fusion (amalgamation) - fuzi liga  
 future time - pos zaman  
@@ -1818,7 +1818,9 @@ good night - sal noce
 goose - ganse  
 gorilla - gorila  
 gospel (divine message) - eu anjil  
+govern (rule. reign) - krate  
 government (administration, polity, politics) - polite  
+government (rule (reign, -ocracy, -archy) - kratia  
 gradient (gradation, incline) - gradu medan  
 gradual - gradu di  
 grain (particle) - gran  
@@ -2451,7 +2453,7 @@ lipid - lipide
 lipolysis - lipolize  
 lipophobia - lipofobia  
 liposuccion - lipi cupu  
-liquid - dara mate  
+liquid - daraje  
 liquor - araki  
 list (listing, catalogue) - liste  
 listen - fa ore  
@@ -2661,7 +2663,6 @@ Maya - maya
 maybe (perhaps) - bil e  
 maybe (perhaps) - bil ki  
 Mayotte - Mayote  
-mean (cruel) - zalim  
 mean (intend) - fa nia  
 mean (signify) - seme  
 meaning (signification) - mana  
@@ -3070,6 +3071,9 @@ opinion (view) - rai
 opium poppy - sona papi  
 opossum - aposum  
 opportunity (chance) - canse  
+oppress (bully) - zalime  
+oppressive (despotic, tyrannical, cruel) - zalimive  
+oppressor (tyrant, despot, dictator) - zalimer  
 opt (prefer, choose) - ote  
 optical fibre (optical cable) - fotoline  
 optimal - otimal  
@@ -3330,19 +3334,19 @@ pink (rosy) - rode rang
 pink salmon - rode salmon  
 pipe - pipe  
 piquant - pin sense di  
-piracy - pirate  
-pirate (one who disobeys intellectual property laws) - pirate sim ja  
-pirate (sea robber) - pirate ja  
-Pirate Party - pirate parti  
+piracy - pirateria  
+pirate (one who disobeys intellectual property laws) - piratisme  
+pirate (sea robber) - pirater  
+Pirate Party - pirate partia  
 piss (urinate) - fa pix  
-piss (urine) - pixa  
+piss (urine) - pixe  
 pistol - pistol  
 piston - pompe tape  
 piston - puxa gi  
 Pitcairn Islands - Pitkerne nesi  
 pixel - grafi so  
 pizza - piza  
-pizzeria - pizakan  
+pizzeria - pizaria  
 place (location) - loke  
 plain (ordinary, unadorned, simple, mere, pure) - sada  
 plain (plateau, flat lands) - plate stan  
@@ -3778,7 +3782,6 @@ rude (offensive) - insulte di
 rugby - ragubi  
 ruin (destroy, devastate, demolish) - fa harabu  
 rule (be in charge) - fa sultan  
-rule (reign, government, -ocracy, -archy) - krati  
 ruler - sultaner  
 rum - rom  
 run - kore  
@@ -4111,7 +4114,7 @@ soy milk - soi milke
 soy sauce - soi sos  
 space (character) - hali zi  
 space (cosmos, universe) - kosme  
-spaceship - kosmo nave  
+spaceship - kosmonave  
 spade - bagi bele  
 Spain - Espania  
 spam mail - lasa posta  
@@ -4572,7 +4575,6 @@ twinkle (sparkle) - fa sing foto
 two (2) - du  
 type (kind, sort, style, genre) - tipe  
 typewriter - kitaba gi  
-tyrant (despot) - zalim raja  
 
 ## U  
 
@@ -4666,6 +4668,7 @@ vermouth - vermute
 version (variation, edition) - version  
 vertical - gau dipe  
 very - tre  
+vial (phial, flask) - xixa  
 vice (deputy, alternative, substitute, replacement) - vise  
 vice-president - vise prezidente  
 viceroy - vise raja  
@@ -4722,7 +4725,7 @@ warn (caution, alert) - fa jui
 warning (advisory) - jui note  
 warp - ging lin  
 warrior (fighter) - jang ja  
-wart - zeyil  
+wart - veruke  
 wash - vaxi  
 washing machine - fuku vaxi gi  
 Washington DC - Vaxington DC  
@@ -4737,6 +4740,8 @@ water treatment - sui culi
 watercolor - sui rang  
 watermelon - arbuza  
 watermint - sui minta  
+waterpipe (hookah, shisha) - sui pipe  
+waterpipe (hookah, shisha) - xixa pipe  
 waterproof - sui sekur di  
 watery - sui di  
 watt - vate  

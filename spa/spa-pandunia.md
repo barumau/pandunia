@@ -791,7 +791,7 @@ cinc - zinke
 cinco (5) - lima  
 cinta (cinta para el pelo) - kexa bande  
 cinta adhesiva - tepe  
-cinturón (zona) - zona  
+cinturón (zona) - zone  
 cinético - kino di  
 circonio - zirkonium  
 circón - zirkon  
@@ -976,7 +976,7 @@ corto (breve) - korte
 Corán - kuran  
 cosa - xe  
 coser - kosi  
-cosmonauta - kosmo nave ja  
+cosmonauta - kosmonaver  
 cosmos - kosme  
 costa (orilla) - bahai kinar  
 Costa de Marfil - Kote de Ivar  
@@ -1021,7 +1021,7 @@ cruasán - kruasan
 crucificar - fa krus fixe  
 crudo - gene di  
 crudo - seng  
-crueldad (tiranía) - zalimta  
+crueldad (tiranía) - zalimia  
 cruz - krus  
 cruzar - be krus  
 cráneo (calavera) - kapa oste  
@@ -1053,6 +1053,7 @@ cuento de hadas - pari kata
 cuerno - korne  
 cuerpo - badan  
 cuerpo celeste - astre  
+cuerpo de agua - daria  
 cuesta (inclinación, pendiente, predisposición, tender) - klin  
 cueva (caverna) - gua  
 cuidado (atención, precaución, cautela) - jui  
@@ -1090,7 +1091,7 @@ cólera - holera
 cómo - ke riti  
 cómo? (eh?) - he  
 cómodo (lujoso) - huxi  
-cósmico - kosmo di  
+cósmico - kosmike  
 cúpula - kupa cati  
 
 ## D  
@@ -1102,8 +1103,8 @@ dar - don
 dar a luz (enngendrar, parir, procrear) - fa nati  
 darmstatio - darmestadium  
 darse cuenta (notar) - fa budi  
-darwinismo - darvin sim  
-darwinista - darvin sim ja  
+darwinismo - darvinisme  
+darwinista - darviniste  
 datos - data  
 dañado - avar di  
 dañar - fa avar  
@@ -1271,7 +1272,7 @@ domesticar (cultivate) - fa dosil gene
 dominar - maste  
 domingo - solden  
 Dominica - Dominika  
-dominio (reinado) - krati  
+dominio (reinado) - kratia  
 dominó - domino geme  
 doméstico (domesticado) - dom di  
 dormir - be sona  
@@ -1348,7 +1349,7 @@ embajador - dai anjil ja
 embalar (llevar) - fa pake  
 embarazado (preñado) - hamil  
 embarrado (enlodado) - poto di  
-embudo - dara tubo  
+embudo - dare tube  
 emir - amir ja  
 emirato - amiria  
 Emiratos Árabes Unidos - Unta Arabi Amir Dexa (UAA)  
@@ -1447,7 +1448,7 @@ eslabón - ser
 eslavo - Slave  
 Eslovaquia - Slovakia  
 Eslovenia - Slovenia  
-esmeralda - zumarde  
+esmeralda - ezmurude  
 espacio (texto) - hali zi  
 espada - gem  
 espalda (lomo) - ruke  
@@ -1612,7 +1613,7 @@ flerovio - flerovium
 flor - hua  
 florero - hua jara  
 flotador (boya) - boi  
-fluir - be dara  
+fluir - dare  
 fluoruro - fluride  
 flúor - flur  
 fonda - panduke  
@@ -2347,8 +2348,8 @@ léxico - lexi li
 Líbano - Libanen  
 límite (frontera, linde) - limite  
 lípido - lipide  
-líquido (fluido) - dara mate di  
-líquido - dara mate  
+líquido (fluido) - darike  
+líquido - daraje  
 lógica - logika  
 lógica - ratolojia  
 lúmen - lumen  
@@ -2536,7 +2537,6 @@ metro - mitre
 metro - tunel tren  
 mez - mes  
 mezclar - mixe  
-mezquino (antipático, cruel) - zalim  
 mi - mi su  
 micelio - fungu nete  
 micro- - mikre  
@@ -2701,7 +2701,7 @@ natrón - natre bilor
 naturaleza - nature  
 nautilo - nautile  
 navaja - jebe caku  
-nave espacial - kosmo nave  
+nave espacial - kosmonave  
 navegador - brauzer  
 navegar (ir en bote) - nave ga  
 Navidad - kristogene  
@@ -2968,10 +2968,10 @@ parte inferior - nice
 participante - parteceper  
 participar - fa parti  
 participar - partecepe  
-partidario de infracción de copyright - pirate sim ja  
+partidario de infracción de copyright - piratisme  
 partido - mece  
 partido - partia  
-Partido Pirata - pirate parti  
+Partido Pirata - pirate partia  
 partir (dividirse) - be fen  
 partícula (grano, bala) - dana  
 parámetro - parametri  
@@ -3108,11 +3108,14 @@ pintar - fa pente
 pintor - pente ja  
 pintura - pente  
 piojo - kutu  
+pipa - pipe  
+pipa de agua (narguile) - sui pipe  
+pipa de agua (shisha) - xixa pipe  
 piperita - pipre minta  
-pirata - pirate ja  
-piratería - pirate  
+pirata - pirater  
+piratería - pirateria  
 pirámide - piram  
-pis (meados) - pixa  
+pis (meados) - pixe  
 pisada (huella) - fute marke  
 piscina (alberca, lavadero) - basen  
 piso (suelo) - kamar dipe  
@@ -3121,7 +3124,7 @@ pistola - pistol
 pistón - pompe tape  
 pitufo - nil elfe  
 pizza - piza  
-pizzería - pizakan  
+pizzería - pizaria  
 piña - ananas  
 placa tectónica - geo kaska plate  
 plan - plan  
@@ -3813,7 +3816,7 @@ taoísta - dau din ja
 tapa (funda, cubierta) - dake  
 tapioca - manioka fufu  
 taponar - fa tapa  
-tapón (corcholata) - botel tapa  
+tapón (corcholata) - botel tape  
 tapón (tapa) - tape  
 tarde (después de mediodía) - xam dia  
 tarjeta (carta) - karta  
@@ -3903,10 +3906,11 @@ tinta - kalam sui
 tinte - rang mate  
 tipi - tipi  
 tira (faja, vendaje, cinta) - faxi  
-tirano (déspota) - zalim raja  
+tirano (déspota) - zalimer  
 tirar (lanzar, echar, arrojar, aventar) - lanse  
 tirar - tire  
 tiro con arco - arka suta  
+tiránico (mezquino, cruel) - zalimive  
 titanio - titanium  
 toalla - tuale  
 tocar (rozar) - tocu  
@@ -3982,7 +3986,6 @@ truenos (estruendo) - grom
 tránsito (transporte) - trapas  
 trópico - garma zona  
 tu - tu su  
-tubo (caño) - pipe  
 tubo - tube  
 tubérculo - masa mula  
 tulio - tulium  
@@ -4091,7 +4094,7 @@ verduras - coi
 vergüenza (pena) - xarma  
 verme - verme  
 vermú - vermute  
-verruga - zeyil  
+verruga - veruke  
 versar (afrontar) - verse  
 versar - fa verse  
 versión (modelo) - version  

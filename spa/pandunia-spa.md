@@ -367,7 +367,6 @@ be boli - hervirse (ser cocida)
 be bum - explosionar  
 be cen - preceder (anteceder)  
 be dai - crecer (aumentar, hincharse)  
-be dara - fluir  
 be dom - vivir (residir)  
 be duka - llorar  
 be dura - durar (durante, llevar tiempo)  
@@ -509,7 +508,7 @@ boron - boro
 Bosna i Hercegovina - Bosnia y Herzegovina  
 Bote - Tíbet  
 botel - botella  
-botel tapa - tapón (corcholata)  
+botel tape - tapón (corcholata)  
 bra - hermano  
 brauza - explorar  
 brauzer - navegador  
@@ -683,15 +682,17 @@ dante baluta - roble daimyo
 dante broxa - cepillo de dientes  
 dante dava ja - dentista (odontólogo)  
 dante hin - desdentado  
-dara mate - líquido  
-dara mate di - líquido (fluido)  
-dara tubo - embudo  
+dare - fluir  
+daraje - líquido  
+daria - cuerpo de agua  
+darike - líquido (fluido)  
+dare tube - embudo  
 darba - golpear (pegar)  
 darmestadium - darmstatio  
 darti - tierra (barro)  
 darti di - sucio  
-darvin sim - darwinismo  
-darvin sim ja - darwinista  
+darvinisme - darwinismo  
+darviniste - darwinista  
 data - datos  
 data banke - banco de datos (base de datos)  
 data culi - procesamiento de datos  
@@ -923,6 +924,7 @@ europa di - europeo
 Europa Unta - Unión Europea  
 exgogia - país extranjero  
 exgogike - extranjero  
+ezmurude - esmeralda  
 
 ## F  
 
@@ -2147,9 +2149,9 @@ korte krokodil - caimán (aligátor, yacaré)
 kosi - coser  
 kosme - cosmos  
 kosmobiolojia - astrobiologia  
-kosmo di - cósmico  
-kosmo nave - nave espacial  
-kosmo nave ja - cosmonauta  
+kosmike - cósmico  
+kosmonave - nave espacial  
+kosmonaver - cosmonauta  
 koso - tos  
 Kosovo - Kosovo  
 Kosta Rika - Costa Rica  
@@ -2159,7 +2161,7 @@ Kote de Ivar - Costa de Marfil
 kotumbar - cilantro (coriandro)  
 krake - raja (grieta)  
 kran - válvula (llave, canilla)  
-krati - dominio (reinado)  
+kratia - dominio (reinado)  
 kree - crear  
 kreater - creador  
 kreatia - creación  
@@ -3086,24 +3088,24 @@ pin kardon - cardo borriquero
 pinguin - pingüino  
 pinse bano - tabla con pinza (carpeta con sujetapapeles)  
 pinse gi - alicate  
+pipe - pipa  
 pipa - laúd  
 pipa frute - níspero japonés  
-pipe - tubo (caño)  
 piping - evaluación (crítica)  
 piping ja - crítico  
 pipre - pimienta  
 pipre minta - piperita  
 piram - pirámide  
-pirate - piratería  
-pirate ja - pirata  
-pirate parti - Partido Pirata  
-pirate sim ja - partidario de infracción de copyright  
+pirater - pirata  
+pirateria - piratería  
+piratisme - partidario de infracción de copyright  
+pirate partia - Partido Pirata  
 pisea - pícea  
 pistol - pistola  
 Pitkerne nesi - Islas Pitcairn  
-pixa - pis (meados)  
+pixe - pis (meados)  
 piza - pizza  
-pizakan - pizzería  
+pizaria - pizzería  
 • aplike - aplicar (untar)  
 plan - plan  
 planeta - planeta  
@@ -3643,6 +3645,7 @@ sui minta - menta acuática
 sui rang - acuarela  
 sui sekur di - impermeable (sumergible)  
 sui yau - sed  
+sui pipe - pipa de agua (narguile)  
 Suise - Suiza  
 suka - feliz (gustarse, disfrutar)  
 sukafa - gustar (complacer)  
@@ -3978,6 +3981,7 @@ vermute - vermú
 • reverse - invertir  
 verse - versar (afrontar)  
 version - versión (modelo)  
+veruke - verruga  
 vespa - abeja o avispa  
 vespa nide - avispero (colmena)  
 veste - oeste  
@@ -4104,6 +4108,7 @@ xiu yam - tentempié
 xiu zi - minúscula  
 xiva - Shiva  
 xix - brocheta  
+xixa pipe - pipa de agua (shisha)  
 xofer ja - conductor (chofer)  
 xoke - choque (sacudida)  
 xopi - compras (shopping)  
@@ -4190,9 +4195,9 @@ zaita - presencia (existencia)
 zai zaman - presente (actualidad)  
 zai zaman di - actual  
 zaitun - aceituna  
-zalim - mezquino (antipático, cruel)  
-zalim raja - tirano (déspota)  
-zalimta - crueldad (tiranía)  
+zalimer - tirano (déspota)  
+zalimia - crueldad (tiranía)  
+zalimive - tiránico (mezquino, cruel)  
 zaman - tiempo  
 • prezaman - pasado  
 • prezaman di - viejo (antiguo)  
@@ -4206,7 +4211,6 @@ zarduxtan mager - mago
 zarduxtisme - zoroastrismo  
 zarduxtiste - zoroastriano  
 zebra - cebra  
-zeyil - verruga  
 zi - carácter  
 zi forma - fuenta  
 zi seri - alfabeto  
@@ -4223,7 +4227,7 @@ ziza - zigzag
 zizi - chisporrotear  
 zoku - todavía (aún)  
 zombi - zombi  
-zona - cinturón (zona)  
+zone - cinturón (zona)  
 zukam - resfriado (catarro)  
 Zukra - Venus  
 zukraden - viernes  
@@ -4231,4 +4235,3 @@ zuku - etnia
 zuku di - étnico  
 zuku medi di - interétnica  
 Zulu - zulú  
-zumarde - esmeralda  

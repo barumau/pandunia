@@ -273,7 +273,7 @@ bon sin di - благоприятный
 borium - борий  
 boron - бор  
 botel - бутылка  
-botel tapa - крышка  
+botel tape - крышка  
 bra - брат  
 Brahma - Брахма  
 brauza - исследовать  
@@ -374,7 +374,7 @@ danse - танец
 Danske - датский  
 dante baluta - дуб зубчатый  
 dante hin - беззубый  
-dara tubo - воронка  
+dare tube - воронка  
 darmestadium - дармштадтий  
 data - данные  
 data banke - база данных  
@@ -490,6 +490,7 @@ eu anjil - евангелие
 eu loga - панегирик  
 europium - европий  
 europa baluta - дуб черешчатый  
+ezmurude - изумруд  
 
 ## F  
 
@@ -1049,9 +1050,9 @@ korte kata - новелла
 korte krokodil - аллигатор  
 kosme - космос  
 kosmobiolojia - астробиология  
-kosmo di - космический  
-kosmo nave - космический корабль  
-kosmo nave ja - космонавт  
+kosmike - космический  
+kosmonave - космический корабль  
+kosmonaver - космонавт  
 kotumbar - кориандр (кинза)  
 krabe - краб  
 krake - щель (трещина)  
@@ -1530,11 +1531,14 @@ pin cope - киркомотыга
 pin kardon - татарник колючий  
 pin sense di - пикантный  
 pinse bano - планшет  
+pipe - трубка (люлька)  
 pipa - лютня  
 pipa frute - локва  
 pipre - перец  
 pipre minta - мята перечная  
 piram - пирамида  
+pirater - пират  
+pirateria - пиратство  
 pisea - ель  
 piza - пицца  
 plan - план  
@@ -1780,6 +1784,7 @@ sui gas - пар
 sui kaboga - тыква горлянка (калабас)  
 sui minta - мята водная  
 sui yau - жажда  
+sui pipe - кальян  
 Suise - Швейцария  
 suka - счастливый (радостный)  
 sukar - сахар  
@@ -1960,6 +1965,7 @@ vermute - вермут
 • exverse - экстраверт  
 • extraverse - экстраверт  
 • intraverse - интроверт  
+veruke - бородавка  
 veste gorila - западная горилла  
 veze di - тяжёлый  
 vide - видеть  
@@ -2029,6 +2035,7 @@ xiu seku - галька
 xiva - Шива  
 xix kababu - шиш-кебаб  
 xix karne - шашлык  
+xixa pipe - кальян  
 xofer ja - шофёр  
 xopi - покупка (шоппинг)  
 xukre - спасибо  
@@ -2080,14 +2087,14 @@ yutrium - иттрий
 ## Z  
 
 zai zaman di - нынешний  
-zalim raja - тиран (деспот)  
+zalimer - тиран (деспот)  
+zalimive - тиранический (деспотичный, жестокий)  
 • prezaman di - старый (древний)  
 Zambia - Замбия  
 zar kube - кость (кубик)  
 Zarduxte - Зороастр  
 zarduxtiste - зороастризм  
 zebra - зебра  
-zeyil - бородавка  
 zeze - двукрылое  
 zi - буква (символ, иероглиф)  
 zi forma - шрифт  
@@ -2099,11 +2106,10 @@ zira - тмин (зира)
 zirkon - циркон  
 zirkonium - цирконий  
 zoku - ещё  
-zona - пояс (зона)  
+zone - пояс (зона)  
 Zukra - Венера  
 zukraden - пятница  
 zuku - этнос  
 zuku di - этнический  
 zuku medi di - межэтнический  
 Zulu - зулус  
-zumarde - изумруд  

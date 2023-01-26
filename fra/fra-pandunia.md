@@ -393,7 +393,7 @@ canyon (ravin) - kanyon
 capacité (pouvoir, habileté) - bilta  
 cape - mantol  
 capot - moto cati  
-capsule - botel tapa  
+capsule - botel tape  
 caractère - zi  
 carapace (coquille, coquillage, croûte) - kaska  
 carat - kirate  
@@ -556,8 +556,8 @@ coriandre - kotumbar
 corne - korne  
 corps - badan  
 correct (juste) - sahi  
-cosmique - kosmo di  
-cosmonaute - kosmo nave ja  
+cosmique - kosmike  
+cosmonaute - kosmonaver  
 cosmos - kosme  
 coton - goton  
 cou (encolure, nuque) - nuka  
@@ -593,6 +593,7 @@ croque-mitaine - bubu
 croyant - din ja  
 croyant - kredija  
 cru - seng  
+cruel - zalimive  
 crème - krem  
 crème glacée - ais krem  
 créateur - kreater  
@@ -742,7 +743,7 @@ enregistrement - loga
 enseigner - gio  
 ensommeillé (somnolent) - sona tabi  
 ensuite (après, plus tard, ir a, en el futuro) - a pos  
-entonnoir - dara tubo  
+entonnoir - dare tube  
 entrer - be in  
 entrer - intre  
 envelopper (emballer) - fa lifafa  
@@ -978,6 +979,8 @@ horloge - sah diker
 horreur - horure  
 houblon - humel  
 houe - copu  
+houka (narguilé, chicha) - sui pipe  
+houka (narguilé, chicha) - xixa pipe  
 hourra - hura  
 huile (pétrole) - nafte  
 huit (8) - bati  
@@ -1591,9 +1594,11 @@ pilier (colonne, poteau) - kolum
 piment - cili  
 pinceau - pente broxa  
 pioche - pin cope  
+pipe - pipe  
 piquant - pin sense di  
 piquenique - vai yam  
-piraterie - pirate  
+pirate - pirater  
+piraterie - pirateria  
 pistolet - pau gi  
 piston - pompe tape  
 pivoine - mudan  
@@ -2134,7 +2139,7 @@ vachellia - babul
 vagine - vagina  
 vaginite - vagina tis  
 vaincre - jai  
-vaisseau spatial - kosmo nave  
+vaisseau spatial - kosmonave  
 valeur - valu  
 vallée (oued) - vali  
 valse - valse  
@@ -2155,7 +2160,7 @@ verger - frute parke
 vermouth - vermute  
 verre - glas  
 verre coloré - rang glas  
-verrue - zeyil  
+verrue - veruke  
 verser (verse, face á) - verse  
 verser - fa verse  
 vert - luga  
@@ -2229,7 +2234,7 @@ ziggourat - zikura
 zinc - zinke  
 zirconium - zirkonium  
 zombi - zombi  
-zone - zona  
+zone - zone  
 zoo - hevan bagi  
 zoologie - hevan lojia  
 zoologique - hevan lojia di  
@@ -2266,7 +2271,7 @@ zéro - siro
 éloge - eu loga  
 élément (unité fondamentale) - so  
 élément chimique - kimeme  
-émeraude - zumarde  
+émeraude - ezmurude  
 émettre - exmise  
 émir - amir ja  
 émirat - amiria  

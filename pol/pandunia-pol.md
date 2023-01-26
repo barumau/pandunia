@@ -407,7 +407,6 @@ be boli - ugotować się, gotować się
 be bum - eksplodować (wybuchnąć, wybuchać)  
 be cen - poprzedzić, poprzedzać  
 be dai - urosnąć, rosnąć, wzrosnąć, wzrastać  
-be dara - latać (fruwać)  
 be dom - mieszkać  
 be duka - martwić  
 be dura - trwać, zająć czas; przez  
@@ -575,7 +574,7 @@ boron - bor
 Bosna i Hercegovina - Bośnia i Harcegowina  
 Bote - Tybet  
 botel - butelka  
-botel tapa -   
+botel tape -   
 bra -   
 bra doh -   
 bra son -   
@@ -780,18 +779,19 @@ dante baluta - dąb zębaty
 dante broxa - szczoteczka do zębów  
 dante dava ja - dentysta  
 dante hin - bezzębny  
-dante kumu -   
-dara -   
-dara mate - ciecz (płyn)  
-dara mate di - ciekły (płynny)  
-dara tubo - lejek  
+dante kume -   
+dare - latać (fruwać)  
+daraje - ciecz (płyn)  
+daria -   
+darike - ciekły (płynny)  
+dare tube - lejek  
 darba - bić, uderzyć, uderzać  
 darmestadium - darmsztadt  
 darti - grunt (ziemia, próchnica)  
 darti bon ja - nawóz  
 darti di - ziemny (glebowy, gruntowy)  
-darvin sim - darwinizm  
-darvin sim ja - darwinista  
+darvinisme - darwinizm  
+darviniste - darwinista  
 data - dane  
 data banke - baza danych (bank danych)  
 data culi -   
@@ -1070,6 +1070,7 @@ exgogia - zagranica
 exgogike - zagraniczny  
 extre -   
 exa -   
+ezmurude - szmaragd  
 
 ## F  
 
@@ -2490,9 +2491,9 @@ korte krokodil - aligator
 kosi - szyć  
 kosme - kosmos, wszechświat  
 kosmobiolojia -   
-kosmo di - kosmiczny  
-kosmo nave -   
-kosmo nave ja - kosmonauta  
+kosmike - kosmiczny  
+kosmonave -   
+kosmonaver - kosmonauta  
 koso - kaszel; kaszlnięcie  
 Kosovo - Kosowo  
 Kosta Rika - Kostaryka  
@@ -2504,7 +2505,8 @@ kotumbar - kolendra
 krabe - krab  
 krake - pęknięcie  
 kran - kran (zawór)  
-krati - rządzić, władać  
+krate -   
+kratia - rządzić, władać  
 kree -   
 kreater -   
 kreatia -   
@@ -3582,24 +3584,24 @@ pinguin - pingwin
 pinse -   
 pinse bano -   
 pinse gi - obcęgi, kleszcze, szczypce  
+pipe - fajka  
 pipa - lutnia  
 pipa frute -   
-pipe - fajka  
 piping - ocena, krytyka  
 piping ja - krytyk  
 pipre - pieprz  
 pipre minta - mięta pieprzowa  
 piram - piramida  
-pirate - piractwo  
-pirate ja - pirat  
-pirate parti - Partia Piratów  
-pirate sim ja - pirat (osoba naruszająca prawa własności intelektualnej)  
+pirater - pirat  
+pirateria - piractwo  
+piratisme - pirat (osoba naruszająca prawa własności intelektualnej)  
+pirate partia - Partia Piratów  
 pisea - świerk  
 pistol - pistolet  
 Pitkerne nesi - Pitcairn  
-pixa - siki  
+pixe - siki  
 piza - pizza  
-pizakan - pizzeria  
+pizaria - pizzeria  
 ple -   
 • aplike - stosować (zastosować; zastosowanie, aplikacja)  
 • konplike -   
@@ -4212,6 +4214,7 @@ sui minta - mięta wodna
 sui rang - akwarela (farba wodna)  
 sui sekur di - wodoodporny  
 sui yau - pragnienie  
+sui pipe -   
 Suise - Szwajcaria  
 suka - wesoły (ucieszony; cieszyć się)  
 sukafa - cieszyć, podobać się  
@@ -4615,6 +4618,7 @@ vermute - wermut
 • reverse -   
 verse -   
 version - wersja (wariacja, edycja, wydanie)  
+veruke - brodawka  
 vespa - pszczoła lub osa  
 vespa nide - ul (gniazdo pszczół lub os)  
 veste - zachód  
@@ -4765,6 +4769,8 @@ xiva - Śiwa
 xix - rożen (szpikulec)  
 xix kababu - szisz kebab  
 xix karne - szaszłyk  
+xixa -   
+xixa pipe -   
 xofer ja - szofer (kierowca)  
 xoke - szokwstrząs; kolizja  
 xopi - zakupy (sprawunki, shopping)  
@@ -4866,9 +4872,10 @@ zaita - teraźniejszość, współczesność
 zai zaman - teraźniejszość, współczesność (teraz)  
 zai zaman di - bieżący (aktualny, obecny)  
 zaitun - oliwka  
-zalim - złośliwy, okrutny  
-zalim raja - tyran  
-zalimta - tyrania  
+zalime -   
+zalimer - tyran  
+zalimia - tyrania  
+zalimive - złośliwy, okrutny  
 zaman - czas  
 • prezaman - przeszłość  
 • prezaman di - stary, starożytny  
@@ -4884,7 +4891,6 @@ zarduxtiste - zaratrustianin
 zebra - zebra  
 zelo -   
 zeta -   
-zeyil - brodawka  
 zeze -   
 zi -   
 zi forma -   
@@ -4902,7 +4908,7 @@ ziza - zygzag
 zizi - skwierczeć  
 zoku - wciąż, nadal; kontynuować, wznawiać, ponawiać  
 zombi - zombie, zombi  
-zona - pas, strefa  
+zone - pas, strefa  
 zukam - przeziębienie, katar  
 Zukra - Wenus  
 zukraden - piątek  
@@ -4910,4 +4916,3 @@ zuku - grupa etniczna
 zuku di - etniczny  
 zuku medi di - międzyetniczny  
 Zulu - zulu  
-zumarde - szmaragd  

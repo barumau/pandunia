@@ -364,7 +364,7 @@ bon sin di - propice
 borium - bohrium  
 boron - boron  
 botel - bouteille  
-botel tapa - capsule  
+botel tape - capsule  
 bra - frère  
 bravo - brave  
 bravo - bravo!  
@@ -459,7 +459,7 @@ dang gi - cloche
 danse - dance  
 Danske - danois  
 dante hin - édenté  
-dara tubo - entonnoir  
+dare tube - entonnoir  
 darmestadium - darmstadtium  
 data - données  
 data banke - base de données  
@@ -576,6 +576,7 @@ europium - europium
 Europa - Europe  
 europa baluta - chêne pédonculé  
 europa di - européen  
+ezmurude - émeraude  
 
 ## F  
 
@@ -1182,9 +1183,9 @@ korte kata - nouvelle (récit court)
 korte krokodil - alligator  
 kosme - cosmos  
 kosmobiolojia - astrobiologie  
-kosmo di - cosmique  
-kosmo nave - vaisseau spatial  
-kosmo nave ja - cosmonaute  
+kosmike - cosmique  
+kosmonave - vaisseau spatial  
+kosmonaver - cosmonaute  
 kotumbar - coriandre  
 krabe - crabe  
 krake - fente (fissure, fêlure)  
@@ -1705,12 +1706,14 @@ pin cope - pioche
 pin kardon - chardon aux ânes  
 pin sense di - piquant  
 pinse bano - porte-bloc (planchette à pince)  
+pipe - pipe  
 pipa - luth  
 pipa frute - bibace (nèfle du Japon)  
 pipre - poivre  
 pipre minta - menthe poivrée  
 piram - pyramide  
-pirate - piraterie  
+pirater - pirate  
+pirateria - piraterie  
 pisea - Épicéa  
 piza - pizza  
 • aplike - appliquer  
@@ -1973,6 +1976,7 @@ sui - eau
 sui gas - vapeur d’eau  
 sui minta - Menthe aquatique  
 sui yau - soif  
+sui pipe - houka (narguilé, chicha)  
 Suise - Suisse  
 suka - heureux (se plaire)  
 sukafa - plaire  
@@ -2161,6 +2165,7 @@ vermute - vermouth
 • intraverse - introverti  
 • perverse - pervers  
 verse - verser (verse, face á)  
+veruke - verrue  
 vespa - abeille ou guêpe  
 vespa nide - ruche (nid d'abeille)  
 veze - poids (lourdeur, gravité)  
@@ -2231,6 +2236,7 @@ xiu seku - caillou
 xiva - Shiva  
 xix - brochette  
 xix karne - chachlik  
+xixa pipe - houka (narguilé, chicha)  
 xopi - shopping  
 xukre - merci  
 xukria - gratitude  
@@ -2284,6 +2290,7 @@ yutrium - yttrium
 
 zai di - présent  
 zai zaman di - actuel (courant)  
+zalimive - cruel  
 zaman - temps  
 • prezaman di - vieux (ancien)  
 zar kube - dé  
@@ -2291,7 +2298,6 @@ Zarduxte - Zoroastre
 zarduxtisme - zoroastrisme  
 zarduxtiste - zoroastrien  
 zebra - zèbre  
-zeyil - verrue  
 zi - caractère  
 zi seri - alphabet  
 zikura - ziggourat  
@@ -2300,10 +2306,9 @@ zira - cumin
 zirkonium - zirconium  
 zoku - continuer (poursuivre, encore)  
 zombi - zombi  
-zona - zone  
+zone - zone  
 Zukra - Vénus  
 zukraden - vendredi  
 zuku - ethnie  
 zuku di - ethnique  
 Zulu - zoulou  
-zumarde - émeraude  

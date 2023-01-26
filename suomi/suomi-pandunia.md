@@ -86,6 +86,7 @@ algebra - jebre
 Algeria - Jayer  
 algesia - analgesia  
 aliarvioida - fa min rai  
+alistaa - zalime  
 alistua (antautua) - be islam  
 alistuminen (antautuminen) - islam  
 alittaa (olla vähemmän kuin) - be min  
@@ -244,8 +245,8 @@ auttaja (apulainen, avustaja) - meder
 avain - cavi  
 avara (aava, aukea) - medanike  
 avaruus (kosmos) - kosme  
-avaruusalus - kosmo nave  
-avaruusmatkaaja (kosmonautti) - kosmo nave ja  
+avaruusalus - kosmonave  
+avaruusmatkaaja (kosmonautti) - kosmonaver  
 avata lukko - detala  
 avioliitto - gamia  
 aviomies - nan per (man)  
@@ -344,8 +345,8 @@ curry (karri) - kari
 ## D  
 
 darmstadtium - darmestadium  
-darwinismi - darvin sim  
-darwinisti - darvin sim ja  
+darwinismi - darvinisme  
+darwinisti - darviniste  
 data (numeerinen tieto) - data  
 data-analyysi - data fen lize  
 Deimos - Deimos  
@@ -638,11 +639,13 @@ hajottaa (hävittää, raunioittaa) - perex fa
 hajottaa (särkeä, repiä, sirpaloida) - fa parce  
 haju - aroma  
 hakaristi (svastika) - huke krus  
+hallinta - kratia  
 hallinto (hallinnointi) - nomi  
 hallinto - polite  
 hallintomuoto - politi mode  
 hallita (hallinnoida) - fa politi  
 hallita (olla vallassa) - fa sultan  
+hallita - krate  
 hallita yksinvaltaisesti - impere  
 haltia (tonttu) - elfe  
 halu (toive) - vol xe  
@@ -653,7 +656,7 @@ hammas - dante
 hammasharja - dante broxa  
 hammaslääkäri - dante dava ja  
 hammastammi - dante baluta  
-hammasvalli - dante kumu  
+hammasvalli - dante kume  
 hampaaton - dante hin  
 han-kiinalainen - Han  
 hana (venttiili, kraana) - kran  
@@ -901,7 +904,7 @@ ihmisoikeudet - human hake
 ikkuna - janela  
 ikkunankehys (ikkunanpuite) - janela frem  
 ikä - umur  
-ilkeä (julma) - zalim  
+ilkeä (julma) - zalimive  
 illallinen - xam yam  
 ilma - air  
 ilman oleva (-ton) - hin di  
@@ -1542,7 +1545,7 @@ korvata - fa vise
 korvatulehdus - ore tis  
 koska (johdosta, takia) - a sabu de  
 koskea (koskettaa) - tocu  
-kosminen - kosmo di  
+kosminen - kosmike  
 Kosovo - Kosovo  
 kosteuttaa - fa xipi  
 kota (tiipii) - tipi  
@@ -1761,7 +1764,7 @@ Laos - Lau
 laoslainen - lau di  
 lapio - belca  
 lapislatsuli - lazur petra  
-lappo - dara tubo  
+lappo - dare tube  
 lapsen poika - ben son  
 lapsen tytär - ben doh  
 lapsenlapsi - ben ben  
@@ -2167,8 +2170,8 @@ meriheinä - bahai cau
 merilevä - bahai alga  
 merimakkara - bahai hiyar  
 merimies - bahai vala  
-merirosvo (piraatti) - pirate ja  
-merirosvous - pirate  
+merirosvo (piraatti) - pirater  
+merirosvous - pirateria  
 merivoimat (sotalaivasto) - bahai ordu  
 merivuokko - bahai hua  
 merkitys - mana  
@@ -2388,8 +2391,8 @@ neon - neon
 Nepal - Nepal  
 neptunium - neputunium  
 Neptunus - Neputun  
-neste - dara mate  
-nestemäinen - dara mate di  
+neste - daraje  
+nestemäinen - darike  
 nettisivu - nete loke  
 neuvo - sel  
 neuvoa - fa sel  
@@ -2806,8 +2809,8 @@ pinnasänky - bebe bede
 pinta (tahko) - fase  
 pioni - mudan  
 pippuri - pipre  
-piraatti (joka ei kunnioita tekijänoikeuksia) - pirate sim ja  
-piraattipuolue - pirate parti  
+piraatti (joka ei kunnioita tekijänoikeuksia) - piratisme  
+piraattipuolue - pirate partia  
 pirullinen - xatanike  
 pisara (tippa) - giota  
 piste (täplä) - punte  
@@ -2822,7 +2825,7 @@ pitkäpippuri - long pipre
 pitkästi (kauas) - to long  
 pitkästynyt - bori di  
 pitsa (pizza) - piza  
-pitseria - pizakan  
+pitseria - pizaria  
 pituus - longta  
 pituusaste - ging gradu  
 pituuspiiri - ging gola  
@@ -2943,7 +2946,7 @@ pukea (vaatettaa) - fa fuku
 pukeutua (pitää vaatetta yllään) - fa fuku  
 pulina (hälinä) - palaba  
 pullo - botel  
-pullonkorkki - botel tapa  
+pullonkorkki - botel tape  
 pultti - bolte  
 pumppu - pompe  
 punainen - rubi  
@@ -2974,6 +2977,7 @@ pusertaa - in puxe
 puskea takaisin (alistaa) - represe  
 pussi (säkki, kassi, laukku) - sake  
 pussirotta (opossumi) - aposum  
+puteli - xixa  
 putki (johto, tuubi) - tube  
 puu - moka  
 puuaines - moka mate  
@@ -3440,7 +3444,7 @@ slaavilainen - Slave
 Slovakia - Slovakia  
 Slovenia - Slovenia  
 slummi - harabu mahala  
-smaragdi - zumarde  
+smaragdi - ezmurude  
 smurffi - nil elfe  
 sohva - sofa  
 soihtu - fote kane  
@@ -3584,7 +3588,7 @@ syvyys - fase teleta
 syvä - fase tele  
 syy - sabu  
 syyllinen - doxa di  
-syylä - zeyil  
+syylä - veruke  
 Syyria - Suria  
 syyskuu - mes tisa  
 syömäpuikot - haxi  
@@ -3955,8 +3959,8 @@ tylsyys (pitkästys) - bori
 tynnyri (tölkki) - tong  
 typerys (idiootti) - idiote  
 typpi - nitre  
-tyranni - zalim raja  
-tyrannia - zalimta  
+tyranni - zalimer  
+tyrannia - zalimia  
 tyttärenpoika - doh son  
 tyttärentytär - doh doh  
 tyttö (nuori neito) - jun fem  
@@ -4120,7 +4124,6 @@ valokuvaaja - fotografer
 valokuvaus - fotografia  
 valonsäde - foto radi  
 valssi - valse  
-valta - krati  
 valtameri - dai bahai  
 valtuuttaa (delegoida) - vakilize  
 vampyyri - vampir  
@@ -4208,7 +4211,10 @@ vertainen - sam bei
 vesi - sui  
 vesimeloni - arbuza  
 vesinokkaeläin - bata krote  
+vesipiippu - sui pipe  
+vesipiippu - xixa pipe  
 vesipuhveli - karbau  
+vesistö (meri, järvi, joki) - daria  
 vesitiivis - sui sekur di  
 vesiväri (akvarelliväri) - sui rang  
 vessa - tuale kamar  
@@ -4276,10 +4282,9 @@ virka (virka-asema) - guan
 virkailija (virkamies) - guan ja  
 Viro (Eesti) - Esti  
 virologia - virolojia  
-virrata - be dara  
-virta (virtaus) - dara  
+virrata (virta, virtaus) - dare  
 virtahepo - gubu  
-virtsa (pissa, kusi) - pixa  
+virtsa (pissa, kusi) - pixe  
 virtsata (kusta) - fa pix  
 virus - virus  
 viski - viski  
@@ -4324,7 +4329,7 @@ vuosijuhla - nen festa
 vuosisata - sento nen  
 vuotaa - lou  
 vuotaa verta - lou sang  
-vyö - zona  
+vyö - zone  
 väenpaljous - demi polita  
 väestö (kansa) - demi  
 väestötiede (demografia) - demi grafi  

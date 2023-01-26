@@ -183,7 +183,7 @@
 **borium** *bohrium* ← English:bohrium, French:bohrium, Spanish:bohrio, Portuguese:bóhrio, Russian:борий, Mandarin: (bō), Japanese:ボーリウム, Korean:보륨, Vietnamese:bohri, Hindi:बोरियम, Bengali:বোহরিয়াম, Malay:bohrium, Swahili:bohri, Arabic: بوريوم  
 **boron** *boron* ← English:boron, French:boron, Spanish:boro, Portuguese:boro, Russian:бор, Vietnamese:bo, Hindi:बोरॉन्, Bengali:বোরন, Malay:boron, Swahili:boroni, Arabic: بورون  
 **Bote** *Tibet* ← tib:བོད (bod, phø)  
-**botel** *bottle* ← English:bottle, French:bouteille, Spanish:botella, Portuguese:botelha, Russian:бутылка (butylka), Hindi:बोतल (botal), Bengali:বোতল (botôl), Malay:botol  
+**botel** *bottle* ← English:bottle, French:bouteille, Spanish:botella, Portuguese:botelha, Russian:бутылка (butylka), Persian: بطری‎ (botri), Hindi:बोतल (botal), Bengali:বোতল (botôl), Malay:botol, Tamil:புட்டி (puṭṭi)  
 **bra** *brother* ← Greek:φράτηρ (phrater), English:brother, Portuguese:brada; bródi, Russian:брат (brat), Persian: برادر‎ (barâdar), Hindi:बिरादर (birādar), Bengali:বেরাদর (beradôr), Malay:bruder, Japanese:ブラザー (burazā), Korean:브라더 (beuradeo), Turkish:birader, Swahili:bradha  
 **brauzer** *browser* ← English:browser, deu:Browser, Russian:браузер (brauzer), Hindi:ब्राउज़र (brauzar), Bengali:ব্রাউজার (brā'ujāra), Japanese:ブラウザ (burauzā)  
 **bravo** *brave (gallant, valiant)* ← English:French:brave, Russian:бравый (braviy), Portuguese:bravo, Arabic:(brāvo)  
@@ -259,8 +259,8 @@
 **dang** *ring (toll, clang)* ← English:dong + Persian: زنگ‎ (zang), Turkish:çan + Mandarin:钟 (zhōng), Cantonese:鐘 (zung1), Korean:종 (jong), Vietnamese:chuông, Khmer:ចួង (cuəng) + Russian:звон (zvon)  
 **danse** *dance* ← English:French:dance, Spanish:danza, Portuguese:dança, deu:Tanz, Russian:танец (taněc), Turkish:dans, Japanese:ダンス (dansu), Korean:댄스 (daenseu), Swahili:dansi  
 **dante** *tooth* ← Spanish:diente, Portuguese:dente, French:dent, English:dental, Hindi:दाँत (dā̃t), Bengali:দাঁত (dãtô), pan:ਦੰਦ (dand), Malay:danta  
-**dara** *flow (current, stream)* ← Hindi:धारा (dhārā), Telugu:ధార (dhāra) + Persian: دریا‎ (daryâ), hin:दर्या (daryā), Bengali:দরিয়া (dôriẏa), Turkish:derya  
 **darba** *strike (punch)* ← Arabic:ضرب‎ (ḍaraba), Swahili:dhurubu, Persian:ضرب (ḍarb) + Russian:уда́рить (udarit’)  
+**dare** *flow (current, stream)* ← Hindi:धारा (dhārā); दर्या (daryā), Telugu:ధార (dhāra) + Persian: دریا‎ (daryâ), Bengali:দরিয়া (dôriẏa), Turkish:derya  
 **darmestadium** *darmstadtium* ← English:darmstadtium, French:darmstadtium, Spanish:darmstatio, Portuguese:darmstádio, Russian:дармштадтий, Mandarin: (dá), Japanese:ダームスタチウム, Korean:다름슈타튬, Vietnamese:darmstadti, Hindi:डार्म्स्टेडशियम, Bengali:ডারমস্টাডটিয়াম, Malay:darmstadtium, Swahili:darmstadti, Arabic: دارمشتاتيوم  
 **darti** *soil (dirt)* ← English:dirt, Hindi:धरती (dhartī), Urdu:(dhartī), Vietnamese:đất, Malay:darat  
 **data** *data (numeric information)* ← English:Malay:data, Vietnamese:đa ta, deu:Daten, Spanish:Filipino:datos, Portuguese:dados, Persian:(dâde-hâ), Hindi:डेटा (ḍeṭā), Urdu:(ḍeṭā), Japanese:データ (dēta)  
@@ -347,6 +347,7 @@
 **Europa** *Europe* ← English:French:Europe, Spanish:Portuguese:deu:Polish:Europa, Greek:Ευρώπη (Evrópi) Russian:Европа (Evropa), Turkish:Avrupa, Swahili:Uropa, Hindi:यूरोप (yūrop), Malay:Eropah, Mandarin:歐洲 (Ōuzhōu), Japanese:ヨーロッパ (yōroppa)  
 **europium** *europium* ← English:europium, French:europium, Spanish:europio, Portuguese:európio, Russian:европий, Japanese:ユウロピウム, Korean:유로퓸, Vietnamese:europi, Hindi:युरोपियम, Bengali:ইউরোপিয়াম, Malay:europium, Swahili:europi, Arabic: يروبيوم  
 **exa** *exa-* ← English:French:Spanish:Portuguese:exa, Russian:экза- (ekza-), Malay:eska-, Mandarin:艾可萨- (àikěsà-), Japanese:エクサ (ekusa), Korean:엑사- (eksa-)  
+**ezmurude** *emerald* ← Greek:σμαράγδι (smarágdi), English:emerald, French:émeraude, Spanish:Portuguese:esmeralda, Japanese:エメラルド (emerarudo), Korean:에메랄드 (emeraldeu), Persian: زمرد (zomorrod), Bengali:জমরুদ (zômrud), Arabic: زُمُرُّد‎ (zumurrud), Swahili:zumaridi, Hausa:zumurrudu, Malay:zamrud, Russian:изумруд (izumrud), Mandarin:祖母绿 (zǔmǔlǜ)  
 **fa argu** *argue (assert, prove, clarify)* ← English:argue, French:arguer, Spanish:argüir, Portuguese:arguir, Russian:аргумент (argument)  
 **fa barka** *congratulate (bless)* ← Hausa:barka, Malay:berkah, Turkish:tebrik, Persian:(tabrik), Arabic:Urdu:(mubārak), Swahili:baraka, Yoruba:alubarika  
 **fa daka** *cover (conceal)* ← Hindi:ढकना (dhaknā), Bengali:ঢাকা (ḍhaka), Punjabi:ਢੱਕਣਾ (ḍhakṇā), deu:decken, English:deck  
@@ -802,7 +803,7 @@
 **krabe** *crab* ← English:crab, deu:Krebs, French:crabe, Russian:краб (krab)  
 **krake** *crack (rift)* ← Cantonese:隙 (gwik1), nan:隙 (kiah4), Japanese:隙 (kyaku), Vietnamese: khích + English:crack, French:craquer, Spanish:crac  
 **kran** *valve (tap, faucet)* ← ned:kraan, Russian:кран (kran), Polish:kran, Malay:keran  
-**krati** *rule (reign, government, -ocracy, -archy)* ← English:-cracy, French:-cratie, Spanish:Portuguese:-cracia, Russian:-кратия (kratiya), Arabic:(-qratiya), Malay:Swahili:-krasi  
+**kratia** *government (rule (reign, -ocracy, -archy)* ← English:-cracy, French:-cratie, Spanish:Portuguese:-cracia, Russian:-кратия (kratiya), Arabic:(-qratiya), Malay:Swahili:-krasi  
 **kree** *create* ← English:create, deu:kreieren, French:créer, Spanish:crear, Portuguese:criar + Malay:kreatif  
 **krem** *cream* ← French:crème, Portuguese:creme, Spanish:crema, English:cream, Japanese:クリーム (kurīmu)  
 **krepe** *pancake* ← French:English:crêpe, Portuguese:crepe, Spanish:crepa, Turkish:krep, Italian:crespella  
@@ -1194,15 +1195,14 @@
 **pinguin** *penguin* ← English:Malay:penguin, Spanish:pingüino, Portuguese:pinguim, Russian:пингвин (pingvin), Turkish:penguen, Hindi:पेंगुइन (peṅguin), Bengali:পেঙ্গুইন (peṅguin), Japanese:ペンギン (pingin)  
 **pinse gi** *pliers (pincers)* ← English:pincers, French:pinces, Turkish:pense, Japanese:ペンチ (penchi)  
 **pipa** *lute* ← Mandarin:琵琶 (pípa), Cantonese:琵琶 (pei4 paa4), Japanese: 琵琶 (biba), Korean:비파 (bipa), Vietnamese:tì bà  
-**pipe** *pipe* ← Spanish:Malay:pipa, English:French:pipe, Persian:(pip), Vietnamese:píp  
+**pipe** *pipe* ← English:French:pipe, deu:Pfeife, Spanish:Malay:pipa, Persian: پیپ‎ (pip), Hindi:पाइप (pāip), Bengali:পাইপ (paip), Japanese:パイプ (paipu), Vietnamese:píp, Turkish:pipo, Arabic: بِيبَة‎‎ (bība)  
 **pipre** *pepper (peppercorn)* ← English:pepper, deu:Pfeffer, Italian:pepe, Bengali:পিপুল (pipul), Mandarin:荜拔 (bìbá), Telugu:పిప్పలి (pippali), Persian:(pelpel), Swahili:pilipili  
 **piram** *pyramid* ← English:pyramid, French:pyramide, Spanish:Portuguese:pirámide, Russian:пирамида (piramida), Hindi:पिरमिड (pirmiḍ),अहराम (ahrām), Bengali:পিরামিড (piramiḍ), Malay:piramida, Japanese:ピラミッド (piramiddo), Korean:피라미드 (piramideu) + Arabic:(haram), Swahili:haram  
-**pirate ja** *pirate (sea robber)* ← English:French:pirate, Spanish:Portuguese:pirata, deu:Pirat, Russian:пират (pirat)  
-**pirate** *piracy* ← English:piracy, Spanish:piratería, Portuguese:pirataria, French:piraterie, deu:Piraterie, Russian:пиратство (piratstvo), Japanese:パイレーシ  
+**pirater** *pirate (sea robber)* ← English:French:pirate, Spanish:Portuguese:pirata, deu:Pirat, Russian:пират (pirat), Japanese:パイレーシ  
 **pisea** *spruce tree* ← Spanish:Portuguese:pícea, French:Épicéa  
 **pistol** *pistol* ← English:pistol, Spanish:Portuguese:pistola, French:pistolet, Russian:пистолет (pitolet), Hindi:पिस्तौल (pistaul), Bengali:পিস্তল (piśtôl)  
-**pixa** *piss (urine)* ← English:piss, French:pisse, Italian:piscia, Hindi:पेशाब (pešāb), Malay:pipis  
-**piza** *pizza* ← Italian:English:French:pizza, Mandarin:比萨 (bǐsà), Russian:пицца (pitsa), Japanese:ピザ (piza), Korean:피자 (pija)  
+**pixe** *piss (urine)* ← English:piss, French:pisse, Italian:piscia, Hindi:पेशाब (pešāb), Malay:pipis  
+**piza** *pizza* ← English:deu:French:Spanish:Turkish:Vietnamese:pizza, Russian:пицца (pitsa), Persian: پیتزا‎ (pitzâ), Hindi:पिज़ा (pizā), Bengali:পিৎজা (pitja), Tamil:பீத்சா (pītcā), Malay:piza, Mandarin:比萨 (bǐsà), Japanese:ピザ (piza), Korean:피자 (pija), Arabic: بِيتْزَا‎ (bītzā)  
 **plan** *plan* ← English:Spanish:French:plan, Portuguese:plano, Russian:план (plan), Persian:پلان‎ (plân), Hindi:प्लैन (plain), Japanese:プラン (puran)  
 **planeta** *planet* ← English:Turkish:Malay:planet, Spanish:Portuguese:planeta, French:planète, Russian:планета (planeta)  
 **plaste** *plastic* ← English:plastic, Spanish:Portuguese:plástico, Russian:пластик (plastik), Turkish:Malay:plastik, Swahili:plastiki, Arabic:بلاستيك (blastīk), Hindi:प्लास्टिक (plāsṭik), Japanese:プラスチック (purasuchikku), Korean:플라스틱 (peullaseutik)  
@@ -1556,6 +1556,7 @@
 **veranda** *veranda (balcony, terrace, porch)* ← Hindi:बरामदा (barāmd), Portuguese:varanda, Malay:beranda, English:veranda, Russian:веранда (veranda), Japanese:ベランダ (beranda), Korean:베란다 (beranda), Swahili:varanda  
 **verme** *worm* ← English:worm, Portuguese:verme, French:ver, deu:Wurm  
 **verse** *turn toward (direct, flip; versus)* ← English:versus, French:verse, Spanish:Portuguese:versar + Russian:версия (versiya), Malay:versi  
+**veruke** *wart* ← English:verruca, French:verrue, Spanish:Portuguese:verruga  
 **vespa** *bee or wasp* ← Spanish:avispa, Portuguese:Italian:vespa, English:wasp, deu:Wespe  
 **veste** *west* ← English:west, deu:West, French:ouest, Spanish:Portuguese:oeste, Russian:вест (vest)  
 **veze** *weight (heft, gravity)* ← Arabic: وَزْن‎ (wazn), Hindi:वज़न (vazan), Bengali:ওজন (ojôn), Kannada:ವಜ್ಜೆ (vajje), Swahili:uzani + Russian:вес (ves) + French:peser, Spanish:Portuguese:peso  
@@ -1625,6 +1626,7 @@
 **xiti** *lose (misplace, miss, shed)* ← Mandarin:失 (shī), Japanese:失 (shitsu), Korean:실 (šil), Vietnamese:thất  
 **xiu** *little (small)* ← Mandarin:小 (xiǎo), Cantonese:小 (siu2), Japanese:小 (shō), Korean:소 (so), Vietnamese:tiểu  
 **xix** *skewer* ← Turkish:şiş + English:shish-, Russian:шиш- (šiš-)  
+**xixa** *vial (phial, flask)* ← Persian: شیشه (šiše), Hindi:शीशा (śīśā), Telugu:సీసా (sīsā), Turkish:şişe, Arabic: شيشة‎ (šīša) + English:shisha, deu:Schischa, French:chicha, Portuguese:xixa  
 **xofer ja** *chauffeur (driver)* ← French:English:deu:chauffeur, Spanish:Portuguese:chofer, Russian:шофёр (šofjor), Polish:szofer, Thai: โชเฟอร์ (chofoe), Turkish:şoför, Persian:(šofer)  
 **xoke** *shock (collision)* ← English:nld:shock, French:choc, Spanish:Portuguese:choque, Turkish:şok, Malay:syok + Mandarin:冲击 (chōngjī), Cantonese:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), Japanese:衝撃 (shōgeki)  
 **xopi** *shopping* ← English:French:Spanish:shopping, Japanese:ショッピング (shoppingu), Korean:쇼핑 (syoping), Thai:ชอปปิ้ง (chop-bing), Russian:шоппинг (šopping), Mandarin:血拼 (xuèpīn)  
@@ -1661,13 +1663,12 @@
 **yutrium** *yttrium* ← English:yttrium, French:yttrium, Spanish:itrio, Portuguese:itrio, Russian:иттрий, Mandarin:钇 (yǐ), Japanese:イットリウム, Korean:이트륨, Vietnamese:ytri, Hindi:इत्रियम, Bengali:ইটরিয়াম, Malay:itrium, Swahili:yitri, Arabic: يتريوم  
 **zai** *exist (presently, currently)* ← Mandarin:在 (zài), Japanese:在 (zai), Vietnamese:tại  
 **zaitun** *olive* ← Arabic:(zaitūn), Spanish:aceituna, Malay:zaitun, Hausa:Swahili:zaituni, Hindi:Urdu:(zaitūn)  
-**zalim** *mean (cruel)* ← Arabic:(ẓālim), Turkish:zalim, Urdu:Hindi:(zālim), Persian:(zālem), Swahili:dhalimu  
+**zalime** *oppress (bully)* ← Arabic: ظَالِم‎ (ẓālim), Persian: ظالم‎ (zâlem), Hindi:ज़ालिम (zālim), Turkish:Malay:zalim, Swahili:dhalimu, Hausa:zalumci  
 **zaman** *time* ← Malay:jam + Arabic: زَمَن‎ (zaman), Swahili:zamani, Turkish:zaman + Hindi:समय (samay), Bengali:সময় (sômyô)  
 **zar** *hazard (chance)* ← Arabic: زَهْر (zahr), Turkish:zar, Persian: زار (zâr) + English:hazard, Spanish:Portuguese:azar  
 **zebra** *zebra* ← English:deu:Portuguese:Turkish:Malay:zebra, French:zèbre, Spanish:cebra, Russian:зебра (zebra), Hindi:ज़ेब्रा (zebrā), Bengali:জেবরা (jebra), Japanese:ゼブラ (zebura)  
 **zelo** *fervour (zeal, passion)* ← Greek:ζῆλος (zêlos), English:zeal; jealous, French:jaloux, Spanish:celos, Portuguese:zelo  
 **zeta** *zetta-* ← English:French:Spanish:Portuguese:zetta-, Malay:zeta-, Japanese:ゼタ- (zeta-), Korean:제타- (jeta-), Mandarin:泽它- (zétā-)  
-**zeyil** *wart* ← Persian:زگیل (zegil), Turkish:siğil, aze:ziyil, fin:syylä  
 **zeze** *fly* ← Swahili:nzi, sot:ntsintsi, Lingala:Kongo:nzinzi, Igbo:ijiji, Yoruba:eṣinṣin + English:tsetse, French:Portuguese:tsé-tsé, Russian:цеце (tsetse), Turkish:çeçe, Mandarin:采采蝇 (cǎicǎiyíng)  
 **zi** *character (written symbol)* ← Mandarin:字 (zì), Japanese:字 (ji), Korean:자 (ja)  
 **zikura** *ziggurat* ← Arabic: زِقُّورَة‎ (ziqqūra), English:Turkish:ziggurat, deu:Zikkurat, French:ziggourat, Spanish:zigurat, Portuguese:zigurate, Russian:зиккурат (zikkurat), Mandarin:金字形神塔, Japanese:ジッグラト (jiggurato), Korean:지구라트 (jigurateu)  
@@ -1680,8 +1681,7 @@
 **zizi** *sizzle* ← Mandarin:zizi English:sizzle  
 **zoku** *continue (go on, keep on, carry on, proceed, still, yet)* ← Wu-Chinese:续 (zoq), Cantonese:續 (zuk6), Japanese:続 (zoku), Korean:속 (sok), Vietnamese:kế tục  
 **zombi** *zombie* ← Kongo:nzambi, English:zombie, Spanish:Turkish:zombi, Portuguese:zumbi, Russian:зомби (zombi), Arabic:زُومْبِي‎ (zūmbī), Hindi:ज़ोंबी (zombī), Japanese:ゾンビ (zonbi), Korean:좀비 (jombi)  
-**zona** *belt (zone)* ← Greek:ζώνη (zónē), English:French:zone, Spanish:Portuguese:zona, Russian:зона (zona)  
+**zone** *belt (zone)* ← Greek:ζώνη (zónē), English:French:zone, Spanish:Portuguese:zona, Russian:зона (zona)  
 **zukam** *cold (illness)* ← Arabic:زُكَام‎ (zukām), Hindi:ज़ुकाम (zukām) + Mandarin:感(冒) (gǎn(mào)), Japanese:感(冒) (kan(bō)), Korean:감(기) (gam(gi)), Vietnamese:cảm  
 **Zukra** *Venus* ← Arabic: الزُّهَرَة‎ (az-zuhara), Swahili:Zuhura, Hausa:Zaharatu, Turkish:Zühre, Persian: زهره‎ (zohre), Urdu: زہرہ‎ (zuhra), Malay:Zuhrah + Hindi:शुक्र (śukra), Bengali:শুক্র (śukr), Burmese:သောကြာ (sau:kra), Thai:ศุกร์ (sùk)  
 **zuku** *ethnic group* ← Mandarin:族 (zú), Cantonese:族 (zuk6), Japanese:族 (zoku), Korean:족 (jok), Vietnamese:tộc  
-**zumarde** *emerald* ← English:emerald, French:émeraude, Spanish:Portuguese:esmeralda, Japanese:エメラルド (emerarudo) + Arabic: زُمُرُّد‎ (zumurrud), Swahili:zumaridi, Malay:zamrud, Russian:изумруд (izumrud), Mandarin:祖母绿 (zǔmǔlǜ)  

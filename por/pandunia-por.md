@@ -357,7 +357,8 @@ dang gi - sino (campainha)
 danse - baile (danza)  
 Danske - danês  
 dante hin - desdentado  
-dara tubo - funil  
+daria - corpo de água  
+dare tube - funil  
 darmestadium - darmstádio  
 data - dados  
 data banke - banco de dados  
@@ -458,6 +459,7 @@ eu anjil - evangelho
 eu loga - elogio  
 europium - európio  
 europa baluta - carvalho-roble  
+ezmurude - esmeralda  
 
 ## F  
 
@@ -992,9 +994,9 @@ korte kata - conto
 korte krokodil - aligátor (jacaré)  
 kosme - cosmo  
 kosmobiolojia - astrobiologia  
-kosmo di - cósmico  
-kosmo nave - nave espacial  
-kosmo nave ja - cosmonauta  
+kosmike - cósmico  
+kosmonave - nave espacial  
+kosmonaver - cosmonauta  
 kotumbar - coentro  
 krake - rachadura  
 kree - criar  
@@ -1488,13 +1490,17 @@ pin - alfinete
 pin cope - picareta  
 pin kardon - acanto-bastardo  
 pinse bano - prancheta  
+pipe - cachimbo  
 pipa - alaúde  
 pipa frute - nêspera  
 pipre - pimenta  
 pipre minta - hortelã-pimenta  
 piram - pirâmida  
-pirate - pirataria  
+pirater - pirata  
+pirateria - pirataria  
 pisea - pícea (espruce)  
+piza - piza  
+pizaria - pizaria  
 • aplike - aplicar  
 plan - plano  
 plastike - plástico  
@@ -1728,6 +1734,7 @@ sui - água
 sui gas - vapor  
 sui minta - hortelã-da-água  
 sui yau - sede  
+sui pipe - narguilé (xixa)  
 Suise - Suíça  
 suka - feliz  
 sukar - açúcar  
@@ -1888,6 +1895,7 @@ veranda - sacada (varanda)
 verme - verme  
 vermute - vermute  
 verse - encarar (afrontar; vérsus)  
+veruke - verruga  
 vespa - abelha ou vespa  
 veze di - pesado  
 vide - ver  
@@ -1953,6 +1961,7 @@ xiu - pequeno
 xiu kaboga - abobrinha  
 xiu seku - pedrinha  
 xiva - Xiva  
+xixa pipe - xixa (narguilé)  
 xofer ja - condutor (chofer, motorista)  
 xopi - compras  
 xukre - obrigado  
@@ -2001,12 +2010,12 @@ yutrium - itrio
 ## Z  
 
 zai zaman di - corrente (atual)  
+zalimive - tirânico (cruel)  
 zaman - tempo  
 • prezaman di - velho (antigo)  
 zar kube - dado  
 zarduxtan mager - mago  
 zebra - zebra  
-zeyil - verruga  
 zi - caractere  
 zikura - zigurate  
 zinke - zinco  
@@ -2014,9 +2023,8 @@ zira - cominho
 zirkonium - zircónio  
 zoku - ainda  
 zombi - zumbi  
-zona - zona  
+zone - zona  
 Zukra - Vénus  
 zukraden - sexta-feira  
 zuku - etnia  
 zuku di - étnico  
-zumarde - esmeralda  

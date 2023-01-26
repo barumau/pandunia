@@ -251,7 +251,7 @@ bon sin di - 吉利的
 bon vide di - 好看  
 boron - 硼  
 botel - 瓶  
-botel tapa - 瓶盖  
+botel tape - 瓶盖  
 bra doh - 侄女 (姪女)  
 bra son - 姪 (侄)  
 Brahma - 梵天  
@@ -344,7 +344,7 @@ dana.cau - 小米
 dang gi - 钟 (摇铃)  
 Danske - 丹麦的  
 dante baluta - 槲树  
-dara tubo - 漏斗  
+dare tube - 漏斗  
 data - 数据  
 data banke - 数据库  
 data culi - 数据处理  
@@ -441,6 +441,7 @@ etil - 乙基
 eu anjil - 福音  
 europium - 铕  
 europa baluta - 夏櫟  
+ezmurude - 绿宝石 (祖母绿)  
 
 ## F  
 
@@ -948,9 +949,9 @@ korte kata - 短篇小说
 korte krokodil - 短吻鳄  
 kosme - 宇宙  
 kosmobiolojia - 太空生物学  
-kosmo di - 宇宙的  
-kosmo nave - 太空船  
-kosmo nave ja - 太空人  
+kosmike - 宇宙的  
+kosmonave - 太空船  
+kosmonaver - 太空人  
 kotumbar - 香菜 (芫荽)  
 krake - 裂缝 (缝隙)  
 kreater - 创作者  
@@ -1379,12 +1380,14 @@ pilau - 抓饭
 pin - 别针  
 pin cope - 镐  
 pin kardon - 大翅蓟  
+pipe - 烟斗  
 pipa - 琵琶  
 pipa frute - 枇杷  
 pipre - 胡椒  
 pipre minta - 辣薄荷  
 piram - 金字塔  
 pisea - 云杉  
+piza - 比萨饼  
 • aplike - 运用  
 plate geo kaskalogi - 板块构造论  
 plate stan - 平原  
@@ -1592,6 +1595,7 @@ sui gui - 水怪
 sui kaboga - 葫芦  
 sui minta - 水薄荷  
 sui yau - 口渴  
+sui pipe - 水烟袋  
 Suise - 瑞士  
 suka - 高兴  
 sukar - 糖  
@@ -1740,6 +1744,7 @@ veranda - 阳台
 • exverse - 外向的  
 • extraverse - 外向的  
 • intraverse - 内向的  
+veruke - 疣  
 vespa - 蜂  
 veze di - 重型的  
 vide - 看  
@@ -1797,6 +1802,7 @@ xiu seku - 砾石
 xiva - 湿婆  
 xix - 扦子  
 xix karne - 串烧  
+xixa pipe - 水烟袋  
 xofer ja - 司机  
 xopi - 购物 (血拼)  
 xukre - 谢谢  
@@ -1852,7 +1858,6 @@ zaman - 时间
 • prezaman di - 古老 (以前)  
 zar kube - 骰子 (色子)  
 zebra - 斑马  
-zeyil - 疣  
 zeze - 双翅目  
 zi - 字  
 zi seri - 字母表  
@@ -1863,4 +1868,3 @@ zirkonium - 锆
 zoku - 还 (依然)  
 zukraden - 星期五 (禮拜五)  
 zuku - 民族  
-zumarde - 绿宝石 (祖母绿)  

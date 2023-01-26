@@ -304,7 +304,7 @@ bori di - enui
 boron - boro  
 Bote - Tibeto  
 botel - botelo  
-botel tapa - botelfermilo  
+botel tape - botelfermilo  
 bra - frato  
 Brahma - Bramo  
 bravo - brava  
@@ -548,6 +548,7 @@ Europa - Eŭropo
 europa di - Eŭropa  
 Europa Unta - Eŭropa Unio (EU)  
 exgogia - fremda lando  
+ezmurude - smeraldo  
 
 ## F  
 
@@ -1187,13 +1188,14 @@ korona virus - krunviruso
 korte - mallonga  
 korte fa - mallongigi  
 korte kata - novelo  
-kosmo nave ja - kosmonaŭto  
+kosmonaver - kosmonaŭto  
 koso - tuso  
 kote - palto  
 kotumbar - koriandro  
 krabe - krabo  
 kran - krano (valvo)  
-krati - regi  
+krate - regi  
+kratia - regado  
 kree - krei  
 kreater - kreinto  
 kreative - kreema  
@@ -1655,12 +1657,13 @@ pilau - pilafo
 pin - nadlo (pinglo, pikilo)  
 pinguin - pingveno  
 pinse gi - pinĉilo  
+pipe - pipo  
 pipa - liuto  
 pipre - pipro  
 piram - piramido  
-pixa - piso (urino)  
+pixe - piso (urino)  
 piza - pico  
-pizakan - picejo  
+pizaria - picejo  
 platin - plateno  
 plumbe - plumbo  
 plutonium - plutonio  
@@ -1912,6 +1915,7 @@ sui - akvo
 sui di - akva  
 sui gas - vaporo  
 sui yau - soifo  
+sui pipe - akvopipo  
 Suise - Svislando  
 suka - feliĉa (ŝati)  
 sukar - sukero  
@@ -2065,6 +2069,7 @@ ver - vera
 veranda - verando (balkono)  
 vermute - vermuto  
 version - versio  
+veruke - veruko  
 vespa - abelo aŭ vespo  
 veze - pezo  
 veze di - peza  
@@ -2137,6 +2142,7 @@ xiu seku - ŝtoneto
 xiu siti - urbeto  
 xiva - Ŝivo  
 xix karne - ŝaŝliko  
+xixa pipe - akvopipo  
 xofer ja - ŝoforo (kondukisto)  
 xopi ja - aĉetanto (aĉetisto)  
 xou - montri (ekspozicii)  
@@ -2207,17 +2213,15 @@ Zarduxte - Zoroastro
 zarduxtisme - zoroastrismo  
 zarduxtiste - zoroastristo  
 zebra - zebro  
-zeyil - veruko  
 zi seri - alfabeto  
 zina - malfideleco  
 zinke - zinko  
 zira - kumino  
 zirkonium - zirkonio  
 zoku - ankoraŭ  
-zona - zono  
+zone - zono  
 zukraden - vendredo  
 zuku - etno  
 zuku di - etna  
 zuku medi di - interetna  
 Zulu - zuluo  
-zumarde - smeraldo  

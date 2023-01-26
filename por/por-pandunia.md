@@ -270,6 +270,7 @@ cabelo - kapa kexa
 cabeça - kapa  
 cabine - bude  
 cabine telefônica - tele fon bude  
+cachimbo - pipe  
 cacto - katus  
 cadeado - pende sor  
 cadeia - serser  
@@ -461,12 +462,13 @@ corda (cabo) - kable
 corno - korne  
 coro - ganir grupe  
 corpo - badan  
+corpo de água - daria  
 corredor - kore ja  
 corrente (atual) - zai zaman di  
 correr - kore  
 correto (justo) - sahi  
 cosmo - kosme  
-cosmonauta - kosmo nave ja  
+cosmonauta - kosmonaver  
 costa - bahai kinar  
 costume (hábito) - ada  
 cotovelo - kudi  
@@ -515,7 +517,7 @@ cério - ceresium
 césio - cesium  
 céu - sama  
 cópia - kopi  
-cósmico - kosmo di  
+cósmico - kosmike  
 cômico - komike  
 cúbito (côvado) - kudi metri  
 cúrio - kurium  
@@ -673,7 +675,7 @@ escândio - skandium
 esfarrapado - cira cira di  
 esgrima - gem suta  
 eslavo - Slave  
-esmeralda - zumarde  
+esmeralda - ezmurude  
 espada - gem  
 espaço - hali zi  
 espelho - mira plate  
@@ -794,7 +796,7 @@ frâncio - fransium
 fulano - xi Fulan  
 fumo - dum  
 fungo - fungu  
-funil - dara tubo  
+funil - dare tube  
 função - funtion  
 furar (perfurar) - fora  
 futebol - fute bol  
@@ -1242,10 +1244,11 @@ música - muzika
 ## N  
 
 nadar (flutuar) - be boi  
+narguilé (xixa) - sui pipe  
 nascer - nate  
 natureza - nature  
 nautiloide - nautile  
-nave espacial - kosmo nave  
+nave espacial - kosmonave  
 nação - nasia  
 necessidade - yauta  
 necessário - yau di  
@@ -1440,9 +1443,12 @@ pinheiro - songi
 pintura - pente  
 piolho - kutu  
 piquenique - vai yam  
-pirataria - pirate  
+pirata - pirater  
+pirataria - pirateria  
 pirâmida - piram  
 pistão - pompe tape  
+piza - piza  
+pizaria - pizaria  
 plano - plan  
 planta (vegetal) - fite  
 platina - platin  
@@ -1828,6 +1834,7 @@ tigre - bagre
 tijolo - tege  
 tinta - kalam sui  
 tio - cin bra  
+tirânico (cruel) - zalimive  
 titânio - titanium  
 toalha - tuale  
 toalha de mesa - meza tela  
@@ -1932,7 +1939,7 @@ verdura - coi
 verme - verme  
 vermelho - rubi  
 vermute - vermute  
-verruga - zeyil  
+verruga - veruke  
 verão - garma mosim  
 vestir - fa fuku  
 vez - mar  
@@ -1975,6 +1982,7 @@ xiismo - xia islam din
 xilitol - xilitol  
 xilose - xilos  
 Xiva - xiva  
+xixa (narguilé) - xixa pipe  
 xénon - xenon  
 
 ## Y  
@@ -1988,7 +1996,7 @@ zero - siro
 zigurate - zikura  
 zinco - zinke  
 zircónio - zirkonium  
-zona - zona  
+zona - zone  
 zoologia - hevan lojia  
 zoológico - hevan bagi  
 zoológico - hevan lojia di  

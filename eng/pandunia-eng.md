@@ -442,7 +442,6 @@ be boli - boil (be boiled)
 be bum - explode (blow up)  
 be cen - predate (be before)  
 be dai - grow (get bigger, inflate, swell)  
-be dara - flow  
 be dom - live in (reside in, inhabit)  
 be duka - grieve  
 be dura - last (take time; during)  
@@ -610,7 +609,7 @@ boron - boron
 Bosna i Hercegovina - Bosnia and Herzegovina  
 Bote - Tibet  
 botel - bottle  
-botel tapa - bottle cap  
+botel tape - bottle cap  
 bra - brother  
 bra doh - fraternal niece  
 bra son - fraternal nephew  
@@ -815,18 +814,19 @@ dante baluta - daimyo oak
 dante broxa - tooth brush  
 dante dava ja - dentist  
 dante hin - toothless  
-dante kumu - alveolar ridge (gum ridge)  
-dara - flow (current, stream)  
-dara mate - liquid  
-dara mate di - fluid (liquid)  
-dara tubo - funnel  
+dante kume - alveolar ridge (gum ridge)  
+dare - flow (current, stream)  
+daraje - liquid  
+daria - body of water (sea, lake, river)  
+darike - fluid (liquid)  
+dare tube - funnel  
 darba - strike (punch)  
 darmestadium - darmstadtium  
 darti - soil (dirt)  
 darti bon ja - fertilizer  
 darti di - soily (dirty)  
-darvin sim - Darwinism  
-darvin sim ja - Darwinist  
+darvinisme - Darwinism  
+darviniste - Darwinist  
 data - data (numeric information)  
 data banke - database (databank)  
 data culi - data processing  
@@ -1105,6 +1105,7 @@ exgogia - foreign country
 exgogike - foreign  
 extre - outward (external)  
 exa - exa-  
+ezmurude - emerald  
 
 ## F  
 
@@ -2523,9 +2524,9 @@ korte krokodil - alligator
 kosi - sew  
 kosme - space (cosmos, universe)  
 kosmobiolojia - astrobiology  
-kosmo di - cosmic  
-kosmo nave - spaceship  
-kosmo nave ja - cosmonaut  
+kosmike - cosmic  
+kosmonave - spaceship  
+kosmonaver - cosmonaut  
 koso - cough  
 Kosovo - Kosovo  
 Kosta Rika - Costa Rica  
@@ -2537,7 +2538,8 @@ kotumbar - coriander
 krabe - crab  
 krake - crack (rift)  
 kran - valve (tap, faucet)  
-krati - rule (reign, government, -ocracy, -archy)  
+krate - govern (rule. reign)  
+kratia - government (rule (reign, -ocracy, -archy)  
 kree - create  
 kreater - creator  
 kreatia - creation (all which exists)  
@@ -3615,24 +3617,24 @@ pinguin - penguin
 pinse - pinch  
 pinse bano - clipboard (physical board)  
 pinse gi - pliers (pincers)  
+pipe - pipe  
 pipa - lute  
 pipa frute - loquat  
-pipe - pipe  
 piping - evaluation (criticism)  
 piping ja - critic  
 pipre - pepper (peppercorn)  
 pipre minta - peppermint  
 piram - pyramid  
-pirate - piracy  
-pirate ja - pirate (sea robber)  
-pirate parti - Pirate Party  
-pirate sim ja - pirate (one who disobeys intellectual property laws)  
+pirater - pirate (sea robber)  
+pirateria - piracy  
+piratisme - pirate (one who disobeys intellectual property laws)  
+pirate partia - Pirate Party  
 pisea - spruce tree  
 pistol - pistol  
 Pitkerne nesi - Pitcairn Islands  
-pixa - piss (urine)  
+pixe - piss (urine)  
 piza - pizza  
-pizakan - pizzeria  
+pizaria - pizzeria  
 ple - fold (layer)  
 • aplike - apply (put sth on sth else)  
 • konplike - complicated  
@@ -4246,6 +4248,7 @@ sui minta - watermint
 sui rang - watercolor  
 sui sekur di - waterproof  
 sui yau - thirst  
+sui pipe - waterpipe (hookah, shisha)  
 Suise - Switzerland  
 suka - enjoy (like, be happy, be fond of; pleased, delighted, happy)  
 sukafa - please (satisfy, delight)  
@@ -4650,6 +4653,7 @@ vermute - vermouth
 • reverse - reverse (invert, direct back; backwards)  
 verse - turn toward (direct, flip; versus)  
 version - version (variation, edition)  
+veruke - wart  
 vespa - bee or wasp  
 vespa nide - bee nest (beehive, wasp's nest)  
 veste - west  
@@ -4800,6 +4804,8 @@ xiva - Shiva
 xix - skewer  
 xix kababu - shish kebab  
 xix karne - shashlik  
+xixa - vial (phial, flask)  
+xixa pipe - waterpipe (hookah, shisha)  
 xofer ja - chauffeur (driver)  
 xoke - shock (collision)  
 xopi - shopping  
@@ -4901,9 +4907,10 @@ zaita - presence (existence)
 zai zaman - present time (now)  
 zai zaman di - current (contemporary, present-day)  
 zaitun - olive  
-zalim - mean (cruel)  
-zalim raja - tyrant (despot)  
-zalimta - cruelty (tyranny, despotism)  
+zalime - oppress (bully)  
+zalimer - oppressor (tyrant, despot, dictator)  
+zalimia - cruelty (tyranny, despotism)  
+zalimive - oppressive (despotic, tyrannical, cruel)  
 zaman - time  
 • prezaman - past times  
 • prezaman di - old (ancient, former)  
@@ -4919,7 +4926,6 @@ zarduxtiste - Zoroastrian
 zebra - zebra  
 zelo - fervour (zeal, passion)  
 zeta - zetta-  
-zeyil - wart  
 zeze - fly  
 zi - character (written symbol)  
 zi forma - font  
@@ -4937,7 +4943,7 @@ ziza - zigzag
 zizi - sizzle  
 zoku - continue (go on, keep on, carry on, proceed, still, yet)  
 zombi - zombie  
-zona - belt (zone)  
+zone - belt (zone)  
 zukam - cold (illness)  
 Zukra - Venus  
 zukraden - Friday  
@@ -4945,4 +4951,3 @@ zuku - ethnic group
 zuku di - ethnic  
 zuku medi di - interethnic  
 Zulu - Zulu  
-zumarde - emerald  

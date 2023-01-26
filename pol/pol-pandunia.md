@@ -118,7 +118,7 @@
  - boli varis  
  - bolte  
  - bon rai  
- - botel tapa  
+ - botel tape  
  - bra  
  - bra doh  
  - bra son  
@@ -158,8 +158,8 @@
  - damimen  
  - dan  
  - dana.cau  
- - dante kumu  
- - dara  
+ - dante kume  
+ - daria  
  - data culi  
  - data fen lize  
  - dau bano  
@@ -517,8 +517,9 @@
  - konputeral  
  - kore ja  
  - korte kata  
- - kosmo nave  
  - kosmobiolojia  
+ - kosmonave  
+ - krate  
  - kreater  
  - kreatia  
  - kredibil  
@@ -821,6 +822,7 @@
  - suan mate  
  - sui culi  
  - sui gui  
+ - sui pipe  
  - sukaros  
  - sulfide  
  - sulfite  
@@ -941,6 +943,8 @@
  - xiu deha  
  - xiu siti  
  - xiu zi  
+ - xixa  
+ - xixa pipe  
  - xula  
  - xula kamar  
  - Yahve  
@@ -963,6 +967,7 @@
  - you jen  
  - you nen  
  - youta  
+ - zalime  
  - zarduxtan mager  
  - zelo  
  - zeta  
@@ -1411,7 +1416,7 @@ Boże Narodzenie - kristogene
 brawo (gratulacje) - bravo  
 Brazyla - Brazil  
 broda - barde  
-brodawka - zeyil  
+brodawka - veruke  
 brokuł - brokoli  
 brom - brom  
 broń - vuki  
@@ -1530,9 +1535,9 @@ ciało stałe - gati mate
 cichy - tix  
 cichy - xux di  
 ciecierzyca - humus  
-ciecz (płyn) - dara mate  
+ciecz (płyn) - daraje  
 ciekawy - san vol ja  
-ciekły (płynny) - dara mate di  
+ciekły (płynny) - darike  
 cielesny - badan di  
 ciemny, słabo oświetlony - oskur  
 ciepły - garma  
@@ -1622,8 +1627,8 @@ dane - data
 Dania - Danske gogia  
 danie - tasa  
 darmsztadt - darmestadium  
-darwinista - darvin sim ja  
-darwinizm - darvin sim  
+darwinista - darviniste  
+darwinizm - darvinisme  
 data - nen mes den  
 dać mieszkanie (zakwaterować) - fa dom  
 dać, dawać - don  
@@ -2392,8 +2397,8 @@ korona - korona
 koronawirus - korona virus  
 korzeń - mula  
 korzystny (dobry) - eu  
-kosmiczny - kosmo di  
-kosmonauta - kosmo nave ja  
+kosmiczny - kosmike  
+kosmonauta - kosmonaver  
 kosmos, wszechświat - kosme  
 Kosowo - Kosovo  
 Kostaryka - Kosta Rika  
@@ -2511,13 +2516,13 @@ las wodorostów - alga jangal
 las, dżungla, zagajnik - jangal  
 latarnia - hogo sanduku  
 latarnia morska - foto minar  
-latać (fruwać) - be dara  
+latać (fruwać) - dare  
 latać, lecieć - fa fei  
 lato - garma mosim  
 laudacja - eu loga  
 lawa - fuzi petra  
 lazania - lazanya  
-lejek - dara tubo  
+lejek - dare tube  
 lekcja - xula xe  
 lekki - legu veze di  
 leksem - lexime  
@@ -3188,11 +3193,11 @@ parasol - sol cati
 park (ogród) - parke  
 parking - car parke  
 partia - partia  
-Partia Piratów - pirate parti  
+Partia Piratów - pirate partia  
 partner - partaner  
 Paryż - Paris  
 parę - du o tri  
-pas, strefa - zona  
+pas, strefa - zone  
 paskal (Pa) - paskal  
 pasować - kon bon  
 pasta - pasta  
@@ -3255,10 +3260,10 @@ pilot - pilote
 pingwin - pinguin  
 pionowy - gau dipe  
 piorun (grom) - eletrorade  
-piractwo - pirate  
+piractwo - pirateria  
 piramida - piram  
-pirat - pirate ja  
-pirat (osoba naruszająca prawa własności intelektualnej) - pirate sim ja  
+pirat - pirater  
+pirat (osoba naruszająca prawa własności intelektualnej) - piratisme  
 pirotechnika - hogo tehni  
 pismo, tekst - kitaba  
 pistolet - pistol  
@@ -3267,7 +3272,7 @@ Pitcairn - Pitkerne nesi
 piwo - bir  
 piwonia - mudan  
 pizza - piza  
-pizzeria - pizakan  
+pizzeria - pizaria  
 pióro - pena  
 pióro, długopis - kalam  
 piątek - zukraden  
@@ -3766,7 +3771,7 @@ Rzym - Roma
 rząd - polite  
 rządzić - fa politi  
 rządzić, władać - fa sultan  
-rządzić, władać - krati  
+rządzić, władać - kratia  
 rzęsa - yen kexa  
 róg - korne  
 róg - laba  
@@ -3853,7 +3858,7 @@ Sierra Leone - Sera Leone
 sikać, szczać, oddawać mocz - fa pix  
 sikh - siki din ja  
 sikhizm - siki din  
-siki - pixa  
+siki - pixe  
 silnik - moto  
 silny - bala  
 Singapur - Singapur  
@@ -4054,7 +4059,7 @@ szkoła (instytucja) - xulakan
 szkoła podstawowa - baze xulekan  
 szkło - glas  
 szkło wulkaniczne - hogo xan glas  
-szmaragd - zumarde  
+szmaragd - ezmurude  
 szofer (kierowca) - xofer ja  
 szogun - ordu raja  
 szogunat - ordu rajia  
@@ -4265,8 +4270,8 @@ tykwa pospolita (kabalasz) - sui kaboga
 tylko (jedyny, wyłączny) - un di  
 tylko (precyzyjny, dokładny) - juste  
 typ (rodzaj, gatunek, styl) - tipe  
-tyran - zalim raja  
-tyrania - zalimta  
+tyran - zalimer  
+tyrania - zalimia  
 tysiąc (kilo-) - kilo  
 tytan - titanium  
 tytoń - tabaku  
@@ -4776,7 +4781,7 @@ złocień indyjski - nafte guku
 złodziej - cori ja  
 złoto - auro  
 złowieszczy - dus sin di  
-złośliwy, okrutny - zalim  
+złośliwy, okrutny - zalimive  
 zły (wsciekły, gniewny) - furi  
 zły los - dus zar  
 zły, zrujnowany, zepsuty - harabu  

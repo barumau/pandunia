@@ -307,7 +307,7 @@ dan - 段 (等)
 dang gi - 鐘 (鈴)  
 Danske - デンマークの  
 dante baluta - カシワ  
-dara tubo - 漏斗  
+dare tube - 漏斗  
 darmestadium - ダームスタチウム  
 darti - 土  
 data culi - データ処理  
@@ -411,6 +411,7 @@ etanol - エタノール
 eu loga - 賛辞  
 europium - ユウロピウム  
 europa baluta - ヨーロッパナラ  
+ezmurude - エメラルド  
 
 ## F  
 
@@ -930,7 +931,7 @@ kore - 走る (疾走する)
 korne melon - ツノニガウリ  
 korte kata - 短編小説  
 korte krokodil - アリゲーター  
-kosmo nave - 宇宙船  
+kosmonave - 宇宙船  
 krake - 隙間 (ひび)  
 kreater - 創造者  
 kreatia - 万物  
@@ -1360,11 +1361,13 @@ pike - 先
 pin - 針 (刺, ピン)  
 pin kardon - ゴロツキアザミ  
 pinse bano - 用箋挟  
+pipe - パイプ  
 pipa - 琵琶  
 pipa frute - 枇杷  
 pipre minta - ペパーミント  
 piram - ピラミッド (金字塔)  
 pisea - トウヒ  
+piza - ピザパイ  
 plate di - 平ら  
 plate geo kaskalogi - プレートテクトニクス (プレート理論)  
 plate stan - 草原  
@@ -1586,6 +1589,7 @@ sui - 水
 sui gas - 湯気  
 sui kaboga - ヒョウタン (ひさご)  
 sui yau - 喉の渇き  
+sui pipe - 水パイプ  
 Suise - スイス  
 suka - 幸せな  
 sukar - 砂糖  
@@ -1733,6 +1737,7 @@ veranda - ベランダ (バルコニー, 縁側)
 • extraverse - 外向的な  
 • intraverse - 内向的な人  
 • reverse - 逆らう  
+veruke - 疣  
 vespa - 蜂  
 vespa nide - 蜂の巣  
 veste gorila - ニシゴリラ  
@@ -1795,6 +1800,7 @@ xiu kaboga - ズッキーニ
 xiu seku - 小石  
 xiu zi - 小文字  
 xiva - シヴァ  
+xixa pipe - 水パイプ  
 xukre - ありがとう (どうも)  
 xula - 教育  
 xula guru - 先生 (教師)  
@@ -1849,12 +1855,11 @@ zai - ある (いる)
 zai den - 今日  
 zai zaman - 今 (現在)  
 zai zaman di - 現行  
-zalim raja - 暴君  
+zalimer - 暴君  
 zaman - 時間  
 • prezaman di - 古い  
 zar kube - 賽子  
 zebra - 縞馬  
-zeyil - 疣  
 zeze - ハエ目 (双翅目)  
 zi - 字  
 zi forma - フォント (字体)  

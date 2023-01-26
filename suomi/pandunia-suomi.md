@@ -430,7 +430,6 @@ be boli - kiehua
 be bum - räjähtää  
 be cen - edeltää (olla ennen)  
 be dai - kasvaa (suurentua)  
-be dara - virrata  
 be dom - asua  
 be duka - surra (murehtia)  
 be dura - kestää (viedä aikaa)  
@@ -597,7 +596,7 @@ boron - boori
 Bosna i Hercegovina - Bosnia ja Hertsegovina  
 Bote - Tiibet  
 botel - pullo  
-botel tapa - pullonkorkki  
+botel tape - pullonkorkki  
 bra - veli  
 bra doh - veljentytär  
 bra son - veljenpoika  
@@ -790,18 +789,19 @@ dante baluta - hammastammi
 dante broxa - hammasharja  
 dante dava ja - hammaslääkäri  
 dante hin - hampaaton  
-dante kumu - hammasvalli  
-dara - virta (virtaus)  
-dara mate - neste  
-dara mate di - nestemäinen  
-dara tubo - lappo  
+dante kume - hammasvalli  
+dare - virrata (virta, virtaus)  
+daraje - neste  
+daria - vesistö (meri, järvi, joki)  
+darike - nestemäinen  
+dare tube - lappo  
 darba - lyödä (iskeä)  
 darmestadium - darmstadtium  
 darti - maa (maa-aines)  
 darti bon ja - lannoite  
 darti di - likainen (mutainen)  
-darvin sim - darwinismi  
-darvin sim ja - darwinisti  
+darvinisme - darwinismi  
+darviniste - darwinisti  
 data - data (numeerinen tieto)  
 data banke - tietokanta  
 data culi - tietojenkäsittely  
@@ -1060,6 +1060,7 @@ exgogia - ulkomaa
 exgogike - ulkomaalainen  
 extre - ulkoinen  
 exa - eksa-  
+ezmurude - smaragdi  
 
 ## F  
 
@@ -2364,9 +2365,9 @@ korte kata - novelli
 kosi - ommella  
 kosme - avaruus (kosmos)  
 kosmobiolojia - astrobiologia  
-kosmo di - kosminen  
-kosmo nave - avaruusalus  
-kosmo nave ja - avaruusmatkaaja (kosmonautti)  
+kosmike - kosminen  
+kosmonave - avaruusalus  
+kosmonaver - avaruusmatkaaja (kosmonautti)  
 koso - yskä  
 Kosovo - Kosovo  
 Kosta Rika - Costa Rica  
@@ -2376,7 +2377,8 @@ Kote de Ivar - Norsunluurannikko
 kotumbar - korianteri  
 krabe - rapu (taskurapu)  
 kran - hana (venttiili, kraana)  
-krati - valta  
+krate - hallita  
+kratia - hallinta  
 kree - luoda  
 kreater - luoja  
 kreatia - luomakunta  
@@ -3307,22 +3309,22 @@ pin sense di - pisteliäs (pikantti)
 pinguin - pingviini  
 pinse - nipistää  
 pinse gi - pihdit  
+pipe - piippu  
 pipa - luuttu  
 pipa frute - japaninmispeli  
-pipe - piippu  
 piping - arvio (arvostelu, kritiikki)  
 piping ja - arvostelija (kriitikko)  
 pipre - pippuri  
 piram - pyramidi  
-pirate - merirosvous  
-pirate ja - merirosvo (piraatti)  
-pirate parti - piraattipuolue  
-pirate sim ja - piraatti (joka ei kunnioita tekijänoikeuksia)  
+pirater - merirosvo (piraatti)  
+pirateria - merirosvous  
+piratisme - piraatti (joka ei kunnioita tekijänoikeuksia)  
+pirate partia - piraattipuolue  
 pistol - pistooli  
 Pitkerne nesi - Pitcairn  
-pixa - virtsa (pissa, kusi)  
+pixe - virtsa (pissa, kusi)  
 piza - pitsa (pizza)  
-pizakan - pitseria  
+pizaria - pitseria  
 ple - kerta (kerros, monikerta)  
 • aplike - kerrostaa  
 • konplike - monikerroksinen (monimutkainen)  
@@ -3846,6 +3848,7 @@ sui gas - höyry (vesihöyry)
 sui rang - vesiväri (akvarelliväri)  
 sui sekur di - vesitiivis  
 sui yau - jano  
+sui pipe - vesipiippu  
 Suise - Sveitsi  
 suka - tykätä (pitää, olla tyytyväinen jstkn; tyytyväinen, iloinen)  
 sukafa - ilostuttaa (tyydyttää)  
@@ -4220,6 +4223,7 @@ vermute - vermutti
 • reverse - taaksepäin  
 verse - kohti (päin)  
 version - versio (käännös, muunnelma)  
+veruke - syylä  
 vespa - mehiläinen tai ampiainen  
 vespa nide - mehiläispesä  
 veste - länsi  
@@ -4360,6 +4364,8 @@ xiva - Šiva
 xix - varras  
 xix kababu - varraskebab  
 xix karne - saslik  
+xixa - puteli  
+xixa pipe - vesipiippu  
 xofer ja - kuski (ajuri, ajaja)  
 xoke - isku (šokki)  
 xopi - ostokset  
@@ -4455,9 +4461,10 @@ zaita - läsnäolo
 zai zaman - tämä hetki (nyt)  
 zai zaman di - nykyinen (tämänhetkinen)  
 zaitun - oliivi  
-zalim - ilkeä (julma)  
-zalim raja - tyranni  
-zalimta - tyrannia  
+zalime - alistaa  
+zalimer - tyranni  
+zalimia - tyrannia  
+zalimive - ilkeä (julma)  
 zaman - aika  
 • prezaman - menneisyys  
 • prezaman di - vanha (muinainen)  
@@ -4472,7 +4479,6 @@ zarduxtisme - zarathustralaisuus
 zarduxtiste - zarathustralainen  
 zebra - seepra  
 zelo - into (kiihko)  
-zeyil - syylä  
 zeze - kaksisiipinen  
 zi - kirjoitusmerkki  
 zi seri - aakkoset (ABC)  
@@ -4489,7 +4495,7 @@ ziza - siksakki
 zizi - sihistä  
 zoku - vielä (yhä, jatkua)  
 zombi - zombi  
-zona - vyö  
+zone - vyö  
 zukam - vilustuminen  
 Zukra - Venus  
 zukraden - perjantai  
@@ -4497,4 +4503,3 @@ zuku - kansanryhmä (etninen ryhmä)
 zuku di - etninen  
 zuku medi di - kansanryhmien välinen  
 Zulu - zulu  
-zumarde - smaragdi  

@@ -216,7 +216,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**bori di**|eng:bored, spa:aburrido, hin:(bhorī)|
 |**boron**|eng:boron, fra:boron, spa:boro, por:boro, rus:бор, vie:bo, hin:बोरॉन्, ben:বোরন, may:boron, swa:boroni, ara: بورون|
 |**Bote**|tib:བོད (bod, phø)|
-|**botel**|eng:bottle, fra:bouteille, spa:botella, por:botelha, rus:бутылка (butylka), hin:बोतल (botal), ben:বোতল (botôl), may:botol|
+|**botel**|eng:bottle, fra:bouteille, spa:botella, por:botelha, rus:бутылка (butylka), fas: بطری‎ (botri), hin:बोतल (botal), ben:বোতল (botôl), may:botol, tam:புட்டி (puṭṭi)|
 |**bra**|ell:φράτηρ (phrater), eng:brother, por:brada; bródi, rus:брат (brat), fas: برادر‎ (barâdar), hin:बिरादर (birādar), ben:বেরাদর (beradôr), may:bruder, jpn:ブラザー (burazā), kor:브라더 (beuradeo), tur:birader, swa:bradha|
 |**brauzer**|eng:browser, deu:Browser, rus:браузер (brauzer), hin:ब्राउज़र (brauzar), ben:ব্রাউজার (brā'ujāra), jpn:ブラウザ (burauzā)|
 |**bravo**|eng:fra:brave, rus:бравый (braviy), por:bravo, ara:(brāvo)|
@@ -292,7 +292,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**dang**|eng:dong + fas: زنگ‎ (zang), tur:çan + zho:钟 (zhōng), yue:鐘 (zung1), kor:종 (jong), vie:chuông, khm:ចួង (cuəng) + rus:звон (zvon)|
 |**danse**|eng:fra:dance, spa:danza, por:dança, deu:Tanz, rus:танец (taněc), tur:dans, jpn:ダンス (dansu), kor:댄스 (daenseu), swa:dansi|
 |**dante**|spa:diente, por:dente, fra:dent, eng:dental, hin:दाँत (dā̃t), ben:দাঁত (dãtô), pan:ਦੰਦ (dand), may:danta|
-|**dara**|hin:धारा (dhārā), tel:ధార (dhāra) + fas: دریا‎ (daryâ), hin:दर्या (daryā), ben:দরিয়া (dôriẏa), tur:derya|
+|**dare**|hin:धारा (dhārā); दर्या (daryā), tel:ధార (dhāra) + fas: دریا‎ (daryâ), ben:দরিয়া (dôriẏa), tur:derya|
 |**darba**|ara:ضرب‎ (ḍaraba), swa:dhurubu, fas:ضرب (ḍarb) + rus:уда́рить (udarit’)|
 |**darmestadium**|eng:darmstadtium, fra:darmstadtium, spa:darmstatio, por:darmstádio, rus:дармштадтий, zho: (dá), jpn:ダームスタチウム, kor:다름슈타튬, vie:darmstadti, hin:डार्म्स्टेडशियम, ben:ডারমস্টাডটিয়াম, may:darmstadtium, swa:darmstadti, ara: دارمشتاتيوم|
 |**darti**|eng:dirt, hin:धरती (dhartī), urd:(dhartī), vie:đất, may:darat|
@@ -380,6 +380,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**europium**|eng:europium, fra:europium, spa:europio, por:európio, rus:европий, jpn:ユウロピウム, kor:유로퓸, vie:europi, hin:युरोपियम, ben:ইউরোপিয়াম, may:europium, swa:europi, ara: يروبيوم|
 |**Europa**|eng:fra:Europe, spa:por:deu:pol:Europa, ell:Ευρώπη (Evrópi) rus:Европа (Evropa), tur:Avrupa, swa:Uropa, hin:यूरोप (yūrop), may:Eropah, zho:歐洲 (Ōuzhōu), jpn:ヨーロッパ (yōroppa)|
 |**exa**|eng:fra:spa:por:exa, rus:экза- (ekza-), may:eska-, zho:艾可萨- (àikěsà-), jpn:エクサ (ekusa), kor:엑사- (eksa-)|
+|**ezmurude**|ell:σμαράγδι (smarágdi), eng:emerald, fra:émeraude, spa:por:esmeralda, jpn:エメラルド (emerarudo), kor:에메랄드 (emeraldeu), fas: زمرد (zomorrod), ben:জমরুদ (zômrud), ara: زُمُرُّد‎ (zumurrud), swa:zumaridi, hau:zumurrudu, may:zamrud, rus:изумруд (izumrud), zho:祖母绿 (zǔmǔlǜ)|
 |**fa**|fra:faire, por:fazer, ita:fare + ara: فَعَلَ‎ (faʿala) + swa:fanya + yue:化 (faa3), hak:化 (fa), zho:化 (huà), vie:hoá|
 |**fa argu**|eng:argue, fra:arguer, spa:argüir, por:arguir, rus:аргумент (argument)|
 |**fa barka**|hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), swa:baraka, yor:alubarika|
@@ -835,7 +836,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**krabe**|eng:crab, deu:Krebs, fra:crabe, rus:краб (krab)|
 |**krake**|yue:隙 (gwik1), nan:隙 (kiah4), jpn:隙 (kyaku), vie: khích + eng:crack, fra:craquer, spa:crac|
 |**kran**|ned:kraan, rus:кран (kran), pol:kran, may:keran|
-|**krati**|eng:-cracy, fra:-cratie, spa:por:-cracia, rus:-кратия (kratiya), ara:(-qratiya), may:swa:-krasi|
+|**kratia**|eng:-cracy, fra:-cratie, spa:por:-cracia, rus:-кратия (kratiya), ara:(-qratiya), may:swa:-krasi|
 |**kree**|eng:create, deu:kreieren, fra:créer, spa:crear, por:criar + may:kreatif|
 |**krem**|fra:crème, por:creme, spa:crema, eng:cream, jpn:クリーム (kurīmu)|
 |**krepe**|fra:eng:crêpe, por:crepe, spa:crepa, tur:krep, ita:crespella|
@@ -1226,16 +1227,15 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**pin**|eng:pin, jpn:ピン (pin), kor:핀 (pin), hin:पिन (pin)|
 |**pinguin**|eng:may:penguin, spa:pingüino, por:pinguim, rus:пингвин (pingvin), tur:penguen, hin:पेंगुइन (peṅguin), ben:পেঙ্গুইন (peṅguin), jpn:ペンギン (pingin)|
 |**pinse gi**|eng:pincers, fra:pinces, tur:pense, jpn:ペンチ (penchi)|
+|**pipe**|eng:fra:pipe, deu:Pfeife, spa:may:pipa, fas: پیپ‎ (pip), hin:पाइप (pāip), ben:পাইপ (paip), jpn:パイプ (paipu), vie:píp, tur:pipo, ara: بِيبَة‎‎ (bība)|
 |**pipa**|zho:琵琶 (pípa), yue:琵琶 (pei4 paa4), jpn: 琵琶 (biba), kor:비파 (bipa), vie:tì bà|
-|**pipe**|spa:may:pipa, eng:fra:pipe, fas:(pip), vie:píp|
 |**pipre**|eng:pepper, deu:Pfeffer, ita:pepe, ben:পিপুল (pipul), zho:荜拔 (bìbá), tel:పిప్పలి (pippali), fas:(pelpel), swa:pilipili|
 |**piram**|eng:pyramid, fra:pyramide, spa:por:pirámide, rus:пирамида (piramida), hin:पिरमिड (pirmiḍ),अहराम (ahrām), ben:পিরামিড (piramiḍ), may:piramida, jpn:ピラミッド (piramiddo), kor:피라미드 (piramideu) + ara:(haram), swa:haram|
-|**pirate**|eng:piracy, spa:piratería, por:pirataria, fra:piraterie, deu:Piraterie, rus:пиратство (piratstvo), jpn:パイレーシ|
-|**pirate ja**|eng:fra:pirate, spa:por:pirata, deu:Pirat, rus:пират (pirat)|
+|**pirater**|eng:fra:pirate, spa:por:pirata, deu:Pirat, rus:пират (pirat), jpn:パイレーシ|
 |**pisea**|spa:por:pícea, fra:Épicéa|
 |**pistol**|eng:pistol, spa:por:pistola, fra:pistolet, rus:пистолет (pitolet), hin:पिस्तौल (pistaul), ben:পিস্তল (piśtôl)|
-|**pixa**|eng:piss, fra:pisse, ita:piscia, hin:पेशाब (pešāb), may:pipis|
-|**piza**|ita:eng:fra:pizza, zho:比萨 (bǐsà), rus:пицца (pitsa), jpn:ピザ (piza), kor:피자 (pija)|
+|**pixe**|eng:piss, fra:pisse, ita:piscia, hin:पेशाब (pešāb), may:pipis|
+|**piza**|eng:deu:fra:spa:tur:vie:pizza, rus:пицца (pitsa), fas: پیتزا‎ (pitzâ), hin:पिज़ा (pizā), ben:পিৎজা (pitja), tam:பீத்சா (pītcā), may:piza, zho:比萨 (bǐsà), jpn:ピザ (piza), kor:피자 (pija), ara: بِيتْزَا‎ (bītzā)|
 |**ple**|eng:ply, fra:pli, spa:plegar + por:aplicação|
 |**plan**|eng:spa:fra:plan, por:plano, rus:план (plan), fas:پلان‎ (plân), hin:प्लैन (plain), jpn:プラン (puran)|
 |**planeta**|eng:tur:may:planet, spa:por:planeta, fra:planète, rus:планета (planeta)|
@@ -1589,6 +1589,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**veranda**|hin:बरामदा (barāmd), por:varanda, may:beranda, eng:veranda, rus:веранда (veranda), jpn:ベランダ (beranda), kor:베란다 (beranda), swa:varanda|
 |**verme**|eng:worm, por:verme, fra:ver, deu:Wurm|
 |**verse**|eng:versus, fra:verse, spa:por:versar + rus:версия (versiya), may:versi|
+|**veruke**|eng:verruca, fra:verrue, spa:por:verruga|
 |**vespa**|spa:avispa, por:ita:vespa, eng:wasp, deu:Wespe|
 |**veste**|eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)|
 |**veze**|ara: وَزْن‎ (wazn), hin:वज़न (vazan), ben:ওজন (ojôn), kan:ವಜ್ಜೆ (vajje), swa:uzani + rus:вес (ves) + fra:peser, spa:por:peso|
@@ -1658,6 +1659,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**xiti bai**|zho:失败 (shībài), jpn:失敗 (shippai), kor:실패 (šilpæ), vie:thất bại|
 |**xiu**|zho:小 (xiǎo), yue:小 (siu2), jpn:小 (shō), kor:소 (so), vie:tiểu|
 |**xix**|tur:şiş + eng:shish-, rus:шиш- (šiš-)|
+|**xixa**|fas: شیشه (šiše), hin:शीशा (śīśā), tel:సీసా (sīsā), tur:şişe, ara: شيشة‎ (šīša) + eng:shisha, deu:Schischa, fra:chicha, por:xixa|
 |**xofer ja**|fra:eng:deu:chauffeur, spa:por:chofer, rus:шофёр (šofjor), pol:szofer, tha: โชเฟอร์ (chofoe), tur:şoför, fas:(šofer)|
 |**xoke**|eng:nld:shock, fra:choc, spa:por:choque, tur:şok, may:syok + zho:冲击 (chōngjī), yue:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), jpn:衝撃 (shōgeki)|
 |**xopi**|eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼핑 (syoping), tha:ชอปปิ้ง (chop-bing), rus:шоппинг (šopping), zho:血拼 (xuèpīn)|
@@ -1694,13 +1696,12 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**yutrium**|eng:yttrium, fra:yttrium, spa:itrio, por:itrio, rus:иттрий, zho:钇 (yǐ), jpn:イットリウム, kor:이트륨, vie:ytri, hin:इत्रियम, ben:ইটরিয়াম, may:itrium, swa:yitri, ara: يتريوم|
 |**zai**|zho:在 (zài), jpn:在 (zai), vie:tại|
 |**zaitun**|ara:(zaitūn), spa:aceituna, may:zaitun, hau:swa:zaituni, hin:urd:(zaitūn)|
-|**zalim**|ara:(ẓālim), tur:zalim, urd:hin:(zālim), fas:(zālem), swa:dhalimu|
+|**zalime**|ara: ظَالِم‎ (ẓālim), fas: ظالم‎ (zâlem), hin:ज़ालिम (zālim), tur:may:zalim, swa:dhalimu, hau:zalumci|
 |**zaman**|may:jam + ara: زَمَن‎ (zaman), swa:zamani, tur:zaman + hin:समय (samay), ben:সময় (sômyô)|
 |**zar**|ara: زَهْر (zahr), tur:zar, fas: زار (zâr) + eng:hazard, spa:por:azar|
 |**zebra**|eng:deu:por:tur:may:zebra, fra:zèbre, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), ben:জেবরা (jebra), jpn:ゼブラ (zebura)|
 |**zelo**|ell:ζῆλος (zêlos), eng:zeal; jealous, fra:jaloux, spa:celos, por:zelo|
 |**zeta**|eng:fra:spa:por:zetta-, may:zeta-, jpn:ゼタ- (zeta-), kor:제타- (jeta-), zho:泽它- (zétā-)|
-|**zeyil**|fas:زگیل (zegil), tur:siğil, aze:ziyil, fin:syylä|
 |**zeze**|swa:nzi, sot:ntsintsi, lin:kon:nzinzi, ibo:ijiji, yor:eṣinṣin + eng:tsetse, fra:por:tsé-tsé, rus:цеце (tsetse), tur:çeçe, zho:采采蝇 (cǎicǎiyíng)|
 |**zi**|zho:字 (zì), jpn:字 (ji), kor:자 (ja)|
 |**zikura**|ara: زِقُّورَة‎ (ziqqūra), eng:tur:ziggurat, deu:Zikkurat, fra:ziggourat, spa:zigurat, por:zigurate, rus:зиккурат (zikkurat), zho:金字形神塔, jpn:ジッグラト (jiggurato), kor:지구라트 (jigurateu)|
@@ -1713,8 +1714,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**zizi**|zho:zizi eng:sizzle|
 |**zoku**|wuu:续 (zoq), yue:續 (zuk6), jpn:続 (zoku), kor:속 (sok), vie:kế tục|
 |**zombi**|kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)|
-|**zona**|ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|
+|**zone**|ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|
 |**zukam**|ara:زُكَام‎ (zukām), hin:ज़ुकाम (zukām) + zho:感(冒) (gǎn(mào)), jpn:感(冒) (kan(bō)), kor:감(기) (gam(gi)), vie:cảm|
 |**Zukra**|ara: الزُّهَرَة‎ (az-zuhara), swa:Zuhura, hau:Zaharatu, tur:Zühre, fas: زهره‎ (zohre), urd: زہرہ‎ (zuhra), may:Zuhrah + hin:शुक्र (śukra), ben:শুক্র (śukr), mya:သောကြာ (sau:kra), tha:ศุกร์ (sùk)|
 |**zuku**|zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|
-|**zumarde**|eng:emerald, fra:émeraude, spa:por:esmeralda, jpn:エメラルド (emerarudo) + ara: زُمُرُّد‎ (zumurrud), swa:zumaridi, may:zamrud, rus:изумруд (izumrud), zho:祖母绿 (zǔmǔlǜ)|
