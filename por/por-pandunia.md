@@ -605,14 +605,14 @@ durante - a dura de
 durar - be dura  
 duração - dura  
 duro - gati  
-dígito - nume zi  
+dígito - numograme  
 dúbnio - dubnium  
 dúvida - xake  
 
 ## E  
 
 e - e  
-economia - mal nomi  
+economia - malonomia  
 ecrã - eskran  
 educação - xula  
 efeito - asar  
@@ -1092,7 +1092,7 @@ macroalga - bahai alga
 madrasta - vise ma  
 maduro (adulto) - ceng  
 magnésio - magenium  
-mago - magi ja  
+mago - mager  
 mago - zarduxtan mager  
 mahjong - majang  
 maioria - maxia  
@@ -1132,14 +1132,15 @@ massa de modelar (massinha) - plaste paste
 mastro - masta  
 matadouro - karnekan  
 mate (opaco) - foto mata di  
-matemática - mate  
-matemático - matike  
+matemática - numolojia  
+matemático - numolojer  
 materialismo - madisme  
 maternal - ma di  
 matéria - made  
 Mauritânia - Muritania  
 maçã - aple  
-mecânico - makin li  
+mecanizar - makinize  
+mecânico - makinike  
 medalha - medal  
 medalhão - medalon  
 medio - midike  
@@ -2016,6 +2017,7 @@ zumbi - zombi
 âncora - angar  
 érbio - erbium  
 étnico - zuku di  
+ímã (íman) - manite  
 índio - hindium  
 ósmio - osmium  
 ótimo (óptimo) - otimal  

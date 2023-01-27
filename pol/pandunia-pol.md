@@ -1233,7 +1233,6 @@ fa nia -
 fa node - zawiązywać (zawiązać węzeł)  
 fa nomi - zarządzać (organizować, kierować)  
 fa note - powiadomić, powiadamiać  
-fa nume - liczyć  
 fa oke - zaakceptować, akceptować, powiedzieć okej, mówić okej  
 fa onor -   
 fa ore - słuchać  
@@ -1938,9 +1937,9 @@ holia - całość (integralność)
 holisme - holizm  
 holiste -   
 holonam -   
+holonume -   
 holera - cholera  
 holmium - holm  
-holo nume -   
 Hong Gong - Hong Kong  
 hore -   
 horife -   
@@ -2347,9 +2346,9 @@ ke tipe - jaki?
 ke xe - jak?  
 kecape - keczup  
 keci - uprzejmy  
+keke - ciasto, ciastko  
 keka - wizyta  
 keka ja - wizytant (gość)  
-keke - ciasto, ciastko  
 kelele - atleta, sportowiec  
 kelvin - kelwin  
 Keme - Starożytny Egipt (Kemet)  
@@ -2789,15 +2788,15 @@ matria - macierz
 made - materia, substancja  
 madike - materialny  
 madisme -   
-Madagasi - Madagaskar  
-madagasi di - madagaskarski; malagaski  
+madagas - madagaskarski; malagaski  
+Madagasia - Madagaskar  
 maf - przepraszam!  
+mage - zaklecie  
+mager - magik, czarownik  
+magia - magia  
+magike - magiczny  
 magenium - magnez  
-magi - magia  
-magi asar - zaklecie  
 magi bala -   
-magi di - magiczny  
-magi ja - magik, czarownik  
 Magribia - Maroko  
 Magyar - Węgry  
 mahala - dzielnica  
@@ -2810,11 +2809,12 @@ makan hua - mlecz
 makas - nożyce, nożyczki  
 Makau - Makau  
 makin - maszyna  
-makinja -   
-makin li -   
+makinike -   
+makiniste -   
+makinize -   
 mal - własność (mienie)  
-mal ja - właściciel (posiadacz)  
-mal nomi - ekonomia  
+malike - właściciel (posiadacz)  
+malonomia - ekonomia  
 Malaisia - Malezja  
 malaria - malaria  
 Malavi - Malawi  
@@ -2824,12 +2824,10 @@ Mali - Mali
 malte - słód  
 maltos -   
 Malta - Malta  
-Malvinas nesi - Falklandy, Malwiny  
+Malvina nesia - Falklandy, Malwiny  
 mamal - ssak  
 mana - znaczenie  
 manera - zachowanie (maniery, kultura)  
-manete - magnes  
-manete di - magnetyczny  
 mang - zajęty  
 mangan - mangan  
 mango - mango  
@@ -2840,6 +2838,8 @@ mani din - manicheizm
 Manin nesi - Wyspa Man  
 manioka - maniok  
 manioka fufu -   
+manite - magnes  
+manitike - magnetyczny  
 mantol - peleryna (płaszcz, opończa)  
 mantra -   
 mantu - bułka gotowana na parze  
@@ -2871,8 +2871,6 @@ master de filsofia (MF) -
 master de lojia (ML) -   
 master de tehnolojia (MT) -   
 masta - maszt  
-mate - matematyka  
-matike - matematyk  
 mata - umrzeć (umierać; śmierć; martwy, nieżywy, zabity)  
 mata badan -   
 matabil -   
@@ -3325,9 +3323,11 @@ nude - nagi, goły, obnażony
 nude sim - nudyzm  
 nude sim ja - nudysta  
 nuka -   
+nume - numer (liczyć)  
 numerike - cyfrowy  
-nume - numer  
-nume zi -   
+numograme -   
+numolojer - matematyk  
+numolojia - matematyka  
 o - lub, albo  
 
 ## O  
@@ -3906,7 +3906,7 @@ sabun - mydło
 sada - zwykły, zwyczajny, prosty  
 saf - czysty  
 • ansaf - brudny  
-safja - sprzątacz, sprzątacz  
+safer - sprzątacz, sprzątacz  
 safta -   
 saf tela -   
 safar - podróż  
@@ -4257,7 +4257,7 @@ suxi - sushi
 ## T  
 
 ta -   
-tabaku - tytoń  
+tabake - tytoń  
 tabi - natura, środowisko  
 table -   
 table komputa -   

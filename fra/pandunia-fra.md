@@ -1339,10 +1339,11 @@ mahala - quartier
 majang - mah-jong  
 makan hua - dandélion  
 makin - machine  
-makin li - mécanique  
+makinike - mécanique  
+makinize - mécaniser  
 mal - propriété (possession, bien)  
-mal ja - possédant (propriétaire)  
-mal nomi - économie  
+malike - possédant (propriétaire)  
+malonomia - économie  
 malte - malt  
 maltos - maltose  
 manera - comportement (manière)  
@@ -1352,6 +1353,7 @@ mani - manie
 mani din - manichéisme  
 manioka - manioc  
 manioka fufu - tapioca  
+manite - aimant  
 mantol - cape  
 mantra - mantra  
 mar - fois  
@@ -1368,8 +1370,6 @@ masala - épices
 maska - masque  
 master - maître  
 masta - mât  
-mate - mathématiques (maths)  
-matike - mathématicien  
 mate - yerba mate  
 mate cai - maté  
 matras - matelas  
@@ -1575,9 +1575,11 @@ norde - nord
 nostalgia - nostalgie  
 note xe - note  
 nuka - cou (encolure, nuque)  
+nume - nombre (numéro; contar)  
 numerike - numérique  
-nume - nombre (numéro)  
-nume zi - ciffre  
+numograme - ciffre  
+numolojer - mathématicien  
+numolojia - mathématiques (maths)  
 o - ou  
 
 ## O  

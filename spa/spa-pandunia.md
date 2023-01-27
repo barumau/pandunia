@@ -930,7 +930,6 @@ construir (edificar) - fa bina
 consultor - kon sel ja  
 contaminación (corrupción, porquería, suciedad) - najis  
 contar (calcular) - pute  
-contar - fa nume  
 contenedor - kontener  
 contener (contenido) - intene  
 contener - in tene  
@@ -1287,7 +1286,7 @@ dualismo - duajisme
 dubnio - dubnium  
 ducha - dux  
 duda - xake  
-dueño - mal ja  
+dueño - malike  
 duna - duna  
 durable - durabil  
 duración - dura  
@@ -1301,7 +1300,7 @@ día - dia
 día de San Juan - Yohan festa  
 día festivo (feriado) - festa den  
 dígital - numerike  
-dígito (cifra) - nume zi  
+dígito (cifra) - numograme  
 dónde - a ke  
 dónde - ke loka  
 
@@ -1309,7 +1308,7 @@ dónde - ke loka
 
 eco - reflexe sonde  
 ecología - ekolojia  
-economía - mal nomi  
+economía - malonomia  
 econtrar (hallar) - eureka  
 Ecuador - Ekuador  
 ecuador - geo par lin  
@@ -1997,7 +1996,7 @@ importar - ham
 importar - in mise  
 imprimir - fa cape  
 impuesto (tributo, tarifa) - tarif  
-imán - manete  
+imán (magnete) - manite  
 inclinar - fa terca  
 inclinar - gau dipe move  
 incluido - in klus  
@@ -2107,7 +2106,7 @@ islas Aland - Olande nesi
 islas Caimán - Kaiman nesia  
 Islas Cocos (Islas Keeling) - Kokos nesi  
 Islas Cook - Kuke nesi  
-Islas Malvinas - Malvinas nesi  
+Islas Malvinas - Malvina nesia  
 Islas Marianas - Mariana nesi  
 Islas Marshall - Marxal nesi  
 Islas Pitcairn - Pitkerne nesi  
@@ -2276,7 +2275,7 @@ lila (de color lila) - lila rang
 lila - lila  
 limero - kaguji limon  
 limonada - limon jus  
-limpiador - safja  
+limpiador - safer  
 limpiar - fa saf  
 limpio - saf  
 limón - limon  
@@ -2362,7 +2361,7 @@ Macedonia del Norte - Norde Makedonia
 maceta (plantera) - hua pote  
 macrial (militar) - jang di  
 macroalga - bahai alga  
-Madagascar - Madagasi  
+Madagascar - Madagasia  
 madera - moka mate  
 madrastra - vise ma  
 madre (mamá) - ma  
@@ -2372,12 +2371,12 @@ maestro (gurú, sabio, profesor) - guru
 maestro (profesor) - xifu  
 maestro (profesor, docente) - xula guru  
 magenta (fucsia) - majenta  
-magia - magi  
-magical - magi di  
+magia - magia  
+magical - magike  
 magma - pasta petra  
 magnesio - magenium  
-magnético - manete di  
-mago - magi ja  
+magnético - manitike  
+mago - mager  
 mago - zarduxtan mager  
 mahjong - majang  
 malaria (paludismo) - malaria  
@@ -2388,7 +2387,7 @@ malayo - malayu
 maldecir (maldición) - dusdua  
 Maldivas - Divehi  
 maleable - plastike  
-malgache - madagasi di  
+malgache - madagas  
 Mali - Mali  
 malinterpretar - galte budi  
 malo (difícil, duro) - dus  
@@ -2453,8 +2452,8 @@ matar (morir, asesinar) - matafa
 matasellos - poste marke  
 mate (opaco) - foto mata di  
 mate cocido - mate cai  
-matemática - mate  
-matemático - matike  
+matemática - numolojia  
+matemático - numolojer  
 material - madike  
 materialismo - madisme  
 maternal - ma di  
@@ -2472,8 +2471,9 @@ mañana (antes mediodía) - suba dia
 mañana - pos den  
 mañana - suba  
 mear - fa pix  
+mecanizar - makinize  
 mecedora - roke kursi  
-mecánico - makin li  
+mecánico - makinike  
 medalla - medal  
 medallón - medalon  
 medianoche - mide noce  
@@ -2799,9 +2799,9 @@ níquel - nikel
 níspero japonés - pipa frute  
 nómada - badavi  
 núcleo atómico - atom kerne  
-número - nume  
+número (contar) - nume  
 número de identificación personal - sekur nume  
-número entero - holo nume  
+número entero - holonume  
 número par - per nume  
 
 ## O  
@@ -3789,7 +3789,7 @@ sólido - gati mate
 
 ## T  
 
-tabaco - tabaku  
+tabaco - tabake  
 tabla (lámina, plancha) - table  
 tabla - data table  
 tabla con pinza (carpeta con sujetapapeles) - pinse bano  

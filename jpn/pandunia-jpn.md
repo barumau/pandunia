@@ -452,7 +452,6 @@ fa memo - 思い出す
 fa najis - 汚す  
 fa nati - 生む  
 fa nomi - 組織する  
-fa nume - 数える  
 fa pede - おならをする  
 fa politi - 治める (司る)  
 fa poze - 植える  
@@ -1056,19 +1055,21 @@ ma - お母さん (母, ママ)
 made - 物質  
 madisme - 唯物論 (唯物主義)  
 maf - ごめんなさい  
+mager - 魔法使い  
 magenium - マグネシウム  
 magi bala - 魔力  
-magi ja - 魔法使い  
 Magribia - モロッコ  
 majang - 麻雀  
 majenta - マゼンタ (紅紫色)  
 makan hua - タンポポ  
-mal nomi - 経済学  
+makinize - 機械化する  
+malonomia - 経済学  
 malte - 麦芽  
 maltos - 麦芽糖 (マルトース)  
 mang - 忙しい  
 mangan - マンガン  
 manioka - キャッサバ  
+manite - 磁石  
 mantol - マント (ケープ)  
 mar - 回 (次, 度)  
 margai - マーゲイ  
@@ -1078,8 +1079,6 @@ masa mula - 芋 (塊茎)
 masa mula sol hua - キクイモ  
 masala - 香辛料  
 maska - 仮面 (マスク)  
-mate - 数学  
-matike - 数学者  
 mate cai - マテ茶  
 matras - 布団 (マットレス)  
 max fili di - 好き (お気に入りの)  
@@ -1275,8 +1274,11 @@ norma - 標準
 norma di - 普段 (ノーマル)  
 nostalgia - 懐古 (懐旧)  
 nuka - 首  
+nume - 数える  
 numerike - デジタル  
-nume zi - 数字  
+numograme - 数字  
+numolojer - 数学者  
+numolojia - 数学  
 
 ## O  
 

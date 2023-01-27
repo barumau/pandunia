@@ -52,6 +52,7 @@ agronomie - agronomia
 aide (secours) - mede  
 ail - lasun  
 aile - panka  
+aimant - manite  
 air - air  
 aire (superficie) - fase area  
 Alaska - Alaska  
@@ -487,7 +488,7 @@ chêne - baluta
 chêne pédonculé - europa baluta  
 chœur - ganir grupe  
 ciel - sama  
-ciffre - nume zi  
+ciffre - numograme  
 cigarette - sigar  
 cime (pic, sommet) - xan pike  
 cimetière - gabrestan  
@@ -1249,8 +1250,8 @@ match - mece
 matelas - matras  
 matelot - bahai vala  
 maternel - ma di  
-mathématicien - matike  
-mathématiques (maths) - mate  
+mathématicien - numolojer  
+mathématiques (maths) - numolojia  
 matière - made  
 maté - mate cai  
 matérialisme - madisme  
@@ -1341,7 +1342,8 @@ mythe - deokata
 mât - masta  
 mère (maman) - ma  
 mètre - mitre  
-mécanique - makin li  
+mécanique - makinike  
+mécaniser - makinize  
 médaille - medal  
 médaillon - medalon  
 médias - midia  
@@ -1392,7 +1394,7 @@ nobélium - nobelium
 noir - kala  
 noit - noce  
 nom - nam  
-nombre (numéro) - nume  
+nombre (numéro; contar) - nume  
 nombre pair - per nume  
 non (ne...pas) - no  
 non-binaire - nobi  
@@ -1656,7 +1658,7 @@ porter - porte
 Porto Rico - Portoriko  
 Portoricain - portoriko jen  
 posidonie (herbiers marins) - bahai cau  
-possédant (propriétaire) - mal ja  
+possédant (propriétaire) - malike  
 post-natal - posnatal  
 post-production - posprodution  
 posture (position) - asan  
@@ -2256,7 +2258,7 @@ zéro - siro
 école (collège) - xulakan  
 école primaire - baze xulekan  
 école secondaire - jong xulakan  
-économie - mal nomi  
+économie - malonomia  
 écorce - tire yo pil  
 écran - eskran  
 écrire - kitaba  

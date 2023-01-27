@@ -1137,14 +1137,15 @@ ma di - maternal
 matria - pátria-mãe  
 made - matéria  
 madisme - materialismo  
+mager - mago  
 magenium - magnésio  
-magi ja - mago  
 Magribia - Marrocos  
 mahala - quarteirão  
 majang - mahjong  
 makan hua - dente-de-leão (taráxaco)  
-makin li - mecânico  
-mal nomi - economia  
+makinike - mecânico  
+makinize - mecanizar  
+malonomia - economia  
 malte - malte  
 maltos - maltose  
 manera - comportamento (conduta)  
@@ -1154,6 +1155,7 @@ mani - mania
 mani din - maniqueísmo  
 manioka - mandioca (aipim)  
 manioka fufu - tapioca  
+manite - ímã (íman)  
 mantol - capa  
 mantra - mantra  
 mar - vez  
@@ -1170,8 +1172,6 @@ masala - tempero
 maska - máscara  
 master - mestre  
 masta - mastro  
-mate - matemática  
-matike - matemático  
 mate - erva-mate  
 mate cai - chá mate  
 matras - colchão  
@@ -1367,9 +1367,11 @@ norde - norte
 nostalgia - nostalgia (saudade)  
 note xe - nota  
 nuka - pescoço (nuca, gargalo)  
-numerike - digital  
 nume - número  
-nume zi - dígito  
+numerike - digital  
+numograme - dígito  
+numolojer - matemático  
+numolojia - matemática  
 o - ou  
 
 ## O  

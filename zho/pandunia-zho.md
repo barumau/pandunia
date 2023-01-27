@@ -1073,15 +1073,16 @@ ma pa - 外公 (外祖父)
 ma sis - 姨  
 made - 物质  
 madisme - 唯物论 (唯物主义)  
+mager - 魔法师  
 magenium - 镁  
 magi bala - 魔力  
-magi ja - 魔法师  
 Magribia - 摩洛哥  
 majang - 麻将  
 makan hua - 蒲公英  
 makin - 机  
-makin li - 技工  
-mal nomi - 经济学  
+makinike - 技工  
+makinize - 机械化  
+malonomia - 经济学  
 malte - 麦芽  
 maltos - 麦芽糖  
 mana - 意义  
@@ -1090,6 +1091,7 @@ mang - 忙
 mangan - 锰  
 mani din - 摩尼教  
 manioka - 木薯   
+manite - 磁铁 (磁石)  
 mantol - 斗篷  
 mar - 次 (度, 遍)  
 margai - 長尾虎貓  
@@ -1098,8 +1100,6 @@ masa - 质量
 masa mula sol hua - 菊芋  
 masala - 香料  
 masta - 桅  
-mate - 数学  
-matike - 数学家  
 mate cai - 马黛茶  
 matras - 床垫  
 max fili - 比较喜欢  
@@ -1281,9 +1281,11 @@ norde - 北
 nostalgia - 怀旧  
 note xe - 便条  
 nuka - 颈  
-numerike - 数字的  
 nume - 数  
-nume zi - 数字  
+numerike - 数字的  
+numograme - 数字  
+numolojer - 数学家  
+numolojia - 数学  
 o - 或  
 
 ## O  

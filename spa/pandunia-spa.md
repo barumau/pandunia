@@ -1074,7 +1074,6 @@ fa neu - renovar
 fa node - hacer un nudo  
 fa nomi - organizar (gestionar)  
 fa note - avisar (notificar)  
-fa nume - contar  
 fa oke - aceptar  
 fa onor - honrar  
 fa ore - escuchar (oír)  
@@ -1675,9 +1674,9 @@ holografia - holografia
 holia - totalidad (integridad)  
 holisme - holismo  
 holonam - holónimo  
+holonume - número entero  
 holera - cólera  
 holmium - holmio  
-holo nume - número entero  
 Hong Gong - Hong Kong  
 horure - horror  
 hormon - hormona  
@@ -2027,9 +2026,9 @@ ke tipe - qué tipo de
 ke xe - cuál cosa  
 kecape - kétchup  
 keci - educado  
+keke - pastel (galleta)  
 keka - visitar  
 keka ja - invitado (visita)  
-keke - pastel (galleta)  
 kelele - ruido  
 kelvin - kelvin  
 Keme - Egipcia Antigua  
@@ -2400,13 +2399,13 @@ ma di - maternal
 made - sustancia (materia)  
 madike - material  
 madisme - materialismo  
-Madagasi - Madagascar  
-madagasi di - malgache  
+madagas - malgache  
+Madagasia - Madagascar  
 maf - perdón  
+mager - mago  
+magia - magia  
+magike - magical  
 magenium - magnesio  
-magi - magia  
-magi di - magical  
-magi ja - mago  
 Magribia - Marruecos  
 Magyar - Hungría  
 mahala - barrio (cuartel)  
@@ -2418,10 +2417,11 @@ makan hua - dientes de león (panaderos)
 makas - tijera  
 Makau - Macao  
 makin - máquina  
-makin li - mecánico  
+makinike - mecánico  
+makinize - mecanizar  
 mal - propiedad  
-mal ja - dueño  
-mal nomi - economía  
+malike - dueño  
+malonomia - economía  
 Malaisia - Malasia  
 malaria - malaria (paludismo)  
 Malavi - Malaui  
@@ -2431,12 +2431,10 @@ Mali - Mali
 malte - malta  
 maltos - maltosa  
 Malta - Malta  
-Malvinas nesi - Islas Malvinas  
+Malvina nesia - Islas Malvinas  
 mamal - mamífero  
 mana - significado (acepción)  
 manera - comportamiento (conducta)  
-manete - imán  
-manete di - magnético  
 mang - ocupado (atareado)  
 mangan - manganeso  
 mango - mango  
@@ -2447,6 +2445,8 @@ mani din - maniqueísmo
 Manin nesi - Isla de Man  
 manioka - yuca (mandioca)  
 manioka fufu - tapioca  
+manite - imán (magnete)  
+manitike - magnético  
 mantol - capa (manto)  
 mantra - mantra (salmodiar)  
 mantu - panecillos al vapor (mantou)  
@@ -2472,8 +2472,6 @@ maska - máscara
 maste - dominar  
 master - maestro (experto)  
 masta - mástil  
-mate - matemática  
-matike - matemático  
 mata - morirse (muerte; muerto)  
 matafa - matar (morir, asesinar)  
 mataja - asesino  
@@ -2882,9 +2880,11 @@ nude - desnudo
 nude sim - nudismo  
 nude sim ja - nudista  
 nuka - cuello (nuca, pescuezo)  
+nume - número (contar)  
 numerike - dígital  
-nume - número  
-nume zi - dígito (cifra)  
+numograme - dígito (cifra)  
+numolojer - matemático  
+numolojia - matemática  
 o - o  
 
 ## O  
@@ -3375,7 +3375,7 @@ sabun - jabón
 sada - sencillo (liso)  
 saf - limpio  
 • ansaf - sucio  
-safja - limpiador  
+safer - limpiador  
 saf tela - trapo (tela para limpiar)  
 safar - viaje  
 safar ceke - cheque de viajero  
@@ -3685,7 +3685,7 @@ suxi - sushi
 ## T  
 
 ta - -idad  
-tabaku - tabaco  
+tabake - tabaco  
 tabi - disposición (naturaleza, carácter, -ivo)  
 table - tabla (lámina, plancha)  
 table komputa - tablet  

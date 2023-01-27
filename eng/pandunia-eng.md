@@ -1268,7 +1268,6 @@ fa nia - mean (intend)
 fa node - tie a knot  
 fa nomi - manage (organize)  
 fa note - notify  
-fa nume - count (enumerate)  
 fa oke - accept (say okay)  
 fa onor - respect (honor, think highly of)  
 fa ore - listen  
@@ -1972,9 +1971,9 @@ holia - wholeness (integrity)
 holisme - holism  
 holiste - holistic (comprehensive, overall, pertaining to the whole)  
 holonam - holonym  
+holonume - integer (whole number)  
 holera - cholera  
 holmium - holmium  
-holo nume - integer (whole number)  
 Hong Gong - Hong Kong, SAR China  
 hore - shiver (creeps)  
 horife - horrify (give the creeps)  
@@ -2381,9 +2380,9 @@ ke tipe - what kind of?
 ke xe - what thing?  
 kecape - ketchup  
 keci - polite  
+keke - cake (cookie)  
 keka - visitation (visit)  
 keka ja - visitor (guest)  
-keke - cake (cookie)  
 kelele - noise  
 kelvin - kelvin  
 Keme - Ancient Egypt (Kemet)  
@@ -2822,15 +2821,15 @@ matria - motherland
 made - matter (substance)  
 madike - material (physical)  
 madisme - materialism  
-Madagasi - Madagascar  
-madagasi di - Malagasy  
+madagas - Malagasy  
+Madagasia - Madagascar  
 maf - pardon (forgiveness; sorry)  
+mage - conjure (do magic, cast a spell; spell)  
+mager - magician (sorcerer, mage, wizard)  
+magia - magic  
+magike - magical  
 magenium - magnesium  
-magi - magic  
-magi asar - spell (enchantment)  
 magi bala - magical power  
-magi di - magical  
-magi ja - magician (sorcerer, mage, wizard)  
 Magribia - Morocco  
 Magyar - Hungary  
 mahala - quarter (neighbourhood, district, locality, section of town)  
@@ -2843,11 +2842,12 @@ makan hua - dandelion
 makas - scissors (shears)  
 Makau - Macao  
 makin - machine  
-makinja - mechanic  
-makin li - mechanical  
+makinike - mechanical  
+makiniste - mechanic  
+makinize - mechanize  
 mal - property (belongings, possessions)  
-mal ja - owner (proprietor)  
-mal nomi - economics  
+malike - owner (proprietor, possessor)  
+malonomia - economics  
 Malaisia - Malaysia  
 malaria - malaria  
 Malavi - Malawi  
@@ -2857,12 +2857,10 @@ Mali - Mali
 malte - malt  
 maltos - maltose  
 Malta - Malta  
-Malvinas nesi - Falkland Islands (Malvinas)  
+Malvina nesia - Falkland Islands (Malvinas)  
 mamal - mammal  
 mana - meaning (signification)  
 manera - behavior (manners)  
-manete - magnet  
-manete di - magnetic  
 mang - busy (occupied)  
 mangan - manganese  
 mango - mango  
@@ -2873,6 +2871,8 @@ mani din - Manichaeism
 Manin nesi - Isle of Man  
 manioka - cassava (manioc)  
 manioka fufu - tapioca  
+manite - magnet  
+manitike - magnetic  
 mantol - cape (cloak, mantle)  
 mantra - mantra (chant)  
 mantu - steamed bun (mantou, manti)  
@@ -2904,8 +2904,6 @@ master de filsofia (MF) - Master of Philosophy
 master de lojia (ML) - Master of Science  
 master de tehnolojia (MT) - Master of Technology  
 masta - mast  
-mate - mathematics (math)  
-matike - mathematician  
 mata - die (death; dead, deceased)  
 mata badan - dead body  
 matabil - mortal  
@@ -3359,9 +3357,11 @@ nude - naked (bare, nude)
 nude sim - nudism  
 nude sim ja - nudist  
 nuka - neck (nape)  
+nume - number (quantity; count, enumerate)  
 numerike - digital (relating to numbers)  
-nume - number  
-nume zi - digit (figure, numeral)  
+numograme - digit (figure, numeral)  
+numolojer - mathematician  
+numolojia - mathematics (math)  
 o - or  
 
 ## O  
@@ -3940,7 +3940,7 @@ sabun - soap
 sada - plain (ordinary, unadorned, simple, mere, pure)  
 saf - clean (pure)  
 • ansaf - dirty  
-safja - cleaner  
+safer - cleaner  
 safta - cleanliness (purity)  
 saf tela - wipe (rag, cleaning cloth)  
 safar - travel (voyage, trip)  
@@ -4291,7 +4291,7 @@ suxi - sushi
 ## T  
 
 ta - -ness, (-ity)  
-tabaku - tobacco  
+tabake - tobacco  
 tabi - nature (disposition, essence, character, -ive)  
 table - slab (slate, tablet, board)  
 table komputa - tablette computer  

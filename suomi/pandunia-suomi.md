@@ -1215,7 +1215,6 @@ fa nia - aikoa (meinata)
 fa node - solmia (tehdä solmu)  
 fa nomi - järjestellä (hallinnoida, organisoida, manageroida)  
 fa note - huomauttaa  
-fa nume - laskea (pitää lukua, numeroida)  
 fa oke - hyväksyä  
 fa onor - kunnioittaa  
 fa ore - kuunnella  
@@ -2236,9 +2235,9 @@ ke tipe - millainen?
 ke xe - mikä? (mitä?)  
 kecape - ketsuppi  
 keci - kohtelias (kiltti)  
+keke - kakku (keksi)  
 keka - käynti (vierailu, visiitti)  
 keka ja - vierailija (vieras)  
-keke - kakku (keksi)  
 kelele - meteli  
 kelvin - kelvin (K)  
 Keme - muinainen Egypti  
@@ -2618,15 +2617,15 @@ matria - emämaa (synnyinmaa)
 made - aine (materia)  
 madike - aineellinen (materiaalinen, fyysinen)  
 madisme - materialismi  
-Madagasi - Madagaskar  
-madagasi di - madagaskarilainen (malagassi)  
+madagas - madagaskarilainen (malagassi)  
+Madagasia - Madagaskar  
 maf - anteeksi  
+mage - taikoa (taika)  
+mager - taikuri  
+magia - taikuus (magia, noituus)  
+magike - taianomainen (maaginen)  
 magenium - magnesium  
-magi - taikuus (magia)  
-magi asar - taika  
 magi bala - taikavoima  
-magi di - taianomainen (maaginen)  
-magi ja - taikuri  
 Magribia - Marokko  
 Magyar - Unkari  
 mahala - kaupunginosa (kortteli, naapurusto)  
@@ -2636,10 +2635,11 @@ makala - artikkeli (kirjoitus)
 makas - sakset  
 Makau - Macao  
 makin - kone  
-makinja - mekaanikko  
+makiniste - mekaanikko  
+makinize - koneellistaa (mekanisoida)  
 mal - omaisuus  
-mal ja - omistaja (pitäjä, hallussapitäjä)  
-mal nomi - taloustiede (ekonomia)  
+malike - omistaja (pitäjä, hallussapitäjä)  
+malonomia - taloustiede (ekonomia)  
 Malaisia - Malesia  
 malaria - malaria  
 Malavi - Malawi  
@@ -2649,12 +2649,10 @@ Mali - Mali
 malte - mallas  
 maltos - maltoosi  
 Malta - Malta  
-Malvinas nesi - Falklandin saaret  
+Malvina nesia - Falklandin saaret  
 mamal - nisäkäs  
 mana - merkitys  
 manera - käytös (käyttäytyminen, tapa, tavat)  
-manete - magneetti  
-manete di - magneettinen  
 mang - kiireinen  
 mangan - mangaani  
 mango - mango  
@@ -2665,6 +2663,8 @@ mani din - manikealaisuus
 Manin nesi - Manin saari  
 manioka - kassava (maniokki)  
 manioka fufu - tapioka  
+manite - magneetti  
+manitike - magneettinen  
 mantra - mantra (messuta)  
 mantu - täytetty pulla  
 mar - kerta (vuoro)  
@@ -2689,8 +2689,6 @@ master de filsofia (MF) - filosofian maisteri
 master de lojia (ML) - filosofian maisteri luonnontieteistä  
 master de tehnolojia (MT) - tekniikan maisteri  
 masta - masto (salko)  
-mate - matematiikka (matikka)  
-matike - matemaatikko  
 mata - kuolla (kuolema, kuolo; kuollut, vainaa)  
 mata badan - kuollut ruumis  
 matabil - kuolevainen  
@@ -3084,8 +3082,10 @@ nu - no
 nude - alaston (paljas, naku)  
 nude sim - nudismi  
 nude sim ja - nudisti  
+nume - lukumäärä (luku, numero; laskea, numeroida)  
 numerike - numeerinen  
-nume - lukumäärä (luku, numero)  
+numolojer - matemaatikko  
+numolojia - matematiikka (matikka)  
 o - tai (vai)  
 
 ## O  
@@ -3586,7 +3586,7 @@ sabun - saippua
 sada - pelkkä (koruton, tavanomainen, vain)  
 saf - puhdas (siivo, siisti)  
 • ansaf - likainen  
-safja - siivooja  
+safer - siivooja  
 safta - puhtaus  
 safar - matka (reissu)  
 safar ceke - matkašekki  
@@ -3881,7 +3881,7 @@ suxi - sushi
 
 ## T  
 
-tabaku - tupakka  
+tabake - tupakka  
 tabi - luonto  
 table - laatta (levy)  
 table komputa - taulutietokone (tabletti)  

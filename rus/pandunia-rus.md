@@ -1185,16 +1185,17 @@ ma di - материнский
 matria - родина  
 made - материя  
 madisme - материализм  
+mager - чародей (маг)  
 magenium - магний  
-magi ja - чародей (маг)  
 Magribia - Марокко  
 mahala - квартал  
 majang - маджонг  
 majenta - маджента (фуксия)  
 makan hua - одуванчик  
-makinja - механик  
-makin li - механический  
-mal nomi - экономика  
+makinike - механический  
+makiniste - механик  
+makinize - механизировать  
+malonomia - экономика  
 malte - солод  
 maltos - мальтоза (солодовый сахар)  
 manera - поведение (манера)  
@@ -1204,6 +1205,7 @@ mani - мания
 mani din - манихейство  
 manioka - маниока  
 manioka fufu - тапиока  
+manite - магнит  
 mantol - плащ (накидка)  
 mantra - мантра  
 mar - раз  
@@ -1219,8 +1221,6 @@ masala - пряность
 maska - маска  
 master - мастер  
 masta - мачта  
-mate - математика (матика)  
-matike - математик  
 mate cai - матэ  
 matras - матрас  
 max fili - предпочитать  
@@ -1413,9 +1413,11 @@ nostalgia - ностальгия (тоска)
 note xe - запись (заметка)  
 nu - ну  
 nuka - шея  
-numerike - цифровой  
 nume - число  
-nume zi - цифры  
+numerike - цифровой  
+numograme - цифры  
+numolojer - математик  
+numolojia - математика (матика)  
 o - или  
 
 ## O  

@@ -408,9 +408,9 @@
  - historia  
  - hobi ja  
  - holiste  
- - holo nume  
  - holografia  
  - holonam  
+ - holonume  
  - hore  
  - horife  
  - horure  
@@ -573,8 +573,9 @@
  - ma sis  
  - madisme  
  - magi bala  
- - makin li  
- - makinja  
+ - makinike  
+ - makiniste  
+ - makinize  
  - maltos  
  - mani  
  - manioka fufu  
@@ -664,7 +665,7 @@
  - Noe  
  - nu  
  - nuka  
- - nume zi  
+ - numograme  
  - Oberon  
  - ode  
  - oskope  
@@ -1782,7 +1783,7 @@ egzonim - vai nam
 egzoplaneta - vai planeta  
 einstein - einsteinium  
 ekologia (nauka o środowisku) - ekolojia  
-ekonomia - mal nomi  
+ekonomia - malonomia  
 ekran - eskran  
 ekskrement, gówno - kaka  
 eksplodować (wybuchnąć, wybuchać) - be bum  
@@ -1828,7 +1829,7 @@ fabryka, manufaktura - feteria
 fabryka, manufaktura - sanakan  
 fajka - pipe  
 fala - onda  
-Falklandy, Malwiny - Malvinas nesi  
+Falklandy, Malwiny - Malvina nesia  
 fantastyczny, fantazyjny - fantazi di  
 fantazja (wyobrażenie, wyobraźnia) - fantazi  
 fascynacja - fasinta  
@@ -2542,7 +2543,6 @@ liberalny, wolnościowy - huristike
 Liberia - Liberia  
 Libia - Libia  
 liczi - lici  
-liczyć - fa nume  
 Liechtenstein - Lihtenstain  
 liga (stowarzyszenie) - liga  
 lilak - lila  
@@ -2603,17 +2603,17 @@ lód - ais
 M - M  
 macierz - matria  
 macka (czułek) - sense xaka  
-Madagaskar - Madagasi  
-madagaskarski; malagaski - madagasi di  
+Madagaskar - Madagasia  
+madagaskarski; malagaski - madagas  
 madżong - majang  
 magazyn, dziennik, gazeta - gazeta  
 magenta - majenta  
-magia - magi  
-magiczny - magi di  
-magik, czarownik - magi ja  
+magia - magia  
+magiczny - magike  
+magik, czarownik - mager  
 magma - pasta petra  
-magnes - manete  
-magnetyczny - manete di  
+magnes - manite  
+magnetyczny - manitike  
 magnez - magenium  
 maj - mes du  
 Majotta - Mayote  
@@ -2666,8 +2666,8 @@ maszyna - makin
 maszyna do pisania - kitaba gi  
 masło - bute  
 masłosz Parka - karite  
-matematyk - matike  
-matematyka - mate  
+matematyk - numolojer  
+matematyka - numolojia  
 materac - matras  
 materia, substancja - made  
 materialny - madike  
@@ -3000,7 +3000,7 @@ nuda (znudzenie) - bori
 nudności (choroba lokomocyjna) - retro gula sense  
 nudysta - nude sim ja  
 nudyzm - nude sim  
-numer - nume  
+numer (liczyć) - nume  
 nylon - nilon  
 nóż - caku  
 O - O  
@@ -3938,7 +3938,7 @@ sprawiedliwość - adilta
 sprawiedliwy - adil  
 sprawić ból, sprawiać ból - fa pasi  
 sprzedać (sprzedawać) - vende  
-sprzątacz, sprzątacz - safja  
+sprzątacz, sprzątacz - safer  
 spróbować, próbować - proba  
 spróbować, próbować - teste  
 spód - nice  
@@ -4274,7 +4274,7 @@ tyran - zalimer
 tyrania - zalimia  
 tysiąc (kilo-) - kilo  
 tytan - titanium  
-tytoń - tabaku  
+tytoń - tabake  
 tytuł (nagłówek) - tema nam  
 tęcza - rang arka  
 tłok - pompe tape  
@@ -4592,7 +4592,7 @@ węzeł, zupeł - node
 władać, panować, rządzić jako imperator - impere  
 władca - sultaner  
 własność (mienie) - mal  
-właściciel (posiadacz) - mal ja  
+właściciel (posiadacz) - malike  
 właściwy, poprawny - sahi  
 właśnie, dopiero co, ostatnio, niedawno - a neu  
 włos - kexa  
@@ -4629,7 +4629,7 @@ zaimek - vise loga
 zainteresowanie, zaciekawienie; interesujący - san vol  
 zajęty - haste  
 zajęty - mang  
-zaklecie - magi asar  
+zaklecie - mage  
 zakrzywiony - kurva di  
 zakupy (sprawunki, shopping) - xopi  
 zakładać (założyć) - pre si  

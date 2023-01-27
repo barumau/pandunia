@@ -821,7 +821,7 @@ claw (scratch) - fa nahun
 clay - glu poto  
 clean (pure) - saf  
 clean (purify) - fa saf  
-cleaner - safja  
+cleaner - safer  
 cleanliness (purity) - safta  
 cleanly (hygienic, sanitary) - salu saf di  
 clear (obvious) - klar  
@@ -940,6 +940,7 @@ Congo (Brazzaville) - Brazavil Kongo
 Congo Kinshasa - Kinxasa Kongo  
 congratulate (bless) - fa barka  
 congratulations! (blessing, benediction) - barka  
+conjure (do magic, cast a spell; spell) - mage  
 connect (join, link) - fa linke  
 connect - konnete  
 connection - konnetion  
@@ -998,7 +999,6 @@ cougar (puma, mountain lion) - puma
 cough - koso  
 coulomb (unit) - kulombe  
 counselor (consultant) - kon sel ja  
-count (enumerate) - fa nume  
 counterclockwise (anticlockwise) - rota leu  
 country (land, state) - gogia  
 countryside - agristan  
@@ -1193,7 +1193,7 @@ differ (consider different) - disfere
 difference - alo sifa  
 different - alo sifa di  
 dig (pit, cavity) - kava  
-digit (figure, numeral) - nume zi  
+digit (figure, numeral) - numograme  
 digital (relating to computers) - konputeral  
 digital (relating to numbers) - numerike  
 digital clock - komputa hor loga gi  
@@ -1326,7 +1326,7 @@ eastern gorilla - dong gorila
 easy - fasil  
 echo - reflexe sonde  
 ecology (study of environment) - ekolojia  
-economics - mal nomi  
+economics - malonomia  
 Ecuador - Ekuador  
 education (schooling) - xula  
 effect (bring about) - fa asar  
@@ -1508,7 +1508,7 @@ faint (depending on context: soft, dull, mild, weak, slow, subtle) - mirde
 fairy (faery) - pari  
 fairy tale - pari kata  
 fairyland (paradise) - paristan  
-Falkland Islands (Malvinas) - Malvinas nesi  
+Falkland Islands (Malvinas) - Malvina nesia  
 fall - pada  
 fallen - pada di  
 false (fake) - false  
@@ -2168,7 +2168,7 @@ instructions (recipe) - reseta
 insult (offence) - insulte  
 insult (offend, call names) - fa dus nam  
 insult (offense) - dus nam  
-integer (whole number) - holo nume  
+integer (whole number) - holonume  
 intend (plan) - fa plan  
 intensify - be teza  
 intensity (volume) - tezata  
@@ -2543,19 +2543,19 @@ Macao - Makau
 machine (device, aparatus) - gi  
 machine - makin  
 mad (insane, crazy) - deval  
-Madagascar - Madagasi  
+Madagascar - Madagasia  
 madness (insanity) - devalta  
 magazine (journal, gazette) - gazeta  
 magazine (warehouse) - mahazin  
 magenta (fuchsia) - majenta  
-magic - magi  
-magical - magi di  
+magic - magia  
+magical - magike  
 magical power - magi bala  
-magician (sorcerer, mage, wizard) - magi ja  
+magician (sorcerer, mage, wizard) - mager  
 magma - pasta petra  
 magnesium - magenium  
-magnet - manete  
-magnetic - manete di  
+magnet - manite  
+magnetic - manitike  
 magus (Zoroastrian priest) - zarduxtan mager  
 mahjong - majang  
 maid (nanny, ayah) - aya  
@@ -2569,7 +2569,7 @@ make sense (reason) - rate
 maker (factor, agent) - feter  
 maker (manufacturer) - sana ja  
 makrut lime (kaffir lime) - gros limon  
-Malagasy - madagasi di  
+Malagasy - madagas  
 malaria - malaria  
 Malawi - Malavi  
 Malay - malayu  
@@ -2644,8 +2644,8 @@ maternal aunt - ma sis
 maternal grandfather - ma pa  
 maternal grandmother - ma ma  
 maternal uncle - ma bra  
-mathematician - matike  
-mathematics (math) - mate  
+mathematician - numolojer  
+mathematics (math) - numolojia  
 matte (opaque) - foto mata di  
 matter (be important) - ham  
 matter (substance) - made  
@@ -2669,8 +2669,9 @@ meaning (signification) - mana
 measure (measurement) - metri  
 meat (flesh) - karne  
 Mecca - Makah  
-mechanic - makinja  
-mechanical - makin li  
+mechanic - makiniste  
+mechanical - makinike  
+mechanize - makinize  
 medal - medal  
 medallion - medalon  
 medicine (drug, medication) - dava xe  
@@ -3007,7 +3008,7 @@ nuclear physics - kerne fizika
 nuclear weapon (nuke) - kerne vuki  
 nudism - nude sim  
 nudist - nude sim ja  
-number - nume  
+number (quantity; count, enumerate) - nume  
 nylon - nilon  
 
 ## O  
@@ -3134,7 +3135,7 @@ overwrite - vise kitaba
 own (personal, private) - prive  
 own (possess) - fa mal  
 own - se su  
-owner (proprietor) - mal ja  
+owner (proprietor, possessor) - malike  
 oxeye daisy - baku margarite  
 oxide - oxide  
 oxygen - oxe  
@@ -4128,7 +4129,6 @@ spectator (sightseer, observer) - vide ja
 speech (talk) - loge  
 speed (velocity) - sugata  
 speedometer - suga metri gi  
-spell (enchantment) - magi asar  
 spice (seasoning) - masala  
 spider - arane  
 spiderweb (cobweb) - arane nete  
@@ -4457,7 +4457,7 @@ title (headline) - tema nam
 to (toward, till, until, for) - to  
 to be centered (amid, in the middle) - a jong  
 toast (toasted bread) - xava pang  
-tobacco - tabaku  
+tobacco - tabake  
 today - zai den  
 together (jointly, mutually) - a kon  
 Togo - Togo  

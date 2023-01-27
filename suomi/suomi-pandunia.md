@@ -531,7 +531,7 @@ eväsretki (piknik) - vai yam
 
 ## F  
 
-Falklandin saaret - Malvinas nesi  
+Falklandin saaret - Malvina nesia  
 fanaatikko - fanatija  
 fani (-fiili) - fili ja  
 farmakologia - dava xe lojia  
@@ -1495,6 +1495,7 @@ komponentti (kokoonpane) - konpozaje
 komposti - bio sana xe  
 kone - gi  
 kone - makin  
+koneellistaa (mekanisoida) - makinize  
 konepelti - moto cati  
 konkani (eräs intialainen kieli) - Konkani  
 konsertti - konserte  
@@ -1778,7 +1779,6 @@ lasagne - lazanya
 lasi - glas  
 lasittaa - fa glas dake  
 laskea (lasku, laskelma) - hisabe  
-laskea (pitää lukua, numeroida) - fa nume  
 laskea (tehdä laskutoimitus) - fa hisabu  
 laskea tasoa - dus gradu  
 laskeutua portaita - detrepe  
@@ -1922,7 +1922,7 @@ lukita - fa sor
 lukitsematon - detala di  
 lukko - tala  
 luku (jakso, tarinan osa) - babu  
-lukumäärä (luku, numero) - nume  
+lukumäärä (luku, numero; laskea, numeroida) - nume  
 lumi - hima  
 lumikinos - hima duna  
 lumme - nenufar  
@@ -2037,10 +2037,10 @@ maataloudellinen (agraari-) - agral
 maatalousbiologia - agrobiolojia  
 maavoimat - geo ordu  
 Macao - Makau  
-Madagaskar - Madagasi  
-madagaskarilainen (malagassi) - madagasi di  
-magneetti - manete  
-magneettinen - manete di  
+Madagaskar - Madagasia  
+madagaskarilainen (malagassi) - madagas  
+magneetti - manite  
+magneettinen - manitike  
 magnesium - magenium  
 maha (vatsa) - pete  
 mahdollisuus (taito, kyky) - bilta  
@@ -2109,8 +2109,8 @@ matala verenpaine - hipohemopresia
 matala verensokeri (hypoglykemia) - hipoglukohemia  
 mate (matejuoma) - mate cai  
 matekasvi - mate  
-matemaatikko - matike  
-matematiikka (matikka) - mate  
+matemaatikko - numolojer  
+matematiikka (matikka) - numolojia  
 materialismi - madisme  
 matka (reissu) - safar  
 matkailija - safarer  
@@ -2145,8 +2145,8 @@ mehujuoma - frute xarbe
 mehujää (sorbetti) - ais xarbe  
 meidän - mimen su  
 meitnerium - meitnerium  
-mekaanikko - makinja  
-mekaaninen (kone-) - makin li  
+mekaanikko - makiniste  
+mekaaninen (kone-) - makinike  
 mekko (tunika) - kurta  
 Meksiko - Mehiko  
 melodia (sävelmä) - melodi  
@@ -2534,7 +2534,7 @@ Oman - Oman
 omena - aple  
 omenasose - aple sos  
 omistaa - fa mal  
-omistaja (pitäjä, hallussapitäjä) - mal ja  
+omistaja (pitäjä, hallussapitäjä) - malike  
 ommella - kosi  
 ongelma - problem  
 ongelmallinen - problem di  
@@ -3376,7 +3376,7 @@ siirappi - xirope
 siirtää taakse - pospoze  
 siirtää taakse - pospoze  
 siitin (penis) - penis  
-siivooja - safja  
+siivooja - safer  
 sija (taso, ranking, dan) - dan  
 sijaita - be loka  
 sika (possu) - goro  
@@ -3630,14 +3630,14 @@ tahrata (korruptoida) - fa najis
 tahto - ici  
 tahtoa - fa ici  
 tai (vai) - o  
-taianomainen (maaginen) - magi di  
+taianomainen (maaginen) - magike  
 taide - mei arte  
 taidekieli - arte baxa  
 taiga - taiga  
-taika - magi asar  
 taikavoima - magi bala  
-taikuri - magi ja  
-taikuus (magia) - magi  
+taikoa (taika) - mage  
+taikuri - mager  
+taikuus (magia, noituus) - magia  
 Taipei - Taibei  
 taipumus - klin  
 taistelu (sota) - jang  
@@ -3661,7 +3661,7 @@ takuu - garanti
 tallenne (rekisteri, loki) - loga  
 tallettaa (tallentaa) - banke  
 tallium - talium  
-taloustiede (ekonomia) - mal nomi  
+taloustiede (ekonomia) - malonomia  
 talvi - leng mosim  
 talvinen - leng mosim di  
 tamil (eräs intialainen kieli) - Tamil  
@@ -3926,7 +3926,7 @@ tuomita - jude
 tuore (raikas) - taza  
 tuottaa (synnyttää) - gene  
 tuottava (tuottelias) - sana ja di  
-tupakka - tabaku  
+tupakka - tabake  
 tupla (kaksinkertainen) - duple  
 turbaani - pagri  
 turbiini - turbin  

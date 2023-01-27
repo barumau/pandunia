@@ -1119,9 +1119,9 @@ ke tipe - kia?
 ke xe - kio?  
 kecape - keĉupo  
 keci - ĝentila  
+keke - kuko  
 keka - viziti  
 keka ja - vizitanto  
-keke - kuko  
 ken - koni  
 kentaur - centaǔro  
 kerne - kerno (koro)  
@@ -1311,21 +1311,22 @@ ma - patrino
 made - materio  
 madisme - materiismo  
 maf - pardono  
+magia - magio  
 magenium - magnezio  
-magi - magio  
 mahala - kvartalo  
 majang - maĝango  
 makas - tondilo  
 makin - maŝino  
-makinja - meĥaniko (maŝinisto)  
-makin li - meĥanika  
-mal ja - havanto  
-mal nomi - ekonomiko  
+makinike - meĥanika  
+makiniste - meĥaniko (maŝinisto)  
+malike - havanto  
+malonomia - ekonomiko  
 Mali - Malio  
 mana - signifo  
 manera - maniero (konduto)  
 mang - okupata  
 mangan - mangano  
+manite - magneto  
 mar - fojo  
 maraton - maratono  
 marce - promeno (marŝo)  
@@ -1335,8 +1336,6 @@ masa - maso
 masala - spico  
 maska - masko  
 masta - masto  
-mate - matematiko  
-matike - matematikisto  
 mata - morti (morto; morta)  
 matafa - mortigi  
 mataja - mortigisto  
@@ -1533,6 +1532,8 @@ note buku - kajero
 note xe - noto (rimarko, komento)  
 nu - nu  
 nume - nombro  
+numolojer - matematikisto  
+numolojia - matematiko  
 o - aŭ  
 
 ## O  
@@ -1777,7 +1778,7 @@ sabu - kialo
 sabun - sapo  
 saf - pura  
 • ansaf - malpura  
-safja - purigisto  
+safer - purigisto  
 safta - pureco  
 safar - vojaĝo  
 safarer - vojaĝanto  
@@ -1933,7 +1934,7 @@ suxi - suŝio
 
 ## T  
 
-tabaku - tabako  
+tabake - tabako  
 tabi - naturo  
 Tai baxa - tajlanda  
 Tai Dexa - Tajlando  

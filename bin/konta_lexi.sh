@@ -1,8 +1,8 @@
 #!/bin/bash
 kitaba_pike() {
-   echo "# nume de pandunia lexi de alo baxa" > pandunia/lexi_nume.md
+   echo "# nume de pandunia lexe de alo baxe" > pandunia/lexi_nume.md
    echo "" >> pandunia/lexi_nume.md
-   echo "| baxa  | nume  | fen |" >> pandunia/lexi_nume.md
+   echo "| baxe  | nume  | fen |" >> pandunia/lexi_nume.md
    echo "|-------|-------|-----|" >> pandunia/lexi_nume.md
    cat temp/stats.txt >> pandunia/lexi_nume.md
 }
@@ -58,6 +58,7 @@ konta_bax may malayu $pan
 
 konta_bax ara arabi $pan
 konta_bax swa suahili $pan
+konta_bax hau hausa $pan
 
 #kina nam e numbe va sami linye
 perl -pi -e 's/ \n/ /' temp/stats.txt
