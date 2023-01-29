@@ -358,7 +358,7 @@ boing - rebondir
 boka cati - palais de la bouche  
 bol - balle (boule)  
 bolte - boulon  
-bomba - bombe  
+bombe - bombe  
 bon - bon  
 bon sin di - propice  
 borium - bohrium  
@@ -384,6 +384,7 @@ burge - fort
 buro - bureau (office)  
 buro krati - bureaucratie  
 buro riti - protocole  
+bus - bus  
 bus halte - arrêt de bus  
 busu - bisou  
 bute - beurre  
@@ -1042,7 +1043,7 @@ kalium - potassium
 kala - noir  
 kalam - plume  
 kalam sui - encre  
-kalenda - calendrier  
+kalende - calendrier  
 kali - base (alcali; basique)  
 kali di - basique  
 kali guste - amer  
@@ -1471,7 +1472,7 @@ mosim - saison
 moski - moustique  
 moskvium - moscovium  
 mostre - monstre  
-moto - moteur  
+moter - moteur  
 moto cati - capot  
 mudan - pivoine  
 muka - visage  
@@ -1733,6 +1734,7 @@ polipli - multiple
 polite - gouvernement  
 politike - administrateur  
 polskium - polonium  
+pompe - pompe  
 pompe tape - piston  
 pore - pore  
 porei - poireau  

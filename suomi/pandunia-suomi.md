@@ -350,8 +350,9 @@ baluta frute - tammenterho
 bambu - bambu  
 bamia - okra  
 banana - banaani  
+bande - sitoa (kääriä siteeseen)  
+bandaje - side  
 banda - ryhmä (työryhmä, yhtye, bändi)  
-bande - nauha (side)  
 bandera - lippu  
 bangla baxa - bengali  
 Bangla gogia - Bangladesh  
@@ -576,7 +577,7 @@ boli - keittää (kiehuttaa)
 boli varis - kypsä riisi  
 Bolivia - Bolivia  
 bolte - pultti  
-bomba - pommi  
+bombe - pommi  
 bon - hyvä  
 bon gradu - nostaa tasoa  
 bon guste di - herkullinen (nami)  
@@ -2106,7 +2107,7 @@ kala - musta
 Kalal - Grönlanti  
 kalam - kynä  
 kalam sui - muste  
-kalenda - kalenteri  
+kalende - kalenteri  
 kali - emäs (emäksinen, alkalinen)  
 kali di - emäksinen (alkalinen)  
 kali guste - kitkerä (karvas)  
@@ -2210,7 +2211,8 @@ karta - kortti
 Kartul - Georgia  
 karuba - johanneksenleipäpuu  
 karvan - karavaani (saattue)  
-kasa - laatikko  
+kase - laatikko  
+kasete - kasetti  
 kaska - kuori (suojakuori, suoja)  
 kastana - kastanja  
 Kastilia - Kastilia  
@@ -2631,7 +2633,7 @@ Magyar - Unkari
 mahala - kaupunginosa (kortteli, naapurusto)  
 mais - maissi  
 majang - mahjong  
-makala - artikkeli (kirjoitus)  
+makale - artikkeli (kirjoitus)  
 makas - sakset  
 Makau - Macao  
 makin - kone  
@@ -2875,7 +2877,7 @@ moski - hyttynen (sääski)
 Moskva - Moskova  
 moskvium - moscovium  
 mostre - hirviö  
-moto - moottori  
+moter - moottori  
 moto cati - konepelti  
 moto gar - auto (automobiili)  
 moto sikle - moottoripyörä  
@@ -3464,9 +3466,10 @@ Qazaqe - Kazakstan
 
 ## R  
 
+rade - säde  
+radion - säteily  
 radium - radium  
-radi - säde  
-radi metri gi - säteilymittari  
+radometrer - säteilymittari  
 radio mise gi - radiolähetin  
 radio na gi - radiovastaanotin  
 radon - radon  

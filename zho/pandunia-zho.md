@@ -244,7 +244,7 @@ bocer - 拳击手
 boka cati - 上颚 (口盖)  
 bol - 球  
 boli varis - 饭 (米饭)  
-bomba - 炸弹  
+bombe - 炸弹  
 bon - 好  
 bon moral - 道德  
 bon sin di - 吉利的  
@@ -830,7 +830,7 @@ kalium - 钾
 kala - 黑色  
 kalam - 笔  
 kalam sui - 墨水  
-kalenda - 日历  
+kalende - 日历  
 kali - 碱性  
 kali guste - 苦的  
 kali melon - 苦瓜  
@@ -890,6 +890,7 @@ karote - 红萝卜
 karte - 地图  
 kartografia - 地图学  
 karta - 牌  
+kasete - 卡式  
 kaska - 壳 (皮)  
 katus - 仙人掌  
 kauri - 宝贝  
@@ -1184,7 +1185,7 @@ mos - 苔藓
 mosim - 季  
 moski - 蚊子  
 mostre - 妖怪 (怪物)  
-moto - 马达 (发动机)  
+moter - 马达 (发动机)  
 moto cati - 引擎盖  
 mudan - 牡丹  
 mula - 根  
@@ -1401,6 +1402,7 @@ polite - 政府
 politi lona - 政治  
 politi mode - 政体  
 polskium - 钋  
+pompe - 泵 (唧筒)  
 pompe tape - 活塞  
 porei - 韭葱  
 • reporter - 记者  

@@ -326,8 +326,9 @@ baluta frute - żołądź
 bambu - bambus  
 bamia -   
 banana - banan  
+bande -   
+bandaje - taśma; bandaż  
 banda - zespół (drużyna, grupa)  
-bande - taśma; bandaż  
 bandera - flaga, sztandar  
 bangla baxa - banglijski  
 Bangla gogia - Bangladesz  
@@ -554,7 +555,7 @@ boli - zapomnieć, zapominać
 boli varis -   
 Bolivia - Boliwia  
 bolte -   
-bomba - bomba  
+bombe - bomba  
 bon - dobry  
 bon gradu - aktualizować (zaktualizować, ulepszać, ulepszyć)  
 bon guste di - pyszny  
@@ -2198,7 +2199,7 @@ kala - czarny
 Kalal - Grenlandia  
 kalam - pióro, długopis  
 kalam sui - tusz  
-kalenda - kalendarz  
+kalende - kalendarz  
 kali -   
 kali di -   
 kali guste - gorzki  
@@ -2320,7 +2321,8 @@ karta - karta
 Kartul - Gruzja (Republika Gruzji)  
 karuba -   
 karvan - karawana  
-kasa -   
+kase -   
+kasete -   
 kaska - skorupa (pancerz, muszla)  
 kastana - kasztan  
 Kastilia -   
@@ -2804,7 +2806,7 @@ mais - kukurydza
 majang - madżong  
 majenta - magenta  
 Makah - Mekka  
-makala - artykuł, tekst  
+makale - artykuł, tekst  
 makan hua - mlecz  
 makas - nożyce, nożyczki  
 Makau - Makau  
@@ -3089,7 +3091,7 @@ moski - komar, moskit
 Moskva - Moskwa  
 moskvium - moskovium  
 mostre - potwór, monstrum  
-moto - silnik  
+moter - silnik  
 moto cati -   
 moto gar - samochód (automobil)  
 moto sikle - motocykl (motor)  
@@ -3763,10 +3765,11 @@ Qazaqe - Kazachstan
 
 ## R  
 
+rade - promień  
+radion -   
 radium - rad  
-radi - promień  
+radometrer - radoiometr  
 radi longta -   
-radi metri gi - radoiometr  
 radio - radio  
 radio mise gi - nadajnik radiowy  
 radio na gi - radio  
@@ -3906,9 +3909,9 @@ sabun - mydło
 sada - zwykły, zwyczajny, prosty  
 saf - czysty  
 • ansaf - brudny  
+saf tela -   
 safer - sprzątacz, sprzątacz  
 safta -   
-saf tela -   
 safar - podróż  
 safar ceke -   
 safarer - podróżnik  

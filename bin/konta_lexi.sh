@@ -46,7 +46,8 @@ konta_bax rus rus $pan
 
 konta_bax hin hindi $pan
 konta_bax ben bangla $pan
-#konta_bax fas farsi $pan
+konta_bax tam tamil $pan
+konta_bax fas parsi $pan
 konta_bax tur turki $pan
 
 konta_bax zho putonghan $pan

@@ -305,7 +305,7 @@ artificial (sintético) - arte fete di
 artista - arteja  
 Artsaj - Arcah  
 artículo (documento) - papir  
-artículo (texto) - makala  
+artículo (texto) - makale  
 Aruba - Aruba  
 arácnido - aranide  
 asar (tostar, rostir) - xava  
@@ -403,7 +403,7 @@ bambú - bambu
 banco (silla) - benci  
 banco - bankekan  
 banco de datos (base de datos) - data banke  
-banda (cinta) - bande  
+banda (cinta) - bandaje  
 banda - banda  
 bandera - bandera  
 Bangladés - Bangla gogia  
@@ -487,9 +487,9 @@ boletín de noticias - habar letre
 Bolivia - Bolivia  
 bolsillo - jebe  
 bolígrafo - kalam  
-bomba - bomba  
+bomba - bombe  
+bomba - pompe  
 bomba atómica - atom bomba  
-bombear - pompe  
 boro - boron  
 Bosnia y Herzegovina - Bosna i Hercegovina  
 bosque (jungla, selva) - jangal  
@@ -590,7 +590,7 @@ calcular (computar) - fa komputa
 calcular (computar) - konpute  
 calcular - fa hisabu  
 caldero - dai pote  
-calendario - kalenda  
+calendario - kalende  
 calidad (excelencia, mérito, virtud, ventaja) - bon sifata  
 caliente (cálido) - garma  
 califa - halife  
@@ -2630,7 +2630,7 @@ mosquete - muskete
 mosquetero - muskete ja  
 mosquito (mosco) - moski  
 motocicleta - moto sikle  
-motor - moto  
+motor - moter  
 moverse - be kino  
 movimiento - kino  
 movimiento - move  
@@ -3361,6 +3361,7 @@ racional - rational
 racismo - rasa sim  
 racista - rasa sim ja  
 ración (dosis) - doze  
+radiación - radion  
 radiación ionizante - ion radi  
 radiactivo - ion radi di  
 radiar (emitir) - fa radi  
@@ -3368,7 +3369,7 @@ radio (mitad de diámetro) - radi longta
 radio - radio  
 radio - radium  
 radiotransmisor - radio mise gi  
-radiómetro - radi metri gi  
+radiómetro - radometrer  
 radón - radon  
 raja (grieta) - krake  
 rajá - hindi raja  
@@ -3384,7 +3385,7 @@ raro - nadir
 rasgar (romper) - cira  
 raspar (arañar) - frike  
 ratón - muxu  
-rayo (radiación) - radi  
+rayo - rade  
 rayo luminoso - foto radi  
 raza - rasa  
 razonamiento - ration  

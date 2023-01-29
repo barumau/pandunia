@@ -267,7 +267,7 @@ boi - поплавок (буй)
 boka cati - нёбо  
 bol - шар  
 bolte - болт  
-bomba - бомба  
+bombe - бомба  
 bon - хороший  
 bon sin di - благоприятный  
 borium - борий  
@@ -296,6 +296,7 @@ buro - контора (бюро, офис)
 buro di - казённый (формальный)  
 buro krati - бюрократия  
 buro riti - этикет (протокол)  
+bus - автобус  
 bus halte - автобусная остановка  
 busu - поцелуй  
 bute - масло (сливочное масло)  
@@ -912,7 +913,7 @@ kalium - калий
 kala - чёрный  
 kalam - ручка  
 kalam sui - чернила  
-kalenda - календарь  
+kalende - календарь  
 kali - щёлочь  
 kali guste - горький  
 kali melon - горький огурец (китайская горькая тыква)  
@@ -1311,7 +1312,7 @@ moski - комар (москит)
 Moskva - Москва  
 moskvium - московий  
 mostre - монстр  
-moto - мотор  
+moter - мотор  
 moto cati - капот  
 moto sikle - мотоцикл  
 mudan - пион  
@@ -1554,6 +1555,7 @@ poli baxa di - многоязычный
 Polinesia - Полинезия  
 politike - управляющий  
 polskium - полоний  
+pompe - насос (помпа)  
 pompe tape - поршень  
 pore - пора  
 porei - лук-порей  

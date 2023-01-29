@@ -185,7 +185,7 @@ arrakki - varis araki
 arseeni - arsenium  
 artefakti (keinotekoinen esine) - arte fete  
 artesaani (käsityöläinen) - arte sanaja  
-artikkeli (kirjoitus) - makala  
+artikkeli (kirjoitus) - makale  
 artisokka - karcof  
 Artsakhin tasavalta - Arcah  
 Aruba - Aruba  
@@ -1156,7 +1156,7 @@ kaksisiipinen - zeze
 kaktus - katus  
 kala - pexe  
 kalastaja - pexe saide ja  
-kalenteri - kalenda  
+kalenteri - kalende  
 kalifaatti - halifia  
 kalifi - halife  
 kalifornium - kalifornium  
@@ -1227,6 +1227,7 @@ kartta - karte
 karvaton - kexa hin  
 kasa (läjä; kasautua, kumuloitua) - kumule  
 kasarmi - ordu jen kan  
+kasetti - kasete  
 kassa - pesa kasa  
 kassanhoitaja - pesa kasa ja  
 kassava (maniokki) - manioka  
@@ -1734,7 +1735,7 @@ köynnös - trepater
 laadukas (hyvä) - bon sifa di  
 laakso - vali  
 laastari - glu bande  
-laatikko - kasa  
+laatikko - kase  
 laatikko - sanduku  
 laatta (levy) - table  
 laatu (laadukkuus, erinomaisuus, hyvyys) - bon sifata  
@@ -2258,7 +2259,7 @@ monokkeli - un yen di lense
 monoteismi (yksijumalisuus) - un deu sim  
 montako? (paljonko?) - ke poli di  
 Montenegro - cernagora  
-moottori - moto  
+moottori - moter  
 moottoripyörä - moto sikle  
 moraali - moral  
 moraalinen - moral di  
@@ -2371,7 +2372,6 @@ nationalisti - nasiste
 natrium - natri  
 natriumglutamaatti - vijin  
 natsi - nasial sosialiste  
-nauha (side) - bande  
 naula (piikki) - dingi  
 nauraa - haha  
 Nauru - Nauru  
@@ -2887,7 +2887,7 @@ polttaa - fa hogo
 polvi - guta  
 polvilumpio - guta kaska oste  
 polyteismi (monijumalisuus) - poli deu sim  
-pommi - bomba  
+pommi - bombe  
 porata - fora  
 porkkana - karote  
 porno - porno  
@@ -3356,6 +3356,7 @@ seutu (maa, alue) - tope
 Seychellit - Sexel nesi  
 sianliha - goro karne  
 side (remmi) - faxi  
+side - bandaje  
 siemen - seme  
 siemen- - seme di  
 siemenjyvä - seme dana  
@@ -3428,6 +3429,7 @@ sisäänpäin - intre
 sisäänpäinsuuntautunut (introvertti) - in verse jen  
 sisäänpäinsuuntautunut (introvertti) - intraverse  
 sisääntulo (pääsy) - inlai  
+sitoa (kääriä siteeseen) - bande  
 sitoa - fa bande  
 sitruuna - limon  
 sivilisaatio - sivilta  
@@ -3593,7 +3595,7 @@ Syyria - Suria
 syyskuu - mes tisa  
 syömäpuikot - haxi  
 syöttää tietoja (syöte) - inpute  
-säde - radi  
+säde - rade  
 sädekehä (halo) - foto gola  
 säe (riimi) - rim  
 sähkö - eletre  
@@ -3607,7 +3609,8 @@ säilyttää (varjella, säästää) - hafiza
 säilötty - acar di  
 säilöä - fa acar  
 säteillä - fa radi  
-säteilymittari - radi metri gi  
+säteily - radion  
+säteilymittari - radometrer  
 sävel (sävy) - ton  
 sää - sama hal  
 sääty (kasti) - gene klas  

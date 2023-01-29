@@ -806,7 +806,7 @@ kalium - カリウム
 kala - 黒い  
 kalam - ペン  
 kalam sui - インク (墨)  
-kalenda - 暦 (カレンダー)  
+kalende - 暦 (カレンダー)  
 kali - 塩基  
 kali guste - 苦い  
 kali melon - ツルレイシ (ニガウリ)  
@@ -865,6 +865,7 @@ karote - ニンジン
 karte - 地図  
 karta - カルタ  
 karuba - 蝗豆  
+kasete - カセット  
 kaska - 殻 (皮)  
 katana - 刀  
 katus - サボテン  
@@ -1179,7 +1180,7 @@ mosim - 季節
 moski - 蚊  
 moskvium - モスコビウム  
 mostre - 怪物  (モンスター)  
-moto - モーター (エンジン, 機関)  
+moter - モーター (エンジン, 機関)  
 moto cati - ボンネット (フード)  
 moto sikle - オートバイ (モーターサイクル)  
 mudan - 牡丹  
@@ -1382,6 +1383,7 @@ polite - 政府
 politi lona - 政道  
 politi mode - 政体  
 polskium - ポロニウム  
+pompe - ポンプ  
 pompe tape - ピストン (活塞)  
 pore - 線  
 porei - リーキ  

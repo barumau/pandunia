@@ -300,7 +300,7 @@ bloquer - bara
 blé - gandum  
 bohrium - borium  
 boire - xarbe  
-bombe - bomba  
+bombe - bombe  
 bombe atomique - atom bomba  
 bon - bon  
 bonbon - kandi  
@@ -340,6 +340,7 @@ buisson - dipe moka
 bulletin (infolettre) - habar letre  
 bureau (office) - buro  
 bureaucratie - buro krati  
+bus - bus  
 but (destination) - gol  
 butane - butan  
 bâtiment - bine  
@@ -372,7 +373,7 @@ calcaire - kalsopetre
 calcite - kalsite  
 calcium - kalsium  
 calculer - fa hisabu  
-calendrier - kalenda  
+calendrier - kalende  
 caleçon - boce pante  
 calife - halife  
 californium - kalifornium  
@@ -1320,7 +1321,7 @@ morue du Pacifique - pace bahai bakalau
 moscovium - moskvium  
 mot - lexi  
 mot de passe - pas loga  
-moteur - moto  
+moteur - moter  
 mouche - dom zeze  
 moudre - fa mol  
 mouiller - fa xipi  
@@ -1648,6 +1649,7 @@ polonium - polskium
 Polynesie - Polinesia  
 Polynésie française - Franse Polinesi  
 pomme - aple  
+pompe - pompe  
 pont - kio  
 porcelaine - cini  
 pore - pore  

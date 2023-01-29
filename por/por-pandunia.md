@@ -233,7 +233,8 @@ boletim de notícias - habar letre
 bolo lunar - luna keke  
 bolso (algebeira) - jebe  
 bom - bon  
-bomba - bomba  
+bomba - bombe  
+bomba - pompe  
 bomba atômica - atom bomba  
 bombom (doce) - kandi  
 bombordo - nave leu  
@@ -284,7 +285,7 @@ cal - kalside
 calcita - kalsite  
 calcular - fa hisabu  
 calcário - kalsopetre  
-calendário - kalenda  
+calendário - kalende  
 califa - halife  
 califórnio - kalifornium  
 calvo - kapa kexa hin  
@@ -1215,7 +1216,7 @@ morder - fa dante
 morder - gata a dante  
 moscovio - moskvium  
 mosquito - moski  
-motor - moto  
+motor - moter  
 mover - fa kino  
 Mover-se - be kino  
 mudança climática - klima mute  

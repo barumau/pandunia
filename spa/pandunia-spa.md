@@ -295,8 +295,8 @@ baluta frute - bellota
 bambu - bambú  
 bamia - ocra  
 banana - plátano (banana)  
+bandaje - banda (cinta)  
 banda - banda  
-bande - banda (cinta)  
 bandera - bandera  
 bangla baxa - idioma bengalí  
 Bangla gogia - Bangladés  
@@ -490,7 +490,7 @@ bol - bola
 Bolgaria - Bulgaria  
 boli - hervir (cocer)  
 Bolivia - Bolivia  
-bomba - bomba  
+bombe - bomba  
 bon - bueno  
 bon gradu - mejorar  
 bon guste di - delicioso  
@@ -1903,7 +1903,7 @@ kala - negro
 Kalal - Groenlandia  
 kalam - bolígrafo  
 kalam sui - tinta  
-kalenda - calendario  
+kalende - calendario  
 kali - base (álcali; alcalino)  
 kali di - alcalino  
 kali guste - amargo  
@@ -2412,7 +2412,7 @@ mahala - barrio (cuartel)
 mais - maíz  
 majang - mahjong  
 majenta - magenta (fucsia)  
-makala - artículo (texto)  
+makale - artículo (texto)  
 makan hua - dientes de león (panaderos)  
 makas - tijera  
 Makau - Macao  
@@ -2668,7 +2668,7 @@ mosim - estación (temporada)
 moski - mosquito (mosco)  
 moskvium - moscovio  
 mostre - monstro  
-moto - motor  
+moter - motor  
 moto cati - capó (bonete)  
 moto gar - automóvil (coche)  
 moto sikle - motocicleta  
@@ -3152,7 +3152,7 @@ politi mode - régimen
 polskium - polonio  
 Polska - Polonia  
 polska baxa - idioma polaco  
-pompe - bombear  
+pompe - bomba  
 pompe tape - pistón  
 pore - poro  
 porei - puerro (cebolla larga)  
@@ -3245,10 +3245,11 @@ Qazaqe - Kazajistán (Kazakistan)
 
 ## R  
 
+rade - rayo  
+radion - radiación  
 radium - radio  
-radi - rayo (radiación)  
+radometrer - radiómetro  
 radi longta - radio (mitad de diámetro)  
-radi metri gi - radiómetro  
 radio - radio  
 radio mise gi - radiotransmisor  
 radio na gi - receptor de radio  
@@ -3375,8 +3376,8 @@ sabun - jabón
 sada - sencillo (liso)  
 saf - limpio  
 • ansaf - sucio  
-safer - limpiador  
 saf tela - trapo (tela para limpiar)  
+safer - limpiador  
 safar - viaje  
 safar ceke - cheque de viajero  
 safarer - viajero  

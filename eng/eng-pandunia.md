@@ -237,7 +237,7 @@ arrack - varis araki
 arrow (bolt) - flece  
 arsenic - arsenium  
 artichoke thistle (cardoon) - kardon karcof  
-article (writing) - makala  
+article (writing) - makale  
 artifact (artefact) - arte fete  
 artificial - arte fete di  
 artificial intelligence (AI) - arte fete intelige (AI)  
@@ -347,8 +347,8 @@ balloon - balon
 bamboo - bambu  
 banana - banana  
 band (squad, group) - banda  
-band (tape, bandage) - bande  
 bandage (strip, ribbon) - faxi  
+bandage - bandaje  
 Bangladesh - Bangla gogia  
 banister (handrail) - langan  
 bank (depository, cache) - bankekan  
@@ -459,6 +459,7 @@ bilingual - dubaxike
 bilingual - dubaxike  
 bill (check, invoice) - fatura  
 billion (giga-) - giga  
+bind (wrap in bandage) - bande  
 biological sex - bio jinse  
 biology (study of organic life) - biolojia  
 biome - biosistem  
@@ -510,7 +511,7 @@ bok choy - baku coi
 bold letter - gros zi  
 Bolivia - Bolivia  
 bolt - bolte  
-bomb - bomba  
+bomb - bombe  
 bon appetit! - sal yam  
 bone - oste  
 bonus - bon max xe  
@@ -536,7 +537,7 @@ bow (arch, arc) - arka
 bow instrument (violin, etc.) - ticin  
 bowl (dish) - tasa  
 box (chest) - sanduku  
-box (container) - kasa  
+box (container) - kase  
 boxer - bocer  
 boxer shorts (boxers) - boce pante  
 boxing - boce  
@@ -635,7 +636,7 @@ calcium (Ca) - kalsium
 calculate - fa hisabu  
 calculate - hisabe  
 calculus (manipulation of symbolic expressions) - kalkul  
-calendar - kalenda  
+calendar - kalende  
 californium - kalifornium  
 caliph - halife  
 caliphate - halifia  
@@ -699,6 +700,7 @@ cash box - pesa kasa
 cashew - kaju  
 cashier - pesa kasa ja  
 cassava (manioc) - manioka  
+cassette - kasete  
 caste - gene klas  
 Castil - Kastilia  
 Castilian (Spanish) - kastilia baxa  
@@ -1374,7 +1376,7 @@ endonym - in nam
 enemy (foe, villain) - dus jen  
 enemy (unfriend) - andosti  
 energy - energia  
-engine (motor) - moto  
+engine (motor) - moter  
 engineer - enjener  
 engineering - enjenia  
 England - Englix  
@@ -3577,11 +3579,12 @@ race (breed) - rasa
 racism - rasa sim  
 racist - rasa sim ja  
 radiate - fa radi  
+radiation - radion  
 radio - radio  
 radio receiver - radio na gi  
 radioactive - ion radi di  
 radioactivity (ionizing radiation) - ion radi  
-radiometer - radi metri gi  
+radiometer - radometrer  
 radiotransmitter - radio mise gi  
 radish - loba  
 radium - radium  
@@ -3609,7 +3612,7 @@ rarity - nadirta
 rational (reasonable) - rational  
 raw (crude) - gene di  
 raw (crude, fresh) - seng  
-ray (radiation) - radi  
+ray - rade  
 ray of light - foto radi  
 react - reate  
 reaction - reation  

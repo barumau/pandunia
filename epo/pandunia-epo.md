@@ -167,7 +167,7 @@ balon - balono
 baluta - kverko  
 bambu - bambuo  
 banana - banano  
-bande - bandaĝo (vindo)  
+bandaje - bandaĝo (vindo)  
 bandera - flago  
 Bangla gogia - Bangladeŝo  
 banker - bankisto  
@@ -294,7 +294,7 @@ Bolgaria - Bulgario
 boli - boligi  
 Bolivia - Bolivio  
 bolte - bolto  
-bomba - bombo  
+bombe - bombo  
 bon - bona  
 bon sifata - eco  
 bon vide di - bonaspekta  
@@ -1045,7 +1045,7 @@ kalium - kalio
 kala - nigra  
 kalam - plumo  
 kalam sui - inko  
-kalenda - kalendaro  
+kalende - kalendaro  
 kali - alkala  
 kali di - alkaleca  
 kali guste - amara  
@@ -1426,7 +1426,7 @@ mosim - sezono
 moski - kulo (moskito)  
 moskvium - moskovio  
 mostre - monstro  
-moto - motoro  
+moter - motoro  
 move - movo  
 muka - vizaĝo  
 mula - radiko  
@@ -1676,6 +1676,7 @@ politike - politikisto
 politi di - politika  
 politi lona - politiko  
 polskium - polonio  
+pompe - pumpilo  
 pore - poro  
 porei - poreo  
 porto - haveno  

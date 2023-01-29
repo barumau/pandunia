@@ -260,7 +260,7 @@ bocer - boxeador (pugilista)
 boing - rebater  
 boka cati - palato (céu da boca)  
 bol - bola  
-bomba - bomba  
+bombe - bomba  
 bon - bom  
 borium - bóhrio  
 boron - boro  
@@ -856,7 +856,7 @@ kalium - potássio
 kala - preto  
 kalam - lápis  
 kalam sui - tinta  
-kalenda - calendário  
+kalende - calendário  
 kali - base (álcali; alcalino)  
 kali di - alcalino  
 kali guste - amargo  
@@ -1267,7 +1267,7 @@ mosim - estação (sazão)
 moski - mosquito  
 moskvium - moscovio  
 mostre - monstro  
-moto - motor  
+moter - motor  
 moto cati - capô  
 mudan - peônia  
 mula - raíz  
@@ -1519,6 +1519,7 @@ polite - governo
 politike - administrador  
 politi mode - regime  
 polskium - polónio  
+pompe - bomba  
 pompe tape - pistão  
 pore - poro  
 porei - alho-porro  

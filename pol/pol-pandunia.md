@@ -70,6 +70,7 @@
  - bai  
  - baku varis  
  - bamia  
+ - bande  
  - bankexefe  
  - bankrute  
  - bar vala  
@@ -485,7 +486,8 @@
  - karnize  
  - karnizer  
  - karuba  
- - kasa  
+ - kase  
+ - kasete  
  - Kastilia  
  - kastilia baxa  
  - kata ja  
@@ -752,6 +754,7 @@
  - pulmon tis  
  - pute  
  - radi longta  
+ - radion  
  - rage  
  - ratekan  
  - ratibu li  
@@ -1274,7 +1277,7 @@ armia - ordu
 aromantyczny - anromanse  
 arsen - arsenium  
 artykuł wiki - viki makala  
-artykuł, tekst - makala  
+artykuł, tekst - makale  
 artysta - arteja  
 Aruba - Aruba  
 arytmetyka - hisabia  
@@ -1404,7 +1407,7 @@ bojkot - boikote
 boks - boce  
 bolesny - algike  
 Boliwia - Bolivia  
-bomba - bomba  
+bomba - bombe  
 bomba atomowa - atom bomba  
 Bombaj (Mumbaj) - Mumbai  
 bor - boron  
@@ -2220,7 +2223,7 @@ kakao - kakau
 kaktus - katus  
 kalafior - hua koli  
 kalcyt - kalsite  
-kalendarz - kalenda  
+kalendarz - kalende  
 kalif - halife  
 kalifat - halifia  
 kaliforn - kalifornium  
@@ -3492,7 +3495,7 @@ projektor (rzutnik) - grafi lanse gi
 projektor (rzutnik) - grafi projeter  
 promet - prometium  
 promieniować - fa radi  
-promień - radi  
+promień - rade  
 promień światła - foto radi  
 proponować (sugerować; propozycja, sugestia) - propoze  
 proroctwo - nabi  
@@ -3632,7 +3635,7 @@ radio - radio
 radio - radio na gi  
 radioaktywność - ion radi  
 radioaktywny - ion radi di  
-radoiometr - radi metri gi  
+radoiometr - radometrer  
 radon - radon  
 rakieta - rakete  
 rama - frem  
@@ -3859,7 +3862,7 @@ sikać, szczać, oddawać mocz - fa pix
 sikh - siki din ja  
 sikhizm - siki din  
 siki - pixe  
-silnik - moto  
+silnik - moter  
 silny - bala  
 Singapur - Singapur  
 się (nawzajem, wzajemnie) - semen  
@@ -4143,7 +4146,7 @@ tartak - xarakan
 tatuaż - tatu  
 taxi, taksówka - taxi gar  
 taśma - tepe  
-taśma; bandaż - bande  
+taśma; bandaż - bandaje  
 tchórz, fretka - furete  
 technet - tehnetium  
 technika, technologia - tehne  

@@ -361,8 +361,9 @@ baluta frute - acorn
 bambu - bamboo  
 bamia - okra (okro)  
 banana - banana  
+bande - bind (wrap in bandage)  
+bandaje - bandage  
 banda - band (squad, group)  
-bande - band (tape, bandage)  
 bandera - flag (banner)  
 bangla baxa - Bengali language (Bangla)  
 Bangla gogia - Bangladesh  
@@ -589,7 +590,7 @@ boli - boil (cook)
 boli varis - cooked rice  
 Bolivia - Bolivia  
 bolte - bolt  
-bomba - bomb  
+bombe - bomb  
 bon - good  
 bon gradu - upgrade (level up)  
 bon guste di - delicious (yummy)  
@@ -2232,7 +2233,7 @@ kala - black
 Kalal - Greenland  
 kalam - pen (writing tool)  
 kalam sui - ink  
-kalenda - calendar  
+kalende - calendar  
 kali - base (alkali; alkaline)  
 kali di - alkaline  
 kali guste - bitter  
@@ -2354,7 +2355,8 @@ karta - card
 Kartul - Georgia (Republic of Georgia)  
 karuba - carob (St. John's bread)  
 karvan - caravan (convoy)  
-kasa - box (container)  
+kase - box (container)  
+kasete - cassette  
 kaska - shell (crust, carapace, shield)  
 kastana - chestnut  
 Kastilia - Castil  
@@ -2837,7 +2839,7 @@ mais - corn (maize)
 majang - mahjong  
 majenta - magenta (fuchsia)  
 Makah - Mecca  
-makala - article (writing)  
+makale - article (writing)  
 makan hua - dandelion  
 makas - scissors (shears)  
 Makau - Macao  
@@ -3122,7 +3124,7 @@ moski - mosquito
 Moskva - Moscow  
 moskvium - moscovium  
 mostre - monster  
-moto - engine (motor)  
+moter - engine (motor)  
 moto cati - hood (bonnet, cover over the engine)  
 moto gar - motorcar (automobile)  
 moto sikle - motorcycle  
@@ -3796,10 +3798,11 @@ Qazaqe - Kazakhstan
 
 ## R  
 
+rade - ray  
+radion - radiation  
 radium - radium  
-radi - ray (radiation)  
+radometrer - radiometer  
 radi longta - radius  
-radi metri gi - radiometer  
 radio - radio  
 radio mise gi - radiotransmitter  
 radio na gi - radio receiver  
@@ -3940,9 +3943,9 @@ sabun - soap
 sada - plain (ordinary, unadorned, simple, mere, pure)  
 saf - clean (pure)  
 • ansaf - dirty  
+saf tela - wipe (rag, cleaning cloth)  
 safer - cleaner  
 safta - cleanliness (purity)  
-saf tela - wipe (rag, cleaning cloth)  
 safar - travel (voyage, trip)  
 safar ceke - traveller's cheque (traveler's check)  
 safarer - traveler  

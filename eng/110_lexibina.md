@@ -373,7 +373,7 @@ are not compound words in Pandunia.
 → **rotate**
 'rotate, turn like a wheel'
 
-**-ation** = **-ate* + **-ion**
+**-ation** = **-ate** + **-ion**
 'doing, action' :  
 **anime**
 'to animate'
