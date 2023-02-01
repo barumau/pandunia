@@ -2,9 +2,9 @@
 
 Un modificateurs est un mot qui ajoute une qualité ou une description à un autre mot, par exemple _bon, mauvais, gros_ et _rapide_.
 
-**un _neu_ gar**
+**un _neu_ car**
 – une voiture nouvelle  
-**un _suga_ gar**
+**un _suga_ car**
 – voiture(s) rapide(s)
 **men _dai_ meza**
 – grande(s) table(s)  
@@ -15,20 +15,20 @@ Un modificateurs est un mot qui ajoute une qualité ou une description à un aut
 
 Deux adjectifs ou plus peuvent modifier un même mot.
 
-**un xiu neu gar**
+**un xiu neu car**
 – petite voiture neuve
 
 L'adjectif peut se placer aussi après le nom.
 Cette structure peut souvent se lire comme une phrase complète, où l'adjectif fonctionne comme un verbe adjectival, et où le verbe _être_ est sous-entendu.
 
-**la gar e neu.** 
+**la car es neu.** 
 – La voiture est neuve.  
-**la bagre e suga.** 
+**la bagre es suga.** 
 – Le tigre est rapide.
 
 Naturellement, il peut y avoir des modificateurs des deux côtés du nom également.
 
-**la neu gar e suga.** 
+**la neu car es suga.** 
 – La voiture neuve est rapide.
 
 # Adverbes
@@ -84,7 +84,7 @@ Les modificateurs peuvent être comparés.
 
 La particule **ko** met en relation les adverbes de comparaison à l'élément comparé.
 
-**mi e max bon ka tu.**
+**mi es max bon ka tu.**
 = Je suis meilleur que toi.  
 **tu loga par bon ka mi.**
 = Tu parles aussi bien que moi.

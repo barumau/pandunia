@@ -920,7 +920,7 @@ gravire - grave
 grenouille - krokro  
 grimace - grimas  
 groupe - grupe  
-grâce à - a xukur de  
+grâce à - a xukre de  
 grès - sablite  
 guetteur (sentinelle) - garder  
 guide - gida ja  
@@ -1573,7 +1573,7 @@ pet (vesse) - pede
 petit - xiu  
 petit-enfant - ben ben  
 peu - kam  
-peut-être - bil e  
+peut-être - bil es  
 peut-être - bil ki  
 pharmacie - dava xekan  
 pharmacologie - dava xe lojia  

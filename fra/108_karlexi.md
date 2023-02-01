@@ -132,7 +132,7 @@ indique qu'une action est effectuée régulièrement.
 indique l'aspect accompli ou achevé.
 Il indique qu'une action s'est produite dans le passé et est toujours en cours, ou est pertinente pour la situation actuelle.
 
-**da _le_ e guru.**
+**da _le_ es guru.**
 – Il ou elle est déjà enseignant.  
 **mi no _le_ gul yo alkohol.**
 – Je n'ai pas encore bu d'alcool.  
@@ -162,7 +162,7 @@ Il indique qu'une action est terminée et n'est plus pertinente pour la situatio
 'sera, –rai'
 indique que l'événement se produira plus tard ou dans le futur.
 
-**da _xa_ e guru.**
+**da _xa_ es guru.**
 – Il ou elle sera enseignant(e).  
 **mi no _xa_ gul bir.**
 – Je ne boirai pas de bière.
@@ -213,7 +213,7 @@ Je me tiens devant la maison / tout près de la maison.
 _Je parle avec pandunia._  
 Je parle en pandunia.
  
-**mi loga a dosti a pandunia a fon.**  
+**mi loga a doste a pandunia a fon.**  
 _Je parle avec ami.e avec pandunia avec téléphone._  
 Je parle avec un ami.e en pandunia au téléphone.
 
@@ -252,9 +252,9 @@ Dans l'exemple ci-dessus **sabi** (savoir) est le verbe et **guru** (maître) es
 
 **ka** est aussi utilisé quand on compare des adjectifs.
 
-**baca e min dai ka pa.**
+**baca es min dai ka pa.**
 – L'enfant est moins grand que le père.  
-**cin pa e par dai ka pa.**
+**cin pa es par dai ka pa.**
 – Grand-père est aussi grand que père.
 
 **ka** met en relation les adverbes de comparaison - **max** (plus), **min** (moins) and **par** (aussi, autant) - et l'élément comparé,

@@ -24,7 +24,7 @@ a tema de -
 a vai -   
 a vakil de -   
 a vo - tu (tutaj, tam)  
-a xukur de -   
+a xukre de -   
 a ye -   
 Abaze baxe - abazyński  
 Abazia - Abchazja  
@@ -513,7 +513,7 @@ bici -
 biku -   
 biku sanga -   
 bil - móc, umieć, możliwy, prawdopodobnie  
-bil e - może  
+bil es - może  
 bil ja -   
 bil ki - może  
 bilta -   

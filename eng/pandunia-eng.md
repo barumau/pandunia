@@ -60,7 +60,7 @@ a tema de - about (concerning, on the topic of)
 a vai - outside  
 a vakil de - on behalf of  
 a vo - there  
-a xukur de - thanks to  
+a xukre de - thanks to  
 a ye - here  
 Abaze baxe - Abaza language  
 Abazia - Abkhazia  
@@ -548,7 +548,7 @@ bici - whip
 biku - monk or nun  
 biku sanga - order of monks or nuns  
 bil - possible (able, can)  
-bil e - maybe (perhaps)  
+bil es - maybe (perhaps)  
 bil ja - capable (talent, skillful)  
 bil ki - maybe (perhaps)  
 bilta - ability  

@@ -149,7 +149,7 @@ anis - anis
 ankkuri - angar  
 annos - doze  
 anoppi - per ma  
-ansiosta - a xukur de  
+ansiosta - a xukre de  
 antaa - don  
 antaa anteeksi - fa maf  
 Antarktis - Antartika  
@@ -399,7 +399,7 @@ edustaja (agentti) - vakiler
 Egypti - Misri  
 egyptiläinen - misri di  
 ehdottaa (ehdotus) - propoze  
-ehkä (voi olla) - bil e  
+ehkä (voi olla) - bil es  
 ehkä (voi olla) - bil ki  
 ei - no  
 ei koskaan (ei kertaakaan) - siro sata  

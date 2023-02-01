@@ -227,7 +227,7 @@ biotoxe - 毒素
 bibre - 海狸 (河狸)  
 bici - 鞭子  
 bil - 会 (可能)  
-bil e - 也许 (或是, 可能)  
+bil es - 也许 (或是, 可能)  
 bil ja - 熟练  
 bil ki - 也许 (或是, 可能)  
 bine - 建筑  

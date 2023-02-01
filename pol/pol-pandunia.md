@@ -4,7 +4,7 @@
  - a tema de  
  - a vai  
  - a vakil de  
- - a xukur de  
+ - a xukre de  
  - a ye  
  - adilkan  
  - agral  
@@ -2817,7 +2817,7 @@ mowić (mowa) - loge
 Mozambik - Mozambike  
 Mołdawia - Moldova  
 może - bahai  
-może - bil e  
+może - bil es  
 może - bil ki  
 mruganie (błysk) - fa sing foto  
 mrówka - murce  

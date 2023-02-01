@@ -13,22 +13,22 @@
 **sal!**
 – ¡Buenos!  
 <big>☺</big>
-**tu e ke?**
+**tu es ke?**
 – ¿Quién es usted?  
 <big>☻</big>
-**mi e Yusef. tu e ke?**
+**mi es Yusef. tu es ke?**
 – Yo soy Yusef. ¿Quién es usted?  
 <big>☺</big>
-**mi e Sara. da e ke?**
+**mi es Sara. da es ke?**
 Yo soy Sara. ¿Quién es?  
 <big>☻</big>
-**da e mi su dosti.**
+**da es mi su doste.**
 – Es una amiga mia.  
 <big>☺</big>
-**da su nam e ke?**
+**da su nam es ke?**
 – ¿Cómo se llama?  
 <big>☻</big>
-**da su nam e Maria.**
+**da su nam es Maria.**
 – Su nombre es Maria.
 
 ### Gramatica
@@ -37,25 +37,25 @@ Frases de Pandunia normalmente sigue la estructura tema-comentario.
 El tema indica quién o qué se está hablando.
 El comentario dice algo sobre el tema.
 Por ejemplo, en
-**da e mi su dosti**
+**da es mi su doste**
 el tema es el pronombre
 **da**
 (él, ella, ello), que es seguido por el comentario
-**e mi su dosti**
+**es mi su doste**
 (es amigo mío).
 
 
 Del mismo modo puede describirse diciendo
-**mi e**
+**mi es**
 seguida por una palabra que lo describa.
 
-**mi e bon.**
+**mi es bon.**
 - Yo soy bueno.  
-**mi e man.**
+**mi es man.**
 - Soy un hombre.  
-**mi e fem.**
+**mi es fem.**
 - Soy una mujer.  
-**mi e nobi.**
+**mi es nobi.**
 - No soy binario.
 
 
@@ -87,13 +87,13 @@ tu
 su  
 **ke**
 quién? qué?  
-**e**
+**es**
 ser  
 **no**
 no  
 **bon**
 bueno  
-**dosti**
+**doste**
 amigo, amiga  
 **nam**
 nombre  
@@ -110,12 +110,12 @@ animal
 
 ### Respuestas
 
-1. tu e ke?
-2. mi e tomas.
-3. tu su dosti e ke?
-4. da e Sara.
-5. tu su nam e ke?
-6. mi su nam e ........... 
+1. tu es ke?
+2. mi es tomas.
+3. tu su doste es ke?
+4. da es Sara.
+5. tu su nam es ke?
+6. mi su nam es ........... 
 
 
 ---------------------------------------------------------------------
@@ -230,7 +230,7 @@ Pidiendo
 
 ### Diálogo
 
-![](http://www.pandunia.info/grafe/laupapa.png "chin pa i bacha")
+![](http://www.pandunia.info/grafe/laupapa.png "chin pa e bacha")
 
 <big>☻</big>
 **halo!**
@@ -358,7 +358,7 @@ pedir, solicitar; por favor
 dar  
 **xukur**
 gracias  
-**i**
+**e**
 y  
 **kafe**
 café  
@@ -384,7 +384,7 @@ algo
 2. la xefe cing da side.
 3. cing yam kafe o cai.
 4. mama cing mi saf kamar.
-5. xefe side i yam kafe.
+5. xefe side e yam kafe.
 
 
 ---------------------------------------------------------------------
@@ -426,7 +426,7 @@ algo
 **no yam.**
 – No.  
 <big>☺</big>
-**xukur. mi don un cai i un kafe i un supe pos des minute.**
+**xukur. mi don un cai e un kafe e un supe pos des minute.**
  – ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
 
 
@@ -613,7 +613,7 @@ perro.
 1. da no saf kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da no ha vaf i mau. / da ha no vaf i no mau.
+4. da no ha vaf e mau. / da ha no vaf e no mau.
 5. xefe yam cai ama no kafe.
 6. mama ha no vaf ama du mau.
 
@@ -641,34 +641,34 @@ En adición, hay palabras del tiempo espicificas.
 **xa**
 – más tarde, en el futuro
 
-**Sara e mi su pas xefe.**
+**Sara es mi su pas xefe.**
 – Sara es mi ex-jefa.  
-**Yusef e mi su zai xefe.**
+**Yusef es mi su zai xefe.**
 – Yusef es mi actual jefe.  
-**Maria e mi su xa xefe.**
+**Maria es mi su xa xefe.**
 Maria es mi futura jefa.
 
 Las mismas palabras son usadas cuando se habla sobre acciones y
 eventos en el tiempo. Simplemente pone la palabra antes del verbo.
 
-**da pas e mi su xefe.**
+**da pas es mi su xefe.**
 – Ella fue mi jefa.  
-**da zai e mi su xefe.**
+**da zai es mi su xefe.**
 – Ella es mi jefa.  
-**da xa e mi su xefe.**
+**da xa es mi su xefe.**
 – Ella será mi jefa.
 
 También puede usar frases prepocicionales con **a**.
 
-**da e mi su xefe a pas.**
+**da es mi su xefe a pas.**
 – Ella fue mi jefa en el pasado.  
-**da e mi su xefe a zai.**
+**da es mi su xefe a zai.**
 – Ella es mi jefa en este momento.  
-**da e mi su xefe a xa.**
+**da es mi su xefe a xa.**
 – Ella será mi jefa en el futuro.
 
 Nota: el verbo es invariable. No cambia por el tiempo, por tal razón
-en los ejemplos anteriores el verbo **e** (estar,ser) se mantuvo
+en los ejemplos anteriores el verbo **es** (estar,ser) se mantuvo
 igual en todos los tiempos.
 
 No es necesario repetir las expresiones de tiempo todas las veces.
@@ -678,7 +678,7 @@ que todavía se está hablando en el mismo tiempo.
 
 **mi pas ha un mau.**
 – Yo tuve un gato en el pasado.  
-**da e bon mau.**
+**da es bon mau.**
 – Ella fue una buena gata.  
 **mi ha un vaf a zai.**
 – Yo tengo un perro en el momento.

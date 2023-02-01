@@ -1765,7 +1765,7 @@ gorila oriental - dong gorila
 gota - giota  
 grabado (sello, estampando) - cape  
 gracias - xukre  
-gracias a (merced a) - a xukur de  
+gracias a (merced a) - a xukre de  
 grado Celsius - celsius gradu  
 grafema - kitaba so  
 gramatical - baxe kanun di  
@@ -3348,7 +3348,7 @@ quitar (eliminar, borrar) - fa an zai
 quitar (eliminar, borrar) - depoze  
 quitar (pelar) - tire yo pil  
 quitar (remover) - fa for  
-quizás (tal vez) - bil e  
+quizás (tal vez) - bil es  
 quizás (tal vez) - bil ki  
 quién - ke jen  
 qué - ke  

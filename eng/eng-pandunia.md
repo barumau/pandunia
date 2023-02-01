@@ -2663,7 +2663,7 @@ maximize - maximize
 maximum - maximaje  
 May - mes lima  
 Maya - maya  
-maybe (perhaps) - bil e  
+maybe (perhaps) - bil es  
 maybe (perhaps) - bil ki  
 Mayotte - Mayote  
 mean (intend) - fa nia  
@@ -4394,7 +4394,7 @@ thallium - talium
 than (as, compared to, relative to) - ka  
 thank - fa xukur  
 thanks (thank you) - xukre  
-thanks to - a xukur de  
+thanks to - a xukre de  
 that (conjunction) - ki  
 that is (in other words, i.e., alias) - alo nam  
 that over there - vo  

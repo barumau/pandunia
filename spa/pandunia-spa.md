@@ -21,7 +21,7 @@ a ri - otra vez (de nuevo)
 a sabu de - porque  
 a supra - sobre  
 a vo - allí (allá)  
-a xukur de - gracias a (merced a)  
+a xukre de - gracias a (merced a)  
 a ye - aquí (acá)  
 Abazia - abjazia  
 abies - abeto  
@@ -454,7 +454,7 @@ bibre - castor
 bici - látigo (fusta)  
 biku - monje o monja  
 bil - poder (posible)  
-bil e - quizás (tal vez)  
+bil es - quizás (tal vez)  
 bil ja - capaz  
 bil ki - quizás (tal vez)  
 bilta - habilidad (capacidad)  

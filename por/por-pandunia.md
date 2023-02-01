@@ -853,7 +853,7 @@ grama (relva) - cau
 gramado - cau medan  
 granito - granite  
 gratidão - xukria  
-graças a - a xukur de  
+graças a - a xukre de  
 grupo - grupe  
 grávida (prenhe) - hamil  
 guarda-chuva - barxa cati  
@@ -1789,7 +1789,7 @@ sódio - natri
 
 tablet - table komputa  
 tagine - tege pote  
-talvez - bil e  
+talvez - bil es  
 talvez - bil ki  
 tampão - tapon  
 tangerina (mandarim) - rubi oranje  

@@ -9,7 +9,7 @@ a lin - en ligne
 a pos - ensuite (après, plus tard, ir a, en el futuro)  
 a re - en arrière  
 a vo - là (y)  
-a xukur de - grâce à  
+a xukre de - grâce à  
 a ye - ici  
 Abaze baxe - abaze  
 Abazia - Abkhazie  
@@ -339,7 +339,7 @@ biotoxe - toxine
 bici - fouet  
 biku - moine ou nonne  
 bil - pouvoir (possible, capacité)  
-bil e - peut-être  
+bil es - peut-être  
 bil ki - peut-être  
 bilta - capacité (pouvoir, habileté)  
 bilor - cristal  

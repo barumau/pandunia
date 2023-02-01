@@ -12,7 +12,7 @@ Por ejemplo, la palabra
 modifica un sustantivo en la oración A
 y un verbo en la oración B.
 
-A. **vo e un _suga_ gar.**
+A. **vo es un _suga_ car.**
 – Eso es un carro _rápido_.  
 B. **tu _suga_ di loga.**
 – Usted habla _rápido_.
@@ -22,9 +22,9 @@ B. **tu _suga_ di loga.**
 
 En Pandunia, _adjetivos_ son modificadores que preceden el sustantivo que modifican.
 
-**un _neu_ gar**
+**un _neu_ car**
 – un carro _nuevo_  
-**un _suga_ gar**
+**un _suga_ car**
 – un carro _rápido_  
 **men _dai_ meza**
 – mesas _grandes_  
@@ -47,7 +47,7 @@ a diferencia de español, en que adjetivos cambian para acordar con el sustantiv
 
 Dos o más modificadores pueden modifican el mismo sustantivo.
 
-**un xiu neu gar**
+**un xiu neu car**
 – un carro nuevo pequeño
 
 
@@ -149,9 +149,9 @@ La partícula
 **ka** (_que_)
 relaciona los adverbos de comparación al objeto de comparación.
 
-**aple e max bon ka oranje.**
+**aple es max bon ka oranje.**
 = Las manzanas son mejores (más buenas) que las naranjas.  
-**oranje e min bon ka aple.**
+**oranje es min bon ka aple.**
 = Las naranjas son peores (menos buenas) que las manzanas.  
 **tu loga par bon ka mi.**
 = Hablas tan bien como yo.

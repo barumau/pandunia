@@ -58,7 +58,7 @@ a tema de - aiheesta (-sta)
 a vai - ulkona (ulkopuolella)  
 a vakil de - puolesta  
 a vo - tuolla  
-a xukur de - ansiosta  
+a xukre de - ansiosta  
 a ye - täällä  
 Abaze baxe - abazan kieli  
 Abazia - Abhaasia  
@@ -536,7 +536,7 @@ bici - piiska (ruoska)
 biku - munkki tai nunna  
 biku sanga - munkki- tai nunnakunta  
 bil - voida (osata, pystyä, mahdollinen, ehkä)  
-bil e - ehkä (voi olla)  
+bil es - ehkä (voi olla)  
 bil ja - kykenevä (voiva)  
 bil ki - ehkä (voi olla)  
 bilta - mahdollisuus (taito, kyky)  

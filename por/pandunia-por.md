@@ -7,7 +7,7 @@ a dura de - durante
 a ke - onde  
 a lin - online  
 a vo - aí (lá)  
-a xukur de - graças a  
+a xukre de - graças a  
 a ye - aqui  
 abies - abeto  
 aci - espirrar  
@@ -243,7 +243,7 @@ biotoxe - toxina
 bici - chicote  
 biku - monje ou monja  
 bil - possível  
-bil e - talvez  
+bil es - talvez  
 bil ki - talvez  
 bilta - habilidade (capacidade)  
 bilor - cristal  

@@ -107,17 +107,17 @@ Merci de m'avoir aidé.
 Je t'en prie. / Il n'y a pas de quoi.
 
 
-### e <small>être</small>
+### es <small>être</small>
 
-**mi e Tomas.**
+**mi es Tomas.**
 Je suis Thomas.
 
 ### mi <small>je, me, moi</small>
 
-**mi e Sara.**
+**mi es Sara.**
 Je suis Sara.
 
-**mi e Tomas.**
+**mi es Tomas.**
 Je suis Thomas.
 
 Vous pouvez vous présenter simplement en utilisant **me** et votre prénom ; le verbe "être" est optionel.
@@ -149,7 +149,7 @@ Salutations, père ! | Salut papa !
 
 ### tu <small>tu, te, toi</small>
 
-**tu e Tomas.**
+**tu es Tomas.**
 Tu es Thomas.
 
 **mi salam tu.**
@@ -168,13 +168,13 @@ Je t'aime.
 
 ### da <small>Il, elle, ou il neutre</small>
 
-**da e man.**
+**da es man.**
 C'est un homme.
 
-**da e fem.**
+**da es fem.**
 C'est une femme.
 
-**da e aple.**
+**da es aple.**
 C'est une pomme.
 
 **da** est le pronom général de la troisième personne.
@@ -190,10 +190,10 @@ mandarin 他/她 (tā).</small>
 
 ### sual <small>Pour poser une question (est-ce que)</small>
 
-**sual tu e Tomas?**
+**sual tu es Tomas?**
 Es-tu Thomas ?
 
-**sual tu e davar?**
+**sual tu es davar?**
 Êtes-vous docteur ?
 
 **Astuce :** Les questions auxquelles on peut répondre par oui ou par non commencent souvent par
@@ -225,26 +225,26 @@ souheli _swali_.</small>
 
 ### ya <small>oui</small>
 
-**sual tu e Tomas?**
+**sual tu es Tomas?**
 Es-tu Thomas.
 
-**ya, mi e Tomas.**
+**ya, mi es Tomas.**
 Oui, je suis Thomas.
 
-**sual da e davar?**
+**sual da es davar?**
 Est-il/elle doctor ?
 
-**ya, da e davar.**
+**ya, da es davar.**
 Oui, il/elle est doctor.
 
 
 
 ### no <small>Ne pas</small>
 
-**mi no e Sara.**
+**mi no es Sara.**
 Je ne suis pas Sara.
 
-**mi no e davar.**
+**mi no es davar.**
 Je ne suis pas doctor.
 
 **sual tu bon?**
@@ -290,13 +290,13 @@ Vous les saluez.
 **damen sal mimen!**
 Ils nous saluent.
 
-**mimen e fem.**
+**mimen es fem.**
 Nous sommes des femmes.
 
-**tumen e man.**
+**tumen es man.**
 Vous êtes des hommes.
 
-**damen e aple.**
+**damen es aple.**
 Ce sont des pommes.
 
 
@@ -305,44 +305,44 @@ Ce sont des pommes.
 
 **ke?** Quoi ?
 
-**tu e ke?**
+**tu es ke?**
 Qui es-tu ?  
-**mi e Tomas.**
+**mi es Tomas.**
 Je suis Thomas.
 
-**da e ke?**
+**da es ke?**
 Qui est-il/elle ?  
-**da e Sara.**
+**da es Sara.**
 C'est Sara.
 
-**tumen e ke?**
+**tumen es ke?**
 Qui êtes-vous ?
 
-**damen e ke?**
+**damen es ke?**
 Qui sont-ils ?
 
 <small>Étymologie : **ke** vient de l'espagnol "qué", en portugais il se dit "que", en italien "che" et en bengali: কী "ki".</small>
 
 
 
-### ye i vo <small>ce … (-ci), cet.te … (-ci), ces … (-ci), ceci</small>
+### ye e vo <small>ce … (-ci), cet.te … (-ci), ces … (-ci), ceci</small>
 
-**ye e ke?**
+**ye es ke?**
 Qu’est-ce que c’est que ceci ?
 
-**vo e ke?**
+**vo es ke?**
 Qu’est-ce que c’est que ça ?
 
-**ye e aple.**
+**ye es aple.**
 Ceci est une pomme.
 
-**ye e rubi aple.**
+**ye es rubi aple.**
 Ceci est une pomme rouge.
 
-**ye aple e rubi.**
+**ye aple es rubi.**
 Cette pomme est rouge.
 
-**ye e rubi.**
+**ye es rubi.**
 C'est rouge. / Ceci est rouge.
 
 
@@ -350,28 +350,28 @@ C'est rouge. / Ceci est rouge.
 
 ### su <small>particule possessive</small>
 
-**ye e ke?**
+**ye es ke?**
 Qu'est-ce que c'est ?
 
-**da e mi su telefon.**
+**da es mi su telefon.**
 C'est mon téléphone.
 
-**ye e ke su?**
+**ye es ke su?**
 À qui est-ce ?
 
-**da e mi su.**
+**da es mi su.**
 C'est à moi.
 
 **Note :** La particule possessive **di** se place entre le possesseur et la chose possédée.
 Ainsi **mi di** signifie "mon, ma, mes", **tu di** signifie "ton, ta, tes" et ainsi de suite.
 
-**da e ke?**
+**da es ke?**
 Qui est-ce ?
 
-**da e mi su dosti.**
+**da es mi su doste.**
 C'est mon ami(e).
 
-**mi e Sara su dosti.**
+**mi es Sara su doste.**
 Je suis l'ami(e) de Sara.
 
 <small>Étymologie : **su** vient du anglais _'s_.</small>
@@ -379,16 +379,16 @@ Je suis l'ami(e) de Sara.
 
 ### nam <small>nom</small>
 
-**tu su nam e ke?**
+**tu su nam es ke?**
 Quel est ton nom?
 
-**mi su nam e Tomas.**
+**mi su nam es Tomas.**
 Mon nom est Thomas.
 
-**da su nam e ke?**
+**da su nam es ke?**
 Quel est son nom ?
 
-**da su nam e Sara.**
+**da su nam es Sara.**
 Son nom est Sara.
 
  <small>Étymologie : **nam** vient du hindi  नाम "nām", il se dit en farsi نام‏‎ "nām", en thaï นาม "naam", en indonésien "nama", en japonais 名前 "namae", en allemand "Name", en anglais "name".</small>
@@ -412,12 +412,12 @@ J’ai deux enfants.
 
 **sual ha davar?**
 Est-ce qu’il y a un médecin ?  
-**ya. da e davar.**
+**ya. da es davar.**
 Oui. Il/elle est médecin.
 
 **sual ha vin?**
 Est-ce que tu as du vin?  
-**ya. baki i rubi.**
+**ya. baki e rubi.**
 Oui, du blanc et du rouge.
 
 
@@ -479,7 +479,7 @@ Astuce : Le sens de **yam** regroupe à la fois l’idée de manger et de boire.
 Cela peut sembler bizarre au début mais vous verrez que c’est plutôt pratique !
 Habituellement, l’objet du verbe dit s’il s’agit de quelque chose qu’on mange, qu’on boit ou les deux.
 
-**mi yam kafe i pang.**
+**mi yam kafe e pang.**
 Je prends un café et du pain.
 
 
@@ -574,10 +574,10 @@ Est-ce que tu as soif ?
 **maf! mi no aha.**
 Désolé, je ne comprends pas.
 
-**maf! ye e ke?**
+**maf! ye es ke?**
 Excusez-moi, qu’est-ce que c’est ?
 
-**maf. tu su nam e ke?**
+**maf. tu su nam es ke?**
 Pardon, quel est ton nom ?
 
 
@@ -643,7 +643,7 @@ Nous nous parlons. (mot à mot : _nous parlons à l’un l’autre_)
 **se loga "cat" a ke yang a pandunia?**
 Comment se dit « chat » en pandunia ?
 
-**"cat" e ke a pandunia?**
+**"chat" es ke a pandunia?**
 Qu’est-ce que c’est, « chat», en pandunia ?
 
 **mau loga miau.**
@@ -843,13 +843,13 @@ Je t’attends à l’hôtel.
 
 ### zai <small>actuellement, en ce moment</small>
 
-**mi zai sal tu su dosti.**  
+**mi zai sal tu su doste.**  
 Je suis en train de saluer ton ami(e).
 
 **la man ya zai vide un filme.**  
 L'homme est en train de regarder la femme.
 
-**da zai e xefe.**  
+**da zai es xefe.**  
 C'est lui le chef / elle la cheffe actuellement.
 
 **da zai a dom.**  
@@ -858,13 +858,13 @@ En ce moment, il / elle est à la maison.
 
 ### pas <small>dans le passé</small>
 
-**mi pas sal tu su dosti.**  
+**mi pas sal tu su doste.**  
 J'ai salué ton ami(e).
 
 **la man ya pas vide un filme.**  
 L'homme a regardé / regardait la filme.
 
-**da pas e xefe.**  
+**da pas es xefe.**  
 C'était lui le chef. / C'était elle la cheffe.
 
 **da pas a dom.**  
@@ -873,13 +873,13 @@ Il / Elle était à la maison.
 
 ### le <small>déjà (action achevée)</small>
 
-**mi le sal tu su dosti.**  
+**mi le sal tu su doste.**  
 J'ai (déjà) salué ton ami(e).
 
 **la man le vide un filme.**  
 L'homme a (déjà) regardé la filme.
 
-**da le e xefe.**  
+**da le es xefe.**  
 Il / Elle a (déjà) été le chef / la cheffe.
 
 **da le a la dom.**  
@@ -888,13 +888,13 @@ Il / elle a (déjà) été à la maison.
 
 ### xa <small>(événement futur)</small>
 
-**mi xa sal tu su dosti.**  
+**mi xa sal tu su doste.**  
 Je saluerai ton ami(e).
 
 **la man xa vide la filme.**  
 L'homme regardera la filme.
 
-**da xa e xefe.**  
+**da xa es xefe.**  
 Il sera chef. / Elle sera cheffe.
 
 **da xa a dom.**  
@@ -940,7 +940,7 @@ Je prendrai une bière.
 
 ### kira <small>location, emprunt</small>
 
-**kira e 500 dolar a mes.**  
+**kira es 500 dolar a mes.**  
 La location est de 500 dollars par mois / pour un mois.
 
 **da no bil pei la kira.**  

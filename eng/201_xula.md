@@ -28,7 +28,7 @@ hide:
 **mi es Sara. da es ke?**
 = I am Sara. Who is that?  
 <big>☻</big>
-**da es mi su dosti.**
+**da es mi su doste.**
 = That is my friend.  
 <big>☺</big>
 **da su nam es ke?**
@@ -42,11 +42,11 @@ hide:
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
 tells something about the topic. For instance in
-**da es mi su dosti**
+**da es mi su doste**
 the topic is the pronoun
 **da**
 (he, she, it), which is followed by the comment
-**es mi su dosti**
+**es mi su doste**
 (is my friend).
 
 In Pandunia, the word **es** functions like _to be_ in English.
@@ -112,7 +112,7 @@ to be
 no; not  
 **bon**
 good  
-**dosti**
+**doste**
 friend  
 **nam**
 name  
@@ -129,7 +129,7 @@ animal
 
 1. tu es ke?
 2. mi es Tomas.
-3. tu su dosti es ke?
+3. tu su doste es ke?
 4. da es Sara.
 5. tu su nam es ke?
 6. mi su nam es ........... 

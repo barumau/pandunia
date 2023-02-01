@@ -18,7 +18,7 @@ a tema de - pri
 a vai - ekster  
 a vakil de - anstataŭ  
 a vo - tie  
-a xukur de - dank’al  
+a xukre de - dank’al  
 a ye - ĉi tie  
 abies - abio  
 aci - terni  
@@ -268,7 +268,7 @@ bibre - kastoro
 bici - vipo  
 biku - monaĥo aŭ monaĥino  
 bil - ebla (povi)  
-bil e - eble  
+bil es - eble  
 bil ja - kapabla  
 bil ki - eble  
 bine plan - arĥitekturo  

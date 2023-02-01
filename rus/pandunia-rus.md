@@ -247,7 +247,7 @@ biosistem - биом
 biotoxe - токсин  
 bibre - бобр  
 bil - возможный  
-bil e - может быть  
+bil es - может быть  
 bil ki - может быть  
 bilor - кристалл  
 bine - строение  

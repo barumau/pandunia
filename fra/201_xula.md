@@ -23,22 +23,22 @@ sur le plan de la politesse et de l'intimité.
 **salam!**
 = Salut!  
 <big>☺</big>g>
-**tu e ke?**
+**tu es ke?**
 = Qui es-tu ?  
 <big>☻</big>g>
-**mi e Yusef. tu e ke?**
+**mi es Yusef. tu es ke?**
 = Je suis Yusef. Qui est-tu ?  
 <big>☺</big>g>
-**mi e Sara. da e ke?**
+**mi es Sara. da es ke?**
 = Je suis Sara. Qui est-ce ?  
 <big>☻</big>g>
-**da e mi su dosti.**
+**da es mi su doste.**
 = C'est mon amie.  
 <big>☺</big>g>
-**da su nam e ke?**
+**da su nam es ke?**
 = Quel est son nom ?  
 <big>☻</big>g>
-**da su nam e Maria.**
+**da su nam es Maria.**
 = Son nom est Maria.
 
 ### Grammaire
@@ -46,32 +46,32 @@ sur le plan de la politesse et de l'intimité.
 Les phrases en Pandunia suivent normalement la structure sujet-commentaire.
 Le sujet indique de qui ou de quoi on parle.
 Le commentaire dit quelque chose sur le sujet. Par exemple, dans
-**da e mi su doste**
+**da es mi su doste**
 le sujet est le pronom **da** (il, elle, il neutre), suivi du commentaire
-**e mi su dosti**
+**es mi su doste**
 (est mon amie).
 
-Le mot **e** signifie _être_ en Pandunia.
+Le mot **es** signifie _être_ en Pandunia.
 Le même mot est utilisé pour toutes les personnes. 
 Et pour dire le contraire, remplacez le simplement par **no** (qui signifie à la fois _ne pas_ et _non_)
 
-**da e Sara.**
+**da es Sara.**
 = C'est Sara.  
-**da no e Sara.**
+**da no es Sara.**
 = Ce n'est pas Sara.
 
-**mau e hevan.**
+**mau es hevan.**
 = Le chat est un animal.  
-**dom no e hevan.**
+**dom no es hevan.**
 = La maison n'est pas un animal.  
 
 De la même façon, vous pouvez vous décrire en utilisant **me** suivi d'un mot pour vous décrire.
 
-**mi e bon.**
+**mi es bon.**
 – Je vais bien (Je suis bien).  
-**mi e man.**
+**mi es man.**
 – Je suis un homme.  
-**mi e fem.**
+**mi es fem.**
 – Je suis une femme.
 
 
@@ -103,7 +103,7 @@ il, elle ou il neutre
 son, sa, ses  
 **ke**
 qui ou quoi  
-**e**
+**es**
 être (je suis, tu es, nous sommes, etc.)  
 **ya**
 oui  
@@ -111,7 +111,7 @@ oui
 non ; ne pas être  
 **bon**
 bon  
-**dosti**
+**doste**
 ami  
 **nam**
 nom  
@@ -126,12 +126,12 @@ animal
 
 ### Réponses aux exercices
 
-1. tu e ke?
-2. mi e tomas.
-3. tu su dosti e ke?
-4. da e Sara.
-5. tu su nam e ke?
-6. mi su nam e ........... 
+1. tu es ke?
+2. mi es tomas.
+3. tu su doste es ke?
+4. da es Sara.
+5. tu su nam es ke?
+6. mi su nam es ........... 
 
 
 --------------------------------------------------------------------------------
@@ -386,7 +386,7 @@ demander (poliment), s'il-vous-plaît
 donner  
 **xukre**
 merci  
-**i**
+**e**
 et  
 **kafe**
 café  
@@ -408,7 +408,7 @@ manger ou boire, consommer
 2. la xefe cing da side.
 3. cing yam kafe o cai.
 4. mama cing mi saf kamar.
-5. xefe side i yam kafe.
+5. xefe side e yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -449,7 +449,7 @@ manger ou boire, consommer
 **no yam.**
 = Non.  
 <big>👩‍🍳</big>
-**xukre. mi don un cai i un kafe i un supe pos des minute.**
+**xukre. mi don un cai e un kafe e un supe pos des minute.**
  = Merci. J'apporte un thé, un café et une soupe dans 10 minutes
 
 
@@ -649,7 +649,7 @@ mais
 1. da no saf kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da no ten vaf i mau. / da ten no vaf i no mau.
+4. da no ten vaf e mau. / da ten no vaf e no mau.
 5. xefe yam cai ama no kafe.
 6. mama ten no vaf ama du mau.
 
@@ -664,9 +664,9 @@ utilisé. La question peut être formulée de manière plus spécifique en
 ajoutant des mots pour la personne, le temps, la manière ou la chose
 si nécessaire.
 
-**da e ke?**
+**da es ke?**
 = Qu'est-ce que c'est ?  
-**da e ke jen?**
+**da es ke jen?**
 = Qui est-il/elle ?  
 **ke jen lai?**
 = Qui vient ? (**ren** = personne)  
@@ -687,13 +687,13 @@ avant la cause ou la raison.
 
 **ke sabu tu suka mau?**
 = Pourquoi aimes-tu les chats ?  
-**de sabu damen e kavai.**
+**de sabu damen es kavai.**
 = Parce qu'ils sont mignons.
 
 Bien entendu, vous pouvez également utiliser **sabu** pour exprimer la cause
 ou la raison de quelque chose, même si vous ne réponsez pas à une question.
 
-**mi suka mau ze sabu damen e kavai**
+**mi suka mau ze sabu damen es kavai**
 = J'aime les chats parce qu'ils sont mignons.
 
 ### Exercices
@@ -730,7 +730,7 @@ temps, periode
 3. ke zaman da lai?
 4. pos des minute.
 5. ke sabu da no yam?
-6. de sabu da no suka kafe i supe.
+6. de sabu da no suka kafe e supe.
 
 --------------------------------------------------------------------------------
 
@@ -765,11 +765,11 @@ Il y a également des expressions de temps spécifiques.
 Les adjectifs pour le passé, le présent et le futur sont **pas, zai**
 et **xa**. Ils peuvent être utilisés pour modifier des noms.
 
-**Sara e mi su pas xefe.**
+**Sara es mi su pas xefe.**
 = Sara est mon ex-patron.  
-**Yusef e mi su zai xefe.**
+**Yusef es mi su zai xefe.**
 = Yusef est mon chef actuel.  
-**Maria e mi su xa xefe.**
+**Maria es mi su xa xefe.**
 = Maria est ma future patronne.
 
 Les mêmes mots sont utilisés lorsque vous parlez d'actions et d'événements dans le temps. Il suffit de mettre le mot avant le verbe.
@@ -798,7 +798,7 @@ ou bien pour souligner le fait que le temps du récit n'a pas changé.
 
 **mi pas ten un mau.**
 = J'ai eu un chat dans le passé.
-**da e bon mau.**
+**da es bon mau.**
 = C'était un bon chat.
 **mi ten un vaf a zai.**
 = J'ai un chien maintenant.
