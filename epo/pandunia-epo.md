@@ -522,6 +522,7 @@ ekia - naturo
 Ekuador - Ekvadoro  
 eletre - elektro  
 eletrike - elektra  
+eletrolize - elektrolizo  
 eletron - elektrono  
 energia - energio  
 englix di - angla  

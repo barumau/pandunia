@@ -467,6 +467,7 @@ einsteinium - эйнштейний
 ekonative - дикий  
 elastike - эластичный  
 eletroline - провод (кабель)  
+eletrolize - электролиз  
 eletrorade - молния  
 elfe - эльф  
 englix margarita - маргаритка многоле́тняя  

@@ -2270,6 +2270,7 @@ zéro - siro
 égal (même) - sam  
 élastique - elastike  
 électricité - eletre  
+électrolyse - eletrolize  
 élevage - hevan agri suta  
 élever - gene yo hevan  
 éloge - eu loga  

@@ -42,7 +42,7 @@ def hisabe_nam_konbine(nam1, nam2):
         for line in file:
             if line.count(nam1 + ':') > 0:
                 sume = sume + line.count(nam2 + ':')
-        print(nam1, nam2, sume)
+        #print(nam1, nam2, sume)
         return sume
 
 def hisabe(G):
@@ -85,7 +85,7 @@ dongasia_grupe = kreate_baxe_grupe(dongasia_baxe, dataje, node_sizes)
 # konbine la grafe e spesife la asle grafe
 asle_grafe = {'euro_grupe':{'grafe':euro_grupe,'color':'blue'},
                'hindiran_grupe':{'grafe':hindiran_grupe,'color':'gold'},
-               'afrasia_grupe':{'grafe':afrasia_grupe,'color':'green'},
+               'afrasia_grupe':{'grafe':afrasia_grupe,'color':'lime'},
                'dongasia_grupe':{'grafe':dongasia_grupe,'color':'red'}}
 G = nx.Graph()
 for g_name,g_val_dict in asle_grafe.items():

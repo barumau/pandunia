@@ -436,6 +436,7 @@ dux - ducha
 e - e  
 einsteinium - einstânio  
 eletre - eletricidade  
+eletrolize - eletrólise  
 elfe - elfo  
 englix margarita - margarida-comum  
 enjener - engenheiro  

@@ -1000,6 +1000,7 @@ elastike - joustava (kimmoisa, elastinen)
 eletre - sähkö  
 eletrike - sähköinen  
 eletroline - sähköjohto  
+eletrolize - elektrolyysi  
 eletron - elektroni  
 eletroposte (e-poste) - sähköposti  
 eletrorade - salama  

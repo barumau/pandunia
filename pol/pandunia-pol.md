@@ -1010,6 +1010,7 @@ elastike - elastyczny
 eletre - elektryczność  
 eletrike - elektryczny  
 eletroline - kabel (linia)  
+eletrolize -   
 eletron - elektron  
 eletroposte (e-poste) - poczta elektroniczna  
 eletrorade - piorun (grom)  

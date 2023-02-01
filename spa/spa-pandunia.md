@@ -1330,6 +1330,7 @@ el (la) - la
 El Salvador - Salvador  
 el uno al otro (mutuamente) - semen  
 electricidad - eletre  
+electrólisis - eletrolize  
 electrón - eletron  
 elefante - gaja  
 elegante (chic) - xike  

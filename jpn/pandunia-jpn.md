@@ -396,6 +396,7 @@ einsteinium - アインスタイニウム
 ekonative - 野生  
 eletre - 電気  
 eletroline - 電線  
+eletrolize - 電気分解  
 eletrorade - 雷 (稲妻)  
 elfe - 妖精 (エルフ)  
 englix margarita - ヒナギク  

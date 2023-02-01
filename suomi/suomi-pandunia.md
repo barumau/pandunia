@@ -414,6 +414,7 @@ eksoplaneetta - vai planeta
 El Salvador - Salvador  
 ele - geste  
 elegantti - xike  
+elektrolyysi - eletrolize  
 elektroni - eletron  
 elementti (yksinkertaisin yksikkö) - so  
 eli (toisin sanoen) - alo nam  

@@ -550,6 +550,7 @@ Eire - Irland
 ekonative - sauvage  
 elastike - élastique  
 eletre - électricité  
+eletrolize - électrolyse  
 elfe - elfe  
 englix fon di - anglophone  
 englix margarita - pâquerette  

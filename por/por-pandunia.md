@@ -628,6 +628,7 @@ elemento - so
 elemento químico - kimeme  
 eles ou elas - damen  
 eletricidade - eletre  
+eletrólise - eletrolize  
 elfo - elfe  
 elo - ser  
 elogio - eu loga  

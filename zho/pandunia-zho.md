@@ -423,6 +423,7 @@ dux - 淋浴
 e - 和  
 einsteinium - 锿  
 eletroline - 电缆 (电线)  
+eletrolize - 电解  
 eletrorade - 闪电  
 elfe - 精灵  
 englix margarita - 雛菊  

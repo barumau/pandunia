@@ -1349,6 +1349,7 @@ elder - lau jen
 elder sibling - sen sau  
 electric - eletrike  
 electricity - eletre  
+electrolysis - eletrolize  
 electron - eletron  
 elegant (chic) - xike  
 element (factor, the simplest unit) - so  
@@ -4169,7 +4170,7 @@ star - sing
 starboard (right side of a ship) - nave dex  
 stare (watch, gaze) - mira  
 starship - astronave  
-state (condition, status, situation) - hal  
+state (condition, status, situation, circumstances) - hal  
 static (stationary, still) - statike  
 station - statia  
 stay behind (linger) - be laxe  

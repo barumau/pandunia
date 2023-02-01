@@ -1045,6 +1045,7 @@ elastike - elastic
 eletre - electricity  
 eletrike - electric  
 eletroline - cable (wire, line)  
+eletrolize - electrolysis  
 eletron - electron  
 eletroposte (e-poste) - e-mail  
 eletrorade - lightning bolt  
@@ -1831,7 +1832,7 @@ haki - dust
 haki cupu gi - vacuum cleaner  
 haki rang - khaki  
 haku - right (entitlement)  
-hal - state (condition, status, situation)  
+hal - state (condition, status, situation, circumstances)  
 halal - permissible (allowed, halal)  
 halal liste - whitelist  
 halela - praise (commend, exalt)  

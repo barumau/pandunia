@@ -874,6 +874,7 @@ elastike - elástico (flexible)
 eletre - electricidad  
 eletrike - eléctrico  
 eletroline - cable  
+eletrolize - electrólisis  
 eletron - electrón  
 eletroposte (e-poste) - email (correo electrónico)  
 eletrorade - relámpago  
