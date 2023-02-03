@@ -140,6 +140,8 @@ Andes|Andes||||Andes||Andes|Andes|||||||||||||||||Andoj|Andit|Andy
 andes.it.|andesite||||andesite||andésite|andesita|andesito|андезит||||||||||安山岩||安山岩||||andesiitti|andezyt
 Andora|Andora|dexa|AD||Andorra||Andorre|Andorra||||||||||||||||||Andorra|Andora
 angar|angar|||eng:anchor, fra:ancre, por:âncora, may:jangkar, rus:якорь, ara:(ʾanjar), hin:लंगर (laṅgar), urd:(laṅgar), tel:లంగరు (laṅgaru), swa:nanga, hau:anga|anchor||ancre|ancla|âncora|якорь||लंगर|||jangkar||çıpa||anga|锚|||||ankro|ankkuri|kotwica
+angil|angil|||ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl), rus:евангелие (evangeliye), fra:évangile, por:evangelho|message||message|mensaje|mensagem|месседж||सन्देश (रिसाला)|||pesan (mesej)|رِسالة‎||||信息||伝言 (メッセージ)|소식 (메시지)|tin nhắn|mesaĝo|viesti|wiadomość
+angil.er|angiler||||messenger||messager|mensajero||||||||||||||||||viestintuoja (airut)|posłaniec (wysłannik)
 Angola|Angola|dexa|AO||Angola||Angola|Angola||||||||||||||||||Angola|Angola
 angul|angul|||fas: انگشت‎ (angošt), hin:अंगुलि (aṅgulī), ben:আঙুল (aṅgul)|finger (toe)|Finger (Zeh)|doigt|dedo|dedo|палец||उंगली (अंगुलि)|আঙুল||jari||parmak|kidole||手指||指|||fingro|sormi tai varvas|palec
 angul.marke|angul marke||||fingerprint||empreinte digitale|huella digital|impressão digital|отпечаток пальца|||||||parmak izi|||指纹 (指印)||指紋|지문|||sormenjälki|
@@ -154,8 +156,6 @@ anim.at.ion.|animation||||animation (animating)||animation|animación|||||||anim
 anim.ism.|animisme||||animism|Animismus|animisme|animismo|animismo|анимизм||||||||||||||||animismi|animizm
 anis|anis|bio|Pimpinella anisum|eng:anise, fra:por:anis, spa:anís, rus:анис (anis), ara: أَنْسُون‎ (ʾansūn), jpn:アニス (anisu), kor:아니스 (aniseu)|anise||anis|anís|anis|анис||||||أَنْسُون‎||||茴芹||アニス (八角)|아니스|||anis|anyż
 anis.araki|anis araki||||raki||raki||áraque|арак (ракы)|||||||rakı|||阿剌吉||||||raki|
-anjil|anjil|||ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl), rus:евангелие (evangeliye), fra:évangile, por:evangelho|message||message|mensaje|mensagem|месседж||सन्देश (रिसाला)|||pesan (mesej)|رِسالة‎||||信息||伝言 (メッセージ)|소식 (메시지)|tin nhắn|mesaĝo|viesti|wiadomość
-anjil.er|anjiler||||messenger||messager|mensajero||||||||||||||||||viestintuoja (airut)|posłaniec (wysłannik)
 Antartika|Antartika|dexa|AQ||Antarctica||Antarctique|antartida||||||||||||||||||Antarktis|Antarktyka
 Antartika.Bahai|Antartika Bahai||||Antarctic Ocean||Océan Antarctique|océano Antártico||||||||||||||||||Eteläinen Jäämeri|Ocean Antarktyczny (Ocean Południowy)
 antena|antena|||eng:antenna, spa:por:may:antena, fra:antenne, rus:антенна (antenna), tur:anten, jpn:アンテナ (antena)|antenna (aerial)||antenne|antena||антенна||||||||||天线|||||anteno|antenni|antena
@@ -288,9 +288,9 @@ bahai.alga|bahai alga|bio|||seaweed (macroalgae)||algues|macroalga|macroalga|м�
 bahai.amir.er|bahai amirer||||admiral||amiral|almirante|almirante|адмирал||ऐडमिरल|||laksamana|أَمِيرُ البَحْر‎|oramiral|||海军上将||提督 (海軍大将) |제독|đô đốc|admiralo (ŝiparestro)|amiraali|admirał
 bahai.cau|bahai cau|bio|||seagrass||posidonie (herbiers marins)||erva marinha|морские травы||||||||nyasi-bahari||海草||海草||||meriheinä|trawa mor
 bahai.di|bahai di||||maritime|||marítimo|marítimo|морской|||||||||||||||mara|meri- (merellinen)|morski
+bahai.gel-|bahai gele|bio|Medusozoa||jellyfish (seajelly)||méduse|medusa|medusa|||||||||||海蜇||海月||||meduusa|meduza
 bahai.hiyar|bahai hiyar|bio|Holothuroidea||sea cucumber||concombre de mer|holoturia (pepino de mar)|pepino-do-mar (holotúrias)|голотурия (морские огурц)|||||gamat|||||海參||海鼠||||merimakkara|strzykwa
 bahai.hua|bahai hua|bio|Actiniaria||sea anemone|||actinia (anémonas de mar)||морские анемоны|||||buran|||||海葵||イソギンチャク||||merivuokko|ukwiał
-bahai.jele|bahai jele|bio|Medusozoa||jellyfish (seajelly)||méduse|medusa|medusa|||||||||||海蜇||海月||||meduusa|meduza
 bahai.kinar|bahai kinar||||coast (shore)|Küste|côte|costa (orilla)|costa||ساحل|तट (सीमा, कनारा, साहिल)|||pantai|سَاحِل‎|sahil|||海岸||海岸|||marbordo|merenranta|wybrzeże
 bahai.nil|bahai nil||||aqua (teal)|||||||||||||||||水色||||merensininen|morskoniebieski
 bahai.ordu|bahai ordu||||sea force (navy)||force navale (marine)|marina (armada)|marinha|военно-морской флот||नौसेना|||angkatan laut|||||海军||海軍|해군|hải quân|mararmeo|merivoimat (sotalaivasto)|marynarka (flota)
@@ -380,7 +380,7 @@ bax-tra|• trabaxe||||translate (interpret; translation, interpretation)||tradu
 bax-tra.r|• trabaxer||||interpreter (translator)|||traductor|||||||||||||||||tradukisto|kääntäjä (tulkki)|tłumacz
 bax-un.ik.|• unbaxike||||monolingual||||||||||||||||||||unulingva|yksikielinen|
 bax.|baxe|||hin:भाषा (bhāṣā), urd:(bhāṣā), ben:ভাষা (bhaṣa), pnb:ਭਾਸ਼ਾ (bhāshā), tel:భాష (bhāṣa), tam:பாசை (pāsai), tha:ภาษา (phasa), may:bahasa, jav:basa|speak (talk, language, communication)||langue|lengua (idioma, hablar, comunicación)|língua (idioma)|язык||भाषा|||bahasa||dil (lisan)|lugha||语言||言語|||lingvo (paroli, komuniki)|puhua (kieli, kommunikaatio)|język; komunikacja; mówić
-bax.jinse|baxe jinse||||grammatical gender||genre grammatical|género gramatical|gênero gramatical|род в грамматике||||||||||文法的性||文法的性 (名詞クラス)||||kieliopillinen suku|rodzaj gramatyczny
+bax.gens-|baxe gense||||grammatical gender||genre grammatical|género gramatical|gênero gramatical|род в грамматике||||||||||文法的性||文法的性 (名詞クラス)||||kieliopillinen suku|rodzaj gramatyczny
 bax.kanun|baxe kanun||||grammar|||gramática|||||||||||||||||gramatiko|kielioppi|gramatyka
 bax.kanun.di|baxe kanun di||||grammatical|||gramatical|||||||||||||||||gramatika|kieliopillinen|gramatyczny
 bax.log.ia|baxe lojia||||linguistics|||lingüística||||||||||||语言学||言語学|||lingvistiko|kielitiede (lingvistiikka)|językoznastwo
@@ -521,7 +521,7 @@ bin.|bine|||ara: بِنَاء‎ (bināʾ), hin: बनाना (banānā), urd
 bin.plan|bine plan||||architecture||architecture|arquitectura|arquitetura|архитектура||वास्तुकला|||seni bina|هَنْدَسَة مِعْمَارِيَّة‎|mimarlık|ujenzi||建筑学||建築学|건축학|kiến trúc|arĥitekturo|arkkitehtuuri|architektura
 bin.plan.er|bine planer||||architect||architecte|arquitecto|arquiteto|архитектор||वास्तुकार|স্থপতি||arkitek (jurubina)|مِعْمَارِيّ‎|mimar|||建筑师||建築家|건축가|kiến trúc sư|arĥitekto|arkkitehti|architekt
 bindu|bindu|||hin:बिंदु (bindu), ben:বিন্দু (bindu), tha:พินทุ (pintu), eng:bindi (holy dot), rus:бинди (bindi)|dot (spot)|||punto (lunar)|||||||||||||||||punkto|täplä (läiskä)|punkt
-bio.jinse|bio jinse||||biological sex|||sexo||биологический пол||||||||||生物性別||生物学の性||||biologinen sukupuoli|płeć biologiczna
+bio.gens-|bio gense||||biological sex|||sexo||биологический пол||||||||||生物性別||生物学の性||||biologinen sukupuoli|płeć biologiczna
 bio.lasa|bio lasa||||biowaste|||||||||||||||||||||biojäte|
 bio.mute.di|bio mute di||||fermented|||||||||||||||||||||hapatettu|sfermentowany
 bio.sana.xe|bio sana xe||||compost||compost|abono orgánico (compost)|composto|компост||||||||||||堆肥||||komposti|kompost
@@ -743,8 +743,8 @@ da.men.su|damen su||||their||leur|||их||उनका||||||||他们的|||||ilia
 da.mi.men|damimen|bine|pron.||we (exlusive we)||||||||||kami|||||我们|||||ni sen ne vi|me mutta et sinä|
 da.su|da su||||his or her|||||||||||||||他的|||||lia aŭ ŝia aŭ ĝia|hänen (sen)|
 dai|dai|||yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai,tai), kor:대— (dae-)|big (great, large)|||grande||||||||||||||大きい|||granda|iso (suuri)|duży
-dai.anjil.er|dai anjiler||||ambassador|||embajador|||||||||||||||||ambasadoro|lähettiläs|ambasador
-dai.anjil.kan|dai anjilkan||||embassy|||embajada|||||||||||||||||ambasado|lähetystö|ambasada
+dai.angil.er|dai angiler||||ambassador|||embajador|||||||||||||||||ambasadoro|lähettiläs|ambasador
+dai.angil.kan|dai angilkan||||embassy|||embajada|||||||||||||||||ambasado|lähetystö|ambasada
 dai.bahai|dai bahai|||zho:大海 (dàhǎi), jpn:大海 (taikai),  kor:대양 (daeyang), vie:đại dương, hin:महासागर (mahāsāgar), ben:মহাসমুদ্র (môhaśmudr), tha:มหาสมุทร (mahasamut)|ocean||océan|océano|oceano|океан||महासागर|মহাসমুদ্র||samudra (lautan)||okyanus|bahari||大洋 (大海)||大洋 (大海)|대양|đại dương|oceano|valtameri|ocean
 dai.barxa|dai barxa||||downpour (heavy rain)|Regenguss|trombe (averse)|chubasco (chaparrón)|temporal (toró)|проливной дождь|||||hujan lebat|||||大雨||||||rankkasade|
 dai.dara|dai dara||||torrent|||||||||||||||||||||hyöky (vyöry)|
@@ -1013,13 +1013,13 @@ eletr.rad.|eletrorade||||lightning bolt|||relámpago||молния||||||||||闪�
 elf.|elfe|||eng:elf, spa:por:elfo, fra:elfe, rus:эльф (el’f), jpn:エルフ (erufu), kor:엘프 (elpeu)|elf||elfe|elfo|elfo|эльф||एल्फ़||||آلْف||||精灵||妖精 (エルフ)|엘프 (요정)|||haltia (tonttu)|
 Enceladus|Enceladus|planeta 6 lun 2|||Enceladus|||||||||||||||||||||Enceladus|
 energ.ia|energia|||eng:energy, spa:energía, por:energia, fra:énergie, rus:энергия (energiya), tur:enerji, fas:انرژی‎ (enerži), jpn:エネルギー (enerugī)|energy|||energía|||||||||||||||||energio|energia|energia
+engen.er.|engener|||eng:engineer, spa:ingeniero, por:engenheiro, rus:инженер (inzhener), hin:mar:इंजीनियर (iñjīniyar), jpn:エンジニア (enjinia), may:insinyur|engineer|Ingenieur|ingénieur|ingeniero|engenheiro|инженер||इंजीनियर (अभियंता)|||insinyur (jurutera)|مُهَنْدِس‎|kıvcı (mühendis)|||||||||insinööri|inżynier
+engen.ia|engenia||||engineering|Ingenieurwissenschaft|ingénierie (génie)|ingeniería|engenharia|инженерия||||||هَنْدَسَة‎||||工程||||||insinööritaito|
 Englix|Englix|dexa|||England|||Inglaterra||||||||||||||||||Englanti|Anglia
 englix.di|englix di||||English|||inglés|||||||||||||||||angla|englanti|Anglik; angielski
 englix.fil.ist-|englix filiste||||anglophile|||anglófilo||||||||||||||||||anglofiili|anglofil
 englix.fon.di|englix fon di||||anglophone (English speking)||anglophone|||||||||||||||||||englantia puhuva (anglofoni)|
 englix.margarita|englix margarita|bio|Bellis perennis||English daisy||pâquerette|margarita común (pascueta)|margarida-comum|маргаритка многоле́тняя||||||||||雛菊||ヒナギク||||kaunokainen|stokrotka pospolita
-enjen.er.|enjener|||eng:engineer, spa:ingeniero, por:engenheiro, rus:инженер (inzhener), hin:mar:इंजीनियर (iñjīniyar), jpn:エンジニア (enjinia), may:insinyur|engineer|Ingenieur|ingénieur|ingeniero|engenheiro|инженер||इंजीनियर (अभियंता)|||insinyur (jurutera)|مُهَنْدِس‎|kıvcı (mühendis)|||||||||insinööri|inżynier
-enjen.ia|enjenia||||engineering|Ingenieurwissenschaft|ingénierie (génie)|ingeniería|engenharia|инженерия||||||هَنْدَسَة‎||||工程||||||insinööritaito|
 enzim|enzim|||eng:fra:enzyme, spa:por:enzima, rus:энзим (enzim), tur:may:enzim, ara:انزيم‎, fas:آنزیم‎ (ânzim)|enzyme|||enzima||||||||||||||||||entsyymi|enzym
 erb.ium|erbium|yum 068|Er|eng:erbium, fra:erbium, spa:erbio, por:érbio, rus:эрбий, zho:铒 (ěr), jpn:エルビウム, kor:에르븀, vie:eribi, hin:अर्बियम, ben:ইরবিয়াম, may:erbium, swa:erbi, ara: إربيوم|erbium||erbium|erbio|érbio|эрбий||अर्बियम|ইরবিয়াম||erbium|إربيوم|erbiyum|erbi||铒||エルビウム|에르븀|eribi|erbio|erbium|erb
 Eris|Eris||||Eris (dwarf planet)|||Eris (planeta enano)|||||||||||||||||Eris (planedeto)|Eris (kääpiöplaneetta)|Eris (planeta karłowata)
@@ -1047,7 +1047,7 @@ et.an.ol|etanol|kim|CH3-CH2-OH||ethanol|Ethanol|éthanol|etanol|etanol|этан�
 et.il|etil|kim|C2H5||ethyl|Ethyl|éthyle|etilo|etila|этил|||||||etil|||乙基|乙基|||||etyyli|
 Etiopia|Etiopia|dexa|ET||Ethiopia|||Etiopía|||||||||||||||||Etiopio|Etiopia|Etiopia
 eu|eu|||eng:fra:spa:por:eu-|beneficial (good)|||beneficioso (bueno)||||||||||||||||||hyvä (eettisesti hyvä)|korzystny (dobry)
-eu.anjil|eu anjil||||gospel (divine message)||évangile|evangelio|evangelho|евангелие||सुसमाचार|||injil||incil|||福音|||||evangelio|evankeliumi(hyvä sana)|ewangelia
+eu.angil|eu angil||||gospel (divine message)||évangile|evangelio|evangelho|евангелие||सुसमाचार|||injil||incil|||福音|||||evangelio|evankeliumi(hyvä sana)|ewangelia
 eu.deu.sim|eu deu sim||||eutheism|||||||||||||||||||||euteismi (usko jumalan hyvyyteen)|
 eu.gene.sim|eu gene sim||||eugenics|||||||||||||||||||||eugeniikka|
 eu.loga|eu loga||||praise (eulogy)||éloge|elogio|elogio|панегирик||||||||||||賛辞|찬사|||ylistys|laudacja
@@ -1623,6 +1623,7 @@ ge.metr.ia|geometria||||geometry||géométrie|geometría|geometria|геомет�
 ge.polit.ia|geopolitia||||geopolitics||géopolitique|geopolítica|geopolítica|геополитика||भूराजनीति||||||||地缘政治||||||geopolitiikka|
 ge.term.|geoterme||||geothermal||géothermique|geotérmico||геотерма́льный||||||||||地热的||||||geoterminen (maalämpö-)|
 gei|gei|||eng:fra:spa:gay, por:guei|gay (homosexual)|||gay (homosexual)|||||||||||||||||samseksema|homo (homoseksuaali)|gejowski (homoseksualny)
+gel-|gele|||eng:gel, fra:gelée, rus:желе (žele), tur:jel, hin:जेल (jel), kor:젤 (jel), zho:啫哩 (zhělī)|gel (jelly)|||gel (jalea, gelatina)|||||||||||||||||ĝelo|hyytelö|żel, galareta
 gem|gem|||zho:剑 (jiàn), yue:劍 (gim3), jpn:剣 (ken), kor:검 (geom), vie:gươm; kiếm|sword||épée|espada|espada|меч||तलवार|||pedang||kılıç|||剑||剣|검||glavo|miekka|miecz
 gem.|geme|||eng:game, jpn:ゲーム (gēmu), kor:게임 (geim)|game|||juego|||||||||||||||||ludo|peli|gra
 gem.dau|gem dau||||kendo||kendo|||кэндо|||||kendo|||||剑道||剣道|검도|||kendo|
@@ -1640,6 +1641,9 @@ gene.logu|gene logu||||genealogy (recording of descents)||généalogie|genealog�
 gene.loj.ia.di|gene lojia di||||genetic||génétique|genético|genético|генетический||||||||||||||||geneettinen|
 gene.tipe|gene tipe||||genotype||génotype|genotipo|genótipo|генотип||||||||||基因型||遺伝子型||||perimä (genotyyppi)|genotyp
 gene.yo.hevan|gene yo hevan||||breed||élever|criar||выращивать||||||||||||湧かす|||||rozmnażać
+gens-|gense|||ara:urd:(jins), fas:(jens), swa:hau:jinsi, tur:cins, eng:gender, por:gênero, jpn:ジェンダー (jendā)|gender (sex)||sexe|sexo (género)|sexo|пол||लिंग|লিঙ্গ||jenis kelamin|جِنْس|cinsiyet|jinsia|jinsi|性别||性別 (ジェンダー)|성별|giới tính|sekso|sukupuoli|płeć
+gens.al|gensal||||sexual (pertaining to gender)||||||||||||||||||||seksa|sukupuolinen|płciowy
+gens.loj.ia|gensolojia||||gender studies||études de genre|||гендерные исследования|||||||cinsellik bilimi|||性别研究||ジェンダー研究||||sukupuolitutkimus|
 geo.dou|geo dou|bio|||peanut (groundnut)|||maní||||||||||||||||||maapähkinä|orzech ziemny
 geo.elfe|geo elfe||||gnome||gnome|||||||||||||||||||maahinen|
 geo.forme|geo forme||||terrain||terrain|terreno|terreno|||||||||||地势||地形||||maasto (maan muodot)|teren
@@ -2086,7 +2090,6 @@ jela|jela|||eng:jail, fra:geôle, hin:जेल (jel), ben:জেল (jēl), tel
 jela.ja|jela ja||||jailer (imprisoner)|||carcelero||||||||||||||||||vanginvartija|strażnik więzienny
 jela.jen|jela jen||||prisoner|||prisionero|||||||||||||||||||
 jela.kan|jelakan||||prison (jail)||prison (geôle)|cárcel||||कारागार (बन्दीघर, जेल, क़ैदख़ाना)|||penjara||hapishane|jela (gereza)||监狱 (监牢)||監獄|감옥|nhà tù|malliberejo|vankila|więzienie, zakład karny
-jele|jele|||eng:gel, fra:gelée, rus:желе (žele), tur:jel, hin:जेल (jel), kor:젤 (jel), zho:啫哩 (zhělī)|gel (jelly)|||gel (jalea, gelatina)|||||||||||||||||ĝelo|hyytelö|żel, galareta
 jen|jen|||zho:人 (rén), wuu人 (zén), jpn:人 (jin) + fra:gens, spa:por:gente + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon)|person (individual, -ist, -er)||personne|persona (ista, -ador)|pessoa|||||||||||人||人 (者, 員, 徒)|||persono|henkilö|osoba
 jen.|jen (jen men)||||one (impersonal pronoun: people, you)|man|on|||||||||||||||||||ihmiset (yleisen persoonan pronomini)|
 jen.bahai|jen bahai||||a sea of people (huge crowd)|||||||||||||||人海|人海||||amasego da homoj|ihmismeri|
@@ -2107,9 +2110,6 @@ Jibuti|Jibuti|dexa|DJ||Djibouti|||Yibuti||||||||||||||||||Djiboutia|Dżibuti
 jihad.|jihade|||ara: جهاد (jihād), tur:cihat, swa:jihadi + eng:fra:por:may:jihad, spa:yihad, rus:джихад (džihad), jpn:ジハード (jihādo), kor:지하드 (jihadeu), hin:जिहाद (jihād)|struggle (strife)||lutte|lucha|luta|борьба (бой)|||||||mücadele (cihat)|||||||||kamppailu (taistelu)|
 jini|jini|||hin:जान (jān), ben:জান (jan), tur:can + ara: جِنّ (jinn), swa:jini, rus:джинн (džinn) + eng:genie, fra:génie, spa:genio, por:gênio|spirit (soul, vitality, life force)||esprit (génie)|espíritu (genio)|espírito (gênio)|||जान|জান||||can|moyo||||||||henki (sielu)|
 jinj.|jinje|||eng:ginger, fra:gingembre, spa:gengibre, por:jengibre, zho:姜 (jiāng), vie:gừng, tam:இஞ்சி (inji), ara: زنجبيل‎ (zanjabīl), fas: زنجبیل‎ (zanjebil), tur:zencefil|ginger|Ingwer|gingembre|gengibre|jengibre|имбирь|زنجبیل‎|अदरक|আদা|இஞ்சி|jahe|زَنْجَبِيل‎|zencefil|mtangawizi||姜|薑|生姜|생강|gừng|zingibro|inkivääri|imbir
-jinse|jinse|||ara:urd:(jins), fas:(jens), swa:hau:jinsi, tur:cins, eng:gender, por:gênero, jpn:ジェンダー (jendā)|gender (sex)||sexe|sexo (género)|sexo|пол||लिंग|লিঙ্গ||jenis kelamin|جِنْس|cinsiyet|jinsia|jinsi|性别||性別 (ジェンダー)|성별|giới tính|sekso|sukupuoli|płeć
-jinse.di|jinse di||||sexual (pertaining to gender)||||||||||||||||||||seksa|sukupuolinen|płciowy
-jinse.loj.ia|jinselogi||||gender studies||études de genre|||гендерные исследования|||||||cinsellik bilimi|||性别研究||ジェンダー研究||||sukupuolitutkimus|
 jirafa|jirafa|bio||ara:(zarāfa), eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf),may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|giraffe||giraffe|jirafa|girafa|жираф||जिराफ़|জরৈফ||jerapah|زَرَافَة|zürafa|twiga||长颈鹿||麒麟|지라프 (기린)|hươu cao cổ|ĝirafo|kirahvi|żyrafa
 jiva|jiva|||hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|live (be alive; living; live, existence)||vivre (vivant; vie)|vivir (vivo; vida)|viver (vivo; vida)|живать (живой; жизнь)||ज़िंदगी (जीवन, हयात)|জীবন্ত||hidup (hayat)|حَيَاة||uhai||生命||命 (生命)|||vivi (viva; vivo)|elää (elävä; elämä, olemassaolo)|żyć (żywy, żyjący; życie)
 jiva-tra|• trajiva||||survive (live through)||survivre|sobrevivir|sobreviver|переживать||||||||||生还|||||travivi|selviytyä|
@@ -2189,7 +2189,7 @@ kali|kali|||ara: قلي (qily), swa:-kali + eng:alkali, fra:alcali, spa:por:álc
 kali.di|kali di||||alkaline||basique|alcalino|alcalino||||||||||||||||alkaleca|emäksinen (alkalinen)|
 kali.guste|kali guste||||bitter||amer|amargo|amargo|горький||||||||||苦的||苦い|||amara|kitkerä (karvas)|gorzki
 kali.melon|kali melon|bio|Momordica charantia||bitter melon|||melón amargo||горький огурец (китайская горькая тыква)||||||||||苦瓜||ツルレイシ (ニガウリ)|||||przepękla ogórkowata (balsamka ogórkowata)
-kali.oranje|kali oranje|bio|Citrus × aurantium||bitter orange||orange amère|naranjo amargo||померанец||||||||||||ダイダイ|||||gorzka pomarańcza
+kali.orang-|kali orange|bio|Citrus × aurantium||bitter orange||orange amère|naranjo amargo||померанец||||||||||||ダイダイ|||||gorzka pomarańcza
 kaliforn.ium|kalifornium|yum 098|Cf|eng:californium, fra:californium, spa:californio, por:califórnio, rus:калифорний, zho:锎 (kāi), jpn:カリホルニウム, kor:칼리포르늄, vie:califoni, hin:कैलीफोर्नियम, ben:ক্যালিফোর্নিয়াম, may:kalifornium, swa:kalifoni, ara: كاليفورنيوم|californium||californium|californio|califórnio|калифорний||कैलीफोर्नियम|ক্যালিফোর্নিয়াম||kalifornium|كاليفورنيوم|kaliforniyum|kalifoni||锎||カリホルニウム|칼리포르늄|califoni|kaliforniumo|kalifornium|kaliforn
 Kalisto|Kalisto|planeta 5 lun 4|||Callisto||||||||||||||||||||||
 kalkul|kalkul|||fra:calcul, spa:cálculo, eng:calculus, hin:कलन (kalan)|calculus (manipulation of symbolic expressions)|||cálculo||||||||||||||||||kalkyyli|rachunek (formalny system obliczeń)
@@ -2672,7 +2672,7 @@ limite.di|limite di||||finite (limited)||||||||||||||||||||||skończony (ogranic
 limon|limon|bio|Citrus limon|fas:(limun), eng:lemon, tur:limon, rus:лимон (limon), spa:limón, por:limão, hin:नींबू (nīmbū), urd:(nībū), zho:柠檬 (níngméng), jpn:檸檬 (remon), kor:레몬 (remon), vie:lêmon, swa:ndimu; limau, ben:লেবু (lebu)|lemon||citron|limón|limão|лимон||नींबू|||jeruk lemon (limau)||limon|||柠檬||レモン|||citrono|sitruuna|cytryna
 limon.jus|limon jus||||lemonade||citronnade|limonada|limonada|лимонад|||||||limonata|maji ya limau||柠檬水||レモネード|레모네이드||limonado|limonadi|
 limon.luga.di|limon luga di|rang|||lime green|||verde limón|||||||||||||||||||limonkowy (limonkowo zielony)
-limon.oranje|limon oranje|bio|Citrus||citrus fruit|||cítrico||цитрус|||||jeruk (limau)||turunçgil (sitrus)|||柑橘||柑橘|||||
+limon.orang-|limon orange|bio|Citrus||citrus fruit|||cítrico||цитрус|||||jeruk (limau)||turunçgil (sitrus)|||柑橘||柑橘|||||
 lin|lin|||eng:line, fra:ligne, spa:línea, por:linha, rus:линия (liniya), pol:linia|line (thread, string)||ligne (fil)|linea (hilo, cordel, raya)|linha (fio)|линия (нитка)|||দড়ি (তার)|||||||线||糸|||lineo (ŝnuro)|linja (viiva, lanka, liina, naru, köysi)|linia (nić, lina, pas, pręga, smuga, dratwa)
 lin.parce|lin parce||||line break (newline)|||nueva línea||||||||||||||||||rivinvaihto|złamanie lini
 lin.so|lin so||||fibre||fibre|hebra (fibra)|fibra|волокно|||||||lif|||纤维||繊維||sợi|fibro|säie (kuitu)|włókno
@@ -2847,7 +2847,7 @@ maska|maska|||eng:mask, fra:masque, spa:por:máscara, rus:маска (maska), hi
 mast.|maste||||master (be an expert at sth)|||dominar||||||||||||||||||taitaa (olla mestari jskn)|być mistrzem (być ekspertem)
 mast.er|master|||por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister, hin:(mistrī)|master (expert)||maître|maestro (experto)|mestre|мастер||||||||||||||||mestari (asiantuntija)|mistrz (ekspert)
 mast.er. de art.|master de arte (MA)||||Master of Arts||||||||||||||||||||||
-mast.er. de enjen.ia|master de enjenia (ME)||||Master of Engineering||||||||||Magister Teknik|||||||||||diplomi-insinööri|
+mast.er. de engen.ia|master de engenia (ME)||||Master of Engineering||||||||||Magister Teknik|||||||||||diplomi-insinööri|
 mast.er. de filsof.ia|master de filsofia (MF)||||Master of Philosophy|||||||||||||||||||||filosofian maisteri|
 mast.er. de loj.ia|master de lojia (ML)||||Master of Science||||||||||Magister Sains|||||||||||filosofian maisteri luonnontieteistä|
 mast.er. de. tehn.loj.ia|master de tehnolojia (MT)||||Master of Technology|||||||||||||||||||||tekniikan maisteri|
@@ -3297,7 +3297,7 @@ nos.di|nos di||||nasal|||nasal||||||||||||||||||nenä- (nasaali)|nosowy
 nost.alg.ia|nostalgia||27 emotions||nostalgia (longing)||nostalgie|nostalgia|nostalgia (saudade)|ностальгия (тоска)|||||||hasret|||怀旧||懐古 (懐旧)|||nostalgio (saudado)|kaipuu (ikävä, nostalgia)|nostalgia (tęsknota)
 nost.alg.ik.|nostalgike||||nostalgic|||nostálgico|||||||||||||||||||nostalgiczny
 note|note||||note (observe, notice)|||notar (observar)|||||||||||||||||rimarki|huomata (hoksata)|notować, obserwować, zauważyć, zauważać
-note.anjil|note anjil||||notice (notification)|||aviso (notificación)||||||||||||||||||huomautus|wiadomość, zawiadomienie, powiadomienie
+note.angil|note angil||||notice (notification)|||aviso (notificación)||||||||||||||||||huomautus|wiadomość, zawiadomienie, powiadomienie
 note.buku|note buku||||notebook|||cuaderno (libreta)|||||||||||||||||kajero|muistikirja|notatnik
 note.xe|note xe|||deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:노트 (noteu), fas:(not)|note (observation, remark, comment)||note|nota|nota|запись (заметка)|||||||not|||便条|||||noto (rimarko, komento)|huomio (kommentti, merkintä)|uwaga, obserwacja
 nu|nu|||rus:ну (nu) + eng:now, deu:na, zho:那 (nà)|well (now; used to introduce a statement)|||||ну|||||||||||||||nu|no|
@@ -3325,8 +3325,8 @@ onda|onda|||spa:por:ita:onda, fra:onde, may:ombak|wave||onde|onda|onda||||||||||
 Onduras|Onduras|dexa|HN||Honduras|||Honduras|||||||||||||||||Honduro|Honduras|Honduras
 onor|onor|||eng:pol:spa:honor, fra:honneur, por:honra, tur:onur|respect (honor, esteem)||honneur|respeto (honor)|honra|честь||सम्मान|সম্মান||hormat|شَرَف‎|saygı (hürmet, şeref, onur)|heshima|||||||honoro (respekto)|kunnioitus (arvostus)|respekt, honor, szacunek, poważanie
 onor.di|onor di||||honorable (respectable)|||respetable (honorable)|||||||mulia (yang terhormati)||||||||||respektinda|kunnianarvoisa|honorowy
-oranje|oranje|bio||eng:orange, spa:naranja, por:laranja, hin:नारंगी (narangi), jpn:(orenji), + fra:orange, rus:оранжевый (oranževiy)|orange (fruit)||orange (fruit)|naranja|laranja|апельсин||नारंगी|||jeruk (oren)||portakal|||橙子|||||oranĝo|appelsiini|pomarańcza
-oranje.rang|oranje rang|rang|||orange (orange-colored)||orange (couleur)|anaranjado|alaranjado|оранжевый||||||||||橙色||オレンジ色の|||oranĝa|oranssi|pomarańczowy
+orang-|orange|bio||eng:orange, spa:naranja, por:laranja, hin:नारंगी (narangi), jpn:(orenji), + fra:orange, rus:оранжевый (oranževiy)|orange (fruit)||orange (fruit)|naranja|laranja|апельсин||नारंगी|||jeruk (oren)||portakal|||橙子|||||oranĝo|appelsiini|pomarańcza
+orange.rang|orange rang|rang|||orange (orange-colored)||orange (couleur)|anaranjado|alaranjado|оранжевый||||||||||橙色||オレンジ色の|||oranĝa|oranssi|pomarańczowy
 ordu|ordu|||mon:ᠣᠷᠳᠤ (ordu), tur:ordu, ara: عُرْضِيّ‎ (ʿurḍiyy), fas: اردو (ordu), hin:उर्दू (urdū) + eng:fra:horde, spa:por:horda, rus:орда (orda), zho:斡耳朵 (wò'ěrduǒ), jpn:オルド (orudo), kor:오르도 (oreudo)|army||armée|ejército|exército|армия||सेना|||angkatan perang||ordu|||军队|||||armeo|armeija (sotajoukko)|armia
 ordu.jen|ordu jen||||soldier||soldat|soldado|soldado|солдат||सैनिक|||||asker|||军人||軍人|군인|quân nhân|soldato|sotilas|żołnierz
 ordu.jen.kan|ordu jen kan||||barracks||caserne|cuartel (barraca)|quartel|казарма (барак)||छावनी|||berek||baraka (kışla)|||营房||兵舎 (バラック)|병사 (바라크)|doanh trại|soldatejo (kazerno)|kasarmi|koszary
@@ -3725,7 +3725,7 @@ pupe|pupe|||fra:poupée, deu:Puppe, eng:puppet, vie:búp bê, ktu:popi, heb:(bub
 put-kon.er.al|konputeral||||digital (relating to computers)|||||||||||||||||||||digitaalinen (tietokone-)|
 putau|putau|bio||zho:葡萄 (pútáo), yue:葡萄 (pou4 tou4), wuu:葡萄 (bu dau3), jpn:葡萄 (budō), kor:포도 (podo), vie:bồ đào|grape|||uva|||||||||||||||||vinbero|viinirypäle|winogrono
 putau.bagi|putau bagi||||vineyard||vignoble|viñedo|vinhedo|виноградник|||||||üzüm bağı|||葡萄园||葡萄園|포도원||vitejo|viinitarha|winnica
-putau.oranje|putau oranje|bio|Citrus × paradisi||grapefruit||pamplemousse|pomelo (toronja)|toranja|грейпфрут||चकोतरा|||limau gedang|||||葡萄柚||グレープフルーツ|||||grejpfrut
+putau.orang-|putau orange|bio|Citrus × paradisi||grapefruit||pamplemousse|pomelo (toronja)|toranja|грейпфрут||चकोतरा|||limau gedang|||||葡萄柚||グレープフルーツ|||||grejpfrut
 pute|pute|||eng:putrid, spa:por:podre, fra:putride + zho:腐 (fǔ), jpn:腐 (fu) + tha:ผุ (phu)|rotten||pourri|podrido (cariado)||||||||||||||||||mätä|zgniły
 pute|pute|||eng:put + spa:computadora, por:computador, rus:компьютер (komp’uter), ara:كَمْبْيُوتَر‎ (kambyūtar), swa:kompyuta, hin:कंप्यूटर (kampyūṭar), ben:কম্পিউটার (kômpiuṭar), may:komputer, jpn:コンピューター (konpyūtā)|reckon (calculate, put into a certain relation, state or condition)||compter (calculer)|contar (calcular)|contar (calcular)|||||||||||||||||käsitellä tietoja (laskelmoida)|
 pute-ex|• expute||||output|||||||||||||||||||||tulostaa tietoja (tuloste)|
@@ -3848,7 +3848,7 @@ rub.ium|rubium|yum 037|Rb|eng:rubidium, fra:rubidium, spa:rubidio, por:rubídio,
 rubi|rubi|rang|||red||rouge|rojo|vermelho|красный||लाल|লাল||merah|أَحْمَر|kırmızı (al)|nyekundu||红||赤い|빨갛다|đỏ|ruĝa|punainen|czerwony
 rubi.bau.seku|rubi bau seku|||eng:ruby, por:rubi, spa:rubí, fra:rubis, deu:Rubin, rus:рубин (rubin), jpn:ルビー (rubī)|ruby||rubis|rubí|rubi|рубин||मानिक (याक़ूत)|||delima|ياقوت|yakut|yakuti||红宝石||ルビー|루비|hồng ngọc|rubeno|rubiini|rubin
 rubi.linse|rubi linse|bio|Lynx rufus||bobcat|||lince rojo (gato montés)||рыжая рысь||||||||||短尾貓||ボブキャット|||||ryś rudy
-rubi.oranje|rubi oranje|bio|Citrus reticulata||mandarin orange (tangerine)||mandarine|mandarina (tangerina)|tangerina (mandarim)|мандарин||नारंगी (nārangī)|||limau mandarin (oren mandarin, tangerin)|||chenza||柑橘 (红橘)||ポンカン (マンダリン)|||mandarino|mandariini|mandarynka
+rubi.orang-|rubi orange|bio|Citrus reticulata||mandarin orange (tangerine)||mandarine|mandarina (tangerina)|tangerina (mandarim)|мандарин||नारंगी (nārangī)|||limau mandarin (oren mandarin, tangerin)|||chenza||柑橘 (红橘)||ポンカン (マンダリン)|||mandarino|mandariini|mandarynka
 rubi.salmon|rubi salmon|bio|Oncorhynchus nerka||sockeye salmon||saumon sockeye|salmón rojo|salmão-vermelho|нерка (красница)||||||||||紅鮭||ベニザケ|||||nerka (łosoś czerwony)
 ruhu|ruhu|||ara: رُوح‎ (rūḥ), fas: روح‎ (ruh), hin:रूह (rūh), ben:রূহ (ruh), may:ruh, swa:roho, hau:ruhu, som:ruux + rus:дух (duh)|soul (mind, psyche)||psyché|psique||душа (дух)|||||||||||||||animo (psiko)|henki (sielu, mieli, psyyke)|dusza, duch, umysł
 ruhu.di|ruhu di||||mental (psychic)|||mental (psíquico)||||||||||||||||||henkinen (psyykkinen)|umysłowy (psychiczny)
@@ -4124,10 +4124,10 @@ sorb-a|• asorbe||||absorb||absorber (éponger)|||||सोखना||||||||||||
 sos|sos|||eng:fra:sauce, deu:Soße, rus:соус (sous), fas: سس‎ (sos), hin:सॉस (sos), ben:সস (śôś), jpn:ソース (sōsu), kor:소스 (soseu), vie:xốt, may:saus, tur:sos|sauce|Soße|sauce|salsa|molho|соус|سس‎|सॉस|সস||saus|||||||ソース|소스|xốt|saŭco|kastike (soosi)|sos
 sos.ia|sosia|||rus:социум (socium), eng:society, fra:société, spa:sociedad, por:sociedade, deu:sozial, may:sosial|society (association)||société|sociedad|sociedade|общество (социум)||समाज|সমাজ||masyarakat||toplum|jamii||社会||社会|사회|xã hội|socio|seura|społeczeństwo, system społeczny
 sos.ia.al.|sosial||||social|sozial||social|||||||sosial|||||||||||yhteiskunnallinen (sosiaalinen)|społeczny
+sos.ia.al.gens-|sosial gense||||social gender|||género social||гендер||||||||||社會性別||ジェンダー|||||płeć społeczna
 sos.ia.al.mid.ia|sosial midia||||social media|||redes sociales||||||||||||||||||sosiaalinen media|media społecznościowe
 sos.ism.|sosisme||||socialism|||socialismo||||||||||||||||||sosialismi|socjalizm
 sos.ist.|sosiste||||socialist|||socialista||||||||||||||||||sosialisti|socjalista
-sosi.jinse|sosi jinse||||social gender|||género social||гендер||||||||||社會性別||ジェンダー|||||płeć społeczna
 sosis|sosis|||fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage|sausage||saucisse|salchicha|salsicha|колбаса (сосиска)||सॉसेज|||sosis (sosej)|سُجُق||soseji||香肠||ソーセージ|||kolbaso|makkara|kiełbasa
 Soto|Soto|dexa|LS||Lesotho|||Lesoto||||||||||||||||||Lesoto|Lesotho
 spet-|spete||||watch (spectate, observe)||||||||||||||||||||miri (spekti)|katsoa (tarkastella)|
@@ -4195,7 +4195,7 @@ sukar-|sukar|||eng:sugar, fra:sucre, spa:azúcar, por:açúcar, ara: سُكَّ�
 sukar.bete|sukar bete|bio|Beta vulgaris subsp. vulgaris, Altissima||sugar beet||betterave à sucre (betterave sucrière)|remolacha azucarera||сахарная свёкла||||||||||||テンサイ (サトウダイコン)|||||burak cukrowy
 sukar.di|sukar di||||sugary (sweet)|||azucarado||||||||||||||||||sokerinen (makea)|słodki
 sukar.gana|sukar gana|bio|||sugarcane||canne à sucre|caña de azúcar|cana-de-açúcar|сахарный тростник||गन्ना|||tebu|||muwa||甘蔗||サトウキビ||||sokeriruoko|trzcina cukrowa
-sukar.oranj.|sukar oranje|bio|Citrus × sinensis||sweet orange||orange douce|||апельсин||||||||||||オレンジ (アマダイダイ)|||||pomarańcza słodka (pomarańcza chińska)
+sukar.orang-|sukar orange|bio|Citrus × sinensis||sweet orange||orange douce|||апельсин||||||||||||オレンジ (アマダイダイ)|||||pomarańcza słodka (pomarańcza chińska)
 sukar.os|sukaros|kim|||sucrose|Saccharose|saccharose|sacarosa|sacarose|сахароза|||||sukrosa||sakkaroz|||蔗糖|蔗糖|蔗糖 (スクロース)|자당||sakarozo|sakkaroosi|
 sulf|sulfe|yum 016|S|eng:sulfur, fra:soufre, spa:azufre, por:enxofre, swa:sulfuri|sulfur (brimstone)||soufre|azufre|enxofre|сера||गन्धक|সালফার||belerang|كبريت|kükürt|kibiriti (sulfuri)||硫||硫黄|황|lưu huỳnh|sulfuro|rikki|siarka
 sulf.at|sulfate|kim|||sulfate|Sulfat|sulfate|sulfato|sulfato|сульфат|||||sulfat|||||硫酸盐|硫酸鹽|硫酸||||sulfaatti|sulfat
@@ -4565,10 +4565,10 @@ vende|vende|||eng:vend, spa:por:vender, fra:vendre|sell (vend)||vendre|vender|ve
 vende.xop-|vende xope||||trade (commerce, buying and selling)||commerce|comercio||торговля||||||||||贸易||交易 (売買)||||kaupankäynti (osto ja myynti)|handel
 vende.xop.er|vende xope ja||||trader (merchant)|||||||||||||||||||||kauppias|handlarz (kupiec)
 Venezuela|Venezuela|dexa|VE||Venezuela||Venezuela|Venezuela||||||||||||||||||Venezuela|Wenezuela
-Venjou|Venjou||||Wenzhou|||||||||||||||温州||||||Wenzhou|Wenzhou
-venjou.oranje|venjou oranje|bio|Citrus unshiu||satsuma mandarin||mandarine satsuma|unshu mikan||мандарин уншиу||||||||||温州蜜柑||ウンシュウミカン||||satsuma|mandarynka Satsuma (pomarańcza Satsuma)
 ventur|ventur|||deu:Abenteuer, spa:aventura, fra:aventure, rus:авантюра (avantyura), tur:avantür, eng:adventure|adventure (venture)||aventure|aventura|aventura|авантюра|||||petualangan||avantür (macera)|||冒险|||||aventuro|seikkailu|przygoda
 ventur.er|venturer||||adventurer||aventurier|aventurero|aventureiro|авантюрист|||||||maceracı|||冒险者|||||aventuristo|seikkailija|poszukiwacz przygód (awanturnik)
+Venzou|Venzou||||Wenzhou|||||||||||||||温州||||||Wenzhou|Wenzhou
+venzou.orang-|venzou orange|bio|Citrus unshiu||satsuma mandarin||mandarine satsuma|unshu mikan||мандарин уншиу||||||||||温州蜜柑||ウンシュウミカン||||satsuma|mandarynka Satsuma (pomarańcza Satsuma)
 ver|ver|||eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai|true (real, genuine, indeed, very)||vrai|verdadero|verdadeiro|верный|||||||||||||||vera|tosi (aito)|prawdziwy (rzeczywisty, szczery)
 ver.if.|verife||||verify (authenticate)|||autenticar||||||||||||||ただす||||todentaa|
 veranda|veranda|||hin:बरामदा (barāmd), por:varanda, may:beranda, eng:veranda, rus:веранда (veranda), jpn:ベランダ (beranda), kor:베란다 (beranda), swa:varanda|veranda (balcony, terrace, porch)||balcon|balcón (terraza, veranda)|sacada (varanda)|балкон||छज्जा|||langkan (beranda)||balkon|baraza (varanda)||阳台||ベランダ (バルコニー, 縁側)|||verando (balkono)|kuisti (terassi, veranta, parveke)|weranda, balkon, taras, ganek
