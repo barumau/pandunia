@@ -80,14 +80,14 @@ arane nete - 蜘蛛网
 arbuza - 西瓜  
 argente - 银  
 argon - 氩  
-arka - 弓 (琴弓, 拱)  
-arka cati - 拱顶  
+arke - 弓 (琴弓, 拱)  
+arke cati - 拱顶  
 aroma - 气味  
 aroma melon - 香瓜  
 arsenium - 砷  
 arte fete intelige (AI) - 人工智能  
-arteja - 美术家  
-arte sanaja - 工匠 (匠人)  
+artiste - 美术家  
+arte saner - 工匠 (匠人)  
 asar - 影响  
 asle - 起源  
 aslike - 原始的  
@@ -132,7 +132,7 @@ bagre oselote - 小斑虎貓
 bah - 呸  
 bahai - 海  
 bahai alga - 海藻  
-bahai amir ja - 海军上将  
+bahai amirer - 海军上将  
 bahai cau - 海草  
 bahai hiyar - 海參  
 bahai hua - 海葵  
@@ -157,6 +157,7 @@ balaton - 重音符号
 baluta - 橡树  
 bambu - 竹子  
 bamia - 秋葵  
+ban - 包  
 banana - 香蕉  
 banda - 班  (一帮)  
 bandera - 旗  
@@ -228,7 +229,7 @@ bibre - 海狸 (河狸)
 bici - 鞭子  
 bil - 会 (可能)  
 bil es - 也许 (或是, 可能)  
-bil ja - 熟练  
+bilive - 熟练  
 bil ki - 也许 (或是, 可能)  
 bine - 建筑  
 bine plan - 建筑学  
@@ -268,9 +269,9 @@ bufete - 自助餐
 buku - 书  
 bulbul - 夜莺  
 bum - 爆炸  
+burer - 秘书  
+burokratia - 官僚制  
 burge - 要塞  
-buro ja - 秘书  
-buro krati - 官僚制  
 bus halte - 汽车站  
 busu - 吻 (亲)  
 bute - 黄油  
@@ -358,8 +359,8 @@ de - 从
 dee - 神  
 deokata - 神话  
 deonagre grame - 天城文  
-defa bano - 盾牌  
-defa kaska - 盔甲  
+defe bano - 盾牌  
+defe kaska - 盔甲  
 deha - 村  
 dele - 迟延  
 den - 日 (天)  
@@ -372,8 +373,8 @@ dike - 方向 (目的, 目标, 瞄准)
 dike - 瞄准  
 dike pin - 指南针  
 din - 宗教  
-din ja - 信徒  
-• andin ja - 不信神的  
+diniste - 信徒  
+• andiniste - 不信神的  
 din xia - 教派  
 dinamite - 甘油炸药  
 dinde - 火鸡  
@@ -515,14 +516,14 @@ fero - 铁
 • rifete - 重复  
 fete - 事实  
 filme - 电影 (影片)  
-filsofi - 哲学  
+filsofe - 哲学  
 fin - 了  
 fine - 窄 (薄, 稀疏)  
 fiorde - 峡湾  
 firuze - 绿松石  
 fite - 植物  
 fitolojia - 植物学  
-fito yam sim ja - 素食主义者  
+fito yamiste - 素食主义者  
 fizike gi - 硬件  
 fizolojia - 物理学  
 flece - 箭  
@@ -594,8 +595,8 @@ garde tor - 岗楼 (望楼)
 garma mosim - 夏季  
 garma zona - 热带  
 garma zona caustan - 稀树草原  
-gata a dante - 咬  
-gata glu bano - 剪贴板  
+gate a dante - 咬  
+gate glu bano - 剪贴板  
 gati - 硬  
 gati mate - 固体  
 gau tehni - 高科技 (高技术)  
@@ -611,9 +612,9 @@ gene logu - 系谱学
 gene tipe - 基因型  
 geo forme - 地势  
 germanium - 锗  
-gida - 导游  
-gida buku - 指南  
-gida ja - 导游  
+gide - 导游  
+gide buku - 指南  
+gider - 导游  
 ging lin - 經紗  
 gingam - 金柑  
 gio - 教学  
@@ -636,8 +637,8 @@ gola seku - 鹅卵石
 gorila - 大猩猩  
 goton - 棉  
 gradu mute - 发展 (开发)  
-grafi culi - 影像处理  
-grafi kata - 漫画  
+grafe culi - 影像处理  
+grafe kata - 漫画  
 • programe - 计划  
 • programaje - 软件  
 granite - 花岗石  
@@ -676,7 +677,7 @@ halo - 哈啰 (哈喽)
 ham di - 重要  
 hamil - 怀孕  
 Han - 汉族  
-han guan ja - 官  
+han guaner - 官  
 hanu - 手  
 hanu xaka - 胳膊  
 hapu - 合适  
@@ -709,14 +710,14 @@ hidrargente - 汞
 hijabu - 面纱  
 Hindocin - 中南半岛 (印度支那)  
 hindium - 铟  
+hinde raja - 拉贾  
+Hinde rivo - 印度河  
 Hindestan - 印度斯坦  
-hindi raja - 拉贾  
-Hindi rivo - 印度河  
 hipoglukohemia - 低血糖  
 hipohemopresia - 低血压症  
 hisabu loge - 账户  
 hiyar - 黄瓜  
-hobi ja - 爱好者  
+hobiiste - 爱好者  
 hogo - 火  
 hogo seku - 燧石  
 hogo tehni - 烟火  
@@ -753,7 +754,7 @@ intraje - 肠子
 in verse jen - 内向的  
 iode - 碘  
 iridium - 铱  
-islam din - 回教 (伊斯蘭教)  
+islamisme - 回教 (伊斯蘭教)  
 ite - 石 (岩)  
 
 ## J  
@@ -867,7 +868,7 @@ kapa kexa hin - 秃头的
 kape truke - 陷阱  
 kar - 工作  
 • konkar - 合作  
-karja - 工人 (工作者)  
+karer - 工人 (工作者)  
 karkan - 工厂  
 kar lexi - 动词  
 karxe - 工作  
@@ -899,7 +900,6 @@ kava - 挖 (坑, 穴)
 ke - 什么  
 ke riti - 怎么  
 keci - 客气  
-keka ja - 客人  
 Keme - 古埃及  
 ken - 认识  
 kentaur - 人马 (半人马)  
@@ -938,14 +938,13 @@ kon - 共
 kon bon - 相配  
 kon helen baxa - 通用希臘語  
 kon kar - 合作  
-kon sel ja - 顾问  
 kon trati - 公約  
 kone - 锥体  
 konserte - 音乐会  
 kopi - 摹本 (拷貝)  
-koral - 珊瑚  
 kore - 跑步  
-kore ja - 跑步者  
+korer - 跑步者  
+koral - 珊瑚  
 korne melon - 刺角瓜  
 korte kata - 短篇小说  
 korte krokodil - 短吻鳄  
@@ -959,10 +958,10 @@ krake - 裂缝 (缝隙)
 kreater - 创作者  
 kreatia - 万物  
 kredi - 信赖  
-• ankredija - 不信神的  
 • bekredibil - 忠实  
-kredija - 信徒  
-kredi karte - 信用卡  
+kreder - 信徒  
+• ankreder - 不信神的  
+krede karte - 信用卡  
 krepe - 薄烤饼  
 krikete - 板球  
 kriton - 氪  
@@ -1016,10 +1015,10 @@ lense - 透镜
 letre - 信 (书信)  
 letus - 莴苣  
 leu - 左  
-lexi - 词  
-lexi fen - 音节  
-lexi jama - 词汇  
-lexime - 词位  
+lexe - 词  
+lexeme - 词位  
+lexe fen - 音节  
+lexe jama - 词汇  
 liama - 大羊駝  
 libele - 蜻蜓  
 lider - 领导  
@@ -1095,6 +1094,7 @@ mani din - 摩尼教
 manioka - 木薯   
 manite - 磁铁 (磁石)  
 mantol - 斗篷  
+mantu - 饺子  
 mar - 次 (度, 遍)  
 margai - 長尾虎貓  
 marisden - 星期二 (禮拜二)  
@@ -1138,7 +1138,7 @@ metanol - 甲醇
 metil - 甲基  
 metal bede - 铁砧  
 metal lin - 线 (铁丝)  
-metal sanaja - 铁匠  
+metal saner - 铁匠  
 • parametri - 参数  
 meza - 桌子  
 meza tela - 桌布  
@@ -1172,10 +1172,10 @@ mogu - 膜
 moka - 树木  
 moka bano - 木板  
 moka mate - 木材  
-moka sanaja - 木匠  
+moka saner - 木匠  
 moka tana - 原木  
+molite - 磨石  
 molkan - 磨坊  
-mol seku - 磨石  
 mole - 摩尔 (单位)  
 molekul - 分子  
 moli - 茉莉  
@@ -1201,7 +1201,7 @@ musli - 木斯里 (瑞士麦片)
 Muxin - 木星  
 muxinden - 星期四 (禮拜四)  
 muxu - 鼠  
-muzika - 音乐  
+muzike - 音乐  
 
 ## N  
 
@@ -1329,12 +1329,13 @@ paladium - 钯
 pandemike pate - 大流行病  
 panmime - 哑剧  
 pan un - 每  
-pang - 面包  
 panka - 翅膀 (膀子)  
 pankreas - 胰脏  
 pante - 裤子  
 papagai - 鹉鹦  
 papaya - 木瓜  
+repare - 修理  
+reparer - 修理工人  
 par fase - 水平  
 par jen - 同辈  
 par vezeta - 平衡  
@@ -1349,16 +1350,14 @@ pas loga - 密码
 pasporte - 护照  
 pasta petra - 岩漿  
 patogener - 病原体  
+patike - 患者 (病患)  
 patekan - 医院  
 patolojia - 病理学  
 patomise - 传染  
-pati jen - 患者 (病患)  
 pau gi - 手枪  
 payace - 小丑  
-pede - 屁  
 pei kar - 职业  
 • propeler - 螺旋桨  
-pelmen - 饺子  
 pelpel - 蝴蝶  
 pena kalam - 鹅毛笔  
 pena kardon - 翼蓟  
@@ -1371,12 +1370,13 @@ per - 双 (对)
 per nume - 偶数  
 peroxide - 过氧化物  
 pera - 梨  
+perde - 屁  
 pesa - 钱  
 pesa diske - 硬币  
 petra nafte - 石油  
 pexe - 鱼  
 pexe huke - 鱼钩  
-pexe saide ja - 鱼夫  
+pexe saider - 鱼夫  
 piaze - 洋葱  
 pike - 尖顶  
 pil - 皮  
@@ -1427,7 +1427,7 @@ puding - 布丁
 pujakan - 寺庙  
 puja meza - 圣坛  
 pul fina - 完成  
-pul fito yam sim ja - 纯素食主义者  
+pul fito yamiste - 纯素食主义者  
 pul xipi - 浸泡  
 pulmon tis - 肺炎  
 puma - 美洲獅 (山狮)  
@@ -1447,7 +1447,7 @@ rakete lanser - 火箭筒
 rakun - 浣熊  
 rang arka salmon - 虹鱒  
 rang mate - 染料  
-rasa - 种族  
+rase - 种族  
 ration - 推论  
 ratolojia - 论理 (逻辑)  
 ratibu - 常规 (次序)  
@@ -1499,7 +1499,7 @@ sah - 小时
 sah diker - 钟  
 sahi - 正确  
 saide - 狩猎  
-saide ja - 狩人  
+saider - 狩人  
 sal - 你好  
 sale - 健康  
 salta - 福利 (福祉)  
@@ -1530,6 +1530,7 @@ saur - 蜥蜴
 se di - 自私  
 semen - 彼此  
 seku - 石 (岩)  
+konseler - 顾问  
 selenium - 硒  
 selu lojia - 细胞学  
 semolojia - 语义学  
@@ -1555,12 +1556,11 @@ side loka - 座部 (马鞍)
 sifa loga - 形容词  
 sigar - 香烟  
 resikle - 循环再造  
-sikle ja - 骑自行车的人  
+sikliste - 骑自行车的人  
 silike - 硅  
 silke - 丝绸  
 silke larva - 家蚕 (蚕宝宝)  
 simbol - 象徵  
-sing - 星  
 sir plan - 阴谋 (密谋)  
 siro - 零 (〇)  
 sis - 姐妹 (jiěmèi)  
@@ -1568,8 +1568,8 @@ sis doh - 外甥女
 sis son - 外甥  
 skandium - 钪  
 skuter - スクーター  
+sofia - 智慧  
 sofa - 沙发  
-sofita - 智慧  
 soi - 大豆 (黄豆)  
 soi milke - 豆浆  
 soi sos - 酱油  
@@ -1613,7 +1613,8 @@ supa camaca - 汤匙
 supa mien - 拉面  
 supriza - 惊奇  
 susan - 百合花  
-suta - 技术  
+sute - 技术  
+suxi - 寿司  
 
 ## T  
 
@@ -1744,7 +1745,7 @@ vende xope - 贸易
 Venjou - 温州  
 venjou oranje - 温州蜜柑  
 ventur - 冒险  
-ventur ja - 冒险者  
+venturer - 冒险者  
 veranda - 阳台  
 • exverse - 外向的  
 • extraverse - 外向的  
@@ -1761,6 +1762,7 @@ vise ma - 继母
 vise pa - 继父  
 vitamin - 维生素 (维他命)  
 Vixnu - 毗湿奴  
+viziter - 客人  
 vo - 那  
 vode - 诺言  
 vol - 想要 (愿意)  
@@ -1795,6 +1797,7 @@ xifu - 师傅
 xigu - 事故  
 xikaya - 怨言  
 xim - 心  
+xing - 星  
 xipi - 湿  
 xir - 诗  
 xite - 粪 (屎)  
@@ -1808,18 +1811,16 @@ xiva - 湿婆
 xix - 扦子  
 xix karne - 串烧  
 xixa pipe - 水烟袋  
-xofer ja - 司机  
-xopi - 购物 (血拼)  
+xofer - 司机  
+xope - 购物 (血拼)  
 xukre - 谢谢  
 xukria - 谢意  
-xula - 教育  
-xula guru - 教师 (老师)  
-xula ja - 学生  
-xulakan - 学校  
-xula xe - 课  
-xula xefe - 校长  
-xuli - 修理  
-xuli ja - 修理工人  
+xule - 教育  
+xulaje - 课  
+xuler - 学生  
+xule guru - 教师 (老师)  
+xulekan - 学校  
+xule xefe - 校长  
 xuru - 开始  
 xux - 噓  
 

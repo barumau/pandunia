@@ -81,7 +81,7 @@ alumine (oxyde d'aluminium) - alumin oxide
 aluminium - alumin  
 alun - alumin mate  
 amande - badam  
-amateur - hobi ja  
+amateur - hobiiste  
 Amazone - Amazon  
 Amazonie - Amazonia  
 amer - kali guste  
@@ -89,7 +89,7 @@ Amhara (groupe ethnique et langue éthiopienne) - Amara
 amide - amide  
 amie - dosti  
 amine - amin  
-amiral - bahai amir ja  
+amiral - bahai amirer  
 amour (affection) - luba  
 amoureux - lubar  
 ampoule (fiole) - ampul  
@@ -143,11 +143,11 @@ arachnophobie - aranofobia
 araignée - arane  
 arboretum, pépinière - moka jong parke  
 arbre - moka  
-arc - arka  
+arc - arke  
 arc-en-ciel - rang arka  
 Arche d'Alliance - liga di sanduku  
 arche de Noé - Noe di nave  
-archer - arka ja  
+archer - arker  
 architecte - bine planer  
 architecture - bine plan  
 arctique - Artika  
@@ -162,17 +162,17 @@ argument - teze
 arme - vuki  
 arme atomique - atom vuki  
 arme nucléaire - kerne vuki  
-armure - defa kaska  
+armure - defe kaska  
 armée - ordu  
 armée - vuki ordu  
 armée de l'air - air ordu  
 arobase (@) - adres grame  
 arrêt de bus - bus halte  
 arsenic - arsenium  
-art - suta  
+art - sute  
 artefact - arte fete  
 artichaut - karcof  
-artiste - arteja  
+artiste - artiste  
 Artsakh - Arcah  
 Aruba - Aruba  
 ascète - askete  
@@ -210,7 +210,7 @@ autrement - alo di
 avant - pre  
 avec (commun) - kon  
 aventure - ventur  
-aventurier - ventur ja  
+aventurier - venturer  
 avis (opinion) - rai  
 avocat - avakate  
 avoine - ave  
@@ -244,7 +244,7 @@ ballon - balon
 bambou - bambu  
 banane - banana  
 bande - banda  
-bande dessinée - grafi kata  
+bande dessinée - grafe kata  
 Bangladesh - Bangla gogia  
 banque - bankekan  
 banquier - banker  
@@ -310,7 +310,7 @@ boron - boron
 botanique - fitolojia  
 botte - buta  
 boucher - karnizer  
-bouclire - defa bano  
+bouclire - defe bano  
 Bouddha - Buda  
 boue (fange, bourbe, gadoue) - poto  
 bouh! - bu!  
@@ -338,8 +338,8 @@ brun (marron) - kafe rang
 brûler - fa hogo  
 buisson - dipe moka  
 bulletin (infolettre) - habar letre  
-bureau (office) - buro  
-bureaucratie - buro krati  
+bureau (office) - bure  
+bureaucratie - burokratia  
 bus - bus  
 but (destination) - gol  
 butane - butan  
@@ -408,7 +408,7 @@ caroube - karuba
 carrière - pei kar jiva  
 carte (plan) - karte  
 carte - karta  
-carte de crédit - kredi karte  
+carte de crédit - krede karte  
 carte à collectionner - jami karte  
 cartographie - kartografia  
 caserne - ordu jen kan  
@@ -540,7 +540,7 @@ conseil - sel
 conseiller - fa sel  
 considérer - hem  
 construire - fa bina  
-consultant (conseiller) - kon sel ja  
+consultant (conseiller) - konseler  
 conte de fées - pari kata  
 conteneur - kontener  
 continu (analogique) - undura  
@@ -572,7 +572,7 @@ couguar (puma) - puma
 couleur - rang  
 coupe (tasse, verre) - kupa  
 courbe - kurva  
-coureur - kore ja  
+coureur - korer  
 courgette - xiu kaboga  
 courir - kore  
 couronne - korona  
@@ -592,8 +592,8 @@ crocodilien - krokodil
 croissant - kruasan  
 croix - krus  
 croque-mitaine - bubu  
-croyant - din ja  
-croyant - kredija  
+croyant - diniste  
+croyant - kreder  
 cru - seng  
 cruel - zalimive  
 crème - krem  
@@ -617,7 +617,7 @@ cumin - zira
 curium - kurium  
 curry - kari  
 cyan (turquois) - cian  
-cycliste - sikle ja  
+cycliste - sikliste  
 cytologie - selu lojia  
 célérité - sirta  
 cérium - ceresium  
@@ -659,7 +659,7 @@ dinde (dindon) - dinde
 dinosaure - dino saur  
 diorite - diorite  
 dioxyde de carbone - karbe duoxide  
-directeur (principal) - xula xefe  
+directeur (principal) - xule xefe  
 dirigeant (leader) - lider  
 disque - diske  
 distinct - alo fen di  
@@ -726,7 +726,7 @@ eaux de pluie - barxa sui
 effectuer - fa asar  
 effet - asar  
 effet - exfete  
-effrayant - fobi ja  
+effrayant - fobive  
 effrayer - fa fobi  
 einsteinium - einsteinium  
 elfe - elfe  
@@ -756,7 +756,7 @@ escrime - gem suta
 escroquer - fa truke  
 espace (zone, région) - area  
 espace - hali zi  
-espectador - vide ja  
+espectador - vider  
 esprit (génie) - jini  
 essai - esai  
 essayer (tenter) - proba  
@@ -800,7 +800,7 @@ faiseur (facteur) - feter
 fait - fate  
 fan - fan  
 fanal (balise) - foto minar  
-fanatique - fanatija  
+fanatique - fanatike  
 fatigue - fatige  
 faute (erreur) - galte  
 faux - false  
@@ -923,9 +923,9 @@ groupe - grupe
 grâce à - a xukre de  
 grès - sablite  
 guetteur (sentinelle) - garder  
-guide - gida ja  
-guide touristique - gida buku  
-guider - gida  
+guide - gider  
+guide touristique - gide buku  
+guider - gide  
 guitare - gitar  
 guépard - cita  
 gâteau de lune - luna keke  
@@ -1033,13 +1033,13 @@ indien - barti
 indium - hindium  
 individu - monike  
 Indochine - Hindocin  
-Indus - Hindi rivo  
+Indus - Hinde rivo  
 infantile (immature) - you  
 infecter - fa pati mise  
 infection (contagion) - patomise  
 infection - infete  
-infidèle (incroyant) - andin ja  
-infidèle (incroyant) - ankredija  
+infidèle (incroyant) - andiniste  
+infidèle (incroyant) - ankreder  
 inflammation - tis  
 informatique - data culi lojia  
 infrastructure - baze strute  
@@ -1063,7 +1063,7 @@ iode - iode
 iridium - iridium  
 Irland - Eire  
 ironie - ironi  
-Islam - islam din  
+Islam - islamisme  
 
 ## J  
 
@@ -1143,9 +1143,9 @@ lentille - lense
 Lettonie - Latvia  
 lettre - letre  
 leur - damen su  
-lexical - lexi li  
-lexème - lexime  
-leçon - xula xe  
+lexical - lexal  
+lexème - lexeme  
+leçon - xulaje  
 libellule - libele  
 libre - hure  
 licence - baceler  
@@ -1192,8 +1192,8 @@ lumière du jour - dia foto
 lundi - lunaden  
 lune - luna  
 luth - pipa  
-luthéranisme - Luter din  
-luthérien - Luter din ja  
+luthéranisme - Luterisme  
+luthérien - Luteriste  
 lutte - jihade  
 lutécium - lutesium  
 luxure (libido) - kama  
@@ -1224,7 +1224,7 @@ malt - malte
 maltose - maltos  
 malédiction - dusdua  
 manche - kamisa xaka  
-mandarin - han guan ja  
+mandarin - han guaner  
 mandarine - rubi oranje  
 mandarine satsuma - venjou oranje  
 manganèse - mangan  
@@ -1278,10 +1278,10 @@ merveille - ajabu
 merveille - mirabil  
 message - anjil  
 message - misaje  
-messager - anjil ja  
+messager - anjiler  
 messie - mesi  
 mettre (placer) - fa loka  
-meule - mol seku  
+meule - molite  
 microbe - mikrobie  
 microbiologie - mikrobiolojia  
 Micronésie - Mikronesia  
@@ -1314,12 +1314,12 @@ monogramme - monograme
 monologue - auto loga  
 monstre - mostre  
 mordre - fa dante  
-mordre - gata a dante  
+mordre - gate a dante  
 morue (cabillaud) - bakalau  
 morue de l'Atlantique - atlanti bakalau  
 morue du Pacifique - pace bahai bakalau  
 moscovium - moskvium  
-mot - lexi  
+mot - lexe  
 mot de passe - pas loga  
 moteur - moter  
 mouche - dom zeze  
@@ -1336,7 +1336,7 @@ moyen - midike
 mule - iha uma  
 multiple - polipli  
 mur - mur  
-musique - muzika  
+musique - muzike  
 musli - musli  
 mycélium - fungu nete  
 mythe - deokata  
@@ -1494,7 +1494,7 @@ où - ke loka
 pacifisme - pacisme  
 pacifiste - paciste  
 page - yepa late  
-pain - pang  
+pain - ban  
 pair (pareil) - sam bei  
 pair (pareil, egal) - par  
 paire - per  
@@ -1543,7 +1543,7 @@ passerelle - nave trepe
 pastèque - arbuza  
 paternel - pa di  
 pathologie - patolojia  
-patient - pati jen  
+patient - patike  
 patrie - dom gogia  
 patrie - patria  
 pause - pauze  
@@ -1569,7 +1569,7 @@ personne - jen
 personnel (privé) - prive  
 perturber (turbulence) - disturbe  
 pervers - perverse  
-pet (vesse) - pede  
+pet (vesse) - perde  
 petit - xiu  
 petit-enfant - ben ben  
 peu - kam  
@@ -1578,7 +1578,7 @@ peut-être - bil ki
 pharmacie - dava xekan  
 pharmacologie - dava xe lojia  
 phase - faze  
-philosophie - filsofi  
+philosophie - filsofe  
 phosphate - fosfate  
 phosphore - fosfe  
 photographie - fotografe  
@@ -1683,7 +1683,7 @@ poussière - haki
 pouvoir (possible, capacité) - bil  
 poêle - tava  
 praséodyme - prazedimium  
-presse-papier - gata glu bano  
+presse-papier - gate glu bano  
 presser - fa prese  
 pression - prese  
 pression atmosphérique - air prese  
@@ -1697,7 +1697,7 @@ problème - problem
 problématique - problem di  
 proche - proxe  
 procédé (rite) - riti  
-professeur (enseignant) - xula guru  
+professeur (enseignant) - xule guru  
 professeur - profesor  
 profession (métier) - pei kar  
 profond - fase tele  
@@ -1746,7 +1746,7 @@ pénal - fatu di
 périr - perex fa  
 péter - fa pede  
 pétrole (essence) - petra nafte  
-pêcheur - pexe saide ja  
+pêcheur - pexe saider  
 quand - ke sata  
 quartier - mahala  
 quartz - kuarze  
@@ -1754,6 +1754,7 @@ quatre (4) - nelu
 que (comme) - ka  
 que (quoi) - ke  
 que - ki  
+quenelle (ravioli) - mantu  
 querelle (dispute, palabre) - palaba  
 question - sual  
 queue - koda  
@@ -1761,7 +1762,7 @@ qui - ke jen
 
 ## R  
 
-race - rasa  
+race - rase  
 racine - mula  
 radio - radio  
 radium - radium  
@@ -1839,8 +1840,8 @@ réanimer - reanimate
 référer - refere  
 réglisse - alkasus  
 réincarnation - reinkarnation  
-réparateur - xuli ja  
-réparation - xuli  
+réparateur - reparer  
+réparation - repare  
 réparer - fa xuli  
 réparer - repar  
 réponse - javabu  
@@ -1859,7 +1860,7 @@ sac - baga
 sac - sake  
 saccharose - sukaros  
 sacrifice - kurban  
-sagesse - sofita  
+sagesse - sofia  
 sagoutier - sagu  
 sain - sale  
 saintes écritures  - sante kanon  
@@ -1868,7 +1869,7 @@ salam - salam
 sale - ansaf  
 salle - sala  
 salle de bains - banya kamar  
-salle de classe - xula kamar  
+salle de classe - xule kamar  
 salle de muscu -  
 salut - sal  
 samarium - samarium  
@@ -1903,7 +1904,7 @@ scie - xara
 scierie - xarakan  
 sciure - xarafun  
 scorpion - akrabe  
-sculpteur - eskulte ja  
+sculpteur - eskulter  
 scutelle - oste xalke  
 se - se  
 se baigner - fa banya  
@@ -1927,7 +1928,7 @@ seul (unique) - un di
 sexe - jinse  
 sexologie - sexolojia  
 Shiva - xiva  
-shopping - xopi  
+shopping - xope  
 si - si  
 signer - nam kitaba  
 signifier (voiloir dire) - seme  
@@ -1982,8 +1983,9 @@ sulfite - sulfite
 sulfure - sulfide  
 sunnisme - suna islam din  
 survivre - trajiva  
+sushi - suxi  
 svastika (croix gammée) - huke krus  
-syllabe - lexi fen  
+syllabe - lexe fen  
 symbole - simbol  
 symétrie - sammetria  
 syntaxe - jumla lojia  
@@ -2036,7 +2038,7 @@ terrain - geo forme
 terrain de camping - kampe bagi  
 Terre - Geia  
 terre cuite - baka poto  
-terreplatiste - plate geo sim ja  
+terreplatiste - plate geiste  
 terrifier - terife  
 terrorisme - terurisme  
 thallium - talium  
@@ -2084,7 +2086,7 @@ tragique - tragike
 tragédie - tragodia  
 train - tren  
 traitement (processe) - culi  
-traitement d'images - grafi culi  
+traitement d'images - grafe culi  
 traitement de données - data culi  
 traitement de texte - kitaba culi  
 traiter - fa culi  
@@ -2093,7 +2095,7 @@ transmisor - tramiser
 transmitir - tramise  
 travail - karxe  
 travailler - kar  
-travailleur (ouvrier) - karja  
+travailleur (ouvrier) - karer  
 traîner - trate  
 tremper (faire mariner) - pul xipi  
 tribord - nave dex  
@@ -2192,7 +2194,7 @@ vite (rapide) - suga
 vivisection - biotomia  
 vivre (habiter) - be dom  
 vivre (vivant; vie) - jiva  
-vocabulaire (lexique) - lexi jama  
+vocabulaire (lexique) - lexe jama  
 voile - hijabu  
 voile - vel  
 voir - vide  
@@ -2204,10 +2206,10 @@ votre - tumen su
 vouloir - vol  
 voyelle - jong fon  
 voyelle - vokal fone  
-voûte - arka cati  
+voûte - arke cati  
 vrai - ver  
 vulve - vulva  
-végétarien - fito yam sim ja  
+végétarien - fito yamiste  
 Vénus - Zukra  
 vêtements - fuku  
 vœu (promesse) - vode  
@@ -2257,7 +2259,7 @@ zéro - siro
 échec - xiti bai  
 échec et mat - xah mata  
 échelle - foli  
-école (collège) - xulakan  
+école (collège) - xulekan  
 école primaire - baze xulekan  
 école secondaire - jong xulakan  
 économie - malonomia  
@@ -2266,7 +2268,7 @@ zéro - siro
 écrire - kitaba  
 écureuil - lixu  
 édenté - dante hin  
-éducation - xula  
+éducation - xule  
 égal (même) - sam  
 élastique - elastike  
 électricité - eletre  
@@ -2274,11 +2276,10 @@ zéro - siro
 élevage - hevan agri suta  
 élever - gene yo hevan  
 éloge - eu loga  
-élément (unité fondamentale) - so  
 élément chimique - kimeme  
 émeraude - ezmurude  
 émettre - exmise  
-émir - amir ja  
+émir - amirer  
 émirat - amiria  
 émoticône (emoji) - gamo zi  
 émotion - gamo  
@@ -2299,13 +2300,13 @@ zéro - siro
 éthanol - etanol  
 éthyle - etil  
 étinceler - fa sing foto  
-étoile - sing  
-étude - estude  
+étoile - xing  
+étude - stude  
 études de genre - jinselogi  
-étudiant - estude ja  
-étudiant - xula ja  
+étudiant - studer  
+étudiant - xuler  
 étudier - fa estude  
-étymologie - lexi asal  
+étymologie - lexasle  
 été - garma mosim  
 évaluer - fa valu  
 évangile - eu anjil  

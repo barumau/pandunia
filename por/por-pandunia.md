@@ -7,7 +7,7 @@ abelha ou vespa - vespa
 abeto - abies  
 Abissínia - Habaxa  
 abobrinha - xiu kaboga  
-abóbada - arka cati  
+abóbada - arke cati  
 abóbora (jerimun) - kaboga  
 acanto-bastardo - pin kardon  
 aceitar - acepe  
@@ -64,7 +64,7 @@ alho-porro - porei
 alienígena - alian  
 aligátor (jacaré) - korte krokodil  
 alma (espírito) - anime  
-almirante - bahai amir ja  
+almirante - bahai amirer  
 alquila - alkil  
 altar - puja meza  
 alterar - alofa  
@@ -72,7 +72,7 @@ alterar - altre
 altruísmo - altrisme  
 alumínio - alumin  
 alô - halo  
-amador - hobi ja  
+amador - hobiiste  
 amante - lubar  
 amargo - kali guste  
 Amazônia - Amazonia  
@@ -115,7 +115,7 @@ aranha - arane
 arbusto (mata) - dipe moka  
 Arca da Aliança - liga di sanduku  
 arca de Noé - Noe di nave  
-arco - arka  
+arco - arke  
 areia - sable  
 argila - glu poto  
 argon - argon  
@@ -125,7 +125,7 @@ arma - vuki
 arma de fogo - pau gi  
 arma nuclear - kerne vuki  
 armadilha - kape truke  
-armadura - defa kaska  
+armadura - defe kaska  
 armazenar - hazin  
 armazém - hazinkan  
 armário - almari  
@@ -136,15 +136,15 @@ arroz - varis
 arroz branco - baku varis  
 arroz integral - brun varis  
 arsénic - arsenium  
-arte - suta  
+arte - sute  
 artefato - arte fete  
-artista - arteja  
+artista - artiste  
 asa - panka  
 asma - asma  
 aspargo - asparge  
 assar - xava  
 assinar - nam kitaba  
-assustador - fobi ja  
+assustador - fobive  
 assustar - fa fobi  
 astato - astatin  
 astral - astral  
@@ -166,7 +166,7 @@ autopsía - nekrotomia
 autor - auter  
 aveia - ave  
 aventura - ventur  
-aventureiro - ventur ja  
+aventureiro - venturer  
 avó - cin ma  
 avô - cin pa  
 azur (blau) - lazur  
@@ -256,7 +256,7 @@ bu! - bu!
 Buda - Buda  
 budismo zen - jan buda din  
 bule - cai pote  
-burocracia - buro krati  
+burocracia - burokratia  
 buscar (procurar) - soki  
 butano - butan  
 butil - butil  
@@ -337,7 +337,7 @@ carta - letre
 carta geográfica - karte  
 cartografia - kartografia  
 Cartum - Hartum  
-cartão de crédito - kredi karte  
+cartão de crédito - krede karte  
 carvalho - baluta  
 carvalho-roble - europa baluta  
 casa (lar) - dom  
@@ -391,7 +391,7 @@ chuva - barxa
 chá - cai  
 chá mate - mate cai  
 ciano - cian  
-ciclista - sikle ja  
+ciclista - sikliste  
 cidade - siti  
 Cidade-estado - nagre gogia  
 cigarro - sigar  
@@ -429,13 +429,13 @@ complô (conspiração) - sir plan
 comportamento (conduta) - manera  
 composto - bio sana xe  
 comprar - fa xopi  
-compras - xopi  
+compras - xope  
 computador - konputer  
 comum - konun  
 comédia - komodia  
 concerto - konserte  
 concha - pote camaca  
-condutor (chofer, motorista) - xofer ja  
+condutor (chofer, motorista) - xofer  
 conduzir - fa xofer  
 conectar - konnete  
 conector - konneter  
@@ -448,7 +448,7 @@ cono - kone
 conselho - sel  
 considerar - hem  
 construir - fa bina  
-consultor - kon sel ja  
+consultor - konseler  
 conta (fatura) - fatura  
 conta - hisabu loge  
 contar (calcular) - pute  
@@ -464,7 +464,7 @@ corno - korne
 coro - ganir grupe  
 corpo - badan  
 corpo de água - daria  
-corredor - kore ja  
+corredor - korer  
 corrente (atual) - zai zaman di  
 correr - kore  
 correto (justo) - sahi  
@@ -476,8 +476,8 @@ cotovelo - kudi
 couve (repolho) - koli  
 couve-de-folhas - yepa koli  
 couve-flor - hua koli  
-crente - din ja  
-crente - kredija  
+crente - diniste  
+crente - kreder  
 crepe (panqueca) - krepe  
 crepe - Franse krepe  
 criador - kreater  
@@ -579,7 +579,7 @@ diorito - diorite
 directionar (apontar, mirar; direção; objetivo) - dike  
 direito - haku  
 direitos humanos - human hake  
-diretor - xula xefe  
+diretor - xule xefe  
 disco - diske  
 discordar - fa alo rai  
 disprósio - disprosium  
@@ -615,7 +615,7 @@ dúvida - xake
 e - e  
 economia - malonomia  
 ecrã - eskran  
-educação - xula  
+educação - xule  
 efeito - asar  
 efeito - exfete  
 efeito colateral - parafete  
@@ -624,7 +624,6 @@ Egipto (Egito) - Misri
 ei - hei  
 einstânio - einsteinium  
 ele ou ela - da  
-elemento - so  
 elemento químico - kimeme  
 eles ou elas - damen  
 eletricidade - eletre  
@@ -664,15 +663,15 @@ erva-mate - mate
 escada - trepe  
 escama - foli  
 escavar - exkava  
-escola (colégio) - xulakan  
+escola (colégio) - xulekan  
 escorpião (lacrau) - akrabe  
 escova de cabelo - kexa broxa  
 escovinha (centáurea) - nil kentaur hua  
 escrevere - kitaba  
-escritório (birô) - buro  
-escudo - defa bano  
+escritório (birô) - bure  
+escudo - defe bano  
 escudo - oste xalke  
-escultor - eskulte ja  
+escultor - eskulter  
 escândio - skandium  
 esfarrapado - cira cira di  
 esgrima - gem suta  
@@ -707,15 +706,15 @@ este (leste) - dong
 este - ye  
 estirar - long tire  
 estrado - tai  
-estrela - sing  
+estrela - xing  
 estrumpfe (smurf) - nil elfe  
 estrôncio - estrontium  
-estudante - estude ja  
+estudante - studer  
 estudar (examinar) - fa estude  
 etano - etan  
 etanol - etanol  
 etila - etil  
-etimologia - lexi asal  
+etimologia - lexasle  
 etnia - zuku  
 eu (me) - mi  
 európio - europium  
@@ -750,7 +749,7 @@ farmácia (drogaria) - dava xekan
 farol (baliza) - foto minar  
 fato (facto) - fate  
 fator (fazedor) - feter  
-fator - sana ja  
+fator - caner  
 favela - harabu mahala  
 favoritismo - max fili sim  
 favorito (preferido) - max fili di  
@@ -769,7 +768,7 @@ fibra - lin so
 filha - doh  
 filho - son  
 filho ou filha - ben  
-filosofia - filsofi  
+filosofia - filsofe  
 fiorde - fiorde  
 fisiculturismo - muskul bina  
 flecha (seta) - flece  
@@ -860,8 +859,8 @@ guarda-chuva - barxa cati
 guardar - garde  
 guaxinim (rato-lavadeiro) - rakun  
 guepardo (chita) - cita  
-guia - gida ja  
-guiar - gida  
+guia - gider  
+guiar - gide  
 guitarra - gitar  
 Gália - Galia  
 gálio - galium  
@@ -935,7 +934,7 @@ incluindo - in klus
 incluir - fa in klus  
 inclusivo - in klus di  
 indivíduo - monike  
-Indo - Hindi rivo  
+Indo - Hinde rivo  
 Indochina - Hindocin  
 indígena (índio) - aslamerikan  
 infantil (imaturo) - you  
@@ -943,8 +942,8 @@ infectar (contagiar) - fa pati mise
 infecção (contágio) - patomise  
 infecção - infete  
 inferir - infere  
-infiel - andin ja  
-infiel - ankredija  
+infiel - andiniste  
+infiel - ankreder  
 inflamaçao - tis  
 informática (ciência da computação) - data culi lojia  
 infraestrutura - baze strute  
@@ -969,7 +968,7 @@ irmão - bra
 irmão mais velho - sen bra  
 ironia - ironi  
 irídio - iridium  
-islã - islam din  
+islã - islamisme  
 item - vutu  
 itrio - yutrium  
 itérbio - yuterbium  
@@ -1031,7 +1030,7 @@ ler - dugu
 letal - letali  
 Letónia - Latvia  
 leve - legu  
-lexema - lexime  
+lexema - lexeme  
 lhama - liama  
 libélula - libele  
 licor - araki  
@@ -1052,7 +1051,7 @@ livermório - livermorium
 livre (forro) - hure  
 livro - buku  
 lixeira - lasa tong  
-lição - xula xe  
+lição - xulaje  
 lobo - volfe  
 local - lokal  
 loja - dukan  
@@ -1063,8 +1062,8 @@ lugar (local) - loke
 lula (calamar) - kalmar  
 lustroso - foto mira di  
 luta - jihade  
-luteranismo - Luter din  
-luterano - Luter din ja  
+luteranismo - Luterisme  
+luterano - Luteriste  
 lutécio - lutesium  
 luxúria - kama  
 luxúria - luxuria  
@@ -1076,7 +1075,7 @@ lápis - kalam
 lápis - karbe kalam  
 lápis-lazúli - lazur petra  
 lâmpada (luminária) - lampa  
-léxico - lexi li  
+léxico - lexal  
 líder (chefe) - lider  
 língua (idioma) - baxe  
 língua - lisan  
@@ -1097,6 +1096,7 @@ magnésio - magenium
 mago - mager  
 mago - zarduxtan mager  
 mahjong - majang  
+mainá - maina  
 maioria - maxia  
 mais - max  
 maldição - dusdua  
@@ -1106,7 +1106,7 @@ malte - malte
 maltose - maltos  
 mamão (papaia) - papaya  
 mancha (marca) - marke  
-mandarim - han guan ja  
+mandarim - han guaner  
 mandioca (aipim) - manioka  
 manga - kamisa xaka  
 manganésio - mangan  
@@ -1214,7 +1214,7 @@ monção - barxa mosim
 monóculo - un yen di lense  
 monólogo - auto loga  
 morder - fa dante  
-morder - gata a dante  
+morder - gate a dante  
 moscovio - moskvium  
 mosquito - moski  
 motor - moter  
@@ -1239,10 +1239,10 @@ mão - hanu
 média (mídia) - midia  
 mês - mes  
 mímico - mimer  
-mó - mol seku  
+mó - molite  
 mónada - monaje  
 múltiplos - polipli  
-música - muzika  
+música - muzike  
 
 ## N  
 
@@ -1348,7 +1348,7 @@ oásis - vahi
 
 ## P  
 
-paciente - pati jen  
+paciente - patike  
 pacifismo - pacisme  
 pacifista - paciste  
 pacote - pake  
@@ -1358,7 +1358,7 @@ padrasto - vise pa
 pai - pa  
 painel - bano  
 palato (céu da boca) - boka cati  
-palavra (vocábulo) - lexi  
+palavra (vocábulo) - lexe  
 palavra-passe (senha) - pas loga  
 palhaço - payace  
 palácio (mansão, palacete) - dai dom  
@@ -1367,6 +1367,7 @@ pan-europeu - paneuropan
 panda - panda  
 pandemia - pandemike pate  
 pantomima (mímica) - panmime  
+papagaio - papagai  
 papel - kaguji  
 papel de parede - mur kaguji  
 papel higiênico - tuale kaguji  
@@ -1407,7 +1408,7 @@ pedrinha - xiu seku
 pegada - fute marke  
 pegajoso (adesivo) - glu di  
 peidar - fa pede  
-peido - pede  
+peido - perde  
 peixe - pexe  
 pele - pil  
 pena - pena kalam  
@@ -1431,7 +1432,7 @@ peróxido - peroxide
 peróxido - peroxide  
 peróxido de hidrogênio - hidre peroxide  
 pesado - veze di  
-pescador - pexe saide ja  
+pescador - pexe saider  
 pescoço (nuca, gargalo) - nuka  
 pessoa - jen  
 pessoal (privado) - prive  
@@ -1508,9 +1509,9 @@ privatizar - privatize
 problema - problem  
 procedimento (rito) - riti  
 processamento de dados - data culi  
-processamento de imagem - grafi culi  
+processamento de imagem - grafe culi  
 processo - culi  
-professor (docente) - xula guru  
+professor (docente) - xule guru  
 professor - profesor  
 profeta (arauto) - nabija  
 profetizar - nabi  
@@ -1548,13 +1549,13 @@ pátria - patria
 pátria-mãe - matria  
 pâncreas - pankreas  
 pântano - poto stan  
-pão - pang  
+pão - ban  
 pícea (espruce) - pisea  
 pó - fun  
 pó - haki  
 pós-natal - posnatal  
 pós-produção - posprodution  
-quadrinhos (banda desenhada) - grafi kata  
+quadrinhos (banda desenhada) - grafe kata  
 quando - ke sata  
 quarta-feira - merkurden  
 quarteirão - mahala  
@@ -1589,7 +1590,7 @@ química - kimia
 rachadura - krake  
 racional - rational  
 radio - radio  
-rajá - hindi raja  
+rajá - hinde raja  
 ramen (miojo) - supa mien  
 raposa - huli  
 raramente - nadir mar  
@@ -1597,7 +1598,7 @@ raro - nadir
 rasgar - cira  
 rato - muxu  
 razoamento - ration  
-raça - rasa  
+raça - rase  
 raíz - mula  
 reagir - reate  
 real - real  
@@ -1624,10 +1625,10 @@ relógio - sah diker
 remover - fa for  
 remédio (medicamento) - dava xe  
 Reno - Ren  
-reparador - xuli ja  
+reparador - reparer  
 reparar - fa xuli  
 reparar - repar  
-reparo - xuli  
+reparo - repare  
 repetir - fa re  
 repetir - rifete  
 representante - vakiler  
@@ -1674,7 +1675,7 @@ rótula (patela) - guta kaska oste
 
 ## S  
 
-sabedoria (sagacidade, sapiência) - sofita  
+sabedoria (sagacidade, sapiência) - sofia  
 saber - sabi  
 saber - san  
 sacada (varanda) - veranda  
@@ -1773,6 +1774,7 @@ sulfeto - sulfide
 sulfito - sulfite  
 sunismo - suna islam din  
 suor - sueda  
+sushi - suxi  
 suástica (cruz gamada) - huke krus  
 Suíça - Suise  
 sábado - xaniden  
@@ -1780,7 +1782,7 @@ São Paulo - Sante Paulo
 século - sento nen  
 série (sequência) - seria  
 sênior - sen  
-sílaba - lexi fen  
+sílaba - lexe fen  
 símbolo - simbol  
 só (solitário) - un zai di  
 sódio - natri  
@@ -1829,7 +1831,7 @@ Terra - Geia
 terra natal - nateloke  
 terra natal - natestan  
 terracota - baka poto  
-terraplanista - plate geo sim ja  
+terraplanista - plate geiste  
 terreno - geo forme  
 terça-feira - marisden  
 tia - cin sis  
@@ -1854,7 +1856,7 @@ torta - pai
 toupeira - krote  
 toxicologia - toxolojia  
 toxina - biotoxe  
-trabalhador - karja  
+trabalhador - karer  
 trabalhar - kar  
 trabalho - karxe  
 tragédia - tragodia  
@@ -1928,8 +1930,8 @@ vaso de flores - hua pote
 vassoura - jaru  
 vazar - lou  
 vazio - hali  
-vegetalista - pul fito yam sim ja  
-vegetariano - fito yam sim ja  
+vegetalista - pul fito yamiste  
+vegetariano - fito yamiste  
 velho (antigo) - prezaman di  
 velocímetro - suga metri gi  
 vender - vende  
@@ -1958,7 +1960,7 @@ vivisecção - biotomia
 Vixnu - Vixnu  
 viúvo - vidua  
 voar - fa fei  
-vocabulário - lexi jama  
+vocabulário - lexe jama  
 vogal - jong fon  
 vogal - vokal fone  
 voltar (regressar) - be retro  
@@ -2013,7 +2015,7 @@ zumbi - zombi
 álgebra - jebre  
 áraque - anis araki  
 área de acampamento - kampe bagi  
-área de transferência - gata glu bano  
+área de transferência - gate glu bano  
 árvore - moka  
 áspero - gros  
 âncora - angar  

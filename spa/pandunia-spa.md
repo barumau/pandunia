@@ -114,8 +114,8 @@ amerikium - americio
 amide - amida  
 amin - amina  
 amir - orden (mando, comando)  
+amirer - emir  
 amiria - emirato  
-amir ja - emir  
 amir lin - interfaz de línea de comandos  
 amper - amperio  
 ampul - ampolla (vial)  
@@ -138,7 +138,7 @@ animation - animación
 animisme - animismo  
 anis - anís  
 anjil - mensaje  
-anjil ja - mensajero  
+anjiler - mensajero  
 Antartika - antartida  
 Antartika Bahai - océano Antártico  
 antena - antena  
@@ -163,9 +163,9 @@ argente - plata
 Argentina - Argentina  
 argon - argón  
 argu - argumento  
-arka - arco  
-arka cati - bóveda  
-arka ja - arquero  
+arke - arco  
+arke cati - bóveda  
+arker - arquero  
 arka suta - tiro con arco  
 aroma - olor (aroma)  
 aroma melon - melón coreano  
@@ -174,8 +174,8 @@ arte fete - artefacto
 arte fete baxa - idioma artificial (lengua construida, conlang)  
 arte fete di - artificial (sintético)  
 arte fete intelige (AI) - inteligencia artificial  
-arteja - artista  
-arte sanaja - artesano  
+artiste - artista  
+arte saner - artesano  
 Artika - Ártico  
 Artika Bahai - océano Ártico  
 Aruba - Aruba  
@@ -230,8 +230,8 @@ auto loga - monólogo
 auto move - automotor (automotriz)  
 avakate - aguacate  
 avar - daño (corrupción)  
-avar di - dañado  
-avar ja - dañino (perjudicial)  
+avarike - dañado  
+avarive - dañino (perjudicial)  
 ave - avena  
 axe - eje  
 axa - esperar (desear)  
@@ -256,11 +256,11 @@ bagaje - equipaje
 bagre - tigre  
 bagre oselote - gato manchado (tigrillo)  
 bah - bah  
-baha din - bahaísmo (fe bahá'i)  
-baha din ja - bahá'í  
+bahaisme - bahaísmo (fe bahá'i)  
+bahaiste - bahá'í  
 bahai - mar  
 bahai alga - macroalga  
-bahai amir ja - almirante  
+bahai amirer - almirante  
 bahai di - marítimo  
 bahai hiyar - holoturia (pepino de mar)  
 bahai hua - actinia (anémonas de mar)  
@@ -294,6 +294,7 @@ baluta - roble
 baluta frute - bellota  
 bambu - bambú  
 bamia - ocra  
+ban - pan  
 banana - plátano (banana)  
 bandaje - banda (cinta)  
 banda - banda  
@@ -455,7 +456,7 @@ bici - látigo (fusta)
 biku - monje o monja  
 bil - poder (posible)  
 bil es - quizás (tal vez)  
-bil ja - capaz  
+bilive - capaz  
 bil ki - quizás (tal vez)  
 bilta - habilidad (capacidad)  
 bilor - cristal  
@@ -472,7 +473,7 @@ biskute - galleta
 bismute - bismuto  
 bison - bisonte  
 biznes - negocios (comercio)  
-biznes ja - empresario  
+bizneser - empresario  
 blabla - charlar (parlotear, chatear)  
 blablakan - sala de chat (tertuliadero)  
 bloge - blog  
@@ -526,8 +527,8 @@ Brunei - Brunei
 bu! - bu!  
 bubu - coco  
 Buda - Buda  
-Buda din - budismo  
-Buda din ja - budista  
+budaisme - budismo  
+budaiste - budista  
 bude - cabina (garita)  
 budi - comprensión (entendimiento)  
 budi di - concienciado (iluminado)  
@@ -535,15 +536,15 @@ bufete - bufé
 buku - libro  
 bulbul - ruiseñor  
 bum - explosión (estallado)  
+bure - oficina  
+bural - oficial (formal, protocolario)  
+burer - secretario  
+bureria - secretaría  
+burokan - oficina  
+burokratia - burocracia  
+buro riti - etiqueta (protocolo)  
 burge - castillo (fortaleza)  
 Burkina Faso - Burkina Faso  
-buro - oficina  
-buro di - oficial (formal, protocolario)  
-buro ja - secretario  
-buro ja grupe - secretaría  
-burokan - oficina  
-buro krati - burocracia  
-buro riti - etiqueta (protocolo)  
 bus - bus (autobús)  
 bus halte - parada de autobús  
 buste - pecho (busto)  
@@ -568,6 +569,9 @@ cai pote - tetera
 caku - cuchillo  
 camaca - cuchara  
 campion - campeón  
+cane - producción  
+caner - farbicante  
+canekan - fábrica  
 cana - momento  
 canaike - momentáneo  
 canse - oportunidad (chance)  
@@ -633,8 +637,8 @@ coi - verduras
 coklate - chocolate  
 coklate kane - barra de chocolate  
 copu - azada  
-cori - robo (hurto)  
-cori ja - ladrón  
+core - robo (hurto)  
+corer - ladrón  
 cosen - Corea  
 cosen di - coreano  
 Cuana - Botsuana  
@@ -653,13 +657,13 @@ cuti mun - salida
 da - él o ella  
 damen - ellos o ellas  
 dai - grande  
-dai anjil ja - embajador  
+dai anjiler - embajador  
 dai anjilkan - embajada  
 dai bahai - océano  
 dai barxa - chubasco (chaparrón)  
 dai dom - palacio (mansión)  
 dai pau - cañón  
-dai pau ja - cañonear  
+dai pauer - cañonear  
 dai pote - caldero  
 dai seku - peñasco (pedrusco)  
 daita - tamaño  
@@ -680,7 +684,7 @@ Danske gogia - Dinamarca
 dante - diente  
 dante baluta - roble daimyo  
 dante broxa - cepillo de dientes  
-dante dava ja - dentista (odontólogo)  
+dante davaer - dentista (odontólogo)  
 dante hin - desdentado  
 dare - fluir  
 daraje - líquido  
@@ -701,10 +705,10 @@ data fen lize - análisis de datos
 data table - tabla  
 dau - camino (calle)  
 dau bano - señal de tránsito  
-dau din - taoísmo  
-dau din ja - taoísta  
+dauisme - taoísmo  
+dauiste - taoísta  
 dava - curar (sanar)  
-dava ja - doctor (médico)  
+davaer - doctor (médico)  
 dava lojia - medicina  
 dava sui - poción  
 dava xe - medicamento (medicina, remedio, fármaco)  
@@ -722,19 +726,19 @@ deokratia - teocracia
 deojojia - teología  
 deonagre grame - devanágari  
 deosofia - teosofía  
-defa - defensa  
-defa bano - escudo  
-defa ja - defensor  
-defa kaska - armadura  
+defe - defensa  
+defe bano - escudo  
+defer - defensor  
+defe kaska - armadura  
 deha - aldea  
 dele - demora (retraso)  
 dele do - esperar  
-demi - pueblo (población)  
-demi di - público  
-demi grafi - demografía  
-demi krati - democracia  
-demi krati di - democrático  
-demi krati ja - demócrata  
+deme - pueblo (población)  
+demal - público  
+demografia - demografía  
+demokratia - democracia  
+demokratike - democrático  
+demokratiste - demócrata  
 demon - demonio  
 den - día (24 horas)  
 • preden - ayer  
@@ -760,8 +764,8 @@ dike pin - brújula
 din - religión  
 din di - religioso  
 din guru - sacerdote (clérigo, eclesiástico)  
-din ja - creyente  
-• andin ja - infiel (descreído)  
+diniste - creyente  
+• andiniste - infiel (descreído)  
 din xia - secta (culto)  
 dinamite - dinamita  
 dinde - pavo (guajalote)  
@@ -882,7 +886,7 @@ elfe - elfo
 energia - energía  
 Englix - Inglaterra  
 englix di - inglés  
-englix fili ja - anglófilo  
+englix filiste - anglófilo  
 englix margarita - margarita común (pascueta)  
 enjener - ingeniero  
 enjenia - ingeniería  
@@ -897,7 +901,7 @@ eser - ser
 esai - ensayo (redacción)  
 eskran - pantalla  
 eskulte - escultura (estatua)  
-eskulte ja - escultor  
+eskulter - escultor  
 eskulte suta - escultura (arte de escultura)  
 Espania - España  
 esperanto - Esperanto  
@@ -906,8 +910,6 @@ estan - estaño
 Esti - Estonia  
 estibium - antimonio  
 estrontium - strontium  
-estude ja - estudiante  
-estudekan - estudio  
 etan - etano  
 etanol - etanol  
 etil - etilo  
@@ -1176,8 +1178,8 @@ false vide - ilusión
 famili - familia  
 famili nam - apellido  
 fan - fan  
-fantazi - imaginación (fantasía)  
-fantazi di - imaginario (fantástico)  
+fantaze - imaginación (fantasía)  
+fantazike - imaginario (fantástico)  
 fantom - fantasma  
 fase - faz (faceta)  
 fase area - área (superficie)  
@@ -1192,9 +1194,9 @@ fatige - fatiga
 fatu - castigo  
 fatu di - penal (penetenciario)  
 fatura - cuenta (factura)  
-faxi - tira (faja, vendaje, cinta)  
-faxisim - fascismo  
-faxisimja - fascista  
+faxe - tira (faja, vendaje, cinta)  
+faxisme - fascismo  
+faxiste - fascista  
 faxon - moda (tendencia)  
 faxon di - moda (moderno, popular)  
 faze - etapa (fase)  
@@ -1204,8 +1206,8 @@ fei gi - aeroplano
 fei muxu - murciélago  
 • defeke - defecar  
 feke - heces  
-fem sim - feminismo  
-fem sim ja - feministe  
+femisme - feminismo  
+femiste - feministe  
 fen - parte (fracción)  
 fen di - parcial  
 fen don - contribuir  
@@ -1231,14 +1233,14 @@ feter - factor
 feteria - fábrica  
 Fiji - Fiji  
 fikir - idea (pensamiento, reflexión)  
-fili - attracción (-filia)  
-fili ja - fan (-filo)  
+file - attracción (-filia)  
+filiste - fan (-filo)  
 Filipin - Filipinas  
 Filistin - Palestina  
 filme - película (film)  
-filsofi - filosofía  
-filsofi di - filosófico  
-filsofi ja - filósofo  
+filsofe - filosofía  
+filsofal - filosófico  
+filsofer - filósofo  
 filtre - filtro  
 fin - fin (el final)  
 fin - ya (acción completado)  
@@ -1248,7 +1250,7 @@ fiorde - fiordo
 firuze - turquesa (piedra preciosa)  
 fite - planta (vegetal, vegetación)  
 fitolojia - botánica  
-fito yam sim ja - vegetariano  
+fito yamiste - vegetariano  
 fixe - fijar (pegar, asegurar; accesorio, afijo)  
 • prefixe - prefijo  
 fizike gi - hardware (soporte físico)  
@@ -1259,8 +1261,8 @@ flerovium - flerovio
 • reflexe sonde - eco  
 flur - flúor  
 fluride - fluoruro  
-fobi - miedo (-fobia)  
-fobi ja - asustador  
+fobia - miedo (-fobia)  
+fobive - asustador  
 foku - concentrar (enfocarse)  
 foli - escama  
 fone - fono (segmento acústico)  
@@ -1284,9 +1286,9 @@ fosfate - fosfato
 fote - luz (iluminación)  
 foto gola - halo (aureola)  
 fotografe - foto (fotografía)  
+fotografer - fotógrafo  
 fotografe gi - cámara  
 fotografia - fotografía  
-fotografer - fotógrafo  
 fote kane - antorcha  
 foto mata di - mate (opaco)  
 foto minar - faro (baliza, almenara)  
@@ -1387,9 +1389,9 @@ garma zona - trópico
 garma zona caustan - sabana  
 gas - gas  
 gas di - gaseoso  
-gata a dante - morder  
-gata glu bano - portapapeles  
-gata ja - afilado (puntiagudo)  
+gate a dante - morder  
+gate glu bano - portapapeles  
+gative - afilado (puntiagudo)  
 gati - duro  
 gati mate - sólido  
 gati mate di - rígido (sólido)  
@@ -1401,7 +1403,7 @@ gauta - altura (altitud)
 gaze - gasa  
 gazel - gacela  
 gazeta - revista (periódico, gaceta)  
-gazeta ja - periodista  
+gazeter - periodista  
 gee - tierra  
 geografia - geografía  
 Geia - Tierra  
@@ -1438,9 +1440,9 @@ germanium - germanio
 Gernezi - Guernesey  
 geste - gesto  
 gi - máquina (dispositivo, aparato)  
-gida - guiar  
-gida buku - guía de viaje  
-gida ja - guía  
+gide - guiar  
+gide buku - guía de viaje  
+gider - guía  
 giga - giga-  
 ging - paralelo  
 ging gola - meridiano (línea de longitud)  
@@ -1479,17 +1481,17 @@ goro karne - carne de cerdo
 goton - algodón  
 gradu - paso (grado, nivel, rango, calidad, categoría)  
 gradu mute - desarrollo  
-grafi - imagen (gráfico, dibujo)  
-grafi buku - libro de cuentos ilustrado  
-grafi culi - procesamiento de imágenes  
-grafi di - gráfico (pictórico, ilustrado)  
-grafi fineta - resolución de pantalla  
-grafi ja - ilustrador  
-grafi karte - tarjeta de gráfica  
-grafi kata - historieta (caricaturas)  
-grafi lanse gi - proyector  
-grafi projeter - proyector  
-grafi so - píxel  
+grafe - imagen (gráfico, dibujo)  
+grafe buku - libro de cuentos ilustrado  
+grafe culi - procesamiento de imágenes  
+grafeme - píxel  
+grafer - ilustrador  
+grafe fineta - resolución de pantalla  
+grafike - gráfico (pictórico, ilustrado)  
+grafe karte - tarjeta de gráfica  
+grafe kata - historieta (caricaturas)  
+grafe lanse gi - proyector  
+grafe projeter - proyector  
 grafi sugata - tasa de fotogramas  
 gram - gramo (g)  
 • programe - programa  
@@ -1521,7 +1523,7 @@ Guam - Guam
 guan - cargo  
 guan - ancho  
 guan di - oficial  
-guan ja - funcionario  
+guaner - funcionario  
 guanta - anchura  
 Guatemala - Guatemala  
 gubu - hipopótamo  
@@ -1547,8 +1549,8 @@ habar letre - boletín de noticias
 habaxa - abisinio  
 Habaxa - Abisinia  
 hafenium - hafnio  
-hafiza - conservar (preservar, mantener)  
-hafiza ja - guarda (preservador, conservador)  
+hafiz- - conservar (preservar, mantener)  
+hafizer - guarda (preservador, conservador)  
 haha - reír  
 haide - vamos a  
 haima - carpa (toldo)  
@@ -1644,13 +1646,13 @@ hima rose - escarcha
 Himalaya - Himalaya  
 hin - faltar (sin)  
 Hindocin - Indochina  
+hindisme - hinduismo  
+hindiste - hindú  
 hindium - indium  
+hinde raja - rajá  
+Hinde rivo - Indo  
 hinde sos - chatni  
 Hindestan - Indostán  
-Hindi din - hinduismo  
-Hindi din ja - hindú  
-hindi raja - rajá  
-Hindi rivo - Indo  
 hipoglukohemia - hipoglucemia  
 hipohemopresia - hipotensión  
 hisabia - aritmética (cálculos)  
@@ -1660,7 +1662,7 @@ historer - historiador
 historolojia - historia (estudio de sucesos del pasado)  
 hiyar - pepino  
 hobi - pasatiempo (hobby, afición)  
-hobi ja - amateur (aficionado)  
+hobiiste - amateur (aficionado)  
 hogo - fuego  
 hogo di - ardiente (encendido)  
 hogo sanduku - farol (linterna)  
@@ -1721,7 +1723,7 @@ huxi - cómodo (lujoso)
 ## I  
 
 ibri - hebreo  
-ici - voluntad  
+ice - voluntad  
 idee - idea (noción, concepto)  
 ideal - conceptual (ideal)  
 ideograme - ideograma  
@@ -1769,11 +1771,12 @@ iridium - iridio
 ironi - ironía  
 ironi di - irónico  
 islam - sumisión (rendición)  
-islam din - islamismo (islam)  
-islam din ja - musulmán  
-islam din xaria - sharía  
-islam fobi - islamofobia  
+islamofobia - islamofobia  
+islamisme - islamismo (islam)  
+islamiste - musulmán  
+islam xaria - sharía  
 Islande - Islandia  
+isme - ideología (doctrina, -ismo)  
 Israel - Israel  
 Italia - Italia  
 ite - piedra  
@@ -1798,7 +1801,7 @@ jan buda din - budismo zen
 janela - ventana  
 jang - pelea (guerra, batalla)  
 jang di - macrial (militar)  
-jang ja - luchador (guerrero)  
+janger - luchador (guerrero)  
 jang suta - arte marcial  
 jangal - bosque (jungla, selva)  
 jara - jarra  
@@ -1870,7 +1873,7 @@ jung - especie
 jupe - falda  
 jus - jugo (zumo)  
 juste - exacto (preciso)  
-juste pau ja - francotirador  
+juste pauer - francotirador  
 juxa - inyección  
 
 ## K  
@@ -1930,7 +1933,7 @@ kamisa - camisa
 kamisa xaka - manga  
 kamote - camote (batata)  
 kampe - campamento  
-kampe ja - campista  
+kamper - campista  
 Kamri - Gales  
 kamri - galés  
 Kanada - Canadá  
@@ -1963,8 +1966,8 @@ kape yo taxi - gravar (cobrar tasas)
 kar - trabajar  
 • duskar - pecado  
 • konkar - colaborar  
+karer - trabajador (obrero)  
 kargi - herramienta  
-karja - trabajador (obrero)  
 kar lexi - verbo  
 karm eza - escritorio (mesa de trabajo)  
 karxe - trabajo  
@@ -2028,8 +2031,6 @@ ke xe - cuál cosa
 kecape - kétchup  
 keci - educado  
 keke - pastel (galleta)  
-keka - visitar  
-keka ja - invitado (visita)  
 kelele - ruido  
 kelvin - kelvin  
 Keme - Egipcia Antigua  
@@ -2099,34 +2100,33 @@ klor - cloro
 klube - club  
 koala - koala  
 kobalte - cobalto  
-koda - cola (rabo, coda)  
 kode - código (cifra)  
+koda - cola (rabo, coda)  
 koka - coca  
 koko - pollo  
 Kokos nesi - Islas Cocos (Islas Keeling)  
 kola jus - cola (refresco de cola)  
 koli - col (repollo)  
 Kolombia - Colombia  
-koloni - colonia  
-koloni ja - colono  
-koloni sim - colonialismo  
-koloni sim ja - colonialista  
+koloner - colono  
+kolonia - colonia  
+kolonisme - colonialismo  
+koloniste - colonialista  
 kolum - poste (columna)  
 komodia - comedia  
 koma - coma  
-Komoro nesi - Comoros  
+Komoro nesia - Comoros  
 kompani - compañía (empresa, corporación)  
 kon - con (común)  
 kon bon - emparejar (quedar)  
+koncanisme - comunismo  
+koncaniste - comunista  
 kon forma - amoldarse  
 kon funsibil - compatible  
 kon helen baxa - koiné  
 kon kar - colaborar  
 kon pasi - compasión  
 kon sabi - información  
-kon sana sim - comunismo  
-kon sana sim ja - comunista  
-kon sel ja - consultor  
 kontra - estar en contra  
 kon trati - convenion (pacto)  
 konun - común (comunitario)  
@@ -2137,9 +2137,9 @@ konserte - concierto
 kopernium - copérnico  
 kopi - copia (réplica)  
 kopi haki - derechos de autor (copyright)  
-koral - coral  
 kore - correr  
-kore ja - corredor  
+korer - corredor  
+koral - coral  
 korne - cuerno  
 korona - corona  
 korte - corto (breve)  
@@ -2167,11 +2167,11 @@ kreater - creador
 kreatia - creación  
 kreative - creativo  
 kredi - creer (confiar, contar con)  
-• ankredija - infiel (descreído)  
 • bekredibil - leal (fiel)  
-• bekredibilta - lealtad (fidelidad)  
-kredija - creyente  
-kredi karte - tarjeta de crédito  
+• bekredebilta - lealtad (fidelidad)  
+kreder - creyente  
+• ankreder - infiel (descreído)  
+krede karte - tarjeta de crédito  
 krem - crema  
 krem di - cremoso  
 krepe - panqueque (crepa)  
@@ -2196,7 +2196,7 @@ krus - cruz
 krus arka - ballesta  
 krus lin - retículo  
 kuan - mineral (mena)  
-kuanja - minero  
+kuaner - minero  
 kuan sui - agua mineral  
 kuan xan - mina  
 kuarze - cuarzo  
@@ -2204,9 +2204,9 @@ Kuba - Cuba
 kube - cubo  
 kudi - codo  
 kuke - cocinar (preparar)  
-kuke ja - cocinero  
+kuker - cocinero  
 kuke kamar - cocina  
-Kuke nesi - Islas Cook  
+Kuke nesia - Islas Cook  
 kuku - cuco  
 kul - genial  
 kulombe - culombio  
@@ -2288,14 +2288,14 @@ letre - carta
 letus - lechuga  
 leu - izquierdo  
 leu di - izquierdo  
-leu sim ja - izquerdista  
-lexi - palabra (vocablo)  
-lexi asal - etimología  
-lexi fen - sílaba  
-lexi jama - vocabulario (léxico)  
-lexi li - léxico  
-lexi liste - disionario (lexicón)  
-lexime - lexema  
+leuiste - izquerdista  
+lexe - palabra (vocablo)  
+lexal - léxico  
+lexasle - etimología  
+lexeme - lexema  
+lexe fen - sílaba  
+lexe jama - vocabulario (léxico)  
+lexe liste - disionario (lexicón)  
 liama - llama  
 Libanen - Líbano  
 libele - libélula  
@@ -2348,10 +2348,10 @@ loge - habla
 loga - registro (archivo, anotación)  
 loga buku - libro de registro  
 loga tabi di - hablador (locuaz)  
-logi safar ja - explorador  
 logika - lógica  
 logika di - logical  
 loje - ciencia (estudiar, investigar, -ología)  
+lojosafarer - explorador  
 loke - lugar  
 lokal - local  
 loke kode - coordenadas  
@@ -2385,8 +2385,8 @@ lung - dragón
 Lung Dexa - Bután  
 luta - saquear (desvalijar, robar)  
 lutar - ladrón  
-Luter din - luteranismo  
-Luter din ja - luterano  
+Luterisme - luteranismo  
+Luteriste - luterano  
 lutesium - lutecio  
 • deluxe - de lujo  
 luxe - luxure  
@@ -2410,6 +2410,7 @@ magenium - magnesio
 Magribia - Marruecos  
 Magyar - Hungría  
 mahala - barrio (cuartel)  
+maina - mainá  
 mais - maíz  
 majang - mahjong  
 majenta - magenta (fucsia)  
@@ -2450,7 +2451,7 @@ manite - imán (magnete)
 manitike - magnético  
 mantol - capa (manto)  
 mantra - mantra (salmodiar)  
-mantu - panecillos al vapor (mantou)  
+mantu - empanada (pelmeni)  
 mar - vez  
 marati - maratí  
 maraton - maratón  
@@ -2558,7 +2559,7 @@ metil - metilo
 metal - metal  
 metal bede - yunque  
 metal lin - alambre (hilo)  
-metal sanaja - herrero  
+metal saner - herrero  
 metal tul - ferretería  
 metri - medir (medida)  
 metri gi - medidor  
@@ -2603,7 +2604,7 @@ minisme - minimalismo
 min ka bas - demasiado poco  
 minus - excepto (menos)  
 ming - brillante (luminoso)  
-ministre ja - ministro  
+ministrer - ministro  
 ministre ofis - ministerio  
 minte - menta  
 mintol - mentol  
@@ -2641,11 +2642,11 @@ moka bano - tablón
 moka jong parke - arboreto  
 moka kane - estaca  
 moka mate - madera  
-moka sanaja - carpintero  
+moka saner - carpintero  
 moka tana - leño (tronca)  
-mol ja - molinero  
+moler - molinero  
+molite - muela  
 molkan - molino  
-mol seku - muela  
 Moldova - Moldova  
 mole - mol  
 molekul - molécula  
@@ -2694,7 +2695,7 @@ Muritania - Mauritania
 mus - deber (necesitar)  
 musta - obligación (compulsión)  
 muskete - mosquete  
-muskete ja - mosquetero  
+musketer - mosquetero  
 muskul - músculo  
 muskul bina - fisicoculturismo (culturismo, musculación)  
 musli - muesli  
@@ -2703,8 +2704,8 @@ Muxin - Jupiter
 muxinden - jueves  
 muxu - ratón  
 muxu cakra - rueda del mouse  
-muzika - música  
-muzika ja - músico  
+muzike - música  
+muziker - músico  
 
 ## N  
 
@@ -2772,7 +2773,7 @@ nava - náhuatl (nahua)
 nave dex - estribor  
 nave ga - navegar (ir en bote)  
 nave ga ja - velero  
-nave kape ja - corsario  
+nave kaper - corsario  
 nave leu - babor  
 Nederlande - Países Bajos  
 Nederlande Antil - Antillas Neerlandesas  
@@ -2878,8 +2879,8 @@ note anjil - aviso (notificación)
 note buku - cuaderno (libreta)  
 note xe - nota  
 nude - desnudo  
-nude sim - nudismo  
-nude sim ja - nudista  
+nudisme - nudismo  
+nudiste - nudista  
 nuka - cuello (nuca, pescuezo)  
 nume - número (contar)  
 numerike - dígital  
@@ -2978,8 +2979,6 @@ pan un - cada
 pan xe - todas las cosas  
 Panama - Panamá  
 panda - panda  
-pang - pan  
-panike - pánico  
 panir - queso fresco  
 panjabi - punjabí  
 panka - ala  
@@ -2991,6 +2990,8 @@ papir - artículo (documento)
 Papua neu Ginia - Papúa Nueva Guinea  
 par - equilibrado (par)  
 • repar - reparar  
+repare - arreglo  
+reparer - reparador  
 par fase - nivel  
 par jen - equilibrado (par)  
 par vezeta - equilibrio  
@@ -3021,12 +3022,12 @@ pasta - pasta
 pasta petra - magma  
 pate - enfermedad  
 patogener - patógeno  
+patike - paciente  
 patike - enfermo  
 patekan - hospital  
 patolojia - patología  
 patomise - infección (contagio)  
 patate - papa  
-pati jen - paciente  
 pau - disparar  
 pau gi - pistola (rifle)  
 paunde - libra (£)  
@@ -3034,7 +3035,6 @@ pauze - pausa
 payace - payaso (clown)  
 pedal - pedal  
 pedal sikle - bicicleta  
-pede - pedo  
 pei - pago  
 pei kar - profesión (ocupación)  
 pei kar di - profesional (de carrera)  
@@ -3042,7 +3042,6 @@ pei kar jiva - carrera
 • expele - expeler (expulsar)  
 • inpele - impeler  
 • propeler - propulsor (hélice)  
-pelmen - empanada (pelmeni)  
 pelpel - mariposa (palomilla)  
 pena - pluma  
 • depena - desplumar  
@@ -3053,7 +3052,7 @@ pende sor - candado
 penis - pene  
 pente - pintura  
 pente broxa - pincel  
-pente ja - pintor  
+penter - pintor  
 pente tela - tela  
 per - par (pareja)  
 per ma - suegra  
@@ -3062,19 +3061,20 @@ peroxide - peróxido
 peroxide - peróxido  
 per pa - suegro  
 pera - pera  
+perde - pedo  
 perex fa - perecer  
 Peru - Perú  
 pesa - dinero (plata)  
 pesa diske - moneda  
-pesa kasa - caja (caja registradora)  
-pesa kasa ja - cajero  
+pesa kase - caja (caja registradora)  
+pesa kaser - cajero  
 pesa plan - presupuesto  
 pete - barriga (vientre, panza)  
 petra - roca (piedra)  
 petra nafte - petróleo  
 pexe - pez (pescado)  
 pexe huke - hamo (anzuelo)  
-pexe saide ja - pescador  
+pexe saider - pescador  
 pexe tanke - acuario (pecera)  
 piano - piano  
 piaze - cebolla  
@@ -3093,7 +3093,7 @@ pipe - pipa
 pipa - laúd  
 pipa frute - níspero japonés  
 piping - evaluación (crítica)  
-piping ja - crítico  
+pipinger - crítico  
 pipre - pimienta  
 pipre minta - piperita  
 piram - pirámide  
@@ -3115,8 +3115,8 @@ plastike - maleable
 plaste paste - plastilina  
 plate - plano (placa)  
 plate di - plana (llano, liso)  
+plate geiste - terraplanista  
 plate geo kaskalogi - tectónica de placas  
-plate geo sim ja - terraplanista  
 plate stan - llanura  
 plate tasa - plato  
 platin - platino  
@@ -3221,8 +3221,8 @@ pul - lleno (completo)
 pul bon - perfecto  
 pul ekran - pantalla completa  
 pul fina - completar (terminar)  
-pul fito yam sim - veganismo  
-pul fito yam sim ja - vegano  
+pul fito yamisme - veganismo  
+pul fito yamiste - vegano  
 pul xipi - remojar (marinar, encurtir, macerar)  
 pulmon - pulmón  
 pulmon tis - pulmonía (neumonía)  
@@ -3273,10 +3273,10 @@ rang - color (colorido)
 rang arka - arco iris  
 rang arka salmon - trucha arcoíris  
 rang mate - tinte  
-rasa - raza  
+rase - raza  
+rasisme - racismo  
+rasiste - racista  
 rasa medi - interracial  
-rasa sim - racismo  
-rasa sim ja - racista  
 raste - crecemiento  
 rate - tener sentido  
 ration - razonamiento  
@@ -3389,7 +3389,7 @@ sah diker - reloj
 sah tore - torre del reloj  
 Sahara Dexa - República Árabe Saharaui Democrática  
 sahi - correcto (justo)  
-saide ja - cazador  
+saider - cazador  
 saide yo pexe - pescar  
 sake - saco  
 sal - hola  
@@ -3433,9 +3433,6 @@ san vol - interés
 san vol di - interesante (curioso)  
 san vol ja - inquisitivo (curioso)  
 san xe - sabiduría (conocimiento)  
-sana - producción  
-sana ja - farbicante  
-sanakan - fábrica  
 sanduice - sándwich (sánduche)  
 sanduku - caja (baúl, cofre, estuche)  
 sante - sagrado (santo)  
@@ -3465,13 +3462,14 @@ semen - el uno al otro (mutuamente)
 semen su - mutuo (recíproco)  
 se su - su (suyo)  
 seku - piedra  
-seku sanaja - albañil (mampostero, cantero)  
+seku saner - albañil (mampostero, cantero)  
 sekunde - segundo  
 sekur - seguro  
 sekur kode - contraseña  
 sekur kopi - copia de seguridad  
 sekur nume - número de identificación personal  
 sel - consejo  
+konseler - consultor  
 selenium - selenio  
 selge - acelga  
 selu - célula  
@@ -3524,22 +3522,20 @@ sifa - cualidad (atributo, descripción)
 sifa di - descriptivo  
 sifa loga - adjetivo  
 sigar - cigarro (cigarillo)  
-siki din - sijismo  
-siki din ja - sij  
+sikisme - sijismo  
+sikiste - sij  
 sikle - bicicleta  
 resikle - reciclar  
-sikle ja - ciclista  
+sikliste - ciclista  
 silike - silicio  
 silke - seda  
 silke larva - gusano de seda  
-sim - ideología (doctrina, -ismo)  
 simbol - símbolo  
 simple - simple  
 sin - señal (letrero, indicio)  
 sine - pecho (seno, tórax)  
 sine kasa - caja torácica  
 sine plate - peto  
-sing - estrella  
 singa - león  
 Singapur - Singapur  
 sir - secreto  
@@ -3558,7 +3554,7 @@ sita - citar
 sita marke - comilla  
 siti - ciudad  
 sivil - civilizado  
-sivilta - civilización  
+sivilia - civilización  
 Skandia - Escandinavia  
 skandium - escandio  
 Skotia - Escocia  
@@ -3566,10 +3562,9 @@ skuter - patinete
 Slave - eslavo  
 Slovakia - Eslovaquia  
 Slovenia - Eslovenia  
-so - elemento (unidad fundamental)  
+sofe - sabio  
+sofia - sabiduría  
 sofa - sofá  
-sofi - sabio  
-sofita - sabiduría  
 soi - soja  
 soi milke - leche de soja  
 soi sos - salsa de soja  
@@ -3577,10 +3572,10 @@ soki - buscar
 sol - sol  
 sol cati - parasol  
 solden - domingo  
-sol estasi - solsticio  
 sol hua - girasol  
 sol kentaur hua - abrepuño  
 sol sistem - sistema solar  
+solostate - solsticio  
 Solomon nesi - Islas Salomón  
 Somal - Somalia  
 Somal Dexa - Solamilandia  
@@ -3612,6 +3607,8 @@ statobaze - soporte (perchero, atril)
 statia - estación  
 statike - estático (estacionario)  
 statike grafe - fotograma  
+studer - estudiante  
+studekan - estudio  
 su - de (posposición de posesión)  
 suahili - suajili  
 sual - pregunta  
@@ -3668,7 +3665,7 @@ suna - costumbre (tradición, convención)
 suna di - traditional (convencional)  
 suna islam din - sunismo  
 Suomi - Finlandia  
-suomi baxa - idioma finés  
+suomi baxe - idioma finés  
 supa - sopa  
 supa camaca - cuchara de sopa  
 supa mien - ramen  
@@ -3678,9 +3675,9 @@ supra di - superior (más alto)
 supriza - sorpresa  
 Suria - Siria  
 Surinam - Surinam  
-surinam baxa - sranan tongo  
+surinam baxe - sranan tongo  
 susan - lirio  
-suta - dotes (arte, habilidad)  
+sute - dotes (arte, habilidad)  
 sutur - costura (sutura)  
 suxi - sushi  
 
@@ -3973,7 +3970,7 @@ vende xope - comercio
 Venezuela - Venezuela  
 venjou oranje - unshu mikan  
 ventur - aventura  
-ventur ja - aventurero  
+venturer - aventurero  
 ver - verdadero  
 verife - autenticar  
 veranda - balcón (terraza, veranda)  
@@ -3996,7 +3993,7 @@ vide - ver (mirar)
 • exvidebil - evidente  
 • previde - prever (esperar, pensar)  
 vidaje - vista (visión)  
-vide ja - espectador  
+vider - espectador  
 vide medan - campo de visión  
 vide punte - perspectiva (punto de vista)  
 vidua - viudo  
@@ -4027,6 +4024,8 @@ vita - tornillo
 vitamin - vitamina  
 Vixnu - Vishnú  
 viza - visado  
+vizite - visitar  
+viziter - invitado (visita)  
 vo - ese (aquel)  
 vode - promesa (voto)  
 vodun - vudú  
@@ -4082,7 +4081,7 @@ xe - cosa
 xe hal - situación  
 xefe - jefe  
 xefe di - principal  
-xefe ministre ja - primer ministro  
+xefe ministrer - primer ministro  
 xenon - xenón  
 xi Fulan - fulano  
 xia - facción  
@@ -4094,9 +4093,10 @@ xilitol - xilitol
 xilos - xilosa  
 xim - corazón  
 xindau din - sintoísmo  
+xing - estrella  
 xipi - mojado  
 xir - poema  
-xir ja - poeta  
+xirer - poeta  
 xirope - jarabe (sirope)  
 xite - mierda  
 xiti - perder  
@@ -4111,21 +4111,19 @@ xiu zi - minúscula
 xiva - Shiva  
 xix - brocheta  
 xixa pipe - pipa de agua (shisha)  
-xofer ja - conductor (chofer)  
+xofer - conductor (chofer)  
 xoke - choque (sacudida)  
-xopi - compras (shopping)  
-xopi ja - comprador  
+xope - compras (shopping)  
+xoper - comprador  
 xou - exposición (espectáculo)  
 xukre - gracias  
 xukria - gratitud  
-xula - educación  
-xula guru - maestro (profesor, docente)  
-xula ja - estudiante  
-xulakan - escuela (colegio, institución)  
-xula xe - lección  
-xula xefe - director de colegio  
-xuli - arreglo  
-xuli ja - reparador  
+xule - educación  
+xulaje - lección  
+xuler - estudiante  
+xule guru - maestro (profesor, docente)  
+xulekan - escuela (colegio, institución)  
+xule xefe - director de colegio  
 xuru - comienzo (inicio, principio)  
 xuru di - primer (inicial, inaugural)  
 xux - chito (chist)  
@@ -4176,7 +4174,7 @@ yo jen - algién
 yo sata - algún día (algún vez)  
 yo xe - algo  
 yoga - yoga  
-yoga ja - yogui  
+yogaiste - yogui  
 yogo - yugo  
 yogur - yogur  
 Yohan festa - día de San Juan  

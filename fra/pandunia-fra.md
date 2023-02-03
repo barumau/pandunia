@@ -92,8 +92,8 @@ Amerikan Samoa - Samoa américaines
 amerikium - américium  
 amide - amide  
 amin - amine  
+amirer - émir  
 amiria - émirat  
-amir ja - émir  
 amir lin - ligne de commande (console, terminal, invite de commande)  
 amper - ampère  
 ampul - ampoule (fiole)  
@@ -117,7 +117,7 @@ animisme - animisme
 anis - anis  
 anis araki - raki  
 anjil - message  
-anjil ja - messager  
+anjiler - messager  
 Antartika - Antarctique  
 Antartika Bahai - Océan Antarctique  
 antena - antenne  
@@ -141,15 +141,15 @@ argente - argent
 Argentina - Argentine  
 argon - argon  
 argu - argument  
-arka - arc  
-arka cati - voûte  
-arka ja - archer  
+arke - arc  
+arke cati - voûte  
+arker - archer  
 arka suta - tire à l'arc  
 aroma - odeur  
 arsenium - arsenic  
 arte fete - artefact  
 arte fete intelige (AI) - intelligence artificielle  
-arteja - artiste  
+artiste - artiste  
 Artika - arctique  
 Artika Bahai - océan Arctique  
 Aruba - Aruba  
@@ -223,7 +223,7 @@ bagre oselote - oncille
 bah - bah  
 bahai - mer  
 bahai alga - algues  
-bahai amir ja - amiral  
+bahai amirer - amiral  
 bahai cau - posidonie (herbiers marins)  
 bahai hiyar - concombre de mer  
 bahai jele - méduse  
@@ -250,6 +250,7 @@ baluta - chêne
 baluta frute - gland  
 bambu - bambou  
 bamia - gombo  
+ban - pain  
 banana - banane  
 banda - bande  
 bandera - drapeau  
@@ -380,10 +381,10 @@ bude - cabine
 buku - livre  
 bulbul - rossignol  
 bum - explosion  
-burge - fort  
-buro - bureau (office)  
-buro krati - bureaucratie  
+bure - bureau (office)  
+burokratia - bureaucratie  
 buro riti - protocole  
+burge - fort  
 bus - bus  
 bus halte - arrêt de bus  
 busu - bisou  
@@ -477,8 +478,8 @@ dee - dieu
 deokata - mythe  
 deonagre grame - dévanagari  
 deosofia - théosophie  
-defa bano - bouclire  
-defa kaska - armure  
+defe bano - bouclire  
+defe kaska - armure  
 deha - village  
 dele - délai (retard)  
 • preden - hier  
@@ -489,8 +490,8 @@ dia foto - lumière du jour
 dike - viser (direction, cible; objectif)  
 dike - viser  
 din - religion  
-din ja - croyant  
-• andin ja - infidèle (incroyant)  
+diniste - croyant  
+• andiniste - infidèle (incroyant)  
 din xia - secte  
 dinamite - dynamite  
 dinde - dinde (dindon)  
@@ -562,13 +563,11 @@ esentia - être (existence, essence)
 esential - essentiel (fondamental)  
 esai - essai  
 eskran - écran  
-eskulte ja - sculpteur  
+eskulter - sculpteur  
 esponje - éponge  
 estan - étain  
 estibium - antimoine  
 estrontium - strontium  
-estude - étude  
-estude ja - étudiant  
 etan - éthane  
 etanol - éthanol  
 etil - éthyle  
@@ -660,7 +659,7 @@ fa xula - apprendre (étudier)
 fa xuli - réparer  
 false - faux  
 fan - fan  
-fanatija - fanatique  
+fanatike - fanatique  
 fase - face (facette)  
 fase area - aire (superficie)  
 fase tele - profond  
@@ -691,18 +690,18 @@ festal - festif
 • rifete - répéter  
 fete - faire (fait)  
 feter - faiseur (facteur)  
-filsofi - philosophie  
+filsofe - philosophie  
 fin di - fini  
 fiorde - fiord  
 fite - plante (végétal)  
 fitolojia - botanique  
-fito yam sim ja - végétarien  
+fito yamiste - végétarien  
 fizolojia - physique  
 flece - flèche  
 flerovium - flérovium  
 flur - fluor  
 fluride - fluorure  
-fobi ja - effrayant  
+fobive - effrayant  
 foli - échelle  
 fonte - source  
 fonte kalam - stylo-plume  
@@ -780,8 +779,8 @@ garma mosim - été
 garma zona - tropique  
 garma zona caustan - savane  
 gas - gaz  
-gata a dante - mordre  
-gata glu bano - presse-papier  
+gate a dante - mordre  
+gate glu bano - presse-papier  
 gati - dur  
 gau - haut  
 gau tehni - hautes technologies  
@@ -805,9 +804,9 @@ geo kaska plate - plaque tectonique
 geo nice jela - oubliette (cul de basse-fosse)  
 Germania - Germanie  
 germanium - germanium  
-gida - guider  
-gida buku - guide touristique  
-gida ja - guide  
+gide - guider  
+gide buku - guide touristique  
+gider - guide  
 gingam - kumquat  
 gio - enseigner  
 gitar - guitare  
@@ -827,8 +826,8 @@ gola seku - pavé
 gorila - gorille  
 goton - coton  
 gradu mute - développement  
-grafi culi - traitement d'images  
-grafi kata - bande dessinée  
+grafe culi - traitement d'images  
+grafe kata - bande dessinée  
 • programe - programme  
 granite - granit  
 grave - gravire  
@@ -866,7 +865,7 @@ halife - calife
 halo - allô  
 halte - halte  
 ham di - important  
-han guan ja - mandarin  
+han guaner - mandarin  
 hanu - main  
 hanu xaka - bras  
 hapu - approprié (adapté, convenable, opportun)  
@@ -910,14 +909,14 @@ hijabu - voile
 hima - neige  
 Hindocin - Indochine  
 hindium - indium  
+Hinde rivo - Indus  
 hinde sos - chutney  
 Hindestan - Hindustan  
-Hindi rivo - Indus  
 hipoglukohemia - hypoglycémie  
 hipohemopresia - hypotension  
 hisabu loge - compte  
 hiyar - concombre  
-hobi ja - amateur  
+hobiiste - amateur  
 hogo - feu  
 hogo seku - silex  
 hogo tehni - feu d’artifice  
@@ -966,7 +965,7 @@ iode - iode
 iridium - iridium  
 ironi - ironie  
 islam - soumission  
-islam din - Islam  
+islamisme - Islam  
 ite - pierre  
 
 ## J  
@@ -1084,7 +1083,7 @@ kape truke - piège
 kar - travailler  
 • duskar - méfait (péché)  
 • konkar - collaborer  
-karja - travailleur (ouvrier)  
+karer - travailleur (ouvrier)  
 kar lexi - verbe  
 karxe - travail  
 karate - karaté  
@@ -1169,16 +1168,15 @@ koma - virgule
 kon - avec (commun)  
 kon helen baxa - koinè  
 kon kar - collaborer  
-kon sel ja - consultant (conseiller)  
 kon trati - convention (alliance, pacte)  
 konun - commun  
 kone - cône  
 konserte - concert  
 kopernium - copernicium  
 kopi - copie  
-koral - corail  
 kore - courir  
-kore ja - coureur  
+korer - coureur  
+koral - corail  
 korne - corne  
 korona - couronne  
 korte kata - nouvelle (récit court)  
@@ -1196,9 +1194,9 @@ kreater - créateur
 kreatia - création  
 kreative - créatif  
 kredi - fier  
-• ankredija - infidèle (incroyant)  
-kredija - croyant  
-kredi karte - carte de crédit  
+kreder - croyant  
+• ankreder - infidèle (incroyant)  
+krede karte - carte de crédit  
 krem - crème  
 krepe - crêpe  
 krepekan - crêperie  
@@ -1265,12 +1263,12 @@ letali - létal
 letre - lettre  
 letus - laitue  
 leu - gauche  
-lexi - mot  
-lexi asal - étymologie  
-lexi fen - syllabe  
-lexi jama - vocabulaire (lexique)  
-lexi li - lexical  
-lexime - lexème  
+lexe - mot  
+lexal - lexical  
+lexasle - étymologie  
+lexeme - lexème  
+lexe fen - syllabe  
+lexe jama - vocabulaire (lexique)  
 liama - lama  
 libele - libellule  
 lider - dirigeant (leader)  
@@ -1323,8 +1321,8 @@ lunaden - lundi
 luna keke - gâteau de lune  
 lung dou - pois carré  
 lutar - brigand (bandit)  
-Luter din - luthéranisme  
-Luter din ja - luthérien  
+Luterisme - luthéranisme  
+Luteriste - luthérien  
 lutesium - lutécium  
 • deluxe - de luxe  
 • luxure - luxure  
@@ -1358,6 +1356,7 @@ manioka fufu - tapioca
 manite - aimant  
 mantol - cape  
 mantra - mantra  
+mantu - quenelle (ravioli)  
 mar - fois  
 Marakux - Marrakech  
 marce - marche  
@@ -1459,8 +1458,8 @@ moka bano - planche
 moka jong parke - arboretum, pépinière  
 moka kane - pieu  
 moka tana - bûche  
+molite - meule  
 molkan - moulin  
-mol seku - meule  
 mole - mole (unité)  
 moli - jasmin  
 moliden - molybdène  
@@ -1489,7 +1488,7 @@ Muxin - Jupiter
 muxinden - jeudi  
 muxmula - néflier  
 muxu - souris  
-muzika - musique  
+muzike - musique  
 
 ## N  
 
@@ -1636,7 +1635,6 @@ pandemike pate - pandémie
 paneuropan - paneuropéen  
 panmime - pantomime  
 panda - panda  
-pang - pain  
 panir - fromage blanc  
 panka - aile  
 pankreas - pancréas  
@@ -1645,6 +1643,8 @@ papagai - perroquet
 papaya - papaye  
 par - pair (pareil, egal)  
 • repar - réparer  
+repare - réparation  
+reparer - réparateur  
 par fase - niveau  
 parta - parité  
 par vezeta - équilibre  
@@ -1665,14 +1665,13 @@ pasporte - passeport
 pasta - pâte  
 pasta petra - magma  
 patogener - agent pathogène  
+patike - patient  
 patekan - hôpital  
 patolojia - pathologie  
 patomise - infection (contagion)  
-pati jen - patient  
 pau gi - pistolet  
 pauze - pause  
 payace - clown (paillasse)  
-pede - pet (vesse)  
 pei kar - profession (métier)  
 pei kar jiva - carrière  
 • expele - expulser  
@@ -1694,6 +1693,7 @@ peroxide - peroxyde
 peroxide - peroxyde  
 per pa - beau-père  
 pera - poire  
+perde - pet (vesse)  
 perex fa - périr  
 pesa - argent  
 pesa diske - monnaie (pièce)  
@@ -1701,7 +1701,7 @@ petra - roche (pierre)
 petra nafte - pétrole (essence)  
 pexe - poisson  
 pexe huke - hameçon  
-pexe saide ja - pêcheur  
+pexe saider - pêcheur  
 piaze - oignon  
 pike - bout (pointe, pic)  
 pilau - pilaf  
@@ -1723,8 +1723,8 @@ piza - pizza
 • aplike - appliquer  
 plan - plan  
 plaste paste - pâte à modeler  
+plate geiste - terreplatiste  
 plate geo kaskalogi - tectonique des plaques  
-plate geo sim ja - terreplatiste  
 plate stan - plaine  
 platin - platine  
 plumbe - plomb  
@@ -1806,7 +1806,7 @@ rang arka - arc-en-ciel
 rang arka salmon - truite arc-en-ciel  
 rang glas - verre coloré  
 rang mate - colorant  
-rasa - race  
+rase - race  
 rasa medi - interracial  
 ration - raisonnement  
 ratolojia - logique  
@@ -1903,6 +1903,7 @@ se su - son (sa)
 seku - pierre  
 sekur - sûr  
 sel - conseil  
+konseler - consultant (conseiller)  
 selenium - sélénium  
 selge - blettes (bettes)  
 selu lojia - cytologie  
@@ -1932,12 +1933,11 @@ sifa loga - adjectif
 sigar - cigarette  
 sikle - bicyclette  
 resikle - recycler  
-sikle ja - cycliste  
+sikliste - cycliste  
 silike - silicium  
 silke - soie  
 silke larva - ver à soie  
 simbol - symbole  
-sing - étoile  
 sir plan - complot (conspiration)  
 sirta - célérité  
 siro - zéro  
@@ -1946,9 +1946,8 @@ siti - ville
 Skandia - Scandinavie  
 skandium - scandium  
 skuter - trottinette  
-so - élément (unité fondamentale)  
+sofia - sagesse  
 sofa - canapé (sofa)  
-sofita - sagesse  
 soi - soja  
 soi milke - lait de soja  
 soi sos - sauce de soja  
@@ -1973,6 +1972,8 @@ sosis - saucisse
 sporte - sport  
 state - estar debout  
 statia - station (gare)  
+stude - étude  
+studer - étudiant  
 sual - question  
 sueda - sueur  
 suga - vite (rapide)  
@@ -1997,7 +1998,8 @@ sulfite - sulfite
 suna islam din - sunnisme  
 supa - soupe  
 susan - lys  
-suta - art  
+sute - art  
+suxi - sushi  
 
 ## T  
 
@@ -2162,7 +2164,7 @@ vende xope - commerce
 Venezuela - Venezuela  
 venjou oranje - mandarine satsuma  
 ventur - aventure  
-ventur ja - aventurier  
+venturer - aventurier  
 ver - vrai  
 veranda - balcon  
 verme - ver  
@@ -2178,7 +2180,7 @@ veze di - lourd
 veze metri gi - balance (poids)  
 vide - voir  
 • exvidebil - évident  
-vide ja - espectador  
+vider - espectador  
 vidua - veuve  
 vilde - sauvage  
 violeta nil - violet (pourpre)  
@@ -2228,6 +2230,7 @@ xia - faction (clique)
 xia islam din - chiisme  
 xikaya - plainte (lamentation)  
 xilos - xylose  
+xing - étoile  
 xipi - mouillé  
 xirope - sirop  
 xite - merde  
@@ -2242,18 +2245,16 @@ xiva - Shiva
 xix - brochette  
 xix karne - chachlik  
 xixa pipe - houka (narguilé, chicha)  
-xopi - shopping  
+xope - shopping  
 xukre - merci  
 xukria - gratitude  
-xula - éducation  
-xula guru - professeur (enseignant)  
-xula ja - étudiant  
-xula kamar - salle de classe  
-xulakan - école (collège)  
-xula xe - leçon  
-xula xefe - directeur (principal)  
-xuli - réparation  
-xuli ja - réparateur  
+xule - éducation  
+xulaje - leçon  
+xuler - étudiant  
+xule guru - professeur (enseignant)  
+xule kamar - salle de classe  
+xulekan - école (collège)  
+xule xefe - directeur (principal)  
 xuru - début (commencement)  
 
 ## Y  

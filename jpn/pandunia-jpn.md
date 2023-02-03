@@ -64,13 +64,13 @@ arane nete - クモの巣
 area - 辺  
 argente - 銀  
 argon - アルゴン  
-arka - 弓 (弓なり)  
-arka ja - 弓兵  
+arke - 弓 (弓なり)  
+arker - 弓兵  
 aroma - 香り (匂い, 臭い)  
 aroma melon - マクワウリ  
 arsenium - ヒ素  
 arte fete intelige (AI) - 人工知能  
-arteja - 美術家  
+artiste - 美術家  
 asar - 効果  
 asle - 起源  
 asparge - アスパラガス  
@@ -109,7 +109,7 @@ baga -  鞄 (バッグ)
 bagre oselote - ジャガーネコ  
 bahai - 海  
 bahai alga - 海藻  
-bahai amir ja - 提督 (海軍大将)   
+bahai amirer - 提督 (海軍大将)   
 bahai cau - 海草  
 bahai hiyar - 海鼠  
 bahai hua - イソギンチャク  
@@ -133,6 +133,7 @@ baluta - ナラ
 baluta frute - ドングリ  
 bambu - 竹  
 bamia - オクラ  
+ban - パン  
 bano - 板  
 bano geme - ボードゲーム  
 barium - バリウム  
@@ -196,7 +197,7 @@ biotoxe - 毒素
 bibre - ビーバー  
 bici - 鞭  
 bil - できる (ありうる)  
-bil ja - 有能 (上手)  
+bilive - 有能 (上手)  
 bilor - 結晶  
 bine - 建物 (建築物)  
 bine plan - 建築学  
@@ -235,10 +236,10 @@ bude - ブース
 bufete - ビュッフェ (バイキング)  
 buku - 本 (書物)  
 bum - 爆発  
-burge - 要塞  
-buro ja - 秘書  
-buro krati - 官僚制  
+burer - 秘書  
+burokratia - 官僚制  
 buro riti - 公式 (礼法, プロトコル)  
+burge - 要塞  
 bus halte - バス停  
 bute - バター (牛酪)  
 butan - ブタン  
@@ -252,6 +253,7 @@ caikan - 茶店 (茶館)
 cai kupa - 茶碗  
 cai pote - 急須  
 camaca - スプーン  
+canekan - 工場 (製造所)  
 cana - 瞬間  
 car - 車  
 cati - 屋根  
@@ -315,15 +317,15 @@ data culi lojia - 計算機科学
 data fen lize - データ解析  
 data table - 表  
 dau - 道  
-dava ja - 医者  
+davaer - 医者  
 dava sui - ポーション (水薬)  
 dava xe - 薬 (医薬品)  
 de - -から  
 dee - 神  
 deokata - 神話  
 deonagre grame - デーヴァナーガリー  
-defa bano - 盾  
-defa kaska - 鎧  
+defe bano - 盾  
+defe kaska - 鎧  
 deha - 村  
 dele - 遅れ (遅延)  
 demon - 悪魔  
@@ -339,8 +341,8 @@ dike - 方向 (標的, ターゲット; 狙う)
 dike - 狙う  
 dike pin - 羅針盤  
 din - 宗教  
-din ja - 信徒 (信者)  
-• andin ja - 不信者  
+diniste - 信徒 (信者)  
+• andiniste - 不信者  
 din xia - 教派  
 dinamite - ダイナマイト  
 dinde - 七面鳥  
@@ -498,11 +500,11 @@ fero - 鉄
 • rifete - 繰り返す  
 fete - する (事実)  
 filme - 映画  (フィルム)  
-filsofi - 哲学  
+filsofe - 哲学  
 fine - 狭い (薄い, 細い)  
 fiorde - フィヨルド  
 fite - 植物  
-fito yam sim ja - 菜食主義者 (ベジタリアン)  
+fito yamiste - 菜食主義者 (ベジタリアン)  
 fizike gi - ハードウェア  
 fizolojia - 物理学  
 flece - 矢 (矢印)  
@@ -567,9 +569,9 @@ garma - 暖かい (熱い)
 garma mosim - 夏  
 garma zona - 熱帯  
 garma zona caustan - サバンナ  
-gata a dante - 咬む  
-gata glu bano - クリップボード  
-gata ja - 鋭い  
+gate a dante - 咬む  
+gate glu bano - クリップボード  
+gative - 鋭い  
 gati - 硬い  
 gati mate - 固体  
 gau di - 高い  
@@ -591,8 +593,8 @@ geo nice di - 地中
 geo nice jela - 地下牢 (ダンジョン)  
 germanium - ゲルマニウム  
 gi - 装置 (機, 器)  
-gida buku - ガイドブック  
-gida ja - 案内人 (ガイド)  
+gide buku - ガイドブック  
+gider - 案内人 (ガイド)  
 ging - 並行  
 ging lin - 縦糸  
 gingam - キンカン (キンキツ)  
@@ -618,11 +620,11 @@ gomu - ゴム (消しゴム)
 gorila - ゴリラ  
 goton - 綿糸 (コットン)  
 gradu mute - 発展 (開発)  
-grafi culi - 画像処理  
-grafi fineta - 解像度  
-grafi karte - グラフィックカード  
-grafi kata - 漫画  
-grafi so - 画素 (ピクセル)  
+grafe culi - 画像処理  
+grafeme - 画素 (ピクセル)  
+grafe fineta - 解像度  
+grafe karte - グラフィックカード  
+grafe kata - 漫画  
 grafi sugata - フレームレート  
 • programe - 次第 (計画, プログラム)  
 • programaje - ソフトウェア  
@@ -687,14 +689,14 @@ hidre peroxide - 過酸化水素
 hidrargente - 水銀  
 Hindocin - 印度支那  
 hindium - インジウム  
+hinde raja - ラージャー  
+Hinde rivo - インダス川  
 hinde sos - チャツネ  
-hindi raja - ラージャー  
-Hindi rivo - インダス川  
 hipoglukohemia - 低血糖  
 hipohemopresia - 低血圧  
 hisabu loge - 口座  
 hiyar - キュウリ  
-hobi ja - アマチュア  
+hobiiste - アマチュア  
 hogo - 火  
 hogo seku - 火打ち石 (フリント)  
 hogo tehni - 花火  
@@ -731,7 +733,8 @@ IP adres - IPアドレス
 iridium - イリジウム  
 ironi - 反語 (皮肉)  
 ironi di - 反語的  
-islam din - イスラム教  
+islamisme - イスラム教  
+isme - 主义  
 
 ## J  
 
@@ -783,7 +786,7 @@ jun moka - 若木
 junnen - 青春時代  
 jun sis - 妹 (imōto)  
 jus - ジュース  
-juste pau ja - 狙撃兵  
+juste pauer - 狙撃兵  
 
 ## K  
 
@@ -842,7 +845,7 @@ kape truke - 罠
 kar - 働く  
 • duskar - 悪事  
 • konkar - 共同して働  
-karja - 労働者  
+karer - 労働者  
 kar lexi - 動詞  
 karxe - 労働  
 karate - 空手  
@@ -879,7 +882,6 @@ ke riti - どのように
 ke sata - 何時  
 ke tipe - どんな  
 ke xe - 何事  
-keka ja - 客人  
 Keme - 古代エジプト  
 ken - 知る  
 kentaur - 人馬 (ケンタウロス)  
@@ -922,13 +924,12 @@ kon bon - 合わせる (適する)
 kon forma - 即する  
 kon kar - 共同して働  
 kon pasi - 同情  
-kon sel ja - 顧問  
 kone - 錐  
 konserte - コンサート (音楽会)  
 kopernium - コペルニシウム  
 kopi - コピー  
-koral - 珊瑚  
 kore - 走る (疾走する)  
+koral - 珊瑚  
 korne melon - ツノニガウリ  
 korte kata - 短編小説  
 korte krokodil - アリゲーター  
@@ -938,10 +939,10 @@ kreater - 創造者
 kreatia - 万物  
 kreative - 創造的な  
 kredi - 信頼する  
-• ankredija - 不信者  
 • bekredibil - 忠実  
-kredija - 信徒 (信者)  
-kredi karte - クレジットカード  
+kreder - 信徒 (信者)  
+• ankreder - 不信者  
+krede karte - クレジットカード  
 krem - クリーム  
 krepe - パンケーキ  
 krikete - クリケット  
@@ -953,7 +954,7 @@ krote - 田鼠
 kruasan - クロワッサン  
 krus arka - クロスボウ (石弓)  
 krus lin - 十字線  
-kuanja - 坑夫  
+kuaner - 坑夫  
 kuan xan - 鉱山  
 kuarze - 石英  
 kube - 立方体  
@@ -997,10 +998,10 @@ lense - レンズ
 letre - 手紙  
 letus - レタス  
 leu - 左  
-lexi - 言葉  
-lexi fen - 音節  
-lexi jama - 語彙  
-lexime - 語彙素  
+lexe - 言葉  
+lexeme - 語彙素  
+lexe fen - 音節  
+lexe jama - 語彙  
 liama - ラマ  
 libele - 蜻蛉  
 lide lin - リード (手綱)  
@@ -1026,8 +1027,8 @@ lixu - 栗鼠
 • inloga - ログイン  
 loga - 記録  
 loga buku - 日誌  
-logi safar ja - 探検家  
 loje - 研究 (科学, 学)  
+lojosafarer - 探検家  
 loke - 場所  
 loke kode - 座標  
 long - 長い  
@@ -1073,6 +1074,7 @@ mangan - マンガン
 manioka - キャッサバ  
 manite - 磁石  
 mantol - マント (ケープ)  
+mantu - 餃子  
 mar - 回 (次, 度)  
 margai - マーゲイ  
 marisden - 火曜日  
@@ -1195,7 +1197,7 @@ Muxin - 木星
 muxinden - 木曜日  
 muxu - 鼠  
 muxu cakra - ホイールマウス  
-muzika - 音楽  
+muzike - 音楽  
 
 ## N  
 
@@ -1316,12 +1318,13 @@ pandemike pate - パンデミック
 pandunia - パンドゥニア  
 panmime - パントマイム   
 pan un - 毎  
-pang - パン  
 panir - クワルク  
 panka - 翼 (羽)  
 pankreas - 膵臓  
 pante - ズボン  
 papaya - パパイヤ  
+repare - 修理  
+reparer - 修理工  
 par jen - 同輩  
 par vezeta - 均衡 (平衡)  
 parce kai - 弾ける  
@@ -1332,16 +1335,15 @@ partaneria - パートナーシップ
 pas loga - パスワード  
 pasporte - パスポート  
 pasta petra - マグマ (岩漿)  
+patike - 患者  
 patekan - 病院 (医院)  
 patomise - 伝染  
-pati jen - 患者  
 pau - 撃つ  
 pau gi - 銃  
 payace - ピエロ (道化師)  
-pede - 屁  
 pei kar - 職業  
 pei kar di - プロフェッショナル  
-pei kar ja - プロフェッショナル  
+pei karer - プロフェッショナル  
 pei kar jiva - キャリア  
 • propeler - プロペラ (推進器)  
 pelpel - チョウ  
@@ -1350,16 +1352,17 @@ pena kardon - アメリカオニアザミ
 pende sor - 南京錠  
 pente - 絵の具 (ペンキ)  
 pente broxa - 絵筆  
-pente ja - 画家 (絵かき)  
+penter - 画家 (絵かき)  
 per - 対 (ペア)  
 per nume - 偶数  
 peroxide - 過酸化物  
 pera - 梨  
+perde - 屁  
 pesa - 金  
 petra nafte - 石油  
 pexe - 魚  
 pexe huke - 釣り針  
-pexe saide ja - 漁師  
+pexe saider - 漁師  
 piaze - 玉葱  
 pike - 先  
 pin - 針 (刺, ピン)  
@@ -1408,8 +1411,8 @@ protacinium - プロトアクチニウム
 puding - プディング  
 pujakan - 神殿 (宮, 寺, 神社)  
 pul ekran - フルスクリーン  
-pul fito yam sim - ヴィーガニズム  
-pul fito yam sim ja - 絶対菜食主義者 (ヴィーガン)  
+pul fito yamisme - ヴィーガニズム  
+pul fito yamiste - 絶対菜食主義者 (ヴィーガン)  
 pul xipi - 漬ける (締める)  
 pulmon tis - 肺炎  
 puma - ピューマ (クーガー)  
@@ -1434,7 +1437,7 @@ rakun - 狸 (ラクーン, 洗い熊)
 rang arka - 虹  
 rang arka salmon - ニジマス  
 rang mate - 染め粉  
-rasa - 人種  
+rase - 人種  
 ration - 推論  
 ratolojia - 論理  
 ratibu - 順  
@@ -1508,7 +1511,6 @@ san lojia - 認識論
 san vol - 興味 (好奇心)  
 san vol di - 面白い  
 san vol ja - 知りたがる  
-sanakan - 工場 (製造所)  
 sanduice - サンドイッチ  
 sante kanon - 聖書  
 sanzi - 扇子  
@@ -1519,9 +1521,10 @@ sau doh - 姪
 sau son - 甥  
 saur - 蜥蜴  
 seku - 石 (岩)  
-seku sanaja - 石匠  
+seku saner - 石匠  
 sekur kopi - バックアップ (控え)  
 sekur nume - 暗証番号  
+konseler - 顧問  
 selenium - セレン  
 selge - フダンソウ (スイスチャード)  
 semolojia - 意味論  
@@ -1549,21 +1552,18 @@ side loka - 座席 (鞍)
 sifa loga - 形容詞  
 sigar - タバコ  
 resikle - 再生する (リサイクルする)  
-sikle ja - チャリダー  
+sikliste - チャリダー  
 silike - ヶィ素  
 silke - 絹  
 silke larva - 蚕 (家蚕)  
-sim - 主义  
 simbol - 象徴 (シンボル)  
-sing - 星  
 sir plan - 陰謀  
 sirta - 忍び  
 siro - 零 (０)  
 sis - 姉妹 (shimai)  
 skandium - スカンジウム  
-so - 元素 (-素)  
+sofia - 知恵  
 sofa - ソファー  
-sofita - 知恵  
 soi - 大豆  
 soi milke - 豆乳  
 soi sos - 醤油  
@@ -1609,7 +1609,8 @@ supa - スープ (汁)
 supa camaca - さじ (テーブルスプーン)  
 supa mien - ラーメン  
 supra - 上  
-suta - 術  
+sute - 術  
+suxi - 寿司  
 
 ## T  
 
@@ -1747,7 +1748,7 @@ vespa - 蜂
 vespa nide - 蜂の巣  
 veste gorila - ニシゴリラ  
 • previde - 待ち受ける (見込む)  
-vide ja - 見物人  
+vider - 見物人  
 vide punte - 遠近法 (見通し, 観点)  
 vidua - 寡婦  
 vinkan - ワイナリー (酒造場)  
@@ -1759,6 +1760,7 @@ vise ma - 継母
 vise pa - 継父  
 vitamin - ビタミン  
 Vixnu - ヴィシュヌ  
+viziter - 客人  
 vo - その  
 vode - 約束  
 vol - 欲しい  
@@ -1794,6 +1796,7 @@ xifu - 先生
 xigu - 事故  
 xikaya - 不平 (不満)  
 xim - 心  
+xing - 星  
 xipi - 湿っぽい  
 xir - 詩  
 xite - 糞 (屎)  
@@ -1807,13 +1810,11 @@ xiu zi - 小文字
 xiva - シヴァ  
 xixa pipe - 水パイプ  
 xukre - ありがとう (どうも)  
-xula - 教育  
-xula guru - 先生 (教師)  
-xula ja - 学生  
-xulakan - 学校  
-xula xefe - 校長  
-xuli - 修理  
-xuli ja - 修理工  
+xule - 教育  
+xuler - 学生  
+xule guru - 先生 (教師)  
+xulekan - 学校  
+xule xefe - 校長  
 xuru - 開始  
 xux - しーっ  
 

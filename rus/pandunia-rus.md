@@ -90,14 +90,14 @@ arbuza - арбуз
 argente - серебро  
 argon - аргон  
 argu - аргумент (обосновани)  
-arka - лук (арка)  
-arka cati - свод  
-arka ja - лучник  
+arke - лук (арка)  
+arke cati - свод  
+arker - лучник  
 aroma - запах (аромат)  
 arsenium - мышьяк  
 arte fete - артефакт  
 arte fete intelige (AI) - искусственный интеллект  
-arteja - художник (артист)  
+artiste - художник (артист)  
 asan - поза  
 asar - эффект  
 asle - начало (причина)  
@@ -146,7 +146,7 @@ bagre - тигр
 bagre oselote - онцилла  
 bahai - море  
 bahai alga - морские водоросли  
-bahai amir ja - адмирал  
+bahai amirer - адмирал  
 bahai cau - морские травы  
 bahai di - морской  
 bahai hiyar - голотурия (морские огурц)  
@@ -167,6 +167,7 @@ balon pexe - иглобрюховые
 baluta - дуб  
 bambu - бамбук  
 bamia - окра (бамия)  
+ban - хлеб  
 banana - банан  
 banda - банда  
 bandera - флаг  
@@ -291,11 +292,11 @@ bufete - буфет
 buku - книга  
 bulbul - соловей  
 bum - взрыв  
-burge - крепость (форт)  
-buro - контора (бюро, офис)  
-buro di - казённый (формальный)  
-buro krati - бюрократия  
+bure - контора (бюро, офис)  
+bural - казённый (формальный)  
+burokratia - бюрократия  
 buro riti - этикет (протокол)  
+burge - крепость (форт)  
 bus - автобус  
 bus halte - автобусная остановка  
 busu - поцелуй  
@@ -312,6 +313,7 @@ caikan - чайная (чайхана)
 cai kupa - чайная чашка  
 cai pote - чайник  
 camaca - ложка  
+canekan - завод (фабрика)  
 cana - момент  
 canaike - моментальный (минутный)  
 canse - возможность (шанс)  
@@ -383,7 +385,7 @@ data culi - обработка данных
 data culi lojia - информатика  
 dau bano - табличка с названием улицы  
 dava - лечить  
-dava ja - врач (медик, лекарь, доктор)  
+davaer - врач (медик, лекарь, доктор)  
 dava sui - зелье  
 dava xe - лекарство  
 dava xekan - аптека  
@@ -393,8 +395,8 @@ dee - бог
 deokata - миф  
 deonagre grame - деванагари  
 deosofia - теософия  
-defa bano - щит  
-defa kaska - доспехи  
+defe bano - щит  
+defe kaska - доспехи  
 deha - деревня (село)  
 den - день (сутки)  
 • preden - вчера  
@@ -405,8 +407,8 @@ dike - направить (нацелить; цель)
 dike - целиться  
 dike pin - компас  
 din - религия (вера)  
-din ja - верующий  
-• andin ja - неверующий  
+diniste - верующий  
+• andiniste - неверующий  
 din xia - секта  
 dinamite - динамит  
 dinde - индюк  
@@ -478,13 +480,11 @@ es - быть
 esentia - бытие (существование)  
 esai - сочинение (эссе)  
 eskran - экран  
-eskulte ja - скульптор  
+eskulter - скульптор  
 esponje - губка  
 estan - олово  
 estibium - сурьма  
 estrontium - стронций  
-estude - этюд  
-estude ja - студент  
 etan - этан  
 etanol - этанол  
 etil - этил  
@@ -587,13 +587,13 @@ fero - железо
 fete - факт  
 feter - фактор  
 filme - фильм (кинокарти́а)  
-filsofi - философия  
+filsofe - философия  
 fine - тонкий (узкий)  
 fiorde - фьорд  
 firuze - бирюза  
 fite - растение  
 fitolojia - ботаника  
-fito yam sim ja - вегетарианец  
+fito yamiste - вегетарианец  
 fizike gi - аппаратное обеспечение  
 fizolojia - физика  
 flece - стрела (стрелка)  
@@ -664,8 +664,8 @@ garde tor - сторожевая башня
 garma mosim - лето  
 garma zona - тропик  
 gas - газ  
-gata a dante - откусить  
-gata glu bano - буфер обмена  
+gate a dante - откусить  
+gate glu bano - буфер обмена  
 gati - твёрдый  
 gau tehni - высокие технологии  
 gazel - газель  
@@ -688,8 +688,8 @@ gene tipe - генотип
 gene yo hevan - выращивать  
 geo nice jela - ублиет (подземная тюрьма)  
 germanium - германий  
-gida buku - путеводитель  
-gida ja - гид  
+gide buku - путеводитель  
+gider - гид  
 ging - параллельный  
 gingam - кумкват (кинкан)  
 gio - учить (преподавать)  
@@ -711,9 +711,9 @@ gomu - резина (каучук, резинка, ластик)
 gorila - горилла  
 goton - хлопок  
 gradu mute - развитие  
-grafi culi - обработка изображений  
-grafi kata - комикс  
-grafi so - пиксель  
+grafe culi - обработка изображений  
+grafeme - пиксель  
+grafe kata - комикс  
 • programe - программа  
 • programaje - программное обеспечение  
 granite - гранит  
@@ -752,7 +752,7 @@ halo - алло
 ham di - важный (значимый)  
 hamil - беременный  
 Han - хань  
-han guan ja - мандарин  
+han guaner - мандарин  
 hanu - рука  
 hanu xaka - рукав  
 hapu - подходящий (годный)  
@@ -792,14 +792,14 @@ hijabu - вуаль
 hin - без  
 Hindocin - Индокитай  
 hindium - индий  
+hinde raja - раджа  
+Hinde rivo - Инд  
 hinde sos - чатни  
 Hindestan - Индостан  
-hindi raja - раджа  
-Hindi rivo - Инд  
 hipohemopresia - пониженное кровяное давление  
 hisabu loge - счёт  
 hiyar - огурец  
-hobi ja - любитель  
+hobiiste - любитель  
 hogo - огонь  
 hogo seku - кремень  
 hogo tehni - фейерверк  
@@ -843,7 +843,8 @@ iode - йод
 IP adres - IP-адрес  
 iridium - иридий  
 ironi - ирония  
-islam din - ислам (мусульманство)  
+islamisme - ислам (мусульманство)  
+isme - идеология  
 ite - камень (камешек)  
 
 ## J  
@@ -890,7 +891,7 @@ jun jen - юнец
 jun moka - саженец  
 jus - сок  
 juste - точный  
-juste pau ja - снайпер  
+juste pauer - снайпер  
 
 ## K  
 
@@ -952,7 +953,7 @@ kapa kexa hin - лысый
 kape truke - ловушка  
 kar - работать  
 • konkar - сотрудничать (кооперировать)  
-karja - работник  
+karer - работник  
 kar lexi - глагол  
 karxe - работа  
 karate - каратэ  
@@ -1037,15 +1038,14 @@ kon forma - применяться (согласоваться)
 kon helen baxa - койне  
 kon kar - сотрудничать (кооперировать)  
 kon pasi - жалость (сердобольность)  
-kon sel ja - консультант (советник)  
 kon trati - контракт  
 kone - конус  
 konserte - концерт  
 kopernium - коперниций  
 kopi - копия  
-koral - коралл  
 kore - бегать (бежать)  
-kore ja - бегун  
+korer - бегун  
+koral - коралл  
 korne melon - кивано (рогатая дыня)  
 korona - корона  
 korte kata - новелла  
@@ -1064,11 +1064,11 @@ kreater - создатель
 kreatia - мироздание  
 kreative - созидательный (творческий)  
 kredi - доверять (понадеяться)  
-• ankredija - неверующий  
 • bekredibil - верный  
-• bekredibilta - верность  
-kredija - верующий  
-kredi karte - кредитная карточка  
+• bekredebilta - верность  
+kreder - верующий  
+• ankreder - неверующий  
+krede karte - кредитная карточка  
 krepe - блин  
 krikete - крикет  
 kriton - криптон  
@@ -1124,12 +1124,12 @@ letali - летальный
 letre - письмо  
 letus - салат-латук  
 leu - левый  
-lexi - слово (речь)  
-lexi asal - этимология  
-lexi fen - слог  
-lexi jama - словарь  
-lexi li - лексический  
-lexime - лексема  
+lexe - слово (речь)  
+lexal - лексический  
+lexasle - этимология  
+lexeme - лексема  
+lexe fen - слог  
+lexe jama - словарь  
 liama - лама  
 libele - стрекоза  
 lider - руководитель (лидер)  
@@ -1156,7 +1156,7 @@ lixu - белка
 loge - речь  
 loga - запись  
 loga buku - судовой журнал  
-logi safar ja - исследователь  
+lojosafarer - исследователь  
 loke - место  
 loke kode - координаты  
 long dura - долго  
@@ -1176,8 +1176,8 @@ luna - луна
 lunaden - понедельник  
 luna keke - лунный пирог  
 lutar - грабитель  
-Luter din - лютера́нство  
-Luter din ja - лютеранский  
+Luterisme - лютера́нство  
+Luteriste - лютеранский  
 lutesium - лютеций  
 
 ## M  
@@ -1210,6 +1210,7 @@ manioka fufu - тапиока
 manite - магнит  
 mantol - плащ (накидка)  
 mantra - мантра  
+mantu - пельмень  
 mar - раз  
 marce - марш  
 margai - маргай  
@@ -1298,8 +1299,8 @@ moka - дерево
 moka bano - доска (планка)  
 moka kane - палка  
 moka tana - бревно  
+molite - жёрнов  
 molkan - мельница  
-mol seku - жёрнов  
 moli - жасмин  
 moliden - молибден  
 moluske - моллюск  
@@ -1329,7 +1330,7 @@ Muxin - Юпитер
 muxinden - четверг  
 muxmula - мушмула  
 muxu - мышь  
-muzika - музика  
+muzike - музика  
 
 ## N  
 
@@ -1467,7 +1468,6 @@ pandemike pate - пандемия
 paneuropan - панъевропейский  
 panmime - пантомима  
 panda - панда  
-pang - хлеб  
 panir - творог  
 panka - крыло  
 pankreas - поджелудочная железа  
@@ -1476,6 +1476,8 @@ papagai - попугай
 papaya - папайя  
 par - равный  
 • repar - починить  
+repare - починка (ремонт)  
+reparer - ремонтник  
 par fase - уровень  
 par jen - ровня  
 parta - равенство (паритет)  
@@ -1492,18 +1494,17 @@ partia - партия
 pas loga - пароль  
 pasporte - паспорт  
 patogener - патоген  
+patike - пациент (больной)  
 patekan - больница (госпиталь)  
 patolojia - патология  
 patomise - инфекция (заразная болезнь)  
-pati jen - пациент (больной)  
 pau - стрелять  
 pau gi - пистолет  
 pauze - пауза  
 payace - клоун (паяц)  
-pede - пердение  
 pei kar - профессия  
 pei kar di - профессиона́льный  
-pei kar ja - профессионал (профи)  
+pei karer - профессионал (профи)  
 pei kar jiva - карьера  
 • propeler - пропеллер (винт)  
 pelpel - бабочка (мотылёк)  
@@ -1514,19 +1515,20 @@ pende kardon - чертополох поникший
 pende sor - висячий замок  
 pente - картина  
 pente broxa - кисть  
-pente ja - художник  
+penter - художник  
 pente tela - полотно  
 per nume - чётное число  
 peroxide - перекись (пероксид)  
 peroxide - перекись (пероксид)  
 pera - груша  
+perde - пердение  
 pesa - деньги  
 pesa diske - монета  
 petra - горная порода  
 petra nafte - нефть  
 pexe - рыба  
 pexe huke - крючок  
-pexe saide ja - рыбак (рыболов)  
+pexe saider - рыбак (рыболов)  
 piaze - лук  
 pike - кончик (остриё, пик)  
 pilau - плов  
@@ -1548,7 +1550,7 @@ piza - пицца
 plan - план  
 plaste - пластмасса  
 plastike - пластичный  
-plate geo sim ja - плоскоземелец  
+plate geiste - плоскоземелец  
 platin - платина  
 plumbe - свинец  
 plutonium - плутоний  
@@ -1590,7 +1592,7 @@ puding - пудинг
 pujakan - храм (место богослужения)  
 puja meza - алтарь  
 pul - полный  
-pul fito yam sim ja - веган  
+pul fito yamiste - веган  
 pul xipi - мариновать  
 pulmon tis - пневмония (воспаление лёгких)  
 puma - пума (кугуар)  
@@ -1613,7 +1615,7 @@ rakete lanser - ракетная установка
 rakun - енот  
 rang arka - радуга  
 rang arka salmon - микижа (камчатская сёмга)  
-rasa - раса  
+rase - раса  
 rasa medi - межрасовый  
 ration - рассуждение  
 ratolojia - логика  
@@ -1695,7 +1697,6 @@ san lojia - эпистемология
 san vol - интерес (любопытство)  
 san vol di - интересный  
 san vol ja - любознательный  
-sanakan - завод (фабрика)  
 sanduice - сандвич  
 sanduku - сундук  
 sanga - орден  
@@ -1710,6 +1711,7 @@ se - себя (-ся)
 semen - друг друга  
 seku - камень (камешек)  
 sel - совет  
+konseler - консультант (советник)  
 selenium - селен  
 selge - мангольд  
 selu lojia - цитология  
@@ -1743,22 +1745,19 @@ side loka - сиденье (седло)
 sifa loga - прилагательное  
 sigar - сигарета (папироса, сигарка)  
 resikle - рециркулировать  
-sikle ja - велосипедист  
+sikliste - велосипедист  
 silike - кремний  
 silke - шёлк  
 silke larva - шелкопряд  
-sim - идеология  
 simbol - символ  
 sine plate - нагрудник  
-sing - звезда  
 sir plan - заговор (сговор)  
 siro - нуль (зеро)  
 sis - сестра (sestra)  
 skandium - скандий  
 Slave - славянский  
-so - элемент  
+sofia - мудрость  
 sofa - софа (диван, канапе)  
-sofita - мудрость  
 soi - соя  
 soi milke - соевое молоко  
 soi sos - соевый соус  
@@ -1781,6 +1780,8 @@ sosis - колбаса (сосиска)
 sporte - спорт  
 statia - станция  
 statike grafe - кадр  
+stude - этюд  
+studer - студент  
 sual - вопрос  
 sual dokumen - анкета  
 suga - быстрый  
@@ -1805,7 +1806,8 @@ supa - суп
 supa camaca - суповая ложка  
 supa mien - рамэн  
 susan - лилия  
-suta - искусство  
+sute - искусство  
+suxi - суши  
 
 ## T  
 
@@ -1963,7 +1965,7 @@ vende - продать
 vende xope - торговля  
 venjou oranje - мандарин уншиу  
 ventur - авантюра  
-ventur ja - авантюрист  
+venturer - авантюрист  
 ver - верный  
 veranda - балкон  
 vermute - вермут  
@@ -1975,7 +1977,7 @@ veste gorila - западная горилла
 veze di - тяжёлый  
 vide - видеть  
 • exvidebil - очевидный  
-vide ja - зрительница  
+vider - зрительница  
 vide punte - перспектива (точки зрения)  
 vidua - вдова  
 vinkan - винном заводе  
@@ -2030,6 +2032,7 @@ xia islam din - шиизм
 xikaya - жалоба  
 xilitol - ксилит  
 xilos - ксилоза  
+xing - звезда  
 xirope - сироп  
 xite - говно (дерьмо)  
 xiti - потерять (утратить)  
@@ -2041,17 +2044,15 @@ xiva - Шива
 xix kababu - шиш-кебаб  
 xix karne - шашлык  
 xixa pipe - кальян  
-xofer ja - шофёр  
-xopi - покупка (шоппинг)  
+xofer - шофёр  
+xope - покупка (шоппинг)  
 xukre - спасибо  
 xukria - благодарность  
-xula - образование  
-xula guru - учитель  
-xulakan - школа   
-xula xe - урок (учение)  
-xula xefe - директор (ректор)  
-xuli - починка (ремонт)  
-xuli ja - ремонтник  
+xule - образование  
+xulaje - урок (учение)  
+xule guru - учитель  
+xulekan - школа   
+xule xefe - директор (ректор)  
 xuru - начало  
 xux di - тихий  
 
