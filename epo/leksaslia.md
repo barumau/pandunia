@@ -294,7 +294,7 @@
 **dipe** ** ← mandarena:低 (dī) + vjetnama:thấp + kmera:ទាប (diəp) + turka:dip + angla:deep  
 **diske** *disko* ← angla:turka:disk, franca:disque, hispana:portugala:disco, rusa:диск (disk), hindia:डिस्क (ḍisk), bengala:ডিস্ক (ḑisk), japana:ディスク (disuku), korea:디스크 (diseukeu)  
 **disprosium** *disprozio* ← angla:dysprosium, franca:dysprosium, hispana:disprosio, portugala:disprósio, rusa:диспрозий, mandarena:镝 (dī), japana:ジスプロシウム, korea:디스프로슘, vjetnama:đysprosi, hindia:डिस्प्रोसियम, bengala:ডিসপ্রোসিয়াম, malaja:disprosium, svahila:disprosi, araba: ديسبروسيوم  
-**dite** ** ← angla:dictate, franca:dicter, hispana:dictar, portugala:ditar + deu:malaja:diktator, rusa:диктатор (diktator), turka:diktatör, araba:(diktatūr)  
+**dite** *diri (paroli)* ← franca:dire, angla:diction, hispana:dicción, portugala:dicção, rusa:дикция (diktsiya), malaja:diksi + turka:diktatör, araba:(diktatūr)  
 **doh** *filino* ← deu:Tochter, angla:daughter, rusa:дочь (dočʹ), persa: دختر (doxtar), hindia:दुख़्तर (duxtar), teluga:దుహిత (duhita)  
 **dokumen** *dokumento* ← angla:franca:document, hispana:portugala:documento, rusa:документ (dokument), japana:ドキュメント (dokyumento), malaja:dokumen, turka:doküman  
 **dolfin** *delfeno* ← greka:δελφίνια (delphínia), angla:dolphin, hispana:delfín, portugala:delfim, rusa:дельфин (del’fin), araba:دلفين (dulfin), japana:ドルフィン (dorufin), bengala:ডলফিন (ḍalaphina), hindia:डॉल्फ़िन (ḍŏlfin)  
@@ -327,7 +327,6 @@
 **eglisa** *preĝejo* ← angla:ecclesia-, franca:église, hispana:iglesia, portugala:igreja, hindia:गिरजा (girjā), malaja:gereja, araba:(kanisā), svahila:kanisa, turka:kilise  
 **einsteinium** *ejnŝtejnio* ← angla:einsteinium, franca:einsteinium, hispana:einsteinium, portugala:einstânio, rusa:эйнштейний, mandarena:锿 (āi), japana:アインスタイニウム, korea:아인시타이늄, vjetnama:ensteni, hindia:आइन्स्टाइनियम, bengala:আইনস্টাইনিয়াম, malaja:einsteinium, svahila:einsteni, araba: انيشتنيوم  
 **ekia** *naturo* ← angla:hispana:portugala:eco-, franca:éco-, deu:öko-, rusa:эко-, turka:malaja:eko-  
-**ekolojia** ** ← deu:Ökologie, angla:ecology, franca:écologie, rusa:экология (ekologiya), malaja:ekologi, turka:ekoloji, svahila:ikolojia  
 **elastike** ** ← angla:elastic, franca:élastique, hispana:portugala:elástico, rusa:эластичный (elastíčnyj), turka:malaja:elastik, japana:エラスティック (erasutikku)  
 **eletre** *elektro* ← portugala:eletricidade, itala:elettricità, angla:electricity, rusa:электричество (električestvo), franca:électricité, hispana:electricidad, turka:elektrik  
 **elfe** ** ← angla:elf, hispana:portugala:elfo, franca:elfe, rusa:эльф (el’f), japana:エルフ (erufu), korea:엘프 (elpeu)  
@@ -662,7 +661,6 @@
 **jupe** *jupo* ← franca:jupe, araba:(jūb), haŭsa:jip, rusa:юбка (yubka)  
 **jus** *suko* ← angla:juice, svahila:jusi, tamila:ஜூஸ் (jūs), japana:ジュース (jūsu), korea:주스 (juseu)  
 **juste** *ĝuste (precize, ekzakte)* ← angla:just, franca:juste, hispana:justo, itala:giusto, japana:ジャスト (jasto)  
-**juxa** ** ← mandarena:注射 (zhùshè), korea:주사 (jusa), japana:注射 (chusha)  
 **ka** *ol (kiel)* ← hispana:portugala:franca:que, svahila:kumliko, suo:kuin, lao:ກວ່າ (kuā), filipina:kaysa  
 **kababu** ** ← araba:persa:urdua:  كباب (kabāb), turka:malaja:angla:hispana:kebab, rusa:кебаб (kebab), hindia:कबाब (kabāb), bengala:কাবাব (kabab), svahila:kababu  
 **kabile** *tribo* ← araba: قَبِيلَة‎ (qabīla), persa: قبیله‎ (qabile), hindia:क़बीला (qābilā), turka:kabile, svahila:haŭsa:kabila  
@@ -896,9 +894,7 @@
 **lize** ** ← angla:deu:franca:-lyse, hispana:malaja:-lisis, portugala:-lise, rusa:-лиз (-liz), turka:-liz  
 **loba** *rafaneto* ← mandarena:萝卜 (luóbo), kantona:蘿蔔 (lobaak), malaja:lobak  
 **loga** *registraĵo* ← angla:log + mandarena:录 (lù), kantona:錄 (luk6), japana:録 (roku), korea:록 (rok), vjetnama:lục  
-**loge** *paroli* ← greka:λόγος (logos), angla:franca:-logue, hispana:portugala:-logo, rusa:-лог (-log), persa:(loğat), araba:(luğa), hindia:लुग़त (luġat), svahila:lugha, turka:lügat, malaja:logat  
-**logika** *logiko* ← angla:logic, hispana:portugala:lógica, rusa:логика (logika), mandarena:逻辑 (luóji)  
-**loje** *scienco* ← angla:-ology, hispana:-ología, franca:-ologie, rusa:ология (-ologiya), turka:-loji  
+**loge** ** ← greka:λόγος (logos), angla:franca:-logue, hispana:portugala:-logo, rusa:-лог (-log) + araba: لُغَة‎ (luğa), persa: لغت‎ (loğat), hindia:लुग़त (luġat), svahila:lugha, turka:lügat, malaja:logat  
 **loke** *loko* ← angla:location, hispana:lugar, franca:localisation, + deu:turka:lokal, polona:lokalny  
 **lona** ** ← mandarena:论 (lùn), kantona:論 (leo6), korea:론 (ron), japana:論 (ron), vjetnama:luận  
 **long** *longa* ← angla:franca:long, deu:lang, portugala:longo  
@@ -1298,7 +1294,6 @@
 **rote** *rado* ← deu:Rad, franca:roue, esp:rueda, portugala:malaja:roda, angla:rotate, turka:rotasyon  
 **rubi bau seku** *rubeno* ← angla:ruby, portugala:rubi, hispana:rubí, franca:rubis, deu:Rubin, rusa:рубин (rubin), japana:ルビー (rubī)  
 **rubium** *rubidio* ← angla:rubidium, franca:rubidium, hispana:rubidio, portugala:rubídio, rusa:рубидий, mandarena:铷 (rú), japana:ルビジウム, korea:루비듐, vjetnama:rubiđi, hindia:रुबिडियम, bengala:রুবিডিয়াম, malaja:rubidium, svahila:rubidi, araba: روبيديوم  
-**ruhu lojia** *psikologio* ← turka:ruh bilimi, hindia:मनोविज्ञान (manovigyān), bengala:মনোবিজ্ঞান (mônobiggan), malaja:ilmu jiwa, araba:(ʿilm an-nafs), deu:Seelenkunde, angla:psychology, hispana:psicológia  
 **ruhu** *animo (psiko)* ← araba: رُوح‎ (rūḥ), persa: روح‎ (ruh), hindia:रूह (rūh), bengala:রূহ (ruh), malaja:ruh, svahila:roho, haŭsa:ruhu, som:ruux + rusa:дух (duh)  
 **ruke** *dorso* ← deu:Rücken + deu:angla:rucksack, rusa:рюкзак (rjukzak), japana: リュックサック (ryukkusakku), korea:륙색 (ryuksaek)  
 **rul koli** ** ← portugala:couve, hindia:गोभी (gobhī), bengala:কপি (kôpi), malaja:kubis  
@@ -1564,7 +1559,6 @@
 **vinil** ** ← angla:vinyl, hispana:vinilo, portugala:vinil, franca:vinyle, rusa:винил (vinil), japana:ビニル (viniru)  
 **violeta** ** ← angla:portugala:franca:violet, hispana:violeta, deu:violett, rusa:фиолетовый (fioletovyy), japana:バイオレット (baioretto), korea:보라 (bola)  
 **virge** *virga (virgulo)* ← angla:virgin, franca:vierge, hispana:virgen, portugala:virgem  
-**virolojia** ** ← polona:wirusologia, rusa:вирусология (virusologiya)  
 **virus** ** ← angla:hispana:franca:malaja:virus, portugala:vírus, rusa:вирус (virus), turka:virüs, hindia:वाइरस (vāirasa), japana:ウイルス (uirusu)  
 **vise** *vic-* ← angla:franca:hispana:portugala:vice-, rusa:вице- (vitse-), deu:vize-  
 **vita** ** ← franca:vis, itala:vite, rusa:винт (vint), turka:vida  

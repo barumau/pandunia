@@ -20,7 +20,7 @@ adilta - 正义
 adres - 地址  
 Afganestan - 阿富汗  
 agile - 灵活的  
-agrobiolojia - 土壤生物学  
+agrobiologia - 土壤生物学  
 agronomia - 农学  
 agri deha - 农村  
 air - 空气  
@@ -111,7 +111,7 @@ atom kerne - 原子核
 auro - 金  
 Austronesi - 南岛  
 autatike - 自动的  
-auto loga - 独白  
+autologe - 独白  
 ave - 燕麦  
 axe - 轴线  
 axa hin - 没有希望的  
@@ -183,7 +183,7 @@ bau di - 宝贵
 bauite - 宝石  
 • trabaxe - 翻译  
 baxe - 语言  
-baxe lojia - 语言学  
+baxe logia - 语言学  
 baze - 底部  
 baze bol - 棒球  
 bazisme - 原理  
@@ -221,8 +221,8 @@ berklium - 锫
 bete - 甜菜頭  
 betula - 桦树  
 bier - 生物  
-biofizolojia - 生理学  
-biolojia - 生物学  
+biofizologia - 生理学  
+biologia - 生物学  
 biosistem - 生物群系  
 biotoxe - 毒素  
 bibre - 海狸 (河狸)  
@@ -349,12 +349,12 @@ dare tube - 漏斗
 data - 数据  
 data banke - 数据库  
 data culi - 数据处理  
-data culi lojia - 计算机科学  
+data culi logia - 计算机科学  
 data table - 表格  
 dava sui - 药水  
 dava xe - 药物  
 dava xekan - 药店  
-dava xe lojia - 药理学  
+dava xe logia - 药理学  
 de - 从  
 dee - 神  
 deokata - 神话  
@@ -366,7 +366,7 @@ dele - 迟延
 demokratia - 民主主义  
 den - 日 (天)  
 • preden - 昨日  
-den loge - 日记  
+den logu - 日记  
 des - 十  
 dexhanuka - 右利手 (右撇子)  
 dia - 白天  
@@ -386,9 +386,10 @@ dipe - 低
 dipe moka - 灌木  
 diske - 圆盘  
 disprosium - 镝  
-• ditater - 独裁者  
-• ditateria - 独裁  
-• dition - 吐字  
+dite - 说话 (讲)  
+ditater - 独裁者  
+ditateria - 独裁  
+dition - 吐字  
 doh - 女儿  
 doh doh - 外孙女  
 dokumen - 文件  
@@ -441,7 +442,7 @@ estrontium - 锶
 etan - 乙烷  
 etanol - 乙醇  
 etil - 乙基  
-eu angil - 福音  
+euangil - 福音  
 europium - 铕  
 europa baluta - 夏櫟  
 ezmurude - 绿宝石 (祖母绿)  
@@ -471,7 +472,6 @@ fa kino - 动
 fa lai - 带来  
 fa lanse grafi - 投射  
 fa linke - 连接  
-fa loga - 说话 (讲)  
 fa loka - 放置  
 fa mede - 帮助  
 fa memo - 记得 (回忆)  
@@ -523,10 +523,10 @@ fine - 窄 (薄, 稀疏)
 fiorde - 峡湾  
 firuze - 绿松石  
 fite - 植物  
-fitolojia - 植物学  
+fitologia - 植物学  
 fito yamiste - 素食主义者  
 fizike gi - 硬件  
-fizolojia - 物理学  
+fizologia - 物理学  
 flece - 箭  
 flur - 氟  
 fluride - 氟化物  
@@ -612,7 +612,7 @@ gem suta - 击剑
 gene di - 生的  
 gene logu - 系谱学  
 gene tipe - 基因型  
-gensolojia - 性别研究  
+gensologia - 性别研究  
 geo forme - 地势  
 germanium - 锗  
 gide - 导游  
@@ -706,7 +706,7 @@ hero - 英雄 (勇士)
 Hese - 黑森  
 hevan - 动物  
 hevan bagi - 动物园  
-hevan lojia - 动物学  
+hevan logia - 动物学  
 hidre - 氢  
 hidrate - 水合物  
 hidre peroxide - 过氧化氢  
@@ -802,7 +802,7 @@ jui di - 谨慎的
 jui note - 警告  
 jul - 焦耳 (J)  
 jumla - 句子  
-jumla lojia - 句法学  
+jumla logia - 句法学  
 jun - 年轻  
 jun bei - 后辈  
 jun jen - 年轻人  
@@ -948,7 +948,7 @@ korne melon - 刺角瓜
 korte kata - 短篇小说  
 korte krokodil - 短吻鳄  
 kosme - 宇宙  
-kosmobiolojia - 太空生物学  
+kosmobiologia - 太空生物学  
 kosmike - 宇宙的  
 kosmonave - 太空船  
 kosmonaver - 太空人  
@@ -1153,7 +1153,7 @@ mien - 面条
 • inmigre - 移民 (移居)  
 • inmigrer - 移民者  
 mikrobie - 微生物   
-mikrobiolojia - 微生物学  
+mikrobiologia - 微生物学  
 mikroskope - 显微镜  
 milke kardon - 水飞蓟  
 mime - 模拟  (模仿)  
@@ -1287,8 +1287,8 @@ nuka - 颈
 nume - 数  
 numerike - 数字的  
 numograme - 数字  
-numolojer - 数学家  
-numolojia - 数学  
+numologer - 数学家  
+numologia - 数学  
 o - 或  
 
 ## O  
@@ -1324,7 +1324,7 @@ pace - 和平
 pacisme - 和平主义  
 paciste - 和平主义者  
 paci - 鸟 (雀)  
-paci lojia - 鸟类学  
+paci logia - 鸟类学  
 pagri - 包头  
 pai - 馅饼  
 paladium - 钯  
@@ -1354,7 +1354,7 @@ pasta petra - 岩漿
 patogener - 病原体  
 patike - 患者 (病患)  
 patekan - 医院  
-patolojia - 病理学  
+patologia - 病理学  
 patomise - 传染  
 pau gi - 手枪  
 payace - 小丑  
@@ -1395,7 +1395,7 @@ piram - 金字塔
 pisea - 云杉  
 piza - 比萨饼  
 • aplike - 运用  
-plate geo kaskalogi - 板块构造论  
+plate geo kaskelogia - 板块构造论  
 plate stan - 平原  
 platin - 铂  
 plumbe - 铅  
@@ -1451,7 +1451,7 @@ rang arka salmon - 虹鱒
 rang mate - 染料  
 rase - 种族  
 ration - 推论  
-ratolojia - 论理 (逻辑)  
+ratologia - 论理 (逻辑)  
 ratibu - 常规 (次序)  
 real - 现实的  
 realisme - 现实主义  
@@ -1519,7 +1519,7 @@ sama hal - 天气
 sama kinar - 地平线  
 samarium - 钐  
 san - 知道 (晓得)  
-san lojia - 认识论 (知识论)  
+san logia - 认识论 (知识论)  
 san vol - 趣  
 san vol di - 有趣  
 san vol ja - 好奇  
@@ -1535,8 +1535,8 @@ semen - 彼此
 seku - 石 (岩)  
 konseler - 顾问  
 selenium - 硒  
-selu lojia - 细胞学  
-semolojia - 语义学  
+selu logia - 细胞学  
+semologia - 语义学  
 seme - 种  
 seme dana - 种子  
 seme di - 种子的  
@@ -1554,7 +1554,7 @@ seria - 系列
 serser - 链 (链条)  
 serami - 陶瓷  
 sexu - 性别  
-sexulojia - 性学  
+sexulogia - 性学  
 si - 如果 (要是)  
 side loka - 座部 (马鞍)  
 sifa loga - 形容词  
@@ -1640,7 +1640,7 @@ tegule - 砖 (瓦)
 tege pote - 尖盖锅  
 tehne - 技术  
 tehnetium - 锝  
-tehnolojia - 工艺学  
+tehnologia - 工艺学  
 tela - 布料  
 tela gi - 织机  
 tele fon - 电话机  
@@ -1678,7 +1678,7 @@ tomate - 西红柿
 topografia - 地形  
 tore - 塔 (塔楼)  
 torium - 钍  
-toxolojia - 毒物学  
+toxologia - 毒物学  
 tragodia - 悲剧  
 transe vide di - 透明的  
 trate - 拖  

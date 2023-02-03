@@ -294,7 +294,7 @@
 **dipe** *bas* ← zho:低 (dī) + vie:thấp + khm:ទាប (diəp) + tur:dip + eng:deep  
 **diske** *disque* ← eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin:डिस्क (ḍisk), ben:ডিস্ক (ḑisk), jpn:ディスク (disuku), kor:디스크 (diseukeu)  
 **disprosium** *dysprosium* ← eng:dysprosium, fra:dysprosium, spa:disprosio, por:disprósio, rus:диспрозий, zho:镝 (dī), jpn:ジスプロシウム, kor:디스프로슘, vie:đysprosi, hin:डिस्प्रोसियम, ben:ডিসপ্রোসিয়াম, may:disprosium, swa:disprosi, ara: ديسبروسيوم  
-**dite** *dicter* ← eng:dictate, fra:dicter, spa:dictar, por:ditar + deu:may:diktator, rus:диктатор (diktator), tur:diktatör, ara:(diktatūr)  
+**dite** *dire (parler)* ← fra:dire, eng:diction, spa:dicción, por:dicção, rus:дикция (diktsiya), may:diksi + tur:diktatör, ara:(diktatūr)  
 **doh** *fille* ← deu:Tochter, eng:daughter, rus:дочь (dočʹ), fas: دختر (doxtar), hin:दुख़्तर (duxtar), tel:దుహిత (duhita)  
 **dokumen** *document (dossier)* ← eng:fra:document, spa:por:documento, rus:документ (dokument), jpn:ドキュメント (dokyumento), may:dokumen, tur:doküman  
 **dolfin** *dauphin* ← ell:δελφίνια (delphínia), eng:dolphin, spa:delfín, por:delfim, rus:дельфин (del’fin), ara:دلفين (dulfin), jpn:ドルフィン (dorufin), ben:ডলফিন (ḍalaphina), hin:डॉल्फ़िन (ḍŏlfin)  
@@ -327,7 +327,6 @@
 **eglisa** ** ← eng:ecclesia-, fra:église, spa:iglesia, por:igreja, hin:गिरजा (girjā), may:gereja, ara:(kanisā), swa:kanisa, tur:kilise  
 **einsteinium** *einsteinium* ← eng:einsteinium, fra:einsteinium, spa:einsteinium, por:einstânio, rus:эйнштейний, zho:锿 (āi), jpn:アインスタイニウム, kor:아인시타이늄, vie:ensteni, hin:आइन्स्टाइनियम, ben:আইনস্টাইনিয়াম, may:einsteinium, swa:einsteni, ara: انيشتنيوم  
 **ekia** ** ← eng:spa:por:eco-, fra:éco-, deu:öko-, rus:эко-, tur:may:eko-  
-**ekolojia** ** ← deu:Ökologie, eng:ecology, fra:écologie, rus:экология (ekologiya), may:ekologi, tur:ekoloji, swa:ikolojia  
 **elastike** *élastique* ← eng:elastic, fra:élastique, spa:por:elástico, rus:эластичный (elastíčnyj), tur:may:elastik, jpn:エラスティック (erasutikku)  
 **eletre** *électricité* ← por:eletricidade, ita:elettricità, eng:electricity, rus:электричество (električestvo), fra:électricité, spa:electricidad, tur:elektrik  
 **elfe** *elfe* ← eng:elf, spa:por:elfo, fra:elfe, rus:эльф (el’f), jpn:エルフ (erufu), kor:엘프 (elpeu)  
@@ -662,7 +661,6 @@
 **jupe** ** ← fra:jupe, ara:(jūb), hau:jip, rus:юбка (yubka)  
 **jus** *jus* ← eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)  
 **juste** *justo (exact, précis)* ← eng:just, fra:juste, spa:justo, ita:giusto, jpn:ジャスト (jasto)  
-**juxa** ** ← zho:注射 (zhùshè), kor:주사 (jusa), jpn:注射 (chusha)  
 **ka** *que (comme)* ← spa:por:fra:que, swa:kumliko, suo:kuin, lao:ກວ່າ (kuā), tgl:kaysa  
 **kababu** ** ← ara:fas:urd:  كباب (kabāb), tur:may:eng:spa:kebab, rus:кебаб (kebab), hin:कबाब (kabāb), ben:কাবাব (kabab), swa:kababu  
 **kabile** *tribu* ← ara: قَبِيلَة‎ (qabīla), fas: قبیله‎ (qabile), hin:क़बीला (qābilā), tur:kabile, swa:hau:kabila  
@@ -896,9 +894,7 @@
 **lize** ** ← eng:deu:fra:-lyse, spa:may:-lisis, por:-lise, rus:-лиз (-liz), tur:-liz  
 **loba** ** ← zho:萝卜 (luóbo), yue:蘿蔔 (lobaak), may:lobak  
 **loga** *enregistrement* ← eng:log + zho:录 (lù), yue:錄 (luk6), jpn:録 (roku), kor:록 (rok), vie:lục  
-**loge** *parole* ← ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log), fas:(loğat), ara:(luğa), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat  
-**logika** ** ← eng:logic, spa:por:lógica, rus:логика (logika), zho:逻辑 (luóji)  
-**loje** ** ← eng:-ology, spa:-ología, fra:-ologie, rus:ология (-ologiya), tur:-loji  
+**loge** ** ← ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log) + ara: لُغَة‎ (luğa), fas: لغت‎ (loğat), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat  
 **loke** *lieu* ← eng:location, spa:lugar, fra:localisation, + deu:tur:lokal, pol:lokalny  
 **lona** ** ← zho:论 (lùn), yue:論 (leo6), kor:론 (ron), jpn:論 (ron), vie:luận  
 **long** *long* ← eng:fra:long, deu:lang, por:longo  
@@ -1298,7 +1294,6 @@
 **rote** *roue* ← deu:Rad, fra:roue, esp:rueda, por:may:roda, eng:rotate, tur:rotasyon  
 **rubi bau seku** *rubis* ← eng:ruby, por:rubi, spa:rubí, fra:rubis, deu:Rubin, rus:рубин (rubin), jpn:ルビー (rubī)  
 **rubium** *rubidium* ← eng:rubidium, fra:rubidium, spa:rubidio, por:rubídio, rus:рубидий, zho:铷 (rú), jpn:ルビジウム, kor:루비듐, vie:rubiđi, hin:रुबिडियम, ben:রুবিডিয়াম, may:rubidium, swa:rubidi, ara: روبيديوم  
-**ruhu lojia** *psychologie* ← tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia  
 **ruhu** *psyché* ← ara: رُوح‎ (rūḥ), fas: روح‎ (ruh), hin:रूह (rūh), ben:রূহ (ruh), may:ruh, swa:roho, hau:ruhu, som:ruux + rus:дух (duh)  
 **ruke** ** ← deu:Rücken + deu:eng:rucksack, rus:рюкзак (rjukzak), jpn: リュックサック (ryukkusakku), kor:륙색 (ryuksaek)  
 **rul koli** ** ← por:couve, hin:गोभी (gobhī), ben:কপি (kôpi), may:kubis  
@@ -1564,7 +1559,6 @@
 **vinil** ** ← eng:vinyl, spa:vinilo, por:vinil, fra:vinyle, rus:винил (vinil), jpn:ビニル (viniru)  
 **violeta** ** ← eng:por:fra:violet, spa:violeta, deu:violett, rus:фиолетовый (fioletovyy), jpn:バイオレット (baioretto), kor:보라 (bola)  
 **virge** *vierge* ← eng:virgin, fra:vierge, spa:virgen, por:virgem  
-**virolojia** ** ← pol:wirusologia, rus:вирусология (virusologiya)  
 **virus** *virus* ← eng:spa:fra:may:virus, por:vírus, rus:вирус (virus), tur:virüs, hin:वाइरस (vāirasa), jpn:ウイルス (uirusu)  
 **vise** ** ← eng:fra:spa:por:vice-, rus:вице- (vitse-), deu:vize-  
 **vita** ** ← fra:vis, ita:vite, rus:винт (vint), tur:vida  

@@ -80,7 +80,7 @@ Afganestan - Afganistan
 Afrika - Afrikka  
 agile - ketterä  
 agre - viljellä  
-agrobiolojia - maatalousbiologia  
+agrobiologia - maatalousbiologia  
 agrer - maanviljelijä  
 agrokulte - viljely  
 agronomia - agronomia (maatalous)  
@@ -121,7 +121,7 @@ algometria - kivunmittaus (algometria)
 alga - levä  
 alga fungu - jäkälä  
 alga jangal - leväkasvusto  
-algalojia - levätiede  
+algalogia - levätiede  
 alkan - alkaani  
 alken - alkeeni  
 alkil - alkyyli  
@@ -275,8 +275,8 @@ auter - itsenäinen tekijä (auktori)
 autokratia - yksinvaltius (autokratia, monarkia)  
 autonomia - itsehallinto (autonomia)  
 autonomike - autonominen  
-auto loga - yksinpuhelu (monologi)  
-auto move - itseliikkuva  
+autologe - yksinpuhelu (monologi)  
+automove - itseliikkuva  
 avakate - avokado  
 avar - vaurio (vahinko, haveri)  
 avarike - vaurioitunut  
@@ -409,7 +409,7 @@ bauite - jalokivi
 baxe - puhua (kieli, kommunikaatio)  
 baxe kanun - kielioppi  
 baxe kanun di - kieliopillinen  
-baxe lojia - kielitiede (lingvistiikka)  
+baxe logia - kielitiede (lingvistiikka)  
 baya - lahti  
 baze - perusta (perustus)  
 baze bol - baseball (amerikkalainen pesäpallo)  
@@ -525,8 +525,8 @@ beton - betoni
 betula - koivu  
 bie - elävä (orgaaninen)  
 bier - orgaaninen elämä  
-biofizolojia - fysiologia  
-biolojia - biologia  
+biofizologia - fysiologia  
+biologia - biologia  
 biosistem - biomi  
 biotoxe - toksiini  
 Biblia - Raamattu  
@@ -810,7 +810,7 @@ darviniste - darwinisti
 data - data (numeerinen tieto)  
 data banke - tietokanta  
 data culi - tietojenkäsittely  
-data culi lojia - tietojenkäsittelytiede  
+data culi logia - tietojenkäsittelytiede  
 data fen lize - data-analyysi  
 data table - taulukko  
 dau - tie  
@@ -820,11 +820,11 @@ dauiste - taolainen
 dau yunte - liittymä  
 dava - hoitaa (lääkitä)  
 davaer - lääkäri (tohtori)  
-dava lojia - lääketiede  
+dava logia - lääketiede  
 dava sui - lääkejuoma  
 dava xe - lääke  
 dava xekan - apteekki  
-dava xe lojia - farmakologia  
+dava xe logia - farmakologia  
 de - luota (lähtien, -sta, -lta)  
 de - määritetyn määritteeseen liittävä partikkeli  
 dee - jumala  
@@ -834,7 +834,7 @@ deisme - teismi (jumalusko)
 deiste - teisti  
 deokata - jumaltaru (myytti)  
 deokratia - teokratia  
-deojojia - teologia  
+deologia - teologia  
 deonagre grame - devanagari  
 deosofia - teosofia  
 defe - puolustus  
@@ -854,7 +854,7 @@ deme polita - väenpaljous
 demon - demoni (piru)  
 den - päivä (vuorokausi)  
 • preden - eilen  
-den loge - päiväkirja  
+den logu - päiväkirja  
 des - kymmenen (10)  
 des kilo - sata tuhatta  
 desen - piirustus  
@@ -890,13 +890,14 @@ diorite - dioriitti
 dipe - matala  
 diske - kiekko (levy)  
 disprosium - dysprosium  
-dite - sanella  
+dite - sanoa (puhua)  
 • kontredite - sanoa vastaan  
 • predite - ennustaa (kertoa edeltä)  
 • predition - ennustus  
-• ditater - diktaattori  
-• ditateria - diktatuuri  
-• dition - sanoittaminen (diktio)  
+ditate - sanella  
+ditater - diktaattori  
+ditateria - diktatuuri  
+dition - sanonta (diktio)  
 Divehi - Malediivit  
 doh - tytär  
 doh doh - tyttärentytär  
@@ -998,7 +999,7 @@ eglisa - kirkko
 einsteinium - einsteinium  
 Eire - Irlanti  
 ekia - luonto  
-ekolojia - ekologia (ympäristötiede)  
+ekologia - ekologia (ympäristötiede)  
 ekonative - villi (villinä syntynyt)  
 Ekuador - Ecuador  
 elastike - joustava (kimmoisa, elastinen)  
@@ -1046,11 +1047,12 @@ etanol - etanoli
 etil - etyyli  
 Etiopia - Etiopia  
 eu - hyvä (eettisesti hyvä)  
-eu angil - evankeliumi(hyvä sana)  
-eu deu sim - euteismi (usko jumalan hyvyyteen)  
-eu gene sim - eugeniikka  
+euangil - evankeliumi(hyvä sana)  
+eudeisme - euteismi (usko jumalan hyvyyteen)  
+eugenisme - eugeniikka  
 eu loga - ylistys  
-eutopi - utopia  
+euloga - ylistää (puhua hyvää, kehua)  
+eutopia - utopia  
 Eurasia - Euraasia  
 eureka - löytää (keksiä)  
 euro - euro (€)  
@@ -1110,7 +1112,6 @@ fa englix kitaba - englannistaa
 fa eskale - kiivetä  
 fa eskulte - veistää kuvaa  
 fa estude - opiskella (tutkia)  
-fa eu loga - ylistää (puhua hyvää, kehua)  
 fa fantazi - kuvitella  
 fa fei - lentää  
 fa fen - jakaa (paloitella)  
@@ -1150,11 +1151,9 @@ fa ici - tahtoa
 fa in - panna sisään  
 fa in klus - sisällyttää (sulkea sisäänsä)  
 fa jaga - herättää  
-fa jama - koota (kerätä)  
 fa javabu - vastata  
 fa jela - vangita  
 fa jong - keskittää  
-fa juxa - ruiskuttaa  
 fa kai - aukaista (avata)  
 fa kaka - ulostaa (kakata)  
 fa kanal - kanavoida  
@@ -1185,7 +1184,6 @@ fa lifafa - kääriä (panna kääröön)
 fa liga - liittää  
 fa lika - vahvistaa (voimistaa)  
 fa linke - yhdistää  
-fa loga - sanoa (puhua)  
 fa loka - panna (asettaa, sijoittaa)  
 fa lona - keskustelu (debatti)  
 fa long - pidentää  
@@ -1405,7 +1403,7 @@ fine - hieno (hienojakoinen)
 fiorde - vuono  
 firuze - turkoosi  
 fite - kasvi  
-fitolojia - kasvitiede  
+fitologia - kasvitiede  
 fito yamiste - kasvissyöjä  
 fixe - kiinnittää  
 • afixe - liite  
@@ -1414,8 +1412,8 @@ fixe - kiinnittää
 fize - fyysinen luonto  
 fizike - fyysinen  
 fizologer - fyysikko  
-fizolojia - fysiikka  
-• metafizolojia - metafysiikka  
+fizologia - fysiikka  
+• metafizologia - metafysiikka  
 flam - liekki  
 flece - nuoli  
 flecer - nuolentekijä  
@@ -1436,7 +1434,7 @@ fon - puhelin
 fone - äänne (fooni)  
 foneme - äänne (foneemi)  
 fonologe - ääntää (lausua)  
-fonolojia - fonologia (äänneoppi)  
+fonologia - fonologia (äänneoppi)  
 fone zi - kirjain  
 fonte - lähde (kaivo)  
 fonte kalam - mustekynä  
@@ -1592,7 +1590,7 @@ gazeter - toimittaja (journalisti, lehtimies)
 gee - maa (maaperä)  
 geografia - maantiede  
 Geia - Maa (Tellus)  
-geolojia - geologia (maaperäntutkimus)  
+geologia - geologia (maaperäntutkimus)  
 geometria - geometria  
 geopolitia - geopolitiikka  
 gebre - algebra  
@@ -1604,15 +1602,15 @@ gem dau - kendo
 gemer - pelaaja  
 gem suta - miekkailu  
 gene - tuottaa (synnyttää)  
-genolojia - genetiikka  
 • exgene - ulkosyntyinen  
 gene klas - sääty (kasti)  
+genologia - genetiikka  
+gene logia di - geneettinen  
 gene logu - sukututkimus  
-gene lojia di - geneettinen  
 gene tipe - perimä (genotyyppi)  
 gense - laji (tyyppi, lajityyppi, kategoria, genre, sortti)  
 gensal - yleinen (koko lajia koskeva)  
-gensolojia - sukupuolitutkimus  
+gensologia - sukupuolitutkimus  
 geo dou - maapähkinä  
 geo elfe - maahinen  
 geo forme - maasto (maan muodot)  
@@ -1827,8 +1825,8 @@ hevan bagi - eläintarha
 hevan fili - eläinrakkaus  
 hevan geo grafi - eläinmaantiede  
 hevan kata - eläinsatu  
-hevan lojia - eläintiede (zoologia)  
-hevan lojia di - eläintieteellinen  
+hevan logia - eläintiede (zoologia)  
+hevan logia di - eläintieteellinen  
 hevan toxi - eläinmyrkky (zootoksiini)  
 hibride - risteytys (hybridi)  
 hidre - vety  
@@ -1862,7 +1860,7 @@ histor - historia (aikakirjat)
 historer - historioitsija  
 historia - historia (menneet ajat)  
 • prehistoria - esihistoria  
-historolojia - historia (oppiaine)  
+historologia - historia (oppiaine)  
 hiyar - kurkku  
 Ho Ci Min site - Ho Chi Minh City (Saigon)  
 hobi - harrastus  
@@ -2005,6 +2003,7 @@ jaija - voittaja
 jain din - jainalaisuus  
 Jakarta - Jakarta  
 jake - pikkutakki (jakku)  
+jame - koota (kerätä)  
 • ajame - tavata (tapaaminen, kokous)  
 • anjame - hajauttaa  
 • anjame di - hajanainen  
@@ -2043,7 +2042,8 @@ jenju - helmi
 jenju table - helmitaulu  
 jensen - ginseng  
 Jerze - Jersey  
-• injete - ruiskuttaa (ruiske, injektio)  
+• injete - ruiskuttaa  
+• injetaje - ruiske (injektio)  
 • projete - hanke (projekti)  
 jete grafe - heijastaa kuvia (projisoida; projektio)  
 Jibuti - Djiboutia  
@@ -2067,7 +2067,7 @@ juder - tuomari
 judike - oikeudellinen  
 judau - judo  
 jul - joule (J)  
-jumla lojia - lauseoppi (syntaksi)  
+jumla logia - lauseoppi (syntaksi)  
 jun - nuori  
 jun bei - nuorempi toveri  
 jun bra - pikkuveli  
@@ -2081,7 +2081,6 @@ jung - laji
 jupe - hame  
 jus - mehu  
 juste - juuri (tarkka, täsmällinen)  
-juxa - ruiske (injektio)  
 
 ## K  
 
@@ -2304,7 +2303,7 @@ klar - selvä (selkeä)
 klar! - tietysti (selvästi)  
 klas - luokka (kategoria)  
 klima - ilmasto  
-klimalojia - ilmastotiede (klimatologia)  
+klimalogia - ilmastotiede (klimatologia)  
 klima mute - ilmastonmuutos  
 klin - taipumus  
 klon - klooni (identtinen kopio)  
@@ -2365,7 +2364,7 @@ korte fa - lyhentää
 korte kata - novelli  
 kosi - ommella  
 kosme - avaruus (kosmos)  
-kosmobiolojia - astrobiologia  
+kosmobiologia - astrobiologia  
 kosmike - kosminen  
 kosmonave - avaruusalus  
 kosmonaver - avaruusmatkaaja (kosmonautti)  
@@ -2510,6 +2509,8 @@ lexal - sanastollinen
 lexasle - etymologia  
 lexeme - lekseemi  
 lexe fen - tavu  
+lexofilia - logofilia  
+lexofiliste - logofiili  
 lexe gense - kieliopillinen suku  
 lexe jama - sanasto  
 lexe liste - sanaluettelo  
@@ -2558,17 +2559,15 @@ livermorium - livermorium
 lixu - orava  
 lize - purkaa (purku, hajotus)  
 loba - retikka (retiisi)  
-loge - puhua (puhe)  
-logal - puhuttu (sanallinen)  
-logofilia - logofilia  
-logofiliste - logofiili  
+loge - kertoa (selittää)  
+logia - kertomus (selitys)  
+• duologia - dilogia (kaksiosainen kertomus)  
+• trilogia - trilogia (kolmeosainen kertomus)  
+logike - logiikka  
+logikal - looginen  
+logive - puhelias  
 loga - tallenne (rekisteri, loki)  
 loga buku - lokikirja  
-loga tabi di - puhelias  
-logika - logiikka  
-logika di - looginen  
-loje - tiede (tutkimus, opiskella)  
-lojosafarer - tutkimusmatkailija  
 loke - paikka (sija, sijainti)  
 lokal - paikallinen  
 lona - väittely (debatti)  
@@ -2690,8 +2689,8 @@ maste - taitaa (olla mestari jskn)
 master - mestari (asiantuntija)  
 master de engenia (ME) - diplomi-insinööri  
 master de filsofia (MF) - filosofian maisteri  
-master de lojia (ML) - filosofian maisteri luonnontieteistä  
-master de tehnolojia (MT) - tekniikan maisteri  
+master de logia (ML) - filosofian maisteri luonnontieteistä  
+master de tehnologia (MT) - tekniikan maisteri  
 masta - masto (salko)  
 mata - kuolla (kuolema, kuolo; kuollut, vainaa)  
 mata badan - kuollut ruumis  
@@ -2797,7 +2796,7 @@ migre - muutto (migraatio)
 • inmigre - muuttaa maahan  
 • inmigrer - maahanmuuttaja  
 mikrobie - mikrobi  
-mikrobiolojia - mikrobiologia  
+mikrobiologia - mikrobiologia  
 Mikronesia - Mikronesia  
 mikroskope - mikroskooppi  
 mili - milli-  
@@ -2871,7 +2870,7 @@ Mongol - Mongolia
 mongol di - mongoli  
 moral - moraali  
 moral di - moraalinen  
-moral lojia - etiikka (moraalioppi)  
+moral logia - etiikka (moraalioppi)  
 Moris - Mauritius  
 mos - sammal  
 mosim - vuodenaika  
@@ -3091,8 +3090,8 @@ nudisme - nudismi
 nudiste - nudisti  
 nume - lukumäärä (luku, numero; laskea, numeroida)  
 numerike - numeerinen  
-numolojer - matemaatikko  
-numolojia - matematiikka (matikka)  
+numologer - matemaatikko  
+numologia - matematiikka (matikka)  
 o - tai (vai)  
 
 ## O  
@@ -3161,7 +3160,7 @@ Pace Bahai - Tyyni valtameri
 pacisme - rauhanaate (pasifismi)  
 paciste - pasifisti  
 paci - lintu  
-paci lojia - lintutiede (ornitologia)  
+paci logia - lintutiede (ornitologia)  
 pada - pudota (tipahtaa)  
 pada di - pudonnut (tippunut)  
 pada mosim - syksy (syys)  
@@ -3244,7 +3243,7 @@ patogener - patogeeni
 patike - potilas  
 patike - sairas  
 patekan - sairaala  
-patolojia - patologia (tautioppi)  
+patologia - patologia (tautioppi)  
 patomise - infektio (tartunta)  
 patate - peruna (potaatti)  
 pau gi - pyssy  
@@ -3366,7 +3365,7 @@ poliser - poliiisi (poliisimies)
 poliskan - poliisiasema  
 polite - hallinto  
 politike - poliitikko (hallinnoija)  
-politolojia - politiikantutkimus  
+politologia - politiikantutkimus  
 politi di - poliittinen  
 politi lona - politiikka  
 politi mode - hallintomuoto  
@@ -3500,8 +3499,8 @@ rate - järkeillä (käydä järkeen)
 ration - järki (järkeily, päättely)  
 rational - järjellinen (järkiperäinen, rationaalinen)  
 ratekan - neuvosto (raati)  
-ratolojia - logiikka  
-ratolojike - looginen  
+ratologia - logiikka  
+ratologike - looginen  
 ratibu - järjestys  
 re - takaisin  
 ree - asia (tosiasia)  
@@ -3566,7 +3565,7 @@ rubi bau seku - rubiini
 rubi orange - mandariini  
 ruhu - henki (sielu, mieli, psyyke)  
 ruhu di - henkinen (psyykkinen)  
-ruhu lojia - psykologia  
+ruhu logia - psykologia  
 ruke - selkä  
 ruke sake - reppu (rinkka)  
 rul - käärö (kerä)  
@@ -3644,7 +3643,7 @@ Samoa - Samoa
 san - tietää  
 • ansan di - vieras (tuntematon)  
 sanateria - parantola (sanatorio)  
-san lojia - tietoteoria (epistemologia)  
+san logia - tietoteoria (epistemologia)  
 san vol - kiinnostus (mielenkiinto)  
 san vol di - kiinnostava  
 san vol ja - utelias (tiedonhaluinen)  
@@ -3686,12 +3685,12 @@ konsel - konsultoida (antaa neuvoja)
 konseler - konsultti  
 selenium - seleeni  
 selu - solu  
-selu lojia - soluoppi (sytologia)  
+selu logia - soluoppi (sytologia)  
 seme - merkitä (tarkoittaa)  
 sememe - semeemi  
 • polisemike - monimerkityksinen (polyseeminen)  
 • unsemike - yksimerkityksinen  
-semolojia - merkitysoppi (semantiikka)  
+semologia - merkitysoppi (semantiikka)  
 seme - siemen  
 seme dana - siemenjyvä  
 seme di - siemen-  
@@ -3727,7 +3726,7 @@ sexu - sukupuoli
 sexu - seksi (sukupuolisuhde)  
 sexual - sukupuolinen  
 • ansexual - aseksuaali  
-sexulojia - seksologia  
+sexulogia - seksologia  
 si - jos (olettaa)  
 Sibiria - Siperia  
 siborgium - seaborgium  
@@ -3759,7 +3758,7 @@ siro xe - ei mitään
 sis - sisko  
 sis doh - sisarentytär  
 sis son - sisarenpoika  
-sismolojia - seismologia  
+sismologia - seismologia  
 sistem - järjestelmä (systeemi)  
 sita - lainata (siteerata)  
 sita marke - lainausmerkki  
@@ -3935,7 +3934,7 @@ tege pote - savipata (tagine)
 tehne - tekniikka (keino, menetelmä)  
 tehnetium - teknetium  
 tehnokratia - teknokratia  
-tehnolojia - tekniikka (teknologia)  
+tehnologia - tekniikka (teknologia)  
 tela - kangas  
 tela gi - kutomakone (kangaspuut)  
 tele - etäisyys (kaukaisuus)  
@@ -4037,7 +4036,7 @@ torso - vartalo (varsi, torso)
 tortuga - kilpikonna  
 toxe - myrkky  
 toxike - myrkyllinen  
-toxolojia - toksikologia (myrkkyoppi)  
+toxologia - toksikologia (myrkkyoppi)  
 tra - läpi  
 tragona di - lävistävä (diagonaalinen)  
 trapas - läpikulku (kuljetus)  
@@ -4263,7 +4262,7 @@ vin suan - etikka
 vinil - vinyyli  
 violeta - orvokki  
 violeta nil - violetti  
-virolojia - virologia  
+virologia - virologia  
 virus - virus  
 virge - neitsyt (neitseellinen, koskematon)  
 virge di - neitseellinen (koskematon)  

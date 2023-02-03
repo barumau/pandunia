@@ -23,7 +23,7 @@ Afganestan - Афганистан
 agile - подвижный  
 agre - выращивать  
 agral - аграрный  
-agrobiolojia - агробиология  
+agrobiologia - агробиология  
 agronomia - агрономия  
 aha - ага  
 air - воздух  
@@ -126,7 +126,7 @@ auro - золото
 Austronesi - Австронезия  
 autatike - автоматический  
 auter - автор  
-auto loga - монолог  
+autologe - монолог  
 avar - повреждение (авария)  
 ave - овёс  
 axe - ось  
@@ -243,7 +243,7 @@ bete - свёкла
 betula - берёза  
 bie - органический  
 bier - организм  
-biolojia - биология  
+biologia - биология  
 biosistem - биом  
 biotoxe - токсин  
 bibre - бобр  
@@ -382,14 +382,14 @@ darmestadium - дармштадтий
 data - данные  
 data banke - база данных  
 data culi - обработка данных  
-data culi lojia - информатика  
+data culi logia - информатика  
 dau bano - табличка с названием улицы  
 dava - лечить  
 davaer - врач (медик, лекарь, доктор)  
 dava sui - зелье  
 dava xe - лекарство  
 dava xekan - аптека  
-dava xe lojia - фармакология  
+dava xe logia - фармакология  
 de - из (от)  
 dee - бог  
 deokata - миф  
@@ -401,7 +401,7 @@ deha - деревня (село)
 demokratia - демократия  
 den - день (сутки)  
 • preden - вчера  
-den loge - дневник  
+den logu - дневник  
 dia - день  
 dia foto - дневной свет  
 dike - направить (нацелить; цель)  
@@ -421,10 +421,11 @@ dipe moka - куст
 dipe tela - ковёр  
 diske - диск  
 disprosium - диспрозий  
-dite - диктовать  
-• ditater - диктатор  
-• ditateria - диктатура  
-• dition - дикция  
+dite - говорить  
+ditate - диктовать  
+ditater - диктатор  
+ditateria - диктатура  
+dition - дикция  
 doh - дочь  
 dokumen - документ  
 dokumen filme - документальный фильм  
@@ -489,7 +490,7 @@ estrontium - стронций
 etan - этан  
 etanol - этанол  
 etil - этил  
-eu angil - евангелие  
+euangil - евангелие  
 eu loga - панегирик  
 europium - европий  
 europa baluta - дуб черешчатый  
@@ -530,7 +531,6 @@ fa kung - пробиться
 fa kux - положить  (уложить)  
 fa lai - приносить  
 fa linke - соединить (подключить)  
-fa loga - говорить  
 fa loka - ставить  
 fa mei daka - украсить  
 fa memo - помнить  
@@ -593,10 +593,10 @@ fine - тонкий (узкий)
 fiorde - фьорд  
 firuze - бирюза  
 fite - растение  
-fitolojia - ботаника  
+fitologia - ботаника  
 fito yamiste - вегетарианец  
 fizike gi - аппаратное обеспечение  
-fizolojia - физика  
+fizologia - физика  
 flece - стрела (стрелка)  
 flerovium - флеровий  
 flur - фтор  
@@ -682,14 +682,14 @@ gem dau - кэндо
 gemer - игрок (геймер)  
 gem suta - фехтование  
 • exgene - экзогенный  
+• sugene - выращивать  
 gene di - сырой  
 gene grupe - поколение  
+gene logia di - генетический  
 gene logu - генеалогия  
-gene lojia di - генетический  
 gene tipe - генотип  
-gene yo hevan - выращивать  
 gensal - генеральный  
-gensolojia - гендерные исследования  
+gensologia - гендерные исследования  
 geo nice jela - ублиет (подземная тюрьма)  
 germanium - германий  
 gide buku - путеводитель  
@@ -787,8 +787,8 @@ hesium - хассий
 hevan - животное  
 hevan bagi - зоопарк  
 hevan kata - басня  
-hevan lojia - зоология  
-hevan lojia di - зоологический  
+hevan logia - зоология  
+hevan logia di - зоологический  
 hidre - водород  
 hidrate - гидрат  
 hidre peroxide - перекись водорода  
@@ -885,7 +885,7 @@ jui di - осторожный (внимательный)
 jui note - упреждение  
 jul - джоуль (J)  
 jumla - фраза  
-jumla lojia - синтаксис  
+jumla logia - синтаксис  
 jun - юный  
 jun jen - юнец  
 jun moka - саженец  
@@ -1051,7 +1051,7 @@ korona - корона
 korte kata - новелла  
 korte krokodil - аллигатор  
 kosme - космос  
-kosmobiolojia - астробиология  
+kosmobiologia - астробиология  
 kosmike - космический  
 kosmonave - космический корабль  
 kosmonaver - космонавт  
@@ -1154,10 +1154,9 @@ litium - литий
 litre - литр  
 livermorium - ливерморий  
 lixu - белка  
-loge - речь  
+loge - сказать  
 loga - запись  
 loga buku - судовой журнал  
-lojosafarer - исследователь  
 loke - место  
 loke kode - координаты  
 long dura - долго  
@@ -1279,7 +1278,7 @@ migre - миграция
 • inmigre - иммигрировать  
 • inmigrer - иммигрант  
 mikrobie - микроб  
-mikrobiolojia - микробиология  
+mikrobiologia - микробиология  
 mikroskope - микроскоп  
 milke - молоко  
 milke kardon - расторопша пятнистая  
@@ -1422,8 +1421,8 @@ nuka - шея
 nume - число  
 numerike - цифровой  
 numograme - цифры  
-numolojer - математик  
-numolojia - математика (матика)  
+numologer - математик  
+numologia - математика (матика)  
 o - или  
 
 ## O  
@@ -1461,7 +1460,7 @@ patria - отечество
 pace bahai bakalau - тихоокеанская треска  
 pacisme - пацифизм  
 paci - птица  
-paci lojia - орнитология  
+paci logia - орнитология  
 pada di - упавший  (падший)  
 pada mun - лаз  
 pagri - чалма  
@@ -1500,7 +1499,7 @@ pasporte - паспорт
 patogener - патоген  
 patike - пациент (больной)  
 patekan - больница (госпиталь)  
-patolojia - патология  
+patologia - патология  
 patomise - инфекция (заразная болезнь)  
 pau - стрелять  
 pau gi - пистолет  
@@ -1624,7 +1623,7 @@ rang arka salmon - микижа (камчатская сёмга)
 rase - раса  
 rasa medi - межрасовый  
 ration - рассуждение  
-ratolojia - логика  
+ratologia - логика  
 ratibu - установка  
 ratibu li - организованный (порядок)  
 real - реальный (настоящий)  
@@ -1700,7 +1699,7 @@ sama nil - голубой
 samarium - самарий  
 san - знать (ведать)  
 sanateria - санаторий (здравница)  
-san lojia - эпистемология  
+san logia - эпистемология  
 san vol - интерес (любопытство)  
 san vol di - интересный  
 san vol ja - любознательный  
@@ -1721,9 +1720,9 @@ sel - совет
 konseler - консультант (советник)  
 selenium - селен  
 selge - мангольд  
-selu lojia - цитология  
+selu logia - цитология  
 semoforer - семафор  
-semolojia - семантика  
+semologia - семантика  
 seme - семя  
 seme di - семенной  
 semente - цемент  
@@ -1746,7 +1745,7 @@ server - слуга
 server - сервер  
 sesam - сезам  
 sexu - пол  
-sexulojia - сексология  
+sexulogia - сексология  
 si - если  
 siborgium - сиборгий  
 side loka - сиденье (седло)  
@@ -1842,7 +1841,7 @@ tege - кирпич
 tegule - черепи́ца  
 tehne - техника  
 tehnetium - технеций  
-tehnolojia - технология  
+tehnologia - технология  
 tela - ткань  
 tela gi - ткацкий станок  
 tele fon - телефон  
@@ -1889,7 +1888,7 @@ tomate - помидор (томат)
 ton - тон  
 topografia - топография  
 torium - торий  
-toxolojia - токсикология  
+toxologia - токсикология  
 tragike - трагический  
 tragodia - трагедия  
 • antranse vide di - непрозрачный  
@@ -1990,7 +1989,7 @@ vide punte - перспектива (точки зрения)
 vidua - вдова  
 vinkan - винном заводе  
 violeta nil - фиолетовый (пурпурный)  
-virolojia - вирусология  
+virologia - вирусология  
 virus - вирус  
 virge - девственник  
 vise ma - мачеха  

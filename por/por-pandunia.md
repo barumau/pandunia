@@ -33,7 +33,7 @@ agacharse - lipa side
 agente - ater  
 agressor - agreser  
 agressão (ataque) - agrese  
-agrobiologia - agrobiolojia  
+agrobiologia - agrobiologia  
 agronomia - agronomia  
 agrícola - agral  
 ai! - ayo  
@@ -57,7 +57,7 @@ alga - alga
 algesia - analgesia  
 algodão - goton  
 algogênico - algogenike  
-algologia (ficologia) - algalojia  
+algologia (ficologia) - algalogia  
 algometria - algometria  
 alho - lasun  
 alho-porro - porei  
@@ -150,7 +150,7 @@ assustar - fa fobi
 astato - astatin  
 astral - astral  
 astro (corpo celeste) - astre  
-astrobiologia - kosmobiolojia  
+astrobiologia - kosmobiologia  
 astronauta - astronaver  
 astronave - astronave  
 astronomia - astronomia  
@@ -221,9 +221,10 @@ bicho-da-seda (sirgo) - silke larva
 bicho-papão - bubu  
 bigorna - metal bede  
 bilhete - tikete  
+bilogia - duologia  
 bilíngue - dubaxike  
 bilíngue - dubaxike  
-biología - biolojia  
+biología - biologia  
 bioma - biosistem  
 biscoito - biskute  
 bismuto - bismute  
@@ -242,7 +243,7 @@ bombordo - nave leu
 borboleta - pelpel  
 boro - boron  
 bota - buta  
-botânica - fitolojia  
+botânica - fitologia  
 botão - buton  
 boxe - boce  
 boxeador (pugilista) - bocer  
@@ -399,7 +400,7 @@ cigarro - sigar
 cinco (5) - lima  
 cintilar - fa sing foto  
 cipó - trepater  
-citologia - selu lojia  
+citologia - selu logia  
 claro - klar  
 cliente - klien  
 cloro - klor  
@@ -590,8 +591,8 @@ distinto - alo fen di
 distrair - distrate  
 ditador - ditater  
 ditadura - ditateria  
-ditar - dite  
-diário - den loge  
+ditar - ditate  
+diário - den logu  
 diário de bordo - loga buku  
 dióxido de carbono - karbe duoxide  
 dobro - duple  
@@ -657,7 +658,7 @@ entrar - intre
 enxada - copu  
 enxofre - sulfe  
 enxó - benzi  
-epistemologia - san lojia  
+epistemologia - san logia  
 equilíbrio - par vezeta  
 erro (falta) - galte  
 errôneo - galte di  
@@ -721,7 +722,7 @@ etimologia - lexasle
 etnia - zuku  
 eu (me) - mi  
 európio - europium  
-evangelho - eu angil  
+evangelho - euangil  
 evidente - exvidebil  
 exato (preciso) - juste  
 excluir - fa vai klus  
@@ -744,10 +745,9 @@ face (faceta) - fase
 facção - xia  
 fada - pari  
 fadiga - fatige  
-fala - loge  
-falar - fa loga  
+falar - dite  
 falso - false  
-farmacologia - dava xe lojia  
+farmacologia - dava xe logia  
 farmácia (drogaria) - dava xekan  
 farol (baliza) - foto minar  
 fato (facto) - fate  
@@ -809,7 +809,7 @@ fácil - fasil
 fã - fan  
 férmio - fermium  
 fígado - hepate  
-física - fizolojia  
+física - fizologia  
 fósforo - fosfe  
 fóton (fotão) - foton  
 
@@ -834,7 +834,7 @@ generalíssimo - ordu raja
 generosidade - karim  
 generoso (dadivoso, mão-aberta) - don tabi  
 genitor - cin  
-genético - gene lojia di  
+genético - gene logia di  
 genótipo - gene tipe  
 geografia - geografia  
 geometria - geometria  
@@ -950,7 +950,7 @@ inferir - infere
 infiel - andiniste  
 infiel - ankreder  
 inflamaçao - tis  
-informática (ciência da computação) - data culi lojia  
+informática (ciência da computação) - data culi logia  
 infraestrutura - baze strute  
 inimigo - dus jen  
 inquisitivo - san vol ja  
@@ -1093,7 +1093,7 @@ lípido - lipide
 lírio - susan  
 lírio-do-vale - vali susan  
 lítio - litium  
-lógica - ratolojia  
+lógica - ratologia  
 lúpulo - humel  
 
 ## M  
@@ -1143,8 +1143,8 @@ massa de modelar (massinha) - plaste paste
 mastro - masta  
 matadouro - karnekan  
 mate (opaco) - foto mata di  
-matemática - numolojia  
-matemático - numolojer  
+matemática - numologia  
+matemático - numologer  
 materialismo - madisme  
 maternal - ma di  
 matéria - made  
@@ -1189,7 +1189,7 @@ metano - metan
 metanol - metanol  
 metil - metil  
 metro - mitre  
-microbiologia - mikrobiolojia  
+microbiologia - mikrobiologia  
 microscópio - mikroskope  
 micróbio - mikrobie  
 migração - migre  
@@ -1221,7 +1221,7 @@ monograma - monograme
 monstro - mostre  
 monção - barxa mosim  
 monóculo - un yen di lense  
-monólogo - auto loga  
+monólogo - autologe  
 morder - fa dante  
 morder - gate a dante  
 moscovio - moskvium  
@@ -1346,7 +1346,7 @@ organismo - bier
 organizar - fa nomi  
 origem - asle  
 original - aslike  
-ornitologia - paci lojia  
+ornitologia - paci logia  
 orquídea - orkide  
 ortogonal - orto gona di  
 otite - ore tis  
@@ -1403,7 +1403,7 @@ pasta - pasta
 paternal - pa di  
 patinete (trotineta) - skuter  
 pato - bata  
-patologia - patolojia  
+patologia - patologia  
 patógeno - patogener  
 pausa - pauze  
 pauzinho (hashi) - haxi  
@@ -1737,7 +1737,7 @@ sem - hin
 sem nome - nam hin  
 semente - seme  
 seminal - seme di  
-semântica - semolojia  
+semântica - semologia  
 senador - senater  
 sentido - sense  
 sepultura (túmulo, enterrar) - gabre  
@@ -1749,7 +1749,7 @@ serraría - xarakan
 sertã - tava  
 sete (7) - ceti  
 sexo - sexu  
-sexologia - sexulojia  
+sexologia - sexulogia  
 sexta-feira - zukraden  
 significar (querer dizer) - seme  
 silencioso - tix  
@@ -1759,7 +1759,7 @@ sim - ya
 simetria - sammetria  
 simulação - sam sifa xe  
 sino (campainha) - dang gi  
-sintaxe - jumla lojia  
+sintaxe - jumla logia  
 sintaxe - sintaxe  
 situaçao - xe hal  
 sobreviver - trajiva  
@@ -1817,7 +1817,7 @@ taxonomia (taxinomia) - taxonomia
 taxímetro - taximetrer  
 tear - tela gi  
 tecnécio - tehnetium  
-tectónica de placas - plate geo kaskalogi  
+tectónica de placas - plate geo kaskelogia  
 teia de aranha - arane nete  
 tela - pente tela  
 telefonar - fa tele fon  
@@ -1869,7 +1869,7 @@ toranja - putau orange
 torre de observação - garde tor  
 torta - pai  
 toupeira - krote  
-toxicologia - toxolojia  
+toxicologia - toxologia  
 toxina - biotoxe  
 trabalhador - karer  
 trabalhar - kar  
@@ -2017,9 +2017,9 @@ zigurate - zikura
 zinco - zinke  
 zircónio - zirkonium  
 zona - zone  
-zoologia - hevan lojia  
+zoologia - hevan logia  
 zoológico - hevan bagi  
-zoológico - hevan lojia di  
+zoológico - hevan logia di  
 zumbi - zombi  
 ábaco - jenju table  
 ágil - agile  

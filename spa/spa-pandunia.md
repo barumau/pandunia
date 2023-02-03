@@ -91,7 +91,7 @@ agresivo - agresive
 agresión (ataque) - agrese  
 agresor - agreser  
 agrio (ácido) - suan  
-agrobiología - agrobiolojia  
+agrobiología - agrobiologia  
 agronomía - agronomia  
 agrícola - agral  
 agua - sui  
@@ -137,7 +137,7 @@ algas pardas - kafe alga
 algién - yo jen  
 algo - yo xe  
 algodón - goton  
-algología (ficología) - algalojia  
+algología (ficología) - algalogia  
 algometría - algometria  
 algún - yo  
 algún día (algún vez) - yo sata  
@@ -325,7 +325,7 @@ aspecto - rupa
 aspiradora - haki cupu gi  
 Assur (Ashur) - Axur  
 astral - astral  
-astrobiologia - kosmobiolojia  
+astrobiologia - kosmobiologia  
 astronauta - astronaver  
 astronave (nave estelar) - astronave  
 astronomía - astronomia  
@@ -349,7 +349,7 @@ Austria - Ostria
 Austronesia - Austronesi  
 autenticar - verife  
 autocratia (monarquía) - autokratia  
-automotor (automotriz) - auto move  
+automotor (automotriz) - automove  
 automático - autatike  
 automóvil (coche) - moto gar  
 autonomía - autonomia  
@@ -467,7 +467,8 @@ bienvenido - sal lai
 bilingüe - dubaxike  
 bilingüe - dubaxike  
 billete de ida y vuelta - retro tikete  
-biología - biolojia  
+bilogía - duologia  
+biología - biologia  
 bioma - biosistem  
 birromántico - du romanse di  
 bisagra (gozne) - xarnir  
@@ -498,7 +499,7 @@ bosque de algas - alga jangal
 bota - buta  
 botella - botel  
 Botsuana - Cuana  
-botánica - fitolojia  
+botánica - fitologia  
 boxeador - bocer  
 boxeo - boce  
 Brasil - Brazil  
@@ -783,8 +784,7 @@ cian - cian
 ciclista - sikliste  
 cielo - sama  
 cien (100) - sento  
-ciencia (estudiar, investigar, -ología) - loje  
-ciencia política - politolojia  
+ciencia política - politologia  
 cigarro (cigarillo) - sigar  
 cilantro (coriandro) - kotumbar  
 cima (pico, cumbre, vértice) - xan pike  
@@ -797,7 +797,7 @@ cinético - kino di
 circonio - zirkonium  
 circón - zirkon  
 citar - sita  
-citología - selu lojia  
+citología - selu logia  
 ciudad - siti  
 Ciudad de México - Mehiko siti  
 ciudad estado - nagre gogia  
@@ -814,7 +814,7 @@ clavo (pincho, punta) - dingi
 cliente - klien  
 clima (tiempo) - sama hal  
 clima - klima  
-climatología - klimalojia  
+climatología - klimalogia  
 clon - fa klon  
 clonar - klon  
 cloro - klor  
@@ -1003,7 +1003,7 @@ crepa (crep, tortilla de trigo) - Franse krepe
 creyente - diniste  
 creyente - kreder  
 criado (sirviente) - server  
-criar - gene yo hevan  
+criar - sugene  
 crimen (delito) - krim  
 criminal - krim di  
 criptón (kriptón) - kriton  
@@ -1124,7 +1124,7 @@ deber (se recomienda) - be sel
 deci- - desi  
 decibelio - desi bel  
 deciembre - mes des du  
-decir (hablar) - fa loga  
+decir (hablar) - dite  
 decoración (adorno) - mei daka  
 decorar (adornar) - fa mei daka  
 dedo - angul  
@@ -1205,14 +1205,14 @@ develar (revelar) - devel
 devolver (vomitar) - retro gula  
 diagonal - tragona di  
 diamante - adamas  
-diario - den loge  
+diario - den logu  
 dibujar (trazar) - fa grafi  
 dibujo (diseño) - desen  
 dicción - dition  
 dicotomía - dutomia  
 dictador - ditater  
 dictadura - ditateria  
-dictar - dite  
+dictar - ditate  
 diente - dante  
 dientes de león (panaderos) - makan hua  
 diestro - dexhanuka  
@@ -1310,7 +1310,7 @@ dónde - ke loka
 ## E  
 
 eco - reflexe sonde  
-ecología - ekolojia  
+ecología - ekologia  
 economía - malonomia  
 econtrar (hallar) - eureka  
 Ecuador - Ekuador  
@@ -1522,7 +1522,7 @@ Europa - Europa
 europeo - europa di  
 europio - europium  
 evaluación (crítica) - piping  
-evangelio - eu angil  
+evangelio - euangil  
 eviar por correo - fa posta  
 evidente - exvidebil  
 exacto (preciso) - juste  
@@ -1536,7 +1536,6 @@ exclusivo - vai klus di
 existir (actualmente) - zai  
 exoplaneta (planeta extrasolar) - vai planeta  
 expeler (expulsar) - expele  
-explorador - lojosafarer  
 explorar - brauza  
 explosionar - be bum  
 explosión (estallado) - bum  
@@ -1570,7 +1569,7 @@ fan - fan
 fantasma - fantom  
 farbicante - caner  
 farmacia (botica, droguería) - dava xekan  
-farmacologia - dava xe lojia  
+farmacologia - dava xe logia  
 faro (baliza, almenara) - foto minar  
 farol (linterna) - hogo sanduku  
 farsi - parsi  
@@ -1621,7 +1620,7 @@ flúor - flur
 fonda - panduke  
 fonema - foneme  
 fono (segmento acústico) - fone  
-fonología - fonolojia  
+fonología - fonologia  
 forma (figura, morfo) - forme  
 formar - fa forma  
 formateo - kitaba forma  
@@ -1670,7 +1669,7 @@ fábrica - feteria
 fábula - hevan kata  
 fácil - fasil  
 fácil acceso (accesibilidad) - acesebilta  
-física - fizolojia  
+física - fizologia  
 física nuclear - kerne fizika  
 físico (científico) - fizologer  
 fósforo - fosfe  
@@ -1726,9 +1725,9 @@ gengibre - ginge
 genial - kul  
 genotipo - gene tipe  
 gente - nas  
-genético - gene lojia di  
+genético - gene logia di  
 geografía - geografia  
-geología - geolojia  
+geología - geologia  
 geometría - geometria  
 geopolítica - geopolitia  
 Georgia (República de Georgia) - Kartul  
@@ -1753,7 +1752,7 @@ glucógeno - glukogen
 gluten - gluten  
 glóbulo - hemi selu  
 GMS - vijin  
-gnoseología (epistemología) - san lojia  
+gnoseología (epistemología) - san logia  
 gobernante (soberano) - sultaner  
 gobernar - fa politi  
 gobierno - polite  
@@ -1826,8 +1825,7 @@ género social - sosial sexu
 
 habilidad (capacidad) - bilta  
 habitación (cuarto, sala, pieza) - kamar  
-habla - loge  
-hablador (locuaz) - loga tabi di  
+hablador (locuaz) - logive  
 hablante de Pandunia - panduniste  
 hace girar (dar vueltas) - rotate  
 hacedor (perpetrador) - ja  
@@ -1895,7 +1893,7 @@ hipopótamo - gubu
 hipotensión - hipohemopresia  
 hipotermia - hipotermia  
 historia (cuento, relato, leyenda) - kata  
-historia (estudio de sucesos del pasado) - historolojia  
+historia (estudio de sucesos del pasado) - historologia  
 historia (pasado) - histor  
 historiador - historer  
 historieta (caricaturas) - grafe kata  
@@ -2032,7 +2030,7 @@ infierno - naraka
 inflamación - tis  
 información - kon sabi  
 informe (reporte, noticia) - reporte  
-informática (computación) - data culi lojia  
+informática (computación) - data culi logia  
 infortunio (mala suerte) - dus zar  
 infraestructura - baze strute  
 ingeniero - engener  
@@ -2086,9 +2084,8 @@ invertir - reverse
 invierno - leng mosim  
 invitado (visita) - viziter  
 invitar - cing lai  
-inyección - juxa  
-inyectar (inyección) - injete  
-inyectar - fa juxa  
+inyección - injetaje  
+inyectar - injete  
 ion - ion  
 ir - ga  
 ira (furia) - furita  
@@ -2292,7 +2289,7 @@ lince rojo (gato montés) - rubi linse
 lindo (precioso) - kavai  
 linea (hilo, cordel, raya) - lin  
 linfa - limfa  
-lingüística - baxe lojia  
+lingüística - baxe logia  
 lino - yama  
 liquen - alga fungu  
 lirio - susan  
@@ -2325,8 +2322,8 @@ lo más - maxim
 lobo - volfe  
 local - lokal  
 lodo (barro, fango) - poto  
-logical - logika di  
-logical - ratolojike  
+logical - logikal  
+logical - ratologike  
 lograr (llegar) - fa gol  
 longitud - ging gradu  
 loro (papagayo) - papagai  
@@ -2356,8 +2353,8 @@ límite (frontera, linde) - limite
 lípido - lipide  
 líquido (fluido) - darike  
 líquido - daraje  
-lógica - logika  
-lógica - ratolojia  
+lógica - logike  
+lógica - ratologia  
 lúmen - lumen  
 lúpulo (hombrecillo) - humel  
 
@@ -2460,8 +2457,8 @@ matar (morir, asesinar) - matafa
 matasellos - poste marke  
 mate (opaco) - foto mata di  
 mate cocido - mate cai  
-matemática - numolojia  
-matemático - numolojer  
+matemática - numologia  
+matemático - numologer  
 material - madike  
 materialismo - madisme  
 maternal - ma di  
@@ -2486,7 +2483,7 @@ medalla - medal
 medallón - medalon  
 medianoche - mide noce  
 medicamento (medicina, remedio, fármaco) - dava xe  
-medicina - dava lojia  
+medicina - dava logia  
 medidor - metri gi  
 medio (instrumento) - midaje  
 medio (mediano) - midike  
@@ -2549,7 +2546,7 @@ mi - mi su
 micelio - fungu nete  
 micro- - mikre  
 microbio - mikrobie  
-microbiología - mikrobiolojia  
+microbiología - mikrobiologia  
 Micronesia - Mikronesia  
 microscopio - mikroskope  
 Midsommar - garma mosim medi den  
@@ -2622,7 +2619,7 @@ montaña (colina) - xan
 Montenegro - cernagora  
 monumento - memo bina  
 monóculo - un yen di lense  
-monólogo - auto loga  
+monólogo - autologe  
 morado (púrpura) - violeta nil  
 moral (moro) - tuta  
 moral (ético) - moral di  
@@ -2879,7 +2876,7 @@ oriental - dong di
 origen - asle  
 original - aslike  
 oriya - Odisa  
-ornitología - paci lojia  
+ornitología - paci logia  
 ornitorrinco - bata krote  
 oro - auro  
 oromo - oromo  
@@ -3002,7 +2999,7 @@ pastel de luna - luna keke
 paternal - pa di  
 patinete - skuter  
 pato - bata  
-patología - patolojia  
+patología - patologia  
 patria - dom gogia  
 patria - patria  
 patrimonio (herencia, legado) - varite  
@@ -3301,9 +3298,9 @@ prueba - dalil
 prueba - teste  
 práctica - prate  
 práctico - pratike  
-préstamo lingüístico - jeka loga  
+préstamo lingüístico - jeka lexe  
 próximo - proxe  
-psicología - ruhu lojia  
+psicología - ruhu logia  
 psique - ruhu  
 puaj - fui  
 pudrirse (cariarse, descomponerse) - be pute  
@@ -3415,7 +3412,7 @@ receptor de radio - radio ceper
 rechazar (negar) - nege  
 recibir - recepe  
 reciclar - resikle  
-recoger (juntar, reunir, acumular, recolectar, montar) - fa jama  
+recoger (juntar, reunir, acumular, recolectar, montar) - jame  
 reconocer (admitir) - fa reside  
 reconocimiento (recibo) - reside  
 recorrido (tour) - tur  
@@ -3636,7 +3633,7 @@ semana - cetiden
 semilla - seme  
 seminal - seme di  
 semáforo - semoforer  
-semántica - semolojia  
+semántica - semologia  
 senador - senater  
 sencillo (liso) - sada  
 Senegal - Senegal  
@@ -3662,7 +3659,7 @@ servir - fa serve
 sexo (género) - sexu  
 sexo - biogense  
 sexo - sexu  
-sexología - sexulojia  
+sexología - sexulogia  
 sexy (sexual) - sexe di  
 Seychelles - Sexel nesi  
 señal (letrero, indicio) - sin  
@@ -3697,11 +3694,11 @@ sin amigos - dosti hin
 Singapur - Singapur  
 sino - alo di  
 sinograma - cinograme  
-sintaxis - jumla lojia  
+sintaxis - jumla logia  
 sintaxis - sintaxe  
 sintoísmo - xindau din  
 Siria - Suria  
-sismología - sismolojia  
+sismología - sismologia  
 sistema - sistem  
 sistema solar - sol sistem  
 sistémico - sistem di  
@@ -3846,8 +3843,8 @@ tecla (botón) - buton
 teclado - buton bano  
 tecnetio - tehnetium  
 tecnocracia - tehnokratia  
-tecnología - tehnolojia  
-tectónica de placas - plate geo kaskalogi  
+tecnología - tehnologia  
+tectónica de placas - plate geo kaskelogia  
 teja - tegule  
 tejer - fa tela  
 tela (paño, tejido) - tela  
@@ -3878,7 +3875,7 @@ tentar (seducir) - tenta
 tentempié - xiu yam  
 tentáculo - sense xaka  
 teocracia - deokratia  
-teología - deojojia  
+teología - deologia  
 teoría - teori  
 teosofía - deosofia  
 tera- - tera  
@@ -3949,7 +3946,7 @@ torso - torso
 tortuga - tortuga  
 tos - koso  
 totalidad (integridad) - holia  
-toxicología - toxolojia  
+toxicología - toxologia  
 toxina - biotoxe  
 trabajador (obrero) - karer  
 trabajar - kar  
@@ -4137,7 +4134,7 @@ vino - vin
 violeta - violeta  
 virgen (virginal) - virge  
 virginal - virge di  
-virología - virolojia  
+virología - virologia  
 virrey - vise raja  
 virtud (moralidad) - bon moral  
 virtuoso (moral) - bon moral di  
@@ -4214,8 +4211,8 @@ zigzag - ziza
 Zimbabue - Zimbabue  
 zombi - zombi  
 zoo - hevan bagi  
-zoología - hevan lojia  
-zoológico - hevan lojia di  
+zoología - hevan logia  
+zoológico - hevan logia di  
 zoroastriano - zarduxtiste  
 zoroastrismo - zarduxtisme  
 Zoroastro - Zarduxte  
@@ -4237,7 +4234,7 @@ zulú - Zulu
 átomo - atom  
 él o ella - da  
 éste - dong  
-ética (filosofía moral) - moral lojia  
+ética (filosofía moral) - moral logia  
 étnico - zuku di  
 índice de contenidos - in liste  
 óptimo - otimal  

@@ -9,7 +9,7 @@
  - adilkan  
  - agral  
  - agri deha  
- - agrobiolojia  
+ - agrobiologia  
  - agrokulte  
  - airobiike  
  - ais xarbe  
@@ -108,7 +108,7 @@
  - bilive  
  - bilta  
  - bio lasa  
- - biofizolojia  
+ - biofizologia  
  - bison  
  - boce pante  
  - bocer  
@@ -166,13 +166,13 @@
  - dau bano  
  - dau yunte  
  - dava xe  
- - dava xe lojia  
+ - dava xe logia  
  - dava xekan  
  - Deimos  
  - dele  
  - deme  
  - den  
- - den loge  
+ - den logu  
  - devel  
  - dexhanuka  
  - di  
@@ -182,6 +182,7 @@
  - Dione  
  - dipe gradu  
  - dipe megi  
+ - dition  
  - doh doh  
  - doh son  
  - dokumen filme  
@@ -216,10 +217,11 @@
  - etan  
  - etanol  
  - etil  
- - eu deu sim  
- - eu gene sim  
+ - eudeisme  
+ - eugenisme  
+ - euloga  
  - Europa luna  
- - eutopi  
+ - eutopia  
  - exa  
  - extre  
  - fa amen  
@@ -232,7 +234,6 @@
  - fa ding  
  - fa dus forma  
  - fa estude  
- - fa eu loga  
  - fa fatu  
  - fa fobi  
  - fa for  
@@ -342,11 +343,11 @@
  - gem dau  
  - gem suta  
  - gene  
- - gene lojia di  
- - genolojia  
+ - gene logia di  
+ - genologia  
  - gensal  
  - gense  
- - gensolojia  
+ - gensologia  
  - geo elfe  
  - geografia  
  - geometria  
@@ -457,7 +458,7 @@
  - jui  
  - jui di  
  - jui note  
- - jumla lojia  
+ - jumla logia  
  - jun bei  
  - jun bra  
  - jun sau  
@@ -516,7 +517,7 @@
  - kola frute  
  - kolone  
  - komike  
- - komputa hor loga gi  
+ - komputa hor loger  
  - kon forma  
  - kon helen baxa  
  - kon pasi  
@@ -525,7 +526,7 @@
  - konseler  
  - korer  
  - korte kata  
- - kosmobiolojia  
+ - kosmobiologia  
  - kosmonave  
  - krate  
  - kreater  
@@ -551,6 +552,8 @@
  - leta  
  - letali  
  - letali doze  
+ - lexofilia  
+ - lexograme  
  - li  
  - liga di sanduku  
  - limon jus  
@@ -560,9 +563,8 @@
  - lipofobia  
  - lipolize  
  - lize  
- - logal  
- - logofilia  
- - logograme  
+ - loge  
+ - logia  
  - loke kode  
  - long dura  
  - long dura di  
@@ -594,8 +596,8 @@
  - master de arte (MA)  
  - master de engenia (ME)  
  - master de filsofia (MF)  
- - master de lojia (ML)  
- - master de tehnolojia (MT)  
+ - master de logia (ML)  
+ - master de tehnologia (MT)  
  - mata badan  
  - matabil  
  - mate  
@@ -806,7 +808,7 @@
  - sekur kopi  
  - sememe  
  - semoforer  
- - semolojia  
+ - semologia  
  - sen  
  - sen bei  
  - sen bra  
@@ -874,7 +876,7 @@
  - to long  
  - tome  
  - topografia  
- - toxolojia  
+ - toxologia  
  - tra  
  - tragike  
  - tragokomike  
@@ -1045,7 +1047,7 @@
  - distrate  
  - disturbe  
  - disverse  
- - dition  
+ - duologia  
  - dusate  
  - dusforme  
  - duskar  
@@ -1118,7 +1120,7 @@
  - luxure  
  - luxuria  
  - mahazin  
- - metafizolojia  
+ - metafizologia  
  - niceprese  
  - parafete  
  - paranormali  
@@ -1192,6 +1194,7 @@
  - tramise  
  - tramiseon  
  - tramiser  
+ - trilogia  
  - tritomia  
  - unbaxike  
  - ungene  
@@ -1231,7 +1234,7 @@ alfabet, abecadło - zi seri
 alga (wodorost) - alga  
 algebra - gebre  
 Algieria - Jayer  
-algologia - algalojia  
+algologia - algalogia  
 aligator - korte krokodil  
 alkohol - alkol  
 alkoholowy - alkolike  
@@ -1398,7 +1401,7 @@ bieżący (aktualny, obecny) - zai zaman di
 bilet - tikete  
 bilet powrotny - retro tikete  
 bilion, giga- - giga  
-biologia (nauka o życiu) - biolojia  
+biologia (nauka o życiu) - biologia  
 biom - biosistem  
 biromantyczny - du romanse di  
 biseksualny - du sexe di  
@@ -1428,7 +1431,7 @@ bomba atomowa - atom bomba
 Bombaj (Mumbaj) - Mumbai  
 bor - boron  
 boski - deike  
-botanika - fitolojia  
+botanika - fitologia  
 Botswana - Cuana  
 boćwina (botwina) - selge  
 Bośnia i Harcegowina - Bosna i Hercegovina  
@@ -1594,7 +1597,7 @@ Cypr - Kipris
 Cypr Północny - Norde Kipris  
 cyrkon - zirkonium  
 cyrylica - Kiril zi  
-cytologia - selu lojia  
+cytologia - selu logia  
 cytować - sita  
 cytryna - limon  
 cywilizacja - sivilia  
@@ -1736,7 +1739,7 @@ dwuznacznik - du semi di
 dychotomia - dutomia  
 dyktator - ditater  
 dyktatura - ditateria  
-dyktować - dite  
+dyktować - ditate  
 dym - dum  
 dynamit - dinamite  
 dyrektor szkoły - xule xefe  
@@ -1800,7 +1803,7 @@ Egipt - Misri
 egzonim - vai nam  
 egzoplaneta - vai planeta  
 einstein - einsteinium  
-ekologia (nauka o środowisku) - ekolojia  
+ekologia (nauka o środowisku) - ekologia  
 ekonomia - malonomia  
 ekran - eskran  
 ekskrement, gówno - kaka  
@@ -1824,7 +1827,7 @@ endonim - in nam
 energia - energia  
 energia nuklearna - kerne energi  
 enzym - enzim  
-epistemologia (gnoseologia, teoria poznania) - san lojia  
+epistemologia (gnoseologia, teoria poznania) - san logia  
 erb - erbium  
 Eris (planeta karłowata) - Eris  
 Erytrea - Eritra  
@@ -1834,14 +1837,14 @@ Estonia - Esti
 etap, faza - faze  
 Etiopia - Etiopia  
 etniczny - zuku di  
-etyka - moral lojia  
+etyka - moral logia  
 etymologia - lexasle  
 Eurazja - Eurasia  
 euro (€) - euro  
 europ - europium  
 Europa - Europa  
 europejski - europa di  
-ewangelia - eu angil  
+ewangelia - euangil  
 F - F  
 fabryka, manufaktura - canekan  
 fabryka, manufaktura - feteria  
@@ -1872,7 +1875,7 @@ fioletowy - violeta nil
 fiord - fiorde  
 firma, kompania, korporacja - kompani  
 fizyka - fizologer  
-fizyka - fizolojia  
+fizyka - fizologia  
 fizyka nuklearna - kerne fizika  
 flaga, sztandar - bandera  
 flerow - flerovium  
@@ -1880,7 +1883,7 @@ fluor - flur
 fluorek - fluride  
 folder (teczka) - dokumen sanduku  
 fonem - foneme  
-fonologia - fonolojia  
+fonologia - fonologia  
 fontanna (studnia, źródło) - fonte  
 forma, kształt, morf - forme  
 formatowanie - kitaba forma  
@@ -1925,7 +1928,7 @@ gejowski (homoseksualny) - gei
 genderqueer, niebinarny - nobi  
 genealogia - gene logu  
 genotyp - gene tipe  
-geologia - geolojia  
+geologia - geologia  
 gepard - cita  
 german - germanium  
 gest - geste  
@@ -2061,7 +2064,7 @@ hinduistyczny - hindiste
 hinduizm - hindisme  
 hipopotam - gubu  
 hipotermia (wychłodzenie) - hipotermia  
-historia, badanie historii - historolojia  
+historia, badanie historii - historologia  
 historia; annały, roczniki - histor  
 historyk - historer  
 Hiszpania - Espania  
@@ -2131,7 +2134,7 @@ indyk - dinde
 infekcja (zakażenie) - patomise  
 infekcja (zakażenie) - infete  
 informacja - kon sabi  
-informatyka - data culi lojia  
+informatyka - data culi logia  
 inny - ale  
 innymi słowy - alo nam  
 intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki) - teza  
@@ -2227,7 +2230,7 @@ język sztuczny - arte fete baxa
 język sztuczny - fete baxe  
 język świata, język ogólnoświatowy - dunia baxe  
 język; komunikacja; mówić - baxe  
-językoznastwo - baxe lojia  
+językoznastwo - baxe logia  
 K - K  
 kabaczek (dynia, tykwa) - kaboga  
 kabel (linia) - eletroline  
@@ -2331,7 +2334,7 @@ klej - glu
 klejnot - bauite  
 klescz (roztocze) - akare  
 klimat - klima  
-klimatologia - klimalojia  
+klimatologia - klimalogia  
 klon, replika - klon  
 klonować, repilikować - fa klon  
 klub - klube  
@@ -2360,7 +2363,7 @@ kolczuga - seri kaska
 kolec - dingi  
 kolej - tren dau  
 kolekcja, zbiór; zgromadzenie, zebranie - jamia  
-kolekcjonować, zebrać, zbierać - fa jama  
+kolekcjonować, zebrać, zbierać - jame  
 kolendra - kotumbar  
 kolonia, osada - kolonia  
 kolonialista - koloniste  
@@ -2588,11 +2591,11 @@ liwermor - livermorium
 loch - geo nice jela  
 lodowy - ais di  
 lody - ais krem  
-logiczny - logika di  
-logiczny - ratolojike  
-logika, dedukcja - logika  
-logika, dedukcja - ratolojia  
-logofil (miłośnik słów) - logofiliste  
+logiczny - logikal  
+logiczny - ratologike  
+logika, dedukcja - logike  
+logika, dedukcja - ratologia  
+logofil (miłośnik słów) - lexofiliste  
 lojalność (wierność) - amenbilta  
 lojalność (wierność) - bekredebilta  
 lojalny (wierny) - amenbil  
@@ -2684,8 +2687,8 @@ maszyna - makin
 maszyna do pisania - kitaba gi  
 masło - bute  
 masłosz Parka - karite  
-matematyk - numolojer  
-matematyka - numolojia  
+matematyk - numologer  
+matematyka - numologia  
 materac - matras  
 materia, substancja - made  
 materialny - madike  
@@ -2706,7 +2709,7 @@ medal - medal
 medalion - medalon  
 media społecznościowe - sosial midia  
 meduza - bahai gele  
-medycyna - dava lojia  
+medycyna - dava logia  
 medytować; dumać, rozmyślać, zastanawiać się - jan  
 megawat - mega vate  
 meitner - meitnerium  
@@ -2744,7 +2747,7 @@ mieć sens - rate
 migdał - badam  
 migracja - migre  
 mikro- - mikre  
-mikrobiologia - mikrobiolojia  
+mikrobiologia - mikrobiologia  
 Mikronezja - Mikronesia  
 mikroorganizm  (mikrob) - mikrobie  
 mikroskop - mikroskope  
@@ -2811,7 +2814,7 @@ Mongolia - Mongol
 Mongolski - mongol di  
 monizm - monisme  
 monizm - un xe sim  
-monolog - auto loga  
+monolog - autologe  
 monoteizm - un deu sim  
 moralność, etyka - moral  
 moralny - moral di  
@@ -2827,7 +2830,6 @@ most - kio
 motocykl (motor) - moto sikle  
 motyka - copu  
 motyl - pelpel  
-mowić (mowa) - loge  
 Mozambik - Mozambike  
 Mołdawia - Moldova  
 może - bahai  
@@ -2855,7 +2857,7 @@ myśl, pomysł - fikir
 myśleć, dumać, rozmyślać, zastanawiać się, rozważać - fa fikir  
 móc, umieć, możliwy, prawdopodobnie - bil  
 mój - mi su  
-mówić, rozmawiać - fa loga  
+mówić, rozmawiać - dite  
 mózg - nau  
 mózgowy - nau di  
 mądrość - sofia  
@@ -2914,7 +2916,6 @@ natura, środowisko - ekia
 natura, środowisko - tabi  
 nauczyciel - xule guru  
 nauczyć się, uczyć się, studiować - fa xula  
-nauka, badanie, studiowanie - loje  
 Nauru - Nauru  
 nautilus - nautile  
 nawet - hata di  
@@ -3118,7 +3119,7 @@ opłata, taryfa - tarif
 organiczny - bie  
 orgazm - orgazme  
 orija - Odisa  
-ornitologia - paci lojia  
+ornitologia - paci logia  
 Oromia - Oromo Dexa  
 oromo - oromo  
 orzech ziemny - geo dou  
@@ -3222,7 +3223,7 @@ pasywny (nieaktywny) - pas tabi
 paszport - pasporte  
 patelnia - tava  
 patogen - patogener  
-patologia - patolojia  
+patologia - patologia  
 patrzeć (oglądać) - fa yen  
 patrzeć, widzieć - vide  
 pauza (przerwa) - pauze  
@@ -3368,7 +3369,7 @@ policzyć (przetwarzać dane) - konpute
 policzyć, liczyć, przetwarzać dane - fa komputa  
 Polinezja Francuska - Franse Polinesi  
 politeizm - poli deu sim  
-politologia - politolojia  
+politologia - politologia  
 polityczny - politi di  
 polityk - politike  
 polityka - politi lona  
@@ -3425,7 +3426,6 @@ postawa ciała; asana - asan
 postawiony (stojący) - lipa di  
 postawić (stawiać) - fa libu  
 posuwać się do przodu (dokonywać postępu, wejść) - progrese  
-poszukiwacz (badacz, eksplorator) - lojosafarer  
 poszukiwacz przygód (awanturnik) - venturer  
 poszukiwać (badać, eksplorować, przeglądać, wyszukiwać) - brauza  
 posłaniec (wysłannik) - angiler  
@@ -3592,7 +3592,7 @@ prędkość (szybkość) - sugata
 pręt, kij - kane  
 pstrąg potokowy - kafe salmon  
 pstrąg tęczowy - rang arka salmon  
-psychologia - ruhu lojia  
+psychologia - ruhu logia  
 pszczoła lub osa - vespa  
 pszczoła miodna - medu vespa  
 pszenica - gandum  
@@ -3722,8 +3722,8 @@ rozjaśnić - fa ming
 rozkaz, komenda - amir  
 rozluźnić (poluzować) - laxa  
 rozmiar - daita  
-rozmnażać - gene yo hevan  
-rozmowny - loga tabi di  
+rozmnażać - sugene  
+rozmowny - logive  
 rozproszyć, rozpraszać - anjame  
 rozróżniać (rozróżnić) - fa has  
 rozstrzępiony (podarty) - cira cira di  
@@ -3821,7 +3821,7 @@ Salwador - Salvador
 sam, siebie - se  
 samar - samarium  
 Samoa - Samoa  
-samobieżny - auto move  
+samobieżny - automove  
 samochód (automobil) - moto gar  
 samogłoska - jong fon  
 samolot - fei gi  
@@ -3829,7 +3829,7 @@ samppanja - xampan vin
 San Marino - Sante Marino  
 sardela - ancovi  
 sari - sari  
-sarkazm - loga ironi  
+sarkazm - lexal ironia  
 satanista - xataniste  
 satanizm - xatanisme  
 Saturn - Xani  
@@ -3839,14 +3839,14 @@ sałata - letus
 sałatka - salade  
 schody (drabina) - trepe  
 seaborg - siborgium  
-sejsmologia - sismolojia  
+sejsmologia - sismologia  
 sekcja zwłok (obdukcja) - nekrotomia  
 sekret - sir  
 sekretariat - bureria  
 sekretarz - burer  
 seks, stosunek płciowy - sexu  
 seksowny, ponętny - sexe di  
-seksuologia - sexulojia  
+seksuologia - sexulogia  
 sekunda - sekunde  
 selen - selenium  
 sen - sona  
@@ -4165,10 +4165,10 @@ tchórz, fretka - furete
 technet - tehnetium  
 technika, technologia - tehne  
 technokracja - tehnokratia  
-technologia, nauka o technikach - tehnolojia  
+technologia, nauka o technikach - tehnologia  
 teistyczny - deiste  
 teizm - deisme  
-tektonika płyt - plate geo kaskalogi  
+tektonika płyt - plate geo kaskelogia  
 telefon - tele fon  
 teleportować się - be tele loka  
 teleskop - teleskope  
@@ -4182,7 +4182,7 @@ tendencja (być skłonnym) - klin
 tenesyn, tennessine - tenesium  
 tenis - tenis  
 teokracja - deokratia  
-teologia - deojojia  
+teologia - deologia  
 teoria - teori  
 teozofia - deosofia  
 tera- - tera  
@@ -4472,7 +4472,7 @@ winogrono - putau
 winyl - vinil  
 wiosna - hua mosim  
 wirus - virus  
-wirusologia - virolojia  
+wirusologia - virologia  
 Wisznu - Vixnu  
 witaj, dobre przybycie - sal lai  
 witamina - vitamin  
@@ -4532,7 +4532,7 @@ współczucie - sam emos
 współpracować (kolaborować) - kon kar  
 współpracować (kolaborować) - konkar  
 wstecz - a re  
-wstrzyknąć, wstrzykiwać - fa juxa  
+wstrzyknąć, wstrzykiwać - injete  
 wstyd (hańba, kompromitacja) - xarma  
 wszyscy, wszystkie, wszystko; każdy - pan  
 wszystko - pan xe  
@@ -4674,7 +4674,7 @@ zapalenie ucha - ore tis
 zapaść się (zapadać się, runąć) - parce dipe  
 zapominać (zapomnieć) - anmemo  
 zapomnieć, zapominać - boli  
-zapożyczenie (wyraz obcy) - jeka loga  
+zapożyczenie (wyraz obcy) - jeka lexe  
 zaprosić, zapraszać - cing lai  
 zaprzęc, zaprzęgać - harnes  
 zapytać, pytać - ke sata  
@@ -4690,8 +4690,7 @@ zasada - bazisme
 zaskoczenie - supriza  
 zasmucić (zasmucać) - fa duka  
 zastosować, stosować - fa aplika  
-zastrzyk - juxa  
-zastrzyk (wstrzyknąć, wstrzykiwać) - injete  
+zastrzyk - injetaje  
 zastąpić (podstawić, zamienić) - fa vise  
 zasób (zastosowanie, użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta) - faide  
 zasłona, kurtyna - parde  
@@ -4770,8 +4769,8 @@ znowu (ponownie) - ri
 znudzony - bori di  
 zombie, zombi - zombi  
 zoo (ogród zoologiczny) - hevan bagi  
-zoologia - hevan lojia  
-zoologiczny - hevan lojia di  
+zoologia - hevan logia  
+zoologiczny - hevan logia di  
 zostawić (zostawiać) - xanti  
 zostać, zostawać - be reste  
 zrobić (czyn, uczynek) - fete  

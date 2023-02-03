@@ -294,7 +294,7 @@
 **dipe** *low (short, bottom)* ← Mandarin:低 (dī) + Vietnamese:thấp + Khmer:ទាប (diəp) + Turkish:dip + English:deep  
 **diske** *disc (disk)* ← English:Turkish:disk, French:disque, Spanish:Portuguese:disco, Russian:диск (disk), Hindi:डिस्क (ḍisk), Bengali:ডিস্ক (ḑisk), Japanese:ディスク (disuku), Korean:디스크 (diseukeu)  
 **disprosium** *dysprosium* ← English:dysprosium, French:dysprosium, Spanish:disprosio, Portuguese:disprósio, Russian:диспрозий, Mandarin:镝 (dī), Japanese:ジスプロシウム, Korean:디스프로슘, Vietnamese:đysprosi, Hindi:डिस्प्रोसियम, Bengali:ডিসপ্রোসিয়াম, Malay:disprosium, Swahili:disprosi, Arabic: ديسبروسيوم  
-**dite** *dictate* ← English:dictate, French:dicter, Spanish:dictar, Portuguese:ditar + deu:Malay:diktator, Russian:диктатор (diktator), Turkish:diktatör, Arabic:(diktatūr)  
+**dite** *say (speak, talk)* ← French:dire, English:diction, Spanish:dicción, Portuguese:dicção, Russian:дикция (diktsiya), Malay:diksi + Turkish:diktatör, Arabic:(diktatūr)  
 **doh** *daughter* ← deu:Tochter, English:daughter, Russian:дочь (dočʹ), Persian: دختر (doxtar), Hindi:दुख़्तर (duxtar), Telugu:దుహిత (duhita)  
 **dokumen** *document (record, file)* ← English:French:document, Spanish:Portuguese:documento, Russian:документ (dokument), Japanese:ドキュメント (dokyumento), Malay:dokumen, Turkish:doküman  
 **dolfin** *dolphin* ← Greek:δελφίνια (delphínia), English:dolphin, Spanish:delfín, Portuguese:delfim, Russian:дельфин (del’fin), Arabic:دلفين (dulfin), Japanese:ドルフィン (dorufin), Bengali:ডলফিন (ḍalaphina), Hindi:डॉल्फ़िन (ḍŏlfin)  
@@ -327,7 +327,6 @@
 **eglisa** *church* ← English:ecclesia-, French:église, Spanish:iglesia, Portuguese:igreja, Hindi:गिरजा (girjā), Malay:gereja, Arabic:(kanisā), Swahili:kanisa, Turkish:kilise  
 **einsteinium** *einsteinium* ← English:einsteinium, French:einsteinium, Spanish:einsteinium, Portuguese:einstânio, Russian:эйнштейний, Mandarin:锿 (āi), Japanese:アインスタイニウム, Korean:아인시타이늄, Vietnamese:ensteni, Hindi:आइन्स्टाइनियम, Bengali:আইনস্টাইনিয়াম, Malay:einsteinium, Swahili:einsteni, Arabic: انيشتنيوم  
 **ekia** *environment (nature)* ← English:Spanish:Portuguese:eco-, French:éco-, deu:öko-, Russian:эко-, Turkish:Malay:eko-  
-**ekolojia** *ecology (study of environment)* ← deu:Ökologie, English:ecology, French:écologie, Russian:экология (ekologiya), Malay:ekologi, Turkish:ekoloji, Swahili:ikolojia  
 **elastike** *elastic* ← English:elastic, French:élastique, Spanish:Portuguese:elástico, Russian:эластичный (elastíčnyj), Turkish:Malay:elastik, Japanese:エラスティック (erasutikku)  
 **eletre** *electricity* ← Portuguese:eletricidade, Italian:elettricità, English:electricity, Russian:электричество (električestvo), French:électricité, Spanish:electricidad, Turkish:elektrik  
 **elfe** *elf* ← English:elf, Spanish:Portuguese:elfo, French:elfe, Russian:эльф (el’f), Japanese:エルフ (erufu), Korean:엘프 (elpeu)  
@@ -662,7 +661,6 @@
 **jupe** *skirt* ← French:jupe, Arabic:(jūb), Hausa:jip, Russian:юбка (yubka)  
 **jus** *juice* ← English:juice, Swahili:jusi, Tamil:ஜூஸ் (jūs), Japanese:ジュース (jūsu), Korean:주스 (juseu)  
 **juste** *just (precise, exact, accurate)* ← English:just, French:juste, Spanish:justo, Italian:giusto, Japanese:ジャスト (jasto)  
-**juxa** *injection* ← Mandarin:注射 (zhùshè), Korean:주사 (jusa), Japanese:注射 (chusha)  
 **ka** *than (as, compared to, relative to)* ← Spanish:Portuguese:French:que, Swahili:kumliko, suo:kuin, lao:ກວ່າ (kuā), Filipino:kaysa  
 **kababu** *barbecue (grill)* ← Arabic:Persian:Urdu:  كباب (kabāb), Turkish:Malay:English:Spanish:kebab, Russian:кебаб (kebab), Hindi:कबाब (kabāb), Bengali:কাবাব (kabab), Swahili:kababu  
 **kabile** *tribe* ← Arabic: قَبِيلَة‎ (qabīla), Persian: قبیله‎ (qabile), Hindi:क़बीला (qābilā), Turkish:kabile, Swahili:Hausa:kabila  
@@ -896,9 +894,7 @@
 **lize** *breakdown (-lysis)* ← English:deu:French:-lyse, Spanish:Malay:-lisis, Portuguese:-lise, Russian:-лиз (-liz), Turkish:-liz  
 **loba** *radish* ← Mandarin:萝卜 (luóbo), Cantonese:蘿蔔 (lobaak), Malay:lobak  
 **loga** *register (record, log)* ← English:log + Mandarin:录 (lù), Cantonese:錄 (luk6), Japanese:録 (roku), Korean:록 (rok), Vietnamese:lục  
-**loge** *speech (talk)* ← Greek:λόγος (logos), English:French:-logue, Spanish:Portuguese:-logo, Russian:-лог (-log), Persian:(loğat), Arabic:(luğa), Hindi:लुग़त (luġat), Swahili:lugha, Turkish:lügat, Malay:logat  
-**logika** *logic (deduction)* ← English:logic, Spanish:Portuguese:lógica, Russian:логика (logika), Mandarin:逻辑 (luóji)  
-**loje** *study (research, science, -ology)* ← English:-ology, Spanish:-ología, French:-ologie, Russian:ология (-ologiya), Turkish:-loji  
+**loge** *tell (inform, instruct, pass information)* ← Greek:λόγος (logos), English:French:-logue, Spanish:Portuguese:-logo, Russian:-лог (-log) + Arabic: لُغَة‎ (luğa), Persian: لغت‎ (loğat), Hindi:लुग़त (luġat), Swahili:lugha, Turkish:lügat, Malay:logat  
 **loke** *place (location)* ← English:location, Spanish:lugar, French:localisation, + deu:Turkish:lokal, Polish:lokalny  
 **lona** *discussion (debate, discourse)* ← Mandarin:论 (lùn), Cantonese:論 (leo6), Korean:론 (ron), Japanese:論 (ron), Vietnamese:luận  
 **long** *long (lengthy)* ← English:French:long, deu:lang, Portuguese:longo  
@@ -1298,7 +1294,6 @@
 **rote** *wheel* ← deu:Rad, French:roue, esp:rueda, Portuguese:Malay:roda, English:rotate, Turkish:rotasyon  
 **rubi bau seku** *ruby* ← English:ruby, Portuguese:rubi, Spanish:rubí, French:rubis, deu:Rubin, Russian:рубин (rubin), Japanese:ルビー (rubī)  
 **rubium** *rubidium* ← English:rubidium, French:rubidium, Spanish:rubidio, Portuguese:rubídio, Russian:рубидий, Mandarin:铷 (rú), Japanese:ルビジウム, Korean:루비듐, Vietnamese:rubiđi, Hindi:रुबिडियम, Bengali:রুবিডিয়াম, Malay:rubidium, Swahili:rubidi, Arabic: روبيديوم  
-**ruhu lojia** *psychology* ← Turkish:ruh bilimi, Hindi:मनोविज्ञान (manovigyān), Bengali:মনোবিজ্ঞান (mônobiggan), Malay:ilmu jiwa, Arabic:(ʿilm an-nafs), deu:Seelenkunde, English:psychology, Spanish:psicológia  
 **ruhu** *soul (mind, psyche)* ← Arabic: رُوح‎ (rūḥ), Persian: روح‎ (ruh), Hindi:रूह (rūh), Bengali:রূহ (ruh), Malay:ruh, Swahili:roho, Hausa:ruhu, som:ruux + Russian:дух (duh)  
 **ruke** *back* ← deu:Rücken + deu:English:rucksack, Russian:рюкзак (rjukzak), Japanese: リュックサック (ryukkusakku), Korean:륙색 (ryuksaek)  
 **rul koli** *cabbage* ← Portuguese:couve, Hindi:गोभी (gobhī), Bengali:কপি (kôpi), Malay:kubis  
@@ -1564,7 +1559,6 @@
 **vinil** *vinyl* ← English:vinyl, Spanish:vinilo, Portuguese:vinil, French:vinyle, Russian:винил (vinil), Japanese:ビニル (viniru)  
 **violeta** *pansy (violet, viola)* ← English:Portuguese:French:violet, Spanish:violeta, deu:violett, Russian:фиолетовый (fioletovyy), Japanese:バイオレット (baioretto), Korean:보라 (bola)  
 **virge** *virgin (pristine, virginal; Virgo)* ← English:virgin, French:vierge, Spanish:virgen, Portuguese:virgem  
-**virolojia** *virology* ← Polish:wirusologia, Russian:вирусология (virusologiya)  
 **virus** *virus* ← English:Spanish:French:Malay:virus, Portuguese:vírus, Russian:вирус (virus), Turkish:virüs, Hindi:वाइरस (vāirasa), Japanese:ウイルス (uirusu)  
 **vise** *vice (deputy, alternative, substitute, replacement)* ← English:French:Spanish:Portuguese:vice-, Russian:вице- (vitse-), deu:vize-  
 **vita** *screw* ← French:vis, Italian:vite, Russian:винт (vint), Turkish:vida  

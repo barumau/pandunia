@@ -30,7 +30,7 @@ Afrika - Afrique
 agile - agile  
 agre - cultiver  
 agral - agricole  
-agrobiolojia - agrobiologie  
+agrobiologia - agrobiologie  
 agronomia - agronomie  
 aha - comprendre (réaliser; aha)  
 air - air  
@@ -193,7 +193,7 @@ Australia - Australie
 Austronesi - Austronésie  
 autatike - automatique  
 auter - auteur  
-auto loga - monologue  
+autologe - monologue  
 avakate - avocat  
 avar - dommage  
 ave - avoine  
@@ -333,7 +333,7 @@ berklium - berkélium
 bete - betterave  
 betula - bouleau  
 bier - organisme  
-biolojia - biologie  
+biologia - biologie  
 biosistem - biome  
 biotoxe - toxine  
 bici - fouet  
@@ -465,13 +465,13 @@ darmestadium - darmstadtium
 data - données  
 data banke - base de données  
 data culi - traitement de données  
-data culi lojia - informatique  
+data culi logia - informatique  
 dau bano - panneau de signalisation  
 dau yunte - carrefour  
 dava sui - pocion  
 dava xe - médicament (remède)  
 dava xekan - pharmacie  
-dava xe lojia - pharmacologie  
+dava xe logia - pharmacologie  
 de - de  
 dee - dieu  
 • andeiste - athée  
@@ -484,7 +484,7 @@ deha - village
 dele - délai (retard)  
 demokratia - démocratie  
 • preden - hier  
-den loge - journal  
+den logu - journal  
 dexhanuka - droitier (dextre)  
 dia - jour  
 dia foto - lumière du jour  
@@ -502,10 +502,11 @@ dipe - bas
 dipe moka - buisson  
 diske - disque  
 disprosium - dysprosium  
-dite - dicter  
-• ditater - dictateur  
-• ditateria - dictature  
-• dition - diction  
+dite - dire (parler)  
+ditate - dicter  
+ditater - dictateur  
+ditateria - dictature  
+dition - diction  
 doh - fille  
 dokumen - document (dossier)  
 dokumen filme - documentaire  
@@ -572,7 +573,7 @@ estrontium - strontium
 etan - éthane  
 etanol - éthanol  
 etil - éthyle  
-eu angil - évangile  
+euangil - évangile  
 eu loga - éloge  
 europium - europium  
 Europa - Europe  
@@ -622,7 +623,6 @@ fa kux - coucher
 fa lai - apporter  
 fa lanse grafi - projeter (donner)  
 fa lifafa - envelopper (emballer)  
-fa loga - parler  
 fa loka - mettre (placer)  
 fa maf - pardonner  
 fa memo - se rappeler (se remémorer)  
@@ -695,9 +695,9 @@ filsofe - philosophie
 fin di - fini  
 fiorde - fiord  
 fite - plante (végétal)  
-fitolojia - botanique  
+fitologia - botanique  
 fito yamiste - végétarien  
-fizolojia - physique  
+fizologia - physique  
 flece - flèche  
 flerovium - flérovium  
 flur - fluor  
@@ -788,7 +788,7 @@ gau tehni - hautes technologies
 gazel - gazelle  
 geografia - geographie  
 Geia - Terre  
-geolojia - géologie  
+geologia - géologie  
 geometria - géométrie  
 geopolitia - géopolitique  
 geoterme - géothermique  
@@ -796,12 +796,12 @@ gebre - algèbre
 gem - épée  
 gem dau - kendo  
 gem suta - escrime  
+• sugene - élever  
+gene logia di - génétique  
 gene logu - généalogie  
-gene lojia di - génétique  
 gene tipe - génotype  
-gene yo hevan - élever  
 gensal - général  
-gensolojia - études de genre  
+gensologia - études de genre  
 geo elfe - gnome  
 geo forme - terrain  
 geo kaska plate - plaque tectonique  
@@ -904,8 +904,8 @@ hevan - animal (bête)
 hevan agri suta - élevage  
 hevan bagi - zoo  
 hevan kata - fable  
-hevan lojia - zoologie  
-hevan lojia di - zoologique  
+hevan logia - zoologie  
+hevan logia di - zoologique  
 hidre - hydrogène  
 hidrate - hydrate  
 hidre peroxide - peroxyde d'hydrogène  
@@ -1014,7 +1014,7 @@ juba - robe
 juder - juje  
 judau - judo  
 jul - joule (J)  
-jumla lojia - syntaxe  
+jumla logia - syntaxe  
 jun - jeune (junior)  
 jun moka - pousse  
 junnen - jeunesse  
@@ -1182,7 +1182,7 @@ korona - couronne
 korte kata - nouvelle (récit court)  
 korte krokodil - alligator  
 kosme - cosmos  
-kosmobiolojia - astrobiologie  
+kosmobiologia - astrobiologie  
 kosmike - cosmique  
 kosmonave - vaisseau spatial  
 kosmonaver - cosmonaute  
@@ -1294,10 +1294,9 @@ litium - lithium
 litre - litre  
 livermorium - livermorium  
 lixu - écureuil  
-loge - parole  
+logive - loquace  
 loga - enregistrement  
 loga buku - livre de bord  
-loga tabi di - loquace  
 loke - lieu  
 lokal - local  
 long - long  
@@ -1427,7 +1426,7 @@ migre - migration
 • inmigre - immigrer  
 • inmigrer - immigrant  
 mikrobie - microbe  
-mikrobiolojia - microbiologie  
+mikrobiologia - microbiologie  
 Mikronesia - Micronésie  
 mikroskope - microscope  
 milke - lait  
@@ -1582,8 +1581,8 @@ nuka - cou (encolure, nuque)
 nume - nombre (numéro; contar)  
 numerike - numérique  
 numograme - ciffre  
-numolojer - mathématicien  
-numolojia - mathématiques (maths)  
+numologer - mathématicien  
+numologia - mathématiques (maths)  
 o - ou  
 
 ## O  
@@ -1627,7 +1626,7 @@ pace bahai bakalau - morue du Pacifique
 pacisme - pacifisme  
 paciste - pacifiste  
 paci - oiseau  
-paci lojia - ornithologie  
+paci logia - ornithologie  
 pada di - chu  
 pada mosim - automne  
 pagri - turban  
@@ -1671,7 +1670,7 @@ pasta petra - magma
 patogener - agent pathogène  
 patike - patient  
 patekan - hôpital  
-patolojia - pathologie  
+patologia - pathologie  
 patomise - infection (contagion)  
 pau gi - pistolet  
 pauze - pause  
@@ -1728,7 +1727,7 @@ piza - pizza
 plan - plan  
 plaste paste - pâte à modeler  
 plate geiste - terreplatiste  
-plate geo kaskalogi - tectonique des plaques  
+plate geo kaskelogia - tectonique des plaques  
 plate stan - plaine  
 platin - platine  
 plumbe - plomb  
@@ -1815,7 +1814,7 @@ rang mate - colorant
 rase - race  
 rasa medi - interracial  
 ration - raisonnement  
-ratolojia - logique  
+ratologia - logique  
 ratibu - ordre  
 realisme - réalisme  
 realta - réalité  
@@ -1854,7 +1853,7 @@ rubi bau seku - rubis
 rubi orange - mandarine  
 rubi salmon - saumon sockeye  
 ruhu - psyché  
-ruhu lojia - psychologie  
+ruhu logia - psychologie  
 ruhu mixe di - perplexe (désorienté)  
 rul - rouleau  
 rulete - roulette  
@@ -1894,7 +1893,7 @@ sama - ciel
 samarium - samarium  
 san - savoir  
 sanateria - sanatorium  
-san lojia - épistémologie  
+san logia - épistémologie  
 sanduice - sandwich  
 sanga - ordre  
 sante kanon - saintes écritures   
@@ -1914,10 +1913,10 @@ sel - conseil
 konseler - consultant (conseiller)  
 selenium - sélénium  
 selge - blettes (bettes)  
-selu lojia - cytologie  
+selu logia - cytologie  
 seme - signifier (voiloir dire)  
 semoforer - sémaphore  
-semolojia - sémantique  
+semologia - sémantique  
 seme - semence  
 seme di - séminal  
 sen - aîné (senior, supérieur)  
@@ -1935,7 +1934,7 @@ seria - série
 serser - chaîne  
 sexu - sexe  
 • ansexual - asexué  
-sexulojia - sexologie  
+sexulogia - sexologie  
 si - si  
 siborgium - seaborgium  
 sifa loga - adjectif  
@@ -2032,7 +2031,7 @@ tegule - tuile
 tege pote - tagine  
 tehne - technique  
 tehnetium - technétium  
-tehnolojia - technologie  
+tehnologia - technologie  
 tela - tissu  
 tela gi - métier à tisser  
 tele fon - téléphone  
@@ -2085,7 +2084,7 @@ topografia - topographie
 tore - tour  
 torium - thorium  
 tortuga - tortue  
-toxolojia - toxicologie  
+toxologia - toxicologie  
 tragike - tragique  
 tragokomike - tragicomique  
 tragodia - tragédie  

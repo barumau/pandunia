@@ -47,7 +47,7 @@ Afrika - Afryka
 agile - zwinny, sprawny  
 agre - uprawić, uprawiać  
 agral -   
-agrobiolojia -   
+agrobiologia -   
 agrer - rolnik, farmer  
 agrokulte -   
 agronomia - agronomia  
@@ -89,7 +89,7 @@ algometria -
 alga - alga (wodorost)  
 alga fungu - porost  
 alga jangal - las wodorostów  
-algalojia - algologia  
+algalogia - algologia  
 alkan -   
 alken -   
 alkil -   
@@ -249,8 +249,8 @@ auter -
 autokratia - monarchia  
 autonomia - autonomia  
 autonomike - autonomiczny  
-auto loga - monolog  
-auto move - samobieżny  
+autologe - monolog  
+automove - samobieżny  
 avakate - awokado  
 avar - obrażenia (rana, krzywda)  
 avarike -   
@@ -385,7 +385,7 @@ bauite - klejnot
 baxe - język; komunikacja; mówić  
 baxe kanun - gramatyka  
 baxe kanun di - gramatyczny  
-baxe lojia - językoznastwo  
+baxe logia - językoznastwo  
 baya - zatoka  
 baze - podstawa, baza, fundament  
 baze bol - bejsbol (baseball)  
@@ -502,8 +502,8 @@ beton - beton
 betula - brzoza  
 bie - organiczny  
 bier - życie organiczne  
-biofizolojia -   
-biolojia - biologia (nauka o życiu)  
+biofizologia -   
+biologia - biologia (nauka o życiu)  
 biosistem - biom  
 biotoxe - toksyna  
 Biblia - Biblia  
@@ -800,7 +800,7 @@ darviniste - darwinista
 data - dane  
 data banke - baza danych (bank danych)  
 data culi -   
-data culi lojia - informatyka  
+data culi logia - informatyka  
 data fen lize -   
 data table - tablioca, macierz  
 dau - droga, szosa, ulica  
@@ -810,11 +810,11 @@ dauiste - taoista
 dau yunte -   
 dava - uleczyć, leczyć, uzdrowić, uzdrawiać  
 davaer - doktor, lekarz, uzdrowiciel  
-dava lojia - medycyna  
+dava logia - medycyna  
 dava sui - eliksir (magiczny napój)  
 dava xe -   
 dava xekan -   
-dava xe lojia -   
+dava xe logia -   
 de - z (od)  
 de - z (partykuła posiadania)  
 dee - bóg, bóstwo  
@@ -824,7 +824,7 @@ deisme - teizm
 deiste - teistyczny  
 deokata - mit (boska opowieść)  
 deokratia - teokracja  
-deojojia - teologia  
+deologia - teologia  
 deonagre grame - dewanagari  
 deosofia - teozofia  
 defe - obrona  
@@ -845,7 +845,7 @@ deme polita - populacja
 demon - demon  
 den -   
 • preden - wczoraj  
-den loge -   
+den logu -   
 des - dziesięć (10)  
 des kilo - dziesięć tysięcy  
 desen - rysunek, obraz  
@@ -889,13 +889,14 @@ dipe moka - krzak (krzew)
 dipe tela - dywan  
 diske - dysk  
 disprosium - dysproz  
-dite - dyktować  
+dite - mówić, rozmawiać  
 • kontredite -   
 • predite -   
 • predition -   
-• ditater - dyktator  
-• ditateria - dyktatura  
-• dition -   
+ditate - dyktować  
+ditater - dyktator  
+ditateria - dyktatura  
+dition -   
 Divehi - Malediwy (Republika Malediwów)  
 doh - córka  
 doh doh -   
@@ -1008,7 +1009,7 @@ einsteinium - einstein
 Eire - Irlandia  
 ekal - środowiskowy, naturalny  
 ekia - natura, środowisko  
-ekolojia - ekologia (nauka o środowisku)  
+ekologia - ekologia (nauka o środowisku)  
 ekonative - dziki  
 Ekuador - Ekwador  
 elastike - elastyczny  
@@ -1056,11 +1057,12 @@ etanol -
 etil -   
 Etiopia - Etiopia  
 eu - korzystny (dobry)  
-eu angil - ewangelia  
-eu deu sim -   
-eu gene sim -   
+euangil - ewangelia  
+eudeisme -   
+eugenisme -   
 eu loga - laudacja  
-eutopi -   
+euloga -   
+eutopia -   
 Eurasia - Eurazja  
 eureka - znaleźć, znajdywać, odkryć, odkrywać  
 euro - euro (€)  
@@ -1123,7 +1125,6 @@ fa englix kitaba - anglizować (zanglizować)
 fa eskale - wspinać się (wspiąć się)  
 fa eskulte - rzeźbić  
 fa estude -   
-fa eu loga -   
 fa fantazi - wyobrazić, wyobrażać, fantazjować  
 fa fatu -   
 fa fei - latać, lecieć  
@@ -1164,13 +1165,11 @@ fa ici - chcieć (pragnąć)
 fa in -   
 fa in klus -   
 fa jaga - obudzić, budzić  
-fa jama - kolekcjonować, zebrać, zbierać  
 fa jang -   
 fa javabu - odpowiedzieć, odpowiadać  
 fa jela - uwięzić, więzić, pozbawić wolności  
 fa jong - centrować, skupić, skupiać  
 fa jui -   
-fa juxa - wstrzyknąć, wstrzykiwać  
 fa kai - otworzyć, otwierać  
 fa kaka - defekować, srać  
 fa kanal - kierować (doprowadzać, prowadzić, służyć jako kanał)  
@@ -1201,7 +1200,6 @@ fa lifafa - zawijać (zawinąć)
 fa liga - stowarzyszać się (zrzeszać się)  
 fa lika - wzmocnić (wzmocnić, wzmóc)  
 fa linke - łączyć, wiązać, złączyć  
-fa loga - mówić, rozmawiać  
 fa loka - umieścić (postawić)  
 fa lona - debatować, prowadzić dyskurs  
 fa long - przedłużyć, przedłużać  
@@ -1432,7 +1430,7 @@ fine - delikatny, cienki, lekki
 fiorde - fiord  
 firuze - turkus  
 fite - roślina, sadzonka  
-fitolojia - botanika  
+fitologia - botanika  
 fito yamiste - wegetarianin  
 fixe - przyczepić, przymocować  
 • afixe - afiks  
@@ -1442,8 +1440,8 @@ fize -
 fizike -   
 fizike gi -   
 fizologer - fizyka  
-fizolojia - fizyka  
-• metafizolojia -   
+fizologia - fizyka  
+• metafizologia -   
 flam -   
 flece - strzała (bełt)  
 flecer - wytwórca łuków i strzał  
@@ -1467,7 +1465,7 @@ fon -
 fone - głoska  
 foneme - fonem  
 fonologe -   
-fonolojia - fonologia  
+fonologia - fonologia  
 fone zi - litera, znak  
 fonte - fontanna (studnia, źródło)  
 fonte kalam -   
@@ -1631,7 +1629,7 @@ gazeter - dziennikarz
 gee - ziemia, grunt, gleba  
 geografia -   
 Geia -   
-geolojia - geologia  
+geologia - geologia  
 geometria -   
 geopolitia -   
 geoterme -   
@@ -1644,20 +1642,20 @@ gem dau -
 gemer - gracz  
 gem suta -   
 gene -   
-genolojia -   
 • exgene -   
 • poligene -   
+• sugene - rozmnażać  
 • ungene -   
 gene di - surowy (niedojrzały)  
 gene grupe - pokolenie (generacja)  
 gene klas - kasta  
+genologia -   
+gene logia di -   
 gene logu - genealogia  
-gene lojia di -   
 gene tipe - genotyp  
-gene yo hevan - rozmnażać  
 gense -   
 gensal -   
-gensolojia -   
+gensologia -   
 geo dou - orzech ziemny  
 geo elfe -   
 geo forme - teren  
@@ -1891,8 +1889,8 @@ hevan bagi - zoo (ogród zoologiczny)
 hevan fili -   
 hevan geo grafi -   
 hevan kata - bajka  
-hevan lojia - zoologia  
-hevan lojia di - zoologiczny  
+hevan logia - zoologia  
+hevan logia di - zoologiczny  
 hevan toxi -   
 hibride - hybryda; kundel  
 hidre - wodór  
@@ -1927,7 +1925,7 @@ histor - historia; annały, roczniki
 historer - historyk  
 historia -   
 • prehistoria -   
-historolojia - historia, badanie historii  
+historologia - historia, badanie historii  
 hiyar - ogórek  
 Ho Ci Min site - Ho Chi Minh (Sajgon)  
 hobi - hobby  
@@ -2076,6 +2074,7 @@ jaija -
 jain din - dźinizm, dżinizm  
 Jakarta - Dżakarta  
 jake - kurtka  
+jame - kolekcjonować, zebrać, zbierać  
 • ajame - spotkać (spotkanie, zebranie)  
 • anjame - rozproszyć, rozpraszać  
 • anjame di - rzadki (rozrzedzony, rozproszony)  
@@ -2104,7 +2103,7 @@ jebe - kieszeń
 jebe caku -   
 jeka - pożyczyć  
 jeka don - pożyczać komuś (pożyczyć komuś)  
-jeka loga - zapożyczenie (wyraz obcy)  
+jeka lexe - zapożyczenie (wyraz obcy)  
 jeka na - pożyczać (pożyczyć)  
 jela - więzienie, kara więzienia, kara pozbawienia wolności  
 jela ja - strażnik więzienny  
@@ -2121,7 +2120,8 @@ jensen - żeń-szeń
 Jerze - Jersey  
 jete -   
 • exjete -   
-• injete - zastrzyk (wstrzyknąć, wstrzykiwać)  
+• injete - wstrzyknąć, wstrzykiwać  
+• injetaje - zastrzyk  
 • projete - projekt, planowane przedsięwzięcie  
 • rejete -   
 jete grafe - wyświetlać (rzut, projekcja)  
@@ -2151,7 +2151,7 @@ jui di -
 jui note -   
 jul - dżul (J)  
 jumla - zdanie (fraza)  
-jumla lojia -   
+jumla logia -   
 jun - młody  
 jun bei -   
 jun bra -   
@@ -2168,7 +2168,6 @@ jupe - spódnica
 jus - sok  
 juste - tylko (precyzyjny, dokładny)  
 juste pauer - snajper (strzelec wyborowy)  
-juxa - zastrzyk  
 
 ## K  
 
@@ -2423,7 +2422,7 @@ klas - klasa, kategoria
 klien -   
 klike -   
 klima - klimat  
-klimalojia - klimatologia  
+klimalogia - klimatologia  
 klima mute - zmiana klimatu  
 klin - tendencja (być skłonnym)  
 klon - klon, replika  
@@ -2456,7 +2455,7 @@ komodia - komedia
 koma - przecinek  
 Komoro nesia - Komory  
 kompani - firma, kompania, korporacja  
-komputa hor loga gi -   
+komputa hor loger -   
 kon - wspólny (wzajemny)  
 kon bon - pasować  
 koncanisme - komunizm  
@@ -2491,7 +2490,7 @@ korte kata -
 korte krokodil - aligator  
 kosi - szyć  
 kosme - kosmos, wszechświat  
-kosmobiolojia -   
+kosmobiologia -   
 kosmike - kosmiczny  
 kosmonave -   
 kosmonaver - kosmonauta  
@@ -2659,10 +2658,14 @@ leu di - lewy (lewostronny, z lewej strony)
 leuiste - lewicowiec (lewak)  
 lexe - słowo  
 lexal - słowny (leksykalny)  
+lexal ironia - sarkazm  
 lexasle - etymologia  
 lexeme - leksem  
 lexe fen - sylaba (zgłoska)  
+lexofilia -   
+lexofiliste - logofil (miłośnik słów)  
 lexe gense - rodzaj gramatyczny  
+lexograme -   
 lexe jama - słownictwo  
 lexe liste - lista słów  
 li -   
@@ -2717,21 +2720,17 @@ livermorium - liwermor
 lixu - wiewiórka  
 lize -   
 loba - rzodkiewka  
-loge - mowić (mowa)  
-logal -   
-logofilia -   
-logofiliste - logofil (miłośnik słów)  
-logograme -   
+loge -   
+logia -   
+• duologia -   
+• trilogia -   
+logike - logika, dedukcja  
+logikal - logiczny  
+logive - rozmowny  
+loga - rejestr  
 • exloga -   
 • inloga -   
-loga - rejestr  
 loga buku - dziennik pokładowy (notatnik)  
-loga ironi - sarkazm  
-loga tabi di - rozmowny  
-logika - logika, dedukcja  
-logika di - logiczny  
-loje - nauka, badanie, studiowanie  
-lojosafarer - poszukiwacz (badacz, eksplorator)  
 loke - miejsce, lokacja  
 lokal - miejscowy, lokalny  
 loke kode -   
@@ -2872,8 +2871,8 @@ master - mistrz (ekspert)
 master de arte (MA) -   
 master de engenia (ME) -   
 master de filsofia (MF) -   
-master de lojia (ML) -   
-master de tehnolojia (MT) -   
+master de logia (ML) -   
+master de tehnologia (MT) -   
 masta - maszt  
 mata - umrzeć (umierać; śmierć; martwy, nieżywy, zabity)  
 mata badan -   
@@ -3000,7 +2999,7 @@ migre - migracja
 • inmigre -   
 • inmigrer -   
 mikrobie - mikroorganizm  (mikrob)  
-mikrobiolojia - mikrobiologia  
+mikrobiologia - mikrobiologia  
 Mikronesia - Mikronezja  
 mikroskope - mikroskop  
 mili gram - miligram  
@@ -3084,7 +3083,7 @@ Mongol - Mongolia
 mongol di - Mongolski  
 moral - moralność, etyka  
 moral di - moralny  
-moral lojia - etyka  
+moral logia - etyka  
 Moris - Mauritius  
 mos - mech  
 mos di - omszały (mszysty)  
@@ -3333,8 +3332,8 @@ nuka -
 nume - numer (liczyć)  
 numerike - cyfrowy  
 numograme -   
-numolojer - matematyk  
-numolojia - matematyka  
+numologer - matematyk  
+numologia - matematyka  
 o - lub, albo  
 
 ## O  
@@ -3410,7 +3409,7 @@ pace bahai bakalau - dorsz pacyficzny
 pacisme - pacyfizm  
 paciste - pacyfista  
 paci - ptak  
-paci lojia - ornitologia  
+paci logia - ornitologia  
 pada - paść, padać, upaść, upadać  
 pada di - upadły  
 pada mosim - jesień  
@@ -3503,7 +3502,7 @@ patogener - patogen
 patike - pacjent  
 patike - chory  
 patekan - szpital  
-patolojia - patologia  
+patologia - patologia  
 patomise - infekcja (zakażenie)  
 pata -   
 patate - ziemniak  
@@ -3621,7 +3620,7 @@ plate - płaszczyzna (płyta)
 plate di - płaski  
 plate forma - platforma  
 plate geiste - płaskoziemca  
-plate geo kaskalogi - tektonika płyt  
+plate geo kaskelogia - tektonika płyt  
 plate stan - równina (plaskowyż, plateau)  
 plate tasa - talerz  
 platin - platyna  
@@ -3652,7 +3651,7 @@ poliser - oficer policji, policjant
 poliskan -   
 polite - rząd  
 politike - polityk  
-politolojia - politologia  
+politologia - politologia  
 politi di - polityczny  
 politi lona - polityka  
 politi mode -   
@@ -3806,8 +3805,8 @@ rate - mieć sens
 ration - rozum, rozsądek  
 rational - racjonalny, rozsądny  
 ratekan -   
-ratolojia - logika, dedukcja  
-ratolojike - logiczny  
+ratologia - logika, dedukcja  
+ratologike - logiczny  
 ratibu - porządek  
 ratibu li -   
 re -   
@@ -3885,7 +3884,7 @@ rubi orange - mandarynka
 rubi salmon - nerka (łosoś czerwony)  
 ruhu - dusza, duch, umysł  
 ruhu di - umysłowy (psychiczny)  
-ruhu lojia - psychologia  
+ruhu logia - psychologia  
 ruhu mixe - mylić (gmatwać, zmieszać, konsternować)  
 ruhu mixe di - smieszany (skonfudowany)  
 ruke - placy  
@@ -3975,7 +3974,7 @@ Samoa - Samoa
 san - wiedzieć  
 • ansan di - dziwny (nieznany)  
 sanateria -   
-san lojia - epistemologia (gnoseologia, teoria poznania)  
+san logia - epistemologia (gnoseologia, teoria poznania)  
 san vol - zainteresowanie, zaciekawienie; interesujący  
 san vol di - interesujący  
 san vol ja - ciekawy  
@@ -4025,13 +4024,13 @@ konseler -
 selenium - selen  
 selge - boćwina (botwina)  
 selu - komórka (biologia)  
-selu lojia - cytologia  
+selu logia - cytologia  
 seme - znaczyć  
 sememe -   
 semoforer -   
 • polisemike - wieloznaczny  
 • unsemike - jednoznaczny  
-semolojia -   
+semologia -   
 seme - ziarno (nasienie)  
 seme dana - ziarno, nasienie  
 seme di - nasienny  
@@ -4075,7 +4074,7 @@ sexu - płeć
 sexu - seks, stosunek płciowy  
 sexual - płciowy  
 • ansexual - aseksualny  
-sexulojia - seksuologia  
+sexulogia - seksuologia  
 si - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
 Sibiria - Syberia  
 siborgium - seaborg  
@@ -4113,7 +4112,7 @@ sis -
 sis doh -   
 sis son -   
 sisme - trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi)  
-sismolojia - sejsmologia  
+sismologia - sejsmologia  
 sistem - system  
 sistem di - systemowy  
 sita - cytować  
@@ -4315,7 +4314,7 @@ tege pote -
 tehne - technika, technologia  
 tehnetium - technet  
 tehnokratia - technokracja  
-tehnolojia - technologia, nauka o technikach  
+tehnologia - technologia, nauka o technikach  
 tela - tkanina (materiał, sukno)  
 tela gi - krosno  
 tele - dystans  
@@ -4423,7 +4422,7 @@ torso - tułów
 tortuga - żółw  
 toxe - trucizna (toksyna)  
 toxike - toksyczny (trujący)  
-toxolojia -   
+toxologia -   
 tra -   
 tragona di - przekątny  
 tralongta -   
@@ -4659,7 +4658,7 @@ vin suan - ocet
 vinil - winyl  
 violeta -   
 violeta nil - fioletowy  
-virolojia - wirusologia  
+virologia - wirusologia  
 virus - wirus  
 virge -   
 virge di -   

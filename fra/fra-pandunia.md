@@ -47,7 +47,7 @@ agressif - agresevi
 agressif - agresive  
 agression (attaque; agresser, attaquer) - agrese  
 agricole - agral  
-agrobiologie - agrobiolojia  
+agrobiologie - agrobiologia  
 agronomie - agronomia  
 aide (secours) - mede  
 ail - lasun  
@@ -188,7 +188,7 @@ astate - astatin
 asthme - asma  
 astral - astral  
 astre (corps céleste) - astre  
-astrobiologie - kosmobiolojia  
+astrobiologie - kosmobiologia  
 astronaute - astronaver  
 astronef - astronave  
 astronome - astronomer  
@@ -286,7 +286,7 @@ bien-être - salta
 bilingue - dubaxike  
 bilingue - dubaxike  
 billet - tikete  
-biologie - biolojia  
+biologie - biologia  
 biome - biosistem  
 biscuit - biskute  
 bismuth - bismute  
@@ -308,7 +308,7 @@ bonbon - kandi
 bonne (domestique) - aya  
 bord - kinar  
 boron - boron  
-botanique - fitolojia  
+botanique - fitologia  
 botte - buta  
 boucher - karnizer  
 bouclire - defe bano  
@@ -622,7 +622,7 @@ curium - kurium
 curry - kari  
 cyan (turquois) - cian  
 cycliste - sikliste  
-cytologie - selu lojia  
+cytologie - selu logia  
 célérité - sirta  
 cérium - ceresium  
 cérébral - nau di  
@@ -653,7 +653,7 @@ diamant - adamas
 dichotomie - dutomia  
 dictateur - ditater  
 dictature - ditateria  
-dicter - dite  
+dicter - ditate  
 diction - dition  
 dieu - dee  
 différence - alo sifa  
@@ -663,6 +663,7 @@ dinde (dindon) - dinde
 dinosaure - dino saur  
 diorite - diorite  
 dioxyde de carbone - karbe duoxide  
+dire (parler) - dite  
 directeur (principal) - xule xefe  
 dirigeant (leader) - lider  
 disque - diske  
@@ -941,8 +942,8 @@ généralissime - ordu raja
 généreux - don tabi  
 généreux - karim di  
 générosité (charité) - karim  
-génétique - gene lojia di  
-géologie - geolojia  
+génétique - gene logia di  
+géologie - geologia  
 géométrie - geometria  
 géopolitique - geopolitia  
 géothermique - geoterme  
@@ -1047,7 +1048,7 @@ infection - infete
 infidèle (incroyant) - andiniste  
 infidèle (incroyant) - ankreder  
 inflammation - tis  
-informatique - data culi lojia  
+informatique - data culi logia  
 infrastructure - baze strute  
 inférer - infere  
 ingénierie (génie) - engenia  
@@ -1088,7 +1089,7 @@ jonction - yuntion
 joug - yuge  
 joule (J) - jul  
 jour - dia  
-journal - den loge  
+journal - den logu  
 judo - judau  
 juje - juder  
 junte - zalim yunte  
@@ -1182,12 +1183,12 @@ livermorium - livermorium
 livre - buku  
 livre de bord - loga buku  
 local - lokal  
-logique - ratolojia  
+logique - ratologia  
 loin (hors, parti) - for  
 loin - to long  
 long - long  
 longtemps - long dura  
-loquace - loga tabi di  
+loquace - logive  
 loquet - kane sor  
 louche (cuillère à pot) - pote camaca  
 loup - volfe  
@@ -1259,8 +1260,8 @@ match - mece
 matelas - matras  
 matelot - bahai vala  
 maternel - ma di  
-mathématicien - numolojer  
-mathématiques (maths) - numolojia  
+mathématicien - numologer  
+mathématiques (maths) - numologia  
 matière - made  
 maté - mate cai  
 matérialisme - madisme  
@@ -1291,7 +1292,7 @@ messie - mesi
 mettre (placer) - fa loka  
 meule - molite  
 microbe - mikrobie  
-microbiologie - mikrobiolojia  
+microbiologie - mikrobiologia  
 Micronésie - Mikronesia  
 microscope - mikroskope  
 midi - medi dia  
@@ -1319,7 +1320,7 @@ monde - dunia
 monnaie (pièce) - pesa diske  
 monocle - un yen di lense  
 monogramme - monograme  
-monologue - auto loga  
+monologue - autologe  
 monstre - mostre  
 mordre - fa dante  
 mordre - gate a dante  
@@ -1483,7 +1484,7 @@ organisme - bier
 orge - jau  
 origine - asle  
 originel - aslike  
-ornithologie - paci lojia  
+ornithologie - paci logia  
 orphelinat - yatim dom  
 orthogonal - orto gona di  
 osmium - osmium  
@@ -1539,8 +1540,6 @@ parent (géniteur) - cin
 parfait - perfete  
 Paris - Paris  
 parité - parta  
-parler - fa loga  
-parole - loge  
 paronyme - paranam  
 part - fen  
 partenaire - partaner  
@@ -1552,7 +1551,7 @@ passer - pas
 passerelle - nave trepe  
 pastèque - arbuza  
 paternel - pa di  
-pathologie - patolojia  
+pathologie - patologia  
 patient - patike  
 patrie - dom gogia  
 patrie - patria  
@@ -1587,7 +1586,7 @@ peuple - pope
 peut-être - bil es  
 peut-être - bil ki  
 pharmacie - dava xekan  
-pharmacologie - dava xe lojia  
+pharmacologie - dava xe logia  
 phase - faze  
 philosophie - filsofe  
 phosphate - fosfate  
@@ -1595,7 +1594,7 @@ phosphore - fosfe
 photographie - fotografe  
 photographie - fotografia  
 photon - foton  
-physique - fizolojia  
+physique - fizologia  
 phénol - fenol  
 pierre - ite  
 pierre - seku  
@@ -1743,7 +1742,7 @@ présent - zai di
 président - presidente  
 prêter (empruntre) - jeka  
 prêter - jeka don  
-psychologie - ruhu lojia  
+psychologie - ruhu logia  
 psyché - ruhu  
 pudding - puding  
 puits de pétrole - nafte fonte  
@@ -1940,7 +1939,7 @@ serrure - tala
 serviette - tuale  
 seul (unique) - un di  
 sexe - sexu  
-sexologie - sexulojia  
+sexologie - sexulogia  
 Shiva - xiva  
 shopping - xope  
 si - si  
@@ -2002,10 +2001,10 @@ svastika (croix gammée) - huke krus
 syllabe - lexe fen  
 symbole - simbol  
 symétrie - sammetria  
-syntaxe - jumla lojia  
+syntaxe - jumla logia  
 syntaxe - sintaxe  
 sélénium - selenium  
-sémantique - semolojia  
+sémantique - semologia  
 sémaphore - semoforer  
 séminal - seme di  
 sénateur - senater  
@@ -2033,9 +2032,9 @@ taupe - krote
 taximètre - taximetrer  
 taxinomie - taxonomia  
 technique - tehne  
-technologie - tehnolojia  
+technologie - tehnologia  
 technétium - tehnetium  
-tectonique des plaques - plate geo kaskalogi  
+tectonique des plaques - plate geo kaskelogia  
 tellure - telurium  
 temple - pujakan  
 temps - zaman  
@@ -2090,7 +2089,7 @@ tour - tore
 tour de guet (tour de garde) - garde tor  
 touriste - turiste  
 Tournesol - sol hua  
-toxicologie - toxolojia  
+toxicologie - toxologia  
 toxine - biotoxe  
 trace - marke  
 tracteur - trater  
@@ -2256,8 +2255,8 @@ zirconium - zirkonium
 zombi - zombi  
 zone - zone  
 zoo - hevan bagi  
-zoologie - hevan lojia  
-zoologique - hevan lojia di  
+zoologie - hevan logia  
+zoologique - hevan logia di  
 Zoroastre - Zarduxte  
 zoroastrien - zarduxtiste  
 zoroastrisme - zarduxtisme  
@@ -2288,7 +2287,7 @@ zéro - siro
 électricité - eletre  
 électrolyse - eletrolize  
 élevage - hevan agri suta  
-élever - gene yo hevan  
+élever - sugene  
 éloge - eu loga  
 élément chimique - kimeme  
 émeraude - ezmurude  
@@ -2299,7 +2298,7 @@ zéro - siro
 émotion - gamo  
 épices - masala  
 épingle - pin  
-épistémologie - san lojia  
+épistémologie - san logia  
 éponge - esponje  
 époux - gam per  
 épreuve - teste  
@@ -2316,14 +2315,14 @@ zéro - siro
 étinceler - fa sing foto  
 étoile - xing  
 étude - stude  
-études de genre - gensolojia  
+études de genre - gensologia  
 étudiant - studer  
 étudiant - xuler  
 étudier - fa estude  
 étymologie - lexasle  
 été - garma mosim  
 évaluer - fa valu  
-évangile - eu angil  
+évangile - euangil  
 éveillé - jaga  
 éventail - sanzi  
 évident - exvidebil  

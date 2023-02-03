@@ -122,7 +122,7 @@ auro - oro
 Australia - Aŭstralio  
 Austronesi - Aŭstronezio  
 auter - aŭtoro  
-auto move - memmova  
+automove - memmova  
 avakate - avokado  
 avar - damaĝo  
 avarive - damaĝa  
@@ -207,7 +207,7 @@ bauite - juvelo
 baxe - lingvo (paroli, komuniki)  
 baxe kanun - gramatiko  
 baxe kanun di - gramatika  
-baxe lojia - lingvistiko  
+baxe logia - lingvistiko  
 baze - bazo  
 baze bol - basbalo  
 bazike - baza  
@@ -262,7 +262,7 @@ beton - betono
 betula - betulo  
 bie - orgaaninen (biologinen)  
 bier - organismo  
-biolojia - biologio  
+biologia - biologio  
 Biblia - Biblio  
 Biblia di - biblia  
 bibre - kastoro  
@@ -419,7 +419,7 @@ dante hin - sendenta
 darba - bati  
 data - datumo  
 data banke - datumbanko  
-data culi lojia - komputoscienco  
+data culi logia - komputoscienco  
 data table - tabelo  
 dau - vojo  
 dava - sanigi (kuraci)  
@@ -431,7 +431,7 @@ deike - dia
 • andeiste - ateisto  
 deokata - mito  
 deokratia - teokratio  
-deojojia - teologio  
+deologia - teologio  
 defe - defendo  
 defer - defendanto (defendisto)  
 deha - vilaĝo  
@@ -442,7 +442,7 @@ demokratike - demokratia
 demon - demono  
 den - tago (periodo de 24 horoj)  
 • preden - hieraū  
-den loge - taglibro  
+den logu - taglibro  
 des - dek (10)  
 des kilo - dek miloj  
 desen - desegno  
@@ -467,8 +467,9 @@ dingi - najlo
 dino saur - dinosaŭro  
 diske - disko  
 disprosium - disprozio  
-• ditater - diktatoro  
-• ditateria - diktaturo  
+dite - diri (paroli)  
+ditater - diktatoro  
+ditateria - diktaturo  
 doh - filino  
 dokumen - dokumento  
 dokumen filme - dokumentfilmo  
@@ -541,7 +542,7 @@ esperanto - Esperanto
 Esti - Estonio  
 estrontium - stroncio  
 Etiopia - Etiopio  
-eu angil - evangelio  
+euangil - evangelio  
 Eurasia - Eŭrazio  
 eureka - trovi  
 euro - eŭro  
@@ -591,7 +592,6 @@ fa halte - haltigi
 fa hapu - taŭgigi  
 fa hava - venti  
 fa hisabu - kalkuli  
-fa jama - kolekti (kunigi)  
 fa javabu - respondi  
 fa jela - malliberigi  
 fa kai - malfermi  
@@ -605,7 +605,6 @@ fa kopi - kopii
 fa lai - alporti (venigi)  
 fa lenxi - ekzerci  
 fa liga - aligi  
-fa loga - paroli  
 fa loka - lokigi  
 fa long - longigi  
 fa maf - pardoni  
@@ -689,10 +688,10 @@ fine - fajna
 fiorde - fjordo  
 firuze - turkiso  
 fite - planto  
-fitolojia - plantscienco (botaniko)  
+fitologia - plantscienco (botaniko)  
 fixe - fiksi  
 fizologer - fizikisto  
-fizolojia - fiziko  
+fizologia - fiziko  
 • reflexe sonde - eĥo  
 flur - fluoro  
 fobia - timo (fobio)  
@@ -892,8 +891,8 @@ hesium - hasio
 hevan - besto  
 hevan bagi - zoo (bestoĝardeno)  
 hevan kata - bestofabelo  
-hevan lojia - zoologio  
-hevan lojia di - zoologia  
+hevan logia - zoologio  
+hevan logia di - zoologia  
 hibride - miksulo  
 hidre - hidrogeno  
 hima - neĝo  
@@ -910,7 +909,7 @@ hisabe - kalkuli
 hisabu loge - konto  
 histor - historio  
 historer - historiisto  
-historolojia - historio (studo de historio)  
+historologia - historio (studo de historio)  
 hiyar - kukumo  
 hobi - hobio  
 hogo - fajro  
@@ -981,6 +980,7 @@ jaga - uyanık
 jai - venki  
 jain din - Ĝajnismo  
 jake - jako  
+jame - kolekti (kunigi)  
 • anjame - disigi  
 jamive - kolekta  
 Jamaika - Jamajko  
@@ -1148,7 +1148,7 @@ kivi frute - kivo
 klar - klara  
 klar! - kompreneble  
 klima - klimato  
-klimalojia - klimatscienco  
+klimalogia - klimatscienco  
 klin - emo (inklino, tendenco)  
 klon - klono  
 klor - kloro  
@@ -1257,6 +1257,7 @@ lexal - vorta
 lexasle - etimologio  
 lexeme - leksemo  
 lexe fen - silabo  
+lexograme - logogrammi (logo)  
 lexe jama - vortaro  
 lexe liste - vortaro  
 libele - libelo  
@@ -1277,14 +1278,10 @@ litium - litio
 litre - litro  
 lixu - sciuro  
 loba - rafaneto  
-loge - paroli  
-logal - parola  
-logograme - logogrammi (logo)  
+logike - logiko  
+logikal - logika  
+logive - parolema  
 loga - registraĵo  
-loga tabi di - parolema  
-logika - logiko  
-logika di - logika  
-loje - scienco  
 loke - loko  
 lokal - loka  
 long - longa  
@@ -1383,7 +1380,7 @@ mien - nudelo
 migre - migrado  
 mikre - mikro-  
 mikrobie - mikrobo  
-mikrobiolojia - mikrobiologio  
+mikrobiologia - mikrobiologio  
 mikroskope - mikroskopo  
 mili - mili-  
 mili mitre - milimetro  
@@ -1531,8 +1528,8 @@ note buku - kajero
 note xe - noto (rimarko, komento)  
 nu - nu  
 nume - nombro  
-numolojer - matematikisto  
-numolojia - matematiko  
+numologer - matematikisto  
+numologia - matematiko  
 o - aŭ  
 
 ## O  
@@ -1571,7 +1568,7 @@ pace - paco
 pacisme - pacifismo  
 paciste - pacifisto  
 paci - birdo  
-paci lojia - ornitologio  
+paci logia - ornitologio  
 pada mosim - aŭtuno  
 pai - torto  
 pake - pako  
@@ -1609,7 +1606,7 @@ pasporte - pasporto
 patike - paciento  
 patike - malsana  
 patekan - malsanulejo  
-patolojia - patologio  
+patologia - patologio  
 patomise - infekto  
 patate - terpomo  
 pau gi - fusilo  
@@ -1729,8 +1726,8 @@ rasisme - racismo
 rasiste - racisto  
 rasa medi - interrasa  
 ration - rezono  
-ratolojia - logiko  
-ratolojike - logika  
+ratologia - logiko  
+ratologike - logika  
 ree - realaĵo  
 real - reala  
 realisme - realismo  
@@ -1765,7 +1762,7 @@ rubi - ruĝa
 rubi bau seku - rubeno  
 rubi orange - mandarino  
 ruhu - animo (psiko)  
-ruhu lojia - psikologio  
+ruhu logia - psikologio  
 ruke - dorso  
 rulete - ruleto  
 rupa - aspekto  
@@ -1813,7 +1810,7 @@ sama hal - vetero
 samarium - samario  
 san - scii  
 • ansan di - fremda (nekonata)  
-san lojia - sciteorio (epistemologio)  
+san logia - sciteorio (epistemologio)  
 san vol di - interesa  
 san vol ja - scivolema  
 san xe - scio  
@@ -1834,9 +1831,9 @@ semen su - reciproka
 seku - ŝtono  
 selenium - seleno  
 selu - ĉelo  
-selu lojia - citologio  
+selu logia - citologio  
 seme - signifi  
-semolojia - semantiko  
+semologia - semantiko  
 seme - semo  
 seme di - sema  
 senater - senatano  
@@ -1870,7 +1867,7 @@ singa - leono
 Singapur - Singapuro  
 siro - nul  
 sis - fratino  
-sismolojia - sismologio  
+sismologia - sismologio  
 sistem - sistemo  
 sita - citi  
 siti - urbo  
@@ -1958,7 +1955,7 @@ tege - briko
 tegule - kahelo (tegolo)  
 tehne - tekniko  
 tehnetium - teknecio  
-tehnolojia - teknologio  
+tehnologia - teknologio  
 tele - malproksimeco  
 tele di - malproksima  
 tele fon - telefono  

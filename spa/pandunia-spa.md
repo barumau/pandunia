@@ -41,7 +41,7 @@ Afrika - África
 agile - ágil  
 agre - cultivar  
 agral - agrícola  
-agrobiolojia - agrobiología  
+agrobiologia - agrobiología  
 agrer - granjero (agricultor)  
 agronomia - agronomía  
 agristan - campo  
@@ -77,7 +77,7 @@ algometria - algometría
 alga - alga  
 alga fungu - liquen  
 alga jangal - bosque de algas  
-algalojia - algología (ficología)  
+algalogia - algología (ficología)  
 alkan - alcano  
 alken - alqueno  
 alkil - alquilo  
@@ -226,8 +226,8 @@ auter - autor
 autokratia - autocratia (monarquía)  
 autonomia - autonomía  
 autonomike - autónomo  
-auto loga - monólogo  
-auto move - automotor (automotriz)  
+autologe - monólogo  
+automove - automotor (automotriz)  
 avakate - aguacate  
 avar - daño (corrupción)  
 avarike - dañado  
@@ -346,7 +346,7 @@ bauite - piedra preciosa (joya, gema)
 baxe - lengua (idioma, hablar, comunicación)  
 baxe kanun - gramática  
 baxe kanun di - gramatical  
-baxe lojia - lingüística  
+baxe logia - lingüística  
 baya - bahía  
 baze - base  
 baze bol - béisbol  
@@ -446,7 +446,7 @@ beton - concreto (hormigón)
 betula - abedul  
 bie - vida (orgánico)  
 bier - organismo (ser vivo)  
-biolojia - biología  
+biologia - biología  
 biosistem - bioma  
 biotoxe - toxina  
 Biblia - Biblia  
@@ -699,7 +699,7 @@ darviniste - darwinista
 data - datos  
 data banke - banco de datos (base de datos)  
 data culi - procesamiento de datos  
-data culi lojia - informática (computación)  
+data culi logia - informática (computación)  
 data fen lize - análisis de datos  
 data table - tabla  
 dau - camino (calle)  
@@ -708,11 +708,11 @@ dauisme - taoísmo
 dauiste - taoísta  
 dava - curar (sanar)  
 davaer - doctor (médico)  
-dava lojia - medicina  
+dava logia - medicina  
 dava sui - poción  
 dava xe - medicamento (medicina, remedio, fármaco)  
 dava xekan - farmacia (botica, droguería)  
-dava xe lojia - farmacologia  
+dava xe logia - farmacologia  
 de - de (desde)  
 de - de (posposición de posesión)  
 dee - dios  
@@ -722,7 +722,7 @@ deisme - teísmo
 deiste - teísta  
 deokata - mito (cuento divino)  
 deokratia - teocracia  
-deojojia - teología  
+deologia - teología  
 deonagre grame - devanágari  
 deosofia - teosofía  
 defe - defensa  
@@ -740,7 +740,7 @@ demokratiste - demócrata
 demon - demonio  
 den - día (24 horas)  
 • preden - ayer  
-den loge - diario  
+den logu - diario  
 des - diez (deca-, 10)  
 desen - dibujo (diseño)  
 desi - deci-  
@@ -778,10 +778,11 @@ dipe moka - arbusto (mata)
 dipe tela - alfombra (tapete)  
 diske - disco  
 disprosium - disprosio  
-dite - dictar  
-• ditater - dictador  
-• ditateria - dictadura  
-• dition - dicción  
+dite - decir (hablar)  
+ditate - dictar  
+ditater - dictador  
+ditateria - dictadura  
+dition - dicción  
 Divehi - Maldivas  
 doh - hija  
 Doice - Alemania  
@@ -869,7 +870,7 @@ einsteinium - einsteinium
 Eire - Irlanda  
 ekal - ambiental (ecológico, natural)  
 ekia - medioambiente (naturaleza)  
-ekolojia - ecología  
+ekologia - ecología  
 ekonative - salvaje  
 Ekuador - Ecuador  
 elastike - elástico (flexible)  
@@ -913,7 +914,7 @@ etanol - etanol
 etil - etilo  
 Etiopia - Etiopía  
 eu - beneficioso (bueno)  
-eu angil - evangelio  
+euangil - evangelio  
 eu loga - elogio  
 Eurasia - Eurasia  
 eureka - econtrar (hallar)  
@@ -1011,13 +1012,11 @@ fa hogo - quemar
 fa ici - querer (disponer)  
 fa in klus - incluir  
 fa jaga - despertar  
-fa jama - recoger (juntar, reunir, acumular, recolectar, montar)  
 fa jang - pelear  
 fa javabu - responder (contestar)  
 fa jela - encarcelar (aprisionar)  
 fa jong - centrar (concentrar)  
 fa jui - advertir  
-fa juxa - inyectar  
 fa kai - abrir  
 fa kaka - defecar  
 fa karga - cargar  
@@ -1045,7 +1044,6 @@ fa libu - erigir (montar, armar)
 fa lifafa - envolver  
 fa liga - asociar  
 fa linke - conectar (empalmar, enlazar, vincular)  
-fa loga - decir (hablar)  
 fa loka - colocar (poner, ubicar)  
 fa lona - debatir (discutir)  
 fa long - alargar  
@@ -1247,13 +1245,13 @@ fine - fino (delgado, angosto, estrecho, delicado)
 fiorde - fiordo  
 firuze - turquesa (piedra preciosa)  
 fite - planta (vegetal, vegetación)  
-fitolojia - botánica  
+fitologia - botánica  
 fito yamiste - vegetariano  
 fixe - fijar (pegar, asegurar; accesorio, afijo)  
 • prefixe - prefijo  
 fizike gi - hardware (soporte físico)  
 fizologer - físico (científico)  
-fizolojia - física  
+fizologia - física  
 flece - flecha  
 flerovium - flerovio  
 • reflexe sonde - eco  
@@ -1265,7 +1263,7 @@ foku - concentrar (enfocarse)
 foli - escama  
 fone - fono (segmento acústico)  
 foneme - fonema  
-fonolojia - fonología  
+fonologia - fonología  
 fone zi - letra (carácter)  
 fonte - fuente (manantial)  
 fonte kalam - estilógrafo  
@@ -1405,7 +1403,7 @@ gazeter - periodista
 gee - tierra  
 geografia - geografía  
 Geia - Tierra  
-geolojia - geología  
+geologia - geología  
 geometria - geometría  
 geopolitia - geopolítica  
 geoterme - geotérmico  
@@ -1417,13 +1415,13 @@ geme - juego
 gemer - jugador  
 gem suta - esgrima  
 • exgene - exógeno  
+• sugene - criar  
 gene di - crudo  
 gene grupe - generación (cohorte)  
 gene klas - casta  
+gene logia di - genético  
 gene logu - genealogía  
-gene lojia di - genético  
 gene tipe - genotipo  
-gene yo hevan - criar  
 gense - género  
 gensal - general  
 geo dou - maní  
@@ -1637,8 +1635,8 @@ hesium - hasio
 hevan - animal (bestia)  
 hevan bagi - zoo  
 hevan kata - fábula  
-hevan lojia - zoología  
-hevan lojia di - zoológico  
+hevan logia - zoología  
+hevan logia di - zoológico  
 hibride - híbrido (mestizo)  
 hidre - hidrógeno  
 hidrate - hidrato  
@@ -1663,7 +1661,7 @@ hisabia - aritmética (cálculos)
 hisabu loge - cuenta  
 histor - historia (pasado)  
 historer - historiador  
-historolojia - historia (estudio de sucesos del pasado)  
+historologia - historia (estudio de sucesos del pasado)  
 hiyar - pepino  
 hobi - pasatiempo (hobby, afición)  
 hobiiste - amateur (aficionado)  
@@ -1792,6 +1790,7 @@ jaga - despierto
 jai - gañar (vencer, triunfar; victoria)  
 jain din - jainismo  
 jake - chaqueta  
+jame - recoger (juntar, reunir, acumular, recolectar, montar)  
 • ajame - encontrar (reunión, junta, mitin)  
 • anjame - dispersar (esparcir, desmontar)  
 • anjame di - escaso (disperso, ralo)  
@@ -1818,7 +1817,7 @@ jebe - bolsillo
 jebe caku - navaja  
 jeka - prestar (pedir prestado)  
 jeka don - prestar  
-jeka loga - préstamo lingüístico  
+jeka lexe - préstamo lingüístico  
 jeka na - pedir prestado  
 jela - prisión  
 jela ja - carcelero  
@@ -1831,7 +1830,8 @@ jenju - perla
 jenju table - ábaco  
 jensen - ginseng  
 Jerze - Jersey  
-• injete - inyectar (inyección)  
+• injete - inyectar  
+• injetaje - inyección  
 • projete - proyecto  
 jete grafe - proyectar (proyección)  
 Jibuti - Yibuti  
@@ -1859,7 +1859,7 @@ jui di - cuidadoso (cauteloso, tener cuidado)
 jui note - advertencia (aviso)  
 jul - joule (J)  
 jumla - oración  
-jumla lojia - sintaxis  
+jumla logia - sintaxis  
 jun - joven  
 jun fem - niña  
 jun jen - joven  
@@ -1872,7 +1872,6 @@ jupe - falda
 jus - jugo (zumo)  
 juste - exacto (preciso)  
 juste pauer - francotirador  
-juxa - inyección  
 
 ## K  
 
@@ -2090,7 +2089,7 @@ klar - claro
 klas - clase (categoría)  
 klien - cliente  
 klima - clima  
-klimalojia - climatología  
+klimalogia - climatología  
 klima mute - cambio climático  
 klin - cuesta (inclinación, pendiente, predisposición, tender)  
 klon - clonar  
@@ -2146,7 +2145,7 @@ korte kata - cuento (relato corto)
 korte krokodil - caimán (aligátor, yacaré)  
 kosi - coser  
 kosme - cosmos  
-kosmobiolojia - astrobiologia  
+kosmobiologia - astrobiologia  
 kosmike - cósmico  
 kosmonave - nave espacial  
 kosmonaver - cosmonauta  
@@ -2341,16 +2340,14 @@ litre - litro
 livermorium - livermorio  
 lixu - ardilla  
 loba - rábano  
-loge - habla  
+• duologia - bilogía  
+logike - lógica  
+logikal - logical  
+logive - hablador (locuaz)  
+loga - registro (archivo, anotación)  
 • exloga - cerrar sesión  
 • inloga - iniciar sesión  
-loga - registro (archivo, anotación)  
 loga buku - libro de registro  
-loga tabi di - hablador (locuaz)  
-logika - lógica  
-logika di - logical  
-loje - ciencia (estudiar, investigar, -ología)  
-lojosafarer - explorador  
 loke - lugar  
 lokal - local  
 loke kode - coordenadas  
@@ -2584,7 +2581,7 @@ migre - migración
 • inmigrer - inmigrante  
 mikre - micro-  
 mikrobie - microbio  
-mikrobiolojia - microbiología  
+mikrobiologia - microbiología  
 Mikronesia - Micronesia  
 mikroskope - microscopio  
 mili - mili-  
@@ -2661,7 +2658,7 @@ Mongol - Mongolia
 mongol di - mongol  
 moral - moralidad (ética)  
 moral di - moral (ético)  
-moral lojia - ética (filosofía moral)  
+moral logia - ética (filosofía moral)  
 Moris - Mauricio  
 mos - musgo  
 mos di - musgoso  
@@ -2886,8 +2883,8 @@ nuka - cuello (nuca, pescuezo)
 nume - número (contar)  
 numerike - dígital  
 numograme - dígito (cifra)  
-numolojer - matemático  
-numolojia - matemática  
+numologer - matemático  
+numologia - matemática  
 o - o  
 
 ## O  
@@ -2949,7 +2946,7 @@ Pace Bahai - océano Pacífico
 pacisme - pacifismo  
 paciste - pacifista  
 paci - pájaro (ave)  
-paci lojia - ornitología  
+paci logia - ornitología  
 pada - caer  
 pada mosim - otoño  
 pada mun - trampilla  
@@ -3027,7 +3024,7 @@ patogener - patógeno
 patike - paciente  
 patike - enfermo  
 patekan - hospital  
-patolojia - patología  
+patologia - patología  
 patomise - infección (contagio)  
 patate - papa  
 pau - disparar  
@@ -3118,7 +3115,7 @@ plaste paste - plastilina
 plate - plano (placa)  
 plate di - plana (llano, liso)  
 plate geiste - terraplanista  
-plate geo kaskalogi - tectónica de placas  
+plate geo kaskelogia - tectónica de placas  
 plate stan - llanura  
 plate tasa - plato  
 platin - platino  
@@ -3148,7 +3145,7 @@ polis - policía
 poliser - policía  
 polite - gobierno  
 politike - político (administrador)  
-politolojia - ciencia política  
+politologia - ciencia política  
 politi di - político  
 politi lona - política  
 politi mode - régimen  
@@ -3282,8 +3279,8 @@ raste - crecemiento
 rate - tener sentido  
 ration - razonamiento  
 rational - racional  
-ratolojia - lógica  
-ratolojike - logical  
+ratologia - lógica  
+ratologike - logical  
 ratibu - orden  
 ratibu li - ordenado (regular)  
 real - real  
@@ -3354,7 +3351,7 @@ rubi orange - mandarina (tangerina)
 rubi salmon - salmón rojo  
 ruhu - psique  
 ruhu di - mental (psíquico)  
-ruhu lojia - psicología  
+ruhu logia - psicología  
 ruhu mixe - confundir (desconcertar, perplejo)  
 ruhu mixe di - confundido  
 ruke - espalda (lomo)  
@@ -3432,7 +3429,7 @@ samarium - samario
 Samoa - Samoa  
 san - saber  
 sanateria - sanatorio  
-san lojia - gnoseología (epistemología)  
+san logia - gnoseología (epistemología)  
 san vol - interés  
 san vol di - interesante (curioso)  
 san vol ja - inquisitivo (curioso)  
@@ -3477,12 +3474,12 @@ konseler - consultor
 selenium - selenio  
 selge - acelga  
 selu - célula  
-selu lojia - citología  
+selu logia - citología  
 seme - significar (querer decir)  
 semoforer - semáforo  
 • polisemike - ambiguo  
 • unsemike - inequívoco  
-semolojia - semántica  
+semologia - semántica  
 seme - semilla  
 seme dana - pepita  
 seme di - seminal  
@@ -3517,7 +3514,7 @@ Sexel nesi - Seychelles
 sexu - sexo (género)  
 sexu - sexo  
 • ansexual - asexual  
-sexulojia - sexología  
+sexulogia - sexología  
 si - si (suponer)  
 Sibiria - Siberia  
 siborgium - seaborgio  
@@ -3552,7 +3549,7 @@ siro jen - ningunos
 siro sata - nunca  
 siro xe - nada  
 sis - hermana  
-sismolojia - sismología  
+sismologia - sismología  
 sistem - sistema  
 sistem di - sistémico  
 sita - citar  
@@ -3732,7 +3729,7 @@ tege pote - tajín
 tehne - técnica  
 tehnetium - tecnetio  
 tehnokratia - tecnocracia  
-tehnolojia - tecnología  
+tehnologia - tecnología  
 tela - tela (paño, tejido)  
 tela gi - telar  
 tele - lo lejos  
@@ -3820,7 +3817,7 @@ torso - torso
 tortuga - tortuga  
 toxe - veneno (toxina)  
 toxike - tóxico  
-toxolojia - toxicología  
+toxologia - toxicología  
 tragona di - diagonal  
 tralongta - diámetro  
 trapas - tránsito (transporte)  
@@ -4013,7 +4010,7 @@ vin suan - vinagre
 vinil - vinilo  
 violeta - violeta  
 violeta nil - morado (púrpura)  
-virolojia - virología  
+virologia - virología  
 virus - virus  
 virge - virgen (virginal)  
 virge di - virginal  

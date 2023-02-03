@@ -294,7 +294,7 @@
 **dipe** *matala* ← yleiskiina:低 (dī) + vietnami:thấp + khmer:ទាប (diəp) + turkki:dip + englanti:deep  
 **diske** *kiekko (levy)* ← englanti:turkki:disk, ranska:disque, espanja:portugali:disco, venäjä:диск (disk), hindi:डिस्क (ḍisk), bangla:ডিস্ক (ḑisk), japani:ディスク (disuku), korea:디스크 (diseukeu)  
 **disprosium** *dysprosium* ← englanti:dysprosium, ranska:dysprosium, espanja:disprosio, portugali:disprósio, venäjä:диспрозий, yleiskiina:镝 (dī), japani:ジスプロシウム, korea:디스프로슘, vietnami:đysprosi, hindi:डिस्प्रोसियम, bangla:ডিসপ্রোসিয়াম, malaiji:disprosium, suahili:disprosi, arabia: ديسبروسيوم  
-**dite** *sanella* ← englanti:dictate, ranska:dicter, espanja:dictar, portugali:ditar + deu:malaiji:diktator, venäjä:диктатор (diktator), turkki:diktatör, arabia:(diktatūr)  
+**dite** *sanoa (puhua)* ← ranska:dire, englanti:diction, espanja:dicción, portugali:dicção, venäjä:дикция (diktsiya), malaiji:diksi + turkki:diktatör, arabia:(diktatūr)  
 **doh** *tytär* ← deu:Tochter, englanti:daughter, venäjä:дочь (dočʹ), persia: دختر (doxtar), hindi:दुख़्तर (duxtar), telugu:దుహిత (duhita)  
 **dokumen** *asiakirja (dokumentti, tiedosto)* ← englanti:ranska:document, espanja:portugali:documento, venäjä:документ (dokument), japani:ドキュメント (dokyumento), malaiji:dokumen, turkki:doküman  
 **dolfin** *delfiini* ← kreikka:δελφίνια (delphínia), englanti:dolphin, espanja:delfín, portugali:delfim, venäjä:дельфин (del’fin), arabia:دلفين (dulfin), japani:ドルフィン (dorufin), bangla:ডলফিন (ḍalaphina), hindi:डॉल्फ़िन (ḍŏlfin)  
@@ -327,7 +327,6 @@
 **eglisa** *kirkko* ← englanti:ecclesia-, ranska:église, espanja:iglesia, portugali:igreja, hindi:गिरजा (girjā), malaiji:gereja, arabia:(kanisā), suahili:kanisa, turkki:kilise  
 **einsteinium** *einsteinium* ← englanti:einsteinium, ranska:einsteinium, espanja:einsteinium, portugali:einstânio, venäjä:эйнштейний, yleiskiina:锿 (āi), japani:アインスタイニウム, korea:아인시타이늄, vietnami:ensteni, hindi:आइन्स्टाइनियम, bangla:আইনস্টাইনিয়াম, malaiji:einsteinium, suahili:einsteni, arabia: انيشتنيوم  
 **ekia** *luonto* ← englanti:espanja:portugali:eco-, ranska:éco-, deu:öko-, venäjä:эко-, turkki:malaiji:eko-  
-**ekolojia** *ekologia (ympäristötiede)* ← deu:Ökologie, englanti:ecology, ranska:écologie, venäjä:экология (ekologiya), malaiji:ekologi, turkki:ekoloji, suahili:ikolojia  
 **elastike** *joustava (kimmoisa, elastinen)* ← englanti:elastic, ranska:élastique, espanja:portugali:elástico, venäjä:эластичный (elastíčnyj), turkki:malaiji:elastik, japani:エラスティック (erasutikku)  
 **eletre** *sähkö* ← portugali:eletricidade, italia:elettricità, englanti:electricity, venäjä:электричество (električestvo), ranska:électricité, espanja:electricidad, turkki:elektrik  
 **elfe** *haltia (tonttu)* ← englanti:elf, espanja:portugali:elfo, ranska:elfe, venäjä:эльф (el’f), japani:エルフ (erufu), korea:엘프 (elpeu)  
@@ -662,7 +661,6 @@
 **jupe** *hame* ← ranska:jupe, arabia:(jūb), hausa:jip, venäjä:юбка (yubka)  
 **jus** *mehu* ← englanti:juice, suahili:jusi, tamili:ஜூஸ் (jūs), japani:ジュース (jūsu), korea:주스 (juseu)  
 **juste** *juuri (tarkka, täsmällinen)* ← englanti:just, ranska:juste, espanja:justo, italia:giusto, japani:ジャスト (jasto)  
-**juxa** *ruiske (injektio)* ← yleiskiina:注射 (zhùshè), korea:주사 (jusa), japani:注射 (chusha)  
 **ka** *kuin (verrattuna)* ← espanja:portugali:ranska:que, suahili:kumliko, suo:kuin, lao:ກວ່າ (kuā), filippiini:kaysa  
 **kababu** *grillata (kärventää)* ← arabia:persia:urdu:  كباب (kabāb), turkki:malaiji:englanti:espanja:kebab, venäjä:кебаб (kebab), hindi:कबाब (kabāb), bangla:কাবাব (kabab), suahili:kababu  
 **kabile** *heimo* ← arabia: قَبِيلَة‎ (qabīla), persia: قبیله‎ (qabile), hindi:क़बीला (qābilā), turkki:kabile, suahili:hausa:kabila  
@@ -896,9 +894,7 @@
 **lize** *purkaa (purku, hajotus)* ← englanti:deu:ranska:-lyse, espanja:malaiji:-lisis, portugali:-lise, venäjä:-лиз (-liz), turkki:-liz  
 **loba** *retikka (retiisi)* ← yleiskiina:萝卜 (luóbo), kantoninkiina:蘿蔔 (lobaak), malaiji:lobak  
 **loga** *tallenne (rekisteri, loki)* ← englanti:log + yleiskiina:录 (lù), kantoninkiina:錄 (luk6), japani:録 (roku), korea:록 (rok), vietnami:lục  
-**loge** *puhua (puhe)* ← kreikka:λόγος (logos), englanti:ranska:-logue, espanja:portugali:-logo, venäjä:-лог (-log), persia:(loğat), arabia:(luğa), hindi:लुग़त (luġat), suahili:lugha, turkki:lügat, malaiji:logat  
-**logika** *logiikka* ← englanti:logic, espanja:portugali:lógica, venäjä:логика (logika), yleiskiina:逻辑 (luóji)  
-**loje** *tiede (tutkimus, opiskella)* ← englanti:-ology, espanja:-ología, ranska:-ologie, venäjä:ология (-ologiya), turkki:-loji  
+**loge** *kertoa (selittää)* ← kreikka:λόγος (logos), englanti:ranska:-logue, espanja:portugali:-logo, venäjä:-лог (-log) + arabia: لُغَة‎ (luğa), persia: لغت‎ (loğat), hindi:लुग़त (luġat), suahili:lugha, turkki:lügat, malaiji:logat  
 **loke** *paikka (sija, sijainti)* ← englanti:location, espanja:lugar, ranska:localisation, + deu:turkki:lokal, puola:lokalny  
 **lona** *väittely (debatti)* ← yleiskiina:论 (lùn), kantoninkiina:論 (leo6), korea:론 (ron), japani:論 (ron), vietnami:luận  
 **long** *pitkä* ← englanti:ranska:long, deu:lang, portugali:longo  
@@ -1298,7 +1294,6 @@
 **rote** *ratas* ← deu:Rad, ranska:roue, esp:rueda, portugali:malaiji:roda, englanti:rotate, turkki:rotasyon  
 **rubi bau seku** *rubiini* ← englanti:ruby, portugali:rubi, espanja:rubí, ranska:rubis, deu:Rubin, venäjä:рубин (rubin), japani:ルビー (rubī)  
 **rubium** *rubidium* ← englanti:rubidium, ranska:rubidium, espanja:rubidio, portugali:rubídio, venäjä:рубидий, yleiskiina:铷 (rú), japani:ルビジウム, korea:루비듐, vietnami:rubiđi, hindi:रुबिडियम, bangla:রুবিডিয়াম, malaiji:rubidium, suahili:rubidi, arabia: روبيديوم  
-**ruhu lojia** *psykologia* ← turkki:ruh bilimi, hindi:मनोविज्ञान (manovigyān), bangla:মনোবিজ্ঞান (mônobiggan), malaiji:ilmu jiwa, arabia:(ʿilm an-nafs), deu:Seelenkunde, englanti:psychology, espanja:psicológia  
 **ruhu** *henki (sielu, mieli, psyyke)* ← arabia: رُوح‎ (rūḥ), persia: روح‎ (ruh), hindi:रूह (rūh), bangla:রূহ (ruh), malaiji:ruh, suahili:roho, hausa:ruhu, som:ruux + venäjä:дух (duh)  
 **ruke** *selkä* ← deu:Rücken + deu:englanti:rucksack, venäjä:рюкзак (rjukzak), japani: リュックサック (ryukkusakku), korea:륙색 (ryuksaek)  
 **rul koli** *keräkaali* ← portugali:couve, hindi:गोभी (gobhī), bangla:কপি (kôpi), malaiji:kubis  
@@ -1564,7 +1559,6 @@
 **vinil** *vinyyli* ← englanti:vinyl, espanja:vinilo, portugali:vinil, ranska:vinyle, venäjä:винил (vinil), japani:ビニル (viniru)  
 **violeta** *orvokki* ← englanti:portugali:ranska:violet, espanja:violeta, deu:violett, venäjä:фиолетовый (fioletovyy), japani:バイオレット (baioretto), korea:보라 (bola)  
 **virge** *neitsyt (neitseellinen, koskematon)* ← englanti:virgin, ranska:vierge, espanja:virgen, portugali:virgem  
-**virolojia** *virologia* ← puola:wirusologia, venäjä:вирусология (virusologiya)  
 **virus** *virus* ← englanti:espanja:ranska:malaiji:virus, portugali:vírus, venäjä:вирус (virus), turkki:virüs, hindi:वाइरस (vāirasa), japani:ウイルス (uirusu)  
 **vise** *vara- (korvike-)* ← englanti:ranska:espanja:portugali:vice-, venäjä:вице- (vitse-), deu:vize-  
 **vita** *ruuvi* ← ranska:vis, italia:vite, venäjä:винт (vint), turkki:vida  

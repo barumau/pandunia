@@ -93,7 +93,7 @@ auro - 金
 Austronesi - オーストロネシア  
 aute - 自己  
 autokratia - 君主制  
-auto loga - 独白 (独話)  
+autologe - 独白 (独話)  
 ave - 烏麦  
 axa hin - 絶望した  
 ayo - 痛い  
@@ -149,7 +149,7 @@ batri - バッテリー
 bauite - 宝石  
 • trabaxe - 翻訳する  
 baxe - 言語  
-baxe lojia - 言語学  
+baxe logia - 言語学  
 baze bol - 野球  
 bazisme - 原理  
 baze petra - 基盤岩  
@@ -191,7 +191,7 @@ berklium - バークリウム
 bete - テーブルビート  
 betula - 樺  
 bier - 生物  
-biolojia - 生物学  
+biologia - 生物学  
 biosistem - 生物群系  
 biotoxe - 毒素  
 bibre - ビーバー  
@@ -313,7 +313,7 @@ dare tube - 漏斗
 darmestadium - ダームスタチウム  
 darti - 土  
 data culi - データ処理  
-data culi lojia - 計算機科学  
+data culi logia - 計算機科学  
 data fen lize - データ解析  
 data table - 表  
 dau - 道  
@@ -332,7 +332,7 @@ demokratia - 民主主義
 demon - 悪魔  
 den - 日  
 • preden - 昨日  
-den loge - 日記  
+den logu - 日記  
 des - 十 (１０)  
 des kilo - 万  
 dex - 右  
@@ -356,8 +356,9 @@ dipe moka - 灌木 (藪)
 dipe tela - 絨毯 (カーペット)  
 diske - ディスク (円盤)  
 disprosium - ジスプロシウム  
-• ditater - 独裁者  
-• ditateria - 独裁  
+dite - 話す  
+ditater - 独裁者  
+ditateria - 独裁  
 doh - 娘  
 dokumen - 書類 (文書, ドキュメント)  
 dokumen filme - ドキュメンタリー  
@@ -449,7 +450,6 @@ fa kux - 横たえる
 fa lai - 持って来る  
 fa lanse grafi - 映す (投影する)  
 fa linke - 繋ぐ  
-fa loga - 話す  
 fa mede - 手伝う (助ける)  
 fa mei daka - 飾る  
 fa memo - 思い出す  
@@ -507,7 +507,7 @@ fiorde - フィヨルド
 fite - 植物  
 fito yamiste - 菜食主義者 (ベジタリアン)  
 fizike gi - ハードウェア  
-fizolojia - 物理学  
+fizologia - 物理学  
 flece - 矢 (矢印)  
 flerovium - フレロビウム  
 flur - フッ素  
@@ -580,17 +580,17 @@ gau dipe move - 浮き沈みする
 gau tehni - ハイテク  
 gazel - ガゼル  
 gee - 地  
-geolojia - 地質学  
+geologia - 地質学  
 geometria - 幾何学  
 gebre - 代数  
 gem - 剣  
 gem dau - 剣道  
 gem suta - 剣術  
+• sugene - 湧かす  
 gene di - 生 (未熟)  
 gene logu - 系譜学  
 gene tipe - 遺伝子型  
-gene yo hevan - 湧かす  
-gensolojia - ジェンダー研究  
+gensologia - ジェンダー研究  
 geo forme - 地形  
 geo nice di - 地中  
 geo nice jela - 地下牢 (ダンジョン)  
@@ -685,8 +685,8 @@ hesium - ハッシウム
 hevan - 動物  
 hevan agri suta - 畜産  
 hevan bagi - 動物園  
-hevan lojia - 動物学  
-hevan lojia di - 動物学の  
+hevan logia - 動物学  
+hevan logia di - 動物学の  
 hidre - 水素  
 hidrate - 水和物  
 hidre peroxide - 過酸化水素  
@@ -776,7 +776,7 @@ jui - 注意
 jui di - 気をつける (慎む)  
 jui note - 注意 (戒め, 警告)  
 jul - ジュール (J)  
-jumla lojia - 統語論  
+jumla logia - 統語論  
 jun bei - 後輩  
 jun fem - 女の子  
 jun jen - 青少年  
@@ -1023,12 +1023,10 @@ litium - リチウム
 litre - リットル  
 livermorium - リバモリウム  
 lixu - 栗鼠  
+loga - 記録  
 • exloga - ログアウト  
 • inloga - ログイン  
-loga - 記録  
 loga buku - 日誌  
-loje - 研究 (科学, 学)  
-lojosafarer - 探検家  
 loke - 場所  
 loke kode - 座標  
 long - 長い  
@@ -1152,7 +1150,7 @@ mien - 麺 (ヌードル)
 • inmigre - 移住する (移民する)  
 • inmigrer - 移民 (移住者)  
 mikrobie - 微生物  
-mikrobiolojia - 微生物学  
+mikrobiologia - 微生物学  
 mikroskope - 顕微鏡 (マイクロスコープ)  
 milke - 牛乳 (ミルク)  
 milke kardon - マリアアザミ  
@@ -1283,8 +1281,8 @@ nuka - 首
 nume - 数える  
 numerike - デジタル  
 numograme - 数字  
-numolojer - 数学者  
-numolojia - 数学  
+numologer - 数学者  
+numologia - 数学  
 
 ## O  
 
@@ -1313,7 +1311,7 @@ pa - お父さん (父, パパ)
 pace bahai bakalau - マダラ  
 pacisme - 平和主義  
 paci - 鳥 (鳥類)  
-paci lojia - 鳥類学  
+paci logia - 鳥類学  
 pada mun - 落とし戸  
 paladium - パラジウム  
 pan - 全ての  
@@ -1379,7 +1377,7 @@ piram - ピラミッド (金字塔)
 pisea - トウヒ  
 piza - ピザパイ  
 plate di - 平ら  
-plate geo kaskalogi - プレートテクトニクス (プレート理論)  
+plate geo kaskelogia - プレートテクトニクス (プレート理論)  
 plate stan - 草原  
 platin - 白金  
 plumbe - 鉛  
@@ -1440,7 +1438,7 @@ rang arka salmon - ニジマス
 rang mate - 染め粉  
 rase - 人種  
 ration - 推論  
-ratolojia - 論理  
+ratologia - 論理  
 ratibu - 順  
 ratibu li - 整然  
 realisme - 現実主義  
@@ -1510,7 +1508,7 @@ sama hal - 天気
 sama kinar - 地平線 (水平線, 天際)  
 sama nil - 空色  
 samarium - サマリウム  
-san lojia - 認識論  
+san logia - 認識論  
 san vol - 興味 (好奇心)  
 san vol di - 面白い  
 san vol ja - 知りたがる  
@@ -1530,7 +1528,7 @@ sekur nume - 暗証番号
 konseler - 顧問  
 selenium - セレン  
 selge - フダンソウ (スイスチャード)  
-semolojia - 意味論  
+semologia - 意味論  
 seme dana - 種  
 senater - 上院議員  
 sen bei - 先輩  
@@ -1548,7 +1546,7 @@ serami - 陶器
 server - 使用人  
 server - サーバ  
 sexu - 性別 (ジェンダー)  
-sexulojia - 性科学  
+sexulogia - 性科学  
 si - もし  
 siborgium - シーボーギウム  
 side - 座る  

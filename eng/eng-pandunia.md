@@ -85,7 +85,7 @@ agreement (treaty) - trati
 agreement (treaty, contract) - kontrati  
 agricultural - agral  
 agriculture - agrokulte  
-agrobiology - agrobiolojia  
+agrobiology - agrobiologia  
 agronomy - agronomia  
 aim (point) - dike  
 air - air  
@@ -102,7 +102,7 @@ algebra - gebre
 Algeria - Jayer  
 algesia (sensitivity to pain) - analgesia  
 algogenic (inducing pain) - algogenike  
-algology - algalojia  
+algology - algalogia  
 algometry (measurement of pain) - algometria  
 alien - alian  
 align (go along) - be ging  
@@ -266,7 +266,7 @@ Assyria - Axuria
 astatine - astatin  
 asthma - asma  
 astral (starry) - astral  
-astrobiology - kosmobiolojia  
+astrobiology - kosmobiologia  
 astronaut - astronaver  
 astronomer - astronomer  
 astronomy - astronomia  
@@ -461,7 +461,7 @@ bill (check, invoice) - fatura
 billion (giga-) - giga  
 bind (wrap in bandage) - bande  
 biological sex - biogense  
-biology (study of organic life) - biolojia  
+biology (study of organic life) - biologia  
 biome - biosistem  
 biowaste - bio lasa  
 birch tree - betula  
@@ -526,7 +526,7 @@ boron - boron
 borrow (lend) - jeka  
 borrow - jeka na  
 Bosnia and Herzegovina - Bosna i Hercegovina  
-botany (phytology) - fitolojia  
+botany (phytology) - fitologia  
 bother (annoy, disturb, irritate) - fa turbe  
 Botswana - Cuana  
 bottle - botel  
@@ -559,7 +559,7 @@ breast (boob, tit) - titi
 breastplate - sine plate  
 breath - nafas  
 breathe - fa nafas  
-breed - gene yo hevan  
+breed - sugene  
 brick - tege  
 bridge - kio  
 bright (brilliant, clear) - ming  
@@ -830,7 +830,7 @@ clear (obvious) - klar
 click (snap) - klike  
 climate - klima  
 climate change - klima mute  
-climatology - klimalojia  
+climatology - klimalogia  
 climb (get on) - fa eskale  
 clipboard (paste buffer) - gate glu bano  
 clipboard (physical board) - pinse bano  
@@ -874,7 +874,7 @@ cold - leng
 collaborate (work together) - kon kar  
 collaborate (work together) - konkar  
 collapse - parce dipe  
-collect (gather, bring together, assemble, congregate) - fa jama  
+collect (gather, bring together, assemble, congregate) - jame  
 collect fees or taxes - kape yo taxi  
 collection (congregation, assembly) - jamia  
 collective - jamive  
@@ -921,7 +921,7 @@ compress (squeeze, squish) - konprese
 compute (reckon together) - konpute  
 compute (to process data) - fa komputa  
 computer - konputer  
-computer science - data culi lojia  
+computer science - data culi logia  
 conceive (take together; concept) - koncepe  
 concentrate - fa fokus  
 conceptual (ideal, abstract) - ideal  
@@ -1078,7 +1078,7 @@ cyclist - sikliste
 cyclone (hurrican, tornado, typhoon) - rota tufan  
 Cyprus - Kipris  
 Cyrillic alphabet - Kiril zi  
-cytology - selu lojia  
+cytology - selu logia  
 Czech Republic - ceska  
 Côte d’Ivoire (Ivory Coast) - Kote de Ivar  
 
@@ -1184,9 +1184,9 @@ dew - rose
 diagonal - tragona di  
 diameter - tralongta  
 diamond - adamas  
-diary (daily log) - den loge  
+diary (daily log) - den logu  
 dichotomy - dutomia  
-dictate - dite  
+dictate - ditate  
 dictator - ditater  
 dictatorship - ditateria  
 dictionary (word list) - lexe liste  
@@ -1200,7 +1200,8 @@ dig (pit, cavity) - kava
 digit (figure, numeral) - numograme  
 digital (relating to computers) - konputeral  
 digital (relating to numbers) - numerike  
-digital clock - komputa hor loga gi  
+digital clock - komputa hor loger  
+dilogy (duology) - duologia  
 dining room - yam kamar  
 dinner - xam yam  
 dinosaur - dino saur  
@@ -1329,7 +1330,7 @@ eastern - dong di
 eastern gorilla - dong gorila  
 easy - fasil  
 echo - reflexe sonde  
-ecology (study of environment) - ekolojia  
+ecology (study of environment) - ekologia  
 economics - malonomia  
 Ecuador - Ekuador  
 education (schooling) - xule  
@@ -1398,7 +1399,7 @@ environment (nature) - ekia
 environmental (natural) - ekal  
 enzyme - enzim  
 episode (instalment of a drama) - filme babu  
-epistemology - san lojia  
+epistemology - san logia  
 equal - be par  
 equality (parity) - parta  
 equalize (balance, even out) - fa par  
@@ -1419,14 +1420,14 @@ Estonia - Esti
 Eswatini (Swaziland) - Suati  
 ethane - etan  
 ethanol - etanol  
-ethics - moral lojia  
+ethics - moral logia  
 Ethiopia - Etiopia  
 ethnic - zuku di  
 ethnic group - zuku  
 ethyl - etil  
 etiquette (protocol, procedure) - buro riti  
 etymology - lexasle  
-eugenics - eu gene sim  
+eugenics - eugenisme  
 Eurasia - Eurasia  
 euro (€) - euro  
 Europa - Europa luna  
@@ -1434,7 +1435,7 @@ Europe - Europa
 European - europa di  
 European Union (EU) - Europa Unta  
 europium - europium  
-eutheism - eu deu sim  
+eutheism - eudeisme  
 evaluate (review, criticise) - fa piping  
 evaluation (criticism) - piping  
 even (equal, level, peer) - par  
@@ -1481,7 +1482,6 @@ experience - experaje
 experimental - experike  
 explode (blow up) - be bum  
 explore (browse) - brauza  
-explorer - lojosafarer  
 explosion (blast, eruption) - bum  
 export - vai mise  
 export - exporte  
@@ -1741,7 +1741,7 @@ gay (homosexual) - gei
 gazelle - gazel  
 gel (jelly) - gele  
 gem (gemstone, jewel) - bauite  
-gender studies - gensolojia  
+gender studies - gensologia  
 genderqueer (non-binary) - nobi  
 genealogy (recording of descents) - gene logu  
 general (involving every member of a class or a category) - gensal  
@@ -1749,11 +1749,11 @@ generalissimo (shogun) - ordu raja
 generate (beget, produce; production, reproduction) - gene  
 generation (cohort) - gene grupe  
 generous (open-handed) - don tabi  
-genetic - gene lojia di  
-genetics (study of reproduction) - genolojia  
+genetic - gene logia di  
+genetics (study of reproduction) - genologia  
 genotype - gene tipe  
 geography - geografia  
-geology - geolojia  
+geology - geologia  
 geometry - geometria  
 geopolitics - geopolitia  
 Georgia (Republic of Georgia) - Kartul  
@@ -1821,7 +1821,7 @@ good morning - sal suba
 good night - sal noce  
 goose - ganse  
 gorilla - gorila  
-gospel (divine message) - eu angil  
+gospel (divine message) - euangil  
 govern (rule. reign) - krate  
 government (administration, polity, politics) - polite  
 government (rule (reign, -ocracy, -archy) - kratia  
@@ -1992,7 +1992,7 @@ hispanophone (Spanish speaking) - espanofonike
 historian - historer  
 history (annals) - histor  
 history (past times) - historia  
-history (study of history) - historolojia  
+history (study of history) - historologia  
 hmm… - hem…  
 Ho Chi Minh City (Saigon) - Ho Ci Min site  
 hobby - hobi  
@@ -2152,9 +2152,8 @@ inflammation (-itis) - tis
 information (communicable knowledge) - kon sabi  
 initial (first) - xuru di  
 initial (first; prime) - prime  
-inject (injection) - injete  
-inject - fa juxa  
-injection - juxa  
+inject - injete  
+injection - injetaje  
 ink - kalam sui  
 inkbrush (calligraphy brush) - brox kalam  
 inn (fonduk, tavern) - panduke  
@@ -2453,7 +2452,7 @@ limit (boundary) - limite
 line (thread, string) - lin  
 line break (newline) - lin parce  
 linen fabric - yama tela  
-linguistics - baxe lojia  
+linguistics - baxe logia  
 link (ring in a chain) - ser  
 linseed - yama seme  
 lion - singa  
@@ -2481,7 +2480,7 @@ liver - hepate
 livermorium - livermorium  
 lizard - saur  
 llama - liama  
-loanword - jeka loga  
+loanword - jeka lexe  
 local - lokal  
 lock (fasten) - fa sor  
 lock (fastener) - tala  
@@ -2490,13 +2489,13 @@ log (trunk) - moka tana
 log in (sign in) - inloga  
 log out (log off) - exloga  
 logbook - loga buku  
-logic (deduction) - logika  
-logic - ratolojia  
-logical - logika di  
-logical - ratolojike  
-logogram (logo) - logograme  
-logophile (word buff) - logofiliste  
-logophilia - logofilia  
+logic (deduction) - logike  
+logic - ratologia  
+logical - logikal  
+logical - ratologike  
+logogram (logo) - lexograme  
+logophile (word buff) - lexofiliste  
+logophilia - lexofilia  
 London - London  
 long (lengthy) - long  
 long (long-lasting, prolonged) - long dura di  
@@ -2641,8 +2640,8 @@ master (sensei, sifu) - xifu
 Master of Arts - master de arte (MA)  
 Master of Engineering - master de engenia (ME)  
 Master of Philosophy - master de filsofia (MF)  
-Master of Science - master de lojia (ML)  
-Master of Technology - master de tehnolojia (MT)  
+Master of Science - master de logia (ML)  
+Master of Technology - master de tehnologia (MT)  
 match (contest) - mece  
 match (fit, suit, go well together) - kon bon  
 mate (fellow member of a social group) - bei  
@@ -2653,8 +2652,8 @@ maternal aunt - ma sis
 maternal grandfather - ma pa  
 maternal grandmother - ma ma  
 maternal uncle - ma bra  
-mathematician - numolojer  
-mathematics (math) - numolojia  
+mathematician - numologer  
+mathematics (math) - numologia  
 matte (opaque) - foto mata di  
 matter (be important) - ham  
 matter (substance) - made  
@@ -2684,7 +2683,7 @@ mechanize - makinize
 medal - medal  
 medallion - medalon  
 medicine (drug, medication) - dava xe  
-medicine (field of study) - dava lojia  
+medicine (field of study) - dava logia  
 meditate (contemplate, ponder, cogitate) - jan  
 Mediterranean - Geo Medi Bahai  
 medium (intermediate, mean) - midike  
@@ -2719,7 +2718,7 @@ messenger - angiler
 messiah - mesi  
 messianic - mesi di  
 metal - metal  
-metaphysics - metafizolojia  
+metaphysics - metafizologia  
 meter (100 cm) - mitre  
 meter (measuring device) - metri gi  
 methane - metan  
@@ -2728,7 +2727,7 @@ methyl - metil
 methylamine - metilamin  
 Mexico - Mehiko  
 Mexico City - Mehiko siti  
-microbiology - mikrobiolojia  
+microbiology - mikrobiologia  
 Micronesia - Mikronesia  
 microorganism (microbe) - mikrobie  
 microscope - mikroskope  
@@ -2810,7 +2809,7 @@ monocle - un yen di lense
 monogenesis - ungene  
 monogram - monograme  
 monolingual - unbaxike  
-monolog - auto loga  
+monolog - autologe  
 monotheism - un deu sim  
 monster - mostre  
 Montenegro - cernagora  
@@ -3113,7 +3112,7 @@ orgasm - orgazme
 oriental poppy - gui papi  
 origin (source) - asle  
 original (authentic) - aslike  
-ornithology (birdlore) - paci lojia  
+ornithology (birdlore) - paci logia  
 Oromia - Oromo Dexa  
 Oromo (an Ethiopian ethnic group) - oromo  
 orphan - yatim  
@@ -3246,7 +3245,7 @@ paternal grandfather - pa pa
 paternal grandmother - pa ma  
 paternal uncle - pa bra  
 pathogen - patogener  
-pathology - patolojia  
+pathology - patologia  
 patient (subject of medical treatment) - patike  
 pause (break, interruption) - pauze  
 pause (interrupt) - fa pauza  
@@ -3300,7 +3299,7 @@ Peru - Peru
 pervert (twist; perverse) - perverse  
 peta- - peta  
 petroleum - petra nafte  
-pharmacology - dava xe lojia  
+pharmacology - dava xe logia  
 phenol - fenol  
 phenyl - fenil  
 Philippines - Filipin  
@@ -3311,7 +3310,7 @@ Phobos - Fobos
 phone (speech sound) - fone  
 phone (telephone) - fon  
 phoneme - foneme  
-phonology - fonolojia  
+phonology - fonologia  
 phosphate - fosfate  
 phosphorus - fosfe  
 photograph - fotografe  
@@ -3321,8 +3320,8 @@ photon - foton
 physical - fizike  
 physical nature (physis) - fize  
 physicist - fizologer  
-physics - fizolojia  
-physiology - biofizolojia  
+physics - fizologia  
+physiology - biofizologia  
 piano - piano  
 pickaxe - pin cope  
 pickle (preserve in vinegar or brine) - fa acar  
@@ -3372,7 +3371,7 @@ plasma (ionized gas) - plazma
 plastic (moldable, malleable) - plastike  
 plastic - plaste  
 plate - plate tasa  
-plate tectonics - plate geo kaskalogi  
+plate tectonics - plate geo kaskelogia  
 plateau (tableland) - meza stan  
 platform - plate forma  
 platinum - platin  
@@ -3414,7 +3413,7 @@ Polish language - polska baxa
 polite - keci  
 political - politi di  
 politician (administrator, statesman) - politike  
-politicology - politolojia  
+politicology - politologia  
 politics (political discourse) - politi lona  
 polonium - polskium  
 polygenesis - poligene  
@@ -3466,7 +3465,7 @@ practice (actuality) - prate
 practice (to exercise) - fa lenxi  
 practicioner (person in charge or employed in an area, -person, -man) - vala  
 praise (commend, exalt) - halela  
-praise (eulogize) - fa eu loga  
+praise (eulogize) - euloga  
 praise (eulogy) - eu loga  
 praseodymium - prazedimium  
 pray (beg, entreat, implore) - fa dua  
@@ -3550,7 +3549,7 @@ protest (challenge for) - proteste
 prove (demonstrate, testify) - fa dalil  
 provoke - provoke  
 proximity - proxia  
-psychology - ruhu lojia  
+psychology - ruhu logia  
 public (people in general) - deme  
 public - demal  
 public - populike  
@@ -3870,7 +3869,7 @@ savory (umami) - umami
 saw - xara  
 sawdust - xarafun  
 sawmill - xarakan  
-say (speak, talk) - fa loga  
+say (speak, talk) - dite  
 saying (diction) - dition  
 scaffolding (gangplank) - fute bano  
 scale (flake) - foli  
@@ -3922,15 +3921,15 @@ sect (cult) - din xia
 seed (fertilized grain) - seme dana  
 seed (semen) - seme  
 seem - be rupa  
-seismology - sismolojia  
+seismology - sismologia  
 seldom (rarely) - nadir mar  
 selenium - selenium  
 self (identity) - aute  
 self (reflexive pronoun) - se  
-self-moving (automotive, automobile) - auto move  
+self-moving (automotive, automobile) - automove  
 selfish - se di  
 sell (vend) - vende  
-semantics - semolojia  
+semantics - semologia  
 semaphore - semoforer  
 sememe - sememe  
 seminal - seme di  
@@ -3959,7 +3958,7 @@ seven (7) - ceti
 sew - kosi  
 sex (gender) - sexu  
 sex - sexu  
-sexology - sexulojia  
+sexology - sexulogia  
 sexual (pertaining to gender) - sexual  
 sexy (sexually arousing) - sexe di  
 Seychelles - Sexel nesi  
@@ -4144,7 +4143,6 @@ spearmint - kane minte
 special (distinct) - has  
 species - jung  
 spectator (sightseer, observer) - vider  
-speech (talk) - loge  
 speed (velocity) - sugata  
 speedometer - suga metri gi  
 spice (seasoning) - masala  
@@ -4156,7 +4154,6 @@ spirit (soul, vitality, life force) - jini
 spit - tuh  
 split (dissect) - tome  
 split (fall apart, divide, separate) - be fen  
-spoken - logal  
 sponge - esponje  
 spoon - camaca  
 sport (athletics) - sporte  
@@ -4215,6 +4212,7 @@ store (deposit) - hazin
 store (shop) - dukan  
 storehouse (depository) - hazinkan  
 storm (tempest, typhoon, hurricane, cyclone) - tufan  
+story (tale, narrative, explanation) - logia  
 straight - orto  
 straighten - fa orto  
 strange (unknown) - ansan di  
@@ -4232,7 +4230,6 @@ struggle (strife) - jihade
 student (pupil, learner) - xuler  
 student - studer  
 studio - studekan  
-study (research, science, -ology) - loje  
 study (work in order to practise or demonstrate) - fa estude  
 study (work made in order to practise or demonstrate) - stude  
 stupid (idiotic) - idiote di  
@@ -4300,7 +4297,7 @@ syllable - lexe fen
 symbol (emblem) - simbol  
 symmetry (symmetrical) - sammetria  
 synchretism - sinkredisme  
-syntax (study of phrases) - jumla lojia  
+syntax (study of phrases) - jumla logia  
 syntax - sintaxe  
 synthesis - sinteze  
 Syria - Suria  
@@ -4326,7 +4323,7 @@ Tajikistan - Tajiki
 tajine - tege pote  
 take back - recepe  
 tale (story, legend, saga) - kata  
-talkative - loga tabi di  
+talkative - logive  
 tame (docile, obedient) - dosil  
 tame (train) - fa dosil  
 Tamil - Tamil  
@@ -4365,7 +4362,7 @@ teaspoon - cai camaca
 technetium - tehnetium  
 technique (technology) - tehne  
 technocracy - tehnokratia  
-technology (study of techniques) - tehnolojia  
+technology (study of techniques) - tehnologia  
 tectonic plate - geo kaska plate  
 telegram - telegrame  
 telephone - tele fon  
@@ -4376,6 +4373,7 @@ telephony (telephone communication) - tele fon suta
 teleport - be tele loka  
 telescope - teleskope  
 television - tele vide gi  
+tell (inform, instruct, pass information) - loge  
 tell (narrate) - fa kata  
 tellurium - telurium  
 Telugu - Telugu  
@@ -4419,7 +4417,7 @@ their - damen su
 theism - deisme  
 theist - deiste  
 theocracy - deokratia  
-theology - deojojia  
+theology - deologia  
 theory - teori  
 theosophy - deosofia  
 there - a vo  
@@ -4513,7 +4511,7 @@ towel - tuale
 tower - tore  
 town - nagre  
 toxic (poisonous, venomous) - toxike  
-toxicology - toxolojia  
+toxicology - toxologia  
 toxin - biotoxe  
 toy (plaything) - vanu gi  
 tract (land, ground, region) - stan  
@@ -4552,6 +4550,7 @@ trick (cheat, deceive) - fa truke
 trick (ruse, fraud) - truke  
 trident - tri pike  
 trigonometry - trigonometria  
+trilogy - trilogia  
 Trinidad and Tobago - Trinidade i Tobago  
 triple (threefold) - triple  
 Triton - Triton  
@@ -4647,7 +4646,7 @@ useful (beneficial, advantageous) - faidike
 useful (practical) - uzike  
 user - uzer  
 username - uzer nam  
-utopia - eutopi  
+utopia - eutopia  
 Uzbekistan - Uzbeki  
 
 ## V  
@@ -4679,7 +4678,7 @@ Venezuela - Venezuela
 Venus - Zukra  
 veranda (balcony, terrace, porch) - veranda  
 verb - kar lexi  
-verbal irony (sarcasm) - loga ironi  
+verbal irony (sarcasm) - lexal ironia  
 verify (authenticate) - verife  
 vermouth - vermute  
 version (variation, edition) - version  
@@ -4701,7 +4700,7 @@ vineyard - putau bagi
 vinyl - vinil  
 virgin (pristine, virginal; Virgo) - virge  
 Virgin Islands, US - Virgin nesi  
-virology - virolojia  
+virology - virologia  
 virtue (morals) - bon moral  
 virtuous - bon moral di  
 virus - virus  
@@ -4928,8 +4927,8 @@ zirconium - zirkonium
 zombie - zombi  
 zoo (zoological garden) - hevan bagi  
 zoogeography - hevan geo grafi  
-zoological - hevan lojia di  
-zoology - hevan lojia  
+zoological - hevan logia di  
+zoology - hevan logia  
 zoophily - hevan fili  
 zootoxin - hevan toxi  
 Zoroaster - Zarduxte  
