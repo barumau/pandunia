@@ -164,11 +164,13 @@
  - data culi  
  - data fen lize  
  - dau bano  
+ - dau yunte  
  - dava xe  
  - dava xe lojia  
  - dava xekan  
  - Deimos  
  - dele  
+ - deme  
  - den  
  - den loge  
  - devel  
@@ -204,8 +206,8 @@
  - eletrolize  
  - elfe  
  - Enceladus  
+ - engenia  
  - englix fon di  
- - enjenia  
  - esente  
  - esentia  
  - esential  
@@ -342,6 +344,9 @@
  - gene  
  - gene lojia di  
  - genolojia  
+ - gensal  
+ - gense  
+ - gensolojia  
  - geo elfe  
  - geografia  
  - geometria  
@@ -435,7 +440,7 @@
  - iste  
  - jaibai  
  - jaija  
- - jami karte  
+ - jame karte  
  - jan buda din  
  - janela frem  
  - jaru  
@@ -447,7 +452,6 @@
  - jete  
  - jihade  
  - jini  
- - jinselogi  
  - jong xulakan  
  - judike  
  - jui  
@@ -458,7 +462,6 @@
  - jun bra  
  - jun sau  
  - jun sis  
- - junte  
  - kable  
  - kaki  
  - kali  
@@ -551,7 +554,7 @@
  - li  
  - liga di sanduku  
  - limon jus  
- - limon oranje  
+ - limon orange  
  - lipi cupu  
  - lipide  
  - lipofobia  
@@ -589,7 +592,7 @@
  - Marakux  
  - marce  
  - master de arte (MA)  
- - master de enjenia (ME)  
+ - master de engenia (ME)  
  - master de filsofia (MF)  
  - master de lojia (ML)  
  - master de tehnolojia (MT)  
@@ -634,6 +637,7 @@
  - moto cati  
  - muxmula  
  - muxu cakra  
+ - muzike gense  
  - na xiti  
  - nadir  
  - nafte fonte  
@@ -736,6 +740,10 @@
  - polipli  
  - poliskan  
  - politi mode  
+ - pope muzike  
+ - populal  
+ - populate  
+ - populike  
  - pore  
  - porte  
  - portoriko jen  
@@ -757,7 +765,7 @@
  - pul fito yamisme  
  - pulmon tis  
  - pute  
- - radi longta  
+ - rade longta  
  - radion  
  - rage  
  - ratekan  
@@ -973,6 +981,11 @@
  - you jen  
  - you nen  
  - youta  
+ - yunte  
+ - yunte lexe  
+ - yuntion  
+ - yunture  
+ - zalim yunte  
  - zalime  
  - zarduxtan mager  
  - zelo  
@@ -1101,6 +1114,7 @@
  - kontraverse  
  - kontredite  
  - konverse  
+ - konyuge  
  - luxure  
  - luxuria  
  - mahazin  
@@ -1215,15 +1229,15 @@ ale (lecz) - ama
 alfabet łaciński, łacinka, alfabet rzymski - Latin zi  
 alfabet, abecadło - zi seri  
 alga (wodorost) - alga  
-algebra - jebre  
+algebra - gebre  
 Algieria - Jayer  
 algologia - algalojia  
 aligator - korte krokodil  
 alkohol - alkol  
 alkoholowy - alkolike  
 alofon - alo fon  
-ambasada - dai anjilkan  
-ambasador - dai anjiler  
+ambasada - dai angilkan  
+ambasador - dai angiler  
 amerkański (dotyczący USA, Stanów Zjednoczonych Ameryki) - UDA di  
 ameryk - amerikium  
 Ameryka (kontynent) - Amerike  
@@ -1284,7 +1298,7 @@ artysta - artiste
 Aruba - Aruba  
 arytmetyka - hisabia  
 asceta - askete  
-aseksualny - ansexe di  
+aseksualny - ansexual  
 astat - astatin  
 astma - asma  
 astronauta - astronaver  
@@ -1303,7 +1317,7 @@ autonomia - autonomia
 autonomiczny - autonomike  
 awaria (wadliwe działanie) - dusfunte  
 awokado - avakate  
-Azerbejdżan - Azerbaijan  
+Azerbejdżan - Azeria  
 Azja - Asia  
 azjatycki - asian  
 azot - nitre  
@@ -1319,7 +1333,7 @@ Bahamy - Bahama
 Bahrajn - Bahrain  
 bajka - hevan kata  
 bakburta (lewa burta) - nave leu  
-bakłażan, oberżyna - bedinjan  
+bakłażan, oberżyna - bedingan  
 balon - balon  
 bambus - bambu  
 banan - banana  
@@ -1597,7 +1611,7 @@ czas; okazja - mar
 czasownik - kar lexi  
 czaszka - kapa oste  
 czek - ceke  
-czekać - dele do  
+czekać - dele to  
 czekolada - coklate  
 czempion - campion  
 czerwiec - mes tri  
@@ -1827,7 +1841,7 @@ euro (€) - euro
 europ - europium  
 Europa - Europa  
 europejski - europa di  
-ewangelia - eu anjil  
+ewangelia - eu angil  
 F - F  
 fabryka, manufaktura - canekan  
 fabryka, manufaktura - feteria  
@@ -1917,7 +1931,7 @@ german - germanium
 gest - geste  
 Ghana - Gana  
 ghul - gule  
-Gibraltar - Jibraltar  
+Gibraltar - Gibraltar  
 gitara - gitar  
 glazura (emalia) - glas daka  
 gleba bielicoziemna - hui darte  
@@ -1936,7 +1950,7 @@ gorbusza - rode salmon
 goryl - gorila  
 goryl wschodni - dong gorila  
 goryl zachodni - veste gorila  
-gorzka pomarańcza - kali oranje  
+gorzka pomarańcza - kali orange  
 gorzki - kali guste  
 gorączka - febre  
 gotować, szykować jedzenie - kuke  
@@ -1957,7 +1971,7 @@ grać muzykę - fa muzika
 grać w grę - fa geme  
 grać, odgrywać rolę - dramate  
 Grecja - Helen  
-grejpfrut - putau oranje  
+grejpfrut - putau orange  
 Grenada - Grenada  
 Grenadyny - Grenadin nesi  
 Grenlandia - Kalal  
@@ -2095,7 +2109,7 @@ ile? - ke poli di
 ilość(mnóstwo) - polita  
 ilustrator, grafik - grafer  
 iluzja (halucynacja) - false vide  
-imbir - jinje  
+imbir - ginge  
 imbryk (czajnik) - cai pote  
 imbryk do kawy - kafe pote  
 imię, nazwa - nam  
@@ -2124,7 +2138,7 @@ intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki) - tez
 interesujący - san vol di  
 interfejs - medi fase  
 internet - internete  
-inżynier - enjener  
+inżynier - engener  
 Irak - Iraqi  
 Iran - Iran  
 Irlandia - Eire  
@@ -2162,7 +2176,7 @@ Jamajka - Jamaika
 Japonia - Nipon  
 japoński - nipon di  
 jarmuż - yepa koli  
-jarzmo - yogo  
+jarzmo - yuge  
 jaskinia - gua  
 jasnoniebieski (lazurowy) - sama nil  
 jasny, czysty - ming  
@@ -2229,7 +2243,7 @@ kalif - halife
 kalifat - halifia  
 kaliforn - kalifornium  
 kalkulować - fa hisabu  
-Kambodża - Kambojia  
+Kambodża - Kambodia  
 kamera, aparat fotograficzny - fotografe gi  
 Kamerun - Kamerun  
 kamfora - kafur  
@@ -2247,7 +2261,7 @@ kannada - karnada baxa
 kanoe - kanu  
 kanonier - dai pauer  
 kantalupa - kantalupo melon  
-Kanton - Guangjou  
+Kanton - Guangzou  
 kapelusz, czapka - tupi  
 kaper (korsarz) - nave kaper  
 kapeć (papeć, bambosz) - babuce  
@@ -2455,12 +2469,12 @@ krzemień - hogo seku
 krzyknąć, krzyczeć - krita  
 krzywdzący (szkodliwy) - avarive  
 krzyż - krus  
-król - rajanan  
-król lub królowa - raja  
-królestwo - rajia  
-królewski - raja di  
+król - nan reger  
+król lub królowa - reger  
+królestwo - regia  
+królewski - regal  
 królik, zając - tuzi  
-królowa - rajani  
+królowa - ni reger  
 krótki - korte  
 ksenon - xenon  
 ksiądz, kleryk, kaznodzieja - din guru  
@@ -2589,7 +2603,7 @@ losowy - zarike
 lot - fei  
 lotnisko (port lotniczy) - air porto  
 lub, albo - o  
-lud, społeczeństwo - deme  
+lud, społeczeństwo - pope  
 ludzie (lud, ludność) - nas  
 ludzki - humanike  
 ludzkość, rodzaj ludzki - humania  
@@ -2637,8 +2651,8 @@ Malediwy (Republika Malediwów) - Divehi
 Malezja - Malaisia  
 Mali - Mali  
 Malta - Malta  
-mandarynka - rubi oranje  
-mandarynka Satsuma (pomarańcza Satsuma) - venjou oranje  
+mandarynka - rubi orange  
+mandarynka Satsuma (pomarańcza Satsuma) - venzou orange  
 mandaryński chiński, Putonghua - Putong Han  
 mangan - mangan  
 mango - mango  
@@ -2691,7 +2705,7 @@ mecz, rywalizacja - mece
 medal - medal  
 medalion - medalon  
 media społecznościowe - sosial midia  
-meduza - bahai jele  
+meduza - bahai gele  
 medycyna - dava lojia  
 medytować; dumać, rozmyślać, zastanawiać się - jan  
 megawat - mega vate  
@@ -2865,7 +2879,7 @@ naciskać, zostawiać ślad - fa cape
 nacjonalista - nasiste  
 nacjonalizm - nasisme  
 nad - a supra  
-nadajnik radiowy - radio mise gi  
+nadajnik radiowy - radio miser  
 nadać, wysłać pocztą - fa posta  
 Naddniestrze - Transe Nistre Dexa  
 nadzieja, życzenie - axa  
@@ -2963,7 +2977,7 @@ niewierny (poganin, niewierzący) - kafir
 niezgoda - alo rai  
 nigdy - siro sata  
 Niger - Nijer  
-Nigeria - Naijiria  
+Nigeria - Nigeria  
 nihonium - niponium  
 Nikaragua - Nikaragua  
 nikiel - nikel  
@@ -3363,9 +3377,9 @@ polowanie (łowienie) - saide
 polować (łowić) - fa saide  
 Polska - Polska  
 polski - polska baxa  
-pomarańcza - oranje  
-pomarańcza słodka (pomarańcza chińska) - sukar oranje  
-pomarańczowy - oranje rang  
+pomarańcza - orange  
+pomarańcza słodka (pomarańcza chińska) - sukar orange  
+pomarańczowy - orange rang  
 pomidor - tomate  
 pomnik (memoriał) - memo bina  
 pomoc, wsparcie - mede  
@@ -3414,7 +3428,7 @@ posuwać się do przodu (dokonywać postępu, wejść) - progrese
 poszukiwacz (badacz, eksplorator) - lojosafarer  
 poszukiwacz przygód (awanturnik) - venturer  
 poszukiwać (badać, eksplorować, przeglądać, wyszukiwać) - brauza  
-posłaniec (wysłannik) - anjiler  
+posłaniec (wysłannik) - angiler  
 pot - sueda  
 potas - kalium  
 potrzeba - yauta  
@@ -3615,10 +3629,10 @@ płaskoziemca - plate geiste
 płaszcz - kote  
 płaszcz nieprzemakalny - barxa kote  
 płaszczyzna (płyta) - plate  
-płciowy - jinse di  
-płeć - jinse  
-płeć biologiczna - bio jinse  
-płeć społeczna - sosi jinse  
+płciowy - sexual  
+płeć - sexu  
+płeć biologiczna - biogense  
+płeć społeczna - sosial sexu  
 płot - kinar baryer  
 płuco - pulmon  
 płyta - tegule  
@@ -3631,7 +3645,7 @@ racjonalny, rozsądny - rational
 rad - radium  
 rada, porada - sel  
 radio - radio  
-radio - radio na gi  
+radio - radio ceper  
 radioaktywność - ion radi  
 radioaktywny - ion radi di  
 radoiometr - radometrer  
@@ -3683,7 +3697,7 @@ rock - roke musike
 rocznica - nen festa  
 rod - rodium  
 rodak, ziomek, krajan - sam gogia jen  
-rodzaj gramatyczny - baxe jinse  
+rodzaj gramatyczny - lexe gense  
 rodzeństwo, brat lub siostra - sau  
 rodzic (matka lub ojciec) - cin  
 rodzina - famili  
@@ -3710,7 +3724,7 @@ rozluźnić (poluzować) - laxa
 rozmiar - daita  
 rozmnażać - gene yo hevan  
 rozmowny - loga tabi di  
-rozproszyć, rozpraszać - anjami  
+rozproszyć, rozpraszać - anjame  
 rozróżniać (rozróżnić) - fa has  
 rozstrzępiony (podarty) - cira cira di  
 rozszczepienie jądra atomowego - kerne cira  
@@ -3753,7 +3767,7 @@ ryzykowny - risko di
 ryś - linxe  
 ryś rudy - rubi linse  
 ryż - varis  
-rzadki (rozrzedzony, rozproszony) - anjami di  
+rzadki (rozrzedzony, rozproszony) - anjame di  
 rzadko - nadir mar  
 rzadkość - nadirta  
 rzecz - xe  
@@ -3832,7 +3846,7 @@ sekretariat - bureria
 sekretarz - burer  
 seks, stosunek płciowy - sexu  
 seksowny, ponętny - sexe di  
-seksuologia - sexolojia  
+seksuologia - sexulojia  
 sekunda - sekunde  
 selen - selenium  
 sen - sona  
@@ -3930,7 +3944,7 @@ spodziewany (przewidziany) - previde di
 spokojny - xanti di  
 sporokarp - fungu frute  
 sport, lekkoatletyka - sporte  
-spotkać (spotkanie, zebranie) - ajami  
+spotkać (spotkanie, zebranie) - ajame  
 spowodować, powodować - fa sabu  
 społeczeństwo, system społeczny - sosia  
 społeczny - sosial  
@@ -3965,6 +3979,7 @@ stary (sędziwy, wiekowy) - lau
 stary, starożytny - prezaman di  
 starzec - lau jen  
 statyczny, stacjonarny, nieruchomy - statike  
+staw - oste yunte  
 stać - state  
 stały (sztywny) - gati mate di  
 sterburta (prawa burta) - nave dex  
@@ -4394,7 +4409,7 @@ wejście - intromun
 welon (woalka) - hijabu  
 Wenezuela - Venezuela  
 Wenus - Zukra  
-Wenzhou - Venjou  
+Wenzhou - Venzou  
 weranda, balkon, taras, ganek - veranda  
 wermut - vermute  
 wersja (wariacja, edycja, wydanie) - version  
@@ -4404,10 +4419,10 @@ wewnętrzny - in di
 wewnętrzny - inike  
 wewnętrzny - innatike  
 wełna (runo owcze) - meme kexa  
-wiadomość - anjil  
+wiadomość - angil  
 wiadomość - misaje  
 wiadomość, nius - habar  
-wiadomość, zawiadomienie, powiadomienie - note anjil  
+wiadomość, zawiadomienie, powiadomienie - note angil  
 wiadro - baldi  
 wiadukt, przejście powyżej - supra  
 wiatr - hava  
@@ -4861,7 +4876,7 @@ zły, zrujnowany, zepsuty - harabu
 żeglarz (marynarz) - nave ga ja  
 żeglować (płynąć) - nave ga  
 żegnaj, dobre odejście - sal cuti  
-żel, galareta - jele  
+żel, galareta - gele  
 żelazo - fero  
 żeń-szeń - jensen  
 żołnierz - ordu jen  
@@ -4870,7 +4885,7 @@ zły, zrujnowany, zepsuty - harabu
 żwir - grave  
 życie organiczne - bier  
 żydowski - yehudi  
-żyrafa - jirafa  
+żyrafa - zirafa  
 żywica - rezin  
 żyć (żywy, żyjący; życie) - jiva  
 żółty - huang  

@@ -126,6 +126,8 @@ Andes - Andes
 andesite - andesita  
 Andora - Andorra  
 angar - ancla  
+angil - mensaje  
+angiler - mensajero  
 Angola - Angola  
 angul - dedo  
 angul marke - huella digital  
@@ -137,8 +139,6 @@ animaje - animación (dibujo animado)
 animation - animación  
 animisme - animismo  
 anis - anís  
-anjil - mensaje  
-anjiler - mensajero  
 Antartika - antartida  
 Antartika Bahai - océano Antártico  
 antena - antena  
@@ -239,7 +239,7 @@ axa hin - desesperado
 Axur - Assur (Ashur)  
 Axuria - Asiria  
 ayo - ay!  
-Azerbaijan - Azerbaiyán  
+Azeria - Azerbaiyán  
 
 ## B  
 
@@ -262,9 +262,9 @@ bahai - mar
 bahai alga - macroalga  
 bahai amirer - almirante  
 bahai di - marítimo  
+bahai gele - medusa  
 bahai hiyar - holoturia (pepino de mar)  
 bahai hua - actinia (anémonas de mar)  
-bahai jele - medusa  
 bahai kinar - costa (orilla)  
 bahai ordu - marina (armada)  
 bahai porto - puerto marítimo  
@@ -344,7 +344,6 @@ bauite - piedra preciosa (joya, gema)
 • trabaxe - traducir (interpretar; tradicción, interpretación)  
 • trabaxer - traductor  
 baxe - lengua (idioma, hablar, comunicación)  
-baxe jinse - género gramatical  
 baxe kanun - gramática  
 baxe kanun di - gramatical  
 baxe lojia - lingüística  
@@ -420,7 +419,7 @@ be xuru - comenzar (iniciarse, empezar)
 be zai - aparecer  
 bebe - bebé  
 bede - cama (lecho)  
-bedinjan - berenjena  
+bedingan - berenjena  
 bega - escaparse (evitar, huir)  
 behe - cabra  
 bei - socio (compañero)  
@@ -464,7 +463,7 @@ bilor - cristal
 bine plan - arquitectura  
 bine planer - arquitecto  
 bindu - punto (lunar)  
-bio jinse - sexo  
+biogense - sexo  
 bio sana xe - abono orgánico (compost)  
 bir - cerveza (birra)  
 birkan - bar (pub)  
@@ -657,8 +656,8 @@ cuti mun - salida
 da - él o ella  
 damen - ellos o ellas  
 dai - grande  
-dai anjiler - embajador  
-dai anjilkan - embajada  
+dai angiler - embajador  
+dai angilkan - embajada  
 dai bahai - océano  
 dai barxa - chubasco (chaparrón)  
 dai dom - palacio (mansión)  
@@ -732,8 +731,7 @@ defer - defensor
 defe kaska - armadura  
 deha - aldea  
 dele - demora (retraso)  
-dele do - esperar  
-deme - pueblo (población)  
+dele to - esperar  
 demal - público  
 demografia - demografía  
 demokratia - democracia  
@@ -884,12 +882,12 @@ eletroposte (e-poste) - email (correo electrónico)
 eletrorade - relámpago  
 elfe - elfo  
 energia - energía  
+engener - ingeniero  
+engenia - ingeniería  
 Englix - Inglaterra  
 englix di - inglés  
 englix filiste - anglófilo  
 englix margarita - margarita común (pascueta)  
-enjener - ingeniero  
-enjenia - ingeniería  
 enzim - enzima  
 erbium - erbio  
 Eris - Eris (planeta enano)  
@@ -915,7 +913,7 @@ etanol - etanol
 etil - etilo  
 Etiopia - Etiopía  
 eu - beneficioso (bueno)  
-eu anjil - evangelio  
+eu angil - evangelio  
 eu loga - elogio  
 Eurasia - Eurasia  
 eureka - econtrar (hallar)  
@@ -1411,7 +1409,9 @@ geolojia - geología
 geometria - geometría  
 geopolitia - geopolítica  
 geoterme - geotérmico  
+gebre - álgebra  
 gei - gay (homosexual)  
+gele - gel (jalea, gelatina)  
 gem - espada  
 geme - juego  
 gemer - jugador  
@@ -1424,6 +1424,8 @@ gene logu - genealogía
 gene lojia di - genético  
 gene tipe - genotipo  
 gene yo hevan - criar  
+gense - género  
+gensal - general  
 geo dou - maní  
 geo forme - terreno  
 geo kaska plate - placa tectónica  
@@ -1440,11 +1442,13 @@ germanium - germanio
 Gernezi - Guernesey  
 geste - gesto  
 gi - máquina (dispositivo, aparato)  
+Gibraltar - Gibraltar  
 gide - guiar  
 gide buku - guía de viaje  
 gider - guía  
 giga - giga-  
 ging - paralelo  
+ginge - gengibre  
 ging gola - meridiano (línea de longitud)  
 ging gradu - longitud  
 gingam - kumquat (quinoto)  
@@ -1788,13 +1792,13 @@ jaga - despierto
 jai - gañar (vencer, triunfar; victoria)  
 jain din - jainismo  
 jake - chaqueta  
+• ajame - encontrar (reunión, junta, mitin)  
+• anjame - dispersar (esparcir, desmontar)  
+• anjame di - escaso (disperso, ralo)  
 jamia - colección (grupo, conjunto, montón)  
 jamive - colectivo  
+jame karte - cromo  
 Jamaika - Jamaica  
-• ajami - encontrar (reunión, junta, mitin)  
-• anjami - dispersar (esparcir, desmontar)  
-• anjami di - escaso (disperso, ralo)  
-jami karte - cromo  
 jampe - saltar (brincar)  
 jan - meditar (reflexionar)  
 jan buda din - budismo zen  
@@ -1812,7 +1816,6 @@ Jayer - Argelia
 jaze - jazz  
 jebe - bolsillo  
 jebe caku - navaja  
-jebre - álgebra  
 jeka - prestar (pedir prestado)  
 jeka don - prestar  
 jeka loga - préstamo lingüístico  
@@ -1821,7 +1824,6 @@ jela - prisión
 jela ja - carcelero  
 jela jen - prisionero  
 jelakan - cárcel  
-jele - gel (jalea, gelatina)  
 jen - persona (ista, -ador)  
 jen di - personal (privado, a medida)  
 jen jami - muchedumbre  
@@ -1832,13 +1834,9 @@ Jerze - Jersey
 • injete - inyectar (inyección)  
 • projete - proyecto  
 jete grafe - proyectar (proyección)  
-Jibraltar - Gibraltar  
 Jibuti - Yibuti  
 jihade - lucha  
 jini - espíritu (genio)  
-jinje - gengibre  
-jinse - sexo (género)  
-jirafa - jirafa  
 jiva - vivir (vivo; vida)  
 • trajiva - sobrevivir  
 joke - broma (chiste)  
@@ -1912,7 +1910,7 @@ kali - base (álcali; alcalino)
 kali di - alcalino  
 kali guste - amargo  
 kali melon - melón amargo  
-kali oranje - naranjo amargo  
+kali orange - naranjo amargo  
 kalifornium - californio  
 kalkul - cálculo  
 kalmar - calamar  
@@ -1926,7 +1924,7 @@ kamia - escasez
 kama - lujuria (deseo)  
 kamar - habitación (cuarto, sala, pieza)  
 kamar dipe - piso (suelo)  
-Kambojia - Camboya  
+Kambodia - Camboya  
 Kamerun - Camerún  
 kamil - manzanilla de Castilla  
 kamisa - camisa  
@@ -2294,6 +2292,7 @@ lexal - léxico
 lexasle - etimología  
 lexeme - lexema  
 lexe fen - sílaba  
+lexe gense - género gramatical  
 lexe jama - vocabulario (léxico)  
 lexe liste - disionario (lexicón)  
 liama - llama  
@@ -2321,7 +2320,7 @@ limite - límite (frontera, linde)
 limon - limón  
 limon jus - limonada  
 limon luga di - verde limón  
-limon oranje - cítrico  
+limon orange - cítrico  
 lin - linea (hilo, cordel, raya)  
 lin parce - nueva línea  
 lin so - hebra (fibra)  
@@ -2722,7 +2721,6 @@ nagre - pueblo
 nagral - urbano  
 nagre gogia - ciudad estado  
 nahun - uña  
-Naijiria - Nigeria  
 najis - contaminación (corrupción, porquería, suciedad)  
 najis bindu - mancha  
 najis di - corrompido  
@@ -2736,6 +2734,7 @@ nam tikete - gafete (etiqueta de identificación)
 Namibia - Namibia  
 nan - masculino (macho)  
 nan per (man) - esposo  
+nan reger - rey  
 nano - nano-  
 nano mitre - nanometre  
 naraka - infierno  
@@ -2826,11 +2825,13 @@ neuropatia - neuropatía
 Nevis - Nieves  
 ni - mujer (hembra)  
 ni per (fem) - esposa  
+ni reger - reina  
 nia - intención (intento)  
 nice - parte inferior  
 nice di - inferior  
 nice kitaba - subtítulos  
 nide - nido (avispero, hormiguero, ratonera)  
+Nigeria - Nigeria  
 Nijer - Níger  
 Nikaragua - Nicaragua  
 nikel - níquel  
@@ -2875,7 +2876,7 @@ nos di - nasal
 nostalgia - nostalgia  
 nostalgike - nostálgico  
 note - notar (observar)  
-note anjil - aviso (notificación)  
+note angil - aviso (notificación)  
 note buku - cuaderno (libreta)  
 note xe - nota  
 nude - desnudo  
@@ -2903,8 +2904,8 @@ onda - onda
 Onduras - Honduras  
 onor - respeto (honor)  
 onor di - respetable (honorable)  
-oranje - naranja  
-oranje rang - anaranjado  
+orange - naranja  
+orange rang - anaranjado  
 ordu - ejército  
 ordu jen - soldado  
 ordu jen kan - cuartel (barraca)  
@@ -2929,6 +2930,7 @@ Osman Imperi Dexa - Imperio otomano
 osmos - ósmosis  
 oste - hueso  
 oste jama - esqueleto (armazón)  
+oste yunte - articulación  
 Ostria - Austria  
 ote - optar  
 otimal - óptimo  
@@ -3155,6 +3157,10 @@ Polska - Polonia
 polska baxa - idioma polaco  
 pompe - bomba  
 pompe tape - pistón  
+pope - pueblo (población)  
+pope muzike - música pop (música popular)  
+populal - popular  
+populike - público  
 pore - poro  
 porei - puerro (cebolla larga)  
 porno - porno  
@@ -3234,7 +3240,7 @@ punte nume - puntuación (resultado)
 pupe - marioneta (títere)  
 putau - uva  
 putau bagi - viñedo  
-putau oranje - pomelo (toronja)  
+putau orange - pomelo (toronja)  
 pute - podrido (cariado)  
 pute - contar (calcular)  
 • konpute - calcular (computar)  
@@ -3249,20 +3255,15 @@ Qazaqe - Kazajistán (Kazakistan)
 rade - rayo  
 radion - radiación  
 radium - radio  
+rade longta - radio (mitad de diámetro)  
 radometrer - radiómetro  
-radi longta - radio (mitad de diámetro)  
 radio - radio  
-radio mise gi - radiotransmisor  
-radio na gi - receptor de radio  
+radio ceper - receptor de radio  
+radio miser - radiotransmisor  
 radon - radón  
 ragubi - rugbi  
 ragbi - bóng bầu dục  
 rai - opinión (juicio, consideración)  
-rajia - reino  
-raja - rey o reina  
-raja di - real (de realtad)  
-rajanan - rey  
-rajani - reina  
 rakete - cohete (misil)  
 rakete lanser - lanzamisiles  
 rakun - mapache (oso lavador)  
@@ -3290,6 +3291,9 @@ realisme - realismo
 realta - realidad  
 rebel - rebelión (sublevación)  
 redi - listo (preparado)  
+regal - real (regio)  
+reger - rey o reina  
+regia - reino  
 Ren - Rin  
 renium - renio  
 rentegenium - roentgenio  
@@ -3346,7 +3350,7 @@ rubium - rubidio
 rubi - rojo  
 rubi bau seku - rubí  
 rubi linse - lince rojo (gato montés)  
-rubi oranje - mandarina (tangerina)  
+rubi orange - mandarina (tangerina)  
 rubi salmon - salmón rojo  
 ruhu - psique  
 ruhu di - mental (psíquico)  
@@ -3508,11 +3512,12 @@ serve - servicio
 server - criado (sirviente)  
 server - servidor  
 sesam - ajonjolí (sésamo)  
-sexolojia - sexología  
-• ansexe di - asexual  
 sexe di - sexy (sexual)  
 Sexel nesi - Seychelles  
+sexu - sexo (género)  
 sexu - sexo  
+• ansexual - asexual  
+sexulojia - sexología  
 si - si (suponer)  
 Sibiria - Siberia  
 siborgium - seaborgio  
@@ -3592,9 +3597,9 @@ sos - salsa
 sosia - sociedad  
 sosial - social  
 sosial midia - redes sociales  
+sosial sexu - género social  
 sosisme - socialismo  
 sosiste - socialista  
-sosi jinse - género social  
 sosis - salchicha  
 Soto - Lesoto  
 • inspete - inspeccionar (examinar, revisar, chequear)  
@@ -3968,9 +3973,9 @@ devel - develar (revelar)
 vende - vender  
 vende xope - comercio  
 Venezuela - Venezuela  
-venjou oranje - unshu mikan  
 ventur - aventura  
 venturer - aventurero  
+venzou orange - unshu mikan  
 ver - verdadero  
 verife - autenticar  
 veranda - balcón (terraza, veranda)  
@@ -4175,13 +4180,16 @@ yo sata - algún día (algún vez)
 yo xe - algo  
 yoga - yoga  
 yogaiste - yogui  
-yogo - yugo  
 yogur - yogur  
 Yohan festa - día de San Juan  
 you - infantil (inmaduro)  
 you moke - pimpollo  
 you nan - niño  
 you ni - niña  
+yuge - yugo  
+• konyuge - conjugar (conjugación)  
+yunte lexe - conjunción  
+yunture - juntura  
 yurta - yurta  
 yuterbium - iterbio  
 yutrium - itrio  
@@ -4198,6 +4206,7 @@ zaitun - aceituna
 zalimer - tirano (déspota)  
 zalimia - crueldad (tiranía)  
 zalimive - tiránico (mezquino, cruel)  
+zalim yunte - junta militar  
 zaman - tiempo  
 • prezaman - pasado  
 • prezaman di - viejo (antiguo)  
@@ -4221,6 +4230,7 @@ zinke - cinc
 zipe - cerrar con cremallera  
 ziper - cremallera  
 zira - comino  
+zirafa - jirafa  
 zirkon - circón  
 zirkonium - circonio  
 ziza - zigzag  

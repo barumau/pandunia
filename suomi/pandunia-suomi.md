@@ -172,6 +172,8 @@ Andes - Andit
 andesite - andesiitti  
 Andora - Andorra  
 angar - ankkuri  
+angil - viesti  
+angiler - viestintuoja (airut)  
 Angola - Angola  
 angul - sormi tai varvas  
 angul marke - sormenjälki  
@@ -186,8 +188,6 @@ animation - animointi
 animisme - animismi  
 anis - anis  
 anis araki - raki  
-anjil - viesti  
-anjiler - viestintuoja (airut)  
 Antartika - Antarktis  
 Antartika Bahai - Eteläinen Jäämeri  
 antena - antenni  
@@ -289,7 +289,7 @@ Axur - Assur
 Axuria - Assyria  
 aya - piika  
 ayo - oi! (ai, oijoi)  
-Azerbaijan - Azerbaidžan  
+Azeria - Azerbaidžan  
 
 ## B  
 
@@ -316,9 +316,9 @@ bahai alga - merilevä
 bahai amirer - amiraali  
 bahai cau - meriheinä  
 bahai di - meri- (merellinen)  
+bahai gele - meduusa  
 bahai hiyar - merimakkara  
 bahai hua - merivuokko  
-bahai jele - meduusa  
 bahai kinar - merenranta  
 bahai nil - merensininen  
 bahai ordu - merivoimat (sotalaivasto)  
@@ -407,7 +407,6 @@ bauite - jalokivi
 • trabaxer - kääntäjä (tulkki)  
 • unbaxike - yksikielinen  
 baxe - puhua (kieli, kommunikaatio)  
-baxe jinse - kieliopillinen suku  
 baxe kanun - kielioppi  
 baxe kanun di - kieliopillinen  
 baxe lojia - kielitiede (lingvistiikka)  
@@ -496,7 +495,7 @@ be zai - ilmestyä
 bebe - vauva  
 bebe bede - pinnasänky  
 bede - vuode (sänky, peti)  
-bedinjan - munakoiso  
+bedingan - munakoiso  
 bega - paeta (karata)  
 behe - vuohi  
 bei - toveri (saman joukon jäsen)  
@@ -547,7 +546,7 @@ bine - rakennus (rakenne)
 bine plan - arkkitehtuuri  
 bine planer - arkkitehti  
 bindu - täplä (läiskä)  
-bio jinse - biologinen sukupuoli  
+biogense - biologinen sukupuoli  
 bio lasa - biojäte  
 bio mute di - hapatettu  
 bio sana xe - komposti  
@@ -762,8 +761,8 @@ damen su - heidän
 damimen - me mutta et sinä  
 da su - hänen (sen)  
 dai - iso (suuri)  
-dai anjiler - lähettiläs  
-dai anjilkan - lähetystö  
+dai angiler - lähettiläs  
+dai angilkan - lähetystö  
 dai bahai - valtameri  
 dai barxa - rankkasade  
 dai dara - hyöky (vyöry)  
@@ -818,6 +817,7 @@ dau - tie
 dau bano - liikennemerkki  
 dauisme - taolaisuus  
 dauiste - taolainen  
+dau yunte - liittymä  
 dava - hoitaa (lääkitä)  
 davaer - lääkäri (tohtori)  
 dava lojia - lääketiede  
@@ -844,8 +844,8 @@ defe kaska - suojakypärä
 deha - kylä  
 Deimos - Deimos  
 dele - viive (odotus)  
-dele do - odottaa  
-deme - väestö (kansa)  
+dele to - odottaa  
+deme - kansa  
 demografia - väestötiede (demografia)  
 demokratia - demokratia  
 demokratike - demokraattinen  
@@ -1012,13 +1012,13 @@ eletrorade - salama
 elfe - haltia (tonttu)  
 Enceladus - Enceladus  
 energia - energia  
+engener - insinööri  
+engenia - insinööritaito  
 Englix - Englanti  
 englix di - englanti  
 englix filiste - anglofiili  
 englix fon di - englantia puhuva (anglofoni)  
 englix margarita - kaunokainen  
-enjener - insinööri  
-enjenia - insinööritaito  
 enzim - entsyymi  
 erbium - erbium  
 Eris - Eris (kääpiöplaneetta)  
@@ -1046,7 +1046,7 @@ etanol - etanoli
 etil - etyyli  
 Etiopia - Etiopia  
 eu - hyvä (eettisesti hyvä)  
-eu anjil - evankeliumi(hyvä sana)  
+eu angil - evankeliumi(hyvä sana)  
 eu deu sim - euteismi (usko jumalan hyvyyteen)  
 eu gene sim - eugeniikka  
 eu loga - ylistys  
@@ -1595,7 +1595,9 @@ Geia - Maa (Tellus)
 geolojia - geologia (maaperäntutkimus)  
 geometria - geometria  
 geopolitia - geopolitiikka  
+gebre - algebra  
 gei - homo (homoseksuaali)  
+gele - hyytelö  
 gem - miekka  
 geme - peli  
 gem dau - kendo  
@@ -1608,6 +1610,9 @@ gene klas - sääty (kasti)
 gene logu - sukututkimus  
 gene lojia di - geneettinen  
 gene tipe - perimä (genotyyppi)  
+gense - laji (tyyppi, lajityyppi, kategoria, genre, sortti)  
+gensal - yleinen (koko lajia koskeva)  
+gensolojia - sukupuolitutkimus  
 geo dou - maapähkinä  
 geo elfe - maahinen  
 geo forme - maasto (maan muodot)  
@@ -1625,10 +1630,12 @@ germanium - germanium
 Gernezi - Guernsey  
 geste - ele  
 gi - kone  
+Gibraltar - Gibraltar  
 gide - opastaa (ohjata)  
 gide buku - matkaopas (opaskirja)  
 gider - opas (tiennäyttäjä)  
 ging - pitkittäinen  
+ginge - inkivääri  
 ging gola - pituuspiiri  
 ging gradu - pituusaste  
 ging lin - loimi  
@@ -1708,7 +1715,7 @@ guan - virka (virka-asema)
 guan - leveä  
 guan di - virallinen  
 guaner - virkailija (virkamies)  
-Guangjou - Guangzhou (Kanton)  
+Guangzou - Guangzhou (Kanton)  
 Guatemala - Guatemala  
 gubu - virtahepo  
 gui - peikko  
@@ -1998,13 +2005,13 @@ jaija - voittaja
 jain din - jainalaisuus  
 Jakarta - Jakarta  
 jake - pikkutakki (jakku)  
+• ajame - tavata (tapaaminen, kokous)  
+• anjame - hajauttaa  
+• anjame di - hajanainen  
 jamia - yhteisö (kokoontuminen, kollektiivi)  
 jamive - kollektiivinen  
+jame karte - keräilykortti  
 Jamaika - Jamaika  
-• ajami - tavata (tapaaminen, kokous)  
-• anjami - hajauttaa  
-• anjami di - hajanainen  
-jami karte - keräilykortti  
 jampe - hypätä (hyppiä)  
 jamul - jambolaani  
 jan - pohtia (meditoida)  
@@ -2024,11 +2031,9 @@ Jayer - Algeria
 jaze - jazz (jatsi)  
 jebe - tasku  
 jebe caku - taskuveitsi (linkkuveitsi)  
-jebre - algebra  
 jela - vankeus  
 jela ja - vanginvartija  
 jelakan - vankila  
-jele - hyytelö  
 jen - henkilö  
 jen (jen men) - ihmiset (yleisen persoonan pronomini)  
 jen bahai - ihmismeri  
@@ -2041,15 +2046,9 @@ Jerze - Jersey
 • injete - ruiskuttaa (ruiske, injektio)  
 • projete - hanke (projekti)  
 jete grafe - heijastaa kuvia (projisoida; projektio)  
-Jibraltar - Gibraltar  
 Jibuti - Djiboutia  
 jihade - kamppailu (taistelu)  
 jini - henki (sielu)  
-jinje - inkivääri  
-jinse - sukupuoli  
-jinse di - sukupuolinen  
-jinselogi - sukupuolitutkimus  
-jirafa - kirahvi  
 jiva - elää (elävä; elämä, olemassaolo)  
 • trajiva - selviytyä  
 joke - vitsi  
@@ -2079,7 +2078,6 @@ junnen - nuoruusvuodet
 jun sis - pikkusisko  
 junta - nuoruus  
 jung - laji  
-junte - nivel (liitos)  
 jupe - hame  
 jus - mehu  
 juste - juuri (tarkka, täsmällinen)  
@@ -2130,7 +2128,7 @@ kama - himo (seksuaalinen halu)
 kama deu - rakkaudenjumala  
 kamar - huone  
 kamar dipe - lattia  
-Kambojia - Kambodja  
+Kambodia - Kambodja  
 Kamerun - Kamerun  
 kamil - kamomilla  
 kamisa - paita  
@@ -2512,6 +2510,7 @@ lexal - sanastollinen
 lexasle - etymologia  
 lexeme - lekseemi  
 lexe fen - tavu  
+lexe gense - kieliopillinen suku  
 lexe jama - sanasto  
 lexe liste - sanaluettelo  
 li - kaltainen (-llinen)  
@@ -2689,7 +2688,7 @@ masala tike - tikka masala
 maska - naamio (maski)  
 maste - taitaa (olla mestari jskn)  
 master - mestari (asiantuntija)  
-master de enjenia (ME) - diplomi-insinööri  
+master de engenia (ME) - diplomi-insinööri  
 master de filsofia (MF) - filosofian maisteri  
 master de lojia (ML) - filosofian maisteri luonnontieteistä  
 master de tehnolojia (MT) - tekniikan maisteri  
@@ -2914,6 +2913,7 @@ Muxin - Jupiter
 muxinden - torstai  
 muxmula - mispeli  
 muxu - hiiri tai rotta  
+muzike gense - musiikin lajityyppi  
 muzike - musiikki  
 muziker - muusikko  
 
@@ -2933,7 +2933,6 @@ nagre - kaupunki
 nagre gogia - kaupunkivaltio  
 nagria - urbaani valtio  
 nahun - kynsi  
-Naijiria - Nigeria  
 nam - nimi  
 • annam - vastakohta (antonyymi)  
 nam hin - nimetön  
@@ -2941,6 +2940,7 @@ nam loga - substantiivi (nimisana)
 Namibia - Namibia  
 nan - uros (mies)  
 nan per (man) - aviomies  
+nan reger - kuningas  
 nano - nano-  
 nano mitre - nanometri  
 naraka - helvetti  
@@ -3033,9 +3033,11 @@ neurotoxe - hermomyrkky
 Nevis - Nevis  
 ni - naaras  
 ni per (fem) - vaimo  
+ni reger - kuningatar  
 nia - aie (aikomus, tarkoitus)  
 nice - alapuoli  
 nice di - ala-  
+Nigeria - Nigeria  
 Nijer - Niger  
 Nikaragua - Nikaragua  
 nikel - nikkeli  
@@ -3080,7 +3082,7 @@ nos - nenä
 nos di - nenä- (nasaali)  
 nostalgia - kaipuu (ikävä, nostalgia)  
 note - huomata (hoksata)  
-note anjil - huomautus  
+note angil - huomautus  
 note buku - muistikirja  
 note xe - huomio (kommentti, merkintä)  
 nu - no  
@@ -3107,8 +3109,8 @@ onda - aalto (laine)
 Onduras - Honduras  
 onor - kunnioitus (arvostus)  
 onor di - kunnianarvoisa  
-oranje - appelsiini  
-oranje rang - oranssi  
+orange - appelsiini  
+orange rang - oranssi  
 ordu - armeija (sotajoukko)  
 ordu jen - sotilas  
 ordu jen kan - kasarmi  
@@ -3130,6 +3132,7 @@ osman - osmani (ottomaani)
 Osman Imperi Dexa - Osmanien valtakunta  
 osmos - osmoosi  
 oste - luu  
+oste yunte - nivel (luiden liitoskohta)  
 Ostria - Itävalta  
 ote - suosia (pitää parempana)  
 otime - optimi (paras)  
@@ -3372,6 +3375,9 @@ Polska - puola
 polska baxa - puolalainen  
 pompe - pumppu  
 pompe tape - mäntä  
+pope - väestö (rahvas)  
+populal - popularny  
+populike - publiczny  
 pore - huokonen  
 porei - purjo  
 porno - porno  
@@ -3472,16 +3478,11 @@ rade - säde
 radion - säteily  
 radium - radium  
 radometrer - säteilymittari  
-radio mise gi - radiolähetin  
-radio na gi - radiovastaanotin  
+radio ceper - radiovastaanotin  
+radio miser - radiolähetin  
 radon - radon  
 rage - kiihko (tunteen palo)  
 rai - mielipide (näkemys)  
-rajia - kuningaskunta  
-raja - monarkki (kuningas, kuningatar)  
-raja di - kuninkaallinen  
-rajanan - kuningas  
-rajani - kuningatar  
 rakete - raketti  
 rakete lanser - sinko (raketinheitin)  
 rakun - pesukarhu  
@@ -3510,6 +3511,9 @@ realiste - realisti
 realta - todellisuus  
 rebel - kapina  
 redi - valmis  
+regal - kuninkaallinen  
+reger - monarkki (kuningas, kuningatar)  
+regia - kuningaskunta  
 Ren - Rein  
 renium - renium  
 rentegenium - roentgenium  
@@ -3559,7 +3563,7 @@ Ruanda - Ruanda
 rubium - rubidium  
 rubi - punainen  
 rubi bau seku - rubiini  
-rubi oranje - mandariini  
+rubi orange - mandariini  
 ruhu - henki (sielu, mieli, psyyke)  
 ruhu di - henkinen (psyykkinen)  
 ruhu lojia - psykologia  
@@ -3717,11 +3721,13 @@ serpe - käärme
 serve - palvelu (palvelus)  
 server - palvelija (tarjoilija)  
 sesam - seesami  
-sexolojia - seksologia  
-• ansexe di - aseksuaali  
 sexe di - seksikäs  
 Sexel nesi - Seychellit  
+sexu - sukupuoli  
 sexu - seksi (sukupuolisuhde)  
+sexual - sukupuolinen  
+• ansexual - aseksuaali  
+sexulojia - seksologia  
 si - jos (olettaa)  
 Sibiria - Siperia  
 siborgium - seaborgium  
@@ -4205,10 +4211,10 @@ vende - myydä
 vende xope - kaupankäynti (osto ja myynti)  
 vende xope ja - kauppias  
 Venezuela - Venezuela  
-Venjou - Wenzhou  
-venjou oranje - satsuma  
 ventur - seikkailu  
 venturer - seikkailija  
+Venzou - Wenzhou  
+venzou orange - satsuma  
 ver - tosi (aito)  
 verife - todentaa  
 veranda - kuisti (terassi, veranta, parveke)  
@@ -4441,7 +4447,6 @@ yo sata - joskus
 yo xe - jokin  
 yoga - jooga  
 yogaiste - joogi  
-yogo - ies  
 yogur - jogurtti  
 Yohan festa - juhannus (kristillinen juhla)  
 Yoruba - joruban kansa ja kieli  
@@ -4451,6 +4456,12 @@ you nan - poika (nuori mies)
 you nen - lapsuusvuodet  
 you ni - tyttö (nuori neito)  
 youta - lapsuus (epäkypsyys)  
+yuge - ies  
+• konyuge - konjugaatio  
+yuntion - liittäminen  
+yunte lexe - konjunktio (sidesana)  
+yunture - risteys (liittymä)  
+yunte - nivel (liitos)  
 yurta - jurtta  
 yuterbium - ytterbium  
 yutrium - yttrium  
@@ -4468,6 +4479,7 @@ zalime - alistaa
 zalimer - tyranni  
 zalimia - tyrannia  
 zalimive - ilkeä (julma)  
+zalim yunte - sotilasjuntta  
 zaman - aika  
 • prezaman - menneisyys  
 • prezaman di - vanha (muinainen)  
@@ -4492,6 +4504,7 @@ zinke - sinkki
 zipe - sulkea vetoketjulla  
 ziper - vetoketju  
 zira - juustokumina (jeera)  
+zirafa - kirahvi  
 zirkon - zirkoni  
 zirkonium - zirkonium  
 ziza - siksakki  

@@ -202,7 +202,7 @@ anagesia - algesia
 anal - anusal  
 analgésico - analgive  
 analizar (análisis) - fen lize  
-anaranjado - oranje rang  
+anaranjado - orange rang  
 ancho - guan  
 anchoa - ancovi  
 anchura - guanta  
@@ -301,6 +301,7 @@ arsénico - arsenium
 arte marcial - jang suta  
 artefacto - arte fete  
 artesano - arte saner  
+articulación - oste yunte  
 artificial (sintético) - arte fete di  
 artista - artiste  
 Artsaj - Arcah  
@@ -313,7 +314,7 @@ asar - kababu
 asceta - askete  
 aserradero - xarakan  
 asesino - mataja  
-asexual - ansexe di  
+asexual - ansexual  
 Asia - Asia  
 Asiria - Axuria  
 asiático - asian  
@@ -360,7 +361,7 @@ avena - ave
 aventura - ventur  
 aventurero - venturer  
 avisar (notificar) - fa note  
-aviso (notificación) - note anjil  
+aviso (notificación) - note angil  
 avispero (colmena) - vespa nide  
 axproximarse - be karibu  
 ay! - ayo  
@@ -370,7 +371,7 @@ ayudar (asistar) - fa mede
 azada - copu  
 azafrán - safran  
 azar (aleatorio) - zarike  
-Azerbaiyán - Azerbaijan  
+Azerbaiyán - Azeria  
 azucarado - sukar di  
 azuela - benzi  
 azufre - sulfe  
@@ -451,7 +452,7 @@ bellota - baluta frute
 beneficio - faide  
 beneficioso (bueno) - eu  
 Benín - Benin  
-berenjena - bedinjan  
+berenjena - bedingan  
 berilio - berilium  
 berkelio - berklium  
 Bermuda - Bermuda  
@@ -604,7 +605,7 @@ camarón (gamba) - gamba
 cambiar (demudar) - alofa  
 cambiar - mute  
 cambio climático - klima mute  
-Camboya - Kambojia  
+Camboya - Kambodia  
 camello - gamel  
 Camerún - Kamerun  
 caminar (marchar, andar) - fa marce  
@@ -916,6 +917,8 @@ confucio - Kung Fuzi
 confundido - ruhu mixe di  
 confundir (desconcertar, perplejo) - ruhu mixe  
 congelarse (helarse) - be ais  
+conjugar (conjugación) - konyuge  
+conjunción - yunte lexe  
 cono - kone  
 conocer - ken  
 consecuencia (siguiente) - pos  
@@ -1013,7 +1016,7 @@ Cristo - kriste
 criticar (evaluar) - fa piping  
 Croacia - Horvatia  
 crocodilio - krokodil  
-cromo - jami karte  
+cromo - jame karte  
 cromo - kromium  
 cronómetro - dura metri gi  
 cruasán - kruasan  
@@ -1083,7 +1086,7 @@ Cáucaso - Kaukasia
 célula - selu  
 césped (pasto) - cau medan  
 círculo - gola  
-cítrico - limon oranje  
+cítrico - limon orange  
 cóctel - mixe alkol  
 código (cifra) - kode  
 cólera - holera  
@@ -1238,7 +1241,7 @@ disentir (no estar de acuerdo) - fa alo rai
 disfrutar (jugar) - be vanu  
 disionario (lexicón) - lexe liste  
 disparar - pau  
-dispersar (esparcir, desmontar) - anjami  
+dispersar (esparcir, desmontar) - anjame  
 disposición (naturaleza, carácter, -ivo) - tabi  
 dispositivo pirotécnico - hogo tehni  
 disprosio - disprosium  
@@ -1343,8 +1346,8 @@ elogio - eu loga
 elástico (flexible) - elastike  
 eléctrico - eletrike  
 email (correo electrónico) - eletroposte (e-poste)  
-embajada - dai anjilkan  
-embajador - dai anjiler  
+embajada - dai angilkan  
+embajador - dai angiler  
 embalar (llevar) - fa pake  
 embarazado (preñado) - hamil  
 embarrado (enlodado) - poto di  
@@ -1367,7 +1370,7 @@ en el sentido del las agujas del reloj - rota dex
 en línea - a lin  
 encanto (fascinación) - carme  
 encarcelar (aprisionar) - fa jela  
-encontrar (reunión, junta, mitin) - ajami  
+encontrar (reunión, junta, mitin) - ajame  
 encontrarse (estar, situarse) - be loka  
 encurtido - acar di  
 encurtir - fa acar  
@@ -1422,7 +1425,7 @@ escandio - skandium
 escaparse (evitar, huir) - bega  
 escarcha - hima rose  
 escasez - kamia  
-escaso (disperso, ralo) - anjami di  
+escaso (disperso, ralo) - anjame di  
 escenario (podio, estrado, tarima) - tai  
 escoba - jaru  
 Escocia - Skotia  
@@ -1462,7 +1465,7 @@ espejismo - miraje
 espejo (retrovisor) - mira plate  
 Esperanto - esperanto  
 esperar (desear) - axa  
-esperar - dele do  
+esperar - dele to  
 espicificar (estipular) - fa xarti  
 espiral (hélice) - helix  
 esponja - esponje  
@@ -1519,7 +1522,7 @@ Europa - Europa
 europeo - europa di  
 europio - europium  
 evaluación (crítica) - piping  
-evangelio - eu anjil  
+evangelio - eu angil  
 eviar por correo - fa posta  
 evidente - exvidebil  
 exacto (preciso) - juste  
@@ -1709,16 +1712,17 @@ gato manchado (tigrillo) - bagre oselote
 gato tigre (maracayá) - margai  
 gay (homosexual) - gei  
 gañar (vencer, triunfar; victoria) - jai  
-gel (jalea, gelatina) - jele  
+gel (jalea, gelatina) - gele  
 genealogía - gene logu  
 generación (cohorte) - gene grupe  
 general (common) - putong  
+general - gensal  
 generalísimo (sogún) - ordu raja  
 generar (añadir, realizar) - fa zai  
 generosidad (caridad) - karim  
 generoso (dadivoso) - don tabi  
 generoso (dadivoso, caritativo) - karim di  
-gengibre - jinje  
+gengibre - ginge  
 genial - kul  
 genotipo - gene tipe  
 gente - nas  
@@ -1735,7 +1739,7 @@ Germania - Germania
 germanio - germanium  
 gesto - geste  
 Ghana - Gana  
-Gibraltar - Jibraltar  
+Gibraltar - Gibraltar  
 giga- - giga  
 ginseng - jensen  
 girar (rotar) - be rota  
@@ -1814,8 +1818,9 @@ Guyana - Guyana
 Guyana Francesa - Franse Guyana  
 guía - gider  
 guía de viaje - gide buku  
-género gramatical - baxe jinse  
-género social - sosi jinse  
+género - gense  
+género gramatical - lexe gense  
+género social - sosial sexu  
 
 ## H  
 
@@ -2030,8 +2035,8 @@ informe (reporte, noticia) - reporte
 informática (computación) - data culi lojia  
 infortunio (mala suerte) - dus zar  
 infraestructura - baze strute  
-ingeniero - enjener  
-ingeniería - enjenia  
+ingeniero - engener  
+ingeniería - engenia  
 Inglaterra - Englix  
 inglés - englix di  
 iniciar sesión - inloga  
@@ -2140,7 +2145,7 @@ Jersey - Jerze
 Jesucristo - Yesa Mesi  
 Jesús - Yesa  
 jira (pícnic) - vai yam  
-jirafa - jirafa  
+jirafa - zirafa  
 joder (coger, copular) - coda  
 Jordania - Urdun  
 joule (J) - jul  
@@ -2159,7 +2164,9 @@ jugete - vanu gi
 jugo (zumo) - jus  
 julio - mes ceti  
 junio - mes luka  
+junta militar - zalim yunte  
 juntos - a kon  
+juntura - yunture  
 Jupiter - Muxin  
 justicia - adilta  
 justo - adil  
@@ -2397,7 +2404,7 @@ malta - malte
 maltosa - maltos  
 mamífero - mamal  
 mancha - najis bindu  
-mandarina (tangerina) - rubi oranje  
+mandarina (tangerina) - rubi orange  
 manga - kamisa xaka  
 manganeso - mangan  
 mango - mango  
@@ -2490,7 +2497,7 @@ medios - midia
 medir (medida) - metri  
 meditar (reflexionar) - jan  
 Mediterráneo - Geo Medi Bahai  
-medusa - bahai jele  
+medusa - bahai gele  
 megavatio - mega vate  
 meitnerio - meitnerium  
 mejorar - bon gradu  
@@ -2509,9 +2516,9 @@ meninge - meninge
 meningitis - meninge tis  
 menor (leve) - minike  
 menos - min  
-mensaje - anjil  
+mensaje - angil  
 mensaje - misaje  
-mensajero - anjiler  
+mensajero - angiler  
 menta - minte  
 menta acuática - sui minta  
 mental (psíquico) - ruhu di  
@@ -2678,6 +2685,7 @@ mónada - monaje
 múltiple - polipli  
 músculo - muskul  
 música - muzike  
+música pop (música popular) - pope muzike  
 músico - muziker  
 
 ## N  
@@ -2694,8 +2702,8 @@ nailon (nilón) - nilon
 Namibia - Namibia  
 nano- - nano  
 nanometre - nano mitre  
-naranja - oranje  
-naranjo amargo - kali oranje  
+naranja - orange  
+naranjo amargo - kali orange  
 nariz - nos  
 nasal - nos di  
 natrón - natre bilor  
@@ -2741,7 +2749,7 @@ nieta - ben doh
 nieto - ben son  
 nieve - hima  
 Nieves - Nevis  
-Nigeria - Naijiria  
+Nigeria - Nigeria  
 nihonio - niponium  
 ningunos - siro jen  
 niobio - niobium  
@@ -3178,7 +3186,8 @@ polígono - poli gona
 política - politi lona  
 político (administrador) - politike  
 político - politi di  
-pomelo (toronja) - putau oranje  
+pomelo (toronja) - putau orange  
+popular - populal  
 por ejemplo - to misal  
 porcelana - cini  
 porno - porno  
@@ -3299,7 +3308,7 @@ psique - ruhu
 puaj - fui  
 pudrirse (cariarse, descomponerse) - be pute  
 pudín - puding  
-pueblo (población) - deme  
+pueblo (población) - pope  
 pueblo - nagre  
 puente - kio  
 puerro (cebolla larga) - porei  
@@ -3327,6 +3336,7 @@ píxel - grafeme
 pólvora - barude  
 póquer - poke  
 público - demal  
+público - populike  
 que (como, en comparación con) - ka  
 que - ki  
 quedarse - be reste  
@@ -3364,10 +3374,10 @@ radiación - radion
 radiación ionizante - ion radi  
 radiactivo - ion radi di  
 radiar (emitir) - fa radi  
-radio (mitad de diámetro) - radi longta  
+radio (mitad de diámetro) - rade longta  
 radio - radio  
 radio - radium  
-radiotransmisor - radio mise gi  
+radiotransmisor - radio miser  
 radiómetro - radometrer  
 radón - radon  
 raja (grieta) - krake  
@@ -3392,7 +3402,7 @@ razón (causa) - sabu
 raíz - mula  
 reaccionar - reate  
 reacción - reation  
-real (de realtad) - raja di  
+real (regio) - regal  
 real - real  
 realidad - realta  
 realismo - realisme  
@@ -3401,7 +3411,7 @@ rebelión (sublevación) - rebel
 rebotar - boing  
 recargar - rikarga  
 receptor - receper  
-receptor de radio - radio na gi  
+receptor de radio - radio ceper  
 rechazar (negar) - nege  
 recibir - recepe  
 reciclar - resikle  
@@ -3422,10 +3432,10 @@ registro (archivo, anotación) - loga
 región (zona) - tope  
 regla (ley) - kanun  
 regresar (restablecer, restaurar, recuperar, reanudar) - fuka  
-reina - rajani  
+reina - ni reger  
 reinar (gobernar) - fa sultan  
 reinar (reinar como emperador) - impere  
-reino - rajia  
+reino - regia  
 Reino Unido - Britan  
 relatar (narrar) - fa kata  
 religioso - din di  
@@ -3476,8 +3486,8 @@ Reunión - Reunion
 reventar - parce kai  
 revisar (chequear, examinar, inspeccionar) - ceka  
 revista (periódico, gaceta) - gazeta  
-rey - rajanan  
-rey o reina - raja  
+rey - nan reger  
+rey o reina - reger  
 rezar (orar) - fa dua  
 rezo (oración) - dua  
 reír - haha  
@@ -3649,10 +3659,10 @@ serrín - xarafun
 servicio - serve  
 servidor - server  
 servir - fa serve  
-sexo (género) - jinse  
-sexo - bio jinse  
+sexo (género) - sexu  
+sexo - biogense  
 sexo - sexu  
-sexología - sexolojia  
+sexología - sexulojia  
 sexy (sexual) - sexe di  
 Seychelles - Sexel nesi  
 señal (letrero, indicio) - sin  
@@ -4032,7 +4042,7 @@ universidad - dai xulakan
 unión - un ta liga  
 Unión Europea - Europa Unta  
 uno (1) - un  
-unshu mikan - venjou oranje  
+unshu mikan - venzou orange  
 uranio - uranium  
 Urano - Uran  
 urbano - nagral  
@@ -4186,7 +4196,7 @@ yogui - yogaiste
 yogur - yogur  
 yuca (mandioca) - manioka  
 yudo - judau  
-yugo - yogo  
+yugo - yuge  
 yunque - metal bede  
 yurta - yurta  
 
@@ -4216,7 +4226,7 @@ zulú - Zulu
 Ártico - Artika  
 ábaco - jenju table  
 ágil - agile  
-álgebra - jebre  
+álgebra - gebre  
 ángulo recto - orto gona  
 árabe - arabe  
 árbol - moka  

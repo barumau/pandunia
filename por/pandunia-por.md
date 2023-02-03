@@ -68,6 +68,7 @@ ananas - ananás (abacaxi)
 ancovi - anchova  
 andesite - andesito  
 angar - âncora  
+angil - mensagem  
 angul - dedo  
 angul marke - impressão digital  
 angul pike - ponta do dedo  
@@ -77,7 +78,6 @@ animate - animar
 animisme - animismo  
 anis - anis  
 anis araki - áraque  
-anjil - mensagem  
 aple - maçã  
 aple sos - purê de maçã  
 aposum - sariguê (gambá, cuíca)  
@@ -149,8 +149,8 @@ bahai alga - macroalga
 bahai amirer - almirante  
 bahai cau - erva marinha  
 bahai di - marítimo  
+bahai gele - medusa  
 bahai hiyar - pepino-do-mar (holotúrias)  
-bahai jele - medusa  
 bahai kinar - costa  
 bahai ordu - marinha  
 bahai porto - porto marítimo  
@@ -199,7 +199,6 @@ bauite - pedra preciosa (gema)
 • dubaxike - bilíngue  
 • polibaxike - multilíngue (plurilíngue)  
 baxe - língua (idioma)  
-baxe jinse - gênero gramatical  
 baya - baía  
 baze - base  
 baze bol - basebol (beisebol)  
@@ -226,7 +225,7 @@ be sona - dormir
 be vai - sair  
 bebe - bebê  
 bede - cama (leito)  
-bedinjan - beringela  
+bedingan - beringela  
 bei - socio  
 belca - pá  
 ben - filho ou filha  
@@ -366,6 +365,7 @@ data - dados
 data banke - banco de dados  
 data culi - processamento de dados  
 data culi lojia - informática (ciência da computação)  
+dau yunte - interseção  
 dava xe - remédio (medicamento)  
 dava xekan - farmácia (drogaria)  
 dava xe lojia - farmacologia  
@@ -378,6 +378,7 @@ defe bano - escudo
 defe kaska - armadura  
 deha - aldeia (vila)  
 dele - demora (atraso, espera)  
+demokratia - democracia  
 den - dia (24 horas)  
 • preden - ontem  
 den loge - diário  
@@ -440,9 +441,9 @@ einsteinium - einstânio
 eletre - eletricidade  
 eletrolize - eletrólise  
 elfe - elfo  
+engener - engenheiro  
+engenia - engenharia  
 englix margarita - margarida-comum  
-enjener - engenheiro  
-enjenia - engenharia  
 erbium - érbio  
 es - ser (estar)  
 esentia - essência (existência)  
@@ -457,7 +458,7 @@ estrontium - estrôncio
 etan - etano  
 etanol - etanol  
 etil - etila  
-eu anjil - evangelho  
+eu angil - evangelho  
 eu loga - elogio  
 europium - európio  
 europa baluta - carvalho-roble  
@@ -634,17 +635,21 @@ geografia - geografia
 Geia - Terra  
 geometria - geometria  
 geopolitia - geopolítica  
+gebre - álgebra  
 gem - espada  
 gem suta - esgrima  
 • exgene - exógeno  
 gene logu - genealogia  
 gene lojia di - genético  
 gene tipe - genótipo  
+gense - gênero  
+gensal - geral  
 geo forme - terreno  
 Germania - Germânia  
 germanium - germânio  
 gide - guiar  
 gider - guia  
+ginge - jengibre  
 gingam - quincã (cunquate)  
 gio - ensinar (lecionar)  
 gitar - guitarra  
@@ -793,8 +798,8 @@ ite - pedra
 ## J  
 
 jaga - acordado  
-• ajami - encontrar  
-jami karte - cromo  
+• ajame - encontrar  
+jame karte - cromo  
 jamul - jambolão (jambo)  
 jan buda din - budismo zen  
 janela - janela  
@@ -805,7 +810,6 @@ jau - cevada
 javabu - resposta  
 jebe - bolso (algebeira)  
 jebe caku - canivete  
-jebre - álgebra  
 jeka - emprestar (pedir emprestado)  
 jeka don - emprestar  
 jeka na - pedir emprestado  
@@ -817,9 +821,6 @@ jensen - ginseng
 jete grafe - projeção  
 jihade - luta  
 jini - espírito (gênio)  
-jinje - jengibre  
-jinse - sexo  
-jirafa - girafa  
 jiva - viver (vivo; vida)  
 • trajiva - sobreviver  
 jong - centro  
@@ -1078,6 +1079,7 @@ lexal - léxico
 lexasle - etimologia  
 lexeme - lexema  
 lexe fen - sílaba  
+lexe gense - gênero gramatical  
 lexe jama - vocabulário  
 liama - lhama  
 libele - libélula  
@@ -1299,6 +1301,7 @@ najis - poluição
 nam hin - sem nome  
 nam kitaba - assinar  
 nan per (man) - esposo  
+nan reger - rei  
 nardi - gamão  
 narke - droga (narcótico)  
 nasia - nação  
@@ -1348,6 +1351,7 @@ neurotoxe - neurotoxina
 ni per (fem) - esposa  
 nia - intenção  
 nide - ninho (vespiero)  
+Nigeria - Nigéria  
 nikel - níquel  
 nil - azur  
 nil elfe - estrumpfe (smurf)  
@@ -1383,8 +1387,8 @@ oganeson - oganesson
 ohtopus - polvo  
 onda - onda  
 onor - honra  
-oranje - laranja  
-oranje rang - alaranjado  
+orange - laranja  
+orange rang - alaranjado  
 ordu - exército  
 ordu jen - soldado  
 ordu jen kan - quartel  
@@ -1399,6 +1403,7 @@ osidian - obsidiana
 osmium - ósmio  
 oste jama - esqueleto  
 oste xalke - escudo  
+oste yunte - articulação (junta)  
 ote - optar  
 otimal - ótimo (óptimo)  
 otion - opção  
@@ -1525,6 +1530,9 @@ politi mode - regime
 polskium - polónio  
 pompe - bomba  
 pompe tape - pistão  
+pope - povo  
+pope muzike - música pop (música popular)  
+populal - popular  
 pore - poro  
 porei - alho-porro  
 porte - portar  
@@ -1567,7 +1575,7 @@ pul fito yamiste - vegetalista
 pul xipi - ensopar (encharcar, marinar)  
 pulmon tis - pneumonia   
 putau bagi - vinhedo  
-putau oranje - toranja  
+putau orange - toranja  
 pute - contar (calcular)  
 • konputer - computador  
 
@@ -1579,7 +1587,6 @@ radon - rádon
 ragubi - rugbi (râguebi)  
 ragbi - rugbeo  
 rai - opinião  
-rajanan - rei  
 rakete lanser - lançador de foguetes  
 rakun - guaxinim (rato-lavadeiro)  
 rang - cor  
@@ -1592,6 +1599,8 @@ ratibu - ordem
 real - real  
 realisme - realismo  
 realta - realidade  
+regal - real (régio)  
+regia - reino  
 Ren - Reno  
 renium - rénio  
 rentegenium - roentgênio  
@@ -1617,7 +1626,7 @@ rote - roda
 rubium - rubídio  
 rubi - vermelho  
 rubi bau seku - rubi  
-rubi oranje - tangerina (mandarim)  
+rubi orange - tangerina (mandarim)  
 rubi salmon - salmão-vermelho  
 ruhu mixe di - perplexo (confuso)  
 rulete - roleta  
@@ -1689,7 +1698,8 @@ ser - elo
 seria - série (sequência)  
 serser - cadeia  
 serami - cerâmico  
-sexolojia - sexologia  
+sexu - sexo  
+sexulojia - sexologia  
 si - se  
 siborgium - seabórgio  
 sifa loga - adjetivo  
@@ -2006,9 +2016,12 @@ yepa late - página
 Yesa Mesi - Jesus Cristo  
 yim yang - yin-yang  
 yoga - ioga  
-yogo - jugo  
 yogur - iogurte  
 you - infantil (imaturo)  
+yuge - jugo  
+yuntion - junção  
+yunte lexe - conjunção  
+yunture - juntura  
 yurta - iurte  
 yuterbium - itérbio  
 yutrium - itrio  
@@ -2017,6 +2030,7 @@ yutrium - itrio
 
 zai zaman di - corrente (atual)  
 zalimive - tirânico (cruel)  
+zalim yunte - junta militar  
 zaman - tempo  
 • prezaman di - velho (antigo)  
 zar kube - dado  
@@ -2026,6 +2040,7 @@ zi - caractere
 zikura - zigurate  
 zinke - zinco  
 zira - cominho  
+zirafa - girafa  
 zirkonium - zircónio  
 zoku - ainda  
 zombi - zumbi  

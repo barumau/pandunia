@@ -98,7 +98,7 @@ Albania - cipe
 alcohol - alkol  
 alcoholic - alkolike  
 alga - alga  
-algebra - jebre  
+algebra - gebre  
 Algeria - Jayer  
 algesia (sensitivity to pain) - analgesia  
 algogenic (inducing pain) - algogenike  
@@ -132,7 +132,7 @@ amaze - fa ajabu
 amazing (astonishing) - ajabu di  
 Amazon river - Amazon  
 Amazonia - Amazonia  
-ambassador - dai anjiler  
+ambassador - dai angiler  
 ambiguous (polysemous) - polisemike  
 ambiguous - poli semi di  
 America (continent) - Amerike  
@@ -249,7 +249,7 @@ artistic language (artlang) - arte baxa
 Artsakh - Arcah  
 Aruba - Aruba  
 ascetic - askete  
-asexual - ansexe di  
+asexual - ansexual  
 ash (ashes) - hui  
 ash tree - frasen  
 Asia - Asia  
@@ -311,7 +311,7 @@ awake - jaga
 aware (enlightened) - budi di  
 axe (hatchet) - futau  
 axis (axle) - axe  
-Azerbaijan - Azerbaijan  
+Azerbaijan - Azeria  
 azure - lazur  
 azure bluet - nil serami sing  
 
@@ -460,7 +460,7 @@ bilingual - dubaxike
 bill (check, invoice) - fatura  
 billion (giga-) - giga  
 bind (wrap in bandage) - bande  
-biological sex - bio jinse  
+biological sex - biogense  
 biology (study of organic life) - biolojia  
 biome - biosistem  
 biowaste - bio lasa  
@@ -478,7 +478,7 @@ bite - fa dante
 bite - gate a dante  
 bitter - kali guste  
 bitter melon - kali melon  
-bitter orange - kali oranje  
+bitter orange - kali orange  
 black - kala  
 blacklist - haram liste  
 blacksmith (iron forger) - metal saner  
@@ -645,7 +645,7 @@ call (voice; summon) - voke
 call on the phone - fa tele fon  
 Callisto - Kalisto  
 calm (peaceful, quiet) - xanti di  
-Cambodia - Kambojia  
+Cambodia - Kambodia  
 camel - gamel  
 camera - fotografe gi  
 Cameroon - Kamerun  
@@ -808,7 +808,7 @@ cinematic - kino grafi di
 cinematography - kino grafi arte  
 circle (sphere, round object) - gola  
 citizen - gogia jen  
-citrus fruit - limon oranje  
+citrus fruit - limon orange  
 city (town) - siti  
 city state - nagre gogia  
 civilization - sivilia  
@@ -942,6 +942,8 @@ Congo (Brazzaville) - Brazavil Kongo
 Congo Kinshasa - Kinxasa Kongo  
 congratulate (bless) - fa barka  
 congratulations! (blessing, benediction) - barka  
+conjugation (pairing) - konyuge  
+conjunction - yunte lexe  
 conjure (do magic, cast a spell; spell) - mage  
 connect (join, link) - fa linke  
 connect - konnete  
@@ -1219,7 +1221,7 @@ disease (illness, sickness) - pate
 disfigure - fa dus forma  
 dislike (loathe) - anluba  
 dispel (disperse, drive asunder) - dispele  
-disperse (spread out, scatter) - anjami  
+disperse (spread out, scatter) - anjame  
 distance (far away) - tele  
 distance (length) - teleta  
 distinction (specialty) - hasta  
@@ -1336,7 +1338,7 @@ effect (impact, impression, result, outcome) - asar
 effect (impact, influence, affect) - exfete  
 effective (influential) - exfetive  
 egg - anda  
-eggplant (aubergine, brinjal) - bedinjan  
+eggplant (aubergine, brinjal) - bedingan  
 Egypt - Misri  
 Egyptian - misri di  
 eight (8) - bati  
@@ -1354,7 +1356,7 @@ electron - eletron
 elegant (chic) - xike  
 elephant - gaja  
 elf - elfe  
-embassy - dai anjilkan  
+embassy - dai angilkan  
 emerald - ezmurude  
 emir - amirer  
 emirate - amiria  
@@ -1377,8 +1379,8 @@ enemy (foe, villain) - dus jen
 enemy (unfriend) - andosti  
 energy - energia  
 engine (motor) - moter  
-engineer - enjener  
-engineering - enjenia  
+engineer - engener  
+engineering - engenia  
 England - Englix  
 English - englix di  
 English daisy - englix margarita  
@@ -1737,12 +1739,12 @@ Gaul - Galia
 gauze - gaze  
 gay (homosexual) - gei  
 gazelle - gazel  
-gel (jelly) - jele  
+gel (jelly) - gele  
 gem (gemstone, jewel) - bauite  
-gender (sex) - jinse  
-gender studies - jinselogi  
+gender studies - gensolojia  
 genderqueer (non-binary) - nobi  
 genealogy (recording of descents) - gene logu  
+general (involving every member of a class or a category) - gensal  
 generalissimo (shogun) - ordu raja  
 generate (beget, produce; production, reproduction) - gene  
 generation (cohort) - gene grupe  
@@ -1771,12 +1773,12 @@ gherkin (pickle) - acar hiyar
 ghost (phantom) - fantom  
 ghoul - gule  
 giant onion - dai lasun  
-Gibraltar - Jibraltar  
+Gibraltar - Gibraltar  
 gift - don xe  
 gift certificate (gift card) - don xe ceke  
-ginger - jinje  
+ginger - ginge  
 ginseng - jensen  
-giraffe - jirafa  
+giraffe - zirafa  
 girl - jun fem  
 girl - you ni  
 give - don  
@@ -1819,7 +1821,7 @@ good morning - sal suba
 good night - sal noce  
 goose - ganse  
 gorilla - gorila  
-gospel (divine message) - eu anjil  
+gospel (divine message) - eu angil  
 govern (rule. reign) - krate  
 government (administration, polity, politics) - polite  
 government (rule (reign, -ocracy, -archy) - kratia  
@@ -1829,7 +1831,7 @@ grain (particle) - gran
 gram (g) - gram  
 grammar - baxe kanun  
 grammatical - baxe kanun di  
-grammatical gender - baxe jinse  
+grammatical gender (lexical gender) - lexe gense  
 grandchild - ben ben  
 granddaughter - ben doh  
 grandfather - cin pa  
@@ -1838,7 +1840,7 @@ grandparent - cin cin
 grandson - ben son  
 granite - granite  
 grape - putau  
-grapefruit - putau oranje  
+grapefruit - putau orange  
 grapheme - kitaba so  
 graphic (pictorial) - grafike  
 graphics card (video card) - grafe karte  
@@ -1871,7 +1873,7 @@ grow (grow up, expand) - be raste
 growth - raste  
 Guadeloupe - Guadelupe  
 Guam - Guam  
-Guangzhou (Canton) - Guangjou  
+Guangzhou (Canton) - Guangzou  
 guarantee (warranty) - garanti  
 guard (watch) - garde  
 guard (watchman, guardian, sentinel, sentry) - garder  
@@ -2236,7 +2238,7 @@ jasmine - moli
 jasmine tea - moli hua cai  
 jazz - jaze  
 jealous - garde zelo  
-jellyfish (seajelly) - bahai jele  
+jellyfish (seajelly) - bahai gele  
 Jersey - Jerze  
 Jerusalem - Uruxalem  
 Jerusalem artichoke (sunroot) - masa mula sol hua  
@@ -2244,7 +2246,8 @@ Jesuits (Society of Jesus) - Yesa sanga
 Jesus - Yesa  
 Jesus Christ - Yesa Mesi  
 Jewish - yehudi  
-joint (join) - junte  
+joint (connection of bones) - oste yunte  
+joint (join) - yunte  
 joke - joke  
 joker - joker  
 Jordan - Urdun  
@@ -2259,8 +2262,12 @@ judo - judau
 juice - jus  
 July - mes ceti  
 jump - jampe  
+junction (intersection of roads) - dau yunte  
+junction - yuntion  
+juncture (junction, intersection) - yunture  
 June - mes luka  
 junior fellow (kouhai) - jun bei  
+junta - zalim yunte  
 Jupiter - Muxin  
 just (fair, righteous) - adil  
 just (precise, exact, accurate) - juste  
@@ -2304,9 +2311,9 @@ kilogram (kg) - kilogram
 kilometer (km) - kilomitre  
 kimono - kimono  
 kinetic - kino di  
-king - rajanan  
-king or queen - raja  
-kingdom - rajia  
+king - nan reger  
+king or queen - reger  
+kingdom - regia  
 Kinshasa - Kinxasa  
 kiosk (pavilion) - kioske  
 Kiribati - Kiribati  
@@ -2591,7 +2598,7 @@ manage (organize) - fa nomi
 management (arrangement, -nomy) - nomi  
 mandarin - han guaner  
 Mandarin Chinese (Putonghua) - Putong Han  
-mandarin orange (tangerine) - rubi oranje  
+mandarin orange (tangerine) - rubi orange  
 manganese - mangan  
 mango - mango  
 mangosteen - mangus  
@@ -2632,7 +2639,7 @@ master (be an expert at sth) - maste
 master (expert) - master  
 master (sensei, sifu) - xifu  
 Master of Arts - master de arte (MA)  
-Master of Engineering - master de enjenia (ME)  
+Master of Engineering - master de engenia (ME)  
 Master of Philosophy - master de filsofia (MF)  
 Master of Science - master de lojia (ML)  
 Master of Technology - master de tehnolojia (MT)  
@@ -2684,7 +2691,7 @@ medium (intermediate, mean) - midike
 medium (means) - midaje  
 medium (media, mass media) - midia  
 medlar - muxmula  
-meet (get together; meeting, gathering) - ajami  
+meet (get together; meeting, gathering) - ajame  
 megawat (MW) - mega vate  
 meitnerium - meitnerium  
 melodious (melodic) - melodi di  
@@ -2706,9 +2713,9 @@ Mercury - Merkur
 merge (fuse) - be fuzi liga  
 meridian (line of longitude) - ging gola  
 meronym - meronam  
-message - anjil  
+message - angil  
 message - misaje  
-messenger - anjiler  
+messenger - angiler  
 messiah - mesi  
 messianic - mesi di  
 metal - metal  
@@ -2863,6 +2870,7 @@ mummy - mum jen
 muscle - muskul  
 mushroom (sporocarp) - fungu frute  
 music - muzike  
+music genre - muzike gense  
 musician - muziker  
 musk thistle - pende kardon  
 musket - muskete  
@@ -2959,7 +2967,7 @@ niche (recess, alcove) - nix
 nickel - nikel  
 niece - sau doh  
 Niger - Nijer  
-Nigeria - Naijiria  
+Nigeria - Nigeria  
 night - noce  
 night mode - noce mode  
 nightingale - bulbul  
@@ -2997,7 +3005,7 @@ note (observation, remark, comment) - note xe
 note (observe, notice) - note  
 notebook - note buku  
 nothing - siro xe  
-notice (notification) - note anjil  
+notice (notification) - note angil  
 notify - fa note  
 noun - nam loga  
 novel - long kata  
@@ -3088,8 +3096,8 @@ option (choice, preference) - cunbil
 option (preference) - otion  
 optional - otional  
 or - o  
-orange (fruit) - oranje  
-orange (orange-colored) - oranje rang  
+orange (fruit) - orange  
+orange (orange-colored) - orange rang  
 orchard - frute parke  
 orchid - orkide  
 order (arrange) - fa ratibu  
@@ -3266,7 +3274,7 @@ pentagon - lima gona
 pentahedron (prism) - lima fase  
 peony - mudan  
 people (folk) - nas  
-people (population) - deme  
+people (folk, population) - pope  
 pepper (capsicum) - cili  
 pepper (peppercorn) - pipre  
 peppermint - pipre minta  
@@ -3417,7 +3425,10 @@ polytheism - poli deu sim
 ponder (think, contemplate, consider, regard) - hem  
 pool (basin, bowl) - basen  
 poor (miserable) - miskin  
+pop music - pope muzike  
 popular (trendy) - faxon di  
+popular - populal  
+populate - populate  
 population - deme polita  
 porcelain (chinaware) - cini  
 pore - pore  
@@ -3540,7 +3551,9 @@ prove (demonstrate, testify) - fa dalil
 provoke - provoke  
 proximity - proxia  
 psychology - ruhu lojia  
+public (people in general) - deme  
 public - demal  
+public - populike  
 pudding - puding  
 Puerto Rican - portoriko jen  
 Puerto Rico - Portoriko  
@@ -3564,7 +3577,7 @@ qualify (describe) - fa sifa
 quark (paneer) - panir  
 quarter (neighbourhood, district, locality, section of town) - mahala  
 quartz - kuarze  
-queen - rajani  
+queen - ni reger  
 question (query, inquiry) - sual  
 quill - pena kalam  
 quotation mark - sita marke  
@@ -3581,14 +3594,14 @@ racist - rasiste
 radiate - fa radi  
 radiation - radion  
 radio - radio  
-radio receiver - radio na gi  
+radio receiver - radio ceper  
 radioactive - ion radi di  
 radioactivity (ionizing radiation) - ion radi  
 radiometer - radometrer  
-radiotransmitter - radio mise gi  
+radiotransmitter - radio miser  
 radish - loba  
 radium - radium  
-radius - radi longta  
+radius - rade longta  
 radon - radon  
 rag (tattered cloth) - cira tela  
 rail (railway, railroad) - tren dau  
@@ -3777,7 +3790,7 @@ round (circular) - gola di
 route (path, trail, course, itinerary) - pata  
 route (path, trail, course, itinerary) - rute  
 routine (habit) - rutin  
-royal - raja di  
+royal (regal) - regal  
 rub (scrape, scrub) - frike  
 rubber (latex, eraser) - gomu  
 rubidium - rubium  
@@ -3844,7 +3857,7 @@ sapling - you moke
 sari - sari  
 Satanism (devil worship) - xatanisme  
 Satanist - xataniste  
-satsuma mandarin - venjou oranje  
+satsuma mandarin - venzou orange  
 Saturday - xaniden  
 Saturn - Xani  
 sauce - sos  
@@ -3944,9 +3957,10 @@ sesame - sesam
 settle (colonize) - kolone  
 seven (7) - ceti  
 sew - kosi  
-sex (sexual relation) - sexu  
-sexology - sexolojia  
-sexual (pertaining to gender) - jinse di  
+sex (gender) - sexu  
+sex - sexu  
+sexology - sexulojia  
+sexual (pertaining to gender) - sexual  
 sexy (sexually arousing) - sexe di  
 Seychelles - Sexel nesi  
 shadow - saya  
@@ -4066,7 +4080,7 @@ snow drift - hima duna
 soak (steep, marinate) - pul xipi  
 soap - sabun  
 social - sosial  
-social gender - sosi jinse  
+social gender - sosial sexu  
 social media - sosial midia  
 socialism - sosisme  
 socialist - sosiste  
@@ -4098,6 +4112,7 @@ soon (after a while) - a korte
 sorghum (durra, jawar, Indian millet) - jovar  
 sororal nephew - sis son  
 sororal niece - sis doh  
+sort (category, class, genus, genre, gender) - gense  
 soul (life spirit) - anime  
 soul (mind, psyche) - ruhu  
 sound (audio) - soni  
@@ -4122,7 +4137,7 @@ spaceship - kosmonave
 spade - bagi bele  
 Spain - Espania  
 spam mail - lasa posta  
-sparse (scattered) - anjami di  
+sparse (scattered) - anjame di  
 speak (talk, language, communication) - baxe  
 spear thistle - pena kardon  
 spearmint - kane minte  
@@ -4277,7 +4292,7 @@ swastika (hooked cross) - huke krus
 sweat (perspiration) - sueda  
 sweaty - sueda di  
 Sweden - Suen  
-sweet orange - sukar oranje  
+sweet orange - sukar orange  
 sweet potato - kamote  
 Switzerland - Suise  
 sword - gem  
@@ -4505,7 +4520,7 @@ tract (land, ground, region) - stan
 tractor - trater  
 trade (commerce, buying and selling) - vende xope  
 trader (merchant) - vende xope ja  
-trading card - jami karte  
+trading card - jame karte  
 tragedy - tragodia  
 tragicomic - tragokomike  
 train - tren  
@@ -4710,7 +4725,7 @@ vowel - vokal fone
 vulva - vulva  
 waffle - vafle  
 wait (delay) - dele  
-wait for - dele do  
+wait for - dele to  
 wake (become awake) - be jaga  
 wake (make awake) - fa jaga  
 Wales (Cambria) - Kamri  
@@ -4771,7 +4786,7 @@ welcome! - sal lai
 well (now; used to introduce a statement) - nu  
 well-being (prosperity) - salta  
 Welsh - kamri  
-Wenzhou - Venjou  
+Wenzhou - Venzou  
 west - veste  
 western - veste di  
 western gorilla - veste gorila  
@@ -4879,7 +4894,7 @@ yin-yang - yim yang
 yoga - yoga  
 yogi - yogaiste  
 yogurt - yogur  
-yoke - yogo  
+yoke - yuge  
 Yoruba (language and people) - Yoruba  
 yotta- - yota  
 you (singular) - tu  

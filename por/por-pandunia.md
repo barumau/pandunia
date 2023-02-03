@@ -39,7 +39,7 @@ agrícola - agral
 ai! - ayo  
 ainda - zoku  
 ajuda (socorro, auxílio) - mede  
-alaranjado - oranje rang  
+alaranjado - orange rang  
 alaúde - pipa  
 alcachofra - karcof  
 alcachofra-girassol (tupinambo) - masa mula sol hua  
@@ -138,6 +138,7 @@ arroz integral - brun varis
 arsénic - arsenium  
 arte - sute  
 artefato - arte fete  
+articulação (junta) - oste yunte  
 artista - artiste  
 asa - panka  
 asma - asma  
@@ -211,7 +212,7 @@ beleza - meita
 beliche - ceng bede  
 belo (lindo) - mei  
 bem-estar - salta  
-beringela - bedinjan  
+beringela - bedingan  
 berqueélio - berklium  
 berço - lala bede  
 berílio - berilium  
@@ -444,6 +445,7 @@ conexão - konnetion
 confiar (contar com) - amen  
 confiar (contar com) - kredi  
 conhecer - ken  
+conjunção - yunte lexe  
 cono - kone  
 conselho - sel  
 considerar - hem  
@@ -489,7 +491,7 @@ cristal - bilor
 croassã - kruasan  
 crocodiliano - krokodil  
 crocodilo - long krokodil  
-cromo - jami karte  
+cromo - jame karte  
 cronómetro - dura metri gi  
 cru - seng  
 cruz - krus  
@@ -543,6 +545,7 @@ deixar - laxa
 deixar - laxe  
 delegar - vakilize  
 delir (deletar) - deleta  
+democracia - demokratia  
 demora (atraso, espera) - dele  
 denegar - denege  
 dente-de-leão (taráxaco) - makan hua  
@@ -639,11 +642,11 @@ emoçao - gamo
 emprestar (pedir emprestado) - jeka  
 emprestar - jeka don  
 encarar (afrontar; vérsus) - verse  
-encontrar - ajami  
+encontrar - ajame  
 endereço - adres  
 enganar - fa truke  
-engenharia - enjenia  
-engenheiro - enjener  
+engenharia - engenia  
+engenheiro - engener  
 ensaio (redação) - esai  
 ensinar (lecionar) - gio  
 ensino primário - baze xulekan  
@@ -718,7 +721,7 @@ etimologia - lexasle
 etnia - zuku  
 eu (me) - mi  
 európio - europium  
-evangelho - eu anjil  
+evangelho - eu angil  
 evidente - exvidebil  
 exato (preciso) - juste  
 excluir - fa vai klus  
@@ -836,10 +839,11 @@ genótipo - gene tipe
 geografia - geografia  
 geometria - geometria  
 geopolítica - geopolitia  
+geral - gensal  
 Germânia - Germania  
 germânio - germanium  
 ginseng - jensen  
-girafa - jirafa  
+girafa - zirafa  
 girassol - sol hua  
 glicina - glukin  
 glicogênio - glukogen  
@@ -866,7 +870,8 @@ Gália - Galia
 gálio - galium  
 gás - gas  
 gás lacrimogéneo - yen sui gas  
-gênero gramatical - baxe jinse  
+gênero - gense  
+gênero gramatical - lexe gense  
 
 ## H  
 
@@ -955,6 +960,7 @@ inteligência artificial - arte fete intelige (AI)
 intenção - nia  
 interceptar - intercepe  
 internacional - internasial  
+interseção - dau yunte  
 intestino (entranhas, tripa) - intraje  
 invernal (hibernal) - leng mosim di  
 inverno - leng mosim  
@@ -984,15 +990,18 @@ Japão - Nipon
 jarra (jarro) - jara  
 jasmim - moli  
 Javé (Jeová) - Yahve  
-jengibre - jinje  
+jengibre - ginge  
 Jesus Cristo - Yesa Mesi  
 joelho - guta  
 jogo de tabuleiro - bano geme  
 joule (J) - jul  
 jovem - jun  
 judo - judau  
-jugo - yogo  
+jugo - yuge  
 juiz - juder  
+junta militar - zalim yunte  
+juntura - yunture  
+junção - yuntion  
 justiça - adilta  
 justo - adil  
 Júpiter - Muxin  
@@ -1015,7 +1024,7 @@ lama - lama
 lamaísmo - lamadin  
 lantâno - lantan  
 lançador de foguetes - rakete lanser  
-laranja - oranje  
+laranja - orange  
 lasanha - lazanya  
 lateral - late di  
 lavatorio (toalete) - tuale kamar  
@@ -1146,7 +1155,7 @@ mecânico - makinike
 medalha - medal  
 medalhão - medalon  
 medio - midike  
-medusa - bahai jele  
+medusa - bahai gele  
 meia - maze  
 meia-noite - mide noce  
 meio (instrumento) - midaje  
@@ -1163,7 +1172,7 @@ memória - memo
 mendelévio - mendelevium  
 meninge - meninge  
 menosprezar (subestimar) - fa min rai  
-mensagem - anjil  
+mensagem - angil  
 mensagem - misaje  
 menta (hortelã) - minte  
 mentol - mintol  
@@ -1243,6 +1252,7 @@ mó - molite
 mónada - monaje  
 múltiplos - polipli  
 música - muzike  
+música pop (música popular) - pope muzike  
 
 ## N  
 
@@ -1270,6 +1280,7 @@ neurônio - neuron
 neve - hima  
 nevralgia - neuralgia  
 nicho - nix  
+Nigéria - Nigeria  
 nihonium - niponium  
 ninho (vespiero) - nide  
 nitrato (azotato) - nitrate  
@@ -1468,6 +1479,7 @@ pomar - frute parke
 ponta (pico, bico) - pike  
 ponta do dedo - angul pike  
 ponte - kio  
+popular - populal  
 por exemplo - to misal  
 por muito tempo - long dura  
 porcelana - cini  
@@ -1483,6 +1495,7 @@ poste (coluna) - kolum
 posterior - posike  
 potássio - kalium  
 poucos - kam  
+povo - pope  
 poço de petróleo - nafte fonte  
 prancheta - pinse bano  
 praseodímio - prazedimium  
@@ -1601,6 +1614,7 @@ razoamento - ration
 raça - rase  
 raíz - mula  
 reagir - reate  
+real (régio) - regal  
 real - real  
 realidade - realta  
 realismo - realisme  
@@ -1616,8 +1630,9 @@ referir - refere
 refugo (escória) - lasa  
 regime - politi mode  
 registro - loga  
-rei - rajanan  
+rei - nan reger  
 reincarnação - reinkarnation  
+reino - regia  
 relato - reporte  
 relier (connecter) - fa linke  
 religião - din  
@@ -1733,8 +1748,8 @@ serragem - xarafun
 serraría - xarakan  
 sertã - tava  
 sete (7) - ceti  
-sexo - jinse  
-sexologia - sexolojia  
+sexo - sexu  
+sexologia - sexulojia  
 sexta-feira - zukraden  
 significar (querer dizer) - seme  
 silencioso - tix  
@@ -1794,7 +1809,7 @@ tagine - tege pote
 talvez - bil es  
 talvez - bil ki  
 tampão - tapon  
-tangerina (mandarim) - rubi oranje  
+tangerina (mandarim) - rubi orange  
 tapioca - manioka fufu  
 tartaruga - tortuga  
 taxista - taxi vala  
@@ -1850,7 +1865,7 @@ tomate - tomate
 tomografia - tomografia  
 topografia - topografia  
 tora - moka tana  
-toranja - putau oranje  
+toranja - putau orange  
 torre de observação - garde tor  
 torta - pai  
 toupeira - krote  
@@ -2012,7 +2027,7 @@ zumbi - zombi
 água da chuva - barxa sui  
 água de fonte - fonte sui  
 álcool - alkol  
-álgebra - jebre  
+álgebra - gebre  
 áraque - anis araki  
 área de acampamento - kampe bagi  
 área de transferência - gate glu bano  

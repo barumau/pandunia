@@ -60,13 +60,13 @@ ananas - 菠萝
 ancovi - 凤尾鱼  
 andesite - 安山岩  
 angar - 锚  
+angil - 信息  
 angul - 手指  
 angul marke - 指纹 (指印)  
 angul pike - 指尖  
 animaje - 活跃  
 anis - 茴芹  
 anis araki - 阿剌吉  
-anjil - 信息  
 antena - 天线  
 anus - 肛门  
 aple - 苹果  
@@ -134,9 +134,9 @@ bahai - 海
 bahai alga - 海藻  
 bahai amirer - 海军上将  
 bahai cau - 海草  
+bahai gele - 海蜇  
 bahai hiyar - 海參  
 bahai hua - 海葵  
-bahai jele - 海蜇  
 bahai kinar - 海岸  
 bahai ordu - 海军  
 bahai porto - 海港  
@@ -183,7 +183,6 @@ bau di - 宝贵
 bauite - 宝石  
 • trabaxe - 翻译  
 baxe - 语言  
-baxe jinse - 文法的性  
 baxe lojia - 语言学  
 baze - 底部  
 baze bol - 棒球  
@@ -208,6 +207,7 @@ be vanu - 玩耍
 bebe - 宝宝 (娃娃)  
 bebe bede - 娃娃床  
 bede - 床  
+bedingan - 茄子  
 behe - 山羊  
 belca - 铲  
 ben - 小孩子  
@@ -234,7 +234,7 @@ bil ki - 也许 (或是, 可能)
 bine - 建筑  
 bine plan - 建筑学  
 bine planer - 建筑师  
-bio jinse - 生物性別  
+biogense - 生物性別  
 bir - 啤酒  
 biskute - 饼干 (曲奇饼)  
 bismute - 铋  
@@ -363,6 +363,7 @@ defe bano - 盾牌
 defe kaska - 盔甲  
 deha - 村  
 dele - 迟延  
+demokratia - 民主主义  
 den - 日 (天)  
 • preden - 昨日  
 den loge - 日记  
@@ -427,8 +428,8 @@ eletroline - 电缆 (电线)
 eletrolize - 电解  
 eletrorade - 闪电  
 elfe - 精灵  
+engenia - 工程  
 englix margarita - 雛菊  
-enjenia - 工程  
 erbium - 铒  
 es - 是  
 esentia - 存在  
@@ -440,7 +441,7 @@ estrontium - 锶
 etan - 乙烷  
 etanol - 乙醇  
 etil - 乙基  
-eu anjil - 福音  
+eu angil - 福音  
 europium - 铕  
 europa baluta - 夏櫟  
 ezmurude - 绿宝石 (祖母绿)  
@@ -604,17 +605,20 @@ geografia - 地理
 geometria - 几何学  
 geopolitia - 地缘政治  
 geoterme - 地热的  
+gebre - 代数  
 gem - 剑  
 gem dau - 剑道  
 gem suta - 击剑  
 gene di - 生的  
 gene logu - 系谱学  
 gene tipe - 基因型  
+gensolojia - 性别研究  
 geo forme - 地势  
 germanium - 锗  
 gide - 导游  
 gide buku - 指南  
 gider - 导游  
+ginge - 姜  
 ging lin - 經紗  
 gingam - 金柑  
 gio - 教学  
@@ -649,7 +653,7 @@ grimas - 鬼脸
 gros - 粗糙  
 gros limon - 箭叶橙  
 guai - 奇怪  
-Guangjou - 广州  
+Guangzou - 广州  
 gubu - 河马  
 gui papi - 鬼罂粟 (東方罌粟)  
 guku hua - 菊花  
@@ -761,7 +765,7 @@ ite - 石 (岩)
 
 ja - 者 (人, 家)  
 jaibai - 勝敗  
-• ajami - 聚会 (会议)  
+• ajame - 聚会 (会议)  
 jamul - 閻浮樹  
 jan buda din - 禅宗  
 janela - 窗戶  
@@ -774,7 +778,6 @@ jau - 大麦
 javabu - 回答  
 jebe - 口袋 (荷包)  
 jebe caku - 小刀  
-jebre - 代数  
 jeka - 借  
 jeka don - 借出  
 jeka na - 借入  
@@ -785,10 +788,6 @@ jen jami - 人群
 jenju table - 算盘  
 jensen - 人蔘   
 jete grafe - 投射 (投影)  
-jinje - 姜  
-jinse - 性别  
-jinselogi - 性别研究  
-jirafa - 长颈鹿  
 jiva - 生命  
 • trajiva - 生还  
 jong - 中心  
@@ -1018,6 +1017,7 @@ leu - 左
 lexe - 词  
 lexeme - 词位  
 lexe fen - 音节  
+lexe gense - 文法的性  
 lexe jama - 词汇  
 liama - 大羊駝  
 libele - 蜻蜓  
@@ -1026,7 +1026,7 @@ liga di sanduku - 约柜
 lima - 五 (5)  
 limon - 柠檬  
 limon jus - 柠檬水  
-limon oranje - 柑橘  
+limon orange - 柑橘  
 lin - 线  
 lin so - 纤维  
 linke - 联系 (关系)  
@@ -1218,6 +1218,7 @@ najis - 污染物
 nam - 名  
 nam hin - 无名  
 nam kitaba - 签署  
+nan reger - 王  
 narke - 毒品 (麻醉. 麻药 )  
 narkose - 症  
 • internasial - 国际  
@@ -1295,8 +1296,8 @@ o - 或
 ode - 頌  
 ohtopus - 章鱼  
 onda - 波浪  
-oranje - 橙子  
-oranje rang - 橙色  
+orange - 橙子  
+orange rang - 橙色  
 ordu - 军队  
 ordu jen - 军人  
 ordu jen kan - 营房  
@@ -1309,6 +1310,7 @@ oselote - 虎貓
 osidian - 黑曜岩  
 osmium - 锇  
 oste jama - 骨骼  
+oste yunte - 关节  
 oxe - 氧  
 oxide - 氧化物  
 
@@ -1405,6 +1407,7 @@ politi mode - 政体
 polskium - 钋  
 pompe - 泵 (唧筒)  
 pompe tape - 活塞  
+pope muzike - 流行音乐  
 porei - 韭葱  
 • reporter - 记者  
 porto - 港  
@@ -1432,7 +1435,7 @@ pul xipi - 浸泡
 pulmon tis - 肺炎  
 puma - 美洲獅 (山狮)  
 putau bagi - 葡萄园  
-putau oranje - 葡萄柚  
+putau orange - 葡萄柚  
 • konputer - 计算机  
 putong - 普通  
 Putong Han - 普通话  
@@ -1442,7 +1445,6 @@ Putong Han - 普通话
 radium - 镭  
 radon - 氡  
 rai - 意见 (见解)  
-rajanan - 王  
 rakete lanser - 火箭筒  
 rakun - 浣熊  
 rang arka salmon - 虹鱒  
@@ -1454,6 +1456,7 @@ ratibu - 常规 (次序)
 real - 现实的  
 realisme - 现实主义  
 realta - 现实  
+regia - 王国  
 Ren - 莱茵河  
 renium - 铼  
 retro gula - 呕吐  
@@ -1480,7 +1483,7 @@ rubium - 铷
 rubi - 红  
 rubi bau seku - 红宝石  
 rubi linse - 短尾貓  
-rubi oranje - 柑橘 (红橘)  
+rubi orange - 柑橘 (红橘)  
 rubi salmon - 紅鮭  
 ruhu mixe di - 困惑 (混乱)  
 rusium - 钌  
@@ -1550,7 +1553,8 @@ ser - 连结
 seria - 系列  
 serser - 链 (链条)  
 serami - 陶瓷  
-sexolojia - 性学  
+sexu - 性别  
+sexulojia - 性学  
 si - 如果 (要是)  
 side loka - 座部 (马鞍)  
 sifa loga - 形容词  
@@ -1584,7 +1588,7 @@ sona kamar - 卧室 (寝室)
 sona papi - 鴉片罌粟  
 songi - 松  
 sosia - 社会  
-sosi jinse - 社會性別  
+sosial sexu - 社會性別  
 sosis - 香肠  
 • inspete - 检查  
 statobaze - 架子  
@@ -1742,10 +1746,10 @@ vei gradu - 纬度
 vei lin - 緯紗  
 vende - 卖  
 vende xope - 贸易  
-Venjou - 温州  
-venjou oranje - 温州蜜柑  
 ventur - 冒险  
 venturer - 冒险者  
+Venzou - 温州  
+venzou orange - 温州蜜柑  
 veranda - 阳台  
 • exverse - 外向的  
 • extraverse - 外向的  
@@ -1849,10 +1853,11 @@ Yesa sanga - 耶稣会
 yim - 阴  
 yim yang - 阴阳  
 yoga - 瑜伽功  
-yogo - 轭  
 yogur - 酸奶 (优格)  
 you - 幼稚  
 you nen - 幼年  
+yuge - 轭  
+yunte lexe - 连接词  
 yurta - 穹庐  
 yuterbium - 镱  
 yutrium - 钇  
@@ -1860,6 +1865,7 @@ yutrium - 钇
 ## Z  
 
 zai zaman di - 现在的  
+zalim yunte - 军政府  
 zaman - 时间  
 • prezaman di - 古老 (以前)  
 zar kube - 骰子 (色子)  
@@ -1870,6 +1876,7 @@ zi seri - 字母表
 zikura - 金字形神塔  
 zinke - 锌  
 zira - 孜然  
+zirafa - 长颈鹿  
 zirkonium - 锆  
 zoku - 还 (依然)  
 zukraden - 星期五 (禮拜五)  

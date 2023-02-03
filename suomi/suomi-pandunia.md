@@ -82,7 +82,7 @@ alaston (paljas, naku) - nude
 Albania - cipe  
 alentaa (laskea alas) - fa dipe  
 alentaa tasoa - fa min gradu  
-algebra - jebre  
+algebra - gebre  
 Algeria - Jayer  
 algesia - analgesia  
 aliarvioida - fa min rai  
@@ -162,7 +162,7 @@ Antigua ja Barbuda - Antigua i Barbuda
 antikristus - antikriste  
 antimoni - estibium  
 apinanleipäpuu (baobab) - buyu  
-appelsiini - oranje  
+appelsiini - orange  
 appi - per pa  
 appivanhempi - per cin  
 aprikoosi (luumu) - briko  
@@ -197,7 +197,7 @@ arvokas - bau di
 arvostelija (kriitikko) - pipinger  
 arvottaa - fa valu  
 ase - vuki  
-aseksuaali - ansexe di  
+aseksuaali - ansexual  
 asema (satama, lentokenttä) - porto  
 asema - statia  
 asento - asan  
@@ -252,7 +252,7 @@ avata lukko - detala
 avioliitto - gamia  
 aviomies - nan per (man)  
 avokado - avakate  
-Azerbaidžan - Azerbaijan  
+Azerbaidžan - Azeria  
 
 ## B  
 
@@ -291,7 +291,7 @@ biisoni - bison
 biljoona (tera-) - tera  
 biojäte - bio lasa  
 biologia - biolojia  
-biologinen sukupuoli - bio jinse  
+biologinen sukupuoli - biogense  
 biomi - biosistem  
 biseksuaali - du sexe di  
 blini - rus krepe  
@@ -366,7 +366,7 @@ diktatuuri - ditateria
 dinosaurus (hirmulisko) - dino saur  
 Dione - Dione  
 dioriitti - diorite  
-diplomi-insinööri - master de enjenia (ME)  
+diplomi-insinööri - master de engenia (ME)  
 diskreetti - alo fen di  
 Djiboutia - Jibuti  
 dokumenttielokuva - dokumen filme  
@@ -527,7 +527,7 @@ eurooppalainen - europa di
 Europa-kuu - Europa luna  
 europium - europium  
 euteismi (usko jumalan hyvyyteen) - eu deu sim  
-evankeliumi(hyvä sana) - eu anjil  
+evankeliumi(hyvä sana) - eu angil  
 eväsretki (piknik) - vai yam  
 
 ## F  
@@ -596,7 +596,7 @@ Germania - Germania
 germanium - germanium  
 Ghana - Gana  
 ghouli - gule  
-Gibraltar - Jibraltar  
+Gibraltar - Gibraltar  
 ginseng - jensen  
 glukoosi (rypälesokeri) - glukos  
 gluteeni - gluten  
@@ -615,7 +615,7 @@ grillata (kärventää) - kababu
 Grönlanti - Kalal  
 Guadeloupe - Guadelupe  
 Guam - Guam  
-Guangzhou (Kanton) - Guangjou  
+Guangzhou (Kanton) - Guangzou  
 Guatemala - Guatemala  
 Guernsey - Gernezi  
 Guinea - Konakri Ginia  
@@ -634,8 +634,8 @@ haista - fa aroma
 haistaa - fa aroma  
 Haiti - Aiti  
 hajalla - perex  
-hajanainen - anjami di  
-hajauttaa - anjami  
+hajanainen - anjame di  
+hajauttaa - anjame  
 hajottaa (hävittää, raunioittaa) - perex fa  
 hajottaa (särkeä, repiä, sirpaloida) - fa parce  
 haju - aroma  
@@ -816,7 +816,7 @@ hunaja - medu
 huokonen - pore  
 huomata (hoksata) - note  
 huomauttaa - fa note  
-huomautus - note anjil  
+huomautus - note angil  
 huomenta - sal suba  
 huominen - pos den  
 huomio (kommentti, merkintä) - note xe  
@@ -856,7 +856,7 @@ hyvää iltaa - sal xam
 hyvää matkaa - sal cuti  
 hyvää ruokahalua! - sal yam  
 hyvää yötä - sal noce  
-hyytelö - jele  
+hyytelö - gele  
 hyödyllinen - faidike  
 hyökkäävä (aggressiivinen) - agresevi  
 hyöky (vyöry) - dai dara  
@@ -889,7 +889,7 @@ höyry (vesihöyry) - sui gas
 ideogrammi - ideograme  
 idängorilla - dong gorila  
 idänunikko - gui papi  
-ies - yogo  
+ies - yuge  
 iglu - iglu  
 ihailla - amira  
 ihmeellinen (ällistyttävä, merkillinen) - ajabu di  
@@ -933,9 +933,9 @@ Indusjoki - Hinde rivo
 infektio (tartunta) - patomise  
 inhimillinen - humanike  
 inhota - anluba  
-inkivääri - jinje  
-insinööri - enjener  
-insinööritaito - enjenia  
+inkivääri - ginge  
+insinööri - engener  
+insinööritaito - engenia  
 internet - internete  
 Intia - Barti  
 intiaani (Amerikan alkuperäisasukas) - aslamerikan  
@@ -1172,7 +1172,7 @@ kalsium - kalsium
 kaltainen (-llinen) - li  
 kaltevuus - gradu medan  
 kalvo (filmi) - mogu  
-Kambodja - Kambojia  
+Kambodja - Kambodia  
 kameli - gamel  
 kamera - fotografe gi  
 Kamerun - Kamerun  
@@ -1194,6 +1194,7 @@ kannattaa (tukea, edistää) - fa sim
 kannattaa - suporte  
 kannattaja (tukija, -isti) - iste  
 kanootti - kanu  
+kansa - deme  
 kansa - nas  
 kansainvälinen - internasial  
 kansakunta - nasia  
@@ -1330,7 +1331,7 @@ kerta (vuoro) - mar
 kertoa - fa kata  
 kertomus (tarina, saaga) - kata  
 kerubi - kerubi  
-keräilykortti - jami karte  
+keräilykortti - jame karte  
 keräkaali - rul koli  
 keskeyttää (tauottaa) - fa pauza  
 Keski-Afrikan Tasavalta - Jong Afrika Vakilkratia  
@@ -1372,7 +1373,7 @@ kiehua - be boli
 kiekko (levy) - diske  
 kieli (elin) - lisan  
 kieliopillinen - baxe kanun di  
-kieliopillinen suku - baxe jinse  
+kieliopillinen suku - lexe gense  
 kielioppi - baxe kanun  
 kielitiede (lingvistiikka) - baxe lojia  
 kielletty - haram  
@@ -1421,7 +1422,7 @@ kioski - kioske
 kipu (tuska) - alge  
 kipua aiheuttava - algogenike  
 kipulääke - analgive  
-kirahvi - jirafa  
+kirahvi - zirafa  
 kirentää (kiristää) - fa tense  
 kireä (tiukka, jännittynyt) - tense  
 Kirgistan (Kirgisia) - Kirgize  
@@ -1497,6 +1498,8 @@ kone - gi
 kone - makin  
 koneellistaa (mekanisoida) - makinize  
 konepelti - moto cati  
+konjugaatio - konyuge  
+konjunktio (sidesana) - yunte lexe  
 konkani (eräs intialainen kieli) - Konkani  
 konsertti - konserte  
 konsonantti - kinar fon  
@@ -1608,10 +1611,10 @@ kummitus (mörkö) - bubu
 kumpu - kume  
 Kungfutse - Kung Fuzi  
 Kungfutselaisuus - kung fuzi sim  
-kuningas - rajanan  
-kuningaskunta - rajia  
-kuningatar - rajani  
-kuninkaallinen - raja di  
+kuningas - nan reger  
+kuningaskunta - regia  
+kuningatar - ni reger  
+kuninkaallinen - regal  
 kunnianarvoisa - onor di  
 kunnioittaa - fa onor  
 kunnioitus (arvostus) - onor  
@@ -1750,6 +1753,7 @@ lahti - baya
 lainata (siteerata) - sita  
 lainausmerkki - sita marke  
 laivakaappari - nave kaper  
+laji (tyyppi, lajityyppi, kategoria, genre, sortti) - gense  
 laji - jung  
 laki (sääntö) - kanun  
 lakimies (juristi) - kanun vala  
@@ -1868,6 +1872,8 @@ liitonarkki - liga di sanduku
 liitto (liittouma, liiga) - liga  
 liitto (unioni) - un ta liga  
 liittosopimus - kon trati  
+liittymä - dau yunte  
+liittäminen - yuntion  
 liittää - fa liga  
 likainen (mutainen) - darti di  
 likainen - ansaf  
@@ -1975,13 +1981,13 @@ lähestyä - be karibu
 lähestyä - aproxe  
 lähetin - tramiser  
 lähetti (lähetyssaarnaaja) - misioner  
-lähettiläs - dai anjiler  
+lähettiläs - dai angiler  
 lähettää - mise  
 lähettää eteen (antaa odottaa) - promise  
 lähettää takaisin - remise  
 lähettää ulos - exmise  
 lähetys - mision  
-lähetystö - dai anjilkan  
+lähetystö - dai angilkan  
 lähistö - proxia  
 lämmin - garma  
 lämpö- (terminen) - termal  
@@ -2080,7 +2086,7 @@ Malta - Malta
 maltoosi - maltos  
 manata esiin - fa zai  
 mandariini (kiinalainen virkailija) - han guaner  
-mandariini - rubi oranje  
+mandariini - rubi orange  
 mangaani - mangan  
 mango - mango  
 mangostani - mangus  
@@ -2135,7 +2141,7 @@ me ja sinä - tumimen
 me mutta et sinä - damimen  
 medaljonki - medalon  
 media (tiedotusvälineet) - midia  
-meduusa - bahai jele  
+meduusa - bahai gele  
 megawatti (MW) - mega vate  
 mehiläinen - medu vespa  
 mehiläinen tai ampiainen - vespa  
@@ -2236,7 +2242,7 @@ molemminpuolinen (keskinäinen) - semen su
 molybdeeni - moliden  
 Monaco - Monako  
 monadi - monaje  
-monarkki (kuningas, kuningatar) - raja  
+monarkki (kuningas, kuningatar) - reger  
 monenlainen - vari  
 mongoli - mongol di  
 Mongolia - Mongol  
@@ -2282,7 +2288,7 @@ mukulakivi - gola seku
 mulperi - tuta  
 multa (humus) - hume  
 muna - anda  
-munakoiso - bedinjan  
+munakoiso - bedingan  
 munkki tai nunna - biku  
 munkki- tai nunnakunta - biku sanga  
 munuainen - nefre  
@@ -2296,6 +2302,7 @@ muovailuvaha - plaste paste
 muovata (muovailla) - fa plasti  
 muovi - plaste  
 murheellinen (traaginen) - tragike  
+musiikin lajityyppi - muzike gense  
 musiikki - muzike  
 musketti - muskete  
 musketööri - musketer  
@@ -2405,7 +2412,7 @@ niedziela - solden
 niellä - gul  
 niemi - yaki nesi  
 Niger - Nijer  
-Nigeria - Naijiria  
+Nigeria - Nigeria  
 nihonium - niponium  
 Nikaragua - Nikaragua  
 nikkeli - nikel  
@@ -2420,7 +2427,8 @@ nisäkäs - mamal
 nitraatti - nitrate  
 nitriili - nitril  
 Niue - Niue  
-nivel (liitos) - junte  
+nivel (liitos) - yunte  
+nivel (luiden liitoskohta) - oste yunte  
 no - nu  
 nobelium - nobelium  
 noin (arviolta, suunnilleen) - yaki  
@@ -2483,7 +2491,7 @@ näytös (esitys, show) - xou
 
 ## O  
 
-odottaa - dele do  
+odottaa - dele to  
 oganesson - oganeson  
 ohdake (takiainen) - kardon  
 ohitettu (mennyt) - pas di  
@@ -2559,7 +2567,7 @@ optimi (paras) - otime
 optimismi - otimisme  
 optimisti - otimiste  
 optio (preferenssi) - otion  
-oranssi - oranje rang  
+oranssi - orange rang  
 orava - lixu  
 orgaaninen elämä - bier  
 orgasmi - orgazme  
@@ -2888,6 +2896,7 @@ polvi - guta
 polvilumpio - guta kaska oste  
 polyteismi (monijumalisuus) - poli deu sim  
 pommi - bombe  
+popularny - populal  
 porata - fora  
 porkkana - karote  
 porno - porno  
@@ -2924,6 +2933,7 @@ prosessori - proceser
 protaktinium - protacinium  
 protestoida - proteste  
 psykologia - ruhu lojia  
+publiczny - populike  
 pudonnut (tippunut) - pada di  
 pudota (tipahtaa) - pada  
 pudottaa - fa pada  
@@ -3053,8 +3063,8 @@ raastaa - cira cira
 raastettu - cira cira di  
 radioaktiivinen - ion radi di  
 radioaktiivisuus - ion radi  
-radiolähetin - radio mise gi  
-radiovastaanotin - radio na gi  
+radiolähetin - radio miser  
+radiovastaanotin - radio ceper  
 radium - radium  
 radon - radon  
 radža - hinde raja  
@@ -3137,6 +3147,7 @@ rinta - sine
 rintakehä - sine kasa  
 riski - risko  
 riskialtis - risko di  
+risteys (liittymä) - yunture  
 risteytys (hybridi) - hibride  
 risti - krus  
 ristiinnaulita - fa krus fixe  
@@ -3290,7 +3301,7 @@ satanismi (paholaisenpalvonta) - xatanisme
 satanisti - xataniste  
 satavuotinen - sento nen di  
 sateenvarjo - barxa cati  
-satsuma - venjou oranje  
+satsuma - venzou orange  
 sattua (käydä kipeää) - be pasi  
 sattuma (onni) - zar  
 sattumanvarainen - zarike  
@@ -3326,7 +3337,7 @@ sekoitin - mixe gi
 sekoittaa - mixe  
 seksi (sukupuolisuhde) - sexu  
 seksikäs - sexe di  
-seksologia - sexolojia  
+seksologia - sexulojia  
 sekunti - sekunde  
 sekuntikello - dura metri gi  
 selain - brauzer  
@@ -3489,6 +3500,7 @@ sotaherra (generalissimo) - ordu raja
 sotaherran maa - ordu rajia  
 sotilaallinen - jang di  
 sotilas - ordu jen  
+sotilasjuntta - zalim yunte  
 soturi (taistelija) - janger  
 soveltaa - fa aplika  
 sovittaa (mukauttaa) - fa hapu  
@@ -3508,9 +3520,9 @@ sukka - maze
 suklaa - coklate  
 suklaapatukka - coklate kane  
 sukunimi - famili nam  
-sukupuoli - jinse  
-sukupuolinen - jinse di  
-sukupuolitutkimus - jinselogi  
+sukupuoli - sexu  
+sukupuolinen - sexual  
+sukupuolitutkimus - gensolojia  
 sukututkimus - gene logu  
 sulaa - fuzi  
 sulaa yhteen (fuusioitua) - be fuzi liga  
@@ -3726,7 +3738,7 @@ taulukoida - table yo data
 taulutietokone (tabletti) - table komputa  
 tavallinen - ada di  
 tavanomainen (perinteinen) - suna di  
-tavata (tapaaminen, kokous) - ajami  
+tavata (tapaaminen, kokous) - ajame  
 taverna - panduke  
 tavu - lexe fen  
 te - tumen  
@@ -4239,9 +4251,9 @@ vieraanvarainen (antelias, hyväntahtoinen) - karim di
 vierailija (vieras) - viziter  
 vieras (tuntematon) - ansan di  
 vieri (oheis-, para-) - para  
-viesti - anjil  
+viesti - angil  
 viesti - misaje  
-viestintuoja (airut) - anjiler  
+viestintuoja (airut) - angiler  
 Vietnam - Viete  
 vietnamilainen - viete baxe  
 viha (inho) - hen  
@@ -4334,7 +4346,7 @@ vuotaa - lou
 vuotaa verta - lou sang  
 vyö - zone  
 väenpaljous - deme polita  
-väestö (kansa) - deme  
+väestö (rahvas) - pope  
 väestötiede (demografia) - demografia  
 vähemmistö - minia  
 vähemmän - min  
@@ -4372,7 +4384,7 @@ walesilainen - kamri
 Wallis ja Futuna - Valis i Futuna nesi  
 Washington DC - Vaxington DC  
 watti - vate  
-Wenzhou - Venjou  
+Wenzhou - Venzou  
 wiki - viki  
 wikikirjoitus - viki makala  
 wikipedia - viki pedia  
@@ -4422,6 +4434,7 @@ yksinäinen - un zai di
 yksityiskohta (detalji) - detal  
 yksityistää - privatize  
 yksivärinen - un rang di  
+yleinen (koko lajia koskeva) - gensal  
 yleinen (universaali) - putong  
 yleiskiina (mandariinikiina) - Putong Han  
 ylenmääräinen - luxure  

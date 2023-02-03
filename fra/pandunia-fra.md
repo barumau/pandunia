@@ -104,6 +104,8 @@ Andes - Andes
 andesite - andésite  
 Andora - Andorre  
 angar - ancre  
+angil - message  
+angiler - messager  
 Angola - Angola  
 angul - doigt  
 angul marke - empreinte digitale  
@@ -116,8 +118,6 @@ animation - animation
 animisme - animisme  
 anis - anis  
 anis araki - raki  
-anjil - message  
-anjiler - messager  
 Antartika - Antarctique  
 Antartika Bahai - Océan Antarctique  
 antena - antenne  
@@ -203,7 +203,7 @@ Axur - Assur
 Axuria - Assyrie  
 aya - bonne (domestique)  
 ayo - aïe!  
-Azerbaijan - Azerbaijan  
+Azeria - Azerbaijan  
 
 ## B  
 
@@ -225,8 +225,8 @@ bahai - mer
 bahai alga - algues  
 bahai amirer - amiral  
 bahai cau - posidonie (herbiers marins)  
+bahai gele - méduse  
 bahai hiyar - concombre de mer  
-bahai jele - méduse  
 bahai kinar - côte  
 bahai ordu - force navale (marine)  
 bahai vala - matelot  
@@ -295,7 +295,6 @@ bauite - pierre précieuse (joyau)
 • polibaxike - plurilingue (multilingue)  
 • trabaxe - traduction  
 baxe - langue  
-baxe jinse - genre grammatical  
 baya - baie (golf)  
 baze - base  
 baze bol - baseball  
@@ -322,7 +321,7 @@ be retro - retourner (revenir)
 be sona - dormir  
 bebe - bébé  
 bede - lit  
-bedinjan - aubergine  
+bedingan - aubergine  
 bei - socio  
 belca - pelle  
 ben - fils ou fille  
@@ -468,6 +467,7 @@ data banke - base de données
 data culi - traitement de données  
 data culi lojia - informatique  
 dau bano - panneau de signalisation  
+dau yunte - carrefour  
 dava sui - pocion  
 dava xe - médicament (remède)  
 dava xekan - pharmacie  
@@ -482,6 +482,7 @@ defe bano - bouclire
 defe kaska - armure  
 deha - village  
 dele - délai (retard)  
+demokratia - démocratie  
 • preden - hier  
 den loge - journal  
 dexhanuka - droitier (dextre)  
@@ -553,10 +554,10 @@ elastike - élastique
 eletre - électricité  
 eletrolize - électrolyse  
 elfe - elfe  
+engener - ingénieur  
+engenia - ingénierie (génie)  
 englix fon di - anglophone  
 englix margarita - pâquerette  
-enjener - ingénieur  
-enjenia - ingénierie (génie)  
 erbium - erbium  
 es - être  
 esentia - être (existence, essence)  
@@ -571,7 +572,7 @@ estrontium - strontium
 etan - éthane  
 etanol - éthanol  
 etil - éthyle  
-eu anjil - évangile  
+eu angil - évangile  
 eu loga - éloge  
 europium - europium  
 Europa - Europe  
@@ -791,6 +792,7 @@ geolojia - géologie
 geometria - géométrie  
 geopolitia - géopolitique  
 geoterme - géothermique  
+gebre - algèbre  
 gem - épée  
 gem dau - kendo  
 gem suta - escrime  
@@ -798,6 +800,8 @@ gene logu - généalogie
 gene lojia di - génétique  
 gene tipe - génotype  
 gene yo hevan - élever  
+gensal - général  
+gensolojia - études de genre  
 geo elfe - gnome  
 geo forme - terrain  
 geo kaska plate - plaque tectonique  
@@ -807,6 +811,7 @@ germanium - germanium
 gide - guider  
 gide buku - guide touristique  
 gider - guide  
+ginge - gingembre  
 gingam - kumquat  
 gio - enseigner  
 gitar - guitare  
@@ -973,7 +978,7 @@ ite - pierre
 jaga - éveillé  
 jai - vaincre  
 jain din - jaïnisme  
-jami karte - carte à collectionner  
+jame karte - carte à collectionner  
 jamul - prune de Java  
 jan buda din - zen  
 janela - fenêtre  
@@ -985,7 +990,6 @@ javabu - réponse
 Jayer - Algérie  
 jebe - poche  
 jebe caku - canif  
-jebre - algèbre  
 jeka - prêter (empruntre)  
 jeka don - prêter  
 jeka na - empruntre  
@@ -998,10 +1002,6 @@ jenju table - abaque (boulier compteur)
 jete grafe - projeter (image projection)  
 jihade - lutte  
 jini - esprit (génie)  
-jinje - gingembre  
-jinse - sexe  
-jinselogi - études de genre  
-jirafa - giraffe  
 jiva - vivre (vivant; vie)  
 • trajiva - survivre  
 jong - centre  
@@ -1047,7 +1047,7 @@ kalende - calendrier
 kali - base (alcali; basique)  
 kali di - basique  
 kali guste - amer  
-kali oranje - orange amère  
+kali orange - orange amère  
 kalifornium - californium  
 kalmar - calmar (encornet, calamar)  
 kalsobilor - marbre  
@@ -1268,6 +1268,7 @@ lexal - lexical
 lexasle - étymologie  
 lexeme - lexème  
 lexe fen - syllabe  
+lexe gense - genre grammatical  
 lexe jama - vocabulaire (lexique)  
 liama - lama  
 libele - libellule  
@@ -1505,6 +1506,7 @@ nam - nom
 • annam - antonyme  
 nam hin - innomé  
 nam kitaba - signer  
+nan reger - roi  
 nardi - backgammon  
 narke - drogue (narcotique, dope)  
 nasia - nation  
@@ -1555,6 +1557,7 @@ neurotoxe - neurotoxine
 nia - intention  
 nice - dessous  
 nide - nid  
+Nigeria - Nigeria  
 nikel - nickel  
 nil - bleu  
 nil elfe - schtroumpf  
@@ -1590,8 +1593,8 @@ oganeson - oganesson
 ohtopus - Poulpe (pieuvre)  
 onda - onde  
 onor - honneur  
-oranje - orange (fruit)  
-oranje rang - orange (couleur)  
+orange - orange (fruit)  
+orange rang - orange (couleur)  
 ordu - armée  
 ordu jen - soldat  
 ordu jen kan - caserne  
@@ -1606,6 +1609,7 @@ osidian - obsidienne
 osmium - osmium  
 oste jama - squelette  
 oste xalke - scutelle  
+oste yunte - articulation (jointure)  
 ote - opter  
 otimal - optimal  
 otion - option (choix)  
@@ -1737,6 +1741,9 @@ politike - administrateur
 polskium - polonium  
 pompe - pompe  
 pompe tape - piston  
+pope - peuple  
+pope muzike - musique pop  
+populal - populaire  
 pore - pore  
 porei - poireau  
 porte - porter  
@@ -1784,7 +1791,7 @@ pul xipi - tremper (faire mariner)
 pulmon tis - pneumonie  
 puma - couguar (puma)  
 putau bagi - vignoble  
-putau oranje - pamplemousse  
+putau orange - pamplemousse  
 pute - pourri  
 pute - compter (calculer)  
 • konputer - ordinateur  
@@ -1798,7 +1805,6 @@ rage - ferveur
 ragubi - rugby  
 ragbi - 럭비  
 rai - avis (opinion)  
-rajanan - roi  
 rakete lanser - Lance-roquettes  
 rakun - raton laveur  
 rang - couleur  
@@ -1813,6 +1819,8 @@ ratolojia - logique
 ratibu - ordre  
 realisme - réalisme  
 realta - réalité  
+regal - royal  
+regia - royaume  
 Ren - Rhin  
 renium - rhénium  
 rentegenium - roentgenium  
@@ -1843,7 +1851,7 @@ rota vanu gi - toupie
 rubium - rubidium  
 rubi - rouge  
 rubi bau seku - rubis  
-rubi oranje - mandarine  
+rubi orange - mandarine  
 rubi salmon - saumon sockeye  
 ruhu - psyché  
 ruhu lojia - psychologie  
@@ -1925,8 +1933,9 @@ sento nen di - centenaire
 ser - maillon (chaînon)  
 seria - série  
 serser - chaîne  
-sexolojia - sexologie  
-• ansexe di - asexué  
+sexu - sexe  
+• ansexual - asexué  
+sexulojia - sexologie  
 si - si  
 siborgium - seaborgium  
 sifa loga - adjectif  
@@ -1989,7 +1998,7 @@ sukafa - plaire
 sukar - sucre  
 sukar bete - betterave à sucre (betterave sucrière)  
 sukar gana - canne à sucre  
-sukar oranje - orange douce  
+sukar orange - orange douce  
 sukaros - saccharose  
 sulfe - soufre  
 sulfate - sulfate  
@@ -2162,9 +2171,9 @@ devel - dévoiler (révéler)
 vende - vendre  
 vende xope - commerce  
 Venezuela - Venezuela  
-venjou oranje - mandarine satsuma  
 ventur - aventure  
 venturer - aventurier  
+venzou orange - mandarine satsuma  
 ver - vrai  
 veranda - balcon  
 verme - ver  
@@ -2284,10 +2293,13 @@ Yesa - Jésus
 Yesa Mesi - Jésus-Christ  
 yim yang - yin-yang  
 yoga - yoga  
-yogo - joug  
 yogur - yaourt (yogourt)  
 you - infantile (immature)  
 you moke - pousse  
+yuge - joug  
+• konyuge - conjugaison  
+yuntion - jonction  
+yunte lexe - conjonction  
 yurta - yourte  
 yuterbium - ytterbium  
 yutrium - yttrium  
@@ -2297,6 +2309,7 @@ yutrium - yttrium
 zai di - présent  
 zai zaman di - actuel (courant)  
 zalimive - cruel  
+zalim yunte - junte  
 zaman - temps  
 • prezaman di - vieux (ancien)  
 zar kube - dé  
@@ -2309,6 +2322,7 @@ zi seri - alphabet
 zikura - ziggourat  
 zinke - zinc  
 zira - cumin  
+zirafa - giraffe  
 zirkonium - zirconium  
 zoku - continuer (poursuivre, encore)  
 zombi - zombi  

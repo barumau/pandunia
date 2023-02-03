@@ -70,12 +70,12 @@ ancovi - sardelo (anĉovo)
 anda - ovo  
 Andes - Andoj  
 angar - ankro  
+angil - mesaĝo  
 angul - fingro  
 angul ring - ringo  
 animaje - kartuno  
 • reanimate - reanimi  
 animate - animi  
-anjil - mesaĝo  
 antena - anteno  
 anus - anuso  
 anusal - anusa  
@@ -240,7 +240,7 @@ be supra - superiri
 be xuru - komenciĝi  
 bebe - bebo  
 bede - lito  
-bedinjan - melongeno  
+bedingan - melongeno  
 bega - fuĝi  
 behe - kapro  
 Belarus - Belorusio  
@@ -398,8 +398,8 @@ damen su - ilia
 damimen - ni sen ne vi  
 da su - lia aŭ ŝia aŭ ĝia  
 dai - granda  
-dai anjiler - ambasadoro  
-dai anjilkan - ambasado  
+dai angiler - ambasadoro  
+dai angilkan - ambasado  
 dai bahai - oceano  
 dai dom - palaco  
 dai pau - kanono  
@@ -435,8 +435,7 @@ deojojia - teologio
 defe - defendo  
 defer - defendanto (defendisto)  
 deha - vilaĝo  
-dele do - atendi  
-deme - popolo  
+dele to - atendi  
 demografia - demografio  
 demokratia - demokratio  
 demokratike - demokratia  
@@ -542,7 +541,7 @@ esperanto - Esperanto
 Esti - Estonio  
 estrontium - stroncio  
 Etiopia - Etiopio  
-eu anjil - evangelio  
+eu angil - evangelio  
 Eurasia - Eŭrazio  
 eureka - trovi  
 euro - eŭro  
@@ -780,7 +779,9 @@ gazel - gazelo
 gazeta - gazeto (revuo)  
 geografia - geografio  
 geometria - geometrio  
+gebre - algebro  
 gei - samseksema  
+gele - ĝelo  
 gem - glavo  
 geme - ludo  
 gemer - ludanto  
@@ -789,6 +790,7 @@ geo sismo - tertremo
 germanium - germaniumo  
 gi - maŝino  
 gide - gvidi  
+ginge - zingibro  
 gio - instrui (lernigi)  
 gitar - gitaro  
 giuka - jado  
@@ -979,9 +981,9 @@ jaga - uyanık
 jai - venki  
 jain din - Ĝajnismo  
 jake - jako  
+• anjame - disigi  
 jamive - kolekta  
 Jamaika - Jamajko  
-• anjami - disigi  
 jampe - salti  
 janela - fenestro  
 janela frem - fenestrokadro  
@@ -993,18 +995,12 @@ jaru - balailo
 jau - hordeo  
 javabu - respondo  
 jebe - poŝo  
-jebre - algebro  
 jelakan - malliberejo  
-jele - ĝelo  
 jen - persono  
 jen bahai - amasego da homoj  
 jen jami - amaso da homoj  
 jenju - perlo  
 jenju table - bidkalkulilo (abako)  
-jinje - zingibro  
-jinse - sekso  
-jinse di - seksa  
-jirafa - ĝirafo  
 jiva - vivi (viva; vivo)  
 • trajiva - travivi  
 jong - centro  
@@ -1064,7 +1060,7 @@ kamia - malmulteco
 kamife - malmultigi  
 kama kanon - deziro  
 kamar - ĉambro  
-Kambojia - Kamboĝo  
+Kambodia - Kamboĝo  
 kamisa - ĉemizo  
 kamote - batato  
 kan - farejo  
@@ -1462,12 +1458,12 @@ nadir mar - malofte
 nafas - spiro  
 nagre - urbo  
 nagral - urba  
-Naijiria - Niĝerio  
 nam - nomo  
 nam hin - sennoma  
 nam loga - substantivo  
 Namibia - Namibio  
 nan - viro  
+nan reger - reĝo  
 naram - mola  
 narke - drogo  
 • internasial - internacia  
@@ -1506,6 +1502,7 @@ neural - nerva
 neuron - neŭrono  
 ni - ino  
 nia - celo  
+Nigeria - Niĝerio  
 Nijer - Niĝero  
 Nikaragua - Nikaragvo  
 nikel - nikelo  
@@ -1546,8 +1543,8 @@ onda - ondo
 Onduras - Honduro  
 onor - honoro (respekto)  
 onor di - respektinda  
-oranje - oranĝo  
-oranje rang - oranĝa  
+orange - oranĝo  
+orange rang - oranĝa  
 ordu - armeo  
 ordu jen - soldato  
 ordu jen kan - soldatejo (kazerno)  
@@ -1559,6 +1556,7 @@ Oseania - Oceanio
 osmium - osmio  
 osmos - osmozo  
 oste - osto  
+oste yunte - artiko  
 ote - preferi  
 oxe - oksigeno  
 oxide - oksido  
@@ -1679,6 +1677,10 @@ politi di - politika
 politi lona - politiko  
 polskium - polonio  
 pompe - pumpilo  
+pope - popolo  
+pope muzike - pop-musiikki (populäärimusiikki)  
+populal - kansanomainen (populääri)  
+populate - kansoittaa  
 pore - poro  
 porei - poreo  
 porto - haveno  
@@ -1716,11 +1718,9 @@ Putong Han - mandarinĉina
 ## R  
 
 radium - radiumo  
-radio na gi - radio  
+radio ceper - radio  
 radon - radono  
 rai - opinio  
-raja - reĝo aŭ reĝino  
-rajanan - reĝo  
 rakun - lavurso (prociono)  
 rampe - ramplo  
 rang - koloro  
@@ -1737,6 +1737,8 @@ realisme - realismo
 realiste - realisto  
 realta - realeco  
 redi - preta  
+reger - reĝo aŭ reĝino  
+regia - reĝlando  
 Ren - Rejno  
 renium - renio  
 rentegenium - rentgenio  
@@ -1761,7 +1763,7 @@ rota tufan - uragano (tajfuno)
 rubium - rubidio  
 rubi - ruĝa  
 rubi bau seku - rubeno  
-rubi oranje - mandarino  
+rubi orange - mandarino  
 ruhu - animo (psiko)  
 ruhu lojia - psikologio  
 ruke - dorso  
@@ -1849,6 +1851,8 @@ serser - ĉeno
 Serbia - Serbio  
 serpe - serpento  
 sexu - sekso  
+sexu - sekso  
+sexual - seksa  
 si - se  
 siborgium - seborgio  
 sifa loga - adjektivo  
@@ -2187,10 +2191,10 @@ yo jen - iu persono
 yo sata - iam  
 yo xe - io  
 yoga - jogo  
-yogo - jugo  
 yogur - jogurto  
 you nan - knabo  
 you ni - knabino  
+yuge - jugo  
 yurta - jurto (gero)  
 yuterbium - iterbio  
 yutrium - itrio  
@@ -2218,6 +2222,7 @@ zi seri - alfabeto
 zina - malfideleco  
 zinke - zinko  
 zira - kumino  
+zirafa - ĝirafo  
 zirkonium - zirkonio  
 zoku - ankoraŭ  
 zone - zono  

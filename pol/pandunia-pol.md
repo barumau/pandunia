@@ -141,6 +141,8 @@ Andes - Andy
 andesite - andezyt  
 Andora - Andora  
 angar - kotwica  
+angil - wiadomość  
+angiler - posłaniec (wysłannik)  
 Angola - Angola  
 angul - palec  
 angul marke -   
@@ -155,8 +157,6 @@ animation -
 animisme - animizm  
 anis - anyż  
 anis araki -   
-anjil - wiadomość  
-anjiler - posłaniec (wysłannik)  
 Antartika - Antarktyka  
 Antartika Bahai - Ocean Antarktyczny (Ocean Południowy)  
 antena - antena  
@@ -263,7 +263,7 @@ Axur - Aszur
 Axuria - Asyria  
 aya -   
 ayo - aj!, ał!  
-Azerbaijan - Azerbejdżan  
+Azeria - Azerbejdżan  
 
 ## B  
 
@@ -291,9 +291,9 @@ bahai alga - wodorosty
 bahai amirer - admirał  
 bahai cau - trawa mor  
 bahai di - morski  
+bahai gele - meduza  
 bahai hiyar - strzykwa  
 bahai hua - ukwiał  
-bahai jele - meduza  
 bahai kinar - wybrzeże  
 bahai nil - morskoniebieski  
 bahai ordu - marynarka (flota)  
@@ -383,7 +383,6 @@ bauite - klejnot
 • trabaxer - tłumacz  
 • unbaxike -   
 baxe - język; komunikacja; mówić  
-baxe jinse - rodzaj gramatyczny  
 baxe kanun - gramatyka  
 baxe kanun di - gramatyczny  
 baxe lojia - językoznastwo  
@@ -473,7 +472,7 @@ be zai - pojawić się
 bebe - niemowlę  
 bebe bede - kojec  
 bede - łóżko  
-bedinjan - bakłażan, oberżyna  
+bedingan - bakłażan, oberżyna  
 bega - uciec, uciekać  
 behe - koza  
 bei -   
@@ -524,7 +523,7 @@ bine - budynek (struktura)
 bine plan - architektura  
 bine planer - architekt  
 bindu - punkt  
-bio jinse - płeć biologiczna  
+biogense - płeć biologiczna  
 bio lasa -   
 bio mute di - sfermentowany  
 bio sana xe - kompost  
@@ -750,8 +749,8 @@ damen su -
 damimen -   
 da su -   
 dai - duży  
-dai anjiler - ambasador  
-dai anjilkan - ambasada  
+dai angiler - ambasador  
+dai angilkan - ambasada  
 dai bahai - ocean  
 dai barxa -   
 dai dara -   
@@ -808,6 +807,7 @@ dau - droga, szosa, ulica
 dau bano -   
 dauisme - taoizm  
 dauiste - taoista  
+dau yunte -   
 dava - uleczyć, leczyć, uzdrowić, uzdrawiać  
 davaer - doktor, lekarz, uzdrowiciel  
 dava lojia - medycyna  
@@ -834,8 +834,8 @@ defe kaska - zbroja
 deha - wieś, wioska  
 Deimos -   
 dele -   
-dele do - czekać  
-deme - lud, społeczeństwo  
+dele to - czekać  
+deme -   
 demal - publiczny  
 demografia - demografia  
 demokratia - demokracja  
@@ -1022,13 +1022,13 @@ eletrorade - piorun (grom)
 elfe -   
 Enceladus -   
 energia - energia  
+engener - inżynier  
+engenia -   
 Englix - Anglia  
 englix di - Anglik; angielski  
 englix filiste - anglofil  
 englix fon di -   
 englix margarita - stokrotka pospolita  
-enjener - inżynier  
-enjenia -   
 enzim - enzym  
 erbium - erb  
 Eris - Eris (planeta karłowata)  
@@ -1056,7 +1056,7 @@ etanol -
 etil -   
 Etiopia - Etiopia  
 eu - korzystny (dobry)  
-eu anjil - ewangelia  
+eu angil - ewangelia  
 eu deu sim -   
 eu gene sim -   
 eu loga - laudacja  
@@ -1635,7 +1635,9 @@ geolojia - geologia
 geometria -   
 geopolitia -   
 geoterme -   
+gebre - algebra  
 gei - gejowski (homoseksualny)  
+gele - żel, galareta  
 gem - miecz  
 geme - gra  
 gem dau -   
@@ -1653,6 +1655,9 @@ gene logu - genealogia
 gene lojia di -   
 gene tipe - genotyp  
 gene yo hevan - rozmnażać  
+gense -   
+gensal -   
+gensolojia -   
 geo dou - orzech ziemny  
 geo elfe -   
 geo forme - teren  
@@ -1671,10 +1676,12 @@ germanium - german
 Gernezi - Guernsey  
 geste - gest  
 gi - maszyna  
+Gibraltar - Gibraltar  
 gide - prowadzić (wskazać drogę)  
 gide buku - przewodnik  
 gider - przewodnik  
 ging - równoległy (podłużny)  
+ginge - imbir  
 ging gola - długość geograficzna  
 ging gradu - długość geograficzna  
 ging lin -   
@@ -1764,7 +1771,7 @@ guan - szeroki
 guan di - oficjalny  
 guaner - funkcjonariusz, urzędnik  
 guanta - szerokość  
-Guangjou - Kanton  
+Guangzou - Kanton  
 Guatemala - Gwatemala  
 gubu - hipopotam  
 gui - ogr (trol, goblin)  
@@ -2069,13 +2076,13 @@ jaija -
 jain din - dźinizm, dżinizm  
 Jakarta - Dżakarta  
 jake - kurtka  
+• ajame - spotkać (spotkanie, zebranie)  
+• anjame - rozproszyć, rozpraszać  
+• anjame di - rzadki (rozrzedzony, rozproszony)  
 jamia - kolekcja, zbiór; zgromadzenie, zebranie  
 jamive - zbiorowy, zbiorczy  
+jame karte -   
 Jamaika - Jamajka  
-• ajami - spotkać (spotkanie, zebranie)  
-• anjami - rozproszyć, rozpraszać  
-• anjami di - rzadki (rozrzedzony, rozproszony)  
-jami karte -   
 jampe - skoczyć, skakać  
 jamul - czapetka kuminowa  
 jan - medytować; dumać, rozmyślać, zastanawiać się  
@@ -2095,7 +2102,6 @@ Jayer - Algieria
 jaze - jazz, dżez  
 jebe - kieszeń  
 jebe caku -   
-jebre - algebra  
 jeka - pożyczyć  
 jeka don - pożyczać komuś (pożyczyć komuś)  
 jeka loga - zapożyczenie (wyraz obcy)  
@@ -2104,7 +2110,6 @@ jela - więzienie, kara więzienia, kara pozbawienia wolności
 jela ja - strażnik więzienny  
 jela jen -   
 jelakan - więzienie, zakład karny  
-jele - żel, galareta  
 jen - osoba  
 jen (jen men) -   
 jen bahai -   
@@ -2120,15 +2125,9 @@ jete -
 • projete - projekt, planowane przedsięwzięcie  
 • rejete -   
 jete grafe - wyświetlać (rzut, projekcja)  
-Jibraltar - Gibraltar  
 Jibuti - Dżibuti  
 jihade -   
 jini -   
-jinje - imbir  
-jinse - płeć  
-jinse di - płciowy  
-jinselogi -   
-jirafa - żyrafa  
 jiva - żyć (żywy, żyjący; życie)  
 • trajiva -   
 joke - żart  
@@ -2165,7 +2164,6 @@ jun sau -
 jun sis -   
 junta - młodość  
 jung - gatunek  
-junte -   
 jupe - spódnica  
 jus - sok  
 juste - tylko (precyzyjny, dokładny)  
@@ -2209,7 +2207,7 @@ kali -
 kali di -   
 kali guste - gorzki  
 kali melon - przepękla ogórkowata (balsamka ogórkowata)  
-kali oranje - gorzka pomarańcza  
+kali orange - gorzka pomarańcza  
 kalifornium - kaliforn  
 Kalisto -   
 kalkul - rachunek (formalny system obliczeń)  
@@ -2228,7 +2226,7 @@ kama kanon -
 kamar - pokój, sala  
 kamar dipe - podłoga  
 kamar gau - sufit  
-Kambojia - Kambodża  
+Kambodia - Kambodża  
 Kamerun - Kamerun  
 kamil - rumianek pospolity  
 kamisa - koszula  
@@ -2664,6 +2662,7 @@ lexal - słowny (leksykalny)
 lexasle - etymologia  
 lexeme - leksem  
 lexe fen - sylaba (zgłoska)  
+lexe gense - rodzaj gramatyczny  
 lexe jama - słownictwo  
 lexe liste - lista słów  
 li -   
@@ -2694,7 +2693,7 @@ limite di - skończony (ograniczony)
 limon - cytryna  
 limon jus -   
 limon luga di - limonkowy (limonkowo zielony)  
-limon oranje -   
+limon orange -   
 lin - linia (nić, lina, pas, pręga, smuga, dratwa)  
 lin parce - złamanie lini  
 lin so - włókno  
@@ -2871,7 +2870,7 @@ maska - maska, kamuflaż
 maste - być mistrzem (być ekspertem)  
 master - mistrz (ekspert)  
 master de arte (MA) -   
-master de enjenia (ME) -   
+master de engenia (ME) -   
 master de filsofia (MF) -   
 master de lojia (ML) -   
 master de tehnolojia (MT) -   
@@ -3131,6 +3130,7 @@ muxinden - czwartek
 muxmula -   
 muxu - mysz  
 muxu cakra -   
+muzike gense -   
 muzike - muzyka  
 muziker - muzyk  
 
@@ -3153,7 +3153,6 @@ nagral - miejski
 nagre gogia -   
 nagria -   
 nahun - paznokieć  
-Naijiria - Nigeria  
 najis -   
 najis bindu -   
 najis di -   
@@ -3167,6 +3166,7 @@ nam tikete -
 Namibia - Namibia  
 nan - męski  
 nan per (man) - małżonek  
+nan reger - król  
 nano mitre - nanometr  
 naraka - piekło  
 naram - miękki  
@@ -3268,11 +3268,13 @@ neurotoxe -
 Nevis - Nevis  
 ni - kobieta; kobiecy  
 ni per (fem) - małżonka  
+ni reger - królowa  
 nia -   
 nice - spód  
 nice di - poniższy  
 nice kitaba -   
 nide - gniazdo (ul, nora, jama, barłóg, legowisko)  
+Nigeria - Nigeria  
 Nijer - Niger  
 Nikaragua - Nikaragua  
 nikel - nikiel  
@@ -3320,7 +3322,7 @@ nos di - nosowy
 nostalgia - nostalgia (tęsknota)  
 nostalgike - nostalgiczny  
 note - notować, obserwować, zauważyć, zauważać  
-note anjil - wiadomość, zawiadomienie, powiadomienie  
+note angil - wiadomość, zawiadomienie, powiadomienie  
 note buku - notatnik  
 note xe - uwaga, obserwacja  
 nu -   
@@ -3350,8 +3352,8 @@ onda - fala
 Onduras - Honduras  
 onor - respekt, honor, szacunek, poważanie  
 onor di - honorowy  
-oranje - pomarańcza  
-oranje rang - pomarańczowy  
+orange - pomarańcza  
+orange rang - pomarańczowy  
 ordu - armia  
 ordu jen - żołnierz  
 ordu jen kan - koszary  
@@ -3378,6 +3380,7 @@ osmos - osmoza
 oste - kość  
 oste jama - szkielet  
 oste xalke - łuska (blaszka, tarczka)  
+oste yunte - staw  
 Ostria - Austria  
 ote -   
 otime -   
@@ -3658,6 +3661,11 @@ Polska - Polska
 polska baxa - polski  
 pompe - pompować  
 pompe tape - tłok  
+pope - lud, społeczeństwo  
+pope muzike -   
+populal -   
+populate -   
+populike -   
 pore -   
 porei - por  
 porno - porno, film erotyczny  
@@ -3752,7 +3760,7 @@ pupe - lalka, kukiełka, pacynka, marionetka
 konputeral -   
 putau - winogrono  
 putau bagi - winnica  
-putau oranje - grejpfrut  
+putau orange - grejpfrut  
 pute - zgniły  
 pute -   
 • expute -   
@@ -3770,19 +3778,14 @@ Qazaqe - Kazachstan
 rade - promień  
 radion -   
 radium - rad  
+rade longta -   
 radometrer - radoiometr  
-radi longta -   
 radio - radio  
-radio mise gi - nadajnik radiowy  
-radio na gi - radio  
+radio ceper - radio  
+radio miser - nadajnik radiowy  
 radon - radon  
 rage -   
 rai - opinia, pogląd  
-rajia - królestwo  
-raja - król lub królowa  
-raja di - królewski  
-rajanan - król  
-rajani - królowa  
 rakete - rakieta  
 rakete lanser - wyrzutnia rakietowa  
 rakun - szop pracz  
@@ -3816,6 +3819,9 @@ realta - rzeczywistość (realność)
 Rea -   
 rebel - rebelia, powstanie  
 redi - gotowy  
+regal - królewski  
+reger - król lub królowa  
+regia - królestwo  
 Ren - Ren  
 renium - ren  
 rentegenium - roentgen  
@@ -3875,7 +3881,7 @@ rubium - rubid
 rubi - czerwony  
 rubi bau seku - rubin  
 rubi linse - ryś rudy  
-rubi oranje - mandarynka  
+rubi orange - mandarynka  
 rubi salmon - nerka (łosoś czerwony)  
 ruhu - dusza, duch, umysł  
 ruhu di - umysłowy (psychiczny)  
@@ -4063,11 +4069,13 @@ server - sługa
 server -   
 server nam -   
 sesam - sezam  
-sexolojia - seksuologia  
-• ansexe di - aseksualny  
 sexe di - seksowny, ponętny  
 Sexel nesi - Seszele  
+sexu - płeć  
 sexu - seks, stosunek płciowy  
+sexual - płciowy  
+• ansexual - aseksualny  
+sexulojia - seksuologia  
 si - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
 Sibiria - Syberia  
 siborgium - seaborg  
@@ -4154,9 +4162,9 @@ sos - sos
 sosia - społeczeństwo, system społeczny  
 sosial - społeczny  
 sosial midia - media społecznościowe  
+sosial sexu - płeć społeczna  
 sosisme - socjalizm  
 sosiste - socjalista  
-sosi jinse - płeć społeczna  
 sosis - kiełbasa  
 Soto - Lesotho  
 spete -   
@@ -4224,7 +4232,7 @@ sukar - cukier
 sukar bete - burak cukrowy  
 sukar di - słodki  
 sukar gana - trzcina cukrowa  
-sukar oranje - pomarańcza słodka (pomarańcza chińska)  
+sukar orange - pomarańcza słodka (pomarańcza chińska)  
 sukaros -   
 sulfe - siarka  
 sulfate - sulfat  
@@ -4599,10 +4607,10 @@ vende - sprzedać (sprzedawać)
 vende xope - handel  
 vende xope ja - handlarz (kupiec)  
 Venezuela - Wenezuela  
-Venjou - Wenzhou  
-venjou oranje - mandarynka Satsuma (pomarańcza Satsuma)  
 ventur - przygoda  
 venturer - poszukiwacz przygód (awanturnik)  
+Venzou - Wenzhou  
+venzou orange - mandarynka Satsuma (pomarańcza Satsuma)  
 ver - prawdziwy (rzeczywisty, szczery)  
 verife -   
 veranda - weranda, balkon, taras, ganek  
@@ -4849,7 +4857,6 @@ yo sata - sometime
 yo xe - coś  
 yoga - joga  
 yogaiste - jogin (joginka)  
-yogo - jarzmo  
 yogur - jogurt  
 Yohan festa - dzień świętego Jana  
 Yoruba - Joruba  
@@ -4861,6 +4868,12 @@ you nan - chłopak
 you nen -   
 you ni - dziewczyna  
 youta -   
+yuge - jarzmo  
+• konyuge -   
+yuntion -   
+yunte lexe -   
+yunture -   
+yunte -   
 yurta - jurta  
 yuterbium - iterb  
 yutrium - itr  
@@ -4878,6 +4891,7 @@ zalime -
 zalimer - tyran  
 zalimia - tyrania  
 zalimive - złośliwy, okrutny  
+zalim yunte -   
 zaman - czas  
 • prezaman - przeszłość  
 • prezaman di - stary, starożytny  
@@ -4904,6 +4918,7 @@ zinke - cynk
 zipe - zamknąć zamkiem błyskawicznym  
 ziper - zamek błyskawiczny  
 zira - kumin, kmin  
+zirafa - żyrafa  
 zirkon -   
 zirkonium - cyrkon  
 ziza - zygzag  

@@ -65,7 +65,7 @@ algométrie - algometria
 algue - alga  
 algues - bahai alga  
 algues brunes - kafe alga  
-algèbre - jebre  
+algèbre - gebre  
 Algérie - Jayer  
 alien - alian  
 alkyle - alkil  
@@ -172,11 +172,12 @@ arsenic - arsenium
 art - sute  
 artefact - arte fete  
 artichaut - karcof  
+articulation (jointure) - oste yunte  
 artiste - artiste  
 Artsakh - Arcah  
 Aruba - Aruba  
 ascète - askete  
-asexué - ansexe di  
+asexué - ansexual  
 asiatique - asian  
 Asie - Asia  
 asperge - asparge  
@@ -195,7 +196,7 @@ astronomie - astronomia
 Athènes - Athina  
 athée - andeiste  
 atome - atom  
-aubergine - bedinjan  
+aubergine - bedingan  
 augmenter - auge  
 Australie - Australia  
 Austronésie - Austronesi  
@@ -216,7 +217,7 @@ avocat - avakate
 avoine - ave  
 avoir - ha  
 axe - axe  
-Azerbaijan - Azerbaijan  
+Azerbaijan - Azeria  
 azote - nitre  
 azur - lazur  
 aérobique - airobiike  
@@ -405,11 +406,12 @@ cardon - kardon karcof
 carnaval - karne feste  
 carotte - karote  
 caroube - karuba  
+carrefour - dau yunte  
 carrière - pei kar jiva  
 carte (plan) - karte  
 carte - karta  
 carte de crédit - krede karte  
-carte à collectionner - jami karte  
+carte à collectionner - jame karte  
 cartographie - kartografia  
 caserne - ordu jen kan  
 castillan - kastilia baxa  
@@ -532,6 +534,8 @@ concert - konserte
 concombre - hiyar  
 concombre confit (cornichon) - acar hiyar  
 concombre de mer - bahai hiyar  
+conjonction - yunte lexe  
+conjugaison - konyuge  
 connaître - ken  
 connecter - konnete  
 connecteur - konneter  
@@ -708,6 +712,7 @@ défunt - defunte
 déféquer - defeke  
 délai (retard) - dele  
 déléguer - vakilize  
+démocratie - demokratia  
 dénier - denege  
 désaccord (différend) - alo rai  
 désastre - dusastre  
@@ -889,12 +894,12 @@ gaz lacrymogène - yen sui gas
 gazelle - gazel  
 geler (glacer) - be ais  
 genou - guta  
-genre grammatical - baxe jinse  
+genre grammatical - lexe gense  
 geographie - geografia  
 Germanie - Germania  
 germanium - germanium  
-gingembre - jinje  
-giraffe - jirafa  
+gingembre - ginge  
+giraffe - zirafa  
 glabre - kexa hin  
 glace - ais  
 glacé (glacial, gelé) - ais di  
@@ -931,6 +936,7 @@ guépard - cita
 gâteau de lune - luna keke  
 génotype - gene tipe  
 généalogie - gene logu  
+général - gensal  
 généralissime - ordu raja  
 généreux - don tabi  
 généreux - karim di  
@@ -1044,8 +1050,8 @@ inflammation - tis
 informatique - data culi lojia  
 infrastructure - baze strute  
 inférer - infere  
-ingénierie (génie) - enjenia  
-ingénieur - enjener  
+ingénierie (génie) - engenia  
+ingénieur - engener  
 innomé - nam hin  
 insecte - dudu  
 insomnie - ansona  
@@ -1078,12 +1084,14 @@ jeu de société - bano geme
 jeudi - muxinden  
 jeune (junior) - jun  
 jeunesse - junnen  
-joug - yogo  
+jonction - yuntion  
+joug - yuge  
 joule (J) - jul  
 jour - dia  
 journal - den loge  
 judo - judau  
 juje - juder  
+junte - zalim yunte  
 Jupiter - Muxin  
 jus - jus  
 jusque (jusqu’à) - hata  
@@ -1225,8 +1233,8 @@ maltose - maltos
 malédiction - dusdua  
 manche - kamisa xaka  
 mandarin - han guaner  
-mandarine - rubi oranje  
-mandarine satsuma - venjou oranje  
+mandarine - rubi orange  
+mandarine satsuma - venzou orange  
 manganèse - mangan  
 manichéisme - mani din  
 manie - mani  
@@ -1276,9 +1284,9 @@ Mercure - Merkur
 merde - xite  
 merveille - ajabu  
 merveille - mirabil  
-message - anjil  
+message - angil  
 message - misaje  
-messager - anjiler  
+messager - angiler  
 messie - mesi  
 mettre (placer) - fa loka  
 meule - molite  
@@ -1337,6 +1345,7 @@ mule - iha uma
 multiple - polipli  
 mur - mur  
 musique - muzike  
+musique pop - pope muzike  
 musli - musli  
 mycélium - fungu nete  
 mythe - deokata  
@@ -1349,7 +1358,7 @@ médaille - medal
 médaillon - medalon  
 médias - midia  
 médicament (remède) - dava xe  
-méduse - bahai jele  
+méduse - bahai gele  
 méfait (péché) - dusate  
 méfait (péché) - duskar  
 mémoire - memo  
@@ -1386,6 +1395,7 @@ niche - nix
 nickel - nikel  
 nid - nide  
 nier - nege  
+Nigeria - Nigeria  
 nihonium - niponium  
 niobium - niobium  
 nitrate - nitrate  
@@ -1456,10 +1466,10 @@ optimal - otimal
 option (choix) - otion  
 option - cunbil  
 or - auro  
-orange (couleur) - oranje rang  
-orange (fruit) - oranje  
-orange amère - kali oranje  
-orange douce - sukar oranje  
+orange (couleur) - orange rang  
+orange (fruit) - orange  
+orange amère - kali orange  
+orange douce - sukar orange  
 orchidée - orkide  
 ordinaire (habituel, normal) - ada di  
 ordinateur - konputer  
@@ -1502,7 +1512,7 @@ paix - pace
 palais (château, manoir) - dai dom  
 palais de la bouche - boka cati  
 palladium - paladium  
-pamplemousse - putau oranje  
+pamplemousse - putau orange  
 pancréas - pankreas  
 panda - panda  
 pandémie - pandemike pate  
@@ -1573,6 +1583,7 @@ pet (vesse) - perde
 petit - xiu  
 petit-enfant - ben ben  
 peu - kam  
+peuple - pope  
 peut-être - bil es  
 peut-être - bil ki  
 pharmacie - dava xekan  
@@ -1651,6 +1662,7 @@ Polynésie française - Franse Polinesi
 pomme - aple  
 pompe - pompe  
 pont - kio  
+populaire - populal  
 porcelaine - cini  
 pore - pore  
 porte - porto  
@@ -1812,7 +1824,7 @@ roche (pierre) - petra
 rocher - dai seku  
 rock - roke musike  
 roentgenium - rentegenium  
-roi - rajanan  
+roi - nan reger  
 roman - long kata  
 Rome - Roma  
 rose - rode  
@@ -1823,6 +1835,8 @@ roue - rote
 rouge - rubi  
 rouleau - rul  
 roulette - rulete  
+royal - regal  
+royaume - regia  
 ruban (bande) - tepe  
 rubidium - rubium  
 rubis - rubi bau seku  
@@ -1925,8 +1939,8 @@ sept (7) - ceti
 serrure - tala  
 serviette - tuale  
 seul (unique) - un di  
-sexe - jinse  
-sexologie - sexolojia  
+sexe - sexu  
+sexologie - sexulojia  
 Shiva - xiva  
 shopping - xope  
 si - si  
@@ -2302,14 +2316,14 @@ zéro - siro
 étinceler - fa sing foto  
 étoile - xing  
 étude - stude  
-études de genre - jinselogi  
+études de genre - gensolojia  
 étudiant - studer  
 étudiant - xuler  
 étudier - fa estude  
 étymologie - lexasle  
 été - garma mosim  
 évaluer - fa valu  
-évangile - eu anjil  
+évangile - eu angil  
 éveillé - jaga  
 éventail - sanzi  
 évident - exvidebil  

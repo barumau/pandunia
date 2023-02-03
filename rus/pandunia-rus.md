@@ -66,6 +66,7 @@ ananas - ананас
 ancovi - анчоус (хамса)  
 andesite - андезит  
 angar - якорь  
+angil - месседж  
 angul - палец  
 angul marke - отпечаток пальца  
 angul pike - кончик пальца  
@@ -75,7 +76,6 @@ animate - animar
 animisme - анимизм  
 anis - анис  
 anis araki - арак (ракы)  
-anjil - месседж  
 antena - антенна  
 anus - анус  
 aple - яблоко  
@@ -200,7 +200,6 @@ bauite - драгоценный камень
 • polibaxike - многоязычный  
 • trabaxe - перевод  
 baxe - язык  
-baxe jinse - род в грамматике  
 baze - основа (база,  фундамент)  
 baze bol - бейсбол  
 bazisme - принцип  
@@ -229,6 +228,7 @@ be turbe - утруждай
 bebe - младенец  
 bebe bede - детская кроватка  
 bede - кровать (койка)  
+bedingan - баклажан  
 bei - товарищ  
 belca - лопата  
 ben - ребёнок (потомок)  
@@ -254,7 +254,7 @@ bilor - кристалл
 bine - строение  
 bine plan - архитектура  
 bine planer - архитектор  
-bio jinse - биологический пол  
+biogense - биологический пол  
 bio sana xe - компост  
 bir - пиво  
 biskute - печенье (бисквит)  
@@ -398,6 +398,7 @@ deosofia - теософия
 defe bano - щит  
 defe kaska - доспехи  
 deha - деревня (село)  
+demokratia - демократия  
 den - день (сутки)  
 • preden - вчера  
 den loge - дневник  
@@ -472,9 +473,9 @@ eletroline - провод (кабель)
 eletrolize - электролиз  
 eletrorade - молния  
 elfe - эльф  
+engener - инженер  
+engenia - инженерия  
 englix margarita - маргаритка многоле́тняя  
-enjener - инженер  
-enjenia - инженерия  
 erbium - эрбий  
 es - быть  
 esentia - бытие (существование)  
@@ -488,7 +489,7 @@ estrontium - стронций
 etan - этан  
 etanol - этанол  
 etil - этил  
-eu anjil - евангелие  
+eu angil - евангелие  
 eu loga - панегирик  
 europium - европий  
 europa baluta - дуб черешчатый  
@@ -675,6 +676,7 @@ Geia - Земля
 geometria - геометрия  
 geopolitia - геополитика  
 geoterme - геотерма́льный  
+gebre - алгебра  
 gem - меч  
 gem dau - кэндо  
 gemer - игрок (геймер)  
@@ -686,11 +688,14 @@ gene logu - генеалогия
 gene lojia di - генетический  
 gene tipe - генотип  
 gene yo hevan - выращивать  
+gensal - генеральный  
+gensolojia - гендерные исследования  
 geo nice jela - ублиет (подземная тюрьма)  
 germanium - германий  
 gide buku - путеводитель  
 gider - гид  
 ging - параллельный  
+ginge - имбирь  
 gingam - кумкват (кинкан)  
 gio - учить (преподавать)  
 gitar - гитара  
@@ -859,16 +864,11 @@ jaru - метла
 jau - ячмень  
 javabu - ответ  
 jebe - карман  
-jebre - алгебра  
 jen jami - толпа  
 jenju table - счёты (абак)  
 jensen - женьшень  
 • projete - проект  
 jihade - борьба (бой)  
-jinje - имбирь  
-jinse - пол  
-jinselogi - гендерные исследования  
-jirafa - жираф  
 jiva - живать (живой; жизнь)  
 • trajiva - переживать  
 jong - центр  
@@ -919,7 +919,7 @@ kalende - календарь
 kali - щёлочь  
 kali guste - горький  
 kali melon - горький огурец (китайская горькая тыква)  
-kali oranje - померанец  
+kali orange - померанец  
 kalifornium - калифорний  
 kalmar - кальмар  
 kalsobilor - мрамор  
@@ -1129,6 +1129,7 @@ lexal - лексический
 lexasle - этимология  
 lexeme - лексема  
 lexe fen - слог  
+lexe gense - род в грамматике  
 lexe jama - словарь  
 liama - лама  
 libele - стрекоза  
@@ -1138,7 +1139,7 @@ liga di sanduku - ковчег завета
 lima - пять (5)  
 limon - лимон  
 limon jus - лимонад  
-limon oranje - цитрус  
+limon orange - цитрус  
 lin - линия (нитка)  
 lin so - волокно  
 linke - связь (ссылка)  
@@ -1349,6 +1350,7 @@ nam - имя
 nam dokumen - ID  
 nam hin - безымянный  
 nam kitaba - подписать  
+nan reger - король  
 nardi - нарды (триктрак)   
 narke - наркотик  
 nasia - нация  
@@ -1394,6 +1396,7 @@ neuron - нейрон
 nia - намерение  
 nice kitaba - субтитр  
 nide - гнездо (улей)  
+Nigeria -  Нигерия  
 nikel - никель  
 nil - синий (голубой)  
 nil elfe - смурф (штрумпф)  
@@ -1428,8 +1431,8 @@ o - или
 oganeson - оганесон  
 ohtopus - спрут (осьминог)  
 onor - честь  
-oranje - апельсин  
-oranje rang - оранжевый  
+orange - апельсин  
+orange rang - оранжевый  
 ordu - армия  
 ordu jen - солдат  
 ordu jen kan - казарма (барак)  
@@ -1443,6 +1446,7 @@ osidian - обсидиан
 osmium - осмий  
 osmos - осмос  
 oste jama - скелет (остов)  
+oste yunte - сустав  
 otimal - оптимальный (наилучший)  
 otion - опция (выбор, альтернатива)  
 oxe - кислород  
@@ -1560,6 +1564,9 @@ politike - управляющий
 polskium - полоний  
 pompe - насос (помпа)  
 pompe tape - поршень  
+pope - народ  
+pope muzike - поп-музыка  
+populal - народный (популярный)  
 pore - пора  
 porei - лук-порей  
 porte - носить  
@@ -1598,19 +1605,18 @@ pulmon tis - пневмония (воспаление лёгких)
 puma - пума (кугуар)  
 punte nume - оценка  
 putau bagi - виноградник  
-putau oranje - грейпфрут  
+putau orange - грейпфрут  
 • konputer - компьютер  
 
 ## R  
 
 radium - радий  
-radi longta - радиус  
+rade longta - радиус  
 radio - радио  
 radon - радон  
 ragubi - регби  
 ragbi - rugby  
 rai - мнение  
-rajanan - король  
 rakete lanser - ракетная установка  
 rakun - енот  
 rang arka - радуга  
@@ -1624,6 +1630,7 @@ ratibu li - организованный (порядок)
 real - реальный (настоящий)  
 realisme - реализм  
 realta - реальность  
+regia - королевство  
 Ren - Рейн  
 renium - рений  
 rentegenium - рентгений  
@@ -1654,7 +1661,7 @@ rubium - рубидий
 rubi - красный  
 rubi bau seku - рубин  
 rubi linse - рыжая рысь  
-rubi oranje - мандарин  
+rubi orange - мандарин  
 rubi salmon - нерка (красница)  
 ruhu - душа (дух)  
 ruhu mixe - озадачить  
@@ -1738,7 +1745,8 @@ seri letre - письмо счастья
 server - слуга  
 server - сервер  
 sesam - сезам  
-sexolojia - сексология  
+sexu - пол  
+sexulojia - сексология  
 si - если  
 siborgium - сиборгий  
 side loka - сиденье (седло)  
@@ -1775,7 +1783,7 @@ songi - сосна
 sorbe - сёрбать  
 sos - соус  
 sosia - общество (социум)  
-sosi jinse - гендер  
+sosial sexu - гендер  
 sosis - колбаса (сосиска)  
 sporte - спорт  
 statia - станция  
@@ -1796,7 +1804,7 @@ suka - счастливый (радостный)
 sukar - сахар  
 sukar bete - сахарная свёкла  
 sukar gana - сахарный тростник  
-sukar oranje - апельсин  
+sukar orange - апельсин  
 sukaros - сахароза  
 sulfe - сера  
 sulfate - сульфат  
@@ -1963,9 +1971,9 @@ vaxi - мыть
 vei lin - уток  
 vende - продать  
 vende xope - торговля  
-venjou oranje - мандарин уншиу  
 ventur - авантюра  
 venturer - авантюрист  
+venzou orange - мандарин уншиу  
 ver - верный  
 veranda - балкон  
 vermute - вермут  
@@ -2082,10 +2090,11 @@ Yesa Mesi - Иисус Христос
 Yesa sanga - иезуитский орден  
 yim yang - инь и ян  
 yoga - йога  
-yogo - ярмо (иго)  
 yogur - йогурт  
 Yohan festa - Иванов день  
 you moke - саженец  
+yuge - ярмо (иго)  
+yuntion - соединение  
 yurta - юрта  
 yuterbium - иттербий  
 yutrium - иттрий  
@@ -2095,6 +2104,7 @@ yutrium - иттрий
 zai zaman di - нынешний  
 zalimer - тиран (деспот)  
 zalimive - тиранический (деспотичный, жестокий)  
+zalim yunte - хунта  
 • prezaman di - старый (древний)  
 Zambia - Замбия  
 zar kube - кость (кубик)  
@@ -2109,6 +2119,7 @@ zikura - зиккурат
 Zimbabue - Зимбабве  
 zinke - цинк  
 zira - тмин (зира)  
+zirafa - жираф  
 zirkon - циркон  
 zirkonium - цирконий  
 zoku - ещё  

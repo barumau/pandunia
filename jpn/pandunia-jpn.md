@@ -49,13 +49,13 @@ amir lin - コマンド行
 ananas - パイナップル  
 ancovi - アンチョビ  
 andesite - 安山岩  
+angil - 伝言 (メッセージ)  
 angul - 指  
 angul marke - 指紋  
 angul pike - 指先  
 animaje - アニメ  
 animation - アニメーション  
 anis - アニス (八角)  
-anjil - 伝言 (メッセージ)  
 aple - 林檎  
 aposum - 袋鼠 (オポッサム)  
 arane - オレンジ  
@@ -111,9 +111,9 @@ bahai - 海
 bahai alga - 海藻  
 bahai amirer - 提督 (海軍大将)   
 bahai cau - 海草  
+bahai gele - 海月  
 bahai hiyar - 海鼠  
 bahai hua - イソギンチャク  
-bahai jele - 海月  
 bahai kinar - 海岸  
 bahai nil - 水色  
 bahai ordu - 海軍  
@@ -149,7 +149,6 @@ batri - バッテリー
 bauite - 宝石  
 • trabaxe - 翻訳する  
 baxe - 言語  
-baxe jinse - 文法的性 (名詞クラス)  
 baxe lojia - 言語学  
 baze bol - 野球  
 bazisme - 原理  
@@ -180,6 +179,7 @@ be vanu - 遊ぶ
 bebe - 赤ちゃん  
 bebe bede - ベビーベッド  
 bede - 寝床 (ベッド)  
+bedingan - 茄子  
 belca - シャベル (スコップ)  
 ben - 子供 (息子か娘)  
 ben ben - 孫  
@@ -202,7 +202,7 @@ bilor - 結晶
 bine - 建物 (建築物)  
 bine plan - 建築学  
 bine planer - 建築家  
-bio jinse - 生物学の性  
+biogense - 生物学の性  
 bio sana xe - 堆肥  
 bir - ビール  
 biskute - ビスケット (クッキー)  
@@ -328,6 +328,7 @@ defe bano - 盾
 defe kaska - 鎧  
 deha - 村  
 dele - 遅れ (遅延)  
+demokratia - 民主主義   
 demon - 悪魔  
 den - 日  
 • preden - 昨日  
@@ -581,6 +582,7 @@ gazel - ガゼル
 gee - 地  
 geolojia - 地質学  
 geometria - 幾何学  
+gebre - 代数  
 gem - 剣  
 gem dau - 剣道  
 gem suta - 剣術  
@@ -588,6 +590,7 @@ gene di - 生 (未熟)
 gene logu - 系譜学  
 gene tipe - 遺伝子型  
 gene yo hevan - 湧かす  
+gensolojia - ジェンダー研究  
 geo forme - 地形  
 geo nice di - 地中  
 geo nice jela - 地下牢 (ダンジョン)  
@@ -596,6 +599,7 @@ gi - 装置 (機, 器)
 gide buku - ガイドブック  
 gider - 案内人 (ガイド)  
 ging - 並行  
+ginge - 生姜  
 ging lin - 縦糸  
 gingam - キンカン (キンキツ)  
 gio - 教える (教義, -教)  
@@ -740,9 +744,9 @@ isme - 主义
 
 ja - 者 (人, 家)  
 jaibai - 勝敗  
-• ajami - 会う (会合, 会議)  
-• anjami - 散らす  
-• anjami di - 疎ら  
+• ajame - 会う (会合, 会議)  
+• anjame - 散らす  
+• anjame di - 疎ら  
 jamul - フトモモ  
 jan buda din - 禅宗  
 janela - 窓  
@@ -753,7 +757,6 @@ jau - 大麦
 javabu - 答え (回答)  
 jebe - ポケット (懐中)  
 jebe caku - ポケットナイフ  
-jebre - 代数  
 jeka - 借用  
 jeka don - 貸す  
 jeka na - 借りる  
@@ -763,10 +766,6 @@ jenju table - 算盤
 jensen - 人蔘   
 • projete - プロジェクト  
 jete grafe - 映す (投影する, 投影)  
-jinje - 生姜  
-jinse - 性別 (ジェンダー)  
-jinselogi - ジェンダー研究  
-jirafa - 麒麟  
 jiva - 命 (生命)  
 jong - 中心  
 Jongoku - 中国  
@@ -814,7 +813,7 @@ kalende - 暦 (カレンダー)
 kali - 塩基  
 kali guste - 苦い  
 kali melon - ツルレイシ (ニガウリ)  
-kali oranje - ダイダイ  
+kali orange - ダイダイ  
 kalifornium - カリホルニウム  
 kalmar - イカ  
 kalsobilor - 大理石  
@@ -1001,6 +1000,7 @@ leu - 左
 lexe - 言葉  
 lexeme - 語彙素  
 lexe fen - 音節  
+lexe gense - 文法的性 (名詞クラス)  
 lexe jama - 語彙  
 liama - ラマ  
 libele - 蜻蛉  
@@ -1009,7 +1009,7 @@ liga di sanduku - 契約の箱
 lima - 五 (5)  
 limon - レモン  
 limon jus - レモネード  
-limon oranje - 柑橘  
+limon orange - 柑橘  
 lin - 糸  
 lin so - 繊維  
 linke - 繋がり (リンク)  
@@ -1217,6 +1217,7 @@ nam dokumen - 身分証明書 (ID)
 nam hin - 名無し (無名の)  
 nam kitaba - 署名する (サイン)  
 nan - 男  
+nan reger - 王様  
 narke - 麻薬  
 narkose - 症  
 • internasial - 国際的  
@@ -1252,6 +1253,7 @@ neuritis - 神経炎
 neuron - 神経細胞  
 neurotoxe - 神経毒  
 ni - 女  
+ni reger - 女王  
 nia - 意図  
 nice - 下  
 nice kitaba - 字幕  
@@ -1291,7 +1293,7 @@ oganeson - オガネソン
 ohtopus - タコ  
 okebil - 大丈夫 (ＯＫ)  
 onda - 波  
-oranje rang - オレンジ色の  
+orange rang - オレンジ色の  
 ordu jen - 軍人  
 ordu jen kan - 兵舎 (バラック)  
 ordu raja - 総統 (将軍 )  
@@ -1302,6 +1304,7 @@ osidian - 黒曜石
 osmium - オスミウム  
 oste jama - 骨格  
 oste xalke - ぜんご  
+oste yunte - 関節  
 oxe - 酸素  
 
 ## P  
@@ -1389,6 +1392,7 @@ politi mode - 政体
 polskium - ポロニウム  
 pompe - ポンプ  
 pompe tape - ピストン (活塞)  
+pope muzike - ポップ・ミュージック  
 pore - 線  
 porei - リーキ  
 • reporter - 記者  
@@ -1419,19 +1423,16 @@ puma - ピューマ (クーガー)
 punte bano - スコアボード  
 punte nume - 得点 (点数)  
 putau bagi - 葡萄園  
-putau oranje - グレープフルーツ  
+putau orange - グレープフルーツ  
 • konputer - コンピュータ  
 Putong Han - 普通話 (北京語)  
 
 ## R  
 
 radium - ラジウム  
-radi longta - 半径  
+rade longta - 半径  
 radon - ラドン  
 rai - 意見 (見解)  
-raja - 国王  
-rajanan - 王様  
-rajani - 女王  
 rakete lanser - ロケット発射器  
 rakun - 狸 (ラクーン, 洗い熊)  
 rang arka - 虹  
@@ -1444,6 +1445,8 @@ ratibu - 順
 ratibu li - 整然  
 realisme - 現実主義  
 realta - 実在 (現実)  
+reger - 国王  
+regia - 王国  
 Ren - ライン川  
 renium - レニウム  
 rentegenium - レントゲニウム  
@@ -1470,7 +1473,7 @@ rubium - ルビジウム
 rubi - 赤い  
 rubi bau seku - ルビー  
 rubi linse - ボブキャット  
-rubi oranje - ポンカン (マンダリン)  
+rubi orange - ポンカン (マンダリン)  
 rubi salmon - ベニザケ  
 ruhu mixe - 惑わす  
 ruhu mixe di - まごまご  
@@ -1544,7 +1547,8 @@ serser - 鎖
 serami - 陶器  
 server - 使用人  
 server - サーバ  
-sexolojia - 性科学  
+sexu - 性別 (ジェンダー)  
+sexulojia - 性科学  
 si - もし  
 siborgium - シーボーギウム  
 side - 座る  
@@ -1578,7 +1582,7 @@ sona papi - ケシ
 songi - マツ  
 sos - ソース  
 sosia - 社会  
-sosi jinse - ジェンダー  
+sosial sexu - ジェンダー  
 sosis - ソーセージ  
 statobaze - 台  
 statia - 立つ  
@@ -1600,7 +1604,7 @@ suka - 幸せな
 sukar - 砂糖  
 sukar bete - テンサイ (サトウダイコン)  
 sukar gana - サトウキビ  
-sukar oranje - オレンジ (アマダイダイ)  
+sukar orange - オレンジ (アマダイダイ)  
 sukaros - 蔗糖 (スクロース)  
 sulfe - 硫黄  
 sulfate - 硫酸  
@@ -1736,7 +1740,7 @@ vei gradu - 緯度
 vei lin - 横糸  
 vende - 売る  
 vende xope - 交易 (売買)  
-venjou oranje - ウンシュウミカン  
+venzou orange - ウンシュウミカン  
 verife - ただす  
 veranda - ベランダ (バルコニー, 縁側)  
 • exverse - 外向的な  
@@ -1844,13 +1848,14 @@ Yesa Mesi - イエス・キリスト
 yim - 陰  
 yim yang - 陰陽  
 yo - 何分の  
-yogo - 軛  
 yogur - ヨーグルト  
 you jen - 幼童  
 you moke - 若木  
 you nan - 男の子  
 you nen - 幼年時代  
 you ni - 女の子  
+yuge - 軛  
+yunte lexe - 接続詞  
 yurta - 包 (ゲル)  
 yuterbium - イッテルビウム  
 yutrium - イットリウム  
@@ -1871,6 +1876,7 @@ zi - 字
 zi forma - フォント (字体)  
 zikura - ジッグラト  
 zinke - 亜鉛  
+zirafa - 麒麟  
 zirkonium - ジルコニウム  
 zoku - まだ  
 zukraden - 金曜日  
