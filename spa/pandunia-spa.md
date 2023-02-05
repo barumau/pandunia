@@ -1503,7 +1503,7 @@ gran - grano (partícula)
 granite - granito  
 grave - grava  
 Grenada - Granada  
-Grenadin nesi - Granadinas  
+Grenadin nesia - Granadinas  
 • agrese - agresión (ataque)  
 • agresive - agresivo  
 • agreser - agresor  
@@ -2101,7 +2101,7 @@ kode - código (cifra)
 koda - cola (rabo, coda)  
 koka - coca  
 koko - pollo  
-Kokos nesi - Islas Cocos (Islas Keeling)  
+Kokos nesia - Islas Cocos (Islas Keeling)  
 kola jus - cola (refresco de cola)  
 koli - col (repollo)  
 Kolombia - Colombia  
@@ -2440,7 +2440,7 @@ mangus - mangostán (jobo de la India)
 Mani - profeta Mani  
 mani - manía  
 mani din - maniqueísmo  
-Manin nesi - Isla de Man  
+Manin nese - Isla de Man  
 manioka - yuca (mandioca)  
 manioka fufu - tapioca  
 manite - imán (magnete)  
@@ -2455,11 +2455,11 @@ marce - marcha
 margai - gato tigre (maracayá)  
 margarin - margarina  
 margarita - margarita  
-Mariana nesi - Islas Marianas  
+Mariana nesia - Islas Marianas  
 Maris - Marte  
 marisden - martes  
 marke - marca (huella, mancha)  
-Marxal nesi - Islas Marshall  
+Marxal nesia - Islas Marshall  
 masa - masa (trozo, pedazo)  
 masa mula - tubérculo  
 masa mula sol hua - tupinambo (pataca, alcachofa de Jerusalén)  
@@ -2863,7 +2863,7 @@ Norde cosen - Corea del Norte
 norde di - norteño  
 Norde Kipris - Chipre del Norte  
 Norde Makedonia - Macedonia del Norte  
-Norfolke nesi - Isla Norfolk  
+Norfolke nese - Isla Norfolk  
 Norge - Noruega  
 norge baxa - idioma noruego  
 norma - norma  
@@ -2895,7 +2895,7 @@ oganeson - oganesón
 ohtopus - pulpo  
 oke - OK (aceptar)  
 okebil - aceptable  
-Olande nesi - islas Aland  
+Olande nesia - islas Aland  
 Oman - Omán  
 onda - onda  
 Onduras - Honduras  
@@ -3102,7 +3102,7 @@ piratisme - partidario de infracción de copyright
 pirate partia - Partido Pirata  
 pisea - pícea  
 pistol - pistola  
-Pitkerne nesi - Islas Pitcairn  
+Pitkerne nesia - Islas Pitcairn  
 pixe - pis (meados)  
 piza - pizza  
 pizaria - pizzería  
@@ -3487,6 +3487,7 @@ semente - cemento
 sen - anciano (señor)  
 senater - senador  
 sen bra - hermano mayor  
+senseng - maestro (profesor)  
 sen sis - hermana mayor  
 Senegal - Senegal  
 seng - crudo  
@@ -3510,7 +3511,7 @@ server - criado (sirviente)
 server - servidor  
 sesam - ajonjolí (sésamo)  
 sexe di - sexy (sexual)  
-Sexel nesi - Seychelles  
+Sexel nesia - Seychelles  
 sexu - sexo (género)  
 sexu - sexo  
 • ansexual - asexual  
@@ -3578,7 +3579,7 @@ sol hua - girasol
 sol kentaur hua - abrepuño  
 sol sistem - sistema solar  
 solostate - solsticio  
-Solomon nesi - Islas Salomón  
+Solomon nesia - Islas Salomón  
 Somal - Somalia  
 Somal Dexa - Solamilandia  
 son - hijo  
@@ -3630,7 +3631,7 @@ Sude Amerika - Sudamérica
 Sude cosen - Corea del Sur  
 sude di - sureño  
 Sude Iria (Alonia) - Osetia del Sur  
-Sude Jorjia i Sude Sanduice nesi - Georgias del Sur y Sándwich del Sur  
+Sude Jorjia e Sude Sanduice nesia - Georgias del Sur y Sándwich del Sur  
 Sude Sudan - Sudán del Sur  
 sueda - sudor  
 sueda di - sudoroso (sudado)  
@@ -3943,7 +3944,7 @@ vakilize - diputar
 vakilkratia - república  
 vali - valle  
 vali susan - convalaria (lirio de los valles)  
-Valis i Futuna nesi - Wallis y Futuna  
+Valis e Futuna nesia - Wallis y Futuna  
 valse - vals  
 valu - valor  
 vampir - vampiro  
@@ -4012,16 +4013,16 @@ violeta - violeta
 violeta nil - morado (púrpura)  
 virologia - virología  
 virus - virus  
+virgal - virginal  
 virge - virgen (virginal)  
-virge di - virginal  
-Virgin nesi - Islas Vírgenes  
+Virgin nesia - Islas Vírgenes  
 vise - vice- (alternativa, sustituto)  
-vise kitaba - sobreescribir  
-vise loga - pronombre  
+vise kitabe - sobreescribir  
+vise lexe - pronombre  
 vise ma - madrastra  
 vise pa - padrastro  
 vise prezidente - vicepresidente  
-vise raja - virrey  
+vise reger - virrey  
 vita - tornillo  
 vitamin - vitamina  
 Vixnu - Vishnú  
@@ -4088,9 +4089,8 @@ xenon - xenón
 xi Fulan - fulano  
 xia - facción  
 xia islam din - chiismo (chía)  
-xifu - maestro (profesor)  
-xikaya - queja (lamento)  
 xike - elegante (chic)  
+xikaye - queja (lamento)  
 xilitol - xilitol  
 xilos - xilosa  
 xim - corazón  
@@ -4137,7 +4137,7 @@ ya - sí
 Yahve - Yahvé (Jehová)  
 yake - yac  
 yaki - aproximadamente  
-yaki nesi - península  
+yaki nese - península  
 yam - comer (bebir)  
 yam fito - verdura (legumbre)  
 yam kamar - comedor  

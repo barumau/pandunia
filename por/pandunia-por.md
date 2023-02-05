@@ -1165,6 +1165,7 @@ mantra - mantra
 mar - vez  
 marce - marcha  
 margai - gato-maracajá  
+margarin - margarina  
 margarita - margarida  
 Maris - Marte  
 marisden - terça-feira  
@@ -1922,7 +1923,8 @@ violeta nil - purpúreo (roxo)
 virge - virgem  
 vise ma - madrasta  
 vise pa - padrasto  
-vise raja - vice-rei  
+vise reger - vice-rei  
+vita - parafuso  
 vitamin - vitamina  
 Vixnu - Vixnu  
 vo - esse (aquele)  
@@ -1966,7 +1968,7 @@ xenon - xénon
 xi Fulan - fulano  
 xia - facção  
 xia islam din - xiismo  
-xikaya - queixa (lamento, reclamação)  
+xikaye - queixa (lamento, reclamação)  
 xilitol - xilitol  
 xilos - xilose  
 xing - estrela  
@@ -2045,6 +2047,7 @@ zirkonium - zircónio
 zoku - ainda  
 zombi - zumbi  
 zone - zona  
+zukam - resfriado  
 Zukra - Vénus  
 zukraden - sexta-feira  
 zuku - etnia  

@@ -326,7 +326,7 @@
 **e** *y* ← fra:et, por:e, spa:y;e, zho:和 (hé)  
 **eglisa** *iglesia* ← eng:ecclesia-, fra:église, spa:iglesia, por:igreja, hin:गिरजा (girjā), may:gereja, ara:(kanisā), swa:kanisa, tur:kilise  
 **einsteinium** *einsteinium* ← eng:einsteinium, fra:einsteinium, spa:einsteinium, por:einstânio, rus:эйнштейний, zho:锿 (āi), jpn:アインスタイニウム, kor:아인시타이늄, vie:ensteni, hin:आइन्स्टाइनियम, ben:আইনস্টাইনিয়াম, may:einsteinium, swa:einsteni, ara: انيشتنيوم  
-**ekia** *medioambiente (naturaleza)* ← eng:spa:por:eco-, fra:éco-, deu:öko-, rus:эко-, tur:may:eko-  
+**ekia** *medioambiente (naturaleza)* ← eng:spa:por:eco-, fra:éco-, deu:öko-, rus:эко-, tur:may:eko-, swa:iko-  
 **elastike** *elástico (flexible)* ← eng:elastic, fra:élastique, spa:por:elástico, rus:эластичный (elastíčnyj), tur:may:elastik, jpn:エラスティック (erasutikku)  
 **eletre** *electricidad* ← por:eletricidade, ita:elettricità, eng:electricity, rus:электричество (električestvo), fra:électricité, spa:electricidad, tur:elektrik  
 **elfe** *elfo* ← eng:elf, spa:por:elfo, fra:elfe, rus:эльф (el’f), jpn:エルフ (erufu), kor:엘프 (elpeu)  
@@ -938,11 +938,11 @@
 **mantol** *capa (manto)* ← eng:mantle, spa:manto, fra:manteau, rus:манто (manto), jpn:マント (manto), kor:망토 (mangto), may:mantel  
 **mantra** *mantra (salmodiar)* ← eng:fra:spa:por:may:mantra, rus:мантра (mantra), hin:मंत्र (mantra), ben:মন্ত্র (môntr)  
 **mantu** *empanada (pelmeni)* ← rus:манты (manty), zho:馒头 (mántóu), jpn;饅頭 (manjū), kor:만두 (mandu), fas:urd: منتو‎ (mantu), tur:mantı, rus:манты (manty)  
-**mar** *vez* ← ara: مرة (marra), swa:mara, hin:बार (bār), fas:urd: بار‎(bār), deu:Mal  
+**mar** *vez* ← ara: مرة (marra), swa:mara, fas: بار‎ (bâr), hin:बार (bār), ben:বার (bar), tam:முறை (muṟai), deu:Mal  
 **maraton** *maratón* ← eng:marathon, spa:maratón, por:maratona, rus:марафо́н (marafón), tur:maraton, ara:مَارَاثُون‎ (mārāṯūn), hin:मैराथन (mairāthan), ben:ম্যারাথন (mjarathôn), zho:马拉松 (mǎlāsōng), jpn:マラソン (marason)  
 **marce** *marcha* ← eng:march, fra:marche, spa:por:marcha, rus:марш (marš), hin:मार्च (mārc), tur:marş, swa:machi  
 **margai** *gato tigre (maracayá)* ← eng:margay, spa:maracayá, por:maracajá, rus:маргай (margay), ara:مارج (mārǧ), jpn:マーゲイ (māgei)  
-**margarin** *margarina* ← eng:fra:margarine, spa:por:margarina, rus:маргари́н (margarín), tur:margarin, hin:मार्जरीन (mārjarīn), may:marjerin, zho:麦淇淋 (màiqílín), jpn:マーガリン (māgarin)  
+**margarin** *margarina* ← eng:fra:margarine, spa:por:margarina, rus:маргарин (margarín), tur:margarin, hin:मार्जरीन (mārjarīn), may:marjerin, zho:麦淇淋 (màiqílín), jpn:マーガリン (māgarin)  
 **margarita** *margarita* ← spa:por:margarita, fra:marguerite, deu:Margerite, rus:маргаритка (margaritka)  
 **Maris** *Marte* ← ell:Άρης (Áris), eng:fra:tur:Mars, spa:por:Marte, rus:Марс (Mars) + ara: اَلْمِرِّيخ‎ (al-mirrīkh), swa:Mirihi, may:Mars; Marikh  
 **marke** *marca (huella, mancha)* ← eng:mark, spa:por:marca, fra:marque, kor:마크 (makeu), jpn:マーク (māku)  
@@ -1347,6 +1347,7 @@
 **sen** *anciano (señor)* ← eng:fra:may:senior, spa:señor, por:sênior + zho:先辈 (xiānbèi), jpn:先輩 (senpai), kor:선배 (seonbae)  
 **seng** *crudo* ← zho:生 (shēng), yue:生, jpn:生 (sei), kor:생 (saeng), vie:sống  
 **sense** *sentido* ← eng:sense, spa:por:sentido, fra:sens  
+**senseng** *maestro (profesor)* ← zho:先生 (xiānshēng), yue:先生 (sin1saang1), jpn:先生 (sensei), kor:선생 (seonsaeng), vie:tiên sinh, may:sinse, tha:ซินแส (sin-see), eng:sensei  
 **sento** *cien (100)* ← fra:cent, spa:cien, por:cem, ita:cento, eng:cent-, hin:शत (śat), ben:শত (śôt)  
 **ser** *eslabón* ← eng:series, fra:série, spa:serie, rus:серия (seriya), tur:seri + ara:(silsila), fas: سلسله‎ (selsele), hin:सिलसिला (silsilā), tur:silsile, swa:silisili, hau:sasari + zho:系列 (xìliè) + kor:사슬 (saseul)  
 **serami** *cerámica* ← eng:ceramic, spa:cerámica, por:cerâmico, fra:céramique, rus:керамика (keramika), ben:সিরামিক (sirāmika), tur:mel:seramik  
@@ -1561,7 +1562,7 @@
 **virge** *virgen (virginal)* ← eng:virgin, fra:vierge, spa:virgen, por:virgem  
 **virus** *virus* ← eng:spa:fra:may:virus, por:vírus, rus:вирус (virus), tur:virüs, hin:वाइरस (vāirasa), jpn:ウイルス (uirusu)  
 **vise** *vice- (alternativa, sustituto)* ← eng:fra:spa:por:vice-, rus:вице- (vitse-), deu:vize-  
-**vita** *tornillo* ← fra:vis, ita:vite, rus:винт (vint), tur:vida  
+**vita** *tornillo* ← fra:vis, rus:винт (vint), tur:vida, vie:vít  
 **vitamin** *vitamina* ← eng:may:vitamin, fra:vitamine, spa:por:vitamina, rus:витамин (vitamin), zho:维他命 (wéitāmìng), jpn:ビタミン (bitamin), kor:비타민 (bitamin), vie:vi ta min, hin:विटामिन (viṭāmin), ben:ভিটামিন (bhiṭamin), ara: فِيتَامِين‎ (fitamīn), hau:bitamin  
 **viza** *visado* ← eng:spa:fra:may:visa, rus:виза (viza), tur:vize, swa:viza, ara:فِيزَا‎ (fīzā), fas:ویزا‎ (vizâ), hin:वीज़ा (vīzā), ben:ভিসা (bhiśa), jpn:ビザ (biza), kor:비자 (bija)  
 **vizite** *visitar* ← zho:客 (kè), wuu:客 (ka’), jpn:客 (kyaku), kor:객 (gaek), vie:khách, tha:แขก (khæk)  
@@ -1602,9 +1603,8 @@
 **xenon** *xenón* ← eng:xenon, fra:xénon, spa:xenón, por:xénon, rus:ксенон, zho:氙 (xiān), jpn:キセノン, kor:크세논, vie:xenon, hin:ज़ेनान, ben:জেনন, may:xenon, swa:zenoni, ara: إكسينون  
 **xi** ** ← zho:氏 (shì), yue:氏 (si6), jpn:氏 (-shi), kor:씨 (ssi) + may:si + hin:श्री (śrī), ben:শ্রী  (śri)  
 **xia** *facción* ← ara: شِيعَة (šīʿa), heb: סִיעָה (si'á) + zho:系 (xì)  
-**xifu** *maestro (profesor)* ← eng:fra:sifu, rus:шифу (shifu), zho:师傅 (shīfu), yue:師傅 (si1 fu6)  
 **xigu** ** ← zho:事故 (shìgù), yue:事故 (si6gu3), jpn:事故 (jiko), kor:사고 (sago), vie:sự cố + ara: شِقْوَة (šiqwa)  
-**xikaya** *queja (lamento)* ← ara: شِكَايَة‎ (šikāya), hin:शिकायत (śikāyat), fas: شکایت‎ (šekâyat), tur:şikayet + fra:chicaya  
+**xikaye** *queja (lamento)* ← ara: شِكَايَة‎ (šikāya), hin:शिकायत (śikāyat), fas: شکایت‎ (šekâyat), tur:şikayet + fra:chicaya, spa:achaque  
 **xike** *elegante (chic)* ← eng:fra:spa:chic, por:chique, rus:шикарный (shikarnyy), tur:şık, fas:شیک‎  (šik), jpn:シック (shikku)  
 **xim** *corazón* ← zho:心 (xīn), yue:心 (sam1), hak:心 (sîm),  jpn:心 (shin), kor: 심 (shim), vie:tim  
 **xindau din** *sintoísmo* ← jpn:神道 (shintō), kor:신도 (sindo), zho:神道 (shéndào)  

@@ -1214,6 +1214,7 @@ mantu - пельмень
 mar - раз  
 marce - марш  
 margai - маргай  
+margarin - маргарин  
 margarita - маргаритка  
 Maris - Марс  
 marisden - вторник  
@@ -1994,7 +1995,8 @@ virus - вирус
 virge - девственник  
 vise ma - мачеха  
 vise pa - отчим  
-vise raja - вице-король  
+vise reger - вице-король  
+vita - винт  
 vitamin - витамин  
 Vixnu - Вишну  
 viza - виза  
@@ -2036,7 +2038,7 @@ xefe - шеф
 xenon - ксенон  
 xia - фракция (клика)  
 xia islam din - шиизм  
-xikaya - жалоба  
+xikaye - жалоба  
 xilitol - ксилит  
 xilos - ксилоза  
 xing - звезда  

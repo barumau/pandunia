@@ -326,7 +326,7 @@
 **e** *ja (sekä)* ← ranska:et, portugali:e, espanja:y;e, yleiskiina:和 (hé)  
 **eglisa** *kirkko* ← englanti:ecclesia-, ranska:église, espanja:iglesia, portugali:igreja, hindi:गिरजा (girjā), malaiji:gereja, arabia:(kanisā), suahili:kanisa, turkki:kilise  
 **einsteinium** *einsteinium* ← englanti:einsteinium, ranska:einsteinium, espanja:einsteinium, portugali:einstânio, venäjä:эйнштейний, yleiskiina:锿 (āi), japani:アインスタイニウム, korea:아인시타이늄, vietnami:ensteni, hindi:आइन्स्टाइनियम, bangla:আইনস্টাইনিয়াম, malaiji:einsteinium, suahili:einsteni, arabia: انيشتنيوم  
-**ekia** *luonto* ← englanti:espanja:portugali:eco-, ranska:éco-, deu:öko-, venäjä:эко-, turkki:malaiji:eko-  
+**ekia** *luonto* ← englanti:espanja:portugali:eco-, ranska:éco-, deu:öko-, venäjä:эко-, turkki:malaiji:eko-, suahili:iko-  
 **elastike** *joustava (kimmoisa, elastinen)* ← englanti:elastic, ranska:élastique, espanja:portugali:elástico, venäjä:эластичный (elastíčnyj), turkki:malaiji:elastik, japani:エラスティック (erasutikku)  
 **eletre** *sähkö* ← portugali:eletricidade, italia:elettricità, englanti:electricity, venäjä:электричество (električestvo), ranska:électricité, espanja:electricidad, turkki:elektrik  
 **elfe** *haltia (tonttu)* ← englanti:elf, espanja:portugali:elfo, ranska:elfe, venäjä:эльф (el’f), japani:エルフ (erufu), korea:엘프 (elpeu)  
@@ -938,11 +938,11 @@
 **mantol** ** ← englanti:mantle, espanja:manto, ranska:manteau, venäjä:манто (manto), japani:マント (manto), korea:망토 (mangto), malaiji:mantel  
 **mantra** *mantra (messuta)* ← englanti:ranska:espanja:portugali:malaiji:mantra, venäjä:мантра (mantra), hindi:मंत्र (mantra), bangla:মন্ত্র (môntr)  
 **mantu** *myky (nyytti, pelmeni, ravioli)* ← venäjä:манты (manty), yleiskiina:馒头 (mántóu), jpn;饅頭 (manjū), korea:만두 (mandu), persia:urdu: منتو‎ (mantu), turkki:mantı, rus:манты (manty)  
-**mar** *kerta (vuoro)* ← arabia: مرة (marra), suahili:mara, hindi:बार (bār), persia:urdu: بار‎(bār), deu:Mal  
+**mar** *kerta (vuoro)* ← arabia: مرة (marra), suahili:mara, persia: بار‎ (bâr), hindi:बार (bār), bangla:বার (bar), tamili:முறை (muṟai), deu:Mal  
 **maraton** *maratoni* ← englanti:marathon, espanja:maratón, portugali:maratona, venäjä:марафо́н (marafón), turkki:maraton, arabia:مَارَاثُون‎ (mārāṯūn), hindi:मैराथन (mairāthan), bangla:ম্যারাথন (mjarathôn), yleiskiina:马拉松 (mǎlāsōng), japani:マラソン (marason)  
 **marce** *kävely (marssi)* ← englanti:march, ranska:marche, espanja:portugali:marcha, venäjä:марш (marš), hindi:मार्च (mārc), turkki:marş, suahili:machi  
 **margai** ** ← englanti:margay, espanja:maracayá, portugali:maracajá, venäjä:маргай (margay), arabia:مارج (mārǧ), japani:マーゲイ (māgei)  
-**margarin** *margariini* ← englanti:ranska:margarine, espanja:portugali:margarina, venäjä:маргари́н (margarín), turkki:margarin, hindi:मार्जरीन (mārjarīn), malaiji:marjerin, yleiskiina:麦淇淋 (màiqílín), japani:マーガリン (māgarin)  
+**margarin** *margariini* ← englanti:ranska:margarine, espanja:portugali:margarina, venäjä:маргарин (margarín), turkki:margarin, hindi:मार्जरीन (mārjarīn), malaiji:marjerin, yleiskiina:麦淇淋 (màiqílín), japani:マーガリン (māgarin)  
 **margarita** ** ← espanja:portugali:margarita, ranska:marguerite, deu:Margerite, venäjä:маргаритка (margaritka)  
 **Maris** *Mars* ← kreikka:Άρης (Áris), englanti:ranska:turkki:Mars, espanja:portugali:Marte, venäjä:Марс (Mars) + arabia: اَلْمِرِّيخ‎ (al-mirrīkh), suahili:Mirihi, malaiji:Mars; Marikh  
 **marke** *merkki (jälki)* ← englanti:mark, espanja:portugali:marca, ranska:marque, korea:마크 (makeu), japani:マーク (māku)  
@@ -1347,6 +1347,7 @@
 **sen** *vanha (seniori, iso-)* ← englanti:ranska:malaiji:senior, espanja:señor, portugali:sênior + yleiskiina:先辈 (xiānbèi), japani:先輩 (senpai), korea:선배 (seonbae)  
 **seng** *raaka (tuore)* ← yleiskiina:生 (shēng), kantoninkiina:生, japani:生 (sei), korea:생 (saeng), vietnami:sống  
 **sense** *aisti* ← englanti:sense, espanja:portugali:sentido, ranska:sens  
+**senseng** *mestari (sensei)* ← yleiskiina:先生 (xiānshēng), kantoninkiina:先生 (sin1saang1), japani:先生 (sensei), korea:선생 (seonsaeng), vietnami:tiên sinh, malaiji:sinse, thai:ซินแส (sin-see), englanti:sensei  
 **sento** *sata (hehto-)* ← ranska:cent, espanja:cien, portugali:cem, italia:cento, englanti:cent-, hindi:शत (śat), bangla:শত (śôt)  
 **ser** *ketjun lenkki* ← englanti:series, ranska:série, espanja:serie, venäjä:серия (seriya), turkki:seri + arabia:(silsila), persia: سلسله‎ (selsele), hindi:सिलसिला (silsilā), tur:silsile, suahili:silisili, hausa:sasari + yleiskiina:系列 (xìliè) + korea:사슬 (saseul)  
 **serami** *savityö (keramiikka)* ← englanti:ceramic, espanja:cerámica, portugali:cerâmico, ranska:céramique, venäjä:керамика (keramika), bangla:সিরামিক (sirāmika), turkki:mel:seramik  
@@ -1561,7 +1562,7 @@
 **virge** *neitsyt (neitseellinen, koskematon)* ← englanti:virgin, ranska:vierge, espanja:virgen, portugali:virgem  
 **virus** *virus* ← englanti:espanja:ranska:malaiji:virus, portugali:vírus, venäjä:вирус (virus), turkki:virüs, hindi:वाइरस (vāirasa), japani:ウイルス (uirusu)  
 **vise** *vara- (korvike-)* ← englanti:ranska:espanja:portugali:vice-, venäjä:вице- (vitse-), deu:vize-  
-**vita** *ruuvi* ← ranska:vis, italia:vite, venäjä:винт (vint), turkki:vida  
+**vita** *ruuvi* ← ranska:vis, venäjä:винт (vint), turkki:vida, vietnami:vít  
 **vitamin** *vitamiini* ← englanti:malaiji:vitamin, ranska:vitamine, espanja:portugali:vitamina, venäjä:витамин (vitamin), yleiskiina:维他命 (wéitāmìng), japani:ビタミン (bitamin), korea:비타민 (bitamin), vietnami:vi ta min, hindi:विटामिन (viṭāmin), bangla:ভিটামিন (bhiṭamin), arabia: فِيتَامِين‎ (fitamīn), hausa:bitamin  
 **viza** *viisumi* ← englanti:espanja:ranska:malaiji:visa, venäjä:виза (viza), turkki:vize, suahili:viza, arabia:فِيزَا‎ (fīzā), persia:ویزا‎ (vizâ), hindi:वीज़ा (vīzā), bangla:ভিসা (bhiśa), japani:ビザ (biza), korea:비자 (bija)  
 **vizite** *käynti (vierailu, visiitti)* ← yleiskiina:客 (kè), wu-kiina:客 (ka’), japani:客 (kyaku), korea:객 (gaek), vietnami:khách, thai:แขก (khæk)  
@@ -1602,9 +1603,8 @@
 **xenon** *ksenon* ← englanti:xenon, ranska:xénon, espanja:xenón, portugali:xénon, venäjä:ксенон, yleiskiina:氙 (xiān), japani:キセノン, korea:크세논, vietnami:xenon, hindi:ज़ेनान, bangla:জেনন, malaiji:xenon, suahili:zenoni, arabia: إكسينون  
 **xi** *herra tai rouva* ← yleiskiina:氏 (shì), kantoninkiina:氏 (si6), japani:氏 (-shi), korea:씨 (ssi) + malaiji:si + hindi:श्री (śrī), bangla:শ্রী  (śri)  
 **xia** *porukka (kuppikunta, lohko, siipi)* ← arabia: شِيعَة (šīʿa), heb: סִיעָה (si'á) + yleiskiina:系 (xì)  
-**xifu** ** ← englanti:ranska:sifu, venäjä:шифу (shifu), yleiskiina:师傅 (shīfu), kantoninkiina:師傅 (si1 fu6)  
 **xigu** *vahinko (onnettomuus)* ← yleiskiina:事故 (shìgù), kantoninkiina:事故 (si6gu3), japani:事故 (jiko), korea:사고 (sago), vietnami:sự cố + arabia: شِقْوَة (šiqwa)  
-**xikaya** *valitus (reklamaatio)* ← arabia: شِكَايَة‎ (šikāya), hindi:शिकायत (śikāyat), persia: شکایت‎ (šekâyat), turkki:şikayet + ranska:chicaya  
+**xikaye** *valitus (reklamaatio)* ← arabia: شِكَايَة‎ (šikāya), hindi:शिकायत (śikāyat), persia: شکایت‎ (šekâyat), turkki:şikayet + ranska:chicaya, espanja:achaque  
 **xike** *elegantti* ← englanti:ranska:espanja:chic, portugali:chique, venäjä:шикарный (shikarnyy), turkki:şık, persia:شیک‎  (šik), japani:シック (shikku)  
 **xim** *sydän* ← yleiskiina:心 (xīn), kantoninkiina:心 (sam1), hakkakiina:心 (sîm),  japani:心 (shin), korea: 심 (shim), vietnami:tim  
 **xindau din** *sintolaisuus* ← japani:神道 (shintō), korea:신도 (sindo), yleiskiina:神道 (shéndào)  
@@ -1674,6 +1674,6 @@
 **zoku** *vielä (yhä, jatkua)* ← wu-kiina:续 (zoq), kantoninkiina:續 (zuk6), japani:続 (zoku), korea:속 (sok), vietnami:kế tục  
 **zombi** *zombi* ← Kongo:nzambi, englanti:zombie, espanja:turkki:zombi, portugali:zumbi, venäjä:зомби (zombi), arabia:زُومْبِي‎ (zūmbī), hindi:ज़ोंबी (zombī), japani:ゾンビ (zonbi), korea:좀비 (jombi)  
 **zone** *vyö* ← kreikka:ζώνη (zónē), englanti:ranska:zone, espanja:portugali:zona, venäjä:зона (zona)  
-**zukam** *vilustuminen* ← arabia:زُكَام‎ (zukām), hindi:ज़ुकाम (zukām) + yleiskiina:感(冒) (gǎn(mào)), japani:感(冒) (kan(bō)), korea:감(기) (gam(gi)), vietnami:cảm  
+**zukam** *nuhakuume (vilustuminen, flunssa)* ← arabia:زُكَام‎ (zukām), hindi:ज़ुकाम (zukām) + yleiskiina:感(冒) (gǎn(mào)), japani:感(冒) (kan(bō)), korea:감(기) (gam(gi)), vietnami:cảm  
 **Zukra** *Venus* ← arabia: الزُّهَرَة‎ (az-zuhara), suahili:Zuhura, hausa:Zaharatu, turkki:Zühre, persia: زهره‎ (zohre), urdu: زہرہ‎ (zuhra), malaiji:Zuhrah + hindi:शुक्र (śukra), bangla:শুক্র (śukr), burma:သောကြာ (sau:kra), thai:ศุกร์ (sùk)  
 **zuku** *kansanryhmä (etninen ryhmä)* ← yleiskiina:族 (zú), kantoninkiina:族 (zuk6), japani:族 (zoku), korea:족 (jok), vietnami:tộc  

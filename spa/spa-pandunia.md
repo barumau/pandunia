@@ -1731,7 +1731,7 @@ geología - geologia
 geometría - geometria  
 geopolítica - geopolitia  
 Georgia (República de Georgia) - Kartul  
-Georgias del Sur y Sándwich del Sur - Sude Jorjia i Sude Sanduice nesi  
+Georgias del Sur y Sándwich del Sur - Sude Jorjia e Sude Sanduice nesia  
 geotérmico - geoterme  
 gerencia (dirección) - nomi  
 Germania - Germania  
@@ -1774,7 +1774,7 @@ gramatical - baxe kanun di
 gramo (g) - gram  
 gramática - baxe kanun  
 Granada - Grenada  
-Granadinas - Grenadin nesi  
+Granadinas - Grenadin nesia  
 grande - dai  
 granito - granite  
 granjero (agricultor) - agrer  
@@ -2097,23 +2097,23 @@ ironía - ironi
 Irán - Iran  
 irónico - ironi di  
 isla - nese  
-Isla de Man - Manin nesi  
+Isla de Man - Manin nese  
 Isla de San Vicente - Sante Vincente  
-Isla Norfolk - Norfolke nesi  
+Isla Norfolk - Norfolke nese  
 Isla Santa Elena - Sante Helena  
 islamismo (islam) - islamisme  
 islamofobia - islamofobia  
 Islandia - Islande  
-islas Aland - Olande nesi  
+islas Aland - Olande nesia  
 islas Caimán - Kaiman nesia  
-Islas Cocos (Islas Keeling) - Kokos nesi  
+Islas Cocos (Islas Keeling) - Kokos nesia  
 Islas Cook - Kuke nesia  
 Islas Malvinas - Malvina nesia  
-Islas Marianas - Mariana nesi  
-Islas Marshall - Marxal nesi  
-Islas Pitcairn - Pitkerne nesi  
-Islas Salomón - Solomon nesi  
-Islas Vírgenes - Virgin nesi  
+Islas Marianas - Mariana nesia  
+Islas Marshall - Marxal nesia  
+Islas Pitcairn - Pitkerne nesia  
+Islas Salomón - Solomon nesia  
+Islas Vírgenes - Virgin nesia  
 Israel - Israel  
 Italia - Italia  
 iterbio - yuterbium  
@@ -2372,7 +2372,7 @@ madre (mamá) - ma
 maduro (adulto, curado) - ceng  
 maestro (experto) - master  
 maestro (gurú, sabio, profesor) - guru  
-maestro (profesor) - xifu  
+maestro (profesor) - senseng  
 maestro (profesor, docente) - xule guru  
 magenta (fucsia) - majenta  
 magia - magia  
@@ -3043,7 +3043,7 @@ pene - penis
 pensar - fa fikir  
 pentaedro - lima fase  
 pentágono - lima gona  
-península - yaki nesi  
+península - yaki nese  
 peonía - mudan  
 pepinillo - acar hiyar  
 pepino - hiyar  
@@ -3277,7 +3277,7 @@ Prometeo - Promete
 prometer (comprometerse) - fa vode  
 prometer - promise  
 prometio - prometium  
-pronombre - vise loga  
+pronombre - vise lexe  
 pronto - a korte  
 pronunciar (articular) - fa fon  
 propiedad - mal  
@@ -3337,7 +3337,7 @@ público - populike
 que (como, en comparación con) - ka  
 que - ki  
 quedarse - be reste  
-queja (lamento) - xikaya  
+queja (lamento) - xikaye  
 quemar - fa hogo  
 quemarse - be hogo  
 querer (desear) - vol  
@@ -3661,7 +3661,7 @@ sexo - biogense
 sexo - sexu  
 sexología - sexulogia  
 sexy (sexual) - sexe di  
-Seychelles - Sexel nesi  
+Seychelles - Sexel nesia  
 señal (letrero, indicio) - sin  
 señal de tránsito - dau bano  
 sharía - islam xaria  
@@ -3705,7 +3705,7 @@ sistémico - sistem di
 sitio web - nete loke  
 situación - xe hal  
 sobre - a supra  
-sobreescribir - vise kitaba  
+sobreescribir - vise kitabe  
 sobrepasar - be supra  
 sobrevivir - trajiva  
 sobrina - sau doh  
@@ -4133,9 +4133,9 @@ vinilo - vinil
 vino - vin  
 violeta - violeta  
 virgen (virginal) - virge  
-virginal - virge di  
+virginal - virgal  
 virología - virologia  
-virrey - vise raja  
+virrey - vise reger  
 virtud (moralidad) - bon moral  
 virtuoso (moral) - bon moral di  
 virus - virus  
@@ -4167,7 +4167,7 @@ vuestro - tumen su
 vulva - vulva  
 válvula (llave, canilla) - kran  
 vía férrea - tren dau  
-Wallis y Futuna - Valis i Futuna nesi  
+Wallis y Futuna - Valis e Futuna nesia  
 
 ## X  
 

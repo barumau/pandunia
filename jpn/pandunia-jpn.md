@@ -1532,6 +1532,7 @@ semologia - 意味論
 seme dana - 種  
 senater - 上院議員  
 sen bei - 先輩  
+senseng - 先生  
 sen sis - 姉 (ane)  
 seng - 生の  
 seng varis - 米  
@@ -1757,9 +1758,10 @@ vinkan - ワイナリー (酒造場)
 violeta - スミレ  
 violeta nil - 紫色 (パープル)  
 vise - 代替  
-vise kitaba - 重ね書き (書き換える)  
+vise kitabe - 重ね書き (書き換える)  
 vise ma - 継母  
 vise pa - 継父  
+vita - ねじ   
 vitamin - ビタミン  
 Vixnu - ヴィシュヌ  
 viziter - 客人  
@@ -1794,9 +1796,8 @@ xe hal - 事態
 xenon - キセノン  
 xi - さん (氏)  
 xia islam din - シーア派  
-xifu - 先生  
 xigu - 事故  
-xikaya - 不平 (不満)  
+xikaye - 不平 (不満)  
 xim - 心  
 xing - 星  
 xipi - 湿っぽい  

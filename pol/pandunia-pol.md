@@ -1742,7 +1742,7 @@ gran - cząstka
 granite - granit  
 grave - żwir  
 Grenada - Grenada  
-Grenadin nesi - Grenadyny  
+Grenadin nesia - Grenadyny  
 grese -   
 • agrese - atak (agresja, napaść)  
 • agresive - agresywny  
@@ -2438,7 +2438,7 @@ koda - ogon
 koka - koka  
 Koka Kola - kola (coca-cola)  
 koko - kura, kogut, kurczak  
-Kokos nesi - Wyspy Kokosowe  
+Kokos nesia - Wyspy Kokosowe  
 kola -   
 kola frute -   
 kola jus - kola, napój gazowany  
@@ -2838,7 +2838,7 @@ mangus - mangostan
 Mani - prorok Mani  
 mani -   
 mani din - manicheizm  
-Manin nesi - Wyspa Man  
+Manin nese - Wyspa Man  
 manioka - maniok  
 manioka fufu -   
 manite - magnes  
@@ -2846,7 +2846,7 @@ manitike - magnetyczny
 mantol - peleryna (płaszcz, opończa)  
 mantra -   
 mantu - kluska, knedel, pieróg; ravioli, pelmeni  
-mar - czas; okazja  
+mar - raz  
 Marakux -   
 marati - marathi  
 maraton - maraton  
@@ -2854,11 +2854,11 @@ marce -
 margai - margaj (ocelot nadrzewny)  
 margarin - margaryna  
 margarita - stokrotka  
-Mariana nesi - Mariany Północne  
+Mariana nesia - Mariany Północne  
 Maris - Mars  
 marisden - wtorek  
 marke - znak, trop  
-Marxal nesi - Wyspy Marshalla  
+Marxal nesia - Wyspy Marshalla  
 masa - masa  
 masa mula - bulwa  
 masa mula sol hua - topinambur  
@@ -3310,7 +3310,7 @@ Norde cosen - Korea Północna (Koreańska Republika Ludowo-Demokratyczna)
 norde di - północny  
 Norde Kipris - Cypr Północny  
 Norde Makedonia - Republika Macedonii, Macedonia  
-Norfolke nesi - Norfolk  
+Norfolke nese - Norfolk  
 Norge - Norwegia  
 norge baxa - norweski  
 norma - norma, standard  
@@ -3345,7 +3345,7 @@ oganeson - oganesson
 ohtopus - ośmiornica  
 oke - zaakceptować, akceptować, powiedzieć okej, mówić okej  
 okebil - okej, spoko, akceptowalny  
-Olande nesi - Wyspy Alandzkie  
+Olande nesia - Wyspy Alandzkie  
 Oman - Oman  
 onda - fala  
 Onduras - Honduras  
@@ -3604,7 +3604,7 @@ piratisme - pirat (osoba naruszająca prawa własności intelektualnej)
 pirate partia - Partia Piratów  
 pisea - świerk  
 pistol - pistolet  
-Pitkerne nesi - Pitcairn  
+Pitkerne nesia - Pitcairn  
 pixe - siki  
 piza - pizza  
 pizaria - pizzeria  
@@ -4040,6 +4040,7 @@ senater - senator
 sen bei -   
 sen bra -   
 sen sau -   
+senseng - mistrz (sensei)  
 sen sis -   
 Senegal - Senegal  
 seng -   
@@ -4069,7 +4070,7 @@ server -
 server nam -   
 sesam - sezam  
 sexe di - seksowny, ponętny  
-Sexel nesi - Seszele  
+Sexel nesia - Seszele  
 sexu - płeć  
 sexu - seks, stosunek płciowy  
 sexual - płciowy  
@@ -4142,7 +4143,7 @@ sol hua - słonecznik
 sol kentaur hua - chaber wełnisty  
 sol sistem - układ słoneczny  
 solostate - przesilenie  
-Solomon nesi - Wyspy Salomona  
+Solomon nesia - Wyspy Salomona  
 Somal - Somalia  
 Somal Dexa - Somaliland  
 son - syn  
@@ -4205,7 +4206,7 @@ Sude Amerika - Ameryka Południowa
 Sude cosen - Korea Południowa  
 sude di - południowy  
 Sude Iria (Alonia) - Osetia Południowa  
-Sude Jorjia i Sude Sanduice nesi - Wyspy Georgia Południowa i Sandwich Południowy  
+Sude Jorjia e Sude Sanduice nesia - Wyspy Georgia Południowa i Sandwich Południowy  
 Sude Sudan - Sudan Południowy  
 sueda - pot  
 sueda di - spocony  
@@ -4571,7 +4572,7 @@ vakilkratia - republika
 vala -   
 vali - dolina  
 vali susan - konwalia majowa  
-Valis i Futuna nesi - Saint Vincent i Grenadyny  
+Valis e Futuna nesia - Saint Vincent i Grenadyny  
 valse - walc  
 valu - wartość  
 vampir - wampir  
@@ -4660,16 +4661,16 @@ violeta -
 violeta nil - fioletowy  
 virologia - wirusologia  
 virus - wirus  
+virgal -   
 virge -   
-virge di -   
-Virgin nesi - Wyspy Dziewicze USA  
+Virgin nesia - Wyspy Dziewicze USA  
 vise - wice- (alternatywa, substytut, zastępstwo)  
-vise kitaba -   
-vise loga - zaimek  
+vise kitabe -   
+vise lexe - zaimek  
 vise ma -   
 vise pa -   
 vise prezidente - wiceprezydent  
-vise raja - wicekról  
+vise reger - wicekról  
 viski -   
 vita - śruba, wkręt  
 vitamin - witamina  
@@ -4751,10 +4752,9 @@ xi -
 xi Fulan -   
 xia -   
 xia islam din - szyism  
-xifu - mistrz (sensei)  
 xigu - wypadek  
-xikaya -   
 xike - elegancki, szykowny  
+xikaye -   
 xilitol -   
 xilos -   
 xim - serce  
@@ -4807,7 +4807,7 @@ ya - tak
 Yahve -   
 yake - jak (zwierzę)  
 yaki - około; przybliżony  
-yaki nesi - półwysep  
+yaki nese - półwysep  
 yam - skonsumować, konsumować, zjeść, jeść, wypić, pić)  
 yam fito - warzywo  
 yam kamar - jadalnia  

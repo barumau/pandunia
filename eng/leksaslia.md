@@ -326,7 +326,7 @@
 **e** *and* ← French:et, Portuguese:e, Spanish:y;e, Mandarin:和 (hé)  
 **eglisa** *church* ← English:ecclesia-, French:église, Spanish:iglesia, Portuguese:igreja, Hindi:गिरजा (girjā), Malay:gereja, Arabic:(kanisā), Swahili:kanisa, Turkish:kilise  
 **einsteinium** *einsteinium* ← English:einsteinium, French:einsteinium, Spanish:einsteinium, Portuguese:einstânio, Russian:эйнштейний, Mandarin:锿 (āi), Japanese:アインスタイニウム, Korean:아인시타이늄, Vietnamese:ensteni, Hindi:आइन्स्टाइनियम, Bengali:আইনস্টাইনিয়াম, Malay:einsteinium, Swahili:einsteni, Arabic: انيشتنيوم  
-**ekia** *environment (nature)* ← English:Spanish:Portuguese:eco-, French:éco-, deu:öko-, Russian:эко-, Turkish:Malay:eko-  
+**ekia** *environment (nature)* ← English:Spanish:Portuguese:eco-, French:éco-, deu:öko-, Russian:эко-, Turkish:Malay:eko-, Swahili:iko-  
 **elastike** *elastic* ← English:elastic, French:élastique, Spanish:Portuguese:elástico, Russian:эластичный (elastíčnyj), Turkish:Malay:elastik, Japanese:エラスティック (erasutikku)  
 **eletre** *electricity* ← Portuguese:eletricidade, Italian:elettricità, English:electricity, Russian:электричество (električestvo), French:électricité, Spanish:electricidad, Turkish:elektrik  
 **elfe** *elf* ← English:elf, Spanish:Portuguese:elfo, French:elfe, Russian:эльф (el’f), Japanese:エルフ (erufu), Korean:엘프 (elpeu)  
@@ -938,11 +938,11 @@
 **mantol** *cape (cloak, mantle)* ← English:mantle, Spanish:manto, French:manteau, Russian:манто (manto), Japanese:マント (manto), Korean:망토 (mangto), Malay:mantel  
 **mantra** *mantra (chant)* ← English:French:Spanish:Portuguese:Malay:mantra, Russian:мантра (mantra), Hindi:मंत्र (mantra), Bengali:মন্ত্র (môntr)  
 **mantu** *dumpling (ravioli, pelmeni)* ← Russian:манты (manty), Mandarin:馒头 (mántóu), jpn;饅頭 (manjū), Korean:만두 (mandu), Persian:Urdu: منتو‎ (mantu), Turkish:mantı, rus:манты (manty)  
-**mar** *time (number of times)* ← Arabic: مرة (marra), Swahili:mara, Hindi:बार (bār), Persian:Urdu: بار‎(bār), deu:Mal  
+**mar** *time (instance, occurrence, number of times)* ← Arabic: مرة (marra), Swahili:mara, Persian: بار‎ (bâr), Hindi:बार (bār), Bengali:বার (bar), Tamil:முறை (muṟai), deu:Mal  
 **maraton** *marathon* ← English:marathon, Spanish:maratón, Portuguese:maratona, Russian:марафо́н (marafón), Turkish:maraton, Arabic:مَارَاثُون‎ (mārāṯūn), Hindi:मैराथन (mairāthan), Bengali:ম্যারাথন (mjarathôn), Mandarin:马拉松 (mǎlāsōng), Japanese:マラソン (marason)  
 **marce** *walk (march)* ← English:march, French:marche, Spanish:Portuguese:marcha, Russian:марш (marš), Hindi:मार्च (mārc), Turkish:marş, Swahili:machi  
 **margai** *margay* ← English:margay, Spanish:maracayá, Portuguese:maracajá, Russian:маргай (margay), Arabic:مارج (mārǧ), Japanese:マーゲイ (māgei)  
-**margarin** *margarine* ← English:French:margarine, Spanish:Portuguese:margarina, Russian:маргари́н (margarín), Turkish:margarin, Hindi:मार्जरीन (mārjarīn), Malay:marjerin, Mandarin:麦淇淋 (màiqílín), Japanese:マーガリン (māgarin)  
+**margarin** *margarine* ← English:French:margarine, Spanish:Portuguese:margarina, Russian:маргарин (margarín), Turkish:margarin, Hindi:मार्जरीन (mārjarīn), Malay:marjerin, Mandarin:麦淇淋 (màiqílín), Japanese:マーガリン (māgarin)  
 **margarita** *daisy* ← Spanish:Portuguese:margarita, French:marguerite, deu:Margerite, Russian:маргаритка (margaritka)  
 **Maris** *Mars* ← Greek:Άρης (Áris), English:French:Turkish:Mars, Spanish:Portuguese:Marte, Russian:Марс (Mars) + Arabic: اَلْمِرِّيخ‎ (al-mirrīkh), Swahili:Mirihi, Malay:Mars; Marikh  
 **marke** *mark (trace)* ← English:mark, Spanish:Portuguese:marca, French:marque, Korean:마크 (makeu), Japanese:マーク (māku)  
@@ -1347,6 +1347,7 @@
 **sen** *older (elder, senior, superior)* ← English:French:Malay:senior, Spanish:señor, Portuguese:sênior + Mandarin:先辈 (xiānbèi), Japanese:先輩 (senpai), Korean:선배 (seonbae)  
 **seng** *raw (crude, fresh)* ← Mandarin:生 (shēng), Cantonese:生, Japanese:生 (sei), Korean:생 (saeng), Vietnamese:sống  
 **sense** *sense (method of perception)* ← English:sense, Spanish:Portuguese:sentido, French:sens  
+**senseng** *master (sensei, sifu)* ← Mandarin:先生 (xiānshēng), Cantonese:先生 (sin1saang1), Japanese:先生 (sensei), Korean:선생 (seonsaeng), Vietnamese:tiên sinh, Malay:sinse, Thai:ซินแส (sin-see), English:sensei  
 **sento** *hundred (hecto-, 100)* ← French:cent, Spanish:cien, Portuguese:cem, Italian:cento, English:cent-, Hindi:शत (śat), Bengali:শত (śôt)  
 **ser** *link (ring in a chain)* ← English:series, French:série, Spanish:serie, Russian:серия (seriya), Turkish:seri + Arabic:(silsila), Persian: سلسله‎ (selsele), Hindi:सिलसिला (silsilā), tur:silsile, Swahili:silisili, Hausa:sasari + Mandarin:系列 (xìliè) + Korean:사슬 (saseul)  
 **serami** *ceramic* ← English:ceramic, Spanish:cerámica, Portuguese:cerâmico, French:céramique, Russian:керамика (keramika), Bengali:সিরামিক (sirāmika), Turkish:mel:seramik  
@@ -1561,7 +1562,7 @@
 **virge** *virgin (pristine, virginal; Virgo)* ← English:virgin, French:vierge, Spanish:virgen, Portuguese:virgem  
 **virus** *virus* ← English:Spanish:French:Malay:virus, Portuguese:vírus, Russian:вирус (virus), Turkish:virüs, Hindi:वाइरस (vāirasa), Japanese:ウイルス (uirusu)  
 **vise** *vice (deputy, alternative, substitute, replacement)* ← English:French:Spanish:Portuguese:vice-, Russian:вице- (vitse-), deu:vize-  
-**vita** *screw* ← French:vis, Italian:vite, Russian:винт (vint), Turkish:vida  
+**vita** *screw* ← French:vis, Russian:винт (vint), Turkish:vida, Vietnamese:vít  
 **vitamin** *vitamin* ← English:Malay:vitamin, French:vitamine, Spanish:Portuguese:vitamina, Russian:витамин (vitamin), Mandarin:维他命 (wéitāmìng), Japanese:ビタミン (bitamin), Korean:비타민 (bitamin), Vietnamese:vi ta min, Hindi:विटामिन (viṭāmin), Bengali:ভিটামিন (bhiṭamin), Arabic: فِيتَامِين‎ (fitamīn), Hausa:bitamin  
 **viza** *visa* ← English:Spanish:French:Malay:visa, Russian:виза (viza), Turkish:vize, Swahili:viza, Arabic:فِيزَا‎ (fīzā), Persian:ویزا‎ (vizâ), Hindi:वीज़ा (vīzā), Bengali:ভিসা (bhiśa), Japanese:ビザ (biza), Korean:비자 (bija)  
 **vizite** *visitation (visit)* ← Mandarin:客 (kè), Wu-Chinese:客 (ka’), Japanese:客 (kyaku), Korean:객 (gaek), Vietnamese:khách, Thai:แขก (khæk)  
@@ -1602,9 +1603,8 @@
 **xenon** *xenon* ← English:xenon, French:xénon, Spanish:xenón, Portuguese:xénon, Russian:ксенон, Mandarin:氙 (xiān), Japanese:キセノン, Korean:크세논, Vietnamese:xenon, Hindi:ज़ेनान, Bengali:জেনন, Malay:xenon, Swahili:zenoni, Arabic: إكسينون  
 **xi** *Mx. (Mr. or Ms.)* ← Mandarin:氏 (shì), Cantonese:氏 (si6), Japanese:氏 (-shi), Korean:씨 (ssi) + Malay:si + Hindi:श्री (śrī), Bengali:শ্রী  (śri)  
 **xia** *faction (clique)* ← Arabic: شِيعَة (šīʿa), heb: סִיעָה (si'á) + Mandarin:系 (xì)  
-**xifu** *master (sensei, sifu)* ← English:French:sifu, Russian:шифу (shifu), Mandarin:师傅 (shīfu), Cantonese:師傅 (si1 fu6)  
 **xigu** *accident (mishap)* ← Mandarin:事故 (shìgù), Cantonese:事故 (si6gu3), Japanese:事故 (jiko), Korean:사고 (sago), Vietnamese:sự cố + Arabic: شِقْوَة (šiqwa)  
-**xikaya** *complain (lament)* ← Arabic: شِكَايَة‎ (šikāya), Hindi:शिकायत (śikāyat), Persian: شکایت‎ (šekâyat), Turkish:şikayet + French:chicaya  
+**xikaye** *complain (lament)* ← Arabic: شِكَايَة‎ (šikāya), Hindi:शिकायत (śikāyat), Persian: شکایت‎ (šekâyat), Turkish:şikayet + French:chicaya, Spanish:achaque  
 **xike** *elegant (chic)* ← English:French:Spanish:chic, Portuguese:chique, Russian:шикарный (shikarnyy), Turkish:şık, Persian:شیک‎  (šik), Japanese:シック (shikku)  
 **xim** *heart* ← Mandarin:心 (xīn), Cantonese:心 (sam1), Hakka-Chinese:心 (sîm),  Japanese:心 (shin), Korean: 심 (shim), Vietnamese:tim  
 **xindau din** *Shintoism* ← Japanese:神道 (shintō), Korean:신도 (sindo), Mandarin:神道 (shéndào)  

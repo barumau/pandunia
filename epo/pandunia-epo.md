@@ -2082,12 +2082,13 @@ viki makala - vikia artikulo
 viki pedia - vikipedio  
 vin - vino  
 vin suan - vinagro  
+virgal - virga  
 virge - virga (virgulo)  
-virge di - virga  
 vise - vic-  
-vise loga - pronomo  
+vise lexe - pronomo  
 vise ma - vicpatrino  
 vise pa - vicpatro  
+vita - ŝraubo  
 Vixnu - Viŝnuo  
 vizite - viziti  
 viziter - vizitanto  
@@ -2131,7 +2132,7 @@ xefe ministrer - ĉefministro
 xenon - ksenono  
 xia islam din - ŝijaismo  
 xigu - akcidento  
-xikaya - plendo  
+xikaye - plendo  
 xilitol - ksylitoli  
 xim - koro  
 xing - stelo  
@@ -2223,6 +2224,7 @@ zirafa - ĝirafo
 zirkonium - zirkonio  
 zoku - ankoraŭ  
 zone - zono  
+zukam - malvarmumo  
 zukraden - vendredo  
 zuku - etno  
 zuku di - etna  

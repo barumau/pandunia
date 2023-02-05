@@ -1542,6 +1542,7 @@ seme dana - 种子
 seme di - 种子的  
 senater - 参议员  
 sen bei - 先辈 (前辈)  
+senseng - 师傅  
 sen sis - 姐姐 (jiějie)  
 seng - 生的  
 seng varis - 米  
@@ -1761,9 +1762,10 @@ vide - 看
 vidua - 寡妇  
 vijin - 味精  
 virge - 处女  
-vise kitaba - 重写  
+vise kitabe - 重写  
 vise ma - 继母  
 vise pa - 继父  
+vita - 螺钉  
 vitamin - 维生素 (维他命)  
 Vixnu - 毗湿奴  
 viziter - 客人  
@@ -1797,9 +1799,8 @@ xe hal - 事态
 xenon - 氙  
 xia - 派系  
 xia islam din - 什叶派  
-xifu - 师傅  
 xigu - 事故  
-xikaya - 怨言  
+xikaye - 怨言  
 xim - 心  
 xing - 星  
 xipi - 湿  

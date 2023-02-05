@@ -550,8 +550,8 @@ bol|bol|||eng:ball, spa:por:may:tgl:bola, tha:บอล (bɔl), jpn:ボール 
 bolgar.ia|Bolgaria|dexa|BG||Bulgaria|||Bulgaria|||||||||||||||||Bulgario|Bulgaria|Bułgaria
 boli|boli||||boil (cook)|||hervir (cocer)|||||||||||||||||boligi|keittää (kiehuttaa)|zapomnieć, zapominać
 boli.varis|boli varis||||cooked rice|||||||भात|ভাত||nasi||pilav|wali||饭 (米饭)||ご飯||||kypsä riisi|
-Bolivia|Bolivia|dexa|BO||Bolivia|||Bolivia|||||||||||||||||Bolivio|Bolivia|Boliwia
-bolte|bolte|||eng:bolt, fra:boulon, rus:болт (bolt), hin:बोल्ट (bolṭ), jpn:ボルト (boruto), kor:볼트 (bolteu) |bolt||boulon|||болт||बोल्ट||||||||||ボルト|볼트||bolto|pultti|
+boliv.ia|Bolivia|dexa|BO||Bolivia|||Bolivia|||||||||||||||||Bolivio|Bolivia|Boliwia
+bolt-|bolte|||eng:bolt, fra:boulon, rus:болт (bolt), hin:बोल्ट (bolṭ), jpn:ボルト (boruto), kor:볼트 (bolteu) |bolt||boulon|||болт||बोल्ट||||||||||ボルト|볼트||bolto|pultti|
 bomb-|bombe|||pol:por:spa:tur:bomba, rus:бомба (bomba), deu:fra:bombe, fas:(bomb), eng:bomb, ben:বোমা (boma), hin:बम (bam), urd:(bam), jpn:ボム (bomu), kor:봄 (bom), may:bom, hau:bam|bomb||bombe|bomba|bomba|бомба||बम|||bom||bomba|||炸弹|||||bombo|pommi|bomba
 bon|bon|||fra:bon, por:bom, spa:bueno, + khm:បុណ្យ (bon), tha:บุญ (bun), tel:పుణ్యము (puṇyamu)|good||bon|bueno|bom|хороший||अच्छा|||bagus|حَسَن||mzuri||好||良い (元気, 上手)|||bona|hyvä|dobry
 bon.gradu|bon gradu||||upgrade (level up)|||mejorar||||||||||||||||||nostaa tasoa|aktualizować (zaktualizować, ulepszać, ulepszyć)
@@ -999,7 +999,7 @@ eglisa|eglisa|||eng:ecclesia-, fra:église, spa:iglesia, por:igreja, hin:गि�
 einstein.ium|einsteinium|yum 099|Es|eng:einsteinium, fra:einsteinium, spa:einsteinium, por:einstânio, rus:эйнштейний, zho:锿 (āi), jpn:アインスタイニウム, kor:아인시타이늄, vie:ensteni, hin:आइन्स्टाइनियम, ben:আইনস্টাইনিয়াম, may:einsteinium, swa:einsteni, ara: انيشتنيوم|einsteinium||einsteinium|einsteinium|einstânio|эйнштейний||आइन्स्टाइनियम|আইনস্টাইনিয়াম||einsteinium|انيشتنيوم|eınsteınyum|einsteni||锿||アインスタイニウム|아인시타이늄|ensteni|ejnŝtejnio|einsteinium|einstein
 Eire|Eire|dexa|IE||Ireland||Irland|Irlanda||||||||||||||||||Irlanti|Irlandia
 ek.al.|ekal||||environmental (natural)|||ambiental (ecológico, natural)||||||||||||||||||ympäristö- (luonto-)|środowiskowy, naturalny
-ek.ia|ekia|||eng:spa:por:eco-, fra:éco-, deu:öko-, rus:эко-, tur:may:eko-|environment (nature)|||medioambiente (naturaleza)|||||||||||||||||naturo|luonto|natura, środowisko
+ek.ia|ekia|||eng:spa:por:eco-, fra:éco-, deu:öko-, rus:эко-, tur:may:eko-, swa:iko-|environment (nature)|||medioambiente (naturaleza)|||||||||||||||||naturo|luonto|natura, środowisko
 ek.log.ia|ekologia||||ecology (study of environment)|||ecología||||||||||||||||||ekologia (ympäristötiede)|ekologia (nauka o środowisku)
 ek.nat.iv.|ekonative||||wild (savage)||sauvage|salvaje||дикий||||||||||||野生||||villi (villinä syntynyt)|dziki
 Ekuador|Ekuador|dexa|EC||Ecuador|||Ecuador|||||||||||||||||Ekvadoro|Ecuador|Ekwador
@@ -1730,7 +1730,7 @@ gran.|gran|||eng:fra:grain, spa:grano, por:grão + rus:гранит (granit), tu
 gran.it.|granite||||granite||granit|granito|granito|гранит||||||||||花岗石||花崗岩||||graniitti|granit
 grave|grave|||eng:gravel, spa:grava, fra:gravire, rus:гравий (graviy) + swa:changarawe|gravel||gravire|grava|cascalho|гравий||||||||||砾石||砂利||||sora|żwir
 Grenada|Grenada|dexa|GD||Grenada|||Granada||||||||||||||||||Grenada|Grenada
-Grenadin.nesi|Grenadin nesi||||the Grenadines|||Granadinas||||||||||||||||||Grenadiinit|Grenadyny
+Grenadin.nes.ia|Grenadin nesia||||the Grenadines|||Granadinas||||||||||||||||||Grenadiinit|Grenadyny
 grese|grese|||eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|stride (march)||marcher|||||||||||||||||||harpata (harppoa, käydä)|
 grese-a|• agrese||||attack (assault, aggression, hostility)||agression (attaque; agresser, attaquer)|agresión (ataque)|agressão (ataque)|нападение (атака, агрессия)||आक्रमण|||menarik||saldırı|||攻击|||||atako (agreso)|käydä päälle (käydä kimppuun; päällekarkaus, aggressio)|atak (agresja, napaść)
 grese-a.iu|• agresive||||aggressive||agressif|agresivo|||||||||||||||||agresema|päällekäyvä (aggressiivinen)|agresywny
@@ -1834,7 +1834,7 @@ hatar|hatar|||ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎
 hatar.di|hatar di||||dangerous (perilous)|||peligroso|||||||||||||||||danĝera|vaarallinen|niebezpieczny
 hava|hava|||ara: هَوَاء‎ (hawāʾ), fas: هوا‎ (havâ), hin:हवा (havā), ben:হাওয়া (hava), may:hawa, swa:hewa, tur:hava|wind|||viento||||हवा (पवन)||||||||||風|||vento|tuuli (puhallus)|wiatr
 Havai|Havai|dexa|||Hawaii|||Hawái||||||||||||||||||Havaiji|Hawaje
-Havai.nesi.a|Havai nesia||||Hawaiian archipelago|||archipiélago de Hawái||||||||||||||||||Havaijin saaret|Hawaje (archipelag hawajski)
+Havai.nes.ia|Havai nesia||||Hawaiian archipelago|||archipiélago de Hawái||||||||||||||||||Havaijin saaret|Hawaje (archipelag hawajski)
 haxi|haxi|||jpn:箸 (hashi), ben:হাশি (haśi), guj:હાશી (hāśī), por:hashi|chopsticks||baguettes|palillos|pauzinho (hashi)|||चीनी काँटा|||sepit (sumpit, penyepit)||yemek çubuğu|||筷子 (箸)||箸|젓가락|đũa|haŝio (kvajzo)|syömäpuikot|
 haxix|haxix|||ara: حَشِيش (ḥašīš), eng:hashish, fra:haschich, por:haxixe, rus:гашиш (gašiš), jpn:ハシシ (hashishi), kor:해시시 (haesisi), hin:हशीश (haśīś), may:hasyis|hashish|||hachís||||||||||||||||||hasis|haszysz
 Haye|Haye|dexa|AM||Armenia|||Armenia||||||||||||||||||Armenia|Armenia
@@ -2418,7 +2418,7 @@ koda|koda|||eng:coda, spa:coda,cola, por:cauda, fra:côté, jpn:コーダ (kōda
 koka|koka|||spa:eng:coca, rus:кока (koka), tur:koka, zho:古柯 (gǔké)|coca|||coca||||||||||||||||||kooka|koka
 Koka.Kola|Koka Kola||||Coca-Cola||||||||||||||||||||||kola (coca-cola)
 koko|koko|||fra:coq, eng:cock, pol:kogut, guj:કૂકડો (kūkḍo) + swa:kuku, zul:inkukhu, ibo:Ọkụkọ + (onom.) ita:coccodè, jpn:コッコッ (kokko), fas:(qod-qod-qodās), rus:куд-куда, hin:कुटकुटा (kutkutā)|chicken|||pollo|||||||||||||||||koko|kana|kura, kogut, kurczak
-Kokos.nesi|Kokos nesi|dexa|CC||Cocos (Keeling) Islands|||Islas Cocos (Islas Keeling)||||||||||||||||||Kookossaaret|Wyspy Kokosowe
+Kokos.nes.ia|Kokos nesia|dexa|CC||Cocos (Keeling) Islands|||Islas Cocos (Islas Keeling)||||||||||||||||||Kookossaaret|Wyspy Kokosowe
 kola|kola|bio|Cola|eng:spa:cola, rus:кола (kola), hin:कोला (kolā), jpn:コラ (kora), swa:mkola, hau:gworo|kola|||||||||||||mkola||||||||koola|
 kola.frute|kola frute||||kola nut|||||||||||||||||||||koolapähkinä|
 kola.jus|kola jus||||cola|||cola (refresco de cola)||||||||||||||||||colajuoma|kola, napój gazowany
@@ -2814,7 +2814,7 @@ mangus|mangus|bio|Garcinia mangostana||mangosteen|||mangostán (jobo de la India
 Mani|Mani||||prophet Mani|||profeta Mani||||||||||||||||||profeetta Mani|prorok Mani
 mani|mani|||eng:por:mania, deu:Manie, fra:manie, spa:manía, rus:мания (maniya)|mania (abnormally high mood and arousal level)||manie|manía|mania|мания||||||||||||||||mania|
 mani.din|mani din||||Manichaeism||manichéisme|maniqueísmo|maniqueísmo|манихейство||||||||||摩尼教||||||manikealaisuus|manicheizm
-Manin.nesi|Manin nesi|dexa|IM||Isle of Man|||Isla de Man||||||||||||||||||Manin saari|Wyspa Man
+Manin.nes-|Manin nese|dexa|IM||Isle of Man|||Isla de Man||||||||||||||||||Manin saari|Wyspa Man
 manioka|manioka|bio|Manihot esculenta|eng:fra:manioc, spa:por:mandioca, rus:маниока (manioka), kor:마니옥 (maniok), lin:manyɔ́kɔ, kon:mandioko|cassava (manioc)||manioc|yuca (mandioca)|mandioca (aipim)|маниока||कसावा|কাসাভা||ubi kayu (kasava)|||||木薯 ||キャッサバ|마니옥 (카사바)|||kassava (maniokki)|maniok
 manioka.fufu|manioka fufu||||tapioca||tapioca|tapioca|tapioca|тапиока||||||||||||||||tapioka|
 manit-|manite|||eng:magnet, fra:magnétique, spa:magnete, rus:магнит (magnit), tur:mıknatıs, ara: مَغْنَاطِيس‎ (maḡnāṭīs), may:maknit|magnet|Magnet|aimant|imán (magnete)|ímã (íman)|магнит|آهنربا|चुंबक|চুম্বক (অয়স্কান্ত)|காந்தம்|magnet (besi berani)|مَغْنَاطِيس‎|mıknatıs|sumaku||磁铁 (磁石)|攝石|磁石|자석|nam châm|magneto|magneetti|magnes
@@ -2822,19 +2822,19 @@ manit.ik-|manitike||||magnetic|||magnético||||||||||||||||||magneettinen|magnet
 mantol|mantol|||eng:mantle, spa:manto, fra:manteau, rus:манто (manto), jpn:マント (manto), kor:망토 (mangto), may:mantel|cape (cloak, mantle)||cape|capa (manto)|capa|плащ (накидка)||||||||||斗篷||マント (ケープ)|||||peleryna (płaszcz, opończa)
 mantra|mantra|||eng:fra:spa:por:may:mantra, rus:мантра (mantra), hin:मंत्र (mantra), ben:মন্ত্র (môntr)|mantra (chant)||mantra|mantra (salmodiar)|mantra|мантра||मंत्र|মন্ত্র||mantra (mantera)|||||||||||mantra (messuta)|
 mantu|mantu|||rus:манты (manty), zho:馒头 (mántóu), jpn;饅頭 (manjū), kor:만두 (mandu), fas:urd: منتو‎ (mantu), tur:mantı, rus:манты (manty)|dumpling (ravioli, pelmeni)||quenelle (ravioli)|empanada (pelmeni)||пельмень||||||||||饺子|餃子|餃子|교자|||myky (nyytti, pelmeni, ravioli)|kluska, knedel, pieróg; ravioli, pelmeni
-mar|mar|||ara: مرة (marra), swa:mara, hin:बार (bār), fas:urd: بار‎(bār), deu:Mal|time (number of times)||fois|vez|vez|раз||बार (दफ़ा)||||مرة|kere (defa)|mara||次 (度, 遍)||回 (次, 度)|회 (번, 차)|lần|fojo|kerta (vuoro)|czas; okazja
+mar|mar|||ara: مرة (marra), swa:mara, fas: بار‎ (bâr), hin:बार (bār), ben:বার (bar), tam:முறை (muṟai), deu:Mal|time (instance, occurrence, number of times)|Mal|fois|vez|vez|раз|بار‎|बार (दफ़ा)|বার|முறை||مرة|kere (defa)|mara||次 (度, 遍)||回 (次, 度)|회 (번, 차)|lần|fojo|kerta (vuoro)|raz
 marakux|Marakux|xefe siti|||Marrakech||Marrakech|||||||||||||||||||Marrakesh|
 marati|marati|nas|||Marathi|||maratí||||||||||||||||||marathi (eräs intialainen kieli)|marathi
 maraton|maraton|||eng:marathon, spa:maratón, por:maratona, rus:марафо́н (marafón), tur:maraton, ara:مَارَاثُون‎ (mārāṯūn), hin:मैराथन (mairāthan), ben:ম্যারাথন (mjarathôn), zho:马拉松 (mǎlāsōng), jpn:マラソン (marason)|marathon|||maratón|||||||||||||||||maratono|maratoni|maraton
-marce|marce|||eng:march, fra:marche, spa:por:marcha, rus:марш (marš), hin:मार्च (mārc), tur:marş, swa:machi|walk (march)||marche|marcha|marcha|марш|||||||marş|machi|||||||promeno (marŝo)|kävely (marssi)|
+marc-|marce|||eng:march, fra:marche, spa:por:marcha, rus:марш (marš), hin:मार्च (mārc), tur:marş, swa:machi|walk (march)||marche|marcha|marcha|марш|||||||marş|machi|||||||promeno (marŝo)|kävely (marssi)|
 margai|margai|bio|Leopardus wiedii|eng:margay, spa:maracayá, por:maracajá, rus:маргай (margay), ara:مارج (mārǧ), jpn:マーゲイ (māgei)|margay||margay (chat-tigre)|gato tigre (maracayá)|gato-maracajá|маргай||||||||||長尾虎貓||マーゲイ|||||margaj (ocelot nadrzewny)
-margarin|margarin|||eng:fra:margarine, spa:por:margarina, rus:маргари́н (margarín), tur:margarin, hin:मार्जरीन (mārjarīn), may:marjerin, zho:麦淇淋 (màiqílín), jpn:マーガリン (māgarin)|margarine|||margarina|||||||||||||||||margarino|margariini|margaryna
+margarin|margarin|||eng:fra:margarine, spa:por:margarina, rus:маргарин (margarín), tur:margarin, hin:मार्जरीन (mārjarīn), may:marjerin, zho:麦淇淋 (màiqílín), jpn:マーガリン (māgarin)|margarine||margarine|margarina|margarina|маргарин|||||||||||||||margarino|margariini|margaryna
 margarita|margarita|bio||spa:por:margarita, fra:marguerite, deu:Margerite, rus:маргаритка (margaritka)|daisy|||margarita|margarida|маргаритка|||||||||||||||||stokrotka
-Mariana.nesi|Mariana nesi|dexa|MP||Northern Mariana Islands|||Islas Marianas|||||||||||||||||||Mariany Północne
+Mariana.nes.ia|Mariana nesia|dexa|MP||Northern Mariana Islands|||Islas Marianas|||||||||||||||||||Mariany Północne
 Maris|Maris|planeta 4||ell:Άρης (Áris), eng:fra:tur:Mars, spa:por:Marte, rus:Марс (Mars) + ara: اَلْمِرِّيخ‎ (al-mirrīkh), swa:Mirihi, may:Mars; Marikh|Mars||Mars|Marte|Marte|Марс||||||المريخ|Mars|||||||||Mars|Mars
 maris.den|marisden|den|2||Tuesday||mardi|martes|terça-feira|вторник||मंगलवार|মঙ্গলবার||selasa|يوم الثلاثاء|salı|jumanne||星期二 (禮拜二)||火曜日|화요일|thứ ba|mardo|tiistai|wtorek
-marke|marke|||eng:mark, spa:por:marca, fra:marque, kor:마크 (makeu), jpn:マーク (māku)|mark (trace)||trace|marca (huella, mancha)|mancha (marca)|||||||||||||||||merkki (jälki)|znak, trop
-Marxal.nesi|Marxal nesi|dexa|MH||Marshall Islands|||Islas Marshall||||||||||||||||||Marshall-saaret|Wyspy Marshalla
+mark-|marke|||eng:mark, spa:por:marca, fra:marque, kor:마크 (makeu), jpn:マーク (māku)|mark (trace)||trace|marca (huella, mancha)|mancha (marca)|||||||||||||||||merkki (jälki)|znak, trop
+Marxal.nes.ia|Marxal nesia|dexa|MH||Marshall Islands|||Islas Marshall||||||||||||||||||Marshall-saaret|Wyspy Marshalla
 masa|masa|||eng:mass, deu:fra:masse, spa:masa, por:may:massa, rus:масса (massa)|mass (quantity of matter)||masse|masa (trozo, pedazo)|massa|масса||द्रव्यमान|||massa|كتلة|kütle|||质量||質量|질량|khối lượng|maso|massa|masa
 masa.mula|masa mula||||tuber (bulb)||tubercule|tubérculo|tubérculo|клубень||||||||||||芋 (塊茎)|||||bulwa
 masa.mula.sol.hua|masa mula sol hua|bio|Helianthus tuberosus||Jerusalem artichoke (sunroot)||topinambour|tupinambo (pataca, alcachofa de Jerusalén)|alcachofra-girassol (tupinambo)|топинамбу́р||||||||||菊芋||キクイモ|||||topinambur
@@ -3287,7 +3287,7 @@ Norde.cosen|Norde cosen|dexa|KP||North Korea (Democratic People’s Republic of 
 norde.di|norde di||||northern|||norteño||||||||||||||||||pohjoinen|północny
 Norde.Kipris|Norde Kipris|dexa|||Northen Cyprus|||Chipre del Norte||||||||||||||||||Pohjois-Kypros|Cypr Północny
 Norde.Makedonia|Norde Makedonia|dexa|MK||Republic of North Macedonia|||Macedonia del Norte||||||||||||||||||Makedonia|Republika Macedonii, Macedonia
-Norfolke.nesi|Norfolke nesi|dexa|NF||Norfolk Island|||Isla Norfolk||||||||||||||||||Norfolkin saaret|Norfolk
+Norfolke.nes-|Norfolke nese|dexa|NF||Norfolk Island|||Isla Norfolk||||||||||||||||||Norfolkin saaret|Norfolk
 Norge|Norge|dexa|NO||Norway|||Noruega|||||||||||||||||Norvegio|Norja|Norwegia
 norge.baxa|norge baxa|basha|||Norwegian language|||idioma noruego|||||||||||||||||norvega|norjalainen|norweski
 norma|norma|||eng:spa:por:fra:deu:normal, rus:нормальный (normalʹnyj), fas:نرمال‎ (normâl)|norm (standard)|||norma||||||||||||||標準||||normi|norma, standard
@@ -3320,7 +3320,7 @@ oganeson|oganeson|yum 118|Og|eng:fra:por:may:oganesson, spa:oganesón, rus:ог�
 ohtopus|ohtopus|bio|Octopodiformes|eng:octopus, deu:Oktopus, tur:ahtapot, ara:أخطبوط (ʾuḵṭubūṭ), fas:اختاپوس‎ (oxtâpus), hin:ऑक्टोपस (okṭopasa), ben:অক্টোপাস (ôkṭopaś)|octopus||Poulpe (pieuvre)|pulpo|polvo|спрут (осьминог)|||||gurita|أخطبوط|ahtapot|pweza||章鱼||タコ|낙지 (문어)|bạch tuộc||mustekala|ośmiornica
 oke|oke|||eng:okay, spa:tur:may:okey, por:OK, rus:окей (okej), ara:أُوكِي‎‎‎ (ʾokey), hin:ओके (oke), zho:OK (ōukèi), jpn:オーケー (ōkē)|okay (acceptance; accept, say okay)|||OK (aceptar)||||||||||||||||||hyväksyä (hyväksyntä, OK)|zaakceptować, akceptować, powiedzieć okej, mówić okej
 oke.bil|okebil||||acceptable|||aceptable||||||||||||||大丈夫 (ＯＫ)|||akceptebla|kelpo (kohtalainen, okei)|okej, spoko, akceptowalny
-Olande.nesi|Olande nesi|dexa|AX||Aland Islands|||islas Aland||||||||||||||||||Ahvenanmaa (Oolanti)|Wyspy Alandzkie
+Olande.nes.ia|Olande nesia|dexa|AX||Aland Islands|||islas Aland||||||||||||||||||Ahvenanmaa (Oolanti)|Wyspy Alandzkie
 Oman|Oman|dexa|OM||Oman|||Omán||||||||||||||||||Oman|Oman
 onda|onda|||spa:por:ita:onda, fra:onde, may:ombak|wave||onde|onda|onda|||||||||||波浪||波|||ondo|aalto (laine)|fala
 Onduras|Onduras|dexa|HN||Honduras|||Honduras|||||||||||||||||Honduro|Honduras|Honduras
@@ -3577,7 +3577,7 @@ pirat.ism.|piratisme||||pirate (one who disobeys intellectual property laws)|||p
 pirat.part.ia|pirate partia||||Pirate Party|||Partido Pirata||||||||||||||||||piraattipuolue|Partia Piratów
 pisea|pisea|bio|Picea|spa:por:pícea, fra:Épicéa|spruce tree||Épicéa|pícea|pícea (espruce)|ель||||||||||云杉||トウヒ|||||świerk
 pistol|pistol|||eng:pistol, spa:por:pistola, fra:pistolet, rus:пистолет (pitolet), hin:पिस्तौल (pistaul), ben:পিস্তল (piśtôl)|pistol|||pistola||||||||||||||||||pistooli|pistolet
-Pitkerne.nesi|Pitkerne nesi|dexa|PN||Pitcairn Islands|||Islas Pitcairn||||||||||||||||||Pitcairn|Pitcairn
+Pitkerne.nes.ia|Pitkerne nesia|dexa|PN||Pitcairn Islands|||Islas Pitcairn||||||||||||||||||Pitcairn|Pitcairn
 pix.|pixe|||eng:piss, fra:pisse, ita:piscia, hin:पेशाब (pešāb), may:pipis|piss (urine)|||pis (meados)|||||||||||||||||piso (urino)|virtsa (pissa, kusi)|siki
 piza|piza|||eng:deu:fra:spa:tur:vie:pizza, rus:пицца (pitsa), fas: پیتزا‎ (pitzâ), hin:पिज़ा (pizā), ben:পিৎজা (pitja), tam:பீத்சா (pītcā), may:piza, zho:比萨 (bǐsà), jpn:ピザ (piza), kor:피자 (pija), ara: بِيتْزَا‎ (bītzā)|pizza|Pizza|pizza|pizza|piza|пицца|پیتزا‎|पिज़ा|পিৎজা|வேகப்பம் (பீத்சா)|piza|بِيتْزَا‎|pizza|||比萨饼|薄餅|ピザパイ|피자|bánh pizza|pico|pitsa (pizza)|pizza
 piza.r.ia|pizaria||||pizzeria|||pizzería|pizaria||||||||||||||||picejo|pitseria|pizzeria
@@ -3857,7 +3857,7 @@ rubi.orang-|rubi orange|bio|Citrus reticulata||mandarin orange (tangerine)||mand
 rubi.salmon|rubi salmon|bio|Oncorhynchus nerka||sockeye salmon||saumon sockeye|salmón rojo|salmão-vermelho|нерка (красница)||||||||||紅鮭||ベニザケ|||||nerka (łosoś czerwony)
 ruhu|ruhu|||ara: رُوح‎ (rūḥ), fas: روح‎ (ruh), hin:रूह (rūh), ben:রূহ (ruh), may:ruh, swa:roho, hau:ruhu, som:ruux + rus:дух (duh)|soul (mind, psyche)||psyché|psique||душа (дух)|||||||||||||||animo (psiko)|henki (sielu, mieli, psyyke)|dusza, duch, umysł
 ruhu.di|ruhu di||||mental (psychic)|||mental (psíquico)||||||||||||||||||henkinen (psyykkinen)|umysłowy (psychiczny)
-ruhu.log.ia|ruhu logia||||psychology||psychologie|psicología||||||||||saikolojia|||||||psikologio|psykologia|psychologia
+ruhu.log.ia|ruhu logia||||psychology||psychologie|psicología||||मनोविज्ञान|মনোবিজ্ঞান||ilmu jiwa||ruh bilimi|saikolojia|||||||psikologio|psykologia|psychologia
 ruhu.mixe|ruhu mixe||||confuse (perplex, bewilder, baffle)|||confundir (desconcertar, perplejo)||озадачить||||||||||||惑わす|||||mylić (gmatwać, zmieszać, konsternować)
 ruhu.mixe.di|ruhu mixe di||||confused (perplexed, disoriented, bewildered)||perplexe (désorienté)|confundido|perplexo (confuso)|растерянный (озадаченный)||भ्रमित (हैरान, संभ्रांत)|||bingung (hilang akal, keliru)|حَيْران‎|şaşkın|kuzubaa (vuruguvurugu)||困惑 (混乱)||まごまご|||||smieszany (skonfudowany)
 ruke|ruke|||deu:Rücken + deu:eng:rucksack, rus:рюкзак (rjukzak), jpn: リュックサック (ryukkusakku), kor:륙색 (ryuksaek)|back|Rücken||espalda (lomo)|||||||||||||||||dorso|selkä|placy
@@ -4011,6 +4011,7 @@ sen.at.er|senater||||senator||sénateur|senador|senador|сенатор||सी�
 sen.bei|sen bei||||senior fellow (senpai)|||||||||||||||先辈 (前辈)|先輩|先輩|선배|tiền bối||vanhempi toveri|
 sen.bra|sen bra|famil|||big brother (elder brother)|großer Bruder|frère aîné (grand frère)|hermano mayor|irmão mais velho|старший брат||||||اَلْأَخ اَلْأَكْبَر‎|abi (ağabey)|kaka|wa (yaya)|||||||isoveli|
 sen.sau|sen sau|famil|||elder sibling||||||||||kakak||||||||||||
+sen.seng|senseng|||zho:先生 (xiānshēng), yue:先生 (sin1saang1), jpn:先生 (sensei), kor:선생 (seonsaeng), vie:tiên sinh, may:sinse, tha:ซินแส (sin-see), eng:sensei|master (sensei, sifu)|||maestro (profesor)|||||||sinse|||||师傅||先生|선생|||mestari (sensei)|mistrz (sensei)
 sen.sis|sen sis|famil|||big sister (elder sister)|große Schwester|sœur aînée (grande sœur)|hermana mayor|irmã mais velha|старшая сестра||दीदी (dīdī)|আপা (apa) বুবু (bubu)|அக்கா (akkā)|kakak perempuan||abla|dada|ya (yaya)|姐姐 (jiějie)|姐姐 (zeze)|姉 (ane)|누나 (nuna) 언니 (eonni)|chị gái||isosisko|
 Senegal|Senegal|dexa|SN||Senegal|||Senegal||||||||||||||||||Senegal|Senegal
 seng|seng|||zho:生 (shēng), yue:生, jpn:生 (sei), kor:생 (saeng), vie:sống|raw (crude, fresh)||cru|crudo|cru|сырой||कच्चा|কাঁচা||mentah|نَيْء‎|ham (çiğ)|||生的||生の|생의|sống||raaka (tuore)|
@@ -4040,7 +4041,7 @@ serv.er.|server||||server (host machine)|||servidor||сервер||||||||||||サ
 serv.er.nam.|server nam||||servername (hostname)||||||||||||||||||||||
 sesam|sesam|bio|Sesamum indicum|eng:sesame, rus:сезам (sezam), spa:sésamo, ara:(simsim), swa:simsim, tur:susam|sesame|||ajonjolí (sésamo)||сезам|||||||susam|simsim||||||||seesami|sezam
 sexe.di|sexe di||||sexy (sexually arousing)|||sexy (sexual)||||||||||||||||||seksikäs|seksowny, ponętny
-Sexel.nesi|Sexel nesi|dexa|SC||Seychelles|||Seychelles||||||||||||||||||Seychellit|Seszele
+Sexel.nes.ia|Sexel nesia|dexa|SC||Seychelles|||Seychelles||||||||||||||||||Seychellit|Seszele
 sexu|sexu||||sex (gender)||sexe|sexo (género)|sexo|пол||लिंग|লিঙ্গ||jenis kelamin|جِنْس|cinsiyet|jinsia|jinsi|性别||性別 (ジェンダー)|성별|giới tính|sekso|sukupuoli|płeć
 sexu.|sexu|||eng:sex, fra:sexe, spa:por:sexo, rus:секс (seks), tur:seks, hin:सेक्स (seks), jpn:セックス (sekkusu), kor:섹스 (sekseu)|sex|||sexo|||||||||||||||||sekso|seksi (sukupuolisuhde)|seks, stosunek płciowy
 sexu.al|sexual||||sexual (pertaining to gender)||||||||||||||||||||seksa|sukupuolinen|płciowy
@@ -4113,7 +4114,7 @@ sol.hua|sol hua|bio|Helianthus annus||sunflower||Tournesol|girasol|girassol|по
 sol.kentaur.hua|sol kentaur hua|bio|Centaurea solstitialis||yellow starthistle||Centaurée du solstice|abrepuño|||||||||||||||||||chaber wełnisty
 sol.sistem|sol sistem||||solar system|||sistema solar||||||||||||太阳系|||||sunsistemo|aurinkokunta|układ słoneczny
 sol.stat-|solostate||||solstice|||solsticio||||||||||||||||||päivänseisaus|przesilenie
-Solomon.nesi|Solomon nesi|dexa|SB||Solomon Islands|||Islas Salomón||||||||||||||||||Salomon-saaret|Wyspy Salomona
+Solomon.nes.ia|Solomon nesia|dexa|SB||Solomon Islands|||Islas Salomón||||||||||||||||||Salomon-saaret|Wyspy Salomona
 Somal|Somal|dexa|SO||Somalia|||Somalia||||||||||||||||||Somalia|Somalia
 Somal.Dexa|Somal Dexa|dexa|||Somaliland|||Solamilandia||||||||||||||||||Somalimaa|Somaliland
 son|son|famil||eng:son, deu:Sohn, rus:сын (syn), san:सूनु (sūnu)|son|Sohn|fils|hijo|filho|сын||बेटा (पुत्र)|ছেলে (পুত্র, পো)||anak lelaki|اِبْن‎|oğul|mtoto wa kiume (bin)|'da|儿子|兒|息子|아들|con trai|filo|poika|syn
@@ -4176,7 +4177,7 @@ Sude.Amerika|Sude Amerika||||South America|||Sudamérica||||||||||||||||||Etelä
 Sude.cosen|Sude cosen|dexa|KR||South Korea (Republic of Korea)|||Corea del Sur|||||||||||||||||Sudkoreio|Etelä-Korea|Korea Południowa
 sude.di|sude di||||southern|||sureño|||||||||||||||||||południowy
 Sude.Iria.(Alonia)|Sude Iria (Alonia)|dexa|||South Ossetia (Alania)|||Osetia del Sur||||||||||||||||||Etelä-Ossetia|Osetia Południowa
-Sude.Jorjia.i.Sude.Sanduice.nesi|Sude Jorjia i Sude Sanduice nesi|dexa|GS||South Georgia and the South Sandwich Islands|||Georgias del Sur y Sándwich del Sur|||||||||||||||||||Wyspy Georgia Południowa i Sandwich Południowy
+Sude.Jorjia.e.Sude.Sanduice.nes.ia|Sude Jorjia e Sude Sanduice nesia|dexa|GS||South Georgia and the South Sandwich Islands|||Georgias del Sur y Sándwich del Sur|||||||||||||||||||Wyspy Georgia Południowa i Sandwich Południowy
 Sude.Sudan|Sude Sudan|dexa|SS||South Sudan|||Sudán del Sur||||||||||||||||||Etelä-Sudan|Sudan Południowy
 sueda|sueda|||eng:sweat, spa:sudor, por:suor, fra:sueur, hin:स्वेद (sveda), tel:స్వేదం (svēdaṃ)|sweat (perspiration)||sueur|sudor|suor|||||||||||||||||hiki|pot
 sueda.di|sueda di||||sweaty|||sudoroso (sudado)||||||||||||||||||hikinen|spocony
@@ -4537,7 +4538,7 @@ vakil.krat.ia|vakilkratia||||republic|Republik|république|república|república
 vala|vala|||hin:-वाला (-vālā), ben:-ওয়ালা (-ẇala) + ara: وَلِيّ (waliyy), fas: ولی (vali)|practicioner (person in charge or employed in an area, -person, -man)|||||||वाला|ওয়ালা||||||||||||isto|ammatinharjoittaja (niekka)|
 vali|vali|||eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi|valley||vallée (oued)|valle|vale (uadi)|||घाटी (वादी)|উপত্যকা||lembah (wadi)|وَادٍ‎|vadi|bonde|kwari|山谷||谷|골짜기|thung lũng|valo|laakso|dolina
 vali.susan|vali susan|bio|Convallaria majalis||lily of the valley|||convalaria (lirio de los valles)|lírio-do-vale|ландыш||||||||||鈴蘭||キミカゲソウ (スズラン)||||kielo|konwalia majowa
-Valis.i.Futuna.nesi|Valis i Futuna nesi|dexa|WF||Wallis and Futuna Islands|||Wallis y Futuna||||||||||||||||||Wallis ja Futuna|Saint Vincent i Grenadyny
+Valis.e.Futuna.nes.ia|Valis e Futuna nesia|dexa|WF||Wallis and Futuna Islands|||Wallis y Futuna||||||||||||||||||Wallis ja Futuna|Saint Vincent i Grenadyny
 valse|valse|||eng:waltz, fra:valse, spa:por:valsa, rus:вальс (val’s), zho:华尔兹 (huá'ěrzī), jpn:ワルツ (warutsu), kor:왈츠 (walcheu)|waltz||valse|vals|valsa|вальс||||||||||华尔兹||ワルツ (円舞曲)|왈츠|||valssi|walc
 valu|valu|||eng:value, spa:por:valor, fra:valeur|value (worth)||valeur|valor|valor (valia)|ценность||मूल्य (क़ीमत)|মূল্য||nilai|قِيمَة‎|değer (kıymet)|thamani||价值||価値|가치|giá trị|valoro|arvo|wartość
 vampir|vampir|||deu:Vampir, eng:fra:vampire, spa:por:vampiro, rus:вампир (vampir) ben:ভ্যাম্পায়ার (bhêmpayar), may:vampir, jpn:ヴァンパイア (vanpaia)|vampire||vampire|vampiro|vampiro|вампир (упырь)||पिशाच||||||||吸血鬼||吸血鬼|흡혈귀|ma cà rồng||vampyyri|wampir
@@ -4626,25 +4627,25 @@ violeta|violeta|bio|Viola|eng:por:fra:violet, spa:violeta, deu:violett, rus:фи
 violeta.nil|violeta nil|rang|||purple (violet)||violet (pourpre)|morado (púrpura)|purpúreo (roxo)|фиолетовый (пурпурный)||||||||||||紫色 (パープル)||||violetti|fioletowy
 vir.log.ia|virologia||||virology|||virología||вирусология||||||||||||||||virologia|wirusologia
 vir.us|virus|||eng:spa:fra:may:virus, por:vírus, rus:вирус (virus), tur:virüs, hin:वाइरस (vāirasa), jpn:ウイルス (uirusu)|virus||virus|virus||вирус||||||||||||||||virus|wirus
+virg.al|virgal||||pristine (virginal)|||virginal|||||||||||||||||virga|neitseellinen (koskematon)|
 virge|virge|||eng:virgin, fra:vierge, spa:virgen, por:virgem|virgin (pristine, virginal; Virgo)||vierge|virgen (virginal)|virgem|девственник||||||بِكْر|bakir|bikira||处女|||||virga (virgulo)|neitsyt (neitseellinen, koskematon)|
-virge.di|virge di||||pristine (virginal)|||virginal|||||||||||||||||virga|neitseellinen (koskematon)|
-Virgin.nesi|Virgin nesi|dexa|VI||Virgin Islands, US|||Islas Vírgenes||||||||||||||||||Neitsytsaaret|Wyspy Dziewicze USA
+Virgin.nes.ia|Virgin nesia|dexa|VI||Virgin Islands, US|||Islas Vírgenes||||||||||||||||||Neitsytsaaret|Wyspy Dziewicze USA
 vise|vise|||eng:fra:spa:por:vice-, rus:вице- (vitse-), deu:vize-|vice (deputy, alternative, substitute, replacement)|||vice- (alternativa, sustituto)||||||||||||||代替|||vic-|vara- (korvike-)|wice- (alternatywa, substytut, zastępstwo)
-vise.kitaba|vise kitaba||||overwrite|||sobreescribir||||||||||||重写||重ね書き (書き換える)|||||
-vise.loga|vise loga||||pronoun|||pronombre|||||||||||||||||pronomo|pronomini|zaimek
+vise.kitab-|vise kitabe||||overwrite|||sobreescribir||||||||||||重写||重ね書き (書き換える)|||||
+vise.lex-|vise lexe||||pronoun|||pronombre|||||||||||||||||pronomo|pronomini|zaimek
 vise.ma|vise ma||||step-mother|||madrastra|madrasta|мачеха||सौतेली माँ||||||||继母||継母|계모|mẹ kế|vicpatrino|äitipuoli (isän puoliso)|
 vise.pa|vise pa||||step-father|||padrastro|padrasto|отчим||सौतेला बाप||||||||继父||継父|계부|cha kế|vicpatro|isäpuoli (äidin puoliso)|
 vise.prezidente|vise prezidente||||vice-president|||vicepresidente||||||||||||||||||varapresidentti|wiceprezydent
-vise.raja|vise raja||||viceroy||vice-roi|virrey|vice-rei|вице-король|||||wizurai|||||||||||varakuningas|wicekról
+vise.reg.er|vise reger||||viceroy||vice-roi|virrey|vice-rei|вице-король|||||wizurai|||||||||||varakuningas|wicekról
 viski|viski|alkohol|||whisky (whiskey)|||||||||||||||||||||viski|
-vita|vita|||fra:vis, ita:vite, rus:винт (vint), tur:vida|screw|||tornillo||||||||||||||||||ruuvi|śruba, wkręt
+vita|vita|||fra:vis, rus:винт (vint), tur:vida, vie:vít|screw|Schraube|vis|tornillo|parafuso|винт|پیچ‎|||திருகாணி|sekrup (skru)|بُرْغِيّ‎|vida|parafujo||螺钉|螺絲釘|ねじ |나사|vít|ŝraubo|ruuvi|śruba, wkręt
 vitamin|vitamin|||eng:may:vitamin, fra:vitamine, spa:por:vitamina, rus:витамин (vitamin), zho:维他命 (wéitāmìng), jpn:ビタミン (bitamin), kor:비타민 (bitamin), vie:vi ta min, hin:विटामिन (viṭāmin), ben:ভিটামিন (bhiṭamin), ara: فِيتَامِين‎ (fitamīn), hau:bitamin|vitamin||vitamine|vitamina|vitamina|витамин||विटामिन|ভিটামিন||vitamin|فِيتَامِين‎|||bitamin|维生素 (维他命)||ビタミン|비타민|sinh tố (vi ta min)||vitamiini|witamina
 Vixnu|Vixnu|din|||Vishnu||Vishnou|Vishnú|Vixnu|Вишну||विष्णु|বিষ্ণু||Wisnu||Vişnu|||毗湿奴||ヴィシュヌ|비슈누||Viŝnuo|Višnu|Wisznu
 viza|viza|||eng:spa:fra:may:visa, rus:виза (viza), tur:vize, swa:viza, ara:فِيزَا‎ (fīzā), fas:ویزا‎ (vizâ), hin:वीज़ा (vīzā), ben:ভিসা (bhiśa), jpn:ビザ (biza), kor:비자 (bija)|visa|||visado||виза||वीज़ा||||||||||||||viisumi|wiza
 vizit-|vizite|||zho:客 (kè), wuu:客 (ka’), jpn:客 (kyaku), kor:객 (gaek), vie:khách, tha:แขก (khæk)|visitation (visit)|||visitar|||||||||||||||||viziti|käynti (vierailu, visiitti)|wizyta
 vizit.er|viziter||||visitor (guest)|||invitado (visita)||||||||||||客人||客人|손님|khách|vizitanto|vierailija (vieras)|wizytant (gość)
 vo|vo|dem.prn.||ben:ও (o), hin:वह (vo), tur:o|that over there||ce...lá|ese (aquel)|esse (aquele)|тот||वह|ওই||itu||şu|||那||その|그|đó (kia)|tio|tuo|tamten
-vode|vode|||fra:vœu, spa:por:voto, ara:وعد (waʿd), hin:वादा (vādā), tur:vaat, fas:وعده (va'deh)|promise (vow, oath)||vœu (promesse)|promesa (voto)|promessa (voto)|клятва (присяга, обет)||वचन (वादा)||||وعد||||诺言||約束|약속|||lupaus (vala)|
+vod-|vode|||fra:vœu, spa:por:voto, ara:وعد (waʿd), hin:वादा (vādā), tur:vaat, fas:وعده (va'deh)|promise (vow, oath)||vœu (promesse)|promesa (voto)|promessa (voto)|клятва (присяга, обет)||वचन (वादा)||||وعد||||诺言||約束|약속|||lupaus (vala)|
 vodun|vodun|||ewe:vodun, hat:vodou, bra:vodum, eng:voodoo, fra:vaudou, spa:vudú|voodoo|||vudú||||||||||||||||||voodoo|voodoo
 vok-|voke|||eng:voke, fra:-voquer, spa:por:-vocar + deu:Vokal|call (voice; summon)|||||||||||||||||||||kutsua (kuuluttaa; manata)|
 vok-ex|• exvoke||||evoke (call out)|||||||||||||||||||||kutsua esiin (manata esiin)|
@@ -4715,10 +4716,9 @@ xi|xi|||zho:氏 (shì), yue:氏 (si6), jpn:氏 (-shi), kor:씨 (ssi) + may:si + 
 xi.fulan|xi Fulan||||what's-his-name|||fulano|fulano||فلان‎|||||فُلَان||fulani||||||||se ja se|
 xia|xia|||ara: شِيعَة (šīʿa), heb: סִיעָה (si'á) + zho:系 (xì)|faction (clique)||faction (clique)|facción|facção|фракция (клика)||||||شيعة||||派系||||||porukka (kuppikunta, lohko, siipi)|
 xia.islam.din|xia islam din||||Shia Islam (Shi’ism)||chiisme|chiismo (chía)|xiismo|шиизм||शिया||||الشِّيعَة‎||||什叶派||シーア派|||ŝijaismo|šiialaisuus|szyism
-xifu|xifu|||eng:fra:sifu, rus:шифу (shifu), zho:师傅 (shīfu), yue:師傅 (si1 fu6)|master (sensei, sifu)|||maestro (profesor)||||||||||||师傅||先生|||||mistrz (sensei)
 xigu|xigu|||zho:事故 (shìgù), yue:事故 (si6gu3), jpn:事故 (jiko), kor:사고 (sago), vie:sự cố + ara: شِقْوَة (šiqwa)|accident (mishap)|||||||दुर्घटना (हादसा)|দূর্ঘটনা||kecelakaan (kemalangan)|مُصِيبَة‎ (شِقْوَة)|kaza|ajali||事故||事故|사고|sự cố (tai nạn)|akcidento|vahinko (onnettomuus)|wypadek
-xikaya|xikaya|||ara: شِكَايَة‎ (šikāya), hin:शिकायत (śikāyat), fas: شکایت‎ (šekâyat), tur:şikayet + fra:chicaya|complain (lament)||plainte (lamentation)|queja (lamento)|queixa (lamento, reclamação)|жалоба||शिकायत|অভিযোগ|||شِكَايَة‎|şikayet|lalamia||怨言||不平 (不満)|불평 (불만)|phàn nàn|plendo|valitus (reklamaatio)|
-xike|xike|||eng:fra:spa:chic, por:chique, rus:шикарный (shikarnyy), tur:şık, fas:شیک‎  (šik), jpn:シック (shikku)|elegant (chic)|||elegante (chic)||||||||||||||||||elegantti|elegancki, szykowny
+xik-|xike|||eng:fra:spa:chic, por:chique, rus:шикарный (shikarnyy), tur:şık, fas:شیک‎  (šik), jpn:シック (shikku)|elegant (chic)|||elegante (chic)||||||||||||||||||elegantti|elegancki, szykowny
+xikay-|xikaye|||ara: شِكَايَة‎ (šikāya), hin:शिकायत (śikāyat), fas: شکایت‎ (šekâyat), tur:şikayet + fra:chicaya, spa:achaque|complain (lament)||plainte (lamentation)|queja (lamento)|queixa (lamento, reclamação)|жалоба||शिकायत|অভিযোগ|||شِكَايَة‎|şikayet|lalamia||怨言||不平 (不満)|불평 (불만)|phàn nàn|plendo|valitus (reklamaatio)|
 xil.it.ol.|xilitol|kim|C5H12O5||xylitol|Xylitol||xilitol|xilitol|ксилит|||||||||木糖醇||キシリトール||||ksylitoli||
 xil.os|xilos|kim|||xylose (wood sugar)|Xylose|xylose|xilosa|xilose|ксилоза||||||||||||||||ksyloosi (puusokeri)|
 xim|xim|||zho:心 (xīn), yue:心 (sam1), hak:心 (sîm),  jpn:心 (shin), kor: 심 (shim), vie:tim|heart|||corazón||||||||||||心||心|||koro|sydän|serce
@@ -4728,7 +4728,7 @@ xipi|xipi|||zho:濕 (shī), yue:濕 (sap1), wuu:濕 (seq4), jpn:濕 (shitsu), ko
 xir|xir|||heb:שיר (šir), ara:(šiʿr), tur:şiir, fas:(še'r), swa:shairi, zho:诗 (shī), yue:詩 (si1), jpn:詩 (shi), kor:시 (shi)|poem|||poema|||||||||şiir|shairi||诗||詩|시||poemo|runo|poemat
 xir.er|xirer||||poet|||poeta||||||||||||||||||runoilija|poeta
 xirop-|xirope|||ara:(šarāb), por:xarope, eng:syrup, deu:Sirup, fra:sirop, spa:jarabe; sirope, rus:сироп (sirop), fas: شیره‎ (fa) (šire), hin:शर्बत (śarbat), ben:শীরা (śira), tur:şurup, jpn:シロップ (shiroppu), kor:시럽 (sireop), vie:xi-rô, swa:shira|syrup|Sirup|sirop|jarabe (sirope)|xarope|сироп||शर्बत|শীরা||||şurup|shira|||||시럽|xi-rô|siropo|siirappi|syrop
-xite|xite|||eng:shit, zho:屎 (shǐ), yue:屎 (si2)|feces (poop, shit)||merde|mierda|merda|говно (дерьмо)||टट्टी|||tahi||bok|||粪 (屎)||糞 (屎)|똥|cứt (phân)|merdo|paska (sonta)|gówno
+xit-|xite|||eng:shit, zho:屎 (shǐ), yue:屎 (si2)|feces (poop, shit)||merde|mierda|merda|говно (дерьмо)||टट्टी|||tahi||bok|||粪 (屎)||糞 (屎)|똥|cứt (phân)|merdo|paska (sonta)|gówno
 xiti|xiti|||zho:失 (shī), jpn:失 (shitsu), kor:실 (šil), vie:thất|lose (misplace, miss, shed)||perder|perder|perder|потерять (утратить)||||||||||亏损 (失去)||失う (無くす, 落とす)|||||stracić (utracić, tracić, zgubuć, gubić)
 xiti.bai|xiti bai|||zho:失败 (shībài), jpn:失敗 (shippai), kor:실패 (šilpæ), vie:thất bại|failure (blunder, flop, miss, loss, defeat)||échec|fracaso||||||||||||失败||失敗|||malsukceso|epäonnistuminen|porażka (niepowodzenie, klapa, przegrana, strata, porażka)
 xiti.bai.ja|xiti bai ja||||loser||perdant|perdedor|perdedor|||||||||||||||||häviäjä|przegrany, pokonany
@@ -4769,7 +4769,7 @@ ya|ya|||eng:yeah, deu:ja, kor:예 (ye), may:ya|yes||oui|sí|sim|да||हाँ|
 Yahve|Yahve||||Yahweh (Jehovah)||Yahweh (Jéhovah)|Yahvé (Jehová)|Javé (Jeová)|Яхве (Иегова)||||||يَهْوَه||Yehova||耶和华 (雅威)||ヤハウェ (エホバ)|야훼 (여호와)||Javeo (Jehovo)|Jahve (Jehova)|
 yake|yake|||eng:deu:fra:spa:tur:yak, por:iaque, hin:याक (yāk)|yak|||yac||||||||||||||||||jakki|jak (zwierzę)
 yaki|yaki|||kor:약 (yak), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|about (approximately, nearly, almost)|||aproximadamente||||||||||||||||||noin (arviolta, suunnilleen)|około; przybliżony
-yaki.nesi|yaki nesi||||peninsula|||península||||||||||||||||||niemi|półwysep
+yaki.nes-|yaki nese||||peninsula|||península||||||||||||||||||niemi|półwysep
 yam|yam|||khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam|consume (eat or drink)|||comer (bebir)||||||||||||||食べる|||manĝi (trinki)|nauttia (syödä, juoda)|skonsumować, konsumować, zjeść, jeść, wypić, pić)
 yam.fito|yam fito||||vegetable||légume|verdura (legumbre)|verdura (hortaliça, legume)|овощ||सब्ज़ी|সবজি||||sebze|||蔬菜|||||legomo|kasvis|warzywo
 yam.kamar|yam kamar||||dining room|||comedor|||||||||||||||||manĝoĉambro|ruokasali|jadalnia
@@ -4885,7 +4885,7 @@ zizi|zizi|||zho:zizi eng:sizzle|sizzle|||chisporrotear||||||||||||||||||sihistä
 zoku|zoku|||wuu:续 (zoq), yue:續 (zuk6), jpn:続 (zoku), kor:속 (sok), vie:kế tục|continue (go on, keep on, carry on, proceed, still, yet)||continuer (poursuivre, encore)|todavía (aún)|ainda|ещё|||||||devam etmek|||还 (依然)||まだ|||ankoraŭ|vielä (yhä, jatkua)|wciąż, nadal; kontynuować, wznawiać, ponawiać
 zombi|zombi|||kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)|zombie||zombi|zombi|zumbi|||ज़ोंबी||||||||||||||zombi|zombie, zombi
 zon-|zone|||ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|belt (zone)||zone|cinturón (zona)|zona|пояс (зона)|||||||||||||||zono|vyö|pas, strefa
-zukam|zukam|||ara:زُكَام‎ (zukām), hin:ज़ुकाम (zukām) + zho:感(冒) (gǎn(mào)), jpn:感(冒) (kan(bō)), kor:감(기) (gam(gi)), vie:cảm|cold (illness)|||resfriado (catarro)||||||||||||||||||vilustuminen|przeziębienie, katar
+zukam|zukam|||ara:زُكَام‎ (zukām), hin:ज़ुकाम (zukām) + zho:感(冒) (gǎn(mào)), jpn:感(冒) (kan(bō)), kor:감(기) (gam(gi)), vie:cảm|cold (illness)||rhume|resfriado (catarro)|resfriado|||ज़ुकाम|||||||||||||malvarmumo|nuhakuume (vilustuminen, flunssa)|przeziębienie, katar
 Zukra|Zukra|planeta 2||ara: الزُّهَرَة‎ (az-zuhara), swa:Zuhura, hau:Zaharatu, tur:Zühre, fas: زهره‎ (zohre), urd: زہرہ‎ (zuhra), may:Zuhrah + hin:शुक्र (śukra), ben:শুক্র (śukr), mya:သောကြာ (sau:kra), tha:ศุกร์ (sùk)|Venus||Vénus|Venus|Vénus|Венера||||||الزهرة|Venüs|Zuhura||||||||Venus|Wenus
 zukra.den|zukraden|den|5||Friday||vendredi|viernes|sexta-feira|пятница||शुक्रवार|সুক্রবার||jumat|يوم الجمعة|cuma|ijumaa||星期五 (禮拜五)||金曜日|금요일|thứ sáu|vendredo|perjantai|piątek
 zuku|zuku|||zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|ethnic group||ethnie|etnia|etnia|этнос||||||||||民族||民族|민족|dân tộc|etno|kansanryhmä (etninen ryhmä)|grupa etniczna

@@ -326,7 +326,7 @@
 **e** *kaj* ← franca:et, portugala:e, hispana:y;e, mandarena:和 (hé)  
 **eglisa** *preĝejo* ← angla:ecclesia-, franca:église, hispana:iglesia, portugala:igreja, hindia:गिरजा (girjā), malaja:gereja, araba:(kanisā), svahila:kanisa, turka:kilise  
 **einsteinium** *ejnŝtejnio* ← angla:einsteinium, franca:einsteinium, hispana:einsteinium, portugala:einstânio, rusa:эйнштейний, mandarena:锿 (āi), japana:アインスタイニウム, korea:아인시타이늄, vjetnama:ensteni, hindia:आइन्स्टाइनियम, bengala:আইনস্টাইনিয়াম, malaja:einsteinium, svahila:einsteni, araba: انيشتنيوم  
-**ekia** *naturo* ← angla:hispana:portugala:eco-, franca:éco-, deu:öko-, rusa:эко-, turka:malaja:eko-  
+**ekia** *naturo* ← angla:hispana:portugala:eco-, franca:éco-, deu:öko-, rusa:эко-, turka:malaja:eko-, svahila:iko-  
 **elastike** ** ← angla:elastic, franca:élastique, hispana:portugala:elástico, rusa:эластичный (elastíčnyj), turka:malaja:elastik, japana:エラスティック (erasutikku)  
 **eletre** *elektro* ← portugala:eletricidade, itala:elettricità, angla:electricity, rusa:электричество (električestvo), franca:électricité, hispana:electricidad, turka:elektrik  
 **elfe** ** ← angla:elf, hispana:portugala:elfo, franca:elfe, rusa:эльф (el’f), japana:エルフ (erufu), korea:엘프 (elpeu)  
@@ -938,11 +938,11 @@
 **mantol** ** ← angla:mantle, hispana:manto, franca:manteau, rusa:манто (manto), japana:マント (manto), korea:망토 (mangto), malaja:mantel  
 **mantra** ** ← angla:franca:hispana:portugala:malaja:mantra, rusa:мантра (mantra), hindia:मंत्र (mantra), bengala:মন্ত্র (môntr)  
 **mantu** ** ← rusa:манты (manty), mandarena:馒头 (mántóu), jpn;饅頭 (manjū), korea:만두 (mandu), persa:urdua: منتو‎ (mantu), turka:mantı, rus:манты (manty)  
-**mar** *fojo* ← araba: مرة (marra), svahila:mara, hindia:बार (bār), persa:urdua: بار‎(bār), deu:Mal  
+**mar** *fojo* ← araba: مرة (marra), svahila:mara, persa: بار‎ (bâr), hindia:बार (bār), bengala:বার (bar), tamila:முறை (muṟai), deu:Mal  
 **maraton** *maratono* ← angla:marathon, hispana:maratón, portugala:maratona, rusa:марафо́н (marafón), turka:maraton, araba:مَارَاثُون‎ (mārāṯūn), hindia:मैराथन (mairāthan), bengala:ম্যারাথন (mjarathôn), mandarena:马拉松 (mǎlāsōng), japana:マラソン (marason)  
 **marce** *promeno (marŝo)* ← angla:march, franca:marche, hispana:portugala:marcha, rusa:марш (marš), hindia:मार्च (mārc), turka:marş, svahila:machi  
 **margai** ** ← angla:margay, hispana:maracayá, portugala:maracajá, rusa:маргай (margay), araba:مارج (mārǧ), japana:マーゲイ (māgei)  
-**margarin** *margarino* ← angla:franca:margarine, hispana:portugala:margarina, rusa:маргари́н (margarín), turka:margarin, hindia:मार्जरीन (mārjarīn), malaja:marjerin, mandarena:麦淇淋 (màiqílín), japana:マーガリン (māgarin)  
+**margarin** *margarino* ← angla:franca:margarine, hispana:portugala:margarina, rusa:маргарин (margarín), turka:margarin, hindia:मार्जरीन (mārjarīn), malaja:marjerin, mandarena:麦淇淋 (màiqílín), japana:マーガリン (māgarin)  
 **margarita** ** ← hispana:portugala:margarita, franca:marguerite, deu:Margerite, rusa:маргаритка (margaritka)  
 **Maris** ** ← greka:Άρης (Áris), angla:franca:turka:Mars, hispana:portugala:Marte, rusa:Марс (Mars) + araba: اَلْمِرِّيخ‎ (al-mirrīkh), svahila:Mirihi, malaja:Mars; Marikh  
 **marke** ** ← angla:mark, hispana:portugala:marca, franca:marque, korea:마크 (makeu), japana:マーク (māku)  
@@ -1347,6 +1347,7 @@
 **sen** ** ← angla:franca:malaja:senior, hispana:señor, portugala:sênior + mandarena:先辈 (xiānbèi), japana:先輩 (senpai), korea:선배 (seonbae)  
 **seng** ** ← mandarena:生 (shēng), kantona:生, japana:生 (sei), korea:생 (saeng), vjetnama:sống  
 **sense** *sentumo* ← angla:sense, hispana:portugala:sentido, franca:sens  
+**senseng** ** ← mandarena:先生 (xiānshēng), kantona:先生 (sin1saang1), japana:先生 (sensei), korea:선생 (seonsaeng), vjetnama:tiên sinh, malaja:sinse, taja:ซินแส (sin-see), angla:sensei  
 **sento** *cent* ← franca:cent, hispana:cien, portugala:cem, itala:cento, angla:cent-, hindia:शत (śat), bengala:শত (śôt)  
 **ser** *ĉenero* ← angla:series, franca:série, hispana:serie, rusa:серия (seriya), turka:seri + araba:(silsila), persa: سلسله‎ (selsele), hindia:सिलसिला (silsilā), tur:silsile, svahila:silisili, haŭsa:sasari + mandarena:系列 (xìliè) + korea:사슬 (saseul)  
 **serami** ** ← angla:ceramic, hispana:cerámica, portugala:cerâmico, franca:céramique, rusa:керамика (keramika), bengala:সিরামিক (sirāmika), turka:mel:seramik  
@@ -1561,7 +1562,7 @@
 **virge** *virga (virgulo)* ← angla:virgin, franca:vierge, hispana:virgen, portugala:virgem  
 **virus** ** ← angla:hispana:franca:malaja:virus, portugala:vírus, rusa:вирус (virus), turka:virüs, hindia:वाइरस (vāirasa), japana:ウイルス (uirusu)  
 **vise** *vic-* ← angla:franca:hispana:portugala:vice-, rusa:вице- (vitse-), deu:vize-  
-**vita** ** ← franca:vis, itala:vite, rusa:винт (vint), turka:vida  
+**vita** *ŝraubo* ← franca:vis, rusa:винт (vint), turka:vida, vjetnama:vít  
 **vitamin** ** ← angla:malaja:vitamin, franca:vitamine, hispana:portugala:vitamina, rusa:витамин (vitamin), mandarena:维他命 (wéitāmìng), japana:ビタミン (bitamin), korea:비타민 (bitamin), vjetnama:vi ta min, hindia:विटामिन (viṭāmin), bengala:ভিটামিন (bhiṭamin), araba: فِيتَامِين‎ (fitamīn), haŭsa:bitamin  
 **viza** ** ← angla:hispana:franca:malaja:visa, rusa:виза (viza), turka:vize, svahila:viza, araba:فِيزَا‎ (fīzā), persa:ویزا‎ (vizâ), hindia:वीज़ा (vīzā), bengala:ভিসা (bhiśa), japana:ビザ (biza), korea:비자 (bija)  
 **vizite** *viziti* ← mandarena:客 (kè), vua:客 (ka’), japana:客 (kyaku), korea:객 (gaek), vjetnama:khách, taja:แขก (khæk)  
@@ -1602,9 +1603,8 @@
 **xenon** *ksenono* ← angla:xenon, franca:xénon, hispana:xenón, portugala:xénon, rusa:ксенон, mandarena:氙 (xiān), japana:キセノン, korea:크세논, vjetnama:xenon, hindia:ज़ेनान, bengala:জেনন, malaja:xenon, svahila:zenoni, araba: إكسينون  
 **xi** ** ← mandarena:氏 (shì), kantona:氏 (si6), japana:氏 (-shi), korea:씨 (ssi) + malaja:si + hindia:श्री (śrī), bengala:শ্রী  (śri)  
 **xia** ** ← araba: شِيعَة (šīʿa), heb: סִיעָה (si'á) + mandarena:系 (xì)  
-**xifu** ** ← angla:franca:sifu, rusa:шифу (shifu), mandarena:师傅 (shīfu), kantona:師傅 (si1 fu6)  
 **xigu** *akcidento* ← mandarena:事故 (shìgù), kantona:事故 (si6gu3), japana:事故 (jiko), korea:사고 (sago), vjetnama:sự cố + araba: شِقْوَة (šiqwa)  
-**xikaya** *plendo* ← araba: شِكَايَة‎ (šikāya), hindia:शिकायत (śikāyat), persa: شکایت‎ (šekâyat), turka:şikayet + franca:chicaya  
+**xikaye** *plendo* ← araba: شِكَايَة‎ (šikāya), hindia:शिकायत (śikāyat), persa: شکایت‎ (šekâyat), turka:şikayet + franca:chicaya, hispana:achaque  
 **xike** ** ← angla:franca:hispana:chic, portugala:chique, rusa:шикарный (shikarnyy), turka:şık, persa:شیک‎  (šik), japana:シック (shikku)  
 **xim** *koro* ← mandarena:心 (xīn), kantona:心 (sam1), hakaa:心 (sîm),  japana:心 (shin), korea: 심 (shim), vjetnama:tim  
 **xindau din** ** ← japana:神道 (shintō), korea:신도 (sindo), mandarena:神道 (shéndào)  
@@ -1674,6 +1674,6 @@
 **zoku** *ankoraŭ* ← vua:续 (zoq), kantona:續 (zuk6), japana:続 (zoku), korea:속 (sok), vjetnama:kế tục  
 **zombi** ** ← konga:nzambi, angla:zombie, hispana:turka:zombi, portugala:zumbi, rusa:зомби (zombi), araba:زُومْبِي‎ (zūmbī), hindia:ज़ोंबी (zombī), japana:ゾンビ (zonbi), korea:좀비 (jombi)  
 **zone** *zono* ← greka:ζώνη (zónē), angla:franca:zone, hispana:portugala:zona, rusa:зона (zona)  
-**zukam** ** ← araba:زُكَام‎ (zukām), hindia:ज़ुकाम (zukām) + mandarena:感(冒) (gǎn(mào)), japana:感(冒) (kan(bō)), korea:감(기) (gam(gi)), vjetnama:cảm  
+**zukam** *malvarmumo* ← araba:زُكَام‎ (zukām), hindia:ज़ुकाम (zukām) + mandarena:感(冒) (gǎn(mào)), japana:感(冒) (kan(bō)), korea:감(기) (gam(gi)), vjetnama:cảm  
 **Zukra** ** ← araba: الزُّهَرَة‎ (az-zuhara), svahila:Zuhura, haŭsa:Zaharatu, turka:Zühre, persa: زهره‎ (zohre), urdua: زہرہ‎ (zuhra), malaja:Zuhrah + hindia:शुक्र (śukra), bengala:শুক্র (śukr), birma:သောကြာ (sau:kra), taja:ศุกร์ (sùk)  
 **zuku** *etno* ← mandarena:族 (zú), kantona:族 (zuk6), japana:族 (zoku), korea:족 (jok), vjetnama:tộc  

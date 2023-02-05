@@ -1361,6 +1361,7 @@ mar - fois
 Marakux - Marrakech  
 marce - marche  
 margai - margay (chat-tigre)  
+margarin - margarine  
 Maris - Mars  
 marisden - mardi  
 marke - trace  
@@ -2194,7 +2195,8 @@ vilde - sauvage
 violeta nil - violet (pourpre)  
 virus - virus  
 virge - vierge  
-vise raja - vice-roi  
+vise reger - vice-roi  
+vita - vis  
 vitamin - vitamine  
 Vixnu - Vishnou  
 vo - ce...lá  
@@ -2236,7 +2238,7 @@ xefe - chef
 xenon - xénon  
 xia - faction (clique)  
 xia islam din - chiisme  
-xikaya - plainte (lamentation)  
+xikaye - plainte (lamentation)  
 xilos - xylose  
 xing - étoile  
 xipi - mouillé  
@@ -2326,6 +2328,7 @@ zirkonium - zirconium
 zoku - continuer (poursuivre, encore)  
 zombi - zombi  
 zone - zone  
+zukam - rhume  
 Zukra - Vénus  
 zukraden - vendredi  
 zuku - ethnie  

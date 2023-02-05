@@ -1246,6 +1246,7 @@ marche - marce
 marcher - grese  
 marché (bazar) - bazar  
 mardi - marisden  
+margarine - margarin  
 margay (chat-tigre) - margai  
 marguerite - baku margarite  
 mariage - gamia  
@@ -1622,7 +1623,7 @@ piège - kape truke
 placard - almari  
 place - medan  
 plaine - plate stan  
-plainte (lamentation) - xikaya  
+plainte (lamentation) - xikaye  
 plaire - sukafa  
 plan - plan  
 planche - moka bano  
@@ -1806,6 +1807,7 @@ reste - baki
 retourner (revenir) - be retro  
 Rhin - Ren  
 rhodium - rodium  
+rhume - zukam  
 rhythme - ritim  
 rhénium - renium  
 riche - rike  
@@ -2185,7 +2187,7 @@ verser - fa verse
 vert - luga  
 veuve - vidua  
 viande - karne  
-vice-roi - vise raja  
+vice-roi - vise reger  
 vide - hali  
 vierge - virge  
 vieux (ancien) - prezaman di  
@@ -2198,6 +2200,7 @@ vin de riz - varis vin
 violet (pourpre) - violeta nil  
 virgule - koma  
 virus - virus  
+vis - vita  
 visage - muka  
 viser (direction, cible; objectif) - dike  
 viser - dike  

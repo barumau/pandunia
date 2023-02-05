@@ -92,7 +92,7 @@ air - air
 airforce - air ordu  
 airplane - fei gi  
 airport (aeroport) - air porto  
-Aland Islands - Olande nesi  
+Aland Islands - Olande nesia  
 Alaska - Alaska  
 Albania - cipe  
 alcohol - alkol  
@@ -859,7 +859,7 @@ Coca-Cola - Koka Kola
 cocktail - mixe alkol  
 cocoa - kakau  
 coconut tree - yezi  
-Cocos (Keeling) Islands - Kokos nesi  
+Cocos (Keeling) Islands - Kokos nesia  
 cod - bakalau  
 code (cipher) - kode  
 coerce (use force, compel) - fa paka  
@@ -912,7 +912,7 @@ compatible (supported) - kon funsibil
 compatriot (fellow citizen) - konpatrian  
 compatriot - sam gogia jen  
 compete (have a match) - fa mece  
-complain (lament) - xikaya  
+complain (lament) - xikaye  
 complete (make done) - pul fina  
 complicated - konplike  
 component - konpozaje  
@@ -2214,7 +2214,7 @@ irony - ironi
 Islam - islamisme  
 islamophobia - islamofobia  
 island - nese  
-Isle of Man - Manin nesi  
+Isle of Man - Manin nese  
 Israel - Israel  
 issue (affair, concern) - sual tema  
 Italy - Italia  
@@ -2627,7 +2627,7 @@ married - gamike
 marry - fa gami  
 Mars - Maris  
 marsh (bog, swamp, morass) - poto stan  
-Marshall Islands - Marxal nesi  
+Marshall Islands - Marxal nesia  
 martial art - jang suta  
 mask (camouflage) - maska  
 mason (stonemason, stonecutter) - seku saner  
@@ -2636,7 +2636,7 @@ massage - masaje
 mast - masta  
 master (be an expert at sth) - maste  
 master (expert) - master  
-master (sensei, sifu) - xifu  
+master (sensei, sifu) - senseng  
 Master of Arts - master de arte (MA)  
 Master of Engineering - master de engenia (ME)  
 Master of Philosophy - master de filsofia (MF)  
@@ -2984,7 +2984,7 @@ nobody (no-one) - siro jen
 noise - kelele  
 noodle - mien  
 noon (midday) - medi dia  
-Norfolk Island - Norfolke nesi  
+Norfolk Island - Norfolke nese  
 norm (standard) - norma  
 normal - norma di  
 north - norde  
@@ -2993,7 +2993,7 @@ North Korea (Democratic People’s Republic of Korea) - Norde cosen
 Northen Cyprus - Norde Kipris  
 northern - norde di  
 Northern Ireland - Norde Aire  
-Northern Mariana Islands - Mariana nesi  
+Northern Mariana Islands - Mariana nesia  
 Norway - Norge  
 Norwegian language - norge baxa  
 nose - nos  
@@ -3141,7 +3141,7 @@ outward (external) - extre
 oven (furnace) - tanur  
 overflow (spill out) - vai dara  
 overpass - supra  
-overwrite - vise kitaba  
+overwrite - vise kitabe  
 own (personal, private) - prive  
 own (possess) - fa mal  
 own - se su  
@@ -3267,7 +3267,7 @@ pen (writing tool) - kalam
 penal (penetenciary) - fatu di  
 pencil - karbe kalam  
 penguin - pinguin  
-peninsula - yaki nesi  
+peninsula - yaki nese  
 penis (phallus) - penis  
 pentagon - lima gona  
 pentahedron (prism) - lima fase  
@@ -3353,7 +3353,7 @@ piss (urine) - pixe
 pistol - pistol  
 piston - pompe tape  
 piston - puxa gi  
-Pitcairn Islands - Pitkerne nesi  
+Pitcairn Islands - Pitkerne nesia  
 pixel - grafeme  
 pizza - piza  
 pizzeria - pizaria  
@@ -3504,7 +3504,7 @@ print (stamp) - cape
 prison (imprisonment) - jela  
 prison (jail) - jelakan  
 prisoner - jela jen  
-pristine (virginal) - virge di  
+pristine (virginal) - virgal  
 privateer (buccaneer) - nave kaper  
 privatize - privatize  
 problem (issue) - problem  
@@ -3532,7 +3532,7 @@ Prometheus - Promete
 promethium - prometium  
 promise (pledge) - fa vode  
 promise (vow, oath) - vode  
-pronoun - vise loga  
+pronoun - vise lexe  
 pronounce (articulate) - fa fon  
 pronounce (articulate) - fonologe  
 proof (evidence, proof, demonstration, testimony) - dalil  
@@ -3961,7 +3961,7 @@ sex - sexu
 sexology - sexulogia  
 sexual (pertaining to gender) - sexual  
 sexy (sexually arousing) - sexe di  
-Seychelles - Sexel nesi  
+Seychelles - Sexel nesia  
 shadow - saya  
 shake (jolt, earthquake) - sisme  
 shaman - xaman  
@@ -4096,7 +4096,7 @@ soily (dirty) - darti di
 solar system - sol sistem  
 soldier - ordu jen  
 solid - gati mate  
-Solomon Islands - Solomon nesi  
+Solomon Islands - Solomon nesia  
 solstice - solostate  
 Somalia - Somal  
 Somaliland - Somal Dexa  
@@ -4122,7 +4122,7 @@ souteneur (pimp) - sutener
 south - sude  
 South Africa - Sude Afrika  
 South America - Sude Amerika  
-South Georgia and the South Sandwich Islands - Sude Jorjia i Sude Sanduice nesi  
+South Georgia and the South Sandwich Islands - Sude Jorjia e Sude Sanduice nesia  
 South Korea (Republic of Korea) - Sude cosen  
 South Ossetia (Alania) - Sude Iria (Alonia)  
 South Sudan - Sude Sudan  
@@ -4410,7 +4410,7 @@ that (conjunction) - ki
 that is (in other words, i.e., alias) - alo nam  
 that over there - vo  
 the (that) - la  
-the Grenadines - Grenadin nesi  
+the Grenadines - Grenadin nesia  
 theatrical (dramatic) - dramatike  
 theft - core  
 their - damen su  
@@ -4459,7 +4459,7 @@ tighten - fa tense
 tikka masala - masala tike  
 tile - tegule  
 tilt (skew) - fa terca  
-time (number of times) - mar  
+time (instance, occurrence, number of times) - mar  
 time - zaman  
 Timor - Timor  
 tin - estan  
@@ -4687,7 +4687,7 @@ very - tre
 vial (phial, flask) - xixa  
 vice (deputy, alternative, substitute, replacement) - vise  
 vice-president - vise prezidente  
-viceroy - vise raja  
+viceroy - vise reger  
 victory to Pandunia! - jai pandunia!  
 Viet Nam - Viete  
 Vietnamese language (Viet) - viete baxe  
@@ -4699,7 +4699,7 @@ vinegar - vin suan
 vineyard - putau bagi  
 vinyl - vinil  
 virgin (pristine, virginal; Virgo) - virge  
-Virgin Islands, US - Virgin nesi  
+Virgin Islands, US - Virgin nesia  
 virology - virologia  
 virtue (morals) - bon moral  
 virtuous - bon moral di  
@@ -4731,7 +4731,7 @@ Wales (Cambria) - Kamri
 walk (march) - fa marce  
 walk (march) - marce  
 wall (structure for delimitation) - mur  
-Wallis and Futuna Islands - Valis i Futuna nesi  
+Wallis and Futuna Islands - Valis e Futuna nesia  
 wallpaper - mur kaguji  
 waltz - valse  
 want (desire, wish) - vol  

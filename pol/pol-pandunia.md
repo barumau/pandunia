@@ -935,9 +935,9 @@
  - viki  
  - viki pedia  
  - violeta  
+ - virgal  
  - virge  
- - virge di  
- - vise kitaba  
+ - vise kitabe  
  - vise ma  
  - vise pa  
  - viski  
@@ -953,7 +953,7 @@
  - xi  
  - xi Fulan  
  - xia  
- - xikaya  
+ - xikaye  
  - xilitol  
  - xilos  
  - xiu deha  
@@ -1610,7 +1610,6 @@ Czarnogóra - cernagora
 czarny - kala  
 czas - zaman  
 czas (epoka, era) - dura zaman  
-czas; okazja - mar  
 czasownik - kar lexi  
 czaszka - kapa oste  
 czek - ceke  
@@ -1976,7 +1975,7 @@ grać, odgrywać rolę - dramate
 Grecja - Helen  
 grejpfrut - putau orange  
 Grenada - Grenada  
-Grenadyny - Grenadin nesi  
+Grenadyny - Grenadin nesia  
 Grenlandia - Kalal  
 grillować - kababu  
 grom, huk - grom  
@@ -2669,7 +2668,7 @@ maraton - maraton
 marchew - karote  
 margaj (ocelot nadrzewny) - margai  
 margaryna - margarin  
-Mariany Północne - Mariana nesi  
+Mariany Północne - Mariana nesia  
 marmur - kalsobilor  
 Maroko - Magribia  
 Mars - Maris  
@@ -2769,7 +2768,7 @@ minąć, mijać, przeminąć, przemijać - pas
 miraż (fatamorgana) - miraje  
 misjonarz - misioner  
 mistrz (ekspert) - master  
-mistrz (sensei) - xifu  
+mistrz (sensei) - senseng  
 mit (boska opowieść) - deokata  
 miód - medu  
 mięczak (morski bezkręgowiec) - moluske  
@@ -2993,7 +2992,7 @@ niuton (N) - niuton
 nobel - nobelium  
 noc - noce  
 noga - fute xaka  
-Norfolk - Norfolke nesi  
+Norfolk - Norfolke nese  
 norma, standard - norma  
 normalny, standardowy - norma di  
 Norwegia - Norge  
@@ -3285,7 +3284,7 @@ pirotechnika - hogo tehni
 pismo, tekst - kitaba  
 pistolet - pistol  
 pistolet, strzelba, ręczna broń palna - pau gi  
-Pitcairn - Pitkerne nesi  
+Pitcairn - Pitkerne nesia  
 piwo - bir  
 piwonia - mudan  
 pizza - piza  
@@ -3615,7 +3614,7 @@ półka (regał na książki) - lipa bano
 północ - mide noce  
 północ - norde  
 północny - norde di  
-półwysep - yaki nesi  
+półwysep - yaki nese  
 później (w przyszłości) - a pos  
 pękać (rozrywać się) - parce kai  
 pęknięcie - krake  
@@ -3662,6 +3661,7 @@ raportować, relacjonować, opowiadać - fa reporte
 rasa - rase  
 rasista - rasiste  
 rasizm - rasisme  
+raz - mar  
 raz (jeden raz) - un mar  
 razem (wspólnie) - a kon  
 rdzeń (jądro, pestka) - kerne  
@@ -3815,7 +3815,7 @@ Saint Kitts i Nevis - Sante Kitse i Nevis
 Saint Lucia - Sante Lucia  
 Saint Vincent - Sante Vincente  
 Saint Vincent and Grenadines - Sante Vincente i Grenadin  
-Saint Vincent i Grenadyny - Valis i Futuna nesi  
+Saint Vincent i Grenadyny - Valis e Futuna nesia  
 sala - sala  
 Salwador - Salvador  
 sam, siebie - se  
@@ -3857,7 +3857,7 @@ ser - keze
 Serbia - Serbia  
 serce - xim  
 seria, szereg - seria  
-Seszele - Sexel nesi  
+Seszele - Sexel nesia  
 sezam - sesam  
 sfermentowany - bio mute di  
 shintoizm, sintoizm - xindau din  
@@ -4428,7 +4428,7 @@ wiadukt, przejście powyżej - supra
 wiatr - hava  
 wiatrak (wentylator) - sanzi  
 wice- (alternatywa, substytut, zastępstwo) - vise  
-wicekról - vise raja  
+wicekról - vise reger  
 wiceprezydent - vise prezidente  
 widelec - forke  
 widok, wzrok - vidaje  
@@ -4572,14 +4572,14 @@ wyrzutnia rakietowa - rakete lanser
 wysoki - gau di  
 wysokość - gauta  
 wyspa - nese  
-Wyspa Man - Manin nesi  
-Wyspy Alandzkie - Olande nesi  
+Wyspa Man - Manin nese  
+Wyspy Alandzkie - Olande nesia  
 Wyspy Cooka - Kuke nesia  
-Wyspy Dziewicze USA - Virgin nesi  
-Wyspy Georgia Południowa i Sandwich Południowy - Sude Jorjia i Sude Sanduice nesi  
-Wyspy Kokosowe - Kokos nesi  
-Wyspy Marshalla - Marxal nesi  
-Wyspy Salomona - Solomon nesi  
+Wyspy Dziewicze USA - Virgin nesia  
+Wyspy Georgia Południowa i Sandwich Południowy - Sude Jorjia e Sude Sanduice nesia  
+Wyspy Kokosowe - Kokos nesia  
+Wyspy Marshalla - Marxal nesia  
+Wyspy Salomona - Solomon nesia  
 Wyspy Zielonego Przylądka (Republika Zielonego Przylądka) - Kabu Verde  
 Wyspy Świętego Tomasza i Książęca - Sante Tome i Principe  
 wystarczający - bas  
@@ -4642,7 +4642,7 @@ zacząć, zaczynać - fa xuru
 zagranica - exgogia  
 zagraniczny - exgogike  
 zagrożenie, niebezpieczeństwo - hatar  
-zaimek - vise loga  
+zaimek - vise lexe  
 zainteresowanie, zaciekawienie; interesujący - san vol  
 zajęty - haste  
 zajęty - mang  

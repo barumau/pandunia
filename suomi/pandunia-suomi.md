@@ -1688,7 +1688,7 @@ gran - jyvänen (hiukkanen)
 granite - graniitti  
 grave - sora  
 Grenada - Grenada  
-Grenadin nesi - Grenadiinit  
+Grenadin nesia - Grenadiinit  
 grese - harpata (harppoa, käydä)  
 • agrese - käydä päälle (käydä kimppuun; päällekarkaus, aggressio)  
 • agresive - päällekäyvä (aggressiivinen)  
@@ -2318,7 +2318,7 @@ kode - koodi
 koda - häntä  
 koka - kooka  
 koko - kana  
-Kokos nesi - Kookossaaret  
+Kokos nesia - Kookossaaret  
 kola - koola  
 kola frute - koolapähkinä  
 kola jus - colajuoma  
@@ -2663,7 +2663,7 @@ mangus - mangostani
 Mani - profeetta Mani  
 mani - mania  
 mani din - manikealaisuus  
-Manin nesi - Manin saari  
+Manin nese - Manin saari  
 manioka - kassava (maniokki)  
 manioka fufu - tapioka  
 manite - magneetti  
@@ -2679,7 +2679,7 @@ margarin - margariini
 Maris - Mars  
 marisden - tiistai  
 marke - merkki (jälki)  
-Marxal nesi - Marshall-saaret  
+Marxal nesia - Marshall-saaret  
 masa - massa  
 masaje - hieronta  
 masala - mauste  
@@ -3071,7 +3071,7 @@ Norde cosen - Pohjois-Korea
 norde di - pohjoinen  
 Norde Kipris - Pohjois-Kypros  
 Norde Makedonia - Makedonia  
-Norfolke nesi - Norfolkin saaret  
+Norfolke nese - Norfolkin saaret  
 Norge - Norja  
 norge baxa - norjalainen  
 norma - normi  
@@ -3102,7 +3102,7 @@ oganeson - oganesson
 ohtopus - mustekala  
 oke - hyväksyä (hyväksyntä, OK)  
 okebil - kelpo (kohtalainen, okei)  
-Olande nesi - Ahvenanmaa (Oolanti)  
+Olande nesia - Ahvenanmaa (Oolanti)  
 Oman - Oman  
 onda - aalto (laine)  
 Onduras - Honduras  
@@ -3327,7 +3327,7 @@ pirateria - merirosvous
 piratisme - piraatti (joka ei kunnioita tekijänoikeuksia)  
 pirate partia - piraattipuolue  
 pistol - pistooli  
-Pitkerne nesi - Pitcairn  
+Pitkerne nesia - Pitcairn  
 pixe - virtsa (pissa, kusi)  
 piza - pitsa (pizza)  
 pizaria - pitseria  
@@ -3698,6 +3698,7 @@ semente - sementti
 senater - senaattori  
 sen bei - vanhempi toveri  
 sen bra - isoveli  
+senseng - mestari (sensei)  
 sen sis - isosisko  
 Senegal - Senegal  
 seng - raaka (tuore)  
@@ -3721,7 +3722,7 @@ serve - palvelu (palvelus)
 server - palvelija (tarjoilija)  
 sesam - seesami  
 sexe di - seksikäs  
-Sexel nesi - Seychellit  
+Sexel nesia - Seychellit  
 sexu - sukupuoli  
 sexu - seksi (sukupuolisuhde)  
 sexual - sukupuolinen  
@@ -3782,7 +3783,7 @@ sol cati - aurinkovarjo
 solden - niedziela  
 sol sistem - aurinkokunta  
 solostate - päivänseisaus  
-Solomon nesi - Salomon-saaret  
+Solomon nesia - Salomon-saaret  
 Somal - Somalia  
 Somal Dexa - Somalimaa  
 son - poika  
@@ -4176,7 +4177,7 @@ vakilkratia - tasavalta
 vala - ammatinharjoittaja (niekka)  
 vali - laakso  
 vali susan - kielo  
-Valis i Futuna nesi - Wallis ja Futuna  
+Valis e Futuna nesia - Wallis ja Futuna  
 valse - valssi  
 valu - arvo  
 vampir - vampyyri  
@@ -4264,14 +4265,14 @@ violeta - orvokki
 violeta nil - violetti  
 virologia - virologia  
 virus - virus  
+virgal - neitseellinen (koskematon)  
 virge - neitsyt (neitseellinen, koskematon)  
-virge di - neitseellinen (koskematon)  
-Virgin nesi - Neitsytsaaret  
-vise loga - pronomini  
+Virgin nesia - Neitsytsaaret  
+vise lexe - pronomini  
 vise ma - äitipuoli (isän puoliso)  
 vise pa - isäpuoli (äidin puoliso)  
 vise prezidente - varapresidentti  
-vise raja - varakuningas  
+vise reger - varakuningas  
 viski - viski  
 vita - ruuvi  
 vitamin - vitamiini  
@@ -4351,8 +4352,8 @@ xi Fulan - se ja se
 xia - porukka (kuppikunta, lohko, siipi)  
 xia islam din - šiialaisuus  
 xigu - vahinko (onnettomuus)  
-xikaya - valitus (reklamaatio)  
 xike - elegantti  
+xikaye - valitus (reklamaatio)  
 xilos - ksyloosi (puusokeri)  
 xim - sydän  
 xindau din - sintolaisuus  
@@ -4400,7 +4401,7 @@ ya - kyllä
 Yahve - Jahve (Jehova)  
 yake - jakki  
 yaki - noin (arviolta, suunnilleen)  
-yaki nesi - niemi  
+yaki nese - niemi  
 yam - nauttia (syödä, juoda)  
 yam fito - kasvis  
 yam kamar - ruokasali  
@@ -4511,7 +4512,7 @@ zizi - sihistä
 zoku - vielä (yhä, jatkua)  
 zombi - zombi  
 zone - vyö  
-zukam - vilustuminen  
+zukam - nuhakuume (vilustuminen, flunssa)  
 Zukra - Venus  
 zukraden - perjantai  
 zuku - kansanryhmä (etninen ryhmä)  

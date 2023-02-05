@@ -30,7 +30,7 @@ agronomia (maatalous) - agronomia
 ahne - tami  
 ahnehtia - be tam  
 ahopäivänkakkara - baku margarite  
-Ahvenanmaa (Oolanti) - Olande nesi  
+Ahvenanmaa (Oolanti) - Olande nesia  
 aie (aikomus, tarkoitus) - nia  
 aihe (teema) - tema  
 aiheesta (-sta) - a tema de  
@@ -611,7 +611,7 @@ graafinen - grafike
 gramma - gram  
 graniitti - granite  
 Grenada - Grenada  
-Grenadiinit - Grenadin nesi  
+Grenadiinit - Grenadin nesia  
 grillata (kärventää) - kababu  
 Grönlanti - Kalal  
 Guadeloupe - Guadelupe  
@@ -1515,7 +1515,7 @@ koodata - fa kode
 koodi - kode  
 kooka - koka  
 kookos - yezi  
-Kookossaaret - Kokos nesi  
+Kookossaaret - Kokos nesia  
 koola - kola  
 koolapähkinä - kola frute  
 koominen (hauska) - humorike  
@@ -2096,7 +2096,7 @@ mangostani - mangus
 mangusti - mungus  
 mania - mani  
 manikealaisuus - mani din  
-Manin saari - Manin nesi  
+Manin saari - Manin nese  
 mannerlaatta - geo kaska plate  
 manteli - badam  
 mantra (messuta) - mantra  
@@ -2110,7 +2110,7 @@ Marokko - Magribia
 Marrakesh - Marakux  
 marraskuu - mes des un  
 Mars - Maris  
-Marshall-saaret - Marxal nesi  
+Marshall-saaret - Marxal nesia  
 massa - masa  
 masto (salko) - masta  
 masuuni - gau tanur  
@@ -2196,6 +2196,7 @@ messiaaninen - mesi di
 messias - mesi  
 messuta - fa mantra  
 mestari (asiantuntija) - master  
+mestari (sensei) - senseng  
 mestari (voittaja) - campion  
 metaani - metan  
 metafysiikka - metafizologia  
@@ -2387,9 +2388,9 @@ nauraa - haha
 Nauru - Nauru  
 nauta (lehmä) - mumu  
 nauttia (syödä, juoda) - yam  
-neitseellinen (koskematon) - virge di  
+neitseellinen (koskematon) - virgal  
 neitsyt (neitseellinen, koskematon) - virge  
-Neitsytsaaret - Virgin nesi  
+Neitsytsaaret - Virgin nesia  
 nekrofilia - nekrofilia  
 neli (kiitolaukka) - nelu di galope  
 neliö - nelu gona  
@@ -2413,7 +2414,7 @@ Nevis - Nevis
 newton (N) - niuton  
 niedziela - solden  
 niellä - gul  
-niemi - yaki nesi  
+niemi - yaki nese  
 Niger - Nijer  
 Nigeria - Nigeria  
 nihonium - niponium  
@@ -2443,7 +2444,7 @@ nopea (pikainen, vauhdikas) - suga
 nopeus (vauhti) - sugata  
 nopeusmittari - suga metri gi  
 noppa (arpakuutio) - zar kube  
-Norfolkin saaret - Norfolke nesi  
+Norfolkin saaret - Norfolke nese  
 Norja - Norge  
 norjalainen - norge baxa  
 normaali - norma di  
@@ -2461,6 +2462,7 @@ novelli - korte kata
 noviisi (uusikko, vasta-alkaja) - neu jen  
 nudismi - nudisme  
 nudisti - nudiste  
+nuhakuume (vilustuminen, flunssa) - zukam  
 nukke - pupe  
 nukkua - be sona  
 nukkuminen (uni) - sona  
@@ -2828,7 +2830,7 @@ piste (täplä) - punte
 pisteliäs (pikantti) - pin sense di  
 pistooli - pistol  
 pistää (piikittää) - fa pin  
-Pitcairn - Pitkerne nesi  
+Pitcairn - Pitkerne nesia  
 pitkittäinen - ging  
 pitkä - long  
 pitkäaikainen (pitkäkestoinen) - long dura di  
@@ -2931,7 +2933,7 @@ projektori (videotykki, piirtoheitin) - grafe lanse gi
 projektori (videotykki, piirtoheitin) - grafe projeter  
 Prometheus - Promete  
 prometium - prometium  
-pronomini - vise loga  
+pronomini - vise lexe  
 prosessori - proceser  
 protaktinium - protacinium  
 protestoida - proteste  
@@ -3260,7 +3262,7 @@ salama - eletrorade
 sali (halli) - sala  
 sallia (antaa lupa) - fa halal  
 sallittu (hyväksytty) - halal  
-Salomon-saaret - Solomon nesi  
+Salomon-saaret - Solomon nesia  
 salpa (säppi) - kane sor  
 sama (yhtäläinen) - sam  
 samanlainen - sam sifa di  
@@ -3364,7 +3366,7 @@ seurata (tulla perässä, tulla jäljessä) - fa pos
 seuraus - pos  
 seurustella (toimia yhdessä) - fa sosi  
 seutu (maa, alue) - tope  
-Seychellit - Sexel nesi  
+Seychellit - Sexel nesia  
 sianliha - goro karne  
 side (remmi) - faxe  
 side - bandaje  
@@ -4122,7 +4124,7 @@ vajaa - hipe
 valaistunut - budi di  
 valinnainen (optionaalinen) - otional  
 valita (valinta) - cun  
-valitus (reklamaatio) - xikaya  
+valitus (reklamaatio) - xikaye  
 valjaat - harnes  
 valkoinen (valkea) - baku  
 valkoinen riisi - baku varis  
@@ -4160,7 +4162,7 @@ vapaa - hure
 vapaus - huria  
 vapauttaa - huru di  
 vara- (korvike-) - vise  
-varakuningas - vise raja  
+varakuningas - vise reger  
 varapresidentti - vise prezidente  
 vararikossa - bankrute  
 varas - corer  
@@ -4284,7 +4286,6 @@ viljellä - agre
 viljely - agrokulte  
 villi (kesytön) - vilde  
 villi (villinä syntynyt) - ekonative  
-vilustuminen - zukam  
 vino - terca  
 vinyyli - vinil  
 violetti (liila) - lila rang  
@@ -4380,7 +4381,7 @@ väärä (epätosi, vale-) - false
 väärä (virheellinen) - galte di  
 Wales - Kamri  
 walesilainen - kamri  
-Wallis ja Futuna - Valis i Futuna nesi  
+Wallis ja Futuna - Valis e Futuna nesia  
 Washington DC - Vaxington DC  
 watti - vate  
 Wenzhou - Venzou  

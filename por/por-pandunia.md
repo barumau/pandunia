@@ -1130,6 +1130,7 @@ maravilha - mirabil
 marcha - marce  
 margarida - margarita  
 margarida-comum - englix margarita  
+margarina - margarin  
 margarita-maior - baku margarite  
 margem (borda) - kinar  
 marinha - bahai ordu  
@@ -1389,6 +1390,7 @@ par - par jen
 par - sam bei  
 para-lama - poto defa bano  
 parada de ônibus - bus halte  
+parafuso - vita  
 parceiro - partaner  
 parque - parke  
 parte - fen  
@@ -1582,7 +1584,7 @@ queijo - keze
 queijo fresco - panir  
 queimar - fa hogo  
 queimarse - be hogo  
-queixa (lamento, reclamação) - xikaya  
+queixa (lamento, reclamação) - xikaye  
 quem - ke jen  
 querer (desejar) - vol  
 querido (caro) - luba di  
@@ -1650,6 +1652,7 @@ representante - vakiler
 repórter - reporter  
 república - vakilkratia  
 reserva - rezerve  
+resfriado - zukam  
 resposta - javabu  
 resto - baki  
 reto - orto  
@@ -1963,7 +1966,7 @@ verruga - veruke
 verão - garma mosim  
 vestir - fa fuku  
 vez - mar  
-vice-rei - vise raja  
+vice-rei - vise reger  
 vidro - glas  
 vigia (sentinela) - garder  
 vinhedo - putau bagi  

@@ -1776,7 +1776,7 @@ gran - grain (particle)
 granite - granite  
 grave - gravel  
 Grenada - Grenada  
-Grenadin nesi - the Grenadines  
+Grenadin nesia - the Grenadines  
 grese - stride (march)  
 • agrese - attack (assault, aggression, hostility)  
 • agresive - aggressive  
@@ -2471,7 +2471,7 @@ koda - tail (coda)
 koka - coca  
 Koka Kola - Coca-Cola  
 koko - chicken  
-Kokos nesi - Cocos (Keeling) Islands  
+Kokos nesia - Cocos (Keeling) Islands  
 kola - kola  
 kola frute - kola nut  
 kola jus - cola  
@@ -2871,7 +2871,7 @@ mangus - mangosteen
 Mani - prophet Mani  
 mani - mania (abnormally high mood and arousal level)  
 mani din - Manichaeism  
-Manin nesi - Isle of Man  
+Manin nese - Isle of Man  
 manioka - cassava (manioc)  
 manioka fufu - tapioca  
 manite - magnet  
@@ -2879,7 +2879,7 @@ manitike - magnetic
 mantol - cape (cloak, mantle)  
 mantra - mantra (chant)  
 mantu - dumpling (ravioli, pelmeni)  
-mar - time (number of times)  
+mar - time (instance, occurrence, number of times)  
 Marakux - Marrakech  
 marati - Marathi  
 maraton - marathon  
@@ -2887,11 +2887,11 @@ marce - walk (march)
 margai - margay  
 margarin - margarine  
 margarita - daisy  
-Mariana nesi - Northern Mariana Islands  
+Mariana nesia - Northern Mariana Islands  
 Maris - Mars  
 marisden - Tuesday  
 marke - mark (trace)  
-Marxal nesi - Marshall Islands  
+Marxal nesia - Marshall Islands  
 masa - mass (quantity of matter)  
 masa mula - tuber (bulb)  
 masa mula sol hua - Jerusalem artichoke (sunroot)  
@@ -3344,7 +3344,7 @@ Norde cosen - North Korea (Democratic People’s Republic of Korea)
 norde di - northern  
 Norde Kipris - Northen Cyprus  
 Norde Makedonia - Republic of North Macedonia  
-Norfolke nesi - Norfolk Island  
+Norfolke nese - Norfolk Island  
 Norge - Norway  
 norge baxa - Norwegian language  
 norma - norm (standard)  
@@ -3379,7 +3379,7 @@ oganeson - oganesson
 ohtopus - octopus  
 oke - okay (acceptance; accept, say okay)  
 okebil - acceptable  
-Olande nesi - Aland Islands  
+Olande nesia - Aland Islands  
 Oman - Oman  
 onda - wave  
 Onduras - Honduras  
@@ -3637,7 +3637,7 @@ piratisme - pirate (one who disobeys intellectual property laws)
 pirate partia - Pirate Party  
 pisea - spruce tree  
 pistol - pistol  
-Pitkerne nesi - Pitcairn Islands  
+Pitkerne nesia - Pitcairn Islands  
 pixe - piss (urine)  
 piza - pizza  
 pizaria - pizzeria  
@@ -4074,6 +4074,7 @@ senater - senator
 sen bei - senior fellow (senpai)  
 sen bra - big brother (elder brother)  
 sen sau - elder sibling  
+senseng - master (sensei, sifu)  
 sen sis - big sister (elder sister)  
 Senegal - Senegal  
 seng - raw (crude, fresh)  
@@ -4103,7 +4104,7 @@ server - server (host machine)
 server nam - servername (hostname)  
 sesam - sesame  
 sexe di - sexy (sexually arousing)  
-Sexel nesi - Seychelles  
+Sexel nesia - Seychelles  
 sexu - sex (gender)  
 sexu - sex  
 sexual - sexual (pertaining to gender)  
@@ -4176,7 +4177,7 @@ sol hua - sunflower
 sol kentaur hua - yellow starthistle  
 sol sistem - solar system  
 solostate - solstice  
-Solomon nesi - Solomon Islands  
+Solomon nesia - Solomon Islands  
 Somal - Somalia  
 Somal Dexa - Somaliland  
 son - son  
@@ -4239,7 +4240,7 @@ Sude Amerika - South America
 Sude cosen - South Korea (Republic of Korea)  
 sude di - southern  
 Sude Iria (Alonia) - South Ossetia (Alania)  
-Sude Jorjia i Sude Sanduice nesi - South Georgia and the South Sandwich Islands  
+Sude Jorjia e Sude Sanduice nesia - South Georgia and the South Sandwich Islands  
 Sude Sudan - South Sudan  
 sueda - sweat (perspiration)  
 sueda di - sweaty  
@@ -4606,7 +4607,7 @@ vakilkratia - republic
 vala - practicioner (person in charge or employed in an area, -person, -man)  
 vali - valley  
 vali susan - lily of the valley  
-Valis i Futuna nesi - Wallis and Futuna Islands  
+Valis e Futuna nesia - Wallis and Futuna Islands  
 valse - waltz  
 valu - value (worth)  
 vampir - vampire  
@@ -4695,16 +4696,16 @@ violeta - pansy (violet, viola)
 violeta nil - purple (violet)  
 virologia - virology  
 virus - virus  
+virgal - pristine (virginal)  
 virge - virgin (pristine, virginal; Virgo)  
-virge di - pristine (virginal)  
-Virgin nesi - Virgin Islands, US  
+Virgin nesia - Virgin Islands, US  
 vise - vice (deputy, alternative, substitute, replacement)  
-vise kitaba - overwrite  
-vise loga - pronoun  
+vise kitabe - overwrite  
+vise lexe - pronoun  
 vise ma - step-mother  
 vise pa - step-father  
 vise prezidente - vice-president  
-vise raja - viceroy  
+vise reger - viceroy  
 viski - whisky (whiskey)  
 vita - screw  
 vitamin - vitamin  
@@ -4786,10 +4787,9 @@ xi - Mx. (Mr. or Ms.)
 xi Fulan - what's-his-name  
 xia - faction (clique)  
 xia islam din - Shia Islam (Shi’ism)  
-xifu - master (sensei, sifu)  
 xigu - accident (mishap)  
-xikaya - complain (lament)  
 xike - elegant (chic)  
+xikaye - complain (lament)  
 xilitol - xylitol  
 xilos - xylose (wood sugar)  
 xim - heart  
@@ -4842,7 +4842,7 @@ ya - yes
 Yahve - Yahweh (Jehovah)  
 yake - yak  
 yaki - about (approximately, nearly, almost)  
-yaki nesi - peninsula  
+yaki nese - peninsula  
 yam - consume (eat or drink)  
 yam fito - vegetable  
 yam kamar - dining room  
