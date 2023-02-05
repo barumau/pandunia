@@ -202,11 +202,11 @@ Kuten kiinassa, panduniassa ei tarvitse merkitä infiniittimuotoista verbiä, mi
 Panduniassa ja kiinassa sama substantiivimuoto käy sekä yksikössä että monikossa. Siis englannin kielen tapaista monikon päätettä (-s) ei ole. Molemmissa kielissä ei myöskään taivuteta verbejä persoona- eikä aikamuodoissa.
 
     Englanti:  It is an apple.
-    Pandunia:  da e aple.
+    Pandunia:  da es aple.
     Kiina:     Tā shì píngguǒ. (他是苹果。)
 
     Englanti:  They are apples.
-    Pandunia:  damen e aple.
+    Pandunia:  damen es aple.
     Kiina:     Tāmen shì píngguǒ. (他们是苹果。)
 
 

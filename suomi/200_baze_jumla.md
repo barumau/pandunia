@@ -106,28 +106,28 @@ Kiitos kun autoit minua.
 Ole hyvä. (Sanan mukaisesti: _Ei tarvitse kiittää._)
 
 
-### e <small>olla</small>
+### es <small>olla</small>
 
-**mi e Tomas.**
+**mi es Tomas.**
 Minä olen Tomas.
 
-**tu e Sara.**
+**tu es Sara.**
 Sinä olet Sara.
 
-**aple e frute.**
+**aple es frute.**
 Omena on hedelmä.
 
-<small>Sanan **e** lähteitä ovat
+<small>Sanan **es** lähteitä ovat
 ranskan *est* /ɛ/,
 portugalin *é*,
 hindin है /ɦɛ/.</small>
 
 ### mi <small>minä</small>
 
-**mi e Sara.**
+**mi es Sara.**
 Minä olen Sara.
 
-**mi e Tomas.**
+**mi es Tomas.**
 Minä olen Tomas.
 
 **mi sal mama.**
@@ -161,7 +161,7 @@ suahilin *mimi*.</small>
 
 ### tu <small>sinä</small>
 
-**tu e Tomas.**
+**tu es Tomas.**
 Sinä olet Tomas.
 
 **mi sal tu.**
@@ -187,13 +187,13 @@ lähteitä: venäjä: ты (ty), italia: tu, ranska: tu.</small>
 
 <p style="font-size:4em;">👥🗣️👉👤</p>
 
-**da e man.**
+**da es man.**
 Hän on mies.
 
-**da e fem.**
+**da es fem.**
 Hän on nainen.
 
-**da e aple.**
+**da es aple.**
 Se on omena.
 
 **da**
@@ -209,17 +209,17 @@ yleiskiinan 他/她 (tā).</small>
 
 ### sual <small>kysyä</small>
 
-**sual tu e Tomas?**
+**sual tu es Tomas?**
 Oletko sinä Tomas?
 
-**sual tu e davar?**
+**sual tu es davar?**
 Oletko lääkäri?
 
 Kyllä vai ei -kysymykset alkavat tavallisesti sanalla
 **sual**.
 Se on ihan tavallinen verbi eikä _kysymyspartikkeli_ kuten suomen -ko/-kö.
 Itse asiassa äskeinen kysymys on lyhennetty lauseesta
-**mi sual tu e davar**
+**mi sual tu es davar**
 (Minä kysyn: sinä olet lääkäri?), joka on lyhennetty jättämällä ensimmäinen sana pois.
 
 **sual tu bon?**
@@ -240,25 +240,25 @@ suahilin _swali_.</small>
 
 ### ya <small>kyllä</small>
 
-**sual tu e Tomas?**
+**sual tu es Tomas?**
 Oletko Tomas?
 
-**ya, mi e Tomas.**
+**ya, mi es Tomas.**
 Kyllä, olen Tomas.
 
-**sual da e davar?**
+**sual da es davar?**
 Onko hän lääkäri?
 
-**ya, da e davar.**
+**ya, da es davar.**
 Kyllä, hän on lääkäri.
 
 
 ### no <small>ei</small>
 
-**mi no e Sara.**
+**mi no es Sara.**
 Minä en ole Sara.
 
-**mi no e davar.**
+**mi no es davar.**
 Minä en ole lääkäri.
 
 **sual tu bon?**
@@ -309,13 +309,13 @@ Te tervehditte heitä.
 **damen sal mimen!**
 He tervehtivät meitä.
 
-**mimen e fem.**
+**mimen es fem.**
 Me olemme naisia.
 
-**tumen e man.**
+**tumen es man.**
 Te olette miehiä.
 
-**damen e aple.**
+**damen es aple.**
 Ne ovat omenoita.
 
 
@@ -325,47 +325,47 @@ Ne ovat omenoita.
 **ke?**
 Mitä?
 
-**tu e ke?**
+**tu es ke?**
 Kuka olet?
-**mi e Tomas.**
+**mi es Tomas.**
 Minä olen Tomas.
 
-**da e ke?**
+**da es ke?**
 Kuka hän on?
-**da e Sara.**
+**da es Sara.**
 Hän on Sara.
 
-**tumen e ke?**
+**tumen es ke?**
 Keitä te olette?
 
-**damen e ke?**
+**damen es ke?**
 Keitä he ovat?
 
 <small>Sanan **ke**
 lähteitä: espanja: qué, portugali: que, italia: che, bangla: কী "ki".</small>
 
 
-### ye i vo <small>tämä ja tuo</small>
+### ye e vo <small>tämä ja tuo</small>
 
-**ye e ke?**
+**ye es ke?**
 Mikä tämä on?
 
-**ye e aple.**
+**ye es aple.**
 Tämä on omena.
 
-**vo e ke?**
+**vo es ke?**
 Mikä tuo on?
 
-**vo e oranje.**
+**vo es oranje.**
 Tuo on appelsiini.
 
-**ye e rubi aple.**
+**ye es rubi aple.**
 Tämä on punainen omena.
 
-**ye aple e rubi.**
+**ye aple es rubi.**
 Tämä omena on punainen.
 
-**ye e rubi.**
+**ye es rubi.**
 Tämä on punainen.
 
 **damen a ke?**
@@ -380,16 +380,16 @@ Me olemme täällä.
 
 ### su <small>-n (genetiivipartikkeli)</small>
 
-**ye e ke?**
+**ye es ke?**
 Mikä tämä on?
 
-**da e mi su telefon.**
+**da es mi su telefon.**
 Se on minun puhelin.
 
-**ye e ke su?**
+**ye es ke su?**
 Kenen tämä on?
 
-**da e mi su.**
+**da es mi su.**
 Se on minun.
 
 Genetiivipartikkeli
@@ -401,13 +401,13 @@ tarkoittaa "minun",
 **tu su**
 tarkoittaa "sinun" jne.
 
-**da e ke?**
+**da es ke?**
 Kuka hän on?
 
-**da e mi su dosti.**
+**da es mi su doste.**
 Hän on minun ystävä.
 
-**mi e Sara su dosti.**
+**mi es Sara su doste.**
 Minä olen Saran ystävä.
 
 <small>Sanan **su**
@@ -416,16 +416,16 @@ lähteitä: englanti _'s_, afrikaans _se_, espanja _su_.</small>
 
 ### nam <small>nimi</small>
 
-**tu su nam e ke?**
+**tu su nam es ke?**
 Mikä sinun nimesi on?
 
-**mi su nam e Tomas.**
+**mi su nam es Tomas.**
 Minun nimeni on Tomas.
 
-**da su nam e ke?**
+**da su nam es ke?**
 Mikä hänen nimensä on?
 
-**da su nam e Sara.**
+**da su nam es Sara.**
 Hänen nimensä on Sara.
 
 <small>Sanan **name**
@@ -517,7 +517,7 @@ sisältää sekä syömisen että juomisen.
 Aluksi se saattaa tuntua oudolta, mutta oikeastaan se on kätevää,
 koska yleensä tekemisen kohde tarkentaa, onko kyse syömisestä, juomisesta vai molemmista.
 
-**mi yam kafe i pang.**
+**mi yam kafe e pang.**
 Minä nautin kahvia ja leipää.
 
 
@@ -611,10 +611,10 @@ Onko sinulla jano?
 **maf! mi no aha.**
 Anteeksi, minä en ymmärrä.
 
-**maf! ye e ke?**
+**maf! ye es ke?**
 Anteeksi, mikä tämä on?
 
-**maf. tu su nam e ke?**
+**maf. tu su nam es ke?**
 Anteeksi, mikä sinun nimi on?
 
 
@@ -680,7 +680,7 @@ Me puhumme toisillemme.
 **se loga "kissa" a ke yang a pandunia?**
 Miten sanotaan "kissa" panduniaksi?
 
-**"kissa" e ke a pandunia?**
+**"kissa" es ke a pandunia?**
 Mikä "kissa" on panduniaksi?
 
 **mau loga "miau".**
@@ -820,7 +820,7 @@ Matkustatko junalla?
 **mimen safar de London to Paris.**
 Me matkustamme Lontoosta Pariisiin.
 
-**safar e dai di long.**
+**safar es dai di long.**
 Matka on hyvin pitkä.
 
 
@@ -886,13 +886,13 @@ Minä odotan sinua hotellissa.
 
 ### zai <small>parhaillaan</small>
 
-**mi zai sal tu su dosti.**  
+**mi zai sal tu su doste.**  
 Minä olen tervehtimässä sinun ystävääsi.
 
 **la man ya zai vide un filme.**  
 Mies on katsomassa filmiä.
 
-**da zai e xefe.**  
+**da zai es xefe.**  
 Hän on päällikkö (parhaillaan).
 
 **da zai a dom.**  
@@ -901,13 +901,13 @@ Hän on parhaillaan kotona.
 
 ### pas <small>ennen</small>
 
-**mi pas sal tu su dosti.**  
+**mi pas sal tu su doste.**  
 Minä tervehdin sinun ystävääsi.
 
 **la man ya pas vide un filme.**  
 Mies katsoi elokuvaa.
 
-**da pas e xefe.**  
+**da pas es xefe.**  
 Hän oli ennen päällikkö.
 
 **da pas a dom.**  
@@ -916,13 +916,13 @@ Hän oli kotona.
 
 ### le <small>jo, valmiiksi</small>
 
-**mi le sal tu su dosti.**  
+**mi le sal tu su doste.**  
 Minä olen tervehtinyt ystävääsi.
 
 **la man le vide un filme.**  
 Mies on katsonut filmin.
 
-**da le e xefe.**  
+**da le es xefe.**  
 Hän on ollut päällikkö.
 
 **da le a la dom.**  
@@ -931,13 +931,13 @@ Hän on ollut kotona.
 
 ### xa <small>myöhemmin, jatkossa</small>
 
-**mi xa sal tu su dosti.**  
+**mi xa sal tu su doste.**  
 Minä tervehdin ystävääsi (jatkossa).
 
 **la man xa vide la filme.**  
 Mies tulee katsomaan filmin.
 
-**da xa e xefe.**  
+**da xa es xefe.**  
 Hän tulee olemaan päällikkö.
 
 **da xa a dom.**  

@@ -487,12 +487,12 @@ byłem, byliście, będziemy..._
 
     Polski:     To jest jabłko.
     Angielski:  It is an apple.
-    Pandunia:   da e aple.
+    Pandunia:   da es aple.
     Chiński:    Tā shì píngguǒ. (他是苹果。)
 
     Polski:     To są jabłka.
     Angielski:  They are apples.
-    Pandunia:   damen e aple.
+    Pandunia:   damen es aple.
     Chiński:    Tāmen shì píngguǒ. (他们是苹果。)
 
 

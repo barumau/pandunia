@@ -95,10 +95,10 @@ De nada.
 
 ### mi <small>eu</small>
 
-**mi e Sara.**
+**mi es Sara.**
 Eu sou Sara.
 
-**mi e Tomas.**
+**mi es Tomas.**
 Eu sou Thomaz.
 
 **mi sal mama.**
@@ -123,7 +123,7 @@ Saudações, pai!
 
 ### tu <small>você</small>
 
-**tu e Tomas.**
+**tu es Tomas.**
 Você é Tomás.
 
 **mi sal tu.**
@@ -145,13 +145,13 @@ Eu te amo.
 
 ### da <small>ele, ela ou isso</small>
 
-**da e man.**
+**da es man.**
 Ele é um homem.
 
-**da e fem.**
+**da es fem.**
 Ela é uma mulher.
 
-**da e aple.**
+**da es aple.**
 Isso é uma maçã.
 
 **da**
@@ -165,16 +165,16 @@ Eu o saúdo.
 
 ### sual <small>é usado para perguntar</small>
 
-**sual tu e Tomas?**
+**sual tu es Tomas?**
 Você é Thomaz?
 
-**sual tu e davar?**
+**sual tu es davar?**
 Você é médico?
 
 Ajuda: Perguntas com resposta sim ou não, geralmente
 comece com **sual**. É apenas um verbo regular, não uma _question tag_.
 Na verdade, a pergunta acima é uma simples abreviação de
-**mi sual tu e davar**
+**mi sual tu es davar**
 (eu pergunto, você é médico?), em que a primeira palavra é omitida.
 
 **sual tu bon?**
@@ -190,25 +190,25 @@ Não estou bem.
 
 ### ya <small>sim</small>
 
-**sual tu e Tomas?**
+**sual tu es Tomas?**
 Você é Thomaz?
 
-**ya, mi e Tomas.**
+**ya, mi es Tomas.**
 Sim, eu sou Thomaz.
 
-**sual da e davar?**
+**sual da es davar?**
 Ele/ela é médico?
 
-**ya, da e davar.**
+**ya, da es davar.**
 Sim, ele/ela é médico.
 
 
 ### no <small>não</small>
 
-**mi no e Sara.**
+**mi no es Sara.**
 Eu não sou Sara.
 
-**mi no e davar.**
+**mi no es davar.**
 Eu não sou médico.
 
 **sual tu bon?**
@@ -257,13 +257,13 @@ Você os cumprimenta.
 **damen sal mimen!**
 Eles nos cumprimentam!
 
-**mimen e fem.**
+**mimen es fem.**
 Nós somo mulherers.
 
-**tumen e man.**
+**tumen es man.**
 Vocês são homens.
 
-**damen e aple.**
+**damen es aple.**
 Essas são maçãs.
 
 
@@ -272,46 +272,46 @@ Essas são maçãs.
 **ke?**
 O que?
 
-**tu e ke?**
+**tu es ke?**
 Quem é?  
-**mi e Tomas.**
+**mi es Tomas.**
 Eu sou Tomas.
 
-**da e ke?**
+**da es ke?**
 Quem é ela?  
-**da e Sara.**
+**da es Sara.**
 Ela é Sara.
 
-**tumen e ke?**
+**tumen es ke?**
 Quem são vocês?
 
-**damen e ke?**
+**damen es ke?**
 Quem são eles?
 
 <small>Etimologia. **ke** vem do espanhol: qué, português: quê, italiano:
 che, bengali: কী (ki).</small>
 
-### ye i vo <small>isso e aquilo</small>
+### ye e vo <small>isso e aquilo</small>
 
-**ye e ke?**
+**ye es ke?**
 O que é isso?
 
-**ye e aple.**
+**ye es aple.**
 Isto é uma maçã.
 
-**vo e ke?**
+**vo es ke?**
 O que é isso?
 
-**vo e oranje.**
+**vo es oranje.**
 Isso é uma laranja.
 
-**ye e rubi aple.**
+**ye es rubi aple.**
 Isso é uma maçã vermelha.
 
-**ye aple e rubi.**
+**ye aple es rubi.**
 Esta maçã é vermelha.
 
-**ye e rubi.**
+**ye es rubi.**
 Este é vermelho.
 
 **damen a ke?**
@@ -339,16 +339,16 @@ Eu quero a maçã vermelha.
 
 ### su <small>(partícula possessiva)</small>
 
-**ye e ke?**
+**ye es ke?**
 O que é isso?
 
-**da e mi su telefon.**
+**da es mi su telefon.**
 É meu telefone.
 
-**ye e ke su?**
+**ye es ke su?**
 De quem é isso?
 
-**da e mi su.**
+**da es mi su.**
 É meu.
 
 Nota: A partícula possessiva
@@ -359,13 +359,13 @@ significa "meu",
 **tu su**
 significa "seu", e assim por diante.
 
-**da e ke?**
+**da es ke?**
 Quem é ela?
 
-**da e mi su dosti.**
+**da es mi su dosti.**
 Ele/ela é meu amigo.
 
-**mi e Sara su dosti.**
+**mi es Sara su dosti.**
 Eu sou amigo de Sara.
 
 <small>Etimologia. **su** vem de
@@ -374,16 +374,16 @@ Espanhol: su, Português: seu, Francês: son, Inglês: 's.</small>
 
 ### nam <small>nome</small>
 
-**tu su nam e ke?**
+**tu su nam es ke?**
 Qual é o seu nome?
 
-**mi su nam e Tomas.**
+**mi su nam es Tomas.**
 Meu nome é Thomas.
 
-**da su nam e ke?**
+**da su nam es ke?**
 Como se chama (ele/ela)?
 
-**da su nam e Sara.**
+**da su nam es Sara.**
 O nome dela é Sara.
 
 <small>Etimologia. **nam** vem de
@@ -472,7 +472,7 @@ abrange comer e beber.
 Pode parecer estranho no começo, mas logo você verá que é bastante útil.
 Normalmente o objeto do verbo diz se é para comer, beber ou ambos.
 
-**mi yam kafe i pang.**
+**mi yam kafe e pang.**
 Estou tomando café e pão.
 
 
@@ -558,10 +558,10 @@ Tens sede?
 **maf! mi no aha.**
 Desculpe, eu não entendo.
 
-**maf! ye e ke?**
+**maf! ye es ke?**
 Com licença, o que é isso?
 
-**maf. tu su nam e ke?**
+**maf. tu su nam es ke?**
 Com licença, qual o seu nome?
 
 
@@ -624,7 +624,7 @@ Nós conversamos um com o outro.
 **se loga "gato" a ke yang a pandunia?**
 Como se diz "gato" em Pandunia?
 
-**«gato» e ke a pandunia?**
+**«gato» es ke a pandunia?**
 O que é "gato" em Pandunia?
 
 **mau loga "miau".**
@@ -758,7 +758,7 @@ Você viaja de trem?
 **mimen safar de London to Paris.**
 Viajamos de Londres a Paris.
 
-**safar e dai di long.**
+**safar es dai di long.**
 A viagem é muito longa.
 
 

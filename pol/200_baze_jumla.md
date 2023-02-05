@@ -180,18 +180,18 @@ Czy on/ona jest lekarzem?
 Tak, on/ona jest lekarzem.
 
 
-### e <small>być</small>
+### es <small>być</small>
 
-**mi e Tomas.**
+**mi es Tomas.**
 Ja jestem Tomasz.
 
-**tu e Sara.**
+**tu es Sara.**
 Ty jesteś Sara.
 
-**aple e pal.**
+**aple es pal.**
 Jabłko jest owocem.
 
-Uwaga: Należy użyć **e**
+Uwaga: Należy użyć **es**
 w ostatnim zdaniu, bo bez niego wyglądałoby jak wyrażenie rzeczownikowe: **aple pal**
 (jabłkowy owoc).
 
@@ -199,10 +199,10 @@ w ostatnim zdaniu, bo bez niego wyglądałoby jak wyrażenie rzeczownikowe: **ap
 
 ### no <small>nie</small>
 
-**mi no e Sara.**
+**mi no es Sara.**
 Nie jestem Sara.
 
-**mi no e davar.**
+**mi no es davar.**
 Nie jestem lekarzem.
 
 **sual tu bon?**
@@ -237,13 +237,13 @@ Wy pozdrawiacie ich.
 **damen sal mimen!**
 Oni/One pozdrawiają nas.
 
-**mimen e fem.**
+**mimen es fem.**
 Jesteśmy kobietami.
 
-**tumen e man.**
+**tumen es man.**
 Jesteście mężczyznami.
 
-**damen e aple.**
+**damen es aple.**
 Są jabłkami.
 
 
@@ -255,18 +255,18 @@ Co?
 
 **tu ke?**
 Kim jesteś?
-**mi e Tomas.**
+**mi es Tomas.**
 Jestem Tomasz.
 
-**da e ke?**
+**da es ke?**
 Kim ona jest?
-**da e Sara.**
+**da es Sara.**
 Ona to Sara.
 
-**tumen e ke?**
+**tumen es ke?**
 Kim jesteście?
 
-**damen e ke?**
+**damen es ke?**
 Kim są?
 
 <small>Etymologia. **ke**
@@ -297,16 +297,16 @@ Jest czerwone.
 
 ### su <small>(partykuła dzierżawcza)</small>
 
-**ye e ke?**
+**ye es ke?**
 Co to jest?
 
-**ye e mi su fon.**
+**ye es mi su fon.**
 To mój telefon.
 
-**ye e ke su?**
+**ye es ke su?**
 Czyje to?
 
-**ye e mi su.**
+**ye es mi su.**
 To jest moje.
 
 Uwaga: Partykuła dzierżawcza **su**
@@ -314,13 +314,13 @@ jest umiejscawiana między właściciela i posiadaną rzecz, więc **mi su**
 znaczy "mój", **tu su**
 znaczy "twój" i tak dalej.
 
-**da e ke?**
+**da es ke?**
 Kim on/ona jest?
 
-**da e mi su dosti.**
+**da es mi su doste.**
 On/ona jest moim przyjacielem/przyjaciółką.
 
-**mi e Sara su dosti.**
+**mi es Sara su doste.**
 Jestem przyjacielem Sary.
 
 
@@ -421,7 +421,7 @@ Piję kawę.
 Porada: Znaczenie **yam**
 obejmuje i jedzenie i picie. Może się to na początku wydawać dziwne, ale niedługo zauważysz, że jesto dosyć poręczne! Zazwyczaj dopełnienie wyjaśnia, czy chodzi o jedzenie, picie czy oba.
 
-**mi yam kafe i pang.**
+**mi yam kafe e pang.**
 Spożywam kawę i chleb.
 
 
@@ -609,7 +609,7 @@ Mówimy do siebie.
 **se loga "kot" a ke yang a pandunia?**
 Jak się mówi "kot" w Panduni?
 
-**"kot" e ke a pandunia?**
+**"kot" es ke a pandunia?**
 Czym jest "kot" w Panduni?
 
 **mau loga "miau".**
@@ -750,7 +750,7 @@ Czy podróżujesz pociągiem?
 **mimen safar de London to Paris.**
 Podróżujemy z Londynu do Paryża.
 
-**safar e dai di long.**
+**safar es dai di long.**
 Podróż jest bardzo długa.
 
 

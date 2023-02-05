@@ -11,25 +11,25 @@ eikä taivuttamalla verbiä niin kuin suomen kielessä.
 
 Verbin subjekti ilmaisee sen persoonan ja luvun.
 Esimerkiksi, verbi
-**e**
+**es**
 ('olla') on samassa muodossa kaikissa persoonissa.
 
-**_mi_ e dosti.**
+**_mi_ es doste.**
 – Minä olen ystävä.  
-**_tu_ e dosti.**
+**_tu_ es doste.**
 – Sinä olet ystävä.  
-**_da_ e dosti.**
+**_da_ es doste.**
 – Hän on ystävä.  
-**_mimen_ e dosti.**
+**_mimen_ es doste.**
 – Me olemme ystäviä.  
-**_tumen_ e dosti.**
+**_tumen_ es doste.**
 – Te olette ystäviä.  
-**_damen_ e dosti.**
+**_damen_ es doste.**
 – He ovat ystäviä.
 
 Subjektina voi olla myös substantiivi.
 
-**mau e hevan.**
+**mau es hevan.**
 – Kissa on eläin.
 
 Subjektin ja verbin välissä on usein jokin kielioppisana merkitsemässä,
@@ -42,7 +42,7 @@ Väliin pantava merkki on yleensä partikkeli tai apuverbi, kuten
 joka selkeyttää lauseen rakennetta
 tuomatta siihen uutta asiasisältöä.
 
-**karote e tuzi yam.**
+**karote es tuzi yam.**
 – Porkkana on pupun ruokaa.  
 **tuzi _ya_ yam karote.**
 – Puput syövät porkkanoita.
@@ -120,7 +120,7 @@ ilmaisee, että toiminta on toistuvaluonteista.
 'saavuttaa'
 ilmaisee, että toiminta on loppunut mutta sen seuraukset ovat kuluvan hetken kannalta merkittäviä ja yhä voimassa.
 
-**da _le_ e guru.**
+**da _le_ es guru.**
 – Hän on ollut opettaja.  
 **mi no _le_ gul yo alkohol.**
 – Minä en ole juonut alkoholia.  
@@ -150,7 +150,7 @@ ilmaisee ohimennyttä toimintaa, jonka seuraukset eivät ole olennaisia.
 ('tulla tekemään')
 ilmaisee tulevaisuudessa tapahtuvaa toimintaa.
 
-**da _xa_ e guru.**
+**da _xa_ es guru.**
 – Hän tulee olemaan opettaja.  
 **mi no _xa_ gul bir.**
 – Minä en tule juomaan olutta.

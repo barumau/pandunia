@@ -77,9 +77,9 @@ ja pronomini
 **vo**
 osoittaa puhujasta kaukana oleviin asioihin.
 
-**ye e bon.**
+**ye es bon.**
 – Tämä (asia) on hyvä.  
-**vo e dus.**
+**vo es dus.**
 – Tuo (asia) on huono.  
 **mi vol ye buku, no vo.**
 – Minä haluan tämän kirjan, en tuota.

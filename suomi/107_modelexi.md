@@ -22,14 +22,14 @@ Monesti tällainen rakenne on luettavissa kokonaisena virkkeenä, jossa ei ole k
 
 **da neu.**
 – Se on uusi.  
-**gar (e) neu.**
+**gar (es) neu.**
 – Auto on uusi.  
-**bagre (e) suga.**
+**bagre (es) suga.**
 – Tiikeri on nopea.
 
 Luonnollisesti laatusanoja voi olla substantiivin kummallakin puolella.
 
-**neu kar (e) suga.**
+**neu kar (es) suga.**
 = Uusi auto on nopea.
 
 
@@ -130,9 +130,9 @@ Sekä adjektiiveja että adverbeja voi verrata.
 
 Pikkusana **ka** suhteuttaa vertailevan adverbin vertailtavaan asiaan.
 
-**aple e max bon ka oranje.**
+**aple es max bon ka oranje.**
 = Omenat ovat parempia kuin appelsiinit.  
-**oranje e min bon ka aple.**
+**oranje es min bon ka aple.**
 = Appelsiinit ovat vähemmän hyviä kuin omenat.  
 **tu loga par bon ka mi.**
 = Sinä puhut yhtä hyvin kuin minä.

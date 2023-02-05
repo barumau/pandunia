@@ -24,7 +24,7 @@ Przymiotnik może też być po rzeczowniku. Często ten typ wyrażeń może być
 
 Naturalnie, przymiotniki mogą być po obu stronach rzeczownika.
 
-**dai meza e gau.**
+**dai meza es gau.**
 – Duży stół jest wysoki.
 
 
@@ -58,9 +58,9 @@ Modyfikator może opisywać też inny modyfikator. Na przykład **dai** (duży) 
 **xiu di mei jen**
 – trochę ładna osoba
 
-Modyfikatory mogą być oddzielane **i** (i).
+Modyfikatory mogą być oddzielane **e** (i).
 
-**xiu i mei jen**
+**xiu e mei jen**
 – mała i ładna osoba
 
 
@@ -81,7 +81,7 @@ Modyfikatory mogą być porównane.
 
 Partykuła **ka** łączy przysłówki porównania z obiektem porównania.
 
-**mi e max bon ka tu**
+**mi es max bon ka tu**
 – Jestem lepszy od ciebie.  
 **tu loga par bon ka mi.**
 – Mówisz tak dobrze, jak ja.

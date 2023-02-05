@@ -35,20 +35,20 @@ Słowo **no** jes dodawane, by tworzyć przeczenie.
 
 Również dwa zaimki osobowe mogą być zestawione.
 
-**mi e da.**
+**mi es da.**
 – Ja jestem nim/nią.  
 **mi no tu.**
 – Ja Nie jestem tobą.
 
 #### Z podmiotem-rzeczownikiem
 
-Gdy podmiot jest rzeczownikiem, słowo **e** (tak) jest dodawane przed predykatem w zdaniach pozytywnych. Przeczenia używają **no**, jak wyżej.
+Gdy podmiot jest rzeczownikiem, słowo **es** (tak) jest dodawane przed predykatem w zdaniach pozytywnych. Przeczenia używają **no**, jak wyżej.
 
-**Sara e bon.**
+**Sara es bon.**
 – Sara jest dobra.  
-**ite e dai.**
+**ite es dai.**
 – Kamień jest duży.  
-**meza e neu.**
+**meza es neu.**
 – Stół jest nowy.  
 **meza no lau.**
 – Stół nie jest stary.
@@ -58,7 +58,7 @@ Gdy podmiot jest rzeczownikiem, słowo **e** (tak) jest dodawane przed predykate
 
 Ta sama zasada działa przy zdaniach z dwoma przymiotnikami.
 
-**jun e mei.**
+**jun es mei.**
 – Młode jest piękne.  
 **neu no lau.**
 – Nowe nie jest stare.
@@ -74,14 +74,14 @@ Zdania czynne używające czasownika kończącego się na **-a** mają szyk podm
 
 **mi yam aple.**
 – Ja jem jabłka.  
-**mi audi muzika.**
+**mi audi muzike.**
 – Ja słucham muzyki.  
 **mi vide tu.**
 – Ja widzę cię.
 
 Czasowniki kończące się na **-u** są użwane w szyku podmiot-dopełnienie-orzeczenie (SOV).
 
-**mi aple niamu.**
+**mi aple yam.**
 – _Ja jabłka jem._
 
 SOV i SVO są dwoma najpowszechniejszymi szykami zdania w językach świata. SOV jest używany w językach jak hindi-urdu, tamil, tureckim, japońskim i koreańskim. SVO jest używany w (między innymi) językach: angielskim, hiszpańskim, mandaryńskim, indonezyjskim i współczesnym arabskim.
@@ -203,13 +203,13 @@ Dochodzi do tego szczególnie w rozkazach i prośbach.
 
 ### Potwierdzenie
 
-Partykuła **e** potwierdza, a **no** przeczy. Inaczej, **e** oznacza "być", a **no** znaczy "nie być".
+Partykuła **es** potwierdza, a **no** przeczy. Inaczej, **es** oznacza "być", a **no** znaczy "nie być".
 
-Wyrażenia są domyślnie twierdzące, więc słowo **e** nie jest zawsze potrzebne. Jakkolwiek, jest szczególnie poręczne w wyrażaniu stanu.
+Wyrażenia są domyślnie twierdzące, więc słowo **es** nie jest zawsze potrzebne. Jakkolwiek, jest szczególnie poręczne w wyrażaniu stanu.
 
-**mi e jen.**
+**mi es jen.**
 – Ja jestem osobą.  
-**da e neu meza.**
+**da es neu meza.**
 – To jest nowy stół.
 
 ### Przeczenie
@@ -230,7 +230,7 @@ Słowo **no** jest używane do zaprzeczania czegokolwiek. Działa zawsze na nast
 **mi vide no tu ama damen.**
 – Ja widzę nie ciebie,ale ich.
 
-Partykuły **e** i **no** są używane też do odpowiadania na pytania.
+Partykuły **es** i **no** są używane też do odpowiadania na pytania.
 
 **sual tu vide mi?**
 – Czy widzisz mnie?  
@@ -294,7 +294,7 @@ Partykułami modyfikatorowymi mogą być tworzone również zdania podrzędne.
 
 Tutaj **ki** ma podobną rolę co polskojęzyczny zaimek _który_.
 
-**da e man _ki mi vide_.**
+**da es man _ki mi vide_.**
 – On jest człowiekiem_, którego widziałem_.
 
 Jeśli zdanie podrzędne nie ma podmiotu, ale zawiera dopełnienie (tj. jeśli orzeczenie jest przechodnie), rzeczownik z zdania nadrzędnego jest w domyśle podmiotem zdania podrzędnego.
@@ -442,9 +442,9 @@ Przyimek **ka** wyraża sposób lub styl. Odpowiada polskojęzycznym przyimkom _
 
 **ka** jest też używany, gdy porównywane są przymiotniki.
 
-**ben e min dai ka pa.**
+**ben es min dai ka pa.**
 – Dziecko jest mniejsze niż ojciec.
-**cin pa e par dai ka pa.**
+**cin pa es par dai ka pa.**
 – Dziadek jest tak duży jak ojciec.
 
 **ka** wiąże przysłówki porównania – **mas** (bardziej), **min** (mniej) i **par** (tak samo) – z punktem odniesienia, którym jest **papa** (ojciec) w powyższych przykładach.
@@ -491,11 +491,11 @@ Na przykład, chociaż **i** jest ogólnie wyżej niż **sabu**, tutaj jego zasi
 **sabu** jest na szczycie, bo łączy dwa zdania podrzędne.
 
 
-    yusef i Sara vol xula pandunia, sabu da e bon dunia baxa.
+    yusef i Sara vol xula pandunia, sabu da es bon dunia baxa.
 
                         sabu
                ┌──────────┴──────────┐
-              vol                    e
+              vol                    es
           ┌────┴──────┐           ┌──┴──┐
           i         xula        da    baxa
       ┌───┴───┐    ┌──┴────┐            |

@@ -10,38 +10,38 @@ hide:
 ### Dialog
 
 <big>☺</big>
-**tu e ke?**
+**tu es ke?**
 = Kim jesteś?  
 <big>☻</big>
-**mi e Yusef. tu e ke?**
+**mi es Yusef. tu es ke?**
 = Jestem Yusef. Kim jesteś?  
 <big>☺</big>
-**mi e Sara. da e ke?**
+**mi es Sara. da es ke?**
 = Jestem Sara. Kto to?  
 <big>☻</big>
-**da e mi su dosti.**
+**da es mi su dosti.**
 = To mój przyjaciel.  
 <big>☺</big>
-**da su nam e ke?**
+**da su nam es ke?**
 = Jak się nazywa?  
 <big>☻</big>
-**da su nam e Maria.**
+**da su nam es Maria.**
 = Nazywa się Maria.
 
 ### Gramatyka
 
-Zdania w Panduni normalnie podążają za strukturą temat-komentarz. Temat wskazuje,o kim lub o czym jest mowa. Komentarz mówi coś o temacie. Na przykład, w **da e mi su dosti** tematem jest zaimek **da** (on, ona, ono), za którym podąrza komentarz **e mi su dosti** (jest moim przyjacielem).
+Zdania w Panduni normalnie podążają za strukturą temat-komentarz. Temat wskazuje,o kim lub o czym jest mowa. Komentarz mówi coś o temacie. Na przykład, w **da es mi su dosti** tematem jest zaimek **da** (on, ona, ono), za którym podąrza komentarz **es mi su dosti** (jest moim przyjacielem).
 
-Słowo **e** znaczy _być_ w Pandunia. To samo słowo jest używane dla wszystkich osób. By powiedzieć przeciwnie, po prostu zamień je na **no** (które jest słowem na _nie_).
+Słowo **es** znaczy _być_ w Pandunia. To samo słowo jest używane dla wszystkich osób. By powiedzieć przeciwnie, po prostu zamień je na **no** (które jest słowem na _nie_).
 
-**da e Sara.**
+**da es Sara.**
 = Ona jest Sarą.  
-**da no e Sara.**
+**da no es Sara.**
 = Ona nie jest Sarą.
 
-**mau e hevan.**
+**mau es hevan.**
 = Kot jest zwierzęciem.  
-**dom no e hevan.**
+**dom no es hevan.**
 = Dom nie jest zwierzęciem.  
 
 
@@ -63,7 +63,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 **tu** ty, cię. **tu su** twój.  
 **da** on, ona lub ono. **da su** jego lub jej.  
 **ke** co lub kto.  
-**e** być (jestem, jesteś, jest, itd)
+**es** być (jestem, jesteś, jest, itd)
 **ya** tak. **no** nie.  
 **bon** dobry, dobrze. **dosti** przyjaciel. **nam** imię, nazwa.
 **fem** kobieta. **man** mężczyzna.
@@ -71,12 +71,12 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 
 ### Odpowiedzi do Ćwiczeń
 
-1. tu e ke?
-2. mi e Tomas.
-3. tu su dosti e ke?
-4. da e Sara.
-5. tu su nam e ke?
-6. mi su nam e ........... 
+1. tu es ke?
+2. mi es Tomas.
+3. tu su dosti es ke?
+4. da es Sara.
+5. tu su nam es ke?
+6. mi su nam es ........... 
 
 
 --------------------------------------------------------------------------------
@@ -248,7 +248,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 ### Lista słów
 
-**cai** herbata. **cing** poprosić, prosić. **don** dać, dawać. **xukur** dzięki, dziękuję. **i** i. **kafe** kawa. **kamar** pokój. **amir** rozkazać, rozkazywać. **u** lub. **saf** posprzątać, sprzątać. **sida** siedzieć. **yam** jeść lub pić.
+**cai** herbata. **cing** poprosić, prosić. **don** dać, dawać. **xukur** dzięki, dziękuję. **e** i. **kafe** kawa. **kamar** pokój. **amir** rozkazać, rozkazywać. **u** lub. **saf** posprzątać, sprzątać. **sida** siedzieć. **yam** jeść lub pić.
 
 
 ### Odpowiedzi do Ćwiczeń
@@ -257,7 +257,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 2. la xefe cing da side.
 3. cing yam kafe o cai.
 4. mama cing mi saf kamar.
-5. xefe side i yam kafe.
+5. xefe side e yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -298,7 +298,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 **no yam.**
 – Nie.  
 <big>☺</big>
-**xukur. mi dona un cai i un kafe i un supe na bade de des minute.**
+**xukur. mi dona un cai e un kafe e un supe na bade de des minute.**
 – Dziękuję. Przyniosę jedną herbatę, jedną kawę i jedną zupę za dziesięć minut.
 
 
@@ -458,7 +458,7 @@ Przetłumacz te zdania z języka polskiego na Pandunię. Czasem istnieje więcej
 
 Do zadawania pytań, które zaczynają się w języku polskim zaimkami pytajnymi innymi niż _czy_ (_kto_, _co_, _który_, _jaki_, _jak_, _gdzie_, _skąd_, _dokąd_), używany jest zazwyczaj zaimek **ke**. Pytanie może zostać skonkretyzowane przez użycie słów na osobę, czas, sposób lub rzecz, jeśli trzeba.
 
-**da e ke?**
+**da es ke?**
 – Cot to jest? / Kim on/ona jest?
 **ke jen lai?**
 – Kto przychodzi? (**ren** = osoba)  
@@ -476,7 +476,7 @@ Na pytania o przyczynę, lub powód czegoś, odpowiada się dodając **de sabu**
 
 **ke sabu tu suka mau?**
 – Dlaczego lubisz koty?  
-**de sabu damen e kavai.**
+**de sabu damen es kavai.**
 – Ponieważ są słodkie.
 
 Oczywiście **de sabu** może być też yżywane do wyrażania przyczyny lub powodu czegoś, nawet nie odpowiadając na pytanie.
@@ -535,11 +535,11 @@ Istnieją też konkretne słowa opisujące czas.
 
 Przymiotniki dla przeszłości, teraźniejszości i przyszłości to, odpowiednio, **pas, zai** i **xa**. Mogą być używane do modyfikowania rzeczowników.
 
-**Sara e mi su pas xefe.**
+**Sara es mi su pas xefe.**
 – Sara jest moim byłym szefem.  
-**Yusef e mi su zai xefe.**
+**Yusef es mi su zai xefe.**
 – Yusef jest moim obecnym szefem.  
-**Maria e mi su xa xefe.**
+**Maria es mi su xa xefe.**
 – Maria jest moim przyszłym szefem.
 
 Te same słowa są używane, gdy mowa o czynnościach i wydarzeniach w czasie. Po prostu umieszcza się je po czasowniku.
@@ -562,7 +562,7 @@ Nie trzeba powtarzać oreśleń czasu cały czas. To byłoby dziwne. Wystarczy o
 
 **mi pas ha un mau.**
 – Miałem jednego kota w przeszłości.  
-**da e bon mau.**
+**da es bon mau.**
 – To był dobry kot.  
 **mi ha un vaf a zai.**
 – Mam teraz jedneg psa.
