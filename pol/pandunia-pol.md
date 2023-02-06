@@ -927,11 +927,11 @@ Dong Timor - Timor Wschodni (Demokratyczna Republika Timoru Wschodniego)
 donjon ventur - przygoda w lochu  
 dosil - oswojony (potulny, posłuszny)  
 dosil gene di - udomowiony (domowy)  
-dosti - przyjaciel  
-• andosti - wróg (nieprzyjaciel)  
-dosti di - przyjacielski (uprzejmy, miły)  
-dosti hin -   
-dostita - przyjaźń  
+doste - przyjaciel  
+• andoste - wróg (nieprzyjaciel)  
+dostike - przyjacielski (uprzejmy, miły)  
+doste hin -   
+dostia - przyjaźń  
 dotor - doktor (uczony, który osiągnął doktorat)  
 dotorta - doktorat  
 dou - fasola lub groch, roślina strączkowa  

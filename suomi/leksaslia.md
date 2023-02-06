@@ -304,7 +304,7 @@
 **dong** *itä* ← yleiskiina:东 (dōng), kantoninkiina:東 (dōng), vietnami:đông, korea:동 (dong), turkki:doğu  
 **donjon ventur** *luolaseikkailu* ← englanti:dungeon, ranska:donjon, japani:ダンジョン (danjon)  
 **dosil** *kesy* ← englanti:ranska:italia:docile, espanja:portugali:dócil  
-**dosti** *ystävä (kaveri)* ← hindi:दोस्त (dost), bangla:দোস্ত (dośt), yleiskiina:朵斯提 (duǒsītí), persia: دوست (dost), turkki:dost  
+**doste** *ystävä (kaveri)* ← hindi:दोस्त (dost), bangla:দোস্ত (dośt), yleiskiina:朵斯提 (duǒsītí), persia: دوست (dost), turkki:dost  
 **dotor** *tohtori* ← portugali:doutor, italia:dottore, englanti:espanja:doctor, venäjä:доктор (doktor)  
 **dou** *papu tai herne* ← yleiskiina:豆 (dòu), kantoninkiina:豆 (dau6), wu-kiina:豆 (deu3), japani:豆 (tō), korea:두 (du), vietnami:đậu  
 **doxa** *vika (synti)* ← malaiji:dosa, hindi:दोष (doś), thai:โทษ (toot(sa))  

@@ -481,21 +481,21 @@ Proszę, pomóż mi.
 
 
 
-### xukur <small>dzięki</small>
+### xukre <small>dzięki</small>
 
-**xukur!**
+**xukre!**
 Dzięki!
 
-**xukur tu.**
+**xukre tu.**
 Dzięki ci.
 
-**mi xukur tu.**
+**mi xukre tu.**
 Dziękuję tobie.
 
-**mi xukur tu mede mi.**
+**mi xukre tu mede mi.**
 Dziękuję tobie, że pomogłeś mi.
 
-**xukur tu mede mi.**
+**xukre tu mede mi.**
 Dzięki tobie, że pomogłeś mi.
 
 **tu keci.**

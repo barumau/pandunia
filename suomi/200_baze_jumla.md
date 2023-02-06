@@ -74,35 +74,35 @@ swahili *salaam*,
 indonesia *selamat*.</small>
 
 
-### xukur <small>kiitos</small>
+### xukre <small>kiitos</small>
 
 <p style="font-size:5em;">🙏</p>
 
-**xukur!**
+**xukre!**
 Kiitos!
 
-**poli xukur!**
+**poli xukre!**
 Paljon kiitoksia!
 
-**ya, xukur.**
+**ya, xukre.**
 Kyllä, kiitos.
 
-**no, xukur.**
+**no, xukre.**
 Ei, kiitos.
 
-**xukur tu.**
+**xukre tu.**
 Kiitos sinulle.
 
-**mi xukur tu.**
+**mi xukre tu.**
 Minä kiitän sinua.
 
-**mi xukur tu mede mi.**
+**mi xukre tu mede mi.**
 Minä kiitän sinua minun auttamisesta.
 
-**xukur tu mede mi.**
+**xukre tu mede mi.**
 Kiitos kun autoit minua.
 
-**no yau xukur.**
+**no yau xukre.**
 Ole hyvä. (Sanan mukaisesti: _Ei tarvitse kiittää._)
 
 

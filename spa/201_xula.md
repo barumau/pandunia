@@ -239,13 +239,13 @@ Pidiendo
 **halo! cing side.**
 – ¡ Hola!¡ Por favor sientese!  
 <big>☻</big>
-**xukur.**
+**xukre.**
 – ¡Gracias!  
 <big>☺</big>
 **cing yam kafe o cai.**
 – Por favor beba algo de café o té.  
 <big>☻</big>
-**mi vol cai. xukur.**
+**mi vol cai. xukre.**
 – Quiero té, gracias.  
 ...  
 <big>☺</big>
@@ -356,7 +356,7 @@ té
 pedir, solicitar; por favor  
 **don**
 dar  
-**xukur**
+**xukre**
 gracias  
 **e**
 y  
@@ -426,7 +426,7 @@ algo
 **no yam.**
 – No.  
 <big>☺</big>
-**xukur. mi don un cai e un kafe e un supe pos des minute.**
+**xukre. mi don un cai e un kafe e un supe pos des minute.**
  – ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
 
 

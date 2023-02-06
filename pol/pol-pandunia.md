@@ -189,7 +189,7 @@
  - dom gogia  
  - don tabi  
  - don xe ceke  
- - dosti hin  
+ - doste hin  
  - dramatike  
  - du grafi di  
  - du soni di  
@@ -3569,9 +3569,9 @@ przyczepić, przymocować - fixe
 przygoda - ventur  
 przygoda w lochu - donjon ventur  
 przygotować, przygotowywać - fa redi  
-przyjaciel - dosti  
-przyjacielski (uprzejmy, miły) - dosti di  
-przyjaźń - dostita  
+przyjaciel - doste  
+przyjacielski (uprzejmy, miły) - dostike  
+przyjaźń - dostia  
 przyjęcie, święto, festiwal - feste  
 przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać - lai  
 przykryć, przykrywać, ukryć, ukrywać - fa daka  
@@ -4513,7 +4513,7 @@ wołowina - mumu karne
 wprostowywać (wyprostować) - fa orto  
 wrzesień - mes luka  
 wrócić, wracać, wycofać się, wycofywać się - be retro  
-wróg (nieprzyjaciel) - andosti  
+wróg (nieprzyjaciel) - andoste  
 wróżka - pari  
 wsad, partia, porcja, seria - lote  
 wschodni - dong di  

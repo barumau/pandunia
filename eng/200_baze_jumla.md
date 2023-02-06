@@ -87,35 +87,35 @@ Swahili *salaam*,
 Indonesian *selamat*.</small>
 
 
-### xukur <small>thanks</small>
+### xukre <small>thanks</small>
 
 <p style="font-size:5em;">🙏</p>
 
-**xukur!**
+**xukre!**
 Thanks!
 
-**poli xukur!**
+**poli xukre!**
 Thanks a lot!
 
-**ya, xukur.**
+**ya, xukre.**
 Yes, thank you.
 
-**no, xukur.**
+**no, xukre.**
 No, thank you.
 
-**xukur tu.**
+**xukre tu.**
 Thank you.
 
-**mi xukur tu.**
+**mi xukre tu.**
 I thank you.
 
-**mi xukur tu mede mi.**
+**mi xukre tu mede mi.**
 I thank you for helping me.
 
-**xukur tu mede mi.**
+**xukre tu mede mi.**
 Thanks for helping me.
 
-**no yau xukur.**
+**no yau xukre.**
 You're welcome. (Literally: _No need to thank._)
 
 

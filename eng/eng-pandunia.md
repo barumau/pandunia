@@ -1377,7 +1377,7 @@ end - be fin
 ended (finished) - fin di  
 endonym - in nam  
 enemy (foe, villain) - dus jen  
-enemy (unfriend) - andosti  
+enemy (unfriend) - andoste  
 energy - energia  
 engine (motor) - moter  
 engineer - engener  
@@ -1688,10 +1688,10 @@ French Polynesia - Franse Polinesi
 frequency - poli marta  
 fresh - taza  
 Friday - zukraden  
-friend - dosti  
-friendless - dosti hin  
-friendly (kind, nice, gentle) - dosti di  
-friendship - dostita  
+friend - doste  
+friendless - doste hin  
+friendly (kind, nice, gentle) - dostike  
+friendship - dostia  
 frog - krokro  
 from (since, because) - de  
 frost - hima rose  

@@ -962,11 +962,11 @@ Dong Timor - East Timor (Timor-Leste)
 donjon ventur - dungeon crawl  
 dosil - tame (docile, obedient)  
 dosil gene di - domesticated  
-dosti - friend  
-• andosti - enemy (unfriend)  
-dosti di - friendly (kind, nice, gentle)  
-dosti hin - friendless  
-dostita - friendship  
+doste - friend  
+• andoste - enemy (unfriend)  
+dostike - friendly (kind, nice, gentle)  
+doste hin - friendless  
+dostia - friendship  
 dotor - doctor (scholar who has attained doctorate)  
 dotorta - doctorate  
 dou - bean or pea (legume)  

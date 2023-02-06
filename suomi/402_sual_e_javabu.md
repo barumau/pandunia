@@ -131,7 +131,7 @@ Pandunia on saanut vaikutteita sekä luonnollisista että keinotekoisista kielis
 - Pandunian kielioppi on tiivis mutta joustava. Panduniassa on vain
   muutamia kielioppirakenteita, joita sovelletaan uudestaan ja
   uudestaan eri tasoilla.
-- Pandunia on aidosti neutraali kieli.
+- Pandunia on aidoste neutraali kieli.
 
 Yllä mainittuja pandunian ominaispiirteitä saattaa esiintyä muissakin
 kielissä, mutta kokonaisuutena se on ainutlaatuinen.

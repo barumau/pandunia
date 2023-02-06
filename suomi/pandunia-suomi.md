@@ -928,11 +928,11 @@ Dong Timor - Itä-Timor
 donjon ventur - luolaseikkailu  
 dosil - kesy  
 dosil gene di - kesytetty  
-dosti - ystävä (kaveri)  
-• andosti - vihollinen  
-dosti di - ystävällinen (kiltti)  
-dosti hin - kaveriton  
-dostita - ystävyys  
+doste - ystävä (kaveri)  
+• andoste - vihollinen  
+dostike - ystävällinen (kiltti)  
+doste hin - kaveriton  
+dostia - ystävyys  
 dotor - tohtori  
 dotorta - tohtorin tutkinto  
 dou - papu tai herne  

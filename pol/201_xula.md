@@ -73,7 +73,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 
 1. tu es ke?
 2. mi es Tomas.
-3. tu su dosti es ke?
+3. tu su doste es ke?
 4. da es Sara.
 5. tu su nam es ke?
 6. mi su nam es ........... 
@@ -169,13 +169,13 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 **sal! cing sida.**
 = Cześć! Proszę, usiądź!  
 <big>☻</big>
-**xukur.**
+**xukre.**
 = Dziękuję.  
 <big>☺</big>
 **cing yam kafe u cai.**
 = Proszę, napij się kawy lub herbaty.  
 <big>☻</big>
-**mi yam cai. xukur.**
+**mi yam cai. xukre.**
 = Napiję się herbaty, dziękuję.  
 ...  
 <big>☺</big>
@@ -248,7 +248,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 ### Lista słów
 
-**cai** herbata. **cing** poprosić, prosić. **don** dać, dawać. **xukur** dzięki, dziękuję. **e** i. **kafe** kawa. **kamar** pokój. **amir** rozkazać, rozkazywać. **u** lub. **saf** posprzątać, sprzątać. **sida** siedzieć. **yam** jeść lub pić.
+**cai** herbata. **cing** poprosić, prosić. **don** dać, dawać. **xukre** dzięki, dziękuję. **e** i. **kafe** kawa. **kamar** pokój. **amir** rozkazać, rozkazywać. **u** lub. **saf** posprzątać, sprzątać. **sida** siedzieć. **yam** jeść lub pić.
 
 
 ### Odpowiedzi do Ćwiczeń
@@ -298,7 +298,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 **no yam.**
 – Nie.  
 <big>☺</big>
-**xukur. mi dona un cai e un kafe e un supe na bade de des minute.**
+**xukre. mi dona un cai e un kafe e un supe na bade de des minute.**
 – Dziękuję. Przyniosę jedną herbatę, jedną kawę i jedną zupę za dziesięć minut.
 
 

@@ -78,7 +78,7 @@ amargo - kali guste
 Amazônia - Amazonia  
 amerício - amerikium  
 amida - amide  
-amigo - dosti  
+amigo - doste  
 amina - amin  
 amor - luba  
 amoreira - tuta  

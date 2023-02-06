@@ -483,11 +483,11 @@ don - doni
 don tabi - malavara  
 don xe - donaco  
 dong - oriento  
-dosti - amiko  
-• andosti - malamiko  
-dosti di - amika (bonkora)  
-dosti hin - senamika  
-dostita - amikeco  
+doste - amiko  
+• andoste - malamiko  
+dostike - amika (bonkora)  
+doste hin - senamika  
+dostia - amikeco  
 dotor - doktoro  
 dou - fabo aŭ pizo  
 doxa - kulpo  

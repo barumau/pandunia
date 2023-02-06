@@ -304,7 +304,7 @@
 **dong** *east (orient)* ← zho:东 (dōng), yue:東 (dōng), vie:đông, kor:동 (dong), tur:doğu  
 **donjon ventur** ** ← eng:dungeon, fra:donjon, jpn:ダンジョン (danjon)  
 **dosil** *docile (insipide)* ← eng:fra:ita:docile, spa:por:dócil  
-**dosti** *amie* ← hin:दोस्त (dost), ben:দোস্ত (dośt), zho:朵斯提 (duǒsītí), fas: دوست (dost), tur:dost  
+**doste** *amie* ← hin:दोस्त (dost), ben:দোস্ত (dośt), zho:朵斯提 (duǒsītí), fas: دوست (dost), tur:dost  
 **dotor** ** ← por:doutor, ita:dottore, eng:spa:doctor, rus:доктор (doktor)  
 **dou** ** ← zho:豆 (dòu), yue:豆 (dau6), wuu:豆 (deu3), jpn:豆 (tō), kor:두 (du), vie:đậu  
 **doxa** ** ← may:dosa, hin:दोष (doś), tha:โทษ (toot(sa))  

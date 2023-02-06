@@ -72,35 +72,35 @@ sŭahila *salaam*,
 indonezia *selamat*.</small>
 
 
-### xukur <small>dankon</small>
+### xukre <small>dankon</small>
 
 <p style="font-size:5em;">�</p>
 
-**xukur!**
+**xukre!**
 Dankon!
 
-**poli xukur!**
+**poli xukre!**
 Multajn dankojn!
 
-**ya, xukur.**
+**ya, xukre.**
 Jes, danke.
 
-**no, xukur.**
+**no, xukre.**
 Ne, danke.
 
-**xukur tu.**
+**xukre tu.**
 Dankon al vi.
 
-**mi xukur tu.**
+**mi xukre tu.**
 Mi dankas vin.
 
-**mi xukur tu mede mi.**
+**mi xukre tu mede mi.**
 Mi dankas vin pro vi helpis min.
 
-**xukur tu mede mi.**
+**xukre tu mede mi.**
 Dankon pro vi helpis min.
 
-**no yau xukur.**
+**no yau xukre.**
 Ne dankinde.
 
 

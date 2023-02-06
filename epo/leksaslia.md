@@ -304,7 +304,7 @@
 **dong** *oriento* ← mandarena:东 (dōng), kantona:東 (dōng), vjetnama:đông, korea:동 (dong), turka:doğu  
 **donjon ventur** ** ← angla:dungeon, franca:donjon, japana:ダンジョン (danjon)  
 **dosil** ** ← angla:franca:itala:docile, hispana:portugala:dócil  
-**dosti** *amiko* ← hindia:दोस्त (dost), bengala:দোস্ত (dośt), mandarena:朵斯提 (duǒsītí), persa: دوست (dost), turka:dost  
+**doste** *amiko* ← hindia:दोस्त (dost), bengala:দোস্ত (dośt), mandarena:朵斯提 (duǒsītí), persa: دوست (dost), turka:dost  
 **dotor** *doktoro* ← portugala:doutor, itala:dottore, angla:hispana:doctor, rusa:доктор (doktor)  
 **dou** *fabo aŭ pizo* ← mandarena:豆 (dòu), kantona:豆 (dau6), vua:豆 (deu3), japana:豆 (tō), korea:두 (du), vjetnama:đậu  
 **doxa** *kulpo* ← malaja:dosa, hindia:दोष (doś), taja:โทษ (toot(sa))  

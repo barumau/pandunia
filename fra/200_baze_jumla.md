@@ -74,36 +74,36 @@ Astuce : Comme vous le voyez à travers cette gamme d’expressions, **sal** est
 <small>Étymologie : **sal** vient de l'arabe سَلَام‏ "salām", en hébreu il se dit : שָׁלוֹם‏ "šalom", en turc "selam", en Hindi सलाम "salām", en swahili "salaam" et en indonésien "selamat".</small>
 
 
-### xukur <small>merci</small>
+### xukre <small>merci</small>
 
 <p style="font-size:5em;">🙏</p>
 
 
-**xukur!**
+**xukre!**
 Merci!
 
-**poli xukur!**
+**poli xukre!**
 Merci beaucoup !
 
-**ya, xukur.**
+**ya, xukre.**
 Oui, merci.
 
-**no, xukur.**
+**no, xukre.**
 Non, merci.
 
-**xukur tu.**
+**xukre tu.**
 Merci à toi.
 
-**mi xukur tu.**
+**mi xukre tu.**
 Je te / vous remercie.
 
-**mi xukur tu mede mi.**
+**mi xukre tu mede mi.**
 Je te remercie de m'avoir aidé.
 
-**xukur tu mede mi.**
+**xukre tu mede mi.**
 Merci de m'avoir aidé.
 
-**no yau xukur.**
+**no yau xukre.**
 Je t'en prie. / Il n'y a pas de quoi.
 
 

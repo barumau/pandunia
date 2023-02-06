@@ -810,10 +810,10 @@ Dong Timor - Timor Oriental
 donjon ventur - juego de mazmorras  
 dosil - manso (dócil, obediente)  
 dosil gene di - domesticado  
-dosti - amigo  
-dosti di - simpático (amable, tierno, dulce)  
-dosti hin - sin amigos  
-dostita - amistad (compañerismo)  
+doste - amigo  
+dostike - simpático (amable, tierno, dulce)  
+doste hin - sin amigos  
+dostia - amistad (compañerismo)  
 dotor - doctor  
 dotorta - doctorado  
 dou - legumbre (frijol o arveja)  

@@ -87,7 +87,7 @@ Amazonie - Amazonia
 amer - kali guste  
 Amhara (groupe ethnique et langue éthiopienne) - Amara  
 amide - amide  
-amie - dosti  
+amie - doste  
 amine - amin  
 amiral - bahai amirer  
 amour (affection) - luba  

@@ -414,7 +414,7 @@ dom gogia - pátria
 don - dar  
 don tabi - generoso (dadivoso, mão-aberta)  
 dong - este (leste)  
-dosti - amigo  
+doste - amigo  
 drame - drama  
 du - dois (2)  
 dubaxike - bilíngue  

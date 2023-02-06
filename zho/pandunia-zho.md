@@ -401,7 +401,7 @@ dom gogia - 祖国
 don xe ceke - 礼物卡  
 dong - 东  
 dosil - 驯服的  
-dosti - 朋友 (友人)  
+doste - 朋友 (友人)  
 drame - 戏剧  
 du - 二 (2)  
 dubaxike - 会双语的  

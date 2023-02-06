@@ -256,13 +256,13 @@ chef, patron
 **halo! cing side.**
 = Bonjour ! Asseyez-vous je vous prie !  
 <big>🧒</big>
-**xukur.**
+**xukre.**
 = Merci.  
 <big>🧓</big>
 **cing yam kafe o cai.**
 = Prenez du thé ou du café, je vous prie
 <big>🧒</big>
-**mi vol cai. xukur.**
+**mi vol cai. xukre.**
 = Je prends du thé, merci.  
 ...  
 <big>🧓</big>

@@ -1280,7 +1280,7 @@ kaupunki - nagre
 kaupunki - siti  
 kaupunkivaltio - nagre gogia  
 kaura - ave  
-kaveriton - dosti hin  
+kaveriton - doste hin  
 Kazakstan - Qazaqe  
 kebab (grilliliha) - kababu karne  
 kehitys - gradu mute  
@@ -4263,7 +4263,7 @@ vihainen (suuttunut) - furi
 vihannes - coi  
 vihata (inhota) - fa hen  
 vihollinen - dus jen  
-vihollinen - andosti  
+vihollinen - andoste  
 vihreä - luga  
 viihdyttää (huvittaa) - fa vanu  
 viikko - cetiden  
@@ -4460,9 +4460,9 @@ yrittää (kokeilla) - teste
 yrittää (kokeilla, koettaa; koe, kokeilu, yritys) - proba  
 yritys (yhtiö) - kompani  
 yskä - koso  
-ystävyys - dostita  
-ystävä (kaveri) - dosti  
-ystävällinen (kiltti) - dosti di  
+ystävyys - dostia  
+ystävä (kaveri) - doste  
+ystävällinen (kiltti) - dostike  
 ytterbium - yuterbium  
 yttrium - yutrium  
 yö - noce  

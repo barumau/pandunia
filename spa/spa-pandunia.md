@@ -188,9 +188,9 @@ americano - Amerikan
 americio - amerikium  
 amhara - Amara  
 amida - amide  
-amigo - dosti  
+amigo - doste  
 amina - amin  
-amistad (compañerismo) - dostita  
+amistad (compañerismo) - dostia  
 amoldarse - kon forma  
 amoldarse - konforme  
 amor - luba  
@@ -3688,9 +3688,9 @@ silla - kursi
 simetría (simétrico) - sammetria  
 similar - sam sifa di  
 simple - simple  
-simpático (amable, tierno, dulce) - dosti di  
+simpático (amable, tierno, dulce) - dostike  
 simular - fa sam sifa  
-sin amigos - dosti hin  
+sin amigos - doste hin  
 Singapur - Singapur  
 sino - alo di  
 sinograma - cinograme  

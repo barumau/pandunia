@@ -372,8 +372,8 @@ dong gorila - ヒガシゴリラ
 donjon ventur - ダンジョンアドベンチャー  
 dosil - 温順 (素直)  
 dosil gene di - 家畜  
-dosti - 友達 (友人)  
-dosti di - 優しい (好ましい, 親切)  
+doste - 友達 (友人)  
+dostike - 優しい (好ましい, 親切)  
 drame - 劇  
 du - 二 (2)  
 dua - 祈祷  

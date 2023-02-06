@@ -521,7 +521,7 @@ don xe ceke - chèque cadeau
 dong - east (orient)  
 dosil - docile (insipide)  
 dosil gene di - domestiqué (apprivoisé)  
-dosti - amie  
+doste - amie  
 drame - pièce de théâtre (drame)  
 du - deux (2)  
 dubaxike - bilingue  

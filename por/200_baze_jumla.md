@@ -72,24 +72,24 @@ Você pode usá-lo sempre que quiser.
 Indonésio: selamat.</small>
 
 
-### xukur <small>obrigado</small>
+### xukre <small>obrigado</small>
 
 **xucur!**
 Obrigada!
 
-**xukur tu.**
+**xukre tu.**
 Obrigado a você.
 
-**mi xukur tu.**
+**mi xukre tu.**
 Te agradeço.
 
-**mi xukur tu mede mi.**
+**mi xukre tu mede mi.**
 Agradeço por me ajudar.
 
-**xukur tu mede mi.**
+**xukre tu mede mi.**
 Obrigado por ajudar.
 
-**no yau xukur.**
+**no yau xukre.**
 De nada.
 
 

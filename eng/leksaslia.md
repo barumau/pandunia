@@ -304,7 +304,7 @@
 **dong** *east (orient)* ← Mandarin:东 (dōng), Cantonese:東 (dōng), Vietnamese:đông, Korean:동 (dong), Turkish:doğu  
 **donjon ventur** *dungeon crawl* ← English:dungeon, French:donjon, Japanese:ダンジョン (danjon)  
 **dosil** *tame (docile, obedient)* ← English:French:Italian:docile, Spanish:Portuguese:dócil  
-**dosti** *friend* ← Hindi:दोस्त (dost), Bengali:দোস্ত (dośt), Mandarin:朵斯提 (duǒsītí), Persian: دوست (dost), Turkish:dost  
+**doste** *friend* ← Hindi:दोस्त (dost), Bengali:দোস্ত (dośt), Mandarin:朵斯提 (duǒsītí), Persian: دوست (dost), Turkish:dost  
 **dotor** *doctor (scholar who has attained doctorate)* ← Portuguese:doutor, Italian:dottore, English:Spanish:doctor, Russian:доктор (doktor)  
 **dou** *bean or pea (legume)* ← Mandarin:豆 (dòu), Cantonese:豆 (dau6), Wu-Chinese:豆 (deu3), Japanese:豆 (tō), Korean:두 (du), Vietnamese:đậu  
 **doxa** *fault (sin, blame, defect, guilt)* ← Malay:dosa, Hindi:दोष (doś), Thai:โทษ (toot(sa))  

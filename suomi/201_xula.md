@@ -264,13 +264,13 @@ pomo, päällikkö
 **halo! cing side.**
 = Hei! Istu, ole hyvä!  
 <big>☻</big>
-**xukur.**
+**xukre.**
 = Kiitos.  
 <big>☺</big>
 **cing yam kafe o cai.**
 = Joisitko kahvia tai teetä?  
 <big>☻</big>
-**ama mi yam un di cai! xukur.**
+**ama mi yam un di cai! xukre.**
 = Mutta minähän juon vain teetä! Kiitos.  
 ...  
 <big>☻</big>
@@ -383,7 +383,7 @@ tee
 pyytää; ole hyvä  
 **don**
 antaa  
-**xukur**
+**xukre**
 kiitos  
 **e**
 ja  
@@ -453,7 +453,7 @@ syödä tai juoda
 **no yam.**
 = Ei.  
 <big>☺</big>
-**xukur. mi dona un cai e un kafe e un supe pos des minute.**
+**xukre. mi dona un cai e un kafe e un supe pos des minute.**
 = Kiitos. Minä tuon yhden teen, yhden kahvin ja yhden keiton kymmenen minuutin päästä.
 
 

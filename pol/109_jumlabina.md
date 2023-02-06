@@ -382,7 +382,7 @@ _Stoję przy domu._
 _Mówię przy Panduni._  
 Mówię w Panduni.
 
-**mi loga a dosti a pandunia a fon.**
+**mi loga a doste a pandunia a fon.**
 _Mówię przy przyjaciołach przy Panduni przy telefonie._
 Mówię z przyjaciółmi w Panduni przez telefon.
 
