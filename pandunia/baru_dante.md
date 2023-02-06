@@ -7,18 +7,18 @@ da loga to xiu baru:
 "no yam yo kandi o keke a dura de mi a bazar."
 xiu baru ya loga:
 "ya, ya, mama! mi san da. mi un dai baru. cing to vai!"
-ma baru ya loga "salam" i da to vai.
+ma baru ya loga "sal" i da to vai.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_02.png)
 
-xiu baru e un zai. da fikir:
+xiu baru es unike. da fikir:
 "mi zai bil fa eni xe, ki mi vol!"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_03.png)
 
 xiu baru ya move to vaxi kamar.
 da fikir "mi no vol vaxi mi su dante a zai."
-xiu baru e dus.
+xiu baru es dus.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_04.png)
 
@@ -50,28 +50,28 @@ xiu baru ya yam pan medu.
 ![](http://www.pandunia.info/grafe/urse_dante/urse_08.png)
 
 pos, xiu baru ya sense un sense, ki da no san, a boke.
-da su dante pasi!
+da su dante pate!
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_09.png)
 
 da kape la tele fon gi.
-da loga: "salam! sual tu e dante dava ja? cing lai to mi! mi ten un pasi dante!"
+da loga: "salam! sual tu es dante dava ja? cing lai to mi! mi ha un pate dante!"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_10.png)
 
 la dava ja ya lai to baru famili su dom.
 da loga: "sual tu yau mede?"
-xiu baru loga: "e! mi ten pasi dante!"
+xiu baru loga: "ya! mi ha pate dante!"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_11.png)
 
 la dava ja ya cing la xiu baru ya side a kursi i kai se su boke.
-"aha! un dante e poli dus! mi mus kape da to ekse"
+"aha! un dante es poli dus! mi mus kape da to ekse"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_12.png)
 
 la dava ja ya juxa yo dava xe to dante nama a karibu de dus dante.
-xiu baru no sente la pasi de zai.
+xiu baru no sente la pate de zai.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_13.png)
 
@@ -115,5 +115,5 @@ xiu baru ya vaxi da su dante va un dante broxa a pan un suba i xam.
 ![](http://www.pandunia.info/grafe/urse_dante/urse_21.png)
 
 ma baru ya note la xiu baru fa mas bon di hafiza se su dante.
-mama loga: "tu e bon xiu baru!"
+mama loga: "tu es bon xiu baru!"
 
