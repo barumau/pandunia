@@ -15,7 +15,7 @@ adamas - 金剛石 (ダイヤモンド)
 adres - 住所  
 Afganestan - アフガニスタン  
 agronomia - 農学  
-agri deha - 農村  
+agre deha - 農村  
 air - 空気  
 • anairobiike - 嫌気性  
 airobiike - 好気性  
@@ -834,6 +834,7 @@ kane kasa - 檻 (篭, ケージ)
 kane minte - スペアミント  
 kane sor - 掛け金  
 kangaru - カンガルー  
+kanse - 癌  
 kantalupo melon - カンタロープ  
 kanu - カヌー  
 kanun vala - 弁護士  
@@ -1067,6 +1068,7 @@ makinize - 機械化する
 malonomia - 経済学  
 malte - 麦芽  
 maltos - 麦芽糖 (マルトース)  
+mame kanse - 乳癌  
 mang - 忙しい  
 mangan - マンガン  
 manioka - キャッサバ  
@@ -1649,6 +1651,7 @@ terca - 斜め
 tikete - 札  
 tim - チーム  
 tipe - 種類  
+• prototipe - 原型  
 tire dara - 離岸流  
 tire kane - レバー (てこ)  
 tire yo pil - はがす (剥ぐ)  

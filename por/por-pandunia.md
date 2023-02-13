@@ -88,6 +88,7 @@ analgesia (analgia) - algesia
 analgésico - analgive  
 analógico - undura  
 ananás (abacaxi) - ananas  
+anarquia - anarhia  
 anchova - ancovi  
 andesito - andesite  
 anel - ring  
@@ -131,6 +132,7 @@ armazém - hazinkan
 armário - almari  
 arquiteto - bine planer  
 arquitetura - bine plan  
+arquétipo - asle tipe  
 arrastar - trate  
 arroz - varis  
 arroz branco - baku varis  
@@ -513,6 +515,8 @@ cálamo - gana kalam
 cálcio - kalsium  
 cápsico - cili  
 cáqui - haki rang  
+câncer (cancro) - kanse  
+câncer de mama - mame kanse  
 cânfora - kafur  
 cão (cachorro) - vaf  
 célula sanguínea - hemi selu  
@@ -949,7 +953,7 @@ infecção - infete
 inferir - infere  
 infiel - andiniste  
 infiel - ankreder  
-inflamaçao - tis  
+inflamaçao - itis  
 informática (ciência da computação) - data culi logia  
 infraestrutura - baze strute  
 inimigo - dus jen  
@@ -1546,6 +1550,7 @@ propulsor (hélice) - propeler
 prosperar - sucese  
 protacnídio - protacinium  
 protocolo - buro riti  
+protótipo - prototipe  
 prova - dalil  
 proxeneta (cafetão) - sutener  
 proximidade - proxia  
@@ -1731,7 +1736,7 @@ seda - silke
 sede - sui yau  
 segunda-feira - lunaden  
 seguro - sekur  
-seio (mama) - titi  
+seio (mama) - mame  
 seis (6) - luka  
 seita - din xia  
 selva (floresta, jângal) - jangal  
@@ -1761,6 +1766,7 @@ silício - silike
 sim - ya  
 simetria - sammetria  
 simulação - sam sifa xe  
+sinal - sine  
 sino (campainha) - dang gi  
 sintaxe - jumla logia  
 sintaxe - sintaxe  

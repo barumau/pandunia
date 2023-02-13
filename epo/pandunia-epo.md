@@ -42,7 +42,7 @@ ais - glacio
 ais di - glacia  
 ais krem - glaciaĵo  
 ais xarbe - ŝorbeto  
-Aiti - Haitio  
+Haiti - Haitio  
 akasia - akacio  
 akrabe - skorpio  
 ale - alia  
@@ -485,9 +485,9 @@ don xe - donaco
 dong - oriento  
 doste - amiko  
 • andoste - malamiko  
-dostike - amika (bonkora)  
 doste hin - senamika  
 dostia - amikeco  
+dostike - amika (bonkora)  
 dotor - doktoro  
 dou - fabo aŭ pizo  
 doxa - kulpo  
@@ -1071,6 +1071,7 @@ kane kasa - kaĝo
 kane sor - riglilo  
 kangaru - kangaro  
 kanjar - ponardo  
+kanse - kancero  
 kanta - ŝultro  
 kanu - kanuo (kanoto)  
 kanun - lego  
@@ -1317,6 +1318,7 @@ makiniste - meĥaniko (maŝinisto)
 malike - havanto  
 malonomia - ekonomiko  
 Mali - Malio  
+mame - mamo  
 mana - signifo  
 manera - maniero (konduto)  
 mang - okupata  
@@ -1976,10 +1978,10 @@ terbium - terbio
 • hipotermia - hipotermio  
 termometrer - termometro  
 tipe - speco (tipo, stilo)  
+• prototipe - prototipo  
 tire - tiri  
 tire yo milke - melki  
 titanium - titanio  
-titi - mamo  
 tix - silenta  
 tixta - silento  
 to - al (ĝis, por)  

@@ -53,7 +53,7 @@ agrokulte -
 agronomia - agronomia  
 agristan - wieś, tereny wiejskie  
 agristanike - wiejski, rustykalny  
-agri deha -   
+agre deha -   
 aha - rozumieć, pojmować  
 air - powietrze  
 • anairobiike -   
@@ -67,7 +67,7 @@ ais di - lodowy
 ais hoki - hokej na lodzie  
 ais krem - lody  
 ais xarbe -   
-Aiti - Haiti  
+Haiti - Haiti  
 ajabu - dziw (cudo, zachwyt)  
 ajabu di - zachwycający (zdumiewający, zadziwiający)  
 akare - klescz (roztocze)  
@@ -181,6 +181,11 @@ argente - srebro
 Argentina - Argentyna  
 argon - argon  
 argu - argument  
+arhe -   
+• anarhia - anarchia  
+• anarhiste -   
+• unarhia -   
+arhia -   
 Ariel -   
 arke - łuk  
 arke cati -   
@@ -208,6 +213,7 @@ asle - źródło, początek, pochodzenie
 aslamerikan - indiański  
 aslaustralian - aborygeński  
 aslike - źródłowy, początkowy, oryginalny  
+asle tipe -   
 asma - astma  
 asparge - szparag; szparagia  
 astatin - astat  
@@ -929,9 +935,9 @@ dosil - oswojony (potulny, posłuszny)
 dosil gene di - udomowiony (domowy)  
 doste - przyjaciel  
 • andoste - wróg (nieprzyjaciel)  
-dostike - przyjacielski (uprzejmy, miły)  
 doste hin -   
 dostia - przyjaźń  
+dostike - przyjacielski (uprzejmy, miły)  
 dotor - doktor (uczony, który osiągnął doktorat)  
 dotorta - doktorat  
 dou - fasola lub groch, roślina strączkowa  
@@ -2062,6 +2068,7 @@ Israel - Izrael
 iste -   
 Italia - Italia, Włochy  
 ite - kamień (kawał skały)  
+itis - zapalenie  
 
 ## J  
 
@@ -2253,6 +2260,7 @@ kangaru - kangur
 kanjar - sztylet (puginał)  
 kanon -   
 kanon di -   
+kanse - rak (nowotwór złośliwy)  
 kanta - bark (ramię)  
 kantalupo melon - kantalupa  
 Kantalupo va Sabina - Cantalupo in Sabina  
@@ -2828,7 +2836,9 @@ malte - słód
 maltos -   
 Malta - Malta  
 Malvina nesia - Falklandy, Malwiny  
+mame -   
 mamal - ssak  
+mame kanse - rak piersi  
 mana - znaczenie  
 manera - zachowanie (maniery, kultura)  
 mang - zajęty  
@@ -3129,9 +3139,9 @@ muxinden - czwartek
 muxmula -   
 muxu - mysz  
 muxu cakra -   
-muzike gense -   
 muzike - muzyka  
 muziker - muzyk  
+muzike gense -   
 
 ## N  
 
@@ -3726,12 +3736,14 @@ preser -
 prive -   
 • deprive -   
 privatize -   
+pro - naprzód  
 proba - spróbować, próbować  
 problem - problem  
 problem di - problematyczny  
 profesor - profesor  
 Promete -   
 prometium - promet  
+prote -   
 protacinium - protaktyn  
 proxe - bliski  
 • aproxe - zbliżać się (zbliżyć się)  
@@ -4095,7 +4107,7 @@ silke - jedwab
 silke larva -   
 simbol - symbol  
 simple - prosty, nieskomplikowany  
-sin - znak, sygnał  
+sine - znak, sygnał  
 sine - pierś  
 sine kasa - klatka piersiowa  
 sine plate - napierśnik  
@@ -4361,10 +4373,11 @@ terme - temperatura
 termal -   
 termometrer - termometr  
 tesla - tesla (T)  
-teste - spróbować, próbować  
 teste - test (wyzwanie, próba)  
+• ateste -   
 • konteste -   
 • proteste -   
+teste - spróbować, próbować  
 Tetis -   
 • hipoteze -   
 • hipotezike -   
@@ -4378,6 +4391,9 @@ tikete - bilet
 tim - drużyna  
 Timor - Timor  
 tipe - typ (rodzaj, gatunek, styl)  
+• pretipe -   
+• prototipe -   
+• prototipike -   
 tipi - tipi  
 tire - ciągnąć  
 tire dara - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
@@ -4385,12 +4401,10 @@ tire kane - dźwignia
 tire sanduku - szuflada  
 tire yo milke - wydoić, doić  
 tire yo pil - obrać (obierać)  
-tis - zapalenie  
 tisa - dziewięć (9)  
 Titan -   
 Titania -   
 titanium - tytan  
-titi -   
 tix - ćsi  
 tix - cichy  
 tixta -   

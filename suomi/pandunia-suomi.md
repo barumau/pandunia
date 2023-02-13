@@ -86,7 +86,7 @@ agrokulte - viljely
 agronomia - agronomia (maatalous)  
 agristan - maaseutu  
 agristanike - maalais-  
-agri deha - maalaiskylä  
+agre deha - maalaiskylä  
 aha - oivaltaa (tajuta, hoksata)  
 air - ilma  
 • anairobiike - anaerobinen  
@@ -100,7 +100,7 @@ ais di - jäinen
 ais hoki - jääkiekko  
 ais krem - jäätelö  
 ais xarbe - mehujää (sorbetti)  
-Aiti - Haiti  
+Haiti - Haiti  
 ajabu - ihmetys (hämmästys)  
 ajabu di - ihmeellinen (ällistyttävä, merkillinen)  
 akare - punkki  
@@ -211,6 +211,10 @@ argente - hopea
 Argentina - Argentiina  
 argon - argon  
 argu - perustelu (argumentti)  
+arhe - valtias (johtaja)  
+• anarhia - anarkia  
+• anarhiste - anarkisti  
+• unarhia - yksinvalta (monarkia)  
 Ariel - Ariel  
 arke - kaari  
 arke cati - holvikatto  
@@ -236,6 +240,7 @@ asle - alkuperä
 aslamerikan - intiaani (Amerikan alkuperäisasukas)  
 aslaustralian - aboriginaali (Australian alkuperäisasukas)  
 aslike - alkuperäinen  
+asle tipe - perikuva (arkkityyppi)  
 asma - astma  
 asparge - parsa  
 astatin - astatiini  
@@ -930,9 +935,9 @@ dosil - kesy
 dosil gene di - kesytetty  
 doste - ystävä (kaveri)  
 • andoste - vihollinen  
-dostike - ystävällinen (kiltti)  
 doste hin - kaveriton  
 dostia - ystävyys  
+dostike - ystävällinen (kiltti)  
 dotor - tohtori  
 dotorta - tohtorin tutkinto  
 dou - papu tai herne  
@@ -1992,6 +1997,7 @@ Israel - Israel
 iste - kannattaja (tukija, -isti)  
 Italia - Italia  
 ite - kivi (hippu)  
+itis - tulehdus  
 
 ## J  
 
@@ -2152,6 +2158,7 @@ kangaru - kenguru
 kanjar - tikari  
 kanon - klassikko  
 kanon di - klassinen (kanooninen)  
+kanse - syöpä  
 kanta - olkapää (hartia)  
 kanu - kanootti  
 kanun - laki (sääntö)  
@@ -2653,7 +2660,9 @@ malte - mallas
 maltos - maltoosi  
 Malta - Malta  
 Malvina nesia - Falklandin saaret  
+mame - nisä (tissi)  
 mamal - nisäkäs  
+mame kanse - rintasyöpä  
 mana - merkitys  
 manera - käytös (käyttäytyminen, tapa, tavat)  
 mang - kiireinen  
@@ -2912,9 +2921,9 @@ Muxin - Jupiter
 muxinden - torstai  
 muxmula - mispeli  
 muxu - hiiri tai rotta  
-muzike gense - musiikin lajityyppi  
 muzike - musiikki  
 muziker - muusikko  
+muzike gense - musiikin lajityyppi  
 
 ## N  
 
@@ -3434,6 +3443,7 @@ preser - puristin (prässi)
 prive - oma (henkilökohtainen, yksityinen, privaatti)  
 • deprive - riistää (viedä omistuksesta)  
 privatize - yksityistää  
+pro - kohti (päin)  
 proba - yrittää (kokeilla, koettaa; koe, kokeilu, yritys)  
 problem - ongelma  
 problem di - ongelmallinen  
@@ -3745,7 +3755,7 @@ silke - silkki
 silke larva - silkkiäistoukka  
 simbol - tunnus (symboli)  
 simple - yksinkertainen (mutkaton)  
-sin - merkki (signaali)  
+sine - merkki (signaali)  
 sine - rinta  
 sine kasa - rintakehä  
 singa - leijona  
@@ -3978,10 +3988,10 @@ terme - lämpötila
 termal - lämpö- (terminen)  
 termometrer - lämpömittari  
 tesla - tesla (T)  
-teste - yrittää (kokeilla)  
 teste - koettaa (haastaa, koetella, testata; koe, testi)  
 • konteste - kilpailla (kilvoitella; kilpa)  
 • proteste - protestoida  
+teste - yrittää (kokeilla)  
 Tetis - Tethys  
 • hipoteze - hypoteesi (oletus)  
 • hipotezike - hypoteettinen  
@@ -3994,18 +4004,19 @@ tikete - lippu (piletti)
 tim - joukkue (tiimi)  
 Timor - Timor  
 tipe - tyyppi (laji, genre, tyyli)  
+• pretipe - esityyppi  
+• prototipe - prototyyppi (perusmuoto)  
+• prototipike - prototyyppinen  
 tipi - kota (tiipii)  
 tire - vetää  
 tire kane - vipu  
 tire sanduku - vetolaatikko  
 tire yo milke - lypsää maitoa  
 tire yo pil - kuoria  
-tis - tulehdus  
 tisa - yhdeksän  
 Titan - Titan  
 Titania - Titania  
 titanium - titaani  
-titi - nisä (tissi)  
 tix - hiljaa (hys, shhh)  
 tix - hiljainen  
 tixta - hiljaisuus  

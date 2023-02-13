@@ -60,6 +60,7 @@ acuario (pecera) - pexe tanke
 acuerdo - sam rai  
 acumular - kume  
 acuoso - sui di  
+adelante - pro  
 adelante - to pro  
 además - a max  
 adhesivo - glu grafi  
@@ -203,6 +204,7 @@ anal - anusal
 analgésico - analgive  
 analizar (análisis) - fen lize  
 anaranjado - orange rang  
+anarquía - anarhia  
 ancho - guan  
 anchoa - ancovi  
 anchura - guanta  
@@ -285,6 +287,7 @@ armonioso - harmoni di
 armonía - harmoni  
 arnés (arreos, jaeces) - harnes  
 arquero - arker  
+arquetipo - asle tipe  
 arquitecto - bine planer  
 arquitectura - bine plan  
 arrastrar - trate  
@@ -1081,6 +1084,8 @@ cuántos - ke poli di
 cálamo - gana kalam  
 cálculo - kalkul  
 cámara - fotografe gi  
+cáncer - kanse  
+cáncer de mama - mame kanse  
 cárcel - jelakan  
 Cáucaso - Kaukasia  
 célula - selu  
@@ -1837,7 +1842,7 @@ hacha - futau
 hachís - haxix  
 hada - pari  
 hafnio - hafenium  
-Haití - Aiti  
+Haití - Haiti  
 halo (aureola) - foto gola  
 hamaca - hamake  
 hambre - yam yau  
@@ -2027,7 +2032,7 @@ inferir - infere
 infiel (descreído) - andiniste  
 infiel (descreído) - ankreder  
 infierno - naraka  
-inflamación - tis  
+inflamación - itis  
 información - kon sabi  
 informe (reporte, noticia) - reporte  
 informática (computación) - data culi logia  
@@ -3285,6 +3290,7 @@ proponer (sugerir; propuesta) - propoze
 propulsor (hélice) - propeler  
 prosperar - sucese  
 proteger (asegurar, guardar) - fa sekur  
+prototipo - prototipe  
 proxeneta (chulo) - sutener  
 proximidad - proxia  
 proyección - lanse grafi  
@@ -3637,7 +3643,7 @@ semántica - semologia
 senador - senater  
 sencillo (liso) - sada  
 Senegal - Senegal  
-seno (teta) - titi  
+seno (teta) - mame  
 sentar - fa side  
 sentarse - side  
 sentido - sense  
@@ -3662,7 +3668,7 @@ sexo - sexu
 sexología - sexulogia  
 sexy (sexual) - sexe di  
 Seychelles - Sexel nesia  
-señal (letrero, indicio) - sin  
+señal (letrero, indicio) - sine  
 señal de tránsito - dau bano  
 sharía - islam xaria  
 Shiva - xiva  

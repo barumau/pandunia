@@ -135,6 +135,8 @@ anaerobinen - anairobiike
 analgesia - algesia  
 analyysi (osiin hajottaminen) - fen lize  
 ananas - ananas  
+anarkia - anarhia  
+anarkisti - anarhiste  
 andesiitti - andesite  
 Andit - Andes  
 Andorra - Andora  
@@ -493,6 +495,7 @@ esihistoria - prehistoria
 esimerkiksi - to misal  
 esimerkki - misal  
 esine (tavara) - vutu  
+esityyppi - pretipe  
 Espanja - Espania  
 espanjaa puhuva - espanofonike  
 esperanto - esperanto  
@@ -633,7 +636,7 @@ hai - xayu
 haima - pankreas  
 haista - fa aroma  
 haistaa - fa aroma  
-Haiti - Aiti  
+Haiti - Haiti  
 hajalla - perex  
 hajanainen - anjame di  
 hajauttaa - anjame  
@@ -1465,6 +1468,7 @@ koboltti - kobalte
 koettaa (haastaa, koetella, testata; koe, testi) - teste  
 kohtalo (määrä) - kisma  
 kohtelias (kiltti) - keci  
+kohti (päin) - pro  
 kohti (päin) - verse  
 koinee-kreikka - kon helen baxa  
 koira - vaf  
@@ -2027,7 +2031,7 @@ maailman- - dunial
 maailmankieli - dunia baxe  
 maailmanlaajuinen (globaali) - pandunial  
 maalais- - agristanike  
-maalaiskylä - agri deha  
+maalaiskylä - agre deha  
 maalari - penter  
 maalata - fa pente  
 maalata - pente  
@@ -2189,7 +2193,7 @@ merkitysoppi (semantiikka) - semologia
 merkitä (jättää jälki) - fa marke  
 merkitä (tarkoittaa) - seme  
 merkki (jälki) - marke  
-merkki (signaali) - sin  
+merkki (signaali) - sine  
 Merkurius - Merkur  
 meronyymi (osakäsite) - meronam  
 messiaaninen - mesi di  
@@ -2426,7 +2430,7 @@ nimi - nam
 nimittää (kutsua) - fa nam  
 niobium - niobium  
 nipistää - pinse  
-nisä (tissi) - titi  
+nisä (tissi) - mame  
 nisäkäs - mamal  
 nitraatti - nitrate  
 nitriili - nitril  
@@ -2760,6 +2764,7 @@ pensseli (sivellin) - pente broxa
 perhe - famili  
 perhonen - pelpel  
 periaate - bazisme  
+perikuva (arkkityyppi) - asle tipe  
 perimä (genotyyppi) - gene tipe  
 perintö - varite  
 perjantai - zukraden  
@@ -2937,6 +2942,8 @@ pronomini - vise lexe
 prosessori - proceser  
 protaktinium - protacinium  
 protestoida - proteste  
+prototyyppi (perusmuoto) - prototipe  
+prototyyppinen - prototipike  
 psykologia - ruhu logia  
 publiczny - populike  
 pudonnut (tippunut) - pada di  
@@ -3148,6 +3155,7 @@ rikos - krim
 rikos- (rikollinen) - krim di  
 rinta - sine  
 rintakehä - sine kasa  
+rintasyöpä - mame kanse  
 riski - risko  
 riskialtis - risko di  
 risteys (liittymä) - yunture  
@@ -3608,6 +3616,7 @@ syylä - veruke
 Syyria - Suria  
 syyskuu - mes tisa  
 syömäpuikot - haxi  
+syöpä - kanse  
 syöttää tietoja (syöte) - inpute  
 säde - rade  
 sädekehä (halo) - foto gola  
@@ -3905,7 +3914,7 @@ tuhka - hui
 tuijottaa (toljottaa) - mira  
 tuijottaja - mirar  
 tuikkia - fa sing foto  
-tulehdus - tis  
+tulehdus - itis  
 tulenpalvonta - hogo puja  
 tulevaa aikaa merkitsevä apuverbi - xa  
 tulevaisuus - pos zaman  
@@ -4141,6 +4150,7 @@ valokuvaus - fotografia
 valonsäde - foto radi  
 valssi - valse  
 valtameri - dai bahai  
+valtias (johtaja) - arhe  
 valtuuttaa (delegoida) - vakilize  
 vampyyri - vampir  
 vampyyritursas - vampir ohtopus  
@@ -4429,6 +4439,7 @@ yksimerkityksinen - un semi di
 yksimerkityksinen - unsemike  
 yksinkertainen (mutkaton) - simple  
 yksinpuhelu (monologi) - autologe  
+yksinvalta (monarkia) - unarhia  
 yksinvaltius (autokratia, monarkia) - autokratia  
 yksinäinen - un zai di  
 yksityiskohta (detalji) - detal  

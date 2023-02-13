@@ -90,6 +90,7 @@ arbuza - melancia
 argente - prata  
 argon - argon  
 argu - argumento  
+• anarhia - anarquia  
 arke - arco  
 arke cati - abóbada  
 aroma - cheiro  
@@ -102,6 +103,7 @@ asar - efeito
 asle - origem  
 aslamerikan - indígena (índio)  
 aslike - original  
+asle tipe - arquétipo  
 asma - asma  
 asparge - aspargo  
 astatin - astato  
@@ -794,6 +796,7 @@ iridium - irídio
 ironi - ironia  
 islamisme - islã  
 ite - pedra  
+itis - inflamaçao  
 
 ## J  
 
@@ -886,6 +889,7 @@ kane kasa - gaiola (jaula)
 kane minte - hortelã-verde  
 kane sor - tranca  
 kangaru - canguru  
+kanse - câncer (cancro)  
 kantalupo melon - meloa (cantalupo)  
 Kantalupo va Sabina - Cantalupo in Sabina  
 kanu - canoa  
@@ -1152,6 +1156,8 @@ makinize - mecanizar
 malonomia - economia  
 malte - malte  
 maltos - maltose  
+mame - seio (mama)  
+mame kanse - câncer de mama  
 manera - comportamento (conduta)  
 mang - ocupado (atarefado)  
 mangan - manganésio  
@@ -1711,6 +1717,7 @@ silike - silício
 silke - seda  
 silke larva - bicho-da-seda (sirgo)  
 simbol - símbolo  
+sine - sinal  
 sir plan - complô (conspiração)  
 siro - zero  
 sis - irmã  
@@ -1808,10 +1815,9 @@ terca - oblíquo (torto)
 termal - termal (térmico)  
 teste - tentar (provar)  
 tikete - bilhete  
-tis - inflamaçao  
+• prototipe - protótipo  
 tisa - nove (9)  
 titanium - titânio  
-titi - seio (mama)  
 tix - silencioso  
 tixta - silêncio  
 to misal - por exemplo  

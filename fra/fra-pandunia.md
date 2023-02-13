@@ -104,6 +104,7 @@ analgésie - algesia
 analgésique (antidouleur) - analgive  
 analyser (analyse) - fen lize  
 ananas - ananas  
+anarchie - anarhia  
 anaérobique - anairobiike  
 anchois - ancovi  
 ancre - angar  
@@ -150,6 +151,7 @@ arche de Noé - Noe di nave
 archer - arker  
 architecte - bine planer  
 architecture - bine plan  
+archétype - asle tipe  
 arctique - Artika  
 argent - argente  
 argent - pesa  
@@ -384,6 +386,8 @@ Camomille Romaine - roma kamil
 Camomille sauvage - kamil  
 camphre - kafur  
 canapé (sofa) - sofa  
+cancer - kanse  
+cancer du sein - mame kanse  
 canevas (toile) - pente tela  
 canif - jebe caku  
 canne - gana  
@@ -741,6 +745,7 @@ empreinte de pied - fute marke
 empreinte digitale - angul marke  
 empruntre - jeka na  
 en arrière - a re  
+en avant - pro  
 en avant - to pro  
 en ligne - a lin  
 enclume - metal bede  
@@ -961,7 +966,7 @@ hameçon - pexe huke
 hassium - hesium  
 haut - gau  
 hautes technologies - gau tehni  
-Haïti - Aiti  
+Haïti - Haiti  
 hein? - he  
 henné - hena  
 herbe (gazon) - cau  
@@ -1047,7 +1052,7 @@ infection (contagion) - patomise
 infection - infete  
 infidèle (incroyant) - andiniste  
 infidèle (incroyant) - ankreder  
-inflammation - tis  
+inflammation - itis  
 informatique - data culi logia  
 infrastructure - baze strute  
 inférer - infere  
@@ -1730,6 +1735,7 @@ propice - bon sin di
 propriété (possession, bien) - mal  
 protactinium - protacinium  
 protocole - buro riti  
+prototype - prototipe  
 proximité - proxia  
 prune de Java - jamul  
 précieux - bau di  
@@ -1929,7 +1935,7 @@ seaborgium - siborgium
 seau - baldi  
 secouer - roke  
 secte - din xia  
-sein - titi  
+sein - mame  
 sel - yem  
 semaine - cetiden  
 semence - seme  
@@ -1945,6 +1951,7 @@ sexologie - sexulogia
 Shiva - xiva  
 shopping - xope  
 si - si  
+signe - sine  
 signer - nam kitaba  
 signifier (voiloir dire) - seme  
 silence - tixta  

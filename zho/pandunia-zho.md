@@ -22,7 +22,7 @@ Afganestan - 阿富汗
 agile - 灵活的  
 agrobiologia - 土壤生物学  
 agronomia - 农学  
-agri deha - 农村  
+agre deha - 农村  
 air - 空气  
 • anairobiike - 厌氧的  
 air ordu - 空军  
@@ -80,6 +80,7 @@ arane nete - 蜘蛛网
 arbuza - 西瓜  
 argente - 银  
 argon - 氩  
+• anarhia - 无政府状态  
 arke - 弓 (琴弓, 拱)  
 arke cati - 拱顶  
 aroma - 气味  
@@ -760,6 +761,7 @@ iode - 碘
 iridium - 铱  
 islamisme - 回教 (伊斯蘭教)  
 ite - 石 (岩)  
+itis - 炎症  
 
 ## J  
 
@@ -857,6 +859,7 @@ kane minte - 留兰香
 kane sor - 门闩  
 kangaru - 袋鼠  
 kanon - 经典  
+kanse - 癌症  
 kantalupo melon - 鈔皮瓜  
 kanun vala - 律师  
 kanyon - 峡谷 (深谷)  
@@ -1086,6 +1089,7 @@ makinize - 机械化
 malonomia - 经济学  
 malte - 麦芽  
 maltos - 麦芽糖  
+mame kanse - 乳癌  
 mana - 意义  
 manera - 方式  
 mang - 忙  
@@ -1659,11 +1663,11 @@ terca - 斜的
 teze - 论据  
 tikete - 票  
 tim - 队  
+• prototipe - 原型  
 tipi - 梯皮  
 tire kane - 杆  
 tire yo milke - 拉  
 tire yo pil - 削 (刮去)  
-tis - 炎症  
 tisa - 九 (9)  
 titanium - 钛  
 tix - 噓  

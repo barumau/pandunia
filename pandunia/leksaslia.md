@@ -181,7 +181,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**benci**|eng:bench, swa:benchi, hin:बेंच (bẽc), jpn:ベンチ (benchi), kor:벤치 (benchi)|
 |**benzi**|zho:锛子 (bēnzi), yue:錛子 (ban1zi2)|
 |**benzin**|deu:Benzin, spa:bencina, rus:бензин (benzin), tur:benzin, ara:بنزين (banzīn), hin:बेंज़ीन (benzīn), may:bensin, jpn:ベンジン (benjin), swa:benzini|
-|**bere**|fra:béret, tur:bere, eng:beret, jpn:ベレー帽 (berē bō), zho:贝雷帽 (bèiléimào), rus:берет (beret)|
+|**bere**|fra:béret, tur:bere, eng:beret, jpn:ベレー帽 (berē bō), zho:贝雷帽 (bèiléimào), yue:巴黎帽 (baalaimou), rus:берет (beret)|
 |**beri**|deu:Beere, eng:berry, may:beri, hin:बेरी (berī), ben:বেরি (beri), jpn: ベリー (berī)|
 |**berilium**|eng:beryllium, fra:béryllium, spa:berilio, por:berílio, rus:бериллий, zho:铍 (pí), jpn:ベリリウム, kor:베릴륨, vie:swa:berili, hin:बेरिलियम, ben:বেরিলিয়াম, may:berilium, ara: بيريليوم|
 |**berklium**|eng:berkelium, fra:berkélium, spa:berkelio, por:berqueélio, rus:берклий, zho:锫 (péi), jpn:バークリウム, kor:버클륨, vie:beckeli, hin:बर्केलियम, ben:বার্কেলিয়াম, may:berkelium, swa:berkeli, ara: بركليوم|
@@ -233,14 +233,14 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**bum**|eng:boom, deu:Bumm, fra:boum, spa:por:bum, hin:बूम (būm), zho:砰 (pēng), kor:펑 (peong), vie:bùm|
 |**bure**|eng:fra:bureau, spa:buro-, por:birô, rus:бюро (byuro), pol:biuro, tur:büro|
 |**burge**|deu:Burg, egy: برج‎ (burg), ara:urd: بُرْج‎ (burj), hin:बुर्ज (burj), may:puri, + hin:दुर्ग (durg), ben:দুর্গ (durg)|
-|**bus**|deu:fra:eng:spa:bus, rus:автобус (avtobus), hin:बस (bas), urd:(bas), jpn:バス (basu), kor:버스 (beoseu), fas:(otobus), tur:otobüs, swa:basi, hau:bas, zho:巴士 (bāshì)|
+|**bus**|deu:fra:eng:spa:bus, rus:автобус (avtobus), hin:बस (bas), urd:(bas), jpn:バス (basu), kor:버스 (beoseu), fas:(otobus), tur:otobüs, swa:basi, hau:bas, zho:巴士 (bāshì), yue:巴士 (baasi)|
 |**buste**|fra:buste, eng:bust, spa:por:busto, rus:бюст (byust), deu:Büste|
 |**busu**|ara: بُوسَة‎ (būsa), fas: بوسه‎ (buse), tur:buse, swa:busu, deu:Busserl, fra:bisou, spa:beso|
 |**bute**|deu:Butter, eng:butter, fra:beurre, jpn:バター (batā), kor:버터 (beoteo), vie:bơ, wuu:白脱 (ba' ta)|
 |**buta**|eng:boot, fra:botte, spa:por:bota, rus:ботинок (botinok), pol:may:but, fas: بوت‎ (but), jpn:ブーツ (būtsu), swa:buti|
 |**buton**|eng:button, spa:botón, por:botão, fra:bouton, hin:बटन (baṭan), ben:বোতাম (botam), jpn:ボタン (botan), kor:버튼 (beoteun)|
 |**buyu**|swa:mbuyu, wol:buy, sna:muuyu, zul:isimuhu|
-|**cai**|zho: 茶 (chá), jpn: (cha), kor:차 (cha), vie:trà, tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy), hau:shayi, por:chá|
+|**cai**|zho:茶 (chá), yue:茶 (caa4), jpn:茶 (cha), kor:차 (cha), vie:trà, tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy), hau:shayi, por:chá|
 |**caku**|hin:चाक़ू (cāqū), ben:চাকু (caku), fas:(čâqu), kan:ಚಾಕು (cāku) + tur:çakı, tel:చాకు (cāku)|
 |**camaca**|hin:चम्मच (cammac), ben:চামচ (camôc), may:camca, kan:ಚಮಚ (camaca), fas: چمچه (čamče), tel:చెమ్చా (cemcā), pnb:ਚਮਚਾ (camcā), tur:çömçe + tha:ช้อน (chon)|
 |**campion**|eng:fra:champion, spa:campeón, por:campeão, rus:чемпион (chempion), tur:şampiyon, jpn:チャンピオン (chanpeon), kor:챔피언 (chaempieon)|
@@ -564,8 +564,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**haha**|eng:fra:por:tur:haha, spa:jaja, rus:ха-ха (ha-ha), zho:哈哈 (hāhā), jpn:わはは (wa-ha-ha), ara:(hahah)|
 |**haide**|rum:háide, ell:άιντε (áinte), bul:ха́йде (hájde), rus:айда (ayda), tur:hadi, ara:هَيَّا‎ (hayyā), vie:hãy|
 |**haima**|ara:(xayma), hau:laima, hin:ख़ैमा (xEmā), swa:hema, may:kemah, may:khemah, mng:майхан (mayhan)|
-|**haki**|fas: خاک (xâk), hin:ख़ाक (xāk), ben:খাক (khâk), tur:haki, eng:khaki, fra:kaki, spa:caqui, por:cáqui, rus:хаки (haki), zho:卡其 (kǎqí), jpn:カーキ色 (kāki-iro), kor:카키색 (kakisaek), vie:màu kaki|
-|**haki cupu gi**|zho:吸尘器 (xīchénqì), deu:Staubsauger|
+|**haki**|fas: خاک (xâk), hin:ख़ाक (xāk), ben:খাক (khâk), tur:haki, eng:khaki, fra:kaki, spa:caqui, por:cáqui, rus:хаки (haki), zho:卡其 (kǎqí), yue:卡其色 (kaakeisik), jpn:カーキ色 (kāki-iro), kor:카키색 (kakisaek), vie:màu kaki|
 |**haku**|ara: حَقّ‎ (ḥaqq), hin:हक़ (haq), ben:হক (hôk), pnb:ਹੱਕ (hakka), tel:హక్కు (hakku), tur:may:hak, swa:haki, hau:hakki|
 |**hal**|ara:حال (ḥāl), hin:हालत (hālat), swa:hau:hali, tur:hâl|
 |**halal**|ara:(ḥalāl), fas:urd:(halāl), eng:spa:fra:por:may:hau:halal, tur:helal, rus:халяльный (xaljalʹniy), hin:हलाल (halāl), swa:halali, kor:할랄 (hallal)|
@@ -653,6 +652,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**islam**|ara:(ʾislām), fas:(taslim), tur:teslim|
 |**isme**|tha:เสริม (soem) + eng:-ism, fra:-isme, spa:por:-ismo, rus:-изм (-izm), may:-isme|
 |**ite**|eng:fra:-ite, spa:por:-ito, rus:-ит (-it) + (brick) ben:ইট (iṭ), hin:ईंट (ī̃ṭ), tha:อิฐ (it), khm:ឥដ្ឋ (ʼət), mya: အုတ် (ut)|
+|**itis**|eng:spa:-itis, fra:por:-ite, rus:-ит (-it)|
 |**ja**|zho:者 (zhě);家 (jiă), kor:자 (ja), vie:gia|
 |**jaga**|hin:जागना (jāgnā), ben:জাগা (jaga), pan:ਜਾਗਣਾ (jāgṇā), mar:जागणे (j̈āgṇe), guj:જાગવું (jāgvũ), may:jaga|
 |**jai**|hin:जय (jay), ben:জয় (jôy), tel:జయ (jaya), may:jaya, tha:ชัย (chai), khm:ជ័យ (cɨy), mya:ဇေယျ (jeyya)|
@@ -707,7 +707,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**kai**|zho:开 (kāi), wuu:開 (khe1), jpn:開 (kai), kor:개 (gae), vie:khai, tha:ไข (kǎi), lao:ໄຂ (khai)|
 |**kaju**|fra:cajou, spa:cajú, por:caju, eng:cashew, deu:Kaschu, hin:काजू (kājū), ben:কাজু (kaju), ara: كَاجُو‎ (kājū), may:gajus, tur:kaşu, jpn:カシュー (kashū), kor:캐슈 (kaesyu)|
 |**kaka**|spa:por:fra:caca, deu:Kacke, ara:(kākā), tur:kaka, rus:кака (kaka), fas:(kake)|
-|**kakau**|por:cacau, ara:(kākāw), spa:cacao, eng:cocoa, rus:какао (kakao), jpn:カカオ (kakao), zho:可可 (kěkě), vie:cacao, swa:kakao|
+|**kakau**|por:cacau, ara:(kākāw), spa:cacao, eng:cocoa, rus:какао (kakao), jpn:カカオ (kakao), zho:可可 (kěkě), yue:唂咕 (guk1gu2), vie:cacao, swa:kakao|
 |**kaki**|jpn:柿 (kaki), min:柿 (khī), deu:Kaki, eng:fra:kaki, spa:por:caqui, ara: كَاكَا‎ (kākā), swa:mjoho kaki|
 |**kalium**|rus:калий, jpn:カリウム, vie:kali, may:kalium, swa:kali|
 |**kala**|hin:काला (kālā); कारौ (kārau), ben:কালো (kalo), pnb:ਕਾਲਾ (kālā) + tam:கருப்பு (karuppu) + tur:kara, kaz:қара (qara)|
@@ -733,6 +733,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**kangaru**|eng:kangaroo, spa:canguro, por:canguru, rus:кенгуру (kenguru), tur:kanguru, swa:kangaruu, ara:كَنْغَر‎ (kanḡar), hin:कंगारू (kaṅgārū), may:kanggaru, jpn:カンガルー (kangarū)|
 |**kanjar**|fas:(xanjar), tur:haner, rus:кинжал (kinžal)|
 |**kanon**|eng:fra:spa:canon, por:canone|
+|**kanse**|eng:fra:cancer, spa:cáncer, por:câncer, hin:कैंसर (kainsar), ben:ক্যান্সার (kênsar), tur:kanser, swa:kansa, jpn:癌 (gan) |
 |**kanta**|hin:कंधा (kandhā), urd:(kandhā), ben:কাঁধ (kandhô), + jpn:肩 (kata), + ara:(kataf), + min:肩頭 (keng-thâu)|
 |**kantalupo melon**|eng:cantaloupe, spa:por:cantalupo, fra:cantaloup, deu:Cantaloup, rus:канталупа (kantalupa), jpn:カンタロープ (kantarōpu)|
 |**kanu**|eng:canoe, fra:canoë, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu), tur:kano|
@@ -754,10 +755,10 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**karne**|spa:por:carne, eng:carnal + fra:charnel; incarnation, deu:Inkarnation|
 |**karote**|eng:carrot, fra:carotte, deu:Karotte, swa:karoti, hau:karas, amh:ካሮት (karot), may:karot, vie:cà rốt, tam:காரட் (kāraṭ)|
 |**karte**|eng:chart, fra:carte, spa:por:carta, rus:карта (karta), ara: خَرِيطَة‎ (ḵarīṭa), tur:harita|
-|**karta**|eng:card, fra:carte, spa:por:carta, deu:Karte, rus:карта (karta), tur:kart, swa:kadi, hau:karta, hin:कार्ड (kārḍa), ben:কার্ড (kārḍa), may:kartu, zho:卡 (kǎ), jpn:カード (kādo), kor:카드 (kadeu)|
+|**karta**|eng:card, fra:carte, spa:por:carta, deu:Karte, rus:карта (karta), tur:kart, swa:kadi, hau:karta, hin:कार्ड (kārḍa), ben:কার্ড (kārḍa), may:kartu, zho:卡 (kǎ), yue:卡 (kaa1), jpn:カード (kādo), kor:카드 (kadeu)|
 |**karuba**|ara: خَرُّوب‎ (ḵarrūb), eng:carob, fra:caroube, spa:algarrobo, por:alfarroba|
 |**karvan**|fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|
-|**kase**|lat:capsa, deu:Kasse, eng:fra:case, spa:caja, por:caixa, rus:касса (kassa), swa:kasha + ara:(qafaṣ), hin:क़फ़स (qafas), tur:kafes + zho:卡式 (kǎshì), jpn:カセット (kasetto), kor:카세트 (kaseteu), hau:kaset|
+|**kase**|lat:capsa, deu:Kasse, eng:fra:case, spa:caja, por:caixa, rus:касса (kassa), swa:kasha + ara:(qafaṣ), hin:क़फ़स (qafas), tur:kafes + zho:卡式 (kǎshì), yue:卡式 (kaa1sik1), jpn:カセット (kasetto), kor:카세트 (kaseteu), hau:kaset|
 |**kaska**|spa:cáscara, por:casca + nan:殼 (kag4), wuu:殼 (khoq4), jpn:殻 (kaku)|
 |**kastana**|spa:castaňa, ara:(kastanāʾ), tur:kestane, rus:каштан (kaštan)|
 |**kasu**|eng:case, fra:cas, spa:por:caso, deu:Kasus|
@@ -803,7 +804,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**klor**|eng:chlorine, fra:chlore, spa:cloro, por:cloro, rus:хлор, vie:clo, hin:क्लोरीन, ben:ক্লোরিন, may:klor, swa:klorini, ara: كلور|
 |**klube**|eng:spa:fra:club, por:clube, rus:клуб, tur:kulüp, swa:klabu, hin:क्लब (klab), may:kelab, zho:俱乐部 (jùlèbù), jpn:クラブ (kurabu)|
 |**klus**|eng:fra:spa:por:-clus-, rus:ключить (-klyučítʹ)|
-|**koala**|eng:fra:spa:vie:may:swa:tur:koala, por:coala, rus:коала (koala), zho:考拉 (kǎolā), jpn:コアラ (koara), kor:코알라 (koalla), ara: كُوَالَا‎ (kuwalā), hin:कोअला (koalā), ben:কোয়ালা (koẏala), |
+|**koala**|eng:fra:spa:vie:may:swa:tur:koala, por:coala, rus:коала (koala), zho:考拉 (kǎolā), yue:考拉 (haau2laa1), jpn:コアラ (koara), kor:코알라 (koalla), ara: كُوَالَا‎ (kuwalā), hin:कोअला (koalā), ben:কোয়ালা (koẏala)|
 |**kobalte**|eng:cobalt, fra:cobalt, spa:cobalto, por:cobalto, rus:кобальт, zho:钴 (gǔ), jpn:コバルト, kor:코발트, vie:coban, hin:कोबाल्ट, ben:কোবাল্ট, may:kobalt, swa:kobalti, ara: كوبلت|
 |**kode**|eng:code, spa:por:código, ru:код, fas:کد‎ (kod), hin:कोड (koḍ), jpn:コード (kōdo)|
 |**koda**|eng:coda, spa:coda,cola, por:cauda, fra:côté, jpn:コーダ (kōda)|
@@ -854,7 +855,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**kube**|spa:por:cubo, deu:Kubus, eng:fra:cube, rus:куб (kub), ara:(kaʿba), may:kubus, tur:küp|
 |**kudi**|ara: كُوع‎ m (kūʿ) + fra:coude + hin:कुहनी (kuhnī)|
 |**kuke**|eng:cook, deu:Kock, ita:cuoco, may:koki, tha:กุ๊ก (kuk), sango:kuku + rus:кухар (kuhar), pol:kucharz|
-|**kuku**|eng:cuckoo, fra:coucou, spa:por:cuco, rus:кукушка (kukushka), fas: کوکو‎ (kuku), jpn:郭公 (kakkō), zho:布谷鸟 (bùgǔniǎo), tur:guguk, hau:kukku|
+|**kuku**|eng:cuckoo, fra:coucou, spa:por:cuco, rus:кукушка (kukushka), fas: کوکو‎ (kuku), jpn:郭公 (kakkō), zho:布谷鸟 (bùgǔniǎo), yue:布谷鳥 (bou3 guk1 niu5), tur:guguk, hau:kukku|
 |**kul**|eng:deu:fra:cool, jpn:クール (kūru), zho:酷 (kù)|
 |**kulte**|eng:cultivate, fra:cultiver, spa:por:cultivar, rus:культура (kulʹtúra), fas: کولتور‎ (kultur), tur:kültür, jpn:カルチャー (karuchā), tam:கலாச்சாரம் (kalāccāram)|
 |**kume**|eng:cumulate, fra:cumuler, spa:por:cumular + tur:kumul + ara:كَوْمَة‎ (kawma), fas: کومه (kume)|
@@ -959,7 +960,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**mal**|ara:fas:urd:  مَال‎ (māl), hin:माल (māl), ben:মালিক, swa:mali, may:milik, tur:mal|
 |**malaria**|eng:spa:fra:swa:may:malaria, por:malária, rus:малярия (mal′arija), tur:malarya, ara:مَلَارِيَا‎ (malāriyā), hin:मलेरिया (maleriyā), jpn:マラリア (mararia)|
 |**malte**|eng:fra:tur:malt, deu:Malz, spa:malta, por:malte, fas: مالت‎ (mâlt), ara: مَلْت‎ (malt)|
-|**mamal**|eng:mammal, spa:por:mamífero, fra:mammifère, tur:memeli, may:mamalia|
+|**mame**|fas: ممه‎ (mame), tur:meme, eng:mamma, spa:por:mama + fra:mammifère, may:mamalia|
 |**mana**|ara:(maʿnā), fas:urd:(ma'ni), hin:मअनी (maani), swa:maana, haw:manaʻo, eng:meaning, deu:Meinung|
 |**manera**|fra:manière, eng:manner, rus:манера (manyera), jpn:マナー (manā), spa:manera, por:maneira, deu:Manieren|
 |**mang**|zho:忙 (máng), yue:忙 (mong4), wuu:忙 (maan), kor:망 (mang)|
@@ -1096,7 +1097,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**nau**|zho:脑 (nǎo), yue:腦 (nou5), jpn:脳  (nō), kor:뇌 (noe), vie:não|
 |**nautile**|eng:nautilus, spa:nautilo, por:nautiloide, rus:наутилид (nautilid), ara:نوتي (noti), hin:नौटिलस (nautilas), tur:notilus|
 |**nave**|fra:navire, spa:nave, por:navio, fas: ناو‎ (nâv), hin:नाव (nāv)|
-|**ne**|por:né, hin:न (na), zho:呢 (ne), jpn:ね (ne), vie:nhé|
+|**ne**|por:né, hin:न (na), zho:呢 (ne), yue:呢 (ne1), jpn:ね (ne), vie:nhé|
 |**nefre**|eng:fra:nephro-, spa:por:nefro-, deu:Niere + rus:нефрит (nefrit)|
 |**nege**|eng:negate, deu:negieren, fra:nier; négatif, spa:por:negar, rus:негативный (negativniy)|
 |**nekre**|eng:spa:por:necro-, fra:nécro-, deu:nekro-, rus:некро- (nekro-)|
@@ -1262,10 +1263,12 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**presidente**|eng:president, deu:Präsident, fra:président, spa:por:presidente, rus:президент (prezident), fas: پرزیدنت‎ (perezident), may:presiden|
 |**prese**|fra:pression, spa:presión, por:pressão, rus:пресс (press), jpn:プレス (puresu)|
 |**prive**|eng:private, deu:privat, fra:privé, spa:por:privado, rus:прива́тный (privatnyi), may:pribadi|
+|**pro**|deu:eng:fra:spa:por:pro-, hin:प्र- (pra-), ben:প্র- (prô-), may:pro-; pra-|
 |**proba**|deu:Probe, eng:prove; probe, spa:probar, por:provar, rus:проба|
 |**problem**|eng:problem, fra:problème, spa:por:problema, rus:проблема (problema), ben:প্রব্লেম (prôblem)|
 |**profesor**|eng:deu:por:professor, fra:professeur, spa:profesor, rus:профессор (professor), ara: بروفيسور‎ (brofesōr), tur:profesör, swa:profesa, hau:farfesa, fas:پروفسور‎ (profesor), hin:प्रोफ़ेसर (profesar)|
 |**prometium**|eng:promethium, fra:prométhium, spa:prometio, por:promécio, rus:прометий, zho:钷 (pǒ), jpn:プロメチウム, kor:프로메튬, vie:prometi, hin:प्रोमेथियम, ben:প্রমিথিয়াম, may:prometium, swa:promethi, ara: بروميثيوم|
+|**prote**|deu:eng:fra:spa:por:may:tur:proto-, rus:прото- (proto-)|
 |**protacinium**|eng:protactinium, fra:protactinium, spa:proactinio, por:protacnídio, rus:протактиний, zho:镤 (pú), jpn:プロトアクチニウム, kor:프로트악티늄, vie:protactini, hin:प्रोटैक्टीनियम, ben:প্রোটেক্টিনিয়াম, may:protaktinium, swa:protaktini, ara: بروتكتنيوم|
 |**proxe**|eng:proximal, fra:proche, spa:por:próximo|
 |**puding**|eng:fra:deu:pudding, spa:pudín, por:pudim, rus:пудинг (puding), tur:may:puding, swa:pudini, ara:بودنغ (budingh), zho:布丁 (bùdīng), jpn:プディング (pudingu), kor:푸딩 (puding)|
@@ -1398,8 +1401,8 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**silke**|zho:丝 (sī), yue:絲 (si1), wuu:絲 (sr1), kor:사 (sa) + eng:silk, spa:por:sérico, rus:шёлк (sholk)|
 |**simbol**|eng:symbol, fra:symbole, spa:por:símbolo, rus:символ (simbol), jpn:シンボル (shinboru), may:simbol|
 |**simple**|eng:spa:fra:simple, por:simples, deu:simpel|
-|**sin**|eng:sign, spa:señal, por:sinal, fra:signe|
-|**sine**|fas:(sine), tur:sine, hin:सीना (sīnā), ben:সিনা (sinā), spa:seno, fra:sein, ltn:sinus|
+|**sine**|eng:sign, spa:señal, por:sinal, fra:signe|
+|**sine**|fas: سینه‎ (sine) tur:sine, hin:सीना (sīnā), ben:সিনা (sinā), spa:seno, fra:sein, ltn:sinus|
 |**singa**|may:singa, hin:सिंघ (singh), ben:সিংহ (singh), tam:சிங்கம் (sinkam), tha:สิง (sing), zho:狮 (shī), jpn:獅子 (shishi), + swa:simba|
 |**sir**|ara: سِرّ (sirr), hin:सेर (ser), may:sir, swa:siri, hau:ful:asiri, yor:àṣírí, tur:sır, fas:(serr)|
 |**siro**|ara: صِفْر‎ (ṣifr), swa:sifuri, hau:sifili, hin:सिफ़र (sifar), may:sifar, eng:por:zero, fra:zéro, spa:cero, rus:зеро (zero), jpn:ゼロ (zero), kor:제로 (jero), vie:zêrô|
@@ -1501,10 +1504,8 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**tipe**|eng:fra:type, spa:por:tipo, ru:тип (tip), tur:tip, jpn:タイプ (taipu)|
 |**tipi**|deu:Tipi, eng:fra:spa:por:may:tur:tipi, hin:टीपी (tipi), zho:梯皮 (tīpí), jpn:ティピー (tipi), kor:티피 (tipi)|
 |**tire**|spa:por:tirar, fra:tirer, eng:tear, tur:tire, may:tarik|
-|**tis**|eng:spa:-itis, fra:por:-ite, rus:-ит (-it)|
 |**tisa**|ara: تِسْعَة‎ (tisʿa), swa:tisa|
 |**titanium**|eng:titanium, fra:titane, spa:titanio, por:titânio, rus:титан, zho:钛 (tài), jpn:チタン, kor:타이타늄, vie:titan, hin:टाइटानियम, ben:টাইটেনিয়াম, may:titanium, swa:titani, ara: تيتانيوم|
-|**titi**|eng:tit, fra:tété, spa:teta, rus:титьки (tit’ki), ara:ثَدْي‎ (ṯady), swa:titi, may:tetek, jpn:乳 (chichi)|
 |**tix**|rus:тишина (tišina) + eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus|
 |**to**|rus:до (do) pol:do + zho:到 (dào), yue:到 (dou3) + eng:to + fas: تا‎ (tâ), hin:-तक (-tak)|
 |**tocu**|eng:touch, spa: tocar, + hin: छूना (chūnā) + zho: 触 (chù), yue:觸 (cuk1), kor:촉 (chok)|
@@ -1550,7 +1551,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**un**|fra:un, spa:uno, por:um,una, eng:one|
 |**uranium**|eng:uranium, fra:uranium, spa:uranio, por:urânio, rus:уран, jpn:ウラン, kor:우라늄, vie:urani (uran), hin:युरेनियम, ben:ইউরেনিয়াম, may:uranium, swa:urani, ara: يورانيوم|
 |**uze**|eng:use, fra:user, spa:por:usar, pol:używać|
-|**va**|eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah|
+|**va**|eng:wow, fra:ouah, zho:哇 (wā), yue:嘩 (waa1), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah|
 |**vaf**|eng:woof, fra:ouaf, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|
 |**vafle**|eng:waffle, deu:Waffel, rus:вафля (vaflya), zho:窝夫 (wōfū), yue:華夫 (waa4fu1), jpn:ワッフル (waffuru), kor:와플 (wapeul)|
 |**vagina**|eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|
@@ -1685,7 +1686,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**yurta**|tur:eng:yurt, deu:Jurte, fra:yourte, spa:yurta, por:iurte, rus:юрта (yurta), hin:युर्त (yurt), kor:유르트 (yureuteu)|
 |**yuterbium**|eng:ytterbium, fra:ytterbium, spa:iterbio, por:itérbio, rus:иттербий, zho:镱 (yì), jpn:イッテルビウム, kor:이테르븀, vie:ytecbi, hin:यिट्टरबियम, ben:ইটারবিয়াম, may:iterbium, swa:yitebi, ara: يتربيوم|
 |**yutrium**|eng:yttrium, fra:yttrium, spa:itrio, por:itrio, rus:иттрий, zho:钇 (yǐ), jpn:イットリウム, kor:이트륨, vie:ytri, hin:इत्रियम, ben:ইটরিয়াম, may:itrium, swa:yitri, ara: يتريوم|
-|**zai**|zho:在 (zài), jpn:在 (zai), vie:tại|
+|**zai**|zho:在 (zài), yue:在 (zoi6), jpn:在 (zai), vie:tại|
 |**zaitun**|ara:(zaitūn), spa:aceituna, may:zaitun, hau:swa:zaituni, hin:urd:(zaitūn)|
 |**zalime**|ara: ظَالِم‎ (ẓālim), fas: ظالم‎ (zâlem), hin:ज़ालिम (zālim), tur:may:zalim, swa:dhalimu, hau:zalumci|
 |**zaman**|may:jam + ara: زَمَن‎ (zaman), swa:zamani, tur:zaman + hin:समय (samay), ben:সময় (sômyô)|
@@ -1694,7 +1695,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**zelo**|ell:ζῆλος (zêlos), eng:zeal; jealous, fra:jaloux, spa:celos, por:zelo|
 |**zeta**|eng:fra:spa:por:zetta-, may:zeta-, jpn:ゼタ- (zeta-), kor:제타- (jeta-), zho:泽它- (zétā-)|
 |**zeze**|swa:nzi, sot:ntsintsi, lin:kon:nzinzi, ibo:ijiji, yor:eṣinṣin + eng:tsetse, fra:por:tsé-tsé, rus:цеце (tsetse), tur:çeçe, zho:采采蝇 (cǎicǎiyíng)|
-|**zi**|zho:字 (zì), jpn:字 (ji), kor:자 (ja)|
+|**zi**|zho:字 (zì), yue:字 (zi6), jpn:字 (ji), kor:자 (ja)|
 |**zikura**|ara: زِقُّورَة‎ (ziqqūra), eng:tur:ziggurat, deu:Zikkurat, fra:ziggourat, spa:zigurat, por:zigurate, rus:зиккурат (zikkurat), zho:金字形神塔, jpn:ジッグラト (jiggurato), kor:지구라트 (jigurateu)|
 |**zina**|ara: زِنَاء‎ (zināʾ), may:tur:hau:zina, swa:zinaa, fas: زنا‎ (zenā)|
 |**zinke**|eng:zinc, fra:zinc, spa:cinc, por:zinco, rus:цинк, zho:锌 (xīn), ben:জিঙ্ক, may:seng, swa:zinki|
@@ -1707,6 +1708,6 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**zoku**|wuu:续 (zoq), yue:續 (zuk6), jpn:続 (zoku), kor:속 (sok), vie:kế tục|
 |**zombi**|kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)|
 |**zone**|ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|
-|**zukam**|ara:زُكَام‎ (zukām), hin:ज़ुकाम (zukām) + zho:感(冒) (gǎn(mào)), jpn:感(冒) (kan(bō)), kor:감(기) (gam(gi)), vie:cảm|
+|**zukam**|ara:زُكَام‎ (zukām), hin:ज़ुकाम (zukām) + zho:感(冒) (gǎn(mào)), yue:感冒 (gam2mou6), jpn:感(冒) (kan(bō)), kor:감(기) (gam(gi)), vie:cảm|
 |**Zukra**|ara: الزُّهَرَة‎ (az-zuhara), swa:Zuhura, hau:Zaharatu, tur:Zühre, fas: زهره‎ (zohre), urd: زہرہ‎ (zuhra), may:Zuhrah + hin:शुक्र (śukra), ben:শুক্র (śukr), mya:သောကြာ (sau:kra), tha:ศุกร์ (sùk)|
 |**zuku**|zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|

@@ -89,7 +89,7 @@ agrokulte - agriculture
 agronomia - agronomy  
 agristan - countryside  
 agristanike - rural (rustic)  
-agri deha - rural village  
+agre deha - rural village  
 aha - realize (understand; aha)  
 air - air  
 • anairobiike - anaerobic  
@@ -103,7 +103,7 @@ ais di - icy
 ais hoki - ice hockey  
 ais krem - ice cream  
 ais xarbe - sherbet  
-Aiti - Haiti  
+Haiti - Haiti  
 ajabu - wonder (awe, marvel)  
 ajabu di - amazing (astonishing)  
 akare - tick (mite)  
@@ -216,6 +216,11 @@ argente - silver
 Argentina - Argentina  
 argon - argon  
 argu - argument (rationale, grounds)  
+arhe - leader  
+• anarhia - anarchy  
+• anarhiste - anarchist  
+• unarhia - monarchy  
+arhia - leadership  
 Ariel - Ariel  
 arke - bow (arch, arc)  
 arke cati - vault (arched ceiling or roof)  
@@ -243,6 +248,7 @@ asle - origin (source)
 aslamerikan - Amerindian (Native American)  
 aslaustralian - Australian Aboriginal  
 aslike - original (authentic)  
+asle tipe - archetype (original model)  
 asma - asthma  
 asparge - asparagus  
 astatin - astatine  
@@ -964,9 +970,9 @@ dosil - tame (docile, obedient)
 dosil gene di - domesticated  
 doste - friend  
 • andoste - enemy (unfriend)  
-dostike - friendly (kind, nice, gentle)  
 doste hin - friendless  
 dostia - friendship  
+dostike - friendly (kind, nice, gentle)  
 dotor - doctor (scholar who has attained doctorate)  
 dotorta - doctorate  
 dou - bean or pea (legume)  
@@ -2096,6 +2102,7 @@ Israel - Israel
 iste - advocate (promoter, supporter, adherent)  
 Italia - Italy  
 ite - stone (piece of rock)  
+itis - inflammation (-itis)  
 
 ## J  
 
@@ -2287,6 +2294,7 @@ kangaru - kangaroo
 kanjar - dagger  
 kanon - classic (canon)  
 kanon di - classic (authoritative, definitive)  
+kanse - cancer  
 kanta - shoulder  
 kantalupo melon - cantaloupe  
 Kantalupo va Sabina - Cantalupo in Sabina  
@@ -2861,7 +2869,9 @@ malte - malt
 maltos - maltose  
 Malta - Malta  
 Malvina nesia - Falkland Islands (Malvinas)  
+mame - breast (boob, tit)  
 mamal - mammal  
+mame kanse - breast cancer  
 mana - meaning (signification)  
 manera - behavior (manners)  
 mang - busy (occupied)  
@@ -3162,9 +3172,9 @@ muxinden - Thursday
 muxmula - medlar  
 muxu - mouse or rat  
 muxu cakra - scroll wheel  
-muzike gense - music genre  
 muzike - music  
 muziker - musician  
+muzike gense - music genre  
 
 ## N  
 
@@ -3759,6 +3769,7 @@ preser - press device
 prive - own (personal, private)  
 • deprive - deprive  
 privatize - privatize  
+pro - toward (forward)  
 proba - try (attempt, give a go, check out, probe)  
 problem - problem (issue)  
 problem di - problematic  
@@ -4129,7 +4140,7 @@ silke - silk
 silke larva - silkworm  
 simbol - symbol (emblem)  
 simple - simple (not complicated)  
-sin - sign (signal)  
+sine - sign (signal)  
 sine - chest (breast)  
 sine kasa - rib cage  
 sine plate - breastplate  
@@ -4396,10 +4407,11 @@ terme - temperature
 termal - thermal  
 termometrer - thermometer  
 tesla - tesla (T)  
-teste - try (attempt)  
 teste - test (challenge, trial)  
+• ateste - attest (affirm by trial)  
 • konteste - contest (challenge)  
 • proteste - protest (challenge for)  
+teste - try (attempt)  
 Tetis - Tethys  
 • hipoteze - hypothesis  
 • hipotezike - hypothetical  
@@ -4413,6 +4425,8 @@ tikete - tag (ticket, label, slip, note)
 tim - team  
 Timor - Timor  
 tipe - type (kind, sort, style, genre)  
+• prototipe - prototype  
+• prototipike - prototypical (being a prototype)  
 tipi - tipi (teepee)  
 tire - pull  
 tire dara - rip current  
@@ -4420,12 +4434,10 @@ tire kane - lever
 tire sanduku - drawer  
 tire yo milke - milk (draw milk)  
 tire yo pil - strip (peel)  
-tis - inflammation (-itis)  
 tisa - nine (9)  
 Titan - Titan  
 Titania - Titania  
 titanium - titanium  
-titi - breast (boob, tit)  
 tix - hush (shh)  
 tix - silent (quiet)  
 tixta - silence  

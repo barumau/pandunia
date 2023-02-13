@@ -59,7 +59,7 @@ ais di - cubierto de hielo
 ais hoki - hockey sobre hielo  
 ais krem - helado  
 ais xarbe - sorbete  
-Aiti - Haití  
+Haiti - Haití  
 ajabu - maravilla  
 ajabu di - maravilloso (asombroso)  
 akare - garrapata (ácaro)  
@@ -163,6 +163,7 @@ argente - plata
 Argentina - Argentina  
 argon - argón  
 argu - argumento  
+• anarhia - anarquía  
 arke - arco  
 arke cati - bóveda  
 arker - arquero  
@@ -188,6 +189,7 @@ asle - origen
 aslamerikan - indígena (indio)  
 aslaustralian - aborigen  
 aslike - original  
+asle tipe - arquetipo  
 asma - asma  
 asparge - espárrago  
 astatin - ástato  
@@ -811,9 +813,9 @@ donjon ventur - juego de mazmorras
 dosil - manso (dócil, obediente)  
 dosil gene di - domesticado  
 doste - amigo  
-dostike - simpático (amable, tierno, dulce)  
 doste hin - sin amigos  
 dostia - amistad (compañerismo)  
+dostike - simpático (amable, tierno, dulce)  
 dotor - doctor  
 dotorta - doctorado  
 dou - legumbre (frijol o arveja)  
@@ -1782,6 +1784,7 @@ isme - ideología (doctrina, -ismo)
 Israel - Israel  
 Italia - Italia  
 ite - piedra  
+itis - inflamación  
 
 ## J  
 
@@ -1945,6 +1948,7 @@ kane sor - cerrojo (pestillo)
 kanga - peine  
 kangaru - canguro  
 kanjar - puñal (daga)  
+kanse - cáncer  
 kanta - hombro  
 kantalupo melon - melón cantalupo  
 Kantalupo va Sabina - Cantalupo in Sabina  
@@ -2430,7 +2434,9 @@ malte - malta
 maltos - maltosa  
 Malta - Malta  
 Malvina nesia - Islas Malvinas  
+mame - seno (teta)  
 mamal - mamífero  
+mame kanse - cáncer de mama  
 mana - significado (acepción)  
 manera - comportamiento (conducta)  
 mang - ocupado (atareado)  
@@ -3205,6 +3211,7 @@ preser - prensa
 prive - privado  
 • deprive - privar (desproveer)  
 privatize - privatizar  
+pro - adelante  
 proba - intentar (probar)  
 problem - problema  
 problem di - problemático  
@@ -3535,7 +3542,7 @@ silke - seda
 silke larva - gusano de seda  
 simbol - símbolo  
 simple - simple  
-sin - señal (letrero, indicio)  
+sine - señal (letrero, indicio)  
 sine - pecho (seno, tórax)  
 sine kasa - caja torácica  
 sine plate - peto  
@@ -3769,8 +3776,8 @@ terme - temperatura
 termal - termal  
 termometrer - termómetro  
 tesla - tesla (T)  
-teste - intentar (probar)  
 teste - prueba  
+teste - intentar (probar)  
 teze - tesis  
 teza - intenso (brusco, ácido, fuerte, afilado, rápido)  
 tezata - intensidad (volumen)  
@@ -3780,6 +3787,7 @@ tikete - etiqueta (boleto, billete)
 tim - equipo  
 Timor - Timor  
 tipe - variedad (tipo, estilo)  
+• prototipe - prototipo  
 tipi - tipi  
 tire - tirar  
 tire dara - corriente de resaca  
@@ -3787,10 +3795,8 @@ tire kane - palanca
 tire sanduku - cajón (gaveta)  
 tire yo milke - ordeñar  
 tire yo pil - quitar (pelar)  
-tis - inflamación  
 tisa - nueve (9)  
 titanium - titanio  
-titi - seno (teta)  
 tix - chito (chist)  
 tix - silencioso  
 tixta - silencio  

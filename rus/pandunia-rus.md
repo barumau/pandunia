@@ -90,6 +90,7 @@ arbuza - арбуз
 argente - серебро  
 argon - аргон  
 argu - аргумент (обосновани)  
+• anarhia - анархия (безвластие)  
 arke - лук (арка)  
 arke cati - свод  
 arker - лучник  
@@ -102,6 +103,7 @@ asan - поза
 asar - эффект  
 asle - начало (причина)  
 aslamerikan - инде́йский  
+asle tipe - архетип  
 asma - астма  
 asparge - спаржа  
 astatin - астат(ин)  
@@ -851,6 +853,7 @@ ironi - ирония
 islamisme - ислам (мусульманство)  
 isme - идеология  
 ite - камень (камешек)  
+itis - воспаление  
 
 ## J  
 
@@ -942,6 +945,7 @@ kane minte - мята колоси́стая
 kane sor - щеколда  
 kangaru - кенгуру  
 kanjar - кинжал  
+kanse - рак  
 kantalupo melon - канталупа  
 Kantalupo va Sabina - Канталупо-ин-Сабина  
 kanu - каноэ  
@@ -1200,6 +1204,7 @@ makinize - механизировать
 malonomia - экономика  
 malte - солод  
 maltos - мальтоза (солодовый сахар)  
+mame kanse - рак груди  
 manera - поведение (манера)  
 mang - занятый  
 mangan - марганец  
@@ -1869,11 +1874,11 @@ teste - проба (тест)
 teze - довод  
 tikete - билет  
 tim - команда  
+• prototipe - прототип (прообраз)  
 tire dara - отбойное течение  
 tire kane - рычаг  
 tire yo milke - тянуть  
 tire yo pil - ободрать  
-tis - воспаление  
 tisa - девять (9)  
 titanium - титан  
 tix - тихий  

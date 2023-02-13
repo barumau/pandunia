@@ -45,7 +45,7 @@ ais di - glacé (glacial, gelé)
 ais hoki - hockey sur glace  
 ais krem - crème glacée  
 ais xarbe - sorbet  
-Aiti - Haïti  
+Haiti - Haïti  
 ajabu - merveille  
 akare - acarien  
 akrabe - scorpion  
@@ -141,6 +141,7 @@ argente - argent
 Argentina - Argentine  
 argon - argon  
 argu - argument  
+• anarhia - anarchie  
 arke - arc  
 arke cati - voûte  
 arker - archer  
@@ -162,6 +163,7 @@ asle - origine
 aslamerikan - amérindien (indien)  
 aslaustralian - aborigènes australiens  
 aslike - originel  
+asle tipe - archétype  
 asma - asthme  
 asparge - asperge  
 astatin - astate  
@@ -972,6 +974,7 @@ ironi - ironie
 islam - soumission  
 islamisme - Islam  
 ite - pierre  
+itis - inflammation  
 
 ## J  
 
@@ -1072,6 +1075,7 @@ kane minte - menthe verte
 kane sor - loquet  
 kangaru - kangourou  
 kanon - classique (canon)  
+kanse - cancer  
 Kantalupo va Sabina - Cantalupo in Sabina  
 kanu - canoë  
 kanyon - canyon (ravin)  
@@ -1346,6 +1350,8 @@ malike - possédant (propriétaire)
 malonomia - économie  
 malte - malt  
 maltos - maltose  
+mame - sein  
+mame kanse - cancer du sein  
 manera - comportement (manière)  
 mang - occupé  
 mangan - manganèse  
@@ -1772,6 +1778,7 @@ preser - pressoir
 prive - personnel (privé)  
 • deprive - priver de  
 privatize - privatiser  
+pro - en avant  
 proba - essayer (tenter)  
 problem - problème  
 problem di - problématique  
@@ -1947,6 +1954,7 @@ silike - silicium
 silke - soie  
 silke larva - ver à soie  
 simbol - symbole  
+sine - signe  
 sir plan - complot (conspiration)  
 sirta - célérité  
 siro - zéro  
@@ -2059,13 +2067,12 @@ teste - épreuve
 teze - argument  
 tikete - billet  
 tim - équipe  
+• prototipe - prototype  
 tipi - tipi  
 tire yo milke - tirer  
 tire yo pil - écorce  
-tis - inflammation  
 tisa - neuf (9)  
 titanium - titane  
-titi - sein  
 tix - chut  
 tix - silencieux (se taire)  
 tixta - silence  

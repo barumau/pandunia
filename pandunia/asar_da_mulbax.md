@@ -12,7 +12,7 @@
 | parsi | 3% |
 | turki | 5% |
 | putonghan | 5% |
-| guangdong | 2% |
+| guangdong | 3% |
 | nipon | 6% |
 | cosen | 4% |
 | viet | 3% |

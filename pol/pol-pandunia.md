@@ -8,7 +8,7 @@
  - a ye  
  - adilkan  
  - agral  
- - agri deha  
+ - agre deha  
  - agrobiologia  
  - agrokulte  
  - airobiike  
@@ -42,10 +42,13 @@
  - anis araki  
  - araki  
  - aranide  
+ - arhe  
+ - arhia  
  - Ariel  
  - arke cati  
  - arte baxa  
  - arte fete  
+ - asle tipe  
  - astral  
  - astre  
  - astronave  
@@ -588,6 +591,7 @@
  - makiniste  
  - makinize  
  - maltos  
+ - mame  
  - mani  
  - manioka fufu  
  - mantra  
@@ -762,6 +766,7 @@
  - privatize  
  - prive  
  - Promete  
+ - prote  
  - pul ekran  
  - pul fina  
  - pul fito yamisme  
@@ -871,7 +876,6 @@
  - tezata  
  - Titan  
  - Titania  
- - titi  
  - tixta  
  - to long  
  - tome  
@@ -1006,6 +1010,7 @@
  - anairobiike  
  - analgesia  
  - analgive  
+ - anarhiste  
  - anding  
  - ankredebil  
  - ankredi  
@@ -1016,6 +1021,7 @@
  - apele  
  - asorbe  
  - aspete  
+ - ateste  
  - atrate  
  - atratevi  
  - bekrede  
@@ -1140,6 +1146,7 @@
  - prejude  
  - prekurse  
  - prepozaje  
+ - pretipe  
  - prexake  
  - procese  
  - proceser  
@@ -1151,6 +1158,8 @@
  - propele  
  - propeler  
  - proteste  
+ - prototipe  
+ - prototipike  
  - provoke  
  - reanimate  
  - reate  
@@ -1196,6 +1205,7 @@
  - tramiser  
  - trilogia  
  - tritomia  
+ - unarhia  
  - unbaxike  
  - ungene  
 A - A  
@@ -1255,6 +1265,7 @@ analgezja - algesia
 analizować (analiza) - fen lize  
 analny, odbytni - anusal  
 ananans - ananas  
+anarchia - anarhia  
 andezyt - andesite  
 Andora - Andora  
 Andy - Andes  
@@ -2028,7 +2039,7 @@ głębokość - fase teleta
 H - H  
 haczyk - pexe huke  
 hafn - hafenium  
-Haiti - Aiti  
+Haiti - Haiti  
 hak - huke  
 halo, cześć - halo  
 hamak - hamake  
@@ -2902,6 +2913,7 @@ napierśnik - sine plate
 naprawa - repare  
 naprawiacz - reparer  
 naprawić, naprawiać - fa xuli  
+naprzód - pro  
 naprzód - to pro  
 narkotyk - narke  
 narodowy (ludowy) - nasial  
@@ -3649,6 +3661,8 @@ radioaktywność - ion radi
 radioaktywny - ion radi di  
 radoiometr - radometrer  
 radon - radon  
+rak (nowotwór złośliwy) - kanse  
+rak piersi - mame kanse  
 rakieta - rakete  
 rama - frem  
 Ramadan - ramazan  
@@ -4666,7 +4680,7 @@ zamknąć (zamykać, zakluczyć, zakluczać, zapinać, zapiąć) - fa sor
 zamknąć zamkiem błyskawicznym - zipe  
 zapach (aromat, smród, odór) - aroma  
 zapakować, pakować - fa pake  
-zapalenie - tis  
+zapalenie - itis  
 zapalenie nerek - nefritis  
 zapalenie opon mózgowych - meninge tis  
 zapalenie pochwy - vagina tis  
@@ -4760,7 +4774,7 @@ znaczek pocztowy - poste cape
 znaczenie - mana  
 znaczyć - seme  
 znaczyć (liczyć się, być ważnym) - ham  
-znak, sygnał - sin  
+znak, sygnał - sine  
 znak, trop - marke  
 znaleźć, znajdywać, odkryć, odkrywać - eureka  
 znać - ken  

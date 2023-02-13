@@ -156,6 +156,8 @@ anal - anusal
 analgesia - algesia  
 analog clock - undurali hor loga gi  
 analyse (analysis) - fen lize  
+anarchist - anarhiste  
+anarchy - anarhia  
 anchor - angar  
 anchovy - ancovi  
 Ancient Egypt (Kemet) - Keme  
@@ -211,6 +213,7 @@ arachnophobia - aranofobia
 arboretum - moka jong parke  
 archer - arker  
 archery - arka suta  
+archetype (original model) - asle tipe  
 archipelago (island chain) - nesia  
 architect - bine planer  
 architecture - bine plan  
@@ -283,6 +286,7 @@ atomic nucleus - atom kerne
 atomic weapon - atom vuki  
 attack (assault, aggression, hostility) - agrese  
 attain (accomplish, indicates the current position) - le  
+attest (affirm by trial) - ateste  
 attract - atrate  
 attraction (fascination, -philia) - file  
 attractive - atratevi  
@@ -555,7 +559,8 @@ Brazzaville - Brazavil
 bread - ban  
 breakdown (-lysis) - lize  
 breakfast - suba yam  
-breast (boob, tit) - titi  
+breast (boob, tit) - mame  
+breast cancer - mame kanse  
 breastplate - sine plate  
 breath - nafas  
 breathe - fa nafas  
@@ -656,6 +661,7 @@ campground - kampe bagi
 camphor tree - kafur  
 Canada - Kanada  
 cancel (nullify, delete, erase) - fa siro  
+cancer - kanse  
 candela - kandela  
 candle - mum foto  
 candy (sweets) - kandi  
@@ -1903,7 +1909,7 @@ hair of the head - kapa kexa
 hairband (headband) - kexa bande  
 hairbrush - kexa broxa  
 hairless - kexa hin  
-Haiti - Aiti  
+Haiti - Haiti  
 half (½) - un fen du  
 hall (big room) - sala  
 halo (aureola) - foto gola  
@@ -2148,7 +2154,7 @@ infection (infestation, contagion) - patomise
 infer - infere  
 infidel (pagan, heathen, unbeliever) - kafir  
 infinity - anlimite  
-inflammation (-itis) - tis  
+inflammation (-itis) - itis  
 information (communicable knowledge) - kon sabi  
 initial (first) - xuru di  
 initial (first; prime) - prime  
@@ -2384,6 +2390,8 @@ lead (bring to) - dute
 lead (direct) - lide  
 lead - plumbe  
 leader (director) - lider  
+leader - arhe  
+leadership - arhia  
 leaf (sheet) - yepa  
 league (alliance) - liga  
 leak - lou  
@@ -2796,6 +2804,7 @@ moment (instant, while) - cana
 momentary - canaike  
 Monaco - Monako  
 monad - monaje  
+monarchy - unarhia  
 Monday - lunaden  
 money - pesa  
 Mongolia - Mongol  
@@ -3546,6 +3555,8 @@ propose (put forth; proposal, suggestion) - propoze
 protactinium - protacinium  
 protect (secure, save) - fa sekur  
 protest (challenge for) - proteste  
+prototype - prototipe  
+prototypical (being a prototype) - prototipike  
 prove (demonstrate, testify) - fa dalil  
 provoke - provoke  
 proximity - proxia  
@@ -3803,7 +3814,7 @@ rum - rom
 run - kore  
 runner - korer  
 rural (rustic) - agristanike  
-rural village - agri deha  
+rural village - agre deha  
 Russia - Rusia  
 Russian language - rus lingue  
 rustle - xaxa  
@@ -4013,7 +4024,7 @@ side-product - paraprodute
 sideways (laterally) - late di  
 Sierra Leone - Sera Leone  
 sign (autograph) - nam kitaba  
-sign (signal) - sin  
+sign (signal) - sine  
 Sikh - sikiste  
 Sikhism - sikisme  
 silence (make silent) - fa xux  
@@ -4507,6 +4518,7 @@ touch - tocu
 tour (excursion, trip) - tur  
 tourism - turisme  
 tourist - turiste  
+toward (forward) - pro  
 towel - tuale  
 tower - tore  
 town - nagre  
