@@ -14,8 +14,8 @@ ada - 習慣 (風俗)
 adamas - 金剛石 (ダイヤモンド)  
 adres - 住所  
 Afganestan - アフガニスタン  
-agronomia - 農学  
 agre deha - 農村  
+agronomia - 農学  
 air - 空気  
 • anairobiike - 嫌気性  
 airobiike - 好気性  
@@ -78,10 +78,10 @@ astatin - アスタチン
 astre - 天体   
 astronomer - 天文学者  
 astronomia - 天文学  
+ate - 行為  
 • dusate - 悪事  
 • reation - 反応  
 • reate - 反応する  
-ate - 行為  
 ation - 行動  
 ative - 活動的  
 Athina - アテネ  
@@ -454,7 +454,6 @@ fa mede - 手伝う (助ける)
 fa mei daka - 飾る  
 fa memo - 思い出す  
 fa najis - 汚す  
-fa nati - 生む  
 fa nomi - 組織する  
 fa pede - おならをする  
 fa politi - 治める (司る)  
@@ -478,7 +477,6 @@ fa xou - 見せる (示す, デモる)
 fa xula - 学ぶ  
 fa xuli - 修理する  
 faide - 使用 (為, 利)  
-false vide - 幻覚  
 fan - ファン  
 fase - 面  
 fase tele - 深い  
@@ -1160,12 +1158,13 @@ mimer - 模倣者
 minte - 薄荷 (ハッカ)  
 mintol - メントール (薄荷脳)  
 miraje - 蜃気楼  
-mira plate - 鏡  
+mire plate - 鏡  
 mirde - 微か  
 • konmisea - 委員会  
 misaje - 伝言 (メッセージ)  
 misioner - 宣教師  
-Misri - エジプト  
+Misre - エジプト  
+mite vide - 幻覚  
 mitre - メートル  
 mixe alkol - カクテル (混合酒)  
 mogu - 膜  
@@ -1184,19 +1183,20 @@ moski - 蚊
 moskvium - モスコビウム  
 mostre - 怪物  (モンスター)  
 moter - モーター (エンジン, 機関)  
+motosikle - オートバイ (モーターサイクル)  
 moto cati - ボンネット (フード)  
-moto sikle - オートバイ (モーターサイクル)  
 mudan - 牡丹  
 mula - 根  
 mum melon - トウガン  
 mun - 門  
 mur - 壁  
-mur kaguji - 壁紙  
+mur kaguze - 壁紙  
+murmeke - 蟻  
 musli - ミューズリー  
 Muxin - 木星  
 muxinden - 木曜日  
 muxu - 鼠  
-muxu cakra - ホイールマウス  
+muxu rote - ホイールマウス  
 muzike - 音楽  
 
 ## N  
@@ -1218,6 +1218,7 @@ nam hin - 名無し (無名の)
 nam kitaba - 署名する (サイン)  
 nan - 男  
 nan reger - 王様  
+narde - バックギャモン  
 narke - 麻薬  
 narkose - 症  
 • internasial - 国際的  

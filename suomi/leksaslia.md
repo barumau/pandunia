@@ -116,7 +116,7 @@
 **barde** *parta* ← ranska:barbe, espanja:portugali:barba, deu:Bart, englanti:beard, venäjä:борода (boroda), puola:broda  
 **bari** *raskas (kova, vaativa, vaikea, jne.)* ← hindi:भारी (bhārī), bangla:ভারী (bharī), malaiji:berat, telugu:బరువు (baruvu), persia: بار‎ (bâr), kreikka: βαρύς (barýs) + korea:바리 (bari)  
 **barium** *barium* ← englanti:barium, ranska:baryum, espanja:bario, portugali:bário, venäjä:барий, yleiskiina:钡 (bèi), japani:バリウム, korea:바륨, vietnami:bari, hindi:बेरियम, bangla:বেরিয়াম, malaiji:barium, suahili:bari, arabia: باريوم  
-**barka** *onneksi olkoon!* ← hausa:barka, malaiji:berkah, turkki:tebrik, persia:(tabrik), arabia:urdu:(mubārak), suahili:baraka, hau:albarka, yoruba:alubarika  
+**barke** *onnitella (siunata)* ← hausa:barka, malaiji:berkah, turkki:tebrik, persia:(tabrik), arabia:urdu:(mubārak), suahili:baraka, hau:albarka, yoruba:alubarika  
 **barti** *intialainen* ← hindi:भारतीय (bhārtīy), urdu:(bhārtīy), marathi:(bhārtīya), telugu:(bhāratīya)  
 **baru** *karhu* ← deu:Bär, englanti:bear + hindi:भालू (bhālū) bangla:ভালুক (bhaluk) + malaiji:beruang  
 **barude** *ruuti* ← arabia: بَارُود (bārūd), turkki:barut, persia: بارود‎ (bârud), hindi:बारूद (bārūd), bangla:বারুদ (barud), suahili:baruti, fulani:barudu  
@@ -257,7 +257,7 @@
 **dalil** *todiste (todistus, osoitus, demonstraatio)* ← arabia:(dalil), bangla:দলিল (dôlil), suahili:dalili, turkki:delil  
 **dama geme** *tammipeli* ← ranska:jeu de dames, espanja:portugali:damas, arabia: ضَامَة‎ (ḍāma), vietnami:cờ đam, malaiji:dam, turkki:dama, deu:Damespiel  
 **dan** *sija (taso, ranking, dan)* ←  japani:段 (dan), englanti:ranska:malaiji:dan + yleiskiina:等 (děng),  kantoninkiina:等 (dang2), korea:등 (dang), vietnami:đẳng  
-**dana** *jyvä (luoti)* ← persia: دانه‎ (dâne), hindi:दाना (dānā), turkki:tane + japani:種 (tane); 銃弾 (jūdan), yleiskiina:弹 (dàn), vietnami:đạn, korea:탄알 (tanal)  
+**dana** *jyvä (luoti)* ← persia: دانه‎ (dâne), hindi:दाना (dānā), turkki:tane + japani:種 (tane); 銃弾 (jūdan), yleiskiina:弹 (dàn), kantoninkiina:彈 (daan6), vietnami:đạn, korea:탄알 (tanal)  
 **dang** *kilistää (soittaa kelloa)* ← englanti:dong + persia: زنگ‎ (zang), turkki:çan + yleiskiina:钟 (zhōng), kantoninkiina:鐘 (zung1), korea:종 (jong), vietnami:chuông, khmer:ចួង (cuəng) + venäjä:звон (zvon)  
 **danse** *tanssi* ← englanti:ranska:dance, espanja:danza, portugali:dança, deu:Tanz, venäjä:танец (taněc), turkki:dans, japani:ダンス (dansu), korea:댄스 (daenseu), suahili:dansi  
 **dante** *hammas* ← espanja:diente, portugali:dente, ranska:dent, englanti:dental, hindi:दाँत (dā̃t), bangla:দাঁত (dãtô), pan:ਦੰਦ (dand), malaiji:danta  
@@ -350,7 +350,6 @@
 **exa** *eksa-* ← englanti:ranska:espanja:portugali:exa, venäjä:экза- (ekza-), malaiji:eska-, yleiskiina:艾可萨- (àikěsà-), japani:エクサ (ekusa), korea:엑사- (eksa-)  
 **ezmurude** *smaragdi* ← kreikka:σμαράγδι (smarágdi), englanti:emerald, ranska:émeraude, espanja:portugali:esmeralda, japani:エメラルド (emerarudo), korea:에메랄드 (emeraldeu), persia: زمرد (zomorrod), bangla:জমরুদ (zômrud), arabia: زُمُرُّد‎ (zumurrud), suahili:zumaridi, hausa:zumurrudu, malaiji:zamrud, venäjä:изумруд (izumrud), yleiskiina:祖母绿 (zǔmǔlǜ)  
 **fa argu** *väittää (osoittaa)* ← englanti:argue, ranska:arguer, espanja:argüir, portugali:arguir, venäjä:аргумент (argument)  
-**fa barka** *onnitella (siunata)* ← hausa:barka, malaiji:berkah, turkki:tebrik, persia:(tabrik), arabia:urdu:(mubārak), suahili:baraka, yoruba:alubarika  
 **fa daka** *peittää* ← hindi:ढकना (dhaknā), bangla:ঢাকা (ḍhaka), pandzabi:ਢੱਕਣਾ (ḍhakṇā), deu:decken, englanti:deck  
 **fa estude** *opiskella (tutkia)* ← englanti:study, ranska:étudier, espanja:estudiar, portugali:estudar, venäjä:студент (student), hindi:स्टूडेंट (sṭūḍeṇṭ)  
 **fa fei** *lentää* ← yleiskiina:飞 (fēi), kantoninkiina:飛 (fei1), wu-kiina:飛 (fi1), japani:飛 (hi), korea:비 (bi), vietnami:bay  
@@ -361,8 +360,7 @@
 **fa ulul** *ulvoa* ← deu:Heulen, italia:ululato, turkki:uluma, filippiini:aulong,  
 **fa** *tehdä (toimia)* ← ranska:faire, portugali:fazer, italia:fare + arabia: فَعَلَ‎ (faʿala) + suahili:fanya + kantoninkiina:化 (faa3), hakkakiina:化 (fa), yleiskiina:化 (huà), vietnami:hoá  
 **faide** *hyöty (etu)* ← arabia: فَائِدَة‎ (fāʾida), turkki:fayda, suahili:faida, hausa:fa'ida, persia: فایده‎ (fâyede), hindi:फ़ायदा (fāyadā), malaiji:faedah  
-**false** *väärä (epätosi, vale-)* ← englanti:false, espanja:portugali:falso, ranska:faux, deu:falsch  
-**famili** *perhe* ← englanti:family, espanja:familia, portugali:família, ranska:famille, suahili:familia  
+**famil** *perhe* ← deu:Familie, englanti:family, espanja:familia, portugali:família, ranska:famille, persia: فامیل‎ (fâmil), suahili:familia, malaiji:famili  
 **fan** *palvoa (fanata; fani)* ← englanti:ranska:espanja:vietnami:fan, portugali:fã, venäjä:фанат (fanat), yleiskiina:粉丝 (fensi), japani:ファン (fan), korea:팬 (pän)  
 **fantaze** *mielikuvitus (fantasia)* ← englanti:ranska:fantasy, espanja:fantasía, portugali:suahili:fantasia, venäjä:фантазия (fantazija), turkki:fantezi, malaiji:fantasi, japani:ファンタジー (fantajī)  
 **fantom** *kummitus (aave)* ← englanti:phantom, espanja:portugali:fantasma, ranska:fantôme, venäjä:фантом (fantom)  
@@ -1000,12 +998,13 @@
 **ministrer** *ministeri* ← englanti:minister, espanja:portugali:ministro, ranska:ministre, venäjä:мини́стр (minístr) + hindi:मंत्री (mantrī), bangla:মন্ত্রী (môntri), malaiji:menteri  
 **minte** *minttu* ← englanti:mint, espanja:portugali:menta, ranska:menthe, venäjä:мята (m’ata), japani:ミント (minto)  
 **minute** *minuutti* ← englanti:minute, espanja:portugali:minuto, venäjä:мину́та (minúta), hindi:मिनट (minaṭ), bangla:মিনিট (miniṭ), malaiji:minit  
-**mira** *tuijottaa (toljottaa)* ← ranska:mirer, espanja:portugali:mirar + japani:見る (miru) + arabia:مِرْآة‎ (mirʾāh)  
 **mirde** ** ← englanti:mild, puola:mierny, hindi:मृदु (mridu), wu-kiina:微 (mi3), kantoninkiina:微 (mei4)  
+**mire** *tuijottaa (toljottaa)* ← ranska:mirer, espanja:portugali:mirar + japani:見る (miru) + arabia:مِرْآة‎ (mirʾāh)  
 **misal** *esimerkki* ← hindi:मिसाल (misāl), arabia:(mithāl), persia:(mesâl), malaiji:misal, suahili:mathalani, turkki:mesela, hausa:misali  
 **mise** *lähettää* ← englanti:emit, ranska:émettre, espanja:portugali:remitir, malaiji:emisi, deu:Mission, venäjä:миссия (missiya), turkki:misyon + hindi:कमीशन (kamīśan), bangla:কমিশন (kômiśôn)  
 **miskin** *kurja (raukka)* ← arabia:مِسْكِين (miskīn), persia:مسکین‎ (meskin), turkki:malaiji:miskin, suahili:maskini, hindi:, bangla:মিসকিন (miśkin), ranska:miskine, espanja:mezquino, portugali:mesquinho  
-**Misri** *Egypti* ← arabia:(miṣr), turkki:Mısır, suahili:Misri, hindi:मिस्र (misra), bangla:মিশর (miśôr), hausa:Masar  
+**Misre** *Egypti* ← arabia:(miṣr), turkki:Mısır, suahili:Misri, hindi:मिस्र (misra), bangla:মিশর (miśôr), hausa:Masar  
+**mite** *sepittää (keksiä; sepite, taru, legenda, myytti)* ← englanti:myth, deu:Mythos, ranska:mythe, espanja:portugali:mito, venäjä:миф (mif), hindi:मिथक (mithak), turkki:mit  
 **mitre** *metri* ← englanti:turkki:metre, deu:malaiji:meter, ranska:mètre, espanja:portugali:metro, venäjä:метр (metr), arabia: متر‎ (mitr), yleiskiina:米 (mǐ), japani:メートル (mētoru), korea:미터 (miteo), vietnami:mét, hindi:मीटर (mīṭar), bangla:মিটার (miṭar), suahili:hausa:mita  
 **mixe** *sekoittaa* ← deu:mischen, venäjä:мешать (měšat'), puola:mieszać, englanti:mix, italia:miscelare, + hindi:मिश्रण (miśrān)  
 **mode** *laatu (tila, moodi, tyyppi)* ← ranska:englanti:mode, espanja:portugali:modo, venäjä:мода, turkki:mod, korea:모드 (modeu) + yleiskiina:模 (mó), kantoninkiina:模 (mou4), japani:模 (mo); モード (mōdo)  
@@ -1033,7 +1032,7 @@
 **mun** *ovi (portti, veräjä)* ← yleiskiina:门 (mén), kantoninkiina:門 (mun4), japani:門 (mon), korea:문 (mun), vietnami:môn  
 **mungus** *mangusti* ← telugu:ముంగిస (muṅgisa), marathi:मुंगूस (muṅgūs), englanti:mongoose, espanja:mangosta, portugali:mangusto, ranska:mangouste, venäjä:мангу́ст (mangúst), japani:マングース (mangūsu)  
 **mur** *seinä (muuri)* ← ranska:mur, espanja:portugali:muro + deu:Mauer, puola:mur  
-**murce** *muurahainen* ← persia:مورچه (murče), venäjä:мурашка (murashka), kreikka:μυρμήγκι (myrmigki), hye:մրջիւն (mrǰiwn)  
+**murmeke** *muurahainen* ← persia: مور‎ (mur), venäjä:муравей (muravei), englanti:myrmeco-, deu:myrmeko-, ranska:myrméco-  
 **mus** *täytyä (olla pakko)* ← englanti:must, deu:müssen, ukr:мусити (musiti), puola:musieć, cze:musit  
 **muskete** *musketti* ← englanti:musket, espanja:portugali:mosquete, ranska:mousquet, venäjä:мушке́т (muškét), japani:マスケット (masuketto)  
 **muskul** *lihas* ← englanti:ranska:muscle, espanja:portugali:músculo, deu:Muskel, venäjä:му́скул (múskul), suahili:msuli  
@@ -1056,7 +1055,7 @@
 **nan** *uros (mies)* ← yleiskiina:男 (nán), japani:男 (nan), korea:남 (nam), vietnami:nam + persia: نر‎ (nar), hindi:नर (nar), bangla:নর (nôr), telugu:నరుడు (naruḍu) + englanti:man, deu:Mann + tamili:ஆண் (āṇ)  
 **naraka** *helvetti* ← hindi:नरक (narak), bangla:নরক (nôrôk), pan:ਨਰਕ (nark), marathi:नर्क (nark), telugu:నరకము (narakamu), tamili:நரகம் (narakam), malaiji:neraka, thai:นรก (ná-rók), japani:奈落 (naraku)  
 **naram** *pehmeä* ← persia: نرم‎ (narm), hindi:नरम (naram), bangla:নরম (nôrôm) + arabia: نَاعِم‎ (nāʿim) + thai:นุ่ม (num)  
-**nardi** *backgammon* ← persia:urdu: نرد‎ (nard), venäjä:нарды (nardy)  
+**narde** *backgammon* ← persia: نرد‎ (nard), hindi:नर्द (nard), turkki:nert, arabia: نَرْد‎ (nard), venäjä:нарды (nardy)  
 **narke** *huume* ← englanti:narcotic, ranska:narcotique, espanja:portugali:narcótico, venäjä:наркотик (narkotik), malaiji:narkotik  
 **nas** *kansa* ← arabia:(nās) + englanti:ranska:nation, deu:Nazion, portugali:nação, espanja:nación, puola:nacja, venäjä:нация (natsiya)  
 **nate** *syntyä (synty, syntymä)* ← ranska:naître, espanja:portugali:nato, englanti:-nate + deu:Nazion, puola:nacja, venäjä:нация (natsiya) + arabia:(nās)  

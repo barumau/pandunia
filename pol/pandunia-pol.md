@@ -48,12 +48,12 @@ agile - zwinny, sprawny
 agre - uprawić, uprawiać  
 agral -   
 agrobiologia -   
+agre deha -   
 agrer - rolnik, farmer  
 agrokulte -   
 agronomia - agronomia  
 agristan - wieś, tereny wiejskie  
 agristanike - wiejski, rustykalny  
-agre deha -   
 aha - rozumieć, pojmować  
 air - powietrze  
 • anairobiike -   
@@ -67,7 +67,6 @@ ais di - lodowy
 ais hoki - hokej na lodzie  
 ais krem - lody  
 ais xarbe -   
-Haiti - Haiti  
 ajabu - dziw (cudo, zachwyt)  
 ajabu di - zachwycający (zdumiewający, zadziwiający)  
 akare - klescz (roztocze)  
@@ -224,16 +223,18 @@ astronave -
 astronaver - astronauta  
 astronomer - astronom  
 astronomia - astronomia  
+ate -   
+• anative - zdeaktywowany (wyłączony, zatrzymany)  
+• deative - deaktywować (wyłączyć, zatrzymać)  
 • dusate -   
 • interate -   
 • interative -   
 • reation -   
+• proate -   
+• proative -   
 • reate -   
-ate -   
 ater -   
 ation -   
-• anative - zdeaktywowany (wyłączony, zatrzymany)  
-• deative - deaktywować (wyłączyć, zatrzymać)  
 ative - aktywować (włączyć, uruchomić)  
 ata - jabłko cukrowe  
 Athina -   
@@ -334,6 +335,7 @@ bamia -
 ban - chleb  
 banana - banan  
 bande -   
+bande - związać, wiązać; zapiąć, zapinać  
 bandaje - taśma; bandaż  
 banda - zespół (drużyna, grupa)  
 bandera - flaga, sztandar  
@@ -359,7 +361,8 @@ Barbuda - Barbuda
 barde - broda  
 bari -   
 bari metal - metal ciężki  
-barka - gratulacje!  
+barke - gratulować; błogosławić  
+barke - gratulacje!  
 Barti - Indie  
 barti - Indyjski  
 Barti Bahai - Ocean Indyjski  
@@ -398,6 +401,7 @@ baze bol - bejsbol (baseball)
 bazer - założyciel  
 bazike - bazowy, podstawowy  
 bazisme - zasada  
+bazize - zakładać (założyć, ustanowić)  
 baze kanun - konstytucja  
 baze petra - skała macierzysta  
 baze strute -   
@@ -1095,17 +1099,13 @@ fa an galte -
 fa an verse -   
 fa an zai - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
 fa anime - animować  
-fa aplika - zastosować, stosować  
 fa argu -   
 fa aroma - wąchać  
 fa aroma - pachnieć  
 fa asar - poprowadzić do (doprowadzić do, powodować)  
 fa auto -   
 fa avar -   
-fa bande - związać, wiązać; zapiąć, zapinać  
 fa banya - kąpać się  
-fa barka - gratulować; błogosławić  
-fa baze - zakładać (założyć, ustanowić)  
 fa bina - zbudować, budować, konstruować  
 fa biznes lona - negocjować  
 fa budi - uświadomić sobie, zdać sobie sprawę, pojąć, pojmować  
@@ -1136,7 +1136,6 @@ fa fatu -
 fa fei - latać, lecieć  
 fa fen - dzielić  
 fa fen do du - przepołowić (podzielić przez dwa)  
-fa fikir - myśleć, dumać, rozmyślać, zastanawiać się, rozważać  
 fa fin - skończyć, kończyć  
 fa fobi -   
 fa fokus - skupić, się, skoncentrować się  
@@ -1155,7 +1154,6 @@ fa glas dake - szklić (glazurować)
 fa glu - lepić (kleić)  
 fa gol -   
 fa gola - otoczyć, otaczać  
-fa grafi - opisywać, ilustorawć; przedstawiać  
 fa guste - smakować, próbować smaku  
 fa halal - pozwolić, pozwalać, zezwolić, zezwalać  
 fa halte - zatrzymać  
@@ -1199,11 +1197,8 @@ fa kung - przebić (perforować, dziurawić)
 fa kux - położyć  
 fa lai -   
 fa lanse grafi - wyświetlać  
-fa Latin kitaba - zromanizować  
 fa lenxi - ćwiczyć  
 fa libu - postawić (stawiać)  
-fa lifafa - zawijać (zawinąć)  
-fa liga - stowarzyszać się (zrzeszać się)  
 fa lika - wzmocnić (wzmocnić, wzmóc)  
 fa linke - łączyć, wiązać, złączyć  
 fa loka - umieścić (postawić)  
@@ -1214,27 +1209,22 @@ fa mal - mieć (posiadać)
 fa manera - zachowywać się (działać)  
 fa mantra -   
 fa marce - iść, maszerować  
-fa marke - zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad  
 fa masaje -   
 fa max lika - wesprzeć (wzmocnić, zasilić)  
 fa mece - konkurować, rywalizować; odbyć mecz, odbywać mecz  
 fa mede - pomóc, pomagać, asystować  
 fa mei daka - dekorować  
 fa memo - pamiętać  
-fa migra - ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się)  
 fa min -   
 fa min gradu - zmniejszyć o jeden  
 fa min rai -   
 fa ming - rozjaśnić  
-fa minim - zminimalizować  
 fa model - modelować (projektować, zaprojektować)  
-fa mol - zemleć (mleć, mielić)  
 fa muzika - grać muzykę  
 fa nafas -   
 fa nahun -   
 fa najis -   
 fa nam - nazwać, nazywać, wezwać, wzywać  
-fa nati - urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić  
 fa neu - odnowić, odnawiać, uczynić nowym  
 fa nia -   
 fa node - zawiązywać (zawiązać węzeł)  
@@ -1246,7 +1236,6 @@ fa ore - słuchać
 fa orto - wprostowywać (wyprostować)  
 fa pada - upuścić, upuszczać  
 fa paka -   
-fa pake - zapakować, pakować  
 fa par -   
 fa paraya - gardzić (pogardzać)  
 fa parce - stłuc się (rozpaść się na kawałki)  
@@ -1259,9 +1248,6 @@ fa pei - zapłacić, opłacić, płacić
 fa pente - namalować, malować  
 fa pin - kłuć (żądlić)  
 fa piping - ocenić, oceniać, recenzować, komentować, krytykować  
-fa pix - sikać, szczać, oddawać mocz  
-fa plan - planować  
-fa plasti -   
 fa poli - podwoić  
 fa politi - rządzić  
 fa pos - podążać  
@@ -1285,7 +1271,6 @@ fa romanse - kochać romantycznie
 fa sabu - spowodować, powodować  
 fa saf - wyczyścić, czyścić  
 fa saf va tela -   
-fa safar - podróżować  
 fa sahi - poprawić, poprawiać, prostować, korygować  
 fa saide - polować (łowić)  
 fa salam - pozdrowić, pozdrawiać  
@@ -1347,10 +1332,8 @@ fa zai - wzywać (wezwać, dodawać, dodać)
 faide - zasób (zastosowanie, użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta)  
 faidaje - materiał (składnik, zasób)  
 faidike - użyteczny, pomocny, przydatny, pożyteczny, korzystny  
-false - fałszywy, nieprawdziwy  
-false vide - iluzja (halucynacja)  
-famili - rodzina  
-famili nam - nazwisko, imię rodziny  
+famil - rodzina  
+famil nam - nazwisko, imię rodziny  
 fan -   
 fanate -   
 fanatike -   
@@ -1418,6 +1401,7 @@ feter - twórca (czynnik)
 feteria - fabryka, manufaktura  
 Fiji - Fidżi  
 fikir - myśl, pomysł  
+fikre - myśleć, dumać, rozmyślać, zastanawiać się, rozważać  
 file - zamiłowanie (-filia)  
 filiste - miłośnik (fan, -fil)  
 Filipin - Filipiny  
@@ -1650,6 +1634,7 @@ gem suta -
 gene -   
 • exgene -   
 • poligene -   
+• progene -   
 • sugene - rozmnażać  
 • ungene -   
 gene di - surowy (niedojrzały)  
@@ -1727,6 +1712,7 @@ gradu - stopień, poziom, ranga, klasa
 gradu di - stopniowy  
 gradu medan - gradient (gradacja, stopniowanie)  
 gradu mute - rozwój  
+grafe - opisywać, ilustorawć; przedstawiać  
 grafe - opis, przedstawienie; wykres  
 grafe buku - książka z obrazkami  
 grafe culi -   
@@ -1807,6 +1793,7 @@ hafizer - przechowawca, kustosz, opiekun
 haha - śmiać się  
 haide - niech my, hajda  
 haima - namiot  
+Haiti - Haiti  
 haki - pył  
 haki cupu gi - odkurzacz  
 haki rang -   
@@ -2282,6 +2269,7 @@ kape yo taxi - zbierać opłaty lub podatki (zebrać opłaty lub podatki)
 kar - pracować  
 • duskar -   
 • konkar - współpracować (kolaborować)  
+• prokare -   
 kar cuti -   
 karer - pracownik  
 kargi - narzędzie  
@@ -2632,6 +2620,7 @@ late - strona (bok)
 late di - z boku (na bok)  
 late di - poziomy (horyzontalny, boczny)  
 late jen - towarzysz (partner, kumpel)  
+latinogramife - zromanizować  
 Latin zi - alfabet łaciński, łacinka, alfabet rzymski  
 Latvia - Łotwa  
 Lau - Laos  
@@ -2688,7 +2677,9 @@ lide lin - smycz (cugiel, lejc, wodza)
 lider - dowódca, kierownik  
 Lietuva - Litwa  
 lietuva baxa - litewski  
+lifafe - zawijać (zawinąć)  
 lifafa - owinięcie (koperta, okładka)  
+lige - stowarzyszać się (zrzeszać się)  
 liga - liga (stowarzyszenie)  
 liga di sanduku -   
 Lihtenstain - Liechtenstein  
@@ -2867,6 +2858,7 @@ margarita - stokrotka
 Mariana nesia - Mariany Północne  
 Maris - Mars  
 marisden - wtorek  
+marke - zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad  
 marke - znak, trop  
 Marxal nesia - Wyspy Marshalla  
 masa - masa  
@@ -3005,6 +2997,7 @@ midia -
 midike - średni  
 mide noce - północ  
 mien - makaron  
+migre - ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się)  
 migre - migracja  
 • inmigre -   
 • inmigrer -   
@@ -3024,6 +3017,7 @@ minia - mniejszość
 minike - mniejszościowy  
 minim - najmniej, minimalnie  
 minimal - minimal  
+minimife - zminimalizować  
 minisme - minimalizm  
 min ka bas - zbyt mało  
 min poli -   
@@ -3034,12 +3028,12 @@ ministre ofis - ministry
 minte - mięta  
 mintol - mentol  
 minute - minuta  
-mira -   
-• amira -   
-mirabil -   
+mire -   
+• amire -   
 miraje - miraż (fatamorgana)  
-mira plate - lustro  
-mirar -   
+mirebil -   
+mirer -   
+mire plate - lustro  
 Miranda -   
 mirde - nikły  
 • exmise -   
@@ -3055,16 +3049,20 @@ mision -
 misioner - misjonarz  
 misal - przykład  
 miskin - biedny, mizerny  
-Misri - Egipt  
-misri di - egipski  
+Misre - Egipt  
+misrian - egipski  
+mite -   
+mitaje -   
+mitike -   
+mite vide - iluzja (halucynacja)  
 mitre - metr  
 mixe - miksować, mieszać  
 mixe alkol - koktajl  
 mixe gi - mikser, blender, robot kuchenny  
 mode - tryb  
 model - model, wzór, wzorzec, projekt  
+mode lexe - przysłówek  
 module -   
-mode loge - przysłówek  
 mogu - błonka (membrana)  
 moka - drzewo  
 moka bano - deska  
@@ -3073,6 +3071,7 @@ moka kane - słup (pal, kołek)
 moka mate - drewno  
 moka saner - stolarz  
 moka tana - pień  
+mole - zemleć (mleć, mielić)  
 moler - młynarz  
 molite - ostrzarka (kamień młyński)  
 molkan - mielić  
@@ -3102,11 +3101,11 @@ moski - komar, moskit
 Moskva - Moskwa  
 moskvium - moskovium  
 mostre - potwór, monstrum  
+motocar - samochód (automobil)  
 moter - silnik  
+motion - ruch  
+motosikle - motocykl (motor)  
 moto cati -   
-moto gar - samochód (automobil)  
-moto sikle - motocykl (motor)  
-move - ruch  
 Mozambike - Mozambik  
 mudan - piwonia  
 muka - twarz  
@@ -3114,7 +3113,7 @@ muka fun - puder
 mula - korzeń  
 mum - wosk  
 mum cape - pieczęć woskowa  
-mum foto - świeca  
+mum fote - świeca  
 mum jen - mumia  
 mum melon - beninkaza szorstka (beninkaza woskodajna, woszcza szorstka)  
 Mumbai - Bombaj (Mumbaj)  
@@ -3123,9 +3122,12 @@ mumu karne - wołowina
 mun - drzwi, brama, portal  
 mungus - mangusta  
 mur - mur, ściana  
-mur kaguji - tapeta  
-murce - mrówka  
+mur kaguze - tapeta  
 Muritania - Mauretania  
+murmeke - mrówka  
+murmekofite -   
+murmeke kume -   
+murmekologia -   
 mus - musieć  
 musta - przymus  
 muskete - muszkiet  
@@ -3138,7 +3140,7 @@ Muxin - Jowisz
 muxinden - czwartek  
 muxmula -   
 muxu - mysz  
-muxu cakra -   
+muxu rote -   
 muzike - muzyka  
 muziker - muzyk  
 muzike gense -   
@@ -3179,7 +3181,7 @@ nan reger - król
 nano mitre - nanometr  
 naraka - piekło  
 naram - miękki  
-nardi -   
+narde -   
 narke - narkotyk  
 narkiste -   
 narkose -   
@@ -3210,14 +3212,14 @@ nau hin - bezmózgi
 Nauru - Nauru  
 nautile - nautilus  
 nave - łódź, statek  
+nave dex - sterburta (prawa burta)  
+nave kaper - kaper (korsarz)  
+nave leu - bakburta (lewa burta)  
 nave trepe - trap  
 nave xefe - kapitan  
 nava - nahuatl  
-nave dex - sterburta (prawa burta)  
 nave ga - żeglować (płynąć)  
 nave ga ja - żeglarz (marynarz)  
-nave kaper - kaper (korsarz)  
-nave leu - bakburta (lewa burta)  
 ne -   
 Nederlande - Holandia (Królestwo Niderlandów)  
 Nederlande Antil - Antyle Holenderskie  
@@ -3426,6 +3428,7 @@ pada mosim - jesień
 pada mun - klapa  
 pagri - turban  
 pai - placek, ciasto  
+pake - zapakować, pakować  
 pake - paczka, paka  
 • depake -   
 pakaje -   
@@ -3615,6 +3618,7 @@ pirate partia - Partia Piratów
 pisea - świerk  
 pistol - pistolet  
 Pitkerne nesia - Pitcairn  
+pixe - sikać, szczać, oddawać mocz  
 pixe - siki  
 piza - pizza  
 pizaria - pizzeria  
@@ -3622,7 +3626,9 @@ ple -
 • aplike - stosować (zastosować; zastosowanie, aplikacja)  
 • konplike -   
 plan - plan  
+plan - planować  
 planeta - planeta  
+plaste -   
 plaste - plastik  
 plastike -   
 plaste paste -   
@@ -3931,6 +3937,7 @@ saf - czysty
 saf tela -   
 safer - sprzątacz, sprzątacz  
 safta -   
+safar - podróżować  
 safar - podróż  
 safar ceke -   
 safarer - podróżnik  
@@ -4553,6 +4560,7 @@ uze - użyć, używać, zatrudnić, stosować
 uzebil -   
 uzer - użytkownik  
 uzer nam - nazwa użytkownika  
+uzife - zastosować, stosować  
 uzike -   
 Uzbeki - Uzbekistan  
 
@@ -4626,6 +4634,7 @@ venturer - poszukiwacz przygód (awanturnik)
 Venzou - Wenzhou  
 venzou orange - mandarynka Satsuma (pomarańcza Satsuma)  
 ver - prawdziwy (rzeczywisty, szczery)  
+anver - fałszywy, nieprawdziwy  
 verife -   
 veranda - weranda, balkon, taras, ganek  
 verme - robak  

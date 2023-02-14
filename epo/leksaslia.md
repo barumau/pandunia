@@ -116,7 +116,7 @@
 **barde** *barbo* ← franca:barbe, hispana:portugala:barba, deu:Bart, angla:beard, rusa:борода (boroda), polona:broda  
 **bari** ** ← hindia:भारी (bhārī), bengala:ভারী (bharī), malaja:berat, teluga:బరువు (baruvu), persa: بار‎ (bâr), greka: βαρύς (barýs) + korea:바리 (bari)  
 **barium** *bario* ← angla:barium, franca:baryum, hispana:bario, portugala:bário, rusa:барий, mandarena:钡 (bèi), japana:バリウム, korea:바륨, vjetnama:bari, hindia:बेरियम, bengala:বেরিয়াম, malaja:barium, svahila:bari, araba: باريوم  
-**barka** ** ← haŭsa:barka, malaja:berkah, turka:tebrik, persa:(tabrik), araba:urdua:(mubārak), svahila:baraka, hau:albarka, joruba:alubarika  
+**barke** *gratuli* ← haŭsa:barka, malaja:berkah, turka:tebrik, persa:(tabrik), araba:urdua:(mubārak), svahila:baraka, hau:albarka, joruba:alubarika  
 **barti** *Barata* ← hindia:भारतीय (bhārtīy), urdua:(bhārtīy), marataja:(bhārtīya), teluga:(bhāratīya)  
 **baru** *urso* ← deu:Bär, angla:bear + hindia:भालू (bhālū) bengala:ভালুক (bhaluk) + malaja:beruang  
 **barude** *pulvo* ← araba: بَارُود (bārūd), turka:barut, persa: بارود‎ (bârud), hindia:बारूद (bārūd), bengala:বারুদ (barud), svahila:baruti, fula:barudu  
@@ -257,7 +257,7 @@
 **dalil** ** ← araba:(dalil), bengala:দলিল (dôlil), svahila:dalili, turka:delil  
 **dama geme** *damludo* ← franca:jeu de dames, hispana:portugala:damas, araba: ضَامَة‎ (ḍāma), vjetnama:cờ đam, malaja:dam, turka:dama, deu:Damespiel  
 **dan** ** ←  japana:段 (dan), angla:franca:malaja:dan + mandarena:等 (děng),  kantona:等 (dang2), korea:등 (dang), vjetnama:đẳng  
-**dana** ** ← persa: دانه‎ (dâne), hindia:दाना (dānā), turka:tane + japana:種 (tane); 銃弾 (jūdan), mandarena:弹 (dàn), vjetnama:đạn, korea:탄알 (tanal)  
+**dana** ** ← persa: دانه‎ (dâne), hindia:दाना (dānā), turka:tane + japana:種 (tane); 銃弾 (jūdan), mandarena:弹 (dàn), kantona:彈 (daan6), vjetnama:đạn, korea:탄알 (tanal)  
 **dang** ** ← angla:dong + persa: زنگ‎ (zang), turka:çan + mandarena:钟 (zhōng), kantona:鐘 (zung1), korea:종 (jong), vjetnama:chuông, kmera:ចួង (cuəng) + rusa:звон (zvon)  
 **danse** *danco* ← angla:franca:dance, hispana:danza, portugala:dança, deu:Tanz, rusa:танец (taněc), turka:dans, japana:ダンス (dansu), korea:댄스 (daenseu), svahila:dansi  
 **dante** *dento* ← hispana:diente, portugala:dente, franca:dent, angla:dental, hindia:दाँत (dā̃t), bengala:দাঁত (dãtô), pan:ਦੰਦ (dand), malaja:danta  
@@ -350,7 +350,6 @@
 **exa** *triljoona (eksa-)* ← angla:franca:hispana:portugala:exa, rusa:экза- (ekza-), malaja:eska-, mandarena:艾可萨- (àikěsà-), japana:エクサ (ekusa), korea:엑사- (eksa-)  
 **ezmurude** *smeraldo* ← greka:σμαράγδι (smarágdi), angla:emerald, franca:émeraude, hispana:portugala:esmeralda, japana:エメラルド (emerarudo), korea:에메랄드 (emeraldeu), persa: زمرد (zomorrod), bengala:জমরুদ (zômrud), araba: زُمُرُّد‎ (zumurrud), svahila:zumaridi, haŭsa:zumurrudu, malaja:zamrud, rusa:изумруд (izumrud), mandarena:祖母绿 (zǔmǔlǜ)  
 **fa argu** ** ← angla:argue, franca:arguer, hispana:argüir, portugala:arguir, rusa:аргумент (argument)  
-**fa barka** *gratuli* ← haŭsa:barka, malaja:berkah, turka:tebrik, persa:(tabrik), araba:urdua:(mubārak), svahila:baraka, joruba:alubarika  
 **fa daka** *kovri* ← hindia:ढकना (dhaknā), bengala:ঢাকা (ḍhaka), panĝaba:ਢੱਕਣਾ (ḍhakṇā), deu:decken, angla:deck  
 **fa estude** ** ← angla:study, franca:étudier, hispana:estudiar, portugala:estudar, rusa:студент (student), hindia:स्टूडेंट (sṭūḍeṇṭ)  
 **fa fei** *flugi* ← mandarena:飞 (fēi), kantona:飛 (fei1), vua:飛 (fi1), japana:飛 (hi), korea:비 (bi), vjetnama:bay  
@@ -361,8 +360,7 @@
 **fa ulul** ** ← deu:Heulen, itala:ululato, turka:uluma, filipina:aulong,  
 **fa** *fari* ← franca:faire, portugala:fazer, itala:fare + araba: فَعَلَ‎ (faʿala) + svahila:fanya + kantona:化 (faa3), hakaa:化 (fa), mandarena:化 (huà), vjetnama:hoá  
 **faide** *utileco* ← araba: فَائِدَة‎ (fāʾida), turka:fayda, svahila:faida, haŭsa:fa'ida, persa: فایده‎ (fâyede), hindia:फ़ायदा (fāyadā), malaja:faedah  
-**false** ** ← angla:false, hispana:portugala:falso, franca:faux, deu:falsch  
-**famili** *familio* ← angla:family, hispana:familia, portugala:família, franca:famille, svahila:familia  
+**famil** *familio* ← deu:Familie, angla:family, hispana:familia, portugala:família, franca:famille, persa: فامیل‎ (fâmil), svahila:familia, malaja:famili  
 **fan** ** ← angla:franca:hispana:vjetnama:fan, portugala:fã, rusa:фанат (fanat), mandarena:粉丝 (fensi), japana:ファン (fan), korea:팬 (pän)  
 **fantaze** *fantazio* ← angla:franca:fantasy, hispana:fantasía, portugala:svahila:fantasia, rusa:фантазия (fantazija), turka:fantezi, malaja:fantasi, japana:ファンタジー (fantajī)  
 **fantom** *fantomo* ← angla:phantom, hispana:portugala:fantasma, franca:fantôme, rusa:фантом (fantom)  
@@ -1000,12 +998,13 @@
 **ministrer** *ministro* ← angla:minister, hispana:portugala:ministro, franca:ministre, rusa:мини́стр (minístr) + hindia:मंत्री (mantrī), bengala:মন্ত্রী (môntri), malaja:menteri  
 **minte** *mento* ← angla:mint, hispana:portugala:menta, franca:menthe, rusa:мята (m’ata), japana:ミント (minto)  
 **minute** *minuto* ← angla:minute, hispana:portugala:minuto, rusa:мину́та (minúta), hindia:मिनट (minaṭ), bengala:মিনিট (miniṭ), malaja:minit  
-**mira** ** ← franca:mirer, hispana:portugala:mirar + japana:見る (miru) + araba:مِرْآة‎ (mirʾāh)  
 **mirde** ** ← angla:mild, polona:mierny, hindia:मृदु (mridu), vua:微 (mi3), kantona:微 (mei4)  
+**mire** ** ← franca:mirer, hispana:portugala:mirar + japana:見る (miru) + araba:مِرْآة‎ (mirʾāh)  
 **misal** *ekzemplo* ← hindia:मिसाल (misāl), araba:(mithāl), persa:(mesâl), malaja:misal, svahila:mathalani, turka:mesela, haŭsa:misali  
 **mise** ** ← angla:emit, franca:émettre, hispana:portugala:remitir, malaja:emisi, deu:Mission, rusa:миссия (missiya), turka:misyon + hindia:कमीशन (kamīśan), bengala:কমিশন (kômiśôn)  
 **miskin** *mizera* ← araba:مِسْكِين (miskīn), persa:مسکین‎ (meskin), turka:malaja:miskin, svahila:maskini, hindia:, bengala:মিসকিন (miśkin), franca:miskine, hispana:mezquino, portugala:mesquinho  
-**Misri** *Egipto* ← araba:(miṣr), turka:Mısır, svahila:Misri, hindia:मिस्र (misra), bengala:মিশর (miśôr), haŭsa:Masar  
+**Misre** *Egipto* ← araba:(miṣr), turka:Mısır, svahila:Misri, hindia:मिस्र (misra), bengala:মিশর (miśôr), haŭsa:Masar  
+**mite** *mito* ← angla:myth, deu:Mythos, franca:mythe, hispana:portugala:mito, rusa:миф (mif), hindia:मिथक (mithak), turka:mit  
 **mitre** *metro* ← angla:turka:metre, deu:malaja:meter, franca:mètre, hispana:portugala:metro, rusa:метр (metr), araba: متر‎ (mitr), mandarena:米 (mǐ), japana:メートル (mētoru), korea:미터 (miteo), vjetnama:mét, hindia:मीटर (mīṭar), bengala:মিটার (miṭar), svahila:haŭsa:mita  
 **mixe** *miksi* ← deu:mischen, rusa:мешать (měšat'), polona:mieszać, angla:mix, itala:miscelare, + hindia:मिश्रण (miśrān)  
 **mode** ** ← franca:angla:mode, hispana:portugala:modo, rusa:мода, turka:mod, korea:모드 (modeu) + mandarena:模 (mó), kantona:模 (mou4), japana:模 (mo); モード (mōdo)  
@@ -1033,7 +1032,7 @@
 **mun** *pordo* ← mandarena:门 (mén), kantona:門 (mun4), japana:門 (mon), korea:문 (mun), vjetnama:môn  
 **mungus** ** ← teluga:ముంగిస (muṅgisa), marataja:मुंगूस (muṅgūs), angla:mongoose, hispana:mangosta, portugala:mangusto, franca:mangouste, rusa:мангу́ст (mangúst), japana:マングース (mangūsu)  
 **mur** *vando* ← franca:mur, hispana:portugala:muro + deu:Mauer, polona:mur  
-**murce** *formiko* ← persa:مورچه (murče), rusa:мурашка (murashka), greka:μυρμήγκι (myrmigki), hye:մրջիւն (mrǰiwn)  
+**murmeke** *formiko* ← persa: مور‎ (mur), rusa:муравей (muravei), angla:myrmeco-, deu:myrmeko-, franca:myrméco-  
 **mus** *devi* ← angla:must, deu:müssen, ukr:мусити (musiti), polona:musieć, cze:musit  
 **muskete** *muskedo* ← angla:musket, hispana:portugala:mosquete, franca:mousquet, rusa:мушке́т (muškét), japana:マスケット (masuketto)  
 **muskul** *muskolo* ← angla:franca:muscle, hispana:portugala:músculo, deu:Muskel, rusa:му́скул (múskul), svahila:msuli  
@@ -1056,7 +1055,7 @@
 **nan** *viro* ← mandarena:男 (nán), japana:男 (nan), korea:남 (nam), vjetnama:nam + persa: نر‎ (nar), hindia:नर (nar), bengala:নর (nôr), teluga:నరుడు (naruḍu) + angla:man, deu:Mann + tamila:ஆண் (āṇ)  
 **naraka** ** ← hindia:नरक (narak), bengala:নরক (nôrôk), pan:ਨਰਕ (nark), marataja:नर्क (nark), teluga:నరకము (narakamu), tamila:நரகம் (narakam), malaja:neraka, tha:นรก (ná-rók), japana:奈落 (naraku)  
 **naram** *mola* ← persa: نرم‎ (narm), hindia:नरम (naram), bengala:নরম (nôrôm) + araba: نَاعِم‎ (nāʿim) + taja:นุ่ม (num)  
-**nardi** ** ← persa:urdua: نرد‎ (nard), rusa:нарды (nardy)  
+**narde** ** ← persa: نرد‎ (nard), hindia:नर्द (nard), turka:nert, araba: نَرْد‎ (nard), rusa:нарды (nardy)  
 **narke** *drogo* ← angla:narcotic, franca:narcotique, hispana:portugala:narcótico, rusa:наркотик (narkotik), malaja:narkotik  
 **nas** ** ← araba:(nās) + angla:franca:nation, deu:Nazion, portugala:nação, hispana:nación, polona:nacja, rusa:нация (natsiya)  
 **nate** *naski (nasko)* ← franca:naître, hispana:portugala:nato, angla:-nate + deu:Nazion, polona:nacja, rusa:нация (natsiya) + araba:(nās)  

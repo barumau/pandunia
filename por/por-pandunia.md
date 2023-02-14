@@ -25,7 +25,7 @@ acéfalo - kapa hin
 adesivo - glu grafi  
 adjetivo - sifa loga  
 administrador - politike  
-admirar - amira  
+admirar - amire  
 aeroporto - air porto  
 aeróbico - airobiike  
 Afeganistão - Afganestan  
@@ -628,7 +628,7 @@ efeito - asar
 efeito - exfete  
 efeito colateral - parafete  
 efetuar - fa asar  
-Egipto (Egito) - Misri  
+Egipto (Egito) - Misre  
 ei - hei  
 einstânio - einsteinium  
 ele ou ela - da  
@@ -640,7 +640,7 @@ elfo - elfe
 elo - ser  
 elogio - eu loga  
 em - a  
-embalar - fa lifafa  
+embalar - lifafe  
 emitir - exmise  
 emoticon (emoji) - gamo zi  
 emoçao - gamo  
@@ -687,7 +687,7 @@ eslavo - Slave
 esmeralda - ezmurude  
 espada - gem  
 espaço - hali zi  
-espelho - mira plate  
+espelho - mire plate  
 espetador - speter  
 espirrar - aci  
 espodossolo - hui darte  
@@ -750,7 +750,7 @@ facção - xia
 fada - pari  
 fadiga - fatige  
 falar - dite  
-falso - false  
+falso - anver  
 farmacologia - dava xe logia  
 farmácia (drogaria) - dava xekan  
 farol (baliza) - foto minar  
@@ -788,6 +788,8 @@ fogo - hogo
 fogos de artifício - hogo tehni  
 folha - yepa  
 fome - yam yau  
+formiga - murmeke  
+formigueiro - murmeke kume  
 forte - burge  
 força - balata  
 força aérea - air ordu  
@@ -823,7 +825,7 @@ gadolínio - gadolinium
 gaiola (jaula) - kane kasa  
 galope - galope  
 galáxia - galaxia  
-gamão - nardi  
+gamão - narde  
 gancho - huke  
 Ganges - Ganga  
 ganso - ganse  
@@ -1130,7 +1132,7 @@ manto - juba
 mantra - mantra  
 mar - bahai  
 maravilha - ajabu  
-maravilha - mirabil  
+maravilha - mirebil  
 marcha - marce  
 margarida - margarita  
 margarida-comum - englix margarita  
@@ -1202,15 +1204,15 @@ milhete (painço) - dana.cau
 mina - kuan xan  
 miragem - miraje  
 mirar (apontar) - dike  
-mirar - mira  
+mirar - mire  
 mito - deokata  
 modelar - fa forma  
 modo (tipo) - mode  
 moeda - pesa diske  
 moenda (moinho) - molkan  
-moer - fa mol  
+moer - mole  
 mol - mole  
-moldar (modelar) - fa plasti  
+moldar (modelar) - plaste  
 moldura - frem  
 molestar (perturber) - fa turbe  
 molestar (perturber) - turbe  
@@ -1385,7 +1387,7 @@ pandemia - pandemike pate
 pantomima (mímica) - panmime  
 papagaio - papagai  
 papel - kaguji  
-papel de parede - mur kaguji  
+papel de parede - mur kaguze  
 papel higiênico - tuale kaguji  
 papoila - medan papi  
 papoila-dormideira - sona papi  
@@ -1525,6 +1527,7 @@ preto - kala
 princípio - bazisme  
 privar - deprive  
 privatizar - privatize  
+proativo - proative  
 problema - problem  
 procedimento (rito) - riti  
 processamento de dados - data culi  
@@ -1934,7 +1937,7 @@ urbano - nagral
 urra - hura  
 urso - baru  
 urânio - uranium  
-usar - fa aplika  
+usar - uzife  
 
 ## V  
 

@@ -45,7 +45,6 @@ ais di - glacé (glacial, gelé)
 ais hoki - hockey sur glace  
 ais krem - crème glacée  
 ais xarbe - sorbet  
-Haiti - Haïti  
 ajabu - merveille  
 akare - acarien  
 akrabe - scorpion  
@@ -174,10 +173,11 @@ astronave - astronef
 astronaver - astronaute  
 astronomer - astronome  
 astronomia - astronomie  
+ate - acte  
 • dusate - méfait (péché)  
 • reation - réaction  
+• proative - proactif  
 • reate - réagir  
-ate - acte  
 ater - agent (faiseur)  
 ation - action  
 ative - actif (activer, allumer, mettre en marche)  
@@ -274,7 +274,8 @@ barbar - barbare
 Barbuda - Barbuda  
 barde - barbe  
 bari metal - métaux lourds  
-barka - Félicitations !  
+barke - féliciter  
+barke - Félicitations !  
 Barti - Inde  
 barti - indien  
 Barti Bahai - océan Indien  
@@ -590,13 +591,11 @@ fa ajabu - éblouir (étonner, stupéfier, surprendre)
 fa alo rai - diverger (ne pas être d'accord)  
 fa an galte - déboguer (débugger)  
 fa anime - animer  
-fa aplika - appliquer  
 fa argu - arguer  
 fa aroma - sentir qqch  
 fa aroma - sentir qqch (avoir l'odeur de qqch)  
 fa asar - effectuer  
 fa banya - se baigner  
-fa barka - féliciter  
 fa bina - construire  
 fa culi - traiter  
 fa daka - couvrir  
@@ -624,19 +623,15 @@ fa kino - mouvoir (bouger)
 fa kux - coucher  
 fa lai - apporter  
 fa lanse grafi - projeter (donner)  
-fa lifafa - envelopper (emballer)  
 fa loka - mettre (placer)  
 fa maf - pardonner  
 fa memo - se rappeler (se remémorer)  
 fa min rai - sous-estimer  
-fa mol - moudre  
-fa nati - donner naissance (procréer, engendrer, accoucher)  
 fa nomi - organiser  
 fa onor - honorer  
 fa pati mise - infecter  
 fa pede - péter  
 fa pente - peindre  
-fa plasti - modeler  
 fa pos - suivre  
 fa poze - planter  
 fa prese - presser  
@@ -660,7 +655,6 @@ fa xipi - mouiller
 fa xopi - acheter  
 fa xula - apprendre (étudier)  
 fa xuli - réparer  
-false - faux  
 fan - fan  
 fanatike - fanatique  
 fase - face (facette)  
@@ -798,6 +792,7 @@ gebre - algèbre
 gem - épée  
 gem dau - kendo  
 gem suta - escrime  
+• progene - procréer (engendrer)  
 • sugene - élever  
 gene logia di - génétique  
 gene logu - généalogie  
@@ -862,6 +857,7 @@ Habaxa - Abyssinie
 hafenium - hafnium  
 haha - rire  
 haima - tente  
+Haiti - Haïti  
 haki - poussière  
 haki rang - kaki  
 haku - droit  
@@ -1277,6 +1273,7 @@ lexe jama - vocabulaire (lexique)
 liama - lama  
 libele - libellule  
 lider - dirigeant (leader)  
+lifafe - envelopper (emballer)  
 liga - ligue (alliance)  
 liga di sanduku - Arche d'Alliance  
 lila - lilas  
@@ -1441,10 +1438,10 @@ milke kardon - chardon Marie
 mime - imiter  
 mimer - imitateur (mime)  
 minte - menthe  
-mira - mirer  
-mirabil - merveille  
+mire - mirer  
 miraje - mirage  
-mira plate - miroir  
+mirebil - merveille  
+mire plate - miroir  
 mirde - faible  
 • exmise - émettre  
 • konmisea - comisión (comité)  
@@ -1455,7 +1452,7 @@ mirde - faible
 misaje - message  
 mision - misión  
 misioner - misionero  
-Misri - Égypte  
+Misre - Égypte  
 mitre - mètre  
 mode - mode (type)  
 module - module  
@@ -1465,6 +1462,7 @@ moka bano - planche
 moka jong parke - arboretum, pépinière  
 moka kane - pieu  
 moka tana - bûche  
+mole - moudre  
 molite - meule  
 molkan - moulin  
 mole - mole (unité)  
@@ -1485,9 +1483,11 @@ mudan - pivoine
 muka - visage  
 mula - racine  
 mur - mur  
-mur kaguji - papier peint  
-murce - fourmi  
+mur kaguze - papier peint  
 Muritania - Mauritanie  
+murmeke - fourmi  
+murmeke kume - fourmilière  
+murmekologia - myrmécologie  
 mus - devoir  
 muskul bina - culturisme (musculation)  
 musli - musli  
@@ -1513,7 +1513,7 @@ nam - nom
 nam hin - innomé  
 nam kitaba - signer  
 nan reger - roi  
-nardi - backgammon  
+narde - backgammon  
 narke - drogue (narcotique, dope)  
 nasia - nation  
 • internasial - international  
@@ -1528,9 +1528,9 @@ nau - cerveau (cervelle)
 nau di - cérébral  
 nautile - nautile  
 nave - bateau  
-nave trepe - passerelle  
 nave dex - tribord  
 nave leu - babord  
+nave trepe - passerelle  
 nefre - rein  
 nefritis - néphrite  
 • denege - dénier  
@@ -1732,6 +1732,7 @@ pisea - Épicéa
 piza - pizza  
 • aplike - appliquer  
 plan - plan  
+plaste - modeler  
 plaste paste - pâte à modeler  
 plate geiste - terreplatiste  
 plate geo kaskelogia - tectonique des plaques  
@@ -2142,6 +2143,7 @@ un verse di - universel
 un yen di lense - monocle  
 Uran - Uranus  
 uranium - uranium  
+uzife - appliquer  
 uzike - utile  
 
 ## V  
@@ -2182,6 +2184,7 @@ ventur - aventure
 venturer - aventurier  
 venzou orange - mandarine satsuma  
 ver - vrai  
+anver - faux  
 veranda - balcon  
 verme - ver  
 vermute - vermouth  

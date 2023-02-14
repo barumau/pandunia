@@ -81,12 +81,12 @@ Afrika - Afrikka
 agile - ketterä  
 agre - viljellä  
 agrobiologia - maatalousbiologia  
+agre deha - maalaiskylä  
 agrer - maanviljelijä  
 agrokulte - viljely  
 agronomia - agronomia (maatalous)  
 agristan - maaseutu  
 agristanike - maalais-  
-agre deha - maalaiskylä  
 aha - oivaltaa (tajuta, hoksata)  
 air - ilma  
 • anairobiike - anaerobinen  
@@ -100,7 +100,6 @@ ais di - jäinen
 ais hoki - jääkiekko  
 ais krem - jäätelö  
 ais xarbe - mehujää (sorbetti)  
-Haiti - Haiti  
 ajabu - ihmetys (hämmästys)  
 ajabu di - ihmeellinen (ällistyttävä, merkillinen)  
 akare - punkki  
@@ -251,16 +250,18 @@ astronave - tähtialus
 astronaver - astronautti (tähtimatkaaja)  
 astronomer - tähtitieteilijä  
 astronomia - tähtitiede (astronomia)  
+ate - teko (toimenpide, akti)  
+• anative - epäaktiivinen (pois toiminnasta)  
+• deative - poistaa toiminnasta  
 • dusate - synti (paha teko)  
 • interate - olla vuorovaikutuksessa  
 • interative - vuorovaikutteinen  
 • reation - reaktio (vastaliike)  
+• proate - ennakoida  
+• proative - ennakoiva (proaktiivinen)  
 • reate - reagoida  
-ate - teko (toimenpide, akti)  
 ater - tekijä (toimija)  
 ation - toiminta  
-• anative - epäaktiivinen (pois toiminnasta)  
-• deative - poistaa toiminnasta  
 ative - toimelias (aktiivinen; aktivoida, panna käyntiin tai päälle)  
 Athina - Ateena  
 Atlanti Bahai - Atlantin valtameri  
@@ -357,6 +358,7 @@ bamia - okra
 ban - leipä  
 banana - banaani  
 bande - sitoa (kääriä siteeseen)  
+bande - sitoa  
 bandaje - side  
 banda - ryhmä (työryhmä, yhtye, bändi)  
 bandera - lippu  
@@ -382,7 +384,8 @@ Barbuda - Barbuda
 barde - parta  
 bari - raskas (kova, vaativa, vaikea, jne.)  
 bari metal - raskasmetalli  
-barka - onneksi olkoon!  
+barke - onnitella (siunata)  
+barke - onneksi olkoon!  
 Barti - Intia  
 barti - intialainen  
 Barti Bahai - Intian valtameri  
@@ -421,6 +424,7 @@ baze bol - baseball (amerikkalainen pesäpallo)
 bazer - perustaja  
 bazike - perus-  
 bazisme - periaate  
+bazize - perustaa  
 baze kanun - perustuslaki  
 baze petra - peruskallio  
 baze strute - perusrakenne (infrastruktuuri)  
@@ -1082,17 +1086,13 @@ fa alo rai - olla eri mieltä
 fa an galte - poistaa virheitä (debugata)  
 fa an zai - poistaa (hävittää)  
 fa anime - animoida  
-fa aplika - soveltaa  
 fa argu - väittää (osoittaa)  
 fa aroma - haistaa  
 fa aroma - haista  
 fa asar - vaikuttaa  
 fa auto - personoida  
 fa avar - vahingoittaa (vaurioittaa)  
-fa bande - sitoa  
 fa banya - kylpeä  
-fa barka - onnitella (siunata)  
-fa baze - perustaa  
 fa bina - rakentaa  
 fa biznes lona - neuvotella  
 fa budi - ymmärtää (oivaltaa)  
@@ -1121,7 +1121,6 @@ fa fantazi - kuvitella
 fa fei - lentää  
 fa fen - jakaa (paloitella)  
 fa fen do du - puolittaa (jakaa kahdella)  
-fa fikir - ajatella (miettiä)  
 fa fin - lopettaa  
 fa fobi - pelottaa  
 fa fokus - keskittää  
@@ -1140,7 +1139,6 @@ fa glas dake - lasittaa
 fa glu - liimata  
 fa gol - saavuttaa  
 fa gola - ympäröidä (piirittää)  
-fa grafi - piirtää  
 fa guste - maistaa  
 fa halal - sallia (antaa lupa)  
 fa halte - pysäyttää  
@@ -1182,11 +1180,8 @@ fa kung - rei’ittää
 fa kux - panna jkn maate  
 fa lai - tuoda  
 fa lanse grafi - heijastaa kuvia (projisoida)  
-fa Latin kitaba - latinoida  
 fa lenxi - harjoitella (treenata)  
 fa libu - nostaa pystyyn  
-fa lifafa - kääriä (panna kääröön)  
-fa liga - liittää  
 fa lika - vahvistaa (voimistaa)  
 fa linke - yhdistää  
 fa loka - panna (asettaa, sijoittaa)  
@@ -1197,25 +1192,20 @@ fa mal - omistaa
 fa manera - käyttäytyä  
 fa mantra - messuta  
 fa marce - kävellä  
-fa marke - merkitä (jättää jälki)  
 fa masaje - vaivata (hieroa)  
 fa max lika - voimistaa  
 fa mece - otella  
 fa mede - auttaa (avustaa)  
 fa mei daka - koristella  
 fa memo - muistaa  
-fa migra - muuttaa (siirtää)  
 fa min - vähentää  
 fa min gradu - alentaa tasoa  
 fa min rai - aliarvioida  
 fa ming - kirkastaa (valaista)  
-fa minim - minimoida  
 fa model - mallintaa  
-fa mol - jauhaa  
 fa muzika - soittaa (musisoida)  
 fa najis - tahrata (korruptoida)  
 fa nam - nimittää (kutsua)  
-fa nati - synnyttää  
 fa neu - uudistaa  
 fa nia - aikoa (meinata)  
 fa node - solmia (tehdä solmu)  
@@ -1227,7 +1217,6 @@ fa ore - kuunnella
 fa orto - suoristaa (ojentaa)  
 fa pada - pudottaa  
 fa paka - pakottaa  
-fa pake - pakata  
 fa par - tasoittaa (tasata)  
 fa paraya - halveksia (hyljeksiä)  
 fa parce - hajottaa (särkeä, repiä, sirpaloida)  
@@ -1240,9 +1229,6 @@ fa pei - maksaa
 fa pente - maalata  
 fa pin - pistää (piikittää)  
 fa piping - arvioida (arvostella, kritisoida)  
-fa pix - virtsata (kusta)  
-fa plan - suunnitella  
-fa plasti - muovata (muovailla)  
 fa politi - hallita (hallinnoida)  
 fa pos - seurata (tulla perässä, tulla jäljessä)  
 fa posta - postittaa  
@@ -1264,7 +1250,6 @@ fa rolo - kääriä
 fa romanse - rakastaa romanttisesti  
 fa sabu - aiheuttaa (olla syynä)  
 fa saf - puhdistaa (siivota)  
-fa safar - matkustaa  
 fa sahi - korjata (tehdä oikeaksi)  
 fa saide - pyytää (metsästää, kalastaa)  
 fa salam - tervehtiä  
@@ -1325,9 +1310,8 @@ fa zai - manata esiin
 faide - hyöty (etu)  
 faidaje - hyötyaines  
 faidike - hyödyllinen  
-false vide - harhanäky (näköharha)  
-famili - perhe  
-famili nam - sukunimi  
+famil - perhe  
+famil nam - sukunimi  
 fan - palvoa (fanata; fani)  
 fanate - palvoa (fanata)  
 fanatike - fanaatikko  
@@ -1390,6 +1374,7 @@ feter - tekijä (toimija)
 feteria - tehdas  
 Fiji - Fidži  
 fikir - ajatus  
+fikre - ajatella (miettiä)  
 file - tykkääminen  
 filiste - fani (-fiili)  
 Filipin - Filippiinit  
@@ -1678,6 +1663,7 @@ gradu - porras (aste, taso)
 gradu di - asteittainen (porrastettu)  
 gradu medan - kaltevuus  
 gradu mute - kehitys  
+grafe - piirtää  
 grafe - piirros (graafi)  
 grafe buku - kuvakirja  
 grafe culi - kuvankäsittely  
@@ -1749,6 +1735,7 @@ hafizer - säilyttäjä
 haha - nauraa  
 haide - tehkäämme  
 haima - teltta  
+Haiti - Haiti  
 haki - pöly (tomu)  
 haki cupu gi - pölynimuri  
 haki rang - khaki  
@@ -2174,6 +2161,7 @@ kape yo taxi - veloittaa (verottaa)
 kar - työskennellä  
 • duskar - synti (paha teko)  
 • konkar - tehdä yhteistyötä  
+• prokare - tuottaa (tuotanto)  
 kar cuti - vapaa (poissaolo töistä)  
 karer - työntekijä (työläinen)  
 kargi - työkalu  
@@ -2483,6 +2471,7 @@ lasa tong - jäteastia (roskakori, roskis)
 lasun - valkosipuli  
 late - sivu (kylki, puoli)  
 late di - sivu-  
+latinogramife - latinoida  
 Latin zi - latinalaiset aakkoset  
 Latvia - Latvia  
 Lau - Laos  
@@ -2531,7 +2520,9 @@ lide - johtaa (ohjata)
 lider - johtaja (pomo)  
 Lietuva - Liettua  
 lietuva baxa - liettualainen  
+lifafe - kääriä (panna kääröön)  
 lifafa - kääre (kuori)  
+lige - liittää  
 liga - liitto (liittouma, liiga)  
 liga di sanduku - liitonarkki  
 Lihtenstain - Liechtenstein  
@@ -2687,6 +2678,7 @@ marce - kävely (marssi)
 margarin - margariini  
 Maris - Mars  
 marisden - tiistai  
+marke - merkitä (jättää jälki)  
 marke - merkki (jälki)  
 Marxal nesia - Marshall-saaret  
 masa - massa  
@@ -2801,6 +2793,7 @@ midaje - väline (instrumentti)
 midia - media (tiedotusvälineet)  
 mide noce - keskiyö (puoliyö)  
 mien - nuudeli  
+migre - muuttaa (siirtää)  
 migre - muutto (migraatio)  
 • inmigre - muuttaa maahan  
 • inmigrer - maahanmuuttaja  
@@ -2819,6 +2812,7 @@ minia - vähemmistö
 minike - vähäinen  
 minim - vähiten  
 minimal - vähimmäis-  
+minimife - minimoida  
 minisme - minimalismi  
 min ka bas - liian vähän  
 minus - paitsi (miinus)  
@@ -2828,12 +2822,12 @@ ministre ofis - ministeriö
 minte - minttu  
 mintol - mentoli  
 minute - minuutti  
-mira - tuijottaa (toljottaa)  
-• amira - ihailla  
-mirabil - ihmeteltävä  
+mire - tuijottaa (toljottaa)  
+• amire - ihailla  
 miraje - kangastus  
-mira plate - peili  
-mirar - tuijottaja  
+mirebil - ihmeteltävä  
+mirer - tuijottaja  
+mire plate - peili  
 • exmise - lähettää ulos  
 • konmisea - komitea (komissio)  
 • promise - lähettää eteen (antaa odottaa)  
@@ -2847,21 +2841,26 @@ mision - lähetys
 misioner - lähetti (lähetyssaarnaaja)  
 misal - esimerkki  
 miskin - kurja (raukka)  
-Misri - Egypti  
-misri di - egyptiläinen  
+Misre - Egypti  
+misrian - egyptiläinen  
+mite - sepittää (keksiä; sepite, taru, legenda, myytti)  
+mitaje - harhaluulo (illuusio)  
+mitike - keksitty (sepitteellinen)  
+mite vide - harhanäky (näköharha)  
 mitre - metri  
 mixe - sekoittaa  
 mixe gi - sekoitin  
 mode - laatu (tila, moodi, tyyppi)  
 model - malli  
+mode lexe - adverbi  
 module - moduuli  
-mode loge - adverbi  
 mogu - kalvo (filmi)  
 moka - puu  
 moka jong parke - arboretum (puulajipuisto)  
 moka kane - keppi (puukeppi)  
 moka mate - puuaines  
 moka saner - puuseppä  
+mole - jauhaa  
 moler - mylläri  
 molite - myllynkivi  
 molkan - mylly  
@@ -2887,11 +2886,11 @@ moski - hyttynen (sääski)
 Moskva - Moskova  
 moskvium - moscovium  
 mostre - hirviö  
+motocar - auto (automobiili)  
 moter - moottori  
+motion - liike  
+motosikle - moottoripyörä  
 moto cati - konepelti  
-moto gar - auto (automobiili)  
-moto sikle - moottoripyörä  
-move - liike  
 Mozambike - Mosambik  
 mudan - pioni  
 muka - kasvot (naama)  
@@ -2899,16 +2898,19 @@ muka fun - puuteri
 mula - juuri  
 mum - vaha  
 mum cape - sinetti  
-mum foto - kynttilä  
+mum fote - kynttilä  
 mum jen - muumio  
 mumu - nauta (lehmä)  
 mumu karne - lehmän liha  
 mun - ovi (portti, veräjä)  
 mungus - mangusti  
 mur - seinä (muuri)  
-mur kaguji - tapetti  
-murce - muurahainen  
+mur kaguze - tapetti  
 Muritania - Mauritania  
+murmeke - muurahainen  
+murmekofite - muurahaissuosija (myrmekofyytti)  
+murmeke kume - muurahaiskeko  
+murmekologia - muurahaistiede (myrmekologia)  
 mus - täytyä (olla pakko)  
 musta - pakko  
 muskete - musketti  
@@ -2953,7 +2955,7 @@ nano - nano-
 nano mitre - nanometri  
 naraka - helvetti  
 naram - pehmeä  
-nardi - backgammon  
+narde - backgammon  
 narke - huume  
 narkiste - narkomaani (huumeriippuvainen, addikti)  
 narkose - narkoosi  
@@ -2981,14 +2983,14 @@ nau - aivot
 nau hin - aivoton  
 Nauru - Nauru  
 nave - vene (laiva)  
+nave dex - tyyrpuuri  
+nave kaper - laivakaappari  
+nave leu - paapuuri  
 nave trepe - maihinnousuportaat  
 nave xefe - kapteeni  
 nava - nahuatli  
-nave dex - tyyrpuuri  
 nave ga - veneillä  
 nave ga ja - veneilijä  
-nave kaper - laivakaappari  
-nave leu - paapuuri  
 Nederlande - Alankomaat (Hollanti)  
 Nederlande Antil - Alankomaiden Antillit  
 nefre - munuainen  
@@ -3176,6 +3178,7 @@ pada mosim - syksy (syys)
 pagri - turbaani  
 pai - piirakka (piiras)  
 pake - pakata  
+pake - pakata  
 • depake - purkaa pakkaus  
 pakaje - pakkaus  
 pakete - paketti  
@@ -3337,6 +3340,7 @@ piratisme - piraatti (joka ei kunnioita tekijänoikeuksia)
 pirate partia - piraattipuolue  
 pistol - pistooli  
 Pitkerne nesia - Pitcairn  
+pixe - virtsata (kusta)  
 pixe - virtsa (pissa, kusi)  
 piza - pitsa (pizza)  
 pizaria - pitseria  
@@ -3344,7 +3348,9 @@ ple - kerta (kerros, monikerta)
 • aplike - kerrostaa  
 • konplike - monikerroksinen (monimutkainen)  
 plan - suunnitelma  
+plan - suunnitella  
 planeta - planeetta  
+plaste - muovata (muovailla)  
 plaste - muovi  
 plastike - plastinen (muovailtava)  
 plaste paste - muovailuvaha  
@@ -3606,6 +3612,7 @@ saf - puhdas (siivo, siisti)
 • ansaf - likainen  
 safer - siivooja  
 safta - puhtaus  
+safar - matkustaa  
 safar - matka (reissu)  
 safar ceke - matkašekki  
 safarer - matkailija  
@@ -4158,6 +4165,7 @@ uze - käyttää
 uzebil - käytettävissä oleva  
 uzer - käyttäjä  
 uzer nam - käyttäjänimi  
+uzife - soveltaa  
 uzike - käytännöllinen  
 Uzbeki - Uzbekistan  
 

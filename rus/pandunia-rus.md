@@ -112,9 +112,10 @@ astronave - звездолёт
 astronaver - астронавт  
 astronomer - астроном  
 astronomia - астрономия  
-• reation - реакция  
-• reate - реагировать  
 ate - действие (акт)  
+• reation - реакция  
+• proative - проактивный  
+• reate - реагировать  
 ater - деятель  
 ation - действие (акция)  
 ative - активный (деятельный)  
@@ -537,12 +538,9 @@ fa loka - ставить
 fa mei daka - украсить  
 fa memo - помнить  
 fa min rai - недооценить  
-fa mol - молоть  
-fa nati - родить  
 fa nomi - организовать  
 fa onor - чтить  
 fa pede - пердеть  
-fa plasti - лепить  
 fa prese - нажимать  
 fa pul - заполнять  
 fa re - повторять  
@@ -1293,10 +1291,10 @@ mimer - мим (имитатор)
 minte - мята  
 mintol - ментол  
 miraje - мираж  
-mira plate - зеркало  
+mire plate - зеркало  
 mirde - слабый  
 misaje - месседж  
-Misri - Египет  
+Misre - Египет  
 mitre - метр  
 mixe - мешать  
 mixe alkol - коктейль  
@@ -1305,6 +1303,7 @@ moka - дерево
 moka bano - доска (планка)  
 moka kane - палка  
 moka tana - бревно  
+mole - молоть  
 molite - жёрнов  
 molkan - мельница  
 moli - жасмин  
@@ -1321,14 +1320,16 @@ Moskva - Москва
 moskvium - московий  
 mostre - монстр  
 moter - мотор  
+motosikle - мотоцикл  
 moto cati - капот  
-moto sikle - мотоцикл  
 mudan - пион  
 mula - корень  
 mum melon - восковая тыква (зимняя дыня)  
 mur - стена (вал)  
-mur kaguji - обои  
-murce - муравей  
+mur kaguze - обои  
+murmeke - муравей  
+murmeke kume - муравейник  
+murmekologia - мирмекология  
 mus - должен  
 muskul bina - культуризм  
 musli - мюсли  
@@ -1356,7 +1357,7 @@ nam dokumen - ID
 nam hin - безымянный  
 nam kitaba - подписать  
 nan reger - король  
-nardi - нарды (триктрак)   
+narde - нарды (триктрак)   
 narke - наркотик  
 nasia - нация  
 • internasial - междунаро́дный  
@@ -1372,9 +1373,9 @@ nau di - мозговой (церебральный)
 nau hin - безмозглый  
 nautile - наутилид  
 nave - лодка (бот)  
-nave trepe - трап  
 nave dex - правый борт  
 nave leu - левый борт  
+nave trepe - трап  
 nefre - почка  
 nefritis - нефрит  
 negative - негативный  
@@ -1557,6 +1558,7 @@ pirateria - пиратство
 pisea - ель  
 piza - пицца  
 plan - план  
+plaste - лепить  
 plaste - пластмасса  
 plastike - пластичный  
 plate geiste - плоскоземелец  

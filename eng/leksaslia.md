@@ -116,7 +116,7 @@
 **barde** *beard* ← French:barbe, Spanish:Portuguese:barba, deu:Bart, English:beard, Russian:борода (boroda), Polish:broda  
 **bari** *heavy (requiring much effort, hard, difficult, serious, important, etc.)* ← Hindi:भारी (bhārī), Bengali:ভারী (bharī), Malay:berat, Telugu:బరువు (baruvu), Persian: بار‎ (bâr), Greek: βαρύς (barýs) + Korean:바리 (bari)  
 **barium** *barium* ← English:barium, French:baryum, Spanish:bario, Portuguese:bário, Russian:барий, Mandarin:钡 (bèi), Japanese:バリウム, Korean:바륨, Vietnamese:bari, Hindi:बेरियम, Bengali:বেরিয়াম, Malay:barium, Swahili:bari, Arabic: باريوم  
-**barka** *congratulations! (blessing, benediction)* ← Hausa:barka, Malay:berkah, Turkish:tebrik, Persian:(tabrik), Arabic:Urdu:(mubārak), Swahili:baraka, hau:albarka, Yoruba:alubarika  
+**barke** *congratulate (bless)* ← Hausa:barka, Malay:berkah, Turkish:tebrik, Persian:(tabrik), Arabic:Urdu:(mubārak), Swahili:baraka, hau:albarka, Yoruba:alubarika  
 **barti** *Indian* ← Hindi:भारतीय (bhārtīy), Urdu:(bhārtīy), Marathi:(bhārtīya), Telugu:(bhāratīya)  
 **baru** *bear* ← deu:Bär, English:bear + Hindi:भालू (bhālū) Bengali:ভালুক (bhaluk) + Malay:beruang  
 **barude** *gunpowder* ← Arabic: بَارُود (bārūd), Turkish:barut, Persian: بارود‎ (bârud), Hindi:बारूद (bārūd), Bengali:বারুদ (barud), Swahili:baruti, Fulani:barudu  
@@ -257,7 +257,7 @@
 **dalil** *proof (evidence, proof, demonstration, testimony)* ← Arabic:(dalil), Bengali:দলিল (dôlil), Swahili:dalili, Turkish:delil  
 **dama geme** *checkers (draughts)* ← French:jeu de dames, Spanish:Portuguese:damas, Arabic: ضَامَة‎ (ḍāma), Vietnamese:cờ đam, Malay:dam, Turkish:dama, deu:Damespiel  
 **dan** *rank (grade, dan)* ←  Japanese:段 (dan), English:French:Malay:dan + Mandarin:等 (děng),  Cantonese:等 (dang2), Korean:등 (dang), Vietnamese:đẳng  
-**dana** *particle (grain, bullet)* ← Persian: دانه‎ (dâne), Hindi:दाना (dānā), Turkish:tane + Japanese:種 (tane); 銃弾 (jūdan), Mandarin:弹 (dàn), Vietnamese:đạn, Korean:탄알 (tanal)  
+**dana** *particle (grain, bullet)* ← Persian: دانه‎ (dâne), Hindi:दाना (dānā), Turkish:tane + Japanese:種 (tane); 銃弾 (jūdan), Mandarin:弹 (dàn), Cantonese:彈 (daan6), Vietnamese:đạn, Korean:탄알 (tanal)  
 **dang** *ring (toll, clang)* ← English:dong + Persian: زنگ‎ (zang), Turkish:çan + Mandarin:钟 (zhōng), Cantonese:鐘 (zung1), Korean:종 (jong), Vietnamese:chuông, Khmer:ចួង (cuəng) + Russian:звон (zvon)  
 **danse** *dance* ← English:French:dance, Spanish:danza, Portuguese:dança, deu:Tanz, Russian:танец (taněc), Turkish:dans, Japanese:ダンス (dansu), Korean:댄스 (daenseu), Swahili:dansi  
 **dante** *tooth* ← Spanish:diente, Portuguese:dente, French:dent, English:dental, Hindi:दाँत (dā̃t), Bengali:দাঁত (dãtô), pan:ਦੰਦ (dand), Malay:danta  
@@ -350,7 +350,6 @@
 **exa** *exa-* ← English:French:Spanish:Portuguese:exa, Russian:экза- (ekza-), Malay:eska-, Mandarin:艾可萨- (àikěsà-), Japanese:エクサ (ekusa), Korean:엑사- (eksa-)  
 **ezmurude** *emerald* ← Greek:σμαράγδι (smarágdi), English:emerald, French:émeraude, Spanish:Portuguese:esmeralda, Japanese:エメラルド (emerarudo), Korean:에메랄드 (emeraldeu), Persian: زمرد (zomorrod), Bengali:জমরুদ (zômrud), Arabic: زُمُرُّد‎ (zumurrud), Swahili:zumaridi, Hausa:zumurrudu, Malay:zamrud, Russian:изумруд (izumrud), Mandarin:祖母绿 (zǔmǔlǜ)  
 **fa argu** *argue (assert, prove, clarify)* ← English:argue, French:arguer, Spanish:argüir, Portuguese:arguir, Russian:аргумент (argument)  
-**fa barka** *congratulate (bless)* ← Hausa:barka, Malay:berkah, Turkish:tebrik, Persian:(tabrik), Arabic:Urdu:(mubārak), Swahili:baraka, Yoruba:alubarika  
 **fa daka** *cover (conceal)* ← Hindi:ढकना (dhaknā), Bengali:ঢাকা (ḍhaka), Punjabi:ਢੱਕਣਾ (ḍhakṇā), deu:decken, English:deck  
 **fa estude** *study (work in order to practise or demonstrate)* ← English:study, French:étudier, Spanish:estudiar, Portuguese:estudar, Russian:студент (student), Hindi:स्टूडेंट (sṭūḍeṇṭ)  
 **fa fei** *fly (go through air)* ← Mandarin:飞 (fēi), Cantonese:飛 (fei1), Wu-Chinese:飛 (fi1), Japanese:飛 (hi), Korean:비 (bi), Vietnamese:bay  
@@ -361,8 +360,7 @@
 **fa ulul** *howl* ← deu:Heulen, Italian:ululato, Turkish:uluma, Filipino:aulong,  
 **fa** *do* ← French:faire, Portuguese:fazer, Italian:fare + Arabic: فَعَلَ‎ (faʿala) + Swahili:fanya + Cantonese:化 (faa3), Hakka-Chinese:化 (fa), Mandarin:化 (huà), Vietnamese:hoá  
 **faide** *gain (benefit, advantage, asset, profit)* ← Arabic: فَائِدَة‎ (fāʾida), Turkish:fayda, Swahili:faida, Hausa:fa'ida, Persian: فایده‎ (fâyede), Hindi:फ़ायदा (fāyadā), Malay:faedah  
-**false** *false (fake)* ← English:false, Spanish:Portuguese:falso, French:faux, deu:falsch  
-**famili** *family* ← English:family, Spanish:familia, Portuguese:família, French:famille, Swahili:familia  
+**famil** *family* ← deu:Familie, English:family, Spanish:familia, Portuguese:família, French:famille, Persian: فامیل‎ (fâmil), Swahili:familia, Malay:famili  
 **fan** *fan (be a fan, admire)* ← English:French:Spanish:Vietnamese:fan, Portuguese:fã, Russian:фанат (fanat), Mandarin:粉丝 (fensi), Japanese:ファン (fan), Korean:팬 (pän)  
 **fantaze** *fantasy (imagination)* ← English:French:fantasy, Spanish:fantasía, Portuguese:Swahili:fantasia, Russian:фантазия (fantazija), Turkish:fantezi, Malay:fantasi, Japanese:ファンタジー (fantajī)  
 **fantom** *ghost (phantom)* ← English:phantom, Spanish:Portuguese:fantasma, French:fantôme, Russian:фантом (fantom)  
@@ -1000,12 +998,13 @@
 **ministrer** *minister* ← English:minister, Spanish:Portuguese:ministro, French:ministre, Russian:мини́стр (minístr) + Hindi:मंत्री (mantrī), Bengali:মন্ত্রী (môntri), Malay:menteri  
 **minte** *mint* ← English:mint, Spanish:Portuguese:menta, French:menthe, Russian:мята (m’ata), Japanese:ミント (minto)  
 **minute** *minute* ← English:minute, Spanish:Portuguese:minuto, Russian:мину́та (minúta), Hindi:मिनट (minaṭ), Bengali:মিনিট (miniṭ), Malay:minit  
-**mira** *stare (watch, gaze)* ← French:mirer, Spanish:Portuguese:mirar + Japanese:見る (miru) + Arabic:مِرْآة‎ (mirʾāh)  
 **mirde** *faint (depending on context: soft, dull, mild, weak, slow, subtle)* ← English:mild, Polish:mierny, Hindi:मृदु (mridu), Wu-Chinese:微 (mi3), Cantonese:微 (mei4)  
+**mire** *stare (watch, gaze)* ← French:mirer, Spanish:Portuguese:mirar + Japanese:見る (miru) + Arabic:مِرْآة‎ (mirʾāh)  
 **misal** *example (instance of)* ← Hindi:मिसाल (misāl), Arabic:(mithāl), Persian:(mesâl), Malay:misal, Swahili:mathalani, Turkish:mesela, Hausa:misali  
 **mise** *send (emit, transmit)* ← English:emit, French:émettre, Spanish:Portuguese:remitir, Malay:emisi, deu:Mission, Russian:миссия (missiya), Turkish:misyon + Hindi:कमीशन (kamīśan), Bengali:কমিশন (kômiśôn)  
 **miskin** *poor (miserable)* ← Arabic:مِسْكِين (miskīn), Persian:مسکین‎ (meskin), Turkish:Malay:miskin, Swahili:maskini, Hindi:, Bengali:মিসকিন (miśkin), French:miskine, Spanish:mezquino, Portuguese:mesquinho  
-**Misri** *Egypt* ← Arabic:(miṣr), Turkish:Mısır, Swahili:Misri, Hindi:मिस्र (misra), Bengali:মিশর (miśôr), Hausa:Masar  
+**Misre** *Egypt* ← Arabic:(miṣr), Turkish:Mısır, Swahili:Misri, Hindi:मिस्र (misra), Bengali:মিশর (miśôr), Hausa:Masar  
+**mite** *tale (fiction, myth)* ← English:myth, deu:Mythos, French:mythe, Spanish:Portuguese:mito, Russian:миф (mif), Hindi:मिथक (mithak), Turkish:mit  
 **mitre** *meter (100 cm)* ← English:Turkish:metre, deu:Malay:meter, French:mètre, Spanish:Portuguese:metro, Russian:метр (metr), Arabic: متر‎ (mitr), Mandarin:米 (mǐ), Japanese:メートル (mētoru), Korean:미터 (miteo), Vietnamese:mét, Hindi:मीटर (mīṭar), Bengali:মিটার (miṭar), Swahili:Hausa:mita  
 **mixe** *mix (blend)* ← deu:mischen, Russian:мешать (měšat'), Polish:mieszać, English:mix, Italian:miscelare, + Hindi:मिश्रण (miśrān)  
 **mode** *mode (type, pattern, state)* ← French:English:mode, Spanish:Portuguese:modo, Russian:мода, Turkish:mod, Korean:모드 (modeu) + Mandarin:模 (mó), Cantonese:模 (mou4), Japanese:模 (mo); モード (mōdo)  
@@ -1033,7 +1032,7 @@
 **mun** *door (gate, portal)* ← Mandarin:门 (mén), Cantonese:門 (mun4), Japanese:門 (mon), Korean:문 (mun), Vietnamese:môn  
 **mungus** *mongoose* ← Telugu:ముంగిస (muṅgisa), Marathi:मुंगूस (muṅgūs), English:mongoose, Spanish:mangosta, Portuguese:mangusto, French:mangouste, Russian:мангу́ст (mangúst), Japanese:マングース (mangūsu)  
 **mur** *wall (structure for delimitation)* ← French:mur, Spanish:Portuguese:muro + deu:Mauer, Polish:mur  
-**murce** *ant* ← Persian:مورچه (murče), Russian:мурашка (murashka), Greek:μυρμήγκι (myrmigki), hye:մրջիւն (mrǰiwn)  
+**murmeke** *ant* ← Persian: مور‎ (mur), Russian:муравей (muravei), English:myrmeco-, deu:myrmeko-, French:myrméco-  
 **mus** *must (have to, should)* ← English:must, deu:müssen, ukr:мусити (musiti), Polish:musieć, cze:musit  
 **muskete** *musket* ← English:musket, Spanish:Portuguese:mosquete, French:mousquet, Russian:мушке́т (muškét), Japanese:マスケット (masuketto)  
 **muskul** *muscle* ← English:French:muscle, Spanish:Portuguese:músculo, deu:Muskel, Russian:му́скул (múskul), Swahili:msuli  
@@ -1056,7 +1055,7 @@
 **nan** *male* ← Mandarin:男 (nán), Japanese:男 (nan), Korean:남 (nam), Vietnamese:nam + Persian: نر‎ (nar), Hindi:नर (nar), Bengali:নর (nôr), Telugu:నరుడు (naruḍu) + English:man, deu:Mann + Tamil:ஆண் (āṇ)  
 **naraka** *hell* ← Hindi:नरक (narak), Bengali:নরক (nôrôk), pan:ਨਰਕ (nark), Marathi:नर्क (nark), Telugu:నరకము (narakamu), Tamil:நரகம் (narakam), Malay:neraka, Thai:นรก (ná-rók), Japanese:奈落 (naraku)  
 **naram** *soft* ← Persian: نرم‎ (narm), Hindi:नरम (naram), Bengali:নরম (nôrôm) + Arabic: نَاعِم‎ (nāʿim) + Thai:นุ่ม (num)  
-**nardi** *backgammon* ← Persian:Urdu: نرد‎ (nard), Russian:нарды (nardy)  
+**narde** *backgammon* ← Persian: نرد‎ (nard), Hindi:नर्द (nard), Turkish:nert, Arabic: نَرْد‎ (nard), Russian:нарды (nardy)  
 **narke** *drug (narcotic, dope, intoxicating substance)* ← English:narcotic, French:narcotique, Spanish:Portuguese:narcótico, Russian:наркотик (narkotik), Malay:narkotik  
 **nas** *people (folk)* ← Arabic:(nās) + English:French:nation, deu:Nazion, Portuguese:nação, Spanish:nación, Polish:nacja, Russian:нация (natsiya)  
 **nate** *birth* ← French:naître, Spanish:Portuguese:nato, English:-nate + deu:Nazion, Polish:nacja, Russian:нация (natsiya) + Arabic:(nās)  

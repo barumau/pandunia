@@ -46,14 +46,14 @@ adjective - sifa loga
 administer (govern) - fa politi  
 admiral - bahai amirer  
 admire (adore) - fanate  
-admire - amira  
+admire - amire  
 adult - ceng jen  
 adultery (infidelity) - zina  
 advanced (high-level) - gau gradu di  
 advancement (milestone) - progresion  
 adventure (venture) - ventur  
 adventurer - venturer  
-adverb - mode loge  
+adverb - mode lexe  
 advice (counsel, recommendation) - sel  
 advise (recommend) - fa sel  
 advisor (counselor, mentor) - mentor  
@@ -182,10 +182,11 @@ animism - animisme
 anise - anis  
 anniversary - nen festa  
 answer (reply, response) - javabu  
-ant - murce  
+ant - murmeke  
 Antarctic Ocean - Antartika Bahai  
 Antarctica - Antartika  
 antenna (aerial) - antena  
+anthill - murmeke kume  
 antichrist - antikriste  
 Antigua - Antigua  
 Antigua and Barbuda - Antigua i Barbuda  
@@ -198,8 +199,8 @@ appear (look like; appearance, looks, figure, representation) - rupa
 appear - be zai  
 apple - aple  
 applesauce - aple sos  
+apply (make use of, put to use for a purpose) - uzife  
 apply (put sth on sth else) - aplike  
-apply (put to use for a purpose) - fa aplika  
 apprentice - kar xular  
 approach (get close, approximate) - aproxe  
 approach (get near) - be karibu  
@@ -261,7 +262,7 @@ ask (inquire) - fa sual
 ask (request, beg, plead; please) - cing  
 asparagus - asparge  
 aspect (viewpoint) - aspete  
-associate - fa liga  
+associate - lige  
 assume (presuppose) - pre si  
 Assur - Axur  
 assure (affirm, confirm) - fa amen  
@@ -327,7 +328,7 @@ bachelor (bachelor’s degree) - baceler
 back (posterior) - posike  
 back (return it to previous place) - re  
 back - ruke  
-backgammon - nardi  
+backgammon - narde  
 backpack (rucksack) - ruke sake  
 backup - sekur kopi  
 backward (in reverse) - a re  
@@ -564,6 +565,7 @@ breast cancer - mame kanse
 breastplate - sine plate  
 breath - nafas  
 breathe - fa nafas  
+breed (procreate) - progene  
 breed - sugene  
 brick - tege  
 bridge - kio  
@@ -663,7 +665,7 @@ Canada - Kanada
 cancel (nullify, delete, erase) - fa siro  
 cancer - kanse  
 candela - kandela  
-candle - mum foto  
+candle - mum fote  
 candy (sweets) - kandi  
 cannabis (marijuana, ganja, pot, weed) - ganja  
 cannoneer - dai pauer  
@@ -946,8 +948,8 @@ confuse (perplex, bewilder, baffle) - ruhu mixe
 confused (perplexed, disoriented, bewildered) - ruhu mixe di  
 Congo (Brazzaville) - Brazavil Kongo  
 Congo Kinshasa - Kinxasa Kongo  
-congratulate (bless) - fa barka  
-congratulations! (blessing, benediction) - barka  
+congratulate (bless) - barke  
+congratulations! (blessing, benediction) - barke  
 conjugation (pairing) - konyuge  
 conjunction - yunte lexe  
 conjure (do magic, cast a spell; spell) - mage  
@@ -1278,7 +1280,7 @@ drag (haul, tow, trail) - trate
 dragon - lung  
 dragonfly - libele  
 dramatic irony - dramatike ironia  
-draw - fa grafi  
+draw - grafe  
 drawer - tire sanduku  
 drawing (design) - desen  
 drawing (graph, image) - grafe  
@@ -1346,8 +1348,8 @@ effect (impact, influence, affect) - exfete
 effective (influential) - exfetive  
 egg - anda  
 eggplant (aubergine, brinjal) - bedingan  
-Egypt - Misri  
-Egyptian - misri di  
+Egypt - Misre  
+Egyptian - misrian  
 eight (8) - bati  
 einsteinium - einsteinium  
 eject (throw out) - exjete  
@@ -1518,11 +1520,13 @@ faint (depending on context: soft, dull, mild, weak, slow, subtle) - mirde
 fairy (faery) - pari  
 fairy tale - pari kata  
 fairyland (paradise) - paristan  
+fake (fictional, fake, made up, spurious) - mitike  
 Falkland Islands (Malvinas) - Malvina nesia  
 fall - pada  
+fallacy - mitaje  
 fallen - pada di  
-false (fake) - false  
-family - famili  
+false (not true) - anver  
+family - famil  
 fan (-phile) - filiste  
 fan (be a fan, admire) - fan  
 fan (ventilator) - sanzi  
@@ -1670,7 +1674,7 @@ formatting - kitaba forma
 fortress (castle, fort, stronghold) - burge  
 forum (public space) - forum  
 forward - to pro  
-found - fa baze  
+found - bazize  
 founder - bazer  
 fountain (spring, well) - fonte  
 fountain pen - fonte kalam  
@@ -1788,7 +1792,6 @@ giraffe - zirafa
 girl - jun fem  
 girl - you ni  
 give - don  
-give birth (beget, generate, breed) - fa nati  
 give consultation - konsel  
 glass - glas  
 glaze (vitrify) - fa glas dake  
@@ -1870,7 +1873,7 @@ grieve (be sad; grief, sorrow) - duku
 grieve - be duka  
 grilled meat (kebab) - kababu karne  
 grimace - grimas  
-grind (grind in mill) - fa mol  
+grind (grind in mill) - mole  
 grindstone (millstone) - molite  
 ground force (army) - geo ordu  
 group - grupe  
@@ -2105,7 +2108,7 @@ if (suppose, assume) - si
 ifrit - ifrite  
 igloo - iglu  
 ill (sick) - patike  
-illusion (hallucination) - false vide  
+illusion (hallucination) - mite vide  
 illustrator (graphic artist) - grafer  
 image processing - grafe culi  
 image projector - grafe lanse gi  
@@ -2178,7 +2181,7 @@ insult (offence) - insulte
 insult (offend, call names) - fa dus nam  
 insult (offense) - dus nam  
 integer (whole number) - holonume  
-intend (plan) - fa plan  
+intend (plan) - plan  
 intensify - be teza  
 intensity (volume) - tezata  
 intensive (depending on context: brisk, sharp, acrid, strong, fast, quick, loud) - teza  
@@ -2625,7 +2628,7 @@ March - mes tri
 margarine - margarin  
 margay - margai  
 maritime - bahai di  
-mark (leave a mark) - fa marke  
+mark (leave a mark) - marke  
 mark (trace) - marke  
 market (bazaar) - bazar  
 market liberalism - bazar hurisme  
@@ -2766,7 +2769,7 @@ mineral water - kuan sui
 mineshaft - kuan tunel  
 minimal - minimal  
 minimalism - minisme  
-minimize - fa minim  
+minimize - minimife  
 minister - ministrer  
 ministry - ministre ofis  
 minor (not major) - minike  
@@ -2775,7 +2778,7 @@ mint - minte
 minute - minute  
 mirage - miraje  
 Miranda - Miranda  
-mirror - mira plate  
+mirror - mire plate  
 misdeed (sin, vice) - dusate  
 misdeed (sin, vice) - duskar  
 misfortune (bad luck) - dus zar  
@@ -2793,7 +2796,7 @@ model (design) - model
 model (simulation) - sam sifa xe  
 modern - neu tipe di  
 module - module  
-mold (shape) - fa plasti  
+mold (shape) - plaste  
 Moldova - Moldova  
 mole (burrowing animal) - krote  
 mole (unit) - mole  
@@ -2844,15 +2847,15 @@ mother (mom, mama) - ma
 mother-in-law - per ma  
 motherland - matria  
 motherly (maternal) - ma di  
-motion (movement) - move  
-motorcar (automobile) - moto gar  
-motorcycle - moto sikle  
+motion (movement) - motion  
+motorcar (automobile) - motocar  
+motorcycle - motosikle  
 mound (hill) - kume  
 mountain (hill) - xan  
 mouse or rat - muxu  
 mouth - boka  
 move (migrate, relocate oneself) - be migra  
-move (migrate, relocate) - fa migra  
+move (migrate, relocate) - migre  
 move (transfer, shift, stir, budge, rouse, motivate, inspire) - fa kino  
 move oneself - be kino  
 movement - kino  
@@ -2892,6 +2895,8 @@ my - mi su
 Myanmar (Burma) - Mianma  
 mycelium - fungu nete  
 myna bird - maina  
+myrmecology (study of ants) - murmekologia  
+myrmecophyte - murmekofite  
 myth (divine story) - deokata  
 
 ## N  
@@ -3166,7 +3171,7 @@ Pacific Ocean - Pace Bahai
 pacifism - pacisme  
 pacifist - paciste  
 pack (package) - pake  
-pack - fa pake  
+pack - pake  
 package - pakaje  
 packet - pakete  
 pact (contract, covenant, alliance) - kon trati  
@@ -3357,7 +3362,7 @@ piracy - pirateria
 pirate (one who disobeys intellectual property laws) - piratisme  
 pirate (sea robber) - pirater  
 Pirate Party - pirate partia  
-piss (urinate) - fa pix  
+piss (urinate) - pixe  
 piss (urine) - pixe  
 pistol - pistol  
 piston - pompe tape  
@@ -3503,6 +3508,7 @@ press (imprint) - fa cape
 press (pressure) - prese  
 press (squeeze) - fa prese  
 press device - preser  
+pretype (preliminary type) - pretipe  
 previous (fore) - pre di  
 prick (sting) - fa pin  
 priest (cleric) - din guru  
@@ -3516,10 +3522,13 @@ prisoner - jela jen
 pristine (virginal) - virgal  
 privateer (buccaneer) - nave kaper  
 privatize - privatize  
+proact (act in advance) - proate  
+proactive - proative  
 problem (issue) - problem  
 problematic - problem di  
 process (handling, treatment, procedure) - culi  
 process (proceed, go forward) - procese  
+process (produce) - prokare  
 processor - proceser  
 produce (create, make) - fa sana  
 produce (lead forward) - produte  
@@ -3782,7 +3791,7 @@ Roman camomile - roma kamil
 Roman Empire - Roman Imperia  
 romance (romantic love) - romanse  
 Romania - Romania  
-romanize - fa Latin kitaba  
+romanize - latinogramife  
 romantic - romanse di  
 Rome - Roma  
 roof - cati  
@@ -3905,7 +3914,7 @@ scorpion (Scorpio) - akrabe
 Scotland - Skotia  
 screen - eskran  
 screw - vita  
-scroll wheel - muxu cakra  
+scroll wheel - muxu rote  
 sculpt (carve) - fa eskulte  
 sculptor - eskulter  
 sculpture (art of sculpting) - eskulte suta  
@@ -4190,7 +4199,7 @@ stand - state
 stand still - be estasi  
 star - xing  
 starboard (right side of a ship) - nave dex  
-stare (watch, gaze) - mira  
+stare (watch, gaze) - mire  
 starship - astronave  
 state (condition, status, situation, circumstances) - hal  
 static (stationary, still) - statike  
@@ -4283,7 +4292,7 @@ suppress (press down) - niceprese
 sure (certain, trusted) - amen di  
 surface (face) - fase  
 Suriname - Surinam  
-surname (family name) - famili nam  
+surname (family name) - famil nam  
 surpass (go over) - be supra  
 surprise - supriza  
 surrender (submit, yield) - be islam  
@@ -4333,6 +4342,7 @@ Taiwan (Republic of China) - Taivan
 Tajikistan - Tajiki  
 tajine - tege pote  
 take back - recepe  
+tale (fiction, myth) - mite  
 tale (story, legend, saga) - kata  
 talkative - logive  
 tame (docile, obedient) - dosil  
@@ -4440,7 +4450,7 @@ thickness - grosta
 thief - corer  
 thing (stuff) - ree  
 thing - xe  
-think (ponder, reflect) - fa fikir  
+think (ponder, reflect) - fikre  
 third (3rd) - trime  
 thirst - sui yau  
 this - ye  
@@ -4462,7 +4472,7 @@ thunderstorm - grom tufan
 Thursday - muxinden  
 Tibet - Bote  
 tick (mite) - akare  
-tie (fasten, bind) - fa bande  
+tie (fasten, bind) - bande  
 tie a knot - fa node  
 tiger - bagre  
 tight (tense) - tense  
@@ -4548,7 +4558,7 @@ transport (transportation) - traporte
 trap (snare) - kape truke  
 trapdoor - pada mun  
 travel (voyage, trip) - safar  
-travel - fa safar  
+travel - safar  
 traveler - safarer  
 traveller's cheque (traveler's check) - safar ceke  
 traverse (horizontal) - vei di  
@@ -4744,7 +4754,7 @@ walk (march) - fa marce
 walk (march) - marce  
 wall (structure for delimitation) - mur  
 Wallis and Futuna Islands - Valis e Futuna nesia  
-wallpaper - mur kaguji  
+wallpaper - mur kaguze  
 waltz - valse  
 want (desire, wish) - vol  
 want (desire, wish) - vol xe  
@@ -4759,7 +4769,7 @@ washing machine - fuku vaxi gi
 Washington DC - Vaxington DC  
 watch (spectate, observe) - spete  
 watcher (spectator, observer) - speter  
-watcher - mirar  
+watcher - mirer  
 watchtower - garde tor  
 water - sui  
 water buffalo - karbau  
@@ -4857,7 +4867,7 @@ woman (adult female) - ceng fem
 wonder (awe, marvel) - ajabu  
 wonder (be amazed) - be ajabu  
 wonder (be interested in, would like to know) - be sabi vol  
-wonderful (marvel, mirable) - mirabil  
+wonderful (marvel, mirable) - mirebil  
 wood (timber) - moka mate  
 wood board (plank) - moka bano  
 wool (fleece) - meme kexa  
@@ -4875,7 +4885,7 @@ world language - dunia baxe
 worm - verme  
 worship (adore; reveration, veneration) - puja  
 wow! (gee!) - va  
-wrap - fa lifafa  
+wrap - lifafe  
 wrapping (envelope, covering) - lifafa  
 write (writing, text, script) - kitaba  
 written character - grame  

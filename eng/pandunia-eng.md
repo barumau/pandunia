@@ -84,12 +84,12 @@ agile - agile
 agre - cultivate (farm)  
 agral - agricultural  
 agrobiologia - agrobiology  
+agre deha - rural village  
 agrer - farmer  
 agrokulte - agriculture  
 agronomia - agronomy  
 agristan - countryside  
 agristanike - rural (rustic)  
-agre deha - rural village  
 aha - realize (understand; aha)  
 air - air  
 • anairobiike - anaerobic  
@@ -103,7 +103,6 @@ ais di - icy
 ais hoki - ice hockey  
 ais krem - ice cream  
 ais xarbe - sherbet  
-Haiti - Haiti  
 ajabu - wonder (awe, marvel)  
 ajabu di - amazing (astonishing)  
 akare - tick (mite)  
@@ -259,16 +258,18 @@ astronave - starship
 astronaver - astronaut  
 astronomer - astronomer  
 astronomia - astronomy  
+ate - act (deed)  
+• anative - off (deactivated, disabled, inactive)  
+• deative - deactivate (disable, turn off)  
 • dusate - misdeed (sin, vice)  
 • interate - interact  
 • interative - interactive  
 • reation - reaction  
+• proate - proact (act in advance)  
+• proative - proactive  
 • reate - react  
-ate - act (deed)  
 ater - agent (doer, actor)  
 ation - action  
-• anative - off (deactivated, disabled, inactive)  
-• deative - deactivate (disable, turn off)  
 ative - active (working; activate, enable, turn on, trigger)  
 ata - sugar-apple (sweetsop)  
 Athina - Athens  
@@ -369,6 +370,7 @@ bamia - okra (okro)
 ban - bread  
 banana - banana  
 bande - bind (wrap in bandage)  
+bande - tie (fasten, bind)  
 bandaje - bandage  
 banda - band (squad, group)  
 bandera - flag (banner)  
@@ -394,7 +396,8 @@ Barbuda - Barbuda
 barde - beard  
 bari - heavy (requiring much effort, hard, difficult, serious, important, etc.)  
 bari metal - heavy metal  
-barka - congratulations! (blessing, benediction)  
+barke - congratulate (bless)  
+barke - congratulations! (blessing, benediction)  
 Barti - India  
 barti - Indian  
 Barti Bahai - Indian Ocean  
@@ -433,6 +436,7 @@ baze bol - baseball
 bazer - founder  
 bazike - basic  
 bazisme - principle  
+bazize - found  
 baze kanun - consitution  
 baze petra - bedrock  
 baze strute - intrastructure (underbuilding)  
@@ -1130,17 +1134,13 @@ fa an galte - debug
 fa an verse - invert (reverse)  
 fa an zai - remove (delete, dispose, erase)  
 fa anime - animate  
-fa aplika - apply (put to use for a purpose)  
 fa argu - argue (assert, prove, clarify)  
 fa aroma - smell (sniff)  
 fa aroma - smell (reek)  
 fa asar - effect (bring about)  
 fa auto - personalize (customize)  
 fa avar - harm (damage)  
-fa bande - tie (fasten, bind)  
 fa banya - bathe  
-fa barka - congratulate (bless)  
-fa baze - found  
 fa bina - build (construct)  
 fa biznes lona - negotiate (arrange)  
 fa budi - realize (understand)  
@@ -1171,7 +1171,6 @@ fa fatu - punish (penalize)
 fa fei - fly (go through air)  
 fa fen - divide (partition, part, split, separate)  
 fa fen do du - halve (divide by two)  
-fa fikir - think (ponder, reflect)  
 fa fin - finish (complete, end)  
 fa fobi - scare (frighten)  
 fa fokus - concentrate  
@@ -1190,7 +1189,6 @@ fa glas dake - glaze (vitrify)
 fa glu - stick (adhere, paste, glue)  
 fa gol - achieve (accomplish, arrive, reach)  
 fa gola - surround (encircle)  
-fa grafi - draw  
 fa guste - taste (sense flavor)  
 fa halal - allow (permit)  
 fa halte - stop (halt)  
@@ -1234,11 +1232,8 @@ fa kung - pierce (perforate, bore)
 fa kux - lay (lay down)  
 fa lai - bring  
 fa lanse grafi - project (cast)  
-fa Latin kitaba - romanize  
 fa lenxi - practice (to exercise)  
 fa libu - erect  
-fa lifafa - wrap  
-fa liga - associate  
 fa lika - strengthen (reinforce)  
 fa linke - connect (join, link)  
 fa loka - put (place, set)  
@@ -1249,27 +1244,22 @@ fa mal - own (possess)
 fa manera - behave (act)  
 fa mantra - chant  
 fa marce - walk (march)  
-fa marke - mark (leave a mark)  
 fa masaje - knead (massage)  
 fa max lika - reinforce (replenish)  
 fa mece - compete (have a match)  
 fa mede - help (assist)  
 fa mei daka - decorate (embellish)  
 fa memo - remember (recall)  
-fa migra - move (migrate, relocate)  
 fa min - decrease (lessen)  
 fa min gradu - decrement  
 fa min rai - underestimate  
 fa ming - brighten  
-fa minim - minimize  
 fa model - model (design)  
-fa mol - grind (grind in mill)  
 fa muzika - play music  
 fa nafas - breathe  
 fa nahun - claw (scratch)  
 fa najis - corrupt (pollute, soil, defile, stain, taint)  
 fa nam - call (name)  
-fa nati - give birth (beget, generate, breed)  
 fa neu - renew (make new, renovate)  
 fa nia - mean (intend)  
 fa node - tie a knot  
@@ -1281,7 +1271,6 @@ fa ore - listen
 fa orto - straighten  
 fa pada - drop (let fall)  
 fa paka - coerce (use force, compel)  
-fa pake - pack  
 fa par - equalize (balance, even out)  
 fa paraya - despise (scorn)  
 fa parce - shatter (break into pieces)  
@@ -1294,9 +1283,6 @@ fa pei - pay
 fa pente - paint (cover in paint)  
 fa pin - prick (sting)  
 fa piping - evaluate (review, criticise)  
-fa pix - piss (urinate)  
-fa plan - intend (plan)  
-fa plasti - mold (shape)  
 fa poli - multiply  
 fa politi - administer (govern)  
 fa pos - follow (come after)  
@@ -1320,7 +1306,6 @@ fa romanse - love romantically
 fa sabu - cause (be the cause for)  
 fa saf - clean (purify)  
 fa saf va tela - wipe (clean with a cloth)  
-fa safar - travel  
 fa sahi - correct (make right)  
 fa saide - hunt (fish)  
 fa salam - greet  
@@ -1382,10 +1367,8 @@ fa zai - summon (add, spawn, actualize)
 faide - gain (benefit, advantage, asset, profit)  
 faidaje - material (ingredient, resource)  
 faidike - useful (beneficial, advantageous)  
-false - false (fake)  
-false vide - illusion (hallucination)  
-famili - family  
-famili nam - surname (family name)  
+famil - family  
+famil nam - surname (family name)  
 fan - fan (be a fan, admire)  
 fanate - admire (adore)  
 fanatike - fanatic (enthusiast(ic))  
@@ -1453,6 +1436,7 @@ feter - maker (factor, agent)
 feteria - factory (plant)  
 Fiji - Fiji  
 fikir - thought (idea)  
+fikre - think (ponder, reflect)  
 file - attraction (fascination, -philia)  
 filiste - fan (-phile)  
 Filipin - Philippines  
@@ -1684,6 +1668,7 @@ gem suta - fencing (art of duelling with swords)
 gene - generate (beget, produce; production, reproduction)  
 • exgene - exogeneous  
 • poligene - polygenesis  
+• progene - breed (procreate)  
 • sugene - breed  
 • ungene - monogenesis  
 gene di - raw (crude)  
@@ -1761,6 +1746,7 @@ gradu - step (degree, rank, grade, level, class)
 gradu di - gradual  
 gradu medan - gradient (gradation, incline)  
 gradu mute - development  
+grafe - draw  
 grafe - drawing (graph, image)  
 grafe buku - picture book  
 grafe culi - image processing  
@@ -1841,6 +1827,7 @@ hafizer - keeper (preserver)
 haha - laugh  
 haide - let's  
 haima - tent  
+Haiti - Haiti  
 haki - dust  
 haki cupu gi - vacuum cleaner  
 haki rang - khaki  
@@ -2316,6 +2303,7 @@ kape yo taxi - collect fees or taxes
 kar - work  
 • duskar - misdeed (sin, vice)  
 • konkar - collaborate (work together)  
+• prokare - process (produce)  
 kar cuti - leave (absence from work)  
 karer - worker  
 kargi - tool  
@@ -2665,6 +2653,7 @@ late - side (flank)
 late di - sideways (laterally)  
 late di - lateral (horizontal)  
 late jen - companion (partner, sidekick)  
+latinogramife - romanize  
 Latin zi - Latin alphabet  
 Latvia - Latvia  
 Lau - Laos  
@@ -2721,7 +2710,9 @@ lide lin - leash (rein)
 lider - leader (director)  
 Lietuva - Lithuania  
 lietuva baxa - Lithuanian  
+lifafe - wrap  
 lifafa - wrapping (envelope, covering)  
+lige - associate  
 liga - league (alliance)  
 liga di sanduku - Ark of the Covenant  
 Lihtenstain - Liechtenstein  
@@ -2900,6 +2891,7 @@ margarita - daisy
 Mariana nesia - Northern Mariana Islands  
 Maris - Mars  
 marisden - Tuesday  
+marke - mark (leave a mark)  
 marke - mark (trace)  
 Marxal nesia - Marshall Islands  
 masa - mass (quantity of matter)  
@@ -3037,6 +3029,7 @@ midia - medium (media, mass media)
 midike - medium (intermediate, mean)  
 mide noce - midnight  
 mien - noodle  
+migre - move (migrate, relocate)  
 migre - migration (moving)  
 • inmigre - immigrate (move in)  
 • inmigrer - immigrant  
@@ -3057,6 +3050,7 @@ minia - minority
 minike - minor (not major)  
 minim - least (minimally)  
 minimal - minimal  
+minimife - minimize  
 minisme - minimalism  
 min ka bas - too little  
 min poli - less (fewer)  
@@ -3067,12 +3061,12 @@ ministre ofis - ministry
 minte - mint  
 mintol - menthol  
 minute - minute  
-mira - stare (watch, gaze)  
-• amira - admire  
-mirabil - wonderful (marvel, mirable)  
+mire - stare (watch, gaze)  
+• amire - admire  
 miraje - mirage  
-mira plate - mirror  
-mirar - watcher  
+mirebil - wonderful (marvel, mirable)  
+mirer - watcher  
+mire plate - mirror  
 Miranda - Miranda  
 mirde - faint (depending on context: soft, dull, mild, weak, slow, subtle)  
 • exmise - emit  
@@ -3088,16 +3082,20 @@ mision - mission (sending)
 misioner - missionary  
 misal - example (instance of)  
 miskin - poor (miserable)  
-Misri - Egypt  
-misri di - Egyptian  
+Misre - Egypt  
+misrian - Egyptian  
+mite - tale (fiction, myth)  
+mitaje - fallacy  
+mitike - fake (fictional, fake, made up, spurious)  
+mite vide - illusion (hallucination)  
 mitre - meter (100 cm)  
 mixe - mix (blend)  
 mixe alkol - cocktail  
 mixe gi - mixer (blender)  
 mode - mode (type, pattern, state)  
 model - model (design)  
+mode lexe - adverb  
 module - module  
-mode loge - adverb  
 mogu - membrane (film)  
 moka - tree  
 moka bano - wood board (plank)  
@@ -3106,6 +3104,7 @@ moka kane - stake (stick, peg, skewer)
 moka mate - wood (timber)  
 moka saner - carpenter  
 moka tana - log (trunk)  
+mole - grind (grind in mill)  
 moler - miller  
 molite - grindstone (millstone)  
 molkan - mill  
@@ -3135,11 +3134,11 @@ moski - mosquito
 Moskva - Moscow  
 moskvium - moscovium  
 mostre - monster  
+motocar - motorcar (automobile)  
 moter - engine (motor)  
+motion - motion (movement)  
+motosikle - motorcycle  
 moto cati - hood (bonnet, cover over the engine)  
-moto gar - motorcar (automobile)  
-moto sikle - motorcycle  
-move - motion (movement)  
 Mozambike - Mozambique  
 mudan - peony  
 muka - face  
@@ -3147,7 +3146,7 @@ muka fun - face powder
 mula - root  
 mum - wax  
 mum cape - wax seal  
-mum foto - candle  
+mum fote - candle  
 mum jen - mummy  
 mum melon - winter melon (wax gourd, ash gourd)  
 Mumbai - Mumbai (Bombay)  
@@ -3156,9 +3155,12 @@ mumu karne - beef
 mun - door (gate, portal)  
 mungus - mongoose  
 mur - wall (structure for delimitation)  
-mur kaguji - wallpaper  
-murce - ant  
+mur kaguze - wallpaper  
 Muritania - Mauritania  
+murmeke - ant  
+murmekofite - myrmecophyte  
+murmeke kume - anthill  
+murmekologia - myrmecology (study of ants)  
 mus - must (have to, should)  
 musta - obligation (compulsion)  
 muskete - musket  
@@ -3171,7 +3173,7 @@ Muxin - Jupiter
 muxinden - Thursday  
 muxmula - medlar  
 muxu - mouse or rat  
-muxu cakra - scroll wheel  
+muxu rote - scroll wheel  
 muzike - music  
 muziker - musician  
 muzike gense - music genre  
@@ -3213,7 +3215,7 @@ nano - nano-
 nano mitre - nanometer  
 naraka - hell  
 naram - soft  
-nardi - backgammon  
+narde - backgammon  
 narke - drug (narcotic, dope, intoxicating substance)  
 narkiste - drug addict  
 narkose - narcosis  
@@ -3244,14 +3246,14 @@ nau hin - brainless
 Nauru - Nauru  
 nautile - nautilus  
 nave - boat (ship)  
+nave dex - starboard (right side of a ship)  
+nave kaper - privateer (buccaneer)  
+nave leu - port (left side of a ship)  
 nave trepe - gangway (ramp)  
 nave xefe - captain  
 nava - Nahuatl (Nahua)  
-nave dex - starboard (right side of a ship)  
 nave ga - sail  
 nave ga ja - sailer  
-nave kaper - privateer (buccaneer)  
-nave leu - port (left side of a ship)  
 ne - right? (isn't it?)  
 Nederlande - Netherlands  
 Nederlande Antil - Netherlands Antilles  
@@ -3460,6 +3462,7 @@ pada mosim - autumn (fall)
 pada mun - trapdoor  
 pagri - turban  
 pai - pie (pastry)  
+pake - pack  
 pake - pack (package)  
 • depake - unpack  
 pakaje - package  
@@ -3648,6 +3651,7 @@ pirate partia - Pirate Party
 pisea - spruce tree  
 pistol - pistol  
 Pitkerne nesia - Pitcairn Islands  
+pixe - piss (urinate)  
 pixe - piss (urine)  
 piza - pizza  
 pizaria - pizzeria  
@@ -3655,7 +3659,9 @@ ple - fold (layer)
 • aplike - apply (put sth on sth else)  
 • konplike - complicated  
 plan - plan  
+plan - intend (plan)  
 planeta - planet  
+plaste - mold (shape)  
 plaste - plastic  
 plastike - plastic (moldable, malleable)  
 plaste paste - playdough  
@@ -3964,6 +3970,7 @@ saf - clean (pure)
 saf tela - wipe (rag, cleaning cloth)  
 safer - cleaner  
 safta - cleanliness (purity)  
+safar - travel  
 safar - travel (voyage, trip)  
 safar ceke - traveller's cheque (traveler's check)  
 safarer - traveler  
@@ -4425,6 +4432,7 @@ tikete - tag (ticket, label, slip, note)
 tim - team  
 Timor - Timor  
 tipe - type (kind, sort, style, genre)  
+• pretipe - pretype (preliminary type)  
 • prototipe - prototype  
 • prototipike - prototypical (being a prototype)  
 tipi - tipi (teepee)  
@@ -4586,6 +4594,7 @@ uze - use (employ, apply)
 uzebil - usable (available)  
 uzer - user  
 uzer nam - username  
+uzife - apply (make use of, put to use for a purpose)  
 uzike - useful (practical)  
 Uzbeki - Uzbekistan  
 
@@ -4659,6 +4668,7 @@ venturer - adventurer
 Venzou - Wenzhou  
 venzou orange - satsuma mandarin  
 ver - true (real, genuine, indeed, very)  
+anver - false (not true)  
 verife - verify (authenticate)  
 veranda - veranda (balcony, terrace, porch)  
 verme - worm  

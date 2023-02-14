@@ -114,13 +114,14 @@ astronave - astronave
 astronaver - astronauta  
 astronomer - astrónomo  
 astronomia - astronomia  
+ate - ato  
+• anative - inativo  
 • dusate - malfeitoria (pecado)  
 • reation - reação  
+• proative - proativo  
 • reate - reagir  
-ate - ato  
 ater - agente  
 ation - ação  
-• anative - inativo  
 ative - ativo  
 Athina - Atenas  
 atlanti bakalau - bacalhau-do-atlântico  
@@ -471,7 +472,6 @@ ezmurude - esmeralda
 
 fa - fazer  
 fa alo rai - discordar  
-fa aplika - usar  
 fa argu - arguir  
 fa aroma - cheirar  
 fa asar - efetuar  
@@ -495,18 +495,15 @@ fa karga - carregar
 fa kino - mover  
 fa kux - deitar  
 fa lai - trazer  
-fa lifafa - embalar  
 fa linke - relier (connecter)  
 fa loka - colocar (pôr)  
 fa maf - perdoar (desculpar)  
 fa memo - lembrar-se (recordar-se)  
 fa min rai - menosprezar (subestimar)  
-fa mol - moer  
 fa nomi - organizar  
 fa onor - honrar  
 fa pati mise - infectar (contagiar)  
 fa pede - peidar  
-fa plasti - moldar (modelar)  
 fa prese - prensar (pressionar, premir)  
 fa pul bon - aperfeiçoar  
 fa re - repetir  
@@ -527,7 +524,6 @@ fa xofer - conduzir
 fa xopi - comprar  
 fa xula - aprender  
 fa xuli - reparar  
-false - falso  
 fan - fã  
 fase - face (faceta)  
 fase tele - profundo  
@@ -1088,6 +1084,7 @@ lexe jama - vocabulário
 liama - lhama  
 libele - libélula  
 lider - líder (chefe)  
+lifafe - embalar  
 liga - liga (aliança)  
 liga di sanduku - Arca da Aliança  
 lima - cinco (5)  
@@ -1244,11 +1241,11 @@ mime - imitar (mimetizar)
 mimer - mímico  
 minte - menta (hortelã)  
 mintol - mentol  
-mira - mirar  
-• amira - admirar  
-mirabil - maravilha  
+mire - mirar  
+• amire - admirar  
 miraje - miragem  
-mira plate - espelho  
+mirebil - maravilha  
+mire plate - espelho  
 mirde - fraco  
 • exmise - emitir  
 • konmisea - комиссия (комитет)  
@@ -1258,7 +1255,7 @@ mirde - fraco
 misaje - mensagem  
 mision - миссия  
 misioner - миссионер  
-Misri - Egipto (Egito)  
+Misre - Egipto (Egito)  
 mitre - metro  
 mode - modo (tipo)  
 mogu - membrana  
@@ -1266,6 +1263,7 @@ moka - árvore
 moka bano - tábua (prancha)  
 moka kane - estaca  
 moka tana - tora  
+mole - moer  
 molite - mó  
 molkan - moenda (moinho)  
 mole - mol  
@@ -1283,8 +1281,10 @@ moto cati - capô
 mudan - peônia  
 mula - raíz  
 mur - muro (muralha)  
-mur kaguji - papel de parede  
+mur kaguze - papel de parede  
 Muritania - Mauritânia  
+murmeke - formiga  
+murmeke kume - formigueiro  
 mus - dever  
 muskul bina - fisiculturismo  
 musli - muesli  
@@ -1309,7 +1309,7 @@ nam hin - sem nome
 nam kitaba - assinar  
 nan per (man) - esposo  
 nan reger - rei  
-nardi - gamão  
+narde - gamão  
 narke - droga (narcótico)  
 nasia - nação  
 • internasial - internacional  
@@ -1325,8 +1325,8 @@ nau - cérebro
 nau di - cerebral  
 nautile - nautiloide  
 nave - barco (navio)  
-nave trepe - portaló  
 nave leu - bombordo  
+nave trepe - portaló  
 nefre - rim  
 nefritis - nefrite  
 • denege - denegar  
@@ -1521,6 +1521,7 @@ piza - piza
 pizaria - pizaria  
 • aplike - aplicar  
 plan - plano  
+plaste - moldar (modelar)  
 plastike - plástico  
 plaste paste - massa de modelar (massinha)  
 plate geiste - terraplanista  
@@ -1878,6 +1879,7 @@ un yen di lense - monóculo
 un zai di - só (solitário)  
 Uran - Urano  
 uranium - urânio  
+uzife - usar  
 uzike - útil  
 
 ## V  
@@ -1915,6 +1917,7 @@ vende - vender
 ventur - aventura  
 venturer - aventureiro  
 ver - verdadeiro  
+anver - falso  
 veranda - sacada (varanda)  
 verme - verme  
 vermute - vermute  

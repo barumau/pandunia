@@ -21,7 +21,7 @@ aboriginaali (Australian alkuperäisasukas) - aslaustralian
 abyssinia - Habaxa  
 abyssinialainen - habaxa  
 adjektiivi (laatusana) - sifa loga  
-adverbi - mode loge  
+adverbi - mode lexe  
 aerobinen - airobiike  
 Afganistan - Afganestan  
 Afrikka - Afrika  
@@ -64,7 +64,7 @@ ajaa sisään - inpele
 ajaa takaisin - repele  
 ajaa ulos - expele  
 ajaa yhteen - konpele  
-ajatella (miettiä) - fa fikir  
+ajatella (miettiä) - fikre  
 ajatus - fikir  
 akaasia - akasia  
 akku (paristo) - batri  
@@ -240,7 +240,7 @@ aurinkokunta - sol sistem
 aurinkovarjo - sol cati  
 Australia - Australia  
 Austronesia - Austronesi  
-auto (automobiili) - moto gar  
+auto (automobiili) - motocar  
 automaattinen (itsetoimiva) - autatike  
 autonominen - autonomike  
 auttaa (avustaa) - fa mede  
@@ -261,7 +261,7 @@ Azerbaidžan - Azeria
 baari (kapakka) - bar  
 baari (kapakka) - birkan  
 baarimikko - bar vala  
-backgammon - nardi  
+backgammon - narde  
 bahailainen - bahaiste  
 bahailaisuus - bahaisme  
 Bahama-saaret - Bahama  
@@ -400,8 +400,8 @@ edistyä (edetä, harppoa eteenpäin) - progrese
 edistää - progresion  
 edustaa - vakil  
 edustaja (agentti) - vakiler  
-Egypti - Misri  
-egyptiläinen - misri di  
+Egypti - Misre  
+egyptiläinen - misrian  
 ehdottaa (ehdotus) - propoze  
 ehkä (voi olla) - bil es  
 ehkä (voi olla) - bil ki  
@@ -461,6 +461,8 @@ enimmäis- - maximal
 eniten - maxim  
 ennakkoluulo - prexake  
 ennakkosyytös - prejude  
+ennakoida - proate  
+ennakoiva (proaktiivinen) - proative  
 ennen (aikaisemmin, aiemmin; aikaisempi, edellinen) - pre  
 ennennäkemätön - anprevide di  
 ennustaa (kertoa edeltä) - predite  
@@ -672,7 +674,8 @@ hapan (kirpeä) - suan
 hapatettu - bio mute di  
 happi - oxe  
 happo - suan mate  
-harhanäky (näköharha) - false vide  
+harhaluulo (illuusio) - mitaje  
+harhanäky (näköharha) - mite vide  
 harhautua - be rute galte  
 harja - brox  
 harjoitella (treenata) - fa lenxi  
@@ -895,10 +898,10 @@ idängorilla - dong gorila
 idänunikko - gui papi  
 ies - yuge  
 iglu - iglu  
-ihailla - amira  
+ihailla - amire  
 ihmeellinen (ällistyttävä, merkillinen) - ajabu di  
 ihmetellä (olla ihmeissään) - be ajabu  
-ihmeteltävä - mirabil  
+ihmeteltävä - mirebil  
 ihmetys (hämmästys) - ajabu  
 ihminen (tomumaja) - human  
 ihmiset (yleisen persoonan pronomini) - jen (jen men)  
@@ -1023,7 +1026,7 @@ Japetus - Yapetus
 jasmiini - moli  
 jasmiinitee - moli hua cai  
 jatkua uudestaan - redura  
-jauhaa - fa mol  
+jauhaa - mole  
 jauhe (jauho, tomu) - fun  
 jazz (jatsi) - jaze  
 Jeesus - Yesa  
@@ -1305,6 +1308,7 @@ keittiö - kuke kamar
 keitto (soppa) - supa  
 keittää (kiehuttaa) - boli  
 keksi (pikkuleipä) - biskute  
+keksitty (sepitteellinen) - mitike  
 kello (ajannäyttäjä) - sah diker  
 kellotorni - sah tore  
 kellua (uida) - be boi  
@@ -1685,7 +1689,7 @@ kylä - deha
 kymmenen (10) - des  
 kyniä - depena  
 kynsi - nahun  
-kynttilä - mum foto  
+kynttilä - mum fote  
 kynä - kalam  
 Kypros - Kipris  
 kypsä (aikuinen) - ceng  
@@ -1734,7 +1738,7 @@ kääntäjä (tulkki) - trabaxer
 kääntää (tulkata; käännös) - trabaxe  
 kääntää jtkn päin - fa verse  
 kääre (kuori) - lifafa  
-kääriä (panna kääröön) - fa lifafa  
+kääriä (panna kääröön) - lifafe  
 kääriä - fa rolo  
 käärme - serpe  
 käärö (kerä) - rul  
@@ -1798,7 +1802,7 @@ lasku (faktuura) - fatura
 laskuoppi (aritmetiikka) - hisabia  
 lastata (ladata) - fa karga  
 latinalaiset aakkoset - Latin zi  
-latinoida - fa Latin kitaba  
+latinoida - latinogramife  
 lattia - kamar dipe  
 Latvia - Latvia  
 lauantai - xaniden  
@@ -1864,7 +1868,7 @@ lihavoitu kirjain - gros zi
 liian vähän - min ka bas  
 liikaa - max ka bas  
 liike - kino  
-liike - move  
+liike - motion  
 liikemies - bizneser  
 liikennemerkki - dau bano  
 liiketoiminta (bisnes) - biznes  
@@ -1881,7 +1885,7 @@ liitto (unioni) - un ta liga
 liittosopimus - kon trati  
 liittymä - dau yunte  
 liittäminen - yuntion  
-liittää - fa liga  
+liittää - lige  
 likainen (mutainen) - darti di  
 likainen - ansaf  
 lilja - susan  
@@ -2134,7 +2138,7 @@ matkašekki - safar ceke
 matkia (imitoida) - mime  
 matkia (jäljitellä) - fa sam sifa  
 matkija (imitaattori) - mimer  
-matkustaa - fa safar  
+matkustaa - safar  
 mato - verme  
 matta - foto mata di  
 matti (šakkimatti) - xah mata  
@@ -2190,7 +2194,7 @@ merivoimat (sotalaivasto) - bahai ordu
 merivuokko - bahai hua  
 merkitys - mana  
 merkitysoppi (semantiikka) - semologia  
-merkitä (jättää jälki) - fa marke  
+merkitä (jättää jälki) - marke  
 merkitä (tarkoittaa) - seme  
 merkki (jälki) - marke  
 merkki (signaali) - sine  
@@ -2232,7 +2236,7 @@ milligramma - mili gram
 millimetri - mili mitre  
 milloin? (koska?) - ke sata  
 minimalismi - minisme  
-minimoida - fa minim  
+minimoida - minimife  
 ministeri - ministrer  
 ministeriö - ministre ofis  
 minttu - minte  
@@ -2274,7 +2278,7 @@ monoteismi (yksijumalisuus) - un deu sim
 montako? (paljonko?) - ke poli di  
 Montenegro - cernagora  
 moottori - moter  
-moottoripyörä - moto sikle  
+moottoripyörä - motosikle  
 moraali - moral  
 moraalinen - moral di  
 morfeemi - formeme  
@@ -2307,7 +2311,7 @@ munuaistulehdus (nefriitti) - nefritis
 muoto (morfi) - forme  
 muotoilla (muovata) - fa forma  
 muovailuvaha - plaste paste  
-muovata (muovailla) - fa plasti  
+muovata (muovailla) - plaste  
 muovi - plaste  
 murheellinen (traaginen) - tragike  
 musiikin lajityyppi - muzike gense  
@@ -2331,14 +2335,17 @@ muukalainen - alian
 muuli - iha uma  
 muumio - mum jen  
 muunsukupuolinen - nobi  
-muurahainen - murce  
+muurahainen - murmeke  
+muurahaiskeko - murmeke kume  
+muurahaissuosija (myrmekofyytti) - murmekofite  
+muurahaistiede (myrmekologia) - murmekologia  
 muusikko - muziker  
 muutama (pari-kolme) - du o tri  
 muuten (toisin) - alo di  
 Muutosten kirja (I Ching) - yeka kanon  
 muuttaa (muuntaa) - mute  
 muuttaa (siirtyä) - be migra  
-muuttaa (siirtää) - fa migra  
+muuttaa (siirtää) - migre  
 muuttaa (tehdä eriksi) - alofa  
 muuttaa - altre  
 muuttaa maahan - inmigre  
@@ -2557,9 +2564,9 @@ ongelma - problem
 ongelmallinen - problem di  
 ongenkoukku - pexe huke  
 onkivapa - huke lin kane  
-onneksi olkoon! - barka  
+onneksi olkoon! - barke  
 onnistua (mennä hyvin, menestyä) - sucese  
-onnitella (siunata) - fa barka  
+onnitella (siunata) - barke  
 oodi (värssy) - ode  
 opas (tiennäyttäjä) - gider  
 opastaa (ohjata) - gide  
@@ -2643,7 +2650,7 @@ paitsi (miinus) - minus
 paja (tekimö) - kan  
 paja (työpaja) - karkan  
 pakana - kafir  
-pakata - fa pake  
+pakata - pake  
 pakata - pake  
 paketti - pakete  
 Pakistan - Pakistan  
@@ -2742,7 +2749,7 @@ pedofilia - pedofilia
 pedofobia (lastenpelko) - pedofobia  
 pehmeä - naram  
 peikko - gui  
-peili - mira plate  
+peili - mire plate  
 peite (kansi) - dake  
 peittää - fa daka  
 Peking (Beijing) - Beijing  
@@ -2761,7 +2768,7 @@ pelottava - fobive
 pelätä - be fobi  
 penkki - benci  
 pensseli (sivellin) - pente broxa  
-perhe - famili  
+perhe - famil  
 perhonen - pelpel  
 periaate - bazisme  
 perikuva (arkkityyppi) - asle tipe  
@@ -2777,7 +2784,7 @@ perus- - bazike
 peruskallio - baze petra  
 perusrakenne (infrastruktuuri) - baze strute  
 perusta (perustus) - baze  
-perustaa - fa baze  
+perustaa - bazize  
 perustaja - bazer  
 perustelu (argumentti) - argu  
 perustuslaki - baze kanun  
@@ -2805,7 +2812,7 @@ piippu - pipe
 piirakka (piiras) - pai  
 piiri (ympyrä) - gola  
 piirros (graafi) - grafe  
-piirtää - fa grafi  
+piirtää - grafe  
 piirustus - desen  
 piiska (ruoska) - bici  
 pikkukaupunki - xiu siti  
@@ -3364,6 +3371,7 @@ Senegal - Senegal
 sensori (aistin) - sense gi  
 sentti - senti  
 senttimetri (cm) - sentimitre  
+sepittää (keksiä; sepite, taru, legenda, myytti) - mite  
 seppä - metal saner  
 Serbia - Serbia  
 setä - pa bra  
@@ -3451,7 +3459,7 @@ sisäänpäinsuuntautunut (introvertti) - in verse jen
 sisäänpäinsuuntautunut (introvertti) - intraverse  
 sisääntulo (pääsy) - inlai  
 sitoa (kääriä siteeseen) - bande  
-sitoa - fa bande  
+sitoa - bande  
 sitruuna - limon  
 sivilisaatio - sivilia  
 sivistynyt - sivil  
@@ -3512,7 +3520,7 @@ sotilaallinen - jang di
 sotilas - ordu jen  
 sotilasjuntta - zalim yunte  
 soturi (taistelija) - janger  
-soveltaa - fa aplika  
+soveltaa - uzife  
 sovittaa (mukauttaa) - fa hapu  
 sranan tongo - surinam baxe  
 Sri Lanka - Lanka  
@@ -3529,7 +3537,7 @@ suihkumoottori (suihkuturbiini) - turbejeter
 sukka - maze  
 suklaa - coklate  
 suklaapatukka - coklate kane  
-sukunimi - famili nam  
+sukunimi - famil nam  
 sukupuoli - sexu  
 sukupuolinen - sexual  
 sukupuolitutkimus - gensologia  
@@ -3580,7 +3588,7 @@ sutenööri - sutener
 suu - boka  
 suukko (pusu) - busu  
 suulaki (kitalaki) - boka cati  
-suunnitella - fa plan  
+suunnitella - plan  
 suunnitelma - plan  
 suurkaupunki - dai siti  
 suuruus (koko) - daita  
@@ -3595,7 +3603,6 @@ sylkeä - tuh
 symmetria - sammetria  
 synkretismi - sinkredisme  
 synnyinseutu - natestan  
-synnyttää - fa nati  
 syntaksi - sintaxe  
 synteesi - sinteze  
 synti (paha teko) - dusate  
@@ -3713,7 +3720,7 @@ tapa (rutiini) - rutin
 tapa - ada  
 tapahtua (tapahtuma) - voku  
 tapaus (seikka) - kasu  
-tapetti - mur kaguji  
+tapetti - mur kaguze  
 tapioka - manioka fufu  
 tappaa (tappo) - leta  
 tappaa - matafa  
@@ -3911,8 +3918,8 @@ tropiikki - garma zona
 tuhat (kilo-) - kilo  
 tuhat triljoonaa (tsetta-) - zeta  
 tuhka - hui  
-tuijottaa (toljottaa) - mira  
-tuijottaja - mirar  
+tuijottaa (toljottaa) - mire  
+tuijottaja - mirer  
 tuikkia - fa sing foto  
 tulehdus - itis  
 tulenpalvonta - hogo puja  
@@ -3951,6 +3958,7 @@ tuomio - judaje
 tuomita - jude  
 tuore (raikas) - taza  
 tuottaa (synnyttää) - gene  
+tuottaa (tuotanto) - prokare  
 tuottava (tuottelias) - canive  
 tupakka - tabake  
 tupla (kaksinkertainen) - duple  
@@ -4310,7 +4318,7 @@ virologia - virologia
 virrata (virta, virtaus) - dare  
 virtahepo - gubu  
 virtsa (pissa, kusi) - pixe  
-virtsata (kusta) - fa pix  
+virtsata (kusta) - pixe  
 virus - virus  
 viski - viski  
 vismutti - bismute  
@@ -4387,7 +4395,7 @@ väristys (kauhu) - horure
 värisyttää (kauhistuttaa) - horife  
 väsymys - fatige  
 väsyä - be fatige  
-väärä (epätosi, vale-) - false  
+väärä (epätosi, vale-) - anver  
 väärä (virheellinen) - galte di  
 Wales - Kamri  
 walesilainen - kamri  

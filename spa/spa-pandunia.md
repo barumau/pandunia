@@ -67,13 +67,13 @@ adhesivo - glu grafi
 adicional (extra) - maxaje  
 adiós - sal cuti  
 adjetivo - sifa loga  
-admirar - amira  
+admirar - amire  
 adoquín - gola seku  
 adoración (veneración, culto) - puja  
 adormidera (amapola real) - sona papi  
 adulterio - zina  
 adulto - ceng jen  
-adverbo - mode loge  
+adverbo - mode lexe  
 advertencia (aviso) - jui note  
 advertir - fa jui  
 aeroplano - fei gi  
@@ -244,7 +244,7 @@ anís - anis
 anón (ates, saramuyo) - ata  
 aparecer - be zai  
 apartarse (desviarse) - be rute galte  
-apellido - famili nam  
+apellido - famil nam  
 aplicar (untar) - aplike  
 aprender (estudiar) - fa xula  
 apropriado (apto, oportuno) - hapu  
@@ -322,7 +322,7 @@ Asia - Asia
 Asiria - Axuria  
 asiático - asian  
 asma - asma  
-asociar - fa liga  
+asociar - lige  
 asombrar - fa ajabu  
 aspecto - rupa  
 aspiradora - haki cupu gi  
@@ -337,7 +337,7 @@ asunto (caso) - sual tema
 asustador - fobive  
 asustar (atemorizar) - fa fobi  
 atalaya (vigía, garita) - garde tor  
-atar (amarrar) - fa bande  
+atar (amarrar) - bande  
 Atenas - Athina  
 ateo - andeiste  
 aterrar - terife  
@@ -354,7 +354,7 @@ autenticar - verife
 autocratia (monarquía) - autokratia  
 automotor (automotriz) - automove  
 automático - autatike  
-automóvil (coche) - moto gar  
+automóvil (coche) - motocar  
 autonomía - autonomia  
 autopsia - nekrotomia  
 autor - auter  
@@ -389,7 +389,7 @@ babor - nave leu
 bacalao - bakalau  
 bacalao común - atlanti bakalau  
 bachiller - baceler  
-backgammon - nardi  
+backgammon - narde  
 baguette - kane pang  
 bah - bah  
 Bahamas - Bahama  
@@ -1107,7 +1107,6 @@ dado - zar kube
 damas - dama geme  
 danés - Danske  
 dar - don  
-dar a luz (enngendrar, parir, procrear) - fa nati  
 darmstatio - darmestadium  
 darse cuenta (notar) - fa budi  
 darwinismo - darvinisme  
@@ -1211,7 +1210,7 @@ devolver (vomitar) - retro gula
 diagonal - tragona di  
 diamante - adamas  
 diario - den logu  
-dibujar (trazar) - fa grafi  
+dibujar (trazar) - grafe  
 dibujo (diseño) - desen  
 dicción - dition  
 dicotomía - dutomia  
@@ -1327,8 +1326,8 @@ efecto - exfete
 efecto secundario - parafete  
 efectuar - fa asar  
 Egipcia Antigua - Keme  
-egipcio - misri di  
-Egipto - Misri  
+egipcio - misrian  
+Egipto - Misre  
 einsteinium - einsteinium  
 eje - axe  
 ejemplo - misal  
@@ -1353,7 +1352,7 @@ eléctrico - eletrike
 email (correo electrónico) - eletroposte (e-poste)  
 embajada - dai angilkan  
 embajador - dai angiler  
-embalar (llevar) - fa pake  
+embalar (llevar) - pake  
 embarazado (preñado) - hamil  
 embarrado (enlodado) - poto di  
 embudo - dare tube  
@@ -1366,7 +1365,7 @@ emotivo - gamo di
 empanada (pelmeni) - mantu  
 emparejar (quedar) - kon bon  
 emperador - imperer  
-emplear (aplicar) - fa aplika  
+emplear (aplicar) - uzife  
 empresario - bizneser  
 empujar (presionar) - pulse  
 en (a) - a  
@@ -1389,6 +1388,7 @@ enfermedad - pate
 enfermo - patike  
 engañar - fa truke  
 engendrador - na ja  
+enngendrar (procrear) - progene  
 enojado (furioso) - furi  
 ensalada - salade  
 ensayo (ejercitio) - lenxi  
@@ -1404,7 +1404,7 @@ entre - a medi
 entristecer (poner triste) - fa duka  
 enviar (transmitar) - mise  
 envoltura - lifafa  
-envolver - fa lifafa  
+envolver - lifafe  
 enzima - enzim  
 equal (similar) - sam  
 equilibrado (par) - par  
@@ -1467,7 +1467,7 @@ especie - jung
 espectador - vider  
 espectador - speter  
 espejismo - miraje  
-espejo (retrovisor) - mira plate  
+espejo (retrovisor) - mire plate  
 Esperanto - esperanto  
 esperar (desear) - axa  
 esperar - dele to  
@@ -1566,9 +1566,9 @@ factor - feter
 falda - jupe  
 falla (mal funcionamiento) - dusfunte  
 fallo (juicio, criterio) - judaje  
-falso - false  
+falso - anver  
 faltar (sin) - hin  
-familia - famili  
+familia - famil  
 fan (-filo) - filiste  
 fan - fan  
 fantasma - fantom  
@@ -1587,7 +1587,7 @@ favorito (preferido) - max fili di
 faz (faceta) - fase  
 febrero - mes du  
 fecha - nen mes den  
-felicitar - fa barka  
+felicitar - barke  
 feliz (gustarse, disfrutar) - suka  
 feminismo - femisme  
 feministe - femiste  
@@ -1663,7 +1663,7 @@ funcionar - funte
 funcionario - guaner  
 función - funtion  
 fundador - bazer  
-fundar (basar) - fa baze  
+fundar (basar) - bazize  
 fusionar (fundir) - be fuzi liga  
 fusión - fuzi liga  
 fusión nuclear - kerne unta  
@@ -1925,7 +1925,8 @@ hongo (moho) - fungu
 honrar - fa onor  
 hora - sah  
 horizonte - sama kinar  
-hormigo - murce  
+hormigo - murmeke  
+hormiguero - murmeke kume  
 hormona - hormon  
 hornacina - nix  
 hornear (cocer) - bake  
@@ -1981,7 +1982,7 @@ idiota (imbécil) - idiote
 iglesia - eglisa  
 iglú - iglu  
 iluminar - fa ming  
-ilusión - false vide  
+ilusión - mite vide  
 ilustrador - grafer  
 imagen (gráfico, dibujo) - grafe  
 imaginación (fantasía) - fantaze  
@@ -2430,12 +2431,12 @@ mar - bahai
 maratí - marati  
 maratón - maraton  
 maravilla - ajabu  
-maravilla - mirabil  
+maravilla - mirebil  
 maravilloso (asombroso) - ajabu di  
 maravilloso (magnífico) - super  
 marca (huella, mancha) - marke  
 marcador - punte bano  
-marcar - fa marke  
+marcar - marke  
 marcha - marce  
 marco - frem  
 margarina - margarin  
@@ -2480,7 +2481,7 @@ maíz - mais
 mañana (antes mediodía) - suba dia  
 mañana - pos den  
 mañana - suba  
-mear - fa pix  
+mear - pixe  
 mecanizar - makinize  
 mecedora - roke kursi  
 mecánico - makinike  
@@ -2560,7 +2561,7 @@ miel - medu
 miembro (componente) - mer  
 mierda - xite  
 migración - migre  
-migrar (emigrar, tralsadar) - fa migra  
+migrar (emigrar, tralsadar) - migre  
 migrarse (mudarse, trasladarse) - be migra  
 mijo - dana.cau  
 mijo fonio - fonyo  
@@ -2578,7 +2579,7 @@ ministro - ministrer
 minoría - minia  
 minuto - minute  
 minúscula - xiu zi  
-mirar - mira  
+mirar - mire  
 mismo (yo) - aute  
 missionário - misioner  
 missão - mision  
@@ -2596,9 +2597,9 @@ modo nocturno - noce mode
 mojado - xipi  
 mojar - fa xipi  
 mol - mole  
-moldear (modelar) - fa plasti  
+moldear (modelar) - plaste  
 Moldova - Moldova  
-moler (pulverizar) - fa mol  
+moler (pulverizar) - mole  
 molestar (perturber) - fa turbe  
 molestar (perturber) - turbe  
 molestar en - be turbe  
@@ -2639,11 +2640,11 @@ moscovio - moskvium
 mosquete - muskete  
 mosquetero - musketer  
 mosquito (mosco) - moski  
-motocicleta - moto sikle  
+motocicleta - motosikle  
 motor - moter  
 moverse - be kino  
 movimiento - kino  
-movimiento - move  
+movimiento - motion  
 Mozambique - Mozambike  
 muchedumbre - jen jami  
 mucho (muchos) - poli  
@@ -2951,7 +2952,7 @@ papaya - papaya
 papel - kaguji  
 papel - rol  
 papel higiénico - tuale kaguji  
-papel tapiz - mur kaguji  
+papel tapiz - mur kaguze  
 Papúa Nueva Guinea - Papua neu Ginia  
 paquete - pake  
 par (pareja) - per  
@@ -3045,7 +3046,7 @@ película (filme) - kino grafi
 pena (tristeza) - duku  
 penal (penetenciario) - fatu di  
 pene - penis  
-pensar - fa fikir  
+pensar - fikre  
 pentaedro - lima fase  
 pentágono - lima gona  
 península - yaki nese  
@@ -3139,7 +3140,7 @@ piña - ananas
 placa tectónica - geo kaska plate  
 plan - plan  
 plana (llano, liso) - plate di  
-planear (tener pensado) - fa plan  
+planear (tener pensado) - plan  
 planeta - planeta  
 plano (placa) - plate  
 planta (vegetal, vegetación) - fite  
@@ -3257,6 +3258,7 @@ privado - prive
 privar (desproveer) - deprive  
 privatizar - privatize  
 proactinio - protacinium  
+proactivo - proative  
 probar (demonstrar, comprobar) - fa dalil  
 problema - problem  
 problemático - problem di  
@@ -3523,7 +3525,7 @@ rojo - rubi
 rollo - rul  
 Roma - Roma  
 romance - romanse  
-romanizar - fa Latin kitaba  
+romanizar - latinogramife  
 romper (hacer pedazos) - fa parce  
 romántico - romanse di  
 ron - rom  
@@ -3536,7 +3538,7 @@ Ruanda - Ruanda
 rubidio - rubium  
 rubí - rubi bau seku  
 rueda (volante) - rote  
-rueda del mouse - muxu cakra  
+rueda del mouse - muxu rote  
 rugbi - ragubi  
 ruido - kelele  
 ruiseñor - bulbul  
@@ -4085,7 +4087,7 @@ vatio - vate
 veganismo - pul fito yamisme  
 vegano - pul fito yamiste  
 vegetariano - fito yamiste  
-vela (candela, cirio) - mum foto  
+vela (candela, cirio) - mum fote  
 velero - nave ga ja  
 velo - hijabu  
 velo - vel  
@@ -4116,7 +4118,7 @@ vestido (llevando ropa) - fuku di
 vestigio (sobrante, residuo) - laxe xe  
 vestir - fa fuku  
 vez - mar  
-viajar - fa safar  
+viajar - safar  
 viaje - safar  
 viajero - safarer  
 vice- (alternativa, sustituto) - vise  
@@ -4224,7 +4226,7 @@ zoroastrismo - zarduxtisme
 Zoroastro - Zarduxte  
 zorro - huli  
 zulú - Zulu  
-¡Felicitaciones! - barka  
+¡Felicitaciones! - barke  
 África - Afrika  
 Ártico - Artika  
 ábaco - jenju table  

@@ -42,7 +42,6 @@ ais - glacio
 ais di - glacia  
 ais krem - glaciaĵo  
 ais xarbe - ŝorbeto  
-Haiti - Haitio  
 akasia - akacio  
 akrabe - skorpio  
 ale - alia  
@@ -108,8 +107,8 @@ asparge - asparago
 astre - astro  
 astronaver - astronaŭto  
 astronomer - astronomo  
-• reation - reakcio (reago  
 ate - ago  
+• reation - reakcio (reago  
 ater - aganto  
 ation - agado  
 ative - agema  
@@ -168,6 +167,7 @@ baluta - kverko
 bambu - bambuo  
 ban - pano  
 banana - banano  
+bande - ligi  
 bandaje - bandaĝo (vindo)  
 bandera - flago  
 Bangla gogia - Bangladeŝo  
@@ -184,6 +184,7 @@ bara mur - barilo
 barbar - barbaro  
 barde - barbo  
 bari metal - pezmetalo  
+barke - gratuli  
 Barti - Baratio  
 barti - Barata  
 baru - urso  
@@ -557,9 +558,7 @@ ezmurude - smeraldo
 
 fa - fari  
 fa alo rai - malkonsenti  
-fa bande - ligi  
 fa banya - bana  
-fa barka - gratuli  
 fa bina - konstrui  
 fa budi - kompreni  
 fa cape - presi  
@@ -575,7 +574,6 @@ fa eskulte - skulti
 fa fantazi - fantaci  
 fa fei - flugi  
 fa fen - dividi  
-fa fikir - pensi  
 fa fin - fini  
 fa fobi - timigi  
 fa fokus - koncentri  
@@ -586,7 +584,6 @@ fa fuku - vesti (surporti)
 fa gami - edzigi  
 fa geme - ludi  
 fa gola - ĉirkaŭi  
-fa grafi - desegni  
 fa guste - gustumi  
 fa halte - haltigi  
 fa hapu - taŭgigi  
@@ -604,25 +601,21 @@ fa klon - kloni
 fa kopi - kopii  
 fa lai - alporti (venigi)  
 fa lenxi - ekzerci  
-fa liga - aligi  
 fa loka - lokigi  
 fa long - longigi  
 fa maf - pardoni  
 fa marce - promeni (marŝi)  
 fa memo - memori  
-fa nati - naskigi  
 fa nia - celi  
 fa parti - partopreni  
 fa pente - pentri  
 fa pin - piki  
-fa pix - pisi (urini)  
 fa pos - sekvi  
 fa prese - premi  
 fa pul - plenigi  
 fa rai - opinii  
 fa re - ripeti (refari)  
 fa saf - purigi  
-fa safar - vojaĝi  
 fa sahi - pravigi  
 fa saide - ĉasi  
 fa salam - saluti  
@@ -645,8 +638,8 @@ fa xux - silentigi
 fa yen - okulumi  
 faide - utileco  
 faidike - utila  
-famili - familio  
-famili nam - familinomo  
+famil - familio  
+famil nam - familinomo  
 fantaze - fantazio  
 fantazike - fantazia  
 fantom - fantomo  
@@ -674,6 +667,7 @@ feter - aganto
 feter - faristo  
 feteria - fabriko  
 fikir - penso  
+fikre - pensi  
 Filipin - Filipinoj  
 filme - filmo  
 filsofe - filozofio  
@@ -805,6 +799,7 @@ goro - porko
 goro karne - porkaĵo  
 goton - kotono  
 gradu mute - disvolvi  
+grafe - desegni  
 grafe - bildo (desegnaĵo)  
 grafike - grafika (bilda)  
 grafe kata - bildrakonto  
@@ -840,6 +835,7 @@ hafenium - hafnio
 haha - ridi  
 haide - ni faru...  
 haima - tendo  
+Haiti - Haitio  
 haki - polvo  
 haku - rajto  
 hal - stato  
@@ -1262,6 +1258,7 @@ lexograme - logogrammi (logo)
 lexe jama - vortaro  
 lexe liste - vortaro  
 libele - libelo  
+lige - aligi  
 liga di sanduku - Kesto de Interligo  
 lima - kvin (5)  
 limon - citrono  
@@ -1395,14 +1392,15 @@ ministrer - ministro
 minte - mento  
 mintol - mentolo  
 minute - minuto  
-mira plate - spegulo  
+mire plate - spegulo  
 • konmisea - komiteo (komisiono)  
 misaje - mesaĝo  
 misioner - misiisto  
 misal - ekzemplo  
 miskin - mizera  
-Misri - Egipto  
-misri di - egipta  
+Misre - Egipto  
+misrian - egipta  
+mite - mito  
 mitre - metro  
 mixe - miksi  
 mixe gi - miksilo  
@@ -1424,17 +1422,18 @@ moski - kulo (moskito)
 moskvium - moskovio  
 mostre - monstro  
 moter - motoro  
-move - movo  
+motion - movo  
 muka - vizaĝo  
 mula - radiko  
-mum foto - kandelo  
+mum fote - kandelo  
 mum jen - mumio  
 mumu - bovo  
 mumu karne - bovaĵo  
 mun - pordo  
 mur - vando  
-mur kaguji - tapeto  
-murce - formiko  
+mur kaguze - tapeto  
+murmeke - formiko  
+murmeke kume - formikejo  
 mus - devi  
 musta - devo  
 muskete - muskedo  
@@ -1475,10 +1474,10 @@ nau - cerbo
 nau di - cerba  
 nau hin - sencerba  
 nave - boato (ŝipo)  
-nava - naūatla  
 nave dex - tribordo  
-nave ga - boatumi  
 nave leu - babordo  
+nava - naūatla  
+nave ga - boatumi  
 nefre - reno  
 nekre - kadavro  
 nekrotomia - obdukcio (nekropsio)  
@@ -1661,6 +1660,7 @@ pipe - pipo
 pipa - liuto  
 pipre - pipro  
 piram - piramido  
+pixe - pisi (urini)  
 pixe - piso (urino)  
 piza - pico  
 pizaria - picejo  
@@ -1784,6 +1784,7 @@ saf - pura
 • ansaf - malpura  
 safer - purigisto  
 safta - pureco  
+safar - vojaĝi  
 safar - vojaĝo  
 safarer - vojaĝanto  
 safran - safrano  
@@ -2069,6 +2070,7 @@ vaxi - lavi
 ventur - aventuro  
 venturer - aventuristo  
 ver - vera  
+anver - malvera  
 veranda - verando (balkono)  
 vermute - vermuto  
 version - versio  

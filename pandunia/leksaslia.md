@@ -149,7 +149,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**barbar**|deu:tur:barbar, fra:barbare, spa:barbaro, eng:barbarian, rus:варвар (varvar), fas: بربر‎ (barbar), hin:बर्बर (barbar), ara: بَرْبَرِيّ‎ (barbariyy), hau:barbariya|
 |**barde**|fra:barbe, spa:por:barba, deu:Bart, eng:beard, rus:борода (boroda), pol:broda|
 |**bari**|hin:भारी (bhārī), ben:ভারী (bharī), may:berat, tel:బరువు (baruvu), fas: بار‎ (bâr), ell: βαρύς (barýs) + kor:바리 (bari)|
-|**barka**|hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), swa:baraka, hau:albarka, yor:alubarika|
+|**barke**|hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), swa:baraka, hau:albarka, yor:alubarika|
 |**barti**|hin:भारतीय (bhārtīy), urd:(bhārtīy), mar:(bhārtīya), tel:(bhāratīya)|
 |**baru**|deu:Bär, eng:bear + hin:भालू (bhālū) ben:ভালুক (bhaluk) + may:beruang|
 |**barude**|ara: بَارُود (bārūd), tur:barut, fas: بارود‎ (bârud), hin:बारूद (bārūd), ben:বারুদ (barud), swa:baruti, ful:barudu|
@@ -290,7 +290,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**dalil**|ara:(dalil), ben:দলিল (dôlil), swa:dalili, tur:delil|
 |**dama geme**|fra:jeu de dames, spa:por:damas, ara: ضَامَة‎ (ḍāma), vie:cờ đam, may:dam, tur:dama, deu:Damespiel|
 |**dan**| jpn:段 (dan), eng:fra:may:dan + zho:等 (děng),  yue:等 (dang2), kor:등 (dang), vie:đẳng|
-|**dana**|fas: دانه‎ (dâne), hin:दाना (dānā), tur:tane + jpn:種 (tane); 銃弾 (jūdan), zho:弹 (dàn), vie:đạn, kor:탄알 (tanal)|
+|**dana**|fas: دانه‎ (dâne), hin:दाना (dānā), tur:tane + jpn:種 (tane); 銃弾 (jūdan), zho:弹 (dàn), yue:彈 (daan6), vie:đạn, kor:탄알 (tanal)|
 |**dang**|eng:dong + fas: زنگ‎ (zang), tur:çan + zho:钟 (zhōng), yue:鐘 (zung1), kor:종 (jong), vie:chuông, khm:ចួង (cuəng) + rus:звон (zvon)|
 |**danse**|eng:fra:dance, spa:danza, por:dança, deu:Tanz, rus:танец (taněc), tur:dans, jpn:ダンス (dansu), kor:댄스 (daenseu), swa:dansi|
 |**dante**|spa:diente, por:dente, fra:dent, eng:dental, hin:दाँत (dā̃t), ben:দাঁত (dãtô), pan:ਦੰਦ (dand), may:danta|
@@ -384,7 +384,6 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**ezmurude**|ell:σμαράγδι (smarágdi), eng:emerald, fra:émeraude, spa:por:esmeralda, jpn:エメラルド (emerarudo), kor:에메랄드 (emeraldeu), fas: زمرد (zomorrod), ben:জমরুদ (zômrud), ara: زُمُرُّد‎ (zumurrud), swa:zumaridi, hau:zumurrudu, may:zamrud, rus:изумруд (izumrud), zho:祖母绿 (zǔmǔlǜ)|
 |**fa**|fra:faire, por:fazer, ita:fare + ara: فَعَلَ‎ (faʿala) + swa:fanya + yue:化 (faa3), hak:化 (fa), zho:化 (huà), vie:hoá|
 |**fa argu**|eng:argue, fra:arguer, spa:argüir, por:arguir, rus:аргумент (argument)|
-|**fa barka**|hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), swa:baraka, yor:alubarika|
 |**fa daka**|hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck|
 |**fa estude**|eng:study, fra:étudier, spa:estudiar, por:estudar, rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)|
 |**fa fei**|zho:飞 (fēi), yue:飛 (fei1), wuu:飛 (fi1), jpn:飛 (hi), kor:비 (bi), vie:bay|
@@ -394,8 +393,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**fa turbe**|eng:disturb, fra:perturber, spa:por:perturbar|
 |**fa ulul**|deu:Heulen, ita:ululato, tur:uluma, tgl:aulong,|
 |**faide**|ara: فَائِدَة‎ (fāʾida), tur:fayda, swa:faida, hau:fa'ida, fas: فایده‎ (fâyede), hin:फ़ायदा (fāyadā), may:faedah|
-|**false**|eng:false, spa:por:falso, fra:faux, deu:falsch|
-|**famili**|eng:family, spa:familia, por:família, fra:famille, swa:familia|
+|**famil**|deu:Familie, eng:family, spa:familia, por:família, fra:famille, fas: فامیل‎ (fâmil), swa:familia, may:famili|
 |**fan**|eng:fra:spa:vie:fan, por:fã, rus:фанат (fanat), zho:粉丝 (fensi), jpn:ファン (fan), kor:팬 (pän)|
 |**fantaze**|eng:fra:fantasy, spa:fantasía, por:swa:fantasia, rus:фантазия (fantazija), tur:fantezi, may:fantasi, jpn:ファンタジー (fantajī)|
 |**fantom**|eng:phantom, spa:por:fantasma, fra:fantôme, rus:фантом (fantom)|
@@ -1033,12 +1031,13 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**ministrer**|eng:minister, spa:por:ministro, fra:ministre, rus:мини́стр (minístr) + hin:मंत्री (mantrī), ben:মন্ত্রী (môntri), may:menteri|
 |**minte**|eng:mint, spa:por:menta, fra:menthe, rus:мята (m’ata), jpn:ミント (minto)|
 |**minute**|eng:minute, spa:por:minuto, rus:мину́та (minúta), hin:मिनट (minaṭ), ben:মিনিট (miniṭ), may:minit|
-|**mira**|fra:mirer, spa:por:mirar + jpn:見る (miru) + ara:مِرْآة‎ (mirʾāh)|
+|**mire**|fra:mirer, spa:por:mirar + jpn:見る (miru) + ara:مِرْآة‎ (mirʾāh)|
 |**mirde**|eng:mild, pol:mierny, hin:मृदु (mridu), wuu:微 (mi3), yue:微 (mei4)|
 |**mise**|eng:emit, fra:émettre, spa:por:remitir, may:emisi, deu:Mission, rus:миссия (missiya), tur:misyon + hin:कमीशन (kamīśan), ben:কমিশন (kômiśôn)|
 |**misal**|hin:मिसाल (misāl), ara:(mithāl), fas:(mesâl), may:misal, swa:mathalani, tur:mesela, hau:misali|
 |**miskin**|ara:مِسْكِين (miskīn), fas:مسکین‎ (meskin), tur:may:miskin, swa:maskini, hin:, ben:মিসকিন (miśkin), fra:miskine, spa:mezquino, por:mesquinho|
-|**Misri**|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr), hau:Masar|
+|**Misre**|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr), hau:Masar|
+|**mite**|eng:myth, deu:Mythos, fra:mythe, spa:por:mito, rus:миф (mif), hin:मिथक (mithak), tur:mit|
 |**mitre**|eng:tur:metre, deu:may:meter, fra:mètre, spa:por:metro, rus:метр (metr), ara: متر‎ (mitr), zho:米 (mǐ), jpn:メートル (mētoru), kor:미터 (miteo), vie:mét, hin:मीटर (mīṭar), ben:মিটার (miṭar), swa:hau:mita|
 |**mixe**|deu:mischen, rus:мешать (měšat'), pol:mieszać, eng:mix, ita:miscelare, + hin:मिश्रण (miśrān)|
 |**mode**|fra:eng:mode, spa:por:modo, rus:мода, tur:mod, kor:모드 (modeu) + zho:模 (mó), yue:模 (mou4), jpn:模 (mo); モード (mōdo)|
@@ -1066,7 +1065,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**mun**|zho:门 (mén), yue:門 (mun4), jpn:門 (mon), kor:문 (mun), vie:môn|
 |**mungus**|tel:ముంగిస (muṅgisa), mar:मुंगूस (muṅgūs), eng:mongoose, spa:mangosta, por:mangusto, fra:mangouste, rus:мангу́ст (mangúst), jpn:マングース (mangūsu)|
 |**mur**|fra:mur, spa:por:muro + deu:Mauer, pol:mur|
-|**murce**|fas:مورچه (murče), rus:мурашка (murashka), ell:μυρμήγκι (myrmigki), hye:մրջիւն (mrǰiwn)|
+|**murmeke**|fas: مور‎ (mur), rus:муравей (muravei), eng:myrmeco-, deu:myrmeko-, fra:myrméco-|
 |**mus**|eng:must, deu:müssen, ukr:мусити (musiti), pol:musieć, cze:musit|
 |**muskete**|eng:musket, spa:por:mosquete, fra:mousquet, rus:мушке́т (muškét), jpn:マスケット (masuketto)|
 |**muskul**|eng:fra:muscle, spa:por:músculo, deu:Muskel, rus:му́скул (múskul), swa:msuli|
@@ -1089,7 +1088,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**nan**|zho:男 (nán), jpn:男 (nan), kor:남 (nam), vie:nam + fas: نر‎ (nar), hin:नर (nar), ben:নর (nôr), tel:నరుడు (naruḍu) + eng:man, deu:Mann + tam:ஆண் (āṇ)|
 |**naraka**|hin:नरक (narak), ben:নরক (nôrôk), pan:ਨਰਕ (nark), mar:नर्क (nark), tel:నరకము (narakamu), tam:நரகம் (narakam), may:neraka, tha:นรก (ná-rók), jpn:奈落 (naraku)|
 |**naram**|fas: نرم‎ (narm), hin:नरम (naram), ben:নরম (nôrôm) + ara: نَاعِم‎ (nāʿim) + tha:นุ่ม (num)|
-|**nardi**|fas:urd: نرد‎ (nard), rus:нарды (nardy)|
+|**narde**|fas: نرد‎ (nard), hin:नर्द (nard), tur:nert, ara: نَرْد‎ (nard), rus:нарды (nardy)|
 |**narke**|eng:narcotic, fra:narcotique, spa:por:narcótico, rus:наркотик (narkotik), may:narkotik|
 |**nas**|ara:(nās) + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
 |**nate**|fra:naître, spa:por:nato, eng:-nate + deu:Nazion, pol:nacja, rus:нация (natsiya) + ara:(nās)|

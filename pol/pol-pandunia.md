@@ -263,7 +263,6 @@
  - fa paka  
  - fa par  
  - fa pati mise  
- - fa plasti  
  - fa prese  
  - fa retro  
  - fa saf va tela  
@@ -630,19 +629,25 @@
  - mimen su  
  - mimer  
  - min poli  
- - mira  
- - mirabil  
  - Miranda  
- - mirar  
+ - mire  
+ - mirebil  
+ - mirer  
  - mision  
+ - mitaje  
+ - mite  
+ - mitike  
  - module  
  - moli hua cai  
  - mone  
  - monike  
  - monograme  
  - moto cati  
+ - murmeke kume  
+ - murmekofite  
+ - murmekologia  
  - muxmula  
- - muxu cakra  
+ - muxu rote  
  - muzike gense  
  - na xiti  
  - nadir  
@@ -654,7 +659,7 @@
  - najis di  
  - nam dokumen  
  - nam tikete  
- - nardi  
+ - narde  
  - narkiste  
  - narkose  
  - nateloke  
@@ -739,6 +744,7 @@
  - pinse  
  - pinse bano  
  - pipa frute  
+ - plaste  
  - plaste paste  
  - plastike  
  - ple  
@@ -1006,7 +1012,7 @@
  - acesebil  
  - acesebilta  
  - agreser  
- - amira  
+ - amire  
  - anairobiike  
  - analgesia  
  - analgive  
@@ -1148,12 +1154,16 @@
  - prepozaje  
  - pretipe  
  - prexake  
+ - proate  
+ - proative  
  - procese  
  - proceser  
  - produte  
  - produter  
+ - progene  
  - programaje  
  - progresion  
+ - prokare  
  - promise  
  - propele  
  - propeler  
@@ -1808,8 +1818,8 @@ dżul (J) - jul
 E - E  
 echo - reflexe sonde  
 efekt halo - foto gola  
-egipski - misri di  
-Egipt - Misri  
+egipski - misrian  
+Egipt - Misre  
 egzonim - vai nam  
 egzoplaneta - vai planeta  
 einstein - einsteinium  
@@ -1867,7 +1877,7 @@ fascynacja - fasinta
 fasola lub groch, roślina strączkowa - dou  
 faszysta - faxiste  
 faszyzm - faxisme  
-fałszywy, nieprawdziwy - false  
+fałszywy, nieprawdziwy - anver  
 feminista (feministka) - femiste  
 feminizm - femisme  
 ferm - fermium  
@@ -1978,8 +1988,8 @@ gramatyczny - baxe kanun di
 gramatyka - baxe kanun  
 granica, skraj, brzeg, krawędź - kinar  
 granit - granite  
-gratulacje! - barka  
-gratulować; błogosławić - fa barka  
+gratulacje! - barke  
+gratulować; błogosławić - barke  
 grać muzykę - fa muzika  
 grać w grę - fa geme  
 grać, odgrywać rolę - dramate  
@@ -2121,7 +2131,7 @@ igła, szpilka - pin
 ile? - ke poli di  
 ilość(mnóstwo) - polita  
 ilustrator, grafik - grafer  
-iluzja (halucynacja) - false vide  
+iluzja (halucynacja) - mite vide  
 imbir - ginge  
 imbryk (czajnik) - cai pote  
 imbryk do kawy - kafe pote  
@@ -2623,7 +2633,7 @@ ludzkość, rodzaj ludzki - humania
 lukrecja - alkasus  
 Luksemburg - Luxemburge  
 lulać - lala  
-lustro - mira plate  
+lustro - mire plate  
 luteranizm - Luterisme  
 luterański - Luteriste  
 lutet - lutesium  
@@ -2837,7 +2847,7 @@ Morze Śródziemne - Geo Medi Bahai
 moskovium - moskvium  
 Moskwa - Moskva  
 most - kio  
-motocykl (motor) - moto sikle  
+motocykl (motor) - motosikle  
 motyka - copu  
 motyl - pelpel  
 Mozambik - Mozambike  
@@ -2846,7 +2856,7 @@ może - bahai
 może - bil es  
 może - bil ki  
 mruganie (błysk) - fa sing foto  
-mrówka - murce  
+mrówka - murmeke  
 mucha - dom zeze  
 mumia - mum jen  
 mur, ściana - mur  
@@ -2864,7 +2874,7 @@ mydło - sabun
 mylić (gmatwać, zmieszać, konsternować) - ruhu mixe  
 mysz - muxu  
 myśl, pomysł - fikir  
-myśleć, dumać, rozmyślać, zastanawiać się, rozważać - fa fikir  
+myśleć, dumać, rozmyślać, zastanawiać się, rozważać - fikre  
 móc, umieć, możliwy, prawdopodobnie - bil  
 mój - mi su  
 mówić, rozmawiać - dite  
@@ -2936,7 +2946,7 @@ nawóz - darti boner
 nazista - nasial sosialiste  
 nazwa użytkownika - uzer nam  
 nazwać, nazywać, wezwać, wzywać - fa nam  
-nazwisko, imię rodziny - famili nam  
+nazwisko, imię rodziny - famil nam  
 nefrektomia - nefrextomia  
 negatywny (przeciwny, nie) - an-  
 negocjować - fa biznes lona  
@@ -3120,7 +3130,7 @@ opinia, pogląd - rai
 opis, przedstawienie; wykres - grafe  
 opisać (zakwalifikować) - fa sifa  
 opisowy - sifa di  
-opisywać, ilustorawć; przedstawiać - fa grafi  
+opisywać, ilustorawć; przedstawiać - grafe  
 opona mózgowa - meninge  
 opos - aposum  
 opowiadanie, opowieść, legenda, saga - kata  
@@ -3317,7 +3327,7 @@ placek, ciasto - pai
 placy - ruke  
 plan - plan  
 planeta - planeta  
-planować - fa plan  
+planować - plan  
 plaster - medu vespa nide  
 plastik - plaste  
 platforma - plate forma  
@@ -3350,7 +3360,7 @@ podobny (analogiczny) - sam sifa di
 podpis (autograf) - nam kitaba  
 podróż - safar  
 podróżnik - safarer  
-podróżować - fa safar  
+podróżować - safar  
 podstawa, baza, fundament - baze  
 poduszka - kuxen  
 podwajać (podwoić, pomnożyć przez dwa) - duple  
@@ -3596,7 +3606,7 @@ przyrostek dla wykonawcy - ja
 przystanek autobusowy - bus halte  
 przystojny, atrakcyjny, ładny - bon vide di  
 przyszłość - pos zaman  
-przysłówek - mode loge  
+przysłówek - mode lexe  
 prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający) - tire dara  
 prędkościomierz - suga metri gi  
 prędkość (szybkość) - sugata  
@@ -3714,7 +3724,7 @@ rodak, ziomek, krajan - sam gogia jen
 rodzaj gramatyczny - lexe gense  
 rodzeństwo, brat lub siostra - sau  
 rodzic (matka lub ojciec) - cin  
-rodzina - famili  
+rodzina - famil  
 rodzynka - gan putau  
 roentgen - rentegenium  
 rok - nen  
@@ -3752,7 +3762,7 @@ rtęć - hidrargente
 rubid - rubium  
 rubin - rubi bau seku  
 ruch - kino  
-ruch - move  
+ruch - motion  
 ruchowy, kinetyczny - kino di  
 rujnować, dewastwować, burzyć - fa harabu  
 ruletka - rulete  
@@ -3761,7 +3771,7 @@ rum - rom
 rumian rzymski - roma kamil  
 rumianek pospolity - kamil  
 Rumunia - Romania  
-ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się) - fa migra  
+ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się) - migre  
 ruszać, przenościć, zmieniać miejsce, inspirować - fa kino  
 rusztowanie (trap) - fute bano  
 rut - rusium  
@@ -3836,7 +3846,7 @@ sam, siebie - se
 samar - samarium  
 Samoa - Samoa  
 samobieżny - automove  
-samochód (automobil) - moto gar  
+samochód (automobil) - motocar  
 samogłoska - jong fon  
 samolot - fei gi  
 samppanja - xampan vin  
@@ -3885,7 +3895,7 @@ sierociniec, dom dziecka - yatim dom
 sierota - yatim  
 sierpień - mes lima  
 Sierra Leone - Sera Leone  
-sikać, szczać, oddawać mocz - fa pix  
+sikać, szczać, oddawać mocz - pixe  
 sikh - sikiste  
 sikhizm - sikisme  
 siki - pixe  
@@ -4010,7 +4020,7 @@ stopień, poziom, ranga, klasa - gradu
 stopniowy - gradu di  
 storczyk (orchidea) - orkide  
 stosować (zastosować; zastosowanie, aplikacja) - aplike  
-stowarzyszać się (zrzeszać się) - fa liga  
+stowarzyszać się (zrzeszać się) - lige  
 strach, fobia - fobia  
 stracić (utracić, tracić, zgubuć, gubić) - xiti  
 strażnik więzienny - jela ja  
@@ -4168,7 +4178,7 @@ tantal - tantalium
 Tanzania - Tanzania  
 taoista - dauiste  
 taoizm - dauisme  
-tapeta - mur kaguji  
+tapeta - mur kaguze  
 tarcza - defe bano  
 tartak - xarakan  
 tatuaż - tatu  
@@ -4359,7 +4369,6 @@ urdu - urdu
 uroczy, słodki - kavai  
 urodziny - nateden  
 urodzić się, rodzić się - be gene  
-urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić - fa nati  
 urosnąć, rosnąć, wzrosnąć, wzrastać - be dai  
 Urugwaj - Uruguai  
 urząd, pozycja, stanowisko, funkcja - guan  
@@ -4664,7 +4673,7 @@ zaklecie - mage
 zakrzywiony - kurva di  
 zakupy (sprawunki, shopping) - xope  
 zakładać (założyć) - pre si  
-zakładać (założyć, ustanowić) - fa baze  
+zakładać (założyć, ustanowić) - bazize  
 Zambia - Zambia  
 zamek (zapięcie) - tala  
 zamek błyskawiczny - ziper  
@@ -4679,7 +4688,7 @@ zamknąć (zamykać) - fa klus
 zamknąć (zamykać, zakluczyć, zakluczać, zapinać, zapiąć) - fa sor  
 zamknąć zamkiem błyskawicznym - zipe  
 zapach (aromat, smród, odór) - aroma  
-zapakować, pakować - fa pake  
+zapakować, pakować - pake  
 zapalenie - itis  
 zapalenie nerek - nefritis  
 zapalenie opon mózgowych - meninge tis  
@@ -4703,7 +4712,7 @@ zarządzać (organizować, kierować) - fa nomi
 zasada - bazisme  
 zaskoczenie - supriza  
 zasmucić (zasmucać) - fa duka  
-zastosować, stosować - fa aplika  
+zastosować, stosować - uzife  
 zastrzyk - injetaje  
 zastąpić (podstawić, zamienić) - fa vise  
 zasób (zastosowanie, użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta) - faide  
@@ -4714,11 +4723,11 @@ zatrzymać - fa halte
 zatrzymać się - be halte  
 zawias, oś - xarnir  
 zawierać - in tene  
-zawijać (zawinąć) - fa lifafa  
+zawijać (zawinąć) - lifafe  
 zawiązywać (zawiązać węzeł) - fa node  
 zawsze - pan sata  
 zazdrosny - garde zelo  
-zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad - fa marke  
+zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad - marke  
 założyciel - bazer  
 zbierać opłaty lub podatki (zebrać opłaty lub podatki) - kape yo taxi  
 zbiornik (cysterna, pojemnik, rezerwuar) - tanki  
@@ -4740,7 +4749,7 @@ zdrowy - sale
 zebra - zebra  
 zegar (zegarek) - sah diker  
 zejść (schodzić, zstąpić, zstępować) - detrepe  
-zemleć (mleć, mielić) - fa mol  
+zemleć (mleć, mielić) - mole  
 zero, nic, żaden - siro  
 zespół (drużyna, grupa) - banda  
 zewnętrzny - vai di  
@@ -4766,7 +4775,7 @@ zmiana klimatu - klima mute
 zmienić (zmieniać) - alofa  
 zmienić, zmieniać - mute  
 zmierzyć (miara) - metri  
-zminimalizować - fa minim  
+zminimalizować - minimife  
 zmniejszyć o jeden - fa min gradu  
 zmysł - sense  
 zmęczenie (wyczerpanie) - fatige  
@@ -4790,12 +4799,12 @@ zostać, zostawać - be reste
 zrobić (czyn, uczynek) - fete  
 zrobić (stworzyć, wykreować) - fa  
 zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać - fa sana  
-zromanizować - fa Latin kitaba  
+zromanizować - latinogramife  
 zsumować, sumować, dodać, dodawać - fa sum  
 zulu - Zulu  
 zupa - supa  
 zwinny, sprawny - agile  
-związać, wiązać; zapiąć, zapinać - fa bande  
+związać, wiązać; zapiąć, zapinać - bande  
 zwiększyć o jeden - max gradu  
 zwyciężyć (wygrać; zwycięstwo, wygrana) - jai  
 zwyczajny (rutynowy, normalny) - ada di  
@@ -4869,7 +4878,7 @@ zły, zrujnowany, zepsuty - harabu
 świadomy; oświecony - budi di  
 świat - dunia  
 światło, oświetlenie - fote  
-świeca - mum foto  
+świeca - mum fote  
 świerk - pisea  
 świetny - kul  
 świeży - taza  

@@ -21,8 +21,8 @@ adres - 地址
 Afganestan - 阿富汗  
 agile - 灵活的  
 agrobiologia - 土壤生物学  
-agronomia - 农学  
 agre deha - 农村  
+agronomia - 农学  
 air - 空气  
 • anairobiike - 厌氧的  
 air ordu - 空军  
@@ -99,9 +99,9 @@ astre - 天体
 astronaver - 宇航员  
 astronomer - 天文学家  
 astronomia - 天文学  
+ate - 作为 (行为)  
 • reation - 反应  
 • reate - 反应  
-ate - 作为 (行为)  
 ation - 行动  
 ative - 活性  
 Athina - 雅典  
@@ -452,7 +452,6 @@ ezmurude - 绿宝石 (祖母绿)
 
 fa - 作  
 fa alo rai - 不同意  
-fa aplika - 运用  
 fa aroma - 闻到  
 fa aroma - 发臭  
 fa banya - 游泳  
@@ -476,7 +475,6 @@ fa linke - 连接
 fa loka - 放置  
 fa mede - 帮助  
 fa memo - 记得 (回忆)  
-fa migra - 搬家  
 fa najis - 污染  
 fa nomi - 组织  
 fa pede - 放屁  
@@ -1154,6 +1152,7 @@ midia - 媒体
 midike - 中型  
 mide noce - 半夜 (午夜)  
 mien - 面条  
+migre - 搬家  
 • inmigre - 移民 (移居)  
 • inmigrer - 移民者  
 mikrobie - 微生物   
@@ -1164,12 +1163,12 @@ mime - 模拟  (模仿)
 minte - 薄荷  
 mintol - 薄荷醇  
 miraje - 海市蜃楼  
-mira plate - 镜子  
+mire plate - 镜子  
 mirde - 微弱的  
 • konmisea - 委员会  
 misaje - 信息  
 misioner - 传教士  
-Misri - 埃及  
+Misre - 埃及  
 mitre - 米 (公尺)  
 mode - 模  
 mogu - 膜  
@@ -1197,8 +1196,8 @@ mula - 根
 mum cape - 封印  
 mum melon - 冬瓜 (白瓜)  
 mur - 墙壁  
-mur kaguji - 壁纸 (墙纸)  
-murce - 蚂蚁  
+mur kaguze - 壁纸 (墙纸)  
+murmeke - 蚂蚁  
 mus - 应该 (必须)  
 muskul bina - 健美运动  
 musli - 木斯里 (瑞士麦片)  
@@ -1223,6 +1222,7 @@ nam - 名
 nam hin - 无名  
 nam kitaba - 签署  
 nan reger - 王  
+narde - 双陆棋  
 narke - 毒品 (麻醉. 麻药 )  
 narkose - 症  
 • internasial - 国际  
@@ -1722,6 +1722,7 @@ unta - 团结 (统一)
 un ta liga - 合并  
 un zai di - 独自的 (孤单)  
 uranium - 铀  
+uzife - 运用  
 
 ## V  
 

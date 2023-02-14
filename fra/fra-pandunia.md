@@ -131,7 +131,7 @@ anus - anus
 anémie - anhemia  
 août - mes bati  
 appartenir à - be mal  
-appliquer - fa aplika  
+appliquer - uzife  
 appliquer - aplike  
 apporter - fa lai  
 apprendre (étudier) - fa xula  
@@ -230,7 +230,7 @@ aïe! - ayo
 ## B  
 
 babord - nave leu  
-backgammon - nardi  
+backgammon - narde  
 bagage - bagaje  
 baguettes - haxi  
 bah - bah  
@@ -685,7 +685,6 @@ domestiquer (apprivoiser) - fa dosil gene
 domestiqué (apprivoisé) - dosil gene di  
 dommage - avar  
 donner - don  
-donner naissance (procréer, engendrer, accoucher) - fa nati  
 données - data  
 dormir - be sona  
 double - duple  
@@ -759,7 +758,7 @@ ensuite (après, plus tard, ir a, en el futuro) - a pos
 entonnoir - dare tube  
 entrer - be in  
 entrer - intre  
-envelopper (emballer) - fa lifafa  
+envelopper (emballer) - lifafe  
 erbium - erbium  
 erroné - galte di  
 escalier (traper) - trepe  
@@ -814,7 +813,7 @@ fanal (balise) - foto minar
 fanatique - fanatike  
 fatigue - fatige  
 faute (erreur) - galte  
-faux - false  
+faux - anver  
 favori (préféré) - max fili di  
 favoritisme - max fili sim  
 fente (fissure, fêlure) - krake  
@@ -861,7 +860,8 @@ fossé (canal, tranchée) - kanal
 fouet - bici  
 fougères - parne  
 foule - jen jami  
-fourmi - murce  
+fourmi - murmeke  
+fourmilière - murmeke kume  
 fragment - parte  
 frais - taza  
 francium - fransium  
@@ -880,8 +880,8 @@ fundic - panduke
 furet - furete  
 fèces - feke  
 fée - pari  
-Félicitations ! - barka  
-féliciter - fa barka  
+Félicitations ! - barke  
+féliciter - barke  
 
 ## G  
 
@@ -1290,7 +1290,7 @@ mercure - hidrargente
 Mercure - Merkur  
 merde - xite  
 merveille - ajabu  
-merveille - mirabil  
+merveille - mirebil  
 message - angil  
 message - misaje  
 messager - angiler  
@@ -1309,12 +1309,12 @@ mil éthiopien - tef
 mine - kuan xan  
 minuit - mide noce  
 mirage - miraje  
-mirer - mira  
-miroir - mira plate  
+mirer - mire  
+miroir - mire plate  
 misionero - misioner  
 misión - mision  
 mode (type) - mode  
-modeler - fa plasti  
+modeler - plaste  
 module - module  
 moine ou nonne - biku  
 mois - mes  
@@ -1338,7 +1338,7 @@ mot - lexe
 mot de passe - pas loga  
 moteur - moter  
 mouche - dom zeze  
-moudre - fa mol  
+moudre - mole  
 mouiller - fa xipi  
 mouillé - xipi  
 moulin - molkan  
@@ -1355,6 +1355,7 @@ musique - muzike
 musique pop - pope muzike  
 musli - musli  
 mycélium - fungu nete  
+myrmécologie - murmekologia  
 mythe - deokata  
 mât - masta  
 mère (maman) - ma  
@@ -1533,7 +1534,7 @@ pantoufle (babouche) - babuce
 paon - mayur  
 papaye - papaya  
 papier - kaguji  
-papier peint - mur kaguji  
+papier peint - mur kaguze  
 papier toilette (papier hygiénique) - tuale kaguji  
 papillon - pelpel  
 paquet - pake  
@@ -1710,9 +1711,11 @@ principe - bazisme
 prison (geôle) - jelakan  
 privatiser - privatize  
 priver de - deprive  
+proactif - proative  
 problème - problem  
 problématique - problem di  
 proche - proxe  
+procréer (engendrer) - progene  
 procédé (rite) - riti  
 professeur (enseignant) - xule guru  
 professeur - profesor  
@@ -2273,7 +2276,7 @@ zoroastrisme - zarduxtisme
 zoulou - Zulu  
 zèbre - zebra  
 zéro - siro  
-Égypte - Misri  
+Égypte - Misre  
 Égypte antique - Keme  
 Épicéa - pisea  
 âge - umur  

@@ -59,7 +59,6 @@ ais di - cubierto de hielo
 ais hoki - hockey sobre hielo  
 ais krem - helado  
 ais xarbe - sorbete  
-Haiti - Haití  
 ajabu - maravilla  
 ajabu di - maravilloso (asombroso)  
 akare - garrapata (ácaro)  
@@ -200,13 +199,14 @@ astronave - astronave (nave estelar)
 astronaver - astronauta  
 astronomer - astrónomo  
 astronomia - astronomía  
+ate - acto  
+• anative - desactivado  
 • dusate - pecado  
 • reation - reacción  
+• proative - proactivo  
 • reate - reaccionar  
-ate - acto  
 ater - agente  
 ation - acción  
-• anative - desactivado  
 ative - activo  
 ata - anón (ates, saramuyo)  
 Athina - Atenas  
@@ -298,6 +298,7 @@ bambu - bambú
 bamia - ocra  
 ban - pan  
 banana - plátano (banana)  
+bande - atar (amarrar)  
 bandaje - banda (cinta)  
 banda - banda  
 bandera - bandera  
@@ -319,7 +320,8 @@ barbar - bárbaro
 Barbuda - Barbuda  
 barde - barba  
 bari metal - metal pesado  
-barka - ¡Felicitaciones!  
+barke - felicitar  
+barke - ¡Felicitaciones!  
 Barti - India  
 barti - indio (hindú)  
 Barti Bahai - océano Índico  
@@ -355,6 +357,7 @@ baze bol - béisbol
 bazer - fundador  
 bazike - básico  
 bazisme - principio  
+bazize - fundar (basar)  
 baze kanun - constitución  
 baze petra - lecho de roca  
 baze strute - infraestructura  
@@ -941,17 +944,13 @@ fa an galte - depurar
 fa an verse - invertir  
 fa an zai - quitar (eliminar, borrar)  
 fa anime - animar  
-fa aplika - emplear (aplicar)  
 fa argu - argüir  
 fa aroma - oler (olfatear)  
 fa aroma - oler (apestar)  
 fa asar - efectuar  
 fa auto - personalizar  
 fa avar - dañar  
-fa bande - atar (amarrar)  
 fa banya - bañarse  
-fa barka - felicitar  
-fa baze - fundar (basar)  
 fa bina - construir (edificar)  
 fa biznes lona - negociar  
 fa budi - darse cuenta (notar)  
@@ -981,7 +980,6 @@ fa fatu - castigar
 fa fei - volar  
 fa fen - dividir (repartir)  
 fa fen do du - reducir a la mitad (dividir en dos)  
-fa fikir - pensar  
 fa fin - terminar (acabar)  
 fa fobi - asustar (atemorizar)  
 fa fokus - concentración  
@@ -1000,7 +998,6 @@ fa glas dake - vidriar (glasear)
 fa glu - pegar  
 fa gol - lograr (llegar)  
 fa gola - rodear (cirundar)  
-fa grafi - dibujar (trazar)  
 fa guste - notar el sabor  
 fa halal - permitir (dejar)  
 fa halte - parar (detener)  
@@ -1040,11 +1037,8 @@ fa kung - perforar (agujerar)
 fa kux - acostar (poner)  
 fa lai - traer  
 fa lanse grafi - proyectar  
-fa Latin kitaba - romanizar  
 fa lenxi - practicar (ensayar, ejercitar)  
 fa libu - erigir (montar, armar)  
-fa lifafa - envolver  
-fa liga - asociar  
 fa linke - conectar (empalmar, enlazar, vincular)  
 fa loka - colocar (poner, ubicar)  
 fa lona - debatir (discutir)  
@@ -1054,23 +1048,19 @@ fa mal - poseer (tener, ser dueño de)
 fa manera - comportarse (portarse)  
 fa mantra - salmodiar  
 fa marce - caminar (marchar, andar)  
-fa marke - marcar  
 fa masaje - amasar (masajear)  
 fa mece - competir  
 fa mede - ayudar (asistar)  
 fa mei daka - decorar (adornar)  
 fa memo - acordarse  
-fa migra - migrar (emigrar, tralsadar)  
 fa min rai - subestimar  
 fa ming - iluminar  
 fa model - modelo  
-fa mol - moler (pulverizar)  
 fa muzika - tocar música  
 fa nafas - respirar  
 fa nahun - arañar  
 fa najis - corromper (contaminar)  
 fa nam - llamar (poner)  
-fa nati - dar a luz (enngendrar, parir, procrear)  
 fa neu - renovar  
 fa node - hacer un nudo  
 fa nomi - organizar (gestionar)  
@@ -1081,7 +1071,6 @@ fa ore - escuchar (oír)
 fa orto - enderezar (poner recto)  
 fa pada - dejar caer  
 fa paka - forzar (usar fuerte, imponer, coaccionar)  
-fa pake - embalar (llevar)  
 fa paraya - despreciar (desdeñar)  
 fa parce - romper (hacer pedazos)  
 fa parti - participar  
@@ -1092,9 +1081,6 @@ fa pede - peer
 fa pei - pegar  
 fa pente - pintar  
 fa piping - criticar (evaluar)  
-fa pix - mear  
-fa plan - planear (tener pensado)  
-fa plasti - moldear (modelar)  
 fa poli - multiplicar  
 fa politi - gobernar  
 fa pos - seguir  
@@ -1117,7 +1103,6 @@ fa rolo - liar (enrollar)
 fa romanse - amar románticamente  
 fa sabu - causar  
 fa saf - limpiar  
-fa safar - viajar  
 fa sahi - corregir  
 fa saide - cazar (pescar)  
 fa salam - saludar  
@@ -1171,10 +1156,8 @@ fa yagu - estimar (apriximarse a)
 fa zai - generar (añadir, realizar)  
 faide - beneficio  
 faidike - útil (beneficioso)  
-false - falso  
-false vide - ilusión  
-famili - familia  
-famili nam - apellido  
+famil - familia  
+famil nam - apellido  
 fan - fan  
 fantaze - imaginación (fantasía)  
 fantazike - imaginario (fantástico)  
@@ -1231,6 +1214,7 @@ feter - factor
 feteria - fábrica  
 Fiji - Fiji  
 fikir - idea (pensamiento, reflexión)  
+fikre - pensar  
 file - attracción (-filia)  
 filiste - fan (-filo)  
 Filipin - Filipinas  
@@ -1417,6 +1401,7 @@ geme - juego
 gemer - jugador  
 gem suta - esgrima  
 • exgene - exógeno  
+• progene - enngendrar (procrear)  
 • sugene - criar  
 gene di - crudo  
 gene grupe - generación (cohorte)  
@@ -1485,6 +1470,7 @@ goro karne - carne de cerdo
 goton - algodón  
 gradu - paso (grado, nivel, rango, calidad, categoría)  
 gradu mute - desarrollo  
+grafe - dibujar (trazar)  
 grafe - imagen (gráfico, dibujo)  
 grafe buku - libro de cuentos ilustrado  
 grafe culi - procesamiento de imágenes  
@@ -1558,6 +1544,7 @@ hafizer - guarda (preservador, conservador)
 haha - reír  
 haide - vamos a  
 haima - carpa (toldo)  
+Haiti - Haití  
 haki - polvo  
 haki cupu gi - aspiradora  
 haki rang - caqui  
@@ -2263,6 +2250,7 @@ late - lado (flanco)
 late di - de lado  
 late di - lateral (horizontal)  
 late jen - compañero (compinche)  
+latinogramife - romanizar  
 Latin zi - alfabeto latino  
 Latvia - Letonia  
 Lau - Laos  
@@ -2309,7 +2297,9 @@ lide lin - correa (rein)
 lider - dirigente (líder)  
 Lietuva - Lituania  
 lietuva baxa - lituano  
+lifafe - envolver  
 lifafa - envoltura  
+lige - asociar  
 liga - liga (alianza, federación)  
 liga di sanduku - arca de la Alianza  
 Lihtenstain - Liechtenstein  
@@ -2464,6 +2454,7 @@ margarita - margarita
 Mariana nesia - Islas Marianas  
 Maris - Marte  
 marisden - martes  
+marke - marcar  
 marke - marca (huella, mancha)  
 Marxal nesia - Islas Marshall  
 masa - masa (trozo, pedazo)  
@@ -2582,6 +2573,7 @@ midia - medios
 midike - medio (mediano)  
 mide noce - medianoche  
 mien - fideo (tallarín)  
+migre - migrar (emigrar, tralsadar)  
 migre - migración  
 • inmigre - inmigrar  
 • inmigrer - inmigrante  
@@ -2611,11 +2603,11 @@ ministre ofis - ministerio
 minte - menta  
 mintol - mentol  
 minute - minuto  
-mira - mirar  
-• amira - admirar  
-mirabil - maravilla  
+mire - mirar  
+• amire - admirar  
 miraje - espejismo  
-mira plate - espejo (retrovisor)  
+mirebil - maravilla  
+mire plate - espejo (retrovisor)  
 mirde - ligero (leve, vago, débil, borroso)  
 • exmise - emitir  
 • konmisea - comissão (comité)  
@@ -2629,15 +2621,16 @@ mision - missão
 misioner - missionário  
 misal - ejemplo  
 miskin - pobre (miserable)  
-Misri - Egipto  
-misri di - egipcio  
+Misre - Egipto  
+misrian - egipcio  
+mite vide - ilusión  
 mitre - metro  
 mixe - mezclar  
 mixe alkol - cóctel  
 mixe gi - batidora (licuadora, mezcladora)  
 mode - modo (tipo)  
 model - modelar  
-mode loge - adverbo  
+mode lexe - adverbo  
 mogu - membrana  
 moka - árbol  
 moka bano - tablón  
@@ -2646,6 +2639,7 @@ moka kane - estaca
 moka mate - madera  
 moka saner - carpintero  
 moka tana - leño (tronca)  
+mole - moler (pulverizar)  
 moler - molinero  
 molite - muela  
 molkan - molino  
@@ -2672,18 +2666,18 @@ mosim - estación (temporada)
 moski - mosquito (mosco)  
 moskvium - moscovio  
 mostre - monstro  
+motocar - automóvil (coche)  
 moter - motor  
+motion - movimiento  
+motosikle - motocicleta  
 moto cati - capó (bonete)  
-moto gar - automóvil (coche)  
-moto sikle - motocicleta  
-move - movimiento  
 Mozambike - Mozambique  
 mudan - peonía  
 muka - cara (rosto)  
 muka fun - polvo de cara  
 mula - raíz  
 mum - cera (lacre)  
-mum foto - vela (candela, cirio)  
+mum fote - vela (candela, cirio)  
 mum jen - momia  
 mum melon - calabaza china (calabaza de la cera)  
 mumu - vaca (toro)  
@@ -2691,9 +2685,10 @@ mumu karne - carne de vaca
 mun - puerta  
 mungus - mangosta  
 mur - muro (muralha)  
-mur kaguji - papel tapiz  
-murce - hormigo  
+mur kaguze - papel tapiz  
 Muritania - Mauritania  
+murmeke - hormigo  
+murmeke kume - hormiguero  
 mus - deber (necesitar)  
 musta - obligación (compulsión)  
 muskete - mosquete  
@@ -2705,7 +2700,7 @@ mute - cambiar
 Muxin - Jupiter  
 muxinden - jueves  
 muxu - ratón  
-muxu cakra - rueda del mouse  
+muxu rote - rueda del mouse  
 muzike - música  
 muziker - músico  
 
@@ -2742,7 +2737,7 @@ nano - nano-
 nano mitre - nanometre  
 naraka - infierno  
 naram - blando (mullido)  
-nardi - backgammon  
+narde - backgammon  
 narke - droga (narcótico)  
 nas - gente  
 nasia - nación  
@@ -2769,14 +2764,14 @@ nau hin - descerebrado
 Nauru - Naúru  
 nautile - nautilo  
 nave - barco (bote)  
+nave dex - estribor  
+nave kaper - corsario  
+nave leu - babor  
 nave trepe - portalón  
 nave xefe - capitán  
 nava - náhuatl (nahua)  
-nave dex - estribor  
 nave ga - navegar (ir en bote)  
 nave ga ja - velero  
-nave kaper - corsario  
-nave leu - babor  
 Nederlande - Países Bajos  
 Nederlande Antil - Antillas Neerlandesas  
 nefre - riñon  
@@ -2958,6 +2953,7 @@ pada mosim - otoño
 pada mun - trampilla  
 pagri - turbante  
 pai - pastel (pay)  
+pake - embalar (llevar)  
 pake - paquete  
 Pakistan - Pakistán  
 paladium - paladio  
@@ -3109,12 +3105,15 @@ pirate partia - Partido Pirata
 pisea - pícea  
 pistol - pistola  
 Pitkerne nesia - Islas Pitcairn  
+pixe - mear  
 pixe - pis (meados)  
 piza - pizza  
 pizaria - pizzería  
 • aplike - aplicar (untar)  
 plan - plan  
+plan - planear (tener pensado)  
 planeta - planeta  
+plaste - moldear (modelar)  
 plaste - plástico  
 plastike - maleable  
 plaste paste - plastilina  
@@ -3387,6 +3386,7 @@ saf - limpio
 • ansaf - sucio  
 saf tela - trapo (tela para limpiar)  
 safer - limpiador  
+safar - viajar  
 safar - viaje  
 safar ceke - cheque de viajero  
 safarer - viajero  
@@ -3922,6 +3922,7 @@ uze - usar (aplicar)
 uzebil - utilizable (disponible)  
 uzer - usuario  
 uzer nam - nombre de usuario  
+uzife - emplear (aplicar)  
 uzike - útil  
 Uzbeki - Uzbekistán  
 
@@ -3981,6 +3982,7 @@ ventur - aventura
 venturer - aventurero  
 venzou orange - unshu mikan  
 ver - verdadero  
+anver - falso  
 verife - autenticar  
 veranda - balcón (terraza, veranda)  
 verme - verme  
