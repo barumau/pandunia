@@ -190,21 +190,21 @@ the first verb (an auxiliary verb) is something that the subject possesses
 and the second verb is something that the subject does (when there is an object in the end)
 or experiences (when there is no object).
 
-**mi bil kitaba la javabu.**  
+**mi bil kitabe la javabe.**  
 ≈ *I have the ability to write the answer.*  
 – I can write the answer.  
-**mi halal kitaba la javabu.**  
+**mi halal kitabe la javabe.**  
 ≈ *I have the permission to write the answer.*  
 – I may write the answer.  
-**mi mus kitaba la javabu.**  
+**mi mus kitabe la javabe.**  
 ≈ *I have the compulsion to write the answer.*  
 – I must write the answer.
 
 Note that the same auxiliary verbs can be used alone as transitive verbs in the pivot construction.
 
-**guru halal mi kitaba la javabu.**
+**guru halal mi kitabe la javabe.**
 – The teacher permits me to write the answer.  
-**guru mus mi kitaba la javabu.**
+**guru mus mi kitabe la javabe.**
 – The teacher compels me to write the answer.
 
 

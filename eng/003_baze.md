@@ -71,7 +71,7 @@ If the subject is a personal pronoun, the **ya** is left out.
 The basic word order is subject–verb–object
 – the same as in English!
 
-**mi luba tu.**
+**mi ame tu.**
 – I love you.
 
 When the direct object is a noun, it is marked apart from the verb by a demonstrative pronoun, numeral or another determiner.
@@ -111,12 +111,12 @@ It can't be left out when it is part of a serial verb.
 
 Pandunia words can be ambiguous because they often have more meanings compared to English.
 
-**da luba mau.**
+**da ame mau.**
 – He loves cats. / She loved a cat. / He/she will love the cat.
 
 But actually the meaning is clear in the real context:
 
-**pre tri nen, mi ha du mau e un vaf. mi max ha un fem ben. da luba mau!**
+**pre tri nen, mi ha du mau e un vaf. mi max ha un fem ben. da ame mau!**
 – Three years ago, I had two cats and a dog. I also had a daughter. _She loved the cats!_
 
 ### Time
@@ -131,13 +131,13 @@ Tenses and aspects are optionally expressed with the help of adverbs and auxilia
 **xa**
 (in the future).
 
-**mi zai luba tu.**
+**mi zai ame tu.**
 – I am loving you.  
-**mi pas luba tu.**
+**mi pas ame tu.**
 – I loved you.  
-**mi le luba tu.**
+**mi le ame tu.**
 – I have loved you.  
-**mi xa luba tu.**
+**mi xa ame tu.**
 – I will love you.
 
 ### Passive
@@ -145,16 +145,16 @@ Tenses and aspects are optionally expressed with the help of adverbs and auxilia
 The passive voice is formed with the help of the helping verb
 **be**.
 
-**tu be luba.**
+**tu be ame.**
 – You are loved.  
-**mi be luba de tu.**
+**mi be ame de tu.**
 – I am loved by you.
 
 ### Modifying other words
 
 To modify a noun, put adjectives before it.
 
-**un neu luba**
+**un neu ame**
 – a new love  
 **la bon pai**
 – the good pie
@@ -164,7 +164,7 @@ The adverb can be tagged with **di**.
 
 **mi bon (di) vide tu.**
 – I see you well.  
-**tu vide di luba da.**
+**tu vide di ame da.**
 – You seemingly love him/her.
 
 Modifiers are compared with
@@ -190,13 +190,13 @@ To ask a content question, write a normal sentence and replace the word in quest
 **ke**
 'what, who'.
 
-**tu luba ke?**
+**tu ame ke?**
 – Who do you love?  
-**tu luba ke man?**
+**tu ame ke man?**
 – Which man do you love?  
-**ke man ya luba tu?**
+**ke man ya ame tu?**
 – Which man loves you?  
-**tu luba da ke poli?**
+**tu ame da ke poli?**
 – How much do you love him?
 
 ### Commands

@@ -27,9 +27,9 @@ Likewise, the word **kitabe** can function as a verb (_to write_), a noun (_a wr
 
 **mi kitabe letre.**
 – I write a letter.  
-**letre e kitabe misaje.**
+**letre es kitabe misaje.**
 – A letter is a written message.  
-**mi luba tu su kitabe.**
+**mi ame tu su kitabe.**
 – I love your writings.
 
 
@@ -49,10 +49,9 @@ There is little difference between open compounds and closed compounds.
 Compound words that are stable and fixed tend to be written together,
 whereas new compound words tend to be written separately.
 
-When words are joined and an annoying double vowel
-that consists of **e** and another vowel (**-eV-**)
-would be created in between, they can be reduced to one, for example
-**kriste** 'Christ' + **isme** 'creed' = **kristisme** 'Christianity'.
+When words are joined together,
+the final **-e** of the base word disappears if it is followed by a suffix that starts with a vowel.
+For example **kriste** 'Christ' + **isme** 'creed' = **kristisme** 'Christianity'.
 Vowels other than **e** can't be deleted. For example, **a** remains in the following compound:
 **lama** 'lama' + **isme** 'creed' = **lamaisme** 'lamaism'.
 
@@ -72,7 +71,7 @@ and it should not be considered an error because the difference is minimal and h
 Affixes, i.e. prefixes and suffixes, are very important and give great flexibility to the language.
 They are joined or merged to the base word.
 
-For example, the word **gee** 'planet Earth' consists of the base word **gee** 'earth, ground'
+For example, the word **Geia** 'planet Earth' consists of the base word **gee** 'earth, ground'
 and the collective noun suffix **-ia**.
 
            gee       'earth, ground'
@@ -90,7 +89,7 @@ and the preceding roots only modify its meaning.
     _____________
     = pandemike      'pandemic'
 
-The connecting vowel **-o-** is inserted between words in Greek compounds.
+The connecting vowel **-o-** is inserted between the elements in Greek compounds.
 
            deme      'people, public'
        +    -o-      'connecting vowel for Greek compounds'
@@ -102,7 +101,7 @@ The connecting vowel **-o-** is inserted between words in Greek compounds.
           terme      'temperature'
        +    -o-      'connecting vowel for Greek compounds'
        +  metre      'measure'
-       +     -r      'agent or apparatus'
+       +    -er      'agent or apparatus'
     ____________
     = termometrer     'thermometer'
 
@@ -111,27 +110,27 @@ including **a-**, **de-**, **pro-**, **re-** and **su-** among others,
 in order to re-create many international words as native Pandunia words.
 
              a-      'to, toward'
-       +   ces-      'pass'
+       +   cese      'pass'
     ____________
     =     acese      'get past to, access'
 
            pro-      'forward, to the front'
-       +   ces-      'pass'
+       +   cese      'pass'
     ____________
     =   procese      'pass forward, process'
 
             re-      'back to'
-       +   ces-      'pass'
+       +   cese      'pass'
     ____________
     =    recese      'pass back, recede'
 
             de-      'away, off'
-       +   ces-      'pass'
+       +   cese      'pass'
     ____________
     =    decese      'pass away, die'
 
             su-      'good, well'
-       +   ces-      'pass'
+       +   cese      'pass'
     ____________
     =    sucese      'go well, succeed'
 
@@ -670,8 +669,10 @@ There are also a lot of country names that do not end in **-ia**.
 
 **-on**
 'ketone group' :  
-**meten**
-'methen'
+**propan**
+'propane'
+→ **propanon**
+'propanone'
 
 **-os**
 'sugar' :  

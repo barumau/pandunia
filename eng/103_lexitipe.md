@@ -8,9 +8,9 @@ which does not change according to number, case, gender, tense, mood or
 any of the other inflectional categories known from other languages.
 Compare, for example, what happens to the words in the following two sentences in Pandunia and English.
 
-1. *mi luba da.*
+1. *mi ame da.*
    – I love him.
-2. *da luba mi.*
+2. *da ame mi.*
    – He loves me.
 
 In Pandunia, the subject and object simply change places and that's it.
@@ -96,14 +96,14 @@ Content words can be classified further into the following word classes:
 
 However, the class of a content word is seldom permanent.
 A word like
-**luba**
+**ame**
 ('love') can function as verb, noun or adjective
 depending on its position in the sentence.
 
-**mi _luba_ tu.**
+**mi _ame_ tu.**
 – I _love_ you. (verb)  
-**tu fikir mi su _luba_.**
+**tu fikre mi su _ame_.**
 – You think about my _love_. (noun)  
-**mi kitaba un _luba_ anjil.**
+**mi kitabe un _ame_ angil.**
 – I write a _love_ letter. (adjective)
 

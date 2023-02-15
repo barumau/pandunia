@@ -187,7 +187,7 @@ That's why
 is the same in subject and object positions
 while English has two different forms, 'I' and 'me'.
 
-**mi luba tu.**
+**mi ame tu.**
 I love you.
 
 <small>Etymology. **tu** is from
@@ -739,12 +739,12 @@ It means a kind of animal.
 I don't understand what it means.
 
 
-### kitaba <small>write</small>
+### kitabe <small>write</small>
 
-**cing kitaba tu su adres.**
+**cing kitabe tu su adres.**
 Please, write your address.
 
-**cing kitaba da a ye.**
+**cing kitabe da a ye.**
 Please, write it here!
 
 
