@@ -89,7 +89,6 @@
  - be hapu  
  - be harabu  
  - be in  
- - be jaga  
  - be kino  
  - be max  
  - be min  
@@ -133,8 +132,9 @@
  - brun varis  
  - bubu  
  - Budapexte  
+ - bude  
  - bural  
- - buro riti  
+ - bure rite  
  - burokratia  
  - butan  
  - butil  
@@ -867,10 +867,10 @@
  - taxonomia  
  - tef  
  - tege pote  
- - tele fon bude  
- - tele fon lin  
- - tele fon nume  
- - tele fon suta  
+ - telefon bute  
+ - telefon lin  
+ - telefon nume  
+ - telefonia  
  - telegrame  
  - tene  
  - Tenesi  
@@ -919,7 +919,7 @@
  - unta  
  - uzebil  
  - uzike  
- - vaf bude  
+ - vaf bute  
  - vaf parke  
  - vafle  
  - vai dara  
@@ -1457,7 +1457,7 @@ Botswana - Cuana
 boćwina (botwina) - selge  
 Bośnia i Harcegowina - Bosna i Hercegovina  
 Boże Narodzenie - kristogene  
-brawo (gratulacje) - bravo  
+brawo (gratulacje) - brave  
 Brazyla - Brazil  
 broda - barde  
 brodawka - veruke  
@@ -1475,10 +1475,10 @@ brzuch - pete
 brzydki - dus vide  
 brązowy, koloru kawy - kafe rang  
 bu! - bu!  
-Budda - Buda  
-buddysta - budaiste  
-Buddyzm - budaisme  
-budka (kabina) - bude  
+Budda - Bude  
+buddysta - budiste  
+Buddyzm - budisme  
+budka (kabina) - buda  
 budynek (struktura) - bine  
 budżet - pesa plan  
 bufet (szwedzki stół) - bufete  
@@ -2147,9 +2147,9 @@ implozja - in bum
 importować (zaimportować) - in mise  
 ind - hindium  
 indiański - aslamerikan  
-Indie - Barti  
+Indie - Bartia  
 Indonezja - Indonesia  
-Indyjski - barti  
+Indyjski - barte  
 indyk - dinde  
 infekcja (zakażenie) - patomise  
 infekcja (zakażenie) - infete  
@@ -3068,7 +3068,7 @@ obrócić (kręcić) - rotate
 obrócić się (kręcić się) - be rota  
 obserwator (widz) - vider  
 obsydian - osidian  
-obudzić, budzić - fa jaga  
+obudzić, budzić - budife  
 obyczaj, zwyczaj, tradycja, praktyka, konwencja - suna  
 obywatel - gogia jen  
 obóz - kamper  
@@ -3076,7 +3076,7 @@ ocean - dai bahai
 Ocean Antarktyczny (Ocean Południowy) - Antartika Bahai  
 Ocean Arktyczny - Artika Bahai  
 Ocean Atlantycki - Atlanti Bahai  
-Ocean Indyjski - Barti Bahai  
+Ocean Indyjski - Barte Bahai  
 Ocean Spokojny (Pacyfik) - Pace Bahai  
 Oceania - Oseania  
 ocelot - oselote  
@@ -3096,7 +3096,7 @@ odnowić, odnawiać, uczynić nowym - fa neu
 odpowiedzieć, odpowiadać - fa javabu  
 odpowiedź, odzew - javabu  
 odsłonić, odsłaniać - andake  
-Odwarzny ( - bravo  
+Odwarzny ( - brave  
 odwiedzić, odwiedzać - fa keka  
 offline (nie na linii, poza siecią) - no a lin  
 ofiara - kurban  
@@ -3545,7 +3545,7 @@ prowadzić pojazd - fa xofer
 prowadzić, dowodzić, kierować - lide  
 prysznic - dux  
 przebić (perforować, dziurawić) - fa kung  
-przebudzony, przytomny - jaga  
+przebudzony (przytomny) - budike  
 przechowawca, kustosz, opiekun - hafizer  
 przechylać (przechylić, wychylać, wychylić) - fa terca  
 przeciekać, ciec - lou  
@@ -4193,7 +4193,7 @@ technologia, nauka o technikach - tehnologia
 teistyczny - deiste  
 teizm - deisme  
 tektonika płyt - plate geo kaskelogia  
-telefon - tele fon  
+telefon - telefon  
 teleportować się - be tele loka  
 teleskop - teleskope  
 telewizja - tele vide gi  
@@ -4385,7 +4385,7 @@ uwolnić, uwalniać - huru di
 Uzbekistan - Uzbeki  
 uznać (przynać, przyjąć do wiadomości) - fa reside  
 ułożyć w trabelę - table yo data  
-uświadomienie, świadomość; oświecenie, bodhi - budi  
+uświadomienie, świadomość; oświecenie, bodhi - budion  
 uświadomić sobie, zdać sobie sprawę, pojąć, pojmować - fa budi  
 użyteczny, pomocny, przydatny, pożyteczny, korzystny - faidike  
 użytkownik - uzer  
@@ -4768,7 +4768,7 @@ Zimbabwe - Zimbabue
 zimny, chłodny - leng  
 zimowy - leng mosim di  
 Zjednoczone Emiraty Arabskie - Unta Arabi Amir Dexa (UAA)  
-Zjednoczone Królestwo - Britan  
+Zjednoczone Królestwo - Britia  
 zjednoczony - un ta di  
 zmaksymalizować - maximize  
 zmiana klimatu - klima mute  
@@ -4875,7 +4875,6 @@ zły, zrujnowany, zepsuty - harabu
 środkowy, centralny - jong  
 środowiskowy, naturalny - ekal  
 śruba, wkręt - vita  
-świadomy; oświecony - budi di  
 świat - dunia  
 światło, oświetlenie - fote  
 świeca - mum fote  

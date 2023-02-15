@@ -117,7 +117,7 @@
 **bari** ** ← hindia:भारी (bhārī), bengala:ভারী (bharī), malaja:berat, teluga:బరువు (baruvu), persa: بار‎ (bâr), greka: βαρύς (barýs) + korea:바리 (bari)  
 **barium** *bario* ← angla:barium, franca:baryum, hispana:bario, portugala:bário, rusa:барий, mandarena:钡 (bèi), japana:バリウム, korea:바륨, vjetnama:bari, hindia:बेरियम, bengala:বেরিয়াম, malaja:barium, svahila:bari, araba: باريوم  
 **barke** *gratuli* ← haŭsa:barka, malaja:berkah, turka:tebrik, persa:(tabrik), araba:urdua:(mubārak), svahila:baraka, hau:albarka, joruba:alubarika  
-**barti** *Barata* ← hindia:भारतीय (bhārtīy), urdua:(bhārtīy), marataja:(bhārtīya), teluga:(bhāratīya)  
+**barte** *Barata* ← hindia:भारतीय (bhārtīy), urdua:(bhārtīy), marataja:(bhārtīya), teluga:(bhāratīya)  
 **baru** *urso* ← deu:Bär, angla:bear + hindia:भालू (bhālū) bengala:ভালুক (bhaluk) + malaja:beruang  
 **barude** *pulvo* ← araba: بَارُود (bārūd), turka:barut, persa: بارود‎ (bârud), hindia:बारूद (bārūd), bengala:বারুদ (barud), svahila:baruti, fula:barudu  
 **barxa** *pluvo* ← persa: باران‎ (bârân), turka:baran, hindia:बारिश (bāriś);  वर्षा (varṣā, bengala:বৃষ্টি (briśṭi)  
@@ -187,13 +187,13 @@
 **botel** *botelo* ← angla:bottle, franca:bouteille, hispana:botella, portugala:botelha, rusa:бутылка (butylka), persa: بطری‎ (botri), hindia:बोतल (botal), bengala:বোতল (botôl), malaja:botol, tamila:புட்டி (puṭṭi)  
 **bra** *frato* ← greka:φράτηρ (phrater), angla:brother, portugala:brada; bródi, rusa:брат (brat), persa: برادر‎ (barâdar), hindia:बिरादर (birādar), bengala:বেরাদর (beradôr), malaja:bruder, japana:ブラザー (burazā), korea:브라더 (beuradeo), turka:birader, svahila:bradha  
 **brauzer** ** ← angla:browser, deu:Browser, rusa:браузер (brauzer), hindia:ब्राउज़र (brauzar), bengala:ব্রাউজার (brā'ujāra), japana:ブラウザ (burauzā)  
-**bravo** *brava* ← angla:franca:brave, rusa:бравый (braviy), portugala:bravo, araba:(brāvo)  
+**brave** *brava* ← angla:franca:brave, rusa:бравый (braviy), portugala:bravo, araba:(brāvo)  
 **briko** *abrikoto (pruno)* ← araba:(barqūq), angla:apricot, franca:abricot, hispana:albaricoque, portugala:abricó, rusa:абрикос (abrikos), filipina:albarikoke, svahila:aprikoti  
 **brom** *bromo* ← angla:bromine, franca:brome, hispana:bromo, portugala:bromo, rusa:бром, korea:브롬, vjetnama:brom, hindia:ब्रोमिन, bengala:ব্রোমিন, malaja:brom, svahila:bromi, araba: بروم  
 **brox** *broso* ← angla:brush, franca:brosse, hispana:portugala:brocha, japana:ブラシ (burashi), korea:브러시 (beureosi), hindia:ब्रश (braś), bengala:ব্রাশ (braś), haŭsa:svahila:burashi, persa:(boros), malaja:berus, araba: فُرْشَاة‎ (furšāh), turka:fırça  
 **bu!** ** ← angla:boo, franca:bouh, portugala:hispana:bu, rusa:бу (bu), korea:부 (bu) + hindia:भूत (bhūt)  
-**bude** ** ← deu:Bude, angla:booth, rusa:будка (budka), hindia:बूथ (būth), bengala:বুথ (buth), japana:ブース (būsu), korea:부스 (buseu), vjetnama:bốt  
-**budi** *kompreno* ← sanskrita:बोधि (bodhi), hindia:बुद्धि (buddhi), japana:菩提 (bodai), mandarena:菩提 (pútí), mon:бодь (bodʹ), korea:보리 (bori), vjetnama:Bụt, taja:โพธิ (potí) + rusa:будить  
+**buda** ** ← deu:Bude, angla:booth, rusa:будка (budka), hindia:बूथ (būth), bengala:বুথ (buth), japana:ブース (būsu), korea:부스 (buseu), vjetnama:bốt  
+**bude** ** ← sanskrita:बोधि (bodhi), hindia:बुद्धि (buddhi), japana:菩提 (bodai), mandarena:菩提 (pútí), mon:бодь (bodʹ), korea:보리 (bori), vjetnama:Bụt, taja:โพธิ (potí) + rusa:будить  
 **bufete** ** ← franca:buffet, angla:buffet, hispana:bufé, portugala:bufete, deu:Büfett, rusa:буфет (bufet), mandarena:部飛 (bùfēi), japana:ビュッフェ (byuffe), korea:뷔페 (bwipe), malaja:bufet, svahila:bufee  
 **buku** *libro* ← angla:book, deu:Buch, malaja:buku, svahila:buku, franca:bouquin, hindia:बुक (buk)  
 **bulbul** *najtingalo* ← araba: بلبل‎ (bulbul), persa:(bolbol), hindia:बुलबुल (bulbul), malaja:bulbul, turka:bülbül  
@@ -619,7 +619,6 @@
 **ite** *ŝtono* ← angla:franca:-ite, hispana:portugala:-ito, rusa:-ит (-it) + (brick) bengala:ইট (iṭ), hindia:ईंट (ī̃ṭ), taja:อิฐ (it), kmera:ឥដ្ឋ (ʼət), birma: အုတ် (ut)  
 **itis** ** ← angla:hispana:-itis, franca:portugala:-ite, rusa:-ит (-it)  
 **ja** *isto (anto)* ← mandarena:者 (zhě);家 (jiă), korea:자 (ja), vjetnama:gia  
-**jaga** *uyanık* ← hindia:जागना (jāgnā), bengala:জাগা (jaga), pan:ਜਾਗਣਾ (jāgṇā), marataja:जागणे (j̈āgṇe), guĝarata:જાગવું (jāgvũ), malaja:jaga  
 **jai** *venki* ← hindia:जय (jay), bengala:জয় (jôy), teluga:జయ (jaya), malaja:jaya, taja:ชัย (chai), kmera:ជ័យ (cɨy), birma:ဇေယျ (jeyya)  
 **jain din** *Ĝajnismo* ← hindia:marataja:जैन (jain), tha:เชน (chen), angla:jainism, franca:jaïnisme, rusa:джайнизм (džaynizm)  
 **jake** *jako* ← angla:jacket, mandarena:夹克 (jiākè), rusa:жакет (žaket), deu:Jacke, portugala:jaqueta  

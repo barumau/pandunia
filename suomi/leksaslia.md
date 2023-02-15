@@ -117,7 +117,7 @@
 **bari** *raskas (kova, vaativa, vaikea, jne.)* ← hindi:भारी (bhārī), bangla:ভারী (bharī), malaiji:berat, telugu:బరువు (baruvu), persia: بار‎ (bâr), kreikka: βαρύς (barýs) + korea:바리 (bari)  
 **barium** *barium* ← englanti:barium, ranska:baryum, espanja:bario, portugali:bário, venäjä:барий, yleiskiina:钡 (bèi), japani:バリウム, korea:바륨, vietnami:bari, hindi:बेरियम, bangla:বেরিয়াম, malaiji:barium, suahili:bari, arabia: باريوم  
 **barke** *onnitella (siunata)* ← hausa:barka, malaiji:berkah, turkki:tebrik, persia:(tabrik), arabia:urdu:(mubārak), suahili:baraka, hau:albarka, yoruba:alubarika  
-**barti** *intialainen* ← hindi:भारतीय (bhārtīy), urdu:(bhārtīy), marathi:(bhārtīya), telugu:(bhāratīya)  
+**barte** *intialainen* ← hindi:भारतीय (bhārtīy), urdu:(bhārtīy), marathi:(bhārtīya), telugu:(bhāratīya)  
 **baru** *karhu* ← deu:Bär, englanti:bear + hindi:भालू (bhālū) bangla:ভালুক (bhaluk) + malaiji:beruang  
 **barude** *ruuti* ← arabia: بَارُود (bārūd), turkki:barut, persia: بارود‎ (bârud), hindi:बारूद (bārūd), bangla:বারুদ (barud), suahili:baruti, fulani:barudu  
 **barxa** *sade* ← persia: باران‎ (bârân), turkki:baran, hindi:बारिश (bāriś);  वर्षा (varṣā, bangla:বৃষ্টি (briśṭi)  
@@ -187,13 +187,13 @@
 **botel** *pullo* ← englanti:bottle, ranska:bouteille, espanja:botella, portugali:botelha, venäjä:бутылка (butylka), persia: بطری‎ (botri), hindi:बोतल (botal), bangla:বোতল (botôl), malaiji:botol, tamili:புட்டி (puṭṭi)  
 **bra** *veli* ← kreikka:φράτηρ (phrater), englanti:brother, portugali:brada; bródi, venäjä:брат (brat), persia: برادر‎ (barâdar), hindi:बिरादर (birādar), bangla:বেরাদর (beradôr), malaiji:bruder, japani:ブラザー (burazā), korea:브라더 (beuradeo), turkki:birader, suahili:bradha  
 **brauzer** *selain* ← englanti:browser, deu:Browser, venäjä:браузер (brauzer), hindi:ब्राउज़र (brauzar), bangla:ব্রাউজার (brā'ujāra), japani:ブラウザ (burauzā)  
-**bravo** *rohkea (urhea, uljas)* ← englanti:ranska:brave, venäjä:бравый (braviy), portugali:bravo, arabia:(brāvo)  
+**brave** *rohkea (urhea, uljas)* ← englanti:ranska:brave, venäjä:бравый (braviy), portugali:bravo, arabia:(brāvo)  
 **briko** *aprikoosi (luumu)* ← arabia:(barqūq), englanti:apricot, ranska:abricot, espanja:albaricoque, portugali:abricó, venäjä:абрикос (abrikos), filippiini:albarikoke, suahili:aprikoti  
 **brom** *bromi* ← englanti:bromine, ranska:brome, espanja:bromo, portugali:bromo, venäjä:бром, korea:브롬, vietnami:brom, hindi:ब्रोमिन, bangla:ব্রোমিন, malaiji:brom, suahili:bromi, arabia: بروم  
 **brox** *harja* ← englanti:brush, ranska:brosse, espanja:portugali:brocha, japani:ブラシ (burashi), korea:브러시 (beureosi), hindi:ब्रश (braś), bangla:ব্রাশ (braś), hausa:suahili:burashi, persia:(boros), malaiji:berus, arabia: فُرْشَاة‎ (furšāh), turkki:fırça  
 **bu!** *pöö!* ← englanti:boo, ranska:bouh, portugali:espanja:bu, venäjä:бу (bu), korea:부 (bu) + hindi:भूत (bhūt)  
-**bude** *koppi (koju)* ← deu:Bude, englanti:booth, venäjä:будка (budka), hindi:बूथ (būth), bangla:বুথ (buth), japani:ブース (būsu), korea:부스 (buseu), vietnami:bốt  
-**budi** *ymmärrys (taju, oivallus)* ← sanskriitti:बोधि (bodhi), hindi:बुद्धि (buddhi), japani:菩提 (bodai), yleiskiina:菩提 (pútí), mon:бодь (bodʹ), korea:보리 (bori), vietnami:Bụt, thai:โพธิ (potí) + venäjä:будить  
+**buda** *koppi (koju)* ← deu:Bude, englanti:booth, venäjä:будка (budka), hindi:बूथ (būth), bangla:বুথ (buth), japani:ブース (būsu), korea:부스 (buseu), vietnami:bốt  
+**bude** *herätä* ← sanskriitti:बोधि (bodhi), hindi:बुद्धि (buddhi), japani:菩提 (bodai), yleiskiina:菩提 (pútí), mon:бодь (bodʹ), korea:보리 (bori), vietnami:Bụt, thai:โพธิ (potí) + venäjä:будить  
 **bufete** *noutopöytä (buffetti)* ← ranska:buffet, englanti:buffet, espanja:bufé, portugali:bufete, deu:Büfett, venäjä:буфет (bufet), yleiskiina:部飛 (bùfēi), japani:ビュッフェ (byuffe), korea:뷔페 (bwipe), malaiji:bufet, suahili:bufee  
 **buku** *kirja* ← englanti:book, deu:Buch, malaiji:buku, suahili:buku, ranska:bouquin, hindi:बुक (buk)  
 **bulbul** *satakieli* ← arabia: بلبل‎ (bulbul), persia:(bolbol), hindi:बुलबुल (bulbul), malaiji:bulbul, turkki:bülbül  
@@ -619,7 +619,6 @@
 **ite** *kivi (hippu)* ← englanti:ranska:-ite, espanja:portugali:-ito, venäjä:-ит (-it) + (brick) bangla:ইট (iṭ), hindi:ईंट (ī̃ṭ), thai:อิฐ (it), khmer:ឥដ្ឋ (ʼət), burma: အုတ် (ut)  
 **itis** *tulehdus* ← englanti:espanja:-itis, ranska:portugali:-ite, venäjä:-ит (-it)  
 **ja** *tekijä (aikaansaaja)* ← yleiskiina:者 (zhě);家 (jiă), korea:자 (ja), vietnami:gia  
-**jaga** *olla hereillä* ← hindi:जागना (jāgnā), bangla:জাগা (jaga), pan:ਜਾਗਣਾ (jāgṇā), marathi:जागणे (j̈āgṇe), gujarati:જાગવું (jāgvũ), malaiji:jaga  
 **jai** *voittaa (voitto)* ← hindi:जय (jay), bangla:জয় (jôy), telugu:జయ (jaya), malaiji:jaya, thai:ชัย (chai), khmer:ជ័យ (cɨy), burma:ဇေယျ (jeyya)  
 **jain din** *jainalaisuus* ← hindi:marathi:जैन (jain), thai:เชน (chen), englanti:jainism, ranska:jaïnisme, venäjä:джайнизм (džaynizm)  
 **jake** *pikkutakki (jakku)* ← englanti:jacket, yleiskiina:夹克 (jiākè), venäjä:жакет (žaket), deu:Jacke, portugali:jaqueta  

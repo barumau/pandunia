@@ -314,7 +314,7 @@ botanique - fitologia
 botte - buta  
 boucher - karnizer  
 bouclire - defe bano  
-Bouddha - Buda  
+Bouddha - Bude  
 boue (fange, bourbe, gadoue) - poto  
 bouh! - bu!  
 boulanger - baker  
@@ -328,8 +328,8 @@ bouton - buton
 boxe - boce  
 boxeur - bocer  
 bras - hanu xaka  
-brave - bravo  
-bravo! - bravo  
+brave - brave  
+bravo! - brave  
 brigand (bandit) - lutar  
 brique - tege  
 brochette - xix  
@@ -356,8 +356,8 @@ bûche - moka tana
 
 ## C  
 
-cabine - bude  
-cabine téléphonique - tele fon bude  
+cabine - buda  
+cabine téléphonique - telefon bute  
 cacher - fa sir  
 cachet de la poste - poste marke  
 cactus - katus  
@@ -1040,8 +1040,8 @@ implosion - in bum
 important - ham di  
 inclure - fa in klus  
 inclusif - in klus di  
-Inde - Barti  
-indien - barti  
+Inde - Bartia  
+indien - barte  
 indium - hindium  
 individu - monike  
 Indochine - Hindocin  
@@ -1169,7 +1169,7 @@ lieu - loke
 lieu de naissance - nateloke  
 ligne (fil) - lin  
 ligne de commande (console, terminal, invite de commande) - amir lin  
-ligne téléphonique - tele fon lin  
+ligne téléphonique - telefon lin  
 ligue (alliance) - liga  
 lilas - lila  
 lime (citron vert) - kaguji limon  
@@ -1398,7 +1398,7 @@ neuf (9) - tisa
 neurone - neuron  
 neurotoxine - neurotoxe  
 neveu - sau son  
-niche (de chien) - vaf bude  
+niche (de chien) - vaf bute  
 niche - nix  
 nickel - nikel  
 nid - nide  
@@ -1456,7 +1456,7 @@ océan - dai bahai
 Océan Antarctique - Antartika Bahai  
 océan Arctique - Artika Bahai  
 océan Atlantique - Atlanti Bahai  
-océan Indien - Barti Bahai  
+océan Indien - Barte Bahai  
 ode - ode  
 odeur - aroma  
 oeuf - anda  
@@ -1737,7 +1737,7 @@ prophétiser - nabi
 propice - bon sin di  
 propriété (possession, bien) - mal  
 protactinium - protacinium  
-protocole - buro riti  
+protocole - bure rite  
 prototype - prototipe  
 proximité - proxia  
 prune de Java - jamul  
@@ -2148,7 +2148,7 @@ turbine - turbin
 turboréacteur - turbejeter  
 télescope (lunette) - teleskope  
 télécharger - nete gete  
-téléphone - tele fon  
+téléphone - telefon  
 téléphoner - fa tele fon  
 téléviseur - tele vide gi  
 tête - kapa  
@@ -2336,7 +2336,7 @@ zéro - siro
 été - garma mosim  
 évaluer - fa valu  
 évangile - euangil  
-éveillé - jaga  
+éveillé - budike  
 éventail - sanzi  
 évident - exvidebil  
 être (existence, essence) - esentia  

@@ -322,9 +322,9 @@ barde - barba
 bari metal - metal pesado  
 barke - felicitar  
 barke - ¡Felicitaciones!  
-Barti - India  
-barti - indio (hindú)  
-Barti Bahai - océano Índico  
+barte - indio (hindú)  
+Barte Bahai - océano Índico  
+Bartia - India  
 baru - oso  
 barude - pólvora  
 barxa - lluvia  
@@ -391,7 +391,6 @@ be hogo - quemarse
 be in - entrar  
 be in bum - implosionar  
 be islam - someterse (rendirse, ceder)  
-be jaga - despertarse  
 be kai - abirse  
 be karibu - axproximarse  
 be kino - moverse  
@@ -517,12 +516,12 @@ botel tape - tapón (corcholata)
 bra - hermano  
 brauza - explorar  
 brauzer - navegador  
-bravo - bravo!  
+brave - bravo!  
 Brazavil - Brazzaville  
 Brazavil Kongo - República del Congo  
 Brazil - Brasil  
 briko - albaricoque (ciruela)  
-Britan - Reino Unido  
+Britia - Reino Unido  
 brokoli - brócoli (brécol)  
 brom - bromo  
 brox - cepillo (brocha)  
@@ -530,12 +529,14 @@ brun varis - arroz integral
 Brunei - Brunei  
 bu! - bu!  
 bubu - coco  
-Buda - Buda  
-budaisme - budismo  
-budaiste - budista  
-bude - cabina (garita)  
-budi - comprensión (entendimiento)  
-budi di - concienciado (iluminado)  
+bude - despertarse  
+Bude - Buda  
+budife - despertar  
+budike - despierto (concienciado)  
+budion - comprensión (entendimiento)  
+budisme - budismo  
+budiste - budista  
+buda - cabina (garita)  
 bufete - bufé  
 buku - libro  
 bulbul - ruiseñor  
@@ -546,7 +547,7 @@ burer - secretario
 bureria - secretaría  
 burokan - oficina  
 burokratia - burocracia  
-buro riti - etiqueta (protocolo)  
+bure rite - etiqueta (protocolo)  
 burge - castillo (fortaleza)  
 Burkina Faso - Burkina Faso  
 bus - bus (autobús)  
@@ -1010,7 +1011,6 @@ fa hisabu - calcular
 fa hogo - quemar  
 fa ici - querer (disponer)  
 fa in klus - incluir  
-fa jaga - despertar  
 fa jang - pelear  
 fa javabu - responder (contestar)  
 fa jela - encarcelar (aprisionar)  
@@ -1187,6 +1187,7 @@ fei gi - aeroplano
 fei muxu - murciélago  
 • defeke - defecar  
 feke - heces  
+telefonia - telefonía  
 femisme - feminismo  
 femiste - feministe  
 fen - parte (fracción)  
@@ -1776,7 +1777,6 @@ itis - inflamación
 ## J  
 
 ja - hacedor (perpetrador)  
-jaga - despierto  
 jai - gañar (vencer, triunfar; victoria)  
 jain din - jainismo  
 jake - chaqueta  
@@ -3742,12 +3742,11 @@ tela - tela (paño, tejido)
 tela gi - telar  
 tele - lo lejos  
 tele di - lejano (lejos)  
-tele fon - telefono  
-tele fon bude - cabina telefónica  
-tele fon suta - telefonía  
+telefon - telefono  
+telefon bute - cabina telefónica  
+teleskope - telescopio  
 teleta - distancia  
 tele vide gi - televisión  
-teleskope - telescopio  
 telurium - telurio  
 Telugu - télugu  
 tema - tema (tratar de)  
@@ -3930,7 +3929,7 @@ Uzbeki - Uzbekistán
 
 va - guau (vaya)  
 vaf - perro  
-vaf bude - perrera  
+vaf bute - perrera  
 vafle - gofre  
 vagina - vagina  
 vagina tis - vaginitis  

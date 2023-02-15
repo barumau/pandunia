@@ -386,9 +386,9 @@ bari - raskas (kova, vaativa, vaikea, jne.)
 bari metal - raskasmetalli  
 barke - onnitella (siunata)  
 barke - onneksi olkoon!  
-Barti - Intia  
-barti - intialainen  
-Barti Bahai - Intian valtameri  
+barte - intialainen  
+Barte Bahai - Intian valtameri  
+Bartia - Intia  
 baru - karhu  
 barude - ruuti  
 barxa - sade  
@@ -462,7 +462,6 @@ be hogo - palaa
 be in - mennä sisään  
 be in bum - luhistua (sortua sisään)  
 be islam - alistua (antautua)  
-be jaga - herätä  
 be kai - aueta (avautua)  
 be karibu - lähestyä  
 be kino - liikkua  
@@ -613,13 +612,13 @@ bra son - veljenpoika
 Brahma - Brahma  
 brauza - selata  
 brauzer - selain  
-bravo - rohkea (urhea, uljas)  
-bravo - bravo!  
+brave - rohkea (urhea, uljas)  
+brave - bravo!  
 Brazavil - Brazzaville  
 Brazavil Kongo - Brazzavillen Kongo  
 Brazil - Brasilia  
 briko - aprikoosi (luumu)  
-Britan - Iso-Britannia (Yhdistyneet Kuningaskunnat)  
+Britia - Iso-Britannia (Yhdistyneet Kuningaskunnat)  
 brokoli - parsakaali  
 brom - bromi  
 brox - harja  
@@ -628,13 +627,15 @@ brun varis - ruskea riisi (täysjyväriisi)
 Brunei - Brunei  
 bu! - pöö!  
 bubu - kummitus (mörkö)  
-Buda - Buddha  
-budaisme - buddhalaisuus (buddhismi)  
-budaiste - buddhalainen  
+bude - herätä  
+Bude - Buddha  
+budife - herättää  
+budike - tietoinen (hereillä)  
+budion - ymmärrys (taju, oivallus)  
+budisme - buddhalaisuus (buddhismi)  
+budiste - buddhalainen  
+buda - koppi (koju)  
 Budapexte - Budapest  
-bude - koppi (koju)  
-budi - ymmärrys (taju, oivallus)  
-budi di - valaistunut  
 bufete - noutopöytä (buffetti)  
 buku - kirja  
 bulbul - satakieli  
@@ -643,7 +644,7 @@ bure - toimisto (konttori, byroo)
 burer - sihteeri  
 bureria - sihteeristö  
 burokratia - byrokratia  
-buro riti - etiketti (protokolla)  
+bure rite - etiketti (protokolla)  
 burge - linna (linnake, linnoitus)  
 Burkina Faso - Burkina Faso  
 bus - linja-auto (bussi)  
@@ -1153,7 +1154,6 @@ fa hogo - polttaa
 fa ici - tahtoa  
 fa in - panna sisään  
 fa in klus - sisällyttää (sulkea sisäänsä)  
-fa jaga - herättää  
 fa javabu - vastata  
 fa jela - vangita  
 fa jong - keskittää  
@@ -1343,6 +1343,7 @@ fei gi di kaper - lentokonekaappari
 fei muxu - lepakko  
 • defeke - ulostaa  
 feke - uloste (paska)  
+telefonia - puhelintekniikka  
 femisme - feminismi  
 femiste - feministi  
 fen - osa (lohko, pala)  
@@ -1989,7 +1990,6 @@ itis - tulehdus
 ## J  
 
 ja - tekijä (aikaansaaja)  
-jaga - olla hereillä  
 jai - voittaa (voitto)  
 jaija - voittaja  
 • jai pandunia! - voitto pandunialle!  
@@ -3957,14 +3957,13 @@ tela - kangas
 tela gi - kutomakone (kangaspuut)  
 tele - etäisyys (kaukaisuus)  
 tele di - kaukainen  
-tele fon - puhelin  
-tele fon bude - puhelinkoppi  
-tele fon lin - puhelinjohto  
-tele fon nume - puhelinnumero  
-tele fon suta - puhelintekniikka  
+telefon - puhelin  
+telefon bute - puhelinkoppi  
+telefon lin - puhelinjohto  
+telefon nume - puhelinnumero  
+teleskope - kaukoputki (teleskooppi)  
 teleta - etäisyys  
 tele vide gi - televisio  
-teleskope - kaukoputki (teleskooppi)  
 telurium - telluuri  
 Telugu - telugu (eräs intialainen kieli)  
 tema - aihe (teema)  
@@ -4173,7 +4172,7 @@ Uzbeki - Uzbekistan
 
 va - oho (vau)  
 vaf - koira  
-vaf bude - koirankoppi  
+vaf bute - koirankoppi  
 vaf parke - koiratarha (kennel)  
 vafle - vohveli  
 vagina - emätin (vagina)  

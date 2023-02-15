@@ -16,7 +16,7 @@ acento - balaton
 acesso (acceder) - acese  
 acesso - inlai  
 aconselhar - fa sel  
-acordado - jaga  
+acordado - budike  
 acordo (tratado, contrato) - trati  
 acordo (tratado, contrato) - kontrati  
 acordo - sam rai  
@@ -250,14 +250,14 @@ botão - buton
 boxe - boce  
 boxeador (pugilista) - bocer  
 branco - baku  
-bravo (valente, corajoso) - bravo  
-bravo! - bravo  
+bravo (valente, corajoso) - brave  
+bravo! - brave  
 braço - hanu xaka  
 brocha (pincel) - brox  
 bromo - brom  
 brócolis - brokoli  
 bu! - bu!  
-Buda - Buda  
+Buda - Bude  
 budismo zen - jan buda din  
 bule - cai pote  
 burocracia - burokratia  
@@ -273,8 +273,8 @@ búzio - kauri
 
 cabelo - kapa kexa  
 cabeça - kapa  
-cabine - bude  
-cabine telefônica - tele fon bude  
+cabine - buda  
+cabine telefônica - telefon bute  
 cachimbo - pipe  
 cacto - katus  
 cadeado - pende sor  
@@ -347,7 +347,7 @@ carvalho-roble - europa baluta
 casa (lar) - dom  
 casca (concha) - kaska  
 cascalho - grave  
-casinha de cachorro - vaf bude  
+casinha de cachorro - vaf bute  
 castanho (marrom) - kafe rang  
 Castela - Kastilia  
 castelhano - kastilia baxa  
@@ -566,7 +566,7 @@ desfigurar - fa dus forma
 desfigurar - dusforme  
 deslizar - glis  
 despelado - kexa hin  
-despertar - be jaga  
+despertar - bude  
 destino - kisma  
 destro - dexhanuka  
 deter (prender) - detene  
@@ -1552,7 +1552,7 @@ promécio - prometium
 propulsor (hélice) - propeler  
 prosperar - sucese  
 protacnídio - protacinium  
-protocolo - buro riti  
+protocolo - bure rite  
 protótipo - prototipe  
 prova - dalil  
 proxeneta (cafetão) - sutener  
@@ -1833,7 +1833,7 @@ tectónica de placas - plate geo kaskelogia
 teia de aranha - arane nete  
 tela - pente tela  
 telefonar - fa tele fon  
-telefonia - tele fon suta  
+telefonia - telefonia  
 telescópio - teleskope  
 telha - tegule  
 telhado - cati  

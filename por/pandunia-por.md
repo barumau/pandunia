@@ -218,7 +218,6 @@ be fobi - temer
 be hogo - queimarse  
 be in - entrar  
 be in bum - implodir  
-be jaga - despertar  
 be kino - Mover-se  
 be kux - estar deitado (jazer)  
 be migra - mudar-se  
@@ -269,8 +268,8 @@ borium - bóhrio
 boron - boro  
 botel - garrafa (botelha)  
 bra - irmão  
-bravo - bravo (valente, corajoso)  
-bravo - bravo!  
+brave - bravo (valente, corajoso)  
+brave - bravo!  
 briko - damasco (abricó, ameixa)  
 brokoli - brócolis  
 brom - bromo  
@@ -278,14 +277,16 @@ brox - brocha (pincel)
 brun varis - arroz integral  
 bu! - bu!  
 bubu - bicho-papão  
-Buda - Buda  
-bude - cabine  
+bude - despertar  
+Bude - Buda  
+budike - acordado  
+buda - cabine  
 buku - livro  
 bulbul - rouxinol  
 bum - explosão  
 bure - escritório (birô)  
 burokratia - burocracia  
-buro riti - protocolo  
+bure rite - protocolo  
 burge - forte  
 bus halte - parada de ônibus  
 busu - beijo  
@@ -536,6 +537,7 @@ fatura - conta (fatura)
 fei - voo  
 • defeke - defecar  
 feke - fezes  
+telefonia - telefonia  
 fen - parte  
 fen lize - análise  
 fenol - fenol  
@@ -796,7 +798,6 @@ itis - inflamaçao
 
 ## J  
 
-jaga - acordado  
 • ajame - encontrar  
 jame karte - cromo  
 jamul - jambolão (jambo)  
@@ -1799,8 +1800,7 @@ tehne - técnica
 tehnetium - tecnécio  
 tela - fazenda (tecido)  
 tela gi - tear  
-tele fon bude - cabine telefônica  
-tele fon suta - telefonia  
+telefon bute - cabine telefônica  
 teleskope - telescópio  
 telurium - telúrio  
 tema nam - título  
@@ -1886,7 +1886,7 @@ uzike - útil
 
 va - uau  
 vaf - cão (cachorro)  
-vaf bude - casinha de cachorro  
+vaf bute - casinha de cachorro  
 vaf parke - canil  
 vafle - waffle  
 vagina - vagina  

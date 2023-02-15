@@ -166,7 +166,6 @@ be fatige - 疲れる (疲労する)
 be fobi - 恐れる  
 be halte - 止まる  
 be hogo - 燃える  
-be jaga - 起きる  
 be kino - 動く  
 be kux - 寝転ぶ  
 be pute - 腐敗  
@@ -231,14 +230,15 @@ brom - 臭素
 brox kalam - 筆 (毛筆)  
 brun varis - 玄米  
 bu! - ばあ  
-Buda - 仏陀  
-bude - ブース  
+bude - 起きる  
+Bude - 仏陀  
+buda - ブース  
 bufete - ビュッフェ (バイキング)  
 buku - 本 (書物)  
 bum - 爆発  
 burer - 秘書  
 burokratia - 官僚制  
-buro riti - 公式 (礼法, プロトコル)  
+bure rite - 公式 (礼法, プロトコル)  
 burge - 要塞  
 bus halte - バス停  
 bute - バター (牛酪)  
@@ -1638,8 +1638,8 @@ tehne - 技術
 tehnetium - テクネチウム  
 tela - 布  
 tela gi - 織機  
-tele fon - 電話  
-tele fon bude - 電話ボックス  
+telefon - 電話  
+telefon bute - 電話ボックス  
 teleskope - 望遠鏡 (テレスコープ)  
 telurium - テルル  
 tema nam - 題名 (書名, タイトル)  
@@ -1718,7 +1718,7 @@ uzebil - 使用可能
 
 va - わあ  
 vaf - 犬 (狗)  
-vaf bude - 犬小屋  
+vaf bute - 犬小屋  
 vafle - ワッフル  
 vagina - 膣 (ワギナ)  
 vai - 外  

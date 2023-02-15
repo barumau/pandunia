@@ -197,7 +197,6 @@ be boi - 漂浮
 be fatige - 疲劳  
 be fobi - 害怕  
 be hogo - 烧  
-be jaga - 睡醒  
 be kino - 动  
 be kux - 躺  
 be mal - 属于  
@@ -264,8 +263,9 @@ brox - 笔
 brox kalam - 毛笔  
 brun varis - 糙米  
 bubu - 魔鬼  
-Buda - 佛陀  
-bude - 亭  
+bude - 睡醒  
+Bude - 佛陀  
+buda - 亭  
 bufete - 自助餐  
 buku - 书  
 bulbul - 夜莺  
@@ -1648,11 +1648,11 @@ tehnetium - 锝
 tehnologia - 工艺学  
 tela - 布料  
 tela gi - 织机  
-tele fon - 电话机  
-tele fon bude - 电话亭  
-tele fon lin - 电话线  
-tele vide gi - 电视机  
+telefon - 电话机  
+telefon bute - 电话亭  
+telefon lin - 电话线  
 teleskope - 望远镜  
+tele vide gi - 电视机  
 telurium - 碲  
 tema - 主题目  
 tema nam - 标题  
@@ -1728,7 +1728,7 @@ uzife - 运用
 
 va - 哇  
 vaf - 狗  
-vaf bude - 狗屋  
+vaf bute - 狗屋  
 vafle - 窝夫  
 vagina - 阴道  
 vai - 外  

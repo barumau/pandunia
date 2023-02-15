@@ -216,7 +216,6 @@ be dura - длиться
 be fatige - устать  
 be fobi - бояться (страшиться)  
 be in bum - взрываться вовнутрь  
-be jaga - проснуться  
 be kino - двигаться  
 be kux - лежать  
 be mal - принадлежать  
@@ -282,15 +281,16 @@ bra - брат
 Brahma - Брахма  
 brauza - исследовать  
 brauzer - браузер  
-bravo - браво  
+brave - браво  
 briko - абрикос (слива)  
 brokoli - брокколи  
 brom - бром  
 brox - щётка  
 bu! - бу  
 bubu - бука  
-Buda - Будда  
-bude - будка (кабина)  
+bude - проснуться  
+Bude - Будда  
+buda - будка (кабина)  
 bufete - буфет  
 buku - книга  
 bulbul - соловей  
@@ -298,7 +298,7 @@ bum - взрыв
 bure - контора (бюро, офис)  
 bural - казённый (формальный)  
 burokratia - бюрократия  
-buro riti - этикет (протокол)  
+bure rite - этикет (протокол)  
 burge - крепость (форт)  
 bus - автобус  
 bus halte - автобусная остановка  
@@ -575,6 +575,7 @@ fatura - счёт (фактура)
 faze - фаза  
 fei - полёт  
 fei muxu - летучая мышь  
+telefonia - телефония  
 fen - parte  
 fen lize - анализировать (анализ)  
 fenol - фенол  
@@ -1852,12 +1853,11 @@ tehnetium - технеций
 tehnologia - технология  
 tela - ткань  
 tela gi - ткацкий станок  
-tele fon - телефон  
-tele fon bude - телефонная будка  
-tele fon lin - телефонная линия  
-tele fon suta - телефония  
-tele vide gi - телевизор  
+telefon - телефон  
+telefon bute - телефонная будка  
+telefon lin - телефонная линия  
 teleskope - телескоп  
+tele vide gi - телевизор  
 telurium - теллур  
 tema - тема  
 tema nam - название (пьесы, заголовок)  
@@ -1949,7 +1949,7 @@ uzike - полезный (практичный)
 
 va - вау!  
 vaf - собака  
-vaf bude - конура (собачья будка)  
+vaf bute - конура (собачья будка)  
 vaf parke - псарня  
 vafle - вафля  
 vagina - влагалище (вагина)  

@@ -117,7 +117,7 @@
 **bari** *heavy (requiring much effort, hard, difficult, serious, important, etc.)* ← Hindi:भारी (bhārī), Bengali:ভারী (bharī), Malay:berat, Telugu:బరువు (baruvu), Persian: بار‎ (bâr), Greek: βαρύς (barýs) + Korean:바리 (bari)  
 **barium** *barium* ← English:barium, French:baryum, Spanish:bario, Portuguese:bário, Russian:барий, Mandarin:钡 (bèi), Japanese:バリウム, Korean:바륨, Vietnamese:bari, Hindi:बेरियम, Bengali:বেরিয়াম, Malay:barium, Swahili:bari, Arabic: باريوم  
 **barke** *congratulate (bless)* ← Hausa:barka, Malay:berkah, Turkish:tebrik, Persian:(tabrik), Arabic:Urdu:(mubārak), Swahili:baraka, hau:albarka, Yoruba:alubarika  
-**barti** *Indian* ← Hindi:भारतीय (bhārtīy), Urdu:(bhārtīy), Marathi:(bhārtīya), Telugu:(bhāratīya)  
+**barte** *Indian* ← Hindi:भारतीय (bhārtīy), Urdu:(bhārtīy), Marathi:(bhārtīya), Telugu:(bhāratīya)  
 **baru** *bear* ← deu:Bär, English:bear + Hindi:भालू (bhālū) Bengali:ভালুক (bhaluk) + Malay:beruang  
 **barude** *gunpowder* ← Arabic: بَارُود (bārūd), Turkish:barut, Persian: بارود‎ (bârud), Hindi:बारूद (bārūd), Bengali:বারুদ (barud), Swahili:baruti, Fulani:barudu  
 **barxa** *rain (precipitation)* ← Persian: باران‎ (bârân), Turkish:baran, Hindi:बारिश (bāriś);  वर्षा (varṣā, Bengali:বৃষ্টি (briśṭi)  
@@ -187,13 +187,13 @@
 **botel** *bottle* ← English:bottle, French:bouteille, Spanish:botella, Portuguese:botelha, Russian:бутылка (butylka), Persian: بطری‎ (botri), Hindi:बोतल (botal), Bengali:বোতল (botôl), Malay:botol, Tamil:புட்டி (puṭṭi)  
 **bra** *brother* ← Greek:φράτηρ (phrater), English:brother, Portuguese:brada; bródi, Russian:брат (brat), Persian: برادر‎ (barâdar), Hindi:बिरादर (birādar), Bengali:বেরাদর (beradôr), Malay:bruder, Japanese:ブラザー (burazā), Korean:브라더 (beuradeo), Turkish:birader, Swahili:bradha  
 **brauzer** *browser* ← English:browser, deu:Browser, Russian:браузер (brauzer), Hindi:ब्राउज़र (brauzar), Bengali:ব্রাউজার (brā'ujāra), Japanese:ブラウザ (burauzā)  
-**bravo** *brave (gallant, valiant)* ← English:French:brave, Russian:бравый (braviy), Portuguese:bravo, Arabic:(brāvo)  
+**brave** *brave (gallant, valiant)* ← English:French:brave, Russian:бравый (braviy), Portuguese:bravo, Arabic:(brāvo)  
 **briko** *apricot (plum, peach)* ← Arabic:(barqūq), English:apricot, French:abricot, Spanish:albaricoque, Portuguese:abricó, Russian:абрикос (abrikos), Filipino:albarikoke, Swahili:aprikoti  
 **brom** *bromine* ← English:bromine, French:brome, Spanish:bromo, Portuguese:bromo, Russian:бром, Korean:브롬, Vietnamese:brom, Hindi:ब्रोमिन, Bengali:ব্রোমিন, Malay:brom, Swahili:bromi, Arabic: بروم  
 **brox** *brush* ← English:brush, French:brosse, Spanish:Portuguese:brocha, Japanese:ブラシ (burashi), Korean:브러시 (beureosi), Hindi:ब्रश (braś), Bengali:ব্রাশ (braś), Hausa:Swahili:burashi, Persian:(boros), Malay:berus, Arabic: فُرْشَاة‎ (furšāh), Turkish:fırça  
 **bu!** *boo!* ← English:boo, French:bouh, Portuguese:Spanish:bu, Russian:бу (bu), Korean:부 (bu) + Hindi:भूत (bhūt)  
-**bude** *booth (cabin, stall, stand)* ← deu:Bude, English:booth, Russian:будка (budka), Hindi:बूथ (būth), Bengali:বুথ (buth), Japanese:ブース (būsu), Korean:부스 (buseu), Vietnamese:bốt  
-**budi** *realization (awareness, enlightenment, bodhi)* ← Sanskrit:बोधि (bodhi), Hindi:बुद्धि (buddhi), Japanese:菩提 (bodai), Mandarin:菩提 (pútí), mon:бодь (bodʹ), Korean:보리 (bori), Vietnamese:Bụt, Thai:โพธิ (potí) + Russian:будить  
+**buda** *booth (cabin, stall, stand)* ← deu:Bude, English:booth, Russian:будка (budka), Hindi:बूथ (būth), Bengali:বুথ (buth), Japanese:ブース (būsu), Korean:부스 (buseu), Vietnamese:bốt  
+**bude** *wake* ← Sanskrit:बोधि (bodhi), Hindi:बुद्धि (buddhi), Japanese:菩提 (bodai), Mandarin:菩提 (pútí), mon:бодь (bodʹ), Korean:보리 (bori), Vietnamese:Bụt, Thai:โพธิ (potí) + Russian:будить  
 **bufete** *buffet (smorgasbord)* ← French:buffet, English:buffet, Spanish:bufé, Portuguese:bufete, deu:Büfett, Russian:буфет (bufet), Mandarin:部飛 (bùfēi), Japanese:ビュッフェ (byuffe), Korean:뷔페 (bwipe), Malay:bufet, Swahili:bufee  
 **buku** *book* ← English:book, deu:Buch, Malay:buku, Swahili:buku, French:bouquin, Hindi:बुक (buk)  
 **bulbul** *nightingale* ← Arabic: بلبل‎ (bulbul), Persian:(bolbol), Hindi:बुलबुल (bulbul), Malay:bulbul, Turkish:bülbül  
@@ -619,7 +619,6 @@
 **ite** *stone (piece of rock)* ← English:French:-ite, Spanish:Portuguese:-ito, Russian:-ит (-it) + (brick) Bengali:ইট (iṭ), Hindi:ईंट (ī̃ṭ), Thai:อิฐ (it), Khmer:ឥដ្ឋ (ʼət), Burmese: အုတ် (ut)  
 **itis** *inflammation (-itis)* ← English:Spanish:-itis, French:Portuguese:-ite, Russian:-ит (-it)  
 **ja** *doer (agent, actor, -er, -ist)* ← Mandarin:者 (zhě);家 (jiă), Korean:자 (ja), Vietnamese:gia  
-**jaga** *awake* ← Hindi:जागना (jāgnā), Bengali:জাগা (jaga), pan:ਜਾਗਣਾ (jāgṇā), Marathi:जागणे (j̈āgṇe), Gujarati:જાગવું (jāgvũ), Malay:jaga  
 **jai** *win (triumph, victory, gain, succeed)* ← Hindi:जय (jay), Bengali:জয় (jôy), Telugu:జయ (jaya), Malay:jaya, Thai:ชัย (chai), Khmer:ជ័យ (cɨy), Burmese:ဇေယျ (jeyya)  
 **jain din** *Jainism* ← Hindi:Marathi:जैन (jain), Thai:เชน (chen), English:jainism, French:jaïnisme, Russian:джайнизм (džaynizm)  
 **jake** *jacket* ← English:jacket, Mandarin:夹克 (jiākè), Russian:жакет (žaket), deu:Jacke, Portuguese:jaqueta  

@@ -312,8 +312,7 @@ autumn (fall) - pada mosim
 auxiliary verb that marks future tense (will, shall) - xa  
 avert - deverse  
 avocado - avakate  
-awake - jaga  
-aware (enlightened) - budi di  
+awake (aware) - budike  
 axe (hatchet) - futau  
 axis (axle) - axe  
 Azerbaijan - Azeria  
@@ -523,7 +522,7 @@ bonus - bon max xe
 boo! - bu!  
 book - buku  
 boot - buta  
-booth (cabin, stall, stand) - bude  
+booth (cabin, stall, stand) - buda  
 border (edge, fringe, margin, rim, side, shore, periphery) - kinar  
 bored - bori di  
 boredom - bori  
@@ -553,8 +552,8 @@ Brahma - Brahma
 brain - nau  
 brainless - nau hin  
 branch (bough, limb, arm) - xaka  
-brave (gallant, valiant) - bravo  
-bravo! - bravo  
+brave (gallant, valiant) - brave  
+bravo! - brave  
 Brazil - Brazil  
 Brazzaville - Brazavil  
 bread - ban  
@@ -588,9 +587,9 @@ brush - brox
 bubble - xiu bol  
 bucket - baldi  
 Budapest - Budapexte  
-Buddha - Buda  
-Buddhism - budaisme  
-Buddhist - budaiste  
+Buddha - Bude  
+Buddhism - budisme  
+Buddhist - budiste  
 budget - pesa plan  
 buffet (smorgasbord) - bufete  
 bugle (horn instrument) - laba  
@@ -1256,7 +1255,7 @@ documentary film - dokumen filme
 doer (agent) - feter  
 doer (agent, actor, -er, -ist) - ja  
 dog - vaf  
-doghouse (dog shelter) - vaf bude  
+doghouse (dog shelter) - vaf bute  
 doll (puppet) - pupe  
 dollar - dolar  
 dolphin - dolfin  
@@ -1433,7 +1432,7 @@ Ethiopia - Etiopia
 ethnic - zuku di  
 ethnic group - zuku  
 ethyl - etil  
-etiquette (protocol, procedure) - buro riti  
+etiquette (protocol, procedure) - bure rite  
 etymology - lexasle  
 eugenics - eugenisme  
 Eurasia - Eurasia  
@@ -2137,10 +2136,10 @@ increase - maxife
 incredible (unbelievable) - ankredebil  
 increment - max gradu  
 indeterminate (uncertain, indefinite, undecided) - anding  
-India - Barti  
-Indian - barti  
+India - Bartia  
+Indian - barte  
 Indian chrysanthemum - nafte guku  
-Indian Ocean - Barti Bahai  
+Indian Ocean - Barte Bahai  
 indicate (point into) - indike  
 indium - hindium  
 individual (single person) - monike  
@@ -3654,7 +3653,7 @@ real (actual, existing) - real
 realism - realisme  
 realist - realiste  
 reality - realta  
-realization (awareness, enlightenment, bodhi) - budi  
+realization (awareness, enlightenment, bodhi) - budion  
 realize (understand) - fa budi  
 realize (understand; aha) - aha  
 reanimate - reanimate  
@@ -4386,11 +4385,11 @@ technocracy - tehnokratia
 technology (study of techniques) - tehnologia  
 tectonic plate - geo kaska plate  
 telegram - telegrame  
-telephone - tele fon  
-telephone booth - tele fon bude  
-telephone line - tele fon lin  
-telephone number - tele fon nume  
-telephony (telephone communication) - tele fon suta  
+telephone - telefon  
+telephone booth - telefon bute  
+telephone line - telefon lin  
+telephone number - telefon nume  
+telephony (telephone communication) - telefonia  
 teleport - be tele loka  
 telescope - teleskope  
 television - tele vide gi  
@@ -4640,7 +4639,7 @@ unit (measurement) - metri unta
 unite (merge, integrate) - fa un xe  
 united - un ta di  
 United Arab Emirates - Unta Arabi Amir Dexa (UAA)  
-United Kingdom - Britan  
+United Kingdom - Britia  
 United States of America (USA) - Unta Dex de Amerika (UDA)  
 unity - unta  
 universal - un verse di  
@@ -4747,8 +4746,8 @@ vulva - vulva
 waffle - vafle  
 wait (delay) - dele  
 wait for - dele to  
-wake (become awake) - be jaga  
-wake (make awake) - fa jaga  
+wake (make awake) - budife  
+wake - bude  
 Wales (Cambria) - Kamri  
 walk (march) - fa marce  
 walk (march) - marce  

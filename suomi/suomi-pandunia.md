@@ -308,15 +308,15 @@ Bosnia ja Hertsegovina - Bosna i Hercegovina
 Botswana - Cuana  
 Brahma - Brahma  
 Brasilia - Brazil  
-bravo! - bravo  
+bravo! - brave  
 Brazzaville - Brazavil  
 Brazzavillen Kongo - Brazavil Kongo  
 bromi - brom  
 Brunei - Brunei  
 Budapest - Budapexte  
-Buddha - Buda  
-buddhalainen - budaiste  
-buddhalaisuus (buddhismi) - budaisme  
+Buddha - Bude  
+buddhalainen - budiste  
+buddhalaisuus (buddhismi) - budisme  
 budjetti - pesa plan  
 Bulgaria - Bolgaria  
 Burkina Faso - Burkina Faso  
@@ -514,7 +514,7 @@ Etelä-Ossetia - Sude Iria (Alonia)
 Etelä-Sudan - Sude Sudan  
 Eteläinen Jäämeri - Antartika Bahai  
 etiikka (moraalioppi) - moral logia  
-etiketti (protokolla) - buro riti  
+etiketti (protokolla) - bure rite  
 etikka - vin suan  
 Etiopia - Etiopia  
 etninen - zuku di  
@@ -744,8 +744,8 @@ hermosärky (neuralgia) - neuralgia
 hermotulehdus (neuriitti) - neuritis  
 herra tai rouva - xi  
 hertsi (Hz) - herze  
-herättää - fa jaga  
-herätä - be jaga  
+herättää - budife  
+herätä - bude  
 Hessen - Hese  
 heteroromanttinen - alo romanse di  
 heteroseksuaali - alo sexe di  
@@ -944,10 +944,10 @@ inkivääri - ginge
 insinööri - engener  
 insinööritaito - engenia  
 internet - internete  
-Intia - Barti  
+Intia - Bartia  
 intiaani (Amerikan alkuperäisasukas) - aslamerikan  
-intialainen - barti  
-Intian valtameri - Barti Bahai  
+intialainen - barte  
+Intian valtameri - Barte Bahai  
 into (kiihko) - zelo  
 introspektio - in vide  
 introspektio - introspete  
@@ -965,7 +965,7 @@ islam - islamisme
 islamofobia (islamin pelko) - islamofobia  
 Islanti - Islande  
 iso (suuri) - dai  
-Iso-Britannia (Yhdistyneet Kuningaskunnat) - Britan  
+Iso-Britannia (Yhdistyneet Kuningaskunnat) - Britia  
 isoisä - cin pa  
 isosisko - sen sis  
 isovanhempi - cin cin  
@@ -1476,7 +1476,7 @@ kohti (päin) - pro
 kohti (päin) - verse  
 koinee-kreikka - kon helen baxa  
 koira - vaf  
-koirankoppi - vaf bude  
+koirankoppi - vaf bute  
 koiratarha (kennel) - vaf parke  
 koivu - betula  
 kokata (laittaa ruokaa) - kuke  
@@ -1532,7 +1532,7 @@ koota (kerätä) - jame
 kopio (jäljennös) - kopi  
 kopioida (jäljentää) - fa kopi  
 kopiointioikeus (tekijänoikeus) - kopi haki  
-koppi (koju) - bude  
+koppi (koju) - buda  
 koraani - kuran  
 koralli - koral  
 Korea - cosen  
@@ -2541,7 +2541,6 @@ olkapää (hartia) - kanta
 olla (omistaa) - ha  
 olla - es  
 olla eri mieltä - fa alo rai  
-olla hereillä - jaga  
 olla jtkn mieltä (pitää jnkn) - fa rai  
 olla linjassa - be ging  
 olla nimeltään - be nam  
@@ -2962,11 +2961,11 @@ puhdas (siivo, siisti) - saf
 puhdistaa (siivota) - fa saf  
 puhelias - logive  
 puhelin - fon  
-puhelin - tele fon  
-puhelinjohto - tele fon lin  
-puhelinkoppi - tele fon bude  
-puhelinnumero - tele fon nume  
-puhelintekniikka - tele fon suta  
+puhelin - telefon  
+puhelinjohto - telefon lin  
+puhelinkoppi - telefon bute  
+puhelinnumero - telefon nume  
+puhelintekniikka - telefonia  
 puhtaus - safta  
 puhua (kieli, kommunikaatio) - baxe  
 pukea (vaatettaa) - fa fuku  
@@ -3175,7 +3174,7 @@ rivinvaihto - lin parce
 robotti - robote  
 rodium - rodium  
 roentgenium - rentegenium  
-rohkea (urhea, uljas) - bravo  
+rohkea (urhea, uljas) - brave  
 roikuttaa - pende  
 rokki (rock) - roke musike  
 rokote - vasin  
@@ -3839,6 +3838,7 @@ tiedottaa (informoida) - fa kon sabi
 tiehyt - tubule  
 tieto (tietämys) - san xe  
 tieto - kon sabi  
+tietoinen (hereillä) - budike  
 tietojenkäsittely - data culi  
 tietojenkäsittelytiede - data culi logia  
 tietokanta - data banke  
@@ -4138,7 +4138,6 @@ vain (ainoa, ainut) - un di
 vaivata (hieroa) - fa masaje  
 vaivautua - be turbe  
 vajaa - hipe  
-valaistunut - budi di  
 valinnainen (optionaalinen) - otional  
 valita (valinta) - cun  
 valitus (reklamaatio) - xikaye  
@@ -4469,7 +4468,7 @@ yllä (pääll) - a supra
 yllätys - supriza  
 ylä- (yli-) - supra di  
 yläaste ja lukio - jong xulakan  
-ymmärrys (taju, oivallus) - budi  
+ymmärrys (taju, oivallus) - budion  
 ymmärtää (oivaltaa) - fa budi  
 ymmärtää väärin - galte budi  
 ympäristö- (luonto-) - ekal  

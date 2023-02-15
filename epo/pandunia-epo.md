@@ -185,8 +185,8 @@ barbar - barbaro
 barde - barbo  
 bari metal - pezmetalo  
 barke - gratuli  
-Barti - Baratio  
-barti - Barata  
+barte - Barata  
+Bartia - Baratio  
 baru - urso  
 barude - pulvo  
 barxa - pluvo  
@@ -309,18 +309,18 @@ botel - botelo
 botel tape - botelfermilo  
 bra - frato  
 Brahma - Bramo  
-bravo - brava  
-bravo - brave!  
+brave - brava  
+brave - brave!  
 Brazil - Brazilo  
 briko - abrikoto (pruno)  
 brokoli - brokolo  
 brom - bromo  
 brox - broso  
-Buda - Budho  
-budaisme - budhismo  
-budaiste - budhisto  
-budi - kompreno  
-budi di - konscia  
+Bude - Budho  
+budike - konscia  
+budion - kompreno  
+budisme - budhismo  
+budiste - budhisto  
 buku - libro  
 bulbul - najtingalo  
 bum - eksplodo  
@@ -972,7 +972,6 @@ ite - ŝtono
 ## J  
 
 ja - isto (anto)  
-jaga - uyanık  
 jai - venki  
 jain din - Ĝajnismo  
 jake - jako  
@@ -1961,10 +1960,10 @@ tehnetium - teknecio
 tehnologia - teknologio  
 tele - malproksimeco  
 tele di - malproksima  
-tele fon - telefono  
+telefon - telefono  
 telegrame - sähkösanoma  
-tele vide gi - televidilo  
 teleskope - teleskopo  
+tele vide gi - televidilo  
 telurium - teluro  
 tema - temo (esti pri; pridiskuti)  
 tenesium - teneso  
@@ -2048,7 +2047,7 @@ uzike - utila
 
 va - ŭaŭ!  
 vaf - hundo  
-vaf bude - hundujo  
+vaf bute - hundujo  
 vaf parke - hundejo  
 vafle - vaflo  
 vagina - vagino  

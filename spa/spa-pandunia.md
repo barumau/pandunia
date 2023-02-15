@@ -506,7 +506,7 @@ botánica - fitologia
 boxeador - bocer  
 boxeo - boce  
 Brasil - Brazil  
-bravo! - bravo  
+bravo! - brave  
 brazo - hanu xaka  
 Brazzaville - Brazavil  
 brillante (luminoso) - ming  
@@ -518,10 +518,10 @@ Brunei - Brunei
 brócoli (brécol) - brokoli  
 brújula - dike pin  
 bu! - bu!  
-Buda - Buda  
-budismo - budaisme  
+Buda - Bude  
+budismo - budisme  
 budismo zen - jan buda din  
-budista - budaiste  
+budista - budiste  
 buen provecho - sal yam  
 buena suerte - bon zar  
 buenas noches - sal xam  
@@ -556,8 +556,8 @@ búbalo (arni) - karbau
 caballo - uma  
 cabello - kapa kexa  
 cabeza - kapa  
-cabina (garita) - bude  
-cabina telefónica - tele fon bude  
+cabina (garita) - buda  
+cabina telefónica - telefon bute  
 cable - eletroline  
 cable - kable  
 Cabo Verde - Kabu Verde  
@@ -891,7 +891,7 @@ compota de manzanas - aple sos
 comprador - xoper  
 comprar - fa xopi  
 compras (shopping) - xope  
-comprensión (entendimiento) - budi  
+comprensión (entendimiento) - budion  
 computadora (ordenador) - konputer  
 comunicar (informar) - fa kon sabi  
 comunismo - koncanisme  
@@ -901,7 +901,6 @@ con (común) - kon
 concentración - fa fokus  
 concentrar (enfocarse) - foku  
 conceptual (ideal) - ideal  
-concienciado (iluminado) - budi di  
 concierto - konserte  
 concreto (hormigón) - beton  
 condición (requisito, estipulación) - xarti  
@@ -1191,9 +1190,9 @@ desfigurar - dusforme
 desierto - sablestan  
 deslizar - glis  
 desnudo - nude  
-despertar - fa jaga  
-despertarse - be jaga  
-despierto - jaga  
+despertar - budife  
+despertarse - bude  
+despierto (concienciado) - budike  
 desplumar - depena  
 despreciar (desdeñar) - fa paraya  
 destapar - andake  
@@ -1519,7 +1518,7 @@ etilo - etil
 etimología - lexasle  
 Etiopía - Etiopia  
 etiqueta (boleto, billete) - tikete  
-etiqueta (protocolo) - buro riti  
+etiqueta (protocolo) - bure rite  
 etnia - zuku  
 Eurasia - Eurasia  
 euro - euro  
@@ -2012,9 +2011,9 @@ incluido - in klus
 incluir - fa in klus  
 inclusivo - in klus di  
 indeterminado (incierto, indefinido) - anding  
-India - Barti  
+India - Bartia  
 indicador (cursor) - diker  
-indio (hindú) - barti  
+indio (hindú) - barte  
 indium - hindium  
 individuo - monike  
 Indo - Hinde rivo  
@@ -2838,7 +2837,7 @@ océano Antártico - Antartika Bahai
 océano Atlántico - Atlanti Bahai  
 océano Pacífico - Pace Bahai  
 océano Ártico - Artika Bahai  
-océano Índico - Barti Bahai  
+océano Índico - Barte Bahai  
 oda - ode  
 odiar - fa hen  
 odio - hen  
@@ -3074,7 +3073,7 @@ perla - jenju
 permitido (admisible) - halal  
 permitir (dejar) - fa halal  
 pero (sino) - ama  
-perrera - vaf bude  
+perrera - vaf bute  
 perro - vaf  
 persona (ista, -ador) - jen  
 personal (privado, a medida) - jen di  
@@ -3441,7 +3440,7 @@ reina - ni reger
 reinar (gobernar) - fa sultan  
 reinar (reinar como emperador) - impere  
 reino - regia  
-Reino Unido - Britan  
+Reino Unido - Britia  
 relatar (narrar) - fa kata  
 religioso - din di  
 religión - din  
@@ -3860,8 +3859,8 @@ tela - pente tela
 telar - tela gi  
 telaraña - arane nete  
 telefonear - fa tele fon  
-telefono - tele fon  
-telefonía - tele fon suta  
+telefono - telefon  
+telefonía - telefonia  
 telescopio - teleskope  
 teletransportarse - be tele loka  
 televisión - tele vide gi  

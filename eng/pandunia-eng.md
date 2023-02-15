@@ -398,9 +398,9 @@ bari - heavy (requiring much effort, hard, difficult, serious, important, etc.)
 bari metal - heavy metal  
 barke - congratulate (bless)  
 barke - congratulations! (blessing, benediction)  
-Barti - India  
-barti - Indian  
-Barti Bahai - Indian Ocean  
+barte - Indian  
+Barte Bahai - Indian Ocean  
+Bartia - India  
 baru - bear  
 barude - gunpowder  
 barxa - rain (precipitation)  
@@ -475,7 +475,6 @@ be hogo - burn (be burned)
 be in - enter (get in)  
 be in bum - implode (collapse)  
 be islam - surrender (submit, yield)  
-be jaga - wake (become awake)  
 be kai - become open  
 be karibu - approach (get near)  
 be kino - move oneself  
@@ -627,13 +626,13 @@ bra son - fraternal nephew
 Brahma - Brahma  
 brauza - explore (browse)  
 brauzer - browser  
-bravo - brave (gallant, valiant)  
-bravo - bravo!  
+brave - brave (gallant, valiant)  
+brave - bravo!  
 Brazavil - Brazzaville  
 Brazavil Kongo - Congo (Brazzaville)  
 Brazil - Brazil  
 briko - apricot (plum, peach)  
-Britan - United Kingdom  
+Britia - United Kingdom  
 brokoli - broccoli  
 brom - bromine  
 brox - brush  
@@ -642,13 +641,15 @@ brun varis - brown rice
 Brunei - Brunei Darussalam  
 bu! - boo!  
 bubu - bogeyman (ghost)  
-Buda - Buddha  
-budaisme - Buddhism  
-budaiste - Buddhist  
+bude - wake  
+Bude - Buddha  
+budife - wake (make awake)  
+budike - awake (aware)  
+budion - realization (awareness, enlightenment, bodhi)  
+budisme - Buddhism  
+budiste - Buddhist  
+buda - booth (cabin, stall, stand)  
 Budapexte - Budapest  
-bude - booth (cabin, stall, stand)  
-budi - realization (awareness, enlightenment, bodhi)  
-budi di - aware (enlightened)  
 bufete - buffet (smorgasbord)  
 buku - book  
 bulbul - nightingale  
@@ -659,7 +660,7 @@ burer - secretary (clerk)
 bureria - secretariat  
 burokan - office (room)  
 burokratia - bureaucracy  
-buro riti - etiquette (protocol, procedure)  
+bure rite - etiquette (protocol, procedure)  
 burge - fortress (castle, fort, stronghold)  
 Burkina Faso - Burkina Faso  
 bus - bus  
@@ -1203,7 +1204,6 @@ fa hogo - burn (cause to burn)
 fa ici - will (want)  
 fa in - enter (insert, put in)  
 fa in klus - include (enclose, hold in)  
-fa jaga - wake (make awake)  
 fa jang - fight (do battle, make war)  
 fa javabu - respond (give an answer)  
 fa jela - imprison (jail)  
@@ -1403,6 +1403,7 @@ fei gi tikete - plane ticket
 fei muxu - bat (flying mammal)  
 • defeke - defecate  
 feke - feces (shit, poop)  
+telefonia - telephony (telephone communication)  
 femisme - feminism  
 femiste - feminist  
 fen - part (component, segment, fraction, distinct element of something larger)  
@@ -2094,7 +2095,6 @@ itis - inflammation (-itis)
 ## J  
 
 ja - doer (agent, actor, -er, -ist)  
-jaga - awake  
 jai - win (triumph, victory, gain, succeed)  
 jaibai - outcome (victory or defeat)  
 jaija - winner (victor)  
@@ -4372,15 +4372,14 @@ tela - cloth (fabric, textile)
 tela gi - loom  
 tele - distance (far away)  
 tele di - far  
-tele fon - telephone  
-tele fon bude - telephone booth  
-tele fon lin - telephone line  
-tele fon nume - telephone number  
-tele fon suta - telephony (telephone communication)  
+telefon - telephone  
+telefon bute - telephone booth  
+telefon lin - telephone line  
+telefon nume - telephone number  
 telegrame - telegram  
+teleskope - telescope  
 teleta - distance (length)  
 tele vide gi - television  
-teleskope - telescope  
 telurium - tellurium  
 Telugu - Telugu  
 tema - topic (subject, theme; be about)  
@@ -4602,7 +4601,7 @@ Uzbeki - Uzbekistan
 
 va - wow! (gee!)  
 vaf - dog  
-vaf bude - doghouse (dog shelter)  
+vaf bute - doghouse (dog shelter)  
 vaf parke - kennel (facility)  
 vafle - waffle  
 vagina - vagina  

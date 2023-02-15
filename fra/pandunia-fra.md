@@ -276,9 +276,9 @@ barde - barbe
 bari metal - métaux lourds  
 barke - féliciter  
 barke - Félicitations !  
-Barti - Inde  
-barti - indien  
-Barti Bahai - océan Indien  
+barte - indien  
+Barte Bahai - océan Indien  
+Bartia - Inde  
 baru - ours  
 barude - poudre à canon  
 barxa - pluie  
@@ -369,8 +369,8 @@ boron - boron
 botel - bouteille  
 botel tape - capsule  
 bra - frère  
-bravo - brave  
-bravo - bravo!  
+brave - brave  
+brave - bravo!  
 briko - abricot (prune)  
 brokoli - brocoli  
 brom - brome  
@@ -378,14 +378,15 @@ brox - brosse
 brun varis - riz complet  
 bu! - bouh!  
 bubu - croque-mitaine  
-Buda - Bouddha  
-bude - cabine  
+Bude - Bouddha  
+budike - éveillé  
+buda - cabine  
 buku - livre  
 bulbul - rossignol  
 bum - explosion  
 bure - bureau (office)  
 burokratia - bureaucratie  
-buro riti - protocole  
+bure rite - protocole  
 burge - fort  
 bus - bus  
 bus halte - arrêt de bus  
@@ -974,7 +975,6 @@ itis - inflammation
 
 ## J  
 
-jaga - éveillé  
 jai - vaincre  
 jain din - jaïnisme  
 jame karte - carte à collectionner  
@@ -2044,11 +2044,11 @@ tehnetium - technétium
 tehnologia - technologie  
 tela - tissu  
 tela gi - métier à tisser  
-tele fon - téléphone  
-tele fon bude - cabine téléphonique  
-tele fon lin - ligne téléphonique  
-tele vide gi - téléviseur  
+telefon - téléphone  
+telefon bute - cabine téléphonique  
+telefon lin - ligne téléphonique  
 teleskope - télescope (lunette)  
+tele vide gi - téléviseur  
 telurium - tellure  
 tema - sujet (thème)  
 tema nam - titre  
@@ -2150,7 +2150,7 @@ uzike - utile
 
 va - ouah  
 vaf - chien  
-vaf bude - niche (de chien)  
+vaf bute - niche (de chien)  
 vaf parke - chenil  
 vafle - gaufre  
 vagina - vagine  

@@ -363,9 +363,9 @@ bari -
 bari metal - metal ciężki  
 barke - gratulować; błogosławić  
 barke - gratulacje!  
-Barti - Indie  
-barti - Indyjski  
-Barti Bahai - Ocean Indyjski  
+barte - Indyjski  
+Barte Bahai - Ocean Indyjski  
+Bartia - Indie  
 baru - niedźwiedź  
 barude - proch strzelniczy  
 barxa - deszcz  
@@ -440,7 +440,6 @@ be hogo - spłonąć, płonąć
 be in -   
 be in bum - implodować  
 be islam - poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym  
-be jaga -   
 be kai - otworzyć się, otwierać się  
 be karibu - zbliżać się (zbliżyć się)  
 be kino -   
@@ -592,13 +591,13 @@ bra son -
 Brahma -   
 brauza - poszukiwać (badać, eksplorować, przeglądać, wyszukiwać)  
 brauzer -   
-bravo - Odwarzny (  
-bravo - brawo (gratulacje)  
+brave - Odwarzny (  
+brave - brawo (gratulacje)  
 Brazavil -   
 Brazavil Kongo - Republika Konga  
 Brazil - Brazyla  
 briko - morela (śliwka)  
-Britan - Zjednoczone Królestwo  
+Britia - Zjednoczone Królestwo  
 brokoli - brokuł  
 brom - brom  
 brox - szczotka  
@@ -607,13 +606,15 @@ brun varis -
 Brunei - Brunei Darussalam  
 bu! - bu!  
 bubu -   
-Buda - Budda  
-budaisme - Buddyzm  
-budaiste - buddysta  
+bude -   
+Bude - Budda  
+budife - obudzić, budzić  
+budike - przebudzony (przytomny)  
+budion - uświadomienie, świadomość; oświecenie, bodhi  
+budisme - Buddyzm  
+budiste - buddysta  
+buda - budka (kabina)  
 Budapexte -   
-bude - budka (kabina)  
-budi - uświadomienie, świadomość; oświecenie, bodhi  
-budi di - świadomy; oświecony  
 bufete - bufet (szwedzki stół)  
 buku - książka  
 bulbul - słowik  
@@ -624,7 +625,7 @@ burer - sekretarz
 bureria - sekretariat  
 burokan - biuro (pokój)  
 burokratia -   
-buro riti -   
+bure rite -   
 burge - zamek, forteca, twierdza  
 Burkina Faso - Burkina Faso  
 bus - autobus, autokar  
@@ -1168,7 +1169,6 @@ fa hogo - spalić, palić
 fa ici - chcieć (pragnąć)  
 fa in -   
 fa in klus -   
-fa jaga - obudzić, budzić  
 fa jang -   
 fa javabu - odpowiedzieć, odpowiadać  
 fa jela - uwięzić, więzić, pozbawić wolności  
@@ -1368,6 +1368,7 @@ fei gi tikete -
 fei muxu - nietoperz  
 • defeke - srać (robić gówno)  
 feke -   
+telefonia -   
 femisme - feminizm  
 femiste - feminista (feministka)  
 fen - część, ułamek  
@@ -2060,7 +2061,6 @@ itis - zapalenie
 ## J  
 
 ja - przyrostek dla wykonawcy  
-jaga - przebudzony, przytomny  
 jai - zwyciężyć (wygrać; zwycięstwo, wygrana)  
 jaibai -   
 jaija -   
@@ -4339,15 +4339,14 @@ tela - tkanina (materiał, sukno)
 tela gi - krosno  
 tele - dystans  
 tele di - daleki, odległy  
-tele fon - telefon  
-tele fon bude -   
-tele fon lin -   
-tele fon nume -   
-tele fon suta -   
+telefon - telefon  
+telefon bute -   
+telefon lin -   
+telefon nume -   
 telegrame -   
+teleskope - teleskop  
 teleta - dystans  
 tele vide gi - telewizja  
-teleskope - teleskop  
 telurium - tellur  
 Telugu - telugu  
 tema - temat (motyw; dyskutować o)  
@@ -4568,7 +4567,7 @@ Uzbeki - Uzbekistan
 
 va - wow!, łoł!, jej!  
 vaf - pies  
-vaf bude -   
+vaf bute -   
 vaf parke -   
 vafle -   
 vagina - wagina  
