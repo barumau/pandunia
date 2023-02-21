@@ -17,8 +17,8 @@ Afganestan - アフガニスタン
 agre deha - 農村  
 agronomia - 農学  
 air - 空気  
-• anairobiike - 嫌気性  
 airobiike - 好気性  
+• anairobiike - 嫌気性  
 air ordu - 空軍  
 air porto - 空港  
 ais - 氷 (アイス)  
@@ -27,6 +27,7 @@ ais krem - アイスクリーム
 akare - 壁蝨  
 akrabe - 蠍 (天蝎宮)  
 ale - 他の  
+alife - 変える  
 alge - 痛み  
 algike - 痛い  
 alga fungu - 地衣類 (苔癬)  
@@ -35,10 +36,12 @@ alkan - アルカン
 alken - アルケン  
 alkin - アルキン  
 alkasus - 甘草 (蕗草)  
-alofa - 変える  
 alo fen di - 個別的  
 alpaka - アルパカ  
 alumin - アルミニウム  
+ame - 愛  
+amer - 恋人 (恋人)  
+amike - 愛しい  
 amen - 信頼する  
 amenbil - 忠実  
 amen di - 正直  
@@ -87,11 +90,12 @@ ative - 活動的
 Athina - アテネ  
 atlanti bakalau - タイセイヨウダラ  
 atlanti salmon - タイセイヨウサケ  
-atom bomba - 原子爆弾  
+atom bombe - 原子爆弾  
 atom kerne - 原子核  
 auro - 金  
-Austronesi - オーストロネシア  
+Austronesia - オーストロネシア  
 aute - 自己  
+autife - カスタマイズする  
 autokratia - 君主制  
 autologe - 独白 (独話)  
 ave - 烏麦  
@@ -105,7 +109,7 @@ baca - 子供 (赤ちゃん)
 baceler - 학사  
 badam - アーモンド (扁桃)  
 badan - 体  
-baga -  鞄 (バッグ)  
+bage -  鞄 (バッグ)  
 bagre oselote - ジャガーネコ  
 bahai - 海  
 bahai alga - 海藻  
@@ -147,12 +151,12 @@ bata - 鴨
 bati - 八 (8)  
 batri - バッテリー  
 bauite - 宝石  
-• trabaxe - 翻訳する  
 baxe - 言語  
+• trabaxe - 翻訳する  
 baxe logia - 言語学  
 baze bol - 野球  
 bazisme - 原理  
-baze petra - 基盤岩  
+baze petre - 基盤岩  
 baze strute - インフラストラクチャー  
 baze xulekan - 小学校  
 bazar - 市場 (マーケット, バザー)  
@@ -190,7 +194,9 @@ berklium - バークリウム
 bete - テーブルビート  
 betula - 樺  
 bier - 生物  
+biogense - 生物学の性  
 biologia - 生物学  
+bio sana xe - 堆肥  
 biosistem - 生物群系  
 biotoxe - 毒素  
 bibre - ビーバー  
@@ -199,10 +205,9 @@ bil - できる (ありうる)
 bilive - 有能 (上手)  
 bilor - 結晶  
 bine - 建物 (建築物)  
+bine - 建てる  
 bine plan - 建築学  
 bine planer - 建築家  
-biogense - 生物学の性  
-bio sana xe - 堆肥  
 bir - ビール  
 biskute - ビスケット (クッキー)  
 bismute - ビスマス  
@@ -216,8 +221,6 @@ boka cati - 口蓋 (上顎)
 bol - 玉 (球)  
 boli varis - ご飯  
 bolte - ボルト  
-bon - 良い (元気, 上手)  
-bon guste di - 美味しい  
 borium - ボーリウム  
 boron - ホウ素  
 botel - 瓶  
@@ -258,7 +261,7 @@ cana - 瞬間
 car - 車  
 cati - 屋根  
 cau - 草  
-cau kitaba - 草書  
+cau kitabe - 草書  
 cau medan - 芝生  
 cau mien - 炒麺  
 cau stan - 草地  
@@ -289,7 +292,7 @@ coi - 菜
 coklate - チョコレート  
 coklate kane - チョコバー  
 copu - クワ  
-culi - 処理 (プロセス)  
+cule - 扱う (処理する; 処理, プロセス)  
 • precun - 既定 (デフォルト)  
 cunbil - オプション (選択)  
 cun liste - 品書き (メニュー)  
@@ -308,12 +311,13 @@ dama geme - チェッカー (西洋碁)
 dan - 段 (等)  
 dang gi - 鐘 (鈴)  
 Danske - デンマークの  
+dante - 咬む  
 dante baluta - カシワ  
 dare tube - 漏斗  
 darmestadium - ダームスタチウム  
 darti - 土  
-data culi - データ処理  
-data culi logia - 計算機科学  
+data cule - データ処理  
+data cule logia - 計算機科学  
 data fen lize - データ解析  
 data table - 表  
 dau - 道  
@@ -324,6 +328,7 @@ de - -から
 dee - 神  
 deokata - 神話  
 deonagre grame - デーヴァナーガリー  
+debaje - 負債  
 defe bano - 盾  
 defe kaska - 鎧  
 deha - 村  
@@ -384,14 +389,12 @@ dugu - 読む
 dukan - 店 (店鋪)  
 dum - 煙  
 dunia - 世界  
-• redura - 再開する  
-durabil - 持続的  
-dura metri gi - ストップウオッチ  
-dura zaman - 時代 (年代)  
+• redure - 再開する  
+durebil - 持続的  
+durometrer - ストップウオッチ  
 dus - 難しい  
-dus jen - 敵  
+dus jen - 悪人  
 dus sin di - 不吉 (縁起の悪い)  
-dus vide - 見苦しい  
 dux - シャワー  
 
 ## E  
@@ -426,20 +429,11 @@ fa an galte - デバッグする
 fa an verse - 逆らう  
 fa aroma - 嗅ぐ  
 fa aroma - 香る (匂う, 臭う)  
-fa auto - カスタマイズする  
-fa bina - 建てる  
 fa biznes lona - 話し合う (話を付ける)  
-fa culi - 扱う (処理する)  
-fa dante - 咬む  
 fa ding - 定める (決する, 決定する)  
 fa dosil - 馴らす  
-fa dus forma - 醜くする  
-fa eskale - 上る (乗る, よじ登る)  
 fa fatu - 罰する  
 fa fei - 飛ぶ  
-fa fuku - 着る  
-fa glu - 張る (付く)  
-fa hapu - 適応する  
 fa hisabu - 計算する  
 fa hogo - 燃やす  
 fa jang - 戦う  
@@ -450,17 +444,14 @@ fa kux - 横たえる
 fa lai - 持って来る  
 fa lanse grafi - 映す (投影する)  
 fa linke - 繋ぐ  
-fa mede - 手伝う (助ける)  
 fa mei daka - 飾る  
 fa memo - 思い出す  
 fa najis - 汚す  
-fa nomi - 組織する  
 fa pede - おならをする  
 fa politi - 治める (司る)  
 fa poze - 植える  
 fa ratibu - 揃える  
 fa re - 繰り返す  
-fa saf - 掃く (精げる, 拭く)  
 fa saide - 狩る  
 fa sam sifa - シミュレートする  
 fa sing foto - ピカピカ光る (きらきらする)  
@@ -469,13 +460,10 @@ fa siro - 消す (キャンセルする)
 fa sual - 聞く  
 fa tele fon - 電話する  
 fa truke - 騙す  
-fa vai - 追出 (退ける, 除いて)  
 fa xipi - 濡らす  
 fa xiti bai - 負ける  
 fa xopi - 買う  
 fa xou - 見せる (示す, デモる)  
-fa xula - 学ぶ  
-fa xuli - 修理する  
 faide - 使用 (為, 利)  
 fan - ファン  
 fase - 面  
@@ -494,16 +482,14 @@ fen lize - 分析 (解析)
 fenol - フェノール (石炭酸)  
 fermium - フェルミウム  
 fero - 鉄  
+fete - する (事実)  
 • exfete - 効果  
 • infete - 伝染  
 • rifete - 繰り返す  
-fete - する (事実)  
 filme - 映画  (フィルム)  
 filsofe - 哲学  
-fine - 狭い (薄い, 細い)  
 fiorde - フィヨルド  
 fite - 植物  
-fito yamiste - 菜食主義者 (ベジタリアン)  
 fizike gi - ハードウェア  
 fizologia - 物理学  
 flece - 矢 (矢印)  
@@ -514,6 +500,7 @@ foli - うろこ
 fonte sui - 清水  
 fonyo - フォニオ  
 • dusforme - 醜くする  
+• dusformife - 醜くする  
 • konforme - 即する  
 fosfe - リン  
 fosfate - 燐酸塩  
@@ -528,6 +515,7 @@ frike - 擦る (擦り傷する)
 frute - 果実 (フルーツ)  
 frutos - 果糖 (フルクトース)  
 frute parke - 果樹園  
+fuke - 着る  
 fuku - 服  
 fuku vaxi gi - 洗濯機  
 fulan - 何々  
@@ -614,6 +602,7 @@ glukerol - グリセロール
 glukin - グリシン  
 glukogen - 糖原 (グリコーゲン)  
 glukos - 葡萄糖 (グルコース)  
+glutize - 張る (付く)  
 gogia jen - 市民  
 gol - 目的 (行き先, ゴール)  
 gola longta - 周囲長  
@@ -622,7 +611,7 @@ gomu - ゴム (消しゴム)
 gorila - ゴリラ  
 goton - 綿糸 (コットン)  
 gradu mute - 発展 (開発)  
-grafe culi - 画像処理  
+grafe cule - 画像処理  
 grafeme - 画素 (ピクセル)  
 grafe fineta - 解像度  
 grafe karte - グラフィックカード  
@@ -658,12 +647,15 @@ hali zi - 間隔
 halife - ハリーファ  
 hanu - 手  
 hanu xaka - 腕  
+hape - 適応する  
 hapu - 適切  
 haram liste - ブラックリスト  
 Hartum - ハルツーム  
 has nam - 識別名  
 • anhaste - 遅い (ゆっくり)  
 hatar - 危険  
+hau - 良い (元気, 上手)  
+hau guste di - 美味しい  
 hava - 風  
 haxi - 箸  
 hei - おい  
@@ -752,13 +744,13 @@ jang - 戦闘 (格闘)
 jangal - 森 (森林, ジャングル)  
 jaru - 箒  
 jau - 大麦  
-javabu - 答え (回答)  
+javabe - 答え (回答)  
 jebe - ポケット (懐中)  
 jebe caku - ポケットナイフ  
 jeka - 借用  
 jeka don - 貸す  
 jeka na - 借りる  
-jelakan - 監獄  
+jelekan - 監獄  
 jen - 人 (者, 員, 徒)  
 jenju table - 算盤  
 jensen - 人蔘   
@@ -847,7 +839,7 @@ karer - 労働者
 kar lexi - 動詞  
 karxe - 労働  
 karate - 空手  
-karateja - 空手家  
+karater - 空手家  
 karbe - 炭素  
 karbohidrate - 炭水化物  
 karbe kalam - 鉛筆  
@@ -872,7 +864,7 @@ kaska - 殻 (皮)
 katana - 刀  
 katus - サボテン  
 kauri - 宝貝  
-kava - 掘る  
+kave - 掘る  
 ke - 何  
 ke jen - 誰  
 ke loka - どこ  
@@ -899,11 +891,11 @@ kino grafi - 映画
 kio - 橋 (橋梁)  
 kira - 賃貸  
 kisma - 運命 (宿命)  
-kitaba forma - 書式付け  
-kitabakan - 図書館  
-kitaba minister - 図書係  
-kitaba so - 書記素  
-kitaba suta - 文献 (文学, 文芸)  
+kitabeme - 書記素  
+kitabe forma - 書式付け  
+kitabekan - 図書館  
+kitabe minister - 図書係  
+kitabe suta - 文献 (文学, 文芸)  
 kivi - キーウィ  
 kivi frute - キーウィフルーツ  
 klas - 部門 (級)  
@@ -918,8 +910,8 @@ koli - 甘藍 (キャベツ)
 komodia - 喜劇 (コメディ)  
 koma - コンマ (読点)  
 kon - 共  
-kon bon - 合わせる (適する)  
 kon forma - 即する  
+kon hau - 合わせる (適する)  
 kon kar - 共同して働  
 kon pasi - 同情  
 kone - 錐  
@@ -989,7 +981,6 @@ late - 側 (脇)
 Latvia - ラトビア  
 lau - 年配  
 laurencium - ローレンシウム  
-laxe - 残す  
 lazanya - ラザニア  
 lazur petra - ラピスラズリ (瑠璃)  
 lense - レンズ  
@@ -1003,7 +994,7 @@ lexe gense - 文法的性 (名詞クラス)
 lexe jama - 語彙  
 liama - ラマ  
 libele - 蜻蛉  
-lide lin - リード (手綱)  
+lide line - リード (手綱)  
 liga di sanduku - 契約の箱  
 lima - 五 (5)  
 limon - レモン  
@@ -1035,9 +1026,6 @@ long pipre - 畢撥
 long tire - 伸びる (張る)  
 lotra - 獺  
 lou - 漏る  
-luba - 愛  
-luba di - 愛しい  
-lubar - 恋人 (恋人)  
 luga - 緑 (緑色)  
 luga melon - ハネデューメロン  
 luka - 六 (6)  
@@ -1057,10 +1045,10 @@ madisme - 唯物論 (唯物主義)
 maf - ごめんなさい  
 mager - 魔法使い  
 magenium - マグネシウム  
+magenta - マゼンタ (紅紫色)  
 magi bala - 魔力  
 Magribia - モロッコ  
 majang - 麻雀  
-majenta - マゼンタ (紅紫色)  
 makan hua - タンポポ  
 makinize - 機械化する  
 malonomia - 経済学  
@@ -1080,7 +1068,7 @@ masa - 質量
 masa mula - 芋 (塊茎)  
 masa mula sol hua - キクイモ  
 masala - 香辛料  
-maska - 仮面 (マスク)  
+maske - 仮面 (マスク)  
 mate cai - マテ茶  
 matras - 布団 (マットレス)  
 max fili di - 好き (お気に入りの)  
@@ -1089,6 +1077,7 @@ mayur - 孔雀
 maze - 靴下 (ソックス)  
 me - 第  
 mece - 試合 (競技)  
+mede - 手伝う (助ける)  
 mede - 助け  
 medal - 賞牌 (メダル)  
 medan - 広場  
@@ -1215,7 +1204,7 @@ najis di - 汚い
 nam - 名前  
 nam dokumen - 身分証明書 (ID)  
 nam hin - 名無し (無名の)  
-nam kitaba - 署名する (サイン)  
+nam kitabe - 署名する (サイン)  
 nan - 男  
 nan reger - 王様  
 narde - バックギャモン  
@@ -1257,7 +1246,7 @@ ni - 女
 ni reger - 女王  
 nia - 意図  
 nice - 下  
-nice kitaba - 字幕  
+nice kitabe - 字幕  
 nide - 巣  
 nikel - ニッケル  
 nil - 青い  
@@ -1276,6 +1265,7 @@ no - いいえ
 nobelium - ノーベリウム  
 noce - 夜  
 Noe di nave - ノアの箱舟  
+nome - 組織する  
 norde - 北  
 norma - 標準  
 norma di - 普段 (ノーマル)  
@@ -1327,6 +1317,7 @@ panka - 翼 (羽)
 pankreas - 膵臓  
 pante - ズボン  
 papaya - パパイヤ  
+repare - 修理する  
 repare - 修理  
 reparer - 修理工  
 par jen - 同輩  
@@ -1405,6 +1396,7 @@ poto - 泥
 poto defa bano - フェンダー  
 poto stan - 沼地  
 poze - 植える  
+• expoze - 追出 (退ける, 除いて)  
 prazedimium - プラセオジム  
 pre - 以前 (前に)  
 presidente - 大統領  
@@ -1416,8 +1408,6 @@ protacinium - プロトアクチニウム
 puding - プディング  
 pujakan - 神殿 (宮, 寺, 神社)  
 pul ekran - フルスクリーン  
-pul fito yamisme - ヴィーガニズム  
-pul fito yamiste - 絶対菜食主義者 (ヴィーガン)  
 pul xipi - 漬ける (締める)  
 pulmon tis - 肺炎  
 puma - ピューマ (クーガー)  
@@ -1480,6 +1470,7 @@ ruhu mixe - 惑わす
 ruhu mixe di - まごまご  
 ruke sake - リュックサック  
 rulete - ルーレット  
+• dusrupike - 見苦しい  
 rusium - ルテニウム  
 ruterfordium - ラザホージウム  
 
@@ -1487,6 +1478,7 @@ ruterfordium - ラザホージウム
 
 sable - 砂  
 sablite - 砂岩  
+safe - 掃く (精げる, 拭く)  
 • ansaf - 汚い  
 saf tela - ワイプ  
 safar ceke - トラベラーズチェック  
@@ -1502,6 +1494,7 @@ sala - ホール
 salmon - 鮭鱒  
 saludo - 健康  
 saluta - 健康  
+salver - 救世主  
 sam bei - 同輩  
 sammetria - 対称  
 sam sifa di - 同じよう (近い)  
@@ -1520,6 +1513,7 @@ sante kanon - 聖書
 sanzi - 扇子  
 sapatu - 鞋  
 sari - サリー  
+satelite - 衛星  
 sau - 兄弟姉妹  
 sau doh - 姪  
 sau son - 甥  
@@ -1567,6 +1561,7 @@ sir plan - 陰謀
 sirta - 忍び  
 siro - 零 (０)  
 sis - 姉妹 (shimai)  
+skale - 上る (乗る, よじ登る)  
 skandium - スカンジウム  
 sofia - 知恵  
 sofa - ソファー  
@@ -1695,8 +1690,8 @@ tulium - ツリウム
 tuna - 鮪 (ツナ)  
 tur - 旅行 (ツアー)  
 turbe - 悩む (わざわざする)  
-turbejeter - ターボジェットエンジン  
 turbin - タービン  
+turbojeter - ターボジェットエンジン  
 tuta - 桑  
 tuzi - うさぎ  
 
@@ -1705,11 +1700,11 @@ tuzi - うさぎ
 umami - 旨味  
 umur - 年齢  
 un - 一 (1)  
-un di - だけ (唯一の)  
-undura - アナログ  
+undurike - アナログ  
+unia - 連合 (接合)  
+unike - だけ (唯一の)  
 un sata - 一躍  
 unta - 団結 (統一)  
-un ta liga - 連合 (接合)  
 un zai di - 一人の (寂しい, ポツリ)  
 uranium - ウラン  
 uzebil - 使用可能  
@@ -1739,6 +1734,9 @@ vanu di - 楽しい
 vanu gi - おもちゃ  
 vari - 色々 (種々, 様々, 区々, とりどり, それぞれ)  
 varis - 米 (ご飯)  
+veganisme - ヴィーガニズム  
+veganiste - 絶対菜食主義者 (ヴィーガン)  
+vegoyamiste - 菜食主義者 (ベジタリアン)  
 vei gradu - 緯度  
 vei lin - 横糸  
 vende - 売る  
@@ -1814,9 +1812,10 @@ xiu deha - 村落
 xiu kaboga - ズッキーニ  
 xiu seku - 小石  
 xiu zi - 小文字  
-xiva - シヴァ  
+Xiva - シヴァ  
 xixa pipe - 水パイプ  
 xukre - ありがとう (どうも)  
+xule - 学ぶ  
 xule - 教育  
 xuler - 学生  
 xule guru - 先生 (教師)  
@@ -1870,7 +1869,7 @@ zai den - 今日
 zai zaman - 今 (現在)  
 zai zaman di - 現行  
 zalimer - 暴君  
-zaman - 時間  
+zaman - 時代 (年代)  
 • prezaman di - 古い  
 zar kube - 賽子  
 zebra - 縞馬  

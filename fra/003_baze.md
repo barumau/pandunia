@@ -54,30 +54,30 @@ Le nombre, le genre ou le caractère défini sont marqués par des mots complém
 The basic word order is subject–verb–object (SVO).
 L'ordre de base des mots dans une phrase est sujet - verbe - objet (SVO).
 
-**mi luba tu.**
+**mi ame tu.**
 – Je t'aime.
 
 Le temps, l'aspect et le mode sont indiqués à l'aide de particules et d'auxiliaires.
 
-**mi zai luba tu.**
+**mi zai ame tu.**
 – Je suis en train de t'aimer. / Je t'aime en ce moment.
 (**zai** indique le moment présent, en cours)  
-**mi pas luba tu.**
+**mi pas ame tu.**
 – Je t'ai aimé. / Je t'aimais.
 (**pas** marque le passé révolu.)  
-**mi le luba tu.**
+**mi le ame tu.**
 – Je l'ai (déjà) fait.
 (**le** par son sens "déjà", marque l'aspect parfait)  
-**mi xa luba tu.**
+**mi xa ame tu.**
 – Je t'aimerai.
 (**xa** marque le futur)
 
 L'ordre des mots est inversé dans les phrases au passif.
 Les verbes au passif prennent la particule **be**.
 
-**tu be luba.**
+**tu be ame.**
 – Tu es aimé.e.  
-**mi be luba de tu.**
+**mi be ame de tu.**
 – Je suis aimé.e de toi.
 
 
@@ -100,9 +100,9 @@ Le point de comparison est introduit par **ka** (_que_).
 
 Les adverbes se placent généralement avant le nom qu'ils modifient, mais pas toujours.
 
-**mi poli luba tu.**
+**mi poli ame tu.**
 – Je beaucoup t'aime .  
-**mi luba tu, poli.**
+**mi ame tu, poli.**
 – Je t'aime beaucoup.
 
 
@@ -127,10 +127,10 @@ Les mot interrogatif est
 
 C'est l'ordre des mots d'une phrase affirmative qui sert pour les questions.
 
-**tu luba ke?**
+**tu ame ke?**
 – Tu aimes qui ?  
-**ke man ya luba tu?**
+**ke man ya ame tu?**
 – Quel homme aimes-tu ?  
-**tu luba da ke poli?**
+**tu ame da ke poli?**
 – Tu l'aimes combien ?
 

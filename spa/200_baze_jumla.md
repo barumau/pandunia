@@ -138,7 +138,7 @@ Es por eso que
 **mi**
 es el mismo en las posiciones de sujeto y objeto, mientras que el español tiene diferentes formas, 'yo', 'me', etc.
 
-**mi luba tu.**
+**mi ame tu.**
 Te amo. (Yo ama ti)
 
 <small>Etimología. **tu** viene del espanñol: tú, russo:  ты (ty), italiano: tu, francés: tu.</small>
@@ -669,18 +669,18 @@ Encantado de verte.
 Lo/a vi a él/ella ayer.
 
 
-### semi <small>significar</small>
+### seme <small>significar</small>
 
-**ye lexi ya semi ke?**
+**ye lexi ya seme ke?**
 ¿Qué significa esta palabra?
 
-**"mau" ya semi ke?**
+**"mau" ya seme ke?**
 ¿Qué significa "maw"?
 
-**da semi un yang de hevan.**
+**da seme un yang de hevan.**
 Significa una clase de animal.
 
-**mi no aha da semi ke.**
+**mi no aha da seme ke.**
 No entiendo qué significa.
 
 

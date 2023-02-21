@@ -37,6 +37,7 @@ akare - клещ (лепта)
 akasia - акация  
 akrabe - скорпион  
 ale - другой (второй)  
+alife - изменять  
 alge - боль  
 • analgive - анальгетик  
 algike - болезненный  
@@ -50,10 +51,11 @@ alkin - алкин
 alkol - алкоголь  
 alkasus - солодка (лакрица)  
 almari - шкаф  
-alofa - изменять  
 alo fen di - раздельный  
 alpaka - альпака  
 alumin - алюминий  
+ame - любовь  
+amer - любовник  
 ama - а (но)  
 amen - доверять (понадеяться)  
 amenbil - верный  
@@ -71,8 +73,8 @@ angul - палец
 angul marke - отпечаток пальца  
 angul pike - кончик пальца  
 animaje - анимация  
-• reanimate - реанимировать (оживлять)  
 animate - animar  
+• reanimate - реанимировать (оживлять)  
 animisme - анимизм  
 anis - анис  
 anis araki - арак (ракы)  
@@ -86,7 +88,7 @@ arane - паук
 aranofobia - арахнофобия  
 aranide - паукообразное  
 arane nete - паутина  
-arbuza - арбуз  
+arbuze - арбуз  
 argente - серебро  
 argon - аргон  
 argu - аргумент (обосновани)  
@@ -122,11 +124,11 @@ ative - активный (деятельный)
 Athina - Афины  
 atlanti bakalau - Атлантическая треска  
 atlanti salmon - Атлантический лосось (сёмга)  
-atom bomba - атомная бомба  
+atom bombe - атомная бомба  
 atom kerne - атомное ядро  
 atom vuki - атомное оружие  
 auro - золото  
-Austronesi - Австронезия  
+Austronesia - Австронезия  
 autatike - автоматический  
 auter - автор  
 autologe - монолог  
@@ -155,6 +157,7 @@ bahai di - морской
 bahai hiyar - голотурия (морские огурц)  
 bahai hua - морские анемоны  
 bahai ordu - военно-морской флот  
+bahai sake - залив  
 bahai vala - моряк  
 baker - хлебопёк (пекарь)  
 bakeria - пекарня (булочная)  
@@ -165,7 +168,6 @@ baku margarite - нивяник обыкновенный (ромашка)
 baku salmon - кета  
 • anbala - слабый  
 balata - сила  
-balaton - ударение  
 balon pexe - иглобрюховые  
 baluta - дуб  
 bambu - бамбук  
@@ -180,10 +182,10 @@ bano - доска (панель)
 bano geme - настольная игра  
 banya - купание  
 banya kamar - ванная  
+bare - преграждать  
 barium - барий  
+bare mur - барьер  
 bar vala - бармен  
-bara - преграждать  
-bara mur - барьер  
 barde - борода  
 baru - медведь  
 barxa - дождь  
@@ -199,10 +201,10 @@ batri - батарея
 bau - сокровище (казна)  
 bau di - драгоценный  
 bauite - драгоценный камень  
+baxe - язык  
 • dubaxike - двуязычный  
 • polibaxike - многоязычный  
 • trabaxe - перевод  
-baxe - язык  
 baze - основа (база,  фундамент)  
 baze bol - бейсбол  
 bazisme - принцип  
@@ -212,7 +214,7 @@ bazar - рынок (базар)
 be biomute - заквасить  
 be boi - плавать  
 be bum - взрываться  
-be dura - длиться  
+be dur - длиться  
 be fatige - устать  
 be fobi - бояться (страшиться)  
 be in bum - взрываться вовнутрь  
@@ -245,7 +247,9 @@ bete - свёкла
 betula - берёза  
 bie - органический  
 bier - организм  
+biogense - биологический пол  
 biologia - биология  
+bio sana xe - компост  
 biosistem - биом  
 biotoxe - токсин  
 bibre - бобр  
@@ -254,25 +258,22 @@ bil es - может быть
 bil ki - может быть  
 bilor - кристалл  
 bine - строение  
+bine - строить  
 bine plan - архитектура  
 bine planer - архитектор  
-biogense - биологический пол  
-bio sana xe - компост  
 bir - пиво  
 biskute - печенье (бисквит)  
 bismute - висмут  
 bison - бизон (зубр)  
 biznes - предприятие (бизнес)  
 boce - бокс  
-boce pante - семейные  
 bocer - боксёр  
+boce pante - семейные  
 boi - поплавок (буй)  
 boka cati - нёбо  
 bol - шар  
 bolte - болт  
 bombe - бомба  
-bon - хороший  
-bon sin di - благоприятный  
 borium - борий  
 boron - бор  
 botel - бутылка  
@@ -323,7 +324,7 @@ canse - возможность (шанс)
 carme - шарм (чары)  
 cati - крыша (кров)  
 cau - трава  
-cau kitaba - цаошу  
+cau kitabe - цаошу  
 cau medan - газон  
 cau mien - чаомянь  
 cavi - ключ  
@@ -355,7 +356,7 @@ cita - гепард
 coi - зелень  
 coklate - шоколад  
 copu - мотыга  
-culi - процесс  
+cule - обращаться (обработать, обрабатываться, разбираться)  
 • precun - по умолчанию  
 
 ## D  
@@ -378,14 +379,15 @@ dang - звенеть
 dang gi - звонок  
 danse - танец  
 Danske - датский  
+dante - откусить  
 dante baluta - дуб зубчатый  
 dante hin - беззубый  
 dare tube - воронка  
 darmestadium - дармштадтий  
 data - данные  
 data banke - база данных  
-data culi - обработка данных  
-data culi logia - информатика  
+data cule - обработка данных  
+data cule logia - информатика  
 dau bano - табличка с названием улицы  
 dava - лечить  
 davaer - врач (медик, лекарь, доктор)  
@@ -398,6 +400,8 @@ dee - бог
 deokata - миф  
 deonagre grame - деванагари  
 deosofia - теософия  
+debaje - долг  
+debize - обязывать (обязать)  
 defe bano - щит  
 defe kaska - доспехи  
 deha - деревня (село)  
@@ -458,13 +462,11 @@ dukan - магазин (лавка, бутик)
 dum - дым  
 dunia - мир (свет)  
 duna - дюна  
-durabil - долговечный  
-dura di - хронический  
-dura metri gi - секундомер  
-dura zaman - период (эпоха)  
+durebil - долговечный  
+dure di - хронический  
+durometrer - секундомер  
 dus jen - враг (противник)  
 dus sin di - зловещий  
-dus vide - безобразный (некрасивый)  
 • posprodution - завершающий этап создания  
 dux - душ  
 
@@ -507,41 +509,24 @@ fa argu - аргументи́ровать
 fa aroma - понюхать  
 fa aroma - пахнуть  
 fa banya - купаться  
-fa bina - строить  
-fa culi - обращаться (обработать, обрабатываться, разбираться)  
-fa dante - откусить  
 fa ding - определить  
 fa dosil - укрощать (приручить)  
 fa dosil gene - одомашнивать  
-fa dus forma - уродовать  
-fa eskale - подниматься  
-fa estude - изучать  
 fa fatu - наказать  
 fa fei - лететь  
-fa fobi - страшить  
-fa forma - формировать  
-fa fuku - одевать  
-fa fuku - носить (одеваться)  
-fa glas dake - глазуровать  
-fa glu - клеиться  
 fa hisabu - вычислять  
 fa hogo - жечь (палить)  
-fa in klus - включить  
 fa jui - предостерегать  
-fa karga - обременять  
 fa kino - двигать  
 fa kung - пробиться  
 fa kux - положить  (уложить)  
 fa lai - приносить  
 fa linke - соединить (подключить)  
-fa loka - ставить  
 fa mei daka - украсить  
 fa memo - помнить  
 fa min rai - недооценить  
-fa nomi - организовать  
 fa onor - чтить  
 fa pede - пердеть  
-fa prese - нажимать  
 fa pul - заполнять  
 fa re - повторять  
 fa saf va tela - вытереть  
@@ -553,15 +538,11 @@ fa sir - скрывать
 fa sual - спрашивать  
 fa tele fon - звонить  
 fa truke - обмануть  
-fa turbe - утруждать  
-fa vai - выгнать (исключить, кроме)  
 fa vai klus - исключить  
 fa valu - оценивать  
 fa xiti bai - проиграть (провалиться)  
 fa xopi - покупать (купить)  
 fa xou - доказать (демонстрировать)  
-fa xula - учиться  
-fa xuli - чинить (ремонтировать)  
 faide - применение  
 fan - фан (фанат)  
 fase - грань  
@@ -582,33 +563,34 @@ fenol - фенол
 • prefere - предпочитать  
 fermium - фермий  
 fero - железо  
+fete - факт  
 • exfete - эффект  
 • infete - инфекция  
 • parafete - побочный эффект  
 • rifete - повторять  
-fete - факт  
 feter - фактор  
 filme - фильм (кинокарти́а)  
 filsofe - философия  
-fine - тонкий (узкий)  
 fiorde - фьорд  
 firuze - бирюза  
 fite - растение  
 fitologia - ботаника  
-fito yamiste - вегетарианец  
 fizike gi - аппаратное обеспечение  
 fizologia - физика  
 flece - стрела (стрелка)  
 flerovium - флеровий  
 flur - фтор  
 fluride - фторид  
+fobife - страшить  
 foli - чешуя  
 fonte kalam - авторучка  
 fonte sui - родниковая вода  
 for - прочь (вон)  
 fora - сверлить (бурить)  
 • dusforme - уродовать  
+• dusformife - уродовать  
 • konforme - применяться (согласоваться)  
+formize - формировать  
 fosfe - фосфор  
 fosfate - фосфат  
 fote - свет  
@@ -625,6 +607,8 @@ frute - плод (фрукт)
 frutos - фруктоза  
 frute parke - фруктовый сад  
 fufu - мякоть (пульпа, фуфу)  
+fuke - носить (одеваться)  
+fukize - одевать  
 fuku - одежда  
 fuku di - оде́тый  
 fuku vaxi gi - стиральная машина  
@@ -703,6 +687,7 @@ gitar - гитара
 giuka - нефрит (жад)  
 glas - стекло  
 glas daka - глазурь  
+glasife - глазуровать  
 glis - задвигаться (скользи́ть)  
 glu bande - пластырь  
 glu di - клейкий (липкий)  
@@ -711,13 +696,14 @@ glu poto - глина
 glukerol - глицерин  
 glukogen - гликоген  
 glukos - глюкоза  
+glutize - клеиться  
 gol - цель  
 gola seku - булыжник  
 gomu - резина (каучук, резинка, ластик)  
 gorila - горилла  
 goton - хлопок  
 gradu mute - развитие  
-grafe culi - обработка изображений  
+grafe cule - обработка изображений  
 grafeme - пиксель  
 grafe kata - комикс  
 • programe - программа  
@@ -768,6 +754,8 @@ has nam - идентификатор
 haste - спешка  
 hata - до  
 hatar - опасность  
+hau - хороший  
+hau sin di - благоприятный  
 hei - эй  
 helium - гелий  
 helis babul - акация кручёная  
@@ -864,7 +852,7 @@ jangal - лес (джунгли)
 jara - кувшин (графин)  
 jaru - метла  
 jau - ячмень  
-javabu - ответ  
+javabe - ответ  
 jebe - карман  
 jen jami - толпа  
 jenju table - счёты (абак)  
@@ -897,6 +885,8 @@ juste pauer - снайпер
 
 ## K  
 
+kalife - квалифицировать  
+kalta - качество  
 ka - чем  
 kababu karne - кебаб  
 kable - верёвка (канат)  
@@ -960,7 +950,7 @@ karer - работник
 kar lexi - глагол  
 karxe - работа  
 karate - каратэ  
-karateja - каратист (каратэка)  
+karater - каратист (каратэка)  
 karbe - углерод  
 karbe duoxide - двуокись углерода  
 karbohidrate - углевод  
@@ -969,6 +959,7 @@ karbol - карбол
 karcof - артишок посевной  
 kardon - расторопша  
 kardon karcof - артишок испанский (кардон)  
+karge - обременять  
 karga - бремя (товар, груз, ноша)  
 kargadan: - носорог  
 kari - карри  
@@ -989,7 +980,7 @@ kastilia baxa - кастильский язык
 katana - катана  
 katus - кактус  
 kauri - каури  
-kava - копать (яма)  
+kave - копать (яма)  
 ke - что  
 ke jen - кто  
 ke loka - где  
@@ -1018,11 +1009,11 @@ kioske - киоск (павильон)
 kira - аренда  
 kira kape - арендовать  
 kisma - судьба (кисмет)  
-kitaba - письмо  
-kitaba gi - пишущая машинка  
-kitabakan - библиотека  
-kitaba minister - библиотекарь  
-kitaba suta - литература (словесность)  
+kitabe - письмо  
+kitabe gi - пишущая машинка  
+kitabekan - библиотека  
+kitabe minister - библиотекарь  
+kitabe suta - литература (словесность)  
 kivi - киви  
 kivi frute - киви  
 klien - клиент (покупатель, зака́зчик)  
@@ -1030,14 +1021,15 @@ klima - климат
 klima mute - изменение климата  
 klin - тенденция (склонить)  
 klor - хлор  
+• inkluse - включить  
 koala - коала  
 kobalte - кобальт  
 koda - хвост  
 koli - капуста  
 komike - комический (смешной)  
 komodia - комедия  
-kon bon - соответствовать (сочетаться)  
 kon forma - применяться (согласоваться)  
+kon hau - соответствовать (сочетаться)  
 kon helen baxa - койне  
 kon kar - сотрудничать (кооперировать)  
 kon pasi - жалость (сердобольность)  
@@ -1123,7 +1115,7 @@ lazur petra - лазурит
 leng mosim - зима  
 leng mosim di - зимний  
 lense - линза  
-letali - летальный  
+letal - летальный  
 letre - письмо  
 letus - салат-латук  
 leu - левый  
@@ -1160,17 +1152,16 @@ lixu - белка
 loge - сказать  
 loga - запись  
 loga buku - судовой журнал  
+loke - ставить  
 loke - место  
 loke kode - координаты  
-long dura - долго  
-long dura di - долгий (длительный)  
+long dure - долго  
+long durike - долгий (длительный)  
 long kata - роман  
 long pipre - перец длинный  
 long tire - вытянуть  
 lotra - выдра  
 lou - протекать (просочиться)  
-luba - любовь  
-lubar - любовник  
 luga - зелёный  
 luka - шесть (6)  
 lumize - полировать  
@@ -1192,10 +1183,10 @@ made - материя
 madisme - материализм  
 mager - чародей (маг)  
 magenium - магний  
+magenta - маджента (фуксия)  
 Magribia - Марокко  
 mahala - квартал  
 majang - маджонг  
-majenta - маджента (фуксия)  
 makan hua - одуванчик  
 makinike - механический  
 makiniste - механик  
@@ -1204,10 +1195,10 @@ malonomia - экономика
 malte - солод  
 maltos - мальтоза (солодовый сахар)  
 mame kanse - рак груди  
+mania - мания  
 manera - поведение (манера)  
 mang - занятый  
 mangan - марганец  
-mani - мания  
 mani din - манихейство  
 manioka - маниока  
 manioka fufu - тапиока  
@@ -1226,7 +1217,7 @@ masa - масса
 masa mula - клубень  
 masa mula sol hua - топинамбу́р  
 masala - пряность  
-maska - маска  
+maske - маска  
 master - мастер  
 masta - мачта  
 mate cai - матэ  
@@ -1356,7 +1347,7 @@ nam - имя
 • annam - антоним  
 nam dokumen - ID  
 nam hin - безымянный  
-nam kitaba - подписать  
+nam kitabe - подписать  
 nan reger - король  
 narde - нарды (триктрак)   
 narke - наркотик  
@@ -1401,7 +1392,7 @@ neure - нерв
 neuralgia - невралгия  
 neuron - нейрон  
 nia - намерение  
-nice kitaba - субтитр  
+nice kitabe - субтитр  
 nide - гнездо (улей)  
 Nigeria -  Нигерия  
 nikel - никель  
@@ -1419,6 +1410,7 @@ no - нет (не)
 nobelium - нобелий  
 noce - ночь  
 Noe di nave - Ноев ковчег  
+nome - организовать  
 nomi - организация  
 norde - север (норд)  
 • paranormali - паранормальный  
@@ -1486,6 +1478,7 @@ pante - брюки
 papagai - попугай  
 papaya - папайя  
 par - равный  
+repare - чинить (ремонтировать)  
 • repar - починить  
 repare - починка (ремонт)  
 reparer - ремонтник  
@@ -1589,9 +1582,11 @@ poter - гончар
 poteria - гончарное дело  
 poto - болото  
 poto stan - болото (топь)  
+• expoze - выгнать (исключить, кроме)  
 prazedimium - празеодим  
 pre - раньше  
 presidente - президент  
+prese - нажимать  
 prese - давление (нажим)  
 preser - пресс  
 prive - частный (приватный)  
@@ -1607,7 +1602,6 @@ puding - пудинг
 pujakan - храм (место богослужения)  
 puja meza - алтарь  
 pul - полный  
-pul fito yamiste - веган  
 pul xipi - мариновать  
 pulmon tis - пневмония (воспаление лёгких)  
 puma - пума (кугуар)  
@@ -1677,6 +1671,7 @@ ruhu mixe di - растерянный (озадаченный)
 ruke sake - рюкзак  
 rul - рулон  
 rulete - рулетка  
+• dusrupike - безобразный (некрасивый)  
 rusium - рутений  
 ruterfordium - резерфордий, ²курчатовий  
 
@@ -1696,6 +1691,9 @@ sahi - правильный
 salta - благосостояние  
 sala - зал  
 salu safta - гигиена  
+salve - спасать  
+salvation - спасение  
+salver - спаситель  
 sam bei - ровня  
 sam emos - сострадание  
 sammetria - симметрия  
@@ -1719,6 +1717,7 @@ sante kanon - священное писание
 sanzi - веер  
 sapatu - туфля  
 sari - сари  
+satelite - сателлит  
 sau doh - племянница  
 sau son - племянник  
 saur - ящерица  
@@ -1770,6 +1769,7 @@ sine plate - нагрудник
 sir plan - заговор (сговор)  
 siro - нуль (зеро)  
 sis - сестра (sestra)  
+skale - подниматься  
 skandium - скандий  
 Slave - славянский  
 sofia - мудрость  
@@ -1796,6 +1796,7 @@ sosis - колбаса (сосиска)
 sporte - спорт  
 statia - станция  
 statike grafe - кадр  
+stude - изучать  
 stude - этюд  
 studer - студент  
 sual - вопрос  
@@ -1894,6 +1895,7 @@ tocu - касаться
 • tomografia - томография  
 tomate - помидор (томат)  
 ton - тон  
+• protone - ударение  
 topografia - топография  
 torium - торий  
 toxologia - токсикология  
@@ -1924,8 +1926,8 @@ tuna - тунец
 tundra xan - фьельды  
 tur - путешествие (турне)  
 turbe - утруждай  
-turbejeter - турбореактивный двигатель  
 turbin - турбина  
+turbojeter - турбореактивный двигатель  
 tuta - шелковица (тута)  
 tuzi - кролик (заяц)  
 
@@ -1934,11 +1936,11 @@ tuzi - кролик (заяц)
 uma bici - хлыст  
 umur - возраст  
 un - один (1)  
-un di - только (единственно, единственный, уникальный)  
+unia - союз  
+unike - только (единственно, единственный, уникальный)  
 un mar - один раз  
 un sata - тотчас  
 unta - единица  
-un ta liga - союз  
 un yen di lense - монокль  
 un zai di - одинокий (единичный)  
 Uran - Уран  
@@ -1975,6 +1977,9 @@ vanu gi - игрушка
 varis - рис  
 varis vin - рисовое вино  
 vaxi - мыть  
+vege - овощ  
+veganiste - веган  
+vegoyamiste - вегетарианец  
 vei lin - уток  
 vende - продать  
 vende xope - торговля  
@@ -2056,7 +2061,7 @@ xiu - маленький (малый)
 xiu deha - деревушка  
 xiu kaboga - цукини  
 xiu seku - галька  
-xiva - Шива  
+Xiva - Шива  
 xix kababu - шиш-кебаб  
 xix karne - шашлык  
 xixa pipe - кальян  
@@ -2064,6 +2069,7 @@ xofer - шофёр
 xope - покупка (шоппинг)  
 xukre - спасибо  
 xukria - благодарность  
+xule - учиться  
 xule - образование  
 xulaje - урок (учение)  
 xule guru - учитель  
@@ -2076,7 +2082,6 @@ xux di - тихий
 
 ya - да  
 Yahve - Яхве (Иегова)  
-yam fito - овощ  
 yam liste - меню  
 yam yau - голод  
 yama - лён  
@@ -2113,6 +2118,7 @@ zai zaman di - нынешний
 zalimer - тиран (деспот)  
 zalimive - тиранический (деспотичный, жестокий)  
 zalim yunte - хунта  
+zaman - период (эпоха)  
 • prezaman di - старый (древний)  
 Zambia - Замбия  
 zar kube - кость (кубик)  

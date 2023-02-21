@@ -52,7 +52,7 @@ inter la modifanta kaj la modifata.
 
 **un dai di_ bon buku**
 – _grande_ bona libro  
-**poli _bala di_ luba ja jen**
+**poli _bala di_ ame ja jen**
 – _forte_ amantaj homoj
 
 ### Komparoj

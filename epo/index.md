@@ -33,6 +33,7 @@ Rimarkindaj trajtoj de pandunio estas:
 - [Bazaĵojn de Pandunia rapide](003_baze.md) en nur unu paĝo!
 - [Tuta gramatiko en PDF-fajlo](pan.pdf)
 - [Lecionetoj kun bildoj](http://www.pandunia.info/pandunia/mini_xula.html)
+- [Rakontoj en Pandunia](https://www.pandunia.info/kitabe)
 
 ## Komunumo
 

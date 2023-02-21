@@ -15,7 +15,7 @@ absorber (éponger) - asorbe
 Abyssinie - Habaxa  
 acacia faux-gommier - helis babul  
 acarien - akare  
-accent - balaton  
+accent - protone  
 accepter - acepe  
 accessible (atteignable, à portée) - acesebil  
 accomplir (terminer) - pul fina  
@@ -30,7 +30,7 @@ actinium - acinium
 action - ation  
 actuel (courant) - zai zaman di  
 acéphale (sans tête) - kapa hin  
-adapter (ajuster) - fa hapu  
+adapter (ajuster) - hape  
 addition (facture) - fatura  
 adhésif (collant) - glu di  
 adjectif - sifa loga  
@@ -72,14 +72,14 @@ alkyle - alkil
 aller - ga  
 aller-retour - retro tikete  
 alligator - korte krokodil  
-allophone - alo fon  
+allophone - alofone  
 allô - halo  
 alphabet - zi seri  
 altruisme - altrisme  
 altérer - altre  
 alumine (oxyde d'aluminium) - alumin oxide  
 aluminium - alumin  
-alun - alumin mate  
+alun - aluminaje  
 amande - badam  
 amateur - hobiiste  
 Amazone - Amazon  
@@ -90,8 +90,8 @@ amide - amide
 amie - doste  
 amine - amin  
 amiral - bahai amirer  
-amour (affection) - luba  
-amoureux - lubar  
+amour (affection) - ame  
+amoureux - amer  
 ampoule (fiole) - ampul  
 ampère - amper  
 américain - Amerikan  
@@ -117,7 +117,7 @@ animal (bête) - hevan
 animation - animaje  
 animation - animation  
 animer - animate  
-animer - fa anime  
+animer - animate  
 animisme - animisme  
 anis - anis  
 anneau - ring  
@@ -134,7 +134,7 @@ appartenir à - be mal
 appliquer - uzife  
 appliquer - aplike  
 apporter - fa lai  
-apprendre (étudier) - fa xula  
+apprendre (étudier) - xule  
 apprivoiser (dresser, dompter, discipliner) - fa dosil  
 approcher - aproxe  
 approprié (adapté, convenable, opportun) - hapu  
@@ -201,7 +201,7 @@ atome - atom
 aubergine - bedingan  
 augmenter - auge  
 Australie - Australia  
-Austronésie - Austronesi  
+Austronésie - Austronesia  
 autel - puja meza  
 auteur - auter  
 autocollant - glu grafi  
@@ -209,7 +209,7 @@ automatique - autatike
 automne - pada mosim  
 autopsie - nekrotomia  
 autre - ale  
-autrement - alo di  
+autrement - ale di  
 avant - pre  
 avec (commun) - kon  
 aventure - ventur  
@@ -234,16 +234,16 @@ backgammon - narde
 bagage - bagaje  
 baguettes - haxi  
 bah - bah  
-baie (golf) - baya  
+baie (golf) - bahai sake  
 baie - beri  
 bain - banya  
-baisser - fa dipe  
+baisser - dipe  
 balai - jaru  
 balance (poids) - veze metri gi  
 balau (meranti) - meranti  
 balcon - veranda  
 balle (boule) - bol  
-ballon - balon  
+ballon - bolon  
 bambou - bambu  
 banane - banana  
 bande - banda  
@@ -257,7 +257,7 @@ barbe - barde
 Barbuda - Barbuda  
 barman - bar vala  
 baromètre - air prese metri gi  
-barrière - bara mur  
+barrière - bare mur  
 baryum - barium  
 bas - dipe  
 base (alcali; basique) - kali  
@@ -281,7 +281,7 @@ betterave - bete
 betterave à sucre (betterave sucrière) - sukar bete  
 beurre - bute  
 bibace (nèfle du Japon) - pipa frute  
-bibliothèque - kitabakan  
+bibliothèque - kitabekan  
 bicyclette - sikle  
 bidonville - harabu mahala  
 bien-être - salta  
@@ -299,13 +299,13 @@ bière - bir
 blanc - baku  
 blettes (bettes) - selge  
 bleu - nil  
-bloquer - bara  
+bloquer - bare  
 blé - gandum  
 bohrium - borium  
 boire - xarbe  
 bombe - bombe  
-bombe atomique - atom bomba  
-bon - bon  
+bombe atomique - atom bombe  
+bon - hau  
 bonbon - kandi  
 bonne (domestique) - aya  
 bord - kinar  
@@ -443,7 +443,7 @@ champagne - xampan vin
 champignon - fungu frute  
 chance - canse  
 changement climatique - klima mute  
-changer - alofa  
+changer - alife  
 chanter (chanson) - gani  
 chapitre - babu  
 chardon - kardon  
@@ -451,7 +451,7 @@ chardon aux ânes - pin kardon
 chardon Marie - milke kardon  
 chardon penché - pende kardon  
 charge (fardeau, poids) - karga  
-charger - fa karga  
+charger - karge  
 charme - carme  
 charnel - karnal  
 chasser - fa saide  
@@ -466,7 +466,7 @@ chaîne - serser
 chef - xefe  
 chemise - kamisa  
 chenil - vaf parke  
-cher - luba di  
+cher - amike  
 chercher - soki  
 cheveux - kapa kexa  
 chien - vaf  
@@ -482,15 +482,15 @@ chou-fleur - hua koli
 chow mein - cau mien  
 Christ - kriste  
 chrome - kromium  
-chronique - dura di  
-chronomètre - dura metri gi  
+chronique - dure di  
+chronomètre - durometrer  
 chu - pada di  
 chut - tix  
 chutney - hinde sos  
 chèque - ceke  
 chèque cadeau - don xe ceke  
 chèque de voyage - safar ceke  
-chéri - luba jen  
+chéri - ame jen  
 chêne - baluta  
 chêne pédonculé - europa baluta  
 chœur - ganir grupe  
@@ -515,7 +515,7 @@ cobalt - kobalte
 coeur - kerne  
 collaborer - kon kar  
 collaborer - konkar  
-coller - fa glu  
+coller - glutize  
 colorant - rang mate  
 combava - gros limon  
 comique - komike  
@@ -547,11 +547,11 @@ connexion - konnetion
 conseil - sel  
 conseiller - fa sel  
 considérer - hem  
-construire - fa bina  
+construire - bine  
 consultant (conseiller) - konseler  
 conte de fées - pari kata  
 conteneur - kontener  
-continu (analogique) - undura  
+continu (analogique) - undurike  
 continuer (poursuivre, encore) - zoku  
 contract (traité) - trati  
 contract (traité) - kontrati  
@@ -585,12 +585,12 @@ courgette - xiu kaboga
 courir - kore  
 couronne - korona  
 coutume - ada  
-couvrir - fa daka  
+couvrir - dake  
 crabe - krabe  
 craindre (avoir peur) - be fobi  
 cravache - uma bici  
 crayon - karbe kalam  
-creuser (fosse) - kava  
+creuser (fosse) - kave  
 crevette - gamba  
 cricket - krikete  
 cristal - bilor  
@@ -651,7 +651,9 @@ demain - pos den
 demander (poser un question; est-ce que) - fa sual  
 dessous - nice  
 destin - kisma  
+dette - debaje  
 deux (2) - du  
+devoir (obligation) - debe  
 devoir - mus  
 diamant - adamas  
 dichotomie - dutomia  
@@ -699,9 +701,9 @@ droits de l'homme - human hake
 dubnium - dubnium  
 dune - duna  
 dur - gati  
-durant - a dura de  
-durer - be dura  
-durée - dura  
+durant - a dure de  
+durer - be dur  
+durée - dure  
 dynamite - dinamite  
 dysprosium - disprosium  
 dé - zar kube  
@@ -710,15 +712,15 @@ début (commencement) - xuru
 décapé (mariné) - acar di  
 décharge - lasa stan  
 déchirer - cira  
-défigurer - fa dus forma  
 défigurer - dusforme  
+défigurer - dusformife  
 défunt - defunte  
 déféquer - defeke  
 délai (retard) - dele  
 déléguer - vakilize  
 démocratie - demokratia  
 dénier - denege  
-désaccord (différend) - alo rai  
+désaccord (différend) - anrai  
 désastre - dusastre  
 désespéré - axa hin  
 détenir (arrêter) - detene  
@@ -736,7 +738,7 @@ effectuer - fa asar
 effet - asar  
 effet - exfete  
 effrayant - fobive  
-effrayer - fa fobi  
+effrayer - fobife  
 einsteinium - einsteinium  
 elfe - elfe  
 empire - imperia  
@@ -779,7 +781,7 @@ ethnique - zuku di
 Europe - Europa  
 europium - europium  
 européen - europa di  
-excaver - exkava  
+excaver - exkave  
 exclure - fa vai klus  
 exclusif - vai klus di  
 excursion (tournée) - tur  
@@ -791,7 +793,7 @@ exposer - expoze
 expulser - expele  
 extraire - extrate  
 extérieur - vai  
-exécrer - anluba  
+exécrer - aname  
 
 ## F  
 
@@ -833,8 +835,8 @@ fil de trame - vei lin
 fille - doh  
 fils - son  
 fils ou fille - ben  
-fini - fin di  
-finir - fa fin  
+fini - finike  
+finir - fine  
 fiord - fiorde  
 fleur - hua  
 fluor - flur  
@@ -851,7 +853,7 @@ football - fute bol
 force - balata  
 force navale (marine) - bahai ordu  
 forer (percer) - fora  
-former - fa forma  
+former - formize  
 fort - bala  
 fort - burge  
 forêt (jungle) - jangal  
@@ -952,12 +954,11 @@ géologie - geologia
 géométrie - geometria  
 géopolitique - geopolitia  
 géothermique - geoterme  
-gêner (déranger, perturber) - fa turbe  
 gêner (déranger, perturber) - turbe  
 
 ## H  
 
-habiller (vêtir) - fa fuku  
+habiller (vêtir) - fukize  
 hafnium - hafenium  
 haine - hen  
 halte - halte  
@@ -1038,7 +1039,7 @@ imperméable - barxa kote
 imploser - be in bum  
 implosion - in bum  
 important - ham di  
-inclure - fa in klus  
+inclure - inkluse  
 inclusif - in klus di  
 Inde - Bartia  
 indien - barte  
@@ -1053,7 +1054,7 @@ infection - infete
 infidèle (incroyant) - andiniste  
 infidèle (incroyant) - ankreder  
 inflammation - itis  
-informatique - data culi logia  
+informatique - data cule logia  
 infrastructure - baze strute  
 inférer - infere  
 ingénierie (génie) - engenia  
@@ -1113,7 +1114,7 @@ kaki - haki rang
 kaki - kaki  
 kangourou - kangaru  
 karaté - karate  
-karatéka - karateja  
+karatéka - karater  
 kendo - gem dau  
 Khartoum - Hartum  
 kimono - kimono  
@@ -1130,9 +1131,8 @@ Kâmasûtra - kama kanon
 
 l'un l'autre - semen  
 lac - lage  
-laid (vilain) - dus vide  
+laid (vilain) - dusrupike  
 laine - meme kexa  
-laisser - laxe  
 lait - milke  
 lait de soja - soi milke  
 laitue - letus  
@@ -1183,7 +1183,7 @@ lit de camp - kampe bede
 lithium - litium  
 litre - litre  
 lits superposés - ceng bede  
-littérature - kitaba suta  
+littérature - kitabe suta  
 livermorium - livermorium  
 livre - buku  
 livre de bord - loga buku  
@@ -1192,7 +1192,7 @@ logique - ratologia
 loin (hors, parti) - for  
 loin - to long  
 long - long  
-longtemps - long dura  
+longtemps - long dure  
 loquace - logive  
 loquet - kane sor  
 louche (cuillère à pot) - pote camaca  
@@ -1216,15 +1216,16 @@ lynx - linxe
 lys - susan  
 là (y) - a vo  
 lâcher (laisser) - laxa  
-léger - legu veze di  
-légume - yam fito  
-létal - letali  
+lâcher (laisser) - laxe  
+léger - lege veze di  
+légume - vege  
+létal - letal  
 lézard - saur  
 
 ## M  
 
 machine - makin  
-machine à écrire - kitaba gi  
+machine à écrire - kitabe gi  
 magma - pasta petra  
 magnésium - magenium  
 mah-jong - majang  
@@ -1234,6 +1235,7 @@ mais - ama
 maison (foyer, domicile) - dom  
 majeur - maxike  
 majorité - maxia  
+malfeiteur - duskarer  
 malt - malte  
 maltose - maltos  
 malédiction - dusdua  
@@ -1243,7 +1245,7 @@ mandarine - rubi orange
 mandarine satsuma - venzou orange  
 manganèse - mangan  
 manichéisme - mani din  
-manie - mani  
+manie - mania  
 manioc - manioka  
 mantra - mantra  
 marbre - kalsobilor  
@@ -1259,7 +1261,7 @@ Maroc - Magribia
 Marrakech - Marakux  
 Mars - Maris  
 marécage (marais) - poto stan  
-masque - maska  
+masque - maske  
 masse - masa  
 mat (opaque) - foto mata di  
 match - mece  
@@ -1295,7 +1297,7 @@ message - angil
 message - misaje  
 messager - angiler  
 messie - mesi  
-mettre (placer) - fa loka  
+mettre (placer) - loke  
 meule - molite  
 microbe - mikrobie  
 microbiologie - mikrobiologia  
@@ -1328,7 +1330,7 @@ monocle - un yen di lense
 monogramme - monograme  
 monologue - autologe  
 monstre - mostre  
-mordre - fa dante  
+mordre - dante  
 mordre - gate a dante  
 morue (cabillaud) - bakalau  
 morue de l'Atlantique - atlanti bakalau  
@@ -1447,6 +1449,7 @@ névralgie - neuralgia
 
 oasis - vahi  
 objet (article) - vutu  
+obliger (imposer) - debize  
 oblique (de travers) - terca  
 obsidienne - osidian  
 occupé - mang  
@@ -1486,7 +1489,7 @@ ordre - ratibu
 ordre - sanga  
 ordures - lasa  
 oreille - ore  
-organiser - fa nomi  
+organiser - nome  
 organisme - bier  
 orge - jau  
 origine - asle  
@@ -1542,7 +1545,7 @@ par exemple - to misal
 paramètre - parametri  
 parapluie - barxa cati  
 parc - parke  
-pardonner - fa maf  
+pardonner - maf  
 parent (géniteur) - cin  
 parfait - perfete  
 Paris - Paris  
@@ -1553,10 +1556,10 @@ partenaire - partaner
 partie (faction) - partia  
 passe (passage) - pas dau  
 passeport - pasporte  
-passer - fa dura  
+passer - dure  
 passer - pas  
 passerelle - nave trepe  
-pastèque - arbuza  
+pastèque - arbuze  
 paternel - pa di  
 pathologie - patologia  
 patient - patike  
@@ -1568,14 +1571,14 @@ pavot d'Orient - gui papi
 pavot somnifère - sona papi  
 pavé - gola seku  
 pays des fées (paradis) - paristan  
-peindre - fa pente  
+peindre - pente  
 peinture - pente  
 pelle - belca  
 pelouse (gazon) - cau medan  
 perdant - xiti bai ja  
 perder - xiti  
 pere (papa) - pa  
-perfectionner (parfaire) - fa pul bon  
+perfectionner (parfaire) - fa pul hau  
 peroxyde - peroxide  
 peroxyde - peroxide  
 peroxyde d'hydrogène - hidre peroxide  
@@ -1673,7 +1676,7 @@ porcelaine - cini
 pore - pore  
 porte - porto  
 porte-bloc (planchette à pince) - pinse bano  
-porter (s’habiller) - fa fuku  
+porter (s’habiller) - fuke  
 porter - porte  
 Porto Rico - Portoriko  
 Portoricain - portoriko jen  
@@ -1702,13 +1705,13 @@ pouvoir (possible, capacité) - bil
 poêle - tava  
 praséodyme - prazedimium  
 presse-papier - gate glu bano  
-presser - fa prese  
+presser - prese  
 pression - prese  
 pression atmosphérique - air prese  
 pressoir - preser  
 preuve - dalil  
 principe - bazisme  
-prison (geôle) - jelakan  
+prison (geôle) - jelekan  
 privatiser - privatize  
 priver de - deprive  
 proactif - proative  
@@ -1727,14 +1730,14 @@ projection - lanse grafi
 projet - projete  
 projeter (donner) - fa lanse grafi  
 projeter (image projection) - jete grafe  
-prolongé - long dura di  
-promettre - fa vode  
+prolongé - long durike  
+promettre - vode  
 promettre - promise  
 prométhium - prometium  
 Prométhée - Promete  
 prophète (héraut) - nabija  
 prophétiser - nabi  
-propice - bon sin di  
+propice - hau sin di  
 propriété (possession, bien) - mal  
 protactinium - protacinium  
 protocole - bure rite  
@@ -1768,6 +1771,8 @@ périr - perex fa
 péter - fa pede  
 pétrole (essence) - petra nafte  
 pêcheur - pexe saider  
+qualifier (définir) - kalife  
+qualité - kalta  
 quand - ke sata  
 quartier - mahala  
 quartz - kuarze  
@@ -1809,7 +1814,7 @@ renard - huli
 reporter (rapporteur) - reporter  
 repos - xanti  
 repport (reportage) - reporte  
-reprendre - redura  
+reprendre - redure  
 représentant (délégué) - vakiler  
 requin - xayu  
 reste - baki  
@@ -1866,9 +1871,9 @@ réglisse - alkasus
 réincarnation - reinkarnation  
 réparateur - reparer  
 réparation - repare  
-réparer - fa xuli  
+réparer - repare  
 réparer - repar  
-réponse - javabu  
+réponse - javabe  
 république - vakilkratia  
 répéter - fa re  
 répéter - rifete  
@@ -1880,7 +1885,7 @@ rôtir - xava
 
 s'installer (déménager) - be migra  
 sable - sable  
-sac - baga  
+sac - bage  
 sac - sake  
 saccharose - sukaros  
 sacrifice - kurban  
@@ -1894,7 +1899,7 @@ sale - ansaf
 salle - sala  
 salle de bains - banya kamar  
 salle de classe - xule kamar  
-salle de muscu -  
+salle de muscu - balakan  
 salut - sal  
 samarium - samarium  
 samedi - xaniden  
@@ -1908,6 +1913,7 @@ sapin - abies
 sari - sari  
 sarigue (opossum) - aposum  
 Satan - xatan  
+satellite - satelite  
 Saturne - Xani  
 sauce - sos  
 sauce de soja - soi sos  
@@ -1918,6 +1924,8 @@ saumon rose - rode salmon
 saumon sockeye - rubi salmon  
 sauvage - ekonative  
 sauvage - vilde  
+sauver (secourir) - salve  
+sauveur - salver  
 savane - garma zona caustan  
 savoir - sabi  
 savoir - san  
@@ -1948,14 +1956,14 @@ sentir qqch - fa aroma
 sept (7) - ceti  
 serrure - tala  
 serviette - tuale  
-seul (unique) - un di  
+seul (unique) - unike  
 sexe - sexu  
 sexologie - sexulogia  
-Shiva - xiva  
+Shiva - Xiva  
 shopping - xope  
 si - si  
 signe - sine  
-signer - nam kitaba  
+signer - nam kitabe  
 signifier (voiloir dire) - seme  
 silence - tixta  
 silencieux (se taire) - tix  
@@ -2078,7 +2086,7 @@ théosophie - deosofia
 tige - tana  
 tigre - bagre  
 tipi - tipi  
-tire à l'arc - arka suta  
+tire à l'arc - arke suta  
 tirer - tire yo milke  
 tissu - tela  
 titane - titanium  
@@ -2110,11 +2118,10 @@ tragicomique - tragokomike
 tragique - tragike  
 tragédie - tragodia  
 train - tren  
-traitement (processe) - culi  
-traitement d'images - grafe culi  
-traitement de données - data culi  
-traitement de texte - kitaba culi  
-traiter - fa culi  
+traitement d'images - grafe cule  
+traitement de données - data cule  
+traitement de texte - kitabe cule  
+traiter (traitement, processe) - cule  
 transmisión - tramiseon  
 transmisor - tramiser  
 transmitir - tramise  
@@ -2145,7 +2152,7 @@ tunique - kurta
 Tunisie - Tunis  
 turban - pagri  
 turbine - turbin  
-turboréacteur - turbejeter  
+turboréacteur - turbojeter  
 télescope (lunette) - teleskope  
 télécharger - nete gete  
 téléphone - telefon  
@@ -2157,8 +2164,8 @@ tête - kapa
 
 un (1) - un  
 une fois - un mar  
-union - un ta liga  
-universel - un verse di  
+union - unia  
+universel - universal  
 uranium - uranium  
 Uranus - Uran  
 urbain - nagral  
@@ -2193,7 +2200,7 @@ verre - glas
 verre coloré - rang glas  
 verrue - veruke  
 verser (verse, face á) - verse  
-verser - fa verse  
+verser - verse  
 vert - luga  
 veuve - vidua  
 viande - karne  
@@ -2235,7 +2242,8 @@ voyelle - vokal fone
 voûte - arke cati  
 vrai - ver  
 vulve - vulva  
-végétarien - fito yamiste  
+végétarien - vegoyamiste  
+végéter - vegate  
 Vénus - Zukra  
 vêtements - fuku  
 vœu (promesse) - vode  
@@ -2281,7 +2289,7 @@ zéro - siro
 Épicéa - pisea  
 âge - umur  
 âme (esprit) - anime  
-éblouir (étonner, stupéfier, surprendre) - fa ajabu  
+éblouir (étonner, stupéfier, surprendre) - ajabife  
 échec - xiti bai  
 échec et mat - xah mata  
 échelle - foli  
@@ -2291,7 +2299,7 @@ zéro - siro
 économie - malonomia  
 écorce - tire yo pil  
 écran - eskran  
-écrire - kitaba  
+écrire - kitabe  
 écureuil - lixu  
 édenté - dante hin  
 éducation - xule  
@@ -2331,7 +2339,7 @@ zéro - siro
 études de genre - gensologia  
 étudiant - studer  
 étudiant - xuler  
-étudier - fa estude  
+étudier - stude  
 étymologie - lexasle  
 été - garma mosim  
 évaluer - fa valu  

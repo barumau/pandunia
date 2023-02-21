@@ -46,8 +46,9 @@ The final version of Pandunia will be published in 2023.
 - [Searchable dictionary](tiddly.html)
 - [Origins of words](leksaslia.md)
 - Go to the
-  [Pandunia lexi a dunia karta](http://www.pandunia.info/lexikarta/index.html)
+  [Pandunia lexe a dunia karte](http://www.pandunia.info/lexikarta/index.html)
   pages to see where every Pandunia word is from on a world map.
+- [Stories in Pandunia](https://www.pandunia.info/kitabe)
 
 ## Material in other sites
 

@@ -338,6 +338,17 @@ are not compound words in Pandunia.
 → **limonaje**
 'lemonade'
 
+**-al**
+'belonging or related to' :  
+**fine**
+'end'
+→ **final**
+'final, related to the end'  
+**karne**
+'flesh'
+→ **karnal**
+'fleshly, related to flesh'
+
 **-an**
 'one who belongs to, one who has membership in' :  
 **Amerike**
@@ -506,15 +517,15 @@ There are also a lot of country names that do not end in **-ia**.
 'Indonesia'
 
 **-ike**
-'of the style or manner of, -ish, -esque' :  
+'that which is like' :  
 **un**
 'one'
 → **unike**
 'only, sole, single'  
-**dom**
-'home'
-→ **domike**
-'domestic'
+**makin**
+'machine'
+→ **makinike**
+'machine-like, mechanical'
 
 **-ime**
 'the most, superlative' :  

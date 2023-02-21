@@ -3,7 +3,7 @@
 ## A  
 
 a - 在  
-a dura de - 在……期间  
+a dure de - 在……期间  
 a kon - 共同 (一起)  
 a lin - 在线  
 a poli mar - 经常  
@@ -34,6 +34,7 @@ ais xarbe - 冰果子露
 akare - 蜱 (螨)  
 akrabe - 蝎子 (天蝎座)  
 ale - 另一  
+alife - 改變  
 alge - 疼痛  
 • analgive - 止痛药  
 alga - 藻类  
@@ -45,10 +46,12 @@ alkin - 炔烃
 alkol - 酒  
 alkasus - 甘草 (国老)  
 almari - 碗碟橱  
-alofa - 改變  
 alo fen di - 分开的  
 alpaka - 无峰驼  
 alumin - 铝  
+ame - 爱  
+amer - 恋人 (情人, 爱人)  
+amike - 亲爱的  
 ama - 但是 (不过)  
 amen - 信赖  
 amenbil - 忠实  
@@ -77,7 +80,7 @@ arane - 蜘蛛
 aranofobia - 蜘蛛恐惧症  
 aranide - 蜘蛛类  
 arane nete - 蜘蛛网  
-arbuza - 西瓜  
+arbuze - 西瓜  
 argente - 银  
 argon - 氩  
 • anarhia - 无政府状态  
@@ -107,10 +110,10 @@ ative - 活性
 Athina - 雅典  
 atlanti bakalau - 大西洋鱈  
 atlanti salmon - 大西洋鮭  
-atom bomba - 原子爆弹  
+atom bombe - 原子爆弹  
 atom kerne - 原子核  
 auro - 金  
-Austronesi - 南岛  
+Austronesia - 南岛  
 autatike - 自动的  
 autologe - 独白  
 ave - 燕麦  
@@ -126,7 +129,7 @@ babuce - 拖鞋
 baca - 小孩  
 badam - 杏仁 (巴旦木)  
 badan - 身体  
-baga - 包  
+bage - 包  
 bagaje - 行李  
 bagre - 虎  
 bagre oselote - 小斑虎貓  
@@ -141,6 +144,7 @@ bahai hua - 海葵
 bahai kinar - 海岸  
 bahai ordu - 海军  
 bahai porto - 海港  
+bahai sake - 海湾  
 bahai vala - 水手 (海员)  
 bai - 击败  
 baka poto - 陶瓦  
@@ -152,9 +156,8 @@ baku margarite - 法蘭西菊
 baku salmon - 大麻哈鱼 (狗鮭)  
 baku varis - 白米  
 • anbala - 虚弱 (易坏)  
-• - 体育馆  
+balakan - 体育馆  
 balata - 力  
-balaton - 重音符号  
 baluta - 橡树  
 bambu - 竹子  
 bamia - 秋葵  
@@ -182,8 +185,8 @@ batri - 电池
 bau bei - 伴侣 (宝贝)  
 bau di - 宝贵  
 bauite - 宝石  
-• trabaxe - 翻译  
 baxe - 语言  
+• trabaxe - 翻译  
 baxe logia - 语言学  
 baze - 底部  
 baze bol - 棒球  
@@ -222,6 +225,7 @@ bete - 甜菜頭
 betula - 桦树  
 bier - 生物  
 biofizologia - 生理学  
+biogense - 生物性別  
 biologia - 生物学  
 biosistem - 生物群系  
 biotoxe - 毒素  
@@ -232,24 +236,20 @@ bil es - 也许 (或是, 可能)
 bilive - 熟练  
 bil ki - 也许 (或是, 可能)  
 bine - 建筑  
+bine - 建设  
 bine plan - 建筑学  
 bine planer - 建筑师  
-biogense - 生物性別  
 bir - 啤酒  
 biskute - 饼干 (曲奇饼)  
 bismute - 铋  
 bison - 野牛  
 boce - 拳击  
-boce pante - 平角褲  
 bocer - 拳击手  
+boce pante - 平角褲  
 boka cati - 上颚 (口盖)  
 bol - 球  
 boli varis - 饭 (米饭)  
 bombe - 炸弹  
-bon - 好  
-bon moral - 道德  
-bon sin di - 吉利的  
-bon vide di - 好看  
 boron - 硼  
 botel - 瓶  
 botel tape - 瓶盖  
@@ -290,7 +290,7 @@ cai pote - 茶壶
 camaca - 匙子  
 cana - 时刻 (瞬间, 刹那)  
 cati - 屋顶 (房顶)  
-cau kitaba - 草书  
+cau kitabe - 草书  
 cau medan - 草地  
 cau mien - 炒面  
 cavi - 钥匙 (锁匙)  
@@ -322,10 +322,10 @@ coklate - 巧克力
 coklate kane - 巧克力棒  
 congcing - 重庆  
 copu - 锄头  
-culi - 处理  
+cule - 处理 (对待)  
 cun - 选  
 cunbil - 选择 (买卖权)  
-cuti - 出  
+cute - 出  
 
 ## D  
 
@@ -345,12 +345,13 @@ dan - 等 (段)
 dana.cau - 小米  
 dang gi - 钟 (摇铃)  
 Danske - 丹麦的  
+dante - 咬  
 dante baluta - 槲树  
 dare tube - 漏斗  
 data - 数据  
 data banke - 数据库  
-data culi - 数据处理  
-data culi logia - 计算机科学  
+data cule - 数据处理  
+data cule logia - 计算机科学  
 data table - 表格  
 dava sui - 药水  
 dava xe - 药物  
@@ -360,6 +361,9 @@ de - 从
 dee - 神  
 deokata - 神话  
 deonagre grame - 天城文  
+debe - 责任  
+debaje - 借款 (债务)  
+debize - 责  
 defe bano - 盾牌  
 defe kaska - 盔甲  
 deha - 村  
@@ -413,13 +417,12 @@ dugu - 读 (看)
 dukan - 商店 (店铺)  
 dum - 烟  
 dunia - 世界  
-dura - 时间  
-durabil - 耐用的  
-dura metri gi - 秒表  
+dure - 时间  
+durebil - 耐用的  
+durometrer - 秒表  
 dus - 难  
-dus jen - 敌人  
+dus jen - 敌人 (坏人)  
 dus sin di - 不祥的  
-dus vide - 难看  
 dux - 淋浴  
 
 ## E  
@@ -455,28 +458,17 @@ fa alo rai - 不同意
 fa aroma - 闻到  
 fa aroma - 发臭  
 fa banya - 游泳  
-fa bina - 建设  
-fa culi - 处理 (对待)  
-fa dante - 咬  
 fa ding - 决定  
 fa dosil - 驯养  
-fa dus forma - 变丑  
 fa fei - 飞  
-fa fobi - 吓唬  
-fa for - 除去  
-fa fuku - 穿  
 fa hisabu - 计算  
 fa hogo - 燃烧  
-fa in klus - 包括  
 fa kino - 动  
 fa lai - 带来  
 fa lanse grafi - 投射  
 fa linke - 连接  
-fa loka - 放置  
-fa mede - 帮助  
 fa memo - 记得 (回忆)  
 fa najis - 污染  
-fa nomi - 组织  
 fa pede - 放屁  
 fa ratibu - 整理  
 fa re - 重复  
@@ -488,14 +480,9 @@ fa siro - 删除 (消除)
 fa sual - 问  
 fa tele fon - 打电话  
 fa truke - 耍花招  
-fa vode - 许诺  
 fa xipi - 弄湿  
 fa xiti bai - 输  
-fa xofer - 开车  
 fa xopi - 买  
-fa xula - 学习  
-fa xuli - 修理  
-fa xuru - 开始  
 faide - 效用 (好处)  
 fan - 粉丝 (fensi)  
 fase - 面  
@@ -512,29 +499,30 @@ fen lize - 分析
 fenol - 苯酚  
 fermium - 镄  
 fero - 铁  
+fete - 事实  
 • infete - 传染  
 • rifete - 重复  
-fete - 事实  
 filme - 电影 (影片)  
 filsofe - 哲学  
 fin - 了  
-fine - 窄 (薄, 稀疏)  
 fiorde - 峡湾  
 firuze - 绿松石  
 fite - 植物  
 fitologia - 植物学  
-fito yamiste - 素食主义者  
 fizike gi - 硬件  
 fizologia - 物理学  
 flece - 箭  
 flur - 氟  
 fluride - 氟化物  
+fobife - 吓唬  
 foli - 鳞  
 fonte - 泉  
 fonte kalam - 钢笔  
 fonte sui - 泉水  
+forife - 除去  
 fora - 钻孔  
 • dusforme - 变丑  
+• dusformife - 变丑  
 fosfe - 磷  
 fosfate - 磷酸盐  
 fote - 光  
@@ -552,6 +540,7 @@ frutos - 果糖
 frute parke - 果园  
 frute xarbe - 果子露  
 fufu - 富富  
+fuke - 穿  
 fuku - 衣服  
 fuku vaxi gi - 洗衣机  
 fulan - 某某  
@@ -640,7 +629,7 @@ gola seku - 鹅卵石
 gorila - 大猩猩  
 goton - 棉  
 gradu mute - 发展 (开发)  
-grafe culi - 影像处理  
+grafe cule - 影像处理  
 grafe kata - 漫画  
 • programe - 计划  
 • programaje - 软件  
@@ -689,6 +678,10 @@ Hartum - 喀土穆
 hata - 直到  
 hata di - 连  
 hatar - 危险  
+hau - 好  
+hau moral - 道德  
+hau sin di - 吉利的  
+hau vide di - 好看  
 haxi - 筷子 (箸)  
 hei - 喂  
 helium - 氦  
@@ -775,13 +768,13 @@ jangal - 森林
 jara - 罐 (瓶)  
 jaru - 扫帚  
 jau - 大麦  
-javabu - 回答  
+javabe - 回答  
 jebe - 口袋 (荷包)  
 jebe caku - 小刀  
 jeka - 借  
 jeka don - 借出  
 jeka na - 借入  
-jelakan - 监狱 (监牢)  
+jelekan - 监狱 (监牢)  
 jen - 人  
 jen bahai - 人海  
 jen jami - 人群  
@@ -896,7 +889,7 @@ kasete - 卡式
 kaska - 壳 (皮)  
 katus - 仙人掌  
 kauri - 宝贝  
-kava - 挖 (坑, 穴)  
+kave - 挖 (坑, 穴)  
 ke - 什么  
 ke riti - 怎么  
 keci - 客气  
@@ -916,17 +909,18 @@ kinar - 边
 kinar baryer - 篱笆  
 kio - 桥  
 kisma - 命運  
-kitaba - 写  
-kitaba culi - 文字处理 (字处理)  
-kitaba gi - 打字机  
-kitabakan - 图书馆  
-kitaba suta - 文学  
+kitabe - 写  
+kitabe cule - 文字处理 (字处理)  
+kitabe gi - 打字机  
+kitabekan - 图书馆  
+kitabe suta - 文学  
 kivi - 无翼鸟  
 kivi frute - 奇异果 (猕猴桃)  
 klien - 顾客  
 klima mute - 气候变化  
 klin - 趋势  
 klor - 氯  
+• inkluse - 包括  
 koala - 樹袋熊 (考拉)  
 kobalte - 钴  
 koda - 尾巴 (尾部)  
@@ -935,7 +929,7 @@ kolum - 柱子
 komodia - 喜剧  
 koma - 逗号  
 kon - 共  
-kon bon - 相配  
+kon hau - 相配  
 kon helen baxa - 通用希臘語  
 kon kar - 合作  
 kon trati - 公約  
@@ -1005,7 +999,6 @@ late - 侧面 (旁边)
 Latvia - 拉脱维亚  
 lau - 老 (老年, 年歲大)  
 laurencium - 铹  
-laxe - 落 (留下)  
 lazanya - 千层面  
 lazur petra - 青金岩  
 le - 了  
@@ -1043,19 +1036,17 @@ litre - 升
 lixu - 松鼠 (栗鼠)  
 loga - 纪录  
 loga buku - 航海日志  
+loke - 放置  
 loke - 地方  
 loke kode - 坐标  
 lona - 论  
 long - 长  
-long dura - 久  
+long dure - 久  
 long kata - 小说  
 long pipre - 荜拔  
 long tire - 拉  
 lotra - 獭  
 lou - 漏  
-luba - 爱  
-luba di - 亲爱的  
-lubar - 恋人 (情人, 爱人)  
 luga - 绿色  
 luka - 六 (6)  
 lumize - 擦亮  
@@ -1113,6 +1104,7 @@ maya - 玛雅
 mayur - 孔雀  
 maze - 袜子  
 mece - 比赛  
+mede - 帮助  
 mede - 帮  
 medal - 奖章  
 medan - 广场  
@@ -1192,6 +1184,7 @@ mostre - 妖怪 (怪物)
 moter - 马达 (发动机)  
 moto cati - 引擎盖  
 mudan - 牡丹  
+mule - 开始  
 mula - 根  
 mum cape - 封印  
 mum melon - 冬瓜 (白瓜)  
@@ -1220,7 +1213,7 @@ nagre gogia - 城邦
 najis - 污染物  
 nam - 名  
 nam hin - 无名  
-nam kitaba - 签署  
+nam kitabe - 签署  
 nan reger - 王  
 narde - 双陆棋  
 narke - 毒品 (麻醉. 麻药 )  
@@ -1264,7 +1257,7 @@ neuron - 神经细胞
 neurotoxe - 神经毒素  
 ni - 女  
 nia - 意图  
-nice kitaba - 字幕  
+nice kitabe - 字幕  
 nide - 巢 (穴)  
 nikel - 镍  
 nil - 蓝色  
@@ -1284,6 +1277,7 @@ nobelium - 锘
 noce - 夜  
 Noe - 诺亚  
 Noe di nave - 诺亚方舟  
+nome - 组织  
 norde - 北  
 nostalgia - 怀旧  
 note xe - 便条  
@@ -1340,6 +1334,7 @@ pankreas - 胰脏
 pante - 裤子  
 papagai - 鹉鹦  
 papaya - 木瓜  
+repare - 修理  
 repare - 修理  
 reparer - 修理工人  
 par fase - 水平  
@@ -1434,7 +1429,6 @@ puding - 布丁
 pujakan - 寺庙  
 puja meza - 圣坛  
 pul fina - 完成  
-pul fito yamiste - 纯素食主义者  
 pul xipi - 浸泡  
 pulmon tis - 肺炎  
 puma - 美洲獅 (山狮)  
@@ -1490,6 +1484,7 @@ rubi linse - 短尾貓
 rubi orange - 柑橘 (红橘)  
 rubi salmon - 紅鮭  
 ruhu mixe di - 困惑 (混乱)  
+• dusrupike - 难看  
 rusium - 钌  
 
 ## S  
@@ -1513,6 +1508,8 @@ salta - 福利 (福祉)
 sala - 大厅  
 saludo - 健康  
 saluta - 健康  
+salve - 拯救  
+salver - 救世主  
 sam - 一样  
 sam bei - 同辈  
 sammetria - 对称  
@@ -1532,6 +1529,7 @@ sante kanon - 圣经
 sanzi - 扇子  
 sapatu - 鞋  
 sari - 莎丽  
+satelite - 卫星  
 sau - 兄弟姐妹 (xiōngdì jiěmèi)  
 saur - 蜥蜴  
 se di - 自私  
@@ -1603,7 +1601,7 @@ suga - 快
 suga metri gi - 速度计  
 sugata - 速度  
 sui - 水  
-sui culi - 水处理  
+sui cule - 水处理  
 sui gas - 蒸汽  
 sui gui - 水怪  
 sui kaboga - 葫芦  
@@ -1680,6 +1678,7 @@ tole - 忍受
 tolerate - 忍受  
 • biotomia - 活体解剖  
 tomate - 西红柿  
+• protone - 重音符号  
 topografia - 地形  
 tore - 塔 (塔楼)  
 torium - 钍  
@@ -1715,11 +1714,11 @@ uma bici - 马鞭
 umami - 鲜味  
 umur - 年岁  
 un - 一 (1)  
-un di - 只有 (惟独, 唯一, 独)  
-undura - 指针式的  
+undurike - 指针式的  
+unia - 合并  
+unike - 只有 (惟独, 唯一, 独)  
 un mar - 一次 (一遍)  
 unta - 团结 (统一)  
-un ta liga - 合并  
 un zai di - 独自的 (孤单)  
 uranium - 铀  
 uzife - 运用  
@@ -1748,6 +1747,9 @@ vanu - 娱乐
 vari - 各种各样  
 varis - 米  
 varis vin - 黄酒 (米酒)  
+vege - 蔬菜  
+veganiste - 纯素食主义者  
+vegoyamiste - 素食主义者  
 vei gradu - 纬度  
 vei lin - 緯紗  
 vende - 卖  
@@ -1775,6 +1777,7 @@ vitamin - 维生素 (维他命)
 Vixnu - 毗湿奴  
 viziter - 客人  
 vo - 那  
+vode - 许诺  
 vode - 诺言  
 vol - 想要 (愿意)  
 volfe - 狼  
@@ -1817,14 +1820,16 @@ xiu - 小
 xiu deha - 小村  
 xiu kaboga - 西葫芦  
 xiu seku - 砾石  
-xiva - 湿婆  
+Xiva - 湿婆  
 xix - 扦子  
 xix karne - 串烧  
 xixa pipe - 水烟袋  
+xofe - 开车  
 xofer - 司机  
 xope - 购物 (血拼)  
 xukre - 谢谢  
 xukria - 谢意  
+xule - 学习  
 xule - 教育  
 xulaje - 课  
 xuler - 学生  
@@ -1838,7 +1843,6 @@ xux - 噓
 
 ya - 对 (是)  
 Yahve - 耶和华 (雅威)  
-yam fito - 蔬菜  
 yam liste - 菜单  
 yam yau - 饥饿  
 yama - 亚麻  

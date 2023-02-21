@@ -137,7 +137,7 @@ Os pronomes não mudam de forma na pandunia.
 **mi**
 é o mesmo nas posições de sujeito e objeto, enquanto o portugal tem diferentes formas, 'eu', 'me', etc.
 
-**mi luba tu.**
+**mi ame tu.**
 Eu te amo.
 
 <small>Etimologia. **tu** vem do espanhol: tú, russo: ты (ty), italiano: tu, francês: tu.</small>

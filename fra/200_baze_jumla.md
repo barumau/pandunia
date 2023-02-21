@@ -160,7 +160,7 @@ Tu me salues.
 
 Les pronoms ne changent jamais de forme en Pandunia ; peu importe qu'ils soient sujets ou compléments.
 
-**mi luba tu.**
+**mi ame tu.**
 Je t'aime.
 
 <small>Étymologie : **tu** vient du français "tu", en italien "tu".</small>
@@ -683,18 +683,18 @@ On se voit demain ! / À demain !
 Je l’ai vu(e) hier.
 
 
-### semi <small>signifier, vouloir dire</small>
+### seme <small>signifier, vouloir dire</small>
 
-**ye lexi ya semi ke?**
+**ye lexi ya seme ke?**
 Que veut dire ce mot ?
 
-**"mau" ya semi ke?**
+**"mau" ya seme ke?**
 Que signifie « maw » ?
 
-**da semi un yang de hevan.**
+**da seme un yang de hevan.**
 Ça signifie un genre d’animal.
 
-**mi no aha da semi ke.**
+**mi no aha da seme ke.**
 Je ne comprend pas ce que cela signifie.
 
 

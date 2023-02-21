@@ -60,7 +60,7 @@ eikä kielioppia ole pakko opiskella.
     - [Pandunia-suomi](pandunia-suomi.md)
     - [Suomi-pandunia](suomi-pandunia.md)
     - [Luettelo sanojen alkuperästä](leksaslia.md) (lähdekielet on merkitty [kielikoodeilla](http://jkorpela.fi/kielet/nimet.html))
-- [Tarinoita ja sarjakuvia panduniaksi](http://www.pandunia.info/pandunia/index.html)
+- [Tarinoita panduniaksi](https://www.pandunia.info/kitabe)
 
 
 ## Jutellaan!

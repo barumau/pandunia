@@ -12,7 +12,7 @@ abóbora (jerimun) - kaboga
 acanto-bastardo - pin kardon  
 aceitar - acepe  
 aceite (óleo) - nafte  
-acento - balaton  
+acento - protone  
 acesso (acceder) - acese  
 acesso - inlai  
 aconselhar - fa sel  
@@ -67,26 +67,26 @@ alma (espírito) - anime
 almirante - bahai amirer  
 alquila - alkil  
 altar - puja meza  
-alterar - alofa  
+alterar - alife  
 alterar - altre  
 altruísmo - altrisme  
 alumínio - alumin  
 alô - halo  
 amador - hobiiste  
-amante - lubar  
+amante - amer  
 amargo - kali guste  
 Amazônia - Amazonia  
 amerício - amerikium  
 amida - amide  
 amigo - doste  
 amina - amin  
-amor - luba  
+amor - ame  
 amoreira - tuta  
 amêndoa - badam  
 anaeróbico - anairobiike  
 analgesia (analgia) - algesia  
 analgésico - analgive  
-analógico - undura  
+analógico - undurike  
 ananás (abacaxi) - ananas  
 anarquia - anarhia  
 anchova - ancovi  
@@ -101,10 +101,10 @@ Antigo Egito - Keme
 antimónio - estibium  
 anzol - pexe huke  
 análise - fen lize  
-aperfeiçoar - fa pul bon  
+aperfeiçoar - fa pul hau  
 aplicar - aplike  
 apodrecer-se - be pute  
-aprender - fa xula  
+aprender - xule  
 apropriado (apto) - hapu  
 aproximar - aproxe  
 aqui - a ye  
@@ -146,9 +146,9 @@ asa - panka
 asma - asma  
 aspargo - asparge  
 assar - xava  
-assinar - nam kitaba  
+assinar - nam kitabe  
 assustador - fobive  
-assustar - fa fobi  
+assustar - fobife  
 astato - astatin  
 astral - astral  
 astro (corpo celeste) - astre  
@@ -163,7 +163,7 @@ ativo - ative
 ato - ate  
 até - hata  
 auge (aumentar) - auge  
-Austronésia - Austronesi  
+Austronésia - Austronesia  
 automático - autatike  
 autopsía - nekrotomia  
 autor - auter  
@@ -199,14 +199,14 @@ barba - barde
 barco (navio) - nave  
 barman - bar vala  
 barra de chocolate - coklate kane  
-barrar - bara  
-barreira - bara mur  
+barrar - bare  
+barreira - bare mur  
 base (álcali; alcalino) - kali  
 base - baze  
 basebol (beisebol) - baze bol  
 basketball - baske bol  
 bastante (suficiente) - bas  
-baía - baya  
+baía (golfo) - bahai sake  
 beber (tomar) - xarbe  
 bebê - bebe  
 beijo - busu  
@@ -218,7 +218,7 @@ beringela - bedingan
 berqueélio - berklium  
 berço - lala bede  
 berílio - berilium  
-biblioteca - kitabakan  
+biblioteca - kitabekan  
 bicho-da-seda (sirgo) - silke larva  
 bicho-papão - bubu  
 bigorna - metal bede  
@@ -236,10 +236,10 @@ bola - bol
 boletim de notícias - habar letre  
 bolo lunar - luna keke  
 bolso (algebeira) - jebe  
-bom - bon  
+bom - hau  
 bomba - bombe  
 bomba - pompe  
-bomba atômica - atom bomba  
+bomba atômica - atom bombe  
 bombom (doce) - kandi  
 bombordo - nave leu  
 borboleta - pelpel  
@@ -334,7 +334,7 @@ carnal - karnal
 carnaval - karne feste  
 carne - karne  
 carrapato (ácaros) - akare  
-carregar - fa karga  
+carregar - karge  
 carreira - pei kar jiva  
 carta - karta  
 carta - letre  
@@ -351,7 +351,7 @@ casinha de cachorro - vaf bute
 castanho (marrom) - kafe rang  
 Castela - Kastilia  
 castelhano - kastilia baxa  
-cavar (escavar) - kava  
+cavar (escavar) - kave  
 caçar - fa saide  
 cebola - piaze  
 cem (100) - sento  
@@ -415,15 +415,15 @@ cogumelo - fungu frute
 coisa - xe  
 colaborar - kon kar  
 colaborar - konkar  
-colar (aderir) - fa glu  
+colar (aderir) - glutize  
 colchão - matras  
 colher - camaca  
 colher de chá - cai camaca  
 colher de sopa - supa camaca  
-colocar (pôr) - fa loka  
+colocar (pôr) - loke  
 com (comum) - kon  
 combava - gros limon  
-combinar com - kon bon  
+combinar com - kon hau  
 começo (início, princípio) - xuru  
 cominho - zira  
 como - ke riti  
@@ -440,7 +440,7 @@ comédia - komodia
 concerto - konserte  
 concha - pote camaca  
 condutor (chofer, motorista) - xofer  
-conduzir - fa xofer  
+conduzir - xofe  
 conectar - konnete  
 conector - konneter  
 conexão (vínculo, laço) - linke  
@@ -452,7 +452,7 @@ conjunção - yunte lexe
 cono - kone  
 conselho - sel  
 considerar - hem  
-construir - fa bina  
+construir - bine  
 consultor - konseler  
 conta (fatura) - fatura  
 conta - hisabu loge  
@@ -495,13 +495,13 @@ croassã - kruasan
 crocodiliano - krokodil  
 crocodilo - long krokodil  
 cromo - jame karte  
-cronómetro - dura metri gi  
+cronómetro - durometrer  
 cru - seng  
 cruz - krus  
 crème - krem  
 críquete - krikete  
 crómo - kromium  
-crónico - dura di  
+crónico - dure di  
 cubo - kube  
 cuco - kuku  
 cultivar - agre  
@@ -549,7 +549,7 @@ deitar - fa kux
 deixar - laxa  
 deixar - laxe  
 delegar - vakilize  
-delir (deletar) - deleta  
+delir (deletar) - delete  
 democracia - demokratia  
 demora (atraso, espera) - dele  
 denegar - denege  
@@ -562,8 +562,8 @@ desconectar - dekonnete
 desdentado - dante hin  
 desenvolvimento - gradu mute  
 desesperado - axa hin  
-desfigurar - fa dus forma  
 desfigurar - dusforme  
+desfigurar - dusformife  
 deslizar - glis  
 despelado - kexa hin  
 despertar - bude  
@@ -572,6 +572,7 @@ destro - dexhanuka
 deter (prender) - detene  
 deus - dee  
 devanágari - deonagre grame  
+dever (obrigação) - debe  
 dever - mus  
 dez - des  
 dia (24 horas) - den  
@@ -610,11 +611,12 @@ drama - drame
 droga (narcótico) - narke  
 ducha - dux  
 duna (бархан) - duna  
-durante - a dura de  
-durar - be dura  
-duração - dura  
+durante - a dure de  
+durar - be dur  
+duração - dure  
 duro - gati  
 dígito - numograme  
+dívida (débito) - debaje  
 dúbnio - dubnium  
 dúvida - xake  
 
@@ -670,12 +672,12 @@ erva marinha - bahai cau
 erva-mate - mate  
 escada - trepe  
 escama - foli  
-escavar - exkava  
+escavar - exkave  
 escola (colégio) - xulekan  
 escorpião (lacrau) - akrabe  
 escova de cabelo - kexa broxa  
 escovinha (centáurea) - nil kentaur hua  
-escrevere - kitaba  
+escrevere - kitabe  
 escritório (birô) - bure  
 escudo - defe bano  
 escudo - oste xalke  
@@ -718,7 +720,7 @@ estrela - xing
 estrumpfe (smurf) - nil elfe  
 estrôncio - estrontium  
 estudante - studer  
-estudar (examinar) - fa estude  
+estudar (examinar) - stude  
 etano - etan  
 etanol - etanol  
 etila - etil  
@@ -764,7 +766,7 @@ fazenda (tecido) - tela
 fazer (fato, facto) - fete  
 fazer - fa  
 fechadura - tala  
-feio - dus vide  
+feio - dusrupike  
 feliz - suka  
 feno - gan cau  
 fenol - fenol  
@@ -942,7 +944,7 @@ impressão digital - angul marke
 império - imperia  
 inativo - anative  
 incluindo - in klus  
-incluir - fa in klus  
+incluir - inkluse  
 inclusivo - in klus di  
 indivíduo - monike  
 Indo - Hinde rivo  
@@ -956,7 +958,7 @@ inferir - infere
 infiel - andiniste  
 infiel - ankreder  
 inflamaçao - itis  
-informática (ciência da computação) - data culi logia  
+informática (ciência da computação) - data cule logia  
 infraestrutura - baze strute  
 inimigo - dus jen  
 inquisitivo - san vol ja  
@@ -1042,15 +1044,15 @@ lente - lense
 lento - anhaste  
 leque - sanzi  
 ler - dugu  
-letal - letali  
+letal - letal  
 Letónia - Latvia  
-leve - legu  
+leve - lege  
 lexema - lexeme  
 lhama - liama  
 libélula - libele  
 licor - araki  
 liga (aliança) - liga  
-ligeiro - legu veze di  
+ligeiro - lege veze di  
 lima - kaguji limon  
 limonada - limon jus  
 limpo - saf  
@@ -1060,7 +1062,7 @@ linha (fio) - lin
 linhaça - yama seme  
 linho - yama  
 lista - liste  
-literatura - kitaba suta  
+literatura - kitabe suta  
 litro - litre  
 livermório - livermorium  
 livre (forro) - hure  
@@ -1115,6 +1117,7 @@ mainá - maina
 maioria - maxia  
 mais - max  
 maldição - dusdua  
+malfeitor - duskarer  
 malfeitoria (pecado) - dusate  
 malfeitoria (pecado) - duskar  
 malte - malte  
@@ -1125,7 +1128,7 @@ mandarim - han guaner
 mandioca (aipim) - manioka  
 manga - kamisa xaka  
 manganésio - mangan  
-mania - mani  
+mania - mania  
 maniqueísmo - mani din  
 manteiga - bute  
 manto - juba  
@@ -1170,7 +1173,7 @@ meio (metade) - mide
 meio-dia - medi dia  
 meitnério - meitnerium  
 mel - medu  
-melancia - arbuza  
+melancia - arbuze  
 meloa (cantalupo) - kantalupo melon  
 melão - melon  
 melão coreano - aroma melon  
@@ -1206,7 +1209,7 @@ miragem - miraje
 mirar (apontar) - dike  
 mirar - mire  
 mito - deokata  
-modelar - fa forma  
+modelar - formize  
 modo (tipo) - mode  
 moeda - pesa diske  
 moenda (moinho) - molkan  
@@ -1214,7 +1217,6 @@ moer - mole
 mol - mole  
 moldar (modelar) - plaste  
 moldura - frem  
-molestar (perturber) - fa turbe  
 molestar (perturber) - turbe  
 molhado - xipi  
 molhar - fa xipi  
@@ -1229,7 +1231,7 @@ monstro - mostre
 monção - barxa mosim  
 monóculo - un yen di lense  
 monólogo - autologe  
-morder - fa dante  
+morder - dante  
 morder - gate a dante  
 moscovio - moskvium  
 mosquito - moski  
@@ -1246,9 +1248,9 @@ multilíngue (plurilíngue) - polibaxike
 mundo - dunia  
 mundo das fadas (paraíso) - paristan  
 muro (muralha) - mur  
-máquina de escrever - kitaba gi  
+máquina de escrever - kitabe gi  
 mármore - kalsobilor  
-máscara - maska  
+máscara - maske  
 máximo - maximaje  
 mãe - ma  
 mão - hanu  
@@ -1327,6 +1329,7 @@ o que - ke
 obituário - nekrologa  
 oblíquo (torto) - terca  
 obrigado - xukre  
+obrigar - debize  
 obsidiana - osidian  
 oceano - dai bahai  
 ocular - yen di  
@@ -1350,7 +1353,7 @@ ordem - ratibu
 orelha - ore  
 orfanato - yatim dom  
 organismo - bier  
-organizar - fa nomi  
+organizar - nome  
 origem - asle  
 original - aslike  
 ornitologia - paci logia  
@@ -1440,7 +1443,7 @@ pequeno - xiu
 pera - pera  
 perdedor - xiti bai ja  
 perder - xiti  
-perdoar (desculpar) - fa maf  
+perdoar (desculpar) - maf  
 perecer - perex fa  
 perguntar - fa sual  
 perigo - hatar  
@@ -1489,7 +1492,7 @@ ponta do dedo - angul pike
 ponte - kio  
 popular - populal  
 por exemplo - to misal  
-por muito tempo - long dura  
+por muito tempo - long dure  
 porcelana - cini  
 poro - pore  
 portaló - nave trepe  
@@ -1518,7 +1521,7 @@ preferir - max fili
 preferir - prefere  
 prejulgamento - prejude  
 prensa - preser  
-prensar (pressionar, premir) - fa prese  
+prensar (pressionar, premir) - prese  
 presidente - presidente  
 pressa - haste  
 pressão - prese  
@@ -1530,9 +1533,8 @@ privatizar - privatize
 proativo - proative  
 problema - problem  
 procedimento (rito) - riti  
-processamento de dados - data culi  
-processamento de imagem - grafe culi  
-processo - culi  
+processamento de dados - data cule  
+processamento de imagem - grafe cule  
 professor (docente) - xule guru  
 professor - profesor  
 profeta (arauto) - nabija  
@@ -1544,7 +1546,7 @@ projeto - projete
 projeção - jete grafe  
 projeção - lanse grafi  
 projétil - lanse xe  
-prolongado - long dura di  
+prolongado - long durike  
 promessa (voto) - vode  
 prometer - promise  
 Prometeu - Promete  
@@ -1579,6 +1581,7 @@ pó - haki
 pós-natal - posnatal  
 pós-produção - posprodution  
 quadrinhos (banda desenhada) - grafe kata  
+qualidade - kalta  
 quando - ke sata  
 quarta-feira - merkurden  
 quarteirão - mahala  
@@ -1595,8 +1598,8 @@ queimarse - be hogo
 queixa (lamento, reclamação) - xikaye  
 quem - ke jen  
 querer (desejar) - vol  
-querido (caro) - luba di  
-querido - luba jen  
+querido (caro) - amike  
+querido - ame jen  
 questão (pergunta) - sual  
 quiabo - bamia  
 quilate - kirate  
@@ -1647,11 +1650,11 @@ relato - reporte
 relier (connecter) - fa linke  
 religião - din  
 relógio - sah diker  
-remover - fa for  
+remover - forife  
 remédio (medicamento) - dava xe  
 Reno - Ren  
 reparador - reparer  
-reparar - fa xuli  
+reparar - repare  
 reparar - repar  
 reparo - repare  
 repetir - fa re  
@@ -1661,7 +1664,7 @@ repórter - reporter
 república - vakilkratia  
 reserva - rezerve  
 resfriado - zukam  
-resposta - javabu  
+resposta - javabe  
 resto - baki  
 reto - orto  
 retornar - fa retro  
@@ -1718,6 +1721,9 @@ salmão-cão (salmão-keta) - baku salmon
 salmão-rosa - rode salmon  
 salmão-vermelho - rubi salmon  
 salsicha - sosis  
+salvador - salver  
+salvar - salve  
+salvação - salvation  
 salão - sala  
 samambaia - parne  
 samba-canção - boce pante  
@@ -1729,6 +1735,7 @@ sari - sari
 sariguê (gambá, cuíca) - aposum  
 Satanás - xatan  
 Saturno - Xani  
+satélite - satelite  
 saudável (saudio) - sale  
 saúde - saludo  
 saúde - saluta  
@@ -1887,10 +1894,10 @@ trabalhador - karer
 trabalhar - kar  
 trabalho - karxe  
 tragédia - tragodia  
-trajar (vestir-se) - fa fuku  
+trajar (vestir-se) - fuke  
 tranca - kane sor  
 tranquilo (calmo) - xanti di  
-tratar (lidar, procesar) - fa culi  
+tratar (lidar, procesar; processo) - cule  
 trator - trater  
 trazer - fa lai  
 trem - tren  
@@ -1910,7 +1917,7 @@ tubérculo - masa mula
 tungsténio - volfram  
 turbante - pagri  
 turbina - turbin  
-turbojato - turbejeter  
+turbojato - turbojeter  
 turnê - tur  
 tábua (prancha) - moka bano  
 tálio - talium  
@@ -1930,8 +1937,8 @@ uau - va
 um (1) - un  
 um ao outro - semen  
 uma vez - un mar  
-universal - un verse di  
-união - un ta liga  
+universal - universal  
+união - unia  
 Urano - Uran  
 urbano - nagral  
 urra - hura  
@@ -1957,8 +1964,9 @@ vaso de flores - hua pote
 vassoura - jaru  
 vazar - lou  
 vazio - hali  
-vegetalista - pul fito yamiste  
-vegetariano - fito yamiste  
+vegetalista - veganiste  
+vegetar - vegate  
+vegetariano - vegoyamiste  
 velho (antigo) - prezaman di  
 velocímetro - suga metri gi  
 vender - vende  
@@ -1966,14 +1974,14 @@ ver - vide
 verbo - kar lexi  
 verdadeiro - ver  
 verde - luga  
-verdura (hortaliça, legume) - yam fito  
+verdura (hortaliça, legume) - vege  
 verdura - coi  
 verme - verme  
 vermelho - rubi  
 vermute - vermute  
 verruga - veruke  
 verão - garma mosim  
-vestir - fa fuku  
+vestir - fukize  
 vez - mar  
 vice-rei - vise reger  
 vidro - glas  
@@ -1994,7 +2002,7 @@ voltar (regressar) - be retro
 vontade - vol xe  
 voo - fei  
 vosso - tumen su  
-votar - fa vote  
+votar - vote  
 voto - vote  
 vulcão - hogo xan  
 vulva - vulva  
@@ -2013,7 +2021,7 @@ xeque-mate - xah mata
 xiismo - xia islam din  
 xilitol - xilitol  
 xilose - xilos  
-Xiva - xiva  
+Xiva - Xiva  
 xixa (narguilé) - xixa pipe  
 xénon - xenon  
 
@@ -2053,7 +2061,7 @@ zumbi - zombi
 ósmio - osmium  
 ótimo (óptimo) - otimal  
 óxide - oxide  
-único (só) - un di  
+único (só) - unike  
 útil - uzike  
 комиссия (комитет) - konmisea  
 люмен - lumen  

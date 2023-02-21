@@ -3,7 +3,7 @@
 ## A  
 
 a - em  
-a dura de - durante  
+a dure de - durante  
 a ke - onde  
 a lin - online  
 a vo - aí (lá)  
@@ -24,8 +24,8 @@ agral - agrícola
 agrobiologia - agrobiologia  
 agronomia - agronomia  
 air - ar  
-• anairobiike - anaeróbico  
 airobiike - aeróbico  
+• anairobiike - anaeróbico  
 air ordu - força aérea  
 air porto - aeroporto  
 ais hoki - hóquei no gelo  
@@ -36,6 +36,7 @@ akare - carrapato (ácaros)
 akrabe - escorpião (lacrau)  
 ale - outro  
 alian - alienígena  
+alife - alterar  
 altre - alterar  
 altrisme - altruísmo  
 • analgive - analgésico  
@@ -53,9 +54,12 @@ alkin - alcino
 alkol - álcool  
 alkasus - alcaçuz (regaliz)  
 almari - armário  
-alofa - alterar  
 alo fen di - distinto  
 alumin - alumínio  
+ame - amor  
+amer - amante  
+amike - querido (caro)  
+ame jen - querido  
 ama - mas  
 Amazon - Río Amazonas  
 Amazonia - Amazônia  
@@ -73,8 +77,8 @@ angul - dedo
 angul marke - impressão digital  
 angul pike - ponta do dedo  
 anime - alma (espírito)  
-• reanimate - reanimar  
 animate - animar  
+• reanimate - reanimar  
 animisme - animismo  
 anis - anis  
 anis araki - áraque  
@@ -86,7 +90,7 @@ arane - aranha
 aranofobia - aracnofobia  
 aranide - aracnídeo  
 arane nete - teia de aranha  
-arbuza - melancia  
+arbuze - melancia  
 argente - prata  
 argon - argon  
 argu - argumento  
@@ -107,8 +111,8 @@ asle tipe - arquétipo
 asma - asma  
 asparge - aspargo  
 astatin - astato  
-dusastre - desastre  
 astre - astro (corpo celeste)  
+dusastre - desastre  
 astral - astral  
 astronave - astronave  
 astronaver - astronauta  
@@ -125,11 +129,11 @@ ation - ação
 ative - ativo  
 Athina - Atenas  
 atlanti bakalau - bacalhau-do-atlântico  
-atom bomba - bomba atômica  
+atom bombe - bomba atômica  
 atom kerne - núcleo atómico  
 auge - auge (aumentar)  
 auro - ouro  
-Austronesi - Austronésia  
+Austronesia - Austronésia  
 autatike - automático  
 auter - autor  
 autologe - monólogo  
@@ -157,6 +161,7 @@ bahai hiyar - pepino-do-mar (holotúrias)
 bahai kinar - costa  
 bahai ordu - marinha  
 bahai porto - porto marítimo  
+bahai sake - baía (golfo)  
 bahai vala - marinheiro  
 baker - padeiro  
 baka poto - terracota  
@@ -168,7 +173,6 @@ baku salmon - salmão-cão (salmão-keta)
 baku varis - arroz branco  
 • anbala - fraco (débil)  
 balata - força  
-balaton - acento  
 baluta - carvalho  
 bambu - bambu  
 bamia - quiabo  
@@ -180,10 +184,10 @@ bankekan - banco
 bankrute - bancarrota (falido)  
 bano - painel  
 bano geme - jogo de tabuleiro  
+bare - barrar  
 barium - bário  
+bare mur - barreira  
 bar vala - barman  
-bara - barrar  
-bara mur - barreira  
 barde - barba  
 baru - urso  
 barxa - chuva  
@@ -199,10 +203,9 @@ bati - oito (8)
 batri - pilha (bateria)  
 bau di - precioso  
 bauite - pedra preciosa (gema)  
+baxe - língua (idioma)  
 • dubaxike - bilíngue  
 • polibaxike - multilíngue (plurilíngue)  
-baxe - língua (idioma)  
-baya - baía  
 baze - base  
 baze bol - basebol (beisebol)  
 bazisme - princípio  
@@ -213,7 +216,7 @@ be ais - gelar
 be biomute - fermentar  
 be boi - nadar (flutuar)  
 be bum - explodir  
-be dura - durar  
+be dur - durar  
 be fobi - temer  
 be hogo - queimarse  
 be in - entrar  
@@ -240,6 +243,7 @@ berklium - berqueélio
 betula - bétula  
 bier - organismo  
 biologia - biología  
+bio sana xe - composto  
 biosistem - bioma  
 biotoxe - toxina  
 bici - chicote  
@@ -249,21 +253,20 @@ bil es - talvez
 bil ki - talvez  
 bilta - habilidade (capacidade)  
 bilor - cristal  
+bine - construir  
 bine plan - arquitetura  
 bine planer - arquiteto  
-bio sana xe - composto  
 bir - cerveja  
 biskute - biscoito  
 bismute - bismuto  
 bison - bisão (bisonte)  
 boce - boxe  
-boce pante - samba-canção  
 bocer - boxeador (pugilista)  
+boce pante - samba-canção  
 boing - rebater  
 boka cati - palato (céu da boca)  
 bol - bola  
 bombe - bomba  
-bon - bom  
 borium - bóhrio  
 boron - boro  
 botel - garrafa (botelha)  
@@ -342,7 +345,7 @@ coi - verdura
 coklate - chocolate  
 coklate kane - barra de chocolate  
 copu - enxada  
-culi - processo  
+cule - tratar (lidar, procesar; processo)  
 cunbil - opção  
 cupu - chupar (sugar)  
 
@@ -361,14 +364,15 @@ dana.cau - milhete (painço)
 dang gi - sino (campainha)  
 danse - baile (danza)  
 Danske - danês  
+dante - morder  
 dante hin - desdentado  
 daria - corpo de água  
 dare tube - funil  
 darmestadium - darmstádio  
 data - dados  
 data banke - banco de dados  
-data culi - processamento de dados  
-data culi logia - informática (ciência da computação)  
+data cule - processamento de dados  
+data cule logia - informática (ciência da computação)  
 dau yunte - interseção  
 dava xe - remédio (medicamento)  
 dava xekan - farmácia (drogaria)  
@@ -378,6 +382,9 @@ dee - deus
 deokata - mito  
 deonagre grame - devanágari  
 deosofia - teosofia  
+debe - dever (obrigação)  
+debaje - dívida (débito)  
+debize - obrigar  
 defe bano - escudo  
 defe kaska - armadura  
 deha - aldeia (vila)  
@@ -431,11 +438,10 @@ dukan - loja
 dum - fumo  
 dunia - mundo  
 duna - duna (бархан)  
-dura - duração  
-dura di - crónico  
-dura metri gi - cronómetro  
+dure - duração  
+dure di - crónico  
+durometrer - cronómetro  
 dus jen - inimigo  
-dus vide - feio  
 • posprodution - pós-produção  
 dux - ducha  
 
@@ -476,37 +482,20 @@ fa alo rai - discordar
 fa argu - arguir  
 fa aroma - cheirar  
 fa asar - efetuar  
-fa bina - construir  
-fa culi - tratar (lidar, procesar)  
-fa dante - morder  
-fa dus forma - desfigurar  
-fa estude - estudar (examinar)  
 fa fatu - punir (castigar)  
 fa fei - voar  
-fa fobi - assustar  
-fa for - remover  
-fa forma - modelar  
-fa fuku - vestir  
-fa fuku - trajar (vestir-se)  
-fa glu - colar (aderir)  
 fa hisabu - calcular  
 fa hogo - queimar  
-fa in klus - incluir  
-fa karga - carregar  
 fa kino - mover  
 fa kux - deitar  
 fa lai - trazer  
 fa linke - relier (connecter)  
-fa loka - colocar (pôr)  
-fa maf - perdoar (desculpar)  
 fa memo - lembrar-se (recordar-se)  
 fa min rai - menosprezar (subestimar)  
-fa nomi - organizar  
 fa onor - honrar  
 fa pati mise - infectar (contagiar)  
 fa pede - peidar  
-fa prese - prensar (pressionar, premir)  
-fa pul bon - aperfeiçoar  
+fa pul hau - aperfeiçoar  
 fa re - repetir  
 fa retro - retornar  
 fa saide - caçar  
@@ -516,15 +505,10 @@ fa sir - ocultar (esconder)
 fa sual - perguntar  
 fa tele fon - telefonar  
 fa truke - enganar  
-fa turbe - molestar (perturber)  
 fa vai klus - excluir  
 fa valu - valorar  
-fa vote - votar  
 fa xipi - molhar  
-fa xofer - conduzir  
 fa xopi - comprar  
-fa xula - aprender  
-fa xuli - reparar  
 fan - fã  
 fase - face (faceta)  
 fase tele - profundo  
@@ -546,28 +530,31 @@ fenol - fenol
 • refere - referir  
 fermium - férmio  
 fero - ferro  
+fete - fazer (fato, facto)  
 • exfete - efeito  
 • infete - infecção  
 • parafete - efeito colateral  
 • rifete - repetir  
-fete - fazer (fato, facto)  
 feter - fator (fazedor)  
 filsofe - filosofia  
 fiorde - fiorde  
 fite - planta (vegetal)  
 fitologia - botânica  
-fito yamiste - vegetariano  
 fizologia - física  
 flece - flecha (seta)  
 flerovium - fleróvio  
 flur - flúor  
 fluride - fluoreto  
+fobife - assustar  
 fobive - assustador  
 foli - escama  
 fonte kalam - caneta de tinta permanente  
 fonte sui - água de fonte  
+forife - remover  
 fora - furar (perfurar)  
 • dusforme - desfigurar  
+• dusformife - desfigurar  
+formize - modelar  
 fosfe - fósforo  
 fosfate - fosfato  
 fote - luz  
@@ -584,6 +571,8 @@ frem - moldura
 frute - fruta  
 frutos - frutose  
 frute parke - pomar  
+fuke - trajar (vestir-se)  
+fukize - vestir  
 fuku - roupa (vestidura)  
 fun - pó  
 fungu - fungo  
@@ -663,11 +652,12 @@ glu poto - argila
 glukin - glicina  
 glukogen - glicogênio  
 glukos - glicosa  
+glutize - colar (aderir)  
 gol - meta (gol)  
 gorila - gorila  
 goton - algodão  
 gradu mute - desenvolvimento  
-grafe culi - processamento de imagem  
+grafe cule - processamento de imagem  
 grafe kata - quadrinhos (banda desenhada)  
 • programe - programa  
 granite - granito  
@@ -709,6 +699,7 @@ haste - pressa
 • anhaste - lento  
 hata - até  
 hatar - perigo  
+hau - bom  
 haxi - pauzinho (hashi)  
 hazin - armazenar  
 hazinkan - armazém  
@@ -807,7 +798,7 @@ jangal - selva (floresta, jângal)
 jara - jarra (jarro)  
 jaru - vassoura  
 jau - cevada  
-javabu - resposta  
+javabe - resposta  
 jebe - bolso (algebeira)  
 jebe caku - canivete  
 jeka - emprestar (pedir emprestado)  
@@ -840,6 +831,7 @@ juste - exato (preciso)
 
 ## K  
 
+kalta - qualidade  
 ka - que (como)  
 kabile - tribo  
 kable - corda (cabo)  
@@ -898,6 +890,7 @@ kapa kexa hin - calvo
 kape truke - armadilha  
 kar - trabalhar  
 • duskar - malfeitoria (pecado)  
+• duskarer - malfeitor  
 • konkar - colaborar  
 karer - trabalhador  
 kar lexi - verbo  
@@ -911,6 +904,7 @@ karbe kalam - lápis
 karboxil - carboxila  
 karcof - alcachofra  
 kardon - cardo  
+karge - carregar  
 karga - carga (peso)  
 kari - curry  
 Karibe - Caribe  
@@ -932,8 +926,8 @@ Kastilia - Castela
 kastilia baxa - castelhano  
 katus - cacto  
 kauri - búzio  
-kava - cavar (escavar)  
-• exkava - escavar  
+kave - cavar (escavar)  
+• exkave - escavar  
 ke - o que  
 ke jen - quem  
 ke loka - onde  
@@ -960,10 +954,10 @@ kio - ponte
 kioske - quisque (pavilhão)  
 kirate - quilate  
 kisma - destino  
-kitaba - escrevere  
-kitaba gi - máquina de escrever  
-kitabakan - biblioteca  
-kitaba suta - literatura  
+kitabe - escrevere  
+kitabe gi - máquina de escrever  
+kitabekan - biblioteca  
+kitabe suta - literatura  
 kivi - quivi  
 kivi frute - quivi  
 klar - claro  
@@ -971,6 +965,7 @@ klien - cliente
 klima mute - mudança climática  
 klin - tendência  
 klor - cloro  
+• inkluse - incluir  
 koala - coala  
 kobalte - cobalto  
 koli - couve (repolho)  
@@ -979,7 +974,7 @@ komike - cômico
 komodia - comédia  
 koma - vírgula  
 kon - com (comum)  
-kon bon - combinar com  
+kon hau - combinar com  
 kon helen baxa - koiné  
 kon kar - colaborar  
 kon trati - pacto  
@@ -1060,18 +1055,18 @@ late di - lateral
 Latvia - Letónia  
 lau - idoso  
 laurencium - lawrêncio  
-laxa - deixar  
 laxe - deixar  
+laxa - deixar  
 lazanya - lasanha  
 lazur - azur (blau)  
 lazur petra - lápis-lazúli  
-legu - leve  
-legu veze di - ligeiro  
+lege - leve  
+lege veze di - ligeiro  
 leng mosim - inverno  
 leng mosim di - invernal (hibernal)  
 lense - lente  
-• deleta - delir (deletar)  
-letali - letal  
+• delete - delir (deletar)  
+letal - letal  
 letre - carta  
 letus - alface  
 leu - esquerdo  
@@ -1108,20 +1103,17 @@ lixu - esquilo
 • duologia - bilogia  
 loga - registro  
 loga buku - diário de bordo  
+loke - colocar (pôr)  
 loke - lugar (local)  
 lokal - local  
 long - longo  
-long dura - por muito tempo  
-long dura di - prolongado  
+long dure - por muito tempo  
+long durike - prolongado  
 long kata - romance  
 long krokodil - crocodilo  
 long tire - estirar  
 lotra - lontra  
 lou - vazar  
-luba - amor  
-luba di - querido (caro)  
-luba jen - querido  
-lubar - amante  
 luga - verde  
 luka - seis (6)  
 lumen - люмен  
@@ -1142,6 +1134,7 @@ ma di - maternal
 matria - pátria-mãe  
 made - matéria  
 madisme - materialismo  
+maf - perdoar (desculpar)  
 mager - mago  
 magenium - magnésio  
 Magribia - Marrocos  
@@ -1156,10 +1149,10 @@ malte - malte
 maltos - maltose  
 mame - seio (mama)  
 mame kanse - câncer de mama  
+mania - mania  
 manera - comportamento (conduta)  
 mang - ocupado (atarefado)  
 mangan - manganésio  
-mani - mania  
 mani din - maniqueísmo  
 manioka - mandioca (aipim)  
 manioka fufu - tapioca  
@@ -1178,7 +1171,7 @@ masa - massa
 masa mula - tubérculo  
 masa mula sol hua - alcachofra-girassol (tupinambo)  
 masala - tempero  
-maska - máscara  
+maske - máscara  
 master - mestre  
 masta - mastro  
 mate - erva-mate  
@@ -1307,7 +1300,7 @@ nagral - urbano
 nagre gogia - Cidade-estado  
 najis - poluição  
 nam hin - sem nome  
-nam kitaba - assinar  
+nam kitabe - assinar  
 nan per (man) - esposo  
 nan reger - rei  
 narde - gamão  
@@ -1377,6 +1370,7 @@ nobi - não-binário
 noce - noite  
 Noe - Noé  
 Noe di nave - arca de Noé  
+nome - organizar  
 norde - norte  
 nostalgia - nostalgia (saudade)  
 note xe - nota  
@@ -1445,6 +1439,7 @@ pante - calças
 papagai - papagaio  
 papaya - mamão (papaia)  
 par - igual (par)  
+repare - reparar  
 • repar - reparar  
 repare - reparo  
 reparer - reparador  
@@ -1561,6 +1556,7 @@ poto stan - pântano
 • expoze - expor (revelar)  
 prazedimium - praseodímio  
 presidente - presidente  
+prese - prensar (pressionar, premir)  
 prese - pressão  
 preser - prensa  
 prive - pessoal (privado)  
@@ -1580,7 +1576,6 @@ pujakan - templo
 puja meza - altar  
 pul - cheio  
 pul fina - terminar (acabar, concluir)  
-pul fito yamiste - vegetalista  
 pul xipi - ensopar (encharcar, marinar)  
 pulmon tis - pneumonia   
 putau bagi - vinhedo  
@@ -1639,6 +1634,7 @@ rubi orange - tangerina (mandarim)
 rubi salmon - salmão-vermelho  
 ruhu mixe di - perplexo (confuso)  
 rulete - roleta  
+• dusrupike - feio  
 rusium - ruténio  
 ruterfordium - rutherfórdio  
 
@@ -1661,6 +1657,9 @@ sala - salão
 saludo - saúde  
 salu safta - higiene  
 saluta - saúde  
+salve - salvar  
+salvation - salvação  
+salver - salvador  
 sam - igual  
 sam bei - par  
 sam emos - compaixão  
@@ -1678,6 +1677,7 @@ sante kanon - sagrada escritura
 Sante Paulo - São Paulo  
 sanzi - leque  
 sari - sari  
+satelite - satélite  
 sau doh - sobrinha  
 sau son - sobrinho  
 saur - lagarto  
@@ -1751,6 +1751,7 @@ sosis - salsicha
 • speter - espetador  
 sporte - esporte  
 statia - estação  
+stude - estudar (examinar)  
 studer - estudante  
 sual - questão (pergunta)  
 sueda - suor  
@@ -1829,6 +1830,7 @@ tolerate - tolerar (suportar)
 • tomografia - tomografia  
 tomate - tomate  
 ton - tom  
+• protone - acento  
 topografia - topografia  
 torium - tório  
 tortuga - tartaruga  
@@ -1859,8 +1861,8 @@ tulpan - túlipa
 tur - turnê  
 turbe - molestar (perturber)  
 • disturbe - perturbar (turbulência)  
-turbejeter - turbojato  
 turbin - turbina  
+turbojeter - turbojato  
 tuta - amoreira  
 tuzi - coelho (lebre)  
 
@@ -1870,13 +1872,13 @@ uma bici - chibata
 umur - idade  
 umur di - idoso (sene)  
 un - um (1)  
-un di - único (só)  
-undura - analógico  
+undurike - analógico  
+unia - união  
+unike - único (só)  
 un mar - uma vez  
-un ta liga - união  
-un verse di - universal  
 un yen di lense - monóculo  
 un zai di - só (solitário)  
+universal - universal  
 Uran - Urano  
 uranium - urânio  
 uzife - usar  
@@ -1911,6 +1913,10 @@ vari - vários
 varibil - variável  
 varis - arroz  
 vava - chorar  
+vege - verdura (hortaliça, legume)  
+veganiste - vegetalista  
+vegate - vegetar  
+vegoyamiste - vegetariano  
 vel - véu  
 devel - revelar  
 vende - vender  
@@ -1943,6 +1949,7 @@ vol - querer (desejar)
 vol xe - vontade  
 volfe - lobo  
 volfram - tungsténio  
+vote - votar  
 vote - voto  
 vuki - arma  
 vulva - vulva  
@@ -1989,12 +1996,14 @@ xiti bai ja - perdedor
 xiu - pequeno  
 xiu kaboga - abobrinha  
 xiu seku - pedrinha  
-xiva - Xiva  
+Xiva - Xiva  
 xixa pipe - xixa (narguilé)  
+xofe - conduzir  
 xofer - condutor (chofer, motorista)  
 xope - compras  
 xukre - obrigado  
 xukria - gratidão  
+xule - aprender  
 xule - educação  
 xulaje - lição  
 xule guru - professor (docente)  
@@ -2006,7 +2015,6 @@ xuru - começo (início, princípio)
 
 ya - sim  
 Yahve - Javé (Jeová)  
-yam fito - verdura (hortaliça, legume)  
 yam liste - cardápio (menu)  
 yam yau - fome  
 yama - linho  

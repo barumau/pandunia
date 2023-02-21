@@ -107,9 +107,9 @@ Arriba,
 **ye jumla**
 (_esta oración_) refiere a la oración que se está hablando.
 
-**mi semi vo: mi luba tu.**
+**mi seme vo: mi ame tu.**
 – Significo esto: te amo. (Significo que te amo.)  
-**mi luba tu. mi semi la.**
+**mi ame tu. mi seme la.**
 – Te amo. Esa es la que significo.
 
 Arriba,
