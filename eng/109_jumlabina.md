@@ -122,19 +122,55 @@ the previous rules apply also to adjective subjects and verb subjects.
 
 ## Action sentences
 
-Sentences that describe an action can involve three sentence elements:
+Action sentences describe an event that involves a flow of energy from one participant to the next.
+The participants take different roles in the event.
+The most common and the most essential roles are the roles of agent and patient.
+There is a lot of variation in these roles but their most basic types can be described as prototypical roles.
 
-1. The subject is someone or something that does the action.
-2. The verb is the action.
-3. The object is the target of the action.
+The prototypical agent
 
-The normal word order in Pandunia is subject–verb–object (SVO).
+1. is alive
+2. can move
+3. participates in the event by its own will
+4. causes a change in another participant
+5. exists independently of the event.
+
+The prototypical patient
+
+1. might be a non-living thing
+2. is standing still relative to another participant
+3. is drawn into the event by another participant
+4. undergoes a change because of the event
+5. might not exist without the event.
+
+In the event, energy flows from the agent to the patient
+in the form that the verb describes.
+Consider the following sentence,
+where the child is the agent that departs energy in the form of a push to the ball, the patient.
+
+**la bace darbe la bol.**
+– The child hits the ball.
+
+There can also be an instrument that mediates the flow of energy from the agent to the patient.
+The sequence `agent > instrument > patient` reflects the flow of energy in an action chain.
+
+**la bace uze la bang darbe la bol.**
+– The child uses the bat to hit the ball.
+
+The order of the participants is in line with the order of the action chain in reality.
+The agent, as the origin of the energy flow, is in the beginning,
+the instrument is in the middle,
+and the patient, as the recipient of the energy flow, is in the end.
+
+In syntactical terms the order of the words is subject–verb–object (or SVO in short).
+This is the normal and neutral word order in Pandunia.
+
 For example, in the following sentence, the subject is
 **mi**
 'I',
 the verb is
 **vide**
-'see'
+'see',
 and the object is
 **tu**
 'you'.
@@ -142,30 +178,25 @@ and the object is
 **mi vide tu.**
 – I see you.
 
-If the words is put to the opposite order, the entire sentence will have the opposite meaning.
+If the words are arranged in the opposite order, the entire sentence will have the opposite meaning.
 
 **tu vide mi.**
 – You see me.
 
-In action sentences, the subject and object can be pronouns
-(like
-**mi**
-'I' and
-**tu**
-'you' above)
-and nouns alike.
-Below is some example sentences with noun subjects and noun objects.
+The subject and object roles are related to syntax, which deals with word order and other grammatical phenomena.
+The agent, instrument and patient roles are related to semantics, which is about the meaning of words.
+The semantic and syntactic roles can be mapped together in many ways.
+Usually the most energetic semantic participant takes the role of the subject.
 
-**meme vide cau.**
-– Sheep see grass.  
-**meme yam cau.**
-– Sheep eat grass.  
-**uma yam cau.**
-– Horses eat grass.  
-**uma vide meme.**
-– Horses see sheep.  
-**meme vide uma.**
-– Sheep see horses.
+1. If there is an agent, it becomes the subject.
+    - ***la bace* uze la bang darbe la bol.**
+      – *The child* uses the bat to hit the ball.  
+2. Otherwise, if there is an instrument, it becomes the subject.
+    - ***la bang* darbe la bol.**
+      – *The bat* hits the ball.  
+3. Otherwise the patient becomes the subject.
+    - ***la bol* darbe.**
+      – *The ball* is hit.
 
 
 ### Agent and patient
@@ -292,29 +323,55 @@ and all of them are about the same subject.
 The last verb in the series is the main verb.
 The verbs before it are modal verbs.
 
-**tu vol yam yo fito.**
+**tu vol yam yo fite.**
 – You want to eat vegetables. (desire)  
-**tu sel yam yo fito.**
+**tu sel yam yo fite.**
 – You had better eat vegetables. (advice)  
-**tu halal yam yo fito.**
+**tu halal yam yo fite.**
 – You may eat vegetables. (permission)  
-**tu bil yam yo fito.**
+**tu bil yam yo fite.**
 – You can eat vegetables. (ability)  
-**tu mus yam yo fito.**
+**tu mus yam yo fite.**
 – You must eat vegetables. (obligation)
 
 
 ## Pivot structure
 
-### Basic pivot structure (SVOVO)
+### Basic pivot structure
 
-In the _pivot structure_ the word order is:  
-subject – verb 1 – object 1 – verb 2 – object 2.
+The **basic pivot structure** is a syntactic realization of an action chain
+that reflects the flow of energy from one participant to another.
+A basic sequence is that of `agent > instrument > patient`.
 
-Object 1 has two roles.
-It is at the same time the object for the verb 1 and the subject for the verb 2.
+**da uze un caku kate la ban.**
+– He uses a knife to cut the bread.  
+**da jete la bol darbe la dike.**
+– Hi throws the ball to hit the target.  
+**mi xofe la car lai la site.**
+– He drives the car to enter the city.
 
-**mi vol tu yam yo fito.**
+Another common sequence is that of `causer > agent > patient`.
+In such sequences the first verb typically indicates a modality such as desire, permission or obligation,
+and the second verb indicates what the causer wants the agent to do.
+
+**mi vol tu yam fite.**
+– I want you to eat vegetables. (desire)  
+**mi sel tu yam fite.**
+– I advise you to eat vegetables. (advice)  
+**mi halal tu yam fite.**
+– I allow you to eat vegetables. (permission)  
+**mi bil tu yam fite.**
+– I enable you to eat vegetables. (ability)  
+**mi mus tu yam fite.**
+– I compel you to eat vegetables. (obligation)  
+**mi rai tu yam fite.**
+– I think you eat vegetables. (opinion)
+
+Syntactically the pivot structure is made up of
+`subject–verb₁–pivot–verb₂–object`.
+The pivot is at the same time the object for verb₁ and the subject for the verb₂.
+
+**mi vol tu yam yo fite.**
 – I want you to eat vegetables.
 
 In the example above,
@@ -322,51 +379,51 @@ In the example above,
 has
 **tu**
 as its object.
-At the same time,
+At the same time, the very same
 **tu**
 functions as the subject of the following predicate,
-**yam yo fito**.
+**yam yo fite**.
 So
 **tu**
-is the _pivot_ of the entire sentence.
+is the pivot that links the clauses together.
 
-The second verb in a pivot structure is the main verb.
-The first verb is a modal verb,
-which indicates a modality such as desire, permission or obligation.
+A complete action chain is that of `causer > agent > instrument > patient > recipient`.
+The previous sequences, `agent > instrument > patient` and `causer > agent > patient`, were in fact only subsequences of this chain.
+One may pick any or all participants of the action chain into a sentence
+as long as they stay in the same order.
+In the following example sentence all optional participants and their verbs are enclosed in brackets.
 
-**mi vol tu yam fito.**
-– I want you to eat vegetables. (desire)  
-**mi sel tu yam fito.**
-– I advise you to eat vegetables. (advice)  
-**mi halal tu yam fito.**
-– I allow you to eat vegetables. (permission)  
-**mi bil tu yam fito.**
-– I enable you to eat vegetables. (ability)  
-**mi mus tu yam fito.**
-– I compel you to eat vegetables. (obligation)  
-**mi rai tu yam fito.**
-– I think you eat vegetables. (opinion)
+**(mi vol) (tu uze) (la caku) kate la ban (don ma).**
+– I want you to use the knife to cut the bread and give to mother.
 
 
-## Pronoun dropping
+### Short pivot structure
 
-In certain types of expressions the pronouns get dropped for brevity.
-This is done especially in commands and requests.
+In pivot structures where the first action indicates a modality, such as desire, permission or obligation,
+the first participant can be left out when it indicates the first person ('I').
+The the remaining syntactic structure is `verb₁–pivot–verb₂–object`.
 
-### Short pivot structure (VOVO)
+**mi sual tu lai dom.**
+– I ask (whether) you come come?  
+**sual tu lai dom.**
+– Do you come come?  
+**mi axa tu yam max fite.**
+– I wish you would eat more vegetables.  
+**axa tu yam max fite.**
+– Wish you would eat more vegetables.
 
-**mi amir tu kai la mun.**
-– I command you to open the door.  
-**amir tu kai la mun.**
-– Open the door!
+In commands and requests also the second participant can be left out
+when it indicates the second person ('you').
+The the remaining syntactic structure is `verb₁–verb₂–object`.
 
-### Short pivot structure (VVO)
-
-**mi cing tu lai to dom.**
+**mi cing tu lai dom.**
 – I ask you to come home.  
-**cing lai to dom!**
-– Please come home!
-(Word for word: _Request come home!_)
+**cing lai dom!**
+– Please come home!  
+**mi amir tu kluze la mun.**
+– I command you to shut the door.  
+**amir kluze la mun.**
+– Shut the door!
 
 
 ## Changing the focus
