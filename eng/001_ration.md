@@ -381,8 +381,6 @@ including French _tu_, Spanish _tú_, Russian _ty_ and Hindi _tū_.
 In Pandunia it is a neutral pronoun that can be used both in informal and formal situations.
 
 The third-person pronoun in Pandunia is **da**.
-It is inspired by many languages, including
-Malay _ia_, Hindi यह (yah), Swahili _yeye_ and Nigerian Igbo _ya_.
 It has the remarkable benefit that it can refer to both males and females as well as lifeless objects.
 So it covers the English third-person pronouns _he_, _she_ and _it_, all at once.
 

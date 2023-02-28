@@ -5,28 +5,32 @@
 Pandunia is a constructed language that is designed to be relatively easy for
 everyone. You can learn it fast with this practical course.
 
-English speakers will find it easy to make basic sentences in Pandunia as the
-word order is generally the same as in English, there are no definite or
-indefinite articles, no verb "to be", and no complicated rules about changing
-the form of words to express singular and plural or the tense of verbs.
+English speakers will find it easy to make basic sentences in Pandunia as
+the word order is generally the same as in English,
+there are no definite or indefinite articles,
+and no complicated rules about changing the form of words to express singular and plural or the tense of verbs.
 
-The course consists of short lessons. Each lesson introduces one new word,
-which is used in several different phrases in the lesson. This is to teach you
-how the word works as part of sentences. Possibly you will encounter also other
-new words in the same lesson but don't worry about them! You don't have to
-learn all of them at once. Just memorize the phrases that are useful for you!
+The course consists of short lessons.
+Each lesson introduces one new word, which is used in several different phrases in the lesson.
+This is to teach you how the word works as part of sentences.
+Possibly you will encounter also other new words in the same lesson but don't worry about them!
+You don't have to learn all of them at once.
+Just memorize the phrases that are useful for you!
 Maybe the rest will go to your memory subconciously.
 
-You can study this course together with one or several friends. Read the
-phrases together and try to make small conversations. You can also study alone.
-Even then it's useful to read out loud and create conversations. Repeat the
-same phrases several times today, tomorrow, the day after tomorrow and so on.
+You can study this course together with one or several friends.
+Read the phrases together and try to make small conversations.
+You can also study alone.
+Even then it's useful to read out loud and create conversations.
+Repeat the same phrases several times today, tomorrow, the day after tomorrow and so on.
 As they say, _repetition is the mother of learning_.
 
-Note! Many lessons include also tips and notes like this. They are there to
-clarify grammatical details for those who are interested. You can skip over
-them if they are not helpful. You don't have to know the theory of the
-language. You can just speak Pandunia!
+Note! Many lessons include also tips and notes like this.
+They are there to clarify grammatical details for those who are interested.
+You can skip over them if they are not helpful.
+You don't have to know the theory of the language.
+You can just speak Pandunia!
+
 
 ## Part 1: Greeting and basics
 
