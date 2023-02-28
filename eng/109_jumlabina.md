@@ -199,28 +199,19 @@ Usually the most energetic semantic participant takes the role of the subject.
       – *The ball* is hit.
 
 
-### Agent and patient
-
-Agent is the one who does the action.
-Patient is the one to whom the action is done.
-
-In Pandunia, the structure of sentence defines the order and place of agent and patient.
-They are not defined by verbs,
-unlike in some other languages that you might know.
-So, in Pandunia, the subject can be either the agent or the patient,
-but the object can be only the patient.
+### Is the subject the agent or the patient?
 
 When a sentence consists of a subject and a verb (SV),
 the role of the subject can be ambiguous.
-It can be the agent or the patient of the action.
-Then its role is defined by the surrounding world.
-What is the most likely role that fits to the situation?
+It can be either the agent or the patient.
+In such cases the interpretation of its role is based on probability.
+What is the most likely role that fits together with the situation that the sentence describes?
 
-Often the words in the sentence help to define the role of the subject,
+Often the other words in the sentence help to define the role of the subject,
 and the sentence can be interpreted in only one meaningful way
 that is in line with the reality.
 In the following examples, the subject is in all likelihood a patient
-i.e. a recipient or an undergoer of the action.
+i.e. the recipient or the undergoer of the action.
 
 **banana yam.**
 – Banana is eaten.  
@@ -279,7 +270,7 @@ It is also possible to add other objects with the help of
 – The sun makes clothes dry.
 
 
-### Marking the sentence elements
+### Marking sentence elements
 
 Sentence elements can consist of more than one word.
 Subject and object can be noun phrases that consist of many words,
