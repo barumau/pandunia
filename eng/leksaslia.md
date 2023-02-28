@@ -107,6 +107,7 @@
 **banda** *band (squad, group)* ← Mandarin:班 (bān), Cantonese:班 (baan1), Vietnamese:ban, Korean:반 (ban) + English:deu:band, French:bande, Russian:банда (banda), Spanish:Portuguese:Filipino:Polish:banda, Japanese:バンド (bando)  
 **bande** *tie (fasten, bind, bandage)* ← Italian:benda, Swahili:bendeji, Hausa:bandeji, Spanish:venda, French:bande, English:band, deu:Binde, Russian:бинт (bint) Hindi:बाँधना (bāndhnā)  
 **bandera** *flag (banner)* ← English:banner, French:bannière, Spanish:bandera, Portuguese:bandeira, Malay:bendera, Filipino:bandila, Swahili:bendera  
+**bang** *club (bat, mace, baton)* ← Mandarin:棒 (bàng), Cantonese:棒 (paang5), Japanese:棒 (bō), Korean:봉 (bong), Thai:ตะบอง (ta-bong), Khmer:ដំបង (dɑmbɑɑng)  
 **banke** *save (deposit, bank)* ← English:deu:Polish:Malay:bank, Turkish:banka, Russian:банк (bank), French:banque, Spanish:Portuguese:banco, Persian:(bânk), Hindi:बैंक (baiṅk), Urdu:(baiṅk), Telugu:బ్యాంకు (byāṅku), Tamil:(vaṅki), Hausa:banki  
 **bano** *board (pane, panel)* ← Mandarin:板 (bǎn), Cantonese:板 (baan2), Japanese:板 (ban), Korean:판자 (panja), Vietnamese:bảng, Thai:บาน (baan) + Malay:papan + Swahili:bao + English:Spanish:panel, French:panneau, Russian:панель, Turkish:pano  
 **banya** *bath* ← Spanish:bañera, Portuguese:banheira, Greek:μπάνιο (bánio), Russian:ванна (vanna), Arabic:بانيو‎ (banyu)  
@@ -341,7 +342,6 @@
 **estan** *tin* ← Spanish:estaño, Portuguese:estanho, French:étain, Italian:stagno, English:tin, Swahili:stani  
 **estibium** *antimony* ← Mandarin:锑 (tī), Swahili:stibi  
 **estrontium** *strontium* ← English:strontium, French:strontium, Spanish:strontium, Portuguese:estrôncio, Russian:стронций, Mandarin:锶 (sī), Japanese:ストロンチウム, Korean:스트논듐, Vietnamese:stronti, Hindi:स्ट्रोन्सियम, Bengali:স্ট্রনসিয়াম, Malay:strontium, Swahili:stronti, Arabic: سترانشيوم  
-**eu** *beneficial (good)* ← English:French:Spanish:Portuguese:eu-  
 **Eurasia** *Eurasia* ← English:Spanish:Malay:Eurasia, Portuguese:Eurásia, French:Eurasie, Russian:Евразия (Evraziya), Turkish:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), Arabic:يُورَاسِيَا‎ (yūrāsiyā), Hindi:यूरेशिया (yūreśiyā), Bengali:ইউরেশিয়া (iureśiẏa), Mandarin:歐亞大陸 (Ōuyà dàlù), Japanese:ユーラシア (yūrashiya)  
 **eureka** *find (discover)* ← Greek:ευρίσκω (evrísko), English:Spanish:eureka, Portuguese:eureca, French:eurêka, Russian:эврика (evrika), Turkish:efreka, Japanese:ユーレカ (yūreka)  
 **Europa** *Europe* ← English:French:Europe, Spanish:Portuguese:deu:Polish:Europa, Greek:Ευρώπη (Evrópi) Russian:Европа (Evropa), Turkish:Avrupa, Swahili:Uropa, Hindi:यूरोप (yūrop), Malay:Eropah, Mandarin:歐洲 (Ōuzhōu), Japanese:ヨーロッパ (yōroppa)  
@@ -541,9 +541,9 @@
 **hanu** *hand* ← Hausa:hannu + English:hand, deu:Hand + Hindi:हाथ (hāth), Bengali:হাত (hat) + Spanish:mano; manual, Portuguese:mão; manual, French:main; manuel  
 **haos** *chaos (disorder, turmoil)* ← English:French:chaos, Spanish:Portuguese:caos, Russian:хаос (haos), Japanese:カオス (kaosu)  
 **hapu** *suitable (appropriate, apt, fit)* ← Mandarin:合 (hé), Cantonese:合 (hap6), Korean:합 (hap), Vietnamese:hợp + English:apt, French:apte, Spanish:Portuguese:apto  
-**harabu** *bad (ruined, destroyed)* ← Arabic:Persian:Urdu:(xarāb), Turkish:harap, Hindi:ख़राब (xarāb), Bengali:খারাপ (kharap), Swahili:-haribu  
-**haram** *forbidden (illicit, haram, taboo)* ← Arabic:(ḥarām), Hausa:Malay:Turkish:English:deu:haram, Hindi:हराम (harām), Korean:하람 (haram), Persian:Urdu:(harām), Swahili:haramu, Mandarin:哈拉姆 (hālāmǔ), Russian:харамный (xaramniy)  
-**harmoni** *harmony* ← English:harmony, Spanish:armonía, Portuguese:harmonia, French:harmonie, Russian:гармония (garmoniya)  
+**harabe** *bad (ruined, destroyed)* ← Arabic:Persian:Urdu:(xarāb), Turkish:harap, Hindi:ख़राब (xarāb), Bengali:খারাপ (kharap), Swahili:-haribu  
+**haram** *sacred (forbidden, illicit, haram, taboo)* ← Arabic:(ḥarām), Hausa:Malay:Turkish:English:deu:haram, Hindi:हराम (harām), Korean:하람 (haram), Persian:Urdu:(harām), Swahili:haramu, Mandarin:哈拉姆 (hālāmǔ), Russian:харамный (xaramniy)  
+**harmonia** *harmony* ← English:harmony, Spanish:armonía, Portuguese:harmonia, French:harmonie, Russian:гармония (garmoniya)  
 **harnes** *harness* ← French:harnais, English:harness, Spanish:arnés, Portuguese:arnês  
 **has** *special (distinct)* ← Arabic:(xāṣṣ), Persian:Urdu:(xās), Hindi:ख़ास (xās), Malay:khas, Swahili:hususa  
 **haste** *hurry (rush, haste; hasty, busy, hurried, swift, fast)* ← deu:Hast, English:haste, French:hâte + Persian:آهسته (âheste), Hindi:आहिस्ता (āhistā), Bengali:আস্তে (aste), Turkish:aheste  
@@ -817,7 +817,7 @@
 **kudi** *elbow* ← Arabic: كُوع‎ m (kūʿ) + French:coude + Hindi:कुहनी (kuhnī)  
 **kuke** *cook (prepare food)* ← English:cook, deu:Kock, Italian:cuoco, Malay:koki, Thai:กุ๊ก (kuk), sango:kuku + Russian:кухар (kuhar), Polish:kucharz  
 **kuku** *cuckoo* ← English:cuckoo, French:coucou, Spanish:Portuguese:cuco, Russian:кукушка (kukushka), Persian: کوکو‎ (kuku), Japanese:郭公 (kakkō), Mandarin:布谷鸟 (bùgǔniǎo), Cantonese:布谷鳥 (bou3 guk1 niu5), Turkish:guguk, Hausa:kukku  
-**kul** *cool* ← English:deu:French:cool, Japanese:クール (kūru), Mandarin:酷 (kù)  
+**kule** *slave (coolie)* ← Turkish:köle; kul, Hindi:क़ुली (qulī), Tamil:கூலி (kūli), Malay:kuli, Mandarin:苦力 (kǔlì), Cantonese:咕哩 (gu1 lei1), Japanese:苦力 (kūrī), Korean:쿨리, Vietnamese:cu li, English:French:coolie, Spanish:culi, Portuguese:cule, deu:Kuli, Russian:кули (kuli)  
 **kulte** *cultivate (foster)* ← English:cultivate, French:cultiver, Spanish:Portuguese:cultivar, Russian:культура (kulʹtúra), Persian: کولتور‎ (kultur), Turkish:kültür, Japanese:カルチャー (karuchā), Tamil:கலாச்சாரம் (kalāccāram)  
 **kume** *mound (hill)* ← English:cumulate, French:cumuler, Spanish:Portuguese:cumular + Turkish:kumul + Arabic:كَوْمَة‎ (kawma), Persian: کومه (kume)  
 **Kung Fuzi** *Confucious* ← Mandarin:孔夫子 (Kǒng Fūzǐ)  
@@ -851,7 +851,6 @@
 **late** *side (flank)* ← Spanish:Portuguese:lado, Italian:lato, English:lateral, French:latéral, Russian:латеральный (lateral’nyy)  
 **lau** *old (aged, elderly)* ← Mandarin:老 (lǎo), Cantonese:老 (lau2), Wu-Chinese:老 (lau3), Japanese:老 (rō), Vietnamese:lão  
 **laurencium** *lawrencium* ← English:lawrencium, French:lawrencium, Spanish:laurencio, Portuguese:lawrêncio, Russian:лоуренсий, Mandarin:铹 (láo), Japanese:ローレンシウム, Korean:로렌슘, Vietnamese:lorenxi, lawrenci, Hindi:लॉरेंशियम, Bengali:লরেনসিয়াম, Malay:lawrensium, Swahili:lawirensi, Arabic: لورنسيوم  
-**laxa** *loose (lax; loosen, let loose, let go)* ← English:(re)lax, French:(re)lâcher, Spanish:(re)lajar, Italian:lasciare, deu:lassen  
 **laxe** *loose (laxe; loosen, let loose, let go)* ← English:(re)lax, French:(re)lâcher, Spanish:(re)lajar, Italian:lasciare, deu:lassen  
 **lazanya** *lasagna* ← French:lasagne, English:lasagna, Spanish:lasaña, Portuguese:lasanha, Russian:лазанья (lazanya), Arabic:(lazanyā), Japanese:ラザニア (razania), Korean:라자냐 (lajanya), Hindi:लज़ैन्या (lazenyā)  
 **lazur petra** *lapis lazuli* ← Persian:لاجورد (lājevard), English:lazuli, Spanish:lapislázuli, Russian:лазурит (lazurit), Arabic:لازورد (lāzaward), Hindi:लाजवर्द (lājavarda), Japanese:ラピスラズリ (rapisurazuri), Malay:lazuardi, Turkish:lazur taşı  
@@ -1044,7 +1043,7 @@
 **nagre** *town* ← Hindi:नगर (nagar), Bengali:নগর (nôgôr), Telugu:నగరము (nagaramu), Tamil:நகரம் (nakaram), Khmer:អង្គរ (ʾɑngkɔɔ), Thai:นคร (na-khon) + Malay:negara  
 **nahun** *nail (fingernail)* ← Persian:ناخن‎ (nâxon), Hindi:नाख़ुन m (nāxun), Bengali:নখ (nôkh), pan:नख (nakh), Russian:нога́ (nogá)  
 **najis** *corruption (filth, pollution, contamination, najis)* ← Arabic:نجس (najis), Malay:najis, Swahili:najisi, Persian:نجس (najes) + English:najis, Russian:наджаса (nadžasa)  
-**nam loga** *noun* ← Mandarin:名词 (míngcí), Cantonese:名詞 (ming4 ci4), Japanese:名詞 (meishi), Korean:명사 (myeongsa), Hindi:नाम (nām), French:nom, Spanish:nombre, Portuguese:nome, Russian:имя (imya), Arabic:(ism), per:(esm), Swahili:nomino  
+**nam lexe** *noun* ← Mandarin:名词 (míngcí), Cantonese:名詞 (ming4 ci4), Japanese:名詞 (meishi), Korean:명사 (myeongsa), Hindi:नाम (nām), French:nom, Spanish:nombre, Portuguese:nome, Russian:имя (imya), Arabic:(ism), per:(esm), Swahili:nomino  
 **nam** *name* ← deu:English:name, French:nom, Hindi:नाम (nām), Bengali:নাম (nam), Malay:nama, Thai:นาม (naam) + Japanese:名前 (namae)  
 **nan** *male* ← Mandarin:男 (nán), Japanese:男 (nan), Korean:남 (nam), Vietnamese:nam + Persian: نر‎ (nar), Hindi:नर (nar), Bengali:নর (nôr), Telugu:నరుడు (naruḍu) + English:man, deu:Mann + Tamil:ஆண் (āṇ)  
 **naraka** *hell* ← Hindi:नरक (narak), Bengali:নরক (nôrôk), pan:ਨਰਕ (nark), Marathi:नर्क (nark), Telugu:నరకము (narakamu), Tamil:நரகம் (narakam), Malay:neraka, Thai:นรก (ná-rók), Japanese:奈落 (naraku)  
@@ -1151,7 +1150,7 @@
 **pasta** *paste (dough)* ← English:deu:paste, Russian:паста (pasta), Spanish:Portuguese:pasta  
 **pata** *route (path, trail, course, itinerary)* ← English:path, deu:Pfad, Russian:путь (putʹ), Hindi:पथ (path), Bengali:পথ (pôth), Telugu:పథము (pathamu),   
 **patate** *potato* ← French:patate, Spanish:patata, Portuguese:batata, Turkish:patates, Arabic:(baṭāṭis), Swahili:mbatata, English:potato, Filipino:patatas  
-**pate** *disease (illness, sickness)* ← deu:English:French:patho-, Spanish:Portuguese:Polish:Turkish:Malay:pato-, Russian:пато- (pato-)  
+**pate** *suffer (be hurt, be ill)* ← deu:English:French:patho-, Spanish:Portuguese:Polish:Turkish:Malay:pato-, Russian:пато- (pato-)  
 **pau gi** *gun (firearm)* ← Mandarin:炮 (pâo), Cantonese:炮 (paau3), Vietnamese:pháo, Korean:포 (po), mon:буу (buu)  
 **pauze** *pause (break, interruption)* ← deu:Pause, English:deu:French:pause, Spanish:Portuguese:pausa, Russian:пауза (pauza)  
 **payace** *clown* ← Italian:pagliaccio, French:paillassa, Spanish:payaso, Portuguese:palhaço, Russian:паяц (payac), Turkish:palyaço  
@@ -1443,7 +1442,7 @@
 **tehne** *technique (technology)* ← Greek:τεχνική (tehniki), Russian:техника (tehnika), French:English:technique, Spanish:Portuguese:técnica, Hindi:तकनीक (taknīk), Malay:teknik  
 **tehnetium** *technetium* ← English:technetium, French:technétium, Spanish:tecnetio, Portuguese:tecnécio, Russian:технеций, Mandarin:锝 (dé), Japanese:テクネチウム, Korean:테크네튬, Vietnamese:tecnexi, Hindi:टेक्निशियम, Bengali:টেকনিসিয়াম, Malay:teknetium, Swahili:tekineti, Arabic: تكنيتيوم  
 **tela** *cloth (fabric, textile)* ← Spanish:Portuguese:Filipino:tela, French:toile + English:towel, Hindi:तौलिया (tauliyā), Swahili:taulo, Hausa:tawul, Japanese:タオル (taoru), Malay:tuala  
-**tele** *distance (far away)* ← English:Spanish:Portuguese:Malay:tele-, French:télé-, Russian:теле- (tele-)  
+**tele** *far* ← English:Spanish:Portuguese:Malay:tele-, French:télé-, Russian:теле- (tele-)  
 **telurium** *tellurium* ← English:tellurium, French:tellure, Spanish:telurio, Portuguese:telúrio, Russian:теллур, Mandarin:碲 (dì), Japanese:テルル, Korean:텔루르, Vietnamese:telu, Hindi:टेलुरियम, Bengali:টেলুরিয়াম, Malay:telurium, Swahili:teluri, Arabic: تيلوريوم  
 **tema** *topic (subject, theme; be about)* ← French: thème, Spanish: tema, Russian: тема (tema), deu:Thema + Mandarin:题目 (tímù)  
 **tene** *hold (grasp, detain)* ← French:tener, Spanish:tenir, Portuguese:ter, English:-tain  

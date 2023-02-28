@@ -179,6 +179,7 @@ bamia - quiabo
 ban - pão  
 banana - banana  
 banda - bando  
+bang - maça  
 banker - banqueiro  
 bankekan - banco  
 bankrute - bancarrota (falido)  
@@ -469,8 +470,6 @@ estrontium - estrôncio
 etan - etano  
 etanol - etanol  
 etil - etila  
-euangil - evangelho  
-eu loga - elogio  
 europium - európio  
 europa baluta - carvalho-roble  
 ezmurude - esmeralda  
@@ -693,13 +692,15 @@ han guaner - mandarim
 hanu - mão  
 hanu xaka - braço  
 hapu - apropriado (apto)  
-harabu mahala - favela  
+harabe mahala - favela  
 Hartum - Cartum  
 haste - pressa  
 • anhaste - lento  
 hata - até  
 hatar - perigo  
 hau - bom  
+hau angil - evangelho  
+hauloge - elogio  
 haxi - pauzinho (hashi)  
 hazin - armazenar  
 hazinkan - armazém  
@@ -749,7 +750,7 @@ holografe - holograma
 holografia - holografia  
 holisme - holismo  
 holmium - hólmio  
-horure - horror  
+horur - horror  
 hotel - hotel  
 hua - flor  
 hua koli - couve-flor  
@@ -1056,7 +1057,6 @@ Latvia - Letónia
 lau - idoso  
 laurencium - lawrêncio  
 laxe - deixar  
-laxa - deixar  
 lazanya - lasanha  
 lazur - azur (blau)  
 lazur petra - lápis-lazúli  
@@ -1076,6 +1076,7 @@ lexasle - etimologia
 lexeme - lexema  
 lexe fen - sílaba  
 lexe gense - gênero gramatical  
+• rilexife - relexificar  
 lexe jama - vocabulário  
 liama - lhama  
 libele - libélula  
@@ -1103,9 +1104,9 @@ lixu - esquilo
 • duologia - bilogia  
 loga - registro  
 loga buku - diário de bordo  
-loke - colocar (pôr)  
 loke - lugar (local)  
 lokal - local  
+lokize - colocar (pôr)  
 long - longo  
 long dure - por muito tempo  
 long durike - prolongado  
@@ -1327,7 +1328,7 @@ nefritis - nefrite
 negative - negativo  
 nekre - cadáver  
 nekrofilia - necrofilia  
-nekrologa - obituário  
+nekrologe - obituário  
 nekrotomia - autopsía  
 nelu - quatro (4)  
 neodimium - neodímio  
@@ -1342,8 +1343,8 @@ nese - ilha
 neu - novidade  
 neu di - novo  
 neu jen - novato (neófito)  
-neu loga - neologismo  
-neu nati di - recém-nascido (neonato)  
+neuloge - neologismo  
+neunatike - recém-nascido (neonato)  
 neuta - novidade  
 neure - nervo  
 neuralgia - nevralgia  
@@ -1456,7 +1457,7 @@ parte - fragmento
 partaner - parceiro  
 partia - partido  
 pas dau - passagem  
-pas loga - palavra-passe (senha)  
+pas lexe - palavra-passe (senha)  
 pasporte - passaporte  
 pasta - pasta  
 patogener - patógeno  
@@ -1711,7 +1712,7 @@ sexu - sexo
 sexulogia - sexologia  
 si - se  
 siborgium - seabórgio  
-sifa loga - adjetivo  
+sifa loge - adjetivo  
 sigar - cigarro  
 resikle - reciclar  
 sikliste - ciclista  
@@ -1726,7 +1727,7 @@ sis - irmã
 siti - cidade  
 skandium - escândio  
 skuter - patinete (trotineta)  
-Slave - eslavo  
+slavike - eslavo  
 sofia - sabedoria (sagacidade, sapiência)  
 soi - soja  
 soi milke - leite de soja  

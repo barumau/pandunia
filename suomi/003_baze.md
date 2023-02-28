@@ -148,13 +148,13 @@ Substantiivia luonnehditaan panemalla adjektiivimääre sen eteen.
 
 **un neu luba**
 – uusi rakkaus  
-**la bon pai**
+**la hau pai**
 – hyvä piirakka
 
 Verbiä luonnehditaan panemalla adverbimääre sen eteen.
 Toisinaan adverbi merkitään pikkusanalla **di**.
 
-**mi bon (di) vide tu.**
+**mi hau (di) vide tu.**
 – Minä hyvin näen sinut.  
 **tu vide di luba da.**
 – Sinä nähtävästi rakastat häntä.

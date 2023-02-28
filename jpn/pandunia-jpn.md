@@ -416,7 +416,6 @@ estibium - アンチモン
 estrontium - ストロンチウム  
 etan - エタン  
 etanol - エタノール  
-eu loga - 賛辞  
 europium - ユウロピウム  
 europa baluta - ヨーロッパナラ  
 ezmurude - エメラルド  
@@ -649,13 +648,13 @@ hanu - 手
 hanu xaka - 腕  
 hape - 適応する  
 hapu - 適切  
-haram liste - ブラックリスト  
 Hartum - ハルツーム  
 has nam - 識別名  
 • anhaste - 遅い (ゆっくり)  
 hatar - 危険  
 hau - 良い (元気, 上手)  
 hau guste di - 美味しい  
+hauloge - 賛辞  
 hava - 風  
 haxi - 箸  
 hei - おい  
@@ -913,7 +912,6 @@ kon - 共
 kon forma - 即する  
 kon hau - 合わせる (適する)  
 kon kar - 共同して働  
-kon pasi - 同情  
 kone - 錐  
 konserte - コンサート (音楽会)  
 kopernium - コペルニシウム  
@@ -951,7 +949,7 @@ kube - 立方体
 kudi - 肘  
 kuke kamar - 台所  
 kuku - 郭公  
-kul - カッコいい  
+kule - 奴隷  
 kulture - 文化  
 kupa - コップ  
 kupre - 銅  
@@ -1234,8 +1232,8 @@ nese - 島
 • konnete - 繋げる  
 neu di - 新しい  
 neu jen - 初心者  
-neu loga - 新語 (新造語)  
-neu nati di - 新生の  
+neuloge - 新語 (新造語)  
+neunatike - 新生の  
 neu tipe di - 近代的  
 neure - 神経  
 neuralgia - 神経痛  
@@ -1327,9 +1325,10 @@ paristan - 仙境
 parne - 羊歯  
 partaner - パートナー  
 partaneria - パートナーシップ  
-pas loga - パスワード  
+pas lexe - パスワード  
 pasporte - パスポート  
 pasta petra - マグマ (岩漿)  
+• konpatia - 同情  
 patike - 患者  
 patekan - 病院 (医院)  
 patomise - 伝染  
@@ -1549,7 +1548,7 @@ si - もし
 siborgium - シーボーギウム  
 side - 座る  
 side loka - 座席 (鞍)  
-sifa loga - 形容詞  
+sifa loge - 形容詞  
 sigar - タバコ  
 resikle - 再生する (リサイクルする)  
 sikliste - チャリダー  

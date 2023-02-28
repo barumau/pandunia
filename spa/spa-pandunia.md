@@ -66,7 +66,7 @@ además - a max
 adhesivo - glu grafi  
 adicional (extra) - maxaje  
 adiós - sal cute  
-adjetivo - sifa loga  
+adjetivo - sifa loge  
 admirar - amire  
 adoquín - gola seku  
 adoración (veneración, culto) - puja  
@@ -283,8 +283,8 @@ arma nuclear - kerne vuki
 armadura - defe kaska  
 armario - almari  
 Armenia - Haye  
-armonioso - harmoni di  
-armonía - harmoni  
+armonioso - harmonike  
+armonía - harmonia  
 arnés (arreos, jaeces) - harnes  
 arquero - arker  
 arquetipo - asle tipe  
@@ -298,7 +298,7 @@ arromántico - anromanse
 arroz - varis  
 arroz blanco - baku varis  
 arroz integral - brun varis  
-arruinado (devastado, asolado) - harabu  
+arruinado (devastado, asolado) - harabe  
 arruinar (destruir, devastar, asolar) - harabe  
 arsénico - arsenium  
 arte marcial - jang suta  
@@ -390,7 +390,7 @@ bacalao - bakalau
 bacalao común - atlanti bakalau  
 bachiller - baceler  
 backgammon - narde  
-baguette - kane pang  
+baguette - kane ban  
 bah - bah  
 Bahamas - Bahama  
 bahaísmo (fe bahá'i) - bahaisme  
@@ -429,7 +429,7 @@ barrera (barda) - bare mur
 barriga (vientre, panza) - pete  
 barril (tonel) - tong  
 barrio (cuartel) - mahala  
-barrio pobre - harabu mahala  
+barrio pobre - harabe mahala  
 baréin - Bahrain  
 barómetro - air prese metri gi  
 base (álcali; alcalino) - kali  
@@ -453,7 +453,6 @@ bellas artes - mei arte
 belleza (hermosura) - meita  
 bellota - baluta frute  
 beneficio - faide  
-beneficioso (bueno) - eu  
 Benín - Benin  
 berenjena - bedingan  
 berilio - berilium  
@@ -851,7 +850,7 @@ colectivo - jamive
 colgar - pende  
 coliflor - hua koli  
 colmena (panal) - medu vespa nide  
-colocar (poner, ubicar) - loke  
+colocar (poner, ubicar) - lokize  
 Colombia - Kolombia  
 colonia - kolonia  
 colonialismo - kolonisme  
@@ -875,8 +874,8 @@ comino - zira
 comissão (comité) - konmisea  
 Comoros - Komoro nesia  
 compartir (tener en común) - konife  
-compasión - kon pasi  
 compasión - sam emos  
+compasión - konpatia  
 compatible - kon funsibil  
 compatible - konfuntebil  
 compatriota (cotérraneo) - konpatrian  
@@ -942,7 +941,7 @@ contener - in tene
 contenido - in xe  
 continuar (reanudar) - redure  
 continuo (analógico) - undurike  
-contraseña - pas loga  
+contraseña - pas lexe  
 contraseña - sekur kode  
 contrato (tratado) - trati  
 contrato (tratado) - kontrati  
@@ -1140,7 +1139,6 @@ defensa - defe
 defensor - defer  
 definir - fa sifa  
 degradar - dus gradu  
-dejar - laxa  
 dejar - laxe  
 dejar caer - fa pada  
 deleble - deletebil  
@@ -1348,7 +1346,7 @@ elemento químico - kimeme
 elfo - elfe  
 ellos o ellas - damen  
 elogiar (alabar, exaltar) - halela  
-elogio - eu loga  
+elogio - hauloge  
 elástico (flexible) - elastike  
 eléctrico - eletrike  
 email (correo electrónico) - eletroposte (e-poste)  
@@ -1386,7 +1384,6 @@ enemigo - dus jen
 energía - energia  
 energía nuclear - kerne energi  
 enero - mes un  
-enfermedad - pate  
 enfermo - patike  
 engañar - fa truke  
 engendrador - na ja  
@@ -1453,7 +1450,7 @@ esencia (existencia) - esentia
 esencial - esential  
 esgrima - gem suta  
 eslabón - ser  
-eslavo - Slave  
+eslavo - slavike  
 Eslovaquia - Slovakia  
 Eslovenia - Slovenia  
 esmeralda - ezmurude  
@@ -1528,7 +1525,7 @@ Europa - Europa
 europeo - europa di  
 europio - europium  
 evaluación (crítica) - piping  
-evangelio - euangil  
+evangelio - hau angil  
 eviar por correo - poste  
 evidente - exvidebil  
 exacto (preciso) - juste  
@@ -1727,7 +1724,6 @@ generosidad (caridad) - karim
 generoso (dadivoso) - don tabi  
 generoso (dadivoso, caritativo) - karim di  
 gengibre - ginge  
-genial - kul  
 genotipo - gene tipe  
 gente - nas  
 genético - gene logia di  
@@ -1931,7 +1927,7 @@ hormona - hormon
 hornacina - nix  
 hornear (cocer) - bake  
 horno - tanur  
-horror - horure  
+horror - horur  
 hospital - patekan  
 hotel (albergue) - hotel  
 hoy - zai den  
@@ -2240,7 +2236,7 @@ lecho de roca - baze petre
 lechuga - letus  
 leer - dugu  
 legumbre (frijol o arveja) - dou  
-lejano (lejos) - tele di  
+lejano (lejos) - tele  
 lejos (fuera) - for  
 lejos - to long  
 lengua (idioma, hablar, comunicación) - baxe  
@@ -2300,7 +2296,6 @@ liquen - alga fungu
 lirio - susan  
 lista - liste  
 lista blanca - halal liste  
-lista negra - haram liste  
 listo (preparado) - redi  
 litera - ceng bede  
 literatura - kitabe suta  
@@ -2321,7 +2316,6 @@ llorar - be duka
 llorar - uhu  
 llorar - vava  
 lluvia - barxa  
-lo lejos - tele  
 lo menos - minim  
 lo más - maxim  
 lobo - volfe  
@@ -2475,6 +2469,7 @@ mayor - maxike
 mayoría - maxia  
 Mayotte (Mahoré) - Mayote  
 mayúscula - dai zi  
+maza - bang  
 mazmorra - geo nice jela  
 maíz - mais  
 mañana (antes mediodía) - suba dia  
@@ -2617,7 +2612,7 @@ monismo - un xe sim
 monje o monja - biku  
 monocromático - unrangike  
 monograma - monograme  
-monoteismo - undeuisme  
+monoteismo - undeisme  
 monstro - mostre  
 montaña (colina) - xan  
 Montenegro - cernagora  
@@ -2721,7 +2716,7 @@ necesario - yau di
 necesidad - yauta  
 necesitar - yau  
 necrofilia - nekrofilia  
-necrología (obituario) - nekrologa  
+necrología (obituario) - nekrologe  
 nefrectomía - nefrextomia  
 nefritis - nefritis  
 negativo - negative  
@@ -2730,8 +2725,8 @@ negocios (comercio) - biznes
 negro - kala  
 nenúfar (lirio de agua) - nenufar  
 neodimio - neodimium  
-neologismo - neu loga  
-neonato (recién nacido) - neu nati di  
+neologismo - neuloge  
+neonato (recién nacido) - neunatike  
 Nepal - Nepal  
 neptunio - neputunium  
 Neptuno - Neputun  
@@ -2925,7 +2920,7 @@ palillos - haxi
 palmera - palma  
 palpar (tocar) - tocu sense  
 pan - ban  
-pan tostado - xava pang  
+pan tostado - xava ban  
 panadero - baker  
 panadería - bakeria  
 panafricano - panafrikan  
@@ -3176,7 +3171,7 @@ policía - poliser
 poliedro - poli fase  
 Polinesia - Polinesia  
 Polinesia Francesa - Franse Polinesi  
-politeísmo - poli deu sim  
+politeísmo - polideisme  
 pollo - koko  
 Polonia - Polska  
 polonio - polskium  
@@ -3275,8 +3270,6 @@ profeta Mani - Mani
 profundo (hondo) - fase tele  
 programa - programe  
 programador - programer  
-prohibido (tabú) - haram  
-prohibir - fa haram  
 promesa (voto) - vode  
 Prometeo - Promete  
 prometer (comprometerse) - vode  
@@ -3772,8 +3765,8 @@ suegro - per pa
 sueño - sona  
 sufijo - posfixe  
 sufragio (derecho al voto) - vote hake  
+sufrir (enfermedad) - pate  
 sufrir (verbo pasivo) - be  
-sufrir - be pasi  
 Suiza - Suise  
 sulfato - sulfate  
 sulfito - sulfite  
@@ -3792,7 +3785,7 @@ Surinam - Surinam
 sushi - suxi  
 sustancia (materia) - made  
 sustancia - kime  
-sustantivo - nam loga  
+sustantivo - nam lexe  
 sustituir (reemplezar) - vise  
 susurrar (curjir) - xaxa  
 Svalbard - Sualbarde  
@@ -3812,6 +3805,7 @@ tabla con pinza (carpeta con sujetapapeles) - pinse bano
 tablet - table komputa  
 tablón - moka bano  
 tabular - table yo data  
+tabú - haram  
 taiga - taiga  
 Tailandia - Tai Dexa  
 Taipei - Taibei  
@@ -3865,7 +3859,7 @@ telefono - telefon
 telefonía - telefonia  
 telescopio - teleskope  
 teletransportarse - be tele loka  
-televisión - tele vide gi  
+televisión - televidion  
 telurio - telurium  
 tema (tratar de) - tema  
 temer - be fobi  
@@ -3898,7 +3892,7 @@ terremoto - geo sismo
 terreno (solar) - geo tike  
 terreno - geo forme  
 terror - tere  
-terror - terure  
+terror - terur  
 terrorismo - terurisme  
 terrorista - teruriste  
 tesis - teze  
@@ -4042,11 +4036,11 @@ una vez - un mar
 unidad (medida) - metri unta  
 unidad (unión) - unta  
 unido - unifike  
-unir - fa un xe  
+unir - unife  
 universal - universal  
 universidad - dai xulakan  
 unión - unia  
-Unión Europea - Europa Unta  
+Unión Europea - Europa Unia  
 uno (1) - un  
 unshu mikan - venzou orange  
 uranio - uranium  

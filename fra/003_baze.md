@@ -87,7 +87,7 @@ Les adjectifs se placent généralement devant le nom qu'ils modifient.
 
 **un neu idee**
 – une nouvelle idée  
-**la bon buku**
+**la hau buku**
 – _les livres bonnes_
 
 On compare les adjectifs grâce aux mots

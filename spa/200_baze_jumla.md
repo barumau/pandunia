@@ -178,13 +178,13 @@ De hecho, la pregunta anterior es una sencilla abreviación de
 **mi sual tu es davar**
 (Yo pregunto, ¿eres doctor?), en que se omite la primera palabra.
 
-**sual tu bon?**
+**sual tu hau?**
 ¿Cómo estás? (Literalmente: _¿Estás bien?_)  
-**mi bon.**
+**mi hau.**
 Estoy bien.  
 **tu, ne?**
 ¿Y tú?  
-**mi no bon.**
+**mi no hau.**
 No estoy bien.
 
 
@@ -212,14 +212,14 @@ No soy Sara.
 **mi no es davar.**
 No soy doctor/a.
 
-**sual tu bon?**
+**sual tu hau?**
 ¿Estás bien?  
-**ya. mi bon.**
+**ya. mi hau.**
 Sí, estoy bien.
 
-**sual tu bon?**
+**sual tu hau?**
 ¿Estás bien?  
-**no, mi no bon.**
+**no, mi no hau.**
 No, no estoy bien.
 
 Puedes usar
@@ -399,7 +399,7 @@ inglés: name.</small>
 
 ### ha <small>tener</small>
 
-**mi ha un bon dom.**
+**mi ha un hau dom.**
 Tengo una buena casa.
 
 **da no ha pesa.**
@@ -473,7 +473,7 @@ cubre tanto comer y beber.
 Puede parecer raro al inicio, pero pronto verás que es bastante útil.
 Normalmente el objeto del verbo dice si se trata de comer, beber o ambos.
 
-**mi yam kafe e pang.**
+**mi yam kafe e ban.**
 Estoy tomando café y pan.
 
 
@@ -611,28 +611,28 @@ Puedo hablar un poco de pandunia.
 **mi no bil englix.**
 No puedo hablar inglés.
 
-**maf. mi no bil tu su baxa.**
+**maf. mi no bil tu su baxe.**
 Lo siento. No puedo hablar tu idioma.
 
 
-### loga <small>decir, hablar</small>
+### loge <small>decir, hablar</small>
 
-**tu loga ke?**
+**tu loge ke?**
 ¿Qué dijiste?
 
-**mi loga to tu.**
+**mi loge to tu.**
 Te hablé.
 
 **mimen loge to semen.**
 Hablamos entre nosotros.
 
-**se loga «gato» a ke yang a pandunia?**
+**se loge «gato» a ke yang a pandunia?**
 ¿Cómo se dice "gato" en pandunia?
 
 **«gato» es ke a pandunia?**
 ¿Qué es "gato" en pandunia?
 
-**mau loga "miau".**
+**mau loge "miau".**
 El gato dice «miau».
 
 
@@ -644,7 +644,7 @@ El gato dice «miau».
 **mi no bil audi tu.**
 No puedo oírte.
 
-**cing loga max bala.**
+**cing loge max bala.**
 Por favor, hablar más fuerte.
 
 **mi audi muzika.**
@@ -693,15 +693,15 @@ Por favor, escribe tu dirección.
 Por favor, escríbelo aquí.
 
 
-### baxa <small>hablar un idioma, comunicar</small>
+### baxe <small>hablar un idioma, comunicar</small>
 
-**sual tumen baxa pandunia.**
+**sual tumen baxe pandunia.**
 ¿Hablas pandunia?
 
-**mimen baxa pandunia.**
+**mimen baxe pandunia.**
 Nosotros hablamos pandunia.
 
-**sual tu bil baxa englix?**
+**sual tu bil baxe englix?**
 ¿Puedes hablar inglés?
 
 **franse, espanya, portugal, rus**

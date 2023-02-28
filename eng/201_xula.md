@@ -67,7 +67,7 @@ In the same way you can describe yourself by saying
 **mi es**
 and a word that describes you.
 
-**mi es bon.**
+**mi es hau.**
 = I'm good.  
 **mi es man.**
 = I'm a man.  
@@ -110,7 +110,7 @@ who or what
 to be  
 **no**
 no; not  
-**bon**
+**hau**
 good  
 **doste**
 friend  
@@ -788,12 +788,12 @@ such as "to hit", which is the same in all tenses.
 = I hit it.
 
 In Pandunia all verbs are like that! For example,
-**mi yam pang**
+**mi yam ban**
 can mean both "I eat bread" and "I ate bread",
 but usually only one or the other meaning makes sense in the context of the discussion.
 For example when people talk about that morning's breakfast, the sentence tells about the past time.
 
-**mi yam pang a ye suba yam.**
+**mi yam ban a ye suba yam.**
 = I ate bread for this breakfast.
 
 There are also specific time words.
@@ -840,7 +840,7 @@ or until it becomes useful to stress that you are still talking in the same tens
 
 **mi pas ha un mau.**
 = I had a cat in the past.  
-**da es bon mau.**
+**da es hau mau.**
 = It was a good cat.  
 **mi ha un vaf a zai.**
 = I have a dog now.
@@ -881,7 +881,7 @@ day, 24 hours
 night  
 **darba**
 to hit, to beat  
-**pang**
+**ban**
 bread  
 **suba yam**
 morning meal, breakfast  

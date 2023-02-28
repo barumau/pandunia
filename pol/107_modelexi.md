@@ -12,7 +12,7 @@ Przymiotnik to słowo, które dodaje określoną cechę rzeczownikowi. W Panduni
 – duży stół  
 **gau meza**
 – wysoki stół  
-**bon kursi**
+**hau kursi**
 – dobre krzesło
 
 Przymiotnik może też być po rzeczowniku. Często ten typ wyrażeń może być rozumiany jako pełne zdanie, w których czasownik _być_ jest pozostawiony w domyśle.
@@ -34,11 +34,11 @@ Przysłówek to słowo, które opisuje czasownik lub inną modyfikator.
 
 W Panduni przysłówek to modyfikator, który znajduje się przed czasownikiem lub na końcu zdania.
 
-**mi _bon_ sona.**
+**mi _hau_ sona.**
 – Ja _dobrze_ śpię.  
-**mi sona _bon_.**
+**mi sona _hau_.**
 – Śpię _dobrze_.  
-**tu baxa pandunia _bon_.**
+**tu baxa pandunia _hau_.**
 – Mówisz w Panduni _dobrze_.
 
 
@@ -81,8 +81,8 @@ Modyfikatory mogą być porównane.
 
 Partykuła **ka** łączy przysłówki porównania z obiektem porównania.
 
-**mi es max bon ka tu**
+**mi es max hau ka tu**
 – Jestem lepszy od ciebie.  
-**tu loga par bon ka mi.**
+**tu loge par hau ka mi.**
 – Mówisz tak dobrze, jak ja.
 

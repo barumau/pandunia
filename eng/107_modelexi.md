@@ -30,7 +30,7 @@ In Pandunia, "adjectives" are modifiers that are placed before the noun that the
 – _big_ tables  
 **men _gau_ meza**
 – high tables  
-**un bon jen**
+**un hau jen**
 – a good person
 
 Two or more modifiers can modify the same noun.
@@ -44,9 +44,9 @@ Two or more modifiers can modify the same noun.
 A modifier that modifies a verb
 is placed immediately before the verb.
 
-**tu _suga_ loga.**
+**tu _suga_ loge.**
 – You talk _fast_.  
-**damen _bon_ kitabe.**
+**damen _hau_ kitabe.**
 – They write _well_.
 
 It is common to put the modifying particle
@@ -66,7 +66,7 @@ The particle
 **di**
 is used also when a modifier modifies another one.
 
-**un _dai di_ bon buku**
+**un _dai di_ hau buku**
 – a _greatly_ good book  
 **poli _bala di_ ame ja jen**
 – _strongly_ loving people
@@ -104,18 +104,18 @@ The compound adverb is placed immediately before the verb that it modifies.
 
 **tre poli**
 – very much  
-**mi _tre poli_ vol loga.**
+**mi _tre poli_ vol loge.**
 – I want very much to speak.  
-**mi vol _tre poli_ loga.**
+**mi vol _tre poli_ loge.**
 – I want to speak very much.
 
 It is also possible to place the compound adverb very last in the sentence,
 and then it modifies the sentence as a whole.
 The meaning is the same like when the compound adverb modifies the main verb.
 
-**mi vol loga _tre poli_.**
+**mi vol loge _tre poli_.**
 – I want to speak very much.  
-**sual tu sona _bas bon_?**
+**sual tu sona _bas hau_?**
 – Did you sleep well enough?
 
 
@@ -138,10 +138,10 @@ The particle
 **ka**
 relates the adverbs of comparison to the object of comparison.
 
-**aple es max bon ka oranje.**
+**aple es max hau ka oranje.**
 = Apples are better than oranges.  
-**oranje es min bon ka aple.**
+**oranje es min hau ka aple.**
 = Oranges are less good than apples.  
-**tu loga par bon ka mi.**
+**tu loge par hau ka mi.**
 = You speak as well as me.
 

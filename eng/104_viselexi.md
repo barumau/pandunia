@@ -100,7 +100,7 @@ points to things that are far from the speaker.
 – No, I want this book, not that.
 The demonstratives can serve as subjects and objects in the same way as nouns.
 
-**ye es bon.**
+**ye es hau.**
 – This is good.  
 **vo es dus.**
 – That is bad.  

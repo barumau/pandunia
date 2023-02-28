@@ -69,7 +69,7 @@ El demostrativo distal
 **vo**
 indica cosas que están lejos del orador.
 
-**ye es bon.**
+**ye es hau.**
 – Esta (cosa) es buena.  
 **vo es dus.**
 – Esa (cosa) es mala.  

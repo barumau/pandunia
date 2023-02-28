@@ -203,14 +203,14 @@ En fait, la dernière question est une simple abréviation de
 **mi sual tu davar**
 (je vous demande si vous êtes doctor) ou le premier mot – le pronom personnel **mi** –, est supprimé.
 
-**sual tu bon?**
+**sual tu hau?**
 Comment vas-tu ? (litéralement : _Est-ce que tu vas bien_)  
-**mi bon.**
+**mi hau.**
 Ça va. | Je vais bien.  
 
 **sual tu?**
 Et toi ?  
-**mi no bon.**
+**mi no hau.**
 Ça ne vas pas | Je ne vais pas bien.
 
 <small>Étymologie :
@@ -247,14 +247,14 @@ Je ne suis pas Sara.
 **mi no es davar.**
 Je ne suis pas doctor.
 
-**sual tu bon?**
+**sual tu hau?**
 Est-ce que tu vas bien ?  
-**ya. mi bon.**
+**ya. mi hau.**
 Oui, je vais bien.
 
-**sual tu bon?**
+**sual tu hau?**
 Est-ce que tu vas bien ?  
-**no, mi no bon.**
+**no, mi no hau.**
 Non, je ne vais pas bien.
 
 Vous pouvez utiliser **no** pour mettre une phrase à la forme négative. La négation s'applique au mot qui le suit.
@@ -396,7 +396,7 @@ Son nom est Sara.
 
 ### ha <small>verbe avoir ; il y a </small>
 
-**mi ha un bon dom.**
+**mi ha un hau dom.**
 J’ai une bonne maison.
 
 **da no ha pesa.**
@@ -479,7 +479,7 @@ Astuce : Le sens de **yam** regroupe à la fois l’idée de manger et de boire.
 Cela peut sembler bizarre au début mais vous verrez que c’est plutôt pratique !
 Habituellement, l’objet du verbe dit s’il s’agit de quelque chose qu’on mange, qu’on boit ou les deux.
 
-**mi yam kafe e pang.**
+**mi yam kafe e ban.**
 Je prends un café et du pain.
 
 
@@ -629,24 +629,24 @@ Désolé, je ne parle pas votre langue.
 
 
 
-### loga <small>mot, dire, parler</small>
+### loge <small>mot, dire, parler</small>
 
-**tu loga ke?**
+**tu loge ke?**
 Qu’est-ce que tu dis ?
 
-**mi loga to tu.**
+**mi loge to tu.**
 Je te parle. (mot à mot : _je parle à toi_)
 
-**mimen loga to semen.**
+**mimen loge to semen.**
 Nous nous parlons. (mot à mot : _nous parlons à l’un l’autre_)
 
-**se loga "cat" a ke yang a pandunia?**
+**se loge "cat" a ke yang a pandunia?**
 Comment se dit « chat » en pandunia ?
 
 **"chat" es ke a pandunia?**
 Qu’est-ce que c’est, « chat», en pandunia ?
 
-**mau loga miau.**
+**mau loge miau.**
 Un chat dit miaou.
 
 
@@ -658,7 +658,7 @@ Un chat dit miaou.
 **mi no bil audi tu.**
 Je ne t’entends pas. (Je n’arrive pas à t’entendre)
 
-**cing loga max bala.**
+**cing loge max bala.**
 Parlez plus fort, s’il vous plait.
 
 **mi audi muzika.**

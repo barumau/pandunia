@@ -68,7 +68,7 @@ Voit kertoa itsestäsi sanomalla
 **mi es**
 ja sen perään sanan, joka kuvaa sinua.
 
-**mi es bon.**
+**mi es hau.**
 = Minä voin hyvin.  
 **mi es man.**
 = Minä olen mies.  
@@ -108,7 +108,7 @@ mikä tai kuka
 olla  
 **no**
 ei  
-**bon**
+**hau**
 hyvä  
 **doste**
 ystävä  
@@ -745,12 +745,12 @@ jotka ovat kaikissa aikamuodoissa samoja joissakin persoonissa.
 = Minä nautin siitä (äsken/nyt/pian).
 
 Ero on siinä, että kaikki pandunian verbit ovat sellaisia! Esimerkiksi
-**mi yam pang**
+**mi yam ban**
 voi tarkoittaa sekä "Minä söin leipää" että "Minä syön leipää",
 mutta tavallisesti vain toinen merkitys sopii asiayhteyteen.
 Esimerkiksi kun on päivä ja puhe on aamiaisesta, lause viittaa luonnollisesti menneeseen aikaan.
 
-**mi yam pang a ye suba yam.**
+**mi yam ban a ye suba yam.**
 = Minä söin leipää tänään aamiaisella.
 
 Mennyttä, nykyistä ja tulevaa tarkoittavat määresanat ovat **pas, zai**
@@ -795,7 +795,7 @@ Seuraava ajan ilmaus tarvitaan vasta sitten, kun siirrytään puhumaan toisesta 
 
 **mi pas ha un mau.**
 = Minä omistin ennen kissan.  
-**da es bon mau.**
+**da es hau mau.**
 = Se _oli_ hyvä kissa.  
 **mi ha un vaf a zai.**
 = Minulla on koira nyt.
@@ -830,7 +830,7 @@ nykyinen, nykyään
 tuleva, tulevaisuudessa  
 **darba**
 lyödä  
-**pang**
+**ban**
 leipä  
 **suba yam**
 aamiainen  

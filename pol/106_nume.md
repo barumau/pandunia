@@ -42,7 +42,7 @@ Ilość może być wyrażana liczbami i innymi słowami odnoszącymi się do nie
 – jeden duży stół  
 **du dai kursi**
 – dwa duże krzesła  
-**tri bon kursi**
+**tri hau kursi**
 – trzy dobre krzesła
 
 Liczbeniki porządkowe pojawiają się po słowach, które opisują.

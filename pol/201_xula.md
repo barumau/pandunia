@@ -65,7 +65,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 **ke** co lub kto.  
 **es** być (jestem, jesteś, jest, itd)
 **ya** tak. **no** nie.  
-**bon** dobry, dobrze. **dosti** przyjaciel. **nam** imię, nazwa.
+**hau** dobry, dobrze. **dosti** przyjaciel. **nam** imię, nazwa.
 **fem** kobieta. **man** mężczyzna.
 **mau** kot. **hewan** zwierzę.
 
@@ -517,9 +517,9 @@ Oczywiście **de sabu** może być też yżywane do wyrażania przyczyny lub pow
 
 ### Wyrażanie czasu
 
-Nie ma odmiany czasowników w Panduni. Wszystkie czasowniki mają tylko jedną formę, niezależną od podmiotu, czasu i aspektu. Na przykłas, **mi yam pang** może znaczyć i "Jem chleb", "Zjadłem chleb", i "Jadłem chleb", ale zazwyczaj jedno znaczenie ma sens w kontekście rozmowy. Na przykład, gdy ludzie rozmawiają o śniadaniu tego dnia, zdanie mówi o czasie przeszłym.
+Nie ma odmiany czasowników w Panduni. Wszystkie czasowniki mają tylko jedną formę, niezależną od podmiotu, czasu i aspektu. Na przykłas, **mi yam ban** może znaczyć i "Jem chleb", "Zjadłem chleb", i "Jadłem chleb", ale zazwyczaj jedno znaczenie ma sens w kontekście rozmowy. Na przykład, gdy ludzie rozmawiają o śniadaniu tego dnia, zdanie mówi o czasie przeszłym.
 
-**mi yam pang na suba yam.**
+**mi yam ban na suba yam.**
 – Zjadłem chleb na poranny posiłek.
 
 Istnieją też konkretne słowa opisujące czas.
@@ -562,7 +562,7 @@ Nie trzeba powtarzać oreśleń czasu cały czas. To byłoby dziwne. Wystarczy o
 
 **mi pas ha un mau.**
 – Miałem jednego kota w przeszłości.  
-**da es bon mau.**
+**da es hau mau.**
 – To był dobry kot.  
 **mi ha un vaf a zai.**
 – Mam teraz jedneg psa.
@@ -577,7 +577,7 @@ Jakiekolwiek określenie czasu jest dobre. Gdy jedno określenie czasu jest obec
 
 ### Lista słów
 
-**pas** przeszły, były. **zai** teraźniejszy, obecny. **xa** przyszły. **darba** uderzyć, bić. **pang** chleb. **suba yam** poranny posiłek, śniadanie. **festa** świętować, bawić się.
+**pas** przeszły, były. **zai** teraźniejszy, obecny. **xa** przyszły. **darba** uderzyć, bić. **ban** chleb. **suba yam** poranny posiłek, śniadanie. **festa** świętować, bawić się.
 
 ### Ćwiczenia
 

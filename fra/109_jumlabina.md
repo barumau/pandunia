@@ -18,13 +18,13 @@ Elles peuvent ne se construire que d'un mot, ce qui attire l'attention de l'audi
 Une phrase est normalement composée d'un sujet et d'un prédicat.
 Dans les phrases les plus simples, le sujet est un nom ou un pronom et le prédicat est un adjectif ou un nom.
 
-**mi bon.**
+**mi hau.**
 – Je vais bien. (= Je suis bon.)  
 **ye nove.**
 – C'est nouveau.  
 **da Sara.**
 – C'est Sarah.  
-**Sara es bon.**
+**Sara es hau.**
 – Sarah va bien.  
 **seku es dai.**
 – La pierre est grosse.  
@@ -33,7 +33,7 @@ Dans les phrases les plus simples, le sujet est un nom ou un pronom et le prédi
 
 The word **no** is added to form the negative.
 
-**mi no bon.** 
+**mi no hau.** 
 – Je ne vais pas bien. (= Je ne suis pas bon.)  
 **da no neu.** 
 – Ce n'est pas nouveau.  
@@ -43,7 +43,7 @@ The word **no** is added to form the negative.
 Il est possible d'ajouter le mot **si** (oui) avant le prédicat dans des phrases affirmatives, selon le style et la praticité.
 Dans ce cas la structure est similaire à celle des phrases négatives.
 
-**Sara es bon.** 
+**Sara es hau.** 
 – Sarah va bien.  
 **la seku es dai.** 
 – La pierre est grosse.  
@@ -70,7 +70,7 @@ La même règle s'applique aussi pour deux adjectifs.
 
 ### Quand le sujet est un verbe
 
-**gani es bon.**
+**gani es hau.**
 – Chanter, c'est bon.
 
 
@@ -100,7 +100,7 @@ En pandunia, la voix passive est marquée par le verbe auxiliaire **be**.
 – Tu es vu.e.  
 **muzika be audi.**
 – De la musique est entendue.  
-**pang be baka.**
+**ban be baka.**
 – Du pain est cuit.  
 **kupa be parce.**
 – La tasse se brise. (La tasse est brisée.)

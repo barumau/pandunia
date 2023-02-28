@@ -52,24 +52,22 @@ hace adjectivos de sustantivos y verbos.
 **oranje rang di** de color naranja
 
 
-#### ja
+#### -er
 
 Crea sustantivos de agentos.
 Describe una persona que hace o causa la acción.
 
 **yam** comer →
-**yam ja** comensal  
-**shula** aprender →
-**shula ja** aprendiz, estudiante  
-**karate** karate →
-**karate ja** karateka
+**yamer** comensal  
+**xule** aprender →
+**xuler** aprendiz, estudiante
 
-**loga** hablar →
-**loga ja** hablante  
-**filsofi** filosofar →
-**filsofi ja** filósofo  
-**mata** morir →
-**mata ja** asesino
+**loge** hablar →
+**loger** hablante  
+**filsof** filosofar →
+**filsofer** filósofo  
+**mate** morir →
+**mater** asesino
 
 El derivado también se puede asociar más libremente con el raíz.
 

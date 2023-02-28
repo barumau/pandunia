@@ -107,6 +107,7 @@
 **banda** *bando* ← zho:班 (bān), yue:班 (baan1), vie:ban, kor:반 (ban) + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)  
 **bande** ** ← ita:benda, swa:bendeji, hau:bandeji, spa:venda, fra:bande, eng:band, deu:Binde, rus:бинт (bint) hin:बाँधना (bāndhnā)  
 **bandera** ** ← eng:banner, fra:bannière, spa:bandera, por:bandeira, may:bendera, tgl:bandila, swa:bendera  
+**bang** *maça* ← zho:棒 (bàng), yue:棒 (paang5), jpn:棒 (bō), kor:봉 (bong), tha:ตะบอง (ta-bong), khm:ដំបង (dɑmbɑɑng)  
 **banke** ** ← eng:deu:pol:may:bank, tur:banka, rus:банк (bank), fra:banque, spa:por:banco, fas:(bânk), hin:बैंक (baiṅk), urd:(baiṅk), tel:బ్యాంకు (byāṅku), tam:(vaṅki), hau:banki  
 **bano** *painel* ← zho:板 (bǎn), yue:板 (baan2), jpn:板 (ban), kor:판자 (panja), vie:bảng, tha:บาน (baan) + may:papan + swa:bao + eng:spa:panel, fra:panneau, rus:панель, tur:pano  
 **banya** ** ← spa:bañera, por:banheira, ell:μπάνιο (bánio), rus:ванна (vanna), ara:بانيو‎ (banyu)  
@@ -341,7 +342,6 @@
 **estan** *estanho* ← spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin, swa:stani  
 **estibium** *antimónio* ← zho:锑 (tī), swa:stibi  
 **estrontium** *estrôncio* ← eng:strontium, fra:strontium, spa:strontium, por:estrôncio, rus:стронций, zho:锶 (sī), jpn:ストロンチウム, kor:스트논듐, vie:stronti, hin:स्ट्रोन्सियम, ben:স্ট্রনসিয়াম, may:strontium, swa:stronti, ara: سترانشيوم  
-**eu** ** ← eng:fra:spa:por:eu-  
 **Eurasia** ** ← eng:spa:may:Eurasia, por:Eurásia, fra:Eurasie, rus:Евразия (Evraziya), tur:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), ara:يُورَاسِيَا‎ (yūrāsiyā), hin:यूरेशिया (yūreśiyā), ben:ইউরেশিয়া (iureśiẏa), zho:歐亞大陸 (Ōuyà dàlù), jpn:ユーラシア (yūrashiya)  
 **eureka** ** ← ell:ευρίσκω (evrísko), eng:spa:eureka, por:eureca, fra:eurêka, rus:эврика (evrika), tur:efreka, jpn:ユーレカ (yūreka)  
 **Europa** ** ← eng:fra:Europe, spa:por:deu:pol:Europa, ell:Ευρώπη (Evrópi) rus:Европа (Evropa), tur:Avrupa, swa:Uropa, hin:यूरोप (yūrop), may:Eropah, zho:歐洲 (Ōuzhōu), jpn:ヨーロッパ (yōroppa)  
@@ -541,9 +541,9 @@
 **hanu** *mão* ← hau:hannu + eng:hand, deu:Hand + hin:हाथ (hāth), ben:হাত (hat) + spa:mano; manual, por:mão; manual, fra:main; manuel  
 **haos** ** ← eng:fra:chaos, spa:por:caos, rus:хаос (haos), jpn:カオス (kaosu)  
 **hapu** *apropriado (apto)* ← zho:合 (hé), yue:合 (hap6), kor:합 (hap), vie:hợp + eng:apt, fra:apte, spa:por:apto  
-**harabu** ** ← ara:fas:urd:(xarāb), tur:harap, hin:ख़राब (xarāb), ben:খারাপ (kharap), swa:-haribu  
+**harabe** ** ← ara:fas:urd:(xarāb), tur:harap, hin:ख़राब (xarāb), ben:খারাপ (kharap), swa:-haribu  
 **haram** ** ← ara:(ḥarām), hau:may:tur:eng:deu:haram, hin:हराम (harām), kor:하람 (haram), fas:urd:(harām), swa:haramu, zho:哈拉姆 (hālāmǔ), rus:харамный (xaramniy)  
-**harmoni** ** ← eng:harmony, spa:armonía, por:harmonia, fra:harmonie, rus:гармония (garmoniya)  
+**harmonia** ** ← eng:harmony, spa:armonía, por:harmonia, fra:harmonie, rus:гармония (garmoniya)  
 **harnes** ** ← fra:harnais, eng:harness, spa:arnés, por:arnês  
 **has** ** ← ara:(xāṣṣ), fas:urd:(xās), hin:ख़ास (xās), may:khas, swa:hususa  
 **haste** *pressa* ← deu:Hast, eng:haste, fra:hâte + fas:آهسته (âheste), hin:आहिस्ता (āhistā), ben:আস্তে (aste), tur:aheste  
@@ -817,7 +817,7 @@
 **kudi** *cotovelo* ← ara: كُوع‎ m (kūʿ) + fra:coude + hin:कुहनी (kuhnī)  
 **kuke** ** ← eng:cook, deu:Kock, ita:cuoco, may:koki, tha:กุ๊ก (kuk), sango:kuku + rus:кухар (kuhar), pol:kucharz  
 **kuku** *cuco* ← eng:cuckoo, fra:coucou, spa:por:cuco, rus:кукушка (kukushka), fas: کوکو‎ (kuku), jpn:郭公 (kakkō), zho:布谷鸟 (bùgǔniǎo), yue:布谷鳥 (bou3 guk1 niu5), tur:guguk, hau:kukku  
-**kul** ** ← eng:deu:fra:cool, jpn:クール (kūru), zho:酷 (kù)  
+**kule** ** ← tur:köle; kul, hin:क़ुली (qulī), tam:கூலி (kūli), may:kuli, zho:苦力 (kǔlì), yue:咕哩 (gu1 lei1), jpn:苦力 (kūrī), kor:쿨리, vie:cu li, eng:fra:coolie, spa:culi, por:cule, deu:Kuli, rus:кули (kuli)  
 **kulte** *cultivar* ← eng:cultivate, fra:cultiver, spa:por:cultivar, rus:культура (kulʹtúra), fas: کولتور‎ (kultur), tur:kültür, jpn:カルチャー (karuchā), tam:கலாச்சாரம் (kalāccāram)  
 **kume** ** ← eng:cumulate, fra:cumuler, spa:por:cumular + tur:kumul + ara:كَوْمَة‎ (kawma), fas: کومه (kume)  
 **Kung Fuzi** ** ← zho:孔夫子 (Kǒng Fūzǐ)  
@@ -851,7 +851,6 @@
 **late** *lado* ← spa:por:lado, ita:lato, eng:lateral, fra:latéral, rus:латеральный (lateral’nyy)  
 **lau** *idoso* ← zho:老 (lǎo), yue:老 (lau2), wuu:老 (lau3), jpn:老 (rō), vie:lão  
 **laurencium** *lawrêncio* ← eng:lawrencium, fra:lawrencium, spa:laurencio, por:lawrêncio, rus:лоуренсий, zho:铹 (láo), jpn:ローレンシウム, kor:로렌슘, vie:lorenxi, lawrenci, hin:लॉरेंशियम, ben:লরেনসিয়াম, may:lawrensium, swa:lawirensi, ara: لورنسيوم  
-**laxa** *deixar* ← eng:(re)lax, fra:(re)lâcher, spa:(re)lajar, ita:lasciare, deu:lassen  
 **laxe** *deixar* ← eng:(re)lax, fra:(re)lâcher, spa:(re)lajar, ita:lasciare, deu:lassen  
 **lazanya** *lasanha* ← fra:lasagne, eng:lasagna, spa:lasaña, por:lasanha, rus:лазанья (lazanya), ara:(lazanyā), jpn:ラザニア (razania), kor:라자냐 (lajanya), hin:लज़ैन्या (lazenyā)  
 **lazur petra** *lápis-lazúli* ← fas:لاجورد (lājevard), eng:lazuli, spa:lapislázuli, rus:лазурит (lazurit), ara:لازورد (lāzaward), hin:लाजवर्द (lājavarda), jpn:ラピスラズリ (rapisurazuri), may:lazuardi, tur:lazur taşı  
@@ -1044,7 +1043,7 @@
 **nagre** ** ← hin:नगर (nagar), ben:নগর (nôgôr), tel:నగరము (nagaramu), tam:நகரம் (nakaram), khm:អង្គរ (ʾɑngkɔɔ), tha:นคร (na-khon) + may:negara  
 **nahun** ** ← fas:ناخن‎ (nâxon), hin:नाख़ुन m (nāxun), ben:নখ (nôkh), pan:नख (nakh), rus:нога́ (nogá)  
 **najis** *poluição* ← ara:نجس (najis), may:najis, swa:najisi, fas:نجس (najes) + eng:najis, rus:наджаса (nadžasa)  
-**nam loga** ** ← zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino  
+**nam lexe** ** ← zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino  
 **nam** ** ← deu:eng:name, fra:nom, hin:नाम (nām), ben:নাম (nam), may:nama, tha:นาม (naam) + jpn:名前 (namae)  
 **nan** ** ← zho:男 (nán), jpn:男 (nan), kor:남 (nam), vie:nam + fas: نر‎ (nar), hin:नर (nar), ben:নর (nôr), tel:నరుడు (naruḍu) + eng:man, deu:Mann + tam:ஆண் (āṇ)  
 **naraka** ** ← hin:नरक (narak), ben:নরক (nôrôk), pan:ਨਰਕ (nark), mar:नर्क (nark), tel:నరకము (narakamu), tam:நரகம் (narakam), may:neraka, tha:นรก (ná-rók), jpn:奈落 (naraku)  

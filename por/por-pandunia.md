@@ -23,7 +23,7 @@ acordo - sam rai
 actínio - acinium  
 acéfalo - kapa hin  
 adesivo - glu grafi  
-adjetivo - sifa loga  
+adjetivo - sifa loge  
 administrador - politike  
 admirar - amire  
 aeroporto - air porto  
@@ -420,7 +420,7 @@ colchão - matras
 colher - camaca  
 colher de chá - cai camaca  
 colher de sopa - supa camaca  
-colocar (pôr) - loke  
+colocar (pôr) - lokize  
 com (comum) - kon  
 combava - gros limon  
 combinar com - kon hau  
@@ -546,7 +546,6 @@ dedo - angul
 defecar - defeke  
 defunto - defunte  
 deitar - fa kux  
-deixar - laxa  
 deixar - laxe  
 delegar - vakilize  
 delir (deletar) - delete  
@@ -640,7 +639,7 @@ eletricidade - eletre
 eletrólise - eletrolize  
 elfo - elfe  
 elo - ser  
-elogio - eu loga  
+elogio - hauloge  
 em - a  
 embalar - lifafe  
 emitir - exmise  
@@ -685,7 +684,7 @@ escultor - eskulter
 escândio - skandium  
 esfarrapado - cira cira di  
 esgrima - gem suta  
-eslavo - Slave  
+eslavo - slavike  
 esmeralda - ezmurude  
 espada - gem  
 espaço - hali zi  
@@ -728,7 +727,7 @@ etimologia - lexasle
 etnia - zuku  
 eu (me) - mi  
 európio - europium  
-evangelho - euangil  
+evangelho - hau angil  
 evidente - exvidebil  
 exato (preciso) - juste  
 excluir - fa vai klus  
@@ -759,7 +758,7 @@ farol (baliza) - foto minar
 fato (facto) - fate  
 fator (fazedor) - feter  
 fator - caner  
-favela - harabu mahala  
+favela - harabe mahala  
 favoritismo - max fili sim  
 favorito (preferido) - max fili di  
 fazenda (tecido) - tela  
@@ -903,7 +902,7 @@ honesto (sincero) - amen di
 honra - onor  
 honrar - fa onor  
 hora - sah  
-horror - horure  
+horror - horur  
 hortelã-da-água - sui minta  
 hortelã-pimenta - pipre minta  
 hortelã-verde - kane minte  
@@ -1159,6 +1158,7 @@ materialismo - madisme
 maternal - ma di  
 matéria - made  
 Mauritânia - Muritania  
+maça - bang  
 maçã - aple  
 mecanizar - makinize  
 mecânico - makinike  
@@ -1278,7 +1278,7 @@ necrofilia - nekrofilia
 nefrite - nefritis  
 negativo - negative  
 neodímio - neodimium  
-neologismo - neu loga  
+neologismo - neuloge  
 neptúnio - neputunium  
 nervo - neure  
 neta - ben doh  
@@ -1326,7 +1326,7 @@ o (a) - la
 ## O  
 
 o que - ke  
-obituário - nekrologa  
+obituário - nekrologe  
 oblíquo (torto) - terca  
 obrigado - xukre  
 obrigar - debize  
@@ -1380,7 +1380,7 @@ pai - pa
 painel - bano  
 palato (céu da boca) - boka cati  
 palavra (vocábulo) - lexe  
-palavra-passe (senha) - pas loga  
+palavra-passe (senha) - pas lexe  
 palhaço - payace  
 palácio (mansão, palacete) - dai dom  
 paládio - paladium  
@@ -1638,7 +1638,7 @@ receber - recepe
 receita - reseta  
 receptor - receper  
 reciclar - resikle  
-recém-nascido (neonato) - neu nati di  
+recém-nascido (neonato) - neunatike  
 referir - refere  
 refugo (escória) - lasa  
 regime - politi mode  
@@ -1647,6 +1647,7 @@ rei - nan reger
 reincarnação - reinkarnation  
 reino - regia  
 relato - reporte  
+relexificar - rilexife  
 relier (connecter) - fa linke  
 religião - din  
 relógio - sah diker  

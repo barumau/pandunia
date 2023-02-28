@@ -33,7 +33,7 @@ acéphale (sans tête) - kapa hin
 adapter (ajuster) - hape  
 addition (facture) - fatura  
 adhésif (collant) - glu di  
-adjectif - sifa loga  
+adjectif - sifa loge  
 administrateur - politike  
 adresse - adres  
 adulte - ceng jen  
@@ -283,7 +283,7 @@ beurre - bute
 bibace (nèfle du Japon) - pipa frute  
 bibliothèque - kitabekan  
 bicyclette - sikle  
-bidonville - harabu mahala  
+bidonville - harabe mahala  
 bien-être - salta  
 bilingue - dubaxike  
 bilingue - dubaxike  
@@ -764,6 +764,7 @@ envelopper (emballer) - lifafe
 erbium - erbium  
 erroné - galte di  
 escalier (traper) - trepe  
+esclave (serf) - kule  
 escrime - gem suta  
 escroquer - fa truke  
 espace (zone, région) - area  
@@ -991,7 +992,7 @@ holonyme - holonam
 honneur - onor  
 honorer - fa onor  
 horloge - sah diker  
-horreur - horure  
+horreur - horur  
 houblon - humel  
 houe - copu  
 houka (narguilé, chicha) - sui pipe  
@@ -1158,6 +1159,7 @@ Lettonie - Latvia
 lettre - letre  
 leur - damen su  
 lexical - lexal  
+lexicaliser - lexunife  
 lexème - lexeme  
 leçon - xulaje  
 libellule - libele  
@@ -1215,7 +1217,6 @@ luxure - luxure
 lynx - linxe  
 lys - susan  
 là (y) - a vo  
-lâcher (laisser) - laxa  
 lâcher (laisser) - laxe  
 léger - lege veze di  
 légume - vege  
@@ -1263,6 +1264,7 @@ Mars - Maris
 marécage (marais) - poto stan  
 masque - maske  
 masse - masa  
+masse d'armes - bang  
 mat (opaque) - foto mata di  
 match - mece  
 matelas - matras  
@@ -1297,7 +1299,7 @@ message - angil
 message - misaje  
 messager - angiler  
 messie - mesi  
-mettre (placer) - loke  
+mettre (placer) - lokize  
 meule - molite  
 microbe - mikrobie  
 microbiologie - mikrobiologia  
@@ -1337,7 +1339,7 @@ morue de l'Atlantique - atlanti bakalau
 morue du Pacifique - pace bahai bakalau  
 moscovium - moskvium  
 mot - lexe  
-mot de passe - pas loga  
+mot de passe - pas lexe  
 moteur - moter  
 mouche - dom zeze  
 moudre - mole  
@@ -1425,7 +1427,7 @@ note - note xe
 notre - mimen su  
 nous - mimen  
 nouveau - neu di  
-nouveau-né - neu nati di  
+nouveau-né - neunatike  
 nouveauté - neuta  
 nouvelle (récit court) - korte kata  
 noyau atomique - atom kerne  
@@ -1434,12 +1436,12 @@ nuage - megi
 numérique - numerike  
 nylon - nilon  
 nécessaire - yau di  
-nécrologie - nekrologa  
+nécrologie - nekrologe  
 nécrophilie - nekrofilia  
 néflier - muxmula  
 négatif - negative  
 néodyme - neodimium  
-néologisme - neu loga  
+néologisme - neuloge  
 néon - neon  
 néophyte - neu jen  
 néphrite - nefritis  
@@ -1807,6 +1809,7 @@ recevoir - duke
 recevoir - recepe  
 recycler - resikle  
 rein - nefre  
+relexifier - rilexife  
 religion - din  
 remettre - fa retro  
 remplir - fa pul  
@@ -2157,7 +2160,7 @@ télescope (lunette) - teleskope
 télécharger - nete gete  
 téléphone - telefon  
 téléphoner - fa tele fon  
-téléviseur - tele vide gi  
+téléviseur - televidion  
 tête - kapa  
 
 ## U  
@@ -2309,7 +2312,7 @@ zéro - siro
 électrolyse - eletrolize  
 élevage - hevan agri suta  
 élever - sugene  
-éloge - eu loga  
+éloge - hauloge  
 élément chimique - kimeme  
 émeraude - ezmurude  
 émettre - exmise  
@@ -2343,7 +2346,7 @@ zéro - siro
 étymologie - lexasle  
 été - garma mosim  
 évaluer - fa valu  
-évangile - euangil  
+évangile - hau angil  
 éveillé - budike  
 éventail - sanzi  
 évident - exvidebil  

@@ -17,7 +17,7 @@ Pueden consistir en solo una palabra, que llama la atención del oyente.
 Normalmente una oración consiste en una sujeto y un predicado.
 En las oraciones más sencillas, el sujeto es un pronombre y el predicado es un adjetivo o un sustantivo.
 
-**mi bon.**
+**mi hau.**
 – Yo estoy bien.  
 **da neu.**
 – Ello es nuevo.  
@@ -27,7 +27,7 @@ En las oraciones más sencillas, el sujeto es un pronombre y el predicado es un 
 Cuando el sujeto es un sustantivo, el verbo de conexión **es** («ser», «estar») es necesario.
 
 
-**Sara es bon.**
+**Sara es hau.**
 – Sara está bien.  
 **ite es dai.**
 – Rocas son grandes.  
@@ -39,13 +39,13 @@ Entonces el verbo **es** no es necesario.
 
 | Positivo         | Negativo           |
 |------------------|--------------------|
-| **mi bon.**      | **mi no bon.**     |
+| **mi hau.**      | **mi no hau.**     |
 | Yo estoy bien.   | Yo no estoy bien.  |
 | **da neu.**      | **da no neu.**     |
 | Ello es nuevo.   | Ello no es nuevo.  |
 | **da Sara.**     | **da no Sara.**    |
 | Ella es Sara.    | Ella no es Sara.   |
-| **Sara es bon.**  | **Sara no bon.**   |
+| **Sara es hau.**  | **Sara no hau.**   |
 | Sara está bien.  | Sara no está bien. |
 
 
@@ -65,7 +65,7 @@ La misma regla aplica para dos adjetivos, o un verbo y un adjetivo.
 – Joven es lindo.  
 **neu no lau.**
 – Nuevo no es viejo.  
-**gani es bon.**
+**gani es hau.**
 – Cantar es bueno.
 
 

@@ -10,7 +10,7 @@ Un modificateurs est un mot qui ajoute une qualité ou une description à un aut
 – grande(s) table(s)  
 **men _gau_ meza**
 – table(s) haute(s) 
-**un bon jen**
+**un hau jen**
 – bonne(s) chaise(s)
 
 Deux adjectifs ou plus peuvent modifier un même mot.
@@ -37,11 +37,11 @@ Naturellement, il peut y avoir des modificateurs des deux côtés du nom égalem
 
 En pandunia, les adverbes se terminent en **-o** et ils se placent avant le verbe ou à la fin de la phrase.
 
-**mi bon di sona.** 
+**mi hau di sona.** 
 – Je _bien_ dors.  
-**mi sona bon.** 
+**mi sona hau.** 
 – Je dors _bien_.  
-**tu baxa pandunia bon.** 
+**tu baxa pandunia hau.** 
 – Tu parles pandunia _bien_.
 
 
@@ -84,8 +84,8 @@ Les modificateurs peuvent être comparés.
 
 La particule **ko** met en relation les adverbes de comparaison à l'élément comparé.
 
-**mi es max bon ka tu.**
+**mi es max hau ka tu.**
 = Je suis meilleur que toi.  
-**tu loga par bon ka mi.**
+**tu loge par hau ka mi.**
 = Tu parles aussi bien que moi.
 

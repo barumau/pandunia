@@ -69,7 +69,7 @@ Määrää ilmoittava lukusana tulee ennen laatusanaa ja asiansanaa.
 = yksi iso tuoli  
 **du dai kursi**
 = kaksi isoa tuolia  
-**tri bon kursi**
+**tri hau kursi**
 = kolme hyvää tuolia
 
 Järjestysluvut ovat tavallisia lukusanoja, jotka vain asetetaan substantiivin perään.

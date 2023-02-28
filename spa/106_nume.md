@@ -72,7 +72,7 @@ Ellas preceden la palabra o frase que califican.
 – una gran silla  
 **du dai kursi**
 – dos gran sillas  
-**tri bon kursi**
+**tri hau kursi**
 – tres buen sillas
 
 

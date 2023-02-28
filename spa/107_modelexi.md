@@ -14,7 +14,7 @@ y un verbo en la oración B.
 
 A. **vo es un _suga_ car.**
 – Eso es un carro _rápido_.  
-B. **tu _suga_ di loga.**
+B. **tu _suga_ di loge.**
 – Usted habla _rápido_.
 
 
@@ -30,19 +30,19 @@ En Pandunia, _adjetivos_ son modificadores que preceden el sustantivo que modifi
 – mesas _grandes_  
 **men _gau_ meza**
 – mesas _altas_  
-**un bon jen**
+**un hau jen**
 – una persona _buena_
 
 Adjetivos en Pandunia siempre tienen la misma forma,
 a diferencia de español, en que adjetivos cambian para acordar con el sustantivo que modifican.
 
-**un bon man**
+**un hau man**
 – un hombre bueno  
-**un bon fem**
+**un hau fem**
 – una mujer buena  
-**men bon man**
+**men hau man**
 – hombres buenos  
-**men bon fem**
+**men hau fem**
 – mujeres buenas
 
 Dos o más modificadores pueden modifican el mismo sustantivo.
@@ -55,9 +55,9 @@ Dos o más modificadores pueden modifican el mismo sustantivo.
 
 En Pandunia, _adverbos_ son modificadores que preceden el verbo que modifican.
 
-**tu _suga_ loga.**
+**tu _suga_ loge.**
 – Usted hablas _rápido_.  
-**damen _bon_ kitaba.**
+**damen _hau_ kitabe.**
 – Ellas escriben _bien_.
 
 Es común poner la partícula de modificación
@@ -65,7 +65,7 @@ Es común poner la partícula de modificación
 entre el modificador y el verbo.
 Hace la estructura del frase verbal más claro.
 
-**tu _mei di_ kitaba.**
+**tu _mei di_ kitabe.**
 – Tú escribes _hermoso_.  
 **damen _suga di_ marce.**
 – Ellos caminan _rápido_.
@@ -77,7 +77,7 @@ La partícula
 **di**
 también se usa cuando un modificador modifica un otro.
 
-**un _surpris di_ bon buku**
+**un _surpris di_ hau buku**
 – un _sorprendentemente_ buen libro  
 **poli _bala di_ ame ja jen**
 – personas _firmemente_ amorosas
@@ -115,18 +115,18 @@ El adverbo compuesto se pone inmediatamente antes del verbo que modifica.
 
 **tre poli**
 – muchísimo
-**mi _tre poli_ vol loga.**
+**mi _tre poli_ vol loge.**
 – Tengo muchas ganas de hablar.  
-**mi vol _tre poli_ loga.**
+**mi vol _tre poli_ loge.**
 – Quiero hablar muchísimo.
 
 En adición es posible poner el adverbo compuesto en el fin de la oración,
 y entonces modifica la oración en conjunto.
 El significado es la misma como cuando el adverbo compuesto modifica el verbo principal.
 
-**mi vol loga _tre poli_.**
+**mi vol loge _tre poli_.**
 – Muchísimo quiero hablar.  
-**sual tu sona _bas bon_?**
+**sual tu sona _bas hau_?**
 – ¿Sonaste bastante bien?
 
 
@@ -149,10 +149,10 @@ La partícula
 **ka** (_que_)
 relaciona los adverbos de comparación al objeto de comparación.
 
-**aple es max bon ka oranje.**
+**aple es max hau ka oranje.**
 = Las manzanas son mejores (más buenas) que las naranjas.  
-**oranje es min bon ka aple.**
+**oranje es min hau ka aple.**
 = Las naranjas son peores (menos buenas) que las manzanas.  
-**tu loga par bon ka mi.**
+**tu loge par hau ka mi.**
 = Hablas tan bien como yo.
 

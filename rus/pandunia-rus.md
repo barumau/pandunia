@@ -176,6 +176,7 @@ ban - хлеб
 banana - банан  
 banda - банда  
 bandera - флаг  
+bang - булава (палица)  
 bankekan - банк  
 bankrute - банкрот  
 bano - доска (панель)  
@@ -495,8 +496,6 @@ estrontium - стронций
 etan - этан  
 etanol - этанол  
 etil - этил  
-euangil - евангелие  
-eu loga - панегирик  
 europium - европий  
 europa baluta - дуб черешчатый  
 ezmurude - изумруд  
@@ -748,13 +747,15 @@ han guaner - мандарин
 hanu - рука  
 hanu xaka - рукав  
 hapu - подходящий (годный)  
-harabu mahala - трущоба  
+harabe mahala - трущоба  
 Hartum - Хартум  
 has nam - идентификатор  
 haste - спешка  
 hata - до  
 hatar - опасность  
 hau - хороший  
+hau angil - евангелие  
+hauloge - панегирик  
 hau sin di - благоприятный  
 hei - эй  
 helium - гелий  
@@ -1032,7 +1033,6 @@ kon forma - применяться (согласоваться)
 kon hau - соответствовать (сочетаться)  
 kon helen baxa - койне  
 kon kar - сотрудничать (кооперировать)  
-kon pasi - жалость (сердобольность)  
 kon trati - контракт  
 kone - конус  
 konserte - концерт  
@@ -1080,6 +1080,7 @@ kube - куб
 kudi - локоть  
 kuke kamar - кухня  
 kuku - кукушка  
+kule - раб  
 kulte - выращивать (культивировать)  
 kulture - культура  
 kupa - чаша (чашка, стакан)  
@@ -1126,6 +1127,7 @@ lexeme - лексема
 lexe fen - слог  
 lexe gense - род в грамматике  
 lexe jama - словарь  
+lexunife - лексикализовать  
 liama - лама  
 libele - стрекоза  
 lider - руководитель (лидер)  
@@ -1152,8 +1154,8 @@ lixu - белка
 loge - сказать  
 loga - запись  
 loga buku - судовой журнал  
-loke - ставить  
 loke - место  
+lokize - ставить  
 loke kode - координаты  
 long dure - долго  
 long durike - долгий (длительный)  
@@ -1373,7 +1375,7 @@ nefritis - нефрит
 negative - негативный  
 nekre - труп (мёртвое тело)  
 nekrofilia - некрофилия  
-nekrologa - некролог  
+nekrologe - некролог  
 nekrotomia - вскрытие (аутопсия)  
 nelu - четыре (4)  
 neodimium - неодим  
@@ -1385,8 +1387,8 @@ nese - остров
 neu - новинка (новь)  
 neu di - новый  
 neu jen - новичок  
-neu loga - неологизм  
-neu nati di - новорождённый  
+neuloge - неологизм  
+neunatike - новорождённый  
 neuta - новизна  
 neure - нерв  
 neuralgia - невралгия  
@@ -1495,8 +1497,9 @@ parte - кусок
 partaner - партнёр  
 partaneria - партнёрство  
 partia - партия  
-pas loga - пароль  
+pas lexe - пароль  
 pasporte - паспорт  
+• konpatia - жалость (сердобольность)  
 patogener - патоген  
 patike - пациент (больной)  
 patekan - больница (госпиталь)  
@@ -1757,7 +1760,7 @@ sexulogia - сексология
 si - если  
 siborgium - сиборгий  
 side loka - сиденье (седло)  
-sifa loga - прилагательное  
+sifa loge - прилагательное  
 sigar - сигарета (папироса, сигарка)  
 resikle - рециркулировать  
 sikliste - велосипедист  
@@ -1771,7 +1774,7 @@ siro - нуль (зеро)
 sis - сестра (sestra)  
 skale - подниматься  
 skandium - скандий  
-Slave - славянский  
+slavike - славянский  
 sofia - мудрость  
 sofa - софа (диван, канапе)  
 soi - соя  
@@ -1858,7 +1861,7 @@ telefon - телефон
 telefon bute - телефонная будка  
 telefon lin - телефонная линия  
 teleskope - телескоп  
-tele vide gi - телевизор  
+televidion - телевизор  
 telurium - теллур  
 tema - тема  
 tema nam - название (пьесы, заголовок)  
@@ -1936,7 +1939,7 @@ tuzi - кролик (заяц)
 uma bici - хлыст  
 umur - возраст  
 un - один (1)  
-unia - союз  
+unia - союз (уния)  
 unike - только (единственно, единственный, уникальный)  
 un mar - один раз  
 un sata - тотчас  

@@ -156,13 +156,13 @@ To modify a noun, put adjectives before it.
 
 **un neu ame**
 – a new love  
-**la bon pai**
+**la hau pai**
 – the good pie
 
 To modify a verb, put adverbs before it.
 The adverb can be tagged with **di**.
 
-**mi bon (di) vide tu.**
+**mi hau (di) vide tu.**
 – I see you well.  
 **tu vide di ame da.**
 – You seemingly love him/her.

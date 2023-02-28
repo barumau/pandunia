@@ -310,6 +310,7 @@ bande - atar (amarrar)
 bandaje - banda (cinta)  
 banda - banda  
 bandera - bandera  
+bang - maza  
 bangla baxa - idioma bengalí  
 Bangla gogia - Bangladés  
 banke - ahorrar (reservar, depositar)  
@@ -408,7 +409,6 @@ be mal - ser de
 be mata - morirse  
 be migra - migrarse (mudarse, trasladarse)  
 be nam - llamarse  
-be pasi - sufrir  
 be pute - pudrirse (cariarse, descomponerse)  
 be raste - crecer  
 be reste - quedarse  
@@ -926,9 +926,6 @@ etan - etano
 etanol - etanol  
 etil - etilo  
 Etiopia - Etiopía  
-eu - beneficioso (bueno)  
-euangil - evangelio  
-eu loga - elogio  
 Eurasia - Eurasia  
 eureka - econtrar (hallar)  
 euro - euro  
@@ -936,7 +933,7 @@ europium - europio
 Europa - Europa  
 europa baluta - roble común  
 europa di - europeo  
-Europa Unta - Unión Europea  
+Europa Unia - Unión Europea  
 exgogia - país extranjero  
 exgogike - extranjero  
 ezmurude - esmeralda  
@@ -969,7 +966,6 @@ fa fei - volar
 fa fokus - concentración  
 fa gola - rodear (cirundar)  
 fa halal - permitir (dejar)  
-fa haram - prohibir  
 fa has - diferenciar (distinguir)  
 fa hava - soplar (echar)  
 fa hen - odiar  
@@ -1060,7 +1056,6 @@ fa tese - argumentar (alegar)
 fa transe - transitar (atravesar)  
 fa truke - engañar  
 fa ulul - aullar  
-fa un xe - unir  
 fa vai klus - excluir  
 fa valu - valorar  
 fa vanu - divertir (entretener)  
@@ -1507,12 +1502,11 @@ hanu xaka - brazo
 haos - caos (desorden)  
 hapu - apropriado (apto, oportuno)  
 harabe - arruinar (destruir, devastar, asolar)  
-harabu - arruinado (devastado, asolado)  
-harabu mahala - barrio pobre  
-haram - prohibido (tabú)  
-haram liste - lista negra  
-harmoni - armonía  
-harmoni di - armonioso  
+harabe - arruinado (devastado, asolado)  
+harabe mahala - barrio pobre  
+haram - tabú  
+harmonia - armonía  
+harmonike - armonioso  
 harnes - arnés (arreos, jaeces)  
 Hartum - Jartum  
 has - especial (diferenciado, distinto)  
@@ -1525,8 +1519,10 @@ hata di - hasta (también)
 hatar - peligro  
 hatar di - peligroso  
 hau - bueno  
+hau angil - evangelio  
 hau gradu - mejorar  
 hau guste di - delicioso  
+hauloge - elogio  
 hau moral - virtud (moralidad)  
 hau moral di - virtuoso (moral)  
 hau sifa di - excelente  
@@ -1618,7 +1614,7 @@ holonume - número entero
 holera - cólera  
 holmium - holmio  
 Hong Gong - Hong Kong  
-horure - horror  
+horur - horror  
 hormon - hormona  
 Horvatia - Croacia  
 hotel - hotel (albergue)  
@@ -1880,7 +1876,7 @@ kandi - caramelo
 kane - barra (vara, palo)  
 kane kasa - jaula (caja)  
 kane minte - hierbabuena  
-kane pang - baguette  
+kane ban - baguette  
 kane sor - cerrojo (pestillo)  
 kanga - peine  
 kangaru - canguro  
@@ -2072,7 +2068,6 @@ kon hau - emparejar (quedar)
 kon helen baxa - koiné  
 konife - compartir (tener en común)  
 kon kar - colaborar  
-kon pasi - compasión  
 kon sabi - información  
 kontra - estar en contra  
 kon trati - convenion (pacto)  
@@ -2156,7 +2151,6 @@ kuker - cocinero
 kuke kamar - cocina  
 Kuke nesia - Islas Cook  
 kuku - cuco  
-kul - genial  
 kulombe - culombio  
 kulte - cultivar  
 kulture - cultura  
@@ -2219,7 +2213,6 @@ lau di - laosiano
 lau jen - viejo (anciano)  
 laurencium - laurencio  
 laxe - dejar  
-laxa - dejar  
 lazanya - lasaña  
 lazur - azur (blao)  
 lazur petra - lapislázuli  
@@ -2301,9 +2294,9 @@ loga - registro (archivo, anotación)
 • exloga - cerrar sesión  
 • inloga - iniciar sesión  
 loga buku - libro de registro  
-loke - colocar (poner, ubicar)  
 loke - lugar  
 lokal - local  
+lokize - colocar (poner, ubicar)  
 loke kode - coordenadas  
 lona - discusión (debate, discurso)  
 long - largo  
@@ -2692,7 +2685,7 @@ nam dokumen - identificación (ID)
 nam hin - innominado  
 namize - llamar (poner)  
 nam kitabe - firmar  
-nam loga - sustantivo  
+nam lexe - sustantivo  
 nam tikete - gafete (etiqueta de identificación)  
 Namibia - Namibia  
 nan - masculino (macho)  
@@ -2747,7 +2740,7 @@ nege - rechazar (negar)
 negative - negativo  
 nekre - cadáver  
 nekrofilia - necrofilia  
-nekrologa - necrología (obituario)  
+nekrologe - necrología (obituario)  
 nekrotomia - autopsia  
 nelu - cuatro (4)  
 nelu gona - cuadro  
@@ -2774,8 +2767,8 @@ neu di - nuevo
 neu fito - planta neófita  
 neu jen - novato  
 neu Kaledonia - Nueva Caledonia  
-neu loga - neologismo  
-neu nati di - neonato (recién nacido)  
+neuloge - neologismo  
+neunatike - neonato (recién nacido)  
 neuta - novedad  
 neu tipe di - moderno  
 neu Zelande - Nueva Zelanda  
@@ -2987,13 +2980,14 @@ partia - partido
 pas - pasar  
 pas dau - paso (pasaje)  
 pas di - anterior (remoto)  
-pas loga - contraseña  
+pas lexe - contraseña  
 paska - Pascua  
 paskal - pascal (Pa)  
 pasporte - pasaporte  
 pasta - pasta  
 pasta petra - magma  
-pate - enfermedad  
+pate - sufrir (enfermedad)  
+• konpatia - compasión  
 patogener - patógeno  
 patike - paciente  
 patike - enfermo  
@@ -3108,7 +3102,7 @@ plutonium - plutonio
 poke - póquer  
 poli - mucho (muchos)  
 poli baxa di - multilingüe (plurilingüe)  
-poli deu sim - politeísmo  
+polideisme - politeísmo  
 poli fase - poliedro  
 poli gona - polígono  
 poli kultur di - multicultural  
@@ -3513,7 +3507,7 @@ side - sentarse
 side loka - silla (montura)  
 sifa - cualidad (atributo, descripción)  
 sifa di - descriptivo  
-sifa loga - adjetivo  
+sifa loge - adjetivo  
 sigar - cigarro (cigarillo)  
 sikisme - sijismo  
 sikiste - sij  
@@ -3554,7 +3548,7 @@ skandium - escandio
 Skotia - Escocia  
 skulte - esculpir  
 skuter - patinete  
-Slave - eslavo  
+slavike - eslavo  
 Slovakia - Eslovaquia  
 Slovenia - Eslovenia  
 sofe - sabio  
@@ -3726,13 +3720,12 @@ tehnokratia - tecnocracia
 tehnologia - tecnología  
 tela - tela (paño, tejido)  
 tela gi - telar  
-tele - lo lejos  
-tele di - lejano (lejos)  
+tele - lejano (lejos)  
 telefon - telefono  
 telefon bute - cabina telefónica  
 teleskope - telescopio  
 teleta - distancia  
-tele vide gi - televisión  
+televidion - televisión  
 telurium - telurio  
 Telugu - télugu  
 tema - tema (tratar de)  
@@ -3751,7 +3744,7 @@ teori - teoría
 tepe - cinta adhesiva  
 tere - terror  
 terife - aterrar  
-terure - terror  
+terur - terror  
 terurisme - terrorismo  
 teruriste - terrorista  
 tera - tera-  
@@ -3882,9 +3875,10 @@ uma bici - fusta
 umami - sabroso (umami)  
 umur - edad  
 un - uno (1)  
-undeuisme - monoteismo  
+undeisme - monoteismo  
 undurike - continuo (analógico)  
 unia - unión  
+unife - unir  
 unifike - unido  
 Unifike Arabe Amiria (UAA) - Emiratos Árabes Unidos  
 Unifike Statia de Amerika (USA) - Estados Unidos de América  
@@ -4082,7 +4076,7 @@ xatanike - satánico
 xatanisme - satanismo  
 xataniste - satanista  
 xava - asar (tostar, rostir)  
-xava pang - pan tostado  
+xava ban - pan tostado  
 xaxa - susurrar (curjir)  
 xayu - tiburón  
 xe - cosa  

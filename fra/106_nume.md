@@ -60,8 +60,8 @@ On les place avant le mot ou le groupe de mots qu'ils qualifient.
 – une grande chaise
 **du dai kursi**
 – deux grandes chaises
-**tri bon kursi**
-– trois grandes chaises
+**tri hau kursi**
+– trois bonnes chaises
 
 Les nombres ordinaux se placent après le mot qu'ils modifient.
 

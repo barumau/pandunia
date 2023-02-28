@@ -36,9 +36,9 @@
    Adjektiivit ja adverbit ovat muodoltaan samanlaisia.
    Yhdessä niitä kutsutaan määritteiksi.
    Ajektiivimääritteen paikka on ennen substantiivia ja adverbimääritteen ennen verbiä.
-    - **un suga loga**
+    - **un suga loge**
       – Nopea puhe.
-    - **tu suga loga.**
+    - **tu suga loge.**
       – Sinä nopeasti puhut.
 8. **Verbit:**
    Verbit ovat taipumattomia.
@@ -58,17 +58,17 @@
       Samaa sanajärjestystä käytetään sekä väittämissä että kysymyksissä.
     - Passiivi muodostetaan apuverbillä **be**.
       Saman vaikutelman voi luoda myös persoonattomalla pronominilla **mon**.
-        - **pandunia be loga.**
+        - **pandunia be loge.**
           – Panduniaa puhutaan.
-        - **se loga pandunia.**
+        - **se loge pandunia.**
           – Ihmiset puhuvat panduniaa.
     - Aktiivisen verbin objekti voi toimia seuraavan verbin subjektina.
       Tämä on ns. _saranarakenne_.
-        - **mi cing tu loga pandunia.**
+        - **mi cing tu loge pandunia.**
           – Minä pyydän sinua puhumaan panduniaa.
     - Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
-        - **_mi_ cing _tu_ loga pandunia.**
-          → **cing loga pandunia.**
+        - **_mi_ cing _tu_ loge pandunia.**
+          → **cing loge pandunia.**
           – Pyydän, puhu panduniaa.
 10. **Sanojen johtaminen:**
     Yhdyssanat muodostetaan asettamalla kaksi tai useampia perussanoja peräkkäin

@@ -165,6 +165,7 @@ ban - 包
 banana - 香蕉  
 banda - 班  (一帮)  
 bandera - 旗  
+bang - 棍棒  
 bankekan - 银行  
 bano - 板子  
 bano geme - 版图游戏  
@@ -446,7 +447,6 @@ estrontium - 锶
 etan - 乙烷  
 etanol - 乙醇  
 etil - 乙基  
-euangil - 福音  
 europium - 铕  
 europa baluta - 夏櫟  
 ezmurude - 绿宝石 (祖母绿)  
@@ -679,6 +679,7 @@ hata - 直到
 hata di - 连  
 hatar - 危险  
 hau - 好  
+hau angil - 福音  
 hau moral - 道德  
 hau sin di - 吉利的  
 hau vide di - 好看  
@@ -722,7 +723,7 @@ hoki - 曲棍球
 holiste - 全面的 (全方位的)  
 holonam - 整体词  
 holmium - 钬  
-horure - 恐怖  
+horur - 恐怖  
 hotel - 旅馆  
 hua - 花  
 hua jara - 花瓶  
@@ -971,6 +972,7 @@ kuarze - 石英
 kube - 立方体  
 kudi - 肘  
 kuku - 布谷鸟 (杜鹃)  
+kule - 奴隶  
 kulture - 文化  
 kupa - 杯子  
 kupre - 铜  
@@ -1036,8 +1038,8 @@ litre - 升
 lixu - 松鼠 (栗鼠)  
 loga - 纪录  
 loga buku - 航海日志  
-loke - 放置  
 loke - 地方  
+lokize - 放置  
 loke kode - 坐标  
 lona - 论  
 long - 长  
@@ -1249,8 +1251,8 @@ nese - 岛
 • konneter - 连接器  
 neu di - 新  
 neu jen - 新手  
-neu loga - 新词  
-neu nati di - 新生  
+neuloge - 新词  
+neunatike - 新生  
 neure - 神经  
 neuralgia - 神经痛  
 neuron - 神经细胞  
@@ -1347,7 +1349,7 @@ parke - 园
 parne - 蕨  
 partaner - 伙伴  
 pas - 過  
-pas loga - 密码  
+pas lexe - 密码  
 pasporte - 护照  
 pasta petra - 岩漿  
 patogener - 病原体  
@@ -1560,7 +1562,7 @@ sexu - 性别
 sexulogia - 性学  
 si - 如果 (要是)  
 side loka - 座部 (马鞍)  
-sifa loga - 形容词  
+sifa loge - 形容词  
 sigar - 香烟  
 resikle - 循环再造  
 sikliste - 骑自行车的人  
@@ -1650,7 +1652,7 @@ telefon - 电话机
 telefon bute - 电话亭  
 telefon lin - 电话线  
 teleskope - 望远镜  
-tele vide gi - 电视机  
+televidion - 电视机  
 telurium - 碲  
 tema - 主题目  
 tema nam - 标题  

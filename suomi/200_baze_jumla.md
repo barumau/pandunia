@@ -222,13 +222,13 @@ Itse asiassa äskeinen kysymys on lyhennetty lauseesta
 **mi sual tu es davar**
 (Minä kysyn: sinä olet lääkäri?), joka on lyhennetty jättämällä ensimmäinen sana pois.
 
-**sual tu bon?**
+**sual tu hau?**
 Miten voit? (Sananmukaisesti: _Voitko hyvin?_)  
-**mi bon.**
+**mi hau.**
 Minä voin hyvin.  
 **sual tu?**
 Entä sinä?  
-**mi no bon.**
+**mi no hau.**
 Minä en voi hyvin.
 
 <small>Sanan **sual** lähteitä ovat
@@ -261,14 +261,14 @@ Minä en ole Sara.
 **mi no es davar.**
 Minä en ole lääkäri.
 
-**sual tu bon?**
+**sual tu hau?**
 Voitko hyvin?  
-**ya. mi bon.**
+**ya. mi hau.**
 Kyllä, minä voin hyvin.
 
-**sual tu bon?**
+**sual tu hau?**
 Voitko hyvin?  
-**no, mi no bon.**
+**no, mi no hau.**
 Ei, minä en voi hyvin.
 
 Sanalla
@@ -439,7 +439,7 @@ saksa: Name, englanti: name.</small>
 
 ### ha <small>olla, omistaa</small>
 
-**mi ha un bon dom.**
+**mi ha un hau dom.**
 Minulla on hyvä talo.
 
 **da no ha pesa.**
@@ -517,7 +517,7 @@ sisältää sekä syömisen että juomisen.
 Aluksi se saattaa tuntua oudolta, mutta oikeastaan se on kätevää,
 koska yleensä tekemisen kohde tarkentaa, onko kyse syömisestä, juomisesta vai molemmista.
 
-**mi yam kafe e pang.**
+**mi yam kafe e ban.**
 Minä nautin kahvia ja leipää.
 
 
@@ -666,24 +666,24 @@ Anteeksi, en osaa sinun kieltäsi.
 
 
 
-### loga <small>sanoa, puhua</small>
+### loge <small>sanoa, puhua</small>
 
-**tu loga ke?**
+**tu loge ke?**
 Mitä sinä sanoit?
 
-**mi loga to tu.**
+**mi loge to tu.**
 Minä puhun sinulle.
 
-**mimen loga to semen.**
+**mimen loge to semen.**
 Me puhumme toisillemme.
 
-**se loga "kissa" a ke yang a pandunia?**
+**se loge "kissa" a ke yang a pandunia?**
 Miten sanotaan "kissa" panduniaksi?
 
 **"kissa" es ke a pandunia?**
 Mikä "kissa" on panduniaksi?
 
-**mau loga "miau".**
+**mau loge "miau".**
 Kissa sanoo miau.
 
 
@@ -695,7 +695,7 @@ Kuuntele minua!
 **mi no bil audi tu.**
 En voi kuulla sinua.
 
-**cing loga max bala.**
+**cing loge max bala.**
 Puhuisitko kovempaa.
 
 **mi audi muzika.**

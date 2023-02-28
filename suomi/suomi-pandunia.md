@@ -20,7 +20,7 @@ Abhaasia - Abazia
 aboriginaali (Australian alkuperäisasukas) - aslaustralian  
 abyssinia - Habaxa  
 abyssinialainen - habaxa  
-adjektiivi (laatusana) - sifa loga  
+adjektiivi (laatusana) - sifa loge  
 adverbi - mode lexe  
 aerobinen - airobiike  
 Afganistan - Afganestan  
@@ -488,7 +488,7 @@ erimielisyys - anrai
 Eris (kääpiöplaneetta) - Eris  
 Eritrea - Eritra  
 erottaa (nähdä ero) - fa has  
-erottaa (pitää erilaisena) - disfere  
+erottaa (viitata erilleen) - disfere  
 erä (satsi) - lote  
 esihistoria - prehistoria  
 esimerkiksi - to misal  
@@ -519,18 +519,17 @@ että - ki
 etuliite (prefiksi) - prefixe  
 etymologia - lexasle  
 etyyli - etil  
-etäisyys (kaukaisuus) - tele  
-etäisyys - teleta  
-eugeniikka - eugenisme  
+etäisyys (kaukaisuus) - teleta  
+eugeniikka - haugenisme  
 Euraasia - Eurasia  
 euro (€) - euro  
-Euroopan unioni - Europa Unta  
+Euroopan unioni - Europa Unia  
 Eurooppa - Europa  
 eurooppalainen - europa di  
 Europa-kuu - Europa luna  
 europium - europium  
-euteismi (usko jumalan hyvyyteen) - eudeisme  
-evankeliumi(hyvä sana) - euangil  
+euteismi (usko jumalan hyvyyteen) - haudeisme  
+evankeliumi(hyvä sana) - hau angil  
 eväsretki (piknik) - vai yam  
 
 ## F  
@@ -678,8 +677,8 @@ harja - brox
 harjoitella (treenata) - fa lenxi  
 harjoitus - lenxi  
 harmaa - hui rang  
-harmonia - harmoni  
-harmoninen - harmoni di  
+harmonia - harmonia  
+harmoninen - harmonike  
 harpata (harppoa, käydä) - grese  
 harrastaja (amatööri) - hobiiste  
 harrastus - hobi  
@@ -848,7 +847,6 @@ hyve - hau moral
 hyveellinen (hyvä) - hau moral di  
 hyvin (sangen) - tre  
 hyvinvointi - salta  
-hyvä (eettisesti hyvä) - eu  
 hyvä - hau  
 hyvä onni (tuuri, säkä, lykky) - hau zar  
 hyväksyä (hyväksyntä, OK) - oke  
@@ -1205,6 +1203,7 @@ kansanryhmien välinen - zuku medi di
 kansanryhmä (etninen ryhmä) - zuku  
 kansio (hakemisto) - dokumen sanduku  
 kanssa (yhdessä; yhteinen) - kon  
+kanssakärsimys (myötätunto) - konpatia  
 kantaa - porte  
 kapina - rebel  
 kapteeni - nave xefe  
@@ -1264,8 +1263,9 @@ katto (katos) - cati
 katu - gali  
 kauan (pitkän aikaa) - long dure  
 kauha - pote camaca  
-kauhu (terrori) - terure  
-kaukainen - tele di  
+kauhea (kauhistuttava) - horifike  
+kauhu (terrori) - terur  
+kaukainen - tele  
 Kaukasia - Kaukasia  
 kaukoputki (teleskooppi) - teleskope  
 kauneus - meita  
@@ -1380,12 +1380,10 @@ kieliopillinen - baxe kanun di
 kieliopillinen suku - lexe gense  
 kielioppi - baxe kanun  
 kielitiede (lingvistiikka) - baxe logia  
-kielletty - haram  
 kielo - vali susan  
 kielteinen (negatiivinen) - negative  
 kieltää (evätä) - denege  
 kieltää (kiistää) - nege  
-kieltää - fa haram  
 kieppua (sekoittaa; häiritä) - turbe  
 kiero (perverssi) - perverse  
 kierre (spiraali) - helix  
@@ -1704,6 +1702,8 @@ kärki (pää) - pike
 kärppä (fretti) - furete  
 kärpänen - dom zeze  
 kärry (vaunu, auto, jne) - car  
+kärsiä (potea; kärsimys, sairaus) - pate  
+kärsiä yhdessä - konpate  
 käsi - hanu  
 käsi- - hanu li  
 käsite (idea) - idee  
@@ -1829,6 +1829,7 @@ leipä - ban
 leiri - kampe  
 leirintäalue - kampe bagi  
 lekseemi - lexeme  
+leksikalisoitua - lexunife  
 lempi (romanssi, rakkaus) - romanse  
 lento - fei  
 lentoasema (lentokenttä) - air porto  
@@ -2015,7 +2016,6 @@ lääke - dava xe
 lääkejuoma - dava sui  
 lääketiede - dava logia  
 lääkäri (tohtori) - davaer  
-löysä (löysätä, päästää menemään) - laxa  
 löysä (löysätä, päästää menemään) - laxe  
 löytää (keksiä) - eureka  
 
@@ -2271,7 +2271,7 @@ monismi - un xe sim
 monitahoinen (monipuolinen) - disverse  
 monitahokas - poli fase  
 monokkeli - un yen di lense  
-monoteismi (yksijumalisuus) - undeuisme  
+monoteismi (yksijumalisuus) - undeisme  
 montako? (paljonko?) - ke poli di  
 Montenegro - cernagora  
 moottori - moter  
@@ -2289,7 +2289,7 @@ muisti - memo
 muistikirja - note buku  
 muistio (muistiinmerkintä) - memo note  
 muistitekniikka - memo tehni  
-muistosanat (muistopuhe, muistokirjoitus) - nekrologa  
+muistosanat (muistopuhe, muistokirjoitus) - nekrologe  
 muistuttaa (vaikuttaa samalta) - be sam rupa  
 mukaan lukien - in klus  
 mukava (kiva, miellyttävä) - huxi  
@@ -2317,7 +2317,6 @@ musketti - muskete
 musketööri - musketer  
 muslimi (islaminuskoinen) - islamiste  
 musta - kala  
-musta lista - haram liste  
 mustasukkainen - garde zelo  
 muste - kalam sui  
 mustekala - ohtopus  
@@ -2472,6 +2471,7 @@ noviisi (uusikko, vasta-alkaja) - neu jen
 nudismi - nudisme  
 nudisti - nudiste  
 nuhakuume (vilustuminen, flunssa) - zukam  
+nuija (maila, pamppu) - bang  
 nukke - pupe  
 nukkua - be sona  
 nukkuminen (uni) - sona  
@@ -2509,6 +2509,7 @@ odottaa - dele to
 oganesson - oganeson  
 ohdake (takiainen) - kardon  
 ohitettu (mennyt) - pas di  
+ohittaa (viitata pois) - defere  
 ohjaaja (pilotti, luotsi) - pilote  
 ohjelma - programe  
 ohjelmoija - programer  
@@ -2585,6 +2586,7 @@ orava - lixu
 orgaaninen elämä - bier  
 orgasmi - orgazme  
 orija (eräs intialainen kieli) - Odisa  
+orja (kuli) - kule  
 Oromia - Oromo Dexa  
 oromo (etiopialainen kansa) - oromo  
 orpo - yatim  
@@ -2627,7 +2629,7 @@ ovi (portti, veräjä) - mun
 ## P  
 
 paahtaa (grillata, gratinoida, paistaa) - xava  
-paahtoleipä - xava pang  
+paahtoleipä - xava ban  
 paapuuri - nave leu  
 paeta (karata) - bega  
 pah (pyh) - bah  
@@ -2700,7 +2702,7 @@ pankinjohtaja - bankexefe
 pankki - bankekan  
 pankkiiri - banker  
 panna (asettaa) - fa poze  
-panna (asettaa, sijoittaa) - loke  
+panna (asettaa, sijoittaa) - lokize  
 panna (asettaa; asetelma) - poze  
 panna jkn maate - fa kux  
 panna kokoon - konbine  
@@ -2743,7 +2745,7 @@ pata - pote
 patja - matras  
 patogeeni - patogener  
 patologia (tautioppi) - patologia  
-patonki (ranskanleipä) - kane pang  
+patonki (ranskanleipä) - kane ban  
 pedofilia - pedofilia  
 pedofobia (lastenpelko) - pedofobia  
 pehmeä - naram  
@@ -2766,7 +2768,10 @@ pellavansiemen - yama seme
 pelle (klovni) - payace  
 pelokas - fobike  
 pelottaa - fobife  
+pelottaa - terife  
+pelottaa pois - detere  
 pelottava - fobive  
+pelottava - terifike  
 pelätä - be fobi  
 penkki - benci  
 pensseli (sivellin) - pente broxa  
@@ -2825,7 +2830,7 @@ pikkutakki (jakku) - jake
 pikkuveli - jun bra  
 pilaantua (raunioitua) - be harabu  
 pilahvi - pilau  
-pilalla (raunioina) - harabu  
+pilalla (raunioina) - harabe  
 pilata (raunioittaa) - harabe  
 pilkku - koma  
 pilvi - megi  
@@ -2859,9 +2864,8 @@ pituuspiiri - ging gola
 pitäisi - be sel  
 pitää (kuulua, olla velvollisuus; velvollisuus) - debe  
 pitää (pitää kiinni, pitää hallussa) - tene  
-pitää jnkn (suhtautua) - fere  
+pitää etusijalla (pitää parempana) - prefere  
 pitää koossa - kontene  
-pitää parempana (pitää etusijalla) - prefere  
 pitää pidätettynä - detene  
 pitää sisällä (sisältää; sisältö) - intene  
 pitää takana - retene  
@@ -2914,7 +2918,7 @@ polonium - polskium
 polttaa - fa hogo  
 polvi - guta  
 polvilumpio - guta kaska oste  
-polyteismi (monijumalisuus) - poli deu sim  
+polyteismi (monijumalisuus) - polideisme  
 pommi - bombe  
 popularny - populal  
 porata - fora  
@@ -3016,6 +3020,7 @@ puutarhalapio - bagi bele
 puuteri - muka fun  
 puuttua (ilman, vailla) - hin  
 puuvilla - goton  
+pyhä (kielletty, tabu, haram) - haram  
 pyhä - sante  
 pyhä kirja (pyhät kirjoitukset) - sante kanon  
 pylly (takapuoli, pakarat) - pigu  
@@ -3064,7 +3069,7 @@ pääsiäinen - paska
 päästä (mennä läpi) - cese  
 päästä - be laxe  
 päästä pois (nukkua pois; edesmennyt) - decese  
-päätyä johtopäätökseen - infere  
+päätellä (viitata jhkn) - infere  
 päätön - kapa hin  
 pöly (tomu) - haki  
 pölynimuri - haki cupu gi  
@@ -3140,7 +3145,6 @@ reissu (retki) - tur
 rei’ittää - fa kung  
 rengas (kehä) - ring  
 renium - renium  
-rentoutua (rentouttaa) - relaxa  
 rentoutua (rentouttaa) - relaxe  
 repiä - cira  
 reportteri - reporter  
@@ -3269,7 +3273,6 @@ Saint Lucia - Sante Lucia
 saippua - sabun  
 sairaala - patekan  
 sairas - patike  
-sairaus (tauti) - pate  
 sakkaroosi - sukaros  
 Saksa - Doice  
 saksalainen - doice di  
@@ -3323,7 +3326,6 @@ satanisti - xataniste
 satavuotinen - sento nen di  
 sateenvarjo - barxa cati  
 satsuma - venzou orange  
-sattua (käydä kipeää) - be pasi  
 sattuma (onni) - zar  
 sattumanvarainen - zarike  
 satu - pari kata  
@@ -3474,10 +3476,10 @@ Skandinavia - Skandia
 skandium - skandium  
 skorpioni - akrabe  
 Skotlanti - Skotia  
-slaavilainen - Slave  
+slaavilainen - slavike  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
-slummi - harabu mahala  
+slummi - harabe mahala  
 smaragdi - ezmurude  
 smurffi - nil elfe  
 sohva - sofa  
@@ -3531,7 +3533,7 @@ stereofoninen - du soni di
 stereoskooppinen - du grafi di  
 strontium - estrontium  
 suahili - suahili  
-substantiivi (nimisana) - nam loga  
+substantiivi (nimisana) - nam lexe  
 Sudan - Sudan  
 sudenkorento - libele  
 suihku - dux  
@@ -3804,7 +3806,7 @@ tekoäly - arte fete intelige (AI)
 tekstin muotoilu - kitabe forma  
 tekstinkäsittely - kitabe cule  
 teleportata - be tele loka  
-televisio - tele vide gi  
+televisio - televidion  
 telluuri - telurium  
 telsa (koverokirves) - benzi  
 teltta - haima  
@@ -3821,6 +3823,7 @@ teosofia - deosofia
 terbium - terbium  
 terrakotta - baka poto  
 terrorismi - terurisme  
+terrorisoida (pelotella) - terurize  
 terroristi - teruriste  
 terve (hei) - sal  
 terve - sale  
@@ -3944,7 +3947,7 @@ tunne (mielenliikutus) - gamo
 tunneli - tunel  
 tunnetila (tuuli) - gamo hal  
 tunnus (symboli) - simbol  
-tunnussana - pas loga  
+tunnussana - pas lexe  
 tuntea (kokea tunteita) - be gamo  
 tuntea - ken  
 tuntea - tocu sense  
@@ -3953,6 +3956,7 @@ tunti - sah
 tunturi - tundra xan  
 tuo - vo  
 tuoda - fa lai  
+tuoda esiin (viitata esille) - profere  
 tuoda sisään - in mise  
 tuoli - kursi  
 tuolla - a vo  
@@ -4070,7 +4074,6 @@ unikko (unikukka) - sona papi
 universaali - universal  
 Unkari - Magyar  
 unohtaa - anmemo  
-upea (hieno) - kul  
 upea (mahtava) - super  
 uraani - uranium  
 Uranus - Uran  
@@ -4094,9 +4097,9 @@ uskottu (luotettu) - bekrede
 uskovainen - diniste  
 uskovainen - kreder  
 utelias (tiedonhaluinen) - san vol ja  
-utopia - eutopia  
+utopia - hautopia  
 uudisasukas - koloner  
-uudissana - neu loga  
+uudissana - neuloge  
 uudistaa - renove  
 uuni - tanur  
 uusi (vasta tehty, käyttämätön) - neu di  
@@ -4207,7 +4210,7 @@ vastakohta (antonyymi) - annam
 vastakohtainen (negatiivinen, epä-) - an-  
 vastakohtaisuus - kontraverse  
 vastapäivään - rota leu  
-vastasyntynyt - neu nati di  
+vastasyntynyt - neunatike  
 vastata (vastaus) - javabe  
 Vatikaanivaltio - Vatikan  
 vaurio (vahinko, haveri) - avar  
@@ -4300,7 +4303,8 @@ viisi (5) - lima
 viisikulmio - lima gona  
 viisitahokas (prisma) - lima fase  
 viisumi - viza  
-viitata jhkn - refere  
+viitata - fere  
+viitata takaisin (viitata lähteeseen) - refere  
 viive (odotus) - dele  
 vika (synti) - doxe  
 viljellä - agre  
@@ -4394,7 +4398,7 @@ välitys (siirtäminen, lähetys) - tramiseon
 väri - rang  
 väriaine - rang mate  
 väristys (kauhu) - hore  
-väristys (kauhu) - horure  
+väristys (kauhu) - horur  
 värisyttää (kauhistuttaa) - horife  
 väsymys - fatige  
 väsyä - be fatige  
@@ -4425,9 +4429,9 @@ ydinfysiikka - kerne fizika
 yhdeksän - tisa  
 yhdessä - a kon  
 Yhdistyneet Arabiemiirikunnat - Unifike Arabe Amiria (UAA)  
+yhdistää (kytkeä yhteen) - fa linke  
 yhdistää (kytkeä) - konnete  
-yhdistää - fa linke  
-yhdistää - fa un xe  
+yhdistää (panna yhteen) - unife  
 yhdistää tietoja (laskea yhteen) - konpute  
 Yhdysvallat (ns. Amerikka) - Unifike Statia de Amerika (USA)  
 yhdysvaltalainen (ns. Amerikkalainen) - USA di  
@@ -4462,8 +4466,7 @@ yleiskiina (mandariinikiina) - Putong Han
 ylenmääräinen - luxure  
 ylenmääräisyys (luksus) - luxuria  
 yliopisto - dai xulakan  
-ylistys - eu loga  
-ylistää (puhua hyvää, kehua) - euloga  
+ylistää (puhua hyvää, kehua; ylistys, kehu) - hauloge  
 ylistää - halela  
 ylittää (olla enemmän kuin) - be max  
 ylittää - be supra  

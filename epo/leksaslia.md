@@ -107,6 +107,7 @@
 **banda** ** ← mandarena:班 (bān), kantona:班 (baan1), vjetnama:ban, korea:반 (ban) + angla:deu:band, franca:bande, rusa:банда (banda), hispana:portugala:filipina:polona:banda, japana:バンド (bando)  
 **bande** *ligi* ← itala:benda, svahila:bendeji, haŭsa:bandeji, hispana:venda, franca:bande, angla:band, deu:Binde, rusa:бинт (bint) hindia:बाँधना (bāndhnā)  
 **bandera** *flago* ← angla:banner, franca:bannière, hispana:bandera, portugala:bandeira, malaja:bendera, filipina:bandila, svahila:bendera  
+**bang** ** ← mandarena:棒 (bàng), kantona:棒 (paang5), japana:棒 (bō), korea:봉 (bong), taja:ตะบอง (ta-bong), kmera:ដំបង (dɑmbɑɑng)  
 **banke** ** ← angla:deu:polona:malaja:bank, turka:banka, rusa:банк (bank), franca:banque, hispana:portugala:banco, persa:(bânk), hindia:बैंक (baiṅk), urdua:(baiṅk), teluga:బ్యాంకు (byāṅku), tamila:(vaṅki), haŭsa:banki  
 **bano** *tabulo* ← mandarena:板 (bǎn), kantona:板 (baan2), japana:板 (ban), korea:판자 (panja), vjetnama:bảng, taja:บาน (baan) + malaja:papan + svahila:bao + angla:hispana:panel, franca:panneau, rusa:панель, turka:pano  
 **banya** *bano* ← hispana:bañera, portugala:banheira, greka:μπάνιο (bánio), rusa:ванна (vanna), araba:بانيو‎ (banyu)  
@@ -341,7 +342,6 @@
 **estan** ** ← hispana:estaño, portugala:estanho, franca:étain, itala:stagno, angla:tin, svahila:stani  
 **estibium** ** ← mandarena:锑 (tī), svahila:stibi  
 **estrontium** *stroncio* ← angla:strontium, franca:strontium, hispana:strontium, portugala:estrôncio, rusa:стронций, mandarena:锶 (sī), japana:ストロンチウム, korea:스트논듐, vjetnama:stronti, hindia:स्ट्रोन्सियम, bengala:স্ট্রনসিয়াম, malaja:strontium, svahila:stronti, araba: سترانشيوم  
-**eu** ** ← angla:franca:hispana:portugala:eu-  
 **Eurasia** *Eŭrazio* ← angla:hispana:malaja:Eurasia, portugala:Eurásia, franca:Eurasie, rusa:Евразия (Evraziya), turka:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), araba:يُورَاسِيَا‎ (yūrāsiyā), hindia:यूरेशिया (yūreśiyā), bengala:ইউরেশিয়া (iureśiẏa), mandarena:歐亞大陸 (Ōuyà dàlù), japana:ユーラシア (yūrashiya)  
 **eureka** *trovi* ← greka:ευρίσκω (evrísko), angla:hispana:eureka, portugala:eureca, franca:eurêka, rusa:эврика (evrika), turka:efreka, japana:ユーレカ (yūreka)  
 **Europa** *Eŭropo* ← angla:franca:Europe, hispana:portugala:deu:polona:Europa, greka:Ευρώπη (Evrópi) rusa:Европа (Evropa), turka:Avrupa, svahila:Uropa, hindia:यूरोप (yūrop), malaja:Eropah, mandarena:歐洲 (Ōuzhōu), japana:ヨーロッパ (yōroppa)  
@@ -541,9 +541,9 @@
 **hanu** *mano* ← haŭsa:hannu + angla:hand, deu:Hand + hindia:हाथ (hāth), bengala:হাত (hat) + hispana:mano; manual, portugala:mão; manual, franca:main; manuel  
 **haos** *kaoso (malordo)* ← angla:franca:chaos, hispana:portugala:caos, rusa:хаос (haos), japana:カオス (kaosu)  
 **hapu** *taŭga* ← mandarena:合 (hé), kantona:合 (hap6), korea:합 (hap), vjetnama:hợp + angla:apt, franca:apte, hispana:portugala:apto  
-**harabu** *ruinigita* ← araba:persa:urdua:(xarāb), turka:harap, hindia:ख़राब (xarāb), bengala:খারাপ (kharap), svahila:-haribu  
+**harabe** *ruinigita* ← araba:persa:urdua:(xarāb), turka:harap, hindia:ख़राब (xarāb), bengala:খারাপ (kharap), svahila:-haribu  
 **haram** ** ← araba:(ḥarām), haŭsa:malaja:turka:angla:deu:haram, hindia:हराम (harām), korea:하람 (haram), persa:urdua:(harām), svahila:haramu, mandarena:哈拉姆 (hālāmǔ), rusa:харамный (xaramniy)  
-**harmoni** *harmonio* ← angla:harmony, hispana:armonía, portugala:harmonia, franca:harmonie, rusa:гармония (garmoniya)  
+**harmonia** *harmonio* ← angla:harmony, hispana:armonía, portugala:harmonia, franca:harmonie, rusa:гармония (garmoniya)  
 **harnes** ** ← franca:harnais, angla:harness, hispana:arnés, portugala:arnês  
 **has** *speciala* ← araba:(xāṣṣ), persa:urdua:(xās), hindia:ख़ास (xās), malaja:khas, svahila:hususa  
 **haste** ** ← deu:Hast, angla:haste, franca:hâte + persa:آهسته (âheste), hindia:आहिस्ता (āhistā), bengala:আস্তে (aste), turka:aheste  
@@ -817,7 +817,7 @@
 **kudi** *kubuto* ← araba: كُوع‎ m (kūʿ) + franca:coude + hindia:कुहनी (kuhnī)  
 **kuke** ** ← angla:cook, deu:Kock, itala:cuoco, malaja:koki, taja:กุ๊ก (kuk), sango:kuku + rusa:кухар (kuhar), polona:kucharz  
 **kuku** *kukolo* ← angla:cuckoo, franca:coucou, hispana:portugala:cuco, rusa:кукушка (kukushka), persa: کوکو‎ (kuku), japana:郭公 (kakkō), mandarena:布谷鸟 (bùgǔniǎo), kantona:布谷鳥 (bou3 guk1 niu5), turka:guguk, haŭsa:kukku  
-**kul** *bonega (mojosa)* ← angla:deu:franca:cool, japana:クール (kūru), mandarena:酷 (kù)  
+**kule** *sklavo* ← turka:köle; kul, hindia:क़ुली (qulī), tamila:கூலி (kūli), malaja:kuli, mandarena:苦力 (kǔlì), kantona:咕哩 (gu1 lei1), japana:苦力 (kūrī), korea:쿨리, vjetnama:cu li, angla:franca:coolie, hispana:culi, portugala:cule, deu:Kuli, rusa:кули (kuli)  
 **kulte** ** ← angla:cultivate, franca:cultiver, hispana:portugala:cultivar, rusa:культура (kulʹtúra), persa: کولتور‎ (kultur), turka:kültür, japana:カルチャー (karuchā), tamila:கலாச்சாரம் (kalāccāram)  
 **kume** ** ← angla:cumulate, franca:cumuler, hispana:portugala:cumular + turka:kumul + araba:كَوْمَة‎ (kawma), persa: کومه (kume)  
 **Kung Fuzi** *Konfuceo* ← mandarena:孔夫子 (Kǒng Fūzǐ)  
@@ -851,7 +851,6 @@
 **late** *flanko (latero)* ← hispana:portugala:lado, itala:lato, angla:lateral, franca:latéral, rusa:латеральный (lateral’nyy)  
 **lau** ** ← mandarena:老 (lǎo), kantona:老 (lau2), vua:老 (lau3), japana:老 (rō), vjetnama:lão  
 **laurencium** *laŭrencio* ← angla:lawrencium, franca:lawrencium, hispana:laurencio, portugala:lawrêncio, rusa:лоуренсий, mandarena:铹 (láo), japana:ローレンシウム, korea:로렌슘, vjetnama:lorenxi, lawrenci, hindia:लॉरेंशियम, bengala:লরেনসিয়াম, malaja:lawrensium, svahila:lawirensi, araba: لورنسيوم  
-**laxa** ** ← angla:(re)lax, franca:(re)lâcher, hispana:(re)lajar, itala:lasciare, deu:lassen  
 **laxe** ** ← angla:(re)lax, franca:(re)lâcher, hispana:(re)lajar, itala:lasciare, deu:lassen  
 **lazanya** ** ← franca:lasagne, angla:lasagna, hispana:lasaña, portugala:lasanha, rusa:лазанья (lazanya), araba:(lazanyā), japana:ラザニア (razania), korea:라자냐 (lajanya), hindia:लज़ैन्या (lazenyā)  
 **lazur petra** ** ← persa:لاجورد (lājevard), angla:lazuli, hispana:lapislázuli, rusa:лазурит (lazurit), araba:لازورد (lāzaward), hindia:लाजवर्द (lājavarda), japana:ラピスラズリ (rapisurazuri), malaja:lazuardi, turka:lazur taşı  
@@ -1044,7 +1043,7 @@
 **nagre** *urbo* ← hindia:नगर (nagar), bengala:নগর (nôgôr), teluga:నగరము (nagaramu), tamila:நகரம் (nakaram), kmera:អង្គរ (ʾɑngkɔɔ), taja:นคร (na-khon) + malaja:negara  
 **nahun** ** ← persa:ناخن‎ (nâxon), hindia:नाख़ुन m (nāxun), bengala:নখ (nôkh), pan:नख (nakh), rusa:нога́ (nogá)  
 **najis** ** ← araba:نجس (najis), malaja:najis, svahila:najisi, persa:نجس (najes) + angla:najis, rusa:наджаса (nadžasa)  
-**nam loga** *substantivo* ← mandarena:名词 (míngcí), kantona:名詞 (ming4 ci4), japana:名詞 (meishi), korea:명사 (myeongsa), hindia:नाम (nām), franca:nom, hispana:nombre, portugala:nome, rusa:имя (imya), araba:(ism), per:(esm), svahila:nomino  
+**nam lexe** *substantivo* ← mandarena:名词 (míngcí), kantona:名詞 (ming4 ci4), japana:名詞 (meishi), korea:명사 (myeongsa), hindia:नाम (nām), franca:nom, hispana:nombre, portugala:nome, rusa:имя (imya), araba:(ism), per:(esm), svahila:nomino  
 **nam** *nomo* ← deu:angla:name, franca:nom, hindia:नाम (nām), bengala:নাম (nam), malaja:nama, taja:นาม (naam) + japana:名前 (namae)  
 **nan** *viro* ← mandarena:男 (nán), japana:男 (nan), korea:남 (nam), vjetnama:nam + persa: نر‎ (nar), hindia:नर (nar), bengala:নর (nôr), teluga:నరుడు (naruḍu) + angla:man, deu:Mann + tamila:ஆண் (āṇ)  
 **naraka** ** ← hindia:नरक (narak), bengala:নরক (nôrôk), pan:ਨਰਕ (nark), marataja:नर्क (nark), teluga:నరకము (narakamu), tamila:நரகம் (narakam), malaja:neraka, tha:นรก (ná-rók), japana:奈落 (naraku)  
@@ -1443,7 +1442,7 @@
 **tehne** *tekniko* ← greka:τεχνική (tehniki), rusa:техника (tehnika), franca:angla:technique, hispana:portugala:técnica, hindia:तकनीक (taknīk), malaja:teknik  
 **tehnetium** *teknecio* ← angla:technetium, franca:technétium, hispana:tecnetio, portugala:tecnécio, rusa:технеций, mandarena:锝 (dé), japana:テクネチウム, korea:테크네튬, vjetnama:tecnexi, hindia:टेक्निशियम, bengala:টেকনিসিয়াম, malaja:teknetium, svahila:tekineti, araba: تكنيتيوم  
 **tela** ** ← hispana:portugala:filipina:tela, franca:toile + angla:towel, hindia:तौलिया (tauliyā), svahila:taulo, haŭsa:tawul, japana:タオル (taoru), malaja:tuala  
-**tele** *malproksimeco* ← angla:hispana:portugala:malaja:tele-, franca:télé-, rusa:теле- (tele-)  
+**tele** *malproksima* ← angla:hispana:portugala:malaja:tele-, franca:télé-, rusa:теле- (tele-)  
 **telurium** *teluro* ← angla:tellurium, franca:tellure, hispana:telurio, portugala:telúrio, rusa:теллур, mandarena:碲 (dì), japana:テルル, korea:텔루르, vjetnama:telu, hindia:टेलुरियम, bengala:টেলুরিয়াম, malaja:telurium, svahila:teluri, araba: تيلوريوم  
 **tema** *temo (esti pri; pridiskuti)* ← franca: thème, hispana: tema, rusa: тема (tema), deu:Thema + mandarena:题目 (tímù)  
 **tene** ** ← franca:tener, hispana:tenir, portugala:ter, angla:-tain  

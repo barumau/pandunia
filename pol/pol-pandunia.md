@@ -78,6 +78,7 @@
  - baku varis  
  - balakan  
  - bamia  
+ - bang  
  - bankexefe  
  - bankrute  
  - bar vala  
@@ -224,11 +225,7 @@
  - etan  
  - etanol  
  - etil  
- - eudeisme  
- - eugenisme  
- - euloga  
  - Europa luna  
- - eutopia  
  - exa  
  - extre  
  - fa amen  
@@ -371,10 +368,12 @@
  - Han zi  
  - hape  
  - hapu  
- - haram liste  
  - Hartum  
  - has nam  
  - hau rai  
+ - haudeisme  
+ - haugenisme  
+ - hautopia  
  - haxi  
  - hazin  
  - hazinkan  
@@ -413,7 +412,8 @@
  - holonume  
  - hore  
  - horife  
- - horure  
+ - horifike  
+ - horur  
  - hua jara  
  - hua pote  
  - huke lin kane  
@@ -517,7 +517,6 @@
  - komputa hor loger  
  - kon forma  
  - kon helen baxa  
- - kon pasi  
  - konputeral  
  - konsel  
  - konseler  
@@ -531,6 +530,7 @@
  - kredebil  
  - kree  
  - kudi metri  
+ - kule  
  - kulte  
  - kume  
  - kumule  
@@ -551,6 +551,7 @@
  - lete  
  - lexofilia  
  - lexograme  
+ - lexunife  
  - liga di sanduku  
  - limon jus  
  - limon orange  
@@ -670,7 +671,7 @@
  - nelu di galope  
  - nete  
  - neu fito  
- - neu nati di  
+ - neunatike  
  - neuritis  
  - neurotoxe  
  - neuta  
@@ -713,7 +714,7 @@
  - partaneria  
  - partative  
  - pas dau  
- - pas loga  
+ - pas lexe  
  - pata  
  - pede  
  - pedofilia  
@@ -877,7 +878,9 @@
  - tense  
  - tenseta  
  - terife  
+ - terifike  
  - termal  
+ - terurize  
  - Tetis  
  - tezata  
  - Titan  
@@ -1037,6 +1040,7 @@
  - decese  
  - dedute  
  - dedution  
+ - defere  
  - defete  
  - deflexe  
  - deforme  
@@ -1127,6 +1131,8 @@
  - konnete  
  - konneter  
  - konnetion  
+ - konpate  
+ - konpatia  
  - konpele  
  - konplike  
  - konpozaje  
@@ -1169,6 +1175,7 @@
  - proceser  
  - produte  
  - produter  
+ - profere  
  - progene  
  - programaje  
  - progresion  
@@ -1195,7 +1202,6 @@
  - regrese  
  - reinkarnation  
  - rejete  
- - relaxa  
  - relaxe  
  - remise  
  - repar  
@@ -1208,6 +1214,7 @@
  - revoke  
  - riforme  
  - rikurse  
+ - rilexife  
  - rinate  
  - sinkredisme  
  - sintaxe  
@@ -1359,7 +1366,7 @@ aż do - hata
 B - B  
 babcia (babka) - cin ma  
 bagaż - bagaje  
-bagietka - kane pang  
+bagietka - kane ban  
 bagno (moczary) - poto stan  
 bahaista - bahaiste  
 bahaizm - bahaisme  
@@ -1566,7 +1573,6 @@ chmura - megi
 cholera - holera  
 Chongqing - congcing  
 chordofon, instrument strunowy - ticin  
-choroba - pate  
 Chorwacja - Horvatia  
 chory - patike  
 chować (kryć) - fa sir  
@@ -1595,7 +1601,7 @@ cielesny - badan di
 ciemny, słabo oświetlony - oskur  
 ciepły - garma  
 cierpienie, ból - alge  
-cierpieć - be pasi  
+cierpieć (choroba) - pate  
 cieszyć się (zażywać, bawić się) - be vanu  
 cieszyć, podobać się - sukafa  
 cień - saya  
@@ -1672,7 +1678,7 @@ córka - doh
 D - D  
 dach - cati  
 daktyl - tamar  
-daleki, odległy - tele di  
+daleki, odległy - tele  
 damarzyk (meranti) - meranti  
 dane - data  
 Dania - Danske gogia  
@@ -1776,7 +1782,6 @@ dyskretny (kwantowy) - alo fen di
 dyskusja, debata, dyskurs - lona  
 dyskutoać, twierdzić - fa tese  
 dysproz - disprosium  
-dystans - tele  
 dystans - teleta  
 dywan - dipe tela  
 dzban, dzbanek; słój, słoik; wazon - jara  
@@ -1872,7 +1877,7 @@ euro (€) - euro
 europ - europium  
 Europa - Europa  
 europejski - europa di  
-ewangelia - euangil  
+ewangelia - hau angil  
 F - F  
 fabryka, manufaktura - canekan  
 fabryka, manufaktura - feteria  
@@ -2064,8 +2069,8 @@ hamak - hamake
 han chiński - Han  
 handel - vende xope  
 handlarz (kupiec) - vende xoper  
-harmonia - harmoni  
-harmoniczny - harmoni di  
+harmonia - harmonia  
+harmoniczny - harmonike  
 has - hesium  
 haszysz - haxix  
 hasło - sekur kode  
@@ -2219,7 +2224,7 @@ jaśmin - moli
 jaźń (tożsamość) - aute  
 jebać, kopulować - coda  
 jeden (1) - un  
-jednoczyć - fa un xe  
+jednoczyć - unife  
 jednokolorowy (monochromatyczny) - unrangike  
 jednostka miary - metri unta  
 jednoznaczny - unsemike  
@@ -2446,7 +2451,6 @@ korniszon - acar hiyar
 korona - korona  
 koronawirus - korona virus  
 korzeń - mula  
-korzystny (dobry) - eu  
 kosmiczny - kosmike  
 kosmonauta - kosmonaver  
 kosmos, wszechświat - kosme  
@@ -2569,7 +2573,7 @@ latarnia morska - foto minar
 latać (fruwać) - dare  
 latać, lecieć - fa fei  
 lato - garma mosim  
-laudacja - eu loga  
+laudacja - hauloge  
 lawa - fuzi petra  
 lazania - lazanya  
 lejek - dare tube  
@@ -2843,7 +2847,7 @@ Mongolski - mongol di
 monizm - monisme  
 monizm - un xe sim  
 monolog - autologe  
-monoteizm - undeuisme  
+monoteizm - undeisme  
 moralność, etyka - moral  
 moralny - moral di  
 morela (śliwka) - briko  
@@ -2958,9 +2962,9 @@ nefrektomia - nefrextomia
 negatywny (przeciwny, nie) - an-  
 negocjować - fa biznes lona  
 negować - nege  
-nekrolog - nekrologa  
+nekrolog - nekrologe  
 neodym - neodimium  
-neologizm - neu loga  
+neologizm - neuloge  
 neon - neon  
 Nepal - Nepal  
 Neptun - Neputun  
@@ -3394,7 +3398,7 @@ polerować (szlifować) - lumize
 policja - polis  
 policzyć (przetwarzać dane) - konpute  
 Polinezja Francuska - Franse Polinesi  
-politeizm - poli deu sim  
+politeizm - polideisme  
 politologia - politologia  
 polityczny - politi di  
 polityk - politike  
@@ -3599,7 +3603,7 @@ przyjęcie, święto, festiwal - feste
 przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać - lai  
 przykryć, przykrywać, ukryć, ukrywać - dake  
 przykład - misal  
-przymiotnik - sifa loga  
+przymiotnik - sifa loge  
 przymus - musta  
 przyprawa - masala  
 przyrostek (sufiks) - posfixe  
@@ -3747,7 +3751,6 @@ rozciągać (rozciągnąć) - long tire
 rozdział, sekcja - babu  
 rozjaśnić - fa ming  
 rozkaz, komenda - amir  
-rozluźnić (poluzować) - laxa  
 rozluźnić (poluzować) - laxe  
 rozmiar - daita  
 rozmnażać - sugene  
@@ -3799,7 +3802,7 @@ rzadki (rozrzedzony, rozproszony) - anjame di
 rzadko - nadir mar  
 rzadkość - nadirta  
 rzecz - xe  
-rzeczownik - nam loga  
+rzeczownik - nam lexe  
 rzeczywistość (realność) - realta  
 rzeka - rivo  
 rzemieślnik - arte saner  
@@ -3934,7 +3937,7 @@ skupić, się, skoncentrować się - fa fokus
 skwer, plac - medan  
 skwierczeć - zizi  
 skóra - pil  
-slums - harabu mahala  
+slums - harabe mahala  
 smacznego - sal yam  
 smak - guste  
 smakować jak - guste ka  
@@ -4144,7 +4147,7 @@ słonecznik - sol hua
 słony - yem di  
 Słowacja - Slovakia  
 Słowenia - Slovenia  
-słowiański - Slave  
+słowiański - slavike  
 słowik - bulbul  
 słownictwo - lexe jama  
 słowny (leksykalny) - lexal  
@@ -4201,7 +4204,7 @@ tektonika płyt - plate geo kaskelogia
 telefon - telefon  
 teleportować się - be tele loka  
 teleskop - teleskope  
-telewizja - tele vide gi  
+telewizja - televidion  
 tellur - telurium  
 telugu - Telugu  
 temat (motyw; dyskutować o) - tema  
@@ -4222,7 +4225,7 @@ terb - terbium
 teren - geo forme  
 termometr - termometrer  
 terror - tere  
-terror - terure  
+terror - terur  
 terrorysta - teruriste  
 terroryzm - terurisme  
 Terytorium Palestyńskie - Filistin  
@@ -4253,7 +4256,7 @@ topić (upłynnić, upłynniać) - fuzi saf
 topnieć (upłynniać się) - fuzi  
 tor - torium  
 torba, wór, worek, torba, sakwa - sake  
-tost - xava pang  
+tost - xava ban  
 towarzysz (partner, kumpel) - late jen  
 tragedia - tragodia  
 traktor (ciągnik) - trater  
@@ -4357,12 +4360,12 @@ ulica - gali
 ulubiony - max fili di  
 umiejętność (kompetencja) - sute  
 umiejętny (sprawny, zręczny) - sutive  
-umieścić (postawić) - loke  
+umieścić (postawić) - lokize  
 umrzeć (umierać; śmierć; martwy, nieżywy, zabity) - mata  
 umrzeć, umierać - be mata  
 umysłowy (psychiczny) - ruhu di  
 unia - unia  
-Unia Europejska (EU) - Europa Unta  
+Unia Europejska (EU) - Europa Unia  
 uniwersytet - dai xulakan  
 upadły - pada di  
 uprawić, uprawiać - agre  
@@ -4655,7 +4658,6 @@ zabawa, rozrywka - vanu
 zabawny - vanu di  
 zabić, zabijać - matafa  
 zabroniony (wzbroniony, nielegalny, haram, tabu) - haram  
-zabronić (wzbronić, zakazać) - fa haram  
 zabójca - mataja  
 zachodni - veste di  
 zachowanie (maniery, kultura) - manera  
@@ -4827,7 +4829,7 @@ złowieszczy - dus sin di
 złośliwy, okrutny - zalimive  
 zły (wsciekły, gniewny) - furi  
 zły los - dus zar  
-zły, zrujnowany, zepsuty - harabu  
+zły, zrujnowany, zepsuty - harabe  
 ćatni - hinde sos  
 ćsi - tix  
 ćsi - xux  
@@ -4883,7 +4885,6 @@ zły, zrujnowany, zepsuty - harabu
 światło, oświetlenie - fote  
 świeca - mum fote  
 świerk - pisea  
-świetny - kul  
 świeży - taza  
 świnia - goro  
 świątynia - pujakan  

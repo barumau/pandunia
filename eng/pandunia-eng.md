@@ -381,6 +381,7 @@ bande - tie (fasten, bind, bandage)
 bandaje - bandage  
 banda - band (squad, group)  
 bandera - flag (banner)  
+bang - club (bat, mace, baton)  
 bangla baxa - Bengali language (Bangla)  
 Bangla gogia - Bangladesh  
 banke - save (deposit, bank)  
@@ -497,7 +498,6 @@ be mirde - fade
 be nam - be called (be named)  
 be nice - go under  
 be par - equal  
-be pasi - suffer (get hurt)  
 be pute - decay (rot, deteriorate)  
 be raste - grow (grow up, expand)  
 be reste - remain (stay)  
@@ -1104,13 +1104,6 @@ etan - ethane
 etanol - ethanol  
 etil - ethyl  
 Etiopia - Ethiopia  
-eu - beneficial (good)  
-euangil - gospel (divine message)  
-eudeisme - eutheism  
-eugenisme - eugenics  
-eu loga - praise (eulogy)  
-euloga - praise (eulogize)  
-eutopia - utopia  
 Eurasia - Eurasia  
 eureka - find (discover)  
 euro - euro (€)  
@@ -1119,7 +1112,7 @@ Europa - Europe
 europa baluta - English oak  
 europa di - European  
 Europa luna - Europa  
-Europa Unta - European Union (EU)  
+Europa Unia - European Union (EU)  
 exgogia - foreign country  
 exgogike - foreign  
 extre - outward (external)  
@@ -1155,7 +1148,6 @@ fa fei - fly (go through air)
 fa fokus - concentrate  
 fa gola - surround (encircle)  
 fa halal - allow (permit)  
-fa haram - forbid (ban, disallow)  
 fa has - distinguish  
 fa hava - blow  
 fa hen - hate (detest)  
@@ -1257,7 +1249,6 @@ fa transe - transit (pass through or across)
 fa trati - agree (make an agreement)  
 fa truke - trick (cheat, deceive)  
 fa ulul - howl  
-fa un xe - unite (merge, integrate)  
 fa vai klus - exclude (keep out)  
 fa vai tense - extend (stretch out)  
 fa valu - value (evaluate)  
@@ -1321,10 +1312,12 @@ fenife - divide (partition, part, split, separate)
 fenil - phenyl  
 fen lize - analyse (analysis)  
 fenol - phenol  
-fere - deem (consider, regard, assign some quality to)  
-• disfere - differ (consider different)  
-• infere - infer  
+fere - point (direct, signal)  
+• defere - defer (signal away)  
+• disfere - differ (direct apart)  
+• infere - infer (point into)  
 • prefere - prefer (assess before)  
+• profere - present (bring forth)  
 • refere - refer (assign back to)  
 fermium - fermium  
 fero - iron  
@@ -1786,12 +1779,11 @@ haos - chaos (disorder, turmoil)
 hape - fit (adapt, adjust, make suitable)  
 hapu - suitable (appropriate, apt, fit)  
 harabe - ruin (destroy, devastate, demolish)  
-harabu - bad (ruined, destroyed)  
-harabu mahala - slum  
-haram - forbidden (illicit, haram, taboo)  
-haram liste - blacklist  
-harmoni - harmony  
-harmoni di - harmonious  
+harabe - bad (ruined, destroyed)  
+harabe mahala - slum  
+haram - sacred (forbidden, illicit, haram, taboo)  
+harmonia - harmony  
+harmonike - harmonious  
 harnes - harness  
 Hartum - Khartoum  
 has - special (distinct)  
@@ -1804,14 +1796,19 @@ hata di - even (implying extreme example)
 hatar - danger (peril)  
 hatar di - dangerous (perilous)  
 hau - good  
+hau angil - gospel (divine message)  
+haudeisme - eutheism  
+haugenisme - eugenics  
 hau gradu - upgrade (level up)  
 hau guste di - delicious (yummy)  
+hauloge - praise (eulogize, laude; eulogy)  
 hau moral - virtue (morals)  
 hau moral di - virtuous  
 hau rai - approve  
 hau sifa di - excellent  
 hau sifata - excellence (quality, virtue)  
 hau sin di - auspicious (promising)  
+hautopia - utopia  
 hau vide di - beautiful (handsome, good-looking)  
 hau zar - good luck  
 hava - wind  
@@ -1920,7 +1917,8 @@ holmium - holmium
 Hong Gong - Hong Kong, SAR China  
 hore - shiver (creeps)  
 horife - horrify (give the creeps)  
-horure - horror  
+horifike - horrifying (horrific, horrible)  
+horur - horror  
 hormon - hormone  
 Horvatia - Croatia  
 hotel - hotel  
@@ -2221,7 +2219,7 @@ kandi - candy (sweets)
 kane - bar (pole, rod, shaft, staff, stick)  
 kane kasa - cage  
 kane minte - spearmint  
-kane pang - baguette  
+kane ban - baguette  
 kane sor - latch  
 kanga - comb  
 kangaru - kangaroo  
@@ -2450,7 +2448,6 @@ kon hau - match (fit, suit, go well together)
 kon helen baxa - Koine Greek  
 konife - share  
 kon kar - collaborate (work together)  
-kon pasi - compassion  
 kon sabi - information (communicable knowledge)  
 kon su - common (mutual)  
 kontra - go against  
@@ -2548,7 +2545,7 @@ kuker - cook (chef)
 kuke kamar - kitchen  
 Kuke nesia - Cook Islands  
 kuku - cuckoo  
-kul - cool  
+kule - slave (coolie)  
 kulombe - coulomb (unit)  
 kulte - cultivate (foster)  
 kulture - culture  
@@ -2621,8 +2618,6 @@ lau jen - elder
 laurencium - lawrencium  
 laxe - loose (laxe; loosen, let loose, let go)  
 • relaxe - relax  
-laxa - loose (lax; loosen, let loose, let go)  
-• relaxa - relax   
 lazanya - lasagna  
 lazur - azure  
 lazur petra - lapis lazuli  
@@ -2654,8 +2649,10 @@ lexofilia - logophilia
 lexofiliste - logophile (word buff)  
 lexe gense - grammatical gender (lexical gender)  
 lexograme - logogram (logo)  
+• rilexife - relexify  
 lexe jama - vocabulary (lexicon)  
 lexe liste - dictionary (word list)  
+lexunife - lexicalize  
 liama - llama  
 Libanen - Lebanon  
 libele - dragonfly  
@@ -2720,9 +2717,9 @@ loga - register (record, log)
 • exloga - log out (log off)  
 • inloga - log in (sign in)  
 loga buku - logbook  
-loke - put (place, set)  
 loke - place (location)  
 lokal - local  
+lokize - put (place, set)  
 loke kode - coordinates  
 lona - discussion (debate, discourse)  
 London - London  
@@ -3170,7 +3167,7 @@ nam dokumen - identity document (identification, ID)
 nam hin - nameless (unnamed, anonymous)  
 namize - call (name)  
 nam kitabe - sign (autograph)  
-nam loga - noun  
+nam lexe - noun  
 nam tikete - nametag  
 Namibia - Namibia  
 nan - male  
@@ -3232,7 +3229,7 @@ negative - negative
 nekre - corpse (dead body)  
 nekrofilia - nechrophilia  
 nekroliste - necrology (listing of people who have died)  
-nekrologa - obituary (necrology)  
+nekrologe - obituary (necrology)  
 nekrotomia - autopsy (necrotomy)  
 nelu - four (4)  
 nelu di galope - gallop  
@@ -3261,8 +3258,8 @@ neu di - new (recent)
 neu fito - neophyte plant  
 neu jen - novice (newbie)  
 neu Kaledonia - New Caledonia  
-neu loga - neologism  
-neu nati di - newborn (neonatal)  
+neuloge - neologism  
+neunatike - newborn (neonatal)  
 neuta - newness  
 neu tipe di - modern  
 neu Yorke - New York  
@@ -3508,14 +3505,16 @@ partia - party (faction, side)
 pas - pass (go across or through, skip)  
 pas dau - pass (passage)  
 pas di - past (bygone)  
-pas loga - password  
+pas lexe - password  
 pas tabi - passive (inactive)  
 paska - Easter  
 paskal - pascal (Pa)  
 pasporte - passport  
 pasta - paste (dough)  
 pasta petra - magma  
-pate - disease (illness, sickness)  
+pate - suffer (be hurt, be ill)  
+• konpate - suffer together  
+• konpatia - compassion  
 patogener - pathogen  
 patike - patient (subject of medical treatment)  
 patike - ill (sick)  
@@ -3657,7 +3656,7 @@ plutonium - plutonium
 poke - poker  
 poli - many (much, more than one)  
 poli baxa di - multilingual  
-poli deu sim - polytheism  
+polideisme - polytheism  
 poli fase - polyhedron  
 poli gona - polygon  
 poli kultur di - multicultural  
@@ -4121,7 +4120,7 @@ side - sit down
 side loka - seat (saddle)  
 sifa - attribute (charasteristic, quality, feature, description, property)  
 sifa di - descriptive  
-sifa loga - adjective  
+sifa loge - adjective  
 sigar - cigarette (cigar)  
 sikisme - Sikhism  
 sikiste - Sikh  
@@ -4166,7 +4165,7 @@ Skotia - Scotland
 skulte - sculpt (carve)  
 skute - scoot (ride a scooter, move while sitting)  
 skuter - scooter  
-Slave - Slavic  
+slavike - Slavic  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
 sofe - wise  
@@ -4359,8 +4358,7 @@ tehnokratia - technocracy
 tehnologia - technology (study of techniques)  
 tela - cloth (fabric, textile)  
 tela gi - loom  
-tele - distance (far away)  
-tele di - far  
+tele - far  
 telefon - telephone  
 telefon bute - telephone booth  
 telefon lin - telephone line  
@@ -4368,7 +4366,7 @@ telefon nume - telephone number
 telegrame - telegram  
 teleskope - telescope  
 teleta - distance (length)  
-tele vide gi - television  
+televidion - television  
 telurium - tellurium  
 Telugu - Telugu  
 tema - topic (subject, theme; be about)  
@@ -4392,9 +4390,11 @@ tepe - tape
 tere - fear (fright, terror)  
 • detere - deter (scare away)  
 terife - terrify  
-terure - terror  
+terifike - terrifying (terrible)  
+terur - terror  
 terurisme - terrorism  
 teruriste - terrorist  
+terurize - terrorize  
 tera - tera-  
 terbium - terbium  
 terca - oblique (askew, tilted)  
@@ -4555,11 +4555,12 @@ Umbriel - Umbriel
 umur - age  
 umur di - aged  
 un - one (1)  
-undeuisme - monotheism  
+undeisme - monotheism  
 undurike - continuous (analog)  
 undurike horloger - analog clock  
 un fen du - half (½)  
 unia - union  
+unife - unite (merge, integrate)  
 unifike - united  
 Unifike Arabe Amiria (UAA) - United Arab Emirates  
 Unifike Statia de Amerika (USA) - United States of America (USA)  
@@ -4796,7 +4797,7 @@ xatanike - devilish (satanic)
 xatanisme - Satanism (devil worship)  
 xataniste - Satanist  
 xava - roast  
-xava pang - toast (toasted bread)  
+xava ban - toast (toasted bread)  
 xaxa - rustle  
 xayu - shark  
 xe - thing  

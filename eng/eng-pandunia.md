@@ -42,7 +42,7 @@ actor (actress) - dramater
 addition (extra) - maxaje  
 address - adres  
 adhesive bandage (band-aid, sticking plaster) - glu bande  
-adjective - sifa loga  
+adjective - sifa loge  
 administer (govern) - fa politi  
 admiral - bahai amirer  
 admire (adore) - fanate  
@@ -331,11 +331,11 @@ backgammon - narde
 backpack (rucksack) - ruke sake  
 backup - sekur kopi  
 backward (in reverse) - a re  
-bad (ruined, destroyed) - harabu  
+bad (ruined, destroyed) - harabe  
 bad (unfavorable, negative, evil, wicked, troublesome, difficult) - dus  
 bag (sack) - sake  
 bag - bage  
-baguette - kane pang  
+baguette - kane ban  
 bah - bah  
 bah! (yuck!) - fui  
 Baha'ism - bahaisme  
@@ -439,7 +439,6 @@ belong - be mal
 belt (zone) - zone  
 bench - benci  
 bend (flex) - flexe  
-beneficial (good) - eu  
 Bengali language (Bangla) - bangla baxa  
 Benin - Benin  
 beret - bere  
@@ -483,7 +482,6 @@ bitter - kali guste
 bitter melon - kali melon  
 bitter orange - kali orange  
 black - kala  
-blacklist - haram liste  
 blacksmith (iron forger) - metal saner  
 blade - gate yepa  
 blast furnace - gau tanur  
@@ -854,6 +852,7 @@ clothing (clothes) - fuku
 cloud - megi  
 cloudy (foggy) - megi di  
 clown - payace  
+club (bat, mace, baton) - bang  
 club - klube  
 coast (shore) - bahai kinar  
 coat - kote  
@@ -911,7 +910,7 @@ companion (partner, sidekick) - late jen
 company (corporation) - kompani  
 compass (magnetized needle) - dike pin  
 compassion (sympathy) - sam emos  
-compassion - kon pasi  
+compassion - konpatia  
 compatible (interoperable, supported) - konfuntebil  
 compatible (supported) - kon funsibil  
 compatriot (fellow citizen) - konpatrian  
@@ -977,7 +976,6 @@ cook (chef) - kuker
 cook (prepare food) - kuke  
 Cook Islands - Kuke nesia  
 cooked rice - boli varis  
-cool - kul  
 coordinates - loke kode  
 copernicium - kopernium  
 copper - kupre  
@@ -1135,7 +1133,6 @@ decrement - fa min gradu
 deduce (lead from) - dedute  
 deduction - dedution  
 deed (fact) - fate  
-deem (consider, regard, assign some quality to) - fere  
 deem (opine, think that) - fa rai  
 deep - fase tele  
 default (preset, predecided) - precun  
@@ -1146,6 +1143,7 @@ defecate - defeke
 defend - fa defa  
 defender - defer  
 defense (defence) - defe  
+defer (signal away) - defere  
 deficient (less than normal) - hipe  
 deflect (bend away) - deflexe  
 deform - deforme  
@@ -1198,7 +1196,7 @@ dictionary (word list) - lexe liste
 die (death; dead, deceased) - mata  
 die (dice) - zar kube  
 die - be mata  
-differ (consider different) - disfere  
+differ (direct apart) - disfere  
 difference - alo sifa  
 different - alo sifa di  
 dig (pit, cavity) - kave  
@@ -1223,12 +1221,10 @@ disc (disk) - diske
 disconnect - dekonnete  
 discrete (distinct, separate, quantized) - alo fen di  
 discussion (debate, discourse) - lona  
-disease (illness, sickness) - pate  
 disfigure - dusformife  
 dislike (loathe) - aname  
 dispel (disperse, drive asunder) - dispele  
 disperse (spread out, scatter) - anjame  
-distance (far away) - tele  
 distance (length) - teleta  
 distinction (specialty) - hasta  
 distinguish - fa has  
@@ -1432,15 +1428,15 @@ ethnic group - zuku
 ethyl - etil  
 etiquette (protocol, procedure) - bure rite  
 etymology - lexasle  
-eugenics - eugenisme  
+eugenics - haugenisme  
 Eurasia - Eurasia  
 euro (€) - euro  
 Europa - Europa luna  
 Europe - Europa  
 European - europa di  
-European Union (EU) - Europa Unta  
+European Union (EU) - Europa Unia  
 europium - europium  
-eutheism - eudeisme  
+eutheism - haudeisme  
 evaluate (review, criticise) - fa piping  
 evaluation (criticism) - piping  
 even (equal, level, peer) - par  
@@ -1531,7 +1527,7 @@ fan (ventilator) - sanzi
 fanatic (enthusiast(ic)) - fanatike  
 fantastic (imaginary) - fantazike  
 fantasy (imagination) - fantaze  
-far - tele di  
+far - tele  
 farewell - sal cute  
 farmer - agrer  
 fart (flatulate) - fa pede  
@@ -1656,8 +1652,6 @@ football (soccer) - fute bol
 footprint - fute marke  
 for a long time - long dure  
 for example - to misal  
-forbid (ban, disallow) - fa haram  
-forbidden (illicit, haram, taboo) - haram  
 force (strength, power) - balata  
 foreign - exgogike  
 foreign country - exgogia  
@@ -1828,7 +1822,7 @@ good morning - sal suba
 good night - sal noce  
 goose - ganse  
 gorilla - gorila  
-gospel (divine message) - euangil  
+gospel (divine message) - hau angil  
 govern (rule. reign) - krate  
 government (administration, polity, politics) - polite  
 government (rule (reign, -ocracy, -archy) - kratia  
@@ -1928,8 +1922,8 @@ hardware (ironware, equipment) - metal tul
 hardware (physical device) - fizike gi  
 harm (damage) - avarize  
 harmful (damaging) - avarive  
-harmonious - harmoni di  
-harmony - harmoni  
+harmonious - harmonike  
+harmony - harmonia  
 harness - harnes  
 hashish - haxix  
 hassium - hesium  
@@ -2039,7 +2033,8 @@ hormone - hormon
 horn - korne  
 horned melon (kiwano) - korne melon  
 horrify (give the creeps) - horife  
-horror - horure  
+horrifying (horrific, horrible) - horifike  
+horror - horur  
 horse - uma  
 horsewhip (riding crop) - uma bici  
 hospital - patekan  
@@ -2152,7 +2147,7 @@ infantile (juvenile, immature) - you
 infect (infection) - infete  
 infect - fa pati mise  
 infection (infestation, contagion) - patomise  
-infer - infere  
+infer (point into) - infere  
 infidel (pagan, heathen, unbeliever) - kafir  
 infinity - anlimite  
 inflammation (-itis) - itis  
@@ -2430,6 +2425,7 @@ level up (graduate) - be gau gradu
 lever - tire kane  
 lexeme - lexeme  
 lexical - lexal  
+lexicalize - lexunife  
 liberal - huristike  
 liberalism - hurisme  
 liberalist - huriste  
@@ -2514,7 +2510,6 @@ look (see) - vide
 look away from (despise, disregard) - despete  
 look back at (respect) - respete  
 loom - tela gi  
-loose (lax; loosen, let loose, let go) - laxa  
 loose (laxe; loosen, let loose, let go) - laxe  
 loquat - pipa frute  
 lose (be defeated) - bai  
@@ -2818,7 +2813,7 @@ monogenesis - ungene
 monogram - monograme  
 monolingual - unbaxike  
 monolog - autologe  
-monotheism - undeuisme  
+monotheism - undeisme  
 monster - mostre  
 Montenegro - cernagora  
 month - mes  
@@ -2934,7 +2929,7 @@ nefrectomy - nefrextomia
 negative - negative  
 negotiate (arrange) - fa biznes lona  
 neodymium - neodimium  
-neologism - neu loga  
+neologism - neuloge  
 neon - neon  
 neophyte plant - neu fito  
 Nepal - Nepal  
@@ -2961,7 +2956,7 @@ New Caledonia - neu Kaledonia
 New York - neu Yorke  
 New York City - neu Yorke siti  
 New Zealand - neu Zelande  
-newborn (neonatal) - neu nati di  
+newborn (neonatal) - neunatike  
 newness - neuta  
 news - habar  
 news media - habar media  
@@ -3016,7 +3011,7 @@ notebook - note buku
 nothing - siro xe  
 notice (notification) - note angil  
 notify - notize  
-noun - nam loga  
+noun - nam lexe  
 novel - long kata  
 novelty (new product) - neu  
 November - mes des un  
@@ -3037,7 +3032,7 @@ oak tree - baluta
 oasis - vahi  
 oat - ave  
 Oberon - Oberon  
-obituary (necrology) - nekrologa  
+obituary (necrology) - nekrologe  
 object (item, thing) - vutu  
 obligation (compulsion) - musta  
 oblige - debize  
@@ -3249,7 +3244,7 @@ pass away (die; deceased) - decese
 passive (inactive) - pas tabi  
 passport - pasporte  
 password (security code) - sekur kode  
-password - pas loga  
+password - pas lexe  
 past (bygone) - pas di  
 past times - prezaman  
 paste (dough) - pasta  
@@ -3410,6 +3405,7 @@ pocketknife - jebe caku
 podzol - hui darte  
 poem - xir  
 poet - xirer  
+point (direct, signal) - fere  
 point (period, full stop) - punte  
 point (tip, cusp, peak) - pike  
 point at (indicate) - dike  
@@ -3433,7 +3429,7 @@ polygenesis - poligene
 polygon - poli gona  
 polyhedron - poli fase  
 Polynesia - Polinesia  
-polytheism - poli deu sim  
+polytheism - polideisme  
 ponder (think, contemplate, consider, regard) - hem  
 pool (basin, bowl) - basen  
 poor (miserable) - miskin  
@@ -3478,8 +3474,7 @@ practice (actuality) - prate
 practice (to exercise) - fa lenxi  
 practicioner (person in charge or employed in an area, -person, -man) - vala  
 praise (commend, exalt) - halela  
-praise (eulogize) - euloga  
-praise (eulogy) - eu loga  
+praise (eulogize, laude; eulogy) - hauloge  
 praseodymium - prazedimium  
 pray (beg, entreat, implore) - dua  
 prayer - dua  
@@ -3500,6 +3495,7 @@ prenatal - prenatal
 prepare (make ready) - fa redi  
 preposition - prepozaje  
 presence (existence) - zaita  
+present (bring forth) - profere  
 present (existing) - zai di  
 present time (now) - zai zaman  
 president - presidente  
@@ -3584,7 +3580,7 @@ punishment (penalty) - fatu
 Punjabi - panjabi  
 purple (violet) - violeta nil  
 push - pulse  
-put (place, set) - loke  
+put (place, set) - lokize  
 put back (postpone) - pospoze  
 put back (postpone) - pospoze  
 put in (impose) - inpoze  
@@ -3690,8 +3686,8 @@ reincarnation - reinkarnation
 reinforce (replenish) - fa max lika  
 reinforcements - max ordu  
 reject (throw back) - rejete  
-relax  - relaxa  
 relax - relaxe  
+relexify - rilexife  
 relic - prezaman xe  
 religion (worship) - din  
 religious - din di  
@@ -3836,6 +3832,7 @@ Réunion - Reunion
 ## S  
 
 Sabbath - sabate  
+sacred (forbidden, illicit, haram, taboo) - haram  
 sacrifice (offer) - kurban  
 sad (tragic) - tragike  
 sad - duku di  
@@ -4072,7 +4069,8 @@ skirt - jupe
 skull - kapa oste  
 sky (heaven) - sama  
 slab (slate, tablet, board) - table  
-Slavic - Slave  
+slave (coolie) - kule  
+Slavic - slavike  
 sleep - be sona  
 sleep - sona  
 sleeve - kamisa xaka  
@@ -4083,7 +4081,7 @@ slope (tilt, slant, bias, inclination, tendency) - klin
 Slovakia - Slovakia  
 Slovenia - Slovenia  
 slow (quiet, not hurried, not busy) - anhaste  
-slum - harabu mahala  
+slum - harabe mahala  
 small town - xiu siti  
 small village (hamlet) - xiu deha  
 smell (reek) - fa aroma  
@@ -4269,7 +4267,8 @@ such-and-such (so-and-so) - fulan
 suck (absorb) - cupu  
 sucrose - sukaros  
 Sudan - Sudan  
-suffer (get hurt) - be pasi  
+suffer (be hurt, be ill) - pate  
+suffer together - konpate  
 suffix - posfixe  
 sugar - sukar  
 sugar beet - sukar bete  
@@ -4398,7 +4397,7 @@ telephone number - telefon nume
 telephony (telephone communication) - telefonia  
 teleport - be tele loka  
 telescope - teleskope  
-television - tele vide gi  
+television - televidion  
 tell (inform, instruct, pass information) - loge  
 tell (narrate) - fa kata  
 tellurium - telurium  
@@ -4419,9 +4418,11 @@ terbium - terbium
 terracotta - baka poto  
 terrain - geo forme  
 terrify - terife  
-terror - terure  
+terrifying (terrible) - terifike  
+terror - terur  
 terrorism - terurisme  
 terrorist - teruriste  
+terrorize - terurize  
 tesla (T) - tesla  
 test (challenge, trial) - teste  
 Tethys - Tetis  
@@ -4495,7 +4496,7 @@ titanium - titanium
 title (headline) - tema nam  
 to (toward, till, until, for) - to  
 to be centered (amid, in the middle) - a jong  
-toast (toasted bread) - xava pang  
+toast (toasted bread) - xava ban  
 tobacco - tabake  
 today - zai den  
 together (jointly, mutually) - a kon  
@@ -4640,7 +4641,7 @@ underside (underneath) - nice
 unexpected - anprevide di  
 union - unia  
 unit (measurement) - metri unta  
-unite (merge, integrate) - fa un xe  
+unite (merge, integrate) - unife  
 united - unifike  
 United Arab Emirates - Unifike Arabe Amiria (UAA)  
 United Kingdom - Britia  
@@ -4671,7 +4672,7 @@ useful (beneficial, advantageous) - faidike
 useful (practical) - uzike  
 user - uzer  
 username - uzer nam  
-utopia - eutopia  
+utopia - hautopia  
 Uzbekistan - Uzbeki  
 
 ## V  

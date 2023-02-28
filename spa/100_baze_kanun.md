@@ -45,9 +45,9 @@ Ellas se describien en más detalle más tarde en este sitio.
    Los adjetivos y adverbos tienen la misma forma.
    El adjetivo está antes del sustantivo que modifica,
    y el adverbo está antes del verbo que modifica.
-    - **un suga loga**
+    - **un suga loge**
       – Un habla rápida.
-    - **tu suga loga.**
+    - **tu suga loge.**
       – Tú hablas rápido.
 8. **Verbos:**
    Los verbos no cambian para persona, número, o tenso.
@@ -61,17 +61,17 @@ Ellas se describien en más detalle más tarde en este sitio.
       El mismo orden se usa en ambos declaraciones y preguntas.
     - Una oración pasiva se construye con la ayuda del verbo auxiliar pasivo **be**.
       Un efeto similar se puede lograr con el pronombre impersonal **se**.
-        - **pandunia be loga.**
+        - **pandunia be loge.**
           – Pandunia es hablado.
-        - **se loga pandunia.**
+        - **se loge pandunia.**
           – Uno habla Pandunia.
     - En la _structura de eje_, el objeto del verbo transitivo
       funcciona como el subjeto del verbo siguiente.
-        - **mi cing tu loga pandunia.**
+        - **mi cing tu loge pandunia.**
           – Yo te pido a tú hablar Pandunia.
     - Pronombres se pueden omitir cuando son obvios y superfluos.
-        - **_mi_ cing _tu_ loga pandunia.**
-          → **cing loga pandunia.**
+        - **_mi_ cing _tu_ loge pandunia.**
+          → **cing loge pandunia.**
           – Por favor habla Pandunia.
 10. **Construcción de las palabras:**
    En Pandunia, palabras se cambian solo cuando su significado se cambia.

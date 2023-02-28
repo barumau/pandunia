@@ -14,7 +14,7 @@ Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Pandun
 = isoja pöytiä  
 **men _gau_ meza**
 = korkeita pöytiä  
-**un bon jen**
+**un hau jen**
 = hyvä tuoli
 
 Adjektiivi voi olla myös substantiivin jälkeen.
@@ -39,9 +39,9 @@ Adverbi määrittää teonsanaa, adjektiivia tai toista adverbia.
 
 Tavan adverbi on verbin edellä.
 
-**tu _suga_ loga.**
+**tu _suga_ loge.**
 – Sinä _nopeasti_ puhut.  
-**damen _bon_ kitaba.**
+**damen _hau_ kitaba.**
 – He _hyvin_ kirjoittavat.
 
 Määritepartikkeli
@@ -61,7 +61,7 @@ Partikkelia
 **di**
 käytetään myös kun määrite määrittää toista määritettä.
 
-**un dai di_ bon buku**
+**un dai di_ hau buku**
 – _isosti_ hyvä kirja  
 **poli _bala di_ luba ja jen**
 – _voimakkaasti_ rakastavat ihmiset
@@ -99,17 +99,17 @@ Yhdysadverbi pannaan määrittelemänsä verbin edelle.
 
 **tre poli**
 – hyvin paljon  
-**mi _tre poli_ vol loga.**
+**mi _tre poli_ vol loge.**
 – Minä haluan _hyvin paljon_ puhua.  
-**mi vol _tre poli_ loga.**
+**mi vol _tre poli_ loge.**
 – Minä haluan puhua hyvin paljon.
 
 Yhdysadverbin voi myös panna lauseen loppuun,
 jolloin se määrittää lausetta kokonaisuutena.
 
-**mi vol loga _tre poli_.**
+**mi vol loge _tre poli_.**
 – I want to speak very much.  
-**sual tu sona _bas bon_?**
+**sual tu sona _bas hau_?**
 – Did you sleep well enough?
 
 
@@ -130,10 +130,10 @@ Sekä adjektiiveja että adverbeja voi verrata.
 
 Pikkusana **ka** suhteuttaa vertailevan adverbin vertailtavaan asiaan.
 
-**aple es max bon ka oranje.**
+**aple es max hau ka oranje.**
 = Omenat ovat parempia kuin appelsiinit.  
-**oranje es min bon ka aple.**
+**oranje es min hau ka aple.**
 = Appelsiinit ovat vähemmän hyviä kuin omenat.  
-**tu loga par bon ka mi.**
+**tu loge par hau ka mi.**
 = Sinä puhut yhtä hyvin kuin minä.
 

@@ -151,13 +151,13 @@ Czy ty jesteś lekarzem?
 Porada: Pytania tak/nie często zaczynają się od **sual**. Jest to zwykły czasownik, żaden specjaly _znacznik pytania_. Właściwie, poprzednie zdanie powstało z **mi sual tu doktar.**
 (Ja pytam, ty lekarz?) porzez opuszczenie pierwszego słowa.
 
-**sual tu bon?**
+**sual tu hau?**
 Jak się czujesz? (Dosłownie: _Czy ty jesteś dobry?_)
-**mi bon.**
+**mi hau.**
 Ja czuję się dobrze.
 **tu ne?**
 A ty?
-**mi no bon.**
+**mi no hau.**
 Ja nie czuję się dobrze.
 
 <small>Etymologia. **sual**
@@ -205,14 +205,14 @@ Nie jestem Sara.
 **mi no es davar.**
 Nie jestem lekarzem.
 
-**sual tu bon?**
+**sual tu hau?**
 Czy czujesz się dobrze?
-**ya. mi bon.**
+**ya. mi hau.**
 Tak, czuję się dobrze.
 
-**sual tu bon?**
+**sual tu hau?**
 Czy czujesz się dobrze?  
-**no, mi no bon.**
+**no, mi no hau.**
 Nie, nie czuję się dobrze.
 
 Możesz używać **no**
@@ -350,7 +350,7 @@ pochodzi z języków: hindi: नाम  "nām", perskiego: نام‏‎ "nām", 
 
 ### ha <small>mieć</small>
 
-**mi ha bon dom.**
+**mi ha hau dom.**
 Mam dobry dom.
 
 **da no ha pesa.**
@@ -421,7 +421,7 @@ Piję kawę.
 Porada: Znaczenie **yam**
 obejmuje i jedzenie i picie. Może się to na początku wydawać dziwne, ale niedługo zauważysz, że jesto dosyć poręczne! Zazwyczaj dopełnienie wyjaśnia, czy chodzi o jedzenie, picie czy oba.
 
-**mi yam kafe e pang.**
+**mi yam kafe e ban.**
 Spożywam kawę i chleb.
 
 
@@ -595,24 +595,24 @@ Przepraszam. Nie mówię w twoim języku.
 
 
 
-### loga <small>mówić</small>
+### loge <small>mówić</small>
 
-**tu loga ke?**
+**tu loge ke?**
 Co mówisz??
 
-**mi loga to tu.**
+**mi loge to tu.**
 Mówię do ciebie.
 
-**mimen loga to unale.**
+**mimen loge to unale.**
 Mówimy do siebie.
 
-**se loga "kot" a ke yang a pandunia?**
+**se loge "kot" a ke yang a pandunia?**
 Jak się mówi "kot" w Panduni?
 
 **"kot" es ke a pandunia?**
 Czym jest "kot" w Panduni?
 
-**mau loga "miau".**
+**mau loge "miau".**
 Kot mówi miau.
 
 
@@ -622,7 +622,7 @@ Kot mówi miau.
 **mi no bil audi tu.**
 Nie mogę cię usłyszeć.
 
-**cing loga max bala.**
+**cing loge max bala.**
 Proszę, mów głośniej.
 
 **mi audi muzika.**

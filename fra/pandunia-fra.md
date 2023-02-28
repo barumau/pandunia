@@ -261,6 +261,7 @@ ban - pain
 banana - banane  
 banda - bande  
 bandera - drapeau  
+bang - masse d'armes  
 bangla baxa - bengali  
 Bangla gogia - Bangladesh  
 banker - banquier  
@@ -587,8 +588,6 @@ estrontium - strontium
 etan - éthane  
 etanol - éthanol  
 etil - éthyle  
-euangil - évangile  
-eu loga - éloge  
 europium - europium  
 Europa - Europe  
 europa baluta - chêne pédonculé  
@@ -860,7 +859,7 @@ hanu - main
 hanu xaka - bras  
 hape - adapter (ajuster)  
 hapu - approprié (adapté, convenable, opportun)  
-harabu mahala - bidonville  
+harabe mahala - bidonville  
 Hartum - Khartoum  
 haste - hâte (précipitation)  
 • anhaste - lent  
@@ -868,6 +867,8 @@ hata - jusque (jusqu’à)
 hata di - voire (même)  
 hatar - danger  
 hau - bon  
+hau angil - évangile  
+hauloge - éloge  
 hau sin di - propice  
 haxi - baguettes  
 he - hein?  
@@ -921,7 +922,7 @@ holisme - holisme
 holiste - holistique  
 holonam - holonyme  
 holmium - holmium  
-horure - horreur  
+horur - horreur  
 hotel - hôtel  
 hua - fleur  
 hua koli - chou-fleur  
@@ -1209,6 +1210,7 @@ kube - cube
 kudi - coude  
 kudi metri - coudée  
 kuku - coucou  
+kule - esclave (serf)  
 kulte - cultiver  
 kulture - culture  
 kume - accumuler  
@@ -1245,7 +1247,6 @@ Latvia - Lettonie
 lau - vieux (âgé, ancien)  
 laurencium - lawrencium  
 laxe - lâcher (laisser)  
-laxa - lâcher (laisser)  
 lazanya - lasagne  
 lazur - azur  
 lazur petra - lapis-lazuli  
@@ -1263,7 +1264,9 @@ lexasle - étymologie
 lexeme - lexème  
 lexe fen - syllabe  
 lexe gense - genre grammatical  
+• rilexife - relexifier  
 lexe jama - vocabulaire (lexique)  
+lexunife - lexicaliser  
 liama - lama  
 libele - libellule  
 lider - dirigeant (leader)  
@@ -1292,9 +1295,9 @@ lixu - écureuil
 logive - loquace  
 loga - enregistrement  
 loga buku - livre de bord  
-loke - mettre (placer)  
 loke - lieu  
 lokal - local  
+lokize - mettre (placer)  
 long - long  
 long dure - longtemps  
 long durike - prolongé  
@@ -1529,7 +1532,7 @@ nege - nier
 negative - négatif  
 nekre - cadavre (corps)  
 nekrofilia - nécrophilie  
-nekrologa - nécrologie  
+nekrologe - nécrologie  
 nekrotomia - autopsie  
 nelu - quatre (4)  
 nen - an (année)  
@@ -1544,8 +1547,8 @@ nese - île
 nete gete - télécharger  
 neu di - nouveau  
 neu jen - néophyte  
-neu loga - néologisme  
-neu nati di - nouveau-né  
+neuloge - néologisme  
+neunatike - nouveau-né  
 neuta - nouveauté  
 neure - nerf  
 neuralgia - névralgie  
@@ -1663,7 +1666,7 @@ partaner - partenaire
 partia - partie (faction)  
 pas - passer  
 pas dau - passe (passage)  
-pas loga - mot de passe  
+pas lexe - mot de passe  
 pasporte - passeport  
 pasta - pâte  
 pasta petra - magma  
@@ -1946,7 +1949,7 @@ sexu - sexe
 sexulogia - sexologie  
 si - si  
 siborgium - seaborgium  
-sifa loga - adjectif  
+sifa loge - adjectif  
 sigar - cigarette  
 sikle - bicyclette  
 resikle - recycler  
@@ -2049,7 +2052,7 @@ telefon - téléphone
 telefon bute - cabine téléphonique  
 telefon lin - ligne téléphonique  
 teleskope - télescope (lunette)  
-tele vide gi - téléviseur  
+televidion - téléviseur  
 telurium - tellure  
 tema - sujet (thème)  
 tema nam - titre  

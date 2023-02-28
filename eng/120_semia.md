@@ -79,7 +79,7 @@ The base word is a person:
 | Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
 | **patre**  | 'father'     | 'fatherly'       | 'to father'  |
-| **bruse**  | 'sibling'    | 'siblinglike'    | 'to fraternize' |
+| **bra**    | 'sibling'    | 'siblinglike'    | 'to fraternize' |
 
 ### Quality words
 
@@ -91,7 +91,7 @@ The base word is a quality:
 
 | Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **bon**    | 'goodness'   | 'good, well'     | 'do good, make good, improve' |
+| **hau**    | 'goodness'   | 'good, well'     | 'do good, make good, improve' |
 | **huru**   | 'freedom'    | 'free'           | 'to free, to liberate' |
 
 ### Artifact words

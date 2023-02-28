@@ -205,13 +205,13 @@
 実際、上記の質問は **mi sual tu es dava ja.**(私は尋ねる、あなたは医者ですか?) の
 最初の単語を省略しただけです。
 
-**sual tu bon?**
+**sual tu hau?**
 お元気ですか? (文の通り：あなたは元気ですか?)  
-**mi bon.**
+**mi hau.**
 私は元気です。  
 **sual tu?**
 あなたは?  
-**mi no bon.**
+**mi no hau.**
 私は調子が悪いです。 (訳注:元気か否かは第三者が判断するので自ら言いません)
 
 <small>【語源】 **sual** アラビア語：سؤال (su'āl)、ヒンディー語：सवाल (savāl)、マレー語：soal、スワヒリ語：swali</small>
@@ -246,14 +246,14 @@
 **mi no dava ja.**
 私は医者ではありません。
 
-**sual tu bon?**
+**sual tu hau?**
 元気ですか?  
-**ya. mi bon.**
+**ya. mi hau.**
 はい。元気です。
 
-**sual tu bon?**
+**sual tu hau?**
 元気ですか?  
-**no. mi no bon.**
+**no. mi no hau.**
 いいえ。私は調子が悪いです。
 
 何かを否定するときは **no** を使います。
@@ -403,7 +403,7 @@
 
 ### ten <small>持っている、いる、所有している</small>
 
-**mi ten bon dom.**
+**mi ten hau dom.**
 私は良い家を所有しています。
 
 **da no ten pesa.**
@@ -471,7 +471,7 @@
 最初は奇妙に感じるかもしれませんが、すぐにそれが便利であることがわかるでしょう!
 動詞の目的語は食べることと飲むこと、またはその両方です。
 
-**mi yam yo kafe e pang.**
+**mi yam yo kafe e ban.**
 私はコーヒーとパンを食べています。
 
 
@@ -609,24 +609,24 @@
 すみません、あなたの話す言葉を(私は)話せません
 
 
-### loga <small>～と言う、話す、喋る</small>
+### loge <small>～と言う、話す、喋る</small>
 
-**tu loga ke?**
+**tu loge ke?**
 あなたは何と言いましたが?
 
-**mi loga to tu.**
+**mi loge to tu.**
 私はあなたへ話します。
 
-**mimen loga to semen.**
+**mimen loge to semen.**
 私達はお互いに向けて話しています(=私達は話し合っています)。
 
-**mon loga “ネコ” a ke yang a pandunia?**
+**mon loge “ネコ” a ke yang a pandunia?**
 「猫」はパンドゥニアで何と言いますか(=どのように言いますか)?
 
 **“ネコ” es ke a pandunia?**
 「猫」はパンドゥニアで何と言いますか? (訳注:答えは “ネコ” es mau.)
 
-**mau loga “miau”.**
+**mau loge “miau”.**
 猫は「ニャ～」と鳴いた。
 
 
@@ -638,7 +638,7 @@
 **mi no bil audi tu.**
 (あなたの声が私には)聞えません。
 
-**cing loga mas lika.**
+**cing loge mas lika.**
 大きな声で話してください。
 
 **mi audi yo muzika.**

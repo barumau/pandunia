@@ -67,7 +67,7 @@ Et pour dire le contraire, remplacez le simplement par **no** (qui signifie à l
 
 De la même façon, vous pouvez vous décrire en utilisant **me** suivi d'un mot pour vous décrire.
 
-**mi es bon.**
+**mi es hau.**
 – Je vais bien (Je suis bien).  
 **mi es man.**
 – Je suis un homme.  
@@ -109,7 +109,7 @@ qui ou quoi
 oui  
 **no**
 non ; ne pas être  
-**bon**
+**hau**
 bon  
 **doste**
 ami  
@@ -746,13 +746,13 @@ seule forme. Ils fonctionnement un peu comme le verbe anglais "to hit
 = Je le frappe / je l'ai frappé.
 
 En Pandunia tous les verbes fonctionnent ainsi ! Par exemple,
-**mi yam pang**
+**mi yam ban**
 peut signifier à la fois "Je mange du pain" et
 "J'ai mangé du pain", mais en général un seul temps est retenu selon
 le contexte de la discussion. Par exemple lorsque les gens parlent à
 propos d'un petit déjeuner qui a déjà été consommé.
 
-**mi yam pang a ye suba yam.**
+**mi yam ban a ye suba yam.**
 = J'ai mangé du pain pour le petit déjeuner.
 
 Il y a également des expressions de temps spécifiques.
@@ -798,7 +798,7 @@ ou bien pour souligner le fait que le temps du récit n'a pas changé.
 
 **mi pas ten un mau.**
 = J'ai eu un chat dans le passé.
-**da es bon mau.**
+**da es hau mau.**
 = C'était un bon chat.
 **mi ten un vaf a zai.**
 = J'ai un chien maintenant.
@@ -835,7 +835,7 @@ présent, en cours, actuel
 futur  
 **darba**
 frapper, battre  
-**pang**
+**ban**
 pain  
 **suba yam**
 repas du matin, petit-déjeuner  

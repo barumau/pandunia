@@ -240,13 +240,13 @@ In fact, the previous question is simply abbreviated from
 **mi sual tu es davar**
 (I ask, you are doctor?) by dropping out the first word.
 
-**sual tu bon?**
+**sual tu hau?**
 How are you? (Literally: _Are you good?_)  
-**mi bon.**
+**mi hau.**
 I'm good.  
 **sual tu?**
 And you?  
-**mi no bon.**
+**mi no hau.**
 I'm not good.
 
 <small>Etymology. **sual**
@@ -279,14 +279,14 @@ I'm not Sarah.
 **mi no es davar.**
 I'm not a doctor.
 
-**sual tu bon?**
+**sual tu hau?**
 Are you well?  
-**ya. mi bon.**
+**ya. mi hau.**
 Yes, I'm well.
 
-**sual tu bon?**
+**sual tu hau?**
 Are you well?  
-**no, mi no bon.**
+**no, mi no hau.**
 No, I'm not well.
 
 You can use
@@ -458,7 +458,7 @@ English *name*.</small>
 
 ### ha <small>have</small>
 
-**mi ha un bon dom.**
+**mi ha un hau dom.**
 I have a good house.
 
 **da no ha pesa.**
@@ -533,7 +533,7 @@ covers both eating and drinking.
 It can feel odd at first but soon you will see that it is quite handy!
 Usually the object of the verb tells is it about eating, drinking or both.
 
-**mi yam kafe e pang.**
+**mi yam kafe e ban.**
 I'm having coffee and bread.
 
 
@@ -670,28 +670,28 @@ I can speak a little Pandunia.
 **mi no bil englix.**
 I can't speak English.
 
-**maf. mi no bil tu su baxa.**
+**maf. mi no bil tu su baxe.**
 Sorry, I can't speak your language.
 
 
-### loga <small>to say, speak, talk</small>
+### loge <small>to say, speak, talk</small>
 
-**tu loga ke?**
+**tu loge ke?**
 What did you say?
 
-**mi loga to tu.**
+**mi loge to tu.**
 I talk to you.
 
-**mimen loga to semen.**
+**mimen loge to semen.**
 We talk to each other.
 
-**se loga "cat" a ke yang a pandunia?**
+**se loge "cat" a ke yang a pandunia?**
 How do you say "cat" in Pandunia?
 
 **"cat" es ke a pandunia?**
 What is "cat" in Pandunia?
 
-**mau loga "miau".**
+**mau loge "miau".**
 Cat says "meow".
 
 
@@ -703,7 +703,7 @@ Listen to me!
 **mi no bil audi tu.**
 I can't hear you.
 
-**cing loga max bala.**
+**cing loge max bala.**
 Please speak louder.
 
 **mi audi muzika.**
@@ -752,15 +752,15 @@ Please, write your address.
 Please, write it here!
 
 
-### baxa <small>speak a language, communicate</small>
+### baxe <small>speak a language, communicate</small>
 
-**sual tumen baxa pandunia.**
+**sual tumen baxe pandunia.**
 Do you speak Pandunia?
 
-**mimen baxa pandunia.**
+**mimen baxe pandunia.**
 We speak Pandunia.
 
-**sual tu bil baxa englix?**
+**sual tu bil baxe englix?**
 Can you speak English?
 
 **franse, espanya, portugal, rus**
@@ -1020,10 +1020,10 @@ What is it like?
 **sual da es neu?**
 Is it new?
 
-**ke es max boni?**
+**ke es max hau?**
 Which is better?
 
-**ye es maxim bon (de pan).**
+**ye es maxim hau (de pan).**
 This is the best (of all).
 
 **da kosta ke?**

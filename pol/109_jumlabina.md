@@ -17,7 +17,7 @@ Obserwacje to najprostszy typ zdania. Mogą się składać z tylko jednego słow
 
 Normalnie zdanie składa się z podmiotu i predykatu. W najprostrzych zdaniach podmiot to zaimek osobowy, a predykat to przymiotnik lub rzeczownik.
 
-**mi bon.**
+**mi hau.**
 – Jestem dobry.  
 **da neu.**
 – To jest nowe.  
@@ -26,7 +26,7 @@ Normalnie zdanie składa się z podmiotu i predykatu. W najprostrzych zdaniach p
 
 Słowo **no** jes dodawane, by tworzyć przeczenie.
 
-**mi no bon.**
+**mi no hau.**
 – Nie jestem dobry.  
 **da no neu.**
 – To nie jest nowe.  
@@ -44,7 +44,7 @@ Również dwa zaimki osobowe mogą być zestawione.
 
 Gdy podmiot jest rzeczownikiem, słowo **es** (tak) jest dodawane przed predykatem w zdaniach pozytywnych. Przeczenia używają **no**, jak wyżej.
 
-**Sara es bon.**
+**Sara es hau.**
 – Sara jest dobra.  
 **ite es dai.**
 – Kamień jest duży.  
@@ -98,7 +98,7 @@ Jest tylko dopełnienie i orzeczenie.
 – Ty jesteś widziany.  
 **muzika be audi.**
 – Muzyka jest słyszana.  
-**pang be baka.**
+**ban be bake.**
 – Chleb jest pieczony.
 
 Tu skupienie pada na dopełnienie, które jest pierwszym słowem w zdaniu.
@@ -118,7 +118,7 @@ W szyku zdania dopełnienie-orzeczenie (VO) skupienie pada na orzeczenie.
 – Widzenie cię.  
 **audi muzika.**
 – Słuchanie muzyki.  
-**baka pang.**
+**bake ban.**
 – Pieczenie chleba.
 
 
@@ -180,14 +180,14 @@ Dochodzi do tego szczególnie w rozkazach i prośbach.
 
 ### Podstawowe spójniki
 
-**i**
+**e**
 – i (łączy dwa podobne słowa lub wyrażenia)  
 **o**
 – lub (łączy dwa alternatywne słowa lub wyrażenia)  
 **ama**
 – ale (wprowadza słowo lub wyrażenie, które które kontrastuje lub zaprzecza poprzedzającemu słowu lub wyrażeniu)
 
-**mi suka mau i vaf.**
+**mi suka mau e vaf.**
 – Lubię koty i psy.  
 **mi suka mau o vaf.**
 – Lubię koty lub psy.  
@@ -378,11 +378,11 @@ Przyimki mogą być też użyte jako rozpoczęcie zdania okolicznikowego czasu.
 **mi a dom.**
 _Stoję przy domu._  
 
-**mi loga a pandunia.**
+**mi loge a pandunia.**
 _Mówię przy Panduni._  
 Mówię w Panduni.
 
-**mi loga a doste a pandunia a fon.**
+**mi loge a doste a pandunia a fon.**
 _Mówię przy przyjaciołach przy Panduni przy telefonie._
 Mówię z przyjaciółmi w Panduni przez telefon.
 
@@ -390,9 +390,9 @@ Mówię z przyjaciółmi w Panduni przez telefon.
 
 W Panduni kilka czasowników działa jak przyimki lub przypadki gramatyczne w języku polskim.
 
-**mi gata pang.**
+**mi gata ban.**
 – Kroję chleb.  
-**mi gata pang, uze caku.**
+**mi gata ban, uze caku.**
 – Kroję chleb, używam noża. (Kroję chleb nożem.)
 
 **mi dele dura du hor.**
@@ -477,7 +477,7 @@ Przymiotniki i liczebniki wskazują na ich główne słowo, rzeczownik:
 
 Hierarchia części mowy w Panduni od bardziej do mniej centralnych jest, jak następuje.
 
-1. Spójniki: i, o, ama
+1. Spójniki: e, o, ama
 2. Łączniki: su, di, de
 3. Przyimki: a, to, de
 4. Czasowniki
@@ -491,15 +491,15 @@ Na przykład, chociaż **i** jest ogólnie wyżej niż **sabu**, tutaj jego zasi
 **sabu** jest na szczycie, bo łączy dwa zdania podrzędne.
 
 
-    yusef i Sara vol xula pandunia, sabu da es bon dunia baxa.
+    yusef e Sara vol xula pandunia, sabu da es hau dunia baxa.
 
                         sabu
                ┌──────────┴──────────┐
               vol                    es
           ┌────┴──────┐           ┌──┴──┐
-          i         xula        da    baxa
+          e         xula        da    baxa
       ┌───┴───┐    ┌──┴────┐            |
     yusef   Sara       pandunia       dunia
                                         |
-                                       bon
+                                       hau
 

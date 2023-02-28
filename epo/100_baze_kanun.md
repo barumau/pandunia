@@ -34,9 +34,9 @@
 7. **Modifaj vortoj:**
    Adjektivoj kaj adverboj havas saman formon.
    Ili antaŭas la vorton, kiun ili modifas.
-    - **un suga loga**
+    - **un suga loge**
       – rapida parolo.
-    - **tu suga loga.**
+    - **tu suga loge.**
       – Vi rapide parolas.
 8. **Verboj:**
    Verboj ne ŝanĝiĝas laŭ persono, nombro aŭ tempo.
@@ -50,17 +50,17 @@
       La sama ordo estas uzata kaj en deklaroj kaj en demandoj.
     - Pasiva frazo estas kreita per helpo de verbo **be**.
       Oni povas atingi similan rezulton per la nepersona pronomo **se**.
-        - **pandunia be loga.**
+        - **pandunia be loge.**
           – Pandunia estas parolita.
-        - **se loga la pandunia.**
+        - **se loge la pandunia.**
           – Oni parolas pandunian.
     - En la _ĉarnira konstruo_ la objekto de la unua verbo
       rolas kiel la subjekto de la dua verbo.
-        - **mi cing tu loga pandunia.**
+        - **mi cing tu loge pandunia.**
           – Mi petas ke vi parolas Pandunia.
     - Oni povas forĵeti pronomojn kiam ili estas nenecesaj.
-        - **_mi_ cing _tu_ loga pandunia.**
-          → **cing loga pandunia.**
+        - **_mi_ cing _tu_ loge pandunia.**
+          → **cing loge pandunia.**
           – Bonvolu paroli Pandunian.
 10. **Vortfarado:**
    Oni povas krei novajn vortojn kunmetante aliajn vortojn.

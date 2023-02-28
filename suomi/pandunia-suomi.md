@@ -369,6 +369,7 @@ bande - sitoa (kääriä siteeseen)
 bandaje - side  
 banda - ryhmä (työryhmä, yhtye, bändi)  
 bandera - lippu  
+bang - nuija (maila, pamppu)  
 bangla baxa - bengali  
 Bangla gogia - Bangladesh  
 banke - tallettaa (tallentaa)  
@@ -484,7 +485,6 @@ be mirde - vaimentua
 be nam - olla nimeltään  
 be nice - alittaa  
 be par - olla yhtä kuin  
-be pasi - sattua (käydä kipeää)  
 be pute - mädäntyä (mädätä)  
 be raste - kasvaa  
 be reste - jäädä jäljelle  
@@ -1058,13 +1058,6 @@ etan - etaani
 etanol - etanoli  
 etil - etyyli  
 Etiopia - Etiopia  
-eu - hyvä (eettisesti hyvä)  
-euangil - evankeliumi(hyvä sana)  
-eudeisme - euteismi (usko jumalan hyvyyteen)  
-eugenisme - eugeniikka  
-eu loga - ylistys  
-euloga - ylistää (puhua hyvää, kehua)  
-eutopia - utopia  
 Eurasia - Euraasia  
 eureka - löytää (keksiä)  
 euro - euro (€)  
@@ -1073,7 +1066,7 @@ Europa - Eurooppa
 europa baluta - tammi  
 europa di - eurooppalainen  
 Europa luna - Europa-kuu  
-Europa Unta - Euroopan unioni  
+Europa Unia - Euroopan unioni  
 exgogia - ulkomaa  
 exgogike - ulkomaalainen  
 extre - ulkoinen  
@@ -1105,7 +1098,6 @@ fa fei - lentää
 fa fokus - keskittää  
 fa gola - ympäröidä (piirittää)  
 fa halal - sallia (antaa lupa)  
-fa haram - kieltää  
 fa has - erottaa (nähdä ero)  
 fa hava - tuulla (puhaltaa)  
 fa hen - vihata (inhota)  
@@ -1125,7 +1117,7 @@ fa lanse grafi - heijastaa kuvia (projisoida)
 fa lenxi - harjoitella (treenata)  
 fa libu - nostaa pystyyn  
 fa lika - vahvistaa (voimistaa)  
-fa linke - yhdistää  
+fa linke - yhdistää (kytkeä yhteen)  
 fa lona - keskustelu (debatti)  
 fa manera - käyttäytyä  
 fa mantra - messuta  
@@ -1202,7 +1194,6 @@ fa transe - kulkea poikki, läpi tai yli
 fa trati - sopia (tehdä sopimus)  
 fa truke - jekuttaa (petkuttaa)  
 fa ulul - ulvoa  
-fa un xe - yhdistää  
 fa vai klus - sulkea pois  
 fa vai tense - venyttää (pingottaa)  
 fa valu - arvottaa  
@@ -1262,11 +1253,13 @@ fenife - jakaa (paloitella)
 fenil - fenyyli  
 fen lize - analyysi (osiin hajottaminen)  
 fenol - fenoli  
-fere - pitää jnkn (suhtautua)  
-• disfere - erottaa (pitää erilaisena)  
-• infere - päätyä johtopäätökseen  
-• prefere - pitää parempana (pitää etusijalla)  
-• refere - viitata jhkn  
+fere - viitata  
+• defere - ohittaa (viitata pois)  
+• disfere - erottaa (viitata erilleen)  
+• infere - päätellä (viitata jhkn)  
+• prefere - pitää etusijalla (pitää parempana)  
+• profere - tuoda esiin (viitata esille)  
+• refere - viitata takaisin (viitata lähteeseen)  
 fermium - fermium  
 fero - rauta  
 feste - juhlia (juhlat)  
@@ -1694,12 +1687,11 @@ haos - kaaos
 hape - sovittaa (mukauttaa)  
 hapu - sopiva (passeli)  
 harabe - pilata (raunioittaa)  
-harabu - pilalla (raunioina)  
-harabu mahala - slummi  
-haram - kielletty  
-haram liste - musta lista  
-harmoni - harmonia  
-harmoni di - harmoninen  
+harabe - pilalla (raunioina)  
+harabe mahala - slummi  
+haram - pyhä (kielletty, tabu, haram)  
+harmonia - harmonia  
+harmonike - harmoninen  
 harnes - valjaat  
 Hartum - Khartoum  
 has - erikoinen (erityinen)  
@@ -1711,14 +1703,19 @@ hata di - jopa
 hatar - vaara  
 hatar di - vaarallinen  
 hau - hyvä  
+hau angil - evankeliumi(hyvä sana)  
+haudeisme - euteismi (usko jumalan hyvyyteen)  
+haugenisme - eugeniikka  
 hau gradu - nostaa tasoa  
 hau guste di - herkullinen (nami)  
+hauloge - ylistää (puhua hyvää, kehua; ylistys, kehu)  
 hau moral - hyve  
 hau moral di - hyveellinen (hyvä)  
 hau rai - hyväksyä  
 hau sifa di - laadukas (hyvä)  
 hau sifata - laatu (laadukkuus, erinomaisuus, hyvyys)  
 hau sin di - lupaava (hyvältä vaikuttava)  
+hautopia - utopia  
 hau vide di - hyvännäköinen (kaunis, komea)  
 hau zar - hyvä onni (tuuri, säkä, lykky)  
 hava - tuuli (puhallus)  
@@ -1819,7 +1816,8 @@ holmium - holmium
 Hong Gong - Hong Kong  
 hore - väristys (kauhu)  
 horife - värisyttää (kauhistuttaa)  
-horure - väristys (kauhu)  
+horifike - kauhea (kauhistuttava)  
+horur - väristys (kauhu)  
 hormon - hormoni  
 Horvatia - Kroatia  
 hotel - hotelli  
@@ -2086,7 +2084,7 @@ kandela - kandela
 kandi - makeinen (karkki, namu)  
 kane - tanko (pinna, sauva, patukka)  
 kane kasa - häkki  
-kane pang - patonki (ranskanleipä)  
+kane ban - patonki (ranskanleipä)  
 kane sor - salpa (säppi)  
 kanga - kampa  
 kangaru - kenguru  
@@ -2377,7 +2375,7 @@ kuker - kokki
 kuke kamar - keittiö  
 Kuke nesia - Cookin saaret  
 kuku - käki  
-kul - upea (hieno)  
+kule - orja (kuli)  
 kulombe - kulombi (mittayksikkö C)  
 kulte - vaalia  
 kulture - kulttuuri  
@@ -2438,8 +2436,6 @@ lau di - laoslainen
 laurencium - lawrencium  
 laxe - löysä (löysätä, päästää menemään)  
 • relaxe - rentoutua (rentouttaa)  
-laxa - löysä (löysätä, päästää menemään)  
-• relaxa - rentoutua (rentouttaa)  
 lazanya - lasagne  
 lazur petra - lapislatsuli  
 le - saavuttaa (saavutettua tilaa ilmaiseva apuverbi)  
@@ -2469,6 +2465,7 @@ lexofiliste - logofiili
 lexe gense - kieliopillinen suku  
 lexe jama - sanasto  
 lexe liste - sanaluettelo  
+lexunife - leksikalisoitua  
 Libanen - Libanon  
 libele - sudenkorento  
 Liberia - Liberia  
@@ -2524,9 +2521,9 @@ logikal - looginen
 logive - puhelias  
 loga - tallenne (rekisteri, loki)  
 loga buku - lokikirja  
-loke - panna (asettaa, sijoittaa)  
 loke - paikka (sija, sijainti)  
 lokal - paikallinen  
+lokize - panna (asettaa, sijoittaa)  
 lona - väittely (debatti)  
 long - pitkä  
 long dure - kauan (pitkän aikaa)  
@@ -2911,7 +2908,7 @@ nam - nimi
 • dusnamize - solvata (loukata)  
 nam hin - nimetön  
 namize - nimittää (kutsua)  
-nam loga - substantiivi (nimisana)  
+nam lexe - substantiivi (nimisana)  
 Namibia - Namibia  
 nan - uros (mies)  
 nan per (man) - aviomies  
@@ -2968,7 +2965,7 @@ negative - kielteinen (negatiivinen)
 nekre - ruumis (vainaja)  
 nekrofilia - nekrofilia  
 nekroliste - kuolinluettelo  
-nekrologa - muistosanat (muistopuhe, muistokirjoitus)  
+nekrologe - muistosanat (muistopuhe, muistokirjoitus)  
 nekrotomia - ruumiinavaus (obduktio)  
 nelu - neljä (4)  
 nelu di galope - neli (kiitolaukka)  
@@ -2994,8 +2991,8 @@ neu di - uusi (vasta tehty, käyttämätön)
 neu fito - tulokaskasvi (neofyytti)  
 neu jen - noviisi (uusikko, vasta-alkaja)  
 neu Kaledonia - Uusi-Kaledonia  
-neu loga - uudissana  
-neu nati di - vastasyntynyt  
+neuloge - uudissana  
+neunatike - vastasyntynyt  
 neuta - uutuus  
 neu Zelande - Uusi-Seelanti  
 neure - hermo  
@@ -3217,12 +3214,14 @@ partia - osapuoli (puolue)
 pas - mennä ohi tai läpi  
 pas dau - sola (läpikulku)  
 pas di - ohitettu (mennyt)  
-pas loga - tunnussana  
+pas lexe - tunnussana  
 paska - pääsiäinen  
 paskal - pascal (Pa)  
 pasporte - passi  
 pasta - tahna (tahdas)  
-pate - sairaus (tauti)  
+pate - kärsiä (potea; kärsimys, sairaus)  
+• konpate - kärsiä yhdessä  
+• konpatia - kanssakärsimys (myötätunto)  
 patogener - patogeeni  
 patike - potilas  
 patike - sairas  
@@ -3341,7 +3340,7 @@ plutonium - plutonium
 poke - pokeri  
 poli - paljon (monta)  
 poli baxa di - monikielinen  
-poli deu sim - polyteismi (monijumalisuus)  
+polideisme - polyteismi (monijumalisuus)  
 poli fase - monitahokas  
 poli gona - monikulmio (polygoni)  
 poli marta - taajuus (tiheys)  
@@ -3736,7 +3735,7 @@ Sibiria - Siperia
 siborgium - seaborgium  
 sifa - laatu (ominaisuus, ominaispiirre, määrite)  
 sifa di - kuvaileva (määrittelevä)  
-sifa loga - adjektiivi (laatusana)  
+sifa loge - adjektiivi (laatusana)  
 sigar - savuke tai sikari  
 sikisme - sikhiläisyys  
 sikiste - sikhi  
@@ -3774,7 +3773,7 @@ Skandia - Skandinavia
 skandium - skandium  
 Skotia - Skotlanti  
 skulte - veistää kuvaa  
-Slave - slaavilainen  
+slavike - slaavilainen  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
 sofe - viisas  
@@ -3944,15 +3943,14 @@ tehnokratia - teknokratia
 tehnologia - tekniikka (teknologia)  
 tela - kangas  
 tela gi - kutomakone (kangaspuut)  
-tele - etäisyys (kaukaisuus)  
-tele di - kaukainen  
+tele - kaukainen  
 telefon - puhelin  
 telefon bute - puhelinkoppi  
 telefon lin - puhelinjohto  
 telefon nume - puhelinnumero  
 teleskope - kaukoputki (teleskooppi)  
-teleta - etäisyys  
-tele vide gi - televisio  
+teleta - etäisyys (kaukaisuus)  
+televidion - televisio  
 telurium - telluuri  
 Telugu - telugu (eräs intialainen kieli)  
 tema - aihe (teema)  
@@ -3973,9 +3971,13 @@ tenta - houkutella
 teori - teoria  
 tepe - teippi (nauha)  
 tere - pelko (kauhu, terrori)  
-terure - kauhu (terrori)  
+• detere - pelottaa pois  
+terife - pelottaa  
+terifike - pelottava  
+terur - kauhu (terrori)  
 terurisme - terrorismi  
 teruriste - terroristi  
+terurize - terrorisoida (pelotella)  
 terbium - terbium  
 terca - vino  
 • hipotermia - hypotermia (vajaalämpöisyys)  
@@ -4127,10 +4129,11 @@ Umbriel - Umbriel
 umur - ikä  
 umur di - iäkäs  
 un - yksi (1)  
-undeuisme - monoteismi (yksijumalisuus)  
+undeisme - monoteismi (yksijumalisuus)  
 undurike - yhtäjaksoinen  
 un fen du - puoli (puolikas, ½)  
 unia - liitto (unioni)  
+unife - yhdistää (panna yhteen)  
 unifike - yhtenäinen  
 Unifike Arabe Amiria (UAA) - Yhdistyneet Arabiemiirikunnat  
 Unifike Statia de Amerika (USA) - Yhdysvallat (ns. Amerikka)  
@@ -4356,7 +4359,7 @@ xatanike - pirullinen
 xatanisme - satanismi (paholaisenpalvonta)  
 xataniste - satanisti  
 xava - paahtaa (grillata, gratinoida, paistaa)  
-xava pang - paahtoleipä  
+xava ban - paahtoleipä  
 xaxa - kahista  
 xayu - hai  
 xe - asia  

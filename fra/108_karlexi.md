@@ -209,11 +209,11 @@ Les prépositions peuvent être aussi complétées par un groupe verbale. Dans c
 _Je suis debout avec maison._  
 Je me tiens devant la maison / tout près de la maison.
  
-**mi loga a pandunia.**  
+**mi loge a pandunia.**  
 _Je parle avec pandunia._  
 Je parle en pandunia.
  
-**mi loga a doste a pandunia a fon.**  
+**mi loge a doste a pandunia a fon.**  
 _Je parle avec ami.e avec pandunia avec téléphone._  
 Je parle avec un ami.e en pandunia au téléphone.
 
@@ -221,9 +221,9 @@ Je parle avec un ami.e en pandunia au téléphone.
 
 En pandunia certains verbes fonctionnent comme le feraient des prépositions en français.
 
-**mi gata pang.**
+**mi gata ban.**
 – Je coupe pain.  
-**mi gata pang, uze caku.**
+**mi gata ban, uze caku.**
 – Je coupe pain, utilise un couteau. ~ Je coupe du pain avec un couteau.
 
 **mi dele dur du hor.**

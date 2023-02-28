@@ -112,7 +112,7 @@ the previous rules apply also to adjective subjects and verb subjects.
 – Young is beautiful.  
 **jun – no lau.** ~ **jun no es lau.**
 – Young is not old.  
-**gani – bon.** ~ **gani es bon.**
+**gani – hau.** ~ **gani es hau.**
 – Singing is good.  
 **gani – no dus.** ~ **gani no es dus.**
 – Singing is not bad.  
@@ -277,7 +277,7 @@ Subject and object can be noun phrases that consist of many words,
 and there can be a series of verbs (i.e. a serial verb) instead of a singular verb.
 In such cases the boundaries between the sentence elements can become doubtful.
 
-**xiu baku meme vol xuru yam bon seng cau.**
+**xiu baku meme vol xuru yam hau seng cau.**
 – Little white sheep want to start to eat good fresh grass.
 
 Boundaries between sentence elements can be marked with little words, like
@@ -294,7 +294,7 @@ Boundaries between sentence elements can be marked with little words, like
 **yo**
 'some'.
 
-**la xiu baku meme *ya* vol xuru yam *la* bon seng cau.**
+**la xiu baku meme *ya* vol xuru yam *la* hau seng cau.**
 – The little white sheep want to start to eat that good fresh grass.
 
 
@@ -949,7 +949,7 @@ It can also introduce a statement that may be contrary to expectations.
 
 **tu kitabe da, he? – na, no le.**
 – Did you write it? – Well, not yet.  
-**da bon, ne? – na, ya.**
+**da hau, ne? – na, ya.**
 – It's good, isn't it? – Well, yes.
 
 **o**

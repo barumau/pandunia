@@ -49,7 +49,7 @@ Del mismo modo puede describirse diciendo
 **mi es**
 seguida por una palabra que lo describa.
 
-**mi es bon.**
+**mi es hau.**
 - Yo soy bueno.  
 **mi es man.**
 - Soy un hombre.  
@@ -91,7 +91,7 @@ quién? qué?
 ser  
 **no**
 no  
-**bon**
+**hau**
 bueno  
 **doste**
 amigo, amiga  
@@ -623,13 +623,13 @@ perro.
 ## Pasado, presente y futuro
 
 Pandunia no tiene conjugaciones de verbos. Todos los verbos tienen solo
-una forma para todos los tiempos. Por ejemplo, **mi yam pang** puede
+una forma para todos los tiempos. Por ejemplo, **mi yam ban** puede
 significar «comí pan», «como pan», o «comeré pan», pero por lo
 general solo un significado tiene sentido en el contexto de la
 discusión. Por ejemplo, si habla de la desayuno de la temprana
 previa, la oración dice del tiempo pasado.
 
-**mi yam pang a ye suba yam.**
+**mi yam ban a ye suba yam.**
 – Comí pan para este desayuno.
 
 En adición, hay palabras del tiempo espicificas.
@@ -678,7 +678,7 @@ que todavía se está hablando en el mismo tiempo.
 
 **mi pas ha un mau.**
 – Yo tuve un gato en el pasado.  
-**da es bon mau.**
+**da es hau mau.**
 – Ella fue una buena gata.  
 **mi ha un vaf a zai.**
 – Yo tengo un perro en el momento.
@@ -764,7 +764,7 @@ Pueden haber mas de dos verbos en serie.
 – Yo empiezo a aprender pandunia.  
 **mi vol xuru xula pandunia.**
 – Yo quiero empezar a aprender Pandunia.  
-**mi vol xuru xula loga pandunia.**
+**mi vol xuru xula loge pandunia.**
 – Yo quiero empezar a aprender a hablar Pandunia.
 
 
@@ -781,7 +781,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 – a  
 **fokus**
 – enfocar, concentrarse  
-**loga**
+**loge**
 – hablar, charlar  
 **xuru**
 – empezar, comenzar  

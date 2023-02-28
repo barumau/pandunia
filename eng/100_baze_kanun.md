@@ -42,9 +42,9 @@ They are described in more detail later in this document.
    The adjective and the adverb have the same form.
    The adjective modifier is before the noun that it modifies,
    and the adverb modifier is before the verb that it modifies.
-    - **un suga loga**
+    - **un suga loge**
       – A fast speech.
-    - **tu suga loga.**
+    - **tu suga loge.**
       – You speak fast.
 8. **Verbs:**
    The verb does not change in person, number and tense.
@@ -58,17 +58,17 @@ They are described in more detail later in this document.
       The same order is used in declarations and questions.
     - A passive sentence is created with the help of the passive auxiliary verb **be**.
       A similar effect can be also reached with the impersonal pronoun **se**.
-        - **pandunia be loga.**
+        - **pandunia be loge.**
           – Pandunia is spoken.
-        - **se loga pandunia.**
+        - **se loge pandunia.**
           – One speaks Pandunia.
     - In the _pivot structure_, the object of the transitive verb
       functions as the subject of the following verb.
-        - **mi cing tu loga pandunia.**
+        - **mi cing tu loge pandunia.**
           – I ask you to speak Pandunia.
     - Pronouns can be left out when they are obvious and redundant.
-        - **_mi_ cing _tu_ loga pandunia.**
-          → **cing loga pandunia.**
+        - **_mi_ cing _tu_ loge pandunia.**
+          → **cing loge pandunia.**
           – Please speak Pandunia.
 10. **Word building:**
    In Pandunia, words change only when their actual meaning changes.

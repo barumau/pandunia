@@ -146,13 +146,13 @@ Adjektivoj estas antaŭ la vorto, kiun ili modifas.
 
 **un nove ame**
 – nova amo  
-**la bon pai**
+**la hau pai**
 – bona torto
 
 Aldonu modifvorton antaŭ verboj.
 La adverboj povas esti markita de vorteto **di**.
 
-**mi bon vide tu.**
+**mi hau vide tu.**
 – Mi bone vidas vin.  
 **tu vide di ame da.**
 – Vi vidable amas lin aŭ ŝin.

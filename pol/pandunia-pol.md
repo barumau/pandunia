@@ -346,6 +346,7 @@ bande - związać, wiązać; zapiąć, zapinać
 bandaje - taśma; bandaż  
 banda - zespół (drużyna, grupa)  
 bandera - flaga, sztandar  
+bang -   
 bangla baxa - banglijski  
 Bangla gogia - Bangladesz  
 banke - oszczędzać (deponować)  
@@ -462,7 +463,6 @@ be mirde - niknąć (blaknąć, gasnąć, słabnąć)
 be nam - być wezwanym, być wzywanym, być nazwanym, być nazywanym  
 be nice - iść w dół (iść pod spód, iść na dno)  
 be par -   
-be pasi - cierpieć  
 be pute - rozłożyć się (rozkładać się, gnić, psuć się)  
 be raste - wzrastać  
 be reste - zostać, zostawać  
@@ -1069,13 +1069,6 @@ etan -
 etanol -   
 etil -   
 Etiopia - Etiopia  
-eu - korzystny (dobry)  
-euangil - ewangelia  
-eudeisme -   
-eugenisme -   
-eu loga - laudacja  
-euloga -   
-eutopia -   
 Eurasia - Eurazja  
 eureka - znaleźć, znajdywać, odkryć, odkrywać  
 euro - euro (€)  
@@ -1084,7 +1077,7 @@ Europa - Europa
 europa baluta - dąb szypułkowy  
 europa di - europejski  
 Europa luna -   
-Europa Unta - Unia Europejska (EU)  
+Europa Unia - Unia Europejska (EU)  
 exgogia - zagranica  
 exgogike - zagraniczny  
 extre -   
@@ -1120,7 +1113,6 @@ fa fei - latać, lecieć
 fa fokus - skupić, się, skoncentrować się  
 fa gola - otoczyć, otaczać  
 fa halal - pozwolić, pozwalać, zezwolić, zezwalać  
-fa haram - zabronić (wzbronić, zakazać)  
 fa has - rozróżniać (rozróżnić)  
 fa hava - dmuchać  
 fa hen -   
@@ -1222,7 +1214,6 @@ fa transe - przejść, przechodzić, przejechać, przejeżdżać
 fa trati - zgodzić się (umówić się)  
 fa truke - oszukać (oszukiwać  
 fa ulul - wyć  
-fa un xe - jednoczyć  
 fa vai klus -   
 fa vai tense -   
 fa valu -   
@@ -1287,9 +1278,11 @@ fenil -
 fen lize - analizować (analiza)  
 fenol -   
 fere -   
+• defere -   
 • disfere -   
 • infere -   
 • prefere -   
+• profere -   
 • refere -   
 fermium - ferm  
 fero - żelazo  
@@ -1751,12 +1744,11 @@ haos - chaos, nieporządek; wrzawa, zgiełk
 hape -   
 hapu -   
 harabe - rujnować, dewastwować, burzyć  
-harabu - zły, zrujnowany, zepsuty  
-harabu mahala - slums  
+harabe - zły, zrujnowany, zepsuty  
+harabe mahala - slums  
 haram - zabroniony (wzbroniony, nielegalny, haram, tabu)  
-haram liste -   
-harmoni - harmonia  
-harmoni di - harmoniczny  
+harmonia - harmonia  
+harmonike - harmoniczny  
 harnes - zaprzęc, zaprzęgać  
 Hartum -   
 has - specjalny, wyraźny, wyrazisty  
@@ -1769,14 +1761,19 @@ hata di - nawet
 hatar - zagrożenie, niebezpieczeństwo  
 hatar di - niebezpieczny  
 hau - dobry  
+hau angil - ewangelia  
+haudeisme -   
+haugenisme -   
 hau gradu - aktualizować (zaktualizować, ulepszać, ulepszyć)  
 hau guste di - pyszny  
+hauloge - laudacja  
 hau moral - cnota (moralność)  
 hau moral di - cnotliwy (prawy)  
 hau rai -   
 hau sifa di - wspaniały  
 hau sifata - cecha, atrybut, własność; -ość  
 hau sin di - obiecujący (dobrze wróżący)  
+hautopia -   
 hau vide di - przystojny, atrakcyjny, ładny  
 hau zar - dobry los, szczęście  
 hava - wiatr  
@@ -1885,7 +1882,8 @@ holmium - holm
 Hong Gong - Hong Kong  
 hore -   
 horife -   
-horure -   
+horifike -   
+horur -   
 hormon - hormon  
 Horvatia - Chorwacja  
 hotel - hotel  
@@ -2186,7 +2184,7 @@ kandi - cukierek, słodycze
 kane - pręt, kij  
 kane kasa - klatka  
 kane minte - mięta zielona (mięta kłosowa)  
-kane pang - bagietka  
+kane ban - bagietka  
 kane sor -   
 kanga - grzebień  
 kangaru - kangur  
@@ -2416,7 +2414,6 @@ kon hau - pasować
 kon helen baxa -   
 konife - dzielić (współdzielić)  
 kon kar - współpracować (kolaborować)  
-kon pasi -   
 kon sabi - informacja  
 kon su - wspólny (wzajemny)  
 kontra - być przeciw  
@@ -2514,7 +2511,7 @@ kuker - kucharz
 kuke kamar - kuchnia  
 Kuke nesia - Wyspy Cooka  
 kuku - kukułka  
-kul - świetny  
+kule -   
 kulombe - kulomb  
 kulte -   
 kulture - kultura  
@@ -2587,8 +2584,6 @@ lau jen - starzec
 laurencium - lorens  
 laxe - rozluźnić (poluzować)  
 • relaxe -   
-laxa - rozluźnić (poluzować)  
-• relaxa -   
 lazanya - lazania  
 lazur -   
 lazur petra - lapis lazuli  
@@ -2620,8 +2615,10 @@ lexofilia -
 lexofiliste - logofil (miłośnik słów)  
 lexe gense - rodzaj gramatyczny  
 lexograme -   
+• rilexife -   
 lexe jama - słownictwo  
 lexe liste - lista słów  
+lexunife -   
 liama - lama  
 Libanen - Liban  
 libele - ważka  
@@ -2686,9 +2683,9 @@ loga - rejestr
 • exloga -   
 • inloga -   
 loga buku - dziennik pokładowy (notatnik)  
-loke - umieścić (postawić)  
 loke - miejsce, lokacja  
 lokal - miejscowy, lokalny  
+lokize - umieścić (postawić)  
 loke kode -   
 lona - dyskusja, debata, dyskurs  
 London - Londyn  
@@ -3136,7 +3133,7 @@ nam dokumen -
 nam hin - bezimienny  
 namize - nazwać, nazywać, wezwać, wzywać  
 nam kitabe - podpis (autograf)  
-nam loga - rzeczownik  
+nam lexe - rzeczownik  
 nam tikete -   
 Namibia - Namibia  
 nan - męski  
@@ -3197,7 +3194,7 @@ negative -
 nekre - zwłoki (trup)  
 nekrofilia -   
 nekroliste -   
-nekrologa - nekrolog  
+nekrologe - nekrolog  
 nekrotomia - sekcja zwłok (obdukcja)  
 nelu - cztery (4)  
 nelu di galope -   
@@ -3226,8 +3223,8 @@ neu di - nowy
 neu fito -   
 neu jen - nowicjusz (nowa osoba)  
 neu Kaledonia - Nowa Kaledonia  
-neu loga - neologizm  
-neu nati di -   
+neuloge - neologizm  
+neunatike -   
 neuta -   
 neu tipe di - nowoczesne  
 neu Yorke - Nowy Jork  
@@ -3474,14 +3471,16 @@ partia - partia
 pas - minąć, mijać, przeminąć, przemijać  
 pas dau -   
 pas di - przeszły, miniony  
-pas loga -   
+pas lexe -   
 pas tabi - pasywny (nieaktywny)  
 paska - Wielkanoc  
 paskal - paskal (Pa)  
 pasporte - paszport  
 pasta - pasta  
 pasta petra - magma  
-pate - choroba  
+pate - cierpieć (choroba)  
+• konpate -   
+• konpatia -   
 patogener - patogen  
 patike - pacjent  
 patike - chory  
@@ -3623,7 +3622,7 @@ plutonium - pluton
 poke - poker  
 poli - wiele  
 poli baxa di - wielojęzyczny  
-poli deu sim - politeizm  
+polideisme - politeizm  
 poli fase - wielościan  
 poli gona - wielokąt (wielościan)  
 poli kultur di - wielokulturowy  
@@ -4086,7 +4085,7 @@ side - usiąść
 side loka - siedzenie (siodło)  
 sifa - cecha, właściwość, parametr  
 sifa di - opisowy  
-sifa loga - przymiotnik  
+sifa loge - przymiotnik  
 sigar - papieros (cygar)  
 sikisme - sikhizm  
 sikiste - sikh  
@@ -4131,7 +4130,7 @@ Skotia - Szkocja
 skulte - rzeźbić  
 skute -   
 skuter -   
-Slave - słowiański  
+slavike - słowiański  
 Slovakia - Słowacja  
 Slovenia - Słowenia  
 sofe - mądry  
@@ -4324,8 +4323,7 @@ tehnokratia - technokracja
 tehnologia - technologia, nauka o technikach  
 tela - tkanina (materiał, sukno)  
 tela gi - krosno  
-tele - dystans  
-tele di - daleki, odległy  
+tele - daleki, odległy  
 telefon - telefon  
 telefon bute -   
 telefon lin -   
@@ -4333,7 +4331,7 @@ telefon nume -
 telegrame -   
 teleskope - teleskop  
 teleta - dystans  
-tele vide gi - telewizja  
+televidion - telewizja  
 telurium - tellur  
 Telugu - telugu  
 tema - temat (motyw; dyskutować o)  
@@ -4357,9 +4355,11 @@ tepe - taśma
 tere - terror  
 • detere -   
 terife -   
-terure - terror  
+terifike -   
+terur - terror  
 terurisme - terroryzm  
 teruriste - terrorysta  
+terurize -   
 terbium - terb  
 terca - skośny (ukośny, pochyły)  
 • hipotermia - hipotermia (wychłodzenie)  
@@ -4519,11 +4519,12 @@ Umbriel -
 umur - wiek  
 umur di -   
 un - jeden (1)  
-undeuisme - monoteizm  
+undeisme - monoteizm  
 undurike - ciągły (analogowy)  
 undurike horloger -   
 un fen du -   
 unia - unia  
+unife - jednoczyć  
 unifike - zjednoczony  
 Unifike Arabe Amiria (UAA) - Zjednoczone Emiraty Arabskie  
 Unifike Statia de Amerika (USA) - Stany Zjednoczone Ameryki  
@@ -4760,7 +4761,7 @@ xatanike - diabelski, szatański
 xatanisme - satanizm  
 xataniste - satanista  
 xava - piec  
-xava pang - tost  
+xava ban - tost  
 xaxa - szeleścić  
 xayu - rekin  
 xe - rzecz  

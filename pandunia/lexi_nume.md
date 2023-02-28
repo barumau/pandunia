@@ -2,23 +2,23 @@
 
 | baxe  | nume  | fen |
 |-------|-------|-----|
-| pan | 1672 | 100% |
-| englix | 1153 | 69% |
-| espanya | 1058 | 63% |
+| pan | 1671 | 100% |
+| englix | 1151 | 69% |
+| espanya | 1057 | 63% |
 | portugal | 1018 | 61% |
-| franse | 1010 | 60% |
-| rus | 885 | 53% |
-| hindi | 770 | 46% |
-| nipon | 699 | 42% |
-| malayu | 646 | 39% |
-| turki | 545 | 33% |
+| franse | 1008 | 60% |
+| rus | 886 | 53% |
+| hindi | 771 | 46% |
+| nipon | 700 | 42% |
+| malayu | 647 | 39% |
+| turki | 546 | 33% |
+| chosen | 527 | 32% |
 | arabi | 527 | 32% |
-| chosen | 525 | 31% |
 | bangla | 476 | 28% |
-| putonghan | 467 | 28% |
+| putonghan | 468 | 28% |
 | suahili | 461 | 28% |
-| viet | 327 | 20% |
+| viet | 328 | 20% |
 | parsi | 322 | 19% |
-| guangdonghan | 228 | 14% |
+| guangdonghan | 230 | 14% |
 | hausa | 139 | 8% |
-| tamil | 67 | 4% |
+| tamil | 68 | 4% |

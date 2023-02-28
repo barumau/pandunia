@@ -178,9 +178,9 @@ and when there isn't an object, the verb is intransitive.
 – I boil water. (transitive sentence)  
 **sui bule.**
 – Water boils. (intransitive sentence)  
-**beker beke pang.**
+**baker bake ban.**
 – The baker bakes bread. (transitive sentence)  
-**pang beke a tanur.**
+**ban bake a tanur.**
 – Bread bakes in the oven. (intransitive sentence)
 
 Serial verb construction is a string of verbs that share the same subject,
@@ -245,6 +245,6 @@ They always take an object.
 – He/she went out of the house.  
 **sa lai re la dome.**
 – He/she came back to the house.  
-**da loga kon la xefe.**
+**da loge kon la xefe.**
 – He/she speaks with the boss.
 

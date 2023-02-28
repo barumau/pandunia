@@ -107,6 +107,7 @@
 **banda** *banda* ← zho:班 (bān), yue:班 (baan1), vie:ban, kor:반 (ban) + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)  
 **bande** *atar (amarrar)* ← ita:benda, swa:bendeji, hau:bandeji, spa:venda, fra:bande, eng:band, deu:Binde, rus:бинт (bint) hin:बाँधना (bāndhnā)  
 **bandera** *bandera* ← eng:banner, fra:bannière, spa:bandera, por:bandeira, may:bendera, tgl:bandila, swa:bendera  
+**bang** *maza* ← zho:棒 (bàng), yue:棒 (paang5), jpn:棒 (bō), kor:봉 (bong), tha:ตะบอง (ta-bong), khm:ដំបង (dɑmbɑɑng)  
 **banke** *ahorrar (reservar, depositar)* ← eng:deu:pol:may:bank, tur:banka, rus:банк (bank), fra:banque, spa:por:banco, fas:(bânk), hin:बैंक (baiṅk), urd:(baiṅk), tel:బ్యాంకు (byāṅku), tam:(vaṅki), hau:banki  
 **bano** ** ← zho:板 (bǎn), yue:板 (baan2), jpn:板 (ban), kor:판자 (panja), vie:bảng, tha:บาน (baan) + may:papan + swa:bao + eng:spa:panel, fra:panneau, rus:панель, tur:pano  
 **banya** *bañera* ← spa:bañera, por:banheira, ell:μπάνιο (bánio), rus:ванна (vanna), ara:بانيو‎ (banyu)  
@@ -341,7 +342,6 @@
 **estan** *estaño* ← spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin, swa:stani  
 **estibium** *antimonio* ← zho:锑 (tī), swa:stibi  
 **estrontium** *strontium* ← eng:strontium, fra:strontium, spa:strontium, por:estrôncio, rus:стронций, zho:锶 (sī), jpn:ストロンチウム, kor:스트논듐, vie:stronti, hin:स्ट्रोन्सियम, ben:স্ট্রনসিয়াম, may:strontium, swa:stronti, ara: سترانشيوم  
-**eu** *beneficioso (bueno)* ← eng:fra:spa:por:eu-  
 **Eurasia** *Eurasia* ← eng:spa:may:Eurasia, por:Eurásia, fra:Eurasie, rus:Евразия (Evraziya), tur:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), ara:يُورَاسِيَا‎ (yūrāsiyā), hin:यूरेशिया (yūreśiyā), ben:ইউরেশিয়া (iureśiẏa), zho:歐亞大陸 (Ōuyà dàlù), jpn:ユーラシア (yūrashiya)  
 **eureka** *econtrar (hallar)* ← ell:ευρίσκω (evrísko), eng:spa:eureka, por:eureca, fra:eurêka, rus:эврика (evrika), tur:efreka, jpn:ユーレカ (yūreka)  
 **Europa** *Europa* ← eng:fra:Europe, spa:por:deu:pol:Europa, ell:Ευρώπη (Evrópi) rus:Европа (Evropa), tur:Avrupa, swa:Uropa, hin:यूरोप (yūrop), may:Eropah, zho:歐洲 (Ōuzhōu), jpn:ヨーロッパ (yōroppa)  
@@ -541,9 +541,9 @@
 **hanu** *mano* ← hau:hannu + eng:hand, deu:Hand + hin:हाथ (hāth), ben:হাত (hat) + spa:mano; manual, por:mão; manual, fra:main; manuel  
 **haos** *caos (desorden)* ← eng:fra:chaos, spa:por:caos, rus:хаос (haos), jpn:カオス (kaosu)  
 **hapu** *apropriado (apto, oportuno)* ← zho:合 (hé), yue:合 (hap6), kor:합 (hap), vie:hợp + eng:apt, fra:apte, spa:por:apto  
-**harabu** *arruinado (devastado, asolado)* ← ara:fas:urd:(xarāb), tur:harap, hin:ख़राब (xarāb), ben:খারাপ (kharap), swa:-haribu  
-**haram** *prohibido (tabú)* ← ara:(ḥarām), hau:may:tur:eng:deu:haram, hin:हराम (harām), kor:하람 (haram), fas:urd:(harām), swa:haramu, zho:哈拉姆 (hālāmǔ), rus:харамный (xaramniy)  
-**harmoni** *armonía* ← eng:harmony, spa:armonía, por:harmonia, fra:harmonie, rus:гармония (garmoniya)  
+**harabe** *arruinado (devastado, asolado)* ← ara:fas:urd:(xarāb), tur:harap, hin:ख़राब (xarāb), ben:খারাপ (kharap), swa:-haribu  
+**haram** *tabú* ← ara:(ḥarām), hau:may:tur:eng:deu:haram, hin:हराम (harām), kor:하람 (haram), fas:urd:(harām), swa:haramu, zho:哈拉姆 (hālāmǔ), rus:харамный (xaramniy)  
+**harmonia** *armonía* ← eng:harmony, spa:armonía, por:harmonia, fra:harmonie, rus:гармония (garmoniya)  
 **harnes** *arnés (arreos, jaeces)* ← fra:harnais, eng:harness, spa:arnés, por:arnês  
 **has** *especial (diferenciado, distinto)* ← ara:(xāṣṣ), fas:urd:(xās), hin:ख़ास (xās), may:khas, swa:hususa  
 **haste** *prisa* ← deu:Hast, eng:haste, fra:hâte + fas:آهسته (âheste), hin:आहिस्ता (āhistā), ben:আস্তে (aste), tur:aheste  
@@ -817,7 +817,7 @@
 **kudi** *codo* ← ara: كُوع‎ m (kūʿ) + fra:coude + hin:कुहनी (kuhnī)  
 **kuke** *cocinar (preparar)* ← eng:cook, deu:Kock, ita:cuoco, may:koki, tha:กุ๊ก (kuk), sango:kuku + rus:кухар (kuhar), pol:kucharz  
 **kuku** *cuco* ← eng:cuckoo, fra:coucou, spa:por:cuco, rus:кукушка (kukushka), fas: کوکو‎ (kuku), jpn:郭公 (kakkō), zho:布谷鸟 (bùgǔniǎo), yue:布谷鳥 (bou3 guk1 niu5), tur:guguk, hau:kukku  
-**kul** *genial* ← eng:deu:fra:cool, jpn:クール (kūru), zho:酷 (kù)  
+**kule** ** ← tur:köle; kul, hin:क़ुली (qulī), tam:கூலி (kūli), may:kuli, zho:苦力 (kǔlì), yue:咕哩 (gu1 lei1), jpn:苦力 (kūrī), kor:쿨리, vie:cu li, eng:fra:coolie, spa:culi, por:cule, deu:Kuli, rus:кули (kuli)  
 **kulte** *cultivar* ← eng:cultivate, fra:cultiver, spa:por:cultivar, rus:культура (kulʹtúra), fas: کولتور‎ (kultur), tur:kültür, jpn:カルチャー (karuchā), tam:கலாச்சாரம் (kalāccāram)  
 **kume** *acumular* ← eng:cumulate, fra:cumuler, spa:por:cumular + tur:kumul + ara:كَوْمَة‎ (kawma), fas: کومه (kume)  
 **Kung Fuzi** *confucio* ← zho:孔夫子 (Kǒng Fūzǐ)  
@@ -851,7 +851,6 @@
 **late** *lado (flanco)* ← spa:por:lado, ita:lato, eng:lateral, fra:latéral, rus:латеральный (lateral’nyy)  
 **lau** *viejo (anciano)* ← zho:老 (lǎo), yue:老 (lau2), wuu:老 (lau3), jpn:老 (rō), vie:lão  
 **laurencium** *laurencio* ← eng:lawrencium, fra:lawrencium, spa:laurencio, por:lawrêncio, rus:лоуренсий, zho:铹 (láo), jpn:ローレンシウム, kor:로렌슘, vie:lorenxi, lawrenci, hin:लॉरेंशियम, ben:লরেনসিয়াম, may:lawrensium, swa:lawirensi, ara: لورنسيوم  
-**laxa** *dejar* ← eng:(re)lax, fra:(re)lâcher, spa:(re)lajar, ita:lasciare, deu:lassen  
 **laxe** *dejar* ← eng:(re)lax, fra:(re)lâcher, spa:(re)lajar, ita:lasciare, deu:lassen  
 **lazanya** *lasaña* ← fra:lasagne, eng:lasagna, spa:lasaña, por:lasanha, rus:лазанья (lazanya), ara:(lazanyā), jpn:ラザニア (razania), kor:라자냐 (lajanya), hin:लज़ैन्या (lazenyā)  
 **lazur petra** *lapislázuli* ← fas:لاجورد (lājevard), eng:lazuli, spa:lapislázuli, rus:лазурит (lazurit), ara:لازورد (lāzaward), hin:लाजवर्द (lājavarda), jpn:ラピスラズリ (rapisurazuri), may:lazuardi, tur:lazur taşı  
@@ -1044,7 +1043,7 @@
 **nagre** *pueblo* ← hin:नगर (nagar), ben:নগর (nôgôr), tel:నగరము (nagaramu), tam:நகரம் (nakaram), khm:អង្គរ (ʾɑngkɔɔ), tha:นคร (na-khon) + may:negara  
 **nahun** *uña* ← fas:ناخن‎ (nâxon), hin:नाख़ुन m (nāxun), ben:নখ (nôkh), pan:नख (nakh), rus:нога́ (nogá)  
 **najis** *contaminación (corrupción, porquería, suciedad)* ← ara:نجس (najis), may:najis, swa:najisi, fas:نجس (najes) + eng:najis, rus:наджаса (nadžasa)  
-**nam loga** *sustantivo* ← zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino  
+**nam lexe** *sustantivo* ← zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino  
 **nam** *nombre* ← deu:eng:name, fra:nom, hin:नाम (nām), ben:নাম (nam), may:nama, tha:นาม (naam) + jpn:名前 (namae)  
 **nan** *masculino (macho)* ← zho:男 (nán), jpn:男 (nan), kor:남 (nam), vie:nam + fas: نر‎ (nar), hin:नर (nar), ben:নর (nôr), tel:నరుడు (naruḍu) + eng:man, deu:Mann + tam:ஆண் (āṇ)  
 **naraka** *infierno* ← hin:नरक (narak), ben:নরক (nôrôk), pan:ਨਰਕ (nark), mar:नर्क (nark), tel:నరకము (narakamu), tam:நரகம் (narakam), may:neraka, tha:นรก (ná-rók), jpn:奈落 (naraku)  
@@ -1151,7 +1150,7 @@
 **pasta** *pasta* ← eng:deu:paste, rus:паста (pasta), spa:por:pasta  
 **pata** ** ← eng:path, deu:Pfad, rus:путь (putʹ), hin:पथ (path), ben:পথ (pôth), tel:పథము (pathamu),   
 **patate** *papa* ← fra:patate, spa:patata, por:batata, tur:patates, ara:(baṭāṭis), swa:mbatata, eng:potato, tgl:patatas  
-**pate** *enfermedad* ← deu:eng:fra:patho-, spa:por:pol:tur:may:pato-, rus:пато- (pato-)  
+**pate** *sufrir (enfermedad)* ← deu:eng:fra:patho-, spa:por:pol:tur:may:pato-, rus:пато- (pato-)  
 **pau gi** *pistola (rifle)* ← zho:炮 (pâo), yue:炮 (paau3), vie:pháo, kor:포 (po), mon:буу (buu)  
 **pauze** *pausa* ← deu:Pause, eng:deu:fra:pause, spa:por:pausa, rus:пауза (pauza)  
 **payace** *payaso (clown)* ← ita:pagliaccio, fra:paillassa, spa:payaso, por:palhaço, rus:паяц (payac), tur:palyaço  
@@ -1443,7 +1442,7 @@
 **tehne** *técnica* ← ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik  
 **tehnetium** *tecnetio* ← eng:technetium, fra:technétium, spa:tecnetio, por:tecnécio, rus:технеций, zho:锝 (dé), jpn:テクネチウム, kor:테크네튬, vie:tecnexi, hin:टेक्निशियम, ben:টেকনিসিয়াম, may:teknetium, swa:tekineti, ara: تكنيتيوم  
 **tela** *tela (paño, tejido)* ← spa:por:tgl:tela, fra:toile + eng:towel, hin:तौलिया (tauliyā), swa:taulo, hau:tawul, jpn:タオル (taoru), may:tuala  
-**tele** *lo lejos* ← eng:spa:por:may:tele-, fra:télé-, rus:теле- (tele-)  
+**tele** *lejano (lejos)* ← eng:spa:por:may:tele-, fra:télé-, rus:теле- (tele-)  
 **telurium** *telurio* ← eng:tellurium, fra:tellure, spa:telurio, por:telúrio, rus:теллур, zho:碲 (dì), jpn:テルル, kor:텔루르, vie:telu, hin:टेलुरियम, ben:টেলুরিয়াম, may:telurium, swa:teluri, ara: تيلوريوم  
 **tema** *tema (tratar de)* ← fra: thème, spa: tema, rus: тема (tema), deu:Thema + zho:题目 (tímù)  
 **tene** *tener (mantener, detener)* ← fra:tener, spa:tenir, por:ter, eng:-tain  

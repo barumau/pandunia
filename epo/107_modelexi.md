@@ -14,7 +14,7 @@ En pandunio, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
 – grandaj tabloj  
 **men _gau_ meza**
 – altaj tabloj  
-**un bon jen**
+**un hau jen**
 – bona homo
 
 Kiam modifovorto sekvas substantivon, ĝi rolas kvazaŭ kiel verbo, kiu indikas staton.
@@ -34,7 +34,7 @@ Kompreneble, eblas ke modifovortoj aperu je ambaŭ flankoj de substantivo.
 
 **tu _suga_ loga.**
 – Vi _rapide_ parolas.  
-**damen _bon_ kitaba.**
+**damen _hau_ kitaba.**
 – Ili _bone_ skribas.
 
 **tu _mei di_ kitabu.**
@@ -50,7 +50,7 @@ Aldoni partiklon
 **di**
 inter la modifanta kaj la modifata.
 
-**un dai di_ bon buku**
+**un dai di_ hau buku**
 – _grande_ bona libro  
 **poli _bala di_ ame ja jen**
 – _forte_ amantaj homoj
@@ -72,10 +72,10 @@ Modifovortoj povas esti komparataj.
 
 Partiklo **ko** rilatas komparvortoj al la fonto de komparo.
 
-**aple es max bon ka oranje.**
+**aple es max hau ka oranje.**
 – Pomoj estas pli bonaj ol oranĝoj.  
-**oranje es min bon ka aple.**
+**oranje es min hau ka aple.**
 – Oranĝoj estas malpli bonaj ol pomoj.
-**tu loga par bon ka mi.**
+**tu loga par hau ka mi.**
 – Vi parolas same bone kiel mi.
 

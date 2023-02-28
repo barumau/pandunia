@@ -219,13 +219,13 @@ Fakte, la lasta demando estas simple mallonga manero por diri
 (Mi demandas: Vi estas doktoro?).
 Oni nur forlasis la unuan pronomon.
 
-**sual tu bon?**
+**sual tu hau?**
 Kiel vi fartas? (Laŭvorte: _Ĉu vi bonas?_)  
-**mi bon.**
+**mi hau.**
 Mi fartas bone.  
 **sual tu?**
 Kaj vi?  
-**mi no bon.**
+**mi no hau.**
 Mi ne fartas bone.
 
 <small>Etimologio. **sual**
@@ -258,14 +258,14 @@ Mi ne estas Sara.
 **mi no es davar.**
 Mi ne estas doktoro.
 
-**sual tu bon?**
+**sual tu hau?**
 Ĉu vi fartas bone?  
-**ya. mi bon.**
+**ya. mi hau.**
 Jes, mi estas bone.
 
-**sual tu bon?**
+**sual tu hau?**
 Ĉu vi fartas bone?  
-**no, mi no bon.**
+**no, mi no hau.**
 Ne, mi ne estas bone.
 
 Vi povas uzi
@@ -431,7 +431,7 @@ angla *name*.</small>
 
 ### ha <small>havi</small>
 
-**mi ha un bon dom.**
+**mi ha un hau dom.**
 Mi havas bonan domon.
 
 **da no ha pesa.**
@@ -504,7 +504,7 @@ Noto: Signifo de
 **yam**
 kovras manĝadon kaj trinkadon.
 
-**mi yam kafe e pang.**
+**mi yam kafe e ban.**
 Mi manĝas kafon kaj panon.
 
 
@@ -640,28 +640,28 @@ Mi povas ete pandunion.
 **mi no bil englix.**
 Mi ne povas paroli la anglan.
 
-**maf. mi no bil tu su baxa.**
+**maf. mi no bil tu su baxe.**
 Pardonon, mi ne povas paroli vian lingvon.
 
 
-### loga <small>diri, paroli</small>
+### loge <small>diri, paroli</small>
 
-**tu loga ke?**
+**tu loge ke?**
 Kion vi diris?
 
-**mi loga to tu.**
+**mi loge to tu.**
 Mi parolas al vi.
 
-**mimen loga to semen.**
+**mimen loge to semen.**
 Ni parolas unu al alia.
 
-**se loga "kato" a ke yang a pandunia?**
+**se loge "kato" a ke yang a pandunia?**
 Kiel oni diras "kato" pandunie?
 
 **"kato" es ke a pandunia?**
 Kio estas "kato" pandunie?
 
-**mau loga "miau".**
+**mau loge "miau".**
 Kato diras mjaŭ.
 
 
@@ -673,7 +673,7 @@ Aŭskulti min!
 **mi no bil audi tu.**
 Mi ne povas aŭdi vin.
 
-**cing loga max bala.**
+**cing loge max bala.**
 Bonvolu paroli pli forte.
 
 **mi audi muzika.**
@@ -720,15 +720,15 @@ Bonvolu skribi vian adreson.
 Bonvolu skribi ĝin ĉi tie!
 
 
-### baxa <small>paroli, lingvumi</small>
+### baxe <small>paroli, lingvumi</small>
 
-**sual tumen baxa pandunia.**
+**sual tumen baxe pandunia.**
 Ĉu vi parolas pandunion?
 
-**mimen baxa pandunia.**
+**mimen baxe pandunia.**
 Ni parolas pandunion.
 
-**sual tu bil baxa englix?**
+**sual tu bil baxe englix?**
 Ĉu vi povas paroli la anglan?
 
 **franse, espanya, portugal, rus**

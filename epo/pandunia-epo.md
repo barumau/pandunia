@@ -556,14 +556,13 @@ esperanto - Esperanto
 Esti - Estonio  
 estrontium - stroncio  
 Etiopia - Etiopio  
-euangil - evangelio  
 Eurasia - Eŭrazio  
 eureka - trovi  
 euro - eŭro  
 europium - eŭropio  
 Europa - Eŭropo  
 europa di - Eŭropa  
-Europa Unta - Eŭropa Unio (EU)  
+Europa Unia - Eŭropa Unio (EU)  
 exgogia - fremda lando  
 ezmurude - smeraldo  
 
@@ -834,10 +833,10 @@ hanu li - mana
 haos - kaoso (malordo)  
 hape - taŭgigi  
 hapu - taŭga  
-harabu - ruinigita  
-harabu mahala - kvartalaĉo  
-harmoni - harmonio  
-harmoni di - harmonia  
+harabe - ruinigita  
+harabe mahala - kvartalaĉo  
+harmonia - harmonio  
+harmonike - harmonia  
 Hartum - Ĥartumo  
 has - speciala  
 • anhaste - malrapida  
@@ -846,6 +845,7 @@ hata di - eĉ
 hatar - danĝero  
 hatar di - danĝera  
 hau - bona  
+hau angil - evangelio  
 hau sifata - eco  
 hau vide di - bonaspekta  
 hava - vento  
@@ -1202,7 +1202,7 @@ krus - kruco
 kube - kubo  
 kudi - kubuto  
 kuku - kukolo  
-kul - bonega (mojosa)  
+kule - sklavo  
 kulture - kulturo  
 Kung Fuzi - Konfuceo  
 kupa - taso  
@@ -1243,6 +1243,7 @@ lexasle - etimologio
 lexeme - leksemo  
 lexe fen - silabo  
 lexograme - logogrammi (logo)  
+• rilexife - releksikigo  
 lexe jama - vortaro  
 lexe liste - vortaro  
 libele - libelo  
@@ -1268,9 +1269,9 @@ logike - logiko
 logikal - logika  
 logive - parolema  
 loga - registraĵo  
-loke - lokigi  
 loke - loko  
 lokal - loka  
+lokize - lokigi  
 long - longa  
 longife - longigi  
 long kata - romano  
@@ -1446,7 +1447,7 @@ nagre - urbo
 nagral - urba  
 nam - nomo  
 nam hin - sennoma  
-nam loga - substantivo  
+nam lexe - substantivo  
 Namibia - Namibio  
 nan - viro  
 nan reger - reĝo  
@@ -1480,8 +1481,8 @@ nese - insulo
 neu - novaĵo  
 neu di - nova  
 neu jen - novulo  
-neu loga - neologismo  
-neu nati di - novnaskita  
+neuloge - neologismo  
+neunatike - novnaskita  
 neuta - noveco  
 neure - nervo  
 neural - nerva  
@@ -1852,7 +1853,7 @@ sexu - sekso
 sexual - seksa  
 si - se  
 siborgium - seborgio  
-sifa loga - adjektivo  
+sifa loge - adjektivo  
 sigar - cigaredo  
 resikle - recikligi  
 sikliste - biciklisto  
@@ -1957,12 +1958,12 @@ tegule - kahelo (tegolo)
 tehne - tekniko  
 tehnetium - teknecio  
 tehnologia - teknologio  
-tele - malproksimeco  
-tele di - malproksima  
+tele - malproksima  
 telefon - telefono  
 telegrame - sähkösanoma  
 teleskope - teleskopo  
-tele vide gi - televidilo  
+teleta - malproksimeco  
+televidion - televidilo  
 telurium - teluro  
 tema - temo (esti pri; pridiskuti)  
 tenesium - teneso  
@@ -1970,7 +1971,7 @@ tenis - teniso
 teori - teorio  
 tepe - bendo  
 tere - timo (teroro)  
-terure - teroro  
+terur - teroro  
 terurisme - terorismo  
 teruriste - teroristo  
 terbium - terbio  
