@@ -43,7 +43,7 @@ Quelques traits remarquables du pandunia :
 De nombreuses personnes sont déjà intéressées par le pandunia et certaines l'utilisent déjà pour communiquer :
 - Salon sur [Discord](https://discord.gg/jf5GHcHXKk) (communauté la plus active)
 - Salons Telegram :
-  [multilingue](https://t.me/+Q9WyJ-ZLrFEsCXFU) et
+  [multilingue](https://t.me/pandunia_grupe) et
   [en pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg)
 - Sujet "pandunia" sur [L'Atelier](http://www.ideolangues.org/t727-pandunia)
 - Liens et discussions sur [Reddit](https://www.reddit.com/r/pandunia/)

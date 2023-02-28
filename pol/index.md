@@ -53,7 +53,7 @@ Wielu ludzi już jest zainteresowanych Pandunią i mówi w niej. Znajdziesz fora
 - [kanały Discord](https://discord.gg/jf5GHcHXKk)
 - Linki i dyskusja na [Reddicie](https://www.reddit.com/r/pandunia/)
 - [Przyjaciele Panduni](http://www.facebook.com/groups/pandunia) na Facebooku
-- kanały Telegram: [wielojęzyczny](https://t.me/+Q9WyJ-ZLrFEsCXFU) i [w Panduni](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
+- kanały Telegram: [wielojęzyczny](https://t.me/pandunia_grupe) i [w Panduni](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
 - Znajdź innych użytkowników Panduni w aplikacji [Amikumu](https://amikumu.com/)!
 - Kanał QQ: 717549404
 - Możesz również obserwować Pandunię na [Twitterze](https://twitter.com/pandunia_). Nieś wieści!

@@ -34,7 +34,7 @@ hide:
 - เว็บบอร์ด [Reddit](https://www.reddit.com/r/pandunia/)
 - [กลุ่ม Facebook pandunia](http://www.facebook.com/groups/pandunia)
 - [Telegram ภาษาพันดูเนีย](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg)
-- [Telegram หลายภาษา](https://t.me/+Q9WyJ-ZLrFEsCXFU)
+- [Telegram หลายภาษา](https://t.me/pandunia_grupe)
 - ช่อง [Discord](https://discord.gg/FWavWeG)
 - แอป [Amikumu](https://amikumu.com/) por trovi parolantojn
 - QQ: 717549404

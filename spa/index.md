@@ -62,7 +62,7 @@ Puedes encontrarles en varios lugares de internet:
 
 - [Chat en Discord](https://discord.gg/jf5GHcHXKk)
 - Salas de chat en Telegram:
-  [plurilingüe](https://t.me/+Q9WyJ-ZLrFEsCXFU) y
+  [plurilingüe](https://t.me/pandunia_grupe) y
   [en pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
 - Debates en [Reddit](https://www.reddit.com/r/pandunia/)
 - [Grupo de Facebook](http://www.facebook.com/groups/pandunia)

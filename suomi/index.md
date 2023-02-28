@@ -73,7 +73,7 @@ eikä kielioppia ole pakko opiskella.
 | Facebook | [Tekokielet-ryhmä](http://www.facebook.com/groups/tekokielet) | Suomenkielinen ryhmä tekokielistä yleensä. |
 | Facebook | [Pandunia-ryhmä](http://www.facebook.com/groups/pandunia) | Keskustelua eri kielillä. |
 | Telegram | [mimen baxa pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) | Harjoittelu. Täällä puhutaan vain panduniaa! |
-| Telegram | [multilingual channel](https://t.me/+Q9WyJ-ZLrFEsCXFU) | Keskustelua eri kielillä. |
+| Telegram | [monikielinen kanava](https://t.me/pandunia_grupe) | Keskustelua eri kielillä. |
 | QQ       | 717549404 | Keskustelua kiinaksi ja muilla kielillä. |
 
 Muita pandunian puhujia voi löytää [Amikumu](https://amikumu.com/)-sovelluksella.
