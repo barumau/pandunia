@@ -1388,6 +1388,9 @@ o - ou
 ode - ode  
 oganeson - oganesson  
 ohtopus - polvo  
+oke - olho  
+okal - ocular  
+oke sui gas - gás lacrimogéneo  
 onda - onda  
 onor - honra  
 orange - laranja  
@@ -1877,7 +1880,7 @@ undurike - analógico
 unia - união  
 unike - único (só)  
 un mar - uma vez  
-un yen di lense - monóculo  
+unoke lense - monóculo  
 un zai di - só (solitário)  
 universal - universal  
 Uran - Urano  
@@ -2026,9 +2029,6 @@ yauta - necessidade
 ye - este  
 yem - sal  
 yem di - salino  
-yen - olho  
-yen di - ocular  
-yen sui gas - gás lacrimogéneo  
 yepa - folha  
 yepa alga - kelp  
 yepa koli - couve-de-folhas  

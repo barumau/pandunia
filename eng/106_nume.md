@@ -183,9 +183,9 @@ which includes, among many others,
 **du botle vin**
 – two bottles of wine  
 **tri sake patate**
-– two sacks of potatoes  
+– three sacks of potatoes  
 **nelu tin limonjus**
-– three cans of lemonade
+– four cans of lemonade
 
 
 ## Fractions

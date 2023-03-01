@@ -849,7 +849,7 @@ hyvin (sangen) - tre
 hyvinvointi - salta  
 hyvä - hau  
 hyvä onni (tuuri, säkä, lykky) - hau zar  
-hyväksyä (hyväksyntä, OK) - oke  
+hyväksyä (hyväksyntä, OK) - okei  
 hyväksyä - fa oke  
 hyväksyä - hau rai  
 hyvännäköinen (kaunis, komea) - hau vide di  
@@ -1307,7 +1307,7 @@ kello (ajannäyttäjä) - sah diker
 kellotorni - sah tore  
 kellua (uida) - be boi  
 kelluke (poiju) - boi  
-kelpo (kohtalainen, okei) - okebil  
+kelpo (kohtalainen, okei) - okeibil  
 keltainen - huang  
 kelvin (K) - kelvin  
 kemia - kimia  
@@ -1694,7 +1694,7 @@ kyselylomake - sual dokumen
 kysymys - sual  
 kysyvä - sualive  
 kysyä - fa sual  
-kyynel - yen sui  
+kyynel - oke sui  
 kyynärpää - kudi  
 kyynäränmitta - kudi metri  
 käki - kuku  
@@ -2267,10 +2267,10 @@ monimerkityksinen (polyseeminen) - polisemike
 monimerkityksinen - poli semi di  
 moninkertainen - polipli  
 monismi - monisme  
-monismi - un xe sim  
+monismi - unisme  
 monitahoinen (monipuolinen) - disverse  
 monitahokas - poli fase  
-monokkeli - un yen di lense  
+monokkeli - unoke lense  
 monoteismi (yksijumalisuus) - undeisme  
 montako? (paljonko?) - ke poli di  
 Montenegro - cernagora  
@@ -3423,10 +3423,10 @@ sileä - lis
 silkki - silke  
 silkkiäistoukka - silke larva  
 silmukkapanssari (rengashaarniska) - seri kaska  
-silmä - yen  
-silmä- - yen di  
-silmäillä (katsoa, tarkkailla) - fa yen  
-silmäripsi - yen kexa  
+silmä - oke  
+silmä- - okal  
+silmäillä (katsoa, tarkkailla) - okate  
+silmäripsi - oke kexa  
 silta - kio  
 simpanssi - cimpanzi  
 sinetti - mum cape  
@@ -4457,6 +4457,7 @@ yksinpuhelu (monologi) - autologe
 yksinvalta (monarkia) - unarhia  
 yksinvaltius (autokratia, monarkia) - autokratia  
 yksinäinen - un zai di  
+yksisilmäinen - unokike  
 yksityiskohta (detalji) - detal  
 yksityistää - privatize  
 yksivärinen - unrangike  

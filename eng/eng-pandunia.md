@@ -22,7 +22,7 @@ acacia - akasia
 accent (stress, emphasis; accentuate, emphasize) - protone  
 accept (get, receive) - acepe  
 accept (say okay) - fa oke  
-acceptable - okebil  
+acceptable - okeibil  
 access (admission; reach) - acese  
 accessibility (ease of access) - acesebilta  
 accessible (within reach) - acesebil  
@@ -1496,9 +1496,9 @@ extract (draw out) - extrate
 extractor - extrater  
 extrovert (outgoing) - extraverse  
 extroverted (outgoing) - exverse  
-eye (look, watch, observe, spectate) - fa yen  
-eye - yen  
-eyelash - yen kexa  
+eye (look, watch, observe, spectate) - okate  
+eye - oke  
+eyelash - oke kexa  
 
 ## F  
 
@@ -2805,10 +2805,10 @@ Mongolia - Mongol
 Mongolian - mongol di  
 mongoose - mungus  
 monism - monisme  
-monism - un xe sim  
+monism - unisme  
 monk or nun - biku  
 monochrome - unrangike  
-monocle - un yen di lense  
+monocle - unoke lense  
 monogenesis - ungene  
 monogram - monograme  
 monolingual - unbaxike  
@@ -3043,7 +3043,7 @@ Oceania - Oseania
 ocelot - oselote  
 October - mes des  
 octopus - ohtopus  
-ocular - yen di  
+ocular - okal  
 odd (strange, weird, peculiar, bizarre) - guai  
 ode (verse) - ode  
 Odia (Oriya) - Odisa  
@@ -3063,7 +3063,7 @@ oganesson - oganeson
 ogre (troll, goblin) - gui  
 oil - nafte  
 oil well - nafte fonte  
-okay (acceptance; accept, say okay) - oke  
+okay (acceptance; accept, say okay) - okei  
 okra (okro) - bamia  
 old (aged, elderly) - lau  
 old (ancient, former) - prezaman di  
@@ -3076,6 +3076,7 @@ once (one time) - un mar
 oncilla - bagre oselote  
 one (1) - un  
 one (impersonal pronoun: people, you) - jen (jen men)  
+one-eyed - unokike  
 onion - piaze  
 online - a lin  
 only (lone, single, individual) - mone  
@@ -4380,8 +4381,8 @@ teacher (instructor) - gio ja
 team - tim  
 teapot - cai pote  
 tear (rip, split) - cira  
-tear drop - yen sui  
-tear gas - yen sui gas  
+tear drop - oke sui  
+tear gas - oke sui gas  
 tear up (tatter, shred) - cira cira  
 teaspoon - cai camaca  
 technetium - tehnetium  

@@ -1280,7 +1280,9 @@ numologia - 数学
 ode - 頌歌 (オード)  
 oganeson - オガネソン  
 ohtopus - タコ  
-okebil - 大丈夫 (ＯＫ)  
+oke - 目  
+oke sui gas - 催涙ガス  
+okeibil - 大丈夫 (ＯＫ)  
 onda - 波  
 orange rang - オレンジ色の  
 ordu jen - 軍人  
@@ -1840,8 +1842,6 @@ yauta - 必要
 ye - この  
 yeka kanon - 易経  
 yem - 塩  
-yen - 目  
-yen sui gas - 催涙ガス  
 yepa - 葉  
 yepa alga - コンブ  
 yepa late - ページ (面)  

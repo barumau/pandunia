@@ -35,7 +35,7 @@ aceite (óleo) - nafte
 aceituna - zaitun  
 acelga - selge  
 acento - protone  
-aceptable - okebil  
+aceptable - okeibil  
 aceptar - fa oke  
 aceptar - acepe  
 aciano (azulejo) - nil kentaur hua  
@@ -1702,7 +1702,7 @@ garganta  - gala
 garlopa - rande  
 garrapata (ácaro) - akare  
 gas - gas  
-gas lacrimógeno - yen sui gas  
+gas lacrimógeno - oke sui gas  
 gasa - gaze  
 gaseoso - gas di  
 gasificar - gasife  
@@ -2341,7 +2341,7 @@ luterano - Luteriste
 Luxemburgo - Luxemburge  
 luxure - luxe  
 luz (iluminación) - fote  
-lágrima - yen sui  
+lágrima - oke sui  
 lámpara - lampa  
 lápida - gabrite  
 lápiz - karbe kalam  
@@ -2608,7 +2608,7 @@ moneda - pesa diske
 mongol - mongol di  
 Mongolia - Mongol  
 monismo - monisme  
-monismo - un xe sim  
+monismo - unisme  
 monje o monja - biku  
 monocromático - unrangike  
 monograma - monograme  
@@ -2617,7 +2617,7 @@ monstro - mostre
 montaña (colina) - xan  
 Montenegro - cernagora  
 monumento - memo bina  
-monóculo - un yen di lense  
+monóculo - unoke lense  
 monólogo - autologe  
 morado (púrpura) - violeta nil  
 moral (moro) - tuta  
@@ -2824,7 +2824,7 @@ ocelote - oselote
 ocho (8) - bati  
 ocra - bamia  
 octubre - mes des  
-ocular - yen di  
+ocular - okal  
 ocultar (esconder) - fa sir  
 ocupado (atareado) - mang  
 océano - dai bahai  
@@ -2844,8 +2844,8 @@ oficina - burokan
 oficina de correos - postekan  
 oganesón - oganeson  
 ogro (gnomo, trol, duende, trasgo) - gui  
-ojo - yen  
-OK (aceptar) - oke  
+ojo - oke  
+OK (aceptar) - okei  
 oler (apestar) - fa aroma  
 oler (olfatear) - fa aroma  
 olor (aroma) - aroma  
@@ -3086,7 +3086,7 @@ pescador - pexe saider
 pescar - kape yo pexe  
 pescar - saide yo pexe  
 peso (gravedad) - veze  
-pestaña - yen kexa  
+pestaña - oke kexa  
 peto - sine plate  
 petróleo - petra nafte  
 pez (pescado) - pexe  

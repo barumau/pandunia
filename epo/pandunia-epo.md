@@ -603,7 +603,6 @@ fa vai klus - ekskludi
 fa vanu - amuzi  
 fa xopi - aĉeti  
 fa xux - silentigi  
-fa yen - okulumi  
 faide - utileco  
 faidike - utila  
 famil - familio  
@@ -1525,7 +1524,10 @@ o - aŭ
 ## O  
 
 oganeson - oganesono  
-okebil - akceptebla  
+oke - okulo  
+okal - okula  
+okate - okulumi  
+okeibil - akceptebla  
 onda - ondo  
 Onduras - Honduro  
 onor - honoro (respekto)  
@@ -2035,9 +2037,10 @@ umur - aĝo
 un - unu (1)  
 unia - uniono  
 unike - sola (nur)  
+unisme - monismo  
 un mar - unufoje  
-un xe sim - monismo  
-un yen di lense - monoklo  
+unokike - unuokula  
+unoke lense - monoklo  
 uranium - uranio  
 uze - uzi  
 uzebil - uzebla  
@@ -2186,8 +2189,6 @@ yeka kanon - Libro de ŝanĝiĝoj (I Ĉing)
 yem - salo  
 yem di - sala  
 Yemen - Jemeno  
-yen - okulo  
-yen di - okula  
 yepa - folio  
 yepa late - paĝo  
 Yesa - Jesuo  

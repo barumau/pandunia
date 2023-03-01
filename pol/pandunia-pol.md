@@ -1225,7 +1225,6 @@ fa xopi - kupić
 fa xou -   
 fa xux - uciszyć (uciszać)  
 fa yagu - oszacować, szacować, przybliżyć, przybliżać  
-fa yen - patrzeć (oglądać)  
 faide - zasób (zastosowanie, użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta)  
 faidaje - materiał (składnik, zasób)  
 faidike - użyteczny, pomocny, przydatny, pożyteczny, korzystny  
@@ -2182,9 +2181,9 @@ kanaler - przewód (kanał)
 kandela - kandela  
 kandi - cukierek, słodycze  
 kane - pręt, kij  
+kane ban - bagietka  
 kane kasa - klatka  
 kane minte - mięta zielona (mięta kłosowa)  
-kane ban - bagietka  
 kane sor -   
 kanga - grzebień  
 kangaru - kangur  
@@ -3320,8 +3319,14 @@ ode -
 Odisa - orija  
 oganeson - oganesson  
 ohtopus - ośmiornica  
-oke - zaakceptować, akceptować, powiedzieć okej, mówić okej  
-okebil - okej, spoko, akceptowalny  
+oke - oko  
+okal -   
+okate - patrzeć (oglądać)  
+oke kexa - rzęsa  
+oke sui - łza  
+oke sui gas - gaz łzawiący  
+okei - zaakceptować, akceptować, powiedzieć okej, mówić okej  
+okeibil - okej, spoko, akceptowalny  
 Olande nesia - Wyspy Alandzkie  
 Oman - Oman  
 onda - fala  
@@ -4529,14 +4534,15 @@ unifike - zjednoczony
 Unifike Arabe Amiria (UAA) - Zjednoczone Emiraty Arabskie  
 Unifike Statia de Amerika (USA) - Stany Zjednoczone Ameryki  
 unike - tylko (jedyny, wyłączny)  
+unisme - monizm  
 un mar - raz (jeden raz)  
 un me - pierwszy, numer jeden  
+unokike -   
+unoke lense -   
 unrangike - jednokolorowy (monochromatyczny)  
 un sata -   
 unsemike - jednoznaczny  
 unta -   
-un xe sim - monizm  
-un yen di lense -   
 un zai di -   
 universal -   
 Uran - Uran  
@@ -4861,11 +4867,6 @@ yem - sól
 yem biskute -   
 yem di - słony  
 Yemen - Jemen  
-yen - oko  
-yen di -   
-yen kexa - rzęsa  
-yen sui - łza  
-yen sui gas - gaz łzawiący  
 yepa - kartka (dokument)  
 yepa alga - listownicowiec  
 yepa koli - jarmuż  

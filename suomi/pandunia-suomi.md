@@ -1204,7 +1204,6 @@ fa xiti bai - hävitä (kärsiä tappio)
 fa xopi - ostaa  
 fa xux - hiljentää  
 fa yagu - arvioida  
-fa yen - silmäillä (katsoa, tarkkailla)  
 faide - hyöty (etu)  
 faidaje - hyötyaines  
 faidike - hyödyllinen  
@@ -2083,8 +2082,8 @@ kanal - kanavoida
 kandela - kandela  
 kandi - makeinen (karkki, namu)  
 kane - tanko (pinna, sauva, patukka)  
-kane kasa - häkki  
 kane ban - patonki (ranskanleipä)  
+kane kasa - häkki  
 kane sor - salpa (säppi)  
 kanga - kampa  
 kangaru - kenguru  
@@ -3077,8 +3076,13 @@ ode - oodi (värssy)
 Odisa - orija (eräs intialainen kieli)  
 oganeson - oganesson  
 ohtopus - mustekala  
-oke - hyväksyä (hyväksyntä, OK)  
-okebil - kelpo (kohtalainen, okei)  
+oke - silmä  
+okal - silmä-  
+okate - silmäillä (katsoa, tarkkailla)  
+oke kexa - silmäripsi  
+oke sui - kyynel  
+okei - hyväksyä (hyväksyntä, OK)  
+okeibil - kelpo (kohtalainen, okei)  
 Olande nesia - Ahvenanmaa (Oolanti)  
 Oman - Oman  
 onda - aalto (laine)  
@@ -4138,13 +4142,14 @@ unifike - yhtenäinen
 Unifike Arabe Amiria (UAA) - Yhdistyneet Arabiemiirikunnat  
 Unifike Statia de Amerika (USA) - Yhdysvallat (ns. Amerikka)  
 unike - vain (ainoa, ainut)  
+unisme - monismi  
 un mar - kerran  
 un me - ensimmäinen (numero yksi)  
+unokike - yksisilmäinen  
+unoke lense - monokkeli  
 unrangike - yksivärinen  
 unsemike - yksimerkityksinen  
 unta - ykseys  
-un xe sim - monismi  
-un yen di lense - monokkeli  
 un zai di - yksinäinen  
 universal - universaali  
 Uran - Uranus  
@@ -4452,10 +4457,6 @@ yem - suola
 yem biskute - voileipäkeksi  
 yem di - suolainen  
 Yemen - Jemen  
-yen - silmä  
-yen di - silmä-  
-yen kexa - silmäripsi  
-yen sui - kyynel  
 yepa - lehti (arkki, levy)  
 yepa koli - lehtikaali  
 yepa late - sivu (kirjassa)  

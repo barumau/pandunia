@@ -190,7 +190,7 @@ Examples of different kinds of activity words include the following:
 'axe',
 **hogo**
 'fire',
-**yen**
+**oke**
 'eyes',
 **ame**
 'love',
@@ -219,7 +219,7 @@ Therefore the semantics of the following sentences are easy to understand.
 – I chop trees.  
 **mi hogo yo moka.**
 – I burn wood.  
-**mi yen tu.**
+**mi oke tu.**
 – I eye you. ~ I look at you.  
 **mi ame tu.**
 – I love you.

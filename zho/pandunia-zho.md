@@ -1295,6 +1295,8 @@ o - 或
 
 ode - 頌  
 ohtopus - 章鱼  
+oke - 眼睛  
+oke sui gas - 催泪瓦斯  
 onda - 波浪  
 orange - 橙子  
 orange rang - 橙色  
@@ -1856,8 +1858,6 @@ ye - 这 (此)
 yeka kanon - 易经 (周易)  
 yem - 盐  
 yem biskute - 梳打饼  
-yen - 眼睛  
-yen sui gas - 催泪瓦斯  
 yepa - 叶  
 Yesa - 耶稣  
 Yesa Mesi - 耶稣基督  

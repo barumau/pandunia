@@ -876,7 +876,7 @@ guitarra - gitar
 Gália - Galia  
 gálio - galium  
 gás - gas  
-gás lacrimogéneo - yen sui gas  
+gás lacrimogéneo - oke sui gas  
 gênero - gense  
 gênero gramatical - lexe gense  
 
@@ -1229,7 +1229,7 @@ monje ou monja - biku
 monograma - monograme  
 monstro - mostre  
 monção - barxa mosim  
-monóculo - un yen di lense  
+monóculo - unoke lense  
 monólogo - autologe  
 morder - dante  
 morder - gate a dante  
@@ -1332,14 +1332,14 @@ obrigado - xukre
 obrigar - debize  
 obsidiana - osidian  
 oceano - dai bahai  
-ocular - yen di  
+ocular - okal  
 ocultar (esconder) - fa sir  
 ocupado (atarefado) - mang  
 ode - ode  
 oganesson - oganeson  
 oito (8) - bati  
 oleiro - poter  
-olho - yen  
+olho - oke  
 onda - onda  
 onde - a ke  
 onde - ke loka  

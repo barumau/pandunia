@@ -239,11 +239,11 @@ They always take an object.
 **vise**
 – instead of
 
-**sa ga in la dome.**
+**da ga in la dome.**
 – He/she went into the house.  
-**sa ga ex la dome.**
+**da ga ex la dome.**
 – He/she went out of the house.  
-**sa lai re la dome.**
+**da lai re la dome.**
 – He/she came back to the house.  
 **da loge kon la xefe.**
 – He/she speaks with the boss.

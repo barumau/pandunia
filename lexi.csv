@@ -1214,7 +1214,6 @@ fa.xopi|fa xopi||||buy (purchase)||acheter|comprar|comprar|покупать (к�
 fa.xou|fa xou||||show (display, demonstrate)|||demostrar||доказать (демонстрировать)||||||||||||見せる (示す, デモる)|||||
 fa.xux|fa xux||||silence (make silent)||||||||||||||||||||silentigi|hiljentää|uciszyć (uciszać)
 fa.yagu|fa yagu||||estimate (approximate)|||estimar (apriximarse a)||||||||||||||||||arvioida|oszacować, szacować, przybliżyć, przybliżać
-fa.yen|fa yen||||eye (look, watch, observe, spectate)||||||||||||||||||||okulumi|silmäillä (katsoa, tarkkailla)|patrzeć (oglądać)
 faid.|faide|||ara: فَائِدَة‎ (fāʾida), tur:fayda, swa:faida, hau:fa'ida, fas: فایده‎ (fâyede), hin:फ़ायदा (fāyadā), may:faedah|gain (benefit, advantage, asset, profit)|||beneficio||применение|فایده‎|फ़ायदा|||kegunaan (faedah)|فَائِدَة‎|fayda (avantaj)|faida|amfani (fa'ida)|效用 (好处)||使用 (為, 利)|||utileco|hyöty (etu)|zasób (zastosowanie, użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta)
 faid.aj.|faidaje||||material (ingredient, resource)|||||||||||||||||||||hyötyaines|materiał (składnik, zasób)
 faid.ik.|faidike||||useful (beneficial, advantageous)|||útil (beneficioso)|||||||||||||||||utila|hyödyllinen|użyteczny, pomocny, przydatny, pożyteczny, korzystny
@@ -2162,9 +2161,9 @@ kanal.er|kanaler||||conduit (channel)||||||||||||||||||||||przewód (kanał)
 kandela|kandela|unomete|cd||candela|||candela (unidad de intensidad luminosa)||||||||||||||||||kandela|kandela
 kandi|kandi|||eng:candy, hin:कैंडी (kaiṇḍī), ben:ক্যান্ডি (kyandi), jpn:キャンデー (kyandē), tgl:kendi + ara:fas: قند (qand), tam:கண்டு (kaṇṭu)|candy (sweets)||bonbon|caramelo|bombom (doce)|конфета||कैंडी|ক্যান্ডি|கண்டு|gula-gula||tatlı (bonbon)|||糖果||キャンデー|사탕|kẹo|bombono|makeinen (karkki, namu)|cukierek, słodycze
 kane|kane|||eng:cane, fra:canne + zho:杆 (gǎn), yue:杆 (gon1), vie:cần, tha:คัน (khan)|bar (pole, rod, shaft, staff, stick)||bâton (canne, tige)|barra (vara, palo)|vara (bastão)|кол (штанга)|||||||||||||||stango|tanko (pinna, sauva, patukka)|pręt, kij
+kane.ban|kane ban||||baguette|||baguette||||||||||||||||||patonki (ranskanleipä)|bagietka
 kane.kasa|kane kasa||||cage||cage|jaula (caja)|gaiola (jaula)|клетка||क़फ़स (पिंजड़ा)|খাঁচা||sangkar|قَفَص|kafes|tundu||笼||檻 (篭, ケージ)|우리|lồng|kaĝo|häkki|klatka
 kane.minte|kane minte|bio|Mentha spicata||spearmint||menthe verte|hierbabuena|hortelã-verde|мята колоси́стая||||||||||留兰香||スペアミント|||||mięta zielona (mięta kłosowa)
-kane.ban|kane ban||||baguette|||baguette||||||||||||||||||patonki (ranskanleipä)|bagietka
 kane.sor|kane sor||||latch||loquet|cerrojo (pestillo)|tranca|щеколда|||||selot|||||门闩||掛け金|걸쇠|chốt cửa (then cửa)|riglilo|salpa (säppi)|
 kanga|kanga|||hin:कंघी (kaṅghī), urd:(kaṅghī), ben:কঙ্কত (kaṅkata), pan:ਕੰਘਾ (kaghā), mar:कंगवा (kaṅgvā), pnb:ਕੰਘਾ (kaṅghā) + eng:fra:may:kanga|comb|||peine||||||||||||||||||kampa|grzebień
 kangaru|kangaru|bio||eng:kangaroo, spa:canguro, por:canguru, rus:кенгуру (kenguru), tur:kanguru, swa:kangaruu, ara:كَنْغَر‎ (kanḡar), hin:कंगारू (kaṅgārū), may:kanggaru, jpn:カンガルー (kangarū)|kangaroo||kangourou|canguro|canguru|кенгуру||कंगारू|ক্যাংগারু||kanggaru||kanguru|kangaruu||袋鼠||カンガルー|캥거루|canguru (chuột túi)|kangaro|kenguru|kangur
@@ -3295,8 +3294,14 @@ od-|ode|||eng:fra:por:ode, spa:oda, rus:ода (oda), jpn:オード (ōdo), kor:
 Odisa|Odisa|nas|||Odia (Oriya)|||oriya||||||||||||||||||orija (eräs intialainen kieli)|orija
 oganeson|oganeson|yum 118|Og|eng:fra:por:may:oganesson, spa:oganesón, rus:оганесон, jpn:オガネソン, kor:우누녹튬|oganesson||oganesson|oganesón|oganesson|оганесон|||||oganesson|||||||オガネソン|우누녹튬||oganesono|oganesson|oganesson
 ohtopus|ohtopus|bio|Octopodiformes|eng:octopus, deu:Oktopus, tur:ahtapot, ara:أخطبوط (ʾuḵṭubūṭ), fas:اختاپوس‎ (oxtâpus), hin:ऑक्टोपस (okṭopasa), ben:অক্টোপাস (ôkṭopaś)|octopus||Poulpe (pieuvre)|pulpo|polvo|спрут (осьминог)|||||gurita|أخطبوط|ahtapot|pweza||章鱼||タコ|낙지 (문어)|bạch tuộc||mustekala|ośmiornica
-oke|oke|||eng:okay, spa:tur:may:okey, por:OK, rus:окей (okej), ara:أُوكِي‎‎‎ (ʾokey), hin:ओके (oke), zho:OK (ōukèi), jpn:オーケー (ōkē)|okay (acceptance; accept, say okay)|||OK (aceptar)||||||||||||||||||hyväksyä (hyväksyntä, OK)|zaakceptować, akceptować, powiedzieć okej, mówić okej
-oke.bil|okebil||||acceptable|||aceptable||||||||||||||大丈夫 (ＯＫ)|||akceptebla|kelpo (kohtalainen, okei)|okej, spoko, akceptowalny
+ok-|oke|bode||spa:ojo, rus:око (oko), ben:অক্ষি (ôkkhi) + eng:por:ocular, fra:oculaire|eye|Auge|œil|ojo|olho|глаз (око)||आँख (नैन, नेत्र)|চোখ (অক্ষি)||mata|عَيْن|göz|jicho||眼睛||目|눈|mắt|okulo|silmä|oko
+ok.al|okal||||ocular||oculaire|ocular|ocular|глазной||||||عَيْنِيّ|||||||||okula|silmä-|
+ok.at-|okate||||eye (look, watch, observe, spectate)||||||||||||||||||||okulumi|silmäillä (katsoa, tarkkailla)|patrzeć (oglądać)
+ok.kexa|oke kexa||||eyelash|||pestaña||||||||||||||||||silmäripsi|rzęsa
+ok.sui|oke sui|||tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|tear drop|||lágrima||||||||||||||||||kyynel|łza
+ok.sui.gas|oke sui gas||||tear gas||gaz lacrymogène|gas lacrimógeno|gás lacrimogéneo|слезоточи́вый газ||||||||||催泪瓦斯||催涙ガス||hơi cay|||gaz łzawiący
+okei-|okei|||eng:okay, spa:tur:may:okey, por:OK, rus:окей (okej), ara:أُوكِي‎‎‎ (ʾokey), hin:ओके (oke), zho:OK (ōukèi), jpn:オーケー (ōkē)|okay (acceptance; accept, say okay)|||OK (aceptar)||||||||||||||||||hyväksyä (hyväksyntä, OK)|zaakceptować, akceptować, powiedzieć okej, mówić okej
+okei.bil|okeibil||||acceptable|||aceptable||||||||||||||大丈夫 (ＯＫ)|||akceptebla|kelpo (kohtalainen, okei)|okej, spoko, akceptowalny
 Olande.nes.ia|Olande nesia|gogia|AX||Aland Islands|||islas Aland||||||||||||||||||Ahvenanmaa (Oolanti)|Wyspy Alandzkie
 Oman|Oman|gogia|OM||Oman|||Omán||||||||||||||||||Oman|Oman
 onda|onda|||spa:por:ita:onda, fra:onde, may:ombak|wave||onde|onda|onda|||||||||||波浪||波|||ondo|aalto (laine)|fala
@@ -4497,14 +4502,15 @@ un.if.ik-|unifike||||united|||unido||||||||||||||||||yhtenäinen|zjednoczony
 un.if.ik.arab.amir.ia|Unifike Arabe Amiria (UAA)|gogia|AE||United Arab Emirates|||Emiratos Árabes Unidos||||||||||||||||||Yhdistyneet Arabiemiirikunnat|Zjednoczone Emiraty Arabskie
 un.if.ik.stat.ia.de.amerika|Unifike Statia de Amerika (USA)|gogia|US||United States of America (USA)|||Estados Unidos de América||||||||||||||||||Yhdysvallat (ns. Amerikka)|Stany Zjednoczone Ameryki
 un.ik-|unike||||only (single, sole, lone, just)||seul (unique)|único (únicamente, solo)|único (só)|только (единственно, единственный, уникальный)||सिर्फ़ (एकमात्र)|||unik|||||只有 (惟独, 唯一, 独)||だけ (唯一の)|유일한|duy nhất|sola (nur)|vain (ainoa, ainut)|tylko (jedyny, wyłączny)
+un.ism-|unisme||||monism|||monismo|||||||||||||||||monismo|monismi|monizm
 un.mar|un mar||||once (one time)||une fois|una vez|uma vez|один раз||एक बार||||||||一次 (一遍)|||一度 (一回, 一遍)|한번|unufoje|kerran|raz (jeden raz)
 un.me|un me||||first (number one)|||primero (numbre uno)||||||||||||||||||ensimmäinen (numero yksi)|pierwszy, numer jeden
+un.ok.ik-|unokike||||one-eyed||||||||||||||||||||unuokula|yksisilmäinen|
+un.ok.lens-|unoke lense||||monocle||monocle|monóculo|monóculo|монокль|||||||||||||||monoklo|monokkeli|
 un.rang.ik-|unrangike||||monochrome|||monocromático||||||||||||||||||yksivärinen|jednokolorowy (monochromatyczny)
 un.sata|un sata||||instantly|||instantáneamente||тотчас||||||||||||一躍|||||
 un.sem.ik-|unsemike||||unambiguous|||inequívoco||||||||||||||||||yksimerkityksinen|jednoznaczny
 un.ta|unta||||unity|||unidad (unión)||единица|||||kesatuan||birlik (ünite)|umoja||团结 (统一)||団結 (統一)||||ykseys|
-un.xe.sim|un xe sim||||monism|||monismo|||||||||||||||||monismo|monismi|monizm
-un.yen.di.lense|un yen di lense||||monocle||monocle|monóculo|monóculo|монокль|||||||||||||||monoklo|monokkeli|
 un.zai.di|un zai di||||alone (lonely, isolated, solitary, single)|||solo (aislado, solitary, soltero)|só (solitário)|одинокий (единичный)||एकाकी|||seorangan (sendiri)|||||独自的 (孤单)||一人の (寂しい, ポツリ)||||yksinäinen|
 uni.vers.al|universal||||universal||universel|universal|universal|||||||||||||||||universaali|
 Uran|Uran|planeta 7|||Uranus||Uranus|Urano|Urano|Уран||||||أورانوس|Uranüs|||||||||Uranus|Uran
@@ -4823,11 +4829,6 @@ yem|yem|||zho:盐 (yán), yue:鹽 (yim4), jpn:塩 (en), kor:염 (yeom), vie:diê
 yem.biskute|yem biskute||||cracker (soda cracker)|||||||||||||||梳打饼||||||voileipäkeksi|
 yem.di|yem di||||salty (saline)|||salino|salino||||||||||||||||sala|suolainen|słony
 Yemen|Yemen|gogia|YE||Yemen|||Yemen||Йемен|||||||||||||||Jemeno|Jemen|Jemen
-yen|yen|bode||zho:眼 (yǎn) + ara: عَيْن‎ (ʿayn), egy: عين‎ (ʕēn), amh:ዐይን (ʿäyn), may:ain, fra:yeux|eye||œil|ojo|olho|глаз (око)||आँख (नैन, नेत्र)|চোখ (অক্ষি)||mata|عَيْن|göz|jicho||眼睛||目|눈|mắt|okulo|silmä|oko
-yen.di|yen di||||ocular||oculaire|ocular|ocular|глазной||||||عَيْنِيّ|||||||||okula|silmä-|
-yen.kexa|yen kexa||||eyelash|||pestaña||||||||||||||||||silmäripsi|rzęsa
-yen.sui|yen sui|||tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|tear drop|||lágrima||||||||||||||||||kyynel|łza
-yen.sui.gas|yen sui gas||||tear gas||gaz lacrymogène|gas lacrimógeno|gás lacrimogéneo|слезоточи́вый газ||||||||||催泪瓦斯||催涙ガス||hơi cay|||gaz łzawiący
 yepa|yepa|||zho:叶 (yè), yue:葉 (jip6), kor:잎 (ip);엽 (yeop), vie:diệp, jpn:葉 (yō)|leaf (sheet)||feuille|hoja|folha|лист||पत्ता|পাতা||daun||yaprak|jani||叶||葉|잎|lá|folio|lehti (arkki, levy)|kartka (dokument)
 yepa.alga|yepa alga||||kelp||varech|kelp|kelp||||||kelp|||||||コンブ|||||listownicowiec
 yepa.koli|yepa koli|bio|Brassica oleracea var. acephala||kale|Grünkohl|chou frisé|col rizada|couve-de-folhas|кале||||||كُرْنُب أَجْعَد‎|lahana (kelem)|||||||||lehtikaali|jarmuż

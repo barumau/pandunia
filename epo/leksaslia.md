@@ -1099,7 +1099,9 @@
 **ode** ** ← angla:franca:portugala:ode, hispana:oda, rusa:ода (oda), japana:オード (ōdo), korea:오드 (odeu)  
 **oganeson** *oganesono* ← angla:franca:portugala:malaja:oganesson, hispana:oganesón, rusa:оганесон, japana:オガネソン, korea:우누녹튬  
 **ohtopus** ** ← angla:octopus, deu:Oktopus, turka:ahtapot, araba:أخطبوط (ʾuḵṭubūṭ), persa:اختاپوس‎ (oxtâpus), hindia:ऑक्टोपस (okṭopasa), bengala:অক্টোপাস (ôkṭopaś)  
-**oke** ** ← angla:okay, hispana:turka:malaja:okey, portugala:OK, rusa:окей (okej), araba:أُوكِي‎‎‎ (ʾokey), hindia:ओके (oke), mandarena:OK (ōukèi), japana:オーケー (ōkē)  
+**oke sui** ** ← tamila:கண்ணீர் (kaṇṇīr), malajala:കണ്ണുനീർ (kaṇṇunīr), teluga:(kannīru), korea:눈물 (nunmul), vjetnama:nước mắt, malaja:air mata, taja:น้ำตา  
+**oke** *okulo* ← hispana:ojo, rusa:око (oko), bengala:অক্ষি (ôkkhi) + angla:portugala:ocular, franca:oculaire  
+**okei** ** ← angla:okay, hispana:turka:malaja:okey, portugala:OK, rusa:окей (okej), araba:أُوكِي‎‎‎ (ʾokey), hindia:ओके (oke), mandarena:OK (ōukèi), japana:オーケー (ōkē)  
 **onda** *ondo* ← hispana:portugala:itala:onda, franca:onde, malaja:ombak  
 **onor** *honoro (respekto)* ← angla:polona:hispana:honor, franca:honneur, portugala:honra, turka:onur  
 **orange** *oranĝo* ← angla:orange, hispana:naranja, portugala:laranja, hindia:नारंगी (narangi), japana:(orenji), + franca:orange, rusa:оранжевый (oranževiy)  
@@ -1632,8 +1634,6 @@
 **ye** *ĉi tiu* ← korea:이 (i) + bengala:এ (e), hindia:यह (ye) + teluga:ఈ (ī), tamila:இது (itu) + joruba:yìí  
 **yeka** ** ← mandarena:易 (yì), kantona:易 (yik6), japana:易 (eki), korea:역 (yeok), vjetnama:dịch  
 **yem** *salo* ← mandarena:盐 (yán), kantona:鹽 (yim4), japana:塩 (en), korea:염 (yeom), vjetnama:diêm  
-**yen sui** ** ← tamila:கண்ணீர் (kaṇṇīr), malajala:കണ്ണുനീർ (kaṇṇunīr), teluga:(kannīru), korea:눈물 (nunmul), vjetnama:nước mắt, malaja:air mata, taja:น้ำตา  
-**yen** *okulo* ← mandarena:眼 (yǎn) + araba: عَيْن‎ (ʿayn), egipta araba: عين‎ (ʕēn), amhara:ዐይን (ʿäyn), malaja:ain, franca:yeux  
 **yepa** *folio* ← mandarena:叶 (yè), kantona:葉 (jip6), korea:잎 (ip);엽 (yeop), vjetnama:diệp, japana:葉 (yō)  
 **yezi** *kokoso* ← mandarena:椰子 (yēzi), kantona:椰子 (ye4zi2), korea:야자 (yaja), japana:椰子 (yashi)  
 **yim** ** ← mandarena:阴 (yīn), kantona:陰 (jam1), japana:陰 (in), korea:음 (eum), vjetnama:âm, angla:deu:franca:hispana:portugala:yin, rusa:инь (in')  

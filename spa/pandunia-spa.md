@@ -1874,9 +1874,9 @@ kanal - canal (cauce, acequia, foso, zanja)
 kandela - candela (unidad de intensidad luminosa)  
 kandi - caramelo  
 kane - barra (vara, palo)  
+kane ban - baguette  
 kane kasa - jaula (caja)  
 kane minte - hierbabuena  
-kane ban - baguette  
 kane sor - cerrojo (pestillo)  
 kanga - peine  
 kangaru - canguro  
@@ -2856,8 +2856,13 @@ ode - oda
 Odisa - oriya  
 oganeson - oganesón  
 ohtopus - pulpo  
-oke - OK (aceptar)  
-okebil - aceptable  
+oke - ojo  
+okal - ocular  
+oke kexa - pestaña  
+oke sui - lágrima  
+oke sui gas - gas lacrimógeno  
+okei - OK (aceptar)  
+okeibil - aceptable  
 Olande nesia - islas Aland  
 Oman - Omán  
 onda - onda  
@@ -3883,14 +3888,14 @@ unifike - unido
 Unifike Arabe Amiria (UAA) - Emiratos Árabes Unidos  
 Unifike Statia de Amerika (USA) - Estados Unidos de América  
 unike - único (únicamente, solo)  
+unisme - monismo  
 un mar - una vez  
 un me - primero (numbre uno)  
+unoke lense - monóculo  
 unrangike - monocromático  
 un sata - instantáneamente  
 unsemike - inequívoco  
 unta - unidad (unión)  
-un xe sim - monismo  
-un yen di lense - monóculo  
 un zai di - solo (aislado, solitary, soltero)  
 universal - universal  
 Uran - Urano  
@@ -4160,11 +4165,6 @@ yehudisme - judaísmo
 yem - sal  
 yem di - salino  
 Yemen - Yemen  
-yen - ojo  
-yen di - ocular  
-yen kexa - pestaña  
-yen sui - lágrima  
-yen sui gas - gas lacrimógeno  
 yepa - hoja  
 yepa alga - kelp  
 yepa koli - col rizada  

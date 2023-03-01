@@ -1592,6 +1592,9 @@ o - ou
 ode - ode  
 oganeson - oganesson  
 ohtopus - Poulpe (pieuvre)  
+oke - œil  
+okal - oculaire  
+oke sui gas - gaz lacrymogène  
 onda - onde  
 onor - honneur  
 orange - orange (fruit)  
@@ -2145,7 +2148,7 @@ undurike - continu (analogique)
 unia - union  
 unike - seul (unique)  
 un mar - une fois  
-un yen di lense - monocle  
+unoke lense - monocle  
 universal - universel  
 Uran - Uranus  
 uranium - uranium  
@@ -2304,9 +2307,6 @@ yauta - besoin
 ye - ce...ci  
 yeka kanon - Yi King  
 yem - sel  
-yen - œil  
-yen di - oculaire  
-yen sui gas - gaz lacrymogène  
 yepa - feuille  
 yepa alga - varech  
 yepa koli - chou frisé  

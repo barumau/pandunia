@@ -1431,6 +1431,9 @@ o - или
 
 oganeson - оганесон  
 ohtopus - спрут (осьминог)  
+oke - глаз (око)  
+okal - глазной  
+oke sui gas - слезоточи́вый газ  
 onor - честь  
 orange - апельсин  
 orange rang - оранжевый  
@@ -1942,9 +1945,9 @@ un - один (1)
 unia - союз (уния)  
 unike - только (единственно, единственный, уникальный)  
 un mar - один раз  
+unoke lense - монокль  
 un sata - тотчас  
 unta - единица  
-un yen di lense - монокль  
 un zai di - одинокий (единичный)  
 Uran - Уран  
 uranium - уран  
@@ -2096,9 +2099,6 @@ ye - этот
 yeka kanon - Книга Перемен  
 yem - соль  
 Yemen - Йемен  
-yen - глаз (око)  
-yen di - глазной  
-yen sui gas - слезоточи́вый газ  
 yepa - лист  
 yepa koli - кале  
 Yesa - Иисус  

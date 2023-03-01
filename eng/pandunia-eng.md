@@ -1260,7 +1260,6 @@ fa xopi - buy (purchase)
 fa xou - show (display, demonstrate)  
 fa xux - silence (make silent)  
 fa yagu - estimate (approximate)  
-fa yen - eye (look, watch, observe, spectate)  
 faide - gain (benefit, advantage, asset, profit)  
 faidaje - material (ingredient, resource)  
 faidike - useful (beneficial, advantageous)  
@@ -2217,9 +2216,9 @@ kanaler - conduit (channel)
 kandela - candela  
 kandi - candy (sweets)  
 kane - bar (pole, rod, shaft, staff, stick)  
+kane ban - baguette  
 kane kasa - cage  
 kane minte - spearmint  
-kane ban - baguette  
 kane sor - latch  
 kanga - comb  
 kangaru - kangaroo  
@@ -3355,8 +3354,14 @@ ode - ode (verse)
 Odisa - Odia (Oriya)  
 oganeson - oganesson  
 ohtopus - octopus  
-oke - okay (acceptance; accept, say okay)  
-okebil - acceptable  
+oke - eye  
+okal - ocular  
+okate - eye (look, watch, observe, spectate)  
+oke kexa - eyelash  
+oke sui - tear drop  
+oke sui gas - tear gas  
+okei - okay (acceptance; accept, say okay)  
+okeibil - acceptable  
 Olande nesia - Aland Islands  
 Oman - Oman  
 onda - wave  
@@ -4565,14 +4570,15 @@ unifike - united
 Unifike Arabe Amiria (UAA) - United Arab Emirates  
 Unifike Statia de Amerika (USA) - United States of America (USA)  
 unike - only (single, sole, lone, just)  
+unisme - monism  
 un mar - once (one time)  
 un me - first (number one)  
+unokike - one-eyed  
+unoke lense - monocle  
 unrangike - monochrome  
 un sata - instantly  
 unsemike - unambiguous  
 unta - unity  
-un xe sim - monism  
-un yen di lense - monocle  
 un zai di - alone (lonely, isolated, solitary, single)  
 universal - universal  
 Uran - Uranus  
@@ -4897,11 +4903,6 @@ yem - salt
 yem biskute - cracker (soda cracker)  
 yem di - salty (saline)  
 Yemen - Yemen  
-yen - eye  
-yen di - ocular  
-yen kexa - eyelash  
-yen sui - tear drop  
-yen sui gas - tear gas  
 yepa - leaf (sheet)  
 yepa alga - kelp  
 yepa koli - kale  

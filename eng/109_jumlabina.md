@@ -798,14 +798,14 @@ The modifier particles are useful for creating complex adjectives that consists 
 
 **rode rang di labi**
 – rose-colored lips  
-**sama rang di yen**
+**sama rang di oke**
 – sky-colored eyes
 
 Or in the opposite order:
 
 **labi de rode rang**
 – lips of the rose-color  
-**yen de sama rang**
+**oke de sama rang**
 – eyes of the sky-color
 
 The particles help in creating measure words too.

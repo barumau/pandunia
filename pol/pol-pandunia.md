@@ -686,6 +686,7 @@
  - numograme  
  - Oberon  
  - ode  
+ - okal  
  - oskope  
  - ote  
  - otimal  
@@ -915,10 +916,11 @@
  - umur di  
  - un fen du  
  - un sata  
- - un yen di lense  
  - un zai di  
  - undurike horloger  
  - universal  
+ - unoke lense  
+ - unokike  
  - unta  
  - uzebil  
  - uzike  
@@ -990,7 +992,6 @@
  - yeka  
  - yeka kanon  
  - yem biskute  
- - yen di  
  - Yesa sanga  
  - yim  
  - yim yang  
@@ -1949,7 +1950,7 @@ garam masala - garma masala
 gardzić (pogardzać) - fa paraya  
 gatunek - jung  
 gaz - gas  
-gaz łzawiący - yen sui gas  
+gaz łzawiący - oke sui gas  
 gaza - gaze  
 gazela - gazel  
 gazeta - habar gazeta  
@@ -2845,7 +2846,7 @@ moneta - pesa diske
 Mongolia - Mongol  
 Mongolski - mongol di  
 monizm - monisme  
-monizm - un xe sim  
+monizm - unisme  
 monolog - autologe  
 monoteizm - undeisme  
 moralność, etyka - moral  
@@ -3122,9 +3123,9 @@ ogórek kiwano - korne melon
 ogórek melon - melon  
 ojciec - pa  
 ojczyzna - patria  
-okej, spoko, akceptowalny - okebil  
+okej, spoko, akceptowalny - okeibil  
 okno - janela  
-oko - yen  
+oko - oke  
 około; przybliżony - yaki  
 okrągły - gola di  
 olej - nafte  
@@ -3255,7 +3256,7 @@ paszport - pasporte
 patelnia - tava  
 patogen - patogener  
 patologia - patologia  
-patrzeć (oglądać) - fa yen  
+patrzeć (oglądać) - okate  
 patrzeć, widzieć - vide  
 pauza (przerwa) - pauze  
 paw - mayur  
@@ -3819,7 +3820,7 @@ rząd - polite
 rządzić - fa politi  
 rządzić, władać - fa sultan  
 rządzić, władać - kratia  
-rzęsa - yen kexa  
+rzęsa - oke kexa  
 róg - korne  
 róg - laba  
 równik - geo par lin  
@@ -4653,7 +4654,7 @@ z (od) - de
 z (partykuła posiadania) - de  
 z boku (na bok) - late di  
 zaakceptować, akceptować, powiedzieć okej, mówić okej - fa oke  
-zaakceptować, akceptować, powiedzieć okej, mówić okej - oke  
+zaakceptować, akceptować, powiedzieć okej, mówić okej - okei  
 zabawa, rozrywka - vanu  
 zabawny - vanu di  
 zabić, zabijać - matafa  
@@ -4856,7 +4857,7 @@ zły, zrujnowany, zepsuty - harabe
 łyżeczka - cai camaca  
 łyżka - camaca  
 łyżka stołowa - supa camaca  
-łza - yen sui  
+łza - oke sui  
 łódź, statek - nave  
 łóżko - bede  
 łączyć (złączyć) - be fuzi liga  

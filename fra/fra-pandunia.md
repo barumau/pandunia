@@ -899,7 +899,7 @@ gauche - leu
 gaufre - vafle  
 Gaule - Galia  
 gaz - gas  
-gaz lacrymogène - yen sui gas  
+gaz lacrymogène - oke sui gas  
 gazelle - gazel  
 geler (glacer) - be ais  
 genou - guta  
@@ -1328,7 +1328,7 @@ momentané - canaike
 monade - monaje  
 monde - dunia  
 monnaie (pièce) - pesa diske  
-monocle - un yen di lense  
+monocle - unoke lense  
 monogramme - monograme  
 monologue - autologe  
 monstre - mostre  
@@ -1456,7 +1456,7 @@ oblique (de travers) - terca
 obsidienne - osidian  
 occupé - mang  
 ocelot - oselote  
-oculaire - yen di  
+oculaire - okal  
 océan - dai bahai  
 Océan Antarctique - Antartika Bahai  
 océan Arctique - Artika Bahai  
@@ -2355,5 +2355,5 @@ zéro - siro
 être couché - be kux  
 être humain - human  
 île - nese  
-œil - yen  
+œil - oke  
 럭비 - ragbi  
