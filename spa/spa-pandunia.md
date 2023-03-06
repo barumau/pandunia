@@ -1184,7 +1184,8 @@ desconectar - dekonnete
 descriptivo - sifa di  
 desdentado - dante hin  
 deseo - vol xe  
-desesperado - axa hin  
+desesperado - anasike  
+desesperar - anase  
 desfigurar - dusforme  
 desfigurar - dusformife  
 desierto - sablestan  
@@ -1467,7 +1468,7 @@ espectador - speter
 espejismo - miraje  
 espejo (retrovisor) - mire plate  
 Esperanto - esperanto  
-esperar (desear) - axa  
+esperar (desear) - ase  
 esperar - dele to  
 espicificar (estipular) - fa xarti  
 espiral (hélice) - helix  

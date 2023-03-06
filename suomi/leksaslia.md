@@ -56,6 +56,7 @@
 **arsenium** *arseeni* ← englanti:arsenic, ranska:arsenic, espanja:arsénico, portugali:arsénic, yleiskiina:砷 (shēn), vietnami:asen, hindi:आर्सेनिक, bangla:আর্সেনিক, malaiji:arsen, suahili:aseniki, arabia: زرنيخ  
 **asan** *asento* ← hindi:आसन (āsan), englanti:asana, venäjä:асана (asana)  
 **asar** *vaikutus (tulos)* ← arabia: أَثَر‎ (ʾaṯar), persia: اثر‎ (asar), hindi:असर (asar), bangla:আসর (asôr), turkki:eser,tesir, suahili:athari, hausa:tasiri  
+**ase** *toivoa (toivo)* ← hindi:आस (ās); आशा (āśā), telugu:ఆశ (āśa), tamili:ஆசை (āsai), malaiji:filippiini:asa  
 **Asia** *Aasia* ← englanti:espanja:Asia, venäjä:Азия (Aziya), turkki:Asya, arabia:آسيا (ʾāsiyā), persia:آسیا‎ (âsiyâ), hindi:एशिया (eśiyā), bangla:এশিয়া (eśiẏa), marathi:आशिया (āśiyā), malaiji:Asia, yleiskiina:亞洲 (yàzhōu), kantoninkiina:亚洲 (aa3 zau1), wu-kiina:亚洲 (ia tseu), japani:アジア (ajia), korea:아시아 (asia), hausa:Asiya  
 **askete** *askeett* ← englanti:ascetic, espanja:portugali:asceta, ranska:ascéte, venäjä:аскет (asket)  
 **asle** *alkuperä* ← arabia:(ʾaṣl), turkki:asl, malaiji:asal, hindi:असल (asl), suahili:asili, hausa:asali  
@@ -73,8 +74,7 @@
 **avakate** *avokado* ← nah:ahuakatl, espanja:aguacate, portugali:abacate, filippiini:abokado, japani:アボカド (abokado), korea:아보카도 (abokado), ranska:avocat, puola:awokado, Kongo:zavoká  
 **avar** *vaurio (vahinko, haveri)* ← arabia: عَوَارِيَّة‎ (ʿawāriyya), englanti:(nautical) average, ranska:avarie, espanja:avéria, portugali:avaria, venäjä:авария (avariya), turkki:avarya  
 **ave** *kaura* ← ranska:avoine, espanja:avena, portugali:aveia, venäjä:овёс (ovyos), malaiji:haver  
-**axa** *toivoa* ← hindi:आशा (āśā), malaiji:filippiini:asa, telugu:ఆశ (āśa), tamili:ஆசை (āsai)  
-**axe** *akseli* ← englanti:axis, ranska:axe, portugali:eixo, hindi:अक्ष (akṣ), telugu:అక్షము (akṣamu), turkki:eksen  
+**axe** *akseli* ← englanti:axis, ranska:axe, portugali:eixo, persia: آسه‎ (âse), hindi:अक्ष (akṣ), bangla:অক্ষ (ôkṣô), telugu:అక్షము (akṣamu), malaiji:as, turkki:eksen  
 **Axuria** *Assyria* ← akk:(aššur), arabia:(aššur), hindi:अश्शूर (aśśūr), persia:(āšūr), englanti:Assyria, ranska:Assyrie, espanja:Asiria, portugali:Assíria, venäjä:Ассирия (Assiriya), yleiskiina:亚述 (Yàshù), hausa:Assuriya  
 **aya** *piika* ← portugali:aia, hindi:आया (āyā), telugu:ఆయా (āyā) + yleiskiina:阿姨 (āyí)  
 **ayo** *oi! (ai, oijoi)* ← ranska:aïe, espanja:ay, portugali:ai, venäjä:ай (ay), persia: آی‎ (ây), yleiskiina:哎哟 (āiyō), korea:아야 (aya), telugu:అయ్యో (ayyō), tamili:ஐயோ (aiyō)  

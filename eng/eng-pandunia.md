@@ -1171,6 +1171,7 @@ depth - fase teleta
 descriptive - sifa di  
 desert - sablestan  
 desk - karm eza  
+despair - anase  
 despise (scorn) - fa paraya  
 destine (set) - cun yo gol  
 destiny (fate, lot, kismet) - kisma  
@@ -2027,8 +2028,8 @@ honorable (respectable) - onor di
 hood (bonnet, cover over the engine) - moto cati  
 hook - huke  
 hop - humel  
-hope (wish) - axa  
-hopeless - axa hin  
+hope (wish) - ase  
+hopeless - anasike  
 horizon - sama kinar  
 hormone - hormon  
 horn - korne  

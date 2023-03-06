@@ -56,6 +56,7 @@
 **arsenium** *arsenic* ← English:arsenic, French:arsenic, Spanish:arsénico, Portuguese:arsénic, Mandarin:砷 (shēn), Vietnamese:asen, Hindi:आर्सेनिक, Bengali:আর্সেনিক, Malay:arsen, Swahili:aseniki, Arabic: زرنيخ  
 **asan** *posture (asana)* ← Hindi:आसन (āsan), English:asana, Russian:асана (asana)  
 **asar** *effect (impact, impression, result, outcome)* ← Arabic: أَثَر‎ (ʾaṯar), Persian: اثر‎ (asar), Hindi:असर (asar), Bengali:আসর (asôr), Turkish:eser,tesir, Swahili:athari, Hausa:tasiri  
+**ase** *hope (wish)* ← Hindi:आस (ās); आशा (āśā), Telugu:ఆశ (āśa), Tamil:ஆசை (āsai), Malay:Filipino:asa  
 **Asia** *Asia* ← English:Spanish:Asia, Russian:Азия (Aziya), Turkish:Asya, Arabic:آسيا (ʾāsiyā), Persian:آسیا‎ (âsiyâ), Hindi:एशिया (eśiyā), Bengali:এশিয়া (eśiẏa), Marathi:आशिया (āśiyā), Malay:Asia, Mandarin:亞洲 (yàzhōu), Cantonese:亚洲 (aa3 zau1), Wu-Chinese:亚洲 (ia tseu), Japanese:アジア (ajia), Korean:아시아 (asia), Hausa:Asiya  
 **askete** *ascetic* ← English:ascetic, Spanish:Portuguese:asceta, French:ascéte, Russian:аскет (asket)  
 **asle** *origin (source)* ← Arabic:(ʾaṣl), Turkish:asl, Malay:asal, Hindi:असल (asl), Swahili:asili, Hausa:asali  
@@ -73,8 +74,7 @@
 **avakate** *avocado* ← nah:ahuakatl, Spanish:aguacate, Portuguese:abacate, Filipino:abokado, Japanese:アボカド (abokado), Korean:아보카도 (abokado), French:avocat, Polish:awokado, Kongo:zavoká  
 **avar** *damage (injury, harm)* ← Arabic: عَوَارِيَّة‎ (ʿawāriyya), English:(nautical) average, French:avarie, Spanish:avéria, Portuguese:avaria, Russian:авария (avariya), Turkish:avarya  
 **ave** *oat* ← French:avoine, Spanish:avena, Portuguese:aveia, Russian:овёс (ovyos), Malay:haver  
-**axa** *hope (wish)* ← Hindi:आशा (āśā), Malay:Filipino:asa, Telugu:ఆశ (āśa), Tamil:ஆசை (āsai)  
-**axe** *axis (axle)* ← English:axis, French:axe, Portuguese:eixo, Hindi:अक्ष (akṣ), Telugu:అక్షము (akṣamu), Turkish:eksen  
+**axe** *axis (axle)* ← English:axis, French:axe, Portuguese:eixo, Persian: آسه‎ (âse), Hindi:अक्ष (akṣ), Bengali:অক্ষ (ôkṣô), Telugu:అక్షము (akṣamu), Malay:as, Turkish:eksen  
 **Axuria** *Assyria* ← akk:(aššur), Arabic:(aššur), Hindi:अश्शूर (aśśūr), Persian:(āšūr), English:Assyria, French:Assyrie, Spanish:Asiria, Portuguese:Assíria, Russian:Ассирия (Assiriya), Mandarin:亚述 (Yàshù), Hausa:Assuriya  
 **aya** *maid (nanny, ayah)* ← Portuguese:aia, Hindi:आया (āyā), Telugu:ఆయా (āyā) + Mandarin:阿姨 (āyí)  
 **ayo** *ouch (expressing pain, distress, shock and fear)* ← French:aïe, Spanish:ay, Portuguese:ai, Russian:ай (ay), Persian: آی‎ (ây), Mandarin:哎哟 (āiyō), Korean:아야 (aya), Telugu:అయ్యో (ayyō), Tamil:ஐயோ (aiyō)  

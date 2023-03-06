@@ -159,6 +159,8 @@ artiste - artiste
 Artika - arctique  
 Artika Bahai - océan Arctique  
 Aruba - Aruba  
+• anase - désespérer  
+• anasike - désespéré  
 Asia - Asie  
 asian - asiatique  
 asan - posture (position)  
@@ -206,7 +208,6 @@ avakate - avocat
 avar - dommage  
 ave - avoine  
 axe - axe  
-axa hin - désespéré  
 Axur - Assur  
 Axuria - Assyrie  
 aya - bonne (domestique)  

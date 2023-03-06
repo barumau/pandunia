@@ -186,6 +186,9 @@ arte saner - artesano
 Artika - Ártico  
 Artika Bahai - océano Ártico  
 Aruba - Aruba  
+ase - esperar (desear)  
+• anase - desesperar  
+• anasike - desesperado  
 Asia - Asia  
 asian - asiático  
 asan - postura (posición)  
@@ -245,8 +248,6 @@ avarive - dañino (perjudicial)
 avarize - dañar  
 ave - avena  
 axe - eje  
-axa - esperar (desear)  
-axa hin - desesperado  
 Axur - Assur (Ashur)  
 Axuria - Asiria  
 ayo - ay!  

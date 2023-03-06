@@ -92,6 +92,7 @@ arsenium - 砷
 arte fete intelige (AI) - 人工智能  
 artiste - 美术家  
 arte saner - 工匠 (匠人)  
+• anasike - 没有希望的  
 asar - 影响  
 asle - 起源  
 aslike - 原始的  
@@ -118,7 +119,6 @@ autatike - 自动的
 autologe - 独白  
 ave - 燕麦  
 axe - 轴线  
-axa hin - 没有希望的  
 aya - 女仆 (阿姨)  
 ayo - 哎哟  
 

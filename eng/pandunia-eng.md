@@ -244,6 +244,9 @@ arte saner - artisan (craftsman)
 Artika - Arctic  
 Artika Bahai - Arctic Ocean  
 Aruba - Aruba  
+ase - hope (wish)  
+• anase - despair  
+• anasike - hopeless  
 Asia - Asia  
 asian - Asian  
 asan - posture (asana)  
@@ -308,8 +311,6 @@ avarive - harmful (damaging)
 avarize - harm (damage)  
 ave - oat  
 axe - axis (axle)  
-axa - hope (wish)  
-axa hin - hopeless  
 Axur - Assur  
 Axuria - Assyria  
 aya - maid (nanny, ayah)  

@@ -101,6 +101,9 @@ arte fete baxa - artefarita lingvo
 arte fete intelige (AI) - artefarita inteligenteco  
 artiste - artisto  
 arte saner - metiisto  
+ase - esperi  
+• anase - senesperi  
+• anasike - senespera  
 Asia - Azio  
 asian - azia  
 asan - posteno  
@@ -134,8 +137,6 @@ avar - damaĝo
 avarive - damaĝa  
 ave - aveno  
 axe - akso  
-axa - esperi  
-axa hin - senespera  
 ayo - aj (alas)  
 
 ## B  

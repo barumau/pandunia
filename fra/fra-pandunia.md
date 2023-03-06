@@ -722,7 +722,8 @@ démocratie - demokratia
 dénier - denege  
 désaccord (différend) - anrai  
 désastre - dusastre  
-désespéré - axa hin  
+désespérer - anase  
+désespéré - anasike  
 détenir (arrêter) - detene  
 dévanagari - deonagre grame  
 développement - gradu mute  

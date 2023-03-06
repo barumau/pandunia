@@ -87,6 +87,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**arke**|eng:arch, spa:por:arco, fra:arc, rus:арка (arka), may:arka|
 |**aroma**|eng:spa:por:may:aroma, fra:arôme, deu:Aroma, rus:аромат (aromat), jpn:アロマ (aroma)|
 |**arsenium**|eng:arsenic, fra:arsenic, spa:arsénico, por:arsénic, zho:砷 (shēn), vie:asen, hin:आर्सेनिक, ben:আর্সেনিক, may:arsen, swa:aseniki, ara: زرنيخ|
+|**ase**|hin:आस (ās); आशा (āśā), tel:ఆశ (āśa), tam:ஆசை (āsai), may:tgl:asa|
 |**Asia**|eng:spa:Asia, rus:Азия (Aziya), tur:Asya, ara:آسيا (ʾāsiyā), fas:آسیا‎ (âsiyâ), hin:एशिया (eśiyā), ben:এশিয়া (eśiẏa), mar:आशिया (āśiyā), may:Asia, zho:亞洲 (yàzhōu), yue:亚洲 (aa3 zau1), wuu:亚洲 (ia tseu), jpn:アジア (ajia), kor:아시아 (asia), hau:Asiya|
 |**asan**|hin:आसन (āsan), eng:asana, rus:асана (asana)|
 |**asar**|ara: أَثَر‎ (ʾaṯar), fas: اثر‎ (asar), hin:असर (asar), ben:আসর (asôr), tur:eser,tesir, swa:athari, hau:tasiri|
@@ -106,8 +107,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**avakate**|nah:ahuakatl, spa:aguacate, por:abacate, tgl:abokado, jpn:アボカド (abokado), kor:아보카도 (abokado), fra:avocat, pol:awokado, kon:zavoká|
 |**avar**|ara: عَوَارِيَّة‎ (ʿawāriyya), eng:(nautical) average, fra:avarie, spa:avéria, por:avaria, rus:авария (avariya), tur:avarya|
 |**ave**|fra:avoine, spa:avena, por:aveia, rus:овёс (ovyos), may:haver|
-|**axe**|eng:axis, fra:axe, por:eixo, hin:अक्ष (akṣ), tel:అక్షము (akṣamu), tur:eksen|
-|**axa**|hin:आशा (āśā), may:tgl:asa, tel:ఆశ (āśa), tam:ஆசை (āsai)|
+|**axe**|eng:axis, fra:axe, por:eixo, fas: آسه‎ (âse), hin:अक्ष (akṣ), ben:অক্ষ (ôkṣô), tel:అక్షము (akṣamu), may:as, tur:eksen|
 |**Axuria**|akk:(aššur), ara:(aššur), hin:अश्शूर (aśśūr), fas:(āšūr), eng:Assyria, fra:Assyrie, spa:Asiria, por:Assíria, rus:Ассирия (Assiriya), zho:亚述 (Yàshù), hau:Assuriya|
 |**aya**|por:aia, hin:आया (āyā), tel:ఆయా (āyā) + zho:阿姨 (āyí)|
 |**ayo**|fra:aïe, spa:ay, por:ai, rus:ай (ay), fas: آی‎ (ây), zho:哎哟 (āiyō), kor:아야 (aya), tel:అయ్యో (ayyō), tam:ஐயோ (aiyō)|

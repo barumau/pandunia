@@ -1024,6 +1024,7 @@
  - analgive  
  - aname  
  - anarhiste  
+ - anase  
  - anding  
  - ankredebil  
  - ankredi  
@@ -1425,7 +1426,7 @@ bez - hin
 bezgłowy - kapa hin  
 bezimienny - nam hin  
 bezmózgi - nau hin  
-beznadziejny - axa hin  
+beznadziejny - anasike  
 bezpieczny - sekur  
 bezzębny - dante hin  
 Bhutan - Lung Dexa  
@@ -2916,7 +2917,7 @@ nad - a supra
 nadajnik radiowy - radio miser  
 nadać, wysłać pocztą - poste  
 Naddniestrze - Transe Nistre Dexa  
-nadzieja, życzenie - axa  
+nadzieja, życzenie - ase  
 nagi, goły, obnażony - nude  
 nagrobek - gabrite  
 nahuatl - nava  

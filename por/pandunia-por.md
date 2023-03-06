@@ -103,6 +103,8 @@ arsenium - arsénic
 arte fete - artefato  
 arte fete intelige (AI) - inteligência artificial  
 artiste - artista  
+• anase - desesperar  
+• anasike - desesperado  
 asar - efeito  
 asle - origem  
 aslamerikan - indígena (índio)  
@@ -139,7 +141,7 @@ auter - autor
 autologe - monólogo  
 avar - dano (avaria)  
 ave - aveia  
-axa hin - desesperado  
+axe - eixe  
 ayo - ai!  
 
 ## B  

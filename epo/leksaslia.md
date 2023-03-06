@@ -56,6 +56,7 @@
 **arsenium** *arseno* ← angla:arsenic, franca:arsenic, hispana:arsénico, portugala:arsénic, mandarena:砷 (shēn), vjetnama:asen, hindia:आर्सेनिक, bengala:আর্সেনিক, malaja:arsen, svahila:aseniki, araba: زرنيخ  
 **asan** *posteno* ← hindia:आसन (āsan), angla:asana, rusa:асана (asana)  
 **asar** ** ← araba: أَثَر‎ (ʾaṯar), persa: اثر‎ (asar), hindia:असर (asar), bengala:আসর (asôr), turka:eser,tesir, svahila:athari, haŭsa:tasiri  
+**ase** *esperi* ← hindia:आस (ās); आशा (āśā), teluga:ఆశ (āśa), tamila:ஆசை (āsai), malaja:filipina:asa  
 **Asia** *Azio* ← angla:hispana:Asia, rusa:Азия (Aziya), turka:Asya, araba:آسيا (ʾāsiyā), persa:آسیا‎ (âsiyâ), hindia:एशिया (eśiyā), bengala:এশিয়া (eśiẏa), marataja:आशिया (āśiyā), malaja:Asia, mandarena:亞洲 (yàzhōu), kantona:亚洲 (aa3 zau1), vua:亚洲 (ia tseu), japana:アジア (ajia), korea:아시아 (asia), haŭsa:Asiya  
 **askete** *ascetiko* ← angla:ascetic, hispana:portugala:asceta, franca:ascéte, rusa:аскет (asket)  
 **asle** *origino* ← araba:(ʾaṣl), turka:asl, malaja:asal, hindia:असल (asl), svahila:asili, haŭsa:asali  
@@ -73,8 +74,7 @@
 **avakate** *avokado* ← nah:ahuakatl, hispana:aguacate, portugala:abacate, filipina:abokado, japana:アボカド (abokado), korea:아보카도 (abokado), franca:avocat, polona:awokado, konga:zavoká  
 **avar** *damaĝo* ← araba: عَوَارِيَّة‎ (ʿawāriyya), angla:(nautical) average, franca:avarie, hispana:avéria, portugala:avaria, rusa:авария (avariya), turka:avarya  
 **ave** *aveno* ← franca:avoine, hispana:avena, portugala:aveia, rusa:овёс (ovyos), malaja:haver  
-**axa** *esperi* ← hindia:आशा (āśā), malaja:filipina:asa, teluga:ఆశ (āśa), tamila:ஆசை (āsai)  
-**axe** *akso* ← angla:axis, franca:axe, portugala:eixo, hindia:अक्ष (akṣ), teluga:అక్షము (akṣamu), turka:eksen  
+**axe** *akso* ← angla:axis, franca:axe, portugala:eixo, persa: آسه‎ (âse), hindia:अक्ष (akṣ), bengala:অক্ষ (ôkṣô), teluga:అక్షము (akṣamu), malaja:as, turka:eksen  
 **Axuria** ** ← akk:(aššur), araba:(aššur), hindia:अश्शूर (aśśūr), persa:(āšūr), angla:Assyria, franca:Assyrie, hispana:Asiria, portugala:Assíria, rusa:Ассирия (Assiriya), mandarena:亚述 (Yàshù), haŭsa:Assuriya  
 **aya** ** ← portugala:aia, hindia:आया (āyā), teluga:ఆయా (āyā) + mandarena:阿姨 (āyí)  
 **ayo** *aj (alas)* ← franca:aïe, hispana:ay, portugala:ai, rusa:ай (ay), persa: آی‎ (ây), mandarena:哎哟 (āiyō), korea:아야 (aya), teluga:అయ్యో (ayyō), tamila:ஐயோ (aiyō)  

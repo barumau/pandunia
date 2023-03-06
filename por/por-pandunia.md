@@ -560,7 +560,8 @@ descanso (repouso) - xanti
 desconectar - dekonnete  
 desdentado - dante hin  
 desenvolvimento - gradu mute  
-desesperado - axa hin  
+desesperado - anasike  
+desesperar - anase  
 desfigurar - dusforme  
 desfigurar - dusformife  
 deslizar - glis  
@@ -632,6 +633,7 @@ efetuar - fa asar
 Egipto (Egito) - Misre  
 ei - hei  
 einstânio - einsteinium  
+eixe - axe  
 ele ou ela - da  
 elemento químico - kimeme  
 eles ou elas - damen  

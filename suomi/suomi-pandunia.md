@@ -478,6 +478,7 @@ epäilyttävä - xakebil
 epämuodostunut - dusformike  
 epäonni - dus zar  
 epäonnistuminen - xiti bai  
+epätoivoinen (toivoton) - anasike  
 erbium - erbium  
 erehtyä (tehdä virhe) - galte  
 erikoinen (erityinen) - has  
@@ -1956,6 +1957,7 @@ luona (-lla, -ssa) - a
 luonne - nature  
 luonto - ekia  
 luonto - tabi  
+luopua toivosta (epätoivo) - anase  
 luota (lähtien, -sta, -lta) - de  
 luotettava - amenbil  
 luotettavuus - amenbilta  
@@ -3890,8 +3892,7 @@ toimiva - funtebil
 toinen (2.) - dume  
 toisiaan (toinen toistaan) - semen  
 toistaa - fa re  
-toivoa - axa  
-toivoton - axa hin  
+toivoa (toivo) - ase  
 Tokio - Tokyo  
 toksiini - biotoxe  
 toksikologia (myrkkyoppi) - toxologia  

@@ -236,6 +236,9 @@ arte saner - artesaani (käsityöläinen)
 Artika - Arktis  
 Artika Bahai - Jäämeri  
 Aruba - Aruba  
+ase - toivoa (toivo)  
+• anase - luopua toivosta (epätoivo)  
+• anasike - epätoivoinen (toivoton)  
 Asia - Aasia  
 asian - aasialainen  
 asan - asento  
@@ -298,8 +301,6 @@ avarive - vahingollinen (vaurioittava)
 avarize - vahingoittaa (vaurioittaa)  
 ave - kaura  
 axe - akseli  
-axa - toivoa  
-axa hin - toivoton  
 Axur - Assur  
 Axuria - Assyria  
 aya - piika  

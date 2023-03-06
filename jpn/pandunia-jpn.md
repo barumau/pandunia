@@ -74,6 +74,7 @@ aroma melon - マクワウリ
 arsenium - ヒ素  
 arte fete intelige (AI) - 人工知能  
 artiste - 美術家  
+• anasike - 絶望した  
 asar - 効果  
 asle - 起源  
 asparge - アスパラガス  
@@ -99,7 +100,6 @@ autife - カスタマイズする
 autokratia - 君主制  
 autologe - 独白 (独話)  
 ave - 烏麦  
-axa hin - 絶望した  
 ayo - 痛い  
 
 ## B  

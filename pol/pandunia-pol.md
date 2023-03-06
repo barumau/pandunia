@@ -209,6 +209,9 @@ arte saner - rzemieślnik
 Artika - Arktyka  
 Artika Bahai - Ocean Arktyczny  
 Aruba - Aruba  
+ase - nadzieja, życzenie  
+• anase -   
+• anasike - beznadziejny  
 Asia - Azja  
 asian - azjatycki  
 asan - postawa ciała; asana  
@@ -273,8 +276,6 @@ avarive - krzywdzący (szkodliwy)
 avarize -   
 ave -   
 axe - oś  
-axa - nadzieja, życzenie  
-axa hin - beznadziejny  
 Axur - Aszur  
 Axuria - Asyria  
 aya -   
