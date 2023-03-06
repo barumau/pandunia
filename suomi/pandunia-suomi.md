@@ -797,19 +797,19 @@ dang gi - soittokello
 danse - tanssi  
 Danske - tanskalainen  
 Danske gogia - Tanska  
-dante - purra  
 dante - hammas  
+dante - purra  
 dante baluta - hammastammi  
 dante broxa - hammasharja  
 dante davaer - hammaslääkäri  
 dante hin - hampaaton  
 dante kume - hammasvalli  
+dape - lyödä (iskeä)  
 dare - virrata (virta, virtaus)  
 daraje - neste  
 daria - vesistö (meri, järvi, joki)  
 darike - nestemäinen  
 dare tube - lappo  
-darba - lyödä (iskeä)  
 darmestadium - darmstadtium  
 darti - maa (maa-aines)  
 darti di - likainen (mutainen)  
@@ -3867,8 +3867,8 @@ sui sekur di - vesitiivis
 sui yau - jano  
 sui pipe - vesipiippu  
 Suise - Sveitsi  
-suka - tykätä (pitää, olla tyytyväinen jstkn; tyytyväinen, iloinen)  
-sukafa - ilostuttaa (tyydyttää)  
+suke - tykätä (pitää, olla tyytyväinen jstkn; tyytyväinen, iloinen)  
+sukife - ilostuttaa (tyydyttää)  
 sukar - sokeri  
 sukar di - sokerinen (makea)  
 sukar gana - sokeriruoko  

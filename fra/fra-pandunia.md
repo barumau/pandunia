@@ -975,7 +975,7 @@ herbe (gazon) - cau
 herminette - benzi  
 Hesse - Hese  
 heure - sah  
-heureux (se plaire) - suka  
+heureux (se plaire) - suke  
 hier - preden  
 Hindustan - Hindestan  
 hippopotame  - gubu  
@@ -1635,7 +1635,7 @@ placard - almari
 place - medan  
 plaine - plate stan  
 plainte (lamentation) - xikaye  
-plaire - sukafa  
+plaire - sukife  
 plan - plan  
 planche - moka bano  
 plante (végétal) - fite  

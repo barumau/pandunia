@@ -2009,8 +2009,8 @@ sui minta - Menthe aquatique
 sui yau - soif  
 sui pipe - houka (narguilé, chicha)  
 Suise - Suisse  
-suka - heureux (se plaire)  
-sukafa - plaire  
+suke - heureux (se plaire)  
+sukife - plaire  
 sukar - sucre  
 sukar bete - betterave à sucre (betterave sucrière)  
 sukar gana - canne à sucre  

@@ -1451,7 +1451,7 @@ biuro, urząd - bure
 biust - buste  
 bizmut - bismute  
 biznes, interes (aktywność komercyjna) - biznes  
-bić, uderzyć, uderzać - darba  
+bić, uderzyć, uderzać - dape  
 bliski - proxe  
 bliskość - proxia  
 blog - bloge  
@@ -1604,7 +1604,7 @@ ciepły - garma
 cierpienie, ból - alge  
 cierpieć (choroba) - pate  
 cieszyć się (zażywać, bawić się) - be vanu  
-cieszyć, podobać się - sukafa  
+cieszyć, podobać się - sukife  
 cień - saya  
 ciągnąć - tire  
 ciągły (analogowy) - undurike  
@@ -4445,7 +4445,7 @@ Wenzhou - Venzou
 weranda, balkon, taras, ganek - veranda  
 wermut - vermute  
 wersja (wariacja, edycja, wydanie) - version  
-wesoły (ucieszony; cieszyć się) - suka  
+wesoły (ucieszony; cieszyć się) - suke  
 wesprzeć (wzmocnić, zasilić) - fa max lika  
 wewnętrzny - in di  
 wewnętrzny - inike  

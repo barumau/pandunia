@@ -788,19 +788,19 @@ dang gi - dzwon (dzwonek)
 danse - taniec  
 Danske - duński  
 Danske gogia - Dania  
-dante -   
 dante - ząb  
+dante -   
 dante baluta - dąb zębaty  
 dante broxa - szczoteczka do zębów  
 dante davaer - dentysta  
 dante hin - bezzębny  
 dante kume -   
+dape - bić, uderzyć, uderzać  
 dare - latać (fruwać)  
 daraje - ciecz (płyn)  
 daria -   
 darike - ciekły (płynny)  
 dare tube - lejek  
-darba - bić, uderzyć, uderzać  
 darmestadium - darmsztadt  
 darti - grunt (ziemia, próchnica)  
 darti di - ziemny (glebowy, gruntowy)  
@@ -4236,8 +4236,8 @@ sui sekur di - wodoodporny
 sui yau - pragnienie  
 sui pipe -   
 Suise - Szwajcaria  
-suka - wesoły (ucieszony; cieszyć się)  
-sukafa - cieszyć, podobać się  
+suke - wesoły (ucieszony; cieszyć się)  
+sukife - cieszyć, podobać się  
 sukar - cukier  
 sukar bete - burak cukrowy  
 sukar di - słodki  

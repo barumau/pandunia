@@ -687,18 +687,18 @@ dang gi - campana (cencerro)
 danse - baile (danza)  
 Danske - danés  
 Danske gogia - Dinamarca  
-dante - morder  
 dante - diente  
+dante - morder  
 dante baluta - roble daimyo  
 dante broxa - cepillo de dientes  
 dante davaer - dentista (odontólogo)  
 dante hin - desdentado  
+dape - golpear (pegar)  
 dare - fluir  
 daraje - líquido  
 daria - cuerpo de agua  
 darike - líquido (fluido)  
 dare tube - embudo  
-darba - golpear (pegar)  
 darmestadium - darmstatio  
 darti - tierra (barro)  
 darti di - sucio  
@@ -3641,8 +3641,8 @@ sui sekur di - impermeable (sumergible)
 sui yau - sed  
 sui pipe - pipa de agua (narguile)  
 Suise - Suiza  
-suka - feliz (gustarse, disfrutar)  
-sukafa - gustar (complacer)  
+suke - feliz (gustarse, disfrutar)  
+sukife - gustar (complacer)  
 sukar - azúcar  
 sukar bete - remolacha azucarera  
 sukar di - azucarado  

@@ -717,14 +717,14 @@ manner or thing if needed.
 In Pandunia, questions beginning with _why_ are asked using
 **ke sabu**.
 
-**ke sabu tu suka mau?**
+**ke sabu tu suke mau?**
 = Why do you like cats?
 
 Questions asking about the cause or reason of something, are answered by adding
 **sabu**
 before the cause or reason.
 
-**ke sabu tu suka mau?**
+**ke sabu tu suke mau?**
 = Why do you like cats?  
 **de sabu damen es kavai.**
 = Because they are cute.
@@ -732,7 +732,7 @@ before the cause or reason.
 Of course **sabu** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-**mi suka mau de sabu damen es kavai**
+**mi suke mau de sabu damen es kavai**
 = I like cats because they are cute.
 
 ### Exercises
@@ -755,7 +755,7 @@ to come
 at, in, on  
 **jen**
 person  
-**suka**
+**suke**
 to like  
 **yang**
 manner, style  
@@ -766,12 +766,12 @@ period of time
 ### Answers to the Exercises
 
 
-1. ke jen suka supe?
-2. papa suka.
+1. ke jen suke supe?
+2. papa suke.
 3. ke zaman da lai?
 4. pos des minute.
 5. ke sabu da no yam?
-6. de sabu da no suka kafe e supe.
+6. de sabu da no suke kafe e supe.
 
 
 --------------------------------------------------------------------------------
@@ -784,7 +784,7 @@ There are no verb conjugations in Pandunia. All verbs have only one
 form for all times. In a way they are similar to some English verbs,
 such as "to hit", which is the same in all tenses.
 
-**mi darba da.**
+**mi dape da.**
 = I hit it.
 
 In Pandunia all verbs are like that! For example,
@@ -815,20 +815,20 @@ They can be used for modifying nouns.
 The same words are used when you talk about actions and events in time.
 Simply put the word before the verb.
 
-**mi pas darba da.**
+**mi pas dape da.**
 = I hit it (in the past).  
-**mi zai darba da.**
+**mi zai dape da.**
 = I am hitting it (currently).  
-**mi xa darba da.**
+**mi xa dape da.**
 = I will hit it (in the future).
 
 It's also possible to use preposition phrases of time.
 
-**mi darba da a pas.**
+**mi dape da a pas.**
 = I hit it in the past.  
-**mi darba da a zai.**
+**mi dape da a zai.**
 = I hit it at present.  
-**mi darba da a xa.**
+**mi dape da a xa.**
 = I hit it in the future.
 
 
@@ -879,7 +879,7 @@ before
 day, 24 hours  
 **noce**
 night  
-**darba**
+**dape**
 to hit, to beat  
 **ban**
 bread  

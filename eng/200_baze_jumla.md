@@ -715,7 +715,7 @@ What kind of music do you listen to?
 
 ### vide <small>to see</small>
 
-**suka vide tu.**
+**suke vide tu.**
 Pleased to see you!
 
 **to rivide!**
@@ -1071,7 +1071,7 @@ Cheers!
 ****
 Of course!
 
-**sual tu suka ...?**
+**sual tu suke ...?**
 Do you like ...?
 
 ****
@@ -1080,7 +1080,7 @@ I feel alright.
 **cing side a ye!**
 Please, sit here!
 
-**mi suka stasa.**
+**mi suke state.**
 I rather stand.
 
 ****

@@ -420,12 +420,12 @@ dana.cau - milio
 danse - danco  
 Danske - dana  
 Danske gogia - Danio  
-dante - mordi  
 dante - dento  
+dante - mordi  
 dante broxa - dentbroso  
 dante davaer - dentisto  
 dante hin - sendenta  
-darba - bati  
+dape - bati  
 data - datumo  
 data banke - datumbanko  
 data cule logia - komputoscienco  
@@ -1922,7 +1922,7 @@ sui gas - vaporo
 sui yau - soifo  
 sui pipe - akvopipo  
 Suise - Svislando  
-suka - feliĉa (ŝati)  
+suke - feliĉa (ŝati)  
 sukar - sukero  
 sukaros - sakarozo  
 sulfe - sulfuro  

@@ -261,7 +261,7 @@
 **dang** *ring (toll, clang)* ← English:dong + Persian: زنگ‎ (zang), Turkish:çan + Mandarin:钟 (zhōng), Cantonese:鐘 (zung1), Korean:종 (jong), Vietnamese:chuông, Khmer:ចួង (cuəng) + Russian:звон (zvon)  
 **danse** *dance* ← English:French:dance, Spanish:danza, Portuguese:dança, deu:Tanz, Russian:танец (taněc), Turkish:dans, Japanese:ダンス (dansu), Korean:댄스 (daenseu), Swahili:dansi  
 **dante** *tooth* ← Spanish:diente, Portuguese:dente, French:dent, English:dental, Hindi:दाँत (dā̃t), Bengali:দাঁত (dãtô), pan:ਦੰਦ (dand), Malay:danta  
-**darba** *strike (punch)* ← Arabic:ضرب‎ (ḍaraba), Swahili:dhurubu, Persian:ضرب (ḍarb) + Russian:уда́рить (udarit’)  
+**dape** *hit (strike, punch)* ← Mandarin:打 (dā), Cantonese:𢱕 (dap6), Vietnamese:đánh; đập, Thai:ตบ (top), zha:dop + Arabic: دَقَّ‎ (daqqa)  
 **dare** *flow (current, stream)* ← Hindi:धारा (dhārā); दर्या (daryā), Telugu:ధార (dhāra) + Persian: دریا‎ (daryâ), Bengali:দরিয়া (dôriẏa), Turkish:derya  
 **darmestadium** *darmstadtium* ← English:darmstadtium, French:darmstadtium, Spanish:darmstatio, Portuguese:darmstádio, Russian:дармштадтий, Mandarin: (dá), Japanese:ダームスタチウム, Korean:다름슈타튬, Vietnamese:darmstadti, Hindi:डार्म्स्टेडशियम, Bengali:ডারমস্টাডটিয়াম, Malay:darmstadtium, Swahili:darmstadti, Arabic: دارمشتاتيوم  
 **darti** *soil (dirt)* ← English:dirt, Hindi:धरती (dhartī), Urdu:(dhartī), Vietnamese:đất, Malay:darat  
@@ -1404,8 +1404,8 @@
 **suga** *fast (quick, rapid, speedy)* ← Mandarin:速 (sù), Cantonese:速 (cuk4), Japanese:速 (soku), Korean:속 (sok), Vietnamese:tốc + Hindi:शीघ्र (śīghra) + Arabic: سُرْعَة‎ (surʿa)  
 **sui kaboga** *calabash* ← Portuguese:abóbora-d'água, Turkish:su kabağı  
 **sui** *water* ← Mandarin:水 (shuǐ), Cantonese:水 (seoi2), Japanese:水 (sui), Korean:수 (su), Vietnamese:thuỷ + Turkish:su  
-**suka** *enjoy (like, be happy, be fond of; pleased, delighted, happy)* ← Hindi:सुख (sukha), Malay:suka, Telugu:సుఖము (sukhamu), Thai:สุข (suk), nan:舒合 (su-kah) + Japanese:好く (suku)  
 **sukar** *sugar* ← English:sugar, French:sucre, Spanish:azúcar, Portuguese:açúcar, Arabic: سُكَّر (sukkar), Hindi:शक्कर (śakkar), Bengali:শর্করা (śôrkôra), Malay:sakar, Hausa:Swahili:sukari, Turkish:şeker, Tamil:சக்கரை (cakkarai)  
+**suke** *enjoy (like, be happy, be fond of; pleased, delighted, happy)* ← Hindi:सुख (sukha), Bengali:সুখ (śukh), Telugu:సుఖము (sukhamu), Malay:suka, Thai:สุข (suk), Khmer:សុខ (sok), nan:舒合 (su-kah) + Japanese:好く (suku)  
 **sulfe** *sulfur (brimstone)* ← English:sulfur, French:soufre, Spanish:azufre, Portuguese:enxofre, Swahili:sulfuri  
 **sultaner** *ruler* ← Arabic:سلطة (sulṭa), English:Turkish:Malay:sultan, Spanish:sultán, Russian: султан (sultan), Persian:سلطان‎ (soltân), Hindi:सुल्तान (sultān), Bengali:সুলতান (śultan), Swahili:sultani  
 **sum** *sum (total)* ← English:sum, Spanish:suma, Portuguese:soma, French:somme, deu:Summe, Russian:сумма (summa)  

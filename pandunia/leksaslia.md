@@ -294,8 +294,8 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**dang**|eng:dong + fas: زنگ‎ (zang), tur:çan + zho:钟 (zhōng), yue:鐘 (zung1), kor:종 (jong), vie:chuông, khm:ចួង (cuəng) + rus:звон (zvon)|
 |**danse**|eng:fra:dance, spa:danza, por:dança, deu:Tanz, rus:танец (taněc), tur:dans, jpn:ダンス (dansu), kor:댄스 (daenseu), swa:dansi|
 |**dante**|spa:diente, por:dente, fra:dent, eng:dental, hin:दाँत (dā̃t), ben:দাঁত (dãtô), pan:ਦੰਦ (dand), may:danta|
+|**dape**|zho:打 (dā), yue:𢱕 (dap6), vie:đánh; đập, tha:ตบ (top), zha:dop + ara: دَقَّ‎ (daqqa)|
 |**dare**|hin:धारा (dhārā); दर्या (daryā), tel:ధార (dhāra) + fas: دریا‎ (daryâ), ben:দরিয়া (dôriẏa), tur:derya|
-|**darba**|ara:ضرب‎ (ḍaraba), swa:dhurubu, fas:ضرب (ḍarb) + rus:уда́рить (udarit’)|
 |**darmestadium**|eng:darmstadtium, fra:darmstadtium, spa:darmstatio, por:darmstádio, rus:дармштадтий, zho: (dá), jpn:ダームスタチウム, kor:다름슈타튬, vie:darmstadti, hin:डार्म्स्टेडशियम, ben:ডারমস্টাডটিয়াম, may:darmstadtium, swa:darmstadti, ara: دارمشتاتيوم|
 |**darti**|eng:dirt, hin:धरती (dhartī), urd:(dhartī), vie:đất, may:darat|
 |**data**|eng:may:data, vie:đa ta, deu:Daten, spa:tgl:datos, por:dados, fas:(dâde-hâ), hin:डेटा (ḍeṭā), urd:(ḍeṭā), jpn:データ (dēta)|
@@ -1438,7 +1438,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**suga**|zho:速 (sù), yue:速 (cuk4), jpn:速 (soku), kor:속 (sok), vie:tốc + hin:शीघ्र (śīghra) + ara: سُرْعَة‎ (surʿa)|
 |**sui**|zho:水 (shuǐ), yue:水 (seoi2), jpn:水 (sui), kor:수 (su), vie:thuỷ + tur:su|
 |**sui kaboga**|por:abóbora-d'água, tur:su kabağı|
-|**suka**|hin:सुख (sukha), may:suka, tel:సుఖము (sukhamu), tha:สุข (suk), nan:舒合 (su-kah) + jpn:好く (suku)|
+|**suke**|hin:सुख (sukha), ben:সুখ (śukh), tel:సుఖము (sukhamu), may:suka, tha:สุข (suk), khm:សុខ (sok), nan:舒合 (su-kah) + jpn:好く (suku)|
 |**sukar**|eng:sugar, fra:sucre, spa:azúcar, por:açúcar, ara: سُكَّر (sukkar), hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), may:sakar, hau:swa:sukari, tur:şeker, tam:சக்கரை (cakkarai)|
 |**sulfe**|eng:sulfur, fra:soufre, spa:azufre, por:enxofre, swa:sulfuri|
 |**sultaner**|ara:سلطة (sulṭa), eng:tur:may:sultan, spa:sultán, rus: султан (sultan), fas:سلطان‎ (soltân), hin:सुल्तान (sultān), ben:সুলতান (śultan), swa:sultani|

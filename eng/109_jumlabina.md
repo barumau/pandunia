@@ -148,13 +148,13 @@ in the form that the verb describes.
 Consider the following sentence,
 where the child is the agent that departs energy in the form of a push to the ball, the patient.
 
-**la bace darbe la bol.**
+**la bace dape la bol.**
 – The child hits the ball.
 
 There can also be an instrument that mediates the flow of energy from the agent to the patient.
 The sequence `agent > instrument > patient` reflects the flow of energy in an action chain.
 
-**la bace uze la bang darbe la bol.**
+**la bace uze la bang dape la bol.**
 – The child uses the bat to hit the ball.
 
 The order of the participants is in line with the order of the action chain in reality.
@@ -189,13 +189,13 @@ The semantic and syntactic roles can be mapped together in many ways.
 Usually the most energetic semantic participant takes the role of the subject.
 
 1. If there is an agent, it becomes the subject.
-    - ***la bace* uze la bang darbe la bol.**
+    - ***la bace* uze la bang dape la bol.**
       – *The child* uses the bat to hit the ball.  
 2. Otherwise, if there is an instrument, it becomes the subject.
-    - ***la bang* darbe la bol.**
+    - ***la bang* dape la bol.**
       – *The bat* hits the ball.  
 3. Otherwise the patient becomes the subject.
-    - ***la bol* darbe.**
+    - ***la bol* dape.**
       – *The ball* is hit.
 
 
@@ -336,8 +336,8 @@ A basic sequence is that of `agent > instrument > patient`.
 
 **da uze un caku kate la ban.**
 – He uses a knife to cut the bread.  
-**da jete la bol darbe la dike.**
-– Hi throws the ball to hit the target.  
+**da jete la bol dape la dike.**
+– He throws the ball to hit the target.  
 **mi xofe la car lai la site.**
 – He drives the car to enter the city.
 
@@ -701,11 +701,11 @@ The rest of the sentence can optionally be preceded by the word **asar**, which 
 **ama**
 – but (introduces a word or phrase that contrasts with or contradicts the preceding word or phrase)
 
-**mi suka mau e vaf.**
+**mi suke mau e vaf.**
 – I like cats and dogs.  
-**mi suka mau o vaf.**
+**mi suke mau o vaf.**
 – I like cats or dogs.  
-**mi suka mau ama no vaf.**
+**mi suke mau ama no vaf.**
 – I like cats but not dogs.
 
 
@@ -937,7 +937,7 @@ It is different from **he** in that it's not directly asking a question but it o
 It roughly translates as *right?*, *isn't it?*, *isn't that so?*, etc.
 One uses it at the end of sentence if one is not completely sure about something but thinks it's probably true.
 
-**tu suka kafe, ne? cepe un kupe ba!**
+**tu suke kafe, ne? cepe un kupe ba!**
 – You like coffee, right? Grab a cup!  
 **da neu, ne?**
 – It is new, isn't it?

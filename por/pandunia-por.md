@@ -1767,7 +1767,7 @@ sui minta - hortelã-da-água
 sui yau - sede  
 sui pipe - narguilé (xixa)  
 Suise - Suíça  
-suka - feliz  
+suke - feliz  
 sukar - açúcar  
 sukar gana - cana-de-açúcar  
 sukaros - sacarose  

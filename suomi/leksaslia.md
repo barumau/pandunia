@@ -261,7 +261,7 @@
 **dang** *kilistää (soittaa kelloa)* ← englanti:dong + persia: زنگ‎ (zang), turkki:çan + yleiskiina:钟 (zhōng), kantoninkiina:鐘 (zung1), korea:종 (jong), vietnami:chuông, khmer:ចួង (cuəng) + venäjä:звон (zvon)  
 **danse** *tanssi* ← englanti:ranska:dance, espanja:danza, portugali:dança, deu:Tanz, venäjä:танец (taněc), turkki:dans, japani:ダンス (dansu), korea:댄스 (daenseu), suahili:dansi  
 **dante** *hammas* ← espanja:diente, portugali:dente, ranska:dent, englanti:dental, hindi:दाँत (dā̃t), bangla:দাঁত (dãtô), pan:ਦੰਦ (dand), malaiji:danta  
-**darba** *lyödä (iskeä)* ← arabia:ضرب‎ (ḍaraba), suahili:dhurubu, persia:ضرب (ḍarb) + venäjä:уда́рить (udarit’)  
+**dape** *lyödä (iskeä)* ← yleiskiina:打 (dā), kantoninkiina:𢱕 (dap6), vietnami:đánh; đập, thai:ตบ (top), zha:dop + arabia: دَقَّ‎ (daqqa)  
 **dare** *virrata (virta, virtaus)* ← hindi:धारा (dhārā); दर्या (daryā), telugu:ధార (dhāra) + persia: دریا‎ (daryâ), bangla:দরিয়া (dôriẏa), turkki:derya  
 **darmestadium** *darmstadtium* ← englanti:darmstadtium, ranska:darmstadtium, espanja:darmstatio, portugali:darmstádio, venäjä:дармштадтий, yleiskiina: (dá), japani:ダームスタチウム, korea:다름슈타튬, vietnami:darmstadti, hindi:डार्म्स्टेडशियम, bangla:ডারমস্টাডটিয়াম, malaiji:darmstadtium, suahili:darmstadti, arabia: دارمشتاتيوم  
 **darti** *maa (maa-aines)* ← englanti:dirt, hindi:धरती (dhartī), urdu:(dhartī), vietnami:đất, malaiji:darat  
@@ -1404,8 +1404,8 @@
 **suga** *nopea (pikainen, vauhdikas)* ← yleiskiina:速 (sù), kantoninkiina:速 (cuk4), japani:速 (soku), korea:속 (sok), vietnami:tốc + hindi:शीघ्र (śīghra) + arabia: سُرْعَة‎ (surʿa)  
 **sui kaboga** ** ← portugali:abóbora-d'água, turkki:su kabağı  
 **sui** *vesi* ← yleiskiina:水 (shuǐ), kantoninkiina:水 (seoi2), japani:水 (sui), korea:수 (su), vietnami:thuỷ + turkki:su  
-**suka** *tykätä (pitää, olla tyytyväinen jstkn; tyytyväinen, iloinen)* ← hindi:सुख (sukha), malaiji:suka, telugu:సుఖము (sukhamu), thai:สุข (suk), nan:舒合 (su-kah) + japani:好く (suku)  
 **sukar** *sokeri* ← englanti:sugar, ranska:sucre, espanja:azúcar, portugali:açúcar, arabia: سُكَّر (sukkar), hindi:शक्कर (śakkar), bangla:শর্করা (śôrkôra), malaiji:sakar, hausa:suahili:sukari, turkki:şeker, tamili:சக்கரை (cakkarai)  
+**suke** *tykätä (pitää, olla tyytyväinen jstkn; tyytyväinen, iloinen)* ← hindi:सुख (sukha), bangla:সুখ (śukh), telugu:సుఖము (sukhamu), malaiji:suka, thai:สุข (suk), khmer:សុខ (sok), nan:舒合 (su-kah) + japani:好く (suku)  
 **sulfe** *rikki* ← englanti:sulfur, ranska:soufre, espanja:azufre, portugali:enxofre, suahili:sulfuri  
 **sultaner** ** ← arabia:سلطة (sulṭa), englanti:turkki:malaiji:sultan, espanja:sultán, venäjä: султан (sultan), persia:سلطان‎ (soltân), hindi:सुल्तान (sultān), bangla:সুলতান (śultan), suahili:sultani  
 **sum** *summa* ← englanti:sum, espanja:suma, portugali:soma, ranska:somme, deu:Summe, venäjä:сумма (summa)  

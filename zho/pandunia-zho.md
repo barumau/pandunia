@@ -1613,7 +1613,7 @@ sui minta - 水薄荷
 sui yau - 口渴  
 sui pipe - 水烟袋  
 Suise - 瑞士  
-suka - 高兴  
+suke - 高兴  
 sukar - 糖  
 sukar gana - 甘蔗  
 sukaros - 蔗糖  

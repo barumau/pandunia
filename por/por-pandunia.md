@@ -766,7 +766,7 @@ fazer (fato, facto) - fete
 fazer - fa  
 fechadura - tala  
 feio - dusrupike  
-feliz - suka  
+feliz - suke  
 feno - gan cau  
 fenol - fenol  
 fermentar - be biomute  

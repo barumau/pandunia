@@ -1387,7 +1387,7 @@ England - Englix
 English - englix di  
 English daisy - englix margarita  
 English oak - europa baluta  
-enjoy (like, be happy, be fond of; pleased, delighted, happy) - suka  
+enjoy (like, be happy, be fond of; pleased, delighted, happy) - suke  
 enjoy (play) - be vanu  
 enough (sufficient) - bas  
 enter (get in) - be in  
@@ -1994,6 +1994,7 @@ historian - historer
 history (annals) - histor  
 history (past times) - historia  
 history (study of history) - historologia  
+hit (strike, punch) - dape  
 hmm… - hem…  
 Ho Chi Minh City (Saigon) - Ho Ci Min site  
 hobby - hobi  
@@ -3394,7 +3395,7 @@ play a game - geme
 play music - muzike  
 playdough - plaste paste  
 player (gamer) - gemer  
-please (satisfy, delight) - sukafa  
+please (satisfy, delight) - sukife  
 pliers (pincers) - pinse gi  
 pluck feathers - depena  
 plug (stop with a plug) - fa tapa  
@@ -4246,7 +4247,6 @@ street - gali
 strengthen (reinforce) - fa lika  
 stretch (extend) - long tire  
 stride (march) - grese  
-strike (punch) - darba  
 strip (peel) - tire yo pil  
 strong - bala  
 strontium - estrontium  

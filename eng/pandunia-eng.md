@@ -823,19 +823,19 @@ dang gi - bell
 danse - dance  
 Danske - Danish  
 Danske gogia - Denmark  
-dante - bite  
 dante - tooth  
+dante - bite  
 dante baluta - daimyo oak  
 dante broxa - tooth brush  
 dante davaer - dentist  
 dante hin - toothless  
 dante kume - alveolar ridge (gum ridge)  
+dape - hit (strike, punch)  
 dare - flow (current, stream)  
 daraje - liquid  
 daria - body of water (sea, lake, river)  
 darike - fluid (liquid)  
 dare tube - funnel  
-darba - strike (punch)  
 darmestadium - darmstadtium  
 darti - soil (dirt)  
 darti di - soily (dirty)  
@@ -4271,8 +4271,8 @@ sui sekur di - waterproof
 sui yau - thirst  
 sui pipe - waterpipe (hookah, shisha)  
 Suise - Switzerland  
-suka - enjoy (like, be happy, be fond of; pleased, delighted, happy)  
-sukafa - please (satisfy, delight)  
+suke - enjoy (like, be happy, be fond of; pleased, delighted, happy)  
+sukife - please (satisfy, delight)  
 sukar - sugar  
 sukar bete - sugar beet  
 sukar di - sugary (sweet)  

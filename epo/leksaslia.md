@@ -261,7 +261,7 @@
 **dang** ** ← angla:dong + persa: زنگ‎ (zang), turka:çan + mandarena:钟 (zhōng), kantona:鐘 (zung1), korea:종 (jong), vjetnama:chuông, kmera:ចួង (cuəng) + rusa:звон (zvon)  
 **danse** *danco* ← angla:franca:dance, hispana:danza, portugala:dança, deu:Tanz, rusa:танец (taněc), turka:dans, japana:ダンス (dansu), korea:댄스 (daenseu), svahila:dansi  
 **dante** *dento* ← hispana:diente, portugala:dente, franca:dent, angla:dental, hindia:दाँत (dā̃t), bengala:দাঁত (dãtô), pan:ਦੰਦ (dand), malaja:danta  
-**darba** *bati* ← araba:ضرب‎ (ḍaraba), svahila:dhurubu, persa:ضرب (ḍarb) + rusa:уда́рить (udarit’)  
+**dape** *bati* ← mandarena:打 (dā), kantona:𢱕 (dap6), vjetnama:đánh; đập, taja:ตบ (top), zha:dop + araba: دَقَّ‎ (daqqa)  
 **dare** ** ← hindia:धारा (dhārā); दर्या (daryā), teluga:ధార (dhāra) + persa: دریا‎ (daryâ), bengala:দরিয়া (dôriẏa), turka:derya  
 **darmestadium** ** ← angla:darmstadtium, franca:darmstadtium, hispana:darmstatio, portugala:darmstádio, rusa:дармштадтий, mandarena: (dá), japana:ダームスタチウム, korea:다름슈타튬, vjetnama:darmstadti, hindia:डार्म्स्टेडशियम, bengala:ডারমস্টাডটিয়াম, malaja:darmstadtium, svahila:darmstadti, araba: دارمشتاتيوم  
 **darti** ** ← angla:dirt, hindia:धरती (dhartī), urdua:(dhartī), vjetnama:đất, malaja:darat  
@@ -1404,8 +1404,8 @@
 **suga** *rapida* ← mandarena:速 (sù), kantona:速 (cuk4), japana:速 (soku), korea:속 (sok), vjetnama:tốc + hindia:शीघ्र (śīghra) + araba: سُرْعَة‎ (surʿa)  
 **sui kaboga** ** ← portugala:abóbora-d'água, turka:su kabağı  
 **sui** *akvo* ← mandarena:水 (shuǐ), kantona:水 (seoi2), japana:水 (sui), korea:수 (su), vjetnama:thuỷ + turka:su  
-**suka** *feliĉa (ŝati)* ← hindia:सुख (sukha), malaja:suka, teluga:సుఖము (sukhamu), taja:สุข (suk), nan:舒合 (su-kah) + japana:好く (suku)  
 **sukar** *sukero* ← angla:sugar, franca:sucre, hispana:azúcar, portugala:açúcar, araba: سُكَّر (sukkar), hindia:शक्कर (śakkar), bengala:শর্করা (śôrkôra), malaja:sakar, haŭsa:svahila:sukari, turka:şeker, tamila:சக்கரை (cakkarai)  
+**suke** *feliĉa (ŝati)* ← hindia:सुख (sukha), bengala:সুখ (śukh), teluga:సుఖము (sukhamu), malaja:suka, taja:สุข (suk), kmera:សុខ (sok), nan:舒合 (su-kah) + japana:好く (suku)  
 **sulfe** *sulfuro* ← angla:sulfur, franca:soufre, hispana:azufre, portugala:enxofre, svahila:sulfuri  
 **sultaner** ** ← araba:سلطة (sulṭa), angla:turka:malaja:sultan, hispana:sultán, rusa: султан (sultan), persa:سلطان‎ (soltân), hindia:सुल्तान (sultān), bengala:সুলতান (śultan), svahila:sultani  
 **sum** *sumo* ← angla:sum, hispana:suma, portugala:soma, franca:somme, deu:Summe, rusa:сумма (summa)  

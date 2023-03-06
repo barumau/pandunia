@@ -1586,7 +1586,7 @@ faz (faceta) - fase
 febrero - mes du  
 fecha - nen mes den  
 felicitar - barke  
-feliz (gustarse, disfrutar) - suka  
+feliz (gustarse, disfrutar) - suke  
 feminismo - femisme  
 feministe - femiste  
 fenilo - fenil  
@@ -1758,7 +1758,7 @@ gobernante (soberano) - sultaner
 gobernar - fa politi  
 gobierno - polite  
 gofre - vafle  
-golpear (pegar) - darba  
+golpear (pegar) - dape  
 goma (caucho, hule, borrador) - gomu  
 goma arábiga - arabi babul  
 goniómetro (medidor de ángulos) - gona metri gi  
@@ -1812,7 +1812,7 @@ guitarra - gitar
 gujaratí - gujarati  
 gul - gule  
 gusano de seda - silke larva  
-gustar (complacer) - sukafa  
+gustar (complacer) - sukife  
 gusto (sabor) - guste  
 Guyana - Guyana  
 Guyana Francesa - Franse Guyana  

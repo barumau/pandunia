@@ -918,7 +918,7 @@ ilmavoimat - air ordu
 ilmeinen (silminnähtävä) - exvidebil  
 ilmestyä - be zai  
 ilmiasu (hahmo, ulkomuoto, ulkonäkö) - rupa  
-ilostuttaa (tyydyttää) - sukafa  
+ilostuttaa (tyydyttää) - sukife  
 ilta - xam  
 iltapäivä - xam dia  
 ilves - linxe  
@@ -1981,7 +1981,7 @@ lyijy - plumbe
 lyijykynä - karbe kalam  
 lymfa - limfa  
 lypsää maitoa - tire yo milke  
-lyödä (iskeä) - darba  
+lyödä (iskeä) - dape  
 lähde (kaivo) - fonte  
 lähdevesi - fonte sui  
 läheinen - proxe  
@@ -3994,7 +3994,7 @@ tyhmä (hölmö) - idiote di
 tykki - dai pau  
 tykkimies - dai pauer  
 tykkääminen - file  
-tykätä (pitää, olla tyytyväinen jstkn; tyytyväinen, iloinen) - suka  
+tykätä (pitää, olla tyytyväinen jstkn; tyytyväinen, iloinen) - suke  
 tylsyys (pitkästys) - bori  
 tynnyri (tölkki) - tong  
 typerys (idiootti) - idiote  

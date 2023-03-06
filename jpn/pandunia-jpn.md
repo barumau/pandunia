@@ -1598,7 +1598,7 @@ sui kaboga - ヒョウタン (ひさご)
 sui yau - 喉の渇き  
 sui pipe - 水パイプ  
 Suise - スイス  
-suka - 幸せな  
+suke - 幸せな  
 sukar - 砂糖  
 sukar bete - テンサイ (サトウダイコン)  
 sukar gana - サトウキビ  
