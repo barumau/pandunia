@@ -395,7 +395,7 @@ canne à pêche - huke lin kane
 canne à sucre - sukar gana  
 canon - dai pau  
 canoë - kanu  
-Cantalupo in Sabina - Kantalupo va Sabina  
+Cantalupo in Sabina - Kantalupo a Sabina  
 canyon (ravin) - kanyon  
 capacité (pouvoir, habileté) - bilta  
 cape - mantol  
@@ -513,8 +513,8 @@ clown (paillasse) - payace
 clé (clef) - cavi  
 cobalt - kobalte  
 coeur - kerne  
-collaborer - kon kar  
 collaborer - konkar  
+collaborer - konkare  
 coller - glutize  
 colorant - rang mate  
 combava - gros limon  
@@ -1398,7 +1398,7 @@ neige - hima
 Neptune - Neputun  
 neptunium - neputunium  
 nerf - neure  
-net (propre) - saf  
+net (propre) - safe  
 neuf (9) - tisa  
 neurone - neuron  
 neurotoxine - neurotoxe  
@@ -1411,6 +1411,7 @@ nier - nege
 Nigeria - Nigeria  
 nihonium - niponium  
 niobium - niobium  
+nirvana - nirban  
 nitrate - nitrate  
 niveau - par fase  
 nièce - sau doh  
@@ -1604,6 +1605,7 @@ phase - faze
 philosophie - filsofe  
 phosphate - fosfate  
 phosphore - fosfe  
+photo - foto  
 photographie - fotografe  
 photographie - fotografia  
 photon - foton  
@@ -1899,7 +1901,7 @@ sain - sale
 saintes écritures  - sante kanon  
 saison - mosim  
 salam - salam  
-sale - ansaf  
+sale - ansafe  
 salle - sala  
 salle de bains - banya kamar  
 salle de classe - xule kamar  
@@ -1931,7 +1933,7 @@ sauvage - vilde
 sauver (secourir) - salve  
 sauveur - salver  
 savane - garma zona caustan  
-savoir - sabi  
+savoir - sabe  
 savoir - san  
 Scandinavie - Skandia  
 scandium - skandium  
@@ -1973,7 +1975,7 @@ silence - tixta
 silencieux (se taire) - tix  
 silex - hogo seku  
 silicium - silike  
-simple - sada  
+simple - sade  
 simulation - sam sifa xe  
 sirop - xirope  
 situation (état de choses) - xe hal  
@@ -2333,6 +2335,7 @@ zéro - siro
 étagère - lipa bano  
 étain - estan  
 état - hal  
+éteindre - nirban  
 éternuer (atchoum) - aci  
 éthane - etan  
 éthanol - etanol  

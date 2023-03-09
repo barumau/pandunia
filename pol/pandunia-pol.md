@@ -471,7 +471,7 @@ be retro - wrócić, wracać, wycofać się, wycofywać się
 be rota - obrócić się (kręcić się)  
 be rupa - wyglądać (wydawać się)  
 be rute galte - zbłąkać się (wykoleić się)  
-be sabi vol -   
+be sabe vol -   
 be sam rupa - być podobnym, być jak  
 be sel - powinien  
 be sona - spać  
@@ -1125,7 +1125,6 @@ fa jui -
 fa kai - otworzyć, otwierać  
 fa kata - opowiedzieć, opowiadać  
 fa kino - ruszać, przenościć, zmieniać miejsce, inspirować  
-fa kon sabi - poinformować, informować, zakomunikować, komunikować  
 fa koste - kosztować  
 fa krus fixe - ukrzyżować  
 fa kung - przebić (perforować, dziurawić)  
@@ -1381,6 +1380,7 @@ forum - forum
 fosfe - fosfor  
 fosfate - fosfat  
 fote - światło, oświetlenie  
+foto - fotka  
 foto gola - efekt halo  
 fotografe - zdjęcie (fotografia)  
 fotografer - fotograf  
@@ -2193,8 +2193,8 @@ kanon -
 kanon di -   
 kanse - rak (nowotwór złośliwy)  
 kanta - bark (ramię)  
+Kantalupo a Sabina - Cantalupo in Sabina  
 kantalupo melon - kantalupa  
-Kantalupo va Sabina - Cantalupo in Sabina  
 kanu - kanoe  
 kanun - prawo  
 kanun vala - adwokat  
@@ -2214,6 +2214,7 @@ kar - pracować
 • duskar -   
 • duskarer -   
 • konkar - współpracować (kolaborować)  
+• konkare - współpracować (kolaborować)  
 • prokare -   
 kar cute -   
 karer - pracownik  
@@ -2413,8 +2414,6 @@ kon funsibil - kompatybilny (pasujący)
 kon hau - pasować  
 kon helen baxa -   
 konife - dzielić (współdzielić)  
-kon kar - współpracować (kolaborować)  
-kon sabi - informacja  
 kon su - wspólny (wzajemny)  
 kontra - być przeciw  
 kon trati - pakt (kontrakt, ugoda, umowa, konwencja)  
@@ -2732,6 +2731,7 @@ Luxemburge - Luksemburg
 ma - matka (mama)  
 ma bra -   
 ma di -   
+mama -   
 ma ma -   
 ma pa -   
 ma sis -   
@@ -3259,6 +3259,8 @@ niobium - niob
 Nipon - Japonia  
 nipon di - japoński  
 niponium - nihonium  
+nirban -   
+nirban -   
 Nistre -   
 nitre - azot  
 nitrate -   
@@ -3382,6 +3384,7 @@ pa bra -
 pa di -   
 pa ma -   
 pa pa -   
+papa -   
 pa sis -   
 patria - ojczyzna  
 • konpatrian - kompatriota  
@@ -3905,19 +3908,21 @@ rutin - rutyna, nawyk, zwyczaj
 
 ## S  
 
+sabe -   
+• konsabe - poinformować, informować, zakomunikować, komunikować  
+• konsabaje - informacja  
 sabate - szabat, szabas  
-sabi -   
 sable - piasek, piach  
 sable burge -   
 sablite - piaskowiec  
 sablestan - pustynia  
 sabu - powód, przyczyna  
 sabun - mydło  
-sada - zwykły, zwyczajny, prosty  
-safe - wyczyścić, czyścić  
-saf - czysty  
-• ansaf - brudny  
-saf tela -   
+sade - zwykły, zwyczajny, prosty  
+safe - czysty  
+• ansafe - brudny  
+safife - wyczyścić, czyścić  
+safe tela -   
 safer - sprzątacz, sprzątacz  
 safta -   
 safar - podróżować  
@@ -4760,6 +4765,7 @@ xara - piła
 xarafun -   
 xarakan - tartak  
 xarbe -   
+xarir -   
 xarma - wstyd (hańba, kompromitacja)  
 xarnir - zawias, oś  
 xarti - warunek  

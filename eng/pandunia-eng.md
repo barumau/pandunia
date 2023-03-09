@@ -506,7 +506,7 @@ be retro - return (get back)
 be rota - rotate (spin, turn on an axis)  
 be rupa - seem  
 be rute galte - stray (deviate)  
-be sabi vol - wonder (be interested in, would like to know)  
+be sabe vol - wonder (be interested in, would like to know)  
 be sam rupa - resemble (be like)  
 be sel - should (ought)  
 be sona - sleep  
@@ -1160,7 +1160,6 @@ fa jui - warn (caution, alert)
 fa kai - open  
 fa kata - tell (narrate)  
 fa kino - move (transfer, shift, stir, budge, rouse, motivate, inspire)  
-fa kon sabi - communicate (inform about)  
 fa koste - cost  
 fa krus fixe - crucify  
 fa kung - pierce (perforate, bore)  
@@ -1416,6 +1415,7 @@ forum - forum (public space)
 fosfe - phosphorus  
 fosfate - phosphate  
 fote - light (illumination)  
+foto - photo  
 foto gola - halo (aureola)  
 fotografe - photograph  
 fotografer - photographer  
@@ -2228,8 +2228,8 @@ kanon - classic (canon)
 kanon di - classic (authoritative, definitive)  
 kanse - cancer  
 kanta - shoulder  
+Kantalupo a Sabina - Cantalupo in Sabina  
 kantalupo melon - cantaloupe  
-Kantalupo va Sabina - Cantalupo in Sabina  
 kanu - canoe  
 kanun - law (rule, regulation)  
 kanun vala - lawyer  
@@ -2249,6 +2249,7 @@ kar - work
 • duskar - misdeed (sin, vice)  
 • duskarer - evildoer  
 • konkar - collaborate (work together)  
+• konkare - collaborate (work together)  
 • prokare - process (produce)  
 kar cute - leave (absence from work)  
 karer - worker  
@@ -2447,8 +2448,6 @@ kon funsibil - compatible (supported)
 kon hau - match (fit, suit, go well together)  
 kon helen baxa - Koine Greek  
 konife - share  
-kon kar - collaborate (work together)  
-kon sabi - information (communicable knowledge)  
 kon su - common (mutual)  
 kontra - go against  
 kon trati - pact (contract, covenant, alliance)  
@@ -2766,6 +2765,7 @@ Luxemburge - Luxembourg
 ma - mother (mom, mama)  
 ma bra - maternal uncle  
 ma di - motherly (maternal)  
+mama - mom (mama)  
 ma ma - maternal grandmother  
 ma pa - maternal grandfather  
 ma sis - maternal aunt  
@@ -3294,6 +3294,8 @@ niobium - niobium
 Nipon - Japan  
 nipon di - Japanese  
 niponium - nihonium  
+nirban - extinguish (put out, quench)  
+nirban - nirvana  
 Nistre - Dniester  
 nitre - nitrogen  
 nitrate - nitrate  
@@ -3417,6 +3419,7 @@ pa bra - paternal uncle
 pa di - fatherly (paternal)  
 pa ma - paternal grandmother  
 pa pa - paternal grandfather  
+papa - dad (papa)  
 pa sis - paternal aunt  
 patria - fatherland  
 • konpatrian - compatriot (fellow citizen)  
@@ -3940,19 +3943,21 @@ rutin - routine (habit)
 
 ## S  
 
+sabe - know how  
+• konsabe - communicate (inform about)  
+• konsabaje - information (communicable knowledge)  
 sabate - Sabbath  
-sabi - know how  
 sable - sand  
 sable burge - sandcastle  
 sablite - sandstone  
 sablestan - desert  
 sabu - reason (cause)  
 sabun - soap  
-sada - plain (ordinary, unadorned, simple, mere, pure)  
-safe - clean (purify)  
-saf - clean (pure)  
-• ansaf - dirty  
-saf tela - wipe (rag, cleaning cloth)  
+sade - plain (ordinary, unadorned, simple, mere, pure)  
+safe - clean (pure)  
+• ansafe - dirty  
+safife - clean (purify)  
+safe tela - wipe (rag, cleaning cloth)  
 safer - cleaner  
 safta - cleanliness (purity)  
 safar - travel  
@@ -4796,6 +4801,7 @@ xara - saw
 xarafun - sawdust  
 xarakan - sawmill  
 xarbe - drink  
+xarir - relic (remains, corpse)  
 xarma - shame (disgrace)  
 xarnir - hinge (pivot)  
 xarti - condition (requirement)  

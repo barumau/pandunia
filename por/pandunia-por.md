@@ -559,6 +559,7 @@ formize - modelar
 fosfe - fósforo  
 fosfate - fosfato  
 fote - luz  
+foto - foto  
 fotografe - foto (fotografia)  
 fotografia - fotografia  
 foto mata di - mate (opaco)  
@@ -882,8 +883,8 @@ kane minte - hortelã-verde
 kane sor - tranca  
 kangaru - canguru  
 kanse - câncer (cancro)  
+Kantalupo a Sabina - Cantalupo in Sabina  
 kantalupo melon - meloa (cantalupo)  
-Kantalupo va Sabina - Cantalupo in Sabina  
 kanu - canoa  
 kanyon - canhão (ravina, barranco)  
 kapa - cabeça  
@@ -895,6 +896,7 @@ kar - trabalhar
 • duskar - malfeitoria (pecado)  
 • duskarer - malfeitor  
 • konkar - colaborar  
+• konkare - colaborar  
 karer - trabalhador  
 kar lexi - verbo  
 karxe - trabalho  
@@ -979,7 +981,6 @@ koma - vírgula
 kon - com (comum)  
 kon hau - combinar com  
 kon helen baxa - koiné  
-kon kar - colaborar  
 kon trati - pacto  
 konun - comum  
 kone - cono  
@@ -1363,6 +1364,8 @@ nil kentaur hua - escovinha (centáurea)
 niobium - nióbio  
 Nipon - Japão  
 niponium - nihonium  
+nirban - extinguir (apagar)  
+nirban - nirvana  
 nitre - nitrogénio  
 nitrate - nitrato (azotato)  
 nitril - nitrila  
@@ -1646,11 +1649,11 @@ ruterfordium - rutherfórdio
 
 ## S  
 
-sabi - saber  
+sabe - saber  
 sable - areia  
-sada - mero  
-saf - limpo  
-• ansaf - sujo  
+sade - mero  
+safe - limpo  
+• ansafe - sujo  
 safar ceke - cheque de viajante  
 sagu - sagu  
 sah - hora  

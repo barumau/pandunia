@@ -174,7 +174,7 @@ be kino - 動く
 be kux - 寝転ぶ  
 be pute - 腐敗  
 be rute galte - 逸れる  
-be sabi vol - 訝る (-かしら)  
+be sabe vol - 訝る (-かしら)  
 be sona - 寝る  
 be tele loka - 瞬間移動  
 be turbe - 悩む (わざわざする)  
@@ -834,6 +834,7 @@ kape truke - 罠
 kar - 働く  
 • duskar - 悪事  
 • konkar - 共同して働  
+• konkare - 共同して働  
 karer - 労働者  
 kar lexi - 動詞  
 karxe - 労働  
@@ -911,7 +912,6 @@ koma - コンマ (読点)
 kon - 共  
 kon forma - 即する  
 kon hau - 合わせる (適する)  
-kon kar - 共同して働  
 kone - 錐  
 konserte - コンサート (音楽会)  
 kopernium - コペルニシウム  
@@ -1256,6 +1256,8 @@ niobium - ニオブ
 Nipon - 日本  
 nipon di - 日本の (日本語, 日本人)  
 niponium - ニホニウム  
+nirban - 消す  
+nirban - 涅槃  
 nitre - 窒素  
 nitril - ニトリル  
 nix - 壁龕  
@@ -1479,9 +1481,9 @@ ruterfordium - ラザホージウム
 
 sable - 砂  
 sablite - 砂岩  
-safe - 掃く (精げる, 拭く)  
-• ansaf - 汚い  
-saf tela - ワイプ  
+• ansafe - 汚い  
+safife - 掃く (精げる, 拭く)  
+safe tela - ワイプ  
 safar ceke - トラベラーズチェック  
 sagu - サゴ  
 sagu fun - サゴ澱粉  
@@ -1791,6 +1793,7 @@ xaniden - 土曜日
 xara - のこぎり  
 xarafun - 木屑  
 xarbe - 飲む  
+xarir - 舎利  
 xatan - 悪魔  
 xava - 焼く  
 xayu - サメ  

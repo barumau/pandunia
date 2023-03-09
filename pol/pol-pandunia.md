@@ -98,7 +98,7 @@
  - be max  
  - be min  
  - be par  
- - be sabi vol  
+ - be sabe vol  
  - be tam  
  - be vai  
  - bei  
@@ -584,6 +584,7 @@
  - makiniste  
  - makinize  
  - maltos  
+ - mama  
  - mame  
  - mania  
  - manioka fufu  
@@ -677,6 +678,8 @@
  - neuta  
  - nia  
  - nice kitabe  
+ - nirban  
+ - nirban  
  - Nistre  
  - nitrate  
  - nitril  
@@ -707,6 +710,7 @@
  - palaba  
  - panduke  
  - panmime  
+ - papa  
  - par fase  
  - para  
  - paranam  
@@ -795,10 +799,10 @@
  - roke kursi  
  - roman  
  - rul koli  
- - sabi  
+ - sabe  
  - sable burge  
- - saf tela  
  - safar ceke  
+ - safe tela  
  - safta  
  - sagu fun  
  - sal noce  
@@ -968,6 +972,7 @@
  - xah mata  
  - xarafun  
  - xarbe  
+ - xarir  
  - xi  
  - xi Fulan  
  - xia  
@@ -1484,7 +1489,7 @@ brokuł - brokoli
 brom - brom  
 broń - vuki  
 broń nuklearna - kerne vuki  
-brudny - ansaf  
+brudny - ansafe  
 bruk - gola seku  
 brunatnica - kafe alga  
 Brunei Darussalam - Brunei  
@@ -1534,7 +1539,7 @@ błoto - poto
 błąd (pomyłka) - galte  
 błędny (niepoprawny) - galte di  
 C - C  
-Cantalupo in Sabina - Kantalupo va Sabina  
+Cantalupo in Sabina - Kantalupo a Sabina  
 całość (integralność) - holia  
 całus - busu  
 cały - hol  
@@ -1665,7 +1670,7 @@ czuć (poczuć, postrzegać, wykrywać) - fa sense
 czuć, odczuć, odczuwać - be gamo  
 czwartek - muxinden  
 czyn, uczynek - fate  
-czysty - saf  
+czysty - safe  
 czysty (higieniczny, sanitarny) - salu saf di  
 czytać - dugu  
 cząstka - gran  
@@ -1926,6 +1931,7 @@ formularz (kwestionariusz) - sual dokumen
 forum - forum  
 fosfat - fosfate  
 fosfor - fosfe  
+fotka - foto  
 fotograf - fotografer  
 fotografia - fotografia  
 foton - foton  
@@ -2168,7 +2174,7 @@ Indyjski - barte
 indyk - dinde  
 infekcja (zakażenie) - patomise  
 infekcja (zakażenie) - infete  
-informacja - kon sabi  
+informacja - konsabaje  
 informatyka - data cule logia  
 inny - ale  
 innymi słowy - alonam  
@@ -3384,7 +3390,7 @@ poemat - xir
 poeta - xirer  
 pogoda - sama hal  
 pogrubiona litera - gros zi  
-poinformować, informować, zakomunikować, komunikować - fa kon sabi  
+poinformować, informować, zakomunikować, komunikować - konsabe  
 pojawić się - be zai  
 pojęciowy - ideal  
 pokaz, ekspozycja, wystawa - xou  
@@ -4562,8 +4568,8 @@ wspólny (wzajemny) - kon
 wspólny (wzajemny) - kon su  
 wspólny język - konbaxe  
 współczucie - sam emos  
-współpracować (kolaborować) - kon kar  
 współpracować (kolaborować) - konkar  
+współpracować (kolaborować) - konkare  
 wstecz - a re  
 wstrzyknąć, wstrzykiwać - injete  
 wstyd (hańba, kompromitacja) - xarma  
@@ -4577,7 +4583,7 @@ wybrzeże - bahai kinar
 Wybrzeże Kości Słowniowej - Kote de Ivar  
 wybuch (eksplozja) - bum  
 wycie, skowyt - ulul  
-wyczyścić, czyścić - safe  
+wyczyścić, czyścić - safife  
 wydarzenie, przypadek, sytuacja - kasu  
 wydoić, doić - tire yo milke  
 wydra - lotra  
@@ -4816,7 +4822,7 @@ związać, wiązać; zapiąć, zapinać - bande
 zwiększyć o jeden - max gradu  
 zwyciężyć (wygrać; zwycięstwo, wygrana) - jai  
 zwyczajny (rutynowy, normalny) - ada di  
-zwykły, zwyczajny, prosty - sada  
+zwykły, zwyczajny, prosty - sade  
 zwłoki (trup) - nekre  
 zygzag - ziza  
 ząb - dante  

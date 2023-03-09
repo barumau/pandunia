@@ -670,6 +670,7 @@ formize - formigi
 forum - forumo  
 fosfe - fosforo  
 fote - lumo  
+foto - foto  
 foto gola - halo  
 fotografe - foto  
 fotografer - fotisto  
@@ -1061,6 +1062,7 @@ kapa kaska - kasko
 kapa kexa - kaphararo  
 kape - kapti  
 • konkar - kunlabori  
+• konkare - kunlabori  
 karer - laboristo  
 kargi - ilo  
 karkan - laborejo  
@@ -1152,8 +1154,6 @@ koncanisme - komunismo
 koncaniste - komunisto  
 kon hau - kongrui  
 kon helen baxa - kojnea greka lingvo  
-kon kar - kunlabori  
-kon sabi - informacio  
 kon su - kuna  
 kontra - kontraŭi  
 konun - komuna  
@@ -1772,14 +1772,15 @@ rutin - rutino (kutimo)
 
 ## S  
 
-sabi - scii kiel  
+sabe - scii kiel  
+• konsabaje - informacio  
 sable - sablo  
 sablestan - dezerto  
 sabu - kialo  
 sabun - sapo  
-safe - purigi  
-saf - pura  
-• ansaf - malpura  
+safe - pura  
+• ansafe - malpura  
+safife - purigi  
 safer - purigisto  
 safta - pureco  
 safar - vojaĝi  

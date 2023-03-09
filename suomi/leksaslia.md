@@ -408,8 +408,7 @@
 **forme** *muoto (morfi)* ← englanti:form, espanja:portugali:forma, ranska:forme, deu:Form, venäjä:форма (forma)  
 **forum** *foorumi* ← englanti:ranska:forum, espanja:foro, portugali:fórum, venäjä:форум (forum), japani:フォーラム (fōramu)  
 **fosfe** *fosfori* ← englanti:phosphorus, ranska:phosphore, espanja:fósforo, portugali:fósforo, venäjä:фосфор, vietnami:photpho, hindi:फास्फोरस, bangla:ফসফরাস, malaiji:fosfor, suahili:posfori, arabia: فوسفور  
-**fote** *valo* ← kreikka:φωτο- (foto-), englanti:ranska:photo-, espanja:portugali:foto-, venäjä:фото-  
-**fotografe** *valokuva (foto)* ← englanti:photograph, ranska:photographie, espanja:portugali:fotografia, venäjä:фотография, hindi:फ़ोटो (foṭo), bangla:ফটো (phôṭo), malaiji:foto, turkki:fotoğraf  
+**fote** *valo* ← kreikka:φωτο- (foto-), englanti:ranska:deu:photo-, espanja:portugali:foto-, venäjä:фото- + hindi:फ़ोटो (foṭo), bangla:ফটো (phôṭo), malaiji:foto, turkki:fotoğraf  
 **fransium** *frankium* ← englanti:francium, ranska:francium, espanja:francio, portugali:frâncio, venäjä:франций, yleiskiina:钫 (fāng), japani:フランシウム, korea:프랑슘, vietnami:franxi, hindi:फ्रान्सियम, bangla:ফ্রান্সিয়াম, malaiji:fransium, suahili:fransi, arabia: فرنسيوم  
 **frasen** *saarni* ← ranska:frêne, espanja:fresno, portugali:freixo, italia:frassino + venäjä:ясень (yasen’), puola:jesion  
 **frem** *kehys (raamit)* ← englanti:frame, bangla:ফ্রেম (phrēma), pan:ਫਰੇਮ (pharēma), marathi:फ्रेम (phrēma), suahili:fremu  
@@ -1080,6 +1079,7 @@
 **nilon** *nailon* ← englanti:portugali:ranska:nylon, espanja:nilón, venäjä:нейлон (nejlon), arabia:نَايْلُون‎ (nāylūn), persia:نایلون‎ (nâylon), malaiji:nilon, suahili:nailoni, yleiskiina:尼龙 (nílóng), japani:ナイロン (nairon)  
 **niobium** *niobium* ← englanti:niobium, ranska:niobium, espanja:niobio, portugali:nióbio, venäjä:ниобий, yleiskiina:铌 (ní), japani:ニオブ, korea:나이오븀, vietnami:niobi, hindi:नायोबियम, bangla:নাইওবিয়াম, malaiji:niobium, suahili:niobi, arabia: نيوبيوم  
 **niponium** *nihonium* ← englanti:ranska:malaiji:nihonium, espanja:nihonio, portugali:nihonium, venäjä:нихоний, japani:ニホニウム, korea:우눈트륨, vietnami:suahili:nihoni  
+**nirban** *sammuminen (nirvana)* ← hindi:निर्वाण (nirvāṇ), bangla:নির্বাণ (nirbaṇ), yleiskiina:涅槃 (nièpán), kantoninkiina:涅槃 (nip6 pun4), japani:涅槃 (nehan), korea:열반 (yeulban), vietnami:niết bàn, malaiji:nirwana, englanti:ranska:espanja:portugali:nirvana, venäjä:нирвана (nirvana)  
 **nitre** *typpi* ← englanti:nitrogen, ranska:azote, espanja:nitrógeno, portugali:nitrogénio, venäjä:азот, vietnami:nitơ, hindi:नाइट्रोजन, bangla:নাইট্রোজেন, malaiji:nitrogen, suahili:nitrojeni, arabia: نيتروجين  
 **nix** *alkovi* ← ranska:englanti:niche, portugali:nicho, venäjä:ниша (niša)  
 **no** *ei* ← englanti:espanja:no, ranska:non, portugali:não, bangla:না (na), venäjä:не (nye), hindi:नहीं (nahī̃), korea:아니 (ani), japani:-ない (-nai)  
@@ -1299,13 +1299,13 @@
 **rute** *polku (reitti, kurssi)* ← englanti:ranska:route, espanja:ruta, portugali:rota, deu:Route, japani:ルート (rūto), venäjä:маршрут (maršrut)  
 **ruterfordium** *rutherfordium* ← englanti:rutherfordium, ranska:rutherfordium, espanja:rutherfordio, portugali:rutherfórdio, venäjä:резерфордий, ²курчатовий, yleiskiina: (lú), japani:ラザホージウム, korea:러더포듐, vietnami:rutherfordi, hindi:रुथरफोर्डियम, bangla:রাদারফোর্ডিয়াম, malaiji:rutherfordium, suahili:rutherfordi, arabia: رذرفورديوم  
 **rutin** *tapa (rutiini)* ← englanti:ranska:routine, espanja:rutina, portugali:rotina, deu:Routine, persia:روتین‎ (rutin), venäjä:рутина (rutina)  
-**sabi** *osata* ← espanja:portugali:saber, ranska:savoir, englanti:savvy, pcm:sabi, malaiji:bisa  
+**sabe** *osata* ← espanja:portugali:saber, ranska:savoir, englanti:savvy, pcm:sabi, malaiji:bisa  
 **sable** *hiekka* ← ranska:sable, italia:sabbia + yleiskiina:沙漠 (shā), japani:砂 (sa), korea:사 (sa), vietnami:sa + hindi:बालू (bālū), bangla:বালু (balu)  
 **sabu** *syy* ← heb:(sibá), arabia: سَبَب‎ (sabab), persia: سبب‎ (sabab), hindi:सबब (sabab), malaiji:sebab, turkki:sebep, suahili:fulani:sababu, hausa:sabo; sababi, yoruba:sábàbí, Kongo:sambu  
 **sabun** *saippua* ← ranska:savon, espanja:jabón, portugali:sabão, arabia: صَابُون‎ (ṣābūn), persia: صابون‎ (sâbun), hindi:साबुन (sābun), bangla:সাবান (śaban), telugu:సబ్బు (sabbu), malaiji:turkki:sabun, suahili:sabuni, hausa:sabulu, japani:シャボン (shabon), vietnami:xà bông  
-**sada** *pelkkä (koruton, tavanomainen, vain)* ← turkki:sade, persia:(sāde), hindi:सादा (sādā), bangla:সাদা (śada), arabia: سَاذَج (sāḏaj)  
-**saf** *puhdas (siivo, siisti)* ← arabia: صَفِيّ‎ (ṣafiyy), turkki:saf, suahili:safi, hausa:tsafta, malaiji:safa, hindi:साफ़ (sāf), bangla:সাফ (śaph)  
+**sade** *pelkkä (koruton, tavanomainen, vain)* ← turkki:sade, persia:(sāde), hindi:सादा (sādā), bangla:সাদা (śada), arabia: سَاذَج (sāḏaj)  
 **safar** *matka (reissu)* ← arabia:(safar), hindi:सफ़र (safar), turkki:sefer, suahili:safari, englanti:ranska:espanja:portugali:deu:malaiji:safari  
+**safe** *puhdas (siivo, siisti)* ← arabia: صَفِيّ‎ (ṣafiyy), turkki:saf, suahili:safi, hausa:tsafta, malaiji:safa, hindi:साफ़ (sāf), bangla:সাফ (śaph)  
 **safran** *sahrami* ← arabia:(zaʿfarān), suahili:zafarani, persia:(za'ferân), ranska:turkki:safran, englanti:saffron, espanja:azafrán, portugali:açafrão, venäjä:шафран (šafran)  
 **sagu** *saagopalmu* ← englanti:sago, ranska:sagou, espanja:sagú, portugali:malaiji:sagu, venäjä:саго (sago), arabia: سَاغُو‎ (sāḡū), yleiskiina:西谷米 (xīgúmǐ), japani:サゴ (sago), hindi:सागू (sāgū)  
 **sah** *tunti* ← arabia: سَاعَة‎ (sāʿa), amhara:ሰዓት (säʿat), heb: שָׁעָה (sha'á), suahili:saa, hausa:sa'a, persia: ساعت‎ (sâ'at), turkki:saat + yleiskiina:時 (shí), kantoninkiina:時 (si4), korea:시 (si)  
@@ -1587,6 +1587,7 @@
 **xanti** *lepo* ← hindi:शांति (shānti), bangla:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), marathi:शांत (shānta), telugu:శాంతి (shānti), gujarati:શાંતિ (shānti), khmer:សន្តិ (sɑnte’), japani:シャンティ (shanti)  
 **xara** *saha* ← alb:sharrë + espanja:sierra, portugali:serra + आरा (ārā) + arabia: مِنْشَار‎ (minšār), persia: منشار‎ (menšâr)  
 **xarbe** *juoda (juoma)* ← arabia: شَرْبَة‎ (šarba), bangla:শরবত (šôrbôt), turkki:şerbet, malaiji:serbat, suahili:sharubati + englanti:sharbat; sherbet, deu:ranska:sorbet, espanja:sorbete, portugali:sorvete, venäjä:шербет (šerbet), yleiskiina:雪葩 (xuěpā), japani:シャーベット (shābetto), korea:셔벗 (syeobeot)  
+**xarir** *jäännökset (ruumis, tuhkat)* ← hindi:शरीर (śarīr), bangla:শরীর (śôrīr), yleiskiina:舍利 (shèlì), japani:舎利 (shari), korea:사리 (sari), vietnami:xá lị, burma:သရီရ (sa.rira.)  
 **xarma** *häpeä* ← persia:(šarm),  urdu:(śarma), hindi:शर्म (śarma), deu:Scham, englanti:shame, venäjä:срам (sram)  
 **xarnir** *sarana* ← ranska:charnière, espanja:charnela, deu:Scharnier, venäjä:шарнир (šarnir)  
 **xarti** *vaatimus (edellytys)* ← turkki:şart, arabia:persia:(šart), suahili:sharuti, hausa:sharadi, hindi:शर्त (śart), bangla:শর্ত (śôrt)  

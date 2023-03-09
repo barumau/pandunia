@@ -493,7 +493,7 @@ be retro - palata
 be rota - pyöriä  
 be rupa - näyttää jltkn  
 be rute galte - harhautua  
-be sabi vol - kiinnostua  
+be sabe vol - kiinnostua  
 be sam rupa - muistuttaa (vaikuttaa samalta)  
 be sel - pitäisi  
 be sona - nukkua  
@@ -1108,7 +1108,6 @@ fa jong - keskittää
 fa kai - aukaista (avata)  
 fa kata - kertoa  
 fa kino - liikuttaa (innoittaa)  
-fa kon sabi - tiedottaa (informoida)  
 fa koste - maksaa (olla hintana)  
 fa krus fixe - ristiinnaulita  
 fa kung - rei’ittää  
@@ -1349,6 +1348,7 @@ forum - foorumi
 fosfe - fosfori  
 fosfate - fosfaatti  
 fote - valo  
+foto - foto (valokuva)  
 foto gola - sädekehä (halo)  
 fotografe - valokuva (foto)  
 fotografer - valokuvaaja  
@@ -2108,6 +2108,7 @@ kar - työskennellä
 • duskar - synti (paha teko)  
 • duskarer - pahantekijä  
 • konkar - tehdä yhteistyötä  
+• konkare - tehdä yhteistyötä  
 • prokare - tuottaa (tuotanto)  
 kar cute - vapaa (poissaolo töistä)  
 karer - työntekijä (työläinen)  
@@ -2291,8 +2292,6 @@ koncaniste - kommunisti
 kon hau - sopia  
 kon helen baxa - koinee-kreikka  
 konife - jakaa yhteiseksi  
-kon kar - tehdä yhteistyötä  
-kon sabi - tieto  
 kon su - yhteinen  
 kontra - mennä vasten  
 kon trati - liittosopimus  
@@ -3022,6 +3021,8 @@ niobium - niobium
 Nipon - Japani  
 nipon di - japanilainen  
 niponium - nihonium  
+nirban - sammuttaa  
+nirban - sammuminen (nirvana)  
 nitre - typpi  
 nitrate - nitraatti  
 nitril - nitriili  
@@ -3582,18 +3583,20 @@ rutin - tapa (rutiini)
 
 ## S  
 
+sabe - osata  
+• konsabe - tiedottaa (informoida)  
+• konsabaje - tieto  
 sabate - sapatti  
-sabi - osata  
 sable - hiekka  
 sable burge - hiekkalinna  
 sablite - hiekkakivi  
 sablestan - aavikko (hiekkaerämaa)  
 sabu - syy  
 sabun - saippua  
-sada - pelkkä (koruton, tavanomainen, vain)  
-safe - puhdistaa (siivota)  
-saf - puhdas (siivo, siisti)  
-• ansaf - likainen  
+sade - pelkkä (koruton, tavanomainen, vain)  
+safe - puhdas (siivo, siisti)  
+• ansafe - likainen  
+safife - puhdistaa (siivota)  
 safer - siivooja  
 safta - puhtaus  
 safar - matkustaa  
@@ -4357,6 +4360,7 @@ xara - saha
 xarafun - sahanpuru (sahajauho)  
 xarakan - sahalaitos  
 xarbe - juoda (juoma)  
+xarir - jäännökset (ruumis, tuhkat)  
 xarma - häpeä  
 xarnir - sarana  
 xarti - vaatimus (edellytys)  

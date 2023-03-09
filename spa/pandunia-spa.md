@@ -417,7 +417,7 @@ be retro - volver
 be rota - girar (rotar)  
 be rupa - parecer  
 be rute galte - apartarse (desviarse)  
-be sabi vol - preguntarse  
+be sabe vol - preguntarse  
 be sam rupa - parecerse a  
 be sel - deber (se recomienda)  
 be sona - dormir  
@@ -978,7 +978,6 @@ fa jui - advertir
 fa kai - abrir  
 fa kata - relatar (narrar)  
 fa kino - mudar (mover, transferir, traspasar, trasladar, estimular, inspirar)  
-fa kon sabi - comunicar (informar)  
 fa koste - costar  
 fa krus fixe - crucificar  
 fa kung - perforar (agujerar)  
@@ -1184,6 +1183,7 @@ forum - foro (espacio público)
 fosfe - fósforo  
 fosfate - fosfato  
 fote - luz (iluminación)  
+foto - foto  
 foto gola - halo (aureola)  
 fotografe - foto (fotografía)  
 fotografer - fotógrafo  
@@ -1884,8 +1884,8 @@ kangaru - canguro
 kanjar - puñal (daga)  
 kanse - cáncer  
 kanta - hombro  
+Kantalupo a Sabina - Cantalupo in Sabina  
 kantalupo melon - melón cantalupo  
-Kantalupo va Sabina - Cantalupo in Sabina  
 kanu - canoa  
 kanun - regla (ley)  
 kanyon - cañón (barranco, quebrada)  
@@ -1902,6 +1902,7 @@ kar - trabajar
 • duskar - pecado  
 • duskarer - malhechor  
 • konkar - colaborar  
+• konkare - colaborar  
 karer - trabajador (obrero)  
 kargi - herramienta  
 kar lexi - verbo  
@@ -2068,8 +2069,6 @@ kon funsibil - compatible
 kon hau - emparejar (quedar)  
 kon helen baxa - koiné  
 konife - compartir (tener en común)  
-kon kar - colaborar  
-kon sabi - información  
 kontra - estar en contra  
 kon trati - convenion (pacto)  
 konun - común (comunitario)  
@@ -2800,6 +2799,8 @@ niobium - niobio
 Nipon - Japón  
 nipon di - japonés  
 niponium - nihonio  
+nirban - extinguir (apagar)  
+nirban - nirvana  
 Nistre - Dniéster  
 nitre - nitrógeno  
 nitrate - nitrato  
@@ -3352,17 +3353,19 @@ rutin - rutina (hábito)
 
 ## S  
 
+sabe - saber  
+• konsabe - comunicar (informar)  
+• konsabaje - información  
 sabate - sabbat  
-sabi - saber  
 sable - arena  
 sablestan - desierto  
 sabu - razón (causa)  
 sabun - jabón  
-sada - sencillo (liso)  
-safe - limpiar  
-saf - limpio  
-• ansaf - sucio  
-saf tela - trapo (tela para limpiar)  
+sade - sencillo (liso)  
+safe - limpio  
+• ansafe - sucio  
+safife - limpiar  
+safe tela - trapo (tela para limpiar)  
 safer - limpiador  
 safar - viajar  
 safar - viaje  

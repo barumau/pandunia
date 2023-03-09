@@ -408,8 +408,7 @@
 **forme** *form (shape, morph)* ← English:form, Spanish:Portuguese:forma, French:forme, deu:Form, Russian:форма (forma)  
 **forum** *forum (public space)* ← English:French:forum, Spanish:foro, Portuguese:fórum, Russian:форум (forum), Japanese:フォーラム (fōramu)  
 **fosfe** *phosphorus* ← English:phosphorus, French:phosphore, Spanish:fósforo, Portuguese:fósforo, Russian:фосфор, Vietnamese:photpho, Hindi:फास्फोरस, Bengali:ফসফরাস, Malay:fosfor, Swahili:posfori, Arabic: فوسفور  
-**fote** *light (illumination)* ← Greek:φωτο- (foto-), English:French:photo-, Spanish:Portuguese:foto-, Russian:фото-  
-**fotografe** *photograph* ← English:photograph, French:photographie, Spanish:Portuguese:fotografia, Russian:фотография, Hindi:फ़ोटो (foṭo), Bengali:ফটো (phôṭo), Malay:foto, Turkish:fotoğraf  
+**fote** *light (illumination)* ← Greek:φωτο- (foto-), English:French:deu:photo-, Spanish:Portuguese:foto-, Russian:фото- + Hindi:फ़ोटो (foṭo), Bengali:ফটো (phôṭo), Malay:foto, Turkish:fotoğraf  
 **fransium** *francium* ← English:francium, French:francium, Spanish:francio, Portuguese:frâncio, Russian:франций, Mandarin:钫 (fāng), Japanese:フランシウム, Korean:프랑슘, Vietnamese:franxi, Hindi:फ्रान्सियम, Bengali:ফ্রান্সিয়াম, Malay:fransium, Swahili:fransi, Arabic: فرنسيوم  
 **frasen** *ash tree* ← French:frêne, Spanish:fresno, Portuguese:freixo, Italian:frassino + Russian:ясень (yasen’), Polish:jesion  
 **frem** *frame* ← English:frame, Bengali:ফ্রেম (phrēma), pan:ਫਰੇਮ (pharēma), Marathi:फ्रेम (phrēma), Swahili:fremu  
@@ -1080,6 +1079,7 @@
 **nilon** *nylon* ← English:Portuguese:French:nylon, Spanish:nilón, Russian:нейлон (nejlon), Arabic:نَايْلُون‎ (nāylūn), Persian:نایلون‎ (nâylon), Malay:nilon, Swahili:nailoni, Mandarin:尼龙 (nílóng), Japanese:ナイロン (nairon)  
 **niobium** *niobium* ← English:niobium, French:niobium, Spanish:niobio, Portuguese:nióbio, Russian:ниобий, Mandarin:铌 (ní), Japanese:ニオブ, Korean:나이오븀, Vietnamese:niobi, Hindi:नायोबियम, Bengali:নাইওবিয়াম, Malay:niobium, Swahili:niobi, Arabic: نيوبيوم  
 **niponium** *nihonium* ← English:French:Malay:nihonium, Spanish:nihonio, Portuguese:nihonium, Russian:нихоний, Japanese:ニホニウム, Korean:우눈트륨, Vietnamese:Swahili:nihoni  
+**nirban** *nirvana* ← Hindi:निर्वाण (nirvāṇ), Bengali:নির্বাণ (nirbaṇ), Mandarin:涅槃 (nièpán), Cantonese:涅槃 (nip6 pun4), Japanese:涅槃 (nehan), Korean:열반 (yeulban), Vietnamese:niết bàn, Malay:nirwana, English:French:Spanish:Portuguese:nirvana, Russian:нирвана (nirvana)  
 **nitre** *nitrogen* ← English:nitrogen, French:azote, Spanish:nitrógeno, Portuguese:nitrogénio, Russian:азот, Vietnamese:nitơ, Hindi:नाइट्रोजन, Bengali:নাইট্রোজেন, Malay:nitrogen, Swahili:nitrojeni, Arabic: نيتروجين  
 **nix** *niche (recess, alcove)* ← French:English:niche, Portuguese:nicho, Russian:ниша (niša)  
 **no** *not (no)* ← English:Spanish:no, French:non, Portuguese:não, Bengali:না (na), Russian:не (nye), Hindi:नहीं (nahī̃), Korean:아니 (ani), Japanese:-ない (-nai)  
@@ -1299,13 +1299,13 @@
 **rute** *route (path, trail, course, itinerary)* ← English:French:route, Spanish:ruta, Portuguese:rota, deu:Route, Japanese:ルート (rūto), Russian:маршрут (maršrut)  
 **ruterfordium** *rutherfordium* ← English:rutherfordium, French:rutherfordium, Spanish:rutherfordio, Portuguese:rutherfórdio, Russian:резерфордий, ²курчатовий, Mandarin: (lú), Japanese:ラザホージウム, Korean:러더포듐, Vietnamese:rutherfordi, Hindi:रुथरफोर्डियम, Bengali:রাদারফোর্ডিয়াম, Malay:rutherfordium, Swahili:rutherfordi, Arabic: رذرفورديوم  
 **rutin** *routine (habit)* ← English:French:routine, Spanish:rutina, Portuguese:rotina, deu:Routine, Persian:روتین‎ (rutin), Russian:рутина (rutina)  
-**sabi** *know how* ← Spanish:Portuguese:saber, French:savoir, English:savvy, pcm:sabi, Malay:bisa  
+**sabe** *know how* ← Spanish:Portuguese:saber, French:savoir, English:savvy, pcm:sabi, Malay:bisa  
 **sable** *sand* ← French:sable, Italian:sabbia + Mandarin:沙漠 (shā), Japanese:砂 (sa), Korean:사 (sa), Vietnamese:sa + Hindi:बालू (bālū), Bengali:বালু (balu)  
 **sabu** *reason (cause)* ← heb:(sibá), Arabic: سَبَب‎ (sabab), Persian: سبب‎ (sabab), Hindi:सबब (sabab), Malay:sebab, Turkish:sebep, Swahili:Fulani:sababu, Hausa:sabo; sababi, Yoruba:sábàbí, Kongo:sambu  
 **sabun** *soap* ← French:savon, Spanish:jabón, Portuguese:sabão, Arabic: صَابُون‎ (ṣābūn), Persian: صابون‎ (sâbun), Hindi:साबुन (sābun), Bengali:সাবান (śaban), Telugu:సబ్బు (sabbu), Malay:Turkish:sabun, Swahili:sabuni, Hausa:sabulu, Japanese:シャボン (shabon), Vietnamese:xà bông  
-**sada** *plain (ordinary, unadorned, simple, mere, pure)* ← Turkish:sade, Persian:(sāde), Hindi:सादा (sādā), Bengali:সাদা (śada), Arabic: سَاذَج (sāḏaj)  
-**saf** *clean (pure)* ← Arabic: صَفِيّ‎ (ṣafiyy), Turkish:saf, Swahili:safi, Hausa:tsafta, Malay:safa, Hindi:साफ़ (sāf), Bengali:সাফ (śaph)  
+**sade** *plain (ordinary, unadorned, simple, mere, pure)* ← Turkish:sade, Persian:(sāde), Hindi:सादा (sādā), Bengali:সাদা (śada), Arabic: سَاذَج (sāḏaj)  
 **safar** *travel (voyage, trip)* ← Arabic:(safar), Hindi:सफ़र (safar), Turkish:sefer, Swahili:safari, English:French:Spanish:Portuguese:deu:Malay:safari  
+**safe** *clean (pure)* ← Arabic: صَفِيّ‎ (ṣafiyy), Turkish:saf, Swahili:safi, Hausa:tsafta, Malay:safa, Hindi:साफ़ (sāf), Bengali:সাফ (śaph)  
 **safran** *saffron* ← Arabic:(zaʿfarān), Swahili:zafarani, Persian:(za'ferân), French:Turkish:safran, English:saffron, Spanish:azafrán, Portuguese:açafrão, Russian:шафран (šafran)  
 **sagu** *sago palm* ← English:sago, French:sagou, Spanish:sagú, Portuguese:Malay:sagu, Russian:саго (sago), Arabic: سَاغُو‎ (sāḡū), Mandarin:西谷米 (xīgúmǐ), Japanese:サゴ (sago), Hindi:सागू (sāgū)  
 **sah** *hour (sixty minutes)* ← Arabic: سَاعَة‎ (sāʿa), Amharic:ሰዓት (säʿat), heb: שָׁעָה (sha'á), Swahili:saa, Hausa:sa'a, Persian: ساعت‎ (sâ'at), Turkish:saat + Mandarin:時 (shí), Cantonese:時 (si4), Korean:시 (si)  
@@ -1587,6 +1587,7 @@
 **xanti** *rest (relief, repose)* ← Hindi:शांति (shānti), Bengali:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), Marathi:शांत (shānta), Telugu:శాంతి (shānti), Gujarati:શાંતિ (shānti), Khmer:សន្តិ (sɑnte’), Japanese:シャンティ (shanti)  
 **xara** *saw* ← alb:sharrë + Spanish:sierra, Portuguese:serra + आरा (ārā) + Arabic: مِنْشَار‎ (minšār), Persian: منشار‎ (menšâr)  
 **xarbe** *drink* ← Arabic: شَرْبَة‎ (šarba), Bengali:শরবত (šôrbôt), Turkish:şerbet, Malay:serbat, Swahili:sharubati + English:sharbat; sherbet, deu:French:sorbet, Spanish:sorbete, Portuguese:sorvete, Russian:шербет (šerbet), Mandarin:雪葩 (xuěpā), Japanese:シャーベット (shābetto), Korean:셔벗 (syeobeot)  
+**xarir** *relic (remains, corpse)* ← Hindi:शरीर (śarīr), Bengali:শরীর (śôrīr), Mandarin:舍利 (shèlì), Japanese:舎利 (shari), Korean:사리 (sari), Vietnamese:xá lị, Burmese:သရီရ (sa.rira.)  
 **xarma** *shame (disgrace)* ← Persian:(šarm),  Urdu:(śarma), Hindi:शर्म (śarma), deu:Scham, English:shame, Russian:срам (sram)  
 **xarnir** *hinge (pivot)* ← French:charnière, Spanish:charnela, deu:Scharnier, Russian:шарнир (šarnir)  
 **xarti** *condition (requirement)* ← Turkish:şart, Arabic:Persian:(šart), Swahili:sharuti, Hausa:sharadi, Hindi:शर्त (śart), Bengali:শর্ত (śôrt)  

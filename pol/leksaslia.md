@@ -408,8 +408,7 @@
 **forme** *forma, kształt, morf* ← eng:form, spa:por:forma, fra:forme, deu:Form, rus:форма (forma)  
 **forum** *forum* ← eng:fra:forum, spa:foro, por:fórum, rus:форум (forum), jpn:フォーラム (fōramu)  
 **fosfe** *fosfor* ← eng:phosphorus, fra:phosphore, spa:fósforo, por:fósforo, rus:фосфор, vie:photpho, hin:फास्फोरस, ben:ফসফরাস, may:fosfor, swa:posfori, ara: فوسفور  
-**fote** *światło, oświetlenie* ← ell:φωτο- (foto-), eng:fra:photo-, spa:por:foto-, rus:фото-  
-**fotografe** *zdjęcie (fotografia)* ← eng:photograph, fra:photographie, spa:por:fotografia, rus:фотография, hin:फ़ोटो (foṭo), ben:ফটো (phôṭo), may:foto, tur:fotoğraf  
+**fote** *światło, oświetlenie* ← ell:φωτο- (foto-), eng:fra:deu:photo-, spa:por:foto-, rus:фото- + hin:फ़ोटो (foṭo), ben:ফটো (phôṭo), may:foto, tur:fotoğraf  
 **fransium** *frans* ← eng:francium, fra:francium, spa:francio, por:frâncio, rus:франций, zho:钫 (fāng), jpn:フランシウム, kor:프랑슘, vie:franxi, hin:फ्रान्सियम, ben:ফ্রান্সিয়াম, may:fransium, swa:fransi, ara: فرنسيوم  
 **frasen** *jesion* ← fra:frêne, spa:fresno, por:freixo, ita:frassino + rus:ясень (yasen’), pol:jesion  
 **frem** *rama* ← eng:frame, ben:ফ্রেম (phrēma), pan:ਫਰੇਮ (pharēma), mar:फ्रेम (phrēma), swa:fremu  
@@ -1080,6 +1079,7 @@
 **nilon** *nylon* ← eng:por:fra:nylon, spa:nilón, rus:нейлон (nejlon), ara:نَايْلُون‎ (nāylūn), fas:نایلون‎ (nâylon), may:nilon, swa:nailoni, zho:尼龙 (nílóng), jpn:ナイロン (nairon)  
 **niobium** *niob* ← eng:niobium, fra:niobium, spa:niobio, por:nióbio, rus:ниобий, zho:铌 (ní), jpn:ニオブ, kor:나이오븀, vie:niobi, hin:नायोबियम, ben:নাইওবিয়াম, may:niobium, swa:niobi, ara: نيوبيوم  
 **niponium** *nihonium* ← eng:fra:may:nihonium, spa:nihonio, por:nihonium, rus:нихоний, jpn:ニホニウム, kor:우눈트륨, vie:swa:nihoni  
+**nirban** ** ← hin:निर्वाण (nirvāṇ), ben:নির্বাণ (nirbaṇ), zho:涅槃 (nièpán), yue:涅槃 (nip6 pun4), jpn:涅槃 (nehan), kor:열반 (yeulban), vie:niết bàn, may:nirwana, eng:fra:spa:por:nirvana, rus:нирвана (nirvana)  
 **nitre** *azot* ← eng:nitrogen, fra:azote, spa:nitrógeno, por:nitrogénio, rus:азот, vie:nitơ, hin:नाइट्रोजन, ben:নাইট্রোজেন, may:nitrogen, swa:nitrojeni, ara: نيتروجين  
 **nix** *nisza, alkowa* ← fra:eng:niche, por:nicho, rus:ниша (niša)  
 **no** *nie* ← eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)  
@@ -1299,13 +1299,13 @@
 **rute** *ścieżka (droga, szlak, kurs)* ← eng:fra:route, spa:ruta, por:rota, deu:Route, jpn:ルート (rūto), rus:маршрут (maršrut)  
 **ruterfordium** *rutherford* ← eng:rutherfordium, fra:rutherfordium, spa:rutherfordio, por:rutherfórdio, rus:резерфордий, ²курчатовий, zho: (lú), jpn:ラザホージウム, kor:러더포듐, vie:rutherfordi, hin:रुथरफोर्डियम, ben:রাদারফোর্ডিয়াম, may:rutherfordium, swa:rutherfordi, ara: رذرفورديوم  
 **rutin** *rutyna, nawyk, zwyczaj* ← eng:fra:routine, spa:rutina, por:rotina, deu:Routine, fas:روتین‎ (rutin), rus:рутина (rutina)  
-**sabi** ** ← spa:por:saber, fra:savoir, eng:savvy, pcm:sabi, may:bisa  
+**sabe** ** ← spa:por:saber, fra:savoir, eng:savvy, pcm:sabi, may:bisa  
 **sable** *piasek, piach* ← fra:sable, ita:sabbia + zho:沙漠 (shā), jpn:砂 (sa), kor:사 (sa), vie:sa + hin:बालू (bālū), ben:বালু (balu)  
 **sabu** *powód, przyczyna* ← heb:(sibá), ara: سَبَب‎ (sabab), fas: سبب‎ (sabab), hin:सबब (sabab), may:sebab, tur:sebep, swa:ful:sababu, hau:sabo; sababi, yor:sábàbí, kon:sambu  
 **sabun** *mydło* ← fra:savon, spa:jabón, por:sabão, ara: صَابُون‎ (ṣābūn), fas: صابون‎ (sâbun), hin:साबुन (sābun), ben:সাবান (śaban), tel:సబ్బు (sabbu), may:tur:sabun, swa:sabuni, hau:sabulu, jpn:シャボン (shabon), vie:xà bông  
-**sada** *zwykły, zwyczajny, prosty* ← tur:sade, fas:(sāde), hin:सादा (sādā), ben:সাদা (śada), ara: سَاذَج (sāḏaj)  
-**saf** *czysty* ← ara: صَفِيّ‎ (ṣafiyy), tur:saf, swa:safi, hau:tsafta, may:safa, hin:साफ़ (sāf), ben:সাফ (śaph)  
+**sade** *zwykły, zwyczajny, prosty* ← tur:sade, fas:(sāde), hin:सादा (sādā), ben:সাদা (śada), ara: سَاذَج (sāḏaj)  
 **safar** *podróż* ← ara:(safar), hin:सफ़र (safar), tur:sefer, swa:safari, eng:fra:spa:por:deu:may:safari  
+**safe** *czysty* ← ara: صَفِيّ‎ (ṣafiyy), tur:saf, swa:safi, hau:tsafta, may:safa, hin:साफ़ (sāf), ben:সাফ (śaph)  
 **safran** *szafran* ← ara:(zaʿfarān), swa:zafarani, fas:(za'ferân), fra:tur:safran, eng:saffron, spa:azafrán, por:açafrão, rus:шафран (šafran)  
 **sagu** *sago* ← eng:sago, fra:sagou, spa:sagú, por:may:sagu, rus:саго (sago), ara: سَاغُو‎ (sāḡū), zho:西谷米 (xīgúmǐ), jpn:サゴ (sago), hin:सागू (sāgū)  
 **sah** *godzina* ← ara: سَاعَة‎ (sāʿa), amh:ሰዓት (säʿat), heb: שָׁעָה (sha'á), swa:saa, hau:sa'a, fas: ساعت‎ (sâ'at), tur:saat + zho:時 (shí), yue:時 (si4), kor:시 (si)  
@@ -1587,6 +1587,7 @@
 **xanti** *zostawić (zostawiać)* ← hin:शांति (shānti), ben:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), mar:शांत (shānta), tel:శాంతి (shānti), guj:શાંતિ (shānti), khm:សន្តិ (sɑnte’), jpn:シャンティ (shanti)  
 **xara** *piła* ← alb:sharrë + spa:sierra, por:serra + आरा (ārā) + ara: مِنْشَار‎ (minšār), fas: منشار‎ (menšâr)  
 **xarbe** ** ← ara: شَرْبَة‎ (šarba), ben:শরবত (šôrbôt), tur:şerbet, may:serbat, swa:sharubati + eng:sharbat; sherbet, deu:fra:sorbet, spa:sorbete, por:sorvete, rus:шербет (šerbet), zho:雪葩 (xuěpā), jpn:シャーベット (shābetto), kor:셔벗 (syeobeot)  
+**xarir** ** ← hin:शरीर (śarīr), ben:শরীর (śôrīr), zho:舍利 (shèlì), jpn:舎利 (shari), kor:사리 (sari), vie:xá lị, mya:သရီရ (sa.rira.)  
 **xarma** *wstyd (hańba, kompromitacja)* ← fas:(šarm),  urd:(śarma), hin:शर्म (śarma), deu:Scham, eng:shame, rus:срам (sram)  
 **xarnir** *zawias, oś* ← fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)  
 **xarti** *warunek* ← tur:şart, ara:fas:(šart), swa:sharuti, hau:sharadi, hin:शर्त (śart), ben:শর্ত (śôrt)  

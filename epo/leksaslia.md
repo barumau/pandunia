@@ -408,8 +408,7 @@
 **forme** *formo* ← angla:form, hispana:portugala:forma, franca:forme, deu:Form, rusa:форма (forma)  
 **forum** *forumo* ← angla:franca:forum, hispana:foro, portugala:fórum, rusa:форум (forum), japana:フォーラム (fōramu)  
 **fosfe** *fosforo* ← angla:phosphorus, franca:phosphore, hispana:fósforo, portugala:fósforo, rusa:фосфор, vjetnama:photpho, hindia:फास्फोरस, bengala:ফসফরাস, malaja:fosfor, svahila:posfori, araba: فوسفور  
-**fote** *lumo* ← greka:φωτο- (foto-), angla:franca:photo-, hispana:portugala:foto-, rusa:фото-  
-**fotografe** *foto* ← angla:photograph, franca:photographie, hispana:portugala:fotografia, rusa:фотография, hindia:फ़ोटो (foṭo), bengala:ফটো (phôṭo), malaja:foto, turka:fotoğraf  
+**fote** *lumo* ← greka:φωτο- (foto-), angla:franca:deu:photo-, hispana:portugala:foto-, rusa:фото- + hindia:फ़ोटो (foṭo), bengala:ফটো (phôṭo), malaja:foto, turka:fotoğraf  
 **fransium** *franciumo* ← angla:francium, franca:francium, hispana:francio, portugala:frâncio, rusa:франций, mandarena:钫 (fāng), japana:フランシウム, korea:프랑슘, vjetnama:franxi, hindia:फ्रान्सियम, bengala:ফ্রান্সিয়াম, malaja:fransium, svahila:fransi, araba: فرنسيوم  
 **frasen** ** ← franca:frêne, hispana:fresno, portugala:freixo, itala:frassino + rusa:ясень (yasen’), polona:jesion  
 **frem** *kadro* ← angla:frame, bengala:ফ্রেম (phrēma), pan:ਫਰੇਮ (pharēma), marataja:फ्रेम (phrēma), svahila:fremu  
@@ -1080,6 +1079,7 @@
 **nilon** *nilono* ← angla:portugala:franca:nylon, hispana:nilón, rusa:нейлон (nejlon), araba:نَايْلُون‎ (nāylūn), persa:نایلون‎ (nâylon), malaja:nilon, svahila:nailoni, mandarena:尼龙 (nílóng), japana:ナイロン (nairon)  
 **niobium** *niobo* ← angla:niobium, franca:niobium, hispana:niobio, portugala:nióbio, rusa:ниобий, mandarena:铌 (ní), japana:ニオブ, korea:나이오븀, vjetnama:niobi, hindia:नायोबियम, bengala:নাইওবিয়াম, malaja:niobium, svahila:niobi, araba: نيوبيوم  
 **niponium** *nihonio* ← angla:franca:malaja:nihonium, hispana:nihonio, portugala:nihonium, rusa:нихоний, japana:ニホニウム, korea:우눈트륨, vjetnama:svahila:nihoni  
+**nirban** ** ← hindia:निर्वाण (nirvāṇ), bengala:নির্বাণ (nirbaṇ), mandarena:涅槃 (nièpán), kantona:涅槃 (nip6 pun4), japana:涅槃 (nehan), korea:열반 (yeulban), vjetnama:niết bàn, malaja:nirwana, angla:franca:hispana:portugala:nirvana, rusa:нирвана (nirvana)  
 **nitre** *nitrogeno* ← angla:nitrogen, franca:azote, hispana:nitrógeno, portugala:nitrogénio, rusa:азот, vjetnama:nitơ, hindia:नाइट्रोजन, bengala:নাইট্রোজেন, malaja:nitrogen, svahila:nitrojeni, araba: نيتروجين  
 **nix** ** ← franca:angla:niche, portugala:nicho, rusa:ниша (niša)  
 **no** *ne* ← angla:hispana:no, franca:non, portugala:não, bengala:না (na), rusa:не (nye), hindia:नहीं (nahī̃), korea:아니 (ani), japana:-ない (-nai)  
@@ -1299,13 +1299,13 @@
 **rute** ** ← angla:franca:route, hispana:ruta, portugala:rota, deu:Route, japana:ルート (rūto), rusa:маршрут (maršrut)  
 **ruterfordium** *ruterfordio* ← angla:rutherfordium, franca:rutherfordium, hispana:rutherfordio, portugala:rutherfórdio, rusa:резерфордий, ²курчатовий, mandarena: (lú), japana:ラザホージウム, korea:러더포듐, vjetnama:rutherfordi, hindia:रुथरफोर्डियम, bengala:রাদারফোর্ডিয়াম, malaja:rutherfordium, svahila:rutherfordi, araba: رذرفورديوم  
 **rutin** *rutino (kutimo)* ← angla:franca:routine, hispana:rutina, portugala:rotina, deu:Routine, persa:روتین‎ (rutin), rusa:рутина (rutina)  
-**sabi** *scii kiel* ← hispana:portugala:saber, franca:savoir, angla:savvy, pcm:sabi, malaja:bisa  
+**sabe** *scii kiel* ← hispana:portugala:saber, franca:savoir, angla:savvy, pcm:sabi, malaja:bisa  
 **sable** *sablo* ← franca:sable, itala:sabbia + mandarena:沙漠 (shā), japana:砂 (sa), korea:사 (sa), vjetnama:sa + hindia:बालू (bālū), bengala:বালু (balu)  
 **sabu** *kialo* ← heb:(sibá), araba: سَبَب‎ (sabab), persa: سبب‎ (sabab), hindia:सबब (sabab), malaja:sebab, turka:sebep, svahila:fula:sababu, haŭsa:sabo; sababi, joruba:sábàbí, konga:sambu  
 **sabun** *sapo* ← franca:savon, hispana:jabón, portugala:sabão, araba: صَابُون‎ (ṣābūn), persa: صابون‎ (sâbun), hindia:साबुन (sābun), bengala:সাবান (śaban), teluga:సబ్బు (sabbu), malaja:turka:sabun, svahila:sabuni, haŭsa:sabulu, japana:シャボン (shabon), vjetnama:xà bông  
-**sada** ** ← turka:sade, persa:(sāde), hindia:सादा (sādā), bengala:সাদা (śada), araba: سَاذَج (sāḏaj)  
-**saf** *pura* ← araba: صَفِيّ‎ (ṣafiyy), turka:saf, svahila:safi, haŭsa:tsafta, malaja:safa, hindia:साफ़ (sāf), bengala:সাফ (śaph)  
+**sade** ** ← turka:sade, persa:(sāde), hindia:सादा (sādā), bengala:সাদা (śada), araba: سَاذَج (sāḏaj)  
 **safar** *vojaĝo* ← araba:(safar), hindia:सफ़र (safar), turka:sefer, svahila:safari, angla:franca:hispana:portugala:deu:malaja:safari  
+**safe** *pura* ← araba: صَفِيّ‎ (ṣafiyy), turka:saf, svahila:safi, haŭsa:tsafta, malaja:safa, hindia:साफ़ (sāf), bengala:সাফ (śaph)  
 **safran** *safrano* ← araba:(zaʿfarān), svahila:zafarani, persa:(za'ferân), franca:turka:safran, angla:saffron, hispana:azafrán, portugala:açafrão, rusa:шафран (šafran)  
 **sagu** ** ← angla:sago, franca:sagou, hispana:sagú, portugala:malaja:sagu, rusa:саго (sago), araba: سَاغُو‎ (sāḡū), mandarena:西谷米 (xīgúmǐ), japana:サゴ (sago), hindia:सागू (sāgū)  
 **sah** *horo* ← araba: سَاعَة‎ (sāʿa), amhara:ሰዓት (säʿat), heb: שָׁעָה (sha'á), svahila:saa, haŭsa:sa'a, persa: ساعت‎ (sâ'at), turka:saat + mandarena:時 (shí), kantona:時 (si4), korea:시 (si)  
@@ -1587,6 +1587,7 @@
 **xanti** ** ← hindia:शांति (shānti), bengala:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), marataja:शांत (shānta), teluga:శాంతి (shānti), guĝarata:શાંતિ (shānti), kmera:សន្តិ (sɑnte’), japana:シャンティ (shanti)  
 **xara** *segilo* ← alb:sharrë + hispana:sierra, portugala:serra + आरा (ārā) + araba: مِنْشَار‎ (minšār), persa: منشار‎ (menšâr)  
 **xarbe** *trinki (trinkaĵo)* ← araba: شَرْبَة‎ (šarba), bengala:শরবত (šôrbôt), turka:şerbet, malaja:serbat, svahila:sharubati + angla:sharbat; sherbet, deu:franca:sorbet, hispana:sorbete, portugala:sorvete, rusa:шербет (šerbet), mandarena:雪葩 (xuěpā), japana:シャーベット (shābetto), korea:셔벗 (syeobeot)  
+**xarir** ** ← hindia:शरीर (śarīr), bengala:শরীর (śôrīr), mandarena:舍利 (shèlì), japana:舎利 (shari), korea:사리 (sari), vjetnama:xá lị, birma:သရီရ (sa.rira.)  
 **xarma** *honto* ← persa:(šarm),  urdua:(śarma), hindia:शर्म (śarma), deu:Scham, angla:shame, rusa:срам (sram)  
 **xarnir** *ĉarniro (pivoto)* ← franca:charnière, hispana:charnela, deu:Scharnier, rusa:шарнир (šarnir)  
 **xarti** *kondiĉo (postulo)* ← turka:şart, araba:persa:(šart), svahila:sharuti, haŭsa:sharadi, hindia:शर्त (śart), bengala:শর্ত (śôrt)  

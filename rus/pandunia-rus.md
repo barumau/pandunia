@@ -226,7 +226,7 @@ be migra - переезжать
 be pute - гнить (портиться)  
 be retro - возвращаться  
 be rute galte - отходить (скитаться)  
-be sabi vol - задуматься (думать, гадать)  
+be sabe vol - задуматься (думать, гадать)  
 be sona - спать  
 be tele loka - телепортировать  
 be turbe - утруждай  
@@ -593,6 +593,7 @@ formize - формировать
 fosfe - фосфор  
 fosfate - фосфат  
 fote - свет  
+foto - фото  
 fotografia - фотография  
 foto mata di - матовый  
 foto minar - маяк  
@@ -936,8 +937,8 @@ kane sor - щеколда
 kangaru - кенгуру  
 kanjar - кинжал  
 kanse - рак  
+Kantalupo a Sabina - Канталупо-ин-Сабина  
 kantalupo melon - канталупа  
-Kantalupo va Sabina - Канталупо-ин-Сабина  
 kanu - каноэ  
 kanyon - овраг (ущелье, каньон)  
 kapa - голова  
@@ -947,6 +948,7 @@ kapa kexa hin - лысый
 kape truke - ловушка  
 kar - работать  
 • konkar - сотрудничать (кооперировать)  
+• konkare - сотрудничать (кооперировать)  
 karer - работник  
 kar lexi - глагол  
 karxe - работа  
@@ -1032,7 +1034,6 @@ komodia - комедия
 kon forma - применяться (согласоваться)  
 kon hau - соответствовать (сочетаться)  
 kon helen baxa - койне  
-kon kar - сотрудничать (кооперировать)  
 kon trati - контракт  
 kone - конус  
 konserte - концерт  
@@ -1405,6 +1406,7 @@ nilon - нейлон
 niobium - ниобий  
 Nipon - Япония  
 niponium - нихоний  
+nirban - тушить  
 nitre - азот  
 nitrate - нитрат  
 nix - ниша  
@@ -1684,10 +1686,10 @@ ruterfordium - резерфордий, ²курчатовий
 ## S  
 
 sable - песок  
-sada - простой (не более чем)  
-saf - чистый  
-• ansaf - грязный  
-saf tela - тряпка  
+sade - простой (не более чем)  
+safe - чистый  
+• ansafe - грязный  
+safe tela - тряпка  
 safar ceke - дорожный чек  
 safran - шафран  
 sagu - саго  

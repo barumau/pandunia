@@ -666,7 +666,7 @@ cannabis (marijuana, ganja, pot, weed) - ganja
 cannoneer - dai pauer  
 canoe - kanu  
 cantaloupe - kantalupo melon  
-Cantalupo in Sabina - Kantalupo va Sabina  
+Cantalupo in Sabina - Kantalupo a Sabina  
 canter and gallop - galope  
 canvas - pente tela  
 canyon (ravine, gorge, gully) - kanyon  
@@ -824,8 +824,8 @@ classify (categorize) - klasife
 classroom - xule kamar  
 claw (scratch) - nahunate  
 clay - glu poto  
-clean (pure) - saf  
-clean (purify) - safe  
+clean (pure) - safe  
+clean (purify) - safife  
 cleaner - safer  
 cleanliness (purity) - safta  
 cleanly (hygienic, sanitary) - salu saf di  
@@ -875,8 +875,8 @@ coin - pesa diske
 cola - kola jus  
 cold (illness) - zukam  
 cold - leng  
-collaborate (work together) - kon kar  
 collaborate (work together) - konkar  
+collaborate (work together) - konkare  
 collapse - parce dipe  
 collect (gather, bring together, assemble, congregate) - jame  
 collect fees or taxes - kape yo taxi  
@@ -902,7 +902,7 @@ common (general) - putong
 common (mutual) - kon su  
 common (shared) - konun  
 common language - konbaxe  
-communicate (inform about) - fa kon sabi  
+communicate (inform about) - konsabe  
 communism - koncanisme  
 communist - koncaniste  
 Comoros - Komoro nesia  
@@ -1086,6 +1086,7 @@ Côte d’Ivoire (Ivory Coast) - Kote de Ivar
 
 ## D  
 
+dad (papa) - papa  
 dagger - kanjar  
 daimyo oak - dante baluta  
 daisy - margarita  
@@ -1212,7 +1213,7 @@ dinosaur - dino saur
 Dione - Dione  
 diorite - diorite  
 direct (point, aim; direction; target, objective) - dike  
-dirty - ansaf  
+dirty - ansafe  
 disagree - fa alo rai  
 disagreement (disconsent) - anrai  
 disappear (vanish) - be an zai  
@@ -1493,6 +1494,7 @@ expose (reveal) - expoze
 express (push out) - exprese  
 extend (stretch out) - fa vai tense  
 extent - vai tense  
+extinguish (put out, quench) - nirban  
 extract (draw out) - extrate  
 extractor - extrater  
 extrovert (outgoing) - extraverse  
@@ -2153,7 +2155,7 @@ infer (point into) - infere
 infidel (pagan, heathen, unbeliever) - kafir  
 infinity - anlimite  
 inflammation (-itis) - itis  
-information (communicable knowledge) - kon sabi  
+information (communicable knowledge) - konsabaje  
 initial (first) - xuru di  
 initial (first; prime) - prime  
 inject - injete  
@@ -2332,7 +2334,7 @@ knife - caku
 knot (node) - node  
 know as a fact (be aware of) - san  
 know by experience or in person - ken  
-know how - sabi  
+know how - sabe  
 knowledge - san xe  
 koala - koala  
 Koine Greek - kon helen baxa  
@@ -2796,6 +2798,7 @@ mole (unit) - mole
 molecule - molekul  
 mollusk - moluske  
 molybdenum - moliden  
+mom (mama) - mama  
 moment (instant, while) - cana  
 momentary - canaike  
 Monaco - Monako  
@@ -2980,6 +2983,7 @@ nightingale - bulbul
 nihonium - niponium  
 nine (9) - tisa  
 niobium - niobium  
+nirvana - nirban  
 nitrate - nitrate  
 nitrile - nitril  
 nitrogen - nitre  
@@ -3324,6 +3328,7 @@ phoneme - foneme
 phonology - fonologia  
 phosphate - fosfate  
 phosphorus - fosfe  
+photo - foto  
 photograph - fotografe  
 photographer - fotografer  
 photography - fotografia  
@@ -3369,7 +3374,7 @@ pixel - grafeme
 pizza - piza  
 pizzeria - pizaria  
 place (location) - loke  
-plain (ordinary, unadorned, simple, mere, pure) - sada  
+plain (ordinary, unadorned, simple, mere, pure) - sade  
 plain (plateau, flat lands) - plate stan  
 plan - plan  
 plane (plate) - plate  
@@ -3691,6 +3696,7 @@ reinforcements - max ordu
 reject (throw back) - rejete  
 relax - relaxe  
 relexify - rilexife  
+relic (remains, corpse) - xarir  
 relic - prezaman xe  
 religion (worship) - din  
 religious - din di  
@@ -4864,7 +4870,7 @@ winter - leng mosim
 winter melon (wax gourd, ash gourd) - mum melon  
 wintry - leng mosim di  
 wipe (clean with a cloth) - fa saf va tela  
-wipe (rag, cleaning cloth) - saf tela  
+wipe (rag, cleaning cloth) - safe tela  
 wire - metal lin  
 wisdom - sofia  
 wise - sofe  
@@ -4874,7 +4880,7 @@ Wolof (language and people) - Volof
 woman (adult female) - ceng fem  
 wonder (awe, marvel) - ajabu  
 wonder (be amazed) - be ajabu  
-wonder (be interested in, would like to know) - be sabi vol  
+wonder (be interested in, would like to know) - be sabe vol  
 wonderful (marvel, mirable) - mirebil  
 wood (timber) - moka mate  
 wood board (plank) - moka bano  

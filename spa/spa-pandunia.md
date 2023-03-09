@@ -632,7 +632,7 @@ canguro - kangaru
 cannabis (hachís, marihuana) - ganja  
 canoa - kanu  
 cansarse (fatigar) - be fatige  
-Cantalupo in Sabina - Kantalupo va Sabina  
+Cantalupo in Sabina - Kantalupo a Sabina  
 cantar (canción) - gani  
 cantidad - polita  
 caos (desorden) - haos  
@@ -841,8 +841,8 @@ col china - baku coi
 col rizada - yepa koli  
 cola (rabo, coda) - koda  
 cola (refresco de cola) - kola jus  
-colaborar - kon kar  
 colaborar - konkar  
+colaborar - konkare  
 colarse - sir move  
 colchón - matras  
 colección (grupo, conjunto, montón) - jamia  
@@ -893,7 +893,7 @@ comprar - fa xopi
 compras (shopping) - xope  
 comprensión (entendimiento) - budion  
 computadora (ordenador) - konputer  
-comunicar (informar) - fa kon sabi  
+comunicar (informar) - konsabe  
 comunismo - koncanisme  
 comunista - koncaniste  
 común (comunitario) - konun  
@@ -1550,6 +1550,7 @@ exportar - exporte
 exposición (espectáculo) - xou  
 expulsar (exceptuar, excepto) - expoze  
 exterior - vai di  
+extinguir (apagar) - nirban  
 extractor - extrater  
 extraer - extrate  
 extranjero - exgogike  
@@ -1632,6 +1633,7 @@ foro (espacio público) - forum
 forzar (usar fuerte, imponer, coaccionar) - pake  
 fosfato - fosfate  
 foto (fotografía) - fotografe  
+foto - foto  
 fotografía - fotografia  
 fotograma - statike grafe  
 fotógrafo - fotografer  
@@ -2030,7 +2032,7 @@ infiel (descreído) - andiniste
 infiel (descreído) - ankreder  
 infierno - naraka  
 inflamación - itis  
-información - kon sabi  
+información - konsabaje  
 informe (reporte, noticia) - reporte  
 informática (computación) - data cule logia  
 infortunio (mala suerte) - dus zar  
@@ -2282,8 +2284,8 @@ lila - lila
 limero - kaguji limon  
 limonada - limon jus  
 limpiador - safer  
-limpiar - safe  
-limpio - saf  
+limpiar - safife  
+limpio - safe  
 limón - limon  
 linaza - yama seme  
 lince - linxe  
@@ -2750,6 +2752,7 @@ Nigeria - Nigeria
 nihonio - niponium  
 ningunos - siro jen  
 niobio - niobium  
+nirvana - nirban  
 nitrato - nitrate  
 nitrilo - nitril  
 nitrógeno - nitre  
@@ -3219,7 +3222,7 @@ preferir - prefere
 prefijo - prefixe  
 pregunta - sual  
 preguntar (inquirir) - fa sual  
-preguntarse - be sabi vol  
+preguntarse - be sabe vol  
 prejuicio - prejude  
 prejuicio - prexake  
 prenatal - prenatal  
@@ -3552,7 +3555,7 @@ rótula - guta kaska oste
 
 sabana - garma zona caustan  
 sabbat - sabate  
-saber - sabi  
+saber - sabe  
 saber - san  
 sabiduría (conocimiento) - san xe  
 sabiduría - sofia  
@@ -3638,7 +3641,7 @@ seminal - seme di
 semáforo - semoforer  
 semántica - semologia  
 senador - senater  
-sencillo (liso) - sada  
+sencillo (liso) - sade  
 Senegal - Senegal  
 seno (teta) - mame  
 sentar - fa side  
@@ -3753,7 +3756,7 @@ subir (alzar) - be gau
 subterráneo - geo nice di  
 subtítulos - nice kitabe  
 sucio - darti di  
-sucio - ansaf  
+sucio - ansafe  
 Sudamérica - Sude Amerika  
 sudor - sueda  
 sudoroso (sudado) - sueda di  
@@ -3974,7 +3977,7 @@ transmitir - tramise
 Transnistria (Cisdniéster) - Transe Nistre Dexa  
 transparente - transe vide di  
 transporte - traporte  
-trapo (tela para limpiar) - saf tela  
+trapo (tela para limpiar) - safe tela  
 trasero (nalgas) - pigu  
 tratar (llevar, manejar, lidiar, procesar) - cule  
 tren - tren  

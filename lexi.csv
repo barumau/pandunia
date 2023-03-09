@@ -468,7 +468,7 @@ be.retro|be retro||||return (get back)||retourner (revenir)|volver|voltar (regre
 be.rota|be rota||||rotate (spin, turn on an axis)|||girar (rotar)||||||||||||||||||pyöriä|obrócić się (kręcić się)
 be.rupa|be rupa||||seem|||parecer||||||||||||||||||näyttää jltkn|wyglądać (wydawać się)
 be.rute.galte|be rute galte||||stray (deviate)|||apartarse (desviarse)||отходить (скитаться)||||||||||||逸れる||||harhautua|zbłąkać się (wykoleić się)
-be.sabi.vol|be sabi vol||||wonder (be interested in, would like to know)|||preguntarse||задуматься (думать, гадать)||||||||||||訝る (-かしら)||||kiinnostua|
+be.sabe.vol|be sabe vol||||wonder (be interested in, would like to know)|||preguntarse||задуматься (думать, гадать)||||||||||||訝る (-かしら)||||kiinnostua|
 be.sam.rupa|be sam rupa||||resemble (be like)|||parecerse a||||||||||||||||||muistuttaa (vaikuttaa samalta)|być podobnym, być jak
 be.sel|be sel||||should (ought)|||deber (se recomienda)|||||||||||||||||devus|pitäisi|powinien
 be.sona|be sona||||sleep||dormir|dormir|dormir|спать||सोना|শোয়া||tidur||uyumak|kulala||睡觉 (困觉)||寝る|자다||dormi|nukkua|spać
@@ -1114,7 +1114,6 @@ fa.jui|fa jui||||warn (caution, alert)|||advertir||предостерегать|
 fa.kai|fa kai||||open|||abrir|||||||||||||||||malfermi|aukaista (avata)|otworzyć, otwierać
 fa.kata|fa kata||||tell (narrate)|||relatar (narrar)|||||||||||||||||rakonti|kertoa|opowiedzieć, opowiadać
 fa.kino|fa kino||||move (transfer, shift, stir, budge, rouse, motivate, inspire)||mouvoir (bouger)|mudar (mover, transferir, traspasar, trasladar, estimular, inspirar)|mover|двигать||||||||||动||動かす|이동시키다||movi|liikuttaa (innoittaa)|ruszać, przenościć, zmieniać miejsce, inspirować
-fa.kon.sabi|fa kon sabi||||communicate (inform about)|||comunicar (informar)||||||||||||||||||tiedottaa (informoida)|poinformować, informować, zakomunikować, komunikować
 fa.koste|fa koste|||eng:cost, spa:costar, por:custar, fra:coûter, deu:kosten|cost|||costar||||||||||||||||||maksaa (olla hintana)|kosztować
 fa.krus.fixe|fa krus fixe||||crucify|||crucificar||||||||||||||||||ristiinnaulita|ukrzyżować
 fa.kung|fa kung||||pierce (perforate, bore)|||perforar (agujerar)||пробиться||||||||||||染みる (貫通する)||||rei’ittää|przebić (perforować, dziurawić)
@@ -1369,9 +1368,10 @@ form.iz-|formize||||shape (sculpt)||former|formar|modelar|формировать
 forum|forum|||eng:fra:forum, spa:foro, por:fórum, rus:форум (forum), jpn:フォーラム (fōramu)|forum (public space)|||foro (espacio público)|||||||||||||||||forumo|foorumi|forum
 fosf.|fosfe|yum 015|P|eng:phosphorus, fra:phosphore, spa:fósforo, por:fósforo, rus:фосфор, vie:photpho, hin:फास्फोरस, ben:ফসফরাস, may:fosfor, swa:posfori, ara: فوسفور|phosphorus||phosphore|fósforo|fósforo|фосфор||फास्फोरस|ফসফরাস||fosfor|فوسفور|fosfor|posfori||磷||リン|인|photpho|fosforo|fosfori|fosfor
 fosf.at|fosfate|kim|||phosphate||phosphate|fosfato|fosfato|фосфат||||||||||磷酸盐|磷酸鹽|燐酸塩||||fosfaatti|fosfat
-fot.|fote|||ell:φωτο- (foto-), eng:fra:photo-, spa:por:foto-, rus:фото-|light (illumination)||lumière|luz (iluminación)|luz|свет||प्रकाश (रौशनी)|আলো||cahaya (nur)|نور‎|ışık|mwanga (nuru)||光||光|빛 (광)|ánh sáng|lumo|valo|światło, oświetlenie
+fot-|fote|||ell:φωτο- (foto-), eng:fra:deu:photo-, spa:por:foto-, rus:фото- + hin:फ़ोटो (foṭo), ben:ফটো (phôṭo), may:foto, tur:fotoğraf|light (illumination)||lumière|luz (iluminación)|luz|свет||प्रकाश (रौशनी)|আলো||cahaya (nur)|نور‎|ışık|mwanga (nuru)||光||光|빛 (광)|ánh sáng|lumo|valo|światło, oświetlenie
+fot.|foto||||photo|Foto|photo|foto|foto|фото||फ़ोटो|ফটো||foto||||||||||foto|foto (valokuva)|fotka
 fot.gola|foto gola||||halo (aureola)|||halo (aureola)|||||||||||||||||halo|sädekehä (halo)|efekt halo
-fot.graf|fotografe|||eng:photograph, fra:photographie, spa:por:fotografia, rus:фотография, hin:फ़ोटो (foṭo), ben:ফটো (phôṭo), may:foto, tur:fotoğraf|photograph||photographie|foto (fotografía)|foto (fotografia)|||फ़ोटो|ফটো||foto||fotoğraf||| 照片 (相片)||写真|사진|hình|foto|valokuva (foto)|zdjęcie (fotografia)
+fot.graf|fotografe||||photograph|Lichtbild|photographie|foto (fotografía)|foto (fotografia)|||फ़ोटो|ফটো||foto||fotoğraf||| 照片 (相片)||写真|사진|hình|foto|valokuva (foto)|zdjęcie (fotografia)
 fot.graf.er|fotografer||||photographer|||fotógrafo|||||||||||||||||fotisto|valokuvaaja|fotograf
 fot.graf.gi|fotografe gi||||camera|||cámara|||||||||||||||||fotilo|kamera|kamera, aparat fotograficzny
 fot.graf.ia|fotografia||||photography||photographie|fotografía|fotografia|фотография|||||||||||||||fotografio|valokuvaus|fotografia
@@ -2173,8 +2173,8 @@ kanon|kanon|||eng:fra:spa:canon, por:canone|classic (canon)||classique (canon)||
 kanon.di|kanon di||||classic (authoritative, definitive)|||||||||||||||||||kinh điển||klassinen (kanooninen)|
 kans-|kanse|||eng:fra:cancer, spa:cáncer, por:câncer, hin:कैंसर (kainsar), ben:ক্যান্সার (kênsar), tur:kanser, swa:kansa, jpn:癌 (gan) |cancer|Krebs|cancer|cáncer|câncer (cancro)|рак|سرطان‎|कर्कट (कैंसर)|ক্যান্সার||kanker|سَرَطَان‎|kanser|kansa||癌症|癌症|癌|암|ung thư|kancero|syöpä|rak (nowotwór złośliwy)
 kanta|kanta|||hin:कंधा (kandhā), urd:(kandhā), ben:কাঁধ (kandhô), + jpn:肩 (kata), + ara:(kataf), + min:肩頭 (keng-thâu)|shoulder|||hombro|||||||||||||||||ŝultro|olkapää (hartia)|bark (ramię)
+Kantalupo.a.Sabina|Kantalupo a Sabina||||Cantalupo in Sabina||Cantalupo in Sabina|Cantalupo in Sabina|Cantalupo in Sabina|Канталупо-ин-Сабина|||||||||||||||||Cantalupo in Sabina
 kantalupo.melon|kantalupo melon|bio|Cucumis melo var. cantalupo|eng:cantaloupe, spa:por:cantalupo, fra:cantaloup, deu:Cantaloup, rus:канталупа (kantalupa), jpn:カンタロープ (kantarōpu)|cantaloupe|||melón cantalupo|meloa (cantalupo)|канталупа||||||||||鈔皮瓜||カンタロープ|||||kantalupa
-Kantalupo.va.Sabina|Kantalupo va Sabina||||Cantalupo in Sabina||Cantalupo in Sabina|Cantalupo in Sabina|Cantalupo in Sabina|Канталупо-ин-Сабина|||||||||||||||||Cantalupo in Sabina
 kanu|kanu|||eng:canoe, fra:canoë, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu), tur:kano|canoe||canoë|canoa|canoa|каноэ|||||||kano|||||カヌー|카누||kanuo (kanoto)|kanootti|kanoe
 kanun|kanun|||ara:(qānūn), tur:kanun, swa:kanuni, hin:क़ानून (qānūn), + eng:fra:canon, por:cânone, rus:канон (kanon)|law (rule, regulation)|||regla (ley)|||||||||kanun|kanuni|||||||lego|laki (sääntö)|prawo
 kanun.vala|kanun vala||||lawyer|||||||वकील|উকিল||pengacara||avukat|wakili||律师||弁護士|변호사|luật sư|advokato|lakimies (juristi)|adwokat
@@ -2194,6 +2194,7 @@ kar|kar|||fas: کار (kâr), hin:कार (kār), कार्य (kārya), be
 kar-dus|• duskar||||misdeed (sin, vice)||méfait (péché)|pecado|malfeitoria (pecado)|||||||||||||悪事||||synti (paha teko)|
 kar-dus.er|• duskarer||||evildoer||malfeiteur|malhechor|malfeitor|||||||||||||||||pahantekijä|
 kar-kon|• konkar||||collaborate (work together)||collaborer|colaborar|colaborar|сотрудничать (кооперировать)|||||kerjasama|||||合作||共同して働|공동으로 일하다||kunlabori|tehdä yhteistyötä|współpracować (kolaborować)
+kar-kon-|• konkare||||collaborate (work together)||collaborer|colaborar|colaborar|сотрудничать (кооперировать)|||||kerjasama|||||合作||共同して働|공동으로 일하다||kunlabori|tehdä yhteistyötä|współpracować (kolaborować)
 kar-pro|• prokare||||process (produce)|||||||प्रक्रिया|প্ৰক্ৰিয়া|||||||||||||tuottaa (tuotanto)|
 kar.cut-|kar cute||||leave (absence from work)|||||||छुट्टी|||cuti|||||||||||vapaa (poissaolo töistä)|
 kar.er|karer||||worker||travailleur (ouvrier)|trabajador (obrero)|trabalhador|работник||मज़दूर (कर्मी)|কর্মী||pekerja|عَامِل|işçi|||工人 (工作者)||労働者|노동자|công nhân|laboristo|työntekijä (työläinen)|pracownik
@@ -2393,8 +2394,6 @@ kon.funsi.bil|kon funsibil||||compatible (supported)|||compatible|||||||||||||||
 kon.hau|kon hau||||match (fit, suit, go well together)|||emparejar (quedar)|combinar com|соответствовать (сочетаться)||||||||||相配||合わせる (適する)|||kongrui|sopia|pasować
 kon.helen.baxa|kon helen baxa||||Koine Greek|Koine|koinè|koiné|koiné|койне|||||bahasa yunani koine|||||通用希臘語|||||kojnea greka lingvo|koinee-kreikka|
 kon.if-|konife||||share|||compartir (tener en común)||||||||||||||||||jakaa yhteiseksi|dzielić (współdzielić)
-kon.kar|kon kar||||collaborate (work together)||collaborer|colaborar|colaborar|сотрудничать (кооперировать)|||||kerjasama|||||合作||共同して働|공동으로 일하다||kunlabori|tehdä yhteistyötä|współpracować (kolaborować)
-kon.sabi|kon sabi||||information (communicable knowledge)|||información|||||||||||||||||informacio|tieto|informacja
 kon.su|kon su||||common (mutual)||||||||||||||||||||kuna|yhteinen|wspólny (wzajemny)
 kon.tra|kontra|coverb|||go against|||estar en contra|||||||||||||||||kontraŭi|mennä vasten|być przeciw
 kon.trati|kon trati||||pact (contract, covenant, alliance)||convention (alliance, pacte)|convenion (pacto)|pacto|контракт||||||||||公約||||||liittosopimus|pakt (kontrakt, ugoda, umowa, konwencja)
@@ -2708,6 +2707,7 @@ M|M||||M||M|M|M|M||M|M||M|M|M|M||M||M|M|M|M|M|M
 ma|ma|famil||por:mãe + zho:妈 (mā), vie:má, ben:মা (ma), hin:मां (mã) + eng:swa:mama, spa:mamá, fra:maman, rus:мама (mama), jpn:ママ (mama), kor:엄마 (eomma)|mother (mom, mama)||mère (maman)|madre (mamá)|mãe|мать (мама)||माता (मां, मादर)|মাতা (মা)||ibu (emak)|أُمّ‎|anne|mzazi (mama)||妈妈||お母さん (母, ママ)|엄마|mẹ (má)|patrino|äiti (emä)|matka (mama)
 ma.bra|ma bra|famil|||maternal uncle||||||دایی|मामा||||||||||||||eno|
 ma.di|ma di|famil|||motherly (maternal)||maternel|maternal|maternal|материнский||||||||||||||||äidillinen|
+ma.ma|mama||||mom (mama)||||||||||||||||||||||
 ma.ma|ma ma|famil|||maternal grandmother|||||||नानी||||||||外婆 (外祖母)||||||äidinäiti|
 ma.pa|ma pa|famil|||maternal grandfather|||||||नाना||||||||外公 (外祖父)||||||äidinisä|
 ma.sis|ma sis|famil|||maternal aunt||||||خاله‎|मौसी||||||||姨||||||täti (äidin sisko)|
@@ -3236,6 +3236,8 @@ niob.ium|niobium|yum 041|Nb|eng:niobium, fra:niobium, spa:niobio, por:nióbio, r
 Nipon|Nipon|gogia|JP||Japan||Japon|Japón|Japão|Япония||जापान|জাপান||Jepang||Japonya|Japani||日本||日本|일본|Nhật Bản|Japanio|Japani|Japonia
 nipon.di|nipon di||||Japanese|||japonés||||||||||||||日本の (日本語, 日本人)|||japana|japanilainen|japoński
 nipon.ium|niponium|yum 113|Nh|eng:fra:may:nihonium, spa:nihonio, por:nihonium, rus:нихоний, jpn:ニホニウム, kor:우눈트륨, vie:swa:nihoni|nihonium||nihonium|nihonio|nihonium|нихоний|||||nihonium|ٲنون يريوم|nihoniyum|nihoni||||ニホニウム|우눈트륨|nihoni|nihonio|nihonium|nihonium
+nirban-|nirban||||extinguish (put out, quench)|löschen|éteindre|extinguir (apagar)|extinguir (apagar)|тушить||||||أَطْفَأَ‎||||熄灭|熄滅|消す||||sammuttaa|
+nirban.|nirban|||hin:निर्वाण (nirvāṇ), ben:নির্বাণ (nirbaṇ), zho:涅槃 (nièpán), yue:涅槃 (nip6 pun4), jpn:涅槃 (nehan), kor:열반 (yeulban), vie:niết bàn, may:nirwana, eng:fra:spa:por:nirvana, rus:нирвана (nirvana)|nirvana|Nirvana|nirvana|nirvana|nirvana|||निर्वाण|নির্বাণ||nirwana|||||涅槃|涅槃|涅槃|열반|niết bàn||sammuminen (nirvana)|
 Nistre|Nistre||||Dniester|||Dniéster|||||||||||||||||||
 nitr|nitre|yum 007|N|eng:nitrogen, fra:azote, spa:nitrógeno, por:nitrogénio, rus:азот, vie:nitơ, hin:नाइट्रोजन, ben:নাইট্রোজেন, may:nitrogen, swa:nitrojeni, ara: نيتروجين|nitrogen||azote|nitrógeno|nitrogénio|азот||नाइट्रोजन|নাইট্রোজেন||nitrogen|نيتروجين|azot|nitrojeni||氮||窒素|질소|nitơ|nitrogeno|typpi|azot
 nitr.at|nitrate|kim|||nitrate|Nitrat|nitrate|nitrato|nitrato (azotato)|нитрат||||||||||硝酸鹽||||||nitraatti|
@@ -3355,6 +3357,7 @@ pa.bra|pa bra|famil|||paternal uncle||||||عمو|काका||||||||||||||setä
 pa.di|pa di|famil|||fatherly (paternal)||paternel|paternal|paternal|отеческий||||||||||||||||isällinen|
 pa.ma|pa ma|famil|||paternal grandmother|||||||दादी||||||||奶奶 (祖母)||||||isänäiti|
 pa.pa|pa pa|famil|||paternal grandfather|||||||दादा||||||||爷爷 (祖父)||||||isänisä|
+pa.pa|papa||||dad (papa)||||||||||||||||||||||
 pa.sis|pa sis|famil|||paternal aunt||||||عمه‎|बूआ||||||||姑||||||täti (isän sisko)|
 pa.tr.ia|patria||||fatherland||patrie|patria|pátria|отечество|||||||||||||||patrujo|isänmaa|ojczyzna
 pa.tr.ia-kon.an|• konpatrian||||compatriot (fellow citizen)||compatriote|compatriota (cotérraneo)|compatriota (compatrício)|соотечественник|||||||vatandaş||||||||samlandano|maanmies|kompatriota
@@ -3876,19 +3879,21 @@ rute.galte.di|rute galte di||||stray (deviant)||||||||||||||||||||||zbłąkany (
 ruterford.ium|ruterfordium|yum 104|Rf|eng:rutherfordium, fra:rutherfordium, spa:rutherfordio, por:rutherfórdio, rus:резерфордий, ²курчатовий, zho: (lú), jpn:ラザホージウム, kor:러더포듐, vie:rutherfordi, hin:रुथरफोर्डियम, ben:রাদারফোর্ডিয়াম, may:rutherfordium, swa:rutherfordi, ara: رذرفورديوم|rutherfordium||rutherfordium|rutherfordio|rutherfórdio|резерфордий, ²курчатовий||रुथरफोर्डियम|রাদারফোর্ডিয়াম||rutherfordium|رذرفورديوم|rutherfordiyum|rutherfordi||||ラザホージウム|러더포듐|rutherfordi|ruterfordio|rutherfordium|rutherford
 rutin|rutin|||eng:fra:routine, spa:rutina, por:rotina, deu:Routine, fas:روتین‎ (rutin), rus:рутина (rutina)|routine (habit)|||rutina (hábito)|||||||||||||||||rutino (kutimo)|tapa (rutiini)|rutyna, nawyk, zwyczaj
 S|S||||S||S|S|S|S||S|S||S|S|S|S||S||S|S|S|S|S|S
+sab-|sabe|||spa:por:saber, fra:savoir, eng:savvy, pcm:sabi, may:bisa|know how|können|savoir|saber|saber||بلد بودن||||sabi|عَرَفَ‎||kuweza||会||||biết|scii kiel|osata|
+sab-kon-|• konsabe||||communicate (inform about)|||comunicar (informar)||||||||||||||||||tiedottaa (informoida)|poinformować, informować, zakomunikować, komunikować
+sab-kon.aj-|• konsabaje||||information (communicable knowledge)|||información|||||||||||||||||informacio|tieto|informacja
 sabate|sabate||||Sabbath|||sabbat||||||||||||||||||sapatti|szabat, szabas
-sabi|sabi|||spa:por:saber, fra:savoir, eng:savvy, pcm:sabi, may:bisa|know how|können|savoir|saber|saber||بلد بودن||||sabi|عَرَفَ‎||kuweza||会||||biết|scii kiel|osata|
 sabl.|sable|||fra:sable, ita:sabbia + zho:沙漠 (shā), jpn:砂 (sa), kor:사 (sa), vie:sa + hin:बालू (bālū), ben:বালু (balu)|sand||sable|arena|areia|песок||रेत ( बालू)|বালু||pasir|رمل‎ |kum|mchanga||沙||砂|모래|cát|sablo|hiekka|piasek, piach
 sabl.burge|sable burge||||sandcastle|||||||||||||||||||||hiekkalinna|
 sabl.it.|sablite||||sandstone||grès|||||||||||||||砂岩||||hiekkakivi|piaskowiec
 sabl.stan|sablestan||||desert|||desierto|||||||||||||||||dezerto|aavikko (hiekkaerämaa)|pustynia
 sabu|sabu|||heb:(sibá), ara: سَبَب‎ (sabab), fas: سبب‎ (sabab), hin:सबब (sabab), may:sebab, tur:sebep, swa:ful:sababu, hau:sabo; sababi, yor:sábàbí, kon:sambu|reason (cause)|||razón (causa)|||||||||||||||||kialo|syy|powód, przyczyna
 sabun|sabun|||fra:savon, spa:jabón, por:sabão, ara: صَابُون‎ (ṣābūn), fas: صابون‎ (sâbun), hin:साबुन (sābun), ben:সাবান (śaban), tel:సబ్బు (sabbu), may:tur:sabun, swa:sabuni, hau:sabulu, jpn:シャボン (shabon), vie:xà bông|soap|||jabón||||साबुन|||sabun||sabun|sabuni|sabulu|肥皂|||||sapo|saippua|mydło
-sada|sada|||tur:sade, fas:(sāde), hin:सादा (sādā), ben:সাদা (śada), ara: سَاذَج (sāḏaj)|plain (ordinary, unadorned, simple, mere, pure)|bloß|simple|sencillo (liso)|mero|простой (не более чем)||सादा|সাদা|||سَاذَج|sade|||||||||pelkkä (koruton, tavanomainen, vain)|zwykły, zwyczajny, prosty
-saf-|safe||||clean (purify)|||limpiar||||||||||||||掃く (精げる, 拭く)|||purigi|puhdistaa (siivota)|wyczyścić, czyścić
-saf-|saf|||ara: صَفِيّ‎ (ṣafiyy), tur:saf, swa:safi, hau:tsafta, may:safa, hin:साफ़ (sāf), ben:সাফ (śaph)|clean (pure)|sauber (rein)|net (propre)|limpio|limpo|чистый|پاک‎|साफ़|সাফ (পরিষ্কার)|சுத்தம்|bersih|نَظِيف‎|temiz (arı, saf)|safi (nadhifu)|mai (tsafta)|干净|||||pura|puhdas (siivo, siisti)|czysty
-saf-an|• ansaf||||dirty|schmutzig|sale|sucio|sujo|грязный||गंदा (मैला)|নোংরা||kotor|قَذِر‎|kirli|chafu|dau'da|脏||汚い|더럽다|bẩn thỉu|malpura|likainen|brudny
-saf.tela|saf tela||||wipe (rag, cleaning cloth)|||trapo (tela para limpiar)||тряпка||||||||||||ワイプ|||||
+sad-|sade|||tur:sade, fas:(sāde), hin:सादा (sādā), ben:সাদা (śada), ara: سَاذَج (sāḏaj)|plain (ordinary, unadorned, simple, mere, pure)|bloß|simple|sencillo (liso)|mero|простой (не более чем)||सादा|সাদা|||سَاذَج|sade|||||||||pelkkä (koruton, tavanomainen, vain)|zwykły, zwyczajny, prosty
+saf-|safe|||ara: صَفِيّ‎ (ṣafiyy), tur:saf, swa:safi, hau:tsafta, may:safa, hin:साफ़ (sāf), ben:সাফ (śaph)|clean (pure)|sauber (rein)|net (propre)|limpio|limpo|чистый|پاک‎|साफ़|সাফ (পরিষ্কার)|சுத்தம்|bersih|نَظِيف‎|temiz (arı, saf)|safi (nadhifu)|mai (tsafta)|干净|||||pura|puhdas (siivo, siisti)|czysty
+saf-an|• ansafe||||dirty|schmutzig|sale|sucio|sujo|грязный||गंदा (मैला)|নোংরা||kotor|قَذِر‎|kirli|chafu|dau'da|脏||汚い|더럽다|bẩn thỉu|malpura|likainen|brudny
+saf.if.|safife||||clean (purify)|||limpiar||||||||||||||掃く (精げる, 拭く)|||purigi|puhdistaa (siivota)|wyczyścić, czyścić
+saf.tela|safe tela||||wipe (rag, cleaning cloth)|||trapo (tela para limpiar)||тряпка||||||||||||ワイプ|||||
 saf+er|safer||||cleaner|||limpiador|||||||||||||||||purigisto|siivooja|sprzątacz, sprzątacz
 saf+ta|safta||||cleanliness (purity)||||||||||||||||||||pureco|puhtaus|
 safar-|safar||||travel|||viajar|||||||||||||||||vojaĝi|matkustaa|podróżować
@@ -4724,6 +4729,7 @@ xara|xara|||alb:sharrë + spa:sierra, por:serra + आरा (ārā) + ara: مِ�
 xara.fun|xarafun||||sawdust||sciure|serrín|serragem|опилки||||||||||锯末||木屑||mùn cưa|segaĵo|sahanpuru (sahajauho)|
 xara.kan|xarakan||||sawmill||scierie|aserradero|serraría|лесопилка||||||||||||||||sahalaitos|tartak
 xarb.|xarbe|||ara: شَرْبَة‎ (šarba), ben:শরবত (šôrbôt), tur:şerbet, may:serbat, swa:sharubati + eng:sharbat; sherbet, deu:fra:sorbet, spa:sorbete, por:sorvete, rus:шербет (šerbet), zho:雪葩 (xuěpā), jpn:シャーベット (shābetto), kor:셔벗 (syeobeot)|drink|trinken|boire|beber (tomar)|beber (tomar)|пить|نوشیدن‎|पीना|পিয়া (খাওয়া)||minum|شَرِبَ‎|içmek|kunywa||喝 (饮)|飲 (呷)|飲む|마시다||trinki (trinkaĵo)|juoda (juoma)|
+xarir-|xarir|||hin:शरीर (śarīr), ben:শরীর (śôrīr), zho:舍利 (shèlì), jpn:舎利 (shari), kor:사리 (sari), vie:xá lị, mya:သရီရ (sa.rira.)|relic (remains, corpse)|||||||शव (शरीर)||||||||舍利|舎利|舎利|사리|xá lị||jäännökset (ruumis, tuhkat)|
 xarma|xarma|||fas:(šarm),  urd:(śarma), hin:शर्म (śarma), deu:Scham, eng:shame, rus:срам (sram)|shame (disgrace)|||vergüenza (pena)|||||||||||||||||honto|häpeä|wstyd (hańba, kompromitacja)
 xarnir|xarnir|||fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)|hinge (pivot)|||bisagra (gozne)|||||||||||||||||ĉarniro (pivoto)|sarana|zawias, oś
 xarti|xarti|||tur:şart, ara:fas:(šart), swa:sharuti, hau:sharadi, hin:शर्त (śart), ben:শর্ত (śôrt)|condition (requirement)|||condición (requisito, estipulación)|||||||||||sharadi||||||kondiĉo (postulo)|vaatimus (edellytys)|warunek

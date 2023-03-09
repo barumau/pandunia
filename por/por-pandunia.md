@@ -311,7 +311,7 @@ canhǎo - dai pau
 canil - vaf parke  
 canivete - jebe caku  
 canoa - kanu  
-Cantalupo in Sabina - Kantalupo va Sabina  
+Cantalupo in Sabina - Kantalupo a Sabina  
 canção de ninar - lala gani  
 capa - mantol  
 capa de chuva - barxa kote  
@@ -413,8 +413,8 @@ coelho (lebre) - tuzi
 coentro - kotumbar  
 cogumelo - fungu frute  
 coisa - xe  
-colaborar - kon kar  
 colaborar - konkar  
+colaborar - konkare  
 colar (aderir) - glutize  
 colchão - matras  
 colher - camaca  
@@ -741,6 +741,7 @@ explosão - bum
 expor (revelar) - vai poze  
 expor (revelar) - expoze  
 exterior - vai  
+extinguir (apagar) - nirban  
 extrair - extrate  
 exército - ordu  
 exógeno - vai gene di  
@@ -798,6 +799,7 @@ força - balata
 força aérea - air ordu  
 fosfato - fosfate  
 foto (fotografia) - fotografe  
+foto - foto  
 fotografia - fotografia  
 fraco (débil) - anbala  
 fraco - mirde  
@@ -1056,7 +1058,7 @@ liga (aliança) - liga
 ligeiro - lege veze di  
 lima - kaguji limon  
 limonada - limon jus  
-limpo - saf  
+limpo - safe  
 limão - limon  
 lince - linxe  
 linha (fio) - lin  
@@ -1193,7 +1195,7 @@ mercado (bazar) - bazar
 mercúrio - hidrargente  
 Mercúrio - Merkur  
 merda - xite  
-mero - sada  
+mero - sade  
 mesa - meza  
 mestre - master  
 meta (gol) - gol  
@@ -1294,6 +1296,7 @@ nicho - nix
 Nigéria - Nigeria  
 nihonium - niponium  
 ninho (vespiero) - nide  
+nirvana - nirban  
 nitrato (azotato) - nitrate  
 nitrila - nitril  
 nitrogénio - nitre  
@@ -1708,7 +1711,7 @@ rótula (patela) - guta kaska oste
 ## S  
 
 sabedoria (sagacidade, sapiência) - sofia  
-saber - sabi  
+saber - sabe  
 saber - san  
 sacada (varanda) - veranda  
 sacarose - sukaros  
@@ -1805,7 +1808,7 @@ sorvete (gelado) - ais krem
 sorvete - ais xarbe  
 substância - kime  
 suco (sumo) - jus  
-sujo - ansaf  
+sujo - ansafe  
 sulfato - sulfate  
 sulfeto - sulfide  
 sulfito - sulfite  

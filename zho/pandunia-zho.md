@@ -862,6 +862,7 @@ kapa kexa hin - 秃头的
 kape truke - 陷阱  
 kar - 工作  
 • konkar - 合作  
+• konkare - 合作  
 karer - 工人 (工作者)  
 karkan - 工厂  
 kar lexi - 动词  
@@ -932,7 +933,6 @@ koma - 逗号
 kon - 共  
 kon hau - 相配  
 kon helen baxa - 通用希臘語  
-kon kar - 合作  
 kon trati - 公約  
 kone - 锥体  
 konserte - 音乐会  
@@ -1269,6 +1269,8 @@ nil serami sing - 茜草花
 nilon - 尼龙  
 niobium - 铌  
 Nipon - 日本  
+nirban - 熄灭  
+nirban - 涅槃  
 nitre - 氮  
 nitrate - 硝酸鹽  
 nitril - 腈  
@@ -1493,11 +1495,11 @@ rusium - 钌
 
 ## S  
 
-sabi - 会  
+sabe - 会  
 sable - 沙  
 sabun - 肥皂  
-saf - 干净  
-• ansaf - 脏  
+safe - 干净  
+• ansafe - 脏  
 safar - 旅行  
 safar ceke - 旅行支票  
 sagu - 西谷米  
@@ -1803,6 +1805,7 @@ xaniden - 星期六 (礼拜六)
 xara - 锯子  
 xarafun - 锯末  
 xarbe - 喝 (饮)  
+xarir - 舍利  
 xatan - 撒但  
 xava - 烧 (烧烤)  
 xayu - 鲨鱼  

@@ -563,6 +563,7 @@ fonologia (äänneoppi) - fonologia
 foorumi - forum  
 fosfaatti - fosfate  
 fosfori - fosfe  
+foto (valokuva) - foto  
 fotoni - foton  
 frankium - fransium  
 fruktoosi (hedelmäsokeri) - frutos  
@@ -1112,6 +1113,7 @@ jää - ais
 jäädä jäljelle - be reste  
 jääkiekko - ais hoki  
 Jäämeri - Artika Bahai  
+jäännökset (ruumis, tuhkat) - xarir  
 jäännös (loput) - baki  
 jäätelö - ais krem  
 jäätyä - be ais  
@@ -1400,7 +1402,7 @@ Kiina - Jongoku
 kiinalainen tai japanilainen kirjoitusmerkki - Han zi  
 kiinnittää - fixe  
 kiinnostava - san vol di  
-kiinnostua - be sabi vol  
+kiinnostua - be sabe vol  
 kiinnostus (mielenkiinto) - san vol  
 kiinteä - gati mate di  
 kiinteä aine - gati mate  
@@ -1884,7 +1886,7 @@ liittymä - dau yunte
 liittäminen - yuntion  
 liittää - lige  
 likainen (mutainen) - darti di  
-likainen - ansaf  
+likainen - ansafe  
 lilja - susan  
 limonadi - limon jus  
 linja (viiva, lanka, liina, naru, köysi) - lin  
@@ -2600,7 +2602,7 @@ osallistua - fa parti
 osallistua - partecepe  
 osallistuja - parteceper  
 osapuoli (puolue) - partia  
-osata - sabi  
+osata - sabe  
 Oseania - Oseania  
 osittainen - fen di  
 osmani (ottomaani) - osman  
@@ -2762,7 +2764,7 @@ pelastaja - salver
 pelastaminen (pelastus) - salvation  
 pelata - geme  
 peli - geme  
-pelkkä (koruton, tavanomainen, vain) - sada  
+pelkkä (koruton, tavanomainen, vain) - sade  
 pelko (kauhu, terrori) - tere  
 pellava - yama  
 pellavakangas - yama tela  
@@ -2967,8 +2969,8 @@ pudota (tipahtaa) - pada
 pudottaa - fa pada  
 Puerto Rico - Portoriko  
 puertoricolainen - portoriko jen  
-puhdas (siivo, siisti) - saf  
-puhdistaa (siivota) - safe  
+puhdas (siivo, siisti) - safe  
+puhdistaa (siivota) - safife  
 puhelias - logive  
 puhelin - fon  
 puhelin - telefon  
@@ -3294,6 +3296,8 @@ samanmaalainen (maanmies) - sam gogia jen
 samarium - samarium  
 Sambia - Zambia  
 sammal - mos  
+sammuminen (nirvana) - nirban  
+sammuttaa - nirban  
 Samoa - Samoa  
 San Marino - Sante Marino  
 sana - lexe  
@@ -3784,8 +3788,8 @@ tehdä tyhjäksi - defete
 tehdä täydelliseksi - fa pul hau  
 tehdä uudestaan (toistaa) - rifete  
 tehdä valmiiksi - fa redi  
-tehdä yhteistyötä - kon kar  
 tehdä yhteistyötä - konkar  
+tehdä yhteistyötä - konkare  
 tehkäämme - haide  
 tehokas (tehoava, vaikuttava) - exfetive  
 teidän - tumen su  
@@ -3842,10 +3846,10 @@ thai - Tai baxa
 Thaimaa - Tai Dexa  
 Thule - Tule  
 tie - dau  
-tiedottaa (informoida) - fa kon sabi  
+tiedottaa (informoida) - konsabe  
 tiehyt - tubule  
 tieto (tietämys) - san xe  
-tieto - kon sabi  
+tieto - konsabaje  
 tietoinen (hereillä) - budike  
 tietojenkäsittely - data cule  
 tietojenkäsittelytiede - data cule logia  
