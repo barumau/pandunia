@@ -189,7 +189,7 @@ argu - argument
 arhe -   
 • anarhia - anarchia  
 • anarhiste -   
-• unarhia -   
+• monarhia -   
 arhia -   
 Ariel -   
 arke - łuk  
@@ -265,10 +265,10 @@ autatike -
 auter -   
 autife -   
 autokratia - monarchia  
+automotike - samobieżny  
 autonomia - autonomia  
 autonomike - autonomiczny  
 autologe - monolog  
-automove - samobieżny  
 avakate - awokado  
 avar - obrażenia (rana, krzywda)  
 avarike -   
@@ -336,6 +336,7 @@ bala - silny
 balakan -   
 balata - siła  
 baldi - wiadro  
+Balgaria - Bułgaria  
 balon pexe - ryba rozdymkowata  
 baluta - dąb  
 baluta frute - żołądź  
@@ -450,7 +451,6 @@ be in bum - implodować
 be islam - poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym  
 be kai - otworzyć się, otwierać się  
 be karibu - zbliżać się (zbliżyć się)  
-be kino -   
 be krus - przejść w poprzek  
 be kux - leżeć  
 be laxe - pozostawać w tyle (zwlekać)  
@@ -458,7 +458,6 @@ be loka - być umiejscowionym (być ulokowanym, stać)
 be mal - należeć  
 be mata - umrzeć, umierać  
 be max -   
-be migra - przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić)  
 be min -   
 be mirde - niknąć (blaknąć, gasnąć, słabnąć)  
 be nam - być wezwanym, być wzywanym, być nazwanym, być nazywanym  
@@ -568,7 +567,6 @@ boka cati -
 boka vele -   
 bol - piłka  
 bolon - balon  
-Bolgaria - Bułgaria  
 boli - zapomnieć, zapominać  
 boli varis -   
 Bolivia - Boliwia  
@@ -578,7 +576,7 @@ borium - bohr
 bori - nuda (znudzenie)  
 bori di - znudzony  
 boron - bor  
-Bosna i Hercegovina - Bośnia i Harcegowina  
+Bosna e Hercegovina - Bośnia i Harcegowina  
 Bote - Tybet  
 botel - butelka  
 botel tape -   
@@ -1124,7 +1122,6 @@ fa jong - centrować, skupić, skupiać
 fa jui -   
 fa kai - otworzyć, otwierać  
 fa kata - opowiedzieć, opowiadać  
-fa kino - ruszać, przenościć, zmieniać miejsce, inspirować  
 fa koste - kosztować  
 fa krus fixe - ukrzyżować  
 fa kung - przebić (perforować, dziurawić)  
@@ -1520,7 +1517,7 @@ gati mate di - stały (sztywny)
 gau - góra (szczyt)  
 gau di - wysoki  
 gau dipe - pionowy  
-gau dipe move -   
+gau dipe mote -   
 gau gradu di -   
 gauize - podnosić (podnieść)  
 gauta - wysokość  
@@ -2330,12 +2327,6 @@ kinar - granica, skraj, brzeg, krawędź
 kinar baryer - płot  
 kinar di - peryferyjny  
 kinar fon - spółgłoska  
-kino - ruch  
-kino di - ruchowy, kinetyczny  
-kino grafi - kino  
-kino grafi arte - kinematografia  
-kino grafi di - kinowy  
-kino grafikan -   
 Kinxasa -   
 Kinxasa Kongo - Demokratyczna Republika Konga  
 kio - most  
@@ -2952,6 +2943,7 @@ midia -
 midike - średni  
 mide noce - północ  
 mien - makaron  
+migre - przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić)  
 migre - ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się)  
 migre - migracja  
 • inmigre -   
@@ -3057,11 +3049,21 @@ moski - komar, moskit
 Moskva - Moskwa  
 moskvium - moskovium  
 mostre - potwór, monstrum  
-motocar - samochód (automobil)  
+mote - ruszać, przenościć, zmieniać miejsce, inspirować  
+• demote -   
+• promote - promować  
+• remote -   
 moter - silnik  
+moter car - samochód (automobil)  
+moter cate -   
+moter sikle - motocykl (motor)  
+motografe - kino  
+motografia - kinematografia  
+motografike - kinowy  
+motografekan -   
+motike - ruchowy, kinetyczny  
 motion - ruch  
-motosikle - motocykl (motor)  
-moto cati -   
+motive - motyw  
 Mozambike - Mozambik  
 mudan - piwonia  
 muka - twarz  

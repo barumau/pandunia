@@ -131,7 +131,7 @@ auro - oro
 Austronesia - Aŭstronezio  
 Australia - Aŭstralio  
 auter - aŭtoro  
-automove - memmova  
+automotike - memmova  
 avakate - avokado  
 avar - damaĝo  
 avarive - damaĝa  
@@ -170,6 +170,7 @@ bala - forta
 • anbala - malforta  
 balata - forto  
 baldi - sitelo  
+Balgaria - Bulgario  
 baluta - kverko  
 bambu - bambuo  
 ban - pano  
@@ -236,7 +237,6 @@ be gene - naski
 be halte - halti  
 be hapu - taŭgi  
 be kai - malfermiĝi  
-be kino - moviĝi  
 be kux - kuŝi  
 be mal - aparteni  
 be mata - morti  
@@ -301,7 +301,6 @@ boka - buŝo
 boka cati - palato  
 bol - pilko  
 bolon - balono  
-Bolgaria - Bulgario  
 boli - boligi  
 Bolivia - Bolivio  
 bolte - bolto  
@@ -582,7 +581,6 @@ fa hava - venti
 fa hisabu - kalkuli  
 fa kai - malfermi  
 fa kata - rakonti  
-fa kino - movi  
 fa lai - alporti (venigi)  
 fa lenxi - ekzerci  
 fa memo - memori  
@@ -1409,6 +1407,7 @@ mosim - sezono
 moski - kulo (moskito)  
 moskvium - moskovio  
 mostre - monstro  
+mote - movi  
 moter - motoro  
 motion - movo  
 muka - vizaĝo  

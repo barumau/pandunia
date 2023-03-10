@@ -188,7 +188,7 @@ argu|argu||||argument (rationale, grounds)||argument|argumento|argumento|арг�
 arh-|arhe||||leader|||||||||||||||||||||valtias (johtaja)|
 arh-an.ia|• anarhia||||anarchy|Anarchie|anarchie|anarquía|anarquia|анархия (безвластие)||अराजकता|||anarki||anarşi|||无政府状态|無政府狀態|||||anarkia|anarchia
 arh-an.ist-|• anarhiste||||anarchist|||||||||||||||||||||anarkisti|
-arh-un.ia|• unarhia||||monarchy|||||||||||||||||||||yksinvalta (monarkia)|
+arh-mon.ia|• monarhia||||monarchy|||||||||||||||||||||yksinvalta (monarkia)|
 arh.ia|arhia||||leadership||||||||||||||||||||||
 Ariel|Ariel|planeta 7 lun 2|||Ariel|||||||||||||||||||||Ariel|
 ark-|arke|||eng:arch, spa:por:arco, fra:arc, rus:арка (arka), may:arka|bow (arch, arc)||arc|arco|arco|лук (арка)||||||||||弓 (琴弓, 拱)||弓 (弓なり)||||kaari|łuk
@@ -264,10 +264,10 @@ aut.at.ik.|autatike||||automatic|automatisch|automatique|automático|automático
 aut.er|auter||||author (auteur, independent actor)||auteur|autor|autor|автор|||||||||||||||aŭtoro|itsenäinen tekijä (auktori)|
 aut.if-|autife||||personalize (customize)|||personalizar||||||||||||||カスタマイズする||||personoida|
 aut.krat.ia|autokratia||||autocracy (monarchy)|||autocratia (monarquía)||||||||||||||君主制||||yksinvaltius (autokratia, monarkia)|monarchia
+aut.mot.ik-|automotike||||self-moving (automotive, automobile)|||automotor (automotriz)|||||||||||||||||memmova|itseliikkuva|samobieżny
 aut.nom.ia|autonomia||||autonomy|||autonomía||||||||||||||||||itsehallinto (autonomia)|autonomia
 aut.nom.ik.|autonomike||||autonomous|||autónomo||||||||||||||||||autonominen|autonomiczny
 auto.log-|autologe||||monolog||monologue|monólogo|monólogo|монолог|||||||monolog|||独白||独白 (独話)||||yksinpuhelu (monologi)|monolog
-auto.move|automove||||self-moving (automotive, automobile)|||automotor (automotriz)|||||||||||||||||memmova|itseliikkuva|samobieżny
 avakate|avakate|bio||nah:ahuakatl, spa:aguacate, por:abacate, tgl:abokado, jpn:アボカド (abokado), kor:아보카도 (abokado), fra:avocat, pol:awokado, kon:zavoká|avocado||avocat|aguacate|||||||||||||||||avokado|avokado|awokado
 avar|avar|||ara: عَوَارِيَّة‎ (ʿawāriyya), eng:(nautical) average, fra:avarie, spa:avéria, por:avaria, rus:авария (avariya), tur:avarya|damage (injury, harm)||dommage|daño (corrupción)|dano (avaria)|повреждение (авария)|||||||||||||||damaĝo|vaurio (vahinko, haveri)|obrażenia (rana, krzywda)
 avar.ik-|avarike||||damaged (corrupt)|||dañado||||||||||||||||||vaurioitunut|
@@ -333,6 +333,7 @@ bala-an|• anbala||||weak (feeble)||faible|débil|fraco (débil)|слабый||
 bala.kan|balakan||||gym (fitness center)||salle de muscu|||||||||||||体育馆||||||kuntosali (punttisali)|
 bala.ta|balata||||force (strength, power)||force|fuerza|força|сила||||||قُوَّة‎||||力||力|||forto|voima|siła
 baldi|baldi|||spa:por:tgl:balde, hin:बाल्टी (bālṭī), ben:বালতি (balti), may:baldi|bucket||seau|balde (cubo)||||बाल्टी|বালতি||baldi||||||||||sitelo|sanko (ämpäri)|wiadro
+balgar.ia|Balgaria|gogia|BG||Bulgaria|||Bulgaria|||||||||||||||||Bulgario|Bulgaria|Bułgaria
 balon.pexe|balon pexe|bio|Tetraodontidae||pufferfish||poisson-globe|pez globo||иглобрюховые||||||||||||フグ||||pallokala|ryba rozdymkowata
 baluta|baluta|bio|Quercus|ara:بلوط (ballūṭ), fas:بلوط (balut), hin:बलूत (balūta), spa:bellota|oak tree||chêne|roble|carvalho|дуб|||||ek|بَلُّوط|meşe|mwaloni||橡树||ナラ|||kverko|tammi|dąb
 baluta.frute|baluta frute||||acorn||gland|bellota||||||||||||||ドングリ||||tammenterho|żołądź
@@ -447,7 +448,6 @@ be.in.bum|be in bum||||implode (collapse)||imploser|implosionar|implodir|взр�
 be.islam|be islam||||surrender (submit, yield)|||someterse (rendirse, ceder)||||||||||||||||||alistua (antautua)|poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym
 be.kai|be kai||||become open|||abirse|||||||||||||||||malfermiĝi|aueta (avautua)|otworzyć się, otwierać się
 be.karibu|be karibu||||approach (get near)|||axproximarse||||||||||||||||||lähestyä|zbliżać się (zbliżyć się)
-be.kino|be kino||||move oneself||se mouvoir|moverse|Mover-se|двигаться||चलना|চলা||||hareket etmek|peleka||动||動く|움직이다|chuyển động|moviĝi|liikkua|
 be.krus|be krus||||cross (go across)|||cruzar||||||||||||||||||mennä yli tai poikki|przejść w poprzek
 be.kux|be kux||||lie (lie down)||être couché|acostarse (echarse, tenderse, tumbarse)|estar deitado (jazer)|лежать||लेटना (पड़ना)||||||kulala||躺||寝転ぶ|놓이다|nằm|kuŝi|maata (makoilla)|leżeć
 be.laxe|be laxe||||stay behind (linger)|||||||||||||||||||||päästä|pozostawać w tyle (zwlekać)
@@ -455,7 +455,6 @@ be.loka|be loka||||be located (lie, be situated)|||encontrarse (estar, situarse)
 be.mal|be mal||||belong||appartenir à|ser de||принадлежать||||||||||属于|||||aparteni|kuulua (olla jkn hallussa)|należeć
 be.mata|be mata||||die|||morirse|||||||||||||||||morti|kuolla|umrzeć, umierać
 be.max|be max||||exceed (be greater than)|||||||||||||||||||||ylittää (olla enemmän kuin)|
-be.migra|be migra||||move (migrate, relocate oneself)||s'installer (déménager)|migrarse (mudarse, trasladarse)|mudar-se|переезжать||||||||||||||||muuttaa (siirtyä)|przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić)
 be.min|be min||||subceed (be less than)|||||||||||||||||||||alittaa (olla vähemmän kuin)|
 be.mirde|be mirde||||fade|||||||||||||||||||||vaimentua|niknąć (blaknąć, gasnąć, słabnąć)
 be.nam|be nam||||be called (be named)|||llamarse||||||||||||||||||olla nimeltään|być wezwanym, być wzywanym, być nazwanym, być nazywanym
@@ -565,7 +564,6 @@ boka.cati|boka cati||||palate||palais de la bouche|paladar|palato (céu da boca)
 boka.vele|boka vele||||velum|||||||||||||||||||||kitapurje|
 bol|bol|||eng:ball, spa:por:may:tgl:bola, tha:บอล (bɔl), jpn:ボール (bōru), kor:볼 (bol), khm:បាល់ (bal), ben:বল (bôl), deu:Ball, fra:boule; balle, tur:may:balon, hau:balân|ball|Ball|balle (boule)|bola|bola|шар|||गोला|||كورة|mpira|bola||球||玉 (球)|||pilko|pallo|piłka
 bol.on|bolon||||balloon||ballon|globo|||||||balon||balon||||||||balono|ilmapallo|balon
-bolgar.ia|Bolgaria|gogia|BG||Bulgaria|||Bulgaria|||||||||||||||||Bulgario|Bulgaria|Bułgaria
 boli|boli||||boil (cook)|||hervir (cocer)|||||||||||||||||boligi|keittää (kiehuttaa)|zapomnieć, zapominać
 boli.varis|boli varis||||cooked rice|||||||भात|ভাত||nasi||pilav|wali||饭 (米饭)||ご飯||||kypsä riisi|
 boliv.ia|Bolivia|gogia|BO||Bolivia|||Bolivia|||||||||||||||||Bolivio|Bolivia|Boliwia
@@ -575,8 +573,8 @@ bor.ium|borium|yum 107|Bh|eng:bohrium, fra:bohrium, spa:bohrio, por:bóhrio, rus
 bori|bori||27 emotions||boredom|||aburrimiento||||बोरियत|||||||||||||enuo|tylsyys (pitkästys)|nuda (znudzenie)
 bori.di|bori di|||eng:bored, spa:aburrido, hin:(bhorī)|bored|||aburrido|||||||||||||||||enui|pitkästynyt|znudzony
 boron|boron|yum 005|B|eng:boron, fra:boron, spa:boro, por:boro, rus:бор, vie:bo, hin:बोरॉन्, ben:বোরন, may:boron, swa:boroni, ara: بورون|boron||boron|boro|boro|бор||बोरॉन्|বোরন||boron|بورون|bor|boroni||硼||ホウ素|붕소|bo|boro|boori|bor
-Bosna.i.Hercegovina|Bosna i Hercegovina|gogia|BA||Bosnia and Herzegovina|||Bosnia y Herzegovina||||||||||||||||||Bosnia ja Hertsegovina|Bośnia i Harcegowina
-Bote|Bote|gogia||tib:བོད (bod, phø)|Tibet|||Tíbet|||||||||||||||||Tibeto|Tiibet|Tybet
+Bosna.e.Hercegovina|Bosna e Hercegovina|gogia|BA||Bosnia and Herzegovina|||Bosnia y Herzegovina||||||||||||||||||Bosnia ja Hertsegovina|Bośnia i Harcegowina
+Bote|Bote|gogia|||Tibet|||Tíbet|||||||||||||||||Tibeto|Tiibet|Tybet
 botel|botel|||eng:bottle, fra:bouteille, spa:botella, por:botelha, rus:бутылка (butylka), fas: بطری‎ (botri), hin:बोतल (botal), ben:বোতল (botôl), may:botol, tam:புட்டி (puṭṭi)|bottle|Flasche|bouteille|botella|garrafa (botelha)|бутылка||शीशी (बोतल)|বোতল|புட்டி|botol|زُجَاجَة‎|şişe|chupa|kwalaba|瓶||瓶|병|chai|botelo|pullo|butelka
 botel.tap-|botel tape||||bottle cap||capsule|tapón (corcholata)||крышка||||||||||瓶盖|||병뚜껑||botelfermilo|pullonkorkki|
 bra|bra|famil||ell:φράτηρ (phrater), eng:brother, por:brada; bródi, rus:брат (brat), fas: برادر‎ (barâdar), hin:बिरादर (birādar), ben:বেরাদর (beradôr), may:bruder, jpn:ブラザー (burazā), kor:브라더 (beuradeo), tur:birader, swa:bradha|brother|Bruder|frère|hermano|irmão|брат|برادر|||sahodaran||||bradha|shak'ik'i||||||frato|veli|
@@ -1113,7 +1111,6 @@ fa.jong|fa jong||||center (concentrate)|||centrar (concentrar)||||||||||||||||||
 fa.jui|fa jui||||warn (caution, alert)|||advertir||предостерегать|||||diperingatkan||ihtar etmek|||||戒める (諭す)|||||
 fa.kai|fa kai||||open|||abrir|||||||||||||||||malfermi|aukaista (avata)|otworzyć, otwierać
 fa.kata|fa kata||||tell (narrate)|||relatar (narrar)|||||||||||||||||rakonti|kertoa|opowiedzieć, opowiadać
-fa.kino|fa kino||||move (transfer, shift, stir, budge, rouse, motivate, inspire)||mouvoir (bouger)|mudar (mover, transferir, traspasar, trasladar, estimular, inspirar)|mover|двигать||||||||||动||動かす|이동시키다||movi|liikuttaa (innoittaa)|ruszać, przenościć, zmieniać miejsce, inspirować
 fa.koste|fa koste|||eng:cost, spa:costar, por:custar, fra:coûter, deu:kosten|cost|||costar||||||||||||||||||maksaa (olla hintana)|kosztować
 fa.krus.fixe|fa krus fixe||||crucify|||crucificar||||||||||||||||||ristiinnaulita|ukrzyżować
 fa.kung|fa kung||||pierce (perforate, bore)|||perforar (agujerar)||пробиться||||||||||||染みる (貫通する)||||rei’ittää|przebić (perforować, dziurawić)
@@ -1507,7 +1504,7 @@ gati.mate.di|gati mate di||||rigid (solid)|||rígido (sólido)||||||||||||||||||
 gau|gau||||top||haut|alto (parte de arriba)||||||||||||||||||huippu|góra (szczyt)
 gau.di|gau di|||zho:高 (gāo), yue:高 (gou1), wuu:高 (kau1), jpn:高 (kō), kor:고 (go), vie:cao|high (tall)|||alto||||||||||||||高い|||alta|korkea|wysoki
 gau.dipe|gau dipe||||vertical|||vertical||||||||||||||||||pystysuuntainen|pionowy
-gau.dipe.move|gau dipe move||||bob up and down|||inclinar||||||||||||||浮き沈みする||||liikkua ylös ja alas|
+gau.dipe.mot-|gau dipe mote||||bob up and down|||inclinar||||||||||||||浮き沈みする||||liikkua ylös ja alas|
 gau.gradu.di|gau gradu di||||advanced (high-level)|||||||||||||||||||||korkeatasoinen (edistynyt)|
 gau.iz-|gauize||||raise (lift)|||levantar (elevar)||||||||||||||||||nostaa|podnosić (podnieść)
 gau.ta|gauta||||height (altitude)|||altura (altitud)||||||||||||||||||korkeus|wysokość
@@ -2310,12 +2307,6 @@ kinar|kinar|||hin:किनारा (kinārā), ben:কিনারা (kinara)
 kinar.baryer|kinar baryer||||fence|||valla (cerca)|cerca|забор (ограда)||||||||||篱笆||柵 (垣)|||||płot
 kinar.di|kinar di||||peripheral|||periférico||||||||||||||||||reuna-|peryferyjny
 kinar.fon|kinar fon||||consonant|||consonante||||||||||||||||||konsonantti|spółgłoska
-kino|kino||||movement|||movimiento||||||||||||||||||liike|ruch
-kino.di|kino di|||eng:kinetic, spa:por:cinético, fra:cinétique, deu:kinetisch, rus:кинетический (kineticheskyy)|kinetic|||cinético||||||||||||||||||kineettinen (liike-)|ruchowy, kinetyczny
-kino.grafi|kino grafi||||movie (cinema)|||película (filme)||фильм (кино)||||||||||||映画||||elokuva|kino
-kino.grafi.arte|kino grafi arte||||cinematography|||||||||||||||||||||elokuvataide|kinematografia
-kino.grafi.di|kino grafi di||||cinematic|||||||||||||||||||||elokuvallinen|kinowy
-kino.grafi.kan|kino grafikan||||movie theatre|||||||||||||||||||||elokuvateatteri|
 Kinxasa|Kinxasa|xefsite|CD||Kinshasa||Kinshasa|||||||||||||||||||Kinshasa|
 Kinxasa.Kongo|Kinxasa Kongo|gogia|CD||Congo Kinshasa|||República Democrática del Congo||||||||||||||||||Kinshasan Kongo|Demokratyczna Republika Konga
 kio|kio|||zho:桥 (qiáo), yue:橋 (kiu4), wuu:橋 (jío), jpn:橋 (kyō), kor:교 (...gyo), vie:cầu|bridge||pont|puente|ponte|||||||||||桥||橋 (橋梁)|||ponto|silta|most
@@ -2928,6 +2919,7 @@ mid.ia|midia||||medium (media, mass media)||médias|medios|média (mídia)|ме�
 mid.ik.|midike||||medium (intermediate, mean)||moyen|medio (mediano)|medio|средний||||||مُتَوَسِّط||||中型|||||mezo|keskiverto (keski-)|średni
 mid.noc.|mide noce||||midnight||minuit|medianoche|meia-noite|полночь||मध्यरात|মধ্যরাত||tengah malam|مُنْتَصَف اَللَّيْل‎|gece yarısı|||半夜 (午夜)||真夜中|자정|nửa đêm|noktmezo|keskiyö (puoliyö)|północ
 mien|mien|||zho:面 (miàn), yue:麵 (min6), jpn:麺 (men), kor:면 (myeon), vie:mì; miến, may:mie, tha:หมี่ (mii), khm:មី (mi)|noodle|||fideo (tallarín)||||||||||||面条|麵 (麵條)|麺 (ヌードル)||mì (miến)|nudelo|nuudeli|makaron
+migr-|migre||||move (migrate, relocate oneself)||s'installer (déménager)|migrarse (mudarse, trasladarse)|mudar-se|переезжать||||||||||||||||muuttaa (siirtyä)|przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić)
 migr-|migre||||move (migrate, relocate)|||migrar (emigrar, tralsadar)||||||||||||搬家||||||muuttaa (siirtää)|ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się)
 migr-|migre|||fra:eng:migration, spa:migración, por:migração, rus:миграция (migratsiya)|migration (moving)||migration|migración|migração|миграция|||||||||||||||migrado|muutto (migraatio)|migracja
 migr-in.|• inmigre||||immigrate (move in)||immigrer|inmigrar|imigrar|иммигрировать||||||||||移民 (移居)||移住する (移民する)||nhập cư||muuttaa maahan|
@@ -3035,11 +3027,21 @@ moski|moski||biwe|eng:spa:por:mosquito, deu:Moskito, rus:москит (moskit) +
 Moskva|Moskva|xefsite|RU||Moscow|||||Москва||||||||||||||||Moskova|Moskwa
 moskva.ium|moskvium|yum 115|Mc|eng:fra:moscovium, spa:moscovio, por:moscovio, rus:московий, jpn:モスコビウム, kor:우눈펜튬, vie:moscovi, may:moskovium, swa:moscovi|moscovium||moscovium|moscovio|moscovio|московий|||||moskovium|ٲنون بينتيوم|moscoviyum|moscovi||||モスコビウム|우눈펜튬|moscovi|moskovio|moscovium|moskovium
 mostre|mostre|||ita:mostro, eng:monster, spa:por:monstro, fra:monstre, rus:монстр (monstr), jpn:モンスター (monsutā), kor:몬스터 (monseuteo)|monster||monstre|monstro|monstro|монстр||दैत्य|দৈত্য||raksasa||canavar|||妖怪 (怪物)||怪物  (モンスター)|괴물 (몬스터)|quái vật|monstro|hirviö|potwór, monstrum
-mot.car-|motocar||||motorcar (automobile)|||automóvil (coche)||||||||||||||||||auto (automobiili)|samochód (automobil)
-mot.er|moter|||eng:spa:por:tur:may:motor, fra;moteur, rus:мотор (motor), ara:(mutūr), zho:摩托 (mótuō), jpn:モーター (mōtā), kor:모터 (moteo), vie:mô-tơ, hin:मोटर (moṭar), ben:মোটর (moṭôr), swa:hau:mota|engine (motor)||moteur|motor|motor|мотор||मोटर|ইঞ্জিন (মোটর)||motor||motor|injini (ntambo, mota)||马达 (发动机)||モーター (エンジン, 機関)|모터 (기관)|động cơ (mô-tơ)|motoro|moottori|silnik
+mot-|mote|||eng:move; motion, fra:mouvoir, spa:por:mover + rus:мотор (motor), tur:may:motor, ara:(mutūr), zho:摩托 (mótuō), jpn:モーター (mōtā), kor:모터 (moteo), vie:mô-tơ, hin:मोटर (moṭar), ben:মোটর (moṭôr), swa:hau:mota|move (transfer, shift, stir, budge, rouse, motivate, inspire)||mouvoir (bouger)|mudar (mover, transferir, traspasar, trasladar, estimular, inspirar)|mover|двигать||चलना|চলা||||hareket etmek|peleka||动||動かす|이동시키다|chuyển động|movi|liikuttaa (siirtää; liikkua)|ruszać, przenościć, zmieniać miejsce, inspirować
+mot-de-|• demote||||move away|||||||||||||||||||||liikkua pois (siirtää pois)|
+mot-pro-|• promote||||promote (further, move forward)||promouvoir|promover|promover|||||||||||||||||edistää (promotoida)|promować
+mot-re-|• remote||||move back|||||||||||||||||||||liikkua takaisin (siirtää takaisin)|
+mot.er|moter||||engine (motor)||moteur|motor|motor|мотор||मोटर|ইঞ্জিন (মোটর)||motor||motor|injini (ntambo, mota)||马达 (发动机)||モーター (エンジン, 機関)|모터 (기관)|động cơ (mô-tơ)|motoro|moottori|silnik
+mot.er.car|moter car||||motorcar (automobile)|||automóvil (coche)||||||||||||||||||auto (automobiili)|samochód (automobil)
+mot.er.cat-|moter cate||||hood (bonnet, cover over the engine)||capot|capó (bonete)|capô|капот||||||غِطَاء الْمُحَرِّك‎|kaput|||引擎盖||ボンネット (フード)|보닛 (후드)|||konepelti|
+mot.er.sikl-|moter sikle||||motorcycle|||motocicleta||мотоцикл||||||||||||オートバイ (モーターサイクル)||||moottoripyörä|motocykl (motor)
+mot.graf-|motografe||||movie (cinema)|||película (filme)||фильм (кино)||||||||||||映画||||elokuva|kino
+mot.graf.ia|motografia||||cinematography|||||||||||||||||||||elokuvataide|kinematografia
+mot.graf.ik-|motografike||||cinematic|||||||||||||||||||||elokuvallinen|kinowy
+mot.graf.kan|motografekan||||movie theatre|||||||||||||||||||||elokuvateatteri|
+mot.ik-|motike||||kinetic|||cinético||||||||||||||||||kineettinen (liike-)|ruchowy, kinetyczny
 mot.ion|motion||||motion (movement)|||movimiento|||||||||||||||||movo|liike|ruch
-mot.sikl-|motosikle||||motorcycle|||motocicleta||мотоцикл||||||||||||オートバイ (モーターサイクル)||||moottoripyörä|motocykl (motor)
-moto.cati|moto cati||||hood (bonnet, cover over the engine)||capot|capó (bonete)|capô|капот||||||غِطَاء الْمُحَرِّك‎|kaput|||引擎盖||ボンネット (フード)|보닛 (후드)|||konepelti|
+mot.iv-|motive||||motive|Motiv|motif|motivo|motivo|мотив||||||||||动机|動機|||||liikuttava (motiivi, vaikutin)|motyw
 mozambik-|Mozambike|gogia|MZ||Mozambique|||Mozambique||||||||||||||||||Mosambik|Mozambik
 mudan|mudan|bio|Peonia|zho:牡丹 (mǔdān), yue:牡丹 (maau5 daan1), jpn:牡丹 (botan), kor:모란 (moran), vie:mẫu đơn|peony|Pfingstrose|pivoine|peonía|peônia|пион||||||||||牡丹|牡丹|牡丹|모란|mẫu đơn||pioni|piwonia
 muka|muka|||ben:মুখ (mukh), hin:मुख (mukh), tam:முகம் (mukam), tel:(mukhamu), may:muka, tgl:mukha|face||visage|cara (rosto)|||||||muka||||||||||vizaĝo|kasvot (naama)|twarz

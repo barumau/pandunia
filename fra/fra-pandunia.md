@@ -399,7 +399,7 @@ Cantalupo in Sabina - Kantalupo a Sabina
 canyon (ravin) - kanyon  
 capacité (pouvoir, habileté) - bilta  
 cape - mantol  
-capot - moto cati  
+capot - moter cate  
 capsule - botel tape  
 caractère - zi  
 carapace (coquille, coquillage, croûte) - kaska  
@@ -1342,6 +1342,7 @@ moscovium - moskvium
 mot - lexe  
 mot de passe - pas lexe  
 moteur - moter  
+motif - motive  
 mouche - dom zeze  
 moudre - mole  
 mouiller - fa xipi  
@@ -1351,7 +1352,7 @@ mousse - mos
 mousson - barxa mosim  
 moussu - mos di  
 moustique - moski  
-mouvoir (bouger) - fa kino  
+mouvoir (bouger) - mote  
 moyen - midike  
 mule - iha uma  
 multiple - polipli  
@@ -1738,6 +1739,7 @@ projeter (image projection) - jete grafe
 prolongé - long durike  
 promettre - vode  
 promettre - promise  
+promouvoir - promote  
 prométhium - prometium  
 Prométhée - Promete  
 prophète (héraut) - nabija  
@@ -1889,7 +1891,7 @@ rôtir - xava
 
 ## S  
 
-s'installer (déménager) - be migra  
+s'installer (déménager) - migre  
 sable - sable  
 sac - bage  
 sac - sake  
@@ -1946,7 +1948,6 @@ sculpteur - eskulter
 scutelle - oste xalke  
 se - se  
 se baigner - fa banya  
-se mouvoir - be kino  
 se rappeler (se remémorer) - fa memo  
 seaborgium - siborgium  
 seau - baldi  

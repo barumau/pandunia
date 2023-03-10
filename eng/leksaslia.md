@@ -182,7 +182,6 @@
 **bori di** *bored* ← English:bored, Spanish:aburrido, Hindi:(bhorī)  
 **borium** *bohrium* ← English:bohrium, French:bohrium, Spanish:bohrio, Portuguese:bóhrio, Russian:борий, Mandarin: (bō), Japanese:ボーリウム, Korean:보륨, Vietnamese:bohri, Hindi:बोरियम, Bengali:বোহরিয়াম, Malay:bohrium, Swahili:bohri, Arabic: بوريوم  
 **boron** *boron* ← English:boron, French:boron, Spanish:boro, Portuguese:boro, Russian:бор, Vietnamese:bo, Hindi:बोरॉन्, Bengali:বোরন, Malay:boron, Swahili:boroni, Arabic: بورون  
-**Bote** *Tibet* ← tib:བོད (bod, phø)  
 **botel** *bottle* ← English:bottle, French:bouteille, Spanish:botella, Portuguese:botelha, Russian:бутылка (butylka), Persian: بطری‎ (botri), Hindi:बोतल (botal), Bengali:বোতল (botôl), Malay:botol, Tamil:புட்டி (puṭṭi)  
 **bra** *brother* ← Greek:φράτηρ (phrater), English:brother, Portuguese:brada; bródi, Russian:брат (brat), Persian: برادر‎ (barâdar), Hindi:बिरादर (birādar), Bengali:বেরাদর (beradôr), Malay:bruder, Japanese:ブラザー (burazā), Korean:브라더 (beuradeo), Turkish:birader, Swahili:bradha  
 **brauzer** *browser* ← English:browser, deu:Browser, Russian:браузер (brauzer), Hindi:ब्राउज़र (brauzar), Bengali:ব্রাউজার (brā'ujāra), Japanese:ブラウザ (burauzā)  
@@ -746,7 +745,6 @@
 **kilo** *thousand (kilo-)* ← English:French:Spanish:Portuguese:Malay:Turkish:kilo-, Russian:кило- (kilo-), Japanese:キロ- (kiro-), Korean:킬로- (killo-)  
 **kime** *substance (physical material from which something is made)* ← English:chemistry, French:chimie, Spanish:Portuguese:química, Russian:химия (himiya), Arabic:(kīmiyāʾ), Malay:kimia, Swahili:kemia, Hausa:kimiyya, Turkish:kimya  
 **kinar** *border (edge, fringe, margin, rim, side, shore, periphery)* ← Hindi:किनारा (kinārā), Bengali:কিনারা (kinara), Turkish:kenar, Persian: کنار‎ (kenâr)  
-**kino di** *kinetic* ← English:kinetic, Spanish:Portuguese:cinético, French:cinétique, deu:kinetisch, Russian:кинетический (kineticheskyy)  
 **kio** *bridge* ← Mandarin:桥 (qiáo), Cantonese:橋 (kiu4), Wu-Chinese:橋 (jío), Japanese:橋 (kyō), Korean:교 (...gyo), Vietnamese:cầu  
 **kioske** *kiosk (pavilion)* ← Persian:کوشک‎ (kôšk), Turkish:köşk; kiosk, English:kiosk, Spanish:quiosco, Portuguese:quiosque, Russian:киоск (kiosk), Hindi:कीओस्क (kīosk), Malay:kios, Japanese:キオスク (kiosuku)  
 **kira** *carat* ← Arabic:(kirāʾ), Turkish:kira, Hindi:किराया (kirāyā), Urdu:(kirāyā), Persian:(kerāya), Spanish:alquiler  
@@ -1015,7 +1013,7 @@
 **moski** *mosquito* ← English:Spanish:Portuguese:mosquito, deu:Moskito, Russian:москит (moskit) + Hindi:मशक (maśak), Bengali:মশা (môśa) + Korean:모기 (mogi) + Vietnamese:muỗi  
 **moskvium** *moscovium* ← English:French:moscovium, Spanish:moscovio, Portuguese:moscovio, Russian:московий, Japanese:モスコビウム, Korean:우눈펜튬, Vietnamese:moscovi, Malay:moskovium, Swahili:moscovi  
 **mostre** *monster* ← Italian:mostro, English:monster, Spanish:Portuguese:monstro, French:monstre, Russian:монстр (monstr), Japanese:モンスター (monsutā), Korean:몬스터 (monseuteo)  
-**moter** *engine (motor)* ← English:Spanish:Portuguese:Turkish:Malay:motor, fra;moteur, Russian:мотор (motor), Arabic:(mutūr), Mandarin:摩托 (mótuō), Japanese:モーター (mōtā), Korean:모터 (moteo), Vietnamese:mô-tơ, Hindi:मोटर (moṭar), Bengali:মোটর (moṭôr), Swahili:Hausa:mota  
+**mote** *move (transfer, shift, stir, budge, rouse, motivate, inspire)* ← English:move; motion, French:mouvoir, Spanish:Portuguese:mover + Russian:мотор (motor), Turkish:Malay:motor, Arabic:(mutūr), Mandarin:摩托 (mótuō), Japanese:モーター (mōtā), Korean:모터 (moteo), Vietnamese:mô-tơ, Hindi:मोटर (moṭar), Bengali:মোটর (moṭôr), Swahili:Hausa:mota  
 **mudan** *peony* ← Mandarin:牡丹 (mǔdān), Cantonese:牡丹 (maau5 daan1), Japanese:牡丹 (botan), Korean:모란 (moran), Vietnamese:mẫu đơn  
 **muka** *face* ← Bengali:মুখ (mukh), Hindi:मुख (mukh), Tamil:முகம் (mukam), Telugu:(mukhamu), Malay:muka, Filipino:mukha  
 **mula** *root* ← Hindi:Marathi:मूल (mūl), Bengali:মূল (mūl), Telugu:మూలము (mūlamu), Malay:Filipino:mula, Khmer:មូល (mul), Burmese:မူလ (mula), Thai:มูล (mun)  

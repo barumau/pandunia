@@ -219,10 +219,8 @@ be dur - длиться
 be fatige - устать  
 be fobi - бояться (страшиться)  
 be in bum - взрываться вовнутрь  
-be kino - двигаться  
 be kux - лежать  
 be mal - принадлежать  
-be migra - переезжать  
 be pute - гнить (портиться)  
 be retro - возвращаться  
 be rute galte - отходить (скитаться)  
@@ -516,7 +514,6 @@ fa fei - лететь
 fa hisabu - вычислять  
 fa hogo - жечь (палить)  
 fa jui - предостерегать  
-fa kino - двигать  
 fa kung - пробиться  
 fa kux - положить  (уложить)  
 fa lai - приносить  
@@ -1007,7 +1004,6 @@ kimia - химия
 kimono - кимоно  
 kinar - край (грань)  
 kinar baryer - забор (ограда)  
-kino grafi - фильм (кино)  
 kioske - киоск (павильон)  
 kira - аренда  
 kira kape - арендовать  
@@ -1273,6 +1269,7 @@ midaje - средство
 midia - медиа  
 midike - средний  
 mide noce - полночь  
+migre - переезжать  
 migre - миграция  
 • inmigre - иммигрировать  
 • inmigrer - иммигрант  
@@ -1314,9 +1311,12 @@ moski - комар (москит)
 Moskva - Москва  
 moskvium - московий  
 mostre - монстр  
+mote - двигать  
 moter - мотор  
-motosikle - мотоцикл  
-moto cati - капот  
+moter cate - капот  
+moter sikle - мотоцикл  
+motografe - фильм (кино)  
+motive - мотив  
 mudan - пион  
 mula - корень  
 mum melon - восковая тыква (зимняя дыня)  

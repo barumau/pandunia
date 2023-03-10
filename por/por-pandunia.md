@@ -315,7 +315,7 @@ Cantalupo in Sabina - Kantalupo a Sabina
 canção de ninar - lala gani  
 capa - mantol  
 capa de chuva - barxa kote  
-capô - moto cati  
+capô - moter cate  
 caqui (dióspiro) - kaki  
 caractere - zi  
 caratê - karate  
@@ -1239,11 +1239,11 @@ morder - dante
 morder - gate a dante  
 moscovio - moskvium  
 mosquito - moski  
+motivo - motive  
 motor - moter  
-mover - fa kino  
-Mover-se - be kino  
+mover - mote  
 mudança climática - klima mute  
-mudar-se - be migra  
+mudar-se - migre  
 muesli - musli  
 muito - tre  
 multidão - jen jami  
@@ -1555,6 +1555,7 @@ prolongado - long durike
 promessa (voto) - vode  
 prometer - promise  
 Prometeu - Promete  
+promover - promote  
 promécio - prometium  
 propulsor (hélice) - propeler  
 prosperar - sucese  

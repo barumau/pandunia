@@ -201,7 +201,6 @@ be boi - 漂浮
 be fatige - 疲劳  
 be fobi - 害怕  
 be hogo - 烧  
-be kino - 动  
 be kux - 躺  
 be mal - 属于  
 be pute - 腐烂  
@@ -463,7 +462,6 @@ fa dosil - 驯养
 fa fei - 飞  
 fa hisabu - 计算  
 fa hogo - 燃烧  
-fa kino - 动  
 fa lai - 带来  
 fa lanse grafi - 投射  
 fa linke - 连接  
@@ -1183,8 +1181,10 @@ mos - 苔藓
 mosim - 季  
 moski - 蚊子  
 mostre - 妖怪 (怪物)  
+mote - 动  
 moter - 马达 (发动机)  
-moto cati - 引擎盖  
+moter cate - 引擎盖  
+motive - 动机  
 mudan - 牡丹  
 mule - 开始  
 mula - 根  

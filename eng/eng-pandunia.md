@@ -498,7 +498,7 @@ bluet - serami sing
 board (pane, panel) - bano  
 board game - bano geme  
 boat (ship) - nave  
-bob up and down - gau dipe move  
+bob up and down - gau dipe mote  
 bobcat - rubi linse  
 bodily (corporal) - badan di  
 body - badan  
@@ -526,7 +526,7 @@ boredom - bori
 boron - boron  
 borrow (lend) - jeka  
 borrow - jeka na  
-Bosnia and Herzegovina - Bosna i Hercegovina  
+Bosnia and Herzegovina - Bosna e Hercegovina  
 botany (phytology) - fitologia  
 Botswana - Cuana  
 bottle - botel  
@@ -591,7 +591,7 @@ buffet (smorgasbord) - bufete
 bugle (horn instrument) - laba  
 build (construct) - bine  
 building (structure) - bine  
-Bulgaria - Bolgaria  
+Bulgaria - Balgaria  
 bulletproof - dana sekur  
 bunk bed - ceng bede  
 bureaucracy - burokratia  
@@ -807,8 +807,8 @@ chum salmon - baku salmon
 church - eglisa  
 chutney - hinde sos  
 cigarette (cigar) - sigar  
-cinematic - kino grafi di  
-cinematography - kino grafi arte  
+cinematic - motografike  
+cinematography - motografia  
 circle (sphere, round object) - gola  
 citizen - gogia jen  
 citrus fruit - limon orange  
@@ -2027,7 +2027,7 @@ honeybee - medu vespa
 honeydew (green melon) - luga melon  
 Hong Kong, SAR China - Hong Gong  
 honorable (respectable) - onor di  
-hood (bonnet, cover over the engine) - moto cati  
+hood (bonnet, cover over the engine) - moter cate  
 hook - huke  
 hop - humel  
 hope (wish) - ase  
@@ -2316,7 +2316,7 @@ killer - mataja
 kilogram (kg) - kilogram  
 kilometer (km) - kilomitre  
 kimono - kimono  
-kinetic - kino di  
+kinetic - motike  
 king - nan reger  
 king or queen - reger  
 kingdom - regia  
@@ -2803,7 +2803,7 @@ moment (instant, while) - cana
 momentary - canaike  
 Monaco - Monako  
 monad - monaje  
-monarchy - unarhia  
+monarchy - monarhia  
 Monday - lunaden  
 money - pesa  
 Mongolia - Mongol  
@@ -2844,19 +2844,20 @@ mother-in-law - per ma
 motherland - matria  
 motherly (maternal) - ma di  
 motion (movement) - motion  
-motorcar (automobile) - motocar  
-motorcycle - motosikle  
+motive - motive  
+motorcar (automobile) - moter car  
+motorcycle - moter sikle  
 mound (hill) - kume  
 mountain (hill) - xan  
 mouse or rat - muxu  
 mouth - boka  
-move (migrate, relocate oneself) - be migra  
+move (migrate, relocate oneself) - migre  
 move (migrate, relocate) - migre  
-move (transfer, shift, stir, budge, rouse, motivate, inspire) - fa kino  
-move oneself - be kino  
-movement - kino  
-movie (cinema) - kino grafi  
-movie theatre - kino grafikan  
+move (transfer, shift, stir, budge, rouse, motivate, inspire) - mote  
+move away - demote  
+move back - remote  
+movie (cinema) - motografe  
+movie theatre - motografekan  
 Mozambique - Mozambike  
 MSG (monosodium glutamate) - vijin  
 mud (mire) - poto  
@@ -3552,6 +3553,7 @@ Prometheus - Promete
 promethium - prometium  
 promise (pledge) - vode  
 promise (vow, oath) - vode  
+promote (further, move forward) - promote  
 pronoun - vise lexe  
 pronounce (articulate) - fone  
 pronounce (articulate) - fonologe  
@@ -3957,7 +3959,7 @@ seldom (rarely) - nadir mar
 selenium - selenium  
 self (identity) - aute  
 self (reflexive pronoun) - se  
-self-moving (automotive, automobile) - automove  
+self-moving (automotive, automobile) - automotike  
 selfish - se di  
 sell (vend) - vende  
 semantics - semologia  

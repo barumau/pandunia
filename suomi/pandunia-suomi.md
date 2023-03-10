@@ -219,7 +219,7 @@ argu - perustelu (argumentti)
 arhe - valtias (johtaja)  
 • anarhia - anarkia  
 • anarhiste - anarkisti  
-• unarhia - yksinvalta (monarkia)  
+• monarhia - yksinvalta (monarkia)  
 Ariel - Ariel  
 arke - kaari  
 arke cati - holvikatto  
@@ -290,10 +290,10 @@ autatike - automaattinen (itsetoimiva)
 auter - itsenäinen tekijä (auktori)  
 autife - personoida  
 autokratia - yksinvaltius (autokratia, monarkia)  
+automotike - itseliikkuva  
 autonomia - itsehallinto (autonomia)  
 autonomike - autonominen  
 autologe - yksinpuhelu (monologi)  
-automove - itseliikkuva  
 avakate - avokado  
 avar - vaurio (vahinko, haveri)  
 avarike - vaurioitunut  
@@ -359,6 +359,7 @@ bala - voimakas (vahva)
 balakan - kuntosali (punttisali)  
 balata - voima  
 baldi - sanko (ämpäri)  
+Balgaria - Bulgaria  
 balon pexe - pallokala  
 baluta - tammi  
 baluta frute - tammenterho  
@@ -472,7 +473,6 @@ be in bum - luhistua (sortua sisään)
 be islam - alistua (antautua)  
 be kai - aueta (avautua)  
 be karibu - lähestyä  
-be kino - liikkua  
 be krus - mennä yli tai poikki  
 be kux - maata (makoilla)  
 be laxe - päästä  
@@ -480,7 +480,6 @@ be loka - sijaita
 be mal - kuulua (olla jkn hallussa)  
 be mata - kuolla  
 be max - ylittää (olla enemmän kuin)  
-be migra - muuttaa (siirtyä)  
 be min - alittaa (olla vähemmän kuin)  
 be mirde - vaimentua  
 be nam - olla nimeltään  
@@ -589,7 +588,6 @@ boka cati - suulaki (kitalaki)
 boka vele - kitapurje  
 bol - pallo  
 bolon - ilmapallo  
-Bolgaria - Bulgaria  
 boli - keittää (kiehuttaa)  
 boli varis - kypsä riisi  
 Bolivia - Bolivia  
@@ -599,7 +597,7 @@ borium - bohrium
 bori - tylsyys (pitkästys)  
 bori di - pitkästynyt  
 boron - boori  
-Bosna i Hercegovina - Bosnia ja Hertsegovina  
+Bosna e Hercegovina - Bosnia ja Hertsegovina  
 Bote - Tiibet  
 botel - pullo  
 botel tape - pullonkorkki  
@@ -1107,7 +1105,6 @@ fa hogo - polttaa
 fa jong - keskittää  
 fa kai - aukaista (avata)  
 fa kata - kertoa  
-fa kino - liikuttaa (innoittaa)  
 fa koste - maksaa (olla hintana)  
 fa krus fixe - ristiinnaulita  
 fa kung - rei’ittää  
@@ -1483,7 +1480,7 @@ gati mate di - kiinteä
 gau - huippu  
 gau di - korkea  
 gau dipe - pystysuuntainen  
-gau dipe move - liikkua ylös ja alas  
+gau dipe mote - liikkua ylös ja alas  
 gau gradu di - korkeatasoinen (edistynyt)  
 gauize - nostaa  
 gauta - korkeus  
@@ -2217,11 +2214,6 @@ kimono - kimono
 kinar - reuna (raja, ääri)  
 kinar di - reuna-  
 kinar fon - konsonantti  
-kino - liike  
-kino grafi - elokuva  
-kino grafi arte - elokuvataide  
-kino grafi di - elokuvallinen  
-kino grafikan - elokuvateatteri  
 Kinxasa - Kinshasa  
 Kinxasa Kongo - Kinshasan Kongo  
 kio - silta  
@@ -2749,6 +2741,7 @@ midaje - väline (instrumentti)
 midia - media (tiedotusvälineet)  
 mide noce - keskiyö (puoliyö)  
 mien - nuudeli  
+migre - muuttaa (siirtyä)  
 migre - muuttaa (siirtää)  
 migre - muutto (migraatio)  
 • inmigre - muuttaa maahan  
@@ -2843,11 +2836,20 @@ moski - hyttynen (sääski)
 Moskva - Moskova  
 moskvium - moscovium  
 mostre - hirviö  
-motocar - auto (automobiili)  
+mote - liikuttaa (siirtää; liikkua)  
+• demote - liikkua pois (siirtää pois)  
+• promote - edistää (promotoida)  
+• remote - liikkua takaisin (siirtää takaisin)  
 moter - moottori  
+moter car - auto (automobiili)  
+moter cate - konepelti  
+moter sikle - moottoripyörä  
+motografe - elokuva  
+motografia - elokuvataide  
+motografike - elokuvallinen  
+motografekan - elokuvateatteri  
 motion - liike  
-motosikle - moottoripyörä  
-moto cati - konepelti  
+motive - liikuttava (motiivi, vaikutin)  
 Mozambike - Mosambik  
 mudan - pioni  
 muka - kasvot (naama)  

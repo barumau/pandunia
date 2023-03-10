@@ -224,9 +224,7 @@ be fobi - temer
 be hogo - queimarse  
 be in - entrar  
 be in bum - implodir  
-be kino - Mover-se  
 be kux - estar deitado (jazer)  
-be migra - mudar-se  
 be pute - apodrecer-se  
 be retro - voltar (regressar)  
 be sona - dormir  
@@ -487,7 +485,6 @@ fa fatu - punir (castigar)
 fa fei - voar  
 fa hisabu - calcular  
 fa hogo - queimar  
-fa kino - mover  
 fa kux - deitar  
 fa lai - trazer  
 fa linke - relier (connecter)  
@@ -1227,6 +1224,7 @@ midaje - meio (instrumento)
 midia - média (mídia)  
 midike - medio  
 mide noce - meia-noite  
+migre - mudar-se  
 migre - migração  
 • inmigre - imigrar  
 • inmigrer - imigrante  
@@ -1274,8 +1272,11 @@ mosim - estação (sazão)
 moski - mosquito  
 moskvium - moscovio  
 mostre - monstro  
+mote - mover  
+• promote - promover  
 moter - motor  
-moto cati - capô  
+moter cate - capô  
+motive - motivo  
 mudan - peônia  
 mula - raíz  
 mur - muro (muralha)  

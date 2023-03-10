@@ -182,7 +182,6 @@
 **bori di** *znudzony* ← eng:bored, spa:aburrido, hin:(bhorī)  
 **borium** *bohr* ← eng:bohrium, fra:bohrium, spa:bohrio, por:bóhrio, rus:борий, zho: (bō), jpn:ボーリウム, kor:보륨, vie:bohri, hin:बोरियम, ben:বোহরিয়াম, may:bohrium, swa:bohri, ara: بوريوم  
 **boron** *bor* ← eng:boron, fra:boron, spa:boro, por:boro, rus:бор, vie:bo, hin:बोरॉन्, ben:বোরন, may:boron, swa:boroni, ara: بورون  
-**Bote** *Tybet* ← tib:བོད (bod, phø)  
 **botel** *butelka* ← eng:bottle, fra:bouteille, spa:botella, por:botelha, rus:бутылка (butylka), fas: بطری‎ (botri), hin:बोतल (botal), ben:বোতল (botôl), may:botol, tam:புட்டி (puṭṭi)  
 **bra** ** ← ell:φράτηρ (phrater), eng:brother, por:brada; bródi, rus:брат (brat), fas: برادر‎ (barâdar), hin:बिरादर (birādar), ben:বেরাদর (beradôr), may:bruder, jpn:ブラザー (burazā), kor:브라더 (beuradeo), tur:birader, swa:bradha  
 **brauzer** ** ← eng:browser, deu:Browser, rus:браузер (brauzer), hin:ब्राउज़र (brauzar), ben:ব্রাউজার (brā'ujāra), jpn:ブラウザ (burauzā)  
@@ -746,7 +745,6 @@
 **kilo** *tysiąc (kilo-)* ← eng:fra:spa:por:may:tur:kilo-, rus:кило- (kilo-), jpn:キロ- (kiro-), kor:킬로- (killo-)  
 **kime** ** ← eng:chemistry, fra:chimie, spa:por:química, rus:химия (himiya), ara:(kīmiyāʾ), may:kimia, swa:kemia, hau:kimiyya, tur:kimya  
 **kinar** *granica, skraj, brzeg, krawędź* ← hin:किनारा (kinārā), ben:কিনারা (kinara), tur:kenar, fas: کنار‎ (kenâr)  
-**kino di** *ruchowy, kinetyczny* ← eng:kinetic, spa:por:cinético, fra:cinétique, deu:kinetisch, rus:кинетический (kineticheskyy)  
 **kio** *most* ← zho:桥 (qiáo), yue:橋 (kiu4), wuu:橋 (jío), jpn:橋 (kyō), kor:교 (...gyo), vie:cầu  
 **kioske** *kiosk* ← fas:کوشک‎ (kôšk), tur:köşk; kiosk, eng:kiosk, spa:quiosco, por:quiosque, rus:киоск (kiosk), hin:कीओस्क (kīosk), may:kios, jpn:キオスク (kiosuku)  
 **kira** *wynająć, wynajmować, zatrudnić, zatrudniać* ← ara:(kirāʾ), tur:kira, hin:किराया (kirāyā), urd:(kirāyā), fas:(kerāya), spa:alquiler  
@@ -1015,7 +1013,7 @@
 **moski** *komar, moskit* ← eng:spa:por:mosquito, deu:Moskito, rus:москит (moskit) + hin:मशक (maśak), ben:মশা (môśa) + kor:모기 (mogi) + vie:muỗi  
 **moskvium** *moskovium* ← eng:fra:moscovium, spa:moscovio, por:moscovio, rus:московий, jpn:モスコビウム, kor:우눈펜튬, vie:moscovi, may:moskovium, swa:moscovi  
 **mostre** *potwór, monstrum* ← ita:mostro, eng:monster, spa:por:monstro, fra:monstre, rus:монстр (monstr), jpn:モンスター (monsutā), kor:몬스터 (monseuteo)  
-**moter** *silnik* ← eng:spa:por:tur:may:motor, fra;moteur, rus:мотор (motor), ara:(mutūr), zho:摩托 (mótuō), jpn:モーター (mōtā), kor:모터 (moteo), vie:mô-tơ, hin:मोटर (moṭar), ben:মোটর (moṭôr), swa:hau:mota  
+**mote** *ruszać, przenościć, zmieniać miejsce, inspirować* ← eng:move; motion, fra:mouvoir, spa:por:mover + rus:мотор (motor), tur:may:motor, ara:(mutūr), zho:摩托 (mótuō), jpn:モーター (mōtā), kor:모터 (moteo), vie:mô-tơ, hin:मोटर (moṭar), ben:মোটর (moṭôr), swa:hau:mota  
 **mudan** *piwonia* ← zho:牡丹 (mǔdān), yue:牡丹 (maau5 daan1), jpn:牡丹 (botan), kor:모란 (moran), vie:mẫu đơn  
 **muka** *twarz* ← ben:মুখ (mukh), hin:मुख (mukh), tam:முகம் (mukam), tel:(mukhamu), may:muka, tgl:mukha  
 **mula** *korzeń* ← hin:mar:मूल (mūl), ben:মূল (mūl), tel:మూలము (mūlamu), may:tgl:mula, khm:មូល (mul), mya:မူလ (mula), tha:มูล (mun)  

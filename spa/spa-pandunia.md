@@ -352,9 +352,9 @@ Austria - Ostria
 Austronesia - Austronesia  
 autenticar - verife  
 autocratia (monarquía) - autokratia  
-automotor (automotriz) - automove  
+automotor (automotriz) - automotike  
 automático - autatike  
-automóvil (coche) - motocar  
+automóvil (coche) - moter car  
 autonomía - autonomia  
 autopsia - nekrotomia  
 autor - auter  
@@ -495,7 +495,7 @@ bomba - bombe
 bomba - pompe  
 bomba atómica - atom bombe  
 boro - boron  
-Bosnia y Herzegovina - Bosna i Hercegovina  
+Bosnia y Herzegovina - Bosna e Hercegovina  
 bosque (jungla, selva) - jangal  
 bosque de algas - alga jangal  
 bota - buta  
@@ -530,7 +530,7 @@ buenos días - sal suba
 bufanda (chal) - xal  
 bufé - bufete  
 bufón - bobo  
-Bulgaria - Bolgaria  
+Bulgaria - Balgaria  
 burbuja (pompa) - xiu bol  
 Burkina Faso - Burkina Faso  
 burocracia - burokratia  
@@ -643,7 +643,7 @@ capitán - nave xefe
 capturar (apresar) - cepe  
 capturar (apresar) - kape  
 capítulo (sección) - babu  
-capó (bonete) - moto cati  
+capó (bonete) - moter cate  
 caqui - haki rang  
 caqui - kaki  
 cara (rosto) - muka  
@@ -796,7 +796,7 @@ cinco (5) - lima
 cinta (cinta para el pelo) - kexa bande  
 cinta adhesiva - tepe  
 cinturón (zona) - zone  
-cinético - kino di  
+cinético - motike  
 circonio - zirkonium  
 circón - zirkon  
 citar - sita  
@@ -2005,7 +2005,7 @@ imprimir - cape
 impuesto (tributo, tarifa) - tarif  
 imán (magnete) - manite  
 inclinar - fa terca  
-inclinar - gau dipe move  
+inclinar - gau dipe mote  
 incluido - in klus  
 incluir - inkluse  
 inclusivo - in klus di  
@@ -2559,7 +2559,7 @@ miembro (componente) - mer
 mierda - xite  
 migración - migre  
 migrar (emigrar, tralsadar) - migre  
-migrarse (mudarse, trasladarse) - be migra  
+migrarse (mudarse, trasladarse) - migre  
 mijo - dana.cau  
 mijo fonio - fonyo  
 mil (kilo-) - kilo  
@@ -2636,16 +2636,15 @@ moscovio - moskvium
 mosquete - muskete  
 mosquetero - musketer  
 mosquito (mosco) - moski  
-motocicleta - motosikle  
+motivo - motive  
+motocicleta - moter sikle  
 motor - moter  
-moverse - be kino  
-movimiento - kino  
 movimiento - motion  
 Mozambique - Mozambike  
 muchedumbre - jen jami  
 mucho (muchos) - poli  
 muchos (múltiples) - men  
-mudar (mover, transferir, traspasar, trasladar, estimular, inspirar) - fa kino  
+mudar (mover, transferir, traspasar, trasladar, estimular, inspirar) - mote  
 mueca - grimas  
 muela - molite  
 muesli - musli  
@@ -3040,7 +3039,7 @@ peligro - hatar
 peligroso - hatar di  
 pelo - kexa  
 película (film) - filme  
-película (filme) - kino grafi  
+película (filme) - motografe  
 pena (tristeza) - duku  
 penal (penetenciario) - fatu di  
 pene - penis  
@@ -3279,6 +3278,7 @@ Prometeo - Promete
 prometer (comprometerse) - vode  
 prometer - promise  
 prometio - prometium  
+promover - promote  
 pronombre - vise lexe  
 pronto - a korte  
 pronunciar (articular) - fone  

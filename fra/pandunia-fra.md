@@ -321,10 +321,8 @@ be fobi - craindre (avoir peur)
 be hapu - convenir (être approprié)  
 be in - entrer  
 be in bum - imploser  
-be kino - se mouvoir  
 be kux - être couché  
 be mal - appartenir à  
-be migra - s'installer (déménager)  
 be pute - pourrir (se décomposer)  
 be retro - retourner (revenir)  
 be sona - dormir  
@@ -611,7 +609,6 @@ fa fatu - punir
 fa fei - voler  
 fa hisabu - calculer  
 fa hogo - brûler  
-fa kino - mouvoir (bouger)  
 fa kux - coucher  
 fa lai - apporter  
 fa lanse grafi - projeter (donner)  
@@ -1422,6 +1419,7 @@ miau - chat
 midia - médias  
 midike - moyen  
 mide noce - minuit  
+migre - s'installer (déménager)  
 migre - migration  
 • inmigre - immigrer  
 • inmigrer - immigrant  
@@ -1473,8 +1471,11 @@ mosim - saison
 moski - moustique  
 moskvium - moscovium  
 mostre - monstre  
+mote - mouvoir (bouger)  
+• promote - promouvoir  
 moter - moteur  
-moto cati - capot  
+moter cate - capot  
+motive - motif  
 mudan - pivoine  
 muka - visage  
 mula - racine  

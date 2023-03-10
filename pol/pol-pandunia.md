@@ -94,7 +94,6 @@
  - be hapu  
  - be harabu  
  - be in  
- - be kino  
  - be max  
  - be min  
  - be par  
@@ -323,7 +322,7 @@
  - gate glu bano  
  - gate yepa  
  - gative  
- - gau dipe move  
+ - gau dipe mote  
  - gau gradu di  
  - gau tehni  
  - Geia  
@@ -502,7 +501,6 @@
  - ki  
  - kime  
  - kimeme  
- - kino grafikan  
  - Kinxasa  
  - kitabe cule  
  - kitabe suta  
@@ -639,7 +637,8 @@
  - mone  
  - monike  
  - monograme  
- - moto cati  
+ - moter cate  
+ - motografekan  
  - murmeke kume  
  - murmekofite  
  - murmekologia  
@@ -1058,6 +1057,7 @@
  - deletebil  
  - deluxe  
  - demente  
+ - demote  
  - depake  
  - depele  
  - depena  
@@ -1155,6 +1155,7 @@
  - luxuria  
  - mahazin  
  - metafizologia  
+ - monarhia  
  - niceprese  
  - parafete  
  - paranormali  
@@ -1211,6 +1212,7 @@
  - rejete  
  - relaxe  
  - remise  
+ - remote  
  - repar  
  - repatriate  
  - repele  
@@ -1239,7 +1241,6 @@
  - tramiser  
  - trilogia  
  - tritomia  
- - unarhia  
  - unbaxike  
  - ungene  
 A - A  
@@ -1479,7 +1480,7 @@ boski - deike
 botanika - fitologia  
 Botswana - Cuana  
 boćwina (botwina) - selge  
-Bośnia i Harcegowina - Bosna i Hercegovina  
+Bośnia i Harcegowina - Bosna e Hercegovina  
 Boże Narodzenie - kristogene  
 brawo (gratulacje) - brave  
 Brazyla - Brazil  
@@ -1516,7 +1517,7 @@ burza, sztorm, tajfun - tufan
 but - buta  
 but - sapatu  
 butelka - botel  
-Bułgaria - Bolgaria  
+Bułgaria - Balgaria  
 być - es  
 być mistrzem (być ekspertem) - maste  
 być obok - a late  
@@ -2353,9 +2354,9 @@ kilof - pin cope
 kilogram (kg) - kilogram  
 kilometr - kilomitre  
 kimono - kimono  
-kinematografia - kino grafi arte  
-kino - kino grafi  
-kinowy - kino grafi di  
+kinematografia - motografia  
+kino - motografe  
+kinowy - motografike  
 kiosk - kioske  
 Kirgistan - Kirgize  
 Kiribati - Kiribati  
@@ -2867,9 +2868,10 @@ Morze Śródziemne - Geo Medi Bahai
 moskovium - moskvium  
 Moskwa - Moskva  
 most - kio  
-motocykl (motor) - motosikle  
+motocykl (motor) - moter sikle  
 motyka - copu  
 motyl - pelpel  
+motyw - motive  
 Mozambik - Mozambike  
 Mołdawia - Moldova  
 może - bahai  
@@ -3545,6 +3547,7 @@ promet - prometium
 promieniować - radate  
 promień - rade  
 promień światła - foto radi  
+promować - promote  
 proponować (sugerować; propozycja, sugestia) - propoze  
 proroctwo - nabi  
 prorok - nabija  
@@ -3586,7 +3589,7 @@ przerwać, przerywać - fa pauza
 przesilenie - solostate  
 przesilenie letnie (dzień srodka lata) - garma mosim medi den  
 przestępstwo - krim  
-przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić) - be migra  
+przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić) - migre  
 przeszkodzić, przeszkadzać, robić kłopot - turbe  
 przeszłość - prezaman  
 przeszły, miniony - pas di  
@@ -3776,9 +3779,8 @@ rożen (szpikulec) - xix
 rtęć - hidrargente  
 rubid - rubium  
 rubin - rubi bau seku  
-ruch - kino  
 ruch - motion  
-ruchowy, kinetyczny - kino di  
+ruchowy, kinetyczny - motike  
 rujnować, dewastwować, burzyć - harabe  
 ruletka - rulete  
 rulon (rolka, zwój) - rul  
@@ -3787,7 +3789,7 @@ rumian rzymski - roma kamil
 rumianek pospolity - kamil  
 Rumunia - Romania  
 ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się) - migre  
-ruszać, przenościć, zmieniać miejsce, inspirować - fa kino  
+ruszać, przenościć, zmieniać miejsce, inspirować - mote  
 rusztowanie (trap) - fute bano  
 rut - rusium  
 rutherford - ruterfordium  
@@ -3860,8 +3862,8 @@ Salwador - Salvador
 sam, siebie - se  
 samar - samarium  
 Samoa - Samoa  
-samobieżny - automove  
-samochód (automobil) - motocar  
+samobieżny - automotike  
+samochód (automobil) - moter car  
 samogłoska - jong fon  
 samolot - fei gi  
 samppanja - xampan vin  

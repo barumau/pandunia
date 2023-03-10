@@ -182,7 +182,6 @@
 **bori di** *enui* ← angla:bored, hispana:aburrido, hindia:(bhorī)  
 **borium** *borio* ← angla:bohrium, franca:bohrium, hispana:bohrio, portugala:bóhrio, rusa:борий, mandarena: (bō), japana:ボーリウム, korea:보륨, vjetnama:bohri, hindia:बोरियम, bengala:বোহরিয়াম, malaja:bohrium, svahila:bohri, araba: بوريوم  
 **boron** *boro* ← angla:boron, franca:boron, hispana:boro, portugala:boro, rusa:бор, vjetnama:bo, hindia:बोरॉन्, bengala:বোরন, malaja:boron, svahila:boroni, araba: بورون  
-**Bote** *Tibeto* ← tib:བོད (bod, phø)  
 **botel** *botelo* ← angla:bottle, franca:bouteille, hispana:botella, portugala:botelha, rusa:бутылка (butylka), persa: بطری‎ (botri), hindia:बोतल (botal), bengala:বোতল (botôl), malaja:botol, tamila:புட்டி (puṭṭi)  
 **bra** *frato* ← greka:φράτηρ (phrater), angla:brother, portugala:brada; bródi, rusa:брат (brat), persa: برادر‎ (barâdar), hindia:बिरादर (birādar), bengala:বেরাদর (beradôr), malaja:bruder, japana:ブラザー (burazā), korea:브라더 (beuradeo), turka:birader, svahila:bradha  
 **brauzer** ** ← angla:browser, deu:Browser, rusa:браузер (brauzer), hindia:ब्राउज़र (brauzar), bengala:ব্রাউজার (brā'ujāra), japana:ブラウザ (burauzā)  
@@ -746,7 +745,6 @@
 **kilo** *mil (kilo-)* ← angla:franca:hispana:portugala:malaja:turka:kilo-, rusa:кило- (kilo-), japana:キロ- (kiro-), korea:킬로- (killo-)  
 **kime** ** ← angla:chemistry, franca:chimie, hispana:portugala:química, rusa:химия (himiya), araba:(kīmiyāʾ), malaja:kimia, svahila:kemia, haŭsa:kimiyya, turka:kimya  
 **kinar** *rando (orlo)* ← hindia:किनारा (kinārā), bengala:কিনারা (kinara), turka:kenar, persa: کنار‎ (kenâr)  
-**kino di** ** ← angla:kinetic, hispana:portugala:cinético, franca:cinétique, deu:kinetisch, rusa:кинетический (kineticheskyy)  
 **kio** *ponto* ← mandarena:桥 (qiáo), kantona:橋 (kiu4), vua:橋 (jío), japana:橋 (kyō), korea:교 (...gyo), vjetnama:cầu  
 **kioske** ** ← persa:کوشک‎ (kôšk), turka:köşk; kiosk, angla:kiosk, hispana:quiosco, portugala:quiosque, rusa:киоск (kiosk), hindia:कीओस्क (kīosk), malaja:kios, japana:キオスク (kiosuku)  
 **kira** ** ← araba:(kirāʾ), turka:kira, hindia:किराया (kirāyā), urdua:(kirāyā), persa:(kerāya), hispana:alquiler  
@@ -1015,7 +1013,7 @@
 **moski** *kulo (moskito)* ← angla:hispana:portugala:mosquito, deu:Moskito, rusa:москит (moskit) + hindia:मशक (maśak), bengala:মশা (môśa) + korea:모기 (mogi) + vjetnama:muỗi  
 **moskvium** *moskovio* ← angla:franca:moscovium, hispana:moscovio, portugala:moscovio, rusa:московий, japana:モスコビウム, korea:우눈펜튬, vjetnama:moscovi, malaja:moskovium, svahila:moscovi  
 **mostre** *monstro* ← itala:mostro, angla:monster, hispana:portugala:monstro, franca:monstre, rusa:монстр (monstr), japana:モンスター (monsutā), korea:몬스터 (monseuteo)  
-**moter** *motoro* ← angla:hispana:portugala:turka:malaja:motor, fra;moteur, rusa:мотор (motor), araba:(mutūr), mandarena:摩托 (mótuō), japana:モーター (mōtā), korea:모터 (moteo), vjetnama:mô-tơ, hindia:मोटर (moṭar), bengala:মোটর (moṭôr), svahila:haŭsa:mota  
+**mote** *movi* ← angla:move; motion, franca:mouvoir, hispana:portugala:mover + rusa:мотор (motor), turka:malaja:motor, araba:(mutūr), mandarena:摩托 (mótuō), japana:モーター (mōtā), korea:모터 (moteo), vjetnama:mô-tơ, hindia:मोटर (moṭar), bengala:মোটর (moṭôr), svahila:haŭsa:mota  
 **mudan** ** ← mandarena:牡丹 (mǔdān), kantona:牡丹 (maau5 daan1), japana:牡丹 (botan), korea:모란 (moran), vjetnama:mẫu đơn  
 **muka** *vizaĝo* ← bengala:মুখ (mukh), hindia:मुख (mukh), tamila:முகம் (mukam), teluga:(mukhamu), malaja:muka, filipina:mukha  
 **mula** *radiko* ← hindia:marataja:मूल (mūl), bengala:মূল (mūl), teluga:మూలము (mūlamu), malaja:filipina:mula, kmera:មូល (mul), birma:မူလ (mula), tha:มูล (mun)  

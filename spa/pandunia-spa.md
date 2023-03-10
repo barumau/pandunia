@@ -237,10 +237,10 @@ autatike - automático
 auter - autor  
 autife - personalizar  
 autokratia - autocratia (monarquía)  
+automotike - automotor (automotriz)  
 autonomia - autonomía  
 autonomike - autónomo  
 autologe - monólogo  
-automove - automotor (automotriz)  
 avakate - aguacate  
 avar - daño (corrupción)  
 avarike - dañado  
@@ -300,6 +300,7 @@ bala - fuerte
 • anbala - débil  
 balata - fuerza  
 baldi - balde (cubo)  
+Balgaria - Bulgaria  
 balon pexe - pez globo  
 baluta - roble  
 baluta frute - bellota  
@@ -402,13 +403,11 @@ be in bum - implosionar
 be islam - someterse (rendirse, ceder)  
 be kai - abirse  
 be karibu - axproximarse  
-be kino - moverse  
 be krus - cruzar  
 be kux - acostarse (echarse, tenderse, tumbarse)  
 be loka - encontrarse (estar, situarse)  
 be mal - ser de  
 be mata - morirse  
-be migra - migrarse (mudarse, trasladarse)  
 be nam - llamarse  
 be pute - pudrirse (cariarse, descomponerse)  
 be raste - crecer  
@@ -501,7 +500,6 @@ boka - boca
 boka cati - paladar  
 bol - bola  
 bolon - globo  
-Bolgaria - Bulgaria  
 boli - hervir (cocer)  
 Bolivia - Bolivia  
 bombe - bomba  
@@ -509,7 +507,7 @@ borium - bohrio
 bori - aburrimiento  
 bori di - aburrido  
 boron - boro  
-Bosna i Hercegovina - Bosnia y Herzegovina  
+Bosna e Hercegovina - Bosnia y Herzegovina  
 Bote - Tíbet  
 botel - botella  
 botel tape - tapón (corcholata)  
@@ -977,7 +975,6 @@ fa jong - centrar (concentrar)
 fa jui - advertir  
 fa kai - abrir  
 fa kata - relatar (narrar)  
-fa kino - mudar (mover, transferir, traspasar, trasladar, estimular, inspirar)  
 fa koste - costar  
 fa krus fixe - crucificar  
 fa kung - perforar (agujerar)  
@@ -1304,7 +1301,7 @@ gati mate di - rígido (sólido)
 gau - alto (parte de arriba)  
 gau di - alto  
 gau dipe - vertical  
-gau dipe move - inclinar  
+gau dipe mote - inclinar  
 gauize - levantar (elevar)  
 gauta - altura (altitud)  
 gaze - gasa  
@@ -2002,9 +1999,6 @@ kinar - frontera (límite, borde, periferia)
 kinar baryer - valla (cerca)  
 kinar di - periférico  
 kinar fon - consonante  
-kino - movimiento  
-kino di - cinético  
-kino grafi - película (filme)  
 Kinxasa Kongo - República Democrática del Congo  
 kio - puente  
 kioske - quiosco (kiosco, pabellón)  
@@ -2526,6 +2520,7 @@ midia - medios
 midike - medio (mediano)  
 mide noce - medianoche  
 mien - fideo (tallarín)  
+migre - migrarse (mudarse, trasladarse)  
 migre - migrar (emigrar, tralsadar)  
 migre - migración  
 • inmigre - inmigrar  
@@ -2619,11 +2614,16 @@ mosim - estación (temporada)
 moski - mosquito (mosco)  
 moskvium - moscovio  
 mostre - monstro  
-motocar - automóvil (coche)  
+mote - mudar (mover, transferir, traspasar, trasladar, estimular, inspirar)  
+• promote - promover  
 moter - motor  
+moter car - automóvil (coche)  
+moter cate - capó (bonete)  
+moter sikle - motocicleta  
+motografe - película (filme)  
+motike - cinético  
 motion - movimiento  
-motosikle - motocicleta  
-moto cati - capó (bonete)  
+motive - motivo  
 Mozambike - Mozambique  
 mudan - peonía  
 muka - cara (rosto)  

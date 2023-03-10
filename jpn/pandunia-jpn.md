@@ -170,7 +170,6 @@ be fatige - 疲れる (疲労する)
 be fobi - 恐れる  
 be halte - 止まる  
 be hogo - 燃える  
-be kino - 動く  
 be kux - 寝転ぶ  
 be pute - 腐敗  
 be rute galte - 逸れる  
@@ -437,7 +436,6 @@ fa hisabu - 計算する
 fa hogo - 燃やす  
 fa jang - 戦う  
 fa jui - 戒める (諭す)  
-fa kino - 動かす  
 fa kung - 染みる (貫通する)  
 fa kux - 横たえる  
 fa lai - 持って来る  
@@ -561,7 +559,7 @@ gative - 鋭い
 gati - 硬い  
 gati mate - 固体  
 gau di - 高い  
-gau dipe move - 浮き沈みする  
+gau dipe mote - 浮き沈みする  
 gau tehni - ハイテク  
 gazel - ガゼル  
 gee - 地  
@@ -887,7 +885,6 @@ kimia - 化学
 kimono - 着物  
 kinar - 際 (端)  
 kinar baryer - 柵 (垣)  
-kino grafi - 映画  
 kio - 橋 (橋梁)  
 kira - 賃貸  
 kisma - 運命 (宿命)  
@@ -1169,9 +1166,11 @@ mosim - 季節
 moski - 蚊  
 moskvium - モスコビウム  
 mostre - 怪物  (モンスター)  
+mote - 動かす  
 moter - モーター (エンジン, 機関)  
-motosikle - オートバイ (モーターサイクル)  
-moto cati - ボンネット (フード)  
+moter cate - ボンネット (フード)  
+moter sikle - オートバイ (モーターサイクル)  
+motografe - 映画  
 mudan - 牡丹  
 mula - 根  
 mum melon - トウガン  

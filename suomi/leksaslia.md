@@ -182,7 +182,6 @@
 **bori di** *pitkästynyt* ← englanti:bored, espanja:aburrido, hindi:(bhorī)  
 **borium** *bohrium* ← englanti:bohrium, ranska:bohrium, espanja:bohrio, portugali:bóhrio, venäjä:борий, yleiskiina: (bō), japani:ボーリウム, korea:보륨, vietnami:bohri, hindi:बोरियम, bangla:বোহরিয়াম, malaiji:bohrium, suahili:bohri, arabia: بوريوم  
 **boron** *boori* ← englanti:boron, ranska:boron, espanja:boro, portugali:boro, venäjä:бор, vietnami:bo, hindi:बोरॉन्, bangla:বোরন, malaiji:boron, suahili:boroni, arabia: بورون  
-**Bote** *Tiibet* ← tib:བོད (bod, phø)  
 **botel** *pullo* ← englanti:bottle, ranska:bouteille, espanja:botella, portugali:botelha, venäjä:бутылка (butylka), persia: بطری‎ (botri), hindi:बोतल (botal), bangla:বোতল (botôl), malaiji:botol, tamili:புட்டி (puṭṭi)  
 **bra** *veli* ← kreikka:φράτηρ (phrater), englanti:brother, portugali:brada; bródi, venäjä:брат (brat), persia: برادر‎ (barâdar), hindi:बिरादर (birādar), bangla:বেরাদর (beradôr), malaiji:bruder, japani:ブラザー (burazā), korea:브라더 (beuradeo), turkki:birader, suahili:bradha  
 **brauzer** *selain* ← englanti:browser, deu:Browser, venäjä:браузер (brauzer), hindi:ब्राउज़र (brauzar), bangla:ব্রাউজার (brā'ujāra), japani:ブラウザ (burauzā)  
@@ -746,7 +745,6 @@
 **kilo** *tuhat (kilo-)* ← englanti:ranska:espanja:portugali:malaiji:turkki:kilo-, venäjä:кило- (kilo-), japani:キロ- (kiro-), korea:킬로- (killo-)  
 **kime** *aine (aines, materia)* ← englanti:chemistry, ranska:chimie, espanja:portugali:química, venäjä:химия (himiya), arabia:(kīmiyāʾ), malaiji:kimia, suahili:kemia, hausa:kimiyya, turkki:kimya  
 **kinar** *reuna (raja, ääri)* ← hindi:किनारा (kinārā), bangla:কিনারা (kinara), turkki:kenar, persia: کنار‎ (kenâr)  
-**kino di** *kineettinen (liike-)* ← englanti:kinetic, espanja:portugali:cinético, ranska:cinétique, deu:kinetisch, venäjä:кинетический (kineticheskyy)  
 **kio** *silta* ← yleiskiina:桥 (qiáo), kantoninkiina:橋 (kiu4), wu-kiina:橋 (jío), japani:橋 (kyō), korea:교 (...gyo), vietnami:cầu  
 **kioske** *kioski* ← persia:کوشک‎ (kôšk), turkki:köşk; kiosk, englanti:kiosk, espanja:quiosco, portugali:quiosque, venäjä:киоск (kiosk), hindi:कीओस्क (kīosk), malaiji:kios, japani:キオスク (kiosuku)  
 **kira** *vuokra* ← arabia:(kirāʾ), turkki:kira, hindi:किराया (kirāyā), urdu:(kirāyā), persia:(kerāya), espanja:alquiler  
@@ -1015,7 +1013,7 @@
 **moski** *hyttynen (sääski)* ← englanti:espanja:portugali:mosquito, deu:Moskito, venäjä:москит (moskit) + hindi:मशक (maśak), bangla:মশা (môśa) + korea:모기 (mogi) + vietnami:muỗi  
 **moskvium** *moscovium* ← englanti:ranska:moscovium, espanja:moscovio, portugali:moscovio, venäjä:московий, japani:モスコビウム, korea:우눈펜튬, vietnami:moscovi, malaiji:moskovium, suahili:moscovi  
 **mostre** *hirviö* ← italia:mostro, englanti:monster, espanja:portugali:monstro, ranska:monstre, venäjä:монстр (monstr), japani:モンスター (monsutā), korea:몬스터 (monseuteo)  
-**moter** *moottori* ← englanti:espanja:portugali:turkki:malaiji:motor, fra;moteur, venäjä:мотор (motor), arabia:(mutūr), yleiskiina:摩托 (mótuō), japani:モーター (mōtā), korea:모터 (moteo), vietnami:mô-tơ, hindi:मोटर (moṭar), bangla:মোটর (moṭôr), suahili:hausa:mota  
+**mote** *liikuttaa (siirtää; liikkua)* ← englanti:move; motion, ranska:mouvoir, espanja:portugali:mover + venäjä:мотор (motor), turkki:malaiji:motor, arabia:(mutūr), yleiskiina:摩托 (mótuō), japani:モーター (mōtā), korea:모터 (moteo), vietnami:mô-tơ, hindi:मोटर (moṭar), bangla:মোটর (moṭôr), suahili:hausa:mota  
 **mudan** *pioni* ← yleiskiina:牡丹 (mǔdān), kantoninkiina:牡丹 (maau5 daan1), japani:牡丹 (botan), korea:모란 (moran), vietnami:mẫu đơn  
 **muka** *kasvot (naama)* ← bangla:মুখ (mukh), hindi:मुख (mukh), tamili:முகம் (mukam), telugu:(mukhamu), malaiji:muka, filippiini:mukha  
 **mula** *juuri* ← hindi:marathi:मूल (mūl), bangla:মূল (mūl), telugu:మూలము (mūlamu), malaiji:filippiini:mula, khmer:មូល (mul), burma:မူလ (mula), thai:มูล (mun)  

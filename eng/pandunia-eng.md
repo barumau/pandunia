@@ -224,7 +224,7 @@ argu - argument (rationale, grounds)
 arhe - leader  
 • anarhia - anarchy  
 • anarhiste - anarchist  
-• unarhia - monarchy  
+• monarhia - monarchy  
 arhia - leadership  
 Ariel - Ariel  
 arke - bow (arch, arc)  
@@ -300,10 +300,10 @@ autatike - automatic
 auter - author (auteur, independent actor)  
 autife - personalize (customize)  
 autokratia - autocracy (monarchy)  
+automotike - self-moving (automotive, automobile)  
 autonomia - autonomy  
 autonomike - autonomous  
 autologe - monolog  
-automove - self-moving (automotive, automobile)  
 avakate - avocado  
 avar - damage (injury, harm)  
 avarike - damaged (corrupt)  
@@ -371,6 +371,7 @@ bala - strong
 balakan - gym (fitness center)  
 balata - force (strength, power)  
 baldi - bucket  
+Balgaria - Bulgaria  
 balon pexe - pufferfish  
 baluta - oak tree  
 baluta frute - acorn  
@@ -485,7 +486,6 @@ be in bum - implode (collapse)
 be islam - surrender (submit, yield)  
 be kai - become open  
 be karibu - approach (get near)  
-be kino - move oneself  
 be krus - cross (go across)  
 be kux - lie (lie down)  
 be laxe - stay behind (linger)  
@@ -493,7 +493,6 @@ be loka - be located (lie, be situated)
 be mal - belong  
 be mata - die  
 be max - exceed (be greater than)  
-be migra - move (migrate, relocate oneself)  
 be min - subceed (be less than)  
 be mirde - fade  
 be nam - be called (be named)  
@@ -603,7 +602,6 @@ boka cati - palate
 boka vele - velum  
 bol - ball  
 bolon - balloon  
-Bolgaria - Bulgaria  
 boli - boil (cook)  
 boli varis - cooked rice  
 Bolivia - Bolivia  
@@ -613,7 +611,7 @@ borium - bohrium
 bori - boredom  
 bori di - bored  
 boron - boron  
-Bosna i Hercegovina - Bosnia and Herzegovina  
+Bosna e Hercegovina - Bosnia and Herzegovina  
 Bote - Tibet  
 botel - bottle  
 botel tape - bottle cap  
@@ -1159,7 +1157,6 @@ fa jong - center (concentrate)
 fa jui - warn (caution, alert)  
 fa kai - open  
 fa kata - tell (narrate)  
-fa kino - move (transfer, shift, stir, budge, rouse, motivate, inspire)  
 fa koste - cost  
 fa krus fixe - crucify  
 fa kung - pierce (perforate, bore)  
@@ -1555,7 +1552,7 @@ gati mate di - rigid (solid)
 gau - top  
 gau di - high (tall)  
 gau dipe - vertical  
-gau dipe move - bob up and down  
+gau dipe mote - bob up and down  
 gau gradu di - advanced (high-level)  
 gauize - raise (lift)  
 gauta - height (altitude)  
@@ -2364,12 +2361,6 @@ kinar - border (edge, fringe, margin, rim, side, shore, periphery)
 kinar baryer - fence  
 kinar di - peripheral  
 kinar fon - consonant  
-kino - movement  
-kino di - kinetic  
-kino grafi - movie (cinema)  
-kino grafi arte - cinematography  
-kino grafi di - cinematic  
-kino grafikan - movie theatre  
 Kinxasa - Kinshasa  
 Kinxasa Kongo - Congo Kinshasa  
 kio - bridge  
@@ -2985,6 +2976,7 @@ midia - medium (media, mass media)
 midike - medium (intermediate, mean)  
 mide noce - midnight  
 mien - noodle  
+migre - move (migrate, relocate oneself)  
 migre - move (migrate, relocate)  
 migre - migration (moving)  
 • inmigre - immigrate (move in)  
@@ -3091,11 +3083,21 @@ moski - mosquito
 Moskva - Moscow  
 moskvium - moscovium  
 mostre - monster  
-motocar - motorcar (automobile)  
+mote - move (transfer, shift, stir, budge, rouse, motivate, inspire)  
+• demote - move away  
+• promote - promote (further, move forward)  
+• remote - move back  
 moter - engine (motor)  
+moter car - motorcar (automobile)  
+moter cate - hood (bonnet, cover over the engine)  
+moter sikle - motorcycle  
+motografe - movie (cinema)  
+motografia - cinematography  
+motografike - cinematic  
+motografekan - movie theatre  
+motike - kinetic  
 motion - motion (movement)  
-motosikle - motorcycle  
-moto cati - hood (bonnet, cover over the engine)  
+motive - motive  
 Mozambike - Mozambique  
 mudan - peony  
 muka - face  

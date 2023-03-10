@@ -237,7 +237,7 @@ aurinkokunta - sol sistem
 aurinkovarjo - sol cati  
 Australia - Australia  
 Austronesia - Austronesia  
-auto (automobiili) - motocar  
+auto (automobiili) - moter car  
 automaattinen (itsetoimiva) - autatike  
 autonominen - autonomike  
 auttaa (avustaa) - mede  
@@ -301,7 +301,7 @@ bokserit - boce pante
 Bolivia - Bolivia  
 bonus - maxaje  
 boori - boron  
-Bosnia ja Hertsegovina - Bosna i Hercegovina  
+Bosnia ja Hertsegovina - Bosna e Hercegovina  
 Botswana - Cuana  
 Brahma - Brahma  
 Brasilia - Brazil  
@@ -315,7 +315,7 @@ Buddha - Bude
 buddhalainen - budiste  
 buddhalaisuus (buddhismi) - budisme  
 budjetti - pesa plan  
-Bulgaria - Bolgaria  
+Bulgaria - Balgaria  
 Burkina Faso - Burkina Faso  
 Burundi - Rundi  
 bussipysäkki (linja-autopysäkki) - bus halte  
@@ -394,6 +394,7 @@ edeltää (mennä edeltä) - precese
 edeltää (olla ennen) - be cen  
 edetä (päästä eteenpäin) - procese  
 edistyä (edetä, harppoa eteenpäin) - progrese  
+edistää (promotoida) - promote  
 edistää - progresion  
 edustaa - vakil  
 edustaja (agentti) - vakiler  
@@ -420,10 +421,10 @@ elektroni - eletron
 eli (toisin sanoen) - alonam  
 elohopea - hidrargente  
 elokuu - mes bati  
-elokuva - kino grafi  
-elokuvallinen - kino grafi di  
-elokuvataide - kino grafi arte  
-elokuvateatteri - kino grafikan  
+elokuva - motografe  
+elokuvallinen - motografike  
+elokuvataide - motografia  
+elokuvateatteri - motografekan  
 elvyttää (palauttaa henkiin) - reanimate  
 eläin - hevan  
 eläinmaantiede - hevan geo grafi  
@@ -981,7 +982,7 @@ itkeä - vava
 itse - se  
 itsehallinto (autonomia) - autonomia  
 itsekäs - se di  
-itseliikkuva - automove  
+itseliikkuva - automotike  
 itsenäinen tekijä (auktori) - auter  
 itseys - aute  
 itä - dong  
@@ -1422,7 +1423,7 @@ kilpailla (kilvoitella; kilpa) - konteste
 kilpikonna - tortuga  
 kimmota (pomppia) - boing  
 kimono - kimono  
-kineettinen (liike-) - kino di  
+kineettinen (liike-) - motike  
 Kinshasa - Kinxasa  
 Kinshasan Kongo - Kinxasa Kongo  
 kioski - kioske  
@@ -1505,7 +1506,7 @@ komposti - bio sana xe
 kone - gi  
 kone - makin  
 koneellistaa (mekanisoida) - makinize  
-konepelti - moto cati  
+konepelti - moter cate  
 konjugaatio - konyuge  
 konjunktio (sidesana) - yunte lexe  
 konkani (eräs intialainen kieli) - Konkani  
@@ -1866,14 +1867,15 @@ lihas - muskul
 lihavoitu kirjain - gros zi  
 liian vähän - min ka bas  
 liikaa - max ka bas  
-liike - kino  
 liike - motion  
 liikemies - bizneser  
 liikennemerkki - dau bano  
 liiketoiminta (bisnes) - biznes  
-liikkua - be kino  
-liikkua ylös ja alas - gau dipe move  
-liikuttaa (innoittaa) - fa kino  
+liikkua pois (siirtää pois) - demote  
+liikkua takaisin (siirtää takaisin) - remote  
+liikkua ylös ja alas - gau dipe mote  
+liikuttaa (siirtää; liikkua) - mote  
+liikuttava (motiivi, vaikutin) - motive  
 liima - glu  
 liimata - glutize  
 liite - afixe  
@@ -2279,7 +2281,7 @@ monoteismi (yksijumalisuus) - undeisme
 montako? (paljonko?) - ke poli di  
 Montenegro - cernagora  
 moottori - moter  
-moottoripyörä - motosikle  
+moottoripyörä - moter sikle  
 moraali - moral  
 moraalinen - moral di  
 morfeemi - formeme  
@@ -2344,7 +2346,7 @@ muutama (pari-kolme) - du o tri
 muuten (toisin) - ale di  
 Muutosten kirja (I Ching) - yeka kanon  
 muuttaa (muuntaa) - mute  
-muuttaa (siirtyä) - be migra  
+muuttaa (siirtyä) - migre  
 muuttaa (siirtää) - migre  
 muuttaa (tehdä eriksi) - alife  
 muuttaa - altre  
@@ -4459,7 +4461,7 @@ yksimerkityksinen - unsemike
 yksimerkityksinen - unsemike  
 yksinkertainen (mutkaton) - simple  
 yksinpuhelu (monologi) - autologe  
-yksinvalta (monarkia) - unarhia  
+yksinvalta (monarkia) - monarhia  
 yksinvaltius (autokratia, monarkia) - autokratia  
 yksinäinen - un zai di  
 yksisilmäinen - unokike  
