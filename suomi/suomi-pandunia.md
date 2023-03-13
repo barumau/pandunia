@@ -125,7 +125,7 @@ amiraali - bahai amirer
 ammatinharjoittaja (niekka) - vala  
 ammatti - pei kar  
 ammattilainen - pei karer  
-ampeeri - amper  
+ampeeri - ampe  
 ampulli - ampul  
 anaalinen - anusal  
 anaerobinen - anairobiike  
@@ -180,6 +180,8 @@ armas (rakas toveri) - bau bei
 armeija (sotajoukko) - ordu  
 Armenia - Haye  
 aromanttinen - anromanse  
+arpa - lote  
+arpalippu - lote tikete  
 arrakki - varis araki  
 arseeni - arsenium  
 artefakti (keinotekoinen esine) - arte fete  
@@ -193,6 +195,7 @@ arvioida (arvostella, kritisoida) - fa piping
 arvioida - fa yagu  
 arvo - valu  
 arvokas - bau di  
+arvonta (arpajaiset, lotto) - lotation  
 arvostelija (kriitikko) - pipinger  
 arvottaa - fa valu  
 ase - vuki  
@@ -287,7 +290,9 @@ beryllium - berilium
 betoni - beton  
 Bhutan - Lung Dexa  
 biisoni - bison  
+bikinit - bikini  
 biljoona (tera-) - tera  
+bingo - bingo  
 biojäte - bio lasa  
 biologia - biologia  
 biologinen sukupuoli - biogense  
@@ -373,7 +378,7 @@ dokumenttielokuva - dokumen filme
 dollari - dolar  
 Dominika - Dominika  
 Dominikaaninen Tasavalta - Dominika Vakilkratia  
-dominopeli - domino geme  
+dominopeli - domino  
 dramaattinen ironia - dramatike ironia  
 dualismi - duajisme  
 dubnium - dubnium  
@@ -491,7 +496,6 @@ Eris (kääpiöplaneetta) - Eris
 Eritrea - Eritra  
 erottaa (nähdä ero) - fa has  
 erottaa (viitata erilleen) - disfere  
-erä (satsi) - lote  
 esihistoria - prehistoria  
 esimerkiksi - to misal  
 esimerkki - misal  
@@ -1462,7 +1466,6 @@ kivulias (tuskallinen) - algike
 kivunmittaus (algometria) - algometria  
 klassikko - kanon  
 klassinen (kanooninen) - kanon di  
-kloonata (monistaa) - klone  
 klooni (identtinen kopio) - klon  
 kloori - klor  
 koala - koala  
@@ -1767,7 +1770,7 @@ laji (tyyppi, lajityyppi, kategoria, genre, sortti) - gense
 laji - jung  
 laki (sääntö) - kanun  
 lakimies (juristi) - kanun vala  
-lakka - laka  
+lakka - lake  
 lakki (hattu) - tupi  
 lakritsi - alkasus  
 lamalaisuus - lamadin  
@@ -2226,6 +2229,7 @@ mies - ceng man
 miettiä (pohtia, pitää jonakin) - hem  
 mikrobi - mikrobie  
 mikrobiologia - mikrobiologia  
+mikrofoni - mikrofone  
 Mikronesia - Mikronesia  
 mikroskooppi - mikroskope  
 mikä? (mitä?) - ke  
@@ -4148,7 +4152,7 @@ vaikutus (tulos) - asar
 vaimentua - be mirde  
 vaimo - ni per (fem)  
 vain (ainoa, ainut) - unike  
-vaivata (hieroa) - masaje  
+vaivata (hieroa) - mase  
 vaivautua - be turbe  
 vajaa - hipe  
 valinnainen (optionaalinen) - otional  

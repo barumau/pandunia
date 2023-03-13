@@ -93,7 +93,7 @@ amiral - bahai amirer
 amour (affection) - ame  
 amoureux - amer  
 ampoule (fiole) - ampul  
-ampère - amper  
+ampère - ampe  
 américain - Amerikan  
 américium - amerikium  
 amérindien (indien) - aslamerikan  
@@ -246,6 +246,7 @@ balle (boule) - bol
 ballon - bolon  
 bambou - bambu  
 banane - banana  
+bandage - bandaje  
 bande - banda  
 bande dessinée - grafe kata  
 Bangladesh - Bangla gogia  
@@ -285,9 +286,12 @@ bibliothèque - kitabekan
 bicyclette - sikle  
 bidonville - harabe mahala  
 bien-être - salta  
+bikini - bikini  
 bilingue - dubaxike  
 bilingue - dubaxike  
 billet - tikete  
+billet de loterie - lote tikete  
+bingo - bingo  
 biologie - biologia  
 biome - biosistem  
 biscuit - biskute  
@@ -509,6 +513,7 @@ clair - klar
 classique (canon) - kanon  
 client - klien  
 cloche - dang gi  
+clone - klon  
 clown (paillasse) - payace  
 clé (clef) - cavi  
 cobalt - kobalte  
@@ -1149,6 +1154,7 @@ langue maternelle - natal lingue
 lanthane - lantan  
 lapin (lièvre) - tuzi  
 lapis-lazuli - lazur petra  
+laque - lake  
 lasagne - lazanya  
 latéral - late di  
 lave - fuzi petra  
@@ -1198,6 +1204,8 @@ long - long
 longtemps - long dure  
 loquace - logive  
 loquet - kane sor  
+lot - lote  
+loterie - lotation  
 louche (cuillère à pot) - pote camaca  
 loup - volfe  
 lourd - veze di  

@@ -172,7 +172,7 @@ amirer - emir
 amir haki - authority (power to give orders)  
 amiria - emirate  
 amir lin - command line (console, terminal)  
-amper - ampere (amp)  
+ampe - ampere (amp)  
 ampul - ampoule (vial)  
 ananas - pineapple  
 ancovi - anchovy  
@@ -564,6 +564,7 @@ Biblia - Bible
 Biblia di - Biblical  
 bibre - beaver  
 bici - whip  
+bikini - bikini  
 biku - monk or nun  
 biku sanga - order of monks or nuns  
 bil - possible (able, can)  
@@ -578,6 +579,7 @@ bine - build (construct)
 bine plan - architecture  
 bine planer - architect  
 bindu - dot (spot)  
+bingo - bingo  
 bir - beer  
 birkan - bar (pub, beer house)  
 Bisau Ginia - Guinea-Bissau  
@@ -964,7 +966,7 @@ domize - accommodate
 dom zeze - housefly  
 Dominika - Dominica  
 Dominika Vakilkratia - Dominican Republic  
-domino geme - dominoes  
+domino - dominoes  
 don - give  
 • redon - return (give back)  
 don tabi - generous (open-handed)  
@@ -1283,7 +1285,7 @@ fatu - punishment (penalty)
 fatu di - penal (penetenciary)  
 fatura - bill (check, invoice)  
 favor - favor (goodwill)  
-faxe - bandage (strip, ribbon)  
+faxe - strip (ribbon)  
 faxisme - fascism  
 faxiste - fascist  
 faxon - fashion (trend)  
@@ -2396,7 +2398,6 @@ klimalogia - climatology
 klima mute - climate change  
 klin - slope (tilt, slant, bias, inclination, tendency)  
 klon - clone (replica)  
-klone - clone (replicate)  
 klor - chlorine  
 klube - club  
 klus - close (shut)  
@@ -2574,7 +2575,7 @@ labi - lip
 lage - lake  
 Lagos - Lagos  
 lai - come (arrive)  
-laka - lacquer (varnish)  
+lake - lacquer (varnish)  
 lala - lull  
 lala bede - cradle  
 lala gani - lullaby  
@@ -2722,7 +2723,9 @@ long krokodil - crocodile
 long pipre - long pepper (pipli)  
 longta - length  
 long tire - stretch (extend)  
-lote - batch (lot)  
+lote - lot  
+lotation - lottery  
+lote tikete - lotteryticket  
 lotra - otter  
 lou - leak  
 lou sang - bleed  
@@ -2838,11 +2841,11 @@ Maris - Mars
 marisden - Tuesday  
 marke - mark (trace)  
 Marxal nesia - Marshall Islands  
+mase - knead (massage)  
+masaje - massage  
 masa - mass (quantity of matter)  
 masa mula - tuber (bulb)  
 masa mula sol hua - Jerusalem artichoke (sunroot)  
-masaje - knead (massage)  
-masaje - massage  
 masala - spice (seasoning)  
 masala tike - tikka masala  
 maske - mask (camouflage)  
@@ -2983,6 +2986,7 @@ migre - migration (moving)
 • inmigrer - immigrant  
 mikrobie - microorganism (microbe)  
 mikrobiologia - microbiology  
+mikrofone - microphone  
 Mikronesia - Micronesia  
 mikroskope - microscope  
 mili - milli-  

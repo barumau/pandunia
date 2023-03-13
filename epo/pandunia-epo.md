@@ -68,7 +68,7 @@ Amerike - Ameriko
 Amerikan - amerika  
 amerikium - americio  
 amir - ordono  
-amper - ampero  
+ampe - ampero  
 an- - mala  
 ananas - ananaso  
 ancovi - sardelo (anĉovo)  
@@ -275,6 +275,7 @@ Biblia - Biblio
 Biblia di - biblia  
 bibre - kastoro  
 bici - vipo  
+bikini - bikino  
 biku - monaĥo aŭ monaĥino  
 bil - ebla (povi)  
 bil es - eble  
@@ -284,6 +285,7 @@ bine - konstrui
 bine plan - arĥitekturo  
 bine planer - arĥitekto  
 bindu - punkto  
+bingo - bingo  
 bir - biero  
 birkan - drinkejo  
 biskute - biskvito (kuketo)  
@@ -1134,7 +1136,6 @@ klima - klimato
 klimalogia - klimatscienco  
 klin - emo (inklino, tendenco)  
 klon - klono  
-klone - kloni  
 klor - kloro  
 klube - klubo  
 koala - koalo  
@@ -1273,6 +1274,8 @@ lokize - lokigi
 long - longa  
 longife - longigi  
 long kata - romano  
+lote - loto  
+lotation - loterio  
 lou - liki  
 lou sang - sangi  
 luga - verda  

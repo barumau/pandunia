@@ -122,7 +122,7 @@ amir - orden (mando, comando)
 amirer - emir  
 amiria - emirato  
 amir lin - interfaz de línea de comandos  
-amper - amperio  
+ampe - amperio  
 ampul - ampolla (vial)  
 ananas - piña  
 ancovi - anchoa  
@@ -465,6 +465,7 @@ biotoxe - toxina
 Biblia - Biblia  
 bibre - castor  
 bici - látigo (fusta)  
+bikini - biquini  
 biku - monje o monja  
 bil - poder (posible)  
 bil es - quizás (tal vez)  
@@ -477,6 +478,7 @@ bine - construir (edificar)
 bine plan - arquitectura  
 bine planer - arquitecto  
 bindu - punto (lunar)  
+bingo - bingo  
 bir - cerveza (birra)  
 birkan - bar (pub)  
 Bisau Ginia - Guinea-Bisáu  
@@ -810,7 +812,7 @@ domize - alojar (hospedar)
 dom zeze - mosco  
 Dominika - Dominica  
 Dominika Vakilkratia - Republica Dominicana  
-domino geme - dominó  
+domino - dominó  
 don - dar  
 don tabi - generoso (dadivoso)  
 don xe - regalo (obsequio)  
@@ -2030,7 +2032,6 @@ klimalogia - climatología
 klima mute - cambio climático  
 klin - cuesta (inclinación, pendiente, predisposición, tender)  
 klon - clonar  
-klone - clon  
 klor - cloro  
 klube - club  
 • inkluse - incluir  
@@ -2176,7 +2177,7 @@ laba - clarín (corneta)
 labi - labio  
 lage - lago  
 lai - venir  
-laka - laca  
+lake - laca  
 lala bede - cuna  
 lala gani - canción de cuna (nana)  
 lama - lama  
@@ -2300,7 +2301,7 @@ long kata - novela (romance)
 long krokodil - cocodrilo  
 longta - largo (longitud)  
 long tire - estirar (extender)  
-lote - lote (grupo)  
+lotation - lotería  
 lotra - nutria  
 lou - chorrear  
 lou sang - sangrar  
@@ -2402,11 +2403,11 @@ Maris - Marte
 marisden - martes  
 marke - marcar (marca, huella, mancha)  
 Marxal nesia - Islas Marshall  
+mase - amasar (masajear)  
+masaje - masaje  
 masa - masa (trozo, pedazo)  
 masa mula - tubérculo  
 masa mula sol hua - tupinambo (pataca, alcachofa de Jerusalén)  
-masaje - amasar (masajear)  
-masaje - masaje  
 masala - especia  
 masala tike - tikka masala  
 maske - máscara  

@@ -146,7 +146,7 @@ amide - amide
 amine - amin  
 among (amid, between) - a medi  
 amount (quantity) - polita  
-ampere (amp) - amper  
+ampere (amp) - ampe  
 amplify (scale) - dai gradu  
 ampoule (vial) - ampul  
 amuse (entertain) - fa vanu  
@@ -351,7 +351,6 @@ balloon - bolon
 bamboo - bambu  
 banana - banana  
 band (squad, group) - banda  
-bandage (strip, ribbon) - faxe  
 bandage - bandaje  
 Bangladesh - Bangla gogia  
 banister (handrail) - langan  
@@ -382,7 +381,6 @@ basic - bazike
 basket (basketball hoop) - baske  
 basket ball - baske bol  
 bat (flying mammal) - fei muxu  
-batch (lot) - lote  
 bath - banya  
 bathe - fa banya  
 bathroom - banya kamar  
@@ -458,10 +456,12 @@ big brother (elder brother) - sen bra
 big city - dai siti  
 big sister (elder sister) - sen sis  
 bike (cycle) - sikle  
+bikini - bikini  
 bilingual - dubaxike  
 bilingual - dubaxike  
 bill (check, invoice) - fatura  
 billion (giga-) - giga  
+bingo - bingo  
 biological sex - biogense  
 biology (study of organic life) - biologia  
 biome - biosistem  
@@ -841,7 +841,6 @@ clock (watch) - sah diker
 clocktower - sah tore  
 clockwise - rota dex  
 clone (replica) - klon  
-clone (replicate) - klone  
 close (near) - proxe  
 close (shut) - klus  
 close (shut) - kluse  
@@ -1261,7 +1260,7 @@ domesticate (cultivate) - fa dosil gene
 domesticated - dosil gene di  
 Dominica - Dominika  
 Dominican Republic - Dominika Vakilkratia  
-dominoes - domino geme  
+dominoes - domino  
 donkey (ass) - iha  
 door (gate, portal) - mun  
 dot (spot) - bindu  
@@ -2327,7 +2326,7 @@ kiss - busu
 kitchen - kuke kamar  
 kiwi bird - kivi  
 kiwi fruit - kivi frute  
-knead (massage) - masaje  
+knead (massage) - mase  
 knee - guta  
 kneecap - guta kaska oste  
 knife - caku  
@@ -2354,7 +2353,7 @@ Kyrgyzstan - Kirgize
 
 lack (miss, be without) - hin  
 lacking (-less) - hin di  
-lacquer (varnish) - laka  
+lacquer (varnish) - lake  
 ladle (dipper, scoop) - pote camaca  
 Lagos - Lagos  
 lake - lage  
@@ -2521,6 +2520,9 @@ lose (fail, miss, be defeated) - fa xiti bai
 lose (misplace, miss, shed) - xiti  
 loser - xiti bai ja  
 lot (plot of land) - geo tike  
+lot - lote  
+lottery - lotation  
+lotteryticket - lote tikete  
 louse (cootie) - kutu  
 love (strong affection, desire) - ame  
 love romantically - fa romanse  
@@ -2736,6 +2738,7 @@ Mexico City - Mehiko siti
 microbiology - mikrobiologia  
 Micronesia - Mikronesia  
 microorganism (microbe) - mikrobie  
+microphone - mikrofone  
 microscope - mikroskope  
 middle (center) - jong  
 middle (the part in between) - mide  
@@ -4257,6 +4260,7 @@ strengthen (reinforce) - fa lika
 stretch (extend) - long tire  
 stride (march) - grese  
 strip (peel) - tire yo pil  
+strip (ribbon) - faxe  
 strong - bala  
 strontium - estrontium  
 struggle (strife) - jihade  

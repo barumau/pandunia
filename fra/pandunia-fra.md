@@ -99,7 +99,7 @@ amin - amine
 amirer - émir  
 amiria - émirat  
 amir lin - ligne de commande (console, terminal, invite de commande)  
-amper - ampère  
+ampe - ampère  
 ampul - ampoule (fiole)  
 ananas - ananas  
 ancovi - anchois  
@@ -260,6 +260,7 @@ bambu - bambou
 bamia - gombo  
 ban - pain  
 banana - banane  
+bandaje - bandage  
 banda - bande  
 bandera - drapeau  
 bang - masse d'armes  
@@ -345,6 +346,7 @@ bio sana xe - compost
 biosistem - biome  
 biotoxe - toxine  
 bici - fouet  
+bikini - bikini  
 biku - moine ou nonne  
 bil - pouvoir (possible, capacité)  
 bil es - peut-être  
@@ -355,6 +357,7 @@ bine - bâtiment
 bine - construire  
 bine plan - architecture  
 bine planer - architecte  
+bingo - bingo  
 bir - bière  
 biskute - biscuit  
 bismute - bismuth  
@@ -1150,6 +1153,7 @@ klar - clair
 klien - client  
 klima mute - changement climatique  
 klin - tendance  
+klon - clone  
 klor - chlore  
 • inkluse - inclure  
 koala - koala  
@@ -1228,6 +1232,7 @@ kux loka - couch (couchette)
 la - le (la)  
 lage - lac  
 lai - venir  
+lake - laque  
 lala bede - berceau  
 lala gani - berceause  
 lama - lama (enseignant religieux du bouddhisme tibétain)  
@@ -1304,6 +1309,9 @@ long kata - roman
 long krokodil - crocodile  
 long pipre - poivre long  
 long tire - tender  
+lote - lot  
+lotation - loterie  
+lote tikete - billet de loterie  
 lotra - loutre  
 luga - vert  
 luka - six (6)  

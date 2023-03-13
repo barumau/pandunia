@@ -179,7 +179,7 @@ amapola silvestre - medan papi
 amar románticamente - fa romanse  
 amargo - kali guste  
 amarillo - huang  
-amasar (masajear) - masaje  
+amasar (masajear) - mase  
 amateur (aficionado) - hobiiste  
 Amazonas - Amazon  
 ambiental (ecológico, natural) - ekal  
@@ -195,7 +195,7 @@ amistad (compañerismo) - dostia
 amoldarse - kon forma  
 amoldarse - konforme  
 amor - ame  
-amperio - amper  
+amperio - ampe  
 ampolla (vial) - ampul  
 América - Amerike  
 anaeróbico - anairobiike  
@@ -470,8 +470,10 @@ bilingüe - dubaxike
 bilingüe - dubaxike  
 billete de ida y vuelta - retro tikete  
 bilogía - duologia  
+bingo - bingo  
 biología - biologia  
 bioma - biosistem  
+biquini - bikini  
 birromántico - du romanse di  
 bisagra (gozne) - xarnir  
 bisexual - du sexe di  
@@ -818,7 +820,6 @@ cliente - klien
 clima (tiempo) - sama hal  
 clima - klima  
 climatología - klimalogia  
-clon - klone  
 clonar - klon  
 cloro - klor  
 club - klube  
@@ -1280,7 +1281,7 @@ dominar - maste
 domingo - solden  
 Dominica - Dominika  
 dominio (reinado) - kratia  
-dominó - domino geme  
+dominó - domino  
 doméstico (domesticado) - dom di  
 dormir - be sona  
 dormitorio - sona kamar  
@@ -2203,7 +2204,7 @@ kétchup - kecape
 ## L  
 
 labio - labi  
-laca - laka  
+laca - lake  
 lado (flanco) - late  
 ladrillo - tege  
 ladrón - corer  
@@ -2329,7 +2330,7 @@ logical - ratologike
 lograr (llegar) - gole  
 longitud - ging gradu  
 loro (papagayo) - papagai  
-lote (grupo) - lote  
+lotería - lotation  
 lucha - jihade  
 luchador (guerrero) - janger  
 lugar - loke  

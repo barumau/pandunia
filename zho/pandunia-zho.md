@@ -59,6 +59,7 @@ amen di - 诚实
 amerikium - 镅  
 amide - 酰胺  
 amin - 胺  
+ampe - 安培  
 ananas - 菠萝  
 ancovi - 凤尾鱼  
 andesite - 安山岩  
@@ -163,6 +164,7 @@ bambu - 竹子
 bamia - 秋葵  
 ban - 包  
 banana - 香蕉  
+bandaje - 绷带  
 banda - 班  (一帮)  
 bandera - 旗  
 bang - 棍棒  
@@ -231,6 +233,7 @@ biosistem - 生物群系
 biotoxe - 毒素  
 bibre - 海狸 (河狸)  
 bici - 鞭子  
+bikini - 比基尼  
 bil - 会 (可能)  
 bil es - 也许 (或是, 可能)  
 bilive - 熟练  
@@ -239,6 +242,7 @@ bine - 建筑
 bine - 建设  
 bine plan - 建筑学  
 bine planer - 建筑师  
+bingo - 宾果游戏  
 bir - 啤酒  
 biskute - 饼干 (曲奇饼)  
 bismute - 铋  
@@ -919,6 +923,7 @@ kivi frute - 奇异果 (猕猴桃)
 klien - 顾客  
 klima mute - 气候变化  
 klin - 趋势  
+klon - 克隆  
 klor - 氯  
 • inkluse - 包括  
 koala - 樹袋熊 (考拉)  
@@ -983,6 +988,7 @@ kutu - 虱子
 la - 该 (上述的)  
 lage - 湖  
 lai - 来  
+lake - 漆 (蜡克)  
 lala bede - 摇篮  
 lala gani - 摇篮曲  
 lama - 喇嘛  
@@ -1045,6 +1051,7 @@ long dure - 久
 long kata - 小说  
 long pipre - 荜拔  
 long tire - 拉  
+lotation - 抽奖 (乐透)  
 lotra - 獭  
 lou - 漏  
 luga - 绿色  
@@ -1149,6 +1156,7 @@ migre - 搬家
 • inmigrer - 移民者  
 mikrobie - 微生物   
 mikrobiologia - 微生物学  
+mikrofone - 麦克风  
 mikroskope - 显微镜  
 milke kardon - 水飞蓟  
 mime - 模拟  (模仿)  

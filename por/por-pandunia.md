@@ -82,6 +82,7 @@ amigo - doste
 amina - amin  
 amor - ame  
 amoreira - tuta  
+ampere - ampe  
 amêndoa - badam  
 anaeróbico - anairobiike  
 analgesia (analgia) - algesia  
@@ -223,11 +224,14 @@ bicho-da-seda (sirgo) - silke larva
 bicho-papão - bubu  
 bigorna - metal bede  
 bilhete - tikete  
+bilhete de loteria - lote tikete  
 bilogia - duologia  
 bilíngue - dubaxike  
 bilíngue - dubaxike  
+bingo - bingo  
 biología - biologia  
 bioma - biosistem  
+biquíni - bikini  
 biscoito - biskute  
 bismuto - bismute  
 bisão (bisonte) - bison  
@@ -405,6 +409,7 @@ cipó - trepater
 citologia - selu logia  
 claro - klar  
 cliente - klien  
+clone - klon  
 cloro - klor  
 coala - koala  
 cobalto - kobalte  
@@ -1026,6 +1031,7 @@ krípton - kriton
 
 ## L  
 
+laca - lake  
 lado - late  
 ladrão - lutar  
 lagarto - saur  
@@ -1077,6 +1083,7 @@ local - lokal
 loja - dukan  
 longo - long  
 lontra - lotra  
+loteria - lotation  
 lua - luna  
 lugar (local) - loke  
 lula (calamar) - kalmar  

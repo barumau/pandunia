@@ -65,6 +65,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**Amerike**|eng:America, spa:por:América, rus:Америка (Amerika), tur:swa:may:Amerika, ara:أمريكا‎ (ʾamrīkā), hin:अमेरिका (amerikā), ben:আমেরিকা (amerika), jpn:アメリカ (amerika), hau:Amurka|
 |**amerikium**|eng:americium, fra:américium, spa:americio, por:amerício, rus:америций, zho:镅 (méi), jpn:アメリシウム, kor:아메리슘, vie:amerixi, hin:अमेरिशियम, ben:অ্যামেরিসিয়াম, may:amerisium, swa:ameriki, ara: أمريكيوم|
 |**amir**|ara: أَمْر‎ (ʾamr), fas: امر‎ (amr), tur:emir, swa:amiri, hau:umarni + eng:admiral, fra:amiral, spa:por:emir rus:эмир (emir)|
+|**ampe**|eng:deu:spa:por:may:ampere, fra:ampère, rus:ампер (amper), hin:एम्पेयर (empeyar), zho:安培 (ānpéi), jpn:アンペア (anpea), kor:암페어 (ampeeo), vie:ampe, tur:amper, أَمْبِير‎ (ʔambīr)|
 |**ampul**|fra:eng:ampoule, zho:安瓿 (ānbù), jpn:アンプル (anpuru), rus:ампула (ámpula), ara:(ʾambūla)|
 |**an-**|ell:ἀν- (an-), eng:un-, hin:अन- (an-), fra:spa:por:in-|
 |**ananas**|deu:Ananas, fra:tur:ananas, por:ananás, rus:ананас (ananas), fas: آناناس‎ (ânânâs), hin:अनन्नास (anānnas), tam:அன்னாசிப் பழம் (aṉṉācip paḻam), ara: أَنَانَاس‎ (ʾanānās), may:nanas, swa:nanasi|
@@ -137,7 +138,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**bamia**|ara: بَامْيَة‎ (bāmya), swa:bamia, amh:ባሚያ (bamiya), tur:bamya, fas: بامیه‎ (bâmiye), rus:бамия (bamiya)|
 |**ban**|zho:包 (bāo), yue:包 (baau1), vie:bánh + por:pão, spa:pan, fra:pain, jpn:パン (pan), kor:빵 (ppang)|
 |**banana**|wol:banaana, rus:банан (banan), pol:banan, fra:deu:banane, por:spa:eng:banana, jpn:バナナ (banana), kor:바나나 (banana)|
-|**bande**|ita:benda, swa:bendeji, hau:bandeji, spa:venda, fra:bande, eng:band, deu:Binde, rus:бинт (bint) hin:बाँधना (bāndhnā)|
+|**bande**|eng:bind; band, deu:Band, fra:bande, spa:venda, rus:бинт (bint), fas: بند‎ (band), hin:बाँधना (bāndhnā), vie:băng + swa:bendeji, hau:bandeji, zho:绷带 (bēngdái), yue:繃帶 (bang daai)|
 |**banda**|zho:班 (bān), yue:班 (baan1), vie:ban, kor:반 (ban) + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)|
 |**bandera**|eng:banner, fra:bannière, spa:bandera, por:bandeira, may:bendera, tgl:bandila, swa:bendera|
 |**bang**|zho:棒 (bàng), yue:棒 (paang5), jpn:棒 (bō), kor:봉 (bong), tha:ตะบอง (ta-bong), khm:ដំបង (dɑmbɑɑng)|
@@ -164,7 +165,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**bau**|zho:宝 (bǎo), yue:寶 (bou2), kor:보 (bo), vie:bảo, jpn:宝 (hō)|
 |**baxe**|hin:भाषा (bhāṣā), urd:(bhāṣā), ben:ভাষা (bhaṣa), pnb:ਭਾਸ਼ਾ (bhāshā), tel:భాష (bhāṣa), tam:பாசை (pāsai), tha:ภาษา (phasa), may:bahasa, jav:basa|
 |**baze**|eng:fra:por:spa:base, deu:Basis, rus:база (baza)|
-|**bazar**|fas:urd: بازار (bāzār), hin:बाज़ार (bāzār), fra:spa:por:bazar, eng:bazaar, rus:базар (bazar), may: pasar, khm:ផ្សារ (psar)|
+|**bazar**|fas:urd: بازار (bāzār), hin:बाज़ार (bāzār), fra:spa:por:bazar, eng:bazaar, rus:базар (bazar), may: pasar, zho:巴扎 (bāzhā); 巴剎 (bāshā)|
 |**be**|zho:被 (bèi), yue:被 (bei6), wuu:被 (bé), jpn:被- (hi-), kor:피— (pi-), vie:bị + eng:be|
 |**be boli**|eng:boil, fra:bouillir, ita:bollire, zul:-bila, sot:-bela, hin:उबालना (ubālnā)|
 |**be raste**|fra:croîter, rus:выраста́ть (vyrastat’), bel:расці́ (rascí), fas:رستن‎ (rostan)|
@@ -191,11 +192,13 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**bie**|eng:deu:fra:spa:por:pol:may:swa:tur:bio-, rus:био- (bio-)|
 |**bibre**|deu:Biber, eng:beaver, rus:бобр (bobr), jpn:ビーバー (bībā), kor:비버 (bibeo)|
 |**bici**|rus:бич (bič), pol:bicz, ron:bici, deu:Peitsche|
+|**bikini**|eng:deu:fra:may:tur:vie:bikini, spa:por:biquini, rus:бикини (bikini), fas: بیکینی‎ (bikini), hin:बिकिनी (bikinī), ben:বিকিনি (bikini), ara: بِيكِينِي‎ (bīkīnī), zho:比基尼 (bǐjīní), jpn: ビキニ (bikini), kor:비키니 (bikini)|
 |**biku**|hin:भिक्षु (bhikṣu), ben:ভিক্ষু (bhikkhu), may:biku; biksu, zho:比丘 (bǐqiū), jpn:比丘 (biku), kor:비구 (bigu), tha:ภิกษุ (pík-sù), mya:ဘိက္ခု (bhikhku)|
 |**bil**|tur:bilmek + fra:habile, spa:por:hábil, eng:able;ability + tur:bilmek; belki, ara: بلكي‎ (balki)|
 |**bilor**|ara: بِلَّوْر‎ (billawr), hin:बिल्लौर (billaur), may:hablur, tur:billûr, amh:በሉር (bälur) + spa:abalorio|
 |**bine**|ara: بِنَاء‎ (bināʾ), hin: बनाना (banānā), urd:(banānā), fas:(banā), tur: bina, + jpn:ビル (biru)|
 |**bindu**|hin:बिंदु (bindu), ben:বিন্দু (bindu), tha:พินทุ (pintu), eng:bindi (holy dot), rus:бинди (bindi)|
+|**bingo**|eng:deu:fra:spa:por:tur:may:bingo, rus:бинго (bingo), fas: بینگو‎ (bingo), zho:宾果 (bīnguǒ), jpn:ビンゴ (bingo), kor:빙고 (binggo)|
 |**bir**|eng:beer, tur:bira, fra:bière, ara: بيرة (bīra), may:bir, hin:बियर (biyar), swa:bia, zho:啤(酒) pí(jiǔ), jpn:ビール (bīru)|
 |**biskute**|eng:fra:biscuit, por:biscoito, rus:бисквит (biskvit), tur:bisküvi, swa:biskuti, ara: بسكويت‎ (baskawīt), hin:बिस्कुट (biskuṭ), ben:বিস্কুট (biśkuṭ), may:biskut, jpn:ビスケット (bisuketto), kor:비스켓 (biseuket)|
 |**bismute**|eng:bismuth, fra:bismuth, spa:bismuto, por:bismuto, rus:висмут, zho:铋 (bì), jpn:ビスマス, kor:비스무트, vie:bitmut, bismut, hin:बिस्मथ, ben:বিসমাথ, may:bismut, swa:bismuthi, ara: بزموث|
@@ -332,7 +335,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**dokumen**|eng:fra:document, spa:por:documento, rus:документ (dokument), jpn:ドキュメント (dokyumento), may:dokumen, tur:doküman|
 |**dolfin**|ell:δελφίνια (delphínia), eng:dolphin, spa:delfín, por:delfim, rus:дельфин (del’fin), ara:دلفين (dulfin), jpn:ドルフィン (dorufin), ben:ডলফিন (ḍalaphina), hin:डॉल्फ़िन (ḍŏlfin)|
 |**dom**|rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico|
-|**domino geme**|eng:dominoes, spa:por:dominó, fra:dominos, rus:домино (domino), zho:多米诺 (duōmǐnuò), jpn:ドミノ牌 (dominohai)|
+|**domino**|eng:dominoes, spa:por:dominó, fra:dominos, rus:домино (domino), zho:多米诺 (duōmǐnuò), jpn:ドミノ牌 (dominohai)|
 |**don**|spa:por:dar, rus:дать (dat'), fas: دادن‎ (dâdan), scr:দদাতি (dadāti), hin:देना (denā), ben:দেওয়া  (deva), tam:தா (tā)|
 |**dong**|zho:东 (dōng), yue:東 (dōng), vie:đông, kor:동 (dong), tur:doğu|
 |**donjon ventur**|eng:dungeon, fra:donjon, jpn:ダンジョン (danjon)|
@@ -791,7 +794,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**klike**|eng:click, spa:clic, por:clicar, fra:claquer, hin:क्लिक (klika), ben:ক্লিক (klika), may:klik, jpn:クリック (kurikku)|
 |**klima**|ell:κλίμα (eklíma), spa:por:clima, ara:(ʾiqlīm), may:tur:iklim, eng:climate, rus:климат (klimat)|
 |**klin**|eng:-cline, fra:-cliner, por:spa:-clinar, rus:склонить (sklonit’)|
-|**klon**|en:por:fra:clone, spa:clon rus:клон (klon), may:klon, jpn:クローン (kurōn)|
+|**klon**|eng:por:fra:clone, spa:clon rus:клон (klon), deu:may:tur:klon, may:klon, zho:克隆 (kèlóng), jpn:クローン (kurōn)|
 |**klor**|eng:chlorine, fra:chlore, spa:cloro, por:cloro, rus:хлор, vie:clo, hin:क्लोरीन, ben:ক্লোরিন, may:klor, swa:klorini, ara: كلور|
 |**klube**|eng:spa:fra:club, por:clube, rus:клуб, tur:kulüp, swa:klabu, hin:क्लब (klab), may:kelab, zho:俱乐部 (jùlèbù), jpn:クラブ (kurabu)|
 |**klus**|eng:fra:spa:por:-clus-, rus:ключить (-klyučítʹ)|
@@ -828,8 +831,8 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**kran**|ned:kraan, rus:кран (kran), pol:kran, may:keran|
 |**kratia**|eng:-cracy, fra:-cratie, spa:por:-cracia, rus:-кратия (kratiya), ara:(-qratiya), may:swa:-krasi|
 |**kree**|eng:create, deu:kreieren, fra:créer, spa:crear, por:criar + may:kreatif|
-|**krem**|fra:crème, por:creme, spa:crema, eng:cream, jpn:クリーム (kurīmu)|
-|**krepe**|fra:eng:crêpe, por:crepe, spa:crepa, tur:krep, ita:crespella|
+|**krem**|fra:crème, por:creme, spa:crema, eng:cream, jpn:クリーム (kurīmu), zho:淇淋 (qílin)|
+|**krepe**|fra:eng:crêpe, por:crepe, spa:crepa, tur:krep, zho:可丽饼 (kělìbǐng)|
 |**krikete**|eng:deu:fra:cricket, spa:críquet, por:críquete, rus:крикет (kriket), fas: کریکت‎ (kriket), hin:क्रिकेट (krikeṭ), ben:ক্রিকেট (krikeṭ), jpn:クリケット (kuriketto), kor:크리켓 (keuriket), vie:crích-kê, may:kriket, swa:kriketi, ara: كْرِيكِت‎ (krikit), hau:kur̃kèt|
 |**krim**|eng:fra:por:crime, spa:crimen, tgl:krimen|
 |**krita**|eng:cry, spa:por:gritar, fra:crier, rus:крича́ть (kričátʹ)|
@@ -839,7 +842,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**krokro**|eng:croak, fra:croa croa, spa:por:croac croac, jpn:ケロケロ (kero kero), may:krok krok|
 |**kromium**|eng:chromium, fra:chrome, spa:cromo, por:crómo, rus:хром, jpn:クロム, kor:크로뮴, vie:crom, hin:क्रोमियम, ben:ক্রোমিয়াম, may:krom, swa:kromi, ara: كروم|
 |**krote**|rus:крот (krot), pol:kret|
-|**kruasan**|fra:eng:croissant, por:croassã, spa:cruasán, rus:круассан, jpn:クロワッサン (kurowassan), kor:크루아상 (keruasang), hin:क्रोइसैन (kroisain)|
+|**kruasan**|fra:eng:croissant, por:croassã, spa:cruasán, rus:круассан, zho:可颂 (kěsòng), jpn:クロワッサン (kurowassan), kor:크루아상 (keruasang), hin:क्रोइसैन (kroisain)|
 |**krus**|eng:cross, por:spa:cruz, deu:Kreuz, fra:croix, jpn:クロス (kurosu), rus:крест (krest), kon:kuluzi, hin:क्रूश (krūś)|
 |**kuan**|zho:矿 (kuàng), vie:khoáng, kor:광 (guang) + fas: کان‎ (kân), hin:खान (khān), ben:খাদ (khad)|
 |**kuarze**|deu:Quarz, eng:fra:quartz, spa:cuarzo, rus:кварц (kvarc), tur:kuvars, hin:क्वार्ट्ज (kvārtj), jpn:クオーツ (kuōtsu), may:kuarza|
@@ -869,7 +872,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**labi**|spa:labio, por:lábio, fas:urd:(lab), hin:लब (lab), tgl:labi|
 |**lage**|eng:lake, spa:por:ita:lago, fra:lac|
 |**lai**|zho:来 (lái), yue:嚟 (lai4), jpn:来 (rai), vie:lại|
-|**laka**|eng:lacquer, spa:por:laca, fra:laque, rus:лак (lak), jpn:ラッカー|
+|**lake**|eng:lacquer, deu:Lack, spa:por:laca, fra:laque, rus:лак (lak), may:lak, ara: لَكّ‎ (lakk), tur:lake, zho:蜡克 (làkè), jpn:ラッカー (rakkā), kor:래커 (raekeo)|
 |**lala**|eng:lull, pol:lulać, fas: لالا کردن‎ (lâlâ kardan) + jpn:ララバイ (rarabai), tgl:lalay + swa:-lala|
 |**lampa**|eng:lamp, deu:fra:lampe, spa:lámpara, por:lâmpada, rus:лампа (lampa), ara: لمبة‎(lamba), jpn:ランプ (ranpu), kor:램프 (raempeu), hin:लैंप (laimp), ben:ল্যাম্প (lyamp), may:lampu, tur:lamba|
 |**langan**|zho:栏杆 (lángān), jpn:欄干 (rankan), kor:난간 (nan-gan)|
@@ -921,7 +924,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**loke**|eng:location, spa:lugar, fra:localisation, + deu:tur:lokal, pol:lokalny|
 |**lona**|zho:论 (lùn), yue:論 (leo6), kor:론 (ron), jpn:論 (ron), vie:luận|
 |**long**|eng:fra:long, deu:lang, por:longo|
-|**lote**|por:spa:lote, eng:fra:lot|
+|**lote**|eng:fra:lot, deu:Los, spa:por:loteria, rus:лотерея (lotereia), fas: لاتاری‎ (lâtâri), hin:लॉटरी (lŏṭrī), ben:লটারি (lôṭari), zho:乐透 (lètòu)|
 |**lotra**|eng:otter + fra:loutre, spa:tgl:lutrino, por:lontra + rus:выдра (vydra)|
 |**lou**|zho:漏 (lòu), yue:漏 (lau6), jpn:漏 (rō), 루 (ru)|
 |**luga**|zho:绿 (lǜ), yue:綠 (luk6), vie:lục, kor:록/녹 (rok/nok), jpn: 緑色 (ryokushoku)|
@@ -968,8 +971,8 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**margarita**|spa:por:margarita, fra:marguerite, deu:Margerite, rus:маргаритка (margaritka)|
 |**Maris**|ell:Άρης (Áris), eng:fra:tur:Mars, spa:por:Marte, rus:Марс (Mars) + ara: اَلْمِرِّيخ‎ (al-mirrīkh), swa:Mirihi, may:Mars; Marikh|
 |**marke**|eng:mark, spa:por:marca, fra:marque, kor:마크 (makeu), jpn:マーク (māku)|
-|**masa**|eng:mass, deu:fra:masse, spa:masa, por:may:massa, rus:масса (massa)|
 |**masaje**|eng:fra:massage, spa:masaje, por:massagem, rus:масса́ж (massáž), tur:masaj, ara:مَسَاج‎ (masāj), fas:ماساژ‎ (mâsâž), ben:ম্যাসেজ (mjaśej), zho:马杀鸡 (mǎshājī), jpn:マッサージ (massāji)|
+|**masa**|eng:mass, deu:fra:masse, spa:masa, por:may:massa, rus:масса (massa)|
 |**masala**|hin:मसाला (masālā), urd:(masālā), ben:মসলা (môsla), swa:masala|
 |**maske**|eng:mask, fra:masque, spa:por:máscara, rus:маска (maska), hin:मास्क (māsk), jpn:マスク (masuku), kor:마스크 (maseukeu), may:masker, tur:maske|
 |**master**|por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister, hin:(mistrī)|
@@ -1011,7 +1014,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**mide**|eng:mid; medium, deu:Mitte, spa:medio, por:meio, hin:मध्य (madhya), ben:মধ্য (môddh), tam:மத்தியம் (mattiyam) + fra:médias, rus:медиа (media), zho:媒体 (méitǐ), jpn:メディア (media), kor:미디어 (midieo), tur:medya|
 |**mien**|zho:面 (miàn), yue:麵 (min6), jpn:麺 (men), kor:면 (myeon), vie:mì; miến, may:mie, tha:หมี่ (mii), khm:មី (mi)|
 |**migre**|fra:eng:migration, spa:migración, por:migração, rus:миграция (migratsiya)|
-|**mikro**|eng:fra:spa:por:micro-, rus:микро- (mikro-), jpn:マイクロ- (maikuro-), may:tur:mikr-|
+|**mikro**|eng:fra:spa:por:micro-, rus:микро- (mikro-), jpn:マイクロ- (maikuro-), may:tur:mikr-, zho:麦克 (mâikè)|
 |**milke**|eng:milk, deu:Milch, jpn:ミルク  (miruku), kor:밀크 (milkeu), lin:míliki, rus:молоко (moloko)|
 |**mime**|eng:fra:mime, spa:por:mímico, rus:мим (mim)|
 |**min**|spa:por:menos, fra:moins, rus:ме́нее (méneje), eng:min-|

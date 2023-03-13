@@ -32,6 +32,7 @@
 **Amerike** *America (continent)* ← English:America, Spanish:Portuguese:América, Russian:Америка (Amerika), Turkish:Swahili:Malay:Amerika, Arabic:أمريكا‎ (ʾamrīkā), Hindi:अमेरिका (amerikā), Bengali:আমেরিকা (amerika), Japanese:アメリカ (amerika), Hausa:Amurka  
 **amerikium** *americium* ← English:americium, French:américium, Spanish:americio, Portuguese:amerício, Russian:америций, Mandarin:镅 (méi), Japanese:アメリシウム, Korean:아메리슘, Vietnamese:amerixi, Hindi:अमेरिशियम, Bengali:অ্যামেরিসিয়াম, Malay:amerisium, Swahili:ameriki, Arabic: أمريكيوم  
 **amir** *order (command)* ← Arabic: أَمْر‎ (ʾamr), Persian: امر‎ (amr), Turkish:emir, Swahili:amiri, Hausa:umarni + English:admiral, French:amiral, Spanish:Portuguese:emir Russian:эмир (emir)  
+**ampe** *ampere (amp)* ← English:deu:Spanish:Portuguese:Malay:ampere, French:ampère, Russian:ампер (amper), Hindi:एम्पेयर (empeyar), Mandarin:安培 (ānpéi), Japanese:アンペア (anpea), Korean:암페어 (ampeeo), Vietnamese:ampe, Turkish:amper, أَمْبِير‎ (ʔambīr)  
 **ampul** *ampoule (vial)* ← French:English:ampoule, Mandarin:安瓿 (ānbù), Japanese:アンプル (anpuru), Russian:ампула (ámpula), Arabic:(ʾambūla)  
 **an-** *reverse (negative, un-)* ← Greek:ἀν- (an-), English:un-, Hindi:अन- (an-), French:Spanish:Portuguese:in-  
 **ananas** *pineapple* ← deu:Ananas, French:Turkish:ananas, Portuguese:ananás, Russian:ананас (ananas), Persian: آناناس‎ (ânânâs), Hindi:अनन्नास (anānnas), Tamil:அன்னாசிப் பழம் (aṉṉācip paḻam), Arabic: أَنَانَاس‎ (ʾanānās), Malay:nanas, Swahili:nanasi  
@@ -105,7 +106,7 @@
 **ban** *bread* ← Mandarin:包 (bāo), Cantonese:包 (baau1), Vietnamese:bánh + Portuguese:pão, Spanish:pan, French:pain, Japanese:パン (pan), Korean:빵 (ppang)  
 **banana** *banana* ← Wolof:banaana, Russian:банан (banan), Polish:banan, French:deu:banane, Portuguese:Spanish:English:banana, Japanese:バナナ (banana), Korean:바나나 (banana)  
 **banda** *band (squad, group)* ← Mandarin:班 (bān), Cantonese:班 (baan1), Vietnamese:ban, Korean:반 (ban) + English:deu:band, French:bande, Russian:банда (banda), Spanish:Portuguese:Filipino:Polish:banda, Japanese:バンド (bando)  
-**bande** *tie (fasten, bind, bandage)* ← Italian:benda, Swahili:bendeji, Hausa:bandeji, Spanish:venda, French:bande, English:band, deu:Binde, Russian:бинт (bint) Hindi:बाँधना (bāndhnā)  
+**bande** *tie (fasten, bind, bandage)* ← English:bind; band, deu:Band, French:bande, Spanish:venda, Russian:бинт (bint), Persian: بند‎ (band), Hindi:बाँधना (bāndhnā), Vietnamese:băng + Swahili:bendeji, Hausa:bandeji, Mandarin:绷带 (bēngdái), Cantonese:繃帶 (bang daai)  
 **bandera** *flag (banner)* ← English:banner, French:bannière, Spanish:bandera, Portuguese:bandeira, Malay:bendera, Filipino:bandila, Swahili:bendera  
 **bang** *club (bat, mace, baton)* ← Mandarin:棒 (bàng), Cantonese:棒 (paang5), Japanese:棒 (bō), Korean:봉 (bong), Thai:ตะบอง (ta-bong), Khmer:ដំបង (dɑmbɑɑng)  
 **banke** *save (deposit, bank)* ← English:deu:Polish:Malay:bank, Turkish:banka, Russian:банк (bank), French:banque, Spanish:Portuguese:banco, Persian:(bânk), Hindi:बैंक (baiṅk), Urdu:(baiṅk), Telugu:బ్యాంకు (byāṅku), Tamil:(vaṅki), Hausa:banki  
@@ -130,7 +131,7 @@
 **batri** *battery* ← English:battery, hat:batri, Persian:(bātri), Swahili:betri, Hausa:baturi, Hindi:बैटरी (baiṭrī), Bengali:ব্যাটারি (byaṭari), Arabic:(baṭṭāriyya), Japanese:バッテリー (batterī), Korean:배터리 (baeteori), Russian:батарея (batareya), Spanish:Portuguese:bateria, Malay:bateri  
 **bau** *treasure (valuables)* ← Mandarin:宝 (bǎo), Cantonese:寶 (bou2), Korean:보 (bo), Vietnamese:bảo, Japanese:宝 (hō)  
 **baxe** *speak (talk, language, communication)* ← Hindi:भाषा (bhāṣā), Urdu:(bhāṣā), Bengali:ভাষা (bhaṣa), Punjabi:ਭਾਸ਼ਾ (bhāshā), Telugu:భాష (bhāṣa), Tamil:பாசை (pāsai), Thai:ภาษา (phasa), Malay:bahasa, jav:basa  
-**bazar** *market (bazaar)* ← Persian:Urdu: بازار (bāzār), Hindi:बाज़ार (bāzār), French:Spanish:Portuguese:bazar, English:bazaar, Russian:базар (bazar), Malay: pasar, Khmer:ផ្សារ (psar)  
+**bazar** *market (bazaar)* ← Persian:Urdu: بازار (bāzār), Hindi:बाज़ार (bāzār), French:Spanish:Portuguese:bazar, English:bazaar, Russian:базар (bazar), Malay: pasar, Mandarin:巴扎 (bāzhā); 巴剎 (bāshā)  
 **baze** *base (foundation)* ← English:French:Portuguese:Spanish:base, deu:Basis, Russian:база (baza)  
 **be boli** *boil (be boiled)* ← English:boil, French:bouillir, Italian:bollire, Zulu:-bila, sot:-bela, Hindi:उबालना (ubālnā)  
 **be raste** *grow (grow up, expand)* ← French:croîter, Russian:выраста́ть (vyrastat’), bel:расці́ (rascí), Persian:رستن‎ (rostan)  
@@ -158,11 +159,13 @@
 **bibre** *beaver* ← deu:Biber, English:beaver, Russian:бобр (bobr), Japanese:ビーバー (bībā), Korean:비버 (bibeo)  
 **bici** *whip* ← Russian:бич (bič), Polish:bicz, ron:bici, deu:Peitsche  
 **bie** *life (organic)* ← English:deu:French:Spanish:Portuguese:Polish:Malay:Swahili:Turkish:bio-, Russian:био- (bio-)  
+**bikini** *bikini* ← English:deu:French:Malay:Turkish:Vietnamese:bikini, Spanish:Portuguese:biquini, Russian:бикини (bikini), Persian: بیکینی‎ (bikini), Hindi:बिकिनी (bikinī), Bengali:বিকিনি (bikini), Arabic: بِيكِينِي‎ (bīkīnī), Mandarin:比基尼 (bǐjīní), Japanese: ビキニ (bikini), Korean:비키니 (bikini)  
 **biku** *monk or nun* ← Hindi:भिक्षु (bhikṣu), Bengali:ভিক্ষু (bhikkhu), Malay:biku; biksu, Mandarin:比丘 (bǐqiū), Japanese:比丘 (biku), Korean:비구 (bigu), Thai:ภิกษุ (pík-sù), Burmese:ဘိက္ခု (bhikhku)  
 **bil** *possible (able, can)* ← Turkish:bilmek + French:habile, Spanish:Portuguese:hábil, English:able;ability + tur:bilmek; belki, Arabic: بلكي‎ (balki)  
 **bilor** *crystal* ← Arabic: بِلَّوْر‎ (billawr), Hindi:बिल्लौर (billaur), Malay:hablur, Turkish:billûr, Amharic:በሉር (bälur) + Spanish:abalorio  
 **bindu** *dot (spot)* ← Hindi:बिंदु (bindu), Bengali:বিন্দু (bindu), Thai:พินทุ (pintu), English:bindi (holy dot), Russian:бинди (bindi)  
 **bine** *building (structure)* ← Arabic: بِنَاء‎ (bināʾ), Hindi: बनाना (banānā), Urdu:(banānā), Persian:(banā), Turkish: bina, + Japanese:ビル (biru)  
+**bingo** *bingo* ← English:deu:French:Spanish:Portuguese:Turkish:Malay:bingo, Russian:бинго (bingo), Persian: بینگو‎ (bingo), Mandarin:宾果 (bīnguǒ), Japanese:ビンゴ (bingo), Korean:빙고 (binggo)  
 **bir** *beer* ← English:beer, Turkish:bira, French:bière, Arabic: بيرة (bīra), Malay:bir, Hindi:बियर (biyar), Swahili:bia, Mandarin:啤(酒) pí(jiǔ), Japanese:ビール (bīru)  
 **biskute** *biscuit (cookie)* ← English:French:biscuit, Portuguese:biscoito, Russian:бисквит (biskvit), Turkish:bisküvi, Swahili:biskuti, Arabic: بسكويت‎ (baskawīt), Hindi:बिस्कुट (biskuṭ), Bengali:বিস্কুট (biśkuṭ), Malay:biskut, Japanese:ビスケット (bisuketto), Korean:비스켓 (biseuket)  
 **bismute** *bismuth* ← English:bismuth, French:bismuth, Spanish:bismuto, Portuguese:bismuto, Russian:висмут, Mandarin:铋 (bì), Japanese:ビスマス, Korean:비스무트, Vietnamese:bitmut, bismut, Hindi:बिस्मथ, Bengali:বিসমাথ, Malay:bismut, Swahili:bismuthi, Arabic: بزموث  
@@ -299,7 +302,7 @@
 **dokumen** *document (record, file)* ← English:French:document, Spanish:Portuguese:documento, Russian:документ (dokument), Japanese:ドキュメント (dokyumento), Malay:dokumen, Turkish:doküman  
 **dolfin** *dolphin* ← Greek:δελφίνια (delphínia), English:dolphin, Spanish:delfín, Portuguese:delfim, Russian:дельфин (del’fin), Arabic:دلفين (dulfin), Japanese:ドルフィン (dorufin), Bengali:ডলফিন (ḍalaphina), Hindi:डॉल्फ़िन (ḍŏlfin)  
 **dom** *home (house, residence)* ← Russian:дом (dom), Polish:dom, Latin:domus, + English:domestic, French:domestique, Spanish:Portuguese:doméstico  
-**domino geme** *dominoes* ← English:dominoes, Spanish:Portuguese:dominó, French:dominos, Russian:домино (domino), Mandarin:多米诺 (duōmǐnuò), Japanese:ドミノ牌 (dominohai)  
+**domino** *dominoes* ← English:dominoes, Spanish:Portuguese:dominó, French:dominos, Russian:домино (domino), Mandarin:多米诺 (duōmǐnuò), Japanese:ドミノ牌 (dominohai)  
 **don** *give* ← Spanish:Portuguese:dar, Russian:дать (dat'), Persian: دادن‎ (dâdan), scr:দদাতি (dadāti), Hindi:देना (denā), Bengali:দেওয়া  (deva), Tamil:தா (tā)  
 **dong** *east (orient)* ← Mandarin:东 (dōng), Cantonese:東 (dōng), Vietnamese:đông, Korean:동 (dong), Turkish:doğu  
 **donjon ventur** *dungeon crawl* ← English:dungeon, French:donjon, Japanese:ダンジョン (danjon)  
@@ -369,7 +372,7 @@
 **fatu** *punishment (penalty)* ← Mandarin:罚 (fá), Cantonese:罰 (fat6), Wu-Chinese:罰 (vaq5), Japanese:罰 (batsu), Korean:벌 (beol), Vietnamese:phạt  
 **fatura** *bill (check, invoice)* ← French:facture, Spanish:factura, Portuguese:Turkish:fatura, Russian:фактура (faktura), Arabic: فَاتُورَة‎ (fātūra)  
 **favor** *favor (goodwill)* ← English:Spanish:Portuguese:favor, French:faveur + Russian:фаворитизм (favoritizm)  
-**faxe** *bandage (strip, ribbon)* ← Italian:English:fascia, Portuguese:faixa, Spanish:faja + French:fascisme, Russian:фашизм (fašizm), Arabic: فَاشِيَّة‎ (fāšiyya), Mandarin:法西斯主义 (fǎxīsīzhǔyì), Japanese:ファシズム (fashizumu), Korean:파시즘 (pasijeum), Vietnamese:chủ nghĩa phát xít, Hindi:फ़ासीवाद (fāsīvād), Malay:fasisme Bengali:ফ্যাসিবাদ (phaśibad)  
+**faxe** *strip (ribbon)* ← Italian:English:fascia, Portuguese:faixa, Spanish:faja + French:fascisme, Russian:фашизм (fašizm), Arabic: فَاشِيَّة‎ (fāšiyya), Mandarin:法西斯主义 (fǎxīsīzhǔyì), Japanese:ファシズム (fashizumu), Korean:파시즘 (pasijeum), Vietnamese:chủ nghĩa phát xít, Hindi:फ़ासीवाद (fāsīvād), Malay:fasisme Bengali:ফ্যাসিবাদ (phaśibad)  
 **faxon** *fashion (trend)* ← English:fashion, Hindi:फैशन (faiśan), Japanese:ファッション (fasshon), Korean:패션 (pæsyeon), Thai:แฟชั่น (feechan), Bengali:ফ্যাশন (phaśôn)  
 **faze** *stage (phase)* ← Spanish:Portuguese:Italian:Malay:fase, English:French:phase, Russian:фаза (faza), Polish:faza, Persian:(fāz)  
 **febre** *fever* ← Portuguese:febre, Spanish:fiebre, deu:Fieber, English:fever, French:fièvre  
@@ -758,7 +761,7 @@
 **klike** *click (snap)* ← English:click, Spanish:clic, Portuguese:clicar, French:claquer, Hindi:क्लिक (klika), Bengali:ক্লিক (klika), Malay:klik, Japanese:クリック (kurikku)  
 **klima** *climate* ← Greek:κλίμα (eklíma), Spanish:Portuguese:clima, Arabic:(ʾiqlīm), Malay:Turkish:iklim, English:climate, Russian:климат (klimat)  
 **klin** *slope (tilt, slant, bias, inclination, tendency)* ← English:-cline, French:-cliner, Portuguese:Spanish:-clinar, Russian:склонить (sklonit’)  
-**klon** *clone (replica)* ← en:Portuguese:French:clone, Spanish:clon Russian:клон (klon), Malay:klon, Japanese:クローン (kurōn)  
+**klon** *clone (replica)* ← English:Portuguese:French:clone, Spanish:clon Russian:клон (klon), deu:Malay:Turkish:klon, may:klon, Mandarin:克隆 (kèlóng), Japanese:クローン (kurōn)  
 **klor** *chlorine* ← English:chlorine, French:chlore, Spanish:cloro, Portuguese:cloro, Russian:хлор, Vietnamese:clo, Hindi:क्लोरीन, Bengali:ক্লোরিন, Malay:klor, Swahili:klorini, Arabic: كلور  
 **klube** *club* ← English:Spanish:French:club, Portuguese:clube, Russian:клуб, Turkish:kulüp, Swahili:klabu, Hindi:क्लब (klab), Malay:kelab, Mandarin:俱乐部 (jùlèbù), Japanese:クラブ (kurabu)  
 **klus** *close (shut)* ← English:French:Spanish:Portuguese:-clus-, Russian:ключить (-klyučítʹ)  
@@ -795,8 +798,8 @@
 **kran** *valve (tap, faucet)* ← ned:kraan, Russian:кран (kran), Polish:kran, Malay:keran  
 **kratia** *government (rule (reign, -ocracy, -archy)* ← English:-cracy, French:-cratie, Spanish:Portuguese:-cracia, Russian:-кратия (kratiya), Arabic:(-qratiya), Malay:Swahili:-krasi  
 **kree** *create* ← English:create, deu:kreieren, French:créer, Spanish:crear, Portuguese:criar + Malay:kreatif  
-**krem** *cream* ← French:crème, Portuguese:creme, Spanish:crema, English:cream, Japanese:クリーム (kurīmu)  
-**krepe** *pancake* ← French:English:crêpe, Portuguese:crepe, Spanish:crepa, Turkish:krep, Italian:crespella  
+**krem** *cream* ← French:crème, Portuguese:creme, Spanish:crema, English:cream, Japanese:クリーム (kurīmu), Mandarin:淇淋 (qílin)  
+**krepe** *pancake* ← French:English:crêpe, Portuguese:crepe, Spanish:crepa, Turkish:krep, Mandarin:可丽饼 (kělìbǐng)  
 **krikete** *cricket (sport)* ← English:deu:French:cricket, Spanish:críquet, Portuguese:críquete, Russian:крикет (kriket), Persian: کریکت‎ (kriket), Hindi:क्रिकेट (krikeṭ), Bengali:ক্রিকেট (krikeṭ), Japanese:クリケット (kuriketto), Korean:크리켓 (keuriket), Vietnamese:crích-kê, Malay:kriket, Swahili:kriketi, Arabic: كْرِيكِت‎ (krikit), Hausa:kur̃kèt  
 **krim** *crime* ← English:French:Portuguese:crime, Spanish:crimen, Filipino:krimen  
 **krita** *cry (shout)* ← English:cry, Spanish:Portuguese:gritar, French:crier, Russian:крича́ть (kričátʹ)  
@@ -806,7 +809,7 @@
 **krokro** *frog* ← English:croak, French:croa croa, Spanish:Portuguese:croac croac, Japanese:ケロケロ (kero kero), Malay:krok krok  
 **kromium** *chromium* ← English:chromium, French:chrome, Spanish:cromo, Portuguese:crómo, Russian:хром, Japanese:クロム, Korean:크로뮴, Vietnamese:crom, Hindi:क्रोमियम, Bengali:ক্রোমিয়াম, Malay:krom, Swahili:kromi, Arabic: كروم  
 **krote** *mole (burrowing animal)* ← Russian:крот (krot), Polish:kret  
-**kruasan** *croissant* ← French:English:croissant, Portuguese:croassã, Spanish:cruasán, Russian:круассан, Japanese:クロワッサン (kurowassan), Korean:크루아상 (keruasang), Hindi:क्रोइसैन (kroisain)  
+**kruasan** *croissant* ← French:English:croissant, Portuguese:croassã, Spanish:cruasán, Russian:круассан, Mandarin:可颂 (kěsòng), Japanese:クロワッサン (kurowassan), Korean:크루아상 (keruasang), Hindi:क्रोइसैन (kroisain)  
 **krus** *cross* ← English:cross, Portuguese:Spanish:cruz, deu:Kreuz, French:croix, Japanese:クロス (kurosu), Russian:крест (krest), Kongo:kuluzi, Hindi:क्रूश (krūś)  
 **kuan** *mineral (ore)* ← Mandarin:矿 (kuàng), Vietnamese:khoáng, Korean:광 (guang) + Persian: کان‎ (kân), Hindi:खान (khān), Bengali:খাদ (khad)  
 **kuarze** *quartz* ← deu:Quarz, English:French:quartz, Spanish:cuarzo, Russian:кварц (kvarc), Turkish:kuvars, Hindi:क्वार्ट्ज (kvārtj), Japanese:クオーツ (kuōtsu), Malay:kuarza  
@@ -836,7 +839,7 @@
 **labi** *lip* ← Spanish:labio, Portuguese:lábio, Persian:Urdu:(lab), Hindi:लब (lab), Filipino:labi  
 **lage** *lake* ← English:lake, Spanish:Portuguese:Italian:lago, French:lac  
 **lai** *come (arrive)* ← Mandarin:来 (lái), Cantonese:嚟 (lai4), Japanese:来 (rai), Vietnamese:lại  
-**laka** *lacquer (varnish)* ← English:lacquer, Spanish:Portuguese:laca, French:laque, Russian:лак (lak), Japanese:ラッカー  
+**lake** *lacquer (varnish)* ← English:lacquer, deu:Lack, Spanish:Portuguese:laca, French:laque, Russian:лак (lak), Malay:lak, Arabic: لَكّ‎ (lakk), Turkish:lake, Mandarin:蜡克 (làkè), Japanese:ラッカー (rakkā), Korean:래커 (raekeo)  
 **lala** *lull* ← English:lull, Polish:lulać, Persian: لالا کردن‎ (lâlâ kardan) + Japanese:ララバイ (rarabai), Filipino:lalay + Swahili:-lala  
 **lampa** *lamp* ← English:lamp, deu:French:lampe, Spanish:lámpara, Portuguese:lâmpada, Russian:лампа (lampa), Arabic: لمبة‎(lamba), Japanese:ランプ (ranpu), Korean:램프 (raempeu), Hindi:लैंप (laimp), Bengali:ল্যাম্প (lyamp), Malay:lampu, Turkish:lamba  
 **langan** *banister (handrail)* ← Mandarin:栏杆 (lángān), Japanese:欄干 (rankan), Korean:난간 (nan-gan)  
@@ -888,7 +891,7 @@
 **loke** *place (location)* ← English:location, Spanish:lugar, French:localisation, + deu:Turkish:lokal, Polish:lokalny  
 **lona** *discussion (debate, discourse)* ← Mandarin:论 (lùn), Cantonese:論 (leo6), Korean:론 (ron), Japanese:論 (ron), Vietnamese:luận  
 **long** *long (lengthy)* ← English:French:long, deu:lang, Portuguese:longo  
-**lote** *batch (lot)* ← Portuguese:Spanish:lote, English:French:lot  
+**lote** *lot* ← English:French:lot, deu:Los, Spanish:Portuguese:loteria, Russian:лотерея (lotereia), Persian: لاتاری‎ (lâtâri), Hindi:लॉटरी (lŏṭrī), Bengali:লটারি (lôṭari), Mandarin:乐透 (lètòu)  
 **lotra** *otter* ← English:otter + French:loutre, Spanish:Filipino:lutrino, Portuguese:lontra + Russian:выдра (vydra)  
 **lou** *leak* ← Mandarin:漏 (lòu), Cantonese:漏 (lau6), Japanese:漏 (rō), 루 (ru)  
 **luga** *green* ← Mandarin:绿 (lǜ), Cantonese:綠 (luk6), Vietnamese:lục, Korean:록/녹 (rok/nok), Japanese: 緑色 (ryokushoku)  
@@ -978,7 +981,7 @@
 **mide** *middle (the part in between)* ← English:mid; medium, deu:Mitte, Spanish:medio, Portuguese:meio, Hindi:मध्य (madhya), Bengali:মধ্য (môddh), Tamil:மத்தியம் (mattiyam) + French:médias, Russian:медиа (media), Mandarin:媒体 (méitǐ), Japanese:メディア (media), Korean:미디어 (midieo), Turkish:medya  
 **mien** *noodle* ← Mandarin:面 (miàn), Cantonese:麵 (min6), Japanese:麺 (men), Korean:면 (myeon), Vietnamese:mì; miến, Malay:mie, Thai:หมี่ (mii), Khmer:មី (mi)  
 **migre** *migration (moving)* ← French:English:migration, Spanish:migración, Portuguese:migração, Russian:миграция (migratsiya)  
-**mikro** *tiny (microscopic, micro-)* ← English:French:Spanish:Portuguese:micro-, Russian:микро- (mikro-), Japanese:マイクロ- (maikuro-), Malay:Turkish:mikr-  
+**mikro** *tiny (microscopic, micro-)* ← English:French:Spanish:Portuguese:micro-, Russian:микро- (mikro-), Japanese:マイクロ- (maikuro-), Malay:Turkish:mikr-, Mandarin:麦克 (mâikè)  
 **milke** *milk* ← English:milk, deu:Milch, Japanese:ミルク  (miruku), Korean:밀크 (milkeu), Lingala:míliki, Russian:молоко (moloko)  
 **mime** *mimic (imitate, emulate)* ← English:French:mime, Spanish:Portuguese:mímico, Russian:мим (mim)  
 **min** *less* ← Spanish:Portuguese:menos, French:moins, Russian:ме́нее (méneje), English:min-  

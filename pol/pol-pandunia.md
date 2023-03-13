@@ -564,6 +564,9 @@
  - long dure  
  - long durike  
  - long kata  
+ - lotation  
+ - lote  
+ - lote tikete  
  - lume  
  - lumen  
  - luna keke  
@@ -589,7 +592,7 @@
  - mantra  
  - Marakux  
  - marce  
- - masaje  
+ - mase  
  - master de arte (MA)  
  - master de engenia (ME)  
  - master de filsofia (MF)  
@@ -618,6 +621,7 @@
  - metri gi  
  - midaje  
  - midia  
+ - mikrofone  
  - Mimas  
  - mime  
  - mimen su  
@@ -1294,7 +1298,7 @@ Ameryka Północna - Norde Amerika
 Amerykańska Samoa - Amerikan Samoa  
 amerykański - Amerikan  
 Amhara, amharski - Amara  
-amper - amper  
+amper - ampe  
 ampułka - ampul  
 analgezja - algesia  
 analizować (analiza) - fen lize  
@@ -1444,9 +1448,11 @@ bibliotekarz - kitabe minister
 biec (biegać, pędzić) - kore  
 biedny, mizerny - miskin  
 bieżący (aktualny, obecny) - zai zaman di  
+bikini - bikini  
 bilet - tikete  
 bilet powrotny - retro tikete  
 bilion, giga- - giga  
+bingo - bingo  
 biologia (nauka o życiu) - biologia  
 biom - biosistem  
 biromantyczny - du romanse di  
@@ -1739,7 +1745,7 @@ dolar - dolar
 dolina - vali  
 dom, mieszkanie - dom  
 Dominika (Wspólnota Dominiki) - Dominika  
-domino - domino geme  
+domino - domino  
 domowy - dom di  
 doradca (mentor) - mentor  
 dorosły, dojrzały - ceng  
@@ -2378,7 +2384,6 @@ klescz (roztocze) - akare
 klimat - klima  
 klimatologia - klimalogia  
 klon, replika - klon  
-klonować, repilikować - klone  
 klub - klube  
 klucz - cavi  
 kluska, knedel, pieróg; ravioli, pelmeni - mantu  
@@ -2564,7 +2569,7 @@ kąt prosty - orto gona
 kłuć (żądlić) - fa pin  
 kłódka - pende sor  
 L - L  
-lakier - laka  
+lakier - lake  
 lalka, kukiełka, pacynka, marionetka - pupe  
 lama - lama  
 lama - liama  
@@ -4556,7 +4561,6 @@ wrzesień - mes luka
 wrócić, wracać, wycofać się, wycofywać się - be retro  
 wróg (nieprzyjaciel) - andoste  
 wróżka - pari  
-wsad, partia, porcja, seria - lote  
 wschodni - dong di  
 wschód - dong  
 wskazać, wskazywać - dike  

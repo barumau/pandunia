@@ -136,7 +136,7 @@ amirer - emir
 amir haki -   
 amiria - emirat  
 amir lin -   
-amper - amper  
+ampe - amper  
 ampul - ampułka  
 an- - negatywny (przeciwny, nie)  
 ananas - ananans  
@@ -529,6 +529,7 @@ Biblia - Biblia
 Biblia di -   
 bibre - bóbr  
 bici -   
+bikini - bikini  
 biku -   
 biku sanga -   
 bil - móc, umieć, możliwy, prawdopodobnie  
@@ -543,6 +544,7 @@ bine - zbudować, budować, konstruować
 bine plan - architektura  
 bine planer - architekt  
 bindu - punkt  
+bingo - bingo  
 bir - piwo  
 birkan - bar, knajpa  
 Bisau Ginia - Guinea Bissau  
@@ -929,7 +931,7 @@ domize - dać mieszkanie (zakwaterować)
 dom zeze - mucha  
 Dominika - Dominika (Wspólnota Dominiki)  
 Dominika Vakilkratia - Republika Dominikańska (Dominikana)  
-domino geme - domino  
+domino - domino  
 don - dać, dawać  
 • redon -   
 don tabi -   
@@ -2362,7 +2364,6 @@ klimalogia - klimatologia
 klima mute - zmiana klimatu  
 klin - tendencja (być skłonnym)  
 klon - klon, replika  
-klone - klonować, repilikować  
 klor - chlor  
 klube - klub  
 klus -   
@@ -2540,7 +2541,7 @@ labi - warga
 lage - jezioro  
 Lagos -   
 lai - przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać  
-laka - lakier  
+lake - lakier  
 lala - lulać  
 lala bede - kołyska (kolebka)  
 lala gani -   
@@ -2688,7 +2689,9 @@ long krokodil - krokodyl
 long pipre - pieprz długi  
 longta - długość  
 long tire - rozciągać (rozciągnąć)  
-lote - wsad, partia, porcja, seria  
+lote -   
+lotation -   
+lote tikete -   
 lotra - wydra  
 lou - przeciekać, ciec  
 lou sang - krwawić  
@@ -2804,11 +2807,11 @@ Maris - Mars
 marisden - wtorek  
 marke - znak (trop)  
 Marxal nesia - Wyspy Marshalla  
+mase -   
+masaje - masaż  
 masa - masa  
 masa mula - bulwa  
 masa mula sol hua - topinambur  
-masaje -   
-masaje - masaż  
 masala - przyprawa  
 masala tike - tikka masala  
 maske - maska, kamuflaż  
@@ -2950,6 +2953,7 @@ migre - migracja
 • inmigrer -   
 mikrobie - mikroorganizm  (mikrob)  
 mikrobiologia - mikrobiologia  
+mikrofone -   
 Mikronesia - Mikronezja  
 mikroskope - mikroskop  
 mili gram - miligram  

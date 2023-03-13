@@ -168,7 +168,7 @@ amirer - emiiri
 amir haki - käskyvalta  
 amiria - emiirikunta  
 amir lin - komentorivi  
-amper - ampeeri  
+ampe - ampeeri  
 ampul - ampulli  
 ananas - ananas  
 ancovi - sardelli (anjovis)  
@@ -551,6 +551,7 @@ Biblia - Raamattu
 Biblia di - raamatullinen  
 bibre - majava  
 bici - piiska (ruoska)  
+bikini - bikinit  
 biku - munkki tai nunna  
 biku sanga - munkki- tai nunnakunta  
 bil - voida (osata, pystyä, mahdollinen, ehkä)  
@@ -565,6 +566,7 @@ bine - rakentaa
 bine plan - arkkitehtuuri  
 bine planer - arkkitehti  
 bindu - täplä (läiskä)  
+bingo - bingo  
 bir - olut (kalja)  
 birkan - baari (kapakka)  
 Bisau Ginia - Guinea-Bissau  
@@ -929,7 +931,7 @@ domize - asuttaa
 dom zeze - kärpänen  
 Dominika - Dominika  
 Dominika Vakilkratia - Dominikaaninen Tasavalta  
-domino geme - dominopeli  
+domino - dominopeli  
 don - antaa  
 • redon - palauttaa (antaa takaisin)  
 don tabi - antelias (avokätinen)  
@@ -2245,7 +2247,6 @@ klimalogia - ilmastotiede (klimatologia)
 klima mute - ilmastonmuutos  
 klin - taipumus  
 klon - klooni (identtinen kopio)  
-klone - kloonata (monistaa)  
 klor - kloori  
 klube - kerho (klubi)  
 klus - sulkea  
@@ -2401,7 +2402,7 @@ laba - torvi (torvisoitin)
 labi - huuli  
 Lagos - Lagos  
 lai - tulla (saapua)  
-laka - lakka  
+lake - lakka  
 lala - tuudittaa  
 lala bede - kehto  
 lala gani - tuutulaulu  
@@ -2523,7 +2524,9 @@ longife - pidentää
 long kata - romaani  
 long pipre - pitkäpippuri  
 longta - pituus  
-lote - erä (satsi)  
+lote - arpa  
+lotation - arvonta (arpajaiset, lotto)  
+lote tikete - arpalippu  
 lou - vuotaa  
 lou sang - vuotaa verta  
 luga - vihreä  
@@ -2626,9 +2629,9 @@ Maris - Mars
 marisden - tiistai  
 marke - merkitä (merkki, jälki)  
 Marxal nesia - Marshall-saaret  
-masa - massa  
-masaje - vaivata (hieroa)  
+mase - vaivata (hieroa)  
 masaje - hieronta  
+masa - massa  
 masala - mauste  
 masala tike - tikka masala  
 maske - naamio (maski)  
@@ -2748,6 +2751,7 @@ migre - muutto (migraatio)
 • inmigrer - maahanmuuttaja  
 mikrobie - mikrobi  
 mikrobiologia - mikrobiologia  
+mikrofone - mikrofoni  
 Mikronesia - Mikronesia  
 mikroskope - mikroskooppi  
 mili - milli-  

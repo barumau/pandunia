@@ -49,6 +49,7 @@ amerikium - アメリシウム
 amide - アミド  
 amin - アミン  
 amir lin - コマンド行  
+ampe - アンペア  
 ananas - パイナップル  
 ancovi - アンチョビ  
 andesite - 安山岩  
@@ -200,6 +201,7 @@ biosistem - 生物群系
 biotoxe - 毒素  
 bibre - ビーバー  
 bici - 鞭  
+bikini - ビキニ   
 bil - できる (ありうる)  
 bilive - 有能 (上手)  
 bilor - 結晶  
@@ -207,6 +209,7 @@ bine - 建物 (建築物)
 bine - 建てる  
 bine plan - 建築学  
 bine planer - 建築家  
+bingo - ビンゴ  
 bir - ビール  
 biskute - ビスケット (クッキー)  
 bismute - ビスマス  
@@ -959,6 +962,7 @@ kutu - シラミ
 la - あの  
 lage - 湖  
 lai - 来る  
+lake - ラッカー  
 lala bede - 揺り籠  
 lala gani - 子守歌 (ララバイ)  
 lama - ラマ (チベット仏教の上師)  
@@ -1019,6 +1023,7 @@ long kata - 小説
 long krokodil - クロコダイル  
 long pipre - 畢撥  
 long tire - 伸びる (張る)  
+lotation - くじ  
 lotra - 獺  
 lou - 漏る  
 luga - 緑 (緑色)  

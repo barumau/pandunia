@@ -68,6 +68,7 @@ amen di - honesto (sincero)
 amerikium - amerício  
 amide - amida  
 amin - amina  
+ampe - ampere  
 ananas - ananás (abacaxi)  
 ancovi - anchova  
 andesite - andesito  
@@ -248,6 +249,7 @@ bio sana xe - composto
 biosistem - bioma  
 biotoxe - toxina  
 bici - chicote  
+bikini - biquíni  
 biku - monje ou monja  
 bil - possível  
 bil es - talvez  
@@ -257,6 +259,7 @@ bilor - cristal
 bine - construir  
 bine plan - arquitetura  
 bine planer - arquiteto  
+bingo - bingo  
 bir - cerveja  
 biskute - biscoito  
 bismute - bismuto  
@@ -966,6 +969,7 @@ klar - claro
 klien - cliente  
 klima mute - mudança climática  
 klin - tendência  
+klon - clone  
 klor - cloro  
 • inkluse - incluir  
 koala - coala  
@@ -1039,6 +1043,7 @@ la - o (a)
 labi - lábio  
 lage - lago  
 lai - vir  
+lake - laca  
 lala bede - berço  
 lala gani - canção de ninar  
 lama - lama  
@@ -1113,6 +1118,8 @@ long durike - prolongado
 long kata - romance  
 long krokodil - crocodilo  
 long tire - estirar  
+lotation - loteria  
+lote tikete - bilhete de loteria  
 lotra - lontra  
 lou - vazar  
 luga - verde  

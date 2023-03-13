@@ -11,6 +11,9 @@ fata_lista_pandunia_X() {
     sed 's/#[A-Z] -/#/g' -i $lexilista
     #Delete empty translations
     sed -i '/-...$/d' $lexilista
+	
+	kitaba_Tiddly $2
+	
     #kitaba la name i la preloge
     headername="$2/pandunia-$2.preloge.txt"
     if test -f "$headername"; then
@@ -260,7 +263,7 @@ fata_lista 6 eng English
 trabaxa_lexi_asal_to_english
 
 #Tiddly dictionary
-kitaba_Tiddly eng
+#kitaba_Tiddly eng
 
 # esperanto i pandunia
 fata_lista 26 epo esperanto
@@ -274,7 +277,7 @@ trabaxa_lexi_asal_to_suomi
 fata_lista 28 pol polski
 
 # Tiddly polski i pandunia
-kitaba_Tiddly pol
+#kitaba_Tiddly pol
 
 # putonghan i pandunia
 fata_lista 21 zho "putong han"

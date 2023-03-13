@@ -252,6 +252,7 @@ bio sana xe - компост
 biosistem - биом  
 biotoxe - токсин  
 bibre - бобр  
+bikini - бикини  
 bil - возможный  
 bil es - может быть  
 bil ki - может быть  
@@ -260,6 +261,7 @@ bine - строение
 bine - строить  
 bine plan - архитектура  
 bine planer - архитектор  
+bingo - бинго  
 bir - пиво  
 biskute - печенье (бисквит)  
 bismute - висмут  
@@ -1019,6 +1021,7 @@ klien - клиент (покупатель, зака́зчик)
 klima - климат  
 klima mute - изменение климата  
 klin - тенденция (склонить)  
+klon - клон  
 klor - хлор  
 • inkluse - включить  
 koala - коала  
@@ -1090,6 +1093,7 @@ kutu - вошь
 ## L  
 
 lai - приходить  
+lake - лак  
 lala bede - колыбель (люлька)  
 lala gani - колыбельная песня  
 lama - лама (религиозный учитель в тибетском буддизме)  
@@ -1159,6 +1163,9 @@ long durike - долгий (длительный)
 long kata - роман  
 long pipre - перец длинный  
 long tire - вытянуть  
+lote - жребий  
+lotation - лотерея  
+lote tikete - лотерейный билет  
 lotra - выдра  
 lou - протекать (просочиться)  
 luga - зелёный  
