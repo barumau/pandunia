@@ -50,7 +50,6 @@ De nombreuses personnes sont déjà intéressées par le pandunia et certaines l
 - Les amis du Pandunia sur [Facebook](http://www.facebook.com/groups/pandunia)
 - Trouvez d'autres locuteurs du Pandunia avec l'appli [Amikumu](https://amikumu.com/)
 - QQ channel: 717549404
-- Et vous pouvez suivre l'actualité du pandunia sur [Twitter](https://twitter.com/pandunia_). Diffusez l’info !
 - Vous pouvez aider à [traduire ce site](tarja_netoloke.md)
 
 ![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")

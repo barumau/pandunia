@@ -37,6 +37,5 @@ Multe personas jam se occupa de Pandunia e lo parla. Vos pote trovar forumos pro
   [in Pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
 - [canales in Discord](https://discord.gg/FWavWeG)
 - canal de QQ: 717549404
-- Vos pote sequer Pandunia etiam in [Twitter](https://twitter.com/pandunia_). Informa vostre amicos!
 
 ![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")

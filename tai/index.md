@@ -38,7 +38,6 @@ hide:
 - ช่อง [Discord](https://discord.gg/FWavWeG)
 - แอป [Amikumu](https://amikumu.com/) por trovi parolantojn
 - QQ: 717549404
-- [Twitter](https://twitter.com/pandunia_)
 - [Pandunia Vikio](http://eo.pandunia.wikia.com/wiki/%C4%88efpa%C4%9Do)
 
 ![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")

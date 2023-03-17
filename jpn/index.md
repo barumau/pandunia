@@ -49,7 +49,6 @@ hide:
 - そのほかのパンドゥニア話者を見つけるには [Amikumu](https://amikumu.com/) アプリで!
 - [Discordのチャンネル](https://discord.gg/FWavWeG)
 - QQ channel: 717549404
-- [Twitter](https://twitter.com/pandunia_) の公式アカウントもフォロー出来ます。
   言葉を広める!
 <!-- - このサイトの翻訳を[手伝ってください。](tarja_netoloke.md) -->
 

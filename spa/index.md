@@ -67,7 +67,6 @@ Puedes encontrarles en varios lugares de internet:
 - Debates en [Reddit](https://www.reddit.com/r/pandunia/)
 - [Grupo de Facebook](http://www.facebook.com/groups/pandunia)
 - Canal QQ: 717549404
-- Sigue a pandunia en [Twitter](https://twitter.com/pandunia_).
 
 ![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")  
 <small>Imagen por [Freepik](http://www.freepik.com)</small>

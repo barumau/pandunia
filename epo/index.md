@@ -46,7 +46,6 @@ Homoj jam interesiĝas pri pandunio. Vi povas renkonti ilin ĉi tie:
 - Debatejo en [Reddit](https://www.reddit.com/r/pandunia/)
 - [Telefon-programo Amikumu](https://amikumu.com/) por trovi parolantojn
 - Kanalo QQ: 717549404
-- [Twitter](https://twitter.com/pandunia_).
 
 ![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimon basha pandunia!")  
 <small>Bildo de [Freepik](http://www.freepik.com)</small>

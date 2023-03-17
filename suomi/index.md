@@ -69,7 +69,6 @@ eikä kielioppia ole pakko opiskella.
 |----------|---------|---------|
 | Discord  | [pandunia deha](https://discord.gg/jf5GHcHXKk) | Monipuolinen keskustelupalvelin! |
 | Reddit   | [r/pandunia](https://www.reddit.com/r/pandunia/) | Uutisia ja keskustelua panduniaksi ja englanniksi. |
-| Twitter  | [pandunia_](https://twitter.com/pandunia_) | Uutisia. |
 | Facebook | [Tekokielet-ryhmä](http://www.facebook.com/groups/tekokielet) | Suomenkielinen ryhmä tekokielistä yleensä. |
 | Facebook | [Pandunia-ryhmä](http://www.facebook.com/groups/pandunia) | Keskustelua eri kielillä. |
 | Telegram | [mimen baxa pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) | Harjoittelu. Täällä puhutaan vain panduniaa! |

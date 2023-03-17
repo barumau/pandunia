@@ -72,7 +72,6 @@ You can find Pandunia forums in several places:
 | Platform | Channel | Purpose |
 |----------|---------|---------|
 | Reddit   | [r/pandunia](https://www.reddit.com/r/pandunia/) | News and discussion |
-| Twitter  | [pandunia_](https://twitter.com/pandunia_) | News |
 | Facebook | [Pandunia group](http://www.facebook.com/groups/pandunia) | Discussion |
 | Discord  | [Dedicated Pandunia server](https://discord.gg/jf5GHcHXKk) | Everything |
 | Telegram | [multilingual channel](https://t.me/pandunia_grupe) | Discussion |
