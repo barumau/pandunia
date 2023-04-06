@@ -91,22 +91,21 @@ agronomia - agronomy
 agristan - countryside  
 agristanike - rural (rustic)  
 aha - realize (understand; aha)  
-aha - realize (understand)  
 air - air  
 airobiike - aerobic  
 • anairobiike - anaerobic  
 air ordu - airforce  
 air porto - airport (aeroport)  
 air prese - atmospheric pressure  
-air prese metri gi - barometer  
+air prese metrer - barometer  
 ais - ice  
-ais di - icy  
 ais hoki - ice hockey  
+aisike - icy  
 ais krem - ice cream  
 ais xarbe - sherbet  
+ajabe - wonder (awe, marvel)  
 ajabife - amaze  
-ajabu - wonder (awe, marvel)  
-ajabu di - amazing (astonishing)  
+ajabike - amazing (astonishing)  
 akare - tick (mite)  
 akasia - acacia  
 akrabe - scorpion (Scorpio)  
@@ -201,7 +200,7 @@ Antartika - Antarctica
 Antartika Bahai - Antarctic Ocean  
 antena - antenna (aerial)  
 Antigua - Antigua  
-Antigua i Barbuda - Antigua and Barbuda  
+Antigua e Barbuda - Antigua and Barbuda  
 anus - anus  
 anusal - anal  
 aple - apple  
@@ -234,9 +233,9 @@ arke suta - archery
 aroma - scent (odor, fragrance, aroma)  
 aroma melon - Korean melon  
 arsenium - arsenic  
-arte baxa - artistic language (artlang)  
+arte baxe - artistic language (artlang)  
 arte fete - artifact (artefact)  
-arte fete baxa - artificial language (conlang)  
+arte fete baxe - artificial language (conlang)  
 arte fete di - artificial  
 arte fete intelige (AI) - artificial intelligence (AI)  
 artiste - artist  
@@ -299,6 +298,7 @@ aute - self (identity)
 autatike - automatic  
 auter - author (auteur, independent actor)  
 autife - personalize (customize)  
+autike - selfish  
 autokratia - autocracy (monarchy)  
 automotike - self-moving (automotive, automobile)  
 autonomia - autonomy  
@@ -384,7 +384,7 @@ bandaje - bandage
 banda - band (squad, group)  
 bandera - flag (banner)  
 bang - club (bat, mace, baton)  
-bangla baxa - Bengali language (Bangla)  
+bangla baxe - Bengali language (Bangla)  
 Bangla gogia - Bangladesh  
 banke - save (deposit, bank)  
 banker - banker  
@@ -519,9 +519,8 @@ be vanu - enjoy (play)
 be vide - be seen  
 be xuru - begin (get started)  
 be zai - appear  
+bebe katil - crib (cot)  
 bebe - baby (infant)  
-bebe bede - crib  
-bede - bed  
 bedingan - eggplant (aubergine, brinjal)  
 bega - escape (flee, run away)  
 behe - goat  
@@ -647,8 +646,8 @@ budisme - Buddhism
 budiste - Buddhist  
 buda - booth (cabin, stall, stand)  
 Budapexte - Budapest  
-bufete - buffet (smorgasbord)  
-buku - book  
+bufe - buffet (smorgasbord)  
+buke - book  
 bulbul - nightingale  
 bum - explosion (blast, eruption)  
 bure - office (bureau)  
@@ -714,6 +713,7 @@ ceng bede - bunk bed
 ceng fem - woman (adult female)  
 ceng jen - adult  
 ceng man - man (adult male)  
+cepe - catch (capture, take, seize)  
 • acepe - accept (get, receive)  
 • decepe - snatch (remove)  
 • excepe - except (take out; save)  
@@ -721,7 +721,6 @@ ceng man - man (adult male)
 • koncepe - conceive (take together; concept)  
 • recepe - take back  
 • receper - receiver (receptor)  
-cepe - catch (capture, take, seize)  
 Ceres - Ceres (dwarf planet)  
 ceresium - cerium  
 ceri - cherry  
@@ -816,7 +815,7 @@ dalil - proof (evidence, proof, demonstration, testimony)
 dalil dokumen - certificate  
 dama geme - checkers (draughts)  
 dan - rank (grade, dan)  
-dana - particle (grain, bullet)  
+dane - particle (grain, bullet)  
 dana.cau - millet  
 dana sekur - bulletproof  
 dang - ring (toll, clang)  
@@ -1616,7 +1615,7 @@ geste - gesture
 gi - machine (device, aparatus)  
 Gibraltar - Gibraltar  
 gide - guide (lead, show the way)  
-gide buku - guide book  
+gide buke - guide book  
 gider - guide  
 ging - longitudinal (parallel, vertical)  
 ginge - ginger  
@@ -1666,7 +1665,7 @@ gradu medan - gradient (gradation, incline)
 gradu mute - development  
 grafe - draw  
 grafe - drawing (graph, image)  
-grafe buku - picture book  
+grafe buke - picture book  
 grafe cule - image processing  
 grafeme - pixel  
 grafer - illustrator (graphic artist)  
@@ -1873,7 +1872,7 @@ Hindocin - Indochina
 hindisme - Hinduism  
 hindiste - Hindu  
 hindium - indium  
-hinde raja - rajah  
+hinde reger - rajah  
 Hinde rivo - Indus river  
 hinde sos - chutney  
 Hindestan - Hindustan  
@@ -2233,13 +2232,13 @@ kanu - canoe
 kanun - law (rule, regulation)  
 kanun vala - lawyer  
 kanyon - canyon (ravine, gorge, gully)  
+kape - catch (capture, grab, seize, snatch)  
 kapa - head  
 kapa hin - headless  
 kapa kaska - helmet  
 kapa kexa - hair of the head  
 kapa kexa hin - bald-headed  
 kapa oste - skull  
-kape - catch (capture, seize, snatch, intercept)  
 kape truke - trap (snare)  
 kape yo kuanga - mine (extract minerals)  
 kape yo pexe - catch fish  
@@ -2292,7 +2291,7 @@ karnize - butcher
 karnizer - butcher  
 karnekan - abattoir (slaughterhouse)  
 Karnada - Karnataka  
-karnada baxa - Kannada  
+karnada baxe - Kannada  
 karote - carrot  
 karte - map (chart, geographic map)  
 kartografia - cartography  
@@ -2305,12 +2304,13 @@ kasete - cassette
 kaska - shell (crust, carapace, shield)  
 kastana - chestnut  
 Kastilia - Castil  
-kastilia baxa - Castilian (Spanish)  
+kastilia baxe - Castilian (Spanish)  
 kasu - event (case, instance)  
 kata - tale (story, legend, saga)  
 kata ja - narrator  
 Katalunia - Catalonia  
 katana - katana  
+katil - bed  
 katus - cactus  
 Kaukasia - Caucasia  
 kauri - cowrie  
@@ -2438,7 +2438,7 @@ koncaniste - communist
 kon forma - conform (fit, mold)  
 kon funsibil - compatible (supported)  
 kon hau - match (fit, suit, go well together)  
-kon helen baxa - Koine Greek  
+kon helen baxe - Koine Greek  
 konife - share  
 kon su - common (mutual)  
 kontra - go against  
@@ -2654,7 +2654,7 @@ lide - lead (direct)
 lider - leader (director)  
 lide line - leash (rein)  
 Lietuva - Lithuania  
-lietuva baxa - Lithuanian  
+lietuva baxe - Lithuanian  
 lifafe - wrap  
 lifafa - wrapping (envelope, covering)  
 lige - associate  
@@ -2707,7 +2707,7 @@ logive - talkative
 loga - register (record, log)  
 • exloga - log out (log off)  
 • inloga - log in (sign in)  
-loga buku - logbook  
+loga buke - logbook  
 loke - place (location)  
 lokal - local  
 lokize - put (place, set)  
@@ -3120,6 +3120,7 @@ mun - door (gate, portal)
 mungus - mongoose  
 mur - wall (structure for delimitation)  
 mur kaguze - wallpaper  
+muringa - moringa (drumstick tree, horseradish tree)  
 Muritania - Mauritania  
 murmeke - ant  
 murmekofite - myrmecophyte  
@@ -3330,7 +3331,7 @@ Norde Kipris - Northen Cyprus
 Norde Makedonia - Republic of North Macedonia  
 Norfolke nese - Norfolk Island  
 Norge - Norway  
-norge baxa - Norwegian language  
+norge baxe - Norwegian language  
 norma - norm (standard)  
 • paranormali - paranormal  
 norma di - normal  
@@ -3338,11 +3339,11 @@ nos - nose
 nos di - nasal  
 nostalgia - nostalgia (longing)  
 nostalgike - nostalgic  
-notize - notify  
 note - note (observe, notice)  
+notaje - note (observation, remark, comment)  
 note angil - notice (notification)  
-note buku - notebook  
-note xe - note (observation, remark, comment)  
+note buke - notebook  
+notize - notify  
 • renove - renew (make new, renovate)  
 nu - well (now; used to introduce a statement)  
 nude - naked (bare, nude)  
@@ -3382,8 +3383,8 @@ orange rang - orange (orange-colored)
 ordu - army  
 ordu jen - soldier  
 ordu jen kan - barracks  
-ordu rajia - shogunate  
-ordu raja - generalissimo (shogun)  
+ordu reger - generalissimo (shogun)  
+ordu regia - shogunate  
 ore - ear  
 ore tis - otitis  
 orgazme - orgasm  
@@ -3483,6 +3484,7 @@ panjabi - Punjabi
 panka - wing  
 pankreas - pancreas  
 pante - pants (trousers)  
+pantete - panties (knickers)  
 papagai - parrot (parakeet)  
 papaya - papaya  
 papir - document (paper)  
@@ -3631,9 +3633,10 @@ pipinger - critic
 pipre - pepper (peppercorn)  
 pipre minta - peppermint  
 piram - pyramid  
-pirater - pirate (sea robber)  
+pirate - hijack  
+pirater - pirate (corsair, sea robber)  
 pirateria - piracy  
-piratisme - pirate (one who disobeys intellectual property laws)  
+piratiste - pirate (one who disobeys intellectual property laws)  
 pirate partia - Pirate Party  
 pisea - spruce tree  
 pistol - pistol  
@@ -3670,12 +3673,12 @@ Pluton - Pluto (dwarf planet)
 plutonium - plutonium  
 poke - poker  
 poli - many (much, more than one)  
-poli baxa di - multilingual  
+polibaxike - multilingual  
 polideisme - polytheism  
 poli fase - polyhedron  
 poli gona - polygon  
-poli kultur di - multicultural  
-poli kultur sim - multiculturalism  
+polikultural - multicultural  
+polikulturisme - multiculturalism  
 poli marta - frequency  
 poli nasi di - multinational  
 Polinesia - Polynesia  
@@ -3693,7 +3696,7 @@ politi lona - politics (political discourse)
 politi mode - regime  
 polskium - polonium  
 Polska - Poland  
-polska baxa - Polish language  
+polska baxe - Polish language  
 pompe - pump  
 pompe tape - piston  
 pope - people (folk, population)  
@@ -3715,7 +3718,7 @@ porto - port (station)
 Portoriko - Puerto Rico  
 portoriko jen - Puerto Rican  
 Portugal - Portugal  
-portugal baxa - Portuguese language  
+portugal baxe - Portuguese language  
 pos - consequence (back, follow-up)  
 pos den - tomorrow  
 posfixe - suffix  
@@ -3993,6 +3996,7 @@ sal xam - good evening
 sal yam - bon appetit!  
 salam - greet  
 salam - salaam  
+salateria - sanatorium (sanitarium)  
 salta - well-being (prosperity)  
 sala - hall (big room)  
 salade - salad  
@@ -4025,7 +4029,6 @@ samarium - samarium
 Samoa - Samoa  
 san - know as a fact (be aware of)  
 • ansan di - strange (unknown)  
-sanateria - sanatorium (sanitarium)  
 san logia - epistemology  
 san vol - interest (curiosity)  
 san vol di - interesting (curious)  
@@ -4037,14 +4040,14 @@ sanga - order (group with common interests, -hood)
 sante - holy (sacred)  
 Sante Helena - Saint Helena  
 sante kanon - holy writ (sacred writings)  
-Sante Kitse - Saint Kitts  
-Sante Kitse i Nevis - Saint Kitts and Nevis  
+Sante Kristofor - Saint Kitts  
+Sante Kristofor e Nevis - Saint Kitts and Nevis  
 Sante Lucia - Saint Lucia  
 Sante Marino - San Marino  
 Sante Paulo - Sao Paulo  
-Sante Tome i Principe - Sao Tome and Principe  
+Sante Tome e Principe - Sao Tome and Principe  
 Sante Vincente - Saint Vincent  
-Sante Vincente i Grenadin - Saint Vincent and Grenadines  
+Sante Vincente e Grenadin - Saint Vincent and Grenadines  
 sanzi - fan (ventilator)  
 sapatu - shoe  
 sapatu ja - shoemaker  
@@ -4059,9 +4062,8 @@ sau son - nephew
 Saudi Arabi - Saudi Arabia  
 sauna - sauna  
 saur - lizard  
-saya - shadow  
+saye - shadow  
 se - self (reflexive pronoun)  
-se di - selfish  
 semen - each other (one another, mutually)  
 semen su - mutual (each other’s)  
 se su - own  
@@ -4085,9 +4087,9 @@ semoforer - semaphore
 • polisemike - ambiguous (polysemous)  
 • unsemike - unambiguous  
 semologia - semantics  
-seme - seed (semen)  
-seme dana - seed (fertilized grain)  
-seme di - seminal  
+semen - seed (semen)  
+semenal - seminal  
+semen dane - seed (fertilized grain)  
 semente - cement  
 sen - older (elder, senior, superior)  
 senater - senator  
@@ -4329,7 +4331,7 @@ table - slab (slate, tablet, board)
 table komputa - tablette computer  
 table yo data - tabulate  
 tai - stage (platform, pedestal, podium)  
-Tai baxa - Thai language  
+Tai baxe - Thai language  
 Tai Dexa - Thailand  
 Taibei - Taipei  
 taiga - taiga  
@@ -4520,7 +4522,7 @@ trigonometria - trigonometry
 trime - third (3rd)  
 tri pike - trident  
 triple - triple (threefold)  
-Trinidade i Tobago - Trinidad and Tobago  
+Trinita e Tobago - Trinidad and Tobago  
 Triton - Triton  
 truke - trick (ruse, fraud)  
 tu - you (singular)  

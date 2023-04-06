@@ -31,7 +31,7 @@ air porto - aeroporto
 ais hoki - hóquei no gelo  
 ais krem - sorvete (gelado)  
 ais xarbe - sorvete  
-ajabu - maravilha  
+ajabe - maravilha  
 akare - carrapato (ácaros)  
 akrabe - escorpião (lacrau)  
 ale - outro  
@@ -231,7 +231,6 @@ be retro - voltar (regressar)
 be sona - dormir  
 be vai - sair  
 bebe - bebê  
-bede - cama (leito)  
 bedingan - beringela  
 bei - socio  
 belca - pá  
@@ -288,7 +287,7 @@ bude - despertar
 Bude - Buda  
 budike - acordado  
 buda - cabine  
-buku - livro  
+buke - livro  
 bulbul - rouxinol  
 bum - explosão  
 bure - escritório (birô)  
@@ -736,7 +735,7 @@ hima - neve
 hin - sem  
 Hindocin - Indochina  
 hindium - índio  
-hinde raja - rajá  
+hinde reger - rajá  
 Hinde rivo - Indo  
 hinde sos - chetnim  
 hipoglukohemia - hipoglicemia  
@@ -887,6 +886,7 @@ Kantalupo a Sabina - Cantalupo in Sabina
 kantalupo melon - meloa (cantalupo)  
 kanu - canoa  
 kanyon - canhão (ravina, barranco)  
+kape - capturar (agarrar)  
 kapa - cabeça  
 kapa hin - acéfalo  
 kapa kexa - cabelo  
@@ -928,7 +928,8 @@ karta - carta
 karuba - alfarroba  
 kaska - casca (concha)  
 Kastilia - Castela  
-kastilia baxa - castelhano  
+kastilia baxe - castelhano  
+katil - cama (leito)  
 katus - cacto  
 kauri - búzio  
 kave - cavar (escavar)  
@@ -981,7 +982,7 @@ komodia - comédia
 koma - vírgula  
 kon - com (comum)  
 kon hau - combinar com  
-kon helen baxa - koiné  
+kon helen baxe - koiné  
 kon trati - pacto  
 konun - comum  
 kone - cono  
@@ -1108,7 +1109,7 @@ livermorium - livermório
 lixu - esquilo  
 • duologia - bilogia  
 loga - registro  
-loga buku - diário de bordo  
+loga buke - diário de bordo  
 loke - lugar (local)  
 lokal - local  
 lokize - colocar (pôr)  
@@ -1288,6 +1289,7 @@ mudan - peônia
 mula - raíz  
 mur - muro (muralha)  
 mur kaguze - papel de parede  
+muringa - moringa  
 Muritania - Mauritânia  
 murmeke - formiga  
 murmeke kume - formigueiro  
@@ -1387,7 +1389,7 @@ Noe di nave - arca de Noé
 nome - organizar  
 norde - norte  
 nostalgia - nostalgia (saudade)  
-note xe - nota  
+notaje - nota  
 nuka - pescoço (nuca, gargalo)  
 nume - número  
 numerike - digital  
@@ -1411,7 +1413,7 @@ orange rang - alaranjado
 ordu - exército  
 ordu jen - soldado  
 ordu jen kan - quartel  
-ordu raja - generalíssimo  
+ordu reger - generalíssimo  
 ore - orelha  
 ore tis - otite  
 orkide - orquídea  
@@ -1453,6 +1455,7 @@ panir - queijo fresco
 panka - asa  
 pankreas - pâncreas  
 pante - calças  
+pantete - calcinha  
 papagai - papagaio  
 papaya - mamão (papaia)  
 par - igual (par)  
@@ -1542,7 +1545,7 @@ plate geo kaskelogia - tectónica de placas
 platin - platina  
 plumbe - chumbo  
 plutonium - plutónio  
-poli baxa di - multilíngue (plurilíngue)  
+polibaxike - multilíngue (plurilíngue)  
 Polinesia - Polinésia  
 polipli - múltiplos  
 polite - governo  
@@ -1669,6 +1672,7 @@ sah diker - relógio
 sahi - correto (justo)  
 sake - saco  
 sale - saudável (saudio)  
+salateria - sanatório  
 salta - bem-estar  
 sala - salão  
 saludo - saúde  
@@ -1686,7 +1690,6 @@ sam sifa xe - simulação
 sama - céu  
 samarium - samário  
 san - saber  
-sanateria - sanatório  
 san logia - epistemologia  
 san vol ja - inquisitivo  
 sanduice - sanduíche  
@@ -1708,8 +1711,8 @@ selenium - selénio
 selu logia - citologia  
 seme - significar (querer dizer)  
 semologia - semântica  
-seme - semente  
-seme di - seminal  
+semen - semente  
+semenal - seminal  
 sen - sênior  
 senater - senador  
 sen bra - irmão mais velho  

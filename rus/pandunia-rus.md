@@ -228,9 +228,8 @@ be sabe vol - задуматься (думать, гадать)
 be sona - спать  
 be tele loka - телепортировать  
 be turbe - утруждай  
+bebe katil - детская кроватка  
 bebe - младенец  
-bebe bede - детская кроватка  
-bede - кровать (койка)  
 bedingan - баклажан  
 bei - товарищ  
 belca - лопата  
@@ -293,8 +292,8 @@ bubu - бука
 bude - проснуться  
 Bude - Будда  
 buda - будка (кабина)  
-bufete - буфет  
-buku - книга  
+bufe - буфет  
+buke - книга  
 bulbul - соловей  
 bum - взрыв  
 bure - контора (бюро, офис)  
@@ -676,7 +675,7 @@ gensal - генеральный
 gensologia - гендерные исследования  
 geo nice jela - ублиет (подземная тюрьма)  
 germanium - германий  
-gide buku - путеводитель  
+gide buke - путеводитель  
 gider - гид  
 ging - параллельный  
 ginge - имбирь  
@@ -787,7 +786,7 @@ hijabu - вуаль
 hin - без  
 Hindocin - Индокитай  
 hindium - индий  
-hinde raja - раджа  
+hinde reger - раджа  
 Hinde rivo - Инд  
 hinde sos - чатни  
 Hindestan - Индостан  
@@ -978,8 +977,9 @@ karta - карта
 karuba - рожковое дерево  
 kaska - оболочка (кора, панцирь)  
 Kastilia - Кастилия  
-kastilia baxa - кастильский язык  
+kastilia baxe - кастильский язык  
 katana - катана  
+katil - кровать (койка)  
 katus - кактус  
 kauri - каури  
 kave - копать (яма)  
@@ -1032,7 +1032,7 @@ komike - комический (смешной)
 komodia - комедия  
 kon forma - применяться (согласоваться)  
 kon hau - соответствовать (сочетаться)  
-kon helen baxa - койне  
+kon helen baxe - койне  
 kon trati - контракт  
 kone - конус  
 konserte - концерт  
@@ -1154,7 +1154,7 @@ livermorium - ливерморий
 lixu - белка  
 loge - сказать  
 loga - запись  
-loga buku - судовой журнал  
+loga buke - судовой журнал  
 loke - место  
 lokize - ставить  
 loke kode - координаты  
@@ -1426,7 +1426,7 @@ nomi - организация
 norde - север (норд)  
 • paranormali - паранормальный  
 nostalgia - ностальгия (тоска)  
-note xe - запись (заметка)  
+notaje - запись (заметка)  
 nu - ну  
 nuka - шея  
 nume - число  
@@ -1449,7 +1449,7 @@ orange rang - оранжевый
 ordu - армия  
 ordu jen - солдат  
 ordu jen kan - казарма (барак)  
-ordu raja - генералиссимус  
+ordu reger - генералиссимус  
 ore tis - отит  
 orkide - орхидея  
 orto - прямой  
@@ -1489,6 +1489,7 @@ panir - творог
 panka - крыло  
 pankreas - поджелудочная железа  
 pante - брюки  
+pantete - трусы  
 papagai - попугай  
 papaya - папайя  
 par - равный  
@@ -1574,7 +1575,7 @@ plate geiste - плоскоземелец
 platin - платина  
 plumbe - свинец  
 plutonium - плутоний  
-poli baxa di - многоязычный  
+polibaxike - многоязычный  
 Polinesia - Полинезия  
 politike - управляющий  
 polskium - полоний  
@@ -1703,6 +1704,7 @@ sagu - саго
 sah - час  
 sah diker - часы  
 sahi - правильный  
+salateria - санаторий (здравница)  
 salta - благосостояние  
 sala - зал  
 salu safta - гигиена  
@@ -1720,7 +1722,6 @@ sama kinar - горизонт
 sama nil - голубой  
 samarium - самарий  
 san - знать (ведать)  
-sanateria - санаторий (здравница)  
 san logia - эпистемология  
 san vol - интерес (любопытство)  
 san vol di - интересный  
@@ -1746,8 +1747,8 @@ selge - мангольд
 selu logia - цитология  
 semoforer - семафор  
 semologia - семантика  
-seme - семя  
-seme di - семенной  
+semen - семя  
+semenal - семенной  
 semente - цемент  
 senater - сенатор  
 sen bra - старший брат  

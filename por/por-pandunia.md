@@ -290,6 +290,7 @@ café - kafe
 café - kafekan  
 caju - kaju  
 cal - kalside  
+calcinha - pantete  
 calcita - kalsite  
 calcular - fa hisabu  
 calcário - kalsopetre  
@@ -298,7 +299,7 @@ califa - halife
 califórnio - kalifornium  
 calvo - kapa kexa hin  
 calças - pante  
-cama (leito) - bede  
+cama (leito) - katil  
 cama portátil - kampe bede  
 camarão (gamba) - gamba  
 camelo - gamel  
@@ -319,6 +320,7 @@ Cantalupo in Sabina - Kantalupo a Sabina
 canção de ninar - lala gani  
 capa - mantol  
 capa de chuva - barxa kote  
+capturar (agarrar) - kape  
 capô - moter cate  
 caqui (dióspiro) - kaki  
 caractere - zi  
@@ -354,7 +356,7 @@ cascalho - grave
 casinha de cachorro - vaf bute  
 castanho (marrom) - kafe rang  
 Castela - Kastilia  
-castelhano - kastilia baxa  
+castelhano - kastilia baxe  
 cavar (escavar) - kave  
 caçar - fa saide  
 cebola - piaze  
@@ -603,7 +605,7 @@ ditador - ditater
 ditadura - ditateria  
 ditar - ditate  
 diário - den logu  
-diário de bordo - loga buku  
+diário de bordo - loga buke  
 dióxido de carbono - karbe duoxide  
 dobro - duple  
 documento - dokumen  
@@ -846,7 +848,7 @@ gato-do-mato (gato-maracajá-mirim) - bagre oselote
 gato-maracajá - margai  
 gelar - be ais  
 genealogia - gene logu  
-generalíssimo - ordu raja  
+generalíssimo - ordu reger  
 generosidade - karim  
 generoso (dadivoso, mão-aberta) - don tabi  
 genitor - cin  
@@ -1026,7 +1028,7 @@ Júpiter - Muxin
 
 Kama Sutra - kama kanon  
 kelp - yepa alga  
-koiné - kon helen baxa  
+koiné - kon helen baxe  
 krípton - kriton  
 
 ## L  
@@ -1075,7 +1077,7 @@ literatura - kitabe suta
 litro - litre  
 livermório - livermorium  
 livre (forro) - hure  
-livro - buku  
+livro - buke  
 lixeira - lasa tong  
 lição - xulaje  
 lobo - volfe  
@@ -1144,7 +1146,7 @@ manteiga - bute
 manto - juba  
 mantra - mantra  
 mar - bahai  
-maravilha - ajabu  
+maravilha - ajabe  
 maravilha - mirebil  
 marcha - marce  
 margarida - margarita  
@@ -1244,6 +1246,7 @@ monóculo - unoke lense
 monólogo - autologe  
 morder - dante  
 morder - gate a dante  
+moringa - muringa  
 moscovio - moskvium  
 mosquito - moski  
 motivo - motive  
@@ -1254,7 +1257,7 @@ mudar-se - migre
 muesli - musli  
 muito - tre  
 multidão - jen jami  
-multilíngue (plurilíngue) - poli baxa di  
+multilíngue (plurilíngue) - polibaxike  
 multilíngue (plurilíngue) - polibaxike  
 mundo - dunia  
 mundo das fadas (paraíso) - paristan  
@@ -1315,7 +1318,7 @@ noitinha - xam
 norte - norde  
 nosso - mimen su  
 nostalgia (saudade) - nostalgia  
-nota - note xe  
+nota - notaje  
 novato (neófito) - neu jen  
 nove (9) - tisa  
 novidade - neu  
@@ -1629,7 +1632,7 @@ química - kimia
 rachadura - krake  
 racional - rational  
 radio - radio  
-rajá - hinde raja  
+rajá - hinde reger  
 ramen (miojo) - supa mien  
 raposa - huli  
 raramente - nadir mar  
@@ -1742,7 +1745,7 @@ salão - sala
 samambaia - parne  
 samba-canção - boce pante  
 samário - samarium  
-sanatório - sanateria  
+sanatório - salateria  
 sanduíche - sanduice  
 sangue - heme  
 sari - sari  
@@ -1767,8 +1770,8 @@ selva (floresta, jângal) - jangal
 selénio - selenium  
 sem - hin  
 sem nome - nam hin  
-semente - seme  
-seminal - seme di  
+semente - semen  
+seminal - semenal  
 semântica - semologia  
 senador - senater  
 sentido - sense  

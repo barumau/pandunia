@@ -35,12 +35,11 @@ agral - agrikultura
 agrokulture - agrikulturo  
 agronomia - agronomio  
 aha - ekkompreni (aha)  
-aha - kompreni  
 air - aero  
 air ordu - aerarmeo  
 air porto - flughaveno  
 ais - glacio  
-ais di - glacia  
+aisike - glacia  
 ais krem - glaciaĵo  
 ais xarbe - ŝorbeto  
 akasia - akacio  
@@ -97,7 +96,7 @@ Argentina - Argentino
 argon - argono  
 arke cati - volbo  
 arsenium - arseno  
-arte fete baxa - artefarita lingvo  
+arte fete baxe - artefarita lingvo  
 arte fete intelige (AI) - artefarita inteligenteco  
 artiste - artisto  
 arte saner - metiisto  
@@ -247,7 +246,6 @@ be sona - dormi
 be supra - superiri  
 be xuru - komenciĝi  
 bebe - bebo  
-bede - lito  
 bedingan - melongeno  
 bega - fuĝi  
 behe - kapro  
@@ -328,7 +326,7 @@ budike - konscia
 budion - kompreno  
 budisme - budhismo  
 budiste - budhisto  
-buku - libro  
+buke - libro  
 bulbul - najtingalo  
 bum - eksplodo  
 bus - buso  
@@ -365,9 +363,9 @@ ceng - matura (plenkreska)
 ceng fem - virino  
 ceng jen - plenaĝulo  
 ceng man - viro  
+cepe - kapti  
 • acepe - akcepti  
 • excepe - escepti (krom)  
-cepe - kapti  
 Ceres - Cereso  
 ceresium - cerio  
 • precese - antaŭi  
@@ -1057,10 +1055,10 @@ kanta - ŝultro
 kanu - kanuo (kanoto)  
 kanun - lego  
 kanun vala - advokato  
+kape - kapti  
 kapa hin - senkapa  
 kapa kaska - kasko  
 kapa kexa - kaphararo  
-kape - kapti  
 • konkar - kunlabori  
 • konkare - kunlabori  
 karer - laboristo  
@@ -1090,6 +1088,7 @@ karvan - karavano
 kastana - kaŝtano  
 kata - rakonto  
 Katalunia - Katalunio  
+katil - lito  
 katus - kaktuso  
 kave - fosi  
 kavai - ĉarma  
@@ -1152,7 +1151,7 @@ kon - kun (kuna, komuna)
 koncanisme - komunismo  
 koncaniste - komunisto  
 kon hau - kongrui  
-kon helen baxa - kojnea greka lingvo  
+kon helen baxe - kojnea greka lingvo  
 kon su - kuna  
 kontra - kontraŭi  
 konun - komuna  
@@ -1513,11 +1512,11 @@ Noe - Noa
 Noe di nave - Arkeo de Noa  
 norde - nordo  
 Norge - Norvegio  
-norge baxa - norvega  
+norge baxe - norvega  
 nostalgia - nostalgio (saudado)  
 note - rimarki  
-note buku - kajero  
-note xe - noto (rimarko, komento)  
+notaje - noto (rimarko, komento)  
+note buke - kajero  
 nu - nu  
 nume - nombro  
 numologer - matematikisto  
@@ -1540,7 +1539,7 @@ orange rang - oranĝa
 ordu - armeo  
 ordu jen - soldato  
 ordu jen kan - soldatejo (kazerno)  
-ordu raja - ĉefgeneralo  
+ordu reger - ĉefgeneralo  
 ore - orelo  
 ore tis - otito  
 orto - rekta  
@@ -1580,6 +1579,7 @@ panda - pando
 panka - flugilo  
 pankreas - pankreato  
 pante - pantalonoj  
+pantete - kalsoneto  
 papagai - papago  
 papaya - papajo  
 repare - ripari  
@@ -1665,7 +1665,7 @@ plumbe - plumbo
 plutonium - plutonio  
 poke - pokero  
 poli - multe  
-poli baxa di - multlingva  
+polibaxike - multlingva  
 poli gona - poligono  
 politike - politikisto  
 politi di - politika  
@@ -1831,7 +1831,7 @@ satelite - satelito
 sau - gefrato  
 sauna - saŭno  
 saur - lacerto  
-saya - ombro  
+saye - ombro  
 se - si  
 semen - unu la alian  
 semen su - reciproka  
@@ -1841,8 +1841,8 @@ selu - ĉelo
 selu logia - citologio  
 seme - signifi  
 semologia - semantiko  
-seme - semo  
-seme di - sema  
+semen - semo  
+semenal - sema  
 senater - senatano  
 sense - sentumo  
 senti - centono  
@@ -1944,7 +1944,7 @@ suxi - suŝio
 
 tabake - tabako  
 tabi - naturo  
-Tai baxa - tajlanda  
+Tai baxe - tajlanda  
 Tai Dexa - Tajlando  
 taiga - tajgo  
 talium - talio  

@@ -47,7 +47,7 @@
  - arhia  
  - Ariel  
  - arke cati  
- - arte baxa  
+ - arte baxe  
  - arte fete  
  - asle tipe  
  - astral  
@@ -64,6 +64,7 @@
  - autatike  
  - auter  
  - autife  
+ - autike  
  - avarike  
  - avarize  
  - ave  
@@ -393,7 +394,7 @@
  - hima duna  
  - hin di  
  - Hinde  
- - hinde raja  
+ - hinde reger  
  - Hinde rivo  
  - Hindestan  
  - Hindocin  
@@ -491,7 +492,7 @@
  - kase  
  - kasete  
  - Kastilia  
- - kastilia baxa  
+ - kastilia baxe  
  - kata ja  
  - katana  
  - kentaur  
@@ -514,7 +515,7 @@
  - komike  
  - komputa hor loger  
  - kon forma  
- - kon helen baxa  
+ - kon helen baxe  
  - konputeral  
  - konsel  
  - konseler  
@@ -643,6 +644,7 @@
  - monograme  
  - moter cate  
  - motografekan  
+ - muringa  
  - murmeke kume  
  - murmekofite  
  - murmekologia  
@@ -713,6 +715,7 @@
  - palaba  
  - panduke  
  - panmime  
+ - pantete  
  - papa  
  - par fase  
  - para  
@@ -750,6 +753,7 @@
  - pinse  
  - pinse bano  
  - pipa frute  
+ - pirate  
  - plaste  
  - plaste paste  
  - plastike  
@@ -765,7 +769,7 @@
  - pore  
  - porte  
  - portoriko jen  
- - portugal baxa  
+ - portugal baxe  
  - posike  
  - pospoze  
  - poste marke  
@@ -810,19 +814,18 @@
  - sagu fun  
  - sal noce  
  - salam  
+ - salateria  
  - salta  
  - saludo  
  - salvation  
  - sam bei  
  - sammetria  
- - sanateria  
  - sanga  
  - sante kanon  
  - satele  
  - sau ben  
  - sau doh  
  - sau son  
- - se di  
  - se su  
  - sekur kopi  
  - sememe  
@@ -1321,7 +1324,7 @@ animować - animate
 Antarktyka - Antartika  
 antena - antena  
 Antigua - Antigua  
-Antigua i Barbuda - Antigua i Barbuda  
+Antigua i Barbuda - Antigua e Barbuda  
 antonim - annam  
 antychryst - antikriste  
 Antyle Holenderskie - Nederlande Antil  
@@ -1392,7 +1395,7 @@ bambus - bambu
 banan - banana  
 bandaż, taśma, wstążka - faxe  
 Bangladesz - Bangla gogia  
-banglijski - bangla baxa  
+banglijski - bangla baxe  
 bank - bankekan  
 bankier - banker  
 baobab - buyu  
@@ -1406,7 +1409,7 @@ bardzie - max
 bardzo (wielce) - tre  
 bariera - bare mur  
 bark (ramię) - kanta  
-barometr - air prese metri gi  
+barometr - air prese metrer  
 barwnik - rang mate  
 basen - basen  
 bateria - batri  
@@ -1512,7 +1515,7 @@ Buddyzm - budisme
 budka (kabina) - buda  
 budynek (struktura) - bine  
 budżet - pesa plan  
-bufet (szwedzki stół) - bufete  
+bufet (szwedzki stół) - bufe  
 bulwa - masa mula  
 burak - bete  
 burak cukrowy - sukar bete  
@@ -1618,7 +1621,7 @@ cierpienie, ból - alge
 cierpieć (choroba) - pate  
 cieszyć się (zażywać, bawić się) - be vanu  
 cieszyć, podobać się - sukife  
-cień - saya  
+cień - saye  
 ciągnąć - tire  
 ciągły (analogowy) - undurike  
 ciąć - gata a caku  
@@ -1681,7 +1684,7 @@ czysty - safe
 czysty (higieniczny, sanitarny) - salu saf di  
 czytać - dugu  
 cząstka - gran  
-cząstka (ziarno, kula, pocisk) - dana  
+cząstka (ziarno, kula, pocisk) - dane  
 często - a poli mar  
 częstotliwość - poli marta  
 część (fragment, strzęp, kawałek, okruch) - parte  
@@ -1807,7 +1810,7 @@ dziecko (potomek) - ben
 dzielić - fenife  
 dzielić (współdzielić) - konife  
 dzielnica - mahala  
-dziennik pokładowy (notatnik) - loga buku  
+dziennik pokładowy (notatnik) - loga buke  
 dziennikarz - gazeter  
 dziesięć (10) - des  
 dziesięć tysięcy - des kilo  
@@ -1821,7 +1824,7 @@ dziki - ekonative
 dziki - vilde  
 dziobak - bata krote  
 dziura - kung  
-dziw (cudo, zachwyt) - ajabu  
+dziw (cudo, zachwyt) - ajabe  
 dziwny - guai  
 dziwny (nieznany) - ansan di  
 dzięki, dzięki ci - xukre  
@@ -2274,7 +2277,7 @@ jęczmień - jau
 język - lisan  
 język ojczysty (język rodzimy) - natal lingue  
 język surinamski - surinam baxe  
-język sztuczny - arte fete baxa  
+język sztuczny - arte fete baxe  
 język sztuczny - fete baxe  
 język świata, język ogólnoświatowy - dunia baxe  
 język; komunikacja; mówić - baxe  
@@ -2308,7 +2311,7 @@ kanał - kanal
 kandela - kandela  
 kangur - kangaru  
 kanion - kanyon  
-kannada - karnada baxa  
+kannada - karnada baxe  
 kanoe - kanu  
 kanonier - dai pauer  
 kantalupa - kantalupo melon  
@@ -2398,7 +2401,7 @@ kochać romantycznie - fa romanse
 kocioł - dai pote  
 kod, szyfr - kode  
 kodować - inkode  
-kojec - bebe bede  
+kojec - bebe katil  
 koka - koka  
 kokos - yezi  
 koktajl - mixe alkol  
@@ -2527,8 +2530,8 @@ królowa - ni reger
 krótki - korte  
 ksenon - xenon  
 ksiądz, kleryk, kaznodzieja - din guru  
-książka - buku  
-książka z obrazkami - grafe buku  
+książka - buke  
+książka z obrazkami - grafe buke  
 księżyc - luna  
 kszesło, fotel - kursi  
 ktoś - yo jen  
@@ -2630,12 +2633,12 @@ listopad - mes bati
 listownicowiec - yepa alga  
 lit - litium  
 litera, znak - fone zi  
-litewski - lietuva baxa  
+litewski - lietuva baxe  
 litr - litre  
 Litwa - Lietuva  
 liwermor - livermorium  
 loch - geo nice jela  
-lodowy - ais di  
+lodowy - aisike  
 lody - ais krem  
 logiczny - logikal  
 logiczny - ratologike  
@@ -2957,7 +2960,7 @@ narodowy socjalizm (nazizm) - nasial sosialisme
 narodziny - nate  
 narzędzie - kargi  
 naród, narodowość - nasia  
-nasienny - seme di  
+nasienny - semenal  
 następny (następujący) - posime  
 natura, środowisko - ekia  
 natura, środowisko - tabi  
@@ -3044,7 +3047,7 @@ Norfolk - Norfolke nese
 norma, standard - norma  
 normalny, standardowy - norma di  
 Norwegia - Norge  
-norweski - norge baxa  
+norweski - norge baxe  
 nos - nos  
 nosić ubrania - fuke  
 nosorożec - kargadan:  
@@ -3052,7 +3055,7 @@ nosowy - nos di
 nostalgia (tęsknota) - nostalgia  
 nostalgiczny - nostalgike  
 notatka, memo - memo note  
-notatnik - note buku  
+notatnik - note buke  
 notować, obserwować, zauważyć, zauważać - note  
 Nowa Kaledonia - neu Kaledonia  
 Nowa Zelandia - neu Zelande  
@@ -3326,7 +3329,7 @@ piorun (grom) - eletrorade
 piractwo - pirateria  
 piramida - piram  
 pirat - pirater  
-pirat (osoba naruszająca prawa własności intelektualnej) - piratisme  
+pirat (osoba naruszająca prawa własności intelektualnej) - piratiste  
 pirotechnika - hogo tehni  
 pismo, tekst - kitabe  
 pistolet - pistol  
@@ -3422,7 +3425,7 @@ polon - polskium
 polowanie (łowienie) - saide  
 polować (łowić) - fa saide  
 Polska - Polska  
-polski - polska baxa  
+polski - polska baxe  
 pomarańcza - orange  
 pomarańcza słodka (pomarańcza chińska) - sukar orange  
 pomarańczowy - orange rang  
@@ -3600,7 +3603,7 @@ przeszłość - prezaman
 przeszły, miniony - pas di  
 przetwarzać - resikle  
 przewidzieć (spodziewać się) - previde  
-przewodnik - gide buku  
+przewodnik - gide buke  
 przewodnik - gider  
 przewód (kanał) - kanaler  
 przeziębienie, katar - zukam  
@@ -3856,11 +3859,11 @@ rękaw - kamisa xaka
 S - S  
 sago - sagu  
 Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna) - Sahara Dexa  
-Saint Kitts - Sante Kitse  
-Saint Kitts i Nevis - Sante Kitse i Nevis  
+Saint Kitts - Sante Kristofor  
+Saint Kitts i Nevis - Sante Kristofor e Nevis  
 Saint Lucia - Sante Lucia  
 Saint Vincent - Sante Vincente  
-Saint Vincent and Grenadines - Sante Vincente i Grenadin  
+Saint Vincent and Grenadines - Sante Vincente e Grenadin  
 Saint Vincent i Grenadyny - Valis e Futuna nesia  
 sala - sala  
 Salwador - Salvador  
@@ -4125,8 +4128,8 @@ szkło - glas
 szkło wulkaniczne - hogo xan glas  
 szmaragd - ezmurude  
 szofer (kierowca) - xofer  
-szogun - ordu raja  
-szogunat - ordu rajia  
+szogun - ordu reger  
+szogunat - ordu regia  
 szokwstrząs; kolizja - xoke  
 szop pracz - rakun  
 szorstki - gros  
@@ -4183,7 +4186,7 @@ Tadżykistan - Tajiki
 tajga - taiga  
 Tajlandia - Tai Dexa  
 Tajpej - Taibei  
-tajski - Tai baxa  
+tajski - Tai baxe  
 Tajwan, Republika Chińska - Taivan  
 tak - ya  
 taki sam - sam  
@@ -4290,7 +4293,7 @@ trwać, zająć czas; przez - be dur
 trwały (wytrzymały, podtrzymywalny) - durebil  
 tryb - mode  
 tryb nocny - noce mode  
-Trynidad i Tobago - Trinidade i Tobago  
+Trynidad i Tobago - Trinita e Tobago  
 trzcina cukrowa - sukar gana  
 trzeć (pocierać, obetrzeć, pucować) - frike  
 trzustka - pankreas  
@@ -4401,7 +4404,7 @@ usta - boka
 usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się) - fa an zai  
 usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się) - depoze  
 usłyszeć, słyszeć; słuchać - audi  
-uwaga, obserwacja - note xe  
+uwaga, obserwacja - notaje  
 uważać (sądzić) - fa rai  
 uwięzić, więzić, pozbawić wolności - jele  
 uwolnić, uwalniać - huru di  
@@ -4409,7 +4412,6 @@ Uzbekistan - Uzbeki
 uznać (przynać, przyjąć do wiadomości) - fa reside  
 ułożyć w trabelę - table yo data  
 uświadomienie, świadomość; oświecenie, bodhi - budion  
-uświadomić sobie, zdać sobie sprawę, pojąć, pojmować - aha  
 użyteczny, pomocny, przydatny, pożyteczny, korzystny - faidike  
 użytkownik - uzer  
 użyć, używać, zatrudnić, stosować - uze  
@@ -4487,10 +4489,10 @@ wielbłąd, wielbłądzica - gamel
 wiele - poli  
 Wielkanoc - paska  
 wielki piec - gau tanur  
-wielojęzyczny - poli baxa di  
 wielojęzyczny - polibaxike  
-wielokulturowość - poli kultur sim  
-wielokulturowy - poli kultur di  
+wielojęzyczny - polibaxike  
+wielokulturowość - polikulturisme  
+wielokulturowy - polikultural  
 wielokąt (wielościan) - poli gona  
 wielonarodowy - poli nasi di  
 wielonarodowy - polinasial  
@@ -4626,7 +4628,7 @@ Wyspy Kokosowe - Kokos nesia
 Wyspy Marshalla - Marxal nesia  
 Wyspy Salomona - Solomon nesia  
 Wyspy Zielonego Przylądka (Republika Zielonego Przylądka) - Kabu Verde  
-Wyspy Świętego Tomasza i Książęca - Sante Tome i Principe  
+Wyspy Świętego Tomasza i Książęca - Sante Tome e Principe  
 wystarczający - bas  
 wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić) - nete don  
 wysłać (wyemitować) - mise  
@@ -4677,7 +4679,7 @@ zachodni - veste di
 zachowanie (maniery, kultura) - manera  
 zachować, zakonserwować, zachować, utrzymać - hafiz-  
 zachowywać się (działać) - fa manera  
-zachwycający (zdumiewający, zadziwiający) - ajabu di  
+zachwycający (zdumiewający, zadziwiający) - ajabike  
 zachwycać (zachwycić, zdumiewać, zdumieć, zadziwiać, zadziwić) - ajabife  
 zachwycić się (być zachwyconym) - be ajabu  
 zachód - veste  
@@ -4775,8 +4777,8 @@ zespół (drużyna, grupa) - banda
 zewnętrzny - vai di  
 zgniły - pute  
 zgodzić się (umówić się) - fa trati  
-ziarno (nasienie) - seme  
-ziarno, nasienie - seme dana  
+ziarno (nasienie) - semen  
+ziarno, nasienie - semen dane  
 zielenina - coi  
 zielony - luga  
 ziemia, grunt, gleba - gee  
@@ -4872,7 +4874,7 @@ zły, zrujnowany, zepsuty - harabe
 łyżka stołowa - supa camaca  
 łza - oke sui  
 łódź, statek - nave  
-łóżko - bede  
+łóżko - katil  
 łączyć (złączyć) - be fuzi liga  
 łączyć, wiązać, złączyć - fa linke  
 łąka - cau stan  

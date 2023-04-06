@@ -47,22 +47,21 @@ agronomia - agronomía
 agristan - campo  
 agristanike - rural (rústico)  
 aha - entender (comprender; ajá)  
-aha - darse cuenta (notar)  
 air - aire  
 airobiike - aeróbico  
 • anairobiike - anaeróbico  
 air ordu - fuerza aérea  
 air porto - aeropuerto  
 air prese - presión atmosférica  
-air prese metri gi - barómetro  
+air prese metrer - barómetro  
 ais - hielo  
-ais di - cubierto de hielo  
 ais hoki - hockey sobre hielo  
+aisike - cubierto de hielo  
 ais krem - helado  
 ais xarbe - sorbete  
+ajabe - maravilla  
 ajabife - asombrar  
-ajabu - maravilla  
-ajabu di - maravilloso (asombroso)  
+ajabike - maravilloso (asombroso)  
 akare - garrapata (ácaro)  
 akrabe - escorpión (alacrán)  
 ale - otro  
@@ -149,7 +148,7 @@ Antartika - antartida
 Antartika Bahai - océano Antártico  
 antena - antena  
 Antigua - Antigua  
-Antigua i Barbuda - Antigua y Barbuda  
+Antigua e Barbuda - Antigua y Barbuda  
 anus - ano  
 anusal - anal  
 aple - manzana  
@@ -178,7 +177,7 @@ aroma - olor (aroma)
 aroma melon - melón coreano  
 arsenium - arsénico  
 arte fete - artefacto  
-arte fete baxa - idioma artificial (lengua construida, conlang)  
+arte fete baxe - idioma artificial (lengua construida, conlang)  
 arte fete di - artificial (sintético)  
 arte fete intelige (AI) - inteligencia artificial  
 artiste - artista  
@@ -313,7 +312,7 @@ bandaje - banda (cinta)
 banda - banda  
 bandera - bandera  
 bang - maza  
-bangla baxa - idioma bengalí  
+bangla baxe - idioma bengalí  
 Bangla gogia - Bangladés  
 banke - ahorrar (reservar, depositar)  
 banker - banquero  
@@ -429,7 +428,6 @@ be vide - ser visto
 be xuru - comenzar (iniciarse, empezar)  
 be zai - aparecer  
 bebe - bebé  
-bede - cama (lecho)  
 bedingan - berenjena  
 bega - escaparse (evitar, huir)  
 behe - cabra  
@@ -537,8 +535,8 @@ budion - comprensión (entendimiento)
 budisme - budismo  
 budiste - budista  
 buda - cabina (garita)  
-bufete - bufé  
-buku - libro  
+bufe - bufé  
+buke - libro  
 bulbul - ruiseñor  
 bum - explosión (estallado)  
 bure - oficina  
@@ -601,12 +599,12 @@ ceng bede - litera
 ceng fem - mujer (señora)  
 ceng jen - adulto  
 ceng man - hombre (señor)  
+cepe - capturar (apresar)  
 • acepe - aceptar  
 • excepe - excepto (exceptuar)  
 • intercepe - interceptar  
 • recepe - recibir  
 • receper - receptor  
-cepe - capturar (apresar)  
 Ceres - Ceres (planeta enano)  
 ceresium - cerio  
 ceri - cereza  
@@ -681,7 +679,7 @@ dake - tapa (funda, cubierta)
 dalil - prueba  
 dalil dokumen - certificado  
 dama geme - damas  
-dana - partícula (grano, bala)  
+dane - partícula (grano, bala)  
 dana.cau - mijo  
 dana sekur - antibalas  
 dang gi - campana (cencerro)  
@@ -1354,7 +1352,7 @@ geste - gesto
 gi - máquina (dispositivo, aparato)  
 Gibraltar - Gibraltar  
 gide - guiar  
-gide buku - guía de viaje  
+gide buke - guía de viaje  
 gider - guía  
 giga - giga-  
 ging - paralelo  
@@ -1400,7 +1398,7 @@ gradu - paso (grado, nivel, rango, calidad, categoría)
 gradu mute - desarrollo  
 grafe - dibujar (trazar)  
 grafe - imagen (gráfico, dibujo)  
-grafe buku - libro de cuentos ilustrado  
+grafe buke - libro de cuentos ilustrado  
 grafe cule - procesamiento de imágenes  
 grafeme - píxel  
 grafer - ilustrador  
@@ -1582,7 +1580,7 @@ Hindocin - Indochina
 hindisme - hinduismo  
 hindiste - hindú  
 hindium - indium  
-hinde raja - rajá  
+hinde reger - rajá  
 Hinde rivo - Indo  
 hinde sos - chatni  
 Hindestan - Indostán  
@@ -1888,12 +1886,12 @@ kantalupo melon - melón cantalupo
 kanu - canoa  
 kanun - regla (ley)  
 kanyon - cañón (barranco, quebrada)  
+kape - capturar (apresar, agarrar)  
 kapa - cabeza  
 kapa kaska - casco (yelmo)  
 kapa kexa - cabello  
 kapa kexa hin - calvo  
 kapa oste - cráneo (calavera)  
-kape - capturar (apresar)  
 kape truke - trampa  
 kape yo pexe - pescar  
 kape yo taxi - gravar (cobrar tasas)  
@@ -1935,7 +1933,7 @@ karnize - carnear (matar)
 karnizer - carnicero  
 karnekan - matadero  
 Karnada - Karnataka  
-karnada baxa - cararés  
+karnada baxe - cararés  
 karote - zanahoria  
 karte - mapa (carta)  
 kartografia - cartografía  
@@ -1946,11 +1944,12 @@ karvan - caravana
 kaska - carapacho (cáscara, concha, corteza, capa)  
 kastana - castaña  
 Kastilia - Castilla  
-kastilia baxa - castellano  
+kastilia baxe - castellano  
 kasu - acontecimiento (caso, suceso, evento)  
 kata - historia (cuento, relato, leyenda)  
 Katalunia - Cataluña  
 katana - katana  
+katil - cama (lecho)  
 katus - cacto  
 Kaukasia - Cáucaso  
 kauri - cauri  
@@ -2062,7 +2061,7 @@ koncaniste - comunista
 kon forma - amoldarse  
 kon funsibil - compatible  
 kon hau - emparejar (quedar)  
-kon helen baxa - koiné  
+kon helen baxe - koiné  
 konife - compartir (tener en común)  
 kontra - estar en contra  
 kon trati - convenion (pacto)  
@@ -2243,7 +2242,7 @@ lide - dirigir (mandar, conducir, capitanear)
 lider - dirigente (líder)  
 lide line - correa (rein)  
 Lietuva - Lituania  
-lietuva baxa - lituano  
+lietuva baxe - lituano  
 lifafe - envolver  
 lifafa - envoltura  
 lige - asociar  
@@ -2288,7 +2287,7 @@ logive - hablador (locuaz)
 loga - registro (archivo, anotación)  
 • exloga - cerrar sesión  
 • inloga - iniciar sesión  
-loga buku - libro de registro  
+loga buke - libro de registro  
 loke - lugar  
 lokal - local  
 lokize - colocar (poner, ubicar)  
@@ -2829,18 +2828,18 @@ Norde Kipris - Chipre del Norte
 Norde Makedonia - Macedonia del Norte  
 Norfolke nese - Isla Norfolk  
 Norge - Noruega  
-norge baxa - idioma noruego  
+norge baxe - idioma noruego  
 norma - norma  
 norma di - norma  
 nos - nariz  
 nos di - nasal  
 nostalgia - nostalgia  
 nostalgike - nostálgico  
-notize - avisar (notificar)  
 note - notar (observar)  
+notaje - nota  
 note angil - aviso (notificación)  
-note buku - cuaderno (libreta)  
-note xe - nota  
+note buke - cuaderno (libreta)  
+notize - avisar (notificar)  
 • renove - renovar  
 nude - desnudo  
 nudisme - nudismo  
@@ -2877,8 +2876,8 @@ orange rang - anaranjado
 ordu - ejército  
 ordu jen - soldado  
 ordu jen kan - cuartel (barraca)  
-ordu rajia - shogunato  
-ordu raja - generalísimo (sogún)  
+ordu reger - generalísimo (sogún)  
+ordu regia - shogunato  
 ore - oreja  
 ore tis - otitis  
 orgazme - orgasmo  
@@ -2957,6 +2956,7 @@ panjabi - punjabí
 panka - ala  
 pankreas - páncreas  
 pante - pantalones  
+pantete - bragas  
 papagai - loro (papagayo)  
 papaya - papaya  
 papir - artículo (documento)  
@@ -3074,8 +3074,8 @@ pipre - pimienta
 pipre minta - piperita  
 piram - pirámide  
 pirater - pirata  
-pirateria - piratería  
-piratisme - partidario de infracción de copyright  
+pirateria - piratería (secuestro)  
+piratiste - partidario de infracción de copyright  
 pirate partia - Partido Pirata  
 pisea - pícea  
 pistol - pistola  
@@ -3109,12 +3109,12 @@ Pluton - Plutón
 plutonium - plutonio  
 poke - póquer  
 poli - mucho (muchos)  
-poli baxa di - multilingüe (plurilingüe)  
+polibaxike - multilingüe (plurilingüe)  
 polideisme - politeísmo  
 poli fase - poliedro  
 poli gona - polígono  
-poli kultur di - multicultural  
-poli kultur sim - multiculturalismo  
+polikultural - multicultural  
+polikulturisme - multiculturalismo  
 poli marta - frecuencia  
 poli nasi di - multinacional  
 Polinesia - Polinesia  
@@ -3131,7 +3131,7 @@ politi lona - política
 politi mode - régimen  
 polskium - polonio  
 Polska - Polonia  
-polska baxa - idioma polaco  
+polska baxe - idioma polaco  
 pompe - bomba  
 pompe tape - pistón  
 pope - pueblo (población)  
@@ -3150,7 +3150,7 @@ porto - porto
 Portoriko - Puerto Rico  
 portoriko jen - puertorriqueño  
 Portugal - Portugal  
-portugal baxa - idioma portugués  
+portugal baxe - idioma portugués  
 pos - consecuencia (siguiente)  
 pos den - mañana  
 posfixe - sufijo  
@@ -3391,6 +3391,7 @@ sal suba - buenos días
 sal xam - buenas noches  
 sal yam - buen provecho  
 salam - saludar  
+salateria - sanatorio  
 salta - bienestar  
 sala - salón  
 salade - ensalada  
@@ -3421,7 +3422,6 @@ sama nil - celeste (azul celeste)
 samarium - samario  
 Samoa - Samoa  
 san - saber  
-sanateria - sanatorio  
 san logia - gnoseología (epistemología)  
 san vol - interés  
 san vol di - interesante (curioso)  
@@ -3432,13 +3432,13 @@ sanduku - caja (baúl, cofre, estuche)
 sante - sagrado (santo)  
 Sante Helena - Isla Santa Elena  
 sante kanon - sagrada escritura  
-Sante Kitse - San Cristóbal  
-Sante Kitse i Nevis - San Cristóbal y Nieves  
+Sante Kristofor - San Cristóbal  
+Sante Kristofor e Nevis - San Cristóbal y Nieves  
 Sante Lucia - Santa Lucía  
 Sante Marino - San Marino  
-Sante Tome i Principe - Santo Tomé y Príncipe  
+Sante Tome e Principe - Santo Tomé y Príncipe  
 Sante Vincente - Isla de San Vicente  
-Sante Vincente i Grenadin - San Vicente y las Granadinas  
+Sante Vincente e Grenadin - San Vicente y las Granadinas  
 sanzi - abanico (ventilador)  
 sapatu - zapato  
 sapatu ja - zapatero  
@@ -3451,7 +3451,7 @@ sau son - sobrino
 Saudi Arabi - Arabia Saudita  
 sauna - sauna  
 saur - lagarto  
-saya - sombra  
+saye - sombra  
 se - se  
 semen - el uno al otro (mutuamente)  
 semen su - mutuo (recíproco)  
@@ -3474,9 +3474,9 @@ semoforer - semáforo
 • polisemike - ambiguo  
 • unsemike - inequívoco  
 semologia - semántica  
-seme - semilla  
-seme dana - pepita  
-seme di - seminal  
+semen - semilla  
+semenal - seminal  
+semen dane - pepita  
 semente - cemento  
 sen - anciano (señor)  
 senater - senador  
@@ -3690,7 +3690,7 @@ table - tabla (lámina, plancha)
 table komputa - tablet  
 table yo data - tabular  
 tai - escenario (podio, estrado, tarima)  
-Tai baxa - idioma tailandés  
+Tai baxe - idioma tailandés  
 Tai Dexa - Tailandia  
 Taibei - Taipei  
 taiga - taiga  
@@ -3841,7 +3841,7 @@ trigone - triángulo
 trigonometria - trigonometría  
 tri pike - tridente  
 triple - triple  
-Trinidade i Tobago - Trinidad y Tobago  
+Trinita e Tobago - Trinidad y Tobago  
 truke - truco  
 tu - tú (usted)  
 tumen - ustedes  

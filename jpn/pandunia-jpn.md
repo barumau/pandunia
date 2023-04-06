@@ -179,9 +179,8 @@ be sona - 寝る
 be tele loka - 瞬間移動  
 be turbe - 悩む (わざわざする)  
 be vanu - 遊ぶ  
+bebe katil - ベビーベッド  
 bebe - 赤ちゃん  
-bebe bede - ベビーベッド  
-bede - 寝床 (ベッド)  
 bedingan - 茄子  
 belca - シャベル (スコップ)  
 ben - 子供 (息子か娘)  
@@ -238,8 +237,8 @@ bu! - ばあ
 bude - 起きる  
 Bude - 仏陀  
 buda - ブース  
-bufete - ビュッフェ (バイキング)  
-buku - 本 (書物)  
+bufe - ビュッフェ (バイキング)  
+buke - 本 (書物)  
 bum - 爆発  
 burer - 秘書  
 burokratia - 官僚制  
@@ -582,7 +581,7 @@ geo nice di - 地中
 geo nice jela - 地下牢 (ダンジョン)  
 germanium - ゲルマニウム  
 gi - 装置 (機, 器)  
-gide buku - ガイドブック  
+gide buke - ガイドブック  
 gider - 案内人 (ガイド)  
 ging - 並行  
 ginge - 生姜  
@@ -683,7 +682,7 @@ hidre peroxide - 過酸化水素
 hidrargente - 水銀  
 Hindocin - 印度支那  
 hindium - インジウム  
-hinde raja - ラージャー  
+hinde reger - ラージャー  
 Hinde rivo - インダス川  
 hinde sos - チャツネ  
 hipoglukohemia - 低血糖  
@@ -863,6 +862,7 @@ karuba - 蝗豆
 kasete - カセット  
 kaska - 殻 (皮)  
 katana - 刀  
+katil - 寝床 (ベッド)  
 katus - サボテン  
 kauri - 宝貝  
 kave - 掘る  
@@ -1015,7 +1015,7 @@ lixu - 栗鼠
 loga - 記録  
 • exloga - ログアウト  
 • inloga - ログイン  
-loga buku - 日誌  
+loga buke - 日誌  
 loke - 場所  
 loke kode - 座標  
 long - 長い  
@@ -1293,7 +1293,7 @@ onda - 波
 orange rang - オレンジ色の  
 ordu jen - 軍人  
 ordu jen kan - 兵舎 (バラック)  
-ordu raja - 総統 (将軍 )  
+ordu reger - 総統 (将軍 )  
 orkide - ラン  
 orto - まっすぐな  
 oselote - オセロット  
@@ -1322,6 +1322,7 @@ panir - クワルク
 panka - 翼 (羽)  
 pankreas - 膵臓  
 pante - ズボン  
+pantete - パンツ (パンティー)  
 papaya - パパイヤ  
 repare - 修理する  
 repare - 修理  
@@ -1533,7 +1534,7 @@ konseler - 顧問
 selenium - セレン  
 selge - フダンソウ (スイスチャード)  
 semologia - 意味論  
-seme dana - 種  
+semen dane - 種  
 senater - 上院議員  
 sen bei - 先輩  
 senseng - 先生  

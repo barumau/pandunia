@@ -55,22 +55,21 @@ agronomia - agronomia
 agristan - wieś, tereny wiejskie  
 agristanike - wiejski, rustykalny  
 aha - rozumieć, pojmować  
-aha - uświadomić sobie, zdać sobie sprawę, pojąć, pojmować  
 air - powietrze  
 airobiike -   
 • anairobiike -   
 air ordu - siły powietrzne  
 air porto - lotnisko (port lotniczy)  
 air prese - ciśnienie atmosferyczne  
-air prese metri gi - barometr  
+air prese metrer - barometr  
 ais - lód  
-ais di - lodowy  
 ais hoki - hokej na lodzie  
+aisike - lodowy  
 ais krem - lody  
 ais xarbe -   
+ajabe - dziw (cudo, zachwyt)  
 ajabife - zachwycać (zachwycić, zdumiewać, zdumieć, zadziwiać, zadziwić)  
-ajabu - dziw (cudo, zachwyt)  
-ajabu di - zachwycający (zdumiewający, zadziwiający)  
+ajabike - zachwycający (zdumiewający, zadziwiający)  
 akare - klescz (roztocze)  
 akasia - akacja  
 akrabe - skorpion  
@@ -166,7 +165,7 @@ Antartika - Antarktyka
 Antartika Bahai - Ocean Antarktyczny (Ocean Południowy)  
 antena - antena  
 Antigua - Antigua  
-Antigua i Barbuda - Antigua i Barbuda  
+Antigua e Barbuda - Antigua i Barbuda  
 anus - odbyt  
 anusal - analny, odbytni  
 aple - jabłko  
@@ -199,9 +198,9 @@ arke suta - łucznictwo
 aroma - zapach (aromat, smród, odór)  
 aroma melon - melon koreański  
 arsenium - arsen  
-arte baxa -   
+arte baxe -   
 arte fete -   
-arte fete baxa - język sztuczny  
+arte fete baxe - język sztuczny  
 arte fete di - sztuczny  
 arte fete intelige (AI) - sztuczna inteligencja  
 artiste - artysta  
@@ -264,6 +263,7 @@ aute - jaźń (tożsamość)
 autatike -   
 auter -   
 autife -   
+autike -   
 autokratia - monarchia  
 automotike - samobieżny  
 autonomia - autonomia  
@@ -349,7 +349,7 @@ bandaje - taśma; bandaż
 banda - zespół (drużyna, grupa)  
 bandera - flaga, sztandar  
 bang -   
-bangla baxa - banglijski  
+bangla baxe - banglijski  
 Bangla gogia - Bangladesz  
 banke - oszczędzać (deponować)  
 banker - bankier  
@@ -484,9 +484,8 @@ be vanu - cieszyć się (zażywać, bawić się)
 be vide - być widzianym  
 be xuru - zaczyna (zacząć, rozpoczynać, rozpocząć)  
 be zai - pojawić się  
+bebe katil - kojec  
 bebe - niemowlę  
-bebe bede - kojec  
-bede - łóżko  
 bedingan - bakłażan, oberżyna  
 bega - uciec, uciekać  
 behe - koza  
@@ -612,8 +611,8 @@ budisme - Buddyzm
 budiste - buddysta  
 buda - budka (kabina)  
 Budapexte -   
-bufete - bufet (szwedzki stół)  
-buku - książka  
+bufe - bufet (szwedzki stół)  
+buke - książka  
 bulbul - słowik  
 bum - wybuch (eksplozja)  
 bure - biuro, urząd  
@@ -679,6 +678,7 @@ ceng bede -
 ceng fem - kobieta, dorosła samica  
 ceng jen - osoba dorosła  
 ceng man - mężczyzna, dorosły samiec  
+cepe - złapać, łapać, schwytać, chwytać  
 • acepe -   
 • decepe -   
 • excepe - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
@@ -686,7 +686,6 @@ ceng man - mężczyzna, dorosły samiec
 • koncepe -   
 • recepe -   
 • receper -   
-cepe - złapać, łapać, schwytać, chwytać  
 Ceres - Ceres (planeta karłowata)  
 ceresium - cer  
 ceri - wiśnia (czereśnia)  
@@ -781,7 +780,7 @@ dalil - dowód; zeznanie
 dalil dokumen -   
 dama geme - warcaby  
 dan -   
-dana - cząstka (ziarno, kula, pocisk)  
+dane - cząstka (ziarno, kula, pocisk)  
 dana.cau -   
 dana sekur - kuloodporny  
 dang - dzwonić (dźwięczeć, szczękać)  
@@ -1581,7 +1580,7 @@ geste - gest
 gi - maszyna  
 Gibraltar - Gibraltar  
 gide - prowadzić (wskazać drogę)  
-gide buku - przewodnik  
+gide buke - przewodnik  
 gider - przewodnik  
 ging - równoległy (podłużny)  
 ginge - imbir  
@@ -1631,7 +1630,7 @@ gradu medan - gradient (gradacja, stopniowanie)
 gradu mute - rozwój  
 grafe - opisywać, ilustorawć; przedstawiać  
 grafe - opis, przedstawienie; wykres  
-grafe buku - książka z obrazkami  
+grafe buke - książka z obrazkami  
 grafe cule -   
 grafeme -   
 grafer - ilustrator, grafik  
@@ -1838,7 +1837,7 @@ Hindocin -
 hindisme - hinduizm  
 hindiste - hinduistyczny  
 hindium - ind  
-hinde raja -   
+hinde reger -   
 Hinde rivo -   
 hinde sos - ćatni  
 Hindestan -   
@@ -2198,13 +2197,13 @@ kanu - kanoe
 kanun - prawo  
 kanun vala - adwokat  
 kanyon - kanion  
+kape - złapać, łapać, schwytać, chwytać  
 kapa - głowa  
 kapa hin - bezgłowy  
 kapa kaska - hełm  
 kapa kexa - włosy  
 kapa kexa hin -   
 kapa oste - czaszka  
-kape - złapać, łapać, schwytać, chwytać  
 kape truke - pułapka  
 kape yo kuanga - kopać (wydobywać)  
 kape yo pexe - łapać rybę  
@@ -2257,7 +2256,7 @@ karnize -
 karnizer -   
 karnekan -   
 Karnada - Karnataka  
-karnada baxa - kannada  
+karnada baxe - kannada  
 karote - marchew  
 karte - mapa  
 kartografia - kartografia  
@@ -2270,12 +2269,13 @@ kasete -
 kaska - skorupa (pancerz, muszla)  
 kastana - kasztan  
 Kastilia -   
-kastilia baxa -   
+kastilia baxe -   
 kasu - wydarzenie, przypadek, sytuacja  
 kata - opowiadanie, opowieść, legenda, saga  
 kata ja -   
 Katalunia - Katalonia  
 katana -   
+katil - łóżko  
 katus - kaktus  
 Kaukasia - Kaukazja  
 kauri - kauri  
@@ -2404,7 +2404,7 @@ koncaniste - komunista
 kon forma -   
 kon funsibil - kompatybilny (pasujący)  
 kon hau - pasować  
-kon helen baxa -   
+kon helen baxe -   
 konife - dzielić (współdzielić)  
 kon su - wspólny (wzajemny)  
 kontra - być przeciw  
@@ -2620,7 +2620,7 @@ lide - prowadzić, dowodzić, kierować
 lider - dowódca, kierownik  
 lide line - smycz (cugiel, lejc, wodza)  
 Lietuva - Litwa  
-lietuva baxa - litewski  
+lietuva baxe - litewski  
 lifafe - zawijać (zawinąć)  
 lifafa - owinięcie (koperta, okładka)  
 lige - stowarzyszać się (zrzeszać się)  
@@ -2673,7 +2673,7 @@ logive - rozmowny
 loga - rejestr  
 • exloga -   
 • inloga -   
-loga buku - dziennik pokładowy (notatnik)  
+loga buke - dziennik pokładowy (notatnik)  
 loke - miejsce, lokacja  
 lokal - miejscowy, lokalny  
 lokize - umieścić (postawić)  
@@ -3086,6 +3086,7 @@ mun - drzwi, brama, portal
 mungus - mangusta  
 mur - mur, ściana  
 mur kaguze - tapeta  
+muringa -   
 Muritania - Mauretania  
 murmeke - mrówka  
 murmekofite -   
@@ -3295,7 +3296,7 @@ Norde Kipris - Cypr Północny
 Norde Makedonia - Republika Macedonii, Macedonia  
 Norfolke nese - Norfolk  
 Norge - Norwegia  
-norge baxa - norweski  
+norge baxe - norweski  
 norma - norma, standard  
 • paranormali -   
 norma di - normalny, standardowy  
@@ -3303,11 +3304,11 @@ nos - nos
 nos di - nosowy  
 nostalgia - nostalgia (tęsknota)  
 nostalgike - nostalgiczny  
-notize - powiadomić, powiadamiać  
 note - notować, obserwować, zauważyć, zauważać  
+notaje - uwaga, obserwacja  
 note angil - wiadomość, zawiadomienie, powiadomienie  
-note buku - notatnik  
-note xe - uwaga, obserwacja  
+note buke - notatnik  
+notize - powiadomić, powiadamiać  
 • renove - odnowić, odnawiać, uczynić nowym  
 nu -   
 nude - nagi, goły, obnażony  
@@ -3347,8 +3348,8 @@ orange rang - pomarańczowy
 ordu - armia  
 ordu jen - żołnierz  
 ordu jen kan - koszary  
-ordu rajia - szogunat  
-ordu raja - szogun  
+ordu reger - szogun  
+ordu regia - szogunat  
 ore - ucho  
 ore tis - zapalenie ucha  
 orgazme - orgazm  
@@ -3448,6 +3449,7 @@ panjabi - pendżabski
 panka - skrzydło  
 pankreas - trzustka  
 pante - spodnie (pantalony, portki)  
+pantete -   
 papagai - papuga  
 papaya - papaja  
 papir - dokument  
@@ -3597,9 +3599,10 @@ pipinger - krytyk
 pipre - pieprz  
 pipre minta - mięta pieprzowa  
 piram - piramida  
+pirate -   
 pirater - pirat  
 pirateria - piractwo  
-piratisme - pirat (osoba naruszająca prawa własności intelektualnej)  
+piratiste - pirat (osoba naruszająca prawa własności intelektualnej)  
 pirate partia - Partia Piratów  
 pisea - świerk  
 pistol - pistolet  
@@ -3636,12 +3639,12 @@ Pluton - Pluton (planeta karłowata)
 plutonium - pluton  
 poke - poker  
 poli - wiele  
-poli baxa di - wielojęzyczny  
+polibaxike - wielojęzyczny  
 polideisme - politeizm  
 poli fase - wielościan  
 poli gona - wielokąt (wielościan)  
-poli kultur di - wielokulturowy  
-poli kultur sim - wielokulturowość  
+polikultural - wielokulturowy  
+polikulturisme - wielokulturowość  
 poli marta - częstotliwość  
 poli nasi di - wielonarodowy  
 Polinesia -   
@@ -3659,7 +3662,7 @@ politi lona - polityka
 politi mode -   
 polskium - polon  
 Polska - Polska  
-polska baxa - polski  
+polska baxe - polski  
 pompe - pompować  
 pompe tape - tłok  
 pope - lud, społeczeństwo  
@@ -3681,7 +3684,7 @@ porto - port
 Portoriko - Portoryko (Puerto Rico)  
 portoriko jen -   
 Portugal - Portugalia  
-portugal baxa -   
+portugal baxe -   
 pos - konsekwencja, skutek  
 pos den - jutro  
 posfixe - przyrostek (sufiks)  
@@ -3958,6 +3961,7 @@ sal xam - dobry wieczór
 sal yam - smacznego  
 salam - pozdrowić, pozdrawiać  
 salam -   
+salateria -   
 salta -   
 sala - sala  
 salade - sałatka  
@@ -3990,7 +3994,6 @@ samarium - samar
 Samoa - Samoa  
 san - wiedzieć  
 • ansan di - dziwny (nieznany)  
-sanateria -   
 san logia - epistemologia (gnoseologia, teoria poznania)  
 san vol - zainteresowanie, zaciekawienie; interesujący  
 san vol di - interesujący  
@@ -4002,14 +4005,14 @@ sanga -
 sante - święty  
 Sante Helena - Święta Helena  
 sante kanon -   
-Sante Kitse - Saint Kitts  
-Sante Kitse i Nevis - Saint Kitts i Nevis  
+Sante Kristofor - Saint Kitts  
+Sante Kristofor e Nevis - Saint Kitts i Nevis  
 Sante Lucia - Saint Lucia  
 Sante Marino - San Marino  
 Sante Paulo - São Paulo  
-Sante Tome i Principe - Wyspy Świętego Tomasza i Książęca  
+Sante Tome e Principe - Wyspy Świętego Tomasza i Książęca  
 Sante Vincente - Saint Vincent  
-Sante Vincente i Grenadin - Saint Vincent and Grenadines  
+Sante Vincente e Grenadin - Saint Vincent and Grenadines  
 sanzi - wiatrak (wentylator)  
 sapatu - but  
 sapatu ja - szewc  
@@ -4024,9 +4027,8 @@ sau son -
 Saudi Arabi - Arabia Saudyjska  
 sauna - sauna  
 saur - jaszczurka  
-saya - cień  
+saye - cień  
 se - sam, siebie  
-se di -   
 semen - się (nawzajem, wzajemnie)  
 semen su - wzajemny  
 se su -   
@@ -4050,9 +4052,9 @@ semoforer -
 • polisemike - wieloznaczny  
 • unsemike - jednoznaczny  
 semologia -   
-seme - ziarno (nasienie)  
-seme dana - ziarno, nasienie  
-seme di - nasienny  
+semen - ziarno (nasienie)  
+semenal - nasienny  
+semen dane - ziarno, nasienie  
 semente - cement  
 sen -   
 senater - senator  
@@ -4294,7 +4296,7 @@ table -
 table komputa -   
 table yo data - ułożyć w trabelę  
 tai -   
-Tai baxa - tajski  
+Tai baxe - tajski  
 Tai Dexa - Tajlandia  
 Taibei - Tajpej  
 taiga - tajga  
@@ -4484,7 +4486,7 @@ trigonometria -
 trime -   
 tri pike - trójząb  
 triple -   
-Trinidade i Tobago - Trynidad i Tobago  
+Trinita e Tobago - Trynidad i Tobago  
 Triton -   
 truke - sztuczka (podstęp, oszustwo)  
 tu - ty, ciebie  

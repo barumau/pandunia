@@ -39,14 +39,14 @@ airobiike - aérobique
 air ordu - armée de l'air  
 air porto - aéroport  
 air prese - pression atmosphérique  
-air prese metri gi - baromètre  
+air prese metrer - baromètre  
 ais - glace  
-ais di - glacé (glacial, gelé)  
 ais hoki - hockey sur glace  
+aisike - glacé (glacial, gelé)  
 ais krem - crème glacée  
 ais xarbe - sorbet  
+ajabe - merveille  
 ajabife - éblouir (étonner, stupéfier, surprendre)  
-ajabu - merveille  
 akare - acarien  
 akrabe - scorpion  
 ale - autre  
@@ -127,7 +127,7 @@ Antartika - Antarctique
 Antartika Bahai - Océan Antarctique  
 antena - antenne  
 Antigua - Antigua  
-Antigua i Barbuda - Antigua-et-Barbuda  
+Antigua e Barbuda - Antigua-et-Barbuda  
 anus - anus  
 anusal - anal  
 aple - pomme  
@@ -264,7 +264,7 @@ bandaje - bandage
 banda - bande  
 bandera - drapeau  
 bang - masse d'armes  
-bangla baxa - bengali  
+bangla baxe - bengali  
 Bangla gogia - Bangladesh  
 banker - banquier  
 bankekan - banque  
@@ -328,7 +328,6 @@ be pute - pourrir (se décomposer)
 be retro - retourner (revenir)  
 be sona - dormir  
 bebe - bébé  
-bede - lit  
 bedingan - aubergine  
 bei - socio  
 belca - pelle  
@@ -388,7 +387,7 @@ bubu - croque-mitaine
 Bude - Bouddha  
 budike - éveillé  
 buda - cabine  
-buku - livre  
+buke - livre  
 bulbul - rossignol  
 bum - explosion  
 bure - bureau (office)  
@@ -793,7 +792,7 @@ geo nice jela - oubliette (cul de basse-fosse)
 Germania - Germanie  
 germanium - germanium  
 gide - guider  
-gide buku - guide touristique  
+gide buke - guide touristique  
 gider - guide  
 ginge - gingembre  
 gingam - kumquat  
@@ -1069,6 +1068,7 @@ kanse - cancer
 Kantalupo a Sabina - Cantalupo in Sabina  
 kanu - canoë  
 kanyon - canyon (ravin)  
+kape - saisir  
 kapa - tête  
 kapa hin - acéphale (sans tête)  
 kapa kexa - cheveux  
@@ -1111,7 +1111,8 @@ karta - carte
 karuba - caroube  
 kaska - carapace (coquille, coquillage, croûte)  
 Kastilia - Castille  
-kastilia baxa - castillan  
+kastilia baxe - castillan  
+katil - lit  
 katus - cactus  
 kauri - cauri  
 kave - creuser (fosse)  
@@ -1165,7 +1166,7 @@ komike - comique
 komodia - comédie  
 koma - virgule  
 kon - avec (commun)  
-kon helen baxa - koinè  
+kon helen baxe - koinè  
 kon trati - convention (alliance, pacte)  
 konun - commun  
 kone - cône  
@@ -1298,7 +1299,7 @@ livermorium - livermorium
 lixu - écureuil  
 logive - loquace  
 loga - enregistrement  
-loga buku - livre de bord  
+loga buke - livre de bord  
 loke - lieu  
 lokal - local  
 lokize - mettre (placer)  
@@ -1591,7 +1592,7 @@ Noe di nave - arche de Noé
 nome - organiser  
 norde - nord  
 nostalgia - nostalgie  
-note xe - note  
+notaje - note  
 nuka - cou (encolure, nuque)  
 nume - nombre (numéro; contar)  
 numerike - numérique  
@@ -1615,7 +1616,7 @@ orange rang - orange (couleur)
 ordu - armée  
 ordu jen - soldat  
 ordu jen kan - caserne  
-ordu raja - généralissime  
+ordu reger - généralissime  
 ore - oreille  
 ore tis - otite  
 orkide - orchidée  
@@ -1660,6 +1661,7 @@ panir - fromage blanc
 panka - aile  
 pankreas - pancréas  
 pante - pantalon  
+pantete - culotte  
 papagai - perroquet  
 papaya - papaye  
 par - pair (pareil, egal)  
@@ -1753,7 +1755,7 @@ plate stan - plaine
 platin - platine  
 plumbe - plomb  
 plutonium - plutonium  
-poli baxa di - plurilingue (multilingue)  
+polibaxike - plurilingue (multilingue)  
 Polinesia - Polynesie  
 polipli - multiple  
 polite - gouvernement  
@@ -1902,6 +1904,7 @@ sake - sac
 sal - salut  
 sale - sain  
 salam - salam  
+salateria - sanatorium  
 salta - bien-être  
 sala - salle  
 salmon - truite  
@@ -1919,7 +1922,6 @@ sam sifa xe - simulation
 sama - ciel  
 samarium - samarium  
 san - savoir  
-sanateria - sanatorium  
 san logia - épistémologie  
 sanduice - sandwich  
 sanga - ordre  
@@ -1945,8 +1947,8 @@ selu logia - cytologie
 seme - signifier (voiloir dire)  
 semoforer - sémaphore  
 semologia - sémantique  
-seme - semence  
-seme di - séminal  
+semen - semence  
+semenal - séminal  
 sen - aîné (senior, supérieur)  
 senater - sénateur  
 sen bra - frère aîné (grand frère)  

@@ -124,7 +124,7 @@ anneau - ring
 Antarctique - Antartika  
 antenne - antena  
 Antigua - Antigua  
-Antigua-et-Barbuda - Antigua i Barbuda  
+Antigua-et-Barbuda - Antigua e Barbuda  
 antimoine - estibium  
 antonyme - annam  
 anus - anus  
@@ -257,7 +257,7 @@ barbare - barbar
 barbe - barde  
 Barbuda - Barbuda  
 barman - bar vala  
-baromètre - air prese metri gi  
+baromètre - air prese metrer  
 barrière - bare mur  
 baryum - barium  
 bas - dipe  
@@ -273,7 +273,7 @@ beau - mei
 beau-père - per pa  
 beauté - meita  
 belle-mère - per ma  
-bengali - bangla baxa  
+bengali - bangla baxe  
 berceau - lala bede  
 berceause - lala gani  
 berkélium - berklium  
@@ -422,7 +422,7 @@ carte de crédit - krede karte
 carte à collectionner - jame karte  
 cartographie - kartografia  
 caserne - ordu jen kan  
-castillan - kastilia baxa  
+castillan - kastilia baxe  
 Castille - Kastilia  
 cauri - kauri  
 ce...ci - ye  
@@ -622,6 +622,7 @@ cube - kube
 cuiller - camaca  
 cuillère à café (petite cuillère) - cai camaca  
 cuivre - kupre  
+culotte - pantete  
 cultiver - agre  
 cultiver - kulte  
 culture - kulture  
@@ -917,7 +918,7 @@ gingembre - ginge
 giraffe - zirafa  
 glabre - kexa hin  
 glace - ais  
-glacé (glacial, gelé) - ais di  
+glacé (glacial, gelé) - aisike  
 gland - baluta frute  
 glisser - glis  
 glucide - karbohidrate  
@@ -944,7 +945,7 @@ grâce à - a xukre de
 grès - sablite  
 guetteur (sentinelle) - garder  
 guide - gider  
-guide touristique - gide buku  
+guide touristique - gide buke  
 guider - gide  
 guitare - gitar  
 guépard - cita  
@@ -952,7 +953,7 @@ gâteau de lune - luna keke
 génotype - gene tipe  
 généalogie - gene logu  
 général - gensal  
-généralissime - ordu raja  
+généralissime - ordu reger  
 généreux - don tabi  
 généreux - karim di  
 générosité (charité) - karim  
@@ -1129,7 +1130,7 @@ Kinshasa - Kinxasa
 kiwi - kivi  
 kiwi - kivi frute  
 koala - koala  
-koinè - kon helen baxa  
+koinè - kon helen baxe  
 krypton - kriton  
 kumquat - gingam  
 Kâmasûtra - kama kanon  
@@ -1187,15 +1188,15 @@ lipide - lipide
 lipoaspiração - lipi cupu  
 lire - dugu  
 liste - liste  
-lit - bede  
+lit - katil  
 lit de camp - kampe bede  
 lithium - litium  
 litre - litre  
 lits superposés - ceng bede  
 littérature - kitabe suta  
 livermorium - livermorium  
-livre - buku  
-livre de bord - loga buku  
+livre - buke  
+livre de bord - loga buke  
 local - lokal  
 logique - ratologia  
 loin (hors, parti) - for  
@@ -1302,7 +1303,7 @@ mercredi - merkurden
 mercure - hidrargente  
 Mercure - Merkur  
 merde - xite  
-merveille - ajabu  
+merveille - ajabe  
 merveille - mirebil  
 message - angil  
 message - misaje  
@@ -1434,7 +1435,7 @@ non (ne...pas) - no
 non-binaire - nobi  
 nord - norde  
 nostalgie - nostalgia  
-note - note xe  
+note - notaje  
 notre - mimen su  
 nous - mimen  
 nouveau - neu di  
@@ -1661,7 +1662,7 @@ plume - kalam
 plume - pena  
 plume - pena kalam  
 plumer - depena  
-plurilingue (multilingue) - poli baxa di  
+plurilingue (multilingue) - polibaxike  
 plurilingue (multilingue) - polibaxike  
 plus - max  
 plutonium - plutonium  
@@ -1909,6 +1910,7 @@ sagesse - sofia
 sagoutier - sagu  
 sain - sale  
 saintes écritures  - sante kanon  
+saisir - kape  
 saison - mosim  
 salam - salam  
 sale - ansafe  
@@ -1920,7 +1922,7 @@ salut - sal
 samarium - samarium  
 samedi - xaniden  
 Samoa américaines - Amerikan Samoa  
-sanatorium - sanateria  
+sanatorium - salateria  
 sandwich - sanduice  
 sang - heme  
 santé - saludo  
@@ -1964,7 +1966,7 @@ secte - din xia
 sein - mame  
 sel - yem  
 semaine - cetiden  
-semence - seme  
+semence - semen  
 sens - sense  
 sentir qqch (avoir l'odeur de qqch) - fa aroma  
 sentir qqch - fa aroma  
@@ -2041,7 +2043,7 @@ syntaxe - sintaxe
 sélénium - selenium  
 sémantique - semologia  
 sémaphore - semoforer  
-séminal - seme di  
+séminal - semenal  
 sénateur - senater  
 série - seria  
 sûr (crédible, sûrement) - amen di  

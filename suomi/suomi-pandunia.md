@@ -157,7 +157,7 @@ anteliaisuus (vieraanvaraisuus, hyväntekeväisyys) - karim
 antelias (avokätinen) - don tabi  
 antenni - antena  
 Antigua - Antigua  
-Antigua ja Barbuda - Antigua i Barbuda  
+Antigua ja Barbuda - Antigua e Barbuda  
 antikristus - antikriste  
 antimoni - estibium  
 apinanleipäpuu (baobab) - buyu  
@@ -280,7 +280,7 @@ beduiini - badavi
 Belgia - Belgi  
 beli (B) - bel  
 Belize - Belize  
-bengali - bangla baxa  
+bengali - bangla baxe  
 Benin - Benin  
 bensiini (bensa) - benzin  
 berkelium - berklium  
@@ -828,7 +828,7 @@ huomauttaa - notize
 huomautus - note angil  
 huomenta - sal suba  
 huominen - pos den  
-huomio (kommentti, merkintä) - note xe  
+huomio (kommentti, merkintä) - notaje  
 huone - kamar  
 hurma (lumo, tenho) - fasinta  
 hurrata (hurraa, jee, jippii, hiphei) - hura  
@@ -899,10 +899,10 @@ idänunikko - gui papi
 ies - yuge  
 iglu - iglu  
 ihailla - amire  
-ihmeellinen (ällistyttävä, merkillinen) - ajabu di  
+ihmeellinen (ällistyttävä, merkillinen) - ajabike  
 ihmetellä (olla ihmeissään) - be ajabu  
 ihmeteltävä - mirebil  
-ihmetys (hämmästys) - ajabu  
+ihmetys (hämmästys) - ajabe  
 ihminen (tomumaja) - human  
 ihmiset (yleisen persoonan pronomini) - jen (jen men)  
 ihmiskunta - humania  
@@ -917,7 +917,7 @@ ilma - air
 ilman oleva (-ton) - hin di  
 ilmanpaine - air prese  
 ilmapallo - bolon  
-ilmapuntari (ilmanpainemittari, barometri) - air prese metri gi  
+ilmapuntari (ilmanpainemittari, barometri) - air prese metrer  
 ilmasto - klima  
 ilmastonmuutos - klima mute  
 ilmastotiede (klimatologia) - klimalogia  
@@ -985,7 +985,7 @@ itkeä (yhyy) - uhu
 itkeä - vava  
 itse - se  
 itsehallinto (autonomia) - autonomia  
-itsekäs - se di  
+itsekäs - autike  
 itseliikkuva - automotike  
 itsenäinen tekijä (auktori) - auter  
 itseys - aute  
@@ -1096,9 +1096,9 @@ juustokumina (jeera) - zira
 juutalainen - yehude  
 juutalaisuus - yehudisme  
 jyrinä (ukkonen) - grom  
-jyvä (luoti) - dana  
+jyvä (luoti) - dane  
 jyvänen (hiukkanen) - gran  
-jäinen - ais di  
+jäinen - aisike  
 jäkälä - alga fungu  
 jälkiliite (postfiksi) - posfixe  
 jälkituotanto - posprodution  
@@ -1128,6 +1128,8 @@ jäätyä - be ais
 kaakao - kakau  
 kaali - koli  
 kaaos - haos  
+kaapata - pirate  
+kaappari (piraatti, merirosvo) - pirater  
 kaappi - almari  
 kaapu - juba  
 kaari - arke  
@@ -1194,7 +1196,7 @@ kandela - kandela
 kangas - tela  
 kangastus - miraje  
 kannabis (marihuana, hamppu) - ganja  
-kannada (eräs intialainen kieli) - karnada baxa  
+kannada (eräs intialainen kieli) - karnada baxe  
 kannattaa (tukea, edistää) - fa sim  
 kannattaa - suporte  
 kannattaja (tukija, -isti) - iste  
@@ -1242,7 +1244,7 @@ kastanja - kastana
 kaste - rose  
 kastike (soosi) - sos  
 Kastilia - Kastilia  
-kastilian kieli (espanjan kieli) - kastilia baxa  
+kastilian kieli (espanjan kieli) - kastilia baxe  
 kasvaa (kasviksesta) - vegate  
 kasvaa (suurentua) - be dai  
 kasvaa - be raste  
@@ -1301,7 +1303,7 @@ keidas - vahi
 keiju - pari  
 keijunsilmä - nil serami sing  
 keinotekoinen (teko-, keino-) - arte fete di  
-keinotekoinen kieli (tekokieli, keinokieli) - arte fete baxa  
+keinotekoinen kieli (tekokieli, keinokieli) - arte fete baxe  
 keinotekoinen kieli (tekokieli, keinokieli) - fete baxe  
 keinuttaa (keikuttaa) - roke  
 keinutuoli (kiikkutuoli) - roke kursi  
@@ -1439,7 +1441,7 @@ kirentää (kiristää) - fa tense
 kireä (tiukka, jännittynyt) - tense  
 Kirgistan (Kirgisia) - Kirgize  
 Kiribati - Kiribati  
-kirja - buku  
+kirja - buke  
 kirjain - fone zi  
 kirjallisuus - kitabe suta  
 kirjasto - kitabekan  
@@ -1475,7 +1477,7 @@ kohtalo (määrä) - kisma
 kohtelias (kiltti) - keci  
 kohti (päin) - pro  
 kohti (päin) - verse  
-koinee-kreikka - kon helen baxa  
+koinee-kreikka - kon helen baxe  
 koira - vaf  
 koirankoppi - vaf bute  
 koiratarha (kennel) - vaf parke  
@@ -1672,7 +1674,7 @@ kuusikulmio - luka gona
 kuutio (kuusitahokas) - luka fase  
 kuutio - kube  
 kuvaileva (määrittelevä) - sifa di  
-kuvakirja - grafe buku  
+kuvakirja - grafe buke  
 kuvankäsittely - grafe cule  
 kuvanveisto - eskulte suta  
 kuvanveistäjä - eskulter  
@@ -1863,7 +1865,7 @@ Libya - Libia
 Liechtenstein - Lihtenstain  
 liekki - flam  
 Liettua - Lietuva  
-liettualainen - lietuva baxa  
+liettualainen - lietuva baxe  
 liha - karne  
 lihallinen - karnal  
 lihas - muskul  
@@ -1925,7 +1927,7 @@ lohkare (järkäle) - dai seku
 loimi - ging lin  
 lokakuu - mes des  
 lokasuoja - poto defa bano  
-lokikirja - loga buku  
+lokikirja - loga buke  
 looginen - logikal  
 looginen - ratologike  
 lopettaa - fine  
@@ -2138,7 +2140,7 @@ matematiikka (matikka) - numologia
 materialismi - madisme  
 matka (reissu) - safar  
 matkailija - safarer  
-matkaopas (opaskirja) - gide buku  
+matkaopas (opaskirja) - gide buke  
 matkatavarat - bagaje  
 matkašekki - safar ceke  
 matkia (imitoida) - mime  
@@ -2194,7 +2196,6 @@ meriheinä - bahai cau
 merilevä - bahai alga  
 merimakkara - bahai hiyar  
 merimies - bahai vala  
-merirosvo (piraatti) - pirater  
 merirosvous - pirateria  
 merivoimat (sotalaivasto) - bahai ordu  
 merivuokko - bahai hua  
@@ -2270,7 +2271,7 @@ monijumalisuus (panteismi) - pandeisme
 monikansallinen - poli nasi di  
 monikansallinen - polinasial  
 monikerroksinen (monimutkainen) - konplike  
-monikielinen - poli baxa di  
+monikielinen - polibaxike  
 monikielinen - polibaxike  
 monikulmio (polygoni) - poli gona  
 monimerkityksinen (polyseeminen) - polisemike  
@@ -2289,6 +2290,7 @@ moottoripyörä - moter sikle
 moraali - moral  
 moraalinen - moral di  
 morfeemi - formeme  
+moringa - muringa  
 Mosambik - Mozambike  
 moscovium - moskvium  
 Moskova - Moskva  
@@ -2296,7 +2298,7 @@ muinainen Egypti - Keme
 muinaisjäänne - prezaman xe  
 muistaa - fa memo  
 muisti - memo  
-muistikirja - note buku  
+muistikirja - note buke  
 muistio (muistiinmerkintä) - memo note  
 muistitekniikka - memo tehni  
 muistosanat (muistopuhe, muistokirjoitus) - nekrologe  
@@ -2394,6 +2396,7 @@ nainen - ceng fem
 Namibia - Namibia  
 nano- - nano  
 nanometri - nano mitre  
+napata (kaapata, ottaa) - kape  
 nappi (näppäin, kytkin, nappula) - buton  
 narkomaani (huumeriippuvainen, addikti) - narkiste  
 narkoosi - narkose  
@@ -2464,7 +2467,7 @@ nopeusmittari - suga metri gi
 noppa (arpakuutio) - zar kube  
 Norfolkin saaret - Norfolke nese  
 Norja - Norge  
-norjalainen - norge baxa  
+norjalainen - norge baxe  
 normaali - norma di  
 normi - norma  
 norsu (elefantti) - gaja  
@@ -2475,7 +2478,7 @@ nostaa tasoa - hau gradu
 nostattaa hiivalla - be biomute  
 nousta - be gau  
 nousta ylemmälle tasolle - be gau gradu  
-noutopöytä (buffetti) - bufete  
+noutopöytä (buffetti) - bufe  
 novelli - korte kata  
 noviisi (uusikko, vasta-alkaja) - neu jen  
 nudismi - nudisme  
@@ -2626,7 +2629,6 @@ ostaja - xoper
 ostokset - xope  
 otella - fa mece  
 ottaa esiin (paljastaa) - vai poze  
-ottaa kiinni (napata, kaapata) - kape  
 ottaa kiinni (napata, kaapata, siepata) - cepe  
 ottaa pois (poistaa; paitsi, poislukien) - excepe  
 ottaa takaisin - recepe  
@@ -2734,7 +2736,7 @@ papukaija - papagai
 Paraguai - Paraguai  
 parametri (argumentti) - parametri  
 paranormaali (yliluonnollinen) - paranormali  
-parantola (sanatorio) - sanateria  
+parantola (sanatorio) - salateria  
 pari (kaksikko) - per  
 Pariisi - Paris  
 parillinen luku - per nume  
@@ -2832,6 +2834,7 @@ piirros (graafi) - grafe
 piirtää - grafe  
 piirustus - desen  
 piiska (ruoska) - bici  
+pikkuhousut - pantete  
 pikkukaupunki - xiu siti  
 pikkukylä - xiu deha  
 pikkuruinen (mikroskooppinen, mikro-) - mikro  
@@ -2847,11 +2850,11 @@ pilvi - megi
 pimeä (hämärä) - oskur  
 pinaattikiinankaali - baku coi  
 pingviini - pinguin  
-pinnasänky - bebe bede  
+pinnasänky - bebe katil  
 pinta (tahko) - fase  
 pioni - mudan  
 pippuri - pipre  
-piraatti (joka ei kunnioita tekijänoikeuksia) - piratisme  
+piraatti (joka ei kunnioita tekijänoikeuksia) - piratiste  
 piraattipuolue - pirate partia  
 pirullinen - xatanike  
 pisara (tippa) - giota  
@@ -2938,7 +2941,7 @@ pornografia - porno grafi
 porras (aste, taso) - gradu  
 portaat (rappuset, tikkaat) - trepe  
 Portugali - Portugal  
-portugali - portugal baxa  
+portugali - portugal baxe  
 porukka (kuppikunta, lohko, siipi) - xia  
 posliini - cini  
 posliinikotilo - kauri  
@@ -2997,7 +3000,7 @@ punainen - rubi
 punkki - akare  
 punta - paunde  
 puola - Polska  
-puolalainen - polska baxa  
+puolalainen - polska baxe  
 puoleensavetävä (viehättävä) - atratevi  
 puolesta - a vakil de  
 puoli (puolikas, ½) - un fen du  
@@ -3102,7 +3105,7 @@ radiolähetin - radio miser
 radiovastaanotin - radio ceper  
 radium - radium  
 radon - radon  
-radža - hinde raja  
+radža - hinde reger  
 raha - pesa  
 rahka - panir  
 raippa - uma bici  
@@ -3277,8 +3280,8 @@ sahalaitos - xarakan
 sahanpuru (sahajauho) - xarafun  
 sahrami - safran  
 Saint Helena - Sante Helena  
-Saint Kitts - Sante Kitse  
-Saint Kitts ja Nevis - Sante Kitse i Nevis  
+Saint Kitts - Sante Kristofor  
+Saint Kitts ja Nevis - Sante Kristofor e Nevis  
 Saint Lucia - Sante Lucia  
 saippua - sabun  
 sairaala - patekan  
@@ -3318,7 +3321,7 @@ sanoa (puhua) - dite
 sanoa vastaan - kontredite  
 sanomalehti - habar gazeta  
 sanonta (diktio) - dition  
-Sao Tome ja Principe - Sante Tome i Principe  
+Sao Tome ja Principe - Sante Tome e Principe  
 sapatti - sabate  
 sarana - xarnir  
 sardelli (anjovis) - ancovi  
@@ -3404,9 +3407,9 @@ Seychellit - Sexel nesia
 sianliha - goro karne  
 side (remmi) - faxe  
 side - bandaje  
-siemen - seme  
-siemen- - seme di  
-siemenjyvä - seme dana  
+siemen - semen  
+siemen- - semenal  
+siemenjyvä - semen dane  
 sienen hattu - fungu frute  
 sieni - fungu  
 sienieläin - esponje  
@@ -3530,8 +3533,8 @@ sose (chutney) - hinde sos
 sosiaalinen media - sosial midia  
 sosialismi - sosisme  
 sosialisti - sosiste  
-sotaherra (generalissimo) - ordu raja  
-sotaherran maa - ordu rajia  
+sotaherra (generalissimo) - ordu reger  
+sotaherran maa - ordu regia  
 sotilaallinen - jang di  
 sotilas - ordu jen  
 sotilasjuntta - zalim yunte  
@@ -3681,7 +3684,7 @@ tahtoa - ice
 tai (vai) - o  
 taianomainen (maaginen) - magike  
 taide - mei arte  
-taidekieli - arte baxa  
+taidekieli - arte baxe  
 taiga - taiga  
 taikavoima - magi bala  
 taikoa (taika) - mage  
@@ -3848,7 +3851,7 @@ Tethys - Tetis
 teurastaa (lahdata, lyödä lihoiksi) - karnize  
 teurastaja - karnizer  
 teurastamo - karnekan  
-thai - Tai baxa  
+thai - Tai baxe  
 Thaimaa - Tai Dexa  
 Thule - Tule  
 tie - dau  
@@ -3927,7 +3930,7 @@ traktori - trater
 Transdnistria - Transe Nistre Dexa  
 trendi - faxon  
 trilogia (kolmeosainen kertomus) - trilogia  
-Trinidad ja Tobago - Trinidade i Tobago  
+Trinidad ja Tobago - Trinita e Tobago  
 tripla (kolminkertainen) - triple  
 Triton - Triton  
 trooppinen - garma zona di  
@@ -4203,7 +4206,7 @@ varas - corer
 varastaa - fa cori  
 varata (tehdä varaus) - fa rezerve  
 varaus (ennakkovaraus) - rezerve  
-varjo - saya  
+varjo - saye  
 varkaus - core  
 varma (luotettu) - amen di  
 varras - xix  
@@ -4366,7 +4369,7 @@ volframi - volfram
 voltti (V) - volta  
 voodoo - vodun  
 vulkaaninen lasi - hogo xan glas  
-vuode (sänky, peti) - bede  
+vuode (sänky, peti) - katil  
 vuodenaika - mosim  
 vuohi - behe  
 vuokra - kira  
@@ -4488,7 +4491,6 @@ yllätys - supriza
 ylä- (yli-) - supra di  
 yläaste ja lukio - jong xulakan  
 ymmärrys (taju, oivallus) - budion  
-ymmärtää (oivaltaa) - aha  
 ymmärtää väärin - galte budi  
 ympäristö- (luonto-) - ekal  
 ympäröidä (piirittää) - fa gola  

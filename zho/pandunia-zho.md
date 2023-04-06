@@ -117,6 +117,7 @@ atom kerne - 原子核
 auro - 金  
 Austronesia - 南岛  
 autatike - 自动的  
+autike - 自私  
 autologe - 独白  
 ave - 燕麦  
 axe - 轴线  
@@ -209,9 +210,8 @@ be pute - 腐烂
 be retro - 返回 (回来)  
 be sona - 睡觉 (困觉)  
 be vanu - 玩耍  
+bebe katil - 娃娃床  
 bebe - 宝宝 (娃娃)  
-bebe bede - 娃娃床  
-bede - 床  
 bedingan - 茄子  
 behe - 山羊  
 belca - 铲  
@@ -270,8 +270,8 @@ bubu - 魔鬼
 bude - 睡醒  
 Bude - 佛陀  
 buda - 亭  
-bufete - 自助餐  
-buku - 书  
+bufe - 自助餐  
+buke - 书  
 bulbul - 夜莺  
 bum - 爆炸  
 burer - 秘书  
@@ -606,7 +606,7 @@ gensologia - 性别研究
 geo forme - 地势  
 germanium - 锗  
 gide - 导游  
-gide buku - 指南  
+gide buke - 指南  
 gider - 导游  
 ginge - 姜  
 ging lin - 經紗  
@@ -709,7 +709,7 @@ hidrargente - 汞
 hijabu - 面纱  
 Hindocin - 中南半岛 (印度支那)  
 hindium - 铟  
-hinde raja - 拉贾  
+hinde reger - 拉贾  
 Hinde rivo - 印度河  
 Hindestan - 印度斯坦  
 hipoglukohemia - 低血糖  
@@ -891,6 +891,7 @@ kartografia - 地图学
 karta - 牌  
 kasete - 卡式  
 kaska - 壳 (皮)  
+katil - 床  
 katus - 仙人掌  
 kauri - 宝贝  
 kave - 挖 (坑, 穴)  
@@ -935,7 +936,7 @@ komodia - 喜剧
 koma - 逗号  
 kon - 共  
 kon hau - 相配  
-kon helen baxa - 通用希臘語  
+kon helen baxe - 通用希臘語  
 kon trati - 公約  
 kone - 锥体  
 konserte - 音乐会  
@@ -1041,7 +1042,7 @@ litium - 锂
 litre - 升  
 lixu - 松鼠 (栗鼠)  
 loga - 纪录  
-loga buku - 航海日志  
+loga buke - 航海日志  
 loke - 地方  
 lokize - 放置  
 loke kode - 坐标  
@@ -1200,6 +1201,7 @@ mum cape - 封印
 mum melon - 冬瓜 (白瓜)  
 mur - 墙壁  
 mur kaguze - 壁纸 (墙纸)  
+muringa - 辣木  
 murmeke - 蚂蚁  
 mus - 应该 (必须)  
 muskul bina - 健美运动  
@@ -1292,7 +1294,7 @@ Noe di nave - 诺亚方舟
 nome - 组织  
 norde - 北  
 nostalgia - 怀旧  
-note xe - 便条  
+notaje - 便条  
 nuka - 颈  
 nume - 数  
 numerike - 数字的  
@@ -1313,7 +1315,7 @@ orange rang - 橙色
 ordu - 军队  
 ordu jen - 军人  
 ordu jen kan - 营房  
-ordu raja - 大元帅  
+ordu reger - 大元帅  
 ore - 耳  
 ore tis - 耳炎  
 orkide - 兰花  
@@ -1546,16 +1548,15 @@ sari - 莎丽
 satelite - 卫星  
 sau - 兄弟姐妹 (xiōngdì jiěmèi)  
 saur - 蜥蜴  
-se di - 自私  
 semen - 彼此  
 seku - 石 (岩)  
 konseler - 顾问  
 selenium - 硒  
 selu logia - 细胞学  
 semologia - 语义学  
-seme - 种  
-seme dana - 种子  
-seme di - 种子的  
+semen - 种  
+semenal - 种子的  
+semen dane - 种子  
 senater - 参议员  
 sen bei - 先辈 (前辈)  
 senseng - 师傅  

@@ -129,7 +129,7 @@ aluminium - alumin
 alveolar ridge (gum ridge) - dante kume  
 always - pan sata  
 amaze - ajabife  
-amazing (astonishing) - ajabu di  
+amazing (astonishing) - ajabike  
 Amazon river - Amazon  
 Amazonia - Amazonia  
 ambassador - dai angiler  
@@ -189,7 +189,7 @@ antenna (aerial) - antena
 anthill - murmeke kume  
 antichrist - antikriste  
 Antigua - Antigua  
-Antigua and Barbuda - Antigua i Barbuda  
+Antigua and Barbuda - Antigua e Barbuda  
 antimony - estibium  
 antonym - annam  
 anus - anus  
@@ -245,11 +245,11 @@ article (writing) - makale
 artifact (artefact) - arte fete  
 artificial - arte fete di  
 artificial intelligence (AI) - arte fete intelige (AI)  
-artificial language (conlang) - arte fete baxa  
+artificial language (conlang) - arte fete baxe  
 artificial language (conlang) - fete baxe  
 artisan (craftsman) - arte saner  
 artist - artiste  
-artistic language (artlang) - arte baxa  
+artistic language (artlang) - arte baxe  
 Artsakh - Arcah  
 Aruba - Aruba  
 ascetic - askete  
@@ -369,7 +369,7 @@ barbecue (grill) - kababu
 Barbuda - Barbuda  
 barium - barium  
 barley - jau  
-barometer - air prese metri gi  
+barometer - air prese metrer  
 barracks - ordu jen kan  
 barrel (can, cask) - tong  
 barrier (fence) - bare mur  
@@ -403,7 +403,7 @@ beauty - meita
 beaver - bibre  
 because - a sabu de  
 become open - be kai  
-bed - bede  
+bed - katil  
 bedouin (nomadic) - badavi  
 bedrock - baze petre  
 bedroom - sona kamar  
@@ -437,7 +437,7 @@ belong - be mal
 belt (zone) - zone  
 bench - benci  
 bend (flex) - flexe  
-Bengali language (Bangla) - bangla baxa  
+Bengali language (Bangla) - bangla baxe  
 Benin - Benin  
 beret - bere  
 berkelium - berklium  
@@ -517,7 +517,7 @@ bon appetit! - sal yam
 bone - oste  
 bonus - maxaje  
 boo! - bu!  
-book - buku  
+book - buke  
 boot - buta  
 booth (cabin, stall, stand) - buda  
 border (edge, fringe, margin, rim, side, shore, periphery) - kinar  
@@ -587,7 +587,7 @@ Buddha - Bude
 Buddhism - budisme  
 Buddhist - budiste  
 budget - pesa plan  
-buffet (smorgasbord) - bufete  
+buffet (smorgasbord) - bufe  
 bugle (horn instrument) - laba  
 build (construct) - bine  
 building (structure) - bine  
@@ -706,10 +706,10 @@ cassava (manioc) - manioka
 cassette - kasete  
 caste - gene klas  
 Castil - Kastilia  
-Castilian (Spanish) - kastilia baxa  
+Castilian (Spanish) - kastilia baxe  
 cat - miau  
 Catalonia - Katalunia  
-catch (capture, seize, snatch, intercept) - kape  
+catch (capture, grab, seize, snatch) - kape  
 catch (capture, take, seize) - cepe  
 catch fish - kape yo pexe  
 Caucasia - Kaukasia  
@@ -1028,7 +1028,7 @@ creator - kreater
 credible (believable) - kredebil  
 credit card - krede karte  
 crepe - Franse krepe  
-crib - bebe bede  
+crib (cot) - bebe katil  
 cricket (sport) - krikete  
 crime - krim  
 criminal - krim di  
@@ -1749,7 +1749,7 @@ gender studies - gensologia
 genderqueer (non-binary) - nobi  
 genealogy (recording of descents) - gene logu  
 general (involving every member of a class or a category) - gensal  
-generalissimo (shogun) - ordu raja  
+generalissimo (shogun) - ordu reger  
 generate (beget, produce; production, reproduction) - gene  
 generation (cohort) - gene grupe  
 generous (open-handed) - don tabi  
@@ -1884,7 +1884,7 @@ Guatemala - Guatemala
 Guernsey - Gernezi  
 guide (lead, show the way) - gide  
 guide - gider  
-guide book - gide buku  
+guide book - gide buke  
 guilty - doxike  
 Guinea - Konakri Ginia  
 Guinea-Bissau - Bisau Ginia  
@@ -1982,6 +1982,7 @@ hey (exclamation to get attention) - hei
 hide (conceal) - fa sir  
 high (tall) - gau di  
 high technology (hi-tech) - gau tehni  
+hijack - pirate  
 Himalayas - Himalaya  
 hind (behind, later) - meta  
 Hindi (Hindustani) - Hinde  
@@ -2093,7 +2094,7 @@ ice - ais
 ice cream - ais krem  
 ice hockey - ais hoki  
 Iceland - Islande  
-icy - ais di  
+icy - aisike  
 idea (concept, notion) - idee  
 identifier (ID) - has nam  
 identity document (identification, ID) - nam dokumen  
@@ -2284,7 +2285,7 @@ justice - adilta
 kale - yepa koli  
 Kama Sutra - kama kanon  
 kangaroo - kangaru  
-Kannada - karnada baxa  
+Kannada - karnada baxe  
 karaoke - karaoke  
 karate - karate  
 karateka (practitioner of karate) - karater  
@@ -2336,7 +2337,7 @@ know by experience or in person - ken
 know how - sabe  
 knowledge - san xe  
 koala - koala  
-Koine Greek - kon helen baxa  
+Koine Greek - kon helen baxe  
 kola - kola  
 kola nut - kola frute  
 Konkani - Konkani  
@@ -2474,7 +2475,7 @@ listen - fa ore
 literature - kitabe suta  
 lithium - litium  
 Lithuania - Lietuva  
-Lithuanian - lietuva baxa  
+Lithuanian - lietuva baxe  
 litre (liter) - litre  
 little (few, not many) - kam  
 little (small) - xiu  
@@ -2494,7 +2495,7 @@ locked (secure) - tala di
 log (trunk) - moka tana  
 log in (sign in) - inloga  
 log out (log off) - exloga  
-logbook - loga buku  
+logbook - loga buke  
 logic (deduction) - logike  
 logic - ratologia  
 logical - logikal  
@@ -2832,6 +2833,7 @@ mooncake - luna keke
 moral - moral di  
 morality (ethics) - moral  
 more - max  
+moringa (drumstick tree, horseradish tree) - muringa  
 morning (dawn) - suba  
 Morocco - Magribia  
 morpheme - formeme  
@@ -2868,9 +2870,9 @@ muddy - poto di
 muesli - musli  
 mulberry - tuta  
 mule - iha uma  
-multicultural - poli kultur di  
-multiculturalism - poli kultur sim  
-multilingual - poli baxa di  
+multicultural - polikultural  
+multiculturalism - polikulturisme  
+multilingual - polibaxike  
 multilingual - polibaxike  
 multinational - poli nasi di  
 multinational - polinasial  
@@ -3010,14 +3012,14 @@ northern - norde di
 Northern Ireland - Norde Aire  
 Northern Mariana Islands - Mariana nesia  
 Norway - Norge  
-Norwegian language - norge baxa  
+Norwegian language - norge baxe  
 nose - nos  
 nostalgia (longing) - nostalgia  
 nostalgic - nostalgike  
 not (no) - no  
-note (observation, remark, comment) - note xe  
+note (observation, remark, comment) - notaje  
 note (observe, notice) - note  
-notebook - note buku  
+notebook - note buke  
 nothing - siro xe  
 notice (notification) - note angil  
 notify - notize  
@@ -3217,6 +3219,7 @@ pansexual - pan sexe di
 pansy (violet, viola) - violeta  
 pantheism - pandeisme  
 pantheon - pandeia  
+panties (knickers) - pantete  
 pantomime - panmime  
 pants (trousers) - pante  
 papaya - papaya  
@@ -3240,7 +3243,7 @@ partial - fen di
 participant - parteceper  
 participate (attend, partake, take part) - fa parti  
 participate (attend, partake, take part) - partecepe  
-particle (grain, bullet) - dana  
+particle (grain, bullet) - dane  
 partitive case - partative  
 partner - partaner  
 partnership - partaneria  
@@ -3348,7 +3351,7 @@ pickle (preserve in vinegar or brine) - fa acar
 pickle - acar  
 pickled - acar di  
 picnic - vai yam  
-picture book - grafe buku  
+picture book - grafe buke  
 pidgin (contact language) - pijin  
 pie (pastry) - pai  
 piece (chip, fragment, shred, morsel, crumb, shard) - parte  
@@ -3365,8 +3368,8 @@ pink salmon - rode salmon
 pipe - pipe  
 piquant - pin sense di  
 piracy - pirateria  
-pirate (one who disobeys intellectual property laws) - piratisme  
-pirate (sea robber) - pirater  
+pirate (corsair, sea robber) - pirater  
+pirate (one who disobeys intellectual property laws) - piratiste  
 Pirate Party - pirate partia  
 piss (urinate) - pixe  
 piss (urine) - pixe  
@@ -3430,7 +3433,7 @@ police - polis
 police officer - poliser  
 police station - poliskan  
 polish - lumize  
-Polish language - polska baxa  
+Polish language - polska baxe  
 polite - keci  
 political - politi di  
 politician (administrator, statesman) - politike  
@@ -3459,7 +3462,7 @@ port (left side of a ship) - nave leu
 port (station) - porto  
 portion (dose) - doze  
 Portugal - Portugal  
-Portuguese language - portugal baxa  
+Portuguese language - portugal baxe  
 pose (set, plant) - fa poze  
 pose (set; position) - poze  
 possessive postposition (’s) - su  
@@ -3642,7 +3645,7 @@ rainwater - barxa sui
 rainy season (monsoon) - barxa mosim  
 raise (lift) - gauize  
 raisin - gan putau  
-rajah - hinde raja  
+rajah - hinde reger  
 raki - anis araki  
 Ramadan - ramazan  
 ramen (soup noodles) - supa mien  
@@ -3665,7 +3668,6 @@ realism - realisme
 realist - realiste  
 reality - realta  
 realization (awareness, enlightenment, bodhi) - budion  
-realize (understand) - aha  
 realize (understand; aha) - aha  
 reanimate - reanimate  
 reason (cause) - sabu  
@@ -3862,11 +3864,11 @@ sailer - nave ga ja
 sailor (seaman, mariner) - bahai vala  
 Saint Helena - Sante Helena  
 Saint John's Day - Yohan festa  
-Saint Kitts - Sante Kitse  
-Saint Kitts and Nevis - Sante Kitse i Nevis  
+Saint Kitts - Sante Kristofor  
+Saint Kitts and Nevis - Sante Kristofor e Nevis  
 Saint Lucia - Sante Lucia  
 Saint Vincent - Sante Vincente  
-Saint Vincent and Grenadines - Sante Vincente i Grenadin  
+Saint Vincent and Grenadines - Sante Vincente e Grenadin  
 salaam - salam  
 salad - salade  
 salmon (trout) - salmon  
@@ -3877,13 +3879,13 @@ samarium - samarium
 same (equal, alike, match) - sam  
 Samoa - Samoa  
 San Marino - Sante Marino  
-sanatorium (sanitarium) - sanateria  
+sanatorium (sanitarium) - salateria  
 sand - sable  
 sandcastle - sable burge  
 sandstone - sablite  
 sandwich - sanduice  
 Sao Paulo - Sante Paulo  
-Sao Tome and Principe - Sante Tome i Principe  
+Sao Tome and Principe - Sante Tome e Principe  
 sapling - jun moka  
 sapling - you moke  
 sari - sari  
@@ -3954,8 +3956,8 @@ secret (hidden) - sir
 secretariat - bureria  
 secretary (clerk) - burer  
 sect (cult) - din xia  
-seed (fertilized grain) - seme dana  
-seed (semen) - seme  
+seed (fertilized grain) - semen dane  
+seed (semen) - semen  
 seem - be rupa  
 seismology - sismologia  
 seldom (rarely) - nadir mar  
@@ -3963,12 +3965,12 @@ selenium - selenium
 self (identity) - aute  
 self (reflexive pronoun) - se  
 self-moving (automotive, automobile) - automotike  
-selfish - se di  
+selfish - autike  
 sell (vend) - vende  
 semantics - semologia  
 semaphore - semoforer  
 sememe - sememe  
-seminal - seme di  
+seminal - semenal  
 senator - senater  
 send (emit, transmit) - mise  
 send back (remit) - remise  
@@ -3998,7 +4000,7 @@ sexology - sexulogia
 sexual (pertaining to gender) - sexual  
 sexy (sexually arousing) - sexe di  
 Seychelles - Sexel nesia  
-shadow - saya  
+shadow - saye  
 shake (jolt, earthquake) - sisme  
 shaman - xaman  
 shame (disgrace) - xarma  
@@ -4028,7 +4030,7 @@ shock (collision) - xoke
 shoe - sapatu  
 shoemaker - sapatu ja  
 shoemaker's shop - sapatukan  
-shogunate - ordu rajia  
+shogunate - ordu regia  
 shoot (fire) - pau  
 shopping - xope  
 short (brief) - korte  
@@ -4440,7 +4442,7 @@ terrorize - terurize
 tesla (T) - tesla  
 test (challenge, trial) - teste  
 Tethys - Tetis  
-Thai language - Tai baxa  
+Thai language - Tai baxe  
 Thailand - Tai Dexa  
 thallium - talium  
 than (as, compared to, relative to) - ka  
@@ -4591,7 +4593,7 @@ trick (ruse, fraud) - truke
 trident - tri pike  
 trigonometry - trigonometria  
 trilogy - trilogia  
-Trinidad and Tobago - Trinidade i Tobago  
+Trinidad and Tobago - Trinita e Tobago  
 triple (threefold) - triple  
 Triton - Triton  
 tropical - garma zona di  
@@ -4884,7 +4886,7 @@ with (together; common) - kon
 wolf - volfe  
 Wolof (language and people) - Volof  
 woman (adult female) - ceng fem  
-wonder (awe, marvel) - ajabu  
+wonder (awe, marvel) - ajabe  
 wonder (be amazed) - be ajabu  
 wonder (be interested in, would like to know) - be sabe vol  
 wonderful (marvel, mirable) - mirebil  

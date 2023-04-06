@@ -234,7 +234,7 @@ anterior (remoto) - pas di
 antibalas - dana sekur  
 Anticristo - antikriste  
 Antigua - Antigua  
-Antigua y Barbuda - Antigua i Barbuda  
+Antigua y Barbuda - Antigua e Barbuda  
 Antillas Neerlandesas - Nederlande Antil  
 antimonio - estibium  
 antorcha - fote kane  
@@ -431,7 +431,7 @@ barril (tonel) - tong
 barrio (cuartel) - mahala  
 barrio pobre - harabe mahala  
 baréin - Bahrain  
-barómetro - air prese metri gi  
+barómetro - air prese metrer  
 base (álcali; alcalino) - kali  
 base - baze  
 bastante - bas  
@@ -506,6 +506,7 @@ Botsuana - Cuana
 botánica - fitologia  
 boxeador - bocer  
 boxeo - boce  
+bragas - pantete  
 Brasil - Brazil  
 bravo! - brave  
 brazo - hanu xaka  
@@ -530,7 +531,7 @@ buenas tardes - sal dia
 bueno - hau  
 buenos días - sal suba  
 bufanda (chal) - xal  
-bufé - bufete  
+bufé - bufe  
 bufón - bobo  
 Bulgaria - Balgaria  
 burbuja (pompa) - xiu bol  
@@ -606,7 +607,7 @@ californio - kalifornium
 caliza - kalsopetre  
 calle - gali  
 calvo - kapa kexa hin  
-cama (lecho) - bede  
+cama (lecho) - katil  
 camarón (gamba) - gamba  
 cambiar (demudar) - alife  
 cambiar - mute  
@@ -643,7 +644,7 @@ capa (piso, planta, estrato) - ceng
 capaz - bilive  
 capitán - nave xefe  
 capturar (apresar) - cepe  
-capturar (apresar) - kape  
+capturar (apresar, agarrar) - kape  
 capítulo (sección) - babu  
 capó (bonete) - moter cate  
 caqui - haki rang  
@@ -651,7 +652,7 @@ caqui - kaki
 cara (rosto) - muka  
 caramelo - kandi  
 carapacho (cáscara, concha, corteza, capa) - kaska  
-cararés - karnada baxa  
+cararés - karnada baxe  
 caravana - karvan  
 carbohidrato - karbohidrate  
 carboxilo - karboxil  
@@ -689,7 +690,7 @@ casar - gamife
 casco (yelmo) - kapa kaska  
 casta - gene klas  
 castaña - kastana  
-castellano - kastilia baxa  
+castellano - kastilia baxe  
 castigar - fa fatu  
 castigo - fatu  
 Castilla - Kastilia  
@@ -1034,14 +1035,14 @@ críquet - krikete
 crítico (fundamental) - krizi di  
 crítico - pipinger  
 crónico - dure di  
-cuaderno (libreta) - note buku  
+cuaderno (libreta) - note buke  
 cuadro - nelu gona  
 cualidad (atributo, descripción) - sifa  
 cuartel (barraca) - ordu jen kan  
 cuarzo - kuarze  
 cuatro (4) - nelu  
 Cuba - Kuba  
-cubierto de hielo - ais di  
+cubierto de hielo - aisike  
 cubo - kube  
 cubrir (tapar) - dake  
 cuchara - camaca  
@@ -1108,7 +1109,6 @@ damas - dama geme
 danés - Danske  
 dar - don  
 darmstatio - darmestadium  
-darse cuenta (notar) - aha  
 darwinismo - darvinisme  
 darwinista - darviniste  
 datos - data  
@@ -1722,7 +1722,7 @@ genealogía - gene logu
 generación (cohorte) - gene grupe  
 general (common) - putong  
 general - gensal  
-generalísimo (sogún) - ordu raja  
+generalísimo (sogún) - ordu reger  
 generar (añadir, realizar) - zayife  
 generosidad (caridad) - karim  
 generoso (dadivoso) - don tabi  
@@ -1821,7 +1821,7 @@ gusto (sabor) - guste
 Guyana - Guyana  
 Guyana Francesa - Franse Guyana  
 guía - gider  
-guía de viaje - gide buku  
+guía de viaje - gide buke  
 género - gense  
 género gramatical - lexe gense  
 género social - sosial sexu  
@@ -1966,15 +1966,15 @@ identificación (ID) - nam dokumen
 identificador - has nam  
 ideograma - ideograme  
 ideología (doctrina, -ismo) - isme  
-idioma artificial (lengua construida, conlang) - arte fete baxa  
+idioma artificial (lengua construida, conlang) - arte fete baxe  
 idioma artificial (lengua construida, conlang) - fete baxe  
-idioma bengalí - bangla baxa  
+idioma bengalí - bangla baxe  
 idioma finés - suomi baxe  
-idioma noruego - norge baxa  
-idioma polaco - polska baxa  
-idioma portugués - portugal baxa  
+idioma noruego - norge baxe  
+idioma polaco - polska baxe  
+idioma portugués - portugal baxe  
 idioma ruso - rus lingue  
-idioma tailandés - Tai baxa  
+idioma tailandés - Tai baxe  
 idioma turco - turke baxe  
 idioma vietnamita - viete baxe  
 idiota (imbécil) - idiote  
@@ -2194,7 +2194,7 @@ Kiribati - Kiribati
 kiwi - kivi  
 kiwi fruta - kivi frute  
 koala - koala  
-koiné - kon helen baxa  
+koiné - kon helen baxe  
 konkani - Konkani  
 Kosovo - Kosovo  
 kumquat (quinoto) - gingam  
@@ -2270,9 +2270,9 @@ libertad - huria
 Libia - Libia  
 libra (£) - paunde  
 libre (horro) - hure  
-libro - buku  
-libro de cuentos ilustrado - grafe buku  
-libro de registro - loga buku  
+libro - buke  
+libro de cuentos ilustrado - grafe buke  
+libro de registro - loga buke  
 libélula - libele  
 lichi - lici  
 licor - araki  
@@ -2306,7 +2306,7 @@ literatura - kitabe suta
 litio - litium  
 litro - litre  
 Lituania - Lietuva  
-lituano - lietuva baxa  
+lituano - lietuva baxe  
 livermorio - livermorium  
 llama - liama  
 llamar (poner) - namize  
@@ -2428,9 +2428,9 @@ mapache (oso lavador) - rakun
 mar - bahai  
 maratí - marati  
 maratón - maraton  
-maravilla - ajabu  
+maravilla - ajabe  
 maravilla - mirebil  
-maravilloso (asombroso) - ajabu di  
+maravilloso (asombroso) - ajabike  
 maravilloso (magnífico) - super  
 marcador - punte bano  
 marcar (marca, huella, mancha) - marke  
@@ -2652,9 +2652,9 @@ muesli - musli
 mujer (hembra) - ni  
 mujer (señora) - ceng fem  
 mula - iha uma  
-multicultural - poli kultur di  
-multiculturalismo - poli kultur sim  
-multilingüe (plurilingüe) - poli baxa di  
+multicultural - polikultural  
+multiculturalismo - polikulturisme  
+multilingüe (plurilingüe) - polibaxike  
 multilingüe (plurilingüe) - polibaxike  
 multinacional - poli nasi di  
 multinacional - polinasial  
@@ -2780,7 +2780,7 @@ Noruega - Norge
 nosotros - mimen  
 nostalgia - nostalgia  
 nostálgico - nostalgike  
-nota - note xe  
+nota - notaje  
 notar (observar) - note  
 notar el sabor - guste  
 noticias - habar  
@@ -2977,12 +2977,12 @@ parte inferior - nice
 participante - parteceper  
 participar - fa parti  
 participar - partecepe  
-partidario de infracción de copyright - piratisme  
+partidario de infracción de copyright - piratiste  
 partido - mece  
 partido - partia  
 Partido Pirata - pirate partia  
 partir (dividirse) - be fen  
-partícula (grano, bala) - dana  
+partícula (grano, bala) - dane  
 parámetro - parametri  
 parónimo - paranam  
 pasa (uva pasa) - gan putau  
@@ -3051,7 +3051,7 @@ península - yaki nese
 peonía - mudan  
 pepinillo - acar hiyar  
 pepino - hiyar  
-pepita - seme dana  
+pepita - semen dane  
 pequeño - xiu  
 pera - pera  
 perdedor - xiti bai ja  
@@ -3122,7 +3122,7 @@ pipa de agua (narguile) - sui pipe
 pipa de agua (shisha) - xixa pipe  
 piperita - pipre minta  
 pirata - pirater  
-piratería - pirateria  
+piratería (secuestro) - pirateria  
 pirámide - piram  
 pis (meados) - pixe  
 pisada (huella) - fute marke  
@@ -3382,7 +3382,7 @@ radiotransmisor - radio miser
 radiómetro - radometrer  
 radón - radon  
 raja (grieta) - krake  
-rajá - hinde raja  
+rajá - hinde reger  
 rama - xaka  
 Ramadán - ramazan  
 ramen - supa mien  
@@ -3599,17 +3599,17 @@ salón de té - caikan
 samario - samarium  
 Samoa - Samoa  
 Samoa Americana - Amerikan Samoa  
-San Cristóbal - Sante Kitse  
-San Cristóbal y Nieves - Sante Kitse i Nevis  
+San Cristóbal - Sante Kristofor  
+San Cristóbal y Nieves - Sante Kristofor e Nevis  
 San Marino - Sante Marino  
-San Vicente y las Granadinas - Sante Vincente i Grenadin  
-sanatorio - sanateria  
+San Vicente y las Granadinas - Sante Vincente e Grenadin  
+sanatorio - salateria  
 sandía (patilla) - arbuze  
 sangrar - lou sang  
 sangre - heme  
 Santa Lucía - Sante Lucia  
 Santa Sede (Estado de la Ciudad del Vaticano) - Vatikan  
-Santo Tomé y Príncipe - Sante Tome i Principe  
+Santo Tomé y Príncipe - Sante Tome e Principe  
 saquear (desvalijar, robar) - luta  
 sari - sari  
 sartén - tava  
@@ -3637,8 +3637,8 @@ seis (6) - luka
 selenio - selenium  
 sello postal - poste cape  
 semana - cetiden  
-semilla - seme  
-seminal - seme di  
+semilla - semen  
+seminal - semenal  
 semáforo - semoforer  
 semántica - semologia  
 senador - senater  
@@ -3673,7 +3673,7 @@ señal (letrero, indicio) - sine
 señal de tránsito - dau bano  
 sharía - islam xaria  
 Shiva - Xiva  
-shogunato - ordu rajia  
+shogunato - ordu regia  
 si (suponer) - si  
 Siberia - Sibiria  
 siempre - pan sata  
@@ -3734,7 +3734,7 @@ soldado - ordu jen
 solo (aislado, solitary, soltero) - un zai di  
 solsticio - solostate  
 Somalia - Somal  
-sombra - saya  
+sombra - saye  
 sombrero - tupi  
 someterse (rendirse, ceder) - be islam  
 sonar - fa soni  
@@ -3988,7 +3988,7 @@ tribu - kabile
 tridente - tri pike  
 trigo - gandum  
 trigonometría - trigonometria  
-Trinidad y Tobago - Trinidade i Tobago  
+Trinidad y Tobago - Trinita e Tobago  
 triple - triple  
 triste (trágico) - tragike  
 triste - duku di  
