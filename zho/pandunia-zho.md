@@ -253,6 +253,8 @@ boce pante - 平角褲
 boka cati - 上颚 (口盖)  
 bol - 球  
 boli varis - 饭 (米饭)  
+bolxevisme - 布尔什维主义  
+bolxeviste - 布尔什维克  
 bombe - 炸弹  
 boron - 硼  
 botel - 瓶  
@@ -417,7 +419,6 @@ dubaxike - 会双语的
 dua - 祈祷  
 • dusdua - 诅咒  
 dudu - 昆虫  
-dugu - 读 (看)  
 dukan - 商店 (店铺)  
 dum - 烟  
 dunia - 世界  
@@ -490,7 +491,6 @@ fan - 粉丝 (fensi)
 fase - 面  
 fase area - 面积  
 fase tele - 深  
-fate - 事实  
 fatu - 惩罚  
 fatura - 帐单  
 fei gi tikete - 飞机票  
@@ -918,7 +918,6 @@ kitabe - 写
 kitabe cule - 文字处理 (字处理)  
 kitabe gi - 打字机  
 kitabekan - 图书馆  
-kitabe suta - 文学  
 kivi - 无翼鸟  
 kivi frute - 奇异果 (猕猴桃)  
 klien - 顾客  
@@ -956,8 +955,8 @@ kotumbar - 香菜 (芫荽)
 krake - 裂缝 (缝隙)  
 kreater - 创作者  
 kreatia - 万物  
-kredi - 信赖  
-• bekredibil - 忠实  
+krede - 信赖  
+• bekredebil - 忠实  
 kreder - 信徒  
 • ankreder - 不信神的  
 krede karte - 信用卡  
@@ -1012,6 +1011,10 @@ le - 了
 leng - 冷たい (寒い)  
 leng mosim - 冬天  
 lense - 透镜  
+lete - 读 (看)  
+letaje - 读物  
+leter - 读者  
+letaratur - 文学  
 letre - 信 (书信)  
 letus - 莴苣  
 leu - 左  
@@ -1234,10 +1237,10 @@ narkose - 症
 • posnatal - 产后  
 • prenatal - 产前  
 • rinate - 转生  
-natal lingue - 母语  
+native lingue - 母语  
 nateloke - 出生地  
 nature - 性质  
-natri - 钠  
+natre - 钠  
 nau - 脑  
 nau di - 大脑的  
 nautile - 鹦鹉螺  

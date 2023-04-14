@@ -369,6 +369,8 @@ boka cati - palais de la bouche
 bol - balle (boule)  
 bolon - ballon  
 bolte - boulon  
+bolxevisme - bolchevisme  
+bolxeviste - bolchevik  
 bombe - bombe  
 borium - bohrium  
 boron - boron  
@@ -540,12 +542,12 @@ dosil gene di - domestiqué (apprivoisé)
 doste - amie  
 drame - pièce de théâtre (drame)  
 du - deux (2)  
+dual - duel  
 dubaxike - bilingue  
 duple - double  
 • dusdua - malédiction  
 dubnium - dubnium  
 dudu - insecte  
-dugu - lire  
 panduke - fundic  
 duke - recevoir  
 dukan - boutique (magasin)  
@@ -642,7 +644,6 @@ fase - face (facette)
 fase area - aire (superficie)  
 fase tele - profond  
 fasil - facile  
-fate - fait  
 fatige - fatigue  
 fatu - punicion  
 fatu di - pénal  
@@ -1147,7 +1148,6 @@ kitabe - écrire
 kitabe cule - traitement de texte  
 kitabe gi - machine à écrire  
 kitabekan - bibliothèque  
-kitabe suta - littérature  
 kivi - kiwi  
 kivi frute - kiwi  
 klar - clair  
@@ -1192,7 +1192,7 @@ kree - créer
 kreater - créateur  
 kreatia - création  
 kreative - créatif  
-kredi - fier  
+krede - fier  
 kreder - croyant  
 • ankreder - infidèle (incroyant)  
 krede karte - carte de crédit  
@@ -1259,7 +1259,13 @@ lege veze di - léger
 leng mosim - hiver  
 leng mosim di - hivernal (hibernal)  
 lense - lentille  
-letal - létal  
+lete - lire  
+letaje - matériel de lecture  
+letebil - lisible  
+leter - lecteur  
+letaratur - littérature  
+letion - lecture  
+letur - lecture  
 letre - lettre  
 letus - laitue  
 leu - gauche  
@@ -1523,13 +1529,14 @@ narde - backgammon
 narke - drogue (narcotique, dope)  
 nasia - nation  
 • internasial - international  
+nate - naître (naissance)  
 • posnatal - post-natal  
 • prenatal - prénatal  
-nate - naître (naissance)  
-natal lingue - langue maternelle  
+native - maternel  
+native lingue - langue maternelle  
 nateloke - lieu de naissance  
 nature - nature  
-natri - sodium  
+natre - sodium  
 nau - cerveau (cervelle)  
 nau di - cérébral  
 nautile - nautile  

@@ -125,6 +125,7 @@
  - boka vele  
  - boli varis  
  - bolte  
+ - bolxevisme  
  - botel tape  
  - bra  
  - bra doh  
@@ -202,8 +203,9 @@
  - don xe ceke  
  - doste hin  
  - dramatike  
- - du grafi di  
- - du soni di  
+ - dual  
+ - dufonike  
+ - dugrafike  
  - duke  
  - dume  
  - duna  
@@ -473,6 +475,7 @@
  - kane sor  
  - kanon  
  - kanon di  
+ - kanunike  
  - kapa kexa hin  
  - kar cute  
  - karater  
@@ -504,7 +507,6 @@
  - kimeme  
  - Kinxasa  
  - kitabe cule  
- - kitabe suta  
  - kitabeme  
  - klien  
  - klike  
@@ -545,9 +547,12 @@
  - lazur  
  - le  
  - lege  
- - letal  
- - letal doze  
- - lete  
+ - letaje  
+ - letaratur  
+ - letebil  
+ - leter  
+ - letion  
+ - leturer  
  - lexofilia  
  - lexograme  
  - lexunife  
@@ -667,6 +672,9 @@
  - narkose  
  - nateloke  
  - natestan  
+ - natia  
+ - nation  
+ - native  
  - natre bilor  
  - nature  
  - ne  
@@ -1037,8 +1045,8 @@
  - anarhiste  
  - anase  
  - anding  
+ - ankrede  
  - ankredebil  
- - ankredi  
  - ansona  
  - antomebil  
  - antranse vide di  
@@ -1048,7 +1056,7 @@
  - ateste  
  - atrate  
  - atratevi  
- - bekrede  
+ - bekreder  
  - decepe  
  - decese  
  - dedute  
@@ -1060,8 +1068,6 @@
  - defunte  
  - dekode  
  - dekonnete  
- - delete  
- - deletebil  
  - deluxe  
  - demente  
  - demote  
@@ -1481,6 +1487,7 @@ bojkot - boikote
 boks - boce  
 bolesny - algike  
 Boliwia - Bolivia  
+bolszewik - bolxeviste  
 bomba - bombe  
 bomba atomowa - atom bombe  
 Bombaj (Mumbaj) - Mumbai  
@@ -1679,10 +1686,9 @@ czuć - tocu sense
 czuć (poczuć, postrzegać, wykrywać) - fa sense  
 czuć, odczuć, odczuwać - be gamo  
 czwartek - muxinden  
-czyn, uczynek - fate  
 czysty - safe  
 czysty (higieniczny, sanitarny) - salu saf di  
-czytać - dugu  
+czytać - lete  
 cząstka - gran  
 cząstka (ziarno, kula, pocisk) - dane  
 często - a poli mar  
@@ -1756,7 +1762,6 @@ dorsz - bakalau
 dorsz atlantycki - atlanti bakalau  
 dorsz pacyficzny - pace bahai bakalau  
 doskonalić (optymalizować, ulepszać) - fa pul hau  
-dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować) - fati  
 dostać, dostawać, otrzymać, otrzymywać, wziąć, brać - na  
 dotyczyć - tocu  
 dowieść, dowodzić; zeznać, zeznawać - fa dalil  
@@ -1773,7 +1778,7 @@ drzewo - moka
 drzeć (rwać, rozrywać, rozdzierać, rozszczepiać) - cira  
 drzwi wyjściowe - cute mun  
 drzwi, brama, portal - mun  
-dualizm - duajisme  
+dualizm - dualisme  
 dubn - dubnium  
 duch, fantom - fantom  
 dumać, rozmyślać, zastanawiać się, rozważać, brać pod uwagę - hem  
@@ -1786,7 +1791,7 @@ dwujęzyczny - dubaxike
 dwujęzyczny - dubaxike  
 dwukrotnie (dwa razy) - du mar  
 dwutlenek węgla - karbe duoxide  
-dwuznacznik - du semi di  
+dwuznacznik - susemike  
 dychotomia - dutomia  
 dyktator - ditater  
 dyktatura - ditateria  
@@ -2015,7 +2020,7 @@ gracki, helleński; Grek - helenike
 gracz - gemer  
 gradient (gradacja, stopniowanie) - gradu medan  
 gram - gram  
-gramatyczny - baxe kanun di  
+gramatyczny - baxe kanunike  
 gramatyka - baxe kanun  
 granica, skraj, brzeg, krawędź - kinar  
 granit - granite  
@@ -2275,7 +2280,7 @@ już (skończona czynność) - fin
 jądro atomu - atom kerne  
 jęczmień - jau  
 język - lisan  
-język ojczysty (język rodzimy) - natal lingue  
+język ojczysty (język rodzimy) - native lingue  
 język surinamski - surinam baxe  
 język sztuczny - arte fete baxe  
 język sztuczny - fete baxe  
@@ -2594,6 +2599,7 @@ laudacja - hauloge
 lawa - fuzi petra  
 lazania - lazanya  
 lejek - dare tube  
+lekcja - letur  
 lekcja - xulaje  
 lekki - lege veze di  
 leksem - lexeme  
@@ -2648,7 +2654,7 @@ logofil (miłośnik słów) - lexofiliste
 lojalność (wierność) - amenbilta  
 lojalność (wierność) - bekredebilta  
 lojalny (wierny) - amenbil  
-lojalny (wierny) - bekredibil  
+lojalny (wierny) - bekredebil  
 Londyn - London  
 lorens - laurencium  
 losowy - zarike  
@@ -4154,7 +4160,7 @@ szynszyla - cincila
 szyszka - kone  
 szyć - kosi  
 São Paulo - Sante Paulo  
-sód - natri  
+sód - natre  
 sól - yem  
 sądzić (osądzić) - jude  
 sędzia - juder  
@@ -4362,7 +4368,7 @@ uczeń, student - xuler
 udomowiony (domowy) - dosil gene di  
 udomowić (kultywować) - fa dosil gene  
 ufać (wierzyć, liczyć, polegać) - amen  
-ufać (wierzyć, liczyć, polegać) - kredi  
+ufać (wierzyć, liczyć, polegać) - krede  
 Uganda - Ganda  
 ugotować się, gotować się - be boli  
 Ukraina - Ukraina  

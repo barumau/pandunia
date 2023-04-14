@@ -403,7 +403,7 @@ baxe - język; komunikacja; mówić
 • trabaxer - tłumacz  
 • unbaxike -   
 baxe kanun - gramatyka  
-baxe kanun di - gramatyczny  
+baxe kanunike - gramatyczny  
 baxe logia - językoznastwo  
 baze - podstawa, baza, fundament  
 baze bol - bejsbol (baseball)  
@@ -572,6 +572,8 @@ boli - zapomnieć, zapominać
 boli varis -   
 Bolivia - Boliwia  
 bolte -   
+bolxevisme -   
+bolxeviste - bolszewik  
 bombe - bomba  
 borium - bohr  
 bori - nuda (znudzenie)  
@@ -960,23 +962,23 @@ dramater - akt, scena
 dramatike -   
 dramatike ironia - ironia dramatyczna  
 du - dwa (2)  
-duajisme - dualizm  
+dual -   
+dualisme - dualizm  
 dubaxike - dwujęzyczny  
-du grafi di -   
+dufonike -   
+dugrafike -   
 du mar - dwukrotnie (dwa razy)  
 dume -   
 du o tri - parę  
 duple - podwajać (podwoić, pomnożyć przez dwa)  
 du romanse di - biromantyczny  
-du semi di - dwuznacznik  
+susemike - dwuznacznik  
 du sexe di - biseksualny  
-du soni di -   
 dua - modlitwa  
 dua - pomodlić się, modlić się  
 • dusdua - kląć (przeklinać; przekleństwo)  
 dubnium - dubn  
 dudu - owad  
-dugu - czytać  
 panduke -   
 duke -   
 dukan - sklep (skład)  
@@ -1242,8 +1244,6 @@ fase teleta - głębokość
 fasil - łatwy, prosty  
 fasilta -   
 fasinta - fascynacja  
-fate - czyn, uczynek  
-fati - dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować)  
 fatige - zmęczenie (wyczerpanie)  
 fatu -   
 fatu di -   
@@ -2195,6 +2195,7 @@ Kantalupo a Sabina - Cantalupo in Sabina
 kantalupo melon - kantalupa  
 kanu - kanoe  
 kanun - prawo  
+kanunike -   
 kanun vala - adwokat  
 kanyon - kanion  
 kape - złapać, łapać, schwytać, chwytać  
@@ -2349,7 +2350,6 @@ kitabe forma - formatowanie
 kitabe gi - maszyna do pisania  
 kitabekan - biblioteka  
 kitabe minister - bibliotekarz  
-kitabe suta -   
 kivi - kiwi  
 kivi frute - owoc kiwi  
 klar - przeźroczysty, jasny  
@@ -2452,11 +2452,11 @@ kree -
 kreater -   
 kreatia -   
 kreative - twórczy  
-kredi - ufać (wierzyć, liczyć, polegać)  
-• ankredi -   
-• bekrede -   
-• bekredibil - lojalny (wierny)  
+krede - ufać (wierzyć, liczyć, polegać)  
+• ankrede -   
+• bekredebil - lojalny (wierny)  
 • bekredebilta - lojalność (wierność)  
+• bekreder -   
 • sinkredisme -   
 kredebil -   
 • ankredebil -   
@@ -2470,8 +2470,8 @@ krepekan - naleśnikarnia
 krikete - krykiet  
 krim - przestępstwo  
 krim di - kryminalny, przestępczy  
-• antikriste - antychryst  
 kriste - Chrystus  
+• antikriste - antychryst  
 kristogene - Boże Narodzenie  
 kristisme - chrześcijaństwo  
 krististe - chrześcijanin  
@@ -2586,11 +2586,14 @@ leng mosim - zima
 leng mosim di - zimowy  
 lense - soczewka  
 lenxi - ćwiczenie  
-lete -   
-• delete -   
-• deletebil -   
-letal -   
-letal doze -   
+lete - czytać  
+letaje -   
+letebil -   
+leter -   
+letaratur -   
+letion -   
+letur - lekcja  
+leturer -   
 letre - list  
 letus - sałata  
 leu - lewy (lewostronny, z lewej strony)  
@@ -3162,18 +3165,21 @@ nasial sosialisme - narodowy socjalizm (nazizm)
 nasial sosialiste - nazista  
 nasisme - nacjonalizm  
 nasiste - nacjonalista  
+nate - narodziny  
 • innatike - wewnętrzny  
 • posnatal - poporodowy  
 • prenatal - przedporodowy  
 • rinate -   
-nate - narodziny  
-natal lingue - język ojczysty (język rodzimy)  
 nateden - urodziny  
+natia -   
+nation -   
+native -   
+native lingue - język ojczysty (język rodzimy)  
 nateloke -   
 natestan -   
 nature -   
+natre - sód  
 natre bilor -   
-natri - sód  
 nau - mózg  
 nau di - mózgowy  
 nau hin - bezmózgi  

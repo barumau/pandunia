@@ -359,7 +359,7 @@ baxe - lengua (idioma, hablar, comunicación)
 • trabaxe - traducir (interpretar; tradicción, interpretación)  
 • trabaxer - traductor  
 baxe kanun - gramática  
-baxe kanun di - gramatical  
+baxe kanunike - gramatical  
 baxe logia - lingüística  
 baze - base  
 baze bol - béisbol  
@@ -502,6 +502,8 @@ bol - bola
 bolon - globo  
 boli - hervir (cocer)  
 Bolivia - Bolivia  
+bolxevisme - bolchevismo  
+bolxeviste - bolchevique  
 bombe - bomba  
 borium - bohrio  
 bori - aburrimiento  
@@ -836,19 +838,19 @@ drame - drama
 dramate - actuar (hacer un papel)  
 dramater - actor (actriz)  
 du - dos (2)  
-duajisme - dualismo  
+dual - dual  
+dualisme - dualismo  
 dubaxike - bilingüe  
 du mar - dos veces  
 duple - doble (doblar)  
 du romanse di - birromántico  
-du semi di - doble sentido  
+susemike - doble sentido  
 du sexe di - bisexual  
 dua - rezo (oración)  
 dua - rezar (orar)  
 • dusdua - maldecir (maldición)  
 dubnium - dubnio  
 dudu - insecto  
-dugu - leer  
 panduke - fonda  
 dukan - tienda (comercio)  
 duku - pena (tristeza)  
@@ -1078,8 +1080,6 @@ fase teleta - superficial (poco profundo)
 fasil - fácil  
 fasilta - facilidad  
 fasinta - fascinación  
-fate - hecho  
-fati - suministrar (dar, proveer, emitir)  
 fatige - fatiga  
 fatu - castigo  
 fatu di - penal (penetenciario)  
@@ -2018,7 +2018,6 @@ kitabe forma - formateo
 kitabe gi - máquina de escribir  
 kitabekan - biblioteca  
 kitabe minister - bibliotecario  
-kitabe suta - literatura  
 kivi - kiwi  
 kivi frute - kiwi fruta  
 klar - claro  
@@ -2103,8 +2102,8 @@ kree - crear
 kreater - creador  
 kreatia - creación  
 kreative - creativo  
-kredi - creer (confiar, contar con)  
-• bekredibil - leal (fiel)  
+krede - creer (confiar, contar con)  
+• bekredebil - leal (fiel)  
 • bekredebilta - lealtad (fidelidad)  
 kreder - creyente  
 • ankreder - infiel (descreído)  
@@ -2115,8 +2114,8 @@ krepe - panqueque (crepa)
 krikete - críquet  
 krim - crimen (delito)  
 krim di - criminal  
-• antikriste - Anticristo  
 kriste - Cristo  
+• antikriste - Anticristo  
 kristogene - Navidad  
 kristisme - cristianismo  
 krististe - cristiano  
@@ -2217,8 +2216,13 @@ leng mosim - invierno
 leng mosim di - invernal  
 lense - lente  
 lenxi - ensayo (ejercitio)  
-• deletebil - deleble  
-letal - letal  
+lete - leer  
+letaje - material de lectura  
+letebil - legible  
+leter - lector  
+letaratur - literatura  
+letion - lectura  
+letur - lectura  
 letre - carta  
 letus - lechuga  
 leu - izquierdo  
@@ -2706,16 +2710,17 @@ nasial sosialisme - socialismo nacional (nazismo)
 nasial sosialiste - Nazi  
 nasisme - nacionalismo  
 nasiste - nacionalista  
+nate - nacer (nacimiento)  
 • innatike - innato (endógeno)  
 • posnatal - postnatal  
 • prenatal - prenatal  
-nate - nacer (nacimiento)  
-natal lingue - lengua materna  
 nateden - cumpleaños  
+native - natal  
+native lingue - lengua materna  
 nateloke - lugar de nacimiento  
 nature - naturaleza  
+natre - sodio  
 natre bilor - natrón  
-natri - sodio  
 nau - cerebro  
 nau di - cerebral  
 nau hin - descerebrado  

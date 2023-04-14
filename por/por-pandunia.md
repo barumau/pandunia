@@ -237,6 +237,8 @@ bismuto - bismute
 bisão (bisonte) - bison  
 bizarro - guai  
 bola - bol  
+bolchevique - bolxeviste  
+bolchevismo - bolxevisme  
 boletim de notícias - habar letre  
 bolo lunar - luna keke  
 bolso (algebeira) - jebe  
@@ -453,7 +455,7 @@ conector - konneter
 conexão (vínculo, laço) - linke  
 conexão - konnetion  
 confiar (contar com) - amen  
-confiar (contar com) - kredi  
+confiar (contar com) - krede  
 conhecer - ken  
 conjunção - yunte lexe  
 cono - kone  
@@ -555,7 +557,6 @@ defunto - defunte
 deitar - fa kux  
 deixar - laxe  
 delegar - vakilize  
-delir (deletar) - delete  
 democracia - demokratia  
 demora (atraso, espera) - dele  
 denegar - denege  
@@ -616,6 +617,7 @@ doméstico - dom di
 dormir - be sona  
 drama - drame  
 droga (narcótico) - narke  
+dual - dual  
 ducha - dux  
 duna (бархан) - duna  
 durante - a dure de  
@@ -765,7 +767,6 @@ falso - anver
 farmacologia - dava xe logia  
 farmácia (drogaria) - dava xekan  
 farol (baliza) - foto minar  
-fato (facto) - fate  
 fator (fazedor) - feter  
 fator - caner  
 favela - harabe mahala  
@@ -1048,14 +1049,17 @@ lasanha - lazanya
 lateral - late di  
 lavatorio (toalete) - tuale kamar  
 lawrêncio - laurencium  
+legível - letebil  
 leite - milke  
 leite de soja - soi milke  
+leitor - leter  
+leitura - letion  
+leitura - letur  
 lembrar-se (recordar-se) - fa memo  
 lente - lense  
 lento - anhaste  
 leque - sanzi  
-ler - dugu  
-letal - letal  
+ler - lete  
 Letónia - Latvia  
 leve - lege  
 lexema - lexeme  
@@ -1073,7 +1077,7 @@ linha (fio) - lin
 linhaça - yama seme  
 linho - yama  
 lista - liste  
-literatura - kitabe suta  
+literatura - letaratur  
 litro - litre  
 livermório - livermorium  
 livre (forro) - hure  
@@ -1108,7 +1112,7 @@ léxico - lexal
 líder (chefe) - lider  
 língua (idioma) - baxe  
 língua - lisan  
-língua materna - natal lingue  
+língua materna - native lingue  
 lípido - lipide  
 lírio - susan  
 lírio-do-vale - vali susan  
@@ -1167,6 +1171,7 @@ matadouro - karnekan
 mate (opaco) - foto mata di  
 matemática - numologia  
 matemático - numologer  
+material de leitura - letaje  
 materialismo - madisme  
 maternal - ma di  
 matéria - made  
@@ -1282,6 +1287,7 @@ música pop (música popular) - pope muzike
 nadar (flutuar) - be boi  
 narguilé (xixa) - sui pipe  
 nascer - nate  
+nativo - native  
 natureza - nature  
 nautiloide - nautile  
 nave espacial - kosmonave  
@@ -1836,7 +1842,7 @@ sênior - sen
 sílaba - lexe fen  
 símbolo - simbol  
 só (solitário) - un zai di  
-sódio - natri  
+sódio - natre  
 
 ## T  
 

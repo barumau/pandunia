@@ -426,7 +426,7 @@ baxe - puhua (kieli, kommunikaatio)
 • trabaxer - kääntäjä (tulkki)  
 • unbaxike - yksikielinen  
 baxe kanun - kielioppi  
-baxe kanun di - kieliopillinen  
+baxe kanunike - kieliopillinen  
 baxe logia - kielitiede (lingvistiikka)  
 baze - perusta (perustus)  
 baze bol - baseball (amerikkalainen pesäpallo)  
@@ -593,6 +593,8 @@ boli - keittää (kiehuttaa)
 boli varis - kypsä riisi  
 Bolivia - Bolivia  
 bolte - pultti  
+bolxevisme - bolševismi  
+bolxeviste - bolšvikki  
 bombe - pommi  
 borium - bohrium  
 bori - tylsyys (pitkästys)  
@@ -960,22 +962,22 @@ dramater - näyttelijä
 dramatike - teatraalinen (näytelmällinen, dramaattinen)  
 dramatike ironia - dramaattinen ironia  
 du - kaksi (2)  
-duajisme - dualismi  
+dual - kaksinainen  
+dualisme - dualismi  
 dubaxike - kaksikielinen  
-du grafi di - stereoskooppinen  
+dufonike - stereofoninen  
+dugrafike - stereoskooppinen  
 du mar - kahdesti (kaksi kertaa)  
 dume - toinen (2.)  
 du o tri - muutama (pari-kolme)  
 duple - tupla (kaksinkertainen)  
-du semi di - kaksimielinen (kaksimerkityksinen)  
+susemike - kaksimielinen (kaksimerkityksinen)  
 du sexe di - biseksuaali  
-du soni di - stereofoninen  
 dua - rukous  
 dua - rukoilla (anoa)  
 • dusdua - kirous  
 dubnium - dubnium  
 dudu - hyönteinen (ötökkä)  
-dugu - lukea  
 panduke - taverna  
 duke - palvella (kestitä)  
 dukan - kauppa (myymälä)  
@@ -1221,8 +1223,6 @@ fase teleta - syvyys
 fasil - helppo  
 fasilta - helppous  
 fasinta - hurma (lumo, tenho)  
-fate - teko  
-fati - jakaa (jaella)  
 fatige - väsymys  
 fatura - lasku (faktuura)  
 favor - suosio (hyväntahtoisuus)  
@@ -2093,6 +2093,7 @@ kanse - syöpä
 kanta - olkapää (hartia)  
 kanu - kanootti  
 kanun - laki (sääntö)  
+kanunike - laillinen  
 kanun vala - lakimies (juristi)  
 kape - napata (kaapata, ottaa)  
 kapa - pää  
@@ -2234,7 +2235,6 @@ kitabe cule - tekstinkäsittely
 kitabe forma - tekstin muotoilu  
 kitabe gi - kirjoituskone  
 kitabekan - kirjasto  
-kitabe suta - kirjallisuus  
 kivi - kiivi (lintu)  
 kivi frute - kiivihedelmä  
 klar - selvä (selkeä)  
@@ -2327,9 +2327,9 @@ kree - luoda
 kreater - luoja  
 kreatia - luomakunta  
 kreative - luova  
-kredi - uskoa (luottaa)  
-• ankredi - epäillä (olla uskomatta)  
-• bekrede - uskottu (luotettu)  
+krede - uskoa (luottaa)  
+• ankrede - epäillä (olla uskomatta)  
+• bekreder - uskottu (luotettu)  
 • sinkredisme - synkretismi  
 kredebil - uskottava  
 • ankredebil - uskomaton  
@@ -2343,8 +2343,8 @@ krepekan - kreppikoju
 krikete - kriketti  
 krim - rikos  
 krim di - rikos- (rikollinen)  
-• antikriste - antikristus  
 kriste - kristus  
+• antikriste - antikristus  
 kristogene - joulu  
 kristisme - kristinusko  
 krististe - kristitty  
@@ -2438,11 +2438,14 @@ leng mosim - talvi
 leng mosim di - talvinen  
 lense - linssi  
 lenxi - harjoitus  
-lete - tappaa (tappo)  
-• delete - tappaa pois (poistaa, hävittää)  
-• deletebil - hävitettävä  
-letal - tappava  
-letal doze - tappava annos  
+lete - lukea  
+letaje - lukemisto  
+letebil - lukukelpoinen (luettava)  
+leter - lukija  
+letaratur - kirjallisuus  
+letion - lukeminen  
+letur - luento  
+leturer - luennoija (luennoitsija)  
 letre - kirje  
 letus - lehtisalaatti  
 leu - vasen  
@@ -2936,17 +2939,20 @@ nasial sosialisme - kansallissosialismi (natsismi)
 nasial sosialiste - natsi  
 nasisme - kansallisuusaate (nationalismi)  
 nasiste - nationalisti  
+nate - syntyä (synty, syntymä)  
 • innatike - sisäsyntyinen  
 • posnatal - syntymän jälkeinen  
 • prenatal - syntymää edeltävä  
 • rinate - syntyä uudelleen  
-nate - syntyä (synty, syntymä)  
-natal lingue - äidinkieli  
 nateden - syntymäpäivä  
+natia - synnyinmaa  
+nation - syntyminen  
+native - synnynnäinen (luonnollinen)  
+native lingue - äidinkieli  
 nateloke - syntymäpaikka  
 natestan - synnyinseutu  
 nature - luonne  
-natri - natrium  
+natre - natrium  
 nau - aivot  
 nau hin - aivoton  
 Nauru - Nauru  

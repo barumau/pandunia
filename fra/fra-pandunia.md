@@ -307,6 +307,8 @@ bloquer - bare
 blé - gandum  
 bohrium - borium  
 boire - xarbe  
+bolchevik - bolxeviste  
+bolchevisme - bolxevisme  
 bombe - bombe  
 bombe atomique - atom bombe  
 bon - hau  
@@ -705,6 +707,7 @@ droit - haku
 droitier (dextre) - dexhanuka  
 droits de l'homme - human hake  
 dubnium - dubnium  
+duel - dual  
 dune - duna  
 dur - gati  
 durant - a dure de  
@@ -817,7 +820,6 @@ faire (fait) - fete
 faire - fa  
 faire confiance (espérer, croire qqn./qqch., avoir la foi) - amen  
 faiseur (facteur) - feter  
-fait - fate  
 fan - fan  
 fanal (balise) - foto minar  
 fanatique - fanatike  
@@ -837,7 +839,7 @@ feu - hogo
 feu d’artifice - hogo tehni  
 feuille - yepa  
 fibre - lin so  
-fier - kredi  
+fier - krede  
 fil de fer - metal lin  
 fil de trame - vei lin  
 fille - doh  
@@ -1151,7 +1153,7 @@ lampe - lampa
 Lance-roquettes - rakete lanser  
 langue - baxe  
 langue - lisan  
-langue maternelle - natal lingue  
+langue maternelle - native lingue  
 lanthane - lantan  
 lapin (lièvre) - tuzi  
 lapis-lazuli - lazur petra  
@@ -1161,6 +1163,9 @@ latéral - late di
 lave - fuzi petra  
 lawrencium - laurencium  
 le (la) - la  
+lecteur - leter  
+lecture - letion  
+lecture - letur  
 lent - anhaste  
 lentille - lense  
 Lettonie - Latvia  
@@ -1186,14 +1191,15 @@ lime (citron vert) - kaguji limon
 lin - yama  
 lipide - lipide  
 lipoaspiração - lipi cupu  
-lire - dugu  
+lire - lete  
+lisible - letebil  
 liste - liste  
 lit - katil  
 lit de camp - kampe bede  
 lithium - litium  
 litre - litre  
 lits superposés - ceng bede  
-littérature - kitabe suta  
+littérature - letaratur  
 livermorium - livermorium  
 livre - buke  
 livre de bord - loga buke  
@@ -1230,7 +1236,6 @@ là (y) - a vo
 lâcher (laisser) - laxe  
 léger - lege veze di  
 légume - vege  
-létal - letal  
 lézard - saur  
 
 ## M  
@@ -1280,11 +1285,13 @@ match - mece
 matelas - matras  
 matelot - bahai vala  
 maternel - ma di  
+maternel - native  
 mathématicien - numologer  
 mathématiques (maths) - numologia  
 matière - made  
 maté - mate cai  
 matérialisme - madisme  
+matériel de lecture - letaje  
 Mauritanie - Muritania  
 maximum - maximaje  
 maître - master  
@@ -1994,7 +2001,7 @@ six (6) - luka
 siècle (centennie) - sento nen  
 socio - bei  
 société - sosia  
-sodium - natri  
+sodium - natre  
 soie - silke  
 soif - sui yau  
 soir (soirée) - xam  

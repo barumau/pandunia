@@ -438,7 +438,7 @@ baxe - speak (talk, language, communication)
 • trabaxer - interpreter (translator)  
 • unbaxike - monolingual  
 baxe kanun - grammar  
-baxe kanun di - grammatical  
+baxe kanunike - grammatical  
 baxe logia - linguistics  
 baze - base (foundation)  
 baze bol - baseball  
@@ -607,6 +607,8 @@ boli - boil (cook)
 boli varis - cooked rice  
 Bolivia - Bolivia  
 bolte - bolt  
+bolxevisme - Bolshevism  
+bolxeviste - Bolshevik  
 bombe - bomb  
 borium - bohrium  
 bori - boredom  
@@ -995,23 +997,23 @@ dramater - actor (actress)
 dramatike - theatrical (dramatic)  
 dramatike ironia - dramatic irony  
 du - two (2)  
-duajisme - dualism  
+dual - dual (twofold)  
+dualisme - dualism  
 dubaxike - bilingual  
-du grafi di - anaglyphic (stereoscopic)  
+dufonike - stereophonic  
+dugrafike - anaglyphic (stereoscopic)  
 du mar - twice  
 dume - second (2nd)  
 du o tri - a couple of  
 duple - double (twofold; multiply by two)  
 du romanse di - biromantic  
-du semi di - double entendre  
+susemike - double entendre  
 du sexe di - bisexual  
-du soni di - stereophonic  
 dua - prayer  
 dua - pray (beg, entreat, implore)  
 • dusdua - curse (damn, malediction)  
 dubnium - dubnium  
 dudu - insect  
-dugu - read  
 panduke - inn (fonduk, tavern)  
 duke - receive (attend to, wait on)  
 dukan - store (shop)  
@@ -1277,8 +1279,6 @@ fase teleta - depth
 fasil - easy  
 fasilta - ease (facility)  
 fasinta - fascination  
-fate - deed (fact)  
-fati - supply (dispense, issue, put out)  
 fatige - fatigue (weariness)  
 fatu - punishment (penalty)  
 fatu di - penal (penetenciary)  
@@ -2230,6 +2230,7 @@ Kantalupo a Sabina - Cantalupo in Sabina
 kantalupo melon - cantaloupe  
 kanu - canoe  
 kanun - law (rule, regulation)  
+kanunike - legal (lawful, canonical)  
 kanun vala - lawyer  
 kanyon - canyon (ravine, gorge, gully)  
 kape - catch (capture, grab, seize, snatch)  
@@ -2383,7 +2384,6 @@ kitabe forma - formatting
 kitabe gi - typewriter  
 kitabekan - library  
 kitabe minister - librarian  
-kitabe suta - literature  
 kivi - kiwi bird  
 kivi frute - kiwi fruit  
 klar - clear (obvious)  
@@ -2486,11 +2486,11 @@ kree - create
 kreater - creator  
 kreatia - creation (all which exists)  
 kreative - creative  
-kredi - believe (trust, credit, rely on)  
-• ankredi - distrust (disbelieve)  
-• bekrede - trustee  
-• bekredibil - loyal (faithful, trustworthy)  
+krede - believe (trust, credit, rely on)  
+• ankrede - distrust (disbelieve)  
+• bekredebil - loyal (faithful, trustworthy)  
 • bekredebilta - loyalty (faithfulness)  
+• bekreder - trustee  
 • sinkredisme - synchretism  
 kredebil - credible (believable)  
 • ankredebil - incredible (unbelievable)  
@@ -2502,10 +2502,10 @@ krem rang - creamy (cream colored)
 krepe - pancake  
 krepekan - pancake house (crêperie)  
 krikete - cricket (sport)  
-krim - crime  
+krim - crime (commit a crime, perpetrate)  
 krim di - criminal  
-• antikriste - antichrist  
 kriste - Christ  
+• antikriste - antichrist  
 kristogene - Christmas  
 kristisme - Christianity  
 krististe - Christian  
@@ -2620,11 +2620,14 @@ leng mosim - winter
 leng mosim di - wintry  
 lense - lens  
 lenxi - exercise  
-lete - kill (slay; violent death)  
-• delete - delete (eliminate, kill off, wipe off)  
-• deletebil - delible (eliminable)  
-letal - lethal  
-letal doze - lethal dose  
+lete - read  
+letaje - reading material  
+letebil - legible (readable)  
+leter - reader (lector)  
+letaratur - literature  
+letion - reading  
+letur - lecture  
+leturer - lecturer  
 letre - letter (written message)  
 letus - lettuce  
 leu - left  
@@ -3197,18 +3200,21 @@ nasial sosialisme - national socialism (Nazism)
 nasial sosialiste - Nazi  
 nasisme - nationalism  
 nasiste - nationalist  
+nate - birth  
 • innatike - innate (endogenous, indigenous, inborn)  
 • posnatal - postnatal  
 • prenatal - prenatal  
 • rinate - rebirth (renaissance)  
-nate - birth  
-natal lingue - native language (mother tongue)  
 nateden - birthday  
+natia - native country  
+nation - birth  
+native - native (natural, arising by birth)  
+native lingue - native language (mother tongue)  
 nateloke - birthplace  
 natestan - region of birth  
 nature - nature (innate characteristics)  
+natre - sodium  
 natre bilor - natron  
-natri - sodium  
 nau - brain  
 nau di - cerebral  
 nau hin - brainless  
@@ -3872,7 +3878,7 @@ renium - rhenium
 rentegenium - roentgenium  
 reporte - report  
 reseta - instructions (recipe)  
-reside - receipt (acknowledgement)  
+reside - receipt (acknowledgement, acquittance)  
 restoran - restaurant  
 retro dau - return (way back)  
 retro gula - throw up (vomit, regurgitate)  

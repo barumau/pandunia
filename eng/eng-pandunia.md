@@ -151,7 +151,7 @@ amplify (scale) - dai gradu
 ampoule (vial) - ampul  
 amuse (entertain) - fa vanu  
 anaerobic - anairobiike  
-anaglyphic (stereoscopic) - du grafi di  
+anaglyphic (stereoscopic) - dugrafike  
 anal - anusal  
 analgesia - algesia  
 analog clock - undurike horloger  
@@ -427,7 +427,7 @@ being (that which is) - esente
 bel (unit) - bel  
 Belarus - Belarus  
 Belgium - Belgi  
-believe (trust, credit, rely on) - kredi  
+believe (trust, credit, rely on) - krede  
 believer (religious person) - diniste  
 believer (religious person) - kreder  
 Belize - Belize  
@@ -470,6 +470,7 @@ birch tree - betula
 bird - paci  
 biromantic - du romanse di  
 birth - nate  
+birth - nation  
 birthday - nateden  
 birthplace - nateloke  
 biscuit (cookie) - biskute  
@@ -511,6 +512,8 @@ boil (cook) - boli
 bok choy - baku coi  
 bold letter - gros zi  
 Bolivia - Bolivia  
+Bolshevik - bolxeviste  
+Bolshevism - bolxevisme  
 bolt - bolte  
 bomb - bombe  
 bon appetit! - sal yam  
@@ -1030,7 +1033,7 @@ credit card - krede karte
 crepe - Franse krepe  
 crib (cot) - bebe katil  
 cricket (sport) - krikete  
-crime - krim  
+crime (commit a crime, perpetrate) - krim  
 criminal - krim di  
 crisis - krizi  
 critic - pipinger  
@@ -1132,7 +1135,6 @@ decrease (lessen) - minife
 decrement - fa min gradu  
 deduce (lead from) - dedute  
 deduction - dedution  
-deed (fact) - fate  
 deem (opine, think that) - fa rai  
 deep - fase tele  
 default (preset, predecided) - precun  
@@ -1151,8 +1153,6 @@ defunct (out of use) - defunte
 degree Celsius - celsius gradu  
 Deimos - Deimos  
 delegate (deputize, entrust) - vakilize  
-delete (eliminate, kill off, wipe off) - delete  
-delible (eliminable) - deletebil  
 delicious (yummy) - hau guste di  
 deluxe - deluxe  
 demented (out of one’s mind) - demente  
@@ -1230,7 +1230,7 @@ distance (length) - teleta
 distinction (specialty) - hasta  
 distinguish - fa has  
 distract (pull apart) - distrate  
-distrust (disbelieve) - ankredi  
+distrust (disbelieve) - ankrede  
 disturb (disturbance, turbulence) - disturbe  
 ditch (canal, channel, dyke, trench) - kanal  
 diverse - disverse  
@@ -1265,7 +1265,7 @@ donkey (ass) - iha
 door (gate, portal) - mun  
 dot (spot) - bindu  
 double (twofold; multiply by two) - duple  
-double entendre - du semi di  
+double entendre - susemike  
 doubtful (suspicious, disbelieving) - xakive  
 downgrade - dus gradu  
 download - nete gete  
@@ -1296,7 +1296,8 @@ drum - guma
 dry - gan  
 dry out - ganife  
 dry season - gan mosim  
-dualism - duajisme  
+dual (twofold) - dual  
+dualism - dualisme  
 dubious (suspicious) - xakebil  
 dubnium - dubnium  
 duck - bata  
@@ -1833,7 +1834,7 @@ gradual - gradu di
 grain (particle) - gran  
 gram (g) - gram  
 grammar - baxe kanun  
-grammatical - baxe kanun di  
+grammatical - baxe kanunike  
 grammatical gender (lexical gender) - lexe gense  
 grandchild - ben ben  
 granddaughter - ben doh  
@@ -2310,7 +2311,6 @@ keyboard - buton bano
 khaki - haki rang  
 Khartoum - Hartum  
 kidney - nefre  
-kill (slay; violent death) - lete  
 kill - matafa  
 killer - mataja  
 kilogram (kg) - kilogram  
@@ -2402,11 +2402,15 @@ least (minimally) - minim
 leave (absence from work) - kar cute  
 leave (go away, exit) - cute  
 Lebanon - Libanen  
+lecture - letur  
+lecturer - leturer  
 leek - porei  
 left - leu  
 left hand - leu di  
 leftist (left-winger) - leuiste  
 leg - fute xaka  
+legal (lawful, canonical) - kanunike  
+legible (readable) - letebil  
 lemon - limon  
 lemonade - limon jus  
 lend - jeka don  
@@ -2418,8 +2422,6 @@ less (fewer) - min poli
 less - min  
 lesson (teaching) - xulaje  
 let's - haide  
-lethal - letal  
-lethal dose - letal doze  
 letter (character, written symbol) - fone zi  
 letter (written message) - letre  
 lettuce - letus  
@@ -2472,7 +2474,7 @@ liquid - daraje
 liquor - araki  
 list (listing, catalogue) - liste  
 listen - fa ore  
-literature - kitabe suta  
+literature - letaratur  
 lithium - litium  
 Lithuania - Lietuva  
 Lithuanian - lietuva baxe  
@@ -2533,7 +2535,7 @@ low (short, bottom) - dipe
 lower (inferior) - nice di  
 lower (put down) - dipe  
 lowercase letter - xiu zi  
-loyal (faithful, trustworthy) - bekredibil  
+loyal (faithful, trustworthy) - bekredebil  
 loyalty (faithfulness) - amenbilta  
 loyalty (faithfulness) - bekredebilta  
 luggage (baggage) - bagaje  
@@ -2921,7 +2923,9 @@ national - nasial
 national socialism (Nazism) - nasial sosialisme  
 nationalism - nasisme  
 nationalist - nasiste  
-native language (mother tongue) - natal lingue  
+native (natural, arising by birth) - native  
+native country - natia  
+native language (mother tongue) - native lingue  
 natron - natre bilor  
 nature (disposition, essence, character, -ive) - tabi  
 nature (innate characteristics) - nature  
@@ -3661,7 +3665,10 @@ ray - rade
 ray of light - foto radi  
 react - reate  
 reaction - reation  
-read - dugu  
+read - lete  
+reader (lector) - leter  
+reading - letion  
+reading material - letaje  
 ready (prepared) - redi  
 real (actual, existing) - real  
 realism - realisme  
@@ -3675,7 +3682,7 @@ reason (reasoning, rational thinking) - ration
 rebellion - rebel  
 rebirth (renaissance) - rinate  
 recede (retreat) - recese  
-receipt (acknowledgement) - reside  
+receipt (acknowledgement, acquittance) - reside  
 receive (attend to, wait on) - duke  
 receiver (receptor) - receper  
 recharge (reload) - rikarga  
@@ -4126,7 +4133,7 @@ socialize (interact) - fa sosi
 society (association) - sosia  
 sock (stocking) - maze  
 sockeye salmon - rubi salmon  
-sodium - natri  
+sodium - natre  
 sofa (couch) - sofa  
 soft - naram  
 software (virtual device) - programaje  
@@ -4235,7 +4242,7 @@ step-parent - gam cin
 step-sibling - gam sau  
 stepfather - gam pa  
 stepmother - gam ma  
-stereophonic - du soni di  
+stereophonic - dufonike  
 stick (adhere, paste, glue) - glutize  
 sticker - glu grafi  
 sticky (ahesive) - glu di  
@@ -4306,7 +4313,6 @@ Sunday - solden
 sunflower - sol hua  
 Sunni Islam (Sunnism) - suna islam din  
 superb (wonderful, super) - super  
-supply (dispense, issue, put out) - fati  
 support - suporte  
 suppress (press down) - niceprese  
 sure (certain, trusted) - amen di  
@@ -4601,7 +4607,7 @@ tropics - garma zona
 true (real, genuine, indeed, very) - ver  
 trunk (torso) - torso  
 trust (be sure of, have faith in) - amen  
-trustee - bekrede  
+trustee - bekreder  
 trustworthy (loyal, faithful) - amenbil  
 try (attempt) - teste  
 try (attempt, give a go, check out, probe) - proba  

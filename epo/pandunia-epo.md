@@ -214,7 +214,7 @@ baxe - lingvo (paroli, komuniki)
 • trabaxer - tradukisto  
 • unbaxike - unulingva  
 baxe kanun - gramatiko  
-baxe kanun di - gramatika  
+baxe kanunike - gramatika  
 baxe logia - lingvistiko  
 baze - bazo  
 baze bol - basbalo  
@@ -304,6 +304,8 @@ bolon - balono
 boli - boligi  
 Bolivia - Bolivio  
 bolte - bolto  
+bolxevisme - bolŝevismo  
+bolxeviste - bolŝeviko  
 bombe - bombo  
 borium - borio  
 bori - enuo  
@@ -516,7 +518,6 @@ dua - preĝo
 dua - preĝi  
 dubnium - dubnio  
 dudu - insekto  
-dugu - legi  
 panduke - taverno  
 dukan - vendejo  
 duku - malĝojo  
@@ -614,7 +615,6 @@ fase - surfaco
 fase area - areo  
 fasil - facila  
 fasinta - fascinado  
-fate - faro (fakto)  
 fatura - kalkulo (fakturo)  
 faxisme - faŝismo  
 faxiste - faŝisto  
@@ -1125,7 +1125,6 @@ kisma - sorto (destino)
 kitabe - skribo  
 kitabe gi - tajpilo  
 kitabekan - librejo  
-kitabe suta - literaturo  
 kivi - apterigedo  
 kivi frute - kivo  
 klar - klara  
@@ -1180,7 +1179,7 @@ kratia - regado
 kree - krei  
 kreater - kreinto  
 kreative - kreema  
-kredi - kreda  
+krede - kreda  
 kreder - kredulo  
 • ankreder - malkredulo  
 krede karte - kreditkarto  
@@ -1233,6 +1232,10 @@ leng - malvarma
 leng mosim - vintro  
 leng mosim di - vintra  
 lenxi - ekzerco  
+lete - legi  
+letebil - legabla  
+leter - leganto  
+letaratur - literaturo  
 letre - letero  
 letus - laktuko  
 lexe - vorto  
@@ -1456,10 +1459,10 @@ naram - mola
 narke - drogo  
 • internasial - internacia  
 nate - naski (nasko)  
-natal lingue - hejmlingvo  
 nateden - naskiĝtago  
+native lingue - hejmlingvo  
 nateloke - naskiĝejo  
-natri - natrio  
+natre - natrio  
 nau - cerbo  
 nau di - cerba  
 nau hin - sencerba  

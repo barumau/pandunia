@@ -489,6 +489,8 @@ bohrio - borium
 boicot - boikote  
 boina - bere  
 bola - bol  
+bolchevique - bolxeviste  
+bolchevismo - bolxevisme  
 boletín de noticias - habar letre  
 Bolivia - Bolivia  
 bolsillo - jebe  
@@ -999,7 +1001,7 @@ creativo - kreative
 crecemiento - raste  
 crecer (aumentar, hincharse) - be dai  
 crecer - be raste  
-creer (confiar, contar con) - kredi  
+creer (confiar, contar con) - krede  
 crema - krem  
 cremallera - ziper  
 cremoso - krem rang  
@@ -1142,7 +1144,6 @@ definir - fa sifa
 degradar - dus gradu  
 dejar - laxe  
 dejar caer - fa pada  
-deleble - deletebil  
 delfín - dolfin  
 delicioso - hau guste di  
 demasiado - max ka bas  
@@ -1263,7 +1264,7 @@ diámetro - tralongta
 dióxido de carbono - karbe duoxide  
 Dniéster - Nistre  
 doble (doblar) - duple  
-doble sentido - du semi di  
+doble sentido - susemike  
 docente (enseñante, profesor, maestro) - gio ja  
 doctor (médico) - davaer  
 doctor - dotor  
@@ -1291,7 +1292,8 @@ dotes (arte, habilidad) - sute
 dragón - lung  
 drama - drame  
 droga (narcótico) - narke  
-dualismo - duajisme  
+dual - dual  
+dualismo - dualisme  
 dubnio - dubnium  
 ducha - dux  
 duda - xake  
@@ -1775,7 +1777,7 @@ gracias - xukre
 gracias a (merced a) - a xukre de  
 grado Celsius - celsius gradu  
 grafema - kitabeme  
-gramatical - baxe kanun di  
+gramatical - baxe kanunike  
 gramo (g) - gram  
 gramática - baxe kanun  
 Granada - Grenada  
@@ -1855,7 +1857,6 @@ Hawái - Havai
 hebra (fibra) - lin so  
 hebreo - ibri  
 heces - feke  
-hecho - fate  
 helado - ais krem  
 helecho - parne  
 helicóptero - helis fei gi  
@@ -2230,7 +2231,7 @@ lavadora - fuku vaxi gi
 lavar - vaxi  
 laúd - pipa  
 leal (fiel) - amenbil  
-leal (fiel) - bekredibil  
+leal (fiel) - bekredebil  
 lealtad (fidelidad) - amenbilta  
 lealtad (fidelidad) - bekredebilta  
 lección - xulaje  
@@ -2238,19 +2239,22 @@ leche - milke
 leche de soja - soi milke  
 lecho de roca - baze petre  
 lechuga - letus  
-leer - dugu  
+lector - leter  
+lectura - letion  
+lectura - letur  
+leer - lete  
+legible - letebil  
 legumbre (frijol o arveja) - dou  
 lejano (lejos) - tele  
 lejos (fuera) - for  
 lejos - to long  
 lengua (idioma, hablar, comunicación) - baxe  
 lengua - lisan  
-lengua materna - natal lingue  
+lengua materna - native lingue  
 lengua mundial - dunia baxe  
 lente - lense  
 lento (despacio) - anhaste  
 Lesoto - Soto  
-letal - letal  
 Letonia - Latvia  
 letra (carácter) - fone zi  
 letra negrita - gros zi  
@@ -2302,7 +2306,7 @@ lista - liste
 lista blanca - halal liste  
 listo (preparado) - redi  
 litera - ceng bede  
-literatura - kitabe suta  
+literatura - letaratur  
 litio - litium  
 litro - litre  
 Lituania - Lietuva  
@@ -2463,6 +2467,7 @@ mate cocido - mate cai
 matemática - numologia  
 matemático - numologer  
 material - madike  
+material de lectura - letaje  
 materialismo - madisme  
 maternal - ma di  
 Mauricio - Moris  
@@ -2705,6 +2710,7 @@ naranja - orange
 naranjo amargo - kali orange  
 nariz - nos  
 nasal - nos di  
+natal - native  
 natrón - natre bilor  
 naturaleza - nature  
 nautilo - nautile  
@@ -3724,7 +3730,7 @@ socialista - sosiste
 sociedad - sosia  
 socio (compañero) - bei  
 socio - partaner  
-sodio - natri  
+sodio - natre  
 software (soporte lógico) - programaje  
 sofá - sofa  
 soja - soi  
@@ -3779,7 +3785,6 @@ sulfuro - sulfide
 sultanato - sultania  
 suma (total) - sum  
 sumar - fa sum  
-suministrar (dar, proveer, emitir) - fati  
 sumisión (rendición) - islam  
 sunismo - suna islam din  
 superficial (poco profundo) - fase teleta  

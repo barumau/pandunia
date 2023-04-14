@@ -269,6 +269,8 @@ boce pante - samba-canção
 boing - rebater  
 boka cati - palato (céu da boca)  
 bol - bola  
+bolxevisme - bolchevismo  
+bolxeviste - bolchevique  
 bombe - bomba  
 borium - bóhrio  
 boron - boro  
@@ -431,12 +433,12 @@ dong - este (leste)
 doste - amigo  
 drame - drama  
 du - dois (2)  
+dual - dual  
 dubaxike - bilíngue  
 duple - dobro  
 • dusdua - maldição  
 dubnium - dúbnio  
 dudu - inseto  
-dugu - ler  
 dukan - loja  
 dum - fumo  
 dunia - mundo  
@@ -513,7 +515,6 @@ fan - fã
 fase - face (faceta)  
 fase tele - profundo  
 fasil - fácil  
-fate - fato (facto)  
 fatige - fadiga  
 fatu - punição (castigo)  
 fatu di - penal  
@@ -963,7 +964,6 @@ kisma - destino
 kitabe - escrevere  
 kitabe gi - máquina de escrever  
 kitabekan - biblioteca  
-kitabe suta - literatura  
 kivi - quivi  
 kivi frute - quivi  
 klar - claro  
@@ -1007,7 +1007,7 @@ kree - criar
 kreater - criador  
 kreatia - criação  
 kreative - criativo  
-kredi - confiar (contar com)  
+krede - confiar (contar com)  
 kreder - crente  
 • ankreder - infiel  
 krede karte - cartão de crédito  
@@ -1071,8 +1071,13 @@ lege veze di - ligeiro
 leng mosim - inverno  
 leng mosim di - invernal (hibernal)  
 lense - lente  
-• delete - delir (deletar)  
-letal - letal  
+lete - ler  
+letaje - material de leitura  
+letebil - legível  
+leter - leitor  
+letaratur - literatura  
+letion - leitura  
+letur - leitura  
 letre - carta  
 letus - alface  
 leu - esquerdo  
@@ -1321,14 +1326,15 @@ narde - gamão
 narke - droga (narcótico)  
 nasia - nação  
 • internasial - internacional  
+nate - nascer  
 • posnatal - pós-natal  
 • prenatal - pré-natal  
-nate - nascer  
-natal lingue - língua materna  
+native - nativo  
+native lingue - língua materna  
 nateloke - terra natal  
 natestan - terra natal  
 nature - natureza  
-natri - sódio  
+natre - sódio  
 nau - cérebro  
 nau di - cerebral  
 nautile - nautiloide  

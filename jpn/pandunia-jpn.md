@@ -222,6 +222,7 @@ boka cati - 口蓋 (上顎)
 bol - 玉 (球)  
 boli varis - ご飯  
 bolte - ボルト  
+bolxeviste - ボリシェヴィキ  
 borium - ボーリウム  
 boron - ホウ素  
 botel - 瓶  
@@ -386,7 +387,6 @@ dua - 祈祷
 • dusdua - 呪い (たたり)  
 dubnium - ドブニウム  
 dudu - 昆虫  
-dugu - 読む  
 dukan - 店 (店鋪)  
 dum - 煙  
 dunia - 世界  
@@ -469,7 +469,6 @@ fase - 面
 fase tele - 深い  
 fase teleta - 浅い  
 fasil - 易しい  
-fate - 事実  
 fatige - 疲労  
 fatu - 処罰  
 fatura - 料金  
@@ -895,7 +894,6 @@ kitabeme - 書記素
 kitabe forma - 書式付け  
 kitabekan - 図書館  
 kitabe minister - 図書係  
-kitabe suta - 文献 (文学, 文芸)  
 kivi - キーウィ  
 kivi frute - キーウィフルーツ  
 klas - 部門 (級)  
@@ -926,8 +924,8 @@ krake - 隙間 (ひび)
 kreater - 創造者  
 kreatia - 万物  
 kreative - 創造的な  
-kredi - 信頼する  
-• bekredibil - 忠実  
+krede - 信頼する  
+• bekredebil - 忠実  
 kreder - 信徒 (信者)  
 • ankreder - 不信者  
 krede karte - クレジットカード  
@@ -983,6 +981,10 @@ laurencium - ローレンシウム
 lazanya - ラザニア  
 lazur petra - ラピスラズリ (瑠璃)  
 lense - レンズ  
+lete - 読む  
+letaje - 読み物  
+leter - 読者  
+letaratur - 文献 (文学, 文芸)  
 letre - 手紙  
 letus - レタス  
 leu - 左  
@@ -1216,7 +1218,7 @@ narkose - 症
 • rinate - 転生  
 nateloke - 出生地  
 nature - 性質  
-natri - ナトリウム  
+natre - ナトリウム  
 nau - 脳  
 nautile - オウムガイ  
 nave - 舟 (ボート)  

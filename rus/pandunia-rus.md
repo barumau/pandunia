@@ -273,6 +273,8 @@ boi - поплавок (буй)
 boka cati - нёбо  
 bol - шар  
 bolte - болт  
+bolxevisme - большевизм  
+bolxeviste - большевик  
 bombe - бомба  
 borium - борий  
 boron - бор  
@@ -457,7 +459,6 @@ du o tri - пара
 • dusdua - проклятие (анафема)  
 dubnium - дубний, ²нильсборий  
 dudu - насекомое  
-dugu - читать  
 dukan - магазин (лавка, бутик)  
 dum - дым  
 dunia - мир (свет)  
@@ -1014,7 +1015,6 @@ kitabe - письмо
 kitabe gi - пишущая машинка  
 kitabekan - библиотека  
 kitabe minister - библиотекарь  
-kitabe suta - литература (словесность)  
 kivi - киви  
 kivi frute - киви  
 klien - клиент (покупатель, зака́зчик)  
@@ -1058,8 +1058,8 @@ kree - создать
 kreater - создатель  
 kreatia - мироздание  
 kreative - созидательный (творческий)  
-kredi - доверять (понадеяться)  
-• bekredibil - верный  
+krede - доверять (понадеяться)  
+• bekredebil - верный  
 • bekredebilta - верность  
 kreder - верующий  
 • ankreder - неверующий  
@@ -1117,7 +1117,10 @@ lazur petra - лазурит
 leng mosim - зима  
 leng mosim di - зимний  
 lense - линза  
-letal - летальный  
+lete - читать  
+leter - читатель  
+letaratur - литература (словесность)  
+leturer - лектор  
 letre - письмо  
 letus - салат-латук  
 leu - левый  
@@ -1363,13 +1366,14 @@ narde - нарды (триктрак)
 narke - наркотик  
 nasia - нация  
 • internasial - междунаро́дный  
-• posnatal - послеродовой  
 nate - родиться  
-natal lingue - родной язык  
+• posnatal - послеродовой  
+native - родной  
+native lingue - родной язык  
 nateloke - место рождения  
 nature - натура (сущность)  
+natre - натрий  
 natre bilor - натрит (натр, натрон, кристаллическая сода)  
-natri - натрий  
 nau - мозг  
 nau di - мозговой (церебральный)  
 nau hin - безмозглый  

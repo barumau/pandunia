@@ -304,6 +304,8 @@ bohrium - borium
 boikotti - boikote  
 bokserit - boce pante  
 Bolivia - Bolivia  
+bolševismi - bolxevisme  
+bolšvikki - bolxeviste  
 bonus - maxaje  
 boori - boron  
 Bosnia ja Hertsegovina - Bosna e Hercegovina  
@@ -380,7 +382,7 @@ Dominika - Dominika
 Dominikaaninen Tasavalta - Dominika Vakilkratia  
 dominopeli - domino  
 dramaattinen ironia - dramatike ironia  
-dualismi - duajisme  
+dualismi - dualisme  
 dubnium - dubnium  
 durra (kirjodurra) - jovar  
 dynamiitti - dinamite  
@@ -479,7 +481,7 @@ ensimmäinen (numero yksi) - un me
 entsyymi - enzim  
 epäaktiivinen (pois toiminnasta) - anative  
 epäileväinen - xakive  
-epäillä (olla uskomatta) - ankredi  
+epäillä (olla uskomatta) - ankrede  
 epäilyttävä - xakebil  
 epämuodostunut - dusformike  
 epäonni - dus zar  
@@ -882,7 +884,6 @@ hänen (sen) - da su
 häntä - koda  
 häpeä - xarma  
 häpy (ulkosynnyttimet) - vulva  
-hävitettävä - deletebil  
 hävitä (kärsiä tappio) - bai  
 hävitä (kärsiä tappio) - fa xiti bai  
 häviäjä - xiti bai ja  
@@ -1002,7 +1003,6 @@ ja (sekä) - e
 jade - giuka  
 Jahve (Jehova) - Yahve  
 jainalaisuus - jain din  
-jakaa (jaella) - fati  
 jakaa (leikata) - tome  
 jakaa (paloitella) - fenife  
 jakaa yhteiseksi - konife  
@@ -1159,7 +1159,8 @@ kakku (keksi) - keke
 kaksi (2) - du  
 kaksikielinen - dubaxike  
 kaksikielinen - dubaxike  
-kaksimielinen (kaksimerkityksinen) - du semi di  
+kaksimielinen (kaksimerkityksinen) - susemike  
+kaksinainen - dual  
 kaksisiipinen - zeze  
 kaktus - katus  
 kala - pexe  
@@ -1386,7 +1387,7 @@ Khartoum - Hartum
 kiehua - be boli  
 kiekko (levy) - diske  
 kieli (elin) - lisan  
-kieliopillinen - baxe kanun di  
+kieliopillinen - baxe kanunike  
 kieliopillinen suku - lexe gense  
 kielioppi - baxe kanun  
 kielitiede (lingvistiikka) - baxe logia  
@@ -1443,7 +1444,7 @@ Kirgistan (Kirgisia) - Kirgize
 Kiribati - Kiribati  
 kirja - buke  
 kirjain - fone zi  
-kirjallisuus - kitabe suta  
+kirjallisuus - letaratur  
 kirjasto - kitabekan  
 kirje - letre  
 kirjoitelma (essee) - esai  
@@ -1765,6 +1766,7 @@ lahja - don xe
 lahjakortti - don xe ceke  
 lahko (kultti) - din xia  
 lahti - bahai sake  
+laillinen - kanunike  
 lainata (siteerata) - sita  
 lainausmerkki - sita marke  
 laivakaappari - nave kaper  
@@ -1939,14 +1941,20 @@ lopullinen - final
 loukkaus (herja) - dusnam  
 loukkaus (törkeys) - insulte  
 lounas - dia yam  
+luennoija (luennoitsija) - leturer  
+luento - letur  
 luhistua (sortua sisään) - be in bum  
 luhistuminen - in bum  
 luiska (ramppi) - rampe  
-lukea - dugu  
+lukea - lete  
+lukeminen - letion  
+lukemisto - letaje  
+lukija - leter  
 lukita - fa sor  
 lukitsematon - detala di  
 lukko - tala  
 luku (jakso, tarinan osa) - babu  
+lukukelpoinen (luettava) - letebil  
 lukumäärä (luku, numero; laskea, numeroida) - nume  
 lumi - hima  
 lumikinos - hima duna  
@@ -2401,7 +2409,7 @@ nappi (näppäin, kytkin, nappula) - buton
 narkomaani (huumeriippuvainen, addikti) - narkiste  
 narkoosi - narkose  
 nationalisti - nasiste  
-natrium - natri  
+natrium - natre  
 natriumglutamaatti - vijin  
 natsi - nasial sosialiste  
 naula (piikki) - dingi  
@@ -3544,8 +3552,8 @@ sovittaa (mukauttaa) - hape
 sranan tongo - surinam baxe  
 Sri Lanka - Lanka  
 stadioni (areena) - stadia  
-stereofoninen - du soni di  
-stereoskooppinen - du grafi di  
+stereofoninen - dufonike  
+stereoskooppinen - dugrafike  
 strontium - estrontium  
 suahili - suahili  
 substantiivi (nimisana) - nam lexe  
@@ -3621,11 +3629,14 @@ syksy (syys) - pada mosim
 sylkeä - tuh  
 symmetria - sammetria  
 synkretismi - sinkredisme  
+synnyinmaa - natia  
 synnyinseutu - natestan  
+synnynnäinen (luonnollinen) - native  
 syntaksi - sintaxe  
 synteesi - sinteze  
 synti (paha teko) - dusate  
 synti (paha teko) - duskar  
+syntyminen - nation  
 syntymän jälkeinen - posnatal  
 syntymäpaikka - nateloke  
 syntymäpäivä - nateden  
@@ -3741,12 +3752,8 @@ tapahtua (tapahtuma) - voku
 tapaus (seikka) - kasu  
 tapetti - mur kaguze  
 tapioka - manioka fufu  
-tappaa (tappo) - lete  
 tappaa - matafa  
-tappaa pois (poistaa, hävittää) - delete  
 tappaja - mataja  
-tappava - letal  
-tappava annos - letal doze  
 tarha (piha) - bagi  
 tarha (puisto) - parke  
 tarkastaa (tarkistaa, tutkia, tsekata) - inspete  
@@ -3816,7 +3823,6 @@ tekniikka (keino, menetelmä) - tehne
 tekniikka (teknologia) - tehnologia  
 teknokratia - tehnokratia  
 teko (toimenpide, akti) - ate  
-teko - fate  
 tekoäly - arte fete intelige (AI)  
 tekstin muotoilu - kitabe forma  
 tekstinkäsittely - kitabe cule  
@@ -4100,14 +4106,14 @@ urheilu - sporte
 uros (mies) - nan  
 Uruguai - Uruguai  
 usein - a poli mar  
-uskoa (luottaa) - kredi  
+uskoa (luottaa) - krede  
 uskomaton - ankredebil  
 uskonnollinen - din di  
 uskonnoton - andiniste  
 uskonnoton - ankreder  
 uskonto - din  
 uskottava - kredebil  
-uskottu (luotettu) - bekrede  
+uskottu (luotettu) - bekreder  
 uskovainen - diniste  
 uskovainen - kreder  
 utelias (tiedonhaluinen) - san vol ja  
@@ -4522,7 +4528,7 @@ zombi - zombi
 zulu - Zulu  
 äidillinen - ma di  
 äidinisä - ma pa  
-äidinkieli - natal lingue  
+äidinkieli - native lingue  
 äidinäiti - ma ma  
 äiti (emä) - ma  
 äitipuoli (isän puoliso) - vise ma  
