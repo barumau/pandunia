@@ -11,16 +11,21 @@ and the _hard c_ is written with a **k**.
 | Latinate | Pandunia | Notes and examples |
 |----------|----------|--------------------|
 | c (hard) | k        | café > **kafe**, copy > **kopi**, cup > **kupa** |
-| c (soft) | s        | city > **siti** |
-| g        | g        | logic > **logika** |
-| s        | s / z    | **s**ol > **sol**, ma**ss**age > **masaje**, ro**s**e > **roza** |
+| c (soft) | s        | city > **site** |
+| g (soft) | g (hard) | geography > **geografia** |
+| s        | s / z    | **s**ol > **sol**, ma**ss**age > **masaje**, ro**s**e > **roze** |
 | ch (Greek)| h       | chaos > **haos**, cholera > **holera** |
-| ch (French) | sh    | chic > **shike** |
-| th       | t        | theme > **tema** |
-| ph       | f        | philosophy > **filsofi** |
+| ch (French) | x     | chic > **xike** |
+| th       | t        | theme > **tem** |
+| ph       | f        | philosophy > **filsofia** |
 | qu       | k        | mosquito > **moskite** |
-| x        | ks       | galaxy > **galaksi** |
-| -tion    | si       | nation > **nasi**, function > **funsi** |
+| x        | x        | galaxy > **galaxia** |
+| -tion    | -tion    | nation > **nation**, function > **funtion** |
+
+The *t* in *-tion* sounds like the normal *t*.
+It doesn't sound like *sh* as in English or like *s* as in French.
+Therefore the *t*'s sound identical, for example, in the derivation series
+**ate** 'act', **ative** 'active' and **ation** 'action'.
 
 
 ## Sinitic words
@@ -56,21 +61,16 @@ The recipe for building a Sinitic word for Pandunia is the following:
    Japanese and Vietnamese have frequently changed it.
 2. Select the medial vowel(s) from Mandarin, Cantonese and Japanese.
 3. Select the final nasal or stop consonant from Cantonese, Japanese, Korean and/or Vietnamese.
-   Typically at least 3/4 of them agree.
-4. Transform the Mandarin tone into a final vowel.
-    - Tone 1 → vowel **i**
-    - Tone 2 → vowel **u**
-    - Tone 3 → vowel **o**
-    - Tone 4 → vowel **a**
+   Typically at least three of them agree.
+4. Add **-e** if the stem ends in a stop consonant.
 
 Some examples of this word building process are shown in the table below.
 
 | Mandarin | Cantonese | Japanese | Korean    | Vietnamese | Pandunia  |
 |----------|-----------|----------|-----------|------------|-----------|
-| 发 fa1  | 發 faat3 | 発 hatsu | 발 bal  | phát  | **fati**  |
-| 罚 fa2  | 罰 fat6  | 罰 batsu | 벌 beol | phạt  | **fatu**  |
-| 板 ban3 | 板 baan2 | 板 ban   | 판 pan  | bản   | **bano**  |
-| 术 shu4 | 術 seot6 | 術 jutsu | 술 sul  | thuật | **shuta** |
+| 罚 fa2  | 罰 fat6  | 罰 batsu | 벌 beol | phạt  | **fate**  |
+| 板 ban3 | 板 baan2 | 板 ban   | 판 pan  | bản   | **ban**  |
+| 术 shu4 | 術 seot6 | 術 jutsu | 술 sul  | thuật | **xute** |
 
 
 ### Mapping syllables from Mandarin to Pandunia

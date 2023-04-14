@@ -199,7 +199,7 @@ As you can see, the same word is written and pronounced differently in different
 This is typical of international words.
 They get adapted in almost every language to their own spelling system.
 Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Pandunia.
-So the Pandunia word for language becomes **baxa**.
+So the Pandunia word for language becomes **baxe**.
 
 ### Western words
  
@@ -225,7 +225,7 @@ form that sounds familiar to speakers of as many languages as possible.
 | Pandunia word | English    | Portuguese | Spanish    | French     | German     | Russian    |
 |---------------|------------|------------|------------|------------|------------|------------|
 | **korte**     | short      | curto      | corto      | court      | kurz       | korotkiy   |
-| **neu**       | new        | novo       | nuevo      | nouveau    | neu        | novîy      |
+| **nove**      | new        | novo       | nuevo      | nouveau    | neu        | novîy      |
 | **marce**     | march      | marcha     | marcha     | marche     | Marsch     | marš       |
 | **poste**     | post (mail)| (postal)   | posta      | poste      | Post       | počta      |
 
@@ -259,8 +259,6 @@ a normal PoS suffix.
 | 讀 | **duge**      | duk        | dú         | doku       | dok        | đọc        |
 | 出 | **cuti**      | cœt        | chū        | shutsu     | chul       | xuất       |
 
-Applying the suffixes of Pandunia to Sinitic roots may seem unusual at first, but it is nothing new
-– Sinitic words are already inflected in Korean!
 
 ### Examples of global words
 
@@ -300,7 +298,7 @@ Applying the suffixes of Pandunia to Sinitic roots may seem unusual at first, bu
 | Portuguese | ʃa           | chá             |
 
 
-#### motor 'motor, engine'
+#### moter 'motor, engine'
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -439,7 +437,7 @@ The word **jen** is combined from several unrelated sources.
     - Urdu کمرا  /kəmra:/ (room)
     - Malay "kamar" (room)
 
-#### gata 'to cut'
+#### kate 'to cut'
 
 - the West
     - English "cut" /kʌt/
