@@ -409,7 +409,7 @@ grandfather
 to ask; please  
 **don**
 to give  
-**es**
+**e**
 and  
 **ga**
 to go  
@@ -466,7 +466,7 @@ some, a(n)
 **tu ne?**
 = And you?  
 <big>☹</big>
-**mi no baxa pandunia...**
+**mi no baxe pandunia...**
 = I don't speak Pandunia...  
 <big>☺</big>
 **maf! sual da yam cai?**
@@ -522,7 +522,7 @@ Of course common and proper nouns can also be used.
 = Does the chief drink coffee?  
 **sual papa saf kamar?**
 = Does the father clean the room?  
-**sual niki baxa pandunia?**
+**sual niki baxe pandunia?**
 = Does Nicky speak Pandunia?
 
 
@@ -579,7 +579,7 @@ after
 pardon, sorry  
 **minute**
 minute  
-**baxa**
+**baxe**
 speak a language  
 **ne**
 sentence-ending tag for asking the other's point of view  
@@ -599,7 +599,7 @@ yes
 
 ### Answers to the Exercises
 
-1. sual tu baxa pandunia?
+1. sual tu baxe pandunia?
 2. ya. mi baxa pandunia.
 3. sual mama yam kafe?
 4. no. da no yam kafe.
