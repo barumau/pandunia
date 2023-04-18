@@ -9,6 +9,7 @@ a vo - そこ (あそこ)
 a ye - ここ  
 abies - モミ  
 acar - 漬物  
+acarize - 酢漬けある  
 acinium - アクチニウム  
 ada - 習慣 (風俗)  
 adamas - 金剛石 (ダイヤモンド)  
@@ -36,6 +37,7 @@ alkan - アルカン
 alken - アルケン  
 alkin - アルキン  
 alkasus - 甘草 (蕗草)  
+alkol mixur - カクテル (混合酒)  
 alo fen di - 個別的  
 alpaka - アルパカ  
 alumin - アルミニウム  
@@ -173,7 +175,6 @@ be halte - 止まる
 be hogo - 燃える  
 be kux - 寝転ぶ  
 be pute - 腐敗  
-be rute galte - 逸れる  
 be sabe vol - 訝る (-かしら)  
 be sona - 寝る  
 be tele loka - 瞬間移動  
@@ -220,6 +221,7 @@ boi - フロート (ブイ)
 boi punte nume - 浮動小数点数  
 boka cati - 口蓋 (上顎)  
 bol - 玉 (球)  
+bolite - 丸石 (玉石, 栗石)  
 boli varis - ご飯  
 bolte - ボルト  
 bolxeviste - ボリシェヴィキ  
@@ -308,7 +310,6 @@ dai pau - 大砲
 dai pote - 大釜 (大鍋)  
 dai seku - 大石  
 dai zi - 大文字  
-dalil dokumen - 証明書  
 dama geme - チェッカー (西洋碁)  
 dan - 段 (等)  
 dang gi - 鐘 (鈴)  
@@ -424,7 +425,6 @@ ezmurude - エメラルド
 ## F  
 
 fa - する  
-fa acar - 酢漬けある  
 fa an galte - デバッグする  
 fa an verse - 逆らう  
 fa aroma - 嗅ぐ  
@@ -524,8 +524,8 @@ funtion - 関数
 fute bano - 足場  
 fute bol - フットボール  
 fute marke - 足跡  
-fuzi - 溶ける  
-fuzi petra - 溶岩  
+fuze - 溶ける  
+fuze petre - 溶岩  
 
 ## G  
 
@@ -586,25 +586,20 @@ ging - 並行
 ginge - 生姜  
 ging lin - 縦糸  
 gingam - キンカン (キンキツ)  
-gio - 教える (教義, -教)  
-gio ja - 教員  
 gitar - ギター  
 glas - ガラス  
-glas daka - 釉薬  
+glasure - 釉薬  
 glis - 滑る  
-glu bande - 絆創膏  
-glu di - 粘い  
 glu grafi - ステッカー  
-glu poto - 粘土  
 glukerol - グリセロール  
 glukin - グリシン  
 glukogen - 糖原 (グリコーゲン)  
 glukos - 葡萄糖 (グルコース)  
+glute bande - 絆創膏  
+glutike - 粘い  
 glutize - 張る (付く)  
 gogia jen - 市民  
 gol - 目的 (行き先, ゴール)  
-gola longta - 周囲長  
-gola seku - 丸石 (玉石, 栗石)  
 gomu - ゴム (消しゴム)  
 gorila - ゴリラ  
 goton - 綿糸 (コットン)  
@@ -996,7 +991,7 @@ lexe jama - 語彙
 liama - ラマ  
 libele - 蜻蛉  
 lide line - リード (手綱)  
-liga di sanduku - 契約の箱  
+lige su sanduke - 契約の箱  
 lima - 五 (5)  
 limon - レモン  
 limon jus - レモネード  
@@ -1157,7 +1152,6 @@ misioner - 宣教師
 Misre - エジプト  
 mite vide - 幻覚  
 mitre - メートル  
-mixe alkol - カクテル (混合酒)  
 mogu - 膜  
 moka - 木  
 moka kane - 杭  
@@ -1198,8 +1192,6 @@ na - 受ける (もらう)
 na xiti - 得失  
 nabija - 預言者  
 nadir - 稀 (疎ら)  
-nafte - 油 (オイル)  
-nafte fonte - 油井  
 nafte guku - シマカンギク (アブラギク)  
 nagre gogia - 都市国家  
 najis - 汚れ (汚染)  
@@ -1461,8 +1453,8 @@ rivo - 川
 rode - バラ  
 rodium - ロジウム  
 rode salmon - カラフトマス  
-roke musike - ロック  
 roke kursi - 揺り椅子  
+roke muzike - ロック  
 Roma - ローマ  
 roma kamil - ローマンカモミール  
 romanse - ロマンス  
@@ -1482,6 +1474,8 @@ ruke sake - リュックサック
 rulete - ルーレット  
 • dusrupike - 見苦しい  
 rusium - ルテニウム  
+• derute - 逸れる  
+rutizer - ルータ  
 ruterfordium - ラザホージウム  
 
 ## S  
@@ -1569,6 +1563,9 @@ silke larva - 蚕 (家蚕)
 simbol - 象徴 (シンボル)  
 sir plan - 陰謀  
 sirta - 忍び  
+sirke - 円 (丸)  
+sirke metre - 周囲長  
+sirkus - サーカス (曲馬団)  
 siro - 零 (０)  
 sis - 姉妹 (shimai)  
 skale - 上る (乗る, よじ登る)  
@@ -1698,6 +1695,7 @@ tuale kaguji - ちり紙 (トイレットペーパー)
 tuale kamar - トイレ (手洗い)  
 tulium - ツリウム  
 tuna - 鮪 (ツナ)  
+tung - シナアブラギリ  
 tur - 旅行 (ツアー)  
 turbe - 悩む (わざわざする)  
 turbin - タービン  
@@ -1830,6 +1828,8 @@ xule - 学ぶ
 xule - 教育  
 xuler - 学生  
 xule guru - 先生 (教師)  
+xulize - 教える (教義, -教)  
+xulizer - 教員  
 xulekan - 学校  
 xule xefe - 校長  
 xuru - 開始  
@@ -1882,6 +1882,9 @@ zaman - 時代 (年代)
 • prezaman di - 古い  
 zar kube - 賽子  
 zebra - 縞馬  
+zete - 油 (オイル)  
+zete fonte - 油井  
+zetun zete - オリーブ油  
 zeze - ハエ目 (双翅目)  
 zi - 字  
 zi forma - フォント (字体)  

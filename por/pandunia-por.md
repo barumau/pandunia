@@ -268,7 +268,7 @@ bocer - boxeador (pugilista)
 boce pante - samba-canção  
 boing - rebater  
 boka cati - palato (céu da boca)  
-bol - bola  
+bol - bola (esfera)  
 bolxevisme - bolchevismo  
 bolxeviste - bolchevique  
 bombe - bomba  
@@ -363,7 +363,6 @@ dai barxa - temporal (toró)
 dai dom - palácio (mansão, palacete)  
 dai pau - canhǎo  
 dai seku - pedregulho  
-dalil - prova  
 dama geme - damas  
 dana.cau - milhete (painço)  
 dang gi - sino (campainha)  
@@ -583,7 +582,7 @@ fungu frute - cogumelo
 funtion - função  
 fute bol - futebol  
 fute marke - pegada  
-fuzi - derretre  
+fuze - derretre  
 
 ## G  
 
@@ -642,18 +641,15 @@ gide - guiar
 gider - guia  
 ginge - jengibre  
 gingam - quincã (cunquate)  
-gio - ensinar (lecionar)  
 gitar - guitarra  
-giuka - jade  
 glas - vidro  
 glis - deslizar  
-glu bande - penso (band-aid)  
-glu di - pegajoso (adesivo)  
 glu grafi - adesivo  
-glu poto - argila  
 glukin - glicina  
 glukogen - glicogênio  
 glukos - glicosa  
+glute bande - penso (band-aid)  
+glutike - pegajoso (adesivo)  
 glutize - colar (aderir)  
 gol - meta (gol)  
 gorila - gorila  
@@ -1093,8 +1089,8 @@ liama - lhama
 libele - libélula  
 lider - líder (chefe)  
 lifafe - embalar  
-liga - liga (aliança)  
-liga di sanduku - Arca da Aliança  
+lige - liga (aliança)  
+lige su sanduke - Arca da Aliança  
 lima - cinco (5)  
 limon - limão  
 limon jus - limonada  
@@ -1225,6 +1221,7 @@ metanol - metanol
 metil - metil  
 metal bede - bigorna  
 metal lin - arame  
+metal mixure - liga  
 • parametri - parâmetro  
 meza - mesa  
 meza tela - toalha de mesa  
@@ -1266,6 +1263,7 @@ mision - миссия
 misioner - миссионер  
 Misre - Egipto (Egito)  
 mitre - metro  
+mixur - mistura  
 mode - modo (tipo)  
 mogu - membrana  
 moka - árvore  
@@ -1313,8 +1311,6 @@ nabi - profetizar
 nabija - profeta (arauto)  
 nadir - raro  
 nadir mar - raramente  
-nafte - aceite (óleo)  
-nafte fonte - poço de petróleo  
 nagral - urbano  
 nagre gogia - Cidade-estado  
 najis - poluição  
@@ -1638,18 +1634,18 @@ reseta - receita
 retro gula sense - náusea  
 retro tikete - passagem de volta  
 rezerve - reserva  
-rim - rima  
+rime - rima  
 ring - anel  
 ringar - ringue  
-riti - procedimento (rito)  
+rite - procedimento (rito)  
 ritim - ritmo  
 rivo - rio  
 robote - robô  
 rode - rosa  
 rodium - ródio  
 rode salmon - salmão-rosa  
-roke musike - rock  
 roke kursi - cadeira de balanço  
+roke muzike - rock  
 Roma - Roma  
 roma kamil - camomila-romana  
 rote - roda  
@@ -1662,6 +1658,8 @@ ruhu mixe di - perplexo (confuso)
 rulete - roleta  
 • dusrupike - feio  
 rusium - ruténio  
+rutize - rotear  
+rutizer - roteador  
 ruterfordium - rutherfórdio  
 
 ## S  
@@ -1747,6 +1745,7 @@ silke larva - bicho-da-seda (sirgo)
 simbol - símbolo  
 sine - sinal  
 sir plan - complô (conspiração)  
+sirkus - circo  
 siro - zero  
 sis - irmã  
 siti - cidade  
@@ -1884,6 +1883,7 @@ tuale kaguji - papel higiênico
 tuale kamar - lavatorio (toalete)  
 tulium - túlio  
 tulpan - túlipa  
+tung - tungue  
 tur - turnê  
 turbe - molestar (perturber)  
 • disturbe - perturbar (turbulência)  
@@ -2033,6 +2033,7 @@ xule - aprender
 xule - educação  
 xulaje - lição  
 xule guru - professor (docente)  
+xulize - ensinar (lecionar)  
 xulekan - escola (colégio)  
 xule xefe - diretor  
 xuru - começo (início, princípio)  
@@ -2059,6 +2060,7 @@ Yesa Mesi - Jesus Cristo
 yim yang - yin-yang  
 yoga - ioga  
 yogur - iogurte  
+yoke - jade  
 you - infantil (imaturo)  
 yuge - jugo  
 yuntion - junção  
@@ -2078,6 +2080,10 @@ zaman - tempo
 zar kube - dado  
 zarduxtan mager - mago  
 zebra - zebra  
+zete - óleo (aceite)  
+zete fonte - poço de petróleo  
+zetun - azeitona (oliva)  
+zetun zete - óleo de oliva (azeite)  
 zi - caractere  
 zikura - zigurate  
 zinke - zinco  

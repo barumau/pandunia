@@ -68,6 +68,7 @@ abies - fir tree
 acar - pickle  
 acar di - pickled  
 acar hiyar - gherkin (pickle)  
+acarize - pickle (preserve in vinegar or brine)  
 aci - sneeze (achoo)  
 acinium - actinium  
 ada - habit (custom)  
@@ -137,6 +138,7 @@ alkin - alkyne
 alkol - alcohol  
 alkolike - alcoholic  
 alkasus - licorice  
+alkol mixur - cocktail  
 almari - cupboard (closet, cabinet, wardrobe)  
 alo fen di - discrete (distinct, separate, quantized)  
 alo romanse di - heteroromantic  
@@ -470,7 +472,6 @@ be fatige - get tired (become weary)
 be fen - split (fall apart, divide, separate)  
 be fin - end  
 be fobi - fear (be afraid)  
-be fuzi liga - merge (fuse)  
 be gamo - feel  
 be gas - gasify (vaporize)  
 be gau - rise (go up)  
@@ -504,7 +505,6 @@ be reste - remain (stay)
 be retro - return (get back)  
 be rota - rotate (spin, turn on an axis)  
 be rupa - seem  
-be rute galte - stray (deviate)  
 be sabe vol - wonder (be interested in, would like to know)  
 be sam rupa - resemble (be like)  
 be sel - should (ought)  
@@ -601,7 +601,8 @@ boing - bounce
 boka - mouth  
 boka cati - palate  
 boka vele - velum  
-bol - ball  
+bol - ball (sphere, orb)  
+bolite - cobblestone  
 bolon - balloon  
 boli - boil (cook)  
 boli varis - cooked rice  
@@ -813,8 +814,6 @@ dai zi - capital letter (upppercase letter)
 dake - cover (conceal)  
 • andake - uncover (reveal)  
 dake - cover (lid, cap, deck)  
-dalil - proof (evidence, proof, demonstration, testimony)  
-dalil dokumen - certificate  
 dama geme - checkers (draughts)  
 dan - rank (grade, dan)  
 dane - particle (grain, bullet)  
@@ -1124,7 +1123,6 @@ ezmurude - emerald
 ## F  
 
 fa - do  
-fa acar - pickle (preserve in vinegar or brine)  
 fa alo rai - disagree  
 fa amen - assure (affirm, confirm)  
 fa an galte - debug  
@@ -1211,7 +1209,6 @@ fa ratibu - order (arrange)
 fa re - repeat (iterate)  
 fa redi - prepare (make ready)  
 fa reporte - report (recount, relate)  
-fa reside - acknowledge  
 fa retro - return (put back)  
 fa rezerve - reserve (book)  
 fa rolo - roll (wrap in)  
@@ -1375,6 +1372,7 @@ flexe - bend (flex)
 • reflexer - reflector  
 • reflexe sonde - echo  
 • flexebil - flexible   
+flexive baxe - flexional language  
 flur - fluorine  
 fluride - fluoride  
 fobia - fear (phobia)  
@@ -1470,10 +1468,12 @@ fute bano - scaffolding (gangplank)
 fute bol - football (soccer)  
 fute marke - footprint  
 fute xaka - leg  
-fuzi - melt (liquify)  
-fuzi liga - fusion (amalgamation)  
-fuzi petra - lava  
-fuzi saf - smelt  
+fuze - melt (found, liquify)  
+• konfuze - melt together (merge, fuse)  
+fuzion - fusion (amalgamation)  
+fuzive baxe - fusional language  
+fuze petre - lava  
+fuzesafe - smelt  
 
 ## G  
 
@@ -1623,38 +1623,30 @@ ging gola - meridian (line of longitude)
 ging gradu - longitude  
 ging lin - warp  
 gingam - kumquat  
-gio - teach (educate, instruct, doctrine)  
-gio ja - teacher (instructor)  
 giota - drop (droplet)  
 gitar - guitar  
-giuka - jade  
 glas - glass  
-glas daka - glazing (enamel)  
 glasife - glaze (vitrify)  
+glasure - glazing (enamel)  
 glis - slide (slip, glide, skate)  
-glu - glue (adhesive)  
-glu bande - adhesive bandage (band-aid, sticking plaster)  
-glu di - sticky (ahesive)  
 glu grafi - sticker  
-glu poto - clay  
 glukerol - glycerol (glycerine)  
 glukin - glycine  
 glukogen - glycogen  
 glukos - glucose  
-glutize - stick (adhere, paste, glue)  
+glute - glue (adhesive)  
+glute bande - adhesive bandage (band-aid, sticking plaster)  
 gluten - gluten  
+glutike - sticky (ahesive)  
+glutive baxe - agglutinative language  
+glutize - stick (adhere, paste, glue)  
 gogia - country (land, state)  
 gogia jen - citizen  
 gol - goal (destination)  
-gole - achieve (accomplish, arrive, reach)  
-gola - circle (sphere, round object)  
-gola di - round (circular)  
-gola longta - perimeter (circumference)  
-gola seku - cobblestone  
 golem - golem  
 gomu - rubber (latex, eraser)  
-gona - corner (angle)  
-gona metri gi - goniometer  
+gone - corner (angle)  
+gonometrer - goniometer  
 gorila - gorilla  
 goro - pig  
 goro karne - pork  
@@ -2659,10 +2651,9 @@ lide line - leash (rein)
 Lietuva - Lithuania  
 lietuva baxe - Lithuanian  
 lifafe - wrap  
-lifafa - wrapping (envelope, covering)  
-lige - associate  
-liga - league (alliance)  
-liga di sanduku - Ark of the Covenant  
+lifafe - wrapping (envelope, covering)  
+lige - league (alliance)  
+lige su sanduke - Ark of the Covenant  
 Lihtenstain - Liechtenstein  
 lila - lilac  
 lila rang - lilac color  
@@ -2699,6 +2690,7 @@ litre - litre (liter)
 livermorium - livermorium  
 lixu - squirrel  
 lize - breakdown (-lysis)  
+lizive baxe - analytic language  
 loba - radish  
 loge - tell (inform, instruct, pass information)  
 logia - story (tale, narrative, explanation)  
@@ -2961,6 +2953,7 @@ meta - hind (behind, later)
 metal - metal  
 metal bede - anvil  
 metal lin - wire  
+metal mixure - alloy  
 metal saner - blacksmith (iron forger)  
 metal tul - hardware (ironware, equipment)  
 metri - measure (measurement)  
@@ -3046,8 +3039,8 @@ mitike - fake (fictional, fake, made up, spurious)
 mite vide - illusion (hallucination)  
 mitre - meter (100 cm)  
 mixe - mix (blend)  
-mixe alkol - cocktail  
-mixe gi - mixer (blender)  
+mixer - mixer (blender)  
+mixur - mixture  
 mode - mode (type, pattern, state)  
 model - model (design)  
 mode lexe - adverb  
@@ -3158,8 +3151,6 @@ nadir - rare (scarce, sparse, uncommon)
 nadir mar - seldom (rarely)  
 nadirta - rarity  
 nafas - breath  
-nafte - oil  
-nafte fonte - oil well  
 nafte guku - Indian chrysanthemum  
 nagre - town  
 nagral - urban  
@@ -3878,6 +3869,7 @@ renium - rhenium
 rentegenium - roentgenium  
 reporte - report  
 reseta - instructions (recipe)  
+reside - acknowledge  
 reside - receipt (acknowledgement, acquittance)  
 restoran - restaurant  
 retro dau - return (way back)  
@@ -3892,12 +3884,12 @@ ri - again (repeatedly)
 rikarga - recharge (reload)  
 rike - rich  
 riketa - wealth (fortune)  
-rim - rhyme (verse)  
+rime - rhyme (verse)  
 ring - ring  
 ringar - ring (sports or exhibition arena)  
-risko - risk  
-risko di - risky  
-riti - way (manner, means, method, mode, procedure, rite)  
+riske - risk  
+riskike - risky  
+rite - way (manner, means, method, mode, procedure, rite)  
 ritim - rhythm (beat)  
 rivo - river (stream)  
 rivo kinar - river bank  
@@ -3907,15 +3899,15 @@ rodium - rhodium
 rode rang - pink (rosy)  
 rode salmon - pink salmon  
 roke - rock (sway, tilt)  
-roke musike - rock music  
 roke kursi - rocking chair  
+roke muzike - rock music  
 rol - role  
 rom - rum  
+Romania - Romania  
 Roma - Rome  
 roman - Roman  
-Roman Imperia - Roman Empire  
+Roma Imperia - Roman Empire  
 roma kamil - Roman camomile  
-Romania - Romania  
 romanse - romance (romantic love)  
 • anromanse - aromantic  
 romanse di - romantic  
@@ -3945,16 +3937,19 @@ rul - roll (scroll, coil)
 rulete - roulette  
 rul koli - cabbage  
 Rundi - Burundi  
+rupe - appear (look like; appearance, looks, figure, representation)  
 • dusrupike - ugly (unsightly)  
-rupa - appear (look like; appearance, looks, figure, representation)  
 Rusia - Russia  
 rusium - ruthenium  
 rus krepe - blini  
 rus lingue - Russian language  
 rute - route (path, trail, course, itinerary)  
-rute galte di - stray (deviant)  
-ruterfordium - rutherfordium  
+• derute - stray (deviate, go off course)  
+• derutike - stray (deviant)  
 rutin - routine (habit)  
+rutize - route (set on course)  
+rutizer - router  
+ruterfordium - rutherfordium  
 
 ## S  
 
@@ -4167,6 +4162,10 @@ sir - secret (hidden)
 sir move - sneak  
 sir plan - conspiracy (plot)  
 sirta - stealth (secrecy)  
+sirke - circle  
+sirkike - round (circular)  
+sirke metre - perimeter (circumference)  
+sirkus - circus  
 siro - zero (none)  
 siro jen - nobody (no-one)  
 siro sata - never  
@@ -4551,6 +4550,7 @@ tundra - tundra
 tundra xan - fell  
 tunel - tunnel  
 tunel tren - subway (metro)  
+tung - tung tree  
 Tunis - Tunisia  
 tupi - hat (cap)  
 tur - tour (excursion, trip)  
@@ -4883,6 +4883,8 @@ xule - education (schooling)
 xulaje - lesson (teaching)  
 xuler - student (pupil, learner)  
 xule guru - schoolteacher  
+xulize - teach (educate, instruct, doctrine)  
+xulizer - teacher (instructor)  
 xule kamar - classroom  
 xulekan - school (institution)  
 xule xefe - headmaster (principal)  
@@ -4942,6 +4944,7 @@ yoga - yoga
 yogaiste - yogi  
 yogur - yogurt  
 Yohan festa - Saint John's Day  
+yoke - jade  
 Yoruba - Yoruba (language and people)  
 yota - yotta-  
 you - infantile (juvenile, immature)  
@@ -4970,7 +4973,6 @@ zayife - summon (add, spawn, actualize)
 zaita - presence (existence)  
 zai zaman - present time (now)  
 zai zaman di - current (contemporary, present-day)  
-zaitun - olive  
 zalime - oppress (bully)  
 zalimer - oppressor (tyrant, despot, dictator)  
 zalimia - cruelty (tyranny, despotism)  
@@ -4990,7 +4992,11 @@ zarduxtisme - Zoroastrianism
 zarduxtiste - Zoroastrian  
 zebra - zebra  
 zelo - fervour (zeal, passion)  
+zete - oil  
+zete fonte - oil well  
 zeta - zetta-  
+zetun - olive  
+zetun zete - olivo oil  
 zeze - fly  
 zi - character (written symbol)  
 zi forma - font  

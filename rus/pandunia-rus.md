@@ -50,6 +50,7 @@ alkil - алкил
 alkin - алкин  
 alkol - алкоголь  
 alkasus - солодка (лакрица)  
+alkol mixur - коктейль  
 almari - шкаф  
 alo fen di - раздельный  
 alpaka - альпака  
@@ -223,7 +224,6 @@ be kux - лежать
 be mal - принадлежать  
 be pute - гнить (портиться)  
 be retro - возвращаться  
-be rute galte - отходить (скитаться)  
 be sabe vol - задуматься (думать, гадать)  
 be sona - спать  
 be tele loka - телепортировать  
@@ -271,7 +271,8 @@ bocer - боксёр
 boce pante - семейные  
 boi - поплавок (буй)  
 boka cati - нёбо  
-bol - шар  
+bol - шар (сфера)  
+bolite - булыжник  
 bolte - болт  
 bolxevisme - большевизм  
 bolxeviste - большевик  
@@ -373,7 +374,6 @@ dai lasun - лук исполинский
 dai pau - пушка  
 dai pote - котёл  
 dai seku - валун  
-dalil - доказательство  
 dama geme - шашки  
 dan - ранг  
 dana.cau - просо (пшено)  
@@ -681,23 +681,19 @@ gider - гид
 ging - параллельный  
 ginge - имбирь  
 gingam - кумкват (кинкан)  
-gio - учить (преподавать)  
 gitar - гитара  
-giuka - нефрит (жад)  
 glas - стекло  
-glas daka - глазурь  
 glasife - глазуровать  
+glasure - глазурь  
 glis - задвигаться (скользи́ть)  
-glu bande - пластырь  
-glu di - клейкий (липкий)  
 glu grafi - наклейка  
-glu poto - глина  
 glukerol - глицерин  
 glukogen - гликоген  
 glukos - глюкоза  
+glute bande - пластырь  
+glutike - клейкий (липкий)  
 glutize - клеиться  
 gol - цель  
-gola seku - булыжник  
 gomu - резина (каучук, резинка, ластик)  
 gorila - горилла  
 goton - хлопок  
@@ -1135,8 +1131,8 @@ lexunife - лексикализовать
 liama - лама  
 libele - стрекоза  
 lider - руководитель (лидер)  
-liga - лига (союз)  
-liga di sanduku - ковчег завета  
+lige - лига (союз)  
+lige su sanduke - ковчег завета  
 lima - пять (5)  
 limon - лимон  
 limon jus - лимонад  
@@ -1268,6 +1264,7 @@ metan - метан
 metanol - метанол  
 metil - метил  
 metal bede - наковальня  
+metal mixure - сплав  
 • parametri - параметр (аргумент)  
 meza - стол  
 meza tela - скатерть  
@@ -1299,7 +1296,7 @@ misaje - месседж
 Misre - Египет  
 mitre - метр  
 mixe - мешать  
-mixe alkol - коктейль  
+mixur - смесь  
 mogu - плева  
 moka - дерево  
 moka bano - доска (планка)  
@@ -1351,8 +1348,6 @@ nabi - пророчество
 nabija - пророк (вестник)  
 nadir - редкий  
 nadir mar - редко  
-nafte - масло  
-nafte fonte - скважина  
 nagral - городской  
 nagre gogia - город-государство  
 najis - грязь (скверна)  
@@ -1659,9 +1654,9 @@ rentegenium - рентгений
 retro gula - рвать (изрыга́ть)  
 retro gula sense - тошнота  
 retro note - обратная связь  
-rim - рифма  
+rime - рифма  
 ringar - ринг (манеж)  
-riti - способ (метод)  
+rite - способ (метод)  
 ritim - ритм (такт)  
 rivo - река  
 robote - робот  
@@ -1669,8 +1664,8 @@ rode - роза
 rodium - родий  
 rode salmon - горбуша  
 roke - качать  
-roke musike - рок  
 roke kursi - кресло-качалка  
+roke muzike - рок  
 Roma - Рим  
 roma kamil - ромашка римская  
 romanse - роман  
@@ -1693,6 +1688,8 @@ rul - рулон
 rulete - рулетка  
 • dusrupike - безобразный (некрасивый)  
 rusium - рутений  
+• derute - отходить (скитаться)  
+rutizer - маршрутизатор  
 ruterfordium - резерфордий, ²курчатовий  
 
 ## S  
@@ -1787,6 +1784,8 @@ silke larva - шелкопряд
 simbol - символ  
 sine plate - нагрудник  
 sir plan - заговор (сговор)  
+sirke - круг  
+sirkus - цирк  
 siro - нуль (зеро)  
 sis - сестра (sestra)  
 skale - подниматься  
@@ -1944,6 +1943,7 @@ tulium - тулий
 tulpan - тюльпан  
 tuna - тунец  
 tundra xan - фьельды  
+tung - тунг  
 tur - путешествие (турне)  
 turbe - утруждай  
 turbin - турбина  
@@ -2093,6 +2093,7 @@ xule - учиться
 xule - образование  
 xulaje - урок (учение)  
 xule guru - учитель  
+xulize - учить (преподавать)  
 xulekan - школа   
 xule xefe - директор (ректор)  
 xuru - начало  
@@ -2122,6 +2123,7 @@ yim yang - инь и ян
 yoga - йога  
 yogur - йогурт  
 Yohan festa - Иванов день  
+yoke - нефрит (жад)  
 you moke - саженец  
 yuge - ярмо (иго)  
 yuntion - соединение  
@@ -2142,6 +2144,10 @@ zar kube - кость (кубик)
 Zarduxte - Зороастр  
 zarduxtiste - зороастризм  
 zebra - зебра  
+zete - масло  
+zete fonte - скважина  
+zetun - олива (маслина)  
+zetun zete - оливковое масло  
 zeze - двукрылое  
 zi - буква (символ, иероглиф)  
 zi forma - шрифт  

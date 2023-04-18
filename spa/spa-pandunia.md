@@ -31,8 +31,9 @@ accesible - acesebil
 acceso (acceder) - acese  
 acceso - inlai  
 acción - ation  
-aceite (óleo) - nafte  
-aceituna - zaitun  
+aceite (óleo) - zete  
+aceite de oliva - zetun zete  
+aceituna - zetun  
 acelga - selge  
 acento - protone  
 aceptable - okeibil  
@@ -68,7 +69,7 @@ adicional (extra) - maxaje
 adiós - sal cute  
 adjetivo - sifa loge  
 admirar - amire  
-adoquín - gola seku  
+adoquín - bolite  
 adoración (veneración, culto) - puja  
 adormidera (amapola real) - sona papi  
 adulterio - zina  
@@ -123,6 +124,7 @@ alcohol - alkol
 alcohólico - alkolike  
 aldea - deha  
 aldehuela - xiu deha  
+aleación - metal mixure  
 Alemania - Doice  
 alemán - doice di  
 alfabeto - zi seri  
@@ -243,7 +245,7 @@ análisis de datos - data fen lize
 anís - anis  
 anón (ates, saramuyo) - ata  
 aparecer - be zai  
-apartarse (desviarse) - be rute galte  
+apartarse (desviarse) - derute  
 apellido - famil nam  
 aplicar (untar) - aplike  
 aprender (estudiar) - xule  
@@ -260,11 +262,10 @@ araña - arane
 arañar - nahunate  
 arboreto - moka jong parke  
 arbusto (mata) - dipe moka  
-arca de la Alianza - liga di sanduku  
+arca de la Alianza - lige su sanduke  
 arca de Noé - Noe di nave  
 archipiélago - nesia  
 archipiélago de Hawái - Havai nesia  
-arcilla (barro) - glu poto  
 arco - arke  
 arco iris - rang arka  
 ardiente (encendido) - hogo di  
@@ -292,7 +293,7 @@ arquitecto - bine planer
 arquitectura - bine plan  
 arrastrar - trate  
 arreglo - repare  
-arriesgado - risko di  
+arriesgado - riskike  
 arroba (@) - adres grame  
 arromántico - anromanse  
 arroz - varis  
@@ -322,9 +323,8 @@ Asia - Asia
 Asiria - Axuria  
 asiático - asian  
 asma - asma  
-asociar - lige  
 asombrar - ajabife  
-aspecto - rupa  
+aspecto - rupe  
 aspiradora - haki cupu gi  
 Assur (Ashur) - Axur  
 astral - astral  
@@ -439,7 +439,7 @@ basura (desechos) - lasa
 basural - lasa stan  
 basurero - lasa tong  
 bata (aljuba) - juba  
-batidora (licuadora, mezcladora) - mixe gi  
+batidora (licuadora, mezcladora) - mixer  
 baya - beri  
 bañarse - fa banya  
 bañera - banya  
@@ -488,7 +488,7 @@ bodega - vinkan
 bohrio - borium  
 boicot - boikote  
 boina - bere  
-bola - bol  
+bola (esfera) - bol  
 bolchevique - bolxeviste  
 bolchevismo - bolxevisme  
 boletín de noticias - habar letre  
@@ -748,7 +748,6 @@ cerradura (candado) - tala
 cerrar con cremallera - zipe  
 cerrar sesión - exloga  
 cerrojo (pestillo) - kane sor  
-certificado - dalil dokumen  
 cerveza (birra) - bir  
 cerámica - serami  
 cesio - cesium  
@@ -802,6 +801,7 @@ cinta (cinta para el pelo) - kexa bande
 cinta adhesiva - tepe  
 cinturón (zona) - zone  
 cinético - motike  
+circo - sirkus  
 circonio - zirkonium  
 circón - zirkon  
 citar - sita  
@@ -1077,7 +1077,7 @@ cuna - lala bede
 cupón (vale) - kupon  
 curar (sanar) - dava  
 curio - kurium  
-curita (apósito) - glu bande  
+curita (apósito) - glute bande  
 curri - kari  
 curva - kurva  
 curvo - kurva di  
@@ -1093,9 +1093,9 @@ cárcel - jelekan
 Cáucaso - Kaukasia  
 célula - selu  
 césped (pasto) - cau medan  
-círculo - gola  
+círculo - sirke  
 cítrico - limon orange  
-cóctel - mixe alkol  
+cóctel - alkol mixur  
 código (cifra) - kode  
 cólera - holera  
 cómo - ke riti  
@@ -1169,7 +1169,7 @@ derecho - dex di
 derecho - haku  
 derechos de autor (copyright) - kopi haki  
 derechos humanos - human hake  
-derretirse - fuzi  
+derretirse - fuze  
 derrota - bai  
 desactivado - anative  
 desacuerdo - anrai  
@@ -1265,7 +1265,7 @@ dióxido de carbono - karbe duoxide
 Dniéster - Nistre  
 doble (doblar) - duple  
 doble sentido - susemike  
-docente (enseñante, profesor, maestro) - gio ja  
+docente (enseñante, profesor, maestro) - xulizer  
 doctor (médico) - davaer  
 doctor - dotor  
 doctorado - dotorta  
@@ -1381,7 +1381,7 @@ encarcelar (aprisionar) - jele
 encontrar (reunión, junta, mitin) - ajame  
 encontrarse (estar, situarse) - be loka  
 encurtido - acar di  
-encurtir - fa acar  
+encurtir - acarize  
 enderezar (poner recto) - ortife  
 endónimo - in nam  
 enemigo - dus jen  
@@ -1396,7 +1396,7 @@ enojado (furioso) - furi
 ensalada - salade  
 ensayo (ejercitio) - lenxi  
 ensayo (redacción) - esai  
-enseñar (instruir, doctrina) - gio  
+enseñar (instruir, doctrina) - xulize  
 entender (comprender; ajá) - aha  
 entero (todo) - hol  
 entrada - inmun  
@@ -1406,7 +1406,7 @@ entrar - intre
 entre - a medi  
 entristecer (poner triste) - fa duka  
 enviar (transmitar) - mise  
-envoltura - lifafa  
+envoltura - lifafe  
 envolver - lifafe  
 enzima - enzim  
 equal (similar) - sam  
@@ -1482,7 +1482,7 @@ esposo o esposa - gam per
 espárrago - asparge  
 espíritu (genio) - jini  
 esqueleto (armazón) - oste jama  
-esquina (rincón, ángulo) - gona  
+esquina (rincón, ángulo) - gone  
 estaca - moka kane  
 estacionamiento (aparcamiento) - car parke  
 estación (temporada) - mosim  
@@ -1667,8 +1667,8 @@ funcionario - guaner
 función - funtion  
 fundador - bazer  
 fundar (basar) - bazize  
-fusionar (fundir) - be fuzi liga  
-fusión - fuzi liga  
+fusionar (fundir) - konfuze  
+fusión - fuzion  
 fusión nuclear - kerne unta  
 fusta - uma bici  
 futuro - pos zaman  
@@ -1767,7 +1767,7 @@ gofre - vafle
 golpear (pegar) - dape  
 goma (caucho, hule, borrador) - gomu  
 goma arábiga - arabi babul  
-goniómetro (medidor de ángulos) - gona metri gi  
+goniómetro (medidor de ángulos) - gonometrer  
 gorila - gorila  
 gorila occidental - veste gorila  
 gorila oriental - dong gorila  
@@ -1995,7 +1995,7 @@ imperialismo - imperialisme
 imperialista - imperialiste  
 imperio - imperia  
 Imperio otomano - Osman Imperi Dexa  
-Imperio romano - Roman Imperia  
+Imperio romano - Roma Imperia  
 impermeable (sumergible) - sui sekur di  
 impermeable - barxa kote  
 implosionar - be in bum  
@@ -2131,7 +2131,7 @@ izquierdo - leu di
 ## J  
 
 jabón - sabun  
-jade - giuka  
+jade - yoke  
 jainismo - jain din  
 Jamaica - Jamaika  
 japonés - nipon di  
@@ -2226,7 +2226,7 @@ lasaña - lazanya
 lateral (horizontal) - late di  
 latitud - vei gradu  
 laurencio - laurencium  
-lava - fuzi petra  
+lava - fuze petre  
 lavadora - fuku vaxi gi  
 lavar - vaxi  
 laúd - pipa  
@@ -2281,7 +2281,7 @@ libélula - libele
 lichi - lici  
 licor - araki  
 Liechtenstein - Lihtenstain  
-liga (alianza, federación) - liga  
+liga (alianza, federación) - lige  
 ligero (leve, vago, débil, borroso) - mirde  
 ligero - lege veze di  
 lila (de color lila) - lila rang  
@@ -2331,7 +2331,6 @@ local - lokal
 lodo (barro, fango) - poto  
 logical - logikal  
 logical - ratologike  
-lograr (llegar) - gole  
 longitud - ging gradu  
 loro (papagayo) - papagai  
 lotería - lotation  
@@ -2550,6 +2549,7 @@ metilo - metil
 metro - mitre  
 metro - tunel tren  
 mez - mes  
+mezcla - mixur  
 mezclar - mixe  
 mi - mi su  
 micelio - fungu nete  
@@ -3033,8 +3033,8 @@ pedir (invitar; por favor) - cing
 pedir prestado - jeka na  
 pedo - perde  
 peer - fa pede  
-pegajoso (adhesivo) - glu di  
-pegamento (pega, goma) - glu  
+pegajoso (adhesivo) - glutike  
+pegamento (pega, goma) - glute  
 pegar - fa pei  
 pegar - glutize  
 peine - kanga  
@@ -3085,7 +3085,7 @@ personal (privado, a medida) - jen di
 personalizar - autife  
 perspectiva (punto de vista) - vide punte  
 perturbar (turbulencia) - disturbe  
-perímetro (circunferencia) - gola longta  
+perímetro (circunferencia) - sirke metre  
 peróxido - peroxide  
 peróxido - peroxide  
 peróxido de hidrógeno - hidre peroxide  
@@ -3213,7 +3213,7 @@ posterior - posike
 postnatal - posnatal  
 postura (posición) - asan  
 potasio - kalium  
-pozo petrolífero - nafte fonte  
+pozo petrolífero - zete fonte  
 practicar (ensayar, ejercitar) - fa lenxi  
 pradera (pastizal) - cau stan  
 praseodimio - prazedimium  
@@ -3266,7 +3266,7 @@ proactivo - proative
 probar (demonstrar, comprobar) - fa dalil  
 problema - problem  
 problemático - problem di  
-procedimiento (rito) - riti  
+procedimiento (rito) - rite  
 procesamiento de datos - data cule  
 procesamiento de imágenes - grafe cule  
 producción - cane  
@@ -3304,7 +3304,6 @@ proyectil (misil) - lanse xe
 proyecto - projete  
 proyector - grafe lanse gi  
 proyector - grafe projeter  
-prueba - dalil  
 prueba - teste  
 práctica - prate  
 práctico - pratike  
@@ -3423,12 +3422,12 @@ rechazar (negar) - nege
 recibir - recepe  
 reciclar - resikle  
 recoger (juntar, reunir, acumular, recolectar, montar) - jame  
-reconocer (admitir) - fa reside  
+reconocer (admitir) - reside  
 reconocimiento (recibo) - reside  
 recorrido (tour) - tur  
 recto - orto  
 redes sociales - sosial midia  
-redondo (circular) - gola di  
+redondo (circular) - sirkike  
 reducir a la mitad (dividir en dos) - dufenife  
 reencarnación - reinkarnation  
 referir - refere  
@@ -3500,8 +3499,8 @@ reír - haha
 ribera - rivo kinar  
 rico - rike  
 riesgo (posibilidad) - zar  
-riesgo - risko  
-rima - rim  
+riesgo - riske  
+rima - rime  
 Rin - Ren  
 ring - ringar  
 rinoceronte - kargadan:  
@@ -3516,7 +3515,7 @@ roble daimyo - dante baluta
 robo (hurto) - core  
 robot (bot) - robote  
 roca (piedra) - petra  
-rock - roke musike  
+rock - roke muzike  
 rocío - rose  
 rodear (cirundar) - fa gola  
 rodilla - guta  
@@ -3548,6 +3547,7 @@ Rumania - Romania
 rural (rústico) - agristanike  
 Rusia - Rusia  
 ruta - rute  
+ruteador (rúter) - rutizer  
 rutenio - rusium  
 rutherfordio - ruterfordium  
 rutina (hábito) - rutin  
@@ -4129,7 +4129,7 @@ viajero - safarer
 vice- (alternativa, sustituto) - vise  
 vicepresidente - vise prezidente  
 vida (orgánico) - bie  
-vidriado (esmalte) - glas daka  
+vidriado (esmalte) - glasure  
 vidriar (glasear) - glasife  
 vidrio (cristal) - glas  
 vidrio volcánico - hogo xan glas  

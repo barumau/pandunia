@@ -11,7 +11,6 @@ abóbada - arke cati
 abóbora (jerimun) - kaboga  
 acanto-bastardo - pin kardon  
 aceitar - acepe  
-aceite (óleo) - nafte  
 acento - protone  
 acesso (acceder) - acese  
 acesso - inlai  
@@ -115,11 +114,10 @@ aracnídeo - aranide
 arame - metal lin  
 aranha - arane  
 arbusto (mata) - dipe moka  
-Arca da Aliança - liga di sanduku  
+Arca da Aliança - lige su sanduke  
 arca de Noé - Noe di nave  
 arco - arke  
 areia - sable  
-argila - glu poto  
 argon - argon  
 arguir - fa argu  
 argumento - argu  
@@ -173,6 +171,7 @@ aventura - ventur
 aventureiro - venturer  
 avó - cin ma  
 avô - cin pa  
+azeitona (oliva) - zetun  
 azur (blau) - lazur  
 azur - nil  
 açougueiro (talhante) - karnizer  
@@ -236,7 +235,7 @@ biscoito - biskute
 bismuto - bismute  
 bisão (bisonte) - bison  
 bizarro - guai  
-bola - bol  
+bola (esfera) - bol  
 bolchevique - bolxeviste  
 bolchevismo - bolxevisme  
 boletim de notícias - habar letre  
@@ -410,6 +409,7 @@ cigarro - sigar
 cinco (5) - lima  
 cintilar - fa sing foto  
 cipó - trepater  
+circo - sirkus  
 citologia - selu logia  
 claro - klar  
 cliente - klien  
@@ -562,7 +562,7 @@ demora (atraso, espera) - dele
 denegar - denege  
 dente-de-leão (taráxaco) - makan hua  
 depenar - depena  
-derretre - fuzi  
+derretre - fuze  
 desastre - dusastre  
 descanso (repouso) - xanti  
 desconectar - dekonnete  
@@ -665,7 +665,7 @@ enganar - fa truke
 engenharia - engenia  
 engenheiro - engener  
 ensaio (redação) - esai  
-ensinar (lecionar) - gio  
+ensinar (lecionar) - xulize  
 ensino primário - baze xulekan  
 ensino secundário - jong xulakan  
 ensopar (encharcar, marinar) - pul xipi  
@@ -1001,7 +1001,7 @@ iurte - yurta
 
 ## J  
 
-jade - giuka  
+jade - yoke  
 jaguatirica (ocelote) - oselote  
 jambolão (jambo) - jamul  
 janela - janela  
@@ -1066,7 +1066,8 @@ lexema - lexeme
 lhama - liama  
 libélula - libele  
 licor - araki  
-liga (aliança) - liga  
+liga (aliança) - lige  
+liga - metal mixure  
 ligeiro - lege veze di  
 lima - kaguji limon  
 limonada - limon jus  
@@ -1226,6 +1227,7 @@ mina - kuan xan
 miragem - miraje  
 mirar (apontar) - dike  
 mirar - mire  
+mistura - mixur  
 mito - deokata  
 modelar - formize  
 modo (tipo) - mode  
@@ -1449,14 +1451,14 @@ pedra preciosa (gema) - bauite
 pedregulho - dai seku  
 pedrinha - xiu seku  
 pegada - fute marke  
-pegajoso (adesivo) - glu di  
+pegajoso (adesivo) - glutike  
 peidar - fa pede  
 peido - perde  
 peixe - pexe  
 pele - pil  
 pena - pena kalam  
 penal - fatu di  
-penso (band-aid) - glu bande  
+penso (band-aid) - glute bande  
 pepino - hiyar  
 pepino-africano (kiwano) - korne melon  
 pepino-do-mar (holotúrias) - bahai hiyar  
@@ -1528,7 +1530,7 @@ posterior - posike
 potássio - kalium  
 poucos - kam  
 povo - pope  
-poço de petróleo - nafte fonte  
+poço de petróleo - zete fonte  
 prancheta - pinse bano  
 praseodímio - prazedimium  
 prata - argente  
@@ -1553,7 +1555,7 @@ privar - deprive
 privatizar - privatize  
 proativo - proative  
 problema - problem  
-procedimento (rito) - riti  
+procedimento (rito) - rite  
 processamento de dados - data cule  
 processamento de imagem - grafe cule  
 professor (docente) - xule guru  
@@ -1578,7 +1580,6 @@ prosperar - sucese
 protacnídio - protacinium  
 protocolo - bure rite  
 protótipo - prototipe  
-prova - dalil  
 proxeneta (cafetão) - sutener  
 proximidade - proxia  
 pré-natal - prenatal  
@@ -1693,20 +1694,22 @@ reto - orto
 retornar - fa retro  
 revelar - devel  
 rim - nefre  
-rima - rim  
+rima - rime  
 ringue - ringar  
 rio - rivo  
 rir - haha  
 ritmo - ritim  
 robô - robote  
 rocha (pedra) - petra  
-rock - roke musike  
+rock - roke muzike  
 roda - rote  
 roentgênio - rentegenium  
 roleta - rulete  
 Roma - Roma  
 romance - long kata  
 rosa - rode  
+roteador - rutizer  
+rotear - rutize  
 roupa (vestidura) - fuku  
 rouxinol - bulbul  
 rua - gali  
@@ -1938,6 +1941,7 @@ tu - tu
 tubarão - xayu  
 tubérculo - masa mula  
 tungsténio - volfram  
+tungue - tung  
 turbante - pagri  
 turbina - turbin  
 turbojato - turbojeter  
@@ -2081,6 +2085,8 @@ zumbi - zombi
 étnico - zuku di  
 ímã (íman) - manite  
 índio - hindium  
+óleo (aceite) - zete  
+óleo de oliva (azeite) - zetun zete  
 ósmio - osmium  
 ótimo (óptimo) - otimal  
 óxide - oxide  

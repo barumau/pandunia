@@ -252,6 +252,7 @@ bocer - 拳击手
 boce pante - 平角褲  
 boka cati - 上颚 (口盖)  
 bol - 球  
+bolite - 鹅卵石  
 boli varis - 饭 (米饭)  
 bolxevisme - 布尔什维主义  
 bolxeviste - 布尔什维克  
@@ -551,9 +552,9 @@ fungu frute - 蘑菇
 funtebil - 機能的  
 funtion - 函数  
 fute marke - 脚印  
-fuzi - 融化  
-fuzi petra - 熔岩  
-fuzi saf - 熔炼  
+fuze - 融化  
+fuze petre - 熔岩  
+fuzesafe - 熔炼  
 
 ## G  
 
@@ -611,23 +612,19 @@ gider - 导游
 ginge - 姜  
 ging lin - 經紗  
 gingam - 金柑  
-gio - 教学  
 gitar - 吉他  
-giuka - 玉  
 glas - 玻璃  
-glas daka - 釉  
+glasure - 釉  
 glis - 滑下  
-glu bande - 创可贴 (邦迪)  
-glu di - 黏的  
 glu grafi - 贴纸  
-glu poto - 黏土  
 glukerol - 甘油 ( 丙三醇)  
 glukin - 甘氨酸  
 glukogen - 糖原  
 glukos - 葡萄糖  
+glute bande - 创可贴 (邦迪)  
+glutike - 黏的  
 gogia jen - 公民  
 gol - 目的  
-gola seku - 鹅卵石  
 gorila - 大猩猩  
 goton - 棉  
 gradu mute - 发展 (开发)  
@@ -1026,7 +1023,7 @@ lexe jama - 词汇
 liama - 大羊駝  
 libele - 蜻蜓  
 lider - 领导  
-liga di sanduku - 约柜  
+lige su sanduke - 约柜  
 lima - 五 (5)  
 limon - 柠檬  
 limon jus - 柠檬水  
@@ -1143,6 +1140,7 @@ metanol - 甲醇
 metil - 甲基  
 metal bede - 铁砧  
 metal lin - 线 (铁丝)  
+metal mixure - 合金  
 metal saner - 铁匠  
 • parametri - 参数  
 meza - 桌子  
@@ -1174,6 +1172,7 @@ misaje - 信息
 misioner - 传教士  
 Misre - 埃及  
 mitre - 米 (公尺)  
+mixur - 混合物  
 mode - 模  
 mogu - 膜  
 moka - 树木  
@@ -1221,8 +1220,6 @@ na xiti - 得失
 nabija - 预言家  
 nadir - 稀有 (稀少的)  
 nadir mar - 很少  
-nafte - 油  
-nafte fonte - 油井  
 nafte guku - 野菊花  
 nagre gogia - 城邦  
 najis - 污染物  
@@ -1482,14 +1479,14 @@ retro note - 反馈
 retro tikete - 往返票  
 ring - 环 (轮)  
 ringar - 擂台  
-riti - 方法  
+rite - 方法  
 ritim - 节奏  
 rivo - 河 (江)  
 rode - 玫瑰  
 rodium - 铑  
 rode salmon - 粉紅鮭  
-roke musike - 摇滚乐  
 roke kursi - 摇椅  
+roke muzike - 摇滚乐  
 Roma - 罗马  
 roma kamil - 果香菊  
 rote - 轮子  
@@ -1587,6 +1584,8 @@ silke - 丝绸
 silke larva - 家蚕 (蚕宝宝)  
 simbol - 象徵  
 sir plan - 阴谋 (密谋)  
+sirke - 圆  
+sirkus - 马戏团  
 siro - 零 (〇)  
 sis - 姐妹 (jiěmèi)  
 sis doh - 外甥女  
@@ -1722,6 +1721,7 @@ tuale kamar - 厕所
 tulium - 铥  
 tulpan - 郁金香  
 tuna - 金枪鱼  
+tung - 油桐  
 turbin - 涡轮机  
 tuta - 桑树  
 tuzi - 兔子  
@@ -1853,6 +1853,7 @@ xule - 教育
 xulaje - 课  
 xuler - 学生  
 xule guru - 教师 (老师)  
+xulize - 教学  
 xulekan - 学校  
 xule xefe - 校长  
 xuru - 开始  
@@ -1881,6 +1882,7 @@ yim - 阴
 yim yang - 阴阳  
 yoga - 瑜伽功  
 yogur - 酸奶 (优格)  
+yoke - 玉  
 you - 幼稚  
 you nen - 幼年  
 yuge - 轭  
@@ -1897,6 +1899,10 @@ zaman - 时间
 • prezaman di - 古老 (以前)  
 zar kube - 骰子 (色子)  
 zebra - 斑马  
+zete - 油  
+zete fonte - 油井  
+zetun - 橄榄  
+zetun zete - 橄榄油  
 zeze - 双翅目  
 zi - 字  
 zi seri - 字母表  

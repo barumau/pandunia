@@ -366,7 +366,8 @@ bocer - boxeur
 boce pante - caleçon  
 boing - rebondir  
 boka cati - palais de la bouche  
-bol - balle (boule)  
+bol - balle (boule, sphère)  
+bolite - pavé  
 bolon - ballon  
 bolte - boulon  
 bolxevisme - bolchevisme  
@@ -465,7 +466,6 @@ dai pau - canon
 dai pote - chaudron  
 dai seku - rocher  
 dake - couvrir  
-dalil - preuve  
 dama geme - jeu de dames  
 dan - rang  
 dana.cau - mil (millet)  
@@ -723,9 +723,10 @@ funtion - fonction
 furete - furet  
 fute bol - football  
 fute marke - empreinte de pied  
-fuzi - melt  
-fuzi petra - lave  
-fuzi saf - fondu  
+fuze - melt  
+• konfuze - fusionner (fuser)  
+fuze petre - lave  
+fuzesafe - fondu  
 
 ## G  
 
@@ -797,22 +798,18 @@ gide buke - guide touristique
 gider - guide  
 ginge - gingembre  
 gingam - kumquat  
-gio - enseigner  
 gitar - guitare  
-giuka - jade  
 glas - verre  
 glis - glisser  
-glu bande - pansement (sparadrap)  
-glu di - adhésif (collant)  
 glu grafi - autocollant  
-glu poto - argile  
 glukerol - glycérol (glycérine  
 glukin - glycine  
 glukogen - glycogène  
 glukos - glucose  
+glute bande - pansement (sparadrap)  
+glutike - adhésif (collant)  
 glutize - coller  
 gol - but (destination)  
-gola seku - pavé  
 gorila - gorille  
 goton - coton  
 gradu mute - développement  
@@ -1282,8 +1279,8 @@ liama - lama
 libele - libellule  
 lider - dirigeant (leader)  
 lifafe - envelopper (emballer)  
-liga - ligue (alliance)  
-liga di sanduku - Arche d'Alliance  
+lige - ligue (alliance)  
+lige su sanduke - Arche d'Alliance  
 lila - lilas  
 lima - cinq (5)  
 limon - citron  
@@ -1424,6 +1421,7 @@ metanol - méthanol (alcool de bois)
 metil - méthyle  
 metal bede - enclume  
 metal lin - fil de fer  
+metal mixure - alliage  
 • parametri - paramètre  
 meza - table  
 meza tela - nappe  
@@ -1463,6 +1461,7 @@ mision - misión
 misioner - misionero  
 Misre - Égypte  
 mitre - mètre  
+mixur - mélange (mixture)  
 mode - mode (type)  
 module - module  
 mogu - membrane  
@@ -1515,8 +1514,6 @@ nabi - prophétiser
 nabija - prophète (héraut)  
 nadir - rare  
 nadir mar - rarement  
-nafte - huile (pétrole)  
-nafte fonte - puits de pétrole  
 nagral - urbain  
 nagre gogia - cité-état  
 najis - pollution  
@@ -1860,10 +1857,10 @@ reseta - recette
 retro gula sense - nausée  
 retro tikete - aller-retour  
 rike - riche  
-rim - rime  
+rime - rime  
 ring - anneau  
 ringar - ring (manège)  
-riti - procédé (rite)  
+rite - procédé (rite)  
 ritim - rhythme  
 rivo - rivière (fleuve)  
 rivo kinar - rive  
@@ -1872,8 +1869,8 @@ rode - rose
 rodium - rhodium  
 rode salmon - saumon rose  
 roke - secouer  
-roke musike - rock  
 roke kursi - chaise à bascule (berçante)  
+roke muzike - rock  
 Roma - Rome  
 roma kamil - Camomille Romaine  
 rose - rosée  
@@ -1892,6 +1889,8 @@ rul - rouleau
 rulete - roulette  
 • dusrupike - laid (vilain)  
 rusium - ruthénium  
+• derute - dévier  
+rutizer - routeur  
 ruterfordium - rutherfordium  
 
 ## S  
@@ -1986,6 +1985,8 @@ simbol - symbole
 sine - signe  
 sir plan - complot (conspiration)  
 sirta - célérité  
+sirke - cercle (rond)  
+sirkus - cirque  
 siro - zéro  
 sis - sœur  
 siti - ville  
@@ -2151,6 +2152,7 @@ Tule - Thulé
 tulium - thulium  
 tulpan - tulipe  
 tuna - thon  
+tung - tung  
 Tunis - Tunisie  
 tur - excursion (tournée)  
 turiste - touriste  
@@ -2309,6 +2311,7 @@ xule - éducation
 xulaje - leçon  
 xuler - étudiant  
 xule guru - professeur (enseignant)  
+xulize - enseigner  
 xule kamar - salle de classe  
 xulekan - école (collège)  
 xule xefe - directeur (principal)  
@@ -2338,6 +2341,7 @@ Yesa Mesi - Jésus-Christ
 yim yang - yin-yang  
 yoga - yoga  
 yogur - yaourt (yogourt)  
+yoke - jade  
 you - infantile (immature)  
 you moke - pousse  
 yuge - joug  
@@ -2361,6 +2365,10 @@ Zarduxte - Zoroastre
 zarduxtisme - zoroastrisme  
 zarduxtiste - zoroastrien  
 zebra - zèbre  
+zete - huile (pétrole)  
+zete fonte - puits de pétrole  
+zetun - olive  
+zetun zete - huile d'olive  
 zi - caractère  
 zi seri - alphabet  
 zikura - ziggourat  

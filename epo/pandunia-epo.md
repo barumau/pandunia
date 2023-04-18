@@ -758,17 +758,15 @@ germanium - germaniumo
 gi - maŝino  
 gide - gvidi  
 ginge - zingibro  
-gio - instrui (lernigi)  
 gitar - gitaro  
-giuka - jado  
 glas - vitro  
-glu - gluo  
 glu grafi - glumarko  
+glute - gluo  
 gluten - gluteno  
 gogia - lando  
 gol - golo  
 gomu - kaŭĉuko  
-gona - angulo  
+gone - angulo  
 goro - porko  
 goro karne - porkaĵo  
 goton - kotono  
@@ -1248,8 +1246,8 @@ lexograme - logogrammi (logo)
 lexe jama - vortaro  
 lexe liste - vortaro  
 libele - libelo  
-lige - aligi  
-liga di sanduku - Kesto de Interligo  
+lige - ligi (aligi; ligo)  
+lige su sanduke - Kesto de Interligo  
 lima - kvin (5)  
 limon - citrono  
 limon jus - limonado  
@@ -1354,6 +1352,7 @@ merkurden - merredo
 mes - monato  
 metal - metalo  
 metal lin - drato  
+metal mixure - alojo  
 metri - mezuri  
 meza - tablo  
 meza tela - tablotuko  
@@ -1394,7 +1393,8 @@ misrian - egipta
 mite - mito  
 mitre - metro  
 mixe - miksi  
-mixe gi - miksilo  
+mixer - miksilo  
+mixur - miksaĵo  
 mogu - membrano  
 moka - arbo  
 moka jong parke - arboĝardeno  
@@ -1747,9 +1747,9 @@ retro dau - reiro
 rezerve - rezervo  
 rezin - rezino  
 ri - denove (ripete)  
-risko - risko  
-risko di - riska  
-riti - metodo  
+riske - risko  
+riskike - riska  
+rite - metodo  
 ritim - ritmo  
 rivo - rivero  
 robote - roboto  
@@ -1768,12 +1768,12 @@ ruhu - animo (psiko)
 ruhu logia - psikologio  
 ruke - dorso  
 rulete - ruleto  
+rupe - aspekto  
 • dusrupike - malbonaspekta  
-rupa - aspekto  
 rusium - rutenio  
 rus krepe - rusa krepo  
-ruterfordium - ruterfordio  
 rutin - rutino (kutimo)  
+ruterfordium - ruterfordio  
 
 ## S  
 
@@ -1875,6 +1875,8 @@ sine - brusto
 sine kasa - torako  
 singa - leono  
 Singapur - Singapuro  
+sirke - cirklo  
+sirkus - cirko  
 siro - nul  
 sis - fratino  
 sismologia - sismologio  
@@ -2176,6 +2178,7 @@ xule - lerni (studi)
 xulaje - leciono  
 xuler - studento (lernanto)  
 xule guru - instruisto  
+xulize - instrui (lernigi)  
 xulekan - lernejo  
 xule xefe - lernejestro  
 xuru - komenco  
@@ -2207,6 +2210,7 @@ yo sata - iam
 yo xe - io  
 yoga - jogo  
 yogur - jogurto  
+yoke - jado  
 you nan - knabo  
 you ni - knabino  
 yuge - jugo  
@@ -2221,7 +2225,6 @@ zai di - ĉeestanta (ekzistanta)
 zaita - ĉeestanteco (ekzisto)  
 zai zaman - nuno  
 zai zaman di - nuna  
-zaitun - olivo  
 zaman - tempo  
 • prezaman - pasinteco  
 • prezaman di - malnova  
@@ -2233,6 +2236,9 @@ Zarduxte - Zoroastro
 zarduxtisme - zoroastrismo  
 zarduxtiste - zoroastristo  
 zebra - zebro  
+zete - oleo  
+zetun - olivo  
+zetun zete - olivoleo  
 zi seri - alfabeto  
 zina - malfideleco  
 zinke - zinko  

@@ -32,6 +32,7 @@ abies - jodła
 acar - marynować  
 acar di - kiszony (marynowany)  
 acar hiyar - korniszon  
+acarize - kisić (marynować)  
 aci - kichać (apsik!)  
 acinium - aktyn  
 ada - nawyk (przyzwyczajenie)  
@@ -101,6 +102,7 @@ alkin -
 alkol - alkohol  
 alkolike - alkoholowy  
 alkasus - lukrecja  
+alkol mixur - koktajl  
 almari - kredens (szafa, szafka)  
 alo fen di - dyskretny (kwantowy)  
 alo romanse di - heteroromantyczny  
@@ -435,7 +437,6 @@ be fatige - męczyć się (nużyć się)
 be fen - pęknąć (rozpaść się)  
 be fin -   
 be fobi -   
-be fuzi liga - łączyć (złączyć)  
 be gamo - czuć, odczuć, odczuwać  
 be gas - zamieniać się w gaz (parować)  
 be gau - wznosić się (wznieść się, wstawać, wstać, powstać, unosić się, unieść się)  
@@ -469,7 +470,6 @@ be reste - zostać, zostawać
 be retro - wrócić, wracać, wycofać się, wycofywać się  
 be rota - obrócić się (kręcić się)  
 be rupa - wyglądać (wydawać się)  
-be rute galte - zbłąkać się (wykoleić się)  
 be sabe vol -   
 be sam rupa - być podobnym, być jak  
 be sel - powinien  
@@ -567,6 +567,7 @@ boka - usta
 boka cati -   
 boka vele -   
 bol - piłka  
+bolite - bruk  
 bolon - balon  
 boli - zapomnieć, zapominać  
 boli varis -   
@@ -778,8 +779,6 @@ dai zi -
 dake - przykryć, przykrywać, ukryć, ukrywać  
 • andake - odsłonić, odsłaniać  
 dake - pokrycie; pokrywa, wieko, dekiel; pokład  
-dalil - dowód; zeznanie  
-dalil dokumen -   
 dama geme - warcaby  
 dan -   
 dane - cząstka (ziarno, kula, pocisk)  
@@ -1089,7 +1088,6 @@ ezmurude - szmaragd
 ## F  
 
 fa - zrobić (stworzyć, wykreować)  
-fa acar - kisić (marynować)  
 fa alo rai - nie zgadzać się  
 fa amen -   
 fa an galte -   
@@ -1176,7 +1174,6 @@ fa ratibu - porządkować, organizować
 fa re - powtórzyć, powtarzać  
 fa redi - przygotować, przygotowywać  
 fa reporte - raportować, relacjonować, opowiadać  
-fa reside - uznać (przynać, przyjąć do wiadomości)  
 fa retro -   
 fa rezerve - rezerwować (zarezerwować)  
 fa rolo - toczyć, turlać  
@@ -1340,6 +1337,7 @@ flexe -
 • reflexer -   
 • reflexe sonde - echo  
 • flexebil -   
+flexive baxe -   
 flur - fluor  
 fluride - fluorek  
 fobia - strach, fobia  
@@ -1435,10 +1433,12 @@ fute bano - rusztowanie (trap)
 fute bol - piłka nożna  
 fute marke -   
 fute xaka - noga  
-fuzi - topnieć (upłynniać się)  
-fuzi liga - fuzja (amalgamowanie, łączenie)  
-fuzi petra - lawa  
-fuzi saf - topić (upłynnić, upłynniać)  
+fuze - topnieć (upłynniać się)  
+• konfuze - łączyć (złączyć)  
+fuzion - fuzja (amalgamowanie, łączenie)  
+fuzive baxe -   
+fuze petre - lawa  
+fuzesafe - topić (upłynnić, upłynniać)  
 
 ## G  
 
@@ -1588,38 +1588,30 @@ ging gola - długość geograficzna
 ging gradu - długość geograficzna  
 ging lin -   
 gingam - kumkwat  
-gio -   
-gio ja -   
 giota - kropla  
 gitar - gitara  
-giuka - żad  
 glas - szkło  
-glas daka - glazura (emalia)  
 glasife - szklić (glazurować)  
+glasure - glazura (emalia)  
 glis - ślizgać się (poślizgnąć się, jeździć na łyżwach)  
-glu - klej  
-glu bande -   
-glu di - lepki (kleisty)  
 glu grafi -   
-glu poto - glina  
 glukerol -   
 glukin -   
 glukogen -   
 glukos -   
-glutize - lepić (kleić)  
+glute - klej  
+glute bande -   
 gluten - gluten  
+glutike - lepki (kleisty)  
+glutive baxe -   
+glutize - lepić (kleić)  
 gogia - kraj, ziemia  
 gogia jen - obywatel  
 gol - cel  
-gole -   
-gola - koło, okrąg  
-gola di - okrągły  
-gola longta -   
-gola seku - bruk  
 golem - golem  
 gomu - guma  
-gona - kąt  
-gona metri gi - goniometr (kątomierz)  
+gone - kąt  
+gonometrer - goniometr (kątomierz)  
 gorila - goryl  
 goro - świnia  
 goro karne - wieprzowina  
@@ -2625,10 +2617,9 @@ lide line - smycz (cugiel, lejc, wodza)
 Lietuva - Litwa  
 lietuva baxe - litewski  
 lifafe - zawijać (zawinąć)  
-lifafa - owinięcie (koperta, okładka)  
-lige - stowarzyszać się (zrzeszać się)  
-liga - liga (stowarzyszenie)  
-liga di sanduku -   
+lifafe - owinięcie (koperta, okładka)  
+lige - liga (stowarzyszenie)  
+lige su sanduke -   
 Lihtenstain - Liechtenstein  
 lila - lilak  
 lila rang - liliowy  
@@ -2665,6 +2656,7 @@ litre - litr
 livermorium - liwermor  
 lixu - wiewiórka  
 lize -   
+lizive baxe -   
 loba - rzodkiewka  
 loge -   
 logia -   
@@ -2928,6 +2920,7 @@ meta -
 metal - metal  
 metal bede - kowadło  
 metal lin -   
+metal mixure -   
 metal saner - kowal  
 metal tul -   
 metri - zmierzyć (miara)  
@@ -3012,8 +3005,8 @@ mitike -
 mite vide - iluzja (halucynacja)  
 mitre - metr  
 mixe - miksować, mieszać  
-mixe alkol - koktajl  
-mixe gi - mikser, blender, robot kuchenny  
+mixer - mikser, blender, robot kuchenny  
+mixur -   
 mode - tryb  
 model - model, wzór, wzorzec, projekt  
 mode lexe - przysłówek  
@@ -3124,8 +3117,6 @@ nadir -
 nadir mar - rzadko  
 nadirta - rzadkość  
 nafas - oddech  
-nafte - olej  
-nafte fonte -   
 nafte guku - złocień indyjski  
 nagre - miasto  
 nagral - miejski  
@@ -3843,6 +3834,7 @@ renium - ren
 rentegenium - roentgen  
 reporte - raport  
 reseta - recepta, receptura, przepis  
+reside - uznać (przynać, przyjąć do wiadomości)  
 reside - paragon, pokwitowanie  
 restoran - restauracja  
 retro dau - powrót  
@@ -3857,12 +3849,12 @@ ri - znowu (ponownie)
 rikarga -   
 rike - bogaty  
 riketa - bogactwo (fortuna, majątek)  
-rim - rym (wers)  
+rime - rym (wers)  
 ring - pierścień  
 ringar -   
-risko - ryzyko  
-risko di - ryzykowny  
-riti - metoda, sposób  
+riske - ryzyko  
+riskike - ryzykowny  
+rite - metoda, sposób  
 ritim - rytm, bit  
 rivo - rzeka  
 rivo kinar -   
@@ -3872,15 +3864,15 @@ rodium - rod
 rode rang - różowy, różany  
 rode salmon - gorbusza  
 roke -   
-roke musike - rock  
 roke kursi -   
+roke muzike - rock  
 rol - rola  
 rom - rum  
+Romania - Rumunia  
 Roma - Rzym  
 roman -   
-Roman Imperia - Imperium Rzymskie  
+Roma Imperia - Imperium Rzymskie  
 roma kamil - rumian rzymski  
-Romania - Rumunia  
 romanse - miłość romantyczna  
 • anromanse - aromantyczny  
 romanse di - romantyczny  
@@ -3910,16 +3902,19 @@ rul - rulon (rolka, zwój)
 rulete - ruletka  
 rul koli -   
 Rundi - Burundi  
+rupe - wygląd  
 • dusrupike - brzydki  
-rupa - wygląd  
 Rusia - Rosja  
 rusium - rut  
 rus krepe - rosyjski naleśnik (blin)  
 rus lingue - rosyjski  
 rute - ścieżka (droga, szlak, kurs)  
-rute galte di - zbłąkany (dewiacyjny, wykolejony)  
-ruterfordium - rutherford  
+• derute - zbłąkać się (wykoleić się)  
+• derutike - zbłąkany (dewiacyjny, wykolejony)  
 rutin - rutyna, nawyk, zwyczaj  
+rutize -   
+rutizer -   
+ruterfordium - rutherford  
 
 ## S  
 
@@ -4132,6 +4127,10 @@ sir - sekret
 sir move - skradać się  
 sir plan - spisek (konspiracja)  
 sirta - skradanie się  
+sirke - koło (okrąg)  
+sirkike - okrągły  
+sirke metre -   
+sirkus -   
 siro - zero, nic, żaden  
 siro jen - nikt, żadna osoba  
 siro sata - nigdy  
@@ -4515,6 +4514,7 @@ tundra - tundra
 tundra xan -   
 tunel - tunel  
 tunel tren - metro  
+tung -   
 Tunis - Tunezja  
 tupi - kapelusz, czapka  
 tur -   
@@ -4847,6 +4847,8 @@ xule -
 xulaje - lekcja  
 xuler - uczeń, student  
 xule guru - nauczyciel  
+xulize -   
+xulizer -   
 xule kamar -   
 xulekan - szkoła (instytucja)  
 xule xefe - dyrektor szkoły  
@@ -4906,6 +4908,7 @@ yoga - joga
 yogaiste - jogin (joginka)  
 yogur - jogurt  
 Yohan festa - dzień świętego Jana  
+yoke - żad  
 Yoruba - Joruba  
 yota -   
 you -   
@@ -4934,7 +4937,6 @@ zayife - wzywać (wezwać, dodawać, dodać)
 zaita - teraźniejszość, współczesność  
 zai zaman - teraźniejszość, współczesność (teraz)  
 zai zaman di - bieżący (aktualny, obecny)  
-zaitun - oliwka  
 zalime -   
 zalimer - tyran  
 zalimia - tyrania  
@@ -4954,7 +4956,11 @@ zarduxtisme - zaratusztrianizm
 zarduxtiste - zaratrustianin  
 zebra - zebra  
 zelo -   
+zete - olej  
+zete fonte -   
 zeta -   
+zetun - oliwka  
+zetun zete -   
 zeze -   
 zi -   
 zi forma -   

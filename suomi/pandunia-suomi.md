@@ -66,6 +66,7 @@ abies - pihta (jalokuusi)
 acar - säilyke (pikkelssi)  
 acar di - säilötty  
 acar hiyar - suolakurkku (etikkakurkku)  
+acarize - säilöä  
 aci - aivastaa (atsii!)  
 acinium - aktinium  
 ada - tapa  
@@ -133,6 +134,7 @@ alkin - alkyyni
 alkol - alkoholi  
 alkolike - alkoholinen  
 alkasus - lakritsi  
+alkol mixur - koktail  
 almari - kaappi  
 alo fen di - diskreetti  
 alo romanse di - heteroromanttinen  
@@ -457,7 +459,6 @@ be fatige - väsyä
 be fen - jakautua (hajota)  
 be fin - loppua  
 be fobi - pelätä  
-be fuzi liga - sulaa yhteen (fuusioitua)  
 be gamo - tuntea (kokea tunteita)  
 be gas - kaasuuntua  
 be gau - nousta  
@@ -491,7 +492,6 @@ be reste - jäädä jäljelle
 be retro - palata  
 be rota - pyöriä  
 be rupa - näyttää jltkn  
-be rute galte - harhautua  
 be sabe vol - kiinnostua  
 be sam rupa - muistuttaa (vaikuttaa samalta)  
 be sel - pitäisi  
@@ -587,7 +587,8 @@ boing - kimmota (pomppia)
 boka - suu  
 boka cati - suulaki (kitalaki)  
 boka vele - kitapurje  
-bol - pallo  
+bol - pallo (kuula)  
+bolite - mukulakivi  
 bolon - ilmapallo  
 boli - keittää (kiehuttaa)  
 boli varis - kypsä riisi  
@@ -788,7 +789,6 @@ dai xulakan - yliopisto
 dake - peittää  
 • andake - paljastaa  
 dake - peite (kansi)  
-dalil - todiste (todistus, osoitus, demonstraatio)  
 dama geme - tammipeli  
 dan - sija (taso, ranking, dan)  
 dane - jyvä (luoti)  
@@ -1078,7 +1078,6 @@ ezmurude - smaragdi
 ## F  
 
 fa - tehdä (toimia)  
-fa acar - säilöä  
 fa alo rai - olla eri mieltä  
 fa an galte - poistaa virheitä (debugata)  
 fa an zai - poistaa (hävittää)  
@@ -1157,7 +1156,6 @@ fa ratibu - järjestää (järjestellä)
 fa re - toistaa  
 fa redi - tehdä valmiiksi  
 fa reporte - raportoida (selostaa)  
-fa reside - kuitata  
 fa retro - palauttaa  
 fa rezerve - varata (tehdä varaus)  
 fa rolo - kääriä  
@@ -1311,6 +1309,7 @@ flerovium - flerovium
 • reflexe - heijastaa (taittaa takaisin)  
 • reflexer - heijastin  
 • reflexe sonde - kaiku  
+flexive baxe - taivuttava kieli (fleksiivinen kieli)  
 flur - fluori  
 fluride - fluoridi  
 fobia - kammo (fobia)  
@@ -1403,9 +1402,11 @@ fute bano - jalusta (teline)
 fute bol - jalkapallo  
 fute marke - jalanjälki  
 fute xaka - jalka (alaraaja)  
-fuzi - sulaa  
-fuzi liga - fuusio (yhteensulautuminen)  
-fuzi petra - laava  
+fuze - sulaa  
+• konfuze - sulaa yhteen (fuusioitua)  
+fuzion - fuusio (yhteensulautuminen)  
+fuzive baxe - fleksiivinen kieli  
+fuze petre - laava  
 
 ## G  
 
@@ -1543,36 +1544,30 @@ ging gola - pituuspiiri
 ging gradu - pituusaste  
 ging lin - loimi  
 gingam - kumkvatti  
-gio - opettaa  
-gio ja - opettaja  
 giota - pisara (tippa)  
 gitar - kitara  
-giuka - jade  
 glas - lasi  
 glasife - lasittaa  
+glasure - lasite (emali)  
 glis - liukua (luistaa)  
-glu - liima  
-glu bande - laastari  
-glu di - tahmainen (liimamainen)  
 glu grafi - tarra  
-glu poto - savi  
 glukerol - glyseroli  
 glukin - glysiini  
 glukogen - glykogeeni  
 glukos - glukoosi (rypälesokeri)  
-glutize - liimata  
+glute - liima  
+glute bande - laastari  
 gluten - gluteeni  
+glutike - tahmainen (liimamainen)  
+glutive baxe - agglutinoiva kieli  
+glutize - liimata  
 gogia - maa (valtio)  
 gogia jen - kansalainen (valtion asukas)  
 gol - maali (pelissä)  
-gole - saavuttaa  
-gola - piiri (ympyrä)  
-gola di - pyöreä  
-gola seku - mukulakivi  
 golem - golem  
 gomu - kumi  
-gona - kulma (nurkka)  
-gona metri gi - kulmamitta (goniometri)  
+gone - kulma (nurkka)  
+gonometrer - kulmamitta (goniometri)  
 gorila - gorilla  
 goro - sika (possu)  
 goro karne - sianliha  
@@ -2471,10 +2466,9 @@ lider - johtaja (pomo)
 Lietuva - Liettua  
 lietuva baxe - liettualainen  
 lifafe - kääriä (panna kääröön)  
-lifafa - kääre (kuori)  
-lige - liittää  
-liga - liitto (liittouma, liiga)  
-liga di sanduku - liitonarkki  
+lifafe - kääre (kuori)  
+lige - liittää (liitto, liittouma, liiga)  
+lige su sanduke - liitonarkki  
 Lihtenstain - Liechtenstein  
 lila - syreeni  
 lila rang - violetti (liila)  
@@ -2506,6 +2500,7 @@ litre - litra
 livermorium - livermorium  
 lixu - orava  
 lize - purkaa (purku, hajotus)  
+lizive baxe - analyyttinen kieli  
 loba - retikka (retiisi)  
 loge - kertoa (selittää)  
 logia - kertomus (selitys)  
@@ -2731,6 +2726,7 @@ metil - metyyli
 meta - myöhempi (jälkeinen)  
 metal - metalli  
 metal lin - vaijeri (metallilanka)  
+metal mixure - metalliseos  
 metal saner - seppä  
 metri - mitta (koko, määrä)  
 • parametri - parametri (argumentti)  
@@ -2806,7 +2802,8 @@ mitike - keksitty (sepitteellinen)
 mite vide - harhanäky (näköharha)  
 mitre - metri  
 mixe - sekoittaa  
-mixe gi - sekoitin  
+mixer - sekoitin  
+mixur - seos  
 mode - laatu (tila, moodi, tyyppi)  
 model - malli  
 mode lexe - adverbi  
@@ -2906,8 +2903,6 @@ nabija - profeetta (airut, viestintuoja)
 nadir - harvinainen  
 nadir mar - harvoin  
 nafas - hengitys (henkäys)  
-nafte - öljy  
-nafte fonte - öljylähde  
 nagre - kaupunki  
 nagre gogia - kaupunkivaltio  
 nagria - urbaani valtio  
@@ -3532,6 +3527,7 @@ renium - renium
 rentegenium - roentgenium  
 reporte - raportti (selostus, selonteko)  
 reseta - resepti (ohje)  
+reside - kuitata  
 reside - kuitti (kuittaus)  
 restoran - ravintola  
 retro dau - paluu  
@@ -3541,12 +3537,12 @@ rezerve - varaus (ennakkovaraus)
 rezin - pihka (hartsi)  
 ri - taas (uudestaan)  
 rike - rikas  
-rim - säe (riimi)  
+rime - säe (riimi)  
 ring - rengas (kehä)  
 ringar - kehä (ottelualue)  
-risko - riski  
-risko di - riskialtis  
-riti - tapa (keino, menetelmä, menettely, metodi)  
+riske - riski  
+riskike - riskialtis  
+rite - tapa (keino, menetelmä, menettely, metodi)  
 ritim - rytmi  
 rivo - joki (virta)  
 robote - robotti  
@@ -3554,14 +3550,14 @@ rode - ruusu
 rodium - rodium  
 rode rang - vaaleanpunainen  
 roke - keinuttaa (keikuttaa)  
-roke musike - rokki (rock)  
 roke kursi - keinutuoli (kiikkutuoli)  
+roke muzike - rokki (rock)  
 rol - rooli (osa)  
 rom - rommi  
+Romania - Romania  
 Roma - Rooma  
 roman - roomalainen  
-Roman Imperia - Rooman valtakunta  
-Romania - Romania  
+Roma Imperia - Rooman valtakunta  
 romanse - lempi (romanssi, rakkaus)  
 • anromanse - aromanttinen  
 romanse di - romanttinen  
@@ -3586,15 +3582,19 @@ rul - käärö (kerä)
 rulete - ruletti  
 rul koli - keräkaali  
 Rundi - Burundi  
+rupe - ilmiasu (hahmo, ulkomuoto, ulkonäkö)  
 • dusrupike - ruma (pahannäköinen)  
-rupa - ilmiasu (hahmo, ulkomuoto, ulkonäkö)  
 Rusia - Venäjä  
 rusium - rutenium  
 rus krepe - blini  
 rus lingue - venäläinen  
 rute - polku (reitti, kurssi)  
-ruterfordium - rutherfordium  
+• derute - poiketa (harhautua)  
+• derutike - harhautunut  
 rutin - tapa (rutiini)  
+rutize - reitittää  
+rutizer - reititin  
+ruterfordium - rutherfordium  
 
 ## S  
 
@@ -3776,6 +3776,9 @@ singa - leijona
 Singapur - Singapore  
 sir - salainen  
 sir plan - juoni (salaliitto)  
+sirke - ympyrä (piiri)  
+sirkike - pyöreä  
+sirkus - sirkus  
 siro - nolla (ei yhtään)  
 siro jen - ei kukaan  
 siro sata - ei koskaan (ei kertaakaan)  
@@ -4122,6 +4125,7 @@ tundra - tundra
 tundra xan - tunturi  
 tunel - tunneli  
 tunel tren - metrojuna (maanalainen)  
+tung - tungpuu  
 Tunis - Tunisia  
 tupi - lakki (hattu)  
 tur - reissu (retki)  
@@ -4437,6 +4441,8 @@ xule - koulutus
 xulaje - oppi (opetus)  
 xuler - oppilas  
 xule guru - opettaja  
+xulize - opettaa  
+xulizer - opettaja  
 xule kamar - luokkahuone  
 xulekan - koulu (opisto)  
 xule xefe - rehtori  
@@ -4493,6 +4499,7 @@ yoga - jooga
 yogaiste - joogi  
 yogur - jogurtti  
 Yohan festa - juhannus (kristillinen juhla)  
+yoke - jade  
 Yoruba - joruban kansa ja kieli  
 you - lapsi (alaikäinen, epäkypsä, kasvava)  
 you jen - lapsi (alaikäinen)  
@@ -4519,7 +4526,6 @@ zayife - manata esiin
 zaita - läsnäolo  
 zai zaman - tämä hetki (nyt)  
 zai zaman di - nykyinen (tämänhetkinen)  
-zaitun - oliivi  
 zalime - alistaa  
 zalimer - tyranni  
 zalimia - tyrannia  
@@ -4539,6 +4545,10 @@ zarduxtisme - zarathustralaisuus
 zarduxtiste - zarathustralainen  
 zebra - seepra  
 zelo - into (kiihko)  
+zete - öljy  
+zete fonte - öljylähde  
+zetun - oliivi  
+zetun zete - oliiviöljy  
 zeze - kaksisiipinen  
 zi - kirjoitusmerkki  
 zi seri - aakkoset (ABC)  

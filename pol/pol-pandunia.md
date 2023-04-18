@@ -162,7 +162,6 @@
  - dai dara  
  - dai siti  
  - dai zi  
- - dalil dokumen  
  - damen su  
  - damimen  
  - dan  
@@ -282,6 +281,7 @@
  - fizike gi  
  - flam  
  - flexe  
+ - flexive baxe  
  - fobife  
  - fobike  
  - fobive  
@@ -309,6 +309,7 @@
  - fun  
  - funtion  
  - fute marke  
+ - fuzive baxe  
  - gala  
  - gam cin  
  - gam ma  
@@ -344,16 +345,13 @@
  - geoterme  
  - Germania  
  - ging lin  
- - gio  
- - gio ja  
- - glu bande  
  - glu grafi  
  - glukerol  
  - glukin  
  - glukogen  
  - glukos  
- - gola longta  
- - gole  
+ - glute bande  
+ - glutive baxe  
  - grafe cule  
  - grafe fineta  
  - grafe karte  
@@ -556,7 +554,7 @@
  - lexofilia  
  - lexograme  
  - lexunife  
- - liga di sanduku  
+ - lige su sanduke  
  - limon jus  
  - limon orange  
  - lipi cupu  
@@ -564,6 +562,7 @@
  - lipofobia  
  - lipolize  
  - lize  
+ - lizive baxe  
  - loge  
  - logia  
  - loke kode  
@@ -619,6 +618,7 @@
  - mente  
  - meta  
  - metal lin  
+ - metal mixure  
  - metal tul  
  - metan  
  - metanol  
@@ -642,6 +642,7 @@
  - mitaje  
  - mite  
  - mitike  
+ - mixur  
  - module  
  - moli hua cai  
  - mone  
@@ -658,7 +659,6 @@
  - muzike gense  
  - na xiti  
  - nadir  
- - nafte fonte  
  - nagre gogia  
  - nagria  
  - nahunate  
@@ -814,6 +814,8 @@
  - roke kursi  
  - roman  
  - rul koli  
+ - rutize  
+ - rutizer  
  - sabe  
  - sable burge  
  - safar ceke  
@@ -852,6 +854,8 @@
  - server  
  - server nam  
  - silke larva  
+ - sirke metre  
+ - sirkus  
  - sis  
  - sis doh  
  - sis son  
@@ -926,6 +930,7 @@
  - tumimen  
  - tuna  
  - tundra xan  
+ - tung  
  - tur  
  - turbojeter  
  - turfa  
@@ -1000,6 +1005,8 @@
  - xixa pipe  
  - xule  
  - xule kamar  
+ - xulize  
+ - xulizer  
  - Yahve  
  - yam liste  
  - yama  
@@ -1028,6 +1035,8 @@
  - zarduxtan mager  
  - zelo  
  - zeta  
+ - zete fonte  
+ - zetun zete  
  - zeze  
  - zi  
  - zi forma  
@@ -1507,7 +1516,7 @@ brom - brom
 broń - vuki  
 broń nuklearna - kerne vuki  
 brudny - ansafe  
-bruk - gola seku  
+bruk - bolite  
 brunatnica - kafe alga  
 Brunei Darussalam - Brunei  
 brzmieć, wydać dźwięk, wydawać dźwięk - fa soni  
@@ -1765,7 +1774,6 @@ doskonalić (optymalizować, ulepszać) - fa pul hau
 dostać, dostawać, otrzymać, otrzymywać, wziąć, brać - na  
 dotyczyć - tocu  
 dowieść, dowodzić; zeznać, zeznawać - fa dalil  
-dowód; zeznanie - dalil  
 dowódca, kierownik - lider  
 dozwolony (dopuszczalny, zezwolony, halal) - halal  
 dramat - drame  
@@ -1957,7 +1965,7 @@ fu, fuj - fui
 funkcja, stanowisko - funte  
 funkcjonariusz, urzędnik - guaner  
 funt (£) - paunde  
-fuzja (amalgamowanie, łączenie) - fuzi liga  
+fuzja (amalgamowanie, łączenie) - fuzion  
 fuzja jądrowa (synteza jądrowa, reakcja termojądrowa) - kerne unta  
 G - G  
 Gabon - Gabon  
@@ -1992,10 +2000,9 @@ Ghana - Gana
 ghul - gule  
 Gibraltar - Gibraltar  
 gitara - gitar  
-glazura (emalia) - glas daka  
+glazura (emalia) - glasure  
 gleba bielicoziemna - hui darte  
 glin (aluminium) - alumin  
-glina - glu poto  
 globalny - dunial  
 globalny (światowy) - pandunial  
 glutaminian sodu - vijin  
@@ -2004,7 +2011,7 @@ gniazdo (ul, nora, jama, barłóg, legowisko) - nide
 gniew, furia - furita  
 godzina - sah  
 golem - golem  
-goniometr (kątomierz) - gona metri gi  
+goniometr (kątomierz) - gonometrer  
 gorbusza - rode salmon  
 goryl - gorila  
 goryl wschodni - dong gorila  
@@ -2177,7 +2184,7 @@ imperialista - imperialiste
 imperializm - imperialisme  
 imperium - imperia  
 Imperium Osmańskie - Osman Imperi Dexa  
-Imperium Rzymskie - Roman Imperia  
+Imperium Rzymskie - Roma Imperia  
 implodować - be in bum  
 implozja - in bum  
 importować (zaimportować) - in mise  
@@ -2374,7 +2381,7 @@ kinowy - motografike
 kiosk - kioske  
 Kirgistan - Kirgize  
 Kiribati - Kiribati  
-kisić (marynować) - fa acar  
+kisić (marynować) - acarize  
 kiszony (marynowany) - acar di  
 kiur - kurium  
 kiwi - kivi  
@@ -2386,7 +2393,7 @@ klatka piersiowa - sine kasa
 klaun - payace  
 klawiatura - buton bano  
 klawisz, przycisk, przełącznik, guzik - buton  
-klej - glu  
+klej - glute  
 klejnot - bauite  
 klescz (roztocze) - akare  
 klimat - klima  
@@ -2409,7 +2416,7 @@ kodować - inkode
 kojec - bebe katil  
 koka - koka  
 kokos - yezi  
-koktajl - mixe alkol  
+koktajl - alkol mixur  
 kola (coca-cola) - Koka Kola  
 kola, napój gazowany - kola jus  
 kolacja - xam yam  
@@ -2490,7 +2497,7 @@ kowadło - metal bede
 kowal - metal saner  
 koza - behe  
 koło - rote  
-koło, okrąg - gola  
+koło (okrąg) - sirke  
 kołyska (kolebka) - lala bede  
 koń - uma  
 kościół - eglisa  
@@ -2572,7 +2579,7 @@ kwiat - hua
 kwiecień - mes des du  
 kąpać się - fa banya  
 kąpiel - banya  
-kąt - gona  
+kąt - gone  
 kąt prosty - orto gona  
 kłuć (żądlić) - fa pin  
 kłódka - pende sor  
@@ -2596,7 +2603,7 @@ latać (fruwać) - dare
 latać, lecieć - fa fei  
 lato - garma mosim  
 laudacja - hauloge  
-lawa - fuzi petra  
+lawa - fuze petre  
 lazania - lazanya  
 lejek - dare tube  
 lekcja - letur  
@@ -2604,7 +2611,7 @@ lekcja - xulaje
 lekki - lege veze di  
 leksem - lexeme  
 lepić (kleić) - glutize  
-lepki (kleisty) - glu di  
+lepki (kleisty) - glutike  
 Lesotho - Soto  
 lew - singa  
 lewicowiec (lewak) - leuiste  
@@ -2620,7 +2627,7 @@ Liberia - Liberia
 Libia - Libia  
 liczi - lici  
 Liechtenstein - Lihtenstain  
-liga (stowarzyszenie) - liga  
+liga (stowarzyszenie) - lige  
 lilak - lila  
 lilia - susan  
 lilia wodna, nenufar - nenufar  
@@ -2782,7 +2789,7 @@ mesjasz - mesi
 mesjański - mesi di  
 metal - metal  
 metal ciężki - bari metal  
-metoda, sposób - riti  
+metoda, sposób - rite  
 metr - mitre  
 metro - tunel tren  
 miast, miasteczko - siti  
@@ -2806,7 +2813,7 @@ mikrobiologia - mikrobiologia
 Mikronezja - Mikronesia  
 mikroorganizm  (mikrob) - mikrobie  
 mikroskop - mikroskope  
-mikser, blender, robot kuchenny - mixe gi  
+mikser, blender, robot kuchenny - mixer  
 miksować, mieszać - mixe  
 mili- - mili  
 miligram - mili gram  
@@ -3150,9 +3157,9 @@ okej, spoko, akceptowalny - okeibil
 okno - janela  
 oko - oke  
 około; przybliżony - yaki  
-okrągły - gola di  
-olej - nafte  
-oliwka - zaitun  
+okrągły - sirkike  
+olej - zete  
+oliwka - zetun  
 Oman - Oman  
 omszały (mszysty) - mos di  
 on, ona, ono - da  
@@ -3208,7 +3215,7 @@ otworzyć się, otwierać się - be kai
 otworzyć, otwierać - fa kai  
 owad - dudu  
 owca - meme  
-owinięcie (koperta, okładka) - lifafa  
+owinięcie (koperta, okładka) - lifafe  
 owoc - frute  
 owoc kiwi - kivi frute  
 ołtarz - puja meza  
@@ -3749,7 +3756,7 @@ rezerwować (zarezerwować) - fa rezerve
 rezult, wynik - asar  
 robak - verme  
 robot - robote  
-rock - roke musike  
+rock - roke muzike  
 rocznica - nen festa  
 rod - rodium  
 rodak, ziomek, krajan - sam gogia jen  
@@ -3812,13 +3819,13 @@ Rwanda - Ruanda
 ryba - pexe  
 ryba rozdymkowata - balon pexe  
 rybak - pexe saider  
-rym (wers) - rim  
+rym (wers) - rime  
 rynek, bazar - bazar  
 rysunek, obraz - desen  
 rytm, bit - ritim  
 rytuał, ceremonia, ryt - puja rite  
-ryzyko - risko  
-ryzykowny - risko di  
+ryzyko - riske  
+ryzykowny - riskike  
 ryś - linxe  
 ryś rudy - rubi linse  
 ryż - varis  
@@ -4052,7 +4059,6 @@ stopień, poziom, ranga, klasa - gradu
 stopniowy - gradu di  
 storczyk (orchidea) - orkide  
 stosować (zastosować; zastosowanie, aplikacja) - aplike  
-stowarzyszać się (zrzeszać się) - lige  
 strach, fobia - fobia  
 stracić (utracić, tracić, zgubuć, gubić) - xiti  
 strażnik więzienny - jeler  
@@ -4276,8 +4282,8 @@ ton, dźwięk, nuta, tonacja - ton
 tona - mega gram  
 Tonga - Tonga  
 topinambur - masa mula sol hua  
-topić (upłynnić, upłynniać) - fuzi saf  
-topnieć (upłynniać się) - fuzi  
+topić (upłynnić, upłynniać) - fuzesafe  
+topnieć (upłynniać się) - fuze  
 tor - torium  
 torba, wór, worek, torba, sakwa - sake  
 tost - xava ban  
@@ -4415,7 +4421,7 @@ uważać (sądzić) - fa rai
 uwięzić, więzić, pozbawić wolności - jele  
 uwolnić, uwalniać - huru di  
 Uzbekistan - Uzbeki  
-uznać (przynać, przyjąć do wiadomości) - fa reside  
+uznać (przynać, przyjąć do wiadomości) - reside  
 ułożyć w trabelę - table yo data  
 uświadomienie, świadomość; oświecenie, bodhi - budion  
 użyteczny, pomocny, przydatny, pożyteczny, korzystny - faidike  
@@ -4602,7 +4608,7 @@ wydarzenie, przypadek, sytuacja - kasu
 wydoić, doić - tire yo milke  
 wydra - lotra  
 wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać - kurva  
-wygląd - rupa  
+wygląd - rupe  
 wyglądać (wydawać się) - be rupa  
 wyjść (wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać; wyjśćie, opuszczenie) - cute  
 wyklarować (rozjaśnić) - klarife  
@@ -4766,8 +4772,8 @@ zbroja - defe kaska
 zbudować, budować, konstruować - bine  
 zbyt - max ka bas  
 zbyt mało - min ka bas  
-zbłąkany (dewiacyjny, wykolejony) - rute galte di  
-zbłąkać się (wykoleić się) - be rute galte  
+zbłąkany (dewiacyjny, wykolejony) - derutike  
+zbłąkać się (wykoleić się) - derute  
 zdanie (fraza) - jumla  
 zdeaktywowany (wyłączony, zatrzymany) - anative  
 zdjęcie (fotografia) - fotografe  
@@ -4881,7 +4887,7 @@ zły, zrujnowany, zepsuty - harabe
 łza - oke sui  
 łódź, statek - nave  
 łóżko - katil  
-łączyć (złączyć) - be fuzi liga  
+łączyć (złączyć) - konfuze  
 łączyć, wiązać, złączyć - fa linke  
 łąka - cau stan  
 Śiwa - Xiva  
@@ -4916,7 +4922,7 @@ zły, zrujnowany, zepsuty - harabe
 źródło, początek, pochodzenie - asle  
 źródłowy, początkowy, oryginalny - aslike  
 żaba - krokro  
-żad - giuka  
+żad - yoke  
 żal, smutek - duku  
 żart - joke  
 żartowniś, dowcipniś - joker  

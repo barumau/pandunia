@@ -27,6 +27,7 @@ Abazia - abjazia
 abies - abeto  
 acar di - encurtido  
 acar hiyar - pepinillo  
+acarize - encurtir  
 aci - estornudar (achís)  
 acinium - actinio  
 ada - costumbre (hábito)  
@@ -89,6 +90,7 @@ alkin - alquino
 alkol - alcohol  
 alkolike - alcohólico  
 alkasus - regaliz (alcazuz, orozuz)  
+alkol mixur - cóctel  
 almari - armario  
 alo fen di - discreto  
 alo romanse di - heterorromántico  
@@ -388,7 +390,6 @@ be estasi - pararse (detenerse)
 be fatige - cansarse (fatigar)  
 be fen - partir (dividirse)  
 be fobi - temer  
-be fuzi liga - fusionar (fundir)  
 be gamo - sentir  
 be gas - gasificarse  
 be gau - subir (alzar)  
@@ -414,7 +415,6 @@ be reste - quedarse
 be retro - volver  
 be rota - girar (rotar)  
 be rupa - parecer  
-be rute galte - apartarse (desviarse)  
 be sabe vol - preguntarse  
 be sam rupa - parecerse a  
 be sel - deber (se recomienda)  
@@ -498,7 +498,8 @@ boikote - boicot
 boing - rebotar  
 boka - boca  
 boka cati - paladar  
-bol - bola  
+bol - bola (esfera)  
+bolite - adoquín  
 bolon - globo  
 boli - hervir (cocer)  
 Bolivia - Bolivia  
@@ -678,8 +679,6 @@ dai zi - mayúscula
 dake - cubrir (tapar)  
 • andake - destapar  
 dake - tapa (funda, cubierta)  
-dalil - prueba  
-dalil dokumen - certificado  
 dama geme - damas  
 dane - partícula (grano, bala)  
 dana.cau - mijo  
@@ -942,7 +941,6 @@ ezmurude - esmeralda
 ## F  
 
 fa - hacer  
-fa acar - encurtir  
 fa alo rai - disentir (no estar de acuerdo)  
 fa amen - confirmar  
 fa an galte - depurar  
@@ -1022,7 +1020,6 @@ fa ratibu - ordenar (arreglar)
 fa re - repetir  
 fa redi - preparar (hacer listo)  
 fa reporte - reportar  
-fa reside - reconocer (admitir)  
 fa retro - retornar  
 fa rezerve - reservar  
 fa rolo - liar (enrollar)  
@@ -1229,9 +1226,10 @@ fute - pie (pata)
 fute bano - andamiaje  
 fute bol - fútbol  
 fute marke - pisada (huella)  
-fuzi - derretirse  
-fuzi liga - fusión  
-fuzi petra - lava  
+fuze - derretirse  
+• konfuze - fusionar (fundir)  
+fuzion - fusión  
+fuze petre - lava  
 
 ## G  
 
@@ -1360,36 +1358,27 @@ ginge - gengibre
 ging gola - meridiano (línea de longitud)  
 ging gradu - longitud  
 gingam - kumquat (quinoto)  
-gio - enseñar (instruir, doctrina)  
-gio ja - docente (enseñante, profesor, maestro)  
 giota - gota  
 gitar - guitarra  
-giuka - jade  
 glas - vidrio (cristal)  
-glas daka - vidriado (esmalte)  
 glasife - vidriar (glasear)  
+glasure - vidriado (esmalte)  
 glis - deslizar  
-glu - pegamento (pega, goma)  
-glu bande - curita (apósito)  
-glu di - pegajoso (adhesivo)  
 glu grafi - adhesivo  
-glu poto - arcilla (barro)  
 glukin - glicina  
 glukogen - glucógeno  
 glukos - glucosa  
-glutize - pegar  
+glute - pegamento (pega, goma)  
+glute bande - curita (apósito)  
 gluten - gluten  
+glutike - pegajoso (adhesivo)  
+glutize - pegar  
 gogia - país (nación, estado, terra)  
 gogia jen - ciudadano  
 gol - meta (gol, destinación)  
-gole - lograr (llegar)  
-gola - círculo  
-gola di - redondo (circular)  
-gola longta - perímetro (circunferencia)  
-gola seku - adoquín  
 gomu - goma (caucho, hule, borrador)  
-gona - esquina (rincón, ángulo)  
-gona metri gi - goniómetro (medidor de ángulos)  
+gone - esquina (rincón, ángulo)  
+gonometrer - goniómetro (medidor de ángulos)  
 gorila - gorila  
 goro - cerdo (puerco)  
 goro karne - carne de cerdo  
@@ -2248,10 +2237,9 @@ lide line - correa (rein)
 Lietuva - Lituania  
 lietuva baxe - lituano  
 lifafe - envolver  
-lifafa - envoltura  
-lige - asociar  
-liga - liga (alianza, federación)  
-liga di sanduku - arca de la Alianza  
+lifafe - envoltura  
+lige - liga (alianza, federación)  
+lige su sanduke - arca de la Alianza  
 Lihtenstain - Liechtenstein  
 lila - lila  
 lila rang - lila (de color lila)  
@@ -2503,6 +2491,7 @@ metil - metilo
 metal - metal  
 metal bede - yunque  
 metal lin - alambre (hilo)  
+metal mixure - aleación  
 metal saner - herrero  
 metal tul - ferretería  
 metri - medir (medida)  
@@ -2578,8 +2567,8 @@ misrian - egipcio
 mite vide - ilusión  
 mitre - metro  
 mixe - mezclar  
-mixe alkol - cóctel  
-mixe gi - batidora (licuadora, mezcladora)  
+mixer - batidora (licuadora, mezcladora)  
+mixur - mezcla  
 mode - modo (tipo)  
 model - modelar  
 mode lexe - adverbo  
@@ -2672,8 +2661,6 @@ nabija - profeta (heraldo)
 nadir - raro  
 nadir mar - raramente  
 nafas - respiración  
-nafte - aceite (óleo)  
-nafte fonte - pozo petrolífero  
 nagre - pueblo  
 nagral - urbano  
 nagre gogia - ciudad estado  
@@ -3285,6 +3272,7 @@ renium - renio
 rentegenium - roentgenio  
 reporte - informe (reporte, noticia)  
 reseta - instrucciones (receta)  
+reside - reconocer (admitir)  
 reside - reconocimiento (recibo)  
 restoran - restaurante  
 retro dau - vuelta  
@@ -3298,12 +3286,12 @@ rezin - resina
 ri - otra vez (de nuevo)  
 rikarga - recargar  
 rike - rico  
-rim - rima  
+rime - rima  
 ring - anillo  
 ringar - ring  
-risko - riesgo  
-risko di - arriesgado  
-riti - procedimiento (rito)  
+riske - riesgo  
+riskike - arriesgado  
+rite - procedimiento (rito)  
 ritim - ritmo  
 rivo - rio  
 rivo kinar - ribera  
@@ -3312,14 +3300,14 @@ rode - rosa
 rodium - rodio  
 rode rang - rosa  
 rode salmon - salmón rosado  
-roke musike - rock  
 roke kursi - mecedora  
+roke muzike - rock  
 rol - papel  
 rom - ron  
-Roma - Roma  
-Roman Imperia - Imperio romano  
-roma kamil - manzanilla romana (camomila común)  
 Romania - Rumania  
+Roma - Roma  
+Roma Imperia - Imperio romano  
+roma kamil - manzanilla romana (camomila común)  
 romanse - romance  
 • anromanse - arromántico  
 romanse di - romántico  
@@ -3348,14 +3336,16 @@ ruke sake - mochila
 rul - rollo  
 rulete - ruleta  
 Rundi - Burundi  
+rupe - aspecto  
 • dusrupike - feo  
-rupa - aspecto  
 Rusia - Rusia  
 rusium - rutenio  
 rus lingue - idioma ruso  
 rute - ruta  
-ruterfordium - rutherfordio  
+• derute - apartarse (desviarse)  
 rutin - rutina (hábito)  
+rutizer - ruteador (rúter)  
+ruterfordium - rutherfordio  
 
 ## S  
 
@@ -3544,6 +3534,10 @@ sir - secreto
 sir move - colarse  
 sir plan - complot (conspiración)  
 sirta - sigilo  
+sirke - círculo  
+sirkike - redondo (circular)  
+sirke metre - perímetro (circunferencia)  
+sirkus - circo  
 siro - cero (ninguno)  
 siro jen - ningunos  
 siro sata - nunca  
@@ -4142,6 +4136,8 @@ xule - educación
 xulaje - lección  
 xuler - estudiante  
 xule guru - maestro (profesor, docente)  
+xulize - enseñar (instruir, doctrina)  
+xulizer - docente (enseñante, profesor, maestro)  
 xulekan - escuela (colegio, institución)  
 xule xefe - director de colegio  
 xuru - comienzo (inicio, principio)  
@@ -4191,6 +4187,7 @@ yoga - yoga
 yogaiste - yogui  
 yogur - yogur  
 Yohan festa - día de San Juan  
+yoke - jade  
 you - infantil (inmaduro)  
 you moke - pimpollo  
 you nan - niño  
@@ -4212,7 +4209,6 @@ zayife - generar (añadir, realizar)
 zaita - presencia (existencia)  
 zai zaman - presente (actualidad)  
 zai zaman di - actual  
-zaitun - aceituna  
 zalimer - tirano (déspota)  
 zalimia - crueldad (tiranía)  
 zalimive - tiránico (mezquino, cruel)  
@@ -4230,6 +4226,10 @@ zarduxtan mager - mago
 zarduxtisme - zoroastrismo  
 zarduxtiste - zoroastriano  
 zebra - cebra  
+zete - aceite (óleo)  
+zete fonte - pozo petrolífero  
+zetun - aceituna  
+zetun zete - aceite de oliva  
 zi - carácter  
 zi forma - fuenta  
 zi seri - alfabeto  

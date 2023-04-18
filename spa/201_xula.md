@@ -255,7 +255,7 @@ Pidiendo
 **mi sal da. sal reste!**
 – Yo la saludo. ¡Adiós!  
 <big>☺</big>
-**sal cuti!**
+**sal cute!**
 – ¡Chao!
 
 
@@ -585,7 +585,7 @@ Intenta traducir las oraciones de Español a Pandunia.
 1. Él no limpia la habitación.
 2. Una copa no está vacia.
 3. Dos perros no comen sopa.
-4. Ella no tiene tu perros tu gatos.
+4. Ella no tiene ni perro ni gato.
 5. El jefe bebe té pero café no.
 6. Mamá no tiene perros sino dos gatos. 
 

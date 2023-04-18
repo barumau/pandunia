@@ -32,7 +32,7 @@ actuel (courant) - zai zaman di
 acéphale (sans tête) - kapa hin  
 adapter (ajuster) - hape  
 addition (facture) - fatura  
-adhésif (collant) - glu di  
+adhésif (collant) - glutike  
 adjectif - sifa loge  
 administrateur - politike  
 adresse - adres  
@@ -71,6 +71,7 @@ alien - alian
 alkyle - alkil  
 aller - ga  
 aller-retour - retro tikete  
+alliage - metal mixure  
 alligator - korte krokodil  
 allophone - alofone  
 allô - halo  
@@ -146,7 +147,7 @@ arboretum, pépinière - moka jong parke
 arbre - moka  
 arc - arke  
 arc-en-ciel - rang arka  
-Arche d'Alliance - liga di sanduku  
+Arche d'Alliance - lige su sanduke  
 arche de Noé - Noe di nave  
 archer - arker  
 architecte - bine planer  
@@ -156,7 +157,6 @@ arctique - Artika
 argent - argente  
 argent - pesa  
 Argentine - Argentina  
-argile - glu poto  
 argon - argon  
 arguer - fa argu  
 argument - argu  
@@ -242,7 +242,7 @@ balai - jaru
 balance (poids) - veze metri gi  
 balau (meranti) - meranti  
 balcon - veranda  
-balle (boule) - bol  
+balle (boule, sphère) - bol  
 ballon - bolon  
 bambou - bambu  
 banane - banana  
@@ -437,6 +437,7 @@ Centaurée bleuet - nil kentaur hua
 Centaurée du solstice - sol kentaur hua  
 centenaire - sento nen di  
 centre - jong  
+cercle (rond) - sirke  
 cerise - ceri  
 cerveau (cervelle) - nau  
 chacal - xakal  
@@ -506,6 +507,7 @@ cigarette - sigar
 cime (pic, sommet) - xan pike  
 cimetière - gabrestan  
 cinq (5) - lima  
+cirque - sirkus  
 cirse commun - pena kardon  
 citron - limon  
 citronnade - limon jus  
@@ -736,6 +738,7 @@ désespéré - anasike
 détenir (arrêter) - detene  
 dévanagari - deonagre grame  
 développement - gradu mute  
+dévier - derute  
 dévoiler (révéler) - devel  
 
 ## E  
@@ -764,7 +767,7 @@ encre - kalam sui
 enfant - baca  
 ennemi - dus jen  
 enregistrement - loga  
-enseigner - gio  
+enseigner - xulize  
 ensommeillé (somnolent) - sona tabi  
 ensuite (après, plus tard, ir a, en el futuro) - a pos  
 entonnoir - dare tube  
@@ -857,7 +860,7 @@ foie - hepate
 foin - gan cau  
 fois - mar  
 fonction - funtion  
-fondu - fuzi saf  
+fondu - fuzesafe  
 fonio blanc - fonyo  
 football - fute bol  
 force - balata  
@@ -890,6 +893,7 @@ frêne - frasen
 fumée - dum  
 fundic - panduke  
 furet - furete  
+fusionner (fuser) - konfuze  
 fèces - feke  
 fée - pari  
 Félicitations ! - barke  
@@ -1007,7 +1011,8 @@ houe - copu
 houka (narguilé, chicha) - sui pipe  
 houka (narguilé, chicha) - xixa pipe  
 hourra - hura  
-huile (pétrole) - nafte  
+huile (pétrole) - zete  
+huile d'olive - zetun zete  
 huit (8) - bati  
 humain - humanike  
 humanisme - humanisme  
@@ -1090,7 +1095,7 @@ Islam - islamisme
 
 ## J  
 
-jade - giuka  
+jade - yoke  
 Japon - Nipon  
 jarre (carafe, cruche) - jara  
 jasmin - moli  
@@ -1160,7 +1165,7 @@ lapis-lazuli - lazur petra
 laque - lake  
 lasagne - lazanya  
 latéral - late di  
-lave - fuzi petra  
+lave - fuze petre  
 lawrencium - laurencium  
 le (la) - la  
 lecteur - leter  
@@ -1185,7 +1190,7 @@ lieu de naissance - nateloke
 ligne (fil) - lin  
 ligne de commande (console, terminal, invite de commande) - amir lin  
 ligne téléphonique - telefon lin  
-ligue (alliance) - liga  
+ligue (alliance) - lige  
 lilas - lila  
 lime (citron vert) - kaguji limon  
 lin - yama  
@@ -1296,7 +1301,7 @@ Mauritanie - Muritania
 maximum - maximaje  
 maître - master  
 meitnérium - meitnerium  
-melt - fuzi  
+melt - fuze  
 membrane - mogu  
 mendélévium - mendelevium  
 menthe - minte  
@@ -1391,6 +1396,7 @@ médicament (remède) - dava xe
 méduse - bahai gele  
 méfait (péché) - dusate  
 méfait (péché) - duskar  
+mélange (mixture) - mixur  
 mémoire - memo  
 méninge - meninge  
 méronyme - meronam  
@@ -1488,6 +1494,7 @@ oganesson - oganeson
 oie - ganse  
 oignon - piaze  
 oiseau - paci  
+olive - zetun  
 ombrelle (parasol) - sol cati  
 on - jen (jen men)  
 oncille - bagre oselote  
@@ -1551,7 +1558,7 @@ pandémie - pandemike pate
 paneuropéen - paneuropan  
 panier (panier de basketball) - baske  
 panneau de signalisation - dau bano  
-pansement (sparadrap) - glu bande  
+pansement (sparadrap) - glute bande  
 pantalon - pante  
 pantomime - panmime  
 pantoufle (babouche) - babuce  
@@ -1590,7 +1597,7 @@ pause - pauze
 pavillon - kioske  
 pavot d'Orient - gui papi  
 pavot somnifère - sona papi  
-pavé - gola seku  
+pavé - bolite  
 pays des fées (paradis) - paristan  
 peindre - pente  
 peinture - pente  
@@ -1731,7 +1738,6 @@ presser - prese
 pression - prese  
 pression atmosphérique - air prese  
 pressoir - preser  
-preuve - dalil  
 principe - bazisme  
 prison (geôle) - jelekan  
 privatiser - privatize  
@@ -1741,7 +1747,7 @@ problème - problem
 problématique - problem di  
 proche - proxe  
 procréer (engendrer) - progene  
-procédé (rite) - riti  
+procédé (rite) - rite  
 professeur (enseignant) - xule guru  
 professeur - profesor  
 profession (métier) - pei kar  
@@ -1781,7 +1787,7 @@ prêter - jeka don
 psychologie - ruhu logia  
 psyché - ruhu  
 pudding - puding  
-puits de pétrole - nafte fonte  
+puits de pétrole - zete fonte  
 punicion - fatu  
 punir - fa fatu  
 pyramide - piram  
@@ -1849,7 +1855,7 @@ rhume - zukam
 rhythme - ritim  
 rhénium - renium  
 riche - rike  
-rime - rim  
+rime - rime  
 ring (manège) - ringar  
 rire - haha  
 rive - rivo kinar  
@@ -1861,7 +1867,7 @@ robe - juba
 robot - robote  
 roche (pierre) - petra  
 rocher - dai seku  
-rock - roke musike  
+rock - roke muzike  
 roentgenium - rentegenium  
 roi - nan reger  
 roman - long kata  
@@ -1874,6 +1880,7 @@ roue - rote
 rouge - rubi  
 rouleau - rul  
 roulette - rulete  
+routeur - rutizer  
 royal - regal  
 royaume - regia  
 ruban (bande) - tepe  
@@ -2171,6 +2178,7 @@ tu - tu
 tubercule - masa mula  
 tuile - tegule  
 tulipe - tulpan  
+tung - tung  
 tungstène - volfram  
 tunique - kurta  
 Tunisie - Tunis  

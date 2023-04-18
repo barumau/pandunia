@@ -29,9 +29,8 @@ accessible (within reach) - acesebil
 accident (mishap) - xigu  
 accommodate - domize  
 account - hisabu loge  
-achieve (accomplish, arrive, reach) - gole  
 acid - suan mate  
-acknowledge - fa reside  
+acknowledge - reside  
 acorn - baluta frute  
 act (deed) - ate  
 act (play a role) - dramate  
@@ -41,7 +40,7 @@ active (working; activate, enable, turn on, trigger) - ative
 actor (actress) - dramater  
 addition (extra) - maxaje  
 address - adres  
-adhesive bandage (band-aid, sticking plaster) - glu bande  
+adhesive bandage (band-aid, sticking plaster) - glute bande  
 adjective - sifa loge  
 administer (govern) - fa politi  
 admiral - bahai amirer  
@@ -73,6 +72,7 @@ age - umur
 aged - umur di  
 agency - vakilia  
 agent (doer, actor) - ater  
+agglutinative language - glutive baxe  
 aggressive - agresevi  
 aggressive - agresive  
 aggressor - agreser  
@@ -114,6 +114,7 @@ alkyne - alkin
 alligator - korte krokodil  
 allophone - alofone  
 allow (permit) - fa halal  
+alloy - metal mixure  
 almond - badam  
 alone (lonely, isolated, solitary, single) - un zai di  
 alpaca - alpaka  
@@ -156,6 +157,7 @@ anal - anusal
 analgesia - algesia  
 analog clock - undurike horloger  
 analyse (analysis) - fen lize  
+analytic language - lizive baxe  
 anarchist - anarhiste  
 anarchy - anarhia  
 anchor - angar  
@@ -195,7 +197,7 @@ antonym - annam
 anus - anus  
 anvil - metal bede  
 appeal (drive to oneself) - apele  
-appear (look like; appearance, looks, figure, representation) - rupa  
+appear (look like; appearance, looks, figure, representation) - rupe  
 appear - be zai  
 apple - aple  
 applesauce - aple sos  
@@ -230,7 +232,7 @@ argument (rationale, grounds) - argu
 argument (thesis) - teze  
 Ariel - Ariel  
 arithmetics - hisabia  
-Ark of the Covenant - liga di sanduku  
+Ark of the Covenant - lige su sanduke  
 arm - hanu xaka  
 armed forces (army) - vuki ordu  
 Armenia - Haye  
@@ -262,7 +264,6 @@ ask (inquire) - fa sual
 ask (request, beg, plead; please) - cing  
 asparagus - asparge  
 aspect (viewpoint) - aspete  
-associate - lige  
 assume (presuppose) - pre si  
 Assur - Axur  
 assure (affirm, confirm) - fa amen  
@@ -346,7 +347,7 @@ bake - bake
 baker - baker  
 bakery (bakehouse) - bakeria  
 bald-headed - kapa kexa hin  
-ball - bol  
+ball (sphere, orb) - bol  
 balloon - bolon  
 bamboo - bambu  
 banana - banana  
@@ -739,7 +740,6 @@ ceramic - serami
 cerebral - nau di  
 Ceres (dwarf planet) - Ceres  
 cerium - ceresium  
-certificate - dalil dokumen  
 Chad - cade  
 chain - serser  
 chain letter - seri letre  
@@ -812,7 +812,8 @@ chutney - hinde sos
 cigarette (cigar) - sigar  
 cinematic - motografike  
 cinematography - motografia  
-circle (sphere, round object) - gola  
+circle - sirke  
+circus - sirkus  
 citizen - gogia jen  
 citrus fruit - limon orange  
 city (town) - siti  
@@ -826,7 +827,6 @@ classic (canon) - kanon
 classify (categorize) - klasife  
 classroom - xule kamar  
 claw (scratch) - nahunate  
-clay - glu poto  
 clean (pure) - safe  
 clean (purify) - safife  
 cleaner - safer  
@@ -859,10 +859,10 @@ club - klube
 coast (shore) - bahai kinar  
 coat - kote  
 cobalt - kobalte  
-cobblestone - gola seku  
+cobblestone - bolite  
 coca - koka  
 Coca-Cola - Koka Kola  
-cocktail - mixe alkol  
+cocktail - alkol mixur  
 cocoa - kakau  
 coconut tree - yezi  
 Cocos (Keeling) Islands - Kokos nesia  
@@ -989,7 +989,7 @@ core (nucleus, kernel) - kerne
 coriander - kotumbar  
 corn (maize) - mais  
 corn poppy - medan papi  
-corner (angle) - gona  
+corner (angle) - gone  
 cornflower - nil kentaur hua  
 corona virus - korona virus  
 corpse (dead body) - nekre  
@@ -1625,6 +1625,7 @@ flax (linen) - yama
 flerovium - flerovium  
 fletcher - flecer  
 flexible  - flexebil  
+flexional language - flexive baxe  
 flight - fei  
 flint - hogo seku  
 float (buoy, bobber) - boi  
@@ -1713,7 +1714,8 @@ functional (valid, workable) - funtebil
 fungus (mushroom) - fungu  
 funnel - dare tube  
 funny (amusing) - vanu di  
-fusion (amalgamation) - fuzi liga  
+fusion (amalgamation) - fuzion  
+fusional language - fuzive baxe  
 future time - pos zaman  
 
 ## G  
@@ -1790,13 +1792,13 @@ give - don
 give consultation - konsel  
 glass - glas  
 glaze (vitrify) - glasife  
-glazing (enamel) - glas daka  
+glazing (enamel) - glasure  
 global (concerning the whole world) - pandunial  
 global - dunial  
 globe artichoke - karcof  
 glossy - foto mira di  
 glucose - glukos  
-glue (adhesive) - glu  
+glue (adhesive) - glute  
 gluten - gluten  
 glycerol (glycerine) - glukerol  
 glycine - glukin  
@@ -1816,7 +1818,7 @@ god (deity) - dee
 god of love (Eros, Kamadeva) - kama deu  
 gold - auro  
 golem - golem  
-goniometer - gona metri gi  
+goniometer - gonometrer  
 good - hau  
 good day - sal dia  
 good evening - sal xam  
@@ -2230,7 +2232,7 @@ Italy - Italia
 
 jackal - xakal  
 jacket - jake  
-jade - giuka  
+jade - yoke  
 jailer (imprisoner) - jeler  
 Jainism - jain din  
 Jakarta - Jakarta  
@@ -2380,7 +2382,7 @@ latitudinal (horizontal) - vei
 Latvia - Latvia  
 lauan tree (meranti, balau) - meranti  
 laugh - haha  
-lava - fuzi petra  
+lava - fuze petre  
 law (rule, regulation) - kanun  
 lawn - cau medan  
 lawrencium - laurencium  
@@ -2394,7 +2396,7 @@ leader (director) - lider
 leader - arhe  
 leadership - arhia  
 leaf (sheet) - yepa  
-league (alliance) - liga  
+league (alliance) - lige  
 leak - lou  
 learn (study) - xule  
 leash (rein) - lide line  
@@ -2706,7 +2708,8 @@ megawat (MW) - mega vate
 meitnerium - meitnerium  
 melodious (melodic) - melodike  
 melody - melodia  
-melt (liquify) - fuzi  
+melt (found, liquify) - fuze  
+melt together (merge, fuse) - konfuze  
 member (part of a group, component) - mer  
 membrane (film) - mogu  
 memorandum (memo) - memo note  
@@ -2720,7 +2723,6 @@ menu (bill of fare) - yam liste
 menu (catalog) - cun liste  
 mercury (quicksilver) - hidrargente  
 Mercury - Merkur  
-merge (fuse) - be fuzi liga  
 meridian (line of longitude) - ging gola  
 meronym - meronam  
 message - angil  
@@ -2789,7 +2791,8 @@ missionary - misioner
 mistake (error, fault, blunder, bug) - galte  
 misunderstand - galte budi  
 mix (blend) - mixe  
-mixer (blender) - mixe gi  
+mixer (blender) - mixer  
+mixture - mixur  
 mnemotechny - memo tehni  
 mode (type, pattern, state) - mode  
 model (design) - fa model  
@@ -3077,14 +3080,15 @@ offline - no a lin
 often (frequently) - a poli mar  
 oganesson - oganeson  
 ogre (troll, goblin) - gui  
-oil - nafte  
-oil well - nafte fonte  
+oil - zete  
+oil well - zete fonte  
 okay (acceptance; accept, say okay) - okei  
 okra (okro) - bamia  
 old (aged, elderly) - lau  
 old (ancient, former) - prezaman di  
 older (elder, senior, superior) - sen  
-olive - zaitun  
+olive - zetun  
+olivo oil - zetun zete  
 Oman - Oman  
 ominous (foreboding) - dus sin di  
 on behalf of - a vakil de  
@@ -3306,7 +3310,7 @@ peppermint - pipre minta
 perfect (complete) - perfete  
 perfect (optimize, refine, polish) - fa pul hau  
 perfect - pul hau  
-perimeter (circumference) - gola longta  
+perimeter (circumference) - sirke metre  
 period (era, epoch, term) - zaman  
 peripheral - kinar di  
 perish (ruin, dishevel, devastate, desolate) - perex fa  
@@ -3351,7 +3355,7 @@ physics - fizologia
 physiology - biofizologia  
 piano - piano  
 pickaxe - pin cope  
-pickle (preserve in vinegar or brine) - fa acar  
+pickle (preserve in vinegar or brine) - acarize  
 pickle - acar  
 pickled - acar di  
 picnic - vai yam  
@@ -3567,7 +3571,6 @@ promote (further, move forward) - promote
 pronoun - vise lexe  
 pronounce (articulate) - fone  
 pronounce (articulate) - fonologe  
-proof (evidence, proof, demonstration, testimony) - dalil  
 propel (drive forward) - propele  
 propeller - propeler  
 property (belongings, possessions) - mal  
@@ -3764,7 +3767,7 @@ rhenium - renium
 Rhine - Ren  
 rhinoceros - kargadan:  
 rhodium - rodium  
-rhyme (verse) - rim  
+rhyme (verse) - rime  
 rhythm (beat) - ritim  
 rib cage - sine kasa  
 rice - varis  
@@ -3785,8 +3788,8 @@ ring (toll, clang) - dang
 ring - ring  
 rip current - tire dara  
 rise (go up) - be gau  
-risk - risko  
-risky - risko di  
+risk - riske  
+risky - riskike  
 ritual (ceremony, religious custom) - puja rite  
 river (stream) - rivo  
 river bank - rivo kinar  
@@ -3798,7 +3801,7 @@ robe (tunica, gown, jubbah) - juba
 robot (bot) - robote  
 rock (sway, tilt) - roke  
 rock - petra  
-rock music - roke musike  
+rock music - roke muzike  
 rocket - rakete  
 rocket launcher - rakete lanser  
 rocking chair - roke kursi  
@@ -3808,7 +3811,7 @@ roll (scroll, coil) - rul
 roll (wrap in) - fa rolo  
 Roman - roman  
 Roman camomile - roma kamil  
-Roman Empire - Roman Imperia  
+Roman Empire - Roma Imperia  
 romance (romantic love) - romanse  
 Romania - Romania  
 romanize - latinogramife  
@@ -3825,9 +3828,11 @@ rotor (rotator) - rotater
 rotten - pute  
 rough (coarse, harsh) - gros  
 roulette - rulete  
-round (circular) - gola di  
+round (circular) - sirkike  
 route (path, trail, course, itinerary) - pata  
 route (path, trail, course, itinerary) - rute  
+route (set on course) - rutize  
+router - rutizer  
 routine (habit) - rutin  
 royal (regal) - regal  
 rub (scrape, scrub) - frike  
@@ -4109,7 +4114,7 @@ small town - xiu siti
 small village (hamlet) - xiu deha  
 smell (reek) - fa aroma  
 smell (sniff) - fa aroma  
-smelt - fuzi saf  
+smelt - fuzesafe  
 smoke - dum  
 smooth - lis  
 smoothen with a plane - fa rande  
@@ -4245,7 +4250,7 @@ stepmother - gam ma
 stereophonic - dufonike  
 stick (adhere, paste, glue) - glutize  
 sticker - glu grafi  
-sticky (ahesive) - glu di  
+sticky (ahesive) - glutike  
 stipulate - fa xarti  
 stone (piece of rock) - ite  
 stone (piece of rock) - seku  
@@ -4262,8 +4267,8 @@ story (tale, narrative, explanation) - logia
 straight - orto  
 straighten - ortife  
 strange (unknown) - ansan di  
-stray (deviant) - rute galte di  
-stray (deviate) - be rute galte  
+stray (deviant) - derutike  
+stray (deviate, go off course) - derute  
 street - gali  
 strengthen (reinforce) - fa lika  
 stretch (extend) - long tire  
@@ -4397,8 +4402,8 @@ tea - cai
 tea cup - cai kupa  
 tea house - caikan  
 tea seller (chaiwallah) - cai vala  
-teach (educate, instruct, doctrine) - gio  
-teacher (instructor) - gio ja  
+teach (educate, instruct, doctrine) - xulize  
+teacher (instructor) - xulizer  
 team - tim  
 teapot - cai pote  
 tear (rip, split) - cira  
@@ -4618,6 +4623,7 @@ Tuesday - marisden
 tulip - tulpan  
 tuna - tuna  
 tundra - tundra  
+tung tree - tung  
 tungsten (wolfram) - volfram  
 tunic (kirtle) - kurta  
 Tunisia - Tunis  
@@ -4813,7 +4819,7 @@ watt - vate
 wave - onda  
 wax - mum  
 wax seal - mum cape  
-way (manner, means, method, mode, procedure, rite) - riti  
+way (manner, means, method, mode, procedure, rite) - rite  
 way (road) - dau  
 we (exlusive we) - damimen  
 we (inclusive we) - tumimen  
@@ -4914,7 +4920,7 @@ worm - verme
 worship (adore; reveration, veneration) - puja  
 wow! (gee!) - va  
 wrap - lifafe  
-wrapping (envelope, covering) - lifafa  
+wrapping (envelope, covering) - lifafe  
 write (writing, text, script) - kitabe  
 written character - grame  
 wrong (incorrect, erroneous, faulty) - galte di  

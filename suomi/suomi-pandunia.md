@@ -25,6 +25,7 @@ adverbi - mode lexe
 aerobinen - airobiike  
 Afganistan - Afganestan  
 Afrikka - Afrika  
+agglutinoiva kieli - glutive baxe  
 agorafobia (avaran paikan kammo) - medan fobi  
 agronomia (maatalous) - agronomia  
 ahne - tami  
@@ -131,6 +132,7 @@ anaalinen - anusal
 anaerobinen - anairobiike  
 analgesia - algesia  
 analyysi (osiin hajottaminen) - fen lize  
+analyyttinen kieli - lizive baxe  
 ananas - ananas  
 anarkia - anarhia  
 anarkisti - anarhiste  
@@ -561,6 +563,7 @@ filosofia - filsofe
 filosofian maisteri - master de filsofia (MF)  
 filosofian maisteri luonnontieteistä - master de logia (ML)  
 filosofinen - filsofal  
+fleksiivinen kieli - fuzive baxe  
 flerovium - flerovium  
 fluori - flur  
 fluoridi - fluride  
@@ -575,7 +578,7 @@ fotoni - foton
 frankium - fransium  
 fruktoosi (hedelmäsokeri) - frutos  
 funktio - funtion  
-fuusio (yhteensulautuminen) - fuzi liga  
+fuusio (yhteensulautuminen) - fuzion  
 fysiikka - fizologia  
 fysiologia - biofizologia  
 fyysikko - fizologer  
@@ -681,7 +684,7 @@ happi - oxe
 happo - suan mate  
 harhaluulo (illuusio) - mitaje  
 harhanäky (näköharha) - mite vide  
-harhautua - be rute galte  
+harhautunut - derutike  
 harja - brox  
 harjoitella (treenata) - fa lenxi  
 harjoitus - lenxi  
@@ -925,7 +928,7 @@ ilmastotiede (klimatologia) - klimalogia
 ilmavoimat - air ordu  
 ilmeinen (silminnähtävä) - exvidebil  
 ilmestyä - be zai  
-ilmiasu (hahmo, ulkomuoto, ulkonäkö) - rupa  
+ilmiasu (hahmo, ulkomuoto, ulkonäkö) - rupe  
 ilostuttaa (tyydyttää) - sukife  
 ilta - xam  
 iltapäivä - xam dia  
@@ -1000,7 +1003,7 @@ iäkäs - umur di
 ## J  
 
 ja (sekä) - e  
-jade - giuka  
+jade - yoke  
 Jahve (Jehova) - Yahve  
 jainalaisuus - jain din  
 jakaa (leikata) - tome  
@@ -1488,6 +1491,7 @@ kokki - kuker
 koko (kokonainen) - hol  
 kokonaisuus - holia  
 kokonaisvaltainen (holistinen) - holiste  
+koktail - alkol mixur  
 kolera - holera  
 kolikko - pesa diske  
 kollektiivinen - jamive  
@@ -1596,7 +1600,7 @@ ksyloosi (puusokeri) - xilos
 kude - vei lin  
 kuin (verrattuna) - ka  
 kuisti (terassi, veranta, parveke) - veranda  
-kuitata - fa reside  
+kuitata - reside  
 kuitti (kuittaus) - reside  
 kuiva - gan  
 kuivakausi - gan mosim  
@@ -1611,8 +1615,8 @@ kulkea (kulku; kurssi; reitti) - kurse
 kulkea edellä - prekurse  
 kulkea läpi (läpikulku) - trakurse  
 kulkea poikki, läpi tai yli - fa transe  
-kulma (nurkka) - gona  
-kulmamitta (goniometri) - gona metri gi  
+kulma (nurkka) - gone  
+kulmamitta (goniometri) - gonometrer  
 kulombi (mittayksikkö C) - kulombe  
 kulta (rakas) - ame jen  
 kulta - auro  
@@ -1741,7 +1745,7 @@ kääntyä pois - deverse
 kääntäjä (tulkki) - trabaxer  
 kääntää (tulkata; käännös) - trabaxe  
 kääntää jtkn päin - verse  
-kääre (kuori) - lifafa  
+kääre (kuori) - lifafe  
 kääriä (panna kääröön) - lifafe  
 kääriä - fa rolo  
 käärme - serpe  
@@ -1752,7 +1756,7 @@ köynnös - trepater
 
 laadukas (hyvä) - hau sifa di  
 laakso - vali  
-laastari - glu bande  
+laastari - glute bande  
 laatikko - kase  
 laatikko - sanduku  
 laatta (levy) - table  
@@ -1760,7 +1764,7 @@ laatu (laadukkuus, erinomaisuus, hyvyys) - hau sifata
 laatu (ominaispiirre) - kalta  
 laatu (ominaisuus, ominaispiirre, määrite) - sifa  
 laatu (tila, moodi, tyyppi) - mode  
-laava - fuzi petra  
+laava - fuze petre  
 Lagos - Lagos  
 lahja - don xe  
 lahjakortti - don xe ceke  
@@ -1799,6 +1803,7 @@ lapsuus (epäkypsyys) - youta
 lapsuusvuodet - you nen  
 lasagne - lazanya  
 lasi - glas  
+lasite (emali) - glasure  
 lasittaa - glasife  
 laskea (lasku, laskelma) - hisabe  
 laskea (tehdä laskutoimitus) - fa hisabu  
@@ -1883,17 +1888,16 @@ liikkua takaisin (siirtää takaisin) - remote
 liikkua ylös ja alas - gau dipe mote  
 liikuttaa (siirtää; liikkua) - mote  
 liikuttava (motiivi, vaikutin) - motive  
-liima - glu  
+liima - glute  
 liimata - glutize  
 liite - afixe  
 liitin - konneter  
-liitonarkki - liga di sanduku  
-liitto (liittouma, liiga) - liga  
+liitonarkki - lige su sanduke  
 liitto (unioni) - unia  
 liittosopimus - kon trati  
 liittymä - dau yunte  
 liittäminen - yuntion  
-liittää - lige  
+liittää (liitto, liittouma, liiga) - lige  
 likainen (mutainen) - darti di  
 likainen - ansafe  
 lilja - susan  
@@ -2223,6 +2227,7 @@ mestari (voittaja) - campion
 metaani - metan  
 metafysiikka - metafizologia  
 metalli - metal  
+metalliseos - metal mixure  
 metanoli - metanol  
 meteli - kelele  
 metri - mitre  
@@ -2313,7 +2318,7 @@ muistosanat (muistopuhe, muistokirjoitus) - nekrologe
 muistuttaa (vaikuttaa samalta) - be sam rupa  
 mukaan lukien - in klus  
 mukava (kiva, miellyttävä) - huxi  
-mukulakivi - gola seku  
+mukulakivi - bolite  
 mulperi - tuta  
 multa (humus) - hume  
 muna - anda  
@@ -2556,7 +2561,8 @@ oleellinen - esential
 olento (olio) - eser  
 oleva - esente  
 olevaisuus - esentia  
-oliivi - zaitun  
+oliivi - zetun  
+oliiviöljy - zetun zete  
 olkapää (hartia) - kanta  
 olla (omistaa) - ha  
 olla - es  
@@ -2589,9 +2595,9 @@ onnitella (siunata) - barke
 oodi (värssy) - ode  
 opas (tiennäyttäjä) - gider  
 opastaa (ohjata) - gide  
-opettaa - gio  
-opettaja - gio ja  
+opettaa - xulize  
 opettaja - xule guru  
+opettaja - xulizer  
 opiskelija - studer  
 opiskella (tutkia) - stude  
 oppi (opetus) - xulaje  
@@ -2694,7 +2700,7 @@ paljastaa - devel
 paljastaa - andake  
 paljon (monta) - poli  
 palladium - paladium  
-pallo - bol  
+pallo (kuula) - bol  
 palloakaasia - babul  
 pallokala - balon pexe  
 palmu - palma  
@@ -2837,7 +2843,6 @@ piikki (pistin, neula) - pin
 piilottaa (kätkeä) - fa sir  
 piippu - pipe  
 piirakka (piiras) - pai  
-piiri (ympyrä) - gola  
 piirros (graafi) - grafe  
 piirtää - grafe  
 piirustus - desen  
@@ -2911,6 +2916,7 @@ pohtia (meditoida) - jan
 poika (nuori mies) - jun man  
 poika (nuori mies) - you nan  
 poika - son  
+poiketa (harhautua) - derute  
 poikittainen (vaaka) - vei di  
 pois (poissa) - for  
 poissulkeva (eksklusiivinen) - vai klus di  
@@ -3062,7 +3068,7 @@ pyytäjä (metsästäjä, kalastaja) - saider
 pyytää (anoa) - cing  
 pyytää (metsästää, kalastaa) - fa saide  
 pyytää tulemaan - cing lai  
-pyöreä - gola di  
+pyöreä - sirkike  
 pyöritellä asiaa (keskustella) - konverse  
 pyörittää - rotate  
 pyöriä - be rota  
@@ -3163,6 +3169,8 @@ reikä - kung
 Rein - Ren  
 reinkarnaatio (uudelleen ruumiillistuminen) - reinkarnation  
 reissu (retki) - tur  
+reititin - rutizer  
+reitittää - rutize  
 rei’ittää - fa kung  
 rengas (kehä) - ring  
 renium - renium  
@@ -3192,8 +3200,8 @@ rikos- (rikollinen) - krim di
 rinta - sine  
 rintakehä - sine kasa  
 rintasyöpä - mame kanse  
-riski - risko  
-riskialtis - risko di  
+riski - riske  
+riskialtis - riskike  
 risteys (liittymä) - yunture  
 risteytys (hybridi) - hibride  
 risti - krus  
@@ -3206,7 +3214,7 @@ rodium - rodium
 roentgenium - rentegenium  
 rohkea (urhea, uljas) - brave  
 roikuttaa - pende  
-rokki (rock) - roke musike  
+rokki (rock) - roke muzike  
 rokote - vasin  
 romaani - long kata  
 Romania - Romania  
@@ -3215,7 +3223,7 @@ rommi - rom
 rooli (osa) - rol  
 Rooma - Roma  
 roomalainen - roman  
-Rooman valtakunta - Roman Imperia  
+Rooman valtakunta - Roma Imperia  
 roottori (propelli) - rotater  
 roska - lasa  
 rotu - rase  
@@ -3278,7 +3286,6 @@ saarni - frasen
 saatana (sielunvihollinen) - xatan  
 saavuttaa (päästä tykö) - acese  
 saavuttaa (saavutettua tilaa ilmaiseva apuverbi) - le  
-saavuttaa - gole  
 sade - barxa  
 sadekausi - barxa mosim  
 sadetakki - barxa kote  
@@ -3360,7 +3367,6 @@ sauma (ommel) - sutur
 sauna - sauna  
 savanni - garma zona caustan  
 savenvalaja - poter  
-savi - glu poto  
 savipata (tagine) - tege pote  
 savityö (keramiikka) - serami  
 savu - dum  
@@ -3379,7 +3385,7 @@ seisoa (seisahtaa) - be estasi
 seisova (staattinen) - statike  
 seistä (seisoa) - state  
 seitsemän (7) - ceti  
-sekoitin - mixe gi  
+sekoitin - mixer  
 sekoittaa - mixe  
 seksi (sukupuolisuhde) - sexu  
 seksikäs - sexe di  
@@ -3400,6 +3406,7 @@ Senegal - Senegal
 sensori (aistin) - sense gi  
 sentti - senti  
 senttimetri (cm) - sentimitre  
+seos - mixur  
 sepittää (keksiä; sepite, taru, legenda, myytti) - mite  
 seppä - metal saner  
 Serbia - Serbia  
@@ -3463,6 +3470,7 @@ sinun - tu su
 sinä - tu  
 Siperia - Sibiria  
 sipuli - piaze  
+sirkus - sirkus  
 sisarenpoika - sis son  
 sisarentytär - sis doh  
 sisaruksen lapsi - sau ben  
@@ -3569,8 +3577,8 @@ sukupuoli - sexu
 sukupuolinen - sexual  
 sukupuolitutkimus - gensologia  
 sukututkimus - gene logu  
-sulaa - fuzi  
-sulaa yhteen (fuusioitua) - be fuzi liga  
+sulaa - fuze  
+sulaa yhteen (fuusioitua) - konfuze  
 sulfaatti - sulfate  
 suljettu - klus di  
 sulka - pena  
@@ -3657,7 +3665,7 @@ syöpä - kanse
 syöttää tietoja (syöte) - inpute  
 säde - rade  
 sädekehä (halo) - foto gola  
-säe (riimi) - rim  
+säe (riimi) - rime  
 sähkö - eletre  
 sähköinen - eletrike  
 sähköjohto - eletroline  
@@ -3667,7 +3675,7 @@ säilyke (pikkelssi) - acar
 säilyttäjä - hafizer  
 säilyttää (varjella, säästää) - hafiz-  
 säilötty - acar di  
-säilöä - fa acar  
+säilöä - acarize  
 säteillä - radate  
 säteily - radion  
 säteilymittari - radometrer  
@@ -3687,7 +3695,7 @@ taas (uudestaan) - ri
 taateli - tamar  
 Tadžikistan - Tajiki  
 tahdas - fufu  
-tahmainen (liimamainen) - glu di  
+tahmainen (liimamainen) - glutike  
 tahna (tahdas) - pasta  
 tahrata (korruptoida) - fa najis  
 tahto - ice  
@@ -3710,6 +3718,7 @@ taiteilija - artiste
 taito - sute  
 taivaankappale - astre  
 taivas - sama  
+taivuttava kieli (fleksiivinen kieli) - flexive baxe  
 Taiwan - Taivan  
 takaisin - re  
 takki - kote  
@@ -3744,7 +3753,7 @@ tanssi - danse
 tantaali - tantalium  
 taolainen - dauiste  
 taolaisuus - dauisme  
-tapa (keino, menetelmä, menettely, metodi) - riti  
+tapa (keino, menetelmä, menettely, metodi) - rite  
 tapa (perinne) - suna  
 tapa (rutiini) - rutin  
 tapa - ada  
@@ -3894,7 +3903,6 @@ todellinen (tosiasialinen, reaalinen) - real
 todellisuus - realta  
 todentaa - verife  
 todistaa - fa dalil  
-todiste (todistus, osoitus, demonstraatio) - dalil  
 Togo - Togo  
 tohtori - dotor  
 tohtorin tutkinto - dotorta  
@@ -3962,6 +3970,7 @@ tulostaa tietoja (tuloste) - expute
 tulppa (tappi, korkki) - tape  
 tulppaani - tulpan  
 tundra - tundra  
+tungpuu - tung  
 Tunisia - Tunis  
 tunne (mielenliikutus) - gamo  
 tunneli - tunel  
@@ -4498,6 +4507,7 @@ ylä- (yli-) - supra di
 yläaste ja lukio - jong xulakan  
 ymmärrys (taju, oivallus) - budion  
 ymmärtää väärin - galte budi  
+ympyrä (piiri) - sirke  
 ympäristö- (luonto-) - ekal  
 ympäröidä (piirittää) - fa gola  
 ynnätä (summata) - fa sum  
@@ -4545,8 +4555,8 @@ zulu - Zulu
 ääntää (lausua) - fonologe  
 ääntää - fa soni  
 äärettömyys (rajattomuus) - anlimite  
-öljy - nafte  
-öljylähde - nafte fonte  
+öljy - zete  
+öljylähde - zete fonte  
 ĉampano - xampan vin  
 Šiva - Xiva  
 šakaali - xakal  
