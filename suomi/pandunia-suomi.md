@@ -179,7 +179,6 @@ andesite - andesiitti
 Andora - Andorra  
 angar - ankkuri  
 angil - viesti  
-angiler - viestintuoja (airut)  
 Angola - Angola  
 angul - sormi tai varvas  
 angul marke - sormenjälki  
@@ -361,7 +360,6 @@ bala - voimakas (vahva)
 balakan - kuntosali (punttisali)  
 balata - voima  
 baldi - sanko (ämpäri)  
-Balgaria - Bulgaria  
 balon pexe - pallokala  
 baluta - tammi  
 baluta frute - tammenterho  
@@ -369,7 +367,7 @@ bambu - bambu
 bamia - okra  
 ban - leipä  
 banana - banaani  
-bande - sitoa (kääriä siteeseen)  
+bande - sitoa (side, käärö, nauha)  
 bandaje - side  
 banda - ryhmä (työryhmä, yhtye, bändi)  
 bandera - lippu  
@@ -638,6 +636,7 @@ Budapexte - Budapest
 bufe - noutopöytä (buffetti)  
 buke - kirja  
 bulbul - satakieli  
+Bulgaria - Bulgaria  
 bum - räjähdys (pamaus)  
 bure - toimisto (konttori, byroo)  
 burer - sihteeri  
@@ -813,17 +812,17 @@ daria - vesistö (meri, järvi, joki)
 darike - nestemäinen  
 dare tube - lappo  
 darmestadium - darmstadtium  
-darti - maa (maa-aines)  
-darti di - likainen (mutainen)  
+darte - maa (maaperä, maa-aines)  
+dartike - likainen (mutainen)  
 darti hauer - lannoite  
 darvinisme - darwinismi  
 darviniste - darwinisti  
-data - data (numeerinen tieto)  
-data banke - tietokanta  
+date - data (numeerinen tieto)  
+date banke - tietokanta  
+date table - taulukko  
 data cule - tietojenkäsittely  
 data cule logia - tietojenkäsittelytiede  
 data fen lize - data-analyysi  
-data table - taulukko  
 dau - tie  
 dau bano - liikennemerkki  
 dauisme - taolaisuus  
@@ -1224,7 +1223,7 @@ fasinta - hurma (lumo, tenho)
 fatige - väsymys  
 fatura - lasku (faktuura)  
 favor - suosio (hyväntahtoisuus)  
-faxe - side (remmi)  
+faxe - nippu (kimppu)  
 faxisme - fasismi  
 faxiste - fasisti  
 faxon - trendi  
@@ -1556,7 +1555,8 @@ glukin - glysiini
 glukogen - glykogeeni  
 glukos - glukoosi (rypälesokeri)  
 glute - liima  
-glute bande - laastari  
+glute bande - teippi (liimanauha)  
+glute bandaje - laastari  
 gluten - gluteeni  
 glutike - tahmainen (liimamainen)  
 glutive baxe - agglutinoiva kieli  
@@ -2161,6 +2161,7 @@ kasu - tapaus (seikka)
 kata - kertomus (tarina, saaga)  
 Katalunia - Katalonia  
 katana - katana (japanilainen miekka)  
+Katar - Qatar  
 katil - vuode (sänky, peti)  
 katus - kaktus  
 Kaukasia - Kaukasia  
@@ -2168,6 +2169,7 @@ kauri - posliinikotilo
 kave - kaivaa (kuoppa)  
 • exkave - kaivaa esiin  
 kavai - söpö (suloinen)  
+Kazakestan - Kazakstan  
 ke - mikä? (mitä?)  
 ke jen - kuka?  
 ke loka - jossa?  
@@ -2225,11 +2227,13 @@ Kirgize - Kirgistan (Kirgisia)
 Kiribati - Kiribati  
 Kiril zi - kyrilliset aakkoset  
 kisma - kohtalo (määrä)  
-kitabe - kirjoitus (teksti)  
+kitabe - kirjoittaa (kirjoitus)  
 kitabe cule - tekstinkäsittely  
-kitabe forma - tekstin muotoilu  
-kitabe gi - kirjoituskone  
+kitaber - kirjoittaja (kirjuri)  
+kitabe forme - tekstin muotoilu  
+kitabiste - kirjailija  
 kitabekan - kirjasto  
+kitabe maxin - kirjoituskone  
 kivi - kiivi (lintu)  
 kivi frute - kiivihedelmä  
 klar - selvä (selkeä)  
@@ -2728,6 +2732,7 @@ metal - metalli
 metal lin - vaijeri (metallilanka)  
 metal mixure - metalliseos  
 metal saner - seppä  
+metre bande - mittanauha  
 metri - mitta (koko, määrä)  
 • parametri - parametri (argumentti)  
 meza - pöytä  
@@ -2790,6 +2795,7 @@ mire plate - peili
 • tramiser - lähetin  
 mise - lähettää  
 misaje - viesti  
+misajer - viestintuoja (airut)  
 mision - lähetys  
 misioner - lähetti (lähetyssaarnaaja)  
 misal - esimerkki  
@@ -3453,30 +3459,28 @@ proxe - läheinen
 • aproxe - lähestyä  
 proxia - lähistö  
 puding - vanukas  
-puja - palvonta  
-pujakan - temppeli  
-puja meza - alttari  
-puja rite - rituaali (seremonia, riitti)  
+puje - palvonta  
+pujekan - temppeli  
+puje meza - alttari  
+puje rite - rituaali (seremonia, riitti)  
 pul - täysi  
 pul fina - tehdä loppuun (saada valmiiksi)  
 pul hau - täydellinen (täysin hyvä)  
 pulmon - keuhko  
-pulmon tis - keuhkokuume  
+pulmonitis - keuhkokuume  
 pulse - työntää (puskea)  
 punte - piste (täplä)  
 pupe - nukke  
-putau - viinirypäle  
-putau bagi - viinitarha  
-pute - mätä  
 pute - käsitellä tietoja (laskelmoida)  
 • expute - tulostaa tietoja (tuloste)  
 • inpute - syöttää tietoja (syöte)  
 • konpute - yhdistää tietoja (laskea yhteen)  
 • konputer - tietokone  
+putau - viinirypäle  
+putau bagi - viinitarha  
+pute - mätä  
 putong - yleinen (universaali)  
 Putong Han - yleiskiina (mandariinikiina)  
-Qatar - Qatar  
-Qazaqe - Kazakstan  
 
 ## R  
 
@@ -3994,7 +3998,6 @@ tense - kireä (tiukka, jännittynyt)
 tenseta - jännitys (jännite)  
 tenta - houkutella  
 teori - teoria  
-tepe - teippi (nauha)  
 tere - pelko (kauhu, terrori)  
 • detere - pelottaa pois  
 terife - pelottaa  
@@ -4290,6 +4293,7 @@ vide - nähdä
 • anprevide di - ennennäkemätön  
 • previde di - ennustettu  
 vidaje - näkymä  
+vide bande - videonauha  
 vider - katsoja (tarkkailija)  
 vide medan - näkökenttä  
 vide punte - näkökulma  

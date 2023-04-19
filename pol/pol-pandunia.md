@@ -265,6 +265,7 @@
  - fatu  
  - fatu di  
  - favor  
+ - faxe  
  - fei gi tikete  
  - feke  
  - fen di  
@@ -350,6 +351,7 @@
  - glukin  
  - glukogen  
  - glukos  
+ - glute bandaje  
  - glute bande  
  - glutive baxe  
  - grafe cule  
@@ -506,6 +508,8 @@
  - Kinxasa  
  - kitabe cule  
  - kitabeme  
+ - kitaber  
+ - kitabiste  
  - klien  
  - klike  
  - klus  
@@ -624,6 +628,7 @@
  - metanol  
  - metil  
  - metilamin  
+ - metre bande  
  - metri gi  
  - midaje  
  - midia  
@@ -794,7 +799,7 @@
  - prote  
  - pul ekran  
  - pul fina  
- - pulmon tis  
+ - pulmonitis  
  - pute  
  - rade longta  
  - radion  
@@ -973,6 +978,7 @@
  - verife  
  - verse  
  - verse  
+ - vide bande  
  - viki  
  - viki pedia  
  - violeta  
@@ -1408,7 +1414,6 @@ bakłażan, oberżyna - bedingan
 balon - bolon  
 bambus - bambu  
 banan - banana  
-bandaż, taśma, wstążka - faxe  
 Bangladesz - Bangla gogia  
 banglijski - bangla baxe  
 bank - bankekan  
@@ -1432,7 +1437,7 @@ baton czekoladowy - coklate kane
 bawełna - goton  
 bawić, zabawiać - fa vanu  
 bawół domowy - karbau  
-baza danych (bank danych) - data banke  
+baza danych (bank danych) - date banke  
 bazowy, podstawowy - bazike  
 bańka - xiu bol  
 baśń - pari kata  
@@ -1542,7 +1547,7 @@ burza, sztorm, tajfun - tufan
 but - buta  
 but - sapatu  
 butelka - botel  
-Bułgaria - Balgaria  
+Bułgaria - Bulgaria  
 być - es  
 być mistrzem (być ekspertem) - maste  
 być obok - a late  
@@ -1688,7 +1693,7 @@ czempion - campion
 czerwiec - mes tri  
 czerwony - rubi  
 cześć - sal  
-cześć, szacunek - puja  
+cześć, szacunek - puje  
 czosnek olbrzymi - dai lasun  
 cztery (4) - nelu  
 czuć - tocu sense  
@@ -1712,7 +1717,7 @@ dach - cati
 daktyl - tamar  
 daleki, odległy - tele  
 damarzyk (meranti) - meranti  
-dane - data  
+dane - date  
 Dania - Danske gogia  
 danie - tasa  
 darmsztadt - darmestadium  
@@ -1949,7 +1954,7 @@ fonem - foneme
 fonologia - fonologia  
 fontanna (studnia, źródło) - fonte  
 forma, kształt, morf - forme  
-formatowanie - kitabe forma  
+formatowanie - kitabe forme  
 formularz (kwestionariusz) - sual dokumen  
 forum - forum  
 fosfat - fosfate  
@@ -2046,7 +2051,7 @@ grom, huk - grom
 grubość - grosta  
 gruby - gros  
 grudzień - mes tisa  
-grunt (ziemia, próchnica) - darti  
+grunt (ziemia, próchnica) - darte  
 grupa - grupe  
 grupa etniczna - zuku  
 gruszka - pera  
@@ -2352,12 +2357,12 @@ kasta - gene klas
 kaszel; kaszlnięcie - koso  
 kasztan - kastana  
 Katalonia - Katalunia  
-Katar - Qatar  
+Katar - Katar  
 Kaukazja - Kaukasia  
 kauri - kauri  
 kawa - kafe  
 kawiarnia - kafekan  
-Kazachstan - Qazaqe  
+Kazachstan - Kazakestan  
 kałamarnica (mątwa) - kalmar  
 każdy człowiek, wszyscy - pan jen  
 każdy, wszyscy - pan un  
@@ -2746,7 +2751,7 @@ maska, kamuflaż - maske
 maszt - masta  
 maszyna - gi  
 maszyna - makin  
-maszyna do pisania - kitabe gi  
+maszyna do pisania - kitabe maxin  
 masło - bute  
 masłosz Parka - karite  
 matematyk - numologer  
@@ -3218,7 +3223,7 @@ owca - meme
 owinięcie (koperta, okładka) - lifafe  
 owoc - frute  
 owoc kiwi - kivi frute  
-ołtarz - puja meza  
+ołtarz - puje meza  
 ołów - plumbe  
 oś - axe  
 ośmiornica - ohtopus  
@@ -3489,7 +3494,7 @@ postawić (stawiać) - fa libu
 posuwać się do przodu (dokonywać postępu, wejść) - progrese  
 poszukiwacz przygód (awanturnik) - venturer  
 poszukiwać (badać, eksplorować, przeglądać, wyszukiwać) - brauza  
-posłaniec (wysłannik) - angiler  
+posłaniec (wysłannik) - misajer  
 pot - sueda  
 potas - kalium  
 potrzeba - yauta  
@@ -3823,7 +3828,7 @@ rym (wers) - rime
 rynek, bazar - bazar  
 rysunek, obraz - desen  
 rytm, bit - ritim  
-rytuał, ceremonia, ryt - puja rite  
+rytuał, ceremonia, ryt - puje rite  
 ryzyko - riske  
 ryzykowny - riskike  
 ryś - linxe  
@@ -4193,7 +4198,7 @@ słód - malte
 T - T  
 tablica (deska) - bano  
 tablica wyników - punte bano  
-tablioca, macierz - data table  
+tablioca, macierz - date table  
 Tadżykistan - Tajiki  
 tajga - taiga  
 Tajlandia - Tai Dexa  
@@ -4221,7 +4226,6 @@ tarcza - defe bano
 tartak - xarakan  
 tatuaż - tatu  
 taxi, taksówka - taxi gar  
-taśma - tepe  
 taśma; bandaż - bandaje  
 tchórz, fretka - furete  
 technet - tehnetium  
@@ -4357,7 +4361,7 @@ tytoń - tabake
 tytuł (nagłówek) - tema nam  
 tęcza - rang arka  
 tłok - pompe tape  
-tłok - puxa gi  
+tłok - pulser  
 tłumacz - trabaxer  
 tłumaczyć (interpretować; tłumaczenie, interpretacja) - trabaxe  
 tłusty - lipike  
@@ -4795,7 +4799,7 @@ zielenina - coi
 zielony - luga  
 ziemia, grunt, gleba - gee  
 ziemniak - patate  
-ziemny (glebowy, gruntowy) - darti di  
+ziemny (glebowy, gruntowy) - dartike  
 ziggurat - zikura  
 zima - leng mosim  
 Zimbabwe - Zimbabue  
@@ -4838,7 +4842,7 @@ zsumować, sumować, dodać, dodawać - fa sum
 zulu - Zulu  
 zupa - supa  
 zwinny, sprawny - agile  
-związać, wiązać; zapiąć, zapinać - bande  
+związać (wiązać; zapiąć, zapinać; taśma) - bande  
 zwiększyć o jeden - max gradu  
 zwyciężyć (wygrać; zwycięstwo, wygrana) - jai  
 zwyczajny (rutynowy, normalny) - ada di  
@@ -4915,7 +4919,7 @@ zły, zrujnowany, zepsuty - harabe
 świerk - pisea  
 świeży - taza  
 świnia - goro  
-świątynia - pujakan  
+świątynia - pujekan  
 święto - feste den  
 święty - sante  
 źle zrozumieć - galte budi  

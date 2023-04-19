@@ -169,12 +169,11 @@ bala - forta
 • anbala - malforta  
 balata - forto  
 baldi - sitelo  
-Balgaria - Bulgario  
 baluta - kverko  
 bambu - bambuo  
 ban - pano  
 banana - banano  
-bande - ligi  
+bande - ligi (bendo)  
 bandaje - bandaĝo (vindo)  
 bandera - flago  
 Bangla gogia - Bangladeŝo  
@@ -330,6 +329,7 @@ budisme - budhismo
 budiste - budhisto  
 buke - libro  
 bulbul - najtingalo  
+Bulgaria - Bulgario  
 bum - eksplodo  
 bus - buso  
 bus halte - bushaltejo  
@@ -428,10 +428,10 @@ dante broxa - dentbroso
 dante davaer - dentisto  
 dante hin - sendenta  
 dape - bati  
-data - datumo  
-data banke - datumbanko  
+date - datumo  
+date banke - datumbanko  
+date table - tabelo  
 data cule logia - komputoscienco  
-data table - tabelo  
 dau - vojo  
 dava - sanigi (kuraci)  
 davaer - kuracisto  
@@ -1121,8 +1121,8 @@ kinar - rando (orlo)
 kio - ponto  
 kisma - sorto (destino)  
 kitabe - skribo  
-kitabe gi - tajpilo  
 kitabekan - librejo  
+kitabe maxin - tajpilo  
 kivi - apterigedo  
 kivi frute - kivo  
 klar - klara  
@@ -1703,15 +1703,15 @@ profesor - profesoro
 prometium - prometio  
 protacinium - protaktinio  
 proxe - proksima  
-pujakan - templo  
-puja meza - altaro  
+pujekan - templo  
+puje meza - altaro  
 pul - plena  
 pul fina - kompleti  
 pulmon - pulmo  
 punte - punkto  
+• konputer - komputero  
 putau - vinbero  
 putau bagi - vitejo  
-• konputer - komputero  
 putong - generala  
 Putong Han - mandarinĉina  
 
@@ -1980,7 +1980,6 @@ tema - temo (esti pri; pridiskuti)
 tenesium - teneso  
 tenis - teniso  
 teori - teorio  
-tepe - bendo  
 tere - timo (teroro)  
 terur - teroro  
 terurisme - terorismo  

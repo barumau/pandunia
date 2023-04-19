@@ -107,7 +107,7 @@ allofoni (vaihtoehtoinen ääntämys) - alofone
 aloittaa - mule  
 alpakka - alpaka  
 altruismi (epäitsekkyys) - altrisme  
-alttari - puja meza  
+alttari - puje meza  
 alue (seutu) - area  
 alue (seutu) - stan  
 alumiini - alumin  
@@ -324,7 +324,7 @@ Buddha - Bude
 buddhalainen - budiste  
 buddhalaisuus (buddhismi) - budisme  
 budjetti - pesa plan  
-Bulgaria - Balgaria  
+Bulgaria - Bulgaria  
 Burkina Faso - Burkina Faso  
 Burundi - Rundi  
 bussipysäkki (linja-autopysäkki) - bus halte  
@@ -356,7 +356,7 @@ curry (karri) - kari
 darmstadtium - darmestadium  
 darwinismi - darvinisme  
 darwinisti - darviniste  
-data (numeerinen tieto) - data  
+data (numeerinen tieto) - date  
 data-analyysi - data fen lize  
 Deimos - Deimos  
 delfiini - dolfin  
@@ -1295,7 +1295,7 @@ kaupunkivaltio - nagre gogia
 kaura - ave  
 kausi (aikakausi, ajanjakso, periodi) - zaman  
 kaveriton - doste hin  
-Kazakstan - Qazaqe  
+Kazakstan - Kazakestan  
 kebab (grilliliha) - kababu karne  
 kehitys - gradu mute  
 keho (ruumis) - badan  
@@ -1381,7 +1381,7 @@ ketsuppi - kecape
 ketterä - agile  
 kettu - huli  
 keuhko - pulmon  
-keuhkokuume - pulmon tis  
+keuhkokuume - pulmonitis  
 kevyt (hento, pehmeä, helppo, jne.) - lege  
 kevyt (kevytpainoinen) - lege veze di  
 kevät - hua mosim  
@@ -1446,13 +1446,15 @@ kireä (tiukka, jännittynyt) - tense
 Kirgistan (Kirgisia) - Kirgize  
 Kiribati - Kiribati  
 kirja - buke  
+kirjailija - kitabiste  
 kirjain - fone zi  
 kirjallisuus - letaratur  
 kirjasto - kitabekan  
 kirje - letre  
 kirjoitelma (essee) - esai  
-kirjoitus (teksti) - kitabe  
-kirjoituskone - kitabe gi  
+kirjoittaa (kirjoitus) - kitabe  
+kirjoittaja (kirjuri) - kitaber  
+kirjoituskone - kitabe maxin  
 kirjoitusmerkki - zi  
 kirkas (selkeä) - ming  
 kirkastaa (valaista) - fa ming  
@@ -1756,7 +1758,7 @@ köynnös - trepater
 
 laadukas (hyvä) - hau sifa di  
 laakso - vali  
-laastari - glute bande  
+laastari - glute bandaje  
 laatikko - kase  
 laatikko - sanduku  
 laatta (levy) - table  
@@ -1898,7 +1900,7 @@ liittosopimus - kon trati
 liittymä - dau yunte  
 liittäminen - yuntion  
 liittää (liitto, liittouma, liiga) - lige  
-likainen (mutainen) - darti di  
+likainen (mutainen) - dartike  
 likainen - ansafe  
 lilja - susan  
 limonadi - limon jus  
@@ -2044,8 +2046,8 @@ löytää (keksiä) - eureka
 
 ## M  
 
-maa (maa-aines) - darti  
 maa (maaperä) - gee  
+maa (maaperä, maa-aines) - darte  
 Maa (Tellus) - Geia  
 maa (valtio) - gogia  
 maahanmuuttaja - inmigrer  
@@ -2269,6 +2271,7 @@ missä? - a ke
 mitali - medal  
 miten? - ke riti  
 mitta (koko, määrä) - metri  
+mittanauha - metre bande  
 moduuli - module  
 Moldova - Moldova  
 molemminpuolinen (keskinäinen) - semen su  
@@ -2460,6 +2463,7 @@ nimi - nam
 nimittää (kutsua) - namize  
 niobium - niobium  
 nipistää - pinse  
+nippu (kimppu) - faxe  
 nisä (tissi) - mame  
 nisäkäs - mamal  
 nitraatti - nitrate  
@@ -2711,7 +2715,7 @@ palvella (tarjoilla) - fa serve
 palvelu (palvelus) - serve  
 palvoa (fanata) - fanate  
 palvoa (fanata; fani) - fan  
-palvonta - puja  
+palvonta - puje  
 panaasialainen - panasian  
 panafrikkalainen - panafrikan  
 Panama - Panama  
@@ -3103,7 +3107,7 @@ pölynimuri - haki cupu gi
 pöytä - meza  
 pöytäliina - meza tela  
 pöö! - bu!  
-Qatar - Qatar  
+Qatar - Katar  
 
 ## R  
 
@@ -3207,7 +3211,7 @@ risteytys (hybridi) - hibride
 risti - krus  
 ristiinnaulita - fa krus fixe  
 ristikko - krus lin  
-rituaali (seremonia, riitti) - puja rite  
+rituaali (seremonia, riitti) - puje rite  
 rivinvaihto - lin parce  
 robotti - robote  
 rodium - rodium  
@@ -3420,7 +3424,6 @@ seurustella (toimia yhdessä) - fa sosi
 seutu (maa, alue) - tope  
 Seychellit - Sexel nesia  
 sianliha - goro karne  
-side (remmi) - faxe  
 side - bandaje  
 siemen - semen  
 siemen- - semenal  
@@ -3495,7 +3498,7 @@ sisäänpäin - intre
 sisäänpäinsuuntautunut (introvertti) - in verse jen  
 sisäänpäinsuuntautunut (introvertti) - intraverse  
 sisääntulo (pääsy) - inlai  
-sitoa (kääriä siteeseen) - bande  
+sitoa (side, käärö, nauha) - bande  
 sitruuna - limon  
 sivilisaatio - sivilia  
 sivistynyt - sivil  
@@ -3786,7 +3789,7 @@ tasoittaa (tasata) - fa par
 tatuointi - tatu  
 tauko (keskeytys, paussi) - pauze  
 taulukangas - pente tela  
-taulukko - data table  
+taulukko - date table  
 taulukoida - table yo data  
 taulutietokone (tabletti) - table komputa  
 tavallinen - ada di  
@@ -3818,7 +3821,7 @@ tehdä yhteistyötä - konkare
 tehkäämme - haide  
 tehokas (tehoava, vaikuttava) - exfetive  
 teidän - tumen su  
-teippi (nauha) - tepe  
+teippi (liimanauha) - glute bande  
 teismi (jumalusko) - deisme  
 teisti - deiste  
 tekijä (aikaansaaja) - ja  
@@ -3833,7 +3836,7 @@ tekniikka (teknologia) - tehnologia
 teknokratia - tehnokratia  
 teko (toimenpide, akti) - ate  
 tekoäly - arte fete intelige (AI)  
-tekstin muotoilu - kitabe forma  
+tekstin muotoilu - kitabe forme  
 tekstinkäsittely - kitabe cule  
 teleportata - be tele loka  
 televisio - televidion  
@@ -3841,7 +3844,7 @@ telluuri - telurium
 telsa (koverokirves) - benzi  
 teltta - haima  
 telugu (eräs intialainen kieli) - Telugu  
-temppeli - pujakan  
+temppeli - pujekan  
 temppu (kepponen, jekku, huijaus) - truke  
 Tennessee - Tenesi  
 tennessine - tenesium  
@@ -3877,7 +3880,7 @@ tieto - konsabaje
 tietoinen (hereillä) - budike  
 tietojenkäsittely - data cule  
 tietojenkäsittelytiede - data cule logia  
-tietokanta - data banke  
+tietokanta - date banke  
 tietokone - konputer  
 tietoteoria (epistemologia) - san logia  
 tietysti (selvästi) - klar!  
@@ -4297,6 +4300,7 @@ vetää (kiskoa, raahata) - trate
 vetää - tire  
 vetää hajalleen (harhauttaa) - distrate  
 vetää ulos - extrate  
+videonauha - vide bande  
 viedä pois (viedä maasta) - vai mise  
 viedä pois (viedä maasta) - exporte  
 viehättää (vetää puoleensa) - atrate  
@@ -4307,7 +4311,7 @@ vieras (tuntematon) - ansan di
 vieri (oheis-, para-) - para  
 viesti - angil  
 viesti - misaje  
-viestintuoja (airut) - angiler  
+viestintuoja (airut) - misajer  
 Vietnam - Viete  
 vietnamilainen - viete baxe  
 viha (inho) - hen  

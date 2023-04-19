@@ -181,6 +181,7 @@ bambu - bambu
 bamia - quiabo  
 ban - pão  
 banana - banana  
+bande - fita  
 banda - bando  
 bang - maça  
 banker - banqueiro  
@@ -373,8 +374,8 @@ dante hin - desdentado
 daria - corpo de água  
 dare tube - funil  
 darmestadium - darmstádio  
-data - dados  
-data banke - banco de dados  
+date - dados  
+date banke - banco de dados  
 data cule - processamento de dados  
 data cule logia - informática (ciência da computação)  
 dau yunte - interseção  
@@ -648,7 +649,7 @@ glu grafi - adesivo
 glukin - glicina  
 glukogen - glicogênio  
 glukos - glicosa  
-glute bande - penso (band-aid)  
+glute bandaje - penso (band-aid)  
 glutike - pegajoso (adesivo)  
 glutize - colar (aderir)  
 gol - meta (gol)  
@@ -958,8 +959,10 @@ kioske - quisque (pavilhão)
 kirate - quilate  
 kisma - destino  
 kitabe - escrevere  
-kitabe gi - máquina de escrever  
+kitaber - escriba  
+kitabiste - escritor  
 kitabekan - biblioteca  
+kitabe maxin - máquina de escrever  
 kivi - quivi  
 kivi frute - quivi  
 klar - claro  
@@ -1222,6 +1225,7 @@ metil - metil
 metal bede - bigorna  
 metal lin - arame  
 metal mixure - liga  
+metre bande - fita métrica  
 • parametri - parâmetro  
 meza - mesa  
 meza tela - toalha de mesa  
@@ -1594,16 +1598,16 @@ proxe - próximo
 • aproxe - aproximar  
 proxia - proximidade  
 puding - pudim  
-pujakan - templo  
-puja meza - altar  
+pujekan - templo  
+puje meza - altar  
 pul - cheio  
 pul fina - terminar (acabar, concluir)  
 pul xipi - ensopar (encharcar, marinar)  
-pulmon tis - pneumonia   
-putau bagi - vinhedo  
-putau orange - toranja  
+pulmonitis - pneumonia   
 pute - contar (calcular)  
 • konputer - computador  
+putau bagi - vinhedo  
+putau orange - toranja  
 
 ## R  
 
@@ -1959,6 +1963,7 @@ vespa - abelha ou vespa
 veze di - pesado  
 vide - ver  
 • exvidebil - evidente  
+vide bande - videoteipe  
 vidua - viúvo  
 violeta nil - purpúreo (roxo)  
 virge - virgem  

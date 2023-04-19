@@ -40,7 +40,8 @@ active (working; activate, enable, turn on, trigger) - ative
 actor (actress) - dramater  
 addition (extra) - maxaje  
 address - adres  
-adhesive bandage (band-aid, sticking plaster) - glute bande  
+adhesive bandage (band-aid, sticking plaster) - glute bandaje  
+adhesive tape - glute bande  
 adjective - sifa loge  
 administer (govern) - fa politi  
 admiral - bahai amirer  
@@ -121,7 +122,7 @@ alpaca - alpaka
 alphabet - zi seri  
 already (completed action) - fin  
 also (too, in addition) - a max  
-altar - puja meza  
+altar - puje meza  
 alter - altre  
 altruism - altrisme  
 alum - aluminaje  
@@ -595,8 +596,9 @@ buffet (smorgasbord) - bufe
 bugle (horn instrument) - laba  
 build (construct) - bine  
 building (structure) - bine  
-Bulgaria - Balgaria  
+Bulgaria - Bulgaria  
 bulletproof - dana sekur  
+bundle (bunch, sheaf) - faxe  
 bunk bed - ceng bede  
 bureaucracy - burokratia  
 Burkina Faso - Burkina Faso  
@@ -1105,11 +1107,11 @@ darling (honey) - ame jen
 darmstadtium - darmestadium  
 Darwinism - darvinisme  
 Darwinist - darviniste  
-data (numeric information) - data  
+data (numeric information) - date  
 data analysis - data fen lize  
 data processing - data cule  
-data table (matrix) - data table  
-database (databank) - data banke  
+data table (matrix) - date table  
+database (databank) - date banke  
 date - nen mes den  
 date fruit - tamar  
 daughter - doh  
@@ -1666,7 +1668,7 @@ forgive (pardon) - maf
 fork - forke  
 form (questionaire) - sual dokumen  
 form (shape, morph) - forme  
-formatting - kitabe forma  
+formatting - kitabe forme  
 fortress (castle, fort, stronghold) - burge  
 forum (public space) - forum  
 forward - to pro  
@@ -2294,7 +2296,7 @@ karate - karate
 karateka (practitioner of karate) - karater  
 Karnataka - Karnada  
 katana - katana  
-Kazakhstan - Qazaqe  
+Kazakhstan - Kazakestan  
 keep (preserve, conserve, retain, spare) - hafiz-  
 keeper (preserver) - hafizer  
 kelp - yepa alga  
@@ -2727,7 +2729,7 @@ meridian (line of longitude) - ging gola
 meronym - meronam  
 message - angil  
 message - misaje  
-messenger - angiler  
+messenger - misajer  
 messiah - mesi  
 messianic - mesi di  
 metal - metal  
@@ -3383,7 +3385,7 @@ piss (urinate) - pixe
 piss (urine) - pixe  
 pistol - pistol  
 piston - pompe tape  
-piston - puxa gi  
+piston - pulser  
 Pitcairn Islands - Pitkerne nesia  
 pixel - grafeme  
 pizza - piza  
@@ -3422,7 +3424,7 @@ pluck feathers - depena
 plug (stop with a plug) - fa tapa  
 Pluto (dwarf planet) - Pluton  
 plutonium - plutonium  
-pneumonia - pulmon tis  
+pneumonia - pulmonitis  
 pocket - jebe  
 pocketknife - jebe caku  
 podzol - hui darte  
@@ -3609,7 +3611,7 @@ put back (postpone) - pospoze
 put in (impose) - inpoze  
 pyramid - piram  
 pyrolatry - hogo puja  
-Qatar - Qatar  
+Qatar - Katar  
 qualify (define) - kalife  
 qualify (describe) - fa sifa  
 quality (property) - kalta  
@@ -3790,7 +3792,7 @@ rip current - tire dara
 rise (go up) - be gau  
 risk - riske  
 risky - riskike  
-ritual (ceremony, religious custom) - puja rite  
+ritual (ceremony, religious custom) - puje rite  
 river (stream) - rivo  
 river bank - rivo kinar  
 road sign - dau bano  
@@ -4142,8 +4144,8 @@ sodium - natre
 sofa (couch) - sofa  
 soft - naram  
 software (virtual device) - programaje  
-soil (dirt) - darti  
-soily (dirty) - darti di  
+soil (dirt, ground) - darte  
+soily (dirty) - dartike  
 solar system - sol sistem  
 soldier - ordu jen  
 solid - gati mate  
@@ -4274,7 +4276,6 @@ strengthen (reinforce) - fa lika
 stretch (extend) - long tire  
 stride (march) - grese  
 strip (peel) - tire yo pil  
-strip (ribbon) - faxe  
 strong - bala  
 strontium - estrontium  
 struggle (strife) - jihade  
@@ -4386,7 +4387,7 @@ tantalum - tantalium
 Tanzania - Tanzania  
 Taoism (Daoism) - dauisme  
 Taoist - dauiste  
-tape - tepe  
+tape measure - metre bande  
 tapioca - manioka fufu  
 tarif (tax, duty) - tarif  
 taste (flavor) - guste  
@@ -4430,7 +4431,7 @@ tell (narrate) - fa kata
 tellurium - telurium  
 Telugu - Telugu  
 temperature - terme  
-temple (shrine, place of worship) - pujakan  
+temple (shrine, place of worship) - pujekan  
 tempt (entice) - tenta  
 ten (deca-, 10) - des  
 ten thousand - des kilo  
@@ -4504,7 +4505,7 @@ thunderstorm - grom tufan
 Thursday - muxinden  
 Tibet - Bote  
 tick (mite) - akare  
-tie (fasten, bind, bandage) - bande  
+tie (fasten, bind; band, bandage, lace, ribbon, strip, tape) - bande  
 tie a knot - node  
 tiger - bagre  
 tight (tense) - tense  
@@ -4644,7 +4645,7 @@ twice - du mar
 twinkle (sparkle) - fa sing foto  
 two (2) - du  
 type (kind, sort, style, genre) - tipe  
-typewriter - kitabe gi  
+typewriter - kitabe maxin  
 
 ## U  
 
@@ -4744,6 +4745,7 @@ vice (deputy, alternative, substitute, replacement) - vise
 vice-president - vise prezidente  
 viceroy - vise reger  
 victory to Pandunia! - jai pandunia!  
+videotape - vide bande  
 Viet Nam - Viete  
 Vietnamese language (Viet) - viete baxe  
 view (vision) - vidaje  
@@ -4917,11 +4919,13 @@ workshop - karkan
 world - dunia  
 world language - dunia baxe  
 worm - verme  
-worship (adore; reveration, veneration) - puja  
+worship (adore; reveration, veneration) - puje  
 wow! (gee!) - va  
 wrap - lifafe  
 wrapping (envelope, covering) - lifafe  
 write (writing, text, script) - kitabe  
+writer (author) - kitabiste  
+writer (someone who writes) - kitaber  
 written character - grame  
 wrong (incorrect, erroneous, faulty) - galte di  
 

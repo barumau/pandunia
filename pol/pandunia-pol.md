@@ -148,7 +148,6 @@ andesite - andezyt
 Andora - Andora  
 angar - kotwica  
 angil - wiadomość  
-angiler - posłaniec (wysłannik)  
 Angola - Angola  
 angul - palec  
 angul marke -   
@@ -338,7 +337,6 @@ bala - silny
 balakan -   
 balata - siła  
 baldi - wiadro  
-Balgaria - Bułgaria  
 balon pexe - ryba rozdymkowata  
 baluta - dąb  
 baluta frute - żołądź  
@@ -346,7 +344,7 @@ bambu - bambus
 bamia -   
 ban - chleb  
 banana - banan  
-bande - związać, wiązać; zapiąć, zapinać  
+bande - związać (wiązać; zapiąć, zapinać; taśma)  
 bandaje - taśma; bandaż  
 banda - zespół (drużyna, grupa)  
 bandera - flaga, sztandar  
@@ -617,6 +615,7 @@ Budapexte -
 bufe - bufet (szwedzki stół)  
 buke - książka  
 bulbul - słowik  
+Bulgaria - Bułgaria  
 bum - wybuch (eksplozja)  
 bure - biuro, urząd  
 bural -   
@@ -803,17 +802,17 @@ daria -
 darike - ciekły (płynny)  
 dare tube - lejek  
 darmestadium - darmsztadt  
-darti - grunt (ziemia, próchnica)  
-darti di - ziemny (glebowy, gruntowy)  
+darte - grunt (ziemia, próchnica)  
+dartike - ziemny (glebowy, gruntowy)  
 darti hauer - nawóz  
 darvinisme - darwinizm  
 darviniste - darwinista  
-data - dane  
-data banke - baza danych (bank danych)  
+date - dane  
+date banke - baza danych (bank danych)  
+date table - tablioca, macierz  
 data cule -   
 data cule logia - informatyka  
 data fen lize -   
-data table - tablioca, macierz  
 dau - droga, szosa, ulica  
 dau bano -   
 dauisme - taoizm  
@@ -1246,7 +1245,7 @@ fatu -
 fatu di -   
 fatura - rachunek (faktura)  
 favor -   
-faxe - bandaż, taśma, wstążka  
+faxe -   
 faxisme - faszyzm  
 faxiste - faszysta  
 faxon - moda, trend  
@@ -1601,6 +1600,7 @@ glukogen -
 glukos -   
 glute - klej  
 glute bande -   
+glute bandaje -   
 gluten - gluten  
 glutike - lepki (kleisty)  
 glutive baxe -   
@@ -2268,6 +2268,7 @@ kata - opowiadanie, opowieść, legenda, saga
 kata ja -   
 Katalunia - Katalonia  
 katana -   
+Katar - Katar  
 katil - łóżko  
 katus - kaktus  
 Kaukasia - Kaukazja  
@@ -2275,6 +2276,7 @@ kauri - kauri
 kave - kopać (dół, jama)  
 • exkave -   
 kavai - uroczy, słodki  
+Kazakestan - Kazachstan  
 ke - co?  
 ke jen - co?  
 ke loka - gdzie?  
@@ -2338,9 +2340,11 @@ kisma - przeznaczenie, los
 kitabe - pismo, tekst  
 kitabe cule -   
 kitabeme -   
-kitabe forma - formatowanie  
-kitabe gi - maszyna do pisania  
+kitaber -   
+kitabe forme - formatowanie  
+kitabiste -   
 kitabekan - biblioteka  
+kitabe maxin - maszyna do pisania  
 kitabe minister - bibliotekarz  
 kivi - kiwi  
 kivi frute - owoc kiwi  
@@ -2923,6 +2927,7 @@ metal lin -
 metal mixure -   
 metal saner - kowal  
 metal tul -   
+metre bande -   
 metri - zmierzyć (miara)  
 metri gi -   
 metri unta - jednostka miary  
@@ -2993,6 +2998,7 @@ mirde - nikły
 • tramiser -   
 mise - wysłać (wyemitować)  
 misaje - wiadomość  
+misajer - posłaniec (wysłannik)  
 mision -   
 misioner - misjonarz  
 misal - przykład  
@@ -3745,38 +3751,36 @@ proxe - bliski
 • aproxe - zbliżać się (zbliżyć się)  
 proxia - bliskość  
 puding - puding  
-puja - cześć, szacunek  
-pujakan - świątynia  
-puja meza - ołtarz  
-puja rite - rytuał, ceremonia, ryt  
+puje - cześć, szacunek  
+pujekan - świątynia  
+puje meza - ołtarz  
+puje rite - rytuał, ceremonia, ryt  
 pul - pełny  
 pul ekran -   
 pul fina -   
 pul hau - perfekcyjny  
 pul xipi - namoczyć (marynować)  
 pulmon - płuco  
-pulmon tis -   
+pulmonitis -   
 pulse - pchnąć, pchać  
+pulser - tłok  
 puma - puma (kuguar)  
 punte - kropka (znak interpunkcyjny)  
 punte bano - tablica wyników  
 punte nume - wynik (punktacja)  
 pupe - lalka, kukiełka, pacynka, marionetka  
-konputeral -   
-putau - winogrono  
-putau bagi - winnica  
-putau orange - grejpfrut  
-pute - zgniły  
 pute -   
 • expute -   
 • inpute -   
 • konpute - policzyć (przetwarzać dane)  
 • konputer - komputer  
+konputeral -   
+putau - winogrono  
+putau bagi - winnica  
+putau orange - grejpfrut  
+pute - zgniły  
 putong - powszechny, uniwersalny  
 Putong Han - mandaryński chiński, Putonghua  
-puxa gi - tłok  
-Qatar - Katar  
-Qazaqe - Kazachstan  
 
 ## R  
 
@@ -4375,7 +4379,6 @@ tense -
 tenseta -   
 tenta - kusić, nakłonić, nakłaniać  
 teori - teoria  
-tepe - taśma  
 tere - terror  
 • detere -   
 terife -   
@@ -4687,6 +4690,7 @@ vide - patrzeć, widzieć
 • anprevide di - niespodziewany  
 • previde di - spodziewany (przewidziany)  
 vidaje - widok, wzrok  
+vide bande -   
 vider - obserwator (widz)  
 vide medan - pole widzenia  
 vide punte - perspektywa (punkt widzenia)  

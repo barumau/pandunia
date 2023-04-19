@@ -183,7 +183,6 @@ andesite - andesite
 Andora - Andorra  
 angar - anchor  
 angil - message  
-angiler - messenger  
 Angola - Angola  
 angul - finger (toe)  
 angul marke - fingerprint  
@@ -373,7 +372,6 @@ bala - strong
 balakan - gym (fitness center)  
 balata - force (strength, power)  
 baldi - bucket  
-Balgaria - Bulgaria  
 balon pexe - pufferfish  
 baluta - oak tree  
 baluta frute - acorn  
@@ -381,7 +379,7 @@ bambu - bamboo
 bamia - okra (okro)  
 ban - bread  
 banana - banana  
-bande - tie (fasten, bind, bandage)  
+bande - tie (fasten, bind; band, bandage, lace, ribbon, strip, tape)  
 bandaje - bandage  
 banda - band (squad, group)  
 bandera - flag (banner)  
@@ -652,6 +650,7 @@ Budapexte - Budapest
 bufe - buffet (smorgasbord)  
 buke - book  
 bulbul - nightingale  
+Bulgaria - Bulgaria  
 bum - explosion (blast, eruption)  
 bure - office (bureau)  
 bural - official (formal, bureaucratic)  
@@ -838,17 +837,17 @@ daria - body of water (sea, lake, river)
 darike - fluid (liquid)  
 dare tube - funnel  
 darmestadium - darmstadtium  
-darti - soil (dirt)  
-darti di - soily (dirty)  
+darte - soil (dirt, ground)  
+dartike - soily (dirty)  
 darti hauer - fertilizer  
 darvinisme - Darwinism  
 darviniste - Darwinist  
-data - data (numeric information)  
-data banke - database (databank)  
+date - data (numeric information)  
+date banke - database (databank)  
+date table - data table (matrix)  
 data cule - data processing  
 data cule logia - computer science  
 data fen lize - data analysis  
-data table - data table (matrix)  
 dau - way (road)  
 dau bano - road sign  
 dauisme - Taoism (Daoism)  
@@ -1281,7 +1280,7 @@ fatu - punishment (penalty)
 fatu di - penal (penetenciary)  
 fatura - bill (check, invoice)  
 favor - favor (goodwill)  
-faxe - strip (ribbon)  
+faxe - bundle (bunch, sheaf)  
 faxisme - fascism  
 faxiste - fascist  
 faxon - fashion (trend)  
@@ -1635,7 +1634,8 @@ glukin - glycine
 glukogen - glycogen  
 glukos - glucose  
 glute - glue (adhesive)  
-glute bande - adhesive bandage (band-aid, sticking plaster)  
+glute bande - adhesive tape  
+glute bandaje - adhesive bandage (band-aid, sticking plaster)  
 gluten - gluten  
 glutike - sticky (ahesive)  
 glutive baxe - agglutinative language  
@@ -2303,6 +2303,7 @@ kata - tale (story, legend, saga)
 kata ja - narrator  
 Katalunia - Catalonia  
 katana - katana  
+Katar - Qatar  
 katil - bed  
 katus - cactus  
 Kaukasia - Caucasia  
@@ -2310,6 +2311,7 @@ kauri - cowrie
 kave - dig (pit, cavity)  
 • exkave - excavate (dig out)  
 kavai - cute (sweet)  
+Kazakestan - Kazakhstan  
 ke - what?  
 ke jen - who?  
 ke loka - where?  
@@ -2372,9 +2374,11 @@ kisma - destiny (fate, lot, kismet)
 kitabe - write (writing, text, script)  
 kitabe cule - word processing  
 kitabeme - grapheme  
-kitabe forma - formatting  
-kitabe gi - typewriter  
+kitaber - writer (someone who writes)  
+kitabe forme - formatting  
+kitabiste - writer (author)  
 kitabekan - library  
+kitabe maxin - typewriter  
 kitabe minister - librarian  
 kivi - kiwi bird  
 kivi frute - kiwi fruit  
@@ -2956,6 +2960,7 @@ metal lin - wire
 metal mixure - alloy  
 metal saner - blacksmith (iron forger)  
 metal tul - hardware (ironware, equipment)  
+metre bande - tape measure  
 metri - measure (measurement)  
 metri gi - meter (measuring device)  
 metri unta - unit (measurement)  
@@ -3027,6 +3032,7 @@ mirde - faint (depending on context: soft, dull, mild, weak, slow, subtle)
 • tramiser - transmitter  
 mise - send (emit, transmit)  
 misaje - message  
+misajer - messenger  
 mision - mission (sending)  
 misioner - missionary  
 misal - example (instance of)  
@@ -3779,38 +3785,36 @@ proxe - close (near)
 • aproxe - approach (get close, approximate)  
 proxia - proximity  
 puding - pudding  
-puja - worship (adore; reveration, veneration)  
-pujakan - temple (shrine, place of worship)  
-puja meza - altar  
-puja rite - ritual (ceremony, religious custom)  
+puje - worship (adore; reveration, veneration)  
+pujekan - temple (shrine, place of worship)  
+puje meza - altar  
+puje rite - ritual (ceremony, religious custom)  
 pul - full (complete, saturated)  
 pul ekran - fullscreen  
 pul fina - complete (make done)  
 pul hau - perfect  
 pul xipi - soak (steep, marinate)  
 pulmon - lung  
-pulmon tis - pneumonia  
+pulmonitis - pneumonia  
 pulse - push  
+pulser - piston  
 puma - cougar (puma, mountain lion)  
 punte - point (period, full stop)  
 punte bano - scoreboard  
 punte nume - score (grade)  
 pupe - doll (puppet)  
-konputeral - digital (relating to computers)  
-putau - grape  
-putau bagi - vineyard  
-putau orange - grapefruit  
-pute - rotten  
 pute - reckon (calculate, put into a certain relation, state or condition)  
 • expute - output  
 • inpute - input   
 • konpute - compute (reckon together)  
 • konputer - computer  
+konputeral - digital (relating to computers)  
+putau - grape  
+putau bagi - vineyard  
+putau orange - grapefruit  
+pute - rotten  
 putong - common (general)  
 Putong Han - Mandarin Chinese (Putonghua)  
-puxa gi - piston  
-Qatar - Qatar  
-Qazaqe - Kazakhstan  
 
 ## R  
 
@@ -4410,7 +4414,6 @@ tense - tight (tense)
 tenseta - tension  
 tenta - tempt (entice)  
 teori - theory  
-tepe - tape  
 tere - fear (fright, terror)  
 • detere - deter (scare away)  
 terife - terrify  
@@ -4723,6 +4726,7 @@ vide - look (see)
 • anprevide di - unexpected  
 • previde di - expected  
 vidaje - view (vision)  
+vide bande - videotape  
 vider - spectator (sightseer, observer)  
 vide medan - visual field (field of vision)  
 vide punte - perspective (point of view)  

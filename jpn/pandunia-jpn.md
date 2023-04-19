@@ -318,11 +318,11 @@ dante - 咬む
 dante baluta - カシワ  
 dare tube - 漏斗  
 darmestadium - ダームスタチウム  
-darti - 土  
+darte - 土  
+date table - 表  
 data cule - データ処理  
 data cule logia - 計算機科学  
 data fen lize - データ解析  
-data table - 表  
 dau - 道  
 davaer - 医者  
 dava sui - ポーション (水薬)  
@@ -595,7 +595,7 @@ glukerol - グリセロール
 glukin - グリシン  
 glukogen - 糖原 (グリコーゲン)  
 glukos - 葡萄糖 (グルコース)  
-glute bande - 絆創膏  
+glute bandaje - 絆創膏  
 glutike - 粘い  
 glutize - 張る (付く)  
 gogia jen - 市民  
@@ -886,7 +886,9 @@ kio - 橋 (橋梁)
 kira - 賃貸  
 kisma - 運命 (宿命)  
 kitabeme - 書記素  
-kitabe forma - 書式付け  
+kitaber - 필경사  
+kitabe forme - 書式付け  
+kitabiste - 저자 (작가)  
 kitabekan - 図書館  
 kitabe minister - 図書係  
 kivi - キーウィ  
@@ -1408,16 +1410,16 @@ problem - 問題
 prometium - プロメチウム  
 protacinium - プロトアクチニウム  
 puding - プディング  
-pujakan - 神殿 (宮, 寺, 神社)  
+pujekan - 神殿 (宮, 寺, 神社)  
 pul ekran - フルスクリーン  
 pul xipi - 漬ける (締める)  
-pulmon tis - 肺炎  
+pulmonitis - 肺炎  
 puma - ピューマ (クーガー)  
 punte bano - スコアボード  
 punte nume - 得点 (点数)  
+• konputer - コンピュータ  
 putau bagi - 葡萄園  
 putau orange - グレープフルーツ  
-• konputer - コンピュータ  
 Putong Han - 普通話 (北京語)  
 
 ## R  
@@ -1761,6 +1763,7 @@ vespa - 蜂
 vespa nide - 蜂の巣  
 veste gorila - ニシゴリラ  
 • previde - 待ち受ける (見込む)  
+vide bande - ビデオテープ  
 vider - 見物人  
 vide punte - 遠近法 (見通し, 観点)  
 vidua - 寡婦  

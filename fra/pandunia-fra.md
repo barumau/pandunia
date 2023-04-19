@@ -109,7 +109,6 @@ andesite - andésite
 Andora - Andorre  
 angar - ancre  
 angil - message  
-angiler - messager  
 Angola - Angola  
 angul - doigt  
 angul marke - empreinte digitale  
@@ -260,6 +259,7 @@ bambu - bambou
 bamia - gombo  
 ban - pain  
 banana - banane  
+bande - ruban (bande)  
 bandaje - bandage  
 banda - bande  
 bandera - drapeau  
@@ -476,8 +476,8 @@ dante - mordre
 dante hin - édenté  
 dare tube - entonnoir  
 darmestadium - darmstadtium  
-data - données  
-data banke - base de données  
+date - données  
+date banke - base de données  
 data cule - traitement de données  
 data cule logia - informatique  
 dau bano - panneau de signalisation  
@@ -648,6 +648,7 @@ fatige - fatigue
 fatu - punicion  
 fatu di - pénal  
 fatura - addition (facture)  
+faxe - faisceau  
 faze - phase  
 fei - vol  
 fei muxu - chauve-souris  
@@ -806,7 +807,7 @@ glukerol - glycérol (glycérine
 glukin - glycine  
 glukogen - glycogène  
 glukos - glucose  
-glute bande - pansement (sparadrap)  
+glute bandaje - pansement (sparadrap)  
 glutike - adhésif (collant)  
 glutize - coller  
 gol - but (destination)  
@@ -1143,8 +1144,10 @@ kirate - carat
 kisma - destin  
 kitabe - écrire  
 kitabe cule - traitement de texte  
-kitabe gi - machine à écrire  
+kitaber - scribe  
+kitabiste - écrivain  
 kitabekan - bibliothèque  
+kitabe maxin - machine à écrire  
 kivi - kiwi  
 kivi frute - kiwi  
 klar - clair  
@@ -1422,6 +1425,7 @@ metil - méthyle
 metal bede - enclume  
 metal lin - fil de fer  
 metal mixure - alliage  
+metre bande - mètre ruban  
 • parametri - paramètre  
 meza - table  
 meza tela - nappe  
@@ -1457,6 +1461,7 @@ mirde - faible
 • tramiseon - transmisión  
 • tramiser - transmisor  
 misaje - message  
+misajer - messager  
 mision - misión  
 misioner - misionero  
 Misre - Égypte  
@@ -1811,18 +1816,18 @@ proxe - proche
 • aproxe - approcher  
 proxia - proximité  
 puding - pudding  
-pujakan - temple  
-puja meza - autel  
+pujekan - temple  
+puje meza - autel  
 pul - plein  
 pul fina - accomplir (terminer)  
 pul xipi - tremper (faire mariner)  
-pulmon tis - pneumonie  
+pulmonitis - pneumonie  
 puma - couguar (puma)  
+pute - compter (calculer)  
+• konputer - ordinateur  
 putau bagi - vignoble  
 putau orange - pamplemousse  
 pute - pourri  
-pute - compter (calculer)  
-• konputer - ordinateur  
 
 ## R  
 
@@ -2088,7 +2093,6 @@ tene - tenir
 • sutener - souteneur (maquereau)  
 tenesium - tennessine  
 tense - tendu  
-tepe - ruban (bande)  
 terife - terrifier  
 terurisme - terrorisme  
 terbium - terbium  
@@ -2236,6 +2240,7 @@ veze di - lourd
 veze metri gi - balance (poids)  
 vide - voir  
 • exvidebil - évident  
+vide bande - bande vidéo  
 vider - espectador  
 vidua - veuve  
 vilde - sauvage  

@@ -175,6 +175,7 @@ bambu - бамбук
 bamia - окра (бамия)  
 ban - хлеб  
 banana - банан  
+bande - лента  
 banda - банда  
 bandera - флаг  
 bang - булава (палица)  
@@ -386,8 +387,8 @@ dante baluta - дуб зубчатый
 dante hin - беззубый  
 dare tube - воронка  
 darmestadium - дармштадтий  
-data - данные  
-data banke - база данных  
+date - данные  
+date banke - база данных  
 data cule - обработка данных  
 data cule logia - информатика  
 dau bano - табличка с названием улицы  
@@ -690,7 +691,7 @@ glu grafi - наклейка
 glukerol - глицерин  
 glukogen - гликоген  
 glukos - глюкоза  
-glute bande - пластырь  
+glute bandaje - пластырь  
 glutike - клейкий (липкий)  
 glutize - клеиться  
 gol - цель  
@@ -1008,8 +1009,10 @@ kira - аренда
 kira kape - арендовать  
 kisma - судьба (кисмет)  
 kitabe - письмо  
-kitabe gi - пишущая машинка  
+kitaber - писарь (писец)  
+kitabiste - писатель  
 kitabekan - библиотека  
+kitabe maxin - пишущая машинка  
 kitabe minister - библиотекарь  
 kivi - киви  
 kivi frute - киви  
@@ -1265,6 +1268,7 @@ metanol - метанол
 metil - метил  
 metal bede - наковальня  
 metal mixure - сплав  
+metre bande - метр (мерная лента)  
 • parametri - параметр (аргумент)  
 meza - стол  
 meza tela - скатерть  
@@ -1614,16 +1618,16 @@ Promete - Прометей
 prometium - прометий  
 protacinium - протактиний  
 puding - пудинг  
-pujakan - храм (место богослужения)  
-puja meza - алтарь  
+pujekan - храм (место богослужения)  
+puje meza - алтарь  
 pul - полный  
 pul xipi - мариновать  
-pulmon tis - пневмония (воспаление лёгких)  
+pulmonitis - пневмония (воспаление лёгких)  
 puma - пума (кугуар)  
 punte nume - оценка  
+• konputer - компьютер  
 putau bagi - виноградник  
 putau orange - грейпфрут  
-• konputer - компьютер  
 
 ## R  
 
@@ -1886,7 +1890,6 @@ tema nam - название (пьесы, заголовок)
 • sutener - сутенёр  
 tenesium - теннессин  
 tense - тугой  
-tepe - лента  
 terurisme - терроризм  
 terbium - тербий  
 terca - косой  
@@ -2017,6 +2020,7 @@ veste gorila - западная горилла
 veze di - тяжёлый  
 vide - видеть  
 • exvidebil - очевидный  
+vide bande - видеоплёнка  
 vider - зрительница  
 vide punte - перспектива (точки зрения)  
 vidua - вдова  

@@ -202,7 +202,7 @@ aubergine - bedingan
 augmenter - auge  
 Australie - Australia  
 Austronésie - Austronesia  
-autel - puja meza  
+autel - puje meza  
 auteur - auter  
 autocollant - glu grafi  
 automatique - autatike  
@@ -249,6 +249,7 @@ banane - banana
 bandage - bandaje  
 bande - banda  
 bande dessinée - grafe kata  
+bande vidéo - vide bande  
 Bangladesh - Bangla gogia  
 banque - bankekan  
 banquier - banker  
@@ -263,7 +264,7 @@ baryum - barium
 bas - dipe  
 base (alcali; basique) - kali  
 base - baze  
-base de données - data banke  
+base de données - date banke  
 baseball - baze bol  
 basique - kali di  
 basketball - baske bol  
@@ -697,7 +698,7 @@ domestiquer (apprivoiser) - fa dosil gene
 domestiqué (apprivoisé) - dosil gene di  
 dommage - avar  
 donner - don  
-données - data  
+données - date  
 dormir - be sona  
 double - duple  
 douche - dux  
@@ -822,6 +823,7 @@ faim - yam yau
 faire (fait) - fete  
 faire - fa  
 faire confiance (espérer, croire qqn./qqch., avoir la foi) - amen  
+faisceau - faxe  
 faiseur (facteur) - feter  
 fan - fan  
 fanal (balise) - foto minar  
@@ -1246,7 +1248,7 @@ lézard - saur
 ## M  
 
 machine - makin  
-machine à écrire - kitabe gi  
+machine à écrire - kitabe maxin  
 magma - pasta petra  
 magnésium - magenium  
 mah-jong - majang  
@@ -1319,7 +1321,7 @@ merveille - ajabe
 merveille - mirebil  
 message - angil  
 message - misaje  
-messager - angiler  
+messager - misajer  
 messie - mesi  
 mettre (placer) - lokize  
 meule - molite  
@@ -1387,6 +1389,7 @@ mythe - deokata
 mât - masta  
 mère (maman) - ma  
 mètre - mitre  
+mètre ruban - metre bande  
 mécanique - makinike  
 mécaniser - makinize  
 médaille - medal  
@@ -1558,7 +1561,7 @@ pandémie - pandemike pate
 paneuropéen - paneuropan  
 panier (panier de basketball) - baske  
 panneau de signalisation - dau bano  
-pansement (sparadrap) - glute bande  
+pansement (sparadrap) - glute bandaje  
 pantalon - pante  
 pantomime - panmime  
 pantoufle (babouche) - babuce  
@@ -1680,7 +1683,7 @@ plurilingue (multilingue) - polibaxike
 plurilingue (multilingue) - polibaxike  
 plus - max  
 plutonium - plutonium  
-pneumonie - pulmon tis  
+pneumonie - pulmonitis  
 poche - jebe  
 pocion - dava sui  
 podzol - hui darte  
@@ -1883,7 +1886,7 @@ roulette - rulete
 routeur - rutizer  
 royal - regal  
 royaume - regia  
-ruban (bande) - tepe  
+ruban (bande) - bande  
 rubidium - rubium  
 rubis - rubi bau seku  
 ruche (nid d'abeille) - vespa nide  
@@ -1968,6 +1971,7 @@ scie - xara
 scierie - xarakan  
 sciure - xarafun  
 scorpion - akrabe  
+scribe - kitaber  
 sculpteur - eskulter  
 scutelle - oste xalke  
 se - se  
@@ -2087,7 +2091,7 @@ technologie - tehnologia
 technétium - tehnetium  
 tectonique des plaques - plate geo kaskelogia  
 tellure - telurium  
-temple - pujakan  
+temple - pujekan  
 temps - zaman  
 tendance - klin  
 tender - long tire  
@@ -2332,6 +2336,7 @@ zéro - siro
 écorce - tire yo pil  
 écran - eskran  
 écrire - kitabe  
+écrivain - kitabiste  
 écureuil - lixu  
 édenté - dante hin  
 éducation - xule  

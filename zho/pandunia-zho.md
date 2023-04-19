@@ -355,11 +355,11 @@ Danske - 丹麦的
 dante - 咬  
 dante baluta - 槲树  
 dare tube - 漏斗  
-data - 数据  
-data banke - 数据库  
+date - 数据  
+date banke - 数据库  
+date table - 表格  
 data cule - 数据处理  
 data cule logia - 计算机科学  
-data table - 表格  
 dava sui - 药水  
 dava xe - 药物  
 dava xekan - 药店  
@@ -494,6 +494,7 @@ fase area - 面积
 fase tele - 深  
 fatu - 惩罚  
 fatura - 帐单  
+faxe - 捆 (包)  
 fei gi tikete - 飞机票  
 feke - 粪  
 fen - 部分  
@@ -621,7 +622,7 @@ glukerol - 甘油 ( 丙三醇)
 glukin - 甘氨酸  
 glukogen - 糖原  
 glukos - 葡萄糖  
-glute bande - 创可贴 (邦迪)  
+glute bandaje - 创可贴 (邦迪)  
 glutike - 黏的  
 gogia jen - 公民  
 gol - 目的  
@@ -913,8 +914,10 @@ kio - 桥
 kisma - 命運  
 kitabe - 写  
 kitabe cule - 文字处理 (字处理)  
-kitabe gi - 打字机  
+kitaber - 抄写员  
+kitabiste - 作家 (作者)  
 kitabekan - 图书馆  
+kitabe maxin - 打字机  
 kivi - 无翼鸟  
 kivi frute - 奇异果 (猕猴桃)  
 klien - 顾客  
@@ -1142,6 +1145,7 @@ metal bede - 铁砧
 metal lin - 线 (铁丝)  
 metal mixure - 合金  
 metal saner - 铁匠  
+metre bande - 卷尺 (皮尺)  
 • parametri - 参数  
 meza - 桌子  
 meza tela - 桌布  
@@ -1442,15 +1446,15 @@ problem - 问题 (难题)
 prometium - 钷  
 protacinium - 镤  
 puding - 布丁  
-pujakan - 寺庙  
-puja meza - 圣坛  
+pujekan - 寺庙  
+puje meza - 圣坛  
 pul fina - 完成  
 pul xipi - 浸泡  
-pulmon tis - 肺炎  
+pulmonitis - 肺炎  
 puma - 美洲獅 (山狮)  
+• konputer - 计算机  
 putau bagi - 葡萄园  
 putau orange - 葡萄柚  
-• konputer - 计算机  
 putong - 普通  
 Putong Han - 普通话  
 
@@ -1784,6 +1788,7 @@ veruke - 疣
 vespa - 蜂  
 veze di - 重型的  
 vide - 看  
+vide bande - 录像带  
 vidua - 寡妇  
 vijin - 味精  
 virge - 处女  

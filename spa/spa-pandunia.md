@@ -70,7 +70,7 @@ adiós - sal cute
 adjetivo - sifa loge  
 admirar - amire  
 adoquín - bolite  
-adoración (veneración, culto) - puja  
+adoración (veneración, culto) - puje  
 adormidera (amapola real) - sona papi  
 adulterio - zina  
 adulto - ceng jen  
@@ -163,7 +163,7 @@ alquilar (arrendar, tomar en arriendo) - kira kape
 alquiler (arriendo) - kira  
 alquilo - alkil  
 alquino - alkin  
-altar - puja meza  
+altar - puje meza  
 alterar - altre  
 alternar (interactuar) - fa sosi  
 alto (parte de arriba) - gau  
@@ -337,7 +337,7 @@ asunto (caso) - sual tema
 asustador - fobive  
 asustar (atemorizar) - fobife  
 atalaya (vigía, garita) - garde tor  
-atar (amarrar) - bande  
+atar (amarrar; cinta, faja, tira, vendaje) - bande  
 Atenas - Athina  
 ateo - andeiste  
 aterrar - terife  
@@ -406,7 +406,7 @@ baloncesto (básquetbol) - baske bol
 bambú - bambu  
 banco (silla) - benci  
 banco - bankekan  
-banco de datos (base de datos) - data banke  
+banco de datos (base de datos) - date banke  
 banda (cinta) - bandaje  
 banda - banda  
 bandera - bandera  
@@ -535,7 +535,7 @@ buenos días - sal suba
 bufanda (chal) - xal  
 bufé - bufe  
 bufón - bobo  
-Bulgaria - Balgaria  
+Bulgaria - Bulgaria  
 burbuja (pompa) - xiu bol  
 Burkina Faso - Burkina Faso  
 burocracia - burokratia  
@@ -699,7 +699,7 @@ Castilla - Kastilia
 castillo (fortaleza) - burge  
 castor - bibre  
 Cataluña - Katalunia  
-Catar (Qatar) - Qatar  
+Catar (Qatar) - Katar  
 cauri - kauri  
 causar - fa sabu  
 cavar (fosa) - kave  
@@ -798,7 +798,9 @@ cima (pico, cumbre, vértice) - xan pike
 cinc - zinke  
 cinco (5) - lima  
 cinta (cinta para el pelo) - kexa bande  
-cinta adhesiva - tepe  
+cinta adhesiva - glute bande  
+cinta de video - vide bande  
+cinta métrica - metre bande  
 cinturón (zona) - zone  
 cinético - motike  
 circo - sirkus  
@@ -1077,7 +1079,7 @@ cuna - lala bede
 cupón (vale) - kupon  
 curar (sanar) - dava  
 curio - kurium  
-curita (apósito) - glute bande  
+curita (apósito) - glute bandaje  
 curri - kari  
 curva - kurva  
 curvo - kurva di  
@@ -1113,7 +1115,7 @@ dar - don
 darmstatio - darmestadium  
 darwinismo - darvinisme  
 darwinista - darviniste  
-datos - data  
+datos - date  
 dañado - avarike  
 dañar - avarize  
 dañino (perjudicial) - avarive  
@@ -1437,7 +1439,9 @@ escenario (podio, estrado, tarima) - tai
 escoba - jaru  
 Escocia - Skotia  
 escorpión (alacrán) - akrabe  
+escriba - kitaber  
 escribir - kitabe  
+escritor - kitabiste  
 escritorio (mesa de trabajo) - karm eza  
 escuchar (oír) - fa ore  
 escudo - defe bano  
@@ -1630,7 +1634,7 @@ fono (segmento acústico) - fone
 fonología - fonologia  
 forma (figura, morfo) - forme  
 formar - formize  
-formateo - kitabe forma  
+formateo - kitabe forme  
 formulario - sual dokumen  
 foro (espacio público) - forum  
 forzar (usar fuerte, imponer, coaccionar) - pake  
@@ -1854,6 +1858,7 @@ hasio - hesium
 hasta (también) - hata di  
 hasta - hata  
 Hawái - Havai  
+haz (fajo) - faxe  
 hebra (fibra) - lin so  
 hebreo - ibri  
 heces - feke  
@@ -2184,7 +2189,7 @@ karate - karate
 karité - karite  
 Karnataka - Karnada  
 katana - katana  
-Kazajistán (Kazakistan) - Qazaqe  
+Kazajistán (Kazakistan) - Kazakestan  
 kelp - yepa alga  
 kelvin - kelvin  
 Kenia - Kenya  
@@ -2523,7 +2528,7 @@ menor (leve) - minike
 menos - min  
 mensaje - angil  
 mensaje - misaje  
-mensajero - angiler  
+mensajero - misajer  
 menta - minte  
 menta acuática - sui minta  
 mental (psíquico) - ruhu di  
@@ -2675,7 +2680,7 @@ muy - tre
 Myanmar (Birmania) - Mianma  
 máquina (dispositivo, aparato) - gi  
 máquina - makin  
-máquina de escribir - kitabe gi  
+máquina de escribir - kitabe maxin  
 más - max  
 más tarde - a pos  
 máscara - maske  
@@ -3323,7 +3328,7 @@ puerto marítimo - bahai porto
 Puerto Rico - Portoriko  
 puertorriqueño - portoriko jen  
 pulir (lustrar) - lumize  
-pulmonía (neumonía) - pulmon tis  
+pulmonía (neumonía) - pulmonitis  
 pulmón - pulmon  
 pulpo - ohtopus  
 puma - puma  
@@ -3506,7 +3511,7 @@ ring - ringar
 rinoceronte - kargadan:  
 rio - rivo  
 ritmo - ritim  
-rito (ceremonia) - puja rite  
+rito (ceremonia) - puje rite  
 riñon - nefre  
 robar (hurtar) - fa cori  
 roble - baluta  
@@ -3762,7 +3767,7 @@ subestimar - fa min rai
 subir (alzar) - be gau  
 subterráneo - geo nice di  
 subtítulos - nice kitabe  
-sucio - darti di  
+sucio - dartike  
 sucio - ansafe  
 Sudamérica - Sude Amerika  
 sudor - sueda  
@@ -3810,7 +3815,7 @@ sólido - gati mate
 
 tabaco - tabake  
 tabla (lámina, plancha) - table  
-tabla - data table  
+tabla - date table  
 tabla con pinza (carpeta con sujetapapeles) - pinse bano  
 tablet - table komputa  
 tablón - moka bano  
@@ -3874,7 +3879,7 @@ telurio - telurium
 tema (tratar de) - tema  
 temer - be fobi  
 temperatura - terme  
-templo - pujakan  
+templo - pujekan  
 tenedor - forke  
 tener (mantener, detener) - tene  
 tener - ha  
@@ -3914,7 +3919,7 @@ teísta - deiste
 tiburón - xayu  
 tiempo (era, periodo, época) - zaman  
 tienda (comercio) - dukan  
-tierra (barro) - darti  
+tierra (barro) - darte  
 tierra - gee  
 Tierra - Geia  
 tigre - bagre  
@@ -3925,7 +3930,6 @@ Timor Oriental - Dong Timor
 tinta - kalam sui  
 tinte - rang mate  
 tipi - tipi  
-tira (faja, vendaje, cinta) - faxe  
 tirano (déspota) - zalimer  
 tirar (lanzar, echar, arrojar, aventar) - lanse  
 tirar - tire  

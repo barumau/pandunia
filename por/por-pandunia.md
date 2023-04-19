@@ -65,7 +65,7 @@ aligátor (jacaré) - korte krokodil
 alma (espírito) - anime  
 almirante - bahai amirer  
 alquila - alkil  
-altar - puja meza  
+altar - puje meza  
 alterar - alife  
 alterar - altre  
 altruísmo - altrisme  
@@ -192,7 +192,7 @@ bambu - bambu
 banana - banana  
 bancarrota (falido) - bankrute  
 banco - bankekan  
-banco de dados - data banke  
+banco de dados - date banke  
 bando - banda  
 banqueiro - banker  
 barba - barde  
@@ -542,7 +542,7 @@ cúrio - kurium
 ## D  
 
 dado - zar kube  
-dados - data  
+dados - date  
 damas - dama geme  
 damasco (abricó, ameixa) - briko  
 dano (avaria) - avar  
@@ -688,6 +688,8 @@ escorpião (lacrau) - akrabe
 escova de cabelo - kexa broxa  
 escovinha (centáurea) - nil kentaur hua  
 escrevere - kitabe  
+escriba - kitaber  
+escritor - kitabiste  
 escritório (birô) - bure  
 escudo - defe bano  
 escudo - oste xalke  
@@ -790,6 +792,8 @@ filho ou filha - ben
 filosofia - filsofe  
 fiorde - fiorde  
 fisiculturismo - muskul bina  
+fita - bande  
+fita métrica - metre bande  
 flecha (seta) - flece  
 fleróvio - flerovium  
 flor - hua  
@@ -1269,7 +1273,7 @@ multilíngue (plurilíngue) - polibaxike
 mundo - dunia  
 mundo das fadas (paraíso) - paristan  
 muro (muralha) - mur  
-máquina de escrever - kitabe gi  
+máquina de escrever - kitabe maxin  
 mármore - kalsobilor  
 máscara - maske  
 máximo - maximaje  
@@ -1458,7 +1462,7 @@ peixe - pexe
 pele - pil  
 pena - pena kalam  
 penal - fatu di  
-penso (band-aid) - glute bande  
+penso (band-aid) - glute bandaje  
 pepino - hiyar  
 pepino-africano (kiwano) - korne melon  
 pepino-do-mar (holotúrias) - bahai hiyar  
@@ -1504,7 +1508,7 @@ platina - platin
 pluma (pena) - pena  
 plutónio - plutonium  
 plástico - plastike  
-pneumonia  - pulmon tis  
+pneumonia  - pulmonitis  
 Polinésia - Polinesia  
 poluição - najis  
 polvo - ohtopus  
@@ -1873,7 +1877,7 @@ telhado - cati
 telúrio - telurium  
 temer - be fobi  
 tempero - masala  
-templo - pujakan  
+templo - pujekan  
 tempo - zaman  
 temporal (toró) - dai barxa  
 tendência - klin  
@@ -2011,6 +2015,7 @@ verão - garma mosim
 vestir - fukize  
 vez - mar  
 vice-rei - vise reger  
+videoteipe - vide bande  
 vidro - glas  
 vigia (sentinela) - garder  
 vinhedo - putau bagi  

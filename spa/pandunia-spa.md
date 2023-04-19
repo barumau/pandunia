@@ -133,7 +133,6 @@ andesite - andesita
 Andora - Andorra  
 angar - ancla  
 angil - mensaje  
-angiler - mensajero  
 Angola - Angola  
 angul - dedo  
 angul marke - huella digital  
@@ -301,7 +300,6 @@ bala - fuerte
 • anbala - débil  
 balata - fuerza  
 baldi - balde (cubo)  
-Balgaria - Bulgaria  
 balon pexe - pez globo  
 baluta - roble  
 baluta frute - bellota  
@@ -309,7 +307,7 @@ bambu - bambú
 bamia - ocra  
 ban - pan  
 banana - plátano (banana)  
-bande - atar (amarrar)  
+bande - atar (amarrar; cinta, faja, tira, vendaje)  
 bandaje - banda (cinta)  
 banda - banda  
 bandera - bandera  
@@ -541,6 +539,7 @@ buda - cabina (garita)
 bufe - bufé  
 buke - libro  
 bulbul - ruiseñor  
+Bulgaria - Bulgaria  
 bum - explosión (estallado)  
 bure - oficina  
 bural - oficial (formal, protocolario)  
@@ -700,16 +699,16 @@ daria - cuerpo de agua
 darike - líquido (fluido)  
 dare tube - embudo  
 darmestadium - darmstatio  
-darti - tierra (barro)  
-darti di - sucio  
+darte - tierra (barro)  
+dartike - sucio  
 darvinisme - darwinismo  
 darviniste - darwinista  
-data - datos  
-data banke - banco de datos (base de datos)  
+date - datos  
+date banke - banco de datos (base de datos)  
+date table - tabla  
 data cule - procesamiento de datos  
 data cule logia - informática (computación)  
 data fen lize - análisis de datos  
-data table - tabla  
 dau - camino (calle)  
 dau bano - señal de tránsito  
 dauisme - taoísmo  
@@ -1081,7 +1080,7 @@ fatige - fatiga
 fatu - castigo  
 fatu di - penal (penetenciario)  
 fatura - cuenta (factura)  
-faxe - tira (faja, vendaje, cinta)  
+faxe - haz (fajo)  
 faxisme - fascismo  
 faxiste - fascista  
 faxon - moda (tendencia)  
@@ -1369,7 +1368,8 @@ glukin - glicina
 glukogen - glucógeno  
 glukos - glucosa  
 glute - pegamento (pega, goma)  
-glute bande - curita (apósito)  
+glute bande - cinta adhesiva  
+glute bandaje - curita (apósito)  
 gluten - gluten  
 glutike - pegajoso (adhesivo)  
 glutize - pegar  
@@ -1938,6 +1938,7 @@ kasu - acontecimiento (caso, suceso, evento)
 kata - historia (cuento, relato, leyenda)  
 Katalunia - Cataluña  
 katana - katana  
+Katar - Catar (Qatar)  
 katil - cama (lecho)  
 katus - cacto  
 Kaukasia - Cáucaso  
@@ -1945,6 +1946,7 @@ kauri - cauri
 kave - cavar (fosa)  
 • exkave - excavar  
 kavai - lindo (precioso)  
+Kazakestan - Kazajistán (Kazakistan)  
 ke - qué  
 ke jen - quién  
 ke loka - dónde  
@@ -2003,9 +2005,11 @@ Kiril zi - alfabeto cirílico
 kisma - destino  
 kitabe - escribir  
 kitabeme - grafema  
-kitabe forma - formateo  
-kitabe gi - máquina de escribir  
+kitaber - escriba  
+kitabe forme - formateo  
+kitabiste - escritor  
 kitabekan - biblioteca  
+kitabe maxin - máquina de escribir  
 kitabe minister - bibliotecario  
 kivi - kiwi  
 kivi frute - kiwi fruta  
@@ -2494,6 +2498,7 @@ metal lin - alambre (hilo)
 metal mixure - aleación  
 metal saner - herrero  
 metal tul - ferretería  
+metre bande - cinta métrica  
 metri - medir (medida)  
 metri gi - medidor  
 metri unta - unidad (medida)  
@@ -2558,6 +2563,7 @@ mirde - ligero (leve, vago, débil, borroso)
 • tramiser - transmissor  
 mise - enviar (transmitar)  
 misaje - mensaje  
+misajer - mensajero  
 mision - missão  
 misioner - missionário  
 misal - ejemplo  
@@ -3192,34 +3198,32 @@ proxe - próximo
 • aproxe - aproximar  
 proxia - proximidad  
 puding - pudín  
-puja - adoración (veneración, culto)  
-pujakan - templo  
-puja meza - altar  
-puja rite - rito (ceremonia)  
+puje - adoración (veneración, culto)  
+pujekan - templo  
+puje meza - altar  
+puje rite - rito (ceremonia)  
 pul - lleno (completo)  
 pul ekran - pantalla completa  
 pul fina - completar (terminar)  
 pul hau - perfecto  
 pul xipi - remojar (marinar, encurtir, macerar)  
 pulmon - pulmón  
-pulmon tis - pulmonía (neumonía)  
+pulmonitis - pulmonía (neumonía)  
 pulse - empujar (presionar)  
 puma - puma  
 punte - punto  
 punte bano - marcador  
 punte nume - puntuación (resultado)  
 pupe - marioneta (títere)  
+pute - contar (calcular)  
+• konpute - calcular (computar)  
+• konputer - computadora (ordenador)  
 putau - uva  
 putau bagi - viñedo  
 putau orange - pomelo (toronja)  
 pute - podrido (cariado)  
-pute - contar (calcular)  
-• konpute - calcular (computar)  
-• konputer - computadora (ordenador)  
 putong - general (common)  
 Putong Han - chino mandarín  
-Qatar - Catar (Qatar)  
-Qazaqe - Kazajistán (Kazakistan)  
 
 ## R  
 
@@ -3750,7 +3754,6 @@ tenis - tennis
 tense - tenso  
 tenta - tentar (seducir)  
 teori - teoría  
-tepe - cinta adhesiva  
 tere - terror  
 terife - aterrar  
 terur - terror  
@@ -4000,6 +4003,7 @@ vide - ver (mirar)
 • exvidebil - evidente  
 • previde - prever (esperar, pensar)  
 vidaje - vista (visión)  
+vide bande - cinta de video  
 vider - espectador  
 vide medan - campo de visión  
 vide punte - perspectiva (punto de vista)  
