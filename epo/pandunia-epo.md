@@ -579,7 +579,6 @@ fa fei - flugi
 fa fokus - koncentri  
 fa gola - ĉirkaŭi  
 fa hava - venti  
-fa hisabu - kalkuli  
 fa kai - malfermi  
 fa kata - rakonti  
 fa lai - alporti (venigi)  
@@ -809,6 +808,8 @@ haha - ridi
 haide - ni faru...  
 haima - tendo  
 Haiti - Haitio  
+haje - pilgrimo  
+hajer - pilgrimanto  
 haki - polvo  
 haku - rajto  
 hal - stato  
@@ -880,6 +881,7 @@ hindisme - hinduismo
 hindiste - hinduo  
 hindium - indio  
 Hinde rivo - Induso  
+hisabe - kalkuli  
 hisabe - kalkuli  
 hisabu loge - konto  
 histor - historio  
@@ -1300,7 +1302,7 @@ makas - tondilo
 makin - maŝino  
 makinike - meĥanika  
 makiniste - meĥaniko (maŝinisto)  
-malike - havanto  
+maler - havanto  
 malonomia - ekonomiko  
 Mali - Malio  
 mame - mamo  
@@ -1789,7 +1791,6 @@ safife - purigi
 safer - purigisto  
 safta - pureco  
 safar - vojaĝi  
-safar - vojaĝo  
 safarer - vojaĝanto  
 safran - safrano  
 sah - horo  

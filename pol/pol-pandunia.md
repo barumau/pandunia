@@ -364,6 +364,8 @@
  - guku hua  
  - habar letre  
  - habar media  
+ - haje  
+ - hajer  
  - haki rang  
  - halal liste  
  - han guaner  
@@ -593,6 +595,7 @@
  - makinike  
  - makiniste  
  - makinize  
+ - malike  
  - maltos  
  - mama  
  - mame  
@@ -1335,7 +1338,7 @@ Andy - Andes
 anemia - anhemia  
 Anglia - Englix  
 Anglik; angielski - englix di  
-anglizować (zanglizować) - fa englix kitabe  
+anglizować (zanglizować) - eglixife  
 anglofil - englix filiste  
 Angola - Angola  
 animacja - animaje  
@@ -2313,7 +2316,7 @@ kalendarz - kalende
 kalif - halife  
 kalifat - halifia  
 kaliforn - kalifornium  
-kalkulować - fa hisabu  
+kalkulować - hisabe  
 Kambodża - Kambodia  
 kamera, aparat fotograficzny - fotografe gi  
 Kamerun - Kamerun  
@@ -3404,9 +3407,8 @@ poddać się, poddawać się, podporządkować się, podporządkowywać się, ul
 podnosić (podnieść) - gauize  
 podobny (analogiczny) - sam sifa di  
 podpis (autograf) - nam kitabe  
-podróż - safar  
 podróżnik - safarer  
-podróżować - safar  
+podróżować (podróż) - safar  
 podstawa, baza, fundament - baze  
 poduszka - kuxen  
 podwajać (podwoić, pomnożyć przez dwa) - duple  
@@ -4672,7 +4674,7 @@ węzeł, zupeł - node
 władać, panować, rządzić jako imperator - impere  
 władca - sultaner  
 własność (mienie) - mal  
-właściciel (posiadacz) - malike  
+właściciel (posiadacz) - maler  
 właściwy, poprawny - sahi  
 właśnie, dopiero co, ostatnio, niedawno - a neu  
 włos - kexa  

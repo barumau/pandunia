@@ -460,7 +460,7 @@ enemmistö - maxia
 enemmistö- - maxike  
 enemmän (myös, lisäksi, plus) - max  
 energia - energia  
-englannistaa - fa englix kitabe  
+englannistaa - eglixife  
 Englanti - Englix  
 englanti - englix di  
 englantia puhuva (anglofoni) - englix fon di  
@@ -1808,7 +1808,7 @@ lasi - glas
 lasite (emali) - glasure  
 lasittaa - glasife  
 laskea (lasku, laskelma) - hisabe  
-laskea (tehdä laskutoimitus) - fa hisabu  
+laskea (tehdä laskutoimitus) - hisabe  
 laskea tasoa - dus gradu  
 laskeutua portaita - detrepe  
 lasku (faktuura) - fatura  
@@ -2152,7 +2152,6 @@ matekasvi - mate
 matemaatikko - numologer  
 matematiikka (matikka) - numologia  
 materialismi - madisme  
-matka (reissu) - safar  
 matkailija - safarer  
 matkaopas (opaskirja) - gide buke  
 matkatavarat - bagaje  
@@ -2160,7 +2159,7 @@ matkašekki - safar ceke
 matkia (imitoida) - mime  
 matkia (jäljitellä) - fa sam sifa  
 matkija (imitaattori) - mimer  
-matkustaa - safar  
+matkustaa (matka, reissu) - safar  
 mato - verme  
 matta - foto mata di  
 matti (šakkimatti) - xah mata  
@@ -2582,12 +2581,13 @@ olla yhtä kuin - be par
 olut (kalja) - bir  
 oma (-nsa) - se su  
 oma (henkilökohtainen, yksityinen, privaatti) - prive  
+oma (jlkn kuuluva) - malike  
 omaisuus - mal  
 Oman - Oman  
 omena - aple  
 omenasose - aple sos  
 omistaa - mal  
-omistaja (pitäjä, hallussapitäjä) - malike  
+omistaja (pitäjä, hallussapitäjä) - maler  
 ommella - kosi  
 ongelma - problem  
 ongelmallinen - problem di  
@@ -3051,6 +3051,8 @@ puutarhalapio - bagi bele
 puuteri - muka fun  
 puuttua (ilman, vailla) - hin  
 puuvilla - goton  
+pyhiinvaellus - haje  
+pyhiinvaeltaja - hajer  
 pyhä (kielletty, tabu, haram) - haram  
 pyhä - sante  
 pyhä kirja (pyhät kirjoitukset) - sante kanon  

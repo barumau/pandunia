@@ -487,7 +487,6 @@ fa aroma - cheirar
 fa asar - efetuar  
 fa fatu - punir (castigar)  
 fa fei - voar  
-fa hisabu - calcular  
 fa hogo - queimar  
 fa kux - deitar  
 fa lai - trazer  
@@ -678,6 +677,8 @@ habar letre - boletim de notícias
 Habaxa - Abissínia  
 hafenium - háfnio  
 haha - rir  
+haje - peregrinagem  
+hajer - peregrino  
 haki - pó  
 haki rang - cáqui  
 haku - direito  
@@ -738,6 +739,7 @@ Hinde rivo - Indo
 hinde sos - chetnim  
 hipoglukohemia - hipoglicemia  
 hipohemopresia - hipotensão  
+hisabe - calcular  
 hisabu loge - conta  
 hiyar - pepino  
 hobiiste - amador  

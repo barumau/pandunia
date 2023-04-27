@@ -434,7 +434,6 @@ fa ding - 定める (決する, 決定する)
 fa dosil - 馴らす  
 fa fatu - 罰する  
 fa fei - 飛ぶ  
-fa hisabu - 計算する  
 fa hogo - 燃やす  
 fa jang - 戦う  
 fa jui - 戒める (諭す)  
@@ -631,6 +630,7 @@ habar letre - ニュースレター
 Habaxa - アビシニア  
 hafenium - ハフニウム  
 haha - 笑う  
+haje - 巡礼  
 haki rang - カーキ色  
 haku - 権利  
 hal - 状態  
@@ -681,6 +681,7 @@ Hinde rivo - インダス川
 hinde sos - チャツネ  
 hipoglukohemia - 低血糖  
 hipohemopresia - 低血圧  
+hisabe - 計算する  
 hisabu loge - 口座  
 hiyar - キュウリ  
 hobiiste - アマチュア  

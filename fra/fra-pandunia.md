@@ -382,7 +382,7 @@ calame - gana kalam
 calcaire - kalsopetre  
 calcite - kalsite  
 calcium - kalsium  
-calculer - fa hisabu  
+calculer - hisabe  
 calendrier - kalende  
 caleçon - boce pante  
 calife - halife  
@@ -1713,7 +1713,7 @@ porter - porte
 Porto Rico - Portoriko  
 Portoricain - portoriko jen  
 posidonie (herbiers marins) - bahai cau  
-possédant (propriétaire) - malike  
+possédant (propriétaire) - maler  
 post-natal - posnatal  
 post-production - posprodution  
 posture (position) - asan  
@@ -1798,6 +1798,8 @@ pâquerette - englix margarita
 pâte (pulpe, foufou) - fufu  
 pâte - pasta  
 pâte à modeler - plaste paste  
+pèlegrin - hajer  
+pèlerinage - haje  
 pénal - fatu di  
 périr - perex fa  
 péter - fa pede  

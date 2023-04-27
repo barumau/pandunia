@@ -900,6 +900,7 @@ engenia - ingeniería
 Englix - Inglaterra  
 englix di - inglés  
 englix filiste - anglófilo  
+eglixife - anglicanizar  
 englix margarita - margarita común (pascueta)  
 enzim - enzima  
 erbium - erbio  
@@ -958,7 +959,6 @@ fa ding - determinar (establecer, definir)
 fa dosil - domar (amansar)  
 fa dosil gene - domesticar (cultivate)  
 fa duka - entristecer (poner triste)  
-fa englix kitabe - anglicanizar  
 fa fatu - castigar  
 fa fei - volar  
 fa fokus - concentración  
@@ -967,7 +967,6 @@ fa halal - permitir (dejar)
 fa has - diferenciar (distinguir)  
 fa hava - soplar (echar)  
 fa hen - odiar  
-fa hisabu - calcular  
 fa hogo - quemar  
 fa jang - pelear  
 fa jong - centrar (concentrar)  
@@ -1461,6 +1460,8 @@ haha - reír
 haide - vamos a  
 haima - carpa (toldo)  
 Haiti - Haití  
+haje - peregrinaje  
+hajer - peregrino  
 haki - polvo  
 haki cupu gi - aspiradora  
 haki rang - caqui  
@@ -1575,6 +1576,7 @@ hinde sos - chatni
 Hindestan - Indostán  
 hipoglukohemia - hipoglucemia  
 hipohemopresia - hipotensión  
+hisabe - calcular  
 hisabia - aritmética (cálculos)  
 hisabu loge - cuenta  
 histor - historia (pasado)  
@@ -2353,7 +2355,7 @@ makinike - mecánico
 makinize - mecanizar  
 mal - poseer (tener, ser dueño de)  
 mal - propiedad  
-malike - dueño  
+maler - dueño  
 malonomia - economía  
 Malaisia - Malasia  
 malaria - malaria (paludismo)  
@@ -3367,8 +3369,7 @@ safe - limpio
 safife - limpiar  
 safe tela - trapo (tela para limpiar)  
 safer - limpiador  
-safar - viajar  
-safar - viaje  
+safar - viajar (viaje)  
 safar ceke - cheque de viajero  
 safarer - viajero  
 safran - azafrán  

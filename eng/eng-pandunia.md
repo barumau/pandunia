@@ -170,7 +170,7 @@ andesite - andesite
 Andorra - Andora  
 anemia - anhemia  
 anger (fury, rage, wrath) - furita  
-anglicize - fa englix kitabe  
+anglicize - eglixife  
 anglophile - englix filiste  
 anglophone (English speking) - englix fon di  
 Angola - Angola  
@@ -641,7 +641,7 @@ cake (cookie) - keke
 calabash - sui kaboga  
 calcite - kalsite  
 calcium (Ca) - kalsium  
-calculate - fa hisabu  
+calculate - hisabe  
 calculate - hisabe  
 calculus (manipulation of symbolic expressions) - kalkul  
 calendar - kalende  
@@ -3173,10 +3173,11 @@ overflow (spill out) - vai dara
 overpass - supra  
 overwrite - vise kitabe  
 owe (ought, should; debt, duty, responsibility, obligation) - debe  
+own (belonging to sb.) - malike  
 own (personal, private) - prive  
 own (possess) - mal  
 own - se su  
-owner (proprietor, possessor) - malike  
+owner (proprietor, possessor) - maler  
 oxeye daisy - baku margarite  
 oxide - oxide  
 oxygen - oxe  
@@ -3368,6 +3369,8 @@ piece (chip, fragment, shred, morsel, crumb, shard) - parte
 pierce (perforate, bore) - fa kung  
 pig - goro  
 pilaf (pulao) - pilau  
+pilgrim - hajer  
+pilgrimage - haje  
 pillar (column, pole, post) - kolum  
 pilot - pilote  
 pinch - pinse  
@@ -4590,7 +4593,6 @@ transport (transportation) - traporte
 trap (snare) - kape truke  
 trapdoor - pada mun  
 travel (voyage, trip) - safar  
-travel - safar  
 traveler - safarer  
 traveller's cheque (traveler's check) - safar ceke  
 traverse (horizontal) - vei di  

@@ -1032,6 +1032,7 @@ Englix - Englanti
 englix di - englanti  
 englix filiste - anglofiili  
 englix fon di - englantia puhuva (anglofoni)  
+eglixife - englannistaa  
 englix margarita - kaunokainen  
 enzim - entsyymi  
 erbium - erbium  
@@ -1093,7 +1094,6 @@ fa defa - puolustaa
 fa dosil - kesyttää  
 fa dosil gene - kesyttää  
 fa duka - surettaa  
-fa englix kitabe - englannistaa  
 fa fei - lentää  
 fa fokus - keskittää  
 fa gola - ympäröidä (piirittää)  
@@ -1101,7 +1101,6 @@ fa halal - sallia (antaa lupa)
 fa has - erottaa (nähdä ero)  
 fa hava - tuulla (puhaltaa)  
 fa hen - vihata (inhota)  
-fa hisabu - laskea (tehdä laskutoimitus)  
 fa hogo - polttaa  
 fa jong - keskittää  
 fa kai - aukaista (avata)  
@@ -1650,6 +1649,8 @@ haha - nauraa
 haide - tehkäämme  
 haima - teltta  
 Haiti - Haiti  
+haje - pyhiinvaellus  
+hajer - pyhiinvaeltaja  
 haki - pöly (tomu)  
 haki cupu gi - pölynimuri  
 haki rang - khaki  
@@ -1777,6 +1778,7 @@ hipe - vajaa
 hipoglukohemia - matala verensokeri (hypoglykemia)  
 hipohemopresia - matala verenpaine  
 Hiperion - Hyperion  
+hisabe - laskea (tehdä laskutoimitus)  
 hisabe - laskea (lasku, laskelma)  
 hisabia - laskuoppi (aritmetiikka)  
 hisabu loge - tili  
@@ -2589,7 +2591,8 @@ makiniste - mekaanikko
 makinize - koneellistaa (mekanisoida)  
 mal - omistaa  
 mal - omaisuus  
-malike - omistaja (pitäjä, hallussapitäjä)  
+maler - omistaja (pitäjä, hallussapitäjä)  
+malike - oma (jlkn kuuluva)  
 malonomia - taloustiede (ekonomia)  
 Malaisia - Malesia  
 malaria - malaria  
@@ -3618,8 +3621,7 @@ safe - puhdas (siivo, siisti)
 safife - puhdistaa (siivota)  
 safer - siivooja  
 safta - puhtaus  
-safar - matkustaa  
-safar - matka (reissu)  
+safar - matkustaa (matka, reissu)  
 safar ceke - matkašekki  
 safarer - matkailija  
 safran - sahrami  

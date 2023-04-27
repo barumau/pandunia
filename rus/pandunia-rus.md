@@ -514,7 +514,6 @@ fa dosil - укрощать (приручить)
 fa dosil gene - одомашнивать  
 fa fatu - наказать  
 fa fei - лететь  
-fa hisabu - вычислять  
 fa hogo - жечь (палить)  
 fa jui - предостерегать  
 fa kung - пробиться  
@@ -731,6 +730,8 @@ Habaxa - Абиссиния
 hafenium - гафний  
 haha - смеяться  
 haima - палатка (шатёр)  
+haje - паломничество  
+hajer - паломник (пилигрим)  
 haki - пыль  
 haki rang - хаки  
 hal - состояние (статус)  
@@ -789,6 +790,7 @@ Hinde rivo - Инд
 hinde sos - чатни  
 Hindestan - Индостан  
 hipohemopresia - пониженное кровяное давление  
+hisabe - вычислять  
 hisabu loge - счёт  
 hiyar - огурец  
 hobiiste - любитель  

@@ -84,7 +84,7 @@
 **babul** *palloakaasia* ← hindi:बबूल (babūl), bangla:বাবলা (bābalā), englanti:babul  
 **baca** *lapsi* ← persia:(bačče), urdu:(baccā), hindi:बच्चा (baccā), gujarati: બચ્ચું (baccũ), filippiini:bata  
 **baceler** ** ← deu:englanti:suahili:bachelor, espanja:bachiller, portugali:bacharel, hindi:बैचलर (bæcalar)  
-**badal** *vaihtaa* ← arabia:(badala), hindi:बदला (badlā), suahili:badili, turkki:bedel  
+**badal** *vaihtaa* ← arabia:(badala), hindi:बदला (badlā), suahili:badili, hausa:badali, turkki:bedel  
 **badam** *manteli* ← malaiji:badam, turkki:badem, hindi:बादाम (bādām), bangla:বাদাম (badam), tamili:வாதுமை (vātumai), yleiskiina:巴旦木 (bādànmù)  
 **badan** *keho (ruumis)* ← englanti:body + arabia:  بَدَن‎ (badan), persia: بدن‎ (badan), hindi:बदन (badan), malaiji:badan, turkki:beden, suahili:badani  
 **bagaje** *matkatavarat* ← englanti:baggage, ranska:bagage, portugali:bagagem, venäjä:багаж (bagazh), turkki:bagaj, bangla:ব্যাগেজ (bjagej), malaiji:bagasi  
@@ -516,6 +516,7 @@
 **haha** *nauraa* ← englanti:ranska:portugali:turkki:haha, espanja:jaja, venäjä:ха-ха (ha-ha), yleiskiina:哈哈 (hāhā), japani:わはは (wa-ha-ha), arabia:(hahah)  
 **haide** *tehkäämme* ← rum:háide, kreikka:άιντε (áinte), bul:ха́йде (hájde), venäjä:айда (ayda), turkki:hadi, arabia:هَيَّا‎ (hayyā), vietnami:hãy  
 **haima** *teltta* ← arabia:(xayma), hausa:laima, hindi:ख़ैमा (xEmā), suahili:hema, malaiji:kemah, may:khemah, mng:майхан (mayhan)  
+**haje** *pyhiinvaellus* ← arabia: حَجّ‎ (ḥajj), persia: حج‎ (hajj), turkki:hac, suahili:hija, hausa:haji  
 **haki** *pöly (tomu)* ← persia: خاک (xâk), hindi:ख़ाक (xāk), bangla:খাক (khâk), turkki:haki, englanti:khaki, ranska:kaki, espanja:caqui, portugali:cáqui, venäjä:хаки (haki), yleiskiina:卡其 (kǎqí), kantoninkiina:卡其色 (kaakeisik), japani:カーキ色 (kāki-iro), korea:카키색 (kakisaek), vietnami:màu kaki  
 **haku** *oikeus (oikeutus)* ← arabia: حَقّ‎ (ḥaqq), hindi:हक़ (haq), bangla:হক (hôk), pandzabi:ਹੱਕ (hakka), telugu:హక్కు (hakku), turkki:malaiji:hak, suahili:haki, hausa:hakki  
 **hal** *tila (tilanne, seikka)* ← arabia:حال (ḥāl), hindi:हालत (hālat), suahili:hausa:hali, turkki:hâl  
@@ -539,7 +540,7 @@
 **harnes** *valjaat* ← ranska:harnais, englanti:harness, espanja:arnés, portugali:arnês  
 **has** *erikoinen (erityinen)* ← arabia:(xāṣṣ), persia:urdu:(xās), hindi:ख़ास (xās), malaiji:khas, suahili:hususa  
 **haste** *kiireinen (kiire)* ← deu:Hast, englanti:haste, ranska:hâte + persia:آهسته (âheste), hindi:आहिस्ता (āhistā), bangla:আস্তে (aste), turkki:aheste  
-**hata** *asti (saakka)* ← portugali:até, arabia:(ḥatta), espanja:hasta, suahili:hata + persia: تا‎ (tâ), hindi:तक (-tak)  
+**hata** *asti (saakka)* ← portugali:até, arabia:(ḥatta), espanja:hasta, suahili:hata, hausa:hatta + persia: تا‎ (tâ), hindi:तक (-tak)  
 **hatar** *vaara* ← arabia: خطر‎ (xaṭar), persia: خطر‎ (xatar), urdu: خطرہ‎ (xatrā), hindi:ख़तरा (xatrā), suahili:hatari, hausa:hatsari, turkki:muhatara  
 **hau** *hyvä* ← yleiskiina:好 (hǎo), kantoninkiina:好 (hou2), vietnami:hảo  
 **hava** *tuuli (puhallus)* ← arabia: هَوَاء‎ (hawāʾ), persia: هوا‎ (havâ), hindi:हवा (havā), bangla:হাওয়া (hava), malaiji:hawa, suahili:hewa, turkki:hava  
@@ -565,7 +566,7 @@
 **hima** *lumi* ← hindi:हिमपात (himpāt), thai:หิมะ (hima), telugu:(himamu)  
 **hin** *puuttua (ilman, vailla)* ← hindi:-हीन (hīn), bangla:-হীন (-hin), gujarati:-હીન (-hīn)  
 **hindium** *indium* ← englanti:indium, ranska:indium, espanja:indium, portugali:índio, venäjä:индий, yleiskiina:铟 (yīn), japani:インジウム, korea:인듐, vietnami:indi, hindi:इण्डियम, bangla:ইন্ডিয়াম, malaiji:indium, suahili:indi, arabia: انديوم  
-**hisabe** *laskea (lasku, laskelma)* ← arabia: حِسَاب‎ (ḥisāb), turkki:hesap, oromo:hisaaba, suahili:hisabu, hindi:हिसाब (hisāb), bangla:হিসাব (hiśab)  
+**hisabe** *laskea (lasku, laskelma)* ← arabia: حِسَاب‎ (ḥisāb), hindi:हिसाब (hisāb), bangla:হিসাব (hiśab), turkki:hesap, oromo:hisaaba, suahili:hisabu, hausa:lisafi  
 **histor** *historia (aikakirjat)* ← englanti:history, espanja:suahili:historia, portugali:história, ranska:histoire, venäjä:история (istoriya)  
 **hiyar** *kurkku* ← persia:خیار (xiyâr), turkki:hıyar, arabia:خيار‎ (khiyār), hindi:खीरा (khīrā), bangla:ক্ষীরা (kṣīrā)  
 **hobi** *harrastus* ← englanti:espanja:portugali:deu:ranska:hobby, venäjä:хобби (hobbi)  
@@ -745,7 +746,7 @@
 **kira** *vuokra* ← arabia:(kirāʾ), turkki:kira, hindi:किराया (kirāyā), urdu:(kirāyā), persia:(kerāya), espanja:alquiler  
 **kirate** *karaatti* ← arabia: قِيرَاط‎ (qīrāṭ), englanti:ranska:carat, espanja:portugali:quilate, venäjä:карат (karat), yleiskiina:克拉 (kèlā), japani:カラット (karatto), korea:캐럿 (kaereot), malaiji:hausa:karat, suahili:karati, turkki:kırat  
 **kisma** *kohtalo (määrä)* ← arabia: قِسْمَة‎ (qisma), hindi:क़िस्मत (qismat), bangla:কিসমত (kiśmôt), englanti:kismet, venäjä:кисмет (kismet), turkki:kısmet  
-**kitabe** *kirjoittaa (kirjoitus)* ← arabia: كِتَاب‎ (kitāb), persia: کتاب‎ (ketâb), hindi:किताब (kitāb), turkki:kitap; katip, malaiji:kitab, katib, suahili:kitabu; katibu  
+**kitabe** *kirjoittaa (kirjoitus)* ← arabia: كِتَاب‎ (kitāb), persia: کتاب‎ (ketâb), hindi:किताब (kitāb), turkki:kitap; katip, malaiji:kitab, katib, suahili:kitabu; katibu, hausa:littafi  
 **kivi frute** *kiivihedelmä* ← englanti:ranska:espanja:malaiji:suahili:kiwi, portugali:quivi, japani:キーウィ (kīwi), korea:키위 (kiwi), hindi:कीवी (kīvī), turkki:kivi, arabia: كِيوِي‎ (kiwī)  
 **klar** *selvä (selkeä)* ← deu:klar, espanja:portugali:claro, englanti:clear, ranska:clair  
 **klas** *luokka (kategoria)* ← englanti:class, espanja:clase, portugali:ranska:classe, venäjä:класс (klass), کلاس‎ (kelâs), malaiji:kelas, japani:クラス (kurasu)  
@@ -909,7 +910,7 @@
 **makale** *artikkeli (kirjoitus)* ← arabia:مَقَال‎ (maqāl), turkki:makale, suahili:hausa:makala, persia:مقاله‎ (maqâle), malaiji:makalah  
 **makas** *sakset* ← arabia: مَقَص‎ (maqaṣ), turkki:makas, suahili:mkasi, oromo:maqasii, hausa:almakashi, yoruba:àlùmogàjí  
 **makin** *kone* ← englanti:ranska:machine, deu:Maschine, espanja:portugali:máquina, suahili:mashine, hindi:मशीन (maśīn), bangla:মেশিন (meśin), malaiji:mesin, arabia: مَاكِينَة‎ (mākīna), turkki:makine, japani:マシン (mashin), korea:머신 (meosin)  
-**mal** *omaisuus* ← arabia:persia:urdu:  مَال‎ (māl), hindi:माल (māl), bangla:মালিক, suahili:mali, malaiji:milik, turkki:mal  
+**mal** *omaisuus* ← arabia:persia:urdu:  مَال‎ (māl), hindi:माल (māl), bangla:মালিক, suahili:mali, hausa:mallake, malaiji:milik, turkki:mal  
 **malaria** *malaria* ← englanti:espanja:ranska:suahili:malaiji:malaria, portugali:malária, venäjä:малярия (mal′arija), turkki:malarya, arabia:مَلَارِيَا‎ (malāriyā), hindi:मलेरिया (maleriyā), japani:マラリア (mararia)  
 **malte** *mallas* ← englanti:ranska:turkki:malt, deu:Malz, espanja:malta, portugali:malte, persia: مالت‎ (mâlt), arabia: مَلْت‎ (malt)  
 **mame** *nisä (tissi)* ← persia: ممه‎ (mame), turkki:meme, englanti:mamma, espanja:portugali:mama + ranska:mammifère, malaiji:mamalia  
@@ -924,7 +925,7 @@
 **mantol** ** ← englanti:mantle, espanja:manto, ranska:manteau, venäjä:манто (manto), japani:マント (manto), korea:망토 (mangto), malaiji:mantel  
 **mantra** *mantra (messuta)* ← englanti:ranska:espanja:portugali:malaiji:mantra, venäjä:мантра (mantra), hindi:मंत्र (mantra), bangla:মন্ত্র (môntr)  
 **mantu** *myky (nyytti, pelmeni, ravioli)* ← venäjä:манты (manty), yleiskiina:馒头 (mántóu), jpn;饅頭 (manjū), korea:만두 (mandu), persia:urdu: منتو‎ (mantu), turkki:mantı, rus:манты (manty)  
-**mar** *kerta (vuoro)* ← arabia: مرة (marra), suahili:mara, persia: بار‎ (bâr), hindi:बार (bār), bangla:বার (bar), tamili:முறை (muṟai), deu:Mal  
+**mar** *kerta (vuoro)* ← arabia: مرة (marra), suahili:mara, hausa:marra, persia: بار‎ (bâr), hindi:बार (bār), bangla:বার (bar), tamili:முறை (muṟai), deu:Mal  
 **maraton** *maratoni* ← englanti:marathon, espanja:maratón, portugali:maratona, venäjä:марафо́н (marafón), turkki:maraton, arabia:مَارَاثُون‎ (mārāṯūn), hindi:मैराथन (mairāthan), bangla:ম্যারাথন (mjarathôn), yleiskiina:马拉松 (mǎlāsōng), japani:マラソン (marason)  
 **marce** *kävely (marssi)* ← englanti:march, ranska:marche, espanja:portugali:marcha, venäjä:марш (marš), hindi:मार्च (mārc), turkki:marş, suahili:machi  
 **margai** ** ← englanti:margay, espanja:maracayá, portugali:maracajá, venäjä:маргай (margay), arabia:مارج (mārǧ), japani:マーゲイ (māgei)  
@@ -989,7 +990,7 @@
 **mire** *tuijottaa (toljottaa)* ← ranska:mirer, espanja:portugali:mirar + japani:見る (miru) + arabia:مِرْآة‎ (mirʾāh)  
 **misal** *esimerkki* ← hindi:मिसाल (misāl), arabia:(mithāl), persia:(mesâl), malaiji:misal, suahili:mathalani, turkki:mesela, hausa:misali  
 **mise** *lähettää* ← englanti:emit, ranska:émettre, espanja:portugali:remitir, malaiji:emisi, deu:Mission, venäjä:миссия (missiya), turkki:misyon + hindi:कमीशन (kamīśan), bangla:কমিশন (kômiśôn)  
-**miskin** *kurja (raukka)* ← arabia:مِسْكِين (miskīn), persia:مسکین‎ (meskin), turkki:malaiji:miskin, suahili:maskini, hindi:, bangla:মিসকিন (miśkin), ranska:miskine, espanja:mezquino, portugali:mesquinho  
+**miskin** *kurja (raukka)* ← arabia:مِسْكِين (miskīn), persia:مسکین‎ (meskin), turkki:malaiji:hausa:miskin, suahili:maskini, hindi:, bangla:মিসকিন (miśkin), ranska:miskine, espanja:mezquino, portugali:mesquinho  
 **Misre** *Egypti* ← arabia:(miṣr), turkki:Mısır, suahili:Misri, hindi:मिस्र (misra), bangla:মিশর (miśôr), hausa:Masar  
 **mite** *sepittää (keksiä; sepite, taru, legenda, myytti)* ← englanti:myth, deu:Mythos, ranska:mythe, espanja:portugali:mito, venäjä:миф (mif), hindi:मिथक (mithak), turkki:mit  
 **mitre** *metri* ← englanti:turkki:metre, deu:malaiji:meter, ranska:mètre, espanja:portugali:metro, venäjä:метр (metr), arabia: متر‎ (mitr), yleiskiina:米 (mǐ), japani:メートル (mētoru), korea:미터 (miteo), vietnami:mét, hindi:मीटर (mīṭar), bangla:মিটার (miṭar), suahili:hausa:mita  
@@ -1298,7 +1299,7 @@
 **sabu** *syy* ← heb:(sibá), arabia: سَبَب‎ (sabab), persia: سبب‎ (sabab), hindi:सबब (sabab), malaiji:sebab, turkki:sebep, suahili:fulani:sababu, hausa:sabo; sababi, yoruba:sábàbí, Kongo:sambu  
 **sabun** *saippua* ← ranska:savon, espanja:jabón, portugali:sabão, arabia: صَابُون‎ (ṣābūn), persia: صابون‎ (sâbun), hindi:साबुन (sābun), bangla:সাবান (śaban), telugu:సబ్బు (sabbu), malaiji:turkki:sabun, suahili:sabuni, hausa:sabulu, japani:シャボン (shabon), vietnami:xà bông  
 **sade** *pelkkä (koruton, tavanomainen, vain)* ← turkki:sade, persia:(sāde), hindi:सादा (sādā), bangla:সাদা (śada), arabia: سَاذَج (sāḏaj)  
-**safar** *matka (reissu)* ← arabia:(safar), hindi:सफ़र (safar), turkki:sefer, suahili:safari, englanti:ranska:espanja:portugali:deu:malaiji:safari  
+**safar** *matkustaa (matka, reissu)* ← arabia:(safar), hindi:सफ़र (safar), turkki:sefer, suahili:safari, hausa:safara, englanti:ranska:espanja:portugali:deu:malaiji:safari  
 **safe** *puhdas (siivo, siisti)* ← arabia: صَفِيّ‎ (ṣafiyy), turkki:saf, suahili:safi, hausa:tsafta, malaiji:safa, hindi:साफ़ (sāf), bangla:সাফ (śaph)  
 **safran** *sahrami* ← arabia:(zaʿfarān), suahili:zafarani, persia:(za'ferân), ranska:turkki:safran, englanti:saffron, espanja:azafrán, portugali:açafrão, venäjä:шафран (šafran)  
 **sagu** *saagopalmu* ← englanti:sago, ranska:sagou, espanja:sagú, portugali:malaiji:sagu, venäjä:саго (sago), arabia: سَاغُو‎ (sāḡū), yleiskiina:西谷米 (xīgúmǐ), japani:サゴ (sago), hindi:सागू (sāgū)  
@@ -1306,7 +1307,7 @@
 **sahi** *oikea (paikkansapitävä)* ← arabia: صَحِيح‎ (ṣaḥīḥ), persia: صحیح‎ (sahih), hindi:सही (sahī), malaiji:sah, hausa:suahili:sahihi  
 **saide** *pyynti (metsästys, kalastus)* ← arabia:(ṣayd), turkki:seyd, urdu:صید‎ (said), persia:صید‎ (seyd), heb:ציד‎ (tsayid)  
 **sake** *pussi (säkki, kassi, laukku)* ← deu:englanti:sack, ranska:sac, espanja:portugali:saco, malaiji:Kongo:saku  
-**sal** *terve (hei)* ← arabia:persia: سلام‎ (salâm), hindi:सलाम (salām), bangla: সালাম (salam), malaiji:selamat, suahili:salamu, turkki:selam + englanti:salute, ranska:salut, espanja:salude, portugali:saúde + korea:잘 (jal)  
+**sal** *terve (hei)* ← arabia:persia: سلام‎ (salâm), hindi:सलाम (salām), bangla: সালাম (salam), malaiji:selamat, suahili:salamu, hausa:salam, turkki:selam + englanti:salute, ranska:salut, espanja:salude, portugali:saúde + korea:잘 (jal)  
 **sala** *sali (halli)* ← ranska:salle, espanja:salón, portugali:salão, deu:Saal, venäjä:зал (zal), hindi:साल (sāl); शाला (śālā), arabia: صَالَة‎ (ṣāla), telugu:శాల (śāla), khmer:សាលា (saalaa)  
 **salade** *salaatti* ← ranska:salade, malaiji:salad, deu:Salat, venäjä:салат (salat), turkki:salata, persia:urdu:(salād), hindi:सलाद (salād), kantoninkiina:沙律 (saa1 leot62),  yleiskiina:沙拉 (shālā), portugali:salada, espanja:ensalado, korea:샐러드 (saelleodeu), japani:サラダ (sarada), thai:สลัด (salat), khmer:សាលាដ (saalaat)  
 **sale** *terve* ← ranska:espanja:portugali:salubre + arabia: سَلَامَة‎ (salāma) + turkki:sağlık  
@@ -1414,7 +1415,7 @@
 **suxi** *sushi* ← japani:寿司 (sushi), yleiskiina:寿司 (shòusī), kantoninkiina:壽司 (sau6si1), korea:스시 (seusi), deu:englanti:ranska:espanja:portugali:sushi, venäjä:суши (sushi), persia: سوشی‎ (suši), hindi:सुशी (suśī), bangla:সুশি (śuśi), turkki:suşi, arabia: سُوشِي‎ (sūšī)  
 **ta** ** ← venäjä:-та (-ta), hindi:-ता (-tā) + ranska:-ité, espanja:-idad, portugali:-idade, italia:-ità, malaiji:-itas  
 **tabake** *tupakka* ← deu:Tabak, venäjä:табак (tabak), ranska:tabac, espanja:portugali:tabaco, japani:タバコ (tabako), englanti:tobacco, arabia:تَبْغ‎ (tabḡ), persia:تنباکو‎ (tanbâku), turkki:tömbeki, hindi:तंबाकू (tambākū), bangla:তামাকু (tāmāku), malaiji:tembakau, suahili:mtubaku, hausa:taba  
-**tabi** *luonto* ← arabia:طبيعة (ṭabīʿa), persia:طبیعت‎ (tabi'at), hindi:तबीयत (tabīyat), bangla:তবিয়ত (tôbiyôt), suahili:tabia turkki:tabiat  
+**tabi** *luonto* ← arabia:طبيعة (ṭabīʿa), persia:طبیعت‎ (tabi'at), hindi:तबीयत (tabīyat), bangla:তবিয়ত (tôbiyôt), suahili:tabia, hausa:tsabi'a, turkki:tabiat  
 **table** *laatta (levy)* ← englanti:table, ranska:tableau, espanja:tabla, venäjä:табличка (tablichka), malaiji:tabel, turkki:tablo  
 **tai** *lava* ← yleiskiina:台 (tái), kantoninkiina:臺 (toi4), japani:台 (dai), vietnami:đài, korea:대 (dae) + englanti:dais  
 **taiga** *taiga* ← venäjä:тайга (tayga), englanti:espanja:portugali:malaiji:taiga, turkki:tayga, arabia:تايغا‎ (tāyḡā), yleiskiina:泰加林 (tàijiālín), japani:タイガ (taiga)  

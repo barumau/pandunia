@@ -611,7 +611,6 @@ fa dosil - apprivoiser (dresser, dompter, discipliner)
 fa dosil gene - domestiquer (apprivoiser)  
 fa fatu - punir  
 fa fei - voler  
-fa hisabu - calculer  
 fa hogo - brûler  
 fa kux - coucher  
 fa lai - apporter  
@@ -844,6 +843,8 @@ hafenium - hafnium
 haha - rire  
 haima - tente  
 Haiti - Haïti  
+haje - pèlerinage  
+hajer - pèlegrin  
 haki - poussière  
 haki rang - kaki  
 haku - droit  
@@ -908,6 +909,7 @@ hinde sos - chutney
 Hindestan - Hindustan  
 hipoglukohemia - hypoglycémie  
 hipohemopresia - hypotension  
+hisabe - calculer  
 hisabu loge - compte  
 hiyar - concombre  
 hobiiste - amateur  
@@ -1351,7 +1353,7 @@ makin - machine
 makinike - mécanique  
 makinize - mécaniser  
 mal - propriété (possession, bien)  
-malike - possédant (propriétaire)  
+maler - possédant (propriétaire)  
 malonomia - économie  
 malte - malt  
 maltos - maltose  

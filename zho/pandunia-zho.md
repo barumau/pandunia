@@ -466,7 +466,6 @@ fa banya - 游泳
 fa ding - 决定  
 fa dosil - 驯养  
 fa fei - 飞  
-fa hisabu - 计算  
 fa hogo - 燃烧  
 fa lai - 带来  
 fa lanse grafi - 投射  
@@ -658,6 +657,7 @@ Habaxa - 阿比西尼亚
 hafenium - 铪  
 haha - 笑  
 haima - 帐篷  
+haje - 朝觐 (巡礼)  
 haki - 灰尘 (尘土)  
 haki rang - 卡其色  
 haku - 权利  
@@ -712,6 +712,7 @@ Hinde rivo - 印度河
 Hindestan - 印度斯坦  
 hipoglukohemia - 低血糖  
 hipohemopresia - 低血压症  
+hisabe - 计算  
 hisabu loge - 账户  
 hiyar - 黄瓜  
 hobiiste - 爱好者  

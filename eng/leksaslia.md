@@ -84,7 +84,7 @@
 **babul** *thorn tree (acacia, wattle)* ← Hindi:बबूल (babūl), Bengali:বাবলা (bābalā), English:babul  
 **baca** *child (minor)* ← Persian:(bačče), Urdu:(baccā), Hindi:बच्चा (baccā), Gujarati: બચ્ચું (baccũ), Filipino:bata  
 **baceler** *bachelor (bachelor’s degree)* ← deu:English:Swahili:bachelor, Spanish:bachiller, Portuguese:bacharel, Hindi:बैचलर (bæcalar)  
-**badal** *exchange (swap, replace, trade, switch)* ← Arabic:(badala), Hindi:बदला (badlā), Swahili:badili, Turkish:bedel  
+**badal** *exchange (swap, replace, trade, switch)* ← Arabic:(badala), Hindi:बदला (badlā), Swahili:badili, Hausa:badali, Turkish:bedel  
 **badam** *almond* ← Malay:badam, Turkish:badem, Hindi:बादाम (bādām), Bengali:বাদাম (badam), Tamil:வாதுமை (vātumai), Mandarin:巴旦木 (bādànmù)  
 **badan** *body* ← English:body + Arabic:  بَدَن‎ (badan), Persian: بدن‎ (badan), Hindi:बदन (badan), Malay:badan, Turkish:beden, Swahili:badani  
 **bagaje** *luggage (baggage)* ← English:baggage, French:bagage, Portuguese:bagagem, Russian:багаж (bagazh), Turkish:bagaj, Bengali:ব্যাগেজ (bjagej), Malay:bagasi  
@@ -516,6 +516,7 @@
 **haha** *laugh* ← English:French:Portuguese:Turkish:haha, Spanish:jaja, Russian:ха-ха (ha-ha), Mandarin:哈哈 (hāhā), Japanese:わはは (wa-ha-ha), Arabic:(hahah)  
 **haide** *let's* ← rum:háide, Greek:άιντε (áinte), bul:ха́йде (hájde), Russian:айда (ayda), Turkish:hadi, Arabic:هَيَّا‎ (hayyā), Vietnamese:hãy  
 **haima** *tent* ← Arabic:(xayma), Hausa:laima, Hindi:ख़ैमा (xEmā), Swahili:hema, Malay:kemah, may:khemah, mng:майхан (mayhan)  
+**haje** *pilgrimage* ← Arabic: حَجّ‎ (ḥajj), Persian: حج‎ (hajj), Turkish:hac, Swahili:hija, Hausa:haji  
 **haki** *dust* ← Persian: خاک (xâk), Hindi:ख़ाक (xāk), Bengali:খাক (khâk), Turkish:haki, English:khaki, French:kaki, Spanish:caqui, Portuguese:cáqui, Russian:хаки (haki), Mandarin:卡其 (kǎqí), Cantonese:卡其色 (kaakeisik), Japanese:カーキ色 (kāki-iro), Korean:카키색 (kakisaek), Vietnamese:màu kaki  
 **haku** *right (entitlement)* ← Arabic: حَقّ‎ (ḥaqq), Hindi:हक़ (haq), Bengali:হক (hôk), Punjabi:ਹੱਕ (hakka), Telugu:హక్కు (hakku), Turkish:Malay:hak, Swahili:haki, Hausa:hakki  
 **hal** *state (condition, status, situation, circumstances)* ← Arabic:حال (ḥāl), Hindi:हालत (hālat), Swahili:Hausa:hali, Turkish:hâl  
@@ -539,7 +540,7 @@
 **harnes** *harness* ← French:harnais, English:harness, Spanish:arnés, Portuguese:arnês  
 **has** *special (distinct)* ← Arabic:(xāṣṣ), Persian:Urdu:(xās), Hindi:ख़ास (xās), Malay:khas, Swahili:hususa  
 **haste** *hurry (rush, haste; hasty, busy, hurried, swift, fast)* ← deu:Hast, English:haste, French:hâte + Persian:آهسته (âheste), Hindi:आहिस्ता (āhistā), Bengali:আস্তে (aste), Turkish:aheste  
-**hata** *until (til, up to)* ← Portuguese:até, Arabic:(ḥatta), Spanish:hasta, Swahili:hata + Persian: تا‎ (tâ), Hindi:तक (-tak)  
+**hata** *until (til, up to)* ← Portuguese:até, Arabic:(ḥatta), Spanish:hasta, Swahili:hata, Hausa:hatta + Persian: تا‎ (tâ), Hindi:तक (-tak)  
 **hatar** *danger (peril)* ← Arabic: خطر‎ (xaṭar), Persian: خطر‎ (xatar), Urdu: خطرہ‎ (xatrā), Hindi:ख़तरा (xatrā), Swahili:hatari, Hausa:hatsari, Turkish:muhatara  
 **hau** *good* ← Mandarin:好 (hǎo), Cantonese:好 (hou2), Vietnamese:hảo  
 **hava** *wind* ← Arabic: هَوَاء‎ (hawāʾ), Persian: هوا‎ (havâ), Hindi:हवा (havā), Bengali:হাওয়া (hava), Malay:hawa, Swahili:hewa, Turkish:hava  
@@ -565,7 +566,7 @@
 **hima** *snow* ← Hindi:हिमपात (himpāt), Thai:หิมะ (hima), Telugu:(himamu)  
 **hin** *lack (miss, be without)* ← Hindi:-हीन (hīn), Bengali:-হীন (-hin), Gujarati:-હીન (-hīn)  
 **hindium** *indium* ← English:indium, French:indium, Spanish:indium, Portuguese:índio, Russian:индий, Mandarin:铟 (yīn), Japanese:インジウム, Korean:인듐, Vietnamese:indi, Hindi:इण्डियम, Bengali:ইন্ডিয়াম, Malay:indium, Swahili:indi, Arabic: انديوم  
-**hisabe** *calculate* ← Arabic: حِسَاب‎ (ḥisāb), Turkish:hesap, Oromo:hisaaba, Swahili:hisabu, Hindi:हिसाब (hisāb), Bengali:হিসাব (hiśab)  
+**hisabe** *calculate* ← Arabic: حِسَاب‎ (ḥisāb), Hindi:हिसाब (hisāb), Bengali:হিসাব (hiśab), Turkish:hesap, Oromo:hisaaba, Swahili:hisabu, Hausa:lisafi  
 **histor** *history (annals)* ← English:history, Spanish:Swahili:historia, Portuguese:história, French:histoire, Russian:история (istoriya)  
 **hiyar** *cucumber* ← Persian:خیار (xiyâr), Turkish:hıyar, Arabic:خيار‎ (khiyār), Hindi:खीरा (khīrā), Bengali:ক্ষীরা (kṣīrā)  
 **hobi** *hobby* ← English:Spanish:Portuguese:deu:French:hobby, Russian:хобби (hobbi)  
@@ -745,7 +746,7 @@
 **kira** *carat* ← Arabic:(kirāʾ), Turkish:kira, Hindi:किराया (kirāyā), Urdu:(kirāyā), Persian:(kerāya), Spanish:alquiler  
 **kirate** *carat* ← Arabic: قِيرَاط‎ (qīrāṭ), English:French:carat, Spanish:Portuguese:quilate, Russian:карат (karat), Mandarin:克拉 (kèlā), Japanese:カラット (karatto), Korean:캐럿 (kaereot), Malay:Hausa:karat, Swahili:karati, Turkish:kırat  
 **kisma** *destiny (fate, lot, kismet)* ← Arabic: قِسْمَة‎ (qisma), Hindi:क़िस्मत (qismat), Bengali:কিসমত (kiśmôt), English:kismet, Russian:кисмет (kismet), Turkish:kısmet  
-**kitabe** *write (writing, text, script)* ← Arabic: كِتَاب‎ (kitāb), Persian: کتاب‎ (ketâb), Hindi:किताब (kitāb), Turkish:kitap; katip, Malay:kitab, katib, Swahili:kitabu; katibu  
+**kitabe** *write (writing, text, script)* ← Arabic: كِتَاب‎ (kitāb), Persian: کتاب‎ (ketâb), Hindi:किताब (kitāb), Turkish:kitap; katip, Malay:kitab, katib, Swahili:kitabu; katibu, Hausa:littafi  
 **kivi frute** *kiwi fruit* ← English:French:Spanish:Malay:Swahili:kiwi, Portuguese:quivi, Japanese:キーウィ (kīwi), Korean:키위 (kiwi), Hindi:कीवी (kīvī), Turkish:kivi, Arabic: كِيوِي‎ (kiwī)  
 **klar** *clear (obvious)* ← deu:klar, Spanish:Portuguese:claro, English:clear, French:clair  
 **klas** *class (category)* ← English:class, Spanish:clase, Portuguese:French:classe, Russian:класс (klass), کلاس‎ (kelâs), Malay:kelas, Japanese:クラス (kurasu)  
@@ -909,7 +910,7 @@
 **makale** *article (writing)* ← Arabic:مَقَال‎ (maqāl), Turkish:makale, Swahili:Hausa:makala, Persian:مقاله‎ (maqâle), Malay:makalah  
 **makas** *scissors (shears)* ← Arabic: مَقَص‎ (maqaṣ), Turkish:makas, Swahili:mkasi, Oromo:maqasii, Hausa:almakashi, Yoruba:àlùmogàjí  
 **makin** *machine* ← English:French:machine, deu:Maschine, Spanish:Portuguese:máquina, Swahili:mashine, Hindi:मशीन (maśīn), Bengali:মেশিন (meśin), Malay:mesin, Arabic: مَاكِينَة‎ (mākīna), Turkish:makine, Japanese:マシン (mashin), Korean:머신 (meosin)  
-**mal** *property (belongings, possessions)* ← Arabic:Persian:Urdu:  مَال‎ (māl), Hindi:माल (māl), Bengali:মালিক, Swahili:mali, Malay:milik, Turkish:mal  
+**mal** *property (belongings, possessions)* ← Arabic:Persian:Urdu:  مَال‎ (māl), Hindi:माल (māl), Bengali:মালিক, Swahili:mali, Hausa:mallake, Malay:milik, Turkish:mal  
 **malaria** *malaria* ← English:Spanish:French:Swahili:Malay:malaria, Portuguese:malária, Russian:малярия (mal′arija), Turkish:malarya, Arabic:مَلَارِيَا‎ (malāriyā), Hindi:मलेरिया (maleriyā), Japanese:マラリア (mararia)  
 **malte** *malt* ← English:French:Turkish:malt, deu:Malz, Spanish:malta, Portuguese:malte, Persian: مالت‎ (mâlt), Arabic: مَلْت‎ (malt)  
 **mame** *breast (boob, tit)* ← Persian: ممه‎ (mame), Turkish:meme, English:mamma, Spanish:Portuguese:mama + French:mammifère, Malay:mamalia  
@@ -924,7 +925,7 @@
 **mantol** *cape (cloak, mantle)* ← English:mantle, Spanish:manto, French:manteau, Russian:манто (manto), Japanese:マント (manto), Korean:망토 (mangto), Malay:mantel  
 **mantra** *mantra (chant)* ← English:French:Spanish:Portuguese:Malay:mantra, Russian:мантра (mantra), Hindi:मंत्र (mantra), Bengali:মন্ত্র (môntr)  
 **mantu** *dumpling (ravioli, pelmeni)* ← Russian:манты (manty), Mandarin:馒头 (mántóu), jpn;饅頭 (manjū), Korean:만두 (mandu), Persian:Urdu: منتو‎ (mantu), Turkish:mantı, rus:манты (manty)  
-**mar** *time (instance, occurrence, number of times)* ← Arabic: مرة (marra), Swahili:mara, Persian: بار‎ (bâr), Hindi:बार (bār), Bengali:বার (bar), Tamil:முறை (muṟai), deu:Mal  
+**mar** *time (instance, occurrence, number of times)* ← Arabic: مرة (marra), Swahili:mara, Hausa:marra, Persian: بار‎ (bâr), Hindi:बार (bār), Bengali:বার (bar), Tamil:முறை (muṟai), deu:Mal  
 **maraton** *marathon* ← English:marathon, Spanish:maratón, Portuguese:maratona, Russian:марафо́н (marafón), Turkish:maraton, Arabic:مَارَاثُون‎ (mārāṯūn), Hindi:मैराथन (mairāthan), Bengali:ম্যারাথন (mjarathôn), Mandarin:马拉松 (mǎlāsōng), Japanese:マラソン (marason)  
 **marce** *walk (march)* ← English:march, French:marche, Spanish:Portuguese:marcha, Russian:марш (marš), Hindi:मार्च (mārc), Turkish:marş, Swahili:machi  
 **margai** *margay* ← English:margay, Spanish:maracayá, Portuguese:maracajá, Russian:маргай (margay), Arabic:مارج (mārǧ), Japanese:マーゲイ (māgei)  
@@ -989,7 +990,7 @@
 **mire** *stare (watch, gaze)* ← French:mirer, Spanish:Portuguese:mirar + Japanese:見る (miru) + Arabic:مِرْآة‎ (mirʾāh)  
 **misal** *example (instance of)* ← Hindi:मिसाल (misāl), Arabic:(mithāl), Persian:(mesâl), Malay:misal, Swahili:mathalani, Turkish:mesela, Hausa:misali  
 **mise** *send (emit, transmit)* ← English:emit, French:émettre, Spanish:Portuguese:remitir, Malay:emisi, deu:Mission, Russian:миссия (missiya), Turkish:misyon + Hindi:कमीशन (kamīśan), Bengali:কমিশন (kômiśôn)  
-**miskin** *poor (miserable)* ← Arabic:مِسْكِين (miskīn), Persian:مسکین‎ (meskin), Turkish:Malay:miskin, Swahili:maskini, Hindi:, Bengali:মিসকিন (miśkin), French:miskine, Spanish:mezquino, Portuguese:mesquinho  
+**miskin** *poor (miserable)* ← Arabic:مِسْكِين (miskīn), Persian:مسکین‎ (meskin), Turkish:Malay:Hausa:miskin, Swahili:maskini, Hindi:, Bengali:মিসকিন (miśkin), French:miskine, Spanish:mezquino, Portuguese:mesquinho  
 **Misre** *Egypt* ← Arabic:(miṣr), Turkish:Mısır, Swahili:Misri, Hindi:मिस्र (misra), Bengali:মিশর (miśôr), Hausa:Masar  
 **mite** *tale (fiction, myth)* ← English:myth, deu:Mythos, French:mythe, Spanish:Portuguese:mito, Russian:миф (mif), Hindi:मिथक (mithak), Turkish:mit  
 **mitre** *meter (100 cm)* ← English:Turkish:metre, deu:Malay:meter, French:mètre, Spanish:Portuguese:metro, Russian:метр (metr), Arabic: متر‎ (mitr), Mandarin:米 (mǐ), Japanese:メートル (mētoru), Korean:미터 (miteo), Vietnamese:mét, Hindi:मीटर (mīṭar), Bengali:মিটার (miṭar), Swahili:Hausa:mita  
@@ -1298,7 +1299,7 @@
 **sabu** *reason (cause)* ← heb:(sibá), Arabic: سَبَب‎ (sabab), Persian: سبب‎ (sabab), Hindi:सबब (sabab), Malay:sebab, Turkish:sebep, Swahili:Fulani:sababu, Hausa:sabo; sababi, Yoruba:sábàbí, Kongo:sambu  
 **sabun** *soap* ← French:savon, Spanish:jabón, Portuguese:sabão, Arabic: صَابُون‎ (ṣābūn), Persian: صابون‎ (sâbun), Hindi:साबुन (sābun), Bengali:সাবান (śaban), Telugu:సబ్బు (sabbu), Malay:Turkish:sabun, Swahili:sabuni, Hausa:sabulu, Japanese:シャボン (shabon), Vietnamese:xà bông  
 **sade** *plain (ordinary, unadorned, simple, mere, pure)* ← Turkish:sade, Persian:(sāde), Hindi:सादा (sādā), Bengali:সাদা (śada), Arabic: سَاذَج (sāḏaj)  
-**safar** *travel (voyage, trip)* ← Arabic:(safar), Hindi:सफ़र (safar), Turkish:sefer, Swahili:safari, English:French:Spanish:Portuguese:deu:Malay:safari  
+**safar** *travel (voyage, trip)* ← Arabic:(safar), Hindi:सफ़र (safar), Turkish:sefer, Swahili:safari, Hausa:safara, English:French:Spanish:Portuguese:deu:Malay:safari  
 **safe** *clean (pure)* ← Arabic: صَفِيّ‎ (ṣafiyy), Turkish:saf, Swahili:safi, Hausa:tsafta, Malay:safa, Hindi:साफ़ (sāf), Bengali:সাফ (śaph)  
 **safran** *saffron* ← Arabic:(zaʿfarān), Swahili:zafarani, Persian:(za'ferân), French:Turkish:safran, English:saffron, Spanish:azafrán, Portuguese:açafrão, Russian:шафран (šafran)  
 **sagu** *sago palm* ← English:sago, French:sagou, Spanish:sagú, Portuguese:Malay:sagu, Russian:саго (sago), Arabic: سَاغُو‎ (sāḡū), Mandarin:西谷米 (xīgúmǐ), Japanese:サゴ (sago), Hindi:सागू (sāgū)  
@@ -1306,7 +1307,7 @@
 **sahi** *right (correct, accurate)* ← Arabic: صَحِيح‎ (ṣaḥīḥ), Persian: صحیح‎ (sahih), Hindi:सही (sahī), Malay:sah, Hausa:Swahili:sahihi  
 **saide** *hunting (fishing)* ← Arabic:(ṣayd), Turkish:seyd, Urdu:صید‎ (said), Persian:صید‎ (seyd), heb:ציד‎ (tsayid)  
 **sake** *bag (sack)* ← deu:English:sack, French:sac, Spanish:Portuguese:saco, Malay:Kongo:saku  
-**sal** *hello (hi)* ← Arabic:Persian: سلام‎ (salâm), Hindi:सलाम (salām), Bengali: সালাম (salam), Malay:selamat, Swahili:salamu, Turkish:selam + English:salute, French:salut, Spanish:salude, Portuguese:saúde + Korean:잘 (jal)  
+**sal** *hello (hi)* ← Arabic:Persian: سلام‎ (salâm), Hindi:सलाम (salām), Bengali: সালাম (salam), Malay:selamat, Swahili:salamu, Hausa:salam, Turkish:selam + English:salute, French:salut, Spanish:salude, Portuguese:saúde + Korean:잘 (jal)  
 **sala** *hall (big room)* ← French:salle, Spanish:salón, Portuguese:salão, deu:Saal, Russian:зал (zal), Hindi:साल (sāl); शाला (śālā), Arabic: صَالَة‎ (ṣāla), Telugu:శాల (śāla), Khmer:សាលា (saalaa)  
 **salade** *salad* ← French:salade, Malay:salad, deu:Salat, Russian:салат (salat), Turkish:salata, Persian:Urdu:(salād), Hindi:सलाद (salād), Cantonese:沙律 (saa1 leot62),  Mandarin:沙拉 (shālā), Portuguese:salada, Spanish:ensalado, Korean:샐러드 (saelleodeu), Japanese:サラダ (sarada), Thai:สลัด (salat), Khmer:សាលាដ (saalaat)  
 **sale** *healthy* ← French:Spanish:Portuguese:salubre + Arabic: سَلَامَة‎ (salāma) + Turkish:sağlık  
@@ -1414,7 +1415,7 @@
 **suxi** *sushi* ← Japanese:寿司 (sushi), Mandarin:寿司 (shòusī), Cantonese:壽司 (sau6si1), Korean:스시 (seusi), deu:English:French:Spanish:Portuguese:sushi, Russian:суши (sushi), Persian: سوشی‎ (suši), Hindi:सुशी (suśī), Bengali:সুশি (śuśi), Turkish:suşi, Arabic: سُوشِي‎ (sūšī)  
 **ta** *-ness, (-ity)* ← Russian:-та (-ta), Hindi:-ता (-tā) + French:-ité, Spanish:-idad, Portuguese:-idade, Italian:-ità, Malay:-itas  
 **tabake** *tobacco* ← deu:Tabak, Russian:табак (tabak), French:tabac, Spanish:Portuguese:tabaco, Japanese:タバコ (tabako), English:tobacco, Arabic:تَبْغ‎ (tabḡ), Persian:تنباکو‎ (tanbâku), Turkish:tömbeki, Hindi:तंबाकू (tambākū), Bengali:তামাকু (tāmāku), Malay:tembakau, Swahili:mtubaku, Hausa:taba  
-**tabi** *nature (disposition, essence, character, -ive)* ← Arabic:طبيعة (ṭabīʿa), Persian:طبیعت‎ (tabi'at), Hindi:तबीयत (tabīyat), Bengali:তবিয়ত (tôbiyôt), Swahili:tabia Turkish:tabiat  
+**tabi** *nature (disposition, essence, character, -ive)* ← Arabic:طبيعة (ṭabīʿa), Persian:طبیعت‎ (tabi'at), Hindi:तबीयत (tabīyat), Bengali:তবিয়ত (tôbiyôt), Swahili:tabia, Hausa:tsabi'a, Turkish:tabiat  
 **table** *slab (slate, tablet, board)* ← English:table, French:tableau, Spanish:tabla, Russian:табличка (tablichka), Malay:tabel, Turkish:tablo  
 **tai** *stage (platform, pedestal, podium)* ← Mandarin:台 (tái), Cantonese:臺 (toi4), Japanese:台 (dai), Vietnamese:đài, Korean:대 (dae) + English:dais  
 **taiga** *taiga* ← Russian:тайга (tayga), English:Spanish:Portuguese:Malay:taiga, Turkish:tayga, Arabic:تايغا‎ (tāyḡā), Mandarin:泰加林 (tàijiālín), Japanese:タイガ (taiga)  

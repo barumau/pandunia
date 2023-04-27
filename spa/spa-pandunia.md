@@ -218,7 +218,7 @@ andesita - andesite
 Andorra - Andora  
 andrajoso - cira cira di  
 anemia - anhemia  
-anglicanizar - fa englix kitabe  
+anglicanizar - eglixife  
 anglófilo - englix filiste  
 Angola - Angola  
 anillo (sortija) - angul ring  
@@ -596,7 +596,7 @@ calcetín - maze
 calcio - kalsium  
 calcita - kalsite  
 calcular (computar) - konpute  
-calcular - fa hisabu  
+calcular - hisabe  
 caldero - dai pote  
 calendario - kalende  
 calidad (excelencia, mérito, virtud, ventaja) - hau sifata  
@@ -1299,7 +1299,7 @@ dualismo - dualisme
 dubnio - dubnium  
 ducha - dux  
 duda - xake  
-dueño - malike  
+dueño - maler  
 duna - duna  
 durable - durebil  
 duración - dure  
@@ -3072,6 +3072,8 @@ perdonar (disculpar) - maf
 perdurable (longevo, prolongado) - long durike  
 perdón - maf  
 perecer - perex fa  
+peregrinaje - haje  
+peregrino - hajer  
 perfeccionar - fa pul hau  
 perfecto - pul hau  
 perfecto - perfete  
@@ -4127,8 +4129,7 @@ vertical - gau dipe
 vestido (llevando ropa) - fuku di  
 vestir - fukize  
 vez - mar  
-viajar - safar  
-viaje - safar  
+viajar (viaje) - safar  
 viajero - safarer  
 vice- (alternativa, sustituto) - vise  
 vicepresidente - vise prezidente  

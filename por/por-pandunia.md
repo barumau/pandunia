@@ -293,7 +293,7 @@ caju - kaju
 cal - kalside  
 calcinha - pantete  
 calcita - kalsite  
-calcular - fa hisabu  
+calcular - hisabe  
 calcário - kalsopetre  
 calendário - kalende  
 califa - halife  
@@ -1472,6 +1472,8 @@ perdedor - xiti bai ja
 perder - xiti  
 perdoar (desculpar) - maf  
 perecer - perex fa  
+peregrinagem - haje  
+peregrino - hajer  
 perguntar - fa sual  
 perigo - hatar  
 perplexo (confuso) - ruhu mixe di  

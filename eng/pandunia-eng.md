@@ -1077,6 +1077,7 @@ Englix - England
 englix di - English  
 englix filiste - anglophile  
 englix fon di - anglophone (English speking)  
+eglixife - anglicize  
 englix margarita - English daisy  
 enzim - enzyme  
 erbium - erbium  
@@ -1141,7 +1142,6 @@ fa ding - determine (establish, fix, decide, set, confirm, specify, resolve)
 fa dosil - tame (train)  
 fa dosil gene - domesticate (cultivate)  
 fa duka - sadden (make sad)  
-fa englix kitabe - anglicize  
 fa fatu - punish (penalize)  
 fa fei - fly (go through air)  
 fa fokus - concentrate  
@@ -1150,7 +1150,6 @@ fa halal - allow (permit)
 fa has - distinguish  
 fa hava - blow  
 fa hen - hate (detest)  
-fa hisabu - calculate  
 fa hogo - burn (cause to burn)  
 fa jang - fight (do battle, make war)  
 fa jong - center (concentrate)  
@@ -1738,6 +1737,8 @@ haha - laugh
 haide - let's  
 haima - tent  
 Haiti - Haiti  
+haje - pilgrimage  
+hajer - pilgrim  
 haki - dust  
 haki cupu gi - vacuum cleaner  
 haki rang - khaki  
@@ -1873,6 +1874,7 @@ hipoglukohemia - hypoglycemia
 hipohemopresia - hypotension (low blood pressure)  
 hipokalsohemia - hypocalcemia  
 Hiperion - Hyperion  
+hisabe - calculate  
 hisabe - calculate  
 hisabia - arithmetics  
 hisabu loge - account  
@@ -2794,7 +2796,8 @@ makiniste - mechanic
 makinize - mechanize  
 mal - own (possess)  
 mal - property (belongings, possessions)  
-malike - owner (proprietor, possessor)  
+maler - owner (proprietor, possessor)  
+malike - own (belonging to sb.)  
 malonomia - economics  
 Malaisia - Malaysia  
 malaria - malaria  
@@ -3974,7 +3977,6 @@ safife - clean (purify)
 safe tela - wipe (rag, cleaning cloth)  
 safer - cleaner  
 safta - cleanliness (purity)  
-safar - travel  
 safar - travel (voyage, trip)  
 safar ceke - traveller's cheque (traveler's check)  
 safarer - traveler  

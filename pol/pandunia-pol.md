@@ -1042,6 +1042,7 @@ Englix - Anglia
 englix di - Anglik; angielski  
 englix filiste - anglofil  
 englix fon di -   
+eglixife - anglizować (zanglizować)  
 englix margarita - stokrotka pospolita  
 enzim - enzym  
 erbium - erb  
@@ -1106,7 +1107,6 @@ fa ding -
 fa dosil - oswoić (oswajać, tresować, trenować)  
 fa dosil gene - udomowić (kultywować)  
 fa duka - zasmucić (zasmucać)  
-fa englix kitabe - anglizować (zanglizować)  
 fa fatu -   
 fa fei - latać, lecieć  
 fa fokus - skupić, się, skoncentrować się  
@@ -1115,7 +1115,6 @@ fa halal - pozwolić, pozwalać, zezwolić, zezwalać
 fa has - rozróżniać (rozróżnić)  
 fa hava - dmuchać  
 fa hen -   
-fa hisabu - kalkulować  
 fa hogo - spalić, palić  
 fa jang -   
 fa jong - centrować, skupić, skupiać  
@@ -1703,6 +1702,8 @@ haha - śmiać się
 haide - niech my, hajda  
 haima - namiot  
 Haiti - Haiti  
+haje -   
+hajer -   
 haki - pył  
 haki cupu gi - odkurzacz  
 haki rang -   
@@ -1838,6 +1839,7 @@ hipoglukohemia -
 hipohemopresia -   
 hipokalsohemia -   
 Hiperion -   
+hisabe - kalkulować  
 hisabe -   
 hisabia - arytmetyka  
 hisabu loge - konto  
@@ -2760,7 +2762,8 @@ makiniste -
 makinize -   
 mal - mieć (posiadać)  
 mal - własność (mienie)  
-malike - właściciel (posiadacz)  
+maler - właściciel (posiadacz)  
+malike -   
 malonomia - ekonomia  
 Malaisia - Malezja  
 malaria - malaria  
@@ -3939,8 +3942,7 @@ safife - wyczyścić, czyścić
 safe tela -   
 safer - sprzątacz, sprzątacz  
 safta -   
-safar - podróżować  
-safar - podróż  
+safar - podróżować (podróż)  
 safar ceke -   
 safarer - podróżnik  
 safran - szafran  
