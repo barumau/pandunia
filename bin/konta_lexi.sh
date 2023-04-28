@@ -39,6 +39,7 @@ pan=$(cat temp/logaslia.txt | grep -c ":" )
 echo "pan $pan 100%" >> temp/stats.txt
 
 konta_bax eng englix $pan
+konta_bax deu doice $pan
 konta_bax fra franse $pan
 konta_bax spa espanya $pan
 konta_bax por portugal $pan

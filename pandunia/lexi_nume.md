@@ -17,6 +17,7 @@
 | putonghan | 482 | 29% |
 | bangla | 482 | 29% |
 | suahili | 458 | 27% |
+| doice | 380 | 23% |
 | viet | 333 | 20% |
 | parsi | 328 | 20% |
 | guangdonghan | 247 | 15% |

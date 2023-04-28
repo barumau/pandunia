@@ -15,6 +15,7 @@ fata_leksasli_liste() {
     #Delete illegal strings
     sed -i 's/:/-/g' temp/logaslia.txt
     sed -i 's/eng-/eng:/g' temp/logaslia.txt
+    sed -i 's/deu-/deu:/g' temp/logaslia.txt
     sed -i 's/fra-/fra:/g' temp/logaslia.txt
     sed -i 's/spa-/spa:/g' temp/logaslia.txt
     sed -i 's/por-/por:/g' temp/logaslia.txt
@@ -31,6 +32,8 @@ fata_leksasli_liste() {
     sed -i 's/may-/may:/g' temp/logaslia.txt
     sed -i 's/swa-/swa:/g' temp/logaslia.txt
     sed -i 's/tur-/tur:/g' temp/logaslia.txt
+    sed -i 's/hau-/hau:/g' temp/logaslia.txt
+    sed -i 's/tam-/tam:/g' temp/logaslia.txt
 }
 
 konta_asar() {
@@ -78,6 +81,7 @@ pan=$(cat temp/logaslia.txt | grep -c ":" )
 #echo "pan $pan 100%" >> temp/stats.txt
 
 konta_asar eng english $pan
+konta_asar deu doice $pan
 konta_asar fra franse $pan
 konta_asar spa espan $pan
 konta_asar por portugal $pan
@@ -85,6 +89,7 @@ konta_asar rus rus $pan
 
 konta_asar hin hindi $pan
 konta_asar ben bangla $pan
+konta_asar tam tamil $pan
 konta_asar fas parsi $pan
 konta_asar tur turki $pan
 
@@ -96,8 +101,9 @@ konta_asar vie viet $pan
 
 konta_asar may malayu $pan
 
-konta_asar ara arabi $pan
+konta_asar ara arabe $pan
 konta_asar swa suahili $pan
+konta_asar hau hausa $pan
 
 #ratiba la dayi va lili numbe, ya kolum 2
 sort --field-separator=',' --key=2 -rn temp/asarpercent.csv -o temp/asarpercent.csv

@@ -42,6 +42,7 @@ def grafe_kolum() -> None:
     axes.bar_label(bars, fmt='%1.0f%%')
 
     my_colors = ["#ea5545", "#f46a9b", "#ef9b20", "#edbf33", "#ede15b", "#bdcf32", "#87bc45", "#27aeef", "#b33dc6"] # pastel rang
+    plt.xticks(rotation=45)
     plt.bar(baxe_nam, prosente, tick_label=baxe_nam, color=my_colors)
     plt.savefig('html/grafe/logasle.png', dpi=300)
 

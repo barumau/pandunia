@@ -2,20 +2,23 @@
 
 | baxe  | asar |
 |-------|--------|
-| english | 11% |
+| english | 10% |
+| doice | 3% |
 | franse | 9% |
-| espan | 10% |
+| espan | 9% |
 | portugal | 9% |
-| rus | 8% |
+| rus | 7% |
 | hindi | 7% |
 | bangla | 4% |
+| tamil | 1% |
 | parsi | 3% |
-| turki | 5% |
+| turki | 4% |
 | putonghan | 5% |
 | guangdong | 3% |
 | nipon | 6% |
 | cosen | 4% |
 | viet | 3% |
 | malayu | 5% |
-| arabi | 4% |
+| arabe | 4% |
 | suahili | 4% |
+| hausa | 1% |
