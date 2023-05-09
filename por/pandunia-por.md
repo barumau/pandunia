@@ -238,6 +238,7 @@ belca - pá
 ben - filho ou filha  
 ben doh - neta  
 ben son - neto  
+benke - banco  
 benzi - enxó  
 beri - baga  
 berilium - berílio  
@@ -898,6 +899,7 @@ karte - carta geográfica
 kartografia - cartografia  
 karta - carta  
 karuba - alfarroba  
+kasul - cápsula  
 kaska - casca (concha)  
 Kastilia - Castela  
 kastilia baxe - castelhano  
@@ -1007,6 +1009,7 @@ kulture - cultura
 kupa - copo (taça)  
 kupre - cobre  
 kurium - cúrio  
+kuran - Corão  
 kurban - sacrifício  
 • prekurser - precursor  
 kurta - túnica  
@@ -1451,7 +1454,7 @@ par vezeta - equilíbrio
 paranam - parónimo  
 pari - fada  
 pari kata - conto de fadas  
-paristan - mundo das fadas (paraíso)  
+paristan - mundo das fadas  
 parke - parque  
 parne - samambaia  
 parte - fragmento  
@@ -1498,7 +1501,6 @@ petra nafte - petróleo
 pexe - peixe  
 pexe huke - anzol  
 pexe saider - pescador  
-piaze - cebola  
 pike - ponta (pico, bico)  
 pil - pele  
 pilau - pilafe  

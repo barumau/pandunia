@@ -73,7 +73,7 @@ This ranking is used as a reference in Pandunia.
 
 ## The main source languages for Pandunia
 
-Most Pandunia words are borrowed from 20 widely spoken languages as listed in the table below.
+Most Pandunia words are borrowed from 21 widely spoken languages as listed in the table below.
 The languages are selected so that they represent different language families,
 different geographical regions and different cultures.
 
@@ -102,9 +102,10 @@ The numbers of speakers are from the Power Language Index and the Wikipedia.
 | Tamil            |      78 million |    8 million        | 38 | Indian              | Dravidian            |
 | Vietnamese       |      76 million |    1 million        | 43 | East Asian          | Austroasiatic        |
 | Hausa            |      51 million |   26 million        |114 | Afro-Asian          | Afro-Asiatic         |
+| Fula             |      42 million |   10 million        |119 | Afro-Asian          | Niger-Congo          |
 
 They represent also a good mix of cultures and regions of the world.
-The table below shows the number of countries by continent where the 20 source languages have an official status.
+The table below shows the number of countries by continent where the 21 source languages have an official or national status.
 
 | Language   | America  | Europe   | Africa   | Asia     | Oceania  |
 |------------|----------|----------|----------|----------|----------|
@@ -116,6 +117,7 @@ The table below shows the number of countries by continent where the 20 source l
 | German     |          |    6     |          |          |          |
 | Arabic     |          |          |   11     |   12     |          |
 | Swahili    |          |          |    5     |          |          |
+| Fula       |          |          |    3     |          |          |
 | Hausa      |          |          |    2     |          |          |
 | Turkish    |          |    1     |          |    1     |          |
 | Persian    |          |          |          |    3     |          |

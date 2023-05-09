@@ -521,8 +521,8 @@ ben - lapsi (jälkeläinen)
 ben ben - lapsenlapsi  
 ben doh - lapsen tytär  
 ben son - lapsen poika  
-benci - penkki  
 Benin - Benin  
+benke - penkki  
 benzi - telsa (koverokirves)  
 benzin - bensiini (bensa)  
 bere - baskeri (baretti)  
@@ -1655,7 +1655,6 @@ hipe - vajaa
 hipoglukohemia - matala verensokeri (hypoglykemia)  
 hipohemopresia - matala verenpaine  
 Hiperion - Hyperion  
-hisabe - laskea (tehdä laskutoimitus)  
 hisabe - laskea (lasku, laskelma)  
 hisabia - laskuoppi (aritmetiikka)  
 hisabu loge - tili  
@@ -2032,6 +2031,7 @@ karuba - johanneksenleipäpuu
 karvan - karavaani (saattue)  
 kase - laatikko  
 kasete - kasetti  
+kasul - kapseli  
 kaska - kuori (suojakuori, suoja)  
 kastana - kastanja  
 Kastilia - Kastilia  
@@ -3103,7 +3103,7 @@ parce di - rikki (palasina)
 parde - verhot  
 pari - keiju  
 pari kata - satu  
-paristan - satumaa (paratiisi)  
+paristan - satumaa  
 Paris - Pariisi  
 parke - tarha (puisto)  
 parsi - persia (farsi)  
@@ -3190,7 +3190,6 @@ pexe huke - ongenkoukku
 pexe saider - kalastaja  
 pexe tanke - akvaario  
 piano - piano  
-piaze - sipuli  
 pigu - pylly (takapuoli, pakarat)  
 pijin - kontaktikieli (pidgin)  
 pike - kärki (pää)  

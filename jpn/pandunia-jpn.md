@@ -819,6 +819,7 @@ karte - 地図
 karta - カルタ  
 karuba - 蝗豆  
 kasete - カセット  
+kasul - カプセル  
 kaska - 殻 (皮)  
 katana - 刀  
 katil - 寝床 (ベッド)  
@@ -1291,7 +1292,6 @@ reparer - 修理工
 par jen - 同輩  
 par vezeta - 均衡 (平衡)  
 parce kai - 弾ける  
-paristan - 仙境  
 parne - 羊歯  
 partaner - パートナー  
 partaneria - パートナーシップ  
@@ -1327,7 +1327,6 @@ petra nafte - 石油
 pexe - 魚  
 pexe huke - 釣り針  
 pexe saider - 漁師  
-piaze - 玉葱  
 pike - 先  
 pin - 針 (刺, ピン)  
 pin kardon - ゴロツキアザミ  

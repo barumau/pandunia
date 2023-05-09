@@ -283,7 +283,7 @@ barbar - barbare
 Barbuda - Barbuda  
 barde - barbe  
 bari metal - métaux lourds  
-barke - féliciter  
+barke - féliciter (benir)  
 barke - Félicitations !  
 barte - indien  
 Barte Bahai - océan Indien  
@@ -334,6 +334,7 @@ bei - socio
 belca - pelle  
 ben - fils ou fille  
 ben ben - petit-enfant  
+benke - banc  
 benzi - herminette  
 beri - baie  
 berilium - béryllium  
@@ -1077,6 +1078,7 @@ karte - carte (plan)
 kartografia - cartographie  
 karta - carte  
 karuba - caroube  
+kasul - capsule  
 kaska - carapace (coquille, coquillage, croûte)  
 Kastilia - Castille  
 kastilia baxe - castillan  
@@ -1192,6 +1194,7 @@ kume - accumuler
 kupa - coupe (tasse, verre)  
 kupre - cuivre  
 kurium - curium  
+kuran - Coran  
 kurban - sacrifice  
 • prekurser - précurseur  
 kurta - tunique  
@@ -1223,6 +1226,7 @@ Latvia - Lettonie
 lau - vieux (âgé, ancien)  
 laurencium - lawrencium  
 laxe - lâcher (laisser)  
+• relaxe - relâcher  
 lazanya - lasagne  
 lazur - azur  
 lazur petra - lapis-lazuli  
@@ -1655,7 +1659,7 @@ par vezeta - équilibre
 paranam - paronyme  
 pari - fée  
 pari kata - conte de fées  
-paristan - pays des fées (paradis)  
+paristan - pays des fées  
 Paris - Paris  
 parke - parc  
 parne - fougères  
@@ -1707,7 +1711,6 @@ petra nafte - pétrole (essence)
 pexe - poisson  
 pexe huke - hameçon  
 pexe saider - pêcheur  
-piaze - oignon  
 pike - bout (pointe, pic)  
 pilau - pilaf  
 pin - épingle  
@@ -2332,7 +2335,7 @@ zai di - présent
 zai zaman di - actuel (courant)  
 zalimive - cruel  
 zalim yunte - junte  
-zaman - temps  
+zaman - temps (ère)  
 • prezaman di - vieux (ancien)  
 zar kube - dé  
 Zarduxte - Zoroastre  

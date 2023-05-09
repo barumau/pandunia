@@ -424,7 +424,7 @@ bell - dang gi
 belly (stomach, abdomen) - pete  
 belong - be mal  
 belt (zone) - zone  
-bench - benci  
+bench - benke  
 bend (flex) - flexe  
 Bengali language (Bangla) - bangla baxe  
 Benin - Benin  
@@ -623,7 +623,6 @@ calabash - sui kaboga
 calcite - kalsite  
 calcium (Ca) - kalsium  
 calculate - hisabe  
-calculate - hisabe  
 calculus (manipulation of symbolic expressions) - kalkul  
 calendar - kalende  
 californium - kalifornium  
@@ -658,6 +657,7 @@ canyon (ravine, gorge, gully) - kanyon
 capable (talent, skillful) - bilive  
 cape (cloak, mantle) - mantol  
 capital letter (upppercase letter) - dai zi  
+capsule - kasul  
 captain - nave xefe  
 car (cart, carriage, wagon, automobile) - car  
 car park (parking lot) - car parke  
@@ -1467,7 +1467,7 @@ failure (blunder, flop, miss, loss, defeat) - xiti bai
 faint (depending on context: soft, dull, mild, weak, slow, subtle) - mirde  
 fairy (faery) - pari  
 fairy tale - pari kata  
-fairyland (paradise) - paristan  
+fairyland - paristan  
 fake (fictional, fake, made up, spurious) - mitike  
 Falkland Islands (Malvinas) - Malvina nesia  
 fall - pada  
@@ -3024,7 +3024,6 @@ oncilla - bagre oselote
 one (1) - un  
 one (impersonal pronoun: people, you) - jen (jen men)  
 one-eyed - unokike  
-onion - piaze  
 online - a lin  
 only (lone, single, individual) - mone  
 only (single, sole, lone, just) - unike  

@@ -256,7 +256,7 @@ ben - ido (gefilo)
 ben ben - genepo  
 ben doh - nepino  
 ben son - nepo  
-benci - benko  
+benke - benko  
 benzi - adzo  
 benzin - benzino  
 bere - bereto  
@@ -850,7 +850,6 @@ hindisme - hinduismo
 hindiste - hinduo  
 hindium - indio  
 Hinde rivo - Induso  
-hisabe - kalkuli  
 hisabe - kalkuli  
 hisabu loge - konto  
 histor - historio  
@@ -1618,7 +1617,6 @@ pexe - fiŝo
 pexe huke - fiŝhoko  
 pexe saider - fiŝkaptisto  
 piano - piano  
-piaze - cepo  
 pigu - kulo  
 pijin - piĝino  
 pil - haŭto  

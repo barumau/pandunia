@@ -1335,7 +1335,6 @@ par jen - 同辈
 par vezeta - 平衡  
 parce kai - 爆裂  
 pari kata - 童话  
-paristan - 仙境  
 parke - 园  
 parne - 蕨  
 partaner - 伙伴  
@@ -1371,7 +1370,6 @@ petra nafte - 石油
 pexe - 鱼  
 pexe huke - 鱼钩  
 pexe saider - 鱼夫  
-piaze - 洋葱  
 pike - 尖顶  
 pil - 皮  
 pilau - 抓饭  

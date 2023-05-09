@@ -33,6 +33,7 @@ fata_leksasli_liste() {
     sed -i 's/swa-/swa:/g' temp/logaslia.txt
     sed -i 's/tur-/tur:/g' temp/logaslia.txt
     sed -i 's/hau-/hau:/g' temp/logaslia.txt
+    sed -i 's/ful-/ful:/g' temp/logaslia.txt
     sed -i 's/tam-/tam:/g' temp/logaslia.txt
 }
 
@@ -104,6 +105,7 @@ konta_asar may malayu $pan
 konta_asar ara arabe $pan
 konta_asar swa suahili $pan
 konta_asar hau hausa $pan
+konta_asar ful ful $pan
 
 #ratiba la dayi va lili numbe, ya kolum 2
 sort --field-separator=',' --key=2 -rn temp/asarpercent.csv -o temp/asarpercent.csv

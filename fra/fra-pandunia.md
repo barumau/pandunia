@@ -244,6 +244,7 @@ balle (boule, sphère) - bol
 ballon - bolon  
 bambou - bambu  
 banane - banana  
+banc - benke  
 bandage - bandaje  
 bande - banda  
 bande dessinée - grafe kata  
@@ -404,6 +405,7 @@ capacité (pouvoir, habileté) - bilta
 cape - mantol  
 capot - moter cate  
 capsule - botel tape  
+capsule - kasul  
 caractère - zi  
 carapace (coquille, coquillage, croûte) - kaska  
 carat - kirate  
@@ -565,6 +567,7 @@ copernicium - kopernium
 copie - kopi  
 coquelicot - medan papi  
 corail - koral  
+Coran - kuran  
 corde - kable  
 coriandre - kotumbar  
 corne - korne  
@@ -887,7 +890,7 @@ fusionner (fuser) - konfuze
 fèces - feke  
 fée - pari  
 Félicitations ! - barke  
-féliciter - barke  
+féliciter (benir) - barke  
 
 ## G  
 
@@ -1480,7 +1483,6 @@ odeur - aroma
 oeuf - anda  
 oganesson - oganeson  
 oie - ganse  
-oignon - piaze  
 oiseau - paci  
 olive - zetun  
 ombrelle (parasol) - sol cati  
@@ -1586,7 +1588,7 @@ pavillon - kioske
 pavot d'Orient - gui papi  
 pavot somnifère - sona papi  
 pavé - bolite  
-pays des fées (paradis) - paristan  
+pays des fées - paristan  
 peindre - pente  
 peinture - pente  
 pelle - belca  
@@ -1823,6 +1825,7 @@ recycler - resikle
 rein - nefre  
 relexifier - rilexife  
 religion - din  
+relâcher - relaxe  
 renard - huli  
 reporter (rapporteur) - reporter  
 repos - xanti  
@@ -2065,7 +2068,7 @@ technétium - tehnetium
 tectonique des plaques - plate geo kaskelogia  
 tellure - telurium  
 temple - pujekan  
-temps - zaman  
+temps (ère) - zaman  
 tendance - klin  
 tender - long tire  
 tendu - tense  

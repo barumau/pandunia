@@ -500,8 +500,8 @@ ben - dziecko (potomek)
 ben ben -   
 ben doh -   
 ben son -   
-benci - ławka  
 Benin - Benin  
+benke - ławka  
 benzi -   
 benzin - benzyna  
 bere - beret  
@@ -1708,7 +1708,6 @@ hipohemopresia -
 hipokalsohemia -   
 Hiperion -   
 hisabe - kalkulować  
-hisabe -   
 hisabia - arytmetyka  
 hisabu loge - konto  
 histor - historia; annały, roczniki  
@@ -2129,6 +2128,7 @@ karuba -
 karvan - karawana  
 kase -   
 kasete -   
+kasul -   
 kaska - skorupa (pancerz, muszla)  
 kastana - kasztan  
 Kastilia -   
@@ -3451,7 +3451,6 @@ pexe huke - haczyk
 pexe saider - rybak  
 pexe tanke - akwarium  
 piano - pianino  
-piaze - cebula  
 pigu - pośladki, pupa, tyłek, zadek  
 pijin - pidżin, język pomocniczy  
 pike -   

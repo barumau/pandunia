@@ -379,7 +379,6 @@
  - hipoglukohemia  
  - hipohemopresia  
  - hipokalsohemia  
- - hisabe  
  - historia  
  - hobiiste  
  - holiste  
@@ -470,6 +469,7 @@
  - kasete  
  - Kastilia  
  - kastilia baxe  
+ - kasul  
  - kata ja  
  - katana  
  - kentaur  
@@ -1549,7 +1549,6 @@ Cantalupo in Sabina - Kantalupo a Sabina
 całość (integralność) - holia  
 całus - busu  
 cały - hol  
-cebula - piaze  
 cecha, atrybut, własność; -ość - hau sifata  
 cecha, właściwość, parametr - sifa  
 cegła - tege  
@@ -4740,7 +4739,7 @@ zły, zrujnowany, zepsuty - harabe
 łapać rybę - kape yo pexe  
 łapać rybę - saide yo pexe  
 łatwy, prosty - fasil  
-ławka - benci  
+ławka - benke  
 łazienka - banya kamar  
 łańcuch - serser  
 łańcuszek - seri letre  

@@ -240,6 +240,7 @@ ben - ребёнок (потомок)
 ben ben - внуки  
 ben doh - внучка  
 ben son - внук  
+benke - скамейка (лавка)  
 benzi - тесло (дексель)  
 beri - ягода  
 berilium - бериллий  
@@ -940,6 +941,7 @@ karte - карта (план)
 kartografia - картография  
 karta - карта  
 karuba - рожковое дерево  
+kasul - капсула  
 kaska - оболочка (кора, панцирь)  
 Kastilia - Кастилия  
 kastilia baxe - кастильский язык  
@@ -1054,6 +1056,7 @@ kulture - культура
 kupa - чаша (чашка, стакан)  
 kupre - медь  
 kurium - кюрий  
+kuran - Коран  
 kurban - жертва  
 kurva - кривая  
 kutu - вошь  
@@ -1521,7 +1524,6 @@ petra nafte - нефть
 pexe - рыба  
 pexe huke - крючок  
 pexe saider - рыбак (рыболов)  
-piaze - лук  
 pike - кончик (остриё, пик)  
 pilau - плов  
 pin - булавка (игла, шип)  

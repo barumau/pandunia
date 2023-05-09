@@ -1192,6 +1192,7 @@ kanssa (yhdessä; yhteinen) - kon
 kanssakärsimys (myötätunto) - konpatia  
 kantaa - porte  
 kapina - rebel  
+kapseli - kasul  
 kapteeni - nave xefe  
 karaatti - kirate  
 karaoke - karaoke  
@@ -1759,7 +1760,6 @@ lasi - glas
 lasite (emali) - glasure  
 lasittaa - glasife  
 laskea (lasku, laskelma) - hisabe  
-laskea (tehdä laskutoimitus) - hisabe  
 laskea tasoa - dus gradu  
 laskeutua portaita - detrepe  
 lasku (faktuura) - fatura  
@@ -2729,7 +2729,7 @@ pelottaa pois - detere
 pelottava - fobive  
 pelottava - terifike  
 pelätä - be fobi  
-penkki - benci  
+penkki - benke  
 pensseli (sivellin) - pente broxa  
 perhe - famil  
 perhonen - pelpel  
@@ -3278,7 +3278,7 @@ satsuma - venzou orange
 sattuma (onni) - zar  
 sattumanvarainen - zarike  
 satu - pari kata  
-satumaa (paratiisi) - paristan  
+satumaa - paristan  
 Saturnus - Xani  
 Saudi Arabia - Saudi Arabi  
 sauma (ommel) - sutur  
@@ -3385,7 +3385,6 @@ sintolaisuus - xindau din
 sinun - tu su  
 sinä - tu  
 Siperia - Sibiria  
-sipuli - piaze  
 sirkus - sirkus  
 sisarenpoika - sis son  
 sisarentytär - sis doh  

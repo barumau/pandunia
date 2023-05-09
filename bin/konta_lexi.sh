@@ -62,6 +62,7 @@ konta_bax may malayu $pan
 konta_bax ara arabi $pan
 konta_bax swa suahili $pan
 konta_bax hau hausa $pan
+konta_bax ful ful $pan
 
 #kina nam e numbe va sami linye
 perl -pi -e 's/ \n/ /' temp/stats.txt

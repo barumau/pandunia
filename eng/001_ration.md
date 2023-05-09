@@ -65,7 +65,7 @@ Areal linguistic characteristics, such as [Standard Average European](https://en
 are not suitable guidelines for the world language.
 Instead, the grammar should be built from things that are universally known and/or universally considered easy.
 
-Words are selected to Pandunia mostly from 20 main source languages.
+Words are selected to Pandunia mostly from 21 main source languages.
 The six official languages of the United Nations are included: English, French, Spanish, Russian, Arabic and Mandarin Chinese.
 The language of the heart of Europe is included: German.
 The language of the South Atlantic is included: Portuguese.
@@ -76,7 +76,7 @@ The other major languages of Middle East besides Arabic are included: Turkish an
 
 All in all, they represent a good mix of cultures and regions of the world.
 
-![](http://www.pandunia.info/grafe/baze_lingue.png "The 20 source languages on world map")
+![](http://www.pandunia.info/grafe/baze_lingue.png "The 21 source languages on world map")
 
 Only two languages have more than one billion speakers each: Mandarin and English.
 Mandarin is by far the largest language by number of native speakers,

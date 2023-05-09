@@ -189,6 +189,7 @@ bambu - bambu
 banana - banana  
 bancarrota (falido) - bankrute  
 banco - bankekan  
+banco - benke  
 banco de dados - date banke  
 bando - banda  
 banqueiro - banker  
@@ -356,7 +357,6 @@ castanho (marrom) - kafe rang
 Castela - Kastilia  
 castelhano - kastilia baxe  
 cavar (escavar) - kave  
-cebola - piaze  
 cem (100) - sento  
 cemitério - gabrestan  
 cenoura - karote  
@@ -475,6 +475,7 @@ corredor - korer
 corrente (atual) - zai zaman di  
 correr - kore  
 correto (justo) - sahi  
+Corão - kuran  
 cosmo - kosme  
 cosmonauta - kosmonaver  
 costa - bahai kinar  
@@ -516,6 +517,7 @@ cádmio - kadimium
 cálamo - gana kalam  
 cálcio - kalsium  
 cápsico - cili  
+cápsula - kasul  
 cáqui - haki rang  
 câncer (cancro) - kanse  
 câncer de mama - mame kanse  
@@ -1252,7 +1254,7 @@ multidão - jen jami
 multilíngue (plurilíngue) - polibaxike  
 multilíngue (plurilíngue) - polibaxike  
 mundo - dunia  
-mundo das fadas (paraíso) - paristan  
+mundo das fadas - paristan  
 muro (muralha) - mur  
 máquina de escrever - kitabe maxin  
 mármore - kalsobilor  

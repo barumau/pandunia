@@ -440,8 +440,8 @@ Belize - Belice
 ben - hijo o hija  
 ben doh - nieta  
 ben son - nieto  
-benci - banco (silla)  
 Benin - Benín  
+benke - banco (silla)  
 benzi - azuela  
 benzin - gasolina (bencina)  
 bere - boina  
@@ -1814,6 +1814,7 @@ karta - tarjeta (carta)
 Kartul - Georgia (República de Georgia)  
 karuba - algarrobo  
 karvan - caravana  
+kasul - cápsula  
 kaska - carapacho (cáscara, concha, corteza, capa)  
 kastana - castaña  
 Kastilia - Castilla  
@@ -2936,7 +2937,6 @@ pexe huke - hamo (anzuelo)
 pexe saider - pescador  
 pexe tanke - acuario (pecera)  
 piano - piano  
-piaze - cebolla  
 pigu - trasero (nalgas)  
 pijin - pidgin  
 pike - pico (punta)  

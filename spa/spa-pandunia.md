@@ -392,7 +392,7 @@ balde (cubo) - baldi
 ballesta - krus arka  
 baloncesto (básquetbol) - baske bol  
 bambú - bambu  
-banco (silla) - benci  
+banco (silla) - benke  
 banco - bankekan  
 banco de datos (base de datos) - date banke  
 banda (cinta) - bandaje  
@@ -695,7 +695,6 @@ cañonear - dai pauer
 cañón (barranco, quebrada) - kanyon  
 cañón - dai pau  
 cebada - jau  
-cebolla - piaze  
 cebra - zebra  
 celebrar (festejar; celebración, fiesta) - feste  
 celeste (azul celeste) - sama nil  
@@ -1062,6 +1061,7 @@ cálculo - kalkul
 cámara - fotografe gi  
 cáncer - kanse  
 cáncer de mama - mame kanse  
+cápsula - kasul  
 cárcel - jelekan  
 Cáucaso - Kaukasia  
 célula - selu  

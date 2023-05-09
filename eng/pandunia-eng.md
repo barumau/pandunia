@@ -535,8 +535,8 @@ ben - child (offspring)
 ben ben - grandchild  
 ben doh - granddaughter  
 ben son - grandson  
-benci - bench  
 Benin - Benin  
+benke - bench  
 benzi - adze  
 benzin - gasoline (petrol)  
 bere - beret  
@@ -1743,7 +1743,6 @@ hipohemopresia - hypotension (low blood pressure)
 hipokalsohemia - hypocalcemia  
 Hiperion - Hyperion  
 hisabe - calculate  
-hisabe - calculate  
 hisabia - arithmetics  
 hisabu loge - account  
 histor - history (annals)  
@@ -2164,6 +2163,7 @@ karuba - carob (St. John's bread)
 karvan - caravan (convoy)  
 kase - box (container)  
 kasete - cassette  
+kasul - capsule  
 kaska - shell (crust, carapace, shield)  
 kastana - chestnut  
 Kastilia - Castil  
@@ -3382,7 +3382,7 @@ parce kai - burst (pop)
 parde - curtain  
 pari - fairy (faery)  
 pari kata - fairy tale  
-paristan - fairyland (paradise)  
+paristan - fairyland  
 Paris - Paris  
 parke - park (garden)  
 parne - fern  
@@ -3485,7 +3485,6 @@ pexe huke - fishhook
 pexe saider - fisher  
 pexe tanke - fish tank  
 piano - piano  
-piaze - onion  
 pigu - buttocks (bum, butt, ass)  
 pijin - pidgin (contact language)  
 pike - point (tip, cusp, peak)  
