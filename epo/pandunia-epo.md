@@ -85,12 +85,13 @@ anus - anuso
 anusal - anusa  
 aple - pomo  
 aposum - didelfo  
+are - areo  
+aria - ejo  
 arabe - araba  
 arane - araneo  
 aranofobia - araneofobio  
 arane nete - araneaĵo  
 arbuze - akvomelono  
-area - ejo  
 argente - arĝento  
 Argentina - Argentino  
 argon - argono  
@@ -238,7 +239,6 @@ be kai - malfermiĝi
 be kux - kuŝi  
 be mal - aparteni  
 be mata - morti  
-be raste - kreski  
 be retro - reiri  
 be sel - devus  
 be sona - dormi  
@@ -565,55 +565,22 @@ Europa - Eŭropo
 europa di - Eŭropa  
 Europa Unia - Eŭropa Unio (EU)  
 exgogia - fremda lando  
+exike - ekstera  
 ezmurude - smeraldo  
 
 ## F  
 
-fa - fari  
-fa alo rai - malkonsenti  
-fa banya - bana  
-fa cori - ŝteli  
-fa defa - defendi  
-fa duka - malĝojigi  
-fa fei - flugi  
-fa fokus - koncentri  
-fa gola - ĉirkaŭi  
-fa hava - venti  
-fa kai - malfermi  
-fa kata - rakonti  
-fa lai - alporti (venigi)  
-fa lenxi - ekzerci  
-fa memo - memori  
-fa nia - celi  
-fa parti - partopreni  
-fa pin - piki  
-fa pos - sekvi  
-fa pul - plenigi  
-fa rai - opinii  
-fa re - ripeti (refari)  
-fa sahi - pravigi  
-fa saide - ĉasi  
-fa sam rai - samopinii (interkonsenti)  
-fa sana - produkti (fabriki)  
-fa side - sidi  
-fa sual - demandi  
-fa tele fon - telefoni  
-fa vai klus - ekskludi  
-fa vanu - amuzi  
-fa xopi - aĉeti  
-fa xux - silentigi  
+fe - fari  
 faide - utileco  
 faidike - utila  
 famil - familio  
 famil nam - familinomo  
 fantaze - fantaci  
-fantaze - fantazio  
+fantazia - fantazio  
 fantazike - fantazia  
 fantom - fantomo  
 fase - surfaco  
-fase area - areo  
 fasil - facila  
-fasinta - fascinado  
 fatura - kalkulo (fakturo)  
 faxisme - faŝismo  
 faxiste - faŝisto  
@@ -630,6 +597,7 @@ fete - fari (faro, fakto)
 • infete - infekto  
 • rifete - ripeti (refari)  
 fete baxe - artefarita lingvo  
+fetebil - farebla  
 feter - faristo  
 feteria - fabriko  
 fikre - pensi  
@@ -649,6 +617,7 @@ firuze - turkiso
 fite - planto  
 fitologia - plantscienco (botaniko)  
 fixe - fiksi  
+• afixaje - afiŝo  
 fizologer - fizikisto  
 fizologia - fiziko  
 • reflexe sonde - eĥo  
@@ -1136,6 +1105,7 @@ klin - emo (inklino, tendenco)
 klon - klono  
 klor - kloro  
 klube - klubo  
+• exkluze - ekskludi  
 koala - koalo  
 kobalte - kobalto  
 kode - kodo  
@@ -1338,13 +1308,13 @@ medu - mielo
 medu vespa - abelo  
 mega - miliono  
 megi - nubo  
+mehe - ŝafo  
 Mehiko - Meksikio  
 mei - bela  
 mei arte - arto  
 meita - beleco  
 meitnerium - mejtnerio  
 melodia - melodio  
-meme - ŝafo  
 memo - memoro  
 • anmemo - forgesi  
 mer - membro  
@@ -1355,7 +1325,7 @@ mes - monato
 metal - metalo  
 metal lin - drato  
 metal mixure - alojo  
-metri - mezuri  
+metre - mezuri  
 meza - tablo  
 meza tela - tablotuko  
 mi - mi  
@@ -1408,12 +1378,11 @@ moliden - molibdeno
 moluske - molusko  
 monograme - monogrammi  
 monisme - monismo  
-Mongol - Mongolio  
-mongol di - mongola  
+mongol - mongola  
+Mongolia - Mongolio  
 mosim - sezono  
 moski - kulo (moskito)  
 moskvium - moskovio  
-mostre - monstro  
 mote - movi  
 moter - motoro  
 motion - movo  
@@ -1526,10 +1495,10 @@ nu - nu
 nume - nombro  
 numologer - matematikisto  
 numologia - matematiko  
-o - aŭ  
 
 ## O  
 
+o - aŭ  
 oganeson - oganesono  
 oke - okulo  
 okal - okula  
@@ -1665,6 +1634,7 @@ pixe - pisi (urini)
 pixe - piso (urino)  
 piza - pico  
 pizaria - picejo  
+• exoplaneta - ekzoplanedo  
 platin - plateno  
 plumbe - plumbo  
 plutonium - plutonio  
@@ -1729,7 +1699,7 @@ rang - koloro
 rase - raco  
 rasisme - racismo  
 rasiste - racisto  
-rasa medi - interrasa  
+rase midike - interrasa  
 ration - rezono  
 ratologia - logiko  
 ratologike - logika  
@@ -1864,7 +1834,7 @@ sexual - seksa
 si - se  
 siborgium - seborgio  
 sifa loge - adjektivo  
-sigar - cigaredo  
+sigarete - cigaredo  
 resikle - recikligi  
 sikliste - biciklisto  
 silike - silicio  
@@ -2011,7 +1981,6 @@ torium - torio
 torso - torso  
 trate - treni  
 trater - traktoro  
-tre - tre  
 tren - trajno (vagonaro)  
 tren dau - fervojo  
 trepe - ŝtuparo  
@@ -2063,12 +2032,10 @@ vaf - hundo
 vaf bute - hundujo  
 vaf parke - hundejo  
 vafle - vaflo  
-vagina - vagino  
-vagina tis - vaginito  
+vagine - vagino  
+vaginits - vaginito  
 vahi - oazo  
 vai - ekstero  
-vai di - ekstera  
-vai planeta - ekzoplanedo  
 vakilkratia - republiko  
 vala - isto  
 vali - valo  
@@ -2229,6 +2196,7 @@ zaman - tempo
 • prezaman - pasinteco  
 • prezaman di - malnova  
 Zambia - Zambio  
+zange - kreski  
 zar - hazardo  
 zarike - hazarda  
 zar kube - ĵetkubo  

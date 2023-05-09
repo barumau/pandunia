@@ -426,9 +426,37 @@ He/she is my friend.
 **mi es Sara su doste.**
 I am Sarah's friend.
 
+The possessive particle is used also to form the predicate of possession.
+The possessor is followed by **su es** and the thing possessed.
+
+**mi su es un mau.**
+I have a cat.  
+**damen su es pesa.**
+They have money.  
+**sara su es doste.**
+Sara has a friend.
+
+It could help to understand the structure by comparing the sentences above to the sentences below.
+
+**mau es mi su.**
+The cat is mine.  
+**pesa es damen su.**
+The money is theirs.  
+**doste es sara su.**
+The friend is Sara's.
+
+Possession is negated by putting the word
+**no**
+before the
+**es**.
+
+**damen su no es pesa.**
+They don't have money.
+
 <small>Etymology. **su**
 English _'s_,
 Afrikaans _se_,
+French _son_ ~ _sa_,
 Spanish _su_.</small>
 
 
@@ -454,23 +482,6 @@ Malay *nama*,
 Japanese 名前 (namae),
 German *Name*,
 English *name*.</small>
-
-
-### ha <small>have</small>
-
-**mi ha un hau dom.**
-I have a good house.
-
-**da no ha pesa.**
-He/she doesn't have money.
-
-**mi vol ha un neu telefon.**
-I want to have a new phone.
-
-**sual tu ha yo ben?**
-Do you have children?  
-**mi ha du ben.**
-I have two children.
 
 
 ### san <small>to know</small>

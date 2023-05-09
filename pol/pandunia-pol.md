@@ -123,6 +123,7 @@ Amara - Amhara, amharski
 Amazon -   
 Amazonia -   
 amen - ufać (wierzyć, liczyć, polegać)  
+amen -   
 amenbil - lojalny (wierny)  
 amenbilta - lojalność (wierność)  
 amen di -   
@@ -172,6 +173,8 @@ anusal - analny, odbytni
 aple - jabłko  
 aple sos - sos jabłkowy  
 aposum - opos  
+are - pole, powierzchnia  
+aria - powierzchnia, region, teren  
 arabe - arabski  
 arabi babul - akacja arabska  
 araki -   
@@ -181,7 +184,6 @@ aranide -
 arane nete - pajęczyna  
 arbuze - arbuz  
 Arcah - Abchazja  
-area - powierzchnia, region, teren  
 argente - srebro  
 Argentina - Argentyna  
 argon - argon  
@@ -463,7 +465,6 @@ be nam - być wezwanym, być wzywanym, być nazwanym, być nazywanym
 be nice - iść w dół (iść pod spód, iść na dno)  
 be par -   
 be pute - rozłożyć się (rozkładać się, gnić, psuć się)  
-be raste - wzrastać  
 be reste - zostać, zostawać  
 be retro - wrócić, wracać, wycofać się, wycofywać się  
 be rota - obrócić się (kręcić się)  
@@ -1081,145 +1082,13 @@ Europa luna -
 Europa Unia - Unia Europejska (EU)  
 exgogia - zagranica  
 exgogike - zagraniczny  
-extre -   
+exike - zewnętrzny  
 exa -   
 ezmurude - szmaragd  
 
 ## F  
 
-fa - zrobić (stworzyć, wykreować)  
-fa alo rai - nie zgadzać się  
-fa amen -   
-fa an galte -   
-fa an verse -   
-fa an zai - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
-fa argu -   
-fa aroma - wąchać  
-fa aroma - pachnieć  
-fa asar - poprowadzić do (doprowadzić do, powodować)  
-fa banya - kąpać się  
-fa biznes lona - negocjować  
-fa cori - ukraść, kraść  
-fa dalil - dowieść, dowodzić; zeznać, zeznawać  
-fa darte hau - nawozić (nawieźć)  
-fa defa - obronić (chronić)  
-fa ding -   
-fa dosil - oswoić (oswajać, tresować, trenować)  
-fa dosil gene - udomowić (kultywować)  
-fa duka - zasmucić (zasmucać)  
-fa fatu -   
-fa fei - latać, lecieć  
-fa fokus - skupić, się, skoncentrować się  
-fa gola - otoczyć, otaczać  
-fa halal - pozwolić, pozwalać, zezwolić, zezwalać  
-fa has - rozróżniać (rozróżnić)  
-fa hava - dmuchać  
-fa hen -   
-fa hogo - spalić, palić  
-fa jang -   
-fa jong - centrować, skupić, skupiać  
-fa jui -   
-fa kai - otworzyć, otwierać  
-fa kata - opowiedzieć, opowiadać  
-fa koste - kosztować  
-fa krus fixe - ukrzyżować  
-fa kung - przebić (perforować, dziurawić)  
-fa kux - położyć  
-fa lai -   
-fa lanse grafi - wyświetlać  
-fa lenxi - ćwiczyć  
-fa libu - postawić (stawiać)  
-fa lika - wzmocnić (wzmocnić, wzmóc)  
-fa linke - łączyć, wiązać, złączyć  
-fa lona - debatować, prowadzić dyskurs  
-fa manera - zachowywać się (działać)  
-fa mantra -   
-fa max lika - wesprzeć (wzmocnić, zasilić)  
-fa mece - konkurować, rywalizować; odbyć mecz, odbywać mecz  
-fa mei daka - dekorować  
-fa memo - pamiętać  
-fa min gradu - zmniejszyć o jeden  
-fa min rai -   
-fa ming - rozjaśnić  
-fa model - modelować (projektować, zaprojektować)  
-fa nafas -   
-fa najis -   
-fa nia -   
-fa oke - zaakceptować, akceptować, powiedzieć okej, mówić okej  
-fa onor -   
-fa ore - słuchać  
-fa pada - upuścić, upuszczać  
-fa par -   
-fa paraya - gardzić (pogardzać)  
-fa parce - stłuc się (rozpaść się na kawałki)  
-fa parti - uczestniczyć, wziąć udział, brać udział  
-fa pasi - sprawić ból, sprawiać ból  
-fa pati mise -   
-fa pauza - przerwać, przerywać  
-fa pede - pierdzieć  
-fa pei - zapłacić, opłacić, płacić  
-fa pin - kłuć (żądlić)  
-fa piping - ocenić, oceniać, recenzować, komentować, krytykować  
-fa poli - podwoić  
-fa politi - rządzić  
-fa pos - podążać  
-fa poze - pozować, ustawiać się  
-fa pul - wypełnić, wypełniać  
-fa pul hau - doskonalić (optymalizować, ulepszać)  
-fa rai - uważać (sądzić)  
-fa rande - heblować  
-fa ratibu - porządkować, organizować  
-fa re - powtórzyć, powtarzać  
-fa redi - przygotować, przygotowywać  
-fa reporte - raportować, relacjonować, opowiadać  
-fa retro -   
-fa rezerve - rezerwować (zarezerwować)  
-fa rolo - toczyć, turlać  
-fa romanse - kochać romantycznie  
-fa sabu - spowodować, powodować  
-fa saf va tela -   
-fa sahi - poprawić, poprawiać, prostować, korygować  
-fa saide - polować (łowić)  
-fa sam rai - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
-fa sam sifa - emulować (symulować, naśladować, modelować)  
-fa sana - zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać  
-fa sekur - chronić (ratować)  
-fa sel -   
-fa sense - czuć (poczuć, postrzegać, wykrywać)  
-fa serve - służyć  
-fa side - siedzieć  
-fa sifa - opisać (zakwalifikować)  
-fa sim -   
-fa sing foto - mruganie (błysk)  
-fa sir - chować (kryć)  
-fa siro -   
-fa soni - brzmieć, wydać dźwięk, wydawać dźwięk  
-fa sor - zamknąć (zamykać, zakluczyć, zakluczać, zapinać, zapiąć)  
-fa sosi - socjalizować się  
-fa sual - zapytać, spytać, pytać  
-fa sultan - rządzić, władać  
-fa sum - zsumować, sumować, dodać, dodawać  
-fa tapa - zatkać, ztykać  
-fa tela - tkać (pleść)  
-fa tele fon -   
-fa tense -   
-fa terca - przechylać (przechylić, wychylać, wychylić)  
-fa tese - dyskutoać, twierdzić  
-fa transe - przejść, przechodzić, przejechać, przejeżdżać  
-fa trati - zgodzić się (umówić się)  
-fa truke - oszukać (oszukiwać  
-fa ulul - wyć  
-fa vai klus -   
-fa vai tense -   
-fa valu -   
-fa vanu - bawić, zabawiać  
-fa xarti - wymagać, przewidywać  
-fa xipi - moczyć (zmoczyć)  
-fa xiti bai - przegrać, przegrywać  
-fa xopi - kupić  
-fa xou -   
-fa xux - uciszyć (uciszać)  
-fa yagu - oszacować, szacować, przybliżyć, przybliżać  
+fe - zrobić (stworzyć, wykreować)  
 faide - zasób (zastosowanie, użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta)  
 faidaje - materiał (składnik, zasób)  
 faidike - użyteczny, pomocny, przydatny, pożyteczny, korzystny  
@@ -1229,16 +1098,14 @@ fan -
 fanate -   
 fanatike -   
 fantaze - wyobrazić, wyobrażać, fantazjować  
-fantaze - fantazja (wyobrażenie, wyobraźnia)  
+fantazia - fantazja (wyobrażenie, wyobraźnia)  
 fantazike - fantastyczny, fantazyjny  
 fantom - duch, fantom  
 fase - powierzchnia  
-fase area - pole, powierzchnia  
 fase tele - głęboki  
 fase teleta - głębokość  
 fasil - łatwy, prosty  
 fasilta -   
-fasinta - fascynacja  
 fatige - zmęczenie (wyczerpanie)  
 fatu -   
 fatu di -   
@@ -1247,8 +1114,6 @@ favor -
 faxe -   
 faxisme - faszyzm  
 faxiste - faszysta  
-faxon - moda, trend  
-faxon di - popularny, modny  
 faze - etap, faza  
 febre - gorączka  
 fei - lot  
@@ -1290,6 +1155,7 @@ fete - zrobić (czyn, uczynek)
 • perfete - perfekcyjny  
 • rifete - powtórzyć, powtarzać  
 fete baxe - język sztuczny  
+fetebil -   
 feter - twórca (czynnik)  
 feteria - fabryka, manufaktura  
 Fiji - Fidżi  
@@ -1317,6 +1183,7 @@ fite - roślina, sadzonka
 fitologia - botanika  
 fixe - przyczepić, przymocować  
 • afixe - afiks  
+• afixaje - afisz (plakat)  
 • posfixe -   
 • prefixe - przedrostek (prefiks)  
 fize -   
@@ -1455,6 +1322,7 @@ galeri - galeria, sala wystawowa
 gali - ulica  
 galope - cwał (galop)  
 galte - popełnić błąd  
+• angaltife -   
 galte - błąd (pomyłka)  
 galte budi - źle zrozumieć  
 galte di - błędny (niepoprawny)  
@@ -2364,10 +2232,12 @@ klin - tendencja (być skłonnym)
 klon - klon, replika  
 klor - chlor  
 klube - klub  
-klus -   
-kluse - zamknąć (zamykać)  
-• inkluse -   
-klus di - zamknięty  
+kluze - zamknąć (zamykać)  
+• exkluze -   
+• exkluzive -   
+• inkluze -   
+• konkluze -   
+kluzike - zamknięty  
 koala - koala  
 kobalte - kobalt  
 kode - kod, szyfr  
@@ -2875,6 +2745,8 @@ mega gram - tona
 mega vate - megawat  
 megi - chmura  
 megi di -   
+mehe - owca  
+mehe kexa - wełna (runo owcze)  
 Mehiko - Meksyk  
 Mehiko siti - Meksyk  
 mei - piękny, przystojny  
@@ -2885,8 +2757,6 @@ meitnerium - meitner
 melodia - melodia  
 melodike - melodyczny  
 melon - ogórek melon  
-meme - owca  
-meme kexa - wełna (runo owcze)  
 memo - pamięć  
 • anmemo - zapominać (zapomnieć)  
 memo bina - pomnik (memoriał)  
@@ -2895,9 +2765,9 @@ memo tehni -
 men -   
 mendelevium -   
 meninge - opona mózgowa  
-meninge tis - zapalenie opon mózgowych  
-• demente -   
+meningitis - zapalenie opon mózgowych  
 mente -   
+• demente -   
 mentor - doradca (mentor)  
 mer - członek  
 meronam - meronim  
@@ -2930,11 +2800,10 @@ metal lin -
 metal mixure -   
 metal saner - kowal  
 metal tul -   
+metre - zmierzyć (miara)  
+• parametre - parametr (argument, wartość wejściowa)  
 metre bande -   
-metri - zmierzyć (miara)  
-metri gi -   
-metri unta - jednostka miary  
-• parametri - parametr (argument, wartość wejściowa)  
+metrer -   
 meza - stół  
 meza stan - płaskowyż (plateau)  
 meza tela - obrus  
@@ -3016,7 +2885,7 @@ mitre - metr
 mixe - miksować, mieszać  
 mixer - mikser, blender, robot kuchenny  
 mixur -   
-mode - tryb  
+mode -   
 model - model, wzór, wzorzec, projekt  
 mode lexe - przysłówek  
 module -   
@@ -3045,8 +2914,8 @@ monograme -
 monike -   
 monisme - monizm  
 Monako - Monako  
-Mongol - Mongolia  
-mongol di - Mongolski  
+mongol - Mongolski  
+Mongolia - Mongolia  
 moral - moralność, etyka  
 moral di - moralny  
 moral logia - etyka  
@@ -3057,7 +2926,6 @@ mosim - pora roku
 moski - komar, moskit  
 Moskva - Moskwa  
 moskvium - moskovium  
-mostre - potwór, monstrum  
 mote - ruszać, przenościć, zmieniać miejsce, inspirować  
 • demote -   
 • promote - promować  
@@ -3139,6 +3007,7 @@ najis di -
 nam - imię, nazwa  
 • annam - antonim  
 • dusnamize - obrazić  
+• exonam - egzonim  
 nam dokumen -   
 nam hin - bezimienny  
 namize - nazwać, nazywać, wezwać, wzywać  
@@ -3326,10 +3195,10 @@ numerike - cyfrowy
 numograme -   
 numologer - matematyk  
 numologia - matematyka  
-o - lub, albo  
 
 ## O  
 
+o - lub, albo  
 Oberon -   
 ode -   
 Odisa - orija  
@@ -3623,6 +3492,7 @@ ple -
 plan - plan  
 plan - planować  
 planeta - planeta  
+• exoplaneta - egzoplaneta  
 plaste -   
 plaste - plastik  
 plastike -   
@@ -3814,8 +3684,7 @@ rang mate - barwnik
 rase - rasa  
 rasisme - rasizm  
 rasiste - rasista  
-rasa medi - międzyrasowy  
-raste - wzrost  
+rase midike - międzyrasowy  
 rate - mieć sens  
 ration - rozum, rozsądek  
 rational - racjonalny, rozsądny  
@@ -4112,7 +3981,8 @@ side loka - siedzenie (siodło)
 sifa - cecha, właściwość, parametr  
 sifa di - opisowy  
 sifa loge - przymiotnik  
-sigar - papieros (cygar)  
+sigare - cygar  
+sigarete - papieros  
 sikisme - sikhizm  
 sikiste - sikh  
 sikle - rower  
@@ -4323,7 +4193,7 @@ tami - chciwy (żądny)
 Tamil - tamilski  
 tana - łodyga (tors, pień, trzon)  
 tanah - Tanach, Biblia hebrajska  
-tanki - zbiornik (cysterna, pojemnik, rezerwuar)  
+tanke - zbiornik (cysterna, pojemnik, rezerwuar)  
 tantalium - tantal  
 tanur - piec (piekarnik)  
 Tanzania - Tanzania  
@@ -4482,7 +4352,6 @@ trate -
 trater - traktor (ciągnik)  
 trati - porozumienie  
 • kontrati -   
-tre - bardzo (wielce)  
 tren - pociąg  
 tren dau - kolej  
 tren kaper - porywacz pociągu  
@@ -4496,6 +4365,7 @@ trigonometria -
 trime -   
 tri pike - trójząb  
 triple -   
+trirotike -   
 Trinita e Tobago - Trynidad i Tobago  
 Triton -   
 truke - sztuczka (podstęp, oszustwo)  
@@ -4549,6 +4419,7 @@ Umbriel -
 umur - wiek  
 umur di -   
 un - jeden (1)  
+unaje - jednostka miary  
 undeisme - monoteizm  
 undurike - ciągły (analogowy)  
 undurike horloger -   
@@ -4592,19 +4463,12 @@ vaf - pies
 vaf bute -   
 vaf parke -   
 vafle -   
-vagina - wagina  
-vagina tis - zapalenie pochwy  
+vagine - wagina  
+vaginits - zapalenie pochwy  
 vahi - oaza  
 vai - zęwnętrzny  
 vai dara -   
-vai di - zewnętrzny  
-vai gene di -   
 vai jen -   
-vai klus di -   
-vai mise - eksportować (wyeksportować)  
-vai nam - egzonim  
-vai planeta - egzoplaneta  
-vai poze -   
 vai tense -   
 vai yam - piknik  
 vakil - reprezentować  
@@ -4953,6 +4817,8 @@ zaman - czas (epoka, era)
 • prezaman di - stary, starożytny  
 • prezaman xe - relikwia  
 Zambia - Zambia  
+zange - wzrastać  
+zange - wzrost  
 zar - niebezpieczeństwo, ryzyko, szansa  
 zarike - losowy  
 zar kube - kość do gry  

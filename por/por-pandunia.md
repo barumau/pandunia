@@ -14,7 +14,6 @@ aceitar - acepe
 acento - protone  
 acesso (acceder) - acese  
 acesso - inlai  
-aconselhar - fa sel  
 acordado - budike  
 acordo (tratado, contrato) - trati  
 acordo (tratado, contrato) - kontrati  
@@ -101,7 +100,6 @@ Antigo Egito - Keme
 antimónio - estibium  
 anzol - pexe huke  
 análise - fen lize  
-aperfeiçoar - fa pul hau  
 aplicar - aplike  
 apodrecer-se - be pute  
 aprender - xule  
@@ -119,7 +117,6 @@ arca de Noé - Noe di nave
 arco - arke  
 areia - sable  
 argon - argon  
-arguir - fa argu  
 argumento - argu  
 arma - vuki  
 arma de fogo - pau gi  
@@ -359,7 +356,6 @@ castanho (marrom) - kafe rang
 Castela - Kastilia  
 castelhano - kastilia baxe  
 cavar (escavar) - kave  
-caçar - fa saide  
 cebola - piaze  
 cem (100) - sento  
 cemitério - gabrestan  
@@ -385,7 +381,6 @@ chave - cavi
 chavena (tigela de chá) - cai kupa  
 chefe - xefe  
 cheio - pul  
-cheirar - fa aroma  
 cheiro - aroma  
 cheque - ceke  
 cheque de viajante - safar ceke  
@@ -405,9 +400,8 @@ ciano - cian
 ciclista - sikliste  
 cidade - siti  
 Cidade-estado - nagre gogia  
-cigarro - sigar  
+cigarro - sigare  
 cinco (5) - lima  
-cintilar - fa sing foto  
 cipó - trepater  
 circo - sirkus  
 citologia - selu logia  
@@ -441,7 +435,6 @@ compatriota (compatrício) - konpatrian
 complô (conspiração) - sir plan  
 comportamento (conduta) - manera  
 composto - bio sana xe  
-comprar - fa xopi  
 compras - xope  
 computador - konputer  
 comum - konun  
@@ -554,7 +547,6 @@ de luxo - deluxe
 dedo - angul  
 defecar - defeke  
 defunto - defunte  
-deitar - fa kux  
 deixar - laxe  
 delegar - vakilize  
 democracia - demokratia  
@@ -598,7 +590,6 @@ direito - haku
 direitos humanos - human hake  
 diretor - xule xefe  
 disco - diske  
-discordar - fa alo rai  
 disprósio - disprosium  
 distinto - alo fen di  
 distrair - distrate  
@@ -638,7 +629,6 @@ educação - xule
 efeito - asar  
 efeito - exfete  
 efeito colateral - parafete  
-efetuar - fa asar  
 Egipto (Egito) - Misre  
 ei - hei  
 einstânio - einsteinium  
@@ -661,7 +651,6 @@ emprestar - jeka don
 encarar (afrontar; vérsus) - verse  
 encontrar - ajame  
 endereço - adres  
-enganar - fa truke  
 engenharia - engenia  
 engenheiro - engener  
 ensaio (redação) - esai  
@@ -743,24 +732,23 @@ európio - europium
 evangelho - hau angil  
 evidente - exvidebil  
 exato (preciso) - juste  
-excluir - fa vai klus  
-exclusivo - vai klus di  
-exoplaneta (planeta extrassolar) - vai planeta  
+excluir - exkluze  
+exclusivo - exkluzive  
+exoplaneta (planeta extrassolar) - exoplaneta  
 expelir - expele  
 explodir - be bum  
 explosão - bum  
-expor (revelar) - vai poze  
 expor (revelar) - expoze  
 exterior - vai  
 extinguir (apagar) - nirban  
 extrair - extrate  
 exército - ordu  
-exógeno - vai gene di  
 exógeno - exgene  
 
 ## F  
 
 face (faceta) - fase  
+factível (fazível) - fetebil  
 facção - xia  
 fada - pari  
 fadiga - fatige  
@@ -775,8 +763,8 @@ favela - harabe mahala
 favoritismo - max fili sim  
 favorito (preferido) - max fili di  
 fazenda (tecido) - tela  
-fazer (fato, facto) - fete  
-fazer - fa  
+fazer (feito, fato, facto) - fete  
+fazer - fe  
 fechadura - tala  
 feio - dusrupike  
 feliz - suke  
@@ -916,7 +904,6 @@ holografia - holografia
 holograma - holografe  
 honesto (sincero) - amen di  
 honra - onor  
-honrar - fa onor  
 hora - sah  
 horror - horur  
 hortelã-da-água - sui minta  
@@ -959,14 +946,13 @@ impressão digital - angul marke
 império - imperia  
 inativo - anative  
 incluindo - in klus  
-incluir - inkluse  
+incluir - inkluze  
 inclusivo - in klus di  
 indivíduo - monike  
 Indo - Hinde rivo  
 Indochina - Hindocin  
 indígena (índio) - aslamerikan  
 infantil (imaturo) - you  
-infectar (contagiar) - fa pati mise  
 infecção (contágio) - patomise  
 infecção - infete  
 inferir - infere  
@@ -1059,7 +1045,6 @@ leite de soja - soi milke
 leitor - leter  
 leitura - letion  
 leitura - letur  
-lembrar-se (recordar-se) - fa memo  
 lente - lense  
 lento - anhaste  
 leque - sanzi  
@@ -1204,7 +1189,6 @@ membrana - mogu
 memória - memo  
 mendelévio - mendelevium  
 meninge - meninge  
-menosprezar (subestimar) - fa min rai  
 mensagem - angil  
 mensagem - misaje  
 menta (hortelã) - minte  
@@ -1234,7 +1218,7 @@ mirar - mire
 mistura - mixur  
 mito - deokata  
 modelar - formize  
-modo (tipo) - mode  
+modo - mode  
 moeda - pesa diske  
 moenda (moinho) - molkan  
 moer - mole  
@@ -1243,7 +1227,6 @@ moldar (modelar) - plaste
 moldura - frem  
 molestar (perturber) - turbe  
 molhado - xipi  
-molhar - fa xipi  
 molho - sos  
 molho de soja - soi sos  
 molibdénio - moliden  
@@ -1251,7 +1234,6 @@ momento (instante) - cana
 momentâneo - canaike  
 monje ou monja - biku  
 monograma - monograme  
-monstro - mostre  
 monção - barxa mosim  
 monóculo - unoke lense  
 monólogo - autologe  
@@ -1266,7 +1248,6 @@ mover - mote
 mudança climática - klima mute  
 mudar-se - migre  
 muesli - musli  
-muito - tre  
 multidão - jen jami  
 multilíngue (plurilíngue) - polibaxike  
 multilíngue (plurilíngue) - polibaxike  
@@ -1337,6 +1318,7 @@ novidade - neu
 novidade - neuta  
 novo - neu di  
 Noé - Noe  
+nu - nude  
 nuvem - megi  
 náusea - retro gula sense  
 não - no  
@@ -1360,7 +1342,6 @@ obrigar - debize
 obsidiana - osidian  
 oceano - dai bahai  
 ocular - okal  
-ocultar (esconder) - fa sir  
 ocupado (atarefado) - mang  
 ode - ode  
 oganesson - oganeson  
@@ -1432,7 +1413,7 @@ parque - parke
 parte - fen  
 partida - mece  
 partido - partia  
-parâmetro - parametri  
+parâmetro - parametre  
 parónimo - paranam  
 passagem - pas dau  
 passagem de volta - retro tikete  
@@ -1456,7 +1437,6 @@ pedregulho - dai seku
 pedrinha - xiu seku  
 pegada - fute marke  
 pegajoso (adesivo) - glutike  
-peidar - fa pede  
 peido - perde  
 peixe - pexe  
 pele - pil  
@@ -1474,7 +1454,6 @@ perdoar (desculpar) - maf
 perecer - perex fa  
 peregrinagem - haje  
 peregrino - hajer  
-perguntar - fa sual  
 perigo - hatar  
 perplexo (confuso) - ruhu mixe di  
 perturbar (turbulência) - disturbe  
@@ -1591,7 +1570,6 @@ proximidade - proxia
 pré-natal - prenatal  
 próximo - proxe  
 pudim - puding  
-punir (castigar) - fa fatu  
 punição (castigo) - fatu  
 purpúreo (roxo) - violeta nil  
 purê de maçã - aple sos  
@@ -1622,7 +1600,6 @@ que (como) - ka
 que - ki  
 queijo - keze  
 queijo fresco - panir  
-queimar - fa hogo  
 queimarse - be hogo  
 queixa (lamento, reclamação) - xikaye  
 quem - ke jen  
@@ -1677,7 +1654,6 @@ reincarnação - reinkarnation
 reino - regia  
 relato - reporte  
 relexificar - rilexife  
-relier (connecter) - fa linke  
 religião - din  
 relógio - sah diker  
 remover - forife  
@@ -1687,7 +1663,6 @@ reparador - reparer
 reparar - repare  
 reparar - repar  
 reparo - repare  
-repetir - fa re  
 repetir - rifete  
 representante - vakiler  
 repórter - reporter  
@@ -1697,7 +1672,6 @@ resfriado - zukam
 resposta - javabe  
 resto - baki  
 reto - orto  
-retornar - fa retro  
 revelar - devel  
 rim - nefre  
 rima - rime  
@@ -1871,7 +1845,6 @@ tecnécio - tehnetium
 tectónica de placas - plate geo kaskelogia  
 teia de aranha - arane nete  
 tela - pente tela  
-telefonar - fa tele fon  
 telefonia - telefonia  
 telescópio - teleskope  
 telha - tegule  
@@ -1931,9 +1904,9 @@ tranca - kane sor
 tranquilo (calmo) - xanti di  
 tratar (lidar, procesar; processo) - cule  
 trator - trater  
-trazer - fa lai  
 trem - tren  
 tribo - kabile  
+triciclo - trirotike  
 trigo - gandum  
 trigonometria - trigonometria  
 triplo - triple  
@@ -1981,11 +1954,10 @@ usar - uzife
 
 ## V  
 
-vagina - vagina  
-vaginite - vagina tis  
+vagina - vagine  
+vaginite - vaginits  
 vale (uadi) - vali  
 valor (valia) - valu  
-valorar - fa valu  
 valsa - valse  
 vampiro - vampir  
 vanádio - vanadium  
@@ -2028,7 +2000,6 @@ viver (vivo; vida) - jiva
 vivisecção - biotomia  
 Vixnu - Vixnu  
 viúvo - vidua  
-voar - fa fei  
 vocabulário - lexe jama  
 vogal - jong fon  
 vogal - vokal fone  

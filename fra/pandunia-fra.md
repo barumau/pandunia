@@ -132,6 +132,8 @@ anusal - anal
 aple - pomme  
 aple sos - compote de pommes  
 aposum - sarigue (opossum)  
+are - aire (superficie)  
+aria - espace (zone, région)  
 arabe - arabe  
 araki - spiritueux  
 arane - araignée  
@@ -140,7 +142,6 @@ aranide - arachnide
 arane nete - toile d'araignée (arantèle)  
 arbuze - pastèque  
 Arcah - Artsakh  
-area - espace (zone, région)  
 argente - argent  
 Argentina - Argentine  
 argon - argon  
@@ -599,48 +600,10 @@ ezmurude - émeraude
 
 ## F  
 
-fa - faire  
-fa alo rai - diverger (ne pas être d'accord)  
-fa an galte - déboguer (débugger)  
-fa argu - arguer  
-fa aroma - sentir qqch  
-fa aroma - sentir qqch (avoir l'odeur de qqch)  
-fa asar - effectuer  
-fa banya - se baigner  
-fa dosil - apprivoiser (dresser, dompter, discipliner)  
-fa dosil gene - domestiquer (apprivoiser)  
-fa fatu - punir  
-fa fei - voler  
-fa hogo - brûler  
-fa kux - coucher  
-fa lai - apporter  
-fa lanse grafi - projeter (donner)  
-fa memo - se rappeler (se remémorer)  
-fa min rai - sous-estimer  
-fa onor - honorer  
-fa pati mise - infecter  
-fa pede - péter  
-fa pos - suivre  
-fa poze - planter  
-fa pul - remplir  
-fa pul hau - perfectionner (parfaire)  
-fa re - répéter  
-fa retro - remettre  
-fa saide - chasser  
-fa sel - conseiller  
-fa sing foto - étinceler  
-fa sir - cacher  
-fa sual - demander (poser un question; est-ce que)  
-fa tele fon - téléphoner  
-fa truke - escroquer  
-fa vai klus - exclure  
-fa valu - évaluer  
-fa xipi - mouiller  
-fa xopi - acheter  
+fe - faire  
 fan - fan  
 fanatike - fanatique  
 fase - face (facette)  
-fase area - aire (superficie)  
 fase tele - profond  
 fasil - facile  
 fatige - fatigue  
@@ -667,6 +630,7 @@ fete - faire (fait)
 • infete - infection  
 • perfete - parfait  
 • rifete - répéter  
+fetebil - faisable  
 feter - faiseur (facteur)  
 filsofe - philosophie  
 fine - finir  
@@ -674,6 +638,8 @@ finike - fini
 fiorde - fiord  
 fite - plante (végétal)  
 fitologia - botanique  
+• afixe - afficher  
+• afixaje - affiche  
 fizologia - physique  
 flece - flèche  
 flerovium - flérovium  
@@ -740,6 +706,7 @@ galium - gallium
 galaxia - galaxie  
 gali - rue  
 galope - galop  
+• angaltife - déboguer (débugger)  
 galte - faute (erreur)  
 galte di - erroné  
 gamia - mariage  
@@ -1158,7 +1125,9 @@ klima mute - changement climatique
 klin - tendance  
 klon - clone  
 klor - chlore  
-• inkluse - inclure  
+• exkluze - exclure  
+• exkluzive - exclusif  
+• inkluze - inclure  
 koala - koala  
 kobalte - cobalt  
 koda - queue  
@@ -1406,10 +1375,10 @@ medi dia - midi
 medu - miel  
 medu vespa nide - rayon de miel  
 megi - nuage  
+mehe kexa - laine  
 mei - beau  
 meita - beauté  
 meitnerium - meitnérium  
-meme kexa - laine  
 memo - mémoire  
 • anmemo - oublier  
 mendelevium - mendélévium  
@@ -1427,8 +1396,8 @@ metil - méthyle
 metal bede - enclume  
 metal lin - fil de fer  
 metal mixure - alliage  
+• parametre - paramètre  
 metre bande - mètre ruban  
-• parametri - paramètre  
 meza - table  
 meza tela - nappe  
 mi - je (me)  
@@ -1469,7 +1438,7 @@ misioner - misionero
 Misre - Égypte  
 mitre - mètre  
 mixur - mélange (mixture)  
-mode - mode (type)  
+mode - mode (manière, façon)  
 module - module  
 mogu - membrane  
 moka - arbre  
@@ -1491,7 +1460,6 @@ mos di - moussu
 mosim - saison  
 moski - moustique  
 moskvium - moscovium  
-mostre - monstre  
 mote - mouvoir (bouger)  
 • promote - promouvoir  
 moter - moteur  
@@ -1604,16 +1572,17 @@ nome - organiser
 norde - nord  
 nostalgia - nostalgie  
 notaje - note  
+nude - nu  
 nuka - cou (encolure, nuque)  
 nume - nombre (numéro; contar)  
 numerike - numérique  
 numograme - ciffre  
 numologer - mathématicien  
 numologia - mathématiques (maths)  
-o - ou  
 
 ## O  
 
+o - ou  
 ode - ode  
 oganeson - oganesson  
 ohtopus - Poulpe (pieuvre)  
@@ -1758,6 +1727,7 @@ pisea - Épicéa
 piza - pizza  
 • aplike - appliquer  
 plan - plan  
+• exoplaneta - exoplanète  
 plaste - modeler  
 plaste paste - pâte à modeler  
 plate geiste - terreplatiste  
@@ -1849,7 +1819,7 @@ rang arka salmon - truite arc-en-ciel
 rang glas - verre coloré  
 rang mate - colorant  
 rase - race  
-rasa medi - interracial  
+rase midike - interracial  
 ration - raisonnement  
 ratologia - logique  
 ratibu - ordre  
@@ -1981,7 +1951,7 @@ sexulogia - sexologie
 si - si  
 siborgium - seaborgium  
 sifa loge - adjectif  
-sigar - cigarette  
+sigarete - cigarette  
 sikle - bicyclette  
 resikle - recycler  
 sikliste - cycliste  
@@ -2141,13 +2111,13 @@ trate - traîner
 trater - tracteur  
 trati - contract (traité)  
 • kontrati - contract (traité)  
-tre - très  
 tren - train  
 trepe - escalier (traper)  
 trepater - vigne  
 tri - trois (3)  
 trigonometria - trigonométrie  
 triple - triple  
+trirotike - tricycle  
 truke - ruse  
 tu - tu  
 tumen su - votre  
@@ -2192,13 +2162,10 @@ vaf - chien
 vaf bute - niche (de chien)  
 vaf parke - chenil  
 vafle - gaufre  
-vagina - vagine  
-vagina tis - vaginite  
+vagine - vagine  
+vaginits - vaginite  
 vahi - oasis  
 vai - extérieur  
-vai klus di - exclusif  
-vai planeta - exoplanète  
-vai poze - exposer  
 vai yam - piquenique  
 vakiler - représentant (délégué)  
 vakilize - déléguer  

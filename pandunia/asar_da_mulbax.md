@@ -4,7 +4,7 @@
 |-------|--------|
 | english | 10% |
 | doice | 3% |
-| franse | 9% |
+| franse | 8% |
 | espan | 9% |
 | portugal | 9% |
 | rus | 7% |

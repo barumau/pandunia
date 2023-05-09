@@ -16,7 +16,7 @@ Instead, the word class is determined by the word's place in the sentence.
 
 For example, the word **hali** can function equally as an adjective (_blank_ or _void_), noun (_a blank_) and verb (_to make blank_ or _to get blank_).
 
-**tu ha hali papir, he?**
+**tu su es hali papir, he?**
 – Do you have some blank paper?  
 **don mi un hali!**
 – Give me a blank!  

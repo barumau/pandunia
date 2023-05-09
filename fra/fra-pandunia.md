@@ -23,7 +23,6 @@ accord - sam rai
 accumuler - kume  
 accès (accéder) - acese  
 accès - inlai  
-acheter - fa xopi  
 acte - ate  
 actif (activer, allumer, mettre en marche) - ative  
 actinium - acinium  
@@ -37,6 +36,8 @@ adjectif - sifa loge
 administrateur - politike  
 adresse - adres  
 adulte - ceng jen  
+affiche - afixaje  
+afficher - afixe  
 Afghanistan - Afganestan  
 Afrique - Afrika  
 agent (faiseur) - ater  
@@ -54,7 +55,7 @@ ail - lasun
 aile - panka  
 aimant - manite  
 air - air  
-aire (superficie) - fase area  
+aire (superficie) - are  
 Alaska - Alaska  
 alcane - alkan  
 alcool - alkol  
@@ -134,9 +135,7 @@ août - mes bati
 appartenir à - be mal  
 appliquer - uzife  
 appliquer - aplike  
-apporter - fa lai  
 apprendre (étudier) - xule  
-apprivoiser (dresser, dompter, discipliner) - fa dosil  
 approcher - aproxe  
 approprié (adapté, convenable, opportun) - hapu  
 arabe - arabe  
@@ -158,7 +157,6 @@ argent - argente
 argent - pesa  
 Argentine - Argentina  
 argon - argon  
-arguer - fa argu  
 argument - argu  
 argument - teze  
 arme - vuki  
@@ -345,7 +343,6 @@ brome - brom
 brosse - brox  
 brosse à cheveux - kexa broxa  
 brun (marron) - kafe rang  
-brûler - fa hogo  
 buisson - dipe moka  
 bulletin (infolettre) - habar letre  
 bureau (office) - bure  
@@ -365,7 +362,6 @@ bûche - moka tana
 
 cabine - buda  
 cabine téléphonique - telefon bute  
-cacher - fa sir  
 cachet de la poste - poste marke  
 cactus - katus  
 cadavre (corps) - nekre  
@@ -462,7 +458,6 @@ charge (fardeau, poids) - karga
 charger - karge  
 charme - carme  
 charnel - karnal  
-chasser - fa saide  
 chat - miau  
 chaudron - dai pote  
 chauffeur de taxi - taxi vala  
@@ -504,7 +499,7 @@ chêne pédonculé - europa baluta
 chœur - ganir grupe  
 ciel - sama  
 ciffre - numograme  
-cigarette - sigar  
+cigarette - sigarete  
 cime (pic, sommet) - xan pike  
 cimetière - gabrestan  
 cinq (5) - lima  
@@ -555,7 +550,6 @@ connecter - konnete
 connecteur - konneter  
 connexion - konnetion  
 conseil - sel  
-conseiller - fa sel  
 considérer - hem  
 construire - bine  
 consultant (conseiller) - konseler  
@@ -582,7 +576,6 @@ cosmos - kosme
 coton - goton  
 cou (encolure, nuque) - nuka  
 couch (couchette) - kux loka  
-coucher - fa kux  
 coucou - kuku  
 coude - kudi  
 coudée - kudi metri  
@@ -659,7 +652,6 @@ dauphin - dolfin
 de - de  
 de luxe - deluxe  
 demain - pos den  
-demander (poser un question; est-ce que) - fa sual  
 dessous - nice  
 destin - kisma  
 dette - debaje  
@@ -686,7 +678,6 @@ dirigeant (leader) - lider
 disque - diske  
 distinct - alo fen di  
 distraire - distrate  
-diverger (ne pas être d'accord) - fa alo rai  
 divers (plusieurs) - vari  
 dix (deca-) - des  
 docile (insipide) - dosil  
@@ -694,7 +685,6 @@ document (dossier) - dokumen
 documentaire - dokumen filme  
 doigt - angul  
 domestique - dom di  
-domestiquer (apprivoiser) - fa dosil gene  
 domestiqué (apprivoisé) - dosil gene di  
 dommage - avar  
 donner - don  
@@ -719,7 +709,7 @@ durée - dure
 dynamite - dinamite  
 dysprosium - disprosium  
 dé - zar kube  
-déboguer (débugger) - fa an galte  
+déboguer (débugger) - angaltife  
 début (commencement) - xuru  
 décapé (mariné) - acar di  
 décharge - lasa stan  
@@ -748,7 +738,6 @@ east (orient) - dong
 eau - sui  
 eau de source - fonte sui  
 eaux de pluie - barxa sui  
-effectuer - fa asar  
 effet - asar  
 effet - exfete  
 effrayant - fobive  
@@ -780,8 +769,7 @@ erroné - galte di
 escalier (traper) - trepe  
 esclave (serf) - kule  
 escrime - gem suta  
-escroquer - fa truke  
-espace (zone, région) - area  
+espace (zone, région) - aria  
 espace - hali zi  
 espectador - vider  
 esprit (génie) - jini  
@@ -797,13 +785,12 @@ Europe - Europa
 europium - europium  
 européen - europa di  
 excaver - exkave  
-exclure - fa vai klus  
-exclusif - vai klus di  
+exclure - exkluze  
+exclusif - exkluzive  
 excursion (tournée) - tur  
-exoplanète - vai planeta  
+exoplanète - exoplaneta  
 exploser (détoner) - be bum  
 explosion - bum  
-exposer - vai poze  
 exposer - expoze  
 expulser - expele  
 extraire - extrate  
@@ -821,8 +808,9 @@ faible - anbala
 failli - bankrute  
 faim - yam yau  
 faire (fait) - fete  
-faire - fa  
+faire - fe  
 faire confiance (espérer, croire qqn./qqch., avoir la foi) - amen  
+faisable - fetebil  
 faisceau - faxe  
 faiseur (facteur) - feter  
 fan - fan  
@@ -1005,7 +993,6 @@ hologramme - holografe
 holographie - holografia  
 holonyme - holonam  
 honneur - onor  
-honorer - fa onor  
 horloge - sah diker  
 horreur - horur  
 houblon - humel  
@@ -1056,7 +1043,7 @@ imperméable - barxa kote
 imploser - be in bum  
 implosion - in bum  
 important - ham di  
-inclure - inkluse  
+inclure - inkluze  
 inclusif - in klus di  
 Inde - Bartia  
 indien - barte  
@@ -1065,7 +1052,6 @@ individu - monike
 Indochine - Hindocin  
 Indus - Hinde rivo  
 infantile (immature) - you  
-infecter - fa pati mise  
 infection (contagion) - patomise  
 infection - infete  
 infidèle (incroyant) - andiniste  
@@ -1083,7 +1069,7 @@ intelligence artificielle - arte fete intelige (AI)
 intention - nia  
 intercepter - intercepe  
 international - internasial  
-interracial - rasa medi  
+interracial - rase midike  
 intestin (entrailles, ventre, boyau) - intraje  
 introverti - in verse jen  
 introverti - intraverse  
@@ -1149,7 +1135,7 @@ Kâmasûtra - kama kanon
 l'un l'autre - semen  
 lac - lage  
 laid (vilain) - dusrupike  
-laine - meme kexa  
+laine - mehe kexa  
 lait - milke  
 lait de soja - soi milke  
 laitue - letus  
@@ -1341,7 +1327,7 @@ mirer - mire
 miroir - mire plate  
 misionero - misioner  
 misión - mision  
-mode (type) - mode  
+mode (manière, façon) - mode  
 modeler - plaste  
 module - module  
 moine ou nonne - biku  
@@ -1355,7 +1341,6 @@ monnaie (pièce) - pesa diske
 monocle - unoke lense  
 monogramme - monograme  
 monologue - autologe  
-monstre - mostre  
 mordre - dante  
 mordre - gate a dante  
 morue (cabillaud) - bakalau  
@@ -1368,7 +1353,6 @@ moteur - moter
 motif - motive  
 mouche - dom zeze  
 moudre - mole  
-mouiller - fa xipi  
 mouillé - xipi  
 moulin - molkan  
 mousse - mos  
@@ -1460,6 +1444,7 @@ nouveauté - neuta
 nouvelle (récit court) - korte kata  
 noyau atomique - atom kerne  
 Noé - Noe  
+nu - nude  
 nuage - megi  
 numérique - numerike  
 nylon - nilon  
@@ -1573,7 +1558,7 @@ papier toilette (papier hygiénique) - tuale kaguji
 papillon - pelpel  
 paquet - pake  
 par exemple - to misal  
-paramètre - parametri  
+paramètre - parametre  
 parapluie - barxa cati  
 parc - parke  
 pardonner - maf  
@@ -1609,7 +1594,6 @@ pelouse (gazon) - cau medan
 perdant - xiti bai ja  
 perder - xiti  
 pere (papa) - pa  
-perfectionner (parfaire) - fa pul hau  
 peroxyde - peroxide  
 peroxyde - peroxide  
 peroxyde d'hydrogène - hidre peroxide  
@@ -1669,7 +1653,6 @@ plaire - sukife
 plan - plan  
 planche - moka bano  
 plante (végétal) - fite  
-planter - fa poze  
 plaque tectonique - geo kaska plate  
 platine - platin  
 plein - pul  
@@ -1759,7 +1742,6 @@ programme - programe
 projectile - lanse xe  
 projection - lanse grafi  
 projet - projete  
-projeter (donner) - fa lanse grafi  
 projeter (image projection) - jete grafe  
 prolongé - long durike  
 promettre - vode  
@@ -1792,7 +1774,6 @@ psyché - ruhu
 pudding - puding  
 puits de pétrole - zete fonte  
 punicion - fatu  
-punir - fa fatu  
 pyramide - piram  
 pâquerette - englix margarita  
 pâte (pulpe, foufou) - fufu  
@@ -1802,7 +1783,6 @@ pèlegrin - hajer
 pèlerinage - haje  
 pénal - fatu di  
 périr - perex fa  
-péter - fa pede  
 pétrole (essence) - petra nafte  
 pêcheur - pexe saider  
 qualifier (définir) - kalife  
@@ -1843,8 +1823,6 @@ recycler - resikle
 rein - nefre  
 relexifier - rilexife  
 religion - din  
-remettre - fa retro  
-remplir - fa pul  
 renard - huli  
 reporter (rapporteur) - reporter  
 repos - xanti  
@@ -1911,7 +1889,6 @@ réparer - repare
 réparer - repar  
 réponse - javabe  
 république - vakilkratia  
-répéter - fa re  
 répéter - rifete  
 réussir (avoir du succès, prospérer) - sucese  
 rêche (rugueux, gros) - gros  
@@ -1977,8 +1954,6 @@ scribe - kitaber
 sculpteur - eskulter  
 scutelle - oste xalke  
 se - se  
-se baigner - fa banya  
-se rappeler (se remémorer) - fa memo  
 seaborgium - siborgium  
 seau - baldi  
 secouer - roke  
@@ -1988,8 +1963,6 @@ sel - yem
 semaine - cetiden  
 semence - semen  
 sens - sense  
-sentir qqch (avoir l'odeur de qqch) - fa aroma  
-sentir qqch - fa aroma  
 sept (7) - ceti  
 serrure - tala  
 serviette - tuale  
@@ -2031,7 +2004,6 @@ soumission - islam
 soupe - supa  
 source - fonte  
 souris - muxu  
-sous-estimer - fa min rai  
 souteneur (maquereau) - sutener  
 spectateur - speter  
 spiritueux - araki  
@@ -2046,7 +2018,6 @@ sucre - sukar
 sueur - sueda  
 suffixe - posfixe  
 Suisse - Suise  
-suivre - fa pos  
 sujet (thème) - tema  
 sulfate - sulfate  
 sulfite - sulfite  
@@ -2170,6 +2141,7 @@ tremper (faire mariner) - pul xipi
 tribord - nave dex  
 tribu - kabile  
 trichotomie - tritomia  
+tricycle - trirotike  
 trigonométrie - trigonometria  
 triple - triple  
 trois (3) - tri  
@@ -2179,7 +2151,6 @@ trottinette - skuter
 truite - salmon  
 truite arc-en-ciel - rang arka salmon  
 truite brune (truite de mer) - kafe salmon  
-très - tre  
 tu - tu  
 tubercule - masa mula  
 tuile - tegule  
@@ -2194,7 +2165,6 @@ turboréacteur - turbojeter
 télescope (lunette) - teleskope  
 télécharger - nete gete  
 téléphone - telefon  
-téléphoner - fa tele fon  
 téléviseur - televidion  
 tête - kapa  
 
@@ -2212,8 +2182,8 @@ utile - uzike
 ## V  
 
 vachellia - babul  
-vagine - vagina  
-vaginite - vagina tis  
+vagine - vagine  
+vaginite - vaginits  
 vaincre - jai  
 vaisseau spatial - kosmonave  
 valeur - valu  
@@ -2272,7 +2242,6 @@ voir - vide
 voire (même) - hata di  
 vol - fei  
 volcan - hogo xan  
-voler - fa fei  
 votre - tumen su  
 vouloir - vol  
 voyelle - jong fon  
@@ -2373,7 +2342,6 @@ zéro - siro
 éthane - etan  
 éthanol - etanol  
 éthyle - etil  
-étinceler - fa sing foto  
 étoile - xing  
 étude - stude  
 études de genre - gensologia  
@@ -2382,7 +2350,6 @@ zéro - siro
 étudier - stude  
 étymologie - lexasle  
 été - garma mosim  
-évaluer - fa valu  
 évangile - hau angil  
 éveillé - budike  
 éventail - sanzi  

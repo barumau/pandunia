@@ -639,13 +639,13 @@ of the negative word.
 The negated word can be of any type: verb, pronoun, noun, adjective
 and even numeral.
 
-**da no ha mau.**
+**da su no es mau.**
 = She doesn't have a cat.  
-**da ha no mau, ama vaf.**
+**da su no es mau, ama vaf.**
 = She has no cats but dogs.  
-**no da, ama mi ha mau.**
+**no da su, ama mi su es mau.**
 = Not she but I have cats.  
-**mi ha no un, ama du mau.**
+**mi su es no un, ama du mau.**
 = I have not one but two cats.
 
 
@@ -687,9 +687,9 @@ but
 1. da no saf kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da no ha vaf e mau. / da ha no vaf e no mau.
+4. da su no es vaf e mau. / da su es no vaf e no mau.
 5. xefe yam cai ama no kafe.
-6. mama ha no vaf ama du mau.
+6. mama su es no vaf ama du mau.
 
 
 --------------------------------------------------------------------------------
@@ -838,11 +838,11 @@ It is enough to set the stage once in the beginning with a time expression.
 Another time word will not be needed until the tense changes
 or until it becomes useful to stress that you are still talking in the same tense.
 
-**mi pas ha un mau.**
+**mi su pas es un mau.**
 = I had a cat in the past.  
 **da es hau mau.**
 = It was a good cat.  
-**mi ha un vaf a zai.**
+**mi su es un vaf a zai.**
 = I have a dog now.
 
 Any expression of time is good for expressing the tense. When one
@@ -891,7 +891,7 @@ milk
 ### Answers to the Exercises
 
 1. mi su xefe festa a xa.
-2. mi ha du vaf a pas.
+2. mi su es du vaf a pas.
 3. tu yam supe a zai.
 4. da saf kamar a preden.
 5. mau yam milke a posden.

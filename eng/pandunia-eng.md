@@ -159,6 +159,7 @@ Amara - Amhara (an Ethiopian ethnic group and language)
 Amazon - Amazon river  
 Amazonia - Amazonia  
 amen - trust (be sure of, have faith in)  
+amen - assure (affirm, confirm)  
 amenbil - trustworthy (loyal, faithful)  
 amenbilta - loyalty (faithfulness)  
 amen di - sure (certain, trusted)  
@@ -207,6 +208,8 @@ anusal - anal
 aple - apple  
 aple sos - applesauce  
 aposum - opossum  
+are - area (extent of surface)  
+aria - area (region)  
 arabe - Arabia (Arab; Arabic)  
 arabi babul - babul tree (thorny acacia)  
 araki - liquor  
@@ -216,7 +219,6 @@ aranide - arachnide
 arane nete - spiderweb (cobweb)  
 arbuze - watermelon  
 Arcah - Artsakh  
-area - area (region)  
 argente - silver  
 Argentina - Argentina  
 argon - argon  
@@ -291,7 +293,7 @@ atom bombe - atomic bomb
 atom kerne - atomic nucleus  
 atom vuki - atomic weapon  
 audi - hear (listen)  
-auge - augment (increase, rise; boom, peak, apex, zenith, heyday)  
+auge - augment (increase, rise; boom, peak, apex, acme, zenith, heyday)  
 auro - gold  
 Austronesia - Austronesia  
 Australia - Australia  
@@ -498,7 +500,6 @@ be nam - be called (be named)
 be nice - go under  
 be par - equal  
 be pute - decay (rot, deteriorate)  
-be raste - grow (grow up, expand)  
 be reste - remain (stay)  
 be retro - return (get back)  
 be rota - rotate (spin, turn on an axis)  
@@ -1116,145 +1117,13 @@ Europa luna - Europa
 Europa Unia - European Union (EU)  
 exgogia - foreign country  
 exgogike - foreign  
-extre - outward (external)  
+exike - outer (external)  
 exa - exa-  
 ezmurude - emerald  
 
 ## F  
 
-fa - do  
-fa alo rai - disagree  
-fa amen - assure (affirm, confirm)  
-fa an galte - debug  
-fa an verse - invert (reverse)  
-fa an zai - remove (delete, dispose, erase)  
-fa argu - argue (assert, prove, clarify)  
-fa aroma - smell (sniff)  
-fa aroma - smell (reek)  
-fa asar - effect (bring about)  
-fa banya - bathe  
-fa biznes lona - negotiate (arrange)  
-fa cori - steal  
-fa dalil - prove (demonstrate, testify)  
-fa darte hau - fertilize  
-fa defa - defend  
-fa ding - determine (establish, fix, decide, set, confirm, specify, resolve)  
-fa dosil - tame (train)  
-fa dosil gene - domesticate (cultivate)  
-fa duka - sadden (make sad)  
-fa fatu - punish (penalize)  
-fa fei - fly (go through air)  
-fa fokus - concentrate  
-fa gola - surround (encircle)  
-fa halal - allow (permit)  
-fa has - distinguish  
-fa hava - blow  
-fa hen - hate (detest)  
-fa hogo - burn (cause to burn)  
-fa jang - fight (do battle, make war)  
-fa jong - center (concentrate)  
-fa jui - warn (caution, alert)  
-fa kai - open  
-fa kata - tell (narrate)  
-fa koste - cost  
-fa krus fixe - crucify  
-fa kung - pierce (perforate, bore)  
-fa kux - lay (lay down)  
-fa lai - bring  
-fa lanse grafi - project (cast)  
-fa lenxi - practice (to exercise)  
-fa libu - erect  
-fa lika - strengthen (reinforce)  
-fa linke - connect (join, link)  
-fa lona - debate (discuss)  
-fa manera - behave (act)  
-fa mantra - chant  
-fa max lika - reinforce (replenish)  
-fa mece - compete (have a match)  
-fa mei daka - decorate (embellish)  
-fa memo - remember (recall)  
-fa min gradu - decrement  
-fa min rai - underestimate  
-fa ming - brighten  
-fa model - model (design)  
-fa nafas - breathe  
-fa najis - corrupt (pollute, soil, defile, stain, taint)  
-fa nia - mean (intend)  
-fa oke - accept (say okay)  
-fa onor - respect (honor, think highly of)  
-fa ore - listen  
-fa pada - drop (let fall)  
-fa par - equalize (balance, even out)  
-fa paraya - despise (scorn)  
-fa parce - shatter (break into pieces)  
-fa parti - participate (attend, partake, take part)  
-fa pasi - hurt  
-fa pati mise - infect  
-fa pauza - pause (interrupt)  
-fa pede - fart (flatulate)  
-fa pei - pay  
-fa pin - prick (sting)  
-fa piping - evaluate (review, criticise)  
-fa poli - multiply  
-fa politi - administer (govern)  
-fa pos - follow (come after)  
-fa poze - pose (set, plant)  
-fa pul - fill  
-fa pul hau - perfect (optimize, refine, polish)  
-fa rai - deem (opine, think that)  
-fa rande - smoothen with a plane  
-fa ratibu - order (arrange)  
-fa re - repeat (iterate)  
-fa redi - prepare (make ready)  
-fa reporte - report (recount, relate)  
-fa retro - return (put back)  
-fa rezerve - reserve (book)  
-fa rolo - roll (wrap in)  
-fa romanse - love romantically  
-fa sabu - cause (be the cause for)  
-fa saf va tela - wipe (clean with a cloth)  
-fa sahi - correct (make right)  
-fa saide - hunt (fish)  
-fa sam rai - agree (concur)  
-fa sam sifa - emulate (simulate, mimic, model)  
-fa sana - produce (create, make)  
-fa sekur - protect (secure, save)  
-fa sel - advise (recommend)  
-fa sense - sense (perceive, detect)  
-fa serve - serve (give service)  
-fa side - sit (put down)  
-fa sifa - qualify (describe)  
-fa sim - advocate (promote, support)  
-fa sing foto - twinkle (sparkle)  
-fa sir - hide (conceal)  
-fa siro - cancel (nullify, delete, erase)  
-fa soni - sound (make a sound)  
-fa sor - lock (fasten)  
-fa sosi - socialize (interact)  
-fa sual - ask (inquire)  
-fa sultan - rule (be in charge)  
-fa sum - sum up (add together)  
-fa tapa - plug (stop with a plug)  
-fa tela - weave (knit)  
-fa tele fon - call on the phone  
-fa tense - tighten  
-fa terca - tilt (skew)  
-fa tese - argue (claim)  
-fa transe - transit (pass through or across)  
-fa trati - agree (make an agreement)  
-fa truke - trick (cheat, deceive)  
-fa ulul - howl  
-fa vai klus - exclude (keep out)  
-fa vai tense - extend (stretch out)  
-fa valu - value (evaluate)  
-fa vanu - amuse (entertain)  
-fa xarti - stipulate  
-fa xipi - wet (dampen, moisten)  
-fa xiti bai - lose (fail, miss, be defeated)  
-fa xopi - buy (purchase)  
-fa xou - show (display, demonstrate)  
-fa xux - silence (make silent)  
-fa yagu - estimate (approximate)  
+fe - do  
 faide - gain (benefit, advantage, asset, profit)  
 faidaje - material (ingredient, resource)  
 faidike - useful (beneficial, advantageous)  
@@ -1264,16 +1133,14 @@ fan - fan (be a fan, admire)
 fanate - admire (adore)  
 fanatike - fanatic (enthusiast(ic))  
 fantaze - imagine (fantasize)  
-fantaze - fantasy (imagination)  
+fantazia - fantasy (imagination)  
 fantazike - fantastic (imaginary)  
 fantom - ghost (phantom)  
 fase - surface (face)  
-fase area - area (extent of surface)  
 fase tele - deep  
 fase teleta - depth  
 fasil - easy  
 fasilta - ease (facility)  
-fasinta - fascination  
 fatige - fatigue (weariness)  
 fatu - punishment (penalty)  
 fatu di - penal (penetenciary)  
@@ -1282,8 +1149,6 @@ favor - favor (goodwill)
 faxe - bundle (bunch, sheaf)  
 faxisme - fascism  
 faxiste - fascist  
-faxon - fashion (trend)  
-faxon di - popular (trendy)  
 faze - stage (phase)  
 febre - fever  
 fei - flight  
@@ -1316,7 +1181,7 @@ fero - iron
 feste - party (celebrate; celebration, festival)  
 festal - festive  
 feste den - holiday  
-fete - do (make; deed, fact)  
+fete - do (make; deed, feat, fact)  
 • defete - defeat (do away with)  
 • exfete - effect (impact, influence, affect)  
 • exfetive - effective (influential)  
@@ -1325,6 +1190,7 @@ fete - do (make; deed, fact)
 • perfete - perfect (complete)  
 • rifete - do again (repeat, iterate)  
 fete baxe - artificial language (conlang)  
+fetebil - feasible (doable)  
 feter - maker (factor, agent)  
 feteria - factory (plant)  
 Fiji - Fiji  
@@ -1352,6 +1218,7 @@ fite - plant (vegetable, vegetation)
 fitologia - botany (phytology)  
 fixe - fix (attach; attachment)  
 • afixe - affix  
+• afixaje - poster (placard)  
 • posfixe - postfix  
 • prefixe - prefix  
 fize - physical nature (physis)  
@@ -1490,6 +1357,7 @@ galeri - gallery (exhibition hall)
 gali - street  
 galope - canter and gallop  
 galte - make a mistake  
+• angaltife - debug  
 galte - mistake (error, fault, blunder, bug)  
 galte budi - misunderstand  
 galte di - wrong (incorrect, erroneous, faulty)  
@@ -2398,10 +2266,12 @@ klin - slope (tilt, slant, bias, inclination, tendency)
 klon - clone (replica)  
 klor - chlorine  
 klube - club  
-klus - close (shut)  
-kluse - close (shut)  
-• inkluse - include (enclose, hold in)  
-klus di - closed  
+kluze - close (shut)  
+• exkluze - exclude (keep out)  
+• exkluzive - exclusive  
+• inkluze - include (enclose, hold in)  
+• konkluze - conclude (close together)  
+kluzike - closed  
 koala - koala  
 kobalte - cobalt  
 kode - code (cipher)  
@@ -2908,6 +2778,8 @@ mega gram - tonne (metric ton)
 mega vate - megawat (MW)  
 megi - cloud  
 megi di - cloudy (foggy)  
+mehe - sheep  
+mehe kexa - wool (fleece)  
 Mehiko - Mexico  
 Mehiko siti - Mexico City  
 mei - beautiful (handsome, pretty)  
@@ -2918,8 +2790,6 @@ meitnerium - meitnerium
 melodia - melody  
 melodike - melodious (melodic)  
 melon - muskmelon  
-meme - sheep  
-meme kexa - wool (fleece)  
 memo - memory (recollection)  
 • anmemo - forget  
 memo bina - monument (memorial)  
@@ -2928,9 +2798,9 @@ memo tehni - mnemotechny
 men - many (plural)  
 mendelevium - mendelevium  
 meninge - meninx (meninges)  
-meninge tis - meningitis  
-• demente - demented (out of one’s mind)  
+meningitis - meningitis  
 mente - mind (ability for consciousness, perception and thinking)  
+• demente - demented (out of one’s mind)  
 mentor - advisor (counselor, mentor)  
 mer - member (part of a group, component)  
 meronam - meronym  
@@ -2963,11 +2833,10 @@ metal lin - wire
 metal mixure - alloy  
 metal saner - blacksmith (iron forger)  
 metal tul - hardware (ironware, equipment)  
+metre - measure (measurement)  
+• parametre - parameter (argument, input variable)  
 metre bande - tape measure  
-metri - measure (measurement)  
-metri gi - meter (measuring device)  
-metri unta - unit (measurement)  
-• parametri - parameter (argument, input variable)  
+metrer - meter (measuring device)  
 meza - table  
 meza stan - plateau (tableland)  
 meza tela - tablecloth  
@@ -3050,7 +2919,7 @@ mitre - meter (100 cm)
 mixe - mix (blend)  
 mixer - mixer (blender)  
 mixur - mixture  
-mode - mode (type, pattern, state)  
+mode - mode (pattern, fashion, style)  
 model - model (design)  
 mode lexe - adverb  
 module - module  
@@ -3079,8 +2948,8 @@ monograme - monogram
 monike - individual (single person)  
 monisme - monism  
 Monako - Monaco  
-Mongol - Mongolia  
-mongol di - Mongolian  
+mongol - Mongol  
+Mongolia - Mongolia  
 moral - morality (ethics)  
 moral di - moral  
 moral logia - ethics  
@@ -3091,7 +2960,6 @@ mosim - season
 moski - mosquito  
 Moskva - Moscow  
 moskvium - moscovium  
-mostre - monster  
 mote - move (transfer, shift, stir, budge, rouse, motivate, inspire)  
 • demote - move away  
 • promote - promote (further, move forward)  
@@ -3173,6 +3041,7 @@ najis di - impure (polluted, defiled, tainted)
 nam - name  
 • annam - antonym  
 • dusnamize - insult (offend, call names)  
+• exonam - exonym  
 nam dokumen - identity document (identification, ID)  
 nam hin - nameless (unnamed, anonymous)  
 namize - call (name)  
@@ -3361,10 +3230,10 @@ numerike - digital (relating to numbers)
 numograme - digit (figure, numeral)  
 numologer - mathematician  
 numologia - mathematics (math)  
-o - or  
 
 ## O  
 
+o - or  
 Oberon - Oberon  
 ode - ode (verse)  
 Odisa - Odia (Oriya)  
@@ -3657,6 +3526,7 @@ ple - fold (layer)
 plan - plan  
 plan - intend (plan)  
 planeta - planet  
+• exoplaneta - exoplanet  
 plaste - mold (shape)  
 plaste - plastic  
 plastike - plastic (moldable, malleable)  
@@ -3849,8 +3719,7 @@ rang mate - dye
 rase - race (breed)  
 rasisme - racism  
 rasiste - racist  
-rasa medi - interracial  
-raste - growth  
+rase midike - interracial  
 rate - make sense (reason)  
 ration - reason (reasoning, rational thinking)  
 rational - rational (reasonable)  
@@ -4147,7 +4016,8 @@ side loka - seat (saddle)
 sifa - attribute (charasteristic, quality, feature, description, property)  
 sifa di - descriptive  
 sifa loge - adjective  
-sigar - cigarette (cigar)  
+sigare - cigar  
+sigarete - cigarette  
 sikisme - Sikhism  
 sikiste - Sikh  
 sikle - bike (cycle)  
@@ -4358,7 +4228,7 @@ tami - greedy
 Tamil - Tamil  
 tana - stem (torso, trunk, stalk)  
 tanah - Tanakh (Jewish Bible)  
-tanki - tank (reservoir)  
+tanke - tank (reservoir)  
 tantalium - tantalum  
 tanur - oven (furnace)  
 Tanzania - Tanzania  
@@ -4518,7 +4388,6 @@ trate - drag (haul, tow, trail)
 trater - tractor  
 trati - agreement (treaty)  
 • kontrati - agreement (treaty, contract)  
-tre - very  
 tren - train  
 tren dau - rail (railway, railroad)  
 tren kaper - train hijacker  
@@ -4532,6 +4401,7 @@ trigonometria - trigonometry
 trime - third (3rd)  
 tri pike - trident  
 triple - triple (threefold)  
+trirotike - tricycle  
 Trinita e Tobago - Trinidad and Tobago  
 Triton - Triton  
 truke - trick (ruse, fraud)  
@@ -4585,12 +4455,13 @@ Umbriel - Umbriel
 umur - age  
 umur di - aged  
 un - one (1)  
+unaje - unit (measurement)  
 undeisme - monotheism  
 undurike - continuous (analog)  
 undurike horloger - analog clock  
 un fen du - half (½)  
 unia - union  
-unife - unite (merge, integrate)  
+unife - unite (merge, integrate, unify)  
 unifike - united  
 Unifike Arabe Amiria (UAA) - United Arab Emirates  
 Unifike Statia de Amerika (USA) - United States of America (USA)  
@@ -4628,19 +4499,12 @@ vaf - dog
 vaf bute - doghouse (dog shelter)  
 vaf parke - kennel (facility)  
 vafle - waffle  
-vagina - vagina  
-vagina tis - vaginitis  
+vagine - vagina  
+vaginits - vaginitis  
 vahi - oasis  
 vai - outside (exterior)  
 vai dara - overflow (spill out)  
-vai di - outer (external)  
-vai gene di - exogenous  
 vai jen - outsider  
-vai klus di - exclusive  
-vai mise - export  
-vai nam - exonym  
-vai planeta - exoplanet  
-vai poze - expose (reveal)  
 vai tense - extent  
 vai yam - picnic  
 vakil - represent  
@@ -4989,6 +4853,8 @@ zaman - period (era, epoch, term)
 • prezaman di - old (ancient, former)  
 • prezaman xe - relic  
 Zambia - Zambia  
+zange - grow (grow up)  
+zange - growth  
 zar - hazard (chance)  
 zarike - random  
 zar kube - die (dice)  

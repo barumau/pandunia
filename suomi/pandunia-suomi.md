@@ -203,6 +203,8 @@ anusal - anaalinen
 aple - omena  
 aple sos - omenasose  
 aposum - pussirotta (opossumi)  
+are - ala (pinta-ala)  
+aria - alue (seutu)  
 arabe - Arabia (arabia; arabialainen)  
 araki - viina  
 arane - hämähäkki  
@@ -211,7 +213,6 @@ aranide - hämähäkkieläin
 arane nete - hämähäkinverkko  
 arbuze - vesimeloni  
 Arcah - Artsakhin tasavalta  
-area - alue (seutu)  
 argente - hopea  
 Argentina - Argentiina  
 argon - argon  
@@ -485,7 +486,6 @@ be nam - olla nimeltään
 be nice - alittaa  
 be par - olla yhtä kuin  
 be pute - mädäntyä (mädätä)  
-be raste - kasvaa  
 be reste - jäädä jäljelle  
 be retro - palata  
 be rota - pyöriä  
@@ -1071,135 +1071,13 @@ Europa luna - Europa-kuu
 Europa Unia - Euroopan unioni  
 exgogia - ulkomaa  
 exgogike - ulkomaalainen  
-extre - ulkoinen  
+exike - ulko- (ulkoinen)  
 exa - eksa-  
 ezmurude - smaragdi  
 
 ## F  
 
-fa - tehdä (toimia)  
-fa alo rai - olla eri mieltä  
-fa an galte - poistaa virheitä (debugata)  
-fa an zai - poistaa (hävittää)  
-fa argu - väittää (osoittaa)  
-fa aroma - haistaa  
-fa aroma - haista  
-fa asar - vaikuttaa  
-fa banya - kylpeä  
-fa biznes lona - neuvotella  
-fa cori - varastaa  
-fa dalil - todistaa  
-fa darte hau - lannoittaa  
-fa defa - puolustaa  
-fa dosil - kesyttää  
-fa dosil gene - kesyttää  
-fa duka - surettaa  
-fa fei - lentää  
-fa fokus - keskittää  
-fa gola - ympäröidä (piirittää)  
-fa halal - sallia (antaa lupa)  
-fa has - erottaa (nähdä ero)  
-fa hava - tuulla (puhaltaa)  
-fa hen - vihata (inhota)  
-fa hogo - polttaa  
-fa jong - keskittää  
-fa kai - aukaista (avata)  
-fa kata - kertoa  
-fa koste - maksaa (olla hintana)  
-fa krus fixe - ristiinnaulita  
-fa kung - rei’ittää  
-fa kux - panna jkn maate  
-fa lai - tuoda  
-fa lanse grafi - heijastaa kuvia (projisoida)  
-fa lenxi - harjoitella (treenata)  
-fa libu - nostaa pystyyn  
-fa lika - vahvistaa (voimistaa)  
-fa linke - yhdistää (kytkeä yhteen)  
-fa lona - keskustelu (debatti)  
-fa manera - käyttäytyä  
-fa mantra - messuta  
-fa max lika - voimistaa  
-fa mece - otella  
-fa mei daka - koristella  
-fa memo - muistaa  
-fa min gradu - alentaa tasoa  
-fa min rai - aliarvioida  
-fa ming - kirkastaa (valaista)  
-fa model - mallintaa  
-fa najis - tahrata (korruptoida)  
-fa nia - aikoa (meinata)  
-fa oke - hyväksyä  
-fa onor - kunnioittaa  
-fa ore - kuunnella  
-fa pada - pudottaa  
-fa par - tasoittaa (tasata)  
-fa paraya - halveksia (hyljeksiä)  
-fa parce - hajottaa (särkeä, repiä, sirpaloida)  
-fa parti - osallistua  
-fa pasi - satuttaa  
-fa pati mise - tartuttaa tauti  
-fa pauza - keskeyttää (tauottaa)  
-fa pede - pierrä (pieraista)  
-fa pei - maksaa  
-fa pin - pistää (piikittää)  
-fa piping - arvioida (arvostella, kritisoida)  
-fa politi - hallita (hallinnoida)  
-fa pos - seurata (tulla perässä, tulla jäljessä)  
-fa poze - panna (asettaa)  
-fa pul - täyttää  
-fa pul hau - tehdä täydelliseksi  
-fa rai - olla jtkn mieltä (pitää jnkn)  
-fa rande - höylätä  
-fa ratibu - järjestää (järjestellä)  
-fa re - toistaa  
-fa redi - tehdä valmiiksi  
-fa reporte - raportoida (selostaa)  
-fa retro - palauttaa  
-fa rezerve - varata (tehdä varaus)  
-fa rolo - kääriä  
-fa romanse - rakastaa romanttisesti  
-fa sabu - aiheuttaa (olla syynä)  
-fa sahi - korjata (tehdä oikeaksi)  
-fa saide - pyytää (metsästää, kalastaa)  
-fa sam rai - olla samaa mieltä  
-fa sam sifa - matkia (jäljitellä)  
-fa sana - tehdä (valmistaa)  
-fa sekur - suojella (suojata, turvata)  
-fa sel - neuvoa  
-fa sense - aistia  
-fa serve - palvella (tarjoilla)  
-fa side - istua  
-fa sifa - määritellä (luonnehtia)  
-fa sim - kannattaa (tukea, edistää)  
-fa sing foto - tuikkia  
-fa sir - piilottaa (kätkeä)  
-fa siro - nollata  
-fa soni - ääntää  
-fa sor - lukita  
-fa sosi - seurustella (toimia yhdessä)  
-fa sual - kysyä  
-fa sultan - hallita (olla vallassa)  
-fa sum - ynnätä (summata)  
-fa tapa - korkittaa (tukkia)  
-fa tela - kutoa kangasta  
-fa tele fon - soittaa puhelimella  
-fa tense - kirentää (kiristää)  
-fa terca - panna vinoon  
-fa tese - väittää  
-fa transe - kulkea poikki, läpi tai yli  
-fa trati - sopia (tehdä sopimus)  
-fa truke - jekuttaa (petkuttaa)  
-fa ulul - ulvoa  
-fa vai klus - sulkea pois  
-fa vai tense - venyttää (pingottaa)  
-fa valu - arvottaa  
-fa vanu - viihdyttää (huvittaa)  
-fa xarti - vaatia (edellyttää)  
-fa xipi - kosteuttaa  
-fa xiti bai - hävitä (kärsiä tappio)  
-fa xopi - ostaa  
-fa xux - hiljentää  
-fa yagu - arvioida  
+fe - tehdä (toimia)  
 faide - hyöty (etu)  
 faidaje - hyötyaines  
 faidike - hyödyllinen  
@@ -1209,24 +1087,20 @@ fan - palvoa (fanata; fani)
 fanate - palvoa (fanata)  
 fanatike - fanaatikko  
 fantaze - kuvitella  
-fantaze - mielikuvitus (fantasia)  
+fantazia - mielikuvitus (fantasia)  
 fantazike - mielikuvituksekas (fantastinen)  
 fantom - kummitus (aave)  
 fase - pinta (tahko)  
-fase area - ala (pinta-ala)  
 fase tele - syvä  
 fase teleta - syvyys  
 fasil - helppo  
 fasilta - helppous  
-fasinta - hurma (lumo, tenho)  
 fatige - väsymys  
 fatura - lasku (faktuura)  
 favor - suosio (hyväntahtoisuus)  
 faxe - nippu (kimppu)  
 faxisme - fasismi  
 faxiste - fasisti  
-faxon - trendi  
-faxon di - suosittu (trendikäs)  
 faze - vaihe (etappi)  
 febre - kuume  
 fei - lento  
@@ -1266,6 +1140,7 @@ fete - tehdä (toimia; teko, toimenpide)
 • perfete - täydellinen  
 • rifete - tehdä uudestaan (toistaa)  
 fete baxe - keinotekoinen kieli (tekokieli, keinokieli)  
+fetebil - tehtävissä oleva  
 feter - tekijä (toimija)  
 feteria - tehdas  
 Fiji - Fidži  
@@ -1293,6 +1168,7 @@ fite - kasvi
 fitologia - kasvitiede  
 fixe - kiinnittää  
 • afixe - liite  
+• afixaje - juliste  
 • posfixe - jälkiliite (postfiksi)  
 • prefixe - etuliite (prefiksi)  
 fize - fyysinen luonto  
@@ -1422,6 +1298,7 @@ galeri - galleria
 gali - katu  
 galope - laukka  
 galte - erehtyä (tehdä virhe)  
+• angaltife - poistaa virheitä (debugata)  
 galte - virhe (erhe)  
 galte budi - ymmärtää väärin  
 galte di - väärä (virheellinen)  
@@ -2250,10 +2127,12 @@ klin - taipumus
 klon - klooni (identtinen kopio)  
 klor - kloori  
 klube - kerho (klubi)  
-klus - sulkea  
-kluse - sulkea (panna kiinni)  
-• inkluse - sisällyttää (sulkea sisäänsä)  
-klus di - suljettu  
+kluze - sulkea (panna kiinni)  
+• exkluze - sulkea pois  
+• exkluzive - poissulkeva (eksklusiivinen)  
+• inkluze - sisällyttää (sulkea sisäänsä)  
+• konkluze - sulkea yhteen  
+kluzike - suljettu  
 koala - koala  
 kobalte - koboltti  
 kode - koodi  
@@ -2690,6 +2569,7 @@ medu vespa nide - mehiläispesä
 mega gram - tonni (1000 kg)  
 mega vate - megawatti (MW)  
 megi - pilvi  
+mehe - lammas  
 Mehiko - Meksiko  
 mei - kaunis (komea, sievä)  
 mei arte - taide  
@@ -2697,7 +2577,6 @@ meita - kauneus
 meitnerium - meitnerium  
 melodia - melodia (sävelmä)  
 melodike - melodinen (sointuisa)  
-meme - lammas  
 memo - muisti  
 • anmemo - unohtaa  
 memo note - muistio (muistiinmerkintä)  
@@ -2705,7 +2584,7 @@ memo tehni - muistitekniikka
 men - moni (monta)  
 mendelevium - mendelevium  
 meninge - aivokalvo  
-meninge tis - aivokalvontulehdus  
+meningitis - aivokalvontulehdus  
 mentor - neuvontantaja (mentori)  
 mer - jäsen (osatekijä, komponentti)  
 meronam - meronyymi (osakäsite)  
@@ -2735,9 +2614,9 @@ metal - metalli
 metal lin - vaijeri (metallilanka)  
 metal mixure - metalliseos  
 metal saner - seppä  
+metre - mitta (koko, määrä)  
+• parametre - parametri (argumentti)  
 metre bande - mittanauha  
-metri - mitta (koko, määrä)  
-• parametri - parametri (argumentti)  
 meza - pöytä  
 meza tela - pöytäliina  
 mi - minä  
@@ -2813,8 +2692,8 @@ mitre - metri
 mixe - sekoittaa  
 mixer - sekoitin  
 mixur - seos  
-mode - laatu (tila, moodi, tyyppi)  
-model - malli  
+mode - tapa (malli, tyyli, moodi)  
+model - malli (mallikappale)  
 mode lexe - adverbi  
 module - moduuli  
 mogu - kalvo (filmi)  
@@ -2837,8 +2716,8 @@ monaje - monadi
 monike - yksilö  
 monisme - monismi  
 Monako - Monaco  
-Mongol - Mongolia  
-mongol di - mongoli  
+mongol - mongoli  
+Mongolia - Mongolia  
 moral - moraali  
 moral di - moraalinen  
 moral logia - etiikka (moraalioppi)  
@@ -2848,7 +2727,6 @@ mosim - vuodenaika
 moski - hyttynen (sääski)  
 Moskva - Moskova  
 moskvium - moscovium  
-mostre - hirviö  
 mote - liikuttaa (siirtää; liikkua)  
 • demote - liikkua pois (siirtää pois)  
 • promote - edistää (promotoida)  
@@ -2919,6 +2797,7 @@ nahun - kynsi
 nam - nimi  
 • annam - vastakohta (antonyymi)  
 • dusnamize - solvata (loukata)  
+• exonam - eksonyymi  
 nam hin - nimetön  
 namize - nimittää (kutsua)  
 nam lexe - substantiivi (nimisana)  
@@ -3087,10 +2966,10 @@ nume - lukumäärä (luku, numero; laskea, numeroida)
 numerike - numeerinen  
 numologer - matemaatikko  
 numologia - matematiikka (matikka)  
-o - tai (vai)  
 
 ## O  
 
+o - tai (vai)  
 ode - oodi (värssy)  
 Odisa - orija (eräs intialainen kieli)  
 oganeson - oganesson  
@@ -3347,6 +3226,7 @@ ple - kerta (kerros, monikerta)
 plan - suunnitelma  
 plan - suunnitella  
 planeta - planeetta  
+• exoplaneta - eksoplaneetta  
 plaste - muovata (muovailla)  
 plaste - muovi  
 plastike - plastinen (muovailtava)  
@@ -3509,8 +3389,7 @@ rang mate - väriaine
 rase - rotu  
 rasisme - rasismi (rotuoppi)  
 rasiste - rasisti  
-rasa medi - rotujen välinen  
-raste - kasvu  
+rase midike - rotujen välinen  
 rate - järkeillä (käydä järkeen)  
 ration - järki (järkeily, päättely)  
 rational - järjellinen (järkiperäinen, rationaalinen)  
@@ -3764,7 +3643,8 @@ siborgium - seaborgium
 sifa - laatu (ominaisuus, ominaispiirre, määrite)  
 sifa di - kuvaileva (määrittelevä)  
 sifa loge - adjektiivi (laatusana)  
-sigar - savuke tai sikari  
+sigare - sikari  
+sigarete - savuke (tupakka, rööki)  
 sikisme - sikhiläisyys  
 sikiste - sikhi  
 sikle - pyörä (polkupyörä, moottoripyörä)  
@@ -3945,7 +3825,7 @@ tamar - taateli
 tami - ahne  
 Tamil - tamil (eräs intialainen kieli)  
 tanah - tanakh  
-tanki - tankki (säiliö)  
+tanke - tankki (säiliö)  
 tantalium - tantaali  
 tanur - uuni  
 Tanzania - Tansania  
@@ -4094,7 +3974,6 @@ trate - vetää (kiskoa, raahata)
 trater - traktori  
 trati - sopimus  
 • kontrati - sopimus  
-tre - hyvin (sangen)  
 tren - juna  
 tren dau - junarata (rautatie)  
 tren kaper - junakaappari  
@@ -4107,6 +3986,7 @@ trigonometria - kolmiomittaus (trigonometria)
 trime - kolmas (3.)  
 tri pike - atrain  
 triple - tripla (kolminkertainen)  
+trirotike - kolmipyörä (kolmirattainen)  
 Trinita e Tobago - Trinidad ja Tobago  
 Triton - Triton  
 truke - temppu (kepponen, jekku, huijaus)  
@@ -4201,18 +4081,11 @@ vaf - koira
 vaf bute - koirankoppi  
 vaf parke - koiratarha (kennel)  
 vafle - vohveli  
-vagina - emätin (vagina)  
-vagina tis - emätintulehdus  
+vagine - emätin (vagina)  
+vaginits - emätintulehdus  
 vahi - keidas  
 vai - ulkopuoli  
-vai di - ulko- (ulkoinen)  
-vai gene di - ulkosyntyinen  
 vai jen - ulkopuolinen  
-vai klus di - poissulkeva (eksklusiivinen)  
-vai mise - viedä pois (viedä maasta)  
-vai nam - eksonyymi  
-vai planeta - eksoplaneetta  
-vai poze - ottaa esiin (paljastaa)  
 vai yam - eväsretki (piknik)  
 vakil - edustaa  
 vakiler - edustaja (agentti)  
@@ -4277,7 +4150,7 @@ verse - kääntää jtkn päin
 • konverse - pyöritellä asiaa (keskustella)  
 • kontraverse - vastakohtaisuus  
 • perverse - kiero (perverssi)  
-• reverse - taaksepäin  
+• reverse - kääntää taakse päin  
 verse - kohti (päin)  
 version - versio (käännös, muunnelma)  
 veruke - syylä  
@@ -4542,6 +4415,8 @@ zaman - kausi (aikakausi, ajanjakso, periodi)
 • prezaman di - vanha (muinainen)  
 • prezaman xe - muinaisjäänne  
 Zambia - Sambia  
+zange - kasvaa  
+zange - kasvu  
 zar - sattuma (onni)  
 zarike - sattumanvarainen  
 zar kube - noppa (arpakuutio)  

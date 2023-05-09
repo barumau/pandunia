@@ -110,6 +110,7 @@ ama - pero (sino)
 Amara - amhara  
 Amazon - Amazonas  
 amen - confiar (contar con)  
+amen - confirmar  
 amenbil - leal (fiel)  
 amenbilta - lealtad (fidelidad)  
 amen di - honesto (seguramente, amén)  
@@ -155,6 +156,8 @@ anusal - anal
 aple - manzana  
 aple sos - compota de manzanas  
 aposum - zarigüeya  
+are - área (superficie)  
+aria - área (zona, región)  
 arabe - árabe  
 arabi babul - goma arábiga  
 araki - licor  
@@ -164,7 +167,6 @@ aranide - arácnido
 arane nete - telaraña  
 arbuze - sandía (patilla)  
 Arcah - Artsaj  
-area - área (zona, región)  
 argente - plata  
 Argentina - Argentina  
 argon - argón  
@@ -408,7 +410,6 @@ be mal - ser de
 be mata - morirse  
 be nam - llamarse  
 be pute - pudrirse (cariarse, descomponerse)  
-be raste - crecer  
 be reste - quedarse  
 be retro - volver  
 be rota - girar (rotar)  
@@ -936,145 +937,26 @@ europa di - europeo
 Europa Unia - Unión Europea  
 exgogia - país extranjero  
 exgogike - extranjero  
+exike - exterior  
 ezmurude - esmeralda  
 
 ## F  
 
-fa - hacer  
-fa alo rai - disentir (no estar de acuerdo)  
-fa amen - confirmar  
-fa an galte - depurar  
-fa an verse - invertir  
-fa an zai - quitar (eliminar, borrar)  
-fa argu - argüir  
-fa aroma - oler (olfatear)  
-fa aroma - oler (apestar)  
-fa asar - efectuar  
-fa banya - bañarse  
-fa biznes lona - negociar  
-fa cori - robar (hurtar)  
-fa dalil - probar (demonstrar, comprobar)  
-fa defa - defender  
-fa ding - determinar (establecer, definir)  
-fa dosil - domar (amansar)  
-fa dosil gene - domesticar (cultivate)  
-fa duka - entristecer (poner triste)  
-fa fatu - castigar  
-fa fei - volar  
-fa fokus - concentración  
-fa gola - rodear (cirundar)  
-fa halal - permitir (dejar)  
-fa has - diferenciar (distinguir)  
-fa hava - soplar (echar)  
-fa hen - odiar  
-fa hogo - quemar  
-fa jang - pelear  
-fa jong - centrar (concentrar)  
-fa jui - advertir  
-fa kai - abrir  
-fa kata - relatar (narrar)  
-fa koste - costar  
-fa krus fixe - crucificar  
-fa kung - perforar (agujerar)  
-fa kux - acostar (poner)  
-fa lai - traer  
-fa lanse grafi - proyectar  
-fa lenxi - practicar (ensayar, ejercitar)  
-fa libu - erigir (montar, armar)  
-fa linke - conectar (empalmar, enlazar, vincular)  
-fa lona - debatir (discutir)  
-fa manera - comportarse (portarse)  
-fa mantra - salmodiar  
-fa mece - competir  
-fa mei daka - decorar (adornar)  
-fa memo - acordarse  
-fa min rai - subestimar  
-fa ming - iluminar  
-fa model - modelo  
-fa nafas - respirar  
-fa najis - corromper (contaminar)  
-fa oke - aceptar  
-fa onor - honrar  
-fa ore - escuchar (oír)  
-fa pada - dejar caer  
-fa paraya - despreciar (desdeñar)  
-fa parce - romper (hacer pedazos)  
-fa parti - participar  
-fa pasi - doler (hacer daño)  
-fa pati mise - infectar (contagiar)  
-fa pauza - parar  
-fa pede - peer  
-fa pei - pegar  
-fa piping - criticar (evaluar)  
-fa poli - multiplicar  
-fa politi - gobernar  
-fa pos - seguir  
-fa poze - hacer posar (plantar)  
-fa pul - llenar  
-fa pul hau - perfeccionar  
-fa rai - opinar  
-fa rande - cepillar con garlopa  
-fa ratibu - ordenar (arreglar)  
-fa re - repetir  
-fa redi - preparar (hacer listo)  
-fa reporte - reportar  
-fa retro - retornar  
-fa rezerve - reservar  
-fa rolo - liar (enrollar)  
-fa romanse - amar románticamente  
-fa sabu - causar  
-fa sahi - corregir  
-fa saide - cazar (pescar)  
-fa sam rai - acordar  
-fa sam sifa - simular  
-fa sana - producir (hacer, preparar)  
-fa sekur - proteger (asegurar, guardar)  
-fa sel - aconsejar  
-fa sense - sentir (detectar)  
-fa serve - servir  
-fa side - sentar  
-fa sifa - definir  
-fa sing foto - centellear (titilar)  
-fa sir - ocultar (esconder)  
-fa siro - cancelar (nulificar, borrar, eliminar)  
-fa soni - sonar  
-fa sosi - alternar (interactuar)  
-fa sual - preguntar (inquirir)  
-fa sultan - reinar (gobernar)  
-fa sum - sumar  
-fa tapa - taponar  
-fa tela - tejer  
-fa tele fon - telefonear  
-fa terca - inclinar  
-fa tese - argumentar (alegar)  
-fa transe - transitar (atravesar)  
-fa truke - engañar  
-fa ulul - aullar  
-fa vai klus - excluir  
-fa valu - valorar  
-fa vanu - divertir (entretener)  
-fa xarti - espicificar (estipular)  
-fa xipi - mojar  
-fa xiti bai - perder (fallar)  
-fa xopi - comprar  
-fa xou - demostrar  
-fa yagu - estimar (apriximarse a)  
+fe - hacer  
 faide - beneficio  
 faidike - útil (beneficioso)  
 famil - familia  
 famil nam - apellido  
 fan - fan  
 fantaze - imaginar (fantasear)  
-fantaze - imaginación (fantasía)  
+fantazia - imaginación (fantasía)  
 fantazike - imaginario (fantástico)  
 fantom - fantasma  
 fase - faz (faceta)  
-fase area - área (superficie)  
 fase tele - profundo (hondo)  
 fase teleta - superficial (poco profundo)  
 fasil - fácil  
 fasilta - facilidad  
-fasinta - fascinación  
 fatige - fatiga  
 fatu - castigo  
 fatu di - penal (penetenciario)  
@@ -1082,8 +964,6 @@ fatura - cuenta (factura)
 faxe - haz (fajo)  
 faxisme - fascismo  
 faxiste - fascista  
-faxon - moda (tendencia)  
-faxon di - moda (moderno, popular)  
 faze - etapa (fase)  
 febre - fiebrie (calentura)  
 fei - vuelo  
@@ -1116,6 +996,7 @@ fete - hacer (hecho)
 • perfete - perfecto  
 • rifete - repetir  
 fete baxe - idioma artificial (lengua construida, conlang)  
+fetebil - factible  
 feter - factor  
 feteria - fábrica  
 Fiji - Fiji  
@@ -1246,6 +1127,7 @@ galeri - galería
 gali - calle  
 galope - galope  
 galte - errar (cometer un error)  
+• angaltife - depurar  
 galte - error  
 galte budi - malinterpretar  
 galte di - erróneo  
@@ -2027,7 +1909,9 @@ klin - cuesta (inclinación, pendiente, predisposición, tender)
 klon - clonar  
 klor - cloro  
 klube - club  
-• inkluse - incluir  
+• exkluze - excluir  
+• exkluzive - exclusivo  
+• inkluze - incluir  
 koala - koala  
 kobalte - cobalto  
 kode - código (cifra)  
@@ -2451,6 +2335,7 @@ medu vespa nide - colmena (panal)
 mega gram - tonelada  
 mega vate - megavatio  
 megi - nube  
+mehe - oveja  
 Mehiko - México  
 Mehiko siti - Ciudad de México  
 mei - hermoso (bello, lindo)  
@@ -2461,7 +2346,6 @@ meitnerium - meitnerio
 melodia - melodía  
 melodike - melodioso  
 melon - melón  
-meme - oveja  
 memo - memoria  
 • anmemo - olvidar  
 memo bina - monumento  
@@ -2469,7 +2353,7 @@ memo note - memorándum (nota)
 men - muchos (múltiples)  
 mendelevium - mendelevio  
 meninge - meninge  
-meninge tis - meningitis  
+meningitis - meningitis  
 mentor - consejero (asesor)  
 mer - miembro (componente)  
 meronam - merónimo  
@@ -2500,11 +2384,10 @@ metal lin - alambre (hilo)
 metal mixure - aleación  
 metal saner - herrero  
 metal tul - ferretería  
+metre - medir (medida)  
+• parametre - parámetro  
 metre bande - cinta métrica  
-metri - medir (medida)  
-metri gi - medidor  
-metri unta - unidad (medida)  
-• parametri - parámetro  
+metrer - medidor  
 meza - mesa  
 meza stan - meseta  
 meza tela - mantel  
@@ -2577,8 +2460,8 @@ mitre - metro
 mixe - mezclar  
 mixer - batidora (licuadora, mezcladora)  
 mixur - mezcla  
-mode - modo (tipo)  
-model - modelar  
+mode - modo  
+model - modelo  
 mode lexe - adverbo  
 mogu - membrana  
 moka - árbol  
@@ -2603,8 +2486,8 @@ monograme - monograma
 monike - individuo  
 monisme - monismo  
 Monako - Mónaco  
-Mongol - Mongolia  
-mongol di - mongol  
+mongol - mongol  
+Mongolia - Mongolia  
 moral - moralidad (ética)  
 moral di - moral (ético)  
 moral logia - ética (filosofía moral)  
@@ -2614,7 +2497,6 @@ mos di - musgoso
 mosim - estación (temporada)  
 moski - mosquito (mosco)  
 moskvium - moscovio  
-mostre - monstro  
 mote - mudar (mover, transferir, traspasar, trasladar, estimular, inspirar)  
 • promote - promover  
 moter - motor  
@@ -2680,6 +2562,7 @@ najis di - corrompido
 nam - nombre  
 • annam - antónimo  
 • dusnamize - insultar (ofender)  
+• exonam - exónimo  
 nam dokumen - identificación (ID)  
 nam hin - innominado  
 namize - llamar (poner)  
@@ -2850,10 +2733,10 @@ numerike - dígital
 numograme - dígito (cifra)  
 numologer - matemático  
 numologia - matemática  
-o - o  
 
 ## O  
 
+o - o  
 ode - oda  
 Odisa - oriya  
 oganeson - oganesón  
@@ -3088,6 +2971,7 @@ pizaria - pizzería
 plan - plan  
 plan - planear (tener pensado)  
 planeta - planeta  
+• exoplaneta - exoplaneta (planeta extrasolar)  
 plaste - moldear (modelar)  
 plaste - plástico  
 plastike - maleable  
@@ -3256,8 +3140,7 @@ rang mate - tinte
 rase - raza  
 rasisme - racismo  
 rasiste - racista  
-rasa medi - interracial  
-raste - crecemiento  
+rase midike - interracial  
 rate - tener sentido  
 ration - razonamiento  
 rational - racional  
@@ -3518,7 +3401,8 @@ side loka - silla (montura)
 sifa - cualidad (atributo, descripción)  
 sifa di - descriptivo  
 sifa loge - adjetivo  
-sigar - cigarro (cigarillo)  
+sigare - cigarro  
+sigarete - cigarillo  
 sikisme - sijismo  
 sikiste - sij  
 sikle - bicicleta  
@@ -3707,7 +3591,7 @@ tami - codicioso (avaro)
 Tamil - tamil  
 tana - tallo  
 tanah - Tanaj (Biblia hebrea)  
-tanki - tanque (cisterna)  
+tanke - tanque (cisterna)  
 tantalium - tántalo  
 tanur - horno  
 Tanzania - Tanzania  
@@ -3834,7 +3718,6 @@ trate - arrastrar
 trater - tractor  
 trati - contrato (tratado)  
 • kontrati - contrato (tratado)  
-tre - muy  
 tren - tren  
 tren dau - vía férrea  
 trepe - escalera  
@@ -3844,6 +3727,7 @@ trigone - triángulo
 trigonometria - trigonometría  
 tri pike - tridente  
 triple - triple  
+trirotike - triciclo  
 Trinita e Tobago - Trinidad y Tobago  
 truke - truco  
 tu - tú (usted)  
@@ -3888,6 +3772,7 @@ uma bici - fusta
 umami - sabroso (umami)  
 umur - edad  
 un - uno (1)  
+unaje - unidad (medida)  
 undeisme - monoteismo  
 undurike - continuo (analógico)  
 unia - unión  
@@ -3926,18 +3811,11 @@ va - guau (vaya)
 vaf - perro  
 vaf bute - perrera  
 vafle - gofre  
-vagina - vagina  
-vagina tis - vaginitis  
+vagine - vagina  
+vaginits - vaginitis  
 vahi - oasis  
 vai - fuera (exterior)  
 vai dara - desbordarse (derramarse)  
-vai di - exterior  
-vai gene di - exógeno  
-vai klus di - exclusivo  
-vai mise - exportar  
-vai nam - exónimo  
-vai planeta - exoplaneta (planeta extrasolar)  
-vai poze - exponer (revelar)  
 vai yam - jira (pícnic)  
 vakil - representar  
 vakiler - representante  
@@ -4223,6 +4101,8 @@ zaman - tiempo (era, periodo, época)
 • prezaman di - viejo (antiguo)  
 • prezaman xe - reliquia  
 Zambia - Zambia  
+zange - crecer  
+zange - crecemiento  
 zar - riesgo (posibilidad)  
 zarike - azar (aleatorio)  
 zar kube - dado  

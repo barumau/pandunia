@@ -869,24 +869,24 @@ In Pandunia, tense can be expressed with time words and time phrases if needed.
 The general time words are **pas** (past), **zai** (present) and **xa** (future, upcoming).
 They function like adverbs, so typically their place is before the verb.
 
-**mi pas ha mau.**
+**mi su pas es mau.**
 – I had cats.  
-**ama mi no zai ha mau.**
+**ama mi su no zai es mau.**
 – But I now don't have cats.  
-**bil, mi xa ha mau.**
+**bil, mi su xa es mau.**
 – Maybe I will have cats.
 
 It's also possible to say it in a longer way like **na pas zaman** (in the past) etc.
 
-**mi ha mau na pas zaman.**
+**mi su es mau a pas zaman.**
 – I had cats in the past.  
-**ama mi no ha mau na zai zaman.**
+**ama mi su no es mau a zai zaman.**
 – But I don't have cats at present.  
-**bil, mi ha mau na xa zaman.**
+**bil, mi su es mau a xa zaman.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.
-So the verb **ha** stayed the same in all tenses in the examples above.
+So the verb **es** stayed the same in all tenses in the examples above.
 
 Naturally time words are used only when they are necessary.
 Usually it is enough to mention the time just once at the beginning of the text

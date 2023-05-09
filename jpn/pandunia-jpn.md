@@ -64,10 +64,10 @@ animation - アニメーション
 anis - アニス (八角)  
 aple - 林檎  
 aposum - 袋鼠 (オポッサム)  
+aria - 辺  
 arane - オレンジ  
 aranide - クモ形類  
 arane nete - クモの巣  
-area - 辺  
 argente - 銀  
 argon - アルゴン  
 arke - 弓 (弓なり)  
@@ -424,44 +424,7 @@ ezmurude - エメラルド
 
 ## F  
 
-fa - する  
-fa an galte - デバッグする  
-fa an verse - 逆らう  
-fa aroma - 嗅ぐ  
-fa aroma - 香る (匂う, 臭う)  
-fa biznes lona - 話し合う (話を付ける)  
-fa ding - 定める (決する, 決定する)  
-fa dosil - 馴らす  
-fa fatu - 罰する  
-fa fei - 飛ぶ  
-fa hogo - 燃やす  
-fa jang - 戦う  
-fa jui - 戒める (諭す)  
-fa kung - 染みる (貫通する)  
-fa kux - 横たえる  
-fa lai - 持って来る  
-fa lanse grafi - 映す (投影する)  
-fa linke - 繋ぐ  
-fa mei daka - 飾る  
-fa memo - 思い出す  
-fa najis - 汚す  
-fa pede - おならをする  
-fa politi - 治める (司る)  
-fa poze - 植える  
-fa ratibu - 揃える  
-fa re - 繰り返す  
-fa saide - 狩る  
-fa sam sifa - シミュレートする  
-fa sing foto - ピカピカ光る (きらきらする)  
-fa sir - 隠す  
-fa siro - 消す (キャンセルする)  
-fa sual - 聞く  
-fa tele fon - 電話する  
-fa truke - 騙す  
-fa xipi - 濡らす  
-fa xiti bai - 負ける  
-fa xopi - 買う  
-fa xou - 見せる (示す, デモる)  
+fe - する  
 faide - 使用 (為, 利)  
 fan - ファン  
 fase - 面  
@@ -538,6 +501,7 @@ galium - ガリウム
 gala - のど  
 galaxia - 銀河  
 gali - 道路 (街路)  
+• angaltife - デバッグする  
 galte - 間違い (誤り, バグ)  
 gamba - 海老  
 gamel - 駱駝  
@@ -1123,9 +1087,9 @@ metal - 金属
 metal bede - 金敷き (鉄床)  
 metal lin - 線 (針金)  
 metal tul - 金物  
-metri - 測定  
-metri gi - 測定装置 (計)  
-• parametri - 引数 (パラメーター)  
+metre - 測定  
+• parametre - 引数 (パラメーター)  
+metrer - 測定装置 (計)  
 meza - 机 (テーブル)  
 meza stan - 台地 (高地)  
 meza tela - テーブル掛け  
@@ -1169,7 +1133,6 @@ mos di - 苔状
 mosim - 季節  
 moski - 蚊  
 moskvium - モスコビウム  
-mostre - 怪物  (モンスター)  
 mote - 動かす  
 moter - モーター (エンジン, 機関)  
 moter cate - ボンネット (フード)  
@@ -1271,6 +1234,7 @@ norde - 北
 norma - 標準  
 norma di - 普段 (ノーマル)  
 nostalgia - 懐古 (懐旧)  
+nudisme - ヌーディズム  
 nuka - 首  
 nume - 数える  
 numerike - デジタル  
@@ -1375,6 +1339,7 @@ pipre minta - ペパーミント
 piram - ピラミッド (金字塔)  
 pisea - トウヒ  
 piza - ピザパイ  
+• exoplaneta - 系外惑星  
 plate di - 平ら  
 plate geo kaskelogia - プレートテクトニクス (プレート理論)  
 plate stan - 草原  
@@ -1557,7 +1522,7 @@ siborgium - シーボーギウム
 side - 座る  
 side loka - 座席 (鞍)  
 sifa loge - 形容詞  
-sigar - タバコ  
+sigarete - タバコ  
 resikle - 再生する (リサイクルする)  
 sikliste - チャリダー  
 silike - ヶィ素  
@@ -1683,13 +1648,13 @@ tragodia - 悲劇
 transe vide di - 透明  
 trater - トラクター  
 trati - 合意  
-tre - とても  
 tren - 電車 (列車)  
 • detrepe - 下る (降りる)  
 trepater - 蔓草  
 tri - 三 (3)  
 trigonometria - 三角法  
 tri pike - 三つまた (トライデント)  
+trirotike - 三輪車  
 truke - 悪戯 (詐欺)  
 tu - あなた  
 tumen - あなたたち  
@@ -1726,11 +1691,10 @@ va - わあ
 vaf - 犬 (狗)  
 vaf bute - 犬小屋  
 vafle - ワッフル  
-vagina - 膣 (ワギナ)  
+vagine - 膣 (ワギナ)  
 vai - 外  
 vai dara - 溢れる (越流する)  
 vai jen - 部外者 (アウトサイダー)  
-vai planeta - 系外惑星  
 vakiler - 代表  
 vakilkratia - 共和国  
 vali - 谷  

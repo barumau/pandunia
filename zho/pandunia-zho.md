@@ -75,6 +75,7 @@ antena - 天线
 anus - 肛门  
 aple - 苹果  
 aposum - 负鼠 (奥珀瑟姆)  
+are - 面积  
 arabi babul - 阿拉伯金合欢  
 araki - 烈酒  
 arane - 蜘蛛  
@@ -458,38 +459,10 @@ ezmurude - 绿宝石 (祖母绿)
 
 ## F  
 
-fa - 作  
-fa alo rai - 不同意  
-fa aroma - 闻到  
-fa aroma - 发臭  
-fa banya - 游泳  
-fa ding - 决定  
-fa dosil - 驯养  
-fa fei - 飞  
-fa hogo - 燃烧  
-fa lai - 带来  
-fa lanse grafi - 投射  
-fa linke - 连接  
-fa memo - 记得 (回忆)  
-fa najis - 污染  
-fa pede - 放屁  
-fa ratibu - 整理  
-fa re - 重复  
-fa saf va tela - 擦  
-fa saide - 打猎  
-fa sing foto - 闪烁  
-fa sir - 隐藏  
-fa siro - 删除 (消除)  
-fa sual - 问  
-fa tele fon - 打电话  
-fa truke - 耍花招  
-fa xipi - 弄湿  
-fa xiti bai - 输  
-fa xopi - 买  
+fe - 作  
 faide - 效用 (好处)  
 fan - 粉丝 (fensi)  
 fase - 面  
-fase area - 面积  
 fase tele - 深  
 fatu - 惩罚  
 fatura - 帐单  
@@ -505,6 +478,7 @@ fero - 铁
 fete - 事实  
 • infete - 传染  
 • rifete - 重复  
+fetebil - 可做的  
 filme - 电影 (影片)  
 filsofe - 哲学  
 fin - 了  
@@ -926,7 +900,7 @@ klima mute - 气候变化
 klin - 趋势  
 klon - 克隆  
 klor - 氯  
-• inkluse - 包括  
+• inkluze - 包括  
 koala - 樹袋熊 (考拉)  
 kobalte - 钴  
 koda - 尾巴 (尾部)  
@@ -1146,8 +1120,8 @@ metal bede - 铁砧
 metal lin - 线 (铁丝)  
 metal mixure - 合金  
 metal saner - 铁匠  
+• parametre - 参数  
 metre bande - 卷尺 (皮尺)  
-• parametri - 参数  
 meza - 桌子  
 meza tela - 桌布  
 mi - 我  
@@ -1178,7 +1152,6 @@ misioner - 传教士
 Misre - 埃及  
 mitre - 米 (公尺)  
 mixur - 混合物  
-mode - 模  
 mogu - 膜  
 moka - 树木  
 moka bano - 木板  
@@ -1196,7 +1169,6 @@ mone - 单
 mos - 苔藓  
 mosim - 季  
 moski - 蚊子  
-mostre - 妖怪 (怪物)  
 mote - 动  
 moter - 马达 (发动机)  
 moter cate - 引擎盖  
@@ -1306,10 +1278,10 @@ numerike - 数字的
 numograme - 数字  
 numologer - 数学家  
 numologia - 数学  
-o - 或  
 
 ## O  
 
+o - 或  
 ode - 頌  
 ohtopus - 章鱼  
 oke - 眼睛  
@@ -1415,6 +1387,7 @@ piram - 金字塔
 pisea - 云杉  
 piza - 比萨饼  
 • aplike - 运用  
+• exoplaneta - 系外行星  
 plate geo kaskelogia - 板块构造论  
 plate stan - 平原  
 platin - 铂  
@@ -1581,7 +1554,7 @@ sexulogia - 性学
 si - 如果 (要是)  
 side loka - 座部 (马鞍)  
 sifa loge - 形容词  
-sigar - 香烟  
+sigarete - 香烟  
 resikle - 循环再造  
 sikliste - 骑自行车的人  
 silike - 硅  
@@ -1710,12 +1683,12 @@ transe vide di - 透明的
 trate - 拖  
 trater - 拖拉机 (铁牛)  
 trati - 合同 (合约)  
-tre - 很 (太)  
 tren - 火车 (列车)  
 tren tikete - 火车票  
 tri - 三 (3)  
 trigonometria - 三角法  
 tri pike - 三叉戟  
+trirotike - 三轮车  
 truke - 伎俩  
 tu - 你  
 tumen - 你们  
@@ -1752,11 +1725,10 @@ va - 哇
 vaf - 狗  
 vaf bute - 狗屋  
 vafle - 窝夫  
-vagina - 阴道  
+vagine - 阴道  
 vai - 外  
 vai dara - 溢出  
 vai jen - 外人 (局外人)  
-vai planeta - 系外行星  
 vai yam - 野餐  
 vakiler - 代表  
 vakilkratia - 共和国  

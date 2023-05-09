@@ -480,36 +480,7 @@ ezmurude - esmeralda
 
 ## F  
 
-fa - fazer  
-fa alo rai - discordar  
-fa argu - arguir  
-fa aroma - cheirar  
-fa asar - efetuar  
-fa fatu - punir (castigar)  
-fa fei - voar  
-fa hogo - queimar  
-fa kux - deitar  
-fa lai - trazer  
-fa linke - relier (connecter)  
-fa memo - lembrar-se (recordar-se)  
-fa min rai - menosprezar (subestimar)  
-fa onor - honrar  
-fa pati mise - infectar (contagiar)  
-fa pede - peidar  
-fa pul hau - aperfeiçoar  
-fa re - repetir  
-fa retro - retornar  
-fa saide - caçar  
-fa sel - aconselhar  
-fa sing foto - cintilar  
-fa sir - ocultar (esconder)  
-fa sual - perguntar  
-fa tele fon - telefonar  
-fa truke - enganar  
-fa vai klus - excluir  
-fa valu - valorar  
-fa xipi - molhar  
-fa xopi - comprar  
+fe - fazer  
 fan - fã  
 fase - face (faceta)  
 fase tele - profundo  
@@ -530,11 +501,12 @@ fenol - fenol
 • refere - referir  
 fermium - férmio  
 fero - ferro  
-fete - fazer (fato, facto)  
+fete - fazer (feito, fato, facto)  
 • exfete - efeito  
 • infete - infecção  
 • parafete - efeito colateral  
 • rifete - repetir  
+fetebil - factível (fazível)  
 feter - fator (fazedor)  
 filsofe - filosofia  
 fiorde - fiorde  
@@ -973,7 +945,9 @@ klima mute - mudança climática
 klin - tendência  
 klon - clone  
 klor - cloro  
-• inkluse - incluir  
+• exkluze - excluir  
+• exkluzive - exclusivo  
+• inkluze - incluir  
 koala - coala  
 kobalte - cobalto  
 koli - couve (repolho)  
@@ -1227,8 +1201,8 @@ metil - metil
 metal bede - bigorna  
 metal lin - arame  
 metal mixure - liga  
+• parametre - parâmetro  
 metre bande - fita métrica  
-• parametri - parâmetro  
 meza - mesa  
 meza tela - toalha de mesa  
 mi - eu (me)  
@@ -1270,7 +1244,7 @@ misioner - миссионер
 Misre - Egipto (Egito)  
 mitre - metro  
 mixur - mistura  
-mode - modo (tipo)  
+mode - modo  
 mogu - membrana  
 moka - árvore  
 moka bano - tábua (prancha)  
@@ -1288,7 +1262,6 @@ monike - indivíduo
 mosim - estação (sazão)  
 moski - mosquito  
 moskvium - moscovio  
-mostre - monstro  
 mote - mover  
 • promote - promover  
 moter - motor  
@@ -1398,16 +1371,17 @@ nome - organizar
 norde - norte  
 nostalgia - nostalgia (saudade)  
 notaje - nota  
+nude - nu  
 nuka - pescoço (nuca, gargalo)  
 nume - número  
 numerike - digital  
 numograme - dígito  
 numologer - matemático  
 numologia - matemática  
-o - ou  
 
 ## O  
 
+o - ou  
 ode - ode  
 oganeson - oganesson  
 ohtopus - polvo  
@@ -1545,6 +1519,7 @@ piza - piza
 pizaria - pizaria  
 • aplike - aplicar  
 plan - plano  
+• exoplaneta - exoplaneta (planeta extrassolar)  
 plaste - moldar (modelar)  
 plastike - plástico  
 plaste paste - massa de modelar (massinha)  
@@ -1742,7 +1717,7 @@ sexulogia - sexologia
 si - se  
 siborgium - seabórgio  
 sifa loge - adjetivo  
-sigar - cigarro  
+sigare - cigarro  
 resikle - reciclar  
 sikliste - ciclista  
 silike - silício  
@@ -1874,13 +1849,13 @@ trate - arrastar
 trater - trator  
 trati - acordo (tratado, contrato)  
 • kontrati - acordo (tratado, contrato)  
-tre - muito  
 tren - trem  
 trepe - escada  
 trepater - cipó  
 tri - três (3)  
 trigonometria - trigonometria  
 triple - triplo  
+trirotike - triciclo  
 truke - truque (fraude)  
 tu - tu  
 tumen su - vosso  
@@ -1923,14 +1898,10 @@ vaf - cão (cachorro)
 vaf bute - casinha de cachorro  
 vaf parke - canil  
 vafle - waffle  
-vagina - vagina  
-vagina tis - vaginite  
+vagine - vagina  
+vaginits - vaginite  
 vahi - oásis  
 vai - exterior  
-vai gene di - exógeno  
-vai klus di - exclusivo  
-vai planeta - exoplaneta (planeta extrassolar)  
-vai poze - expor (revelar)  
 vai yam - piquenique  
 vakiler - representante  
 vakilize - delegar  

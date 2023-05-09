@@ -59,6 +59,7 @@ ame - любовь
 amer - любовник  
 ama - а (но)  
 amen - доверять (понадеяться)  
+amen - утвердить (конфирмовать)  
 amenbil - верный  
 amenbilta - верность  
 amen di - честный (правдивый)  
@@ -84,6 +85,7 @@ anus - анус
 aple - яблоко  
 aple sos - яблочное пюре  
 aposum - опоссум  
+are - площадь  
 arabi babul - акация нильская  
 arane - паук  
 aranofobia - арахнофобия  
@@ -503,48 +505,10 @@ ezmurude - изумруд
 
 ## F  
 
-fa - делать  
-fa amen - утвердить (конфирмовать)  
-fa argu - аргументи́ровать  
-fa aroma - понюхать  
-fa aroma - пахнуть  
-fa banya - купаться  
-fa ding - определить  
-fa dosil - укрощать (приручить)  
-fa dosil gene - одомашнивать  
-fa fatu - наказать  
-fa fei - лететь  
-fa hogo - жечь (палить)  
-fa jui - предостерегать  
-fa kung - пробиться  
-fa kux - положить  (уложить)  
-fa lai - приносить  
-fa linke - соединить (подключить)  
-fa mei daka - украсить  
-fa memo - помнить  
-fa min rai - недооценить  
-fa onor - чтить  
-fa pede - пердеть  
-fa pul - заполнять  
-fa re - повторять  
-fa saf va tela - вытереть  
-fa saide - охотиться  
-fa sel - советовать  
-fa side - сидеть  
-fa sing foto - сверкать (мерцать)  
-fa sir - скрывать  
-fa sual - спрашивать  
-fa tele fon - звонить  
-fa truke - обмануть  
-fa vai klus - исключить  
-fa valu - оценивать  
-fa xiti bai - проиграть (провалиться)  
-fa xopi - покупать (купить)  
-fa xou - доказать (демонстрировать)  
+fe - делать  
 faide - применение  
 fan - фан (фанат)  
 fase - грань  
-fase area - площадь  
 fase tele - глубокий  
 fase teleta - мелкий  
 fasil - лёгкий (простой)  
@@ -573,6 +537,7 @@ fiorde - фьорд
 firuze - бирюза  
 fite - растение  
 fitologia - ботаника  
+• afixaje - афиша  
 fizike gi - аппаратное обеспечение  
 fizologia - физика  
 flece - стрела (стрелка)  
@@ -1024,7 +989,9 @@ klima mute - изменение климата
 klin - тенденция (склонить)  
 klon - клон  
 klor - хлор  
-• inkluse - включить  
+• exkluze - исключить  
+• exkluzive - исключительный (эксклюзивный)  
+• inkluze - включить  
 koala - коала  
 kobalte - кобальт  
 koda - хвост  
@@ -1270,8 +1237,8 @@ metanol - метанол
 metil - метил  
 metal bede - наковальня  
 metal mixure - сплав  
+• parametre - параметр (аргумент)  
 metre bande - метр (мерная лента)  
-• parametri - параметр (аргумент)  
 meza - стол  
 meza tela - скатерть  
 mi - я  
@@ -1323,7 +1290,6 @@ mosim - время года (сезон)
 moski - комар (москит)  
 Moskva - Москва  
 moskvium - московий  
-mostre - монстр  
 mote - двигать  
 moter - мотор  
 moter cate - капот  
@@ -1433,16 +1399,17 @@ norde - север (норд)
 nostalgia - ностальгия (тоска)  
 notaje - запись (заметка)  
 nu - ну  
+nudisme - нудизм  
 nuka - шея  
 nume - число  
 numerike - цифровой  
 numograme - цифры  
 numologer - математик  
 numologia - математика (матика)  
-o - или  
 
 ## O  
 
+o - или  
 oganeson - оганесон  
 ohtopus - спрут (осьминог)  
 oke - глаз (око)  
@@ -1573,6 +1540,7 @@ pirateria - пиратство
 pisea - ель  
 piza - пицца  
 plan - план  
+• exoplaneta - экзопланета (внесолнечная планета)  
 plaste - лепить  
 plaste - пластмасса  
 plastike - пластичный  
@@ -1645,7 +1613,7 @@ rakun - енот
 rang arka - радуга  
 rang arka salmon - микижа (камчатская сёмга)  
 rase - раса  
-rasa medi - межрасовый  
+rase midike - межрасовый  
 ration - рассуждение  
 ratologia - логика  
 ratibu - установка  
@@ -1781,7 +1749,8 @@ si - если
 siborgium - сиборгий  
 side loka - сиденье (седло)  
 sifa loge - прилагательное  
-sigar - сигарета (папироса, сигарка)  
+sigare - сигарка  
+sigarete - сигарета (папироса)  
 resikle - рециркулировать  
 sikliste - велосипедист  
 silike - кремний  
@@ -1932,12 +1901,12 @@ trate - волочить
 trater - трактор  
 trati - договор  
 • kontrati - договор (контракт)  
-tre - очень  
 tren - поезд  
 trepe - лестница (ступеньки)  
 tri - три (3)  
 trigonometria - тригонометрия  
 tri pike - трезубец  
+trirotike - трёхколёсный велосипед  
 truke - обман  
 tu - ты  
 tumen su - ваш  
@@ -1979,15 +1948,12 @@ vaf - собака
 vaf bute - конура (собачья будка)  
 vaf parke - псарня  
 vafle - вафля  
-vagina - влагалище (вагина)  
-vagina tis - вагинит  
+vagine - влагалище (вагина)  
+vaginits - вагинит  
 vahi - оазис  
 vai - вне  
 vai dara - переливаться  
-vai gene di - экзогенный  
 vai jen - посторонний (аутсайдер)  
-vai klus di - исключительный (эксклюзивный)  
-vai planeta - экзопланета (внесолнечная планета)  
 vai yam - пикник  
 vakiler - представитель (делегат)  
 vakilize - поручать (делегировать)  

@@ -202,7 +202,7 @@ Also adjectives are questioned with **ke**.
 **ke xiu?**
 – How small?
 
-**tu ha ke dai di mau?**
+**tu su es ke dai di mau?**
 – How big a cat do you have?
 
 
