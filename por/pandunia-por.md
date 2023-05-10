@@ -898,6 +898,7 @@ karote - cenoura
 karte - carta geográfica  
 kartografia - cartografia  
 karta - carta  
+kartux - cartucho  
 karuba - alfarroba  
 kasul - cápsula  
 kaska - casca (concha)  
@@ -1460,7 +1461,7 @@ parne - samambaia
 parte - fragmento  
 partaner - parceiro  
 partia - partido  
-pas dau - passagem  
+pasaje - passagem  
 pas lexe - palavra-passe (senha)  
 pasporte - passaporte  
 pasta - pasta  

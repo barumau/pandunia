@@ -416,6 +416,7 @@ cai pote - théière
 camaca - cuiller  
 canaike - momentané  
 canse - chance  
+carete - charette  
 carme - charme  
 cati - toit  
 cau - herbe (gazon)  
@@ -1077,6 +1078,7 @@ karote - carotte
 karte - carte (plan)  
 kartografia - cartographie  
 karta - carte  
+kartux - cartouche  
 karuba - caroube  
 kasul - capsule  
 kaska - carapace (coquille, coquillage, croûte)  
@@ -1535,6 +1537,7 @@ neodimium - néodyme
 neon - néon  
 Neputun - Neptune  
 neputunium - neptunium  
+nere - néré  
 nese - île  
 • konnete - connecter  
 • konneter - connecteur  
@@ -1667,7 +1670,7 @@ parte - fragment
 partaner - partenaire  
 partia - partie (faction)  
 pas - passer  
-pas dau - passe (passage)  
+pasaje - passe (passage)  
 pas lexe - mot de passe  
 pasporte - passeport  
 pasta - pâte  

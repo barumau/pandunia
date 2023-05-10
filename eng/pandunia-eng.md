@@ -581,7 +581,7 @@ bingo - bingo
 bir - beer  
 birkan - bar (pub, beer house)  
 Bisau Ginia - Guinea-Bissau  
-biskute - biscuit (cookie)  
+biskute - biscuit (cracker)  
 bismute - bismuth  
 bison - bison  
 biznes - business (commercial activity)  
@@ -698,6 +698,7 @@ cape - press (imprint)
 cape - print (stamp)  
 capati - flatbread (chapati, roti)  
 car - car (cart, carriage, wagon, automobile)  
+carete - cart  
 car parke - car park (parking lot)  
 carme - charm (fascination)  
 cati - roof  
@@ -2159,6 +2160,7 @@ karte - map (chart, geographic map)
 kartografia - cartography  
 karta - card  
 Kartul - Georgia (Republic of Georgia)  
+kartux - cartridge  
 karuba - carob (St. John's bread)  
 karvan - caravan (convoy)  
 kase - box (container)  
@@ -3125,6 +3127,7 @@ neon - neon
 Nepal - Nepal  
 Neputun - Neptune  
 neputunium - neptunium  
+nere - African locust bean (neto tree)  
 nese - island  
 nesia - archipelago (island chain)  
 • konnete - connect  
@@ -3395,7 +3398,7 @@ partecepe - participate (attend, partake, take part)
 parteceper - participant  
 partia - party (faction, side)  
 pas - pass (go across or through, skip)  
-pas dau - pass (passage)  
+pasaje - pass (passage)  
 pas di - past (bygone)  
 pas lexe - password  
 pas tabi - passive (inactive)  

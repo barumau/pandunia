@@ -567,7 +567,7 @@ bingo - bingo
 bir - olut (kalja)  
 birkan - baari (kapakka)  
 Bisau Ginia - Guinea-Bissau  
-biskute - keksi (pikkuleipä)  
+biskute - keksi (voileipäkeksi)  
 bismute - vismutti  
 bison - biisoni  
 biznes - liiketoiminta (bisnes)  
@@ -2027,6 +2027,7 @@ karte - kartta
 kartografia - kartogratia  
 karta - kortti  
 Kartul - Georgia  
+kartux - patruuna  
 karuba - johanneksenleipäpuu  
 karvan - karavaani (saattue)  
 kase - laatikko  
@@ -3115,7 +3116,7 @@ partecepe - osallistua
 parteceper - osallistuja  
 partia - osapuoli (puolue)  
 pas - mennä ohi tai läpi  
-pas dau - sola (läpikulku)  
+pasaje - sola (läpikulku)  
 pas di - ohitettu (mennyt)  
 pas lexe - tunnussana  
 paska - pääsiäinen  

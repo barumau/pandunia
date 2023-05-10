@@ -940,6 +940,7 @@ karote - морковь
 karte - карта (план)  
 kartografia - картография  
 karta - карта  
+kartux - патрон  
 karuba - рожковое дерево  
 kasul - капсула  
 kaska - оболочка (кора, панцирь)  
@@ -997,6 +998,7 @@ klor - хлор
 koala - коала  
 kobalte - кобальт  
 koda - хвост  
+kola - кола  
 koli - капуста  
 komike - комический (смешной)  
 komodia - комедия  

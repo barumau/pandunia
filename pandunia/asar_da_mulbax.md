@@ -22,4 +22,4 @@
 | arabe | 4% |
 | suahili | 4% |
 | hausa | 1% |
-| ful | 0% |
+| ful | 1% |

@@ -145,6 +145,7 @@
  - butan  
  - butil  
  - cai vala  
+ - carete  
  - cau kitabe  
  - cau medan  
  - cau mien  
@@ -464,6 +465,7 @@
  - karnekan  
  - karnize  
  - karnizer  
+ - kartux  
  - karuba  
  - kase  
  - kasete  
@@ -663,6 +665,7 @@
  - nekrofilia  
  - nekroliste  
  - nelu di galope  
+ - nere  
  - nete  
  - neu fito  
  - neunatike  
@@ -712,8 +715,8 @@
  - parta  
  - partaneria  
  - partative  
- - pas dau  
  - pas lexe  
+ - pasaje  
  - pata  
  - pede  
  - pedofilia  
@@ -1456,7 +1459,7 @@ biologia (nauka o życiu) - biologia
 biom - biosistem  
 biromantyczny - du romanse di  
 biseksualny - du sexe di  
-biszkopt, ciastko - biskute  
+biszkopt - biskute  
 biurko - karm eza  
 biuro (pokój) - burokan  
 biuro, urząd - bure  

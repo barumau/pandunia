@@ -422,6 +422,7 @@ carte - karta
 carte de crédit - krede karte  
 carte à collectionner - jame karte  
 cartographie - kartografia  
+cartouche - kartux  
 caserne - ordu jen kan  
 castillan - kastilia baxe  
 Castille - Kastilia  
@@ -456,6 +457,7 @@ chardon - kardon
 chardon aux ânes - pin kardon  
 chardon Marie - milke kardon  
 chardon penché - pende kardon  
+charette - carete  
 charge (fardeau, poids) - karga  
 charger - karge  
 charme - carme  
@@ -1461,6 +1463,7 @@ néologisme - neuloge
 néon - neon  
 néophyte - neu jen  
 néphrite - nefritis  
+néré - nere  
 névralgie - neuralgia  
 
 ## O  
@@ -1572,7 +1575,7 @@ paronyme - paranam
 part - fen  
 partenaire - partaner  
 partie (faction) - partia  
-passe (passage) - pas dau  
+passe (passage) - pasaje  
 passeport - pasporte  
 passer - dure  
 passer - pas  

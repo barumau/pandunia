@@ -285,7 +285,7 @@ bindu - punkto
 bingo - bingo  
 bir - biero  
 birkan - drinkejo  
-biskute - biskvito (kuketo)  
+biskute - biskvito  
 bismute - bismuto  
 bison - bizono  
 biznes - negoco  

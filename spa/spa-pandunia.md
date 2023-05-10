@@ -669,6 +669,7 @@ carpintero - moka saner
 carrera - pei kar jiva  
 carta - letre  
 cartografía - kartografia  
+cartucho - kartux  
 carvis (alcaravea) - karavi  
 carácter - zi  
 casa (hogar, residencia) - dom  
@@ -827,6 +828,7 @@ col china - baku coi
 col rizada - yepa koli  
 cola (rabo, coda) - koda  
 cola (refresco de cola) - kola jus  
+cola - kola  
 colaborar - konkar  
 colaborar - konkare  
 colarse - sir move  
@@ -2927,7 +2929,7 @@ pasatiempo (hobby, afición) - hobi
 pascal (Pa) - paskal  
 Pascua - paska  
 paso (grado, nivel, rango, calidad, categoría) - gradu  
-paso (pasaje) - pas dau  
+paso (pasaje) - pasaje  
 paso elevado - supra  
 pasta - pasta  
 pastel (galleta) - keke  

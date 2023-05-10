@@ -1288,7 +1288,7 @@ keisari - imperer
 keittiö - kuke kamar  
 keitto (soppa) - supa  
 keittää (kiehuttaa) - boli  
-keksi (pikkuleipä) - biskute  
+keksi (voileipäkeksi) - biskute  
 keksitty (sepitteellinen) - mitike  
 kello (ajannäyttäjä) - sah diker  
 kellotorni - sah tore  
@@ -2702,6 +2702,7 @@ patja - matras
 patogeeni - patogener  
 patologia (tautioppi) - patologia  
 patonki (ranskanleipä) - kane ban  
+patruuna - kartux  
 pedofilia - pedofilia  
 pedofobia (lastenpelko) - pedofobia  
 pehmeä - naram  
@@ -3438,7 +3439,7 @@ soittokello - dang gi
 sokeri - sukar  
 sokerinen (makea) - sukar di  
 sokeriruoko - sukar gana  
-sola (läpikulku) - pas dau  
+sola (läpikulku) - pasaje  
 solmia (tehdä solmu) - node  
 solmu - node  
 solu - selu  

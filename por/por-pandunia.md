@@ -345,6 +345,7 @@ carta - karta
 carta - letre  
 carta geográfica - karte  
 cartografia - kartografia  
+cartucho - kartux  
 Cartum - Hartum  
 cartão de crédito - krede karte  
 carvalho - baluta  
@@ -1417,7 +1418,7 @@ partida - mece
 partido - partia  
 parâmetro - parametre  
 parónimo - paranam  
-passagem - pas dau  
+passagem - pasaje  
 passagem de volta - retro tikete  
 passaporte - pasporte  
 pasta - pasta  

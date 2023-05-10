@@ -546,7 +546,7 @@ bingo - bingo
 bir - piwo  
 birkan - bar, knajpa  
 Bisau Ginia - Guinea Bissau  
-biskute - biszkopt, ciastko  
+biskute - biszkopt  
 bismute - bizmut  
 bison -   
 biznes - biznes, interes (aktywność komercyjna)  
@@ -663,6 +663,7 @@ cape - naciskać, zostawiać ślad
 cape - odcisk, ślad; stempel, pieczęć  
 capati - płaski chleb, ćapati  
 car - wóz, wózek  
+carete -   
 car parke - parking  
 carme - czar (urok, wdzięk)  
 cati - dach  
@@ -2124,6 +2125,7 @@ karte - mapa
 kartografia - kartografia  
 karta - karta  
 Kartul - Gruzja (Republika Gruzji)  
+kartux -   
 karuba -   
 karvan - karawana  
 kase -   
@@ -3090,6 +3092,7 @@ neon - neon
 Nepal - Nepal  
 Neputun - Neptun  
 neputunium - neptun  
+nere -   
 nese - wyspa  
 nesia - archipelag  
 • konnete -   
@@ -3361,7 +3364,7 @@ partecepe - uczestniczyć, wziąć udział, brać udział
 parteceper - uczestnik  
 partia - partia  
 pas - minąć, mijać, przeminąć, przemijać  
-pas dau -   
+pasaje -   
 pas di - przeszły, miniony  
 pas lexe -   
 pas tabi - pasywny (nieaktywny)  

@@ -62,6 +62,7 @@ affix - afixe
 Afghanistan - Afganestan  
 afraid (scared) - fobike  
 Africa - Afrika  
+African locust bean (neto tree) - nere  
 afternoon - xam dia  
 again (repeatedly) - a ri  
 again (repeatedly) - ri  
@@ -462,7 +463,7 @@ birth - nate
 birth - nation  
 birthday - nateden  
 birthplace - nateloke  
-biscuit (cookie) - biskute  
+biscuit (cracker) - biskute  
 bisexual - du sexe di  
 bismuth - bismute  
 bison - bison  
@@ -683,7 +684,9 @@ carpenter - moka saner
 carpet (rug) - dipe tela  
 carrot - karote  
 carry (bear) - porte  
+cart - carete  
 cartography - kartografia  
+cartridge - kartux  
 cash box - pesa kase  
 cashew - kaju  
 cashier - pesa kaser  
@@ -3183,7 +3186,7 @@ party (faction, side) - partia
 pascal (Pa) - paskal  
 pass (go across or through, skip) - pas  
 pass (go) - cese  
-pass (passage) - pas dau  
+pass (passage) - pasaje  
 pass (spend time, put time into) - dure  
 pass away (die; deceased) - decese  
 passive (inactive) - pas tabi  

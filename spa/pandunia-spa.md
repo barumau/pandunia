@@ -1812,6 +1812,7 @@ karte - mapa (carta)
 kartografia - cartografía  
 karta - tarjeta (carta)  
 Kartul - Georgia (República de Georgia)  
+kartux - cartucho  
 karuba - algarrobo  
 karvan - caravana  
 kasul - cápsula  
@@ -1921,6 +1922,7 @@ koda - cola (rabo, coda)
 koka - coca  
 koko - pollo  
 Kokos nesia - Islas Cocos (Islas Keeling)  
+kola - cola  
 kola jus - cola (refresco de cola)  
 koli - col (repollo)  
 Kolombia - Colombia  
@@ -2870,7 +2872,7 @@ partecepe - participar
 parteceper - participante  
 partia - partido  
 pas - pasar  
-pas dau - paso (pasaje)  
+pasaje - paso (pasaje)  
 pas di - anterior (remoto)  
 pas lexe - contraseña  
 paska - Pascua  
