@@ -12,7 +12,7 @@ a ye - aqui
 abies - abeto  
 aci - espirrar  
 acinium - actínio  
-ada - costume (hábito)  
+ade - costume (hábito)  
 adamas - diamante  
 adil - justo  
 adilta - justiça  
@@ -217,20 +217,6 @@ bazisme - princípio
 baze strute - infraestrutura  
 baze xulekan - ensino primário  
 bazar - mercado (bazar)  
-be ais - gelar  
-be biomute - fermentar  
-be boi - nadar (flutuar)  
-be bum - explodir  
-be dur - durar  
-be fobi - temer  
-be hogo - queimarse  
-be in - entrar  
-be in bum - implodir  
-be kux - estar deitado (jazer)  
-be pute - apodrecer-se  
-be retro - voltar (regressar)  
-be sona - dormir  
-be vai - sair  
 bebe - bebê  
 bedingan - beringela  
 bei - socio  
@@ -276,6 +262,7 @@ bolxeviste - bolchevique
 bombe - bomba  
 borium - bóhrio  
 boron - boro  
+botin - bota  
 botel - garrafa (botelha)  
 bra - irmão  
 brave - bravo (valente, corajoso)  
@@ -303,7 +290,6 @@ busu - beijo
 bute - manteiga  
 butan - butano  
 butil - butil  
-buta - bota  
 buton - botão  
 
 ## C  
@@ -330,7 +316,7 @@ ceng bede - beliche
 • intercepe - interceptar  
 • recepe - receber  
 • receper - receptor  
-ceresium - cério  
+cerium - cério  
 ceri - cereja  
 • acese - acesso (acceder)  
 • precese - preceder (anteceder)  
@@ -354,6 +340,7 @@ coklate kane - barra de chocolate
 copu - enxada  
 cule - tratar (lidar, procesar; processo)  
 cunbil - opção  
+cung - inseto  
 cupu - chupar (sugar)  
 
 ## D  
@@ -429,7 +416,7 @@ dom - casa (lar)
 dom di - doméstico  
 dom gogia - pátria  
 don - dar  
-don tabi - generoso (dadivoso, mão-aberta)  
+donive - generoso (dadivoso, mão-aberta)  
 dong - este (leste)  
 doste - amigo  
 drame - drama  
@@ -439,7 +426,6 @@ dubaxike - bilíngue
 duple - dobro  
 • dusdua - maldição  
 dubnium - dúbnio  
-dudu - inseto  
 dukan - loja  
 dum - fumo  
 dunia - mundo  
@@ -787,15 +773,15 @@ jensen - ginseng
 • projete - projeto  
 jete grafe - projeção  
 jihade - luta  
-jini - espírito (gênio)  
+jin - espírito (gênio)  
 jiva - viver (vivo; vida)  
 • trajiva - sobreviver  
 jong - centro  
 jong fon - vogal  
-jong xulakan - ensino secundário  
+jong xulekan - ensino secundário  
 Jongoku - China  
 jovar - sorgo  
-juba - manto  
+jube - manto  
 • prejude - prejulgamento  
 juder - juiz  
 judau - judo  
@@ -915,7 +901,10 @@ ke loka - onde
 ke riti - como  
 ke sata - quando  
 Keme - Antigo Egito  
-ken - conhecer  
+ken - conhecer ou saber  
+• rekene - roconhecer  
+kenelogia - epistemologia  
+kenevolive - inquisitivo  
 kentaur - centauro  
 kentaur hua - centáurea  
 kerne - núcleo (cerne)  
@@ -963,8 +952,8 @@ kon hau - combinar com
 kon helen baxe - koiné  
 kon trati - pacto  
 konun - comum  
-kone - cono  
 konserte - concerto  
+konu - cono  
 kopernium - copernício  
 kopi - cópia  
 kore - correr  
@@ -1125,6 +1114,7 @@ lutesium - lutécio
 ma - mãe  
 ma di - maternal  
 matria - pátria-mãe  
+matropole - metrópole  
 made - matéria  
 madisme - materialismo  
 maf - perdoar (desculpar)  
@@ -1294,8 +1284,6 @@ nabi - profetizar
 nabija - profeta (arauto)  
 nadir - raro  
 nadir mar - raramente  
-nagral - urbano  
-nagre gogia - Cidade-estado  
 najis - poluição  
 nam hin - sem nome  
 nam kitabe - assinar  
@@ -1327,6 +1315,7 @@ negative - negativo
 nekre - cadáver  
 nekrofilia - necrofilia  
 nekrologe - obituário  
+nekropole - necrópole  
 nekrotomia - autopsía  
 nelu - quatro (4)  
 neodimium - neodímio  
@@ -1394,6 +1383,8 @@ okal - ocular
 oke sui gas - gás lacrimogéneo  
 onda - onda  
 onor - honra  
+ope - obra (trabalho)  
+operate - obrar (operar)  
 orange - laranja  
 orange rang - alaranjado  
 ordu - exército  
@@ -1404,7 +1395,7 @@ ore - orelha
 ore tis - otite  
 orkide - orquídea  
 orto - reto  
-orto gona di - ortogonal  
+orto gonike - ortogonal  
 oselote - jaguatirica (ocelote)  
 osidian - obsidiana  
 osmium - ósmio  
@@ -1531,12 +1522,16 @@ plate geo kaskelogia - tectónica de placas
 platin - platina  
 plumbe - chumbo  
 plutonium - plutónio  
+pole - cidade  
+pole gogia - Cidade-estado  
+polike - urbano  
 polibaxike - multilíngue (plurilíngue)  
 Polinesia - Polinésia  
 polipli - múltiplos  
 polite - governo  
-politike - administrador  
-politi mode - regime  
+politiker - administrador  
+politologia - ciência política (politologia)  
+polite mode - regime  
 polskium - polónio  
 pompe - bomba  
 pompe tape - pistão  
@@ -1648,7 +1643,6 @@ ruterfordium - rutherfórdio
 
 ## S  
 
-sabe - saber  
 sable - areia  
 sade - mero  
 safe - limpo  
@@ -1677,9 +1671,6 @@ sam rai - acordo
 sam sifa xe - simulação  
 sama - céu  
 samarium - samário  
-san - saber  
-san logia - epistemologia  
-san vol ja - inquisitivo  
 sanduice - sanduíche  
 sante kanon - sagrada escritura  
 Sante Paulo - São Paulo  
@@ -1732,7 +1723,6 @@ sir plan - complô (conspiração)
 sirkus - circo  
 siro - zero  
 sis - irmã  
-siti - cidade  
 skandium - escândio  
 skuter - patinete (trotineta)  
 slavike - eslavo  
@@ -1748,9 +1738,9 @@ sol hua - girassol
 son - filho  
 sona - sono  
 • ansona - insônia  
+sonaive - sonolento  
 sona kamar - quarto (dormitório)  
 sona papi - papoila-dormideira  
-sona tabi - sonolento  
 songi - pinheiro  
 soni - som  
 sorbe - sorver  
@@ -1790,7 +1780,7 @@ suxi - sushi
 
 ## T  
 
-table komputa - tablet  
+tablete konputer - tablet  
 tai - estrado  
 talium - tálio  
 tala - fechadura  
@@ -1924,12 +1914,11 @@ veganiste - vegetalista
 vegate - vegetar  
 vegoyamiste - vegetariano  
 vel - véu  
-devel - revelar  
-vende - vender  
+• devele - revelar  
 ventur - aventura  
 venturer - aventureiro  
 ver - verdadeiro  
-anver - falso  
+• anver - falso  
 veranda - sacada (varanda)  
 verme - verme  
 vermute - vermute  
@@ -1953,7 +1942,7 @@ vo - esse (aquele)
 vode - promessa (voto)  
 vokal fone - vogal  
 vol - querer (desejar)  
-vol xe - vontade  
+volation - vontade (volição)  
 volfe - lobo  
 volfram - tungsténio  
 vote - votar  
@@ -1986,6 +1975,7 @@ xava - assar
 xayu - tubarão  
 xe - coisa  
 xe hal - situaçao  
+xefe pole - capital  
 xefe - chefe  
 xenon - xénon  
 xi Fulan - fulano  

@@ -11,7 +11,7 @@ abies - モミ
 acar - 漬物  
 acarize - 酢漬けある  
 acinium - アクチニウム  
-ada - 習慣 (風俗)  
+ade - 習慣 (風俗)  
 adamas - 金剛石 (ダイヤモンド)  
 adres - 住所  
 Afganestan - アフガニスタン  
@@ -163,25 +163,8 @@ baze petre - 基盤岩
 baze strute - インフラストラクチャー  
 baze xulekan - 小学校  
 bazar - 市場 (マーケット, バザー)  
-be ais - 凍る (凍結する)  
-be biomute - 熟成する (発酵する)  
-be boi - 泳ぐ (浮く)  
-be bum - 爆発する  
-be dai - 膨らむ  
-be dom - 住む (居住する)  
-be fatige - 疲れる (疲労する)  
-be fobi - 恐れる  
-be halte - 止まる  
-be hogo - 燃える  
-be kux - 寝転ぶ  
-be pute - 腐敗  
-be sabe vol - 訝る (-かしら)  
-be sona - 寝る  
-be tele loka - 瞬間移動  
-be turbe - 悩む (わざわざする)  
-be vanu - 遊ぶ  
-bebe katil - ベビーベッド  
 bebe - 赤ちゃん  
+bebe katil - ベビーベッド  
 bedingan - 茄子  
 belca - シャベル (スコップ)  
 ben - 子供 (息子か娘)  
@@ -205,8 +188,8 @@ bikini - ビキニ
 bil - できる (ありうる)  
 bilive - 有能 (上手)  
 bilor - 結晶  
-bine - 建物 (建築物)  
 bine - 建てる  
+binaje - 建物 (建築物)  
 bine plan - 建築学  
 bine planer - 建築家  
 bingo - ビンゴ  
@@ -227,6 +210,8 @@ bolte - ボルト
 bolxeviste - ボリシェヴィキ  
 borium - ボーリウム  
 boron - ホウ素  
+bote - 鞋  
+botin - ブーツ  
 botel - 瓶  
 Brahma - ブラフマー (梵天)  
 brauza - 探る, 探検する  
@@ -250,7 +235,6 @@ burge - 要塞
 bus halte - バス停  
 bute - バター (牛酪)  
 butan - ブタン  
-buta - ブーツ  
 
 ## C  
 
@@ -275,7 +259,7 @@ ceng fem - 女の人
 ceng jen - 大人  
 ceng man - 男の人  
 • excepe - 追出 (退ける, 除いて)  
-ceresium - セリウム  
+cerium - セリウム  
 • acese - アクセス  
 • acesebil - とっつきやすい (アクセス可能)  
 • acesebilta - アクセシビリティ  
@@ -300,6 +284,7 @@ cule - 扱う (処理する; 処理, プロセス)
 • precun - 既定 (デフォルト)  
 cunbil - オプション (選択)  
 cun liste - 品書き (メニュー)  
+cung - 昆虫  
 
 ## D  
 
@@ -387,7 +372,6 @@ du - 二 (2)
 dua - 祈祷  
 • dusdua - 呪い (たたり)  
 dubnium - ドブニウム  
-dudu - 昆虫  
 dukan - 店 (店鋪)  
 dum - 煙  
 dunia - 世界  
@@ -426,6 +410,7 @@ ezmurude - エメラルド
 
 fe - する  
 faide - 使用 (為, 利)  
+fake - エッチする (ファックする)  
 fan - ファン  
 fase - 面  
 fase tele - 深い  
@@ -461,6 +446,7 @@ fonte sui - 清水
 fonyo - フォニオ  
 • dusforme - 醜くする  
 • dusformife - 醜くする  
+• konforme - 即する  
 • konforme - 即する  
 fosfe - リン  
 fosfate - 燐酸塩  
@@ -696,7 +682,9 @@ jaibai - 勝敗
 • anjame - 散らす  
 • anjame di - 疎ら  
 jamul - フトモモ  
+jan - 注意  
 jan buda din - 禅宗  
+janive - 気をつける (慎む)  
 janela - 窓  
 jang - 戦闘 (格闘)  
 jangal - 森 (森林, ジャングル)  
@@ -720,9 +708,6 @@ Jongoku - 中国
 jovar - 蜀黍 (コーリャン)  
 • prejude - 偏見  
 judau - 柔道  
-jui - 注意  
-jui di - 気をつける (慎む)  
-jui note - 注意 (戒め, 警告)  
 jul - ジュール (J)  
 jumla logia - 統語論  
 jun bei - 後輩  
@@ -730,7 +715,7 @@ jun fem - 女の子
 jun jen - 青少年  
 jun man - 男の子  
 jun moka - 若木  
-junnen - 青春時代  
+jun nen - 青春時代  
 jun sis - 妹 (imōto)  
 jus - ジュース  
 juste pauer - 狙撃兵  
@@ -835,6 +820,10 @@ ke tipe - どんな
 ke xe - 何事  
 Keme - 古代エジプト  
 ken - 知る  
+kenelogia - 認識論  
+kenevol - 興味 (好奇心)  
+kenevolike - 面白い  
+kenevolive - 知りたがる  
 kentaur - 人馬 (ケンタウロス)  
 kerne - 核 (核心)  
 keton - ケトン  
@@ -871,10 +860,9 @@ koli - 甘藍 (キャベツ)
 komodia - 喜劇 (コメディ)  
 koma - コンマ (読点)  
 kon - 共  
-kon forma - 即する  
 kon hau - 合わせる (適する)  
-kone - 錐  
 konserte - コンサート (音楽会)  
+konu - 錐  
 kopernium - コペルニシウム  
 kopi - コピー  
 kore - 走る (疾走する)  
@@ -1160,7 +1148,6 @@ na xiti - 得失
 nabija - 預言者  
 nadir - 稀 (疎ら)  
 nafte guku - シマカンギク (アブラギク)  
-nagre gogia - 都市国家  
 najis - 汚れ (汚染)  
 najis bindu - 染み (汚点)  
 najis di - 汚い  
@@ -1345,11 +1332,12 @@ plate stan - 草原
 platin - 白金  
 plumbe - 鉛  
 plutonium - プルトニウム  
+pole gogia - 都市国家  
 poli - たくさん  
 Polinesia - ポリネシア  
 polite - 政府  
-politi lona - 政道  
-politi mode - 政体  
+politologia -  政治学  
+polite mode - 政体  
 polskium - ポロニウム  
 pompe - ポンプ  
 pompe tape - ピストン (活塞)  
@@ -1475,14 +1463,9 @@ sama hal - 天気
 sama kinar - 地平線 (水平線, 天際)  
 sama nil - 空色  
 samarium - サマリウム  
-san logia - 認識論  
-san vol - 興味 (好奇心)  
-san vol di - 面白い  
-san vol ja - 知りたがる  
 sanduice - サンドイッチ  
 sante kanon - 聖書  
 sanzi - 扇子  
-sapatu - 鞋  
 sari - サリー  
 satelite - 衛星  
 sau - 兄弟姉妹  
@@ -1590,8 +1573,8 @@ suxi - 寿司
 ## T  
 
 ta - さ (み, 性)  
-tabi - 性質 (性)  
-table komputa - タブレットコンピュータ  
+tabia - 性質 (性)  
+tablete konputer - タブレットコンピュータ  
 talium - タリウム  
 tala - 錠  
 tana - 茎 (胴)  
@@ -1713,8 +1696,6 @@ veganiste - 絶対菜食主義者 (ヴィーガン)
 vegoyamiste - 菜食主義者 (ベジタリアン)  
 vei gradu - 緯度  
 vei lin - 横糸  
-vende - 売る  
-vende xope - 交易 (売買)  
 venzou orange - ウンシュウミカン  
 verife - ただす  
 veranda - ベランダ (バルコニー, 縁側)  
@@ -1771,6 +1752,7 @@ xava - 焼く
 xayu - サメ  
 xe - 事 (物)  
 xe hal - 事態  
+xefe pole - 首都  
 xenon - キセノン  
 xi - さん (氏)  
 xia islam din - シーア派  
@@ -1854,7 +1836,7 @@ zete fonte - 油井
 zetun zete - オリーブ油  
 zeze - ハエ目 (双翅目)  
 zi - 字  
-zi forma - フォント (字体)  
+zi forme - フォント (字体)  
 zikura - ジッグラト  
 zinke - 亜鉛  
 zirafa - 麒麟  

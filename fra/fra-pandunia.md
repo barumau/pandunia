@@ -33,7 +33,7 @@ adapter (ajuster) - hape
 addition (facture) - fatura  
 adhésif (collant) - glutike  
 adjectif - sifa loge  
-administrateur - politike  
+administrateur - politiker  
 adresse - adres  
 adulte - ceng jen  
 affiche - afixaje  
@@ -132,7 +132,6 @@ antonyme - annam
 anus - anus  
 anémie - anhemia  
 août - mes bati  
-appartenir à - be mal  
 appliquer - uzife  
 appliquer - aplike  
 apprendre (étudier) - xule  
@@ -250,6 +249,7 @@ bande - banda
 bande dessinée - grafe kata  
 bande vidéo - vide bande  
 Bangladesh - Bangla gogia  
+Bangui - Bangi  
 banque - bankekan  
 banquier - banker  
 Barbade - Barbados  
@@ -317,7 +317,7 @@ bonne (domestique) - aya
 bord - kinar  
 boron - boron  
 botanique - fitologia  
-botte - buta  
+botte - botin  
 boucher - karnizer  
 bouclire - defe bano  
 Bouddha - Bude  
@@ -351,7 +351,7 @@ bureaucratie - burokratia
 bus - bus  
 but (destination) - gol  
 butane - butan  
-bâtiment - bine  
+bâtiment - binaje  
 bâton (canne, tige) - kane  
 bébé - bebe  
 bédouin - badavi  
@@ -403,6 +403,7 @@ Cantalupo in Sabina - Kantalupo a Sabina
 canyon (ravin) - kanyon  
 capacité (pouvoir, habileté) - bilta  
 cape - mantol  
+capitale - xefe pole  
 capot - moter cate  
 capsule - botel tape  
 capsule - kasul  
@@ -465,12 +466,13 @@ charnel - karnal
 chat - miau  
 chaudron - dai pote  
 chauffeur de taxi - taxi vala  
-chaussure - sapatu  
+chaussure - bote  
 chauve - kapa kexa hin  
 chauve-souris - fei muxu  
 chaux - kalside  
 chaîne - serser  
 chef - xefe  
+chef-d'œuvre - master ope  
 chemise - kamisa  
 chenil - vaf parke  
 cher - amike  
@@ -495,7 +497,7 @@ chu - pada di
 chut - tix  
 chutney - hinde sos  
 chèque - ceke  
-chèque cadeau - don xe ceke  
+chèque cadeau - donaje ceke  
 chèque de voyage - safar ceke  
 chéri - ame jen  
 chêne - baluta  
@@ -512,7 +514,7 @@ cirse commun - pena kardon
 citron - limon  
 citronnade - limon jus  
 citrouille - kaboga  
-cité-état - nagre gogia  
+cité-état - pole gogia  
 clair - klar  
 classique (canon) - kanon  
 client - klien  
@@ -530,7 +532,6 @@ combava - gros limon
 comique - komike  
 comisión (comité) - konmisea  
 comment - ke riti  
-commerce - vende xope  
 commun - konun  
 compassion - sam emos  
 compatriote - konpatrian  
@@ -549,7 +550,7 @@ concombre confit (cornichon) - acar hiyar
 concombre de mer - bahai hiyar  
 conjonction - yunte lexe  
 conjugaison - konyuge  
-connaître - ken  
+connaître ou savoir - ken  
 connecter - konnete  
 connecteur - konneter  
 connexion - konnetion  
@@ -563,7 +564,6 @@ continu (analogique) - undurike
 continuer (poursuivre, encore) - zoku  
 contract (traité) - trati  
 contract (traité) - kontrati  
-convenir (être approprié) - be hapu  
 convention (alliance, pacte) - kon trati  
 copernicium - kopernium  
 copie - kopi  
@@ -592,10 +592,9 @@ coureur - korer
 courgette - xiu kaboga  
 courir - kore  
 couronne - korona  
-coutume - ada  
+coutume - ade  
 couvrir - dake  
 crabe - krabe  
-craindre (avoir peur) - be fobi  
 cravache - uma bici  
 crayon - karbe kalam  
 creuser (fosse) - kave  
@@ -637,11 +636,11 @@ cyan (turquois) - cian
 cycliste - sikliste  
 cytologie - selu logia  
 célérité - sirta  
-cérium - ceresium  
+cérium - cerium  
 cérébral - nau di  
 césium - cesium  
 cétone - keton  
-cône - kone  
+cône - konu  
 côte - bahai kinar  
 côté - late  
 
@@ -694,7 +693,6 @@ domestiqué (apprivoisé) - dosil gene di
 dommage - avar  
 donner - don  
 données - date  
-dormir - be sona  
 double - duple  
 douche - dux  
 doute - xake  
@@ -709,7 +707,6 @@ duel - dual
 dune - duna  
 dur - gati  
 durant - a dure de  
-durer - be dur  
 durée - dure  
 dynamite - dinamite  
 dysprosium - disprosium  
@@ -735,7 +732,7 @@ détenir (arrêter) - detene
 dévanagari - deonagre grame  
 développement - gradu mute  
 dévier - derute  
-dévoiler (révéler) - devel  
+dévoiler (révéler) - devele  
 
 ## E  
 
@@ -763,10 +760,9 @@ enfant - baca
 ennemi - dus jen  
 enregistrement - loga  
 enseigner - xulize  
-ensommeillé (somnolent) - sona tabi  
+ensommeillé (somnolent) - sonaive  
 ensuite (après, plus tard, ir a, en el futuro) - a pos  
 entonnoir - dare tube  
-entrer - be in  
 entrer - intre  
 envelopper (emballer) - lifafe  
 erbium - erbium  
@@ -777,7 +773,7 @@ escrime - gem suta
 espace (zone, région) - aria  
 espace - hali zi  
 espectador - vider  
-esprit (génie) - jini  
+esprit (génie) - jin  
 essai - esai  
 essayer (tenter) - proba  
 essentiel (fondamental) - esential  
@@ -794,7 +790,6 @@ exclure - exkluze
 exclusif - exkluzive  
 excursion (tournée) - tur  
 exoplanète - exoplaneta  
-exploser (détoner) - be bum  
 explosion - bum  
 exposer - expoze  
 expulser - expele  
@@ -829,7 +824,6 @@ favoritisme - max fili sim
 fente (fissure, fêlure) - krake  
 fenêtre - janela  
 fer - fero  
-fermenter - be biomute  
 fermium - fermium  
 ferveur - rage  
 festif - festal  
@@ -909,7 +903,6 @@ Gaule - Galia
 gaz - gas  
 gaz lacrymogène - oke sui gas  
 gazelle - gazel  
-geler (glacer) - be ais  
 genou - guta  
 genre grammatical - lexe gense  
 geographie - geografia  
@@ -955,7 +948,7 @@ génotype - gene tipe
 généalogie - gene logu  
 général - gensal  
 généralissime - ordu reger  
-généreux - don tabi  
+généreux - donive  
 généreux - karim di  
 générosité (charité) - karim  
 génétique - gene logia di  
@@ -1045,7 +1038,6 @@ imiter - mime
 immigrant - inmigrer  
 immigrer - inmigre  
 imperméable - barxa kote  
-imploser - be in bum  
 implosion - in bum  
 important - ham di  
 inclure - inkluze  
@@ -1068,7 +1060,7 @@ inférer - infere
 ingénierie (génie) - engenia  
 ingénieur - engener  
 innomé - nam hin  
-insecte - dudu  
+insecte - cung  
 insomnie - ansona  
 intelligence artificielle - arte fete intelige (AI)  
 intention - nia  
@@ -1098,7 +1090,7 @@ jeu de dames - dama geme
 jeu de société - bano geme  
 jeudi - muxinden  
 jeune (junior) - jun  
-jeunesse - junnen  
+jeunesse - jun nen  
 jonction - yuntion  
 joug - yuge  
 joule (J) - jul  
@@ -1397,12 +1389,12 @@ méthane - metan
 méthanol (alcool de bois) - metanol  
 méthyle - metil  
 métier à tisser - tela gi  
+métropole - matropole  
 mûr (mature) - ceng  
 mûrier - tuta  
 
 ## N  
 
-nagar (flotter) - be boi  
 nappe - meza tela  
 nation - nasia  
 nature - nature  
@@ -1456,6 +1448,7 @@ nylon - nilon
 nécessaire - yau di  
 nécrologie - nekrologe  
 nécrophilie - nekrofilia  
+nécropole - nekropole  
 néflier - muxmula  
 négatif - negative  
 néodyme - neodimium  
@@ -1497,15 +1490,16 @@ opter - ote
 optimal - otimal  
 option (choix) - otion  
 option - cunbil  
+opérer - operate  
 or - auro  
 orange (couleur) - orange rang  
 orange (fruit) - orange  
 orange amère - kali orange  
 orange douce - sukar orange  
 orchidée - orkide  
-ordinaire (habituel, normal) - ada di  
+ordinaire (habituel, normal) - adike  
 ordinateur - konputer  
-ordinateur tablette - table komputa  
+ordinateur tablette - tablete konputer  
 ordre - ratibu  
 ordre - sanga  
 ordures - lasa  
@@ -1517,11 +1511,12 @@ origine - asle
 originel - aslike  
 ornithologie - paci logia  
 orphelinat - yatim dom  
-orthogonal - orto gona di  
+orthogonal - orto gonike  
 osmium - osmium  
 otite - ore tis  
 ou - o  
 ouah - va  
+Oubangui - Bangi rivo  
 oublier - anmemo  
 oubliette (cul de basse-fosse) - geo nice jela  
 oui - ya  
@@ -1717,7 +1712,6 @@ poudre - fun
 poudre à canon - barude  
 Poulpe (pieuvre) - ohtopus  
 pourri - pute  
-pourrir (se décomposer) - be pute  
 pousse - jun moka  
 pousse - you moke  
 poussière - haki  
@@ -1824,6 +1818,7 @@ recette - reseta
 receveur (récepteur) - receper  
 recevoir - duke  
 recevoir - recepe  
+reconnaître - rekene  
 recycler - resikle  
 rein - nefre  
 relexifier - rilexife  
@@ -1837,7 +1832,6 @@ reprendre - redure
 représentant (délégué) - vakiler  
 requin - xayu  
 reste - baki  
-retourner (revenir) - be retro  
 Rhin - Ren  
 rhodium - rodium  
 rhume - zukam  
@@ -1852,7 +1846,7 @@ rivière (fleuve) - rivo
 riz - varis  
 riz blanc - baku varis  
 riz complet - brun varis  
-robe - juba  
+robe - jube  
 robot - robote  
 roche (pierre) - petra  
 rocher - dai seku  
@@ -1947,12 +1941,11 @@ sauvage - vilde
 sauver (secourir) - salve  
 sauveur - salver  
 savane - garma zona caustan  
-savoir - sabe  
-savoir - san  
 Scandinavie - Skandia  
 scandium - skandium  
 schtroumpf - nil elfe  
 scie - xara  
+science politique (politologie) - politologia  
 scierie - xarakan  
 sciure - xarafun  
 scorpion - akrabe  
@@ -2182,7 +2175,7 @@ union - unia
 universel - universal  
 uranium - uranium  
 Uranus - Uran  
-urbain - nagral  
+urbain - polike  
 utile - uzike  
 
 ## V  
@@ -2201,7 +2194,6 @@ vanadium - vanadium
 vapeur d’eau - sui gas  
 varech - yepa alga  
 variable - varibil  
-vendre - vende  
 vendredi - zukraden  
 Venezuela - Venezuela  
 venir - lai  
@@ -2226,7 +2218,7 @@ vieux (âgé, ancien) - lau
 vigne - trepater  
 vignoble - putau bagi  
 village - deha  
-ville - siti  
+ville - pole  
 vin de riz - varis vin  
 violet (pourpre) - violeta nil  
 virgule - koma  
@@ -2239,13 +2231,13 @@ Vishnou - Vixnu
 vitamine - vitamin  
 vite (rapide) - suga  
 vivisection - biotomia  
-vivre (habiter) - be dom  
 vivre (vivant; vie) - jiva  
 vocabulaire (lexique) - lexe jama  
 voile - hijabu  
 voile - vel  
 voir - vide  
 voire (même) - hata di  
+voix (vote) - vote  
 vol - fei  
 volcan - hogo xan  
 votre - tumen su  
@@ -2308,7 +2300,7 @@ zéro - siro
 échelle - foli  
 école (collège) - xulekan  
 école primaire - baze xulekan  
-école secondaire - jong xulakan  
+école secondaire - jong xulekan  
 économie - malonomia  
 écorce - tire yo pil  
 écran - eskran  
@@ -2333,7 +2325,7 @@ zéro - siro
 émotion - gamo  
 épices - masala  
 épingle - pin  
-épistémologie - san logia  
+épistémologie - kenelogia  
 éponge - esponje  
 époux - gam per  
 épreuve - teste  
@@ -2362,8 +2354,8 @@ zéro - siro
 évident - exvidebil  
 être (existence, essence) - esentia  
 être - es  
-être couché - be kux  
 être humain - human  
 île - nese  
 œil - oke  
+œuvre (travail) - ope  
 럭비 - ragbi  

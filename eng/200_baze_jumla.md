@@ -484,18 +484,18 @@ German *Name*,
 English *name*.</small>
 
 
-### san <small>to know</small>
+### ken <small>to know</small>
 
-**mi san da.**
+**mi ken da.**
 I know him/her/it.
 
-**sual tu san vo jen?**
+**sual tu ken vo jen?**
 Do you know that person?
 
-**sual tumen san semen?**
+**sual tumen ken semen?**
 Do you know each other?
 
-**mimen san semen de long.**
+**mimen ken semen de long.**
 We know each other for a long time.
 
 

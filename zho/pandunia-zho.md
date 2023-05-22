@@ -13,7 +13,7 @@ abies - 冷杉
 acar - 腌菜  
 aci - 打喷嚏 (阿嚏)  
 acinium - 锕  
-ada - 习惯 (风俗)  
+ade - 习惯 (风俗)  
 adamas - 钻石  
 adil - 公正地  
 adilta - 正义  
@@ -199,20 +199,8 @@ bazisme - 原理
 baze strute - 基础设施  
 baze xulekan - 小学  
 bazar - 市场  
-be ais - 结冰  
-be biomute - 发酵  
-be boi - 漂浮  
-be fatige - 疲劳  
-be fobi - 害怕  
-be hogo - 烧  
-be kux - 躺  
-be mal - 属于  
-be pute - 腐烂  
-be retro - 返回 (回来)  
-be sona - 睡觉 (困觉)  
-be vanu - 玩耍  
-bebe katil - 娃娃床  
 bebe - 宝宝 (娃娃)  
+bebe katil - 娃娃床  
 bedingan - 茄子  
 behe - 山羊  
 belca - 铲  
@@ -239,8 +227,8 @@ bil - 会 (可能)
 bil es - 也许 (或是, 可能)  
 bilive - 熟练  
 bil ki - 也许 (或是, 可能)  
-bine - 建筑  
 bine - 建设  
+binaje - 建筑  
 bine plan - 建筑学  
 bine planer - 建筑师  
 bingo - 宾果游戏  
@@ -259,6 +247,7 @@ bolxevisme - 布尔什维主义
 bolxeviste - 布尔什维克  
 bombe - 炸弹  
 boron - 硼  
+bote - 鞋  
 botel - 瓶  
 botel tape - 瓶盖  
 bra doh - 侄女 (姪女)  
@@ -289,7 +278,6 @@ buton - 扣子
 
 ## C  
 
-gata a caku - 切  
 cai - 茶  
 cai camaca - 茶匙  
 caikan - 茶馆  
@@ -309,7 +297,7 @@ ceng bede - 双层床
 ceng fem - 女人  
 ceng jen - 成人 (成年人)  
 ceng man - 男人  
-ceresium - 铈  
+cerium - 铈  
 • acesebilta - 無障礙環境  
 • sucese - 成功  
 cesium - 铯  
@@ -328,11 +316,12 @@ cira cira di - 褴褛的
 cita - 猎豹  
 coklate - 巧克力  
 coklate kane - 巧克力棒  
-congcing - 重庆  
+Congcing - 重庆  
 copu - 锄头  
 cule - 处理 (对待)  
 cun - 选  
 cunbil - 选择 (买卖权)  
+cung - 昆虫  
 cute - 出  
 
 ## D  
@@ -411,7 +400,7 @@ dolfin - 海豚
 dom - 家 (房子)  
 dom gogia - 祖国  
 • redon - 退回  
-don xe ceke - 礼物卡  
+donaje ceke - 礼物卡  
 dong - 东  
 dosil - 驯服的  
 doste - 朋友 (友人)  
@@ -420,7 +409,6 @@ du - 二 (2)
 dubaxike - 会双语的  
 dua - 祈祷  
 • dusdua - 诅咒  
-dudu - 昆虫  
 dukan - 商店 (店铺)  
 dum - 烟  
 dunia - 世界  
@@ -736,7 +724,9 @@ ja - 者 (人, 家)
 jaibai - 勝敗  
 • ajame - 聚会 (会议)  
 jamul - 閻浮樹  
+jan - 注意 (谨慎)  
 jan buda din - 禅宗  
+janive - 谨慎的  
 janela - 窗戶  
 janela frem - 窗框  
 jang - 仗 (爭)  
@@ -760,22 +750,19 @@ jete grafe - 投射 (投影)
 jiva - 生命  
 • trajiva - 生还  
 jong - 中心  
-jong xulakan - 中学  
+jong xulekan - 中学  
 Jongoku - 中国  
 jovar - 高粱  
-juba - 长袍  
+jube - 长袍  
 • prejude - 偏见  
 judau - 柔道  
-jui - 注意 (谨慎)  
-jui di - 谨慎的  
-jui note - 警告  
 jul - 焦耳 (J)  
 jumla - 句子  
 jumla logia - 句法学  
 jun - 年轻  
 jun bei - 后辈  
 jun jen - 年轻人  
-junnen - 青年  
+jun nen - 青年  
 jun sis - 妹妹 (mèimei)  
 jus - 汁  
 
@@ -872,7 +859,11 @@ ke - 什么
 ke riti - 怎么  
 keci - 客气  
 Keme - 古埃及  
-ken - 认识  
+ken - 知道 (晓得, 认识)  
+kenelogia - 认识论 (知识论)  
+kenevol - 趣  
+kenevolike - 有趣  
+kenevolive - 好奇  
 kentaur - 人马 (半人马)  
 kerne - 核心  
 keton - 酮  
@@ -912,8 +903,8 @@ kon - 共
 kon hau - 相配  
 kon helen baxe - 通用希臘語  
 kon trati - 公約  
-kone - 锥体  
 konserte - 音乐会  
+konu - 锥体  
 kopi - 摹本 (拷貝)  
 kore - 跑步  
 korer - 跑步者  
@@ -1198,7 +1189,6 @@ nabija - 预言家
 nadir - 稀有 (稀少的)  
 nadir mar - 很少  
 nafte guku - 野菊花  
-nagre gogia - 城邦  
 najis - 污染物  
 nam - 名  
 nam hin - 无名  
@@ -1391,10 +1381,11 @@ plate stan - 平原
 platin - 铂  
 plumbe - 铅  
 plutonium - 钚  
+pole gogia - 城邦  
 Polinesia - 波利尼西亚  
 polite - 政府  
-politi lona - 政治  
-politi mode - 政体  
+politologia - 政治學  
+polite mode - 政体  
 polskium - 钋  
 pompe - 泵 (唧筒)  
 pompe tape - 活塞  
@@ -1481,7 +1472,6 @@ rusium - 钌
 
 ## S  
 
-sabe - 会  
 sable - 沙  
 sabun - 肥皂  
 safe - 干净  
@@ -1511,15 +1501,9 @@ sama - 天空
 sama hal - 天气  
 sama kinar - 地平线  
 samarium - 钐  
-san - 知道 (晓得)  
-san logia - 认识论 (知识论)  
-san vol - 趣  
-san vol di - 有趣  
-san vol ja - 好奇  
 sanduice - 三明治 (三文治)  
 sante kanon - 圣经  
 sanzi - 扇子  
-sapatu - 鞋  
 sari - 莎丽  
 satelite - 卫星  
 sau - 兄弟姐妹 (xiōngdì jiěmèi)  
@@ -1618,8 +1602,8 @@ suxi - 寿司
 
 ## T  
 
-tabi - 特性 (生性)  
-table komputa - 平板电脑  
+tabia - 特性 (生性)  
+tablete konputer - 平板电脑  
 talium - 铊  
 tala - 锁  
 tami - 贪婪的  
@@ -1745,8 +1729,6 @@ veganiste - 纯素食主义者
 vegoyamiste - 素食主义者  
 vei gradu - 纬度  
 vei lin - 緯紗  
-vende - 卖  
-vende xope - 贸易  
 ventur - 冒险  
 venturer - 冒险者  
 Venzou - 温州  
@@ -1799,6 +1781,7 @@ xava - 烧 (烧烤)
 xayu - 鲨鱼  
 xe - 事物 (东西)  
 xe hal - 事态  
+xefe pole - 首都  
 xenon - 氙  
 xia - 派系  
 xia islam din - 什叶派  

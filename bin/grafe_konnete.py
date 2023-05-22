@@ -28,6 +28,7 @@ def fete_node_poze(G):
     pos['ara'] = (-0.5, -0.4)
     pos['swa'] = (-0.7, -0.2)
     pos['hau'] = (-0.8, -0.5)
+    pos['ful'] = (-0.7, -0.8)
 
     pos['fas'] = (-0.5, 0.2)
     pos['ben'] = (-0, 0.5)
@@ -72,7 +73,7 @@ node_sizes = []
 
 euro_baxe = ['eng', 'deu', 'fra', 'spa', 'por', 'rus' ]
 hindiran_baxe = [ 'fas', 'hin', 'ben', 'tam', 'may' ]
-afrasia_baxe = [ 'ara', 'tur', 'swa', 'hau' ]
+afrasia_baxe = [ 'ara', 'tur', 'swa', 'hau', 'ful' ]
 dongasia_baxe = [ 'zho', 'yue', 'jpn', 'kor', 'vie' ]
 
 baxe_nam = euro_baxe + hindiran_baxe + afrasia_baxe + dongasia_baxe

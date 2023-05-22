@@ -30,8 +30,8 @@ acar hiyar - pepinillo
 acarize - encurtir  
 aci - estornudar (achís)  
 acinium - actinio  
-ada - costumbre (hábito)  
-ada di - ordinario (habitual)  
+ade - costumbre (hábito)  
+adike - ordinario (habitual)  
 adamas - diamante  
 adil - justo  
 adilta - justicia  
@@ -375,57 +375,6 @@ baze strute - infraestructura
 baze xulekan - escuela primaria  
 bazar - mercado (bazar)  
 be - sufrir (verbo pasivo)  
-be ais - congelarse (helarse)  
-be an zai - desaparecer  
-be biomute - fermentar  
-be boi - nadar (flotar)  
-be boli - hervirse (ser cocida)  
-be bum - explosionar  
-be cen - preceder (anteceder)  
-be dai - crecer (aumentar, hincharse)  
-be dom - vivir (residir)  
-be duka - llorar  
-be dur - durar (durante, llevar tiempo)  
-be estasi - pararse (detenerse)  
-be fatige - cansarse (fatigar)  
-be fen - partir (dividirse)  
-be fobi - temer  
-be gamo - sentir  
-be gas - gasificarse  
-be gau - subir (alzar)  
-be gene - nacer  
-be ging - alinear  
-be halte - pararse (detenerse)  
-be harabu - bloquearse (colgarse, fallar)  
-be hogo - quemarse  
-be in - entrar  
-be in bum - implosionar  
-be islam - someterse (rendirse, ceder)  
-be kai - abirse  
-be karibu - axproximarse  
-be krus - cruzar  
-be kux - acostarse (echarse, tenderse, tumbarse)  
-be loka - encontrarse (estar, situarse)  
-be mal - ser de  
-be mata - morirse  
-be nam - llamarse  
-be pute - pudrirse (cariarse, descomponerse)  
-be reste - quedarse  
-be retro - volver  
-be rota - girar (rotar)  
-be rupa - parecer  
-be sabe vol - preguntarse  
-be sam rupa - parecerse a  
-be sel - deber (se recomienda)  
-be sona - dormir  
-be supra - sobrepasar  
-be tele loka - teletransportarse  
-be turbe - molestar en  
-be vai - salir (egresar)  
-be vanu - disfrutar (jugar)  
-be vide - ser visto  
-be xuru - comenzar (iniciarse, empezar)  
-be zai - aparecer  
 bebe - bebé  
 bedingan - berenjena  
 bega - escaparse (evitar, huir)  
@@ -510,6 +459,10 @@ bori - aburrimiento
 bori di - aburrido  
 boron - boro  
 Bosna e Hercegovina - Bosnia y Herzegovina  
+bote - zapato  
+boter - zapatero  
+botin - bota  
+botekan - zapatería  
 Bote - Tíbet  
 botel - botella  
 botel tape - tapón (corcholata)  
@@ -558,15 +511,13 @@ busu - beso
 bute - mantequilla  
 butan - butano  
 butil - butilo  
-buta - bota  
 buton - tecla (botón)  
 buton bano - teclado  
 buyu - baobab  
 
 ## C  
 
-gata a caku - cortar  
-cade - Chad  
+Cade - Chad  
 cai - té  
 cai camaca - cucharilla  
 caikan - salón de té  
@@ -608,10 +559,10 @@ cepe - capturar (apresar)
 • intercepe - interceptar  
 • recepe - recibir  
 • receper - receptor  
-Ceres - Ceres (planeta enano)  
-ceresium - cerio  
+Cer - Ceres (planeta enano)  
+cerium - cerio  
 ceri - cereza  
-cernagora - Montenegro  
+Cernagora - Montenegro  
 • acese - acceso (acceder)  
 • acesebil - accesible  
 • acesebilta - fácil acceso (accesibilidad)  
@@ -639,7 +590,6 @@ cipe - Albania
 cira - rasgar (romper)  
 cira cira di - andrajoso  
 cita - guepardo (chita)  
-coda - joder (coger, copular)  
 coi - verduras  
 coklate - chocolate  
 coklate kane - barra de chocolate  
@@ -655,6 +605,7 @@ cun - elegir (escoger, seleccionar)
 cunbil - opción (preferencia)  
 cun liste - menú (catálogo)  
 cun yo gol - destinar  
+cung - insecto  
 cupu - chupar (succionar)  
 cute - salir (irse; escapatoria)  
 cute mun - salida  
@@ -813,9 +764,9 @@ Dominika - Dominica
 Dominika Vakilkratia - Republica Dominicana  
 domino - dominó  
 don - dar  
-don tabi - generoso (dadivoso)  
-don xe - regalo (obsequio)  
-don xe ceke - cheque regalo  
+donaje - regalo (obsequio)  
+donaje ceke - cheque regalo  
+donive - generoso (dadivoso)  
 dong - éste  
 dong di - oriental  
 dong gorila - gorila oriental  
@@ -849,7 +800,6 @@ dua - rezo (oración)
 dua - rezar (orar)  
 • dusdua - maldecir (maldición)  
 dubnium - dubnio  
-dudu - insecto  
 panduke - fonda  
 dukan - tienda (comercio)  
 duku - pena (tristeza)  
@@ -1049,6 +999,7 @@ forke - tenedor
 • dusforme - desfigurar  
 • dusformife - desfigurar  
 • konforme - amoldarse  
+• konforme - amoldarse  
 forme - forma (figura, morfo)  
 formeme - morfema  
 formize - formar  
@@ -1094,6 +1045,7 @@ fungu frute - champiñón (seta)
 fungu nete - micelio  
 • defunte - difunto  
 • dusfunte - falla (mal funcionamiento)  
+• konfuntebil - compatible  
 • konfuntebil - compatible  
 funte - funcionar  
 funtion - función  
@@ -1538,6 +1490,7 @@ idioteta - estupidez (tontería)
 iglu - iglú  
 iha - burro (asno)  
 iha uma - mula  
+ilme - sabiduría  
 impere - reinar (reinar como emperador)  
 imperer - emperador  
 imperia - imperio  
@@ -1602,8 +1555,9 @@ jamive - colectivo
 jame karte - cromo  
 Jamaika - Jamaica  
 jampe - saltar (brincar)  
-jan - meditar (reflexionar)  
+jan - cuidado (atención, precaución, cautela)  
 jan buda din - budismo zen  
+janive - cuidadoso (cauteloso, tener cuidado)  
 janela - ventana  
 jang - pelea (guerra, batalla)  
 jang di - macrial (militar)  
@@ -1640,7 +1594,7 @@ Jerze - Jersey
 jete grafe - proyectar (proyección)  
 Jibuti - Yibuti  
 jihade - lucha  
-jini - espíritu (genio)  
+jin - espíritu (genio)  
 jiva - vivir (vivo; vida)  
 • trajiva - sobrevivir  
 joke - broma (chiste)  
@@ -1649,18 +1603,15 @@ jong - centro
 Jong Afrika Vakilkratia - República Centroafricana  
 jong di - central  
 jong fon - vocal  
-jong xulakan - escuela secundaria  
+jong xulekan - escuela secundaria  
 Jongoku - China  
 jovar - zahína (sorgo)  
-juba - bata (aljuba)  
+jube - bata (aljuba)  
 jude - juzgar  
 • prejude - prejuicio  
 judaje - fallo (juicio, criterio)  
 juder - juez (árbitro, réferi)  
 judau - yudo  
-jui - cuidado (atención, precaución, cautela)  
-jui di - cuidadoso (cauteloso, tener cuidado)  
-jui note - advertencia (aviso)  
 jul - joule (J)  
 jumla - oración  
 jumla logia - sintaxis  
@@ -1669,10 +1620,9 @@ jun fem - niña
 jun jen - joven  
 jun man - niño  
 jun moka - pimpollo  
-junnen - juventud  
+jun nen - juventud  
 junta - juventud  
 jung - especie  
-jupe - falda  
 jus - jugo (zumo)  
 juste - exacto (preciso)  
 juste pauer - francotirador  
@@ -1847,7 +1797,16 @@ keke - pastel (galleta)
 kelele - ruido  
 kelvin - kelvin  
 Keme - Egipcia Antigua  
-ken - conocer  
+ken - conocer o saber  
+• diskene - diferenciar (distinguir)  
+• konkenaje - información  
+• rekene - roconocer  
+kenaje - conocimiento  
+kenize - comunicar (informar)  
+kenelogia - gnoseología (epistemología)  
+kenevol - interés  
+kenevolike - interesante (curioso)  
+kenevolive - inquisitivo (curioso)  
 kentaur - centauro  
 Kenya - Kenia  
 kerne - corazón (núcleo)  
@@ -1939,8 +1898,6 @@ kompani - compañía (empresa, corporación)
 kon - con (común)  
 koncanisme - comunismo  
 koncaniste - comunista  
-kon forma - amoldarse  
-kon funsibil - compatible  
 kon hau - emparejar (quedar)  
 kon helen baxe - koiné  
 konife - compartir (tener en común)  
@@ -1948,9 +1905,9 @@ kontra - estar en contra
 kon trati - convenion (pacto)  
 konun - común (comunitario)  
 Konakri Ginia - Guinea  
-kone - cono  
 Konkani - konkani  
 konserte - concierto  
+konu - cono  
 kopernium - copérnico  
 kopi - copia (réplica)  
 kopi - copiar  
@@ -1978,7 +1935,6 @@ kote - abrigo (chaqueta)
 Kote de Ivar - Costa de Marfil  
 kotumbar - cilantro (coriandro)  
 krake - raja (grieta)  
-kran - válvula (llave, canilla)  
 kratia - dominio (reinado)  
 kree - crear  
 kreater - creador  
@@ -2138,7 +2094,7 @@ lila - lila
 lila rang - lila (de color lila)  
 lima - cinco (5)  
 lima fase - pentaedro  
-lima gona - pentágono  
+lima gone - pentágono  
 limfa - linfa  
 limite - límite (frontera, linde)  
 limon - limón  
@@ -2193,7 +2149,7 @@ luga - verde
 luga melon - melón verde  
 luka - seis (6)  
 luka fase - hexaedro (cubo)  
-luka gona - hexágono  
+luka gone - hexágono  
 lumize - pulir (lustrar)  
 lumen - lúmen  
 luna - luna  
@@ -2215,6 +2171,7 @@ Luxemburge - Luxemburgo
 
 ma - madre (mamá)  
 ma di - maternal  
+matropole - metrópolis  
 made - sustancia (materia)  
 madike - material  
 madisme - materialismo  
@@ -2297,6 +2254,7 @@ masala tike - tikka masala
 maske - máscara  
 maste - dominar  
 master - maestro (experto)  
+master ope - obra maestra  
 masta - mástil  
 mata - morirse (muerte; muerto)  
 matafa - matar (morir, asesinar)  
@@ -2340,7 +2298,7 @@ mega vate - megavatio
 megi - nube  
 mehe - oveja  
 Mehiko - México  
-Mehiko siti - Ciudad de México  
+Mehiko pole - Ciudad de México  
 mei - hermoso (bello, lindo)  
 mei arte - bellas artes  
 mei daka - decoración (adorno)  
@@ -2554,9 +2512,6 @@ nabija - profeta (heraldo)
 nadir - raro  
 nadir mar - raramente  
 nafas - respiración  
-nagre - pueblo  
-nagral - urbano  
-nagre gogia - ciudad estado  
 nahun - uña  
 nahunate - arañar  
 najis - contaminación (corrupción, porquería, suciedad)  
@@ -2627,9 +2582,10 @@ negative - negativo
 nekre - cadáver  
 nekrofilia - necrofilia  
 nekrologe - necrología (obituario)  
+nekropole - necrópolis  
 nekrotomia - autopsia  
 nelu - cuatro (4)  
-nelu gona - cuadro  
+nelu gone - cuadro  
 nen - año  
 nen festa - aniversario  
 nen mes den - fecha  
@@ -2757,6 +2713,8 @@ onda - onda
 Onduras - Honduras  
 onor - respeto (honor)  
 onor di - respetable (honorable)  
+ope - obra (trabajo)  
+operate - obrar (operar)  
 orange - naranja  
 orange rang - anaranjado  
 ordu - ejército  
@@ -2772,8 +2730,8 @@ oromo - oromo
 Oromo Dexa - Oromía  
 ortife - enderezar (poner recto)  
 orto - recto  
-orto gona - ángulo recto  
-orto gona di - ortogonal  
+orto gone - ángulo recto  
+orto gonike - ortogonal  
 Oseania - Oceanía  
 oselote - ocelote  
 osidian - obsidiana  
@@ -2994,11 +2952,14 @@ plumbe - plomo
 Pluton - Plutón  
 plutonium - plutonio  
 poke - póquer  
+pole - ciudad  
+pole gogia - ciudad estado  
+polike - urbano  
 poli - mucho (muchos)  
 polibaxike - multilingüe (plurilingüe)  
 polideisme - politeísmo  
 poli fase - poliedro  
-poli gona - polígono  
+poli gone - polígono  
 polikultural - multicultural  
 polikulturisme - multiculturalismo  
 poli marta - frecuencia  
@@ -3010,14 +2971,13 @@ polita - cantidad
 polis - policía  
 poliser - policía  
 polite - gobierno  
-politike - político (administrador)  
+politike - político  
+politiker - político (administrador)  
 politologia - ciencia política  
-politi di - político  
-politi lona - política  
-politi mode - régimen  
+polite mode - régimen  
+Polske - Polonia  
+polske baxe - idioma polaco  
 polskium - polonio  
-Polska - Polonia  
-polska baxe - idioma polaco  
 pompe - bomba  
 pompe tape - pistón  
 pope - pueblo (población)  
@@ -3240,9 +3200,6 @@ ruterfordium - rutherfordio
 
 ## S  
 
-sabe - saber  
-• konsabe - comunicar (informar)  
-• konsabaje - información  
 sabate - sabbat  
 sable - arena  
 sablestan - desierto  
@@ -3306,12 +3263,6 @@ sama kinar - horizonte
 sama nil - celeste (azul celeste)  
 samarium - samario  
 Samoa - Samoa  
-san - saber  
-san logia - gnoseología (epistemología)  
-san vol - interés  
-san vol di - interesante (curioso)  
-san vol ja - inquisitivo (curioso)  
-san xe - sabiduría (conocimiento)  
 sanduice - sándwich (sánduche)  
 sanduku - caja (baúl, cofre, estuche)  
 sante - sagrado (santo)  
@@ -3325,9 +3276,6 @@ Sante Tome e Principe - Santo Tomé y Príncipe
 Sante Vincente - Isla de San Vicente  
 Sante Vincente e Grenadin - San Vicente y las Granadinas  
 sanzi - abanico (ventilador)  
-sapatu - zapato  
-sapatu ja - zapatero  
-sapatukan - zapatería  
 sari - sari  
 satelite - satélite  
 sau - hermano o hermana  
@@ -3437,9 +3385,8 @@ sis - hermana
 sismologia - sismología  
 sistem - sistema  
 sistem di - sistémico  
-sita - citar  
-sita marke - comilla  
-siti - ciudad  
+site - citar  
+site marke - comilla  
 sivil - civilizado  
 sivilia - civilización  
 skale - escalar  
@@ -3471,9 +3418,9 @@ Somal Dexa - Solamilandia
 son - hijo  
 sona - sueño  
 • ansona - insomnio  
+sonaive - soñoliento (somnífero)  
 sona kamar - dormitorio  
 sona papi - adormidera (amapola real)  
-sona tabi - soñoliento (somnífero)  
 songi - pino  
 soni - sonido (audio)  
 sorbe - sorber  
@@ -3574,11 +3521,12 @@ suxi - sushi
 ## T  
 
 ta - -idad  
+tabe - disposición (naturaleza, carácter, -ivo)  
+tabia - disposición (carácter)  
 tabake - tabaco  
-tabi - disposición (naturaleza, carácter, -ivo)  
 table - tabla (lámina, plancha)  
-table komputa - tablet  
-table yo data - tabular  
+tablete konputer - tablet  
+tablife - tabular  
 tai - escenario (podio, estrado, tarima)  
 Tai baxe - idioma tailandés  
 Tai Dexa - Tailandia  
@@ -3704,7 +3652,7 @@ tortuga - tortuga
 toxe - veneno (toxina)  
 toxike - tóxico  
 toxologia - toxicología  
-tragona di - diagonal  
+tragonike - diagonal  
 tralongta - diámetro  
 trapas - tránsito (transporte)  
 tragike - triste (trágico)  
@@ -3828,6 +3776,7 @@ vali susan - convalaria (lirio de los valles)
 Valis e Futuna nesia - Wallis y Futuna  
 valse - vals  
 valu - valor  
+valve - válvula (llave, canilla)  
 vampir - vampiro  
 vampir ohtopus - calamar vampiro  
 vanadium - vanadio  
@@ -3853,15 +3802,13 @@ vegoyamiste - vegetariano
 vei gola - paralelo (línea de latitud)  
 vei gradu - latitud  
 vel - velo  
-devel - develar (revelar)  
-vende - vender  
-vende xope - comercio  
+• devele - develar (revelar)  
 Venezuela - Venezuela  
 ventur - aventura  
 venturer - aventurero  
 venzou orange - unshu mikan  
 ver - verdadero  
-anver - falso  
+• anver - falso  
 verife - autenticar  
 veranda - balcón (terraza, veranda)  
 verme - verme  
@@ -3926,7 +3873,7 @@ vode - promesa (voto)
 vodun - vudú  
 vokal fone - vocal  
 vol - querer (desear)  
-vol xe - deseo  
+volation - deseo (volición)  
 volfe - lobo  
 volfram - tungsteno (wolframio)  
 volta - voltio (V)  
@@ -3975,6 +3922,7 @@ xaxa - susurrar (curjir)
 xayu - tiburón  
 xe - cosa  
 xe hal - situación  
+xefe pole - capital  
 xefe - jefe  
 xefe di - principal  
 xefe ministrer - primer ministro  
@@ -4118,7 +4066,7 @@ zete fonte - pozo petrolífero
 zetun - aceituna  
 zetun zete - aceite de oliva  
 zi - carácter  
-zi forma - fuenta  
+zi forme - fuenta  
 zi seri - alfabeto  
 zikura - zigurat  
 Zimbabue - Zimbabue  

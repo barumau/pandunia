@@ -20,6 +20,6 @@
 | viet | 3% |
 | malayu | 5% |
 | arabe | 4% |
-| suahili | 4% |
+| suahili | 3% |
 | hausa | 1% |
 | ful | 1% |

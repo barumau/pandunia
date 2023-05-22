@@ -22,7 +22,7 @@ actínio - acinium
 acéfalo - kapa hin  
 adesivo - glu grafi  
 adjetivo - sifa loge  
-administrador - politike  
+administrador - politiker  
 admirar - amire  
 aeroporto - air porto  
 aeróbico - airobiike  
@@ -101,7 +101,6 @@ antimónio - estibium
 anzol - pexe huke  
 análise - fen lize  
 aplicar - aplike  
-apodrecer-se - be pute  
 aprender - xule  
 apropriado (apto) - hapu  
 aproximar - aproxe  
@@ -247,7 +246,7 @@ bombom (doce) - kandi
 bombordo - nave leu  
 borboleta - pelpel  
 boro - boron  
-bota - buta  
+bota - botin  
 botânica - fitologia  
 botão - buton  
 boxe - boce  
@@ -319,6 +318,7 @@ Cantalupo in Sabina - Kantalupo a Sabina
 canção de ninar - lala gani  
 capa - mantol  
 capa de chuva - barxa kote  
+capital - xefe pole  
 capturar (agarrar) - kape  
 capô - moter cate  
 caqui (dióspiro) - kaki  
@@ -399,13 +399,14 @@ chá - cai
 chá mate - mate cai  
 ciano - cian  
 ciclista - sikliste  
-cidade - siti  
-Cidade-estado - nagre gogia  
+cidade - pole  
+Cidade-estado - pole gogia  
 cigarro - sigare  
 cinco (5) - lima  
 cipó - trepater  
 circo - sirkus  
 citologia - selu logia  
+ciência política (politologia) - politologia  
 claro - klar  
 cliente - klien  
 clone - klon  
@@ -450,9 +451,9 @@ conexão (vínculo, laço) - linke
 conexão - konnetion  
 confiar (contar com) - amen  
 confiar (contar com) - krede  
-conhecer - ken  
+conhecer ou saber - ken  
 conjunção - yunte lexe  
-cono - kone  
+cono - konu  
 conselho - sel  
 considerar - hem  
 construir - bine  
@@ -480,7 +481,7 @@ Corão - kuran
 cosmo - kosme  
 cosmonauta - kosmonaver  
 costa - bahai kinar  
-costume (hábito) - ada  
+costume (hábito) - ade  
 cotovelo - kudi  
 couve (repolho) - koli  
 couve-de-folhas - yepa koli  
@@ -526,7 +527,7 @@ cânfora - kafur
 cão (cachorro) - vaf  
 célula sanguínea - hemi selu  
 cérebro - nau  
-cério - ceresium  
+cério - cerium  
 césio - cesium  
 céu - sama  
 cópia - kopi  
@@ -608,14 +609,12 @@ documentário - dokumen filme
 dois (2) - du  
 domingo - solden  
 doméstico - dom di  
-dormir - be sona  
 drama - drame  
 droga (narcótico) - narke  
 dual - dual  
 ducha - dux  
 duna (бархан) - duna  
 durante - a dure de  
-durar - be dur  
 duração - dure  
 duro - gati  
 dígito - numograme  
@@ -659,14 +658,13 @@ engenheiro - engener
 ensaio (redação) - esai  
 ensinar (lecionar) - xulize  
 ensino primário - baze xulekan  
-ensino secundário - jong xulakan  
+ensino secundário - jong xulekan  
 ensopar (encharcar, marinar) - pul xipi  
-entrar - be in  
 entrar - intre  
 enxada - copu  
 enxofre - sulfe  
 enxó - benzi  
-epistemologia - san logia  
+epistemologia - kenelogia  
 equilíbrio - par vezeta  
 erro (falta) - galte  
 errôneo - galte di  
@@ -702,7 +700,7 @@ esporte - sporte
 esposa - ni per (fem)  
 esposo - nan per (man)  
 esposo ou esposa - gam per  
-espírito (gênio) - jini  
+espírito (gênio) - jin  
 esquecer - anmemo  
 esqueleto - oste jama  
 esquerdo - leu  
@@ -713,7 +711,6 @@ essência (existência) - esentia
 estaca - moka kane  
 estado - hal  
 estanho - estan  
-estar deitado (jazer) - be kux  
 estação (sazão) - mosim  
 estação - statia  
 este (leste) - dong  
@@ -739,7 +736,6 @@ excluir - exkluze
 exclusivo - exkluzive  
 exoplaneta (planeta extrassolar) - exoplaneta  
 expelir - expele  
-explodir - be bum  
 explosão - bum  
 expor (revelar) - expoze  
 exterior - vai  
@@ -773,7 +769,6 @@ feio - dusrupike
 feliz - suke  
 feno - gan cau  
 fenol - fenol  
-fermentar - be biomute  
 ferro - fero  
 fezes - feke  
 fibra - lin so  
@@ -842,11 +837,10 @@ garrafa (botelha) - botel
 gato - miau  
 gato-do-mato (gato-maracajá-mirim) - bagre oselote  
 gato-maracajá - margai  
-gelar - be ais  
 genealogia - gene logu  
 generalíssimo - ordu reger  
 generosidade - karim  
-generoso (dadivoso, mão-aberta) - don tabi  
+generoso (dadivoso, mão-aberta) - donive  
 genitor - cin  
 genético - gene logia di  
 genótipo - gene tipe  
@@ -942,7 +936,6 @@ imigrante - inmigrer
 imigrar - inmigre  
 imitar (mimetizar) - mime  
 impelir - inpele  
-implodir - be in bum  
 imploção - in bum  
 importante - ham di  
 impressão digital - angul marke  
@@ -965,8 +958,8 @@ inflamaçao - itis
 informática (ciência da computação) - data cule logia  
 infraestrutura - baze strute  
 inimigo - dus jen  
-inquisitivo - san vol ja  
-inseto - dudu  
+inquisitivo - kenevolive  
+inseto - cung  
 insônia - ansona  
 inteligência artificial - arte fete intelige (AI)  
 intenção - nia  
@@ -1140,7 +1133,7 @@ manganésio - mangan
 mania - mania  
 maniqueísmo - mani din  
 manteiga - bute  
-manto - juba  
+manto - jube  
 mantra - mantra  
 mar - bahai  
 maravilha - ajabe  
@@ -1209,6 +1202,7 @@ metano - metan
 metanol - metanol  
 metil - metil  
 metro - mitre  
+metrópole - matropole  
 microbiologia - mikrobiologia  
 microscópio - mikroskope  
 micróbio - mikrobie  
@@ -1274,7 +1268,6 @@ música pop (música popular) - pope muzike
 
 ## N  
 
-nadar (flutuar) - be boi  
 narguilé (xixa) - sui pipe  
 nascer - nate  
 nativo - native  
@@ -1285,6 +1278,7 @@ nação - nasia
 necessidade - yauta  
 necessário - yau di  
 necrofilia - nekrofilia  
+necrópole - nekropole  
 nefrite - nefritis  
 negativo - negative  
 neodímio - neodimium  
@@ -1340,6 +1334,8 @@ o (a) - la
 o que - ke  
 obituário - nekrologe  
 oblíquo (torto) - terca  
+obra (trabalho) - ope  
+obrar (operar) - operate  
 obrigado - xukre  
 obrigar - debize  
 obsidiana - osidian  
@@ -1369,7 +1365,7 @@ origem - asle
 original - aslike  
 ornitologia - paci logia  
 orquídea - orkide  
-ortogonal - orto gona di  
+ortogonal - orto gonike  
 otite - ore tis  
 ou - o  
 ouro - auro  
@@ -1603,7 +1599,6 @@ que (como) - ka
 que - ki  
 queijo - keze  
 queijo fresco - panir  
-queimarse - be hogo  
 queixa (lamento, reclamação) - xikaye  
 quem - ke jen  
 querer (desejar) - vol  
@@ -1650,7 +1645,7 @@ reciclar - resikle
 recém-nascido (neonato) - neunatike  
 referir - refere  
 refugo (escória) - lasa  
-regime - politi mode  
+regime - polite mode  
 registro - loga  
 rei - nan reger  
 reincarnação - reinkarnation  
@@ -1675,7 +1670,7 @@ resfriado - zukam
 resposta - javabe  
 resto - baki  
 reto - orto  
-revelar - devel  
+revelar - devele  
 rim - nefre  
 rima - rime  
 ringue - ringar  
@@ -1685,6 +1680,7 @@ ritmo - ritim
 robô - robote  
 rocha (pedra) - petra  
 rock - roke muzike  
+roconhecer - rekene  
 roda - rote  
 roentgênio - rentegenium  
 roleta - rulete  
@@ -1714,15 +1710,12 @@ rótula (patela) - guta kaska oste
 ## S  
 
 sabedoria (sagacidade, sapiência) - sofia  
-saber - sabe  
-saber - san  
 sacada (varanda) - veranda  
 sacarose - sukaros  
 saco - sake  
 sacrifício - kurban  
 sagrada escritura - sante kanon  
 sagu - sagu  
-sair - be vai  
 sal - yem  
 sala (câmara) - kamar  
 salino - yem di  
@@ -1803,7 +1796,7 @@ soldado - ordu jen
 som - soni  
 sombrinha - sol cati  
 sono - sona  
-sonolento - sona tabi  
+sonolento - sonaive  
 sopa - supa  
 sorgo - jovar  
 sorver - sorbe  
@@ -1832,7 +1825,7 @@ sódio - natre
 
 ## T  
 
-tablet - table komputa  
+tablet - tablete konputer  
 tagine - tege pote  
 talvez - bil es  
 talvez - bil ki  
@@ -1853,7 +1846,6 @@ telescópio - teleskope
 telha - tegule  
 telhado - cati  
 telúrio - telurium  
-temer - be fobi  
 tempero - masala  
 templo - pujekan  
 tempo - zaman  
@@ -1949,7 +1941,7 @@ uma vez - un mar
 universal - universal  
 união - unia  
 Urano - Uran  
-urbano - nagral  
+urbano - polike  
 urra - hura  
 urso - baru  
 urânio - uranium  
@@ -1977,7 +1969,6 @@ vegetar - vegate
 vegetariano - vegoyamiste  
 velho (antigo) - prezaman di  
 velocímetro - suga metri gi  
-vender - vende  
 ver - vide  
 verbo - kar lexi  
 verdadeiro - ver  
@@ -2006,8 +1997,7 @@ viúvo - vidua
 vocabulário - lexe jama  
 vogal - jong fon  
 vogal - vokal fone  
-voltar (regressar) - be retro  
-vontade - vol xe  
+vontade (volição) - volation  
 voo - fei  
 vosso - tumen su  
 votar - vote  

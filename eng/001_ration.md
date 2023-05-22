@@ -85,7 +85,7 @@ while English is the language with the greatest number of second language speake
 In the following chapters we will use these two dissimilar languages as the points of comparison
 when we present some of the key features of Pandunia as a language.
 This approach is not meant to belittle the importance of the other languages
-but it would be impractical to compare Pandunia to all twenty source languages at once
+but it would be impractical to compare Pandunia to all 21 source languages at once
 in a short and non-exhaustive presentation like this.
 
 

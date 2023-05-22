@@ -23,7 +23,7 @@ a ye - ĉi tie
 abies - abio  
 aci - terni  
 acinium - aktinio  
-ada - kutimo  
+ade - kutimo  
 adamas - diamanto  
 adil - justa  
 adilta - justeco  
@@ -222,28 +222,6 @@ bazike - baza
 bazisme - principo  
 baze xulekan - bazlernejo  
 bazar - merkato (bazaro)  
-be ais - glaciiĝi (frostiĝi)  
-be boli - boli  
-be bum - eksplodi  
-be cen - antaŭiri  
-be dom - loĝi  
-be duka - lamenti  
-be dur - daŭri (dum)  
-be fin - finiĝi  
-be fobi - timi  
-be gamo - emocii  
-be gene - naski  
-be halte - halti  
-be hapu - taŭgi  
-be kai - malfermiĝi  
-be kux - kuŝi  
-be mal - aparteni  
-be mata - morti  
-be retro - reiri  
-be sel - devus  
-be sona - dormi  
-be supra - superiri  
-be xuru - komenciĝi  
 bebe - bebo  
 bedingan - melongeno  
 bega - fuĝi  
@@ -269,7 +247,7 @@ bie - orgaaninen (biologinen)
 bier - organismo  
 biologia - biologio  
 Biblia - Biblio  
-Biblia di - biblia  
+biblike - biblia  
 bibre - kastoro  
 bici - vipo  
 bikini - bikino  
@@ -310,6 +288,9 @@ borium - borio
 bori - enuo  
 bori di - enui  
 boron - boro  
+bote - ŝuo  
+boter - ŝuisto  
+botekan - ŝuistejo  
 Bote - Tibeto  
 botel - botelo  
 botel tape - botelfermilo  
@@ -341,7 +322,6 @@ buyu - baobabo
 
 ## C  
 
-gata a caku - tranĉi  
 cai - teo  
 cai pote - teujo  
 caku - tranĉilo  
@@ -368,8 +348,8 @@ ceng man - viro
 cepe - kapti  
 • acepe - akcepti  
 • excepe - escepti (krom)  
-Ceres - Cereso  
-ceresium - cerio  
+Cer - Cereso  
+cerium - cerio  
 • precese - antaŭi  
 • sucese - sukcesi  
 cesium - cezio  
@@ -389,12 +369,12 @@ cing - peti (bonvolu)
 cing lai - inviti  
 cini - porcelano  
 cita - gepardo  
-coda - fiki  
 coklate - ĉokolado  
 coklate kane - ĉokolado  
 core - ŝtelo  
 corer - ŝtelisto  
 cun - elekti  
+cung - insekto  
 cupu - suĉi  
 cute - eliri  
 cute mun - elirejo  
@@ -413,8 +393,8 @@ dai bahai - oceano
 dai dom - palaco  
 dai pau - kanono  
 dai pauer - kanonisto  
+dai pole - urbego  
 dai seku - ŝtonego  
-dai siti - urbego  
 dake - kovri  
 dake - kovrilo  
 dama geme - damludo  
@@ -495,8 +475,8 @@ dom gogia - patrio
 domize - loĝigi  
 dom zeze - muŝo  
 don - doni  
-don tabi - malavara  
-don xe - donaco  
+donaje - donaco  
+donive - malavara  
 dong - oriento  
 doste - amiko  
 • andoste - malamiko  
@@ -517,7 +497,6 @@ dume - dua
 dua - preĝo  
 dua - preĝi  
 dubnium - dubnio  
-dudu - insekto  
 panduke - taverno  
 dukan - vendejo  
 duku - malĝojo  
@@ -573,6 +552,7 @@ ezmurude - smeraldo
 fe - fari  
 faide - utileco  
 faidike - utila  
+fake - fiki  
 famil - familio  
 famil nam - familinomo  
 fantaze - fantaci  
@@ -899,6 +879,7 @@ idee - ideo
 ideograme - ideogrammi  
 iglu - iglo  
 iha - azeno  
+ilmia - scienco  
 imperia - keisarikunta  
 in - eno  
 in di - ena  
@@ -950,9 +931,9 @@ jiva - vivi (viva; vivo)
 • trajiva - travivi  
 jong - centro  
 jong fon - vokalo  
-jong xulakan - gimnazio  
+jong xulekan - gimnazio  
 Jongoku - Ĉinio  
-juba - robo  
+jube - robo  
 jude - juĝi  
 • prejude - angaŭjuĝo  
 judaje - juĝo  
@@ -963,9 +944,8 @@ jun - juna
 jun fem - knabino  
 jun jen - junulo  
 jun man - knabo  
-junnen - juneco  
+jun nen - juneco  
 junta - juneco  
-jupe - jupo  
 jus - suko  
 juste - ĝuste (precize, ekzakte)  
 
@@ -1071,7 +1051,14 @@ ke xe - kio?
 kecape - keĉupo  
 keci - ĝentila  
 keke - kuko  
-ken - koni  
+ken - scii aŭ koni  
+• ankenike - fremda (nekonata)  
+• konkenaje - informacio  
+• rekene - rekoni  
+kenaje - scio  
+kenelogia - sciteorio (epistemologio)  
+kenevolike - interesa  
+kenevolive - scivolema  
 kentaur - centaǔro  
 kerne - kerno (koro)  
 kerne energi - kernenergio  
@@ -1123,8 +1110,8 @@ kon helen baxe - kojnea greka lingvo
 kon su - kuna  
 kontra - kontraŭi  
 konun - komuna  
-kone - konuso  
 konserte - koncerto  
+konu - konuso  
 kopernium - kopernicio  
 kopi - kopio  
 kopi - kopii  
@@ -1142,7 +1129,6 @@ koso - tuso
 kote - palto  
 kotumbar - koriandro  
 krabe - krabo  
-kran - krano (valvo)  
 krate - regi  
 kratia - regado  
 kree - krei  
@@ -1417,8 +1403,6 @@ nabija - profeto
 nadir - malofta  
 nadir mar - malofte  
 nafas - spiro  
-nagre - urbo  
-nagral - urba  
 nam - nomo  
 nam hin - sennoma  
 nam lexe - substantivo  
@@ -1637,12 +1621,14 @@ platin - plateno
 plumbe - plumbo  
 plutonium - plutonio  
 poke - pokero  
+pole - urbo  
+polete - urbeto  
+polike - urba  
 poli - multe  
 polibaxike - multlingva  
-poli gona - poligono  
-politike - politikisto  
-politi di - politika  
-politi lona - politiko  
+poli gone - poligono  
+politike - politika  
+politiker - politikisto  
 polskium - polonio  
 pompe - pumpilo  
 pope - popolo  
@@ -1747,8 +1733,6 @@ ruterfordium - ruterfordio
 
 ## S  
 
-sabe - scii kiel  
-• konsabaje - informacio  
 sable - sablo  
 sablestan - dezerto  
 sabu - kialo  
@@ -1786,18 +1770,9 @@ sam sexe di - samseksema
 sama - ĉielo  
 sama hal - vetero  
 samarium - samario  
-san - scii  
-• ansan di - fremda (nekonata)  
-san logia - sciteorio (epistemologio)  
-san vol di - interesa  
-san vol ja - scivolema  
-san xe - scio  
 sanduku - skatolo (kesto)  
 sante - sankta  
 sanzi - ventumilo  
-sapatu - ŝuo  
-sapatu ja - ŝuisto  
-sapatukan - ŝuistejo  
 sari - sario  
 satelite - satelito  
 sau - gefrato  
@@ -1850,8 +1825,7 @@ siro - nul
 sis - fratino  
 sismologia - sismologio  
 sistem - sistemo  
-sita - citi  
-siti - urbo  
+site - citi  
 skandium - skandio  
 skulte - skulti  
 sofe - saĝa  
@@ -1867,8 +1841,8 @@ sol sistem - sunsistemo
 son - filo  
 sona - dormo  
 • ansona - sendormeco  
+sonaive - dormema  
 sona kamar - dormoĉambro  
-sona tabi - dormema  
 songi - pino  
 soni - sono  
 sos - saŭco  
@@ -1916,8 +1890,8 @@ suxi - suŝio
 
 ## T  
 
+tabia - naturo  
 tabake - tabako  
-tabi - naturo  
 Tai baxe - tajlanda  
 Tai Dexa - Tajlando  
 taiga - tajgo  
@@ -2038,6 +2012,7 @@ vakilkratia - republiko
 vala - isto  
 vali - valo  
 valu - valoro  
+valve - krano (valvo)  
 vanu - amuzo  
 vanu di - amuza  
 varis - rizo  
@@ -2048,7 +2023,7 @@ vege - legomo
 ventur - aventuro  
 venturer - aventuristo  
 ver - vera  
-anver - malvera  
+• anver - malvera  
 veranda - verando (balkono)  
 vermute - vermuto  
 version - versio  
@@ -2080,7 +2055,7 @@ vode - promesi
 vokal fone - vokalo  
 voku - okazi  
 vol - voli  
-vol xe - volo  
+volation - volo  
 volfe - lupo  
 vuki - armilo  
 vulva - vulvo  
@@ -2111,6 +2086,7 @@ xarti - kondiĉo (postulo)
 xatan - diablo (Satano)  
 xayu - ŝarko  
 xe hal - situacio (aferstato)  
+xefe pole - ĉefurbo  
 xefe - estro (ĉefulo)  
 xefe ministrer - ĉefministro  
 xenon - ksenono  
@@ -2128,7 +2104,6 @@ xiu - malgranda
 xiu bol - bobelo  
 xiu deha - vilaĝeto  
 xiu seku - ŝtoneto  
-xiu siti - urbeto  
 Xiva - Ŝivo  
 xix karne - ŝaŝliko  
 xixa pipe - akvopipo  

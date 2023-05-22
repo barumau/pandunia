@@ -18,8 +18,8 @@ acar di - décapé (mariné)
 acar hiyar - concombre confit (cornichon)  
 aci - éternuer (atchoum)  
 acinium - actinium  
-ada - coutume  
-ada di - ordinaire (habituel, normal)  
+ade - coutume  
+adike - ordinaire (habituel, normal)  
 adamas - diamant  
 adil - juste  
 adilta - justice  
@@ -265,6 +265,8 @@ bandaje - bandage
 banda - bande  
 bandera - drapeau  
 bang - masse d'armes  
+Bangi - Bangui  
+Bangi rivo - Oubangui  
 bangla baxe - bengali  
 Bangla gogia - Bangladesh  
 banker - banquier  
@@ -313,21 +315,6 @@ bazisme - principe
 baze strute - infrastructure  
 baze xulekan - école primaire  
 bazar - marché (bazar)  
-be ais - geler (glacer)  
-be biomute - fermenter  
-be boi - nagar (flotter)  
-be bum - exploser (détoner)  
-be dom - vivre (habiter)  
-be dur - durer  
-be fobi - craindre (avoir peur)  
-be hapu - convenir (être approprié)  
-be in - entrer  
-be in bum - imploser  
-be kux - être couché  
-be mal - appartenir à  
-be pute - pourrir (se décomposer)  
-be retro - retourner (revenir)  
-be sona - dormir  
 bebe - bébé  
 bedingan - aubergine  
 bei - socio  
@@ -354,8 +341,8 @@ bil es - peut-être
 bil ki - peut-être  
 bilta - capacité (pouvoir, habileté)  
 bilor - cristal  
-bine - bâtiment  
 bine - construire  
+binaje - bâtiment  
 bine plan - architecture  
 bine planer - architecte  
 bingo - bingo  
@@ -377,6 +364,8 @@ bolxeviste - bolchevik
 bombe - bombe  
 borium - bohrium  
 boron - boron  
+bote - chaussure  
+botin - botte  
 botel - bouteille  
 botel tape - capsule  
 bra - frère  
@@ -404,7 +393,6 @@ bus halte - arrêt de bus
 busu - bisou  
 bute - beurre  
 butan - butane  
-buta - botte  
 buton - bouton  
 
 ## C  
@@ -431,7 +419,7 @@ ceng jen - adulte
 • intercepe - intercepter  
 • recepe - recevoir  
 • receper - receveur (récepteur)  
-ceresium - cérium  
+cerium - cérium  
 ceri - cerise  
 • acese - accès (accéder)  
 • acesebil - accessible (atteignable, à portée)  
@@ -455,6 +443,7 @@ coklate kane - tablette de chocolat
 copu - houe  
 cule - traiter (traitement, processe)  
 cunbil - option  
+cung - insecte  
 cupu - sucer  
 
 ## D  
@@ -537,8 +526,8 @@ dom di - domestique
 dom gogia - patrie  
 dom zeze - mouche  
 don - donner  
-don tabi - généreux  
-don xe ceke - chèque cadeau  
+donaje ceke - chèque cadeau  
+donive - généreux  
 dong - east (orient)  
 dosil - docile (insipide)  
 dosil gene di - domestiqué (apprivoisé)  
@@ -550,7 +539,6 @@ dubaxike - bilingue
 duple - double  
 • dusdua - malédiction  
 dubnium - dubnium  
-dudu - insecte  
 panduke - fundic  
 duke - recevoir  
 dukan - boutique (magasin)  
@@ -961,15 +949,15 @@ jenju table - abaque (boulier compteur)
 • projete - projet  
 jete grafe - projeter (image projection)  
 jihade - lutte  
-jini - esprit (génie)  
+jin - esprit (génie)  
 jiva - vivre (vivant; vie)  
 • trajiva - survivre  
 jong - centre  
 jong fon - voyelle  
-jong xulakan - école secondaire  
+jong xulekan - école secondaire  
 Jongoku - Chine  
 jovar - sorgho  
-juba - robe  
+jube - robe  
 • prejude - préjuger  
 juder - juje  
 judau - judo  
@@ -977,7 +965,7 @@ jul - joule (J)
 jumla logia - syntaxe  
 jun - jeune (junior)  
 jun moka - pousse  
-junnen - jeunesse  
+jun nen - jeunesse  
 jus - jus  
 juste - justo (exact, précis)  
 
@@ -1095,7 +1083,9 @@ ke loka - où
 ke riti - comment  
 ke sata - quand  
 Keme - Égypte antique  
-ken - connaître  
+ken - connaître ou savoir  
+• rekene - reconnaître  
+kenelogia - épistémologie  
 kentaur - centaure  
 kentaur hua - Centaurée  
 kerne - coeur  
@@ -1144,8 +1134,8 @@ kon - avec (commun)
 kon helen baxe - koinè  
 kon trati - convention (alliance, pacte)  
 konun - commun  
-kone - cône  
 konserte - concert  
+konu - cône  
 kopernium - copernicium  
 kopi - copie  
 kore - courir  
@@ -1316,6 +1306,7 @@ lutesium - lutécium
 
 ma - mère (maman)  
 ma di - maternel  
+matropole - métropole  
 made - matière  
 madisme - matérialisme  
 maf - pardonner  
@@ -1359,6 +1350,7 @@ masa mula sol hua - topinambour
 masala - épices  
 maske - masque  
 master - maître  
+master ope - chef-d'œuvre  
 masta - mât  
 mate - yerba mate  
 mate cai - maté  
@@ -1495,8 +1487,6 @@ nabi - prophétiser
 nabija - prophète (héraut)  
 nadir - rare  
 nadir mar - rarement  
-nagral - urbain  
-nagre gogia - cité-état  
 najis - pollution  
 nam - nom  
 • annam - antonyme  
@@ -1530,6 +1520,7 @@ negative - négatif
 nekre - cadavre (corps)  
 nekrofilia - nécrophilie  
 nekrologe - nécrologie  
+nekropole - nécropole  
 nekrotomia - autopsie  
 nelu - quatre (4)  
 nen - an (année)  
@@ -1598,6 +1589,8 @@ okal - oculaire
 oke sui gas - gaz lacrymogène  
 onda - onde  
 onor - honneur  
+ope - œuvre (travail)  
+operate - opérer  
 orange - orange (fruit)  
 orange rang - orange (couleur)  
 ordu - armée  
@@ -1608,7 +1601,7 @@ ore - oreille
 ore tis - otite  
 orkide - orchidée  
 orto - droit (rectiligne)  
-orto gona di - orthogonal  
+orto gonike - orthogonal  
 oselote - ocelot  
 osidian - obsidienne  
 osmium - osmium  
@@ -1742,11 +1735,15 @@ plate stan - plaine
 platin - platine  
 plumbe - plomb  
 plutonium - plutonium  
+pole - ville  
+pole gogia - cité-état  
+polike - urbain  
 polibaxike - plurilingue (multilingue)  
 Polinesia - Polynesie  
 polipli - multiple  
 polite - gouvernement  
-politike - administrateur  
+politiker - administrateur  
+politologia - science politique (politologie)  
 polskium - polonium  
 pompe - pompe  
 pompe tape - piston  
@@ -1878,7 +1875,6 @@ ruterfordium - rutherfordium
 
 ## S  
 
-sabe - savoir  
 sable - sable  
 sablite - grès  
 sade - simple  
@@ -1910,13 +1906,10 @@ sam rai - accord
 sam sifa xe - simulation  
 sama - ciel  
 samarium - samarium  
-san - savoir  
-san logia - épistémologie  
 sanduice - sandwich  
 sanga - ordre  
 sante kanon - saintes écritures   
 sanzi - éventail  
-sapatu - chaussure  
 sari - sari  
 satelite - satellite  
 sau - frère et sœur (adelphe, germain)  
@@ -1972,7 +1965,6 @@ sirke - cercle (rond)
 sirkus - cirque  
 siro - zéro  
 sis - sœur  
-siti - ville  
 Skandia - Scandinavie  
 skandium - scandium  
 skuter - trottinette  
@@ -1990,9 +1982,9 @@ sol kentaur hua - Centaurée du solstice
 son - fils  
 sona - sommeil  
 • ansona - insomnie  
+sonaive - ensommeillé (somnolent)  
 sona kamar - chambre à coucher  
 sona papi - pavot somnifère  
-sona tabi - ensommeillé (somnolent)  
 soni - son  
 • asorbe - absorber (éponger)  
 sos - sauce  
@@ -2034,7 +2026,7 @@ suxi - sushi
 
 ## T  
 
-table komputa - ordinateur tablette  
+tablete konputer - ordinateur tablette  
 tai - estrade  
 talium - thallium  
 tala - serrure  
@@ -2191,15 +2183,13 @@ vegate - végéter
 vegoyamiste - végétarien  
 vei lin - fil de trame  
 vel - voile  
-devel - dévoiler (révéler)  
-vende - vendre  
-vende xope - commerce  
+• devele - dévoiler (révéler)  
 Venezuela - Venezuela  
 ventur - aventure  
 venturer - aventurier  
 venzou orange - mandarine satsuma  
 ver - vrai  
-anver - faux  
+• anver - faux  
 veranda - balcon  
 verme - ver  
 vermute - vermouth  
@@ -2234,6 +2224,7 @@ vol - vouloir
 volfe - loup  
 volfram - tungstène  
 Volof - wolof  
+vote - voix (vote)  
 vuki - arme  
 vuki ordu - armée  
 vulva - vulve  
@@ -2262,6 +2253,7 @@ xava - rôtir
 xayu - requin  
 xe - chose  
 xe hal - situation (état de choses)  
+xefe pole - capitale  
 xefe - chef  
 xenon - xénon  
 xia - faction (clique)  

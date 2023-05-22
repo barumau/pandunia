@@ -14,7 +14,7 @@ abies - пихта
 acar di - марино́ванный  
 aci - чихать  
 acinium - актиний  
-ada - обычай (привычка)  
+ade - обычай (привычка)  
 adamas - алмаз (бриллиант)  
 adil - справедливый  
 adilta - справедливость  
@@ -216,23 +216,8 @@ bazisme - принцип
 baze strute - инфраструктура  
 baze xulekan - семилетка  
 bazar - рынок (базар)  
-be biomute - заквасить  
-be boi - плавать  
-be bum - взрываться  
-be dur - длиться  
-be fatige - устать  
-be fobi - бояться (страшиться)  
-be in bum - взрываться вовнутрь  
-be kux - лежать  
-be mal - принадлежать  
-be pute - гнить (портиться)  
-be retro - возвращаться  
-be sabe vol - задуматься (думать, гадать)  
-be sona - спать  
-be tele loka - телепортировать  
-be turbe - утруждай  
-bebe katil - детская кроватка  
 bebe - младенец  
+bebe katil - детская кроватка  
 bedingan - баклажан  
 bei - товарищ  
 belca - лопата  
@@ -260,8 +245,8 @@ bil - возможный
 bil es - может быть  
 bil ki - может быть  
 bilor - кристалл  
-bine - строение  
 bine - строить  
+binaje - строение  
 bine plan - архитектура  
 bine planer - архитектор  
 bingo - бинго  
@@ -283,6 +268,8 @@ bolxeviste - большевик
 bombe - бомба  
 borium - борий  
 boron - бор  
+bote - туфля  
+botin - ботинок  
 botel - бутылка  
 botel tape - крышка  
 bra - брат  
@@ -313,7 +300,6 @@ bus halte - автобусная остановка
 busu - поцелуй  
 bute - масло (сливочное масло)  
 butan - бутан  
-buta - ботинок  
 buton - пуговица  
 
 ## C  
@@ -339,7 +325,7 @@ ceke - чек
 ceng bede - двухъярусная кровать  
 • excepe - выгнать (исключить, кроме)  
 • intercepe - перехватывать  
-ceresium - церий  
+cerium - церий  
 ceri - черешня  
 • acese - доступ  
 • acesebil - доступный  
@@ -365,6 +351,7 @@ coklate - шоколад
 copu - мотыга  
 cule - обращаться (обработать, обрабатываться, разбираться)  
 • precun - по умолчанию  
+cung - насекомое  
 
 ## D  
 
@@ -449,8 +436,8 @@ dom gogia - родина (отечество)
 dom zeze - муха  
 Dominika Vakilkratia - Доминиканская Республика  
 don - дать  
-don tabi - щедрый  
-don xe ceke - подарочный сертификат  
+donaje ceke - подарочный сертификат  
+donive - щедрый  
 dong - восток (ост)  
 dong gorila - восточная горилла  
 dosil - кроткий  
@@ -462,7 +449,6 @@ dubaxike - двуязычный
 du o tri - пара  
 • dusdua - проклятие (анафема)  
 dubnium - дубний, ²нильсборий  
-dudu - насекомое  
 dukan - магазин (лавка, бутик)  
 dum - дым  
 dunia - мир (свет)  
@@ -553,6 +539,7 @@ for - прочь (вон)
 fora - сверлить (бурить)  
 • dusforme - уродовать  
 • dusformife - уродовать  
+• konforme - применяться (согласоваться)  
 • konforme - применяться (согласоваться)  
 formize - формировать  
 fosfe - фосфор  
@@ -812,7 +799,9 @@ itis - воспаление
 
 jai - победить  
 jamul - джамболан  
+jan - осторожность (опаска)  
 jan buda din - дзен-буддизм  
+janive - осторожный (внимательный)  
 janela - окно  
 jangal - лес (джунгли)  
 jara - кувшин (графин)  
@@ -829,16 +818,13 @@ jiva - живать (живой; жизнь)
 • trajiva - переживать  
 jong - центр  
 jong fon - гласный  
-jong xulakan - средняя школа  
+jong xulekan - средняя школа  
 Jongoku - Китай  
 jovar - сорго (гаолян)  
-juba - халат (жупан)  
+jube - халат (жупан)  
 • prejude - предрассудок  
 juder - судья  
 judau - дзюдо  
-jui - осторожность (опаска)  
-jui di - осторожный (внимательный)  
-jui note - упреждение  
 jul - джоуль (J)  
 jumla - фраза  
 jumla logia - синтаксис  
@@ -958,7 +944,12 @@ ke riti - как
 ke sata - когда  
 ke tipe - какой  
 Keme - Древний Египет  
-ken - знать  
+ken - знать (ведать)  
+• rekene - узнать  
+kenelogia - эпистемология  
+kenevol - интерес (любопытство)  
+kenevolike - интересный  
+kenevolive - любознательный  
 kentaur - кентавр  
 kentaur hua - василёк  
 kerne - ядро  
@@ -1002,12 +993,11 @@ kola - кола
 koli - капуста  
 komike - комический (смешной)  
 komodia - комедия  
-kon forma - применяться (согласоваться)  
 kon hau - соответствовать (сочетаться)  
 kon helen baxe - койне  
 kon trati - контракт  
-kone - конус  
 konserte - концерт  
+konu - конус  
 kopernium - коперниций  
 kopi - копия  
 kore - бегать (бежать)  
@@ -1025,7 +1015,6 @@ kosmonaver - космонавт
 kotumbar - кориандр (кинза)  
 krabe - краб  
 krake - щель (трещина)  
-kran - кран  
 kree - создать  
 kreater - создатель  
 kreatia - мироздание  
@@ -1161,6 +1150,7 @@ lutesium - лютеций
 ma - мать (мама)  
 ma di - материнский  
 matria - родина  
+matropole - мегаполис  
 made - материя  
 madisme - материализм  
 mager - чародей (маг)  
@@ -1201,6 +1191,7 @@ masa mula sol hua - топинамбу́р
 masala - пряность  
 maske - маска  
 master - мастер  
+master ope - шедевр  
 masta - мачта  
 mate cai - матэ  
 matras - матрас  
@@ -1325,8 +1316,6 @@ nabi - пророчество
 nabija - пророк (вестник)  
 nadir - редкий  
 nadir mar - редко  
-nagral - городской  
-nagre gogia - город-государство  
 najis - грязь (скверна)  
 nam - имя  
 • annam - антоним  
@@ -1360,6 +1349,7 @@ negative - негативный
 nekre - труп (мёртвое тело)  
 nekrofilia - некрофилия  
 nekrologe - некролог  
+nekropole - некрополь  
 nekrotomia - вскрытие (аутопсия)  
 nelu - четыре (4)  
 neodimium - неодим  
@@ -1421,6 +1411,7 @@ oke - глаз (око)
 okal - глазной  
 oke sui gas - слезоточи́вый газ  
 onor - честь  
+ope - опус  
 orange - апельсин  
 orange rang - оранжевый  
 ordu - армия  
@@ -1430,7 +1421,7 @@ ordu reger - генералиссимус
 ore tis - отит  
 orkide - орхидея  
 orto - прямой  
-orto gona di - ортогона́льный  
+orto gonike - ортогона́льный  
 oselote - оцелот  
 osidian - обсидиан  
 osmium - осмий  
@@ -1552,9 +1543,12 @@ plate geiste - плоскоземелец
 platin - платина  
 plumbe - свинец  
 plutonium - плутоний  
+pole gogia - город-государство  
+polike - городской  
 polibaxike - многоязычный  
 Polinesia - Полинезия  
-politike - управляющий  
+politiker - управляющий  
+politologia - политология  
 polskium - полоний  
 pompe - насос (помпа)  
 pompe tape - поршень  
@@ -1700,17 +1694,11 @@ sama hal - погода
 sama kinar - горизонт  
 sama nil - голубой  
 samarium - самарий  
-san - знать (ведать)  
-san logia - эпистемология  
-san vol - интерес (любопытство)  
-san vol di - интересный  
-san vol ja - любознательный  
 sanduice - сандвич  
 sanduku - сундук  
 sanga - орден  
 sante kanon - священное писание  
 sanzi - веер  
-sapatu - туфля  
 sari - сари  
 satelite - сателлит  
 sau doh - племянница  
@@ -1782,9 +1770,9 @@ solden - воскресенье
 sol hua - подсолнечный  
 son - сын  
 • ansona - бессонница (инсомния)  
+sonaive - сонный  
 sona kamar - спальня  
 sona papi - мак снотворный  
-sona tabi - сонный  
 songi - сосна  
 sorbe - сёрбать  
 sos - соус  
@@ -1826,9 +1814,9 @@ suxi - суши
 
 ## T  
 
-tabi - природа (естество, характер)  
+tabia - природа (естество, характер)  
 table - плита  
-table komputa - планшетный компьютер  
+tablete konputer - планшетный компьютер  
 tai - сцена (подмостки, эстрада)  
 talium - таллий  
 tala - замок  
@@ -1965,6 +1953,7 @@ vakilkratia - республика
 vali susan - ландыш  
 valse - вальс  
 valu - ценность  
+valve - кран  
 vampir - вампир (упырь)  
 vampir ohtopus - адский вампир  
 vanadium - ванадий  
@@ -1976,8 +1965,6 @@ vege - овощ
 veganiste - веган  
 vegoyamiste - вегетарианец  
 vei lin - уток  
-vende - продать  
-vende xope - торговля  
 ventur - авантюра  
 venturer - авантюрист  
 venzou orange - мандарин уншиу  
@@ -2042,6 +2029,7 @@ xaxa - шурша́ть
 xayu - акула  
 xe - вещь  
 xe hal - положение (ситуация)  
+xefe pole - столица  
 xefe - шеф  
 xenon - ксенон  
 xia - фракция (клика)  
@@ -2126,7 +2114,7 @@ zetun - олива (маслина)
 zetun zete - оливковое масло  
 zeze - двукрылое  
 zi - буква (символ, иероглиф)  
-zi forma - шрифт  
+zi forme - шрифт  
 zi seri - алфавит  
 zikura - зиккурат  
 Zimbabue - Зимбабве  
