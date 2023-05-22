@@ -38,7 +38,8 @@ equality sign is laid over the Earth.
 #### Where Pandunia's words come from?
 
 Pandunia's words come from all parts of the world.
-Go to the
+Read the [article about world words](101_dunia_lexi.md) for more details,
+and see the
 [Pandunia lexe a dunia karte](http://www.pandunia.info/lexikarta/index.html)
 pages to see where every Pandunia word is from on a world map.
 
@@ -46,21 +47,6 @@ In our opinion the world language should be a mix of all languages in the world.
 That's why Pandunia has at least a few words in common with almost all languages of the world,
 because every language has borrowed at least some international words from the major languages
 from where Pandunia words are borrowed too.
-
-![](http://www.pandunia.info/grafe/logasle.png "Bar chart depicting lexical similarity")  
-**Figure.** This bar chart shows how the percentage of Pandunia's base words that are similar with the source languages.
-
-![](http://www.pandunia.info/grafe/logasar.png "Pie chart depicting influence distribution")  
-**Figure.** This pie chart shows how big influence each source language has on Pandunia.
-
-The figure below is a network diagram of the twenty source languages of Pandunia.
-The circles symbolize source languages.
-The larger the diameter, the more words Pandunia has borrowed from that language.
-Lines between the circles indicate how many Pandunia words the languages connected by the line have in common.
-The thicker the line is, the more words the connected languages have in common with each other and Pandunia.
-
-![](http://www.pandunia.info/grafe/konnete.png "Network diagram of etymologies")  
-**Figure.** This network diagram shows how much Pandunia words the source languages have in common with each other.
 
 
 #### Why Pandunia doesn't take words from all languages?

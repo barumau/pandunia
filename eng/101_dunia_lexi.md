@@ -165,6 +165,25 @@ Normally a word appears in at least two of the source languages.
 In case there isn't a common word, partially similar words can be selected.
 Only in the last resort a word from only one language can be accepted.
 
+
+## Word statistics
+
+![](http://www.pandunia.info/grafe/logasle.png "Bar chart depicting lexical similarity")  
+**Figure 1.** This bar chart shows how the percentage of Pandunia's base words that are similar with the source languages.
+
+![](http://www.pandunia.info/grafe/logasar.png "Pie chart depicting influence distribution")  
+**Figure 2.** This pie chart shows how big influence each source language has on Pandunia.
+
+![](http://www.pandunia.info/grafe/konnete.png "Network diagram of etymologies")  
+**Figure 3.** This network diagram shows how much Pandunia words the source languages have in common with each other.
+
+Figure 3 is a network diagram of the 21 source languages of Pandunia.
+The circles symbolize source languages.
+The larger the diameter, the more words Pandunia has borrowed from that language.
+Lines between the circles indicate how many Pandunia words the languages connected by the line have in common.
+The thicker the line is, the more words the connected languages have in common with each other and Pandunia.
+
+
 ## Examples
 
 ### Selecting the word for 'language'
