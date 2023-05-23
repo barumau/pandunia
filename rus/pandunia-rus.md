@@ -789,7 +789,7 @@ in verse jen - интроверт
 iode - йод  
 IP adres - IP-адрес  
 iridium - иридий  
-ironi - ирония  
+ironia - ирония  
 islamisme - ислам (мусульманство)  
 isme - идеология  
 ite - камень (камешек)  
@@ -946,6 +946,7 @@ ke tipe - какой
 Keme - Древний Египет  
 ken - знать (ведать)  
 • rekene - узнать  
+kenation - познание  
 kenelogia - эпистемология  
 kenevol - интерес (любопытство)  
 kenevolike - интересный  
@@ -1088,7 +1089,7 @@ letus - салат-латук
 leu - левый  
 lexe - слово (речь)  
 lexal - лексический  
-lexasle - этимология  
+lexaslia - этимология  
 lexeme - лексема  
 lexe fen - слог  
 lexe gense - род в грамматике  

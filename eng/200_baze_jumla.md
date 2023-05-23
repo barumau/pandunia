@@ -628,15 +628,15 @@ Are you thirsty?
 
 ## Part 3. Communication
 
-### maf <small>sorry, pardon</small>
+### af <small>sorry, pardon</small>
 
-**maf! mi no aha.**
+**af! mi no aha.**
 Sorry, I don't understand.
 
-**maf! ye es ke?**
+**af! ye es ke?**
 Excuse me, what's this?
 
-**maf. tu su nam es ke?**
+**af. tu su nam es ke?**
 Excuse me, what's your name?
 
 
@@ -648,7 +648,7 @@ Do you understand me?
 **mi aha.**
 I understand.
 
-**maf. mi no aha tu.**
+**af. mi no aha tu.**
 Sorry. I don't understand you.
 
 **mi no bas aha tu.**
@@ -681,7 +681,7 @@ I can speak a little Pandunia.
 **mi no bil englix.**
 I can't speak English.
 
-**maf. mi no bil tu su baxe.**
+**af. mi no bil tu su baxe.**
 Sorry, I can't speak your language.
 
 

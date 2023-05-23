@@ -8,12 +8,14 @@
  - a xukre de  
  - a ye  
  - adilkan  
+ - af  
  - agral  
  - agre deha  
  - agrobiologia  
  - agrokulture  
  - airobiike  
  - ais xarbe  
+ - akle  
  - algogenike  
  - algometria  
  - alia  
@@ -466,6 +468,7 @@
  - kasul  
  - kata ja  
  - katana  
+ - kenation  
  - kentaur  
  - keton  
  - kexa broxa  
@@ -521,6 +524,7 @@
  - leter  
  - letion  
  - leturer  
+ - lexasle  
  - lexofilia  
  - lexograme  
  - lexunife  
@@ -553,7 +557,6 @@
  - ma pa  
  - ma sis  
  - madisme  
- - maf  
  - magi bala  
  - maina  
  - makinike  
@@ -780,7 +783,6 @@
  - rade longta  
  - radion  
  - rage  
- - ratekan  
  - ratibu li  
  - re  
  - Rea  
@@ -1872,7 +1874,7 @@ etap, faza - faze
 Etiopia - Etiopia  
 etniczny - zuku di  
 etyka - moral logia  
-etymologia - lexasle  
+etymologia - lexaslia  
 Eurazja - Eurasia  
 euro (€) - euro  
 europ - europium  
@@ -2173,10 +2175,10 @@ Irak - Iraqi
 Iran - Iran  
 Irlandia - Eire  
 Irlandia Północna - Norde Aire  
-ironia - ironi  
+ironia - ironia  
 ironia dramatyczna - dramatike ironia  
 ironia sytuacyjna - xe hal ironi  
-ironiczny - ironi di  
+ironiczny - ironike  
 iryd - iridium  
 Islam - islamisme  
 islamofobia - islamofobia  
@@ -3501,7 +3503,7 @@ przejazd, przewóz, tranzyt, transport - trapas
 przekąska - xiu yam  
 przekątny - tragonike  
 przepołowić (podzielić przez dwa) - dufenife  
-przepraszam! - maf  
+przepraszam! - af  
 przepękla ogórkowata (balsamka ogórkowata) - kali melon  
 przesilenie - solostate  
 przesilenie letnie (dzień srodka lata) - garma mosim medi den  
@@ -3534,7 +3536,6 @@ przymiotnik - sifa loge
 przymus - musta  
 przyprawa - masala  
 przyrostek (sufiks) - posfixe  
-przyrostek dla wykonawcy - ja  
 przystanek autobusowy - bus halte  
 przystojny, atrakcyjny, ładny - hau vide di  
 przyszłość - pos zaman  

@@ -469,7 +469,7 @@ some, a(n)
 **mi no baxe pandunia...**
 = I don't speak Pandunia...  
 <big>☺</big>
-**maf! sual da yam cai?**
+**af! sual da yam cai?**
 = Pardon! Will he have tea?  
 <big>☻</big>
 **no. da no yam cai. da yam kafe.**
@@ -575,7 +575,7 @@ Try translating these sentences from English to Pandunia.
 
 **pos**
 after  
-**maf**
+**af**
 pardon, sorry  
 **minute**
 minute  

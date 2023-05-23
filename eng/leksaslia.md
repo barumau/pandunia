@@ -8,6 +8,7 @@
 **ade** *habit (custom)* ← Arabic: عادة (ʿāda), Hindi:आदत (ādat), Malay:adat, Turkish:adet, Swahili:ada, Hausa:al'ada  
 **adil** *just (fair, righteous)* ← Arabic: عدل (’adl), Malay:Turkish:adil, Swahili:adili, Hausa:adalci + Hindi:अदालत (adālat)  
 **adres** *address* ← English:address, French:adresse, deu:Adresse, Russian:адрес (adres), Persian: آدرس‎ (âdres), Turkish:adres  
+**af** *sorry (pardon)* ← Arabic: مُعَاف‎ (muʿāf), Hindi:माफ़ (māf), Bengali:মাফ (maph), Malay:maaf, Swahili:afu, Turkish:af, Fulani:yaafaade, Hausa:yafe  
 **Afrika** *Africa* ← Arabic:(ʾafrīqiyā), Wolof:Afrig, Fulani:Afirik, Amharic:(ʾäfriḳa), Hausa:Afirka, Yoruba:Afirika, Oromo:Afrikaa, Swahili:Afrika, hau:Afirka, English:Spanish:Portuguese:Africa, French:Afrique, Russian:Африка (Afrika), Hindi:अफ़्रीका (afrīkā), Bengali:আফ্রিকা (aphrika), Japanese:アフリカ (Afurika), Korean:프리카 (Apeurika)  
 **agile** *agile* ← English:French:agile, Spanish:Portuguese:ágil, deu:agil  
 **agre** *cultivate (farm)* ← deu:English:French:Spanish:Portuguese:agri-, Russian:агри- (agri-), Turkish:agro-  
@@ -18,6 +19,7 @@
 **ajabe** *wonder (awe, marvel)* ← Arabic: عَجَب‎ (ʿajab), Swahili:ajabu, Hausa:al'ajabi + Persian: عجب‎ ('ajab), Hindi:अजीब (ajīb), Bengali:আজব (ajôb), Turkish:acayip  
 **akare** *tick (mite)* ← Spanish:Portuguese:ácaro, French:acarien, Turkish:acari  
 **akasia** *acacia* ← English:French:Spanish:Portuguese:acacia, Russian:акация (akaciya), Malay:akasia, Turkish:akasya  
+**akle** *sense (reason, intellect)* ← Arabic: عَقْل‎ (ʕaql), Persian: عقل‎ ('aql), Hindi:अक़्ल (aqla), Bengali:আকল (akol), Malay:akal, Fulani:hakkil, Wolof:hakilo, Hausa:hankali, Swahili:akili, Turkish:akıl  
 **akrabe** *scorpion (Scorpio)* ← Arabic: عَقْرَب (ʿaqrab), Turkish:akrep, Spanish:alacrán, Portuguese:lacrau, Filipino:alakdan, Hindi:अकरब (akrab) + Malay:Akrab, Swahili:Akarabu  
 **ale** *other* ← Greek:άλλος (állos), Latin:alius, English:French:allo-, Portuguese:Spanish:alo-, Russian: алло- (allo-)  
 **alga** *alga* ← English:Spanish:Portuguese:Polish:Malay:alga, French:algue, deu:Alge, Turkish:alg, Persian:(âlg)  
@@ -593,12 +595,11 @@
 **iode** *iodine* ← English:iodine, French:iode, Spanish:yodo (iodo), Portuguese:iodo, Russian:йод, Japanese:ヨウ素, Korean:요오드, Vietnamese:iot, Hindi:आयोडिन, Bengali:আয়োডিন, Malay:yodium, Swahili:iodini, Arabic: يود  
 **ion** *ion* ← English:French:Spanish:ion, Russian:ион (ion), Turkish:iyon  
 **iridium** *iridium* ← English:iridium, French:iridium, Spanish:iridio, Portuguese:irídio, Russian:иридий, Japanese:イリジウム, Korean:이리듐, Vietnamese:iriđi, Hindi:इरिडियम, Bengali:ইরিডিয়াম, Malay:iridium, Swahili:iridi, Arabic: إريديوم  
-**ironi** *irony* ← English:irony, Spanish:ironía, Portuguese:ironia, French:ironie, Russian:иро́ния (ironija), Japanese:アイロニー (aironī)  
+**ironia** *irony* ← English:irony, deu:French:ironie, Spanish:ironía, Portuguese:ironia, fra:ironie, Russian:ирония (ironija), Japanese:アイロニー (aironī)  
 **islam** *submission (surrender)* ← Arabic:(ʾislām), Persian:(taslim), Turkish:teslim  
 **isme** *advocacy (promotion, -ism)* ← Thai:เสริม (soem) + English:-ism, French:-isme, Spanish:Portuguese:-ismo, Russian:-изм (-izm), Malay:-isme  
 **ite** *stone (piece of rock)* ← English:French:-ite, Spanish:Portuguese:-ito, Russian:-ит (-it) + (brick) Bengali:ইট (iṭ), Hindi:ईंट (ī̃ṭ), Thai:อิฐ (it), Khmer:ឥដ្ឋ (ʼət), Burmese: အုတ် (ut)  
 **itis** *inflammation (-itis)* ← English:Spanish:-itis, French:Portuguese:-ite, Russian:-ит (-it)  
-**ja** *doer (agent, actor, -er, -ist)* ← Mandarin:者 (zhě);家 (jiă), Korean:자 (ja), Vietnamese:gia  
 **jai** *win (triumph, victory, gain, succeed)* ← Hindi:जय (jay), Bengali:জয় (jôy), Telugu:జయ (jaya), Malay:jaya, Thai:ชัย (chai), Khmer:ជ័យ (cɨy), Burmese:ဇေယျ (jeyya)  
 **jain din** *Jainism* ← Hindi:Marathi:जैन (jain), Thai:เชน (chen), English:jainism, French:jaïnisme, Russian:джайнизм (džaynizm)  
 **jake** *jacket* ← English:jacket, Mandarin:夹克 (jiākè), Russian:жакет (žaket), deu:Jacke, Portuguese:jaqueta  
@@ -889,7 +890,6 @@
 **luxe** *lush* ← English:lush; luxury, French:luxe, Spanish:lujo, Portuguese:luxo, Russian:люкс (lyuks), Turkish:lüks  
 **ma** *mother (mom, mama)* ← Portuguese:mãe + Mandarin:妈 (mā), Vietnamese:má, Bengali:মা (ma), Hindi:मां (mã) + English:Swahili:mama, Spanish:mamá, French:maman, Russian:мама (mama), Japanese:ママ (mama), Korean:엄마 (eomma)  
 **made** *matter (substance)* ← English:matter, French:matière, Spanish:Portuguese:materia, Russian:материя (materiya), deu:Materie, Malay:materi + Arabic: مادة (mādda), Persian: ماده (mâdde), Swahili:maada, Turkish:madde + Cantonese:物 (mat6), Vietnamese:vật  
-**maf** *pardon (forgiveness; sorry)* ← Arabic: مُعَاف‎ (muʿāf), Hindi:माफ़ (māf), Bengali:মাফ (maph), Malay:maaf, Swahili:afu, Turkish:af, Fulani:yaafaade, Hausa:yafe  
 **magenium** *magnesium* ← English:magnesium, French:magnésium, Spanish:magnesio, Portuguese:magnésio, Russian:магний, Mandarin:镁 (měi), Japanese:マグネシウム, Korean:마그네슘, Vietnamese:magiê, Hindi:मैग्नेशियम, Bengali:ম্যাগনেসিয়াম, Malay:magnesium, Swahili:magnesi, Arabic: مغنيسيوم  
 **magenta** *magenta (fuchsia)* ← English:deu:French:Spanish:Portuguese:Malay:magenta, Russian:маджента (madženta), Arabic: ماجنتي (majinati), Turkish:majenta, Hindi:मैजेंटा (maijenta), Japanese:マゼンタ (mazenta)  
 **magia** *magic* ← Persian: مغ‎ (moğ), Arabic: مُوغِيّ‎ (mūḡiyy), Greek:μάγος (magos), English:magic, French:magie, Spanish:Portuguese:magia, Russian:магия (magiya) + Mandarin:魔 (mó), Japanese:魔 (ma), Korean:마 (ma), Vietnamese:ma  

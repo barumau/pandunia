@@ -142,9 +142,9 @@ annos - doze
 anoppi - per ma  
 ansiosta - a xukre de  
 antaa - don  
-antaa anteeksi - maf  
+antaa anteeksi - af  
 Antarktis - Antartika  
-anteeksi - maf  
+anteeksi - af  
 anteliaisuus (vieraanvaraisuus, hyväntekeväisyys) - karim  
 antelias (avokätinen) - donive  
 antenni - antena  
@@ -511,7 +511,7 @@ Etiopia - Etiopia
 etninen - zuku di  
 että - ki  
 etuliite (prefiksi) - prefixe  
-etymologia - lexasle  
+etymologia - lexaslia  
 etyyli - etil  
 etäisyys (kaukaisuus) - teleta  
 eugeniikka - haugenisme  
@@ -928,8 +928,8 @@ Irak - Iraqi
 Iran - Iran  
 iridium - iridium  
 Irlanti - Eire  
-ironia - ironi  
-ironinen - ironi di  
+ironia - ironia  
+ironinen - ironike  
 irvistys - grimas  
 isku (šokki) - xoke  
 islam - islamisme  
@@ -1077,7 +1077,8 @@ järjestellä (hallinnoida, organisoida, manageroida) - nome
 järjestelmä (systeemi) - sistem  
 järjestys - ratibu  
 järkeillä (käydä järkeen) - rate  
-järki (järkeily, päättely) - ration  
+järkeily (päättely) - ration  
+järki (mieli) - akle  
 jäsen (osatekijä, komponentti) - mer  
 jäteastia (roskakori, roskis) - lasa tong  
 jättilaukka - dai lasun  
@@ -1422,6 +1423,7 @@ kloori - klor
 koala - koala  
 koboltti - kobalte  
 koettaa (haastaa, koetella, testata; koe, testi) - teste  
+kognitio (tajuaminen) - kenation  
 kohtalo (määrä) - kisma  
 kohtelias (kiltti) - keci  
 kohti (päin) - pro  
@@ -2356,7 +2358,6 @@ nestemäinen - darike
 nettisivu - nete loke  
 neuvo - sel  
 neuvontantaja (mentori) - mentor  
-neuvosto (raati) - ratekan  
 Nevis - Nevis  
 newton (N) - niuton  
 niedziela - solden  
@@ -3199,6 +3200,7 @@ Samoa - Samoa
 San Marino - Sante Marino  
 sana - lexe  
 sanaluettelo - lexe liste  
+sanan alkuperä - lexasle  
 sanasto - lexe jama  
 sanastollinen - lexal  
 sanella - ditate  
@@ -3217,6 +3219,7 @@ sari - sari
 sarja - seria  
 sarjakuva - grafe kata  
 sarjan jakso - filme babu  
+sarkasmi - lexal ironia  
 sarvi - korne  
 sarvikuono - kargadan:  
 saslik - xix karne  
@@ -3679,7 +3682,6 @@ teidän - tumen su
 teippi (liimanauha) - glute bande  
 teismi (jumalusko) - deisme  
 teisti - deiste  
-tekijä (aikaansaaja) - ja  
 tekijä (toimija) - ater  
 tekijä (toimija) - ater  
 tekijä (toimija) - feter  

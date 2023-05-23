@@ -1,4 +1,4 @@
-morfe|pandunia|info||logasle|english|doice|franse|espanya|portugal|rus|parsi|hindi|bangla|tamil|malayu|arabi|turki|suahili|hausa|putong han|yut han|nipon|cosen|viet|esperanto|suomi|polski
+morfe|pandunia|info||lexasle|english|doice|franse|espanya|portugal|rus|parsi|hindi|bangla|tamil|malayu|arabi|turki|suahili|hausa|putong han|yut han|nipon|cosen|viet|esperanto|suomi|polski
 ----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------
 A|A||||A||A|A|A|A||A|A||A|A|A|A||A||A|A|A|A|A|A
 a-|a|||fra:à, spa:por:a, eng:a-;ad-, rus:а- (a-), hau:a + ful:haa|by (at, in, on)||a (dans, en, chez)|en (a)|em|в (на)|||||||||a|在|||||ĉe (en, sur)|luona (-lla, -ssa)|przy, z, na, w, u
@@ -42,6 +42,8 @@ adil.kan|adilkan||||court of justice|||||||||||||||||||||oikeus (käräjätalo)|
 adil.ta|adilta||||justice||justice|justicia|justiça|справедливость||न्याय|আদালত||keadilan||adalet|||正义|||||justeco|oikeus|sprawiedliwość
 adres|adres|||eng:address, fra:adresse, deu:Adresse, rus:адрес (adres), fas: آدرس‎ (âdres), tur:adres|address|Adresse|adresse|dirección|endereço|адрес|آدرس‎|पता|ঠিকানা (পাত্তা)||cerah (alamat)|عِنْوَان‎|adres|anwani||地址|地址|住所|주소|địa chỉ|adreso|osoite|adres
 adres. Gram.|adres grame||||@ symbol||arobase (@)|arroba (@)||||||||||||||||||@-merkki|małpa (znak na
+af|af|||ara: مُعَاف‎ (muʿāf), hin:माफ़ (māf), ben:মাফ (maph), may:maaf, swa:afu, tur:af, ful:yaafaade, hau:yafe|sorry (pardon)|||perdón||||माफ़|||maaf||af (affetme)||yafe|||ごめんなさい|||pardono|anteeksi|przepraszam!
+af-|af||||forgive (pardon)||pardonner|perdonar (disculpar)|perdoar (desculpar)|||माफ करना|||memaafkan||affetmek|kusamehe|||||||pardoni|antaa anteeksi|
 afgan.stan.|Afganestan|gogia|AF||Afghanistan||Afghanistan|Afganistán|Afeganistão|Афганистан||अफ़्ग़ानिस्तान|||Afghanistan||Afganistan|||阿富汗||アフガニスタン|아프가니스탄||Afganujo, Afganio|Afganistan|Afganistan
 Afrika|Afrika|||ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika, hau:Afirka, eng:spa:por:Africa, fra:Afrique, rus:Африка (Afrika), hin:अफ़्रीका (afrīkā), ben:আফ্রিকা (aphrika), jpn:アフリカ (Afurika), kor:프리카 (Apeurika)|Africa||Afrique|África|||||||||||Afirka||||||Afriko|Afrikka|Afryka
 agile|agile|||eng:fra:agile, spa:por:ágil, deu:agil|agile|agil|agile|ágil|ágil|подвижный||फुर्तीला|||lincah||çevik|||灵活的|||||lerta|ketterä|zwinny, sprawny
@@ -72,6 +74,7 @@ ajab.if-|ajabife||||amaze||éblouir (étonner, stupéfier, surprendre)|asombrar|
 ajab.ik-|ajabike||||amazing (astonishing)|||maravilloso (asombroso)||||||||||||||||||ihmeellinen (ällistyttävä, merkillinen)|zachwycający (zdumiewający, zadziwiający)
 akare|akare|bio|Acari|spa:por:ácaro, fra:acarien, tur:acari|tick (mite)||acarien|garrapata (ácaro)|carrapato (ácaros)|клещ (лепта)||||||||||蜱 (螨)||壁蝨||||punkki|klescz (roztocze)
 akasia|akasia|bio|Acacia|eng:fra:spa:por:acacia, rus:акация (akaciya), may:akasia, tur:akasya|acacia|||||акация|||||||akasya|muwati|||||||akacio|akaasia|akacja
+akl-|akle|||ara: عَقْل‎ (ʕaql), fas: عقل‎ ('aql), hin:अक़्ल (aqla), ben:আকল (akol), may:akal, ful:hakkil, wol:hakilo, hau:hankali, swa:akili, tur:akıl|sense (reason, intellect)||||||عقل‎|||||||akili|hankali|||||||järki (mieli)|
 akrab|akrabe|bio|Scorpiones|ara: عَقْرَب (ʿaqrab), tur:akrep, spa:alacrán, por:lacrau, tgl:alakdan, hin:अकरब (akrab) + may:Akrab, swa:Akarabu|scorpion (Scorpio)||scorpion|escorpión (alacrán)|escorpião (lacrau)|скорпион||बिच्छू|বিছা||kala jengking (Akrab)|عَقْرَب‎|akrep|nge (Akarabu)||蝎子 (天蝎座)||蠍 (天蝎宮)|전갈 (천갈궁)|bò cạp|skorpio|skorpioni|skorpion
 al.|ale|||ell:άλλος (állos), ltn:alius, eng:fra:allo-, por:spa:alo-, rus: алло- (allo-)|other||autre|otro|outro|другой (второй)||अन्य|||lainnya||diğer|||另一||他の|||alia|muu (toinen)|inny
 al.di|ale di||||otherwise (else)||autrement|sino|||||||||||||||||alie|muuten (toisin)|w innym wypadku (inaczej)
@@ -1772,8 +1775,8 @@ IP.adres|IP adres||||IP address|||dirección de IP||IP-адрес|||||||ip adres
 Iran|Iran|gogia|IR||Iran|||Irán|||||||||||||||||Iranio|Iran|Iran
 Iraqi|Iraqi|gogia|IQ||Iraq|||Iraq|||||||||||||||||Irakio|Irak|Irak
 irid.ium|iridium|yum 077|Ir|eng:iridium, fra:iridium, spa:iridio, por:irídio, rus:иридий, jpn:イリジウム, kor:이리듐, vie:iriđi, hin:इरिडियम, ben:ইরিডিয়াম, may:iridium, swa:iridi, ara: إريديوم|iridium||iridium|iridio|irídio|иридий||इरिडियम|ইরিডিয়াম||iridium|إريديوم|i̇ridyum|iridi||铱||イリジウム|이리듐|iriđi|iridio|iridium|iryd
-ironi|ironi|||eng:irony, spa:ironía, por:ironia, fra:ironie, rus:иро́ния (ironija), jpn:アイロニー (aironī)|irony||ironie|ironía|ironia|ирония||||||||||||反語 (皮肉)||||ironia|ironia
-ironi.di|ironi di||||ironic|||irónico||||||||||||||反語的||||ironinen|ironiczny
+iron.ia|ironia|||eng:irony, deu:fra:ironie, spa:ironía, por:ironia, fra:ironie, rus:ирония (ironija), jpn:アイロニー (aironī)|irony|Ironie|ironie|ironía|ironia|ирония||||||||||||反語 (皮肉)||||ironia|ironia
+iron.ik-|ironike||||ironic|||irónico||||||||||||||反語的||||ironinen|ironiczny
 islam|islam|||ara:(ʾislām), fas:(taslim), tur:teslim|submission (surrender)||soumission|sumisión (rendición)||||||||||||||||||alistuminen (antautuminen)|poddanie się, uległość, pokora, posłuszeństwo
 islam.fob.ia|islamofobia||||islamophobia|||islamofobia||||||||||||||||||islamofobia (islamin pelko)|islamofobia
 islam.ism-|islamisme||||Islam||Islam|islamismo (islam)|islã|ислам (мусульманство)||इस्लाम|ইসলাম||agama Islam|الْإِسْلَام|İslam|Uislamu||回教 (伊斯蘭教)||イスラム教|이슬람교 (회교)|Islam giáo (Hồi giáo)|islamo|islam|Islam
@@ -1783,11 +1786,10 @@ Islande|Islande|gogia|IS||Iceland|||Islandia|||||||||||||||||Islando|Islanti|Isl
 ism-|isme|||tha:เสริม (soem) + eng:-ism, fra:-isme, spa:por:-ismo, rus:-изм (-izm), may:-isme|advocacy (promotion, -ism)|||ideología (doctrina, -ismo)||идеология||||||||||||主义|主義||ismo|aate (aatteen kannatus, ismi)|
 israel|Israel|gogia|IL||Israel|||Israel|||||||||||||||||Israelo|Israel|Izrael
 ist-|iste||||advocate (promoter, supporter, adherent)|||||||||||||||||||||kannattaja (tukija, -isti)|
+it-|ite|||eng:fra:-ite, spa:por:-ito, rus:-ит (-it) + (brick) ben:ইট (iṭ), hin:ईंट (ī̃ṭ), tha:อิฐ (it), khm:ឥដ្ឋ (ʼət), mya: အုတ် (ut)|stone (piece of rock)||pierre|piedra|pedra|камень (камешек)||||||||||石 (岩)|||||ŝtono|kivi (hippu)|kamień (kawał skały)
 ital.ia|Italia|gogia|IT||Italy|||Italia|||||||||||||||||Italio|Italia|Italia, Włochy
-ite|ite|||eng:fra:-ite, spa:por:-ito, rus:-ит (-it) + (brick) ben:ইট (iṭ), hin:ईंट (ī̃ṭ), tha:อิฐ (it), khm:ឥដ្ឋ (ʼət), mya: အုတ် (ut)|stone (piece of rock)||pierre|piedra|pedra|камень (камешек)||||||||||石 (岩)|||||ŝtono|kivi (hippu)|kamień (kawał skały)
 itis|itis|||eng:spa:-itis, fra:por:-ite, rus:-ит (-it)|inflammation (-itis)||inflammation|inflamación|inflamaçao|воспаление||||||||||炎症||||||tulehdus|zapalenie
 J|J||||J||J|J|J|J||J|J||J|J|J|J||J||J|J|J|J|J|J
-ja|ja|||zho:者 (zhě);家 (jiă), kor:자 (ja), vie:gia|doer (agent, actor, -er, -ist)|||hacedor (perpetrador)||||||||||||者 (人, 家)||者 (人, 家)|||isto (anto)|tekijä (aikaansaaja)|przyrostek dla wykonawcy
 jai|jai|||hin:जय (jay), ben:জয় (jôy), tel:జయ (jaya), may:jaya, tha:ชัย (chai), khm:ជ័យ (cɨy), mya:ဇေယျ (jeyya)|win (triumph, victory, gain, succeed)||vaincre|gañar (vencer, triunfar; victoria)||победить|||জয় (বিজয়, ফতে )||||||||||||venki|voittaa (voitto)|zwyciężyć (wygrać; zwycięstwo, wygrana)
 jai.bai|jaibai||||outcome (victory or defeat)|||||||||||||||勝敗||勝敗|||||
 jai.ja|jaija||||winner (victor)|||||||||||||||||||||voittaja|
@@ -2094,6 +2096,7 @@ ken-dis-|• diskene||||distinguish (tell apart)|||diferenciar (distinguir)|||||
 ken-kon.aj-|• konkenaje||||information (communicable knowledge)|||información|||||||||||||||||informacio|tieto|informacja
 ken-re-|• rekene||||recognize|erkennen (wiederkennen)|reconnaître|roconocer|roconhecer|узнать|||||||||||||||rekoni|tunnistaa|
 ken.aj-|kenaje||||knowledge|||conocimiento|||||||||||||||||scio|tieto (tietämys)|wiedza
+ken.at.ion-|kenation||||cognition|Kognition (Erkenntnis)|connaissance|cognición|cognição|познание||||||||||||認知||||kognitio (tajuaminen)|
 ken.iv-an|• ankenive||||ignorant (unaware)|||||||||||||||||||||tietämätön|
 ken.iz-|kenize||||communicate (inform about)|||comunicar (informar)||||||||||||||||||tiedottaa (informoida)|poinformować, informować, zakomunikować, komunikować
 ken.log.ia|kenelogia||||epistemology||épistémologie|gnoseología (epistemología)|epistemologia|эпистемология||ज्ञानमीमांसा|জ্ঞানতত্ত্ব||epistemologi||bilgi kuramı (epistemoloji)|||认识论 (知识论)||認識論|인식론|nhận thức luận|sciteorio (epistemologio)|tietoteoria (epistemologia)|epistemologia (gnoseologia, teoria poznania)
@@ -2402,8 +2405,9 @@ leu.di|leu di||||left hand|||izquierdo|||||||||||||||||||lewy (lewostronny, z le
 leu.ist-|leuiste||||leftist (left-winger)|||izquerdista||||||||||||||||||vasemmistolainen|lewicowiec (lewak)
 lex-|lexe|||deu:eng:fra:spa:por:lex-, rus:лекс- (leks-), may:leks-|word|Wort|mot|palabra (vocablo)|palavra (vocábulo)|слово (речь)||शब्द|শব্দ||kata||sözcük (kelime)|neno||词||言葉|말|từ|vorto|sana|słowo
 lex.al|lexal||||lexical||lexical|léxico|léxico|лексический|||||||||||||||vorta|sanastollinen|słowny (leksykalny)
-lex.al.iron.ia|lexal ironia||||verbal irony (sarcasm)||||||||||||||||||||||sarkazm
-lex.asl-|lexasle||||etymology||étymologie|etimología|etimologia|этимология|||||||||||||||etimologio|etymologia|etymologia
+lex.al.iron.ia|lexal ironia||||verbal irony (sarcasm)||||||علم اشتقاق‎|||||||||||||||sarkasmi|sarkazm
+lex.asl-|lexasle||||provenance of word||||||اشتقاق‎|||||||||||||||sanan alkuperä|
+lex.asl.ia|lexaslia||||etymology (science of history of words)||étymologie|etimología|etimologia|этимология|||||||||||||||etimologio|etymologia|etymologia
 lex.em-|lexeme||||lexeme|Lexeme|lexème|lexema|lexema|лексема||शब्दिम |||leksem|||||词位||語彙素|어휘소|từ vị|leksemo|lekseemi|leksem
 lex.fen|lexe fen||||syllable||syllabe|sílaba|sílaba|слог||शब्दांश|||suku kata||hece|silabi||音节||音節|음절|âm tiết|silabo|tavu|sylaba (zgłoska)
 lex.fil.ia|lexofilia||||logophilia|||||||||||||||||||||logofilia|
@@ -2538,8 +2542,6 @@ mad.ik.|madike||||material (physical)|||material||||||||||||||||||aineellinen (m
 mad.ism.|madisme||||materialism||matérialisme|materialismo|materialismo|материализм||||||||||唯物论 (唯物主义)||唯物論 (唯物主義)|||materiismo|materialismi|
 madagas-|madagas||||Malagasy|||malgache||||||||||||||||||madagaskarilainen (malagassi)|madagaskarski; malagaski
 madagas.ia|Madagasia|gogia|MG||Madagascar|||Madagascar||||||||||||||||||Madagaskar|Madagaskar
-maf|maf|||ara: مُعَاف‎ (muʿāf), hin:माफ़ (māf), ben:মাফ (maph), may:maaf, swa:afu, tur:af, ful:yaafaade, hau:yafe|pardon (forgiveness; sorry)|||perdón||||माफ़|||maaf||af (affetme)||yafe|||ごめんなさい|||pardono|anteeksi|przepraszam!
-maf-|maf||||forgive (pardon)||pardonner|perdonar (disculpar)|perdoar (desculpar)|||माफ करना|||memaafkan||affetmek|kusamehe|||||||pardoni|antaa anteeksi|
 mag-|mage||||conjure (do magic, cast a spell; spell)|zaubern||||||||||||||||||||taikoa (taika)|zaklecie
 mag+er|mager||||magician (sorcerer, mage, wizard)|||mago|mago|чародей (маг)||||||||||魔法师||魔法使い||||taikuri|magik, czarownik
 mag+ia|magia|||fas: مغ‎ (moğ), ara: مُوغِيّ‎ (mūḡiyy), ell:μάγος (magos), eng:magic, fra:magie, spa:por:magia, rus:магия (magiya) + zho:魔 (mó), jpn:魔 (ma), kor:마 (ma), vie:ma|magic|||magia|||||||||||||||||magio|taikuus (magia, noituus)|magia
@@ -3000,8 +3002,8 @@ nefr.|nefre|||eng:fra:nephro-, spa:por:nefro-, deu:Niere + rus:нефрит (nef
 nefr.alg.ia|nefralgia||||nephralgia (pain of the kidneys)|||||||||||||||||||||munuaiskipu|
 nefr.ex.tom.ia|nefrextomia||||nefrectomy|||nefrectomía||||||||||||||||||munuaisenpoistoleikkaus|nefrektomia
 nefr.itis.|nefritis||||nephritis||néphrite|nefritis|nefrite|нефрит|||||radang ginjal (nefritis)|||||肾炎||||||munuaistulehdus (nefriitti)|zapalenie nerek
+neg-|nege|||eng:negate, deu:negieren, fra:nier; négatif, spa:por:negar, rus:негативный (negativniy)|deny (negate)|negieren (verneinen)|nier|rechazar (negar)||||||||||||||||||kieltää (kiistää)|negować
 neg-de.|• denege||||deny (refuse, reject, turn away)||dénier|denegar|denegar|||||||||||||||||kieltää (evätä)|odmówić (odrzucić)
-neg.|nege|||eng:negate, deu:negieren, fra:nier; négatif, spa:por:negar, rus:негативный (negativniy)|deny (negate)|negieren (verneinen)|nier|rechazar (negar)||||||||||||||||||kieltää (kiistää)|negować
 neg.at.iv.|negative||||negative|negativ|négatif|negativo|negativo|негативный|||||||olumsuz|||||||||kielteinen (negatiivinen)|
 nekr.|nekre|||eng:spa:por:necro-, fra:nécro-, deu:nekro-, rus:некро- (nekro-)|corpse (dead body)||cadavre (corps)|cadáver|cadáver|труп (мёртвое тело)||लाश (शव)|মৃতদেহ (লাশ)||mayat (jenazah)|جُثَّة|ceset (naaş)|mfu (maiti)||尸体||死体|시체|xác (thi thể, tử thi)|kadavro|ruumis (vainaja)|zwłoki (trup)
 nekr.fil.ia|nekrofilia||||nechrophilia||nécrophilie|necrofilia|necrofilia|некрофилия|||||||nekrofili|||恋尸癖||屍姦 (死体性愛)||||nekrofilia|
@@ -3620,9 +3622,8 @@ ras.ism-|rasisme||||racism|||racismo|||||||||||||||||racismo|rasismi (rotuoppi)|
 ras.ist-|rasiste||||racist|||racista|||||||||||||||||racisto|rasisti|rasista
 ras.mid.ik-|rase midike||||interracial||interracial|interracial||межрасовый|||||||||||||||interrasa|rotujen välinen|międzyrasowy
 rat-|rate|||lat:ratio, eng:rational, fra:rationnel, spa:por:racional + deu:Rat, rus:рада (rada), pol:rada|make sense (reason)|||tener sentido||||||||||||||||||järkeillä (käydä järkeen)|mieć sens
-rat.ion:|ration||||reason (reasoning, rational thinking)||raisonnement|razonamiento|razoamento|рассуждение||||||||||推论||推論|||rezono|järki (järkeily, päättely)|rozum, rozsądek
-rat.ion.al|rational||||rational (reasonable)|||racional|racional|||||||||||||||||järjellinen (järkiperäinen, rationaalinen)|racjonalny, rozsądny
-rat.kan:|ratekan||||village council|||||||||||||||||||||neuvosto (raati)|
+rat.ion:|ration||||reasoning (rational thinking)||raisonnement|razonamiento|razoamento|рассуждение||||||||||推论||推論|||rezono|järkeily (päättely)|rozum, rozsądek
+rat.ion.al|rational||||rational (related to reasoning)|||racional|racional|||||||||||||||||järjellinen (järkiperäinen, rationaalinen)|racjonalny, rozsądny
 rat.log.ia|ratologia||||logic||logique|lógica|lógica|логика||तर्क|মন্তেক||logika (mantik)|مَنْطِق‎|mantık|mantiki||论理 (逻辑)||論理|논리|luận lý (lô-gíc)|logiko|logiikka|logika, dedukcja
 rat.log.ik.|ratologike||||logical|||logical|||||||||||||||||logika|looginen|logiczny
 ratibu|ratibu||||order (arrangement, sequence)||ordre|orden|ordem|установка|||||tatatertib|||taratibu||常规 (次序)||順||||järjestys|porządek

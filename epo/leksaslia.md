@@ -8,6 +8,7 @@
 **ade** *kutimo* ← araba: عادة (ʿāda), hindia:आदत (ādat), malaja:adat, turka:adet, svahila:ada, haŭsa:al'ada  
 **adil** *justa* ← araba: عدل (’adl), malaja:turka:adil, svahila:adili, haŭsa:adalci + hindia:अदालत (adālat)  
 **adres** *adreso* ← angla:address, franca:adresse, deu:Adresse, rusa:адрес (adres), persa: آدرس‎ (âdres), turka:adres  
+**af** *pardono* ← araba: مُعَاف‎ (muʿāf), hindia:माफ़ (māf), bengala:মাফ (maph), malaja:maaf, svahila:afu, turka:af, fula:yaafaade, haŭsa:yafe  
 **Afrika** *Afriko* ← araba:(ʾafrīqiyā), volofa:Afrig, fula:Afirik, amhara:(ʾäfriḳa), haŭsa:Afirka, joruba:Afirika, oroma:Afrikaa, svahila:Afrika, hau:Afirka, angla:hispana:portugala:Africa, franca:Afrique, rusa:Африка (Afrika), hindia:अफ़्रीका (afrīkā), bengala:আফ্রিকা (aphrika), japana:アフリカ (Afurika), korea:프리카 (Apeurika)  
 **agile** *lerta* ← angla:franca:agile, hispana:portugala:ágil, deu:agil  
 **agre** ** ← deu:angla:franca:hispana:portugala:agri-, rusa:агри- (agri-), turka:agro-  
@@ -18,6 +19,7 @@
 **ajabe** ** ← araba: عَجَب‎ (ʿajab), svahila:ajabu, haŭsa:al'ajabi + persa: عجب‎ ('ajab), hindia:अजीब (ajīb), bengala:আজব (ajôb), turka:acayip  
 **akare** ** ← hispana:portugala:ácaro, franca:acarien, turka:acari  
 **akasia** *akacio* ← angla:franca:hispana:portugala:acacia, rusa:акация (akaciya), malaja:akasia, turka:akasya  
+**akle** ** ← araba: عَقْل‎ (ʕaql), persa: عقل‎ ('aql), hindia:अक़्ल (aqla), bengala:আকল (akol), malaja:akal, fula:hakkil, volofa:hakilo, haŭsa:hankali, svahila:akili, turka:akıl  
 **akrabe** *skorpio* ← araba: عَقْرَب (ʿaqrab), turka:akrep, hispana:alacrán, portugala:lacrau, filipina:alakdan, hindia:अकरब (akrab) + malaja:Akrab, svahila:Akarabu  
 **ale** *alia* ← greka:άλλος (állos), latina:alius, angla:franca:allo-, portugala:hispana:alo-, rusa: алло- (allo-)  
 **alga** *algo* ← angla:hispana:portugala:polona:malaja:alga, franca:algue, deu:Alge, turka:alg, persa:(âlg)  
@@ -593,12 +595,11 @@
 **iode** *jodo* ← angla:iodine, franca:iode, hispana:yodo (iodo), portugala:iodo, rusa:йод, japana:ヨウ素, korea:요오드, vjetnama:iot, hindia:आयोडिन, bengala:আয়োডিন, malaja:yodium, svahila:iodini, araba: يود  
 **ion** *iono* ← angla:franca:hispana:ion, rusa:ион (ion), turka:iyon  
 **iridium** *iridio* ← angla:iridium, franca:iridium, hispana:iridio, portugala:irídio, rusa:иридий, japana:イリジウム, korea:이리듐, vjetnama:iriđi, hindia:इरिडियम, bengala:ইরিডিয়াম, malaja:iridium, svahila:iridi, araba: إريديوم  
-**ironi** ** ← angla:irony, hispana:ironía, portugala:ironia, franca:ironie, rusa:иро́ния (ironija), japana:アイロニー (aironī)  
+**ironia** ** ← angla:irony, deu:franca:ironie, hispana:ironía, portugala:ironia, fra:ironie, rusa:ирония (ironija), japana:アイロニー (aironī)  
 **islam** ** ← araba:(ʾislām), persa:(taslim), turka:teslim  
 **isme** *ismo* ← taja:เสริม (soem) + angla:-ism, franca:-isme, hispana:portugala:-ismo, rusa:-изм (-izm), malaja:-isme  
 **ite** *ŝtono* ← angla:franca:-ite, hispana:portugala:-ito, rusa:-ит (-it) + (brick) bengala:ইট (iṭ), hindia:ईंट (ī̃ṭ), taja:อิฐ (it), kmera:ឥដ្ឋ (ʼət), birma: အုတ် (ut)  
 **itis** ** ← angla:hispana:-itis, franca:portugala:-ite, rusa:-ит (-it)  
-**ja** *isto (anto)* ← mandarena:者 (zhě);家 (jiă), korea:자 (ja), vjetnama:gia  
 **jai** *venki* ← hindia:जय (jay), bengala:জয় (jôy), teluga:జయ (jaya), malaja:jaya, taja:ชัย (chai), kmera:ជ័យ (cɨy), birma:ဇေယျ (jeyya)  
 **jain din** *Ĝajnismo* ← hindia:marataja:जैन (jain), tha:เชน (chen), angla:jainism, franca:jaïnisme, rusa:джайнизм (džaynizm)  
 **jake** *jako* ← angla:jacket, mandarena:夹克 (jiākè), rusa:жакет (žaket), deu:Jacke, portugala:jaqueta  
@@ -889,7 +890,6 @@
 **luxe** ** ← angla:lush; luxury, franca:luxe, hispana:lujo, portugala:luxo, rusa:люкс (lyuks), turka:lüks  
 **ma** *patrino* ← portugala:mãe + mandarena:妈 (mā), vjetnama:má, bengala:মা (ma), hindia:मां (mã) + angla:svahila:mama, hispana:mamá, franca:maman, rusa:мама (mama), japana:ママ (mama), korea:엄마 (eomma)  
 **made** *materio* ← angla:matter, franca:matière, hispana:portugala:materia, rusa:материя (materiya), deu:Materie, malaja:materi + araba: مادة (mādda), persa: ماده (mâdde), svahila:maada, turka:madde + kantona:物 (mat6), vjetnama:vật  
-**maf** *pardono* ← araba: مُعَاف‎ (muʿāf), hindia:माफ़ (māf), bengala:মাফ (maph), malaja:maaf, svahila:afu, turka:af, fula:yaafaade, haŭsa:yafe  
 **magenium** *magnezio* ← angla:magnesium, franca:magnésium, hispana:magnesio, portugala:magnésio, rusa:магний, mandarena:镁 (měi), japana:マグネシウム, korea:마그네슘, vjetnama:magiê, hindia:मैग्नेशियम, bengala:ম্যাগনেসিয়াম, malaja:magnesium, svahila:magnesi, araba: مغنيسيوم  
 **magenta** ** ← angla:deu:franca:hispana:portugala:malaja:magenta, rusa:маджента (madženta), araba: ماجنتي (majinati), turka:majenta, hindia:मैजेंटा (maijenta), japana:マゼンタ (mazenta)  
 **magia** *magio* ← persa: مغ‎ (moğ), araba: مُوغِيّ‎ (mūḡiyy), greka:μάγος (magos), angla:magic, franca:magie, hispana:portugala:magia, rusa:магия (magiya) + mandarena:魔 (mó), japana:魔 (ma), korea:마 (ma), vjetnama:ma  

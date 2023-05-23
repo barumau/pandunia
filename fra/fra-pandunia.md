@@ -550,6 +550,7 @@ concombre confit (cornichon) - acar hiyar
 concombre de mer - bahai hiyar  
 conjonction - yunte lexe  
 conjugaison - konyuge  
+connaissance - kenation  
 connaître ou savoir - ken  
 connecter - konnete  
 connecteur - konneter  
@@ -1075,7 +1076,7 @@ inverse (négatif, in-) - an-
 iode - iode  
 iridium - iridium  
 Irland - Eire  
-ironie - ironi  
+ironie - ironia  
 Islam - islamisme  
 
 ## J  
@@ -1561,7 +1562,7 @@ par exemple - to misal
 paramètre - parametre  
 parapluie - barxa cati  
 parc - parke  
-pardonner - maf  
+pardonner - af  
 parent (géniteur) - cin  
 parfait - perfete  
 Paris - Paris  
@@ -2346,7 +2347,7 @@ zéro - siro
 étudiant - studer  
 étudiant - xuler  
 étudier - stude  
-étymologie - lexasle  
+étymologie - lexaslia  
 été - garma mosim  
 évangile - hau angil  
 éveillé - budike  

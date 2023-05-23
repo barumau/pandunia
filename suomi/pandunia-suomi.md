@@ -77,6 +77,8 @@ adilkan - oikeus (käräjätalo)
 adilta - oikeus  
 adres - osoite  
 adres grame - @-merkki  
+af - anteeksi  
+af - antaa anteeksi  
 Afganestan - Afganistan  
 Afrika - Afrikka  
 agile - ketterä  
@@ -106,6 +108,7 @@ ajabife - ällistyttää
 ajabike - ihmeellinen (ällistyttävä, merkillinen)  
 akare - punkki  
 akasia - akaasia  
+akle - järki (mieli)  
 akrabe - skorpioni  
 ale - muu (toinen)  
 ale di - muuten (toisin)  
@@ -1729,8 +1732,8 @@ ion radi di - radioaktiivinen
 Iran - Iran  
 Iraqi - Irak  
 iridium - iridium  
-ironi - ironia  
-ironi di - ironinen  
+ironia - ironia  
+ironike - ironinen  
 islam - alistuminen (antautuminen)  
 islamofobia - islamofobia (islamin pelko)  
 islamisme - islam  
@@ -1740,13 +1743,12 @@ Islande - Islanti
 isme - aate (aatteen kannatus, ismi)  
 Israel - Israel  
 iste - kannattaja (tukija, -isti)  
-Italia - Italia  
 ite - kivi (hippu)  
+Italia - Italia  
 itis - tulehdus  
 
 ## J  
 
-ja - tekijä (aikaansaaja)  
 jai - voittaa (voitto)  
 jaija - voittaja  
 • jai pandunia! - voitto pandunialle!  
@@ -2017,6 +2019,7 @@ ken - tietää tai tuntea
 • konkenaje - tieto  
 • rekene - tunnistaa  
 kenaje - tieto (tietämys)  
+kenation - kognitio (tajuaminen)  
 • ankenive - tietämätön  
 kenize - tiedottaa (informoida)  
 kenelogia - tietoteoria (epistemologia)  
@@ -2290,7 +2293,9 @@ leu - vasen
 leuiste - vasemmistolainen  
 lexe - sana  
 lexal - sanastollinen  
-lexasle - etymologia  
+lexal ironia - sarkasmi  
+lexasle - sanan alkuperä  
+lexaslia - etymologia  
 lexeme - lekseemi  
 lexe fen - tavu  
 lexofilia - logofilia  
@@ -2407,8 +2412,6 @@ madike - aineellinen (materiaalinen, fyysinen)
 madisme - materialismi  
 madagas - madagaskarilainen (malagassi)  
 Madagasia - Madagaskar  
-maf - anteeksi  
-maf - antaa anteeksi  
 mage - taikoa (taika)  
 mager - taikuri  
 magia - taikuus (magia, noituus)  
@@ -2811,8 +2814,8 @@ nefre - munuainen
 nefralgia - munuaiskipu  
 nefrextomia - munuaisenpoistoleikkaus  
 nefritis - munuaistulehdus (nefriitti)  
-• denege - kieltää (evätä)  
 nege - kieltää (kiistää)  
+• denege - kieltää (evätä)  
 negative - kielteinen (negatiivinen)  
 nekre - ruumis (vainaja)  
 nekrofilia - nekrofilia  
@@ -3355,9 +3358,8 @@ rasisme - rasismi (rotuoppi)
 rasiste - rasisti  
 rase midike - rotujen välinen  
 rate - järkeillä (käydä järkeen)  
-ration - järki (järkeily, päättely)  
+ration - järkeily (päättely)  
 rational - järjellinen (järkiperäinen, rationaalinen)  
-ratekan - neuvosto (raati)  
 ratologia - logiikka  
 ratologike - looginen  
 ratibu - järjestys  

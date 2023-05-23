@@ -41,6 +41,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**adamas**|rus:алмаз (almaz), ara: أَلْمَاس‎ (ʾalmās), hin:अलमास (almās), may:almas, swa:almasi, fas: الماس‎ (almâs) + gre:ἀδάμας (adámas), eng:diamond, fra:diamant, spa:por:diamante, jpn:ダイヤモンド (daiyamondo), kor:다이아몬드 (daiamondeu)|
 |**adil**|ara: عدل (’adl), may:tur:adil, swa:adili, hau:adalci + hin:अदालत (adālat)|
 |**adres**|eng:address, fra:adresse, deu:Adresse, rus:адрес (adres), fas: آدرس‎ (âdres), tur:adres|
+|**af**|ara: مُعَاف‎ (muʿāf), hin:माफ़ (māf), ben:মাফ (maph), may:maaf, swa:afu, tur:af, ful:yaafaade, hau:yafe|
 |**Afrika**|ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika, hau:Afirka, eng:spa:por:Africa, fra:Afrique, rus:Африка (Afrika), hin:अफ़्रीका (afrīkā), ben:আফ্রিকা (aphrika), jpn:アフリカ (Afurika), kor:프리카 (Apeurika)|
 |**agile**|eng:fra:agile, spa:por:ágil, deu:agil|
 |**agre**|deu:eng:fra:spa:por:agri-, rus:агри- (agri-), tur:agro-|
@@ -51,6 +52,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**ajabe**|ara: عَجَب‎ (ʿajab), swa:ajabu, hau:al'ajabi + fas: عجب‎ ('ajab), hin:अजीब (ajīb), ben:আজব (ajôb), tur:acayip|
 |**akare**|spa:por:ácaro, fra:acarien, tur:acari|
 |**akasia**|eng:fra:spa:por:acacia, rus:акация (akaciya), may:akasia, tur:akasya|
+|**akle**|ara: عَقْل‎ (ʕaql), fas: عقل‎ ('aql), hin:अक़्ल (aqla), ben:আকল (akol), may:akal, ful:hakkil, wol:hakilo, hau:hankali, swa:akili, tur:akıl|
 |**akrabe**|ara: عَقْرَب (ʿaqrab), tur:akrep, spa:alacrán, por:lacrau, tgl:alakdan, hin:अकरब (akrab) + may:Akrab, swa:Akarabu|
 |**ale**|ell:άλλος (állos), ltn:alius, eng:fra:allo-, por:spa:alo-, rus: алло- (allo-)|
 |**alge**|eng:por:spa:-algia, fra:deu:-algie, rus:-альгия (-alʹgiya) + jpn:ノスタルジー (nosutarujī), fas: نوستالژی‎ (nostâlži), tur:nostalji|
@@ -626,12 +628,11 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**iode**|eng:iodine, fra:iode, spa:yodo (iodo), por:iodo, rus:йод, jpn:ヨウ素, kor:요오드, vie:iot, hin:आयोडिन, ben:আয়োডিন, may:yodium, swa:iodini, ara: يود|
 |**ion**|eng:fra:spa:ion, rus:ион (ion), tur:iyon|
 |**iridium**|eng:iridium, fra:iridium, spa:iridio, por:irídio, rus:иридий, jpn:イリジウム, kor:이리듐, vie:iriđi, hin:इरिडियम, ben:ইরিডিয়াম, may:iridium, swa:iridi, ara: إريديوم|
-|**ironi**|eng:irony, spa:ironía, por:ironia, fra:ironie, rus:иро́ния (ironija), jpn:アイロニー (aironī)|
+|**ironia**|eng:irony, deu:fra:ironie, spa:ironía, por:ironia, fra:ironie, rus:ирония (ironija), jpn:アイロニー (aironī)|
 |**islam**|ara:(ʾislām), fas:(taslim), tur:teslim|
 |**isme**|tha:เสริม (soem) + eng:-ism, fra:-isme, spa:por:-ismo, rus:-изм (-izm), may:-isme|
 |**ite**|eng:fra:-ite, spa:por:-ito, rus:-ит (-it) + (brick) ben:ইট (iṭ), hin:ईंट (ī̃ṭ), tha:อิฐ (it), khm:ឥដ្ឋ (ʼət), mya: အုတ် (ut)|
 |**itis**|eng:spa:-itis, fra:por:-ite, rus:-ит (-it)|
-|**ja**|zho:者 (zhě);家 (jiă), kor:자 (ja), vie:gia|
 |**jai**|hin:जय (jay), ben:জয় (jôy), tel:జయ (jaya), may:jaya, tha:ชัย (chai), khm:ជ័យ (cɨy), mya:ဇေယျ (jeyya)|
 |**jain din**|hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:jaïnisme, rus:джайнизм (džaynizm)|
 |**jake**|eng:jacket, zho:夹克 (jiākè), rus:жакет (žaket), deu:Jacke, por:jaqueta|
@@ -922,7 +923,6 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**luxe**|eng:lush; luxury, fra:luxe, spa:lujo, por:luxo, rus:люкс (lyuks), tur:lüks|
 |**ma**|por:mãe + zho:妈 (mā), vie:má, ben:মা (ma), hin:मां (mã) + eng:swa:mama, spa:mamá, fra:maman, rus:мама (mama), jpn:ママ (mama), kor:엄마 (eomma)|
 |**made**|eng:matter, fra:matière, spa:por:materia, rus:материя (materiya), deu:Materie, may:materi + ara: مادة (mādda), fas: ماده (mâdde), swa:maada, tur:madde + yue:物 (mat6), vie:vật|
-|**maf**|ara: مُعَاف‎ (muʿāf), hin:माफ़ (māf), ben:মাফ (maph), may:maaf, swa:afu, tur:af, ful:yaafaade, hau:yafe|
 |**magia**|fas: مغ‎ (moğ), ara: مُوغِيّ‎ (mūḡiyy), ell:μάγος (magos), eng:magic, fra:magie, spa:por:magia, rus:магия (magiya) + zho:魔 (mó), jpn:魔 (ma), kor:마 (ma), vie:ma|
 |**magenium**|eng:magnesium, fra:magnésium, spa:magnesio, por:magnésio, rus:магний, zho:镁 (měi), jpn:マグネシウム, kor:마그네슘, vie:magiê, hin:मैग्नेशियम, ben:ম্যাগনেসিয়াম, may:magnesium, swa:magnesi, ara: مغنيسيوم|
 |**magenta**|eng:deu:fra:spa:por:may:magenta, rus:маджента (madženta), ara: ماجنتي (majinati), tur:majenta, hin:मैजेंटा (maijenta), jpn:マゼンタ (mazenta)|

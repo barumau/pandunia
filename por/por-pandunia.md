@@ -416,6 +416,7 @@ cobalto - kobalte
 cobre - kupre  
 coelho (lebre) - tuzi  
 coentro - kotumbar  
+cognição - kenation  
 cogumelo - fungu frute  
 coisa - xe  
 colaborar - konkar  
@@ -725,7 +726,7 @@ estudar (examinar) - stude
 etano - etan  
 etanol - etanol  
 etila - etil  
-etimologia - lexasle  
+etimologia - lexaslia  
 etnia - zuku  
 eu (me) - mi  
 európio - europium  
@@ -977,7 +978,7 @@ irmã - sis
 irmã mais velha - sen sis  
 irmão - bra  
 irmão mais velho - sen bra  
-ironia - ironi  
+ironia - ironia  
 irídio - iridium  
 islã - islamisme  
 item - vutu  
@@ -1449,7 +1450,7 @@ pequeno - xiu
 pera - pera  
 perdedor - xiti bai ja  
 perder - xiti  
-perdoar (desculpar) - maf  
+perdoar (desculpar) - af  
 perecer - perex fa  
 peregrinagem - haje  
 peregrino - hajer  

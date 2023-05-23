@@ -8,14 +8,14 @@ kitaba_pike() {
 }
 
 fata_leksasli_liste() {
-    cat lexi.csv | cut -d '|' -f 5 > temp/logaslia.txt
+    cat lexi.csv | cut -d '|' -f 5 > temp/lexasle.txt
     #Delete empty lines
-    sed -i '/^$/d' temp/logaslia.txt
+    sed -i '/^$/d' temp/lexasle.txt
 }
 
 konta_bax() {
    # uza grep va konta di konte
-   bax=$(cat temp/logaslia.txt | grep -c "$1:")
+   bax=$(cat temp/lexasle.txt | grep -c "$1:")
    #kitaba konte e 100-fen
    percent=$(printf "%.0f" $(echo "scale=2;($bax*100)/$3" | bc))
    echo "$2 $bax $percent%" >> temp/stats.txt
@@ -35,7 +35,7 @@ fata_leksasli_liste
 
 rm temp/stats.txt
 rm temp/logonumbe.csv
-pan=$(cat temp/logaslia.txt | grep -c ":" )
+pan=$(cat temp/lexasle.txt | grep -c ":" )
 echo "pan $pan 100%" >> temp/stats.txt
 
 konta_bax eng englix $pan
@@ -54,7 +54,7 @@ konta_bax tur turki $pan
 konta_bax zho putonghan $pan
 konta_bax yue guangdonghan $pan
 konta_bax jpn nipon $pan
-konta_bax kor chosen $pan
+konta_bax kor cosen $pan
 konta_bax vie viet $pan
 
 konta_bax may malayu $pan

@@ -25,6 +25,7 @@ adil - juste
 adilta - justice  
 adres - adresse  
 adres grame - arobase (@)  
+af - pardonner  
 Afganestan - Afghanistan  
 Afrika - Afrique  
 agile - agile  
@@ -916,7 +917,7 @@ intraje - intestin (entrailles, ventre, boyau)
 in verse jen - introverti  
 iode - iode  
 iridium - iridium  
-ironi - ironie  
+ironia - ironie  
 islam - soumission  
 islamisme - Islam  
 ite - pierre  
@@ -1085,6 +1086,7 @@ ke sata - quand
 Keme - Égypte antique  
 ken - connaître ou savoir  
 • rekene - reconnaître  
+kenation - connaissance  
 kenelogia - épistémologie  
 kentaur - centaure  
 kentaur hua - Centaurée  
@@ -1238,7 +1240,7 @@ letus - laitue
 leu - gauche  
 lexe - mot  
 lexal - lexical  
-lexasle - étymologie  
+lexaslia - étymologie  
 lexeme - lexème  
 lexe fen - syllabe  
 lexe gense - genre grammatical  
@@ -1309,7 +1311,6 @@ ma di - maternel
 matropole - métropole  
 made - matière  
 madisme - matérialisme  
-maf - pardonner  
 magenium - magnésium  
 Magribia - Maroc  
 mahala - quartier  
@@ -1514,8 +1515,8 @@ nave leu - babord
 nave trepe - passerelle  
 nefre - rein  
 nefritis - néphrite  
-• denege - dénier  
 nege - nier  
+• denege - dénier  
 negative - négatif  
 nekre - cadavre (corps)  
 nekrofilia - nécrophilie  

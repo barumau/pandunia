@@ -37,6 +37,8 @@ adil - justo
 adilta - justicia  
 adres - dirección  
 adres grame - arroba (@)  
+af - perdón  
+af - perdonar (disculpar)  
 Afganestan - Afganistán  
 Afrika - África  
 agile - ágil  
@@ -1526,8 +1528,8 @@ IP adres - dirección de IP
 Iran - Irán  
 Iraqi - Iraq  
 iridium - iridio  
-ironi - ironía  
-ironi di - irónico  
+ironia - ironía  
+ironike - irónico  
 islam - sumisión (rendición)  
 islamofobia - islamofobia  
 islamisme - islamismo (islam)  
@@ -1536,13 +1538,12 @@ islam xaria - sharía
 Islande - Islandia  
 isme - ideología (doctrina, -ismo)  
 Israel - Israel  
-Italia - Italia  
 ite - piedra  
+Italia - Italia  
 itis - inflamación  
 
 ## J  
 
-ja - hacedor (perpetrador)  
 jai - gañar (vencer, triunfar; victoria)  
 jain din - jainismo  
 jake - chaqueta  
@@ -1802,6 +1803,7 @@ ken - conocer o saber
 • konkenaje - información  
 • rekene - roconocer  
 kenaje - conocimiento  
+kenation - cognición  
 kenize - comunicar (informar)  
 kenelogia - gnoseología (epistemología)  
 kenevol - interés  
@@ -2068,7 +2070,7 @@ leu di - izquierdo
 leuiste - izquerdista  
 lexe - palabra (vocablo)  
 lexal - léxico  
-lexasle - etimología  
+lexaslia - etimología  
 lexeme - lexema  
 lexe fen - sílaba  
 lexe gense - género gramatical  
@@ -2177,8 +2179,6 @@ madike - material
 madisme - materialismo  
 madagas - malgache  
 Madagasia - Madagascar  
-maf - perdón  
-maf - perdonar (disculpar)  
 mager - mago  
 magia - magia  
 magike - magical  
@@ -2576,8 +2576,8 @@ Nederlande Antil - Antillas Neerlandesas
 nefre - riñon  
 nefrextomia - nefrectomía  
 nefritis - nefritis  
-• denege - denegar  
 nege - rechazar (negar)  
+• denege - denegar  
 negative - negativo  
 nekre - cadáver  
 nekrofilia - necrofilia  

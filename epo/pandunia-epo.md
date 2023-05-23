@@ -28,6 +28,8 @@ adamas - diamanto
 adil - justa  
 adilta - justeco  
 adres - adreso  
+af - pardono  
+af - pardoni  
 Afganestan - Afganujo, Afganio  
 Afrika - Afriko  
 agile - lerta  
@@ -896,12 +898,11 @@ islam xaria - ŝario
 Islande - Islando  
 isme - ismo  
 Israel - Israelo  
-Italia - Italio  
 ite - ŝtono  
+Italia - Italio  
 
 ## J  
 
-ja - isto (anto)  
 jai - venki  
 jain din - Ĝajnismo  
 jake - jako  
@@ -1195,7 +1196,7 @@ letre - letero
 letus - laktuko  
 lexe - vorto  
 lexal - vorta  
-lexasle - etimologio  
+lexaslia - etimologio  
 lexeme - leksemo  
 lexe fen - silabo  
 lexograme - logogrammi (logo)  
@@ -1247,8 +1248,6 @@ lutesium - lutecio
 ma - patrino  
 made - materio  
 madisme - materiismo  
-maf - pardono  
-maf - pardoni  
 magia - magio  
 magenium - magnezio  
 mahala - kvartalo  

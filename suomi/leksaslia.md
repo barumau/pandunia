@@ -8,6 +8,7 @@
 **ade** *tapa* ← arabia: عادة (ʿāda), hindi:आदत (ādat), malaiji:adat, turkki:adet, suahili:ada, hausa:al'ada  
 **adil** *oikeudenmukainen* ← arabia: عدل (’adl), malaiji:turkki:adil, suahili:adili, hausa:adalci + hindi:अदालत (adālat)  
 **adres** *osoite* ← englanti:address, ranska:adresse, deu:Adresse, venäjä:адрес (adres), persia: آدرس‎ (âdres), turkki:adres  
+**af** *anteeksi* ← arabia: مُعَاف‎ (muʿāf), hindi:माफ़ (māf), bangla:মাফ (maph), malaiji:maaf, suahili:afu, turkki:af, fulani:yaafaade, hausa:yafe  
 **Afrika** *Afrikka* ← arabia:(ʾafrīqiyā), wolof:Afrig, fulani:Afirik, amhara:(ʾäfriḳa), hausa:Afirka, yoruba:Afirika, oromo:Afrikaa, suahili:Afrika, hau:Afirka, englanti:espanja:portugali:Africa, ranska:Afrique, venäjä:Африка (Afrika), hindi:अफ़्रीका (afrīkā), bangla:আফ্রিকা (aphrika), japani:アフリカ (Afurika), korea:프리카 (Apeurika)  
 **agile** *ketterä* ← englanti:ranska:agile, espanja:portugali:ágil, deu:agil  
 **agre** *viljellä* ← deu:englanti:ranska:espanja:portugali:agri-, venäjä:агри- (agri-), turkki:agro-  
@@ -18,6 +19,7 @@
 **ajabe** *ihmetys (hämmästys)* ← arabia: عَجَب‎ (ʿajab), suahili:ajabu, hausa:al'ajabi + persia: عجب‎ ('ajab), hindi:अजीब (ajīb), bangla:আজব (ajôb), turkki:acayip  
 **akare** *punkki* ← espanja:portugali:ácaro, ranska:acarien, turkki:acari  
 **akasia** *akaasia* ← englanti:ranska:espanja:portugali:acacia, venäjä:акация (akaciya), malaiji:akasia, turkki:akasya  
+**akle** *järki (mieli)* ← arabia: عَقْل‎ (ʕaql), persia: عقل‎ ('aql), hindi:अक़्ल (aqla), bangla:আকল (akol), malaiji:akal, fulani:hakkil, wolof:hakilo, hausa:hankali, suahili:akili, turkki:akıl  
 **akrabe** *skorpioni* ← arabia: عَقْرَب (ʿaqrab), turkki:akrep, espanja:alacrán, portugali:lacrau, filippiini:alakdan, hindi:अकरब (akrab) + malaiji:Akrab, suahili:Akarabu  
 **ale** *muu (toinen)* ← kreikka:άλλος (állos), latina:alius, englanti:ranska:allo-, portugali:espanja:alo-, venäjä: алло- (allo-)  
 **alga** *levä* ← englanti:espanja:portugali:puola:malaiji:alga, ranska:algue, deu:Alge, turkki:alg, persia:(âlg)  
@@ -593,12 +595,11 @@
 **iode** *jodi* ← englanti:iodine, ranska:iode, espanja:yodo (iodo), portugali:iodo, venäjä:йод, japani:ヨウ素, korea:요오드, vietnami:iot, hindi:आयोडिन, bangla:আয়োডিন, malaiji:yodium, suahili:iodini, arabia: يود  
 **ion** *ioni* ← englanti:ranska:espanja:ion, venäjä:ион (ion), turkki:iyon  
 **iridium** *iridium* ← englanti:iridium, ranska:iridium, espanja:iridio, portugali:irídio, venäjä:иридий, japani:イリジウム, korea:이리듐, vietnami:iriđi, hindi:इरिडियम, bangla:ইরিডিয়াম, malaiji:iridium, suahili:iridi, arabia: إريديوم  
-**ironi** *ironia* ← englanti:irony, espanja:ironía, portugali:ironia, ranska:ironie, venäjä:иро́ния (ironija), japani:アイロニー (aironī)  
+**ironia** *ironia* ← englanti:irony, deu:ranska:ironie, espanja:ironía, portugali:ironia, fra:ironie, venäjä:ирония (ironija), japani:アイロニー (aironī)  
 **islam** *alistuminen (antautuminen)* ← arabia:(ʾislām), persia:(taslim), turkki:teslim  
 **isme** *aate (aatteen kannatus, ismi)* ← thai:เสริม (soem) + englanti:-ism, ranska:-isme, espanja:portugali:-ismo, venäjä:-изм (-izm), malaiji:-isme  
 **ite** *kivi (hippu)* ← englanti:ranska:-ite, espanja:portugali:-ito, venäjä:-ит (-it) + (brick) bangla:ইট (iṭ), hindi:ईंट (ī̃ṭ), thai:อิฐ (it), khmer:ឥដ្ឋ (ʼət), burma: အုတ် (ut)  
 **itis** *tulehdus* ← englanti:espanja:-itis, ranska:portugali:-ite, venäjä:-ит (-it)  
-**ja** *tekijä (aikaansaaja)* ← yleiskiina:者 (zhě);家 (jiă), korea:자 (ja), vietnami:gia  
 **jai** *voittaa (voitto)* ← hindi:जय (jay), bangla:জয় (jôy), telugu:జయ (jaya), malaiji:jaya, thai:ชัย (chai), khmer:ជ័យ (cɨy), burma:ဇေယျ (jeyya)  
 **jain din** *jainalaisuus* ← hindi:marathi:जैन (jain), thai:เชน (chen), englanti:jainism, ranska:jaïnisme, venäjä:джайнизм (džaynizm)  
 **jake** *pikkutakki (jakku)* ← englanti:jacket, yleiskiina:夹克 (jiākè), venäjä:жакет (žaket), deu:Jacke, portugali:jaqueta  
@@ -889,7 +890,6 @@
 **luxe** *runsas* ← englanti:lush; luxury, ranska:luxe, espanja:lujo, portugali:luxo, venäjä:люкс (lyuks), turkki:lüks  
 **ma** *äiti (emä)* ← portugali:mãe + yleiskiina:妈 (mā), vietnami:má, bangla:মা (ma), hindi:मां (mã) + englanti:suahili:mama, espanja:mamá, ranska:maman, venäjä:мама (mama), japani:ママ (mama), korea:엄마 (eomma)  
 **made** *aine (materia)* ← englanti:matter, ranska:matière, espanja:portugali:materia, venäjä:материя (materiya), deu:Materie, malaiji:materi + arabia: مادة (mādda), persia: ماده (mâdde), suahili:maada, turkki:madde + kantoninkiina:物 (mat6), vietnami:vật  
-**maf** *anteeksi* ← arabia: مُعَاف‎ (muʿāf), hindi:माफ़ (māf), bangla:মাফ (maph), malaiji:maaf, suahili:afu, turkki:af, fulani:yaafaade, hausa:yafe  
 **magenium** *magnesium* ← englanti:magnesium, ranska:magnésium, espanja:magnesio, portugali:magnésio, venäjä:магний, yleiskiina:镁 (měi), japani:マグネシウム, korea:마그네슘, vietnami:magiê, hindi:मैग्नेशियम, bangla:ম্যাগনেসিয়াম, malaiji:magnesium, suahili:magnesi, arabia: مغنيسيوم  
 **magenta** ** ← englanti:deu:ranska:espanja:portugali:malaiji:magenta, venäjä:маджента (madženta), arabia: ماجنتي (majinati), turkki:majenta, hindi:मैजेंटा (maijenta), japani:マゼンタ (mazenta)  
 **magia** *taikuus (magia, noituus)* ← persia: مغ‎ (moğ), arabia: مُوغِيّ‎ (mūḡiyy), kreikka:μάγος (magos), englanti:magic, ranska:magie, espanja:portugali:magia, venäjä:магия (magiya) + yleiskiina:魔 (mó), japani:魔 (ma), korea:마 (ma), vietnami:ma  

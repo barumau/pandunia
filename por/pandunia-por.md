@@ -17,6 +17,7 @@ adamas - diamante
 adil - justo  
 adilta - justiça  
 adres - endereço  
+af - perdoar (desculpar)  
 Afganestan - Afeganistão  
 agile - ágil  
 agre - cultivar  
@@ -744,7 +745,7 @@ intre - entrar
 intraje - intestino (entranhas, tripa)  
 iode - iodo  
 iridium - irídio  
-ironi - ironia  
+ironia - ironia  
 islamisme - islã  
 ite - pedra  
 itis - inflamaçao  
@@ -903,6 +904,7 @@ ke sata - quando
 Keme - Antigo Egito  
 ken - conhecer ou saber  
 • rekene - roconhecer  
+kenation - cognição  
 kenelogia - epistemologia  
 kenevolive - inquisitivo  
 kentaur - centauro  
@@ -1051,7 +1053,7 @@ letus - alface
 leu - esquerdo  
 lexe - palavra (vocábulo)  
 lexal - léxico  
-lexasle - etimologia  
+lexaslia - etimologia  
 lexeme - lexema  
 lexe fen - sílaba  
 lexe gense - gênero gramatical  
@@ -1117,7 +1119,6 @@ matria - pátria-mãe
 matropole - metrópole  
 made - matéria  
 madisme - materialismo  
-maf - perdoar (desculpar)  
 mager - mago  
 magenium - magnésio  
 Magribia - Marrocos  

@@ -844,6 +844,7 @@ coercion (force, compulsion) - paka
 coffee - kafe  
 coffee cup - kafe kupa  
 coffeepot - kafe pote  
+cognition - kenation  
 coin - pesa diske  
 cola - kola jus  
 cold (illness) - zukam  
@@ -1199,7 +1200,6 @@ document (paper) - papir
 document (record, file) - dokumen  
 documentary film - dokumen filme  
 doer (agent) - ater  
-doer (agent, actor, -er, -ist) - ja  
 dog - vaf  
 doghouse (dog shelter) - vaf bute  
 doll (puppet) - pupe  
@@ -1370,7 +1370,7 @@ ethnic - zuku di
 ethnic group - zuku  
 ethyl - etil  
 etiquette (protocol, procedure) - bure rite  
-etymology - lexasle  
+etymology (science of history of words) - lexaslia  
 eugenics - haugenisme  
 Eurasia - Eurasia  
 euro (€) - euro  
@@ -1582,7 +1582,7 @@ foreign country - exgogia
 forenoon - suba dia  
 forest (woods, jungle) - jangal  
 forget - anmemo  
-forgive (pardon) - maf  
+forgive (pardon) - af  
 fork - forke  
 form (questionaire) - sual dokumen  
 form (shape, morph) - forme  
@@ -2125,8 +2125,8 @@ Iraq - Iraqi
 Ireland - Eire  
 iridium - iridium  
 iron - fero  
-ironic - ironi di  
-irony - ironi  
+ironic - ironike  
+irony - ironia  
 Islam - islamisme  
 islamophobia - islamofobia  
 island - nese  
@@ -3135,7 +3135,6 @@ parallel (line of latitude) - vei gola
 parameter (argument, input variable) - parametre  
 paranormal - paranormali  
 parasol - sol cati  
-pardon (forgiveness; sorry) - maf  
 parent (mother or father) - cin  
 parent-in-law - per cin  
 Paris - Paris  
@@ -3467,6 +3466,7 @@ protest (challenge for) - proteste
 proto- - prote  
 prototype - prototipe  
 prototypical (being a prototype) - prototipike  
+provenance of word - lexasle  
 provoke - provoke  
 proximity - proxia  
 psychology - ruhu logia  
@@ -3541,7 +3541,7 @@ random - zarike
 rank (grade, dan) - dan  
 rare (scarce, sparse, uncommon) - nadir  
 rarity - nadirta  
-rational (reasonable) - rational  
+rational (related to reasoning) - rational  
 raw (crude) - gene di  
 raw (crude, fresh) - seng  
 ray - rade  
@@ -3561,7 +3561,7 @@ realization (awareness, enlightenment, bodhi) - budion
 realize (understand; aha) - aha  
 reanimate - reanimate  
 reason (cause) - sabu  
-reason (reasoning, rational thinking) - ration  
+reasoning (rational thinking) - ration  
 rebellion - rebel  
 rebirth (renaissance) - rinate  
 recede (retreat) - recese  
@@ -3855,6 +3855,7 @@ send forth (promise) - promise
 Senegal - Senegal  
 senior fellow (senpai) - sen bei  
 sense (method of perception) - sense  
+sense (reason, intellect) - akle  
 sensitive (perceptive) - senser  
 sensor (detector) - sense gi  
 sentence (phrase) - jumla  
@@ -4015,6 +4016,7 @@ soon (after a while) - a korte
 sorghum (durra, jawar, Indian millet) - jovar  
 sororal nephew - sis son  
 sororal niece - sis doh  
+sorry (pardon) - af  
 sort (category, class, genus, genre, gender) - gense  
 soul (life spirit) - anime  
 soul (mind, psyche) - ruhu  
@@ -4576,7 +4578,6 @@ Viet Nam - Viete
 Vietnamese language (Viet) - viete baxe  
 view (vision) - vidaje  
 village - deha  
-village council - ratekan  
 vine - trepater  
 vinegar - vin suan  
 vineyard - putau bagi  

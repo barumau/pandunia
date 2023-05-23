@@ -14,6 +14,7 @@ acinium - アクチニウム
 ade - 習慣 (風俗)  
 adamas - 金剛石 (ダイヤモンド)  
 adres - 住所  
+af - ごめんなさい  
 Afganestan - アフガニスタン  
 agre deha - 農村  
 agronomia - 農学  
@@ -669,14 +670,13 @@ in verse jen - 内向的な人
 iode - ヨウ素  
 IP adres - IPアドレス  
 iridium - イリジウム  
-ironi - 反語 (皮肉)  
-ironi di - 反語的  
+ironia - 反語 (皮肉)  
+ironike - 反語的  
 islamisme - イスラム教  
 isme - 主义  
 
 ## J  
 
-ja - 者 (人, 家)  
 jaibai - 勝敗  
 • ajame - 会う (会合, 会議)  
 • anjame - 散らす  
@@ -820,6 +820,7 @@ ke tipe - どんな
 ke xe - 何事  
 Keme - 古代エジプト  
 ken - 知る  
+kenation - 認知  
 kenelogia - 認識論  
 kenevol - 興味 (好奇心)  
 kenevolike - 面白い  
@@ -995,7 +996,6 @@ lutesium - ルテニウム
 ma - お母さん (母, ママ)  
 made - 物質  
 madisme - 唯物論 (唯物主義)  
-maf - ごめんなさい  
 mager - 魔法使い  
 magenium - マグネシウム  
 magenta - マゼンタ (紅紫色)  

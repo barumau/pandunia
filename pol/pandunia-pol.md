@@ -43,6 +43,8 @@ adilkan -
 adilta - sprawiedliwość  
 adres - adres  
 adres grame - małpa (znak na  
+af - przepraszam!  
+af -   
 Afganestan - Afganistan  
 Afrika - Afryka  
 agile - zwinny, sprawny  
@@ -73,6 +75,7 @@ ajabife - zachwycać (zachwycić, zdumiewać, zdumieć, zadziwiać, zadziwić)
 ajabike - zachwycający (zdumiewający, zadziwiający)  
 akare - klescz (roztocze)  
 akasia - akacja  
+akle -   
 akrabe - skorpion  
 ale - inny  
 ale di - w innym wypadku (inaczej)  
@@ -1788,8 +1791,8 @@ IP adres -
 Iran - Iran  
 Iraqi - Irak  
 iridium - iryd  
-ironi - ironia  
-ironi di - ironiczny  
+ironia - ironia  
+ironike - ironiczny  
 islam - poddanie się, uległość, pokora, posłuszeństwo  
 islamofobia - islamofobia  
 islamisme - Islam  
@@ -1799,13 +1802,12 @@ Islande - Islandia
 isme -   
 Israel - Izrael  
 iste -   
-Italia - Italia, Włochy  
 ite - kamień (kawał skały)  
+Italia - Italia, Włochy  
 itis - zapalenie  
 
 ## J  
 
-ja - przyrostek dla wykonawcy  
 jai - zwyciężyć (wygrać; zwycięstwo, wygrana)  
 jaibai -   
 jaija -   
@@ -2114,6 +2116,7 @@ ken - znać (wiedzieć)
 • konkenaje - informacja  
 • rekene -   
 kenaje - wiedza  
+kenation -   
 • ankenive -   
 kenize - poinformować, informować, zakomunikować, komunikować  
 kenelogia - epistemologia (gnoseologia, teoria poznania)  
@@ -2425,7 +2428,8 @@ leuiste - lewicowiec (lewak)
 lexe - słowo  
 lexal - słowny (leksykalny)  
 lexal ironia - sarkazm  
-lexasle - etymologia  
+lexasle -   
+lexaslia - etymologia  
 lexeme - leksem  
 lexe fen - sylaba (zgłoska)  
 lexofilia -   
@@ -2562,8 +2566,6 @@ madike - materialny
 madisme -   
 madagas - madagaskarski; malagaski  
 Madagasia - Madagaskar  
-maf - przepraszam!  
-maf -   
 mage - zaklecie  
 mager - magik, czarownik  
 magia - magia  
@@ -3023,8 +3025,8 @@ nefre - nerka
 nefralgia -   
 nefrextomia - nefrektomia  
 nefritis - zapalenie nerek  
-• denege - odmówić (odrzucić)  
 nege - negować  
+• denege - odmówić (odrzucić)  
 negative -   
 nekre - zwłoki (trup)  
 nekrofilia -   
@@ -3649,7 +3651,6 @@ rase midike - międzyrasowy
 rate - mieć sens  
 ration - rozum, rozsądek  
 rational - racjonalny, rozsądny  
-ratekan -   
 ratologia - logika, dedukcja  
 ratologike - logiczny  
 ratibu - porządek  

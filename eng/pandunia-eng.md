@@ -79,6 +79,8 @@ adilkan - court of justice
 adilta - justice  
 adres - address  
 adres grame - @ symbol  
+af - sorry (pardon)  
+af - forgive (pardon)  
 Afganestan - Afghanistan  
 Afrika - Africa  
 agile - agile  
@@ -109,6 +111,7 @@ ajabife - amaze
 ajabike - amazing (astonishing)  
 akare - tick (mite)  
 akasia - acacia  
+akle - sense (reason, intellect)  
 akrabe - scorpion (Scorpio)  
 ale - other  
 ale di - otherwise (else)  
@@ -1823,8 +1826,8 @@ IP adres - IP address
 Iran - Iran  
 Iraqi - Iraq  
 iridium - iridium  
-ironi - irony  
-ironi di - ironic  
+ironia - irony  
+ironike - ironic  
 islam - submission (surrender)  
 islamofobia - islamophobia  
 islamisme - Islam  
@@ -1834,13 +1837,12 @@ Islande - Iceland
 isme - advocacy (promotion, -ism)  
 Israel - Israel  
 iste - advocate (promoter, supporter, adherent)  
-Italia - Italy  
 ite - stone (piece of rock)  
+Italia - Italy  
 itis - inflammation (-itis)  
 
 ## J  
 
-ja - doer (agent, actor, -er, -ist)  
 jai - win (triumph, victory, gain, succeed)  
 jaibai - outcome (victory or defeat)  
 jaija - winner (victor)  
@@ -2149,6 +2151,7 @@ ken - know
 • konkenaje - information (communicable knowledge)  
 • rekene - recognize  
 kenaje - knowledge  
+kenation - cognition  
 • ankenive - ignorant (unaware)  
 kenize - communicate (inform about)  
 kenelogia - epistemology  
@@ -2459,7 +2462,8 @@ leuiste - leftist (left-winger)
 lexe - word  
 lexal - lexical  
 lexal ironia - verbal irony (sarcasm)  
-lexasle - etymology  
+lexasle - provenance of word  
+lexaslia - etymology (science of history of words)  
 lexeme - lexeme  
 lexe fen - syllable  
 lexofilia - logophilia  
@@ -2596,8 +2600,6 @@ madike - material (physical)
 madisme - materialism  
 madagas - Malagasy  
 Madagasia - Madagascar  
-maf - pardon (forgiveness; sorry)  
-maf - forgive (pardon)  
 mage - conjure (do magic, cast a spell; spell)  
 mager - magician (sorcerer, mage, wizard)  
 magia - magic  
@@ -3058,8 +3060,8 @@ nefre - kidney
 nefralgia - nephralgia (pain of the kidneys)  
 nefrextomia - nefrectomy  
 nefritis - nephritis  
-• denege - deny (refuse, reject, turn away)  
 nege - deny (negate)  
+• denege - deny (refuse, reject, turn away)  
 negative - negative  
 nekre - corpse (dead body)  
 nekrofilia - nechrophilia  
@@ -3682,9 +3684,8 @@ rasisme - racism
 rasiste - racist  
 rase midike - interracial  
 rate - make sense (reason)  
-ration - reason (reasoning, rational thinking)  
-rational - rational (reasonable)  
-ratekan - village council  
+ration - reasoning (rational thinking)  
+rational - rational (related to reasoning)  
 ratologia - logic  
 ratologike - logical  
 ratibu - order (arrangement, sequence)  

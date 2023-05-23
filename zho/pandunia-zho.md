@@ -720,7 +720,6 @@ itis - 炎症
 
 ## J  
 
-ja - 者 (人, 家)  
 jaibai - 勝敗  
 • ajame - 聚会 (会议)  
 jamul - 閻浮樹  

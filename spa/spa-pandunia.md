@@ -815,6 +815,7 @@ cocodrilo - long krokodil
 codicioso (avaro) - tami  
 codificar (cifrar) - inkode  
 codo - kudi  
+cognición - kenation  
 cohete (misil) - rakete  
 col (repollo) - koli  
 col china - baku coi  
@@ -1457,7 +1458,7 @@ etano - etan
 etanol - etanol  
 etapa (fase) - faze  
 etilo - etil  
-etimología - lexasle  
+etimología - lexaslia  
 Etiopía - Etiopia  
 etiqueta (boleto, billete) - tikete  
 etiqueta (protocolo) - bure rite  
@@ -1765,7 +1766,6 @@ habitación (cuarto, sala, pieza) - kamar
 hablador (locuaz) - logive  
 hablante de Pandunia - panduniste  
 hace girar (dar vueltas) - rotate  
-hacedor (perpetrador) - ja  
 hacer (hecho) - fete  
 hacer - fe  
 hacer un nudo - node  
@@ -2022,9 +2022,9 @@ Iraq - Iraqi
 iridio - iridium  
 Irlanda - Eire  
 Irlanda del Norte - Norde Aire  
-ironía - ironi  
+ironía - ironia  
 Irán - Iran  
-irónico - ironi di  
+irónico - ironike  
 isla - nese  
 Isla de Man - Manin nese  
 Isla de San Vicente - Sante Vincente  
@@ -2956,9 +2956,9 @@ pequeño - xiu
 pera - pera  
 perdedor - xiti bai ja  
 perder - xiti  
-perdonar (disculpar) - maf  
+perdonar (disculpar) - af  
 perdurable (longevo, prolongado) - long durike  
-perdón - maf  
+perdón - af  
 perecer - perex fa  
 peregrinaje - haje  
 peregrino - hajer  
