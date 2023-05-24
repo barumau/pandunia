@@ -4,7 +4,7 @@
 
 a - przy, z, na, w, u  
 a dure de -   
-a jong - być wycentrowanym, być w środku  
+a zong - być wycentrowanym, być w środku  
 a ke - gdzie  
 a kon - razem (wspólnie)  
 a korte - wkrótce  
@@ -70,9 +70,9 @@ ais hoki - hokej na lodzie
 aisike - lodowy  
 ais krem - lody  
 ais xarbe -   
-ajabe - dziw (cudo, zachwyt)  
-ajabife - zachwycać (zachwycić, zdumiewać, zdumieć, zadziwiać, zadziwić)  
-ajabike - zachwycający (zdumiewający, zadziwiający)  
+agibe - dziw (cudo, zachwyt)  
+agibife - zachwycać (zachwycić, zdumiewać, zdumieć, zadziwiać, zadziwić)  
+agibike - zachwycający (zdumiewający, zadziwiający)  
 akare - klescz (roztocze)  
 akasia - akacja  
 akle -   
@@ -96,7 +96,7 @@ algike - bolesny
 algometria -   
 alga - alga (wodorost)  
 alga fungu - porost  
-alga jangal - las wodorostów  
+alga zangal - las wodorostów  
 algalogia - algologia  
 alkan -   
 alken -   
@@ -114,7 +114,7 @@ alo sifa - różnica
 alo sifa di - różny (inny)  
 alpaka -   
 alumin - glin (aluminium)  
-aluminaje -   
+aluminage -   
 alumin oxide -   
 ame - miłość (afekt)  
 • aname -   
@@ -158,7 +158,7 @@ angul marke -
 angul pike -   
 angul ring - pierścień, pierścionek; obrączka  
 anime -   
-animaje - animacja  
+animage - animacja  
 animate -   
 animate - animować  
 • reanimate -   
@@ -301,7 +301,7 @@ badan - ciało
 badan di - cielesny  
 badavi - beduiński; nomadyczny  
 bage -   
-bagaje - bagaż  
+bagage - bagaż  
 bagi -   
 bagi bele -   
 bagre - tygrys  
@@ -350,7 +350,7 @@ bamia -
 ban - chleb  
 banana - banan  
 bande - związać (wiązać; zapiąć, zapinać; taśma)  
-bandaje - taśma; bandaż  
+bandage - taśma; bandaż  
 banda - zespół (drużyna, grupa)  
 bandera - flaga, sztandar  
 bang -   
@@ -431,7 +431,7 @@ bedingan - bakłażan, oberżyna
 bega - uciec, uciekać  
 behe - koza  
 bei -   
-Beijing - Pekin  
+Beiging - Pekin  
 bel - bel  
 bela -   
 Belarus - Białoruś  
@@ -480,7 +480,7 @@ bilta -
 bilor - kryształ  
 bine - zbudować, budować, konstruować  
 • konbine -   
-binaje - budynek (struktura)  
+binage - budynek (struktura)  
 bine plan - architektura  
 bine planer - architekt  
 bindu - punkt  
@@ -743,7 +743,7 @@ dante hin - bezzębny
 dante kume -   
 dape - bić, uderzyć, uderzać  
 dare - latać (fruwać)  
-daraje - ciecz (płyn)  
+darage - ciecz (płyn)  
 daria -   
 darike - ciekły (płynny)  
 dare tube - lejek  
@@ -784,7 +784,7 @@ deologia - teologia
 deonagre grame - dewanagari  
 deosofia - teozofia  
 debe -   
-debaje -   
+debage -   
 debize -   
 defe - obrona  
 defe bano - tarcza  
@@ -879,14 +879,14 @@ Dominika Vakilkratia - Republika Dominikańska (Dominikana)
 domino - domino  
 don - dać, dawać  
 • redon -   
-donaje - podarunek, dar, prezent  
-donaje ceke -   
+donage - podarunek, dar, prezent  
+donage ceke -   
 donive -   
 dong - wschód  
 dong di - wschodni  
 dong gorila - goryl wschodni  
 Dong Timor - Timor Wschodni (Demokratyczna Republika Timoru Wschodniego)  
-donjon ventur - przygoda w lochu  
+dongen ventur - przygoda w lochu  
 dosil - oswojony (potulny, posłuszny)  
 dosil gene di - udomowiony (domowy)  
 doste - przyjaciel  
@@ -1006,7 +1006,7 @@ eskulte suta - rzeźbiarstwo
 espanofonike -   
 Espania - Hiszpania  
 esperanto - Esperanto  
-esponje - gąbka  
+sponge - gąbka  
 estan - cynk  
 Esti - Estonia  
 estibium - antymon  
@@ -1034,7 +1034,7 @@ ezmurude - szmaragd
 
 fe - zrobić (stworzyć, wykreować)  
 faide - zasób (zastosowanie, użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta)  
-faidaje - materiał (składnik, zasób)  
+faidage - materiał (składnik, zasób)  
 faidike - użyteczny, pomocny, przydatny, pożyteczny, korzystny  
 fake - jebać  
 famil - rodzina  
@@ -1103,7 +1103,7 @@ fete baxe - język sztuczny
 fetebil -   
 feter - twórca (czynnik)  
 feteria - fabryka, manufaktura  
-Fiji - Fidżi  
+Fizi - Fidżi  
 fikre - myśleć (dumać; myśl, pomysł)  
 file - zamiłowanie (-filia)  
 filiste - miłośnik (fan, -fil)  
@@ -1128,7 +1128,7 @@ fite - roślina, sadzonka
 fitologia - botanika  
 fixe - przyczepić, przymocować  
 • afixe - afiks  
-• afixaje - afisz (plakat)  
+• afixage - afisz (plakat)  
 • posfixe -   
 • prefixe - przedrostek (prefiks)  
 fize -   
@@ -1303,7 +1303,7 @@ gani - śpiewać (piosenka, pieśń)
 ganir -   
 ganir grupe - chór  
 Ganimede -   
-ganja - konopie  
+ganza - konopie  
 ganse - gęś  
 garanti - gwarancja  
 garde - chronić, strzec,  osłaniać, bronić  
@@ -1414,7 +1414,7 @@ glukogen -
 glukos -   
 glute - klej  
 glute bande -   
-glute bandaje -   
+glute bandage -   
 gluten - gluten  
 glutike - lepki (kleisty)  
 glutive baxe -   
@@ -1450,7 +1450,7 @@ grafi sugata -
 gram - gram  
 grame -   
 • programe - program  
-• programaje -   
+• programage -   
 • programer - programista, koder  
 gran - cząstka  
 granite - granit  
@@ -1517,8 +1517,8 @@ haha - śmiać się
 haide - niech my, hajda  
 haima - namiot  
 Haiti - Haiti  
-haje -   
-hajer -   
+hage -   
+hager -   
 haki - pył  
 haki cupu gi - odkurzacz  
 haki rang -   
@@ -1633,7 +1633,7 @@ hidre - wodór
 hidrate -   
 hidre peroxide -   
 hidrargente - rtęć  
-hijabu - welon (woalka)  
+higabu - welon (woalka)  
 hima - śnieg  
 hima duna -   
 hima rose - szron  
@@ -1668,7 +1668,7 @@ hobi - hobby
 hobiiste -   
 hogo - ogień  
 hogo di - ognisty  
-hogo puja - kult ognia  
+hogo puje - kult ognia  
 hogo sanduku - latarnia  
 hogo seku - krzemień  
 hogo tehni - pirotechnika  
@@ -1694,7 +1694,7 @@ hormon - hormon
 Horvatia - Chorwacja  
 hotel - hotel  
 hua - kwiat  
-hua jara -   
+hua kundi -   
 hua koli - kalafior  
 hua mosim - wiosna  
 hua pote -   
@@ -1758,7 +1758,7 @@ imperial -
 imperialisme - imperializm  
 imperialiste - imperialista  
 in - wnętrze (środek)  
-inaje - wnętrze (środek)  
+inage - wnętrze (środek)  
 in bum - implozja  
 in di - wewnętrzny  
 inike - wewnętrzny  
@@ -1773,7 +1773,7 @@ in puxe - ścisnąć (sciskać, wycisnąć)
 in tene - zawierać  
 intre -   
 intre -   
-intraje -   
+intrage -   
 intromun - wejście  
 in verse jen -   
 in vide -   
@@ -1815,38 +1815,38 @@ jaija -
 jain din - dźinizm, dżinizm  
 Jakarta - Dżakarta  
 jake - kurtka  
-jame - kolekcjonować, zebrać, zbierać  
-• ajame - spotkać (spotkanie, zebranie)  
-• anjame - rozproszyć, rozpraszać  
-• anjame di - rzadki (rozrzedzony, rozproszony)  
-jamia - kolekcja, zbiór; zgromadzenie, zebranie  
-jamive - zbiorowy, zbiorczy  
-jame karte -   
+zame - kolekcjonować, zebrać, zbierać  
+• azame - spotkać (spotkanie, zebranie)  
+• anzame - rozproszyć, rozpraszać  
+• anzame di - rzadki (rozrzedzony, rozproszony)  
+zamia - kolekcja, zbiór; zgromadzenie, zebranie  
+zamive - zbiorowy, zbiorczy  
+zame karte -   
 Jamaika - Jamajka  
 jampe - skoczyć, skakać  
 jamul - czapetka kuminowa  
 jan -   
-jan buda din -   
-janive -   
+zan buda din -   
+zanive -   
 janela - okno  
 janela frem -   
-jang - walka, wojna  
-jang di - militarny, wojskowy, wojenny  
-janger - wojownik, bojownik  
-jang suta - sztuka walki  
-jangal - las, dżungla, zagajnik  
-jara - dzban, dzbanek; słój, słoik; wazon  
+zang - walka, wojna  
+zang di - militarny, wojskowy, wojenny  
+zanger - wojownik, bojownik  
+zang suta - sztuka walki  
+zangal - las, dżungla, zagajnik  
+kundi - dzban, dzbanek; słój, słoik; wazon  
 jaru -   
 jau - jęczmień  
 javabe - odpowiedzieć (odpowiadać; odpowiedź, odzew)  
-Jayer - Algieria  
+Alzeria - Algieria  
 jaze - jazz, dżez  
 jebe - kieszeń  
 jebe caku -   
-jeka - pożyczyć  
-jeka don - pożyczać komuś (pożyczyć komuś)  
-jeka lexe - zapożyczenie (wyraz obcy)  
-jeka na - pożyczać (pożyczyć)  
+zeka - pożyczyć  
+zeka don - pożyczać komuś (pożyczyć komuś)  
+zeka lexe - zapożyczenie (wyraz obcy)  
+zeka na - pożyczać (pożyczyć)  
 jele - uwięzić, więzić, pozbawić wolności  
 jele - więzienie, kara więzienia, kara pozbawienia wolności  
 jeler - strażnik więzienny  
@@ -1856,36 +1856,36 @@ jen - osoba
 jen (jen men) -   
 jen bahai -   
 jen di - osobisty, intymny, prywatny  
-jen jami -   
-jenju - perła  
-jenju table - abak (liczydło)  
+jen zamia -   
+zenzu - perła  
+zenzu table - abak (liczydło)  
 jensen - żeń-szeń  
-Jerze - Jersey  
+Gerze - Jersey  
 jete -   
 • exjete -   
 • injete - wstrzyknąć, wstrzykiwać  
-• injetaje - zastrzyk  
+• injetage - zastrzyk  
 • projete - projekt, planowane przedsięwzięcie  
 • rejete -   
 jete grafe - wyświetlać (rzut, projekcja)  
-Jibuti - Dżibuti  
-jihade -   
-jin -   
-jiva - żyć (żywy, żyjący; życie)  
-• trajiva -   
+Gibuti - Dżibuti  
+gihade -   
+gin -   
+ziva - żyć (żywy, żyjący; życie)  
+• traziva -   
 joke - żart  
 joker - żartowniś, dowcipniś  
-jong - środkowy, centralny  
-Jong Afrika Vakilkratia - Republika Środkowoafrykańska  
-jong di - centralny (środkowy)  
-jong fon - samogłoska  
-jong xulekan -   
-Jongoku - Chiny  
+zong - środkowy, centralny  
+Zong Afrika Vakilkratia - Republika Środkowoafrykańska  
+zong di - centralny (środkowy)  
+zong fon - samogłoska  
+zong xulekan -   
+Zong gogia - Chiny  
 jovar - sorgo  
 jube - żupan  
 jude - sądzić (osądzić)  
 • prejude -   
-judaje - wyrok  
+judage - wyrok  
 juder - sędzia  
 judike -   
 judau - judo  
@@ -1903,7 +1903,7 @@ jun nen - młodość
 jun sau -   
 jun sis -   
 junta - młodość  
-jung - gatunek  
+zung - gatunek  
 jus - sok  
 juste - tylko (precyzyjny, dokładny)  
 juste pauer - snajper (strzelec wyborowy)  
@@ -1930,11 +1930,11 @@ kafe rang - brązowy, koloru kawy
 kafe salmon - pstrąg potokowy  
 kafir - niewierny (poganin, niewierzący)  
 kafur - kamfora  
-kaguji - papier  
-kaguji limon - lima (limonka)  
+kaguzi - papier  
+kaguzi limon - lima (limonka)  
 kai - otwarty, niezamknięty  
 Kaiman nesia - Kajmany  
-kaju - nerkowiec  
+kasu - nerkowiec  
 kaka - defekować, srać  
 kaka - ekskrement, gówno  
 kakau - kakao  
@@ -1994,7 +1994,7 @@ kane minte - mięta zielona (mięta kłosowa)
 kane sor -   
 kanga - grzebień  
 kangaru - kangur  
-kanjar - sztylet (puginał)  
+kanzar - sztylet (puginał)  
 kanon -   
 kanon di -   
 kanse - rak (nowotwór złośliwy)  
@@ -2113,9 +2113,9 @@ ken - znać (wiedzieć)
 • ankene -   
 • ankenike - dziwny (nieznany)  
 • diskene - rozróżniać (rozróżnić)  
-• konkenaje - informacja  
+• konkenage - informacja  
 • rekene -   
-kenaje - wiedza  
+kenage - wiedza  
 kenation -   
 • ankenive -   
 kenize - poinformować, informować, zakomunikować, komunikować  
@@ -2413,7 +2413,7 @@ leng mosim di - zimowy
 lense - soczewka  
 lenxi - ćwiczenie  
 lete - czytać  
-letaje -   
+letage -   
 letebil -   
 leter -   
 letaratur -   
@@ -2437,7 +2437,7 @@ lexofiliste - logofil (miłośnik słów)
 lexe gense - rodzaj gramatyczny  
 lexograme -   
 • rilexife -   
-lexe jama - słownictwo  
+lexe zamia - słownictwo  
 lexe liste - lista słów  
 lexunife -   
 liama - lama  
@@ -2578,7 +2578,7 @@ Magyar - Węgry
 mahala - dzielnica  
 maina -   
 mais - kukurydza  
-majang - madżong  
+mazang - madżong  
 Makah - Mekka  
 makale - artykuł, tekst  
 makan hua - mlecz  
@@ -2638,7 +2638,7 @@ marisden - wtorek
 marke - znak (trop)  
 Marxal nesia - Wyspy Marshalla  
 mase -   
-masaje - masaż  
+masage - masaż  
 masa - masa  
 masa mula - bulwa  
 masa mula sol hua - topinambur  
@@ -2663,8 +2663,8 @@ mate -
 mate cai -   
 matras - materac  
 max - bardzie  
-maxaje - dodatkowy  
-maxaje - dodatkowy  
+maxage - dodatkowy  
+maxage - dodatkowy  
 max fili - preferować (woleć)  
 max fili di - ulubiony  
 max fili sim -   
@@ -2673,7 +2673,7 @@ maxia - większość
 maxife -   
 maxike - większościowy, wiodący, główny  
 maxim - nabardziej, maksymalnie  
-maximaje - maksimum  
+maximage - maksimum  
 maximal - maksymalny  
 maximize - zmaksymalizować  
 max ka bas - zbyt  
@@ -2773,7 +2773,7 @@ mi su - mój
 Mianma - Mjanma, Birma  
 miau - kot  
 mide - środek  
-midaje -   
+midage -   
 midia -   
 midike - średni  
 mide noce - północ  
@@ -2814,7 +2814,7 @@ mintol - mentol
 minute - minuta  
 mire -   
 • amire -   
-miraje - miraż (fatamorgana)  
+mirage - miraż (fatamorgana)  
 mirebil -   
 mirer -   
 mire plate - lustro  
@@ -2828,8 +2828,8 @@ mirde - nikły
 • tramiseon -   
 • tramiser -   
 mise - wysłać (wyemitować)  
-misaje - wiadomość  
-misajer - posłaniec (wysłannik)  
+misage - wiadomość  
+misager - posłaniec (wysłannik)  
 mision -   
 misioner - misjonarz  
 misal - przykład  
@@ -2837,7 +2837,7 @@ miskin - biedny, mizerny
 Misre - Egipt  
 misrian - egipski  
 mite -   
-mitaje -   
+mitage -   
 mitike -   
 mite vide - iluzja (halucynacja)  
 mitre - metr  
@@ -2851,7 +2851,7 @@ module -
 mogu - błonka (membrana)  
 moka - drzewo  
 moka bano - deska  
-moka jong parke - arboretum  
+moka zung parke - arboretum  
 moka kane - słup (pal, kołek)  
 moka mate - drewno  
 moka saner - stolarz  
@@ -2868,7 +2868,7 @@ moli hua cai -
 moliden - molibden  
 moluske - mięczak (morski bezkręgowiec)  
 mone -   
-monaje - monada  
+monage - monada  
 monograme -   
 monike -   
 monisme - monizm  
@@ -2956,9 +2956,9 @@ nafas - oddech
 nafte guku - złocień indyjski  
 nahun - paznokieć  
 nahunate -   
-najis -   
-najis bindu -   
-najis di -   
+nagis -   
+nagis bindu -   
+nagis di -   
 nam - imię, nazwa  
 • annam - antonim  
 • dusnamize - obrazić  
@@ -3085,7 +3085,7 @@ nice di - poniższy
 nice kitabe -   
 nide - gniazdo (ul, nora, jama, barłóg, legowisko)  
 Nigeria - Nigeria  
-Nijer - Niger  
+Niger - Niger  
 Nikaragua - Nikaragua  
 nikel - nikiel  
 nil - niebieski  
@@ -3136,7 +3136,7 @@ nos di - nosowy
 nostalgia - nostalgia (tęsknota)  
 nostalgike - nostalgiczny  
 note - notować, obserwować, zauważyć, zauważać  
-notaje - uwaga, obserwacja  
+notage - uwaga, obserwacja  
 note angil - wiadomość, zawiadomienie, powiadomienie  
 note buke - notatnik  
 notize - powiadomić, powiadamiać  
@@ -3249,7 +3249,7 @@ pake -
 pake - zapakować, pakować  
 pake - paczka, paka  
 • depake -   
-pakaje -   
+pakage -   
 pakete -   
 paka -   
 Pakistan - Pakistan  
@@ -3280,7 +3280,7 @@ pan xe - wszystko
 Panama - Panama  
 panda - panda  
 panir - twaróg  
-panjabi - pendżabski  
+panzabe - pendżabski  
 panka - skrzydło  
 pankreas - trzustka  
 pante - spodnie (pantalony, portki)  
@@ -3321,7 +3321,7 @@ partecepe - uczestniczyć, wziąć udział, brać udział
 parteceper - uczestnik  
 partia - partia  
 pas - minąć, mijać, przeminąć, przemijać  
-pasaje -   
+pasage -   
 pas di - przeszły, miniony  
 pasive - pasywny (nieaktywny)  
 pas lexe -   
@@ -3355,7 +3355,7 @@ pei - zapłata, opłata
 pei kar - profesja, zajęcie, zawód  
 pei kar di -   
 pei karer -   
-pei kar jiva -   
+pei kar zive -   
 pele -   
 • apele -   
 • depele -   
@@ -3382,7 +3382,7 @@ penter - malarz
 pente tela -   
 per -   
 • expere -   
-• experaje -   
+• experage -   
 • experike -   
 pere -   
 per cin -   
@@ -3412,7 +3412,7 @@ pexe saider - rybak
 pexe tanke - akwarium  
 piano - pianino  
 pigu - pośladki, pupa, tyłek, zadek  
-pijin - pidżin, język pomocniczy  
+pizin - pidżin, język pomocniczy  
 pike -   
 pil - skóra  
 pilau - pilaw  
@@ -3550,10 +3550,10 @@ poze - pozować (ustawiać się; poza, pozycja)
 • expoze - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
 • inpoze -   
 • inpoze -   
-• konpozaje -   
+• konpozage -   
 • pospoze -   
-• pospozaje -   
-• prepozaje -   
+• pospozage -   
+• prepozage -   
 • propoze - proponować (sugerować; propozycja, sugestia)  
 prate - praktyka, aktualność  
 pratike - practyczny, pragmatyczny  
@@ -4062,7 +4062,7 @@ Sude Amerika - Ameryka Południowa
 Sude cosen - Korea Południowa  
 sude di - południowy  
 Sude Iria (Alonia) - Osetia Południowa  
-Sude Jorjia e Sude Sanduice nesia - Wyspy Georgia Południowa i Sandwich Południowy  
+Sude Giorgia e Sude Sanduice nesia - Wyspy Georgia Południowa i Sandwich Południowy  
 Sude Sudan - Sudan Południowy  
 sueda - pot  
 sueda di - spocony  
@@ -4137,7 +4137,7 @@ Tai Dexa - Tajlandia
 Taibei - Tajpej  
 taiga - tajga  
 Taivan - Tajwan, Republika Chińska  
-Tajiki - Tadżykistan  
+Tazike - Tadżykistan  
 talium - tal  
 tala - zamek (zapięcie)  
 • detala - otworzyć (otwierać, odkluczyć, odkluczać)  
@@ -4331,7 +4331,7 @@ tumen su -
 tumimen -   
 tu su - twój  
 tuale - ręcznik  
-tuale kaguji - papier toaletowy  
+tuale kaguzi - papier toaletowy  
 tuale kamar - taleta, WC  
 tube - tuba, rura  
 tubule -   
@@ -4375,7 +4375,7 @@ Umbriel -
 umur - wiek  
 umur di -   
 un - jeden (1)  
-unaje - jednostka miary  
+unage - jednostka miary  
 undeisme - monoteizm  
 undurike - ciągły (analogowy)  
 undurike horloger -   
@@ -4509,7 +4509,7 @@ vide - patrzeć, widzieć
 • previde - przewidzieć (spodziewać się)  
 • anprevide di - niespodziewany  
 • previde di - spodziewany (przewidziany)  
-vidaje - widok, wzrok  
+vidage - widok, wzrok  
 vide bande -   
 vider - obserwator (widz)  
 vide medan - pole widzenia  
@@ -4517,7 +4517,7 @@ vide punte - perspektywa (punkt widzenia)
 vidua - wdowa  
 Viete - Wietnam  
 viete baxe - wietnamski  
-vijin - glutaminian sodu  
+vizing - glutaminian sodu  
 viki -   
 viki makala - artykuł wiki  
 viki pedia -   
@@ -4668,7 +4668,7 @@ xukre - dzięki, dzięki ci
 xukria - wdzięczność  
 xule - nauczyć się, uczyć się, studiować  
 xule -   
-xulaje - lekcja  
+xulage - lekcja  
 xuler - uczeń, student  
 xule guru - nauczyciel  
 xulize -   

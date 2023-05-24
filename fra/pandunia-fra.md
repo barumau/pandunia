@@ -46,8 +46,8 @@ ais hoki - hockey sur glace
 aisike - glacé (glacial, gelé)  
 ais krem - crème glacée  
 ais xarbe - sorbet  
-ajabe - merveille  
-ajabife - éblouir (étonner, stupéfier, surprendre)  
+agibe - merveille  
+agibife - éblouir (étonner, stupéfier, surprendre)  
 akare - acarien  
 akrabe - scorpion  
 ale - autre  
@@ -63,7 +63,7 @@ Alaska - Alaska
 algometria - algométrie  
 alga - algue  
 alga fungu - lichen  
-alga jangal - forêt de kelp  
+alga zangal - forêt de kelp  
 alkan - alcane  
 alken - alcène  
 alkil - alkyle  
@@ -78,7 +78,7 @@ alo sexe di - hétérosexuel
 alo sifa - différence  
 alo sifa di - différent  
 alumin - aluminium  
-aluminaje - alun  
+aluminage - alun  
 alumin oxide - alumine (oxyde d'aluminium)  
 ame - amour (affection)  
 • aname - exécrer  
@@ -115,7 +115,7 @@ angul - doigt
 angul marke - empreinte digitale  
 angul pike - bout de doigt  
 anime - âme (esprit)  
-animaje - animation  
+animage - animation  
 animate - animer  
 animate - animer  
 • reanimate - réanimer  
@@ -226,7 +226,7 @@ badam - amande
 badan - corps  
 badavi - bédouin  
 bage - sac  
-bagaje - bagage  
+bagage - bagage  
 bagi bele - bêche (pelle)  
 bagre - tigre  
 bagre oselote - oncille  
@@ -262,7 +262,7 @@ bamia - gombo
 ban - pain  
 banana - banane  
 bande - ruban (bande)  
-bandaje - bandage  
+bandage - bandage  
 banda - bande  
 bandera - drapeau  
 bang - masse d'armes  
@@ -343,7 +343,7 @@ bil ki - peut-être
 bilta - capacité (pouvoir, habileté)  
 bilor - cristal  
 bine - construire  
-binaje - bâtiment  
+binage - bâtiment  
 bine plan - architecture  
 bine planer - architecte  
 bingo - bingo  
@@ -486,7 +486,7 @@ deokata - mythe
 deonagre grame - dévanagari  
 deosofia - théosophie  
 debe - devoir (obligation)  
-debaje - dette  
+debage - dette  
 debize - obliger (imposer)  
 defe bano - bouclire  
 defe kaska - armure  
@@ -527,7 +527,7 @@ dom di - domestique
 dom gogia - patrie  
 dom zeze - mouche  
 don - donner  
-donaje ceke - chèque cadeau  
+donage ceke - chèque cadeau  
 donive - généreux  
 dong - east (orient)  
 dosil - docile (insipide)  
@@ -576,7 +576,7 @@ esential - essentiel (fondamental)
 esai - essai  
 eskran - écran  
 eskulter - sculpteur  
-esponje - éponge  
+sponge - éponge  
 estan - étain  
 estibium - antimoine  
 estrontium - strontium  
@@ -630,7 +630,7 @@ fiorde - fiord
 fite - plante (végétal)  
 fitologia - botanique  
 • afixe - afficher  
-• afixaje - affiche  
+• afixage - affiche  
 fizologia - physique  
 flece - flèche  
 flerovium - flérovium  
@@ -764,7 +764,7 @@ glukerol - glycérol (glycérine
 glukin - glycine  
 glukogen - glycogène  
 glukos - glucose  
-glute bandaje - pansement (sparadrap)  
+glute bandage - pansement (sparadrap)  
 glutike - adhésif (collant)  
 glutize - coller  
 gol - but (destination)  
@@ -801,8 +801,8 @@ hafenium - hafnium
 haha - rire  
 haima - tente  
 Haiti - Haïti  
-haje - pèlerinage  
-hajer - pèlegrin  
+hage - pèlerinage  
+hager - pèlegrin  
 haki - poussière  
 haki rang - kaki  
 haku - droit  
@@ -858,7 +858,7 @@ hidre - hydrogène
 hidrate - hydrate  
 hidre peroxide - peroxyde d'hydrogène  
 hidrargente - mercure  
-hijabu - voile  
+higabu - voile  
 hima - neige  
 Hindocin - Indochine  
 hindium - indium  
@@ -913,7 +913,7 @@ in klus - y compris
 in klus di - inclusif  
 inlai - accès  
 intre - entrer  
-intraje - intestin (entrailles, ventre, boyau)  
+intrage - intestin (entrailles, ventre, boyau)  
 in verse jen - introverti  
 iode - iode  
 iridium - iridium  
@@ -927,36 +927,36 @@ itis - inflammation
 
 jai - vaincre  
 jain din - jaïnisme  
-jame karte - carte à collectionner  
+zame karte - carte à collectionner  
 jamul - prune de Java  
-jan buda din - zen  
+zan buda din - zen  
 janela - fenêtre  
-jangal - forêt (jungle)  
-jara - jarre (carafe, cruche)  
+zangal - forêt (jungle)  
+kundi - jarre (carafe, cruche)  
 jaru - balai  
 jau - orge  
 javabe - réponse  
-Jayer - Algérie  
+Alzeria - Algérie  
 jebe - poche  
 jebe caku - canif  
-jeka - prêter (empruntre)  
-jeka don - prêter  
-jeka na - empruntre  
+zeka - prêter (empruntre)  
+zeka don - prêter  
+zeka na - empruntre  
 jelekan - prison (geôle)  
 jen - personne  
 jen (jen men) - on  
-jen jami - foule  
-jenju table - abaque (boulier compteur)  
+jen zamia - foule  
+zenzu table - abaque (boulier compteur)  
 • projete - projet  
 jete grafe - projeter (image projection)  
-jihade - lutte  
-jin - esprit (génie)  
-jiva - vivre (vivant; vie)  
-• trajiva - survivre  
-jong - centre  
-jong fon - voyelle  
-jong xulekan - école secondaire  
-Jongoku - Chine  
+gihade - lutte  
+gin - esprit (génie)  
+ziva - vivre (vivant; vie)  
+• traziva - survivre  
+zong - centre  
+zong fon - voyelle  
+zong xulekan - école secondaire  
+Zong gogia - Chine  
 jovar - sorgho  
 jube - robe  
 • prejude - préjuger  
@@ -986,9 +986,9 @@ kafe pote - cafetière
 kafe rang - brun (marron)  
 kafe salmon - truite brune (truite de mer)  
 kafur - camphre  
-kaguji - papier  
-kaguji limon - lime (citron vert)  
-kaju - cajou  
+kaguzi - papier  
+kaguzi limon - lime (citron vert)  
+kasu - cajou  
 kaki - kaki  
 kalium - potassium  
 kala - noir  
@@ -1229,7 +1229,7 @@ leng mosim - hiver
 leng mosim di - hivernal (hibernal)  
 lense - lentille  
 lete - lire  
-letaje - matériel de lecture  
+letage - matériel de lecture  
 letebil - lisible  
 leter - lecteur  
 letaratur - littérature  
@@ -1245,7 +1245,7 @@ lexeme - lexème
 lexe fen - syllabe  
 lexe gense - genre grammatical  
 • rilexife - relexifier  
-lexe jama - vocabulaire (lexique)  
+lexe zamia - vocabulaire (lexique)  
 lexunife - lexicaliser  
 liama - lama  
 libele - libellule  
@@ -1314,7 +1314,7 @@ madisme - matérialisme
 magenium - magnésium  
 Magribia - Maroc  
 mahala - quartier  
-majang - mah-jong  
+mazang - mah-jong  
 makan hua - dandélion  
 makin - machine  
 makinike - mécanique  
@@ -1362,7 +1362,7 @@ max fili di - favori (préféré)
 max fili sim - favoritisme  
 maxia - majorité  
 maxike - majeur  
-maximaje - maximum  
+maximage - maximum  
 mayur - paon  
 mece - match  
 mede - aide (secours)  
@@ -1420,7 +1420,7 @@ mime - imiter
 mimer - imitateur (mime)  
 minte - menthe  
 mire - mirer  
-miraje - mirage  
+mirage - mirage  
 mirebil - merveille  
 mire plate - miroir  
 mirde - faible  
@@ -1430,8 +1430,8 @@ mirde - faible
 • tramise - transmitir  
 • tramiseon - transmisión  
 • tramiser - transmisor  
-misaje - message  
-misajer - messager  
+misage - message  
+misager - messager  
 mision - misión  
 misioner - misionero  
 Misre - Égypte  
@@ -1442,7 +1442,7 @@ module - module
 mogu - membrane  
 moka - arbre  
 moka bano - planche  
-moka jong parke - arboretum, pépinière  
+moka zung parke - arboretum, pépinière  
 moka kane - pieu  
 moka tana - bûche  
 mole - moudre  
@@ -1451,7 +1451,7 @@ molkan - moulin
 mole - mole (unité)  
 moli - jasmin  
 moliden - molybdène  
-monaje - monade  
+monage - monade  
 monograme - monogramme  
 monike - individu  
 mos - mousse  
@@ -1488,7 +1488,7 @@ nabi - prophétiser
 nabija - prophète (héraut)  
 nadir - rare  
 nadir mar - rarement  
-najis - pollution  
+nagis - pollution  
 nam - nom  
 • annam - antonyme  
 nam hin - innomé  
@@ -1570,7 +1570,7 @@ Noe di nave - arche de Noé
 nome - organiser  
 norde - nord  
 nostalgia - nostalgie  
-notaje - note  
+notage - note  
 nude - nu  
 nuka - cou (encolure, nuque)  
 nume - nombre (numéro; contar)  
@@ -1664,7 +1664,7 @@ parte - fragment
 partaner - partenaire  
 partia - partie (faction)  
 pas - passer  
-pasaje - passe (passage)  
+pasage - passe (passage)  
 pas lexe - mot de passe  
 pasporte - passeport  
 pasta - pâte  
@@ -1678,7 +1678,7 @@ pau gi - pistolet
 pauze - pause  
 payace - clown (paillasse)  
 pei kar - profession (métier)  
-pei kar jiva - carrière  
+pei kar zive - carrière  
 • expele - expulser  
 • propeler - hélice  
 pelpel - papillon  
@@ -2121,7 +2121,7 @@ truke - ruse
 tu - tu  
 tumen su - votre  
 tuale - serviette  
-tuale kaguji - papier toilette (papier hygiénique)  
+tuale kaguzi - papier toilette (papier hygiénique)  
 tuale kamar - toilette (cabinet, waters)  
 Tule - Thulé  
 tulium - thulium  
@@ -2281,7 +2281,7 @@ xukre - merci
 xukria - gratitude  
 xule - apprendre (étudier)  
 xule - éducation  
-xulaje - leçon  
+xulage - leçon  
 xuler - étudiant  
 xule guru - professeur (enseignant)  
 xulize - enseigner  

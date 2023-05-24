@@ -39,7 +39,7 @@ alge - 疼痛
 • analgive - 止痛药  
 alga - 藻类  
 alga fungu - 地衣  
-alga jangal - 海藻林  
+alga zangal - 海藻林  
 alkan - 烷烃  
 alken - 烯烃  
 alkin - 炔烃  
@@ -68,7 +68,7 @@ angil - 信息
 angul - 手指  
 angul marke - 指纹 (指印)  
 angul pike - 指尖  
-animaje - 活跃  
+animage - 活跃  
 anis - 茴芹  
 anis araki - 阿剌吉  
 antena - 天线  
@@ -133,7 +133,7 @@ baca - 小孩
 badam - 杏仁 (巴旦木)  
 badan - 身体  
 bage - 包  
-bagaje - 行李  
+bagage - 行李  
 bagre - 虎  
 bagre oselote - 小斑虎貓  
 bah - 呸  
@@ -166,7 +166,7 @@ bambu - 竹子
 bamia - 秋葵  
 ban - 包  
 banana - 香蕉  
-bandaje - 绷带  
+bandage - 绷带  
 banda - 班  (一帮)  
 bandera - 旗  
 bang - 棍棒  
@@ -228,7 +228,7 @@ bil es - 也许 (或是, 可能)
 bilive - 熟练  
 bil ki - 也许 (或是, 可能)  
 bine - 建设  
-binaje - 建筑  
+binage - 建筑  
 bine plan - 建筑学  
 bine planer - 建筑师  
 bingo - 宾果游戏  
@@ -359,7 +359,7 @@ dee - 神
 deokata - 神话  
 deonagre grame - 天城文  
 debe - 责任  
-debaje - 借款 (债务)  
+debage - 借款 (债务)  
 debize - 责  
 defe bano - 盾牌  
 defe kaska - 盔甲  
@@ -400,7 +400,7 @@ dolfin - 海豚
 dom - 家 (房子)  
 dom gogia - 祖国  
 • redon - 退回  
-donaje ceke - 礼物卡  
+donage ceke - 礼物卡  
 dong - 东  
 dosil - 驯服的  
 doste - 朋友 (友人)  
@@ -434,7 +434,7 @@ erbium - 铒
 es - 是  
 esentia - 存在  
 esai - 雜文  
-esponje - 海绵  
+sponge - 海绵  
 estan - 锡  
 estibium - 锑  
 estrontium - 锶  
@@ -583,7 +583,7 @@ glukerol - 甘油 ( 丙三醇)
 glukin - 甘氨酸  
 glukogen - 糖原  
 glukos - 葡萄糖  
-glute bandaje - 创可贴 (邦迪)  
+glute bandage - 创可贴 (邦迪)  
 glutike - 黏的  
 gogia jen - 公民  
 gol - 目的  
@@ -593,7 +593,7 @@ gradu mute - 发展 (开发)
 grafe cule - 影像处理  
 grafe kata - 漫画  
 • programe - 计划  
-• programaje - 软件  
+• programage - 软件  
 granite - 花岗石  
 grave - 砾石  
 • agrese - 攻击  
@@ -619,7 +619,7 @@ Habaxa - 阿比西尼亚
 hafenium - 铪  
 haha - 笑  
 haima - 帐篷  
-haje - 朝觐 (巡礼)  
+hage - 朝觐 (巡礼)  
 haki - 灰尘 (尘土)  
 haki rang - 卡其色  
 haku - 权利  
@@ -666,7 +666,7 @@ hidre - 氢
 hidrate - 水合物  
 hidre peroxide - 过氧化氢  
 hidrargente - 汞  
-hijabu - 面纱  
+higabu - 面纱  
 Hindocin - 中南半岛 (印度支那)  
 hindium - 铟  
 hinde reger - 拉贾  
@@ -689,7 +689,7 @@ holmium - 钬
 horur - 恐怖  
 hotel - 旅馆  
 hua - 花  
-hua jara - 花瓶  
+hua kundi - 花瓶  
 hua koli - 花椰菜  
 hua pote - 花盆  
 hui darte - 灰化土  
@@ -710,7 +710,7 @@ hura - 好哇
 iglu - 冰屋  
 iha uma - 骡  
 in bum - 内爆  
-intraje - 肠子  
+intrage - 肠子  
 in verse jen - 内向的  
 iode - 碘  
 iridium - 铱  
@@ -721,36 +721,36 @@ itis - 炎症
 ## J  
 
 jaibai - 勝敗  
-• ajame - 聚会 (会议)  
+• azame - 聚会 (会议)  
 jamul - 閻浮樹  
 jan - 注意 (谨慎)  
-jan buda din - 禅宗  
-janive - 谨慎的  
+zan buda din - 禅宗  
+zanive - 谨慎的  
 janela - 窗戶  
 janela frem - 窗框  
-jang - 仗 (爭)  
-jangal - 森林  
-jara - 罐 (瓶)  
+zang - 仗 (爭)  
+zangal - 森林  
+kundi - 罐 (瓶)  
 jaru - 扫帚  
 jau - 大麦  
 javabe - 回答  
 jebe - 口袋 (荷包)  
 jebe caku - 小刀  
-jeka - 借  
-jeka don - 借出  
-jeka na - 借入  
+zeka - 借  
+zeka don - 借出  
+zeka na - 借入  
 jelekan - 监狱 (监牢)  
 jen - 人  
 jen bahai - 人海  
-jen jami - 人群  
-jenju table - 算盘  
+jen zamia - 人群  
+zenzu table - 算盘  
 jensen - 人蔘   
 jete grafe - 投射 (投影)  
-jiva - 生命  
-• trajiva - 生还  
-jong - 中心  
-jong xulekan - 中学  
-Jongoku - 中国  
+ziva - 生命  
+• traziva - 生还  
+zong - 中心  
+zong xulekan - 中学  
+Zong gogia - 中国  
 jovar - 高粱  
 jube - 长袍  
 • prejude - 偏见  
@@ -778,9 +778,9 @@ kafe pote - 咖啡壶
 kafe rang - 棕色 (色)  
 kafe salmon - 褐鳟  
 kafur - 樟脑  
-kaguji - 纸  
-kaguji limon - 墨西哥萊檬  
-kaju - 腰果树  
+kaguzi - 纸  
+kaguzi limon - 墨西哥萊檬  
+kasu - 腰果树  
 kaki - 柿子  
 kalium - 钾  
 kala - 黑色  
@@ -977,7 +977,7 @@ leng - 冷たい (寒い)
 leng mosim - 冬天  
 lense - 透镜  
 lete - 读 (看)  
-letaje - 读物  
+letage - 读物  
 leter - 读者  
 letaratur - 文学  
 letre - 信 (书信)  
@@ -987,7 +987,7 @@ lexe - 词
 lexeme - 词位  
 lexe fen - 音节  
 lexe gense - 文法的性  
-lexe jama - 词汇  
+lexe zamia - 词汇  
 liama - 大羊駝  
 libele - 蜻蜓  
 lider - 领导  
@@ -1046,7 +1046,7 @@ mager - 魔法师
 magenium - 镁  
 magi bala - 魔力  
 Magribia - 摩洛哥  
-majang - 麻将  
+mazang - 麻将  
 makan hua - 蒲公英  
 makin - 机  
 makinike - 技工  
@@ -1133,11 +1133,11 @@ milke kardon - 水飞蓟
 mime - 模拟  (模仿)  
 minte - 薄荷  
 mintol - 薄荷醇  
-miraje - 海市蜃楼  
+mirage - 海市蜃楼  
 mire plate - 镜子  
 mirde - 微弱的  
 • konmisea - 委员会  
-misaje - 信息  
+misage - 信息  
 misioner - 传教士  
 Misre - 埃及  
 mitre - 米 (公尺)  
@@ -1188,7 +1188,7 @@ nabija - 预言家
 nadir - 稀有 (稀少的)  
 nadir mar - 很少  
 nafte guku - 野菊花  
-najis - 污染物  
+nagis - 污染物  
 nam - 名  
 nam hin - 无名  
 nam kitabe - 签署  
@@ -1260,7 +1260,7 @@ Noe di nave - 诺亚方舟
 nome - 组织  
 norde - 北  
 nostalgia - 怀旧  
-notaje - 便条  
+notage - 便条  
 nuka - 颈  
 nume - 数  
 numerike - 数字的  
@@ -1675,7 +1675,7 @@ tu - 你
 tumen - 你们  
 tumen su - 你们的  
 tumimen - 咱们  
-tuale kaguji - 卫生纸  
+tuale kaguzi - 卫生纸  
 tuale kamar - 厕所  
 tulium - 铥  
 tulpan - 郁金香  
@@ -1742,7 +1742,7 @@ veze di - 重型的
 vide - 看  
 vide bande - 录像带  
 vidua - 寡妇  
-vijin - 味精  
+vizing - 味精  
 virge - 处女  
 vise kitabe - 重写  
 vise ma - 继母  
@@ -1808,7 +1808,7 @@ xukre - 谢谢
 xukria - 谢意  
 xule - 学习  
 xule - 教育  
-xulaje - 课  
+xulage - 课  
 xuler - 学生  
 xule guru - 教师 (老师)  
 xulize - 教学  

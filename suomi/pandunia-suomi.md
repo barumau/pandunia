@@ -40,7 +40,7 @@ Lause **mi fa huru damen** merkitsisi samaa, mutta siinä olisi merkityksen kann
 
 a - luona (-lla, -ssa)  
 a dure de - aikana (kuluessa)  
-a jong - keskittyä (olla keskellä)  
+a zong - keskittyä (olla keskellä)  
 a ke - missä?  
 a kon - yhdessä  
 a korte - pian  
@@ -103,9 +103,9 @@ ais hoki - jääkiekko
 aisike - jäinen  
 ais krem - jäätelö  
 ais xarbe - mehujää (sorbetti)  
-ajabe - ihmetys (hämmästys)  
-ajabife - ällistyttää  
-ajabike - ihmeellinen (ällistyttävä, merkillinen)  
+agibe - ihmetys (hämmästys)  
+agibife - ällistyttää  
+agibike - ihmeellinen (ällistyttävä, merkillinen)  
 akare - punkki  
 akasia - akaasia  
 akle - järki (mieli)  
@@ -128,7 +128,7 @@ algike - kivulias (tuskallinen)
 algometria - kivunmittaus (algometria)  
 alga - levä  
 alga fungu - jäkälä  
-alga jangal - leväkasvusto  
+alga zangal - leväkasvusto  
 algalogia - levätiede  
 alkan - alkaani  
 alken - alkeeni  
@@ -146,7 +146,7 @@ alo sifa - erilaisuus (ero)
 alo sifa di - erilainen  
 alpaka - alpakka  
 alumin - alumiini  
-aluminaje - aluna  
+aluminage - aluna  
 alumin oxide - alumiinioksidi  
 ame - rakkaus (tykkääminen)  
 • aname - inhota  
@@ -188,7 +188,7 @@ angul marke - sormenjälki
 angul pike - sormenpää  
 angul ring - sormus  
 anime - elämän henki  
-animaje - animaatio (piirroselokuva, piirretty)  
+animage - animaatio (piirroselokuva, piirretty)  
 animate - elävöittää (animoida)  
 animate - animoida  
 • reanimate - elvyttää (palauttaa henkiin)  
@@ -324,7 +324,7 @@ badan - keho (ruumis)
 badan di - ruumiillinen  
 badavi - beduiini  
 bage - laukku  
-bagaje - matkatavarat  
+bagage - matkatavarat  
 bagi - tarha (piha)  
 bagi bele - puutarhalapio  
 bagre - tiikeri  
@@ -372,7 +372,7 @@ bamia - okra
 ban - leipä  
 banana - banaani  
 bande - sitoa (side, käärö, nauha)  
-bandaje - side  
+bandage - side  
 banda - ryhmä (työryhmä, yhtye, bändi)  
 bandera - lippu  
 bang - nuija (maila, pamppu)  
@@ -453,7 +453,7 @@ bedingan - munakoiso
 bega - paeta (karata)  
 behe - vuohi  
 bei - toveri (saman joukon jäsen)  
-Beijing - Peking (Beijing)  
+Beiging - Peking (Beijing)  
 bel - beli (B)  
 bela - kurjuus (ahdinko, hankaluus, harmi)  
 Belarus - Valkovenäjä  
@@ -502,7 +502,7 @@ bilta - mahdollisuus (taito, kyky)
 bilor - kristalli  
 bine - rakentaa  
 • konbine - panna kokoon  
-binaje - rakennus (rakenne)  
+binage - rakennus (rakenne)  
 bine plan - arkkitehtuuri  
 bine planer - arkkitehti  
 bindu - täplä (läiskä)  
@@ -752,7 +752,7 @@ dante hin - hampaaton
 dante kume - hammasvalli  
 dape - lyödä (iskeä)  
 dare - virrata (virta, virtaus)  
-daraje - neste  
+darage - neste  
 daria - vesistö (meri, järvi, joki)  
 darike - nestemäinen  
 dare tube - lappo  
@@ -793,7 +793,7 @@ deologia - teologia
 deonagre grame - devanagari  
 deosofia - teosofia  
 debe - pitää (kuulua, olla velvollisuus; velvollisuus)  
-debaje - velka  
+debage - velka  
 debize - velvoittaa  
 defe - puolustus  
 defe bano - suojakilpi  
@@ -879,14 +879,14 @@ Dominika Vakilkratia - Dominikaaninen Tasavalta
 domino - dominopeli  
 don - antaa  
 • redon - palauttaa (antaa takaisin)  
-donaje - lahja  
-donaje ceke - lahjakortti  
+donage - lahja  
+donage ceke - lahjakortti  
 donive - antelias (avokätinen)  
 dong - itä  
 dong di - itäinen  
 dong gorila - idängorilla  
 Dong Timor - Itä-Timor  
-donjon ventur - luolaseikkailu  
+dongen ventur - luolaseikkailu  
 dosil - kesy  
 dosil gene di - kesytetty  
 doste - ystävä (kaveri)  
@@ -995,7 +995,7 @@ eskulte suta - kuvanveisto
 espanofonike - espanjaa puhuva  
 Espania - Espanja  
 esperanto - esperanto  
-esponje - sienieläin  
+sponge - sienieläin  
 estan - tina  
 Esti - Viro (Eesti)  
 estibium - antimoni  
@@ -1023,7 +1023,7 @@ ezmurude - smaragdi
 
 fe - tehdä (toimia)  
 faide - hyöty (etu)  
-faidaje - hyötyaines  
+faidage - hyötyaines  
 faidike - hyödyllinen  
 fake - panna (nussia)  
 famil - perhe  
@@ -1088,7 +1088,7 @@ fete baxe - keinotekoinen kieli (tekokieli, keinokieli)
 fetebil - tehtävissä oleva  
 feter - tekijä (toimija)  
 feteria - tehdas  
-Fiji - Fidži  
+Fizi - Fidži  
 fikre - ajatella (miettiä; ajatus, miete)  
 file - tykkääminen  
 filiste - fani (-fiili)  
@@ -1113,7 +1113,7 @@ fite - kasvi
 fitologia - kasvitiede  
 fixe - kiinnittää  
 • afixe - liite  
-• afixaje - juliste  
+• afixage - juliste  
 • posfixe - jälkiliite (postfiksi)  
 • prefixe - etuliite (prefiksi)  
 fize - fyysinen luonto  
@@ -1276,7 +1276,7 @@ gani - laulaa (laulu)
 ganir - laulaja  
 ganir grupe - kuoro  
 Ganimede - Ganymedes  
-ganja - kannabis (marihuana, hamppu)  
+ganza - kannabis (marihuana, hamppu)  
 ganse - hanhi  
 garanti - takuu  
 garde - vartioida (vahtia)  
@@ -1377,7 +1377,7 @@ glukogen - glykogeeni
 glukos - glukoosi (rypälesokeri)  
 glute - liima  
 glute bande - teippi (liimanauha)  
-glute bandaje - laastari  
+glute bandage - laastari  
 gluten - gluteeni  
 glutike - tahmainen (liimamainen)  
 glutive baxe - agglutinoiva kieli  
@@ -1471,8 +1471,8 @@ haha - nauraa
 haide - tehkäämme  
 haima - teltta  
 Haiti - Haiti  
-haje - pyhiinvaellus  
-hajer - pyhiinvaeltaja  
+hage - pyhiinvaellus  
+hager - pyhiinvaeltaja  
 haki - pöly (tomu)  
 haki cupu gi - pölynimuri  
 haki rang - khaki  
@@ -1580,7 +1580,7 @@ hidre - vety
 hidrate - hydraatti  
 hidre peroxide - vetyperoksidi  
 hidrargente - elohopea  
-hijabu - verho (huntu, peite)  
+higabu - verho (huntu, peite)  
 hima - lumi  
 hima duna - lumikinos  
 hima rose - kuura  
@@ -1614,7 +1614,7 @@ hobi - harrastus
 hobiiste - harrastaja (amatööri)  
 hogo - tuli  
 hogo di - tulinen  
-hogo puja - tulenpalvonta  
+hogo puje - tulenpalvonta  
 hogo sanduku - lyhty  
 hogo seku - piikivi  
 hogo tehni - pyrotekniikka  
@@ -1638,7 +1638,7 @@ hormon - hormoni
 Horvatia - Kroatia  
 hotel - hotelli  
 hua - kukka  
-hua jara - kukkamaljakko  
+hua kundi - kukkamaljakko  
 hua koli - kukkakaali  
 hua mosim - kevät  
 hua pote - kukkaruukku  
@@ -1700,7 +1700,7 @@ imperia - imperium
 imperialisme - imperialismi  
 imperialiste - imperialisti  
 in - sisus (sisäpuoli)  
-inaje - sisus (sisäpuoli)  
+inage - sisus (sisäpuoli)  
 in bum - luhistuminen  
 in di - sisä- (sisäinen)  
 inike - sisä- (sisäinen)  
@@ -1715,7 +1715,7 @@ in puxe - pusertaa
 in tene - sisältää  
 intre - mennä sisään  
 intre - sisäänpäin  
-intraje - sisälmykset  
+intrage - sisälmykset  
 intromun - sisäänkäynti  
 in verse jen - sisäänpäinsuuntautunut (introvertti)  
 in vide - introspektio  
@@ -1755,31 +1755,31 @@ jaija - voittaja
 jain din - jainalaisuus  
 Jakarta - Jakarta  
 jake - pikkutakki (jakku)  
-jame - koota (kerätä)  
-• ajame - tavata (tapaaminen, kokous)  
-• anjame - hajauttaa  
-• anjame di - hajanainen  
-jamia - yhteisö (kokoontuminen, kollektiivi)  
-jamive - kollektiivinen  
-jame karte - keräilykortti  
+zame - koota (kerätä)  
+• azame - tavata (tapaaminen, kokous)  
+• anzame - hajauttaa  
+• anzame di - hajanainen  
+zamia - yhteisö (kokoontuminen, kollektiivi)  
+zamive - kollektiivinen  
+zame karte - keräilykortti  
 Jamaika - Jamaika  
 jampe - hypätä (hyppiä)  
 jamul - jambolaani  
 jan - huomio (tarkkaavaisuus)  
-jan buda din - zenbuddhalaisuus  
-janive - tarkkaavainen  
+zan buda din - zenbuddhalaisuus  
+zanive - tarkkaavainen  
 janela - ikkuna  
 janela frem - ikkunankehys (ikkunanpuite)  
-jang - taistelu (sota)  
-jang di - sotilaallinen  
-janger - soturi (taistelija)  
-jang suta - kamppailulaji  
-jangal - metsä (viidakko)  
-jara - ruukku (kannu, maljakko, karahvi)  
+zang - taistelu (sota)  
+zang di - sotilaallinen  
+zanger - soturi (taistelija)  
+zang suta - kamppailulaji  
+zangal - metsä (viidakko)  
+kundi - ruukku (kannu, maljakko, karahvi)  
 jaru - luuta  
 jau - ohra  
 javabe - vastata (vastaus)  
-Jayer - Algeria  
+Alzeria - Algeria  
 jaze - jazz (jatsi)  
 jebe - tasku  
 jebe caku - taskuveitsi (linkkuveitsi)  
@@ -1791,32 +1791,32 @@ jen - henkilö
 jen (jen men) - ihmiset (yleisen persoonan pronomini)  
 jen bahai - ihmismeri  
 jen di - henkilökohtainen (privaatti)  
-jen jami - väkijoukko  
-jenju - helmi  
-jenju table - helmitaulu  
+jen zamia - väkijoukko  
+zenzu - helmi  
+zenzu table - helmitaulu  
 jensen - ginseng  
-Jerze - Jersey  
+Gerze - Jersey  
 • injete - ruiskuttaa  
-• injetaje - ruiske (injektio)  
+• injetage - ruiske (injektio)  
 • projete - hanke (projekti)  
 jete grafe - heijastaa kuvia (projisoida; projektio)  
-Jibuti - Djiboutia  
-jihade - kamppailu (taistelu)  
-jin - henki (sielu)  
-jiva - elää (elävä; elämä, olemassaolo)  
-• trajiva - selviytyä  
+Gibuti - Djiboutia  
+gihade - kamppailu (taistelu)  
+gin - henki (sielu)  
+ziva - elää (elävä; elämä, olemassaolo)  
+• traziva - selviytyä  
 joke - vitsi  
 joker - vitsiniekka  
-jong - keskus (keskikohta)  
-Jong Afrika Vakilkratia - Keski-Afrikan Tasavalta  
-jong fon - vokaali  
-jong xulekan - yläaste ja lukio  
-Jongoku - Kiina  
+zong - keskus (keskikohta)  
+Zong Afrika Vakilkratia - Keski-Afrikan Tasavalta  
+zong fon - vokaali  
+zong xulekan - yläaste ja lukio  
+Zong gogia - Kiina  
 jovar - durra (kirjodurra)  
 jube - kaapu  
 jude - tuomita  
 • prejude - ennakkosyytös  
-judaje - tuomio  
+judage - tuomio  
 juder - tuomari  
 judike - oikeudellinen  
 judau - judo  
@@ -1831,7 +1831,7 @@ jun man - poika (nuori mies)
 jun nen - nuoruusvuodet  
 jun sis - pikkusisko  
 junta - nuoruus  
-jung - laji  
+zung - laji  
 jus - mehu  
 juste - juuri (tarkka, täsmällinen)  
 
@@ -1853,10 +1853,10 @@ kafe pote - kahvipannu
 kafe rang - ruskea  
 kafir - pakana  
 kafur - kamferi  
-kaguji - paperi  
+kaguzi - paperi  
 kai - auki (avoin)  
 Kaiman nesia - Cayman-saaret  
-kaju - munuaispuu (cashew)  
+kasu - munuaispuu (cashew)  
 kaka - ulostaa (kakata)  
 kaka - uloste (kakka)  
 kakau - kaakao  
@@ -1907,7 +1907,7 @@ kane kasa - häkki
 kane sor - salpa (säppi)  
 kanga - kampa  
 kangaru - kenguru  
-kanjar - tikari  
+kanzar - tikari  
 kanon - klassikko  
 kanon di - klassinen (kanooninen)  
 kanse - syöpä  
@@ -2016,9 +2016,9 @@ ken - tietää tai tuntea
 • ankene - olla tietämättä (ignoorata)  
 • ankenike - vieras (tuntematon)  
 • diskene - erottaa (tietää eriksi)  
-• konkenaje - tieto  
+• konkenage - tieto  
 • rekene - tunnistaa  
-kenaje - tieto (tietämys)  
+kenage - tieto (tietämys)  
 kenation - kognitio (tajuaminen)  
 • ankenive - tietämätön  
 kenize - tiedottaa (informoida)  
@@ -2280,7 +2280,7 @@ leng mosim di - talvinen
 lense - linssi  
 lenxi - harjoitus  
 lete - lukea  
-letaje - lukemisto  
+letage - lukemisto  
 letebil - lukukelpoinen (luettava)  
 leter - lukija  
 letaratur - kirjallisuus  
@@ -2301,7 +2301,7 @@ lexe fen - tavu
 lexofilia - logofilia  
 lexofiliste - logofiili  
 lexe gense - kieliopillinen suku  
-lexe jama - sanasto  
+lexe zamia - sanasto  
 lexe liste - sanaluettelo  
 lexunife - leksikalisoitua  
 Libanen - Libanon  
@@ -2423,7 +2423,7 @@ Magyar - Unkari
 mahala - kaupunginosa (kortteli, naapurusto)  
 maina - kottarainen  
 mais - maissi  
-majang - mahjong  
+mazang - mahjong  
 makale - artikkeli (kirjoitus)  
 makas - sakset  
 Makau - Macao  
@@ -2476,7 +2476,7 @@ marisden - tiistai
 marke - merkitä (merkki, jälki)  
 Marxal nesia - Marshall-saaret  
 mase - vaivata (hieroa)  
-masaje - hieronta  
+masage - hieronta  
 masa - massa  
 masala - mauste  
 masala tike - tikka masala  
@@ -2498,8 +2498,8 @@ mate - matekasvi
 mate cai - mate (matejuoma)  
 matras - patja  
 max - enemmän (myös, lisäksi, plus)  
-maxaje - bonus  
-maxaje - lisä-  
+maxage - bonus  
+maxage - lisä-  
 max fili - suosia (pitää parempana)  
 max fili di - suosikki (suosittu)  
 max fili sim - suosinta (favoritismi)  
@@ -2507,7 +2507,7 @@ maxia - enemmistö
 maxife - lisätä (enentää)  
 maxike - enemmistö-  
 maxim - eniten  
-maximaje - maksimi (enimmäismäärä)  
+maximage - maksimi (enimmäismäärä)  
 maximal - enimmäis-  
 maximize - maksimoida  
 max ka bas - liikaa  
@@ -2589,7 +2589,7 @@ mi su - minun
 Mianma - Myanmar (Burma)  
 miau - kissa  
 mide - väli  
-midaje - väline (instrumentti)  
+midage - väline (instrumentti)  
 midia - media (tiedotusvälineet)  
 mide noce - keskiyö (puoliyö)  
 mien - nuudeli  
@@ -2627,7 +2627,7 @@ mintol - mentoli
 minute - minuutti  
 mire - tuijottaa (toljottaa)  
 • amire - ihailla  
-miraje - kangastus  
+mirage - kangastus  
 mirebil - ihmeteltävä  
 mirer - tuijottaja  
 mire plate - peili  
@@ -2639,8 +2639,8 @@ mire plate - peili
 • tramiseon - välitys (siirtäminen, lähetys)  
 • tramiser - lähetin  
 mise - lähettää  
-misaje - viesti  
-misajer - viestintuoja (airut)  
+misage - viesti  
+misager - viestintuoja (airut)  
 mision - lähetys  
 misioner - lähetti (lähetyssaarnaaja)  
 misal - esimerkki  
@@ -2648,7 +2648,7 @@ miskin - kurja (raukka)
 Misre - Egypti  
 misrian - egyptiläinen  
 mite - sepittää (keksiä; sepite, taru, legenda, myytti)  
-mitaje - harhaluulo (illuusio)  
+mitage - harhaluulo (illuusio)  
 mitike - keksitty (sepitteellinen)  
 mite vide - harhanäky (näköharha)  
 mitre - metri  
@@ -2661,7 +2661,7 @@ mode lexe - adverbi
 module - moduuli  
 mogu - kalvo (filmi)  
 moka - puu  
-moka jong parke - arboretum (puulajipuisto)  
+moka zung parke - arboretum (puulajipuisto)  
 moka kane - keppi (puukeppi)  
 moka mate - puuaines  
 moka saner - puuseppä  
@@ -2675,7 +2675,7 @@ moli hua cai - jasmiinitee
 moliden - molybdeeni  
 moluske - nilviäinen  
 mone - ainoa  
-monaje - monadi  
+monage - monadi  
 monike - yksilö  
 monisme - monismi  
 Monako - Monaco  
@@ -2866,7 +2866,7 @@ nia - aie (aikomus, tarkoitus)
 nice - alapuoli  
 nice di - ala-  
 Nigeria - Nigeria  
-Nijer - Niger  
+Niger - Niger  
 Nikaragua - Nikaragua  
 nikel - nikkeli  
 nil - sininen  
@@ -2914,7 +2914,7 @@ nos - nenä
 nos di - nenä- (nasaali)  
 nostalgia - kaipuu (ikävä, nostalgia)  
 note - huomata (hoksata)  
-notaje - huomio (kommentti, merkintä)  
+notage - huomio (kommentti, merkintä)  
 note angil - huomautus  
 note buke - muistikirja  
 notize - huomauttaa  
@@ -3015,7 +3015,7 @@ pake - pakottaa
 pake - pakata  
 pake - pakata  
 • depake - purkaa pakkaus  
-pakaje - pakkaus  
+pakage - pakkaus  
 pakete - paketti  
 paka - pakko  
 Pakistan - Pakistan  
@@ -3044,7 +3044,7 @@ pan xe - jokainen asia
 Panama - Panama  
 panda - panda  
 panir - rahka  
-panjabi - pandžabi (eräs intialainen kieli)  
+panzabe - pandžabi (eräs intialainen kieli)  
 panka - siipi  
 pankreas - haima  
 pante - housut  
@@ -3080,7 +3080,7 @@ partecepe - osallistua
 parteceper - osallistuja  
 partia - osapuoli (puolue)  
 pas - mennä ohi tai läpi  
-pasaje - sola (läpikulku)  
+pasage - sola (läpikulku)  
 pas di - ohitettu (mennyt)  
 pas lexe - tunnussana  
 paska - pääsiäinen  
@@ -3156,7 +3156,7 @@ pexe saider - kalastaja
 pexe tanke - akvaario  
 piano - piano  
 pigu - pylly (takapuoli, pakarat)  
-pijin - kontaktikieli (pidgin)  
+pizin - kontaktikieli (pidgin)  
 pike - kärki (pää)  
 pil - nahka (kuori, iho)  
 pilau - pilahvi  
@@ -3277,10 +3277,10 @@ poze - panna (asettaa; asetelma)
 • expoze - poistaa (paitsi, poislukien)  
 • inpoze - panna sisään  
 • inpoze - panna sisään  
-• konpozaje - komponentti (kokoonpane)  
+• konpozage - komponentti (kokoonpane)  
 • pospoze - siirtää taakse  
-• pospozaje - postpositio  
-• prepozaje - prepositio  
+• pospozage - postpositio  
+• prepozage - prepositio  
 • propoze - ehdottaa (ehdotus)  
 prate - käytäntö (pragmatia)  
 pratike - käytännöllinen (pragmaattinen)  
@@ -3773,7 +3773,7 @@ Tai Dexa - Thaimaa
 Taibei - Taipei  
 taiga - taiga  
 Taivan - Taiwan  
-Tajiki - Tadžikistan  
+Tazike - Tadžikistan  
 talium - tallium  
 tala - lukko  
 • detala - avata lukko  
@@ -3954,7 +3954,7 @@ tumen su - teidän
 tumimen - me ja sinä  
 tu su - sinun  
 tuale - pyyheliina  
-tuale kaguji - vessapaperi  
+tuale kaguzi - vessapaperi  
 tuale kamar - vessa  
 tube - putki (johto, tuubi)  
 tubule - tiehyt  
@@ -4123,7 +4123,7 @@ vide - nähdä
 • previde - ennustaa (nähdä ennalta)  
 • anprevide di - ennennäkemätön  
 • previde di - ennustettu  
-vidaje - näkymä  
+vidage - näkymä  
 vide bande - videonauha  
 vider - katsoja (tarkkailija)  
 vide medan - näkökenttä  
@@ -4131,7 +4131,7 @@ vide punte - näkökulma
 vidua - leski  
 Viete - Vietnam  
 viete baxe - vietnamilainen  
-vijin - natriumglutamaatti  
+vizing - natriumglutamaatti  
 viki - wiki  
 viki makala - wikikirjoitus  
 viki pedia - wikipedia  
@@ -4273,7 +4273,7 @@ xukre - kiitos
 xukria - kiitollisuus  
 xule - oppia (opiskella)  
 xule - koulutus  
-xulaje - oppi (opetus)  
+xulage - oppi (opetus)  
 xuler - oppilas  
 xule guru - opettaja  
 xulize - opettaa  

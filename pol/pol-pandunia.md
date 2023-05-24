@@ -28,7 +28,7 @@
  - altre  
  - altrisme  
  - alumin oxide  
- - aluminaje  
+ - aluminage  
  - Amazon  
  - Amazonia  
  - ame jen  
@@ -170,7 +170,7 @@
  - dava xe  
  - dava xe logia  
  - dava xekan  
- - debaje  
+ - debage  
  - debe  
  - debize  
  - Deimos  
@@ -191,7 +191,7 @@
  - doh son  
  - dokumen filme  
  - dom gogia  
- - donaje ceke  
+ - donage ceke  
  - donive  
  - doste hin  
  - dramatike  
@@ -309,13 +309,15 @@
  - geopolitia  
  - geoterme  
  - Germania  
+ - gihade  
+ - gin  
  - ging lin  
  - glu grafi  
  - glukerol  
  - glukin  
  - glukogen  
  - glukos  
- - glute bandaje  
+ - glute bandage  
  - glute bande  
  - glutive baxe  
  - grafe cule  
@@ -328,8 +330,8 @@
  - guku hua  
  - habar letre  
  - habar media  
- - haje  
- - hajer  
+ - hage  
+ - hager  
  - haki rang  
  - halal liste  
  - han guaner  
@@ -381,7 +383,7 @@
  - horife  
  - horifike  
  - horur  
- - hua jara  
+ - hua kundi  
  - hua pote  
  - huke lin kane  
  - humanoide  
@@ -396,7 +398,7 @@
  - in verse jen  
  - in vide  
  - inlai  
- - intraje  
+ - intrage  
  - intre  
  - intre  
  - Io  
@@ -405,21 +407,15 @@
  - iste  
  - jaibai  
  - jaija  
- - jame karte  
  - jan  
- - jan buda din  
  - janela frem  
- - janive  
  - jaru  
  - jebe caku  
  - jele jen  
  - jen (jen men)  
  - jen bahai  
- - jen jami  
+ - jen zamia  
  - jete  
- - jihade  
- - jin  
- - jong xulekan  
  - judike  
  - jumla logia  
  - jun bei  
@@ -518,7 +514,7 @@
  - lazur  
  - le  
  - lege  
- - letaje  
+ - letage  
  - letaratur  
  - letebil  
  - leter  
@@ -602,7 +598,7 @@
  - metilamin  
  - metre bande  
  - metrer  
- - midaje  
+ - midage  
  - midia  
  - mikrofone  
  - Mimas  
@@ -616,7 +612,7 @@
  - mirebil  
  - mirer  
  - mision  
- - mitaje  
+ - mitage  
  - mite  
  - mitike  
  - mixur  
@@ -637,10 +633,10 @@
  - muzike gense  
  - na xiti  
  - nadir  
+ - nagis  
+ - nagis bindu  
+ - nagis di  
  - nahunate  
- - najis  
- - najis bindu  
- - najis di  
  - nam dokumen  
  - nam tikete  
  - narde  
@@ -698,7 +694,7 @@
  - pa pa  
  - pa sis  
  - paka  
- - pakaje  
+ - pakage  
  - pake  
  - pakete  
  - palaba  
@@ -714,13 +710,13 @@
  - partaneria  
  - partative  
  - pas lexe  
- - pasaje  
+ - pasage  
  - pata  
  - pede  
  - pedofilia  
  - pedofobia  
  - pei kar di  
- - pei kar jiva  
+ - pei kar zive  
  - pei karer  
  - pele  
  - pena kalam  
@@ -1019,6 +1015,9 @@
  - yunture  
  - zalim yunte  
  - zalime  
+ - zame karte  
+ - zan buda din  
+ - zanive  
  - zarduxtan mager  
  - zelo  
  - zeta  
@@ -1028,6 +1027,7 @@
  - zi  
  - zi forme  
  - zirkon  
+ - zong xulekan  
  - acepe  
  - acese  
  - acesebil  
@@ -1107,7 +1107,7 @@
  - exloga  
  - exmise  
  - expele  
- - experaje  
+ - experage  
  - expere  
  - experike  
  - expoze  
@@ -1160,7 +1160,7 @@
  - konpatia  
  - konpele  
  - konplike  
- - konpozaje  
+ - konpozage  
  - kontene  
  - kontener  
  - konteste  
@@ -1181,7 +1181,7 @@
  - perverse  
  - poligene  
  - posfixe  
- - pospozaje  
+ - pospozage  
  - pospoze  
  - posprodution  
  - precese  
@@ -1192,7 +1192,7 @@
  - prehistoria  
  - prejude  
  - prekurse  
- - prepozaje  
+ - prepozage  
  - pretipe  
  - prexake  
  - proate  
@@ -1203,7 +1203,7 @@
  - produter  
  - profere  
  - progene  
- - programaje  
+ - programage  
  - progresion  
  - prokare  
  - promise  
@@ -1253,17 +1253,17 @@
  - sutene  
  - sutener  
  - tomografe  
- - trajiva  
  - trakurse  
  - tramise  
  - tramiseon  
  - tramiser  
+ - traziva  
  - trilogia  
  - tritomia  
  - unbaxike  
  - ungene  
 A - A  
-abak (liczydło) - jenju table  
+abak (liczydło) - zenzu table  
 abazyński - Abaze baxe  
 Abchazja - Abazia  
 Abchazja - Arcah  
@@ -1275,7 +1275,7 @@ adres - adres
 adwokat - kanun vala  
 Afganistan - Afganestan  
 afiks - afixe  
-afisz (plakat) - afixaje  
+afisz (plakat) - afixage  
 Afryka - Afrika  
 agorafobia - medan fobi  
 agresywny - agresevi  
@@ -1298,7 +1298,7 @@ alfabet łaciński, łacinka, alfabet rzymski - Latin zi
 alfabet, abecadło - zi seri  
 alga (wodorost) - alga  
 algebra - gebre  
-Algieria - Jayer  
+Algieria - Alzeria  
 algologia - algalogia  
 aligator - korte krokodil  
 alkohol - alkol  
@@ -1330,7 +1330,7 @@ Anglik; angielski - englix di
 anglizować (zanglizować) - eglixife  
 anglofil - englix filiste  
 Angola - Angola  
-animacja - animaje  
+animacja - animage  
 animal - hevan  
 animizm - animisme  
 animować - animate  
@@ -1346,7 +1346,7 @@ anyż - anis
 Arabia Saudyjska - Saudi Arabi  
 arabski - arabe  
 arachnofobia - aranofobia  
-arboretum - moka jong parke  
+arboretum - moka zung parke  
 arbuz - arbuze  
 archipelag - nesia  
 architekt - bine planer  
@@ -1393,7 +1393,7 @@ azot - nitre
 aż do - hata  
 B - B  
 babcia (babka) - cin ma  
-bagaż - bagaje  
+bagaż - bagage  
 bagietka - kane ban  
 bagno (moczary) - poto stan  
 bahaista - bahaiste  
@@ -1523,7 +1523,7 @@ Budda - Bude
 buddysta - budiste  
 Buddyzm - budisme  
 budka (kabina) - buda  
-budynek (struktura) - binaje  
+budynek (struktura) - binage  
 budżet - pesa plan  
 bufet (szwedzki stół) - bufe  
 bulwa - masa mula  
@@ -1542,7 +1542,7 @@ być mistrzem (być ekspertem) - maste
 być obok - a late  
 być poddanym, doświadczyć, doświadczać (ubierniający czasownik) - be  
 być przeciw - kontra  
-być wycentrowanym, być w środku - a jong  
+być wycentrowanym, być w środku - a zong  
 bóbr - bibre  
 bóg, bóstwo - dee  
 bąk, bączek - rota vanu gi  
@@ -1568,7 +1568,7 @@ celować - dike
 celownik optyczny (siatka lunety) - krus lin  
 cement - semente  
 cenny - bau di  
-centralny (środkowy) - jong di  
+centralny (środkowy) - zong di  
 centy-, procent, na sto, setna część - senti  
 centymetr - sentimitre  
 cer - cerium  
@@ -1586,7 +1586,7 @@ chemia - kimia
 chemiczny - kimike  
 cherubin - kerubi  
 Chile - cile  
-Chiny - Jongoku  
+Chiny - Zong gogia  
 chleb - ban  
 chlor - klor  
 chmiel - humel  
@@ -1613,7 +1613,7 @@ ciało stałe - gati mate
 cichy - tix  
 cichy - xux di  
 ciecierzyca - humus  
-ciecz (płyn) - daraje  
+ciecz (płyn) - darage  
 ciekawy - kenevolive  
 ciekły (płynny) - darike  
 cielesny - badan di  
@@ -1732,8 +1732,8 @@ dobry - hau
 dobry los, szczęście - hau zar  
 dobry ranek - sal suba  
 dobry wieczór - sal xam  
-dodatkowy - maxaje  
-dodatkowy - maxaje  
+dodatkowy - maxage  
+dodatkowy - maxage  
 doktor (uczony, który osiągnął doktorat) - dotor  
 doktor, lekarz, uzdrowiciel - davaer  
 doktorat - dotorta  
@@ -1790,7 +1790,7 @@ dyskusja, debata, dyskurs - lona
 dysproz - disprosium  
 dystans - teleta  
 dywan - dipe tela  
-dzban, dzbanek; słój, słoik; wazon - jara  
+dzban, dzbanek; słój, słoik; wazon - kundi  
 dziadek (dziad) - cin pa  
 działka (teren) - geo tike  
 działo - dai pau  
@@ -1813,7 +1813,7 @@ dziki - ekonative
 dziki - vilde  
 dziobak - bata krote  
 dziura - kung  
-dziw (cudo, zachwyt) - ajabe  
+dziw (cudo, zachwyt) - agibe  
 dziwny - guai  
 dziwny (nieznany) - ankenike  
 dzięki, dzięki ci - xukre  
@@ -1832,7 +1832,7 @@ dźinizm, dżinizm - jain din
 dźwignia - tire kane  
 dźwięk, brzmienie - soni  
 Dżakarta - Jakarta  
-Dżibuti - Jibuti  
+Dżibuti - Gibuti  
 dżul (J) - jul  
 E - E  
 echo - reflexe sonde  
@@ -1896,7 +1896,7 @@ fałszywy, nieprawdziwy - anver
 feminista (feministka) - femiste  
 feminizm - femisme  
 ferm - fermium  
-Fidżi - Fiji  
+Fidżi - Fizi  
 Filipiny - Filipin  
 filiżanka do kawy - kafe kupa  
 film - filme  
@@ -1948,7 +1948,7 @@ Galia - Galia
 Gambia - Gambia  
 Ganges - Ganga  
 garam masala - garma masala  
-gatunek - jung  
+gatunek - zung  
 gaz - gas  
 gaz łzawiący - oke sui gas  
 gaza - gaze  
@@ -1975,7 +1975,7 @@ gleba bielicoziemna - hui darte
 glin (aluminium) - alumin  
 globalny - dunial  
 globalny (światowy) - pandunial  
-glutaminian sodu - vijin  
+glutaminian sodu - vizing  
 gluten - gluten  
 gniazdo (ul, nora, jama, barłóg, legowisko) - nide  
 gniew, furia - furita  
@@ -2045,7 +2045,7 @@ góra, wzgórze - xan
 górnik (kopacz) - kuaner  
 górny - supra di  
 gówno - xite  
-gąbka - esponje  
+gąbka - sponge  
 gęś - ganse  
 gładki - lis  
 głaz - dai seku  
@@ -2162,7 +2162,7 @@ Indyjski - barte
 indyk - dinde  
 infekcja (zakażenie) - patomise  
 infekcja (zakażenie) - infete  
-informacja - konkenaje  
+informacja - konkenage  
 informatyka - data cule logia  
 inny - ale  
 innymi słowy - alonam  
@@ -2220,14 +2220,14 @@ jebać - fake
 jeden (1) - un  
 jednoczyć - unife  
 jednokolorowy (monochromatyczny) - unrangike  
-jednostka miary - unaje  
+jednostka miary - unage  
 jednoznaczny - unsemike  
 jednoznaczny - unsemike  
 jedwab - silke  
 jedzenie, posiłek - yam xe  
 Jemen - Yemen  
 Jerozolima - Uruxalem  
-Jersey - Jerze  
+Jersey - Gerze  
 jesień - pada mosim  
 jesion - frasen  
 jezioro - lage  
@@ -2387,8 +2387,8 @@ kolano - guta
 kolczuga - seri kaska  
 kolec - dingi  
 kolej - tren dau  
-kolekcja, zbiór; zgromadzenie, zebranie - jamia  
-kolekcjonować, zebrać, zbierać - jame  
+kolekcja, zbiór; zgromadzenie, zebranie - zamia  
+kolekcjonować, zebrać, zbierać - zame  
 kolendra - kotumbar  
 kolonia, osada - kolonia  
 kolonialista - koloniste  
@@ -2418,7 +2418,7 @@ konfucjanizm - kung fuzi sim
 Konfucjusz - Kung Fuzi  
 koniec - fine  
 konkani - Konkani  
-konopie - ganja  
+konopie - ganza  
 konsekwencja, skutek - pos  
 konstytucja - baze kanun  
 konto - hisabu loge  
@@ -2518,7 +2518,7 @@ kukurydza - mais
 kukułka - kuku  
 kulomb - kulombe  
 kuloodporny - dana sekur  
-kult ognia - hogo puja  
+kult ognia - hogo puje  
 kultura - kulture  
 kulturystyka - muskul bina  
 kumin, kmin - zira  
@@ -2553,8 +2553,8 @@ laotański - lau di
 lapis lazuli - lazur petra  
 larwa, czerw, gąsienica - larva  
 larwa, czerw, gąsienica - lasun  
-las wodorostów - alga jangal  
-las, dżungla, zagajnik - jangal  
+las wodorostów - alga zangal  
+las, dżungla, zagajnik - zangal  
 latarnia - hogo sanduku  
 latarnia morska - foto minar  
 latać (fruwać) - dare  
@@ -2564,7 +2564,7 @@ lawa - fuze petre
 lazania - lazanya  
 lejek - dare tube  
 lekcja - letur  
-lekcja - xulaje  
+lekcja - xulage  
 lekki - lege veze di  
 leksem - lexeme  
 lepić (kleić) - glutize  
@@ -2588,7 +2588,7 @@ lilak - lila
 lilia - susan  
 lilia wodna, nenufar - nenufar  
 liliowy - lila rang  
-lima (limonka) - kaguji limon  
+lima (limonka) - kaguzi limon  
 limfa - limfa  
 limit, granica - limite  
 limonkowy (limonkowo zielony) - limon luga di  
@@ -2644,7 +2644,7 @@ macierz - matria
 macka (czułek) - sense xaka  
 Madagaskar - Madagasia  
 madagaskarski; malagaski - madagas  
-madżong - majang  
+madżong - mazang  
 magazyn, dziennik, gazeta - gazeta  
 magenta - magenta  
 magia - magia  
@@ -2661,7 +2661,7 @@ mak polny - medan papi
 mak wschodni - gui papi  
 makaron - mien  
 Makau - Makau  
-maksimum - maximaje  
+maksimum - maximage  
 maksymalny - maximal  
 malajski - malayali  
 malajski - malayu  
@@ -2695,7 +2695,7 @@ marynarka (flota) - bahai ordu
 marynować - acar  
 marzec - mes des un  
 masa - masa  
-masaż - masaje  
+masaż - masage  
 maska, kamuflaż - maske  
 maszt - masta  
 maszyna - gi  
@@ -2708,7 +2708,7 @@ matematyka - numologia
 materac - matras  
 materia, substancja - made  
 materialny - madike  
-materiał (składnik, zasób) - faidaje  
+materiał (składnik, zasób) - faidage  
 matka (mama) - ma  
 Mauretania - Muritania  
 Mauritius - Moris  
@@ -2770,7 +2770,7 @@ mili- - mili
 miligram - mili gram  
 milimetr - mili mitre  
 milion - mega  
-militarny, wojskowy, wojenny - jang di  
+militarny, wojskowy, wojenny - zang di  
 minerał, ruda - kuan  
 minimal - minimal  
 minimalizm - minisme  
@@ -2779,7 +2779,7 @@ ministry - ministre ofis
 minuta - minute  
 minąć, mijać (czas) - dure  
 minąć, mijać, przeminąć, przemijać - pas  
-miraż (fatamorgana) - miraje  
+miraż (fatamorgana) - mirage  
 misjonarz - misioner  
 mistrz (ekspert) - master  
 mistrz (sensei) - senseng  
@@ -2816,7 +2816,7 @@ mol - mole
 molekuła (cząsteczka) - molekul  
 molibden - moliden  
 moment - cana  
-monada - monaje  
+monada - monage  
 Monako - Monako  
 monarchia - autokratia  
 moneta - pesa diske  
@@ -2946,7 +2946,7 @@ Neptun - Neputun
 neptun - neputunium  
 nerka - nefre  
 nerka (łosoś czerwony) - rubi salmon  
-nerkowiec - kaju  
+nerkowiec - kasu  
 nerw - neure  
 nerwoból (newralgia) - neuralgia  
 nerwowy (neuronowy) - neural  
@@ -2982,7 +2982,7 @@ niewierny - ankreder
 niewierny (poganin, niewierzący) - kafir  
 niezgoda - anrai  
 nigdy - siro sata  
-Niger - Nijer  
+Niger - Niger  
 Nigeria - Nigeria  
 nihonium - niponium  
 Nikaragua - Nikaragua  
@@ -3184,8 +3184,8 @@ panteizm - pandeisme
 panteon - pandeia  
 papaja - papaya  
 papeda - gros limon  
-papier - kaguji  
-papier toaletowy - tuale kaguji  
+papier - kaguzi  
+papier toaletowy - tuale kaguzi  
 papieros - sigarete  
 paproć - parne  
 papryka - cili  
@@ -3224,9 +3224,9 @@ paść, padać, upaść, upadać - pada
 październik - mes ceti  
 pchnąć, pchać - pulse  
 pedał - pedal  
-Pekin - Beijing  
+Pekin - Beiging  
 peleryna (płaszcz, opończa) - mantol  
-pendżabski - panjabi  
+pendżabski - panzabe  
 penis - penis  
 perfekcyjny - pul hau  
 perfekcyjny - perfete  
@@ -3234,13 +3234,13 @@ Pers; perski, farsi - parsi
 perspektywa (punkt widzenia) - vide punte  
 Peru - Peru  
 peryferyjny - kinar di  
-perła - jenju  
+perła - zenzu  
 pełny - pul  
 pfuj (fuj) - bah  
 pianino - piano  
 piasek, piach - sable  
 piaskowiec - sablite  
-pidżin, język pomocniczy - pijin  
+pidżin, język pomocniczy - pizin  
 piec - bake  
 piec - xava  
 piec (piekarnik) - tanur  
@@ -3319,7 +3319,7 @@ poczta elektroniczna - eletroposte (e-poste)
 poczta, budynek poczty - postekan  
 początek - xuru  
 pod (poniżej) - a nice  
-podarunek, dar, prezent - donaje  
+podarunek, dar, prezent - donage  
 podatek, opłata - taxi  
 poddanie się, uległość, pokora, posłuszeństwo - islam  
 podnosić (podnieść) - gauize  
@@ -3403,7 +3403,7 @@ postawiony (stojący) - lipa di
 posuwać się do przodu (dokonywać postępu, wejść) - progrese  
 poszukiwacz przygód (awanturnik) - venturer  
 poszukiwać (badać, eksplorować, przeglądać, wyszukiwać) - brauza  
-posłaniec (wysłannik) - misajer  
+posłaniec (wysłannik) - misager  
 pot - sueda  
 potas - kalium  
 potrzeba - yauta  
@@ -3431,9 +3431,9 @@ Południowa Afryka - Sude Afrika
 południowy - sude di  
 połączenie (złącze, styk, związek, powiązanie) - linke  
 pośladki, pupa, tyłek, zadek - pigu  
-pożyczać (pożyczyć) - jeka na  
-pożyczać komuś (pożyczyć komuś) - jeka don  
-pożyczyć - jeka  
+pożyczać (pożyczyć) - zeka na  
+pożyczać komuś (pożyczyć komuś) - zeka don  
+pożyczyć - zeka  
 pożądanie, żadza - kama  
 praca, zjęcie, zadanie - karxe  
 pracować - kar  
@@ -3524,7 +3524,7 @@ przeźroczysty, jasny - klar
 przy, z, na, w, u - a  
 przyczepić, przymocować - fixe  
 przygoda - ventur  
-przygoda w lochu - donjon ventur  
+przygoda w lochu - dongen ventur  
 przyjaciel - doste  
 przyjacielski (uprzejmy, miły) - dostike  
 przyjaźń - dostia  
@@ -3641,7 +3641,7 @@ Republika Czeska, Czechy - ceska
 Republika Dominikańska (Dominikana) - Dominika Vakilkratia  
 Republika Konga - Brazavil Kongo  
 Republika Macedonii, Macedonia - Norde Makedonia  
-Republika Środkowoafrykańska - Jong Afrika Vakilkratia  
+Republika Środkowoafrykańska - Zong Afrika Vakilkratia  
 respekt, honor, szacunek, poważanie - onor  
 restauracja - restoran  
 Reunion - Reunion  
@@ -3679,7 +3679,7 @@ rozluźnić (poluzować) - laxe
 rozmiar - daita  
 rozmnażać - sugene  
 rozmowny - logive  
-rozproszyć, rozpraszać - anjame  
+rozproszyć, rozpraszać - anzame  
 rozróżniać (rozróżnić) - diskene  
 rozstrzępiony (podarty) - cira cira di  
 rozszczepienie jądra atomowego - kerne cira  
@@ -3720,7 +3720,7 @@ ryzykowny - riskike
 ryś - linxe  
 ryś rudy - rubi linse  
 ryż - varis  
-rzadki (rozrzedzony, rozproszony) - anjame di  
+rzadki (rozrzedzony, rozproszony) - anzame di  
 rzadko - nadir mar  
 rzadkość - nadirta  
 rzecz - xe  
@@ -3774,7 +3774,7 @@ samar - samarium
 Samoa - Samoa  
 samobieżny - automotike  
 samochód (automobil) - moter car  
-samogłoska - jong fon  
+samogłoska - zong fon  
 samolot - fei gi  
 samppanja - xampan vin  
 San Marino - Sante Marino  
@@ -3891,7 +3891,7 @@ spodziewany (przewidziany) - previde di
 spokojny - xanti di  
 sporokarp - fungu frute  
 sport, lekkoatletyka - sporte  
-spotkać (spotkanie, zebranie) - ajame  
+spotkać (spotkanie, zebranie) - azame  
 społeczeństwo, system społeczny - sosia  
 społeczny - sosial  
 sprawdzić (sprawdzać, skontrolować, zbadać) - inspete  
@@ -4029,8 +4029,8 @@ sztuczka (podstęp, oszustwo) - truke
 sztuczna inteligencja - arte fete intelige (AI)  
 sztuczny - arte fete di  
 sztuka - mei arte  
-sztuka walki - jang suta  
-sztylet (puginał) - kanjar  
+sztuka walki - zang suta  
+sztylet (puginał) - kanzar  
 szuflada - tire sanduku  
 szukać - soki  
 Szwajcaria - Suise  
@@ -4056,7 +4056,7 @@ Słowacja - Slovakia
 Słowenia - Slovenia  
 słowiański - slavike  
 słowik - bulbul  
-słownictwo - lexe jama  
+słownictwo - lexe zamia  
 słowny (leksykalny) - lexal  
 słowo - lexe  
 słoń - gaja  
@@ -4069,7 +4069,7 @@ T - T
 tablica (deska) - bano  
 tablica wyników - punte bano  
 tablioca, macierz - date table  
-Tadżykistan - Tajiki  
+Tadżykistan - Tazike  
 tajga - taiga  
 Tajlandia - Tai Dexa  
 Tajpej - Taibei  
@@ -4096,7 +4096,7 @@ tarcza - defe bano
 tartak - xarakan  
 tatuaż - tatu  
 taxi, taksówka - taxi gar  
-taśma; bandaż - bandaje  
+taśma; bandaż - bandage  
 tchórz, fretka - furete  
 technet - tehnetium  
 technika, technologia - tehne  
@@ -4274,7 +4274,7 @@ uskok - geo kaska krake
 usta - boka  
 usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się) - depoze  
 usłyszeć, słyszeć; słuchać - audi  
-uwaga, obserwacja - notaje  
+uwaga, obserwacja - notage  
 uwięzić, więzić, pozbawić wolności - jele  
 uwolnić, uwalniać - huru di  
 Uzbekistan - Uzbeki  
@@ -4294,7 +4294,7 @@ wagina - vagine
 walc - valse  
 Walia - Kamri  
 walijski - kamri  
-walka, wojna - jang  
+walka, wojna - zang  
 wampir - vampir  
 wampirzyca piekielna (wampirnica) - vampir ohtopus  
 wanad - vanadium  
@@ -4323,7 +4323,7 @@ weganin (weganka) - veganiste
 wegetarianin - vegoyamiste  
 wejście - inmun  
 wejście - intromun  
-welon (woalka) - hijabu  
+welon (woalka) - higabu  
 Wenezuela - Venezuela  
 Wenus - Zukra  
 Wenzhou - Venzou  
@@ -4336,7 +4336,7 @@ wewnętrzny - inike
 wewnętrzny - innatike  
 wełna (runo owcze) - mehe kexa  
 wiadomość - angil  
-wiadomość - misaje  
+wiadomość - misage  
 wiadomość, nius - habar  
 wiadomość, zawiadomienie, powiadomienie - note angil  
 wiadro - baldi  
@@ -4347,9 +4347,9 @@ wice- (alternatywa, substytut, zastępstwo) - vise
 wicekról - vise reger  
 wiceprezydent - vise prezidente  
 widelec - forke  
-widok, wzrok - vidaje  
+widok, wzrok - vidage  
 wieczór - xam  
-wiedza - kenaje  
+wiedza - kenage  
 wiejski, rustykalny - agristanike  
 wiek - umur  
 wielbłąd, wielbłądzica - gamel  
@@ -4406,14 +4406,14 @@ wiśnia (czereśnia) - ceri
 wkrótce - a korte  
 wnieć wkład (przyczynić się) - fen don  
 wnętrze (środek) - in  
-wnętrze (środek) - inaje  
+wnętrze (środek) - inage  
 woda - sui  
 woda mineralna - kuan sui  
 wodny - sui di  
 wodoodporny - sui sekur di  
 wodorosty - bahai alga  
 wodór - hidre  
-wojownik, bojownik - janger  
+wojownik, bojownik - zanger  
 wola (chęć, pragnienie) - volation  
 wola, chęć - ice  
 wolfram - volfram  
@@ -4474,7 +4474,7 @@ wynająć, wynajmować, zatrudnić, zatrudniać - kira
 wynik (punktacja) - punte nume  
 wyobrazić, wyobrażać, fantazjować - fantaze  
 wypadek - xigu  
-wyrok - judaje  
+wyrok - judage  
 wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz) - excepe  
 wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz) - expoze  
 wyrzutek - paraya  
@@ -4486,7 +4486,7 @@ Wyspa Man - Manin nese
 Wyspy Alandzkie - Olande nesia  
 Wyspy Cooka - Kuke nesia  
 Wyspy Dziewicze USA - Virgin nesia  
-Wyspy Georgia Południowa i Sandwich Południowy - Sude Jorjia e Sude Sanduice nesia  
+Wyspy Georgia Południowa i Sandwich Południowy - Sude Giorgia e Sude Sanduice nesia  
 Wyspy Kokosowe - Kokos nesia  
 Wyspy Marshalla - Marxal nesia  
 Wyspy Salomona - Solomon nesia  
@@ -4534,8 +4534,8 @@ zabójca - mataja
 zachodni - veste di  
 zachowanie (maniery, kultura) - manera  
 zachować, zakonserwować, zachować, utrzymać - hafiz-  
-zachwycający (zdumiewający, zadziwiający) - ajabike  
-zachwycać (zachwycić, zdumiewać, zdumieć, zadziwiać, zadziwić) - ajabife  
+zachwycający (zdumiewający, zadziwiający) - agibike  
+zachwycać (zachwycić, zdumiewać, zdumieć, zadziwiać, zadziwić) - agibife  
 zachód - veste  
 zacząć, zaczynać - mule  
 zagranica - exgogia  
@@ -4571,7 +4571,7 @@ zapalenie ucha - ore tis
 zapaść się (zapadać się, runąć) - parce dipe  
 zapominać (zapomnieć) - anmemo  
 zapomnieć, zapominać - boli  
-zapożyczenie (wyraz obcy) - jeka lexe  
+zapożyczenie (wyraz obcy) - zeka lexe  
 zaprosić, zapraszać - cing lai  
 zaprzęc, zaprzęgać - harnes  
 zapytać, pytać - ke sata  
@@ -4584,7 +4584,7 @@ zarządzać (organizować, kierować) - nome
 zasada - bazisme  
 zaskoczenie - supriza  
 zastosować, stosować - uzife  
-zastrzyk - injetaje  
+zastrzyk - injetage  
 zastąpić (podstawić, zamienić) - vise  
 zasób (zastosowanie, użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta) - faide  
 zasłona, kurtyna - parde  
@@ -4599,7 +4599,7 @@ zazdrosny - garde zelo
 założyciel - bazer  
 zbierać opłaty lub podatki (zebrać opłaty lub podatki) - kape yo taxi  
 zbiornik (cysterna, pojemnik, rezerwuar) - tanke  
-zbiorowy, zbiorczy - jamive  
+zbiorowy, zbiorczy - zamive  
 zbliżać się (zbliżyć się) - aproxe  
 zbroja - defe kaska  
 zbudować, budować, konstruować - bine  
@@ -4732,7 +4732,7 @@ zły, zrujnowany, zepsuty - harabe
 średni - midike  
 środa - merkurden  
 środek - mide  
-środkowy, centralny - jong  
+środkowy, centralny - zong  
 środowiskowy, naturalny - ekal  
 śruba, wkręt - vita  
 świat - dunia  
@@ -4767,6 +4767,6 @@ zły, zrujnowany, zepsuty - harabe
 żydowski - yehude  
 żyrafa - zirafa  
 żywica - rezin  
-żyć (żywy, żyjący; życie) - jiva  
+żyć (żywy, żyjący; życie) - ziva  
 żółty - huang  
 żółw - tortuga  

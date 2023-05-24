@@ -3,7 +3,7 @@ a (dans, en, chez) - a
 
 ## A  
 
-abaque (boulier compteur) - jenju table  
+abaque (boulier compteur) - zenzu table  
 abattoir - karnekan  
 abattre - karnize  
 abaze - Abaze baxe  
@@ -36,7 +36,7 @@ adjectif - sifa loge
 administrateur - politiker  
 adresse - adres  
 adulte - ceng jen  
-affiche - afixaje  
+affiche - afixage  
 afficher - afixe  
 Afghanistan - Afganestan  
 Afrique - Afrika  
@@ -67,7 +67,7 @@ algue - alga
 algues - bahai alga  
 algues brunes - kafe alga  
 algèbre - gebre  
-Algérie - Jayer  
+Algérie - Alzeria  
 alien - alian  
 alkyle - alkil  
 aller - ga  
@@ -81,7 +81,7 @@ altruisme - altrisme
 altérer - altre  
 alumine (oxyde d'aluminium) - alumin oxide  
 aluminium - alumin  
-alun - aluminaje  
+alun - aluminage  
 amande - badam  
 amateur - hobiiste  
 Amazone - Amazon  
@@ -116,7 +116,7 @@ andésite - andesite
 anglophone - englix fon di  
 Angola - Angola  
 animal (bête) - hevan  
-animation - animaje  
+animation - animage  
 animation - animation  
 animer - animate  
 animer - animate  
@@ -141,7 +141,7 @@ arabe - arabe
 arachnide - aranide  
 arachnophobie - aranofobia  
 araignée - arane  
-arboretum, pépinière - moka jong parke  
+arboretum, pépinière - moka zung parke  
 arbre - moka  
 arc - arke  
 arc-en-ciel - rang arka  
@@ -228,7 +228,7 @@ aïe! - ayo
 
 babord - nave leu  
 backgammon - narde  
-bagage - bagaje  
+bagage - bagage  
 baguettes - haxi  
 bah - bah  
 baie (golf) - bahai sake  
@@ -244,7 +244,7 @@ ballon - bolon
 bambou - bambu  
 banane - banana  
 banc - benke  
-bandage - bandaje  
+bandage - bandage  
 bande - banda  
 bande dessinée - grafe kata  
 bande vidéo - vide bande  
@@ -351,7 +351,7 @@ bureaucratie - burokratia
 bus - bus  
 but (destination) - gol  
 butane - butan  
-bâtiment - binaje  
+bâtiment - binage  
 bâton (canne, tige) - kane  
 bébé - bebe  
 bédouin - badavi  
@@ -374,7 +374,7 @@ café - kafe
 café - kafekan  
 cage - kane kasa  
 caillou - xiu seku  
-cajou - kaju  
+cajou - kasu  
 calame - gana kalam  
 calcaire - kalsopetre  
 calcite - kalsite  
@@ -417,11 +417,11 @@ carnaval - karne feste
 carotte - karote  
 caroube - karuba  
 carrefour - dau yunte  
-carrière - pei kar jiva  
+carrière - pei kar zive  
 carte (plan) - karte  
 carte - karta  
 carte de crédit - krede karte  
-carte à collectionner - jame karte  
+carte à collectionner - zame karte  
 cartographie - kartografia  
 cartouche - kartux  
 caserne - ordu jen kan  
@@ -437,7 +437,7 @@ Centaurée - kentaur hua
 Centaurée bleuet - nil kentaur hua  
 Centaurée du solstice - sol kentaur hua  
 centenaire - sento nen di  
-centre - jong  
+centre - zong  
 cercle (rond) - sirke  
 cerise - ceri  
 cerveau (cervelle) - nau  
@@ -481,7 +481,7 @@ cheveux - kapa kexa
 chien - vaf  
 chiisme - xia islam din  
 chimie - kimia  
-Chine - Jongoku  
+Chine - Zong gogia  
 chlore - klor  
 chocolat - coklate  
 chose - xe  
@@ -497,7 +497,7 @@ chu - pada di
 chut - tix  
 chutney - hinde sos  
 chèque - ceke  
-chèque cadeau - donaje ceke  
+chèque cadeau - donage ceke  
 chèque de voyage - safar ceke  
 chéri - ame jen  
 chêne - baluta  
@@ -659,7 +659,7 @@ de luxe - deluxe
 demain - pos den  
 dessous - nice  
 destin - kisma  
-dette - debaje  
+dette - debage  
 deux (2) - du  
 devoir (obligation) - debe  
 devoir - mus  
@@ -750,7 +750,7 @@ elfe - elfe
 empire - imperia  
 empreinte de pied - fute marke  
 empreinte digitale - angul marke  
-empruntre - jeka na  
+empruntre - zeka na  
 en arrière - a re  
 en avant - pro  
 en avant - to pro  
@@ -774,7 +774,7 @@ escrime - gem suta
 espace (zone, région) - aria  
 espace - hali zi  
 espectador - vider  
-esprit (génie) - jin  
+esprit (génie) - gin  
 essai - esai  
 essayer (tenter) - proba  
 essentiel (fondamental) - esential  
@@ -859,12 +859,12 @@ forer (percer) - fora
 former - formize  
 fort - bala  
 fort - burge  
-forêt (jungle) - jangal  
-forêt de kelp - alga jangal  
+forêt (jungle) - zangal  
+forêt de kelp - alga zangal  
 fossé (canal, tranchée) - kanal  
 fouet - bici  
 fougères - parne  
-foule - jen jami  
+foule - jen zamia  
 fourmi - murmeke  
 fourmilière - murmeke kume  
 fragment - parte  
@@ -1068,7 +1068,7 @@ intention - nia
 intercepter - intercepe  
 international - internasial  
 interracial - rase midike  
-intestin (entrailles, ventre, boyau) - intraje  
+intestin (entrailles, ventre, boyau) - intrage  
 introverti - in verse jen  
 introverti - intraverse  
 inutile - anyau di  
@@ -1083,7 +1083,7 @@ Islam - islamisme
 
 jade - yoke  
 Japon - Nipon  
-jarre (carafe, cruche) - jara  
+jarre (carafe, cruche) - kundi  
 jasmin - moli  
 jaïnisme - jain din  
 je (me) - mi  
@@ -1165,7 +1165,7 @@ leur - damen su
 lexical - lexal  
 lexicaliser - lexunife  
 lexème - lexeme  
-leçon - xulaje  
+leçon - xulage  
 libellule - libele  
 libre - hure  
 licence - baceler  
@@ -1178,7 +1178,7 @@ ligne de commande (console, terminal, invite de commande) - amir lin
 ligne téléphonique - telefon lin  
 ligue (alliance) - lige  
 lilas - lila  
-lime (citron vert) - kaguji limon  
+lime (citron vert) - kaguzi limon  
 lin - yama  
 lipide - lipide  
 lipoaspiração - lipi cupu  
@@ -1217,7 +1217,7 @@ lune - luna
 luth - pipa  
 luthéranisme - Luterisme  
 luthérien - Luteriste  
-lutte - jihade  
+lutte - gihade  
 lutécium - lutesium  
 luxure (libido) - kama  
 luxure - luxure  
@@ -1235,7 +1235,7 @@ machine - makin
 machine à écrire - kitabe maxin  
 magma - pasta petra  
 magnésium - magenium  
-mah-jong - majang  
+mah-jong - mazang  
 maillon (chaînon) - ser  
 main - hanu  
 mais - ama  
@@ -1282,9 +1282,9 @@ mathématiques (maths) - numologia
 matière - made  
 maté - mate cai  
 matérialisme - madisme  
-matériel de lecture - letaje  
+matériel de lecture - letage  
 Mauritanie - Muritania  
-maximum - maximaje  
+maximum - maximage  
 maître - master  
 meitnérium - meitnerium  
 melt - fuze  
@@ -1301,11 +1301,11 @@ mercredi - merkurden
 mercure - hidrargente  
 Mercure - Merkur  
 merde - xite  
-merveille - ajabe  
+merveille - agibe  
 merveille - mirebil  
 message - angil  
-message - misaje  
-messager - misajer  
+message - misage  
+messager - misager  
 messie - mesi  
 mettre (placer) - lokize  
 meule - molite  
@@ -1320,7 +1320,7 @@ mil (millet) - dana.cau
 mil éthiopien - tef  
 mine - kuan xan  
 minuit - mide noce  
-mirage - miraje  
+mirage - mirage  
 mirer - mire  
 miroir - mire plate  
 misionero - misioner  
@@ -1333,7 +1333,7 @@ mois - mes
 mole (unité) - mole  
 molybdène - moliden  
 momentané - canaike  
-monade - monaje  
+monade - monage  
 monde - dunia  
 monnaie (pièce) - pesa diske  
 monocle - unoke lense  
@@ -1433,7 +1433,7 @@ non (ne...pas) - no
 non-binaire - nobi  
 nord - norde  
 nostalgie - nostalgia  
-note - notaje  
+note - notage  
 notre - mimen su  
 nous - mimen  
 nouveau - neu di  
@@ -1547,15 +1547,15 @@ pandémie - pandemike pate
 paneuropéen - paneuropan  
 panier (panier de basketball) - baske  
 panneau de signalisation - dau bano  
-pansement (sparadrap) - glute bandaje  
+pansement (sparadrap) - glute bandage  
 pantalon - pante  
 pantomime - panmime  
 pantoufle (babouche) - babuce  
 paon - mayur  
 papaye - papaya  
-papier - kaguji  
+papier - kaguzi  
 papier peint - mur kaguze  
-papier toilette (papier hygiénique) - tuale kaguji  
+papier toilette (papier hygiénique) - tuale kaguzi  
 papillon - pelpel  
 paquet - pake  
 par exemple - to misal  
@@ -1571,7 +1571,7 @@ paronyme - paranam
 part - fen  
 partenaire - partaner  
 partie (faction) - partia  
-passe (passage) - pasaje  
+passe (passage) - pasage  
 passeport - pasporte  
 passer - dure  
 passer - pas  
@@ -1680,7 +1680,7 @@ poisson-globe - balon pexe
 poivre - pipre  
 poivre long - long pipre  
 poli - lumize  
-pollution - najis  
+pollution - nagis  
 polonium - polskium  
 Polynesie - Polinesia  
 Polynésie française - Franse Polinesi  
@@ -1767,8 +1767,8 @@ préjuger - prejude
 prénatal - prenatal  
 présent - zai di  
 président - presidente  
-prêter (empruntre) - jeka  
-prêter - jeka don  
+prêter (empruntre) - zeka  
+prêter - zeka don  
 psychologie - ruhu logia  
 psyché - ruhu  
 pudding - puding  
@@ -1779,8 +1779,8 @@ pâquerette - englix margarita
 pâte (pulpe, foufou) - fufu  
 pâte - pasta  
 pâte à modeler - plaste paste  
-pèlegrin - hajer  
-pèlerinage - haje  
+pèlegrin - hager  
+pèlerinage - hage  
 pénal - fatu di  
 périr - perex fa  
 pétrole (essence) - petra nafte  
@@ -2023,7 +2023,7 @@ sulfate - sulfate
 sulfite - sulfite  
 sulfure - sulfide  
 sunnisme - suna islam din  
-survivre - trajiva  
+survivre - traziva  
 sushi - suxi  
 svastika (croix gammée) - huke krus  
 syllabe - lexe fen  
@@ -2232,9 +2232,9 @@ Vishnou - Vixnu
 vitamine - vitamin  
 vite (rapide) - suga  
 vivisection - biotomia  
-vivre (vivant; vie) - jiva  
-vocabulaire (lexique) - lexe jama  
-voile - hijabu  
+vivre (vivant; vie) - ziva  
+vocabulaire (lexique) - lexe zamia  
+voile - higabu  
 voile - vel  
 voir - vide  
 voire (même) - hata di  
@@ -2243,8 +2243,8 @@ vol - fei
 volcan - hogo xan  
 votre - tumen su  
 vouloir - vol  
-voyelle - jong fon  
 voyelle - vokal fone  
+voyelle - zong fon  
 voûte - arke cati  
 vrai - ver  
 vulve - vulva  
@@ -2275,7 +2275,7 @@ yttrium - yutrium
 
 ## Z  
 
-zen - jan buda din  
+zen - zan buda din  
 ziggourat - zikura  
 zinc - zinke  
 zirconium - zirkonium  
@@ -2295,13 +2295,13 @@ zéro - siro
 Épicéa - pisea  
 âge - umur  
 âme (esprit) - anime  
-éblouir (étonner, stupéfier, surprendre) - ajabife  
+éblouir (étonner, stupéfier, surprendre) - agibife  
 échec - xiti bai  
 échec et mat - xah mata  
 échelle - foli  
 école (collège) - xulekan  
 école primaire - baze xulekan  
-école secondaire - jong xulekan  
+école secondaire - zong xulekan  
 économie - malonomia  
 écorce - tire yo pil  
 écran - eskran  
@@ -2327,7 +2327,7 @@ zéro - siro
 épices - masala  
 épingle - pin  
 épistémologie - kenelogia  
-éponge - esponje  
+éponge - sponge  
 époux - gam per  
 épreuve - teste  
 épée - gem  

@@ -40,7 +40,7 @@ The sentence **mi fa huru damen** would mean the same thing but it would include
 
 a - by (at, in, on)  
 a dure de - during (while)  
-a jong - to be centered (amid, in the middle)  
+a zong - to be centered (amid, in the middle)  
 a ke - where  
 a kon - together (jointly, mutually)  
 a korte - soon (after a while)  
@@ -106,9 +106,9 @@ ais hoki - ice hockey
 aisike - icy  
 ais krem - ice cream  
 ais xarbe - sherbet  
-ajabe - wonder (awe, marvel)  
-ajabife - amaze  
-ajabike - amazing (astonishing)  
+agibe - wonder (awe, marvel)  
+agibife - amaze  
+agibike - amazing (astonishing)  
 akare - tick (mite)  
 akasia - acacia  
 akle - sense (reason, intellect)  
@@ -132,7 +132,7 @@ algike - painful
 algometria - algometry (measurement of pain)  
 alga - alga  
 alga fungu - lichen  
-alga jangal - kelp forest  
+alga zangal - kelp forest  
 algalogia - algology  
 alkan - alkane  
 alken - alkene  
@@ -150,7 +150,7 @@ alo sifa - difference
 alo sifa di - different  
 alpaka - alpaca  
 alumin - aluminium  
-aluminaje - alum  
+aluminage - alum  
 alumin oxide - alumina (aluminum oxide)  
 ame - love (strong affection, desire)  
 • aname - dislike (loathe)  
@@ -193,7 +193,7 @@ angul marke - fingerprint
 angul pike - fingertip  
 angul ring - finger ring  
 anime - soul (life spirit)  
-animaje - animation (cartoon)  
+animage - animation (cartoon)  
 animate - animate  
 animate - animate  
 • reanimate - reanimate  
@@ -336,7 +336,7 @@ badan - body
 badan di - bodily (corporal)  
 badavi - bedouin (nomadic)  
 bage - bag  
-bagaje - luggage (baggage)  
+bagage - luggage (baggage)  
 bagi - yard (garden)  
 bagi bele - spade  
 bagre - tiger  
@@ -385,7 +385,7 @@ bamia - okra (okro)
 ban - bread  
 banana - banana  
 bande - tie (fasten, bind; band, bandage, lace, ribbon, strip, tape)  
-bandaje - bandage  
+bandage - bandage  
 banda - band (squad, group)  
 bandera - flag (banner)  
 bang - club (bat, mace, baton)  
@@ -466,7 +466,7 @@ bedingan - eggplant (aubergine, brinjal)
 bega - escape (flee, run away)  
 behe - goat  
 bei - mate (fellow member of a social group)  
-Beijing - Beijing (Peking)  
+Beiging - Beijing (Peking)  
 bel - bel (unit)  
 bela - misfortune (misery, affliction, calamity, catastrophe, disaster, harm)  
 Belarus - Belarus  
@@ -515,7 +515,7 @@ bilta - ability
 bilor - crystal  
 bine - build (construct)  
 • konbine - combine  
-binaje - building (structure)  
+binage - building (structure)  
 bine plan - architecture  
 bine planer - architect  
 bindu - dot (spot)  
@@ -778,7 +778,7 @@ dante hin - toothless
 dante kume - alveolar ridge (gum ridge)  
 dape - hit (strike, punch)  
 dare - flow (current, stream)  
-daraje - liquid  
+darage - liquid  
 daria - body of water (sea, lake, river)  
 darike - fluid (liquid)  
 dare tube - funnel  
@@ -819,7 +819,7 @@ deologia - theology
 deonagre grame - Devanagari alphabet  
 deosofia - theosophy  
 debe - owe (ought, should; debt, duty, responsibility, obligation)  
-debaje - debt (loan)  
+debage - debt (loan)  
 debize - oblige  
 defe - defense (defence)  
 defe bano - shield  
@@ -914,14 +914,14 @@ Dominika Vakilkratia - Dominican Republic
 domino - dominoes  
 don - give  
 • redon - return (give back)  
-donaje - gift  
-donaje ceke - gift certificate (gift card)  
+donage - gift  
+donage ceke - gift certificate (gift card)  
 donive - generous (open-handed)  
 dong - east (orient)  
 dong di - eastern  
 dong gorila - eastern gorilla  
 Dong Timor - East Timor (Timor-Leste)  
-donjon ventur - dungeon crawl  
+dongen ventur - dungeon crawl  
 dosil - tame (docile, obedient)  
 dosil gene di - domesticated  
 doste - friend  
@@ -1041,7 +1041,7 @@ eskulte suta - sculpture (art of sculpting)
 espanofonike - hispanophone (Spanish speaking)  
 Espania - Spain  
 esperanto - Esperanto  
-esponje - sponge  
+sponge - sponge  
 estan - tin  
 Esti - Estonia  
 estibium - antimony  
@@ -1069,7 +1069,7 @@ ezmurude - emerald
 
 fe - do  
 faide - gain (benefit, advantage, asset, profit)  
-faidaje - material (ingredient, resource)  
+faidage - material (ingredient, resource)  
 faidike - useful (beneficial, advantageous)  
 fake - fuck (obscene word for sexual intercourse)  
 famil - family  
@@ -1138,7 +1138,7 @@ fete baxe - artificial language (conlang)
 fetebil - feasible (doable)  
 feter - maker (factor, agent)  
 feteria - factory (plant)  
-Fiji - Fiji  
+Fizi - Fiji  
 fikre - think (thought)  
 file - attraction (fascination, -philia)  
 filiste - fan (-phile)  
@@ -1163,7 +1163,7 @@ fite - plant (vegetable, vegetation)
 fitologia - botany (phytology)  
 fixe - fix (attach; attachment)  
 • afixe - affix  
-• afixaje - poster (placard)  
+• afixage - poster (placard)  
 • posfixe - postfix  
 • prefixe - prefix  
 fize - physical nature (physis)  
@@ -1338,7 +1338,7 @@ gani - sing (song, chant)
 ganir - singer  
 ganir grupe - choir (chorus)  
 Ganimede - Ganymede  
-ganja - cannabis (marijuana, ganja, pot, weed)  
+ganza - cannabis (marijuana, ganja, pot, weed)  
 ganse - goose  
 garanti - guarantee (warranty)  
 garde - guard (watch)  
@@ -1449,7 +1449,7 @@ glukogen - glycogen
 glukos - glucose  
 glute - glue (adhesive)  
 glute bande - adhesive tape  
-glute bandaje - adhesive bandage (band-aid, sticking plaster)  
+glute bandage - adhesive bandage (band-aid, sticking plaster)  
 gluten - gluten  
 glutike - sticky (ahesive)  
 glutive baxe - agglutinative language  
@@ -1485,7 +1485,7 @@ grafi sugata - framerate
 gram - gram (g)  
 grame - written character  
 • programe - program (set of structured activities)  
-• programaje - software (virtual device)  
+• programage - software (virtual device)  
 • programer - programmer (coder)  
 gran - grain (particle)  
 granite - granite  
@@ -1552,8 +1552,8 @@ haha - laugh
 haide - let's  
 haima - tent  
 Haiti - Haiti  
-haje - pilgrimage  
-hajer - pilgrim  
+hage - pilgrimage  
+hager - pilgrim  
 haki - dust  
 haki cupu gi - vacuum cleaner  
 haki rang - khaki  
@@ -1668,7 +1668,7 @@ hidre - hydrogen
 hidrate - hydrate (chemical compound)  
 hidre peroxide - hydrogen peroxide  
 hidrargente - mercury (quicksilver)  
-hijabu - veil (cover, screen)  
+higabu - veil (cover, screen)  
 hima - snow  
 hima duna - snow drift  
 hima rose - frost  
@@ -1703,7 +1703,7 @@ hobi - hobby
 hobiiste - hobbyist (amateur)  
 hogo - fire (burning)  
 hogo di - fiery  
-hogo puja - pyrolatry  
+hogo puje - pyrolatry  
 hogo sanduku - lantern  
 hogo seku - flint  
 hogo tehni - fireworks (pyrotechnics)  
@@ -1729,7 +1729,7 @@ hormon - hormone
 Horvatia - Croatia  
 hotel - hotel  
 hua - flower  
-hua jara - flower vase  
+hua kundi - flower vase  
 hua koli - cauliflower  
 hua mosim - spring (springtime)  
 hua pote - flowerpot  
@@ -1793,7 +1793,7 @@ imperial - imperial
 imperialisme - imperialism  
 imperialiste - imperialist  
 in - inside (interior)  
-inaje - inside (interior)  
+inage - inside (interior)  
 in bum - implosion  
 in di - inner (internal)  
 inike - inner (internal)  
@@ -1808,7 +1808,7 @@ in puxe - squeeze (squish)
 in tene - contain (include)  
 intre - enter (get in; insert, put in)  
 intre - inward (internal)  
-intraje - intestines (entrails, guts, bowels, viscera)  
+intrage - intestines (entrails, guts, bowels, viscera)  
 intromun - entrance  
 in verse jen - introvert  
 in vide - introspection  
@@ -1850,38 +1850,38 @@ jaija - winner (victor)
 jain din - Jainism  
 Jakarta - Jakarta  
 jake - jacket  
-jame - collect (gather, bring together, assemble, congregate)  
-• ajame - meet (get together; meeting, gathering)  
-• anjame - disperse (spread out, scatter)  
-• anjame di - sparse (scattered)  
-jamia - collection (congregation, assembly)  
-jamive - collective  
-jame karte - trading card  
+zame - collect (gather, bring together, assemble, congregate)  
+• azame - meet (get together; meeting, gathering)  
+• anzame - disperse (spread out, scatter)  
+• anzame di - sparse (scattered)  
+zamia - collection (congregation, assembly)  
+zamive - collective  
+zame karte - trading card  
 Jamaika - Jamaica  
 jampe - jump  
 jamul - jamul (jambul, rose apple)  
 jan - care (caution, attention, heed)  
-jan buda din - Zen Buddhism  
-janive - careful (cautious, attentive, alert, wary)  
+zan buda din - Zen Buddhism  
+zanive - careful (cautious, attentive, alert, wary)  
 janela - window  
 janela frem - window frame  
-jang - fight (war, battle, combat)  
-jang di - military (martial, warlike)  
-janger - warrior (fighter)  
-jang suta - martial art  
-jangal - forest (woods, jungle)  
-jara - jar (jug, pitcher, carafe, amphora, vase)  
+zang - fight (war, battle, combat)  
+zang di - military (martial, warlike)  
+zanger - warrior (fighter)  
+zang suta - martial art  
+zangal - forest (woods, jungle)  
+kundi - jar (jug, pitcher, carafe, amphora, vase)  
 jaru - broom (sweep)  
 jau - barley  
 javabe - answer (reply, respond; response)  
-Jayer - Algeria  
+Alzeria - Algeria  
 jaze - jazz  
 jebe - pocket  
 jebe caku - pocketknife  
-jeka - borrow (lend)  
-jeka don - lend  
-jeka lexe - loanword  
-jeka na - borrow  
+zeka - borrow (lend)  
+zeka don - lend  
+zeka lexe - loanword  
+zeka na - borrow  
 jele - imprison (jail)  
 jele - prison (imprisonment)  
 jeler - jailer (imprisoner)  
@@ -1891,36 +1891,36 @@ jen - person (individual)
 jen (jen men) - one (impersonal pronoun: people, you)  
 jen bahai - a sea of people (huge crowd)  
 jen di - personal (intimate, private, custom)  
-jen jami - crowd  
-jenju - pearl  
-jenju table - abacus  
+jen zamia - crowd  
+zenzu - pearl  
+zenzu table - abacus  
 jensen - ginseng  
-Jerze - Jersey  
+Gerze - Jersey  
 jete - thrust (throw, cast)  
 • exjete - eject (throw out)  
 • injete - inject  
-• injetaje - injection  
+• injetage - injection  
 • projete - project (forecast, endeavour)  
 • rejete - reject (throw back)  
 jete grafe - project (cast; projection image)  
-Jibuti - Djibouti  
-jihade - struggle (strife)  
-jin - spirit (soul, vitality, life force)  
-jiva - live (be alive; living; life, existence)  
-• trajiva - survive (live through)  
+Gibuti - Djibouti  
+gihade - struggle (strife)  
+gin - spirit (soul, vitality, life force)  
+ziva - live (be alive; living; life, existence)  
+• traziva - survive (live through)  
 joke - joke  
 joker - joker  
-jong - middle (center)  
-Jong Afrika Vakilkratia - Central African Republic  
-jong di - central (middle)  
-jong fon - vowel  
-jong xulekan - secondary school  
-Jongoku - China  
+zong - middle (center)  
+Zong Afrika Vakilkratia - Central African Republic  
+zong di - central (middle)  
+zong fon - vowel  
+zong xulekan - secondary school  
+Zong gogia - China  
 jovar - sorghum (durra, jawar, Indian millet)  
 jube - robe (tunica, gown, jubbah)  
 jude - judge  
 • prejude - prejudice  
-judaje - judgement (sentence)  
+judage - judgement (sentence)  
 juder - judge (referee)  
 judike - judicial  
 judau - judo  
@@ -1938,7 +1938,7 @@ jun nen - youth (years in life following childhood)
 jun sau - younger sibling  
 jun sis - little sister (younger sister)  
 junta - youth (young age)  
-jung - species  
+zung - species  
 jus - juice  
 juste - just (precise, exact, accurate)  
 juste pauer - sniper (sharpshooter)  
@@ -1965,11 +1965,11 @@ kafe rang - brown
 kafe salmon - brown trout  
 kafir - infidel (pagan, heathen, unbeliever)  
 kafur - camphor tree  
-kaguji - paper (material)  
-kaguji limon - key lime  
+kaguzi - paper (material)  
+kaguzi limon - key lime  
 kai - open (not closed)  
 Kaiman nesia - Cayman Islands  
-kaju - cashew  
+kasu - cashew  
 kaka - defecate (shit)  
 kaka - excrement (shit)  
 kakau - cocoa  
@@ -2029,7 +2029,7 @@ kane minte - spearmint
 kane sor - latch  
 kanga - comb  
 kangaru - kangaroo  
-kanjar - dagger  
+kanzar - dagger  
 kanon - classic (canon)  
 kanon di - classic (authoritative, definitive)  
 kanse - cancer  
@@ -2148,9 +2148,9 @@ ken - know
 • ankene - be unaware  
 • ankenike - strange (unknown)  
 • diskene - distinguish (tell apart)  
-• konkenaje - information (communicable knowledge)  
+• konkenage - information (communicable knowledge)  
 • rekene - recognize  
-kenaje - knowledge  
+kenage - knowledge  
 kenation - cognition  
 • ankenive - ignorant (unaware)  
 kenize - communicate (inform about)  
@@ -2447,7 +2447,7 @@ leng mosim di - wintry
 lense - lens  
 lenxi - exercise  
 lete - read  
-letaje - reading material  
+letage - reading material  
 letebil - legible (readable)  
 leter - reader (lector)  
 letaratur - literature  
@@ -2471,7 +2471,7 @@ lexofiliste - logophile (word buff)
 lexe gense - grammatical gender (lexical gender)  
 lexograme - logogram (logo)  
 • rilexife - relexify  
-lexe jama - vocabulary (lexicon)  
+lexe zamia - vocabulary (lexicon)  
 lexe liste - dictionary (word list)  
 lexunife - lexicalize  
 liama - llama  
@@ -2612,7 +2612,7 @@ Magyar - Hungary
 mahala - quarter (neighbourhood, district, locality, section of town)  
 maina - myna bird  
 mais - corn (maize)  
-majang - mahjong  
+mazang - mahjong  
 Makah - Mecca  
 makale - article (writing)  
 makan hua - dandelion  
@@ -2672,7 +2672,7 @@ marisden - Tuesday
 marke - mark (trace)  
 Marxal nesia - Marshall Islands  
 mase - knead (massage)  
-masaje - massage  
+masage - massage  
 masa - mass (quantity of matter)  
 masa mula - tuber (bulb)  
 masa mula sol hua - Jerusalem artichoke (sunroot)  
@@ -2697,8 +2697,8 @@ mate - maté
 mate cai - maté tea  
 matras - mattress  
 max - more  
-maxaje - bonus  
-maxaje - addition (extra)  
+maxage - bonus  
+maxage - addition (extra)  
 max fili - prefer (favor)  
 max fili di - favorite (preferred)  
 max fili sim - favoritism  
@@ -2707,7 +2707,7 @@ maxia - majority
 maxife - increase  
 maxike - major (greater)  
 maxim - most (maximally)  
-maximaje - maximum  
+maximage - maximum  
 maximal - maximal  
 maximize - maximize  
 max ka bas - too much  
@@ -2806,7 +2806,7 @@ mi su - my
 Mianma - Myanmar (Burma)  
 miau - cat  
 mide - middle (the part in between)  
-midaje - medium (means)  
+midage - medium (means)  
 midia - medium (media, mass media)  
 midike - medium (intermediate, mean)  
 mide noce - midnight  
@@ -2848,7 +2848,7 @@ mintol - menthol
 minute - minute  
 mire - stare (watch, gaze)  
 • amire - admire  
-miraje - mirage  
+mirage - mirage  
 mirebil - wonderful (marvel, mirable)  
 mirer - watcher  
 mire plate - mirror  
@@ -2862,8 +2862,8 @@ mirde - faint (depending on context: soft, dull, mild, weak, slow, subtle)
 • tramiseon - transmission  
 • tramiser - transmitter  
 mise - send (emit, transmit)  
-misaje - message  
-misajer - messenger  
+misage - message  
+misager - messenger  
 mision - mission (sending)  
 misioner - missionary  
 misal - example (instance of)  
@@ -2871,7 +2871,7 @@ miskin - poor (miserable)
 Misre - Egypt  
 misrian - Egyptian  
 mite - tale (fiction, myth)  
-mitaje - fallacy  
+mitage - fallacy  
 mitike - fake (fictional, fake, made up, spurious)  
 mite vide - illusion (hallucination)  
 mitre - meter (100 cm)  
@@ -2885,7 +2885,7 @@ module - module
 mogu - membrane (film)  
 moka - tree  
 moka bano - wood board (plank)  
-moka jong parke - arboretum  
+moka zung parke - arboretum  
 moka kane - stake (stick, peg, skewer)  
 moka mate - wood (timber)  
 moka saner - carpenter  
@@ -2902,7 +2902,7 @@ moli hua cai - jasmine tea
 moliden - molybdenum  
 moluske - mollusk  
 mone - only (lone, single, individual)  
-monaje - monad  
+monage - monad  
 monograme - monogram  
 monike - individual (single person)  
 monisme - monism  
@@ -2990,9 +2990,9 @@ nafas - breath
 nafte guku - Indian chrysanthemum  
 nahun - nail (fingernail)  
 nahunate - claw (scratch)  
-najis - corruption (filth, pollution, contamination, najis)  
-najis bindu - stain (spot)  
-najis di - impure (polluted, defiled, tainted)  
+nagis - corruption (filth, pollution, contamination, najis)  
+nagis bindu - stain (spot)  
+nagis di - impure (polluted, defiled, tainted)  
 nam - name  
 • annam - antonym  
 • dusnamize - insult (offend, call names)  
@@ -3120,7 +3120,7 @@ nice di - lower (inferior)
 nice kitabe - subtitles (captions)  
 nide - nest (hive, den)  
 Nigeria - Nigeria  
-Nijer - Niger  
+Niger - Niger  
 Nikaragua - Nicaragua  
 nikel - nickel  
 nil - blue  
@@ -3171,7 +3171,7 @@ nos di - nasal
 nostalgia - nostalgia (longing)  
 nostalgike - nostalgic  
 note - note (observe, notice)  
-notaje - note (observation, remark, comment)  
+notage - note (observation, remark, comment)  
 note angil - notice (notification)  
 note buke - notebook  
 notize - notify  
@@ -3284,7 +3284,7 @@ pake - coerce (use force, compel)
 pake - pack  
 pake - pack (package)  
 • depake - unpack  
-pakaje - package  
+pakage - package  
 pakete - packet  
 paka - coercion (force, compulsion)  
 Pakistan - Pakistan  
@@ -3315,7 +3315,7 @@ pan xe - everything
 Panama - Panama  
 panda - panda  
 panir - quark (paneer)  
-panjabi - Punjabi  
+panzabe - Punjabi  
 panka - wing  
 pankreas - pancreas  
 pante - pants (trousers)  
@@ -3355,7 +3355,7 @@ partecepe - participate (attend, partake, take part)
 parteceper - participant  
 partia - party (faction, side)  
 pas - pass (go across or through, skip)  
-pasaje - pass (passage)  
+pasage - pass (passage)  
 pas di - past (bygone)  
 pasive - passive (inactive)  
 pas lexe - password  
@@ -3389,7 +3389,7 @@ pei - payment
 pei kar - profession (job, occupation, trade, vocation)  
 pei kar di - professional (occupational, career)  
 pei karer - professional (pro)  
-pei kar jiva - career (professional life)  
+pei kar zive - career (professional life)  
 pele - drive  
 • apele - appeal (drive to oneself)  
 • depele - drive away  
@@ -3416,7 +3416,7 @@ penter - painter
 pente tela - canvas  
 per - pair (couple)  
 • expere - experience (go through)  
-• experaje - experience  
+• experage - experience  
 • experike - experimental  
 pere - go through  
 per cin - parent-in-law  
@@ -3446,7 +3446,7 @@ pexe saider - fisher
 pexe tanke - fish tank  
 piano - piano  
 pigu - buttocks (bum, butt, ass)  
-pijin - pidgin (contact language)  
+pizin - pidgin (contact language)  
 pike - point (tip, cusp, peak)  
 pil - skin (peel, bark, leather)  
 pilau - pilaf (pulao)  
@@ -3584,10 +3584,10 @@ poze - pose (set; position)
 • expoze - oust (expel, exclude, except, save)  
 • inpoze - put in (impose)  
 • inpoze - enter (insert, put in)  
-• konpozaje - component  
+• konpozage - component  
 • pospoze - put back (postpone)  
-• pospozaje - postposition  
-• prepozaje - preposition  
+• pospozage - postposition  
+• prepozage - preposition  
 • propoze - propose (put forth; proposal, suggestion)  
 prate - practice (actuality)  
 pratike - practical (pragmatic)  
@@ -4096,7 +4096,7 @@ Sude Amerika - South America
 Sude cosen - South Korea (Republic of Korea)  
 sude di - southern  
 Sude Iria (Alonia) - South Ossetia (Alania)  
-Sude Jorjia e Sude Sanduice nesia - South Georgia and the South Sandwich Islands  
+Sude Giorgia e Sude Sanduice nesia - South Georgia and the South Sandwich Islands  
 Sude Sudan - South Sudan  
 sueda - sweat (perspiration)  
 sueda di - sweaty  
@@ -4171,7 +4171,7 @@ Tai Dexa - Thailand
 Taibei - Taipei  
 taiga - taiga  
 Taivan - Taiwan (Republic of China)  
-Tajiki - Tajikistan  
+Tazike - Tajikistan  
 talium - thallium  
 tala - lock (fastener)  
 • detala - unlock  
@@ -4366,7 +4366,7 @@ tumen su - your
 tumimen - we (inclusive we)  
 tu su - your  
 tuale - towel  
-tuale kaguji - toilet paper  
+tuale kaguzi - toilet paper  
 tuale kamar - toilet (bathrooom, WC)  
 tube - tube (pipe)  
 tubule - tubule  
@@ -4410,7 +4410,7 @@ Umbriel - Umbriel
 umur - age  
 umur di - aged  
 un - one (1)  
-unaje - unit (measurement)  
+unage - unit (measurement)  
 undeisme - monotheism  
 undurike - continuous (analog)  
 undurike horloger - analog clock  
@@ -4544,7 +4544,7 @@ vide - look (see)
 • previde - expect (anticipate, predict, forsee)  
 • anprevide di - unexpected  
 • previde di - expected  
-vidaje - view (vision)  
+vidage - view (vision)  
 vide bande - videotape  
 vider - spectator (sightseer, observer)  
 vide medan - visual field (field of vision)  
@@ -4552,7 +4552,7 @@ vide punte - perspective (point of view)
 vidua - widow  
 Viete - Viet Nam  
 viete baxe - Vietnamese language (Viet)  
-vijin - MSG (monosodium glutamate)  
+vizing - MSG (monosodium glutamate)  
 viki - wiki  
 viki makala - wiki article  
 viki pedia - wikipedia  
@@ -4703,7 +4703,7 @@ xukre - thanks (thank you)
 xukria - gratitude  
 xule - learn (study)  
 xule - education (schooling)  
-xulaje - lesson (teaching)  
+xulage - lesson (teaching)  
 xuler - student (pupil, learner)  
 xule guru - schoolteacher  
 xulize - teach (educate, instruct, doctrine)  

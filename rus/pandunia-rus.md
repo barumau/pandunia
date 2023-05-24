@@ -43,7 +43,7 @@ alge - боль
 algike - болезненный  
 alga - водоросли  
 alga fungu - лишай  
-alga jangal - лес водорослей  
+alga zangal - лес водорослей  
 alkan - алкан  
 alken - алкен  
 alkil - алкил  
@@ -74,7 +74,7 @@ angil - месседж
 angul - палец  
 angul marke - отпечаток пальца  
 angul pike - кончик пальца  
-animaje - анимация  
+animage - анимация  
 animate - animar  
 • reanimate - реанимировать (оживлять)  
 animisme - анимизм  
@@ -149,7 +149,7 @@ baca - ребёнок
 baceler - бакалавр  
 badam - миндаль  
 badan - тело  
-bagaje - багаж  
+bagage - багаж  
 bagre - тигр  
 bagre oselote - онцилла  
 bahai - море  
@@ -246,7 +246,7 @@ bil es - может быть
 bil ki - может быть  
 bilor - кристалл  
 bine - строить  
-binaje - строение  
+binage - строение  
 bine plan - архитектура  
 bine planer - архитектор  
 bingo - бинго  
@@ -393,7 +393,7 @@ dee - бог
 deokata - миф  
 deonagre grame - деванагари  
 deosofia - теософия  
-debaje - долг  
+debage - долг  
 debize - обязывать (обязать)  
 defe bano - щит  
 defe kaska - доспехи  
@@ -436,7 +436,7 @@ dom gogia - родина (отечество)
 dom zeze - муха  
 Dominika Vakilkratia - Доминиканская Республика  
 don - дать  
-donaje ceke - подарочный сертификат  
+donage ceke - подарочный сертификат  
 donive - щедрый  
 dong - восток (ост)  
 dong gorila - восточная горилла  
@@ -479,7 +479,7 @@ esentia - бытие (существование)
 esai - сочинение (эссе)  
 eskran - экран  
 eskulter - скульптор  
-esponje - губка  
+sponge - губка  
 estan - олово  
 estibium - сурьма  
 estrontium - стронций  
@@ -524,7 +524,7 @@ fiorde - фьорд
 firuze - бирюза  
 fite - растение  
 fitologia - ботаника  
-• afixaje - афиша  
+• afixage - афиша  
 fizike gi - аппаратное обеспечение  
 fizologia - физика  
 flece - стрела (стрелка)  
@@ -643,7 +643,7 @@ glu grafi - наклейка
 glukerol - глицерин  
 glukogen - гликоген  
 glukos - глюкоза  
-glute bandaje - пластырь  
+glute bandage - пластырь  
 glutike - клейкий (липкий)  
 glutize - клеиться  
 gol - цель  
@@ -655,7 +655,7 @@ grafe cule - обработка изображений
 grafeme - пиксель  
 grafe kata - комикс  
 • programe - программа  
-• programaje - программное обеспечение  
+• programage - программное обеспечение  
 granite - гранит  
 grave - гравий  
 • agrese - нападение (атака, агрессия)  
@@ -683,8 +683,8 @@ Habaxa - Абиссиния
 hafenium - гафний  
 haha - смеяться  
 haima - палатка (шатёр)  
-haje - паломничество  
-hajer - паломник (пилигрим)  
+hage - паломничество  
+hager - паломник (пилигрим)  
 haki - пыль  
 haki rang - хаки  
 hal - состояние (статус)  
@@ -734,7 +734,7 @@ hidre - водород
 hidrate - гидрат  
 hidre peroxide - перекись водорода  
 hidrargente - ртуть  
-hijabu - вуаль  
+higabu - вуаль  
 hin - без  
 Hindocin - Индокитай  
 hindium - индий  
@@ -784,7 +784,7 @@ iglu - иглу
 iha uma - мул  
 imperia - империя  
 in bum - имплозия  
-intraje - внутренности  
+intrage - внутренности  
 in verse jen - интроверт  
 iode - йод  
 IP adres - IP-адрес  
@@ -800,26 +800,26 @@ itis - воспаление
 jai - победить  
 jamul - джамболан  
 jan - осторожность (опаска)  
-jan buda din - дзен-буддизм  
-janive - осторожный (внимательный)  
+zan buda din - дзен-буддизм  
+zanive - осторожный (внимательный)  
 janela - окно  
-jangal - лес (джунгли)  
-jara - кувшин (графин)  
+zangal - лес (джунгли)  
+kundi - кувшин (графин)  
 jaru - метла  
 jau - ячмень  
 javabe - ответ  
 jebe - карман  
-jen jami - толпа  
-jenju table - счёты (абак)  
+jen zamia - толпа  
+zenzu table - счёты (абак)  
 jensen - женьшень  
 • projete - проект  
-jihade - борьба (бой)  
-jiva - живать (живой; жизнь)  
-• trajiva - переживать  
-jong - центр  
-jong fon - гласный  
-jong xulekan - средняя школа  
-Jongoku - Китай  
+gihade - борьба (бой)  
+ziva - живать (живой; жизнь)  
+• traziva - переживать  
+zong - центр  
+zong fon - гласный  
+zong xulekan - средняя школа  
+Zong gogia - Китай  
 jovar - сорго (гаолян)  
 jube - халат (жупан)  
 • prejude - предрассудок  
@@ -851,9 +851,9 @@ kafe pote - кофейник
 kafe rang - коричневый  
 kafe salmon - кумжа  
 kafur - камфора  
-kaguji - бумага  
-kaguji limon - лайм  
-kaju - кешью  
+kaguzi - бумага  
+kaguzi limon - лайм  
+kasu - кешью  
 kaki - хурма  
 kalium - калий  
 kala - чёрный  
@@ -885,7 +885,7 @@ kane kasa - клетка
 kane minte - мята колоси́стая  
 kane sor - щеколда  
 kangaru - кенгуру  
-kanjar - кинжал  
+kanzar - кинжал  
 kanse - рак  
 Kantalupo a Sabina - Канталупо-ин-Сабина  
 kantalupo melon - канталупа  
@@ -1093,7 +1093,7 @@ lexaslia - этимология
 lexeme - лексема  
 lexe fen - слог  
 lexe gense - род в грамматике  
-lexe jama - словарь  
+lexe zamia - словарь  
 lexunife - лексикализовать  
 liama - лама  
 libele - стрекоза  
@@ -1159,7 +1159,7 @@ magenium - магний
 magenta - маджента (фуксия)  
 Magribia - Марокко  
 mahala - квартал  
-majang - маджонг  
+mazang - маджонг  
 makan hua - одуванчик  
 makinike - механический  
 makiniste - механик  
@@ -1199,7 +1199,7 @@ matras - матрас
 max fili - предпочитать  
 max fili di - любимый  
 max fili sim - фаворитизм (кумовство)  
-maximaje - максимум  
+maximage - максимум  
 max ordu - пополнение  
 maya - майя  
 mayur - павлин (пава)  
@@ -1242,7 +1242,7 @@ mi - я
 mimen - мы  
 mimen su - наш  
 miau - кошка  
-midaje - средство  
+midage - средство  
 midia - медиа  
 midike - средний  
 mide noce - полночь  
@@ -1259,10 +1259,10 @@ mime - имитировать
 mimer - мим (имитатор)  
 minte - мята  
 mintol - ментол  
-miraje - мираж  
+mirage - мираж  
 mire plate - зеркало  
 mirde - слабый  
-misaje - месседж  
+misage - месседж  
 Misre - Египет  
 mitre - метр  
 mixe - мешать  
@@ -1278,7 +1278,7 @@ molkan - мельница
 moli - жасмин  
 moliden - молибден  
 moluske - моллюск  
-monaje - монада  
+monage - монада  
 monograme - монограмма (вензель)  
 monike - особа (индивидуум)  
 mos - мох  
@@ -1317,7 +1317,7 @@ nabi - пророчество
 nabija - пророк (вестник)  
 nadir - редкий  
 nadir mar - редко  
-najis - грязь (скверна)  
+nagis - грязь (скверна)  
 nam - имя  
 • annam - антоним  
 nam dokumen - ID  
@@ -1393,7 +1393,7 @@ nomi - организация
 norde - север (норд)  
 • paranormali - паранормальный  
 nostalgia - ностальгия (тоска)  
-notaje - запись (заметка)  
+notage - запись (заметка)  
 nu - ну  
 nudisme - нудизм  
 nuka - шея  
@@ -1494,7 +1494,7 @@ payace - клоун (паяц)
 pei kar - профессия  
 pei kar di - профессиона́льный  
 pei karer - профессионал (профи)  
-pei kar jiva - карьера  
+pei kar zive - карьера  
 • propeler - пропеллер (винт)  
 pelpel - бабочка (мотылёк)  
 pena - перо  
@@ -1903,7 +1903,7 @@ trirotike - трёхколёсный велосипед
 truke - обман  
 tu - ты  
 tumen su - ваш  
-tuale kaguji - туалетная бумага  
+tuale kaguzi - туалетная бумага  
 tuale kamar - туалет (уборная, клозет)  
 Tule - Туле  
 tulium - тулий  
@@ -2056,7 +2056,7 @@ xukre - спасибо
 xukria - благодарность  
 xule - учиться  
 xule - образование  
-xulaje - урок (учение)  
+xulage - урок (учение)  
 xule guru - учитель  
 xulize - учить (преподавать)  
 xulekan - школа   

@@ -33,7 +33,7 @@ alife - 変える
 alge - 痛み  
 algike - 痛い  
 alga fungu - 地衣類 (苔癬)  
-alga jangal - 藻場  
+alga zangal - 藻場  
 alkan - アルカン  
 alken - アルケン  
 alkin - アルキン  
@@ -60,7 +60,7 @@ angil - 伝言 (メッセージ)
 angul - 指  
 angul marke - 指紋  
 angul pike - 指先  
-animaje - アニメ  
+animage - アニメ  
 animation - アニメーション  
 anis - アニス (八角)  
 aple - 林檎  
@@ -190,7 +190,7 @@ bil - できる (ありうる)
 bilive - 有能 (上手)  
 bilor - 結晶  
 bine - 建てる  
-binaje - 建物 (建築物)  
+binage - 建物 (建築物)  
 bine plan - 建築学  
 bine planer - 建築家  
 bingo - ビンゴ  
@@ -317,7 +317,7 @@ de - -から
 dee - 神  
 deokata - 神話  
 deonagre grame - デーヴァナーガリー  
-debaje - 負債  
+debage - 負債  
 defe bano - 盾  
 defe kaska - 鎧  
 deha - 村  
@@ -363,7 +363,7 @@ Dominika Vakilkratia - ドミニカ共和国
 don - あげる (くれる)  
 dong - 東  
 dong gorila - ヒガシゴリラ  
-donjon ventur - ダンジョンアドベンチャー  
+dongen ventur - ダンジョンアドベンチャー  
 dosil - 温順 (素直)  
 dosil gene di - 家畜  
 doste - 友達 (友人)  
@@ -397,7 +397,7 @@ englix margarita - ヒナギク
 erbium - エルビウム  
 es - である  
 eskran - スクリーン  
-esponje - スポンジ (海綿)  
+sponge - スポンジ (海綿)  
 estan - スズ  
 estibium - アンチモン  
 estrontium - ストロンチウム  
@@ -545,7 +545,7 @@ glukerol - グリセロール
 glukin - グリシン  
 glukogen - 糖原 (グリコーゲン)  
 glukos - 葡萄糖 (グルコース)  
-glute bandaje - 絆創膏  
+glute bandage - 絆創膏  
 glutike - 粘い  
 glutize - 張る (付く)  
 gogia jen - 市民  
@@ -561,7 +561,7 @@ grafe karte - グラフィックカード
 grafe kata - 漫画  
 grafi sugata - フレームレート  
 • programe - 次第 (計画, プログラム)  
-• programaje - ソフトウェア  
+• programage - ソフトウェア  
 granite - 花崗岩  
 grave - 砂利  
 gros - 荒い  
@@ -581,7 +581,7 @@ habar letre - ニュースレター
 Habaxa - アビシニア  
 hafenium - ハフニウム  
 haha - 笑う  
-haje - 巡礼  
+hage - 巡礼  
 haki rang - カーキ色  
 haku - 権利  
 hal - 状態  
@@ -665,7 +665,7 @@ iglu - イグルー
 iha uma - 騾馬  
 imperia - 제국  
 in - 内  
-intraje - 腸 (臓器)  
+intrage - 腸 (臓器)  
 in verse jen - 内向的な人  
 iode - ヨウ素  
 IP adres - IPアドレス  
@@ -678,33 +678,33 @@ isme - 主义
 ## J  
 
 jaibai - 勝敗  
-• ajame - 会う (会合, 会議)  
-• anjame - 散らす  
-• anjame di - 疎ら  
+• azame - 会う (会合, 会議)  
+• anzame - 散らす  
+• anzame di - 疎ら  
 jamul - フトモモ  
 jan - 注意  
-jan buda din - 禅宗  
-janive - 気をつける (慎む)  
+zan buda din - 禅宗  
+zanive - 気をつける (慎む)  
 janela - 窓  
-jang - 戦闘 (格闘)  
-jangal - 森 (森林, ジャングル)  
+zang - 戦闘 (格闘)  
+zangal - 森 (森林, ジャングル)  
 jaru - 箒  
 jau - 大麦  
 javabe - 答え (回答)  
 jebe - ポケット (懐中)  
 jebe caku - ポケットナイフ  
-jeka - 借用  
-jeka don - 貸す  
-jeka na - 借りる  
+zeka - 借用  
+zeka don - 貸す  
+zeka na - 借りる  
 jelekan - 監獄  
 jen - 人 (者, 員, 徒)  
-jenju table - 算盤  
+zenzu table - 算盤  
 jensen - 人蔘   
 • projete - プロジェクト  
 jete grafe - 映す (投影する, 投影)  
-jiva - 命 (生命)  
-jong - 中心  
-Jongoku - 中国  
+ziva - 命 (生命)  
+zong - 中心  
+Zong gogia - 中国  
 jovar - 蜀黍 (コーリャン)  
 • prejude - 偏見  
 judau - 柔道  
@@ -734,9 +734,9 @@ kafe pote - コーヒーポット
 kafe rang - 茶色  
 kafe salmon - ブラウントラウト  
 kafur - 樟脳 (カンフル)  
-kaguji - 紙  
-kaguji limon - メキシカンライム (マナオ)  
-kaju - カシュー  
+kaguzi - 紙  
+kaguzi limon - メキシカンライム (マナオ)  
+kasu - カシュー  
 kaki - 柿  
 kalium - カリウム  
 kala - 黒い  
@@ -934,7 +934,7 @@ lazanya - ラザニア
 lazur petra - ラピスラズリ (瑠璃)  
 lense - レンズ  
 lete - 読む  
-letaje - 読み物  
+letage - 読み物  
 leter - 読者  
 letaratur - 文献 (文学, 文芸)  
 letre - 手紙  
@@ -944,7 +944,7 @@ lexe - 言葉
 lexeme - 語彙素  
 lexe fen - 音節  
 lexe gense - 文法的性 (名詞クラス)  
-lexe jama - 語彙  
+lexe zamia - 語彙  
 liama - ラマ  
 libele - 蜻蛉  
 lide line - リード (手綱)  
@@ -1001,7 +1001,7 @@ magenium - マグネシウム
 magenta - マゼンタ (紅紫色)  
 magi bala - 魔力  
 Magribia - モロッコ  
-majang - 麻雀  
+mazang - 麻雀  
 makan hua - タンポポ  
 makinize - 機械化する  
 malonomia - 経済学  
@@ -1099,11 +1099,11 @@ milke kardon - マリアアザミ
 mimer - 模倣者  
 minte - 薄荷 (ハッカ)  
 mintol - メントール (薄荷脳)  
-miraje - 蜃気楼  
+mirage - 蜃気楼  
 mire plate - 鏡  
 mirde - 微か  
 • konmisea - 委員会  
-misaje - 伝言 (メッセージ)  
+misage - 伝言 (メッセージ)  
 misioner - 宣教師  
 Misre - エジプト  
 mite vide - 幻覚  
@@ -1148,9 +1148,9 @@ na xiti - 得失
 nabija - 預言者  
 nadir - 稀 (疎ら)  
 nafte guku - シマカンギク (アブラギク)  
-najis - 汚れ (汚染)  
-najis bindu - 染み (汚点)  
-najis di - 汚い  
+nagis - 汚れ (汚染)  
+nagis bindu - 染み (汚点)  
+nagis di - 汚い  
 nam - 名前  
 nam dokumen - 身分証明書 (ID)  
 nam hin - 名無し (無名の)  
@@ -1295,7 +1295,7 @@ payace - ピエロ (道化師)
 pei kar - 職業  
 pei kar di - プロフェッショナル  
 pei karer - プロフェッショナル  
-pei kar jiva - キャリア  
+pei kar zive - キャリア  
 • propeler - プロペラ (推進器)  
 pelpel - チョウ  
 pena kalam - 羽根ペン  
@@ -1641,7 +1641,7 @@ truke - 悪戯 (詐欺)
 tu - あなた  
 tumen - あなたたち  
 tu su - あなたの  
-tuale kaguji - ちり紙 (トイレットペーパー)  
+tuale kaguzi - ちり紙 (トイレットペーパー)  
 tuale kamar - トイレ (手洗い)  
 tulium - ツリウム  
 tuna - 鮪 (ツナ)  

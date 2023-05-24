@@ -182,7 +182,7 @@ bacalhau-do-atlântico - atlanti bakalau
 bacharelato - baceler  
 bacia - basen  
 baga - beri  
-bagagem - bagaje  
+bagagem - bagage  
 baile (danza) - danse  
 bambu - bambu  
 banana - banana  
@@ -260,7 +260,7 @@ bromo - brom
 brócolis - brokoli  
 bu! - bu!  
 Buda - Bude  
-budismo zen - jan buda din  
+budismo zen - zan buda din  
 bule - cai pote  
 burocracia - burokratia  
 buscar (procurar) - soki  
@@ -286,7 +286,7 @@ cadáver - nekre
 cafeteira - kafe pote  
 café - kafe  
 café - kafekan  
-caju - kaju  
+caju - kasu  
 cal - kalside  
 calcinha - pantete  
 calcita - kalsite  
@@ -340,7 +340,7 @@ carnaval - karne feste
 carne - karne  
 carrapato (ácaros) - akare  
 carregar - karge  
-carreira - pei kar jiva  
+carreira - pei kar zive  
 carta - karta  
 carta - letre  
 carta geográfica - karte  
@@ -362,7 +362,7 @@ cem (100) - sento
 cemitério - gabrestan  
 cenoura - karote  
 centauro - kentaur  
-centro - jong  
+centro - zong  
 centáurea - kentaur hua  
 centénario - sento nen di  
 cerca - kinar baryer  
@@ -388,7 +388,7 @@ cheque de viajante - safar ceke
 chetnim - hinde sos  
 chibata - uma bici  
 chicote - bici  
-China - Jongoku  
+China - Zong gogia  
 chocolate - coklate  
 chorar - vava  
 chow mein - cau mien  
@@ -500,7 +500,7 @@ cristal - bilor
 croassã - kruasan  
 crocodiliano - krokodil  
 crocodilo - long krokodil  
-cromo - jame karte  
+cromo - zame karte  
 cronómetro - durometrer  
 cru - seng  
 cruz - krus  
@@ -619,7 +619,7 @@ durante - a dure de
 duração - dure  
 duro - gati  
 dígito - numograme  
-dívida (débito) - debaje  
+dívida (débito) - debage  
 dúbnio - dubnium  
 dúvida - xake  
 
@@ -649,17 +649,17 @@ embalar - lifafe
 emitir - exmise  
 emoticon (emoji) - gamo zi  
 emoçao - gamo  
-emprestar (pedir emprestado) - jeka  
-emprestar - jeka don  
+emprestar (pedir emprestado) - zeka  
+emprestar - zeka don  
 encarar (afrontar; vérsus) - verse  
-encontrar - ajame  
+encontrar - azame  
 endereço - adres  
 engenharia - engenia  
 engenheiro - engener  
 ensaio (redação) - esai  
 ensinar (lecionar) - xulize  
 ensino primário - baze xulekan  
-ensino secundário - jong xulekan  
+ensino secundário - zong xulekan  
 ensopar (encharcar, marinar) - pul xipi  
 entrar - intre  
 enxada - copu  
@@ -696,12 +696,12 @@ espelho - mire plate
 espetador - speter  
 espirrar - aci  
 espodossolo - hui darte  
-esponja - esponje  
+esponja - sponge  
 esporte - sporte  
 esposa - ni per (fem)  
 esposo - nan per (man)  
 esposo ou esposa - gam per  
-espírito (gênio) - jin  
+espírito (gênio) - gin  
 esquecer - anmemo  
 esqueleto - oste jama  
 esquerdo - leu  
@@ -784,7 +784,7 @@ fita métrica - metre bande
 flecha (seta) - flece  
 fleróvio - flerovium  
 flor - hua  
-floresta de algas - alga jangal  
+floresta de algas - alga zangal  
 fluoreto - fluride  
 flúor - flur  
 fogo - hogo  
@@ -967,7 +967,7 @@ intenção - nia
 interceptar - intercepe  
 internacional - internasial  
 interseção - dau yunte  
-intestino (entranhas, tripa) - intraje  
+intestino (entranhas, tripa) - intrage  
 invernal (hibernal) - leng mosim di  
 inverno - leng mosim  
 iodo - iode  
@@ -993,7 +993,7 @@ jaguatirica (ocelote) - oselote
 jambolão (jambo) - jamul  
 janela - janela  
 Japão - Nipon  
-jarra (jarro) - jara  
+jarra (jarro) - kundi  
 jasmim - moli  
 Javé (Jeová) - Yahve  
 jengibre - ginge  
@@ -1055,7 +1055,7 @@ licor - araki
 liga (aliança) - lige  
 liga - metal mixure  
 ligeiro - lege veze di  
-lima - kaguji limon  
+lima - kaguzi limon  
 limonada - limon jus  
 limpo - safe  
 limão - limon  
@@ -1070,7 +1070,7 @@ livermório - livermorium
 livre (forro) - hure  
 livro - buke  
 lixeira - lasa tong  
-lição - xulaje  
+lição - xulage  
 lobo - volfe  
 local - lokal  
 loja - dukan  
@@ -1081,7 +1081,7 @@ lua - luna
 lugar (local) - loke  
 lula (calamar) - kalmar  
 lustroso - foto mira di  
-luta - jihade  
+luta - gihade  
 luteranismo - Luterisme  
 luterano - Luteriste  
 lutécio - lutesium  
@@ -1115,7 +1115,7 @@ maduro (adulto) - ceng
 magnésio - magenium  
 mago - mager  
 mago - zarduxtan mager  
-mahjong - majang  
+mahjong - mazang  
 mainá - maina  
 maioria - maxia  
 mais - max  
@@ -1137,7 +1137,7 @@ manteiga - bute
 manto - jube  
 mantra - mantra  
 mar - bahai  
-maravilha - ajabe  
+maravilha - agibe  
 maravilha - mirebil  
 marcha - marce  
 margarida - margarita  
@@ -1158,7 +1158,7 @@ matadouro - karnekan
 mate (opaco) - foto mata di  
 matemática - numologia  
 matemático - numologer  
-material de leitura - letaje  
+material de leitura - letage  
 materialismo - madisme  
 maternal - ma di  
 matéria - made  
@@ -1173,7 +1173,7 @@ medio - midike
 medusa - bahai gele  
 meia - maze  
 meia-noite - mide noce  
-meio (instrumento) - midaje  
+meio (instrumento) - midage  
 meio (metade) - mide  
 meio-dia - medi dia  
 meitnério - meitnerium  
@@ -1187,7 +1187,7 @@ memória - memo
 mendelévio - mendelevium  
 meninge - meninge  
 mensagem - angil  
-mensagem - misaje  
+mensagem - misage  
 menta (hortelã) - minte  
 mentol - mintol  
 meranti - meranti  
@@ -1210,7 +1210,7 @@ micróbio - mikrobie
 migração - migre  
 milhete (painço) - dana.cau  
 mina - kuan xan  
-miragem - miraje  
+miragem - mirage  
 mirar (apontar) - dike  
 mirar - mire  
 mistura - mixur  
@@ -1246,7 +1246,7 @@ mover - mote
 mudança climática - klima mute  
 mudar-se - migre  
 muesli - musli  
-multidão - jen jami  
+multidão - jen zamia  
 multilíngue (plurilíngue) - polibaxike  
 multilíngue (plurilíngue) - polibaxike  
 mundo - dunia  
@@ -1255,14 +1255,14 @@ muro (muralha) - mur
 máquina de escrever - kitabe maxin  
 mármore - kalsobilor  
 máscara - maske  
-máximo - maximaje  
+máximo - maximage  
 mãe - ma  
 mão - hanu  
 média (mídia) - midia  
 mês - mes  
 mímico - mimer  
 mó - molite  
-mónada - monaje  
+mónada - monage  
 múltiplos - polipli  
 música - muzike  
 música pop (música popular) - pope muzike  
@@ -1309,7 +1309,7 @@ noitinha - xam
 norte - norde  
 nosso - mimen su  
 nostalgia (saudade) - nostalgia  
-nota - notaje  
+nota - notage  
 novato (neófito) - neu jen  
 nove (9) - tisa  
 novidade - neu  
@@ -1397,9 +1397,9 @@ panda - panda
 pandemia - pandemike pate  
 pantomima (mímica) - panmime  
 papagaio - papagai  
-papel - kaguji  
+papel - kaguzi  
 papel de parede - mur kaguze  
-papel higiênico - tuale kaguji  
+papel higiênico - tuale kaguzi  
 papoila - medan papi  
 papoila-dormideira - sona papi  
 par (parelha) - per  
@@ -1415,7 +1415,7 @@ partida - mece
 partido - partia  
 parâmetro - parametre  
 parónimo - paranam  
-passagem - pasaje  
+passagem - pasage  
 passagem de volta - retro tikete  
 passaporte - pasporte  
 pasta - pasta  
@@ -1429,7 +1429,7 @@ pauzinho (hashi) - haxi
 pavão real - mayur  
 paz - pace  
 pederneira - hogo seku  
-pedir emprestado - jeka na  
+pedir emprestado - zeka na  
 pedra - ite  
 pedra - seku  
 pedra preciosa (gema) - bauite  
@@ -1442,7 +1442,7 @@ peixe - pexe
 pele - pil  
 pena - pena kalam  
 penal - fatu di  
-penso (band-aid) - glute bandaje  
+penso (band-aid) - glute bandage  
 pepino - hiyar  
 pepino-africano (kiwano) - korne melon  
 pepino-do-mar (holotúrias) - bahai hiyar  
@@ -1452,8 +1452,8 @@ perdedor - xiti bai ja
 perder - xiti  
 perdoar (desculpar) - af  
 perecer - perex fa  
-peregrinagem - haje  
-peregrino - hajer  
+peregrinagem - hage  
+peregrino - hager  
 perigo - hatar  
 perplexo (confuso) - ruhu mixe di  
 perturbar (turbulência) - disturbe  
@@ -1491,7 +1491,7 @@ plutónio - plutonium
 plástico - plastike  
 pneumonia  - pulmonitis  
 Polinésia - Polinesia  
-poluição - najis  
+poluição - nagis  
 polvo - ohtopus  
 polónio - polskium  
 pomar - frute parke  
@@ -1752,7 +1752,7 @@ seguro - sekur
 seio (mama) - mame  
 seis (6) - luka  
 seita - din xia  
-selva (floresta, jângal) - jangal  
+selva (floresta, jângal) - zangal  
 selénio - selenium  
 sem - hin  
 sem nome - nam hin  
@@ -1784,7 +1784,7 @@ sino (campainha) - dang gi
 sintaxe - jumla logia  
 sintaxe - sintaxe  
 situaçao - xe hal  
-sobreviver - trajiva  
+sobreviver - traziva  
 sobrinha - sau doh  
 sobrinho - sau son  
 sociedade - sosia  
@@ -1991,13 +1991,13 @@ vinhedo - putau bagi
 vir - lai  
 virgem - virge  
 vitamina - vitamin  
-viver (vivo; vida) - jiva  
+viver (vivo; vida) - ziva  
 vivisecção - biotomia  
 Vixnu - Vixnu  
 viúvo - vidua  
-vocabulário - lexe jama  
-vogal - jong fon  
+vocabulário - lexe zamia  
 vogal - vokal fone  
+vogal - zong fon  
 vontade (volição) - volation  
 voo - fei  
 vosso - tumen su  
@@ -2007,7 +2007,7 @@ vulcão - hogo xan
 vulva - vulva  
 vários - vari  
 Vénus - Zukra  
-véu - hijabu  
+véu - higabu  
 véu - vel  
 vírgula - koma  
 waffle - vafle  
@@ -2040,7 +2040,7 @@ zoologia - hevan logia
 zoológico - hevan bagi  
 zoológico - hevan logia di  
 zumbi - zombi  
-ábaco - jenju table  
+ábaco - zenzu table  
 ágil - agile  
 água - sui  
 água da chuva - barxa sui  

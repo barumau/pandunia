@@ -32,7 +32,7 @@ air porto - aeroporto
 ais hoki - hóquei no gelo  
 ais krem - sorvete (gelado)  
 ais xarbe - sorvete  
-ajabe - maravilha  
+agibe - maravilha  
 akare - carrapato (ácaros)  
 akrabe - escorpião (lacrau)  
 ale - outro  
@@ -46,7 +46,7 @@ altrisme - altruísmo
 algogenike - algogênico  
 algometria - algometria  
 alga - alga  
-alga jangal - floresta de algas  
+alga zangal - floresta de algas  
 algalogia - algologia (ficologia)  
 alkan - alcano  
 alken - alceno  
@@ -152,7 +152,7 @@ baca - criança (menino)
 baceler - bacharelato  
 badam - amêndoa  
 badan - corpo  
-bagaje - bagagem  
+bagage - bagagem  
 bagre - tigre  
 bagre oselote - gato-do-mato (gato-maracajá-mirim)  
 bahai - mar  
@@ -377,7 +377,7 @@ deokata - mito
 deonagre grame - devanágari  
 deosofia - teosofia  
 debe - dever (obrigação)  
-debaje - dívida (débito)  
+debage - dívida (débito)  
 debize - obrigar  
 defe bano - escudo  
 defe kaska - armadura  
@@ -455,7 +455,7 @@ esential - essencial (fundamental)
 esai - ensaio (redação)  
 eskran - ecrã  
 eskulter - escultor  
-esponje - esponja  
+sponge - esponja  
 estan - estanho  
 estibium - antimónio  
 estrontium - estrôncio  
@@ -608,7 +608,7 @@ glu grafi - adesivo
 glukin - glicina  
 glukogen - glicogênio  
 glukos - glicosa  
-glute bandaje - penso (band-aid)  
+glute bandage - penso (band-aid)  
 glutike - pegajoso (adesivo)  
 glutize - colar (aderir)  
 gol - meta (gol)  
@@ -637,8 +637,8 @@ habar letre - boletim de notícias
 Habaxa - Abissínia  
 hafenium - háfnio  
 haha - rir  
-haje - peregrinagem  
-hajer - peregrino  
+hage - peregrinagem  
+hager - peregrino  
 haki - pó  
 haki rang - cáqui  
 haku - direito  
@@ -689,7 +689,7 @@ hidre - hidrogéno
 hidrate - hidrato  
 hidre peroxide - peróxido de hidrogênio  
 hidrargente - mercúrio  
-hijabu - véu  
+higabu - véu  
 hima - neve  
 hin - sem  
 Hindocin - Indochina  
@@ -742,7 +742,7 @@ in klus - incluindo
 in klus di - inclusivo  
 inlai - acesso  
 intre - entrar  
-intraje - intestino (entranhas, tripa)  
+intrage - intestino (entranhas, tripa)  
 iode - iodo  
 iridium - irídio  
 ironia - ironia  
@@ -752,35 +752,35 @@ itis - inflamaçao
 
 ## J  
 
-• ajame - encontrar  
-jame karte - cromo  
+• azame - encontrar  
+zame karte - cromo  
 jamul - jambolão (jambo)  
-jan buda din - budismo zen  
+zan buda din - budismo zen  
 janela - janela  
-jangal - selva (floresta, jângal)  
-jara - jarra (jarro)  
+zangal - selva (floresta, jângal)  
+kundi - jarra (jarro)  
 jaru - vassoura  
 jau - cevada  
 javabe - resposta  
 jebe - bolso (algebeira)  
 jebe caku - canivete  
-jeka - emprestar (pedir emprestado)  
-jeka don - emprestar  
-jeka na - pedir emprestado  
+zeka - emprestar (pedir emprestado)  
+zeka don - emprestar  
+zeka na - pedir emprestado  
 jen - pessoa  
-jen jami - multidão  
-jenju table - ábaco  
+jen zamia - multidão  
+zenzu table - ábaco  
 jensen - ginseng  
 • projete - projeto  
 jete grafe - projeção  
-jihade - luta  
-jin - espírito (gênio)  
-jiva - viver (vivo; vida)  
-• trajiva - sobreviver  
-jong - centro  
-jong fon - vogal  
-jong xulekan - ensino secundário  
-Jongoku - China  
+gihade - luta  
+gin - espírito (gênio)  
+ziva - viver (vivo; vida)  
+• traziva - sobreviver  
+zong - centro  
+zong fon - vogal  
+zong xulekan - ensino secundário  
+Zong gogia - China  
 jovar - sorgo  
 jube - manto  
 • prejude - prejulgamento  
@@ -806,9 +806,9 @@ kafe pote - cafeteira
 kafe rang - castanho (marrom)  
 kafe salmon - truta-marrom  
 kafur - cânfora  
-kaguji - papel  
-kaguji limon - lima  
-kaju - caju  
+kaguzi - papel  
+kaguzi limon - lima  
+kasu - caju  
 kaki - caqui (dióspiro)  
 kalium - potássio  
 kala - preto  
@@ -1042,7 +1042,7 @@ leng mosim - inverno
 leng mosim di - invernal (hibernal)  
 lense - lente  
 lete - ler  
-letaje - material de leitura  
+letage - material de leitura  
 letebil - legível  
 leter - leitor  
 letaratur - literatura  
@@ -1058,7 +1058,7 @@ lexeme - lexema
 lexe fen - sílaba  
 lexe gense - gênero gramatical  
 • rilexife - relexificar  
-lexe jama - vocabulário  
+lexe zamia - vocabulário  
 liama - lhama  
 libele - libélula  
 lider - líder (chefe)  
@@ -1124,7 +1124,7 @@ magenium - magnésio
 Magribia - Marrocos  
 mahala - quarteirão  
 maina - mainá  
-majang - mahjong  
+mazang - mahjong  
 makan hua - dente-de-leão (taráxaco)  
 makinike - mecânico  
 makinize - mecanizar  
@@ -1166,7 +1166,7 @@ max fili - preferir
 max fili di - favorito (preferido)  
 max fili sim - favoritismo  
 maxia - maioria  
-maximaje - máximo  
+maximage - máximo  
 mayur - pavão real  
 maze - meia  
 mece - partida  
@@ -1205,7 +1205,7 @@ mimen - nós
 mimen su - nosso  
 miau - gato  
 mide - meio (metade)  
-midaje - meio (instrumento)  
+midage - meio (instrumento)  
 midia - média (mídia)  
 midike - medio  
 mide noce - meia-noite  
@@ -1224,7 +1224,7 @@ minte - menta (hortelã)
 mintol - mentol  
 mire - mirar  
 • amire - admirar  
-miraje - miragem  
+mirage - miragem  
 mirebil - maravilha  
 mire plate - espelho  
 mirde - fraco  
@@ -1233,7 +1233,7 @@ mirde - fraco
 • promise - prometer  
 • tramiseon - передача  
 • tramiser - передатчик  
-misaje - mensagem  
+misage - mensagem  
 mision - миссия  
 misioner - миссионер  
 Misre - Egipto (Egito)  
@@ -1251,7 +1251,7 @@ molkan - moenda (moinho)
 mole - mol  
 moli - jasmim  
 moliden - molibdénio  
-monaje - mónada  
+monage - mónada  
 monograme - monograma  
 monike - indivíduo  
 mosim - estação (sazão)  
@@ -1285,7 +1285,7 @@ nabi - profetizar
 nabija - profeta (arauto)  
 nadir - raro  
 nadir mar - raramente  
-najis - poluição  
+nagis - poluição  
 nam hin - sem nome  
 nam kitabe - assinar  
 nan per (man) - esposo  
@@ -1364,7 +1364,7 @@ Noe di nave - arca de Noé
 nome - organizar  
 norde - norte  
 nostalgia - nostalgia (saudade)  
-notaje - nota  
+notage - nota  
 nude - nu  
 nuka - pescoço (nuca, gargalo)  
 nume - número  
@@ -1453,7 +1453,7 @@ parne - samambaia
 parte - fragmento  
 partaner - parceiro  
 partia - partido  
-pasaje - passagem  
+pasage - passagem  
 pas lexe - palavra-passe (senha)  
 pasporte - passaporte  
 pasta - pasta  
@@ -1466,7 +1466,7 @@ pau gi - arma de fogo
 pauze - pausa  
 payace - palhaço  
 pei kar - profissão  
-pei kar jiva - carreira  
+pei kar zive - carreira  
 • expele - expelir  
 • inpele - impelir  
 • propeler - propulsor (hélice)  
@@ -1854,7 +1854,7 @@ truke - truque (fraude)
 tu - tu  
 tumen su - vosso  
 tuale - toalha  
-tuale kaguji - papel higiênico  
+tuale kaguzi - papel higiênico  
 tuale kamar - lavatorio (toalete)  
 tulium - túlio  
 tulpan - túlipa  
@@ -2003,7 +2003,7 @@ xukre - obrigado
 xukria - gratidão  
 xule - aprender  
 xule - educação  
-xulaje - lição  
+xulage - lição  
 xule guru - professor (docente)  
 xulize - ensinar (lecionar)  
 xulekan - escola (colégio)  

@@ -79,7 +79,7 @@ angar - ankro
 angil - mesaĝo  
 angul - fingro  
 angul ring - ringo  
-animaje - kartuno  
+animage - kartuno  
 animate - animi  
 • reanimate - reanimi  
 antena - anteno  
@@ -152,7 +152,7 @@ badan - korpo
 badan di - korpa  
 badavi - beduino (nomado)  
 bage - sako  
-bagaje - pakaĵo  
+bagage - pakaĵo  
 bagre - tigro  
 bahaisme - bahaismo  
 bahaiste - bahaisto  
@@ -177,7 +177,7 @@ bambu - bambuo
 ban - pano  
 banana - banano  
 bande - ligi (bendo)  
-bandaje - bandaĝo (vindo)  
+bandage - bandaĝo (vindo)  
 bandera - flago  
 Bangla gogia - Bangladeŝo  
 banker - bankisto  
@@ -426,7 +426,7 @@ deokata - mito
 deokratia - teokratio  
 deologia - teologio  
 debe - devi  
-debaje - ŝuldo  
+debage - ŝuldo  
 debize - devigi  
 defe - defendo  
 defer - defendanto (defendisto)  
@@ -477,7 +477,7 @@ dom gogia - patrio
 domize - loĝigi  
 dom zeze - muŝo  
 don - doni  
-donaje - donaco  
+donage - donaco  
 donive - malavara  
 dong - oriento  
 doste - amiko  
@@ -599,7 +599,7 @@ firuze - turkiso
 fite - planto  
 fitologia - plantscienco (botaniko)  
 fixe - fiksi  
-• afixaje - afiŝo  
+• afixage - afiŝo  
 fizologer - fizikisto  
 fizologia - fiziko  
 • reflexe sonde - eĥo  
@@ -677,7 +677,7 @@ Ganga - Gangoj
 gani - kanto  
 ganir - kantisto  
 ganir grupe - ĥoro  
-ganja - kanabo  
+ganza - kanabo  
 ganse - ansero  
 garanti - garantio  
 garde - gardi  
@@ -759,8 +759,8 @@ haha - ridi
 haide - ni faru...  
 haima - tendo  
 Haiti - Haitio  
-haje - pilgrimo  
-hajer - pilgrimanto  
+hage - pilgrimo  
+hager - pilgrimanto  
 haki - polvo  
 haku - rajto  
 hal - stato  
@@ -850,7 +850,7 @@ hormon - hormono
 Horvatia - Kroatio  
 hotel - hotelo  
 hua - floro  
-hua jara - vazo  
+hua kundi - vazo  
 hua koli - florbrasiko  
 hua mosim - printempo  
 hua pote - florpoto  
@@ -906,17 +906,17 @@ Italia - Italio
 jai - venki  
 jain din - Ĝajnismo  
 jake - jako  
-jame - kolekti (kunigi)  
-• anjame - disigi  
-jamive - kolekta  
+zame - kolekti (kunigi)  
+• anzame - disigi  
+zamive - kolekta  
 Jamaika - Jamajko  
 jampe - salti  
 janela - fenestro  
 janela frem - fenestrokadro  
-jang - milito (batalo)  
-jang di - milita  
-jangal - arbaro  
-jara - kruĉo  
+zang - milito (batalo)  
+zang di - milita  
+zangal - arbaro  
+kundi - kruĉo  
 jaru - balailo  
 jau - hordeo  
 javabe - respondi  
@@ -925,19 +925,19 @@ jele - malliberigi
 jelekan - malliberejo  
 jen - persono  
 jen bahai - amasego da homoj  
-jen jami - amaso da homoj  
-jenju - perlo  
-jenju table - bidkalkulilo (abako)  
-jiva - vivi (viva; vivo)  
-• trajiva - travivi  
-jong - centro  
-jong fon - vokalo  
-jong xulekan - gimnazio  
-Jongoku - Ĉinio  
+jen zamia - amaso da homoj  
+zenzu - perlo  
+zenzu table - bidkalkulilo (abako)  
+ziva - vivi (viva; vivo)  
+• traziva - travivi  
+zong - centro  
+zong fon - vokalo  
+zong xulekan - gimnazio  
+Zong gogia - Ĉinio  
 jube - robo  
 jude - juĝi  
 • prejude - angaŭjuĝo  
-judaje - juĝo  
+judage - juĝo  
 juder - juĝisto  
 judau - ĵudo  
 jul - ĵulo (J)  
@@ -963,9 +963,9 @@ kafe kupa - kaftaso
 kafe pote - kafeujo  
 kafe rang - bruna  
 kafur - kamforo  
-kaguji - papero  
+kaguzi - papero  
 kai - malferma  
-kaju - akaĵuo  
+kasu - akaĵuo  
 kaka - feko  
 kakau - kakao  
 kaki - persimono  
@@ -998,7 +998,7 @@ kane - stango
 kane kasa - kaĝo  
 kane sor - riglilo  
 kangaru - kangaro  
-kanjar - ponardo  
+kanzar - ponardo  
 kanse - kancero  
 kanta - ŝultro  
 kanu - kanuo (kanoto)  
@@ -1054,9 +1054,9 @@ keci - ĝentila
 keke - kuko  
 ken - scii aŭ koni  
 • ankenike - fremda (nekonata)  
-• konkenaje - informacio  
+• konkenage - informacio  
 • rekene - rekoni  
-kenaje - scio  
+kenage - scio  
 kenelogia - sciteorio (epistemologio)  
 kenevolike - interesa  
 kenevolive - scivolema  
@@ -1201,7 +1201,7 @@ lexeme - leksemo
 lexe fen - silabo  
 lexograme - logogrammi (logo)  
 • rilexife - releksikigo  
-lexe jama - vortaro  
+lexe zamia - vortaro  
 lexe liste - vortaro  
 libele - libelo  
 lige - ligi (aligi; ligo)  
@@ -1251,7 +1251,7 @@ madisme - materiismo
 magia - magio  
 magenium - magnezio  
 mahala - kvartalo  
-majang - maĝango  
+mazang - maĝango  
 makas - tondilo  
 makin - maŝino  
 makinike - meĥanika  
@@ -1318,7 +1318,7 @@ mimen su - nia
 mi su - mia  
 Mianma - Birmo  
 miau - kato  
-midaje - rimedo  
+midage - rimedo  
 midike - mezo  
 mide noce - noktmezo  
 mien - nudelo  
@@ -1340,7 +1340,7 @@ mintol - mentolo
 minute - minuto  
 mire plate - spegulo  
 • konmisea - komiteo (komisiono)  
-misaje - mesaĝo  
+misage - mesaĝo  
 misioner - misiisto  
 misal - ekzemplo  
 miskin - mizera  
@@ -1353,7 +1353,7 @@ mixer - miksilo
 mixur - miksaĵo  
 mogu - membrano  
 moka - arbo  
-moka jong parke - arboĝardeno  
+moka zung parke - arboĝardeno  
 moka kane - paliso  
 moka mate - ligno  
 moli - jasmeno  
@@ -1447,7 +1447,7 @@ neuron - neŭrono
 ni - ino  
 nia - celo  
 Nigeria - Niĝerio  
-Nijer - Niĝero  
+Niger - Niĝero  
 Nikaragua - Nikaragvo  
 nikel - nikelo  
 nil - blua  
@@ -1471,7 +1471,7 @@ Norge - Norvegio
 norge baxe - norvega  
 nostalgia - nostalgio (saudado)  
 note - rimarki  
-notaje - noto (rimarko, komento)  
+notage - noto (rimarko, komento)  
 note buke - kajero  
 nu - nu  
 nume - nombro  
@@ -1581,7 +1581,7 @@ pente broxa - peniko
 pente tela - kanvaso  
 per - duopo  
 • expere - kokea (käydä läpi)  
-• experaje - kokemus  
+• experage - kokemus  
 • experike - kokeellinen  
 pere - käydä läpi  
 • inperike - empiirinen (kokeellinen)  
@@ -1601,7 +1601,7 @@ pexe huke - fiŝhoko
 pexe saider - fiŝkaptisto  
 piano - piano  
 pigu - kulo  
-pijin - piĝino  
+pizin - piĝino  
 pil - haŭto  
 pilau - pilafo  
 pin - nadlo (pinglo, pikilo)  
@@ -1962,7 +1962,7 @@ tumen su - via
 tumimen - ni ĉiuj  
 tu su - via (cia)  
 tuale - viŝilo  
-tuale kaguji - neceseja papero  
+tuale kaguzi - neceseja papero  
 tuale kamar - necesejo  
 tube - tubo  
 tufan - ŝtormo  
@@ -2114,7 +2114,7 @@ xukre - danki
 xukre - danko  
 xukria - dankemo  
 xule - lerni (studi)  
-xulaje - leciono  
+xulage - leciono  
 xuler - studento (lernanto)  
 xule guru - instruisto  
 xulize - instrui (lernigi)  
