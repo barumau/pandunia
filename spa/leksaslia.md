@@ -418,7 +418,6 @@
 **ga** *ir* ← eng:go + hin:जाना (jānā), ben:যাওয়া (jaoya) + kor:가다 (gada)  
 **gabre** *tumba (sepultura, enterrar)* ← ara:(qabr), hin:क़ब्र (qabra), ben:কবর (kôbôr), may:kubur, hau:kabari, swa:kaburi, tur:kabir + deu:Grab, pol:grób, rus:гроб (grob)  
 **gadolinium** *gadolinio* ← eng:gadolinium, fra:gadolinium, spa:gadolinio, por:gadolínio, rus:гадолиний, zho:钆 (gá), jpn:ガドリニウム, kor:가돌리늄, vie:gađolini, hin:ग्याडोलिनियम, ben:গ্যাডোলিনিয়াম, may:gadolinium, swa:gadolini, ara: جدولينيوم  
-**gaja** *elefante* ← hin:गज (gaj), tam:கசம் (kacam), tel:గజము (gajamu), kan:ಗಜ (gaja), may:gajah, tgl:gadya  
 **gala** *garganta * ← eng:gullet, spa:por:gola, far:گلو (galu), hin:गला (gala), ben:গলা (galā), pan:ਗਲਾ (galā) + rus:горло (gorlo) + ara:حلق (halaq)  
 **galaxia** *galaxia* ← eng:galaxy, spa:galaxia, por:galáxia, fra:galaxie, rus:галактика (galaktika), tur:may:galaksi, hin:गैलेक्सी (gaileksī)  
 **galeri** *galería* ← eng:gallery, spa:galería, por:galeria, fra:galerie, rus:галерея (galereya), tur:galeri, hin:गैलरी (gailrī), jpn:ギャラリー (gyararī)  
@@ -444,6 +443,8 @@
 **gate** ** ← ara: قَطَعَ (qaṭa’a) + zho:割 (gē), yue:割 (got3), wuu:割 (ga’), jpn:割 (katsu), vie:cắt + hin:काटना (kāṭnā), ben:কাটা (kata) + tam:கடி (kaṭi) + tha:กัด (kat) + eng:cut + swa:-kata  
 **gati** *duro* ← tel:గట్టి (gaṭṭi), tur:katı, hin:कड़ा (kaṛā), jpn:硬い (katai)  
 **gau di** *alto* ← zho:高 (gāo), yue:高 (gou1), wuu:高 (kau1), jpn:高 (kō), kor:고 (go), vie:cao  
+**gavabe** *responder (contestar; repuesta, contestación)* ← ara: جَوَاب‎ (jawāb), hin:जवाब (javāb), ben:জবাব (jobab), may:jawab, ful:jaabaade, swa:jibu,jawabu, tur:cevap  
+**gaya** *elefante* ← hin:गज (gaj), tam:கசம் (kacam), tel:గజము (gajamu), kan:ಗಜ (gaja), may:gajah, tgl:gadya  
 **gaze** *gasa* ← deu:fra:por:gaze, jpn:ガーゼ (gāze), rus:газ (gaz), eng:gauze  
 **gazel** *gacela* ← ara:(ḡazāl), eng:fra:gazelle, rus:газель (gazel'), jpn:ガゼル (gazeru)  
 **gazeta** *revista (periódico, gaceta)* ← eng:fra:gazette, rus:газета (gazeta), swa:gazeri, tur:gazete  
@@ -601,26 +602,6 @@
 **isme** *ideología (doctrina, -ismo)* ← tha:เสริม (soem) + eng:-ism, fra:-isme, spa:por:-ismo, rus:-изм (-izm), may:-isme  
 **ite** *piedra* ← eng:fra:-ite, spa:por:-ito, rus:-ит (-it) + (brick) ben:ইট (iṭ), hin:ईंट (ī̃ṭ), tha:อิฐ (it), khm:ឥដ្ឋ (ʼət), mya: အုတ် (ut)  
 **itis** *inflamación* ← eng:spa:-itis, fra:por:-ite, rus:-ит (-it)  
-**jai** *gañar (vencer, triunfar; victoria)* ← hin:जय (jay), ben:জয় (jôy), tel:జయ (jaya), may:jaya, tha:ชัย (chai), khm:ជ័យ (cɨy), mya:ဇေယျ (jeyya)  
-**jain din** *jainismo* ← hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:jaïnisme, rus:джайнизм (džaynizm)  
-**jake** *chaqueta* ← eng:jacket, zho:夹克 (jiākè), rus:жакет (žaket), deu:Jacke, por:jaqueta  
-**jampe** *saltar (brincar)* ← eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)  
-**jan** *cuidado (atención, precaución, cautela)* ← hin:ध्यान (dhyān), ben:ধ্যান (dhyān), jpn:禅 (zen), eng:fra:por:zen, rus:дзэн (dzen), zho:禅 (chán), kor:선 (seon), vie:thiền, mya:ဈာန် (jhan)  
-**janela** *ventana* ← por:janela, ben:জানালা (janala), tam:ஜன்னல் (jaṉṉal), may:jendela  
-**javabe** *responder (contestar; repuesta, contestación)* ← ara: جَوَاب‎ (jawāb), hin:जवाब (javāb), may:jawab, ful:jaabaade, swa:jibu,jawabu, tur:cevap  
-**jebe** *bolsillo* ← ara: جَيْب‎ (jayb), fas: جیب‎ (jib), hin:जेब (jeb), pnb:ਜੇਬ (jeb), tel:(jēbu), tur:cep, por:algebeira, hau:aljihu, ful:jiiba, wol:jiba, amh:ጅብ (ǧəb)  
-**jele** *prisión* ← eng:jail, fra:geôle, hin:जेल (jel), ben:জেল (jēl), tel:జైలు (jailu), urd: جیل‎ (jēl), swa:jela + spa:por:jaula  
-**jen** *persona* ← zho:人 (rén), wuu人 (zén), jpn:人 (jin) + fra:gens, spa:por:gente + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon)  
-**jensen** *ginseng* ← zho:人蔘 (rénshēn), min:人蔘 (jîn-sam), eng:spa:por:tur:may:ginseng, rus:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), jpn:人参 (ninjin)  
-**jete** ** ← fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje  
-**joke** *broma (chiste)* ← eng:fra:joke, fas:جوک‎ (jok), jpn:ジョーク (jōku) + zho:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
-**jube** *bata (aljuba)* ← ara: جُبَّة (jubba), swa:juba, may:jubah, spa:aljuba, por:gibão, fra:jupon, rus:жупан (župan)  
-**judau** *yudo* ← zho:柔道 (róudào), jpn:柔道 (jūdō), kor:유도 (yudo), vie:nhu đạo, eng:deu:fra:spa:por:may:tur:swa:judo, rus:дзюдо (dzyudo), ara: جُودُو‎ (jūdū), fas: جودو‎ (judo), hin:जूदो (jūdo)  
-**jude** *juzgar* ← eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji, ful:juuju + rus:судья (sud'ya)  
-**jumla** *oración* ← ara:(jumla), tur:cümle, hin:जुमला (jumlā), zho:句 (jù)  
-**jun** *joven* ← eng:fra:may:junior + spa:joven, por:jovem, fas: جوان‎ (javân), hin:जवान (javān) + kor:젊다 (jeomda)  
-**jus** *jugo (zumo)* ← eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)  
-**juste** *exacto (preciso)* ← eng:just, fra:juste, spa:justo, ita:giusto, jpn:ジャスト (jasto)  
 **ka** *que (como, en comparación con)* ← spa:por:fra:que, swa:kumliko, suo:kuin, lao:ກວ່າ (kuā), tgl:kaysa  
 **kababu** *asar* ← ara:fas:urd:  كباب (kabāb), tur:may:eng:spa:kebab, rus:кебаб (kebab), hin:कबाब (kabāb), ben:কাবাব (kabab), swa:kababu  
 **kabile** *tribu* ← ara: قَبِيلَة‎ (qabīla), fas: قبیله‎ (qabile), hin:क़बीला (qābilā), tur:kabile, swa:hau:kabila  
@@ -1590,35 +1571,53 @@
 **xuru** *comienzo (inicio, principio)* ← ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)  
 **xux** *chito (chist)* ← eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus  
 **ya** *sí* ← eng:yeah, deu:ja, kor:예 (ye), may:ya  
+**yai** *gañar (vencer, triunfar; victoria)* ← hin:जय (jay), ben:জয় (jôy), tel:జయ (jaya), may:jaya, tha:ชัย (chai), khm:ជ័យ (cɨy), mya:ဇေယျ (jeyya)  
+**yain din** *jainismo* ← hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:jaïnisme, rus:джайнизм (džaynizm)  
+**yake** *chaqueta* ← eng:jacket, zho:夹克 (jiākè), rus:жакет (žaket), deu:Jacke, por:jaqueta  
 **yake** *yac* ← eng:deu:fra:spa:tur:yak, por:iaque, hin:याक (yāk)  
 **yaki** *aproximadamente* ← kor:약 (yak), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)  
 **yam** *comer (bebir)* ← khm:ញ៉ាំ (nyam), ful:nyaamude + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam  
 **yama** *lino* ← zho:亚麻 (yàmá), yue:亞麻 (aa3maa4), jpn:亜麻 (ama), kor:아마 (ama), hin:उमा (umā)  
+**yanela** *ventana* ← por:janela, ben:জানালা (janala), tam:ஜன்னல் (jaṉṉal), may:jendela  
 **yang** ** ← zho:阳 (yáng), yue:陽 (joeng4), jpn:陽 (yō), kor:양 (yang), vie:dương, eng:deu:fra:spa:por:yang, rus:ян (yan)  
 **yatim** *huérfano* ← ara: يَتِيم‎ (yatīm), fas: یتیم‎ (yatim), tur:yetim, may:yatim, swa:yatima, hin:यतीम (yatīm), ben:এতিম (etim), tam:எத்தீம் (ettīm), ful:bii atiimu  
 **yau** *necesitar* ← zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu  
 **ye** *este* ← kor:이 (i) + ben:এ (e), hin:यह (ye) + tel:ఈ (ī), tam:இது (itu) + yor:yìí  
 **yeka** ** ← zho:易 (yì), yue:易 (yik6), jpn:易 (eki), kor:역 (yeok), vie:dịch  
+**yele** *prisión* ← eng:jail, fra:geôle, hin:जेल (jel), ben:জেল (jēl), tel:జైలు (jailu), urd: جیل‎ (jēl), swa:jela + spa:por:jaula  
 **yem** *sal* ← zho:盐 (yán), yue:鹽 (yim4), jpn:塩 (en), kor:염 (yeom), vie:diêm  
+**yen** *persona* ← zho:人 (rén), wuu人 (zén), jpn:人 (jin) + fra:gens, spa:por:gente + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon)  
+**yensen** *ginseng* ← zho:人蔘 (rénshēn), min:人蔘 (jîn-sam), eng:spa:por:tur:may:ginseng, rus:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), jpn:人参 (ninjin)  
 **yepa** *hoja* ← zho:叶 (yè), yue:葉 (jip6), kor:잎 (ip);엽 (yeop), vie:diệp, jpn:葉 (yō)  
+**yete** ** ← fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje  
 **yezi** *coco* ← zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)  
 **yim** ** ← zho:阴 (yīn), yue:陰 (jam1), jpn:陰 (in), kor:음 (eum), vie:âm, eng:deu:fra:spa:por:yin, rus:инь (in')  
 **yo** *algún* ← zho:有 (yǒu), yue:有 (jau5)  
 **yoga** *yoga* ← hin:योग (yog), pnb:ਯੋਗ (yog), urd:(yog), ben:যোগ (jog), tel:యోగా (yōgā), tha:โยคะ (yōga), eng:fra:spa:may:tur:yoga, por:ioga, rus:йога (yoga), zho:瑜伽 (yújiā), jpn:ヨーガ (yōga), kor:요가 (yoga)  
 **yogur** *yogur* ← eng:may:yogurt, fra:yogourt, spa:yogur, por:iogurte, rus:йогурт (yogurt), zho:优格 (yōugé), jpn:ヨーグルト (yōguruto), kor:요구르트 (yogureuteu), tur:yoğurt   
+**yoke** *broma (chiste)* ← eng:fra:joke, fas:جوک‎ (jok), jpn:ジョーク (jōku) + zho:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
 **yoke** *jade* ← zho:玉 (yù), yue:玉 (yuk6), nan:玉 (gio̍k), jpn:玉 (gyoku), vie:ngọc (玉), kor:옥 (ok), may:giok, tha:หยก (yok), khm:យក់ (yuək)  
 **yota** ** ← eng:fra:spa:por:yotta, may:yota-, zho:尧它- (yáotā-), jpn:ヨタ- (yota-), kor:요타- (yota-)  
 **you** *infantil (inmaduro)* ← zho:幼 (yòu), yue:幼 (yau3), jpn:幼 (yõ), kor:유 (yu) + hin:युवा (yuvā), tam:யுவன் (yuvaṉ), tel:యువ (yuva) + spa:joven, por:jovem, fra:juvénile  
+**yube** *bata (aljuba)* ← ara: جُبَّة (jubba), swa:juba, may:jubah, spa:aljuba, por:gibão, fra:jupon, rus:жупан (župan)  
+**yudau** *yudo* ← zho:柔道 (róudào), jpn:柔道 (jūdō), kor:유도 (yudo), vie:nhu đạo, eng:deu:fra:spa:por:may:tur:swa:judo, rus:дзюдо (dzyudo), ara: جُودُو‎ (jūdū), fas: جودو‎ (judo), hin:जूदो (jūdo)  
+**yude** *juzgar* ← eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji, ful:juuju + rus:судья (sud'ya)  
 **yuge** *yugo* ← eng:yoke, spa:yugo, por:jugo, fra:joug, rus:иго (igo), fas:  یوغ‎ (yuğ) + yue:軛 (aak1), vie:ách  
+**yumla** *oración* ← ara:(jumla), tur:cümle, hin:जुमला (jumlā), zho:句 (jù)  
+**yun** *joven* ← eng:fra:may:junior + spa:joven, por:jovem, fas: جوان‎ (javân), hin:जवान (javān) + kor:젊다 (jeomda)  
 **yunte** ** ← eng:joint, fra:jonction, spa:por:junta, deu:Junktion  
 **yurta** *yurta* ← tur:eng:yurt, deu:Jurte, fra:yourte, spa:yurta, por:iurte, rus:юрта (yurta), hin:युर्त (yurt), kor:유르트 (yureuteu)  
+**yus** *jugo (zumo)* ← eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)  
+**yuste** *exacto (preciso)* ← eng:just, fra:juste, spa:justo, ita:giusto, jpn:ジャスト (jasto)  
 **yuterbium** *iterbio* ← eng:ytterbium, fra:ytterbium, spa:iterbio, por:itérbio, rus:иттербий, zho:镱 (yì), jpn:イッテルビウム, kor:이테르븀, vie:ytecbi, hin:यिट्टरबियम, ben:ইটারবিয়াম, may:iterbium, swa:yitebi, ara: يتربيوم  
 **yutrium** *itrio* ← eng:yttrium, fra:yttrium, spa:itrio, por:itrio, rus:иттрий, zho:钇 (yǐ), jpn:イットリウム, kor:이트륨, vie:ytri, hin:इत्रियम, ben:ইটরিয়াম, may:itrium, swa:yitri, ara: يتريوم  
 **zai** *existir (actualmente)* ← zho:在 (zài), yue:在 (zoi6), jpn:在 (zai), vie:tại  
 **zalime** ** ← ara: ظَالِم‎ (ẓālim), fas: ظالم‎ (zâlem), hin:ज़ालिम (zālim), tur:may:zalim, swa:dhalimu, hau:zalumci  
 **zaman** *tiempo (era, periodo, época)* ← may:jam, ara: زَمَن‎ (zaman), hau:swa:zamani, ful:jamaanu, tur:zaman, fas: زمان‎ (zamân), hin:समय (samay), ben:সময় (sômyô)  
 **zamia** *colección (grupo, conjunto, montón)* ← ara: جَمَعَ‎ (jamaʿa), swa:jamii, tur:camia, fas: جمع (jam’), hau:jam'iyya + hin:जमात (jamāt)  
+**zampe** *saltar (brincar)* ← eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)  
 **zamul** ** ← hin:जामुन (jāmun), eng:jambul, por:jambolão, ara:جَمُّون (jammūn), swa:zambarau  
+**zan** *cuidado (atención, precaución, cautela)* ← hin:ध्यान (dhyān), ben:ধ্যান (dhyān), jpn:禅 (zen), eng:fra:por:zen, rus:дзэн (dzen), zho:禅 (chán), kor:선 (seon), vie:thiền, mya:ဈာန် (jhan)  
 **zang suta** *arte marcial* ← zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art  
 **zang** *pelea (guerra, batalla)* ← fas: جنگ (jang), hin:जंग (jang), ben:জঙ্গ (jôṅg), tur:cenk + zho:仗 (zhàng); 爭 (zhēng), yue:争 (zang1), kor:전쟁 (jeonjaeng), vie:(chiến) tranh + may:juang  
 **zangal** *bosque (jungla, selva)* ← eng:fra:jungle, spa:jungla, por:jângal, rus:джунгли (džungli), hin:जंगल (jangal), ben:জঙ্গল (jônggôl), may:jenggela, jpn:ジャングル (janguru), kor:정글 (jeonggeul), tur:cengel  
@@ -1626,6 +1625,7 @@
 **zar** *riesgo (posibilidad)* ← ara: زَهْر (zahr), tur:zar, fas: زار (zâr) + eng:hazard, spa:por:azar, hau:hazari  
 **zaru** *escoba* ← hin:झाड़ू (jhāṛū), ben:ঝাড়ু (jhaṛu) + kor:빗자루 (bitjaru)  
 **zau** *cebada* ← hin:जौ (jau), ben:যব (jôb), mar:जव (jav), guj:જવ (jav), fas: جو‎ (jow)  
+**zebe** *bolsillo* ← ara: جَيْب‎ (jayb), fas: جیب‎ (jib), hin:जेब (jeb), pnb:ਜੇਬ (jeb), tel:(jēbu), tur:cep, por:algebeira, hau:aljihu, ful:jiiba, wol:jiba, amh:ጅብ (ǧəb)  
 **zebra** *cebra* ← eng:deu:por:tur:may:zebra, fra:zèbre, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), ben:জেবরা (jebra), jpn:ゼブラ (zebura)  
 **zeka na** *pedir prestado* ← zho:借 (jiè), yue:借 (ze3), jpn:借 (shaku), kor:적 (jeok) + eng:check  
 **zeka** *prestar (pedir prestado)* ← zho:借 (jiè), yue:借 (ze3), wuu:借 (jia2), jpn:借 (shaku), kor:적 (jeok) + eng:check  

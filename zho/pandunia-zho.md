@@ -295,7 +295,7 @@ ceke - 支票
 ceng - 层  
 ceng bede - 双层床  
 ceng fem - 女人  
-ceng jen - 成人 (成年人)  
+ceng yen - 成人 (成年人)  
 ceng man - 男人  
 cerium - 铈  
 • acesebilta - 無障礙環境  
@@ -416,7 +416,7 @@ dure - 时间
 durebil - 耐用的  
 durometrer - 秒表  
 dus - 难  
-dus jen - 敌人 (坏人)  
+dus yen - 敌人 (坏人)  
 dus sin di - 不祥的  
 dux - 淋浴  
 
@@ -585,7 +585,7 @@ glukogen - 糖原
 glukos - 葡萄糖  
 glute bandage - 创可贴 (邦迪)  
 glutike - 黏的  
-gogia jen - 公民  
+gogia yen - 公民  
 gol - 目的  
 gorila - 大猩猩  
 goton - 棉  
@@ -711,59 +711,57 @@ iglu - 冰屋
 iha uma - 骡  
 in bum - 内爆  
 intrage - 肠子  
-in verse jen - 内向的  
+in verse yen - 内向的  
 iode - 碘  
 iridium - 铱  
 islamisme - 回教 (伊斯蘭教)  
 ite - 石 (岩)  
 itis - 炎症  
-
-## J  
-
-jaibai - 勝敗  
+y - J  
+yaibai - 勝敗  
 • azame - 聚会 (会议)  
 zamul - 閻浮樹  
-jan - 注意 (谨慎)  
+zan - 注意 (谨慎)  
 zan buda din - 禅宗  
 zanive - 谨慎的  
-janela - 窗戶  
-janela frem - 窗框  
+yanela - 窗戶  
+yanela frem - 窗框  
 zang - 仗 (爭)  
 zangal - 森林  
 kundi - 罐 (瓶)  
 zaru - 扫帚  
 zau - 大麦  
-javabe - 回答  
-jebe - 口袋 (荷包)  
-jebe caku - 小刀  
+gavabe - 回答  
+zebe - 口袋 (荷包)  
+zebe caku - 小刀  
 zeka - 借  
 zeka don - 借出  
 zeka na - 借入  
-jelekan - 监狱 (监牢)  
-jen - 人  
-jen bahai - 人海  
-jen zamia - 人群  
+yelekan - 监狱 (监牢)  
+yen - 人  
+yen bahai - 人海  
+yen zamia - 人群  
 zenzu table - 算盘  
-jensen - 人蔘   
-jete grafe - 投射 (投影)  
+yensen - 人蔘   
+yete grafe - 投射 (投影)  
 ziva - 生命  
 • traziva - 生还  
 zong - 中心  
 zong xulekan - 中学  
 Zong gogia - 中国  
 zovar - 高粱  
-jube - 长袍  
-• prejude - 偏见  
-judau - 柔道  
-jul - 焦耳 (J)  
-jumla - 句子  
-jumla logia - 句法学  
-jun - 年轻  
-jun bei - 后辈  
-jun jen - 年轻人  
-jun nen - 青年  
-jun sis - 妹妹 (mèimei)  
-jus - 汁  
+yube - 长袍  
+• preyude - 偏见  
+yudau - 柔道  
+yul - 焦耳 (J)  
+yumla - 句子  
+yumla logia - 句法学  
+yun - 年轻  
+yun bei - 后辈  
+yun yen - 年轻人  
+yun nen - 青年  
+yun sis - 妹妹 (mèimei)  
+yus - 汁  
 
 ## K  
 
@@ -994,7 +992,7 @@ lider - 领导
 lige su sanduke - 约柜  
 lima - 五 (5)  
 limon - 柠檬  
-limon jus - 柠檬水  
+limon yus - 柠檬水  
 limon orange - 柑橘  
 lin - 线  
 lin so - 纤维  
@@ -1184,7 +1182,7 @@ muzike - 音乐
 
 na - 拿 (得, 获得)  
 na xiti - 得失  
-nabija - 预言家  
+nabiya - 预言家  
 nadir - 稀有 (稀少的)  
 nadir mar - 很少  
 nafte guku - 野菊花  
@@ -1226,7 +1224,7 @@ nese - 岛
 • konnete - 连接  
 • konneter - 连接器  
 neu di - 新  
-neu jen - 新手  
+neu yen - 新手  
 neuloge - 新词  
 neunatike - 新生  
 neure - 神经  
@@ -1279,8 +1277,8 @@ onda - 波浪
 orange - 橙子  
 orange rang - 橙色  
 ordu - 军队  
-ordu jen - 军人  
-ordu jen kan - 营房  
+ordu yen - 军人  
+ordu yen kan - 营房  
 ordu reger - 大元帅  
 ore - 耳  
 ore tis - 耳炎  
@@ -1289,7 +1287,7 @@ orto - 直
 oselote - 虎貓  
 osidian - 黑曜岩  
 osmium - 锇  
-oste jama - 骨骼  
+oste yama - 骨骼  
 oste yunte - 关节  
 oxe - 氧  
 oxide - 氧化物  
@@ -1320,7 +1318,7 @@ repare - 修理
 repare - 修理  
 reparer - 修理工人  
 par fase - 水平  
-par jen - 同辈  
+par yen - 同辈  
 par vezeta - 平衡  
 parce kai - 爆裂  
 pari kata - 童话  
@@ -1709,7 +1707,7 @@ vafle - 窝夫
 vagine - 阴道  
 vai - 外  
 vai dara - 溢出  
-vai jen - 外人 (局外人)  
+vai yen - 外人 (局外人)  
 vai yam - 野餐  
 vakiler - 代表  
 vakilkratia - 共和国  

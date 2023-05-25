@@ -152,7 +152,7 @@ ame - rakkaus (tykkääminen)
 • aname - inhota  
 amer - rakastaja  
 amike - rakas (armas)  
-ame jen - kulta (rakas)  
+ame yen - kulta (rakas)  
 ama - mutta  
 Amara - amhara (etiopialainen kansa ja kieli)  
 Amazon - Amazonjoki  
@@ -641,7 +641,7 @@ ceng - kerros
 ceng - kypsä (aikuinen)  
 ceng bede - kerrossänky  
 ceng fem - nainen  
-ceng jen - aikuinen ihminen  
+ceng yen - aikuinen ihminen  
 ceng man - mies  
 cepe - ottaa kiinni (napata, kaapata, siepata)  
 • acepe - ottaa vastaan  
@@ -940,7 +940,7 @@ durometrer - sekuntikello
 dus - paha (epäsuotuisa, epämiellyttävä, vastustava)  
 dus gradu - laskea tasoa  
 dus hal - vaikeus (hankaluus)  
-dus jen - vihollinen  
+dus yen - vihollinen  
 dusnam - loukkaus (herja)  
 dus rai - paheksua  
 dus sin di - pahaenteinen  
@@ -1235,7 +1235,7 @@ gabre - hauta
 gabrite - hautakivi  
 gabrestan - hautausmaa  
 gadolinium - gadolinium  
-gaja - norsu (elefantti)  
+gaya - norsu (elefantti)  
 Galia - Gallia  
 galium - gallium  
 galaxia - galaksi  
@@ -1343,7 +1343,7 @@ geo forme - maasto (maan muodot)
 geo kaska plate - mannerlaatta  
 Geo Medi Bahai - Välimeri  
 geo nice di - maanalainen  
-geo nice jela - vankityrmä  
+geo nice yela - vankityrmä  
 geo ordu - maavoimat  
 geo par lin - päiväntasaaja  
 Geo Par Lin Ginia - Päiväntasaajan Guinea  
@@ -1383,7 +1383,7 @@ glutike - tahmainen (liimamainen)
 glutive baxe - agglutinoiva kieli  
 glutize - liimata  
 gogia - maa (valtio)  
-gogia jen - kansalainen (valtion asukas)  
+gogia yen - kansalainen (valtion asukas)  
 gol - maali (pelissä)  
 golem - golem  
 gomu - kumi  
@@ -1405,7 +1405,7 @@ grafer - graafikko
 grafike - graafinen  
 grafe kata - sarjakuva  
 grafe lanse gi - projektori (videotykki, piirtoheitin)  
-grafe projeter - projektori (videotykki, piirtoheitin)  
+grafe proyeter - projektori (videotykki, piirtoheitin)  
 gram - gramma  
 • programe - ohjelma  
 • programer - ohjelmoija  
@@ -1443,7 +1443,7 @@ Guatemala - Guatemala
 gubu - virtahepo  
 gui - peikko  
 gui papi - idänunikko  
-gujarati - gujarati (eräs intialainen kieli)  
+guyarati - gujarati (eräs intialainen kieli)  
 gul - niellä  
 gule - ghouli  
 guma - rumpu  
@@ -1717,7 +1717,7 @@ intre - mennä sisään
 intre - sisäänpäin  
 intrage - sisälmykset  
 intromun - sisäänkäynti  
-in verse jen - sisäänpäinsuuntautunut (introvertti)  
+in verse yen - sisäänpäinsuuntautunut (introvertti)  
 in vide - introspektio  
 in xe - sisältö  
 Indonesia - Indonesia  
@@ -1746,15 +1746,13 @@ iste - kannattaja (tukija, -isti)
 ite - kivi (hippu)  
 Italia - Italia  
 itis - tulehdus  
-
-## J  
-
-jai - voittaa (voitto)  
-jaija - voittaja  
-• jai pandunia! - voitto pandunialle!  
-jain din - jainalaisuus  
-Jakarta - Jakarta  
-jake - pikkutakki (jakku)  
+y - J  
+yai - voittaa (voitto)  
+yaiya - voittaja  
+• yai pandunia! - voitto pandunialle!  
+yain din - jainalaisuus  
+yakarta - Jakarta  
+yake - pikkutakki (jakku)  
 zame - koota (kerätä)  
 • azame - tavata (tapaaminen, kokous)  
 • anzame - hajauttaa  
@@ -1762,14 +1760,14 @@ zame - koota (kerätä)
 zamia - yhteisö (kokoontuminen, kollektiivi)  
 zamive - kollektiivinen  
 zame karte - keräilykortti  
-Jamaika - Jamaika  
-jampe - hypätä (hyppiä)  
+yamaika - Jamaika  
+zampe - hypätä (hyppiä)  
 zamul - jambolaani  
-jan - huomio (tarkkaavaisuus)  
+zan - huomio (tarkkaavaisuus)  
 zan buda din - zenbuddhalaisuus  
 zanive - tarkkaavainen  
-janela - ikkuna  
-janela frem - ikkunankehys (ikkunanpuite)  
+yanela - ikkuna  
+yanela frem - ikkunankehys (ikkunanpuite)  
 zang - taistelu (sota)  
 zang di - sotilaallinen  
 zanger - soturi (taistelija)  
@@ -1778,62 +1776,62 @@ zangal - metsä (viidakko)
 kundi - ruukku (kannu, maljakko, karahvi)  
 zaru - luuta  
 zau - ohra  
-javabe - vastata (vastaus)  
+gavabe - vastata (vastaus)  
 Alzeria - Algeria  
-jaze - jazz (jatsi)  
-jebe - tasku  
-jebe caku - taskuveitsi (linkkuveitsi)  
-jele - vangita  
-jele - vankeus  
-jeler - vanginvartija  
-jelekan - vankila  
-jen - henkilö  
-jen (jen men) - ihmiset (yleisen persoonan pronomini)  
-jen bahai - ihmismeri  
-jen di - henkilökohtainen (privaatti)  
-jen zamia - väkijoukko  
+yaze - jazz (jatsi)  
+zebe - tasku  
+zebe caku - taskuveitsi (linkkuveitsi)  
+yele - vangita  
+yele - vankeus  
+yeler - vanginvartija  
+yelekan - vankila  
+yen - henkilö  
+yen (yen men) - ihmiset (yleisen persoonan pronomini)  
+yen bahai - ihmismeri  
+yen di - henkilökohtainen (privaatti)  
+yen zamia - väkijoukko  
 zenzu - helmi  
 zenzu table - helmitaulu  
-jensen - ginseng  
+yensen - ginseng  
 Gerze - Jersey  
-• injete - ruiskuttaa  
-• injetage - ruiske (injektio)  
-• projete - hanke (projekti)  
-jete grafe - heijastaa kuvia (projisoida; projektio)  
+• inyete - ruiskuttaa  
+• inyetage - ruiske (injektio)  
+• proyete - hanke (projekti)  
+yete grafe - heijastaa kuvia (projisoida; projektio)  
 Gibuti - Djiboutia  
 gihade - kamppailu (taistelu)  
 gin - henki (sielu)  
 ziva - elää (elävä; elämä, olemassaolo)  
 • traziva - selviytyä  
-joke - vitsi  
-joker - vitsiniekka  
+yoke - vitsi  
+yoker - vitsiniekka  
 zong - keskus (keskikohta)  
 Zong Afrika Vakilkratia - Keski-Afrikan Tasavalta  
 zong fon - vokaali  
 zong xulekan - yläaste ja lukio  
 Zong gogia - Kiina  
 zovar - durra (kirjodurra)  
-jube - kaapu  
-jude - tuomita  
-• prejude - ennakkosyytös  
-judage - tuomio  
-juder - tuomari  
-judike - oikeudellinen  
-judau - judo  
-jul - joule (J)  
-jumla logia - lauseoppi (syntaksi)  
-jun - nuori  
-jun bei - nuorempi toveri  
-jun bra - pikkuveli  
-jun fem - tyttö (nuori neito)  
-jun jen - nuorukainen  
-jun man - poika (nuori mies)  
-jun nen - nuoruusvuodet  
-jun sis - pikkusisko  
-junta - nuoruus  
+yube - kaapu  
+yude - tuomita  
+• preyude - ennakkosyytös  
+yudage - tuomio  
+yuder - tuomari  
+yudike - oikeudellinen  
+yudau - judo  
+yul - joule (J)  
+yumla logia - lauseoppi (syntaksi)  
+yun - nuori  
+yun bei - nuorempi toveri  
+yun bra - pikkuveli  
+yun fem - tyttö (nuori neito)  
+yun yen - nuorukainen  
+yun man - poika (nuori mies)  
+yun nen - nuoruusvuodet  
+yun sis - pikkusisko  
+yunta - nuoruus  
 zung - laji  
-jus - mehu  
-juste - juuri (tarkka, täsmällinen)  
+yus - mehu  
+yuste - juuri (tarkka, täsmällinen)  
 
 ## K  
 
@@ -1999,7 +1997,7 @@ kave - kaivaa (kuoppa)
 kavai - söpö (suloinen)  
 Kazakestan - Kazakstan  
 ke - mikä? (mitä?)  
-ke jen - kuka?  
+ke yen - kuka?  
 ke loka - jossa?  
 ke poli di - montako? (paljonko?)  
 ke riti - miten?  
@@ -2106,7 +2104,7 @@ koko - kana
 Kokos nesia - Kookossaaret  
 kola - koola  
 kola frute - koolapähkinä  
-kola jus - colajuoma  
+kola yus - colajuoma  
 koli - kaali  
 Kolombia - Kolumbia  
 kolone - asuttaa  
@@ -2327,7 +2325,7 @@ limfa - lymfa
 limite - raja  
 • anlimite - äärettömyys (rajattomuus)  
 limon - sitruuna  
-limon jus - limonadi  
+limon yus - limonadi  
 lin - linja (viiva, lanka, liina, naru, köysi)  
 lin parce - rivinvaihto  
 lin so - säie (kuitu)  
@@ -2493,7 +2491,7 @@ mata - kuolla (kuolema, kuolo; kuollut, vainaa)
 mata badan - kuollut ruumis  
 matabil - kuolevainen  
 matafa - tappaa  
-mataja - tappaja  
+mataya - tappaja  
 mate - matekasvi  
 mate cai - mate (matejuoma)  
 matras - patja  
@@ -2713,7 +2711,7 @@ mula - juuri
 mum - vaha  
 mum cape - sinetti  
 mum fote - kynttilä  
-mum jen - muumio  
+mum yen - muumio  
 mumu - nauta (lehmä)  
 mumu karne - lehmän liha  
 mun - ovi (portti, veräjä)  
@@ -2746,10 +2744,10 @@ muzike gense - musiikin lajityyppi
 ## N  
 
 na - saada (ottaa, ottaa vastaan)  
-na ja - saaja (vastaanottaja)  
+na ya - saaja (vastaanottaja)  
 na xiti - voitot ja tappiot  
 nabi - näky (profetia)  
-nabija - profeetta (airut, viestintuoja)  
+nabiya - profeetta (airut, viestintuoja)  
 nadir - harvinainen  
 nadir mar - harvoin  
 nafas - hengitys (henkäys)  
@@ -2807,7 +2805,7 @@ nave trepe - maihinnousuportaat
 nave xefe - kapteeni  
 nava - nahuatli  
 nave ga - veneillä  
-nave ga ja - veneilijä  
+nave ga ya - veneilijä  
 Nederlande - Alankomaat (Hollanti)  
 Nederlande Antil - Alankomaiden Antillit  
 nefre - munuainen  
@@ -2845,7 +2843,7 @@ nete loke - nettisivu
 neu - uutuustuote  
 neu di - uusi (vasta tehty, käyttämätön)  
 neu fito - tulokaskasvi (neofyytti)  
-neu jen - noviisi (uusikko, vasta-alkaja)  
+neu yen - noviisi (uusikko, vasta-alkaja)  
 neu Kaledonia - Uusi-Kaledonia  
 neuloge - uudissana  
 neunatike - vastasyntynyt  
@@ -2956,8 +2954,8 @@ opera - ooppera
 orange - appelsiini  
 orange rang - oranssi  
 ordu - armeija (sotajoukko)  
-ordu jen - sotilas  
-ordu jen kan - kasarmi  
+ordu yen - sotilas  
+ordu yen kan - kasarmi  
 ordu reger - sotaherra (generalissimo)  
 ordu regia - sotaherran maa  
 ore - korva  
@@ -3036,7 +3034,7 @@ pandunia - pandunia
 panduniste - pandunian puhuja  
 pandunial - maailmanlaajuinen (globaali)  
 paneuropan - paneurooppalainen  
-pan jen - jokainen ihminen  
+pan yen - jokainen ihminen  
 panmime - pantomiimi  
 pan sata - aina  
 pan un - joka (jokainen)  
@@ -3058,7 +3056,7 @@ repare - korjata
 repare - korjaus  
 reparer - korjaaja  
 par fase - taso  
-par jen - vertainen  
+par yen - vertainen  
 parta - tasavertaisuus  
 par vezeta - tasapaino  
 paranam - paronyymi  
@@ -3248,7 +3246,7 @@ porte - kantaa
 • traporte - kuljetus  
 porto - asema (satama, lentokenttä)  
 Portoriko - Puerto Rico  
-portoriko jen - puertoricolainen  
+portoriko yen - puertoricolainen  
 Portugal - Portugali  
 portugal baxe - portugali  
 pos - seuraus  
@@ -3502,7 +3500,7 @@ Salvador - El Salvador
 sam - sama (yhtäläinen)  
 sam bei - vertainen  
 sam emos - myötätunto (sympatia)  
-sam gogia jen - samanmaalainen (maanmies)  
+sam gogia yen - samanmaalainen (maanmies)  
 sammetria - symmetria  
 sam nam - homonyymi  
 sam rai - yhteisymmärrys  
@@ -3619,7 +3617,7 @@ sirke - ympyrä (piiri)
 sirkike - pyöreä  
 sirkus - sirkus  
 siro - nolla (ei yhtään)  
-siro jen - ei kukaan  
+siro yen - ei kukaan  
 siro sata - ei koskaan (ei kertaakaan)  
 siro xe - ei mitään  
 sis - sisko  
@@ -3977,7 +3975,7 @@ turiste - turisti
 turbe - kieppua (sekoittaa; häiritä)  
 • disturbe - hämmentää (sekoittaa; hämmennys, turbulenssi)  
 turbin - turbiini  
-turbojeter - suihkumoottori (suihkuturbiini)  
+turboyeter - suihkumoottori (suihkuturbiini)  
 turfa - turve  
 turke baxe - turkkilainen  
 Turkia - Turkki  
@@ -4043,7 +4041,7 @@ vagine - emätin (vagina)
 vaginits - emätintulehdus  
 vahi - keidas  
 vai - ulkopuoli  
-vai jen - ulkopuolinen  
+vai yen - ulkopuolinen  
 vai yam - eväsretki (piknik)  
 vakil - edustaa  
 vakiler - edustaja (agentti)  
@@ -4250,7 +4248,7 @@ xirope - siirappi
 xite - paskantaa (ulostaa)  
 xite - paska (sonta)  
 xiti bai - epäonnistuminen  
-xiti bai ja - häviäjä  
+xiti bai ya - häviäjä  
 xiu - pieni  
 xiu bol - kupla  
 xiu deha - pikkukylä  
@@ -4327,7 +4325,7 @@ yezi - kookos
 yim - jin (negatiivinen, hämärä, varjo, aave-, pehmeä, feminiininen)  
 yim yang - jin-jang (jin ja jang)  
 yo - jokin (joku)  
-yo jen - joku  
+yo yen - joku  
 yo sata - joskus  
 yo xe - jokin  
 yoga - jooga  
@@ -4337,7 +4335,7 @@ Yohan festa - juhannus (kristillinen juhla)
 yoke - jade  
 Yoruba - joruban kansa ja kieli  
 you - lapsi (alaikäinen, epäkypsä, kasvava)  
-you jen - lapsi (alaikäinen)  
+you yen - lapsi (alaikäinen)  
 you nan - poika (nuori mies)  
 you nen - lapsuusvuodet  
 you ni - tyttö (nuori neito)  

@@ -36,7 +36,7 @@ aihe (teema) - tema
 aiheesta (-sta) - a tema de  
 aika (kesto, kestoaika) - dure  
 aikana (kuluessa) - a dure de  
-aikuinen ihminen - ceng jen  
+aikuinen ihminen - ceng yen  
 aina - pan sata  
 aine (aines, materia) - kime  
 aine (materia) - made  
@@ -329,7 +329,7 @@ chapati - capati
 Chile - cile  
 chinchilla - cincila  
 Chongqing - Congcing  
-colajuoma - kola jus  
+colajuoma - kola yus  
 Cookin saaret - Kuke nesia  
 copernicium - kopernium  
 Costa Rica - Kosta Rika  
@@ -398,7 +398,7 @@ ehkä (voi olla) - bil es
 ehkä (voi olla) - bil ki  
 ei - no  
 ei koskaan (ei kertaakaan) - siro sata  
-ei kukaan - siro jen  
+ei kukaan - siro yen  
 ei mitään - siro xe  
 eilen - preden  
 einsteinium - einsteinium  
@@ -451,7 +451,7 @@ englantia puhuva (anglofoni) - englix fon di
 enimmäis- - maximal  
 eniten - maxim  
 ennakkoluulo - prexake  
-ennakkosyytös - prejude  
+ennakkosyytös - preyude  
 ennakoida - proate  
 ennakoiva (proaktiivinen) - proative  
 ennen (aikaisemmin, aiemmin; aikaisempi, edellinen) - pre  
@@ -595,7 +595,7 @@ germanium - germanium
 Ghana - Gana  
 ghouli - gule  
 Gibraltar - Gibraltar  
-ginseng - jensen  
+ginseng - yensen  
 glukoosi (rypälesokeri) - glukos  
 gluteeni - gluten  
 glykogeeni - glukogen  
@@ -618,7 +618,7 @@ Guatemala - Guatemala
 Guernsey - Gernezi  
 Guinea - Konakri Ginia  
 Guinea-Bissau - Bisau Ginia  
-gujarati (eräs intialainen kieli) - gujarati  
+gujarati (eräs intialainen kieli) - guyarati  
 guru (opettaja) - guru  
 Guyana - Guyana  
 
@@ -654,7 +654,7 @@ han-kiinalainen - Han
 hana (venttiili, kraana) - valve  
 hangata - frike  
 hanhi - ganse  
-hanke (projekti) - projete  
+hanke (projekti) - proyete  
 hapan (kirpeä) - suan  
 hapatettu - bio mute di  
 happi - oxe  
@@ -690,7 +690,7 @@ hei (haloo) - halo
 hei - hei  
 heidän - damen su  
 heijastaa (taittaa takaisin) - reflexe  
-heijastaa kuvia (projisoida; projektio) - jete grafe  
+heijastaa kuvia (projisoida; projektio) - yete grafe  
 heijastin - reflexer  
 heikko - anbala  
 heimo - kabile  
@@ -711,8 +711,8 @@ hemoglobiini (verenpuna) - hemoglobin
 hengitys (henkäys) - nafas  
 henki (sielu) - gin  
 henki (sielu, mieli, psyyke) - ruhu  
-henkilö - jen  
-henkilökohtainen (privaatti) - jen di  
+henkilö - yen  
+henkilökohtainen (privaatti) - yen di  
 henkilöyhtiö - partaneria  
 henkinen (psyykkinen) - ruhu di  
 hennapensas - hena  
@@ -807,7 +807,7 @@ huomautus - note angil
 huomenta - sal suba  
 huominen - pos den  
 huomio (kommentti, merkintä) - notage  
-huomio (tarkkaavaisuus) - jan  
+huomio (tarkkaavaisuus) - zan  
 huone - kamar  
 hurrata (hurraa, jee, jippii, hiphei) - hura  
 huuli - labi  
@@ -825,7 +825,7 @@ Hyperion - Hiperion
 hypoteesi (oletus) - hipoteze  
 hypoteettinen - hipotezike  
 hypotermia (vajaalämpöisyys) - hipotermia  
-hypätä (hyppiä) - jampe  
+hypätä (hyppiä) - zampe  
 hyrrä - rota vanu gi  
 hyttynen (sääski) - moski  
 hyve - hau moral  
@@ -859,7 +859,7 @@ häntä - koda
 häpeä - xarma  
 häpy (ulkosynnyttimet) - vulva  
 hävitä (kärsiä tappio) - bai  
-häviäjä - xiti bai ja  
+häviäjä - xiti bai ya  
 hölmö (narri) - bobo  
 höylä - rande  
 höyry (vesihöyry) - sui gas  
@@ -876,12 +876,12 @@ ihmeellinen (ällistyttävä, merkillinen) - agibike
 ihmeteltävä - mirebil  
 ihmetys (hämmästys) - agibe  
 ihminen (tomumaja) - human  
-ihmiset (yleisen persoonan pronomini) - jen (jen men)  
+ihmiset (yleisen persoonan pronomini) - yen (yen men)  
 ihmiskunta - humania  
-ihmismeri - jen bahai  
+ihmismeri - yen bahai  
 ihmisoikeudet - human hake  
-ikkuna - janela  
-ikkunankehys (ikkunanpuite) - janela frem  
+ikkuna - yanela  
+ikkunankehys (ikkunanpuite) - yanela frem  
 ikä - umur  
 ilkeä (julma) - zalimive  
 illallinen - xam yam  
@@ -966,16 +966,16 @@ itämainen lohikäärme - lung
 Itävalta - Ostria  
 iäkäs - umur di  
 
-## J  
+## y  
 
 ja (sekä) - e  
 jade - yoke  
 Jahve (Jehova) - Yahve  
-jainalaisuus - jain din  
+jainalaisuus - yain din  
 jakaa (leikata) - tome  
 jakaa (paloitella) - fenife  
 jakaa yhteiseksi - konife  
-Jakarta - Jakarta  
+Jakarta - yakarta  
 jakki - yake  
 jalanjälki - fute marke  
 jalka (alaraaja) - fute xaka  
@@ -983,7 +983,7 @@ jalka (jalkaterä) - fute
 jalkapallo - fute bol  
 jalokivi - bauite  
 jalusta (teline) - fute bano  
-Jamaika - Jamaika  
+Jamaika - yamaika  
 jambolaani - zamul  
 jang (positiivinen, kirkas, valo, elävä, luja, maskuliininen) - yang  
 jano - sui yau  
@@ -996,7 +996,7 @@ jasmiinitee - moli hua cai
 jatkua uudestaan - redure  
 jauhaa - mole  
 jauhe (jauho, tomu) - fun  
-jazz (jatsi) - jaze  
+jazz (jatsi) - yaze  
 Jeesus - Yesa  
 Jeesus Kristus - Yesa Mesi  
 Jemen - Yemen  
@@ -1014,11 +1014,11 @@ johtaja (pomo) - lider
 joka (jokainen) - pan un  
 joka (mikä) - ki  
 jokainen asia - pan xe  
-jokainen ihminen - pan jen  
+jokainen ihminen - pan yen  
 joki (virta) - rivo  
 jokin (joku) - yo  
 jokin - yo xe  
-joku - yo jen  
+joku - yo yen  
 jooga - yoga  
 joogi - yogaiste  
 jopa - hata di  
@@ -1028,14 +1028,14 @@ jos (olettaa) - si
 joskus - yo sata  
 jossa? - ke loka  
 joukkue (tiimi) - tim  
-joule (J) - jul  
+joule (J) - yul  
 joulu - kristogene  
 joulukuu - mes des du  
 jousiammunta - arke suta  
 jousiampuja - arker  
 jousisoitin - ticin  
 joustava (kimmoisa, elastinen) - elastike  
-judo - judau  
+judo - yudau  
 juhannus (keskikesä, mittumaari) - garma mosim medi den  
 juhannus (kristillinen juhla) - Yohan festa  
 juhlapäivä - feste den  
@@ -1056,7 +1056,7 @@ juosta - kore
 Jupiter - Muxin  
 jurtta - yurta  
 jutella (höpistä) - blabla  
-juuri (tarkka, täsmällinen) - juste  
+juuri (tarkka, täsmällinen) - yuste  
 juuri - mula  
 juurikas - bete  
 juusto - keze  
@@ -1097,7 +1097,7 @@ kaaos - haos
 kaapata - pirate  
 kaappari (piraatti, merirosvo) - pirater  
 kaappi - almari  
-kaapu - jube  
+kaapu - yube  
 kaari - arke  
 kaasu - gas  
 kaasumainen - gas di  
@@ -1170,7 +1170,7 @@ kansa - deme
 kansa - nas  
 kansainvälinen - internasial  
 kansakunta - nasia  
-kansalainen (valtion asukas) - gogia jen  
+kansalainen (valtion asukas) - gogia yen  
 kansallinen - nasial  
 kansallissosialismi (natsismi) - nasial sosialisme  
 kansallisuusaate (nationalismi) - nasisme  
@@ -1201,7 +1201,7 @@ kartogratia - kartografia
 kartta - karte  
 karvaton - kexa hin  
 kasa (läjä; kasautua, kumuloitua) - kumule  
-kasarmi - ordu jen kan  
+kasarmi - ordu yen kan  
 kasetti - kasete  
 kassa - pesa kase  
 kassanhoitaja - pesa kaser  
@@ -1549,7 +1549,7 @@ kuitti (kuittaus) - reside
 kuiva - gan  
 kuivakausi - gan mosim  
 kuivata (kuivattaa) - ganife  
-kuka? - ke jen  
+kuka? - ke yen  
 kukka - hua  
 kukkakaali - hua koli  
 kukkamaljakko - hua kundi  
@@ -1561,7 +1561,7 @@ kulkea läpi (läpikulku) - trakurse
 kulma (nurkka) - gone  
 kulmamitta (goniometri) - gonometrer  
 kulombi (mittayksikkö C) - kulombe  
-kulta (rakas) - ame jen  
+kulta (rakas) - ame yen  
 kulta - auro  
 kulttuuri - kulture  
 kuluttaa (viettää aikaa) - dure  
@@ -1728,7 +1728,7 @@ lappo - dare tube
 lapsen poika - ben son  
 lapsen tytär - ben doh  
 lapsenlapsi - ben ben  
-lapsi (alaikäinen) - you jen  
+lapsi (alaikäinen) - you yen  
 lapsi (alaikäinen, epäkypsä, kasvava) - you  
 lapsi (jälkeläinen) - ben  
 lapsi - baca  
@@ -1753,7 +1753,7 @@ laukka - galope
 laukku - bage  
 laulaa (laulu) - gani  
 laulaja - ganir  
-lauseoppi (syntaksi) - jumla logia  
+lauseoppi (syntaksi) - yumla logia  
 lauta (paneeli) - bano  
 lautanen - plate tasa  
 lautapeli - bano geme  
@@ -1830,7 +1830,7 @@ liittää (liitto, liittouma, liiga) - lige
 likainen (mutainen) - dartike  
 likainen - ansafe  
 lilja - susan  
-limonadi - limon jus  
+limonadi - limon yus  
 linja (viiva, lanka, liina, naru, köysi) - lin  
 linja-auto (bussi) - bus  
 linna (linnake, linnoitus) - burge  
@@ -2100,7 +2100,7 @@ mehiläinen - medu vespa
 mehiläinen tai ampiainen - vespa  
 mehiläispesä - medu vespa nide  
 mehiläispesä - vespa nide  
-mehu - jus  
+mehu - yus  
 mehujuoma - frute xarbe  
 mehujää (sorbetti) - ais xarbe  
 meidän - mimen su  
@@ -2273,7 +2273,7 @@ mutta - ama
 muu (toinen) - ale  
 muukalainen - alian  
 muuli - iha uma  
-muumio - mum jen  
+muumio - mum yen  
 muunsukupuolinen - nobi  
 muurahainen - murmeke  
 muurahaiskeko - murmeke kume  
@@ -2397,13 +2397,13 @@ Norja - Norge
 norjalainen - norge baxe  
 normaali - norma di  
 normi - norma  
-norsu (elefantti) - gaja  
+norsu (elefantti) - gaya  
 Norsunluurannikko - Kote de Ivar  
 nostaa - gauize  
 nostaa tasoa - hau gradu  
 noutopöytä (buffetti) - bufe  
 novelli - korte kata  
-noviisi (uusikko, vasta-alkaja) - neu jen  
+noviisi (uusikko, vasta-alkaja) - neu yen  
 nudismi - nudisme  
 nudisti - nudiste  
 nuhakuume (vilustuminen, flunssa) - zukam  
@@ -2413,11 +2413,11 @@ nukkuminen (uni) - sona
 numeerinen - numerike  
 nuolentekijä - flecer  
 nuoli - flece  
-nuorempi toveri - jun bei  
-nuori - jun  
-nuorukainen - jun jen  
-nuoruus - junta  
-nuoruusvuodet - jun nen  
+nuorempi toveri - yun bei  
+nuori - yun  
+nuorukainen - yun yen  
+nuoruus - yunta  
+nuoruusvuodet - yun nen  
 nurmikko (ruohikko) - cau medan  
 nuudeli - mien  
 nykyinen (tämänhetkinen) - zai zaman di  
@@ -2452,7 +2452,7 @@ oikea (paikkansapitävä) - sahi
 oikea puoli - dex  
 oikeakätinen - dexhanuka  
 oikeistolainen - dexiste  
-oikeudellinen - judike  
+oikeudellinen - yudike  
 oikeudenmukainen - adil  
 oikeus (käräjätalo) - adilkan  
 oikeus (oikeutus) - haku  
@@ -2742,9 +2742,9 @@ pikkuhousut - pantete
 pikkukaupunki - polete  
 pikkukylä - xiu deha  
 pikkuruinen (mikroskooppinen, mikro-) - mikro  
-pikkusisko - jun sis  
-pikkutakki (jakku) - jake  
-pikkuveli - jun bra  
+pikkusisko - yun sis  
+pikkutakki (jakku) - yake  
+pikkuveli - yun bra  
 pilahvi - pilau  
 pilalla (raunioina) - harabe  
 pilata (raunioittaa) - harabe  
@@ -2801,8 +2801,8 @@ Pohjois-Amerikka - Norde Amerika
 Pohjois-Irlanti - Norde Aire  
 Pohjois-Korea - Norde cosen  
 Pohjois-Kypros - Norde Kipris  
-poika (nuori mies) - jun man  
 poika (nuori mies) - you nan  
+poika (nuori mies) - yun man  
 poika - son  
 poiketa (harhautua) - derute  
 poikittainen (vaaka) - vei di  
@@ -2854,12 +2854,12 @@ povi - buste
 praseodyymi - prazedimium  
 prepositio - prepozage  
 presidentti - presidente  
-profeetta (airut, viestintuoja) - nabija  
+profeetta (airut, viestintuoja) - nabiya  
 profeetta Mani - Mani  
 professori - profesor  
 projektio (diakuva) - lanse grafi  
 projektori (videotykki, piirtoheitin) - grafe lanse gi  
-projektori (videotykki, piirtoheitin) - grafe projeter  
+projektori (videotykki, piirtoheitin) - grafe proyeter  
 Prometheus - Promete  
 prometium - prometium  
 pronomini - vise lexe  
@@ -2873,7 +2873,7 @@ publiczny - populike
 pudonnut (tippunut) - pada di  
 pudota (tipahtaa) - pada  
 Puerto Rico - Portoriko  
-puertoricolainen - portoriko jen  
+puertoricolainen - portoriko yen  
 puhdas (siivo, siisti) - safe  
 puhdistaa (siivota) - safife  
 puhelias - logive  
@@ -3108,8 +3108,8 @@ Ruanda - Ruanda
 rubidium - rubium  
 rubiini - rubi bau seku  
 ruiskaunokki - nil kentaur hua  
-ruiske (injektio) - injetage  
-ruiskuttaa - injete  
+ruiske (injektio) - inyetage  
+ruiskuttaa - inyete  
 rukoilla (anoa) - dua  
 rukous - dua  
 ruletti - rulete  
@@ -3153,7 +3153,7 @@ räjähdys (pamaus) - bum
 saada (ottaa, ottaa vastaan) - na  
 saagopalmu - sagu  
 saagotärkkelys - sagu fun  
-saaja (vastaanottaja) - na ja  
+saaja (vastaanottaja) - na ya  
 saapas (buutsi) - botin  
 saari - nese  
 saaristo - nesia  
@@ -3190,7 +3190,7 @@ Salomon-saaret - Solomon nesia
 salpa (säppi) - kane sor  
 sama (yhtäläinen) - sam  
 samanlainen - sam sifa di  
-samanmaalainen (maanmies) - sam gogia jen  
+samanmaalainen (maanmies) - sam gogia yen  
 samarium - samarium  
 Sambia - Zambia  
 sammal - mos  
@@ -3362,7 +3362,7 @@ sisäsyntyinen - innatike
 sisäänkäynti - inmun  
 sisäänkäynti - intromun  
 sisäänpäin - intre  
-sisäänpäinsuuntautunut (introvertti) - in verse jen  
+sisäänpäinsuuntautunut (introvertti) - in verse yen  
 sisäänpäinsuuntautunut (introvertti) - intraverse  
 sisääntulo (pääsy) - inlai  
 sitoa (side, käärö, nauha) - bande  
@@ -3419,7 +3419,7 @@ sosialisti - sosiste
 sotaherra (generalissimo) - ordu reger  
 sotaherran maa - ordu regia  
 sotilaallinen - zang di  
-sotilas - ordu jen  
+sotilas - ordu yen  
 sotilasjuntta - zalim yunte  
 soturi (taistelija) - zanger  
 soveltaa - uzife  
@@ -3435,7 +3435,7 @@ substantiivi (nimisana) - nam lexe
 Sudan - Sudan  
 sudenkorento - libele  
 suihku - dux  
-suihkumoottori (suihkuturbiini) - turbojeter  
+suihkumoottori (suihkuturbiini) - turboyeter  
 sukka - maze  
 suklaa - coklate  
 suklaapatukka - coklate kane  
@@ -3626,7 +3626,7 @@ tapaus (seikka) - kasu
 tapetti - mur kaguze  
 tapioka - manioka fufu  
 tappaa - matafa  
-tappaja - mataja  
+tappaja - mataya  
 tarha (piha) - bagi  
 tarha (puisto) - parke  
 tarkastaa (tarkistaa, tutkia, tsekata) - inspete  
@@ -3643,8 +3643,8 @@ tasainen (tasavertainen) - par
 tasapaino - par vezeta  
 tasavalta - vakilkratia  
 tasavertaisuus - parta  
-tasku - jebe  
-taskuveitsi (linkkuveitsi) - jebe caku  
+tasku - zebe  
+taskuveitsi (linkkuveitsi) - zebe caku  
 taso - par fase  
 tatuointi - tatu  
 tauko (keskeytys, paussi) - pauze  
@@ -3849,9 +3849,9 @@ tuoda esiin (viitata esille) - profere
 tuoda sisään - in mise  
 tuoli - kursi  
 tuolla - a vo  
-tuomari - juder  
-tuomio - judage  
-tuomita - jude  
+tuomari - yuder  
+tuomio - yudage  
+tuomita - yude  
 tuore (raikas) - taza  
 tuottaa (synnyttää) - gene  
 tuottaa (tuotanto) - prokare  
@@ -3891,8 +3891,8 @@ tyranni - zalimer
 tyrannia - zalimia  
 tyttärenpoika - doh son  
 tyttärentytär - doh doh  
-tyttö (nuori neito) - jun fem  
 tyttö (nuori neito) - you ni  
+tyttö (nuori neito) - yun fem  
 tytär - doh  
 Tyyni valtameri - Pace Bahai  
 tyyny - kuxen  
@@ -3939,7 +3939,7 @@ ulkomaa - exgogia
 ulkomaalainen - exgogike  
 ulkona (ulkopuolella) - a vai  
 ulkopuoli - vai  
-ulkopuolinen - vai jen  
+ulkopuolinen - vai yen  
 ulkosyntyinen - exgene  
 uloskäynti - cute mun  
 ulospäinsuuntautunut (ekstrovertti) - extraverse  
@@ -4049,16 +4049,16 @@ valtuuttaa (delegoida) - vakilize
 vampyyri - vampir  
 vampyyritursas - vampir ohtopus  
 vanadiini - vanadium  
-vanginvartija - jeler  
-vangita - jele  
+vanginvartija - yeler  
+vangita - yele  
 vanha (muinainen) - prezaman di  
 vanha (seniori, iso-) - sen  
 vanhempi (isä tai äiti) - cin  
 vanhempi toveri - sen bei  
 vanilja - vanila  
-vankeus - jele  
-vankila - jelekan  
-vankityrmä - geo nice jela  
+vankeus - yele  
+vankila - yelekan  
+vankityrmä - geo nice yela  
 Vanuatu - Vanuatu  
 vanukas - puding  
 vapaa (poissaolo töistä) - kar cute  
@@ -4090,7 +4090,7 @@ vastakohtainen (negatiivinen, epä-) - an-
 vastakohtaisuus - kontraverse  
 vastapäivään - rota leu  
 vastasyntynyt - neunatike  
-vastata (vastaus) - javabe  
+vastata (vastaus) - gavabe  
 Vatikaanivaltio - Vatikan  
 vaurio (vahinko, haveri) - avar  
 vaurioitunut - avarike  
@@ -4108,7 +4108,7 @@ velka - debage
 veloittaa (verottaa) - kape yo taxi  
 velvoittaa - debize  
 vene (laiva) - nave  
-veneilijä - nave ga ja  
+veneilijä - nave ga ya  
 veneillä - nave ga  
 Venezuela - Venezuela  
 Venus - Zukra  
@@ -4124,7 +4124,7 @@ veri - heme
 verisolu - hemi selu  
 vermutti - vermute  
 versio (käännös, muunnelma) - version  
-vertainen - par jen  
+vertainen - par yen  
 vertainen - sam bei  
 vesi - sui  
 vesimeloni - arbuze  
@@ -4163,7 +4163,7 @@ viha (inho) - hen
 viha (suuttumus, raivo) - furita  
 vihainen (suuttunut) - furi  
 vihannes - coi  
-vihollinen - dus jen  
+vihollinen - dus yen  
 vihollinen - andoste  
 vihreä - luga  
 viikko - cetiden  
@@ -4206,8 +4206,8 @@ virus - virus
 viski - viski  
 vismutti - bismute  
 vitamiini - vitamin  
-vitsi - joke  
-vitsiniekka - joker  
+vitsi - yoke  
+vitsiniekka - yoker  
 viuhka (tuuletin) - sanzi  
 vivisektio (elävältäleikkaus) - biotomia  
 Višnu - Vixnu  
@@ -4221,9 +4221,9 @@ voimakas (vahva) - bala
 voipuu - karite  
 voisarvi (kroissantti) - kruasan  
 voitot ja tappiot - na xiti  
-voittaa (voitto) - jai  
-voittaja - jaija  
-voitto pandunialle! - jai pandunia!  
+voittaa (voitto) - yai  
+voittaja - yaiya  
+voitto pandunialle! - yai pandunia!  
 vokaali (ääntiö) - vokal fone  
 vokaali - zong fon  
 volframi - volfram  
@@ -4259,7 +4259,7 @@ vähäinen - minike
 vähän - kam  
 väite (teesi) - teze  
 väittely (debatti) - lona  
-väkijoukko - jen zamia  
+väkijoukko - yen zamia  
 väli (tyhjä merkki) - hali zi  
 väli - mide  
 Välimeri - Geo Medi Bahai  

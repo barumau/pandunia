@@ -62,7 +62,7 @@ ame - amo
 • aname - malami  
 amer - amanto  
 amike - kara  
-ame jen - karulo  
+ame yen - karulo  
 ama - sed  
 Amazon - Amazono  
 Amerike - Ameriko  
@@ -345,7 +345,7 @@ ceka - kontroli
 ceke - ĉeko  
 ceng - matura (plenkreska)  
 ceng fem - virino  
-ceng jen - plenaĝulo  
+ceng yen - plenaĝulo  
 ceng man - viro  
 cepe - kapti  
 • acepe - akcepti  
@@ -509,7 +509,7 @@ dunial - tera
 dunia baxe - mondlingvo  
 dure - daŭrigi  
 dure - daŭro  
-dus jen - malamiko  
+dus yen - malamiko  
 dux - duŝo  
 
 ## E  
@@ -654,7 +654,7 @@ gabre - tombo (enterigi)
 gabrite - tomboŝtono  
 gabrestan - tombejo  
 gadolinium - gadolinio  
-gaja - elefanto  
+gaya - elefanto  
 Galia - Gaŭlio  
 galium - galiumo  
 galaxia - galaksio  
@@ -900,32 +900,30 @@ isme - ismo
 Israel - Israelo  
 ite - ŝtono  
 Italia - Italio  
-
-## J  
-
-jai - venki  
-jain din - Ĝajnismo  
-jake - jako  
+y - J  
+yai - venki  
+yain din - Ĝajnismo  
+yake - jako  
 zame - kolekti (kunigi)  
 • anzame - disigi  
 zamive - kolekta  
-Jamaika - Jamajko  
-jampe - salti  
-janela - fenestro  
-janela frem - fenestrokadro  
+yamaika - Jamajko  
+zampe - salti  
+yanela - fenestro  
+yanela frem - fenestrokadro  
 zang - milito (batalo)  
 zang di - milita  
 zangal - arbaro  
 kundi - kruĉo  
 zaru - balailo  
 zau - hordeo  
-javabe - respondi  
-jebe - poŝo  
-jele - malliberigi  
-jelekan - malliberejo  
-jen - persono  
-jen bahai - amasego da homoj  
-jen zamia - amaso da homoj  
+gavabe - respondi  
+zebe - poŝo  
+yele - malliberigi  
+yelekan - malliberejo  
+yen - persono  
+yen bahai - amasego da homoj  
+yen zamia - amaso da homoj  
 zenzu - perlo  
 zenzu table - bidkalkulilo (abako)  
 ziva - vivi (viva; vivo)  
@@ -934,21 +932,21 @@ zong - centro
 zong fon - vokalo  
 zong xulekan - gimnazio  
 Zong gogia - Ĉinio  
-jube - robo  
-jude - juĝi  
-• prejude - angaŭjuĝo  
-judage - juĝo  
-juder - juĝisto  
-judau - ĵudo  
-jul - ĵulo (J)  
-jun - juna  
-jun fem - knabino  
-jun jen - junulo  
-jun man - knabo  
-jun nen - juneco  
-junta - juneco  
-jus - suko  
-juste - ĝuste (precize, ekzakte)  
+yube - robo  
+yude - juĝi  
+• preyude - angaŭjuĝo  
+yudage - juĝo  
+yuder - juĝisto  
+yudau - ĵudo  
+yul - ĵulo (J)  
+yun - juna  
+yun fem - knabino  
+yun yen - junulo  
+yun man - knabo  
+yun nen - juneco  
+yunta - juneco  
+yus - suko  
+yuste - ĝuste (precize, ekzakte)  
 
 ## K  
 
@@ -1042,7 +1040,7 @@ katus - kaktuso
 kave - fosi  
 kavai - ĉarma  
 ke - kio?  
-ke jen - kiu?  
+ke yen - kiu?  
 ke loka - kie?  
 ke poli di - kiom?  
 ke riti - kiel?  
@@ -1208,7 +1206,7 @@ lige - ligi (aligi; ligo)
 lige su sanduke - Kesto de Interligo  
 lima - kvin (5)  
 limon - citrono  
-limon jus - limonado  
+limon yus - limonado  
 lin - lineo (ŝnuro)  
 lin so - fibro  
 linke - rilato  
@@ -1277,7 +1275,7 @@ maske - masko
 masta - masto  
 mata - morti (morto; morta)  
 matafa - mortigi  
-mataja - mortigisto  
+mataya - mortigisto  
 max - pli  
 max fili - preferi (pliŝati)  
 maxim - plej  
@@ -1374,7 +1372,7 @@ muka - vizaĝo
 mule - komenci  
 mula - radiko  
 mum fote - kandelo  
-mum jen - mumio  
+mum yen - mumio  
 mumu - bovo  
 mumu karne - bovaĵo  
 mun - pordo  
@@ -1398,7 +1396,7 @@ muziker - muzikisto
 ## N  
 
 nabi - profetumi  
-nabija - profeto  
+nabiya - profeto  
 nadir - malofta  
 nadir mar - malofte  
 nafas - spiro  
@@ -1437,7 +1435,7 @@ neputunium - neptunio
 nese - insulo  
 neu - novaĵo  
 neu di - nova  
-neu jen - novulo  
+neu yen - novulo  
 neuloge - neologismo  
 neunatike - novnaskita  
 neuta - noveco  
@@ -1493,8 +1491,8 @@ onor di - respektinda
 orange - oranĝo  
 orange rang - oranĝa  
 ordu - armeo  
-ordu jen - soldato  
-ordu jen kan - soldatejo (kazerno)  
+ordu yen - soldato  
+ordu yen kan - soldatejo (kazerno)  
 ordu reger - ĉefgeneralo  
 ore - orelo  
 ore tis - otito  
@@ -1762,7 +1760,7 @@ saludo - saneco
 salve - savi  
 sam - sama  
 sam emos - kompato  
-sam gogia jen - samlandano  
+sam gogia yen - samlandano  
 sammetria - simetrio  
 sam rai - interkonsento  
 sam sexe di - samseksema  
@@ -2144,7 +2142,7 @@ Yesa - Jesuo
 Yesa Mesi - Jesuo Kristo  
 yezi - kokoso  
 yo - iu  
-yo jen - iu persono  
+yo yen - iu persono  
 yo sata - iam  
 yo xe - io  
 yoga - jogo  

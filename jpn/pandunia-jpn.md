@@ -257,7 +257,7 @@ cau stan - 草地
 cavi - 鍵  
 ceke - 小切手 (チェック)  
 ceng fem - 女の人  
-ceng jen - 大人  
+ceng yen - 大人  
 ceng man - 男の人  
 • excepe - 追出 (退ける, 除いて)  
 cerium - セリウム  
@@ -380,7 +380,7 @@ dunia - 世界
 durebil - 持続的  
 durometrer - ストップウオッチ  
 dus - 難しい  
-dus jen - 悪人  
+dus yen - 悪人  
 dus sin di - 不吉 (縁起の悪い)  
 dux - シャワー  
 
@@ -527,7 +527,7 @@ gene tipe - 遺伝子型
 gensologia - ジェンダー研究  
 geo forme - 地形  
 geo nice di - 地中  
-geo nice jela - 地下牢 (ダンジョン)  
+geo nice yela - 地下牢 (ダンジョン)  
 germanium - ゲルマニウム  
 gi - 装置 (機, 器)  
 gide buke - ガイドブック  
@@ -548,7 +548,7 @@ glukos - 葡萄糖 (グルコース)
 glute bandage - 絆創膏  
 glutike - 粘い  
 glutize - 張る (付く)  
-gogia jen - 市民  
+gogia yen - 市民  
 gol - 目的 (行き先, ゴール)  
 gomu - ゴム (消しゴム)  
 gorila - ゴリラ  
@@ -666,7 +666,7 @@ iha uma - 騾馬
 imperia - 제국  
 in - 内  
 intrage - 腸 (臓器)  
-in verse jen - 内向的な人  
+in verse yen - 内向的な人  
 iode - ヨウ素  
 IP adres - IPアドレス  
 iridium - イリジウム  
@@ -674,51 +674,49 @@ ironia - 反語 (皮肉)
 ironike - 反語的  
 islamisme - イスラム教  
 isme - 主义  
-
-## J  
-
-jaibai - 勝敗  
+y - J  
+yaibai - 勝敗  
 • azame - 会う (会合, 会議)  
 • anzame - 散らす  
 • anzame di - 疎ら  
 zamul - フトモモ  
-jan - 注意  
+zan - 注意  
 zan buda din - 禅宗  
 zanive - 気をつける (慎む)  
-janela - 窓  
+yanela - 窓  
 zang - 戦闘 (格闘)  
 zangal - 森 (森林, ジャングル)  
 zaru - 箒  
 zau - 大麦  
-javabe - 答え (回答)  
-jebe - ポケット (懐中)  
-jebe caku - ポケットナイフ  
+gavabe - 答え (回答)  
+zebe - ポケット (懐中)  
+zebe caku - ポケットナイフ  
 zeka - 借用  
 zeka don - 貸す  
 zeka na - 借りる  
-jelekan - 監獄  
-jen - 人 (者, 員, 徒)  
+yelekan - 監獄  
+yen - 人 (者, 員, 徒)  
 zenzu table - 算盤  
-jensen - 人蔘   
-• projete - プロジェクト  
-jete grafe - 映す (投影する, 投影)  
+yensen - 人蔘   
+• proyete - プロジェクト  
+yete grafe - 映す (投影する, 投影)  
 ziva - 命 (生命)  
 zong - 中心  
 Zong gogia - 中国  
 zovar - 蜀黍 (コーリャン)  
-• prejude - 偏見  
-judau - 柔道  
-jul - ジュール (J)  
-jumla logia - 統語論  
-jun bei - 後輩  
-jun fem - 女の子  
-jun jen - 青少年  
-jun man - 男の子  
-jun moka - 若木  
-jun nen - 青春時代  
-jun sis - 妹 (imōto)  
-jus - ジュース  
-juste pauer - 狙撃兵  
+• preyude - 偏見  
+yudau - 柔道  
+yul - ジュール (J)  
+yumla logia - 統語論  
+yun bei - 後輩  
+yun fem - 女の子  
+yun yen - 青少年  
+yun man - 男の子  
+yun moka - 若木  
+yun nen - 青春時代  
+yun sis - 妹 (imōto)  
+yus - ジュース  
+yuste pauer - 狙撃兵  
 
 ## K  
 
@@ -812,7 +810,7 @@ katus - サボテン
 kauri - 宝貝  
 kave - 掘る  
 ke - 何  
-ke jen - 誰  
+ke yen - 誰  
 ke loka - どこ  
 ke riti - どのように  
 ke sata - 何時  
@@ -951,7 +949,7 @@ lide line - リード (手綱)
 lige su sanduke - 契約の箱  
 lima - 五 (5)  
 limon - レモン  
-limon jus - レモネード  
+limon yus - レモネード  
 limon orange - 柑橘  
 lin - 糸  
 lin so - 繊維  
@@ -1145,7 +1143,7 @@ muzike - 音楽
 
 na - 受ける (もらう)  
 na xiti - 得失  
-nabija - 預言者  
+nabiya - 預言者  
 nadir - 稀 (疎ら)  
 nafte guku - シマカンギク (アブラギク)  
 nagis - 汚れ (汚染)  
@@ -1183,7 +1181,7 @@ neputunium - ネプツニウム
 nese - 島  
 • konnete - 繋げる  
 neu di - 新しい  
-neu jen - 初心者  
+neu yen - 初心者  
 neuloge - 新語 (新造語)  
 neunatike - 新生の  
 neu tipe di - 近代的  
@@ -1240,15 +1238,15 @@ oke sui gas - 催涙ガス
 okeibil - 大丈夫 (ＯＫ)  
 onda - 波  
 orange rang - オレンジ色の  
-ordu jen - 軍人  
-ordu jen kan - 兵舎 (バラック)  
+ordu yen - 軍人  
+ordu yen kan - 兵舎 (バラック)  
 ordu reger - 総統 (将軍 )  
 orkide - ラン  
 orto - まっすぐな  
 oselote - オセロット  
 osidian - 黒曜石  
 osmium - オスミウム  
-oste jama - 骨格  
+oste yama - 骨格  
 oste xalke - ぜんご  
 oste yunte - 関節  
 oxe - 酸素  
@@ -1276,7 +1274,7 @@ papaya - パパイヤ
 repare - 修理する  
 repare - 修理  
 reparer - 修理工  
-par jen - 同輩  
+par yen - 同輩  
 par vezeta - 均衡 (平衡)  
 parce kai - 弾ける  
 parne - 羊歯  
@@ -1649,7 +1647,7 @@ tung - シナアブラギリ
 tur - 旅行 (ツアー)  
 turbe - 悩む (わざわざする)  
 turbin - タービン  
-turbojeter - ターボジェットエンジン  
+turboyeter - ターボジェットエンジン  
 tuta - 桑  
 tuzi - うさぎ  
 
@@ -1676,7 +1674,7 @@ vafle - ワッフル
 vagine - 膣 (ワギナ)  
 vai - 外  
 vai dara - 溢れる (越流する)  
-vai jen - 部外者 (アウトサイダー)  
+vai yen - 部外者 (アウトサイダー)  
 vakiler - 代表  
 vakilkratia - 共和国  
 vali - 谷  
@@ -1809,7 +1807,7 @@ yim - 陰
 yim yang - 陰陽  
 yo - 何分の  
 yogur - ヨーグルト  
-you jen - 幼童  
+you yen - 幼童  
 you moke - 若木  
 you nan - 男の子  
 you nen - 幼年時代  

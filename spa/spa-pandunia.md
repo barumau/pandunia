@@ -65,7 +65,7 @@ adoquín - bolite
 adoración (veneración, culto) - puze  
 adormidera (amapola real) - sona papi  
 adulterio - zina  
-adulto - ceng jen  
+adulto - ceng yen  
 adverbo - mode lexe  
 aeroplano - fei gi  
 aeropuerto - air porto  
@@ -127,7 +127,7 @@ alfombra (tapete) - dipe tela
 alga - alga  
 algarrobo - karuba  
 algas pardas - kafe alga  
-algién - yo jen  
+algién - yo yen  
 algo - yo xe  
 algodón - goton  
 algología (ficología) - algalogia  
@@ -163,7 +163,7 @@ aluminio - alumin
 aló - halo  
 alófono - alofone  
 alúmina - alumin oxide  
-amado (cariño) - ame jen  
+amado (cariño) - ame yen  
 amante (enamorado) - amer  
 amapola silvestre - medan papi  
 amargo - kali guste  
@@ -301,7 +301,7 @@ asar (tostar, rostir) - xava
 asar - kababu  
 asceta - askete  
 aserradero - xarakan  
-asesino - mataja  
+asesino - mataya  
 asexual - ansexual  
 Asia - Asia  
 Asiria - Axuria  
@@ -420,7 +420,7 @@ bastante - bas
 basura (desechos) - lasa  
 basural - lasa stan  
 basurero - lasa tong  
-bata (aljuba) - jube  
+bata (aljuba) - yube  
 batidora (licuadora, mezcladora) - mixer  
 baya - beri  
 bañera - banya  
@@ -473,7 +473,7 @@ bolchevique - bolxeviste
 bolchevismo - bolxevisme  
 boletín de noticias - habar letre  
 Bolivia - Bolivia  
-bolsillo - jebe  
+bolsillo - zebe  
 bolígrafo - kalam  
 bomba - bombe  
 bomba - pompe  
@@ -495,8 +495,8 @@ brazo - hanu xaka
 Brazzaville - Brazavil  
 brillante (luminoso) - ming  
 brocheta - xix  
-broma (chiste) - joke  
-bromista (chistoso) - joker  
+broma (chiste) - yoke  
+bromista (chistoso) - yoker  
 bromo - brom  
 Brunei - Brunei  
 brócoli (brécol) - brokoli  
@@ -639,7 +639,7 @@ carbohidrato - karbohidrate
 carboxilo - karboxil  
 carburo - karbide  
 carbón - karbe  
-carcelero - jeler  
+carcelero - yeler  
 cardo - kardon  
 cardo borriquero - pin kardon  
 cardo burral - pena kardon  
@@ -734,7 +734,7 @@ champiñón (seta) - fungu frute
 champú - kexa sabun  
 chamán (brujo, hechicero) - xaman  
 chapati (pan sin levadura) - capati  
-chaqueta - jake  
+chaqueta - yake  
 charlar (parlotear, chatear) - blabla  
 chatni - hinde sos  
 cheque - ceke  
@@ -785,7 +785,7 @@ citología - selu logia
 ciudad - pole  
 Ciudad de México - Mehiko pole  
 ciudad estado - pole gogia  
-ciudadano - gogia jen  
+ciudadano - gogia yen  
 civilización - sivilia  
 civilizado - sivil  
 ciénaga (pantano) - poto stan  
@@ -821,7 +821,7 @@ col (repollo) - koli
 col china - baku coi  
 col rizada - yepa koli  
 cola (rabo, coda) - koda  
-cola (refresco de cola) - kola jus  
+cola (refresco de cola) - kola yus  
 cola - kola  
 colaborar - konkar  
 colaborar - konkare  
@@ -859,8 +859,8 @@ compasión - konpatia
 compatible - konfuntebil  
 compatible - konfuntebil  
 compatriota (cotérraneo) - konpatrian  
-compatriota - sam gogia jen  
-compañero (compinche) - late jen  
+compatriota - sam gogia yen  
+compañero (compinche) - late yen  
 compañía (empresa, corporación) - kompani  
 completar (terminar) - pul fina  
 complot (conspiración) - sir plan  
@@ -1003,7 +1003,7 @@ crónico - dure di
 cuaderno (libreta) - note buke  
 cuadro - nelu gone  
 cualidad (atributo, descripción) - sifa  
-cuartel (barraca) - ordu jen kan  
+cuartel (barraca) - ordu yen kan  
 cuarzo - kuarze  
 cuatro (4) - nelu  
 Cuba - Kuba  
@@ -1027,7 +1027,7 @@ cuerpo celeste - astre
 cuerpo de agua - daria  
 cuesta (inclinación, pendiente, predisposición, tender) - klin  
 cueva (caverna) - gua  
-cuidado (atención, precaución, cautela) - jan  
+cuidado (atención, precaución, cautela) - zan  
 cuidadoso (cauteloso, tener cuidado) - zanive  
 culombio - kulombe  
 culpa (defecto, crimen) - doxe  
@@ -1053,7 +1053,7 @@ cámara - fotografe gi
 cáncer - kanse  
 cáncer de mama - mame kanse  
 cápsula - kasul  
-cárcel - jelekan  
+cárcel - yelekan  
 Cáucaso - Kaukasia  
 célula - selu  
 césped (pasto) - cau medan  
@@ -1289,7 +1289,7 @@ el uno al otro (mutuamente) - semen
 electricidad - eletre  
 electrólisis - eletrolize  
 electrón - eletron  
-elefante - gaja  
+elefante - gaya  
 elegante (chic) - xike  
 elegir (escoger, seleccionar) - cun  
 elemento químico - kimeme  
@@ -1323,18 +1323,18 @@ en el sentido contrario al las agujas del reloj - rota leu
 en el sentido del las agujas del reloj - rota dex  
 en línea - a lin  
 encanto (fascinación) - carme  
-encarcelar (aprisionar) - jele  
+encarcelar (aprisionar) - yele  
 encontrar (reunión, junta, mitin) - azame  
 encurtido - acar di  
 encurtir - acarize  
 enderezar (poner recto) - ortife  
 endónimo - in nam  
-enemigo - dus jen  
+enemigo - dus yen  
 energía - energia  
 energía nuclear - kerne energi  
 enero - mes un  
 enfermo - patike  
-engendrador - na ja  
+engendrador - na ya  
 enngendrar (procrear) - progene  
 enojado (furioso) - furi  
 ensalada - salade  
@@ -1353,7 +1353,7 @@ envolver - lifafe
 enzima - enzim  
 equal (similar) - sam  
 equilibrado (par) - par  
-equilibrado (par) - par jen  
+equilibrado (par) - par yen  
 equilibrio - par vezeta  
 equipaje - bagage  
 equipo - tim  
@@ -1422,7 +1422,7 @@ esposo - nan per (man)
 esposo o esposa - gam per  
 espárrago - asparge  
 espíritu (genio) - gin  
-esqueleto (armazón) - oste jama  
+esqueleto (armazón) - oste yama  
 esquina (rincón, ángulo) - gone  
 estaca - moka kane  
 estacionamiento (aparcamiento) - car parke  
@@ -1472,7 +1472,7 @@ evaluación (crítica) - piping
 evangelio - hau angil  
 eviar por correo - poste  
 evidente - exvidebil  
-exacto (preciso) - juste  
+exacto (preciso) - yuste  
 exangüe - hemi hin  
 excavar - exkave  
 excelente - hau sifa di  
@@ -1504,7 +1504,7 @@ facilidad - fasilta
 factible - fetebil  
 factor - feter  
 falla (mal funcionamiento) - dusfunte  
-fallo (juicio, criterio) - judage  
+fallo (juicio, criterio) - yudage  
 falso - anver  
 faltar (sin) - hin  
 familia - famil  
@@ -1579,7 +1579,7 @@ fracaso - xiti bai
 fragmento (pedazo) - parte  
 Francia - Franse  
 francio - fransium  
-francotirador - juste pauer  
+francotirador - yuste pauer  
 frecuencia - poli marta  
 frecuentemente - a poli mar  
 fresco - taza  
@@ -1651,7 +1651,7 @@ gato - miau
 gato manchado (tigrillo) - bagre oselote  
 gato tigre (maracayá) - margai  
 gay (homosexual) - gei  
-gañar (vencer, triunfar; victoria) - jai  
+gañar (vencer, triunfar; victoria) - yai  
 gel (jalea, gelatina) - gele  
 genealogía - gene logu  
 generación (cohorte) - gene grupe  
@@ -1680,7 +1680,7 @@ gesto - geste
 Ghana - Gana  
 Gibraltar - Gibraltar  
 giga- - giga  
-ginseng - jensen  
+ginseng - yensen  
 girasol - sol hua  
 glicina - glukin  
 global (de todo el mundo) - pandunial  
@@ -1746,7 +1746,7 @@ Guinea - Konakri Ginia
 Guinea Ecuatorial - Geo Par Lin Ginia  
 Guinea-Bisáu - Bisau Ginia  
 guitarra - gitar  
-gujaratí - gujarati  
+gujaratí - guyarati  
 gul - gule  
 gusano de seda - silke larva  
 gustar (complacer) - sukife  
@@ -2006,15 +2006,15 @@ interrogativa - sualive
 interés - kenevol  
 interétnica - zuku medi di  
 intestino (visceras, entrañas, tripas) - intrage  
-introvertido - in verse jen  
+introvertido - in verse yen  
 introvertido - intraverse  
 invernal - leng mosim di  
 invertir - reverse  
 invierno - leng mosim  
 invitado (visita) - viziter  
 invitar - cing lai  
-inyección - injetage  
-inyectar - injete  
+inyección - inyetage  
+inyectar - inyete  
 ion - ion  
 ir - ga  
 ira (furia) - furita  
@@ -2051,12 +2051,12 @@ izquerdista - leuiste
 izquierdo - leu  
 izquierdo - leu di  
 
-## J  
+## y  
 
 jabón - sabun  
 jade - yoke  
-jainismo - jain din  
-Jamaica - Jamaika  
+jainismo - yain din  
+Jamaica - yamaika  
 japonés - nipon di  
 Japón - Nipon  
 jaque mate - xah mata  
@@ -2065,7 +2065,7 @@ jarra - kundi
 Jartum - Hartum  
 jaula (caja) - kane kasa  
 jazmín - moli  
-jazz - jaze  
+jazz - yaze  
 jefe - xefe  
 Jersey - Gerze  
 Jesucristo - Yesa Mesi  
@@ -2073,20 +2073,20 @@ Jesús - Yesa
 jira (pícnic) - vai yam  
 jirafa - zirafa  
 Jordania - Urdun  
-joule (J) - jul  
-joven - jun  
-joven - jun jen  
+joule (J) - yul  
+joven - yun  
+joven - yun yen  
 judaísmo - yehudisme  
 judío - yehude  
 juego - geme  
 juego de mazmorras - dongen ventur  
 juego de mesa - bano geme  
 jueves - muxinden  
-juez (árbitro, réferi) - juder  
+juez (árbitro, réferi) - yuder  
 jugador - gemer  
 jugar un juego - geme  
 jugete - vanu gi  
-jugo (zumo) - jus  
+jugo (zumo) - yus  
 julio - mes ceti  
 junio - mes luka  
 junta militar - zalim yunte  
@@ -2095,9 +2095,9 @@ juntura - yunture
 Jupiter - Muxin  
 justicia - adilta  
 justo - adil  
-juventud - jun nen  
-juventud - junta  
-juzgar - jude  
+juventud - yun nen  
+juventud - yunta  
+juzgar - yude  
 
 ## K  
 
@@ -2208,7 +2208,7 @@ ligero - lege veze di
 lila (de color lila) - lila rang  
 lila - lila  
 limero - kaguzi limon  
-limonada - limon jus  
+limonada - limon yus  
 limpiador - safer  
 limpiar - safife  
 limpio - safe  
@@ -2396,7 +2396,7 @@ mayoría - maxia
 Mayotte (Mahoré) - Mayote  
 mayúscula - dai zi  
 maza - bang  
-mazmorra - geo nice jela  
+mazmorra - geo nice yela  
 maíz - mais  
 mañana (antes mediodía) - suba dia  
 mañana - pos den  
@@ -2525,7 +2525,7 @@ molusco - moluske
 molécula - molekul  
 momento - cana  
 momentáneo - canaike  
-momia - mum jen  
+momia - mum yen  
 moneda - pesa diske  
 mongol - mongol  
 Mongolia - Mongolia  
@@ -2558,7 +2558,7 @@ motocicleta - moter sikle
 motor - moter  
 movimiento - motion  
 Mozambique - Mozambike  
-muchedumbre - jen zamia  
+muchedumbre - yen zamia  
 mucho (muchos) - poli  
 muchos (múltiples) - men  
 mudar (mover, transferir, traspasar, trasladar, estimular, inspirar) - mote  
@@ -2621,7 +2621,7 @@ natal - native
 natrón - natre bilor  
 naturaleza - nature  
 nautilo - nautile  
-navaja - jebe caku  
+navaja - zebe caku  
 nave espacial - kosmonave  
 navegador - brauzer  
 navegar (ir en bote) - nave ga  
@@ -2663,7 +2663,7 @@ nieve - hima
 Nieves - Nevis  
 Nigeria - Nigeria  
 nihonio - niponium  
-ningunos - siro jen  
+ningunos - siro yen  
 niobio - niobium  
 nirvana - nirban  
 nitrato - nitrate  
@@ -2671,10 +2671,10 @@ nitrilo - nitril
 nitrógeno - nitre  
 Niue - Niue  
 nivel - par fase  
-niña - jun fem  
 niña - you ni  
-niño - jun man  
+niña - yun fem  
 niño - you nan  
+niño - yun man  
 niño o niña - baca  
 no - no  
 no binario (género) - nobi  
@@ -2697,7 +2697,7 @@ nota - notage
 notar (observar) - note  
 notar el sabor - guste  
 noticias - habar  
-novato - neu jen  
+novato - neu yen  
 novedad - neu  
 novedad - neuta  
 novela (romance) - long kata  
@@ -2775,7 +2775,7 @@ opción (preferencia) - cunbil
 opinión (juicio, consideración) - rai  
 oportunidad (chance) - canse  
 optar - ote  
-oración - jumla  
+oración - yumla  
 orden (mando, comando) - amir  
 orden - ratibu  
 ordenado (regular) - ratibu li  
@@ -2954,7 +2954,7 @@ pepino - hiyar
 pepita - semen dane  
 pequeño - xiu  
 pera - pera  
-perdedor - xiti bai ja  
+perdedor - xiti bai ya  
 perder - xiti  
 perdonar (disculpar) - af  
 perdurable (longevo, prolongado) - long durike  
@@ -2972,8 +2972,8 @@ permitido (admisible) - halal
 pero (sino) - ama  
 perrera - vaf bute  
 perro - vaf  
-persona - jen  
-personal (privado, a medida) - jen di  
+persona - yen  
+personal (privado, a medida) - yen di  
 personalizar - autife  
 perspectiva (punto de vista) - vide punte  
 perturbar (turbulencia) - disturbe  
@@ -3006,8 +3006,8 @@ pila (batería) - batri
 pilaf (pulaw) - pilau  
 piloto - pilote  
 pimienta - pipre  
-pimpollo - jun moka  
 pimpollo - you moke  
+pimpollo - yun moka  
 pincel - pente broxa  
 pingüino - pinguin  
 pino - songi  
@@ -3116,8 +3116,8 @@ preferir (favorecer) - max fili
 preferir - prefere  
 prefijo - prefixe  
 pregunta - sual  
-prejuicio - prejude  
 prejuicio - prexake  
+prejuicio - preyude  
 prenatal - prenatal  
 prensa - preser  
 prensar (oprimir) - prese  
@@ -3142,8 +3142,8 @@ primero (numbre uno) - un me
 principal - xefe di  
 principio - bazisme  
 prisa - haste  
-prisionero - jele jen  
-prisión - jele  
+prisionero - yele yen  
+prisión - yele  
 privado - prive  
 privar (desproveer) - deprive  
 privatizar - privatize  
@@ -3159,7 +3159,7 @@ profecía (profetizar) - nabi
 profesional (de carrera) - pei kar di  
 profesión (ocupación) - pei kar  
 profesor - profesor  
-profeta (heraldo) - nabija  
+profeta (heraldo) - nabiya  
 profeta Mani - Mani  
 profundo (hondo) - fase tele  
 programa - programe  
@@ -3181,11 +3181,11 @@ prototipo - prototipe
 proxeneta (chulo) - sutener  
 proximidad - proxia  
 proyección - lanse grafi  
-proyectar (proyección) - jete grafe  
+proyectar (proyección) - yete grafe  
 proyectil (misil) - lanse xe  
-proyecto - projete  
+proyecto - proyete  
 proyector - grafe lanse gi  
-proyector - grafe projeter  
+proyector - grafe proyeter  
 prueba - teste  
 práctica - prate  
 práctico - pratike  
@@ -3201,7 +3201,7 @@ puerro (cebolla larga) - porei
 puerta - mun  
 puerto marítimo - bahai porto  
 Puerto Rico - Portoriko  
-puertorriqueño - portoriko jen  
+puertorriqueño - portoriko yen  
 pulir (lustrar) - lumize  
 pulmonía (neumonía) - pulmonitis  
 pulmón - pulmon  
@@ -3240,7 +3240,7 @@ quitar (pelar) - tire yo pil
 quitar (remover) - forife  
 quizás (tal vez) - bil es  
 quizás (tal vez) - bil ki  
-quién - ke jen  
+quién - ke yen  
 qué - ke  
 qué tipo de - ke tipe  
 química - kimia  
@@ -3350,7 +3350,7 @@ resolución de pantalla - grafe fineta
 respetable (honorable) - onor di  
 respeto (honor) - onor  
 respiración - nafas  
-responder (contestar; repuesta, contestación) - javabe  
+responder (contestar; repuesta, contestación) - gavabe  
 restaurante - restoran  
 resto (demás) - baki  
 resulta (efecto) - asar  
@@ -3453,7 +3453,7 @@ salmón rojo - rubi salmon
 salmón rosado - rode salmon  
 salsa - sos  
 salsa de soja - soi sos  
-saltar (brincar) - jampe  
+saltar (brincar) - zampe  
 salud - saludo  
 salud - saluta  
 saludable - sale  
@@ -3562,7 +3562,7 @@ sin amigos - doste hin
 Singapur - Singapur  
 sino - ale di  
 sinograma - cinograme  
-sintaxis - jumla logia  
+sintaxis - yumla logia  
 sintaxis - sintaxe  
 sintoísmo - xindau din  
 Siria - Suria  
@@ -3590,7 +3590,7 @@ sofá - sofa
 soja - soi  
 sol - sol  
 Solamilandia - Somal Dexa  
-soldado - ordu jen  
+soldado - ordu yen  
 solo (aislado, solitary, soltero) - un zai di  
 solsticio - solostate  
 Somalia - Somal  
@@ -3778,7 +3778,7 @@ toalla - tuale
 tocar (rozar) - tocu  
 tocar música - muzike  
 todas las cosas - pan xe  
-todas las personas - pan jen  
+todas las personas - pan yen  
 todavía (aún) - zoku  
 todo - pan  
 Togo - Togo  
@@ -3857,7 +3857,7 @@ tungsteno (wolframio) - volfram
 tupinambo (pataca, alcachofa de Jerusalén) - masa mula sol hua  
 turbante - pagri  
 turbina - turbin  
-turborreactor - turbojeter  
+turborreactor - turboyeter  
 turismo - turisme  
 turista - turiste  
 Turkmenistán - Turkomenestan  
@@ -3934,14 +3934,14 @@ vegano - veganiste
 vegetar - vegate  
 vegetariano - vegoyamiste  
 vela (candela, cirio) - mum fote  
-velero - nave ga ja  
+velero - nave ga ya  
 velo - higabu  
 velo - vel  
 velocímetro - suga metri gi  
 veneno (toxina) - toxe  
 Venezuela - Venezuela  
 venir - lai  
-ventana - janela  
+ventana - yanela  
 Venus - Zukra  
 ver (mirar) - vide  
 verano - garma mosim  
@@ -3972,7 +3972,7 @@ vidriar (glasear) - glasife
 vidrio (cristal) - glas  
 vidrio volcánico - hogo xan glas  
 viejo (anciano) - lau  
-viejo (anciano) - lau jen  
+viejo (anciano) - lau yen  
 viejo (antiguo) - prezaman di  
 viento - hava  
 viernes - zukraden  
@@ -4040,7 +4040,7 @@ yoga - yoga
 yogui - yogaiste  
 yogur - yogur  
 yuca (mandioca) - manioka  
-yudo - judau  
+yudo - yudau  
 yugo - yuge  
 yunque - metal bede  
 yurta - yurta  

@@ -156,7 +156,7 @@ ame - love (strong affection, desire)
 • aname - dislike (loathe)  
 amer - lover  
 amike - dear (beloved)  
-ame jen - darling (honey)  
+ame yen - darling (honey)  
 ama - but (rather)  
 Amara - Amhara (an Ethiopian ethnic group and language)  
 Amazon - Amazon river  
@@ -659,7 +659,7 @@ ceng - layer (level, storey, floor, stratum)
 ceng - mature (grown-up, ripe, adult)  
 ceng bede - bunk bed  
 ceng fem - woman (adult female)  
-ceng jen - adult  
+ceng yen - adult  
 ceng man - man (adult male)  
 cepe - catch (capture, take, seize)  
 • acepe - accept (get, receive)  
@@ -976,7 +976,7 @@ durometrer - stopwatch
 dus - bad (unfavorable, negative, evil, wicked, troublesome, difficult)  
 dus gradu - downgrade  
 dus hal - hardship (difficulty, challenge)  
-dus jen - enemy (foe, villain)  
+dus yen - enemy (foe, villain)  
 dusnam - insult (offense)  
 dus rai - disapprove (frown upon)  
 dus sin di - ominous (foreboding)  
@@ -1295,7 +1295,7 @@ gabre - grave (tomb, bury)
 gabrite - tombstone (gravestone)  
 gabrestan - graveyard (cemetery, burial ground)  
 gadolinium - gadolinium  
-gaja - elephant  
+gaya - elephant  
 Galia - Gaul  
 galium - gallium  
 gala - throat (windpipe, gullet, pharynx)  
@@ -1415,7 +1415,7 @@ geo kaska krake - fault line
 geo kaska plate - tectonic plate  
 Geo Medi Bahai - Mediterranean  
 geo nice di - underground (subterrainean)  
-geo nice jela - dungeon (underground prison)  
+geo nice yela - dungeon (underground prison)  
 geo ordu - ground force (army)  
 geo par lin - equator  
 Geo Par Lin Ginia - Equatorial Guinea  
@@ -1455,7 +1455,7 @@ glutike - sticky (ahesive)
 glutive baxe - agglutinative language  
 glutize - stick (adhere, paste, glue)  
 gogia - country (land, state)  
-gogia jen - citizen  
+gogia yen - citizen  
 gol - goal (destination)  
 golem - golem  
 gomu - rubber (latex, eraser)  
@@ -1480,7 +1480,7 @@ grafike - graphic (pictorial)
 grafe karte - graphics card (video card)  
 grafe kata - comic (cartoon)  
 grafe lanse gi - image projector  
-grafe projeter - image projector  
+grafe proyeter - image projector  
 grafi sugata - framerate  
 gram - gram (g)  
 grame - written character  
@@ -1523,7 +1523,7 @@ Guatemala - Guatemala
 gubu - hippopotamus  
 gui - ogre (troll, goblin)  
 gui papi - oriental poppy  
-gujarati - Gujarati  
+guyarati - Gujarati  
 guku hua - florist's chrysanthemum  
 gul - swallow  
 gule - ghoul  
@@ -1810,7 +1810,7 @@ intre - enter (get in; insert, put in)
 intre - inward (internal)  
 intrage - intestines (entrails, guts, bowels, viscera)  
 intromun - entrance  
-in verse jen - introvert  
+in verse yen - introvert  
 in vide - introspection  
 in xe - content  
 Indonesia - Indonesia  
@@ -1840,16 +1840,14 @@ iste - advocate (promoter, supporter, adherent)
 ite - stone (piece of rock)  
 Italia - Italy  
 itis - inflammation (-itis)  
-
-## J  
-
-jai - win (triumph, victory, gain, succeed)  
-jaibai - outcome (victory or defeat)  
-jaija - winner (victor)  
-• jai pandunia! - victory to Pandunia!  
-jain din - Jainism  
-Jakarta - Jakarta  
-jake - jacket  
+y - J  
+yai - win (triumph, victory, gain, succeed)  
+yaibai - outcome (victory or defeat)  
+yaiya - winner (victor)  
+• yai pandunia! - victory to Pandunia!  
+yain din - Jainism  
+yakarta - Jakarta  
+yake - jacket  
 zame - collect (gather, bring together, assemble, congregate)  
 • azame - meet (get together; meeting, gathering)  
 • anzame - disperse (spread out, scatter)  
@@ -1857,14 +1855,14 @@ zame - collect (gather, bring together, assemble, congregate)
 zamia - collection (congregation, assembly)  
 zamive - collective  
 zame karte - trading card  
-Jamaika - Jamaica  
-jampe - jump  
+yamaika - Jamaica  
+zampe - jump  
 zamul - jamul (jambul, rose apple)  
-jan - care (caution, attention, heed)  
+zan - care (caution, attention, heed)  
 zan buda din - Zen Buddhism  
 zanive - careful (cautious, attentive, alert, wary)  
-janela - window  
-janela frem - window frame  
+yanela - window  
+yanela frem - window frame  
 zang - fight (war, battle, combat)  
 zang di - military (martial, warlike)  
 zanger - warrior (fighter)  
@@ -1873,43 +1871,43 @@ zangal - forest (woods, jungle)
 kundi - jar (jug, pitcher, carafe, amphora, vase)  
 zaru - broom (sweep)  
 zau - barley  
-javabe - answer (reply, respond; response)  
+gavabe - answer (reply, respond; response)  
 Alzeria - Algeria  
-jaze - jazz  
-jebe - pocket  
-jebe caku - pocketknife  
+yaze - jazz  
+zebe - pocket  
+zebe caku - pocketknife  
 zeka - borrow (lend)  
 zeka don - lend  
 zeka lexe - loanword  
 zeka na - borrow  
-jele - imprison (jail)  
-jele - prison (imprisonment)  
-jeler - jailer (imprisoner)  
-jele jen - prisoner  
-jelekan - prison (jail)  
-jen - person (individual)  
-jen (jen men) - one (impersonal pronoun: people, you)  
-jen bahai - a sea of people (huge crowd)  
-jen di - personal (intimate, private, custom)  
-jen zamia - crowd  
+yele - imprison (jail)  
+yele - prison (imprisonment)  
+yeler - jailer (imprisoner)  
+yele yen - prisoner  
+yelekan - prison (jail)  
+yen - person (individual)  
+yen (yen men) - one (impersonal pronoun: people, you)  
+yen bahai - a sea of people (huge crowd)  
+yen di - personal (intimate, private, custom)  
+yen zamia - crowd  
 zenzu - pearl  
 zenzu table - abacus  
-jensen - ginseng  
+yensen - ginseng  
 Gerze - Jersey  
-jete - thrust (throw, cast)  
-• exjete - eject (throw out)  
-• injete - inject  
-• injetage - injection  
-• projete - project (forecast, endeavour)  
-• rejete - reject (throw back)  
-jete grafe - project (cast; projection image)  
+yete - thrust (throw, cast)  
+• exyete - eject (throw out)  
+• inyete - inject  
+• inyetage - injection  
+• proyete - project (forecast, endeavour)  
+• reyete - reject (throw back)  
+yete grafe - project (cast; projection image)  
 Gibuti - Djibouti  
 gihade - struggle (strife)  
 gin - spirit (soul, vitality, life force)  
 ziva - live (be alive; living; life, existence)  
 • traziva - survive (live through)  
-joke - joke  
-joker - joker  
+yoke - joke  
+yoker - joker  
 zong - middle (center)  
 Zong Afrika Vakilkratia - Central African Republic  
 zong di - central (middle)  
@@ -1917,31 +1915,31 @@ zong fon - vowel
 zong xulekan - secondary school  
 Zong gogia - China  
 zovar - sorghum (durra, jawar, Indian millet)  
-jube - robe (tunica, gown, jubbah)  
-jude - judge  
-• prejude - prejudice  
-judage - judgement (sentence)  
-juder - judge (referee)  
-judike - judicial  
-judau - judo  
-jul - joule (J)  
-jumla - sentence (phrase)  
-jumla logia - syntax (study of phrases)  
-jun - young (junior)  
-jun bei - junior fellow (kouhai)  
-jun bra - little brother (younger brother)  
-jun fem - girl  
-jun jen - youth (youngster, young person)  
-jun man - boy  
-jun moka - sapling  
-jun nen - youth (years in life following childhood)  
-jun sau - younger sibling  
-jun sis - little sister (younger sister)  
-junta - youth (young age)  
+yube - robe (tunica, gown, jubbah)  
+yude - judge  
+• preyude - prejudice  
+yudage - judgement (sentence)  
+yuder - judge (referee)  
+yudike - judicial  
+yudau - judo  
+yul - joule (J)  
+yumla - sentence (phrase)  
+yumla logia - syntax (study of phrases)  
+yun - young (junior)  
+yun bei - junior fellow (kouhai)  
+yun bra - little brother (younger brother)  
+yun fem - girl  
+yun yen - youth (youngster, young person)  
+yun man - boy  
+yun moka - sapling  
+yun nen - youth (years in life following childhood)  
+yun sau - younger sibling  
+yun sis - little sister (younger sister)  
+yunta - youth (young age)  
 zung - species  
-jus - juice  
-juste - just (precise, exact, accurate)  
-juste pauer - sniper (sharpshooter)  
+yus - juice  
+yuste - just (precise, exact, accurate)  
+yuste pauer - sniper (sharpshooter)  
 
 ## K  
 
@@ -2118,7 +2116,7 @@ Kastilia - Castil
 kastilia baxe - Castilian (Spanish)  
 kasu - event (case, instance)  
 kata - tale (story, legend, saga)  
-kata ja - narrator  
+kata ya - narrator  
 Katalunia - Catalonia  
 katana - katana  
 Katar - Qatar  
@@ -2131,7 +2129,7 @@ kave - dig (pit, cavity)
 kavai - cute (sweet)  
 Kazakestan - Kazakhstan  
 ke - what?  
-ke jen - who?  
+ke yen - who?  
 ke loka - where?  
 ke poli di - how many?  
 ke riti - how?  
@@ -2245,7 +2243,7 @@ koko - chicken
 Kokos nesia - Cocos (Keeling) Islands  
 kola - kola  
 kola frute - kola nut  
-kola jus - cola  
+kola yus - cola  
 koli - cabbage  
 Kolombia - Colombia  
 kolone - settle (colonize)  
@@ -2424,14 +2422,14 @@ lasun - garlic
 late - side (flank)  
 late di - sideways (laterally)  
 late di - lateral (horizontal)  
-late jen - companion (partner, sidekick)  
+late yen - companion (partner, sidekick)  
 latinogramife - romanize  
 Latin zi - Latin alphabet  
 Latvia - Latvia  
 Lau - Laos  
 lau - old (aged, elderly)  
 lau di - Lao (Laotian)  
-lau jen - elder  
+lau yen - elder  
 laurencium - lawrencium  
 laxe - loose (laxe; loosen, let loose, let go)  
 • relaxe - relax  
@@ -2500,7 +2498,7 @@ limite - limit (boundary)
 • anlimite - infinity  
 limite di - finite (limited)  
 limon - lemon  
-limon jus - lemonade  
+limon yus - lemonade  
 limon luga di - lime green  
 limon orange - citrus fruit  
 lin - line (thread, string)  
@@ -2692,7 +2690,7 @@ mata - die (death; dead, deceased)
 mata badan - dead body  
 matabil - mortal  
 matafa - kill  
-mataja - killer  
+mataya - killer  
 mate - maté  
 mate cai - maté tea  
 matras - mattress  
@@ -2943,7 +2941,7 @@ mula - root
 mum - wax  
 mum cape - wax seal  
 mum fote - candle  
-mum jen - mummy  
+mum yen - mummy  
 mum melon - winter melon (wax gourd, ash gourd)  
 Mumbai - Mumbai (Bombay)  
 mumu - cow  
@@ -2979,10 +2977,10 @@ muzike gense - music genre
 ## N  
 
 na - get (obtain, take, grasp, receive)  
-na ja - getter (receiver, recipient)  
+na ya - getter (receiver, recipient)  
 na xiti - gains and losses (pros and cons)  
 nabi - prophecy (prophesy, prophetize)  
-nabija - prophet (harbinger, herald)  
+nabiya - prophet (harbinger, herald)  
 nadir - rare (scarce, sparse, uncommon)  
 nadir mar - seldom (rarely)  
 nadirta - rarity  
@@ -3052,7 +3050,7 @@ nave trepe - gangway (ramp)
 nave xefe - captain  
 nava - Nahuatl (Nahua)  
 nave ga - sail  
-nave ga ja - sailer  
+nave ga ya - sailer  
 ne - right? (isn't it?)  
 Nederlande - Netherlands  
 Nederlande Antil - Netherlands Antilles  
@@ -3095,7 +3093,7 @@ nete gete - download
 neu - novelty (new product)  
 neu di - new (recent)  
 neu fito - neophyte plant  
-neu jen - novice (newbie)  
+neu yen - novice (newbie)  
 neu Kaledonia - New Caledonia  
 neuloge - neologism  
 neunatike - newborn (neonatal)  
@@ -3217,8 +3215,8 @@ opera - opera
 orange - orange (fruit)  
 orange rang - orange (orange-colored)  
 ordu - army  
-ordu jen - soldier  
-ordu jen kan - barracks  
+ordu yen - soldier  
+ordu yen kan - barracks  
 ordu reger - generalissimo (shogun)  
 ordu regia - shogunate  
 ore - ear  
@@ -3240,7 +3238,7 @@ osman - Ottoman
 Osman Imperi Dexa - Ottoman Empire  
 osmos - osmosis  
 oste - bone  
-oste jama - skeleton (frame)  
+oste yama - skeleton (frame)  
 oste xalke - scute  
 oste yunte - joint (connection of bones)  
 Ostria - Austria  
@@ -3305,7 +3303,7 @@ pandunia - Pandunia
 panduniste - Pandunia speaker  
 pandunial - global (concerning the whole world)  
 paneuropan - pan-European  
-pan jen - everybody (everyone)  
+pan yen - everybody (everyone)  
 panmime - pantomime  
 pan romanse di - panromantic  
 pan sata - always  
@@ -3330,7 +3328,7 @@ repare - repair (fix, mend)
 repare - repair (fix)  
 reparer - repairer  
 par fase - level  
-par jen - peer  
+par yen - peer  
 parta - equality (parity)  
 par vezeta - equilibrium (balance)  
 paranam - paronym  
@@ -3555,7 +3553,7 @@ porte - carry (bear)
 • traporte - transport (transportation)  
 porto - port (station)  
 Portoriko - Puerto Rico  
-portoriko jen - Puerto Rican  
+portoriko yen - Puerto Rican  
 Portugal - Portugal  
 portugal baxe - Portuguese language  
 pos - consequence (back, follow-up)  
@@ -3847,7 +3845,7 @@ Salvador - El Salvador
 sam - same (equal, alike, match)  
 sam bei - peer  
 sam emos - compassion (sympathy)  
-sam gogia jen - compatriot  
+sam gogia yen - compatriot  
 sammetria - symmetry (symmetrical)  
 sam nam - homonym  
 sam rai - agreement (consent)  
@@ -3992,7 +3990,7 @@ sirkike - round (circular)
 sirke metre - perimeter (circumference)  
 sirkus - circus  
 siro - zero (none)  
-siro jen - nobody (no-one)  
+siro yen - nobody (no-one)  
 siro sata - never  
 siro xe - nothing  
 sis - sister  
@@ -4389,7 +4387,7 @@ turiste - tourist
 turbe - whirl (dizz; disorientate, trouble, disturb, bother, annoy)  
 • disturbe - disturb (disturbance, turbulence)  
 turbin - turbine  
-turbojeter - turbojet  
+turboyeter - turbojet  
 turfa - peat  
 turke baxe - Turkish langage  
 Turkia - Turkey  
@@ -4459,7 +4457,7 @@ vaginits - vaginitis
 vahi - oasis  
 vai - outside (exterior)  
 vai dara - overflow (spill out)  
-vai jen - outsider  
+vai yen - outsider  
 vai tense - extent  
 vai yam - picnic  
 vakil - represent  
@@ -4678,7 +4676,7 @@ xite - defecate (shit)
 xite - feces (poop, shit)  
 xiti - lose (misplace, miss, shed)  
 xiti bai - failure (blunder, flop, miss, loss, defeat)  
-xiti bai ja - loser  
+xiti bai ya - loser  
 xiu - little (small)  
 xiu bol - bubble  
 xiu deha - small village (hamlet)  
@@ -4760,7 +4758,7 @@ yezi - coconut tree
 yim - yin (negative, dark, ghostly, soft, feminine)  
 yim yang - yin-yang  
 yo - some (one)  
-yo jen - someone (somebody)  
+yo yen - someone (somebody)  
 yo sata - sometime  
 yo xe - something  
 yoga - yoga  
@@ -4771,7 +4769,7 @@ yoke - jade
 Yoruba - Yoruba (language and people)  
 yota - yotta-  
 you - infantile (juvenile, immature)  
-you jen - infant (child)  
+you yen - infant (child)  
 you moke - sapling  
 you nan - boy  
 you nen - childhood (years of being very young)  

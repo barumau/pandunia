@@ -237,7 +237,7 @@ bolchevique - bolxeviste
 bolchevismo - bolxevisme  
 boletim de notícias - habar letre  
 bolo lunar - luna keke  
-bolso (algebeira) - jebe  
+bolso (algebeira) - zebe  
 bom - hau  
 bomba - bombe  
 bomba - pompe  
@@ -312,7 +312,7 @@ canguru - kangaru
 canhão (ravina, barranco) - kanyon  
 canhǎo - dai pau  
 canil - vaf parke  
-canivete - jebe caku  
+canivete - zebe caku  
 canoa - kanu  
 Cantalupo in Sabina - Kantalupo a Sabina  
 canção de ninar - lala gani  
@@ -703,7 +703,7 @@ esposo - nan per (man)
 esposo ou esposa - gam per  
 espírito (gênio) - gin  
 esquecer - anmemo  
-esqueleto - oste jama  
+esqueleto - oste yama  
 esquerdo - leu  
 esquilo - lixu  
 esse (aquele) - vo  
@@ -732,7 +732,7 @@ eu (me) - mi
 európio - europium  
 evangelho - hau angil  
 evidente - exvidebil  
-exato (preciso) - juste  
+exato (preciso) - yuste  
 excluir - exkluze  
 exclusivo - exkluzive  
 exoplaneta (planeta extrassolar) - exoplaneta  
@@ -851,7 +851,7 @@ geopolítica - geopolitia
 geral - gensal  
 Germânia - Germania  
 germânio - germanium  
-ginseng - jensen  
+ginseng - yensen  
 girafa - zirafa  
 girassol - sol hua  
 glicina - glukin  
@@ -958,7 +958,7 @@ infiel - ankreder
 inflamaçao - itis  
 informática (ciência da computação) - data cule logia  
 infraestrutura - baze strute  
-inimigo - dus jen  
+inimigo - dus yen  
 inquisitivo - kenevolive  
 inseto - cung  
 insônia - ansona  
@@ -986,12 +986,12 @@ itrio - yutrium
 itérbio - yuterbium  
 iurte - yurta  
 
-## J  
+## y  
 
 jade - yoke  
 jaguatirica (ocelote) - oselote  
 jambolão (jambo) - zamul  
-janela - janela  
+janela - yanela  
 Japão - Nipon  
 jarra (jarro) - kundi  
 jasmim - moli  
@@ -1000,11 +1000,11 @@ jengibre - ginge
 Jesus Cristo - Yesa Mesi  
 joelho - guta  
 jogo de tabuleiro - bano geme  
-joule (J) - jul  
-jovem - jun  
-judo - judau  
+joule (J) - yul  
+jovem - yun  
+judo - yudau  
 jugo - yuge  
-juiz - juder  
+juiz - yuder  
 junta militar - zalim yunte  
 juntura - yunture  
 junção - yuntion  
@@ -1056,7 +1056,7 @@ liga (aliança) - lige
 liga - metal mixure  
 ligeiro - lege veze di  
 lima - kaguzi limon  
-limonada - limon jus  
+limonada - limon yus  
 limpo - safe  
 limão - limon  
 lince - linxe  
@@ -1134,7 +1134,7 @@ manganésio - mangan
 mania - mania  
 maniqueísmo - mani din  
 manteiga - bute  
-manto - jube  
+manto - yube  
 mantra - mantra  
 mar - bahai  
 maravilha - agibe  
@@ -1246,7 +1246,7 @@ mover - mote
 mudança climática - klima mute  
 mudar-se - migre  
 muesli - musli  
-multidão - jen zamia  
+multidão - yen zamia  
 multilíngue (plurilíngue) - polibaxike  
 multilíngue (plurilíngue) - polibaxike  
 mundo - dunia  
@@ -1310,7 +1310,7 @@ norte - norde
 nosso - mimen su  
 nostalgia (saudade) - nostalgia  
 nota - notage  
-novato (neófito) - neu jen  
+novato (neófito) - neu yen  
 nove (9) - tisa  
 novidade - neu  
 novidade - neuta  
@@ -1403,7 +1403,7 @@ papel higiênico - tuale kaguzi
 papoila - medan papi  
 papoila-dormideira - sona papi  
 par (parelha) - per  
-par - par jen  
+par - par yen  
 par - sam bei  
 para-lama - poto defa bano  
 parada de ônibus - bus halte  
@@ -1448,7 +1448,7 @@ pepino-africano (kiwano) - korne melon
 pepino-do-mar (holotúrias) - bahai hiyar  
 pequeno - xiu  
 pera - pera  
-perdedor - xiti bai ja  
+perdedor - xiti bai ya  
 perder - xiti  
 perdoar (desculpar) - af  
 perecer - perex fa  
@@ -1464,7 +1464,7 @@ peróxido de hidrogênio - hidre peroxide
 pesado - veze di  
 pescador - pexe saider  
 pescoço (nuca, gargalo) - nuka  
-pessoa - jen  
+pessoa - yen  
 pessoal (privado) - prive  
 petróleo - petra nafte  
 peônia - mudan  
@@ -1508,7 +1508,7 @@ portar - porte
 porto - porto  
 porto marítimo - bahai porto  
 Porto Rico - Portoriko  
-porto-riquenho - portoriko jen  
+porto-riquenho - portoriko yen  
 possível - bil  
 poste (coluna) - kolum  
 posterior - posike  
@@ -1527,7 +1527,7 @@ preconceito - prexake
 precursor - prekurser  
 preferir - max fili  
 preferir - prefere  
-prejulgamento - prejude  
+prejulgamento - preyude  
 prensa - preser  
 prensar (pressionar, premir) - prese  
 presidente - presidente  
@@ -1545,14 +1545,14 @@ processamento de dados - data cule
 processamento de imagem - grafe cule  
 professor (docente) - xule guru  
 professor - profesor  
-profeta (arauto) - nabija  
+profeta (arauto) - nabiya  
 profetizar - nabi  
 profissão - pei kar  
 profundo - fase tele  
 programa - programe  
-projeto - projete  
-projeção - jete grafe  
+projeto - proyete  
 projeção - lanse grafi  
+projeção - yete grafe  
 projétil - lanse xe  
 prolongado - long durike  
 promessa (voto) - vode  
@@ -1592,7 +1592,7 @@ qualidade - kalta
 quando - ke sata  
 quarta-feira - merkurden  
 quarteirão - mahala  
-quartel - ordu jen kan  
+quartel - ordu yen kan  
 quarto (dormitório) - sona kamar  
 quartzo - kuarze  
 quatro (4) - nelu  
@@ -1601,10 +1601,10 @@ que - ki
 queijo - keze  
 queijo fresco - panir  
 queixa (lamento, reclamação) - xikaye  
-quem - ke jen  
+quem - ke yen  
 querer (desejar) - vol  
 querido (caro) - amike  
-querido - ame jen  
+querido - ame yen  
 questão (pergunta) - sual  
 quiabo - bamia  
 quilate - kirate  
@@ -1668,7 +1668,7 @@ repórter - reporter
 república - vakilkratia  
 reserva - rezerve  
 resfriado - zukam  
-resposta - javabe  
+resposta - gavabe  
 resto - baki  
 reto - orto  
 revelar - devele  
@@ -1781,7 +1781,7 @@ simetria - sammetria
 simulação - sam sifa xe  
 sinal - sine  
 sino (campainha) - dang gi  
-sintaxe - jumla logia  
+sintaxe - yumla logia  
 sintaxe - sintaxe  
 situaçao - xe hal  
 sobreviver - traziva  
@@ -1793,7 +1793,7 @@ sogra - per ma
 sogro - per pa  
 soja - soi  
 sol - sol  
-soldado - ordu jen  
+soldado - ordu yen  
 som - soni  
 sombrinha - sol cati  
 sono - sona  
@@ -1804,7 +1804,7 @@ sorver - sorbe
 sorvete (gelado) - ais krem  
 sorvete - ais xarbe  
 substância - kime  
-suco (sumo) - jus  
+suco (sumo) - yus  
 sujo - ansafe  
 sulfato - sulfate  
 sulfeto - sulfide  
@@ -1919,7 +1919,7 @@ tungsténio - volfram
 tungue - tung  
 turbante - pagri  
 turbina - turbin  
-turbojato - turbojeter  
+turbojato - turboyeter  
 turnê - tur  
 tábua (prancha) - moka bano  
 tálio - talium  

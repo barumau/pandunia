@@ -35,7 +35,7 @@ adhésif (collant) - glutike
 adjectif - sifa loge  
 administrateur - politiker  
 adresse - adres  
-adulte - ceng jen  
+adulte - ceng yen  
 affiche - afixage  
 afficher - afixe  
 Afghanistan - Afganestan  
@@ -393,7 +393,7 @@ canapé (sofa) - sofa
 cancer - kanse  
 cancer du sein - mame kanse  
 canevas (toile) - pente tela  
-canif - jebe caku  
+canif - zebe caku  
 canne - gana  
 canne à pêche - huke lin kane  
 canne à sucre - sukar gana  
@@ -424,7 +424,7 @@ carte de crédit - krede karte
 carte à collectionner - zame karte  
 cartographie - kartografia  
 cartouche - kartux  
-caserne - ordu jen kan  
+caserne - ordu yen kan  
 castillan - kastilia baxe  
 Castille - Kastilia  
 cauri - kauri  
@@ -499,7 +499,7 @@ chutney - hinde sos
 chèque - ceke  
 chèque cadeau - donage ceke  
 chèque de voyage - safar ceke  
-chéri - ame jen  
+chéri - ame yen  
 chêne - baluta  
 chêne pédonculé - europa baluta  
 chœur - ganir grupe  
@@ -512,7 +512,7 @@ cinq (5) - lima
 cirque - sirkus  
 cirse commun - pena kardon  
 citron - limon  
-citronnade - limon jus  
+citronnade - limon yus  
 citrouille - kaboga  
 cité-état - pole gogia  
 clair - klar  
@@ -758,7 +758,7 @@ en ligne - a lin
 enclume - metal bede  
 encre - kalam sui  
 enfant - baca  
-ennemi - dus jen  
+ennemi - dus yen  
 enregistrement - loga  
 enseigner - xulize  
 ensommeillé (somnolent) - sonaive  
@@ -823,7 +823,7 @@ faux - anver
 favori (préféré) - max fili di  
 favoritisme - max fili sim  
 fente (fissure, fêlure) - krake  
-fenêtre - janela  
+fenêtre - yanela  
 fer - fero  
 fermium - fermium  
 ferveur - rage  
@@ -864,7 +864,7 @@ forêt de kelp - alga zangal
 fossé (canal, tranchée) - kanal  
 fouet - bici  
 fougères - parne  
-foule - jen zamia  
+foule - yen zamia  
 fourmi - murmeke  
 fourmilière - murmeke kume  
 fragment - parte  
@@ -1069,7 +1069,7 @@ intercepter - intercepe
 international - internasial  
 interracial - rase midike  
 intestin (entrailles, ventre, boyau) - intrage  
-introverti - in verse jen  
+introverti - in verse yen  
 introverti - intraverse  
 inutile - anyau di  
 inverse (négatif, in-) - an-  
@@ -1079,33 +1079,33 @@ Irland - Eire
 ironie - ironia  
 Islam - islamisme  
 
-## J  
+## y  
 
 jade - yoke  
 Japon - Nipon  
 jarre (carafe, cruche) - kundi  
 jasmin - moli  
-jaïnisme - jain din  
+jaïnisme - yain din  
 je (me) - mi  
 jeu de dames - dama geme  
 jeu de société - bano geme  
 jeudi - muxinden  
-jeune (junior) - jun  
-jeunesse - jun nen  
+jeune (junior) - yun  
+jeunesse - yun nen  
 jonction - yuntion  
 joug - yuge  
-joule (J) - jul  
+joule (J) - yul  
 jour - dia  
 journal - den logu  
-judo - judau  
-juje - juder  
+judo - yudau  
+juje - yuder  
 junte - zalim yunte  
 Jupiter - Muxin  
-jus - jus  
+jus - yus  
 jusque (jusqu’à) - hata  
 juste - adil  
 justice - adilta  
-justo (exact, précis) - juste  
+justo (exact, précis) - yuste  
 Jésus - Yesa  
 Jésus-Christ - Yesa Mesi  
 
@@ -1455,7 +1455,7 @@ négatif - negative
 néodyme - neodimium  
 néologisme - neuloge  
 néon - neon  
-néophyte - neu jen  
+néophyte - neu yen  
 néphrite - nefritis  
 néré - nere  
 névralgie - neuralgia  
@@ -1483,7 +1483,7 @@ oie - ganse
 oiseau - paci  
 olive - zetun  
 ombrelle (parasol) - sol cati  
-on - jen (jen men)  
+on - yen (yen men)  
 oncille - bagre oselote  
 oncle - cin bra  
 onde - onda  
@@ -1519,7 +1519,7 @@ ou - o
 ouah - va  
 Oubangui - Bangi rivo  
 oublier - anmemo  
-oubliette (cul de basse-fosse) - geo nice jela  
+oubliette (cul de basse-fosse) - geo nice yela  
 oui - ya  
 ours - baru  
 oxyde - oxide  
@@ -1592,7 +1592,7 @@ peindre - pente
 peinture - pente  
 pelle - belca  
 pelouse (gazon) - cau medan  
-perdant - xiti bai ja  
+perdant - xiti bai ya  
 perder - xiti  
 pere (papa) - pa  
 peroxyde - peroxide  
@@ -1600,7 +1600,7 @@ peroxyde - peroxide
 peroxyde d'hydrogène - hidre peroxide  
 perplexe (désorienté) - ruhu mixe di  
 perroquet - papagai  
-personne - jen  
+personne - yen  
 personnel (privé) - prive  
 perturber (turbulence) - disturbe  
 pervers - perverse  
@@ -1668,7 +1668,7 @@ plurilingue (multilingue) - polibaxike
 plus - max  
 plutonium - plutonium  
 pneumonie - pulmonitis  
-poche - jebe  
+poche - zebe  
 pocion - dava sui  
 podzol - hui darte  
 poids (lourdeur, gravité) - veze  
@@ -1695,7 +1695,7 @@ porte-bloc (planchette à pince) - pinse bano
 porter (s’habiller) - fuke  
 porter - porte  
 Porto Rico - Portoriko  
-Portoricain - portoriko jen  
+Portoricain - portoriko yen  
 posidonie (herbiers marins) - bahai cau  
 possédant (propriétaire) - maler  
 post-natal - posnatal  
@@ -1713,8 +1713,8 @@ poudre - fun
 poudre à canon - barude  
 Poulpe (pieuvre) - ohtopus  
 pourri - pute  
-pousse - jun moka  
 pousse - you moke  
+pousse - yun moka  
 poussière - haki  
 pouvoir (possible, capacité) - bil  
 poêle - tava  
@@ -1725,7 +1725,7 @@ pression - prese
 pression atmosphérique - air prese  
 pressoir - preser  
 principe - bazisme  
-prison (geôle) - jelekan  
+prison (geôle) - yelekan  
 privatiser - privatize  
 priver de - deprive  
 proactif - proative  
@@ -1741,15 +1741,15 @@ profond - fase tele
 programme - programe  
 projectile - lanse xe  
 projection - lanse grafi  
-projet - projete  
-projeter (image projection) - jete grafe  
+projet - proyete  
+projeter (image projection) - yete grafe  
 prolongé - long durike  
 promettre - vode  
 promettre - promise  
 promouvoir - promote  
 prométhium - prometium  
 Prométhée - Promete  
-prophète (héraut) - nabija  
+prophète (héraut) - nabiya  
 prophétiser - nabi  
 propice - hau sin di  
 propriété (possession, bien) - mal  
@@ -1763,7 +1763,7 @@ précurseur - prekurser
 précéder - precese  
 préférer - max fili  
 préférer - prefere  
-préjuger - prejude  
+préjuger - preyude  
 prénatal - prenatal  
 présent - zai di  
 président - presidente  
@@ -1798,7 +1798,7 @@ quenelle (ravioli) - mantu
 querelle (dispute, palabre) - palaba  
 question - sual  
 queue - koda  
-qui - ke jen  
+qui - ke yen  
 
 ## R  
 
@@ -1847,7 +1847,7 @@ rivière (fleuve) - rivo
 riz - varis  
 riz blanc - baku varis  
 riz complet - brun varis  
-robe - jube  
+robe - yube  
 robot - robote  
 roche (pierre) - petra  
 rocher - dai seku  
@@ -1888,7 +1888,7 @@ réparateur - reparer
 réparation - repare  
 réparer - repare  
 réparer - repar  
-réponse - javabe  
+réponse - gavabe  
 république - vakilkratia  
 répéter - rifete  
 réussir (avoir du succès, prospérer) - sucese  
@@ -1992,7 +1992,7 @@ soie - silke
 soif - sui yau  
 soir (soirée) - xam  
 soja - soi  
-soldat - ordu jen  
+soldat - ordu yen  
 soleil - sol  
 sommeil - sona  
 son (sa) - se su  
@@ -2008,7 +2008,7 @@ souteneur (maquereau) - sutener
 spectateur - speter  
 spiritueux - araki  
 sport - sporte  
-squelette - oste jama  
+squelette - oste yama  
 station (gare) - statia  
 strontium - estrontium  
 stylo-plume - fonte kalam  
@@ -2029,7 +2029,7 @@ svastika (croix gammée) - huke krus
 syllabe - lexe fen  
 symbole - simbol  
 symétrie - sammetria  
-syntaxe - jumla logia  
+syntaxe - yumla logia  
 syntaxe - sintaxe  
 sélénium - selenium  
 sémantique - semologia  
@@ -2161,7 +2161,7 @@ tunique - kurta
 Tunisie - Tunis  
 turban - pagri  
 turbine - turbin  
-turboréacteur - turbojeter  
+turboréacteur - turboyeter  
 télescope (lunette) - teleskope  
 télécharger - nete gete  
 téléphone - telefon  
@@ -2184,7 +2184,7 @@ utile - uzike
 vachellia - babul  
 vagine - vagine  
 vaginite - vaginits  
-vaincre - jai  
+vaincre - yai  
 vaisseau spatial - kosmonave  
 valeur - valu  
 vallée (oued) - vali  

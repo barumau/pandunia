@@ -84,7 +84,7 @@ ame - amour (affection)
 • aname - exécrer  
 amer - amoureux  
 amike - cher  
-ame jen - chéri  
+ame yen - chéri  
 ama - mais  
 Amara - Amhara (groupe ethnique et langue éthiopienne)  
 Amazon - Amazone  
@@ -415,7 +415,7 @@ cavi - clé (clef)
 ceke - chèque  
 ceng - mûr (mature)  
 ceng bede - lits superposés  
-ceng jen - adulte  
+ceng yen - adulte  
 • acepe - accepter  
 • intercepe - intercepter  
 • recepe - recevoir  
@@ -551,7 +551,7 @@ dure - durée
 • redure - reprendre  
 dure di - chronique  
 durometrer - chronomètre  
-dus jen - ennemi  
+dus yen - ennemi  
 • posprodution - post-production  
 dux - douche  
 
@@ -748,7 +748,7 @@ gensologia - études de genre
 geo elfe - gnome  
 geo forme - terrain  
 geo kaska plate - plaque tectonique  
-geo nice jela - oubliette (cul de basse-fosse)  
+geo nice yela - oubliette (cul de basse-fosse)  
 Germania - Germanie  
 germanium - germanium  
 gide - guider  
@@ -914,7 +914,7 @@ in klus di - inclusif
 inlai - accès  
 intre - entrer  
 intrage - intestin (entrailles, ventre, boyau)  
-in verse jen - introverti  
+in verse yen - introverti  
 iode - iode  
 iridium - iridium  
 ironia - ironie  
@@ -922,33 +922,31 @@ islam - soumission
 islamisme - Islam  
 ite - pierre  
 itis - inflammation  
-
-## J  
-
-jai - vaincre  
-jain din - jaïnisme  
+y - J  
+yai - vaincre  
+yain din - jaïnisme  
 zame karte - carte à collectionner  
 zamul - prune de Java  
 zan buda din - zen  
-janela - fenêtre  
+yanela - fenêtre  
 zangal - forêt (jungle)  
 kundi - jarre (carafe, cruche)  
 zaru - balai  
 zau - orge  
-javabe - réponse  
+gavabe - réponse  
 Alzeria - Algérie  
-jebe - poche  
-jebe caku - canif  
+zebe - poche  
+zebe caku - canif  
 zeka - prêter (empruntre)  
 zeka don - prêter  
 zeka na - empruntre  
-jelekan - prison (geôle)  
-jen - personne  
-jen (jen men) - on  
-jen zamia - foule  
+yelekan - prison (geôle)  
+yen - personne  
+yen (yen men) - on  
+yen zamia - foule  
 zenzu table - abaque (boulier compteur)  
-• projete - projet  
-jete grafe - projeter (image projection)  
+• proyete - projet  
+yete grafe - projeter (image projection)  
 gihade - lutte  
 gin - esprit (génie)  
 ziva - vivre (vivant; vie)  
@@ -958,17 +956,17 @@ zong fon - voyelle
 zong xulekan - école secondaire  
 Zong gogia - Chine  
 zovar - sorgho  
-jube - robe  
-• prejude - préjuger  
-juder - juje  
-judau - judo  
-jul - joule (J)  
-jumla logia - syntaxe  
-jun - jeune (junior)  
-jun moka - pousse  
-jun nen - jeunesse  
-jus - jus  
-juste - justo (exact, précis)  
+yube - robe  
+• preyude - préjuger  
+yuder - juje  
+yudau - judo  
+yul - joule (J)  
+yumla logia - syntaxe  
+yun - jeune (junior)  
+yun moka - pousse  
+yun nen - jeunesse  
+yus - jus  
+yuste - justo (exact, précis)  
 
 ## K  
 
@@ -1079,7 +1077,7 @@ kauri - cauri
 kave - creuser (fosse)  
 • exkave - excaver  
 ke - que (quoi)  
-ke jen - qui  
+ke yen - qui  
 ke loka - où  
 ke riti - comment  
 ke sata - quand  
@@ -1256,7 +1254,7 @@ lige su sanduke - Arche d'Alliance
 lila - lilas  
 lima - cinq (5)  
 limon - citron  
-limon jus - citronnade  
+limon yus - citronnade  
 lin - ligne (fil)  
 lin so - fibre  
 linke - lien  
@@ -1485,7 +1483,7 @@ muzike - musique
 ## N  
 
 nabi - prophétiser  
-nabija - prophète (héraut)  
+nabiya - prophète (héraut)  
 nadir - rare  
 nadir mar - rarement  
 nagis - pollution  
@@ -1536,7 +1534,7 @@ nese - île
 • konnetion - connexion  
 nete gete - télécharger  
 neu di - nouveau  
-neu jen - néophyte  
+neu yen - néophyte  
 neuloge - néologisme  
 neunatike - nouveau-né  
 neuta - nouveauté  
@@ -1595,8 +1593,8 @@ operate - opérer
 orange - orange (fruit)  
 orange rang - orange (couleur)  
 ordu - armée  
-ordu jen - soldat  
-ordu jen kan - caserne  
+ordu yen - soldat  
+ordu yen kan - caserne  
 ordu reger - généralissime  
 ore - oreille  
 ore tis - otite  
@@ -1606,7 +1604,7 @@ orto gonike - orthogonal
 oselote - ocelot  
 osidian - obsidienne  
 osmium - osmium  
-oste jama - squelette  
+oste yama - squelette  
 oste xalke - scutelle  
 oste yunte - articulation (jointure)  
 ote - opter  
@@ -1758,7 +1756,7 @@ porte - porter
 • reporter - reporter (rapporteur)  
 porto - porte  
 Portoriko - Porto Rico  
-portoriko jen - Portoricain  
+portoriko yen - Portoricain  
 pos den - demain  
 posfixe - suffixe  
 posike - postérieur  
@@ -2134,7 +2132,7 @@ turiste - touriste
 turbe - gêner (déranger, perturber)  
 • disturbe - perturber (turbulence)  
 turbin - turbine  
-turbojeter - turboréacteur  
+turboyeter - turboréacteur  
 tuta - mûrier  
 tuzi - lapin (lièvre)  
 
@@ -2267,7 +2265,7 @@ xirope - sirop
 xite - merde  
 xiti - perder  
 xiti bai - échec  
-xiti bai ja - perdant  
+xiti bai ya - perdant  
 xiu - petit  
 xiu deha - hameau  
 xiu kaboga - courgette  

@@ -452,7 +452,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**ga**|eng:go + hin:जाना (jānā), ben:যাওয়া (jaoya) + kor:가다 (gada)|
 |**gabre**|ara:(qabr), hin:क़ब्र (qabra), ben:কবর (kôbôr), may:kubur, hau:kabari, swa:kaburi, tur:kabir + deu:Grab, pol:grób, rus:гроб (grob)|
 |**gadolinium**|eng:gadolinium, fra:gadolinium, spa:gadolinio, por:gadolínio, rus:гадолиний, zho:钆 (gá), jpn:ガドリニウム, kor:가돌리늄, vie:gađolini, hin:ग्याडोलिनियम, ben:গ্যাডোলিনিয়াম, may:gadolinium, swa:gadolini, ara: جدولينيوم|
-|**gaja**|hin:गज (gaj), tam:கசம் (kacam), tel:గజము (gajamu), kan:ಗಜ (gaja), may:gajah, tgl:gadya|
+|**gaya**|hin:गज (gaj), tam:கசம் (kacam), tel:గజము (gajamu), kan:ಗಜ (gaja), may:gajah, tgl:gadya|
 |**galium**|eng:gallium, fra:gallium, spa:galio, por:gálio, rus:галлий, zho:镓 (jiā), jpn:ガリウム, kor:갈륨, vie:gali, hin:गैलियम, ben:গ্যালিয়াম, may:galium, swa:gali, ara: جاليوم|
 |**gala**|eng:gullet, spa:por:gola, far:گلو (galu), hin:गला (gala), ben:গলা (galā), pan:ਗਲਾ (galā) + rus:горло (gorlo) + ara:حلق (halaq)|
 |**galaxia**|eng:galaxy, spa:galaxia, por:galáxia, fra:galaxie, rus:галактика (galaktika), tur:may:galaksi, hin:गैलेक्सी (gaileksī)|
@@ -633,43 +633,43 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**isme**|tha:เสริม (soem) + eng:-ism, fra:-isme, spa:por:-ismo, rus:-изм (-izm), may:-isme|
 |**ite**|eng:fra:-ite, spa:por:-ito, rus:-ит (-it) + (brick) ben:ইট (iṭ), hin:ईंट (ī̃ṭ), tha:อิฐ (it), khm:ឥដ្ឋ (ʼət), mya: အုတ် (ut)|
 |**itis**|eng:spa:-itis, fra:por:-ite, rus:-ит (-it)|
-|**jai**|hin:जय (jay), ben:জয় (jôy), tel:జయ (jaya), may:jaya, tha:ชัย (chai), khm:ជ័យ (cɨy), mya:ဇေယျ (jeyya)|
-|**jain din**|hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:jaïnisme, rus:джайнизм (džaynizm)|
-|**jake**|eng:jacket, zho:夹克 (jiākè), rus:жакет (žaket), deu:Jacke, por:jaqueta|
+|**yai**|hin:जय (jay), ben:জয় (jôy), tel:జయ (jaya), may:jaya, tha:ชัย (chai), khm:ជ័យ (cɨy), mya:ဇေယျ (jeyya)|
+|**yain din**|hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:jaïnisme, rus:джайнизм (džaynizm)|
+|**yake**|eng:jacket, zho:夹克 (jiākè), rus:жакет (žaket), deu:Jacke, por:jaqueta|
 |**zamia**|ara: جَمَعَ‎ (jamaʿa), swa:jamii, tur:camia, fas: جمع (jam’), hau:jam'iyya + hin:जमात (jamāt)|
-|**jampe**|eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
+|**zampe**|eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
 |**zamul**|hin:जामुन (jāmun), eng:jambul, por:jambolão, ara:جَمُّون (jammūn), swa:zambarau|
-|**jan**|hin:ध्यान (dhyān), ben:ধ্যান (dhyān), jpn:禅 (zen), eng:fra:por:zen, rus:дзэн (dzen), zho:禅 (chán), kor:선 (seon), vie:thiền, mya:ဈာန် (jhan)|
-|**janela**|por:janela, ben:জানালা (janala), tam:ஜன்னல் (jaṉṉal), may:jendela|
+|**zan**|hin:ध्यान (dhyān), ben:ধ্যান (dhyān), jpn:禅 (zen), eng:fra:por:zen, rus:дзэн (dzen), zho:禅 (chán), kor:선 (seon), vie:thiền, mya:ဈာန် (jhan)|
+|**yanela**|por:janela, ben:জানালা (janala), tam:ஜன்னல் (jaṉṉal), may:jendela|
 |**zang**|fas: جنگ (jang), hin:जंग (jang), ben:জঙ্গ (jôṅg), tur:cenk + zho:仗 (zhàng); 爭 (zhēng), yue:争 (zang1), kor:전쟁 (jeonjaeng), vie:(chiến) tranh + may:juang|
 |**zang suta**|zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|
 |**zangal**|eng:fra:jungle, spa:jungla, por:jângal, rus:джунгли (džungli), hin:जंगल (jangal), ben:জঙ্গল (jônggôl), may:jenggela, jpn:ジャングル (janguru), kor:정글 (jeonggeul), tur:cengel|
 |**kundi**|zho:罐子 (guànzi), yue:罐子 (gun3zi2), kor:관 (guan) + may:kendi, tha:กุณฑี (gundii)|
 |**zaru**|hin:झाड़ू (jhāṛū), ben:ঝাড়ু (jhaṛu) + kor:빗자루 (bitjaru)|
 |**zau**|hin:जौ (jau), ben:যব (jôb), mar:जव (jav), guj:જવ (jav), fas: جو‎ (jow)|
-|**javabe**|ara: جَوَاب‎ (jawāb), hin:जवाब (javāb), may:jawab, ful:jaabaade, swa:jibu,jawabu, tur:cevap|
-|**jebe**|ara: جَيْب‎ (jayb), fas: جیب‎ (jib), hin:जेब (jeb), pnb:ਜੇਬ (jeb), tel:(jēbu), tur:cep, por:algebeira, hau:aljihu, ful:jiiba, wol:jiba, amh:ጅብ (ǧəb)|
+|**gavabe**|ara: جَوَاب‎ (jawāb), hin:जवाब (javāb), ben:জবাব (jobab), may:jawab, ful:jaabaade, swa:jibu,jawabu, tur:cevap|
+|**zebe**|ara: جَيْب‎ (jayb), fas: جیب‎ (jib), hin:जेब (jeb), pnb:ਜੇਬ (jeb), tel:(jēbu), tur:cep, por:algebeira, hau:aljihu, ful:jiiba, wol:jiba, amh:ጅብ (ǧəb)|
 |**zeka**|zho:借 (jiè), yue:借 (ze3), wuu:借 (jia2), jpn:借 (shaku), kor:적 (jeok) + eng:check|
 |**zeka na**|zho:借 (jiè), yue:借 (ze3), jpn:借 (shaku), kor:적 (jeok) + eng:check|
-|**jele**|eng:jail, fra:geôle, hin:जेल (jel), ben:জেল (jēl), tel:జైలు (jailu), urd: جیل‎ (jēl), swa:jela + spa:por:jaula|
-|**jen**|zho:人 (rén), wuu人 (zén), jpn:人 (jin) + fra:gens, spa:por:gente + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon)|
+|**yele**|eng:jail, fra:geôle, hin:जेल (jel), ben:জেল (jēl), tel:జైలు (jailu), urd: جیل‎ (jēl), swa:jela + spa:por:jaula|
+|**yen**|zho:人 (rén), wuu人 (zén), jpn:人 (jin) + fra:gens, spa:por:gente + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon)|
 |**zenzu**|zho:珍珠 (zhēnzhū), yue:珍珠 (zan1 zyu1), jpn:真珠 (shinju), kor:진주 (jinju), vie:trân châu, rus:жемчуг (žemčug), tur:inci,incü|
-|**jensen**|zho:人蔘 (rénshēn), min:人蔘 (jîn-sam), eng:spa:por:tur:may:ginseng, rus:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), jpn:人参 (ninjin)|
-|**jete**|fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje|
+|**yensen**|zho:人蔘 (rénshēn), min:人蔘 (jîn-sam), eng:spa:por:tur:may:ginseng, rus:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), jpn:人参 (ninjin)|
+|**yete**|fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje|
 |**gihade**|ara: جهاد (jihād), tur:cihat, swa:jihadi + eng:fra:por:may:jihad, spa:yihad, rus:джихад (džihad), jpn:ジハード (jihādo), kor:지하드 (jihadeu), hin:जिहाद (jihād)|
 |**gin**|ara: جِنّ (jinn), ful:wol:jinne, swa:jini, man:jinnoo, rus:джинн (džinn) + eng:genie, fra:génie, spa:genio, por:gênio + hin:जान (jān), ben:জান (jan), tur:can|
 |**ziva**|hin:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|
-|**joke**|eng:fra:joke, fas:جوک‎ (jok), jpn:ジョーク (jōku) + zho:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)|
+|**yoke**|eng:fra:joke, fas:جوک‎ (jok), jpn:ジョーク (jōku) + zho:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)|
 |**zong**|zho:中 (zhōng), yue:中 (zung1), kor:중 (jung), jpn:中 (chuu-), vie:trung|
 |**zovar**|fas: جواری‎ (jovâri), hin:ज्वार (jvār), ben:জোয়ার (joyār), ara: جَاوَرْس (jāwaras), eng:jawar|
-|**jube**|ara: جُبَّة (jubba), swa:juba, may:jubah, spa:aljuba, por:gibão, fra:jupon, rus:жупан (župan)|
-|**jude**|eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji, ful:juuju + rus:судья (sud'ya)|
-|**judau**|zho:柔道 (róudào), jpn:柔道 (jūdō), kor:유도 (yudo), vie:nhu đạo, eng:deu:fra:spa:por:may:tur:swa:judo, rus:дзюдо (dzyudo), ara: جُودُو‎ (jūdū), fas: جودو‎ (judo), hin:जूदो (jūdo)|
-|**jumla**|ara:(jumla), tur:cümle, hin:जुमला (jumlā), zho:句 (jù)|
-|**jun**|eng:fra:may:junior + spa:joven, por:jovem, fas: جوان‎ (javân), hin:जवान (javān) + kor:젊다 (jeomda)|
+|**yube**|ara: جُبَّة (jubba), swa:juba, may:jubah, spa:aljuba, por:gibão, fra:jupon, rus:жупан (župan)|
+|**yude**|eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji, ful:juuju + rus:судья (sud'ya)|
+|**yudau**|zho:柔道 (róudào), jpn:柔道 (jūdō), kor:유도 (yudo), vie:nhu đạo, eng:deu:fra:spa:por:may:tur:swa:judo, rus:дзюдо (dzyudo), ara: جُودُو‎ (jūdū), fas: جودو‎ (judo), hin:जूदो (jūdo)|
+|**yumla**|ara:(jumla), tur:cümle, hin:जुमला (jumlā), zho:句 (jù)|
+|**yun**|eng:fra:may:junior + spa:joven, por:jovem, fas: جوان‎ (javân), hin:जवान (javān) + kor:젊다 (jeomda)|
 |**zung**|zho:種 (zhǒng), yue:種 (zung2), wuu:種 (tson2), jpn:種 (shu), kor:종 (jong), vie:chủng|
-|**jus**|eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)|
-|**juste**|eng:just, fra:juste, spa:justo, ita:giusto, jpn:ジャスト (jasto)|
+|**yus**|eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)|
+|**yuste**|eng:just, fra:juste, spa:justo, ita:giusto, jpn:ジャスト (jasto)|
 |**kal**|eng:quality, deu:Qualität, fra:qualité, spa:calidad, por:qualidade, tur:kalite, may:kualitas|
 |**ka**|spa:por:fra:que, swa:kumliko, suo:kuin, lao:ກວ່າ (kuā), tgl:kaysa|
 |**kababu**|ara:fas:urd:  كباب (kabāb), tur:may:eng:spa:kebab, rus:кебаб (kebab), hin:कबाब (kabāb), ben:কাবাব (kabab), swa:kababu|

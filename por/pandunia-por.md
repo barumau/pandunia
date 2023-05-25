@@ -60,7 +60,7 @@ alumin - alumínio
 ame - amor  
 amer - amante  
 amike - querido (caro)  
-ame jen - querido  
+ame yen - querido  
 ama - mas  
 Amazon - Río Amazonas  
 Amazonia - Amazônia  
@@ -434,7 +434,7 @@ duna - duna (бархан)
 dure - duração  
 dure di - crónico  
 durometrer - cronómetro  
-dus jen - inimigo  
+dus yen - inimigo  
 • posprodution - pós-produção  
 dux - ducha  
 
@@ -749,30 +749,28 @@ ironia - ironia
 islamisme - islã  
 ite - pedra  
 itis - inflamaçao  
-
-## J  
-
+y - J  
 • azame - encontrar  
 zame karte - cromo  
 zamul - jambolão (jambo)  
 zan buda din - budismo zen  
-janela - janela  
+yanela - janela  
 zangal - selva (floresta, jângal)  
 kundi - jarra (jarro)  
 zaru - vassoura  
 zau - cevada  
-javabe - resposta  
-jebe - bolso (algebeira)  
-jebe caku - canivete  
+gavabe - resposta  
+zebe - bolso (algebeira)  
+zebe caku - canivete  
 zeka - emprestar (pedir emprestado)  
 zeka don - emprestar  
 zeka na - pedir emprestado  
-jen - pessoa  
-jen zamia - multidão  
+yen - pessoa  
+yen zamia - multidão  
 zenzu table - ábaco  
-jensen - ginseng  
-• projete - projeto  
-jete grafe - projeção  
+yensen - ginseng  
+• proyete - projeto  
+yete grafe - projeção  
 gihade - luta  
 gin - espírito (gênio)  
 ziva - viver (vivo; vida)  
@@ -782,15 +780,15 @@ zong fon - vogal
 zong xulekan - ensino secundário  
 Zong gogia - China  
 zovar - sorgo  
-jube - manto  
-• prejude - prejulgamento  
-juder - juiz  
-judau - judo  
-jul - joule (J)  
-jumla logia - sintaxe  
-jun - jovem  
-jus - suco (sumo)  
-juste - exato (preciso)  
+yube - manto  
+• preyude - prejulgamento  
+yuder - juiz  
+yudau - judo  
+yul - joule (J)  
+yumla logia - sintaxe  
+yun - jovem  
+yus - suco (sumo)  
+yuste - exato (preciso)  
 
 ## K  
 
@@ -897,7 +895,7 @@ kauri - búzio
 kave - cavar (escavar)  
 • exkave - escavar  
 ke - o que  
-ke jen - quem  
+ke yen - quem  
 ke loka - onde  
 ke riti - como  
 ke sata - quando  
@@ -1067,7 +1065,7 @@ lige - liga (aliança)
 lige su sanduke - Arca da Aliança  
 lima - cinco (5)  
 limon - limão  
-limon jus - limonada  
+limon yus - limonada  
 lin - linha (fio)  
 lin so - fibra  
 linke - conexão (vínculo, laço)  
@@ -1282,7 +1280,7 @@ muzike - música
 
 na - ter (achar, receber)  
 nabi - profetizar  
-nabija - profeta (arauto)  
+nabiya - profeta (arauto)  
 nadir - raro  
 nadir mar - raramente  
 nagis - poluição  
@@ -1330,7 +1328,7 @@ nese - ilha
 • konnetion - conexão  
 neu - novidade  
 neu di - novo  
-neu jen - novato (neófito)  
+neu yen - novato (neófito)  
 neuloge - neologismo  
 neunatike - recém-nascido (neonato)  
 neuta - novidade  
@@ -1389,8 +1387,8 @@ operate - obrar (operar)
 orange - laranja  
 orange rang - alaranjado  
 ordu - exército  
-ordu jen - soldado  
-ordu jen kan - quartel  
+ordu yen - soldado  
+ordu yen kan - quartel  
 ordu reger - generalíssimo  
 ore - orelha  
 ore tis - otite  
@@ -1400,7 +1398,7 @@ orto gonike - ortogonal
 oselote - jaguatirica (ocelote)  
 osidian - obsidiana  
 osmium - ósmio  
-oste jama - esqueleto  
+oste yama - esqueleto  
 oste xalke - escudo  
 oste yunte - articulação (junta)  
 ote - optar  
@@ -1442,7 +1440,7 @@ repare - reparar
 repare - reparo  
 reparer - reparador  
 par fase - nivel  
-par jen - par  
+par yen - par  
 par vezeta - equilíbrio  
 paranam - parónimo  
 pari - fada  
@@ -1546,7 +1544,7 @@ porte - portar
 • reporter - repórter  
 porto - porto  
 Portoriko - Porto Rico  
-portoriko jen - porto-riquenho  
+portoriko yen - porto-riquenho  
 posike - posterior  
 poste marke - carimbo  
 pote camaca - concha  
@@ -1863,7 +1861,7 @@ tur - turnê
 turbe - molestar (perturber)  
 • disturbe - perturbar (turbulência)  
 turbin - turbina  
-turbojeter - turbojato  
+turboyeter - turbojato  
 tuta - amoreira  
 tuzi - coelho (lebre)  
 
@@ -1990,7 +1988,7 @@ xipi - molhado
 xirope - xarope  
 xite - merda  
 xiti - perder  
-xiti bai ja - perdedor  
+xiti bai ya - perdedor  
 xiu - pequeno  
 xiu kaboga - abobrinha  
 xiu seku - pedrinha  

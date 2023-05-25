@@ -418,7 +418,6 @@
 **ga** *go (move through space)* ← English:go + Hindi:जाना (jānā), Bengali:যাওয়া (jaoya) + Korean:가다 (gada)  
 **gabre** *grave (tomb, bury)* ← Arabic:(qabr), Hindi:क़ब्र (qabra), Bengali:কবর (kôbôr), Malay:kubur, Hausa:kabari, Swahili:kaburi, Turkish:kabir + deu:Grab, Polish:grób, Russian:гроб (grob)  
 **gadolinium** *gadolinium* ← English:gadolinium, French:gadolinium, Spanish:gadolinio, Portuguese:gadolínio, Russian:гадолиний, Mandarin:钆 (gá), Japanese:ガドリニウム, Korean:가돌리늄, Vietnamese:gađolini, Hindi:ग्याडोलिनियम, Bengali:গ্যাডোলিনিয়াম, Malay:gadolinium, Swahili:gadolini, Arabic: جدولينيوم  
-**gaja** *elephant* ← Hindi:गज (gaj), Tamil:கசம் (kacam), Telugu:గజము (gajamu), Kannada:ಗಜ (gaja), Malay:gajah, Filipino:gadya  
 **gala** *throat (windpipe, gullet, pharynx)* ← English:gullet, Spanish:Portuguese:gola, far:گلو (galu), Hindi:गला (gala), Bengali:গলা (galā), pan:ਗਲਾ (galā) + Russian:горло (gorlo) + Arabic:حلق (halaq)  
 **galaxia** *galaxy* ← English:galaxy, Spanish:galaxia, Portuguese:galáxia, French:galaxie, Russian:галактика (galaktika), Turkish:Malay:galaksi, Hindi:गैलेक्सी (gaileksī)  
 **galeri** *gallery (exhibition hall)* ← English:gallery, Spanish:galería, Portuguese:galeria, French:galerie, Russian:галерея (galereya), Turkish:galeri, Hindi:गैलरी (gailrī), Japanese:ギャラリー (gyararī)  
@@ -444,6 +443,8 @@
 **gate** *cut (bite, incise)* ← Arabic: قَطَعَ (qaṭa’a) + Mandarin:割 (gē), Cantonese:割 (got3), Wu-Chinese:割 (ga’), Japanese:割 (katsu), Vietnamese:cắt + Hindi:काटना (kāṭnā), Bengali:কাটা (kata) + Tamil:கடி (kaṭi) + Thai:กัด (kat) + English:cut + Swahili:-kata  
 **gati** *hard (firm, solid, rigid, tough)* ← Telugu:గట్టి (gaṭṭi), Turkish:katı, Hindi:कड़ा (kaṛā), Japanese:硬い (katai)  
 **gau di** *high (tall)* ← Mandarin:高 (gāo), Cantonese:高 (gou1), Wu-Chinese:高 (kau1), Japanese:高 (kō), Korean:고 (go), Vietnamese:cao  
+**gavabe** *answer (reply, respond; response)* ← Arabic: جَوَاب‎ (jawāb), Hindi:जवाब (javāb), Bengali:জবাব (jobab), Malay:jawab, Fulani:jaabaade, Swahili:jibu,jawabu, Turkish:cevap  
+**gaya** *elephant* ← Hindi:गज (gaj), Tamil:கசம் (kacam), Telugu:గజము (gajamu), Kannada:ಗಜ (gaja), Malay:gajah, Filipino:gadya  
 **gaze** *gauze* ← deu:French:Portuguese:gaze, Japanese:ガーゼ (gāze), Russian:газ (gaz), English:gauze  
 **gazel** *gazelle* ← Arabic:(ḡazāl), English:French:gazelle, Russian:газель (gazel'), Japanese:ガゼル (gazeru)  
 **gazeta** *magazine (journal, gazette)* ← English:French:gazette, Russian:газета (gazeta), Swahili:gazeri, Turkish:gazete  
@@ -601,26 +602,6 @@
 **isme** *advocacy (promotion, -ism)* ← Thai:เสริม (soem) + English:-ism, French:-isme, Spanish:Portuguese:-ismo, Russian:-изм (-izm), Malay:-isme  
 **ite** *stone (piece of rock)* ← English:French:-ite, Spanish:Portuguese:-ito, Russian:-ит (-it) + (brick) Bengali:ইট (iṭ), Hindi:ईंट (ī̃ṭ), Thai:อิฐ (it), Khmer:ឥដ្ឋ (ʼət), Burmese: အုတ် (ut)  
 **itis** *inflammation (-itis)* ← English:Spanish:-itis, French:Portuguese:-ite, Russian:-ит (-it)  
-**jai** *win (triumph, victory, gain, succeed)* ← Hindi:जय (jay), Bengali:জয় (jôy), Telugu:జయ (jaya), Malay:jaya, Thai:ชัย (chai), Khmer:ជ័យ (cɨy), Burmese:ဇေယျ (jeyya)  
-**jain din** *Jainism* ← Hindi:Marathi:जैन (jain), Thai:เชน (chen), English:jainism, French:jaïnisme, Russian:джайнизм (džaynizm)  
-**jake** *jacket* ← English:jacket, Mandarin:夹克 (jiākè), Russian:жакет (žaket), deu:Jacke, Portuguese:jaqueta  
-**jampe** *jump* ← English:jump, Japanese:ジャンプ (janpu), Korean:점프 (jŏmp), Bengali:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)  
-**jan** *care (caution, attention, heed)* ← Hindi:ध्यान (dhyān), Bengali:ধ্যান (dhyān), Japanese:禅 (zen), English:French:Portuguese:zen, Russian:дзэн (dzen), Mandarin:禅 (chán), Korean:선 (seon), Vietnamese:thiền, Burmese:ဈာန် (jhan)  
-**janela** *window* ← Portuguese:janela, Bengali:জানালা (janala), Tamil:ஜன்னல் (jaṉṉal), Malay:jendela  
-**javabe** *answer (reply, respond; response)* ← Arabic: جَوَاب‎ (jawāb), Hindi:जवाब (javāb), Malay:jawab, Fulani:jaabaade, Swahili:jibu,jawabu, Turkish:cevap  
-**jebe** *pocket* ← Arabic: جَيْب‎ (jayb), Persian: جیب‎ (jib), Hindi:जेब (jeb), Punjabi:ਜੇਬ (jeb), Telugu:(jēbu), Turkish:cep, Portuguese:algebeira, Hausa:aljihu, Fulani:jiiba, Wolof:jiba, Amharic:ጅብ (ǧəb)  
-**jele** *prison (imprisonment)* ← English:jail, French:geôle, Hindi:जेल (jel), Bengali:জেল (jēl), Telugu:జైలు (jailu), Urdu: جیل‎ (jēl), Swahili:jela + Spanish:Portuguese:jaula  
-**jen** *person (individual)* ← Mandarin:人 (rén), wuu人 (zén), Japanese:人 (jin) + French:gens, Spanish:Portuguese:gente + Hindi:जन (jan), Bengali:-জন (-jôn), Malay:-jana, Thai:ชน (chon), Khmer:ជន (jon)  
-**jensen** *ginseng* ← Mandarin:人蔘 (rénshēn), Min-Chinese:人蔘 (jîn-sam), English:Spanish:Portuguese:Turkish:Malay:ginseng, Russian:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), Japanese:人参 (ninjin)  
-**jete** *thrust (throw, cast)* ← French:projet, Portuguese:projeto, English:project, Spanish:proyecto, Russian:проект (proyekt), Hindi:प्रोजैक्ट (projaikṭ), Bengali:প্রজেক্ট (prôjekṭ), Japanese:プロジェクト (purojekuto), Korean:프로젝트 (peurojekteu), Turkish:proje  
-**joke** *joke* ← English:French:joke, Persian:جوک‎ (jok), Japanese:ジョーク (jōku) + Mandarin:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
-**jube** *robe (tunica, gown, jubbah)* ← Arabic: جُبَّة (jubba), Swahili:juba, Malay:jubah, Spanish:aljuba, Portuguese:gibão, French:jupon, Russian:жупан (župan)  
-**judau** *judo* ← Mandarin:柔道 (róudào), Japanese:柔道 (jūdō), Korean:유도 (yudo), Vietnamese:nhu đạo, English:deu:French:Spanish:Portuguese:Malay:Turkish:Swahili:judo, Russian:дзюдо (dzyudo), Arabic: جُودُو‎ (jūdū), Persian: جودو‎ (judo), Hindi:जूदो (jūdo)  
-**jude** *judge* ← English:judge, French:juge, Spanish:juez, Portuguese:juiz, Hindi:जज (jaj), Bengali:জজ (jôj), Swahili:jaji, Fulani:juuju + Russian:судья (sud'ya)  
-**jumla** *sentence (phrase)* ← Arabic:(jumla), Turkish:cümle, Hindi:जुमला (jumlā), Mandarin:句 (jù)  
-**jun** *young (junior)* ← English:French:Malay:junior + Spanish:joven, Portuguese:jovem, Persian: جوان‎ (javân), Hindi:जवान (javān) + Korean:젊다 (jeomda)  
-**jus** *juice* ← English:juice, Swahili:jusi, Tamil:ஜூஸ் (jūs), Japanese:ジュース (jūsu), Korean:주스 (juseu)  
-**juste** *just (precise, exact, accurate)* ← English:just, French:juste, Spanish:justo, Italian:giusto, Japanese:ジャスト (jasto)  
 **ka** *than (as, compared to, relative to)* ← Spanish:Portuguese:French:que, Swahili:kumliko, suo:kuin, lao:ກວ່າ (kuā), Filipino:kaysa  
 **kababu** *barbecue (grill)* ← Arabic:Persian:Urdu:  كباب (kabāb), Turkish:Malay:English:Spanish:kebab, Russian:кебаб (kebab), Hindi:कबाब (kabāb), Bengali:কাবাব (kabab), Swahili:kababu  
 **kabile** *tribe* ← Arabic: قَبِيلَة‎ (qabīla), Persian: قبیله‎ (qabile), Hindi:क़बीला (qābilā), Turkish:kabile, Swahili:Hausa:kabila  
@@ -1590,35 +1571,53 @@
 **xuru** *beginning (start, commencement, onset)* ← Arabic: شُرُوع‎ (šurūʿ), Persian: شروع (šoru') , Hindi:शुरू (śurū), Bengali:শুরু (śuru) + Mandarin:始 (shǐ), Japanese:始 (kaishi), Korean:시 (shi)  
 **xux** *hush (shh)* ← English:shh, French:chut, Russian:ш-ш-ш, Mandarin:噓 (xū), Japanese:しーっ (shīt), Korean:쉿 (swit), Turkish:sus  
 **ya** *yes* ← English:yeah, deu:ja, Korean:예 (ye), Malay:ya  
+**yai** *win (triumph, victory, gain, succeed)* ← Hindi:जय (jay), Bengali:জয় (jôy), Telugu:జయ (jaya), Malay:jaya, Thai:ชัย (chai), Khmer:ជ័យ (cɨy), Burmese:ဇေယျ (jeyya)  
+**yain din** *Jainism* ← Hindi:Marathi:जैन (jain), Thai:เชน (chen), English:jainism, French:jaïnisme, Russian:джайнизм (džaynizm)  
+**yake** *jacket* ← English:jacket, Mandarin:夹克 (jiākè), Russian:жакет (žaket), deu:Jacke, Portuguese:jaqueta  
 **yake** *yak* ← English:deu:French:Spanish:Turkish:yak, Portuguese:iaque, Hindi:याक (yāk)  
 **yaki** *about (approximately, nearly, almost)* ← Korean:약 (yak), Japanese:約 (yaku), Cantonese:約 (yœk), Turkish:yaklaşık, Mandarin:约 (yuē)  
 **yam** *consume (eat or drink)* ← Khmer:ញ៉ាំ (nyam), Fulani:nyaamude + Spanish:ñam, Russian:ням (nyam), Italian:gnam, English:yum, Korean:냠냠 (nyamnyam), Hungarian:nyam  
 **yama** *flax (linen)* ← Mandarin:亚麻 (yàmá), Cantonese:亞麻 (aa3maa4), Japanese:亜麻 (ama), Korean:아마 (ama), Hindi:उमा (umā)  
+**yanela** *window* ← Portuguese:janela, Bengali:জানালা (janala), Tamil:ஜன்னல் (jaṉṉal), Malay:jendela  
 **yang** *yang (positive, bright, living, hard, masculine)* ← Mandarin:阳 (yáng), Cantonese:陽 (joeng4), Japanese:陽 (yō), Korean:양 (yang), Vietnamese:dương, English:deu:French:Spanish:Portuguese:yang, Russian:ян (yan)  
 **yatim** *orphan* ← Arabic: يَتِيم‎ (yatīm), Persian: یتیم‎ (yatim), Turkish:yetim, Malay:yatim, Swahili:yatima, Hindi:यतीम (yatīm), Bengali:এতিম (etim), Tamil:எத்தீம் (ettīm), Fulani:bii atiimu  
 **yau** *need (lack, require)* ← Mandarin:要 (yāo), Cantonese:要 (jiu1), Wu-Chinese:要 (yo1), Japanese:要 (yō), Vietnamese:yêu  
 **ye** *this* ← Korean:이 (i) + Bengali:এ (e), Hindi:यह (ye) + Telugu:ఈ (ī), Tamil:இது (itu) + Yoruba:yìí  
 **yeka** *exchange (replace, trade, swap)* ← Mandarin:易 (yì), Cantonese:易 (yik6), Japanese:易 (eki), Korean:역 (yeok), Vietnamese:dịch  
+**yele** *prison (imprisonment)* ← English:jail, French:geôle, Hindi:जेल (jel), Bengali:জেল (jēl), Telugu:జైలు (jailu), Urdu: جیل‎ (jēl), Swahili:jela + Spanish:Portuguese:jaula  
 **yem** *salt* ← Mandarin:盐 (yán), Cantonese:鹽 (yim4), Japanese:塩 (en), Korean:염 (yeom), Vietnamese:diêm  
+**yen** *person (individual)* ← Mandarin:人 (rén), wuu人 (zén), Japanese:人 (jin) + French:gens, Spanish:Portuguese:gente + Hindi:जन (jan), Bengali:-জন (-jôn), Malay:-jana, Thai:ชน (chon), Khmer:ជន (jon)  
+**yensen** *ginseng* ← Mandarin:人蔘 (rénshēn), Min-Chinese:人蔘 (jîn-sam), English:Spanish:Portuguese:Turkish:Malay:ginseng, Russian:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), Japanese:人参 (ninjin)  
 **yepa** *leaf (sheet)* ← Mandarin:叶 (yè), Cantonese:葉 (jip6), Korean:잎 (ip);엽 (yeop), Vietnamese:diệp, Japanese:葉 (yō)  
+**yete** *thrust (throw, cast)* ← French:projet, Portuguese:projeto, English:project, Spanish:proyecto, Russian:проект (proyekt), Hindi:प्रोजैक्ट (projaikṭ), Bengali:প্রজেক্ট (prôjekṭ), Japanese:プロジェクト (purojekuto), Korean:프로젝트 (peurojekteu), Turkish:proje  
 **yezi** *coconut tree* ← Mandarin:椰子 (yēzi), Cantonese:椰子 (ye4zi2), Korean:야자 (yaja), Japanese:椰子 (yashi)  
 **yim** *yin (negative, dark, ghostly, soft, feminine)* ← Mandarin:阴 (yīn), Cantonese:陰 (jam1), Japanese:陰 (in), Korean:음 (eum), Vietnamese:âm, English:deu:French:Spanish:Portuguese:yin, Russian:инь (in')  
 **yo** *some (one)* ← Mandarin:有 (yǒu), Cantonese:有 (jau5)  
 **yoga** *yoga* ← Hindi:योग (yog), Punjabi:ਯੋਗ (yog), Urdu:(yog), Bengali:যোগ (jog), Telugu:యోగా (yōgā), Thai:โยคะ (yōga), English:French:Spanish:Malay:Turkish:yoga, Portuguese:ioga, Russian:йога (yoga), Mandarin:瑜伽 (yújiā), Japanese:ヨーガ (yōga), Korean:요가 (yoga)  
 **yogur** *yogurt* ← English:Malay:yogurt, French:yogourt, Spanish:yogur, Portuguese:iogurte, Russian:йогурт (yogurt), Mandarin:优格 (yōugé), Japanese:ヨーグルト (yōguruto), Korean:요구르트 (yogureuteu), Turkish:yoğurt   
 **yoke** *jade* ← Mandarin:玉 (yù), Cantonese:玉 (yuk6), nan:玉 (gio̍k), Japanese:玉 (gyoku), Vietnamese:ngọc (玉), Korean:옥 (ok), Malay:giok, Thai:หยก (yok), Khmer:យក់ (yuək)  
+**yoke** *joke* ← English:French:joke, Persian:جوک‎ (jok), Japanese:ジョーク (jōku) + Mandarin:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
 **yota** *yotta-* ← English:French:Spanish:Portuguese:yotta, Malay:yota-, Mandarin:尧它- (yáotā-), Japanese:ヨタ- (yota-), Korean:요타- (yota-)  
 **you** *infantile (juvenile, immature)* ← Mandarin:幼 (yòu), Cantonese:幼 (yau3), Japanese:幼 (yõ), Korean:유 (yu) + Hindi:युवा (yuvā), Tamil:யுவன் (yuvaṉ), Telugu:యువ (yuva) + Spanish:joven, Portuguese:jovem, French:juvénile  
+**yube** *robe (tunica, gown, jubbah)* ← Arabic: جُبَّة (jubba), Swahili:juba, Malay:jubah, Spanish:aljuba, Portuguese:gibão, French:jupon, Russian:жупан (župan)  
+**yudau** *judo* ← Mandarin:柔道 (róudào), Japanese:柔道 (jūdō), Korean:유도 (yudo), Vietnamese:nhu đạo, English:deu:French:Spanish:Portuguese:Malay:Turkish:Swahili:judo, Russian:дзюдо (dzyudo), Arabic: جُودُو‎ (jūdū), Persian: جودو‎ (judo), Hindi:जूदो (jūdo)  
+**yude** *judge* ← English:judge, French:juge, Spanish:juez, Portuguese:juiz, Hindi:जज (jaj), Bengali:জজ (jôj), Swahili:jaji, Fulani:juuju + Russian:судья (sud'ya)  
 **yuge** *yoke* ← English:yoke, Spanish:yugo, Portuguese:jugo, French:joug, Russian:иго (igo), Persian:  یوغ‎ (yuğ) + Cantonese:軛 (aak1), Vietnamese:ách  
+**yumla** *sentence (phrase)* ← Arabic:(jumla), Turkish:cümle, Hindi:जुमला (jumlā), Mandarin:句 (jù)  
+**yun** *young (junior)* ← English:French:Malay:junior + Spanish:joven, Portuguese:jovem, Persian: جوان‎ (javân), Hindi:जवान (javān) + Korean:젊다 (jeomda)  
 **yunte** *joint (join)* ← English:joint, French:jonction, Spanish:Portuguese:junta, deu:Junktion  
 **yurta** *yurt (ger)* ← Turkish:English:yurt, deu:Jurte, French:yourte, Spanish:yurta, Portuguese:iurte, Russian:юрта (yurta), Hindi:युर्त (yurt), Korean:유르트 (yureuteu)  
+**yus** *juice* ← English:juice, Swahili:jusi, Tamil:ஜூஸ் (jūs), Japanese:ジュース (jūsu), Korean:주스 (juseu)  
+**yuste** *just (precise, exact, accurate)* ← English:just, French:juste, Spanish:justo, Italian:giusto, Japanese:ジャスト (jasto)  
 **yuterbium** *ytterbium* ← English:ytterbium, French:ytterbium, Spanish:iterbio, Portuguese:itérbio, Russian:иттербий, Mandarin:镱 (yì), Japanese:イッテルビウム, Korean:이테르븀, Vietnamese:ytecbi, Hindi:यिट्टरबियम, Bengali:ইটারবিয়াম, Malay:iterbium, Swahili:yitebi, Arabic: يتربيوم  
 **yutrium** *yttrium* ← English:yttrium, French:yttrium, Spanish:itrio, Portuguese:itrio, Russian:иттрий, Mandarin:钇 (yǐ), Japanese:イットリウム, Korean:이트륨, Vietnamese:ytri, Hindi:इत्रियम, Bengali:ইটরিয়াম, Malay:itrium, Swahili:yitri, Arabic: يتريوم  
 **zai** *exist (presently, currently)* ← Mandarin:在 (zài), Cantonese:在 (zoi6), Japanese:在 (zai), Vietnamese:tại  
 **zalime** *oppress (bully)* ← Arabic: ظَالِم‎ (ẓālim), Persian: ظالم‎ (zâlem), Hindi:ज़ालिम (zālim), Turkish:Malay:zalim, Swahili:dhalimu, Hausa:zalumci  
 **zaman** *period (era, epoch, term)* ← Malay:jam, Arabic: زَمَن‎ (zaman), Hausa:Swahili:zamani, Fulani:jamaanu, Turkish:zaman, Persian: زمان‎ (zamân), Hindi:समय (samay), Bengali:সময় (sômyô)  
 **zamia** *collection (congregation, assembly)* ← Arabic: جَمَعَ‎ (jamaʿa), Swahili:jamii, Turkish:camia, Persian: جمع (jam’), Hausa:jam'iyya + Hindi:जमात (jamāt)  
+**zampe** *jump* ← English:jump, Japanese:ジャンプ (janpu), Korean:점프 (jŏmp), Bengali:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)  
 **zamul** *jamul (jambul, rose apple)* ← Hindi:जामुन (jāmun), English:jambul, Portuguese:jambolão, Arabic:جَمُّون (jammūn), Swahili:zambarau  
+**zan** *care (caution, attention, heed)* ← Hindi:ध्यान (dhyān), Bengali:ধ্যান (dhyān), Japanese:禅 (zen), English:French:Portuguese:zen, Russian:дзэн (dzen), Mandarin:禅 (chán), Korean:선 (seon), Vietnamese:thiền, Burmese:ဈာန် (jhan)  
 **zang suta** *martial art* ← Mandarin:武术 (wǔshù), Japanese:武術 (bujutsu), Vietnamese:võ thuật, Korean:무술 (musul), English:martial art  
 **zang** *fight (war, battle, combat)* ← Persian: جنگ (jang), Hindi:जंग (jang), Bengali:জঙ্গ (jôṅg), Turkish:cenk + Mandarin:仗 (zhàng); 爭 (zhēng), Cantonese:争 (zang1), Korean:전쟁 (jeonjaeng), Vietnamese:(chiến) tranh + Malay:juang  
 **zangal** *forest (woods, jungle)* ← English:French:jungle, Spanish:jungla, Portuguese:jângal, Russian:джунгли (džungli), Hindi:जंगल (jangal), Bengali:জঙ্গল (jônggôl), Malay:jenggela, Japanese:ジャングル (janguru), Korean:정글 (jeonggeul), Turkish:cengel  
@@ -1626,6 +1625,7 @@
 **zar** *hazard (chance)* ← Arabic: زَهْر (zahr), Turkish:zar, Persian: زار (zâr) + English:hazard, Spanish:Portuguese:azar, Hausa:hazari  
 **zaru** *broom (sweep)* ← Hindi:झाड़ू (jhāṛū), Bengali:ঝাড়ু (jhaṛu) + Korean:빗자루 (bitjaru)  
 **zau** *barley* ← Hindi:जौ (jau), Bengali:যব (jôb), Marathi:जव (jav), Gujarati:જવ (jav), Persian: جو‎ (jow)  
+**zebe** *pocket* ← Arabic: جَيْب‎ (jayb), Persian: جیب‎ (jib), Hindi:जेब (jeb), Punjabi:ਜੇਬ (jeb), Telugu:(jēbu), Turkish:cep, Portuguese:algebeira, Hausa:aljihu, Fulani:jiiba, Wolof:jiba, Amharic:ጅብ (ǧəb)  
 **zebra** *zebra* ← English:deu:Portuguese:Turkish:Malay:zebra, French:zèbre, Spanish:cebra, Russian:зебра (zebra), Hindi:ज़ेब्रा (zebrā), Bengali:জেবরা (jebra), Japanese:ゼブラ (zebura)  
 **zeka na** *borrow* ← Mandarin:借 (jiè), Cantonese:借 (ze3), Japanese:借 (shaku), Korean:적 (jeok) + English:check  
 **zeka** *borrow (lend)* ← Mandarin:借 (jiè), Cantonese:借 (ze3), Wu-Chinese:借 (jia2), Japanese:借 (shaku), Korean:적 (jeok) + English:check  

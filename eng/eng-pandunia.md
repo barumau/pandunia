@@ -6,7 +6,7 @@
 ## A  
 
 a couple of - du o tri  
-a sea of people (huge crowd) - jen bahai  
+a sea of people (huge crowd) - yen bahai  
 abacus - zenzu table  
 abattoir (slaughterhouse) - karnekan  
 Abaza language - Abaze baxe  
@@ -45,7 +45,7 @@ adjective - sifa loge
 admiral - bahai amirer  
 admire (adore) - fanate  
 admire - amire  
-adult - ceng jen  
+adult - ceng yen  
 adultery (infidelity) - zina  
 advanced (high-level) - gau gradu di  
 advancement (milestone) - progresion  
@@ -176,7 +176,7 @@ animation (cartoon) - animage
 animism - animisme  
 anise - anis  
 anniversary - nen festa  
-answer (reply, respond; response) - javabe  
+answer (reply, respond; response) - gavabe  
 ant - murmeke  
 Antarctic Ocean - Antartika Bahai  
 Antarctica - Antartika  
@@ -360,7 +360,7 @@ Barbuda - Barbuda
 barium - barium  
 barley - zau  
 barometer - air prese metrer  
-barracks - ordu jen kan  
+barracks - ordu yen kan  
 barrel (can, cask) - tong  
 barrier (fence) - bare mur  
 bartender - bar vala  
@@ -523,8 +523,8 @@ box (container) - kase
 boxer - bocer  
 boxer shorts (boxers) - boce pante  
 boxing - boce  
-boy - jun man  
 boy - you nan  
+boy - yun man  
 boycott - boikote  
 Brahma - Brahma  
 brain - nau  
@@ -663,7 +663,7 @@ carbon (coal) - karbe
 carbon dioxide - karbe duoxide  
 carboxyle - karboxil  
 card - karta  
-care (caution, attention, heed) - jan  
+care (caution, attention, heed) - zan  
 career (professional life) - pei kar zive  
 careful (cautious, attentive, alert, wary) - zanive  
 Caribbean - Karibe  
@@ -786,7 +786,7 @@ cinematic - motografike
 cinematography - motografia  
 circle - sirke  
 circus - sirkus  
-citizen - gogia jen  
+citizen - gogia yen  
 citrus fruit - limon orange  
 city (town) - pole  
 city state - pole gogia  
@@ -846,7 +846,7 @@ coffee cup - kafe kupa
 coffeepot - kafe pote  
 cognition - kenation  
 coin - pesa diske  
-cola - kola jus  
+cola - kola yus  
 cold (illness) - zukam  
 cold - leng  
 collaborate (work together) - konkar  
@@ -880,7 +880,7 @@ communicate (inform about) - kenize
 communism - koncanisme  
 communist - koncaniste  
 Comoros - Komoro nesia  
-companion (partner, sidekick) - late jen  
+companion (partner, sidekick) - late yen  
 company (corporation) - kompani  
 compass (magnetized needle) - dike pin  
 compassion (sympathy) - sam emos  
@@ -888,7 +888,7 @@ compassion - konpatia
 compatible (interoperable, supported) - konfuntebil  
 compatible (supported) - konfuntebil  
 compatriot (fellow citizen) - konpatrian  
-compatriot - sam gogia jen  
+compatriot - sam gogia yen  
 complain (lament) - xikaye  
 complete (make done) - pul fina  
 complicated - konplike  
@@ -1011,7 +1011,7 @@ cross - krus
 crossbow (ballista) - krus arka  
 crosshair (reticle) - krus lin  
 crouch (squat) - lipa side  
-crowd - jen zamia  
+crowd - yen zamia  
 crown - korona  
 cruelty (tyranny, despotism) - zalimia  
 cry (boo-hoo, alas, woe) - uhu  
@@ -1063,7 +1063,7 @@ dangerous (perilous) - hatar di
 Danish - Danske  
 dark (dim) - oskur  
 darling (dear companion) - bau bei  
-darling (honey) - ame jen  
+darling (honey) - ame yen  
 darmstadtium - darmestadium  
 Darwinism - darvinisme  
 Darwinist - darviniste  
@@ -1253,7 +1253,7 @@ duck - bata
 dump (junk yard) - lasa stan  
 dumpling (ravioli, pelmeni) - mantu  
 dune - duna  
-dungeon (underground prison) - geo nice jela  
+dungeon (underground prison) - geo nice yela  
 dungeon crawl - dongen ventur  
 durable (endurable, sustainable) - durebil  
 duration (time interval) - dure  
@@ -1295,18 +1295,18 @@ Egypt - Misre
 Egyptian - misrian  
 eight (8) - bati  
 einsteinium - einsteinium  
-eject (throw out) - exjete  
+eject (throw out) - exyete  
 El Salvador - Salvador  
 elastic - elastike  
 elbow - kudi  
-elder - lau jen  
+elder - lau yen  
 elder sibling - sen sau  
 electric - eletrike  
 electricity - eletre  
 electrolysis - eletrolize  
 electron - eletron  
 elegant (chic) - xike  
-elephant - gaja  
+elephant - gaya  
 elf - elfe  
 embassy - dai angilkan  
 emerald - ezmurude  
@@ -1325,7 +1325,7 @@ encode (encrypt) - inkode
 end (ending) - fine  
 ended (finished) - finike  
 endonym - in nam  
-enemy (foe, villain) - dus jen  
+enemy (foe, villain) - dus yen  
 enemy (unfriend) - andoste  
 energy - energia  
 engine (motor) - moter  
@@ -1388,7 +1388,7 @@ evening - xam
 event (case, instance) - kasu  
 every (all) - pan  
 every (each) - pan un  
-everybody (everyone) - pan jen  
+everybody (everyone) - pan yen  
 everything - pan xe  
 evident (apparent, obvious) - exvidebil  
 evildoer - duskarer  
@@ -1691,7 +1691,7 @@ Germany - Doice
 gesture - geste  
 get (obtain, take, grasp, receive) - na  
 get off (descend) - detrepe  
-getter (receiver, recipient) - na ja  
+getter (receiver, recipient) - na ya  
 Ghana - Gana  
 gherkin (pickle) - acar hiyar  
 ghost (phantom) - fantom  
@@ -1701,10 +1701,10 @@ Gibraltar - Gibraltar
 gift - donage  
 gift certificate (gift card) - donage ceke  
 ginger - ginge  
-ginseng - jensen  
+ginseng - yensen  
 giraffe - zirafa  
-girl - jun fem  
 girl - you ni  
+girl - yun fem  
 give - don  
 give consultation - konsel  
 glass - glas  
@@ -1806,7 +1806,7 @@ guilty - doxike
 Guinea - Konakri Ginia  
 Guinea-Bissau - Bisau Ginia  
 guitar - gitar  
-Gujarati - gujarati  
+Gujarati - guyarati  
 gun (cannon) - dai pau  
 gun (firearm) - pau gi  
 gunpowder - barude  
@@ -2023,7 +2023,7 @@ illusion (hallucination) - mite vide
 illustrator (graphic artist) - grafer  
 image processing - grafe cule  
 image projector - grafe lanse gi  
-image projector - grafe projeter  
+image projector - grafe proyeter  
 image resolution - grafe fineta  
 imagine (fantasize) - fantaze  
 imitator (mime) - mimer  
@@ -2036,7 +2036,7 @@ imperialist - imperialiste
 implosion - in bum  
 import - in mise  
 important - ham di  
-imprison (jail) - jele  
+imprison (jail) - yele  
 impure (polluted, defiled, tainted) - nagis di  
 incarnate - inkarnate  
 incarnation (embodiment) - inkarnatike  
@@ -2059,7 +2059,7 @@ Indochina - Hindocin
 Indonesia - Indonesia  
 induce (introduce, lead in) - indute  
 Indus river - Hinde rivo  
-infant (child) - you jen  
+infant (child) - you yen  
 infantile (juvenile, immature) - you  
 infect (infection) - infete  
 infection (infestation, contagion) - patomise  
@@ -2070,8 +2070,8 @@ inflammation (-itis) - itis
 information (communicable knowledge) - konkenage  
 initial (first) - xuru di  
 initial (first; prime) - prime  
-inject - injete  
-injection - injetage  
+inject - inyete  
+injection - inyetage  
 ink - kalam sui  
 inkbrush (calligraphy brush) - brox kalam  
 inn (fonduk, tavern) - panduke  
@@ -2111,7 +2111,7 @@ intestines (entrails, guts, bowels, viscera) - intrage
 intrastructure (underbuilding) - baze strute  
 introspection - in vide  
 introspection - introspete  
-introvert - in verse jen  
+introvert - in verse yen  
 introvert - intraverse  
 invite - cing lai  
 invoke - invoke  
@@ -2135,15 +2135,15 @@ Israel - Israel
 issue (affair, concern) - sual tema  
 Italy - Italia  
 
-## J  
+## y  
 
 jackal - xakal  
-jacket - jake  
+jacket - yake  
 jade - yoke  
-jailer (imprisoner) - jeler  
-Jainism - jain din  
-Jakarta - Jakarta  
-Jamaica - Jamaika  
+jailer (imprisoner) - yeler  
+Jainism - yain din  
+Jakarta - yakarta  
+Jamaica - yamaika  
 jamul (jambul, rose apple) - zamul  
 January - mes un  
 Japan - Nipon  
@@ -2151,7 +2151,7 @@ Japanese - nipon di
 jar (jug, pitcher, carafe, amphora, vase) - kundi  
 jasmine - moli  
 jasmine tea - moli hua cai  
-jazz - jaze  
+jazz - yaze  
 jealous - garde zelo  
 jellyfish (seajelly) - bahai gele  
 Jersey - Gerze  
@@ -2163,30 +2163,30 @@ Jesus Christ - Yesa Mesi
 Jewish - yehude  
 joint (connection of bones) - oste yunte  
 joint (join) - yunte  
-joke - joke  
-joker - joker  
+joke - yoke  
+joker - yoker  
 Jordan - Urdun  
-joule (J) - jul  
+joule (J) - yul  
 journalist - gazeter  
 Judaism - yehudisme  
-judge (referee) - juder  
-judge - jude  
-judgement (sentence) - judage  
-judicial - judike  
-judo - judau  
-juice - jus  
+judge (referee) - yuder  
+judge - yude  
+judgement (sentence) - yudage  
+judicial - yudike  
+judo - yudau  
+juice - yus  
 juice beverage - frute xarbe  
 July - mes ceti  
-jump - jampe  
+jump - zampe  
 junction (intersection of roads) - dau yunte  
 junction - yuntion  
 juncture (junction, intersection) - yunture  
 June - mes luka  
-junior fellow (kouhai) - jun bei  
+junior fellow (kouhai) - yun bei  
 junta - zalim yunte  
 Jupiter - Muxin  
 just (fair, righteous) - adil  
-just (precise, exact, accurate) - juste  
+just (precise, exact, accurate) - yuste  
 just (recently) - a neu  
 justice - adilta  
 
@@ -2221,7 +2221,7 @@ khaki - haki rang
 Khartoum - Hartum  
 kidney - nefre  
 kill - matafa  
-killer - mataja  
+killer - mataya  
 kilogram (kg) - kilogram  
 kilometer (km) - kilomitre  
 kimono - kimono  
@@ -2319,7 +2319,7 @@ leg - fute xaka
 legal (lawful, canonical) - kanunike  
 legible (readable) - letebil  
 lemon - limon  
-lemonade - limon jus  
+lemonade - limon yus  
 lend - zeka don  
 length - longta  
 lengthen (prolong) - longife  
@@ -2385,8 +2385,8 @@ Lithuanian - lietuva baxe
 litre (liter) - litre  
 little (few, not many) - kam  
 little (small) - xiu  
-little brother (younger brother) - jun bra  
-little sister (younger sister) - jun sis  
+little brother (younger brother) - yun bra  
+little sister (younger sister) - yun sis  
 live (be alive; living; life, existence) - ziva  
 liver - hepate  
 livermorium - livermorium  
@@ -2422,7 +2422,7 @@ loose (laxe; loosen, let loose, let go) - laxe
 loquat - pipa frute  
 lose (be defeated) - bai  
 lose (misplace, miss, shed) - xiti  
-loser - xiti bai ja  
+loser - xiti bai ya  
 lot (plot of land) - geo tike  
 lot - lote  
 lottery - lotation  
@@ -2780,7 +2780,7 @@ multinational - poli nasi di
 multinational - polinasial  
 multiple - polipli  
 Mumbai (Bombay) - Mumbai  
-mummy - mum jen  
+mummy - mum yen  
 muscle - muskul  
 mushroom (sporocarp) - fungu frute  
 music - muzike  
@@ -2815,7 +2815,7 @@ Namibia - Namibia
 nano- - nano  
 nanometer - nano mitre  
 narcosis - narkose  
-narrator - kata ja  
+narrator - kata ya  
 nasal - nos di  
 nation - nasia  
 national - nasial  
@@ -2900,7 +2900,7 @@ Niue - Niue
 Noah - Noe  
 Noah’s arc - Noe di nave  
 nobelium - nobelium  
-nobody (no-one) - siro jen  
+nobody (no-one) - siro yen  
 noise - kelele  
 noodle - mien  
 noon (midday) - medi dia  
@@ -2930,7 +2930,7 @@ noun - nam lexe
 novel - long kata  
 novelty (new product) - neu  
 November - mes des un  
-novice (newbie) - neu jen  
+novice (newbie) - neu yen  
 nuclear energy - kerne energi  
 nuclear fission - kerne cira  
 nuclear fusion - kerne unta  
@@ -2991,7 +2991,7 @@ on behalf of - a vakil de
 once (one time) - un mar  
 oncilla - bagre oselote  
 one (1) - un  
-one (impersonal pronoun: people, you) - jen (jen men)  
+one (impersonal pronoun: people, you) - yen (yen men)  
 one-eyed - unokike  
 online - a lin  
 only (lone, single, individual) - mone  
@@ -3055,12 +3055,12 @@ ouch (expressing pain, distress, shock and fear) - ayo
 our - mimen su  
 oust (expel, exclude, except, save) - expoze  
 outcast (pariah) - paraya  
-outcome (victory or defeat) - jaibai  
+outcome (victory or defeat) - yaibai  
 outer (external) - exike  
 output - expute  
 outside (exterior) - vai  
 outside - a vai  
-outsider - vai jen  
+outsider - vai yen  
 oven (furnace) - tanur  
 overflow (spill out) - vai dara  
 overpass - supra  
@@ -3183,7 +3183,7 @@ pebble (gravel) - xiu seku
 pedal - pedal  
 pedophilia - pedofilia  
 pedophobia - pedofobia  
-peer - par jen  
+peer - par yen  
 peer - sam bei  
 pen (writing tool) - kalam  
 penal (penetenciary) - fatu di  
@@ -3211,8 +3211,8 @@ peroxide - peroxide
 peroxide - peroxide  
 Persia (Persian; Farsi) - parsi  
 persimmon (kaki) - kaki  
-person (individual) - jen  
-personal (intimate, private, custom) - jen di  
+person (individual) - yen  
+personal (intimate, private, custom) - yen di  
 personal identification number (PIN) - sekur nume  
 personalize (customize) - autife  
 perspective (point of view) - vide punte  
@@ -3314,8 +3314,8 @@ pluck feathers - depena
 Pluto (dwarf planet) - Pluton  
 plutonium - plutonium  
 pneumonia - pulmonitis  
-pocket - jebe  
-pocketknife - jebe caku  
+pocket - zebe  
+pocketknife - zebe caku  
 podzol - hui darte  
 poem - xir  
 poet - xirer  
@@ -3400,7 +3400,7 @@ prefer (favor) - max fili
 prefix - prefixe  
 pregnant - hamil  
 prehistory - prehistoria  
-prejudice - prejude  
+prejudice - preyude  
 prenatal - prenatal  
 preposition - prepozage  
 presence (existence) - zaita  
@@ -3419,9 +3419,9 @@ primary school (elementary school, gradeschool) - baze xulekan
 prime minister - xefe ministrer  
 principle - bazisme  
 print (stamp) - cape  
-prison (imprisonment) - jele  
-prison (jail) - jelekan  
-prisoner - jele jen  
+prison (imprisonment) - yele  
+prison (jail) - yelekan  
+prisoner - yele yen  
 pristine (virginal) - virgal  
 privateer (buccaneer) - nave kaper  
 privatize - privatize  
@@ -3442,8 +3442,8 @@ professor - profesor
 program (set of structured activities) - programe  
 programmer (coder) - programer  
 progress (stride forward, advance, go forward) - progrese  
-project (cast; projection image) - jete grafe  
-project (forecast, endeavour) - projete  
+project (cast; projection image) - yete grafe  
+project (forecast, endeavour) - proyete  
 projectile (missile) - lanse xe  
 projection (image) - lanse grafi  
 Prometheus - Promete  
@@ -3458,7 +3458,7 @@ propel (drive forward) - propele
 propeller - propeler  
 property (belongings, possessions) - mal  
 prophecy (prophesy, prophetize) - nabi  
-prophet (harbinger, herald) - nabija  
+prophet (harbinger, herald) - nabiya  
 prophet Mani - Mani  
 propose (put forth; proposal, suggestion) - propoze  
 protactinium - protacinium  
@@ -3474,7 +3474,7 @@ public (people in general) - deme
 public - demal  
 public - populike  
 pudding - puding  
-Puerto Rican - portoriko jen  
+Puerto Rican - portoriko yen  
 Puerto Rico - Portoriko  
 pufferfish - balon pexe  
 pull - tire  
@@ -3590,7 +3590,7 @@ regress (fall back) - regrese
 reign (rule as an emperor) - impere  
 reincarnation - reinkarnation  
 reinforcements - max ordu  
-reject (throw back) - rejete  
+reject (throw back) - reyete  
 relax - relaxe  
 relexify - rilexife  
 relic (remains, corpse) - xarir  
@@ -3666,7 +3666,7 @@ road sign - dau bano
 roast - xava  
 rob (loot, plunder, pillage, ransack) - luta  
 robber (plunderer) - lutar  
-robe (tunica, gown, jubbah) - jube  
+robe (tunica, gown, jubbah) - yube  
 robot (bot) - robote  
 rock (sway, tilt) - roke  
 rock - petra  
@@ -3737,7 +3737,7 @@ sago - sagu fun
 sago palm - sagu  
 Sahrawi Arab Democratic Republic - Sahara Dexa  
 sail - nave ga  
-sailer - nave ga ja  
+sailer - nave ga ya  
 sailor (seaman, mariner) - bahai vala  
 Saint Helena - Sante Helena  
 Saint John's Day - Yohan festa  
@@ -3763,8 +3763,8 @@ sandstone - sablite
 sandwich - sanduice  
 Sao Paulo - Sante Paulo  
 Sao Tome and Principe - Sante Tome e Principe  
-sapling - jun moka  
 sapling - you moke  
+sapling - yun moka  
 sari - sari  
 Satanism (devil worship) - xatanisme  
 Satanist - xataniste  
@@ -3858,7 +3858,7 @@ sense (method of perception) - sense
 sense (reason, intellect) - akle  
 sensitive (perceptive) - senser  
 sensor (detector) - sense gi  
-sentence (phrase) - jumla  
+sentence (phrase) - yumla  
 September - mes tisa  
 Serbia - Serbia  
 series (sequence, succession) - seria  
@@ -3948,7 +3948,7 @@ six (6) - luka
 size - daita  
 sizzle - zizi  
 skate - skete  
-skeleton (frame) - oste jama  
+skeleton (frame) - oste yama  
 skewer - xix  
 skill (art, craft) - sute  
 skillful (crafty, dexterous) - sutive  
@@ -3979,7 +3979,7 @@ snake (serpent) - serpe
 snatch (remove) - decepe  
 sneak - sir move  
 sneeze (achoo) - aci  
-sniper (sharpshooter) - juste pauer  
+sniper (sharpshooter) - yuste pauer  
 snow - hima  
 snow drift - hima duna  
 soak (steep, marinate) - pul xipi  
@@ -3999,14 +3999,14 @@ software (virtual device) - programage
 soil (dirt, ground) - darte  
 soily (dirty) - dartike  
 solar system - sol sistem  
-soldier - ordu jen  
+soldier - ordu yen  
 solid - gati mate  
 Solomon Islands - Solomon nesia  
 solstice - solostate  
 Somalia - Somal  
 Somaliland - Somal Dexa  
 some (one) - yo  
-someone (somebody) - yo jen  
+someone (somebody) - yo yen  
 something - yo xe  
 sometime - yo sata  
 son - son  
@@ -4189,7 +4189,7 @@ syllable - lexe fen
 symbol (emblem) - simbol  
 symmetry (symmetrical) - sammetria  
 synchretism - sinkredisme  
-syntax (study of phrases) - jumla logia  
+syntax (study of phrases) - yumla logia  
 syntax - sintaxe  
 synthesis - sinteze  
 Syria - Suria  
@@ -4335,7 +4335,7 @@ throat (windpipe, gullet, pharynx) - gala
 through - tra  
 throw (launch) - lanse  
 throw up (vomit, regurgitate) - retro gula  
-thrust (throw, cast) - jete  
+thrust (throw, cast) - yete  
 Thule - Tule  
 thulium - tulium  
 thunder (roaring) - grom  
@@ -4462,7 +4462,7 @@ Tunisia - Tunis
 tunnel - tunel  
 turban - pagri  
 turbine - turbin  
-turbojet - turbojeter  
+turbojet - turboyeter  
 turkey - dinde  
 Turkey - Turkia  
 Turkish langage - turke baxe  
@@ -4572,7 +4572,7 @@ vial (phial, flask) - xixa
 vice (deputy, alternative, substitute, replacement) - vise  
 vice-president - vise prezidente  
 viceroy - vise reger  
-victory to Pandunia! - jai pandunia!  
+victory to Pandunia! - yai pandunia!  
 videotape - vide bande  
 Viet Nam - Viete  
 Vietnamese language (Viet) - viete baxe  
@@ -4687,7 +4687,7 @@ whisky (whiskey) - viski
 white - baku  
 white rice - baku varis  
 whitelist - halal liste  
-who? - ke jen  
+who? - ke yen  
 whole (entire) - hol  
 wholeness (integrity) - holia  
 wide (broad) - guan  
@@ -4702,15 +4702,15 @@ wild (savage) - vilde
 will (volition) - volation  
 will (volition, desire) - ice  
 will (want) - ice  
-win (triumph, victory, gain, succeed) - jai  
+win (triumph, victory, gain, succeed) - yai  
 wind - hava  
-window - janela  
-window frame - janela frem  
+window - yanela  
+window frame - yanela frem  
 wine - vin  
 winery - vinkan  
 wing - panka  
 winged bean - lung dou  
-winner (victor) - jaija  
+winner (victor) - yaiya  
 winter - leng mosim  
 winter melon (wax gourd, ash gourd) - mum melon  
 wintry - leng mosim di  
@@ -4779,13 +4779,13 @@ Yoruba (language and people) - Yoruba
 yotta- - yota  
 you (singular) - tu  
 you all - tumen  
-young (junior) - jun  
-younger sibling - jun sau  
+young (junior) - yun  
+younger sibling - yun sau  
 your - tu su  
 your - tumen su  
-youth (years in life following childhood) - jun nen  
-youth (young age) - junta  
-youth (youngster, young person) - jun jen  
+youth (years in life following childhood) - yun nen  
+youth (young age) - yunta  
+youth (youngster, young person) - yun yen  
 ytterbium - yuterbium  
 yttrium - yutrium  
 yurt (ger) - yurta  

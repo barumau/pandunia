@@ -31,7 +31,7 @@
  - aluminage  
  - Amazon  
  - Amazonia  
- - ame jen  
+ - ame yen  
  - amen  
  - amen di  
  - amer  
@@ -202,8 +202,8 @@
  - dume  
  - duna  
  - dus  
- - dus jen  
  - dus rai  
+ - dus yen  
  - dusastre  
  - dute  
  - eletrolize  
@@ -395,7 +395,7 @@
  - imperial  
  - in klus  
  - in klus di  
- - in verse jen  
+ - in verse yen  
  - in vide  
  - inlai  
  - intrage  
@@ -405,22 +405,6 @@
  - IP adres  
  - isme  
  - iste  
- - jaibai  
- - jaija  
- - jan  
- - janela frem  
- - jebe caku  
- - jele jen  
- - jen (jen men)  
- - jen bahai  
- - jen zamia  
- - jete  
- - judike  
- - jumla logia  
- - jun bei  
- - jun bra  
- - jun sau  
- - jun sis  
  - kable  
  - kaki  
  - kal  
@@ -461,7 +445,7 @@
  - Kastilia  
  - kastilia baxe  
  - kasul  
- - kata ja  
+ - kata ya  
  - katana  
  - kenation  
  - kentaur  
@@ -524,8 +508,8 @@
  - lexograme  
  - lexunife  
  - lige su sanduke  
- - limon jus  
  - limon orange  
+ - limon yus  
  - lipi cupu  
  - lipide  
  - lipofobia  
@@ -755,7 +739,7 @@
  - populike  
  - pore  
  - porte  
- - portoriko jen  
+ - portoriko yen  
  - portugal baxe  
  - posike  
  - pospoze  
@@ -916,7 +900,7 @@
  - tundra xan  
  - tung  
  - tur  
- - turbojeter  
+ - turboyeter  
  - turfa  
  - uma bici  
  - Umbriel  
@@ -935,8 +919,8 @@
  - vaf parke  
  - vafle  
  - vai dara  
- - vai jen  
  - vai tense  
+ - vai yen  
  - vakilia  
  - vakilize  
  - vala  
@@ -990,24 +974,38 @@
  - xulize  
  - xulizer  
  - Yahve  
+ - yaibai  
+ - yaiya  
  - yam liste  
  - yama  
  - yama seme  
  - yama tela  
+ - yanela frem  
  - yang  
  - Yapetus  
  - yau  
  - yeka  
  - yeka kanon  
+ - yele yen  
  - yem biskute  
+ - yen (yen men)  
+ - yen bahai  
+ - yen zamia  
  - Yesa sanga  
+ - yete  
  - yim  
  - yim yang  
  - yota  
  - you  
- - you jen  
  - you nen  
+ - you yen  
  - youta  
+ - yudike  
+ - yumla logia  
+ - yun bei  
+ - yun bra  
+ - yun sau  
+ - yun sis  
  - yunte  
  - yunte lexe  
  - yuntion  
@@ -1015,10 +1013,12 @@
  - zalim yunte  
  - zalime  
  - zame karte  
+ - zan  
  - zan buda din  
  - zanive  
  - zarduxtan mager  
  - zaru  
+ - zebe caku  
  - zelo  
  - zeta  
  - zete fonte  
@@ -1099,7 +1099,6 @@
  - exfetive  
  - exgene  
  - exhume  
- - exjete  
  - exkave  
  - exkluze  
  - exkluzive  
@@ -1119,6 +1118,7 @@
  - exverse  
  - exvidebil  
  - exvoke  
+ - exyete  
  - flexebil  
  - hipoteze  
  - hipotezike  
@@ -1144,7 +1144,6 @@
  - intraverse  
  - introspete  
  - invoke  
- - jai pandunia!  
  - konbine  
  - koncepe  
  - kondute  
@@ -1190,11 +1189,11 @@
  - predition  
  - prefere  
  - prehistoria  
- - prejude  
  - prekurse  
  - prepozage  
  - pretipe  
  - prexake  
+ - preyude  
  - proate  
  - proative  
  - procese  
@@ -1227,7 +1226,6 @@
  - reflexer  
  - regrese  
  - reinkarnation  
- - rejete  
  - rekene  
  - relaxe  
  - remise  
@@ -1240,6 +1238,7 @@
  - retene  
  - reverse  
  - revoke  
+ - reyete  
  - riforme  
  - rikurse  
  - rilexife  
@@ -1262,6 +1261,7 @@
  - tritomia  
  - unbaxike  
  - ungene  
+ - yai pandunia!  
 A - A  
 abak (liczydło) - zenzu table  
 abazyński - Abaze baxe  
@@ -1605,8 +1605,8 @@ chrześcijaństwo - kristisme
 chwalić (wychwalać) - halela  
 chwilowy - canaike  
 chór - ganir grupe  
-chłopak - jun man  
 chłopak - you nan  
+chłopak - yun man  
 ciasto, ciastko - keke  
 ciało - badan  
 ciało stałe - gati mate  
@@ -1634,7 +1634,7 @@ cmentarz - gabrestan
 cnota (moralność) - hau moral  
 cnotliwy (prawy) - hau moral di  
 co? - ke  
-co? - ke jen  
+co? - ke yen  
 coś - yo xe  
 croissant - kruasan  
 cudzysłów - site marke  
@@ -1803,8 +1803,8 @@ dziennik pokładowy (notatnik) - loga buke
 dziennikarz - gazeter  
 dziesięć (10) - des  
 dziesięć tysięcy - des kilo  
-dziewczyna - jun fem  
 dziewczyna - you ni  
+dziewczyna - yun fem  
 dziewięć (9) - tisa  
 dzień - dia  
 dzień dobry - sal dia  
@@ -1828,12 +1828,12 @@ długi - long
 długość - longta  
 długość geograficzna - ging gola  
 długość geograficzna - ging gradu  
-dźinizm, dżinizm - jain din  
+dźinizm, dżinizm - yain din  
 dźwignia - tire kane  
 dźwięk, brzmienie - soni  
-Dżakarta - Jakarta  
+Dżakarta - yakarta  
 Dżibuti - Gibuti  
-dżul (J) - jul  
+dżul (J) - yul  
 E - E  
 echo - reflexe sonde  
 efekt halo - foto gola  
@@ -2027,7 +2027,7 @@ grzyb - fungu
 grzybnia - fungu nete  
 grób (mogiła, grobowiec, zakopać, pochować) - gabre  
 Guam - Guam  
-Gudżarat - gujarati  
+Gudżarat - guyarati  
 Guernsey - Gernezi  
 Guinea Bissau - Bisau Ginia  
 Gujana - Guyana  
@@ -2190,7 +2190,7 @@ itr - yutrium
 Izrael - Israel  
 iść - ga  
 iść, maszerować - marce  
-J - J  
+J - y  
 ja, mnie - mi  
 jabłko - aple  
 jabłko cukrowe - ata  
@@ -2202,7 +2202,7 @@ jak, niż, od - ka
 jak? - ke xe  
 jaki? - ke tipe  
 jakiś - yo  
-Jamajka - Jamaika  
+Jamajka - yamaika  
 Japonia - Nipon  
 japoński - nipon di  
 jarmuż - yepa koli  
@@ -2213,7 +2213,7 @@ jasny, czysty - ming
 jasny, świetlny - fotos  
 jastrun właściwy - baku margarite  
 jaszczurka - saur  
-jazz, dżez - jaze  
+jazz, dżez - yaze  
 jaśmin - moli  
 jaźń (tożsamość) - aute  
 jebać - fake  
@@ -2244,7 +2244,7 @@ Jordan - Urdun
 Joruba - Yoruba  
 Jowisz - Muxin  
 judaizm - yehudisme  
-judo - judau  
+judo - yudau  
 jurta - yurta  
 jutro - pos den  
 już (skończona czynność) - fin  
@@ -2323,7 +2323,7 @@ kawa - kafe
 kawiarnia - kafekan  
 Kazachstan - Kazakestan  
 kałamarnica (mątwa) - kalmar  
-każdy człowiek, wszyscy - pan jen  
+każdy człowiek, wszyscy - pan yen  
 każdy, wszyscy - pan un  
 kebab - kababu karne  
 keczup - kecape  
@@ -2333,7 +2333,7 @@ keta - baku salmon
 kichać (apsik!) - aci  
 kiedy? - ke riti  
 kierować (doprowadzać, prowadzić, służyć jako kanał) - kanal  
-kieszeń - jebe  
+kieszeń - zebe  
 kiełbasa - sosis  
 kilof - pin cope  
 kilogram (kg) - kilogram  
@@ -2381,7 +2381,7 @@ koka - koka
 kokos - yezi  
 koktajl - alkol mixur  
 kola (coca-cola) - Koka Kola  
-kola, napój gazowany - kola jus  
+kola, napój gazowany - kola yus  
 kolacja - xam yam  
 kolano - guta  
 kolczuga - seri kaska  
@@ -2448,7 +2448,7 @@ kosmos, wszechświat - kosme
 Kosowo - Kosovo  
 Kostaryka - Kosta Rika  
 kosz - baske  
-koszary - ordu jen kan  
+koszary - ordu yen kan  
 koszt, cena - koste  
 kosztowny (drogi) - koste di  
 koszula - kamisa  
@@ -2507,7 +2507,7 @@ książka - buke
 książka z obrazkami - grafe buke  
 księżyc - luna  
 kszesło, fotel - kursi  
-ktoś - yo jen  
+ktoś - yo yen  
 Kuba - Kuba  
 kubek - kupa  
 kubek do herbaty - cai kupa  
@@ -2526,7 +2526,7 @@ kumkwat - gingam
 kupon - kupon  
 kura, kogut, kurczak - koko  
 kurta (tunika, toga) - kurta  
-kurtka - jake  
+kurtka - yake  
 kusić, nakłonić, nakłaniać - tenta  
 kusza (balista) - krus arka  
 kuszetka (koja) - kux loka  
@@ -2606,7 +2606,7 @@ litewski - lietuva baxe
 litr - litre  
 Litwa - Lietuva  
 liwermor - livermorium  
-loch - geo nice jela  
+loch - geo nice yela  
 lodowy - aisike  
 lody - ais krem  
 logiczny - logikal  
@@ -2848,7 +2848,7 @@ może - bil es
 może - bil ki  
 mrówka - murmeke  
 mucha - dom zeze  
-mumia - mum jen  
+mumia - mum yen  
 mur, ściana - mur  
 musieć - mus  
 muskuł, mięsień - muskul  
@@ -2873,12 +2873,12 @@ mądrość - sofia
 mądry - sofe  
 męski - nan  
 mężczyzna, dorosły samiec - ceng man  
-młode drzewo - jun moka  
 młode drzewo - you moke  
-młodość - jun nen  
-młodość - junta  
-młody - jun  
-młodzież, młoda osoba - jun jen  
+młode drzewo - yun moka  
+młodość - yun nen  
+młodość - yunta  
+młody - yun  
+młodzież, młoda osoba - yun yen  
 młot, młotek - hamar  
 młynarz - moler  
 N - N  
@@ -2987,7 +2987,7 @@ Nigeria - Nigeria
 nihonium - niponium  
 Nikaragua - Nikaragua  
 nikiel - nikel  
-nikt, żadna osoba - siro jen  
+nikt, żadna osoba - siro yen  
 nikły - mirde  
 niob - niobium  
 niski - dipe  
@@ -3013,7 +3013,7 @@ notatnik - note buke
 notować, obserwować, zauważyć, zauważać - note  
 Nowa Kaledonia - neu Kaledonia  
 Nowa Zelandia - neu Zelande  
-nowicjusz (nowa osoba) - neu jen  
+nowicjusz (nowa osoba) - neu yen  
 nowoczesne - neu tipe di  
 nowość - neu  
 nowy - neu di  
@@ -3051,7 +3051,7 @@ obserwator (widz) - vider
 obsydian - osidian  
 obudzić, budzić - budife  
 obyczaj, zwyczaj, tradycja, praktyka, konwencja - suna  
-obywatel - gogia jen  
+obywatel - gogia yen  
 obóz - kamper  
 ocean - dai bahai  
 Ocean Antarktyczny (Ocean Południowy) - Antartika Bahai  
@@ -3065,7 +3065,7 @@ ocelot tygrysi - bagre oselote
 ocena, krytyka - piping  
 ocet - vin suan  
 oczywiście - klar!  
-odbiorca - na ja  
+odbiorca - na ya  
 odbyt - anus  
 odcisk, ślad; stempel, pieczęć - cape  
 oddech - nafas  
@@ -3073,7 +3073,7 @@ odetkać, odtykać - antape
 odkurzacz - haki cupu gi  
 odmówić (odrzucić) - denege  
 odnowić, odnawiać, uczynić nowym - renove  
-odpowiedzieć (odpowiadać; odpowiedź, odzew) - javabe  
+odpowiedzieć (odpowiadać; odpowiedź, odzew) - gavabe  
 odsłonić, odsłaniać - andake  
 Odwarzny ( - brave  
 odwiedzić, odwiedzać - vizite  
@@ -3092,7 +3092,7 @@ ogórek melon - melon
 ojciec - pa  
 ojczyzna - patria  
 okej, spoko, akceptowalny - okeibil  
-okno - janela  
+okno - yanela  
 oko - oke  
 około; przybliżony - yaki  
 okrągły - sirkike  
@@ -3128,12 +3128,12 @@ osiem (8) - bati
 osioł - iha  
 osm - osmium  
 osmoza - osmos  
-osoba - jen  
+osoba - yen  
 osoba biznesu, biznesman - bizneser  
-osoba dorosła - ceng jen  
+osoba dorosła - ceng yen  
 osoba mówiąca w Panduni - panduniste  
 osobisty numer identyfikacyjny (pin) - sekur nume  
-osobisty, intymny, prywatny - jen di  
+osobisty, intymny, prywatny - yen di  
 ostatni, końcowy - finme  
 ostropest plamisty - milke kardon  
 ostrożeń lancetowaty - pena kardon  
@@ -3467,9 +3467,9 @@ profesja, zajęcie, zawód - pei kar
 profesor - profesor  
 program - programe  
 programista, koder - programer  
-projekt, planowane przedsięwzięcie - projete  
+projekt, planowane przedsięwzięcie - proyete  
 projektor (rzutnik) - grafe lanse gi  
-projektor (rzutnik) - grafe projeter  
+projektor (rzutnik) - grafe proyeter  
 promet - prometium  
 promieniować - radate  
 promień - rade  
@@ -3477,7 +3477,7 @@ promień światła - foto radi
 promować - promote  
 proponować (sugerować; propozycja, sugestia) - propoze  
 proroctwo - nabi  
-prorok - nabija  
+prorok - nabiya  
 prorok Mani - Mani  
 prosić - cing  
 prostopadły - orto gonike  
@@ -3498,7 +3498,7 @@ przedporodowy - prenatal
 przedpołudnie - suba dia  
 przedrostek (prefiks) - prefixe  
 przedłużyć, przedłużać - longife  
-przegrany, pokonany - xiti bai ja  
+przegrany, pokonany - xiti bai ya  
 przejazd, przewóz, tranzyt, transport - trapas  
 przekąska - xiu yam  
 przekątny - tragonike  
@@ -3652,7 +3652,7 @@ robot - robote
 rock - roke muzike  
 rocznica - nen festa  
 rod - rodium  
-rodak, ziomek, krajan - sam gogia jen  
+rodak, ziomek, krajan - sam gogia yen  
 rodzaj gramatyczny - lexe gense  
 rodzeństwo, brat lub siostra - sau  
 rodzic (matka lub ojciec) - cin  
@@ -3747,7 +3747,7 @@ równina (plaskowyż, plateau) - plate stan
 równoległy (podłużny) - ging  
 równowaga - par vezeta  
 równy - par  
-równy - par jen  
+równy - par yen  
 róża - rode  
 różnica - alo sifa  
 różnica (specjalność) - hasta  
@@ -3840,7 +3840,7 @@ skarpeta, skarpetka, pończocha - maze
 skała - petra  
 skała macierzysta - baze petre  
 sklep (skład) - dukan  
-skoczyć, skakać - jampe  
+skoczyć, skakać - zampe  
 skonsumować, konsumować, zjeść, jeść, wypić, pić) - yam  
 skorpion - akrabe  
 skorupa (pancerz, muszla) - kaska  
@@ -3865,13 +3865,13 @@ smieszany (skonfudowany) - ruhu mixe di
 smok - lung  
 smutny - duku di  
 smycz (cugiel, lejc, wodza) - lide line  
-snajper (strzelec wyborowy) - juste pauer  
+snajper (strzelec wyborowy) - yuste pauer  
 sobota - xaniden  
 socjalista - sosiste  
 socjalizm - sosisme  
 soczewka - lense  
 sofa (kanapa) - sofa  
-sok - jus  
+sok - yus  
 Somalia - Somal  
 Somaliland - Somal Dexa  
 sometime - yo sata  
@@ -3918,7 +3918,7 @@ Stany Zjednoczone Ameryki - Unifike Statia de Amerika (USA)
 Starożytny Egipt (Kemet) - Keme  
 stary (sędziwy, wiekowy) - lau  
 stary, starożytny - prezaman di  
-starzec - lau jen  
+starzec - lau yen  
 statyczny, stacjonarny, nieruchomy - statike  
 staw - oste yunte  
 stać - state  
@@ -3939,7 +3939,7 @@ storczyk (orchidea) - orkide
 stosować (zastosować; zastosowanie, aplikacja) - aplike  
 strach, fobia - fobia  
 stracić (utracić, tracić, zgubuć, gubić) - xiti  
-strażnik więzienny - jeler  
+strażnik więzienny - yeler  
 strażnik, ochroniarz - garder  
 strona - yepa late  
 strona (bok) - late  
@@ -4008,7 +4008,7 @@ sześcian (kostka) - luka fase
 sześciokąt (sześciobok) - luka gone  
 sześć (6) - luka  
 szisz kebab - xix kababu  
-szkielet - oste jama  
+szkielet - oste yama  
 szklić (glazurować) - glasife  
 Szkocja - Skotia  
 szkoła (instytucja) - xulekan  
@@ -4045,8 +4045,8 @@ szyć - kosi
 São Paulo - Sante Paulo  
 sód - natre  
 sól - yem  
-sądzić (osądzić) - jude  
-sędzia - juder  
+sądzić (osądzić) - yude  
+sędzia - yuder  
 słaby - anbala  
 słodki - sukar di  
 słodki ziemniak - kamote  
@@ -4059,7 +4059,7 @@ słowik - bulbul
 słownictwo - lexe zamia  
 słowny (leksykalny) - lexal  
 słowo - lexe  
-słoń - gaja  
+słoń - gaya  
 słońce - sol  
 sługa - server  
 słup (pal, kołek) - moka kane  
@@ -4158,7 +4158,7 @@ topnieć (upłynniać się) - fuze
 tor - torium  
 torba, wór, worek, torba, sakwa - sake  
 tost - xava ban  
-towarzysz (partner, kumpel) - late jen  
+towarzysz (partner, kumpel) - late yen  
 tragedia - tragodia  
 traktor (ciągnik) - trater  
 traktować (proces) - cule  
@@ -4216,7 +4216,7 @@ tydzień - cetiden
 tygrys - bagre  
 tykwa pospolita (kabalasz) - sui kaboga  
 tylko (jedyny, wyłączny) - unike  
-tylko (precyzyjny, dokładny) - juste  
+tylko (precyzyjny, dokładny) - yuste  
 typ (rodzaj, gatunek, styl) - tipe  
 tyran - zalimer  
 tyrania - zalimia  
@@ -4275,7 +4275,7 @@ usta - boka
 usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się) - depoze  
 usłyszeć, słyszeć; słuchać - audi  
 uwaga, obserwacja - notage  
-uwięzić, więzić, pozbawić wolności - jele  
+uwięzić, więzić, pozbawić wolności - yele  
 uwolnić, uwalniać - huru di  
 Uzbekistan - Uzbeki  
 uznać (przynać, przyjąć do wiadomości) - reside  
@@ -4400,8 +4400,8 @@ wizyta - vizite
 wizytant (gość) - viziter  
 większościowy, wiodący, główny - maxike  
 większość - maxia  
-więzienie, kara więzienia, kara pozbawienia wolności - jele  
-więzienie, zakład karny - jelekan  
+więzienie, kara więzienia, kara pozbawienia wolności - yele  
+więzienie, zakład karny - yelekan  
 wiśnia (czereśnia) - ceri  
 wkrótce - a korte  
 wnieć wkład (przyczynić się) - fen don  
@@ -4445,7 +4445,7 @@ współczucie - sam emos
 współpracować (kolaborować) - konkar  
 współpracować (kolaborować) - konkare  
 wstecz - a re  
-wstrzyknąć, wstrzykiwać - injete  
+wstrzyknąć, wstrzykiwać - inyete  
 wstyd (hańba, kompromitacja) - xarma  
 wszyscy, wszystkie, wszystko; każdy - pan  
 wszystko - pan xe  
@@ -4474,7 +4474,7 @@ wynająć, wynajmować, zatrudnić, zatrudniać - kira
 wynik (punktacja) - punte nume  
 wyobrazić, wyobrażać, fantazjować - fantaze  
 wypadek - xigu  
-wyrok - judage  
+wyrok - yudage  
 wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz) - excepe  
 wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz) - expoze  
 wyrzutek - paraya  
@@ -4496,7 +4496,7 @@ wystarczający - bas
 wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić) - nete don  
 wysłać (wyemitować) - mise  
 wytwórca łuków i strzał - flecer  
-wyświetlać (rzut, projekcja) - jete grafe  
+wyświetlać (rzut, projekcja) - yete grafe  
 wzajemny - semen su  
 wzmacniać (wzmocnić) - dai gradu  
 wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać - fuka  
@@ -4530,7 +4530,7 @@ zabawa, rozrywka - vanu
 zabawny - vanu di  
 zabić, zabijać - matafa  
 zabroniony (wzbroniony, nielegalny, haram, tabu) - haram  
-zabójca - mataja  
+zabójca - mataya  
 zachodni - veste di  
 zachowanie (maniery, kultura) - manera  
 zachować, zakonserwować, zachować, utrzymać - hafiz-  
@@ -4584,7 +4584,7 @@ zarządzać (organizować, kierować) - nome
 zasada - bazisme  
 zaskoczenie - supriza  
 zastosować, stosować - uzife  
-zastrzyk - injetage  
+zastrzyk - inyetage  
 zastąpić (podstawić, zamienić) - vise  
 zasób (zastosowanie, użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta) - faide  
 zasłona, kurtyna - parde  
@@ -4607,7 +4607,7 @@ zbyt - max ka bas
 zbyt mało - min ka bas  
 zbłąkany (dewiacyjny, wykolejony) - derutike  
 zbłąkać się (wykoleić się) - derute  
-zdanie (fraza) - jumla  
+zdanie (fraza) - yumla  
 zdeaktywowany (wyłączony, zatrzymany) - anative  
 zdjęcie (fotografia) - fotografe  
 zdrada małżeńska, cudzołóstwo - zina  
@@ -4668,7 +4668,7 @@ zupa - supa
 zwinny, sprawny - agile  
 związać (wiązać; zapiąć, zapinać; taśma) - bande  
 zwiększyć o jeden - max gradu  
-zwyciężyć (wygrać; zwycięstwo, wygrana) - jai  
+zwyciężyć (wygrać; zwycięstwo, wygrana) - yai  
 zwyczajny (rutynowy, normalny) - adike  
 zwykły, zwyczajny, prosty - sade  
 zwłoki (trup) - nekre  
@@ -4750,18 +4750,18 @@ zły, zrujnowany, zepsuty - harabe
 żaba - krokro  
 żad - yoke  
 żal, smutek - duku  
-żart - joke  
-żartowniś, dowcipniś - joker  
+żart - yoke  
+żartowniś, dowcipniś - yoker  
 że - ki  
-żeglarz (marynarz) - nave ga ja  
+żeglarz (marynarz) - nave ga ya  
 żeglować (płynąć) - nave ga  
 żegnaj, dobre odejście - sal cute  
 żel, galareta - gele  
 żelazo - fero  
-żeń-szeń - jensen  
-żołnierz - ordu jen  
+żeń-szeń - yensen  
+żołnierz - ordu yen  
 żołądź - baluta frute  
-żupan - jube  
+żupan - yube  
 żwir - grave  
 życie organiczne - bier  
 żydowski - yehude  

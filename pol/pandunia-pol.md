@@ -120,7 +120,7 @@ ame - miłość (afekt)
 • aname -   
 amer -   
 amike - kochany (drogi)  
-ame jen -   
+ame yen -   
 ama - ale (lecz)  
 Amara - Amhara, amharski  
 Amazon -   
@@ -624,7 +624,7 @@ ceng - warstwa (poziom, piętro, kondygnacja)
 ceng - dorosły, dojrzały  
 ceng bede -   
 ceng fem - kobieta, dorosła samica  
-ceng jen - osoba dorosła  
+ceng yen - osoba dorosła  
 ceng man - mężczyzna, dorosły samiec  
 cepe - złapać, łapać, schwytać, chwytać  
 • acepe -   
@@ -941,7 +941,7 @@ durometrer - stoper (sekundomierz)
 dus -   
 dus gradu - dezaktualizować (pogorszyć)  
 dus hal - trudność (trud)  
-dus jen -   
+dus yen -   
 dusnam - obraza (obelga)  
 dus rai -   
 dus sin di - złowieszczy  
@@ -1260,7 +1260,7 @@ gabre - grób (mogiła, grobowiec, zakopać, pochować)
 gabrite - nagrobek  
 gabrestan - cmentarz  
 gadolinium - gadolin  
-gaja - słoń  
+gaya - słoń  
 Galia - Galia  
 galium - gal  
 gala -   
@@ -1380,7 +1380,7 @@ geo kaska krake - uskok
 geo kaska plate - płyta tektoniczna  
 Geo Medi Bahai - Morze Śródziemne  
 geo nice di - podziemny  
-geo nice jela - loch  
+geo nice yela - loch  
 geo ordu - wosko lądowe (armia)  
 geo par lin - równik  
 Geo Par Lin Ginia - Gwinea Równikowa  
@@ -1420,7 +1420,7 @@ glutike - lepki (kleisty)
 glutive baxe -   
 glutize - lepić (kleić)  
 gogia - kraj, ziemia  
-gogia jen - obywatel  
+gogia yen - obywatel  
 gol - cel  
 golem - golem  
 gomu - guma  
@@ -1445,7 +1445,7 @@ grafike - obrazowy, graficzny; opisowy
 grafe karte -   
 grafe kata - komiks; kreskówka  
 grafe lanse gi - projektor (rzutnik)  
-grafe projeter - projektor (rzutnik)  
+grafe proyeter - projektor (rzutnik)  
 grafi sugata -   
 gram - gram  
 grame -   
@@ -1488,7 +1488,7 @@ Guatemala - Gwatemala
 gubu - hipopotam  
 gui - ogr (trol, goblin)  
 gui papi - mak wschodni  
-gujarati - Gudżarat  
+guyarati - Gudżarat  
 guku hua -   
 gul - połknąć (połykać)  
 gule - ghul  
@@ -1775,7 +1775,7 @@ intre -
 intre -   
 intrage -   
 intromun - wejście  
-in verse jen -   
+in verse yen -   
 in vide -   
 in xe - treść (zawartość)  
 Indonesia - Indonezja  
@@ -1805,16 +1805,14 @@ iste -
 ite - kamień (kawał skały)  
 Italia - Italia, Włochy  
 itis - zapalenie  
-
-## J  
-
-jai - zwyciężyć (wygrać; zwycięstwo, wygrana)  
-jaibai -   
-jaija -   
-• jai pandunia! -   
-jain din - dźinizm, dżinizm  
-Jakarta - Dżakarta  
-jake - kurtka  
+y - J  
+yai - zwyciężyć (wygrać; zwycięstwo, wygrana)  
+yaibai -   
+yaiya -   
+• yai pandunia! -   
+yain din - dźinizm, dżinizm  
+yakarta - Dżakarta  
+yake - kurtka  
 zame - kolekcjonować, zebrać, zbierać  
 • azame - spotkać (spotkanie, zebranie)  
 • anzame - rozproszyć, rozpraszać  
@@ -1822,14 +1820,14 @@ zame - kolekcjonować, zebrać, zbierać
 zamia - kolekcja, zbiór; zgromadzenie, zebranie  
 zamive - zbiorowy, zbiorczy  
 zame karte -   
-Jamaika - Jamajka  
-jampe - skoczyć, skakać  
+yamaika - Jamajka  
+zampe - skoczyć, skakać  
 zamul - czapetka kuminowa  
-jan -   
+zan -   
 zan buda din -   
 zanive -   
-janela - okno  
-janela frem -   
+yanela - okno  
+yanela frem -   
 zang - walka, wojna  
 zang di - militarny, wojskowy, wojenny  
 zanger - wojownik, bojownik  
@@ -1838,43 +1836,43 @@ zangal - las, dżungla, zagajnik
 kundi - dzban, dzbanek; słój, słoik; wazon  
 zaru -   
 zau - jęczmień  
-javabe - odpowiedzieć (odpowiadać; odpowiedź, odzew)  
+gavabe - odpowiedzieć (odpowiadać; odpowiedź, odzew)  
 Alzeria - Algieria  
-jaze - jazz, dżez  
-jebe - kieszeń  
-jebe caku -   
+yaze - jazz, dżez  
+zebe - kieszeń  
+zebe caku -   
 zeka - pożyczyć  
 zeka don - pożyczać komuś (pożyczyć komuś)  
 zeka lexe - zapożyczenie (wyraz obcy)  
 zeka na - pożyczać (pożyczyć)  
-jele - uwięzić, więzić, pozbawić wolności  
-jele - więzienie, kara więzienia, kara pozbawienia wolności  
-jeler - strażnik więzienny  
-jele jen -   
-jelekan - więzienie, zakład karny  
-jen - osoba  
-jen (jen men) -   
-jen bahai -   
-jen di - osobisty, intymny, prywatny  
-jen zamia -   
+yele - uwięzić, więzić, pozbawić wolności  
+yele - więzienie, kara więzienia, kara pozbawienia wolności  
+yeler - strażnik więzienny  
+yele yen -   
+yelekan - więzienie, zakład karny  
+yen - osoba  
+yen (yen men) -   
+yen bahai -   
+yen di - osobisty, intymny, prywatny  
+yen zamia -   
 zenzu - perła  
 zenzu table - abak (liczydło)  
-jensen - żeń-szeń  
+yensen - żeń-szeń  
 Gerze - Jersey  
-jete -   
-• exjete -   
-• injete - wstrzyknąć, wstrzykiwać  
-• injetage - zastrzyk  
-• projete - projekt, planowane przedsięwzięcie  
-• rejete -   
-jete grafe - wyświetlać (rzut, projekcja)  
+yete -   
+• exyete -   
+• inyete - wstrzyknąć, wstrzykiwać  
+• inyetage - zastrzyk  
+• proyete - projekt, planowane przedsięwzięcie  
+• reyete -   
+yete grafe - wyświetlać (rzut, projekcja)  
 Gibuti - Dżibuti  
 gihade -   
 gin -   
 ziva - żyć (żywy, żyjący; życie)  
 • traziva -   
-joke - żart  
-joker - żartowniś, dowcipniś  
+yoke - żart  
+yoker - żartowniś, dowcipniś  
 zong - środkowy, centralny  
 Zong Afrika Vakilkratia - Republika Środkowoafrykańska  
 zong di - centralny (środkowy)  
@@ -1882,31 +1880,31 @@ zong fon - samogłoska
 zong xulekan -   
 Zong gogia - Chiny  
 zovar - sorgo  
-jube - żupan  
-jude - sądzić (osądzić)  
-• prejude -   
-judage - wyrok  
-juder - sędzia  
-judike -   
-judau - judo  
-jul - dżul (J)  
-jumla - zdanie (fraza)  
-jumla logia -   
-jun - młody  
-jun bei -   
-jun bra -   
-jun fem - dziewczyna  
-jun jen - młodzież, młoda osoba  
-jun man - chłopak  
-jun moka - młode drzewo  
-jun nen - młodość  
-jun sau -   
-jun sis -   
-junta - młodość  
+yube - żupan  
+yude - sądzić (osądzić)  
+• preyude -   
+yudage - wyrok  
+yuder - sędzia  
+yudike -   
+yudau - judo  
+yul - dżul (J)  
+yumla - zdanie (fraza)  
+yumla logia -   
+yun - młody  
+yun bei -   
+yun bra -   
+yun fem - dziewczyna  
+yun yen - młodzież, młoda osoba  
+yun man - chłopak  
+yun moka - młode drzewo  
+yun nen - młodość  
+yun sau -   
+yun sis -   
+yunta - młodość  
 zung - gatunek  
-jus - sok  
-juste - tylko (precyzyjny, dokładny)  
-juste pauer - snajper (strzelec wyborowy)  
+yus - sok  
+yuste - tylko (precyzyjny, dokładny)  
+yuste pauer - snajper (strzelec wyborowy)  
 
 ## K  
 
@@ -2083,7 +2081,7 @@ Kastilia -
 kastilia baxe -   
 kasu - wydarzenie, przypadek, sytuacja  
 kata - opowiadanie, opowieść, legenda, saga  
-kata ja -   
+kata ya -   
 Katalunia - Katalonia  
 katana -   
 Katar - Katar  
@@ -2096,7 +2094,7 @@ kave - kopać (dół, jama)
 kavai - uroczy, słodki  
 Kazakestan - Kazachstan  
 ke - co?  
-ke jen - co?  
+ke yen - co?  
 ke loka - gdzie?  
 ke poli di - ile?  
 ke riti - kiedy?  
@@ -2211,7 +2209,7 @@ koko - kura, kogut, kurczak
 Kokos nesia - Wyspy Kokosowe  
 kola -   
 kola frute -   
-kola jus - kola, napój gazowany  
+kola yus - kola, napój gazowany  
 koli - kapusta  
 Kolombia - Kolumbia  
 kolone -   
@@ -2390,14 +2388,14 @@ lasun - larwa, czerw, gąsienica
 late - strona (bok)  
 late di - z boku (na bok)  
 late di - poziomy (horyzontalny, boczny)  
-late jen - towarzysz (partner, kumpel)  
+late yen - towarzysz (partner, kumpel)  
 latinogramife - zromanizować  
 Latin zi - alfabet łaciński, łacinka, alfabet rzymski  
 Latvia - Łotwa  
 Lau - Laos  
 lau - stary (sędziwy, wiekowy)  
 lau di - laotański  
-lau jen - starzec  
+lau yen - starzec  
 laurencium - lorens  
 laxe - rozluźnić (poluzować)  
 • relaxe -   
@@ -2466,7 +2464,7 @@ limite - limit, granica
 • anlimite - nieskończoność  
 limite di - skończony (ograniczony)  
 limon - cytryna  
-limon jus -   
+limon yus -   
 limon luga di - limonkowy (limonkowo zielony)  
 limon orange -   
 lin - linia (nić, lina, pas, pręga, smuga, dratwa)  
@@ -2658,7 +2656,7 @@ mata - umrzeć (umierać; śmierć; martwy, nieżywy, zabity)
 mata badan -   
 matabil -   
 matafa - zabić, zabijać  
-mataja - zabójca  
+mataya - zabójca  
 mate -   
 mate cai -   
 matras - materac  
@@ -2909,7 +2907,7 @@ mula - korzeń
 mum - wosk  
 mum cape - pieczęć woskowa  
 mum fote - świeca  
-mum jen - mumia  
+mum yen - mumia  
 mum melon - beninkaza szorstka (beninkaza woskodajna, woszcza szorstka)  
 Mumbai - Bombaj (Mumbaj)  
 mumu - krowa  
@@ -2945,10 +2943,10 @@ muzike gense -
 ## N  
 
 na - dostać, dostawać, otrzymać, otrzymywać, wziąć, brać  
-na ja - odbiorca  
+na ya - odbiorca  
 na xiti -   
 nabi - proroctwo  
-nabija - prorok  
+nabiya - prorok  
 nadir -   
 nadir mar - rzadko  
 nadirta - rzadkość  
@@ -3017,7 +3015,7 @@ nave trepe - trap
 nave xefe - kapitan  
 nava - nahuatl  
 nave ga - żeglować (płynąć)  
-nave ga ja - żeglarz (marynarz)  
+nave ga ya - żeglarz (marynarz)  
 ne -   
 Nederlande - Holandia (Królestwo Niderlandów)  
 Nederlande Antil - Antyle Holenderskie  
@@ -3060,7 +3058,7 @@ nete gete - ściągać (ściągnąć, pobrać, pobierać)
 neu - nowość  
 neu di - nowy  
 neu fito -   
-neu jen - nowicjusz (nowa osoba)  
+neu yen - nowicjusz (nowa osoba)  
 neu Kaledonia - Nowa Kaledonia  
 neuloge - neologizm  
 neunatike -   
@@ -3182,8 +3180,8 @@ opera -
 orange - pomarańcza  
 orange rang - pomarańczowy  
 ordu - armia  
-ordu jen - żołnierz  
-ordu jen kan - koszary  
+ordu yen - żołnierz  
+ordu yen kan - koszary  
 ordu reger - szogun  
 ordu regia - szogunat  
 ore - ucho  
@@ -3205,7 +3203,7 @@ osman - Turek osmański
 Osman Imperi Dexa - Imperium Osmańskie  
 osmos - osmoza  
 oste - kość  
-oste jama - szkielet  
+oste yama - szkielet  
 oste xalke - łuska (blaszka, tarczka)  
 oste yunte - staw  
 Ostria - Austria  
@@ -3270,7 +3268,7 @@ pandunia - Pandunia
 panduniste - osoba mówiąca w Panduni  
 pandunial - globalny (światowy)  
 paneuropan - paneuropejski  
-pan jen - każdy człowiek, wszyscy  
+pan yen - każdy człowiek, wszyscy  
 panmime -   
 pan romanse di - panromantyczny  
 pan sata - zawsze  
@@ -3295,7 +3293,7 @@ repare - naprawić, naprawiać
 repare - naprawa  
 reparer - naprawiacz  
 par fase -   
-par jen - równy  
+par yen - równy  
 parta -   
 par vezeta - równowaga  
 para -   
@@ -3521,7 +3519,7 @@ porte -
 • traporte - transport  
 porto - port  
 Portoriko - Portoryko (Puerto Rico)  
-portoriko jen -   
+portoriko yen -   
 Portugal - Portugalia  
 portugal baxe -   
 pos - konsekwencja, skutek  
@@ -3812,7 +3810,7 @@ Salvador - Salwador
 sam - taki sam  
 sam bei -   
 sam emos - współczucie  
-sam gogia jen - rodak, ziomek, krajan  
+sam gogia yen - rodak, ziomek, krajan  
 sammetria -   
 sam nam - homonim  
 sam rai - porozumienie  
@@ -3957,7 +3955,7 @@ sirkike - okrągły
 sirke metre -   
 sirkus -   
 siro - zero, nic, żaden  
-siro jen - nikt, żadna osoba  
+siro yen - nikt, żadna osoba  
 siro sata - nigdy  
 siro xe - nic, żadna rzecz  
 sis -   
@@ -4354,7 +4352,7 @@ turiste - turysta
 turbe - przeszkodzić, przeszkadzać, robić kłopot  
 • disturbe -   
 turbin - turbina  
-turbojeter -   
+turboyeter -   
 turfa -   
 turke baxe - turecki  
 Turkia - Turcja  
@@ -4424,7 +4422,7 @@ vaginits - zapalenie pochwy
 vahi - oaza  
 vai - zęwnętrzny  
 vai dara -   
-vai jen -   
+vai yen -   
 vai tense -   
 vai yam - piknik  
 vakil - reprezentować  
@@ -4643,7 +4641,7 @@ xite - srać (robić gówno)
 xite - gówno  
 xiti - stracić (utracić, tracić, zgubuć, gubić)  
 xiti bai - porażka (niepowodzenie, klapa, przegrana, strata, porażka)  
-xiti bai ja - przegrany, pokonany  
+xiti bai ya - przegrany, pokonany  
 xiu - mały  
 xiu bol - bańka  
 xiu deha -   
@@ -4725,7 +4723,7 @@ yezi - kokos
 yim -   
 yim yang -   
 yo - jakiś  
-yo jen - ktoś  
+yo yen - ktoś  
 yo sata - sometime  
 yo xe - coś  
 yoga - joga  
@@ -4736,7 +4734,7 @@ yoke - żad
 Yoruba - Joruba  
 yota -   
 you -   
-you jen -   
+you yen -   
 you moke - młode drzewo  
 you nan - chłopak  
 you nen -   

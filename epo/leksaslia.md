@@ -418,7 +418,6 @@
 **ga** *iri* ← angla:go + hindia:जाना (jānā), bengala:যাওয়া (jaoya) + korea:가다 (gada)  
 **gabre** *tombo (enterigi)* ← araba:(qabr), hindia:क़ब्र (qabra), bengala:কবর (kôbôr), malaja:kubur, haŭsa:kabari, svahila:kaburi, turka:kabir + deu:Grab, polona:grób, rusa:гроб (grob)  
 **gadolinium** *gadolinio* ← angla:gadolinium, franca:gadolinium, hispana:gadolinio, portugala:gadolínio, rusa:гадолиний, mandarena:钆 (gá), japana:ガドリニウム, korea:가돌리늄, vjetnama:gađolini, hindia:ग्याडोलिनियम, bengala:গ্যাডোলিনিয়াম, malaja:gadolinium, svahila:gadolini, araba: جدولينيوم  
-**gaja** *elefanto* ← hindia:गज (gaj), tamila:கசம் (kacam), teluga:గజము (gajamu), kanara:ಗಜ (gaja), malaja:gajah, filipina:gadya  
 **gala** ** ← angla:gullet, hispana:portugala:gola, far:گلو (galu), hindia:गला (gala), bengala:গলা (galā), pan:ਗਲਾ (galā) + rusa:горло (gorlo) + araba:حلق (halaq)  
 **galaxia** *galaksio* ← angla:galaxy, hispana:galaxia, portugala:galáxia, franca:galaxie, rusa:галактика (galaktika), turka:malaja:galaksi, hindia:गैलेक्सी (gaileksī)  
 **galeri** *galerio (ekspozicio)* ← angla:gallery, hispana:galería, portugala:galeria, franca:galerie, rusa:галерея (galereya), turka:galeri, hindia:गैलरी (gailrī), japana:ギャラリー (gyararī)  
@@ -444,6 +443,8 @@
 **gate** ** ← araba: قَطَعَ (qaṭa’a) + mandarena:割 (gē), kantona:割 (got3), vua:割 (ga’), japana:割 (katsu), vjetnama:cắt + hindia:काटना (kāṭnā), bengala:কাটা (kata) + tamila:கடி (kaṭi) + taja:กัด (kat) + angla:cut + svahila:-kata  
 **gati** *malmola* ← teluga:గట్టి (gaṭṭi), turka:katı, hindia:कड़ा (kaṛā), japana:硬い (katai)  
 **gau di** *alta* ← mandarena:高 (gāo), kantona:高 (gou1), vua:高 (kau1), japana:高 (kō), korea:고 (go), vjetnama:cao  
+**gavabe** *respondi* ← araba: جَوَاب‎ (jawāb), hindia:जवाब (javāb), bengala:জবাব (jobab), malaja:jawab, fula:jaabaade, svahila:jibu,jawabu, turka:cevap  
+**gaya** *elefanto* ← hindia:गज (gaj), tamila:கசம் (kacam), teluga:గజము (gajamu), kanara:ಗಜ (gaja), malaja:gajah, filipina:gadya  
 **gaze** *gazo* ← deu:franca:portugala:gaze, japana:ガーゼ (gāze), rusa:газ (gaz), angla:gauze  
 **gazel** *gazelo* ← araba:(ḡazāl), angla:franca:gazelle, rusa:газель (gazel'), japana:ガゼル (gazeru)  
 **gazeta** *gazeto (revuo)* ← angla:franca:gazette, rusa:газета (gazeta), svahila:gazeri, turka:gazete  
@@ -601,26 +602,6 @@
 **isme** *ismo* ← taja:เสริม (soem) + angla:-ism, franca:-isme, hispana:portugala:-ismo, rusa:-изм (-izm), malaja:-isme  
 **ite** *ŝtono* ← angla:franca:-ite, hispana:portugala:-ito, rusa:-ит (-it) + (brick) bengala:ইট (iṭ), hindia:ईंट (ī̃ṭ), taja:อิฐ (it), kmera:ឥដ្ឋ (ʼət), birma: အုတ် (ut)  
 **itis** ** ← angla:hispana:-itis, franca:portugala:-ite, rusa:-ит (-it)  
-**jai** *venki* ← hindia:जय (jay), bengala:জয় (jôy), teluga:జయ (jaya), malaja:jaya, taja:ชัย (chai), kmera:ជ័យ (cɨy), birma:ဇေယျ (jeyya)  
-**jain din** *Ĝajnismo* ← hindia:marataja:जैन (jain), tha:เชน (chen), angla:jainism, franca:jaïnisme, rusa:джайнизм (džaynizm)  
-**jake** *jako* ← angla:jacket, mandarena:夹克 (jiākè), rusa:жакет (žaket), deu:Jacke, portugala:jaqueta  
-**jampe** *salti* ← angla:jump, japana:ジャンプ (janpu), korea:점프 (jŏmp), bengala:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)  
-**jan** ** ← hindia:ध्यान (dhyān), bengala:ধ্যান (dhyān), japana:禅 (zen), angla:franca:portugala:zen, rusa:дзэн (dzen), mandarena:禅 (chán), korea:선 (seon), vjetnama:thiền, birma:ဈာန် (jhan)  
-**janela** *fenestro* ← portugala:janela, bengala:জানালা (janala), tamila:ஜன்னல் (jaṉṉal), malaja:jendela  
-**javabe** *respondi* ← araba: جَوَاب‎ (jawāb), hindia:जवाब (javāb), malaja:jawab, fula:jaabaade, svahila:jibu,jawabu, turka:cevap  
-**jebe** *poŝo* ← araba: جَيْب‎ (jayb), persa: جیب‎ (jib), hindia:जेब (jeb), panĝaba:ਜੇਬ (jeb), teluga:(jēbu), turka:cep, portugala:algebeira, haŭsa:aljihu, fula:jiiba, volofa:jiba, amhara:ጅብ (ǧəb)  
-**jele** ** ← angla:jail, franca:geôle, hindia:जेल (jel), bengala:জেল (jēl), teluga:జైలు (jailu), urdua: جیل‎ (jēl), svahila:jela + hispana:portugala:jaula  
-**jen** *persono* ← mandarena:人 (rén), wuu人 (zén), japana:人 (jin) + franca:gens, hispana:portugala:gente + hindia:जन (jan), bengala:-জন (-jôn), malaja:-jana, taja:ชน (chon), kmera:ជន (jon)  
-**jensen** ** ← mandarena:人蔘 (rénshēn), mina:人蔘 (jîn-sam), angla:hispana:portugala:turka:malaja:ginseng, rusa:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), japana:人参 (ninjin)  
-**jete** ** ← franca:projet, portugala:projeto, angla:project, hispana:proyecto, rusa:проект (proyekt), hindia:प्रोजैक्ट (projaikṭ), bengala:প্রজেক্ট (prôjekṭ), japana:プロジェクト (purojekuto), korea:프로젝트 (peurojekteu), turka:proje  
-**joke** ** ← angla:franca:joke, persa:جوک‎ (jok), japana:ジョーク (jōku) + mandarena:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
-**jube** *robo* ← araba: جُبَّة (jubba), svahila:juba, malaja:jubah, hispana:aljuba, portugala:gibão, franca:jupon, rusa:жупан (župan)  
-**judau** *ĵudo* ← mandarena:柔道 (róudào), japana:柔道 (jūdō), korea:유도 (yudo), vjetnama:nhu đạo, angla:deu:franca:hispana:portugala:malaja:turka:svahila:judo, rusa:дзюдо (dzyudo), araba: جُودُو‎ (jūdū), persa: جودو‎ (judo), hindia:जूदो (jūdo)  
-**jude** *juĝi* ← angla:judge, franca:juge, hispana:juez, portugala:juiz, hindia:जज (jaj), bengala:জজ (jôj), svahila:jaji, fula:juuju + rusa:судья (sud'ya)  
-**jumla** ** ← araba:(jumla), turka:cümle, hindia:जुमला (jumlā), mandarena:句 (jù)  
-**jun** *juna* ← angla:franca:malaja:junior + hispana:joven, portugala:jovem, persa: جوان‎ (javân), hindia:जवान (javān) + korea:젊다 (jeomda)  
-**jus** *suko* ← angla:juice, svahila:jusi, tamila:ஜூஸ் (jūs), japana:ジュース (jūsu), korea:주스 (juseu)  
-**juste** *ĝuste (precize, ekzakte)* ← angla:just, franca:juste, hispana:justo, itala:giusto, japana:ジャスト (jasto)  
 **ka** *ol (kiel)* ← hispana:portugala:franca:que, svahila:kumliko, suo:kuin, lao:ກວ່າ (kuā), filipina:kaysa  
 **kababu** ** ← araba:persa:urdua:  كباب (kabāb), turka:malaja:angla:hispana:kebab, rusa:кебаб (kebab), hindia:कबाब (kabāb), bengala:কাবাব (kabab), svahila:kababu  
 **kabile** *tribo* ← araba: قَبِيلَة‎ (qabīla), persa: قبیله‎ (qabile), hindia:क़बीला (qābilā), turka:kabile, svahila:haŭsa:kabila  
@@ -1590,35 +1571,53 @@
 **xuru** *komenco* ← araba: شُرُوع‎ (šurūʿ), persa: شروع (šoru') , hindia:शुरू (śurū), bengala:শুরু (śuru) + mandarena:始 (shǐ), japana:始 (kaishi), korea:시 (shi)  
 **xux** ** ← angla:shh, franca:chut, rusa:ш-ш-ш, mandarena:噓 (xū), japana:しーっ (shīt), korea:쉿 (swit), turka:sus  
 **ya** *jes* ← angla:yeah, deu:ja, korea:예 (ye), malaja:ya  
+**yai** *venki* ← hindia:जय (jay), bengala:জয় (jôy), teluga:జయ (jaya), malaja:jaya, taja:ชัย (chai), kmera:ជ័យ (cɨy), birma:ဇေယျ (jeyya)  
+**yain din** *Ĝajnismo* ← hindia:marataja:जैन (jain), tha:เชน (chen), angla:jainism, franca:jaïnisme, rusa:джайнизм (džaynizm)  
 **yake** ** ← angla:deu:franca:hispana:turka:yak, portugala:iaque, hindia:याक (yāk)  
+**yake** *jako* ← angla:jacket, mandarena:夹克 (jiākè), rusa:жакет (žaket), deu:Jacke, portugala:jaqueta  
 **yaki** ** ← korea:약 (yak), japana:約 (yaku), kantona:約 (yœk), turka:yaklaşık, mandarena:约 (yuē)  
 **yam** *manĝi (trinki)* ← kmera:ញ៉ាំ (nyam), fula:nyaamude + hispana:ñam, rusa:ням (nyam), itala:gnam, angla:yum, korea:냠냠 (nyamnyam), hungara:nyam  
 **yama** *lino* ← mandarena:亚麻 (yàmá), kantona:亞麻 (aa3maa4), japana:亜麻 (ama), korea:아마 (ama), hindia:उमा (umā)  
+**yanela** *fenestro* ← portugala:janela, bengala:জানালা (janala), tamila:ஜன்னல் (jaṉṉal), malaja:jendela  
 **yang** ** ← mandarena:阳 (yáng), kantona:陽 (joeng4), japana:陽 (yō), korea:양 (yang), vjetnama:dương, angla:deu:franca:hispana:portugala:yang, rusa:ян (yan)  
 **yatim** ** ← araba: يَتِيم‎ (yatīm), persa: یتیم‎ (yatim), turka:yetim, malaja:yatim, svahila:yatima, hindia:यतीम (yatīm), bengala:এতিম (etim), tamila:எத்தீம் (ettīm), fula:bii atiimu  
 **yau** *bezoni* ← mandarena:要 (yāo), kantona:要 (jiu1), vua:要 (yo1), japana:要 (yō), vjetnama:yêu  
 **ye** *ĉi tiu* ← korea:이 (i) + bengala:এ (e), hindia:यह (ye) + teluga:ఈ (ī), tamila:இது (itu) + joruba:yìí  
 **yeka** ** ← mandarena:易 (yì), kantona:易 (yik6), japana:易 (eki), korea:역 (yeok), vjetnama:dịch  
+**yele** ** ← angla:jail, franca:geôle, hindia:जेल (jel), bengala:জেল (jēl), teluga:జైలు (jailu), urdua: جیل‎ (jēl), svahila:jela + hispana:portugala:jaula  
 **yem** *salo* ← mandarena:盐 (yán), kantona:鹽 (yim4), japana:塩 (en), korea:염 (yeom), vjetnama:diêm  
+**yen** *persono* ← mandarena:人 (rén), wuu人 (zén), japana:人 (jin) + franca:gens, hispana:portugala:gente + hindia:जन (jan), bengala:-জন (-jôn), malaja:-jana, taja:ชน (chon), kmera:ជន (jon)  
+**yensen** ** ← mandarena:人蔘 (rénshēn), mina:人蔘 (jîn-sam), angla:hispana:portugala:turka:malaja:ginseng, rusa:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), japana:人参 (ninjin)  
 **yepa** *folio* ← mandarena:叶 (yè), kantona:葉 (jip6), korea:잎 (ip);엽 (yeop), vjetnama:diệp, japana:葉 (yō)  
+**yete** ** ← franca:projet, portugala:projeto, angla:project, hispana:proyecto, rusa:проект (proyekt), hindia:प्रोजैक्ट (projaikṭ), bengala:প্রজেক্ট (prôjekṭ), japana:プロジェクト (purojekuto), korea:프로젝트 (peurojekteu), turka:proje  
 **yezi** *kokoso* ← mandarena:椰子 (yēzi), kantona:椰子 (ye4zi2), korea:야자 (yaja), japana:椰子 (yashi)  
 **yim** ** ← mandarena:阴 (yīn), kantona:陰 (jam1), japana:陰 (in), korea:음 (eum), vjetnama:âm, angla:deu:franca:hispana:portugala:yin, rusa:инь (in')  
 **yo** *iu* ← mandarena:有 (yǒu), kantona:有 (jau5)  
 **yoga** *jogo* ← hindia:योग (yog), panĝaba:ਯੋਗ (yog), urdua:(yog), bengala:যোগ (jog), teluga:యోగా (yōgā), taja:โยคะ (yōga), angla:franca:hispana:malaja:turka:yoga, portugala:ioga, rusa:йога (yoga), mandarena:瑜伽 (yújiā), japana:ヨーガ (yōga), korea:요가 (yoga)  
 **yogur** *jogurto* ← angla:malaja:yogurt, franca:yogourt, hispana:yogur, portugala:iogurte, rusa:йогурт (yogurt), mandarena:优格 (yōugé), japana:ヨーグルト (yōguruto), korea:요구르트 (yogureuteu), turka:yoğurt   
+**yoke** ** ← angla:franca:joke, persa:جوک‎ (jok), japana:ジョーク (jōku) + mandarena:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
 **yoke** *jado* ← mandarena:玉 (yù), kantona:玉 (yuk6), nan:玉 (gio̍k), japana:玉 (gyoku), vjetnama:ngọc (玉), korea:옥 (ok), malaja:giok, taja:หยก (yok), kmera:យក់ (yuək)  
 **yota** ** ← angla:franca:hispana:portugala:yotta, malaja:yota-, mandarena:尧它- (yáotā-), japana:ヨタ- (yota-), korea:요타- (yota-)  
 **you** ** ← mandarena:幼 (yòu), kantona:幼 (yau3), japana:幼 (yõ), korea:유 (yu) + hindia:युवा (yuvā), tamila:யுவன் (yuvaṉ), teluga:యువ (yuva) + hispana:joven, portugala:jovem, franca:juvénile  
+**yube** *robo* ← araba: جُبَّة (jubba), svahila:juba, malaja:jubah, hispana:aljuba, portugala:gibão, franca:jupon, rusa:жупан (župan)  
+**yudau** *ĵudo* ← mandarena:柔道 (róudào), japana:柔道 (jūdō), korea:유도 (yudo), vjetnama:nhu đạo, angla:deu:franca:hispana:portugala:malaja:turka:svahila:judo, rusa:дзюдо (dzyudo), araba: جُودُو‎ (jūdū), persa: جودو‎ (judo), hindia:जूदो (jūdo)  
+**yude** *juĝi* ← angla:judge, franca:juge, hispana:juez, portugala:juiz, hindia:जज (jaj), bengala:জজ (jôj), svahila:jaji, fula:juuju + rusa:судья (sud'ya)  
 **yuge** *jugo* ← angla:yoke, hispana:yugo, portugala:jugo, franca:joug, rusa:иго (igo), persa:  یوغ‎ (yuğ) + kantona:軛 (aak1), vjetnama:ách  
+**yumla** ** ← araba:(jumla), turka:cümle, hindia:जुमला (jumlā), mandarena:句 (jù)  
+**yun** *juna* ← angla:franca:malaja:junior + hispana:joven, portugala:jovem, persa: جوان‎ (javân), hindia:जवान (javān) + korea:젊다 (jeomda)  
 **yunte** ** ← angla:joint, franca:jonction, hispana:portugala:junta, deu:Junktion  
 **yurta** *jurto (gero)* ← turka:angla:yurt, deu:Jurte, franca:yourte, hispana:yurta, portugala:iurte, rusa:юрта (yurta), hindia:युर्त (yurt), korea:유르트 (yureuteu)  
+**yus** *suko* ← angla:juice, svahila:jusi, tamila:ஜூஸ் (jūs), japana:ジュース (jūsu), korea:주스 (juseu)  
+**yuste** *ĝuste (precize, ekzakte)* ← angla:just, franca:juste, hispana:justo, itala:giusto, japana:ジャスト (jasto)  
 **yuterbium** *iterbio* ← angla:ytterbium, franca:ytterbium, hispana:iterbio, portugala:itérbio, rusa:иттербий, mandarena:镱 (yì), japana:イッテルビウム, korea:이테르븀, vjetnama:ytecbi, hindia:यिट्टरबियम, bengala:ইটারবিয়াম, malaja:iterbium, svahila:yitebi, araba: يتربيوم  
 **yutrium** *itrio* ← angla:yttrium, franca:yttrium, hispana:itrio, portugala:itrio, rusa:иттрий, mandarena:钇 (yǐ), japana:イットリウム, korea:이트륨, vjetnama:ytri, hindia:इत्रियम, bengala:ইটরিয়াম, malaja:itrium, svahila:yitri, araba: يتريوم  
 **zai** ** ← mandarena:在 (zài), kantona:在 (zoi6), japana:在 (zai), vjetnama:tại  
 **zalime** ** ← araba: ظَالِم‎ (ẓālim), persa: ظالم‎ (zâlem), hindia:ज़ालिम (zālim), turka:malaja:zalim, svahila:dhalimu, haŭsa:zalumci  
 **zaman** *tempo* ← malaja:jam, araba: زَمَن‎ (zaman), haŭsa:svahila:zamani, fula:jamaanu, turka:zaman, persa: زمان‎ (zamân), hindia:समय (samay), bengala:সময় (sômyô)  
 **zamia** ** ← araba: جَمَعَ‎ (jamaʿa), svahila:jamii, turka:camia, persa: جمع (jam’), haŭsa:jam'iyya + hindia:जमात (jamāt)  
+**zampe** *salti* ← angla:jump, japana:ジャンプ (janpu), korea:점프 (jŏmp), bengala:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)  
 **zamul** ** ← hindia:जामुन (jāmun), angla:jambul, portugala:jambolão, araba:جَمُّون (jammūn), svahila:zambarau  
+**zan** ** ← hindia:ध्यान (dhyān), bengala:ধ্যান (dhyān), japana:禅 (zen), angla:franca:portugala:zen, rusa:дзэн (dzen), mandarena:禅 (chán), korea:선 (seon), vjetnama:thiền, birma:ဈာန် (jhan)  
 **zang suta** ** ← mandarena:武术 (wǔshù), japana:武術 (bujutsu), vjetnama:võ thuật, korea:무술 (musul), angla:martial art  
 **zang** *milito (batalo)* ← persa: جنگ (jang), hindia:जंग (jang), bengala:জঙ্গ (jôṅg), turka:cenk + mandarena:仗 (zhàng); 爭 (zhēng), kantona:争 (zang1), korea:전쟁 (jeonjaeng), vjetnama:(chiến) tranh + malaja:juang  
 **zangal** *arbaro* ← angla:franca:jungle, hispana:jungla, portugala:jângal, rusa:джунгли (džungli), hindia:जंगल (jangal), bengala:জঙ্গল (jônggôl), malaja:jenggela, japana:ジャングル (janguru), korea:정글 (jeonggeul), turka:cengel  
@@ -1626,6 +1625,7 @@
 **zar** *hazardo* ← araba: زَهْر (zahr), turka:zar, persa: زار (zâr) + angla:hazard, hispana:portugala:azar, haŭsa:hazari  
 **zaru** *balailo* ← hindia:झाड़ू (jhāṛū), bengala:ঝাড়ু (jhaṛu) + korea:빗자루 (bitjaru)  
 **zau** *hordeo* ← hindia:जौ (jau), bengala:যব (jôb), marataja:जव (jav), guĝarata:જવ (jav), persa: جو‎ (jow)  
+**zebe** *poŝo* ← araba: جَيْب‎ (jayb), persa: جیب‎ (jib), hindia:जेब (jeb), panĝaba:ਜੇਬ (jeb), teluga:(jēbu), turka:cep, portugala:algebeira, haŭsa:aljihu, fula:jiiba, volofa:jiba, amhara:ጅብ (ǧəb)  
 **zebra** *zebro* ← angla:deu:portugala:turka:malaja:zebra, franca:zèbre, hispana:cebra, rusa:зебра (zebra), hindia:ज़ेब्रा (zebrā), bengala:জেবরা (jebra), japana:ゼブラ (zebura)  
 **zeka na** ** ← mandarena:借 (jiè), kantona:借 (ze3), japana:借 (shaku), korea:적 (jeok) + angla:check  
 **zeka** ** ← mandarena:借 (jiè), kantona:借 (ze3), vua:借 (jia2), japana:借 (shaku), korea:적 (jeok) + angla:check  

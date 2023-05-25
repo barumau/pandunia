@@ -456,7 +456,7 @@ duna - дюна
 durebil - долговечный  
 dure di - хронический  
 durometrer - секундомер  
-dus jen - враг (противник)  
+dus yen - враг (противник)  
 dus sin di - зловещий  
 • posprodution - завершающий этап создания  
 dux - душ  
@@ -627,7 +627,7 @@ gene logu - генеалогия
 gene tipe - генотип  
 gensal - генеральный  
 gensologia - гендерные исследования  
-geo nice jela - ублиет (подземная тюрьма)  
+geo nice yela - ублиет (подземная тюрьма)  
 germanium - германий  
 gide buke - путеводитель  
 gider - гид  
@@ -785,7 +785,7 @@ iha uma - мул
 imperia - империя  
 in bum - имплозия  
 intrage - внутренности  
-in verse jen - интроверт  
+in verse yen - интроверт  
 iode - йод  
 IP adres - IP-адрес  
 iridium - иридий  
@@ -794,25 +794,23 @@ islamisme - ислам (мусульманство)
 isme - идеология  
 ite - камень (камешек)  
 itis - воспаление  
-
-## J  
-
-jai - победить  
+y - J  
+yai - победить  
 zamul - джамболан  
-jan - осторожность (опаска)  
+zan - осторожность (опаска)  
 zan buda din - дзен-буддизм  
 zanive - осторожный (внимательный)  
-janela - окно  
+yanela - окно  
 zangal - лес (джунгли)  
 kundi - кувшин (графин)  
 zaru - метла  
 zau - ячмень  
-javabe - ответ  
-jebe - карман  
-jen zamia - толпа  
+gavabe - ответ  
+zebe - карман  
+yen zamia - толпа  
 zenzu table - счёты (абак)  
-jensen - женьшень  
-• projete - проект  
+yensen - женьшень  
+• proyete - проект  
 gihade - борьба (бой)  
 ziva - живать (живой; жизнь)  
 • traziva - переживать  
@@ -821,19 +819,19 @@ zong fon - гласный
 zong xulekan - средняя школа  
 Zong gogia - Китай  
 zovar - сорго (гаолян)  
-jube - халат (жупан)  
-• prejude - предрассудок  
-juder - судья  
-judau - дзюдо  
-jul - джоуль (J)  
-jumla - фраза  
-jumla logia - синтаксис  
-jun - юный  
-jun jen - юнец  
-jun moka - саженец  
-jus - сок  
-juste - точный  
-juste pauer - снайпер  
+yube - халат (жупан)  
+• preyude - предрассудок  
+yuder - судья  
+yudau - дзюдо  
+yul - джоуль (J)  
+yumla - фраза  
+yumla logia - синтаксис  
+yun - юный  
+yun yen - юнец  
+yun moka - саженец  
+yus - сок  
+yuste - точный  
+yuste pauer - снайпер  
 
 ## K  
 
@@ -938,7 +936,7 @@ katus - кактус
 kauri - каури  
 kave - копать (яма)  
 ke - что  
-ke jen - кто  
+ke yen - кто  
 ke loka - где  
 ke riti - как  
 ke sata - когда  
@@ -1102,7 +1100,7 @@ lige - лига (союз)
 lige su sanduke - ковчег завета  
 lima - пять (5)  
 limon - лимон  
-limon jus - лимонад  
+limon yus - лимонад  
 limon orange - цитрус  
 lin - линия (нитка)  
 lin so - волокно  
@@ -1314,7 +1312,7 @@ muzike - музика
 
 na - получить  
 nabi - пророчество  
-nabija - пророк (вестник)  
+nabiya - пророк (вестник)  
 nadir - редкий  
 nadir mar - редко  
 nagis - грязь (скверна)  
@@ -1361,7 +1359,7 @@ nese - остров
 • konnete - связывать  
 neu - новинка (новь)  
 neu di - новый  
-neu jen - новичок  
+neu yen - новичок  
 neuloge - неологизм  
 neunatike - новорождённый  
 neuta - новизна  
@@ -1416,8 +1414,8 @@ ope - опус
 orange - апельсин  
 orange rang - оранжевый  
 ordu - армия  
-ordu jen - солдат  
-ordu jen kan - казарма (барак)  
+ordu yen - солдат  
+ordu yen kan - казарма (барак)  
 ordu reger - генералиссимус  
 ore tis - отит  
 orkide - орхидея  
@@ -1427,7 +1425,7 @@ oselote - оцелот
 osidian - обсидиан  
 osmium - осмий  
 osmos - осмос  
-oste jama - скелет (остов)  
+oste yama - скелет (остов)  
 oste yunte - сустав  
 otimal - оптимальный (наилучший)  
 otion - опция (выбор, альтернатива)  
@@ -1467,7 +1465,7 @@ repare - чинить (ремонтировать)
 repare - починка (ремонт)  
 reparer - ремонтник  
 par fase - уровень  
-par jen - ровня  
+par yen - ровня  
 parta - равенство (паритет)  
 par vezeta - равновесие (баланс)  
 paranam - пароним  
@@ -1563,7 +1561,7 @@ porte - носить
 • reporter - репортёр  
 porto - порт  
 Portoriko - Пуэрто-Рико  
-portoriko jen - пуэрториканец  
+portoriko yen - пуэрториканец  
 poste marke - почтовый штемпель  
 pote camaca - половник (черпак, ковш)  
 poter - гончар  
@@ -1914,7 +1912,7 @@ tung - тунг
 tur - путешествие (турне)  
 turbe - утруждай  
 turbin - турбина  
-turbojeter - турбореактивный двигатель  
+turboyeter - турбореактивный двигатель  
 tuta - шелковица (тута)  
 tuzi - кролик (заяц)  
 
@@ -1946,7 +1944,7 @@ vaginits - вагинит
 vahi - оазис  
 vai - вне  
 vai dara - переливаться  
-vai jen - посторонний (аутсайдер)  
+vai yen - посторонний (аутсайдер)  
 vai yam - пикник  
 vakiler - представитель (делегат)  
 vakilize - поручать (делегировать)  
