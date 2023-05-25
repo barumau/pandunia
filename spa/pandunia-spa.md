@@ -1566,8 +1566,8 @@ zanger - luchador (guerrero)
 zang suta - arte marcial  
 zangal - bosque (jungla, selva)  
 kundi - jarra  
-jaru - escoba  
-jau - cebada  
+zaru - escoba  
+zau - cebada  
 javabe - responder (contestar; repuesta, contestación)  
 Alzeria - Argelia  
 jaze - jazz  
@@ -1606,7 +1606,7 @@ zong di - central
 zong fon - vocal  
 zong xulekan - escuela secundaria  
 Zong gogia - China  
-jovar - zahína (sorgo)  
+zovar - zahína (sorgo)  
 jube - bata (aljuba)  
 jude - juzgar  
 • prejude - prejuicio  
@@ -3046,10 +3046,10 @@ proxe - próximo
 • aproxe - aproximar  
 proxia - proximidad  
 puding - pudín  
-puje - adoración (veneración, culto)  
-pujekan - templo  
-puje meza - altar  
-puje rite - rito (ceremonia)  
+puze - adoración (veneración, culto)  
+puzekan - templo  
+puze meza - altar  
+puze rite - rito (ceremonia)  
 pul - lleno (completo)  
 pul ekran - pantalla completa  
 pul fina - completar (terminar)  

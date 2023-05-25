@@ -1668,7 +1668,7 @@ hobi - hobby
 hobiiste -   
 hogo - ogień  
 hogo di - ognisty  
-hogo puje - kult ognia  
+hogo puze - kult ognia  
 hogo sanduku - latarnia  
 hogo seku - krzemień  
 hogo tehni - pirotechnika  
@@ -1824,7 +1824,7 @@ zamive - zbiorowy, zbiorczy
 zame karte -   
 Jamaika - Jamajka  
 jampe - skoczyć, skakać  
-jamul - czapetka kuminowa  
+zamul - czapetka kuminowa  
 jan -   
 zan buda din -   
 zanive -   
@@ -1836,8 +1836,8 @@ zanger - wojownik, bojownik
 zang suta - sztuka walki  
 zangal - las, dżungla, zagajnik  
 kundi - dzban, dzbanek; słój, słoik; wazon  
-jaru -   
-jau - jęczmień  
+zaru -   
+zau - jęczmień  
 javabe - odpowiedzieć (odpowiadać; odpowiedź, odzew)  
 Alzeria - Algieria  
 jaze - jazz, dżez  
@@ -1881,7 +1881,7 @@ zong di - centralny (środkowy)
 zong fon - samogłoska  
 zong xulekan -   
 Zong gogia - Chiny  
-jovar - sorgo  
+zovar - sorgo  
 jube - żupan  
 jude - sądzić (osądzić)  
 • prejude -   
@@ -3587,10 +3587,10 @@ proxe - bliski
 • aproxe - zbliżać się (zbliżyć się)  
 proxia - bliskość  
 puding - puding  
-puje - cześć, szacunek  
-pujekan - świątynia  
-puje meza - ołtarz  
-puje rite - rytuał, ceremonia, ryt  
+puze - cześć, szacunek  
+puzekan - świątynia  
+puze meza - ołtarz  
+puze rite - rytuał, ceremonia, ryt  
 pul - pełny  
 pul ekran -   
 pul fina -   

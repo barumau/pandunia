@@ -798,15 +798,15 @@ itis - воспаление
 ## J  
 
 jai - победить  
-jamul - джамболан  
+zamul - джамболан  
 jan - осторожность (опаска)  
 zan buda din - дзен-буддизм  
 zanive - осторожный (внимательный)  
 janela - окно  
 zangal - лес (джунгли)  
 kundi - кувшин (графин)  
-jaru - метла  
-jau - ячмень  
+zaru - метла  
+zau - ячмень  
 javabe - ответ  
 jebe - карман  
 jen zamia - толпа  
@@ -820,7 +820,7 @@ zong - центр
 zong fon - гласный  
 zong xulekan - средняя школа  
 Zong gogia - Китай  
-jovar - сорго (гаолян)  
+zovar - сорго (гаолян)  
 jube - халат (жупан)  
 • prejude - предрассудок  
 juder - судья  
@@ -1587,8 +1587,8 @@ Promete - Прометей
 prometium - прометий  
 protacinium - протактиний  
 puding - пудинг  
-pujekan - храм (место богослужения)  
-puje meza - алтарь  
+puzekan - храм (место богослужения)  
+puze meza - алтарь  
 pul - полный  
 pul xipi - мариновать  
 pulmonitis - пневмония (воспаление лёгких)  

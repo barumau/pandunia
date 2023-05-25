@@ -605,11 +605,8 @@
 **jain din** *Jainism* ← Hindi:Marathi:जैन (jain), Thai:เชน (chen), English:jainism, French:jaïnisme, Russian:джайнизм (džaynizm)  
 **jake** *jacket* ← English:jacket, Mandarin:夹克 (jiākè), Russian:жакет (žaket), deu:Jacke, Portuguese:jaqueta  
 **jampe** *jump* ← English:jump, Japanese:ジャンプ (janpu), Korean:점프 (jŏmp), Bengali:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)  
-**jamul** *jamul (jambul, rose apple)* ← Hindi:जामुन (jāmun), English:jambul, Portuguese:jambolão, Arabic:جَمُّون (jammūn), Swahili:zambarau  
 **jan** *care (caution, attention, heed)* ← Hindi:ध्यान (dhyān), Bengali:ধ্যান (dhyān), Japanese:禅 (zen), English:French:Portuguese:zen, Russian:дзэн (dzen), Mandarin:禅 (chán), Korean:선 (seon), Vietnamese:thiền, Burmese:ဈာန် (jhan)  
 **janela** *window* ← Portuguese:janela, Bengali:জানালা (janala), Tamil:ஜன்னல் (jaṉṉal), Malay:jendela  
-**jaru** *broom (sweep)* ← Hindi:झाड़ू (jhāṛū), Bengali:ঝাড়ু (jhaṛu) + Korean:빗자루 (bitjaru)  
-**jau** *barley* ← Hindi:जौ (jau), Bengali:যব (jôb), Marathi:जव (jav), Gujarati:જવ (jav), Persian: جو‎ (jow)  
 **javabe** *answer (reply, respond; response)* ← Arabic: جَوَاب‎ (jawāb), Hindi:जवाब (javāb), Malay:jawab, Fulani:jaabaade, Swahili:jibu,jawabu, Turkish:cevap  
 **jebe** *pocket* ← Arabic: جَيْب‎ (jayb), Persian: جیب‎ (jib), Hindi:जेब (jeb), Punjabi:ਜੇਬ (jeb), Telugu:(jēbu), Turkish:cep, Portuguese:algebeira, Hausa:aljihu, Fulani:jiiba, Wolof:jiba, Amharic:ጅብ (ǧəb)  
 **jele** *prison (imprisonment)* ← English:jail, French:geôle, Hindi:जेल (jel), Bengali:জেল (jēl), Telugu:జైలు (jailu), Urdu: جیل‎ (jēl), Swahili:jela + Spanish:Portuguese:jaula  
@@ -617,7 +614,6 @@
 **jensen** *ginseng* ← Mandarin:人蔘 (rénshēn), Min-Chinese:人蔘 (jîn-sam), English:Spanish:Portuguese:Turkish:Malay:ginseng, Russian:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), Japanese:人参 (ninjin)  
 **jete** *thrust (throw, cast)* ← French:projet, Portuguese:projeto, English:project, Spanish:proyecto, Russian:проект (proyekt), Hindi:प्रोजैक्ट (projaikṭ), Bengali:প্রজেক্ট (prôjekṭ), Japanese:プロジェクト (purojekuto), Korean:프로젝트 (peurojekteu), Turkish:proje  
 **joke** *joke* ← English:French:joke, Persian:جوک‎ (jok), Japanese:ジョーク (jōku) + Mandarin:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
-**jovar** *sorghum (durra, jawar, Indian millet)* ← Persian: جواری‎ (jovâri), Hindi:ज्वार (jvār), Bengali:জোয়ার (joyār), Arabic: جَاوَرْس (jāwaras), English:jawar  
 **jube** *robe (tunica, gown, jubbah)* ← Arabic: جُبَّة (jubba), Swahili:juba, Malay:jubah, Spanish:aljuba, Portuguese:gibão, French:jupon, Russian:жупан (župan)  
 **judau** *judo* ← Mandarin:柔道 (róudào), Japanese:柔道 (jūdō), Korean:유도 (yudo), Vietnamese:nhu đạo, English:deu:French:Spanish:Portuguese:Malay:Turkish:Swahili:judo, Russian:дзюдо (dzyudo), Arabic: جُودُو‎ (jūdū), Persian: جودو‎ (judo), Hindi:जूदो (jūdo)  
 **jude** *judge* ← English:judge, French:juge, Spanish:juez, Portuguese:juiz, Hindi:जज (jaj), Bengali:জজ (jôj), Swahili:jaji, Fulani:juuju + Russian:судья (sud'ya)  
@@ -1206,7 +1202,6 @@
 **prote** *proto-* ← deu:English:French:Spanish:Portuguese:Malay:Turkish:proto-, Russian:прото- (proto-)  
 **proxe** *close (near)* ← English:proximal, French:proche, Spanish:Portuguese:próximo  
 **puding** *pudding* ← English:French:deu:pudding, Spanish:pudín, Portuguese:pudim, Russian:пудинг (puding), Turkish:Malay:puding, Swahili:pudini, Arabic:بودنغ (budingh), Mandarin:布丁 (bùdīng), Japanese:プディング (pudingu), Korean:푸딩 (puding)  
-**puje** *worship (adore; reveration, veneration)* ← Hindi:पूजा (pūjā), Urdu: پوجا‎ (pūjā), Tamil:பூசை (pūcai), Telugu:పూజ (pūja), Malay:puja, Thai:บูชา (bucha)  
 **pul** *full (complete, saturated)* ← Hindi:पूर्ण (pūrn), Bengali:পূর্ণ (pūrṇa), Punjabi:ਪੂਰਾ (pūrā), Persian:(por), Spanish:pleno, French:plein, English:full, Russian:полный (polnyj), Polish:pełny  
 **pulmon** *lung* ← Spanish:pulmón, French:poumon, Portuguese:pulmão, English:pulmonic  
 **pulse** *push* ← English:push; pulse, French:pousser + Spanish:Portuguese:impulso, Russian:импульс (impul's)  
@@ -1217,6 +1212,7 @@
 **pute** *reckon (calculate, put into a certain relation, state or condition)* ← English:put + Spanish:computadora, Portuguese:computador, Russian:компьютер (komp’uter), Arabic:كَمْبْيُوتَر‎ (kambyūtar), Swahili:kompyuta, Hindi:कंप्यूटर (kampyūṭar), Bengali:কম্পিউটার (kômpiuṭar), Malay:komputer, Japanese:コンピューター (konpyūtā)  
 **pute** *rotten* ← English:putrid, Spanish:Portuguese:podre, French:putride + Mandarin:腐 (fǔ), Japanese:腐 (fu) + Thai:ผุ (phu)  
 **putong** *common (general)* ← Mandarin:普通 (pǔtōng), Cantonese:普通 (pou2tung1), Vietnamese:phổ thông, Korean:보통 (botong)  
+**puze** *worship (adore; reveration, veneration)* ← Hindi:पूजा (pūjā), Urdu: پوجا‎ (pūjā), Tamil:பூசை (pūcai), Telugu:పూజ (pūja), Malay:puja, Thai:บูชา (bucha)  
 **rade** *ray* ← English:French:radiation, Spanish:radiación, Portuguese:radiação, Malay:radiasi, Russian:радио (radio), Turkish:radyo, Swahili:redio, Hindi:रेडियो (reḍiyo), Bengali:রেডিও (reḍio), Japanese:ラジオ (rajio), Korean:라디오 (radio)  
 **radio** *radio* ← deu:English:French:Spanish:Portuguese:radio, Russian:радио (radio), Fulani:Turkish:radyo, Swahili:redio, Hausa:rediyo, Hindi:रेडियो (reḍiyo), Bengali:রেডিও (reḍio), Japanese:ラジオ (rajio), Korean:라디오 (radio)  
 **radium** *radium* ← English:radium, French:radium, Spanish:radio, Portuguese:rádio, Russian:радий, Mandarin:镭 (léi), Japanese:ラジウム, Korean:라듐, Vietnamese:rađi, Hindi:रेडियम, Bengali:রেডিয়াম, Malay:radium, Swahili:radi, Arabic: راديوم  
@@ -1622,11 +1618,14 @@
 **zalime** *oppress (bully)* ← Arabic: ظَالِم‎ (ẓālim), Persian: ظالم‎ (zâlem), Hindi:ज़ालिम (zālim), Turkish:Malay:zalim, Swahili:dhalimu, Hausa:zalumci  
 **zaman** *period (era, epoch, term)* ← Malay:jam, Arabic: زَمَن‎ (zaman), Hausa:Swahili:zamani, Fulani:jamaanu, Turkish:zaman, Persian: زمان‎ (zamân), Hindi:समय (samay), Bengali:সময় (sômyô)  
 **zamia** *collection (congregation, assembly)* ← Arabic: جَمَعَ‎ (jamaʿa), Swahili:jamii, Turkish:camia, Persian: جمع (jam’), Hausa:jam'iyya + Hindi:जमात (jamāt)  
+**zamul** *jamul (jambul, rose apple)* ← Hindi:जामुन (jāmun), English:jambul, Portuguese:jambolão, Arabic:جَمُّون (jammūn), Swahili:zambarau  
 **zang suta** *martial art* ← Mandarin:武术 (wǔshù), Japanese:武術 (bujutsu), Vietnamese:võ thuật, Korean:무술 (musul), English:martial art  
 **zang** *fight (war, battle, combat)* ← Persian: جنگ (jang), Hindi:जंग (jang), Bengali:জঙ্গ (jôṅg), Turkish:cenk + Mandarin:仗 (zhàng); 爭 (zhēng), Cantonese:争 (zang1), Korean:전쟁 (jeonjaeng), Vietnamese:(chiến) tranh + Malay:juang  
 **zangal** *forest (woods, jungle)* ← English:French:jungle, Spanish:jungla, Portuguese:jângal, Russian:джунгли (džungli), Hindi:जंगल (jangal), Bengali:জঙ্গল (jônggôl), Malay:jenggela, Japanese:ジャングル (janguru), Korean:정글 (jeonggeul), Turkish:cengel  
 **zange** *grow (grow up)* ← Mandarin:长 (zhǎng); 增加 (zēng), Cantonese:增 (zang1), Korean:장 (jang), Vietnamese:tăng  
 **zar** *hazard (chance)* ← Arabic: زَهْر (zahr), Turkish:zar, Persian: زار (zâr) + English:hazard, Spanish:Portuguese:azar, Hausa:hazari  
+**zaru** *broom (sweep)* ← Hindi:झाड़ू (jhāṛū), Bengali:ঝাড়ু (jhaṛu) + Korean:빗자루 (bitjaru)  
+**zau** *barley* ← Hindi:जौ (jau), Bengali:যব (jôb), Marathi:जव (jav), Gujarati:જવ (jav), Persian: جو‎ (jow)  
 **zebra** *zebra* ← English:deu:Portuguese:Turkish:Malay:zebra, French:zèbre, Spanish:cebra, Russian:зебра (zebra), Hindi:ज़ेब्रा (zebrā), Bengali:জেবরা (jebra), Japanese:ゼブラ (zebura)  
 **zeka na** *borrow* ← Mandarin:借 (jiè), Cantonese:借 (ze3), Japanese:借 (shaku), Korean:적 (jeok) + English:check  
 **zeka** *borrow (lend)* ← Mandarin:借 (jiè), Cantonese:借 (ze3), Wu-Chinese:借 (jia2), Japanese:借 (shaku), Korean:적 (jeok) + English:check  
@@ -1651,6 +1650,7 @@
 **zombi** *zombie* ← Kongo:nzambi, English:zombie, Spanish:Turkish:zombi, Portuguese:zumbi, Russian:зомби (zombi), Arabic:زُومْبِي‎ (zūmbī), Hindi:ज़ोंबी (zombī), Japanese:ゾンビ (zonbi), Korean:좀비 (jombi)  
 **zone** *belt (zone)* ← Greek:ζώνη (zónē), English:French:zone, Spanish:Portuguese:zona, Russian:зона (zona)  
 **zong** *middle (center)* ← Mandarin:中 (zhōng), Cantonese:中 (zung1), Korean:중 (jung), Japanese:中 (chuu-), Vietnamese:trung  
+**zovar** *sorghum (durra, jawar, Indian millet)* ← Persian: جواری‎ (jovâri), Hindi:ज्वार (jvār), Bengali:জোয়ার (joyār), Arabic: جَاوَرْس (jāwaras), English:jawar  
 **zukam** *cold (illness)* ← Arabic:زُكَام‎ (zukām), Hindi:ज़ुकाम (zukām) + Mandarin:感(冒) (gǎn(mào)), Cantonese:感冒 (gam2mou6), Japanese:感(冒) (kan(bō)), Korean:감(기) (gam(gi)), Vietnamese:cảm  
 **Zukra** *Venus* ← Arabic: الزُّهَرَة‎ (az-zuhara), Swahili:Zuhura, Hausa:Zaharatu, Turkish:Zühre, Persian: زهره‎ (zohre), Urdu: زہرہ‎ (zuhra), Malay:Zuhrah + Hindi:शुक्र (śukra), Bengali:শুক্র (śukr), Burmese:သောကြာ (sau:kra), Thai:ศุกร์ (sùk)  
 **zuku** *ethnic group* ← Mandarin:族 (zú), Cantonese:族 (zuk6), Japanese:族 (zoku), Korean:족 (jok), Vietnamese:tộc  

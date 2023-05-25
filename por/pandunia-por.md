@@ -754,13 +754,13 @@ itis - inflamaçao
 
 • azame - encontrar  
 zame karte - cromo  
-jamul - jambolão (jambo)  
+zamul - jambolão (jambo)  
 zan buda din - budismo zen  
 janela - janela  
 zangal - selva (floresta, jângal)  
 kundi - jarra (jarro)  
-jaru - vassoura  
-jau - cevada  
+zaru - vassoura  
+zau - cevada  
 javabe - resposta  
 jebe - bolso (algebeira)  
 jebe caku - canivete  
@@ -781,7 +781,7 @@ zong - centro
 zong fon - vogal  
 zong xulekan - ensino secundário  
 Zong gogia - China  
-jovar - sorgo  
+zovar - sorgo  
 jube - manto  
 • prejude - prejulgamento  
 juder - juiz  
@@ -1574,8 +1574,8 @@ proxe - próximo
 • aproxe - aproximar  
 proxia - proximidade  
 puding - pudim  
-pujekan - templo  
-puje meza - altar  
+puzekan - templo  
+puze meza - altar  
 pul - cheio  
 pul fina - terminar (acabar, concluir)  
 pul xipi - ensopar (encharcar, marinar)  

@@ -917,8 +917,8 @@ zang - milito (batalo)
 zang di - milita  
 zangal - arbaro  
 kundi - kruĉo  
-jaru - balailo  
-jau - hordeo  
+zaru - balailo  
+zau - hordeo  
 javabe - respondi  
 jebe - poŝo  
 jele - malliberigi  
@@ -1658,8 +1658,8 @@ profesor - profesoro
 prometium - prometio  
 protacinium - protaktinio  
 proxe - proksima  
-pujekan - templo  
-puje meza - altaro  
+puzekan - templo  
+puze meza - altaro  
 pul - plena  
 pul fina - kompleti  
 pulmon - pulmo  

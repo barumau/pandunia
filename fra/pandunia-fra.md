@@ -928,13 +928,13 @@ itis - inflammation
 jai - vaincre  
 jain din - jaïnisme  
 zame karte - carte à collectionner  
-jamul - prune de Java  
+zamul - prune de Java  
 zan buda din - zen  
 janela - fenêtre  
 zangal - forêt (jungle)  
 kundi - jarre (carafe, cruche)  
-jaru - balai  
-jau - orge  
+zaru - balai  
+zau - orge  
 javabe - réponse  
 Alzeria - Algérie  
 jebe - poche  
@@ -957,7 +957,7 @@ zong - centre
 zong fon - voyelle  
 zong xulekan - école secondaire  
 Zong gogia - Chine  
-jovar - sorgho  
+zovar - sorgho  
 jube - robe  
 • prejude - préjuger  
 juder - juje  
@@ -1792,8 +1792,8 @@ proxe - proche
 • aproxe - approcher  
 proxia - proximité  
 puding - pudding  
-pujekan - temple  
-puje meza - autel  
+puzekan - temple  
+puze meza - autel  
 pul - plein  
 pul fina - accomplir (terminer)  
 pul xipi - tremper (faire mariner)  

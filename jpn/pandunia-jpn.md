@@ -681,15 +681,15 @@ jaibai - 勝敗
 • azame - 会う (会合, 会議)  
 • anzame - 散らす  
 • anzame di - 疎ら  
-jamul - フトモモ  
+zamul - フトモモ  
 jan - 注意  
 zan buda din - 禅宗  
 zanive - 気をつける (慎む)  
 janela - 窓  
 zang - 戦闘 (格闘)  
 zangal - 森 (森林, ジャングル)  
-jaru - 箒  
-jau - 大麦  
+zaru - 箒  
+zau - 大麦  
 javabe - 答え (回答)  
 jebe - ポケット (懐中)  
 jebe caku - ポケットナイフ  
@@ -705,7 +705,7 @@ jete grafe - 映す (投影する, 投影)
 ziva - 命 (生命)  
 zong - 中心  
 Zong gogia - 中国  
-jovar - 蜀黍 (コーリャン)  
+zovar - 蜀黍 (コーリャン)  
 • prejude - 偏見  
 judau - 柔道  
 jul - ジュール (J)  
@@ -1363,7 +1363,7 @@ problem - 問題
 prometium - プロメチウム  
 protacinium - プロトアクチニウム  
 puding - プディング  
-pujekan - 神殿 (宮, 寺, 神社)  
+puzekan - 神殿 (宮, 寺, 神社)  
 pul ekran - フルスクリーン  
 pul xipi - 漬ける (締める)  
 pulmonitis - 肺炎  

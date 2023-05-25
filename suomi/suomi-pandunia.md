@@ -97,7 +97,7 @@ allofoni (vaihtoehtoinen ääntämys) - alofone
 aloittaa - mule  
 alpakka - alpaka  
 altruismi (epäitsekkyys) - altrisme  
-alttari - puje meza  
+alttari - puze meza  
 alue (seutu) - aria  
 alue (seutu) - stan  
 alumiini - alumin  
@@ -371,7 +371,7 @@ dominopeli - domino
 dramaattinen ironia - dramatike ironia  
 dualismi - dualisme  
 dubnium - dubnium  
-durra (kirjodurra) - jovar  
+durra (kirjodurra) - zovar  
 dynamiitti - dinamite  
 dysprosium - disprosium  
 dysteismi (usko jumalan pahuuteen) - dusdeuisme  
@@ -984,7 +984,7 @@ jalkapallo - fute bol
 jalokivi - bauite  
 jalusta (teline) - fute bano  
 Jamaika - Jamaika  
-jambolaani - jamul  
+jambolaani - zamul  
 jang (positiivinen, kirkas, valo, elävä, luja, maskuliininen) - yang  
 jano - sui yau  
 Japani - Nipon  
@@ -1922,7 +1922,7 @@ luterilaisuus - Luterisme
 lutetium - lutesium  
 luu - oste  
 luulla (epäillä; luulo, epäily) - xake  
-luuta - jaru  
+luuta - zaru  
 luuttu - pipa  
 luvata (vannoa) - vode  
 Luxemburg - Luxemburge  
@@ -2446,7 +2446,7 @@ ohjaaja (pilotti, luotsi) - pilote
 ohjelma - programe  
 ohjelmoija - programer  
 oho (vau) - va  
-ohra - jau  
+ohra - zau  
 oi! (ai, oijoi) - ayo  
 oikea (paikkansapitävä) - sahi  
 oikea puoli - dex  
@@ -2606,7 +2606,7 @@ palvella (kestitä) - duke
 palvelu (palvelus) - serve  
 palvoa (fanata) - fanate  
 palvoa (fanata; fani) - fan  
-palvonta - puje  
+palvonta - puze  
 panaasialainen - panasian  
 panafrikkalainen - panafrikan  
 Panama - Panama  
@@ -3083,7 +3083,7 @@ risteys (liittymä) - yunture
 risteytys (hybridi) - hibride  
 risti - krus  
 ristikko - krus lin  
-rituaali (seremonia, riitti) - puje rite  
+rituaali (seremonia, riitti) - puze rite  
 rivinvaihto - lin parce  
 robotti - robote  
 rodium - rodium  
@@ -3701,7 +3701,7 @@ telluuri - telurium
 telsa (koverokirves) - benzi  
 teltta - haima  
 telugu (eräs intialainen kieli) - Telugu  
-temppeli - pujekan  
+temppeli - puzekan  
 temppu (kepponen, jekku, huijaus) - truke  
 Tennessee - Tenesi  
 tennessine - tenesium  
@@ -3818,7 +3818,7 @@ tuhka - hui
 tuijottaa (toljottaa) - mire  
 tuijottaja - mirer  
 tulehdus - itis  
-tulenpalvonta - hogo puje  
+tulenpalvonta - hogo puze  
 tulevaa aikaa merkitsevä apuverbi - xa  
 tulevaisuus - pos zaman  
 tuli - hogo  

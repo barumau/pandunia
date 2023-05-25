@@ -1703,7 +1703,7 @@ hobi - hobby
 hobiiste - hobbyist (amateur)  
 hogo - fire (burning)  
 hogo di - fiery  
-hogo puje - pyrolatry  
+hogo puze - pyrolatry  
 hogo sanduku - lantern  
 hogo seku - flint  
 hogo tehni - fireworks (pyrotechnics)  
@@ -1859,7 +1859,7 @@ zamive - collective
 zame karte - trading card  
 Jamaika - Jamaica  
 jampe - jump  
-jamul - jamul (jambul, rose apple)  
+zamul - jamul (jambul, rose apple)  
 jan - care (caution, attention, heed)  
 zan buda din - Zen Buddhism  
 zanive - careful (cautious, attentive, alert, wary)  
@@ -1871,8 +1871,8 @@ zanger - warrior (fighter)
 zang suta - martial art  
 zangal - forest (woods, jungle)  
 kundi - jar (jug, pitcher, carafe, amphora, vase)  
-jaru - broom (sweep)  
-jau - barley  
+zaru - broom (sweep)  
+zau - barley  
 javabe - answer (reply, respond; response)  
 Alzeria - Algeria  
 jaze - jazz  
@@ -1916,7 +1916,7 @@ zong di - central (middle)
 zong fon - vowel  
 zong xulekan - secondary school  
 Zong gogia - China  
-jovar - sorghum (durra, jawar, Indian millet)  
+zovar - sorghum (durra, jawar, Indian millet)  
 jube - robe (tunica, gown, jubbah)  
 jude - judge  
 • prejude - prejudice  
@@ -3621,10 +3621,10 @@ proxe - close (near)
 • aproxe - approach (get close, approximate)  
 proxia - proximity  
 puding - pudding  
-puje - worship (adore; reveration, veneration)  
-pujekan - temple (shrine, place of worship)  
-puje meza - altar  
-puje rite - ritual (ceremony, religious custom)  
+puze - worship (adore; reveration, veneration)  
+puzekan - temple (shrine, place of worship)  
+puze meza - altar  
+puze rite - ritual (ceremony, religious custom)  
 pul - full (complete, saturated)  
 pul ekran - fullscreen  
 pul fina - complete (make done)  

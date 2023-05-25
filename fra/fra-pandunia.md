@@ -199,7 +199,7 @@ aubergine - bedingan
 augmenter - auge  
 Australie - Australia  
 Austronésie - Austronesia  
-autel - puje meza  
+autel - puze meza  
 auteur - auter  
 autocollant - glu grafi  
 automatique - autatike  
@@ -235,7 +235,7 @@ baie (golf) - bahai sake
 baie - beri  
 bain - banya  
 baisser - dipe  
-balai - jaru  
+balai - zaru  
 balance (poids) - veze metri gi  
 balau (meranti) - meranti  
 balcon - veranda  
@@ -1507,7 +1507,7 @@ ordures - lasa
 oreille - ore  
 organiser - nome  
 organisme - bier  
-orge - jau  
+orge - zau  
 origine - asle  
 originel - aslike  
 ornithologie - paci logia  
@@ -1757,7 +1757,7 @@ protactinium - protacinium
 protocole - bure rite  
 prototype - prototipe  
 proximité - proxia  
-prune de Java - jamul  
+prune de Java - zamul  
 précieux - bau di  
 précurseur - prekurser  
 précéder - precese  
@@ -1998,7 +1998,7 @@ sommeil - sona
 son (sa) - se su  
 son - soni  
 sorbet - ais xarbe  
-sorgho - jovar  
+sorgho - zovar  
 soufre - sulfe  
 soumission - islam  
 soupe - supa  
@@ -2064,7 +2064,7 @@ technologie - tehnologia
 technétium - tehnetium  
 tectonique des plaques - plate geo kaskelogia  
 tellure - telurium  
-temple - pujekan  
+temple - puzekan  
 temps (ère) - zaman  
 tendance - klin  
 tender - long tire  

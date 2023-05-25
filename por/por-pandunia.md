@@ -64,7 +64,7 @@ aligátor (jacaré) - korte krokodil
 alma (espírito) - anime  
 almirante - bahai amirer  
 alquila - alkil  
-altar - puje meza  
+altar - puze meza  
 alterar - alife  
 alterar - altre  
 altruísmo - altrisme  
@@ -372,7 +372,7 @@ cerveja - bir
 cerâmica - poteria  
 cerâmico - serami  
 cetona - keton  
-cevada - jau  
+cevada - zau  
 chacal - xakal  
 Champagne - Xampan  
 champanhe - xampan vin  
@@ -990,7 +990,7 @@ iurte - yurta
 
 jade - yoke  
 jaguatirica (ocelote) - oselote  
-jambolão (jambo) - jamul  
+jambolão (jambo) - zamul  
 janela - janela  
 Japão - Nipon  
 jarra (jarro) - kundi  
@@ -1799,7 +1799,7 @@ sombrinha - sol cati
 sono - sona  
 sonolento - sonaive  
 sopa - supa  
-sorgo - jovar  
+sorgo - zovar  
 sorver - sorbe  
 sorvete (gelado) - ais krem  
 sorvete - ais xarbe  
@@ -1848,7 +1848,7 @@ telha - tegule
 telhado - cati  
 telúrio - telurium  
 tempero - masala  
-templo - pujekan  
+templo - puzekan  
 tempo - zaman  
 temporal (toró) - dai barxa  
 tendência - klin  
@@ -1962,7 +1962,7 @@ vara (bastão) - kane
 vara de pescar - huke lin kane  
 variável - varibil  
 vaso de flores - hua pote  
-vassoura - jaru  
+vassoura - zaru  
 vazar - lou  
 vazio - hali  
 vegetalista - veganiste  

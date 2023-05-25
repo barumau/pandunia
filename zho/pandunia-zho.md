@@ -722,7 +722,7 @@ itis - 炎症
 
 jaibai - 勝敗  
 • azame - 聚会 (会议)  
-jamul - 閻浮樹  
+zamul - 閻浮樹  
 jan - 注意 (谨慎)  
 zan buda din - 禅宗  
 zanive - 谨慎的  
@@ -731,8 +731,8 @@ janela frem - 窗框
 zang - 仗 (爭)  
 zangal - 森林  
 kundi - 罐 (瓶)  
-jaru - 扫帚  
-jau - 大麦  
+zaru - 扫帚  
+zau - 大麦  
 javabe - 回答  
 jebe - 口袋 (荷包)  
 jebe caku - 小刀  
@@ -751,7 +751,7 @@ ziva - 生命
 zong - 中心  
 zong xulekan - 中学  
 Zong gogia - 中国  
-jovar - 高粱  
+zovar - 高粱  
 jube - 长袍  
 • prejude - 偏见  
 judau - 柔道  
@@ -1408,8 +1408,8 @@ problem - 问题 (难题)
 prometium - 钷  
 protacinium - 镤  
 puding - 布丁  
-pujekan - 寺庙  
-puje meza - 圣坛  
+puzekan - 寺庙  
+puze meza - 圣坛  
 pul fina - 完成  
 pul xipi - 浸泡  
 pulmonitis - 肺炎  

@@ -115,7 +115,7 @@ alpaca - alpaka
 alphabet - zi seri  
 already (completed action) - fin  
 also (too, in addition) - a max  
-altar - puje meza  
+altar - puze meza  
 alter - altre  
 altruism - altrisme  
 alum - aluminage  
@@ -358,7 +358,7 @@ barbarian - barbar
 barbecue (grill) - kababu  
 Barbuda - Barbuda  
 barium - barium  
-barley - jau  
+barley - zau  
 barometer - air prese metrer  
 barracks - ordu jen kan  
 barrel (can, cask) - tong  
@@ -550,7 +550,7 @@ bring up (educate, raise) - pede
 broccoli - brokoli  
 broken (shattered) - parce di  
 bromine - brom  
-broom (sweep) - jaru  
+broom (sweep) - zaru  
 brother - bra  
 brown - kafe rang  
 brown algae - kafe alga  
@@ -2144,7 +2144,7 @@ jailer (imprisoner) - jeler
 Jainism - jain din  
 Jakarta - Jakarta  
 Jamaica - Jamaika  
-jamul (jambul, rose apple) - jamul  
+jamul (jambul, rose apple) - zamul  
 January - mes un  
 Japan - Nipon  
 Japanese - nipon di  
@@ -3489,7 +3489,7 @@ put back (postpone) - pospoze
 put back (postpone) - pospoze  
 put in (impose) - inpoze  
 pyramid - piram  
-pyrolatry - hogo puje  
+pyrolatry - hogo puze  
 Qatar - Katar  
 qualify (define) - kalife  
 quality (property) - kalta  
@@ -3659,7 +3659,7 @@ ring - ring
 rip current - tire dara  
 risk - riske  
 risky - riskike  
-ritual (ceremony, religious custom) - puje rite  
+ritual (ceremony, religious custom) - puze rite  
 river (stream) - rivo  
 river bank - rivo kinar  
 road sign - dau bano  
@@ -4013,7 +4013,7 @@ son - son
 son's daughter - son doh  
 son's son - son son  
 soon (after a while) - a korte  
-sorghum (durra, jawar, Indian millet) - jovar  
+sorghum (durra, jawar, Indian millet) - zovar  
 sororal nephew - sis son  
 sororal niece - sis doh  
 sorry (pardon) - af  
@@ -4269,7 +4269,7 @@ tellurium - telurium
 Telugu - Telugu  
 temperament (usual manner of behaviour) - tabade  
 temperature - terme  
-temple (shrine, place of worship) - pujekan  
+temple (shrine, place of worship) - puzekan  
 tempt (entice) - tenta  
 ten (deca-, 10) - des  
 ten thousand - des kilo  
@@ -4740,7 +4740,7 @@ workshop - karkan
 world - dunia  
 world language - dunia baxe  
 worm - verme  
-worship (adore; reveration, veneration) - puje  
+worship (adore; reveration, veneration) - puze  
 wow! (gee!) - va  
 wrap - lifafe  
 wrapping (envelope, covering) - lifafe  

@@ -409,7 +409,6 @@
  - jaija  
  - jan  
  - janela frem  
- - jaru  
  - jebe caku  
  - jele jen  
  - jen (jen men)  
@@ -1019,6 +1018,7 @@
  - zan buda din  
  - zanive  
  - zarduxtan mager  
+ - zaru  
  - zelo  
  - zeta  
  - zete fonte  
@@ -1659,7 +1659,7 @@ cywilizacja - sivilia
 cywilizowany (ucywilizowany) - sivil  
 Czad - Cade  
 czajnik - ketel  
-czapetka kuminowa - jamul  
+czapetka kuminowa - zamul  
 czar (urok, wdzięk) - carme  
 Czarnogóra - Cernagora  
 czarny - kala  
@@ -1673,7 +1673,7 @@ czempion - campion
 czerwiec - mes tri  
 czerwony - rubi  
 cześć - sal  
-cześć, szacunek - puje  
+cześć, szacunek - puze  
 czosnek olbrzymi - dai lasun  
 cztery (4) - nelu  
 czuć - tocu sense  
@@ -2249,7 +2249,7 @@ jurta - yurta
 jutro - pos den  
 już (skończona czynność) - fin  
 jądro atomu - atom kerne  
-jęczmień - jau  
+jęczmień - zau  
 język - lisan  
 język ojczysty (język rodzimy) - native lingue  
 język surinamski - surinam baxe  
@@ -2518,7 +2518,7 @@ kukurydza - mais
 kukułka - kuku  
 kulomb - kulombe  
 kuloodporny - dana sekur  
-kult ognia - hogo puje  
+kult ognia - hogo puze  
 kultura - kulture  
 kulturystyka - muskul bina  
 kumin, kmin - zira  
@@ -3148,7 +3148,7 @@ owca - mehe
 owinięcie (koperta, okładka) - lifafe  
 owoc - frute  
 owoc kiwi - kivi frute  
-ołtarz - puje meza  
+ołtarz - puze meza  
 ołów - plumbe  
 oś - axe  
 ośmiornica - ohtopus  
@@ -3714,7 +3714,7 @@ rym (wers) - rime
 rynek, bazar - bazar  
 rysunek, obraz - desen  
 rytm, bit - ritim  
-rytuał, ceremonia, ryt - puje rite  
+rytuał, ceremonia, ryt - puze rite  
 ryzyko - riske  
 ryzykowny - riskike  
 ryś - linxe  
@@ -3875,7 +3875,7 @@ sok - jus
 Somalia - Somal  
 Somaliland - Somal Dexa  
 sometime - yo sata  
-sorgo - jovar  
+sorgo - zovar  
 sos - sos  
 sos jabłkowy - aple sos  
 sos sojowy - soi sos  
@@ -4741,7 +4741,7 @@ zły, zrujnowany, zepsuty - harabe
 świerk - pisea  
 świeży - taza  
 świnia - goro  
-świątynia - pujekan  
+świątynia - puzekan  
 święto - feste den  
 święty - sante  
 źle zrozumieć - galte budi  

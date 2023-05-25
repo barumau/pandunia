@@ -62,7 +62,7 @@ adiós - sal cute
 adjetivo - sifa loge  
 admirar - amire  
 adoquín - bolite  
-adoración (veneración, culto) - puje  
+adoración (veneración, culto) - puze  
 adormidera (amapola real) - sona papi  
 adulterio - zina  
 adulto - ceng jen  
@@ -152,7 +152,7 @@ alquilar (arrendar, tomar en arriendo) - kira kape
 alquiler (arriendo) - kira  
 alquilo - alkil  
 alquino - alkin  
-altar - puje meza  
+altar - puze meza  
 alterar - altre  
 alto (parte de arriba) - gau  
 alto - gau di  
@@ -688,7 +688,7 @@ caña de pesca - huke lin kane
 cañonear - dai pauer  
 cañón (barranco, quebrada) - kanyon  
 cañón - dai pau  
-cebada - jau  
+cebada - zau  
 cebra - zebra  
 celebrar (festejar; celebración, fiesta) - feste  
 celeste (azul celeste) - sama nil  
@@ -1375,7 +1375,7 @@ escarcha - hima rose
 escasez - kamia  
 escaso (disperso, ralo) - anzame di  
 escenario (podio, estrado, tarima) - tai  
-escoba - jaru  
+escoba - zaru  
 Escocia - Skotia  
 escorpión (alacrán) - akrabe  
 escriba - kitaber  
@@ -3375,7 +3375,7 @@ ring - ringar
 rinoceronte - kargadan:  
 rio - rivo  
 ritmo - ritim  
-rito (ceremonia) - puje rite  
+rito (ceremonia) - puze rite  
 riñon - nefre  
 roble - baluta  
 roble común - europa baluta  
@@ -3717,7 +3717,7 @@ televisión - televidion
 telurio - telurium  
 tema (tratar de) - tema  
 temperatura - terme  
-templo - pujekan  
+templo - puzekan  
 tenedor - forke  
 tener (mantener, detener) - tene  
 tener - ha  
@@ -4047,7 +4047,7 @@ yurta - yurta
 
 ## Z  
 
-zahína (sorgo) - jovar  
+zahína (sorgo) - zovar  
 Zambia - Zambia  
 zanahoria - karote  
 zapatero - boter  

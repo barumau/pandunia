@@ -1654,7 +1654,7 @@ hobi|hobi|||eng:spa:por:deu:fra:hobby, rus:хобби (hobbi)|hobby|||pasatiempo
 hobi.ist-|hobiiste||||hobbyist (amateur)||amateur|amateur (aficionado)|amador|любитель|||||||amatör|||爱好者||アマチュア|아마추어|||harrastaja (amatööri)|
 hogo|hogo|||spa:fuego, por:fogo + rus:огонь (ogon’), hin:आग (āg), ben:অগ্নি (ôgni), pan:ਅੱਗ (ag) + zho:火 (huǒ), yue:火 (fo2), wuu:火 (hu2), kor:화 (hwa), vie:hoả|fire (burning)||feu|fuego|fogo|огонь||आग (अग्नि)|আগুন (অগ্নি)||api|نَار|ateş|moto||火||火|불|lửa|fajro|tuli|ogień
 hogo.di|hogo di||||fiery|||ardiente (encendido)|||||||||||||||||fajra|tulinen|ognisty
-hogo.puj-|hogo puje||||pyrolatry|||||||||||||||||||||tulenpalvonta|kult ognia
+hogo.puz-|hogo puze||||pyrolatry|||||||||||||||||||||tulenpalvonta|kult ognia
 hogo.sanduk-|hogo sanduku||||lantern|||farol (linterna)|||||||||||||||||lanterno|lyhty|latarnia
 hogo.seku|hogo seku||||flint||silex|pedernal (sílex)|pederneira|кремень||चक़मक़||||||||燧石||火打ち石 (フリント)||||piikivi|krzemień
 hogo.tehni|hogo tehni||||fireworks (pyrotechnics)||feu d’artifice|dispositivo pirotécnico|fogos de artifício|фейерверк||||||||||烟火||花火||||pyrotekniikka|pirotechnika
@@ -1806,7 +1806,7 @@ zam.iv.|zamive||||collective|||colectivo|||||||||||||||||kolekta|kollektiivinen|
 zam.karte|zame karte||||trading card||carte à collectionner|cromo|cromo|||||||||||||||||keräilykortti|
 Jamaika|Jamaika|gogia|JM||Jamaica|||Jamaica|||||||||||||||||Jamajko|Jamaika|Jamajka
 jamp-|jampe|||eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|jump|||saltar (brincar)|||||||||||||||||salti|hypätä (hyppiä)|skoczyć, skakać
-jamul|jamul|bio|Syzygium|hin:जामुन (jāmun), eng:jambul, por:jambolão, ara:جَمُّون (jammūn), swa:zambarau|jamul (jambul, rose apple)||prune de Java||jambolão (jambo)|джамболан||जामुन||||||zambarau||閻浮樹||フトモモ||||jambolaani|czapetka kuminowa
+zamul|zamul|bio|Syzygium|hin:जामुन (jāmun), eng:jambul, por:jambolão, ara:جَمُّون (jammūn), swa:zambarau|jamul (jambul, rose apple)||prune de Java||jambolão (jambo)|джамболан||जामुन||||||zambarau||閻浮樹||フトモモ||||jambolaani|czapetka kuminowa
 zan-|jan|||hin:ध्यान (dhyān), ben:ধ্যান (dhyān), jpn:禅 (zen), eng:fra:por:zen, rus:дзэн (dzen), zho:禅 (chán), kor:선 (seon), vie:thiền, mya:ဈာန် (jhan)|care (caution, attention, heed)|||cuidado (atención, precaución, cautela)||осторожность (опаска)||ध्यान (सावधानी)|ধ্যান||berhati-hati (awas)||ihtiyat (dikkat)|||注意 (谨慎)||注意||||huomio (tarkkaavaisuus)|
 zan.buda.din|zan buda din||||Zen Buddhism||zen|budismo zen|budismo zen|дзен-буддизм||||||||||禅宗||禅宗|선종|||zenbuddhalaisuus|
 zan.iv-|zanive||||careful (cautious, attentive, alert, wary)|||cuidadoso (cauteloso, tener cuidado)||осторожный (внимательный)||सतर्क|||hati-hati||dikkatli|||谨慎的||気をつける (慎む)||||tarkkaavainen|
@@ -1818,8 +1818,8 @@ zang.er|zanger||||warrior (fighter)|||luchador (guerrero)||||||||||||||||||sotur
 zang.suta|zang suta|||zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|martial art|||arte marcial||||||||||||||||||kamppailulaji|sztuka walki
 zangal|zangal|||eng:fra:jungle, spa:jungla, por:jângal, rus:джунгли (džungli), hin:जंगल (jangal), ben:জঙ্গল (jônggôl), may:jenggela, jpn:ジャングル (janguru), kor:정글 (jeonggeul), tur:cengel|forest (woods, jungle)||forêt (jungle)|bosque (jungla, selva)|selva (floresta, jângal)|лес (джунгли)||जंगल (वन)|বন (জঙ্গল)||hutan (jenggela)||orman (cengel)|msitu||森林||森 (森林, ジャングル)|숲 (삼림 , 정글)|rừng|arbaro|metsä (viidakko)|las, dżungla, zagajnik
 kundi|kundi|||zho:罐子 (guànzi), yue:罐子 (gun3zi2), kor:관 (guan) + may:kendi, tha:กุณฑี (gundii)|jar (jug, pitcher, carafe, amphora, vase)||jarre (carafe, cruche)|jarra|jarra (jarro)|кувшин (графин)||||||جَرَّة‎ (زِير‎)||||罐 (瓶)||||lọ (bình)|kruĉo|ruukku (kannu, maljakko, karahvi)|dzban, dzbanek; słój, słoik; wazon
-jaru|jaru|||hin:झाड़ू (jhāṛū), ben:ঝাড়ু (jhaṛu) + kor:빗자루 (bitjaru)|broom (sweep)||balai|escoba|vassoura|метла||झाड़ू|ঝাড়ু||sapu|مِكْنَسَة‎|süpürge|mfagio||扫帚||箒|비 (빗자루)||balailo|luuta|
-jau|jau|bio|Hordeum vulgare|hin:जौ (jau), ben:যব (jôb), mar:जव (jav), guj:જવ (jav), fas: جو‎ (jow)|barley||orge|cebada|cevada|ячмень||जौ|যব||barli||arpa|shayiri||大麦||大麦|보리|lúa mạch|hordeo|ohra|jęczmień
+zaru|zaru|||hin:झाड़ू (jhāṛū), ben:ঝাড়ু (jhaṛu) + kor:빗자루 (bitjaru)|broom (sweep)||balai|escoba|vassoura|метла||झाड़ू|ঝাড়ু||sapu|مِكْنَسَة‎|süpürge|mfagio||扫帚||箒|비 (빗자루)||balailo|luuta|
+zau|zau|bio|Hordeum vulgare|hin:जौ (jau), ben:যব (jôb), mar:जव (jav), guj:જવ (jav), fas: جو‎ (jow)|barley||orge|cebada|cevada|ячмень||जौ|যব||barli||arpa|shayiri||大麦||大麦|보리|lúa mạch|hordeo|ohra|jęczmień
 javab-|javabe|||ara: جَوَاب‎ (jawāb), hin:जवाब (javāb), may:jawab, ful:jaabaade, swa:jibu,jawabu, tur:cevap|answer (reply, respond; response)||réponse|responder (contestar; repuesta, contestación)|resposta|ответ||जवाब (उत्तर)|উত্তর||jawab|جَوَاب‎|cevap|jibu||回答||答え (回答)|대답 (회답)|trả lời|respondi|vastata (vastaus)|odpowiedzieć (odpowiadać; odpowiedź, odzew)
 alzer.ia|Alzeria|gogia|DZ||Algeria||Algérie|Argelia||||||||الجزائر‎ (الدزاير‎)||||||||||Algeria|Algieria
 jaz.|jaze||||jazz|||jazz||||||||||||||||||jazz (jatsi)|jazz, dżez
@@ -1863,7 +1863,7 @@ zong.di|zong di||||central (middle)|||central|||||||||||||||||||centralny (środ
 zong.fon|zong fon||||vowel||voyelle|vocal|vogal|гласный|||||vokal||||||||보컬 부분||vokalo|vokaali|samogłoska
 zong.xul.kan|zong xulekan||||secondary school||école secondaire|escuela secundaria|ensino secundário|средняя школа|||||sekolah menengah|||||中学||||trường trung học|gimnazio|yläaste ja lukio|
 zong gog.ia|Zong gogia|gogia|CN||China||Chine|China|China|Китай||चीन|চীন||Cina (Tiongkok)|اَلصِّين‎|Çin|Uchina||中国||中国|중국|Trung Quốc|Ĉinio|Kiina|Chiny
-jovar|jovar|bio|Sorghum bicolor|fas: جواری‎ (jovâri), hin:ज्वार (jvār), ben:জোয়ার (joyār), ara: جَاوَرْس (jāwaras), eng:jawar|sorghum (durra, jawar, Indian millet)||sorgho|zahína (sorgo)|sorgo|сорго (гаолян)||ज्वार|ben||betari (sorgum)|ذُرَة‎||mtama||高粱||蜀黍 (コーリャン)|수수|||durra (kirjodurra)|sorgo
+zovar|zovar|bio|Sorghum bicolor|fas: جواری‎ (jovâri), hin:ज्वार (jvār), ben:জোয়ার (joyār), ara: جَاوَرْس (jāwaras), eng:jawar|sorghum (durra, jawar, Indian millet)||sorgho|zahína (sorgo)|sorgo|сорго (гаолян)||ज्वार|ben||betari (sorgum)|ذُرَة‎||mtama||高粱||蜀黍 (コーリャン)|수수|||durra (kirjodurra)|sorgo
 jub-|jube|||ara: جُبَّة (jubba), swa:juba, may:jubah, spa:aljuba, por:gibão, fra:jupon, rus:жупан (župan)|robe (tunica, gown, jubbah)|Robe|robe|bata (aljuba)|manto|халат (жупан)|||||jubah|||juba||长袍|||||robo|kaapu|żupan
 jud-|jude|||eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji, ful:juuju + rus:судья (sud'ya)|judge|||juzgar|||||||||||||||||juĝi|tuomita|sądzić (osądzić)
 jud-pre.|• prejude||||prejudice||préjuger|prejuicio|prejulgamento|предрассудок||पूर्वाग्रह||||||||偏见|偏見|偏見|편견||angaŭjuĝo|ennakkosyytös|
@@ -3560,10 +3560,10 @@ prox-|proxe|||eng:proximal, fra:proche, spa:por:próximo|close (near)||proche|pr
 prox-a|• aproxe||||approach (get close, approximate)||approcher|aproximar|aproximar|||||||||||||||||lähestyä|zbliżać się (zbliżyć się)
 prox.ia|proxia||||proximity||proximité|proximidad|proximidade|||||||||||||||||lähistö|bliskość
 puding|puding|||eng:fra:deu:pudding, spa:pudín, por:pudim, rus:пудинг (puding), tur:may:puding, swa:pudini, ara:بودنغ (budingh), zho:布丁 (bùdīng), jpn:プディング (pudingu), kor:푸딩 (puding)|pudding|Pudding|pudding|pudín|pudim|пудинг||||||||pudini||布丁||プディング|푸딩|||vanukas|puding
-puj-|puje|||hin:पूजा (pūjā), urd: پوجا‎ (pūjā), tam:பூசை (pūcai), tel:పూజ (pūja), may:puja, tha:บูชา (bucha)|worship (adore; reveration, veneration)|||adoración (veneración, culto)||||पूजा||||||||||||||palvonta|cześć, szacunek
-puj.kan-|pujekan||||temple (shrine, place of worship)||temple|templo|templo|храм (место богослужения)||मन्दिर|মন্দির|கோயில்|kuil|مَعْبَد‎|tapınak (ibadethane)|hekalu||寺庙||神殿 (宮, 寺, 神社)|절 (사원)|đền|templo|temppeli|świątynia
-puj.meza-|puje meza||||altar||autel|altar|altar|алтарь||वेदी (वेदिका)|||altar (mazbah)||mihrap|altare||圣坛|||||altaro|alttari|ołtarz
-puj.rit-|puje rite||||ritual (ceremony, religious custom)|||rito (ceremonia)||||धार्मिक-विधि||||||||||||||rituaali (seremonia, riitti)|rytuał, ceremonia, ryt
+puz-|puze|||hin:पूजा (pūjā), urd: پوجا‎ (pūjā), tam:பூசை (pūcai), tel:పూజ (pūja), may:puja, tha:บูชา (bucha)|worship (adore; reveration, veneration)|||adoración (veneración, culto)||||पूजा||||||||||||||palvonta|cześć, szacunek
+puz.kan-|puzekan||||temple (shrine, place of worship)||temple|templo|templo|храм (место богослужения)||मन्दिर|মন্দির|கோயில்|kuil|مَعْبَد‎|tapınak (ibadethane)|hekalu||寺庙||神殿 (宮, 寺, 神社)|절 (사원)|đền|templo|temppeli|świątynia
+puz.meza-|puze meza||||altar||autel|altar|altar|алтарь||वेदी (वेदिका)|||altar (mazbah)||mihrap|altare||圣坛|||||altaro|alttari|ołtarz
+puz.rit-|puze rite||||ritual (ceremony, religious custom)|||rito (ceremonia)||||धार्मिक-विधि||||||||||||||rituaali (seremonia, riitti)|rytuał, ceremonia, ryt
 pul|pul|||hin:पूर्ण (pūrn), ben:পূর্ণ (pūrṇa), pnb:ਪੂਰਾ (pūrā), fas:(por), spa:pleno, fra:plein, eng:full, rus:полный (polnyj), pol:pełny|full (complete, saturated)||plein|lleno (completo)|cheio|полный||पूर्ण|পূর্ণ||||||||||||plena|täysi|pełny
 pul.ekran|pul ekran||||fullscreen|||pantalla completa||||||||||||||フルスクリーン|||||
 pul.fina|pul fina||||complete (make done)||accomplir (terminer)|completar (terminar)|terminar (acabar, concluir)|||||||||||完成|||||kompleti|tehdä loppuun (saada valmiiksi)|

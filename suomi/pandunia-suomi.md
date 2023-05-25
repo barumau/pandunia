@@ -1614,7 +1614,7 @@ hobi - harrastus
 hobiiste - harrastaja (amatööri)  
 hogo - tuli  
 hogo di - tulinen  
-hogo puje - tulenpalvonta  
+hogo puze - tulenpalvonta  
 hogo sanduku - lyhty  
 hogo seku - piikivi  
 hogo tehni - pyrotekniikka  
@@ -1764,7 +1764,7 @@ zamive - kollektiivinen
 zame karte - keräilykortti  
 Jamaika - Jamaika  
 jampe - hypätä (hyppiä)  
-jamul - jambolaani  
+zamul - jambolaani  
 jan - huomio (tarkkaavaisuus)  
 zan buda din - zenbuddhalaisuus  
 zanive - tarkkaavainen  
@@ -1776,8 +1776,8 @@ zanger - soturi (taistelija)
 zang suta - kamppailulaji  
 zangal - metsä (viidakko)  
 kundi - ruukku (kannu, maljakko, karahvi)  
-jaru - luuta  
-jau - ohra  
+zaru - luuta  
+zau - ohra  
 javabe - vastata (vastaus)  
 Alzeria - Algeria  
 jaze - jazz (jatsi)  
@@ -1812,7 +1812,7 @@ Zong Afrika Vakilkratia - Keski-Afrikan Tasavalta
 zong fon - vokaali  
 zong xulekan - yläaste ja lukio  
 Zong gogia - Kiina  
-jovar - durra (kirjodurra)  
+zovar - durra (kirjodurra)  
 jube - kaapu  
 jude - tuomita  
 • prejude - ennakkosyytös  
@@ -3309,10 +3309,10 @@ proxe - läheinen
 • aproxe - lähestyä  
 proxia - lähistö  
 puding - vanukas  
-puje - palvonta  
-pujekan - temppeli  
-puje meza - alttari  
-puje rite - rituaali (seremonia, riitti)  
+puze - palvonta  
+puzekan - temppeli  
+puze meza - alttari  
+puze rite - rituaali (seremonia, riitti)  
 pul - täysi  
 pul fina - tehdä loppuun (saada valmiiksi)  
 pul hau - täydellinen (täysin hyvä)  
