@@ -75,7 +75,7 @@ Afganistán - Afganestan
 afilado (puntiagudo) - gative  
 agacharse - lipa side  
 agente - ater  
-agorafobia - medan fobi  
+agorafobia - medanofobia  
 agosto - mes bati  
 agradecer - xukre  
 agresivo - agresevi  
@@ -236,7 +236,7 @@ apellido - famil nam
 aplicar (untar) - aplike  
 aprender (estudiar) - xule  
 apropriado (apto, oportuno) - hapu  
-aproximadamente - yaki  
+aproximadamente - yake  
 aproximar - aproxe  
 apuntar (dirección) - dike  
 apuntar (indicar) - dike  
@@ -289,12 +289,12 @@ arsénico - arsenium
 arte marcial - jang suta  
 artefacto - arte fete  
 artesano - arte saner  
-articulación - oste yunte  
+articulación - oste yuge  
 artificial (sintético) - arte fete di  
 artista - artiste  
 Artsaj - Arcah  
 artículo (documento) - papir  
-artículo (texto) - makale  
+artículo (texto) - kitabaje  
 Aruba - Aruba  
 arácnido - aranide  
 asar (tostar, rostir) - xava  
@@ -359,6 +359,7 @@ azar (aleatorio) - zarike
 Azerbaiyán - Azeria  
 azucarado - sukar di  
 azuela - benzi  
+azufaifa, jínjol - unabe  
 azufre - sulfe  
 azul - nil  
 azur (blao) - lazur  
@@ -751,7 +752,6 @@ chino mandarín - Putong Han
 chinés (de los Han) - Han  
 Chipre - Kipris  
 Chipre del Norte - Norde Kipris  
-chisporrotear - zizi  
 chito (chist) - tix  
 chito (chist) - xux  
 chocolate - coklate  
@@ -888,13 +888,13 @@ conejo (liebre) - tuzi
 conexión (relación, asociación, juntura, enlace) - linke  
 conexión - konnetion  
 confiar (contar con) - amen  
-confirmar - amen  
+confirmar - amenize  
 confucianismo - kung fuzi sim  
 confucio - Kung Fuzi  
 confundido - ruhu mixe di  
 confundir (desconcertar, perplejo) - ruhu mixe  
 conjugar (conjugación) - konyuge  
-conjunción - yunte lexe  
+conjunción - yuge lexe  
 cono - konu  
 conocer o saber - ken  
 conocimiento - kenaje  
@@ -960,7 +960,7 @@ Costa Rica - Kosta Rika
 costumbre (hábito) - ade  
 costumbre (tradición, convención) - suna  
 costura (sutura) - sutur  
-cota de malla - seri kaska  
+cota de malla - serser kaske  
 creación - kreatia  
 creador - kreater  
 crear - kree  
@@ -1123,7 +1123,7 @@ depósito - hazinkan
 derechista - dexiste  
 derecho (lado derecho) - dex  
 derecho - dex di  
-derecho - haku  
+derecho - hake  
 derechos de autor (copyright) - kopi haki  
 derechos humanos - human hake  
 derretirse - fuze  
@@ -1381,7 +1381,7 @@ escorpión (alacrán) - akrabe
 escriba - kitaber  
 escribir - kitabe  
 escritor - kitabiste  
-escritorio (mesa de trabajo) - karm eza  
+escritorio (mesa de trabajo) - kar meza  
 escudo - defe bano  
 escuela (colegio, institución) - xulekan  
 escuela primaria - baze xulekan  
@@ -1520,8 +1520,8 @@ farsi - parsi
 fascismo - faxisme  
 fascista - faxiste  
 fatiga - fatige  
-favoritismo - max fili sim  
-favorito (preferido) - max fili di  
+favoritismo - maxfilisme  
+favorito (preferido) - max filike  
 faz (faceta) - fase  
 febrero - mes du  
 fecha - nen mes den  
@@ -1690,7 +1690,7 @@ glucosa - glukos
 glucógeno - glukogen  
 gluten - gluten  
 glóbulo - hemi selu  
-GMS - vijin  
+GMS - vijing  
 gnoseología (epistemología) - kenelogia  
 gobernante (soberano) - sultaner  
 gobierno - polite  
@@ -1849,7 +1849,6 @@ homorromántico - sam romanse di
 homosexual - sam sexe di  
 homónimo - sam nam  
 Honduras - Onduras  
-honesto (seguramente, amén) - amen di  
 Hong Kong - Hong Gong  
 hongo (moho) - fungu  
 hora - sah  
@@ -1890,6 +1889,7 @@ hígado - hepate
 
 ## I  
 
+i griega - yu  
 idea (noción, concepto) - idee  
 identificación (ID) - nam dokumen  
 identificador - has nam  
@@ -1993,7 +1993,7 @@ intentar (probar) - teste
 intercambiar (canjear) - badal  
 interceptar - intercepe  
 interesante (curioso) - kenevolike  
-interfaz - medi fase  
+interfaz - mide fase  
 interfaz de línea de comandos - amir lin  
 interior (interno) - in di  
 interior (interno) - inike  
@@ -2089,9 +2089,9 @@ jugete - vanu gi
 jugo (zumo) - jus  
 julio - mes ceti  
 junio - mes luka  
-junta militar - zalim yunte  
+junta militar - zalim yugia  
 juntos - a kon  
-juntura - yunture  
+juntura - yugaje  
 Jupiter - Muxin  
 justicia - adilta  
 justo - adil  
@@ -2213,7 +2213,7 @@ limpiador - safer
 limpiar - safife  
 limpio - safe  
 limón - limon  
-linaza - yama seme  
+linaza - yama semen  
 lince - linxe  
 lince rojo (gato montés) - rubi linse  
 lindo (precioso) - kavai  
@@ -2355,7 +2355,6 @@ maravilloso (asombroso) - ajabike
 maravilloso (magnífico) - super  
 marcador - punte bano  
 marcar (marca, huella, mancha) - marke  
-marcha - marce  
 marco - frem  
 margarina - margarin  
 margarita - baku margarite  
@@ -2415,7 +2414,7 @@ medio (instrumento) - midaje
 medio (mediano) - midike  
 medio - mide  
 medioambiente (naturaleza) - ekia  
-mediodía - medi dia  
+mediodía - mide dia  
 medios - midia  
 medir (medida) - metre  
 Mediterráneo - Geo Medi Bahai  
@@ -2495,8 +2494,8 @@ mina - kuan xan
 mineral (mena) - kuan  
 minero - kuaner  
 minimalismo - minisme  
-ministerio - ministre ofis  
-ministro - ministrer  
+ministerio - vaziria  
+ministro - vazir  
 minoría - minia  
 minuto - minute  
 minúscula - xiu zi  
@@ -2947,7 +2946,7 @@ pene - penis
 pensar (pensamiento) - fikre  
 pentaedro - lima fase  
 pentágono - lima gone  
-península - yaki nese  
+península - yake nese  
 peonía - mudan  
 pepinillo - acar hiyar  
 pepino - hiyar  
@@ -3074,7 +3073,7 @@ poliedro - poli fase
 Polinesia - Polinesia  
 Polinesia Francesa - Franse Polinesi  
 politeísmo - polideisme  
-pollo - koko  
+pollo (gallina) - koko  
 Polonia - Polske  
 polonio - polskium  
 polpa - fufu  
@@ -3112,7 +3111,7 @@ precio (coste) - koste
 precioso - bau di  
 precursor - prekurser  
 predeterminado - precun  
-preferir (favorecer) - max fili  
+preferir (favorecer) - max file  
 preferir - prefere  
 prefijo - prefixe  
 pregunta - sual  
@@ -3137,13 +3136,12 @@ previo (anterior; antes; preceder, anteceder) - pre
 primavera - hua mosim  
 primer (inicial, inaugural) - prime  
 primer (inicial, inaugural) - xuru di  
-primer ministro - xefe ministrer  
+primer ministro - xefe vazir  
 primero (numbre uno) - un me  
-principal - xefe di  
+principal - xefike  
 principio - bazisme  
 prisa - haste  
-prisionero - jele jen  
-prisión - jele  
+prisionero - jelike  
 privado - prive  
 privar (desproveer) - deprive  
 privatizar - privatize  
@@ -3186,6 +3184,7 @@ proyectil (misil) - lanse xe
 proyecto - projete  
 proyector - grafe lanse gi  
 proyector - grafe projeter  
+prueba - dalil  
 prueba - teste  
 práctica - prate  
 práctico - pratike  
@@ -3214,7 +3213,7 @@ punto flotante - boi punte nume
 puntuación (resultado) - punte nume  
 puñal (daga) - kanjar  
 página - yepa late  
-página wiki - viki makala  
+página wiki - viki kitabaje  
 pájaro (ave) - paci  
 páncreas - pankreas  
 pícea - pisea  
@@ -3500,6 +3499,8 @@ secta (culto) - din xia
 sed - sui yau  
 seda - silke  
 segundo - sekunde  
+seguridad (confianza) - amenta  
+seguro - amenike  
 seguro - sekur  
 seis (6) - luka  
 selenio - selenium  
@@ -3543,14 +3544,13 @@ sierra - xara
 Sierra Leona - Sera Leone  
 siete (7) - ceti  
 sigilo - sirta  
-significado (acepción) - mana  
 significar (querer decir) - seme  
 siguiente (trasero) - posime  
 sij - sikiste  
 sijismo - sikisme  
 silencio - tixta  
 silencioso - tix  
-silencioso - xux di  
+silencioso - xuxike  
 silicio - silike  
 silla (montura) - side loka  
 silla - kursi  
@@ -3566,6 +3566,7 @@ sintaxis - jumla logia
 sintaxis - sintaxe  
 sintoísmo - xindau din  
 Siria - Suria  
+sisear - sis  
 sismología - sismologia  
 sistema - sistem  
 sistema solar - sol sistem  
@@ -3779,7 +3780,7 @@ tocar (rozar) - tocu
 tocar música - muzike  
 todas las cosas - pan xe  
 todas las personas - pan jen  
-todavía (aún) - zoku  
+todavía (aún) - a zoku  
 todo - pan  
 Togo - Togo  
 tolerar (soportar) - tole  
@@ -3805,7 +3806,7 @@ toxicología - toxologia
 toxina - biotoxe  
 trabajador (obrero) - karer  
 trabajar - kar  
-trabajo - karxe  
+trabajo - karaje  
 tractor - trater  
 traditional (convencional) - suna di  
 traducir (interpretar; tradicción, interpretación) - trabaxe  
@@ -3956,7 +3957,6 @@ verme - verme
 vermú - vermute  
 verruga - veruke  
 versar (afrontar) - verse  
-versar - verse  
 versión (modelo) - version  
 vertical - gau dipe  
 vestido (llevando ropa) - fuku di  
@@ -4027,7 +4027,7 @@ y - e
 ## Y  
 
 ya (acción completado) - fin  
-yac - yake  
+yac - yaku  
 Yahvé (Jehová) - Yahve  
 yema del dedo - angul pike  
 Yemen - Yemen  
@@ -4041,7 +4041,7 @@ yogui - yogaiste
 yogur - yogur  
 yuca (mandioca) - manioka  
 yudo - judau  
-yugo - yuge  
+yugo - yuge frem  
 yunque - metal bede  
 yurta - yurta  
 
@@ -4054,8 +4054,9 @@ zapatero - boter
 zapatería - botekan  
 zapato - bote  
 zarigüeya - aposum  
+zeta - zu  
 zigurat - zikura  
-zigzag - ziza  
+zigzag - zuzu rute  
 Zimbabue - Zimbabue  
 zombi - zombi  
 zoo - hevan bagi  

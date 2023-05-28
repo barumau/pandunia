@@ -47,7 +47,7 @@ amer - 恋人 (恋人)
 amike - 愛しい  
 amen - 信頼する  
 amenbil - 忠実  
-amen di - 正直  
+amenike - 安全  
 amerikium - アメリシウム  
 amide - アミド  
 amin - アミン  
@@ -560,6 +560,7 @@ grafe fineta - 解像度
 grafe karte - グラフィックカード  
 grafe kata - 漫画  
 grafi sugata - フレームレート  
+gram - グラム  
 • programe - 次第 (計画, プログラム)  
 • programaje - ソフトウェア  
 granite - 花崗岩  
@@ -582,8 +583,8 @@ Habaxa - アビシニア
 hafenium - ハフニウム  
 haha - 笑う  
 haje - 巡礼  
+hake - 権利  
 haki rang - カーキ色  
-haku - 権利  
 hal - 状態  
 halal liste - ホワイトリスト  
 hali - 空  
@@ -779,9 +780,9 @@ kar - 働く
 • duskar - 悪事  
 • konkar - 共同して働  
 • konkare - 共同して働  
+karaje - 労働  
 karer - 労働者  
 kar lexi - 動詞  
-karxe - 労働  
 karate - 空手  
 karater - 空手家  
 karbe - 炭素  
@@ -806,6 +807,7 @@ karuba - 蝗豆
 kasete - カセット  
 kasul - カプセル  
 kaska - 殻 (皮)  
+kastana - 栗  
 katana - 刀  
 katil - 寝床 (ベッド)  
 katus - サボテン  
@@ -857,6 +859,7 @@ klor - 塩素
 koala - 子守熊 (コアラ)  
 kobalte - コバルト  
 koda - 尾 (尾翼)  
+koko - 鶏  
 koli - 甘藍 (キャベツ)  
 komodia - 喜劇 (コメディ)  
 koma - コンマ (読点)  
@@ -1024,7 +1027,7 @@ masala - 香辛料
 maske - 仮面 (マスク)  
 mate cai - マテ茶  
 matras - 布団 (マットレス)  
-max fili di - 好き (お気に入りの)  
+max filike - 好き (お気に入りの)  
 max ordu - 増派 (援兵)  
 mayur - 孔雀  
 maze - 靴下 (ソックス)  
@@ -1035,8 +1038,6 @@ mede - 助け
 medal - 賞牌 (メダル)  
 medan - 広場  
 medan papi - ヒナゲシ  
-medi dia - 正午  
-medi fase - 界面  
 medu - 蜂蜜  
 medu vespa - 蜜蜂  
 medu vespa nide - 蜂の巣 (ハニカム)  
@@ -1086,6 +1087,8 @@ mi - 私
 mimen - 私たち  
 mi su - 私の  
 miau - 猫  
+mide dia - 正午  
+mide fase - 界面  
 midia - 媒体 (メディア)  
 mide noce - 真夜中  
 mien - 麺 (ヌードル)  
@@ -1250,7 +1253,7 @@ osidian - 黒曜石
 osmium - オスミウム  
 oste jama - 骨格  
 oste xalke - ぜんご  
-oste yunte - 関節  
+oste yuge - 関節  
 oxe - 酸素  
 
 ## P  
@@ -1691,6 +1694,7 @@ vanu di - 楽しい
 vanu gi - おもちゃ  
 vari - 色々 (種々, 様々, 区々, とりどり, それぞれ)  
 varis - 米 (ご飯)  
+vazir - 大臣  
 veganisme - ヴィーガニズム  
 veganiste - 絶対菜食主義者 (ヴィーガン)  
 vegoyamiste - 菜食主義者 (ベジタリアン)  
@@ -1814,8 +1818,8 @@ you moke - 若木
 you nan - 男の子  
 you nen - 幼年時代  
 you ni - 女の子  
-yuge - 軛  
-yunte lexe - 接続詞  
+yuge frem - 軛  
+yuge lexe - 接続詞  
 yurta - 包 (ゲル)  
 yuterbium - イッテルビウム  
 yutrium - イットリウム  

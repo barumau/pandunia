@@ -8,6 +8,7 @@ a poli mar - часто
 a pos - после  
 a vo - там  
 a ye - здесь (тут)  
+a zoku - ещё  
 Abaze baxe - абазинский  
 Abazia - Абхазия  
 abies - пихта  
@@ -59,10 +60,10 @@ ame - любовь
 amer - любовник  
 ama - а (но)  
 amen - доверять (понадеяться)  
-amen - утвердить (конфирмовать)  
 amenbil - верный  
 amenbilta - верность  
-amen di - честный (правдивый)  
+amenize - утвердить (конфирмовать)  
+amenta - безопасность  
 amerikium - америций  
 amide - амид  
 amir lin - командная строка  
@@ -365,6 +366,7 @@ dai lasun - лук исполинский
 dai pau - пушка  
 dai pote - котёл  
 dai seku - валун  
+dalil - доказательство  
 dama geme - шашки  
 dan - ранг  
 dana.cau - просо (пшено)  
@@ -654,6 +656,7 @@ gradu mute - развитие
 grafe cule - обработка изображений  
 grafeme - пиксель  
 grafe kata - комикс  
+gram - грамм  
 • programe - программа  
 • programaje - программное обеспечение  
 granite - гранит  
@@ -899,9 +902,9 @@ kape truke - ловушка
 kar - работать  
 • konkar - сотрудничать (кооперировать)  
 • konkare - сотрудничать (кооперировать)  
+karaje - работа  
 karer - работник  
 kar lexi - глагол  
-karxe - работа  
 karate - каратэ  
 karater - каратист (каратэка)  
 karbe - углерод  
@@ -930,6 +933,7 @@ kartux - патрон
 karuba - рожковое дерево  
 kasul - капсула  
 kaska - оболочка (кора, панцирь)  
+kastana - каштан  
 Kastilia - Кастилия  
 kastilia baxe - кастильский язык  
 katana - катана  
@@ -990,6 +994,7 @@ klor - хлор
 koala - коала  
 kobalte - кобальт  
 koda - хвост  
+koko - цыплёнок (курица)  
 kola - кола  
 koli - капуста  
 komike - комический (смешной)  
@@ -1196,9 +1201,9 @@ master ope - шедевр
 masta - мачта  
 mate cai - матэ  
 matras - матрас  
-max fili - предпочитать  
-max fili di - любимый  
-max fili sim - фаворитизм (кумовство)  
+max file - предпочитать  
+max filike - любимый  
+maxfilisme - фаворитизм (кумовство)  
 maximaje - максимум  
 max ordu - пополнение  
 maya - майя  
@@ -1210,7 +1215,6 @@ medal - медаль
 medalon - медальон  
 medan - площадь (сквер, майдан)  
 medan papi - мак самосейка  
-medi dia - полдень  
 medu - мёд  
 medu vespa nide - улей (соты)  
 megi - облако  
@@ -1243,6 +1247,7 @@ mimen - мы
 mimen su - наш  
 miau - кошка  
 midaje - средство  
+mide dia - полдень  
 midia - медиа  
 midike - средний  
 mide noce - полночь  
@@ -1428,7 +1433,7 @@ osidian - обсидиан
 osmium - осмий  
 osmos - осмос  
 oste jama - скелет (остов)  
-oste yunte - сустав  
+oste yuge - сустав  
 otimal - оптимальный (наилучший)  
 otion - опция (выбор, альтернатива)  
 oxe - кислород  
@@ -1729,10 +1734,10 @@ sento nen - столетие
 sento nen di - столетний  
 ser - звено  
 seria - серия  
+ser letre - письмо счастья  
 serser - цепь (ланцуг)  
+serser kaske - кольчуга  
 serami - керамика  
-seri kaska - кольчуга  
-seri letre - письмо счастья  
 server - слуга  
 server - сервер  
 sesam - сезам  
@@ -1756,6 +1761,7 @@ sirke - круг
 sirkus - цирк  
 siro - нуль (зеро)  
 sis - сестра (sestra)  
+sis - шипеть  
 skale - подниматься  
 skandium - скандий  
 slavike - славянский  
@@ -1962,6 +1968,7 @@ vanu gi - игрушка
 varis - рис  
 varis vin - рисовое вино  
 vaxi - мыть  
+vazir - министр  
 vege - овощ  
 veganiste - веган  
 vegoyamiste - вегетарианец  
@@ -2030,8 +2037,8 @@ xaxa - шурша́ть
 xayu - акула  
 xe - вещь  
 xe hal - положение (ситуация)  
-xefe pole - столица  
 xefe - шеф  
+xefe pole - столица  
 xenon - ксенон  
 xia - фракция (клика)  
 xia islam din - шиизм  
@@ -2062,16 +2069,17 @@ xulize - учить (преподавать)
 xulekan - школа   
 xule xefe - директор (ректор)  
 xuru - начало  
-xux di - тихий  
+xuxike - тихий  
 
 ## Y  
 
 ya - да  
 Yahve - Яхве (Иегова)  
+yaku - як  
 yam liste - меню  
 yam yau - голод  
 yama - лён  
-yama seme - льняное семя  
+yama semen - льняное семя  
 yatim dom - детский дом  
 yau di - нужный  
 yauta - нужда  
@@ -2090,8 +2098,7 @@ yogur - йогурт
 Yohan festa - Иванов день  
 yoke - нефрит (жад)  
 you moke - саженец  
-yuge - ярмо (иго)  
-yuntion - соединение  
+yuge frem - ярмо (иго)  
 yurta - юрта  
 yuterbium - иттербий  
 yutrium - иттрий  
@@ -2101,7 +2108,7 @@ yutrium - иттрий
 zai zaman di - нынешний  
 zalimer - тиран (деспот)  
 zalimive - тиранический (деспотичный, жестокий)  
-zalim yunte - хунта  
+zalim yugia - хунта  
 zaman - период (эпоха)  
 • prezaman di - старый (древний)  
 Zambia - Замбия  
@@ -2124,7 +2131,6 @@ zira - тмин (зира)
 zirafa - жираф  
 zirkon - циркон  
 zirkonium - цирконий  
-zoku - ещё  
 zone - пояс (зона)  
 Zukra - Венера  
 zukraden - пятница  
@@ -2132,3 +2138,4 @@ zuku - этнос
 zuku di - этнический  
 zuku medi di - межэтнический  
 Zulu - зулус  
+unabe - ююба (унаби)  

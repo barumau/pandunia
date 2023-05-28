@@ -9,6 +9,7 @@ a lin - online
 a vo - aí (lá)  
 a xukre de - graças a  
 a ye - aqui  
+a zoku - ainda  
 abies - abeto  
 aci - espirrar  
 acinium - actínio  
@@ -65,7 +66,8 @@ ama - mas
 Amazon - Río Amazonas  
 Amazonia - Amazônia  
 amen - confiar (contar com)  
-amen di - honesto (sincero)  
+amenike - seguro (sincero)  
+amenta - segurança  
 amerikium - amerício  
 amide - amida  
 amin - amina  
@@ -353,6 +355,7 @@ dai barxa - temporal (toró)
 dai dom - palácio (mansão, palacete)  
 dai pau - canhǎo  
 dai seku - pedregulho  
+dalil - prova  
 dama geme - damas  
 dana.cau - milhete (painço)  
 dang gi - sino (campainha)  
@@ -367,7 +370,7 @@ date - dados
 date banke - banco de dados  
 data cule - processamento de dados  
 data cule logia - informática (ciência da computação)  
-dau yunte - interseção  
+dau yuge - interseção  
 dava xe - remédio (medicamento)  
 dava xekan - farmácia (drogaria)  
 dava xe logia - farmacologia  
@@ -617,6 +620,7 @@ goton - algodão
 gradu mute - desenvolvimento  
 grafe cule - processamento de imagem  
 grafe kata - quadrinhos (banda desenhada)  
+gram - grama (g)  
 • programe - programa  
 granite - granito  
 grave - cascalho  
@@ -639,9 +643,9 @@ hafenium - háfnio
 haha - rir  
 haje - peregrinagem  
 hajer - peregrino  
+hake - direito  
 haki - pó  
 haki rang - cáqui  
-haku - direito  
 hal - estado  
 hali - vazio  
 hali zi - espaço  
@@ -857,9 +861,9 @@ kar - trabalhar
 • duskarer - malfeitor  
 • konkar - colaborar  
 • konkare - colaborar  
+karaje - trabalho  
 karer - trabalhador  
 kar lexi - verbo  
-karxe - trabalho  
 karate - caratê  
 karavi - alcaravia (cariz)  
 karbe - carbono  
@@ -889,6 +893,7 @@ kartux - cartucho
 karuba - alfarroba  
 kasul - cápsula  
 kaska - casca (concha)  
+kastana - castanha  
 Kastilia - Castela  
 kastilia baxe - castelhano  
 katil - cama (leito)  
@@ -927,6 +932,7 @@ kioske - quisque (pavilhão)
 kirate - quilate  
 kisma - destino  
 kitabe - escrevere  
+kitabaje - artigo  
 kitaber - escriba  
 kitabiste - escritor  
 kitabekan - biblioteca  
@@ -944,6 +950,7 @@ klor - cloro
 • inkluze - incluir  
 koala - coala  
 kobalte - cobalto  
+koko - frango (galinha)  
 koli - couve (repolho)  
 kolum - poste (coluna)  
 komike - cômico  
@@ -1162,9 +1169,9 @@ mate - erva-mate
 mate cai - chá mate  
 matras - colchão  
 max - mais  
-max fili - preferir  
-max fili di - favorito (preferido)  
-max fili sim - favoritismo  
+max file - preferir  
+max filike - favorito (preferido)  
+maxfilisme - favoritismo  
 maxia - maioria  
 maximaje - máximo  
 mayur - pavão real  
@@ -1175,7 +1182,6 @@ medal - medalha
 medalon - medalhão  
 medan - praça  
 medan papi - papoila  
-medi dia - meio-dia  
 medu - mel  
 megi - nuvem  
 mei - belo (lindo)  
@@ -1206,6 +1212,7 @@ mimen su - nosso
 miau - gato  
 mide - meio (metade)  
 midaje - meio (instrumento)  
+mide dia - meio-dia  
 midia - média (mídia)  
 midike - medio  
 mide noce - meia-noite  
@@ -1402,7 +1409,7 @@ osidian - obsidiana
 osmium - ósmio  
 oste jama - esqueleto  
 oste xalke - escudo  
-oste yunte - articulação (junta)  
+oste yuge - articulação (junta)  
 ote - optar  
 otimal - ótimo (óptimo)  
 otion - opção  
@@ -1724,6 +1731,7 @@ sir plan - complô (conspiração)
 sirkus - circo  
 siro - zero  
 sis - irmã  
+sis - sibilar  
 skandium - escândio  
 skuter - patinete (trotineta)  
 slavike - eslavo  
@@ -1910,6 +1918,7 @@ vari - vários
 varibil - variável  
 varis - arroz  
 vava - chorar  
+vazir - ministro  
 vege - verdura (hortaliça, legume)  
 veganiste - vegetalista  
 vegate - vegetar  
@@ -1976,8 +1985,8 @@ xava - assar
 xayu - tubarão  
 xe - coisa  
 xe hal - situaçao  
-xefe pole - capital  
 xefe - chefe  
+xefe pole - capital  
 xenon - xénon  
 xi Fulan - fulano  
 xia - facção  
@@ -2014,10 +2023,11 @@ xuru - começo (início, princípio)
 
 ya - sim  
 Yahve - Javé (Jeová)  
+yaku - iaque  
 yam liste - cardápio (menu)  
 yam yau - fome  
 yama - linho  
-yama seme - linhaça  
+yama semen - linhaça  
 yatim dom - orfanato  
 yau di - necessário  
 yauta - necessidade  
@@ -2034,10 +2044,9 @@ yoga - ioga
 yogur - iogurte  
 yoke - jade  
 you - infantil (imaturo)  
-yuge - jugo  
-yuntion - junção  
-yunte lexe - conjunção  
-yunture - juntura  
+yugaje - juntura  
+yuge frem - jugo  
+yuge lexe - conjunção  
 yurta - iurte  
 yuterbium - itérbio  
 yutrium - itrio  
@@ -2046,7 +2055,7 @@ yutrium - itrio
 
 zai zaman di - corrente (atual)  
 zalimive - tirânico (cruel)  
-zalim yunte - junta militar  
+zalim yugia - junta militar  
 zaman - tempo  
 • prezaman di - velho (antigo)  
 zar kube - dado  
@@ -2062,11 +2071,12 @@ zinke - zinco
 zira - cominho  
 zirafa - girafa  
 zirkonium - zircónio  
-zoku - ainda  
 zombi - zumbi  
 zone - zona  
+zu - zê  
 zukam - resfriado  
 Zukra - Vénus  
 zukraden - sexta-feira  
 zuku - etnia  
 zuku di - étnico  
+unabe - jujuba  

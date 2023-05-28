@@ -26,7 +26,7 @@ aerobinen - airobiike
 Afganistan - Afganestan  
 Afrikka - Afrika  
 agglutinoiva kieli - glutive baxe  
-agorafobia (avaran paikan kammo) - medan fobi  
+agorafobia (avaran paikan kammo) - medanofobia  
 agronomia (maatalous) - agronomia  
 ahne - tami  
 ahopäivänkakkara - baku margarite  
@@ -178,11 +178,12 @@ arrakki - varis araki
 arseeni - arsenium  
 artefakti (keinotekoinen esine) - arte fete  
 artesaani (käsityöläinen) - arte saner  
-artikkeli (kirjoitus) - makale  
+artikkeli (kirjoitus) - kitabaje  
 artisokka - karcof  
 Artsakhin tasavalta - Arcah  
 Aruba - Aruba  
 arvio (arvostelu, kritiikki) - piping  
+arvioida (likimääräistää) - yakife  
 arvo - valu  
 arvokas - bau di  
 arvonta (arpajaiset, lotto) - lotation  
@@ -750,7 +751,7 @@ hikinen - sueda di
 hiljaa (hys, shhh) - tix  
 hiljaa (hys, shhh) - xux  
 hiljainen - tix  
-hiljainen - xux di  
+hiljainen - xuxike  
 hiljaisuus - tixta  
 Himalaja - Himalaya  
 himo (seksuaalinen halu) - kama  
@@ -869,7 +870,7 @@ höyry (vesihöyry) - sui gas
 ideogrammi - ideograme  
 idängorilla - dong gorila  
 idänunikko - gui papi  
-ies - yuge  
+ies - yuge frem  
 iglu - iglu  
 ihailla - amire  
 ihmeellinen (ällistyttävä, merkillinen) - ajabike  
@@ -976,7 +977,7 @@ jakaa (leikata) - tome
 jakaa (paloitella) - fenife  
 jakaa yhteiseksi - konife  
 Jakarta - Jakarta  
-jakki - yake  
+jakki - yaku  
 jalanjälki - fute marke  
 jalka (alaraaja) - fute xaka  
 jalka (jalkaterä) - fute  
@@ -993,6 +994,7 @@ japaninmispeli - pipa frute
 Japetus - Yapetus  
 jasmiini - moli  
 jasmiinitee - moli hua cai  
+jatkaa (jatkua) - zoku  
 jatkua uudestaan - redure  
 jauhaa - mole  
 jauhe (jauho, tomu) - fun  
@@ -1041,6 +1043,7 @@ juhannus (kristillinen juhla) - Yohan festa
 juhlapäivä - feste den  
 juhlava - festal  
 juhlia (juhlat) - feste  
+jujube - unabe  
 juliste - afixaje  
 julkinen (kansan-) - demal  
 jumala - dee  
@@ -1308,7 +1311,7 @@ kerubi - kerubi
 keräilykortti - jame karte  
 keräkaali - rul koli  
 Keski-Afrikan Tasavalta - Jong Afrika Vakilkratia  
-keskipäivä (puolipäivä) - medi dia  
+keskipäivä (puolipäivä) - mide dia  
 keskittyminen (keskittymä) - foku  
 keskittyä (olla keskellä) - a jong  
 keskiverto (keski-) - midike  
@@ -1323,7 +1326,7 @@ kesytetty - dosil gene di
 kesä (suvi) - garma mosim  
 kesäkuu - mes luka  
 ketju - serser  
-ketjukirje - seri letre  
+ketjukirje - ser letre  
 ketjun lenkki - ser  
 ketoni - keton  
 ketsuppi - kecape  
@@ -1427,7 +1430,6 @@ kognitio (tajuaminen) - kenation
 kohtalo (määrä) - kisma  
 kohtelias (kiltti) - keci  
 kohti (päin) - pro  
-kohti (päin) - verse  
 koinee-kreikka - kon helen baxe  
 koira - vaf  
 koirankoppi - vaf bute  
@@ -1466,7 +1468,7 @@ kone - makin
 koneellistaa (mekanisoida) - makinize  
 konepelti - moter cate  
 konjugaatio - konyuge  
-konjunktio (sidesana) - yunte lexe  
+konjunktio (sidesana) - yuge lexe  
 konkani (eräs intialainen kieli) - Konkani  
 konsertti - konserte  
 konsonantti - kinar fon  
@@ -1663,7 +1665,6 @@ käsitteellinen (abstrakti) - ideal
 käsivarsi - hanu xaka  
 käsky (komento) - amir  
 käskyvalta - amir haki  
-kävellä - marce  
 kävely (marssi) - marce  
 käydä (vierailla) - vizite  
 käydä päälle (käydä kimppuun; päällekarkaus, aggressio) - agrese  
@@ -1679,7 +1680,7 @@ käytös (käyttäytyminen, tapa, tavat) - manera
 kääntyä pois - deverse  
 kääntäjä (tulkki) - trabaxer  
 kääntää (tulkata; käännös) - trabaxe  
-kääntää jtkn päin - verse  
+kääntää jtkn päin (kohti, päin) - verse  
 kääntää taakse päin - reverse  
 kääre (kuori) - lifafe  
 kääriä (panna kääröön) - lifafe  
@@ -1824,8 +1825,7 @@ liitin - konneter
 liitonarkki - lige su sanduke  
 liitto (unioni) - unia  
 liittosopimus - kon trati  
-liittymä - dau yunte  
-liittäminen - yuntion  
+liittymä - dau yuge  
 liittää (liitto, liittouma, liiga) - lige  
 likainen (mutainen) - dartike  
 likainen - ansafe  
@@ -2131,7 +2131,6 @@ merimies - bahai vala
 merirosvous - pirateria  
 merivoimat (sotalaivasto) - bahai ordu  
 merivuokko - bahai hua  
-merkitys - mana  
 merkitysoppi (semantiikka) - semologia  
 merkitä (merkki, jälki) - marke  
 merkitä (tarkoittaa) - seme  
@@ -2178,8 +2177,8 @@ millimetri - mili mitre
 milloin? (koska?) - ke sata  
 minimalismi - minisme  
 minimoida - minimife  
-ministeri - ministrer  
-ministeriö - ministre ofis  
+ministeri - vazir  
+ministeriö - vaziria  
 minttu - minte  
 minun - mi su  
 minuutti - minute  
@@ -2331,7 +2330,7 @@ narkomaani (huumeriippuvainen, addikti) - narkiste
 narkoosi - narkose  
 nationalisti - nasiste  
 natrium - natre  
-natriumglutamaatti - vijin  
+natriumglutamaatti - vijing  
 natsi - nasial sosialiste  
 naula (piikki) - dingi  
 nauraa - haha  
@@ -2362,7 +2361,7 @@ Nevis - Nevis
 newton (N) - niuton  
 niedziela - solden  
 niellä - gul  
-niemi - yaki nese  
+niemi - yake nese  
 Niger - Nijer  
 Nigeria - Nigeria  
 nihonium - niponium  
@@ -2380,11 +2379,11 @@ nisäkäs - mamal
 nitraatti - nitrate  
 nitriili - nitril  
 Niue - Niue  
-nivel (liitos) - yunte  
-nivel (luiden liitoskohta) - oste yunte  
+nivel (liitos) - yuge  
+nivel (luiden liitoskohta) - oste yuge  
 no - nu  
 nobelium - nobelium  
-noin (arviolta, suunnilleen) - yaki  
+noin (arviolta, suunnilleen, likimäärin) - yake  
 nolla (ei yhtään) - siro  
 Nooa - Noe  
 Nooan arkki - Noe di nave  
@@ -2455,7 +2454,7 @@ oikeistolainen - dexiste
 oikeudellinen - judike  
 oikeudenmukainen - adil  
 oikeus (käräjätalo) - adilkan  
-oikeus (oikeutus) - haku  
+oikeus (oikeutus) - hake  
 oikeus - adilta  
 oivaltaa (tajuta, hoksata) - aha  
 oja (kanava, kanaali) - kanal  
@@ -2684,7 +2683,7 @@ pelkkä (koruton, tavanomainen, vain) - sade
 pelko (kauhu, terrori) - tere  
 pellava - yama  
 pellavakangas - yama tela  
-pellavansiemen - yama seme  
+pellavansiemen - yama semen  
 pelle (klovni) - payace  
 pelokas - fobike  
 pelottaa - fobife  
@@ -2712,6 +2711,7 @@ perusrakenne (infrastruktuuri) - baze strute
 perusta (perustus) - baze  
 perustaa - bazize  
 perustaja - bazer  
+perustella (todistaa; peruste, todiste) - dalil  
 perustelu (argumentti) - argu  
 perustuslaki - baze kanun  
 peräaukko (anus) - anus  
@@ -2965,13 +2965,13 @@ Päiväntasaajan Guinea - Geo Par Lin Ginia
 päivänvalo - dia foto  
 päivää! - sal dia  
 pää - kapa  
-pää- - xefe di  
+pää- - xefike  
 pääkallo - kapa oste  
 pääkaupunki - xefe pole  
 päällekävijä (hyökkääjä) - agreser  
 päällekäyvä (aggressiivinen) - agresive  
 päällikkö (pomo) - xefe  
-pääministeri (suurvisiiri) - xefe ministrer  
+pääministeri (suurvisiiri) - xefe vazir  
 päärynä - pera  
 pääsiäinen - paska  
 päästä (mennä läpi) - cese  
@@ -3004,7 +3004,7 @@ raha - pesa
 rahka - panir  
 raippa - uma bici  
 raja - limite  
-rajapinta - medi fase  
+rajapinta - mide fase  
 rakas (armas) - amike  
 rakastaja - amer  
 rakennus (rakenne) - binaje  
@@ -3079,7 +3079,7 @@ rintakehä - sine kasa
 rintasyöpä - mame kanse  
 riski - riske  
 riskialtis - riskike  
-risteys (liittymä) - yunture  
+risteys (liittymä) - yugaje  
 risteytys (hybridi) - hibride  
 risti - krus  
 ristikko - krus lin  
@@ -3304,7 +3304,7 @@ siepata välistä - intercepe
 Sierra Leone - Sera Leone  
 sietää (kestää, sallia) - tole  
 sietää (kestää, sallia) - tolerate  
-sihistä - zizi  
+sihistä (sähistä) - sis  
 sihteeri - burer  
 sihteeristö - bureria  
 siipi - panka  
@@ -3319,11 +3319,11 @@ sika (possu) - goro
 sikari - sigare  
 sikhi - sikiste  
 sikhiläisyys - sikisme  
-siksakki - ziza  
+siksakki - zuzu rute  
 sileä - lis  
 silkki - silke  
 silkkiäistoukka - silke larva  
-silmukkapanssari (rengashaarniska) - seri kaska  
+silmukkapanssari (rengashaarniska) - serser kaske  
 silmä - oke  
 silmä- - okal  
 silmäillä (katsoa, tarkkailla) - okate  
@@ -3420,7 +3420,7 @@ sotaherra (generalissimo) - ordu reger
 sotaherran maa - ordu regia  
 sotilaallinen - jang di  
 sotilas - ordu jen  
-sotilasjuntta - zalim yunte  
+sotilasjuntta - zalim yugia  
 soturi (taistelija) - janger  
 soveltaa - uzife  
 sovittaa (mukauttaa) - hape  
@@ -3473,10 +3473,10 @@ suorakulmainen - orto gonike
 suoristaa (ojentaa) - ortife  
 suorittaa (toimia tekijänä) - operate  
 suoritus (operaatio) - operation  
-suosia (pitää parempana) - max fili  
+suosia (pitää parempana) - max file  
 suosia (pitää parempana) - ote  
-suosikki (suosittu) - max fili di  
-suosinta (favoritismi) - max fili sim  
+suosikki (suosittu) - max filike  
+suosinta (favoritismi) - maxfilisme  
 suosio (hyväntahtoisuus) - favor  
 Surinam - Surinam  
 surkuhupaisa (tragikoominen) - tragokomike  
@@ -3812,6 +3812,7 @@ tripla (kolminkertainen) - triple
 Triton - Triton  
 trooppinen - garma zona di  
 tropiikki - garma zona  
+tseta (zeta) - zu  
 tuhat (kilo-) - kilo  
 tuhat triljoonaa (tsetta-) - zeta  
 tuhka - hui  
@@ -3898,12 +3899,11 @@ Tyyni valtameri - Pace Bahai
 tyyny - kuxen  
 tyyppi (laji, genre, tyyli) - tipe  
 tyyrpuuri - nave dex  
-työ (tehtävä) - karxe  
+työ (tehtävä) - karaje  
 työkalu - kargi  
 työntekijä (työläinen) - karer  
 työntää (puskea) - pulse  
-työpaja - karkan  
-työpöytä (kirjoituspöytä) - karm eza  
+työpöytä (kirjoituspöytä) - kar meza  
 työskennellä - kar  
 tähti - xing  
 tähti- (astraali) - astral  
@@ -4056,7 +4056,6 @@ vanha (seniori, iso-) - sen
 vanhempi (isä tai äiti) - cin  
 vanhempi toveri - sen bei  
 vanilja - vanila  
-vankeus - jele  
 vankila - jelekan  
 vankityrmä - geo nice jela  
 Vanuatu - Vanuatu  
@@ -4073,7 +4072,8 @@ varas - corer
 varaus (ennakkovaraus) - rezerve  
 varjo - saye  
 varkaus - core  
-varma (luotettu) - amen di  
+varma (turvallinen, luotettava) - amenike  
+varmuus (luotettavuus) - amenta  
 varras - xix  
 varraskebab - xix kababu  
 vartalo (varsi, torso) - torso  
@@ -4149,7 +4149,7 @@ vetää ulos - extrate
 videonauha - vide bande  
 viedä pois (viedä maasta) - exporte  
 viehättää (vetää puoleensa) - atrate  
-vielä (yhä, jatkua) - zoku  
+vielä (yhä) - a zoku  
 vieraanvarainen (antelias, hyväntahtoinen) - karim di  
 vierailija (vieras) - viziter  
 vieras (tuntematon) - ankenike  
@@ -4283,7 +4283,7 @@ Washington DC - Vaxington DC
 watti - vate  
 Wenzhou - Venzou  
 wiki - viki  
-wikikirjoitus - viki makala  
+wikikirjoitus - viki kitabaje  
 wikipedia - viki pedia  
 wolofin kansa ja kieli - Volof  
 

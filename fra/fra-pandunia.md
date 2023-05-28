@@ -171,7 +171,8 @@ arsenic - arsenium
 art - sute  
 artefact - arte fete  
 artichaut - karcof  
-articulation (jointure) - oste yunte  
+article - kitabaje  
+articulation (jointure) - oste yuge  
 artiste - artiste  
 Artsakh - Arcah  
 Aruba - Aruba  
@@ -416,7 +417,7 @@ cardon - kardon karcof
 carnaval - karne feste  
 carotte - karote  
 caroube - karuba  
-carrefour - dau yunte  
+carrefour - dau yuge  
 carrière - pei kar jiva  
 carte (plan) - karte  
 carte - karta  
@@ -496,6 +497,7 @@ chronomètre - durometrer
 chu - pada di  
 chut - tix  
 chutney - hinde sos  
+châtaigne (marron) - kastana  
 chèque - ceke  
 chèque cadeau - donaje ceke  
 chèque de voyage - safar ceke  
@@ -548,7 +550,7 @@ concert - konserte
 concombre - hiyar  
 concombre confit (cornichon) - acar hiyar  
 concombre de mer - bahai hiyar  
-conjonction - yunte lexe  
+conjonction - yuge lexe  
 conjugaison - konyuge  
 connaissance - kenation  
 connaître ou savoir - ken  
@@ -562,7 +564,7 @@ consultant (conseiller) - konseler
 conte de fées - pari kata  
 conteneur - kontener  
 continu (analogique) - undurike  
-continuer (poursuivre, encore) - zoku  
+continuer (poursuivre) - zoku  
 contract (traité) - trati  
 contract (traité) - kontrati  
 convention (alliance, pacte) - kon trati  
@@ -700,7 +702,7 @@ doute - xake
 drapeau - bandera  
 drogue (narcotique, dope) - narke  
 droit (rectiligne) - orto  
-droit - haku  
+droit - hake  
 droitier (dextre) - dexhanuka  
 droits de l'homme - human hake  
 dubnium - dubnium  
@@ -756,6 +758,7 @@ en avant - pro
 en avant - to pro  
 en ligne - a lin  
 enclume - metal bede  
+encore - a zoku  
 encre - kalam sui  
 enfant - baca  
 ennemi - dus jen  
@@ -820,8 +823,8 @@ fanatique - fanatike
 fatigue - fatige  
 faute (erreur) - galte  
 faux - anver  
-favori (préféré) - max fili di  
-favoritisme - max fili sim  
+favori (préféré) - max filike  
+favoritisme - maxfilisme  
 fente (fissure, fêlure) - krake  
 fenêtre - janela  
 fer - fero  
@@ -926,8 +929,9 @@ gombo - bamia
 gorille - gorila  
 goule - gule  
 gouvernement - polite  
-graine de lin - yama seme  
+graine de lin - yama semen  
 graisse - lipe  
+gramme - gram  
 grand-mère - cin ma  
 grand-père - cin pa  
 granit - granite  
@@ -938,6 +942,7 @@ grimace - grimas
 groupe - grupe  
 grâce à - a xukre de  
 grès - sablite  
+grésiller - sis  
 guetteur (sentinelle) - garder  
 guide - gider  
 guide touristique - gide buke  
@@ -1092,14 +1097,14 @@ jeu de société - bano geme
 jeudi - muxinden  
 jeune (junior) - jun  
 jeunesse - jun nen  
-jonction - yuntion  
-joug - yuge  
+joug - yuge frem  
 joule (J) - jul  
 jour - dia  
 journal - den logu  
 judo - judau  
 juje - juder  
-junte - zalim yunte  
+jujube - unabe  
+junte - zalim yugia  
 Jupiter - Muxin  
 jus - jus  
 jusque (jusqu’à) - hata  
@@ -1313,12 +1318,13 @@ microbe - mikrobie
 microbiologie - mikrobiologia  
 Micronésie - Mikronesia  
 microscope - mikroskope  
-midi - medi dia  
+midi - mide dia  
 miel - medu  
 migration - migre  
 mil (millet) - dana.cau  
 mil éthiopien - tef  
 mine - kuan xan  
+ministre - vazir  
 minuit - mide noce  
 mirage - miraje  
 mirer - mire  
@@ -1711,6 +1717,7 @@ pou - kutu
 poubelle - lasa tong  
 poudre - fun  
 poudre à canon - barude  
+poulet - koko  
 Poulpe (pieuvre) - ohtopus  
 pourri - pute  
 pousse - jun moka  
@@ -1724,6 +1731,7 @@ presser - prese
 pression - prese  
 pression atmosphérique - air prese  
 pressoir - preser  
+preuve - dalil  
 principe - bazisme  
 prison (geôle) - jelekan  
 privatiser - privatize  
@@ -1761,7 +1769,7 @@ prune de Java - jamul
 précieux - bau di  
 précurseur - prekurser  
 précéder - precese  
-préférer - max fili  
+préférer - max file  
 préférer - prefere  
 préjuger - prejude  
 prénatal - prenatal  
@@ -2031,13 +2039,14 @@ symbole - simbol
 symétrie - sammetria  
 syntaxe - jumla logia  
 syntaxe - sintaxe  
+sécurité - amenta  
 sélénium - selenium  
 sémantique - semologia  
 sémaphore - semoforer  
 séminal - semenal  
 sénateur - senater  
 série - seria  
-sûr (crédible, sûrement) - amen di  
+sûr - amenike  
 sûr - sekur  
 sœur - sis  
 sœur aînée (grande sœur) - sen sis  
@@ -2133,7 +2142,7 @@ traiter (traitement, processe) - cule
 transmisión - tramiseon  
 transmisor - tramiser  
 transmitir - tramise  
-travail - karxe  
+travail - karaje  
 travailler - kar  
 travailleur (ouvrier) - karer  
 traîner - trate  
@@ -2207,7 +2216,6 @@ verre - glas
 verre coloré - rang glas  
 verrue - veruke  
 verser (verse, face á) - verse  
-verser - verse  
 vert - luga  
 veuve - vidua  
 viande - karne  
@@ -2264,6 +2272,7 @@ xénon - xenon
 
 y compris - in klus  
 Yahweh (Jéhovah) - Yahve  
+yak - yaku  
 yaourt (yogourt) - yogur  
 yerba mate - mate  
 Yi King - yeka kanon  
@@ -2289,6 +2298,7 @@ zoroastrien - zarduxtiste
 zoroastrisme - zarduxtisme  
 zoulou - Zulu  
 zèbre - zebra  
+zède - zu  
 zéro - siro  
 Égypte - Misre  
 Égypte antique - Keme  

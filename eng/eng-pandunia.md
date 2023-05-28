@@ -12,7 +12,7 @@ abattoir (slaughterhouse) - karnekan
 Abaza language - Abaze baxe  
 ability - bilta  
 Abkhazia - Abazia  
-about (approximately, nearly, almost) - yaki  
+about (approximately, nearly, almost) - yake  
 about (concerning, on the topic of) - a tema de  
 above (over) - a supra  
 absorb - asorbe  
@@ -75,7 +75,7 @@ aggressive - agresevi
 aggressive - agresive  
 aggressor - agreser  
 agile - agile  
-agoraphobia - medan fobi  
+agoraphobia - medanofobia  
 agreement (consent) - sam rai  
 agreement (treaty) - trati  
 agreement (treaty, contract) - kontrati  
@@ -195,9 +195,10 @@ apple - aple
 applesauce - aple sos  
 apply (make use of, put to use for a purpose) - uzife  
 apply (put sth on sth else) - aplike  
-apprentice - kar xular  
+apprentice - kar xuler  
 approach (get close, approximate) - aproxe  
 approve - hau rai  
+approximate (estimate) - yakife  
 apricot (plum, peach) - briko  
 April - mes nelu  
 aqua (teal) - bahai nil  
@@ -232,7 +233,7 @@ arrack - varis araki
 arrow (bolt) - flece  
 arsenic - arsenium  
 artichoke thistle (cardoon) - kardon karcof  
-article (writing) - makale  
+article (writing) - kitabaje  
 artifact (artefact) - arte fete  
 artificial - arte fete di  
 artificial intelligence (AI) - arte fete intelige (AI)  
@@ -254,7 +255,7 @@ asparagus - asparge
 aspect (viewpoint) - aspete  
 assume (presuppose) - pre si  
 Assur - Axur  
-assure (affirm, confirm) - amen  
+assure (affirm, confirm) - amenize  
 Assyria - Axuria  
 astatine - astatin  
 asthma - asma  
@@ -714,8 +715,8 @@ Ceres (dwarf planet) - Cer
 cerium - cerium  
 Chad - Cade  
 chain - serser  
-chain letter - seri letre  
-chain mail - seri kaska  
+chain letter - ser letre  
+chain mail - serser kaske  
 chair - kursi  
 Champagne - Xampan  
 champagne - xampan vin  
@@ -919,7 +920,7 @@ Congo Kinshasa - Kinxasa Kongo
 congratulate (bless) - barke  
 congratulations! (blessing, benediction) - barke  
 conjugation (pairing) - konyuge  
-conjunction - yunte lexe  
+conjunction - yuge lexe  
 conjure (do magic, cast a spell; spell) - mage  
 connect - konnete  
 connection - konnetion  
@@ -936,7 +937,7 @@ contain (include; content) - intene
 container - kontener  
 content - in xe  
 contest (challenge) - konteste  
-continue (go on, keep on, carry on, proceed, still, yet) - zoku  
+continue (go on, keep on, carry on, proceed) - zoku  
 continue (resume) - redure  
 continuous (analog) - undurike  
 contradict  - kontredite  
@@ -1126,7 +1127,7 @@ deprive - deprive
 depth - fase teleta  
 descriptive - sifa di  
 desert - sablestan  
-desk - karm eza  
+desk - kar meza  
 despair - anase  
 destine (set) - cun yo gol  
 destiny (fate, lot, kismet) - kisma  
@@ -1390,6 +1391,7 @@ every (all) - pan
 every (each) - pan un  
 everybody (everyone) - pan jen  
 everything - pan xe  
+evidence (argument, proof, testimonial) - dalil  
 evident (apparent, obvious) - exvidebil  
 evildoer - duskarer  
 evoke (call out) - exvoke  
@@ -1479,8 +1481,8 @@ fatty (greasy) - lipike
 fault (sin, blame, defect, guilt) - doxe  
 fault line - geo kaska krake  
 favor (goodwill) - favor  
-favorite (preferred) - max fili di  
-favoritism - max fili sim  
+favorite (preferred) - max filike  
+favoritism - maxfilisme  
 fear (fright, terror) - tere  
 fear (phobia) - fobia  
 feasible (doable) - fetebil  
@@ -1908,6 +1910,7 @@ hinge (pivot) - xarnir
 hippopotamus - gubu  
 his or her - da su  
 hispanophone (Spanish speaking) - espanofonike  
+hiss (sizzle) - sis  
 historian - historer  
 history (annals) - histor  
 history (past times) - historia  
@@ -2036,7 +2039,7 @@ imperialist - imperialiste
 implosion - in bum  
 import - in mise  
 important - ham di  
-imprison (jail) - jele  
+imprison (jail; imprisonment) - jele  
 impure (polluted, defiled, tainted) - najis di  
 incarnate - inkarnate  
 incarnation (embodiment) - inkarnatike  
@@ -2101,7 +2104,7 @@ interest (curiosity) - kenevol
 interested (curious) - kenevolive  
 interesting (curious) - kenevolike  
 interethnic - zuku medi di  
-interface - medi fase  
+interface - mide fase  
 international - internasial  
 internet - internete  
 interpreter (translator) - trabaxer  
@@ -2161,8 +2164,8 @@ Jesuits (Society of Jesus) - Yesa sanga
 Jesus - Yesa  
 Jesus Christ - Yesa Mesi  
 Jewish - yehude  
-joint (connection of bones) - oste yunte  
-joint (join) - yunte  
+joint (connection of bones) - oste yuge  
+joint (join) - yuge  
 joke - joke  
 joker - joker  
 Jordan - Urdun  
@@ -2176,14 +2179,14 @@ judicial - judike
 judo - judau  
 juice - jus  
 juice beverage - frute xarbe  
+jujube - unabe  
 July - mes ceti  
 jump - jampe  
-junction (intersection of roads) - dau yunte  
-junction - yuntion  
-juncture (junction, intersection) - yunture  
+junction (intersection of roads) - dau yuge  
+juncture (junction, intersection) - yugaje  
 June - mes luka  
 junior fellow (kouhai) - jun bei  
-junta - zalim yunte  
+junta - zalim yugia  
 Jupiter - Muxin  
 just (fair, righteous) - adil  
 just (precise, exact, accurate) - juste  
@@ -2195,7 +2198,7 @@ justice - adilta
 kale - yepa koli  
 Kama Sutra - kama kanon  
 kangaroo - kangaru  
-Kannada - karnada baxe  
+Kannada language - karnada baxe  
 karaoke - karaoke  
 karate - karate  
 karateka (practitioner of karate) - karater  
@@ -2368,7 +2371,7 @@ line break (newline) - lin parce
 linen fabric - yama tela  
 linguistics - baxe logia  
 link (ring in a chain) - ser  
-linseed - yama seme  
+linseed - yama semen  
 lion - singa  
 lip - labi  
 lipid - lipide  
@@ -2481,7 +2484,7 @@ mahjong - majang
 maid (nanny, ayah) - aya  
 mail (send by mail) - poste  
 mail - poste  
-main (principal) - xefe di  
+main (principal) - xefike  
 major (greater) - maxike  
 majority - maxia  
 make a mistake - galte  
@@ -2585,7 +2588,6 @@ maybe (perhaps) - bil es
 maybe (perhaps) - bil ki  
 Mayotte - Mayote  
 mean (signify) - seme  
-meaning (signification) - mana  
 measure (measurement) - metre  
 meat (flesh) - karne  
 Mecca - Makah  
@@ -2672,8 +2674,8 @@ mineshaft - kuan tunel
 minimal - minimal  
 minimalism - minisme  
 minimize - minimife  
-minister - ministrer  
-ministry - ministre ofis  
+minister (vizier, high-ranking official) - vazir  
+ministry - vaziria  
 minor (not major) - minike  
 minority - minia  
 mint - minte  
@@ -2766,7 +2768,7 @@ move back - remote
 movie (cinema) - motografe  
 movie theatre - motografekan  
 Mozambique - Mozambike  
-MSG (monosodium glutamate) - vijin  
+MSG (monosodium glutamate) - vijing  
 mud (mire) - poto  
 muddy - poto di  
 muesli - musli  
@@ -2903,7 +2905,7 @@ nobelium - nobelium
 nobody (no-one) - siro jen  
 noise - kelele  
 noodle - mien  
-noon (midday) - medi dia  
+noon (midday) - mide dia  
 Norfolk Island - Norfolke nese  
 norm (standard) - norma  
 normal - norma di  
@@ -3189,7 +3191,7 @@ pen (writing tool) - kalam
 penal (penetenciary) - fatu di  
 pencil - karbe kalam  
 penguin - pinguin  
-peninsula - yaki nese  
+peninsula - yake nese  
 penis (phallus) - penis  
 pentagon - lima gone  
 pentahedron (prism) - lima fase  
@@ -3396,7 +3398,7 @@ precursor (predecessor, forerunner) - prekurser
 predict (foretell) - predite  
 prediction - predition  
 prefer (assess before) - prefere  
-prefer (favor) - max fili  
+prefer (favor) - max file  
 prefix - prefixe  
 pregnant - hamil  
 prehistory - prehistoria  
@@ -3416,12 +3418,11 @@ pretype (preliminary type) - pretipe
 previous (fore) - pre di  
 priest (cleric) - din guru  
 primary school (elementary school, gradeschool) - baze xulekan  
-prime minister - xefe ministrer  
+prime minister - xefe vazir  
 principle - bazisme  
 print (stamp) - cape  
-prison (imprisonment) - jele  
 prison (jail) - jelekan  
-prisoner - jele jen  
+prisoner - jelike  
 pristine (virginal) - virgal  
 privateer (buccaneer) - nave kaper  
 privatize - privatize  
@@ -3645,7 +3646,7 @@ rice cake (puffed rice cake) - varis biskute
 rice wine - varis vin  
 rich - rike  
 right (correct, accurate) - sahi  
-right (entitlement) - haku  
+right (entitlement) - hake  
 right (right hand side) - dex  
 right angle - orto gone  
 right hand - dex di  
@@ -3731,6 +3732,7 @@ sacrifice (offer) - kurban
 sad (tragic) - tragike  
 sad - duku di  
 safe (secure, protected) - sekur  
+safety (security, reliability) - amenta  
 saffron - safran  
 saga (heroic tale) - hero kata  
 sago - sagu fun  
@@ -3929,7 +3931,7 @@ Sikh - sikiste
 Sikhism - sikisme  
 silence - tixta  
 silent (quiet) - tix  
-silent - xux di  
+silent - xuxike  
 silicon - silike  
 silk - silke  
 silkworm - silke larva  
@@ -3946,7 +3948,6 @@ situation (circumstances, state of affairs) - xe hal
 situational irony - xe hal ironi  
 six (6) - luka  
 size - daita  
-sizzle - zizi  
 skate - skete  
 skeleton (frame) - oste jama  
 skewer - xix  
@@ -4101,6 +4102,7 @@ stereophonic - dufonike
 stick (adhere, paste, glue) - glutize  
 sticker - glu grafi  
 sticky (ahesive) - glutike  
+still (yet) - a zoku  
 stone (piece of rock) - ite  
 stone (piece of rock) - seku  
 stop (halt) - halte  
@@ -4164,7 +4166,7 @@ Sunni Islam (Sunnism) - suna islam din
 superb (wonderful, super) - super  
 support - suporte  
 suppress (press down) - niceprese  
-sure (certain, trusted) - amen di  
+sure (safe, secure, reliable, trustworthy) - amenike  
 surface (face) - fase  
 Suriname - Surinam  
 surname (family name) - famil nam  
@@ -4467,7 +4469,6 @@ turkey - dinde
 Turkey - Turkia  
 Turkish langage - turke baxe  
 Turkmenistan - Turkomenestan  
-turn around (flip) - verse  
 turn toward (direct, flip; versus) - verse  
 turquoise gem - firuze  
 turtle (tortoise) - tortuga  
@@ -4613,7 +4614,6 @@ wake (make awake) - budife
 wake - bude  
 Wales (Cambria) - Kamri  
 walk (march) - marce  
-walk (march) - marce  
 wall (structure for delimitation) - mur  
 Wallis and Futuna Islands - Valis e Futuna nesia  
 wallpaper - mur kaguze  
@@ -4695,7 +4695,7 @@ widow - vidua
 width (breadth) - guanta  
 wife - ni per (fem)  
 wiki - viki  
-wiki article - viki makala  
+wiki article - viki kitabaje  
 wikipedia - viki pedia  
 wild (savage) - ekonative  
 wild (savage) - vilde  
@@ -4729,13 +4729,12 @@ wood board (plank) - moka bano
 wool (fleece) - mehe kexa  
 word - lexe  
 word processing - kitabe cule  
-work (job, task) - karxe  
+work (job, task) - karaje  
 work - kar  
 work of art (opus) - ope  
 work together (interoperate) - konfunte  
 worker - karer  
 workshop (shop, building, house or place for doing something) - kan  
-workshop - karkan  
 workshop - karkan  
 world - dunia  
 world language - dunia baxe  
@@ -4759,7 +4758,7 @@ xylose (wood sugar) - xilos
 ## Y  
 
 Yahweh (Jehovah) - Yahve  
-yak - yake  
+yak - yaku  
 yang (positive, bright, living, hard, masculine) - yang  
 yard (garden) - bagi  
 year - nen  
@@ -4774,7 +4773,7 @@ yin-yang - yim yang
 yoga - yoga  
 yogi - yogaiste  
 yogurt - yogur  
-yoke - yuge  
+yoke - yuge frem  
 Yoruba (language and people) - Yoruba  
 yotta- - yota  
 you (singular) - tu  
@@ -4794,11 +4793,12 @@ yurt (ger) - yurta
 
 Zambia - Zambia  
 zebra - zebra  
+zee (zed) - zu  
 Zen Buddhism - jan buda din  
 zero (none) - siro  
 zetta- - zeta  
 ziggurat - zikura  
-zigzag - ziza  
+zigzag - zuzu rute  
 Zimbabwe - Zimbabue  
 zinc - zinke  
 zip up - zipe  

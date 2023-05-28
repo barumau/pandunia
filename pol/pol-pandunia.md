@@ -32,8 +32,9 @@
  - Amazon  
  - Amazonia  
  - ame jen  
- - amen  
- - amen di  
+ - amenike  
+ - amenize  
+ - amenta  
  - amer  
  - amide  
  - amin  
@@ -166,7 +167,7 @@
  - data cule  
  - data fen lize  
  - dau bano  
- - dau yunte  
+ - dau yuge  
  - dava xe  
  - dava xe logia  
  - dava xekan  
@@ -412,7 +413,7 @@
  - janive  
  - jaru  
  - jebe caku  
- - jele jen  
+ - jelike  
  - jen (jen men)  
  - jen bahai  
  - jen jami  
@@ -453,7 +454,6 @@
  - karbol  
  - karboxil  
  - karge  
- - karkan  
  - karkan  
  - karnal  
  - karnekan  
@@ -570,7 +570,6 @@
  - manioka fufu  
  - mantra  
  - Marakux  
- - marce  
  - mase  
  - master de arte (MA)  
  - master de engenia (ME)  
@@ -583,7 +582,7 @@
  - mate  
  - mate cai  
  - matropole  
- - max fili sim  
+ - maxfilisme  
  - maxife  
  - me  
  - meder  
@@ -929,6 +928,7 @@
  - un fen du  
  - un sata  
  - un zai di  
+ - unabe  
  - undurike horloger  
  - universal  
  - unoke lense  
@@ -957,7 +957,6 @@
  - vei lin  
  - vel  
  - verife  
- - verse  
  - verse  
  - vide bande  
  - viki  
@@ -995,9 +994,10 @@
  - xulize  
  - xulizer  
  - Yahve  
+ - yakife  
  - yam liste  
  - yama  
- - yama seme  
+ - yama semen  
  - yama tela  
  - yang  
  - Yapetus  
@@ -1013,11 +1013,11 @@
  - you jen  
  - you nen  
  - youta  
- - yunte  
- - yunte lexe  
- - yuntion  
- - yunture  
- - zalim yunte  
+ - yu  
+ - yugaje  
+ - yuge  
+ - yuge lexe  
+ - zalim yugia  
  - zalime  
  - zarduxtan mager  
  - zelo  
@@ -1028,6 +1028,7 @@
  - zi  
  - zi forme  
  - zirkon  
+ - zu  
  - acepe  
  - acese  
  - acesebil  
@@ -1277,7 +1278,7 @@ Afganistan - Afganestan
 afiks - afixe  
 afisz (plakat) - afixaje  
 Afryka - Afrika  
-agorafobia - medan fobi  
+agorafobia - medanofobia  
 agresywny - agresevi  
 agresywny - agresive  
 agronomia - agronomia  
@@ -1361,8 +1362,8 @@ Armenia - Haye
 armia - ordu  
 aromantyczny - anromanse  
 arsen - arsenium  
-artykuł wiki - viki makala  
-artykuł, tekst - makale  
+artykuł wiki - viki kitabaje  
+artykuł, tekst - kitabaje  
 artysta - artiste  
 Aruba - Aruba  
 arytmetyka - hisabia  
@@ -1471,7 +1472,7 @@ biom - biosistem
 biromantyczny - du romanse di  
 biseksualny - du sexe di  
 biszkopt - biskute  
-biurko - karm eza  
+biurko - kar meza  
 biuro (pokój) - burokan  
 biuro, urząd - bure  
 biust - buste  
@@ -1611,7 +1612,7 @@ ciasto, ciastko - keke
 ciało - badan  
 ciało stałe - gati mate  
 cichy - tix  
-cichy - xux di  
+cichy - xuxike  
 ciecierzyca - humus  
 ciecz (płyn) - daraje  
 ciekawy - kenevolive  
@@ -1752,6 +1753,7 @@ dorsz atlantycki - atlanti bakalau
 dorsz pacyficzny - pace bahai bakalau  
 dostać, dostawać, otrzymać, otrzymywać, wziąć, brać - na  
 dotyczyć - tocu  
+dowód; zeznanie - dalil  
 dowódca, kierownik - lider  
 dozwolony (dopuszczalny, zezwolony, halal) - halal  
 dramat - drame  
@@ -1975,7 +1977,7 @@ gleba bielicoziemna - hui darte
 glin (aluminium) - alumin  
 globalny - dunial  
 globalny (światowy) - pandunial  
-glutaminian sodu - vijin  
+glutaminian sodu - vijing  
 gluten - gluten  
 gniazdo (ul, nora, jama, barłóg, legowisko) - nide  
 gniew, furia - furita  
@@ -2056,7 +2058,7 @@ głowa - kapa
 głupi (idiotyczny) - idiote di  
 głupiec, bufon - bobo  
 głód - yam yau  
-główny - xefe di  
+główny - xefike  
 głęboki - fase tele  
 głębokość - fase teleta  
 H - H  
@@ -2168,7 +2170,7 @@ inny - ale
 innymi słowy - alonam  
 intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki) - teza  
 interesujący - kenevolike  
-interfejs - medi fase  
+interfejs - mide fase  
 internet - internete  
 inżynier - engener  
 Irak - Iraqi  
@@ -2197,7 +2199,7 @@ jabłko cukrowe - ata
 jadalnia - yam kamar  
 jagoda - beri  
 jajko (jajo) - anda  
-jak (zwierzę) - yake  
+jak (zwierzę) - yaku  
 jak, niż, od - ka  
 jak? - ke xe  
 jaki? - ke tipe  
@@ -2206,7 +2208,7 @@ Jamajka - Jamaika
 Japonia - Nipon  
 japoński - nipon di  
 jarmuż - yepa koli  
-jarzmo - yuge  
+jarzmo - yuge frem  
 jaskinia - gua  
 jasnoniebieski (lazurowy) - sama nil  
 jasny, czysty - ming  
@@ -2384,7 +2386,7 @@ kola (coca-cola) - Koka Kola
 kola, napój gazowany - kola jus  
 kolacja - xam yam  
 kolano - guta  
-kolczuga - seri kaska  
+kolczuga - serser kaske  
 kolec - dingi  
 kolej - tren dau  
 kolekcja, zbiór; zgromadzenie, zebranie - jamia  
@@ -2422,6 +2424,7 @@ konopie - ganja
 konsekwencja, skutek - pos  
 konstytucja - baze kanun  
 konto - hisabu loge  
+kontynuować (wznawiać, ponawiać) - zoku  
 konwalia majowa - vali susan  
 konwencjonalny, zwyczajowy, tradycyjny - suna di  
 kopalnia - kuan xan  
@@ -2524,7 +2527,7 @@ kulturystyka - muskul bina
 kumin, kmin - zira  
 kumkwat - gingam  
 kupon - kupon  
-kura, kogut, kurczak - koko  
+kura (kogut, kurczak) - koko  
 kurta (tunika, toga) - kurta  
 kurtka - jake  
 kusić, nakłonić, nakłaniać - tenta  
@@ -2774,8 +2777,8 @@ militarny, wojskowy, wojenny - jang di
 minerał, ruda - kuan  
 minimal - minimal  
 minimalizm - minisme  
-minister - ministrer  
-ministry - ministre ofis  
+minister - vazir  
+ministry - vaziria  
 minuta - minute  
 minąć, mijać (czas) - dure  
 minąć, mijać, przeminąć, przemijać - pas  
@@ -3094,7 +3097,7 @@ ojczyzna - patria
 okej, spoko, akceptowalny - okeibil  
 okno - janela  
 oko - oke  
-około; przybliżony - yaki  
+około; przybliżony - yake  
 okrągły - sirkike  
 olej - zete  
 oliwka - zetun  
@@ -3423,7 +3426,7 @@ poziomy (horyzontalny, boczny) - late di
 pozostałość, reszta - baki  
 pozować (ustawiać się; poza, pozycja) - poze  
 połknąć (połykać) - gul  
-południe - medi dia  
+południe - mide dia  
 południe - sude  
 południk - vei gola  
 południk - vei gradu  
@@ -3435,13 +3438,13 @@ pożyczać (pożyczyć) - jeka na
 pożyczać komuś (pożyczyć komuś) - jeka don  
 pożyczyć - jeka  
 pożądanie, żadza - kama  
-praca, zjęcie, zadanie - karxe  
+praca, zjęcie, zadanie - karaje  
 pracować - kar  
 pracownik - karer  
 practyczny, pragmatyczny - pratike  
 pragnienie - sui yau  
 praktyka, aktualność - prate  
-praktykant - kar xular  
+praktykant - kar xuler  
 pralka - fuku vaxi gi  
 prawa autorskie - kopi haki  
 prawa człowieka - human hake  
@@ -3450,13 +3453,13 @@ prawdziwy (rzeczywisty, szczery) - ver
 prawicowiec (prawak) - dexiste  
 prawo - kanun  
 prawo wyborcze - vote hake  
-prawo, przywilej - haku  
+prawo, przywilej - hake  
 prawy (prawostronny, z prawej strony) - dex di  
 prazeodym - prazedimium  
 prać, umyć, myć - vaxi  
-preferować (woleć) - max fili  
+preferować (woleć) - max file  
 prekursor - prekurser  
-premier - xefe ministrer  
+premier - xefe vazir  
 prezydent - presidente  
 problem - problem  
 problematyczny - problem di  
@@ -3569,7 +3572,7 @@ półka (regał na książki) - lipa bano
 północ - mide noce  
 północ - norde  
 północny - norde di  
-półwysep - yaki nese  
+półwysep - yake nese  
 później (w przyszłości) - a pos  
 pękać (rozrywać się) - parce kai  
 pęknięcie - krake  
@@ -3853,7 +3856,6 @@ skrzydło - panka
 skrócić, skracać - korte fa  
 skupienie, koncentracja - foku  
 skwer, plac - medan  
-skwierczeć - zizi  
 skóra - pil  
 slums - harabe mahala  
 smacznego - sal yam  
@@ -3920,7 +3922,7 @@ stary (sędziwy, wiekowy) - lau
 stary, starożytny - prezaman di  
 starzec - lau jen  
 statyczny, stacjonarny, nieruchomy - statike  
-staw - oste yunte  
+staw - oste yuge  
 stać - state  
 stały (sztywny) - gati mate di  
 sterburta (prawa burta) - nave dex  
@@ -3969,6 +3971,7 @@ suszyć (wysuszyć) - ganife
 Swalbard - Sualbarde  
 swastyka - huke krus  
 Syberia - Sibiria  
+syczeć (skwierczeć) - sis  
 sylaba (zgłoska) - lexe fen  
 symbol - simbol  
 syn - son  
@@ -4250,7 +4253,7 @@ ul - medu vespa sanduku
 ul (gniazdo pszczół lub os) - vespa nide  
 uleczyć, leczyć, uzdrowić, uzdrawiać - dava  
 ulica - gali  
-ulubiony - max fili di  
+ulubiony - max filike  
 umiejętność (kompetencja) - sute  
 umiejętny (sprawny, zręczny) - sutive  
 umieścić (postawić) - lokize  
@@ -4314,7 +4317,7 @@ wat - vate
 Watykan, Państwo Watykańskie - Vatikan  
 ważka - libele  
 ważny - ham di  
-wciąż, nadal; kontynuować, wznawiać, ponawiać - zoku  
+wciąż (nadal) - a zoku  
 wczoraj - preden  
 wdowa - vidua  
 wdzięczność - xukria  
@@ -4400,7 +4403,6 @@ wizyta - vizite
 wizytant (gość) - viziter  
 większościowy, wiodący, główny - maxike  
 większość - maxia  
-więzienie, kara więzienia, kara pozbawienia wolności - jele  
 więzienie, zakład karny - jelekan  
 wiśnia (czereśnia) - ceri  
 wkrótce - a korte  
@@ -4645,7 +4647,6 @@ zminimalizować - minimife
 zmysł - sense  
 zmęczenie (wyczerpanie) - fatige  
 znaczek pocztowy - poste cape  
-znaczenie - mana  
 znaczyć - seme  
 znaczyć (liczyć się, być ważnym) - ham  
 znak (trop) - marke  
@@ -4672,7 +4673,7 @@ zwyciężyć (wygrać; zwycięstwo, wygrana) - jai
 zwyczajny (rutynowy, normalny) - adike  
 zwykły, zwyczajny, prosty - sade  
 zwłoki (trup) - nekre  
-zygzag - ziza  
+zygzag - zuzu rute  
 ząb - dante  
 zęwnętrzny - vai  
 złamanie lini - lin parce  
@@ -4697,7 +4698,7 @@ zły, zrujnowany, zepsuty - harabe
 ławka - benke  
 łazienka - banya kamar  
 łańcuch - serser  
-łańcuszek - seri letre  
+łańcuszek - ser letre  
 łodyga (tors, pień, trzon) - tana  
 łokieć - kudi  
 łopata (szpadel) - belca  

@@ -20,6 +20,7 @@ a vakil de - anstataŭ
 a vo - tie  
 a xukre de - dank’al  
 a ye - ĉi tie  
+a zoku - ankoraŭ  
 abies - abio  
 aci - terni  
 acinium - aktinio  
@@ -761,8 +762,8 @@ haima - tendo
 Haiti - Haitio  
 haje - pilgrimo  
 hajer - pilgrimanto  
+hake - rajto  
 haki - polvo  
-haku - rajto  
 hal - stato  
 hali - malplena  
 halife - kalifo  
@@ -1010,11 +1011,11 @@ kapa kaska - kasko
 kapa kexa - kaphararo  
 • konkar - kunlabori  
 • konkare - kunlabori  
+karaje - laboro  
 karer - laboristo  
 kargi - ilo  
 karkan - laborejo  
 kar lexi - verbo  
-karxe - laboro  
 karate - karateo  
 karavi - karvio  
 karbe - karbono  
@@ -1260,7 +1261,6 @@ maler - havanto
 malonomia - ekonomiko  
 Mali - Malio  
 mame - mamo  
-mana - signifo  
 manera - maniero (konduto)  
 mang - okupata  
 mangan - mangano  
@@ -1268,7 +1268,6 @@ manite - magneto
 mar - fojo  
 maraton - maratono  
 marce - promeni (marŝi)  
-marce - promeno (marŝo)  
 margarin - margarino  
 marisden - mardo  
 masa - maso  
@@ -1279,7 +1278,7 @@ mata - morti (morto; morta)
 matafa - mortigi  
 mataja - mortigisto  
 max - pli  
-max fili - preferi (pliŝati)  
+max file - preferi (pliŝati)  
 maxim - plej  
 max ka bas - tro  
 maya - majao  
@@ -1287,7 +1286,6 @@ mayur - pavo
 maze - ŝtrumpo  
 mede - helpo  
 medal - medalo  
-medi dia - tagmezo  
 medu - mielo  
 medu vespa - abelo  
 mega - miliono  
@@ -1319,6 +1317,7 @@ mi su - mia
 Mianma - Birmo  
 miau - kato  
 midaje - rimedo  
+mide dia - tagmezo  
 midike - mezo  
 mide noce - noktmezo  
 mien - nudelo  
@@ -1334,7 +1333,6 @@ min - malpli
 minim - malplej  
 min ka bas - maltro  
 minus - escepte  
-ministrer - ministro  
 minte - mento  
 mintol - mentolo  
 minute - minuto  
@@ -1503,7 +1501,7 @@ Oseania - Oceanio
 osmium - osmio  
 osmos - osmozo  
 oste - osto  
-oste yunte - artiko  
+oste yuge - artiko  
 ote - preferi  
 oxe - oksigeno  
 oxide - oksido  
@@ -1822,6 +1820,7 @@ sirke - cirklo
 sirkus - cirko  
 siro - nul  
 sis - fratino  
+sis - sibli  
 sismologia - sismologio  
 sistem - sistemo  
 site - citi  
@@ -2018,6 +2017,7 @@ varis - rizo
 vate - vato  
 vava - plori  
 vaxi - lavi  
+vazir - ministro  
 vege - legomo  
 ventur - aventuro  
 venturer - aventuristo  
@@ -2034,7 +2034,7 @@ vide - vidi (rigardi)
 • exvidebil - evidenta  
 vider - spektanto  
 vidua - vidvo  
-viki makala - vikia artikulo  
+viki kitabaje - vikia artikulo  
 viki pedia - vikipedio  
 vin - vino  
 vin suan - vinagro  
@@ -2085,9 +2085,9 @@ xarti - kondiĉo (postulo)
 xatan - diablo (Satano)  
 xayu - ŝarko  
 xe hal - situacio (aferstato)  
-xefe pole - ĉefurbo  
 xefe - estro (ĉefulo)  
-xefe ministrer - ĉefministro  
+xefe pole - ĉefurbo  
+xefe vazir - ĉefministro  
 xenon - ksenono  
 xia islam din - ŝijaismo  
 xigu - akcidento  
@@ -2121,7 +2121,7 @@ xulize - instrui (lernigi)
 xulekan - lernejo  
 xule xefe - lernejestro  
 xuru - komenco  
-xux di - silenta  
+xuxike - silenta  
 
 ## Y  
 
@@ -2152,7 +2152,7 @@ yogur - jogurto
 yoke - jado  
 you nan - knabo  
 you ni - knabino  
-yuge - jugo  
+yuge frem - jugo  
 yurta - jurto (gero)  
 yuterbium - iterbio  
 yutrium - itrio  
@@ -2185,8 +2185,8 @@ zinke - zinko
 zira - kumino  
 zirafa - ĝirafo  
 zirkonium - zirkonio  
-zoku - ankoraŭ  
 zone - zono  
+zu - zo  
 zukam - malvarmumo  
 zukraden - vendredo  
 zuku - etno  

@@ -9,6 +9,7 @@ a lin - 在线
 a poli mar - 经常  
 a vo - 那里 (那儿)  
 a ye - 这里 (这儿)  
+a zoku - 还 (依然)  
 abies - 冷杉  
 acar - 腌菜  
 aci - 打喷嚏 (阿嚏)  
@@ -55,7 +56,7 @@ amike - 亲爱的
 ama - 但是 (不过)  
 amen - 信赖  
 amenbil - 忠实  
-amen di - 诚实  
+amenike - 安全  
 amerikium - 镅  
 amide - 酰胺  
 amin - 胺  
@@ -620,9 +621,9 @@ hafenium - 铪
 haha - 笑  
 haima - 帐篷  
 haje - 朝觐 (巡礼)  
+hake - 权利  
 haki - 灰尘 (尘土)  
 haki rang - 卡其色  
-haku - 权利  
 hal - 状态  
 hali - 空的  
 hali zi - 空隙  
@@ -824,10 +825,10 @@ kape truke - 陷阱
 kar - 工作  
 • konkar - 合作  
 • konkare - 合作  
+karaje - 工作  
 karer - 工人 (工作者)  
 karkan - 工厂  
 kar lexi - 动词  
-karxe - 工作  
 karate - 空手道  
 karbe - 碳  
 karbe duoxide - 二氧化碳  
@@ -894,6 +895,7 @@ klor - 氯
 koala - 樹袋熊 (考拉)  
 kobalte - 钴  
 koda - 尾巴 (尾部)  
+koko - 鸡  
 koli - 卷心菜 (高丽菜)  
 kolum - 柱子   
 komodia - 喜剧  
@@ -1055,7 +1057,6 @@ malonomia - 经济学
 malte - 麦芽  
 maltos - 麦芽糖  
 mame kanse - 乳癌  
-mana - 意义  
 manera - 方式  
 mang - 忙  
 mangan - 锰  
@@ -1073,7 +1074,7 @@ masala - 香料
 masta - 桅  
 mate cai - 马黛茶  
 matras - 床垫  
-max fili - 比较喜欢  
+max file - 比较喜欢  
 maxim - 最  
 max ordu - 加固  
 maya - 玛雅  
@@ -1085,7 +1086,6 @@ mede - 帮
 medal - 奖章  
 medan - 广场  
 medan papi - 虞美人 (雛罌粟)  
-medi dia - 正午  
 medu - 蜜  
 medu vespa - 蜜蜂  
 medu vespa sanduku - 蜂箱  
@@ -1118,6 +1118,7 @@ mi - 我
 mimen - 我们  
 mimen su - 我们的  
 miau - 猫  
+mide dia - 正午  
 midia - 媒体  
 midike - 中型  
 mide noce - 半夜 (午夜)  
@@ -1290,7 +1291,7 @@ oselote - 虎貓
 osidian - 黑曜岩  
 osmium - 锇  
 oste jama - 骨骼  
-oste yunte - 关节  
+oste yuge - 关节  
 oxe - 氧  
 oxide - 氧化物  
 
@@ -1547,6 +1548,7 @@ sirke - 圆
 sirkus - 马戏团  
 siro - 零 (〇)  
 sis - 姐妹 (jiěmèi)  
+sis - 咝  
 sis doh - 外甥女  
 sis son - 外甥  
 skandium - 钪  
@@ -1723,6 +1725,7 @@ vanu - 娱乐
 vari - 各种各样  
 varis - 米  
 varis vin - 黄酒 (米酒)  
+vazir - 大臣  
 vege - 蔬菜  
 veganiste - 纯素食主义者  
 vegoyamiste - 素食主义者  
@@ -1742,7 +1745,7 @@ veze di - 重型的
 vide - 看  
 vide bande - 录像带  
 vidua - 寡妇  
-vijin - 味精  
+vijing - 味精  
 virge - 处女  
 vise kitabe - 重写  
 vise ma - 继母  
@@ -1824,7 +1827,7 @@ Yahve - 耶和华 (雅威)
 yam liste - 菜单  
 yam yau - 饥饿  
 yama - 亚麻  
-yama seme - 亚麻籽  
+yama semen - 亚麻籽  
 yang - 阳  
 yatim dom - 孤儿院  
 yau di - 必要的  
@@ -1843,8 +1846,8 @@ yogur - 酸奶 (优格)
 yoke - 玉  
 you - 幼稚  
 you nen - 幼年  
-yuge - 轭  
-yunte lexe - 连接词  
+yuge frem - 轭  
+yuge lexe - 连接词  
 yurta - 穹庐  
 yuterbium - 镱  
 yutrium - 钇  
@@ -1852,7 +1855,7 @@ yutrium - 钇
 ## Z  
 
 zai zaman di - 现在的  
-zalim yunte - 军政府  
+zalim yugia - 军政府  
 zaman - 时间  
 • prezaman di - 古老 (以前)  
 zar kube - 骰子 (色子)  
@@ -1869,6 +1872,7 @@ zinke - 锌
 zira - 孜然  
 zirafa - 长颈鹿  
 zirkonium - 锆  
-zoku - 还 (依然)  
+zuzu rute - 之字形  
 zukraden - 星期五 (禮拜五)  
 zuku - 民族  
+unabe - 枣  

@@ -60,6 +60,7 @@ a vakil de - puolesta
 a vo - tuolla  
 a xukre de - ansiosta  
 a ye - täällä  
+a zoku - vielä (yhä)  
 Abaze baxe - abazan kieli  
 Abazia - Abhaasia  
 abies - pihta (jalokuusi)  
@@ -160,7 +161,8 @@ Amazonia - Amazonia
 amen - luottaa (pitää varmana)  
 amenbil - luotettava  
 amenbilta - luotettavuus  
-amen di - varma (luotettu)  
+amenike - varma (turvallinen, luotettava)  
+amenta - varmuus (luotettavuus)  
 Amerike - Amerikka  
 Amerikan - amerikkalainen  
 Amerikan Samoa - Amerikan Samoa  
@@ -733,6 +735,7 @@ dai xulakan - yliopisto
 dake - peittää  
 • andake - paljastaa  
 dake - peite (kansi)  
+dalil - perustella (todistaa; peruste, todiste)  
 dama geme - tammipeli  
 dan - sija (taso, ranking, dan)  
 dane - jyvä (luoti)  
@@ -772,7 +775,7 @@ dau - tie
 dau bano - liikennemerkki  
 dauisme - taolaisuus  
 dauiste - taolainen  
-dau yunte - liittymä  
+dau yuge - liittymä  
 dava - hoitaa (lääkitä)  
 davaer - lääkäri (tohtori)  
 dava logia - lääketiede  
@@ -1473,10 +1476,10 @@ haima - teltta
 Haiti - Haiti  
 haje - pyhiinvaellus  
 hajer - pyhiinvaeltaja  
+hake - oikeus (oikeutus)  
 haki - pöly (tomu)  
 haki cupu gi - pölynimuri  
 haki rang - khaki  
-haku - oikeus (oikeutus)  
 hal - tila (tilanne, seikka)  
 halal - sallittu (hyväksytty)  
 halela - ylistää  
@@ -1784,7 +1787,6 @@ jaze - jazz (jatsi)
 jebe - tasku  
 jebe caku - taskuveitsi (linkkuveitsi)  
 jele - vangita  
-jele - vankeus  
 jeler - vanginvartija  
 jelekan - vankila  
 jen - henkilö  
@@ -1930,14 +1932,13 @@ kar - työskennellä
 • konkar - tehdä yhteistyötä  
 • konkare - tehdä yhteistyötä  
 • prokare - tuottaa (tuotanto)  
+karaje - työ (tehtävä)  
 kar cute - vapaa (poissaolo töistä)  
 karer - työntekijä (työläinen)  
 kargi - työkalu  
 karkan - paja (työpaja)  
-karkan - työpaja  
 kar lexi - verbi (teonsana)  
-karm eza - työpöytä (kirjoituspöytä)  
-karxe - työ (tehtävä)  
+kar meza - työpöytä (kirjoituspöytä)  
 karaoke - karaoke  
 karate - karate  
 karater - karateka (karaten harrastaja)  
@@ -2069,6 +2070,7 @@ Kiribati - Kiribati
 Kiril zi - kyrilliset aakkoset  
 kisma - kohtalo (määrä)  
 kitabe - kirjoittaa (kirjoitus)  
+kitabaje - artikkeli (kirjoitus)  
 kitabe cule - tekstinkäsittely  
 kitaber - kirjoittaja (kirjuri)  
 kitabe forme - tekstin muotoilu  
@@ -2424,7 +2426,6 @@ mahala - kaupunginosa (kortteli, naapurusto)
 maina - kottarainen  
 mais - maissi  
 majang - mahjong  
-makale - artikkeli (kirjoitus)  
 makas - sakset  
 Makau - Macao  
 makin - kone  
@@ -2449,7 +2450,6 @@ mame - nisä (tissi)
 mamal - nisäkäs  
 mame kanse - rintasyöpä  
 mania - mania  
-mana - merkitys  
 manera - käytös (käyttäytyminen, tapa, tavat)  
 mang - kiireinen  
 mangan - mangaani  
@@ -2468,7 +2468,6 @@ mar - kerta (vuoro)
 Marakux - Marrakesh  
 marati - marathi (eräs intialainen kieli)  
 maraton - maratoni  
-marce - kävellä  
 marce - kävely (marssi)  
 margarin - margariini  
 Maris - Mars  
@@ -2500,9 +2499,9 @@ matras - patja
 max - enemmän (myös, lisäksi, plus)  
 maxaje - bonus  
 maxaje - lisä-  
-max fili - suosia (pitää parempana)  
-max fili di - suosikki (suosittu)  
-max fili sim - suosinta (favoritismi)  
+max file - suosia (pitää parempana)  
+max filike - suosikki (suosittu)  
+maxfilisme - suosinta (favoritismi)  
 maxia - enemmistö  
 maxife - lisätä (enentää)  
 maxike - enemmistö-  
@@ -2522,10 +2521,8 @@ meder - auttaja (apulainen, avustaja)
 medal - mitali  
 medalon - medaljonki  
 medan - kenttä (aukio)  
-medan fobi - agorafobia (avaran paikan kammo)  
+medanofobia - agorafobia (avaran paikan kammo)  
 medanike - avara (aava, aukea)  
-medi dia - keskipäivä (puolipäivä)  
-medi fase - rajapinta  
 medu - hunaja  
 medu vespa - mehiläinen  
 medu vespa nide - mehiläispesä  
@@ -2590,6 +2587,8 @@ Mianma - Myanmar (Burma)
 miau - kissa  
 mide - väli  
 midaje - väline (instrumentti)  
+mide dia - keskipäivä (puolipäivä)  
+mide fase - rajapinta  
 midia - media (tiedotusvälineet)  
 mide noce - keskiyö (puoliyö)  
 mien - nuudeli  
@@ -2620,8 +2619,6 @@ minisme - minimalismi
 min ka bas - liian vähän  
 minus - paitsi (miinus)  
 ming - kirkas (selkeä)  
-ministrer - ministeri  
-ministre ofis - ministeriö  
 minte - minttu  
 mintol - mentoli  
 minute - minuutti  
@@ -2976,7 +2973,7 @@ osman - osmani (ottomaani)
 Osman Imperi Dexa - Osmanien valtakunta  
 osmos - osmoosi  
 oste - luu  
-oste yunte - nivel (luiden liitoskohta)  
+oste yuge - nivel (luiden liitoskohta)  
 Ostria - Itävalta  
 ote - suosia (pitää parempana)  
 otime - optimi (paras)  
@@ -3573,12 +3570,12 @@ sento nen - vuosisata
 sento nen di - satavuotinen  
 ser - ketjun lenkki  
 seria - sarja  
+ser letre - ketjukirje  
 serser - ketju  
+serser kaske - silmukkapanssari (rengashaarniska)  
 Sera Leone - Sierra Leone  
 serami - savityö (keramiikka)  
 Serbia - Serbia  
-seri kaska - silmukkapanssari (rengashaarniska)  
-seri letre - ketjukirje  
 serpe - käärme  
 serve - palvelu (palvelus)  
 server - palvelija (tarjoilija)  
@@ -3623,6 +3620,7 @@ siro jen - ei kukaan
 siro sata - ei koskaan (ei kertaakaan)  
 siro xe - ei mitään  
 sis - sisko  
+sis - sihistä (sähistä)  
 sis doh - sisarentytär  
 sis son - sisarenpoika  
 sismologia - seismologia  
@@ -4076,6 +4074,8 @@ Vatikan - Vatikaanivaltio
 vava - itkeä  
 vaxi - pestä  
 Vaxington DC - Washington DC  
+vazir - ministeri  
+vaziria - ministeriö  
 vege - kasvis  
 veganiste - vegaani  
 vegate - kasvaa (kasviksesta)  
@@ -4097,7 +4097,7 @@ verife - todentaa
 veranda - kuisti (terassi, veranta, parveke)  
 verme - mato  
 vermute - vermutti  
-verse - kääntää jtkn päin  
+verse - kääntää jtkn päin (kohti, päin)  
 • deverse - kääntyä pois  
 • disverse - monitahoinen (monipuolinen)  
 • exverse - ulospäinsuuntautunut (ekstrovertti)  
@@ -4107,7 +4107,6 @@ verse - kääntää jtkn päin
 • kontraverse - vastakohtaisuus  
 • perverse - kiero (perverssi)  
 • reverse - kääntää taakse päin  
-verse - kohti (päin)  
 version - versio (käännös, muunnelma)  
 veruke - syylä  
 vespa - mehiläinen tai ampiainen  
@@ -4131,9 +4130,9 @@ vide punte - näkökulma
 vidua - leski  
 Viete - Vietnam  
 viete baxe - vietnamilainen  
-vijin - natriumglutamaatti  
+vijing - natriumglutamaatti  
 viki - wiki  
-viki makala - wikikirjoitus  
+viki kitabaje - wikikirjoitus  
 viki pedia - wikipedia  
 vilde - villi (kesytön)  
 vin - viini  
@@ -4227,10 +4226,10 @@ xaxa - kahista
 xayu - hai  
 xe - asia  
 xe hal - tilanne (asiaintila)  
-xefe pole - pääkaupunki  
 xefe - päällikkö (pomo)  
-xefe di - pää-  
-xefe ministrer - pääministeri (suurvisiiri)  
+xefike - pää-  
+xefe pole - pääkaupunki  
+xefe vazir - pääministeri (suurvisiiri)  
 xenon - ksenon  
 xi - herra tai rouva  
 xi Fulan - se ja se  
@@ -4283,22 +4282,23 @@ xulekan - koulu (opisto)
 xule xefe - rehtori  
 xuru - alku  
 xux - hiljaa (hys, shhh)  
-xux di - hiljainen  
+xuxike - hiljainen  
 
 ## Y  
 
 ya - kyllä  
 Yahve - Jahve (Jehova)  
-yake - jakki  
-yaki - noin (arviolta, suunnilleen)  
-yaki nese - niemi  
+yake - noin (arviolta, suunnilleen, likimäärin)  
+yakife - arvioida (likimääräistää)  
+yake nese - niemi  
+yaku - jakki  
 yam - nauttia (syödä, juoda)  
 yam kamar - ruokasali  
 yam liste - ruokalista  
 yam xe - ruoka  
 yam yau - nälkä  
 yama - pellava  
-yama seme - pellavansiemen  
+yama semen - pellavansiemen  
 yama tela - pellavakangas  
 yang - jang (positiivinen, kirkas, valo, elävä, luja, maskuliininen)  
 Yapetus - Japetus  
@@ -4342,12 +4342,12 @@ you nan - poika (nuori mies)
 you nen - lapsuusvuodet  
 you ni - tyttö (nuori neito)  
 youta - lapsuus (epäkypsyys)  
-yuge - ies  
+yu - y-kirjain  
+yuge - nivel (liitos)  
+yugaje - risteys (liittymä)  
+yuge frem - ies  
+yuge lexe - konjunktio (sidesana)  
 • konyuge - konjugaatio  
-yunte - nivel (liitos)  
-yuntion - liittäminen  
-yunte lexe - konjunktio (sidesana)  
-yunture - risteys (liittymä)  
 yurta - jurtta  
 yuterbium - ytterbium  
 yutrium - yttrium  
@@ -4365,7 +4365,7 @@ zalime - alistaa
 zalimer - tyranni  
 zalimia - tyrannia  
 zalimive - ilkeä (julma)  
-zalim yunte - sotilasjuntta  
+zalim yugia - sotilasjuntta  
 zaman - kausi (aikakausi, ajanjakso, periodi)  
 • prezaman - menneisyys  
 • prezaman di - vanha (muinainen)  
@@ -4399,11 +4399,11 @@ zira - juustokumina (jeera)
 zirafa - kirahvi  
 zirkon - zirkoni  
 zirkonium - zirkonium  
-ziza - siksakki  
-zizi - sihistä  
-zoku - vielä (yhä, jatkua)  
+zoku - jatkaa (jatkua)  
 zombi - zombi  
 zone - vyö  
+zu - tseta (zeta)  
+zuzu rute - siksakki  
 zukam - nuhakuume (vilustuminen, flunssa)  
 Zukra - Venus  
 zukraden - perjantai  
@@ -4411,3 +4411,4 @@ zuku - kansanryhmä (etninen ryhmä)
 zuku di - etninen  
 zuku medi di - kansanryhmien välinen  
 Zulu - zulu  
+unabe - jujube  

@@ -35,7 +35,7 @@ agrobiologia - agrobiologia
 agronomia - agronomia  
 agrícola - agral  
 ai! - ayo  
-ainda - zoku  
+ainda - a zoku  
 ajuda (socorro, auxílio) - mede  
 alaranjado - orange rang  
 alaúde - pipa  
@@ -135,7 +135,8 @@ arroz integral - brun varis
 arsénic - arsenium  
 arte - sute  
 artefato - arte fete  
-articulação (junta) - oste yunte  
+articulação (junta) - oste yuge  
+artigo - kitabaje  
 artista - artiste  
 asa - panka  
 asma - asma  
@@ -354,6 +355,7 @@ casa (lar) - dom
 casca (concha) - kaska  
 cascalho - grave  
 casinha de cachorro - vaf bute  
+castanha - kastana  
 castanho (marrom) - kafe rang  
 Castela - Kastilia  
 castelhano - kastilia baxe  
@@ -453,7 +455,7 @@ conexão - konnetion
 confiar (contar com) - amen  
 confiar (contar com) - krede  
 conhecer ou saber - ken  
-conjunção - yunte lexe  
+conjunção - yuge lexe  
 cono - konu  
 conselho - sel  
 considerar - hem  
@@ -591,7 +593,7 @@ dinheiro - pesa
 dinossauro - dino saur  
 diorito - diorite  
 directionar (apontar, mirar; direção; objetivo) - dike  
-direito - haku  
+direito - hake  
 direitos humanos - human hake  
 diretor - xule xefe  
 disco - diske  
@@ -760,8 +762,8 @@ farol (baliza) - foto minar
 fator (fazedor) - feter  
 fator - caner  
 favela - harabe mahala  
-favoritismo - max fili sim  
-favorito (preferido) - max fili di  
+favoritismo - maxfilisme  
+favorito (preferido) - max filike  
 fazenda (tecido) - tela  
 fazer (feito, fato, facto) - fete  
 fazer - fe  
@@ -803,6 +805,7 @@ fotografia - fotografia
 fraco (débil) - anbala  
 fraco - mirde  
 fragmento - parte  
+frango (galinha) - koko  
 freixo - frasen  
 fruta - frute  
 frutose - frutos  
@@ -861,6 +864,7 @@ golfinho (delfim) - dolfin
 gordura - lipe  
 gorila - gorila  
 governo - polite  
+grama (g) - gram  
 grama (relva) - cau  
 gramado - cau medan  
 granito - granite  
@@ -900,7 +904,6 @@ hmm… - hem…
 holismo - holisme  
 holografia - holografia  
 holograma - holografe  
-honesto (sincero) - amen di  
 honra - onor  
 hora - sah  
 horror - horur  
@@ -924,6 +927,7 @@ hóquei no gelo - ais hoki
 
 ## I  
 
+iaque - yaku  
 idade - umur  
 ideal - ideal  
 ideograma - ideograme  
@@ -966,7 +970,7 @@ inteligência artificial - arte fete intelige (AI)
 intenção - nia  
 interceptar - intercepe  
 internacional - internasial  
-interseção - dau yunte  
+interseção - dau yuge  
 intestino (entranhas, tripa) - intraje  
 invernal (hibernal) - leng mosim di  
 inverno - leng mosim  
@@ -1003,11 +1007,11 @@ jogo de tabuleiro - bano geme
 joule (J) - jul  
 jovem - jun  
 judo - judau  
-jugo - yuge  
+jugo - yuge frem  
 juiz - juder  
-junta militar - zalim yunte  
-juntura - yunture  
-junção - yuntion  
+jujuba - unabe  
+junta militar - zalim yugia  
+juntura - yugaje  
 justiça - adilta  
 justo - adil  
 Júpiter - Muxin  
@@ -1061,7 +1065,7 @@ limpo - safe
 limão - limon  
 lince - linxe  
 linha (fio) - lin  
-linhaça - yama seme  
+linhaça - yama semen  
 linho - yama  
 lista - liste  
 literatura - letaratur  
@@ -1175,7 +1179,7 @@ meia - maze
 meia-noite - mide noce  
 meio (instrumento) - midaje  
 meio (metade) - mide  
-meio-dia - medi dia  
+meio-dia - mide dia  
 meitnério - meitnerium  
 mel - medu  
 melancia - arbuze  
@@ -1210,6 +1214,7 @@ micróbio - mikrobie
 migração - migre  
 milhete (painço) - dana.cau  
 mina - kuan xan  
+ministro - vazir  
 miragem - miraje  
 mirar (apontar) - dike  
 mirar - mire  
@@ -1525,7 +1530,7 @@ preceder (anteceder) - precese
 precioso - bau di  
 preconceito - prexake  
 precursor - prekurser  
-preferir - max fili  
+preferir - max file  
 preferir - prefere  
 prejulgamento - prejude  
 prensa - preser  
@@ -1565,6 +1570,7 @@ prosperar - sucese
 protacnídio - protacinium  
 protocolo - bure rite  
 protótipo - prototipe  
+prova - dalil  
 proxeneta (cafetão) - sutener  
 proximidade - proxia  
 pré-natal - prenatal  
@@ -1748,6 +1754,8 @@ seabórgio - siborgium
 seda - silke  
 sede - sui yau  
 segunda-feira - lunaden  
+segurança - amenta  
+seguro (sincero) - amenike  
 seguro - sekur  
 seio (mama) - mame  
 seis (6) - luka  
@@ -1772,6 +1780,7 @@ sete (7) - ceti
 sexo - sexu  
 sexologia - sexulogia  
 sexta-feira - zukraden  
+sibilar - sis  
 significar (querer dizer) - seme  
 silencioso - tix  
 silêncio - tixta  
@@ -1893,7 +1902,7 @@ toxicologia - toxologia
 toxina - biotoxe  
 trabalhador - karer  
 trabalhar - kar  
-trabalho - karxe  
+trabalho - karaje  
 tragédia - tragodia  
 trajar (vestir-se) - fuke  
 tranca - kane sor  
@@ -2040,6 +2049,7 @@ zoologia - hevan logia
 zoológico - hevan bagi  
 zoológico - hevan logia di  
 zumbi - zombi  
+zê - zu  
 ábaco - jenju table  
 ágil - agile  
 água - sui  

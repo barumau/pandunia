@@ -23,6 +23,7 @@ a supra - sobre
 a vo - allí (allá)  
 a xukre de - gracias a (merced a)  
 a ye - aquí (acá)  
+a zoku - todavía (aún)  
 Abazia - abjazia  
 abies - abeto  
 acar di - encurtido  
@@ -112,10 +113,11 @@ ama - pero (sino)
 Amara - amhara  
 Amazon - Amazonas  
 amen - confiar (contar con)  
-amen - confirmar  
 amenbil - leal (fiel)  
 amenbilta - lealtad (fidelidad)  
-amen di - honesto (seguramente, amén)  
+amenike - seguro  
+amenize - confirmar  
+amenta - seguridad (confianza)  
 Amerike - América  
 Amerikan - americano  
 Amerikan Samoa - Samoa Americana  
@@ -632,6 +634,7 @@ dai zi - mayúscula
 dake - cubrir (tapar)  
 • andake - destapar  
 dake - tapa (funda, cubierta)  
+dalil - prueba  
 dama geme - damas  
 dane - partícula (grano, bala)  
 dana.cau - mijo  
@@ -1298,10 +1301,10 @@ haima - carpa (toldo)
 Haiti - Haití  
 haje - peregrinaje  
 hajer - peregrino  
+hake - derecho  
 haki - polvo  
 haki cupu gi - aspiradora  
 haki rang - caqui  
-haku - derecho  
 hal - estado (condición)  
 halal - permitido (admisible)  
 halal liste - lista blanca  
@@ -1578,9 +1581,8 @@ jeka don - prestar
 jeka lexe - préstamo lingüístico  
 jeka na - pedir prestado  
 jele - encarcelar (aprisionar)  
-jele - prisión  
 jeler - carcelero  
-jele jen - prisionero  
+jelike - prisionero  
 jelekan - cárcel  
 jen - persona  
 jen di - personal (privado, a medida)  
@@ -1724,11 +1726,11 @@ kar - trabajar
 • duskarer - malhechor  
 • konkar - colaborar  
 • konkare - colaborar  
+karaje - trabajo  
 karer - trabajador (obrero)  
 kargi - herramienta  
 kar lexi - verbo  
-karm eza - escritorio (mesa de trabajo)  
-karxe - trabajo  
+kar meza - escritorio (mesa de trabajo)  
 karaoke - karaoke  
 karate - karate  
 karavi - carvis (alcaravea)  
@@ -1851,6 +1853,7 @@ Kiribati - Kiribati
 Kiril zi - alfabeto cirílico  
 kisma - destino  
 kitabe - escribir  
+kitabaje - artículo (texto)  
 kitabeme - grafema  
 kitaber - escriba  
 kitabe forme - formateo  
@@ -1881,7 +1884,7 @@ kode - código (cifra)
 • inkode - codificar (cifrar)  
 koda - cola (rabo, coda)  
 koka - coca  
-koko - pollo  
+koko - pollo (gallina)  
 Kokos nesia - Islas Cocos (Islas Keeling)  
 kola - cola  
 kola jus - cola (refresco de cola)  
@@ -2190,7 +2193,6 @@ mahala - barrio (cuartel)
 maina - mainá  
 mais - maíz  
 majang - mahjong  
-makale - artículo (texto)  
 makan hua - dientes de león (panaderos)  
 makas - tijera  
 Makau - Macao  
@@ -2215,7 +2217,6 @@ mame - seno (teta)
 mamal - mamífero  
 mame kanse - cáncer de mama  
 mania - manía  
-mana - significado (acepción)  
 manera - comportamiento (conducta)  
 mang - ocupado (atareado)  
 mangan - manganeso  
@@ -2235,7 +2236,6 @@ mar - vez
 marati - maratí  
 maraton - maratón  
 marce - caminar (marchar, andar)  
-marce - marcha  
 margai - gato tigre (maracayá)  
 margarin - margarina  
 margarita - margarita  
@@ -2264,9 +2264,9 @@ mate cai - mate cocido
 matras - colchón  
 max - más  
 maxaje - adicional (extra)  
-max fili - preferir (favorecer)  
-max fili di - favorito (preferido)  
-max fili sim - favoritismo  
+max file - preferir (favorecer)  
+max filike - favorito (preferido)  
+maxfilisme - favoritismo  
 maxia - mayoría  
 maxike - mayor  
 maxim - lo más  
@@ -2285,11 +2285,9 @@ mede - ayuda (socorro, auxilio, asistencia)
 medal - medalla  
 medalon - medallón  
 medan - plaza  
-medan fobi - agorafobia  
+medanofobia - agorafobia  
 medanike - abierto (extenso)  
 medan papi - amapola silvestre  
-medi dia - mediodía  
-medi fase - interfaz  
 medu - miel  
 medu vespa - abeja  
 medu vespa nide - colmena (panal)  
@@ -2360,6 +2358,8 @@ Mianma - Myanmar (Birmania)
 miau - gato  
 mide - medio  
 midaje - medio (instrumento)  
+mide dia - mediodía  
+mide fase - interfaz  
 midia - medios  
 midike - medio (mediano)  
 mide noce - medianoche  
@@ -2390,8 +2390,6 @@ minisme - minimalismo
 min ka bas - demasiado poco  
 minus - excepto (menos)  
 ming - brillante (luminoso)  
-ministrer - ministro  
-ministre ofis - ministerio  
 minte - menta  
 mintol - mentol  
 minute - minuto  
@@ -2742,7 +2740,7 @@ Osman Imperi Dexa - Imperio otomano
 osmos - ósmosis  
 oste - hueso  
 oste jama - esqueleto (armazón)  
-oste yunte - articulación  
+oste yuge - articulación  
 Ostria - Austria  
 ote - optar  
 otimal - óptimo  
@@ -3328,10 +3326,10 @@ sento nen di - centenario
 ser - eslabón  
 seria - serie  
 serser - cadena  
+serser kaske - cota de malla  
 Sera Leone - Sierra Leona  
 serami - cerámica  
 Serbia - Serbia  
-seri kaska - cota de malla  
 serpe - serpiente (culebra)  
 serve - servicio  
 server - criado (sirviente)  
@@ -3382,6 +3380,7 @@ siro jen - ningunos
 siro sata - nunca  
 siro xe - nada  
 sis - hermana  
+sis - sisear  
 sismologia - sismología  
 sistem - sistema  
 sistem di - sistémico  
@@ -3794,6 +3793,8 @@ vate - vatio
 Vatikan - Santa Sede (Estado de la Ciudad del Vaticano)  
 vava - llorar  
 vaxi - lavar  
+vazir - ministro  
+vaziria - ministerio  
 vege - verdura (legumbre)  
 veganisme - veganismo  
 veganiste - vegano  
@@ -3813,10 +3814,9 @@ verife - autenticar
 veranda - balcón (terraza, veranda)  
 verme - verme  
 vermute - vermú  
-verse - versar  
+verse - versar (afrontar)  
 • intraverse - introvertido  
 • reverse - invertir  
-verse - versar (afrontar)  
 version - versión (modelo)  
 veruke - verruga  
 vespa - abeja o avispa  
@@ -3838,8 +3838,8 @@ vide punte - perspectiva (punto de vista)
 vidua - viudo  
 Viete - Vietnam  
 viete baxe - idioma vietnamita  
-vijin - GMS  
-viki makala - página wiki  
+vijing - GMS  
+viki kitabaje - página wiki  
 vilde - salvaje  
 vin - vino  
 vinkan - bodega  
@@ -3922,10 +3922,10 @@ xaxa - susurrar (curjir)
 xayu - tiburón  
 xe - cosa  
 xe hal - situación  
-xefe pole - capital  
 xefe - jefe  
-xefe di - principal  
-xefe ministrer - primer ministro  
+xefike - principal  
+xefe pole - capital  
+xefe vazir - primer ministro  
 xenon - xenón  
 xi Fulan - fulano  
 xia - facción  
@@ -3976,22 +3976,22 @@ xule xefe - director de colegio
 xuru - comienzo (inicio, principio)  
 xuru di - primer (inicial, inaugural)  
 xux - chito (chist)  
-xux di - silencioso  
+xuxike - silencioso  
 
 ## Y  
 
 ya - sí  
 Yahve - Yahvé (Jehová)  
-yake - yac  
-yaki - aproximadamente  
-yaki nese - península  
+yake - aproximadamente  
+yake nese - península  
+yaku - yac  
 yam - comer (bebir)  
 yam kamar - comedor  
 yam liste - menú (carta)  
 yam xe - comida  
 yam yau - hambre  
 yama - lino  
-yama seme - linaza  
+yama semen - linaza  
 yatim - huérfano  
 yatim dom - orfanato  
 yau - necesitar  
@@ -4025,10 +4025,11 @@ you - infantil (inmaduro)
 you moke - pimpollo  
 you nan - niño  
 you ni - niña  
-yuge - yugo  
+yu - i griega  
+yugaje - juntura  
+yuge frem - yugo  
+yuge lexe - conjunción  
 • konyuge - conjugar (conjugación)  
-yunte lexe - conjunción  
-yunture - juntura  
 yurta - yurta  
 yuterbium - iterbio  
 yutrium - itrio  
@@ -4045,7 +4046,7 @@ zai zaman di - actual
 zalimer - tirano (déspota)  
 zalimia - crueldad (tiranía)  
 zalimive - tiránico (mezquino, cruel)  
-zalim yunte - junta militar  
+zalim yugia - junta militar  
 zaman - tiempo (era, periodo, época)  
 • prezaman - pasado  
 • prezaman di - viejo (antiguo)  
@@ -4078,11 +4079,10 @@ zira - comino
 zirafa - jirafa  
 zirkon - circón  
 zirkonium - circonio  
-ziza - zigzag  
-zizi - chisporrotear  
-zoku - todavía (aún)  
 zombi - zombi  
 zone - cinturón (zona)  
+zu - zeta  
+zuzu rute - zigzag  
 zukam - resfriado (catarro)  
 Zukra - Venus  
 zukraden - viernes  
@@ -4090,3 +4090,4 @@ zuku - etnia
 zuku di - étnico  
 zuku medi di - interétnica  
 Zulu - zulú  
+unabe - azufaifa, jínjol  

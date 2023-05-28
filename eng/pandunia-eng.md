@@ -62,6 +62,7 @@ a vakil de - on behalf of
 a vo - there  
 a xukre de - thanks to  
 a ye - here  
+a zoku - still (yet)  
 Abaze baxe - Abaza language  
 Abazia - Abkhazia  
 abies - fir tree  
@@ -162,10 +163,11 @@ Amara - Amhara (an Ethiopian ethnic group and language)
 Amazon - Amazon river  
 Amazonia - Amazonia  
 amen - trust (be sure of, have faith in)  
-amen - assure (affirm, confirm)  
 amenbil - trustworthy (loyal, faithful)  
 amenbilta - loyalty (faithfulness)  
-amen di - sure (certain, trusted)  
+amenike - sure (safe, secure, reliable, trustworthy)  
+amenize - assure (affirm, confirm)  
+amenta - safety (security, reliability)  
 Amerike - America (continent)  
 Amerikan - American  
 Amerikan Samoa - American Samoa  
@@ -759,6 +761,7 @@ dai zi - capital letter (upppercase letter)
 dake - cover (conceal)  
 • andake - uncover (reveal)  
 dake - cover (lid, cap, deck)  
+dalil - evidence (argument, proof, testimonial)  
 dama geme - checkers (draughts)  
 dan - rank (grade, dan)  
 dane - particle (grain, bullet)  
@@ -798,7 +801,7 @@ dau - way (road)
 dau bano - road sign  
 dauisme - Taoism (Daoism)  
 dauiste - Taoist  
-dau yunte - junction (intersection of roads)  
+dau yuge - junction (intersection of roads)  
 dava - heal (cure, treat, remedy)  
 davaer - doctor (medic, physician, healer)  
 dava logia - medicine (field of study)  
@@ -1554,10 +1557,10 @@ haima - tent
 Haiti - Haiti  
 haje - pilgrimage  
 hajer - pilgrim  
+hake - right (entitlement)  
 haki - dust  
 haki cupu gi - vacuum cleaner  
 haki rang - khaki  
-haku - right (entitlement)  
 hal - state (condition, status, situation, circumstances)  
 halal - permissible (allowed, halal)  
 halal liste - whitelist  
@@ -1882,10 +1885,9 @@ jeka - borrow (lend)
 jeka don - lend  
 jeka lexe - loanword  
 jeka na - borrow  
-jele - imprison (jail)  
-jele - prison (imprisonment)  
+jele - imprison (jail; imprisonment)  
 jeler - jailer (imprisoner)  
-jele jen - prisoner  
+jelike - prisoner  
 jelekan - prison (jail)  
 jen - person (individual)  
 jen (jen men) - one (impersonal pronoun: people, you)  
@@ -2058,15 +2060,14 @@ kar - work
 • konkar - collaborate (work together)  
 • konkare - collaborate (work together)  
 • prokare - process (produce)  
+karaje - work (job, task)  
 kar cute - leave (absence from work)  
 karer - worker  
 kargi - tool  
 karkan - workshop  
-karkan - workshop  
 kar lexi - verb  
-karm eza - desk  
-karxe - work (job, task)  
-kar xular - apprentice  
+kar meza - desk  
+kar xuler - apprentice  
 karaoke - karaoke  
 karate - karate  
 karater - karateka (practitioner of karate)  
@@ -2100,7 +2101,7 @@ karnize - butcher
 karnizer - butcher  
 karnekan - abattoir (slaughterhouse)  
 Karnada - Karnataka  
-karnada baxe - Kannada  
+karnada baxe - Kannada language  
 karote - carrot  
 karte - map (chart, geographic map)  
 kartografia - cartography  
@@ -2203,6 +2204,7 @@ Kiribati - Kiribati
 Kiril zi - Cyrillic alphabet  
 kisma - destiny (fate, lot, kismet)  
 kitabe - write (writing, text, script)  
+kitabaje - article (writing)  
 kitabe cule - word processing  
 kitabeme - grapheme  
 kitaber - writer (someone who writes)  
@@ -2614,7 +2616,6 @@ maina - myna bird
 mais - corn (maize)  
 majang - mahjong  
 Makah - Mecca  
-makale - article (writing)  
 makan hua - dandelion  
 makas - scissors (shears)  
 Makau - Macao  
@@ -2641,7 +2642,6 @@ mame - breast (boob, tit)
 mamal - mammal  
 mame kanse - breast cancer  
 mania - mania (abnormally high mood and arousal level)  
-mana - meaning (signification)  
 manera - behavior (manners)  
 mang - busy (occupied)  
 mangan - manganese  
@@ -2661,7 +2661,6 @@ mar - time (instance, occurrence, number of times)
 Marakux - Marrakech  
 marati - Marathi  
 maraton - marathon  
-marce - walk (march)  
 marce - walk (march)  
 margai - margay  
 margarin - margarine  
@@ -2699,9 +2698,9 @@ matras - mattress
 max - more  
 maxaje - bonus  
 maxaje - addition (extra)  
-max fili - prefer (favor)  
-max fili di - favorite (preferred)  
-max fili sim - favoritism  
+max file - prefer (favor)  
+max filike - favorite (preferred)  
+maxfilisme - favoritism  
 max gradu - increment  
 maxia - majority  
 maxife - increase  
@@ -2724,11 +2723,9 @@ meder - helper (aid, assistant)
 medal - medal  
 medalon - medallion  
 medan - field (square, plaza, maidan)  
-medan fobi - agoraphobia  
+medanofobia - agoraphobia  
 medanike - open (wide, spacious)  
 medan papi - corn poppy  
-medi dia - noon (midday)  
-medi fase - interface  
 medu - honey  
 medu vespa - honeybee  
 medu vespa nide - beehive (honeycomb)  
@@ -2807,6 +2804,8 @@ Mianma - Myanmar (Burma)
 miau - cat  
 mide - middle (the part in between)  
 midaje - medium (means)  
+mide dia - noon (midday)  
+mide fase - interface  
 midia - medium (media, mass media)  
 midike - medium (intermediate, mean)  
 mide noce - midnight  
@@ -2841,8 +2840,6 @@ min ka bas - too little
 min poli - less (fewer)  
 minus - except (minus)  
 ming - bright (brilliant, clear)  
-ministrer - minister  
-ministre ofis - ministry  
 minte - mint  
 mintol - menthol  
 minute - minute  
@@ -3242,7 +3239,7 @@ osmos - osmosis
 oste - bone  
 oste jama - skeleton (frame)  
 oste xalke - scute  
-oste yunte - joint (connection of bones)  
+oste yuge - joint (connection of bones)  
 Ostria - Austria  
 ote - opt (prefer, choose)  
 otime - optimum  
@@ -3937,13 +3934,13 @@ sento nen - century
 sento nen di - centenary  
 ser - link (ring in a chain)  
 seria - series (sequence, succession)  
+ser letre - chain letter  
 serser - chain  
+serser kaske - chain mail  
 Sera Leone - Sierra Leone  
 serami - ceramic  
 serami sing - bluet  
 Serbia - Serbia  
-seri kaska - chain mail  
-seri letre - chain letter  
 serpe - snake (serpent)  
 serve - service  
 server - servant  
@@ -3996,6 +3993,7 @@ siro jen - nobody (no-one)
 siro sata - never  
 siro xe - nothing  
 sis - sister  
+sis - hiss (sizzle)  
 sis doh - sororal niece  
 sis son - sororal nephew  
 sisme - shake (jolt, earthquake)  
@@ -4495,6 +4493,8 @@ Vatikan - Holy See (Vatican City State)
 vava - weep (cry)  
 vaxi - wash  
 Vaxington DC - Washington DC  
+vazir - minister (vizier, high-ranking official)  
+vaziria - ministry  
 vege - vegetable  
 veganisme - veganism  
 veganiste - vegan  
@@ -4518,7 +4518,7 @@ verife - verify (authenticate)
 veranda - veranda (balcony, terrace, porch)  
 verme - worm  
 vermute - vermouth  
-verse - turn around (flip)  
+verse - turn toward (direct, flip; versus)  
 • deverse - avert  
 • disverse - diverse  
 • exverse - extroverted (outgoing)  
@@ -4528,7 +4528,6 @@ verse - turn around (flip)
 • kontraverse - controversy    
 • perverse - pervert (twist; perverse)  
 • reverse - reverse (invert, direct back; backwards)  
-verse - turn toward (direct, flip; versus)  
 version - version (variation, edition)  
 veruke - wart  
 vespa - bee or wasp  
@@ -4552,9 +4551,9 @@ vide punte - perspective (point of view)
 vidua - widow  
 Viete - Viet Nam  
 viete baxe - Vietnamese language (Viet)  
-vijin - MSG (monosodium glutamate)  
+vijing - MSG (monosodium glutamate)  
 viki - wiki  
-viki makala - wiki article  
+viki kitabaje - wiki article  
 viki pedia - wikipedia  
 vilde - wild (savage)  
 vin - wine  
@@ -4653,10 +4652,10 @@ xayu - shark
 xe - thing  
 xe hal - situation (circumstances, state of affairs)  
 xe hal ironi - situational irony  
-xefe pole - capital city  
 xefe - chief (boss)  
-xefe di - main (principal)  
-xefe ministrer - prime minister  
+xefike - main (principal)  
+xefe pole - capital city  
+xefe vazir - prime minister  
 xenon - xenon  
 xi - Mx. (Mr. or Ms.)  
 xi Fulan - what's-his-name  
@@ -4714,15 +4713,16 @@ xule xefe - headmaster (principal)
 xuru - beginning (start, commencement, onset)  
 xuru di - initial (first)  
 xux - hush (shh)  
-xux di - silent  
+xuxike - silent  
 
 ## Y  
 
 ya - yes  
 Yahve - Yahweh (Jehovah)  
-yake - yak  
-yaki - about (approximately, nearly, almost)  
-yaki nese - peninsula  
+yake - about (approximately, nearly, almost)  
+yakife - approximate (estimate)  
+yake nese - peninsula  
+yaku - yak  
 yam - consume (eat or drink)  
 yam kamar - dining room  
 yam liste - menu (bill of fare)  
@@ -4730,7 +4730,7 @@ yam sukar gana - duruka
 yam xe - food (meal)  
 yam yau - hunger  
 yama - flax (linen)  
-yama seme - linseed  
+yama semen - linseed  
 yama tela - linen fabric  
 yang - yang (positive, bright, living, hard, masculine)  
 Yapetus - Iapetus  
@@ -4777,12 +4777,11 @@ you nan - boy
 you nen - childhood (years of being very young)  
 you ni - girl  
 youta - childhood (immaturity)  
-yuge - yoke  
+yuge - joint (join)  
+yugaje - juncture (junction, intersection)  
+yuge frem - yoke  
+yuge lexe - conjunction  
 • konyuge - conjugation (pairing)  
-yunte - joint (join)  
-yuntion - junction  
-yunte lexe - conjunction  
-yunture - juncture (junction, intersection)  
 yurta - yurt (ger)  
 yuterbium - ytterbium  
 yutrium - yttrium  
@@ -4800,7 +4799,7 @@ zalime - oppress (bully)
 zalimer - oppressor (tyrant, despot, dictator)  
 zalimia - cruelty (tyranny, despotism)  
 zalimive - oppressive (despotic, tyrannical, cruel)  
-zalim yunte - junta  
+zalim yugia - junta  
 zaman - period (era, epoch, term)  
 • prezaman - past times  
 • prezaman di - old (ancient, former)  
@@ -4836,11 +4835,11 @@ zira - cumin (jeera)
 zirafa - giraffe  
 zirkon - zircon  
 zirkonium - zirconium  
-ziza - zigzag  
-zizi - sizzle  
-zoku - continue (go on, keep on, carry on, proceed, still, yet)  
+zoku - continue (go on, keep on, carry on, proceed)  
 zombi - zombie  
 zone - belt (zone)  
+zu - zee (zed)  
+zuzu rute - zigzag  
 zukam - cold (illness)  
 Zukra - Venus  
 zukraden - Friday  
@@ -4848,3 +4847,4 @@ zuku - ethnic group
 zuku di - ethnic  
 zuku medi di - interethnic  
 Zulu - Zulu  
+unabe - jujube  

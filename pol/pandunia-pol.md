@@ -26,6 +26,7 @@ a vakil de -
 a vo - tu (tutaj, tam)  
 a xukre de -   
 a ye -   
+a zoku - wciąż (nadal)  
 Abaze baxe - abazyński  
 Abazia - Abchazja  
 abies - jodła  
@@ -126,10 +127,11 @@ Amara - Amhara, amharski
 Amazon -   
 Amazonia -   
 amen - ufać (wierzyć, liczyć, polegać)  
-amen -   
 amenbil - lojalny (wierny)  
 amenbilta - lojalność (wierność)  
-amen di -   
+amenike -   
+amenize -   
+amenta -   
 Amerike - Ameryka (kontynent)  
 Amerikan - amerykański  
 Amerikan Samoa - Amerykańska Samoa  
@@ -724,6 +726,7 @@ dai zi -
 dake - przykryć, przykrywać, ukryć, ukrywać  
 • andake - odsłonić, odsłaniać  
 dake - pokrycie; pokrywa, wieko, dekiel; pokład  
+dalil - dowód; zeznanie  
 dama geme - warcaby  
 dan -   
 dane - cząstka (ziarno, kula, pocisk)  
@@ -763,7 +766,7 @@ dau - droga, szosa, ulica
 dau bano -   
 dauisme - taoizm  
 dauiste - taoista  
-dau yunte -   
+dau yuge -   
 dava - uleczyć, leczyć, uzdrowić, uzdrawiać  
 davaer - doktor, lekarz, uzdrowiciel  
 dava logia - medycyna  
@@ -1519,10 +1522,10 @@ haima - namiot
 Haiti - Haiti  
 haje -   
 hajer -   
+hake - prawo, przywilej  
 haki - pył  
 haki cupu gi - odkurzacz  
 haki rang -   
-haku - prawo, przywilej  
 hal - stan  
 halal - dozwolony (dopuszczalny, zezwolony, halal)  
 halal liste -   
@@ -1848,9 +1851,8 @@ jeka don - pożyczać komuś (pożyczyć komuś)
 jeka lexe - zapożyczenie (wyraz obcy)  
 jeka na - pożyczać (pożyczyć)  
 jele - uwięzić, więzić, pozbawić wolności  
-jele - więzienie, kara więzienia, kara pozbawienia wolności  
 jeler - strażnik więzienny  
-jele jen -   
+jelike -   
 jelekan - więzienie, zakład karny  
 jen - osoba  
 jen (jen men) -   
@@ -2023,15 +2025,14 @@ kar - pracować
 • konkar - współpracować (kolaborować)  
 • konkare - współpracować (kolaborować)  
 • prokare -   
+karaje - praca, zjęcie, zadanie  
 kar cute -   
 karer - pracownik  
 kargi - narzędzie  
 karkan -   
-karkan -   
 kar lexi - czasownik  
-karm eza - biurko  
-karxe - praca, zjęcie, zadanie  
-kar xular - praktykant  
+kar meza - biurko  
+kar xuler - praktykant  
 karaoke - karaoke  
 karate - karate  
 karater -   
@@ -2169,6 +2170,7 @@ Kiribati - Kiribati
 Kiril zi - cyrylica  
 kisma - przeznaczenie, los  
 kitabe - pismo, tekst  
+kitabaje - artykuł, tekst  
 kitabe cule -   
 kitabeme -   
 kitaber -   
@@ -2207,7 +2209,7 @@ kode - kod, szyfr
 koda - ogon  
 koka - koka  
 Koka Kola - kola (coca-cola)  
-koko - kura, kogut, kurczak  
+koko - kura (kogut, kurczak)  
 Kokos nesia - Wyspy Kokosowe  
 kola -   
 kola frute -   
@@ -2580,7 +2582,6 @@ maina -
 mais - kukurydza  
 majang - madżong  
 Makah - Mekka  
-makale - artykuł, tekst  
 makan hua - mlecz  
 makas - nożyce, nożyczki  
 Makau - Makau  
@@ -2607,7 +2608,6 @@ mame -
 mamal - ssak  
 mame kanse - rak piersi  
 mania -   
-mana - znaczenie  
 manera - zachowanie (maniery, kultura)  
 mang - zajęty  
 mangan - mangan  
@@ -2628,7 +2628,6 @@ Marakux -
 marati - marathi  
 maraton - maraton  
 marce - iść, maszerować  
-marce -   
 margai - margaj (ocelot nadrzewny)  
 margarin - margaryna  
 margarita - stokrotka  
@@ -2665,9 +2664,9 @@ matras - materac
 max - bardzie  
 maxaje - dodatkowy  
 maxaje - dodatkowy  
-max fili - preferować (woleć)  
-max fili di - ulubiony  
-max fili sim -   
+max file - preferować (woleć)  
+max filike - ulubiony  
+maxfilisme -   
 max gradu - zwiększyć o jeden  
 maxia - większość  
 maxife -   
@@ -2690,11 +2689,9 @@ meder -
 medal - medal  
 medalon - medalion  
 medan - skwer, plac  
-medan fobi - agorafobia  
+medanofobia - agorafobia  
 medanike - otwarty (przestrzenny)  
 medan papi - mak polny  
-medi dia - południe  
-medi fase - interfejs  
 medu - miód  
 medu vespa - pszczoła miodna  
 medu vespa nide - plaster  
@@ -2774,6 +2771,8 @@ Mianma - Mjanma, Birma
 miau - kot  
 mide - środek  
 midaje -   
+mide dia - południe  
+mide fase - interfejs  
 midia -   
 midike - średni  
 mide noce - północ  
@@ -2807,8 +2806,6 @@ min ka bas - zbyt mało
 min poli -   
 minus - oprócz, minus  
 ming - jasny, czysty  
-ministrer - minister  
-ministre ofis - ministry  
 minte - mięta  
 mintol - mentol  
 minute - minuta  
@@ -3207,7 +3204,7 @@ osmos - osmoza
 oste - kość  
 oste jama - szkielet  
 oste xalke - łuska (blaszka, tarczka)  
-oste yunte - staw  
+oste yuge - staw  
 Ostria - Austria  
 ote -   
 otime -   
@@ -3902,13 +3899,13 @@ sento nen - stulecie
 sento nen di -   
 ser -   
 seria - seria, szereg  
+ser letre - łańcuszek  
 serser - łańcuch  
+serser kaske - kolczuga  
 Sera Leone - Sierra Leone  
 serami - ceramika  
 serami sing - houstonia  
 Serbia - Serbia  
-seri kaska - kolczuga  
-seri letre - łańcuszek  
 serpe - wąż  
 serve - służba  
 server - sługa  
@@ -3961,6 +3958,7 @@ siro jen - nikt, żadna osoba
 siro sata - nigdy  
 siro xe - nic, żadna rzecz  
 sis -   
+sis - syczeć (skwierczeć)  
 sis doh -   
 sis son -   
 sisme - trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi)  
@@ -4460,6 +4458,8 @@ Vatikan - Watykan, Państwo Watykańskie
 vava - płakać, łkać  
 vaxi - prać, umyć, myć  
 Vaxington DC - Waszyngton D.C  
+vazir - minister  
+vaziria - ministry  
 vege - warzywo  
 veganisme -   
 veganiste - weganin (weganka)  
@@ -4493,7 +4493,6 @@ verse -
 • kontraverse -   
 • perverse -   
 • reverse -   
-verse -   
 version - wersja (wariacja, edycja, wydanie)  
 veruke - brodawka  
 vespa - pszczoła lub osa  
@@ -4517,9 +4516,9 @@ vide punte - perspektywa (punkt widzenia)
 vidua - wdowa  
 Viete - Wietnam  
 viete baxe - wietnamski  
-vijin - glutaminian sodu  
+vijing - glutaminian sodu  
 viki -   
-viki makala - artykuł wiki  
+viki kitabaje - artykuł wiki  
 viki pedia -   
 vilde - dziki  
 vin - wino  
@@ -4618,10 +4617,10 @@ xayu - rekin
 xe - rzecz  
 xe hal - sytuacja (stan)  
 xe hal ironi - ironia sytuacyjna  
-xefe pole -   
 xefe - szef, kierownik  
-xefe di - główny  
-xefe ministrer - premier  
+xefike - główny  
+xefe pole -   
+xefe vazir - premier  
 xenon - ksenon  
 xi -   
 xi Fulan -   
@@ -4679,15 +4678,16 @@ xule xefe - dyrektor szkoły
 xuru - początek  
 xuru di - pierwszy, początkowy  
 xux - ćsi  
-xux di - cichy  
+xuxike - cichy  
 
 ## Y  
 
 ya - tak  
 Yahve -   
-yake - jak (zwierzę)  
-yaki - około; przybliżony  
-yaki nese - półwysep  
+yake - około; przybliżony  
+yakife -   
+yake nese - półwysep  
+yaku - jak (zwierzę)  
 yam - skonsumować, konsumować, zjeść, jeść, wypić, pić)  
 yam kamar - jadalnia  
 yam liste -   
@@ -4695,7 +4695,7 @@ yam sukar gana - cukrowiec jadalny
 yam xe - jedzenie, posiłek  
 yam yau - głód  
 yama -   
-yama seme -   
+yama semen -   
 yama tela -   
 yang -   
 Yapetus -   
@@ -4742,12 +4742,12 @@ you nan - chłopak
 you nen -   
 you ni - dziewczyna  
 youta -   
-yuge - jarzmo  
+yu -   
+yuge -   
+yugaje -   
+yuge frem - jarzmo  
+yuge lexe -   
 • konyuge -   
-yunte -   
-yuntion -   
-yunte lexe -   
-yunture -   
 yurta - jurta  
 yuterbium - iterb  
 yutrium - itr  
@@ -4765,7 +4765,7 @@ zalime -
 zalimer - tyran  
 zalimia - tyrania  
 zalimive - złośliwy, okrutny  
-zalim yunte -   
+zalim yugia -   
 zaman - czas (epoka, era)  
 • prezaman - przeszłość  
 • prezaman di - stary, starożytny  
@@ -4801,11 +4801,11 @@ zira - kumin, kmin
 zirafa - żyrafa  
 zirkon -   
 zirkonium - cyrkon  
-ziza - zygzag  
-zizi - skwierczeć  
-zoku - wciąż, nadal; kontynuować, wznawiać, ponawiać  
+zoku - kontynuować (wznawiać, ponawiać)  
 zombi - zombie, zombi  
 zone - pas, strefa  
+zu -   
+zuzu rute - zygzag  
 zukam - przeziębienie, katar  
 Zukra - Wenus  
 zukraden - piątek  
@@ -4813,3 +4813,4 @@ zuku - grupa etniczna
 zuku di - etniczny  
 zuku medi di - międzyetniczny  
 Zulu - zulu  
+unabe -   

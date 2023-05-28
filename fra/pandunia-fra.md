@@ -11,6 +11,7 @@ a re - en arrière
 a vo - là (y)  
 a xukre de - grâce à  
 a ye - ici  
+a zoku - encore  
 Abaze baxe - abaze  
 Abazia - Abkhazie  
 abies - sapin  
@@ -90,7 +91,8 @@ Amara - Amhara (groupe ethnique et langue éthiopienne)
 Amazon - Amazone  
 Amazonia - Amazonie  
 amen - faire confiance (espérer, croire qqn./qqch., avoir la foi)  
-amen di - sûr (crédible, sûrement)  
+amenike - sûr  
+amenta - sécurité  
 Amerike - Amérique  
 Amerikan - américain  
 Amerikan Samoa - Samoa américaines  
@@ -459,6 +461,7 @@ dai pau - canon
 dai pote - chaudron  
 dai seku - rocher  
 dake - couvrir  
+dalil - preuve  
 dama geme - jeu de dames  
 dan - rang  
 dana.cau - mil (millet)  
@@ -474,7 +477,7 @@ date banke - base de données
 data cule - traitement de données  
 data cule logia - informatique  
 dau bano - panneau de signalisation  
-dau yunte - carrefour  
+dau yuge - carrefour  
 dava sui - pocion  
 dava xe - médicament (remède)  
 dava xekan - pharmacie  
@@ -773,6 +776,7 @@ goton - coton
 gradu mute - développement  
 grafe cule - traitement d'images  
 grafe kata - bande dessinée  
+gram - gramme  
 • programe - programme  
 granite - granit  
 grave - gravire  
@@ -803,9 +807,9 @@ haima - tente
 Haiti - Haïti  
 haje - pèlerinage  
 hajer - pèlegrin  
+hake - droit  
 haki - poussière  
 haki rang - kaki  
-haku - droit  
 hal - état  
 hali - vide  
 hali zi - espace  
@@ -1038,9 +1042,9 @@ kar - travailler
 • duskarer - malfeiteur  
 • konkar - collaborer  
 • konkare - collaborer  
+karaje - travail  
 karer - travailleur (ouvrier)  
 kar lexi - verbe  
-karxe - travail  
 karate - karaté  
 karater - karatéka  
 karbe - carbone  
@@ -1071,6 +1075,7 @@ kartux - cartouche
 karuba - caroube  
 kasul - capsule  
 kaska - carapace (coquille, coquillage, croûte)  
+kastana - châtaigne (marron)  
 Kastilia - Castille  
 kastilia baxe - castillan  
 katil - lit  
@@ -1108,6 +1113,7 @@ kioske - pavillon
 kirate - carat  
 kisma - destin  
 kitabe - écrire  
+kitabaje - article  
 kitabe cule - traitement de texte  
 kitaber - scribe  
 kitabiste - écrivain  
@@ -1127,6 +1133,7 @@ klor - chlore
 koala - koala  
 kobalte - cobalt  
 koda - queue  
+koko - poulet  
 koli - chou  
 kolum - pilier (colonne, poteau)  
 komike - comique  
@@ -1357,9 +1364,9 @@ mate - yerba mate
 mate cai - maté  
 matras - matelas  
 max - plus  
-max fili - préférer  
-max fili di - favori (préféré)  
-max fili sim - favoritisme  
+max file - préférer  
+max filike - favori (préféré)  
+maxfilisme - favoritisme  
 maxia - majorité  
 maxike - majeur  
 maximaje - maximum  
@@ -1370,7 +1377,6 @@ medal - médaille
 medalon - médaillon  
 medan - place  
 medan papi - coquelicot  
-medi dia - midi  
 medu - miel  
 medu vespa nide - rayon de miel  
 megi - nuage  
@@ -1403,6 +1409,7 @@ mi - je (me)
 mimen - nous  
 mimen su - notre  
 miau - chat  
+mide dia - midi  
 midia - médias  
 midike - moyen  
 mide noce - minuit  
@@ -1608,7 +1615,7 @@ osidian - obsidienne
 osmium - osmium  
 oste jama - squelette  
 oste xalke - scutelle  
-oste yunte - articulation (jointure)  
+oste yuge - articulation (jointure)  
 ote - opter  
 otimal - optimal  
 otion - option (choix)  
@@ -1966,6 +1973,7 @@ sirke - cercle (rond)
 sirkus - cirque  
 siro - zéro  
 sis - sœur  
+sis - grésiller  
 Skandia - Scandinavie  
 skandium - scandium  
 skuter - trottinette  
@@ -2179,6 +2187,7 @@ vari - divers (plusieurs)
 varibil - variable  
 varis - riz  
 varis vin - vin de riz  
+vazir - ministre  
 vege - légume  
 vegate - végéter  
 vegoyamiste - végétarien  
@@ -2194,10 +2203,9 @@ ver - vrai
 veranda - balcon  
 verme - ver  
 vermute - vermouth  
-verse - verser  
+verse - verser (verse, face á)  
 • intraverse - introverti  
 • perverse - pervers  
-verse - verser (verse, face á)  
 veruke - verrue  
 vespa - abeille ou guêpe  
 vespa nide - ruche (nid d'abeille)  
@@ -2254,8 +2262,8 @@ xava - rôtir
 xayu - requin  
 xe - chose  
 xe hal - situation (état de choses)  
-xefe pole - capitale  
 xefe - chef  
+xefe pole - capitale  
 xenon - xénon  
 xia - faction (clique)  
 xia islam din - chiisme  
@@ -2294,10 +2302,11 @@ xuru - début (commencement)
 
 ya - oui  
 Yahve - Yahweh (Jéhovah)  
+yaku - yak  
 yam liste - menu (carte)  
 yam yau - faim  
 yama - lin  
-yama seme - graine de lin  
+yama semen - graine de lin  
 yatim dom - orphelinat  
 • anyau di - inutile  
 yau di - nécessaire  
@@ -2317,10 +2326,9 @@ yogur - yaourt (yogourt)
 yoke - jade  
 you - infantile (immature)  
 you moke - pousse  
-yuge - joug  
+yuge frem - joug  
+yuge lexe - conjonction  
 • konyuge - conjugaison  
-yuntion - jonction  
-yunte lexe - conjonction  
 yurta - yourte  
 yuterbium - ytterbium  
 yutrium - yttrium  
@@ -2330,7 +2338,7 @@ yutrium - yttrium
 zai di - présent  
 zai zaman di - actuel (courant)  
 zalimive - cruel  
-zalim yunte - junte  
+zalim yugia - junte  
 zaman - temps (ère)  
 • prezaman di - vieux (ancien)  
 zar kube - dé  
@@ -2349,12 +2357,14 @@ zinke - zinc
 zira - cumin  
 zirafa - giraffe  
 zirkonium - zirconium  
-zoku - continuer (poursuivre, encore)  
+zoku - continuer (poursuivre)  
 zombi - zombi  
 zone - zone  
+zu - zède  
 zukam - rhume  
 Zukra - Vénus  
 zukraden - vendredi  
 zuku - ethnie  
 zuku di - ethnique  
 Zulu - zoulou  
+unabe - jujube  
