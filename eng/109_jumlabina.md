@@ -29,7 +29,7 @@ The clause constituents are listed below.
 The clause constituents are phrases.
 The main phrase types are listed below.
 
-- The noun phrase (NP) consists of a determiner (det.), one or more adjective phrases and a noun.
+- The noun phrase (NP) consists of a determiner (det.), adjectives and a noun.
   The noun is the head of the noun phrase,
   which means that it is the main word
   and the other words only add to its meaning.
@@ -61,6 +61,35 @@ in three levels: (1) clause constituents, (2) phrases and (3) words.
          vo  jun  man   le  suge marce  a   la  dai dau      ya.
 	     that young man did fast walk   on  the big road     yes
 		 'That young man walked fast on the big road.'
+
+
+### Marking boundaries between constituents
+
+Clause constituents can consist of more than one word.
+Subject and object can be noun phrases that consist of many words,
+and there can be a series of verbs (i.e. a serial verb) instead of a single verb.
+In such cases the boundaries between the clause constituents can become doubtful.
+
+**xiu baku meme vol xuru yam hau seng cau.**
+– Little white sheep want to start to eat good fresh grass.
+
+Boundaries between sentence elements can be marked with little words.
+Determiners, like 
+**un**
+'a, one',
+**ye**
+'this or these',
+**vo**
+'that or those over there',
+**la**
+'that or those', and
+**yo**
+'some',
+help to indicate where noun phrases begin.
+
+**la xiu baku meme *ya* vol xuru yam *la* hau seng cau.**
+– The little white sheep want to start to eat that good fresh grass.
+
 
 ## Clause types
 
@@ -603,34 +632,6 @@ The verbs before it are modal verbs.
 – You can eat vegetables. (ability)  
 **tu mus yam yo fite.**
 – You must eat vegetables. (obligation)
-
-
-### Marking sentence elements
-
-Sentence elements can consist of more than one word.
-Subject and object can be noun phrases that consist of many words,
-and there can be a series of verbs (i.e. a serial verb) instead of a singular verb.
-In such cases the boundaries between the sentence elements can become doubtful.
-
-**xiu baku meme vol xuru yam hau seng cau.**
-– Little white sheep want to start to eat good fresh grass.
-
-Boundaries between sentence elements can be marked with little words, like
-**ya**
-'do',
-**un**
-'a, one',
-**ye**
-'this or these',
-**vo**
-'that or those over there',
-**la**
-'that or those', and
-**yo**
-'some'.
-
-**la xiu baku meme *ya* vol xuru yam *la* hau seng cau.**
-– The little white sheep want to start to eat that good fresh grass.
 
 
 ## Changing the focus
