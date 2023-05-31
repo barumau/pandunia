@@ -1,6 +1,6 @@
-# Sentences
+# Sentence structures
 
-## Building blocks
+## What sentences are made of?
 
 Sentences consist of clauses, which in turn consist of constituents,
 which are phrases, which consist of words and have a certain internal word order.
@@ -30,8 +30,10 @@ The clause constituents are phrases.
 The main phrase types are listed below.
 
 - The noun phrase (NP) consists of a determiner (det.), one or more adjective phrases and a noun.
-  The noun is the main word of the noun phrase,
-  which means that it alone could represent the entire noun phrase.
+  The noun is the head of the noun phrase,
+  which means that it is the main word
+  and the other words only add to its meaning.
+  The head can serve alone as the noun phrase whereas the other words can't.
 - The adjective phrase (AP) consists of an adjective (adj.) with any adverbs (adv.) that modify it.
 - The verb phrase (VP) consists of a tense, aspect or mood marker (TAM),
   one or more adverbs and a verb (or a verb series).
@@ -40,42 +42,59 @@ The main phrase types are listed below.
   and usually a noun phrase as its complement.
 
 Pandunia sentences are made up of the building blocks listed above.
-The figure below shows an example of a complete sentence in Pandunia.
+The figure below shows the decomposition of a Pandunia sentence
+in three levels: (1) clause constituents, (2) phrases and (3) words.
 
-    Figure. Structure of a sentence with the transitive clause.
+    Figure 1. Decomposition of a sentence structure in Pandunia.
     
-     ╔═════════╗   ╔═══════════╗   ╔════════╗    ╔═══════════╗   ╔═══════════════╗
-     ║ SUBJECT ║   ║ PREDICATE ║   ║ OBJECT ║    ║ ADVERBIAL ║×n ║ENDING PARTICLE║
-     ╚════╤════╝   ╚═════╤═════╝   ╚════╤═══╝    ╚═════╤═════╝   ╚═══════╤═══════╝
-          │              │              │              │                 │
-    ┌─────┴─────┐  ┌─────┴─────┐  ┌─────┴─────┐  ┌─────┴──────┐          │
-    │noun phrase│  │verb phrase│  │noun phrase│  │prep. phrase│          │
-    └─────┬─────┘  └─────┬─────┘  └─────┬─────┘  └────────┬───┘          │
-          │              │              │                 │              │
-    ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐ ┌────┬───┼───┬────┐ ┌───┴────┐
-    │det│adj│noun│ │TAM│adv│verb│ │det│adj│noun│ │prep│det│adj│noun│ │particle│
-    └───┴───┴────┘ └───┴───┴────┘ └───┴───┴────┘ └────┴───┴───┴────┘ └────────┘
-     la  jun man    le      vide   un  sen guru    in  la lokal pujekan   ne?
-	'The young man  did     see    an  old guru    in the local temple,  right?'
+         ╔═════════╗   ╔═══════════╗  ╔═══════════╗   ╔═══════════════╗
+    (1)  ║ SUBJECT ║   ║ PREDICATE ║  ║ ADVERBIAL ║   ║ENDING PARTICLE║
+         ╚════╤════╝   ╚═════╤═════╝  ╚═════╤═════╝   ╚═══════╤═══════╝
+              │              │              │                 │
+        ┌─────┴─────┐  ┌─────┴─────┐  ┌─────┴──────┐          │
+    (2) │noun phrase│  │verb phrase│  │prep. phrase│          │
+        └─────┬─────┘  └─────┬─────┘  └────────┬───┘          │
+              │              │                 │              │
+        ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐ ┌────┬───┼───┬────┐ ┌───┴────┐
+    (3) │det│adj│noun│ │TAM│adv│verb│ │prep│det│adj│noun│ │particle│
+        └───┴───┴────┘ └───┴───┴────┘ └────┴───┴───┴────┘ └────────┘
+         vo  jun  man   le  suge marce  a   la  dai dau      ya.
+	     that young man did fast walk   on  the big road     yes
+		 'That young man walked fast on the big road.'
+
+## Clause types
+
+### Predicative clause
+
+The basic predicative clause patterns are:  
+Someone is something.  
+Someone is of some kind of.  
+In short, the subject is what the predicative says.
+
+The predicative clause is simple in Pandunia.
+What is new for English speakers, is that the copula verb ’to be’ can be left out.
+It’s not necessary in Pandunia.
+There are two types of predicative clause: verbal and nominal.
+
+    Figure 2. Decomposition of the copula clause.
+    
+     ╔═════════╗   ╔═══════════╗      ╔═════════════╗
+     ║ SUBJECT ║   ║  (COPULA) ║      ║ PREDICATIVE ║
+     ╚════╤════╝   ╚═════╤═════╝      ╚══════╤══════╝
+          │              │              ┌────┴───────┐
+    ┌─────┴─────┐  ┌─────┴─────┐  ┌─────┴─────┐ ┌────┴──────┐
+    │noun phrase│  │verb phrase│  │noun phrase│ │adj. phrase│
+    └─────┬─────┘  └─────┬─────┘  └─────┬─────┘ └─────┬─────┘
+          │              │              │             │
+    ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐  ┌───┼───┐
+    │det│adj│noun│ │TAM│adv│verb│ │det│adj│noun│  │adv│adj│
+    └───┴───┴────┘ └───┴───┴────┘ └───┴───┴────┘  └───┴───┘
 
 
-## Observations
+#### Nominal predicative clause
 
-Observations are the simplest sentence type.
-They may consist of only one word, which draws the listener's attention.
-
-**mau!**
-– A cat!  
-**barxa!**
-– Rain! / (It) rains!
-
-
-## Predicative complements
-
-### Plain complements
-
-A predicative complement completes the meaning of a sentence by giving information about a noun by either renaming it or describing it.
-Often there is no linking verb (i.e. copula) between the subject and its predicative complement.
+A predicative completes the meaning of a sentence by giving information about a noun by either renaming it or describing it.
+Often there is no copula verb (i.e. linking verb) between the subject and its predicative complement.
 
 **da Ali.**
 – He is Ali.  
@@ -87,9 +106,9 @@ Often there is no linking verb (i.e. copula) between the subject and its predica
 – Ali is at home.
 
 
-### Complementing with linking verb
+#### Verbal predicative clause
 
-The linking verb
+The copula verb
 **es**
 'to be'
 can be used optionally in simple predicative sentences like the ones above.
@@ -103,7 +122,7 @@ can be used optionally in simple predicative sentences like the ones above.
 **Ali es a dom.**
 – Ali is at home.
 
-The linking verb is used when it is necessary in order to convey the desired meaning.
+The copula verb is used when it is necessary in order to convey the desired meaning.
 For example, modal verbs, like
 **vol**
 'to want', always need it as the main verb
@@ -137,7 +156,7 @@ instead of the linking verb.
 – My job: to help children.
 
 
-### Negating the complement
+#### Negating the complement
 
 All predicative complements can be negated by
 **no**
@@ -162,7 +181,7 @@ is optional in the same cases as before
 – His job is not to help children.
 
 
-### Adjective and verb subjects
+#### Adjective and verb subjects
 
 In addition to noun subjects and pronoun subjects,
 the previous rules apply also to adjective subjects and verb subjects.
@@ -179,12 +198,141 @@ the previous rules apply also to adjective subjects and verb subjects.
 – To teach children is to help children.
 
 
-## Action sentences
+## Intransitive clause
 
-Action sentences describe an event that involves a flow of energy from one participant to the next.
-The participants take different roles in the event.
-The most common and the most essential roles are the roles of agent and patient.
-There is a lot of variation in these roles but their most basic types can be described as prototypical roles.
+The purpose of the intransitive clause is to express an event, where someone does something, or where something happens.
+The intransitive clause contains only one participant, the subject.
+It is the doer or the experiencer of the event.
+Intransitive clause does not contain an object.
+
+    Figure 3. Decomposition of the intransitive clause.
+    
+     ╔═════════╗   ╔═══════════╗
+     ║ SUBJECT ║   ║ PREDICATE ║
+     ╚════╤════╝   ╚═════╤═════╝
+          │              │
+    ┌─────┴─────┐  ┌─────┴─────┐
+    │noun phrase│  │verb phrase│
+    └─────┬─────┘  └─────┬─────┘
+          │              │
+    ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐
+    │det│adj│noun│ │TAM│adv│verb│
+    └───┴───┴────┘ └───┴───┴────┘
+
+Here are some examples of intransitive clauses.
+*Children run.* This sentence tells what the children do, they run.
+*The door opens.* This sentence tells what the door does, it opens.
+*The old man dies.* This sentence tells what the old man experiences, he dies.
+
+The actions described by intransitive clauses can be voluntary or involuntary.
+They are done by the subject, or they just happen to the subject.
+
+In intransitive clauses, if anyone at all is affected by the event, it is the subject.
+So the action is directed at the subject.
+The subject undergoes a change.
+The change can be a change of state or a change of place.
+
+In the sentence *the children run*, the subject changes place.
+In the sentence *the old man dies*, the subject changes state from living to dead.
+
+Here are some intransitive clauses in Pandunia.
+The subjects are written in cursive.
+
+***bace*** **kurse.**
+– Children run.  
+***jun fem*** **danse.**
+– The young woman dances.  
+***sen man*** **morte.**
+– The old man died.
+
+Note that Pandunia verbs don’t include tense.
+So they can express the past and present alike.
+Therefore for example **morte** can mean both ’died’ and ’dies’.
+
+So called intransitive verbs can take a cognate object, whose meaning is very close to the meaning of the verb.
+For example the sentence **bace kurse**, 'the children run', can take an object like **long kurse**, 'a long run'.
+
+***Bace** **kurse long kurse.**
+– 'The chilren run a long run.'
+
+The meaning of the sentence doesn’t really change.
+It is still about an activity and a change of place,
+but structurally it is now a transitive clause.
+
+***jun fem*** **danse mei danse.**
+– The young woman dances a beautiful dance.  
+***sen man*** **morte hau morte.**
+– The old man died a good death.
+
+The intransitive clause is structurally similar to the nominal predicative clause, which has zero copula.
+Compare the first two examples below!
+
+(1) ***sen man*** **morte.**
+– The old man died.	(intransitive clause)  
+(2) ***sen man*** **– morte.**
+– The old man (is) dead. (nominal predicative clause)  
+(3) ***sen man*** **es morte.**
+– The old man is dead. (verbal predicative clause)
+
+The same sentence can mean both 'the old man died' and 'the old man is dead'.
+However, they mean almost the same thing, so their almost similar appearance is not an issue.
+One can use the copula verb to clarify the situation, as in the third sentence, when necessary.
+
+
+## Transitive clause
+
+The transitive clause is the most versatile clause type in Pandunia, and it has many different realizations.
+
+Transitive clauses are clauses where the verb takes a direct object.
+The purpose of the transitive clause is to express an event where someone does something to someone or something.
+
+The three constituents of the transitive clause are subject, verb and object.
+In theory, they can be ordered in many different ways.
+In Pandunia, their normal order is subject–verb–object (SVO).
+This order is one of the most common word orders among world's languages.
+It is the most common word order by number of speakers
+and the second-most common order by number of languages.
+
+    Figure 4. Decomposition of the transitive clause.
+    
+     ╔═════════╗   ╔═══════════╗   ╔════════╗
+     ║ SUBJECT ║   ║ PREDICATE ║   ║ OBJECT ║
+     ╚════╤════╝   ╚═════╤═════╝   ╚════╤═══╝
+          │              │              │
+    ┌─────┴─────┐  ┌─────┴─────┐  ┌─────┴─────┐
+    │noun phrase│  │verb phrase│  │noun phrase│
+    └─────┬─────┘  └─────┬─────┘  └─────┬─────┘
+          │              │              │
+    ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐
+    │det│adj│noun│ │TAM│adv│verb│ │det│adj│noun│
+    └───┴───┴────┘ └───┴───┴────┘ └───┴───┴────┘
+     la  jun man    le      vide   un  sen guru.
+    'The young man  did     see    an  old guru.'
+
+Transitive clauses are called transitive because they express an event where some energy transits from the subject to the object.
+Subject–verb–object is a natural word order,
+because it follows the natural order of the event.
+The subject is the source of the energy
+and it sends the energy through the verb, which transits it to the object.
+The object receives the energy and is affected by it.
+
+
+### Ambitransitive verbs
+
+In general, there are three types of verbs.
+
+1. Transitive verbs need a direct object, which is the target of the action.
+2. Intransitive verbs don't accept an object. Then the action is directed to the subject.
+3. Ambitransitive verbs can be both transitive and intransitive.
+
+Pandunia verbs are typically ambitransitive
+i.e. they may or may not take an object.
+When there is an object, the clause is transtive,
+and when there isn't an object, the clause is intransitive.
+
+In transitive clauses, the subject is the agent and the object is the patient.
+There is a lot of variation in the the roles of agent and patient,
+but their most basic types can be described as prototypical roles.
 
 The prototypical agent
 
@@ -253,12 +401,9 @@ Usually the most energetic semantic participant takes the role of the subject.
 2. Otherwise, if there is an instrument, it becomes the subject.
     - ***la bang* dape la bol.**
       – *The bat* hits the ball.  
-3. Otherwise the patient becomes the subject.
+3. Otherwise the patient becomes the subject and the clause type becomes intransitive.
     - ***la bol* dape.**
       – *The ball* is hit.
-
-
-### Is the subject the agent or the patient?
 
 When a sentence consists of a subject and a verb (SV),
 the role of the subject can be ambiguous.
@@ -329,67 +474,11 @@ It is also possible to add other objects with the help of
 – The sun makes clothes dry.
 
 
-### Marking sentence elements
+### Pivot construction
 
-Sentence elements can consist of more than one word.
-Subject and object can be noun phrases that consist of many words,
-and there can be a series of verbs (i.e. a serial verb) instead of a singular verb.
-In such cases the boundaries between the sentence elements can become doubtful.
+#### Basic pivot construction
 
-**xiu baku meme vol xuru yam hau seng cau.**
-– Little white sheep want to start to eat good fresh grass.
-
-Boundaries between sentence elements can be marked with little words, like
-**ya**
-'do',
-**un**
-'a, one',
-**ye**
-'this or these',
-**vo**
-'that or those over there',
-**la**
-'that or those', and
-**yo**
-'some'.
-
-**la xiu baku meme *ya* vol xuru yam *la* hau seng cau.**
-– The little white sheep want to start to eat that good fresh grass.
-
-
-## Verb series structure
-
-There can be two, three or even more verbs in a series,
-and all of them are about the same subject.
- 
-1. **mi ga to dom.**
-   – I go home.  
-2. **mi bil ga to dom.**
-   – I can go home.  
-3. **mi vol bil ga to dom.**
-   – I want to be able to go home.
-   (Word for word: _I want can go home_!)
-
-The last verb in the series is the main verb.
-The verbs before it are modal verbs.
-
-**tu vol yam yo fite.**
-– You want to eat vegetables. (desire)  
-**tu sel yam yo fite.**
-– You had better eat vegetables. (advice)  
-**tu halal yam yo fite.**
-– You may eat vegetables. (permission)  
-**tu bil yam yo fite.**
-– You can eat vegetables. (ability)  
-**tu mus yam yo fite.**
-– You must eat vegetables. (obligation)
-
-
-## Pivot structure
-
-### Basic pivot structure
-
-The **basic pivot structure** is a syntactic realization of an action chain
+The **basic pivot construction** is a syntactic realization of an action chain
 that reflects the flow of energy from one participant to another.
 A basic sequence is that of `agent > instrument > patient`.
 
@@ -417,7 +506,7 @@ and the second verb indicates what the causer wants the agent to do.
 **mi rai tu yam fite.**
 – I think you eat vegetables. (opinion)
 
-Syntactically the pivot structure is made up of
+Syntactically the pivot construction is made up of
 `subject–verb₁–pivot–verb₂–object`.
 The pivot is at the same time the object for verb₁ and the subject for the verb₂.
 
@@ -447,11 +536,11 @@ In the following example sentence all optional participants and their verbs are 
 – I want you to use the knife to cut the bread and give to mother.
 
 
-### Short pivot structure
+#### Modal pivot construction
 
-In pivot structures where the first action indicates a modality, such as desire, permission or obligation,
+In pivot constructions where the first action indicates a modality, such as desire, permission or obligation,
 the first participant can be left out when it indicates the first person ('I').
-The the remaining syntactic structure is `verb₁–pivot–verb₂–object`.
+The the remaining syntactic construction is `verb₁–pivot–verb₂–object`.
 
 **mi sual tu lai dom.**
 – I ask (whether) you come come?  
@@ -474,6 +563,74 @@ The the remaining syntactic structure is `verb₁–verb₂–object`.
 – I command you to shut the door.  
 **amir kluze la mun.**
 – Shut the door!
+
+
+### Serial verb construction
+
+People tend to express actions that they want to or should do differently than actions that they want other people to do.
+They don't say, for example, *I want that I write* but they say *I want to write*.
+Looks like it is worthwhile to mention the participants only when they add new information to the sentence.
+The second participant can be left out from the pivot construction when it is the same as the subject.
+
+***mi*** **yau** ***mi*** **kitabe letre.**
+– *I* want *me* to write a letter.  
+***mi*** **yau kitabe letre.**
+– I want to write a letter.
+
+This structure is called the verb series or the serial verb construction.
+It is very common in Pandunia.
+There can be two, three or even more verbs in a series.
+All verbs are about the same subject.
+ 
+1. **mi ga to dom.**
+   – I go home.  
+2. **mi bil ga to dom.**
+   – I can go home.  
+3. **mi vol bil ga to dom.**
+   – I want to be able to go home.
+   (Word for word: _I want can go home_!)
+
+The last verb in the series is the main verb.
+The verbs before it are modal verbs.
+
+**tu vol yam yo fite.**
+– You want to eat vegetables. (desire)  
+**tu sel yam yo fite.**
+– You had better eat vegetables. (advice)  
+**tu halal yam yo fite.**
+– You may eat vegetables. (permission)  
+**tu bil yam yo fite.**
+– You can eat vegetables. (ability)  
+**tu mus yam yo fite.**
+– You must eat vegetables. (obligation)
+
+
+### Marking sentence elements
+
+Sentence elements can consist of more than one word.
+Subject and object can be noun phrases that consist of many words,
+and there can be a series of verbs (i.e. a serial verb) instead of a singular verb.
+In such cases the boundaries between the sentence elements can become doubtful.
+
+**xiu baku meme vol xuru yam hau seng cau.**
+– Little white sheep want to start to eat good fresh grass.
+
+Boundaries between sentence elements can be marked with little words, like
+**ya**
+'do',
+**un**
+'a, one',
+**ye**
+'this or these',
+**vo**
+'that or those over there',
+**la**
+'that or those', and
+**yo**
+'some'.
+
+**la xiu baku meme *ya* vol xuru yam *la* hau seng cau.**
+– The little white sheep want to start to eat that good fresh grass.
 
 
 ## Changing the focus
@@ -1041,3 +1198,13 @@ It can be translated as *indeed* or *truly*.
 – It is true indeed.  
 **da neu, ne? – da neu, ya.**
 – It is new, right? – It's new indeed.
+
+## Observations
+
+Observations are the simplest sentence type.
+They may consist of only one word, which draws the listener's attention.
+
+**mau!**
+– A cat!  
+**barxa!**
+– Rain! / (It) rains!
