@@ -1,5 +1,64 @@
 # Sentences
 
+## Building blocks
+
+Sentences consist of clauses, which in turn consist of constituents,
+which are phrases, which consist of words and have a certain internal word order.
+
+The clause constituents are listed below.
+
+- The subject is the topic of the sentence.
+  It is typically a noun phrase.
+- The predicate says something about the subject.
+  In the narrow sense it covers only the verb and its modifiers,
+  which indicate the event or action that is occuring.
+- The object is the participant that is affected by the event.
+- The predicative is a complement of the predicate that describes the subject.
+- Adverbial indicates means or circumstances that are involved in the event.
+
+| Subject | Predicate | Object | Adverbial |
+|---------|-----------|--------|-----------|
+| A young man | is driving | a car | on the street. |
+| We | should take | our old stuff | to the flea market. |
+
+| Subject | Predicate | Predicative | Adverbial |
+|---------|-----------|--------|-----------|
+| You  and me | are | happy | together. |
+| My friend | got | upset | for the war. |
+
+The clause constituents are phrases.
+The main phrase types are listed below.
+
+- The noun phrase (NP) consists of a determiner (det.), one or more adjective phrases and a noun.
+  The noun is the main word of the noun phrase,
+  which means that it alone could represent the entire noun phrase.
+- The adjective phrase (AP) consists of an adjective (adj.) with any adverbs (adv.) that modify it.
+- The verb phrase (VP) consists of a tense, aspect or mood marker (TAM),
+  one or more adverbs and a verb (or a verb series).
+  The verb is the main word of the verb phrase.
+- The preposition phrase consists of a preposition (prep.) as head
+  and usually a noun phrase as its complement.
+
+Pandunia sentences are made up of the building blocks listed above.
+The figure below shows an example of a complete sentence in Pandunia.
+
+    Figure. Structure of a sentence with the transitive clause.
+    
+     ╔═════════╗   ╔═══════════╗   ╔════════╗    ╔═══════════╗   ╔═══════════════╗
+     ║ SUBJECT ║   ║ PREDICATE ║   ║ OBJECT ║    ║ ADVERBIAL ║×n ║ENDING PARTICLE║
+     ╚════╤════╝   ╚═════╤═════╝   ╚════╤═══╝    ╚═════╤═════╝   ╚═══════╤═══════╝
+          │              │              │              │                 │
+    ┌─────┴─────┐  ┌─────┴─────┐  ┌─────┴─────┐  ┌─────┴──────┐          │
+    │noun phrase│  │verb phrase│  │noun phrase│  │prep. phrase│          │
+    └─────┬─────┘  └─────┬─────┘  └─────┬─────┘  └────────┬───┘          │
+          │              │              │                 │              │
+    ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐ ┌────┬───┼───┬────┐ ┌───┴────┐
+    │det│adj│noun│ │TAM│adv│verb│ │det│adj│noun│ │prep│det│adj│noun│ │particle│
+    └───┴───┴────┘ └───┴───┴────┘ └───┴───┴────┘ └────┴───┴───┴────┘ └────────┘
+     la  jun man    le      vide   un  sen guru    in  la lokal pujekan   ne?
+	'The young man  did     see    an  old guru    in the local temple,  right?'
+
+
 ## Observations
 
 Observations are the simplest sentence type.
@@ -982,4 +1041,3 @@ It can be translated as *indeed* or *truly*.
 – It is true indeed.  
 **da neu, ne? – da neu, ya.**
 – It is new, right? – It's new indeed.
-
