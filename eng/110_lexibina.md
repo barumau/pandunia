@@ -154,11 +154,15 @@ are not compound words in Pandunia.
 'tie to oneself, ally'
 
 **an-**
-'opposite, un-, in-' :  
+'without, not having, not doing, un-, in-, non-, -less' :  
+**alkolike**
+'alcoholic'
+→ **analkolike**
+'unalcoholic'  
 **human**
 'human'
 → **anhuman**
-'unhuman'
+'unhuman'  
 **deiste**
 'theist'
 → **andeiste**
@@ -168,9 +172,9 @@ are not compound words in Pandunia.
 → **antabakiste**
 'non-smoker'  
 **kluze**
-'close'
+'closed'
 → **ankluze**
-'unclose, open'  
+'unclosed, open'  
 **uzebil**
 'usable'
 → **anuzebil**
@@ -193,9 +197,9 @@ are not compound words in Pandunia.
 'take, catch'
 → **decepe**
 'take away, remove'  
-**duce**
+**dute**
 'lead, conduct'
-→ **deduce**
+→ **dedute**
 'lead away, deduce'  
 **parte**
 'part, chip'
@@ -232,8 +236,12 @@ are not compound words in Pandunia.
 → **inkluze**
 'close in, enclose, include'
 
-**kon-**
+**kon-, kom-**
 'together' :  
+**tene**
+'hold, keep'
+→ **kontene**
+'keep together'  
 **strute**
 'structure'
 → **konstrute**
@@ -244,14 +252,22 @@ are not compound words in Pandunia.
 **fete**
 'make, do'
 → **perfete**
-'perfect, completely done'
+'perfect, completely done'  
+**uze**
+'use'
+→ **peruze**
+'use up'
 
 **pos-**
-'after' :  
+'after, later, post-' :  
 **poze**
 'put, pose'
 → **pospoze**
-'put after, postpone'
+'put after, postpone'  
+**prodution**
+'production'
+→ **posprodution**
+'post-production'
 
 **pre-**
 'before' :  
@@ -291,11 +307,26 @@ are not compound words in Pandunia.
 'to turn back'
 
 **ri-**
-'again, repeatedly' :  
+'again, re-' :  
 **forme**
-'to form'
+'form'
 → **riforme**
-'to reform'
+'form again, reform'  
+**nate**
+'be born'
+→ **rinate**
+'be born again'
+
+**sin-, sim-**
+'same, equal' :
+**kronike**
+'timely, temporal, chronic'
+→ **sinkronike**
+'synchronic, happening at the same time'  
+**metrike**
+'measured'
+→ **simmetrike**
+'symmetrical, equally measured'
 
 **su-**
 'good, well' :

@@ -1,6 +1,6 @@
 # Sentence structures
 
-## What sentences are made of?
+## Building blocks for sentences
 
 Sentences consist of clauses, which in turn consist of constituents,
 which are phrases, which consist of words and have a certain internal word order.
