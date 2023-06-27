@@ -9,7 +9,7 @@ kitaba_pike() {
 
 
 fata_leksasli_liste() {
-    cat lexi.csv | cut -d '|' -f 5 > temp/logaslia.txt
+    cat ../panlexia/lexia.csv | cut -d '|' -f 7 > temp/logaslia.txt
     #Delete empty lines
     sed -i '/^$/d' temp/logaslia.txt
     #Delete illegal strings

@@ -2,7 +2,7 @@ fata_lista_pandunia_X() {
     lexilista="$2/pandunia-$2.md"
     #echo "kitaba $lexilista"
     #pandunia ($2) a 1:me
-    cat lexi.csv | awk -F "|" "{print \$2	 \" - \" \$$1 \"  \"}" > $lexilista
+    cat ../panlexia/lexia.csv | awk -F "|" "{print \$3	 \" - \" \$$1 \"  \"}" > $lexilista
     #mata 1:me line
     sed -i '1d' $lexilista
     # ABC nam to title a line xure
@@ -30,7 +30,7 @@ fata_lista_X_pandunia() {
     #ale lingue a 1:me
     lexilista="$2/$2-pandunia.md"
     #echo "kitaba $lexilista"
-    cat lexi.csv | awk -F "|" "{print \$$1 \" - \" \$2 \"  \"}" > $lexilista
+    cat ../panlexia/lexia.csv | awk -F "|" "{print \$$1 \" - \" \$3 \"  \"}" > $lexilista
     #mata 1:me line
     sed -i '1d' $lexilista
     # alfabeta
@@ -49,8 +49,7 @@ fata_lista_X_pandunia() {
 
 fa_lexi_asal_lista() {
     #pandunia = $2 i lexi asal = $5
-#    cat lexi.csv | awk -F "|" "{print \$$1 \$1 \$4 }" > $2/leksaslia.md
-    cat lexi.csv | awk -F "|" "{print \"**\" \$2 \"** *\" \$$1 \"* ← \" \$5 \"  \"}" > $2/leksaslia.md
+    cat ../panlexia/lexia.csv | awk -F "|" "{print \"**\" \$3 \"** *\" \$$1 \"* ← \" \$7 \"  \"}" > $2/leksaslia.md
     #mata 1:me line
     sed -i '1d' $2/leksaslia.md
     #Sort
@@ -74,7 +73,7 @@ fata_lista() {
 
 fata_lexi_asal() {
     #pandunia = $2 i lexi asal = $5
-    cat lexi.csv | awk -F "|" "{print \"|**\" \$2 \"**|\" \$5 \"|\"}" > temp/lexi.txt
+    cat ../panlexia/lexia.csv | awk -F "|" "{print \"|**\" \$3 \"**|\" \$7 \"|\"}" > temp/lexi.txt
     #mata 1:me line
     sed -i '1d' temp/lexi.txt
     sed -i '1d' temp/lexi.txt
@@ -255,54 +254,53 @@ trabaxa_lexi_asal_to_esperanto() {
 }
 
 
-#dos2unix lexi.csv
-sed 's/\t/|/g' -i lexi.csv
+#dos2unix ../panlexia/lexia.csv
+sed 's/\t/|/g' -i ../panlexia/lexia.csv
 
 # english i pandunia
-fata_lista 6 eng English
+fata_lista 8 eng English
 trabaxa_lexi_asal_to_english
 
 #Tiddly dictionary
 #kitaba_Tiddly eng
 
 # esperanto i pandunia
-fata_lista 26 epo esperanto
+fata_lista 29 epo esperanto
 trabaxa_lexi_asal_to_esperanto
 
 # suomi i pandunia
-fata_lista 27 suomi suomi
+fata_lista 30 suomi suomi
 trabaxa_lexi_asal_to_suomi
 
 # polski i pandunia
-fata_lista 28 pol polski
+fata_lista 31 pol polski
 
 # Tiddly polski i pandunia
 #kitaba_Tiddly pol
 
 # putonghan i pandunia
-fata_lista 21 zho "putong han"
+fata_lista 24 zho "putong han"
 
 # nipon i pandunia
-fata_lista 23 jpn nipon
+fata_lista 26 jpn nipon
 
 # malayu i pandunia
-fata_lista 16 may "bahasa malayu"
+fata_lista 18 may "bahasa malayu"
 
 # rus i pandunia
-fata_lista 11 rus русский
+fata_lista 13 rus русский
 
 # franse i pandunia
-fata_lista 8 fra français
+fata_lista 10 fra français
 
 #Tiddly franse i pandunia
 kitaba_Tiddly fra
 
 # espanya i pandunia
-fata_lista 9 spa español
+fata_lista 11 spa español
 
 # portugal i pandunia
-fata_lista 10 por português
+fata_lista 12 por português
 
 # lexi asal a pandunia baxa
 fata_lexi_asal
-

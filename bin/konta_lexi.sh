@@ -8,7 +8,7 @@ kitaba_pike() {
 }
 
 fata_leksasli_liste() {
-    cat lexi.csv | cut -d '|' -f 5 > temp/lexasle.txt
+    cat ../panlexia/lexia.csv | cut -d '|' -f 7 > temp/lexasle.txt
     #Delete empty lines
     sed -i '/^$/d' temp/lexasle.txt
 }

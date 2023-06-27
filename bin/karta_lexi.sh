@@ -1,8 +1,8 @@
 #!/bin/bash
 
 prepare() {
-   lexoliste="temp/lexaslia.csv"
-   cat lexi.csv | awk -F "|" "{print \$2\",\"\$5}" > $lexoliste
+    lexoliste="temp/lexaslia.csv"
+    cat ../panlexia/lexia.csv | awk -F "|" "{print \$3\",\"\$7}" > $lexoliste
     #mortife duime line
     sed -i '2d' $lexoliste
     #mortife la hali line

@@ -6,7 +6,7 @@
 | doice | 3% |
 | franse | 8% |
 | espan | 9% |
-| portugal | 9% |
+| portugal | 8% |
 | rus | 7% |
 | hindi | 7% |
 | bangla | 4% |
@@ -15,7 +15,7 @@
 | turki | 4% |
 | putonghan | 5% |
 | guangdong | 3% |
-| nipon | 6% |
+| nipon | 5% |
 | cosen | 4% |
 | viet | 3% |
 | malayu | 5% |
