@@ -1,14 +1,19 @@
 p {
     background-color: white;
     padding: 2px;
+	/*font-size: 18;*/
 }
 
-/* kontener intene image i kitabe */
+/* kontener intene image e kitabe */
 .kontener {
   position: relative;
   text-align: center;
   color: white;
 }
+
+/*
+karte: https://commons.wikimedia.org/wiki/File:Simple_world_map.svg
+*/
 
 .eng {
   position: absolute;
@@ -118,6 +123,13 @@ p {
 .hau {
   position: absolute;
   left: 460px;
+  top: 220px;
+  border: 1px solid yellow;
+}
+
+.ful {
+  position: absolute;
+  left: 390px;
   top: 220px;
   border: 1px solid yellow;
 }
