@@ -91,7 +91,7 @@ Swahili *salaam*,
 Indonesian *selamat*.</small>
 
 
-### xukre <small>thanks</small>
+### shukre <small>thanks</small>
 
 <p style="font-size:5em;">🙏</p>
 
@@ -573,7 +573,7 @@ Which apple do you want?
 This red one.
 
 
-### cing <small>request, please</small>
+### ching <small>request, please</small>
 
 **mi ching tu yam chai.**
 I ask you to drink tea.
@@ -739,18 +739,18 @@ See you tomorrow!
 I saw him/her yesterday.
 
 
-### semi <small>to mean</small>
+### seme <small>to mean</small>
 
-**ye lexe ya semi ke?**
+**ye lexe ya seme ke?**
 What does this word mean?
 
-**"mau" ya semi ke?**
+**"mau" ya seme ke?**
 What does "mau" mean?
 
-**da semi un yang de hevan.**
+**da seme un yang de hevan.**
 It means a kind of animal.
 
-**mi no aha da semi ke.**
+**mi no aha da seme ke.**
 I don't understand what it means.
 
 
@@ -763,7 +763,7 @@ Please, write your address.
 Please, write it here!
 
 
-### baxe <small>speak a language, communicate</small>
+### bashe <small>speak a language, communicate</small>
 
 **sual tumen bashe pandunia.**
 Do you speak Pandunia?
@@ -939,7 +939,7 @@ He/she has been the chief.
 He/she has been at home.
 
 
-### xa <small>in the future</small>
+### sha <small>in the future</small>
 
 **mi sha sal tu su doste.**  
 I will greet your friend.
@@ -976,7 +976,7 @@ I give a book to them.
 He/she doesn't want to give it to me.
 
 
-### cepe <small>take, get</small>
+### sepe <small>take, get</small>
 
 **mi sepe un kafe.**
 I will take a coffee.

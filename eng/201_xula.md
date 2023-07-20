@@ -367,7 +367,7 @@ has a useful pattern that can be used for making polite requests.
 = Please give me some tea.  
 **ching yam chai.**
 = Please have some tea.  
-**ching saf kamar.**
+**ching safe kamar.**
 = Please clean the room.
 
 Commands are introduced with
@@ -377,12 +377,12 @@ Commands are introduced with
 
 **amir don chai.**
 = Give (me) some tea!  
-**amir saf kamar.**
+**amir safe kamar.**
 = Clean the room!
 
 In practice, direct commands can be also made with just one verb and a commanding voice.
 
-**saf da!**
+**safe da!**
 = Clean it!
 
 
@@ -423,7 +423,7 @@ the
 must, have to  
 **o**
 or  
-**saf**
+**safe**
 to clean  
 **shukre**
 thanks  
@@ -440,9 +440,9 @@ some, a(n)
 ### Answers to the Exercises
 
 1. da yam cai.
-2. la xefe cing da side.
-3. cing yam kafe o cai.
-4. mama cing mi saf kamar.
+2. la xefe ching da side.
+3. ching yam kafe o cai.
+4. mama ching mi safe kamar.
 5. xefe side e yam kafe.
 
 
@@ -494,7 +494,7 @@ some, a(n)
 ### Asking questions
 
 Questions that can be answered by saying _yes_ or _no_ have the same
-pivot structure as requests with **cing**, which you learned in the
+pivot structure as requests with **ching**, which you learned in the
 previous lesson. Question sentences are introduced with **sual** = to ask.
 
 **mi sual tu yam chai.**
@@ -520,7 +520,7 @@ Of course common and proper nouns can also be used.
 
 **sual shefe yam kafe?**
 = Does the chief drink coffee?  
-**sual papa saf kamar?**
+**sual papa safe kamar?**
 = Does the father clean the room?  
 **sual niki bashe pandunia?**
 = Does Nicky speak Pandunia?
@@ -629,11 +629,11 @@ In Pandunia the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
 of the negative word.
 
-**mi ching tu saf kamar.**
+**mi ching tu safe kamar.**
 = I ask you to clean the room.  
-**mi no ching tu saf kamar.**
+**mi no ching tu safe kamar.**
 = I do NOT ask you to clean the room.  
-**mi ching tu no saf kamar.**
+**mi ching tu no safe kamar.**
 = I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
@@ -684,12 +684,12 @@ but
 
 ### Answers to the Exercises
 
-1. da no saf kamar.
+1. da no safe kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da su no es vaf e mau. / da su es no vaf e no mau.
+4. da su no es vaf e mau. / da ha no vaf e no mau.
 5. xefe yam cai ama no kafe.
-6. mama su es no vaf ama du mau.
+6. mama ha no vaf ama du mau.
 
 
 --------------------------------------------------------------------------------
@@ -850,7 +850,7 @@ time expression is present, other markers are not needed.
 
 **mi be gene a nen 2003.**
 = I was born in 2003.  
-**da saf la kamar a pos den.**
+**da safe la kamar a pos den.**
 = He will clean the room tomorrow.
 
 
@@ -891,9 +891,9 @@ milk
 ### Answers to the Exercises
 
 1. mi su xefe festa a xa.
-2. mi su es du vaf a pas.
+2. mi ha du vaf a pas.
 3. tu yam supe a zai.
-4. da saf kamar a preden.
+4. da safe kamar a preden.
 5. mau yam milke a posden.
 6. tu su ma festa a prenoce.
 

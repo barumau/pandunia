@@ -11,7 +11,7 @@
 | 4 nelu  | 14 des nelu  | 24 du des nelu   | 34 tri des nelu  |
 | 5 lima  | 15 des lima  | 25 du des lima   | 35 tri des lima  |
 | 6 luka  | 16 des luka  | 26 du des luka   | 36 tri des luka  |
-| 7 ceti  | 17 des ceti  | 27 du des ceti   | 37 tri des ceti  |
+| 7 cheti | 17 des cheti | 27 du des cheti  | 37 tri des cheti |
 | 8 bati  | 18 des bati  | 28 du des bati   | 38 tri des bati  |
 | 9 tisa  | 19 des tisa  | 29 du des tisa   | 39 tri des tisa  |
 
@@ -23,7 +23,7 @@
 | 4 nelu  | 40 nelu   des| 400 nelu sento  | 4000 nelu kilo    |
 | 5 lima  | 50 lima  des | 500 lima sento  | 5000 lima kilo    |
 | 6 luka  | 60 luka des  | 600 luka sento  | 6000 luka kilo    |
-| 7 ceti  | 70 ceti des  | 700 ceti sento  | 7000 ceti kilo    |
+| 7 cheti | 70 cheti des | 700 cheti sento | 7000 cheti kilo   |
 | 8 bati  | 80 bati des  | 800 bati sento  | 8000 bati kilo    |
 | 9 tisa  | 90 tisa des  | 900 tisa sento  | 9000 tisa kilo    |
 
@@ -92,7 +92,7 @@ Ordinal numbers are created with the particle **me**.
   – fifth
 - **luka me**
   – sixth
-- **ceti me**
+- **cheti me**
   – seventh
 - **bati me**
   – eighth
@@ -122,7 +122,7 @@ Also the words for previous, next, first and last use the same particle.
 'next, following'  
 **shuru**
 'begin'
-→ **xurume**
+→ **shurume**
 'the first'  
 **fin**
 'end'
@@ -184,7 +184,7 @@ which includes, among many others,
 – two bottles of wine  
 **tri sake patate**
 – three sacks of potatoes  
-**nelu tin limonjus**
+**nelu tin limon jus**
 – four cans of lemonade
 
 
@@ -263,11 +263,11 @@ and they include the word
    – Tuesday
 3. **merkurden**
    – Wednesday
-4. **muxinden**
+4. **mushinden**
    – Thursday
 5. **zukraden**
    – Friday
-6. **xaniden**
+6. **shaniden**
    – Saturday
 7. **solden**
    – Sunday
@@ -290,7 +290,7 @@ Names of the months are made up of the number of the month and
   – May
 6. **mes luka**
   – June
-7. **mes ceti**
+7. **mes cheti**
   – July
 8. **mes bati**
   – August

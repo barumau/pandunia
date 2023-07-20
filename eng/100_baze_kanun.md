@@ -31,7 +31,7 @@ They are described in more detail later in this document.
 6. **Numerals:**
    The cardinal numbers are:
        - 0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **nelu**, 5 **lima**, 6 **luka**,
-         7 **ceti**, 8 **bati**, 9 **tisa**, 10 **des**.
+         7 **cheti**, 8 **bati**, 9 **tisa**, 10 **des**.
        - Greater than ten: 11 **des un**, 12 **des du**, 13 **des tri**, etc.
        - Tens: 20 **du des**, 30 **tri des**, 40 **nelu des**, etc.
        - Hundreds: 100 **un sento**, 200 **du sento**, 300 **tri sento**, etc.
@@ -52,7 +52,7 @@ They are described in more detail later in this document.
     - **zai** indicates an ongoing event.
     - **le** indicates a completed event whose results have an effect on the present situation.
     - **pas** indicates a completed event that has no connection to the present situation.
-    - **xa** indicates a future event.
+    - **sha** indicates a future event.
 9. **Word order:**
     - The word order is subject–verb–object.
       The same order is used in declarations and questions.
@@ -64,11 +64,11 @@ They are described in more detail later in this document.
           – One speaks Pandunia.
     - In the _pivot structure_, the object of the transitive verb
       functions as the subject of the following verb.
-        - **mi cing tu loge pandunia.**
+        - **mi ching tu loge pandunia.**
           – I ask you to speak Pandunia.
     - Pronouns can be left out when they are obvious and redundant.
-        - **_mi_ cing _tu_ loge pandunia.**
-          → **cing loge pandunia.**
+        - **_mi_ ching _tu_ loge pandunia.**
+          → **ching loge pandunia.**
           – Please speak Pandunia.
 10. **Word building:**
    In Pandunia, words change only when their actual meaning changes.

@@ -15,7 +15,7 @@ and the _hard c_ is written with a **k**.
 | g (soft) | g (hard) | geography > **geografia** |
 | s        | s / z    | **s**ol > **sol**, ma**ss**age > **masaje**, ro**s**e > **roze** |
 | ch (Greek)| h       | chaos > **haos**, cholera > **holera** |
-| ch (French) | x     | chic > **xike** |
+| ch (French) | x     | chic > **shike** |
 | th       | t        | theme > **tem** |
 | ph       | f        | philosophy > **filsofia** |
 | qu       | k        | mosquito > **moskite** |
@@ -70,7 +70,7 @@ Some examples of this word building process are shown in the table below.
 |----------|-----------|----------|-----------|------------|-----------|
 | 罚 fa2  | 罰 fat6  | 罰 batsu | 벌 beol | phạt  | **fate**  |
 | 板 ban3 | 板 baan2 | 板 ban   | 판 pan  | bản   | **ban**  |
-| 术 shu4 | 術 seot6 | 術 jutsu | 술 sul  | thuật | **xute** |
+| 术 shu4 | 術 seot6 | 術 jutsu | 술 sul  | thuật | **shute** |
 
 
 ### Mapping syllables from Mandarin to Pandunia

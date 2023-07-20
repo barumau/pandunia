@@ -575,9 +575,9 @@ The the remaining syntactic construction is `verb₁–pivot–verb₂–object`
 – I ask (whether) you come come?  
 **sual tu lai dom.**
 – Do you come come?  
-**mi ase tu yam max fite.**
+**mi ashe tu yam max fite.**
 – I wish you would eat more vegetables.  
-**ase tu yam max fite.**
+**ashe tu yam max fite.**
 – Wish you would eat more vegetables.
 
 In commands and requests also the second participant can be left out

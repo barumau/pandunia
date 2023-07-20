@@ -275,10 +275,10 @@ a normal PoS suffix.
 |----|---------------|------------|------------|------------|------------|------------|
 | 水 | **sui**       | sui        | shuǐ       | sui        | su         | thuỷ       |
 | 中 | **jung**      | zung       | zhōng      | chū        | jung       | trung      |
-| 心 | **xim**       | sam        | xīn        | shin       | sim        | tâm        |
+| 心 | **shim**      | sam        | xīn        | shin       | sim        | tâm        |
 | 門 | **mun**       | mun        | mén        | mon        | mun        | (môn)      |
 | 讀 | **duge**      | duk        | dú         | doku       | dok        | đọc        |
-| 出 | **cuti**      | cœt        | chū        | shutsu     | chul       | xuất       |
+| 出 | **chuti**     | cœt        | chū        | shutsu     | chul       | xuất       |
 
 
 ### Examples of global words

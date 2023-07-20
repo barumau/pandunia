@@ -147,9 +147,9 @@ Sounds that are present in English or Mandarin but not in Pandunia are inside pa
 | Nasals     | m n (ng)    | m n (ng)      | m n (ng)        |
 | Stops      | p b t d k g | p b t d k g   | p b t d k g     |
 | Liquids    | l r y v     | l r y w       | l r y w (yü)    |
-| Sibilants  | s z x       | s z sh (zh)   | s z* x (sh)     |
+| Sibilants  | s z sh      | s z sh (zh)   | s z* x (sh)     |
 | Fricatives | f h         | f h (v th th) | f h             |
-| Affricates | c j         | ch j          | c j (ch zh q)   |
+| Affricates | ch j        | ch j          | ch j (c zh q)   |
 
 
 
@@ -451,7 +451,7 @@ but it is also close to some uses of English "to be".
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  mi cing da yam kafe.
+    Pandunia:  mi ching da yam kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words.
