@@ -72,7 +72,7 @@ is wrong.
 Proper names are nouns for individual people, places and other things.
 
 Names of people can be tagged with the universal title of respect
-**xi**.
+**shi**.
 Using it shows respect and politeness.
 
 It can be used in formal and informal situations and for all age groups, social groups and genders.
@@ -84,11 +84,11 @@ Therefore it is advisable to use **xi** always when you meet new people from dif
 
 A title of respect can be used with a given name, a family name, or both.
 
-**xi Bili King**
+**shi Bili King**
 – Mx Billy King  
-**xi Bili**
+**shi Bili**
 – Mx Billy  
-**xi King**
+**shi King**
 – Mx King
 
 

@@ -20,7 +20,7 @@ For example, the word **hali** can function equally as an adjective (_blank_ or 
 – Do you have some blank paper?  
 **don mi un hali!**
 – Give me a blank!  
-**tu mus hali vo lexi.**
+**tu mus hali vo lexe.**
 – You must blank out that word.
 
 Likewise, the word **kitabe** can function as a verb (_to write_), a noun (_a writing_) and adjective (_written_ or _textual_).
@@ -144,9 +144,9 @@ are not compound words in Pandunia.
 
 **a-**
 'to oneself' :  
-**cepe**
+**sepe**
 'take, catch'
-→ **acepe**
+→ **asepe**
 'take to oneself, accept'  
 **lige**
 'tie'
@@ -182,9 +182,9 @@ are not compound words in Pandunia.
 
 **be-**
 'the passive recipient of an action, -ed, -ee' :  
-**cepe**
+**sepe**
 'take, catch'
-→ **becepe**
+→ **besepe**
 '(be) caught'  
 **krede**
 'trust'
@@ -193,9 +193,9 @@ are not compound words in Pandunia.
 
 **de-**
 'away, off' :  
-**cepe**
+**sepe**
 'take, catch'
-→ **decepe**
+→ **desepe**
 'take away, remove'  
 **dute**
 'lead, conduct'
@@ -216,9 +216,9 @@ are not compound words in Pandunia.
 
 **ex-**
 'out' :  
-**cepe**
+**sepe**
 'take, catch'
-→ **excepe**
+→ **exsepe**
 'take out, except'  
 **jete**
 'thrust'
@@ -330,9 +330,9 @@ are not compound words in Pandunia.
 
 **su-**
 'good, well' :
-**cese**
+**sese**
 'pass, go by'
-→ **sucese**
+→ **susese**
 'go well, succeed'  
 **rupe**
 'appearance, looks'

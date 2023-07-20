@@ -57,15 +57,15 @@ which are introduced next.
 
 The relationship of an action, event or state to time is indicated with auxiliary verbs.
 
-**xuru**
+**shuru**
 'begin, start'
 indicates beginning of an action or transition to a new situation.
 
-**mi xuru fuku la kote.**
+**mi shuru fuku la kote.**
 – I start wearing the coat. = I put the coat on.  
-**kaguji ya xuru hogo.**
+**kaguji ya shuru hogo.**
 – Paper starts to burn.  
-**tu xuru yam.**
+**tu shuru yam.**
 – You start to eat.
 
 **fin**
@@ -151,13 +151,13 @@ You can think of it somewhat like the past simple in English (I finished, I ate)
 **mi pas lai to siti.**
 – I came to the city.
 
-**xa**
+**sha**
 'will, shall'
 indicates that the event will take place later or in the future.
 
-**da _xa_ es guru.**
+**da _sha_ es guru.**
 – He/she shall be a teacher.  
-**mi no _xa_ gul bir.**
+**mi no _sha_ gul bir.**
 – I will not drink beer.
 
 
@@ -245,6 +245,6 @@ They always take an object.
 – He/she went out of the house.  
 **da lai re la dome.**
 – He/she came back to the house.  
-**da loge kon la xefe.**
+**da loge kon la shefe.**
 – He/she speaks with the boss.
 

@@ -47,10 +47,10 @@ Good morning!
 **sal dia!**
 Good day!
 
-**sal xam!**
+**sal sham!**
 Good evening!
 
-**sal noce!**
+**sal noche!**
 Good night!
 
 **sal yam!**
@@ -95,31 +95,31 @@ Indonesian *selamat*.</small>
 
 <p style="font-size:5em;">🙏</p>
 
-**xukre!**
+**shukre!**
 Thanks!
 
-**poli xukre!**
+**poli shukre!**
 Thanks a lot!
 
-**ya, xukre.**
+**ya, shukre.**
 Yes, thank you.
 
-**no, xukre.**
+**no, shukre.**
 No, thank you.
 
-**xukre tu.**
+**shukre tu.**
 Thank you.
 
-**mi xukre tu.**
+**mi shukre tu.**
 I thank you.
 
-**mi xukre tu mede mi.**
+**mi shukre tu mede mi.**
 I thank you for helping me.
 
-**xukre tu mede mi.**
+**shukre tu mede mi.**
 Thanks for helping me.
 
-**no yau xukre.**
+**no yau shukre.**
 You're welcome. (Literally: _No need to thank._)
 
 
@@ -562,9 +562,9 @@ the word order is not affected by the **ke**.
 **mi vol yam kafe.**
 I want to drink coffee.
 
-**sual tu vol yam cai?**
+**sual tu vol yam chai?**
 Would you like to drink tea?  
-**no. mi no vol cai. mi vol kafe.**
+**no. mi no vol chai. mi vol kafe.**
 No, I don't want tea. I want coffee.
 
 **tu vol ke aple?**
@@ -575,27 +575,27 @@ This red one.
 
 ### cing <small>request, please</small>
 
-**mi cing tu yam cai.**
+**mi ching tu yam chai.**
 I ask you to drink tea.
 
-**mi cing tu lai dom.**
+**mi ching tu lai dom.**
 I ask you to come home.
 
-**mi cing tu mede mi.**
+**mi ching tu mede mi.**
 I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**cing yam cai.**
+**ching yam chai.**
 Please, have some tea!
 
-**cing yam kafe.**
+**ching yam kafe.**
 Please, have some coffee!
 
-**cing lai dom.**
+**ching lai dom.**
 Please, come home!
 
-**cing mede mi.**
+**ching mede mi.**
 Please, help me.
 
 
@@ -654,19 +654,19 @@ Sorry. I don't understand you.
 **mi no bas aha tu.**
 I didn't quite understand you.
 
-**mi aha no xe.**
+**mi aha no she.**
 I don't understand at all.
 
 
 ### bil <small>can</small>
 
-**mi bil xofe car.**
+**mi bil shofe char.**
 I can drive a car.
 
-**da no bil xofe car.**
+**da no bil shofe char.**
 He/she doesn't know how to drive a car.
 
-**sual tu bil xuli da?**
+**sual tu bil shuli da?**
 Do you know how to fix it?
 
 **sual tu bil pandunia?**
@@ -678,10 +678,10 @@ I can speak Pandunia.
 **mi bil kam pandunia.**
 I can speak a little Pandunia.
 
-**mi no bil englix.**
+**mi no bil english.**
 I can't speak English.
 
-**af. mi no bil tu su baxe.**
+**af. mi no bil tu su bashe.**
 Sorry, I can't speak your language.
 
 
@@ -696,10 +696,10 @@ I talk to you.
 **mimen loge to semen.**
 We talk to each other.
 
-**se loge "cat" a ke yang a pandunia?**
+**se loge "chat" a ke yang a pandunia?**
 How do you say "cat" in Pandunia?
 
-**"cat" es ke a pandunia?**
+**"chat" es ke a pandunia?**
 What is "cat" in Pandunia?
 
 **mau loge "miau".**
@@ -714,7 +714,7 @@ Listen to me!
 **mi no bil audi tu.**
 I can't hear you.
 
-**cing loge max bala.**
+**ching loge max bala.**
 Please speak louder.
 
 **mi audi muzika.**
@@ -741,7 +741,7 @@ I saw him/her yesterday.
 
 ### semi <small>to mean</small>
 
-**ye lexi ya semi ke?**
+**ye lexe ya semi ke?**
 What does this word mean?
 
 **"mau" ya semi ke?**
@@ -756,22 +756,22 @@ I don't understand what it means.
 
 ### kitabe <small>write</small>
 
-**cing kitabe tu su adres.**
+**ching kitabe tu su adres.**
 Please, write your address.
 
-**cing kitabe da a ye.**
+**ching kitabe da a ye.**
 Please, write it here!
 
 
 ### baxe <small>speak a language, communicate</small>
 
-**sual tumen baxe pandunia.**
+**sual tumen bashe pandunia.**
 Do you speak Pandunia?
 
-**mimen baxe pandunia.**
+**mimen bashe pandunia.**
 We speak Pandunia.
 
-**sual tu bil baxe englix?**
+**sual tu bil bashe english?**
 Can you speak English?
 
 **franse, espanya, portugal, rus**
@@ -812,7 +812,7 @@ Let's go by foot!
 
 ### lai <small>to come</small>
 
-**cing lai!**
+**ching lai!**
 Come here!
 
 **tu lai de ke?**
@@ -879,7 +879,7 @@ Do you live in this hotel?
 
 ### dele <small>to wait</small>
 
-**cing dele!**
+**ching dele!**
 Please wait!
 
 **dele mi!**
@@ -902,7 +902,7 @@ I am greeting your friend.
 **la man ya zai vide un filme.**  
 The man is watching a film.
 
-**da zai es xefe.**  
+**da zai es shefe.**  
 He/she is currently the chief.
 
 **da zai a dom.**  
@@ -917,7 +917,7 @@ I greeted your friend.
 **la man ya pas vide un filme.**  
 The man watched a film.
 
-**da pas es xefe.**  
+**da pas es shefe.**  
 He/she was the chief.
 
 **da pas a dom.**  
@@ -932,7 +932,7 @@ I have greeted your friend.
 **la man le vide un filme.**  
 The man has watched a film.
 
-**da le es xefe.**  
+**da le es shefe.**  
 He/she has been the chief.
 
 **da le a la dom.**  
@@ -941,16 +941,16 @@ He/she has been at home.
 
 ### xa <small>in the future</small>
 
-**mi xa sal tu su doste.**  
+**mi sha sal tu su doste.**  
 I will greet your friend.
 
-**la man xa vide la filme.**  
+**la man sha vide la filme.**  
 The man will watch the film.
 
-**da xa es xefe.**  
+**da sha es shefe.**  
 He/she will be the chief.
 
-**da xa a dom.**  
+**da sha a dom.**  
 He/she will be at home.
 
 
@@ -960,10 +960,10 @@ He/she will be at home.
 
 ### don <small>give</small>
 
-**cing don yo pesa.**
+**ching don yo pesa.**
 Please give some money.
 
-**cing don da to mi.**
+**ching don da to mi.**
 Please give it to me.
 
 **mi don ye to tu.**
@@ -978,16 +978,16 @@ He/she doesn't want to give it to me.
 
 ### cepe <small>take, get</small>
 
-**mi cepe un kafe.**
+**mi sepe un kafe.**
 I will take a coffee.
 
-**cing cepe un kafe to mi.**
+**ching sepe un kafe to mi.**
 Please take one coffee for me.
 
-**tu pas cepe pesa de mi.**
+**tu pas sepe pesa de mi.**
 You already got money from me before.
 
-**mi cepe un bir.**
+**mi sepe un bir.**
 I will take a beer.
 
 
@@ -999,10 +999,10 @@ The rent is 500 dollars in a month.
 **da no bil pei la kira.**  
 He/she can't pay the rent.
 
-**mi vol cepe un car a kira.**  
+**mi vol sepe un char a kira.**  
 I want to take a car for rent.
 
-**mi vol kira cepe un kar.**
+**mi vol kira sepe un kar.**
 I want to rent a car.
 
 **da kira don la kamar to safarja.**
@@ -1044,7 +1044,7 @@ Nothing.
 **da koste kam / poli.**
 It is cheap / expensive.  
 
-**men cing mimen lai.**
+**men ching mimen lai.**
 We are being called.
 
 **mi soka tualete.**
@@ -1056,10 +1056,10 @@ Go there / forward / back / left / right.
 ****
 Come here / back / to us.
 
-**mi xula pandunia.**
+**mi skole pandunia.**
 I study Pandunia.
 
-**xou da to mi a lexi buku!**
+**shou da to mi a lexe buku!**
 Show me in the dictionary!
 **mi no memo.**
 I don't remember.
@@ -1088,7 +1088,7 @@ Do you like ...?
 ****
 I feel alright.
 
-**cing side a ye!**
+**ching side a ye!**
 Please, sit here!
 
 **mi suke state.**
@@ -1097,7 +1097,7 @@ I rather stand.
 ****
 With pleasure!
 
-**festa xuru a ke zaman?**
+**feste shuru a ke zaman?**
 When does the party begin?
 
 **tu sahi.**

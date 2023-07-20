@@ -209,7 +209,7 @@ Pandunia has a regular accent.
 The place of the stress is decided by one simple rule:
 the last vowel of the word stem is stressed.
 It goes like this:  
-**hálo! mí vól lóga la bón dúnia báxa.**  
+**hálo! mí vól lóga la bón dúnia básha.**  
 (_Hello! I want to speak the good world language._)
 
 Regular stress is easier to learn and more comfortable to use

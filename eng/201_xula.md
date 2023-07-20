@@ -222,7 +222,7 @@ to address people by name, kinship term or profession.
 – Hello, mother!  
 **halo, papa!**
 – Hello, father!  
-**sal, xefe!**
+**sal, shefe!**
 – Hello, chief!
 
 
@@ -251,7 +251,7 @@ to greet
 mother, mom  
 **papa**
 father, dad  
-**xefe**
+**shefe**
 chief, boss  
 
 
@@ -274,26 +274,26 @@ chief, boss
 <small>Image designed by [macrovector](https://www.freepik.com/macrovector)</small>
 
 <big>☻</big>
-**halo, cin pa!**
+**halo, chin pa!**
 = Hello, grandfather!  
 <big>☺</big>
-**halo! cing side.**
+**halo! ching side.**
 = Hello! Please sit!  
 <big>☻</big>
-**xukre.**
+**shukre.**
 = Thank you.  
 <big>☺</big>
-**cing yam kafe o cai.**
+**ching yam kafe o chai.**
 = Please have some coffee or tea.  
 <big>☻</big>
-**ama mi yam un di cai! xukre.**
+**ama mi yam un di chai! shukre.**
 = But I drink only tea! Thank you.  
 ...  
 <big>☻</big>
-**cin pa, mi mus ga a zai.**
+**chin pa, mi mus ga a zai.**
 = Grandfather, I have to go now.  
 <big>☺</big>
-**oke. cing sal tu su mama!**
+**oke. ching sal tu su mama!**
 = OK. Please tell greetings to your mother.  
 <big>☻</big>
 **mi sal da. sal reste!**
@@ -311,12 +311,12 @@ doesn't distinguish between sexes in the third person pronoun or any
 of the pronouns. All the personal pronouns are present in the
 following example sentence.
 
-**mi cing tu sal da.**
+**mi ching tu sal da.**
 = I ask you to say hello to him/her.
 
 This sentence has a _pivot structure_.
 The first verb,
-**cing**
+**ching**
 ('to request), addresses
 **tu**
 as its object. At the same time
@@ -341,13 +341,13 @@ the context. In other words the speaker can safely assume that the
 listeners know who he/she is talking about. So it is unnecessary
 to keep on repeating them. In this manner phrases can be made shorter.
 
-**mi cing tu sal da.**
+**mi ching tu sal da.**
 = I ask you to say hello to him/her.  
-**cing sal da.**
+**ching sal da.**
 = Please say hello to him/her.
 
 See how the translation of
-**cing**
+**ching**
 changed between the two sentences?
 The meaning of the word, the concept, did not change, but its use did.
 English reflects this change by using different words, to ask and please.
@@ -356,26 +356,26 @@ It is a principle in Pandunia that there is always exactly one word for one conc
 Different words are not created just because the grammatical role of a concept changes.
 
 The phrase
-**cing sal da**
+**ching sal da**
 has a useful pattern that can be used for making polite requests.
 
-**cing side.**
+**ching side.**
 = Please be seated.  
-**cing don  kafe.**
+**ching don  kafe.**
 = Please give me some coffee.  
-**cing don cai.**
+**ching don chai.**
 = Please give me some tea.  
-**cing yam cai.**
+**ching yam chai.**
 = Please have some tea.  
-**cing saf kamar.**
+**ching saf kamar.**
 = Please clean the room.
 
 Commands are introduced with
 **amir**
 ('to command'). They employ the same pivot structure as requests with
-**cing**.
+**ching**.
 
-**amir don cai.**
+**amir don chai.**
 = Give (me) some tea!  
 **amir saf kamar.**
 = Clean the room!
@@ -401,11 +401,11 @@ Try translating these sentences from English to Pandunia.
 
 **amir**
 to order, to command  
-**cai**
+**chai**
 tea  
-**cin pa**
+**chin pa**
 grandfather  
-**cing**
+**ching**
 to ask; please  
 **don**
 to give  
@@ -425,7 +425,7 @@ must, have to
 or  
 **saf**
 to clean  
-**xukre**
+**shukre**
 thanks  
 **side**
 to sit  
@@ -457,22 +457,22 @@ some, a(n)
 <small>Image designed by [pikisuperstar](https://www.freepik.com/pikisuperstar)</small>
 
 <big>☺</big>
-**sal! sual tu yam kafe o cai?**
+**sal! sual tu yam kafe o chai?**
 = Hello! Would you like to have coffee or tea?  
 <big>☻</big>
-**cai.**
+**chai.**
 = Tea.  
 <big>☺</big>
 **tu ne?**
 = And you?  
 <big>☹</big>
-**mi no baxe pandunia...**
+**mi no bashe pandunia...**
 = I don't speak Pandunia...  
 <big>☺</big>
-**af! sual da yam cai?**
+**af! sual da yam chai?**
 = Pardon! Will he have tea?  
 <big>☻</big>
-**no. da no yam cai. da yam kafe.**
+**no. da no yam chai. da yam kafe.**
 = No, he won't. He would like to have coffee.  
 <big>☺</big>
 **sual tu yam supe?**
@@ -487,7 +487,7 @@ some, a(n)
 **no yam.**
 = No.  
 <big>☺</big>
-**xukre. mi don un cai e un kafe e un supe pos des minute.**
+**shukre. mi don un chai e un kafe e un supe pos des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -497,11 +497,11 @@ Questions that can be answered by saying _yes_ or _no_ have the same
 pivot structure as requests with **cing**, which you learned in the
 previous lesson. Question sentences are introduced with **sual** = to ask.
 
-**mi sual tu yam cai.**
+**mi sual tu yam chai.**
 = I ask (do) you drink tea.  
-**sual tu yam cai?**
+**sual tu yam chai?**
 = Do you drink tea?  
-**sual yam cai?**
+**sual yam chai?**
 = Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions
@@ -509,7 +509,7 @@ are often about other people. Therefore the second pronoun is usually
 needed. It can be left out only when it is clear who is the topic of
 discussion.
 
-**sual da yam cai?**
+**sual da yam chai?**
 = Does he/she drink tea?  
 **sual tu yam supe?**
 = Do you eat soup?  
@@ -518,11 +518,11 @@ discussion.
 
 Of course common and proper nouns can also be used.
 
-**sual xefe yam kafe?**
+**sual shefe yam kafe?**
 = Does the chief drink coffee?  
 **sual papa saf kamar?**
 = Does the father clean the room?  
-**sual niki baxe pandunia?**
+**sual niki bashe pandunia?**
 = Does Nicky speak Pandunia?
 
 
@@ -579,7 +579,7 @@ after
 pardon, sorry  
 **minute**
 minute  
-**baxe**
+**bashe**
 speak a language  
 **ne**
 sentence-ending tag for asking the other's point of view  
@@ -629,11 +629,11 @@ In Pandunia the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
 of the negative word.
 
-**mi cing tu saf kamar.**
+**mi ching tu saf kamar.**
 = I ask you to clean the room.  
-**mi no cing tu saf kamar.**
+**mi no ching tu saf kamar.**
 = I do NOT ask you to clean the room.  
-**mi cing tu no saf kamar.**
+**mi ching tu no saf kamar.**
 = I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
@@ -705,7 +705,7 @@ manner or thing if needed.
 = What is that? / Who is (s)he?  
 **da es ke jen?**
 = Who is he/she?  
-**da es ke xe?**
+**da es ke she?**
 = What (thing) is it?  
 **ke jen lai?**
 = Who is coming? (**jen** = person)  
@@ -800,16 +800,16 @@ There are also specific time words.
 
 **zai**
 = currently, at the moment  
-**xa**
+**sha**
 = later, in the future
 
 They can be used for modifying nouns.
 
-**Sara es mi su pas xefe.**
+**Sara es mi su pas shefe.**
 = Sarah is my former boss.  
-**Yusef es mi su zai xefe.**
+**Yusef es mi su zai shefe.**
 = Yusef is my current boss.  
-**Maria es mi su xa xefe.**
+**Maria es mi su sha shefe.**
 = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
@@ -819,7 +819,7 @@ Simply put the word before the verb.
 = I hit it (in the past).  
 **mi zai dape da.**
 = I am hitting it (currently).  
-**mi xa dape da.**
+**mi sha dape da.**
 = I will hit it (in the future).
 
 It's also possible to use preposition phrases of time.
@@ -828,7 +828,7 @@ It's also possible to use preposition phrases of time.
 = I hit it in the past.  
 **mi dape da a zai.**
 = I hit it at present.  
-**mi dape da a xa.**
+**mi dape da a sha.**
 = I hit it in the future.
 
 
@@ -871,13 +871,13 @@ Try translating these sentences from English to Pandunia.
 past, former  
 **zai**
 present, current  
-**xa**
+**sha**
 future  
 **pre**
 before  
 **den**
 day, 24 hours  
-**noce**
+**noche**
 night  
 **dape**
 to hit, to beat  

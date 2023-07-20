@@ -56,7 +56,7 @@ In fact, words don't ever change in Pandunia.
 So when one wants to express a new meaning or a nuance, one can't do that by modifying the words.
 One can express more things only by using more words or different words.
 For example, the verb **lai** ('to come') is changed to the past tense by adding a word that means the past:
-**pas lai** ('came' or 'to come in the past').
+**pas lai** ('chame' or 'to chome in the past').
 
 ## Content words and structure words
 

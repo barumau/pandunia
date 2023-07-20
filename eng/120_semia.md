@@ -166,7 +166,7 @@ The chair is not self-propelled and it doesn't move by itself.
 The person is the one who moves
 and the house stands still.
 
-**vafᴬ marce.**
+**vafᴬ marche.**
 – The dogᴬ walks.
 
 The dog moves and it is self-moving.

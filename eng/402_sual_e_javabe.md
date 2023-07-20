@@ -12,35 +12,38 @@ very new language.
 Learn Pandunia! Speak it with others! Talk about it with others!
 Write stories or articles, make videos, podcasts, music, etc.
 
-You can also help with this website by translating content and
-correcting mistakes. Contents ("source code") of this website are
-stored in [GitHub](https://github.com/barumau/pandunia). You can also
-send your edited files by email to risto@pandunia.info
+You can also help with this website by translating content and correcting mistakes.
+[Read the instructions](trabaxa_neteloka.md)!
+In short, contents of this website are stored in
+[GitHub](https://github.com/barumau/pandunia)
+in raw text format for easy editing.
+Please edit file and send them by GitHub or by email to risto@pandunia.info.
 
 #### When was Pandunia created?
 
-Creators of Pandunia began to create a language together first in 2005.
-Since the beginning the basic idea was to create an evenly global
-auxiliary language. Many different structures and ideas were tried
-over the years. The name _Pandunia_ was invented already in 2007 but
-the language got its "final" form in 2021 – but of course languages
-evolve all the time!
+Pandunia has been created over many years.
+The creator of the language, Risto Kupsala,
+had his first ideas about an evenly global auxiliary language in the early 2000s.
+He experimented different ideas together with other people.
+Pandunia started to take form in 2017.
+The final version of the language is published in 2023
+– but of course languages evolve all the time!
 
 #### What does the flag of Pandunia represent?
 
 ![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
 
-The flag of Pandunia represents global equality. There is a symbol of
-_the blue planet_ against the background of the dark blue space. The
-equality sign is laid over the Earth.
+The flag of Pandunia represents global equality.
+There is a symbol of _the blue planet_ against the background of the dark blue galaxy.
+The equality sign is laid over the Earth to symbolize global equality.
 
 
-#### Where Pandunia's words come from?
+#### Where do Pandunia words come from?
 
 Pandunia's words come from all parts of the world.
-Read the [article about world words](101_dunia_lexi.md) for more details,
+Read the [article about world words](101_dunia_lexe.md) for more details,
 and see the
-[Pandunia lexe a dunia karte](http://www.pandunia.info/lexikarta/index.html)
+[Pandunia lexe a dunia karte](http://www.pandunia.info/lexekarte/index.html)
 pages to see where every Pandunia word is from on a world map.
 
 In our opinion the world language should be a mix of all languages in the world.
@@ -51,7 +54,19 @@ from where Pandunia words are borrowed too.
 
 #### Why Pandunia doesn't take words from all languages?
 
-About 6000-7000 languages are spoken in the world today.
+The vocabulary of Pandunia is borrowed from 21 most widely-spoken languages in the world.
+They cover all continents and all major modern cultures.
+All other languages probably have some _international words_ in common with the 21 main source languages.
+That's why Pandunia-like words can be found also in less widely spoken languages.
+
+About 6000–7000 languages are spoken in the world today.
+It wouldn't make sense to borrow one word from each language.
+Knowing just one word in the world language would be nearly useless.
+People need to know about 1000–3000 words in the new language to communicate effectively.
+However, the number of words is less than the number of languages in the world.
+
+It is wise to focus on languages that most people know
+as their native language or as a learned language.
 The figure below shows cumulative distribution of the number of speakers of the 50 most spoken native languages.
 The figure shows that:
 
@@ -61,7 +76,10 @@ The figure shows that:
 
 The remaining languages – remember, there are over 6000 of them! – are outside the picture.
 The curve, which is steep at the beginning, turns virtually into a flat line when it approaches the last language,
-which is spoken only by a handful of people.
+which is spoken by only a handful of people.
+
+![](http://www.pandunia.info/grafe/kumule.png)  
+Figure. Percentage of world population by language by number of native speakers.
 
 The figure indicates that _beyond a certain point_
 including one more language to the mix wouldn't make the interlanguage significantly more international.
@@ -71,16 +89,7 @@ because it would increase the coverage from 75.07% to 75.43%.
 
 One can also question the practical implications of including 51 languages versus 50.
 The increase in population coverage would be marginal, only 0.36%,
-and it would not help the remaining 24.24% of the world who speak other, smaller languages!
-
-![](http://www.pandunia.info/grafe/kumule.png)  
-Figure. Percentage of world population by language by number of native speakers.
-
-The vocabulary of Pandunia is based on the most spoken languages.
-They cover all continents and all major modern cultures of the world.
-They also have a lot of _international words_ in common with less spoken languages.
-That's why Pandunia-like words can be found also in smaller languages.
-
+and it would not help the remaining 24.24% of the world who speak other, less spoken languages!
 
 
 #### Why the mascot of Pandunia is a duck-billed platypus?
@@ -104,14 +113,14 @@ Also in that regard it is similar to the platypus, which is of its own type.
 If your change is a small thing, you should try it in practice with
 other people and see how it works. If it really is a good change,
 other people will accept it and use it.
+It will become part of the language naturally.
 
-Creating offshoot languages is very common in the auxiliary language
-community. The case of Esperanto is famous. Offshoots of Esperanto
-are counted in the hundreds but most people haven't even heard of
-them. Esperanto is still the most popular language of its kind.
+Creating offshoot languages is very common in the auxiliary language circles.
+The case of Esperanto is famous.
+Offshoots of Esperanto are counted in the hundreds but most people haven't heard about any of them.
+Esperanto is still the most popular language of its kind.
 
-It is better to have one big language with several dialects than
-many competing languages.
+It is better to have one big language with several dialects than many competing languages.
 
 #### Which languages have influenced the grammar of Pandunia?
 
@@ -133,9 +142,9 @@ languages.
 #### Who made Pandunia?
 
 The starter of Pandunia is _Risto Kupsala_ (born in Finland in 1979).
-He is a language hobbyist and an engineer in information technology
+He is a computer scientist (M.Sc.) and a linguist (M.A.)
 who wants to help the world communicate better.
-People from many countries have helped over the years.
+People from many countries have helped over the years to develop the language.
 There is a list of some of the contributors in
 [GitHub](https://github.com/barumau/pandunia/graphs/contributors).
 
@@ -152,19 +161,18 @@ of the world. There are many worldlangs. Some of them are listed
 
 #### How does Pandunia differ from other auxiliary languages?
 
-- The vocabulary of Pandunia is evenly global. It consists of Western
-  (Greco-Latin) words, Perso-Arabic words, Chinese words and Indian
-  words. Many other auxiliary languages use only or mostly Western
-  words, which is not ideal for the world language in our opinion.
-- Internationality is the main criterion for selecting words to
-  Pandunia. All the words of Pandunia are known by many nations in
-  some part of the world.
-- The grammar of Pandunia is concise but very flexible. Pandunia has
-  only a few grammatical structures, which are re-used over and over
-  again.
-- Pandunia is a truly neutral language. It's not meant to imitate any
-  languages, whereas for example Esperanto, Ido and Interlingua are
-  intentionally similar to the European languages.
+- The vocabulary of Pandunia is evenly global.
+  It consists of Euro-American, Afro-Asian, South Asian and East Asian words.
+  Many other auxiliary languages use only or mostly Euro-American words,
+  which is not ideal for the world language in our opinion.
+- Internationality is the main criterion for selecting words to Pandunia.
+  All Pandunia words are widely known in some part of the world.
+- The grammar of Pandunia is concise but very flexible.
+  Pandunia has only a few grammatical structures, which are re-used over and over again.
+- Pandunia is a truly neutral language.
+  It's not meant to imitate any languages,
+  whereas for example Esperanto, Ido and Interlingua
+  are intentionally similar to the European languages.
 
 #### Did Esperanto contribute to the birth of Pandunia?
 
@@ -269,6 +277,7 @@ spoken in the future.
 You are free to speak Pandunia, English and any other language that
 your heart desires.
 
+
 ## Spelling and pronunciation
 
 #### Is the spelling of Pandunia normal?
@@ -291,78 +300,22 @@ The pronunciation of Pandunia letters is compared to their pronunciation in othe
 
 | Language         | Similar                                         | Different   | Not used|
 |:-----------------|-------------------------------------------------|-------------|---------|
-| Pandunia         | a b c d e f g h i j k l m n o p r s t u v x y z |             |         |
-| Indian Romaniz.  | a b c d e f g h i j k l m n o p r s t u v   y z |             | x       |
-| Malay            | a b c d e f g h i j k l m n o p r s t u     y z |             | v x     |
-| Hausa            | a b c d e f g h i j k l m n o p r s t u     y z |             | v x     |
-| Chinese Pinyin   | a b c d   f g h i j k l m n o p r s t u   x y   | e z         | v       |
-| Swahili          | a b   d e f g h i j k l m n o p r s t u v   y z |             | c x     |
-| Japanese Romaji  | a b   d e   g h i j k l m n o p   s t u     y z | f r         | v c x   |
-| Portuguese       | a b   d e f g   i   k l m n o p r s t u v x   z | c h j       | y       |
-| English          |   b   d   f g h i j k l m n o p r s t   v   y z | a c e u x   |         |
-| French           | a b   d e f g   i   k l m n o p   s t u v   y z | c h j r x   |         |
-| Spanish          | a b   d e f g   i   k l m n o p r s t u v   y   | c h j x z   |         |
-| German           | a b   d e f g h i   k l m n o p r s t u v       | c j x y z   |         |
-| Vietnamese       | a b     e   g h i   k l m n o p r   t u v   y   | c d s x     | f j z   |
+| Pandunia         | a b ch d e f g h i j k l m n o p r s sh t u v x y z |             |         |
+| Indian Romaniz.  | a b ch d e f g h i j k l m n o p r s sh t u v   y z |             | x       |
+| Malay            | a b    d e f g h i j k l m n o p r s    t u     y z |             | v x     |
+| Hausa            | a b    d e f g h i j k l m n o p r s sh t u     y z |             | v x     |
+| Chinese Pinyin   | a b ch d   f g h i j k l m n o p r s sh t u     y   | e z         | v       |
+| Swahili          | a b ch d e f g h i j k l m n o p r s sh t u v   y z |             | x       |
+| Japanese Romaji  | a b ch d e   g h i j k l m n o p   s sh t u     y z | f r         | v x     |
+| Portuguese       | a b    d e f g   i   k l m n o p r s    t u v x   z | h j         | y       |
+| English          |   b ch d   f g h i j k l m n o p r s sh t   v x y z | a e u x     |         |
+| French           | a b    d e f g   i   k l m n o p   s    t u v x y z | h j r x     |         |
+| Spanish          | a b ch d e f g   i   k l m n o p r s    t u v x y   | h j x z     |         |
+| German           | a b    d e f g h i   k l m n o p r s    t u v x     | j x y z     |         |
+| Vietnamese       | a b ch   e   g h i   k l m n o p r      t u v   y   | d s x       | f j z   |
 
 In summary, most letters correspond to the same sounds in Pandunia as in other languages,
-and most differences are about letters *c*, *j*, *x*, *y* and *z*.
-Special attention needs to be given to *c* and *x*.
-
-#### Why is the letter X pronounced like SH?
-
-Pandunia follows the phonetic principle.
-One letter represents exactly one sound, and one sound is written with exactly one letter.
-
-Traditionally there isn't any dedicated letter for the sound /ʃ/ in the Latin alphabet.
-This sound is frequently written by the letter combination *sh* in English.
-Other languages use different letters and letter combinations,
-such as *ch* in French, *sch* in German, *sj* in Swedish, *sz* in Polish, *š* in Czech and *ş* in Turkish.
-
-However, there is a handful of languages that use the letter *x* for the sound /ʃ/.
-Basque and Maltese do it without exception.
-Portuguese and Catalan are less consistent, but their *x* stands for /ʃ/ frequently.
-For example, the Pandunia word **xampu'** is written almost exactly like in Portuguese.
-It means 'shampoo'.
-
-There are also many words where the pronunciation of Latin *x* has evolved from /ks/ to /ʃ/ in the modern Latinate languages.
-For example, Latin *relaxō* has evolved into
-French *relâcher* /rəlaʃe/ and
-Portuguese *relaxar* /relaʃar/.
-Therefore Pandunia can have both the familiar spelling with *x*
-and the simplified pronunciation with /ʃ/
-in international Latinate words like
-**relaxe**
-'relax',
-**proxime**
-'proximity', and
-**maxim**
-'maximum'.
-
-In the Chinese Romanization systen, Pīnyīn, the letter *x* stands for /ɕ/ which is almost similar to /ʃ/.
-Pandunia has borrowed many words with *x* from Chinese,
-for example **xim**, **xin** and **xuxe**.
-
-![](http://www.pandunia.info/grafe/X.png "C = ʃ")
-
-
-#### Why is the letter C pronounced like CH?
-
-Actually there are several languages where C is pronounced like English CH,
-including Malaysian, Indonesian, Hausa, Oromo and Rwanda.
-In Italian, when C is followed by E or I, it is pronounced /tʃ/.
-This pronunciation is present in English loan words from Italian, such as _cello_ and _cappuccino_.
-
-In addition, *c* is pronounced like *ts* in *cats* in many languages,
-including Polish, Czech, Hungarian and sometimes German.
-This pronunciation comes from Medieval Latin.
-The pronunciation of *c* is similar also in the standard Romanization of Mandarin Chinese.
-
-![](http://www.pandunia.info/grafe/C.png "C = ts o tʃ")
-
-On the other hand, the letter *c* doesn't stand for any unique sound in English.
-The _hard c_ can be replaced by *k* and the _soft c_ by *s*.
-So the letter *c* is free to be reassigned to some useful sound.
+and most differences are about letters *c*, *j*, *sh*, *y* and *z*.
 
 
 ## Vocabulary
@@ -379,21 +332,6 @@ and not in any vowel in English _soup_.
 So it's not one and the same word but rather an international family of similar words,
 and Pandunia's **supe** fits perfectly into that family.
 
-#### Shouldn't "salam" mean "peace"?
-
-In many languages, expressions of greeting have something to do with
-peace, health or well-being. The origins of Pandunia's word **salam**
-can be traced back to Semitic triliteral root SLM, which covers a
-variety of meanings including safety, security, peace and health.
-Likewise the English word _salutation_ (and French greeting _salut_)
-can be traced back to Latin "salus", which means safety, security,
-health and well-being.
-
-So the meaning of **salam** is greater than the meaning of peace. It
-means well-being in general and you can use it as a general
-expression for well-wishing in all kinds of situations, not just when
-you meet somebody. See the first lesson in the [phrasebook](200_baze_jumla.md)
-for a lot of examples!
 
 ## Grammar
 
@@ -425,4 +363,3 @@ that apply for Pandunia too.
    - Use mostly simple syllable structures.
    - Prefer short words.
    - Tone is not used to distinguish words.
-

@@ -125,7 +125,7 @@ does not specify physical distance
 but it is used when the speaker has already mentioned the object or person in question
 and it is known by the audience or is topical within the discourse.
 
-**ye es mau. da vol yam vo muxu.**
+**ye es mau. da vol yam vo mushu.**
 – This is a cat. It wants to eat that mouse.
 
 **mi ten un mau e un vaf. la vaf es dai. da yam poli yam.**
@@ -174,7 +174,7 @@ It does the job of English words _who_ and _what_.
 The adjectival interrogative pronoun is also **ke**
 and it means the same as English _which_.
 
-**ke xe?**
+**ke she?**
 – What? (Which thing?)  
 **ke jen?**
 – Who? (Which person?)  
@@ -199,7 +199,7 @@ Also adjectives are questioned with **ke**.
 – How few?  
 **ke dai?**
 – How big?  
-**ke xiu?**
+**ke shiu?**
 – How small?
 
 **tu su es ke dai di mau?**

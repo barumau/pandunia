@@ -13,7 +13,7 @@ The vowels **a, e, i, o, u** are pronounced as in "are there three or two".
 
 The consonants are:
 **b**,
-**c** (sounds like _ch_ in _church_),
+**ch** (sounds like _ch_ in _church_),
 **d**,
 **f**,
 **g** (always hard),
@@ -28,7 +28,7 @@ The consonants are:
 **s** (always voiceless),
 **t**,
 **v** (sounds like _w_),
-**x** (sounds like _sh_),
+**sh** (sounds like _sh_),
 **y**,
 **z**.
 
@@ -128,7 +128,7 @@ Tenses and aspects are optionally expressed with the help of adverbs and auxilia
 (in the past),
 **le**
 (already), and
-**xa**
+**sha**
 (in the future).
 
 **mi zai ame tu.**
@@ -137,7 +137,7 @@ Tenses and aspects are optionally expressed with the help of adverbs and auxilia
 – I loved you.  
 **mi le ame tu.**
 – I have loved you.  
-**mi xa ame tu.**
+**mi sha ame tu.**
 – I will love you.
 
 ### Passive

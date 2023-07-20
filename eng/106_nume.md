@@ -120,7 +120,7 @@ Also the words for previous, next, first and last use the same particle.
 'after, follow'
 → **posme**
 'next, following'  
-**xuru**
+**shuru**
 'begin'
 → **xurume**
 'the first'  

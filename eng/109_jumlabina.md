@@ -70,7 +70,7 @@ Subject and object can be noun phrases that consist of many words,
 and there can be a series of verbs (i.e. a serial verb) instead of a single verb.
 In such cases the boundaries between the clause constituents can become doubtful.
 
-**xiu baku meme vol xuru yam hau seng cau.**
+**shiu baku meme vol shuru yam hau seng chau.**
 – Little white sheep want to start to eat good fresh grass.
 
 Boundaries between sentence elements can be marked with little words.
@@ -87,7 +87,7 @@ Determiners, like
 'some',
 help to indicate where noun phrases begin.
 
-**la xiu baku meme *ya* vol xuru yam *la* hau seng cau.**
+**la shiu baku meme *ya* vol shuru yam *la* hau seng chau.**
 – The little white sheep want to start to eat that good fresh grass.
 
 
@@ -172,16 +172,16 @@ Compare with:
 The linking verb is used also when structural complexity of subject and/or predicate
 makes the boundary between the two sentence elements doubtful.
 
-**mi su kar mede baca.**
+**mi su kar mede bacha.**
 – My job helps children.  
-**mi su kar es mede baca.**
+**mi su kar es mede bacha.**
 –  My job is to help children.
 
 It is also possible to use a pause,
 that is indicated by a dash in writing,
 instead of the linking verb.
 
-**mi su kar – mede baca.**
+**mi su kar – mede bacha.**
 – My job: to help children.
 
 
@@ -206,7 +206,7 @@ is optional in the same cases as before
 – He doesn't want to be rich.  
 **da no a dom.** ~ **da no es a dom.**
 – He is not at home.  
-**da su kar no es mede baca.**
+**da su kar no es mede bacha.**
 – His job is not to help children.
 
 
@@ -223,7 +223,7 @@ the previous rules apply also to adjective subjects and verb subjects.
 – Singing is good.  
 **gani – no dus.** ~ **gani no es dus.**
 – Singing is not bad.  
-**xulafa baca – mede baca.** ~ **xulafa baca es mede baca.**
+**skolefa bacha – mede bacha.** ~ **skolefa bacha es mede bacha.**
 – To teach children is to help children.
 
 
@@ -267,7 +267,7 @@ In the sentence *the old man dies*, the subject changes state from living to dea
 Here are some intransitive clauses in Pandunia.
 The subjects are written in cursive.
 
-***bace*** **kurse.**
+***bache*** **kurse.**
 – Children run.  
 ***jun fem*** **danse.**
 – The young woman dances.  
@@ -281,7 +281,7 @@ Therefore for example **morte** can mean both ’died’ and ’dies’.
 So called intransitive verbs can take a cognate object, whose meaning is very close to the meaning of the verb.
 For example the sentence **bace kurse**, 'the children run', can take an object like **long kurse**, 'a long run'.
 
-***Bace** **kurse long kurse.**
+***Bache** **kurse long kurse.**
 – 'The chilren run a long run.'
 
 The meaning of the sentence doesn’t really change.
@@ -384,13 +384,13 @@ in the form that the verb describes.
 Consider the following sentence,
 where the child is the agent that departs energy in the form of a push to the ball, the patient.
 
-**la bace dape la bol.**
+**la bache dape la bol.**
 – The child hits the ball.
 
 There can also be an instrument that mediates the flow of energy from the agent to the patient.
 The sequence `agent > instrument > patient` reflects the flow of energy in an action chain.
 
-**la bace uze la bang dape la bol.**
+**la bache uze la bang dape la bol.**
 – The child uses the bat to hit the ball.
 
 The order of the participants is in line with the order of the action chain in reality.
@@ -460,7 +460,7 @@ would not make sense.)
 There are also SV sentences where the subject is likely the agent,
 as in the following examples.
 
-**mau marce.**
+**mau marche.**
 – The cat walks.  
 **sol lume.**
 – The sun shines.  
@@ -483,7 +483,7 @@ indicates that the subject is the patient or receiver of the action.
 – Clothes are dried.  
 **ite be pada.**
 – Stone is dropped.  
-**mau fa marce.**
+**mau fa marche.**
 – The cat walks. ~ The cat does walk.  
 **sol fa lume.**
 – The sun shines. ~ The sun makes the shining.
@@ -492,9 +492,9 @@ It is also possible to add other objects with the help of
 **fa**
 'make'.
 
-**mau yam pexe.**
+**mau yam peshe.**
 – The cat eats fish.  
-**mi fa mau yam pexe.**
+**mi fa mau yam peshe.**
 – I make the cat eat fish. ~ I feed the cat with fish.
 
 **fuku gan.**
@@ -511,11 +511,11 @@ The **basic pivot construction** is a syntactic realization of an action chain
 that reflects the flow of energy from one participant to another.
 A basic sequence is that of `agent > instrument > patient`.
 
-**da uze un caku kate la ban.**
+**da uze un chaku kate la ban.**
 – He uses a knife to cut the bread.  
 **da jete la bol dape la dike.**
 – He throws the ball to hit the target.  
-**mi xofe la car lai la site.**
+**mi shofe la char lai la site.**
 – He drives the car to enter the city.
 
 Another common sequence is that of `causer > agent > patient`.
@@ -561,7 +561,7 @@ One may pick any or all participants of the action chain into a sentence
 as long as they stay in the same order.
 In the following example sentence all optional participants and their verbs are enclosed in brackets.
 
-**(mi vol) (tu uze) (la caku) kate la ban (don ma).**
+**(mi vol) (tu uze) (la chaku) kate la ban (don ma).**
 – I want you to use the knife to cut the bread and give to mother.
 
 
@@ -584,9 +584,9 @@ In commands and requests also the second participant can be left out
 when it indicates the second person ('you').
 The the remaining syntactic structure is `verb₁–verb₂–object`.
 
-**mi cing tu lai dom.**
+**mi ching tu lai dom.**
 – I ask you to come home.  
-**cing lai dom!**
+**ching lai dom!**
 – Please come home!  
 **mi amir tu kluze la mun.**
 – I command you to shut the door.  
@@ -863,7 +863,7 @@ In Pandunia they are typically introduced with the conjunction
 
 **mi ken ki tu es doste.**
 – I know that you are a friend.  
-**damen fikre ki mimen le cute.**
+**damen fikre ki mimen le chute.**
 – They think that we have left.
 
 A content clause can be placed before or after the clause that talks about it.
@@ -903,7 +903,7 @@ and in conditional sentences, it works in the same way as English 'if'.
 
 The rest of the sentence can optionally be preceded by the word **asar**, which means 'then'.
 
-**si tu tocu tava, asar tu pati hanu.**
+**si tu tochu tava, asar tu pati hanu.**
 – _If_ you touch the pan, _then_ you will hurt your hand.
 
 
@@ -937,7 +937,7 @@ The rest of the sentence can optionally be preceded by the word **asar**, which 
 
 Expressions are affirmative by default.
 
-**mi es xefe.**
+**mi es shefe.**
 – I am the boss.  
 **da es neu meza.**
 – It is a new table.
@@ -946,7 +946,7 @@ Affirmation can be emphasized with the adverb
 **ya**
 ('yes indeed').
 
-**mi ya es xefe.**
+**mi ya es shefe.**
 – I indeed am the boss.  
 **da ya es neu meza.**
 – It indeed is a new table.
@@ -955,7 +955,7 @@ Affirmation can be emphasized with the adverb
 
 Such sentences can be simply negated with **no**.
 
-**da no es xefe.**
+**da no es shefe.**
 – He is not the boss.  
 **da no es neu meza.**
 – It's not a new table.
@@ -971,11 +971,11 @@ Different scopes of negation may result depending on the location of the negativ
 **mi vide no tu ama damen.**
 – I see, not you, but them.
 
-**mi cing tu saf la kamar.**
+**mi ching tu saf la kamar.**
 – I ask you to clean the room.  
-**mi no cing tu saf la kamar.**
+**mi no ching tu saf la kamar.**
 – I do NOT ask you to clean the room.  
-**mi cing tu no saf la kamar.**
+**mi ching tu no saf la kamar.**
 – I ask you NOT to clean the room.
 
 Particles **ya** and **no** are used also for answering questions.
@@ -1047,7 +1047,7 @@ So a modifier phrase with and without **de** can mean a different thing.
 Verbs are turned into modifiers by placing **de** or **di** immediately next to the verb.
 Verb phrases can also be made into modifiers in this way, but any objects must be moved to before the verb.
 
-**xute de grafe pente**
+**shute de grafe pente**
 – the art of picture-painting (the art of painting pictures)  
 **ale su mede su suke**
 – the joy of others-helping (the joy of helping others)
@@ -1090,7 +1090,7 @@ They function like adverbs, so typically their place is before the verb.
 – I had cats.  
 **ama mi su no zai es mau.**
 – But I now don't have cats.  
-**bil, mi su xa es mau.**
+**bil, mi su sha es mau.**
 – Maybe I will have cats.
 
 It's also possible to say it in a longer way like **na pas zaman** (in the past) etc.
@@ -1099,7 +1099,7 @@ It's also possible to say it in a longer way like **na pas zaman** (in the past)
 – I had cats in the past.  
 **ama mi su no es mau a zai zaman.**
 – But I don't have cats at present.  
-**bil, mi su es mau a xa zaman.**
+**bil, mi su es mau a sha zaman.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.
@@ -1154,7 +1154,7 @@ It is different from **he** in that it's not directly asking a question but it o
 It roughly translates as *right?*, *isn't it?*, *isn't that so?*, etc.
 One uses it at the end of sentence if one is not completely sure about something but thinks it's probably true.
 
-**tu suke kafe, ne? cepe un kupe ba!**
+**tu suke kafe, ne? sepe un kupe ba!**
 – You like coffee, right? Grab a cup!  
 **da neu, ne?**
 – It is new, isn't it?
@@ -1207,5 +1207,5 @@ They may consist of only one word, which draws the listener's attention.
 
 **mau!**
 – A cat!  
-**barxa!**
+**barsha!**
 – Rain! / (It) rains!

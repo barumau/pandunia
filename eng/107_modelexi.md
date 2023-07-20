@@ -22,9 +22,9 @@ B. **tu _mei_ di kitabe.**
 
 In Pandunia, "adjectives" are modifiers that are placed before the noun that they modify.
 
-**un _neu_ car**
+**un _neu_ char**
 – a _new_ car  
-**un _suga_ car**
+**un _suga_ char**
 – a _fast_ car  
 **men _dai_ meza**
 – _big_ tables  
@@ -35,7 +35,7 @@ In Pandunia, "adjectives" are modifiers that are placed before the noun that the
 
 Two or more modifiers can modify the same noun.
 
-**un xiu neu car**
+**un shiu neu char**
 – a little new car
 
 
@@ -56,7 +56,7 @@ It makes the structure of the verb phrase clearer.
 
 **tu _mei di_ kitabe.**
 – You write _beautifully_.  
-**damen _suga di_ marce.**
+**damen _suga di_ marche.**
 – They walk _fast_.
 
 
