@@ -427,13 +427,13 @@ He/she is my friend.
 I am Sarah's friend.
 
 The possessive particle is used also to form the predicate of possession.
-The possessor is followed by **su es** and the thing possessed.
+The possessor is followed by **ha** and the thing possessed.
 
-**mi su es un mau.**
+**mi ha un mau.**
 I have a cat.  
-**damen su es pesa.**
+**damen ha pesa.**
 They have money.  
-**sara su es doste.**
+**sara ha doste.**
 Sara has a friend.
 
 It could help to understand the structure by comparing the sentences above to the sentences below.

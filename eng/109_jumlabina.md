@@ -1095,11 +1095,11 @@ They function like adverbs, so typically their place is before the verb.
 
 It's also possible to say it in a longer way like **na pas zaman** (in the past) etc.
 
-**mi su es mau a pas zaman.**
+**mi ha mau a pas zaman.**
 – I had cats in the past.  
 **ama mi su no es mau a zai zaman.**
 – But I don't have cats at present.  
-**bil, mi su es mau a sha zaman.**
+**bil, mi ha mau a sha zaman.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.

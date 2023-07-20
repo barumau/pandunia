@@ -643,9 +643,9 @@ and even numeral.
 = She doesn't have a cat.  
 **da su no es mau, ama vaf.**
 = She has no cats but dogs.  
-**no da su, ama mi su es mau.**
+**no da su, ama mi ha mau.**
 = Not she but I have cats.  
-**mi su es no un, ama du mau.**
+**mi ha no un, ama du mau.**
 = I have not one but two cats.
 
 
@@ -842,7 +842,7 @@ or until it becomes useful to stress that you are still talking in the same tens
 = I had a cat in the past.  
 **da es hau mau.**
 = It was a good cat.  
-**mi su es un vaf a zai.**
+**mi ha un vaf a zai.**
 = I have a dog now.
 
 Any expression of time is good for expressing the tense. When one
