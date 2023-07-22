@@ -150,9 +150,9 @@ In the above,
 **ye jumla**
 (_this sentence_) refers to the sentence being spoken.
 
-**mi semi vo: mi ame tu.**
+**mi seme vo: mi ame tu.**
 – I mean this: I love you. OR I mean that I love you.  
-**mi ame tu. mi semi la.**
+**mi ame tu. mi seme la.**
 – I love you. That is what I mean.
 
 In the above, the pronoun

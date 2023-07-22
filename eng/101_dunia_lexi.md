@@ -220,7 +220,8 @@ As you can see, the same word is written and pronounced differently in different
 This is typical of international words.
 They get adapted in almost every language to their own spelling system.
 Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Pandunia.
-So the Pandunia word for language becomes **baxe**.
+So the Pandunia word for language become
+**bashe**.
 
 ### Western words
  
@@ -247,7 +248,7 @@ form that sounds familiar to speakers of as many languages as possible.
 |---------------|------------|------------|------------|------------|------------|------------|
 | **korte**     | short      | curto      | corto      | court      | kurz       | korotkiy   |
 | **nove**      | new        | novo       | nuevo      | nouveau    | neu        | novîy      |
-| **marce**     | march      | marcha     | marcha     | marche     | Marsch     | marš       |
+| **marche**    | march      | marcha     | marcha     | marche     | Marsch     | marš       |
 | **poste**     | post (mail)| (postal)   | posta      | poste      | Post       | počta      |
 
 
@@ -302,7 +303,7 @@ a normal PoS suffix.
 | Wu         | bi           | 啤(酒)            |
 | Mandarin   | pʰi          | 啤(酒)            |
 
-#### cai 'tea'
+#### chai 'tea'
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|

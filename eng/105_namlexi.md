@@ -76,7 +76,7 @@ Names of people can be tagged with the universal title of respect
 Using it shows respect and politeness.
 
 It can be used in formal and informal situations and for all age groups, social groups and genders.
-The closest translation for it in English is _Mr or Ms_ or _Mx_.
+The closest translation for it in English is _Mr_ or _Ms_ or _Mx_.
 
 There are different customs concerning honorific titles in different cultures.
 In some cultures it is not polite to use someone's name without a title of respect.
@@ -90,18 +90,3 @@ A title of respect can be used with a given name, a family name, or both.
 – Mx Billy  
 **shi King**
 – Mx King
-
-
-### Compound words
-
-Two or more nouns can be put together to make a compound word.
-The last word is the most meaningful word in the compound,
-and the words that come before it only modify the meaning.
-
-**sol foto**
-– sun light  
-**luna foto**
-– moon light  
-**luna ite**
-– moon stone
-

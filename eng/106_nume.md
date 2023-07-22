@@ -312,13 +312,13 @@ or vice versa i.e. year first and day last.
 Month is always in the middle.
 
 **nen 2022 mes 9 den 17**
-=
+~
 **den 17 mes 9 nen 2002**
 
 There are also two short formats without the year.
 
 **mes 9 den 17**
-=
+~
 **den 17 mes 9**
 
 
