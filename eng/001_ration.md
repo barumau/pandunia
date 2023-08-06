@@ -2,10 +2,10 @@
  
 ## Introduction
 
-Pandunia is an equally global helping language.
-In this article we tell what makes Pandunia global and equal,
-why it is like that,
-and how it could help people of the world to communicate better with each other.
+Pandunia is an equally global auxiliary language. 
+In this article, we explain what makes Pandunia global and equal,
+why it was made to be global and equal,
+and how it could help people around the world communicate better with each other.
 
 
 ## Principles of Pandunia
@@ -35,16 +35,16 @@ So, let's keep it simple!
 
 Many people are used to seeing the kind of world map below.
 It is the famous _Mercator projection_ map.
-Unfortunately it distorts the land area terribly.
+Unfortunately it distorts the size of countries badly.
 
 ![](http://www.pandunia.info/grafe/metrograf_da_merkator.jpg "Mercator projection")
 
 Why is that? The world is a three-dimensional globe and turning it into a flat, two-dimensional map is not easy.
 Equal-area projections, such as the _Equal Earth projection_ below,
-show land areas correctly.
+show land areas more accurately.
 Compare the sizes of Greenland and Africa in these two maps.
 In the Mercator projection Greenland appears bigger,
-but the Equal Earth projection shows correctly that in reality Africa is 14 times bigger than Greenland.
+but the Equal Earth projection shows that in reality Africa is 14 times bigger than Greenland.
 
 ![](http://www.pandunia.info/grafe/metrograf_da_pari_gevia.jpg "Equal Earth projection")
 
@@ -54,7 +54,7 @@ In a normal map of countries of the world, sizes of the countries are defined by
 
 ![](http://www.pandunia.info/grafe/metrograf_da_aria.png "Map by area")
 
-However the map projection below is based on the population of countries, not on their geographic area.
+The map projection below is based on the population of countries, not on their geographic area.
 
 ![](http://www.pandunia.info/grafe/karte_da_insania.png "Map by Population 2018")
 
@@ -65,13 +65,13 @@ Areal linguistic characteristics, such as [Standard Average European](https://en
 are not suitable guidelines for the world language.
 Instead, the grammar should be built from things that are universally known and/or universally considered easy.
 
-Words are selected to Pandunia mostly from 21 main source languages.
+Words are included in Pandunia mostly from 21 main source languages.
 The six official languages of the United Nations are included: English, French, Spanish, Russian, Arabic and Mandarin Chinese.
 The language of the heart of Europe is included: German.
 The language of the South Atlantic is included: Portuguese.
 The most important East Asian languages are included: Japanese, Korean, Vietnamese, Cantonese and Malay.
 The most influential languages of the Indian subcontinent are included: Hindi, Urdu, Bengali and Tamil.
-The most widely spoken native African languages after Arabic are included: Swahili and Hausa.
+The most widely spoken native African languages after Arabic are included: Swahili, Hausa and Fula.
 The other major languages of Middle East besides Arabic are included: Turkish and Persian.
 
 All in all, they represent a good mix of cultures and regions of the world.
@@ -95,16 +95,16 @@ in a short and non-exhaustive presentation like this.
 
 There are many writing systems in the world today
 but only a handful of them are international.
-The most popular writing systems are the Roman alphabet,
+The most popular writing systems are the Latin alphabet,
 the Cyrillic alphabet, the Arabic script and the Chinese pictographic symbols.
 
-Only the Roman alphabet has become truly global.
-Most languages of Europe, the Americas and Africa are written in the Roman alphabet.
+Only the Latin alphabet has become truly global.
+Most languages of Europe, the Americas and Africa are written in the Latin alphabet.
 Also several notable languages in Asia,
 including Turkish, Malay and Vietnamese,
-are written in the Roman alphabet.
+are written in the Latin alphabet.
 
-Therefore the Roman alphabet is the obvious choice for the international language.
+Therefore the Latin alphabet is the obvious choice for the international language.
 
 
 ### Only five vowels
@@ -186,7 +186,7 @@ There are two ways to simplify words that are too complex for the international 
 English spelling is notoriously irregular. Pīnyīn was created more
 recently, in the 1950s, but unfortunately it also has some
 irregularities, simply because there are more sounds in spoken
-Chinese than there are letters in the Roman alphabet. Still, in
+Chinese than there are letters in the Latin alphabet. Still, in
 comparison to English, Pinyin is very regular. For example the
 English rhymes _my, sigh, lie,_ and _rye_ would be written in Pīnyīn
 _mai, sai, lai, rai_. It is as simple as that!
