@@ -639,12 +639,12 @@ of the negative word.
 The negated word can be of any type: verb, pronoun, noun, adjective
 and even numeral.
 
-**da su no es mau.**
+**da no ha mau.**
 = She doesn't have a cat.  
-**da su no es mau, ama vaf.**
+**da no ha mau, ama vaf.**
 = She has no cats but dogs.  
-**no da su, ama mi ha mau.**
-= Not she but I have cats.  
+**no da, ama mi ha mau.**
+= Not she but I have cats. (It's not her, but me who has cats.)  
 **mi ha no un, ama du mau.**
 = I have not one but two cats.
 
