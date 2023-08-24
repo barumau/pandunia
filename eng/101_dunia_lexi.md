@@ -24,7 +24,7 @@ Hartmut Traunmuller divided the world into four major cultural spheres in his ar
 [A Universal Interlanguage: Some Basic Considerations](http://www.ling.su.se/staff/hartmut/UIL.pdf).
 The languages within a certain cultural sphere share words (loan words and translated loan words) and cultural concepts.
 
-1. The Western (or the European) cultural sphere
+1. The Euro-American cultural sphere
     - This sphere covers all of Europe, Americas, Australia and various smaller regions.
     - Languages of the West have been influenced greatly by Greek and Latin and in modern times by French and English.
 2. The Afro-Asian (or the Islamic) cultural sphere
@@ -82,16 +82,16 @@ The numbers of speakers are from the Power Language Index and the Wikipedia.
 
 | Language         | Native speakers | Non-native speakers | PLI ranking | Cultural sphere | Language family |
 |:-----------------|----------------:|--------------------:|:--:|:--------------------|:---------------------|
-| English          |     446 million |  510 million        |  1 | Western             | Indo-European        |
+| English          |     446 million |  510 million        |  1 | Euro-American       | Indo-European        |
 | Mandarin Chinese |     960 million |  178 million        |  2 | East Asian          | Sino-Tibetan         |
-| French           |      80 million |  192 million        |  3 | Western             | Indo-European        |
-| Spanish          |     470 million |   70 million        |  4 | Western             | Indo-European        |
+| French           |      80 million |  192 million        |  3 | Euro-American       | Indo-European        |
+| Spanish          |     470 million |   70 million        |  4 | Euro-American       | Indo-European        |
 | Arabic           |     295 million |  132 million        |  5 | Afro-Asian          | Afro-Asiatic         |
-| Russian          |     150 million |  115 million        |  6 | Western             | Indo-European        |
-| German           |      76 million |   59 million        |  7 | Western             | Indo-European        |
+| Russian          |     150 million |  115 million        |  6 | Euro-American       | Indo-European        |
+| German           |      76 million |   59 million        |  7 | Euro-American       | Indo-European        |
 | Hindi-Urdu       |     442 million |  214 million        |  8 | Indian & Afro-Asian | Indo-European        |
 | Japanese         |     125 million |    1 million        |  9 | East Asian          | Japonic              |
-| Portuguese       |     215 million |   32 million        | 10 | Western             | Indo-European        |
+| Portuguese       |     215 million |   32 million        | 10 | Euro-American       | Indo-European        |
 | Cantonese        |      80 million |    ½ million        | 11 | East Asian          | Sino-Tibetan         |
 | Malay            |      77 million |  204 million        | 14 | Indian & Afro-Asian | Malayo-Polynesian    |
 | Korean           |      80 million |    1 million        | 16 | East Asian          | Koreanic             |
@@ -134,7 +134,7 @@ The table below shows the number of countries by continent where the 21 source l
 
 ## Word selection method
 
-There are a lot of international words, because the languages influence each other all the time.
+There are a lot of international words, because languages influence each other all the time.
 Some words are international in the West, some in the East, and some are even global.
 Pandunia attempts to use as international, intercontinental and global words as possible.
 
@@ -147,7 +147,7 @@ So the first question is, does the word _belong_ to a certain region or culture?
 Yes. → Select the word from languages that are important in that region or culture.  
 No. → Use the following word selection method.
 
-1. Collect translations for a given word in the 20 languages that are listed in the previous chapter
+1. Collect translations for a given word in the 21 languages that were listed in the previous chapter
    by using electronic or printed or electronic dictionaries, Wiktionary, reliable machine translation, or some other tool.
 2. Identify groups of similar words.
     - Similar words can be historically related
@@ -220,7 +220,7 @@ As you can see, the same word is written and pronounced differently in different
 This is typical of international words.
 They get adapted in almost every language to their own spelling system.
 Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Pandunia.
-So the Pandunia word for language become
+So the Pandunia word for language becomes
 **bashe**.
 
 ### Western words
@@ -311,12 +311,15 @@ a normal PoS suffix.
 | Japanese   | tʃa          | 茶 |
 | Korean     | tʃʰa         | 차 |
 | Vietnamese | tʂa          | trà             |
+| Persian    | tʃay         | چای‎ |
 | Bangla     | tʃa          | চা  |
 | Hindi      | tʃay         | चाय |
 | Russian    | tʃay         | чай             |
 | Turkish    | tʃay         | çay             |
-| Swahili    | tʃai         | chai            |
 | Arabic     | ʃay          | شاي |
+| Hausa      | ʃayi         | shayi           |
+| Fula       | ata:yi       | ataayi          |
+| Swahili    | tʃai         | chai            |
 | Portuguese | ʃa           | chá             |
 
 
