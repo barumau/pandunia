@@ -1,4 +1,5 @@
-# Adjectifs
+
+# 7. Adjectifs
 
 Un modificateurs est un mot qui ajoute une qualité ou une description à un autre mot, par exemple _bon, mauvais, gros_ et _rapide_.
 

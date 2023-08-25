@@ -1,5 +1,6 @@
 fa_pandoc() {
-    pandoc $1/pan.md -V geometry:a4paper,margin=2cm -s -o $1/pan.pdf --pdf-engine=/usr/bin/xelatex -V mainfont="DejaVu Serif" -V monofont="DejaVu Sans Mono" #-V CJKmainfont="Noto Sans CJK SC" -V devanagarifont="Noto Sans Devanagari"
+    pandoc $1/pan.md -V geometry:a4paper,margin=2cm -s -o $1/pan.pdf --pdf-engine=/usr/bin/xelatex -V mainfont="$2" -V monofont="DejaVu Sans Mono"
+    #-V CJKmainfont="MS Mincho" #-V CJKmainfont="Noto Sans CJK SC" -V devanagarifont="Noto Sans Devanagari"
     sed 's/\/home\/rkupsala\/pandunia\/html/http:\/\/www.pandunia.info/g' -i $1/pan.md
 }
 
@@ -43,19 +44,39 @@ fa_pan_md() {
     sed 's/http:\/\/www.pandunia.info/\/home\/rkupsala\/pandunia\/html/g' -i $1/pan.md
 }
 
-fa_md_i_pdf() {
+kitabe_europan_dokume() {
     fa_pan_md $1
-    fa_pandoc $1
+    #fa_pandoc $1 "DejaVu Serif"
+    fa_pandoc $1 "FreeSerif"
 }
 
-fa_md_i_pdf eng
-fa_md_i_pdf epo
-fa_md_i_pdf fra
-fa_md_i_pdf pol
-fa_md_i_pdf rus
-fa_md_i_pdf spa
-fa_md_i_pdf suomi
+kitabe_nipon_dokume() {
+    fa_pan_md $1
+    fa_pandoc $1 "Noto Serif CJK JP"
+}
 
-# uze la pake:
+kitabe_china_dokume() {
+    fa_pan_md $1
+    fa_pandoc $1 "Noto Serif CJK SC"
+}
+
+kitabe_europan_dokume eng
+kitabe_europan_dokume epo
+kitabe_europan_dokume fra
+kitabe_europan_dokume pol
+kitabe_europan_dokume rus
+kitabe_europan_dokume spa
+kitabe_europan_dokume suomi
+
+kitabe_nipon_dokume jpn
+
+kitabe_china_dokume zho
+
+# uze ye pake:
 #sudo apt install pandoc
+#sudo apt install pdflatex
+#sudo apt-get install texlive-latex-base
+#sudo apt-get install texlive-fonts-recommended
+#sudo apt-get install texlive-fonts-extra
+#sudo apt-get install texlive-latex-extra
 #sudo apt-get install texlive-xetex

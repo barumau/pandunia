@@ -1,4 +1,5 @@
-# Clasificación de las palabras
+
+# 3. Clasificación de las palabras
 
 La gramática de Pandunia es sencilla y corta en comparación con la mayoría de los idiomas.
 El principio fundamental es que las palabras nunca se cambian por razones gramáticas.

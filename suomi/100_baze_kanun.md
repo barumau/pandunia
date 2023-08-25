@@ -1,4 +1,5 @@
-# Pandunian perussäännöt
+
+# 1. Pandunian perussäännöt
 
 1. **Kansainvälinen sanasto:**
    Pandunia on tasapuolisesti yleismaailmallinen kieli.

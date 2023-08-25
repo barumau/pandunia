@@ -1,4 +1,5 @@
-# Modifiers
+
+# 7. Modifiers
 
 A modifier is a word that adds a particular quality or description,
 such as good, bad, big, and fast, to another word.
@@ -18,7 +19,7 @@ B. **tu _mei_ di kitabe.**
 – You write _beautifully_.
 
 
-### Modifying nouns
+## Modifying nouns
 
 In Pandunia, "adjectives" are modifiers that are placed before the noun that they modify.
 
@@ -39,7 +40,7 @@ Two or more modifiers can modify the same noun.
 – a little new car
 
 
-### Modifying verbs
+## Modifying verbs
 
 A modifier that modifies a verb
 is placed immediately before the verb.
@@ -60,7 +61,7 @@ It makes the structure of the verb phrase clearer.
 – They walk _fast_.
 
 
-### Modifying other modifiers
+## Modifying other modifiers
 
 The particle
 **di**
@@ -72,7 +73,7 @@ is used also when a modifier modifies another one.
 – _strongly_ loving people
 
 
-#### Degree words
+## Degree words
 
 Degree words tell us about the intensity of something.
 
@@ -119,7 +120,7 @@ The meaning is the same like when the compound adverb modifies the main verb.
 – Did you sleep well enough?
 
 
-### Adverbs of comparison
+## Adverbs of comparison
 
 Adjectives can be compared with the adverbs of comparison.
 

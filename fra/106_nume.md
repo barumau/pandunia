@@ -1,4 +1,5 @@
-# Numéraux
+
+# 6. Numéraux
 
 Les mots de base pour les chiffres sont :
 

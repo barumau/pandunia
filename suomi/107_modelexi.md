@@ -1,4 +1,5 @@
-# Määritteet
+
+# 7. Määritteet
 
 Määrite on sana, joka muokkaa tai tarkentaa toisen sanan merkitystä, esim. hyvä, huono, nopea.
 

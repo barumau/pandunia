@@ -1,4 +1,5 @@
-# Verbs
+
+# 8. Verbs
 
 Verbs are unchanging in Pandunia.
 Things like person, number, time and mood are indicated by separate words,

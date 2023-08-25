@@ -1,6 +1,7 @@
-## Nouns
 
-### Only one form
+# 5. Nouns
+
+## Only one form
 
 A noun is a word that refers to a concrete or abstract object,
 such as *person*, *tree*, *house*, *life* and *speed*.
@@ -21,7 +22,7 @@ Number and definiteness are often known because they were previously mentioned i
 For example, normally the word **sol** refers to _the sun_ and **lun** refers to _the moon_, our only sun and moon.
 
 
-### Indicating number
+## Indicating number
 
 Pandunia nouns have the same form
 in singular (when there is one)
@@ -67,7 +68,7 @@ Therefore, a phrase like
 **men buku buku**
 is wrong.
 
-### Proper names
+## Proper names
 
 Proper names are nouns for individual people, places and other things.
 

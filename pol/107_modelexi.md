@@ -1,4 +1,5 @@
-# Modyfikatory
+
+# 7. Modyfikatory
 
 Modyfikator to słowo, które dodaje jakąś wartość lub opis do rzeczy wyrażonej innym słowem, np. dobry, duży, źle, szybko.
 

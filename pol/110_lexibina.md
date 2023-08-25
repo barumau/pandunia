@@ -1,4 +1,5 @@
-# Słowotwórstwo
+
+# 11. Słowotwórstwo
 
 Możliwe jest tworzenie nowych słów w Panduni. Pandunia ma produktywny system tworzenia nowych słów. Większość przyrostków używanych w Panduni jest już w międzynarodowym użyciu. Wiele z nich pochodzi z starożytnej greki, łaciny, języka arabskiego i języka perskiego.
 

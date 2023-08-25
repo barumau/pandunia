@@ -1,4 +1,5 @@
-# Reglas básicas de Pandunia
+
+# 1. Reglas básicas de Pandunia
 
 Estas son las reglas básicas del idioma Pandunia.
 Ellas se describien en más detalle más tarde en este sitio.

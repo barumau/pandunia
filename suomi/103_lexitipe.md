@@ -1,4 +1,5 @@
-# Sanojen luokittelu
+
+# 3. Sanojen luokittelu
 
 Tämä kielioppi käsittelee pandunian sanaluokkia ja sanajärjestystä. 
 Se on tarkoitettu oppimisen tueksi,

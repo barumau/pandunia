@@ -1,4 +1,5 @@
-# Règles de base
+
+# 1. Règles de base
 
 Voici les règles de base de la langue pandunia.
 Elles seront abordées plus en détail plus loin dans ce document.

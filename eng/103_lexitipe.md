@@ -1,4 +1,5 @@
-# What are words in Pandunia grammar?
+
+# 3. Word types in Pandunia
 
 ## Introduction
 

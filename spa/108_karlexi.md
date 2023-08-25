@@ -1,4 +1,5 @@
-# Verbos
+
+# 8. Verbos
 
 Verbos son inmutables en Pandunia.
 Cosas como persona, número, tiempo, y modo son indicadas por palabras distintas,

@@ -1,6 +1,7 @@
-# Podstawowe Zasady
 
-Oto 11 podstawowych zasad języka Pandunia.
+# 1. Podstawowe Zasady
+
+Oto 10 podstawowych zasad języka Pandunia.
 
 1. Ortografia odzwierciedla dokładnie wymowę.
 2. Akcentowana jest sylaba przed ostatnią spółgłoską.

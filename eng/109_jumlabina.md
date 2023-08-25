@@ -1,4 +1,5 @@
-# Sentence structures
+
+# 9. Sentence structures
 
 ## Building blocks for sentences
 
@@ -351,7 +352,7 @@ The object receives the energy and is affected by it.
 In general, there are three types of verbs.
 
 1. Transitive verbs need a direct object, which is the target of the action.
-2. Intransitive verbs don't accept an object. Then the action is directed to the subject.
+2. Intransitive verbs don't take an object. Then the action is directed to the subject.
 3. Ambitransitive verbs can be both transitive and intransitive.
 
 Pandunia verbs are typically ambitransitive

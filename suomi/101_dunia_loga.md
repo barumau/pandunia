@@ -1,8 +1,7 @@
-Maailman sanastot
-=================
 
-Kansainväliset sanat
---------------------
+# 10. Pandunian sanasto
+
+## Kansainväliset sanat
 
 Toisin kuin kenties usein luullaan, maailmassa on olemassa useita kansainvälisiä sanastoja.
 
@@ -18,8 +17,7 @@ Niiden rajat on piirretty summittaisesti alla olevaan maailman karttaan.
 ![](http://www.pandunia.info/grafe/linguisticspheres.gif "Kulttuuripiirit kartalla")
 
 
-Kuinka pandunian sanat saadaan?
--------------------------------
+## Mistä pandunian sanat tulevat?
 
 Pandunian sanat tulevat maailman laajiiten puhutuista kielistä. Sanat otetaan siten, että ne täyttävät kolme ehtoa:
 

@@ -1,4 +1,5 @@
-# Numerals
+
+# 6. Numerals
 
 ## Cardinal numbers
 

@@ -1,4 +1,5 @@
-# Derivación de palabras
+
+# 11. Derivación de palabras
 
 ¡Se pueden construir libremente palabras nuevas en Pandunia!
 Pandunia tiene un sistema productivo de derivación de palabras.

@@ -1,4 +1,5 @@
-# Modificadores
+
+# 7. Modificadores
 
 Un modificador es una palabra que agrega una calidad o descripción particular,
 por ejemplo _bueno_, _malo_, _grande_, o _rápido_, a una otra palabra.
