@@ -3,6 +3,7 @@
 
 ## Introduction
 
+Pandunia has a grammar that is systematic, regular but also rather flexible.
 One of the first things that a person notices about Pandunia is that its words don't ever change.
 Most words in Pandunia have one unchanging form,
 which does not change according to number, case, gender, tense, mood or
@@ -57,7 +58,7 @@ In fact, words don't ever change in Pandunia.
 So when one wants to express a new meaning or a nuance, one can't do that by modifying the words.
 One can express more things only by using more words or different words.
 For example, the verb **lai** ('to come') is changed to the past tense by adding a word that means the past:
-**pas lai** ('chame' or 'to chome in the past').
+**pas lai** ('came' or 'to come in the past').
 
 ## Content words and structure words
 
@@ -79,13 +80,73 @@ Content words, on the other hand, are typically longer.
 Structure words are best explained in the grammar,
 whereas content words are translated in the dictionary.
 
+In Pandunia, sentences are held together by a fixed group of structure words.
+They include pronouns (such as **mi** 'I' and **tu** 'you'),
+determiners (such as **un** 'a, one' and **la** 'the')
+and various grammatical particles (such as the affirmative and negative particles **ya** and **no**).
+Structure words make the syntactical structure easy to see,
+because they mark out the boundaries between sentence constituents.
+
+Therefore one can know the grammatical structure of a sentence by knowing the structure words only.
+It doesn't matter does one know any of the content words.
+It's because the structure words define the structure and the content words define the meaning.
+For example, consider the following sentence where only structure words are visible and content words are hidden.
+
+    ░░░░ ░░░░ ya ░░░░ ░░░░ un ░░░░ ░░░░.
+
+Here the structure words *ya* and *un* form a certain construction or mold where content words are inserted.
+The type and placement of the structure words reveals the structure of the mold.
+Namely, it is the transitive clause construction.
+It is identified by its three-part structure.
+First there is the subject (a noun phrase).
+It is followed by the predicate (a verb phrase),
+whose beginning is marked here by the affirmative particle *ya*.
+It is in turn followed by the object (another noun phrase),
+whose beginning is marked by the determiner *un* 'a, one'.
+
+    Figure. The transtive construction in three levels.
+    
+     ┌─────────┐ ┌───────────┐┌────────────┐
+     │ ░░░ ░░░ │ │ya ░░░ ░░░ ││ un ░░░ ░░░.│  WORD LEVEL
+     └────┬────┘ └─────┬─────┘└─────┬──────┘
+    ------│------------│------------│----------------------------
+    ┌─────┴─────┐┌─────┴─────┐┌─────┴─────┐
+    │NOUN PHRASE││VERB PHRASE││NOUN PHRASE│   PHRASE LEVEL
+    └─────┬─────┘└─────┬─────┘└─────┬─────┘
+    ------│------------│------------│----------------------------
+     ┌────┴────┐ ┌─────┴────┐  ┌────┴────┐    CLAUSE CONSTITUENT
+     │ SUBJECT │ │PREDICATE │  │ OBJECT  │    LEVEL
+     └─────────┘ └──────────┘  └─────────┘
+
+The transitive construction is one of the most common structures in Pandunia.
+Essentially it consists of following parts:  
+(det.) + NP + TAM + VP + det. + NP  
+where det. = determiner, TAM = tense, aspect or mood particle, NP = noun phrase and VP = verb phrase.
+It can be filled with different content words in order to give different specific meanings for the sentence,
+as in the table below.
+
+| Subject         | TAM    | Predicate   | Det.   | Object            |
+|-----------------|--------|-------------|--------|-------------------|
+| *suke bache*    | **ya** | *kitabe*    | **un** | *long letre.*     |
+| The happy child |        | writes      |        | a long letter.    |
+| *jun man*       | **ya** | *vide*      | **un** | *mei parke.*      |
+| The young man   |        | sees        |        | a beautiful park. |
+| *poli jen*      | **ya** | *vol shope* | **un** | nove dom.*        |
+| Many people     |        | want to buy |        | a new house.      |
+
+So the key to decoding Pandunia is to know the structure words and the clause constructions.
+There is a small and fixed number of both of them, about 40 structure words and less than 10 clause constructions.
+They form the molds where an endless amount of content words can be inserted in order to say anything that we can think of.
+
+
 ## Word classes
 
 Structure words can be categorized into word classes as follows:
 
 1. Pronouns : words that point to people and things.
 2. Prepositions : words that relate things and actions into circumstances
-3. Conjunctions : words that join phrases together
+3. Conjunctions : words that join phrases and clauses together
+4. Particles : words that indicate temporal, modal and structural relations.
 
 Content words can be classified further into the following word classes:
 
@@ -101,10 +162,10 @@ A word like
 ('love') can function as verb, noun or adjective
 depending on its position in the sentence.
 
-**mi _ame_ tu.**
-– I _love_ you. (verb)  
-**tu fikre mi su _ame_.**
-– You think about my _love_. (noun)  
-**mi kitabe un _ame_ angil.**
-– I write a _love_ letter. (adjective)
+*mi **ame** tu.*
+– I **love** you. (verb)  
+*tu fikre mi su **ame**.*
+– You think about my **love**. (noun)  
+*mi kitabe un **ame** angil.*
+– I write a **love** letter. (adjective)
 
