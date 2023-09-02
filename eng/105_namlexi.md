@@ -66,7 +66,7 @@ It is possible to specify plurality also by reduplication, by saying the noun tw
 Quantity words should not be used together with reduplication.
 Therefore, a phrase like
 **men buku buku**
-is wrong.
+is superfluous.
 
 ## Proper names
 

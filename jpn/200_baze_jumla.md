@@ -418,9 +418,9 @@
 私には2人の子供がいます(=2人います)。
 
 
-### san <small>知っている</small>
+### ken <small>知っている</small>
 
-**mi san da.**
+**mi ken da.**
 私は彼/彼女/その人を知っています。
 
 **sual tu ken vo jen?**
@@ -497,15 +497,15 @@
 この赤いのです。
 
 
-### cing <small>頼む、お願いする</small>
+### ching <small>頼む、お願いする</small>
 
-**mi cing tu yam cai.**
+**mi ching tu yam cai.**
 私はあなたにお茶を頼みます(=お茶をお願いします)。
 
-**mi cing tu lai dom.**
+**mi ching tu lai dom.**
 私はあなたに(私の)家に来るよう頼みます(=私の家に来てください)。
 
-**mi cing tu mede mi.**
+**mi ching tu mede mi.**
 私はあなたに私を助けるよう頼みます(=助けてください)。
 
 ヒント：直接頼む場合は全ての代名詞を除外します。

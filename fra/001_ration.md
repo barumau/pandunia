@@ -351,7 +351,7 @@ Le verbe **be** est utilisé lorsque l'objet d'une action vient en premier dans 
 Comme le chinois, le Pandunia ne marque pas les verbes avec un mot comme "to" (français : "à").
 
     Anglais :   I invite him to drink coffee.
-    Pandunia:   mi cing da yam kafe.
+    Pandunia:   mi ching da yam kafe.
     Chinois :   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
     Français :  Je l'invite à boire du café.
     

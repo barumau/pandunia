@@ -5,13 +5,13 @@ Możliwe jest tworzenie nowych słów w Panduni. Pandunia ma produktywny system 
 
 ## Przyrostki słowotwórcze
 
-### ja
+### -er
 
 Tworzy wykonawcę czynności z rdzeni-czynności. Określa osobę lub narzędzie wykonujące czynność.
 
-**loga** mówić; **loga ja** mówca, ten, kto mówi  
-**baka** piec; **baka ja** piekarz, ten, kto piecze  
-**lide** przewodzić; **lide ja** przywódca, ten, kto przewodzi
+**loge** mówić; **loger** mówca, ten, kto mówi  
+**beke** piec; **beker** piekarz  
+**lide** przewodzić; **lider ja** przywódca
 
 ### ta
 

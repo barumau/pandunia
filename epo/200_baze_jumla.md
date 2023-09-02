@@ -72,35 +72,35 @@ sŭahila *salaam*,
 indonezia *selamat*.</small>
 
 
-### xukre <small>dankon</small>
+### shukre <small>dankon</small>
 
 <p style="font-size:5em;">�</p>
 
-**xukre!**
+**shukre!**
 Dankon!
 
-**poli xukre!**
+**poli shukre!**
 Multajn dankojn!
 
-**ya, xukre.**
+**ya, shukre.**
 Jes, danke.
 
-**no, xukre.**
+**no, shukre.**
 Ne, danke.
 
-**xukre tu.**
+**shukre tu.**
 Dankon al vi.
 
-**mi xukre tu.**
+**mi shukre tu.**
 Mi dankas vin.
 
-**mi xukre tu mede mi.**
+**mi shukre tu mede mi.**
 Mi dankas vin pro vi helpis min.
 
-**xukre tu mede mi.**
+**shukre tu mede mi.**
 Dankon pro vi helpis min.
 
-**no yau xukre.**
+**no yau shukre.**
 Ne dankinde.
 
 
@@ -446,18 +446,18 @@ Mi volas havi novan telefonon.
 Mi havas da infanojn.
 
 
-### san <small>scii, koni</small>
+### ken <small>scii, koni</small>
 
-**mi san da.**
+**mi ken da.**
 Mi konas lin/ŝin.
 
-**sual tu san vo jen?**
+**sual tu ken vo jen?**
 Ĉu vi konas tiun personon?
 
-**sual tumen san semen?**
+**sual tumen ken semen?**
 Ĉu vi konas unu la alian?
 
-**mimen san semen de long.**
+**mimen ken semen de long.**
 Ni konas unu la alian longe.
 
 
@@ -533,15 +533,15 @@ Kiun pomon vi volas manĝi?
 Tiun ruĝan.
 
 
-### cing <small>peti</small>
+### ching <small>peti</small>
 
-**mi cing tu yam cai.**
+**mi ching tu yam cai.**
 Mi petas ke vi trinku teon.
 
-**mi cing tu lai dom.**
+**mi ching tu lai dom.**
 Mi petas ke vi venu hejmen.
 
-**mi cing tu mede mi.**
+**mi ching tu mede mi.**
 Mi petas ke vi helpu min.
 
 Noto: Faru mallongajn petojn forlasante la pronomojn.

@@ -14,13 +14,13 @@ et l'objet reçoit ou subit l'action.
 
 Le pandunia est une langue dont les phrases suivent généralement un ordre agent–verbe–patient i.e. sujet–verbe–objet.
 
-**mau yam muxu.**
+**mau yam mushu.**
 – Le chat (S) mange (V) la souris (O).
 
 Ici **mau** 'chat' est l'agent
-et **muxu** 'souris' est l'object.
+et **mushu** 'souris' est l'object.
 
-**mi saf kamar.**
+**mi safe kamar.**
 – Je nettoie une chambre.
 
 
@@ -51,7 +51,7 @@ La phrase passive peut être marquée par la verbe auxiliaire **be**.
 
 **koko be yam.**
 – Le poulet est mangé.  
-**kamar be saf.**
+**kamar be safe.**
 – Chambre est nettoyée.
 
 On peut indiquer l'agent avec la préposition **de**.
@@ -67,15 +67,15 @@ On peut indiquer l'agent avec la préposition **de**.
 Il n'y a pas d'expression systématique du temps en pandunia,
 mais le système des aspects est assez complet.
 
-**xuru**
+**shuru**
 'commencer'
 indique le début d'une action ou la transition vers une nouvelle situation.
 
-**mi xuru fuku la kote.**
+**mi shuru fuku la kote.**
 – Je commence à porter le manteau. ~ Je mets le manteau.  
-**kaguji ya xuru hogo.**
+**kaguji ya shuru hogo.**
 – Le papier commence à brûler.  
-**tu xuru yam.**
+**tu shuru yam.**
 – Tu commences à manger.
 
 **fin**
@@ -159,13 +159,13 @@ Il indique qu'une action est terminée et n'est plus pertinente pour la situatio
 **mi pas lai to site.**
 – Je suis venu en ville une fois.
 
-**xa**
+**sha**
 'sera, –rai'
 indique que l'événement se produira plus tard ou dans le futur.
 
-**da _xa_ es guru.**
+**da _sha_ es guru.**
 – Il ou elle sera enseignant(e).  
-**mi no _xa_ gul bir.**
+**mi no _sha_ gul bir.**
 – Je ne boirai pas de bière.
 
 

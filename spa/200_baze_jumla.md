@@ -73,24 +73,24 @@ Puedes usarla cuando quieras.
 indonesio: selamat.</small>
 
 
-### xukre <small>gracias</small>
+### shukre <small>gracias</small>
 
-**xukre!**
+**shukre!**
 ¡Gracias!
 
-**xukre tu.**
+**shukre tu.**
 Gracias. (a ti.)
 
-**mi xukre tu.**
+**mi shukre tu.**
 Te agradezco.
 
-**mi xukre tu mede mi.**
+**mi shukre tu mede mi.**
 Te agradezco por ayudarme.
 
-**xukre tu mede mi.**
+**shukre tu mede mi.**
 Gracias por ayudarme.
 
-**no yau xukre.**
+**no yau shukre.**
 De nada. No hay de qué.
 
 
@@ -414,18 +414,18 @@ Yo quiero tener un teléfono nuevo.
 Tengo dos niños.
 
 
-### san <small>saber, conocer</small>
+### ken <small>saber, conocer</small>
 
-**mi san da.**
+**mi ken da.**
 Yo lo/a conozco a él/ella.
 
-**sual tu san vo jen?**
+**sual tu ken vo jen?**
 ¿Conoces esa persona?
 
-**sual tumen san semen?**
+**sual tumen ken semen?**
 ¿Ustedes se conocen (entre ustedes)?
 
-**mimen san semen de long.**
+**mimen ken semen de long.**
 Nosotros nos conocemos (entre nosotros) hace tiempo.
 
 
@@ -502,15 +502,15 @@ No, no quiero té. Quiero café.
 Esta roja.
 
 
-### cing <small>pedir, solicitud, por favor</small>
+### ching <small>pedir, solicitud, por favor</small>
 
-**mi cing tu yam cai.**
+**mi ching tu yam cai.**
 Te pido que bebas té.
 
-**mi cing tu lai dom.**
+**mi ching tu lai dom.**
 Te pido que vengas a casa.
 
-**mi cing tu mede mi.**
+**mi ching tu mede mi.**
 Te pido que me ayudes.
 
 Ayuda: Para hacer solicitudes directas, no pongas ningún pronombre.

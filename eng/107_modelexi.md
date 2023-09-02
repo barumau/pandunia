@@ -23,9 +23,9 @@ B. **tu _mei_ di kitabe.**
 
 In Pandunia, "adjectives" are modifiers that are placed before the noun that they modify.
 
-**un _neu_ char**
+**un _neu_ gar**
 – a _new_ car  
-**un _suga_ char**
+**un _suga_ gar**
 – a _fast_ car  
 **men _dai_ meza**
 – _big_ tables  
@@ -36,7 +36,7 @@ In Pandunia, "adjectives" are modifiers that are placed before the noun that the
 
 Two or more modifiers can modify the same noun.
 
-**un shiu neu char**
+**un shiu neu gar**
 – a little new car
 
 

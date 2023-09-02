@@ -17,8 +17,8 @@ Oto 10 podstawowych zasad języka Pandunia.
     - przykład: **ban be yam.** = Jabłko jest jedzone.
 8. Czasowniki nie zmieniają się ze względu na osobę lub liczbę.
 9. W _strukturze osiowej_, dopełnienie przechodniego czasownika działa jako podmiot następnego czasownika.
-    - przykład: **mi cing tu don pesa.** = Proszę cię, żebyś dał me pieniądze.
+    - przykład: **mi ching tu don pesa.** = Proszę cię, żebyś dał me pieniądze.
 10. Zaimki Mogą być opuszczane, gdy są oczywiste i zbędne.
     - **mi sual tu baxa pandunia?** → **sual tu baxa pandunia?** = Mówisz w Panduni?
-    - **mi cing tu loga klar.** →  **cing loga klar.** = Proszę, mów wyraźnie.
+    - **mi ching tu loga klar.** →  **cing loga klar.** = Proszę, mów wyraźnie.
 

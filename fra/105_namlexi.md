@@ -38,8 +38,5 @@ Le nombre peut être mentionné avec des numéraux au besoin.
 
 ### Genre
 
-Le pandunia n'a pas de genre grammatical (maculin, féminin ou neutre).
-
-Certains mots ont un _genre naturel_.
-Ainsi, **fem** 'femme' est féminin et **man** 'homme' est masculin.
+Le pandunia n'a pas de genre grammatical (masculin, féminin, neutre ou aucun autre).
 

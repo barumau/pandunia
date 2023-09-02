@@ -244,7 +244,7 @@ In fact, the previous question is simply abbreviated from
 How are you? (Literally: _Are you good?_)  
 **mi hau.**
 I'm good.  
-**sual tu?**
+**tu ne?**
 And you?  
 **mi no hau.**
 I'm not good.
@@ -628,15 +628,15 @@ Are you thirsty?
 
 ## Part 3. Communication
 
-### af <small>sorry, pardon</small>
+### yaf <small>sorry, pardon</small>
 
-**af! mi no aha.**
+**yaf! mi no aha.**
 Sorry, I don't understand.
 
-**af! ye es ke?**
+**yaf! ye es ke?**
 Excuse me, what's this?
 
-**af. tu su nam es ke?**
+**yaf. tu su nam es ke?**
 Excuse me, what's your name?
 
 
@@ -681,7 +681,7 @@ I can speak a little Pandunia.
 **mi no bil english.**
 I can't speak English.
 
-**af. mi no bil tu su bashe.**
+**yaf. mi no bil tu su bashe.**
 Sorry, I can't speak your language.
 
 
@@ -717,10 +717,10 @@ I can't hear you.
 **ching loge max bala.**
 Please speak louder.
 
-**mi audi muzika.**
+**mi audi muzike.**
 I listen to music.
 
-**tu audi ke yang di muzika?**
+**tu audi ke yang di muzike?**
 What kind of music do you listen to?
 
 

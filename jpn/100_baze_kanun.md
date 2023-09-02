@@ -68,10 +68,10 @@
      動作の対象が動詞の直前にあることを示します。
      - **aple be yam.** = リンゴは食べられた。
    - 依存文では他動詞の目的語が次の動詞の主語として機能します。
-     - **mi cing tu don pesa.** = 私はあなたにお願いします + あなたはお金を与えます = 私はあなたがお金をくれるようお願いします。
+     - **mi ching tu don pesa.** = 私はあなたにお願いします + あなたはお金を与えます = 私はあなたがお金をくれるようお願いします。
    - 代名詞の対象が明確で、冗長に感じる場合は省略できます。
      - **mi** sual tu baxe pandunia? → sual tu baxe pandunia? = あなたはパンドゥニアを話せますか?
-     - **mi** cing tu ming loge. →  cing ming loge.
+     - **mi** ching tu ming loge. →  ching ming loge.
       = はっきりと話してください。
 10. **単語建造**：複合語は複数の単語を並べて形成されます。
     - **huru**(自由) + **sim**(主義) + **ja**(者) → **huru sim ja**(自由主義者)
@@ -533,7 +533,7 @@ sual tu baxe pandunia?
 
 #### 7.6.2. 小依存文(VVO)
 
-**mi** cing **tu** lai to dom.
+**mi** ching **tu** lai to dom.
 – 帰ってきてくれませんか。  
 cing lai to dom!
 – 帰ってきてください!
@@ -595,9 +595,9 @@ mi vide **no** tu ama damen.
 
 mi **cing** tu safe la kamar.
 – 私はあなたに部屋の掃除を**頼みます**。  
-mi **no** cing tu safe la kamar.
+mi **no** ching tu safe la kamar.
 – 私はあなたに部屋の掃除を頼み**ません**。  
-mi cing tu **no** safe la kamar.
+mi ching tu **no** safe la kamar.
 – 私はあなたに部屋の掃除を**しないよう**頼みます。
 
 **ya** と **no** は質問の回答にも使われます。

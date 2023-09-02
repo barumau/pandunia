@@ -144,7 +144,8 @@ animal
 = Hello!
 
 This is how people often greet each other in Pandunia.
-They say **sal**.
+They say
+**sal**.
 It is used for saying both hello and goodbye.
 
 **sal**
@@ -161,7 +162,9 @@ On the other hand, it comes from a common Middle Eastern word for wishing well-b
 It appears as *shlaam* in Aramaic, the language that Jesus of Nazareth spoke.
 In Hebrew it is *shalom*,
 and in Arabic it is *salaam*.
-Today it is a common greeting in hundreds of languages in Africa, Asia and Europe.
+So smething like
+**sal**
+is already a common greeting in hundreds of languages in Africa, Asia and Europe.
 
 Pandunia is a constructed world language
 that borrows and blends together international words from all parts of the world.
@@ -599,8 +602,8 @@ yes
 
 ### Answers to the Exercises
 
-1. sual tu baxe pandunia?
-2. ya. mi baxa pandunia.
+1. sual tu bashe pandunia?
+2. ya. mi bashe pandunia.
 3. sual mama yam kafe?
 4. no. da no yam kafe.
 5. sual da yam supe?
@@ -890,7 +893,7 @@ milk
 
 ### Answers to the Exercises
 
-1. mi su xefe festa a xa.
+1. mi su shefe feste a sha.
 2. mi ha du vaf a pas.
 3. tu yam supe a zai.
 4. da safe kamar a preden.

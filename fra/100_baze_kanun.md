@@ -18,10 +18,10 @@ Elles seront abordées plus en détail plus loin dans ce document.
 8. Le verbe auxiliaire **be** indique que le verbe est à la forme passive, et l'objet recevant l'action se place immédiatement avant le verbe.
     - ex. **aple be yam.** = Des pommes sont mangées.
 9. Dans la _structure pivot_, l'objet du verbe transitif fonctionne comme le sujet du verbe qui suit.
-    - ex. **mi cing tu don pesa.** = I te demande de donner de l'argent.
+    - ex. **mi ching tu don pesa.** = I te demande de donner de l'argent.
 10. Les pronoms peuvent être omis quand ils sont évidents et redondant.
     - **mi sual tu baxe pandunia?** → **sual tu baxe pandunia?** = Parles-tu le pandunia?
-    - **mi cing tu loge max ming.** →  **cing loge max ming.**
+    - **mi ching tu loge max ming.** →  **cing loge max ming.**
       = S'il te plait, parle plus distinctement.
 11. Les mots composés se construisent en mettant les mots-racines l'un à côté de l'autre.
     - ex. **hure** (liberté) + **isme** (idéologie) → **hurisme** (libéralisme)

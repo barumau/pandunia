@@ -421,18 +421,18 @@ Est-ce que tu as du vin?
 Oui, du blanc et du rouge.
 
 
-### san <small>connaître</small>
+### ken <small>connaître</small>
 
-**mi san da.**
+**mi ken da.**
 Je le/la connais.
 
-**sual tu san vo jen?**
+**sual tu ken vo jen?**
 Est-ce que tu connais cette personne ?
 
-**sual tumen san semen?**
+**sual tumen ken semen?**
 Est-ce que vous vous connaissez l’un l’autre?
 
-**mimen san semen de long.**
+**mimen ken semen de long.**
 Nous nous connaissons [l’un l’autre] depuis longtemps.
 
 
@@ -510,15 +510,15 @@ La rouge. (mot à mot _cette rouge-ci_)
 
 
 
-### cing <small>demander, s’il vous plait</small>
+### ching <small>demander, s’il vous plait</small>
 
-**mi cing tu yam cai.**
+**mi ching tu yam cai.**
 Je te demande si tu veux du thé.
 
-**mi cing tu lai dom.**
+**mi ching tu lai dom.**
 Je te demande de venir à la maison.
 
-**mi cing tu mede mi.**
+**mi ching tu mede mi.**
 Je te demande de m’aider.
 
 Astuce : Pour créer des demandes directes, retirez les pronoms.

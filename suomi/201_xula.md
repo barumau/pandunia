@@ -261,23 +261,23 @@ pomo, päällikkö
 **halo, cin pa!**
 = Hei, isoisä!  
 <big>☺</big>
-**halo! cing side.**
+**halo! ching side.**
 = Hei! Istu, ole hyvä!  
 <big>☻</big>
-**xukre.**
+**shukre.**
 = Kiitos.  
 <big>☺</big>
 **cing yam kafe o cai.**
 = Joisitko kahvia tai teetä?  
 <big>☻</big>
-**ama mi yam un di cai! xukre.**
+**ama mi yam un di cai! shukre.**
 = Mutta minähän juon vain teetä! Kiitos.  
 ...  
 <big>☻</big>
 **cin pa, mi mus ga a zai.**
 = Isoisä, Minun täytyy lähteä nyt.  
 <big>☺</big>
-**oke. cing sal tu su mama!**
+**oke. ching sal tu su mama!**
 = OK. Kerro terveisiä äidillesi!  
 <big>☻</big>
 **mi sal da. sal reste!**
@@ -293,7 +293,7 @@ Pandunian persoonapronominit ovat: **mi** = minä, **tu** = sinä, ja **da** = h
 Kuten suomessa, myös panduniassa persoonapronomineilla ei jaotella sukupuolta.
 Kaikkia edellä mainittuja persoonapronomineja käytettään seuraavassa esimerkkilauseessa.
 
-**mi cing tu sal da.**
+**mi ching tu sal da.**
 = Minä pyydän sinua tervehtimään häntä.
 
 Lauseessa on niin sanottu _saranarakenne_. Ensimmäinen verbi,
@@ -321,7 +321,7 @@ Toisin sanoen puhuja voi turvallisin mielin olettaa,
 että kuulijat tietävät mistä tai kenestä hän puhuu, eikä hänen tarvitse jatkuvasti toistaa niitä.
 Tällä tavalla lauseista voi tehdä lyhyempiä.
 
-**mi cing tu sal da.**
+**mi ching tu sal da.**
 = Minä pyydän sinua tervehtimään häntä.  
 **cing sal da.**
 = (Pyydän,) tervehdi häntä.
@@ -383,7 +383,7 @@ tee
 pyytää; ole hyvä  
 **don**
 antaa  
-**xukre**
+**shukre**
 kiitos  
 **e**
 ja  
@@ -406,9 +406,9 @@ syödä tai juoda
 ### Harjoitusten vastaukset
 
 1. da yam cai.
-2. la xefe cing da side.
-3. cing yam kafe o cai.
-4. mama cing mi saf kamar.
+2. la xefe ching da side.
+3. ching yam kafe o cai.
+4. mama ching mi saf kamar.
 5. xefe side e yam kafe.
 
 
@@ -453,7 +453,7 @@ syödä tai juoda
 **no yam.**
 = Ei.  
 <big>☺</big>
-**xukre. mi dona un cai e un kafe e un supe pos des minute.**
+**shukre. mi dona un cai e un kafe e un supe pos des minute.**
 = Kiitos. Minä tuon yhden teen, yhden kahvin ja yhden keiton kymmenen minuutin päästä.
 
 
@@ -589,11 +589,11 @@ tervehtimisen olemassaolon.
 Panduniassa kieltosana vaikuttaa aina seuraavaan sanaan.
 Siis eri asiat tulevat kielletyksi, kun kieltosanan paikka lauseessa muuttuu.
 
-**mi cing tu saf la kamar.**
+**mi ching tu saf la kamar.**
 = Minä pyydän sinua siivoamaan huoneen.  
-**mi no cing tu saf la kamar.**
+**mi no ching tu saf la kamar.**
 = Minä EN pyydä sinua siivoamaan huonetta.  
-**mi cing tu no saf la kamar.**
+**mi ching tu no saf la kamar.**
 = Minä pyydän sinua ETTET siivoa huonetta.
 
 Kielletty sana voi olla mitä tahansa tyyppiä: verbi, pronomini,

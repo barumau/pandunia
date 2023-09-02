@@ -3,9 +3,9 @@
 
 Un modificateurs est un mot qui ajoute une qualité ou une description à un autre mot, par exemple _bon, mauvais, gros_ et _rapide_.
 
-**un _neu_ car**
+**un _neu_ gar**
 – une voiture nouvelle  
-**un _suga_ car**
+**un _suga_ gar**
 – voiture(s) rapide(s)
 **men _dai_ meza**
 – grande(s) table(s)  
@@ -16,7 +16,7 @@ Un modificateurs est un mot qui ajoute une qualité ou une description à un aut
 
 Deux adjectifs ou plus peuvent modifier un même mot.
 
-**un xiu neu car**
+**un shiu neu gar**
 – petite voiture neuve
 
 L'adjectif peut se placer aussi après le nom.

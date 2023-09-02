@@ -186,7 +186,7 @@ Esto es común especialmente en mandatos y pedidos.
 
 ### Estructura de eje corta (VVO)
 
-**mi cing tu lai to dom.**
+**mi ching tu lai to dom.**
 – Yo te pido que vienes a casa.  
 **cing lai to dom!**
 – ¡Por favor viene a casa!

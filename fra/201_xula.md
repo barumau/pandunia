@@ -7,20 +7,21 @@ hide:
 
 ## Se présenter
 
-Note : Au travers des leçons proposées sur cette page, vous
-remarquerez que le pronom à la deuxième personne du singulier -
-**te** (en Pandunia) -, est tantôt famillier (tutoiement) tantôt
-soutenu (vouvoiement) selon le contexte. Ces traductions sont
-purement arbitraires, car en Pandunia le **te** est toujours neutre
-sur le plan de la politesse et de l'intimité.
+Note : Au travers des leçons proposées sur cette page,
+vous remarquerez que le pronom à la deuxième personne du singulier -
+**tu**
+(en Pandunia) -, est tantôt famillier (tutoiement) tantôt soutenu (vouvoiement) selon le contexte.
+Ces traductions sont purement arbitraires, car en Pandunia le
+**tu**
+est toujours neutre sur le plan de la politesse et de l'intimité.
 
 ### Dialogue
 
 <big>☺</big>g>
-**halo!**
+**sal!**
 = Salut!  
 <big>☻</big>g>
-**salam!**
+**sal!**
 = Salut!  
 <big>☺</big>g>
 **tu es ke?**
@@ -143,7 +144,8 @@ animal
 = Bonjour ! | Salut !
 
 C'est de cette manière que les gens se saluent en Pandunia.
-Ils disent **salam**
+Ils disent
+**sal**
 à la fois pour dire bonjour et au revoir.
 
 **sal**
@@ -153,7 +155,9 @@ Le mot
 **sal**
 signifie "salutation".
 
-**sal** est aussi un verbe.
+Le mot
+**sal**
+est aussi un verbe.
 
 **mi sal tu.**
 = Je te salue.  
@@ -162,7 +166,7 @@ signifie "salutation".
 
 Ce sont des phrases actives.
 Dans les phrases actives l'action du sujet se fait sur l'objet. Dans
-**mi salam tu**
+**mi sal tu**
 le premier mot
 **mi**
 est le sujet,
@@ -174,11 +178,16 @@ L'ordre du sujet, du verbe et de l'objet est important et ne change jamais.
 
 > Ordre des mots dans une phrase active : Sujet + Verbe + Complément
 
-Les pronoms personnels en Pandunia sont : **mi** = je, **tu** = tu,
-et **da** = il, elle, il neutre. Notez que les pronoms restent les
-mêmes dans les phrases d'exemples précédentes. Les mots ne changent
-jamais en Pandunia ; ils restent toujours les mêmes peu importe leur
-position dans une phrase. 
+Les pronoms personnels en Pandunia sont :
+**mi**
+'je',
+**tu**
+'tu', et
+**da**
+'il, elle, il neutre'.
+Notez que les pronoms restent les mêmes dans les phrases d'exemples précédentes.
+Les mots ne changent jamais en Pandunia ;
+ils restent toujours les mêmes peu importe leur position dans une phrase.
 
 En Pandunia, les phrases peuvent être raccourcies en omettant les
 pronoms lorsque ceux-ci se devinent.
@@ -190,22 +199,25 @@ pronoms lorsque ceux-ci se devinent.
 **sal!**
 = Salutation ! (Il est évident que les interlocuteurs sont salués.)
 
-Le modèle **salam te** est pratique pour s'adresser aux gens par leur nom, leur lien de parenté ou leur profession.
+Le modèle
+**sal tu**
+est pratique pour s'adresser aux gens par leur nom, leur lien de parenté ou leur profession.
 
-Il existe un autre mot pour saluer : **halo**.  C'est également un
-mode de salutation largement utilisé à l'échelle internationale. Vous
-pouvez librement choisir lequel utiliser pour saluer les gens.
+Il existe un autre mot pour saluer :
+**halo**.
+ C'est également un mode de salutation largement utilisé à l'échelle internationale.
+ Vous pouvez librement choisir lequel utiliser pour saluer les gens.
 
 **halo!**
 = Bonjour ! | Salut !
 
 **halo, toni!**
 – Bonjour | Salut, Tony !  
-**salam, mama!**
+**sal, mama!**
 – Bonjour | Salut, maman !  
 **halo, papa!**
 – Bonjour | Salut, papa !  
-**sal, xefe!**
+**sal, shefe!**
 – Salut, chef !
 
 
@@ -253,7 +265,7 @@ chef, patron
 **halo!**
 = Bonjour !  
 <big>🧓</big>
-**halo! cing side.**
+**halo! ching side.**
 = Bonjour ! Asseyez-vous je vous prie !  
 <big>🧒</big>
 **xukre.**
@@ -285,7 +297,7 @@ sexes des pronoms à la troisième personne ou de n'importe quels
 autres pronoms. Tous les pronoms personnels sont présents dans la
 phrase suivante.
 
-**mi cing tu sal da.**
+**mi ching tu sal da.**
 = Je te demande de le/la saluer.
 
 Cette phrase a une _structure pivot_.
@@ -316,7 +328,7 @@ auditeurs savent de qui il parle. Il n'est donc pas nécessaire de les
 répéter sans cesse. De cette manière, les phrases peuvent être
 raccourcies.
 
-**mi cing tu sal da.**
+**mi ching tu sal da.**
 = Je te demande de le/la saluer.  
 **cing sal da.**
 = S'il te plaît salue le/la.
@@ -405,9 +417,9 @@ manger ou boire, consommer
 ### Réponses aux exercices
 
 1. da yam cai.
-2. la xefe cing da side.
-3. cing yam kafe o cai.
-4. mama cing mi saf kamar.
+2. la xefe ching da side.
+3. ching yam kafe o cai.
+4. mama ching mi saf kamar.
 5. xefe side e yam kafe.
 
 
@@ -419,7 +431,7 @@ manger ou boire, consommer
 ### Dialogue
 
 <big>👩‍🍳</big>
-**salam! sual tu yam kafe o cai?**
+**sal! sual tu yam kafe o cai?**
 = Bonjour ! Prenez-vous du café ou du thé ?  
 <big>🧔</big>
 **cai.**
@@ -579,35 +591,35 @@ aux questions. Le mot **no** est utilisé pour répondre par la
 négative. L'ajout du **no** devant le verbe transforme donc une
 phrase affirmative en phrase négative.
 
-**mi salam tu.**
+**mi sal tu.**
 = Je vous salue.  
-**mi no salam tu.**
+**mi no sal tu.**
 = Je ne vous salue pas.
 
 Conceptuellement, la négation signifie l'absence ou la non-existence du mot nié (ne pas y avoir).
 Dans la phrase
-**mi no salam tu**
+**mi no sal tu**
 le mot **no** nie l'existence de la salutation.
 En Pandunia, la négation affecte le mot qui le suit ;
 le sens de la phrase change donc selon l'emplacement du **no**.
 
-**mi cing tu saf la kamar.**
+**mi ching tu safe kamar.**
 = Je te demande de nettoyer la chambre.  
-**mi no cing tu saf la kamar.**
+**mi no ching tu safe kamar.**
 = Je ne te demande pas de nettoyer la chambre.  
-**mi cing tu no saf la kamar.**
+**mi ching tu no safe kamar.**
 = Je te demande de ne pas nettoyer la chambre.
 
 
 Le mot nié peut être de n'importe quel type : verbe, pronom, nom, adjectif et même numéral.
 
-**da no ten mau.**
+**da no ha mau.**
 = Elle n'a pas de chat.  
-**da ten no mau, ama vaf.**
+**da no ha mau, ama vaf.**
 = Elle n'a pas de chats, mais des chiens.  
-**no da, ama mi ten mau.**
+**no da, ama mi ha mau.**
 = Pas elle, mais j'ai des chats.  
-**mi ten no un, ama du mau.**
+**mi ha no un, ama du mau.**
 = Je n'ai pas un, mais deux chats.
 
 

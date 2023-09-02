@@ -15,6 +15,18 @@ Les pronoms servent à remplacer des noms et des groupes nominaux.
 | **da**      | **damen**    |
 | il, elle, le, lui, la | ils, elles, les, leur |
 
+Les pronoms possessifs sont construit avec le particle
+**su**.
+
+| Singular    | Plural       |
+|:------------|:-------------|
+| **mi su**   | **mimen su** |
+| mon         | nôtre        |
+| **tu su**   | **tumen su** |
+| ton         | vôtre        |
+| **da su**   | **damen su** |
+| son         | leur         |
+
 
 ## Le pronom réfléchi
 

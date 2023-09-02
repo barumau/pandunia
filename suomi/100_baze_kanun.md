@@ -65,10 +65,10 @@
           – Ihmiset puhuvat panduniaa.
     - Aktiivisen verbin objekti voi toimia seuraavan verbin subjektina.
       Tämä on ns. _saranarakenne_.
-        - **mi cing tu loge pandunia.**
+        - **mi ching tu loge pandunia.**
           – Minä pyydän sinua puhumaan panduniaa.
     - Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
-        - **_mi_ cing _tu_ loge pandunia.**
+        - **_mi_ ching _tu_ loge pandunia.**
           → **cing loge pandunia.**
           – Pyydän, puhu panduniaa.
 10. **Sanojen johtaminen:**

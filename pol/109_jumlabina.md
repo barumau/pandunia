@@ -168,7 +168,7 @@ Dochodzi do tego szczególnie w rozkazach i prośbach.
 
 #### Krótka struktura osiowa (VVO)
 
-**mi cing tu lai dom.**
+**mi ching tu lai dom.**
 – Proszę cię, żebyś wrócił do domu.  
 **cing lai dom!**
 – Proszę, wróć do domu! (Dosłownie _Prosić wrócić dom!_)

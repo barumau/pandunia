@@ -282,15 +282,16 @@ Co to?
 **ye aple.**
 To jest jabłko.
 
-**ye rubi aple.**
+**ye es rubi aple.**
 To jest czerwone jabłko.
 
-**ye aple rubi.**
+**ye aple es rubi.**
 Te jabłko jest czerwone.
 
-Uwaga: Kiedy przymiotnik, jak **rubi**, jest  umieszczony przed rzeczownikiem, działa jako przydawka. Kiedy jest po rzeczowniku, działa jako "przymiotnikowy" czasonik.
+Uwaga: Kiedy przymiotnik, jak **rubi**, jest  umieszczony przed rzeczownikiem, działa jako przydawka.
+Kiedy jest po rzeczowniku, działa jako "przymiotnikowy" czasonik.
 
-**ye rubi.**
+**ye es rubi.**
 Jest czerwone.
 
 
@@ -300,18 +301,21 @@ Jest czerwone.
 **ye es ke?**
 Co to jest?
 
-**ye es mi su fon.**
+**da es mi su telefon.**
 To mój telefon.
 
 **ye es ke su?**
 Czyje to?
 
-**ye es mi su.**
+**da es mi su.**
 To jest moje.
 
-Uwaga: Partykuła dzierżawcza **su**
-jest umiejscawiana między właściciela i posiadaną rzecz, więc **mi su**
-znaczy "mój", **tu su**
+Uwaga: Partykuła dzierżawcza
+**su**
+jest umiejscawiana między właściciela i posiadaną rzecz, więc
+**mi su**
+znaczy "mój",
+**tu su**
 znaczy "twój" i tak dalej.
 
 **da es ke?**
@@ -328,19 +332,19 @@ Jestem przyjacielem Sary.
 
 ### nam <small>name</small>
 
-**tu nam ke?**
+**tu su nam es ke?**
 Jak się nazywasz? (Dosłownie: Czym jest twoje imię?)
 
-**mi nam Tomas.**
+**mi su nam es Tomas.**
 Nazywam się Tomasz.
 
-**da nam ke?**
+**da su nam es ke?**
 Jak ona jest nazywana?
 
-**da nam Sara.**
+**da su nam es Sara.**
 Ona jest nazywana Sarą.
 
-**mi nam Tomas.**
+**mi su nam es Tomas.**
 Ja jestem nazywany Tomaszem.
 
 <small>Etymologia. **nam**
@@ -366,25 +370,25 @@ Mam dwoje dzieci.
 
 
 
-### san <small>wiedzieć, znać</small>
+### ken <small>wiedzieć, znać</small>
 
-**mi san da.**
+**mi ken da.**
 Znam go/ją.
 
-**sual tu san ye jen?**
+**sual tu ken ye jen?**
 Czy znasz tę osobę?
 
-**sual tumen san semen?**
+**sual tumen ken semen?**
 Czy znacie się?
 
-**mimen san semen de long.**
+**mimen ken semen de long.**
 Znamy się od długiego (czasu).
 
 
 
 ### mede <small>pomoc</small>
 
-**mi yau mede.**
+**mi yau yo mede.**
 Potrzebuję pomocy.
 
 **sual tu bil mede mi?**
@@ -403,7 +407,7 @@ Czy mogę ci pomóc?
 **sual tu vol yam yo?**
 Czy chcesz zjeść coś?
 
-**da yam aple.**
+**da yam un aple.**
 Je jabłko.
 
 **damen yam aple.**
@@ -454,51 +458,51 @@ Te czerwone.
 
 
 
-### cing <small>prosić</small>
+### ching <small>prosić</small>
 
-**mi cing tu yam cai.**
+**mi ching tu yam cai.**
 Proszę, żebyś napił się herbaty.
 
-**mi cing tu lai dom.**
+**mi ching tu lai dom.**
 Proszę, żebyś przyszedł do domu.
 
-**mi cing tu mede mi.**
+**mi ching tu mede mi.**
 Proszę, żebyś mi pomógł.
 
 Porada: By tworzyć bezpośrednie prośby, opuść wszystkie zaimki.
 
-**cing yam cai.**
+**ching yam chai.**
 Proszę, napij się herbaty!
 
-**cing yam kafe.**
+**ching yam kafe.**
 Proszę, napij się kawy!
 
-**cing lai dom.**
+**ching lai dom.**
 Proszę, przyjdź do domu!
 
-**cing mede mi.**
+**ching mede mi.**
 Proszę, pomóż mi.
 
 
 
-### xukre <small>dzięki</small>
+### shukre <small>dzięki</small>
 
-**xukre!**
+**shukre!**
 Dzięki!
 
-**xukre tu.**
+**shukre tu.**
 Dzięki ci.
 
-**mi xukre tu.**
+**mi shukre tu.**
 Dziękuję tobie.
 
-**mi xukre tu mede mi.**
+**mi shukre tu mede mi.**
 Dziękuję tobie, że pomogłeś mi.
 
-**xukre tu mede mi.**
+**shukre tu mede mi.**
 Dzięki tobie, że pomogłeś mi.
 
-**tu keci.**
+**tu kechi.**
 Nie ma za co. (Dosłownie: _Jesteś uprzejmy._)
 
 
@@ -518,7 +522,7 @@ Chodź do domu.
 
 ### yau <small>potrzebować</small>
 
-**mi yau mede.**
+**mi yau yo mede.**
 Potrzebuję pomocy.
 
 **mi yau yam.**
@@ -535,15 +539,15 @@ Czy jesteś spragniony?
 
 ## Part 3. Komunikacja
 
-### pardon <small>przepraszam, pardon, sory</small>
+### yaf <small>przepraszam, pardon, sory</small>
 
-**pardon! mi no aha.**
+**yaf! mi no aha.**
 Przepraszam, nie rozumiem.
 
-**pardon! ye ke?**
+**yaf! ye ke?**
 Przepraszam, co to?
 
-**pardon. tu namu ke?**
+**yaf. tu su nam es ke?**
 Przepraszam, jak się nazywasz?
 
 
@@ -562,20 +566,20 @@ Przepraszam., nie rozumiem cię.
 **mi no bas aha tu.**
 Niezbyt zrozumiałem cię.
 
-**mi aha no xe.**
+**mi aha no she.**
 Nic nie rozumiem.
 
 
 
 ### bil <small>móc, umieć</small>
 
-**mi bil xofe kar.**
+**mi bil shofe char.**
 Umiem kierować samochodem.
 
-**da no bil xofe kar.**
+**da no bil shofe char.**
 Nie umie kierować samochodem.
 
-**sual tu bil xuli da?**
+**sual tu bil shuli da?**
 Czy umiesz to naprawić?
 
 **sual tu bil pandunia?**
@@ -587,10 +591,10 @@ Umiem mówić w Panduni.
 **mi bil kam pandunia.**
 Umiem trochę mówić w Panduni.
 
-**mi no bil englix.**
+**mi no bil english.**
 Nie znam języka angielskiego.
 
-**maf. mi no bil tu su baxa.**
+**yaf. mi no bil tu su bashe.**
 Przepraszam. Nie mówię w twoim języku.
 
 
@@ -622,20 +626,20 @@ Kot mówi miau.
 **mi no bil audi tu.**
 Nie mogę cię usłyszeć.
 
-**cing loge max bala.**
+**ching loge max bala.**
 Proszę, mów głośniej.
 
-**mi audi muzika.**
+**mi audi muzike.**
 Słucham muzyki.
 
-**tu audi ke yang di muzika?**
+**tu audi ke yang di muzike?**
 Jakiego rodzaju muzyki słuchasz?
 
 
 
 ### vide <small>widzieć</small>
 
-**suka vide tu.**
+**suke vide tu.**
 Miło cię widzieć!
 
 **to rivide!**
@@ -650,41 +654,41 @@ Widziałem go/ją wczoraj.
 
 
 
-### semi <small>znaczyć</small>
+### seme <small>znaczyć</small>
 
-**ye loge semi ke?**
+**ye lexe ya seme ke?**
 Co znaczy to słowo?
 
-**"mau" semi ke?**
+**"mau" ya seme ke?**
 Co znaczy "mau"?
 
-**da semi yang de hewan.**
+**da seme un yang de hevan.**
 To oznacza rodzaj zwierzęcia.
 
-**mi no aha da semi ke.**
+**mi no aha da seme ke.**
 Nie rozumiem, co to znaczy.
 
 
 
-### kitaba <small>pisać</small>
+### kitabe <small>pisać</small>
 
-**cing kitaba tu su adres.**
+**ching kitabe tu su adres.**
 Proszę, napisz swój adres.
 
-**cing kitaba da a ye.**
+**ching kitabe da a ye.**
 Proszę, napisz to tutaj!
 
 
 
-### baxa <small>mówić w języku, komunikować się</small>
+### bashe <small>mówić w języku, komunikować się</small>
 
-**sual tumen baxa pandunia.**
+**sual tumen bashe pandunia.**
 Czy mówicie w Panduni?
 
-**mimen baxa pandunia.**
+**mimen bashe pandunia.**
 Mówimy w Panduni.
 
-**sual tu bil baxa englix?**
+**sual tu bil bashe english?**
 Czy umiesz mówić w języku angielskim?
 
 **franse, espanya, portugal, rus**
@@ -728,7 +732,7 @@ Pójdźmy pieszo!
 
 ### lai <small>przybywać, przychodzić</small>
 
-**cing lai!**
+**ching lai!**
 Przyjdź tu!
 
 **tu lai de ke?**
@@ -801,7 +805,7 @@ Jakkolwiek **dom** już obejmuje znaczenie bycia w czymś, więc **a** nie jest 
 
 ### dele <small>czekać</small>
 
-**cing dele!**
+**ching dele!**
 Proszę, czekaj!
 
 **damen dele mimen.**
@@ -817,10 +821,10 @@ Czekam na ciebie w hotelu.
 
 ### don <small>dać</small>
 
-**cing don pesa.**
+**ching don pesa.**
 Proszę, daj trochę pieniędzy.
 
-**cing don da to mi.**
+**ching don da to mi.**
 Proszę, daj mi to.
 
 **mi don ye to tu.**
@@ -833,17 +837,17 @@ Daję im książkę.
 Nie chce dać mi tego.
 
 
-### cepe <small>brać, dostawać</small>
+### sepe <small>brać, dostawać</small>
 
-**mi cepe un kafe.**
+**mi sepe un kafe.**
 Wezmę kawę.
 
-**cing cepe un kafe to mi.**
+**ching sepe un kafe to mi.**
 Proszę, weź kawę dla mnie.
 
-**tu pas cepe pesa de mi.**
+**tu pas sepe pesa de mi.**
 Już dostałeś ode mnie pieniądze.
 
-**mi cepe un bir.**
+**mi sepe un bir.**
 I will take a beer.
 

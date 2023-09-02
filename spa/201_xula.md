@@ -236,16 +236,16 @@ Pidiendo
 **halo!**
 – ¡Hola!  
 <big>☺</big>
-**halo! cing side.**
+**halo! ching side.**
 – ¡ Hola!¡ Por favor sientese!  
 <big>☻</big>
-**xukre.**
+**shukre.**
 – ¡Gracias!  
 <big>☺</big>
 **cing yam kafe o cai.**
 – Por favor beba algo de café o té.  
 <big>☻</big>
-**mi vol cai. xukre.**
+**mi vol cai. shukre.**
 – Quiero té, gracias.  
 ...  
 <big>☺</big>
@@ -272,7 +272,7 @@ Pandunia es una lengua de género neutral.
 No distingue sexos en los pronombres de las terceras personas o en otros pronombres.
 Todos los pronombres personales son usados en la siguiente oración.
 
-**mi cing tu sal da.**
+**mi ching tu sal da.**
 – Yo pedirte saludar a él/ella. (Te pido que saludes)
 
 Esta oración es una _oración eje_. El primer verbo,
@@ -300,7 +300,7 @@ seguridad que los oyentes saben de lo que él o ella está hablando.
 Por lo tanto, es innecesario seguir repitiéndolas. De esta manera se
 pueden hacer frases más cortas. 
 
-**mi cing tu sal da.**
+**mi ching tu sal da.**
 – Yo te pido digas hola a él.
 **cing sal da.**
 – Por favor dile hola.
@@ -356,7 +356,7 @@ té
 pedir, solicitar; por favor  
 **don**
 dar  
-**xukre**
+**shukre**
 gracias  
 **e**
 y  
@@ -381,9 +381,9 @@ algo
 ### Respuestas
 
 1. da yam cai.
-2. la xefe cing da side.
-3. cing yam kafe o cai.
-4. mama cing mi saf kamar.
+2. la xefe ching da side.
+3. ching yam kafe o cai.
+4. mama ching mi saf kamar.
 5. xefe side e yam kafe.
 
 
@@ -426,7 +426,7 @@ algo
 **no yam.**
 – No.  
 <big>☺</big>
-**xukre. mi don un cai e un kafe e un supe pos des minute.**
+**shukre. mi don un cai e un kafe e un supe pos des minute.**
  – ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
 
 
@@ -559,11 +559,11 @@ niega la existencia de
 En Pandunia la palabra negativa ne se aplica a la palabra que la sigue.
 Si que diferentes alcances de negación pueden resultar en función de la ubicación de la palabra negativa.
 
-**mi cing tu saf kamar.**
+**mi ching tu saf kamar.**
 – Yo te pedi limpiar la habitación.  
-**mi no cing tu saf kamar.**
+**mi no ching tu saf kamar.**
 – Yo no te pedi limpiar la habitación.  
-**mi cing tu no saf kamar.**
+**mi ching tu no saf kamar.**
 – Yo te pedi no limpiar la habitación.  
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 

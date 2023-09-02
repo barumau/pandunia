@@ -72,24 +72,24 @@ Você pode usá-lo sempre que quiser.
 Indonésio: selamat.</small>
 
 
-### xukre <small>obrigado</small>
+### shukre <small>obrigado</small>
 
 **xucur!**
 Obrigada!
 
-**xukre tu.**
+**shukre tu.**
 Obrigado a você.
 
-**mi xukre tu.**
+**mi shukre tu.**
 Te agradeço.
 
-**mi xukre tu mede mi.**
+**mi shukre tu mede mi.**
 Agradeço por me ajudar.
 
-**xukre tu mede mi.**
+**shukre tu mede mi.**
 Obrigado por ajudar.
 
-**no yau xukre.**
+**no yau shukre.**
 De nada.
 
 
@@ -413,18 +413,18 @@ Você tem filhos?
 Tenho dois filhos.
 
 
-### san <small>saber, conhecer</small>
+### ken <small>saber, conhecer</small>
 
-**mi san da.**
+**mi ken da.**
 Eu o conheço.
 
-**sual tu san vo jen?**
+**sual tu ken vo jen?**
 Você conhece essa pessoa?
 
-**sual tumen san semen?**
+**sual tumen ken semen?**
 Vocês se conhecem?
 
-**mimen san semen de long.**
+**mimen ken semen de long.**
 Nós nos conhecemos há muito tempo.
 
 
@@ -498,15 +498,15 @@ Qual maçã você quer?
 Isso vermelho.
 
 
-### cing <small>pedir, por favor</small>
+### ching <small>pedir, por favor</small>
 
-**mi cing tu yam cai.**
+**mi ching tu yam cai.**
 Peço-lhe para beber chá.
 
-**mi cing tu lai dom.**
+**mi ching tu lai dom.**
 Peço-lhe que volte para casa.
 
-**mi cing tu mede mi.**
+**mi ching tu mede mi.**
 Peço-lhe que me ajude.
 
 Para fazer pedidos diretos, não coloque nenhum pronome.

@@ -476,7 +476,7 @@ lub słowami jak "to".
 
     Polski:     Zapraszam go do wypicia kawy.
     Angielski:  I invite him to drink coffee.
-    Pandunia:   mi cing da yam kafe.
+    Pandunia:   mi ching da yam kafe.
     Chiński:    Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 W Panduni i chińskim, rzeczowniki mogą być w liczbie pojedynczej lub

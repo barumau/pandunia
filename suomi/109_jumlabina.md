@@ -181,7 +181,7 @@ Tällä tavalla lauseista voi tulla lyhyempiä.
 
 ### Short pivot structure (VVO)
 
-**mi cing tu lai to dom.**
+**mi ching tu lai to dom.**
 – Minä pyydän sinua tulemaan kotiin.  
 **cing lai to dom!**
 – (Pyydän) tule kotiin!
@@ -366,11 +366,11 @@ Se vaikuttaa aina vain seuraavaan sanaan.
 **mi vide no tu ama damen.**
 = Minä näen, en sinua, vaan heidät.
 
-**mi cing tu saf la kamar.**
+**mi ching tu saf la kamar.**
 – Minä pyydän sinua siivoamaan huoneen.  
-**mi no cing tu saf la kamar.**
+**mi no ching tu saf la kamar.**
 – Minä en pyydä sinua siivoamaan huonetta.  
-**mi cing tu no saf la kamar.**
+**mi ching tu no saf la kamar.**
 – Minä pyydän sinua olemaan siivoamatta huonetta.
 
 

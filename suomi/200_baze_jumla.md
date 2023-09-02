@@ -74,35 +74,35 @@ swahili *salaam*,
 indonesia *selamat*.</small>
 
 
-### xukre <small>kiitos</small>
+### shukre <small>kiitos</small>
 
 <p style="font-size:5em;">🙏</p>
 
-**xukre!**
+**shukre!**
 Kiitos!
 
-**poli xukre!**
+**poli shukre!**
 Paljon kiitoksia!
 
-**ya, xukre.**
+**ya, shukre.**
 Kyllä, kiitos.
 
-**no, xukre.**
+**no, shukre.**
 Ei, kiitos.
 
-**xukre tu.**
+**shukre tu.**
 Kiitos sinulle.
 
-**mi xukre tu.**
+**mi shukre tu.**
 Minä kiitän sinua.
 
-**mi xukre tu mede mi.**
+**mi shukre tu mede mi.**
 Minä kiitän sinua minun auttamisesta.
 
-**xukre tu mede mi.**
+**shukre tu mede mi.**
 Kiitos kun autoit minua.
 
-**no yau xukre.**
+**no yau shukre.**
 Ole hyvä. (Sanan mukaisesti: _Ei tarvitse kiittää._)
 
 
@@ -455,18 +455,18 @@ Minulla on kaksi lasta.
 
 
 
-### san <small>tietää, tuntea</small>
+### ken <small>tietää, tuntea</small>
 
-**mi san da.**
+**mi ken da.**
 Minä tunnen hänet.
 
-**sual tu san vo jen?**
+**sual tu ken vo jen?**
 Tunnetko tuon henkilön?
 
-**sual tumen san semen?**
+**sual tumen ken semen?**
 Tunnetteko toisenne?
 
-**mimen san semen ze long.**
+**mimen ken semen ze long.**
 Tunnemme toisemme jo vanhastaan.
 
 
@@ -548,15 +548,15 @@ Tuon punaisen.
 
 
 
-### cing <small>pyytää</small>
+### ching <small>pyytää</small>
 
-**mi cing tu yam cai.**
+**mi ching tu yam cai.**
 Minä pyydän sinua juomaan teetä.
 
-**mi cing tu lai dom.**
+**mi ching tu lai dom.**
 Minä pyydän sinua tulemaan kotiin.
 
-**mi cing tu mede mi.**
+**mi ching tu mede mi.**
 Minä pyydän sinua auttamaan minua.
 
 Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.

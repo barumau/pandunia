@@ -197,7 +197,7 @@ dom **no** zou.
 **sal!**
 = こんにちは。  
 <big>🧓</big>
-**sal! cing side.**
+**sal! ching side.**
 = こんにちは、おかけになってください。  
 <big>🧒</big>
 **xukur.**
@@ -227,7 +227,7 @@ dom **no** zou.
 全ての人称代名詞が
 使われています。
 
-**mi cing tu sal da.**
+**mi ching tu sal da.**
 = **私**は**あなたに**、**彼/彼女/それ/その人**へあいさつをお願いします。
 
 この文は**依存文**です
@@ -246,7 +246,7 @@ dom **no** zou.
 安心して考えることができます。
 このようにして文を短くすることができます。
 
-**mi cing tu sal da.**
+**mi ching tu sal da.**
 = 私はあなたに、彼/彼女/それ/その人へあいさつをお願いします。  
 **cing sal da.**
 = 彼/彼女/その人へあいさつをお願いします。
@@ -320,9 +320,9 @@ dom **no** zou.
 ### 練習の答え
 
 1. da yam cai.
-2. shefe cing da side.
-3. cing yam yo kafe o cai.
-4. mama cing mi safa la kamar.
+2. shefe ching da side.
+3. ching yam yo kafe o cai.
+4. mama ching mi safa la kamar.
 5. shefe side e yam yo kafe.
 
 
@@ -485,11 +485,11 @@ mi **no** sal tu.
 否定の範囲は
 **no** の位置によって変わります
 
-mi cing tu safa la kamar.
+mi ching tu safa la kamar.
 = 私はあなたに部屋の掃除を頼みます。  
-mi **no** cing tu safa la kamar.
+mi **no** ching tu safa la kamar.
 = 私はあなたに部屋の掃除を頼み<u>ません</u>。  
-mi cing tu **no** safa la kamar.
+mi ching tu **no** safa la kamar.
 = 私はあなたに部屋の掃除を<u>しないこと</u>を頼みます。
 
 否定される側の単語の品詞には動詞、代名詞、名詞、形容詞、さらには数字など、
