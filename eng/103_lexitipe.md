@@ -3,8 +3,25 @@
 
 ## Introduction
 
-Pandunia has a grammar that is systematic, regular but also rather flexible.
-One of the first things that a person notices about Pandunia is that its words don't ever change.
+Everybody knows at least two essential units of grammar: words and sentences.
+In written texts, words are separated by spaces
+and sentences begin with a capital letter and end with a full stop.
+However, there are also other grammatical units besides words and sentences.
+
+Grammar involves a hierarchy of grammatical units,
+which are listed below from the simplest to the most complex.
+
+1. **Morpheme** is the **smallest part of language** with a meaning or function.
+2. **Words** are made up of **one or more morphemes**.
+3. **Phrases** are made up of **one or more words**.
+4. **Clauses** are made up of **one or more phrases**.
+5. **Sentences** are made up of **one or more clauses**.
+
+Morphemes don't have any syntactic function in Pandunia.
+Their job is only to help to build the vocabulary of Pandunia.
+So the simplest grammatical unit that one usually thinks of in Pandunia is the word.
+
+One of the first things that an typical person notices about Pandunia is that its words don't ever change.
 Most words in Pandunia have one unchanging form,
 which does not change according to number, case, gender, tense, mood or
 any of the other inflectional categories known from other languages.
@@ -25,7 +42,7 @@ and languages that use them are called *inflected languages*.
 
 Languages with very few grammatical inflections are known as *isolating languages*.
 Pandunia is one of those languages
-Tt is free from all grammatical inflections,
+that is free from all grammatical inflections,
 but it goes even futher.
 Pandunia words are multipurpose words
 that can be used as nouns, verbs or adjectives
