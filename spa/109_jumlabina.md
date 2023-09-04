@@ -188,7 +188,7 @@ Esto es común especialmente en mandatos y pedidos.
 
 **mi ching tu lai to dom.**
 – Yo te pido que vienes a casa.  
-**cing lai to dom!**
+**ching lai to dom!**
 – ¡Por favor viene a casa!
 (Palabra por palabra: _¡Pedir venir a casa!_)
 

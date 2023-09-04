@@ -267,7 +267,7 @@ pomo, päällikkö
 **shukre.**
 = Kiitos.  
 <big>☺</big>
-**cing yam kafe o cai.**
+**ching yam kafe o cai.**
 = Joisitko kahvia tai teetä?  
 <big>☻</big>
 **ama mi yam un di cai! shukre.**
@@ -297,7 +297,7 @@ Kaikkia edellä mainittuja persoonapronomineja käytettään seuraavassa esimerk
 = Minä pyydän sinua tervehtimään häntä.
 
 Lauseessa on niin sanottu _saranarakenne_. Ensimmäinen verbi,
-**cing**
+**ching**
 = pyytää, saa kohteekseen sanan
 **tu**, 
 joka toimii samaan aikaan toisen verbin,
@@ -323,28 +323,28 @@ Tällä tavalla lauseista voi tehdä lyhyempiä.
 
 **mi ching tu sal da.**
 = Minä pyydän sinua tervehtimään häntä.  
-**cing sal da.**
+**ching sal da.**
 = (Pyydän,) tervehdi häntä.
 
-Huomasitko miten sanan **cing** rooli muuttui hieman kahdessa edellisessä lauseessa?
+Huomasitko miten sanan **ching** rooli muuttui hieman kahdessa edellisessä lauseessa?
 Sanan merkitys ei muuttunut, mutta sen käyttötapa muuttui.
 Eräissä kielissä pyyntöjen muodostamiseen käytetään apusanaa kuten englannissa _please_ ja saksassa _bitte_.
 Suomessa käytetään ilmaisua "ole hyvä" tai verbin isi-muotoa.
 Sen sijaan panduniassa käytetään yksinkertaisesti pyytämistä tarkoittavaa verbiä yksinään, sillä kuulija toki tietää kuka pyytää.
 
 Lauseen
-**cing sal da**
+**ching sal da**
 rakennetta voi hyödyntää kaikenlaisten kohteliaiden pyyntöjen ilmaisemiseen.
 
-**cing side.**
+**ching side.**
 = Istu, ole hyvä.  
-**cing don yo kafe.**
+**ching don yo kafe.**
 = Antaisitko kahvia.  
-**cing don cai.**
+**ching don cai.**
 = Antaisitko teetä.  
-**cing yam cai.**
+**ching yam cai.**
 = Ottaisitko teetä.  
-**cing saf kamar.**
+**ching saf kamar.**
 = Siivoaisitko huoneen.
 
 Käskyt aloitetaan sanalla
@@ -379,7 +379,7 @@ Käännä seuraavat lauseet panduniaksi. Oikeat vastaukset ovat sanaston jälkee
 
 **cai**
 tee  
-**cing**
+**ching**
 pyytää; ole hyvä  
 **don**
 antaa  
@@ -432,7 +432,7 @@ syödä tai juoda
 **tu ne?**
 = Entä sinä?  
 <big>☹</big>
-**mi no baxa pandunia...**
+**mi no bashe pandunia...**
 = En osaa panduniaa...  
 <big>☺</big>
 **maf! sual da yam cai?**
@@ -460,7 +460,7 @@ syödä tai juoda
 ### Kysyminen
 
 Kysymykset joihin vastataan "kyllä" ja "ei" muodostetaan samalla saranarakenteella kuin pyynnöt,
-joissa käytetään sanaa **cing**.
+joissa käytetään sanaa **ching**.
 Kysymyslauseet aloitetaan sanalla **sual** = kysyä.
 
 **mi sual tu yam cai.**
@@ -488,7 +488,7 @@ Tietysti myös yleis- ja erisnimiä voi käyttää kysymyksissä.
 = Juoko päällikkö kahvia?  
 **sual papa saf kamar?**
 = Siivoaako isä huoneen?  
-**sual niki baxa pandunia?**
+**sual niki bashe pandunia?**
 = Puhuuko Niki panduniaa?
 
 
@@ -543,7 +543,7 @@ jälkeen
 anteeksi  
 **minute**
 minuutti  
-**baxa**
+**bashe**
 puhua kieltä  
 **sui**
 vesi  
@@ -560,8 +560,8 @@ kyllä
 
 ### Harjoitusten vastaukset
 
-1. sual tu baxa pandunia?
-2. ya. mi baxa pandunia.
+1. sual tu bashe pandunia?
+2. ya. mi bashe pandunia.
 3. sual mama yam kafe?
 4. no. da no yam kafe.
 5. sual da yam supe?
@@ -760,7 +760,7 @@ ja **sha**. Niitä voi käyttää substantiivien määrittämiseen.
 = Sara on minun entinen pomo.  
 **Yusef es mi su zai xefe.**
 = Yusef on minun nykyinen pomo  
-**Maria es mi su xa xefe.**
+**Maria es mi su sha xefe.**
 = Maria on minun tuleva pomo.
 
 Samoja sanoja käytetään myös kun puhutaan teoista ja tapahtumista
@@ -770,7 +770,7 @@ ajassa. Ajan määre pannaan verbin eteen.
 = Minä löin sitä (ennen).  
 **mi zai darba da.**
 = Minä lyön sitä (nyt).  
-**mi xa darba da.**
+**mi sha darba da.**
 = Minä lyön sitä (tulevaisuudessa).
 
 Kuten huomaat, verbi ei taivu aikamuodoissa. Verbi **darba** (lyödä)
@@ -783,7 +783,7 @@ On myös mahdollista ilmaista asia pitemmästi, kuten sanomalla
 = Minä löin sitä menneisyydessä.  
 **mi darba da a zai.**
 = Minä lyön sitä nykyään.  
-**mi darba da a xa.**
+**mi darba da a sha.**
 = Minä lyön sitä tulevaisuudessa.
 
 Yksinkertaisuuden vuoksi ajan ilmausta ei tarvitse toistaa jatkuvasti.
@@ -826,7 +826,7 @@ Käännä seuraavat lauseet panduniaksi.
 entinen, ennen  
 **zai**
 nykyinen, nykyään  
-**xa**
+**sha**
 tuleva, tulevaisuudessa  
 **darba**
 lyödä  
@@ -839,7 +839,7 @@ maito
 
 ### Harjoitusten vastaukset
 
-1. mi su xefe festa a xa.
+1. mi su xefe festa a sha.
 2. mi ha du vaf a pas.
 3. tu yam supe a zai.
 4. da saf kamar a preden.

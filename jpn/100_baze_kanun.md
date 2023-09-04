@@ -32,13 +32,13 @@
 
 大半のパンドゥニアの単語の品詞は文脈で寄ります。
 
-例えば **luba** は動詞または名詞または形容詞になれます。
+例えば **ame** は動詞または名詞または形容詞になれます。
 
-**mi luba tu.**
+**mi ame tu.**
 – 私はあなたに恋しています。 (動詞)  
-**tu gamo mi su luba.**
+**tu gamo mi su ame.**
 – あなたは私の恋を感じます。 (名詞)  
-**mi kitabu un luba anjil.**
+**mi kitabu un ame anjil.**
 – 私は恋文を書きます。 (形容詞)
 
 
@@ -535,7 +535,7 @@ sual tu baxe pandunia?
 
 **mi** ching **tu** lai to dom.
 – 帰ってきてくれませんか。  
-cing lai to dom!
+ching lai to dom!
 – 帰ってきてください!
 
 
@@ -593,7 +593,7 @@ mi **no** vide tu.
 mi vide **no** tu ama damen.
 – 私にはあなた**ではなく**彼らが見えます。
 
-mi **cing** tu safe la kamar.
+mi **ching** tu safe la kamar.
 – 私はあなたに部屋の掃除を**頼みます**。  
 mi **no** ching tu safe la kamar.
 – 私はあなたに部屋の掃除を頼み**ません**。  
@@ -904,10 +904,10 @@ mi loge **a** doste **a** pandunia **a** tele fon gi.
 **ka** は行儀、作法、
 様式、形式を表します。<!-- 英語の前置詞 *like*, *than*, *as*, *as if* に対応します。 -->
 
-mi **sabe** pandunia <u>ka</u> guru. - パンドゥニアを語学教師<u>のように</u>**知っています**。
+mi **ken** pandunia <u>ka</u> guru. - パンドゥニアを語学教師<u>のように</u>**知っています**。
 
 **ka** は動詞または形容詞を比較条件に関連付けます。
-例では **sabe**(知っている)が
+例では **ken**(知っている)が
 動詞であり、 **guru**(教師) が比較条件です。
 
 **ko** は形容詞を比較する時にも使われます。

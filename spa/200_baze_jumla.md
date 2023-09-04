@@ -515,16 +515,16 @@ Te pido que me ayudes.
 
 Ayuda: Para hacer solicitudes directas, no pongas ningún pronombre.
 
-**cing yam cai.**
+**ching yam cai.**
 Por favor, bebe/beban té.
 
-**cing yam kafe.**
+**ching yam kafe.**
 Por favor, bebe/beban café.
 
-**cing lai dom.**
+**ching lai dom.**
 Por favor, ven/vengan a casa.
 
-**cing mede mi.**
+**ching mede mi.**
 Por favor, ayúdame/ayúdenme.
 
 
@@ -644,7 +644,7 @@ El gato dice «miau».
 **mi no bil audi tu.**
 No puedo oírte.
 
-**cing loge max bala.**
+**ching loge max bala.**
 Por favor, hablar más fuerte.
 
 **mi audi muzika.**
@@ -686,10 +686,10 @@ No entiendo qué significa.
 
 ### kitaba <small>escribir</small>
 
-**cing kitaba tu su adres.**
+**ching kitaba tu su adres.**
 Por favor, escribe tu dirección.
 
-**cing kitaba da a ye.**
+**ching kitaba da a ye.**
 Por favor, escríbelo aquí.
 
 
@@ -742,7 +742,7 @@ Vamos caminando.
 
 ### lai <small>venir</small>
 
-**cing lai!**
+**ching lai!**
 ¡Ven aquí! ¡Vengan aquí!
 
 **tu lai de ke?**
@@ -817,7 +817,7 @@ ya significa que algo está en algún lugar, así que **a** no es necesario.
 
 ### dele <small>esperar</small>
 
-**cing dele!**
+**ching dele!**
 ¡Por favor, espera!
 
 **dele mi!**
@@ -834,10 +834,10 @@ Te espero en el hotel.
 
 ### don <small>dar</small>
 
-**cing don yo pesa.**
+**ching don yo pesa.**
 Por favor da dinero.
 
-**cing don da to mi.**
+**ching don da to mi.**
 Por favor dame eso.
 
 **mi don ye to tu.**
@@ -855,7 +855,7 @@ Le doy un libro a ellos/as.
 **mi cepe un kafe.**
 Voy a tomar un café.
 
-**cing cepe un kafe to mi.**
+**ching cepe un kafe to mi.**
 Por favor toma un café para mí.
 
 **tu pas cepe pesa de mi.**

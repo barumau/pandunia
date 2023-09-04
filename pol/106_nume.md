@@ -26,7 +26,8 @@
 | 8 bati  | 80 bati des  | 800 bati sento  | 8000 bati kilo    |
 | 9 tisa  | 90 tisa des  | 900 tisa sento  | 9000 tisa kilo    |
 
-Ilość może być wyrażana liczbami i innymi słowami odnoszącymi się do niej. Są umieszczane przed słowem lub wyrażeniem, które opisują.
+Ilość może być wyrażana liczbami i innymi słowami odnoszącymi się do niej.
+Są umieszczane przed słowem lub wyrażeniem, które opisują.
 
 **un sing**
 – jedna gwiazda  
@@ -55,7 +56,8 @@ Liczbeniki porządkowe pojawiają się po słowach, które opisują.
 **fen tri**
 – trzecia część
 
-Liczby większe od 999 mogą używać wielokrotności z Międzynarodwego Systemu Jednostek Miar. Na przykład kilo oznacza wielokrotność tysiąca.
+Liczby większe od 999 mogą używać wielokrotności z Międzynarodwego Systemu Jednostek Miar.
+Na przykład *kilo* oznacza wielokrotność tysiąca.
 
 10'000 = un des kilo  
 100'000 = un sento kilo  

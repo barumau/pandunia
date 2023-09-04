@@ -114,7 +114,7 @@ Myös adjektiivit voi saattaa kyseenalaisiksi sanalla **ke**.
 – Kuinka monta?  
 **ke dai?**
 – Kuinka iso?  
-**ke xiu?**
+**ke shau?**
 – Kuinka pieni?
 
 **tu ha ke dai di mau?**

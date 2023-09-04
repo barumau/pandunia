@@ -48,7 +48,7 @@ a diferencia de español, en que adjetivos cambian para acordar con el sustantiv
 
 Dos o más modificadores pueden modifican el mismo sustantivo.
 
-**un xiu neu car**
+**un shau neu car**
 – un carro nuevo pequeño
 
 

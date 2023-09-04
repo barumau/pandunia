@@ -71,7 +71,7 @@ eikä kielioppia ole pakko opiskella.
 | Reddit   | [r/pandunia](https://www.reddit.com/r/pandunia/) | Uutisia ja keskustelua panduniaksi ja englanniksi. |
 | Facebook | [Tekokielet-ryhmä](http://www.facebook.com/groups/tekokielet) | Suomenkielinen ryhmä tekokielistä yleensä. |
 | Facebook | [Pandunia-ryhmä](http://www.facebook.com/groups/pandunia) | Keskustelua eri kielillä. |
-| Telegram | [mimen baxa pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) | Harjoittelu. Täällä puhutaan vain panduniaa! |
+| Telegram | [mimen bashe pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) | Harjoittelu. Täällä puhutaan vain panduniaa! |
 | Telegram | [monikielinen kanava](https://t.me/pandunia_grupe) | Keskustelua eri kielillä. |
 | QQ       | 717549404 | Keskustelua kiinaksi ja muilla kielillä. |
 
@@ -80,7 +80,7 @@ Muita pandunian puhujia voi löytää [Amikumu](https://amikumu.com/)-sovellukse
 Suomeksi on tarjolla [sähköpostilista](https://groups.google.com/forum/?hl=fi&fromgroups=#!forum/suomi-pandunia),
 johon voi liittyä lähettämällä tyhjän viestin osoitteeseen suomi-pandunia+subscribe@googlegroups.com tai käyttämällä selainta ja Google-tiliä.
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")  
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen bashe pandunia!")  
 <small>Kuva: [Freepik](http://www.freepik.com)</small>
 
 Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@pandunia.info](mailto:risto@pandunia.info)

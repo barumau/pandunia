@@ -71,7 +71,7 @@ Subject and object can be noun phrases that consist of many words,
 and there can be a series of verbs (i.e. a serial verb) instead of a single verb.
 In such cases the boundaries between the clause constituents can become doubtful.
 
-**shiu baku meme vol shuru yam hau seng chau.**
+**shau baku meme vol shuru yam hau seng chau.**
 – Little white sheep want to start to eat good fresh grass.
 
 Boundaries between sentence elements can be marked with little words.
@@ -88,7 +88,7 @@ Determiners, like
 'some',
 help to indicate where noun phrases begin.
 
-**la shiu baku meme *ya* vol shuru yam *la* hau seng chau.**
+**la shau baku meme *ya* vol shuru yam *la* hau seng chau.**
 – The little white sheep want to start to eat that good fresh grass.
 
 

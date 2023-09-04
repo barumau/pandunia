@@ -42,7 +42,7 @@ En pandunia, les adverbes se terminent en **-o** et ils se placent avant le verb
 – Je _bien_ dors.  
 **mi sona hau.** 
 – Je dors _bien_.  
-**tu baxa pandunia hau.** 
+**tu bashe pandunia hau.** 
 – Tu parles pandunia _bien_.
 
 
@@ -52,19 +52,19 @@ Un modificateur peut également modifier un autre modificateur.
 Ainsi,
 **dai**
 (grand) et
-**xiu**
+**shau**
 (petit) peuvent être utilisés comme des adverbes d'intensification.
 
 **un dai jen** 
 – un grand individu  
-**un xiu jen** 
+**un shau jen** 
 – un petit individu  
 **un mei jen** 
 – un bel individu
 
 **un dai di mei jen** 
 – un très bel individu  
-**un xiu di mei jen** 
+**un shau di mei jen** 
 – un assez bel individu
 
 

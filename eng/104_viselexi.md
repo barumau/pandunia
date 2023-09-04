@@ -200,7 +200,7 @@ Also adjectives are questioned with **ke**.
 – How few?  
 **ke dai?**
 – How big?  
-**ke shiu?**
+**ke shau?**
 – How small?
 
 **tu ha ke dai di mau?**

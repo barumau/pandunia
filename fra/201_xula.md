@@ -271,14 +271,14 @@ chef, patron
 **xukre.**
 = Merci.  
 <big>🧓</big>
-**cing yam kafe o cai.**
+**ching yam kafe o cai.**
 = Prenez du thé ou du café, je vous prie
 <big>🧒</big>
 **mi vol cai. xukre.**
 = Je prends du thé, merci.  
 ...  
 <big>🧓</big>
-**cing sal tu su mama!**
+**ching sal tu su mama!**
 = S'il te plaît, salut ta mère.  
 <big>🧒</big>
 **mi sal da. sal reste!**
@@ -302,7 +302,7 @@ phrase suivante.
 
 Cette phrase a une _structure pivot_.
 Le premier verbe
-**cing**
+**ching**
 (demander) s'adresse à
 **tu**
 comme objet. Dans le même temps
@@ -330,38 +330,38 @@ raccourcies.
 
 **mi ching tu sal da.**
 = Je te demande de le/la saluer.  
-**cing sal da.**
+**ching sal da.**
 = S'il te plaît salue le/la.
 
 Avez-vous noté comment la traduction de
-**cing**
+**ching**
 a changé entre les deux phrases ?
 Le sens du mot – le concept –, n'a pas changé, c'est son utilisation qui a changé.
 Le français reflète ce changement en
 utilisant des mots différents : "demander" et "s'il vous plaît". Le
 Pandunia peut faire face à de tels changements sans avoir recours à
-des mots différents. C'est un principe en Pandunia qu'il y ait toujours exactement un mot pour un concept.
+des mots différents. C'est un principe en Pandunia qu'il y ait toujours eshactement un mot pour un concept.
 On ne crée pas différents mots simplement parce que le rôle grammatical d'un concept change.
 
 La phrase
-**cing sal da**
+**ching sal da**
 est un modèle très utile pour les formules de politesses.
 
-**cing side.**
+**ching side.**
 = Asseyez-vous s'il vous plaît..  
-**cing don  kafe.**
+**ching don  kafe.**
 = S'il vous plaît, donnez-moi du café.  
-**cing don cai.**
+**ching don cai.**
 = S'il vous plaît, donnez-moi du thé. 
-**cing yam cai.**
+**ching yam cai.**
 = S'il vous plaît, prenez un peu de thé.  
-**cing saf kamar.**
+**ching saf kamar.**
 = Nettoyez la chambre s'il vous plaît
 
 Les ordres sont données avec
 **amir**
 (ordonner). Ils utilisent la même structure de pivot que les requêtes avec
-**cing**.
+**ching**.
 
 **amir don cai.**
 = Donnez-moi du thé !  
@@ -392,7 +392,7 @@ Essayez de traduire ces phrases du Français au Pandunia.
 ordonner  
 **cai**
 thé  
-**cing**
+**ching**
 demander (poliment), s'il-vous-plaît  
 **don**
 donner  
@@ -771,17 +771,17 @@ Il y a également des expressions de temps spécifiques.
 
 **zai**
 = actuellement, en ce moment
-**xa**
+**sha**
 = dans le futur
 
 Les adjectifs pour le passé, le présent et le futur sont **pas, zai**
-et **xa**. Ils peuvent être utilisés pour modifier des noms.
+et **sha**. Ils peuvent être utilisés pour modifier des noms.
 
 **Sara es mi su pas xefe.**
 = Sara est mon ex-patron.  
 **Yusef es mi su zai xefe.**
 = Yusef est mon chef actuel.  
-**Maria es mi su xa xefe.**
+**Maria es mi su sha xefe.**
 = Maria est ma future patronne.
 
 Les mêmes mots sont utilisés lorsque vous parlez d'actions et d'événements dans le temps. Il suffit de mettre le mot avant le verbe.
@@ -790,7 +790,7 @@ Les mêmes mots sont utilisés lorsque vous parlez d'actions et d'événements d
 = Je l'ai frappé (dans le passé).  
 **mi zai darba da.**
 = Je le frappe (actuellement)  
-**mi xa darba da.**
+**mi sha darba da.**
 = Je le frapperai (dans le futur).
 
 On peut également placer l'expression du temps en fin de phrase.
@@ -800,7 +800,7 @@ On peut également placer l'expression du temps en fin de phrase.
 – Je l'ai frappé par le passé.  
 **mi darba da na zai.**
 – Je le frappe à présent.  
-**mi darba da na xa.**
+**mi darba da na sha.**
 – Je le frapperai dans le futur / à l'avenir.
 
 Il n'est pas nécessaire de répéter les expressions de temps à chaque phrase. Ce serait maladroit.
@@ -843,7 +843,7 @@ fêter, célébrer
 passé, ancien  
 **zai**
 présent, en cours, actuel  
-**xa**
+**sha**
 futur  
 **darba**
 frapper, battre  
@@ -865,7 +865,7 @@ lait
 
 ### Réponses aux exercices
 
-1. mi su xefe festa na xa.
+1. mi su xefe festa na sha.
 2. mi ten du vaf na pas.
 3. tu yam supe na zai.
 4. da saf kamar a pre den.

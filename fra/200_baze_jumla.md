@@ -47,7 +47,7 @@ Bonjour ! (le matin)
 **sal dia!**
 Bonne journée !
 
-**sal xam!**
+**sal sham!**
 Bonsoir !
 
 **sal noce!**
@@ -523,16 +523,16 @@ Je te demande de m’aider.
 
 Astuce : Pour créer des demandes directes, retirez les pronoms.
 
-**cing yam cai.**
+**ching yam cai.**
 Prenez un thé, je vous en prie !
 
-**cing yam kafe.**
+**ching yam kafe.**
 Servez-vous un café, faites donc !
 
-**cing lai dom.**
+**ching lai dom.**
 Viens à la maison, s’il te plait !
 
-**cing mede mi.**
+**ching mede mi.**
 Aide moi, s’il te plait.
 
 
@@ -624,7 +624,7 @@ Je peux parler un peu pandunia.
 **mi no bil englix.**
 Je ne parle pas anglais.
 
-**maf. mi no bil tu su baxa.**
+**maf. mi no bil tu su bashe.**
 Désolé, je ne parle pas votre langue.
 
 
@@ -658,7 +658,7 @@ Un chat dit miaou.
 **mi no bil audi tu.**
 Je ne t’entends pas. (Je n’arrive pas à t’entendre)
 
-**cing loge max bala.**
+**ching loge max bala.**
 Parlez plus fort, s’il vous plait.
 
 **mi audi muzika.**
@@ -700,22 +700,22 @@ Je ne comprend pas ce que cela signifie.
 
 ### kitaba <small>écrire</small>
 
-**cing kitaba tu su adres.**
+**ching kitaba tu su adres.**
 S’il te plait, écris ton adresse.
 
-**cing kitaba da a ye.**
+**ching kitaba da a ye.**
 S’il te plait, écris-le là !
 
 
-### baxa <small>communiquer, parler une langue</small>
+### bashe <small>communiquer, parler une langue</small>
 
-**sual tumen baxa pandunia.**
+**sual tumen bashe pandunia.**
 Est-ce que vous parlez tous pandunia ?
 
-**mimen baxa pandunia.**
+**mimen bashe pandunia.**
 Nous parlons pandunia.
 
-**sual tu bil baxa englix?**
+**sual tu bil bashe englix?**
 Est-ce que tu parles anglais ?
 
 **franse, espanya, portugal, rus**
@@ -757,7 +757,7 @@ On y va à pied !
 
 ### lai <small>venir</small>
 
-**cing lai!**
+**ching lai!**
 Viens ici !
 
 **tu lai de ke?**
@@ -824,7 +824,7 @@ Est-ce que tu résides dans cet hôtel ?
 
 ### dele <small>attendre</small>
 
-**cing dele!**
+**ching dele!**
 Veuillez attendre !
 
 **dele mi!**
@@ -886,18 +886,18 @@ Il / Elle a (déjà) été le chef / la cheffe.
 Il / elle a (déjà) été à la maison.
 
 
-### xa <small>(événement futur)</small>
+### sha <small>(événement futur)</small>
 
-**mi xa sal tu su doste.**  
+**mi sha sal tu su doste.**  
 Je saluerai ton ami(e).
 
-**la man xa vide la filme.**  
+**la man sha vide la filme.**  
 L'homme regardera la filme.
 
-**da xa es xefe.**  
+**da sha es xefe.**  
 Il sera chef. / Elle sera cheffe.
 
-**da xa a dom.**  
+**da sha a dom.**  
 Il / Elle sera à la maison.
 
 
@@ -908,10 +908,10 @@ Il / Elle sera à la maison.
 
 ### don <small>donner</small>
 
-**cing don yo pesa.**
+**ching don yo pesa.**
 Donne-moi de l’argent, s’il te plait.
 
-**cing don da to mi.**
+**ching don da to mi.**
 Donne-le moi, s’il te plait.
 
 **mi don ye to tu.**
@@ -929,7 +929,7 @@ Il/elle ne veut pas me le donner.
 **mi cepe un kafe.**
 Je vais prendre un café.
 
-**cing cepe un kafe to mi.**
+**ching cepe un kafe to mi.**
 Prends-moi un café, s’il te plait.
 
 **tu pas cepe pesa de mi.**

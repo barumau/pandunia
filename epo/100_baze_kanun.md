@@ -44,7 +44,7 @@
     - **zai** indikas nunan agadon.
     - **le** indikas finigitan agadon kies rezulto estas grave en la nuna situacio.
     - **pas** indikas pasintan agadon.
-    - **xa** indikas estontan agadon.
+    - **sha** indikas estontan agadon.
 9. **Vortordo:**
     - La normala vortordo estas subjekto–verbo–objekto.
       La sama ordo estas uzata kaj en deklaroj kaj en demandoj.
@@ -60,7 +60,7 @@
           – Mi petas ke vi parolas Pandunia.
     - Oni povas forĵeti pronomojn kiam ili estas nenecesaj.
         - **_mi_ ching _tu_ loge pandunia.**
-          → **cing loge pandunia.**
+          → **ching loge pandunia.**
           – Bonvolu paroli Pandunian.
 10. **Vortfarado:**
    Oni povas krei novajn vortojn kunmetante aliajn vortojn.

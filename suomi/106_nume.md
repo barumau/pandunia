@@ -185,7 +185,7 @@ ja ne loppuvat sanaan
    – torstai
 5. **zukraden**
    – perjantai
-6. **xaniden**
+6. **shaniden**
    – lauantai
 7. **solden**
    – sunnuntai

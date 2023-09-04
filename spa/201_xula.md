@@ -242,14 +242,14 @@ Pidiendo
 **shukre.**
 – ¡Gracias!  
 <big>☺</big>
-**cing yam kafe o cai.**
+**ching yam kafe o cai.**
 – Por favor beba algo de café o té.  
 <big>☻</big>
 **mi vol cai. shukre.**
 – Quiero té, gracias.  
 ...  
 <big>☺</big>
-**cing sal tu su mama!**
+**ching sal tu su mama!**
 – Por favor llevale saludos a tu madre.  
 <big>☻</big>
 **mi sal da. sal reste!**
@@ -276,7 +276,7 @@ Todos los pronombres personales son usados en la siguiente oración.
 – Yo pedirte saludar a él/ella. (Te pido que saludes)
 
 Esta oración es una _oración eje_. El primer verbo,
-**cing**
+**ching**
 'pedir', se dirije a
 **tu**
 como su objeto. Al mismo tiempo
@@ -302,32 +302,32 @@ pueden hacer frases más cortas.
 
 **mi ching tu sal da.**
 – Yo te pido digas hola a él.
-**cing sal da.**
+**ching sal da.**
 – Por favor dile hola.
 
-¿Vea cómo la traducción de **cing** ha cambiado entre las dos frases?
+¿Vea cómo la traducción de **ching** ha cambiado entre las dos frases?
 El significado de la palabra, el concepto, no ha cambiado, pero sí su uso.
 En español se refleja este cambio mediante el uso de diferentes palabras, 'pedir' y 'por favor'.
 Pandunia puede hacer frente a los cambios de este tipo sin recurrir a diferentes palabras.
 Es un principio en Pandunia que siempre hay exactamente una palabra para un concepto.
 Diferentes palabras no se crean sólo por el papel gramatical de algunos cambios de concepto.
 
-La frase **cing sal da** tiene un patrón útil que puede ser
+La frase **ching sal da** tiene un patrón útil que puede ser
 utilizado para hacer peticiones corteses.
 
-**cing side.**
+**ching side.**
 – Por favor sientese.  
-**cing don  kafe.**
+**ching don  kafe.**
 – Por favor me da un poco de café.  
-**cing don cai.**
+**ching don cai.**
 – Por favor me da un poco de té.  
-**cing yam cai.**
+**ching yam cai.**
 – Por favor beba algo de té.  
-**cing saf kamar.**
+**ching saf kamar.**
 – Por favor limpie la habitación.  
 
 Las ordenes son introducidas con **amir** 'ordenar'.
-Se utiliza la misma estructura eje como para pedir con **cing**.
+Se utiliza la misma estructura eje como para pedir con **ching**.
 
 **amir don cai.**
 – ¡Deme un poco de té!  
@@ -352,7 +352,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 ordenar  
 **cai**
 té  
-**cing**
+**ching**
 pedir, solicitar; por favor  
 **don**
 dar  
@@ -432,7 +432,7 @@ algo
 
 ### Preguntando
 
-Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **cing** 'pedir', lo cual se vio en la lección anterior.
+Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **ching** 'pedir', lo cual se vio en la lección anterior.
 Las frases interrogativas se introducen con **sual** 'preguntar'.
 
 **mi sual tu yam cai.**

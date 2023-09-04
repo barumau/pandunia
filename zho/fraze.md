@@ -14,10 +14,10 @@
 **sal den!**
 美好的一天！
 
-**sal xam!**
+**sal sham!**
 晚上好！
 
-**sal noce!**
+**sal noche!**
 晚安！
 
 **sal yam!**
@@ -26,7 +26,7 @@
 **sal lai!**
 欢迎！
 
-**sal cuti!**
+**sal cute!**
 再见！
 
 **sal safar!**
@@ -37,25 +37,25 @@
 
 ### mi <small>我</small>
 
-**mi xiu.**
+**mi Lili.**
 我叫丽丽。
 
 **mi Tomas.**
 我叫托马。
 
-**mi salam mame.**
+**mi sal ma.**
 我迎接妈妈。
 
-**mi salam pape.**
+**mi sal pa.**
 我迎接爸爸。
 
-**sal mame!**
+**sal ma!**
 妈妈，你好！
 
-**sal pape!**
+**sal pa!**
 爸爸，你好！
 
-**mimen salam mame.**
+**mimen sal ma.**
 我们迎接妈妈。
 
 
@@ -65,16 +65,16 @@
 **tu Tomas.**
 你叫托马。
 
-**mi salam tu.**
+**mi sal tu.**
 我给你打招呼。
 
-**tu salam mi.**
+**tu sal mi.**
 你给我打招呼。
 
 **sal tu!**
 你好！
 
-**mi salam tumen.**
+**mi sal tumen.**
 我给你们打招呼。
 
 **sal tumen!**
@@ -131,7 +131,7 @@
 **tu Tomas.**
 你是托马斯。
 
-**mimen salam tumen.**
+**mimen sal tumen.**
 We greet you.
 
 
@@ -207,24 +207,24 @@ We greet you.
 **mi bil pandunia.**
 我会泛世界语。
 
-**mi bil xiu pandunia.**
+**mi bil shau pandunia.**
 我会一点泛世界语。
 
 **mi no bil englix.**
 我不会英语。
 
-**maf. mi no bil tu su baxa.**
+**maf. mi no bil tu su bashe.**
 对不起，我不会你的语言。
 
-### baxa <small>说语</small>
+### bashe <small>说语</small>
 
-**sual tumen baxa pandunia.**
+**sual tumen bashe pandunia.**
 你们说泛世界语吗？
 
-**mimen baxa pandunia.**
+**mimen bashe pandunia.**
 我们会说泛世界语。
 
-**sual tu bil baxa engli?**
+**sual tu bil bashe engli?**
 你能说英语吗？
 
 **franse, espanya, portugal, rus**

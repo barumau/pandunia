@@ -49,7 +49,9 @@ Zaimki wskazujące to:
 
 ## Zaimki pytające
 
-**ke** jest zaimkiem pytającym ogólnego zastosowania. Załatwia robotę polskich _kto_ i _co_.
+**ke**
+jest zaimkiem pytającym ogólnego zastosowania.
+Załatwia robotę polskich _kto_ i _co_.
 
 **ke?**
 – Kto lub co?

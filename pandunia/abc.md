@@ -54,7 +54,7 @@
 | u | u   | yu  | u   | u   | u   | u   |upsilon|   |
 | v | ve  | vi  | ve  | ve  | fe  | ve  |     |     |
 | w | waw |dabl-yu|doble-ve| duble-ve | we | | | waw |
-| x | xa  | eks | ekis| iks | eks | xa  |     | xin |
+| x | sha  | eks | ekis| iks | eks | xa  |     | xin |
 | y | yay | way |     |igrek| ye  |     |     | da  |
 | z | ze  | zed | seta| zed | zet | ze  | zeta| zayn|
 

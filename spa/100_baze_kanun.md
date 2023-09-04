@@ -72,7 +72,7 @@ Ellas se describien en más detalle más tarde en este sitio.
           – Yo te pido a tú hablar Pandunia.
     - Pronombres se pueden omitir cuando son obvios y superfluos.
         - **_mi_ ching _tu_ loge pandunia.**
-          → **cing loge pandunia.**
+          → **ching loge pandunia.**
           – Por favor habla Pandunia.
 10. **Construcción de las palabras:**
    En Pandunia, palabras se cambian solo cuando su significado se cambia.

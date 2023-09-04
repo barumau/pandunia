@@ -16,7 +16,8 @@ Obserwacje to najprostszy typ zdania. Mogą się składać z tylko jednego słow
 
 #### Z podmiotem-zaimkiem
 
-Normalnie zdanie składa się z podmiotu i predykatu. W najprostrzych zdaniach podmiot to zaimek osobowy, a predykat to przymiotnik lub rzeczownik.
+Normalnie zdanie składa się z podmiotu i predykatu.
+W najprostrzych zdaniach podmiot to zaimek osobowy, a predykat to przymiotnik lub rzeczownik.
 
 **mi hau.**
 – Jestem dobry.  
@@ -43,7 +44,10 @@ Również dwa zaimki osobowe mogą być zestawione.
 
 #### Z podmiotem-rzeczownikiem
 
-Gdy podmiot jest rzeczownikiem, słowo **es** (tak) jest dodawane przed predykatem w zdaniach pozytywnych. Przeczenia używają **no**, jak wyżej.
+Gdy podmiot jest rzeczownikiem, słowo **es** (tak) jest dodawane przed predykatem w zdaniach pozytywnych.
+Przeczenia używają
+**no**,
+jak wyżej.
 
 **Sara es hau.**
 – Sara jest dobra.  
@@ -69,7 +73,8 @@ Ta sama zasada działa przy zdaniach z dwoma przymiotnikami.
 
 ### Zdania czynne
 
-W predykatach czynności, główne zdanie w predykatacie to czasownik (tj. słowo-czynność). W Panduni, czasowniki są łatwe do rozpoznania, bo większość kończy się na **-a** lub **-u**.
+W predykatach czynności, główne zdanie w predykatacie to czasownik (tj. słowo-czynność).
+W Panduni, czasowniki są łatwe do rozpoznania, bo większość kończy się na **-a** lub **-u**.
 
 Zdania czynne używające czasownika kończącego się na **-a** mają szyk podmiot-orzeczenie-dopełnienie (SVO).
 
@@ -85,7 +90,9 @@ Czasowniki kończące się na **-u** są użwane w szyku podmiot-dopełnienie-or
 **mi aple yam.**
 – _Ja jabłka jem._
 
-SOV i SVO są dwoma najpowszechniejszymi szykami zdania w językach świata. SOV jest używany w językach jak hindi-urdu, tamil, tureckim, japońskim i koreańskim. SVO jest używany w (między innymi) językach: angielskim, hiszpańskim, mandaryńskim, indonezyjskim i współczesnym arabskim.
+SOV i SVO są dwoma najpowszechniejszymi szykami zdania w językach świata.
+SOV jest używany w językach jak hindi-urdu, tamil, tureckim, japońskim i koreańskim.
+SVO jest używany w (między innymi) językach: angielskim, hiszpańskim, mandaryńskim, indonezyjskim i współczesnym arabskim.
 
 
 ### Zdania bierne
@@ -97,7 +104,7 @@ Jest tylko dopełnienie i orzeczenie.
 
 **tu be vide.**
 – Ty jesteś widziany.  
-**muzika be audi.**
+**muzike be audi.**
 – Muzyka jest słyszana.  
 **ban be bake.**
 – Chleb jest pieczony.
@@ -117,7 +124,7 @@ W szyku zdania dopełnienie-orzeczenie (VO) skupienie pada na orzeczenie.
 
 **vide tu.**
 – Widzenie cię.  
-**audi muzika.**
+**audi muzike.**
 – Słuchanie muzyki.  
 **bake ban.**
 – Pieczenie chleba.
@@ -132,13 +139,14 @@ W szyku zdania dopełnienie-orzeczenie (VO) skupienie pada na orzeczenie.
 W _strukturze osiowej_ szyk zdania to:
 podmiot – orzeczenie 1. – dopełnienie 1. – orzeczenie 2. – dopełnienie 2.
 
-Dopełnienie 1. spełnia podwójną rolę. Jest jednocześnie dopełnieniem dla orzeczenia 1. i podmiotem dla orzeczenia 2.
+Dopełnienie 1. spełnia podwójną rolę.
+Jest jednocześnie dopełnieniem dla orzeczenia 1. i podmiotem dla orzeczenia 2.
 
-**mi vol tu yam fito.**
+**mi vol tu yam fite.**
 – Ja chcę ty jesz warzywa.
 
 W powyższym przykładzie, **mi vol** ma **tu** jako swoje dopełnienie;
-jednocześnie **tu** działa jako podmiot następnego predykatu, **yam fito**, więc **tu** jest _osią_ całego zdania.
+jednocześnie **tu** działa jako podmiot następnego predykatu, **yam fite**, więc **tu** jest _osią_ całego zdania.
 
 
 ### Seryjne czsowniki
@@ -170,7 +178,7 @@ Dochodzi do tego szczególnie w rozkazach i prośbach.
 
 **mi ching tu lai dom.**
 – Proszę cię, żebyś wrócił do domu.  
-**cing lai dom!**
+**ching lai dom!**
 – Proszę, wróć do domu! (Dosłownie _Prosić wrócić dom!_)
 
 
@@ -206,7 +214,9 @@ Dochodzi do tego szczególnie w rozkazach i prośbach.
 
 Partykuła **es** potwierdza, a **no** przeczy. Inaczej, **es** oznacza "być", a **no** znaczy "nie być".
 
-Wyrażenia są domyślnie twierdzące, więc słowo **es** nie jest zawsze potrzebne. Jakkolwiek, jest szczególnie poręczne w wyrażaniu stanu.
+Wyrażenia są domyślnie twierdzące, więc słowo
+**es**
+nie jest zawsze potrzebne. Jakkolwiek, jest szczególnie poręczne w wyrażaniu stanu.
 
 **mi es jen.**
 – Ja jestem osobą.  
@@ -222,7 +232,8 @@ Takie zdania mogą być prosto zaprzeczane przez **no**.
 **da no neu meza.**
 – To nie jest nowy stół.
 
-Słowo **no** jest używane do zaprzeczania czegokolwiek. Działa zawsze na następne słowo.
+Słowo **no** jest używane do zaprzeczania czegokolwiek.
+Działa zawsze na następne słowo.
 
 **mi vide tu.**
 – Ja widzę cię.  
@@ -273,7 +284,8 @@ Przed **de** pojawia się posiadany obiekt, a po nim posiadacz.
 
 #### Nadawanie cech przymiotnikami
 
-Innym sposobem użycia tych partykuł jest łączenie przymiotnika lub innych słów z rzeczownikiem. To daje nam więcej informacji o rzeczowniku, a partykuła objaśnia, na którym końcu jest główny rzeczownik.
+Innym sposobem użycia tych partykuł jest łączenie przymiotnika lub innych słów z rzeczownikiem.
+To daje nam więcej informacji o rzeczowniku, a partykuła objaśnia, na którym końcu jest główny rzeczownik.
 
 Partykuły modyfikatorowe są użyteczne do tworzenia złożonych przymiotników, które składają się z dwóch lub większej liczby słów.
 
@@ -306,7 +318,9 @@ Jeśli zdanie podrzędne nie ma podmiotu, ale zawiera dopełnienie (tj. jeśli o
 
 ### Partykuły modalne
 
-Partykuły modalne wyrażają, o czym mówiący myśli w relacji z słuchaczem. Partykuły modalne są powszechnie używane w wielu językach. Wschodniopazjatyckie języki, włączając w to chiński i japoński, używają słynnych patykuł kończących zdania.
+Partykuły modalne wyrażają, o czym mówiący myśli w relacji z słuchaczem.
+Partykuły modalne są powszechnie używane w wielu językach.
+Wschodniopazjatyckie języki, włączając w to chiński i japoński, używają słynnych patykuł kończących zdania.
 
 W Panduni, partykuła modalna opisuje następne słowo lub całe zdanie, gdy partykuła modalna jest ostatnim słowem w zdaniu.
 
@@ -326,7 +340,15 @@ Partykuły modalne mogą działać na każde słowo, włączając w to zimki i l
 
 ### Partykuły czasu i aspektu
 
-W Panduni, czas może być wyrażany słowami czasu i wyrażeniami czasu, jeśli trzeba. Ogólne słowa czasu to **pas** (przeszłość), **zai** (teraźniejszość) i **futur** (przyszłość). Działają jak przymiotniki i przysłówki, więc zazwyczaj ich miejsce jest przed orzeczeniem lub na końcu zdania.
+W Panduni, czas może być wyrażany słowami czasu i wyrażeniami czasu, jeśli trzeba.
+Ogólne słowa czasu to
+**pas**
+(przeszłość),
+**zai**
+(teraźniejszość) i
+**futur**
+(przyszłość).
+Działają jak przymiotniki i przysłówki, więc zazwyczaj ich miejsce jest przed orzeczeniem lub na końcu zdania.
 
 **mi ten un mau a pas.**
 – Miałem koty w przeszłości.  
@@ -418,7 +440,8 @@ Oto kilka czasowników, których można użyć jak przyimków:
 
 #### Czasowniki bez przyimów
 
-Przyimki nie są używane tak często w Panduni jak w języku polskim. W wielu zdaniach, czasownik wyraża wystarczająco wiele.
+Przyimki nie są używane tak często w Panduni jak w języku polskim.
+W wielu zdaniach, czasownik wyraża wystarczająco wiele.
 
 **mi lai dom.**
 – Przychodzę do domu.  
@@ -434,12 +457,18 @@ Przyimki nie są używane tak często w Panduni jak w języku polskim. W wielu z
 
 ### Przyimek relacji
 
-Przyimek **ka** wyraża sposób lub styl. Odpowiada polskojęzycznym przyimkom _jak_, _niż_, _jakby_.
+Przyimek **ka** wyraża sposób lub styl.
+Odpowiada polskojęzycznym przyimkom _jak_, _niż_, _jakby_.
 
-**mi sabi pandunia ka guru.**
+**mi ken pandunia ka guru.**
 – Znam Pandunię jak mistrz.
 
-**ka** wiąże czasownik lub przymiotnik z punktem odniesienia. W powyższym przykładzie **sabe** (wiedzieć) jest czasownikiem, a **guru** (mistrz) jest punktem odniesienia.
+**ka** wiąże czasownik lub przymiotnik z punktem odniesienia.
+W powyższym przykładzie
+**ken**
+(wiedzieć) jest czasownikiem, a
+**guru**
+ (mistrz) jest punktem odniesienia.
 
 **ka** jest też używany, gdy porównywane są przymiotniki.
 
@@ -448,15 +477,30 @@ Przyimek **ka** wyraża sposób lub styl. Odpowiada polskojęzycznym przyimkom _
 **cin pa es par dai ka pa.**
 – Dziadek jest tak duży jak ojciec.
 
-**ka** wiąże przysłówki porównania – **mas** (bardziej), **min** (mniej) i **par** (tak samo) – z punktem odniesienia, którym jest **papa** (ojciec) w powyższych przykładach.
+**ka** wiąże przysłówki porównania –
+**mas**
+(bardziej),
+**min**
+(mniej) i
+**par**
+(tak samo) – z punktem odniesienia, którym jest
+**pa**
+(ojciec) w powyższych przykładach.
 
 
 ### Hierarchia Części Mowy
 
-Język mówiony jest stumieniem dźwięków budujących słowa. Język pisany, w przypadku Panduni, jest strumieniem liter, od lewej do prawej, które budują słowa. Tak więc każde wyrażenie jest sekwencją słów. Jakkolwiek, nie wszystkie słowa są równe. Istnieje hierarchia słów. Orzeczenie jest strukturalnym centrum zdania i pozostałe słowa są pośrednio lub bezpośrednio z nim połączone.
+Język mówiony jest stumieniem dźwięków budujących słowa.
+Język pisany, w przypadku Panduni, jest strumieniem liter, od lewej do prawej, które budują słowa.
+Tak więc każde wyrażenie jest sekwencją słów.
+Jakkolwiek, nie wszystkie słowa są równe.
+Istnieje hierarchia słów.
+Orzeczenie jest strukturalnym centrum zdania i pozostałe słowa są pośrednio lub bezpośrednio z nim połączone.
 
-Każde zdanie może zostać narysowane jako drzewo, gdzie centralne słowa są wyżej, a zależne słowa
-– niżej. Na przykład, zdanie **mi vide tu** (Widzę cię) może zostać rozrysowane w postaci poniższego drzewa:
+Każde zdanie może zostać narysowane jako drzewo, gdzie centralne słowa są wyżej, a zależne słowa – niżej.
+Na przykład, zdanie
+**mi vide tu**
+('Widzę cię') może zostać rozrysowane w postaci poniższego drzewa:
 
     mi vide tu.
 
@@ -488,17 +532,23 @@ Hierarchia części mowy w Panduni od bardziej do mniej centralnych jest, jak na
 8. Przymiotniki
 
 Następujący przykłas pokazuje, jak zasięg działa na finalną pozycję słów w hierarchii drzewa.
-Na przykład, chociaż **i** jest ogólnie wyżej niż **sabu**, tutaj jego zasięg obejmuje tylko **yusef** i **Sara**.
-**sabu** jest na szczycie, bo łączy dwa zdania podrzędne.
+Na przykład, chociaż
+**e**
+jest ogólnie wyżej niż
+**sabu**,
+tutaj jego zasięg obejmuje tylko
+**yusef** i **Sara**.
+**sabu**
+jest na szczycie, bo łączy dwa zdania podrzędne.
 
 
-    yusef e Sara vol xula pandunia, sabu da es hau dunia baxa.
+    yusef e Sara vol shule pandunia, sabu da es hau dunia bashe.
 
                         sabu
                ┌──────────┴──────────┐
               vol                    es
           ┌────┴──────┐           ┌──┴──┐
-          e         xula        da    baxa
+          e         shule        da    bashe
       ┌───┴───┐    ┌──┴────┐            |
     yusef   Sara       pandunia       dunia
                                         |

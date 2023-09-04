@@ -19,7 +19,7 @@ and it is followed by more specific translations inside parenthesis.
 If there is more than one meaning,
 they are separated by the semicolon.
 
-> **cing** - ask (request, beg, plead; please)
+> **ching** - ask (request, beg, plead; please)
 
 Sometimes there are two entries of the same word.
 

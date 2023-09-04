@@ -73,21 +73,24 @@ is superfluous.
 Proper names are nouns for individual people, places and other things.
 
 Names of people can be tagged with the universal title of respect
-**shi**.
+**si**.
 Using it shows respect and politeness.
+In Pandunia, you use it in front of someone's name.
 
-It can be used in formal and informal situations and for all age groups, social groups and genders.
+It can be used in formal and informal situations and for all age groups, for all social groups and for all sexes and genders.
 The closest translation for it in English is _Mr_ or _Ms_ or _Mx_.
 
 There are different customs concerning honorific titles in different cultures.
 In some cultures it is not polite to use someone's name without a title of respect.
-Therefore it is advisable to use **xi** always when you meet new people from different cultures.
+Therefore it is advisable to use
+**si**
+always when you meet new people from different cultures.
 
 A title of respect can be used with a given name, a family name, or both.
 
-**shi Bili King**
+**si Bili King**
 – Mx Billy King  
-**shi Bili**
+**si Bili**
 – Mx Billy  
-**shi King**
+**si King**
 – Mx King

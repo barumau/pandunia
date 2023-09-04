@@ -510,16 +510,16 @@
 
 ヒント：直接頼む場合は全ての代名詞を除外します。
 
-**cing yam cai.**
+**ching yam cai.**
 お茶をお願い。
 
-**cing yam kafe.**
+**ching yam kafe.**
 コーヒーを頼む!
 
-**cing lai dom.**
+**ching lai dom.**
 お願いだから(家に)帰ってきて!
 
-**cing mede mi.**
+**ching mede mi.**
 どうか助けてください。
 
 
@@ -638,7 +638,7 @@
 **mi no bil audi tu.**
 (あなたの声が私には)聞えません。
 
-**cing loge mas lika.**
+**ching loge mas lika.**
 大きな声で話してください。
 
 **mi audi yo muzika.**
@@ -680,10 +680,10 @@
 
 ### kitaba <small>書く</small>
 
-**cing kitaba tu su adres.**
+**ching kitaba tu su adres.**
 あなたの住所を書いてください。
 
-**cing kitaba da a ye.**
+**ching kitaba da a ye.**
 そこに書いてください。
 
 
@@ -736,7 +736,7 @@ Where should I go?
 
 ### lai <small>来る、行く</small>
 
-**cing lai!**
+**ching lai!**
 こっちに来て!
 
 **tu lai de ke?**
@@ -805,7 +805,7 @@ Where should I go?
 
 ### dele <small>待つ、待ち受ける</small>
 
-**cing dele!**
+**ching dele!**
 ちょっと待って!
 
 **dele mi!**
@@ -886,10 +886,10 @@ Where should I go?
 
 ### don <small>与える</small>
 
-**cing don pesa.**
+**ching don pesa.**
 お金をください。
 
-**cing don da to mi.**
+**ching don da to mi.**
 それを私にください。
 
 **mi don da to tu.**
@@ -907,7 +907,7 @@ Where should I go?
 **mi kape un kafe.**
 私は一杯のコーヒーを得ました。
 
-**cing kape un kafe to mi.**
+**ching kape un kafe to mi.**
 (私に)コーヒーを一杯ください。
 
 **tu le kape pesa de mi.**

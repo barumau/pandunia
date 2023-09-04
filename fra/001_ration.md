@@ -161,7 +161,7 @@ Aucune de ces deux caractéristiques n'est nécessaire dans une langue mondiale.
 
 Le Pandunia a par conséquent déterminé une règle simple :
 l'accent tonique se place toujours sur la syllabe qui précède la dernière consonne.
-Ex : **mi vól lóga la bón dúnia báxa.**
+Ex : **mi vól lóga la bón dúnia básha.**
 Le Pandunia n'a pas d'accent lexical de hauteur.
 
 
@@ -330,7 +330,7 @@ Dans cette section, nous allons comparer les structures de phrases du Pandunia a
 L'ordre normal des mots est sujet-verbe-objet - tout comme en anglais ou en chinois.
 
     Anglais :   I love you, and you love me.
-    Pandunia :  mi luba tu, tu luba mi.
+    Pandunia :  mi ame tu, tu ame mi.
     Chinois :   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
     Français :  Je t'aime, et tu m'aimes.
 

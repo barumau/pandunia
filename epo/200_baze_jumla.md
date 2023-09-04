@@ -38,7 +38,7 @@ Bonan matenon!
 **sal den!**
 Bonan tagon!
 
-**sal xam!**
+**sal sham!**
 Bonan vesperon!
 
 **sal noce!**
@@ -175,7 +175,7 @@ havas la saman formon kaj kiel subjekto kaj kiel objekto.
 **sal tu!**
 Saluton al vi!
 
-**mi luba tu.**
+**mi ame tu.**
 Mi amas vin.
 
 <small>Etimologio. **tu**
@@ -546,16 +546,16 @@ Mi petas ke vi helpu min.
 
 Noto: Faru mallongajn petojn forlasante la pronomojn.
 
-**cing yam cai.**
+**ching yam cai.**
 Bonvolu trinki teon!
 
-**cing yam kafe.**
+**ching yam kafe.**
 Bonvolu trinki kafon!
 
-**cing lai dom.**
+**ching lai dom.**
 Bonvolu veni hejmen!
 
-**cing mede mi.**
+**ching mede mi.**
 Bonvolu helpi min.
 
 
@@ -673,7 +673,7 @@ Aŭskulti min!
 **mi no bil audi tu.**
 Mi ne povas aŭdi vin.
 
-**cing loge max bala.**
+**ching loge max bala.**
 Bonvolu paroli pli forte.
 
 **mi audi muzika.**
@@ -713,10 +713,10 @@ Mi ne komprenas kion ĝi signifas.
 
 ### kitaba <small>skribi</small>
 
-**cing kitaba tu su adres.**
+**ching kitaba tu su adres.**
 Bonvolu skribi vian adreson.
 
-**cing kitaba da a ye.**
+**ching kitaba da a ye.**
 Bonvolu skribi ĝin ĉi tie!
 
 
@@ -768,7 +768,7 @@ Ni iru piede!
 
 ### lai <small>veni</small>
 
-**cing lai!**
+**ching lai!**
 Bonvolu veni!
 
 **tu lai de ke?**
@@ -832,7 +832,7 @@ Mi loĝas en Singapuro.
 
 ### dele <small>atendi</small>
 
-**cing dele!**
+**ching dele!**
 Bonvolu, atendu!
 
 **dele mi!**
@@ -892,17 +892,17 @@ La viro estas vidinta la virinon.
 Li estas estinta hejme.
 
 
-### xa <small>-os, estonte</small>
+### sha <small>-os, estonte</small>
 
-**mi xa sal tu su doste.**  
+**mi sha sal tu su doste.**  
 Mi salutos vian amikon.
 
-**la man xa vide la filme.**  
+**la man sha vide la filme.**  
 La viro vidos la virinon.
 
-**da xa es xefe.**  
+**da sha es xefe.**  
 Ĝi estas la estonta ĉefo.
 
-**da xa a dom.**  
+**da sha a dom.**  
 Ĝi estos hejme.
 

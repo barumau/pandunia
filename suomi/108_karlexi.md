@@ -147,12 +147,12 @@ ilmaisee ohimennyttä toimintaa, jonka seuraukset eivät ole olennaisia.
 **mi pas lai to siti.**
 – Minä tulin kaupunkiin (kerran).
 
-**xa**
+**sha**
 ('tulla tekemään')
 ilmaisee tulevaisuudessa tapahtuvaa toimintaa.
 
-**da _xa_ es guru.**
+**da _sha_ es guru.**
 – Hän tulee olemaan opettaja.  
-**mi no _xa_ gul bir.**
+**mi no _sha_ gul bir.**
 – Minä en tule juomaan olutta.
 

@@ -3,7 +3,9 @@
 
 ## Nieodmienne
 
-Rzeczownik jest słowem, które nazywa rzeczy. Jak wszystkie słowa w Panduni, rzeczowniki są nieodmienne. Taka sa forma jest używana w liczbie pojedynczej i mnogiej, podmiocie i dopełnieniu.
+Rzeczownik jest słowem, które nazywa rzeczy.
+Jak wszystkie słowa w Panduni, rzeczowniki są nieodmienne.
+Taka sa forma jest używana w liczbie pojedynczej i mnogiej, podmiocie i dopełnieniu.
 
 **ite**
 – kamień, kamienie  
@@ -29,13 +31,12 @@ Prostym sposobem wyrażenia liczby mnogiej jest rzeczownik.
 
 ## Rodzaj
 
-Pandunia nie ma rodzaju gramatycznego (tj. męskiej, żeńskiej i/lub nijakiej kategorii).
-
-Kilka słów niesie _naturalny rodzaj_. Na przykład **fem** (kobieta) jest żeńska, a **man** (mężczyzna) jest męski.
+Pandunia nie ma rodzaju gramatycznego (tj. męskiej, żeńskiej lub nijakiej kategorii).
 
 ## Wyrazy złożone
 
-Dwa lub więcej rzeczowników może być połączone, by utworzyć wyraz złożony. Ostatnie słowo ma największe znaczenie w wyrazie złożonym, a słowa, które są przed nim tylko zmieniają znaczenie.
+Dwa lub więcej rzeczowników może być połączone, by utworzyć wyraz złożony.
+Ostatnie słowo ma największe znaczenie w wyrazie złożonym, a słowa, które są przed nim tylko zmieniają znaczenie.
 
 **sing grupe**
 – gwiazdozbiór

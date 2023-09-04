@@ -188,7 +188,7 @@ Une préposition introduit un complément prépositionnel. Dans un complément p
 – Je suis à l'hôtel.  
 **mi sona a hotel.** 
 – Je dors à l'hôtel.  
-**mi sona de xam to suba.** 
+**mi sona de sham to suba.** 
 – Je dors du soir au matin.  
 **mi safar de London to Paris.** 
 – Je voyage de Londres à Paris.  
@@ -245,11 +245,11 @@ Dans de nombreuses phrases, le verbe seul suffit.
 
 La préposition **ka** indique la manière ou le style. Elle correspond en français aux prépositions _comme_, _que_, et _comme si_.
 
-**mi sabi pandunia ka guru.**
+**mi ken pandunia ka guru.**
 – Je connais le pandunia comme un maître.
 
 **ka** met en relation le verbe ou l'adjectif avec l'élément comparé.
-Dans l'exemple ci-dessus **sabi** (savoir) est le verbe et **guru** (maître) est l'élément de comparaison.
+Dans l'exemple ci-dessus **ken** (savoir) est le verbe et **guru** (maître) est l'élément de comparaison.
 
 **ka** est aussi utilisé quand on compare des adjectifs.
 

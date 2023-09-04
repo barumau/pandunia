@@ -36,7 +36,7 @@ In Pandunia, "adjectives" are modifiers that are placed before the noun that the
 
 Two or more modifiers can modify the same noun.
 
-**un shiu neu gar**
+**un shau neu gar**
 – a little new car
 
 

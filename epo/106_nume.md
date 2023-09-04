@@ -164,7 +164,7 @@ Tagoj de semajno estas nomigitaj laŭ astroj de la sola sistemo, kaj ili finiĝa
    – jaŭdo
 5. **zukraden**
    – vendredo
-6. **xaniden**
+6. **shaniden**
    – sabato
 7. **solden**
    – dimanćo

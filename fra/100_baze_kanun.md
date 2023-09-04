@@ -21,7 +21,7 @@ Elles seront abordées plus en détail plus loin dans ce document.
     - ex. **mi ching tu don pesa.** = I te demande de donner de l'argent.
 10. Les pronoms peuvent être omis quand ils sont évidents et redondant.
     - **mi sual tu baxe pandunia?** → **sual tu baxe pandunia?** = Parles-tu le pandunia?
-    - **mi ching tu loge max ming.** →  **cing loge max ming.**
+    - **mi ching tu loge max ming.** →  **ching loge max ming.**
       = S'il te plait, parle plus distinctement.
 11. Les mots composés se construisent en mettant les mots-racines l'un à côté de l'autre.
     - ex. **hure** (liberté) + **isme** (idéologie) → **hurisme** (libéralisme)

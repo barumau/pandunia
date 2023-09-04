@@ -15,13 +15,13 @@ Pandunia su lexi ya lai de pan fen de dunia:
 Afrika, Amerika, Asia, Europa
 – de la dunia baxa ya yau vakil mimen su pan dunia!
 
-tu sabi Pandunia, he?
+tu ken Pandunia, he?
 tu bil xula Pandunia a uze de [mini xula](mini_xula.html).
 
 - [zi seri](abc.md)
 - kitaba
-    * [la xiu baru su pati dante](baru_dante.md)
-    * [tri xiu goro](3_lil_gurube.md)
+    * [la shau baru su pati dante](baru_dante.md)
+    * [tri shau goro](3_lil_gurube.md)
     * [tri behe i un gui](3_buze_e_guye.md)
     * [insan di putong haki](putong_hake.md)
     * [din kitaba](dini_kitabe.md)

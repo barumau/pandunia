@@ -91,7 +91,7 @@ et il correspond en français à _quel.le.s_, _lequel_, _laquelle_, _lesquelles_
 – Combien ? En quelle quantité ? (Comment beaucoup ?)  
 **ke dai?**
 – Quelle taille ? (Comment grand ?)  
-**ke xiu?**
+**ke shau?**
 – Quelle taille ? (Comment petit ?)
 
 **tu ha ke dai di mau?**

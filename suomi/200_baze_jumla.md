@@ -38,7 +38,7 @@ Huomenta!
 **sal den!**
 Päivää!
 
-**sal xam!**
+**sal sham!**
 Iltaa!
 
 **sal noce!**
@@ -176,7 +176,7 @@ Niinpä esimerkiksi sana
 pysyy koko ajan samana,
 oli se sitten tekijänä taikka teon kohteena.
 
-**mi luba tu.**
+**mi ame tu.**
 Minä rakastan sinua.
 
 <small>Sanan **tu**
@@ -561,16 +561,16 @@ Minä pyydän sinua auttamaan minua.
 
 Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
-**cing yam cai.**
+**ching yam cai.**
 Juopa teetä.
 
-**cing yam kafe.**
+**ching yam kafe.**
 Juopa kahvia.
 
-**cing lai dom.**
+**ching lai dom.**
 Tulepa kotiin.
 
-**cing helpe mi.**
+**ching helpe mi.**
 Autapa minua.
 
 
@@ -661,7 +661,7 @@ Minä osaan vähän panduniaa.
 **mi no bil englix.**
 Minä en osaa englantia.
 
-**maf. mi no bil tu su baxa.**
+**maf. mi no bil tu su bashe.**
 Anteeksi, en osaa sinun kieltäsi.
 
 
@@ -695,7 +695,7 @@ Kuuntele minua!
 **mi no bil audi tu.**
 En voi kuulla sinua.
 
-**cing loge max bala.**
+**ching loge max bala.**
 Puhuisitko kovempaa.
 
 **mi audi muzika.**
@@ -740,23 +740,23 @@ Minä en ymmärrä mitä se tarkoittaa.
 
 ### kitaba <small>kirjoittaa</small>
 
-**cing kitaba tu su adres.**
+**ching kitaba tu su adres.**
 Kirjoittaisitko osoitteesi.
 
-**cing kitaba da a ye.**
+**ching kitaba da a ye.**
 Kirjoittaisitko sen tähän!
 
 
 
-### baxa <small>puhua kieltä, kommunikoida</small>
+### bashe <small>puhua kieltä, kommunikoida</small>
 
-**sual tumen baxa pandunia.**
+**sual tumen bashe pandunia.**
 Puhutteko te panduniaa?
 
-**mimen baxa pandunia.**
+**mimen bashe pandunia.**
 Me osaamme puhua panduniaa.
 
-**sual tu bil baxa englix?**
+**sual tu bil bashe englix?**
 Osaatko puhua englantia?
 
 **franse, espanya, portugal, rus**
@@ -799,7 +799,7 @@ Menkäämme jalan!
 
 ### lai <small>tulla</small>
 
-**cing lai!**
+**ching lai!**
 Tule tänne!
 
 **tu lai de ke?**
@@ -867,7 +867,7 @@ Astuko tässä hotellissa?
 
 ### dele <small>odottaa</small>
 
-**cing dele!**
+**ching dele!**
 Odota!
 
 **dele mi!**
@@ -929,17 +929,17 @@ Hän on ollut päällikkö.
 Hän on ollut kotona.
 
 
-### xa <small>myöhemmin, jatkossa</small>
+### sha <small>myöhemmin, jatkossa</small>
 
-**mi xa sal tu su doste.**  
+**mi sha sal tu su doste.**  
 Minä tervehdin ystävääsi (jatkossa).
 
-**la man xa vide la filme.**  
+**la man sha vide la filme.**  
 Mies tulee katsomaan filmin.
 
-**da xa es xefe.**  
+**da sha es xefe.**  
 Hän tulee olemaan päällikkö.
 
-**da xa a dom.**  
+**da sha a dom.**  
 Hän tulee olemaan kotona.
 

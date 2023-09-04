@@ -8,7 +8,7 @@ Se voi koostua vain yhdestä sanasta, johon puhuja haluaa kuulijan kiinnittävä
 
 **mau!**
 = Kissa!  
-**barxa!**
+**barsha!**
 = Sataa!  
 
 
@@ -183,7 +183,7 @@ Tällä tavalla lauseista voi tulla lyhyempiä.
 
 **mi ching tu lai to dom.**
 – Minä pyydän sinua tulemaan kotiin.  
-**cing lai to dom!**
+**ching lai to dom!**
 – (Pyydän) tule kotiin!
 
 

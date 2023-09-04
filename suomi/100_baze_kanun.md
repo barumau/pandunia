@@ -52,7 +52,7 @@
       ilmaisee tehtyä toimintaa, joka vaikuttaa kuluvaan hetkeen.
     - **pas**
       ilmaisee tehtyä toimintaa, joka ei enää vaikuta kuluvaan hetkeen.
-    - **xa**
+    - **sha**
       ilmaisee tulevaa toimintaa.
 10. **Sanajärjestys:**
     - Lauseen sanajärjestys on subjekti–verbi–objekti.
@@ -69,7 +69,7 @@
           – Minä pyydän sinua puhumaan panduniaa.
     - Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
         - **_mi_ ching _tu_ loge pandunia.**
-          → **cing loge pandunia.**
+          → **ching loge pandunia.**
           – Pyydän, puhu panduniaa.
 10. **Sanojen johtaminen:**
     Yhdyssanat muodostetaan asettamalla kaksi tai useampia perussanoja peräkkäin

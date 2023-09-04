@@ -68,9 +68,9 @@ Le temps, l'aspect et le mode sont indiqués à l'aide de particules et d'auxili
 **mi le ame tu.**
 – Je l'ai (déjà) fait.
 (**le** par son sens "déjà", marque l'aspect parfait)  
-**mi xa ame tu.**
+**mi sha ame tu.**
 – Je t'aimerai.
-(**xa** marque le futur)
+(**sha** marque le futur)
 
 L'ordre des mots est inversé dans les phrases au passif.
 Les verbes au passif prennent la particule **be**.

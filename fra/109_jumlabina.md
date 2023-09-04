@@ -8,7 +8,7 @@ Elles peuvent ne se construire que d'un mot, ce qui attire l'attention de l'audi
 
 **mau!**
 – Un chat !  
-**barxa!**
+**barsha!**
 – (Il) pleut !
 
 
@@ -148,16 +148,16 @@ C'est particulièrement valable pour l'expression d'ordres et de demandes.
 
 ### Structure pivot brève (VOVO)
 
-**mi sual tu baxa pandunia.**
+**mi sual tu bashe pandunia.**
 – Je demande (si) tu parles pandunia.  
-**sual tu baxa pandunia?**
+**sual tu bashe pandunia?**
 – Est-ce que tu parles pandunia ?
 
 ###. Short pivot structure (VVO)
 
 **mi ching tu lai to dom.**
 – Je te prie de venir à la maison.  
-**cing lai to dom!**
+**ching lai to dom!**
 – S'il te plait viens à la maison !
 (Mot à mot : _Demande viens maison !_)
 
@@ -340,7 +340,7 @@ Elles fonctionnent comme des adjectifs et des verbs, donc elles se placent gén�
 – J'avais des chats.  
 **a mi no zai ha mau.**
 – Mais maintenant je n'ai plus de chats.  
-**bil, mi xa ha mau.**
+**bil, mi sha ha mau.**
 – Peut-être que j'aurai des chats.
 
 On peut aussi utiliser une expression temporelle telle que **sa pase** (dans le passé), etc.
@@ -349,7 +349,7 @@ On peut aussi utiliser une expression temporelle telle que **sa pase** (dans le 
 – J'avais des chats dans le passé.  
 **ama mi no ha mau na zai zaman.**
 – Mais je n'ai plus de chats à présent.  
-**bil, mi ha mau na xa zaman.**
+**bil, mi ha mau na sha zaman.**
 – Peut-être aurai-je des chats à l'avenir.
 
 Remarque : les verbes ne sont pas conjugués.

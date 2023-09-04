@@ -110,7 +110,7 @@ Ty pozdrawiasz mnie.
 Zaimki nigdy nie odmieniają się w Panduni. Dlatego **mi**
 jest takie samo jako podmiot i dopełnienie, gdy język polski dwie różne formy, 'ja' i 'mnie'.
 
-**mi luba tu.**
+**mi ame tu.**
 Ja kocham cię.
 
 <small>Etymologia. **tu**

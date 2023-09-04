@@ -118,7 +118,7 @@ Tensoj kaj aspektoj estas esprimita per adverboj kaj helpantaj verboj, kiel
 (pasinte),
 **le**
 (jam antaŭe) kaj
-**xa**
+**sha**
 (estonte).
 
 **mi zai ame tu.**
@@ -127,7 +127,7 @@ Tensoj kaj aspektoj estas esprimita per adverboj kaj helpantaj verboj, kiel
 – Mi amis vin.  
 **mi le ame tu.**
 – Mi estas aminta vin.  
-**mi xa ame tu.**
+**mi sha ame tu.**
 – Mi amos vin.
 
 ### Pasivo

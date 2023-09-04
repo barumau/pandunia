@@ -65,7 +65,7 @@ Kun subjektina on persoonapronomini, pikkusana **ya** jää pois.
 
 Lauseen sanajärjestys on subjekti–verbi–objekti.
 
-**mi luba tu.**
+**mi ame tu.**
 – Minä rakastan sinua.
 
 Kun tekemisen kohde eli lauseen objekti on substantiivi,
@@ -103,12 +103,12 @@ Monet sanat voivat toimia niin substantiivina, adjektiivina kuin verbinä.
 
 Pandunian ovat monikäyttöisiä, ja sen vuoksi ne voivat joskus vaikuttaa epäselviltä suomen sanoihin verrattuna.
 
-**da luba mau.**
+**da ame mau.**
 – Hän rakastaa kissaa. / Hän rakasti kissoja. / Hän tulee rakastamaan kissoja.
 
 Virkkeen asiayhteys selkeyttää sen merkityksen:
 
-**pre tri nen, mi ha du mau i un vaf. mi max ha un fem ben. da luba mau!**
+**pre tri nen, mi ha du mau i un vaf. mi max ha un fem ben. da ame mau!**
 – Kolme vuotta sitten minulla oli kaksi kissaa ja koira. Minulla oli myös tytär. Hän rakasti niitä kissoja!
 
 ### Aika
@@ -120,16 +120,16 @@ Tarvittaessa aika ilmaistaan ajan adverbeilla ja apuverbeillä, kuten
 (ennen),
 **le**
 (jo) ja
-**xa**
+**sha**
 (tulevaisuudessa).
 
-**mi zai luba tu.**
+**mi zai ame tu.**
 – Minä parhaillaan rakastan sinua.  
-**mi pas luba tu.**
+**mi pas ame tu.**
 – Minä ennen rakastin sinua.  
-**mi le luba tu.**
+**mi le ame tu.**
 – Minä olen jo rakastanut sinua.  
-**mi xa luba tu.**
+**mi sha ame tu.**
 – Minä tulen rakastamaan sinua.
 
 ### Passiivi
@@ -137,16 +137,16 @@ Tarvittaessa aika ilmaistaan ajan adverbeilla ja apuverbeillä, kuten
 Passiivi muodostetaan käyttämällä apuverbiä
 **be**.
 
-**tu be luba.**
+**tu be ame.**
 – Sinua rakastetaan.  
-**mi be luba de tu.**
+**mi be ame de tu.**
 – Minua rakastat sinä.
 
 ### Muiden sanojen luonnehtiminen
 
 Substantiivia luonnehditaan panemalla adjektiivimääre sen eteen.
 
-**un neu luba**
+**un neu ame**
 – uusi rakkaus  
 **la hau pai**
 – hyvä piirakka
@@ -156,7 +156,7 @@ Toisinaan adverbi merkitään pikkusanalla **di**.
 
 **mi hau (di) vide tu.**
 – Minä hyvin näen sinut.  
-**tu vide di luba da.**
+**tu vide di ame da.**
 – Sinä nähtävästi rakastat häntä.
 
 Määreitä vertaillaan pikkusanoilla
@@ -182,13 +182,13 @@ Hakukysymys muodostetaan kirjoittamalla tavallinen lause, josta korvataan kysytt
 **ke**
 'kuka, mikä, mitä'.
 
-**tu luba ke?**
+**tu ame ke?**
 – Sinä rakastat ketä?  
-**tu luba ke man?**
+**tu ame ke man?**
 – Sinä rakastat mitä miestä?  
-**ke man ya luba tu?**
+**ke man ya ame tu?**
 – Mikä mies rakastaa sinua?  
-**tu luba da ke poli?**
+**tu ame da ke poli?**
 – Sinä rakastat häntä miten paljon?
 
 ### Käskeminen

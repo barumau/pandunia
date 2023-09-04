@@ -511,16 +511,16 @@ Peço-lhe que me ajude.
 
 Para fazer pedidos diretos, não coloque nenhum pronome.
 
-**cing yam cai.**
+**ching yam cai.**
 Por favor, beba chá.
 
-**cing yam kafe.**
+**ching yam kafe.**
 Por favor, beba café.
 
-**cing lai dom.**
+**ching lai dom.**
 Por favor, venha para casa.
 
-**cing mede mi.**
+**ching mede mi.**
 Por favor me ajude.
 
 
@@ -639,7 +639,7 @@ Escute-me!
 **mi no bil audi tu.**
 Não consigo te ouvir.
 
-**cing loge max bala.**
+**ching loge max bala.**
 Por favor, fale mais alto.
 
 **mi audi muzika.**
@@ -681,10 +681,10 @@ Eu não entendo o que significa.
 
 ### kitaba <small>escrever</small>
 
-**cing kitaba tu su adres.**
+**ching kitaba tu su adres.**
 Por favor, escreva seu endereço.
 
-**cing kitaba da a ye.**
+**ching kitaba da a ye.**
 Escreva aqui, por favor.
 
 
@@ -737,7 +737,7 @@ Vamos andando.
 
 ### lai <small>venha</small>
 
-**cing lai!**
+**ching lai!**
 Vem aqui! Venha aqui!
 
 **tu lai de ke?**
@@ -810,7 +810,7 @@ em vez de
 
 ### dele <small>esperar</small>
 
-**cing dele!**
+**ching dele!**
 Por favor, espere!
 
 **dele mi!**
@@ -827,10 +827,10 @@ Te espero no hotel.
 
 ### don <small>dar</small>
 
-**cing don yo pesa.**
+**ching don yo pesa.**
 Por favor, dê dinheiro.
 
-**cing don da to mi.**
+**ching don da to mi.**
 Por favor, dê-me isso.
 
 **mi don ye to tu.**
@@ -843,24 +843,25 @@ Eu dou um livro para eles.
 Ele/ela não quer me dar isso.
 
 
-### cepe <small>pegar</small>
+### sepe <small>pegar</small>
 
-**mi cepe un kafe.**
+**mi sepe un kafe.**
 Vou beber uma xícara de café.
 
-**cing cepe un kafe to mi.**
+**ching sepe un kafe to mi.**
 Por favor, tome um café para mim.
-**tu pas cepe pesa de mi.**
+**tu pas sepe pesa de mi.**
 Você já tirou dinheiro de mim.
 
-**mi cepe un bir.**
+**mi sepe un bir.**
 Eu vou tomar uma cerveja.
 
 
 ### kira <small>alugar</small>
 
-**mi vol kira cepe un kar.**
+**mi vol kira sepe un kar.**
 Eu quero alugar um carro.
 
-**da kira don la kamar to safarja.**
+**da kira don la kamar to safarer.**
 Ele/ela vende os quartos para viajantes.
+

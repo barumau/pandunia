@@ -98,7 +98,7 @@ Ankaŭ adjektivoj estas demandataj per **ke**.
 – Kiom multe?  
 **ke dai?**
 – Kiom granda?  
-**ke xiu?**
+**ke shau?**
 – Kiom eta?  
 **tu ha ke dai di mau?**
 – Kiom granda kato vi havas?

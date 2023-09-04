@@ -154,7 +154,7 @@ Antes de un adjetivo, **ke** también significa «cuán».
 – ¿Cuán muchos? (¿Cuántos?)  
 **ke dai?**
 – ¿Cuán grande?  
-**ke xiu?**
+**ke shau?**
 – ¿Cuán pequeño?
 
 **tu ha ke dai di mau?**

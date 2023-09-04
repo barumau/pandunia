@@ -7,10 +7,10 @@ sante tu su nam,
 lai tu su regia,  
 kar tu su ice  
 a gee e a sama.  
-cing don mimen su pan den di ban to mimen.  
-cing maf mimen su doxa,  
+ching don mimen su pan den di ban to mimen.  
+ching maf mimen su doxa,  
 ka mimen maf damen, ki doxa mimen.  
-cing no lide mimen to tente  
+ching no lide mimen to tente  
 a mede mimen de dus.  
 tu ha regia, bala, e onor a pan zaman.  
 amen.

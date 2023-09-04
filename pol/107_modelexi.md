@@ -5,7 +5,8 @@ Modyfikator to słowo, które dodaje jakąś wartość lub opis do rzeczy wyraż
 
 ## Opisywanie rzeczownika
 
-Przymiotnik to słowo, które dodaje określoną cechę rzeczownikowi. W Panduni przymiotnik to modyfikator, który jest przed rzeczownikiem.
+Przymiotnik to słowo, które dodaje określoną cechę rzeczownikowi.
+W Panduni przymiotnik to modyfikator, który jest przed rzeczownikiem.
 
 **dai ite**
 – duży kamień  
@@ -16,7 +17,8 @@ Przymiotnik to słowo, które dodaje określoną cechę rzeczownikowi. W Panduni
 **hau kursi**
 – dobre krzesło
 
-Przymiotnik może też być po rzeczowniku. Często ten typ wyrażeń może być rozumiany jako pełne zdanie, w których czasownik _być_ jest pozostawiony w domyśle.
+Przymiotnik może też być po rzeczowniku.
+Często ten typ wyrażeń może być rozumiany jako pełne zdanie, w których czasownik _być_ jest pozostawiony w domyśle.
 
 **ite dai.**
 – Kamień jest duży.  
@@ -39,29 +41,34 @@ W Panduni przysłówek to modyfikator, który znajduje się przed czasownikiem l
 – Ja _dobrze_ śpię.  
 **mi sona _hau_.**
 – Śpię _dobrze_.  
-**tu baxa pandunia _hau_.**
+**tu bashe pandunia _hau_.**
 – Mówisz w Panduni _dobrze_.
 
 
 ## Opisywanie innego modyfikatora
 
-Modyfikator może opisywać też inny modyfikator. Na przykład **dai** (duży) i **xiu** (mały) mogą być używane jako przysłówki intensyfikujące.
+Modyfikator może opisywać też inny modyfikator.
+Na przykład
+**dai**
+(duży) i
+**shiu**
+(mały) mogą być używane jako przysłówki intensyfikujące.
 
 **dai jen**
 – duża osoba  
-**xiu jen**
+**shiu jen**
 – mała osoba  
 **mei jen**
 – ładna osoba
 
 **dai di mei jen**
 – bardzo ładna osoba  
-**xiu di mei jen**
+**shiu di mei jen**
 – trochę ładna osoba
 
 Modyfikatory mogą być oddzielane **e** (i).
 
-**xiu e mei jen**
+**shiu e mei jen**
 – mała i ładna osoba
 
 

@@ -52,7 +52,7 @@ De nombreuses personnes sont déjà intéressées par le pandunia et certaines l
 - QQ channel: 717549404
 - Vous pouvez aider à [traduire ce site](tarja_netoloke.md)
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen bashe pandunia!")
 
 Vous pouvez contacter Risto Kupsala, un des créateurs du pandunia, en envoyant un courriel à [risto@pandunia.info](mailto:risto@pandunia.info) et également dans les forums mentionnés précédemment.
 
