@@ -30,19 +30,74 @@ Therefore the *t*'s sound identical, for example, in the derivation series
 
 ## Sinitic words
 
-Sinitic words are borrowed from East Asian languages, that include
-different varieties of Chinese (Mandarin, Cantonese, Wu, etc.),
-Japanese, Korean, Vietnamese
-and sometimes also Malay, Filipino and Thai.
-The common ancestor of Sinitic words in these languages is Middle Chinese,
+Sinitic words are borrowed from East Asian languages.
+Sinitic languages include different varieties of Chinese, such as Mandarin, Cantonese and Wu.
+Sino-Xenic languages include Japanese, Korean and Vietnamese,
+which have been heavily influenced by Chinese.
+Nearby languages like Thai, Malay, Filipino and Mongolian have many Sino-Xenic words
+but overall they have been influenced by Chinese to a lesser extent than Japanese, Korean and Vietnamese.
+The common ancestor of Sinitic and Sino-Xenic words is Middle Chinese,
 which was spoken in ancient China.
 
+### Table of sound correspondences
+
+#### Initial consonants
+
+Middle Chinese had a big inventory of initial consonants.
+Most modern Sinitic languages have less initial consonants.
+In the table below, we present the most typical consonant correspondences
+between Middle Chinese, modern Sinitic and Sino-Xenic languages and Pandunia.
+
+| Middle Chinese | Mandarin<br/>(Pinyin) | Cantonese<br/>(Jyutping) | Japanese<br/>(Romaji) | Korean<br/>(RR) | Vietnamese | Pandunia  |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| pʰ-      | p        | p        | h        | p        | ph       | p        |
+| p-       | b        | b        | h        | b        | p        | b        |
+| b-       | b        | b        | b, h     | b        | b        | b        |
+| m-       | m        | m        | m        | m        | m        | m        |
+| f-       | f        | f        | h        | p        | ph       | f        |
+| v-       | w        | w        | b        |          | v        | v        |
+| tʰ-      | t        | t        | t        |          | th       | t        |
+| t-       | d        | d        | t        | d        | t        | d        |
+| d-       | d        | d        | d, t     | d        | d        | d        |
+| n-       | n        | n, l     | n        | n        | n        | n        |
+| tsʰ-     | c, q     | c        | s        | ch       | th       | ch       |
+| ts-      | z, j     | z        | s        | j        | s        | z        |
+| dz-      | z, j     | z        | z        | j        | d        | z        |
+| s-       | s, x     | s        | s        | s        | s, t     | s        |
+| tšʰ-     | ch       | c        | s        | ch       | tr       | ch       |
+| tš-      | zh       | z        | s        | j        | th       | j        |
+| dž-      | zh       | z        | z        | j        | th       | j        |
+| š-       | sh       | s        | s        | s        | th, s    | sh       |
+| ɳ-       | r        | y        | n, j     | -        | nh       | j        |
+| kʰ-      | k, q     | k        | k        | k        | kh       | k        |
+| k-       | g, j     | g        | k        | g        | k, c, q  | g        |
+| g-       | g, j     | g        | k, g     | g        | g        | g        |
+| ŋ-       | -        | ng       | g        | -        | ng       | n        |
+| h-       | h, x     | h        | k        | h        | h        | h        |
+| l-       | l        | l        | r        | r        | l        | l        |
+
+#### Final consonants
+
 Middle Chinese had three nasal finals, -n, -m and -ng,
-and three stop finals, -p, -t and -k.
-All of them are preserved by Cantonese, Vietnamese and Korean.
+and three unreleased stop finals, -p, -t and -k.
+All of them are preserved by Cantonese, Vietnamese and Korean in some form.
 Mandarin has lost all final stops and it has merged -m to -n.
 Japanese has kept only one final nasal
-and a helping vowel is added after the final stops.
+and it has added a vowel after the final stops.
+
+| Middle Chinese | Mandarin<br/>(Pinyin) | Cantonese<br/>(Jyutping) | Japanese<br/>(Romaji) | Korean<br/>(RR) | Vietnamese | Pandunia  |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| -m       | -n       | -m       | -n       | -m       | -m       | -m       |
+| -p*      | -        | -p*      | -        | -p*      | -p*      | -bV, -pV |
+| -n       | -n       | -n       | -n       | -n       | -n       | -n       |
+| -t*      | -        | -t*      |-chi, -tsu| -l       | -t*      | -dV, -tV |
+| -ŋ       | -ng      | -ng      | -n       | -ng      | -ng      | -ng      |
+| -k*      | -        | -k*      | -ki, -ku | -k*      | -c*, -ch | -gV, -kV |
+
+(*) The final consonants in Middle Chinese, Cantonese, Korean and Vietnamese have no audible release.
+They are neither voiced nor aspirated.
+
+### Tones
 
 Middle Chinese was a tonal language
 like the modern varieties of Chinese and Vietnamese.
@@ -50,107 +105,31 @@ The tone of a syllable is very important because it can differentiate one word f
 For example, the syllable _ma_ means 'mother' in the first tone and 'horse' in the third tone in Mandarin.
 Mandarin has four tones, which are numbered from 1 to 4.
 The tone is often marked with a number after the syllable.
-Pandunia is not a tonal language.
-Therefore the Chinese tones are transformed into Pandunia in a changed form.
 
-Every Sinitic word is borrowed to Pandunia in a form that is a compromise between the aforementioned languages.
+Pandunia is not a tonal language.
+Therefore the tones of Chinese can't be transferred into Pandunia directly.
+
+
+Pandunia has some tendencies to transform tones to vowels and consonants.
+
+### Adaptation to Pandunia
+
+Every Sinitic word is borrowed to Pandunia in a form that is a compromise between the Sinitic and Sino-Xenic languages.
 The recipe for building a Sinitic word for Pandunia is the following:
 
 1. Select the common initial consonant from Mandarin, Cantonese and Korean.
    Typically at least 2/3 of them agree.
    Japanese and Vietnamese have frequently changed it.
-2. Select the medial vowel(s) from Mandarin, Cantonese and Japanese.
-3. Select the final nasal or stop consonant from Cantonese, Japanese, Korean and/or Vietnamese.
-   Typically at least three of them agree.
+2. Select the medial vowel(s) firstly from Mandarin then Japanese.
+   Japanese is the only Sinitic language that uses a five-vowel system that is compatible with Pandunia's vowel system.
+3. Select the final nasal or stop consonant firstly from Cantonese then from Korean, Japanese and/or Vietnamese.
+   Typically at least three of them all agree.
 4. Add **-e** if the stem ends in a stop consonant.
 
-Some examples of this word building process are shown in the table below.
+Some examples of this word adoption process are shown in the table below.
 
 | Mandarin | Cantonese | Japanese | Korean    | Vietnamese | Pandunia  |
 |----------|-----------|----------|-----------|------------|-----------|
 | 罚 fa2  | 罰 fat6  | 罰 batsu | 벌 beol | phạt  | **fate**  |
-| 板 ban3 | 板 baan2 | 板 ban   | 판 pan  | bản   | **ban**  |
+| 板 ban3 | 板 baan2 | 板 ban   | 판 pan  | bản   | **ban**  |
 | 术 shu4 | 術 seot6 | 術 jutsu | 술 sul  | thuật | **shute** |
-
-
-### Mapping syllables from Mandarin to Pandunia
-
-What follows are tables that include transformation of all existing Mandarin syllables into Pandunia's phonology and spelling.
-The header row and column include all Mandarin initials and finals, respectively, in Hanyu Pinyin.
-The data cells include the Mandarin syllables transformed into Pandunia spelling.
-
-The tables can be used when an adaptation of a Mandarin word is needed in Pandunia
-or when a Mandarin word is added to the pool of all Sinitic cognates.
-The final word in Pandunia can be affected by other languages and the tone-to-vowel transformation rules.
-
-#### Vowels and diphthongs
-
-|     | -   |  b  |  p  |  m  |  f  |  d  |  t  |  n  |  l  |  g  |  k  |  h  |j/zh |q/ch |x/sh |  r  |  z  |  c  |  s  |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| a   | a   | ba  | pa  | ma  | fa  | da  | ta  | na  | la  | ga  | ka  | ha  | ja  | cha | sha |     | za  | ca  | sa  |
-| o   | o   | bo  | po  | mo  | fo  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| uo  | vo  |     |     |     |     | do  | to  | no  | lo  | go  | ko  | ho  | jo  | cho | sho | ro  | zo  | co  | so  |
-| ou  | ou  |     | pou | mou | fou | dou | tou | nou | lou | gou | kou | hou | jou |chou |shou | rou | zou | cou | sou |
-| u   | vu  | bu  | pu  | mu  | fu  | du  | tu  | nu  | lu  | gu  | ku  | hu  | ju  | chu | shu | ru  | zu  | cu  | su  |
-| e   | e   |     |     | me  |     | de  | te  | ne  | le  | ge  | ke  | he  | je  | che | she | re  | ze  | ce  | se  |
-| ai  | ai  | bai | pai | mai |     | dai | tai | nai | lai | gai | kai | hai | jai | chai| shai|     | zai | cai | sai |
-| ei  | ei  | bei | pei | mei | fei | dei | tei | nei | lei | gei | kei | hei | jei |     | shei|     | zei |     |     |
-| i   |     |     |     |     |     |     |     |     |     |     |     |     | ji  | chi | shi | ri  | zi  | ci  | si  |
-| i   | i   | bi  | pi  | mi  |     | di  | ti  | ni  | li  |     |     |   |gi/ji|ki/chi|hi/shi|     |     |     |     |
-| ie  | ye  | bie | pie | mie |     | die | tie | nie | lie |     |     | |gie/jie|kie/chie|hie/shie| |     |     |     |
-| ia  | ya  |     |     |     |     | dia |     |     | lia |     |     | |gia/jia|kia/chia|hia/shia| |     |     |     |
-| iao | yo  | bio | pio | mio |     | dio | tio | nio | lio |     |     | |gio/jio|kio/chio|hio/shio| |     |     |     |
-| iu  | you |     |     | miu |     | diu |     | niu | liu |     |     | |giu/jiu|kiu/chiu|hiu/shiu| |     |     |     |
-| ü   | yu  |     |     |     |     |     |     | nu  | lu  |     |     |   |gu/ju|ku/chu|hu/shu|     |     |     |     |
-| üe  | yue |     |     |     |     |     |     | nüe | lüe |     |     | |gue/jue|kue/chue|hue/shue| |     |     |     |
-| ao  | au  | bau | pau | mau |     | dau | tau | nau | lau | gau | kau | hau | jau | chau| shau| rau | zau | cau | sau |
-| ua  | va  |     |     |     |     |     |     |     |     | gua | kua | hua | jua | chua| shua| rua |     |     |     |
-| uai | vai |     |     |     |     |     |     |     |     |guai |kuai |huai | juai|chuai|shuai|     |     |     |     |
-| ui  | vei |     |     |     |     | dui | tui |     |     | gui | kui | hui | jui |chui |shui | rui | zui | cui | sui |
-| er  | er  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-
-### Finals with -n
-
-|     | -   |  b  |  p  |  m  |  f  |  d  |  t  |  n  |  l  |  g  |  k  |  h  |j/zh |q/ch |x/sh |  r  |  z  |  c  |  s  |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| an  | an  | ban | pan | man | fan | dan | tan | nan | lan | gan | kan | han | jan |chan |shan | ran | zan | can | san |
-| en  | en  | bon¹| pon¹| mon¹| fon²| don |     | non |     | gon³| kon³| hon³| jon |chon |shon | ren | zen | cen | sen |
-| ian | yen | ben | pen | men |     | den | ten | nen | len |     |     |     | jen |chen |shen |     |     |     |     |
-| in  | yin | bin | pin | min |     |     |     | nin | lin |     |     |     | jin |chin |shin |     |     |     |     |
-| un  | vun |     |     |     |     | dun | tun | nun | lun | gun | kun | hun | jun |chun |shun | run | zun | cun | sun |
-| ün  | yun |     |     |     |     |     |     |     |     |     |     |     | jun |chun |shun |     |     |     |     |
-| uan | van |     |     |     |     |duan |tuan |nuan |luan |guan |kuan |huan |juan |chuan|shuan|ruan |zuan |cuan |suan |
-| üan | ven |     |     |     |     |     |     |     |     |     |     |     |juen |chuen|shuen|     |     |     |     |
-
-Additional specifications for initials that have incomplete set of finals (i.e. empty space in the table):
-
-|        | (1)    | (2)  | (3)    |
-|--------|--------|------|--------|
-| Tone 1 | bon, … | fon  | gon, … |
-| Tone 2 | bun, … |      | gon, … |
-| Tone 3 | bun, … | fun  | gon, … |
-| Tone 4 | bon, … | fen  | gen, … |
-
-
-#### Finals with -ng
-
-|     | -   |  b  |  p  |  m  |  f  |  d  |  t  |  n  |  l  |  g  |  k  |  h  |j/zh |q/ch |x/sh |  r  |  z  |  c  |  s  |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| ang | ang |bang |pang |mang |fang |dang |tang |nang |lang |gang |kang |hang |jang |chang|shang|rang |zang |cang |sang |
-| eng | eng |beng¹|peng¹|meng¹|feng¹|deng |teng |neng |leng |geng |keng |heng |jeng |cheng|sheng|reng |zeng |ceng |seng |
-| ing | ing |bing |ping |ming |     |ding |ting |ning |ling |     |     |     |jing |ching|shing|     |     |     |     |
-| ong |     |     |     |     |     |dong²|tong²|nong²|long²|gong²|kong²|hong²|jung |chung|     |rong²|zong²|cong²|song²|
-|iong |yong |     |     |     |     |     |     |     |     |     |     |     |jong |chong|shong|     |     |     |     |
-|ueng |veng |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-|uang |vang |     |     |     |     |     |     |     |     |guang|kuang|huang|juang|chuang|shuang|   |     |     |     |
-|iang |yang |     |     |     |     |     |     |niang|liang|     |     |     |jiang|chiang|shiang|   |     |     |     |
-
-Additional specifications:
-
-|        | (1)     | (2)     |
-|--------|---------|---------|
-| Tone 1 | bong, … | dong, … |
-| Tone 2 | bung, … | dung, … |
-| Tone 3 | bung, … | dung, … |
-| Tone 4 | beng, … | dong, … |
-
