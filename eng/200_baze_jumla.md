@@ -696,10 +696,10 @@ I talk to you.
 **mimen loge to semen.**
 We talk to each other.
 
-**se loge "chat" a ke yang a pandunia?**
+**se loge "cat" a ke yang a pandunia?**
 How do you say "cat" in Pandunia?
 
-**"chat" es ke a pandunia?**
+**"cat" es ke a pandunia?**
 What is "cat" in Pandunia?
 
 **mau loge "miau".**
@@ -1002,10 +1002,10 @@ He/she can't pay the rent.
 **mi vol sepe un char a kira.**  
 I want to take a car for rent.
 
-**mi vol kira sepe un kar.**
+**mi vol kira sepe un char.**
 I want to rent a car.
 
-**da kira don la kamar to safarja.**
+**da kira don la kamar to safarer.**
 He/she rents rooms to travelers.
 
 
