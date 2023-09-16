@@ -2,7 +2,7 @@
 
 prepare() {
     lexoliste="temp/lexaslia.csv"
-    cat ../panlexia/lexia.csv | awk -F "|" "{print \$3\",\"\$7}" > $lexoliste
+    cat ../panlexia/lexia.csv | awk -F "|" "{print \$2\",\"\$6}" > $lexoliste
     #mortife duime line
     sed -i '2d' $lexoliste
     #mortife la hali line

@@ -1,8 +1,8 @@
 #!/bin/bash
 kitaba_pike() {
-   echo "# nume de pandunia lexe de alo baxe" > pandunia/lexi_nume.md
+   echo "# nume de pandunia lexe de ale bashe" > pandunia/lexi_nume.md
    echo "" >> pandunia/lexi_nume.md
-   echo "| baxe  | nume  | fen |" >> pandunia/lexi_nume.md
+   echo "| bashe | nume  | fen |" >> pandunia/lexi_nume.md
    echo "|-------|-------|-----|" >> pandunia/lexi_nume.md
    cat temp/stats.txt >> pandunia/lexi_nume.md
 }

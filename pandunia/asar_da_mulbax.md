@@ -1,12 +1,12 @@
-# asar da mula basha da pandunia
+# asar de mule bashe de pandunia
 
-| baxe  | asar |
+| bashe | asar |
 |-------|--------|
 | english | 10% |
 | doice | 3% |
 | franse | 8% |
 | espan | 9% |
-| portugal | 9% |
+| portugal | 8% |
 | rus | 7% |
 | hindi | 7% |
 | bangla | 4% |
@@ -20,6 +20,6 @@
 | viet | 3% |
 | malayu | 5% |
 | arabe | 4% |
-| suahili | 3% |
+| suahili | 4% |
 | hausa | 1% |
 | ful | 1% |

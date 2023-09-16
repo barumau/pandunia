@@ -1,26 +1,26 @@
-# nume de pandunia lexe de alo baxe
+# nume de pandunia lexe de ale bashe
 
-| baxe  | nume  | fen |
+| bashe | nume  | fen |
 |-------|-------|-----|
-| pan | 1655 | 100% |
-| englix | 1150 | 69% |
-| espanya | 1065 | 64% |
-| portugal | 1023 | 62% |
-| franse | 1011 | 61% |
-| rus | 897 | 54% |
-| hindi | 791 | 48% |
-| nipon | 707 | 43% |
-| malayu | 666 | 40% |
-| turki | 575 | 35% |
-| arabi | 542 | 33% |
-| cosen | 534 | 32% |
-| bangla | 494 | 30% |
-| putonghan | 478 | 29% |
-| suahili | 465 | 28% |
-| doice | 397 | 24% |
-| parsi | 347 | 21% |
-| viet | 334 | 20% |
-| guangdonghan | 248 | 15% |
-| hausa | 175 | 11% |
-| ful | 125 | 8% |
-| tamil | 108 | 7% |
+| pan | 3 | 100% |
+| viet | 0 | 0% |
+| turki | 0 | 0% |
+| tamil | 0 | 0% |
+| suahili | 0 | 0% |
+| rus | 0 | 0% |
+| putonghan | 0 | 0% |
+| portugal | 0 | 0% |
+| parsi | 0 | 0% |
+| nipon | 0 | 0% |
+| malayu | 0 | 0% |
+| hindi | 0 | 0% |
+| hausa | 0 | 0% |
+| guangdonghan | 0 | 0% |
+| ful | 0 | 0% |
+| franse | 0 | 0% |
+| espanya | 0 | 0% |
+| englix | 0 | 0% |
+| doice | 0 | 0% |
+| cosen | 0 | 0% |
+| bangla | 0 | 0% |
+| arabi | 0 | 0% |
