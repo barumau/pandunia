@@ -12,7 +12,7 @@ hide:
 Welcome to learn about Pandunia,
 a little language that wants to help the whole world!
 
-![](http://www.pandunia.info/grafe/halo_dunia.png "halo dunia!")  
+![](http://www.pandunia.info/grafe/halo_dunia.png "sal dunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 ## What is Pandunia?
@@ -69,20 +69,20 @@ The final version of Pandunia will be published in 2023.
 Many people are already interested about Pandunia and they are speaking it.
 You can find Pandunia forums in several places:
 
-| Platform | Channel | Purpose |
+| Platform | Channel | Topics  |
 |----------|---------|---------|
+| Discord  | [Dedicated Pandunia server](https://discord.gg/jf5GHcHXKk) | Everything |
 | Reddit   | [r/pandunia](https://www.reddit.com/r/pandunia/) | News and discussion |
 | Facebook | [Pandunia group](http://www.facebook.com/groups/pandunia) | Discussion |
-| Discord  | [Dedicated Pandunia server](https://discord.gg/jf5GHcHXKk) | Everything |
 | Telegram | [multilingual channel](https://t.me/pandunia_grupe) | Discussion |
-| Telegram | [mimen loga pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) | Practicing. Only Pandunia is spoken here! |
+| Telegram | [mimen loge pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) | Practicing. Only Pandunia is spoken here! |
 | QQ       | 717549404 | Discussion in Chinese and other languages |
 
 You can find other Pandunia speakers in [Amikumu](https://amikumu.com/) app!
 
 Please help to [translate this site](trabaxa_neteloka.md) into new languages!
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")  
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen bashe pandunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 You can contact the creator and a main developer of Pandunia, Risto Kupsala, via email
