@@ -3,7 +3,7 @@
 
 Making new words from existing words is called word derivation.
 Often a new word is made by adding a prefix or suffix, such as _un-_ and _-ness_ in English.
-For example, _unhappy_ and _happiness_ are derived from the root word _happy_.
+For example, _un-happy_ and _happi-ness_ are derived from the root word _happy_.
 
 New words can be built freely in Pandunia!
 Pandunia has a word derivation system that is regular and productive.
@@ -21,14 +21,14 @@ For example, the word **hali** can function equally as an adjective (_blank_ or 
 – Do you have some blank paper?  
 **don mi un hali!**
 – Give me a blank!  
-**tu mus hali vo lexe.**
+**tu mus hali vo lexi.**
 – You must blank out that word.
 
 Likewise, the word **kitabe** can function as a verb (_to write_), a noun (_a writing_) and adjective (_written_ or _textual_).
 
 **mi kitabe letre.**
 – I write a letter.  
-**letre es kitabe misaje.**
+**letre es kitabe misije.**
 – A letter is a written message.  
 **mi ame tu su kitabe.**
 – I love your writings.
@@ -37,34 +37,41 @@ Likewise, the word **kitabe** can function as a verb (_to write_), a noun (_a wr
 ## Compound Words
 
 A compound word is a word that is formed of two or more simpler words in order to yield a new meaning.
-words can be made easily in Pandunia just like in many natural languages.
+New compound words can be created freely and easily in Pandunia.
+There are types of compound words in Pandunia.
 
+1. Closed compounds are written together and there is no space between the words.
+   For example, **poste** 'mail' + **kan** 'place for working' = **postekan** 'post office'.
+2. Open compounds are written separately and there is a space between the words.
+   For example, **tomato** 'tomato' + **sos** 'sauce' = **tomato sos** 'tomato sauce',
 
-Either just write the that words you want to combine next to each other,
-like **tomato** 'tomato' + **sos** 'sauce' = **tomato sos** 'tomato sauce',
-or simply join them together,
-like **poste** 'mail' + **kan** 'place for working' = **postekan** 'post office'.
+There is little or no difference between open compounds and closed compounds in Pandunia from grammatical point of view.
+Compound words that are well-established tend to be closed compounds,
+while unestablished and improvised compound words tend to be open compounds.
 
-The former is called an _open compound_ and the latter a _closed compound_.
-There is little difference between open compounds and closed compounds.
-Compound words that are stable and fixed tend to be written together,
-whereas new compound words tend to be written separately.
+Pandunia's system of word derivation is designed to produce compound words
+that look and/or sound so close to international words that they are easy to recognize.
+They are not meant to be identical with words in English or in any other language,
+because international words tend to be written and pronounced in more or less different ways from language to language.
+In fact, compound words are built in a different way in Pandunia than in European languages,
+though the results usually look mostly similar.
 
-When words are joined together,
-the final **-e** of the base word disappears if it is followed by a suffix that starts with a vowel.
-For example **kriste** 'Christ' + **isme** 'creed' = **kristisme** 'Christianity'.
-Vowels other than **e** can't be deleted. For example, **a** remains in the following compound:
-**lama** 'lama' + **isme** 'creed' = **lamaisme** 'lamaism'.
+For example, English word *antidemocratic* can be divided into parts thus: *anti-dem-o-crat-ic*.
+It is completely made up of bound morphemes, units that can't stand alone
+but that can only appear as part of another word.
+The corresponding Pandunia word, *antidemikratiki*, is made up of stand-alone words
+and it could be written even as an open compound: *anti demi krati ki*.
+The structure of this compound word in Pandunia is identical with the corresponding word in Mandarin,
+*fǎn mín zhǔ de* (反民主的).
+So Pandunia's word derivation system is structurally closer to the East Asian type than the European type.
 
-This is almost all you need to know to make compound words.
-Apart from these, there are a few special, internationally known compound words rooted in Greek,
-where an **-e-** sound at the end of the first word turns into **-o-** to combine it with the next word.
-For example:  
-**fote** 'light' + **grafe** 'image' = **fotografe** 'photograph'  
-**deme** 'people' + **kratia** 'rule' = **demokratia** 'democracy'  
-This kind of _Greek compounds_ could be sometimes written as normal closed compounds,
-like **fotegrafe** and **demekratia**,
-and it should not be considered an error because the difference is minimal and harmless.
+| Pandunia | English | Mandarin |
+|----------|---------|----------|
+| anti     | anti-   | fán      |
+| demi     | dem-    | mín      |
+|          | -o-     |          |
+| krati    | crat-   | zhǔ      |
+| ki       | -ic     | de       |
 
 
 ## Affixes
@@ -72,10 +79,10 @@ and it should not be considered an error because the difference is minimal and h
 Affixes, i.e. prefixes and suffixes, are very important and give great flexibility to the language.
 They are joined or merged to the base word.
 
-For example, the word **Geia** 'planet Earth' consists of the base word **gee** 'earth, ground'
+For example, the word **Geia** 'planet Earth' consists of the base word **gei** 'earth, ground'
 and the collective noun suffix **-ia**.
 
-           gee       'earth, ground'
+           gei       'earth, ground'
        +   -ia       'collective noun suffix'
     _____________
     =      Geia      'planet Earth, Gaia'
@@ -85,26 +92,24 @@ The last root is the most meaningful part in the compound
 and the preceding roots only modify its meaning.
 
            pan       'all'
-       +  deme       'people, public'
-       +  -ike       'adjectival suffix'
+       +  demi       'people, public'
+       +   -ke       'adjectival suffix'
     _____________
     = pandemike      'pandemic'
 
 The connecting vowel **-o-** is inserted between the elements in Greek compounds.
 
-           deme      'people, public'
-       +    -o-      'connecting vowel for Greek compounds'
-       +  krate      'rule, govern'
+           demi      'people, public'
+       +  krati      'rule, govern'
        +    -ia      'collective noun suffix'
     _____________
-    = demokratia     'democracy'
+    = demikratia     'democracy'
 
-          terme      'temperature'
-       +    -o-      'connecting vowel for Greek compounds'
+          termi      'temperature'
        +  metre      'measure'
-       +    -er      'agent or apparatus'
+       +     -r      'agent or apparatus'
     ____________
-    = termometrer     'thermometer'
+    = termimetrer     'thermometer'
 
 Pandunia has adopted international prefixes,
 including **a-**, **de-**, **pro-**, **re-** and **su-** among others,
@@ -343,43 +348,58 @@ are not compound words in Pandunia.
 
 ### Suffixes
 
-**-aje**
+**-do**
+'degree, level' :  
+**gau**
+'high'
+→ **gaudo**
+'height, level of height'  
+**long**
+'long'
+→ **longdo**
+'length, degree of length'  
+**kuan**
+'wide'
+→ **kuando**
+'width'  
+**raditi**
+'radiation'
+→ **raditido**
+'radiation intensity'
+
+**-je**
 'thing made of or consisting of' :  
-**bage**
+**baga**
 'bag'
 → **bagaje**
 'baggage, luggage'  
-**forme**
-'form'
-→ **formaje**
-'format, formation'  
 **kore**
 'core'
-**koraje**
+**koreje**
 'guts, the things in the core'  
-**mise**
+**misi**
 'send'
-→ **misaje**
+→ **misije**
 'something sent, message'  
-**fase**
+**fasa**
 'face'
 → **fasaje**
 'facade, frontage'  
 **limon**
 'lemon'
-→ **limonaje**
+→ **limonje**
 'lemonade'
 
-**-al**
+**-li**
 'belonging or related to' :  
-**fine**
+**fin**
 'end'
-→ **final**
+→ **finli**
 'final, related to the end'  
-**karne**
-'flesh'
-→ **karnal**
-'fleshly, related to flesh'
+**dunia**
+'world, globe'
+→ **duniali**
+'global, worldly'
 
 **-an**
 'one who belongs to, one who has membership in' :  
@@ -408,20 +428,20 @@ are not compound words in Pandunia.
 → **human**
 'earthling' and, _by extension_, 'human being'
 
-**-ate**
+**-ti**
 'do, act' :  
-**rote**
+**rota**
 'wheel'
-→ **rotate**
+→ **rotati**
 'rotate, turn like a wheel'
 
-**-ation** = **-ate** + **-ion**
+**-tion** = **-ti** + **-on**
 'doing, action' :  
-**anime**
+**anima**
 'to animate'
 → **animation**
 'animation, animating'  
-**rote**
+**rota**
 'wheel'
 → **rotation**
 'rotation, turning like a wheel'
@@ -437,18 +457,18 @@ are not compound words in Pandunia.
 → **uzebil**
 'one that can be used, usable'
 
-**-eme**
+**-me**
 'distinct meaningful element' :  
 **fone**
 'speech sound'
 → **foneme**
 'phoneme, distinct speech sound'  
-**lexe**
+**lexi**
 'word'
-→ **lexeme**
+→ **lexime**
 'lexeme'
 
-**-(e)r**
+**-r**
 'doer, agent, -er' :  
 **beke**
 'bake'
@@ -458,9 +478,9 @@ are not compound words in Pandunia.
 'lead'
 → **lider**
 'leader, the one who leads'  
-**filsofe**
+**filsofi**
 'think deeply'
-→ **filsofer**
+→ **filsofir**
 'philosopher'  
 **sapate**
 'shoe'
@@ -475,7 +495,7 @@ are not compound words in Pandunia.
 → **kaser**
 'cashier'
 
-**-(e)ria**
+**-ria**
 'place for making, producing or selling; profession' :  
 **beker**
 'baker'
