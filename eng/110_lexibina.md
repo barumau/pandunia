@@ -149,7 +149,7 @@ are not compound words in Pandunia.
 ### Prefixes
 
 **a-**
-'to oneself' :  
+'to oneself':  
 **sepe**
 'take, catch'
 → **asepe**
@@ -160,7 +160,7 @@ are not compound words in Pandunia.
 'tie to oneself, ally'
 
 **an-**
-'without, not having, not doing, un-, in-, non-, -less' :  
+'without, not having, not doing, un-, in-, non-, -less':  
 **alkolike**
 'alcoholic'
 → **analkolike**
@@ -187,7 +187,7 @@ are not compound words in Pandunia.
 'unusable'
 
 **be-**
-'the passive recipient of an action, -ed, -ee' :  
+'the passive recipient of an action, -ed, -ee':  
 **sepe**
 'take, catch'
 → **besepe**
@@ -198,7 +198,7 @@ are not compound words in Pandunia.
 '(be) trusted, trustee'
 
 **de-**
-'away, off' :  
+'away, off':  
 **sepe**
 'take, catch'
 → **desepe**
@@ -221,7 +221,7 @@ are not compound words in Pandunia.
 'unplug, remove the plug, cap or stopper'
 
 **ex-**
-'out' :  
+'out':  
 **sepe**
 'take, catch'
 → **exsepe**
@@ -232,7 +232,7 @@ are not compound words in Pandunia.
 'thrust out, eject'
 
 **in-**
-'in, into, in-, en-' :  
+'in, into, in-, en-':  
 **jete**
 'thrust'
 → **injete**
@@ -243,7 +243,7 @@ are not compound words in Pandunia.
 'close in, enclose, include'
 
 **kon-, kom-**
-'together' :  
+'together':  
 **tene**
 'hold, keep'
 → **kontene**
@@ -265,7 +265,7 @@ are not compound words in Pandunia.
 'use up'
 
 **pos-**
-'after, later, post-' :  
+'after, later, post-':  
 **poze**
 'put, pose'
 → **pospoze**
@@ -276,7 +276,7 @@ are not compound words in Pandunia.
 'post-production'
 
 **pre-**
-'before' :  
+'before':  
 **poze**
 'put, pose'
 → **prepoze**
@@ -291,7 +291,7 @@ are not compound words in Pandunia.
 'foresee, preview'
 
 **pro-**
-'onward, forth' :  
+'onward, forth':  
 **poze**
 'put, pose'
 → **propoze**
@@ -302,7 +302,7 @@ are not compound words in Pandunia.
 'call forth, provoke'
 
 **re-**
-'back' :  
+'back':  
 **ate**
 'to act'
 → **reate**
@@ -313,7 +313,7 @@ are not compound words in Pandunia.
 'to turn back'
 
 **ri-**
-'again, re-' :  
+'again, re-':  
 **forme**
 'form'
 → **riforme**
@@ -348,8 +348,19 @@ are not compound words in Pandunia.
 
 ### Suffixes
 
+**-bil**
+'that can be done':  
+**vide**
+'see, view'
+→ **videbil**
+'one that can be seen, visible'  
+**uze**
+'use'
+→ **uzebil**
+'one that can be used, usable'
+
 **-do**
-'degree, level' :  
+'degree, level':  
 **gau**
 'high'
 → **gaudo**
@@ -367,8 +378,19 @@ are not compound words in Pandunia.
 → **raditido**
 'radiation intensity'
 
+**-fa**
+'become, make or turn into, -ify':  
+**simpli**
+'simple'
+→ **simplifa**
+'make simple, simplify'  
+**lau**
+'old, aged, outdated'
+→ **laufa**
+'make or become old'
+
 **-je**
-'thing made of or consisting of' :  
+'thing made of or consisting of':  
 **baga**
 'bag'
 → **bagaje**
@@ -390,19 +412,8 @@ are not compound words in Pandunia.
 → **limonje**
 'lemonade'
 
-**-li**
-'belonging or related to' :  
-**fin**
-'end'
-→ **finli**
-'final, related to the end'  
-**dunia**
-'world, globe'
-→ **duniali**
-'global, worldly'
-
-**-an**
-'one who belongs to, one who has membership in' :  
+**-jen**
+'one who belongs to, one who has membership in':  
 **Amerike**
 'America'
 → **amerikan**
@@ -428,37 +439,8 @@ are not compound words in Pandunia.
 → **human**
 'earthling' and, _by extension_, 'human being'
 
-**-ti**
-'do, act' :  
-**rota**
-'wheel'
-→ **rotati**
-'rotate, turn like a wheel'
-
-**-tion** = **-ti** + **-on**
-'doing, action' :  
-**anima**
-'to animate'
-→ **animation**
-'animation, animating'  
-**rota**
-'wheel'
-→ **rotation**
-'rotation, turning like a wheel'
-
-**-bil**
-'that can be done' :  
-**vide**
-'see, view'
-→ **videbil**
-'one that can be seen, visible'  
-**uze**
-'use'
-→ **uzebil**
-'one that can be used, usable'
-
 **-me**
-'distinct meaningful element' :  
+'distinct meaningful element':  
 **fone**
 'speech sound'
 → **foneme**
@@ -469,7 +451,7 @@ are not compound words in Pandunia.
 'lexeme'
 
 **-r**
-'doer, agent, -er' :  
+'doer, agent, -er':  
 **beke**
 'bake'
 → **beker**
@@ -496,7 +478,7 @@ are not compound words in Pandunia.
 'cashier'
 
 **-ria**
-'place for making, producing or selling; profession' :  
+'place for making, producing or selling; profession':  
 **beker**
 'baker'
 → **bekeria**
@@ -514,8 +496,63 @@ are not compound words in Pandunia.
 → **enjeneria**
 'engineering'
 
+**-ki**
+'that which is like':  
+**un**
+'one'
+→ **unike**
+'only, sole, single'  
+**makin**
+'machine'
+→ **makinike**
+'machine-like, mechanical'
+
+**-li**
+'belonging or related to':  
+**fin**
+'end'
+→ **finli**
+'final, related to the end'  
+**dunia**
+'world, globe'
+→ **duniali**
+'global, worldly'
+
+**-me**
+'the most, superlative':  
+**pre**
+'fore, front'
+→ **prime**
+'foremost, prime'  
+**extre**
+'outside, exterior'
+→ **extrime**
+'outermost, extreme'
+
+**-sme** ~ **-isme**
+'ideology, way of thinking, way of living, ism':  
+**alkol**
+'alcohol'
+→ **alkolisme**
+'alcoholism'  
+**dei**
+'god'
+→ **deisme**
+'theism'
+
+**-ste** ~ **-iste**
+'person who tends to behave or think in a certain way, adherent of an ideology or religion':  
+**alkol**
+'alcohol'
+→ **alkoliste**
+'alcoholic, alcoholist'  
+**dee**
+'god'
+→ **deiste**
+'theist, one who believes in existence of a god or gods'
+
 **-ta**
-'-ness, state of being' :  
+'-ness, state of being':  
 **dai**
 'big, great'
 → **daita**
@@ -525,9 +562,70 @@ are not compound words in Pandunia.
 → **longta**
 'length'
 
+**-tor**
+'doer, agent, apparatus, device, machine':  
+**trate**
+'drag, haul'
+→ **trator**
+'tractor'  
+**fotografe**
+'photograph'
+→ **fotografor**
+'photograph apparatus, camera'
 
-**-ia**
-'collection of, aggregation of' :  
+**-te**
+'diminutive, indicating small size or youth':  
+**kase**
+'case, box'
+→ **kasete**
+'cassette'  
+**pake**
+'pack, package'
+→ **pakete**
+'packet'
+
+**-ti**
+'do, act, doing, action':  
+**rota**
+'wheel'
+→ **rotati**
+'turn like a wheel, rotate, rotation'
+
+**-tion** = **-ti** + **-on**
+'doing, action':  
+**anima**
+'to animate'
+→ **animation**
+'animation, animating'  
+**rota**
+'wheel'
+→ **rotation**
+'rotation, turning like a wheel'
+
+**-tur**
+'result or product':  
+**kulte**
+'cultivate (a way of life)'
+→ **kulture**
+'culture'  
+**mixe**
+'mix'
+→ **mixure**
+'mixture'
+
+**-vi**
+'inclined to':  
+**ati**
+'act, perform'
+→ **ativi**
+'active, inclined to act'  
+**explozi**
+'explode'
+→ **explozivi**
+'explosive'
+
+**-ya** ~ **-a**
+'collection of, aggregation of':  
 **human**
 'human being'
 → **humania**
@@ -545,9 +643,9 @@ This ending is often used in place names, especially in country names.
 However it is not always used.
 There are also a lot of country names that do not end in **-ia**.
 
-**-ia**
-'area, region, country' :  
-**arabe**
+**-ya** ~ **-a**
+'area, region, country':  
+**arabi**
 'Arab, Arabic'
 → **Arabia**
 'Arabia'  
@@ -555,11 +653,11 @@ There are also a lot of country names that do not end in **-ia**.
 'Russian, Ruski'
 → **Rusia**
 'Russia'  
-**turke**
+**turki**
 'Turk, Turkish'
 → **Turkia**
 'Turkey'  
-**itale**
+**itali**
 'Italic, Italian'
 → **Italia**
 'Italy'  
@@ -568,140 +666,42 @@ There are also a lot of country names that do not end in **-ia**.
 **Indonesia**
 'Indonesia'
 
-**-ike**
-'that which is like' :  
-**un**
-'one'
-→ **unike**
-'only, sole, single'  
-**makin**
-'machine'
-→ **makinike**
-'machine-like, mechanical'
-
-**-ime**
-'the most, superlative' :  
-**pre**
-'fore, front'
-→ **prime**
-'foremost, prime'  
-**extre**
-'outside, exterior'
-→ **extrime**
-'outermost, extreme'
-
-**-ion**
-'action, process' :  
-**dite**
-'say'
-→ **dition**
-'saying, diction'  
-**rotate**
-'turn like a wheel'
-→ **rotation**
-'rotation, turning'
-
-**-iste**
-'person who tends to behave or think in a certain way, adherent of an ideology or religion' :  
-**alkol**
-'alcohol'
-→ **alkoliste**
-'alcoholic, alcoholist'  
-**dee**
-'god'
-→ **deiste**
-'theist, one who believes in existence of a god or gods'
-
-**-isme**
-'ideology, way of thinking, way of living, ism' :  
-**alkol**
-'alcohol'
-→ **alkolisme**
-'alcoholism'  
-**dee**
-'god'
-→ **deisme**
-'theism'
-
-**-ive**
-'inclined to' :  
-**ate**
-'act, perform'
-→ **ative**
-'active, inclined to act'  
-**exploze**
-'explode'
-→ **explozive**
-'explosive'
-
-**-ize**
-'furnish or equip with' :
+**-za**
+'furnish or equip with':  
 **aure**
 'gold'
-→ **aurize**
+→ **auriza**
 'to gild, to coat with gold'
 
-**-or**
-'apparatus, device, machine' :  
-**trate**
-'drag, haul'
-→ **trator**
-'tractor'  
-**fotografe**
-'photograph'
-→ **fotografor**
-'photograph apparatus, camera'
-
-**-ule**
-'diminutive, indicating small size or youth' :  
-**kume**
-'mound, hill'
-→ **kumule**
-'hillock, heap, pile'  
-**node**
-'knot'
-→ **nodule**
-'nodule, small lump'
-
-**-ure**
-'result or product' :  
-**kulte**
-'cultivate (a way of life)'
-→ **kulture**
-'culture'  
-**mixe**
-'mix'
-→ **mixure**
-'mixture'
 
 ### Affixes for chemistry
 
 **-al**
-'aldehyde' :  
+'aldehyde':  
 **metanal**
 'formaldehyde, methanal'
 
 **-an**
-'alkane group' :  
+'alkane group':  
 **metil**
 'methyl'
 → **metan**
 'methane'
 
 **-ate**
-'salt or ester' :  
+'salt or ester':  
 **sulfe**
 'sulfur'
 → **sulfate**
 'sulfate'  
 
 **-en**
-'alkene group' :  
+'alkene group':  
 **meten**
 'methen'
 
 **-il**
-'alkyl group' :  
+'alkyl group':  
 **bute**
 'butter'
 → **butil**
@@ -712,33 +712,33 @@ There are also a lot of country names that do not end in **-ia**.
 'methyl'
 
 **-in**
-'alkyne group' :  
+'alkyne group':  
 **metin**
 'methyne'
 
 **-ite**
-'salt or ester' :  
+'salt or ester':  
 **sulfe**
 'sulfur'
 → **sulfite**
 'sulfite'
 
 **-ol**
-'alcoholic compound' :  
+'alcoholic compound':  
 **etan**
 'ethane'
 → **etanol**
 'ethanol'
 
 **-on**
-'ketone group' :  
+'ketone group':  
 **propan**
 'propane'
 → **propanon**
 'propanone'
 
 **-os**
-'sugar' :  
+'sugar':  
 **frute**
 'fruit'
 → **frutos**
