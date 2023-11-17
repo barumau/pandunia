@@ -343,8 +343,10 @@ are not compound words in Pandunia.
 
 ### Suffixes
 
-**-aje**
-'thing made of or consisting of' :  
+#### -aje
+
+The suffix *-aje* means something that is made of or something that consists of the thing indicated by the base word.
+
 **bage**
 'bag'
 → **bagaje**
@@ -370,19 +372,35 @@ are not compound words in Pandunia.
 → **limonaje**
 'lemonade'
 
-**-al**
-'belonging or related to' :  
+#### -al ~ -ial
+
+The suffix *-al* means that something belongs to or is related to the thing or person indicated by the base word.
+
 **fine**
 'end'
 → **final**
-'final, related to the end'  
+'final, belonging to the end'  
 **karne**
 'flesh'
 → **karnal**
 'fleshly, related to flesh'
 
-**-an**
-'one who belongs to, one who has membership in' :  
+When *-al* is suffixed to a base word that ends in *-ia*, they merge together into *-ial*.
+
+**dunia**
+'world'
+→ **dunial**
+'worldly'  
+**imperia**
+'empire'
+→ **imperial**
+'imperial'
+
+#### -an
+
+The suffix *-an* denotes someone that is a member of a community, such as a country, city or a club.
+When this suffix is added to a base word that ends in *-ia*, they merge together into *-ian*.
+
 **Amerike**
 'America'
 → **amerikan**
@@ -406,17 +424,27 @@ are not compound words in Pandunia.
 **hume**
 'earth, soil'
 → **human**
-'earthling' and, _by extension_, 'human being'
+'earthling' and, by extension, 'human being'
 
-**-ate**
-'do, act' :  
+#### -ate
+
+The suffix *-ate* means to do or act.
+It turns the base word into an action word.
+
 **rote**
 'wheel'
 → **rotate**
-'rotate, turn like a wheel'
+'to act like a wheel, to rotate'  
+**oper**
+'worker'
+→ **operate**
+'to act like a worker, to work, to operate'
 
-**-ation** = **-ate** + **-ion**
-'doing, action' :  
+#### -ation
+
+This suffix is the merger of *-ate* and *-ion*.
+It means doing or action.
+
 **anime**
 'to animate'
 → **animation**
@@ -426,8 +454,10 @@ are not compound words in Pandunia.
 → **rotation**
 'rotation, turning like a wheel'
 
-**-bil**
-'that can be done' :  
+#### -bil
+
+The suffix *-bil* means that something is possible or able to be done.
+
 **vide**
 'see, view'
 → **videbil**
@@ -437,29 +467,47 @@ are not compound words in Pandunia.
 → **uzebil**
 'one that can be used, usable'
 
-**-eme**
-'distinct meaningful element' :  
+#### -eme
+
+This rarely used suffix means a fundamental unit in the system of things that is indicated by the base word.
+For example,
+*lexeme*
+'lexeme' is the fundamental unit in the system of
+*lexe*
+'words'.
+For example *spoke* and *spoken* are individual words but they represent the same underlying fundamental unit, which is *speak* in its basic form.
+
 **fone**
 'speech sound'
 → **foneme**
-'phoneme, distinct speech sound'  
+'phoneme, minimal distuingishable speech sound'  
 **lexe**
 'word'
 → **lexeme**
-'lexeme'
+'lexeme, fundamental unit of a family of words'  
+**mite**
+'myth'
+→ **miteme**
+'mytheme, an archetypal story'
 
-**-(e)r**
-'doer, agent, -er' :  
+#### -er
+
+The suffix *-er* means a doer or agent of the action that is indicated by the base word.
+
+**ate**
+'to do, to act'
+→ **ater**
+'doer, actor, one who does or acts'  
 **beke**
-'bake'
+'to bake'
 → **beker**
 'baker'  
 **lide**
-'lead'
+'to lead'
 → **lider**
 'leader, the one who leads'  
 **filsofe**
-'think deeply'
+'to think deeply'
 → **filsofer**
 'philosopher'  
 **sapate**
@@ -471,43 +519,53 @@ are not compound words in Pandunia.
 → **musketer**
 'musketeer'  
 **kase**
-'cash box, cash register'
+'box, cash box'
 → **kaser**
 'cashier'
 
-**-(e)ria**
-'place for making, producing or selling; profession' :  
-**beker**
-'baker'
+#### -eria
+
+This suffix is the combination of *-er* and *-ia*.
+It means the place for making, producing or selling the thing that is indicated by the base word.
+
+**beke**
+'to bake'
 → **bekeria**
 'bakery'  
 **perfume**
 'perfume'
 → **perfumeria**
-'perfumery'  
+'perfumery'
+
+In some rare cases this suffix is trimmed into *-ria*.
+
 **piza**
 'pizza'
 → **pizaria**
 'pizzeria, pizza place'  
-**enjener**
-'engineer'
-→ **enjeneria**
-'engineering'
 
-**-ta**
-'-ness, state of being' :  
-**dai**
-'big, great'
-→ **daita**
-'greatness'  
-**longte**
-'long'
-→ **longta**
-'length'
+#### -ete
 
+The suffix *-ete* indicates essentially the same thing as the base word but in a small size.
 
-**-ia**
-'collection of, aggregation of' :  
+**pake**
+'pack'
+→ **pakete**
+'packet'  
+**kase**
+'case'
+→ **kasete**
+'cassette'  
+**sigar**
+'cigar'
+→ **sigarete**
+'cigarette'
+
+#### -ia
+
+The suffix *-ia* has a variety of meanings,
+but fundamentally it means a collective of things or a community of people.
+
 **human**
 'human being'
 → **humania**
@@ -515,18 +573,12 @@ are not compound words in Pandunia.
 **kriste**
 'Christ'
 → **kristia**
-'Christianity, all Christians as a group'  
-**filsofe**
-'view, outlook, life wisdom'
-→ **filsofia**
-'philosophy, the discipline of wisdom'
+'Christianity, all Christians as a group'
 
 This ending is often used in place names, especially in country names.
 However it is not always used.
 There are also a lot of country names that do not end in **-ia**.
 
-**-ia**
-'area, region, country' :  
 **arabe**
 'Arab, Arabic'
 → **Arabia**
@@ -548,8 +600,60 @@ There are also a lot of country names that do not end in **-ia**.
 **Indonesia**
 'Indonesia'
 
-**-ike**
-'that which is like' :  
+The suffix *-ia* is also used in names of scientific disciplines,
+where it can be understood as collection of scientific knowledge and practices.
+
+**kime**
+'chemical'
+→ **kimia**
+'chemistry'  
+**filsofe**
+'view, outlook, life wisdom'
+→ **filsofia**
+'philosophy, the discipline of wisdom'  
+**loje**
+'to study and reason systematically'
+→ **lojia**
+'systematic study, logic'  
+**biolojia**
+'biology, systematic study of organic life'
+
+Finally, the suffix *-ia* is used also in some abstract nouns of quality.
+
+**dai**
+'big, great'
+→ **dayia**
+'bigness, greatness'  
+**long**
+'long'
+→ **longia**
+'length'  
+**hure**
+'free'
+→ **huria**
+'freedom'
+
+#### -ife
+
+The suffix *-ife* means to make or turn into the thing that is indicated by the base word.
+
+**komple**
+'copmplex'
+→ **komplife**
+'make complex, complexify'  
+**long**
+'long'
+→ **longife**
+'make long, lengthen'  
+**un**
+'one'
+→ **unife**
+'make one, unify'
+
+#### -ike
+
+The suffix **-ike** means something that is characterized by the thing or quality indicated by the base word.
+
 **un**
 'one'
 → **unike**
@@ -559,8 +663,14 @@ There are also a lot of country names that do not end in **-ia**.
 → **makinike**
 'machine-like, mechanical'
 
-**-ime**
-'the most, superlative' :  
+#### -ime
+
+The suffix *-ime* means something that is in the position or rank that is indicated by the base word.
+
+**un**
+'one'
+→ **unime**
+'the first'  
 **pre**
 'fore, front'
 → **prime**
@@ -570,8 +680,10 @@ There are also a lot of country names that do not end in **-ia**.
 → **extrime**
 'outermost, extreme'
 
-**-ion**
-'action, process' :  
+#### -ion
+
+The suffix *-ion* means action or process.
+
 **dite**
 'say'
 → **dition**
@@ -581,8 +693,10 @@ There are also a lot of country names that do not end in **-ia**.
 → **rotation**
 'rotation, turning'
 
-**-iste**
-'person who tends to behave or think in a certain way, adherent of an ideology or religion' :  
+#### -iste
+
+The suffix **-iste** means a person who tends to behave or think in a certain way or an adherent of an ideology or a religion.
+
 **alkol**
 'alcohol'
 → **alkoliste**
@@ -592,8 +706,10 @@ There are also a lot of country names that do not end in **-ia**.
 → **deiste**
 'theist, one who believes in existence of a god or gods'
 
-**-isme**
-'ideology, way of thinking, way of living, ism' :  
+#### -isme
+
+The suffix **-isme** means an ideology, a way of thinking or a way of life.
+
 **alkol**
 'alcohol'
 → **alkolisme**
@@ -603,8 +719,23 @@ There are also a lot of country names that do not end in **-ia**.
 → **deisme**
 'theism'
 
-**-ive**
-'inclined to' :  
+#### -ite
+
+The suffix **-ite** means something that undergoes or has undergone the action or change that is indicated by the base word.
+
+**ame**
+'to love'
+→ **amite**
+'loved one'  
+**fobe**
+'to scare'
+→ **fobite**
+'scared'
+
+#### -ive
+
+The suffix **-ive** means someone who is inclined to do what the base word says.
+
 **ate**
 'act, perform'
 → **ative**
@@ -614,37 +745,58 @@ There are also a lot of country names that do not end in **-ia**.
 → **explozive**
 'explosive'
 
-**-ize**
-'furnish or equip with' :
+#### -ize
+
+The suffix **-ize** means to furnish or equip with the thing indicated by the base word.
+
 **aure**
 'gold'
 → **aurize**
-'to gild, to coat with gold'
+'to gild, to coat with gold'  
+**makin**
+'machine'
+→ **makinize**
+'to mechanize, to equip with machinery'
 
-**-or**
-'apparatus, device, machine' :  
+#### -one
+
+The suffix **-one** indicates great size.
+
+**bol**
+'ball'
+→ **bolon**
+balloon'
+
+#### -or
+
+The suffix or **-or** means an apparatus, device or machine for doing the work that is incidated by the base word.
+
 **trate**
 'drag, haul'
 → **trator**
 'tractor'  
 **fotografe**
-'photograph'
+'to photograph'
 → **fotografor**
 'photograph apparatus, camera'
 
-**-ule**
-'diminutive, indicating small size or youth' :  
+#### -ule
+
+The suffix **-ule** indicates small size.
+
 **kume**
 'mound, hill'
 → **kumule**
-'hillock, heap, pile'  
+'small hill, hillock, heap, pile'  
 **node**
 'knot'
 → **nodule**
 'nodule, small lump'
 
-**-ure**
-'result or product' :  
+#### -ure
+
+The suffix **-ure** means something that is the result or product of the action that is indicated by the base word.
+
 **kulte**
 'cultivate (a way of life)'
 → **kulture**
@@ -653,6 +805,7 @@ There are also a lot of country names that do not end in **-ia**.
 'mix'
 → **mixure**
 'mixture'
+
 
 ### Affixes for chemistry
 
