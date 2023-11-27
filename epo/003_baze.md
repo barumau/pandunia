@@ -106,7 +106,7 @@ La vortoj de pandunia ofte havas pli vastan sencon ol la korespondaj esperantaj 
 
 Sed la kunteksto normale klarigas la precizan signifon:
 
-**tri nen cen, mi ha du mau e un vaf. mi mas ha un fem ben. da ame mau!**
+**tri nen cen, mi ha du mau i un vaf. mi mas ha un fem ben. da ame mau!**
 – Antaū tri jaroj mi havis du katojn kaj unu hundon. Mi ankaū havis filinon. _Ŝi amis la katojn!_
 
 ### Tempo

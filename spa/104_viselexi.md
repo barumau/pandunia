@@ -45,7 +45,7 @@ La expresión **semon** se usa cuando dos o más personas performan la acción e
 **semen**
 – el uno al otro
 
-**mi e tu vide semen.**
+**mi i tu vide semen.**
 – Yo y tú miramos el uno al otros.  
 **mimen vide semen.**
 – Nos miramos.
@@ -70,9 +70,9 @@ El demostrativo distal
 **vo**
 indica cosas que están lejos del orador.
 
-**ye es hau.**
+**ye e hau.**
 – Esta (cosa) es buena.  
-**vo es dus.**
+**vo e dus.**
 – Esa (cosa) es mala.  
 **mi vol ye buku, no vo.**
 – Quiero este libro, no ese.
@@ -83,10 +83,10 @@ no espicifica distancia fisical,
 pero se usan cuando el orador ya mencionó el objeto o persona en cuestión,
 o es conocido por el oyente o es de interés actual en el discurso.
 
-**ye es mau. da vol yam vo muxu.**
+**ye e mau. da vol yam vo muxu.**
 – Ese es gato.  Quiere comer ese ratón.
 
-**mi ha un mau e un vaf. la vaf es dai. da yam poli yam.**
+**mi ha un mau i un vaf. la vaf e dai. da yam poli yam.**
 – Tengo un gato y un perro. El perro es grande. Come mucha comida.
 
 
@@ -101,7 +101,7 @@ refiere a cosas que se dicen actualmente, y
 **vo**
 refiere a cosas que se dirán en el futuro.
 
-**ye jumla es korte.**
+**ye jumla e korte.**
 – Esta oración es corta.
 
 Arriba,

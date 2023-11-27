@@ -9,25 +9,25 @@ no como cambiar las formas de verbos como en español y otros idiomas.
 
 Persona y número son indicados por el sujeto.
 Por ejemplo, el verbo
-**es**
+**e**
 (»ser>>) tiene la misma forma para todas las personas.
 
-**_mi_ es doste.**
+**_mi_ e doste.**
 – Yo soy una amiga.  
-**_tu_ es doste.**
+**_tu_ e doste.**
 – Tú eres un amigo.  
-**_da_ es doste.**
+**_da_ e doste.**
 – Éla es amiga de alguien.  
-**_mimen_ es doste.**
+**_mimen_ e doste.**
 – Nosotros somos unos amigos de alguien.  
-**_tumen_ es doste.**
+**_tumen_ e doste.**
 – Ustedes son unas amigas de alguien.  
-**_damen_ es doste.**
+**_damen_ e doste.**
 – Ellos son unos amigos de alguien.
 
 En adición un sustantivo puede servir de un sujeto.
 
-**mau es hevan.**
+**mau e hevan.**
 – El gato es animal.
 
 Frecuentamente hay indicador entre el sujeto y el verbo
@@ -41,7 +41,7 @@ Un de los indicadores más adecuado es
 que añade ningún contenido a la oración
 pero ayuda clarificar su estructura.
 
-**karote es uma yam.**
+**karote e uma yam.**
 – Zanahoria es comida para caballos.  
 **uma _ya_ yam karote.**
 – El caballo come zanahorias.
@@ -109,7 +109,7 @@ indica que una acción ocurre frecuentamente.
 indica que una situación ha sido logrado, y el estado presente es el resulto de eso.
 Preste atención a la consecuencia de una acción pasada a la situación actual.
 
-**da _le_ es guru.**
+**da _le_ e guru.**
 – Se ha hecho docente.  
 **mi _le_ no gul yo alkohol.**
 – Ya no bebir alcohol.  
@@ -138,7 +138,7 @@ y es pertinente solo como una experiencia.
 (»ir a>>, »futuro>>)
 indica que un evento ocurrirá en el futuro.
 
-**da _xa_ es guru.**
+**da _xa_ e guru.**
 – Será docente.  
 **mi no _xa_ gul yo bir.**
 – No voy a bebir una cerveza.

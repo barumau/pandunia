@@ -150,9 +150,9 @@ La partícula
 **ka** (_que_)
 relaciona los adverbos de comparación al objeto de comparación.
 
-**aple es max hau ka oranje.**
+**aple e max hau ka oranje.**
 = Las manzanas son mejores (más buenas) que las naranjas.  
-**oranje es min hau ka aple.**
+**oranje e min hau ka aple.**
 = Las naranjas son peores (menos buenas) que las manzanas.  
 **tu loge par hau ka mi.**
 = Hablas tan bien como yo.

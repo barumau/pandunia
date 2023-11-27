@@ -19,22 +19,22 @@ hide:
 **sal!**
 = Terve!  
 <big>☺</big>
-**tu es ke?**
+**tu e ke?**
 = Kuka sinä olet?  
 <big>☻</big>
-**mi es Yusef. tu es ke?**
+**mi e Yusef. tu es ke?**
 = Olen Yusef. Kuka sinä olet?  
 <big>☺</big>
-**mi es Sara. da es ke?**
+**mi e Sara. da es ke?**
 = Olen Sara. Kuka hän on?  
 <big>☻</big>
-**da es mi su doste.**
+**da e mi su doste.**
 = Hän on minun ystäväni.  
 <big>☺</big>
-**da su nam es ke?**
+**da su nam e ke?**
 = Mikä hänen nimensä on?  
 <big>☻</big>
-**da su nam es Maria.**
+**da su nam e Maria.**
 = Hänen nimensä on Maria.
 
 ### Kielioppia
@@ -43,38 +43,38 @@ Pandunian lauseet noudattavat tavallisesti teema-kommentti-rakennetta.
 Teema osoittaa kenestä tai mistä puhutaan.
 Kommentti kertoo jotakin uutta teemasta.
 Esimerkiksi lauseessa
-**da es mi su doste**
+**da e mi su doste**
 teema on
 **da**
 (hän), ja sitä seuraa kommentti
 **es mi su doste**
 (on minun ystäväni).
 
-Sanan **es** voi kääntää olla-verbiksi.
+Sanan **e** voi kääntää olla-verbiksi.
 Samaa sanaa käytetään sellaisenaan kaikissa persoonissa.
 Kieltomuodossa käytetään sen sijasta sanaa **no**, joka tarkoittaa _ei_.
 
-**da es Sara.**
+**da e Sara.**
 = Hän on Sara.  
-**da no es Sara.**
+**da no e Sara.**
 = Hän ei ole Sara.  
 
-**mau es hevan.**
+**mau e hevan.**
 = Kissa on eläin.  
-**dom no es heva.**
+**dom no e heva.**
 = Talo ei ole eläin.  
 
 Voit kertoa itsestäsi sanomalla
 **mi es**
 ja sen perään sanan, joka kuvaa sinua.
 
-**mi es hau.**
+**mi e hau.**
 = Minä voin hyvin.  
-**mi es man.**
+**mi e man.**
 = Minä olen mies.  
-**mi es fem.**
+**mi e fem.**
 = Minä olen nainen.  
-**mi es nobi.**
+**mi e nobi.**
 = Minä olen muunsukupuolinen.
 ### Harjoituksia
 
@@ -104,7 +104,7 @@ hän tai se
 hänen, sen  
 **ke**
 mikä tai kuka  
-**es**
+**e**
 olla  
 **no**
 ei  
@@ -385,7 +385,7 @@ pyytää; ole hyvä
 antaa  
 **shukre**
 kiitos  
-**e**
+**i**
 ja  
 **kafe**
 kahvi  
@@ -453,7 +453,7 @@ syödä tai juoda
 **no yam.**
 = Ei.  
 <big>☺</big>
-**shukre. mi dona un cai e un kafe e un supe pos des minute.**
+**shukre. mi dona un cai i un kafe e un supe pos des minute.**
 = Kiitos. Minä tuon yhden teen, yhden kahvin ja yhden keiton kymmenen minuutin päästä.
 
 
@@ -658,11 +658,11 @@ mutta, vaan
 Asioiden kysymiseen käytetään kysymyssanoja **ke** ja **ki**, jota
 tarkennetaan muilla sanoilla.
 
-**da es ke?**
+**da e ke?**
 = Mikä se on? / Kuka hän on?  
-**da es ke jen?**
+**da e ke jen?**
 = Kuka (henkilö) hän on?  
-**da es ke xe?**
+**da e ke xe?**
 = Mikä (asia) se on?
 
 **ke jen lai?**
@@ -684,13 +684,13 @@ Miksi-kysymykseen vastataan panemalla sana **sabu** ennen syytä.
 
 **ke sabu tu suka mau?**
 = Minkä takia sinä tykkäät kissoista?  
-**de sabu damen es kavai.**
+**de sabu damen e kavai.**
 = Sen takia että ne ovat söpöjä.
 
 Sanaa **sabu** voi käyttää syyn ilmaisemiseen silloinkin, kun ei
 vastata kysymykseen.
 
-**mi suka mau de sabu damen es kavai**
+**mi suka mau de sabu damen e kavai**
 = Minä tykkään kissoista sen takia että ne ovat söpöjä.
 
 ### Harjoituksia
@@ -756,11 +756,11 @@ Esimerkiksi kun on päivä ja puhe on aamiaisesta, lause viittaa luonnollisesti 
 Mennyttä, nykyistä ja tulevaa tarkoittavat määresanat ovat **pas, zai**
 ja **sha**. Niitä voi käyttää substantiivien määrittämiseen.
 
-**Sara es mi su pas xefe.**
+**Sara e mi su pas xefe.**
 = Sara on minun entinen pomo.  
-**Yusef es mi su zai xefe.**
+**Yusef e mi su zai xefe.**
 = Yusef on minun nykyinen pomo  
-**Maria es mi su sha xefe.**
+**Maria e mi su sha xefe.**
 = Maria on minun tuleva pomo.
 
 Samoja sanoja käytetään myös kun puhutaan teoista ja tapahtumista
@@ -795,7 +795,7 @@ Seuraava ajan ilmaus tarvitaan vasta sitten, kun siirrytään puhumaan toisesta 
 
 **mi pas ha un mau.**
 = Minä omistin ennen kissan.  
-**da es hau mau.**
+**da e hau mau.**
 = Se _oli_ hyvä kissa.  
 **mi ha un vaf a zai.**
 = Minulla on koira nyt.

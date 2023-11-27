@@ -109,16 +109,16 @@ Ne dankinde.
 The word **sa** can be used also for stating something as a fact. Then it is
 used in place of "to be".
 
-**mi es Tomas.**
+**mi e Tomas.**
 Mi estas Tomaso.
 
-**tu es Sara.**
+**tu e Sara.**
 Vi estas Sara.
 
-**aple es frute.**
+**aple e frute.**
 Pomo estas frukto.
 
-<small>Etimologio. **es** venas el
+<small>Etimologio. **e** venas el
 franca *est* /ɛ/,
 portugala *é*,
 hindia है /ɦɛ/.
@@ -127,10 +127,10 @@ hindia है /ɦɛ/.
 
 ### mi <small>mi</small>
 
-**mi es Sara.**
+**mi e Sara.**
 Mi estas Sara.
 
-**mi es Tomas.**
+**mi e Tomas.**
 Mi estas Tomaso.
 
 **mi sal mama.**
@@ -160,7 +160,7 @@ sŭahila *mimi*.</small>
 
 ### tu <small>vi (singulare)</small>
 
-**tu es Tomas.**
+**tu e Tomas.**
 Vi estas Tomaso.
 
 **mi sal tu.**
@@ -186,13 +186,13 @@ rusa ты *ty*.</small>
 
 ### da <small>li, ŝi, ĝi</small>
 
-**da es man.**
+**da e man.**
 Li estas viro.
 
-**da es fem.**
+**da e fem.**
 Ŝi estas virino.
 
-**da es aple.**
+**da e aple.**
 Ĝi estas pomo.
 
 Noto: **da**
@@ -206,16 +206,16 @@ mandarenĉina 他/她 (tā).</small>
 
 ### sual <small>demandi, ĉu</small>
 
-**sual tu es Tomas?**
+**sual tu e Tomas?**
 Ĉu vi estas Tomaso?
 
-**sual tu es davar?**
+**sual tu e davar?**
 Ĉu vi estas doktoro?
 
 Noto: Demandoj ofte komencas per **sual**.
 Sed ĝi estas tute normala verbo, ne demandvorteto kiel esperanta _ĉu_.
 Fakte, la lasta demando estas simple mallonga manero por diri
-**mi sual tu es davar**
+**mi sual tu e davar**
 (Mi demandas: Vi estas doktoro?).
 Oni nur forlasis la unuan pronomon.
 
@@ -237,25 +237,25 @@ sŭahila _swali_.</small>
 
 ### ya <small>jes</small>
 
-**sual tu es Tomas?**
+**sual tu e Tomas?**
 Ĉu vi estas Tomaso.
 
-**ya, mi es Tomas.**
+**ya, mi e Tomas.**
 Jes, mi estas Tomaso.
 
-**sual da es davar?**
+**sual da e davar?**
 Ĉu li/ŝi estas doktoro?
 
-**ya, da es davar.**
+**ya, da e davar.**
 Jes, li estas doktoro.
 
 
 ### no <small>ne</small>
 
-**mi no es Sara.**
+**mi no e Sara.**
 Mi ne estas Sara.
 
-**mi no es davar.**
+**mi no e davar.**
 Mi ne estas doktoro.
 
 **sual tu hau?**
@@ -303,13 +303,13 @@ Vi ĉiuj salutas ilin.
 **damen sal mimen!**
 Ili salutas nin.
 
-**mimen es fem.**
+**mimen e fem.**
 Ni estas virinoj.
 
-**tumen es man.**
+**tumen e man.**
 Vi estas viroj.
 
-**damen es aple.**
+**damen e aple.**
 Ili estas pomoj.
 
 <small>Etimologio. **mon**
@@ -320,43 +320,43 @@ venas el mandarenĉina: 们 "men", angla: men (homoj ĝenerale).</small>
 **ke?**
 Kion?
 
-**tu es ke?**
+**tu e ke?**
 Kiu vi estas?
-**mi es Tomas.**
+**mi e Tomas.**
 Mi estas Tomaso.
 
-**da es ke?**
+**da e ke?**
 Kiu ŝi estas?
-**da es Sara.**
+**da e Sara.**
 Ŝi estas Sara.
 
-**tumen es ke?**
+**tumen e ke?**
 Kiuj vi estas?
 
-**damen es ke?**
+**damen e ke?**
 Kiuj ili estas?
 
 ### ye e vo <small>ĉi tiu kaj tiu</small>
 
-**ye es ke?**
+**ye e ke?**
 Kio estas ĉi tio?
 
-**ye es aple.**
+**ye e aple.**
 Ĉi tio estas pomo.
 
-**vo es ke?**
+**vo e ke?**
 Kio estas tio?
 
-**vo es oranje.**
+**vo e oranje.**
 Tio estas oranĝo.
 
-**ye es rubi aple.**
+**ye e rubi aple.**
 Tio estas ruĝa pomo.
 
-**ye aple es rubi.**
+**ye aple e rubi.**
 Tiu pomo ruĝas.
 
-**ye es rubi.**
+**ye e rubi.**
 Ĉi tio estas ruĝe.
 
 **damen a ke?**
@@ -371,16 +371,16 @@ Ili estas tie.
 
 ### su <small>(poseda vorteto)</small>
 
-**ye es ke?**
+**ye e ke?**
 Kio estas ĉi tio?
 
-**da es mi su telefon.**
+**da e mi su telefon.**
 Tio estas mia telefono.
 
-**ye es ke su?**
+**ye e ke su?**
 Tio estas kies?
 
-**da es mi su.**
+**da e mi su.**
 Tio estas mia.
 
 Noto: La posedan vorteton
@@ -391,13 +391,13 @@ signifas "mia",
 **tu su**
 signifas "via", kaj tiel plu.
 
-**da es ke?**
+**da e ke?**
 Who's he/she?
 
-**da es mi su doste.**
+**da e mi su doste.**
 Li/ŝi estas mia amiko.
 
-**mi es Sara su doste.**
+**mi e Sara su doste.**
 Mi estas amiko de Sara.
 
 <small>Etimologio. **su** venas el
@@ -408,16 +408,16 @@ hispana _su_.</small>
 
 ### nam <small>nomo</small>
 
-**tu su nam es ke?**
+**tu su nam e ke?**
 Kio estas via nomo?
 
-**mi su nam es Tomas.**
+**mi su nam e Tomas.**
 Mia nomo estas Tomaso.
 
-**da su nam es ke?**
+**da su nam e ke?**
 Kio estas ŝia nomo?
 
-**da su nam es Sara.**
+**da su nam e Sara.**
 Ŝia nomo estas Sara.
 
 <small>Etimologio. **nam** venas el
@@ -504,7 +504,7 @@ Noto: Signifo de
 **yam**
 kovras manĝadon kaj trinkadon.
 
-**mi yam kafe e ban.**
+**mi yam kafe i ban.**
 Mi manĝas kafon kaj panon.
 
 
@@ -593,10 +593,10 @@ Mi bezonas manĝi.
 **maf! mi no aha.**
 Pardonon, mi ne komprenas.
 
-**maf! ye es ke?**
+**maf! ye e ke?**
 Pardonon, kio estas tio?
 
-**maf. tu su nam es ke?**
+**maf. tu su nam e ke?**
 Pardonon, kio estas via nomo?
 
 ### aha <small>kompreni</small>
@@ -658,7 +658,7 @@ Ni parolas unu al alia.
 **se loge "kato" a ke yang a pandunia?**
 Kiel oni diras "kato" pandunie?
 
-**"kato" es ke a pandunia?**
+**"kato" e ke a pandunia?**
 Kio estas "kato" pandunie?
 
 **mau loge "miau".**
@@ -855,7 +855,7 @@ Mi nune salutas vian amikon.
 **la man ya zai vide un filme.**  
 La viro estas vidanta la virinon.
 
-**da zai es xefe.**  
+**da zai e xefe.**  
 Ĝi estas la nuna ĉefo.
 
 **da zai a dom.**  
@@ -870,7 +870,7 @@ Mi (pasinte) salutis vian amikon.
 **la man ya pas vide un filme.**  
 La viro (pasinte) vidis la virinon
 
-**da pas es xefe.**  
+**da pas e xefe.**  
 Ĝi estas la pasinta ĉefo.
 
 **da pas a dom.**  
@@ -885,7 +885,7 @@ Mi estas salutinta vian amikon.
 **la man le vide un filme.**  
 La viro estas vidinta la virinon.
 
-**da le es xefe.**  
+**da le e xefe.**  
 Ĝi estas la estinta ĉefo.
 
 **da le a la dom.**  
@@ -900,7 +900,7 @@ Mi salutos vian amikon.
 **la man sha vide la filme.**  
 La viro vidos la virinon.
 
-**da sha es xefe.**  
+**da sha e xefe.**  
 Ĝi estas la estonta ĉefo.
 
 **da sha a dom.**  

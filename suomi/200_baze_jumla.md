@@ -108,26 +108,26 @@ Ole hyvä. (Sanan mukaisesti: _Ei tarvitse kiittää._)
 
 ### es <small>olla</small>
 
-**mi es Tomas.**
+**mi e Tomas.**
 Minä olen Tomas.
 
-**tu es Sara.**
+**tu e Sara.**
 Sinä olet Sara.
 
-**aple es frute.**
+**aple e frute.**
 Omena on hedelmä.
 
-<small>Sanan **es** lähteitä ovat
+<small>Sanan **e** lähteitä ovat
 ranskan *est* /ɛ/,
 portugalin *é*,
 hindin है /ɦɛ/.</small>
 
 ### mi <small>minä</small>
 
-**mi es Sara.**
+**mi e Sara.**
 Minä olen Sara.
 
-**mi es Tomas.**
+**mi e Tomas.**
 Minä olen Tomas.
 
 **mi sal mama.**
@@ -161,7 +161,7 @@ suahilin *mimi*.</small>
 
 ### tu <small>sinä</small>
 
-**tu es Tomas.**
+**tu e Tomas.**
 Sinä olet Tomas.
 
 **mi sal tu.**
@@ -187,13 +187,13 @@ lähteitä: venäjä: ты (ty), italia: tu, ranska: tu.</small>
 
 <p style="font-size:4em;">👥🗣️👉👤</p>
 
-**da es man.**
+**da e man.**
 Hän on mies.
 
-**da es fem.**
+**da e fem.**
 Hän on nainen.
 
-**da es aple.**
+**da e aple.**
 Se on omena.
 
 **da**
@@ -209,17 +209,17 @@ yleiskiinan 他/她 (tā).</small>
 
 ### sual <small>kysyä</small>
 
-**sual tu es Tomas?**
+**sual tu e Tomas?**
 Oletko sinä Tomas?
 
-**sual tu es davar?**
+**sual tu e davar?**
 Oletko lääkäri?
 
 Kyllä vai ei -kysymykset alkavat tavallisesti sanalla
 **sual**.
 Se on ihan tavallinen verbi eikä _kysymyspartikkeli_ kuten suomen -ko/-kö.
 Itse asiassa äskeinen kysymys on lyhennetty lauseesta
-**mi sual tu es davar**
+**mi sual tu e davar**
 (Minä kysyn: sinä olet lääkäri?), joka on lyhennetty jättämällä ensimmäinen sana pois.
 
 **sual tu hau?**
@@ -240,25 +240,25 @@ suahilin _swali_.</small>
 
 ### ya <small>kyllä</small>
 
-**sual tu es Tomas?**
+**sual tu e Tomas?**
 Oletko Tomas?
 
-**ya, mi es Tomas.**
+**ya, mi e Tomas.**
 Kyllä, olen Tomas.
 
-**sual da es davar?**
+**sual da e davar?**
 Onko hän lääkäri?
 
-**ya, da es davar.**
+**ya, da e davar.**
 Kyllä, hän on lääkäri.
 
 
 ### no <small>ei</small>
 
-**mi no es Sara.**
+**mi no e Sara.**
 Minä en ole Sara.
 
-**mi no es davar.**
+**mi no e davar.**
 Minä en ole lääkäri.
 
 **sual tu hau?**
@@ -309,13 +309,13 @@ Te tervehditte heitä.
 **damen sal mimen!**
 He tervehtivät meitä.
 
-**mimen es fem.**
+**mimen e fem.**
 Me olemme naisia.
 
-**tumen es man.**
+**tumen e man.**
 Te olette miehiä.
 
-**damen es aple.**
+**damen e aple.**
 Ne ovat omenoita.
 
 
@@ -325,20 +325,20 @@ Ne ovat omenoita.
 **ke?**
 Mitä?
 
-**tu es ke?**
+**tu e ke?**
 Kuka olet?
-**mi es Tomas.**
+**mi e Tomas.**
 Minä olen Tomas.
 
-**da es ke?**
+**da e ke?**
 Kuka hän on?
-**da es Sara.**
+**da e Sara.**
 Hän on Sara.
 
-**tumen es ke?**
+**tumen e ke?**
 Keitä te olette?
 
-**damen es ke?**
+**damen e ke?**
 Keitä he ovat?
 
 <small>Sanan **ke**
@@ -347,25 +347,25 @@ lähteitä: espanja: qué, portugali: que, italia: che, bangla: কী "ki".</sm
 
 ### ye e vo <small>tämä ja tuo</small>
 
-**ye es ke?**
+**ye e ke?**
 Mikä tämä on?
 
-**ye es aple.**
+**ye e aple.**
 Tämä on omena.
 
-**vo es ke?**
+**vo e ke?**
 Mikä tuo on?
 
-**vo es oranje.**
+**vo e oranje.**
 Tuo on appelsiini.
 
-**ye es rubi aple.**
+**ye e rubi aple.**
 Tämä on punainen omena.
 
-**ye aple es rubi.**
+**ye aple e rubi.**
 Tämä omena on punainen.
 
-**ye es rubi.**
+**ye e rubi.**
 Tämä on punainen.
 
 **damen a ke?**
@@ -380,16 +380,16 @@ Me olemme täällä.
 
 ### su <small>-n (genetiivipartikkeli)</small>
 
-**ye es ke?**
+**ye e ke?**
 Mikä tämä on?
 
-**da es mi su telefon.**
+**da e mi su telefon.**
 Se on minun puhelin.
 
-**ye es ke su?**
+**ye e ke su?**
 Kenen tämä on?
 
-**da es mi su.**
+**da e mi su.**
 Se on minun.
 
 Genetiivipartikkeli
@@ -401,13 +401,13 @@ tarkoittaa "minun",
 **tu su**
 tarkoittaa "sinun" jne.
 
-**da es ke?**
+**da e ke?**
 Kuka hän on?
 
-**da es mi su doste.**
+**da e mi su doste.**
 Hän on minun ystävä.
 
-**mi es Sara su doste.**
+**mi e Sara su doste.**
 Minä olen Saran ystävä.
 
 <small>Sanan **su**
@@ -416,16 +416,16 @@ lähteitä: englanti _'s_, afrikaans _se_, espanja _su_.</small>
 
 ### nam <small>nimi</small>
 
-**tu su nam es ke?**
+**tu su nam e ke?**
 Mikä sinun nimesi on?
 
-**mi su nam es Tomas.**
+**mi su nam e Tomas.**
 Minun nimeni on Tomas.
 
-**da su nam es ke?**
+**da su nam e ke?**
 Mikä hänen nimensä on?
 
-**da su nam es Sara.**
+**da su nam e Sara.**
 Hänen nimensä on Sara.
 
 <small>Sanan **name**
@@ -517,7 +517,7 @@ sisältää sekä syömisen että juomisen.
 Aluksi se saattaa tuntua oudolta, mutta oikeastaan se on kätevää,
 koska yleensä tekemisen kohde tarkentaa, onko kyse syömisestä, juomisesta vai molemmista.
 
-**mi yam kafe e ban.**
+**mi yam kafe i ban.**
 Minä nautin kahvia ja leipää.
 
 
@@ -611,10 +611,10 @@ Onko sinulla jano?
 **maf! mi no aha.**
 Anteeksi, minä en ymmärrä.
 
-**maf! ye es ke?**
+**maf! ye e ke?**
 Anteeksi, mikä tämä on?
 
-**maf. tu su nam es ke?**
+**maf. tu su nam e ke?**
 Anteeksi, mikä sinun nimi on?
 
 
@@ -680,7 +680,7 @@ Me puhumme toisillemme.
 **se loge "kissa" a ke yang a pandunia?**
 Miten sanotaan "kissa" panduniaksi?
 
-**"kissa" es ke a pandunia?**
+**"kissa" e ke a pandunia?**
 Mikä "kissa" on panduniaksi?
 
 **mau loge "miau".**
@@ -820,7 +820,7 @@ Matkustatko junalla?
 **mimen safar de London to Paris.**
 Me matkustamme Lontoosta Pariisiin.
 
-**safar es dai di long.**
+**safar e dai di long.**
 Matka on hyvin pitkä.
 
 
@@ -892,7 +892,7 @@ Minä olen tervehtimässä sinun ystävääsi.
 **la man ya zai vide un filme.**  
 Mies on katsomassa filmiä.
 
-**da zai es xefe.**  
+**da zai e xefe.**  
 Hän on päällikkö (parhaillaan).
 
 **da zai a dom.**  
@@ -907,7 +907,7 @@ Minä tervehdin sinun ystävääsi.
 **la man ya pas vide un filme.**  
 Mies katsoi elokuvaa.
 
-**da pas es xefe.**  
+**da pas e xefe.**  
 Hän oli ennen päällikkö.
 
 **da pas a dom.**  
@@ -922,7 +922,7 @@ Minä olen tervehtinyt ystävääsi.
 **la man le vide un filme.**  
 Mies on katsonut filmin.
 
-**da le es xefe.**  
+**da le e xefe.**  
 Hän on ollut päällikkö.
 
 **da le a la dom.**  
@@ -937,7 +937,7 @@ Minä tervehdin ystävääsi (jatkossa).
 **la man sha vide la filme.**  
 Mies tulee katsomaan filmin.
 
-**da sha es xefe.**  
+**da sha e xefe.**  
 Hän tulee olemaan päällikkö.
 
 **da sha a dom.**  

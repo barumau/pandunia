@@ -20,14 +20,14 @@ En pandunio, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
 Kiam modifovorto sekvas substantivon, ĝi rolas kvazaŭ kiel verbo, kiu indikas staton.
 Tio estas, kiel adjektivaj verboj en Esperanto.
 
-**gar es neu.**
+**gar e neu.**
 – La aŭto novas. (Aŭ: La aŭto estas nova.)  
-**bagre es suga.**
+**bagre e suga.**
 – Tigroj rapidas. (Aŭ: Tigroj estas rapidaj.)  
 
 Kompreneble, eblas ke modifovortoj aperu je ambaŭ flankoj de substantivo.
 
-**un neu gar es suga.**
+**un neu gar e suga.**
 – Nova aŭto estas rapida.
 
 ## Modifante verbon
@@ -72,9 +72,9 @@ Modifovortoj povas esti komparataj.
 
 Partiklo **ko** rilatas komparvortoj al la fonto de komparo.
 
-**aple es max hau ka oranje.**
+**aple e max hau ka oranje.**
 – Pomoj estas pli bonaj ol oranĝoj.  
-**oranje es min hau ka aple.**
+**oranje e min hau ka aple.**
 – Oranĝoj estas malpli bonaj ol pomoj.
 **tu loga par hau ka mi.**
 – Vi parolas same bone kiel mi.

@@ -70,7 +70,7 @@ The expression **semen** is used as the reciprocal pronoun.
 **semen**
 – each other, one another
 
-**mi e tu vide semen.**
+**mi i tu vide semen.**
 – Me and you see each other.  
 **mimen vide semen.**
 – We see each other.
@@ -101,9 +101,9 @@ points to things that are far from the speaker.
 – No, I want this book, not that.
 The demonstratives can serve as subjects and objects in the same way as nouns.
 
-**ye es hau.**
+**ye e hau.**
 – This is good.  
-**vo es dus.**
+**vo e dus.**
 – That is bad.  
 **tu vol ye, he?**
 – Do you want this?  
@@ -117,7 +117,7 @@ between the subject and the verb.
 
 **mi vide du jen.**
 – I see two persons.  
-**ye ya gani e vo no gani.**
+**ye ya gani i vo no gani.**
 – This one sings and that one doesn't sing.
 
 The basic proximal and distal pronouns are used for introducing a new object.
@@ -126,10 +126,10 @@ does not specify physical distance
 but it is used when the speaker has already mentioned the object or person in question
 and it is known by the audience or is topical within the discourse.
 
-**ye es mau. da vol yam vo mushu.**
+**ye e mau. da vol yam vo mushu.**
 – This is a cat. It wants to eat that mouse.
 
-**mi ten un mau e un vaf. la vaf es dai. da yam poli yam.**
+**mi ten un mau i un vaf. la vaf e dai. da yam poli yam.**
 – I have a cat and a dog. The dog is big. It eats a lot of food.
 
 
@@ -144,7 +144,7 @@ refers to things currently being spoken, and
 **vo**
 refers to things about to be spoken.
 
-**ye jumla es korte.**
+**ye jumla e korte.**
 – This sentence is short.
 
 In the above,

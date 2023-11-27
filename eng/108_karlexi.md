@@ -9,25 +9,25 @@ not by changing the form of verbs as in English and other languages.
 
 Person and number are indicated by the subject.
 For example, the verb
-**es**
+**e**
 ('to be') has the same form in all persons.
 
-**_mi_ es doste.**
+**_mi_ e doste.**
 – I am a friend.  
-**_tu_ es doste.**
+**_tu_ e doste.**
 – You are a friend.  
-**_da_ es doste.**
+**_da_ e doste.**
 – He/she is a friend.  
-**_mimen_ es doste.**
+**_mimen_ e doste.**
 – We are friends.  
-**_tumen_ es doste.**
+**_tumen_ e doste.**
 – You are friends.  
-**_damen_ es doste.**
+**_damen_ e doste.**
 – They are friends.
 
 Also a noun can serve as subject.
 
-**mau es hevan.**
+**mau e hevan.**
 – The cat is an animal.
 
 Frequently there is a marker between the subject and the verb
@@ -45,7 +45,7 @@ but only helps to clarify its structure.
 – Rabbit food. – OR Rabbit eats.  
 **tuzi ya yam.**
 – Rabbit does eat. ~ Rabbit eats.  
-**karote es tuzi yam.**
+**karote e tuzi yam.**
 – Carrot is rabbit food.  
 **tuzi _ya_ yam karote.**
 – Rabbits eat carrots.
@@ -125,7 +125,7 @@ indicates that an action has happened in the past and is still ongoing, or is re
 It is best translated by *already* or *(not) yet*.
 You can think of it somewhat like the present perfect in English (_I have done_, _I have eaten_).
 
-**da _le_ es guru.**
+**da _le_ e guru.**
 – He/she is already a teacher.  
 **mi no _le_ gul yo alkohol.**
 – I haven't drunk alcohol yet.  
@@ -156,7 +156,7 @@ You can think of it somewhat like the past simple in English (I finished, I ate)
 'will, shall'
 indicates that the event will take place later or in the future.
 
-**da _sha_ es guru.**
+**da _sha_ e guru.**
 – He/she shall be a teacher.  
 **mi no _sha_ gul bir.**
 – I will not drink beer.

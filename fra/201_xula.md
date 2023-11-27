@@ -24,22 +24,22 @@ est toujours neutre sur le plan de la politesse et de l'intimité.
 **sal!**
 = Salut!  
 <big>☺</big>g>
-**tu es ke?**
+**tu e ke?**
 = Qui es-tu ?  
 <big>☻</big>g>
-**mi es Yusef. tu es ke?**
+**mi e Yusef. tu es ke?**
 = Je suis Yusef. Qui est-tu ?  
 <big>☺</big>g>
-**mi es Sara. da es ke?**
+**mi e Sara. da es ke?**
 = Je suis Sara. Qui est-ce ?  
 <big>☻</big>g>
-**da es mi su doste.**
+**da e mi su doste.**
 = C'est mon amie.  
 <big>☺</big>g>
-**da su nam es ke?**
+**da su nam e ke?**
 = Quel est son nom ?  
 <big>☻</big>g>
-**da su nam es Maria.**
+**da su nam e Maria.**
 = Son nom est Maria.
 
 ### Grammaire
@@ -47,32 +47,32 @@ est toujours neutre sur le plan de la politesse et de l'intimité.
 Les phrases en Pandunia suivent normalement la structure sujet-commentaire.
 Le sujet indique de qui ou de quoi on parle.
 Le commentaire dit quelque chose sur le sujet. Par exemple, dans
-**da es mi su doste**
+**da e mi su doste**
 le sujet est le pronom **da** (il, elle, il neutre), suivi du commentaire
 **es mi su doste**
 (est mon amie).
 
-Le mot **es** signifie _être_ en Pandunia.
+Le mot **e** signifie _être_ en Pandunia.
 Le même mot est utilisé pour toutes les personnes. 
 Et pour dire le contraire, remplacez le simplement par **no** (qui signifie à la fois _ne pas_ et _non_)
 
-**da es Sara.**
+**da e Sara.**
 = C'est Sara.  
-**da no es Sara.**
+**da no e Sara.**
 = Ce n'est pas Sara.
 
-**mau es hevan.**
+**mau e hevan.**
 = Le chat est un animal.  
-**dom no es hevan.**
+**dom no e hevan.**
 = La maison n'est pas un animal.  
 
 De la même façon, vous pouvez vous décrire en utilisant **me** suivi d'un mot pour vous décrire.
 
-**mi es hau.**
+**mi e hau.**
 – Je vais bien (Je suis bien).  
-**mi es man.**
+**mi e man.**
 – Je suis un homme.  
-**mi es fem.**
+**mi e fem.**
 – Je suis une femme.
 
 
@@ -104,7 +104,7 @@ il, elle ou il neutre
 son, sa, ses  
 **ke**
 qui ou quoi  
-**es**
+**e**
 être (je suis, tu es, nous sommes, etc.)  
 **ya**
 oui  
@@ -398,7 +398,7 @@ demander (poliment), s'il-vous-plaît
 donner  
 **xukre**
 merci  
-**e**
+**i**
 et  
 **kafe**
 café  
@@ -461,7 +461,7 @@ manger ou boire, consommer
 **no yam.**
 = Non.  
 <big>👩‍🍳</big>
-**xukre. mi don un cai e un kafe e un supe pos des minute.**
+**xukre. mi don un cai i un kafe e un supe pos des minute.**
  = Merci. J'apporte un thé, un café et une soupe dans 10 minutes
 
 
@@ -676,9 +676,9 @@ utilisé. La question peut être formulée de manière plus spécifique en
 ajoutant des mots pour la personne, le temps, la manière ou la chose
 si nécessaire.
 
-**da es ke?**
+**da e ke?**
 = Qu'est-ce que c'est ?  
-**da es ke jen?**
+**da e ke jen?**
 = Qui est-il/elle ?  
 **ke jen lai?**
 = Qui vient ? (**ren** = personne)  
@@ -699,13 +699,13 @@ avant la cause ou la raison.
 
 **ke sabu tu suka mau?**
 = Pourquoi aimes-tu les chats ?  
-**de sabu damen es kavai.**
+**de sabu damen e kavai.**
 = Parce qu'ils sont mignons.
 
 Bien entendu, vous pouvez également utiliser **sabu** pour exprimer la cause
 ou la raison de quelque chose, même si vous ne réponsez pas à une question.
 
-**mi suka mau ze sabu damen es kavai**
+**mi suka mau ze sabu damen e kavai**
 = J'aime les chats parce qu'ils sont mignons.
 
 ### Exercices
@@ -777,11 +777,11 @@ Il y a également des expressions de temps spécifiques.
 Les adjectifs pour le passé, le présent et le futur sont **pas, zai**
 et **sha**. Ils peuvent être utilisés pour modifier des noms.
 
-**Sara es mi su pas xefe.**
+**Sara e mi su pas xefe.**
 = Sara est mon ex-patron.  
-**Yusef es mi su zai xefe.**
+**Yusef e mi su zai xefe.**
 = Yusef est mon chef actuel.  
-**Maria es mi su sha xefe.**
+**Maria e mi su sha xefe.**
 = Maria est ma future patronne.
 
 Les mêmes mots sont utilisés lorsque vous parlez d'actions et d'événements dans le temps. Il suffit de mettre le mot avant le verbe.
@@ -810,7 +810,7 @@ ou bien pour souligner le fait que le temps du récit n'a pas changé.
 
 **mi pas ten un mau.**
 = J'ai eu un chat dans le passé.
-**da es hau mau.**
+**da e hau mau.**
 = C'était un bon chat.
 **mi ten un vaf a zai.**
 = J'ai un chien maintenant.

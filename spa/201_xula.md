@@ -13,22 +13,22 @@
 **sal!**
 – ¡Buenos!  
 <big>☺</big>
-**tu es ke?**
+**tu e ke?**
 – ¿Quién es usted?  
 <big>☻</big>
-**mi es Yusef. tu es ke?**
+**mi e Yusef. tu es ke?**
 – Yo soy Yusef. ¿Quién es usted?  
 <big>☺</big>
-**mi es Sara. da es ke?**
+**mi e Sara. da es ke?**
 Yo soy Sara. ¿Quién es?  
 <big>☻</big>
-**da es mi su doste.**
+**da e mi su doste.**
 – Es una amiga mia.  
 <big>☺</big>
-**da su nam es ke?**
+**da su nam e ke?**
 – ¿Cómo se llama?  
 <big>☻</big>
-**da su nam es Maria.**
+**da su nam e Maria.**
 – Su nombre es Maria.
 
 ### Gramatica
@@ -37,7 +37,7 @@ Frases de Pandunia normalmente sigue la estructura tema-comentario.
 El tema indica quién o qué se está hablando.
 El comentario dice algo sobre el tema.
 Por ejemplo, en
-**da es mi su doste**
+**da e mi su doste**
 el tema es el pronombre
 **da**
 (él, ella, ello), que es seguido por el comentario
@@ -49,13 +49,13 @@ Del mismo modo puede describirse diciendo
 **mi es**
 seguida por una palabra que lo describa.
 
-**mi es hau.**
+**mi e hau.**
 - Yo soy bueno.  
-**mi es man.**
+**mi e man.**
 - Soy un hombre.  
-**mi es fem.**
+**mi e fem.**
 - Soy una mujer.  
-**mi es nobi.**
+**mi e nobi.**
 - No soy binario.
 
 
@@ -87,7 +87,7 @@ tu
 su  
 **ke**
 quién? qué?  
-**es**
+**e**
 ser  
 **no**
 no  
@@ -358,7 +358,7 @@ pedir, solicitar; por favor
 dar  
 **shukre**
 gracias  
-**e**
+**i**
 y  
 **kafe**
 café  
@@ -426,7 +426,7 @@ algo
 **no yam.**
 – No.  
 <big>☺</big>
-**shukre. mi don un cai e un kafe e un supe pos des minute.**
+**shukre. mi don un cai i un kafe e un supe pos des minute.**
  – ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
 
 
@@ -641,34 +641,34 @@ En adición, hay palabras del tiempo espicificas.
 **xa**
 – más tarde, en el futuro
 
-**Sara es mi su pas xefe.**
+**Sara e mi su pas xefe.**
 – Sara es mi ex-jefa.  
-**Yusef es mi su zai xefe.**
+**Yusef e mi su zai xefe.**
 – Yusef es mi actual jefe.  
-**Maria es mi su xa xefe.**
+**Maria e mi su xa xefe.**
 Maria es mi futura jefa.
 
 Las mismas palabras son usadas cuando se habla sobre acciones y
 eventos en el tiempo. Simplemente pone la palabra antes del verbo.
 
-**da pas es mi su xefe.**
+**da pas e mi su xefe.**
 – Ella fue mi jefa.  
-**da zai es mi su xefe.**
+**da zai e mi su xefe.**
 – Ella es mi jefa.  
-**da xa es mi su xefe.**
+**da xa e mi su xefe.**
 – Ella será mi jefa.
 
 También puede usar frases prepocicionales con **a**.
 
-**da es mi su xefe a pas.**
+**da e mi su xefe a pas.**
 – Ella fue mi jefa en el pasado.  
-**da es mi su xefe a zai.**
+**da e mi su xefe a zai.**
 – Ella es mi jefa en este momento.  
-**da es mi su xefe a xa.**
+**da e mi su xefe a xa.**
 – Ella será mi jefa en el futuro.
 
 Nota: el verbo es invariable. No cambia por el tiempo, por tal razón
-en los ejemplos anteriores el verbo **es** (estar,ser) se mantuvo
+en los ejemplos anteriores el verbo **e** (estar,ser) se mantuvo
 igual en todos los tiempos.
 
 No es necesario repetir las expresiones de tiempo todas las veces.
@@ -678,7 +678,7 @@ que todavía se está hablando en el mismo tiempo.
 
 **mi pas ha un mau.**
 – Yo tuve un gato en el pasado.  
-**da es hau mau.**
+**da e hau mau.**
 – Ella fue una buena gata.  
 **mi ha un vaf a zai.**
 – Yo tengo un perro en el momento.

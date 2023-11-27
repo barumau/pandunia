@@ -92,9 +92,9 @@ Sen voi jättää pois kaikista yksinkertaisimmissa lauseissa.
 
 **mi un jen.**
 – Minä, ihminen.  
-**mi es un jen.**
+**mi e un jen.**
 – Minä olen ihminen.  
-**mi vol es un mau.**
+**mi vol e un mau.**
 – Minä haluan olla kissa.
 
 ### Monikäyttöiset sanat
@@ -164,9 +164,9 @@ Määreitä vertaillaan pikkusanoilla
 **min** 'vähemmän', **minim** 'vähiten' ja **par** 'yhtä'.
 Vertailukohde esitellään pikkusanalla **ka** 'kuin'.
 
-**tu es max sen ka mi.**
+**tu e max sen ka mi.**
 – Sinä olet vanhempi kuin minä.  
-**tu es maxim sen.**
+**tu e maxim sen.**
 – Sinä olet vanhin.
 
 ### Kysyminen

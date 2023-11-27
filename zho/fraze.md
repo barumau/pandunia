@@ -116,13 +116,13 @@
 
 ### es <small>是</small>
 
-**mi es Tomas.**
+**mi e Tomas.**
 我是托马斯。
 
-**tu es Sara.**
+**tu e Sara.**
 你是莎拉。
 
-**maw es hevan.**
+**maw e hevan.**
 猫是动物。
 
 **mi Sara.**
@@ -151,10 +151,10 @@ We greet you.
 **da Sara.**
 她是莎拉。
 
-**tumen es ke?**
+**tumen e ke?**
 你们是谁？
 
-**damen es ke?**
+**damen e ke?**
 他们是谁？
 
 
