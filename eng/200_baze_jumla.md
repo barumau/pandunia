@@ -91,39 +91,39 @@ Swahili *salaam*,
 Indonesian *selamat*.</small>
 
 
-### shukre <small>thanks</small>
+### shukra <small>thanks</small>
 
 <p style="font-size:5em;">🙏</p>
 
-**shukre!**
+**shukra!**
 Thanks!
 
-**poli shukre!**
+**poli shukra!**
 Thanks a lot!
 
-**ya, shukre.**
+**ya, shukra.**
 Yes, thank you.
 
-**no, shukre.**
+**no, shukra.**
 No, thank you.
 
-**shukre tu.**
+**shukra tu.**
 Thank you.
 
-**mi shukre tu.**
+**mi shukra tu.**
 I thank you.
 
-**mi shukre tu mede mi.**
+**mi shukra tu mede mi.**
 I thank you for helping me.
 
-**shukre tu mede mi.**
+**shukra tu mede mi.**
 Thanks for helping me.
 
-**no yau shukre.**
+**no yau shukra.**
 You're welcome. (Literally: _No need to thank._)
 
 
-### es <small>to be</small>
+### e <small>to be</small>
 
 The word **e** can be used also for stating something as a fact.
 
@@ -139,7 +139,7 @@ The apple is a fruit.
 <small>Etymology. **e** is from
 Spanish *es*,
 French *est*,
-English *is*.</small>
+Hindi है *he*.</small>
 
 
 ### mi <small>I, me</small>
@@ -361,7 +361,7 @@ Who are they?
 Bengali: কী "ke".</small>
 
 
-### ye e vo <small>this and that</small>
+### ye i vo <small>this and that</small>
 
 **ye e ke?**
 What's this?
@@ -420,38 +420,21 @@ means "your" and so on.
 **da e ke?**
 Who's he/she?
 
-**da e mi su doste.**
+**da e mi su dosti.**
 He/she is my friend.
 
-**mi e Sara su doste.**
+**mi e Sara su dosti.**
 I am Sarah's friend.
 
-The possessive particle is used also to form the predicate of possession.
-The possessor is followed by **ha** and the thing possessed.
-
-**mi ha un mau.**
-I have a cat.  
-**damen ha pesa.**
-They have money.  
-**sara ha doste.**
-Sara has a friend.
-
-It could help to understand the structure by comparing the sentences above to the sentences below.
+It's also possible to end a sentence with
+**su**.
 
 **mau e mi su.**
 The cat is mine.  
 **pesa e damen su.**
 The money is theirs.  
-**doste e sara su.**
+**dosti e sara su.**
 The friend is Sara's.
-
-Possession is negated by putting the word
-**no**
-before the
-**e**.
-
-**damen su no e pesa.**
-They don't have money.
 
 <small>Etymology. **su**
 English _'s_,
@@ -681,28 +664,28 @@ I can speak a little Pandunia.
 **mi no bil english.**
 I can't speak English.
 
-**yaf. mi no bil tu su bashe.**
+**yaf. mi no bil tu su basha.**
 Sorry, I can't speak your language.
 
 
-### loge <small>to say, speak, talk</small>
+### loga <small>to say, speak, talk</small>
 
-**tu loge ke?**
+**tu loga ke?**
 What did you say?
 
-**mi loge to tu.**
+**mi loga to tu.**
 I talk to you.
 
-**mimen loge to semen.**
+**mimen loga to semen.**
 We talk to each other.
 
-**se loge "cat" a ke yang a pandunia?**
+**se loga "cat" a ke yang a pandunia?**
 How do you say "cat" in Pandunia?
 
 **"cat" e ke a pandunia?**
 What is "cat" in Pandunia?
 
-**mau loge "miau".**
+**mau loga "miau".**
 Cat says "meow".
 
 
@@ -714,7 +697,7 @@ Listen to me!
 **mi no bil audi tu.**
 I can't hear you.
 
-**ching loge max bala.**
+**ching loga max bala.**
 Please speak louder.
 
 **mi audi muzike.**
@@ -739,18 +722,18 @@ See you tomorrow!
 I saw him/her yesterday.
 
 
-### seme <small>to mean</small>
+### sema <small>to mean</small>
 
-**ye lexe ya seme ke?**
+**ye lexe ya sema ke?**
 What does this word mean?
 
-**"mau" ya seme ke?**
+**"mau" ya sema ke?**
 What does "mau" mean?
 
-**da seme un yang de hevan.**
+**da sema un yang de hevan.**
 It means a kind of animal.
 
-**mi no aha da seme ke.**
+**mi no aha da sema ke.**
 I don't understand what it means.
 
 
@@ -763,15 +746,15 @@ Please, write your address.
 Please, write it here!
 
 
-### bashe <small>speak a language, communicate</small>
+### basha <small>speak a language, communicate</small>
 
-**sual tumen bashe pandunia.**
+**sual tumen basha pandunia.**
 Do you speak Pandunia?
 
-**mimen bashe pandunia.**
+**mimen basha pandunia.**
 We speak Pandunia.
 
-**sual tu bil bashe english?**
+**sual tu bil basha english?**
 Can you speak English?
 
 **franse, espanya, portugal, rus**
@@ -896,7 +879,7 @@ I wait for you in the hotel.
 
 ### zai <small>currently</small>
 
-**mi zai sal tu su doste.**  
+**mi zai sal tu su dosti.**  
 I am greeting your friend.
 
 **la man ya zai vide un filme.**  
@@ -911,7 +894,7 @@ He/she is currently at home.
 
 ### pas <small>in the past</small>
 
-**mi pas sal tu su doste.**  
+**mi pas sal tu su dosti.**  
 I greeted your friend.
 
 **la man ya pas vide un filme.**  
@@ -926,7 +909,7 @@ He/she was at home.
 
 ### le <small>already, completed</small>
 
-**mi le sal tu su doste.**  
+**mi le sal tu su dosti.**  
 I have greeted your friend.
 
 **la man le vide un filme.**  
@@ -941,7 +924,7 @@ He/she has been at home.
 
 ### sha <small>in the future</small>
 
-**mi sha sal tu su doste.**  
+**mi sha sal tu su dosti.**  
 I will greet your friend.
 
 **la man sha vide la filme.**  

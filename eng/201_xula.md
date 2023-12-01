@@ -22,13 +22,13 @@ hide:
 **tu e ke?**
 = Who are you?  
 <big>☻</big>
-**mi e Yusef. tu es ke?**
+**mi e Yusef. tu e ke?**
 = I am Yusef. Who are you?  
 <big>☺</big>
-**mi e Sara. da es ke?**
+**mi e Sara. da e ke?**
 = I am Sara. Who is that?  
 <big>☻</big>
-**da e mi su doste.**
+**da e mi su dosti.**
 = That is my friend.  
 <big>☺</big>
 **da su nam e ke?**
@@ -42,11 +42,11 @@ hide:
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
 tells something about the topic. For instance in
-**da e mi su doste**
+**da e mi su dosti**
 the topic is the pronoun
 **da**
 (he, she, it), which is followed by the comment
-**es mi su doste**
+**e mi su dosti**
 (is my friend).
 
 In Pandunia, the word **e** functions like _to be_ in English.
@@ -64,7 +64,7 @@ And to say the opposite, simply put **no** before it.
 = The house is not an animal.  
 
 In the same way you can describe yourself by saying
-**mi es**
+**mi e**
 and a word that describes you.
 
 **mi e hau.**
@@ -112,7 +112,7 @@ to be
 no; not  
 **hau**
 good  
-**doste**
+**dosti**
 friend  
 **nam**
 name  
@@ -127,12 +127,12 @@ animal
 
 ### Answers to the Exercises
 
-1. tu es ke?
-2. mi es Tomas.
-3. tu su doste es ke?
-4. da es Sara.
-5. tu su nam es ke?
-6. mi su nam es ........... 
+1. tu e ke?
+2. mi e Tomas.
+3. tu su dosti e ke?
+4. da e Sara.
+5. tu su nam e ke?
+6. mi su nam e ........... 
 
 
 --------------------------------------------------------------------------------
@@ -273,7 +273,7 @@ chief, boss
 
 ### Dialog
 
-![](http://www.pandunia.info/grafe/laupapa.png "cin pa es bacha")  
+![](http://www.pandunia.info/grafe/laupapa.png "cin pa i bacha")  
 <small>Image designed by [macrovector](https://www.freepik.com/macrovector)</small>
 
 <big>☻</big>
@@ -283,13 +283,13 @@ chief, boss
 **halo! ching side.**
 = Hello! Please sit!  
 <big>☻</big>
-**shukre.**
+**shukra.**
 = Thank you.  
 <big>☺</big>
-**ching yam kafe o chai.**
+**ching yam kafe u chai.**
 = Please have some coffee or tea.  
 <big>☻</big>
-**ama mi yam un di chai! shukre.**
+**ama mi yam un di chai! shukra.**
 = But I drink only tea! Thank you.  
 ...  
 <big>☻</big>
@@ -370,7 +370,7 @@ has a useful pattern that can be used for making polite requests.
 = Please give me some tea.  
 **ching yam chai.**
 = Please have some tea.  
-**ching safe kamar.**
+**ching safi kamar.**
 = Please clean the room.
 
 Commands are introduced with
@@ -380,12 +380,12 @@ Commands are introduced with
 
 **amir don chai.**
 = Give (me) some tea!  
-**amir safe kamar.**
+**amir safi kamar.**
 = Clean the room!
 
 In practice, direct commands can be also made with just one verb and a commanding voice.
 
-**safe da!**
+**safi da!**
 = Clean it!
 
 
@@ -424,11 +424,11 @@ room
 the  
 **mus**
 must, have to  
-**o**
+**u**
 or  
-**safe**
+**safi**
 to clean  
-**shukre**
+**shukra**
 thanks  
 **side**
 to sit  
@@ -443,10 +443,10 @@ some, a(n)
 ### Answers to the Exercises
 
 1. da yam cai.
-2. la xefe ching da side.
-3. ching yam kafe o cai.
-4. mama ching mi safe kamar.
-5. xefe side e yam kafe.
+2. la shefe ching da side.
+3. ching yam kafe u cai.
+4. mama ching mi safi kamar.
+5. shefe side i yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -460,7 +460,7 @@ some, a(n)
 <small>Image designed by [pikisuperstar](https://www.freepik.com/pikisuperstar)</small>
 
 <big>☺</big>
-**sal! sual tu yam kafe o chai?**
+**sal! sual tu yam kafe u chai?**
 = Hello! Would you like to have coffee or tea?  
 <big>☻</big>
 **chai.**
@@ -469,10 +469,10 @@ some, a(n)
 **tu ne?**
 = And you?  
 <big>☹</big>
-**mi no bashe pandunia...**
+**mi no basha pandunia...**
 = I don't speak Pandunia...  
 <big>☺</big>
-**af! sual da yam chai?**
+**yaf! sual da yam chai?**
 = Pardon! Will he have tea?  
 <big>☻</big>
 **no. da no yam chai. da yam kafe.**
@@ -490,7 +490,7 @@ some, a(n)
 **no yam.**
 = No.  
 <big>☺</big>
-**shukre. mi don un chai i un kafe e un supe pos des minute.**
+**shukra. mi don un chai i un kafe i un supe pos des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -523,9 +523,9 @@ Of course common and proper nouns can also be used.
 
 **sual shefe yam kafe?**
 = Does the chief drink coffee?  
-**sual papa safe kamar?**
+**sual papa safi kamar?**
 = Does the father clean the room?  
-**sual niki bashe pandunia?**
+**sual niki basha pandunia?**
 = Does Nicky speak Pandunia?
 
 
@@ -578,11 +578,11 @@ Try translating these sentences from English to Pandunia.
 
 **pos**
 after  
-**af**
+**yaf**
 pardon, sorry  
 **minute**
 minute  
-**bashe**
+**basha**
 speak a language  
 **ne**
 sentence-ending tag for asking the other's point of view  
@@ -602,8 +602,8 @@ yes
 
 ### Answers to the Exercises
 
-1. sual tu bashe pandunia?
-2. ya. mi bashe pandunia.
+1. sual tu basha pandunia?
+2. ya. mi basha pandunia.
 3. sual mama yam kafe?
 4. no. da no yam kafe.
 5. sual da yam supe?
@@ -632,11 +632,11 @@ In Pandunia the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
 of the negative word.
 
-**mi ching tu safe kamar.**
+**mi ching tu safi kamar.**
 = I ask you to clean the room.  
-**mi no ching tu safe kamar.**
+**mi no ching tu safi kamar.**
 = I do NOT ask you to clean the room.  
-**mi ching tu no safe kamar.**
+**mi ching tu no safi kamar.**
 = I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
@@ -674,7 +674,7 @@ empty
 **ha**
 to have  
 **mau**
-cat.
+cat  
 **vaf**
 dog  
 **du**
@@ -687,11 +687,11 @@ but
 
 ### Answers to the Exercises
 
-1. da no safe kamar.
+1. da no safi kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da su no es vaf e mau. / da ha no vaf e no mau.
-5. xefe yam cai ama no kafe.
+4. da no ha vaf i mau. / da ha no vaf i no mau.
+5. shefe yam cai ama no kafe.
 6. mama ha no vaf ama du mau.
 
 
@@ -774,7 +774,7 @@ period of time
 3. ke zaman da lai?
 4. pos des minute.
 5. ke sabu da no yam?
-6. de sabu da no suke kafe e supe.
+6. de sabu da no suke kafe i supe.
 
 
 --------------------------------------------------------------------------------
@@ -841,7 +841,7 @@ It is enough to set the stage once in the beginning with a time expression.
 Another time word will not be needed until the tense changes
 or until it becomes useful to stress that you are still talking in the same tense.
 
-**mi su pas e un mau.**
+**mi pas ha un mau.**
 = I had a cat in the past.  
 **da e hau mau.**
 = It was a good cat.  
@@ -853,7 +853,7 @@ time expression is present, other markers are not needed.
 
 **mi be gene a nen 2003.**
 = I was born in 2003.  
-**da safe la kamar a pos den.**
+**da safi la kamar a pos den.**
 = He will clean the room tomorrow.
 
 
@@ -896,7 +896,7 @@ milk
 1. mi su shefe feste a sha.
 2. mi ha du vaf a pas.
 3. tu yam supe a zai.
-4. da safe kamar a preden.
+4. da safi kamar a preden.
 5. mau yam milke a posden.
 6. tu su ma festa a prenoce.
 
