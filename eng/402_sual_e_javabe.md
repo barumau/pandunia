@@ -37,6 +37,13 @@ The flag of Pandunia represents global equality.
 There is a symbol of _the blue planet_ against the background of the dark blue galaxy.
 The equality sign is laid over the Earth to symbolize global equality.
 
+#### What is the symbol of Pandunia?
+
+The symbol of Pandunia is the circled equals sign, which is also in the flag.
+It is easy to draw by hand.
+In computers, there is a dedicated circled equals symbol: `⊜`.
+Its Unicode code is U+229C, but unfortunately it's not visible with all fonts.
+It can be written easily in the smiley-style: `(=)` or `(＝)`.
 
 #### Where do Pandunia words come from?
 
@@ -298,8 +305,8 @@ The pronunciation of Pandunia letters is compared to their pronunciation in othe
   and in the compared language are listed in the column "Different".
 - Pandunia letters that are not used in the compared language are listed in the column "Not used".
 
-| Language         | Similar                                         | Different   | Not used|
-|:-----------------|-------------------------------------------------|-------------|---------|
+| Language         | Similar                                             | Different   | Not used|
+|:-----------------|-----------------------------------------------------|-------------|---------|
 | Pandunia         | a b ch d e f g h i j k l m n o p r s sh t u v x y z |             |         |
 | Indian Romaniz.  | a b ch d e f g h i j k l m n o p r s sh t u v   y z |             | x       |
 | Malay            | a b    d e f g h i j k l m n o p r s    t u     y z |             | v x     |
@@ -325,12 +332,12 @@ and most differences are about letters *c*, *j*, *sh*, *y* and *z*.
 
 The main reason is that Pandunia borrows words from many languages,
 and often those languages don't agree about the final vowel.
-For example the word **supe** (_soup_) ends in -a in Spanish _sopa_,
+For example the word **supa** ('soup') ends in -a in Spanish _sopa_,
 in -u in Japanese スープ (_sūpu_),
 in -e in German _Suppe_,
 and not in any vowel in English _soup_.
 So it's not one and the same word but rather an international family of similar words,
-and Pandunia's **supe** fits perfectly into that family.
+and Pandunia's **supa** fits perfectly into that family.
 
 
 ## Grammar
