@@ -24,13 +24,13 @@ For example, the word **hali** can function equally as an adjective (_blank_ or 
 **tu mus hali vo lexi.**
 – You must blank out that word.
 
-Likewise, the word **kitabe** can function as a verb (_to write_), a noun (_a writing_) and adjective (_written_ or _textual_).
+Likewise, the word **kitaba** can function as a verb (_to write_), a noun (_a writing_) and adjective (_written_ or _textual_).
 
-**mi kitabe letre.**
+**mi kitaba letre.**
 – I write a letter.  
-**letre e kitabe misije.**
+**letre e kitaba misije.**
 – A letter is a written message.  
-**mi ame tu su kitabe.**
+**mi ai tu su kitaba.**
 – I love your writings.
 
 
@@ -59,8 +59,11 @@ though the results usually look mostly similar.
 For example, English word *antidemocratic* can be divided into parts thus: *anti-dem-o-crat-ic*.
 It is completely made up of bound morphemes, units that can't stand alone
 but that can only appear as part of another word.
-The corresponding Pandunia word, *antidemikratiki*, is made up of stand-alone words
-and it could be written even as an open compound: *anti demi krati ki*.
+The corresponding Pandunia word,
+**antidemikratika**,
+is made up of stand-alone words
+and it could be written also as an open compound:
+**anti demi krati ka**.
 The structure of this compound word in Pandunia is identical with the corresponding word in Mandarin,
 *fǎn mín zhǔ de* (反民主的).
 So Pandunia's word derivation system is structurally closer to the East Asian type than the European type.
@@ -71,7 +74,7 @@ So Pandunia's word derivation system is structurally closer to the East Asian ty
 | demi     | dem-    | mín      |
 |          | -o-     |          |
 | krati    | crat-   | zhǔ      |
-| ki       | -ic     | de       |
+| ka       | -ic     | de       |
 
 
 ## Affixes
@@ -80,10 +83,10 @@ Affixes, i.e. prefixes and suffixes, are very important and give great flexibili
 They are joined or merged to the base word.
 
 For example, the word **Geia** 'planet Earth' consists of the base word **gei** 'earth, ground'
-and the collective noun suffix **-ia**.
+and the collective noun suffix **-ya**.
 
            gei       'earth, ground'
-       +   -ia       'collective noun suffix'
+       +   -ya       'collective noun suffix'
     _____________
     =      Geia      'planet Earth, Gaia'
 
@@ -93,15 +96,15 @@ and the preceding roots only modify its meaning.
 
            pan       'all'
        +  demi       'people, public'
-       +   -ki       'adjectival suffix'
+       +   -ka       'adjectival suffix'
     _____________
-    = pandemiki      'pandemic'
+    = pandemika      'pandemic'
 
 The connecting vowel **-o-** is inserted between the elements in Greek compounds.
 
            demi      'people, public'
        +  krati      'rule, govern'
-       +    -ia      'collective noun suffix'
+       +    -ya      'collective noun suffix'
     _____________
     = demikratia     'democracy'
 
@@ -402,9 +405,9 @@ The prefix **su-** adds the quality of goodness into the base word.
 
 The suffix *-bil* means that something is possible or able to be done.
 
-**vide**
+**visi**
 'see, view'
-→ **videbil**
+→ **visibil**
 'one that can be seen, visible'  
 **uze**
 'use'
@@ -619,19 +622,10 @@ It is used in abstract nouns of quality.
 → **hurita**
 'freedom'
 
-**-tor**
-'doer, agent, apparatus, device, machine':  
-**trate**
-'drag, haul'
-→ **trator**
-'tractor'  
-**fotografe**
-'photograph'
-→ **fotografor**
-'photograph apparatus, camera'
+#### -te
 
-**-te**
-'diminutive, indicating small size or youth':  
+The suffix **-te** indicates small size.
+
 **kase**
 'case, box'
 → **kasete**
@@ -640,35 +634,6 @@ It is used in abstract nouns of quality.
 'pack, package'
 → **pakete**
 'packet'
-
-**-ti**
-'do, act, doing, action':  
-**rota**
-'wheel'
-→ **rotati**
-'turn like a wheel, rotate, rotation'
-
-**-tion** = **-ti** + **-on**
-'doing, action':  
-**anima**
-'to animate'
-→ **animation**
-'animation, animating'  
-**rota**
-'wheel'
-→ **rotation**
-'rotation, turning like a wheel'
-
-**-tur**
-'result or product':  
-**kulte**
-'cultivate (a way of life)'
-→ **kulture**
-'culture'  
-**mixe**
-'mix'
-→ **mixure**
-'mixture'
 
 #### -vi
 
@@ -748,6 +713,48 @@ where it can be understood as collection of scientific knowledge and practices.
 'systematic study, logic'  
 **biologia**
 'biology, systematic study of organic life'
+
+#### -yon or -ion
+
+The suffix **-yon** means action or process.
+There are two forms of this suffix.
+The form **-yon** is used when the base word ends in a consonant or a vowel other than *i*,
+for example
+**loga** + **-yon** = **logayon**.
+The form **-ion** is used when the base word ends in *i*,
+for example
+**fuzi** + **-yon** = **fuzion**.
+
+**fuzi**
+'to fuse'
+→ **fuzion**
+'fusion, the act of fusing'  
+**loga**
+'to talk'
+→ **logayon**
+'talking, the act of talking'
+
+#### -yum or -ium
+
+The suffix **-yum** means an element.
+There are two forms of this suffix.
+The form **-yum** is used when the base word ends in a consonant or a vowel other than *i*,
+for example
+**Einstein** + **-yum** = **einsteinyum** 'einsteinium'.
+The form **-ium** is used when the base word ends in *i*,
+for example
+**kali** + **-yum** = **kalium** 'kalium'.
+
+**kali**
+'base, alkali'
+→ **kalium**
+'kalium'  
+**Kuri**
+→ **kurium**
+'curium, the chemical element named after Marie Curie'  
+**Einstein**
+→ **einsteinyum**
+'einsteinium, the chemical element named after Albert Einstein'
 
 #### -za
 

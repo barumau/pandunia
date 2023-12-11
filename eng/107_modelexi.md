@@ -69,7 +69,7 @@ is used also when a modifier modifies another one.
 
 **un _dai di_ hau buku**
 – a _greatly_ good book  
-**poli _bala di_ ame ja jen**
+**poli _bala di_ ai ja jen**
 – _strongly_ loving people
 
 

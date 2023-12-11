@@ -1139,7 +1139,7 @@ It translates as *bah*, *fie*.
 asks a direct *yes or no* question.
 It translates as *eh?* or *huh?*.
 
-**tu ame kafe, he?**
+**tu ai kafe, he?**
 – You love coffee, huh?
 
 **me**
