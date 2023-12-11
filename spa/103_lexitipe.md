@@ -56,10 +56,10 @@ Una palabra como
 puede funciona como un verbo, sustantivo, o adjetivo
 dependiendo de su posición en la oración.
 
-**mi _vide_ tu.**
+**mi _visi_ tu.**
 – Te _veo_. (verbo)  
-**tu ha hau vide.**
+**tu ha hau visi.**
 – Tienes buena _visión_. (sustantivo)  
-**mi estude la _vide_ suta.**
+**mi studi la _visi_ suta.**
 – Estudio las artes _visuales_. (adjectivo)
 

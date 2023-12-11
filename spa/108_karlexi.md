@@ -12,17 +12,17 @@ Por ejemplo, el verbo
 **e**
 (»ser>>) tiene la misma forma para todas las personas.
 
-**_mi_ e doste.**
+**_mi_ e dosti.**
 – Yo soy una amiga.  
-**_tu_ e doste.**
+**_tu_ e dosti.**
 – Tú eres un amigo.  
-**_da_ e doste.**
-– Éla es amiga de alguien.  
-**_mimen_ e doste.**
+**_da_ e dosti.**
+– Éla es amiga.  
+**_mimen_ e dosti.**
 – Nosotros somos unos amigos de alguien.  
-**_tumen_ e doste.**
+**_tumen_ e dosti.**
 – Ustedes son unas amigas de alguien.  
-**_damen_ e doste.**
+**_damen_ e dosti.**
 – Ellos son unos amigos de alguien.
 
 En adición un sustantivo puede servir de un sujeto.
@@ -54,15 +54,15 @@ que se introducen suguiente.
 
 La relación de un acción, evento, o estado a tiempo se indica con verbos auxiliares.
 
-**xuru**
+**shuru**
 (»empezar>>, »comenzar>>)
 indica el comienzo de una acción o transición a una situación nueva.
 
-**mi xuru fuku la kote.**
+**mi shuru fuku la kote.**
 – Empiezo a llevar el abrigo. = Me pongo el abrigo.  
-**kaguji ya xuru hogo.**
+**kaguji ya shuru hogo.**
 – Papel empieza a quemar.  
-**tu xuru yam.**
+**tu shuru yam.**
 – Empiezas a comer.
 
 **fin**
@@ -134,12 +134,12 @@ y es pertinente solo como una experiencia.
 **mi pas ada gul yo bir.**
 – Yo solía bebir cerveza. / Tení la costumbre de bebir cerveza.
 
-**xa**
+**sha**
 (»ir a>>, »futuro>>)
 indica que un evento ocurrirá en el futuro.
 
-**da _xa_ e guru.**
+**da _sha_ e guru.**
 – Será docente.  
-**mi no _xa_ gul yo bir.**
+**mi no _sha_ gul yo bir.**
 – No voy a bebir una cerveza.
 

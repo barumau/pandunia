@@ -12,7 +12,7 @@
 | 4 nelu   | 14 des nelu  | 24 du des nelu   | 34 tri des nelu  |
 | 5 lima   | 15 des lima  | 25 du des lima   | 35 tri des lima  |
 | 6 luka   | 16 des luka  | 26 du des luka   | 36 tri des luka  |
-| 7 ceti   | 17 des ceti  | 27 du des ceti   | 37 tri des ceti  |
+| 7 cheti  | 17 des cheti | 27 du des cheti  | 37 tri des cheti |
 | 8 bati   | 18 des bati  | 28 du des bati   | 38 tri des bati  |
 | 9 tisa   | 19 des tisa  | 29 du des tisa   | 39 tri des tisa  |
 
@@ -24,7 +24,7 @@
 | 4 nelu   | 40 nelu des  | 400 nelu sento  | 4000 nelu kilo    |
 | 5 lima   | 50 lima des  | 500 lima sento  | 5000 lima kilo    |
 | 6 luka   | 60 luka des  | 600 luka sento  | 6000 luka kilo    |
-| 7 ceti   | 70 ceti des  | 700 ceti sento  | 7000 ceti kilo    |
+| 7 cheti  | 70 cheti des | 700 cheti sento | 7000 cheti kilo   |
 | 8 bati   | 80 bati des  | 800 bati sento  | 8000 bati kilo    |
 | 9 tisa   | 90 tisa des  | 900 tisa sento  | 9000 tisa kilo    |
 
@@ -66,7 +66,7 @@ Ellas preceden la palabra o frase que califican.
 – tres estrellas  
 **kam sing**
 – pocas estrellas  
-**men sing**
+**poli sing**
 – muchas estrellas
 
 **un dai kursi**
@@ -93,7 +93,7 @@ Números ordinales se crean con la partícula **me**.
   – quinto
 - **luka me**
   – sexto
-- **ceti me**
+- **cheti me**
   – séptimo
 - **bati me**
   – octavo
@@ -173,11 +173,11 @@ Días de la semana inclusan la palabra
    – martes
 3. **merkurden**
    – miércoles
-4. **muxinden**
+4. **mushinden**
    – jueves
 5. **zukraden**
    – viernes
-6. **xaniden**
+6. **shaniden**
    – sabado
 7. **solden**
    – domingo
@@ -201,7 +201,7 @@ pero esta vez la palabra
   – mayo
 6. **mes luka**
   – junio
-7. **mes ceti**
+7. **mes cheti**
   – julio
 8. **mes bati**
   – agosto

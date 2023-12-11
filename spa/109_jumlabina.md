@@ -75,11 +75,11 @@ La misma regla aplica para dos adjetivos, o un verbo y un adjetivo.
 Un predicado también puede ser un verbo. En este caso, puede haber objetos en adición al sujeto.
 Estes siguen el predicado.
 
-**mi marce.**
+**mi marche.**
 – Yo camino.  
 **tu yam yo aple.**
 – Tú comes manzana.  
-**mimen done da yo pesa.**
+**mimen don da yo pesa.**
 – Nosotros le damos algo dinero.
 
 Tal vez, el sujeto de una oración puede ser el objeto de otra.
