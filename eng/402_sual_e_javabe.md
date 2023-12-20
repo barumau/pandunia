@@ -210,6 +210,9 @@ the history of the international auxiliary language (IAL) movement.
 
 English is indeed widely used
 – even up to a degree that some would like to call it _the_ international language.
+However, that is not quite true.
+Only about 6% of the world's population are native English speakers, and 75% of people don't speak English at all.
+
 Unfortunately, English is not very good at being an international language.
 It's not its own fault.
 It just happens to be the case that natural languages,

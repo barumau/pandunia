@@ -137,7 +137,7 @@ the consonant inventories in world's languages are categorized by size as follow
 
 Pandunia has only 20 consonants so its consonant inventory is average in size.
 
-English and Mandarin, for example, have much bigger consonant inventories.
+English and Mandarin, for example, have much bigger consonant inventories than Pandunia.
 Most consonant letters are pronounced in the same way in all three languages.
 The table below shows what consonant sounds correspond to each other in Pandunia, English and Mandarin.
 Sounds that are present in English or Mandarin but not in Pandunia are inside parenthesis.
@@ -161,7 +161,7 @@ For example in Japanese the heaviest syllables
 consist of an initial consonant, a vowel and a final nasal consonant.
 This is why Japanese sounds light and vocalic.
 In English, on the other hand, it is possible to cram many consonants in one syllable, as in
-"strict sprints".
+*strict parents*.
 
 Pandunia is somewhere in the middle.
 Most syllables are simple a-consonant-and-a-vowel pairs
