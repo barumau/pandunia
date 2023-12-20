@@ -41,7 +41,7 @@ Bonan tagon!
 **sal sham!**
 Bonan vesperon!
 
-**sal noce!**
+**sal noche!**
 Bonan nokton!
 
 **sal yam!**
@@ -72,39 +72,39 @@ sŭahila *salaam*,
 indonezia *selamat*.</small>
 
 
-### shukre <small>dankon</small>
+### shukra <small>dankon</small>
 
 <p style="font-size:5em;">�</p>
 
-**shukre!**
+**shukra!**
 Dankon!
 
-**poli shukre!**
+**poli shukra!**
 Multajn dankojn!
 
-**ya, shukre.**
+**ya, shukra.**
 Jes, danke.
 
-**no, shukre.**
+**no, shukra.**
 Ne, danke.
 
-**shukre tu.**
+**shukra tu.**
 Dankon al vi.
 
-**mi shukre tu.**
+**mi shukra tu.**
 Mi dankas vin.
 
-**mi shukre tu mede mi.**
+**mi shukra tu mede mi.**
 Mi dankas vin pro vi helpis min.
 
-**shukre tu mede mi.**
+**shukra tu mede mi.**
 Dankon pro vi helpis min.
 
-**no yau shukre.**
+**no yau shukra.**
 Ne dankinde.
 
 
-### es <small>esti</small>
+### e <small>esti</small>
 
 The word **sa** can be used also for stating something as a fact. Then it is
 used in place of "to be".
@@ -175,7 +175,7 @@ havas la saman formon kaj kiel subjekto kaj kiel objekto.
 **sal tu!**
 Saluton al vi!
 
-**mi ame tu.**
+**mi ai tu.**
 Mi amas vin.
 
 <small>Etimologio. **tu**
@@ -522,9 +522,9 @@ frazoj. La vortordo ne ŝanĝas pro **ke**.
 **mi vol yam kafe.**
 Mi volas trinki kafon.
 
-**sual tu vol yam cai?**
+**sual tu vol yam cha?**
 Ĉu vi volas trinki teon?  
-**no. mi no vol cai. mi vol kafe.**
+**no. mi no vol cha. mi vol kafe.**
 Ne. Mi ne volas teon. Mi volas kafon.
 
 **tu vol ke aple?**
@@ -535,7 +535,7 @@ Tiun ruĝan.
 
 ### ching <small>peti</small>
 
-**mi ching tu yam cai.**
+**mi ching tu yam cha.**
 Mi petas ke vi trinku teon.
 
 **mi ching tu lai dom.**
@@ -546,7 +546,7 @@ Mi petas ke vi helpu min.
 
 Noto: Faru mallongajn petojn forlasante la pronomojn.
 
-**ching yam cai.**
+**ching yam cha.**
 Bonvolu trinki teon!
 
 **ching yam kafe.**
@@ -619,13 +619,13 @@ Mi komprenas nenion.
 
 ### bil <small>povi</small>
 
-**mi bil xofe un kar.**
+**mi bil shofe un kar.**
 Mi povas konduki aŭton.
 
-**da no bil xofe un kar.**
+**da no bil shofe un kar.**
 Ŝi/li ne povas konduki aŭton.
 
-**sual tu bil xuli da?**
+**sual tu bil shuli da?**
 Ĉu vi povas ripari ĝin?
 
 **sual tu bil pandunia?**
@@ -637,31 +637,31 @@ Mi povas pandunion.
 **mi bil kam pandunia.**
 Mi povas ete pandunion.
 
-**mi no bil englix.**
+**mi no bil english.**
 Mi ne povas paroli la anglan.
 
-**maf. mi no bil tu su baxe.**
+**maf. mi no bil tu su basha.**
 Pardonon, mi ne povas paroli vian lingvon.
 
 
-### loge <small>diri, paroli</small>
+### loga <small>diri, paroli</small>
 
-**tu loge ke?**
+**tu loga ke?**
 Kion vi diris?
 
-**mi loge to tu.**
+**mi loga to tu.**
 Mi parolas al vi.
 
-**mimen loge to semen.**
+**mimen loga to semen.**
 Ni parolas unu al alia.
 
-**se loge "kato" a ke yang a pandunia?**
+**se loga "kato" a ke mode a pandunia?**
 Kiel oni diras "kato" pandunie?
 
 **"kato" e ke a pandunia?**
 Kio estas "kato" pandunie?
 
-**mau loge "miau".**
+**mau loga "miau".**
 Kato diras mjaŭ.
 
 
@@ -673,7 +673,7 @@ Aŭskulti min!
 **mi no bil audi tu.**
 Mi ne povas aŭdi vin.
 
-**ching loge max bala.**
+**ching loga mas bala.**
 Bonvolu paroli pli forte.
 
 **mi audi muzika.**
@@ -688,7 +688,7 @@ Kian muzikon vi aŭskultas?
 **suka vide tu.**
 Mi ĝojas vidi vin!
 
-**to rivide!**
+**to rivisi!**
 Ĝis la revido!
 
 **vide tu a posden!**
@@ -697,18 +697,18 @@ Mi ĝojas vidi vin!
 **mi vide da a preden.**
 Mi vidin lin/ŝin hieraŭ.
 
-### semi <small>signifi</small>
+### sema <small>signifi</small>
 
-**ye lexi ya semi ke?**
+**ye lexi ya sema ke?**
 Kion tiu vorto signifas?
 
-**"mau" ya semi ke?**
+**"mau" ya sema ke?**
 Kion "mau" signifas?
 
-**da semi un yang de hevan.**
+**da sema un tipe de hevan.**
 Ĝi signifas tipon de besto.
 
-**mi no aha da semi ke.**
+**mi no aha da sema ke.**
 Mi ne komprenas kion ĝi signifas.
 
 ### kitaba <small>skribi</small>
@@ -720,15 +720,15 @@ Bonvolu skribi vian adreson.
 Bonvolu skribi ĝin ĉi tie!
 
 
-### baxe <small>paroli, lingvumi</small>
+### basha <small>paroli, lingvumi</small>
 
-**sual tumen baxe pandunia.**
+**sual tumen basha pandunia.**
 Ĉu vi parolas pandunion?
 
-**mimen baxe pandunia.**
+**mimen basha pandunia.**
 Ni parolas pandunion.
 
-**sual tu bil baxe englix?**
+**sual tu bil basha english?**
 Ĉu vi povas paroli la anglan?
 
 **franse, espanya, portugal, rus**
@@ -855,7 +855,7 @@ Mi nune salutas vian amikon.
 **la man ya zai vide un filme.**  
 La viro estas vidanta la virinon.
 
-**da zai e xefe.**  
+**da zai e shefe.**  
 Ĝi estas la nuna ĉefo.
 
 **da zai a dom.**  
@@ -864,13 +864,13 @@ La viro estas vidanta la virinon.
 
 ### pas <small>-is, pasinte</small>
 
-**mi pas sal tu su doste.**  
+**mi pas sal tu su dosti.**  
 Mi (pasinte) salutis vian amikon.
 
 **la man ya pas vide un filme.**  
 La viro (pasinte) vidis la virinon
 
-**da pas e xefe.**  
+**da pas e shefe.**  
 Ĝi estas la pasinta ĉefo.
 
 **da pas a dom.**  
@@ -879,13 +879,13 @@ La viro (pasinte) vidis la virinon
 
 ### le <small>farite</small>
 
-**mi le sal tu su doste.**  
+**mi le sal tu su dosti.**  
 Mi estas salutinta vian amikon.
 
 **la man le vide un filme.**  
 La viro estas vidinta la virinon.
 
-**da le e xefe.**  
+**da le e shefe.**  
 Ĝi estas la estinta ĉefo.
 
 **da le a la dom.**  
@@ -894,13 +894,13 @@ Li estas estinta hejme.
 
 ### sha <small>-os, estonte</small>
 
-**mi sha sal tu su doste.**  
+**mi sha sal tu su dosti.**  
 Mi salutos vian amikon.
 
 **la man sha vide la filme.**  
 La viro vidos la virinon.
 
-**da sha e xefe.**  
+**da sha e shefe.**  
 Ĝi estas la estonta ĉefo.
 
 **da sha a dom.**  

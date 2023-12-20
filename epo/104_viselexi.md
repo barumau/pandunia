@@ -77,7 +77,7 @@ La montrovorto estas:
 
 **ke?**
 – Kiu?/Kio?  
-**ke xe?**
+**ke she?**
 – Kio? (Kiu afero?)  
 **ke jen?**
 – Kiu? (Kiu persono?)  
