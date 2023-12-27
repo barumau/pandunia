@@ -12,17 +12,17 @@ For example, the verb
 **e**
 ('to be') has the same form in all persons.
 
-**_mi_ e doste.**
+**_mi_ e dosti.**
 – I am a friend.  
-**_tu_ e doste.**
+**_tu_ e dosti.**
 – You are a friend.  
-**_da_ e doste.**
+**_da_ e dosti.**
 – He/she is a friend.  
-**_mimen_ e doste.**
+**_mimen_ e dosti.**
 – We are friends.  
-**_tumen_ e doste.**
+**_tumen_ e dosti.**
 – You are friends.  
-**_damen_ e doste.**
+**_damen_ e dosti.**
 – They are friends.
 
 Also a noun can serve as subject.
@@ -191,21 +191,21 @@ the first verb (an auxiliary verb) is something that the subject possesses
 and the second verb is something that the subject does (when there is an object in the end)
 or experiences (when there is no object).
 
-**mi bil kitabe la javabe.**  
+**mi bil kitaba la javabe.**  
 ≈ *I have the ability to write the answer.*  
 – I can write the answer.  
-**mi halal kitabe la javabe.**  
+**mi halal kitaba la javabe.**  
 ≈ *I have the permission to write the answer.*  
 – I may write the answer.  
-**mi mus kitabe la javabe.**  
+**mi mus kitaba la javabe.**  
 ≈ *I have the compulsion to write the answer.*  
 – I must write the answer.
 
 Note that the same auxiliary verbs can be used alone as transitive verbs in the pivot construction.
 
-**guru halal mi kitabe la javabe.**
+**guru halal mi kitaba la javabe.**
 – The teacher permits me to write the answer.  
-**guru mus mi kitabe la javabe.**
+**guru mus mi kitaba la javabe.**
 – The teacher compels me to write the answer.
 
 
@@ -215,37 +215,132 @@ Note that the same auxiliary verbs can be used alone as transitive verbs in the 
 In Pandunia, prepositions are words that function almost like verbs.
 They always take an object.
 
-**a**
-– at, on, by, next to, on the side of  
-**de**
-– off, away from, from  
-**ex**
-– out of, outside  
-**in**
-– in, inside  
-**kon**
-– with, together with  
-**pos**
-– after  
-**pre**
-– before  
-**pro**
-– for, forth, forward  
-**re**
-– back, back to  
-**to**
-– to, until  
-**tra**
-– through, beyond  
-**vise**
-– instead of
+#### a
 
-**da ga in la dome.**
-– He/she went into the house.  
-**da ga ex la dome.**
-– He/she went out of the house.  
-**da lai re la dome.**
-– He/she came back to the house.  
+The preposition
+**a**
+denotes a destination, goal or purpose, 'to, toward, for'.
+
+**damen marche a bazar.**
+– They walk to the market.  
+**mi vol don ye buku a tu.**
+– I want to give this book to you.
+
+#### bi
+
+The preposition
+**bi**
+denotes an instrument or tool, 'with, by, by means of'.
+
+**da bate bi hamar.**
+– He hits with the hammer.  
+**da kitaba bi kalam.**
+– He writes with a pen.
+
+It also denotes means of exchange, 'for'.
+
+**da shope la juba bi unli 20 euro.**
+– She bought the dress for only 20 euros.
+
+It also denotes the language of speech or a text, 'in'.
+
+**mimen loga bi pandunia**
+– We speak in Pandunia  
+**damen kitaba bi farsi**
+– They write in Persian.
+
+#### de
+
+The preposition
+**de**
+denotes separation or departure, 'off, away from, from'.
+
+**damen lai de Brazil.**
+– They come from Brazil.
+
+#### ex
+
+The preposition
+**ex**
+denotes location on the outside, 'out, outside'.
+
+**demi ya protesta ex la burgi.**
+– People protest outside the castle.
+
+#### in
+
+The preposition
+**in**
+denotes location on the inside, 'in, inside'.
+
+**zulmivan ya sir in la burgi.**
+– The tyrant hides in the castle.
+
+#### kon
+
+The preposition
+**kon**
+denotes togetherness, 'with, in the company of'.
+
 **da loge kon la shefe.**
 – He/she speaks with the boss.
 
+#### pos
+
+The preposition
+**pos**
+denotes later position in time or space, 'after, later than'.
+
+**damen lai pos mi.**
+– They come after me.
+
+#### pre
+
+The preposition
+**pre**
+denotes earlier position in time or space, 'before, in front of'.
+
+**damen lai pre mi.**
+– They come before me.
+
+#### pro
+
+The preposition
+**pro**
+denotes intention, cause or motivation, 'for, for the sake of, in order to, pro'.
+
+**mi kurse pro salta.**
+– I jog for health.
+
+#### re
+
+The preposition
+**re**
+denotes movement back, 'back, in return'.
+
+**da don la buku re mi.**
+– He gave the book back to me.
+
+#### tra
+
+The preposition
+**tra**
+denotes piercing through, 'through'.
+
+#### via
+
+The preposition
+**via**
+denotes road or way, 'via, by way of'.
+
+**mimen lai a Berlin via Praha.**
+– We come to Berlin via Prague.
+
+#### vise
+
+The preposition
+**vise**
+denotes substitution, 'instead of, on behalf of'.
+
+**da loga vise mi.**
+– He speaks on my behalf.
