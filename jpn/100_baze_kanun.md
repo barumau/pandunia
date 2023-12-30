@@ -64,22 +64,23 @@
           – パンドゥニアが話されている。
         - **se loge pandunia.**
           – 人がパンドゥニアを話す。
-    - In the _pivot structure_, the object of the transitive verb
-      functions as the subject of the following verb.
+    - 他動詞の目的語のあとに別の動詞を続けることができます。この構文をパンドゥニアでは「ピボット構造」と呼びます。
+        - **mi ching.**
+        - 私はお願いをします。
         - **mi ching tu loge pandunia.**
-          – I ask you to speak Pandunia.
-    - Pronouns can be left out when they are obvious and redundant.
+          – あなたがパンドゥニアを話すように私は（あなたに）お願いをします。
+    - 文脈から明らかである場合などには、代名詞を省略しても構いません。
         - **_mi_ ching _tu_ loge pandunia.**
           → **ching loge pandunia.**
-          – Please speak Pandunia.
-13. **Word building:**
-   In Pandunia, words change only when their actual meaning changes.
-   Words don't ever change only to serve in a different grammatical role.
-   Compound words are made by combining the elements that form them.
-   The main word stands at the end.
+          – パンドゥニアで話すようにお願いします。（＝パンドゥニアで話してください。）
+13. **語形成**
+   パンドゥニアの語形が変化するのは、異なる語義に変化する場合のみです。
+    文法的な役割が違うことを理由に語形が変化することはありません。
+    複合語をつくるには、語源となる語彙を組み合わせます。もっとも中心的であると考えられる語ほど後ろに配置されます。
     - **posta**
-      ("mail") +
+      ("メール") +
       **kasa**
-      ("box") =
+      ("箱") =
       **posta kasa**
-      ("mailbox")
+      ("メールボックス")
+      （メールボックスは「ボックス」の一種であると考えられるので、**kasa**が後ろに来る。仮に**kasa posta**という表現があるとすれば、「箱に関係するメール」のような意味になるはず）
