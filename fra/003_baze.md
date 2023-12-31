@@ -95,7 +95,7 @@ On compare les adjectifs grâce aux mots
 **min** (_moins_), **minim** (_le moins_) and **sam** (_aussi, tout autant_).
 Le point de comparison est introduit par **ka** (_que_).
 
-**ye idee e max neu ka vo idee.**
+**ye idee es max neu ka vo idee.**
 – Cette idée-ci est plus novatrice que cette idée-là.
 
 Les adverbes se placent généralement avant le nom qu'ils modifient, mais pas toujours.

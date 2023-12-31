@@ -29,11 +29,11 @@ Kaikista yksinkertaisimmissa lauseissa subjekti on substantiivi tai pronomini ja
 Substantiivin ollessa subjektina, verbi **si** ('olla') tulee välttämättömäksi.
 
 
-**Sara e bon.**
+**Sara es bon.**
 – Sara on hyvä  
-**seku e dai.**
+**seku es dai.**
 – Kivet ovat isoja.  
-**meza e neu.**
+**meza es neu.**
 – Pöytä on uusi.
 
 Kieltolauseessa käytetään sanaa **no**.
@@ -52,7 +52,7 @@ Kieltolauseessa käytetään sanaa **no**.
 Myös kaksi persoonapronominia voidaan asettaa rinnakkain.
 Selkeyden vuoksi väliin voi panna sanan **si** (kyllä) myöntölauseessa.
 
-**mi e da.**
+**mi es da.**
 = Minä olen se.  
 **mi no tu.**
 = Minä en ole sinä.
@@ -62,11 +62,11 @@ Selkeyden vuoksi väliin voi panna sanan **si** (kyllä) myöntölauseessa.
 
 Kun subjektina on adjektiivi, sana **si** (kyllä) toimii olla-verbin korvikkeena myöntölauseessa. Kieltolauseessa käytetään sanaa **no** kuten edelläkin.
 
-**jun e mei.**
+**jun es mei.**
 = Nuori on kaunista.  
 **neu no lau.**
 = Uusi ei ole vanha.  
-**gani e bon.**
+**gani es bon.**
 – Laulaminen on hyvä.
 
 
@@ -282,7 +282,7 @@ Panduniassa avoimissa kysymyksissä on aina kysymyssana
 ('mikä, mitä').
 Sanajärjestys on yleensä sama kuin väitelauseissa.
 
-**piza e ke?**
+**piza es ke?**
 – Mikä pitsa on?
 
 Kysymyssanan voi myös siirtää lauseen alkuun painottamaan sen merkitystä.
@@ -333,27 +333,27 @@ Yleensä sanajärjestys kuitenkin on sama kuin väitelauseissa.
 
 Lauseet ovat lähtökohtaisesti myöntäviä.
 
-**mi e xefe.**
+**mi es xefe.**
 = Minä olen pomo.  
-**da e neu meza.**
+**da es neu meza.**
 = Se on uusi pöytä.
 
 Myöntämistä voi painottaa sanalla
 **ya**
 ('kyllä').
 
-**mi ya e xefe.**
+**mi ya es xefe.**
 – Minä kyllä olen pomo.  
-**da ya e neu meza.**
+**da ya es neu meza.**
 – Se kyllä on uusi pöytä.
 
 #### Kieltäminen
 
 Edellisen kaltaiset lauseet kielletään sanalla **no**.
 
-**da no e xefe.**
+**da no es xefe.**
 = Minä en ole pomo.  
-**da no e neu meza.**
+**da no es neu meza.**
 = Tämä ei ole uusi pöytä.
 
 Sanaa **no** käytetään myös toisten sanojen kieltämiseen.

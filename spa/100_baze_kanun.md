@@ -35,7 +35,7 @@ Ellas se describien en más detalle más tarde en este sitio.
 6. **Numerales:**
    Los números cardinales son:
        - 0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **nelu**, 5 **lima**, 6 **luka**,
-         7 **cheti**, 8 **bati**, 9 **tisa**, 10 **des**.
+         7 **ceti**, 8 **bati**, 9 **tisa**, 10 **des**.
        - Mayor que diez: 11 **des un**, 12 **des du**, 13 **des tri**, etc.
        - Dieces: 20 **du des**, 30 **tri des**, 40 **nelu des**, etc.
        - Cientos: 100 **un sento**, 200 **du sento**, 300 **tri sento**, etc.
@@ -46,9 +46,9 @@ Ellas se describien en más detalle más tarde en este sitio.
    Los adjetivos y adverbos tienen la misma forma.
    El adjetivo está antes del sustantivo que modifica,
    y el adverbo está antes del verbo que modifica.
-    - **un rapide loga**
+    - **un suga loge**
       – Un habla rápida.
-    - **tu rapide loga.**
+    - **tu suga loge.**
       – Tú hablas rápido.
 8. **Verbos:**
    Los verbos no cambian para persona, número, o tenso.
@@ -56,33 +56,33 @@ Ellas se describien en más detalle más tarde en este sitio.
     - **zai** indica un evento que está en curso.
     - **le** indica un evento que ha completado y cuyo resulto afecta la situación presente.
     - **pas** indica un evento que pasó y que no es relacionado a la situación presente.
-    - **sha** indica un evento que ocurriere en el futuro.
+    - **xa** indica un evento que ocurriere en el futuro.
 9. **Orden de las palabras:**
     - El orden de las palabras es subjeto-verbo-objeto.
       El mismo orden se usa en ambos declaraciones y preguntas.
     - Una oración pasiva se construye con la ayuda del verbo auxiliar pasivo **be**.
-      Un efeto similar se puede lograr con el pronombre impersonal **men**.
-        - **pandunia be loga.**
+      Un efeto similar se puede lograr con el pronombre impersonal **se**.
+        - **pandunia be loge.**
           – Pandunia es hablado.
-        - **men loga pandunia.**
+        - **se loge pandunia.**
           – Uno habla Pandunia.
     - En la _structura de eje_, el objeto del verbo transitivo
       funcciona como el subjeto del verbo siguiente.
-        - **mi ching tu loga pandunia.**
+        - **mi ching tu loge pandunia.**
           – Yo te pido a tú hablar Pandunia.
     - Pronombres se pueden omitir cuando son obvios y superfluos.
-        - **_mi_ ching _tu_ loga pandunia.**
-          → **ching loga pandunia.**
+        - **_mi_ ching _tu_ loge pandunia.**
+          → **ching loge pandunia.**
           – Por favor habla Pandunia.
 10. **Construcción de las palabras:**
    En Pandunia, palabras se cambian solo cuando su significado se cambia.
    Palabras nunca se cambian solo para serve en un rol gramático diferente.
    Palabras compuestas se hacen combinando los elementos que las construyen.
    La palabra principal está en el fin.
-    - **poste**
+    - **posta**
       ("correo") +
       **kasa**
       ("caja") =
-      **poste kasa**
+      **postakasa**
       ("buzón")
 

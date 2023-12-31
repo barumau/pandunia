@@ -46,7 +46,7 @@ Oni uzas **se kon** por esprimi reciprokecon.
 **semen**
 – unu la alia
 
-**mi i tu vide semen.**
+**mi e tu vide semen.**
 – Mi kaj vi vidas unu la alian.  
 **mimen vide semen.**
 – Ni vidas unu la alian.
@@ -62,9 +62,9 @@ La montrovorto estas:
 **la**
 – la
 
-**ye e bon.**
+**ye es bon.**
 – ĉi tiu (aĵo) estas bone.  
-**vo e dus.**
+**vo es dus.**
 – Tiu (aĵo) estas malbone.  
 **mi vol ye buku, no vo.**
 – mi volas ĉi tiun libron, ne tiun.
@@ -77,7 +77,7 @@ La montrovorto estas:
 
 **ke?**
 – Kiu?/Kio?  
-**ke she?**
+**ke xe?**
 – Kio? (Kiu afero?)  
 **ke jen?**
 – Kiu? (Kiu persono?)  

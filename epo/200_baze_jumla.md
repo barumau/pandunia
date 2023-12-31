@@ -41,7 +41,7 @@ Bonan tagon!
 **sal sham!**
 Bonan vesperon!
 
-**sal noche!**
+**sal noce!**
 Bonan nokton!
 
 **sal yam!**
@@ -72,53 +72,53 @@ sŭahila *salaam*,
 indonezia *selamat*.</small>
 
 
-### shukra <small>dankon</small>
+### shukre <small>dankon</small>
 
 <p style="font-size:5em;">�</p>
 
-**shukra!**
+**shukre!**
 Dankon!
 
-**poli shukra!**
+**poli shukre!**
 Multajn dankojn!
 
-**ya, shukra.**
+**ya, shukre.**
 Jes, danke.
 
-**no, shukra.**
+**no, shukre.**
 Ne, danke.
 
-**shukra tu.**
+**shukre tu.**
 Dankon al vi.
 
-**mi shukra tu.**
+**mi shukre tu.**
 Mi dankas vin.
 
-**mi shukra tu mede mi.**
+**mi shukre tu mede mi.**
 Mi dankas vin pro vi helpis min.
 
-**shukra tu mede mi.**
+**shukre tu mede mi.**
 Dankon pro vi helpis min.
 
-**no yau shukra.**
+**no yau shukre.**
 Ne dankinde.
 
 
-### e <small>esti</small>
+### es <small>esti</small>
 
 The word **sa** can be used also for stating something as a fact. Then it is
 used in place of "to be".
 
-**mi e Tomas.**
+**mi es Tomas.**
 Mi estas Tomaso.
 
-**tu e Sara.**
+**tu es Sara.**
 Vi estas Sara.
 
-**aple e frute.**
+**aple es frute.**
 Pomo estas frukto.
 
-<small>Etimologio. **e** venas el
+<small>Etimologio. **es** venas el
 franca *est* /ɛ/,
 portugala *é*,
 hindia है /ɦɛ/.
@@ -127,10 +127,10 @@ hindia है /ɦɛ/.
 
 ### mi <small>mi</small>
 
-**mi e Sara.**
+**mi es Sara.**
 Mi estas Sara.
 
-**mi e Tomas.**
+**mi es Tomas.**
 Mi estas Tomaso.
 
 **mi sal mama.**
@@ -160,7 +160,7 @@ sŭahila *mimi*.</small>
 
 ### tu <small>vi (singulare)</small>
 
-**tu e Tomas.**
+**tu es Tomas.**
 Vi estas Tomaso.
 
 **mi sal tu.**
@@ -175,7 +175,7 @@ havas la saman formon kaj kiel subjekto kaj kiel objekto.
 **sal tu!**
 Saluton al vi!
 
-**mi ai tu.**
+**mi ame tu.**
 Mi amas vin.
 
 <small>Etimologio. **tu**
@@ -186,13 +186,13 @@ rusa ты *ty*.</small>
 
 ### da <small>li, ŝi, ĝi</small>
 
-**da e man.**
+**da es man.**
 Li estas viro.
 
-**da e fem.**
+**da es fem.**
 Ŝi estas virino.
 
-**da e aple.**
+**da es aple.**
 Ĝi estas pomo.
 
 Noto: **da**
@@ -206,16 +206,16 @@ mandarenĉina 他/她 (tā).</small>
 
 ### sual <small>demandi, ĉu</small>
 
-**sual tu e Tomas?**
+**sual tu es Tomas?**
 Ĉu vi estas Tomaso?
 
-**sual tu e davar?**
+**sual tu es davar?**
 Ĉu vi estas doktoro?
 
 Noto: Demandoj ofte komencas per **sual**.
 Sed ĝi estas tute normala verbo, ne demandvorteto kiel esperanta _ĉu_.
 Fakte, la lasta demando estas simple mallonga manero por diri
-**mi sual tu e davar**
+**mi sual tu es davar**
 (Mi demandas: Vi estas doktoro?).
 Oni nur forlasis la unuan pronomon.
 
@@ -237,25 +237,25 @@ sŭahila _swali_.</small>
 
 ### ya <small>jes</small>
 
-**sual tu e Tomas?**
+**sual tu es Tomas?**
 Ĉu vi estas Tomaso.
 
-**ya, mi e Tomas.**
+**ya, mi es Tomas.**
 Jes, mi estas Tomaso.
 
-**sual da e davar?**
+**sual da es davar?**
 Ĉu li/ŝi estas doktoro?
 
-**ya, da e davar.**
+**ya, da es davar.**
 Jes, li estas doktoro.
 
 
 ### no <small>ne</small>
 
-**mi no e Sara.**
+**mi no es Sara.**
 Mi ne estas Sara.
 
-**mi no e davar.**
+**mi no es davar.**
 Mi ne estas doktoro.
 
 **sual tu hau?**
@@ -303,13 +303,13 @@ Vi ĉiuj salutas ilin.
 **damen sal mimen!**
 Ili salutas nin.
 
-**mimen e fem.**
+**mimen es fem.**
 Ni estas virinoj.
 
-**tumen e man.**
+**tumen es man.**
 Vi estas viroj.
 
-**damen e aple.**
+**damen es aple.**
 Ili estas pomoj.
 
 <small>Etimologio. **mon**
@@ -320,43 +320,43 @@ venas el mandarenĉina: 们 "men", angla: men (homoj ĝenerale).</small>
 **ke?**
 Kion?
 
-**tu e ke?**
+**tu es ke?**
 Kiu vi estas?
-**mi e Tomas.**
+**mi es Tomas.**
 Mi estas Tomaso.
 
-**da e ke?**
+**da es ke?**
 Kiu ŝi estas?
-**da e Sara.**
+**da es Sara.**
 Ŝi estas Sara.
 
-**tumen e ke?**
+**tumen es ke?**
 Kiuj vi estas?
 
-**damen e ke?**
+**damen es ke?**
 Kiuj ili estas?
 
 ### ye e vo <small>ĉi tiu kaj tiu</small>
 
-**ye e ke?**
+**ye es ke?**
 Kio estas ĉi tio?
 
-**ye e aple.**
+**ye es aple.**
 Ĉi tio estas pomo.
 
-**vo e ke?**
+**vo es ke?**
 Kio estas tio?
 
-**vo e oranje.**
+**vo es oranje.**
 Tio estas oranĝo.
 
-**ye e rubi aple.**
+**ye es rubi aple.**
 Tio estas ruĝa pomo.
 
-**ye aple e rubi.**
+**ye aple es rubi.**
 Tiu pomo ruĝas.
 
-**ye e rubi.**
+**ye es rubi.**
 Ĉi tio estas ruĝe.
 
 **damen a ke?**
@@ -371,16 +371,16 @@ Ili estas tie.
 
 ### su <small>(poseda vorteto)</small>
 
-**ye e ke?**
+**ye es ke?**
 Kio estas ĉi tio?
 
-**da e mi su telefon.**
+**da es mi su telefon.**
 Tio estas mia telefono.
 
-**ye e ke su?**
+**ye es ke su?**
 Tio estas kies?
 
-**da e mi su.**
+**da es mi su.**
 Tio estas mia.
 
 Noto: La posedan vorteton
@@ -391,13 +391,13 @@ signifas "mia",
 **tu su**
 signifas "via", kaj tiel plu.
 
-**da e ke?**
+**da es ke?**
 Who's he/she?
 
-**da e mi su doste.**
+**da es mi su doste.**
 Li/ŝi estas mia amiko.
 
-**mi e Sara su doste.**
+**mi es Sara su doste.**
 Mi estas amiko de Sara.
 
 <small>Etimologio. **su** venas el
@@ -408,16 +408,16 @@ hispana _su_.</small>
 
 ### nam <small>nomo</small>
 
-**tu su nam e ke?**
+**tu su nam es ke?**
 Kio estas via nomo?
 
-**mi su nam e Tomas.**
+**mi su nam es Tomas.**
 Mia nomo estas Tomaso.
 
-**da su nam e ke?**
+**da su nam es ke?**
 Kio estas ŝia nomo?
 
-**da su nam e Sara.**
+**da su nam es Sara.**
 Ŝia nomo estas Sara.
 
 <small>Etimologio. **nam** venas el
@@ -504,7 +504,7 @@ Noto: Signifo de
 **yam**
 kovras manĝadon kaj trinkadon.
 
-**mi yam kafe i ban.**
+**mi yam kafe e ban.**
 Mi manĝas kafon kaj panon.
 
 
@@ -522,9 +522,9 @@ frazoj. La vortordo ne ŝanĝas pro **ke**.
 **mi vol yam kafe.**
 Mi volas trinki kafon.
 
-**sual tu vol yam cha?**
+**sual tu vol yam cai?**
 Ĉu vi volas trinki teon?  
-**no. mi no vol cha. mi vol kafe.**
+**no. mi no vol cai. mi vol kafe.**
 Ne. Mi ne volas teon. Mi volas kafon.
 
 **tu vol ke aple?**
@@ -535,7 +535,7 @@ Tiun ruĝan.
 
 ### ching <small>peti</small>
 
-**mi ching tu yam cha.**
+**mi ching tu yam cai.**
 Mi petas ke vi trinku teon.
 
 **mi ching tu lai dom.**
@@ -546,7 +546,7 @@ Mi petas ke vi helpu min.
 
 Noto: Faru mallongajn petojn forlasante la pronomojn.
 
-**ching yam cha.**
+**ching yam cai.**
 Bonvolu trinki teon!
 
 **ching yam kafe.**
@@ -593,10 +593,10 @@ Mi bezonas manĝi.
 **maf! mi no aha.**
 Pardonon, mi ne komprenas.
 
-**maf! ye e ke?**
+**maf! ye es ke?**
 Pardonon, kio estas tio?
 
-**maf. tu su nam e ke?**
+**maf. tu su nam es ke?**
 Pardonon, kio estas via nomo?
 
 ### aha <small>kompreni</small>
@@ -619,13 +619,13 @@ Mi komprenas nenion.
 
 ### bil <small>povi</small>
 
-**mi bil shofe un kar.**
+**mi bil xofe un kar.**
 Mi povas konduki aŭton.
 
-**da no bil shofe un kar.**
+**da no bil xofe un kar.**
 Ŝi/li ne povas konduki aŭton.
 
-**sual tu bil shuli da?**
+**sual tu bil xuli da?**
 Ĉu vi povas ripari ĝin?
 
 **sual tu bil pandunia?**
@@ -637,31 +637,31 @@ Mi povas pandunion.
 **mi bil kam pandunia.**
 Mi povas ete pandunion.
 
-**mi no bil english.**
+**mi no bil englix.**
 Mi ne povas paroli la anglan.
 
-**maf. mi no bil tu su basha.**
+**maf. mi no bil tu su baxe.**
 Pardonon, mi ne povas paroli vian lingvon.
 
 
-### loga <small>diri, paroli</small>
+### loge <small>diri, paroli</small>
 
-**tu loga ke?**
+**tu loge ke?**
 Kion vi diris?
 
-**mi loga to tu.**
+**mi loge to tu.**
 Mi parolas al vi.
 
-**mimen loga to semen.**
+**mimen loge to semen.**
 Ni parolas unu al alia.
 
-**se loga "kato" a ke mode a pandunia?**
+**se loge "kato" a ke yang a pandunia?**
 Kiel oni diras "kato" pandunie?
 
-**"kato" e ke a pandunia?**
+**"kato" es ke a pandunia?**
 Kio estas "kato" pandunie?
 
-**mau loga "miau".**
+**mau loge "miau".**
 Kato diras mjaŭ.
 
 
@@ -673,7 +673,7 @@ Aŭskulti min!
 **mi no bil audi tu.**
 Mi ne povas aŭdi vin.
 
-**ching loga mas bala.**
+**ching loge max bala.**
 Bonvolu paroli pli forte.
 
 **mi audi muzika.**
@@ -688,7 +688,7 @@ Kian muzikon vi aŭskultas?
 **suka vide tu.**
 Mi ĝojas vidi vin!
 
-**to rivisi!**
+**to rivide!**
 Ĝis la revido!
 
 **vide tu a posden!**
@@ -697,18 +697,18 @@ Mi ĝojas vidi vin!
 **mi vide da a preden.**
 Mi vidin lin/ŝin hieraŭ.
 
-### sema <small>signifi</small>
+### semi <small>signifi</small>
 
-**ye lexi ya sema ke?**
+**ye lexi ya semi ke?**
 Kion tiu vorto signifas?
 
-**"mau" ya sema ke?**
+**"mau" ya semi ke?**
 Kion "mau" signifas?
 
-**da sema un tipe de hevan.**
+**da semi un yang de hevan.**
 Ĝi signifas tipon de besto.
 
-**mi no aha da sema ke.**
+**mi no aha da semi ke.**
 Mi ne komprenas kion ĝi signifas.
 
 ### kitaba <small>skribi</small>
@@ -720,15 +720,15 @@ Bonvolu skribi vian adreson.
 Bonvolu skribi ĝin ĉi tie!
 
 
-### basha <small>paroli, lingvumi</small>
+### baxe <small>paroli, lingvumi</small>
 
-**sual tumen basha pandunia.**
+**sual tumen baxe pandunia.**
 Ĉu vi parolas pandunion?
 
-**mimen basha pandunia.**
+**mimen baxe pandunia.**
 Ni parolas pandunion.
 
-**sual tu bil basha english?**
+**sual tu bil baxe englix?**
 Ĉu vi povas paroli la anglan?
 
 **franse, espanya, portugal, rus**
@@ -855,7 +855,7 @@ Mi nune salutas vian amikon.
 **la man ya zai vide un filme.**  
 La viro estas vidanta la virinon.
 
-**da zai e shefe.**  
+**da zai es xefe.**  
 Ĝi estas la nuna ĉefo.
 
 **da zai a dom.**  
@@ -864,13 +864,13 @@ La viro estas vidanta la virinon.
 
 ### pas <small>-is, pasinte</small>
 
-**mi pas sal tu su dosti.**  
+**mi pas sal tu su doste.**  
 Mi (pasinte) salutis vian amikon.
 
 **la man ya pas vide un filme.**  
 La viro (pasinte) vidis la virinon
 
-**da pas e shefe.**  
+**da pas es xefe.**  
 Ĝi estas la pasinta ĉefo.
 
 **da pas a dom.**  
@@ -879,13 +879,13 @@ La viro (pasinte) vidis la virinon
 
 ### le <small>farite</small>
 
-**mi le sal tu su dosti.**  
+**mi le sal tu su doste.**  
 Mi estas salutinta vian amikon.
 
 **la man le vide un filme.**  
 La viro estas vidinta la virinon.
 
-**da le e shefe.**  
+**da le es xefe.**  
 Ĝi estas la estinta ĉefo.
 
 **da le a la dom.**  
@@ -894,13 +894,13 @@ Li estas estinta hejme.
 
 ### sha <small>-os, estonte</small>
 
-**mi sha sal tu su dosti.**  
+**mi sha sal tu su doste.**  
 Mi salutos vian amikon.
 
 **la man sha vide la filme.**  
 La viro vidos la virinon.
 
-**da sha e shefe.**  
+**da sha es xefe.**  
 Ĝi estas la estonta ĉefo.
 
 **da sha a dom.**  

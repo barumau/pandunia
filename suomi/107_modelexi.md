@@ -131,9 +131,9 @@ Sekä adjektiiveja että adverbeja voi verrata.
 
 Pikkusana **ka** suhteuttaa vertailevan adverbin vertailtavaan asiaan.
 
-**aple e max hau ka oranje.**
+**aple es max hau ka oranje.**
 = Omenat ovat parempia kuin appelsiinit.  
-**oranje e min hau ka aple.**
+**oranje es min hau ka aple.**
 = Appelsiinit ovat vähemmän hyviä kuin omenat.  
 **tu loge par hau ka mi.**
 = Sinä puhut yhtä hyvin kuin minä.

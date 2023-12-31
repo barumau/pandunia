@@ -27,9 +27,9 @@ which does not change according to number, case, gender, tense, mood or
 any of the other inflectional categories known from other languages.
 Compare, for example, what happens to the words in the following two sentences in Pandunia and English.
 
-1. *mi ai da.*
+1. *mi ame da.*
    – I love him.
-2. *da ai mi.*
+2. *da ame mi.*
    – He loves me.
 
 In Pandunia, the subject and object simply change places and that's it.
@@ -75,8 +75,7 @@ In fact, words don't ever change in Pandunia.
 So when one wants to express a new meaning or a nuance, one can't do that by modifying the words.
 One can express more things only by using more words or different words.
 For example, the verb **lai** ('to come') is changed to the past tense by adding a word that means the past:
-**pas lai**
-('came' or 'to come in the past').
+**pas lai** ('came' or 'to come in the past').
 
 ## Content words and structure words
 
@@ -176,14 +175,14 @@ Content words can be classified further into the following word classes:
 
 However, the class of a content word is seldom permanent.
 A word like
-**ai**
+**ame**
 ('love') can function as verb, noun or adjective
 depending on its position in the sentence.
 
-*mi **ai** tu.*
+*mi **ame** tu.*
 – I **love** you. (verb)  
-*tu fikre mi su **ai**.*
+*tu fikre mi su **ame**.*
 – You think about my **love**. (noun)  
-*mi kitabe un **ai** angil.*
+*mi kitabe un **ame** angil.*
 – I write a **love** letter. (adjective)
 

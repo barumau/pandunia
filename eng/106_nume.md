@@ -333,10 +333,10 @@ The 24 hour clock is the standard.
 
 **hor des du**
 – twelve o'clock  
-**hor des du i tri des**
+**hor des du e tri des**
 – twelve thirty, half past twelve  
 **hor du des**
 – eight PM  
-**hor du des i des lima**
+**hor du des e des lima**
 – quarter past eight PM
 

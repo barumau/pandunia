@@ -25,11 +25,11 @@ Dans les phrases les plus simples, le sujet est un nom ou un pronom et le prédi
 – C'est nouveau.  
 **da Sara.**
 – C'est Sarah.  
-**Sara e hau.**
+**Sara es hau.**
 – Sarah va bien.  
-**seku e dai.**
+**seku es dai.**
 – La pierre est grosse.  
-**meza e neu.**
+**meza es neu.**
 – La table est neuve.  
 
 The word **no** is added to form the negative.
@@ -44,18 +44,18 @@ The word **no** is added to form the negative.
 Il est possible d'ajouter le mot **si** (oui) avant le prédicat dans des phrases affirmatives, selon le style et la praticité.
 Dans ce cas la structure est similaire à celle des phrases négatives.
 
-**Sara e hau.** 
+**Sara es hau.** 
 – Sarah va bien.  
-**la seku e dai.** 
+**la seku es dai.** 
 – La pierre est grosse.  
-**la meza e neu.** 
+**la meza es neu.** 
 – La table est neuve.  
 **la meza no lau.** 
 – La table n'est pas vieille.
 
 De plus, deux pronoms personnels peuvent être combinés avec **si** et **no**.
 
-**mi e da.** 
+**mi es da.** 
 – Moi, c'est lui / elle.  
 **mi no tu.** 
 – Je ne suis pas toi.
@@ -64,14 +64,14 @@ De plus, deux pronoms personnels peuvent être combinés avec **si** et **no**.
 
 La même règle s'applique aussi pour deux adjectifs.
 
-**jun e mei.** 
+**jun es mei.** 
 – (Être) jeune, c'est beau.  
 **neu no lau.** 
 – Neuf, ce n'est pas vieux.  
 
 ### Quand le sujet est un verbe
 
-**gani e hau.**
+**gani es hau.**
 – Chanter, c'est bon.
 
 
@@ -167,14 +167,14 @@ C'est particulièrement valable pour l'expression d'ordres et de demandes.
 
 ### Conjonctions de base
 
-**i**
+**e**
 – et (connecte deux mots ou phrases semblables)
 **o**
 – ou (connecte deux mots ou phrases alternatifs)
 **ama**
 – mais (introduit un mot ou une phrase qui vient en contraste ou en contradiction du mot ou de la phrase précédents)
 
-**mi suka mau i vaf.**
+**mi suka mau e vaf.**
 – J'aime les chats et les chiens.  
 **mi suka mau o vaf.**
 – J'aime les chats ou les chiens.  
@@ -196,18 +196,18 @@ La particule **ya** est affirmative et la particule **no** est négative.
 Une expression est affirmative par défaut, donc le mot **ya** n'est pas toujours nécessaire.
 
 
-**mi e jen.** 
+**mi es jen.** 
 – Je suis une personne.  
-**da ya e neu meza.**
+**da ya es neu meza.**
 – C'est une nouvelle table.
 
 #### Particule négative
 
 La négation de phrases telles que ci-dessus s'exprime simplement par **no**.
 
-**mi no e jen.** 
+**mi no es jen.** 
 – Je ne suis pas une personne.  
-**da no e neu meza.**
+**da no es neu meza.**
 – Ce n'est pas une nouvelle table.
 
 Le mot **no** sert à marquer la négation de n'importe quel élément dans la phrase.

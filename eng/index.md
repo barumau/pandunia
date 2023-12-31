@@ -59,7 +59,7 @@ The final version of Pandunia will be published in 2023.
 ## Articles
 
 - [Pandunia - a new world language](001_ration.md)
-- [On the semantics of Pandunia](120_sema.md)
+- [On the semantics of Pandunia](120_semia.md)
 - [Adapting international words to Pandunia](403_loga_hapu.md)
 - [Mentions about Pandunia in other publications](makal_tema_pandunia.md)
 - [Why do I like Pandunia?](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opinions from learners
