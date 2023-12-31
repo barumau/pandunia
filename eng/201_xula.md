@@ -193,10 +193,16 @@ in Pandunia.
 
 > Word order in active sentence: Subject + Verb + Object
 
-Pandunia's personal pronouns are: **mi** = I, **tu** = you, and
-**da** = he, she, it. Note that the pronouns stayed the same in the
-previous example sentences. Words never change in Pandunia. They
-always stay the same regardless of their position in sentence.
+Pandunia's personal pronouns are:
+**mi**
+'I',
+**tu**
+'you' and
+**da**
+'he, she, it'.
+Note that the pronouns stayed the same in the previous example sentences.
+Words never change in Pandunia.
+They always stay the same regardless of their position in the sentence.
 
 In Pandunia sentences can be made shorter by leaving out pronouns
 that are obvious in the present situation.
@@ -308,11 +314,16 @@ chief, boss
 
 ### Grammar
 
-Pandunia's personal pronouns are: **mi** = I, **tu** = you, and
-**da** = he, she, it. Pandunia is a gender-neutral language. It
-doesn't distinguish between sexes in the third person pronoun or any
-of the pronouns. All the personal pronouns are present in the
-following example sentence.
+Pandunia's personal pronouns are:
+**mi**
+'I',
+**tu**
+'you' and
+**da**
+'he, she, it'.
+Pandunia is a gender-neutral language.
+It doesn't distinguish between sexes in the third person pronoun or any of the pronouns.
+All the personal pronouns are present in the following example sentence.
 
 **mi ching tu sal da.**
 = I ask you to say hello to him/her.

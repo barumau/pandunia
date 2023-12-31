@@ -1003,9 +1003,15 @@ apply to the verb alone and not the sentence as a whole.
 
 ### Modifier particles
 
-Particles **di** and **de** are used to link a noun, an adjective or a verb phrase to a noun to modify it.
-**di** connects the modifying word or phrase to the main noun word.
-**de** works in the opposite direction, it connects the main noun to the modifying word or phrase.
+Particles
+**di**
+and
+**de**
+are used to link a noun, an adjective or a verb phrase to a noun to modify it.
+**di**
+connects the modifying word or phrase to the main noun word.
+**de**
+works in the opposite direction, it connects the main noun to the modifying word or phrase.
 
 #### Modification with noun phrases
 
