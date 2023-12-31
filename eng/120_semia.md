@@ -23,7 +23,7 @@ The adjectival meaning, 'fiery', emerges in adjectival position.
 
 The verbal meaning, 'to burn', emerges in verbal position.
 
-**mi hogo yo mokə.**
+**mi hogo yo moke.**
 – I burn some wood.
 
 Verb, noun and modifier are created independently from the base word.
@@ -52,7 +52,7 @@ such as hammer, drill, axe, knife, comb and brush.
 | **brox**   | 'brush'      | 'of brush' | 'to brush' |
 | **kem**    | 'sword'      | 'of sword' | 'to sword-fight, to fence' |
 | **defa**   | 'shield'     | 'to defend, to shield' |
-| **daga**   | 'dagger'     | 'of dagger' | 'to stab' |
+| **kanjar** | 'dagger'     | 'of dagger' | 'to stab' |
 | **hamar**  | 'hammer'     | 'hammer's, hammerlike' | 'to beat, to hammer' |
 
 ### Object words
@@ -92,7 +92,7 @@ The base word is a quality:
 | Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
 | **hau**    | 'goodness'   | 'good, well'     | 'do good, make good, improve' |
-| **huru**   | 'freedom'    | 'free'           | 'to free, to liberate' |
+| **hure**   | 'freedom'    | 'free'           | 'to free, to liberate' |
 
 ### Artifact words
 
@@ -141,13 +141,13 @@ In the following examples, the agent is marked with superscript A and the patien
 The person opens the door on purpose.
 The door undergoes a change of state from closed to opened.
 
-**jenᴬ vide e arome orangeᴾ.**
+**jenᴬ vide e arome aranjaᴾ.**
 – The personᴬ sees and smells an orangeᴾ.
 
 The person can perceive the orange with their senses.
 The orange is a non-living thing.
 
-**jenᴬ ame orangeᴾ.**
+**jenᴬ ame aranjaᴾ.**
 – The personᴬ loves orangesᴾ.
 
 The person can feel.
@@ -194,7 +194,7 @@ Examples of different kinds of activity words include the following:
 'eyes',
 **ame**
 'love',
-**huru**
+**hure**
 'freedom', and
 **matre**
 'mother'.
@@ -230,7 +230,7 @@ If you are in a situation where you can apply freedom to an object,
 you can probably guess that the object is likely a human object or an animate object,
 and then you can imagine what freedom does to them.
 
-**mi huru damen.**
+**mi hure damen.**
 – I free them. ~ I liberate them.
 
 The thing called *mother* is not any different.
