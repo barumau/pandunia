@@ -71,7 +71,7 @@ If the subject is a personal pronoun, the **ya** is left out.
 The basic word order is subject–verb–object
 – the same as in English!
 
-**mi ai tu.**
+**mi ame tu.**
 – I love you.
 
 When the direct object is a noun, it is marked apart from the verb by a demonstrative pronoun, numeral or another determiner.
@@ -92,17 +92,19 @@ To negate a word, add **no** before it.
 
 ### To be
 
-The verb **e** means 'to be'.
+The verb
+**es**
+means 'to be'.
 It can be left out in very simple sentences.
 
-**mi e jen.**
+**mi es jen.**
 – I am a person.  
 **mi jen.**
 – I'm a person.
 
 It can't be left out when it is part of a serial verb.
 
-**mi vol e mau.**
+**mi vol es mau.**
 – I want to be a cat.  
 **mi vol mau!**
 – I want a cat!
@@ -111,12 +113,12 @@ It can't be left out when it is part of a serial verb.
 
 Pandunia words can be ambiguous because they often have more meanings compared to English.
 
-**da ai mau.**
+**da ame mau.**
 – He loves cats. / She loved a cat. / He/she will love the cat.
 
 But actually the meaning is clear in the real context:
 
-**pre tri nen, mi ha du mau i un vaf. mi ha max un fem ben. da ai mau!**
+**pre tri nen, mi ha du mau e un vaf. mi ha max un fem ben. da ame mau!**
 – Three years ago, I had two cats and a dog. I also had a daughter. _She loved the cats!_
 
 ### Time
@@ -131,13 +133,13 @@ Tenses and aspects are optionally expressed with the help of adverbs and auxilia
 **sha**
 (in the future).
 
-**mi zai ai tu.**
+**mi zai ame tu.**
 – I am loving you.  
-**mi pas ai tu.**
+**mi pas ame tu.**
 – I loved you.  
-**mi le ai tu.**
+**mi le ame tu.**
 – I have loved you.  
-**mi sha ai tu.**
+**mi sha ame tu.**
 – I will love you.
 
 ### Passive
@@ -145,16 +147,16 @@ Tenses and aspects are optionally expressed with the help of adverbs and auxilia
 The passive voice is formed with the help of the helping verb
 **be**.
 
-**tu be ai.**
+**tu be ame.**
 – You are loved.  
-**mi be ai de tu.**
+**mi be ame de tu.**
 – I am loved by you.
 
 ### Modifying other words
 
 To modify a noun, put adjectives before it.
 
-**un neu ai**
+**un neu ame**
 – a new love  
 **la hau pai**
 – the good pie
@@ -164,7 +166,7 @@ The adverb can be tagged with **di**.
 
 **mi hau (di) vide tu.**
 – I see you well.  
-**tu vide di ai da.**
+**tu vide di ame da.**
 – You seemingly love him/her.
 
 Modifiers are compared with
@@ -172,9 +174,9 @@ Modifiers are compared with
 **min** 'less', **minim** 'least' and **par** 'equally, as'.
 The point of comparison is introduced with **ka** 'than, as'.
 
-**tu e max sen ka mi.**
+**tu es max sen ka mi.**
 – You are older than me.  
-**tu e maxim sen.**
+**tu es maxim sen.**
 – You are the oldest.
 
 ### Questions
@@ -190,13 +192,13 @@ To ask a content question, write a normal sentence and replace the word in quest
 **ke**
 'what, who'.
 
-**tu ai ke?**
+**tu ame ke?**
 – Who do you love?  
-**tu ai ke man?**
+**tu ame ke man?**
 – Which man do you love?  
-**ke man ya ai tu?**
+**ke man ya ame tu?**
 – Which man loves you?  
-**tu ai da ke poli?**
+**tu ame da ke poli?**
 – How much do you love him?
 
 ### Commands

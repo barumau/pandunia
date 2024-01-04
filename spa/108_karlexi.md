@@ -9,25 +9,25 @@ no como cambiar las formas de verbos como en español y otros idiomas.
 
 Persona y número son indicados por el sujeto.
 Por ejemplo, el verbo
-**e**
+**es**
 (»ser>>) tiene la misma forma para todas las personas.
 
-**_mi_ e dosti.**
+**_mi_ es doste.**
 – Yo soy una amiga.  
-**_tu_ e dosti.**
+**_tu_ es doste.**
 – Tú eres un amigo.  
-**_da_ e dosti.**
-– Éla es amiga.  
-**_mimen_ e dosti.**
+**_da_ es doste.**
+– Éla es amiga de alguien.  
+**_mimen_ es doste.**
 – Nosotros somos unos amigos de alguien.  
-**_tumen_ e dosti.**
+**_tumen_ es doste.**
 – Ustedes son unas amigas de alguien.  
-**_damen_ e dosti.**
+**_damen_ es doste.**
 – Ellos son unos amigos de alguien.
 
 En adición un sustantivo puede servir de un sujeto.
 
-**mau e hevan.**
+**mau es hevan.**
 – El gato es animal.
 
 Frecuentamente hay indicador entre el sujeto y el verbo
@@ -41,7 +41,7 @@ Un de los indicadores más adecuado es
 que añade ningún contenido a la oración
 pero ayuda clarificar su estructura.
 
-**karote e uma yam.**
+**karote es uma yam.**
 – Zanahoria es comida para caballos.  
 **uma _ya_ yam karote.**
 – El caballo come zanahorias.
@@ -54,15 +54,15 @@ que se introducen suguiente.
 
 La relación de un acción, evento, o estado a tiempo se indica con verbos auxiliares.
 
-**shuru**
+**xuru**
 (»empezar>>, »comenzar>>)
 indica el comienzo de una acción o transición a una situación nueva.
 
-**mi shuru fuku la kote.**
+**mi xuru fuku la kote.**
 – Empiezo a llevar el abrigo. = Me pongo el abrigo.  
-**kaguji ya shuru hogo.**
+**kaguji ya xuru hogo.**
 – Papel empieza a quemar.  
-**tu shuru yam.**
+**tu xuru yam.**
 – Empiezas a comer.
 
 **fin**
@@ -109,7 +109,7 @@ indica que una acción ocurre frecuentamente.
 indica que una situación ha sido logrado, y el estado presente es el resulto de eso.
 Preste atención a la consecuencia de una acción pasada a la situación actual.
 
-**da _le_ e guru.**
+**da _le_ es guru.**
 – Se ha hecho docente.  
 **mi _le_ no gul yo alkohol.**
 – Ya no bebir alcohol.  
@@ -134,12 +134,12 @@ y es pertinente solo como una experiencia.
 **mi pas ada gul yo bir.**
 – Yo solía bebir cerveza. / Tení la costumbre de bebir cerveza.
 
-**sha**
+**xa**
 (»ir a>>, »futuro>>)
 indica que un evento ocurrirá en el futuro.
 
-**da _sha_ e guru.**
+**da _xa_ es guru.**
 – Será docente.  
-**mi no _sha_ gul yo bir.**
+**mi no _xa_ gul yo bir.**
 – No voy a bebir una cerveza.
 

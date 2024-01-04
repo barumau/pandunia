@@ -25,18 +25,18 @@ En las oraciones más sencillas, el sujeto es un pronombre y el predicado es un 
 **da Sara.**
 – Ella es Sara.
 
-Cuando el sujeto es un sustantivo, el verbo de conexión **e** («ser», «estar») es necesario.
+Cuando el sujeto es un sustantivo, el verbo de conexión **es** («ser», «estar») es necesario.
 
 
-**Sara e hau.**
+**Sara es hau.**
 – Sara está bien.  
-**ite e dai.**
+**ite es dai.**
 – Rocas son grandes.  
-**meza e neu.**
+**meza es neu.**
 – La mesa es nueva.
 
 La palabra **no** se añade para formar el negativo.
-Entonces el verbo **e** no es necesario.
+Entonces el verbo **es** no es necesario.
 
 | Positivo         | Negativo           |
 |------------------|--------------------|
@@ -50,9 +50,9 @@ Entonces el verbo **e** no es necesario.
 | Sara está bien.  | Sara no está bien. |
 
 
-Dos pronombres personales también se pueden combinar con **e** y **no**.
+Dos pronombres personales también se pueden combinar con **es** y **no**.
 
-**mi e da.**
+**mi es da.**
 – Yo soy ello.  
 **mi no (es) tu.**
 – Yo no soy tú.
@@ -62,11 +62,11 @@ Dos pronombres personales también se pueden combinar con **e** y **no**.
 
 La misma regla aplica para dos adjetivos, o un verbo y un adjetivo.
 
-**jun e mei.**
+**jun es mei.**
 – Joven es lindo.  
 **neu no lau.**
 – Nuevo no es viejo.  
-**gani e hau.**
+**gani es hau.**
 – Cantar es bueno.
 
 
@@ -75,11 +75,11 @@ La misma regla aplica para dos adjetivos, o un verbo y un adjetivo.
 Un predicado también puede ser un verbo. En este caso, puede haber objetos en adición al sujeto.
 Estes siguen el predicado.
 
-**mi marche.**
+**mi marce.**
 – Yo camino.  
 **tu yam yo aple.**
 – Tú comes manzana.  
-**mimen don da yo pesa.**
+**mimen done da yo pesa.**
 – Nosotros le damos algo dinero.
 
 Tal vez, el sujeto de una oración puede ser el objeto de otra.
@@ -90,7 +90,7 @@ Tal vez, el sujeto de una oración puede ser el objeto de otra.
 – El sol seca la ropa.
 
 Para clarificar el orden o para añadir otros objetos, los verbos auxiliares **fa** y **be** se utilizan.
-**fa** indica que el sujeto e el agento o hacedor de la acción,
+**fa** indica que el sujeto es el agento o hacedor de la acción,
 y **be** indica que el sujeto es el paciente o recibirador.
 
 **mi fa sal mi su doste.**
@@ -283,7 +283,7 @@ La pregunta se repuesta por repetir el alternativo elegido.
 Preguntas abiertas piden más información.
 En Pandunia se usan la palabra **ke**.
 
-**piza e ke?**
+**piza es ke?**
 – ¿Qué es pizza?
 
 La palabra de pregunta se puede mover al inicio de la oración para enfasís.
@@ -353,9 +353,9 @@ En adición _pronombre relativo resumivo_ se puede utilizar si es necesario.
 Una cláusula de contenido puede ponerse antes o despues de la cláusula que habla sobre ella.
 El demostrativo **vo** indica la frase siguiente, y **la** indica la previa.
 
-**vo e bari, ki mi le no vide damen.**
+**vo es bari, ki mi le no vide damen.**
 – Lo siguiente es importante: resulta que no los veo.  
-**ki pan jen ha sam vale, la e klar.**
+**ki pan jen ha sam vale, la es klar.**
 – Todas las personas son iguales; este hecho es claro.
 
 --------------------------------------------------------------------------------
@@ -364,7 +364,7 @@ El demostrativo **vo** indica la frase siguiente, y **la** indica la previa.
 
 ### Conjunciones básicas
 
-**i**
+**e**
 – y (conecta dos palabras o frases similares)  
 **o**
 – o (conecta dos palabras o frases alternativas)  
@@ -372,7 +372,7 @@ El demostrativo **vo** indica la frase siguiente, y **la** indica la previa.
 – pero (introduce una palabra o frase que contrasta o
 contradice con la palabra o frase previa)
 
-**mi suka mau i vaf.**
+**mi suka mau e vaf.**
 – Me gustan los gatos y los perros.  
 **mi suka mau o vaf.**
 – Me gustan los gatos o los perros.  

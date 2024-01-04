@@ -431,7 +431,7 @@ The normal sentence word order is subject–verb–object
 – just like in English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  mi ai tu, tu ai mi.
+    Pandunia:  mi ame tu, tu ame mi.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The auxiliary verb **be** is used when the object of the action comes first in the sentence.
@@ -457,8 +457,9 @@ Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words.
 There's no plural ending like -s in English.
 Also verbs are not conjugated.
-One word, **e**, is used instead of
-_am, is, are, was, were..._
+In Pandunia, one word,
+**es**,
+is used instead of _am, is, are, was, were..._
 
     English:   It is an apple.
     Pandunia:  da es aple.

@@ -139,17 +139,17 @@ Often there is no copula verb (i.e. linking verb) between the subject and its pr
 #### Verbal predicative clause
 
 The copula verb
-**e**
+**es**
 'to be'
 can be used optionally in simple predicative sentences like the ones above.
 
-**da e Ali.**
+**da es Ali.**
 – He is Ali.  
-**Ali e guru.**
+**Ali es guru.**
 – Ali is a teacher.  
-**Ali e rike.**
+**Ali es rike.**
 – Ali is rich.  
-**Ali e a dom.**
+**Ali es a dom.**
 – Ali is at home.
 
 The copula verb is used when it is necessary in order to convey the desired meaning.
@@ -158,13 +158,13 @@ For example, modal verbs, like
 'to want', always need it as the main verb
 because the sentences would have a different meaning without it.
 
-**da vol e guru.**
+**da vol es guru.**
 – He (or she) wants to be a teacher.  
 Compare with:  
 **da vol guru.**
 – He (or she) wants a teacher.
 
-**da vol e rike.**
+**da vol es rike.**
 – He (or she) wants to be rich.  
 Compare with:  
 **da vol rike.**
@@ -175,7 +175,7 @@ makes the boundary between the two sentence elements doubtful.
 
 **mi su kar mede bacha.**
 – My job helps children.  
-**mi su kar e mede bacha.**
+**mi su kar es mede bacha.**
 –  My job is to help children.
 
 It is also possible to use a pause,
@@ -192,22 +192,22 @@ All predicative complements can be negated by
 **no**
 'not'
 and the linking verb
-**e**
+**es**
 is optional in the same cases as before
 
-**da no Ali.** ~ **da no e Ali.**
+**da no Ali.** ~ **da no es Ali.**
 – He is not Ali.  
-**da no guru.** ~ **da no e guru.**
+**da no guru.** ~ **da no es guru.**
 – He is not a teacher.  
-**da no vol e guru.**
+**da no vol es guru.**
 – He doesn't want to be a teacher.  
-**da no rike.** ~ **da no e rike.**
+**da no rike.** ~ **da no es rike.**
 – He is not rich.  
-**da no vol e rike.**
+**da no vol es rike.**
 – He doesn't want to be rich.  
-**da no a dom.** ~ **da no e a dom.**
+**da no a dom.** ~ **da no es a dom.**
 – He is not at home.  
-**da su kar no e mede bacha.**
+**da su kar no es mede bacha.**
 – His job is not to help children.
 
 
@@ -216,15 +216,15 @@ is optional in the same cases as before
 In addition to noun subjects and pronoun subjects,
 the previous rules apply also to adjective subjects and verb subjects.
 
-**jun – mei.** ~ **jun e mei.**
+**jun – mei.** ~ **jun es mei.**
 – Young is beautiful.  
-**jun – no lau.** ~ **jun no e lau.**
+**jun – no lau.** ~ **jun no es lau.**
 – Young is not old.  
-**gani – hau.** ~ **gani e hau.**
+**gani – hau.** ~ **gani es hau.**
 – Singing is good.  
-**gani – no dus.** ~ **gani no e dus.**
+**gani – no dus.** ~ **gani no es dus.**
 – Singing is not bad.  
-**skolefa bacha – mede bacha.** ~ **skolefa bacha e mede bacha.**
+**skolefa bacha – mede bacha.** ~ **skolefa bacha es mede bacha.**
 – To teach children is to help children.
 
 
@@ -644,9 +644,9 @@ In Pandunia the topic comes first so it is a topic-fronting language.
 
 The focus of the sentence can be changed by changing the order of the topic and comment.
 
-**Maria e guru.**
+**Maria es guru.**
 – Maria is a teacher.  
-**guru e Maria.**
+**guru es Maria.**
 – The teacher is Maria.
 
 In Pandunia, the topic can be fronted by using various sentence structures,
@@ -675,11 +675,11 @@ One can also use the passive construction to a similar effect.
 
 Another way to front the object is to use the relative clause construction.
 
-**tu e ki mi vide.**
+**tu es ki mi vide.**
 – You are the one whom I saw.
 
 This sentence can be made more impactful by fronting the linking verb
-**e**.
+**es**.
 and then even more by dropping the relative pronoun.
 
 **es tu ki mi vide.**
@@ -788,7 +788,7 @@ The question is answered by repeating the chosen alternative.
 Open questions, or _wh-_ questions, ask for more information.
 In Pandunia they use the word **ke**.
 
-**piza e ke?**
+**piza es ke?**
 – What is pizza?
 
 The question word may be moved to the front of the sentence for emphasis.
@@ -862,7 +862,7 @@ A content clause is a subordinate clause that provides content that is commented
 In Pandunia they are typically introduced with the conjunction
 **ki**.
 
-**mi ken ki tu e doste.**
+**mi ken ki tu es doste.**
 – I know that you are a friend.  
 **damen fikre ki mimen le chute.**
 – They think that we have left.
@@ -874,9 +874,9 @@ points to the following content clause and
 **la**
 points to the previous one.
 
-**vo e bari, ki mi le no vide damen.**
+**vo es bari, ki mi le no vide damen.**
 – _It_ is important _that I haven't seen them_.  
-**ki pan jen be sana ka par, la e klar.**
+**ki pan jen be sana ka par, la es klar.**
 – _That all people are created as equals_; _it_ is clear.
 
 The content clause marker
@@ -899,7 +899,7 @@ can be combined to the prepositions in order to construct conjunctions of cause 
 The word **si** means 'to suppose',
 and in conditional sentences, it works in the same way as English 'if'.
 
-**mi no yam da, si mi e tu.**
+**mi no yam da, si mi es tu.**
 – I wouldn't eat it _if_ I were you.
 
 The rest of the sentence can optionally be preceded by the word **asar**, which means 'then'.
@@ -912,14 +912,14 @@ The rest of the sentence can optionally be preceded by the word **asar**, which 
 
 ## Combining phrases with conjunctions
 
-**i**
+**e**
 – and (connects two similar words or phrases)  
 **o**
 – or (connects two alternative words or phrases)  
 **ama**
 – but (introduces a word or phrase that contrasts with or contradicts the preceding word or phrase)
 
-**mi suke mau i vaf.**
+**mi suke mau e vaf.**
 – I like cats and dogs.  
 **mi suke mau o vaf.**
 – I like cats or dogs.  
@@ -938,27 +938,27 @@ The rest of the sentence can optionally be preceded by the word **asar**, which 
 
 Expressions are affirmative by default.
 
-**mi e shefe.**
+**mi es shefe.**
 – I am the boss.  
-**da e neu meza.**
+**da es neu meza.**
 – It is a new table.
 
 Affirmation can be emphasized with the adverb
 **ya**
 ('yes indeed').
 
-**mi ya e shefe.**
+**mi ya es shefe.**
 – I indeed am the boss.  
-**da ya e neu meza.**
+**da ya es neu meza.**
 – It indeed is a new table.
 
 #### Negative
 
 Such sentences can be simply negated with **no**.
 
-**da no e shefe.**
+**da no es shefe.**
 – He is not the boss.  
-**da no e neu meza.**
+**da no es neu meza.**
 – It's not a new table.
 
 The word **no** is used for denying anything.
@@ -1087,24 +1087,24 @@ In Pandunia, tense can be expressed with time words and time phrases if needed.
 The general time words are **pas** (past), **zai** (present) and **xa** (future, upcoming).
 They function like adverbs, so typically their place is before the verb.
 
-**mi su pas e mau.**
+**mi su pas es mau.**
 – I had cats.  
-**ama mi su no zai e mau.**
+**ama mi su no zai es mau.**
 – But I now don't have cats.  
-**bil, mi su sha e mau.**
+**bil, mi su sha es mau.**
 – Maybe I will have cats.
 
 It's also possible to say it in a longer way like **na pas zaman** (in the past) etc.
 
 **mi ha mau a pas zaman.**
 – I had cats in the past.  
-**ama mi su no e mau a zai zaman.**
+**ama mi su no es mau a zai zaman.**
 – But I don't have cats at present.  
 **bil, mi ha mau a sha zaman.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.
-So the verb **e** stayed the same in all tenses in the examples above.
+So the verb **es** stayed the same in all tenses in the examples above.
 
 Naturally time words are used only when they are necessary.
 Usually it is enough to mention the time just once at the beginning of the text
@@ -1139,7 +1139,7 @@ It translates as *bah*, *fie*.
 asks a direct *yes or no* question.
 It translates as *eh?* or *huh?*.
 
-**tu ai kafe, he?**
+**tu ame kafe, he?**
 – You love coffee, huh?
 
 **me**

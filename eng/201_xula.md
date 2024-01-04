@@ -19,22 +19,22 @@ hide:
 **sal!**
 = Hello!  
 <big>☺</big>
-**tu e ke?**
+**tu es ke?**
 = Who are you?  
 <big>☻</big>
-**mi e Yusef. tu e ke?**
+**mi es Yusef. tu es ke?**
 = I am Yusef. Who are you?  
 <big>☺</big>
-**mi e Sara. da e ke?**
+**mi es Sara. da es ke?**
 = I am Sara. Who is that?  
 <big>☻</big>
-**da e mi su dosti.**
+**da es mi su doste.**
 = That is my friend.  
 <big>☺</big>
-**da su nam e ke?**
+**da su nam es ke?**
 = What's her name?  
 <big>☻</big>
-**da su nam e Maria.**
+**da su nam es Maria.**
 = Her name is Maria.
 
 ### Grammar
@@ -42,38 +42,38 @@ hide:
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
 tells something about the topic. For instance in
-**da e mi su dosti**
+**da es mi su doste**
 the topic is the pronoun
 **da**
 (he, she, it), which is followed by the comment
-**e mi su dosti**
+**es mi su doste**
 (is my friend).
 
-In Pandunia, the word **e** functions like _to be_ in English.
+In Pandunia, the word **es** functions like _to be_ in English.
 The same word is used for all persons.
 And to say the opposite, simply put **no** before it.
 
-**da e Sara.**
+**da es Sara.**
 = She is Sarah.  
-**da no e Sara.**
+**da no es Sara.**
 = She is not Sarah.
 
-**mau e hevan.**
+**mau es hevan.**
 = The cat is an animal.  
-**dom no e hevan.**
+**dom no es hevan.**
 = The house is not an animal.  
 
 In the same way you can describe yourself by saying
-**mi e**
+**mi es**
 and a word that describes you.
 
-**mi e hau.**
+**mi es hau.**
 = I'm good.  
-**mi e man.**
+**mi es man.**
 = I'm a man.  
-**mi e fem.**
+**mi es fem.**
 = I'm a woman.  
-**mi e nobi.**
+**mi es nobi.**
 = I'm non-binary.
 
 
@@ -106,13 +106,13 @@ he, she or it
 his, her, its  
 **ke**
 who or what  
-**e**
+**es**
 to be  
 **no**
 no; not  
 **hau**
 good  
-**dosti**
+**doste**
 friend  
 **nam**
 name  
@@ -127,12 +127,12 @@ animal
 
 ### Answers to the Exercises
 
-1. tu e ke?
-2. mi e Tomas.
-3. tu su dosti e ke?
-4. da e Sara.
-5. tu su nam e ke?
-6. mi su nam e ........... 
+1. tu es ke?
+2. mi es Tomas.
+3. tu su doste es ke?
+4. da es Sara.
+5. tu su nam es ke?
+6. mi su nam es ........... 
 
 
 --------------------------------------------------------------------------------
@@ -273,7 +273,7 @@ chief, boss
 
 ### Dialog
 
-![](http://www.pandunia.info/grafe/laupapa.png "cin pa i bacha")  
+![](http://www.pandunia.info/grafe/laupapa.png "cin pa e bacha")  
 <small>Image designed by [macrovector](https://www.freepik.com/macrovector)</small>
 
 <big>☻</big>
@@ -283,13 +283,13 @@ chief, boss
 **halo! ching side.**
 = Hello! Please sit!  
 <big>☻</big>
-**shukra.**
+**shukre.**
 = Thank you.  
 <big>☺</big>
-**ching yam kafe u chai.**
+**ching yam kafe o cha.**
 = Please have some coffee or tea.  
 <big>☻</big>
-**ama mi yam un di chai! shukra.**
+**ama mi yam un di chai! shukre.**
 = But I drink only tea! Thank you.  
 ...  
 <big>☻</big>
@@ -370,7 +370,7 @@ has a useful pattern that can be used for making polite requests.
 = Please give me some tea.  
 **ching yam chai.**
 = Please have some tea.  
-**ching safi kamar.**
+**ching safe kamar.**
 = Please clean the room.
 
 Commands are introduced with
@@ -380,12 +380,12 @@ Commands are introduced with
 
 **amir don chai.**
 = Give (me) some tea!  
-**amir safi kamar.**
+**amir safe kamar.**
 = Clean the room!
 
 In practice, direct commands can be also made with just one verb and a commanding voice.
 
-**safi da!**
+**safe da!**
 = Clean it!
 
 
@@ -412,7 +412,7 @@ grandfather
 to ask; please  
 **don**
 to give  
-**i**
+**e**
 and  
 **ga**
 to go  
@@ -424,11 +424,11 @@ room
 the  
 **mus**
 must, have to  
-**u**
+**o**
 or  
-**safi**
+**safe**
 to clean  
-**shukra**
+**shukre**
 thanks  
 **side**
 to sit  
@@ -444,9 +444,9 @@ some, a(n)
 
 1. da yam cai.
 2. la shefe ching da side.
-3. ching yam kafe u cai.
-4. mama ching mi safi kamar.
-5. shefe side i yam kafe.
+3. ching yam kafe o cha.
+4. mama ching mi safe kamar.
+5. shefe side e yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -460,22 +460,22 @@ some, a(n)
 <small>Image designed by [pikisuperstar](https://www.freepik.com/pikisuperstar)</small>
 
 <big>☺</big>
-**sal! sual tu yam kafe u chai?**
+**sal! sual tu yam kafe o cha?**
 = Hello! Would you like to have coffee or tea?  
 <big>☻</big>
-**chai.**
+**cha.**
 = Tea.  
 <big>☺</big>
 **tu ne?**
 = And you?  
 <big>☹</big>
-**mi no basha pandunia...**
+**mi no bashe pandunia...**
 = I don't speak Pandunia...  
 <big>☺</big>
-**yaf! sual da yam chai?**
+**yaf! sual da yam cha?**
 = Pardon! Will he have tea?  
 <big>☻</big>
-**no. da no yam chai. da yam kafe.**
+**no. da no yam cha. da yam kafe.**
 = No, he won't. He would like to have coffee.  
 <big>☺</big>
 **sual tu yam supe?**
@@ -490,21 +490,23 @@ some, a(n)
 **no yam.**
 = No.  
 <big>☺</big>
-**shukra. mi don un chai i un kafe i un supe pos des minute.**
+**shukre. mi don un cha e un kafe e un supe pos des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
 ### Asking questions
 
-Questions that can be answered by saying _yes_ or _no_ have the same
-pivot structure as requests with **ching**, which you learned in the
-previous lesson. Question sentences are introduced with **sual** = to ask.
+Questions that can be answered by saying _yes_ or _no_ have the same pivot structure as requests with
+**ching**,
+which you learned in the previous lesson.
+Question sentences are introduced with
+**sual** 'to ask'.
 
-**mi sual tu yam chai.**
+**mi sual tu yam cha.**
 = I ask (do) you drink tea.  
 **sual tu yam chai?**
 = Do you drink tea?  
-**sual yam chai?**
+**sual yam cha?**
 = Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions
@@ -523,9 +525,9 @@ Of course common and proper nouns can also be used.
 
 **sual shefe yam kafe?**
 = Does the chief drink coffee?  
-**sual papa safi kamar?**
+**sual papa safe kamar?**
 = Does the father clean the room?  
-**sual niki basha pandunia?**
+**sual Niki bashe pandunia?**
 = Does Nicky speak Pandunia?
 
 
@@ -582,7 +584,7 @@ after
 pardon, sorry  
 **minute**
 minute  
-**basha**
+**bashe**
 speak a language  
 **ne**
 sentence-ending tag for asking the other's point of view  
@@ -602,8 +604,8 @@ yes
 
 ### Answers to the Exercises
 
-1. sual tu basha pandunia?
-2. ya. mi basha pandunia.
+1. sual tu bashe pandunia?
+2. ya. mi bashe pandunia.
 3. sual mama yam kafe?
 4. no. da no yam kafe.
 5. sual da yam supe?
@@ -632,11 +634,11 @@ In Pandunia the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
 of the negative word.
 
-**mi ching tu safi kamar.**
+**mi ching tu safe kamar.**
 = I ask you to clean the room.  
-**mi no ching tu safi kamar.**
+**mi no ching tu safe kamar.**
 = I do NOT ask you to clean the room.  
-**mi ching tu no safi kamar.**
+**mi ching tu no safe kamar.**
 = I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
@@ -687,10 +689,10 @@ but
 
 ### Answers to the Exercises
 
-1. da no safi kamar.
+1. da no safe kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da no ha vaf i mau. / da ha no vaf i no mau.
+4. da su no es vaf e mau. / da ha no vaf e no mau.
 5. shefe yam cai ama no kafe.
 6. mama ha no vaf ama du mau.
 
@@ -704,11 +706,11 @@ _when_, the interrogative pronoun **ke** is normally used. The
 question can be made more specific by adding words for person, time,
 manner or thing if needed.
 
-**da e ke?**
+**da es ke?**
 = What is that? / Who is (s)he?  
-**da e ke jen?**
+**da es ke jen?**
 = Who is he/she?  
-**da e ke she?**
+**da es ke she?**
 = What (thing) is it?  
 **ke jen lai?**
 = Who is coming? (**jen** = person)  
@@ -729,13 +731,13 @@ before the cause or reason.
 
 **ke sabu tu suke mau?**
 = Why do you like cats?  
-**de sabu damen e kavai.**
+**de sabu damen es kavai.**
 = Because they are cute.
 
 Of course **sabu** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-**mi suke mau de sabu damen e kavai**
+**mi suke mau de sabu damen es kavai**
 = I like cats because they are cute.
 
 ### Exercises
@@ -774,7 +776,7 @@ period of time
 3. ke zaman da lai?
 4. pos des minute.
 5. ke sabu da no yam?
-6. de sabu da no suke kafe i supe.
+6. de sabu da no suke kafe e supe.
 
 
 --------------------------------------------------------------------------------
@@ -808,11 +810,11 @@ There are also specific time words.
 
 They can be used for modifying nouns.
 
-**Sara e mi su pas shefe.**
+**Sara es mi su pas shefe.**
 = Sarah is my former boss.  
-**Yusef e mi su zai shefe.**
+**Yusef es mi su zai shefe.**
 = Yusef is my current boss.  
-**Maria e mi su sha shefe.**
+**Maria es mi su sha shefe.**
 = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
@@ -841,9 +843,9 @@ It is enough to set the stage once in the beginning with a time expression.
 Another time word will not be needed until the tense changes
 or until it becomes useful to stress that you are still talking in the same tense.
 
-**mi pas ha un mau.**
+**mi su pas es un mau.**
 = I had a cat in the past.  
-**da e hau mau.**
+**da es hau mau.**
 = It was a good cat.  
 **mi ha un vaf a zai.**
 = I have a dog now.
@@ -853,7 +855,7 @@ time expression is present, other markers are not needed.
 
 **mi be gene a nen 2003.**
 = I was born in 2003.  
-**da safi la kamar a pos den.**
+**da safe la kamar a pos den.**
 = He will clean the room tomorrow.
 
 
@@ -896,7 +898,7 @@ milk
 1. mi su shefe feste a sha.
 2. mi ha du vaf a pas.
 3. tu yam supe a zai.
-4. da safi kamar a preden.
+4. da safe kamar a preden.
 5. mau yam milke a posden.
 6. tu su ma festa a prenoce.
 

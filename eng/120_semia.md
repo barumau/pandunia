@@ -13,17 +13,17 @@ The actual meaning emerges in the sentence context.
 
 The noun meaning, 'fire', emerges when the word occupies the position of a noun in a sentence.
 
-**mi visi la hogo.**
+**mi vide la hogo.**
 – I see fire.
 
 The adjectival meaning, 'fiery', emerges in adjectival position.
 
-**mi visi un hogo kar.**
+**mi vide un hogo kar.**
 – I see a fiery chariot.
 
 The verbal meaning, 'to burn', emerges in verbal position.
 
-**mi hogo yo moka.**
+**mi hogo yo moke.**
 – I burn some wood.
 
 Verb, noun and modifier are created independently from the base word.
@@ -49,7 +49,7 @@ such as hammer, drill, axe, knife, comb and brush.
 
 | Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **brosha** | 'brush'      | 'of brush' | 'to brush' |
+| **brox**   | 'brush'      | 'of brush' | 'to brush' |
 | **kem**    | 'sword'      | 'of sword' | 'to sword-fight, to fence' |
 | **defa**   | 'shield'     | 'to defend, to shield' |
 | **kanjar** | 'dagger'     | 'of dagger' | 'to stab' |
@@ -65,7 +65,7 @@ The base word is some other type of concrete object.
 
 | Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **ita**    | 'brick'      | 'made of brick'  | 'to build with bricks' |
+| **ite**    | 'brick'      | 'made of brick'  | 'to build with bricks' |
 | **aure**   | 'gold'       | 'golden'         | 'to gild, to cover with gold' |
 
 ### Words for people
@@ -78,7 +78,7 @@ The base word is a person:
 
 | Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **pa**     | 'father'     | 'fatherly'       | 'to father'  |
+| **patre**  | 'father'     | 'fatherly'       | 'to father'  |
 | **bra**    | 'sibling'    | 'siblinglike'    | 'to fraternize' |
 
 ### Quality words
@@ -92,7 +92,7 @@ The base word is a quality:
 | Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
 | **hau**    | 'goodness'   | 'good, well'     | 'do good, make good, improve' |
-| **huri**   | 'freedom'    | 'free'           | 'to free, to liberate' |
+| **hure**   | 'freedom'    | 'free'           | 'to free, to liberate' |
 
 ### Artifact words
 
@@ -104,7 +104,7 @@ The base word refers to a human-made object.
 
 | Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **kitaba** | 'writing'    | 'written'        | 'to write' |
+| **kitabe** | 'writing'    | 'written'        | 'to write' |
 | **fikre**  | 'thought'    | 'of thinking'    | 'to think' |
 
 
@@ -141,20 +141,20 @@ In the following examples, the agent is marked with superscript A and the patien
 The person opens the door on purpose.
 The door undergoes a change of state from closed to opened.
 
-**jenᴬ visi i arome aranjaᴾ.**
+**jenᴬ vide e arome aranjaᴾ.**
 – The personᴬ sees and smells an orangeᴾ.
 
 The person can perceive the orange with their senses.
 The orange is a non-living thing.
 
-**jenᴬ ai aranjaᴾ.**
+**jenᴬ ame aranjaᴾ.**
 – The personᴬ loves orangesᴾ.
 
 The person can feel.
 The orange stimulates the feeling of love in the person
 but it does it just by being there, it doesn't do it on purpose.
 
-**jenᴬ movi kursiᴾ.**
+**jenᴬ mote kursiᴾ.**
 – The personᴬ moves the chairᴾ.
 
 The person is the one who moves the chair.
@@ -190,13 +190,13 @@ Examples of different kinds of activity words include the following:
 'axe',
 **hogo**
 'fire',
-**yen**
+**oke**
 'eyes',
-**ai**
+**ame**
 'love',
-**huri**
+**hure**
 'freedom', and
-**ma**
+**matre**
 'mother'.
 
 In the transitive construction the agent applies the activity to the patient.
@@ -219,9 +219,9 @@ Therefore the semantics of the following sentences are easy to understand.
 – I chop trees.  
 **mi hogo yo moka.**
 – I burn wood.  
-**mi yen tu.**
+**mi oke tu.**
 – I eye you. ~ I look at you.  
-**mi ai tu.**
+**mi ame tu.**
 – I love you.
 
 Freedom is an abstract thing.
@@ -230,7 +230,7 @@ If you are in a situation where you can apply freedom to an object,
 you can probably guess that the object is likely a human object or an animate object,
 and then you can imagine what freedom does to them.
 
-**mi huri damen.**
+**mi hure damen.**
 – I free them. ~ I liberate them.
 
 The thing called *mother* is not any different.
@@ -240,7 +240,7 @@ You can apply *any axe* to *any tree*, but you can't apply *any mother* to *any 
 There is a natural relation between the mother and the child. The mother is the child's mother and the child is the mother's child.
 So there is a natural assumption, that the one who applies a mother (or motherhood) is the mother herself.
 
-**mi ma mi su ben.**
+**mi matre mi su ben.**
 – 'I mother my child.'
 
 The meaning of some of these sentences can be unintuitive for some people.

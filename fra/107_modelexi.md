@@ -22,14 +22,14 @@ Deux adjectifs ou plus peuvent modifier un même mot.
 L'adjectif peut se placer aussi après le nom.
 Cette structure peut souvent se lire comme une phrase complète, où l'adjectif fonctionne comme un verbe adjectival, et où le verbe _être_ est sous-entendu.
 
-**la car e neu.** 
+**la car es neu.** 
 – La voiture est neuve.  
-**la bagre e suga.** 
+**la bagre es suga.** 
 – Le tigre est rapide.
 
 Naturellement, il peut y avoir des modificateurs des deux côtés du nom également.
 
-**la neu car e suga.** 
+**la neu car es suga.** 
 – La voiture neuve est rapide.
 
 # Adverbes
@@ -85,7 +85,7 @@ Les modificateurs peuvent être comparés.
 
 La particule **ko** met en relation les adverbes de comparaison à l'élément comparé.
 
-**mi e max hau ka tu.**
+**mi es max hau ka tu.**
 = Je suis meilleur que toi.  
 **tu loge par hau ka mi.**
 = Tu parles aussi bien que moi.

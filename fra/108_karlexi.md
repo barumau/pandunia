@@ -133,7 +133,7 @@ indique qu'une action est effectuée régulièrement.
 indique l'aspect accompli ou achevé.
 Il indique qu'une action s'est produite dans le passé et est toujours en cours, ou est pertinente pour la situation actuelle.
 
-**da _le_ e guru.**
+**da _le_ es guru.**
 – Il ou elle est déjà enseignant.  
 **mi no _le_ gul yo alkohol.**
 – Je n'ai pas encore bu d'alcool.  
@@ -163,7 +163,7 @@ Il indique qu'une action est terminée et n'est plus pertinente pour la situatio
 'sera, –rai'
 indique que l'événement se produira plus tard ou dans le futur.
 
-**da _sha_ e guru.**
+**da _sha_ es guru.**
 – Il ou elle sera enseignant(e).  
 **mi no _sha_ gul bir.**
 – Je ne boirai pas de bière.
@@ -236,7 +236,7 @@ Les prépositions ne sont pas utilisées aussi fréquemment en pandunia qu'en an
 Dans de nombreuses phrases, le verbe seul suffit.
 
 **mi lai dom.** - Je viens (à) la maison.  
-**tu side kursi.** - Tu e assis (sur) une chaise.  
+**tu side kursi.** - Tu es assis (sur) une chaise.  
 **ya lala sofa.** - Il ou elle est allongée (sur) le canapé.  
 **pexe boi daria.** - Des poissons nagent (dans) la mer.  
 **jangja marce dau.** - Des guerriers défilent (dans) la rue.  
@@ -253,9 +253,9 @@ Dans l'exemple ci-dessus **ken** (savoir) est le verbe et **guru** (maître) est
 
 **ka** est aussi utilisé quand on compare des adjectifs.
 
-**baca e min dai ka pa.**
+**baca es min dai ka pa.**
 – L'enfant est moins grand que le père.  
-**cin pa e par dai ka pa.**
+**cin pa es par dai ka pa.**
 – Grand-père est aussi grand que père.
 
 **ka** met en relation les adverbes de comparaison - **max** (plus), **min** (moins) and **par** (aussi, autant) - et l'élément comparé,

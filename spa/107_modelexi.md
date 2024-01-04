@@ -56,9 +56,9 @@ Dos o más modificadores pueden modifican el mismo sustantivo.
 
 En Pandunia, _adverbos_ son modificadores que preceden el verbo que modifican.
 
-**tu _suga_ loga.**
+**tu _suga_ loge.**
 – Usted hablas _rápido_.  
-**damen _hau_ kitaba.**
+**damen _hau_ kitabe.**
 – Ellas escriben _bien_.
 
 Es común poner la partícula de modificación
@@ -66,9 +66,9 @@ Es común poner la partícula de modificación
 entre el modificador y el verbo.
 Hace la estructura del frase verbal más claro.
 
-**tu _mei di_ kitaba.**
+**tu _mei di_ kitabe.**
 – Tú escribes _hermoso_.  
-**damen _suga di_ marche.**
+**damen _suga di_ marce.**
 – Ellos caminan _rápido_.
 
 
@@ -80,7 +80,7 @@ también se usa cuando un modificador modifica un otro.
 
 **un _surpris di_ hau buku**
 – un _sorprendentemente_ buen libro  
-**poli _bala di_ ai ja jen**
+**poli _bala di_ ame ja jen**
 – personas _firmemente_ amorosas
 
 
@@ -92,11 +92,11 @@ Palabras de grado nos dicen sobre la intensidad de algo.
 – muy  
 **bas**
 – bastante  
-**mas**
+**max**
 – más  
 **min**
 – menos  
-**mas ka bas**
+**max ka bas**
 – demasiado
 
 Palabras de grado preceden la palabra que modifican.
@@ -105,9 +105,9 @@ Palabras de grado preceden la palabra que modifican.
 – un hombre grande  
 **un tre dai man**
 – un hombre muy grande  
-**un mas dai man**
+**un max dai man**
 – un hombre más grande  
-**un mas dai man ka bas**
+**un max dai man ka bas**
 – un hombre demasiado grande
 
 Una palabra de grado junta con un modificador crea un _adverbo compuesto_
@@ -116,16 +116,16 @@ El adverbo compuesto se pone inmediatamente antes del verbo que modifica.
 
 **tre poli**
 – muchísimo
-**mi _tre poli_ vol loga.**
+**mi _tre poli_ vol loge.**
 – Tengo muchas ganas de hablar.  
-**mi vol _tre poli_ loga.**
+**mi vol _tre poli_ loge.**
 – Quiero hablar muchísimo.
 
 En adición es posible poner el adverbo compuesto en el fin de la oración,
 y entonces modifica la oración en conjunto.
 El significado es la misma como cuando el adverbo compuesto modifica el verbo principal.
 
-**mi vol loga _tre poli_.**
+**mi vol loge _tre poli_.**
 – Muchísimo quiero hablar.  
 **sual tu sona _bas hau_?**
 – ¿Sonaste bastante bien?
@@ -135,9 +135,9 @@ El significado es la misma como cuando el adverbo compuesto modifica el verbo pr
 
 Adjetivos pueden compararse con los adverbos de comparación.
 
-- **maa**
+- **max**
   (_más_) indica superioridad sobre otra cosa
-- **maaim**
+- **maxim**
   (_mayor_) indica superioridad sobre un grupo entero
 - **min**
   (_menos_) indica inferioridad a otra cosa
@@ -150,10 +150,10 @@ La partícula
 **ka** (_que_)
 relaciona los adverbos de comparación al objeto de comparación.
 
-**aple e mas hau ka aranja.**
+**aple es max hau ka oranje.**
 = Las manzanas son mejores (más buenas) que las naranjas.  
-**aranja e min hau ka aple.**
+**oranje es min hau ka aple.**
 = Las naranjas son peores (menos buenas) que las manzanas.  
-**tu loga par hau ka mi.**
+**tu loge par hau ka mi.**
 = Hablas tan bien como yo.
 

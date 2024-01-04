@@ -38,13 +38,13 @@ Simplemente inserta un número delante del sustantivo igual.
 – dos sillas  
 **tri kursi**
 – tres sillas  
-**poli kursi**
+**men kursi**
 – muchas sillas
 
 Un método fácil para decir que hay muchos es repetir el sustantivo dos veces.
 
-**kursi kursi**
-– sillas y sillas, una gran variedad de sillas  
+**ite ite**
+– piedras y piedras, una gran variedad de piedras
 **buku buku**
 – libros y libros, una gran variedad de libros
 
@@ -54,7 +54,7 @@ Un método fácil para decir que hay muchos es repetir el sustantivo dos veces.
 Nombres propios son sustantivos para personal, lugares, y otras cosas individuales.
 
 Nombres de personas pueden etiquetarse con la título de respeto universal
-**si**.
+**xi**.
 Usarlo mostra respeto y cortesía.
 
 Puede usarse en situaciones formales e informales, y para todos los grupos social, de edad, o de género.
@@ -68,11 +68,11 @@ Por lo tanto es aconsejable usar **shi** siempre cuando conoce personas nuevas d
 
 Un título de respeto se puede usar con el nombre de pila, el apellido, o los dos.
 
-**si Gabriel Garsia Markes**
+**xi Gabriel Garsia Markes**
 – Sr. Gabriel García Marquez  
-**si Gabriel**
+**xi Gabriel**
 – Sr. Gabriel  
-**si Garsia Markes**
+**xi Garsia Markes**
 – Sr. García Marquez
 
 

@@ -150,10 +150,10 @@ Este sufijo describe una persona que segue cierta ideología.
 **deu sim di** teísta  
 
 
-#### je
+#### xe
 
 Indica una cosa que mostra un atributo o sufrir una acción.
 
 **sabe** saber →
-**sabe je** sabida cosa (conocimiento)
+**sabe xe** sabida cosa (conocimiento)
 
