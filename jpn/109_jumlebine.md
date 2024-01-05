@@ -28,7 +28,7 @@ Sara es hau.
 – サラは元気です。  
 seku es dai.
 – この石は大きい。  
-meza es neu.
+meza es nove.
 – このテーブルは新しい/新品です。
 
 
