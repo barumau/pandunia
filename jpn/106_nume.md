@@ -64,7 +64,7 @@
 – **3つ**の星  
 **kam** sing
 – **少し**の星  
-**men** sing
+**poli** sing
 – **たくさん**の星
 
 **un** dai kursi
