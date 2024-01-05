@@ -7,10 +7,18 @@ theme:
   name: material
   language: ja
 nav:
-    - 'ホームページ': 'index.md'
     - '基本': baze.md
-    - 'つづり': 102_ABC.md
-    - '文法': 100_baze_kanun.md
+    - '文法':
+        - '基本事項': 100_baze_kanun.md
+        - 'つづり': 102_ABC.md
+        - '品詞': 103_lexetipe.md
+        - '代名詞': 104_viselexe.md
+        - '名詞': 105_namlexe.md
+        - '数詞': 106_nume.md
+        - '修飾詞': 107_modelexe.md
+        - '動詞': 108_karlexe.md
+        - '文章': 109_jumlebine.md
+        - '単語の構築': 110_lexebine.md
     - 'フレーズ集': 200_baze_jumla.md
     - '対話形式のレッスン': 201_shula.md
     - '辞典': pandunia-jpn.md
