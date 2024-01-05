@@ -66,12 +66,12 @@ da **no** Sara. ~ da no es Sara.
 
 mi **yam** yo aple.
 – 私はリンゴを**食べます**。  
-mi **vide** tu.
+mi **vize** tu.
 – 私はあなたを**見ます**。
 
 語順を変わるために受動的な機能語を使うことはできます。
 
-tu **be vide** mi.
+tu **be vize** mi.
 – あなたは私に**見られます**。  
 ban **be bake**.
 – パンが**焼かれます**。
