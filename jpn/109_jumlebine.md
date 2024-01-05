@@ -52,7 +52,7 @@ da **no** Sara. ~ da no es Sara.
 
 **jun – mei.** ~ **jun es mei.**
 – **若いこと**は美しい。  
-**nov no lau.** ~ **no no es lau.**
+**nove no lau.** ~ **nove no es lau.**
 – **新しいもの/新品**は古くありません。  
 **gani – hau.** ~ **gani es hau.**
 – 歌うことは良いです。
