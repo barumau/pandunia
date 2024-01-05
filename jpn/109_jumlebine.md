@@ -10,7 +10,7 @@
 
 mi hau.
 – 私は元気です。  
-da neu.
+da nove.
 – それは新しい/新品です。  
 da Sara.
 – 彼女はサラです。
@@ -40,7 +40,7 @@ meza es neu.
 
 mi **no** hau. ~ mi no es hau.
 – 私は気分が優れません。 (訳注:「元気がない」では不自然)  
-da **no** nov. ~ da no es nov.
+da **no** nove. ~ da no es nove.
 – それは新しくない/新品ではない。  
 da **no** Sara. ~ da no es Sara.
 – 彼女はサラ(人の名前)ではありません。
