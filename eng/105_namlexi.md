@@ -53,7 +53,7 @@ It is done simply by inserting a number or a quantity word before the noun.
 – two chairs  
 **tri kursi**
 – three chairs  
-**men kursi**
+**poli kursi**
 – many chairs
 
 It is possible to specify plurality also by reduplication, by saying the noun two times.

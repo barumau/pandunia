@@ -9,25 +9,25 @@ not by changing the form of verbs as in English and other languages.
 
 Person and number are indicated by the subject.
 For example, the verb
-**es**
+**e**
 ('to be') has the same form in all persons.
 
-**_mi_ es doste.**
+**_mi_ e dosti.**
 – I am a friend.  
-**_tu_ es doste.**
+**_tu_ e dosti.**
 – You are a friend.  
-**_da_ es doste.**
+**_da_ e dosti.**
 – He/she is a friend.  
-**_mimen_ es doste.**
+**_mimen_ e dosti.**
 – We are friends.  
-**_tumen_ es doste.**
+**_tumen_ e dosti.**
 – You are friends.  
-**_damen_ es doste.**
+**_damen_ e dosti.**
 – They are friends.
 
 Also a noun can serve as subject.
 
-**mau es hevan.**
+**mau e hevan.**
 – The cat is an animal.
 
 Frequently there is a marker between the subject and the verb
@@ -45,7 +45,7 @@ but only helps to clarify its structure.
 – Rabbit food. – OR Rabbit eats.  
 **tuzi ya yam.**
 – Rabbit does eat. ~ Rabbit eats.  
-**karote es tuzi yam.**
+**karote e tuzi yam.**
 – Carrot is rabbit food.  
 **tuzi _ya_ yam karote.**
 – Rabbits eat carrots.
@@ -125,11 +125,11 @@ indicates that an action has happened in the past and is still ongoing, or is re
 It is best translated by *already* or *(not) yet*.
 You can think of it somewhat like the present perfect in English (_I have done_, _I have eaten_).
 
-**da _le_ es guru.**
+**da _le_ e guru.**
 – He/she is already a teacher.  
-**mi no _le_ gul yo alkol.**
+**mi no _le_ gul yo alkohol.**
 – I haven't drunk alcohol yet.  
-**mi _le_ no gul yo alkol.**
+**mi _le_ no gul yo alkohol.**
 – I am already not drinking alcohol.  
 **mi _le_ don la buku to damen.**
 – I have given the book to them. Or: I already gave the book to them.  
@@ -156,7 +156,7 @@ You can think of it somewhat like the past simple in English (I finished, I ate)
 'will, shall'
 indicates that the event will take place later or in the future.
 
-**da _sha_ es guru.**
+**da _sha_ e guru.**
 – He/she shall be a teacher.  
 **mi no _sha_ gul bir.**
 – I will not drink beer.
@@ -191,21 +191,21 @@ the first verb (an auxiliary verb) is something that the subject possesses
 and the second verb is something that the subject does (when there is an object in the end)
 or experiences (when there is no object).
 
-**mi bil kitabe la javabe.**  
+**mi bil kitaba la javabe.**  
 ≈ *I have the ability to write the answer.*  
 – I can write the answer.  
-**mi halal kitabe la javabe.**  
+**mi halal kitaba la javabe.**  
 ≈ *I have the permission to write the answer.*  
 – I may write the answer.  
-**mi mus kitabe la javabe.**  
+**mi mus kitaba la javabe.**  
 ≈ *I have the compulsion to write the answer.*  
 – I must write the answer.
 
 Note that the same auxiliary verbs can be used alone as transitive verbs in the pivot construction.
 
-**guru halal mi kitabe la javabe.**
+**guru halal mi kitaba la javabe.**
 – The teacher permits me to write the answer.  
-**guru mus mi kitabe la javabe.**
+**guru mus mi kitaba la javabe.**
 – The teacher compels me to write the answer.
 
 
@@ -234,7 +234,7 @@ denotes an instrument or tool, 'with, by, by means of'.
 
 **da bate bi hamar.**
 – He hits with the hammer.  
-**da kitabe bi kalam.**
+**da kitaba bi kalam.**
 – He writes with a pen.
 
 It also denotes means of exchange, 'for'.
@@ -244,9 +244,9 @@ It also denotes means of exchange, 'for'.
 
 It also denotes the language of speech or a text, 'in'.
 
-**mimen loge bi pandunia**
+**mimen loga bi pandunia**
 – We speak in Pandunia  
-**damen kitabe bi farsi**
+**damen kitaba bi farsi**
 – They write in Persian.
 
 #### de
@@ -318,7 +318,7 @@ The preposition
 **re**
 denotes movement back, 'back, in return'.
 
-**da don la buke re mi.**
+**da don la buku re mi.**
 – He gave the book back to me.
 
 #### tra

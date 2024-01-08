@@ -79,7 +79,8 @@ They are put before the word or phrase that they qualify.
 
 ## Ordinal numbers
 
-Ordinal numbers are created with the particle **me**.
+Ordinal numbers are created with the particle
+**me**.
 
 - **un me**
   – first
@@ -115,19 +116,19 @@ Also the words for previous, next, first and last use the same particle.
 
 **pre**
 'before, precede'
-→ **preme**
+→ **pre me**
 'previous, preceding'  
 **pos**
 'after, follow'
-→ **posme**
+→ **pos me**
 'next, following'  
 **shuru**
 'begin'
-→ **shurume**
+→ **shuru me**
 'the first'  
-**fin**
+**fine**
 'end'
-→ **finme**
+→ **fine me**
 'the last'
 
 Ordinal numbers are put before cardinal numbers.
@@ -333,10 +334,10 @@ The 24 hour clock is the standard.
 
 **hor des du**
 – twelve o'clock  
-**hor des du e tri des**
+**hor des du i tri des**
 – twelve thirty, half past twelve  
 **hor du des**
 – eight PM  
-**hor du des e des lima**
+**hor du des i des lima**
 – quarter past eight PM
 

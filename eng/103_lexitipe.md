@@ -27,9 +27,9 @@ which does not change according to number, case, gender, tense, mood or
 any of the other inflectional categories known from other languages.
 Compare, for example, what happens to the words in the following two sentences in Pandunia and English.
 
-1. *mi ame da.*
+1. *mi ai da.*
    – I love him.
-2. *da ame mi.*
+2. *da ai mi.*
    – He loves me.
 
 In Pandunia, the subject and object simply change places and that's it.
@@ -175,14 +175,14 @@ Content words can be classified further into the following word classes:
 
 However, the class of a content word is seldom permanent.
 A word like
-**ame**
+**ai**
 ('love') can function as verb, noun or adjective
 depending on its position in the sentence.
 
-*mi **ame** tu.*
+*mi **ai** tu.*
 – I **love** you. (verb)  
-*tu fikre mi su **ame**.*
+*tu fikre mi su **ai**.*
 – You think about my **love**. (noun)  
-*mi kitabe un **ame** angil.*
+*mi kitabe un **ai** angil.*
 – I write a **love** letter. (adjective)
 

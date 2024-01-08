@@ -69,7 +69,7 @@ is used also when a modifier modifies another one.
 
 **un _dai di_ hau buku**
 – a _greatly_ good book  
-**poli _bala di_ ame ja jen**
+**poli _bala di_ ai ja jen**
 – _strongly_ loving people
 
 
@@ -139,9 +139,9 @@ The particle
 **ka**
 relates the adverbs of comparison to the object of comparison.
 
-**aple es max hau ka oranje.**
+**aple e max hau ka aranja.**
 = Apples are better than oranges.  
-**oranje es min hau ka aple.**
+**aranja e min hau ka aple.**
 = Oranges are less good than apples.  
 **tu loge par hau ka mi.**
 = You speak as well as me.
