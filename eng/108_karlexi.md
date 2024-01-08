@@ -86,7 +86,7 @@ indicates that an action is done completely.
 
 **tu pul yam un piza.**
 – You ate a pizza completely.  
-**mi pul vide la filme.**
+**mi pul visi la filme.**
 – I completed watching the film. / I watched the film completely.
 
 **fen**
@@ -95,7 +95,7 @@ indicates that the action is only partially done.
 
 **tu fen yam un piza.**
 – You ate some of the pizza.  
-**mi fen vide la filme.**
+**mi fen visi la filme.**
 – I watched some of the movie.
 
 **zai**
@@ -105,11 +105,11 @@ indicates that a situation is happening at present.
 **mi zai yam un piza.**
 – I am eating a pizza.
 
-**dur**
+**dura**
 'keep on, continue, proceed'
 indicates that a situation is continuing or in progress.
 
-**mi dur yam la piza.**
+**mi dura yam la piza.**
 – I keep on eating the pizza.
 
 **ada**

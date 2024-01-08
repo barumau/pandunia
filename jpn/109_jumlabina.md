@@ -10,7 +10,7 @@
 
 mi hau.
 – 私は元気です。  
-da nove.
+da nova.
 – それは新しい/新品です。  
 da Sara.
 – 彼女はサラです。
@@ -20,15 +20,15 @@ da Sara.
 #### Verbal predicative clause
 
 主語は名詞だったら、繋辞の動詞の
-**es**
+**e**
 は必要です。
 
 
-Sara es hau.
+Sara e hau.
 – サラは元気です。  
-seku es dai.
+seku e dai.
 – この石は大きい。  
-meza es nove.
+meza e nova.
 – このテーブルは新しい/新品です。
 
 
@@ -38,11 +38,11 @@ meza es nove.
 
 **no** が追加されると否定文になります。
 
-mi **no** hau. ~ mi no es hau.
+mi **no** hau. ~ mi no e hau.
 – 私は気分が優れません。 (訳注:「元気がない」では不自然)  
-da **no** nove. ~ da no es nove.
+da **no** nove. ~ da no e nove.
 – それは新しくない/新品ではない。  
-da **no** Sara. ~ da no es Sara.
+da **no** Sara. ~ da no e Sara.
 – 彼女はサラ(人の名前)ではありません。
 
 
@@ -50,11 +50,11 @@ da **no** Sara. ~ da no es Sara.
 
 同じ事が2つの形容詞または動詞にも言えます。
 
-**jun – mei.** ~ **jun es mei.**
+**jun – mei.** ~ **jun e mei.**
 – **若いこと**は美しい。  
-**nove no lau.** ~ **nove no es lau.**
+**nova no lau.** ~ **nova no e lau.**
 – **新しいもの/新品**は古くありません。  
-**gani – hau.** ~ **gani es hau.**
+**gani – hau.** ~ **gani e hau.**
 – 歌うことは良いです。
 
 
@@ -66,12 +66,12 @@ da **no** Sara. ~ da no es Sara.
 
 mi **yam** yo aple.
 – 私はリンゴを**食べます**。  
-mi **vize** tu.
+mi **visi** tu.
 – 私はあなたを**見ます**。
 
 語順を変わるために受動的な機能語を使うことはできます。
 
-tu **be vize** mi.
+tu **be visi** mi.
 – あなたは私に**見られます**。  
 ban **be bake**.
 – パンが**焼かれます**。
@@ -93,7 +93,7 @@ O1には2つの役割があります。
 V1の対象であり、V2のS(主語)でもあります。
 
 
-**mi vol tu yam yo fite.**
+**mi vol tu yam yo fito.**
 – 私はあなたが野菜を食べることを望みます/要求します。
 
 上の例では
@@ -104,7 +104,7 @@ V1の対象であり、V2のS(主語)でもあります。
 同時に
 **tu**
 は次の述語
-**yam yo fite**
+**yam yo fito**
 の主語として機能しています。
 つまり
 **tu**
@@ -115,9 +115,9 @@ V1の対象であり、V2のS(主語)でもあります。
 これは特に命令文と要求文で行われます。
 
 
-**mi** sual tu bashe pandunia.
+**mi** sual tu basha pandunia.
 – パンドゥニアを話せますか。  
-sual tu bashe pandunia?
+sual tu basha pandunia?
 – パンドゥニアを話せますか。
 
 **mi ching tu lai dom.**
@@ -131,11 +131,11 @@ sual tu bashe pandunia?
 次の文には動詞が複数使われているものがありますが、
 それらは全て同じ主題を対象としています。
  
-1. **mi ga to dom.**
+1. **mi go a dom.**
    – 私は家に**帰ります**。
-2. **mi bil ga to dom.**
+2. **mi bil go a dom.**
    – 私は家に<u>帰ることが</u>**できます**。
-3. **mi vol bil ga to dom.**
+3. **mi vol bil go a dom.**
    – 私は家に**帰ることが**<u>できることを</u><u>**望みます**</u>。
    (=私は家に帰りたいです)
 

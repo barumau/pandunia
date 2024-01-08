@@ -19,12 +19,11 @@
 
 例2) termometrer (温度計)
 
-          terme      (温度)
-       +    -o-
-       +  metre      (計測)
-       +    -er      (機器)
+          termi      (温度)
+       +  metri      (計測)
+       +     -r      (機器)
     ____________
-    = termometrer    (温度計)
+    = termimetrir    (温度計)
 
 
 
@@ -38,9 +37,9 @@ node
 ～を結ぶ →
 **denode**
 ～をほどく  
-**detape**
+**detapa**
 差し込む → 
-**detape**
+**detapa**
 抜く
 
 
@@ -53,28 +52,28 @@ node
 
 可能性を表します。動詞の語尾に連結します。
 
-**vizebil**
+**visibil**
 表示可能な  
 
-#### -er
+#### -tor ~ -r
 
 行動を起こす側の名詞を作ります。行動を実行する人、または道具を表します。
 
-**loge**
+**loga**
 話す →
-**loger**
+**logator**
 話す人  
 **lide**
 導く →
 **lider**
 リーダー、先導者  
-**filsofe**
+**filsofi**
 思慮する →
-**filsofer**
+**filsofir**
 哲学者  
-**sapate**
+**sapato**
 靴 →
-**sapater**
+**sapator**
 靴職人  
 **muskete**
 マスケット銃 →
@@ -87,57 +86,57 @@ node
 
 
 
-#### -ia
+#### -ta
 
 
 抽象的な名詞の多くは
-*-ia*
+*-ta*
 で終わります。
 
-**day**
+**dai**
 大きい →
-**dayia**
+**daita**
 大きさ  
-**nove**
+**nova**
 新しい →
-**novia**
+**novata**
 新しさ、新規性  
-**hur**
+**huri**
 解放された、自由な →
-**huria**
+**hurita**
 自由
 
 
 
-#### -isme
+#### -sme
 
 特定の方法で行動または思考する傾向があるか、
 特定の政治･社会思想、もしくは宗教に従う傾向がある人を表します。
 
 **alkol**
 アルコール →
-**alkolisme**
+**alkollisme**
 アルコール依存症  
-**dee**
+**dei**
 神 →
 **deisme**
 有神論(1つまたは複数の神の存在を信じる考え)
 
-#### -iste
+#### -sta
 
-**dee**
+**dei**
 神 →
-**deiste**
+**deista**
 有神論者(1つまたは複数の神の存在を信じる者)
 
 #### -kan
 
 作業場所
 
-**sapatukan**
+**sapatokan**
 靴屋  
-**opekan**
+**karikan**
 工場  
-**kitabekan**
+**kitabukan**
 図書館
 

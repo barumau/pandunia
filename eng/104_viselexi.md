@@ -58,11 +58,11 @@ The reflexive pronoun is used when the object of a sentence is the same as the s
 Note! The same reflexive pronoun is used for all persons,
 so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, _ourselves_ and _themselves_ all at once.
 
-**mi vide se**
+**mi visi se.**
 – I see myself.  
-**da vide se**
+**da visi se.**
 – She sees herself. / He sees himself. / It sees itself.  
-**mimen vide se.**
+**mimen visi se.**
 – We see ourselves.
 
 The expression **semen** is used as the reciprocal pronoun.
@@ -70,9 +70,9 @@ The expression **semen** is used as the reciprocal pronoun.
 **semen**
 – each other, one another
 
-**mi e tu vide semen.**
+**mi e tu visi semen.**
 – Me and you see each other.  
-**mimen vide semen.**
+**mimen visi semen.**
 – We see each other.
 
 
@@ -115,7 +115,7 @@ there needs to be a modal particle,
 like **ya** or **no**,
 between the subject and the verb.
 
-**mi vide du jen.**
+**mi visi du jen.**
 – I see two persons.  
 **ye ya gani i vo no gani.**
 – This one sings and that one doesn't sing.

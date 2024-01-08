@@ -36,7 +36,7 @@ In Pandunia, "adjectives" are modifiers that are placed before the noun that the
 
 Two or more modifiers can modify the same noun.
 
-**un shau neu gar**
+**un shau nova gar**
 – a little new car
 
 
@@ -47,7 +47,7 @@ is placed immediately before the verb.
 
 **tu _suga_ loge.**
 – You talk _fast_.  
-**damen _hau_ kitabe.**
+**damen _hau_ kitabu.**
 – They write _well_.
 
 It is common to put the modifying particle

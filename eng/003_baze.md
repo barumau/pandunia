@@ -164,9 +164,9 @@ To modify a noun, put adjectives before it.
 To modify a verb, put adverbs before it.
 The adverb can be tagged with **di**.
 
-**mi hau (di) vide tu.**
+**mi hau (di) visi tu.**
 – I see you well.  
-**tu vide di ai da.**
+**tu visi di ai da.**
 – You seemingly love him/her.
 
 Modifiers are compared with
@@ -183,9 +183,9 @@ The point of comparison is introduced with **ka** 'than, as'.
 
 To ask _yes–or–no_ questions, replace the verb with "(verb) **no** (verb)" pattern or add **he** 'eh, huh' to the end of the sentence.
 
-**tu vide no vide mi?**
+**tu visi no visi mi?**
 – Do you see me?  
-**tu vide mi, he?**
+**tu visi mi, he?**
 – You see me, eh?
 
 To ask a content question, write a normal sentence and replace the word in question with
@@ -207,6 +207,6 @@ To state a command, leave out the subject and start the sentence with the verb.
 
 **yam ye pai!**
 – Eat this pie!  
-**vide vo mau!**
+**visi vo mau!**
 – Look at that cat!
 

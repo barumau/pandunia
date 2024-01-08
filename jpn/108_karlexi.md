@@ -7,9 +7,9 @@
 
 mi **yam** la aple.
 – 私はリンゴを**食べる**。  
-mi **yam** la aple a cen den.**
+mi **yam** la aple a preden.**
 – 昨日私はリンゴを**食べた**。  
-mi dure **yam** la aple.**
+mi dura **yam** la aple.**
 – 昨日私はまだリンゴを**食べている**。  
 guru **yam** la aple.**
 – 先生はリンゴを**食べます**。  

@@ -9,7 +9,7 @@
 形容詞は名詞を修飾します。
 通常名詞の前に置かれます。
 
-**nove** kar
+**nova** kar
 – **新しい**車  
 **suga** kar
 – **速い**車  
@@ -22,7 +22,7 @@
 
 複数の形容詞で同一の名詞を修飾できます。
 
-**siu nove** kar
+**shau nova** kar
 – **小さい新しい**車
 
 ### 動詞の修飾
@@ -33,18 +33,20 @@
 
 mi **hau** sona.
 – 私は**よく**眠る。  
-tu **hau** baxe pandunia.
+tu **hau** basha pandunia.
 – あなたは**上手に**パンドゥニアを話す。
 
 よく修飾機能語の **di** ははめることができます。構文を明るくします。
 
-tu **hau di** baxe pandunia.
+tu **hau di** basha pandunia.
 – あなたは**上手に**パンドゥニアを話す。
 
 ### 3.3. その他の修飾詞の修飾
 
 修飾詞はその他の修飾詞を修飾することもできます。
-例えば副詞の **bas**(十分) は動詞や形容詞を修飾します。
+例えば副詞の
+**bas**
+(十分) は動詞や形容詞を修飾します。
 
 **mei** jen
 – **美しい**人  
@@ -71,7 +73,7 @@ tu **hau di** baxe pandunia.
 **ka**
 は副詞を比較条件に割り当てます。
 
-mi es max <u>hau</u> **ka** tu.
+mi e max <u>hau</u> **ka** tu.
 = 私はあなたよりも<u>優れています</u>。  
 tu par <u>hau</u> di loge **ka** mi.
 = あなたの話し方は私と同じくらい<u>良い</u>。

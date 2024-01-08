@@ -336,7 +336,7 @@ and the second-most common order by number of languages.
     ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐
     │det│adj│noun│ │TAM│adv│verb│ │det│adj│noun│
     └───┴───┴────┘ └───┴───┴────┘ └───┴───┴────┘
-     la  jun man    le      vide   un  sen guru.
+     la  jun man    le      visi   un  sen guru.
     'The young man  did     see    an  old guru.'
 
 Transitive clauses are called transitive because they express an event where some energy transits from the subject to the object.
@@ -406,18 +406,18 @@ For example, in the following sentence, the subject is
 **mi**
 'I',
 the verb is
-**vide**
+**visi**
 'see',
 and the object is
 **tu**
 'you'.
 
-**mi vide tu.**
+**mi visi tu.**
 – I see you.
 
 If the words are arranged in the opposite order, the entire sentence will have the opposite meaning.
 
-**tu vide mi.**
+**tu visi mi.**
 – You see me.
 
 The subject and object roles are related to syntax, which deals with word order and other grammatical phenomena.
@@ -612,11 +612,11 @@ It is very common in Pandunia.
 There can be two, three or even more verbs in a series.
 All verbs are about the same subject.
  
-1. **mi ga to dom.**
+1. **mi go a dom.**
    – I go home.
-2. **mi bil ga to dom.**
+2. **mi bil go a dom.**
    – I can go home.
-3. **mi vol bil ga to dom.**
+3. **mi vol bil go a dom.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
@@ -653,7 +653,7 @@ In Pandunia, the topic can be fronted by using various sentence structures,
 such as passivization and change of word order.
 Consider the following sentence:
 
-**mi vide tu.**
+**mi visi tu.**
 – I see you.
 
 The topic of the sentence is the subject
@@ -665,33 +665,33 @@ can be topicalized by moving it to the front.
 There are several ways how to do it.
 The simplest one involves a simple change of word order and a pause.
 
-**tu – mi vide.**
+**tu – mi visi.**
 – (It's) you I saw.
 
 One can also use the passive construction to a similar effect.
 
-**tu be mi vide.**
+**tu be mi visi.**
 – You were seen by me.
 
 Another way to front the object is to use the relative clause construction.
 
-**tu e ki mi vide.**
+**tu e ki mi visi.**
 – You are the one whom I saw.
 
 This sentence can be made more impactful by fronting the linking verb
 **e**.
 and then even more by dropping the relative pronoun.
 
-**e tu ki mi vide.**
+**e tu ki mi visi.**
 – It's you whom I saw.  
-**e tu mi vide.**
+**e tu mi visi.**
 – It's you I saw.
 
 Finally, the same
 **e...**
 constructions can be used for emphasizing the topicness of the normal subject too.
 
-**e mi ki vide tu.** ~ **e mi vide tu.**
+**e mi ki visi tu.** ~ **e mi visi tu.**
 – It's me who saw you.  
 **e mi ki lai.** ~ **e mi lai.**
 – It's me who came.
@@ -745,11 +745,11 @@ Yes-no questions are answered with
 **no**
 ('no').
 
-**tu vide mi, he?**
+**tu visi mi, he?**
 – Do you see me?  
-**ya. (mi ya vide tu.)**
+**ya. (mi ya visi tu.)**
 – Yes. (I _do_ see you.)  
-**no. (mi no vide tu.)**
+**no. (mi no visi tu.)**
 – No. (I don't see you.)
 
 Negative questions are answered so that
@@ -758,11 +758,11 @@ and
 **no**
 apply to the verb, not the whole question.
 
-**tu no vide mi, he?**
+**tu no visi mi, he?**
 – Don't you see me?  
-**ya. (mi vide tu.)**
+**ya. (mi visi tu.)**
 – Yes. (I see you.)  
-**no. (mi no vide tu.)**
+**no. (mi no visi tu.)**
 – No. (I don't see you.)
 
 
@@ -845,9 +845,9 @@ It's possible to use relative pronouns or the reduced relative clause structure.
 The relative pronoun can be put in its right place in the pivot structure
 or it can be left out by using the reduced relative clause structure.
 
-**la jen, mi vide ki fa kitabe la buku, pada.**
+**la jen, mi visi ki fa kitabe la buku, pada.**
 – The person, whom I see write the book, falls.  
-**la jen, mi vide fa kitabe la buku, pada.**
+**la jen, mi visi fa kitabe la buku, pada.**
 – The person that I see write the book falls.  
 
 Also a _resumptive relative pronoun_ can be used if needed.
@@ -874,7 +874,7 @@ points to the following content clause and
 **la**
 points to the previous one.
 
-**vo e bari, ki mi le no vide damen.**
+**vo e bari, ki mi le no visi damen.**
 – _It_ is important _that I haven't seen them_.  
 **ki pan jen be sana ka par, la e klar.**
 – _That all people are created as equals_; _it_ is clear.
@@ -965,11 +965,11 @@ The word **no** is used for denying anything.
 It affects always the next word.
 Different scopes of negation may result depending on the location of the negative word.
 
-**mi vide tu.**
+**mi visi tu.**
 – I see you.  
-**mi no vide tu.**
+**mi no visi tu.**
 – I don't see you.  
-**mi vide no tu ama damen.**
+**mi visi no tu ama damen.**
 – I see, not you, but them.
 
 **mi ching tu saf la kamar.**
@@ -981,11 +981,11 @@ Different scopes of negation may result depending on the location of the negativ
 
 Particles **ya** and **no** are used also for answering questions.
 
-**sual tu vide mi?** 
+**sual tu visi mi?** 
 – Do you see me?  
-**ya. (mi ya vide tu.)** 
+**ya. (mi ya visi tu.)** 
 – Yes. (I do see you.)  
-**no. (mi no vide tu.)** 
+**no. (mi no visi tu.)** 
 – No. (I don't see you.)
 
 Negative questions are answered so that
@@ -994,11 +994,11 @@ and
 **no**
 apply to the verb alone and not the sentence as a whole.
 
-**sual tu no vide mi?** 
+**sual tu no visi mi?** 
 – Don't you see me?  
-**ya. (mi ya vide tu.)** 
+**ya. (mi ya visi tu.)** 
 – Yes. (I do see you.)  
-**no. (mi no vide tu.)** 
+**no. (mi no visi tu.)** 
 – No. (I don't see you.)
 
 ### Modifier particles
@@ -1196,7 +1196,7 @@ or indicates agreement.
 The speaker is absolutely sure of what they are saying.
 It can be translated as *indeed* or *truly*.
 
-**mi le vide tu ya.**
+**mi le visi tu ya.**
 – I truly saw you.  
 **da ver, ya.**
 – It is true indeed.  

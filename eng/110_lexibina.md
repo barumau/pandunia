@@ -325,9 +325,9 @@ The prefix **pre-** means that something is before in time or space.
 'tell'
 → **predita**
 'foretell, predict'  
-**vide**
+**visi**
 'see'
-→ **previde**
+→ **previsi**
 'foresee, preview'
 
 #### pro-

@@ -707,18 +707,18 @@ I listen to music.
 What kind of music do you listen to?
 
 
-### vide <small>to see</small>
+### visi <small>to see</small>
 
-**suke vide tu.**
+**suke visi tu.**
 Pleased to see you!
 
-**to rivide!**
+**a rivisi!**
 See you again!
 
-**vide tu a posden!**
+**visi tu a posden!**
 See you tomorrow!
 
-**mi vide da a preden.**
+**mi visi da a preden.**
 I saw him/her yesterday.
 
 
@@ -882,7 +882,7 @@ I wait for you in the hotel.
 **mi zai sal tu su doste.**  
 I am greeting your friend.
 
-**la man ya zai vide un filme.**  
+**la man ya zai visi un filme.**  
 The man is watching a film.
 
 **da zai es shefe.**  
@@ -897,7 +897,7 @@ He/she is currently at home.
 **mi pas sal tu su doste.**  
 I greeted your friend.
 
-**la man ya pas vide un filme.**  
+**la man ya pas visi un filme.**  
 The man watched a film.
 
 **da pas es shefe.**  
@@ -912,7 +912,7 @@ He/she was at home.
 **mi le sal tu su doste.**  
 I have greeted your friend.
 
-**la man le vide un filme.**  
+**la man le visi un filme.**  
 The man has watched a film.
 
 **da le es shefe.**  
@@ -927,7 +927,7 @@ He/she has been at home.
 **mi sha sal tu su doste.**  
 I will greet your friend.
 
-**la man sha vide la filme.**  
+**la man sha visi la filme.**  
 The man will watch the film.
 
 **da sha es shefe.**  
