@@ -32,11 +32,11 @@
 **se**
 – 自身
 
-**mi vide se.**
+**mi vize se.**
 – 私は**自身を**見ます。  
-**da vide se.**
+**da vize se.**
 – 彼女/彼/その人は**自身を**見ます。  
-**mimen vide se.**
+**mimen vize se.**
 – 私達は**自身を**見た。  
 **shau mau ya lingue se**.
 – 小さな猫は**自身(の体)を**舐めた。
@@ -88,7 +88,7 @@ mi vol **vo** mau.
 「どのように」、「どのくらい」を意味します。
 
 
-**ke nov?**
+**ke nove?**
 – **どれくらい**新しい?  
 **ke koste?**
 – **どれくらい**(費用が)かかる?  

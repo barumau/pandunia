@@ -1,9 +1,9 @@
 
 # 6. 数詞
 
-## Cardinal numbers
+## 基数
 
-| Ones    | Ten and over | 20 and over      | 30 and over      |
+| 1桁    | 10以降 | 20 以降      | 30 以降      |
 |:--------|:-------------|:-----------------|:-----------------|
 | 0 siro  | 10 (un) des  | 20 du des        | 30 tri des       |
 | 1 un    | 11 des un    | 21 du des un     | 31 tri des un    |
@@ -16,7 +16,7 @@
 | 8 bate  | 18 des bate  | 28 du des bate   | 38 tri des bate  |
 | 9 nave  | 19 des nave  | 29 du des nave   | 39 tri des nave  |
 
-| Ones    |  Tens         | Hundreds        | Thousands        |
+| 1桁    |  2桁         | 3桁        | 4桁        |
 |:--------|:-------------|:----------------|:------------------|
 | 1 un    | 10 (un) des  | 100 (un) sento  | 1000 (un) kilo    |
 | 2 du    | 20 du des    | 200 du sento    | 2000 du kilo      |
@@ -28,7 +28,7 @@
 | 8 bate  | 80 bate des  | 800 bate sento  | 8000 bate kilo    |
 | 9 nave  | 90 nave des  | 900 nave sento  | 9000 nave kilo    |
 
-Greater numbers follow the same logic as above.
+これ以降の数も同様の方法でつくられます。
 
 10'000 = un des kilo  
 100'000 = un sento kilo  
@@ -37,11 +37,9 @@ Greater numbers follow the same logic as above.
 100'000'000 = un sento mega  
 1'000'000'000 = un giga
 
-The numerals that are greater than one hundred are borrowed from the
-[International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units) (SI).
-They are used in scientific words in the whole world.
+100 以降の数字は[SI単位系（国際単位系）](https://ja.m.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E5%8D%98%E4%BD%8D%E7%B3%BB)をもとにした語形になっています。この単位系は、世界中のさまざまな言語で、科学用語として取り入れられています。
 
-| Prefix | Symbol | Base 10 | Decimal                        |
+| 接頭辞 | 略記 | 指数表記 | 十進表記                        |
 |:-------|:------:|:-----|----------------------------------:|
 | kilo   | k      | 10³  |                             1'000 |
 | mega   | M      | 10⁶  |                         1'000'000 |
@@ -53,7 +51,7 @@ They are used in scientific words in the whole world.
 | yota   | Y      | 10²⁴ | 1'000'000'000'000'000'000'000'000 |
 
 
-### Cardinal number before noun
+### （名詞に係る）基数詞
 
 数値は数字や他の数詞で表せます。
 それらは修飾する単語または句の前に置かれます。
@@ -66,7 +64,7 @@ They are used in scientific words in the whole world.
 – **3つ**の星  
 **kam** sing
 – **少し**の星  
-**men** sing
+**poli** sing
 – **たくさん**の星
 
 **un** dai kursi

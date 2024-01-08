@@ -10,7 +10,7 @@
 
 mi hau.
 – 私は元気です。  
-da neu.
+da nove.
 – それは新しい/新品です。  
 da Sara.
 – 彼女はサラです。
@@ -28,7 +28,7 @@ Sara es hau.
 – サラは元気です。  
 seku es dai.
 – この石は大きい。  
-meza es neu.
+meza es nove.
 – このテーブルは新しい/新品です。
 
 
@@ -40,7 +40,7 @@ meza es neu.
 
 mi **no** hau. ~ mi no es hau.
 – 私は気分が優れません。 (訳注:「元気がない」では不自然)  
-da **no** nov. ~ da no es nov.
+da **no** nove. ~ da no es nove.
 – それは新しくない/新品ではない。  
 da **no** Sara. ~ da no es Sara.
 – 彼女はサラ(人の名前)ではありません。
@@ -52,7 +52,7 @@ da **no** Sara. ~ da no es Sara.
 
 **jun – mei.** ~ **jun es mei.**
 – **若いこと**は美しい。  
-**nov no lau.** ~ **no no es lau.**
+**nove no lau.** ~ **nove no es lau.**
 – **新しいもの/新品**は古くありません。  
 **gani – hau.** ~ **gani es hau.**
 – 歌うことは良いです。
@@ -66,12 +66,12 @@ da **no** Sara. ~ da no es Sara.
 
 mi **yam** yo aple.
 – 私はリンゴを**食べます**。  
-mi **vide** tu.
+mi **vize** tu.
 – 私はあなたを**見ます**。
 
 語順を変わるために受動的な機能語を使うことはできます。
 
-tu **be vide** mi.
+tu **be vize** mi.
 – あなたは私に**見られます**。  
 ban **be bake**.
 – パンが**焼かれます**。
