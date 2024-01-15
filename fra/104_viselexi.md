@@ -35,7 +35,10 @@ Le pronom réfléchi s'utilise quand l'objet de la phrase est le même que le su
 **se** 
 – se, moi-même, toi-même, etc.
 
-Remarque ! Le pronom réfléchi **ze** s'utilise pour toutes les personnes, donc il correspond en français à tous ces pronons à la fois : _me_ ou _moi-même_, _te_ ou _toi-même_, _se_, _lui-même_, _elle(s)-même_ ou _eux-mêmes, _nous(-mêmes)_, _vous(-mêmes).
+Remarque ! Le pronom réfléchi
+**se**
+s'utilise pour toutes les personnes, donc il correspond en français à tous ces pronons à la fois :
+_me_ ou _moi-même_, _te_ ou _toi-même_, _se_, _lui-même_, _elle(s)-même_ ou _eux-mêmes, _nous(-mêmes)_, _vous(-mêmes).
 
 **mi vide se**
 – Je me vois.  
@@ -66,10 +69,12 @@ Remarque ! Le pronom réfléchi **ze** s'utilise pour toutes les personnes, donc
 
 ## Les pronoms interrogatifs
 
-**ke** est un pronom interrogatif universel.
+**ke**
+est un pronom interrogatif universel.
 Il correspond en français à _qui_, _qui est-ce qui_, _qui est-ce que_ (personne) et _que_, _quoi_, _qu'est-ce qui_, _qu'est-ce que_ (chose).
 
-Le pronom interrogatif adjectival est **ki**
+Le pronom interrogatif adjectival est aussi
+**ke**
 et il correspond en français à _quel.le.s_, _lequel_, _laquelle_, _lesquelles_.
 
 **ke xe?**

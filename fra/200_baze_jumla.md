@@ -68,10 +68,14 @@ Bon voyage !
 **sal sona!**
 Dors/dormez bien !
 
-Astuce : Comme vous le voyez à travers cette gamme d’expressions, **sal** est un mot générique pour souhaiter du bien à quelqu’un. Utilisez-le souvent !
+Astuce : Comme vous le voyez à travers cette gamme d’expressions,
+**sal**
+est un mot générique pour souhaiter du bien à quelqu’un. Utilisez-le souvent !
 
 
-<small>Étymologie : **sal** vient de l'arabe سَلَام‏ "salām", en hébreu il se dit : שָׁלוֹם‏ "šalom", en turc "selam", en Hindi सलाम "salām", en swahili "salaam" et en indonésien "selamat".</small>
+<small>Étymologie :
+**sal**
+vient de l'arabe سَلَام‏ "salām", en hébreu il se dit : שָׁלוֹם‏ "šalom", en turc "selam", en Hindi सलाम "salām", en swahili "salaam" et en indonésien "selamat".</small>
 
 
 ### xukre <small>merci</small>
@@ -177,13 +181,16 @@ C'est une femme.
 **da es aple.**
 C'est une pomme.
 
-**da** est le pronom général de la troisième personne.
+**da**
+est le pronom général de la troisième personne.
 Il est utilisé aussi bien pour les personnes (quel que soit leur sexe) que pour les choses.
 
 **mi salam da.**
 Je le/la salue.
 
-<small>Étymologie : **da** vient du
+<small>Étymologie :
+**da**
+vient du
 mandarin 他/她 (tā).</small>
 
 
@@ -201,7 +208,9 @@ Es-tu Thomas ?
 C'est un simple verbe régulier et non un marqueur interrogatif particulier.
 En fait, la dernière question est une simple abréviation de
 **mi sual tu davar**
-(je vous demande si vous êtes doctor) ou le premier mot – le pronom personnel **mi** –, est supprimé.
+(je vous demande si vous êtes doctor) ou le premier mot – le pronom personnel
+**mi**
+–, est supprimé.
 
 **sual tu hau?**
 Comment vas-tu ? (litéralement : _Est-ce que tu vas bien_)  
@@ -257,12 +266,19 @@ Est-ce que tu vas bien ?
 **no, mi no hau.**
 Non, je ne vais pas bien.
 
-Vous pouvez utiliser **no** pour mettre une phrase à la forme négative. La négation s'applique au mot qui le suit.
+Vous pouvez utiliser
+**no**
+pour mettre une phrase à la forme négative. La négation s'applique au mot qui le suit.
 
 **da no salam mi.**
 Il/elle ne me salue pas.
 
-<small>Étymologie : **no** vient de l'espagnol "no", en anglais il se dit "no", en français "non".</small>
+<small>Étymologie :
+**no**
+vient de
+l'espagnol "no",
+en anglais il se dit "no",
+en français "non".</small>
 
 
 
@@ -321,7 +337,13 @@ Qui êtes-vous ?
 **damen es ke?**
 Qui sont-ils ?
 
-<small>Étymologie : **ke** vient de l'espagnol "qué", en portugais il se dit "que", en italien "che" et en bengali: কী "ki".</small>
+<small>Étymologie :
+**ke**
+vient de
+l'espagnol "qué",
+en portugais il se dit "que",
+en italien "che"
+et en bengali: কী "ki".</small>
 
 
 
@@ -346,8 +368,6 @@ Cette pomme est rouge.
 C'est rouge. / Ceci est rouge.
 
 
-
-
 ### su <small>particule possessive</small>
 
 **ye es ke?**
@@ -362,8 +382,14 @@ C'est mon téléphone.
 **da es mi su.**
 C'est à moi.
 
-**Note :** La particule possessive **di** se place entre le possesseur et la chose possédée.
-Ainsi **mi di** signifie "mon, ma, mes", **tu di** signifie "ton, ta, tes" et ainsi de suite.
+Note : La particule possessive
+**su**
+se place entre le possesseur et la chose possédée.
+Ainsi
+**mi su**
+signifie "mon, ma, mes",
+**tu su**
+signifie "ton, ta, tes" et ainsi de suite.
 
 **da es ke?**
 Qui est-ce ?
@@ -374,7 +400,10 @@ C'est mon ami(e).
 **mi es Sara su doste.**
 Je suis l'ami(e) de Sara.
 
-<small>Étymologie : **su** vient du anglais _'s_.</small>
+<small>Étymologie :
+**su**
+vient du anglais _'s_
+et de l'espagnol *su*.</small>
 
 
 ### nam <small>nom</small>
@@ -391,7 +420,14 @@ Quel est son nom ?
 **da su nam es Sara.**
 Son nom est Sara.
 
- <small>Étymologie : **nam** vient du hindi  नाम "nām", il se dit en farsi نام‏‎ "nām", en thaï นาม "naam", en indonésien "nama", en japonais 名前 "namae", en allemand "Name", en anglais "name".</small>
+<small>Étymologie :
+**nam**
+vient du hindi  नाम "nām",
+il se dit en farsi نام‏‎ "nām",
+en thaï นาม "naam", en indonésien "nama",
+en japonais 名前 "namae",
+en allemand "Name",
+en anglais "name".</small>
 
 
 ### ha <small>verbe avoir ; il y a </small>
@@ -467,7 +503,9 @@ Il/elle mange une pomme.
 Ils/elles mangent des pommes.
 
 Remarque : Contrairement au français, le pandunia n’a pas de formes singulier et pluriel séparées.
-Ainsi, un mot comme **aple** peut signifier une ou plusieurs pommes.
+Ainsi, un mot comme
+**aple**
+peut signifier une ou plusieurs pommes.
 
 **sual tu yam kafe?**
 Est-ce que tu bois du café ?
@@ -475,7 +513,9 @@ Est-ce que tu bois du café ?
 **ya. mi yam kafe.**
 Je bois du café.
 
-Astuce : Le sens de **yam** regroupe à la fois l’idée de manger et de boire.
+Astuce : Le sens de
+**yam**
+regroupe à la fois l’idée de manger et de boire.
 Cela peut sembler bizarre au début mais vous verrez que c’est plutôt pratique !
 Habituellement, l’objet du verbe dit s’il s’agit de quelque chose qu’on mange, qu’on boit ou les deux.
 
@@ -493,7 +533,9 @@ Est-ce que tu veux manger ?
 Qu’est-ce que tu veux manger ?
 
 Astuce : en français, à l’écrit, le « quoi » est plutôt en début de question, mais en pandunia,
-l’ordre des mots n’est pas changé par **ke**, un peu comme en français à l’oral : « tu veux manger quoi ? ».
+l’ordre des mots n’est pas changé par
+**ke**,
+un peu comme en français à l’oral : « tu veux manger quoi ? ».
 
 **mi vol yam kafe.**
 Je veux boire un café.

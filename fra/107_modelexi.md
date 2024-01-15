@@ -16,7 +16,7 @@ Un modificateurs est un mot qui ajoute une qualité ou une description à un aut
 
 Deux adjectifs ou plus peuvent modifier un même mot.
 
-**un shiu neu gar**
+**un shau neu gar**
 – petite voiture neuve
 
 L'adjectif peut se placer aussi après le nom.
@@ -36,7 +36,7 @@ Naturellement, il peut y avoir des modificateurs des deux côtés du nom égalem
 
 ## Modification du verbe
 
-En pandunia, les adverbes se terminent en **-o** et ils se placent avant le verbe ou à la fin de la phrase.
+En pandunia, les adverbes se placent avant le verbe ou à la fin de la phrase.
 
 **mi hau di sona.** 
 – Je _bien_ dors.  
@@ -72,16 +72,16 @@ Ainsi,
 
 Les modificateurs peuvent être comparés.
 
-- **max**
-  (plus) marque le comparatif de supériorité
-- **maxim**
-  (le plus) marque le superlatif de supériorité
-- **min**
-  (moins) marque le comparatif d'infériorité
-- **minim**
-  (le moins) marque le superlatif d'infériorité
-- **par**
-  (aussi, autant) marque le comparatif d'égalité
+**max**
+('plus') marque le comparatif de supériorité  
+**maxim**
+('le plus') marque le superlatif de supériorité  
+**min**
+('moins') marque le comparatif d'infériorité  
+**minim**
+('le moins') marque le superlatif d'infériorité  
+**par**
+('aussi, autant') marque le comparatif d'égalité
 
 La particule **ko** met en relation les adverbes de comparaison à l'élément comparé.
 

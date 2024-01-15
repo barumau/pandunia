@@ -16,7 +16,11 @@ Comme tous les mots en pandunia, les noms sont invariables : ils ne sont pas aff
 – de l'eau
 
 On connaît souvent le nombre et le caractère défini car ils ont été spécifiés auparavant dans la discussion ou parce qu'ils font partie d'un savoir universel.
-Ainsi, normalement le mot **sol** fait référence au _soleil_ et **lun** fait référence à _la lune_, notre soleil et notre lune uniques.
+Ainsi, normalement le mot
+**sol**
+fait référence au _soleil_ et
+**lun**
+fait référence à _la lune_, notre soleil et notre lune uniques.
 
 
 ## Nombre

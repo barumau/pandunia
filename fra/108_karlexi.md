@@ -17,8 +17,11 @@ Le pandunia est une langue dont les phrases suivent généralement un ordre agen
 **mau yam mushu.**
 – Le chat (S) mange (V) la souris (O).
 
-Ici **mau** 'chat' est l'agent
-et **mushu** 'souris' est l'object.
+Ici
+**mau**
+'chat' est l'agent et
+**mushu**
+'souris' est l'object.
 
 **mi safe kamar.**
 – Je nettoie une chambre.
@@ -47,14 +50,16 @@ Et la phrase suivant ne peut qu'être interprétée par la voix passive.
 **keke le yam.**
 – La gâteau est déjà mangé.
 
-La phrase passive peut être marquée par la verbe auxiliaire **be**.
+La phrase passive peut être marquée par la verbe auxiliaire
+**be**.
 
 **koko be yam.**
 – Le poulet est mangé.  
 **kamar be safe.**
 – Chambre est nettoyée.
 
-On peut indiquer l'agent avec la préposition **de**.
+On peut indiquer l'agent avec la préposition
+**de**.
 
 **koko be yam de mimen.**
 – Le poulet est mangé par nous.  
@@ -235,21 +240,32 @@ En pandunia certains verbes fonctionnent comme le feraient des prépositions en 
 Les prépositions ne sont pas utilisées aussi fréquemment en pandunia qu'en anglais.
 Dans de nombreuses phrases, le verbe seul suffit.
 
-**mi lai dom.** - Je viens (à) la maison.  
-**tu side kursi.** - Tu es assis (sur) une chaise.  
-**ya lala sofa.** - Il ou elle est allongée (sur) le canapé.  
-**pexe boi daria.** - Des poissons nagent (dans) la mer.  
-**jangja marce dau.** - Des guerriers défilent (dans) la rue.  
+**mi lai dom.**
+– Je viens (à) la maison.  
+**tu side kursi.**
+– Tu es assis (sur) une chaise.  
+**ya lala sofa.**
+– Il ou elle est allongée (sur) le canapé.  
+**pexe boi daria.**
+– Des poissons nagent (dans) la mer.  
+**jangtor marce dau.**
+– Des guerriers défilent (dans) la rue.  
 
 ### Préposition de relation
 
-La préposition **ka** indique la manière ou le style. Elle correspond en français aux prépositions _comme_, _que_, et _comme si_.
+La préposition
+**ka**
+indique la manière ou le style. Elle correspond en français aux prépositions _comme_, _que_, et _comme si_.
 
 **mi ken pandunia ka guru.**
 – Je connais le pandunia comme un maître.
 
 **ka** met en relation le verbe ou l'adjectif avec l'élément comparé.
-Dans l'exemple ci-dessus **ken** (savoir) est le verbe et **guru** (maître) est l'élément de comparaison.
+Dans l'exemple ci-dessus
+**ken**
+(savoir) est le verbe et
+**guru**
+(maître) est l'élément de comparaison.
 
 **ka** est aussi utilisé quand on compare des adjectifs.
 
@@ -258,5 +274,13 @@ Dans l'exemple ci-dessus **ken** (savoir) est le verbe et **guru** (maître) est
 **cin pa es par dai ka pa.**
 – Grand-père est aussi grand que père.
 
-**ka** met en relation les adverbes de comparaison - **max** (plus), **min** (moins) and **par** (aussi, autant) - et l'élément comparé,
-**pa** (père) dans les exemples ci-dessus.
+**ka**
+met en relation les adverbes de comparaison –
+**max**
+(plus),
+**min**
+(moins) et
+**par**
+(aussi, autant) - et l'élément comparé,
+**pa**
+(père) dans les exemples ci-dessus.

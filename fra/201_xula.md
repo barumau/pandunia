@@ -66,7 +66,9 @@ Et pour dire le contraire, remplacez le simplement par **no** (qui signifie à l
 **dom no es hevan.**
 = La maison n'est pas un animal.  
 
-De la même façon, vous pouvez vous décrire en utilisant **me** suivi d'un mot pour vous décrire.
+De la même façon, vous pouvez vous décrire en utilisant
+**mi**
+suivi d'un mot pour vous décrire.
 
 **mi es hau.**
 – Je vais bien (Je suis bien).  
@@ -290,12 +292,15 @@ chef, patron
 
 ### Grammaire
 
-Les pronoms personnels en Pandunia sont : **mi** = je, **tu** = tu,
-et **da** = il, elle, il neutre.  Le pandunia est une langue neutre
-du point de vue du genre. Il ne fait pas de distinction entre les
-sexes des pronoms à la troisième personne ou de n'importe quels
-autres pronoms. Tous les pronoms personnels sont présents dans la
-phrase suivante.
+Les pronoms personnels en Pandunia sont :
+**mi**
+'je',
+**tu**
+'tu', et
+**da** 'il, elle, il neutre'.
+ Le pandunia est une langue neutre du point de vue du genre.
+Il ne fait pas de distinction entre les sexes des pronoms à la troisième personne ou de n'importe quels autres pronoms.
+Tous les pronoms personnels sont présents dans la phrase suivante.
 
 **mi ching tu sal da.**
 = Je te demande de le/la saluer.
@@ -467,7 +472,11 @@ manger ou boire, consommer
 
 ### Poser des questions
 
-Les questions auxquelles on peut répondre par _oui_ ou par _non_ ont la même structure pivot que les requêtes formulées avec **pliza ** que vous avez appris dans la leçon précédente. Les phrases interrogatives sont introduites avec **eska** = demander, questionner.
+Les questions auxquelles on peut répondre par _oui_ ou par _non_ ont la même structure pivot que les requêtes formulées avec
+**ching**
+que vous avez appris dans la leçon précédente. Les phrases interrogatives sont introduites avec
+**sual**
+'demander, questionner'.
 
 **mi sual tu yam cai.**
 = Je vous demande e vous buvez du thé.  
@@ -478,9 +487,8 @@ Les questions auxquelles on peut répondre par _oui_ ou par _non_ ont la même s
 
 Les demandes s'adressent généralement à des interlocuteurs directs,
 mais les questions, elles, se portent souvent sur d'autres personnes.
-Par conséquent, le deuxième pronom est habituellement nécessaire. Il
-peut être omis seulement quand on a identifié qui est le sujet de la
-discussion.
+Par conséquent, le deuxième pronom est habituellement nécessaire.
+Il peut être omis seulement quand on a identifié qui est le sujet de la discussion.
 
 **sual da yam cai?**
 = Est-ce qu'il ou elle prend du thé ?  
@@ -501,8 +509,11 @@ Bien sûr, les noms communs et les noms propres peuvent aussi être utilisés.
 
 ### Apporter des réponses
 
-On peut répondre aux questions fermées (deux réponses possibles oui
-ou non) par **da** = oui et **no** = non.
+On peut répondre aux questions fermées (deux réponses possibles oui ou non) par
+**ya**
+'oui' et
+**no**
+'non'.
 
 – **sual tu yam supe?**
 = Manges-tu de la soupe ?  
@@ -586,10 +597,15 @@ oui
 
 # Dire non
 
-Dans la leçon précédente, vous avez appris à répondre **ya** et **no**
-aux questions. Le mot **no** est utilisé pour répondre par la
-négative. L'ajout du **no** devant le verbe transforme donc une
-phrase affirmative en phrase négative.
+Dans la leçon précédente, vous avez appris à répondre
+**ya**
+et
+**no**
+aux questions. Le mot
+**no**
+est utilisé pour répondre par la négative. L'ajout du
+**no**
+devant le verbe transforme donc une phrase affirmative en phrase négative.
 
 **mi sal tu.**
 = Je vous salue.  
@@ -599,9 +615,12 @@ phrase affirmative en phrase négative.
 Conceptuellement, la négation signifie l'absence ou la non-existence du mot nié (ne pas y avoir).
 Dans la phrase
 **mi no sal tu**
-le mot **no** nie l'existence de la salutation.
+le mot
+**no**
+nie l'existence de la salutation.
 En Pandunia, la négation affecte le mot qui le suit ;
-le sens de la phrase change donc selon l'emplacement du **no**.
+le sens de la phrase change donc selon l'emplacement du
+**no**.
 
 **mi ching tu safe kamar.**
 = Je te demande de nettoyer la chambre.  
@@ -670,11 +689,11 @@ mais
 
 ## Autres questions
 
-Pour poser des questions commençant par _quoi_, _quel_, _comment_,
-_qui_ and _quand_, le pronom interrogatif **ke** est normalement
-utilisé. La question peut être formulée de manière plus spécifique en
-ajoutant des mots pour la personne, le temps, la manière ou la chose
-si nécessaire.
+Pour poser des questions commençant par _quoi_, _quel_, _comment_, _qui_ and _quand_, le pronom interrogatif
+**ke**
+est normalement utilisé.
+La question peut être formulée de manière plus spécifique en ajoutant des mots
+pour la personne, le temps, la manière ou la chose si nécessaire.
 
 **da es ke?**
 = Qu'est-ce que c'est ?  
@@ -702,7 +721,9 @@ avant la cause ou la raison.
 **de sabu damen es kavai.**
 = Parce qu'ils sont mignons.
 
-Bien entendu, vous pouvez également utiliser **sabu** pour exprimer la cause
+Bien entendu, vous pouvez également utiliser
+**sabu**
+pour exprimer la cause
 ou la raison de quelque chose, même si vous ne réponsez pas à une question.
 
 **mi suka mau ze sabu damen es kavai**
@@ -774,8 +795,11 @@ Il y a également des expressions de temps spécifiques.
 **sha**
 = dans le futur
 
-Les adjectifs pour le passé, le présent et le futur sont **pas, zai**
-et **sha**. Ils peuvent être utilisés pour modifier des noms.
+Les adjectifs pour le passé, le présent et le futur sont
+**pas, zai**
+et
+**sha**.
+Ils peuvent être utilisés pour modifier des noms.
 
 **Sara es mi su pas xefe.**
 = Sara est mon ex-patron.  
@@ -872,4 +896,3 @@ lait
 5. mau yam milke na pos den.
 6. tu su mama festa a prenoce.
 
-Mis à jour le 28 juin 2022.
