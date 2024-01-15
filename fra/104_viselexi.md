@@ -77,7 +77,7 @@ Le pronom interrogatif adjectival est aussi
 **ke**
 et il correspond en français à _quel.le.s_, _lequel_, _laquelle_, _lesquelles_.
 
-**ke xe?**
+**ke she?**
 – Quoi? (Quelle chose ?)  
 **ke jen?**
 – Qui ? (Quelle personne ?)  
@@ -86,7 +86,7 @@ et il correspond en français à _quel.le.s_, _lequel_, _laquelle_, _lesquelles_
 **ke yang?** 
 – Comment ? (De quelle manière ?)
 
-**ke** peut être aussi suivi d'un adjectif pour poser une question.
+**ke** peut être aussi suivi d'un adjechtif pour poser une question.
 
 **ke neu?**
 – Quel degré de nouveauté ? (Comment neuf?)  

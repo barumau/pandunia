@@ -25,11 +25,11 @@ Dans les phrases les plus simples, le sujet est un nom ou un pronom et le prédi
 – C'est nouveau.  
 **da Sara.**
 – C'est Sarah.  
-**Sara es hau.**
+**Sara e hau.**
 – Sarah va bien.  
-**seku es dai.**
+**seku e dai.**
 – La pierre est grosse.  
-**meza es neu.**
+**meza e neu.**
 – La table est neuve.  
 
 The word **no** is added to form the negative.
@@ -46,11 +46,11 @@ Il est possible d'ajouter le mot
 (oui) avant le prédicat dans des phrases affirmatives, selon le style et la praticité.
 Dans ce cas la structure est similaire à celle des phrases négatives.
 
-**Sara es hau.** 
+**Sara e hau.** 
 – Sarah va bien.  
-**la seku es dai.** 
+**la seku e dai.** 
 – La pierre est grosse.  
-**la meza es neu.** 
+**la meza e neu.** 
 – La table est neuve.  
 **la meza no lau.** 
 – La table n'est pas vieille.
@@ -60,7 +60,7 @@ De plus, deux pronoms personnels peuvent être combinés avec
 et
 **no**.
 
-**mi es da.** 
+**mi e da.** 
 – Moi, c'est lui / elle.  
 **mi no tu.** 
 – Je ne suis pas toi.
@@ -69,14 +69,14 @@ et
 
 La même règle s'applique aussi pour deux adjectifs.
 
-**jun es mei.** 
+**jun e mei.** 
 – (Être) jeune, c'est beau.  
 **neu no lau.** 
 – Neuf, ce n'est pas vieux.  
 
 ### Quand le sujet est un verbe
 
-**gani es hau.**
+**gani e hau.**
 – Chanter, c'est bon.
 
 
@@ -109,7 +109,7 @@ En pandunia, la voix passive est marquée par le verbe auxiliaire
 – De la musique est entendue.  
 **ban be baka.**
 – Du pain est cuit.  
-**kupa be parce.**
+**kupa be parche.**
 – La tasse se brise. (La tasse est brisée.)
 
 L'agent peut être introduit après le verbe à l'aide de la particule
@@ -139,7 +139,7 @@ a pour objet
 En même temps,
 **tu**
 fonctionne comme le sujet du prédicat suivant :
-**yam yo fito**. Donc
+**yam yo fito**. Donch
 **tu**
 est le _pivot_ de la phrase entière.
 
@@ -162,9 +162,9 @@ C'est particulièrement valable pour l'expression d'ordres et de demandes.
 
 ### Structure pivot brève (VOVO)
 
-**mi sual tu bashe pandunia.**
+**mi sual tu basha pandunia.**
 – Je demande (si) tu parles pandunia.  
-**sual tu bashe pandunia?**
+**sual tu basha pandunia?**
 – Est-ce que tu parles pandunia ?
 
 ###. Short pivot structure (VVO)
@@ -188,7 +188,7 @@ C'est particulièrement valable pour l'expression d'ordres et de demandes.
 **ama**
 – mais (introduit un mot ou une phrase qui vient en contraste ou en contradiction du mot ou de la phrase précédents)
 
-**mi suka mau e vaf.**
+**mi suka mau i vaf.**
 – J'aime les chats et les chiens.  
 **mi suka mau o vaf.**
 – J'aime les chats ou les chiens.  
@@ -219,9 +219,9 @@ Une expression est affirmative par défaut, donc le mot
 n'est pas toujours nécessaire.
 
 
-**mi es jen.** 
+**mi e jen.** 
 – Je suis une personne.  
-**da ya es neu meza.**
+**da ya e neu meza.**
 – C'est une nouvelle table.
 
 #### Particule négative
@@ -229,9 +229,9 @@ n'est pas toujours nécessaire.
 La négation de phrases telles que ci-dessus s'exprime simplement par
 **no**.
 
-**mi no es jen.** 
+**mi no e jen.** 
 – Je ne suis pas une personne.  
-**da no es neu meza.**
+**da no e neu meza.**
 – Ce n'est pas une nouvelle table.
 
 Le mot
@@ -315,7 +315,7 @@ Ces particules permettent également de créer des mots-mesures.
 – un sac de pommes de terre
 **du sake di patate**
 – deux sacs de pommes de terre
-**max sake di patate**
+**mas sake di patate**
 – plus / davantage de sacs de pommes de terre
 
 Remarque :
@@ -326,9 +326,9 @@ connectent des propositions.
 Donc un groupe de mots peut prendre un sens tout à fait différent avec ou sans
 **di**.
 
-**max mei hua**
+**mas mei hua**
 – des fleurs plus belles  
-**max di mei hua**
+**mas di mei hua**
 – davantage de belles fleurs (de belles fleurs en plus grande quantité)
 
 

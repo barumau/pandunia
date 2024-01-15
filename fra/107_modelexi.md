@@ -22,14 +22,14 @@ Deux adjectifs ou plus peuvent modifier un même mot.
 L'adjectif peut se placer aussi après le nom.
 Cette structure peut souvent se lire comme une phrase complète, où l'adjectif fonctionne comme un verbe adjectival, et où le verbe _être_ est sous-entendu.
 
-**la car es neu.** 
+**la char e neu.** 
 – La voiture est neuve.  
-**la bagre es suga.** 
+**la bagre e suga.** 
 – Le tigre est rapide.
 
 Naturellement, il peut y avoir des modificateurs des deux côtés du nom également.
 
-**la neu car es suga.** 
+**la neu char e suga.** 
 – La voiture neuve est rapide.
 
 # Adverbes
@@ -42,7 +42,7 @@ En pandunia, les adverbes se placent avant le verbe ou à la fin de la phrase.
 – Je _bien_ dors.  
 **mi sona hau.** 
 – Je dors _bien_.  
-**tu bashe pandunia hau.** 
+**tu basha pandunia hau.** 
 – Tu parles pandunia _bien_.
 
 
@@ -72,9 +72,9 @@ Ainsi,
 
 Les modificateurs peuvent être comparés.
 
-**max**
+**mas**
 ('plus') marque le comparatif de supériorité  
-**maxim**
+**masim**
 ('le plus') marque le superlatif de supériorité  
 **min**
 ('moins') marque le comparatif d'infériorité  
@@ -85,7 +85,7 @@ Les modificateurs peuvent être comparés.
 
 La particule **ko** met en relation les adverbes de comparaison à l'élément comparé.
 
-**mi es max hau ka tu.**
+**mi e mas hau ka tu.**
 = Je suis meilleur que toi.  
 **tu loge par hau ka mi.**
 = Tu parles aussi bien que moi.

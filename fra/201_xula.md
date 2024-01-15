@@ -24,22 +24,22 @@ est toujours neutre sur le plan de la politesse et de l'intimité.
 **sal!**
 = Salut!  
 <big>☺</big>g>
-**tu es ke?**
+**tu e ke?**
 = Qui es-tu ?  
 <big>☻</big>g>
-**mi es Yusef. tu es ke?**
+**mi e Yusef. tu e ke?**
 = Je suis Yusef. Qui est-tu ?  
 <big>☺</big>g>
-**mi es Sara. da es ke?**
+**mi e Sara. da e ke?**
 = Je suis Sara. Qui est-ce ?  
 <big>☻</big>g>
-**da es mi su doste.**
+**da e mi su dosti.**
 = C'est mon amie.  
 <big>☺</big>g>
-**da su nam es ke?**
+**da su nam e ke?**
 = Quel est son nom ?  
 <big>☻</big>g>
-**da su nam es Maria.**
+**da su nam e Maria.**
 = Son nom est Maria.
 
 ### Grammaire
@@ -47,34 +47,34 @@ est toujours neutre sur le plan de la politesse et de l'intimité.
 Les phrases en Pandunia suivent normalement la structure sujet-commentaire.
 Le sujet indique de qui ou de quoi on parle.
 Le commentaire dit quelque chose sur le sujet. Par exemple, dans
-**da es mi su doste**
+**da e mi su dosti**
 le sujet est le pronom **da** (il, elle, il neutre), suivi du commentaire
-**es mi su doste**
+**es mi su dosti**
 (est mon amie).
 
 Le mot **es** signifie _être_ en Pandunia.
 Le même mot est utilisé pour toutes les personnes. 
 Et pour dire le contraire, remplacez le simplement par **no** (qui signifie à la fois _ne pas_ et _non_)
 
-**da es Sara.**
+**da e Sara.**
 = C'est Sara.  
-**da no es Sara.**
+**da no e Sara.**
 = Ce n'est pas Sara.
 
-**mau es hevan.**
+**mau e hevan.**
 = Le chat est un animal.  
-**dom no es hevan.**
+**dom no e hevan.**
 = La maison n'est pas un animal.  
 
 De la même façon, vous pouvez vous décrire en utilisant
 **mi**
 suivi d'un mot pour vous décrire.
 
-**mi es hau.**
+**mi e hau.**
 – Je vais bien (Je suis bien).  
-**mi es man.**
+**mi e man.**
 – Je suis un homme.  
-**mi es fem.**
+**mi e fem.**
 – Je suis une femme.
 
 
@@ -114,7 +114,7 @@ oui
 non ; ne pas être  
 **hau**
 bon  
-**doste**
+**dosti**
 ami  
 **nam**
 nom  
@@ -244,7 +244,7 @@ saluer
 mère, maman  
 **papa**
 père, papa  
-**xefe**
+**shefe**
 chef, patron
 
 
@@ -270,13 +270,13 @@ chef, patron
 **halo! ching side.**
 = Bonjour ! Asseyez-vous je vous prie !  
 <big>🧒</big>
-**xukre.**
+**shukre.**
 = Merci.  
 <big>🧓</big>
-**ching yam kafe o cai.**
+**ching yam kafe o cha.**
 = Prenez du thé ou du café, je vous prie
 <big>🧒</big>
-**mi vol cai. xukre.**
+**mi vol cha. shukre.**
 = Je prends du thé, merci.  
 ...  
 <big>🧓</big>
@@ -356,9 +356,9 @@ est un modèle très utile pour les formules de politesses.
 = Asseyez-vous s'il vous plaît..  
 **ching don  kafe.**
 = S'il vous plaît, donnez-moi du café.  
-**ching don cai.**
+**ching don cha.**
 = S'il vous plaît, donnez-moi du thé. 
-**ching yam cai.**
+**ching yam cha.**
 = S'il vous plaît, prenez un peu de thé.  
 **ching saf kamar.**
 = Nettoyez la chambre s'il vous plaît
@@ -368,7 +368,7 @@ Les ordres sont données avec
 (ordonner). Ils utilisent la même structure de pivot que les requêtes avec
 **ching**.
 
-**amir don cai.**
+**amir don cha.**
 = Donnez-moi du thé !  
 **amir saf kamar.**
 = Nettoiez la chambre !
@@ -395,13 +395,13 @@ Essayez de traduire ces phrases du Français au Pandunia.
 
 **amir**
 ordonner  
-**cai**
+**cha**
 thé  
 **ching**
 demander (poliment), s'il-vous-plaît  
 **don**
 donner  
-**xukre**
+**shukre**
 merci  
 **e**
 et  
@@ -436,22 +436,22 @@ manger ou boire, consommer
 ### Dialogue
 
 <big>👩‍🍳</big>
-**sal! sual tu yam kafe o cai?**
+**sal! sual tu yam kafe o cha?**
 = Bonjour ! Prenez-vous du café ou du thé ?  
 <big>🧔</big>
-**cai.**
+**cha.**
 = Du thé.  
 <big>👩‍🍳</big>
 **tu ne?**
 = Et vous ?  
 <big>🧓</big>
-**mi no baxe pandunia...**
+**mi no basha pandunia...**
 = Je ne parle pas le Pandunia...  
 <big>👩‍🍳</big>
-**maf! sual da yam cai?**
+**maf! sual da yam cha?**
 = Pardon ! prend-il du thé ?  
 <big>🧔</big>
-**no. da no yam cai. da yam kafe.**
+**no. da no yam cha. da yam kafe.**
 = Non. Il ne prend pas de thé. Il prend du café.  
 <big>👩‍🍳</big>
 **sual tu yam supe?**
@@ -466,7 +466,7 @@ manger ou boire, consommer
 **no yam.**
 = Non.  
 <big>👩‍🍳</big>
-**xukre. mi don un cai e un kafe e un supe pos des minute.**
+**shukre. mi don un cha i un kafe i un supe pos des minute.**
  = Merci. J'apporte un thé, un café et une soupe dans 10 minutes
 
 
@@ -478,11 +478,11 @@ que vous avez appris dans la leçon précédente. Les phrases interrogatives son
 **sual**
 'demander, questionner'.
 
-**mi sual tu yam cai.**
+**mi sual tu yam cha.**
 = Je vous demande e vous buvez du thé.  
-**sual tu yam cai?**
+**sual tu yam cha?**
 = Buvez-vous du thé ?  
-**sual yam cai?**
+**sual yam cha?**
 = Du thé ?
 
 Les demandes s'adressent généralement à des interlocuteurs directs,
@@ -490,7 +490,7 @@ mais les questions, elles, se portent souvent sur d'autres personnes.
 Par conséquent, le deuxième pronom est habituellement nécessaire.
 Il peut être omis seulement quand on a identifié qui est le sujet de la discussion.
 
-**sual da yam cai?**
+**sual da yam cha?**
 = Est-ce qu'il ou elle prend du thé ?  
 **sual tu yam supe?**
 = Prenez-vous de la soupe ?  
@@ -499,11 +499,11 @@ Il peut être omis seulement quand on a identifié qui est le sujet de la discus
 
 Bien sûr, les noms communs et les noms propres peuvent aussi être utilisés.
 
-**sual xefe yam kafe?**
+**sual shefe yam kafe?**
 = Est-ce que le chef prend du café ?  
 **sual papa saf kamar?**
 = Le père nettoie-t-il la chambre ?  
-**sual niki baxe pandunia?**
+**sual niki basha pandunia?**
 = Est-ce que Nicky parle le Pandunia ?
 
 
@@ -567,7 +567,7 @@ pardon, désolé
 minute  
 **no**
 non, pas  
-**baxe**
+**basha**
 parler (une langue)  
 **sui**
 eau  
@@ -695,9 +695,9 @@ est normalement utilisé.
 La question peut être formulée de manière plus spécifique en ajoutant des mots
 pour la personne, le temps, la manière ou la chose si nécessaire.
 
-**da es ke?**
+**da e ke?**
 = Qu'est-ce que c'est ?  
-**da es ke jen?**
+**da e ke jen?**
 = Qui est-il/elle ?  
 **ke jen lai?**
 = Qui vient ? (**ren** = personne)  
@@ -718,7 +718,7 @@ avant la cause ou la raison.
 
 **ke sabu tu suka mau?**
 = Pourquoi aimes-tu les chats ?  
-**de sabu damen es kavai.**
+**de sabu damen e kavai.**
 = Parce qu'ils sont mignons.
 
 Bien entendu, vous pouvez également utiliser
@@ -726,7 +726,7 @@ Bien entendu, vous pouvez également utiliser
 pour exprimer la cause
 ou la raison de quelque chose, même si vous ne réponsez pas à une question.
 
-**mi suka mau ze sabu damen es kavai**
+**mi suka mau ze sabu damen e kavai**
 = J'aime les chats parce qu'ils sont mignons.
 
 ### Exercices
@@ -801,11 +801,11 @@ et
 **sha**.
 Ils peuvent être utilisés pour modifier des noms.
 
-**Sara es mi su pas xefe.**
+**Sara e mi su pas shefe.**
 = Sara est mon ex-patron.  
-**Yusef es mi su zai xefe.**
+**Yusef e mi su zai shefe.**
 = Yusef est mon chef actuel.  
-**Maria es mi su sha xefe.**
+**Maria e mi su sha shefe.**
 = Maria est ma future patronne.
 
 Les mêmes mots sont utilisés lorsque vous parlez d'actions et d'événements dans le temps. Il suffit de mettre le mot avant le verbe.
@@ -834,7 +834,7 @@ ou bien pour souligner le fait que le temps du récit n'a pas changé.
 
 **mi pas ten un mau.**
 = J'ai eu un chat dans le passé.
-**da es hau mau.**
+**da e hau mau.**
 = C'était un bon chat.
 **mi ten un vaf a zai.**
 = J'ai un chien maintenant.
@@ -877,7 +877,7 @@ pain
 repas du matin, petit-déjeuner  
 **den**
 jour  
-**noce**
+**noche**
 nuit, soir  
 **pre**
 avant, d'avant  

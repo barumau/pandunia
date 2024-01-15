@@ -85,17 +85,17 @@ Les verbes au passif prennent la particule **be**.
 
 Les adjectifs se placent généralement devant le nom qu'ils modifient.
 
-**un neu idee**
+**un neu idea**
 – une nouvelle idée  
 **la hau buku**
 – _les livres bonnes_
 
 On compare les adjectifs grâce aux mots
-**max** (_plus_), **maxim** (_le plus_),
+**mas** (_plus_), **masim** (_le plus_),
 **min** (_moins_), **minim** (_le moins_) and **sam** (_aussi, tout autant_).
 Le point de comparison est introduit par **ka** (_que_).
 
-**ye idee es max neu ka vo idee.**
+**ye idea e mas neu ka vo idea.**
 – Cette idée-ci est plus novatrice que cette idée-là.
 
 Les adverbes se placent généralement avant le nom qu'ils modifient, mais pas toujours.
@@ -110,20 +110,20 @@ Les adverbes se placent généralement avant le nom qu'ils modifient, mais pas t
 
 Le mot **no** met le mot qui suit à la forme négative.
 
-**no mi ama da vol cepe da.**
+**no mi ama da vol sepe da.**
 – Pas moi mais lui [qui] veut le prendre.
-**mi no vol cepe da.**
+**mi no vol sepe da.**
 – Je ne veux pas le prendre.  
-**mi vol no cepe da.**
+**mi vol no sepe da.**
 – Je veux _ne pas le prendre_.  
-**mi vol cepe no ye a vo.**
+**mi vol sepe no ye a vo.**
 – Je veux prendre _pas_ ceci_ mais cela.
 
 
 ### Questions
 
 Les mot interrogatif est
-**ke** (_quoi, qui, qu'est-ce que, qu'est-ce qui_).
+**ke** (_quoi, qui, qu'est-che que, qu'est-che qui_).
 
 C'est l'ordre des mots d'une phrase affirmative qui sert pour les questions.
 
