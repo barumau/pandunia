@@ -118,7 +118,7 @@ Pandunia words can be ambiguous because they often have more meanings compared t
 
 But actually the meaning is clear in the real context:
 
-**pre tri nen, mi ha du mau i un vaf. mi ha max un fem ben. da ai mau!**
+**pre tri nen, mi ha du mau i un vaf. mi ha mas un fem ben. da ai mau!**
 – Three years ago, I had two cats and a dog. I also had a daughter. _She loved the cats!_
 
 ### Time
@@ -170,13 +170,13 @@ The adverb can be tagged with **di**.
 – You seemingly love him/her.
 
 Modifiers are compared with
-**max** 'more, -er', **maxim** 'most, -est',
+**mas** 'more, -er', **masim** 'most, -est',
 **min** 'less', **minim** 'least' and **par** 'equally, as'.
 The point of comparison is introduced with **ka** 'than, as'.
 
-**tu e max sen ka mi.**
+**tu e mas sen ka mi.**
 – You are older than me.  
-**tu e maxim sen.**
+**tu e masim sen.**
 – You are the oldest.
 
 ### Questions

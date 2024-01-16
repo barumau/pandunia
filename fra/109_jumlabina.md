@@ -25,11 +25,11 @@ Dans les phrases les plus simples, le sujet est un nom ou un pronom et le prédi
 – C'est nouveau.  
 **da Sara.**
 – C'est Sarah.  
-**Sara es hau.**
+**Sara e hau.**
 – Sarah va bien.  
-**seku es dai.**
+**seku e dai.**
 – La pierre est grosse.  
-**meza es neu.**
+**meza e neu.**
 – La table est neuve.  
 
 The word **no** is added to form the negative.
@@ -41,21 +41,26 @@ The word **no** is added to form the negative.
 **da no Sara.** 
 – Ce n'est pas Sarah.
 
-Il est possible d'ajouter le mot **si** (oui) avant le prédicat dans des phrases affirmatives, selon le style et la praticité.
+Il est possible d'ajouter le mot
+**ya**
+(oui) avant le prédicat dans des phrases affirmatives, selon le style et la praticité.
 Dans ce cas la structure est similaire à celle des phrases négatives.
 
-**Sara es hau.** 
+**Sara e hau.** 
 – Sarah va bien.  
-**la seku es dai.** 
+**la seku e dai.** 
 – La pierre est grosse.  
-**la meza es neu.** 
+**la meza e neu.** 
 – La table est neuve.  
 **la meza no lau.** 
 – La table n'est pas vieille.
 
-De plus, deux pronoms personnels peuvent être combinés avec **si** et **no**.
+De plus, deux pronoms personnels peuvent être combinés avec
+**ya**
+et
+**no**.
 
-**mi es da.** 
+**mi e da.** 
 – Moi, c'est lui / elle.  
 **mi no tu.** 
 – Je ne suis pas toi.
@@ -64,14 +69,14 @@ De plus, deux pronoms personnels peuvent être combinés avec **si** et **no**.
 
 La même règle s'applique aussi pour deux adjectifs.
 
-**jun es mei.** 
+**jun e mei.** 
 – (Être) jeune, c'est beau.  
 **neu no lau.** 
 – Neuf, ce n'est pas vieux.  
 
 ### Quand le sujet est un verbe
 
-**gani es hau.**
+**gani e hau.**
 – Chanter, c'est bon.
 
 
@@ -95,7 +100,8 @@ Dans une phrase passive, l'attention se focalise sur le sujet qui reçoit ou sub
 Donc l'objet de l'action est le sujet de la phrase.
 Souvent, le complément d'agent n'est pas mentionné du tout.
 
-En pandunia, la voix passive est marquée par le verbe auxiliaire **be**.
+En pandunia, la voix passive est marquée par le verbe auxiliaire
+**be**.
 
 **tu be vide.**
 – Tu es vu.e.  
@@ -103,10 +109,11 @@ En pandunia, la voix passive est marquée par le verbe auxiliaire **be**.
 – De la musique est entendue.  
 **ban be baka.**
 – Du pain est cuit.  
-**kupa be parce.**
+**kupa be parche.**
 – La tasse se brise. (La tasse est brisée.)
 
-L'agent peut être introduit après le verbe à l'aide de la particule **da**.
+L'agent peut être introduit après le verbe à l'aide de la particule
+**da**.
 
 **tu be vide de mi.**
 – Tu es vu.e par moi.
@@ -125,9 +132,16 @@ Il est à la fois l'objet du verbe 1 et du sujet du verbe 2.
 **mi vol tu yam yo fito.**
 – Je veux tu manges légumes. (Je veux que tu manges des légumes.)
 
-Dans l'exemple ci-dessus, **mi vol** a pour objet **tu**.
-En même temps, **tu** fonctionne comme le sujet du prédicat suivant : **yam yo fito**.
-Donc **tu** est le _pivot_ de la phrase entière.
+Dans l'exemple ci-dessus,
+**mi vol**
+a pour objet
+**tu**.
+En même temps,
+**tu**
+fonctionne comme le sujet du prédicat suivant :
+**yam yo fito**. Donch
+**tu**
+est le _pivot_ de la phrase entière.
 
 
 ## Suite de verbes
@@ -148,9 +162,9 @@ C'est particulièrement valable pour l'expression d'ordres et de demandes.
 
 ### Structure pivot brève (VOVO)
 
-**mi sual tu bashe pandunia.**
+**mi sual tu basha pandunia.**
 – Je demande (si) tu parles pandunia.  
-**sual tu bashe pandunia?**
+**sual tu basha pandunia?**
 – Est-ce que tu parles pandunia ?
 
 ###. Short pivot structure (VVO)
@@ -167,14 +181,14 @@ C'est particulièrement valable pour l'expression d'ordres et de demandes.
 
 ### Conjonctions de base
 
-**e**
+**i**
 – et (connecte deux mots ou phrases semblables)
 **o**
 – ou (connecte deux mots ou phrases alternatifs)
 **ama**
 – mais (introduit un mot ou une phrase qui vient en contraste ou en contradiction du mot ou de la phrase précédents)
 
-**mi suka mau e vaf.**
+**mi suka mau i vaf.**
 – J'aime les chats et les chiens.  
 **mi suka mau o vaf.**
 – J'aime les chats ou les chiens.  
@@ -190,29 +204,42 @@ C'est particulièrement valable pour l'expression d'ordres et de demandes.
 
 #### Particule affirmative
 
-La particule **ya** est affirmative et la particule **no** est négative.
-**ya** affirme l'existence de quelque chose, tandis que **no** la nie.
+La particule
+**ya**
+est affirmative et la particule
+**no**
+est négative.
+**ya**
+affirme l'existence de quelque chose, tandis que
+**no**
+la nie.
 
-Une expression est affirmative par défaut, donc le mot **ya** n'est pas toujours nécessaire.
+Une expression est affirmative par défaut, donc le mot
+**ya**
+n'est pas toujours nécessaire.
 
 
-**mi es jen.** 
+**mi e jen.** 
 – Je suis une personne.  
-**da ya es neu meza.**
+**da ya e neu meza.**
 – C'est une nouvelle table.
 
 #### Particule négative
 
-La négation de phrases telles que ci-dessus s'exprime simplement par **no**.
+La négation de phrases telles que ci-dessus s'exprime simplement par
+**no**.
 
-**mi no es jen.** 
+**mi no e jen.** 
 – Je ne suis pas une personne.  
-**da no es neu meza.**
+**da no e neu meza.**
 – Ce n'est pas une nouvelle table.
 
-Le mot **no** sert à marquer la négation de n'importe quel élément dans la phrase.
+Le mot
+**no**
+sert à marquer la négation de n'importe quel élément dans la phrase.
 Il affecte toujours le mot qui le suit.
-Le sens de la phrase change donc selon l'emplacement du **no**.
+Le sens de la phrase change donc selon l'emplacement du
+**no**.
 
 **mi vide tu.**
 – Je te vois.  
@@ -237,7 +264,11 @@ Les particules **ya** et **no** sont également utilisées pour répondre aux qu
 **no. (mi no vide tu.)** 
 – Non. (Je ne te vois pas.)
 
-On répond aux phrases interro-négatives de façon à ce que **ya** et **no** s'appliquent au verbe, et non pas à la question entière.
+On répond aux phrases interro-négatives de façon à ce que
+**ya**
+et
+**no**
+s'appliquent au verbe, et non pas à la question entière.
 
 **sual tu no vide mi?** 
 – Ne me vois-tu pas ?  
@@ -249,9 +280,15 @@ On répond aux phrases interro-négatives de façon à ce que **ya** et **no** s
 
 ### Particules modificatrices
 
-Les particules **di** et **de** servent à relier un nom, un adjectif ou une proposition subordonnée à un autre nom pour le modifier.
-**di** relie le mot ou la proposition qui modifie au nom principal.
-**de** fonctionne de manière inverse, il connecte le nom principal au mot modificateur ou à la subordonnée.
+Les particules
+**di**
+et
+**de**
+servent à relier un nom, un adjectif ou une proposition subordonnée à un autre nom pour le modifier.
+**di**
+relie le mot ou la proposition qui modifie au nom principal.
+**de**
+fonctionne de manière inverse, il connecte le nom principal au mot modificateur ou à la subordonnée.
 
 ### 9.2.2. Modification par des groupes nominal
 
@@ -278,15 +315,20 @@ Ces particules permettent également de créer des mots-mesures.
 – un sac de pommes de terre
 **du sake di patate**
 – deux sacs de pommes de terre
-**max sake di patate**
+**mas sake di patate**
 – plus / davantage de sacs de pommes de terre
 
-Remarque : **di** et **de** connectent des propositions.
-Donc un groupe de mots peut prendre un sens tout à fait différent avec ou sans **du**.
+Remarque :
+**di**
+et
+**de**
+connectent des propositions.
+Donc un groupe de mots peut prendre un sens tout à fait différent avec ou sans
+**di**.
 
-**max mei hua**
+**mas mei hua**
 – des fleurs plus belles  
-**max de mei hua**
+**mas di mei hua**
 – davantage de belles fleurs (de belles fleurs en plus grande quantité)
 
 
@@ -316,7 +358,9 @@ Des langues de l'Asie de l'Est, y compris le chinois et le japonais, utilisent e
 
 En pandunia, une particule modale modifie le mot qui la suit, ou bien toute la phrase si cette particule est le dernier mot de la phrase.
 
-La particule **plus** _(aussi, également)_ en est un bon exemple car elle fonctionne plutôt comme en français.
+La particule
+**plus**
+('aussi, également') en est un bon exemple car elle fonctionne plutôt comme en français.
 
 **da yam bir plus.**
 – Elle boit de la bière, _en plus_.  
@@ -343,18 +387,21 @@ Elles fonctionnent comme des adjectifs et des verbs, donc elles se placent gén�
 **bil, mi sha ha mau.**
 – Peut-être que j'aurai des chats.
 
-On peut aussi utiliser une expression temporelle telle que **sa pase** (dans le passé), etc.
+On peut aussi utiliser une expression temporelle telle que
+**a pas**
+(dans le passé), etc.
 
-**mi ha mau na pas zaman.**
+**mi ha mau a pas zaman.**
 – J'avais des chats dans le passé.  
-**ama mi no ha mau na zai zaman.**
+**ama mi no ha mau a zai zaman.**
 – Mais je n'ai plus de chats à présent.  
-**bil, mi ha mau na sha zaman.**
+**bil, mi ha mau a sha zaman.**
 – Peut-être aurai-je des chats à l'avenir.
 
 Remarque : les verbes ne sont pas conjugués.
-Donc le verbe **ha** n'a pas été modifié, sa forme est restée la même à tous les temps dans les exemples ci-dessus.
+Donc le verbe
+**ha**
+n'a pas été modifié, sa forme est restée la même à tous les temps dans les exemples ci-dessus.
 
 Naturellement les indications temporelles ne servent que quand elles sont nécessaires.
 En principe il suffit de ne mentionner le temps qu'une seule fois au début du texte et non pas à chaque phrase, si le temps ne change pas.
-

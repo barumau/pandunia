@@ -576,9 +576,9 @@ The the remaining syntactic construction is `verb₁–pivot–verb₂–object`
 – I ask (whether) you come come?  
 **sual tu lai dom.**
 – Do you come come?  
-**mi ashe tu yam max fite.**
+**mi ashe tu yam mas fite.**
 – I wish you would eat more vegetables.  
-**ashe tu yam max fite.**
+**ashe tu yam mas fite.**
 – Wish you would eat more vegetables.
 
 In commands and requests also the second participant can be left out
@@ -1032,15 +1032,15 @@ The particles help in creating measure words too.
 – one sack of potatoes  
 **du sake di patate**
 – two sacks of potatoes  
-**max sake di patate**
+**mas sake di patate**
 – more sacks of potatoes
 
 Note that **di** and **de** connect phrases together.
 So a modifier phrase with and without **de** can mean a different thing.
 
-**max mei hua**
+**mas mei hua**
 – more beautiful flowers  
-**max de mei hua**
+**mas de mei hua**
 – more of beautiful flowers
 
 #### Modification with verb phrases

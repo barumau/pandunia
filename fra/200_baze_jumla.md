@@ -50,7 +50,7 @@ Bonne journée !
 **sal sham!**
 Bonsoir !
 
-**sal noce!**
+**sal noche!**
 Bonne nuit !
 
 **sal yam!**
@@ -68,10 +68,14 @@ Bon voyage !
 **sal sona!**
 Dors/dormez bien !
 
-Astuce : Comme vous le voyez à travers cette gamme d’expressions, **sal** est un mot générique pour souhaiter du bien à quelqu’un. Utilisez-le souvent !
+Astuce : Comme vous le voyez à travers cette gamme d’expressions,
+**sal**
+est un mot générique pour souhaiter du bien à quelqu’un. Utilisez-le souvent !
 
 
-<small>Étymologie : **sal** vient de l'arabe سَلَام‏ "salām", en hébreu il se dit : שָׁלוֹם‏ "šalom", en turc "selam", en Hindi सलाम "salām", en swahili "salaam" et en indonésien "selamat".</small>
+<small>Étymologie :
+**sal**
+vient de l'arabe سَلَام‏ "salām", en hébreu il se dit : שָׁלוֹם‏ "šalom", en turc "selam", en Hindi सलाम "salām", en swahili "salaam" et en indonésien "selamat".</small>
 
 
 ### xukre <small>merci</small>
@@ -79,45 +83,45 @@ Astuce : Comme vous le voyez à travers cette gamme d’expressions, **sal** est
 <p style="font-size:5em;">🙏</p>
 
 
-**xukre!**
+**shukre!**
 Merci!
 
-**poli xukre!**
+**poli shukre!**
 Merci beaucoup !
 
-**ya, xukre.**
+**ya, shukre.**
 Oui, merci.
 
-**no, xukre.**
+**no, shukre.**
 Non, merci.
 
-**xukre tu.**
+**shukre tu.**
 Merci à toi.
 
-**mi xukre tu.**
+**mi shukre tu.**
 Je te / vous remercie.
 
-**mi xukre tu mede mi.**
+**mi shukre tu mede mi.**
 Je te remercie de m'avoir aidé.
 
-**xukre tu mede mi.**
+**shukre tu mede mi.**
 Merci de m'avoir aidé.
 
-**no yau xukre.**
+**no yau shukre.**
 Je t'en prie. / Il n'y a pas de quoi.
 
 
 ### es <small>être</small>
 
-**mi es Tomas.**
+**mi e Tomas.**
 Je suis Thomas.
 
 ### mi <small>je, me, moi</small>
 
-**mi es Sara.**
+**mi e Sara.**
 Je suis Sara.
 
-**mi es Tomas.**
+**mi e Tomas.**
 Je suis Thomas.
 
 Vous pouvez vous présenter simplement en utilisant **me** et votre prénom ; le verbe "être" est optionel.
@@ -149,7 +153,7 @@ Salutations, père ! | Salut papa !
 
 ### tu <small>tu, te, toi</small>
 
-**tu es Tomas.**
+**tu e Tomas.**
 Tu es Thomas.
 
 **mi salam tu.**
@@ -168,40 +172,45 @@ Je t'aime.
 
 ### da <small>Il, elle, ou il neutre</small>
 
-**da es man.**
+**da e man.**
 C'est un homme.
 
-**da es fem.**
+**da e fem.**
 C'est une femme.
 
-**da es aple.**
+**da e aple.**
 C'est une pomme.
 
-**da** est le pronom général de la troisième personne.
+**da**
+est le pronom général de la troisième personne.
 Il est utilisé aussi bien pour les personnes (quel que soit leur sexe) que pour les choses.
 
 **mi salam da.**
 Je le/la salue.
 
-<small>Étymologie : **da** vient du
+<small>Étymologie :
+**da**
+vient du
 mandarin 他/她 (tā).</small>
 
 
 
 ### sual <small>Pour poser une question (est-ce que)</small>
 
-**sual tu es Tomas?**
+**sual tu e Tomas?**
 Es-tu Thomas ?
 
-**sual tu es davar?**
+**sual tu e davar?**
 Êtes-vous docteur ?
 
-**Astuce :** Les questions auxquelles on peut répondre par oui ou par non commencent souvent par
+Astuce : Les questions auxquelles on peut répondre par oui ou par non commencent souvent par
 **sual**.
 C'est un simple verbe régulier et non un marqueur interrogatif particulier.
 En fait, la dernière question est une simple abréviation de
 **mi sual tu davar**
-(je vous demande si vous êtes doctor) ou le premier mot – le pronom personnel **mi** –, est supprimé.
+(je vous demande si vous êtes doctor) ou le premier mot – le pronom personnel
+**mi**
+–, est supprimé.
 
 **sual tu hau?**
 Comment vas-tu ? (litéralement : _Est-ce que tu vas bien_)  
@@ -225,26 +234,26 @@ souheli _swali_.</small>
 
 ### ya <small>oui</small>
 
-**sual tu es Tomas?**
+**sual tu e Tomas?**
 Es-tu Thomas.
 
-**ya, mi es Tomas.**
+**ya, mi e Tomas.**
 Oui, je suis Thomas.
 
-**sual da es davar?**
+**sual da e davar?**
 Est-il/elle doctor ?
 
-**ya, da es davar.**
+**ya, da e davar.**
 Oui, il/elle est doctor.
 
 
 
 ### no <small>Ne pas</small>
 
-**mi no es Sara.**
+**mi no e Sara.**
 Je ne suis pas Sara.
 
-**mi no es davar.**
+**mi no e davar.**
 Je ne suis pas doctor.
 
 **sual tu hau?**
@@ -257,12 +266,19 @@ Est-ce que tu vas bien ?
 **no, mi no hau.**
 Non, je ne vais pas bien.
 
-Vous pouvez utiliser **no** pour mettre une phrase à la forme négative. La négation s'applique au mot qui le suit.
+Vous pouvez utiliser
+**no**
+pour mettre une phrase à la forme négative. La négation s'applique au mot qui le suit.
 
 **da no salam mi.**
 Il/elle ne me salue pas.
 
-<small>Étymologie : **no** vient de l'espagnol "no", en anglais il se dit "no", en français "non".</small>
+<small>Étymologie :
+**no**
+vient de
+l'espagnol "no",
+en anglais il se dit "no",
+en français "non".</small>
 
 
 
@@ -290,13 +306,13 @@ Vous les saluez.
 **damen sal mimen!**
 Ils nous saluent.
 
-**mimen es fem.**
+**mimen e fem.**
 Nous sommes des femmes.
 
-**tumen es man.**
+**tumen e man.**
 Vous êtes des hommes.
 
-**damen es aple.**
+**damen e aple.**
 Ce sont des pommes.
 
 
@@ -305,93 +321,113 @@ Ce sont des pommes.
 
 **ke?** Quoi ?
 
-**tu es ke?**
+**tu e ke?**
 Qui es-tu ?  
-**mi es Tomas.**
+**mi e Tomas.**
 Je suis Thomas.
 
-**da es ke?**
+**da e ke?**
 Qui est-il/elle ?  
-**da es Sara.**
+**da e Sara.**
 C'est Sara.
 
-**tumen es ke?**
+**tumen e ke?**
 Qui êtes-vous ?
 
-**damen es ke?**
+**damen e ke?**
 Qui sont-ils ?
 
-<small>Étymologie : **ke** vient de l'espagnol "qué", en portugais il se dit "que", en italien "che" et en bengali: কী "ki".</small>
+<small>Étymologie :
+**ke**
+vient de
+l'espagnol "qué",
+en portugais il se dit "que",
+en italien "che"
+et en bengali: কী "ki".</small>
 
 
 
 ### ye e vo <small>ce … (-ci), cet.te … (-ci), ces … (-ci), ceci</small>
 
-**ye es ke?**
+**ye e ke?**
 Qu’est-ce que c’est que ceci ?
 
-**vo es ke?**
+**vo e ke?**
 Qu’est-ce que c’est que ça ?
 
-**ye es aple.**
+**ye e aple.**
 Ceci est une pomme.
 
-**ye es rubi aple.**
+**ye e rubi aple.**
 Ceci est une pomme rouge.
 
-**ye aple es rubi.**
+**ye aple e rubi.**
 Cette pomme est rouge.
 
-**ye es rubi.**
+**ye e rubi.**
 C'est rouge. / Ceci est rouge.
-
-
 
 
 ### su <small>particule possessive</small>
 
-**ye es ke?**
+**ye e ke?**
 Qu'est-ce que c'est ?
 
-**da es mi su telefon.**
+**da e mi su telefon.**
 C'est mon téléphone.
 
-**ye es ke su?**
+**ye e ke su?**
 À qui est-ce ?
 
-**da es mi su.**
+**da e mi su.**
 C'est à moi.
 
-**Note :** La particule possessive **di** se place entre le possesseur et la chose possédée.
-Ainsi **mi di** signifie "mon, ma, mes", **tu di** signifie "ton, ta, tes" et ainsi de suite.
+Note : La particule possessive
+**su**
+se place entre le possesseur et la chose possédée.
+Ainsi
+**mi su**
+signifie "mon, ma, mes",
+**tu su**
+signifie "ton, ta, tes" et ainsi de suite.
 
-**da es ke?**
+**da e ke?**
 Qui est-ce ?
 
-**da es mi su doste.**
+**da e mi su dosti.**
 C'est mon ami(e).
 
-**mi es Sara su doste.**
+**mi e Sara su dosti.**
 Je suis l'ami(e) de Sara.
 
-<small>Étymologie : **su** vient du anglais _'s_.</small>
+<small>Étymologie :
+**su**
+vient du anglais _'s_
+et de l'espagnol *su*.</small>
 
 
 ### nam <small>nom</small>
 
-**tu su nam es ke?**
+**tu su nam e ke?**
 Quel est ton nom?
 
-**mi su nam es Tomas.**
+**mi su nam e Tomas.**
 Mon nom est Thomas.
 
-**da su nam es ke?**
+**da su nam e ke?**
 Quel est son nom ?
 
-**da su nam es Sara.**
+**da su nam e Sara.**
 Son nom est Sara.
 
- <small>Étymologie : **nam** vient du hindi  नाम "nām", il se dit en farsi نام‏‎ "nām", en thaï นาม "naam", en indonésien "nama", en japonais 名前 "namae", en allemand "Name", en anglais "name".</small>
+<small>Étymologie :
+**nam**
+vient du hindi  नाम "nām",
+il se dit en farsi نام‏‎ "nām",
+en thaï นาม "naam", en indonésien "nama",
+en japonais 名前 "namae",
+en allemand "Name",
+en anglais "name".</small>
 
 
 ### ha <small>verbe avoir ; il y a </small>
@@ -412,12 +448,12 @@ J’ai deux enfants.
 
 **sual ha davar?**
 Est-ce qu’il y a un médecin ?  
-**ya. da es davar.**
+**ya. da e davar.**
 Oui. Il/elle est médecin.
 
 **sual ha vin?**
 Est-ce que tu as du vin?  
-**ya. baki e rubi.**
+**ya. baki i rubi.**
 Oui, du blanc et du rouge.
 
 
@@ -467,7 +503,9 @@ Il/elle mange une pomme.
 Ils/elles mangent des pommes.
 
 Remarque : Contrairement au français, le pandunia n’a pas de formes singulier et pluriel séparées.
-Ainsi, un mot comme **aple** peut signifier une ou plusieurs pommes.
+Ainsi, un mot comme
+**aple**
+peut signifier une ou plusieurs pommes.
 
 **sual tu yam kafe?**
 Est-ce que tu bois du café ?
@@ -475,11 +513,13 @@ Est-ce que tu bois du café ?
 **ya. mi yam kafe.**
 Je bois du café.
 
-Astuce : Le sens de **yam** regroupe à la fois l’idée de manger et de boire.
+Astuce : Le sens de
+**yam**
+regroupe à la fois l’idée de manger et de boire.
 Cela peut sembler bizarre au début mais vous verrez que c’est plutôt pratique !
 Habituellement, l’objet du verbe dit s’il s’agit de quelque chose qu’on mange, qu’on boit ou les deux.
 
-**mi yam kafe e ban.**
+**mi yam kafe i ban.**
 Je prends un café et du pain.
 
 
@@ -493,14 +533,16 @@ Est-ce que tu veux manger ?
 Qu’est-ce que tu veux manger ?
 
 Astuce : en français, à l’écrit, le « quoi » est plutôt en début de question, mais en pandunia,
-l’ordre des mots n’est pas changé par **ke**, un peu comme en français à l’oral : « tu veux manger quoi ? ».
+l’ordre des mots n’est pas changé par
+**ke**,
+un peu comme en français à l’oral : « tu veux manger quoi ? ».
 
 **mi vol yam kafe.**
 Je veux boire un café.
 
-**sual tu vol yam cai?**
+**sual tu vol yam cha?**
 Est-ce que tu veux (boire) du thé ?  
-**no. mi no vol cai. mi vol kafe.**
+**no. mi no vol cha. mi vol kafe.**
 Non, Je ne veux pas de thé. Je veux du café.
 
 **tu vol ke aple?**
@@ -512,7 +554,7 @@ La rouge. (mot à mot _cette rouge-ci_)
 
 ### ching <small>demander, s’il vous plait</small>
 
-**mi ching tu yam cai.**
+**mi ching tu yam cha.**
 Je te demande si tu veux du thé.
 
 **mi ching tu lai dom.**
@@ -523,7 +565,7 @@ Je te demande de m’aider.
 
 Astuce : Pour créer des demandes directes, retirez les pronoms.
 
-**ching yam cai.**
+**ching yam cha.**
 Prenez un thé, je vous en prie !
 
 **ching yam kafe.**
@@ -574,10 +616,10 @@ Est-ce que tu as soif ?
 **maf! mi no aha.**
 Désolé, je ne comprends pas.
 
-**maf! ye es ke?**
+**maf! ye e ke?**
 Excusez-moi, qu’est-ce que c’est ?
 
-**maf. tu su nam es ke?**
+**maf. tu su nam e ke?**
 Pardon, quel est ton nom ?
 
 
@@ -596,20 +638,20 @@ Désolé, je ne t’ai pas compris.
 **mi no bas aha tu.**
 Je ne t’ai pas bien compris.
 
-**mi aha no xe.**
+**mi aha no she.**
 Je n’ai rien compris du tout.
 
 
 
 ### bil <small>pouvoir, savoir</small>
 
-**mi bil xofe un kar.**
+**mi bil shofe un kar.**
 Je sais conduire une voiture.
 
-**da no bil xofe un kar.**
+**da no bil shofe un kar.**
 Il/elle ne sait pas conduire une voiture.
 
-**sual tu bil xuli da?**
+**sual tu bil shuli da?**
 Est-ce que tu sais réparer ça ?
 
 **sual tu bil pandunia?**
@@ -621,10 +663,10 @@ Je peux parler pandunia.
 **mi bil kam pandunia.**
 Je peux parler un peu pandunia.
 
-**mi no bil englix.**
+**mi no bil english.**
 Je ne parle pas anglais.
 
-**maf. mi no bil tu su bashe.**
+**maf. mi no bil tu su basha.**
 Désolé, je ne parle pas votre langue.
 
 
@@ -640,10 +682,10 @@ Je te parle. (mot à mot : _je parle à toi_)
 **mimen loge to semen.**
 Nous nous parlons. (mot à mot : _nous parlons à l’un l’autre_)
 
-**se loge "cat" a ke yang a pandunia?**
+**se loge "chat" a ke yang a pandunia?**
 Comment se dit « chat » en pandunia ?
 
-**"chat" es ke a pandunia?**
+**"chat" e ke a pandunia?**
 Qu’est-ce que c’est, « chat», en pandunia ?
 
 **mau loge miau.**
@@ -658,7 +700,7 @@ Un chat dit miaou.
 **mi no bil audi tu.**
 Je ne t’entends pas. (Je n’arrive pas à t’entendre)
 
-**ching loge max bala.**
+**ching loge mas bala.**
 Parlez plus fort, s’il vous plait.
 
 **mi audi muzika.**
@@ -685,7 +727,7 @@ Je l’ai vu(e) hier.
 
 ### seme <small>signifier, vouloir dire</small>
 
-**ye lexi ya seme ke?**
+**ye leshi ya seme ke?**
 Que veut dire ce mot ?
 
 **"mau" ya seme ke?**
@@ -709,13 +751,13 @@ S’il te plait, écris-le là !
 
 ### bashe <small>communiquer, parler une langue</small>
 
-**sual tumen bashe pandunia.**
+**sual tumen basha pandunia.**
 Est-ce que vous parlez tous pandunia ?
 
-**mimen bashe pandunia.**
+**mimen basha pandunia.**
 Nous parlons pandunia.
 
-**sual tu bil bashe englix?**
+**sual tu bil basha english?**
 Est-ce que tu parles anglais ?
 
 **franse, espanya, portugal, rus**
@@ -843,13 +885,13 @@ Je t’attends à l’hôtel.
 
 ### zai <small>actuellement, en ce moment</small>
 
-**mi zai sal tu su doste.**  
+**mi zai sal tu su dosti.**  
 Je suis en train de saluer ton ami(e).
 
 **la man ya zai vide un filme.**  
 L'homme est en train de regarder la femme.
 
-**da zai es xefe.**  
+**da zai e shefe.**  
 C'est lui le chef / elle la cheffe actuellement.
 
 **da zai a dom.**  
@@ -858,13 +900,13 @@ En ce moment, il / elle est à la maison.
 
 ### pas <small>dans le passé</small>
 
-**mi pas sal tu su doste.**  
+**mi pas sal tu su dosti.**  
 J'ai salué ton ami(e).
 
 **la man ya pas vide un filme.**  
 L'homme a regardé / regardait la filme.
 
-**da pas es xefe.**  
+**da pas e shefe.**  
 C'était lui le chef. / C'était elle la cheffe.
 
 **da pas a dom.**  
@@ -873,13 +915,13 @@ Il / Elle était à la maison.
 
 ### le <small>déjà (action achevée)</small>
 
-**mi le sal tu su doste.**  
+**mi le sal tu su dosti.**  
 J'ai (déjà) salué ton ami(e).
 
 **la man le vide un filme.**  
 L'homme a (déjà) regardé la filme.
 
-**da le es xefe.**  
+**da le e shefe.**  
 Il / Elle a (déjà) été le chef / la cheffe.
 
 **da le a la dom.**  
@@ -888,13 +930,13 @@ Il / elle a (déjà) été à la maison.
 
 ### sha <small>(événement futur)</small>
 
-**mi sha sal tu su doste.**  
+**mi sha sal tu su dosti.**  
 Je saluerai ton ami(e).
 
 **la man sha vide la filme.**  
 L'homme regardera la filme.
 
-**da sha es xefe.**  
+**da sha e shefe.**  
 Il sera chef. / Elle sera cheffe.
 
 **da sha a dom.**  
@@ -926,30 +968,30 @@ Il/elle ne veut pas me le donner.
 
 ### cepe <small>prendre, avoir, recevoir</small>
 
-**mi cepe un kafe.**
+**mi sepe un kafe.**
 Je vais prendre un café.
 
-**ching cepe un kafe to mi.**
+**ching sepe un kafe to mi.**
 Prends-moi un café, s’il te plait.
 
-**tu pas cepe pesa de mi.**
+**tu pas sepe pesa de mi.**
 tu as déjà eu de l’argent de ma part.
 
-**mi cepe un bir.**
+**mi sepe un bir.**
 Je prendrai une bière.
 
 ### kira <small>location, emprunt</small>
 
-**kira es 500 dolar a mes.**  
+**kira e 500 dolar a mes.**  
 La location est de 500 dollars par mois / pour un mois.
 
 **da no bil pei la kira.**  
 Il / Elle ne peut pas payer la location.
 
-**mi vol cepe un gar a kira.**  
+**mi vol sepe un gar a kira.**  
 Je veux prendre une voiture en location.
 
-**mi vol kira cepe un kar.**
+**mi vol kira sepe un kar.**
 Je veux louer une voiture.
 
 **da kira don la kamar to safarer.**

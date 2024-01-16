@@ -16,33 +16,33 @@ Un modificateurs est un mot qui ajoute une qualité ou une description à un aut
 
 Deux adjectifs ou plus peuvent modifier un même mot.
 
-**un shiu neu gar**
+**un shau neu gar**
 – petite voiture neuve
 
 L'adjectif peut se placer aussi après le nom.
 Cette structure peut souvent se lire comme une phrase complète, où l'adjectif fonctionne comme un verbe adjectival, et où le verbe _être_ est sous-entendu.
 
-**la car es neu.** 
+**la char e neu.** 
 – La voiture est neuve.  
-**la bagre es suga.** 
+**la bagre e suga.** 
 – Le tigre est rapide.
 
 Naturellement, il peut y avoir des modificateurs des deux côtés du nom également.
 
-**la neu car es suga.** 
+**la neu char e suga.** 
 – La voiture neuve est rapide.
 
 # Adverbes
 
 ## Modification du verbe
 
-En pandunia, les adverbes se terminent en **-o** et ils se placent avant le verbe ou à la fin de la phrase.
+En pandunia, les adverbes se placent avant le verbe ou à la fin de la phrase.
 
 **mi hau di sona.** 
 – Je _bien_ dors.  
 **mi sona hau.** 
 – Je dors _bien_.  
-**tu bashe pandunia hau.** 
+**tu basha pandunia hau.** 
 – Tu parles pandunia _bien_.
 
 
@@ -72,20 +72,20 @@ Ainsi,
 
 Les modificateurs peuvent être comparés.
 
-- **max**
-  (plus) marque le comparatif de supériorité
-- **maxim**
-  (le plus) marque le superlatif de supériorité
-- **min**
-  (moins) marque le comparatif d'infériorité
-- **minim**
-  (le moins) marque le superlatif d'infériorité
-- **par**
-  (aussi, autant) marque le comparatif d'égalité
+**mas**
+('plus') marque le comparatif de supériorité  
+**masim**
+('le plus') marque le superlatif de supériorité  
+**min**
+('moins') marque le comparatif d'infériorité  
+**minim**
+('le moins') marque le superlatif d'infériorité  
+**par**
+('aussi, autant') marque le comparatif d'égalité
 
 La particule **ko** met en relation les adverbes de comparaison à l'élément comparé.
 
-**mi es max hau ka tu.**
+**mi e mas hau ka tu.**
 = Je suis meilleur que toi.  
 **tu loge par hau ka mi.**
 = Tu parles aussi bien que moi.

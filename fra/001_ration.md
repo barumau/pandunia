@@ -293,7 +293,7 @@ Le Pandunia emprunte des racines de mots occidentaux afin de proposer un vocabul
 | Racine Pandunia | Anglais     | Portugais | Espagnol | Français | Allemand | Russe    |
 | --------------- | ----------- | --------- | -------- | -------- | -------- | -------- |
 | **korte*        | short       | curto     | corto    | court    | kurz     | korotkiy |
-| **neu**         | new         | novo      | nuevo    | nouveau, neuf  | neu      | novıy    |
+| **neu**         | new         | novo      | nuevo    | nouveau, neuf | neu | novıy    |
 | **marce**       | march       | marcha    | marcha   | marche   | Marsch   | marš     |
 | **posta**       | post (mail) | (postal)  | posta    | poste    | Post     | počta    |
 
@@ -334,14 +334,17 @@ L'ordre normal des mots est sujet-verbe-objet - tout comme en anglais ou en chin
     Chinois :   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
     Français :  Je t'aime, et tu m'aimes.
 
-Le verbe **be** est utilisé lorsque l'objet d'une action vient en premier dans la phrase. (C'est ce qu'on appelle la phrase passive.)
+Le verbe
+**be**
+est utilisé lorsque l'objet d'une action vient en premier dans la phrase. (C'est ce qu'on appelle la phrase passive.)
 
     Anglais :   The apples were eaten.
     Pandunia :  aple be yam.
     Chinois :   Píngguǒ bèi chī le. (苹果被吃了。)
     Français :  Les pommes ont été mangées.
 
-**Beyu** est un mot emprunté au chinois standard, mais il est également proche de certaines utilisations de l'anglais "to be".
+**be**
+est un mot emprunté au chinois standard, mais il est également proche de certaines utilisations de l'anglais "to be".
 
     Anglais :   It can not be eaten.
     Pandunia :  da no bil be yam.
@@ -357,16 +360,18 @@ Comme le chinois, le Pandunia ne marque pas les verbes avec un mot comme "to" (f
     
 
 En pandunia et en chinois, les noms peuvent être singuliers ou pluriels selon le contexte.
-Il n'y a pas de terminaison au pluriel comme -s en anglais ou en français et les verbes ne sont pas conjugés. Un seul mot, **si**, est utilisé au lieu de _am, is, are, was, were..._ (_suis, es, est, sommes, êtes, sont, étais, était, étions, étiez…_).
+Il n'y a pas de terminaison au pluriel comme -s en anglais ou en français et les verbes ne sont pas conjugés. Un seul mot,
+**e**,
+est utilisé au lieu de _am, is, are, was, were..._ (_suis, es, est, sommes, êtes, sont, étais, était, étions, étiez…_).
 
     Anglais :   It is an apple.
-    Pandunia :  da es aple.
+    Pandunia :  da e aple.
     Chinois :   Tā shì píngguǒ. (他是苹果。)
     Français :  C'est une pomme.
     
     
     Anglais :   They are apples.
-    Pandunia :  damen es aple.
+    Pandunia :  damen e aple.
     Chinois :   Tāmen shì píngguǒ. (他们是苹果。)
     Français :  Ce sont des pommes.
     
