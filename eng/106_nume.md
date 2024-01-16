@@ -66,7 +66,7 @@ They are put before the word or phrase that they qualify.
 – three stars  
 **kam sing**
 – few stars  
-**men sing**
+**poli sing**
 – many stars
 
 **un dai kursi**

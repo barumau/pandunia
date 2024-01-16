@@ -301,7 +301,7 @@ a normal PoS suffix.
 | Wu         | bi           | 啤(酒)            |
 | Mandarin   | pʰi          | 啤(酒)            |
 
-#### chai 'tea'
+#### cha 'tea'
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -321,7 +321,7 @@ a normal PoS suffix.
 | Portuguese | ʃa           | chá             |
 
 
-#### moter 'motor, engine'
+#### motor 'motor, engine'
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -412,7 +412,7 @@ a normal PoS suffix.
 | Hausa      | adduʕa       | addu'a          |
 | Yoruba     | adura        | àdúrà           |
 
-#### kitabe 'writing'
+#### kitabu 'writing'
 
 This word means _book_ in many languages.
 The original Arabic word means all kinds of writing.
@@ -460,7 +460,7 @@ The word **jen** is combined from several unrelated sources.
     - Urdu کمرا  /kəmra:/ (room)
     - Malay "kamar" (room)
 
-#### kate 'to cut'
+#### kata 'to cut'
 
 - the West
     - English "cut" /kʌt/

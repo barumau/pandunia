@@ -81,11 +81,11 @@ Degree words tell us about the intensity of something.
 – very  
 **bas**
 – quite, sufficiently, enough  
-**max**
+**mas**
 – more  
 **min**
 – less
-**max ka bas**
+**mas ka bas**
 – too  
 
 Degree words are placed before the word that they modify.
@@ -96,7 +96,7 @@ Degree words are placed before the word that they modify.
 – a very big man  
 **un bas dai man**
 – a big enough man / a sufficiently big man
-**un max dai man ka bas**
+**un mas dai man ka bas**
 – a too big man  
 
 A degree word together with a modifier forms a _compound adverb_
@@ -124,9 +124,9 @@ The meaning is the same like when the compound adverb modifies the main verb.
 
 Adjectives can be compared with the adverbs of comparison.
 
-- **max**
+- **mas**
   (_more_) indicates comparison of superiority
-- **maxim**
+- **masim**
   (_most_) indicates the superlative of superiority
 - **min**
   (_less_) indicates comparison of inferiority
@@ -139,7 +139,7 @@ The particle
 **ka**
 relates the adverbs of comparison to the object of comparison.
 
-**aple e max hau ka aranja.**
+**aple e mas hau ka aranja.**
 = Apples are better than oranges.  
 **aranja e min hau ka aple.**
 = Oranges are less good than apples.  

@@ -8,14 +8,16 @@ They are described in more detail later in this document.
    Pandunia is an evenly global language.
    International words are borrowed from all parts of the world to Pandunia.
    They are adapted to the pronunciation and orthography of Pandunia.
-   One base word is admitted and additional words are built from it according to rule 10.
+   One basic word is admitted and additional words are built from it according to rule 10.
 2. **Spelling and pronunciation:**
    Spelling is simple and regular.
    Every word is pronounced exactly as it is written.
    Almost every letter and letter-combination indicates always the same sound.
-3. **Regular accent:**
-   If the word has one or two syllables, the first syllable is accented.
-   If the word has three or more syllables, the second syllable is accented.
+3. **Regular stress accent:**
+   Basic words are stressed on the syllable that is before the last consonant of the word, f.ex.
+   **háu** ('good'), ***dúnia** ('world'), **básha** ('language'), **amén** ('amen').
+   Compound words are stressed according to their component words so that the primary stress is in the main word, f.ex.
+   **trabásha** ('translate'), **dúnialìsme** ('globalism'), **bàsha skóla** ('language school').
 4. **Pronouns:**
     - The personal pronouns are:
      **mi** _I_, **tu** _you_ (sg.), **da** _he/she/it_,
@@ -78,8 +80,8 @@ They are described in more detail later in this document.
    The main word stands at the end.
     - **posta**
       ("mail") +
-      **kasa**
+      **kase**
       ("box") =
-      **posta kasa**
+      **posta kase**
       ("mailbox")
 

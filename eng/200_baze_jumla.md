@@ -697,7 +697,7 @@ Listen to me!
 **mi no bil audi tu.**
 I can't hear you.
 
-**ching loge max bala.**
+**ching loge mas bala.**
 Please speak louder.
 
 **mi audi muzike.**
@@ -1014,10 +1014,10 @@ What is it like?
 **sual da es neu?**
 Is it new?
 
-**ke es max hau?**
+**ke es mas hau?**
 Which is better?
 
-**ye es maxim hau (de pan).**
+**ye es masim hau (de pan).**
 This is the best (of all).
 
 **da kosta ke?**
