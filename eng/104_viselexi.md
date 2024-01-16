@@ -22,7 +22,7 @@ In Pandunia, personal pronouns do not specify whether the person discussed is a 
 For example, in the third person, one word –
 **da**
 – refers to women, men and people of other genders alike.
-It a gender-neutral personal pronoun and it treats everyone equally.
+It is a gender-neutral personal pronoun and it treats everyone equally.
 
 There are three first-person plural pronouns.
 **tumimen**
