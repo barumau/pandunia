@@ -143,6 +143,6 @@ relates the adverbs of comparison to the object of comparison.
 = Apples are better than oranges.  
 **aranja e min hau ka aple.**
 = Oranges are less good than apples.  
-**tu loge par hau ka mi.**
+**tu loga par hau ka mi.**
 = You speak as well as me.
 

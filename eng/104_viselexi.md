@@ -132,7 +132,7 @@ and it is known by the audience or is topical within the discourse.
 **ye e mau. da vol yam vo mushu.**
 – This is a cat. It wants to eat that mouse.
 
-**mi ten un mau i un vaf. la vaf e dai. da yam poli yam.**
+**mi ha un mau i un vaf. la vaf e dai. da yam poli yam.**
 – I have a cat and a dog. The dog is big. It eats a lot of food.
 
 

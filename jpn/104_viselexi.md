@@ -52,7 +52,7 @@
 **semen**
 – お互い
 
-**mi e tu visi semen.**
+**mi i tu visi semen.**
 – 私とあなたはお互いを見る。
 
 **mimen visi semen.**
@@ -92,7 +92,7 @@ mi vol **ye** buku.
 
 指示代名詞の後に動詞が続く場合は、動詞の前に **ya** （否定文の場合には **no**）を置く必要があります。
 
-**ye ya gani e vo no gani.**
+**ye ya gani i vo no gani.**
 – **こいつ**は歌うけど、**あいつ**は歌わない。
 
 （**ye** は「これ」と「この○○」を兼ねるので、**ya** を使わないと文の解釈が難しくなります。たとえば、上の例で **ya** を使わなかった場合、**ye gani**「この歌」と紛らわしいです）
@@ -101,7 +101,7 @@ mi vol **ye** buku.
 <!--topical within the discourse なときにも la を使うと書いてあるけど良い訳が思いつかない-->
 
 
-**ｍi ten un mau i un vaf. la vaf e dai.**
+**ｍi ha un mau i un vaf. la vaf e dai.**
 – 私は猫一匹と犬一匹を飼っています。**その**犬は大きいです。
 
 ### 指示代名詞の抽象的用法

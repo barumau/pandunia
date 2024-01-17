@@ -58,9 +58,9 @@ tu **hau di** basha pandunia.
 
 修飾詞を比較できます。
 
-- **max**
+- **mas**
   (比較 優位) **より優れる**ことを表します。
-- **maxim**
+- **masim**
   (比較 最上級) **最も優れている**ことを表します。
 - **min**
   (比較 劣等) **より劣る**ことを表します。
@@ -73,8 +73,8 @@ tu **hau di** basha pandunia.
 **ka**
 は副詞を比較条件に割り当てます。
 
-mi e max <u>hau</u> **ka** tu.
+mi e mas <u>hau</u> **ka** tu.
 = 私はあなたよりも<u>優れています</u>。  
-tu par <u>hau</u> di loge **ka** mi.
+tu par <u>hau</u> di loga **ka** mi.
 = あなたの話し方は私と同じくらい<u>良い</u>。
 
