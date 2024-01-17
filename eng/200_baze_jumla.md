@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Basic words and phrases
 
 ## Introduction

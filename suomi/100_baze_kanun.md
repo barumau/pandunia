@@ -11,7 +11,7 @@
    Kaikki sanat luetaan äänteenmukaisesti.
 3. **Sanan painotus:**
    Perussanoissa paino on viimeistä konsonanttia ennen olevalla tavulla, esim.
-   **háu** ('hyvä'), ***dúnia** ('maailma'), **básha** ('kieli'), **amén** ('aamen').
+   **háu** ('hyvä'), **dúnia** ('maailma'), **básha** ('kieli'), **amén** ('aamen').
    Yhdyssanoissa yhdysosat pitävät alkuperäisen painonsa siten, että pääpaino on edussanalla, esim.
    **trabásha** ('kääntää'), **dúnialìsme** ('globalismi'), **bàsha skóla** ('kielikoulu').
 4. **Pronominit:**

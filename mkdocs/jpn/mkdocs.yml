@@ -7,7 +7,7 @@ theme:
   name: material
   language: ja
 nav:
-    - '基本': baze.md
+    - '基本': 003_baze.md
     - '文法':
         - '基本事項': 100_baze_kanun.md
         - 'つづり': 102_ABC.md
