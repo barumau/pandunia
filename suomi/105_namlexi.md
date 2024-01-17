@@ -32,9 +32,9 @@ Substantiivin toistaminen on helppo tapa ilmaista monikkoa.
 
 ## Suku
 
-Panduniassa ei ole kieliopillista sukua (eli maskuliinia, feminiiniä tai neutria).
+Pandunian sanoilla ei ole minkäänlaista kieliopillista sukua tai luokkaa,
+kuten maskuliinia, feminiiniä tai neutria.
 
-Tietyillä sanoilla on _luonnollinen suku_. Esimerkiksi **fem** (nainen) on feminiini ja **man** (mies) on maskuliini.
 
 ## Yhdyssanat
 

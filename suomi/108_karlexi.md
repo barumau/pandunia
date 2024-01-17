@@ -12,25 +12,25 @@ eikä taivuttamalla verbiä niin kuin suomen kielessä.
 
 Verbin subjekti ilmaisee sen persoonan ja luvun.
 Esimerkiksi, verbi
-**es**
+**e**
 ('olla') on samassa muodossa kaikissa persoonissa.
 
-**_mi_ es doste.**
+**_mi_ e dosti.**
 – Minä olen ystävä.  
-**_tu_ es doste.**
+**_tu_ e dosti.**
 – Sinä olet ystävä.  
-**_da_ es doste.**
+**_da_ e dosti.**
 – Hän on ystävä.  
-**_mimen_ es doste.**
+**_mimen_ e dosti.**
 – Me olemme ystäviä.  
-**_tumen_ es doste.**
+**_tumen_ e dosti.**
 – Te olette ystäviä.  
-**_damen_ es doste.**
+**_damen_ e dosti.**
 – He ovat ystäviä.
 
 Subjektina voi olla myös substantiivi.
 
-**mau es hevan.**
+**mau e hevan.**
 – Kissa on eläin.
 
 Subjektin ja verbin välissä on usein jokin kielioppisana merkitsemässä,
@@ -43,8 +43,12 @@ Väliin pantava merkki on yleensä partikkeli tai apuverbi, kuten
 joka selkeyttää lauseen rakennetta
 tuomatta siihen uutta asiasisältöä.
 
-**karote es tuzi yam.**
-– Porkkana on pupun ruokaa.  
+**tuzi yam.**
+– pupunruoka. – TAI Pupu syö.  
+**tuzi ya yam.**
+– Pupu kyllä syö. ~ Pupu syö.  
+**karote e tuzi yam.**
+– Porkkana on pupunruokaa.  
 **tuzi _ya_ yam karote.**
 – Puput syövät porkkanoita.
 
@@ -56,15 +60,15 @@ jotka esitellään seuraavana.
 
 Toiminnan, tapahtuman tai olemisen suhde aikaan ilmaistaan panduniassa apuverbeillä.
 
-**xuru**
+**shuru**
 'alkaa'
 ilmaisee toiminnan alkamista tai siirtymistä uuteen tilanteeseen.
 
-**mi xuru fuku la kote.**
-– Minä alan pitää takkia. = Minä panen takin päälle.  
-**kaguji ya xuru hogo.**
+**mi shuru fuku la kote.**
+– Minä alan pitää takkia. ~ Minä panen takin päälle.  
+**kaguji ya shuru hogo.**
 – Paperi alkaa palaa.  
-**tu xuru yam.**
+**tu shuru yam.**
 – Sinä alat syödä.
 
 **fin**
@@ -84,7 +88,7 @@ ilmaisee, että toiminta viedään loppuun asti.
 
 **tu pul yam un piza.**
 – Sinä söit pitsan (kokonaan).  
-**mi pul vide la filme.**
+**mi pul visi la filme.**
 – Minä katsoin elokuvan (kokonaan).
 
 **fen**
@@ -93,7 +97,7 @@ ilmaisee, että toiminta tehdään vain osittain.
 
 **tu fen yam un piza.**
 – Sinä söit pitsaa (osittain).  
-**mi fen vide la filme.**
+**mi fen visi la filme.**
 – Minä katsoin elokuvaa (osittain).
 
 **zai**
@@ -103,11 +107,11 @@ ilmaisee parhaillaan tapahtuvaa toimintaa.
 **mi zai yam un piza.**
 – Minä olen syömässä pitsaa.
 
-**dur**
+**dura**
 'jatkua'
 ilmaisee toiminnan jatkumista.
 
-**mi dur yam la piza.**
+**mi dura yam la piza.**
 – Minä jatkan pitsan syömistä.
 
 **ada**
@@ -121,7 +125,7 @@ ilmaisee, että toiminta on toistuvaluonteista.
 'saavuttaa'
 ilmaisee, että toiminta on loppunut mutta sen seuraukset ovat kuluvan hetken kannalta merkittäviä ja yhä voimassa.
 
-**da _le_ es guru.**
+**da _le_ e guru.**
 – Hän on ollut opettaja.  
 **mi no _le_ gul yo alkohol.**
 – Minä en ole juonut alkoholia.  
@@ -151,7 +155,7 @@ ilmaisee ohimennyttä toimintaa, jonka seuraukset eivät ole olennaisia.
 ('tulla tekemään')
 ilmaisee tulevaisuudessa tapahtuvaa toimintaa.
 
-**da _sha_ es guru.**
+**da _sha_ e guru.**
 – Hän tulee olemaan opettaja.  
 **mi no _sha_ gul bir.**
 – Minä en tule juomaan olutta.

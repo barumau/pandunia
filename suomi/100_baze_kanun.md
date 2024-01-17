@@ -10,8 +10,10 @@
    Panduniaa kirjoitetaan säännönmukaisesti.
    Kaikki sanat luetaan äänteenmukaisesti.
 3. **Sanan painotus:**
-   Jos sanassa on yksi tai kaksi tavua, ensimmäinen tavu on painollinen.
-   Jos sanassa on kolme tai useampia tavuja, toinen tavu on painollinen.
+   Perussanoissa paino on viimeistä konsonanttia ennen olevalla tavulla, esim.
+   **háu** ('hyvä'), ***dúnia** ('maailma'), **básha** ('kieli'), **amén** ('aamen').
+   Yhdyssanoissa yhdysosat pitävät alkuperäisen painonsa siten, että pääpaino on edussanalla, esim.
+   **trabásha** ('kääntää'), **dúnialìsme** ('globalismi'), **bàsha skóla** ('kielikoulu').
 4. **Pronominit:**
     - Personaapronominit ovat:
      **mi** _minä_, **tu** _sinä_, **da** _hän_,
@@ -37,9 +39,9 @@
    Adjektiivit ja adverbit ovat muodoltaan samanlaisia.
    Yhdessä niitä kutsutaan määritteiksi.
    Ajektiivimääritteen paikka on ennen substantiivia ja adverbimääritteen ennen verbiä.
-    - **un suga loge**
+    - **un suga loga**
       – Nopea puhe.
-    - **tu suga loge.**
+    - **tu suga loga.**
       – Sinä nopeasti puhut.
 8. **Verbit:**
    Verbit ovat taipumattomia.
@@ -58,26 +60,26 @@
     - Lauseen sanajärjestys on subjekti–verbi–objekti.
       Samaa sanajärjestystä käytetään sekä väittämissä että kysymyksissä.
     - Passiivi muodostetaan apuverbillä **be**.
-      Saman vaikutelman voi luoda myös persoonattomalla pronominilla **mon**.
-        - **pandunia be loge.**
+      Saman vaikutelman voi luoda myös persoonattomalla pronominilla **men**.
+        - **pandunia be loga.**
           – Panduniaa puhutaan.
-        - **se loge pandunia.**
+        - **men loga pandunia.**
           – Ihmiset puhuvat panduniaa.
     - Aktiivisen verbin objekti voi toimia seuraavan verbin subjektina.
       Tämä on ns. _saranarakenne_.
-        - **mi ching tu loge pandunia.**
+        - **mi ching tu loga pandunia.**
           – Minä pyydän sinua puhumaan panduniaa.
     - Pronominit voi jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
-        - **_mi_ ching _tu_ loge pandunia.**
-          → **ching loge pandunia.**
+        - **_mi_ ching _tu_ loga pandunia.**
+          → **ching loga pandunia.**
           – Pyydän, puhu panduniaa.
 10. **Sanojen johtaminen:**
     Yhdyssanat muodostetaan asettamalla kaksi tai useampia perussanoja peräkkäin
     siten, että viimeinen sana on merkittävin.
     - **posta**
       ('posti') +
-      **kasa**
+      **kase**
       ('laatikko', 'lipas') =
-      **posta kasa**
+      **posta kase**
       ('postilaatikko')
 

@@ -123,31 +123,33 @@ Thanks for helping me.
 You're welcome. (Literally: _No need to thank._)
 
 
-### es <small>to be</small>
+### e <small>to be</small>
 
 The word **es** can be used also for stating something as a fact.
 
-**mi es Tomas.**
+**mi e Tomas.**
 I am Thomas.
 
-**tu es Sara.**
+**tu e Sara.**
 You are Sarah.
 
-**aple es frute.**
+**aple e frute.**
 The apple is a fruit.
 
-<small>Etymology. **es** is from
-Spanish *es*,
-French *est*,
-English *is*.</small>
+<small>Etymology. **e** is from
+Portuguese *é*,
+Italian *è*,
+French *est* /ɛ/,
+Ukrainian є /ye/,
+Hindi है /ɦɛ/.</small>
 
 
 ### mi <small>I, me</small>
 
-**mi es Sara.**
+**mi e Sara.**
 I'm Sarah.
 
-**mi es Tomas.**
+**mi e Tomas.**
 I'm Thomas.
 
 **mi sal mama.**
@@ -176,7 +178,7 @@ is from English: me, Hindi: मैं (meṇ), Spanish: me, French: me, Swahili:
 
 ### tu <small>you</small>
 
-**tu es Tomas.**
+**tu e Tomas.**
 You are Thomas.
 
 **mi sal tu.**
@@ -191,7 +193,7 @@ That's why
 is the same in subject and object positions
 while English has two different forms, 'I' and 'me'.
 
-**mi ame tu.**
+**mi ai tu.**
 I love you.
 
 <small>Etymology. **tu** is from
@@ -205,13 +207,13 @@ French *tu*.</small>
 
 <p style="font-size:4em;">👥🗣️👉👤</p>
 
-**da es man.**
+**da e man.**
 He is a man.
 
-**da es fem.**
+**da e fem.**
 She is a woman.
 
-**da es aple.**
+**da e aple.**
 It is an apple.
 
 **da**
@@ -222,7 +224,8 @@ It is used for people (irrespective of gender) as well as for things.
 I greet him/her.
 
 <small>Etymology. **da** is from
-Mandarin 他/她 (tā).</small>
+Mandarin 他/她 (tā),
+Malay *dia*.</small>
 
 
 ### sual <small>to ask a question</small>
@@ -237,7 +240,7 @@ Tip: Yes/no questions frequently begin with
 **sual**.
 It is just a regular verb, not a special _question tag_.
 In fact, the previous question is simply abbreviated from
-**mi sual tu es davar**
+**mi sual tu e davar**
 (I ask, you are doctor?) by dropping out the first word.
 
 **sual tu hau?**
@@ -258,25 +261,25 @@ Swahili _swali_.</small>
 
 ### ya <small>yes</small>
 
-**sual tu es Tomas?**
+**sual tu e Tomas?**
 Are you Thomas.
 
-**ya, mi es Tomas.**
+**ya, mi e Tomas.**
 Yes, I am Thomas.
 
-**sual da es davar?**
+**sual da e davar?**
 Is he/she a doctor?
 
-**ya, da es davar.**
+**ya, da e davar.**
 Yes, he is a doctor.
 
 
 ### no <small>no, not</small>
 
-**mi no es Sara.**
+**mi no e Sara.**
 I'm not Sarah.
 
-**mi no es davar.**
+**mi no e davar.**
 I'm not a doctor.
 
 **sual tu hau?**
@@ -326,13 +329,13 @@ You greet them.
 **damen sal mimen!**
 They greet us.
 
-**mimen es fem.**
+**mimen e fem.**
 We are women.
 
-**tumen es man.**
+**tumen e man.**
 You are men.
 
-**damen es aple.**
+**damen e aple.**
 They are apples.
 
 
@@ -341,47 +344,51 @@ They are apples.
 **ke?**
 What?
 
-**tu es ke?**
+**tu e ke?**
 Who are you?  
-**mi es Tomas.**
+**mi e Tomas.**
 I'm Thomas.
 
-**da es ke?**
+**da e ke?**
 Who is he/she?  
-**da es Sara.**
+**da e Sara.**
 She is Sarah.
 
-**tumen es ke?**
+**tumen e ke?**
 Who are you people?
 
-**damen es ke?**
+**damen e ke?**
 Who are they?
 
-<small>Etymology. **ke** is from Spanish: qué, Portuguese: que, Italian: che,
-Bengali: কী "ke".</small>
+<small>Etymology. **ke** is from
+French *que*
+Spanish *qué*,
+Portuguese *que*,
+Italian *che*,
+Bengali কী /ke/.</small>
 
 
-### ye e vo <small>this and that</small>
+### ye i vo <small>this and that</small>
 
-**ye es ke?**
+**ye e ke?**
 What's this?
 
-**ye es aple.**
+**ye e aple.**
 This is an apple.
 
-**vo es ke?**
+**vo e ke?**
 What is that?
 
-**vo es oranje.**
+**vo e aranja.**
 That is an orange.
 
-**ye es rubi aple.**
+**ye e rubi aple.**
 This is a red apple.
 
-**ye aple es rubi.**
+**ye aple e rubi.**
 This apple is red.
 
-**ye es rubi.**
+**ye e rubi.**
 This is red.
 
 **damen a ke?**
@@ -397,16 +404,16 @@ They are there.
 
 ### su <small>'s (possessive particle)</small>
 
-**ye es ke?**
+**ye e ke?**
 What's this?
 
-**da es mi su telefon.**
+**da e mi su telefon.**
 It's my telephone.
 
-**ye es ke su?**
+**ye e ke su?**
 Whose is this?
 
-**da es mi su.**
+**da e mi su.**
 It's mine.
 
 Note: Possessive particle
@@ -417,13 +424,13 @@ means "my",
 **tu su**
 means "your" and so on.
 
-**da es ke?**
+**da e ke?**
 Who's he/she?
 
-**da es mi su doste.**
+**da e mi su dosti.**
 He/she is my friend.
 
-**mi es Sara su doste.**
+**mi e Sara su dosti.**
 I am Sarah's friend.
 
 It's also possible to end a sentence with
@@ -433,28 +440,28 @@ It's also possible to end a sentence with
 The cat is mine.  
 **pesa es damen su.**
 The money is theirs.  
-**doste es sara su.**
+**dosti es sara su.**
 The friend is Sara's.
 
-<small>Etymology. **su**
-English _'s_,
-Afrikaans _se_,
-French _son_ ~ _sa_,
-Spanish _su_.</small>
+<small>Etymology. **su** is from
+English *'s*,
+Afrikaans *se*,
+French *son* ~ *sa*,
+Spanish *su*.</small>
 
 
 ### nam <small>name</small>
 
-**tu su nam es ke?**
+**tu su nam e ke?**
 What's your name?
 
-**mi su nam es Tomas.**
+**mi su nam e Tomas.**
 My name is Thomas.
 
-**da su nam es ke?**
+**da su nam e ke?**
 What is his/her name?
 
-**da su nam es Sara.**
+**da su nam e Sara.**
 Her name is Sarah.
 
 <small>Etymology. **nam** is from
@@ -527,7 +534,7 @@ covers both eating and drinking.
 It can feel odd at first but soon you will see that it is quite handy!
 Usually the object of the verb tells is it about eating, drinking or both.
 
-**mi yam kafe e ban.**
+**mi yam kafe i ban.**
 I'm having coffee and bread.
 
 
@@ -545,9 +552,9 @@ the word order is not affected by the **ke**.
 **mi vol yam kafe.**
 I want to drink coffee.
 
-**sual tu vol yam chai?**
+**sual tu vol yam cha?**
 Would you like to drink tea?  
-**no. mi no vol chai. mi vol kafe.**
+**no. mi no vol cha. mi vol kafe.**
 No, I don't want tea. I want coffee.
 
 **tu vol ke aple?**
@@ -558,7 +565,7 @@ This red one.
 
 ### ching <small>request, please</small>
 
-**mi ching tu yam chai.**
+**mi ching tu yam cha.**
 I ask you to drink tea.
 
 **mi ching tu lai dom.**
@@ -569,7 +576,7 @@ I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**ching yam chai.**
+**ching yam cha.**
 Please, have some tea!
 
 **ching yam kafe.**
@@ -611,15 +618,15 @@ Are you thirsty?
 
 ## Part 3. Communication
 
-### yaf <small>sorry, pardon</small>
+### maf <small>sorry, pardon</small>
 
-**yaf! mi no aha.**
+**maf! mi no aha.**
 Sorry, I don't understand.
 
-**yaf! ye es ke?**
+**maf! ye es ke?**
 Excuse me, what's this?
 
-**yaf. tu su nam es ke?**
+**maf. tu su nam es ke?**
 Excuse me, what's your name?
 
 
@@ -631,7 +638,7 @@ Do you understand me?
 **mi aha.**
 I understand.
 
-**af. mi no aha tu.**
+**maf. mi no aha tu.**
 Sorry. I don't understand you.
 
 **mi no bas aha tu.**
@@ -664,28 +671,30 @@ I can speak a little Pandunia.
 **mi no bil english.**
 I can't speak English.
 
-**yaf. mi no bil tu su bashe.**
+**maf. mi no bil tu su basha.**
 Sorry, I can't speak your language.
 
 
-### loge <small>to say, speak, talk</small>
+### loga <small>to say, speak, talk</small>
 
-**tu loge ke?**
+**tu loga ke?**
 What did you say?
 
-**mi loge to tu.**
+**mi loga to tu.**
 I talk to you.
 
-**mimen loge to semen.**
+**mimen loga to semen.**
 We talk to each other.
 
-**se loge "cat" a ke yang a pandunia?**
+**men loga
+"cat"
+a ke mode a pandunia?**
 How do you say "cat" in Pandunia?
 
 **"cat" es ke a pandunia?**
 What is "cat" in Pandunia?
 
-**mau loge "miau".**
+**mau loga "miau".**
 Cat says "meow".
 
 
@@ -697,10 +706,10 @@ Listen to me!
 **mi no bil audi tu.**
 I can't hear you.
 
-**ching loge mas bala.**
+**ching loga mas bala.**
 Please speak louder.
 
-**mi audi muzike.**
+**mi audi muzika.**
 I listen to music.
 
 **tu audi ke yang di muzike?**
@@ -709,7 +718,7 @@ What kind of music do you listen to?
 
 ### visi <small>to see</small>
 
-**suke visi tu.**
+**suka visi tu.**
 Pleased to see you!
 
 **a rivisi!**
@@ -722,39 +731,39 @@ See you tomorrow!
 I saw him/her yesterday.
 
 
-### seme <small>to mean</small>
+### sema <small>to mean</small>
 
-**ye lexe ya seme ke?**
+**ye lexi ya sema ke?**
 What does this word mean?
 
-**"mau" ya seme ke?**
+**"mau" ya sema ke?**
 What does "mau" mean?
 
-**da seme un yang de hevan.**
+**da sema un yang de hevan.**
 It means a kind of animal.
 
-**mi no aha da seme ke.**
+**mi no aha da sema ke.**
 I don't understand what it means.
 
 
-### kitabe <small>write</small>
+### kitabi <small>write</small>
 
-**ching kitabe tu su adres.**
+**ching kitabi tu su adres.**
 Please, write your address.
 
-**ching kitabe da a ye.**
+**ching kitabi da a ye.**
 Please, write it here!
 
 
-### bashe <small>speak a language, communicate</small>
+### basha <small>speak a language, communicate</small>
 
-**sual tumen bashe pandunia.**
+**sual tumen basha pandunia.**
 Do you speak Pandunia?
 
-**mimen bashe pandunia.**
+**mimen basha pandunia.**
 We speak Pandunia.
 
-**sual tu bil bashe english?**
+**sual tu bil basha english?**
 Can you speak English?
 
 **franse, espanya, portugal, rus**
@@ -816,7 +825,7 @@ Do you travel by train?
 **mimen safar de London to Paris.**
 We travel from London to Paris.
 
-**safar es dai di long.**
+**safar e dai long.**
 The voyage is very long.
 
 
@@ -879,13 +888,13 @@ I wait for you in the hotel.
 
 ### zai <small>currently</small>
 
-**mi zai sal tu su doste.**  
+**mi zai sal tu su dosti.**  
 I am greeting your friend.
 
 **la man ya zai visi un filme.**  
 The man is watching a film.
 
-**da zai es shefe.**  
+**da zai e shefe.**  
 He/she is currently the chief.
 
 **da zai a dom.**  
@@ -894,13 +903,13 @@ He/she is currently at home.
 
 ### pas <small>in the past</small>
 
-**mi pas sal tu su doste.**  
+**mi pas sal tu su dosti.**  
 I greeted your friend.
 
 **la man ya pas visi un filme.**  
 The man watched a film.
 
-**da pas es shefe.**  
+**da pas e shefe.**  
 He/she was the chief.
 
 **da pas a dom.**  
@@ -909,13 +918,13 @@ He/she was at home.
 
 ### le <small>already, completed</small>
 
-**mi le sal tu su doste.**  
+**mi le sal tu su dosti.**  
 I have greeted your friend.
 
 **la man le visi un filme.**  
 The man has watched a film.
 
-**da le es shefe.**  
+**da le e shefe.**  
 He/she has been the chief.
 
 **da le a la dom.**  
@@ -924,13 +933,13 @@ He/she has been at home.
 
 ### sha <small>in the future</small>
 
-**mi sha sal tu su doste.**  
+**mi sha sal tu su dosti.**  
 I will greet your friend.
 
 **la man sha visi la filme.**  
 The man will watch the film.
 
-**da sha es shefe.**  
+**da sha e shefe.**  
 He/she will be the chief.
 
 **da sha a dom.**  

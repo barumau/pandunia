@@ -52,7 +52,7 @@ Kieltolauseessa käytetään sanaa **no**.
 Myös kaksi persoonapronominia voidaan asettaa rinnakkain.
 Selkeyden vuoksi väliin voi panna sanan **si** (kyllä) myöntölauseessa.
 
-**mi es da.**
+**mi e da.**
 = Minä olen se.  
 **mi no tu.**
 = Minä en ole sinä.
@@ -62,11 +62,11 @@ Selkeyden vuoksi väliin voi panna sanan **si** (kyllä) myöntölauseessa.
 
 Kun subjektina on adjektiivi, sana **si** (kyllä) toimii olla-verbin korvikkeena myöntölauseessa. Kieltolauseessa käytetään sanaa **no** kuten edelläkin.
 
-**jun es mei.**
+**jun e mei.**
 = Nuori on kaunista.  
 **neu no lau.**
 = Uusi ei ole vanha.  
-**gani es bon.**
+**gani e bon.**
 – Laulaminen on hyvä.
 
 
@@ -76,7 +76,7 @@ Kun subjektina on adjektiivi, sana **si** (kyllä) toimii olla-verbin korvikkeen
 
 Aktiivilauseissa predikaatina on verbi eli teonsana.
 
-**mi marce.**
+**mi marche.**
 – Minä kävelen.  
 **mi fikir.**
 – Minä ajattelen.
@@ -249,11 +249,11 @@ ja
 **no**
 tarkoittavat verbiä eivätkä koko kysymyslausetta.
 
-**tu no vide mi, he?**
+**tu no visi mi, he?**
 – Etkö sinä näe minua  
-**ya. (mi ya vide tu.)**
+**ya. (mi visi tu.)**
 – Kyllä. (Minä kyllä näen sinut.)  
-**no. (mi no vide tu.)**
+**no. (mi no visi tu.)**
 – Ei. (Minä en näe sinua.)
 
 
@@ -282,17 +282,17 @@ Panduniassa avoimissa kysymyksissä on aina kysymyssana
 ('mikä, mitä').
 Sanajärjestys on yleensä sama kuin väitelauseissa.
 
-**piza es ke?**
+**piza e ke?**
 – Mikä pitsa on?
 
 Kysymyssanan voi myös siirtää lauseen alkuun painottamaan sen merkitystä.
 Yleensä sanajärjestys kuitenkin on sama kuin väitelauseissa.
 
-**ke xe tu zai yam?**
+**ke tu zai yam?**
 – Mitä sinä olet syömässä?  
-**tu zai yam ke xe?**
+**tu zai yam ke?**
 – Sinä olet syömässä mitä?  
-**da lai a ke sata?**
+**da lai a ke zaman?**
 – Mihin aikaan hän tulee?  
 **tumen vizite a ke jen su dom?**
 – Kenen talossa te kävitte?
@@ -333,50 +333,53 @@ Yleensä sanajärjestys kuitenkin on sama kuin väitelauseissa.
 
 Lauseet ovat lähtökohtaisesti myöntäviä.
 
-**mi es xefe.**
+**mi e shefe.**
 = Minä olen pomo.  
-**da es neu meza.**
+**da e neu meza.**
 = Se on uusi pöytä.
 
 Myöntämistä voi painottaa sanalla
 **ya**
 ('kyllä').
 
-**mi ya es xefe.**
+**mi ya e shefe.**
 – Minä kyllä olen pomo.  
-**da ya es neu meza.**
+**da ya e neu meza.**
 – Se kyllä on uusi pöytä.
 
 #### Kieltäminen
 
 Edellisen kaltaiset lauseet kielletään sanalla **no**.
 
-**da no es xefe.**
+**da no e shefe.**
 = Minä en ole pomo.  
-**da no es neu meza.**
+**da no e neu meza.**
 = Tämä ei ole uusi pöytä.
 
 Sanaa **no** käytetään myös toisten sanojen kieltämiseen.
 Se vaikuttaa aina vain seuraavaan sanaan.
 
-**mi vide tu.**
+**mi visi tu.**
 = Minä näen sinut.  
-**mi no vide tu.**
+**mi no visi tu.**
 = Minä en näe sinua.  
-**mi vide no tu ama damen.**
+**mi visi no tu ama damen.**
 = Minä näen, en sinua, vaan heidät.
 
-**mi ching tu saf la kamar.**
+**mi ching tu safi la kamar.**
 – Minä pyydän sinua siivoamaan huoneen.  
-**mi no ching tu saf la kamar.**
+**mi no ching tu safi la kamar.**
 – Minä en pyydä sinua siivoamaan huonetta.  
-**mi ching tu no saf la kamar.**
+**mi ching tu no safi la kamar.**
 – Minä pyydän sinua olemaan siivoamatta huonetta.
 
 
 ### Määrepartikkelit
 
-Panduniassa on kaksi määrepartikkelia, **di** ja **da**.
+Panduniassa on kaksi määrepartikkelia,
+**di**
+ja
+**de**.
 Ne eroavat toisistaan vain sanajärjestyksen osalta.
 Merkitykseltään ne ovat samoja.
 

@@ -268,7 +268,7 @@ In the sentence *the old man dies*, the subject changes state from living to dea
 Here are some intransitive clauses in Pandunia.
 The subjects are written in cursive.
 
-***bache*** **kurse.**
+***bacha*** **kurse.**
 – Children run.  
 ***jun fem*** **danse.**
 – The young woman dances.  
@@ -385,13 +385,13 @@ in the form that the verb describes.
 Consider the following sentence,
 where the child is the agent that departs energy in the form of a push to the ball, the patient.
 
-**la bache dape la bol.**
+**la bacha dape la bol.**
 – The child hits the ball.
 
 There can also be an instrument that mediates the flow of energy from the agent to the patient.
 The sequence `agent > instrument > patient` reflects the flow of energy in an action chain.
 
-**la bache uze la bang dape la bol.**
+**la bacha uze la bang dape la bol.**
 – The child uses the bat to hit the ball.
 
 The order of the participants is in line with the order of the action chain in reality.
@@ -551,7 +551,7 @@ as its object.
 At the same time, the very same
 **tu**
 functions as the subject of the following predicate,
-**yam yo fite**.
+**yam yo fito**.
 So
 **tu**
 is the pivot that links the clauses together.
@@ -623,15 +623,15 @@ All verbs are about the same subject.
 The last verb in the series is the main verb.
 The verbs before it are modal verbs.
 
-**tu vol yam yo fite.**
+**tu vol yam yo fito.**
 – You want to eat vegetables. (desire)  
-**tu sel yam yo fite.**
+**tu sel yam yo fito.**
 – You had better eat vegetables. (advice)  
-**tu halal yam yo fite.**
+**tu halal yam yo fito.**
 – You may eat vegetables. (permission)  
-**tu bil yam yo fite.**
+**tu bil yam yo fito.**
 – You can eat vegetables. (ability)  
-**tu mus yam yo fite.**
+**tu mus yam yo fito.**
 – You must eat vegetables. (obligation)
 
 
@@ -786,7 +786,9 @@ The question is answered by repeating the chosen alternative.
 ## Open questions
 
 Open questions, or _wh-_ questions, ask for more information.
-In Pandunia they use the word **ke**.
+In Pandunia they use the word
+**ke**
+('what').
 
 **piza e ke?**
 – What is pizza?
@@ -798,7 +800,7 @@ However, unlike in English, the word order may also be left alone.
 – What are you eating?  
 **tu zai yam ke?**
 – You are eating what?  
-**da lai a ke sata?**
+**da lai a ke zaman?**
 – When does he arrive?  
 **tumen vizite a ke jen su dom?**
 – Whose house did you all visit?
@@ -972,11 +974,11 @@ Different scopes of negation may result depending on the location of the negativ
 **mi visi no tu ama damen.**
 – I see, not you, but them.
 
-**mi ching tu saf la kamar.**
+**mi ching tu safi la kamar.**
 – I ask you to clean the room.  
-**mi no ching tu saf la kamar.**
+**mi no ching tu safi la kamar.**
 – I do NOT ask you to clean the room.  
-**mi ching tu no saf la kamar.**
+**mi ching tu no safi la kamar.**
 – I ask you NOT to clean the room.
 
 Particles **ya** and **no** are used also for answering questions.
@@ -1016,14 +1018,14 @@ The modifier particles are useful for creating complex adjectives that consists 
 
 **rode rang di labi**
 – rose-colored lips  
-**sama rang di oke**
+**sama rang di yen**
 – sky-colored eyes
 
 Or in the opposite order:
 
 **labi de rode rang**
 – lips of the rose-color  
-**oke de sama rang**
+**yen de sama rang**
 – eyes of the sky-color
 
 The particles help in creating measure words too.

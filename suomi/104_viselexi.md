@@ -48,14 +48,16 @@ Sen omistusmuoto on **se su**.
 **da vide se su muka a mirar.**
 – Hän näkee kasvonsa peilissä.
 
-Sana **semen** viittaa tekijöihin toisiinsa.
+Sana
+**semen**
+viittaa tekijöihin vastavuoroisesti.
 
 **semen**
 – toisiaan
 
-**mi i tu vide semen.**
+**mi i tu visi semen.**
 – Sinä ja minä näemme toisemme.  
-**mimen vide semen.**
+**mimen visi semen.**
 – Me näemme toisemme.
 
 
@@ -79,12 +81,21 @@ ja pronomini
 **vo**
 osoittaa puhujasta kaukana oleviin asioihin.
 
-**ye es bon.**
-– Tämä (asia) on hyvä.  
-**vo es dus.**
-– Tuo (asia) on huono.  
-**mi vol ye buku, no vo.**
+**tu vol vo buku, he?**
+– Haluatko sinä tuon kirjan?  
+**no, mi vol ye buku, no vo.**
 – Minä haluan tämän kirjan, en tuota.
+
+Panduniassa osoittavat pronomiinit toimivat subjekteina ja objekteina samalla tavalla kuin substantiivit.
+
+**ye e hau.**
+– Tämä on hyvä.  
+**vo e dus.**
+– Tuo on huono.  
+**tu vol ye, he?**
+– Haluatko sinä tämän?  
+**no, mi vol vo.**
+– Ei, minä haluan tuon.
 
 
 ## Kysymyspronominit
@@ -95,14 +106,19 @@ osoittaa puhujasta kaukana oleviin asioihin.
 = Mikä?
 
 Se toimii myös määritteenä merkityksessä 'mikä' tai 'kumpi'.
-**ke xe?**
-= Mikä esine?
+
+**ke she?**
+= Mikä esine?  
 **ke jen?**
 = Kuka? (Mikä henkilö?)  
 **ke zaman?**
-= Milloin? (Mikä hetki?)
-**ke yang?** 
-= Miten? (Mikä tapa?)
+= Milloin? (Millä hetkellä?)  
+**ke loka?**
+– Missä? (Millä paikalla?)  
+**ke mode?** 
+= Miten? (Millä tavalla?)  
+**ke sabu?**
+– Miksi? (Mistä syystä?)
 
 Myös adjektiivit voi saattaa kyseenalaisiksi sanalla **ke**.
 
@@ -112,6 +128,8 @@ Myös adjektiivit voi saattaa kyseenalaisiksi sanalla **ke**.
 – Minkä hintainen? Kuinka kallis?  
 **ke poli?**
 – Kuinka monta?  
+**ke kam?**
+– Kuinka vähän?  
 **ke dai?**
 – Kuinka iso?  
 **ke shau?**

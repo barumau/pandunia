@@ -63,7 +63,7 @@ The relationship of an action, event or state to time is indicated with auxiliar
 indicates beginning of an action or transition to a new situation.
 
 **mi shuru fuku la kote.**
-– I start wearing the coat. = I put the coat on.  
+– I start wearing the coat. ~ I put the coat on.  
 **kaguji ya shuru hogo.**
 – Paper starts to burn.  
 **tu shuru yam.**

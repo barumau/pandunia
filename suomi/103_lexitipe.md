@@ -47,14 +47,14 @@ Sisältösanat voidaan jakaa seuraaviin sanaluokkiin:
 Panduniassa sisältösanojen sanaluokka vaihtelee lauseyhteyden mukaan.
 Ne eivät siis kuulu pysyvästi vain yhteen sanaluokkaan.
 Esimerkiksi sana
-**ama**
+**ai**
 ('rakkaus') voi toimia verbinä, substantiivina tai määritteenä sen mukaan,
 mikä on sen paikka lauseessa.
 
-**mi _ame_ tu.**
-– Minä _rakastan_ sinua. (verbi)  
-**tu gamo mi su _ame_.**
-– Sinä tunnet minun _rakkauteni_. (substantiivi)  
-**mi kitaba un _ame_ anjil.**
-– Minä kirjoitan _rakkaus_kirjettä. (adjektiivi)
+*mi **ai** tu.*
+– Minä **rakastan** sinua. (verbi)  
+*tu fikre mi su **ai**.*
+– Sinä ajattelet minun **rakkauttani**. (substantiivi)  
+**mi kitabu un ai anjil.**
+– Minä kirjoitan **rakkaus**kirjettä. (adjektiivi)
 

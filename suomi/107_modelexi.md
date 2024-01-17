@@ -11,9 +11,9 @@ Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Pandun
 – uusi auto  
 **un _suga_ gar**
 – nopea auto  
-**men _dai_ meza**
+**poli _dai_ meza**
 = isoja pöytiä  
-**men _gau_ meza**
+**poli _gau_ meza**
 = korkeita pöytiä  
 **un hau jen**
 = hyvä tuoli
@@ -23,14 +23,14 @@ Monesti tällainen rakenne on luettavissa kokonaisena virkkeenä, jossa ei ole k
 
 **da neu.**
 – Se on uusi.  
-**gar (es) neu.**
+**kar (e) neu.**
 – Auto on uusi.  
-**bagre (es) suga.**
+**bagre (e) suga.**
 – Tiikeri on nopea.
 
 Luonnollisesti laatusanoja voi olla substantiivin kummallakin puolella.
 
-**neu kar (es) suga.**
+**neu kar (e) suga.**
 = Uusi auto on nopea.
 
 
@@ -42,7 +42,7 @@ Tavan adverbi on verbin edellä.
 
 **tu _suga_ loge.**
 – Sinä _nopeasti_ puhut.  
-**damen _hau_ kitaba.**
+**damen _hau_ kitabu.**
 – He _hyvin_ kirjoittavat.
 
 Määritepartikkeli
@@ -50,9 +50,9 @@ Määritepartikkeli
 pannaan usein adverbin ja verbin väliin.
 Se selkeyttää verbilausekkeen rakennetta.
 
-**tu _mei di_ kitaba.**
+**tu _mei di_ kitabu.**
 – Sinä _kauniisti_ kirjoitat.  
-**damen _suga di_ marce.**
+**damen _suga di_ marche.**
 – He _nopeasti_ kävelevät.
 
 
@@ -62,9 +62,9 @@ Partikkelia
 **di**
 käytetään myös kun määrite määrittää toista määritettä.
 
-**un dai di_ hau buku**
+**un _dai di_ hau buku**
 – _isosti_ hyvä kirja  
-**poli _bala di_ ame ja jen**
+**poli _bala di_ ai ja jen**
 – _voimakkaasti_ rakastavat ihmiset
 
 
@@ -76,11 +76,11 @@ Asteen määritteet kertovat laadun voimakkuudesta.
 – paljon, sangen, hyvin  
 **bas**
 – tarpeeksi, kyllin  
-**max**
+**mas**
 – enemmän  
 **min**
 – vähemmän
-**max ka bas**
+**mas ka bas**
 – enemmän kuin tarpeeksi, liian  
 
 Asteen määritteet tulevat ennen määrittelemäänsä sanaa.
@@ -91,7 +91,7 @@ Asteen määritteet tulevat ennen määrittelemäänsä sanaa.
 – hyvin iso mies  
 **un bas dai man**
 – tarpeeksi iso mies  
-**un max dai man ka bas**
+**un mas dai man ka bas**
 – liian iso mies
 
 Asteen määrite muodostaa _yhdysadverbin_ toisen määritteen kanssa.
@@ -118,9 +118,9 @@ jolloin se määrittää lausetta kokonaisuutena.
 
 Sekä adjektiiveja että adverbeja voi verrata.
 
-- **max**
+- **mas**
   enemmän, -mpi
-- **maxim**
+- **masim**
   eniten
 - **min**
   vähemmän
@@ -129,11 +129,13 @@ Sekä adjektiiveja että adverbeja voi verrata.
 - **par**
    yhtä
 
-Pikkusana **ka** suhteuttaa vertailevan adverbin vertailtavaan asiaan.
+Pikkusana
+**ka**
+suhteuttaa vertailevan adverbin vertailtavaan asiaan.
 
-**aple es max hau ka oranje.**
+**aple e mas hau ka aranja.**
 = Omenat ovat parempia kuin appelsiinit.  
-**oranje es min hau ka aple.**
+**aranja e min hau ka aple.**
 = Appelsiinit ovat vähemmän hyviä kuin omenat.  
 **tu loge par hau ka mi.**
 = Sinä puhut yhtä hyvin kuin minä.

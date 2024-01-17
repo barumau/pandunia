@@ -65,12 +65,14 @@ so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself
 **mimen visi se.**
 – We see ourselves.
 
-The expression **semen** is used as the reciprocal pronoun.
+The expression
+**semen**
+is used as the reciprocal pronoun.
 
 **semen**
 – each other, one another
 
-**mi e tu visi semen.**
+**mi i tu visi semen.**
 – Me and you see each other.  
 **mimen visi semen.**
 – We see each other.
@@ -99,6 +101,7 @@ points to things that are far from the speaker.
 – Do you want that book?  
 **no, mi vol ye buku, no vo.**
 – No, I want this book, not that.
+
 The demonstratives can serve as subjects and objects in the same way as nouns.
 
 **ye e hau.**

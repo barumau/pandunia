@@ -144,11 +144,11 @@ as in the table below.
 
 | Subject         | TAM    | Predicate   | Det.   | Object            |
 |-----------------|--------|-------------|--------|-------------------|
-| *suke bache*    | **ya** | *kitabe*    | **un** | *long letre.*     |
+| *suka bacha*    | **ya** | *kitabi*    | **un** | *long letre.*     |
 | The happy child |        | writes      |        | a long letter.    |
-| *jun man*       | **ya** | *vide*      | **un** | *mei parke.*      |
+| *jun man*       | **ya** | *visi*      | **un** | *mei parke.*      |
 | The young man   |        | sees        |        | a beautiful park. |
-| *poli jen*      | **ya** | *vol shope* | **un** | nove dom.*        |
+| *poli jen*      | **ya** | *vol shope* | **un** | nova dom.*        |
 | Many people     |        | want to buy |        | a new house.      |
 
 So the key to decoding Pandunia is to know the structure words and the clause constructions.

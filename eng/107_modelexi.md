@@ -27,9 +27,9 @@ In Pandunia, "adjectives" are modifiers that are placed before the noun that the
 – a _new_ car  
 **un _suga_ gar**
 – a _fast_ car  
-**men _dai_ meza**
+**poli _dai_ meza**
 – _big_ tables  
-**men _gau_ meza**
+**poli _gau_ meza**
 – high tables  
 **un hau jen**
 – a good person
@@ -55,7 +55,7 @@ It is common to put the modifying particle
 between the modifier and the verb.
 It makes the structure of the verb phrase clearer.
 
-**tu _mei di_ kitabe.**
+**tu _mei di_ kitabu.**
 – You write _beautifully_.  
 **damen _suga di_ marche.**
 – They walk _fast_.
