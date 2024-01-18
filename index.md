@@ -1,5 +1,5 @@
 
-![](http://www.pandunia.info/bandir/bandir.png "banir de pandunia")
+![](https://www.pandunia.info/bandir/bandera.png "pandunia su bandera")
 
 #pandunia - dunia baxe
 

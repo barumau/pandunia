@@ -6,6 +6,7 @@ site_dir: ../../html/tai
 theme: material
 nav:
     - "พันดูเนีย": 'index.md'
+    - "พื้นฐาน": '003_baze.md'
 extra:
   social:
     - icon: fontawesome/brands/reddit
