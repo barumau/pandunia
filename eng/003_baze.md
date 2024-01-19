@@ -162,7 +162,8 @@ To modify a noun, put adjectives before it.
 – the good pie
 
 To modify a verb, put adverbs before it.
-The adverb can be tagged with **di**.
+The adverb can be tagged with
+**di**.
 
 **mi hau (di) visi tu.**
 – I see you well.  

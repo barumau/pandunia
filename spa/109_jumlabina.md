@@ -8,7 +8,7 @@ Pueden consistir en solo una palabra, que llama la atención del oyente.
 
 **mau!**
 – ¡Un gato!  
-**barxa!**
+**barsha!**
 – ¡Llueve!
 
 ## Oraciones de estado
@@ -28,11 +28,11 @@ En las oraciones más sencillas, el sujeto es un pronombre y el predicado es un 
 Cuando el sujeto es un sustantivo, el verbo de conexión **es** («ser», «estar») es necesario.
 
 
-**Sara es hau.**
+**Sara e hau.**
 – Sara está bien.  
-**ite es dai.**
+**ite e dai.**
 – Rocas son grandes.  
-**meza es neu.**
+**meza e neu.**
 – La mesa es nueva.
 
 La palabra **no** se añade para formar el negativo.
@@ -40,21 +40,22 @@ Entonces el verbo **es** no es necesario.
 
 | Positivo         | Negativo           |
 |------------------|--------------------|
-| **mi hau.**      | **mi no hau.**     |
+| **mi (e) hau.**  | **mi no hau.**     |
 | Yo estoy bien.   | Yo no estoy bien.  |
-| **da neu.**      | **da no neu.**     |
+| **da (e) neu.**  | **da no neu.**     |
 | Ello es nuevo.   | Ello no es nuevo.  |
-| **da Sara.**     | **da no Sara.**    |
+| **da (e) Sara.** | **da no Sara.**    |
 | Ella es Sara.    | Ella no es Sara.   |
-| **Sara es hau.**  | **Sara no hau.**   |
+| **Sara e hau.**  | **Sara no hau.**   |
 | Sara está bien.  | Sara no está bien. |
 
 
-Dos pronombres personales también se pueden combinar con **es** y **no**.
+Dos pronombres personales también se pueden combinar con
+**e**.
 
-**mi es da.**
+**mi e da.**
 – Yo soy ello.  
-**mi no (es) tu.**
+**mi no (e) tu.**
 – Yo no soy tú.
 
 
@@ -62,11 +63,11 @@ Dos pronombres personales también se pueden combinar con **es** y **no**.
 
 La misma regla aplica para dos adjetivos, o un verbo y un adjetivo.
 
-**jun es mei.**
-– Joven es lindo.  
+**jun e mei.**
+– Joven e lindo.  
 **neu no lau.**
-– Nuevo no es viejo.  
-**gani es hau.**
+– Nuevo no e viejo.  
+**gani e hau.**
 – Cantar es bueno.
 
 
@@ -75,7 +76,7 @@ La misma regla aplica para dos adjetivos, o un verbo y un adjetivo.
 Un predicado también puede ser un verbo. En este caso, puede haber objetos en adición al sujeto.
 Estes siguen el predicado.
 
-**mi marce.**
+**mi marche.**
 – Yo camino.  
 **tu yam yo aple.**
 – Tú comes manzana.  
@@ -241,11 +242,11 @@ Preguntas de sí o no se responden con
 **no**
 («no»).
 
-**tu vide mi, he?**
+**tu visi mi, he?**
 – ¿Tú me ves?  
-**ya. (mi ya vide tu.)**
+**ya. (mi ya visi tu.)**
 – Sí. (Yo _sí_ te veo.)  
-**no. (mi no vide tu.)**
+**no. (mi no visi tu.)**
 – No. (Yo _no_ te veo.)
 
 Preguntas negativas se responden para
@@ -254,11 +255,11 @@ y
 **no**
 aplican al verbo principal, no la pregunta entera.
 
-**tu no vide mi, he?**
+**tu no visi mi, he?**
 – ¿No me ves?  
-**ya. (mi vide tu.)**
+**ya. (mi visi tu.)**
 – Sí. (Te veo.)  
-**no. (mi no vide tu.)**
+**no. (mi no visi tu.)**
 – No. (No te veo.)
 
 
@@ -293,7 +294,7 @@ Sin embargo, a diferencia de español, el orden de las palabras también se pued
 – ¿Qué estás comiendo?  
 **tu zai yam ke?**
 – ¿Estás comiendo qué?  
-**da lai a ke sata?**
+**da lai a ke zaman?**
 – ¿Cuándo llega?  
 **tumen vizite a ke jen su dom?**
 – ¿La casa de quién ustedes visitaron?
@@ -314,48 +315,53 @@ En Pandunia, cláusulas relativas siempre son separadadas por comas.
 **la buku, ki la jen fa kitaba, pada.**
 – El libro, que la persona escribe, cae.
 
-Es posible omitir **ki**.
+Es posible omitir
+**ki**.
 Esta estructura se llama _cláusula relativa reducida_.
 
-**la buku, la jen fa kitaba, pada.**
+**la buku, la jen fa kitabi, pada.**
 – El libro, que la persona escribe, cae.
 
 El pronombre relative es necesario
 cuando el sustantivo relativizado es el sujeto de la cláusula relativa.
 
-**la jen, ki fa kitaba la buku, pada.**
+**la jen, ki fa kitabi la buku, pada.**
 – La persona, que escribe el libro, cae.
 
 En adición el objeto de una preposición puede ser la cabeza de la cláusula relativa.
 Es posible usar pronombres relativas o la estructura de cláusula relativa reducida.
 
-**la kalam, a ki la jen fa kitaba la buku, pada.**
+**la kalam, a ki la jen fa kitabi la buku, pada.**
 – La pluma, con que la persona escribe el libro, cae.  
-**la kalam, la jen fa kitaba la buku a, pada.**
+**la kalam, la jen fa kitabi la buku a, pada.**
 – La pluma, con que la persona escribe el libro, cae.
 
 El pronombre relativo puede ponerse en su lugar correcto en la estructura de eje
 o puede omitirse usando la estructura de cláusula relativa reducida.
 
-**la jen, mi vide ki fa kitaba la buku, pada.**
+**la jen, mi visi ki fa kitabi la buku, pada.**
 – La persona, que veo escribir el libro, cae.
-**la jen, mi vide fa kitaba la buku, pada.**
+**la jen, mi visi fa kitabi la buku, pada.**
 – La persona, que veo escribir el libro, cae.
 
 En adición _pronombre relativo resumivo_ se puede utilizar si es necesario.
 
-**la jen, mi fa kitaba la buku na ki su kalam, padu.**
+**la jen, mi fa kitabi la buku na ki su kalam, padu.**
 – La persona, con cuya pluma escribo el libro, cae.
 
 
 ## Cláusulas de contenido
 
 Una cláusula de contenido puede ponerse antes o despues de la cláusula que habla sobre ella.
-El demostrativo **vo** indica la frase siguiente, y **la** indica la previa.
+El demostrativo
+**vo**
+indica la frase siguiente, y
+**la**
+indica la previa.
 
-**vo es bari, ki mi le no vide damen.**
+**vo e bari, ki mi le no visi damen.**
 – Lo siguiente es importante: resulta que no los veo.  
-**ki pan jen ha sam vale, la es klar.**
+**ki pan jen be sana ka par, la e klar.**
 – Todas las personas son iguales; este hecho es claro.
 
 --------------------------------------------------------------------------------
@@ -364,7 +370,7 @@ El demostrativo **vo** indica la frase siguiente, y **la** indica la previa.
 
 ### Conjunciones básicas
 
-**e**
+**i**
 – y (conecta dos palabras o frases similares)  
 **o**
 – o (conecta dos palabras o frases alternativas)  
@@ -372,7 +378,7 @@ El demostrativo **vo** indica la frase siguiente, y **la** indica la previa.
 – pero (introduce una palabra o frase que contrasta o
 contradice con la palabra o frase previa)
 
-**mi suka mau e vaf.**
+**mi suka mau i vaf.**
 – Me gustan los gatos y los perros.  
 **mi suka mau o vaf.**
 – Me gustan los gatos o los perros.  

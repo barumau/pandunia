@@ -13,9 +13,9 @@ For example, the word
 modifies a noun in sentence A
 and a verb in sentence B.
 
-A. **vo es _mei_ kitabe.**
+A. **vo es _mei_ kitabi.**
 – That is a beautiful writing.  
-B. **tu _mei_ di kitabe.**
+B. **tu _mei_ di kitabi.**
 – You write _beautifully_.
 
 
@@ -47,7 +47,7 @@ is placed immediately before the verb.
 
 **tu _suga_ loge.**
 – You talk _fast_.  
-**damen _hau_ kitabu.**
+**damen _hau_ kitabi.**
 – They write _well_.
 
 It is common to put the modifying particle
@@ -55,7 +55,7 @@ It is common to put the modifying particle
 between the modifier and the verb.
 It makes the structure of the verb phrase clearer.
 
-**tu _mei di_ kitabu.**
+**tu _mei di_ kitabi.**
 – You write _beautifully_.  
 **damen _suga di_ marche.**
 – They walk _fast_.

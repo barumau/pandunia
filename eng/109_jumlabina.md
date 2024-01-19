@@ -827,34 +827,34 @@ It is also possible to leave
 out.
 This structure is called _reduced relative clause_.
 
-**la buku, la jen fa kitabe, pada.**
+**la buku, la jen fa kitabi, pada.**
 – The book the person writes falls.
 
 The relative pronoun is necessary
 when the relativized noun is the subject of the relative clause.
 
-**la jen, ki fa kitabe la buku, pada.**
+**la jen, ki fa kitabi la buku, pada.**
 – The person that writes the book falls.
 
 Also the object noun of a preposition can be the target of the relative clause.
 It's possible to use relative pronouns or the reduced relative clause structure.
 
-**la kalam, a ki la jen fa kitabe la buku, pada.**
+**la kalam, a ki la jen fa kitabi la buku, pada.**
 – The pen, with _which_ the person writes the book, falls.  
-**la kalam, la jen fa kitabe la buku a, pada.**
+**la kalam, la jen fa kitabi la buku a, pada.**
 – The pen the person writes the book with falls.
 
 The relative pronoun can be put in its right place in the pivot structure
 or it can be left out by using the reduced relative clause structure.
 
-**la jen, mi visi ki fa kitabe la buku, pada.**
+**la jen, mi visi ki fa kitabi la buku, pada.**
 – The person, whom I see write the book, falls.  
-**la jen, mi visi fa kitabe la buku, pada.**
+**la jen, mi visi fa kitabi la buku, pada.**
 – The person that I see write the book falls.  
 
 Also a _resumptive relative pronoun_ can be used if needed.
 
-**la jen, mi fa kitabe la buku na ki su kalam, padu.**
+**la jen, mi fa kitabi la buku na ki su kalam, padu.**
 – The person whose pen I write the book with falls.
 
 

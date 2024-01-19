@@ -34,11 +34,11 @@ La posedaj pronomoj estas formata per aldo de partiklo
 Rimarko: La refleksiva pronomo **se** povas uziĝi por ĉiuj personoj.
 Do ĝi rilatas al ĉiuj tiaj uzadoj en Esperanto, kiel: _mi(n) mem_, _vi(n) mem_, _ni(n) mem_ kaj _si(n)_.
 
-**mi vide se**
+**mi visi se**
 – Mi vidas min.  
-**da vide se**
+**da visi se**
 – Ŝi vidas sin.  
-**mimen vide se.**
+**mimen visi se.**
 – Ni vidas nin.
 
 Oni uzas **se kon** por esprimi reciprokecon.
@@ -46,9 +46,9 @@ Oni uzas **se kon** por esprimi reciprokecon.
 **semen**
 – unu la alia
 
-**mi e tu vide semen.**
+**mi i tu visi semen.**
 – Mi kaj vi vidas unu la alian.  
-**mimen vide semen.**
+**mimen visi semen.**
 – Ni vidas unu la alian.
 
 ## Montrovortoj
@@ -62,9 +62,9 @@ La montrovorto estas:
 **la**
 – la
 
-**ye es bon.**
+**ye e bon.**
 – ĉi tiu (aĵo) estas bone.  
-**vo es dus.**
+**vo e dus.**
 – Tiu (aĵo) estas malbone.  
 **mi vol ye buku, no vo.**
 – mi volas ĉi tiun libron, ne tiun.
@@ -77,7 +77,7 @@ La montrovorto estas:
 
 **ke?**
 – Kiu?/Kio?  
-**ke xe?**
+**ke she?**
 – Kio? (Kiu afero?)  
 **ke jen?**
 – Kiu? (Kiu persono?)  

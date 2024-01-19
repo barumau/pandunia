@@ -1,6 +1,7 @@
+
 # Substantivoj
 
-##. Senflekciaj
+## Senflekciaj
 
 _Substantivo_ estas vorto kiu prezentas aferon.
 Substantivoj estas senfleksiaj, kiel aliaj vortospecoj en pandunio.
@@ -25,7 +26,7 @@ La aliaj vortoj, kiuj antaŭas la kernan vorton, nur modifas ĝian sencon.
 **sol foto**
 – suna lumo  
 **luna foto**
-– lun lumo  
+– luna lumo  
 **luna ite**
 – luna ŝtono  
 
@@ -51,6 +52,4 @@ Oni povas esprimin nombron per numeraloj kiam ĝi estas utila.
 
 Pandunia ne havas gramatikan genron (t.e. maskla, femala kaj neŭtra kategorioj).
 
-Kelkaj vortoj enhavas _naturan genron_.
-Ekzemple **fem** (virino) estas femala kaj **man** (viro) estas maskla.
 

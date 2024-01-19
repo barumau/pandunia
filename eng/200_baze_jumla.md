@@ -130,7 +130,9 @@ You're welcome. (Literally: _No need to thank._)
 
 ### e <small>to be</small>
 
-The word **es** can be used also for stating something as a fact.
+The word
+**e**
+can be used also for stating something as a fact.
 
 **mi e Tomas.**
 I am Thomas.
@@ -305,13 +307,17 @@ It is placed before the word that is denied.
 **da no sal mi.**
 He/she doesn't greet me.
 
-<small>Etymology. **no**
-is from Spanish: no, English no, French: non.</small>
+<small>Etymology. **no** is from
+Spanish *no*,
+English *no*,
+French *non*.</small>
 
 
 ### Plural pronouns
 
-Plural pronouns are created like this:  
+Add
+**men** to singular pronouns to make the plural.
+
 **mi**
 (I) →
 **mimen**
@@ -552,7 +558,8 @@ Would you like to eat?
 What would you like to eat?
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia
-the word order is not affected by the **ke**.
+the word order is not affected by the
+**ke**.
 
 **mi vol yam kafe.**
 I want to drink coffee.

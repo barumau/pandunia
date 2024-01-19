@@ -5,25 +5,25 @@
 
 Subjekto indikas personon kaj nombron de verbo.
 Ekzemple, la verbo
-**es**
+**e**
 ('esti') havas la saman formon en ćiu person.
 
-**_mi_ es doste.**
+**_mi_ e dosti.**
 – mi estas amiko.  
-**_tu_ es doste.**
+**_tu_ e dosti.**
 – Ci estas amiko.  
-**_ya_ es doste.**
+**_ya_ e dosti.**
 – Ri (li aŭ ŝi) estas amiko.  
-**_mimen_ es doste.**
+**_mimen_ e dosti.**
 – Ni estas amikoj.  
-**_tumen_ es doste.**
+**_tumen_ e dosti.**
 – Vi estas amikoj.  
-**_damen_ es doste.**
+**_damen_ e dosti.**
 – Ili estas amikoj.
 
 Ankaŭ substantivo povas roli kiel subjekto.
 
-**mau es hevan.**
+**mau e hevan.**
 – Kato estas besto.
 
 Ofte estas markilo inter subjekto kaj verbo
@@ -41,7 +41,7 @@ sed nur klarifigas sian konstruon.
 – Kunikla manĝo. – Kuniklo manĝas.  
 **tuzi ya yam.**
 – Kuniklo (ja) manĝas.  
-**karote es tuzi yam.**
+**karote e tuzi yam.**
 – Karoto estas kunikla manĝo.  
 **tuzi _ya_ yam karote.**
 – Kunikloj (ja) manĝas karotojn.

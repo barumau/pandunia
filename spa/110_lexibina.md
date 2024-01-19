@@ -49,8 +49,8 @@ hace adjectivos de sustantivos y verbos.
 
 **dom** casa →
 **dom di** doméstico  
-**oranje rang** color naranja →
-**oranje rang di** de color naranja
+**aranja rang** color naranja →
+**aranja rang di** de color naranja
 
 
 #### -er

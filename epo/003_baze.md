@@ -66,14 +66,14 @@ Se la subjekto estas persona pronomo, la **ya** estas forlasita.
 Vortordo ege gravas.
 La normala vortordo estas subjekto–verbo–objekto.
 
-**mi ame tu.**
+**mi ai tu.**
 – Mi amas vin.
 
 Kiam la objekto estas substantivo, ĝi estas markita per montranta pronomo pronoun, nombrovorto aŭ alia vorteto.
 
 **mi yam un pai.**
 – Mi manĝas torton.  
-**tu yam ni pai.**
+**tu yam ye pai.**
 – Vi manĝas ĉi tiun torton.
 
 ### Neado
@@ -87,26 +87,28 @@ Aldoni **no** antaŭ la neita vorto.
 
 ### Esti
 
-La verbo **si** signifas 'esti'.
+La verbo
+**e**
+signifas 'esti'.
 Oni povas forĵeti ĝin de tre simplaj frazoj.
 
-**mi un jen.**
+**mi e jen.**
 – Mi homo.  
-**mi si un jen.**
+**mi jen.**
 – Mi estas homo.  
-**mi vol si un mau.**
+**mi vol e mau.**
 – Mi volas esti kato.
 
 ### Multeuzeblaj vortoj
 
 La vortoj de pandunia ofte havas pli vastan sencon ol la korespondaj esperantaj vortoj.
 
-**da ame mau.**
+**da ai mau.**
 – Li amas katojn. / Ŝi amis katon. / Ĝi amos la katon.
 
 Sed la kunteksto normale klarigas la precizan signifon:
 
-**tri nen cen, mi ha du mau e un vaf. mi mas ha un fem ben. da ame mau!**
+**pre tri nen, mi ha du mau i un vaf. mi ha mas un fem ben. da ai mau!**
 – Antaū tri jaroj mi havis du katojn kaj unu hundon. Mi ankaū havis filinon. _Ŝi amis la katojn!_
 
 ### Tempo
@@ -121,13 +123,13 @@ Tensoj kaj aspektoj estas esprimita per adverboj kaj helpantaj verboj, kiel
 **sha**
 (estonte).
 
-**mi zai ame tu.**
+**mi zai ai tu.**
 – Mi amas vin.  
-**mi pas ame tu.**
+**mi pas ai tu.**
 – Mi amis vin.  
-**mi le ame tu.**
+**mi le ai tu.**
 – Mi estas aminta vin.  
-**mi sha ame tu.**
+**mi sha ai tu.**
 – Mi amos vin.
 
 ### Pasivo
@@ -135,58 +137,59 @@ Tensoj kaj aspektoj estas esprimita per adverboj kaj helpantaj verboj, kiel
 La pasivo estas farita uzante la helpantan verbon
 **be**.
 
-**tu be ame.**
+**tu be ai.**
 – Vi estas amita.  
-**mi be ame de tu.**
+**mi be ai de tu.**
 – Mi estas amita de vi.
 
 ### Modifaj vortoj
 
 Adjektivoj estas antaŭ la vorto, kiun ili modifas.
 
-**un nove ame**
+**un neu ai**
 – nova amo  
 **la hau pai**
 – bona torto
 
 Aldonu modifvorton antaŭ verboj.
-La adverboj povas esti markita de vorteto **di**.
+La adverboj povas esti markita de vorteto
+**di**.
 
-**mi hau vide tu.**
+**mi hau (di) visi tu.**
 – Mi bone vidas vin.  
-**tu vide di ame da.**
+**tu visi di ai da.**
 – Vi vidable amas lin aŭ ŝin.
 
 Por kompari modifvortojn, uzu la vortetoj
 **mas** 'pli', **masim** 'plej',
 **min** 'malpli', **minim** 'malplej' kaj **par** 'egale'.
-The point of comparison is introduced with **ka** 'kiel'.
+La celo de komparo estas markita per **ka** 'kiel'.
 
-**tu si mas lau ka mi.**
+**tu e mas sen ka mi.**
 – Vi estas pli maljuna ol mi.  
-**tu si masim lau.**
+**tu e masim sen.**
 – Vi estas la plej maljuna.
 
 ### Demandoj
 
 Por demandi _jes–aŭ–ne_ demandon anstataŭigi la verbon per "(verbo) **no** (verbo)" konstruo aŭ aldoni **he** 'ĉu' je la fino de la frazo.
 
-**tu vide no vide mi?**
+**tu visi no visi mi?**
 – Ĉu vi vidas min?  
-**tu vide mi, he?**
+**tu visi mi, he?**
 – Vi vidas min, ĉu?
 
 Por demandi _ki_-demandon skribu la normala frazo kaj anstataŭigu la demanditan vorton per
 **ke**
 'kio, kiu'.
 
-**tu ame ke?**
+**tu ai ke?**
 – Kiun vi amas?  
-**tu ame ke man?**
+**tu ai ke man?**
 – Kiun viron vi amas?  
-**ke man ya ame tu?**
+**ke man ya ai tu?**
 – Kiu viro amas vin?  
-**tu ame da ke poli?**
+**tu ai da ke poli?**
 – Kiom multe vi amas lin?
 
 ### Ordonojn
@@ -195,6 +198,6 @@ Por diri ordonon forĵetu la subjekto kaj komencigi la frazon per la verbo.
 
 **yam ye pai!**
 – Manĝu ĉi tiun torton!  
-**vide vo mau!**
+**visi vo mau!**
 – Vidu tiun katon!
 

@@ -40,7 +40,8 @@ The possessive pronouns are:
 The interrogative pronouns are:
 **ke**
 _what_ or _who_,
-**ke su** _whose_.
+**ke su**
+_whose_.
 
 
 ### (5) Nouns
@@ -105,8 +106,7 @@ A similar effect can be also reached with the impersonal pronoun
 **men loga pandunia.**
 – One speaks Pandunia.
 
-In the _pivot structure_, the object of the transitive verb
-functions as the subject of the following verb.  
+In the _pivot structure_, the object of the transitive verb functions as the subject of the following verb.  
 **mi ching tu loga pandunia.**
 – I ask you to speak Pandunia.
 

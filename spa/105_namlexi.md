@@ -54,7 +54,7 @@ Un método fácil para decir que hay muchos es repetir el sustantivo dos veces.
 Nombres propios son sustantivos para personal, lugares, y otras cosas individuales.
 
 Nombres de personas pueden etiquetarse con la título de respeto universal
-**xi**.
+**si**.
 Usarlo mostra respeto y cortesía.
 
 Puede usarse en situaciones formales e informales, y para todos los grupos social, de edad, o de género.
@@ -68,11 +68,11 @@ Por lo tanto es aconsejable usar **shi** siempre cuando conoce personas nuevas d
 
 Un título de respeto se puede usar con el nombre de pila, el apellido, o los dos.
 
-**xi Gabriel Garsia Markes**
+**si Gabriel Garsia Markes**
 – Sr. Gabriel García Marquez  
-**xi Gabriel**
+**si Gabriel**
 – Sr. Gabriel  
-**xi Garsia Markes**
+**si Garsia Markes**
 – Sr. García Marquez
 
 

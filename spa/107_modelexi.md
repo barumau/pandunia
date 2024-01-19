@@ -13,9 +13,9 @@ Por ejemplo, la palabra
 modifica un sustantivo en la oración A
 y un verbo en la oración B.
 
-A. **vo es un _suga_ car.**
+A. **vo es un _suga_ gar.**
 – Eso es un carro _rápido_.  
-B. **tu _suga_ di loge.**
+B. **tu _suga_ di loga.**
 – Usted habla _rápido_.
 
 
@@ -23,13 +23,13 @@ B. **tu _suga_ di loge.**
 
 En Pandunia, _adjetivos_ son modificadores que preceden el sustantivo que modifican.
 
-**un _neu_ car**
+**un _neu_ gar**
 – un carro _nuevo_  
-**un _suga_ car**
+**un _suga_ gar**
 – un carro _rápido_  
-**men _dai_ meza**
+**poli _dai_ meza**
 – mesas _grandes_  
-**men _gau_ meza**
+**poli _gau_ meza**
 – mesas _altas_  
 **un hau jen**
 – una persona _buena_
@@ -41,9 +41,9 @@ a diferencia de español, en que adjetivos cambian para acordar con el sustantiv
 – un hombre bueno  
 **un hau fem**
 – una mujer buena  
-**men hau man**
+**poli hau man**
 – hombres buenos  
-**men hau fem**
+**poli hau fem**
 – mujeres buenas
 
 Dos o más modificadores pueden modifican el mismo sustantivo.
@@ -58,7 +58,7 @@ En Pandunia, _adverbos_ son modificadores que preceden el verbo que modifican.
 
 **tu _suga_ loge.**
 – Usted hablas _rápido_.  
-**damen _hau_ kitabe.**
+**damen _hau_ kitabi.**
 – Ellas escriben _bien_.
 
 Es común poner la partícula de modificación
@@ -66,9 +66,9 @@ Es común poner la partícula de modificación
 entre el modificador y el verbo.
 Hace la estructura del frase verbal más claro.
 
-**tu _mei di_ kitabe.**
+**tu _mei di_ kitabi.**
 – Tú escribes _hermoso_.  
-**damen _suga di_ marce.**
+**damen _suga di_ marche.**
 – Ellos caminan _rápido_.
 
 
@@ -80,7 +80,7 @@ también se usa cuando un modificador modifica un otro.
 
 **un _surpris di_ hau buku**
 – un _sorprendentemente_ buen libro  
-**poli _bala di_ ame ja jen**
+**poli _bala di_ ai ja jen**
 – personas _firmemente_ amorosas
 
 
@@ -92,11 +92,11 @@ Palabras de grado nos dicen sobre la intensidad de algo.
 – muy  
 **bas**
 – bastante  
-**max**
+**mas**
 – más  
 **min**
 – menos  
-**max ka bas**
+**mas ka bas**
 – demasiado
 
 Palabras de grado preceden la palabra que modifican.
@@ -105,9 +105,9 @@ Palabras de grado preceden la palabra que modifican.
 – un hombre grande  
 **un tre dai man**
 – un hombre muy grande  
-**un max dai man**
+**un mas dai man**
 – un hombre más grande  
-**un max dai man ka bas**
+**un mas dai man ka bas**
 – un hombre demasiado grande
 
 Una palabra de grado junta con un modificador crea un _adverbo compuesto_
@@ -135,9 +135,9 @@ El significado es la misma como cuando el adverbo compuesto modifica el verbo pr
 
 Adjetivos pueden compararse con los adverbos de comparación.
 
-- **max**
+- **mas**
   (_más_) indica superioridad sobre otra cosa
-- **maxim**
+- **masim**
   (_mayor_) indica superioridad sobre un grupo entero
 - **min**
   (_menos_) indica inferioridad a otra cosa
@@ -147,13 +147,13 @@ Adjetivos pueden compararse con los adverbos de comparación.
   (_igual_, _tan_ o _equivamente_) indica igualdad
 
 La partícula
-**ka** (_que_)
-relaciona los adverbos de comparación al objeto de comparación.
+**ka**
+(_que_) relaciona los adverbos de comparación al objeto de comparación.
 
-**aple es max hau ka oranje.**
+**aple e mas hau ka aranja.**
 = Las manzanas son mejores (más buenas) que las naranjas.  
-**oranje es min hau ka aple.**
+**aranja e min hau ka aple.**
 = Las naranjas son peores (menos buenas) que las manzanas.  
-**tu loge par hau ka mi.**
+**tu loga par hau ka mi.**
 = Hablas tan bien como yo.
 

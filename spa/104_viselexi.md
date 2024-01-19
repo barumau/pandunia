@@ -131,7 +131,7 @@ Funciona como las palabras españoles _qué_, _quién_, y _cuál_.
 
 Para formar otros pronombres interogativos, **ke** se combina con sustantivos genéricos.
 
-**ke xe?**
+**ke she?**
 – ¿Cuál? (¿Qué cosa?)  
 **ke jen?**
 – ¿Quién? (¿Qué persona?)  
@@ -139,7 +139,7 @@ Para formar otros pronombres interogativos, **ke** se combina con sustantivos ge
 – ¿Cuando? (¿En qué tiempo?)  
 **ke loka?**
 – ¿Donde? (¿En qué lugar?)
-**ke yang?** 
+**ke mode?**
 – ¿Cómo? (¿De qué modo?)  
 **ke sabu?**
 – ¿Por qué? (¿Por qué razón?)

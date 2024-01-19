@@ -10,9 +10,9 @@ En pandunio, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
 – nova aŭto 
 **un _suga_ gar**
 – rapida aŭto  
-**men _dai_ meza**
+**poli _dai_ meza**
 – grandaj tabloj  
-**men _gau_ meza**
+**poli _gau_ meza**
 – altaj tabloj  
 **un hau jen**
 – bona homo
@@ -20,14 +20,14 @@ En pandunio, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
 Kiam modifovorto sekvas substantivon, ĝi rolas kvazaŭ kiel verbo, kiu indikas staton.
 Tio estas, kiel adjektivaj verboj en Esperanto.
 
-**gar es neu.**
+**gar e neu.**
 – La aŭto novas. (Aŭ: La aŭto estas nova.)  
-**bagre es suga.**
+**bagre e suga.**
 – Tigroj rapidas. (Aŭ: Tigroj estas rapidaj.)  
 
 Kompreneble, eblas ke modifovortoj aperu je ambaŭ flankoj de substantivo.
 
-**un neu gar es suga.**
+**un neu gar e suga.**
 – Nova aŭto estas rapida.
 
 ## Modifante verbon
@@ -52,16 +52,16 @@ inter la modifanta kaj la modifata.
 
 **un dai di_ hau buku**
 – _grande_ bona libro  
-**poli _bala di_ ame ja jen**
+**poli _bala di_ ai ja jen**
 – _forte_ amantaj homoj
 
 ### Komparoj
 
 Modifovortoj povas esti komparataj.
 
-- **max**
+- **mas**
   (pli) signifas komparo de plieco
-- **maxim**
+- **masim**
   (la plej) signifas komparo de plejeco
 - **min**
   (malpli) signifas komparo de malplieco
@@ -70,11 +70,13 @@ Modifovortoj povas esti komparataj.
 - **par**
   (same, egale) signifas komparo de sameco
 
-Partiklo **ko** rilatas komparvortoj al la fonto de komparo.
+Partiklo
+**ka**
+rilatas komparvortoj al la fonto de komparo.
 
-**aple es max hau ka oranje.**
+**aple e mas hau ka aranja.**
 – Pomoj estas pli bonaj ol oranĝoj.  
-**oranje es min hau ka aple.**
+**aranja e min hau ka aple.**
 – Oranĝoj estas malpli bonaj ol pomoj.
 **tu loga par hau ka mi.**
 – Vi parolas same bone kiel mi.

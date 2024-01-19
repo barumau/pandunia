@@ -9,25 +9,25 @@ no como cambiar las formas de verbos como en español y otros idiomas.
 
 Persona y número son indicados por el sujeto.
 Por ejemplo, el verbo
-**es**
+**e**
 (»ser>>) tiene la misma forma para todas las personas.
 
-**_mi_ es doste.**
+**_mi_ e dosti.**
 – Yo soy una amiga.  
-**_tu_ es doste.**
+**_tu_ e dosti.**
 – Tú eres un amigo.  
-**_da_ es doste.**
+**_da_ e dosti.**
 – Éla es amiga de alguien.  
-**_mimen_ es doste.**
+**_mimen_ e dosti.**
 – Nosotros somos unos amigos de alguien.  
-**_tumen_ es doste.**
+**_tumen_ e dosti.**
 – Ustedes son unas amigas de alguien.  
-**_damen_ es doste.**
+**_damen_ e dosti.**
 – Ellos son unos amigos de alguien.
 
 En adición un sustantivo puede servir de un sujeto.
 
-**mau es hevan.**
+**mau e hevan.**
 – El gato es animal.
 
 Frecuentamente hay indicador entre el sujeto y el verbo
@@ -41,7 +41,7 @@ Un de los indicadores más adecuado es
 que añade ningún contenido a la oración
 pero ayuda clarificar su estructura.
 
-**karote es uma yam.**
+**karote e uma yam.**
 – Zanahoria es comida para caballos.  
 **uma _ya_ yam karote.**
 – El caballo come zanahorias.
@@ -54,15 +54,15 @@ que se introducen suguiente.
 
 La relación de un acción, evento, o estado a tiempo se indica con verbos auxiliares.
 
-**xuru**
+**shuru**
 (»empezar>>, »comenzar>>)
 indica el comienzo de una acción o transición a una situación nueva.
 
-**mi xuru fuku la kote.**
+**mi shuru fuku la kote.**
 – Empiezo a llevar el abrigo. = Me pongo el abrigo.  
-**kaguji ya xuru hogo.**
+**kaguji ya shuru hogo.**
 – Papel empieza a quemar.  
-**tu xuru yam.**
+**tu shuru yam.**
 – Empiezas a comer.
 
 **fin**
@@ -80,7 +80,7 @@ indica que un acción se completa totalmente.
 
 **tu pul yam un piza.**
 – Completamente comiste un pizza.  
-**mi pul vide la filme.**
+**mi pul visi la filme.**
 – Miré la película completamente. = Acabo mirando la película.
 
 **zai**
@@ -109,7 +109,7 @@ indica que una acción ocurre frecuentamente.
 indica que una situación ha sido logrado, y el estado presente es el resulto de eso.
 Preste atención a la consecuencia de una acción pasada a la situación actual.
 
-**da _le_ es guru.**
+**da _le_ e guru.**
 – Se ha hecho docente.  
 **mi _le_ no gul yo alkohol.**
 – Ya no bebir alcohol.  
@@ -119,7 +119,7 @@ Preste atención a la consecuencia de una acción pasada a la situación actual.
 – Los he dado el libro. (Todavía lo tienen y yo no.)  
 **damen no _le_ ridon da to mi.**
 – No me lo han devuelvo.  
-**mi _le_ lai to site.**
+**mi _le_ lai to siti.**
 – He venido a la ciudad.
 
 **pas**
@@ -134,12 +134,12 @@ y es pertinente solo como una experiencia.
 **mi pas ada gul yo bir.**
 – Yo solía bebir cerveza. / Tení la costumbre de bebir cerveza.
 
-**xa**
+**sha**
 (»ir a>>, »futuro>>)
 indica que un evento ocurrirá en el futuro.
 
-**da _xa_ es guru.**
+**da _sha_ e guru.**
 – Será docente.  
-**mi no _xa_ gul yo bir.**
+**mi no _sha_ gul yo bir.**
 – No voy a bebir una cerveza.
 
