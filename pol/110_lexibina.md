@@ -13,13 +13,13 @@ Wiele z nich pochodzi z starożytnej greki, łaciny, języka arabskiego i język
 Tworzy wykonawcę czynności z rdzeni-czynności.
 Określa osobę lub narzędzie wykonujące czynność.
 
-**loge**
+**loga**
 'mówić' → 
-**loger**
+**logar**
 'mówca, ten, kto mówi'  
-**beke**
+**bake**
 'piec' →
-**beker**
+**baker**
 'piekarz'  
 **lide**
 'przewodzić' → 

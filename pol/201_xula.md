@@ -10,38 +10,52 @@ hide:
 ### Dialog
 
 <big>☺</big>
-**tu es ke?**
+**tu e ke?**
 = Kim jesteś?  
 <big>☻</big>
-**mi es Yusef. tu es ke?**
+**mi e Yusef. tu e ke?**
 = Jestem Yusef. Kim jesteś?  
 <big>☺</big>
-**mi es Sara. da es ke?**
+**mi e Sara. da e ke?**
 = Jestem Sara. Kto to?  
 <big>☻</big>
-**da es mi su doste.**
+**da e mi su dosti.**
 = To mój przyjaciel.  
 <big>☺</big>
-**da su nam es ke?**
+**da su nam e ke?**
 = Jak się nazywa?  
 <big>☻</big>
-**da su nam es Maria.**
+**da su nam e Maria.**
 = Nazywa się Maria.
 
 ### Gramatyka
 
-Zdania w Panduni normalnie podążają za strukturą temat-komentarz. Temat wskazuje,o kim lub o czym jest mowa. Komentarz mówi coś o temacie. Na przykład, w **da es mi su doste** tematem jest zaimek **da** (on, ona, ono), za którym podąrza komentarz **es mi su doste** (jest moim przyjacielem).
+Zdania w Panduni normalnie podążają za strukturą temat-komentarz.
+Temat wskazuje,o kim lub o czym jest mowa.
+Komentarz mówi coś o temacie.
+Na przykład, w
+**da e mi su dosti**
+tematem jest zaimek
+**da**
+(on, ona, ono), za którym podąrza komentarz
+**e mi su dosti**
+(jest moim przyjacielem).
 
-Słowo **es** znaczy _być_ w Pandunia. To samo słowo jest używane dla wszystkich osób. By powiedzieć przeciwnie, po prostu zamień je na **no** (które jest słowem na _nie_).
+Słowo
+**e**
+znaczy _być_ w Pandunia. To samo słowo jest używane dla wszystkich osób.
+By powiedzieć przeciwnie, po prostu zamień je na
+**no**
+(które jest słowem na _nie_).
 
-**da es Sara.**
+**da e Sara.**
 = Ona jest Sarą.  
-**da no es Sara.**
+**da no e Sara.**
 = Ona nie jest Sarą.
 
-**mau es hevan.**
+**mau e hevan.**
 = Kot jest zwierzęciem.  
-**dom no es hevan.**
+**dom no e hevan.**
 = Dom nie jest zwierzęciem.  
 
 
@@ -59,24 +73,45 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 
 ### Lista słów
 
-**mi** Ja, mnie. **mi su** mój.  
-**tu** ty, cię. **tu su** twój.  
-**da** on, ona lub ono. **da su** jego lub jej.  
-**ke** co lub kto.  
-**es** być (jestem, jesteś, jest, itd)
-**ya** tak. **no** nie.  
-**hau** dobry, dobrze. **doste** przyjaciel. **nam** imię, nazwa.
-**fem** kobieta. **man** mężczyzna.
-**mau** kot. **hewan** zwierzę.
+**mi** 
+ja, mnie. **mi su** mój  
+**tu**
+ty, cię. **tu su** twój  
+**da**
+on, ona lub ono  
+**da su**
+jego lub jej  
+**ke**
+co lub kto  
+**e**
+być (jestem, jesteś, jest, itd)  
+**ya**
+tak  
+**no**
+nie  
+**hau**
+dobry, dobrze  
+**dosti**
+przyjaciel  
+**nam**
+imię, nazwa  
+**fem**
+kobieta  
+**man**
+mężczyzna  
+**mau**
+kot  
+**hevan**
+zwierzę
 
 ### Odpowiedzi do Ćwiczeń
 
-1. tu es ke?
-2. mi es Tomas.
-3. tu su doste es ke?
-4. da es Sara.
-5. tu su nam es ke?
-6. mi su nam es ........... 
+1. tu e ke?
+2. mi e Tomas.
+3. tu su dosti e ke?
+4. da e Sara.
+5. tu su nam e ke?
+6. mi su nam e ........... 
 
 
 --------------------------------------------------------------------------------
@@ -87,25 +122,49 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 **sal**
 = Cześć!
 
-Oto jak ludzie pozdrawiają się w Panduni. Mówią **sal**. To słowo jest używane i na powitanie, jak i na pożegnanie
+Oto jak ludzie pozdrawiają się w Panduni. Mówią
+**sal**.
+To słowo jest używane i na powitanie, jak i na pożegnanie
 
 **sal**
 = Żegnaj!
 
-Słowo **sal** znaczy "pozdrowienie". Jest oryginalnie arabskim słowem znaczącym _pokój_ i jest powszechnym pozdrowieniem w wielu częściach śœiata, szczególnie w Afryce i Azji. Pandunia jest językiem ogólnoświatowym, biorącym słowa z wszystkich części świata.
+Słowo
+**sal**
+znaczy "pozdrowienie".
+Jest oryginalnie arabskim słowem znaczącym _pokój_ i jest powszechnym pozdrowieniem w wielu częściach śœiata, szczególnie w Afryce i Azji.
+Pandunia jest językiem ogólnoświatowym, biorącym słowa z wszystkich części świata.
 
-Forma czasownikowa **sal** to **sal**, znaczące "pozdrawiać".
+**sal**
+znaczące "pozdrawiać".
 
 **mi sal tu.**
 = Pozdrawiam cię.  
 **tu sal mi.**
 = Pozdrawiasz mnie.
 
-To są zdania czynne. W zdaniach czynnych podmiot wykonuje czynność na dopełnieniu. W **mi sal tu** pierwsze słowo, **mi**, jest podmiotem, **sal** jest orzeczeniem (słowem-czynnością), a **tu** jest dopełnieniem. Kolejność podmiotu, orzeczenia i dopełnienia jest ważna i nigdy się nie zmienia.
+To są zdania czynne. W zdaniach czynnych podmiot wykonuje czynność na dopełnieniu. W
+**mi sal tu**
+pierwsze słowo,
+**mi**,
+jest podmiotem,
+**sal**
+jest orzeczeniem (słowem-czynnością), a
+**tu**
+jest dopełnieniem.
+Kolejność podmiotu, orzeczenia i dopełnienia jest ważna i nigdy się nie zmienia.
 
 > Kolejność słów w zdaniu czynnym: Podmiot + Orzeczenie + Dopełnienie
 
-W Panduni zaimki osobowe to: **mi** = ja, **tu** = ty, i **da** = on,ona, ono. Zauważ, że zaimki zostają takie same w poprzednich, przykładowych, zdaniach. Słowa nigdy się nie odmieniają w Panduni. Pozostają takie same niezleżnie od ich pozycji w zdaniu.
+W Panduni zaimki osobowe to:
+**mi**
+= ja,
+**tu**
+= ty, i
+**da**
+= on,ona, ono.
+Zauważ, że zaimki zostają takie same w poprzednich, przykładowych, zdaniach.
+Słowa nigdy się nie odmieniają w Panduni. Pozostają takie same niezleżnie od ich pozycji w zdaniu.
 
 W Panduni zdania mogą być skracane przez opuszczanie zaimków oczywistych w danej sytuacji.
 
@@ -116,7 +175,9 @@ W Panduni zdania mogą być skracane przez opuszczanie zaimków oczywistych w da
 **sal!**
 = Pozdrowienia! (To oczywiste, że słuchacze są pozdrawiania.)
 
-Wzór w **sal tu** jest poręczny w zwracaniu się do ludzi po imieniu, określeniu pokrewieństwa lub zawodzie.
+Wzór w
+**sal tu**
+jest poręczny w zwracaniu się do ludzi po imieniu, określeniu pokrewieństwa lub zawodzie.
 
 **sal toni!**
 = Cześć, Tony!  
@@ -124,17 +185,21 @@ Wzór w **sal tu** jest poręczny w zwracaniu się do ludzi po imieniu, określe
 = Cześć, mamo!  
 **sal papa!**
 = Cześć, tato!  
-**sal xefe!**
+**sal shefe!**
 = Cześć, szefie!
 
-Innym słowem w Panduni do pozdrawiania jest **haló**. Jest to równie międzynarodowe pozdrowienie. Możesz swobodnie wybierać, którego słowa użyć pozdrawiając ludzi.
+Innym słowem w Panduni do pozdrawiania jest
+**haló**.
+Jest to równie międzynarodowe pozdrowienie.
+Możesz swobodnie wybierać, którego słowa użyć pozdrawiając ludzi.
 
 **haló!** - Cześć!
 
 
 ### Ćwiczenia
 
-Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne odpowiedzi są pod listą słów.
+Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
+Poprawne odpowiedzi są pod listą słów.
 
 1. Pozdrawiasz go/ją.
 2. Mama pozdrawia tatę.
@@ -143,8 +208,13 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 
 ### Lista słów
 
-**sal, haló** pozdrowienie, cześć, witaj, dzień dobry, itd.  
-**mamá** matka, mama. **papá** ojciec, tata. **xefe** szef, dyrektor.
+**sal, haló**
+pozdrowienie, cześć, witaj, dzień dobry, itd.  
+**mamá**
+matka, mama  
+**papá**
+ojciec, tata  
+**shefe** szef, dyrektor
 
 
 ### Odpowiedzi do Ćwiczeń
@@ -166,16 +236,16 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 **sal!**
 = Cześć!  
 <big>☺</big>
-**sal! ching sida.**
+**sal! ching side.**
 = Cześć! Proszę, usiądź!  
 <big>☻</big>
 **shukre.**
 = Dziękuję.  
 <big>☺</big>
-**ching yam kafe o chai.**
+**ching yam kafe o cha.**
 = Proszę, napij się kawy lub herbaty.  
 <big>☻</big>
-**mi yam chai. shukre.**
+**mi yam cha. shukre.**
 = Napiję się herbaty, dziękuję.  
 ...  
 <big>☺</big>
@@ -191,47 +261,70 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 
 ### Gramatyka
 
-Zaimki osobowe w Panduni to: **mi** = ja, **tu** = ty, i **da** = on, ona, ono. Pandunia jest językiem neutralnym płciowo. Nie rozróżnia płci w zaimkach trzecioosobowych ani jakichkolwiek innych zaimkach. Wszystkie zaimki osobowe są obecne przykładowym zdaniu poniżej.
+Zaimki osobowe w Panduni to: **mi** = ja, **tu** = ty, i **da** = on, ona, ono.
+Pandunia jest językiem neutralnym płciowo.
+Nie rozróżnia płci w zaimkach trzecioosobowych ani jakichkolwiek innych zaimkach.
+Wszystkie zaimki osobowe są obecne przykładowym zdaniu poniżej.
 
 **mi ching tu sal da.**
 = Ja proszę cię, żebyś pozdrowił go/ją.
 
-Te zdanie ma _strukturę osiową_. Pierwszy czasownik, **ching** = prosić, odnosi się do **tu** jako swojego dopełnienia. Jednocześnie **tu** służy też jak podmiot drugiego czasownika, **sal** = pozdrowić, którego dopełnienie to **da**. Tak więc **tu** ma podwójną rolę: (1) dopełnienie pierwszego czasownika i (2) podmiot drugiego czasownika. Dlatego, jest _osią_ albo zawiasem, między dwoma czasownikami.
+Te zdanie ma _strukturę osiową_.
+Pierwszy czasownik,
+**ching**
+= prosić, odnosi się do
+**tu**
+jako swojego dopełnienia. Jednocześnie
+**tu**
+służy też jak podmiot drugiego czasownika,
+**sal** = pozdrowić, którego dopełnienie to
+**da**.
+Tak więc
+**tu**
+ma podwójną rolę: (1) dopełnienie pierwszego czasownika i 
+(2) podmiot drugiego czasownika. Dlatego, jest _osią_ albo zawiasem, między dwoma czasownikami.
 
 > Struktura osiowa: Podmiot + Czasownik¹ + Dopełnienie/Podmiot + Czasownik² + Dopełnienie
 
 Struktura osiowa jest powszechną strukturą w Panduni.
 
-Pamiętaj, że można opóścić zaimki znane z kontekstu. Innymi słowy, mówiący może spokojnie założyć, że słuchacze wiedzą, o kim mówi, więc nie potrzeba wciąż ich powtarzać. W ten sposób zdania mogą być skracane.
+Pamiętaj, że można opóścić zaimki znane z kontekstu.
+Innymi słowy, mówiący może spokojnie założyć, że słuchacze wiedzą, o kim mówi, więc nie potrzeba wciąż ich powtarzać.
+W ten sposób zdania mogą być skracane.
 
 **mi ching tu sal da.**
 = Ja proszę cię, żebyś pozdrowił go/ją.  
 **ching sal da.**
 = Proszę, pozdrów go/ją.
 
-Zdanie **ching sal da** ma użyteczny wzór, użyteczny przy grzecznych prośbach.
+Zdanie
+**ching sal da**
+ma użyteczny wzór, użyteczny przy grzecznych prośbach.
 
 **ching side.**
 = Proszę, usiąść.  
 **ching don kafe.**
 = Proszę, podaj kawę.  
-**ching don chai.**
+**ching don cha.**
 = Proszę, podaj herbatę.  
-**ching yam chai.**
+**ching yam cha.**
 = Proszę, pij herbatę.  
-**ching saf kamar.**
+**ching safi kamar.**
 = Proszę, sprzątaj pokój.
 
-Rozkazy są wprowadzane z **amir** = rozkazać. Kożystają z takiej samej struktury osiowej, co prośby z **ching**.
+Rozkazy są wprowadzane z
+**amir**
+= rozkazać. Kożystają z takiej samej struktury osiowej, co prośby z
+**ching**.
 
-**amir don chai.**
+**amir don cha.**
 = Daj (mi) herbatę!  
-**amir saf kamar.**
+**amir safi kamar.**
 = Sprzątaj pokój!
 
 W praktyce, bezpośrednie rozkazy mogą być też tworzone tylko jednym czasownikiem i rozkazującym tonem.
 
-**saf da!**
+**safi da!**
 = Sprzątaj to!
 
 
@@ -248,16 +341,38 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 ### Lista słów
 
-**chai** herbata. **ching** poprosić, prosić. **don** dać, dawać. **shukre** dzięki, dziękuję. **e** i. **kafe** kawa. **kamar** pokój. **amir** rozkazać, rozkazywać. **u** lub. **saf** posprzątać, sprzątać. **sida** siedzieć. **yam** jeść lub pić.
+**cha**
+herbata  
+**ching**
+poprosić, prosić  
+**don**  
+dać, dawać  
+**shukre**
+dzięki, dziękuję  
+**i** i  
+**kafe**
+kawa  
+**kamar**
+pokój  
+**amir**
+rozkazać, rozkazywać  
+**u**
+lub  
+**safi**  
+posprzątać, sprzątać  
+**side**
+siedzieć  
+**yam**
+jeść lub pić
 
 
 ### Odpowiedzi do Ćwiczeń
 
-1. da yam chai.
-2. la xefe ching da side.
-3. ching yam kafe o chai.
-4. mama ching mi saf kamar.
-5. xefe side e yam kafe.
+1. da yam cha.
+2. la shefe ching da side.
+3. ching yam kafe o cha.
+4. mama ching mi safi kamar.
+5. shefe side i yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -268,22 +383,22 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 ### Dialog
 
 <big>☺</big>
-**sal! sual tu yam kafe o chai?**
+**sal! sual tu yam kafe o cha?**
 – Witam! Czy chce pan kawę albo herbatę?  
 <big>☻</big>
-**chai.**
+**cha.**
 – Herbatę.  
 <big>☺</big>
 **tu ne?**
 – A pan?  
 <big>☹</big>
-**mi no bashe pandunia...**
+**mi no basha pandunia...**
 – Nie mówię w Panduni...  
 <big>☺</big>
-**maf! sual da yam chai?**
+**maf! sual da yam cha?**
 – Przepraszam! Czy napije się herbaty?  
 <big>☻</big>
-**no. da no yam chai. da yam kafe.**
+**no. da no yam cha. da yam kafe.**
 – Nie, on nie pije herbaty. On pije kawę.  
 <big>☺</big>
 **sual tu yam supe?**
@@ -298,24 +413,31 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 **no yam.**
 – Nie.  
 <big>☺</big>
-**shukre. mi dona un chai e un kafe e un supe na bade de des minute.**
+**shukre. mi don un cha i un kafe i un supe pos des minute.**
 – Dziękuję. Przyniosę jedną herbatę, jedną kawę i jedną zupę za dziesięć minut.
 
 
 ### Zadawanie pytań
 
-Pytanie, na które można odpowiedzieć mówiąc _tak_ lub _nie_ mają taką samą strukturę osiową, co prośby z **ching**, której nauczyłeś się w poprzedniej lekcji. Pytania są wprowadzane słowem **sual** = pytać.
+Pytanie, na które można odpowiedzieć mówiąc _tak_ lub _nie_ mają taką samą strukturę osiową, co prośby z
+**ching**,
+której nauczyłeś się w poprzedniej lekcji.
+Pytania są wprowadzane słowem
+**sual**
+= pytać.
 
-**mi sual tu yam chai.**
+**mi sual tu yam cha.**
 – Ja pytam cię, czy napijesz się herbaty.  
-**sual tu yam chai?**
+**sual tu yam cha?**
 – Czy pijesz herbatę?  
-**sual yam chai?**
+**sual yam cha?**
 – Czy pić herbatę?
 
-Prośby zazwyczaj dotyczą pytanego lub pytanych, ale pytania pytania często dotyczą innych ludzi. Dlatego drugi ziamek jest zazwyczaj potrzebny. Może zostać opuszczony tylko, gdy jest jasne, o kogo chodzi.
+Prośby zazwyczaj dotyczą pytanego lub pytanych, ale pytania pytania często dotyczą innych ludzi.
+Dlatego drugi ziamek jest zazwyczaj potrzebny.
+Może zostać opuszczony tylko, gdy jest jasne, o kogo chodzi.
 
-**sual da yam chai?**
+**sual da yam cha?**
 – Czy on/ona pije herbatę?  
 **sual tu yam supe?**
 – Czy jesz zupę?  
@@ -324,11 +446,11 @@ Prośby zazwyczaj dotyczą pytanego lub pytanych, ale pytania pytania często do
 
 Oczywiście, powszechne rzeczowniki i nazwy własne również mogą być używane.
 
-**sual xefe yam kafe?**
+**sual shefe yam kafe?**
 – Czy szef pije kawę?  
-**sual papa saf kamar?**
+**sual papa safi kamar?**
 – Czy ojciec sprząta pokój?  
-**sual niki bashe pandunia?**
+**sual niki basha pandunia?**
 – Czy Nicky mówi Pandunia?
 
 
@@ -379,7 +501,28 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 ### Lista Słów
 
-**bada** po. **pardon** przepraszam, pardon. **minut** minuta. **no** nie. **bashe** mówić; język. **suy** woda. **supe** zupa. **un** jeden (1). **des** dziesięć. **sual** zapytać, pytać. **ya** tak.
+**bada**
+po  
+**maf**
+przepraszam, pardon  
+**minute**
+minuta  
+**no**
+nie  
+**basha**
+mówić; język  
+**sui**
+woda  
+**supe**
+zupa  
+**un**
+jeden (1)  
+**des**
+dziesięć  
+**sual**  
+zapytać, pytać  
+**ya**
+tak
 
 
 ### Odpowiedzi do Ćwiczeń
@@ -396,20 +539,34 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 ## Mówienie nie
 
-W poprzedniej lekcji nauczyłeś się odpowiadać **ya** i **no** na pytania. Słowo **no** jest używane do przeczenia. Dodawanie **no** przed czasownikiem zamienia zdanie twierdzące w przeczące.
+W poprzedniej lekcji nauczyłeś się odpowiadać
+**ya**
+i
+**no**
+na pytania. Słowo
+**no**
+jest używane do przeczenia. Dodawanie
+**no**
+przed czasownikiem zamienia zdanie twierdzące w przeczące.
 
 **mi sal tu.**
 – Pozdrawiam cię.  
 **mi no sal tu.**
 – Nie pozdrawiam cię.
 
-Konceptualnie, zdanie przeczące oznacza brak lub nieistnienie przeczonego słowa. W zdaniu **mi no sal tu**, przeczące słowo **no** zaprzecza istnieniu pozdrowienia. W Panduni słowo negujące działa na nastepne słowo. Różne zakresy przeczenia mogą zależeć od lokalizacji słowa negującego.
+Konceptualnie, zdanie przeczące oznacza brak lub nieistnienie przeczonego słowa. W zdaniu
+**mi no sal tu**,
+przeczące słowo
+**no**
+zaprzecza istnieniu pozdrowienia.
+W Panduni słowo negujące działa na nastepne słowo.
+Różne zakresy przeczenia mogą zależeć od lokalizacji słowa negującego.
 
-**mi ching tu saf kamar.**
+**mi ching tu safi kamar.**
 – Ja proszę cię, żebyś sprzątał pokój.  
-**mi no ching tu saf kamar.**
+**mi no ching tu safi kamar.**
 – Ja NIE proszę cię, żebyś sprzątał pokój.  
-**mi ching tu no saf kamar.**
+**mi ching tu no safi kamar.**
 – Ja proszę cię, żebyś NIE sprzątał pokoju.
 
 
@@ -427,7 +584,8 @@ Negowane słowo może być dowolnego typu: czasownik, zaimek, rzeczownik, przymi
 
 ### Ćwiczenia
 
-Przetłumacz te zdania z języka polskiego na Pandunię. Czasem istnieje więcej niż jedna poprawna odpowiedź
+Przetłumacz te zdania z języka polskiego na Pandunię.
+Czasem istnieje więcej niż jedna poprawna odpowiedź
 
 1. Nie sprzątał pokoju.
 2. Jeden kubek nie jest pusty.
@@ -439,16 +597,31 @@ Przetłumacz te zdania z języka polskiego na Pandunię. Czasem istnieje więcej
 
 ### Word List
 
-**kupa** kubek, szklanka. **hali** pusty. **hava** mieć. **mau** kot. **vaf** pies. **du** dwa. **nul** zero. **a** ale.
+**kupa**
+kubek, szklanka  
+**hali**
+pusty  
+**ha**
+mieć  
+**mau**
+kot  
+**vaf**
+pies  
+**du**
+dwa  
+**nul**
+zero  
+**ama**
+ale
 
 
 ### Odpowiedzi do Ćwiczeń
 
-1. da no saf kamar.
+1. da no safi kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da no ha vaf e mau. / da ha no vaf e no mau.
-5. xefe yam chai ama no kafe.
+4. da no ha vaf i mau. / da ha no vaf i no mau.
+5. shefe yam cha ama no kafe.
 6. mama ha no vaf ama du mau.
 
 
@@ -456,32 +629,41 @@ Przetłumacz te zdania z języka polskiego na Pandunię. Czasem istnieje więcej
 
 ## Więcej pytań
 
-Do zadawania pytań, które zaczynają się w języku polskim zaimkami pytajnymi innymi niż _czy_ (_kto_, _co_, _który_, _jaki_, _jak_, _gdzie_, _skąd_, _dokąd_), używany jest zazwyczaj zaimek **ke**. Pytanie może zostać skonkretyzowane przez użycie słów na osobę, czas, sposób lub rzecz, jeśli trzeba.
+Do zadawania pytań, które zaczynają się w języku polskim zaimkami pytajnymi innymi niż _czy_ (_kto_, _co_, _który_, _jaki_, _jak_, _gdzie_, _skąd_, _dokąd_), używany jest zazwyczaj zaimek
+**ke**.
+Pytanie może zostać skonkretyzowane przez użycie słów na osobę, czas, sposób lub rzecz, jeśli trzeba.
 
-**da es ke?**
+**da e ke?**
 – Cot to jest? / Kim on/ona jest?
 **ke jen lai?**
 – Kto przychodzi? (**ren** = osoba)  
 **tu yam a ke zaman?**
 – Kiedy jesz? (**zaman** = czas)  
-**se danse a ke yang?**
-– Jak tańczyć? (**yang** = sposób, styl)
+**se danse a ke mode?**
+– Jak tańczyć? (**mode** = sposób, styl)
 
-W Panduni pytania zaczynające się w polskim na _dlaczego_ są zadawane przez **de sabu ke**.
+W Panduni pytania zaczynające się w polskim na _dlaczego_ są zadawane przez
+**ke sabu**.
 
 **ke sabu tu suka mau de?**
 – Dlaczego lubisz koty?
 
-Na pytania o przyczynę, lub powód czegoś, odpowiada się dodając **de sabu** przed przyczyną lub powodem. **de sabu** jest tak naprawdę bierny czasownik znaczący _być spowodowanym przez_.
+Na pytania o przyczynę, lub powód czegoś, odpowiada się dodając
+**de sabu**
+przed przyczyną lub powodem.
+**de sabu**
+jest tak naprawdę bierny czasownik znaczący _być spowodowanym przez_.
 
 **ke sabu tu suka mau?**
 – Dlaczego lubisz koty?  
-**de sabu damen es kavai.**
+**de sabu damen e kavai.**
 – Ponieważ są słodkie.
 
-Oczywiście **de sabu** może być też yżywane do wyrażania przyczyny lub powodu czegoś, nawet nie odpowiadając na pytanie.
+Oczywiście
+**de sabu**
+może być też yżywane do wyrażania przyczyny lub powodu czegoś, nawet nie odpowiadając na pytanie.
 
-**mi suka mau de sabu damen kavai.**
+**mi suka mau de sabu damen e kavai.**
 – Lubię koty, bo są słodkie.
 
 ### Ćwiczenia
@@ -496,7 +678,18 @@ Oczywiście **de sabu** może być też yżywane do wyrażania przyczyny lub pow
 
 ### Lista słów
 
-**danse** tańczyć. **lai** przychodzić **ren** osoba. **suka** lubić. **yang** sposób, styl. **zaman** czas.
+**danse**
+tańczyć  
+**lai**
+przychodzić  
+**jen**
+osoba  
+**suka**
+lubić  
+**mode**
+sposób, styl  
+**zaman**
+czas
 
 
 ### Odpowiedzi do Ćwiczeń
@@ -507,8 +700,7 @@ Oczywiście **de sabu** może być też yżywane do wyrażania przyczyny lub pow
 3. ke zaman da lai?
 4. pos des minute.
 5. ke sabu da no yam?
-6. de sabu da no suka kafe e supe.
-
+6. de sabu da no suka kafe i supe.
 
 
 --------------------------------------------------------------------------------
@@ -517,29 +709,38 @@ Oczywiście **de sabu** może być też yżywane do wyrażania przyczyny lub pow
 
 ### Wyrażanie czasu
 
-Nie ma odmiany czasowników w Panduni. Wszystkie czasowniki mają tylko jedną formę, niezależną od podmiotu, czasu i aspektu. Na przykłas, **mi yam ban** może znaczyć i "Jem chleb", "Zjadłem chleb", i "Jadłem chleb", ale zazwyczaj jedno znaczenie ma sens w kontekście rozmowy. Na przykład, gdy ludzie rozmawiają o śniadaniu tego dnia, zdanie mówi o czasie przeszłym.
+Nie ma odmiany czasowników w Panduni.
+Wszystkie czasowniki mają tylko jedną formę, niezależną od podmiotu, czasu i aspektu.
+Na przykłas,
+**mi yam ban**
+może znaczyć i "Jem chleb", "Zjadłem chleb", i "Jadłem chleb", ale zazwyczaj jedno znaczenie ma sens w kontekście rozmowy.
+Na przykład, gdy ludzie rozmawiają o śniadaniu tego dnia, zdanie mówi o czasie przeszłym.
 
-**mi yam ban na suba yam.**
+**mi yam ban a suba yam.**
 – Zjadłem chleb na poranny posiłek.
 
 Istnieją też konkretne słowa opisujące czas.
 
-**le** - już, przed określonym czasem  
-**gang** - przed chwilą, niedawno  
-**zai** - teraz, w tym momencie  
-**yexo** - nadal  
-**sun** - niedługo  
-**sha** - w przyszłości
+**le**
+- już, przed określonym czasem  
+**zai**
+- teraz, w tym momencie  
+**sha**
+- w przyszłości
 
 
 
-Przymiotniki dla przeszłości, teraźniejszości i przyszłości to, odpowiednio, **pas, zai** i **sha**. Mogą być używane do modyfikowania rzeczowników.
+Przymiotniki dla przeszłości, teraźniejszości i przyszłości to, odpowiednio,
+**pas, zai**
+i
+**sha**.
+Mogą być używane do modyfikowania rzeczowników.
 
-**Sara es mi su pas xefe.**
+**Sara e mi su pas shefe.**
 – Sara jest moim byłym szefem.  
-**Yusef es mi su zai xefe.**
+**Yusef e mi su zai shefe.**
 – Yusef jest moim obecnym szefem.  
-**Maria es mi su sha xefe.**
+**Maria e mi su sha shefe.**
 – Maria jest moim przyszłym szefem.
 
 Te same słowa są używane, gdy mowa o czynnościach i wydarzeniach w czasie. Po prostu umieszcza się je po czasowniku.
@@ -558,30 +759,32 @@ Alternatywnie, określenie czasu może zostac umieszczone jako ostatnie w zdaniu
 **mi darba da a sha.**
 
 
-Nie trzeba powtarzać oreśleń czasu cały czas. To byłoby dziwne. Wystarczy określić to na początku wypowiedzi. Inne określenie czasu nie będzie potrzebne, doopóki nie zmieni się czas albo nie będzię przydatne zaakcentowanie, że mowa wciąż w tym samym czasie.
+Nie trzeba powtarzać oreśleń czasu cały czas.
+To byłoby dziwne.
+Wystarczy określić to na początku wypowiedzi.
+Inne określenie czasu nie będzie potrzebne, doopóki nie zmieni się czas
+albo nie będzię przydatne zaakcentowanie, że mowa wciąż w tym samym czasie.
 
 **mi pas ha un mau.**
 – Miałem jednego kota w przeszłości.  
-**da es hau mau.**
+**da e hau mau.**
 – To był dobry kot.  
 **mi ha un vaf a zai.**
 – Mam teraz jedneg psa.
 
-Jakiekolwiek określenie czasu jest dobre. Gdy jedno określenie czasu jest obecne, nie potrzeba dodatkowych słów.
+Jakiekolwiek określenie czasu jest dobre.
+Gdy jedno określenie czasu jest obecne, nie potrzeba dodatkowych słów.
 
 **mi be gene a nen 2003.**
 – Urodziłem się w 2003. roku.  
-**da saf la kamar a pos den.**
+**da safi la kamar a pos den.**
 – Posprząta pokój jutro.
 
 
-### Lista słów
-
-**pas** przeszły, były. **zai** teraźniejszy, obecny. **sha** przyszły. **darba** uderzyć, bić. **ban** chleb. **suba yam** poranny posiłek, śniadanie. **festa** świętować, bawić się.
-
 ### Ćwiczenia
 
-Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne odpowiedzi są na dole strony.
+Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
+Poprawne odpowiedzi są na dole strony.
 
 1. Mój szef będzie świętował w przyszłości.
 2. Miałem dwa psy.
@@ -589,6 +792,23 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 4. Sprzątała pokój dzień wcześniej.
 5. Kot będzie jutro pił kawę.
 6. Twoja matka świętowała zeszłej nocy.
+
+### Lista słów
+
+**pas**
+przeszły, były  
+**zai**
+teraźniejszy, obecny  
+**sha**
+przyszły  
+**darba**
+uderzyć, bić  
+**ban**
+chleb  
+**suba yam**
+poranny posiłek, śniadanie  
+**festa**
+świętować, bawić się
 
 ### Odpowiedzi do Ćwiczeń
 
@@ -598,3 +818,4 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 4. da safe kamar a preden.
 5. mau yam milke a posden.
 6. tu su ma festa a prenoce.
+

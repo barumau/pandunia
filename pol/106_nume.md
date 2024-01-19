@@ -37,7 +37,7 @@ Są umieszczane przed słowem lub wyrażeniem, które opisują.
 – trzy gwiazdy  
 **kam sing**
 – trochę gwiazd  
-**men sing**
+**poli sing**
 – wiele gwiazd
 
 **un dai meza**

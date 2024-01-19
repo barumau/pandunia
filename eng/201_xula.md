@@ -106,7 +106,7 @@ he, she or it
 his, her, its  
 **ke**
 who or what  
-**es**
+**e**
 to be  
 **no**
 no; not  
@@ -193,8 +193,13 @@ in Pandunia.
 
 > Word order in active sentence: Subject + Verb + Object
 
-Pandunia's personal pronouns are: **mi** = I, **tu** = you, and
-**da** = he, she, it. Note that the pronouns stayed the same in the
+Pandunia's personal pronouns are:
+**mi**
+= I,
+**tu**
+= you, and
+**da**
+= he, she, it. Note that the pronouns stayed the same in the
 previous example sentences. Words never change in Pandunia. They
 always stay the same regardless of their position in sentence.
 
@@ -364,13 +369,13 @@ has a useful pattern that can be used for making polite requests.
 
 **ching side.**
 = Please be seated.  
-**ching don  kafe.**
+**ching don kafe.**
 = Please give me some coffee.  
-**ching don chai.**
+**ching don cha.**
 = Please give me some tea.  
-**ching yam chai.**
+**ching yam cha.**
 = Please have some tea.  
-**ching safe kamar.**
+**ching safi kamar.**
 = Please clean the room.
 
 Commands are introduced with
@@ -378,9 +383,9 @@ Commands are introduced with
 ('to command'). They employ the same pivot structure as requests with
 **ching**.
 
-**amir don chai.**
+**amir don cha.**
 = Give (me) some tea!  
-**amir safe kamar.**
+**amir safi kamar.**
 = Clean the room!
 
 In practice, direct commands can be also made with just one verb and a commanding voice.
@@ -442,10 +447,10 @@ some, a(n)
 
 ### Answers to the Exercises
 
-1. da yam cai.
+1. da yam cha.
 2. la shefe ching da side.
 3. ching yam kafe o cha.
-4. mama ching mi safe kamar.
+4. mama ching mi safi kamar.
 5. shefe side i yam kafe.
 
 
@@ -469,10 +474,10 @@ some, a(n)
 **tu ne?**
 = And you?  
 <big>☹</big>
-**mi no bashe pandunia...**
+**mi no basha pandunia...**
 = I don't speak Pandunia...  
 <big>☺</big>
-**yaf! sual da yam cha?**
+**maf! sual da yam cha?**
 = Pardon! Will he have tea?  
 <big>☻</big>
 **no. da no yam cha. da yam kafe.**
@@ -500,11 +505,12 @@ Questions that can be answered by saying _yes_ or _no_ have the same pivot struc
 **ching**,
 which you learned in the previous lesson.
 Question sentences are introduced with
-**sual** 'to ask'.
+**sual**
+'to ask'.
 
 **mi sual tu yam cha.**
 = I ask (do) you drink tea.  
-**sual tu yam chai?**
+**sual tu yam cha?**
 = Do you drink tea?  
 **sual yam cha?**
 = Drink tea?
@@ -514,7 +520,7 @@ are often about other people. Therefore the second pronoun is usually
 needed. It can be left out only when it is clear who is the topic of
 discussion.
 
-**sual da yam chai?**
+**sual da yam cha?**
 = Does he/she drink tea?  
 **sual tu yam supe?**
 = Do you eat soup?  
@@ -525,9 +531,9 @@ Of course common and proper nouns can also be used.
 
 **sual shefe yam kafe?**
 = Does the chief drink coffee?  
-**sual papa safe kamar?**
+**sual papa safi kamar?**
 = Does the father clean the room?  
-**sual Niki bashe pandunia?**
+**sual Niki basha pandunia?**
 = Does Nicky speak Pandunia?
 
 
@@ -580,7 +586,7 @@ Try translating these sentences from English to Pandunia.
 
 **pos**
 after  
-**yaf**
+**maf**
 pardon, sorry  
 **minute**
 minute  
@@ -616,9 +622,15 @@ yes
 
 ## Saying no
 
-In the previous lesson you learned to answer **ya** and **no** to questions.
-The word **no** is used for denying something.
-Adding **no** in front of the verb turns an affirmative sentence to negative.
+In the previous lesson you learned to answer
+**ya**
+and
+**no**
+to questions. The word
+**no**
+is used for denying something. Adding
+**no**
+in front of the verb turns an affirmative sentence to negative.
 
 **mi sal tu.**
 = I greet you.  
@@ -628,17 +640,19 @@ Adding **no** in front of the verb turns an affirmative sentence to negative.
 Conceptually negation means the absence or non-existence of the negated word.
 In the phrase
 **mi no sal tu**
-the negative word **no** denies the existence of greeting.
+the negative word
+**no**
+denies the existence of greeting.
 
 In Pandunia the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
 of the negative word.
 
-**mi ching tu safe kamar.**
+**mi ching tu safi kamar.**
 = I ask you to clean the room.  
-**mi no ching tu safe kamar.**
+**mi no ching tu safi kamar.**
 = I do NOT ask you to clean the room.  
-**mi ching tu no safe kamar.**
+**mi ching tu no safi kamar.**
 = I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
@@ -646,7 +660,7 @@ and even numeral.
 
 **da no ha mau.**
 = She doesn't have a cat.  
-**da no ha mau, ama vaf.**
+**da ha no mau, ama vaf.**
 = She has no cats but dogs.  
 **no da, ama mi ha mau.**
 = Not she but I have cats. (It's not her, but me who has cats.)  
@@ -689,11 +703,11 @@ but
 
 ### Answers to the Exercises
 
-1. da no safe kamar.
+1. da no safi kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da su no e vaf i mau. / da ha no vaf i no mau.
-5. shefe yam cai ama no kafe.
+4. da no ha vaf i mau. / da ha no vaf i no mau.
+5. shefe yam cha ama no kafe.
 6. mama ha no vaf ama du mau.
 
 
@@ -716,8 +730,8 @@ manner or thing if needed.
 = Who is coming? (**jen** = person)  
 **tu yam a ke zaman?**
 = When do you eat? (**zaman** = time)  
-**se danse a ke yang?**
-= How to dance? (**yang** = manner, style)
+**se danse a ke mode?**
+= How to dance? (**mode** = manner, style)
 
 In Pandunia, questions beginning with _why_ are asked using
 **ke sabu**.
@@ -726,10 +740,10 @@ In Pandunia, questions beginning with _why_ are asked using
 = Why do you like cats?
 
 Questions asking about the cause or reason of something, are answered by adding
-**sabu**
+**de sabu**
 before the cause or reason.
 
-**ke sabu tu suke mau?**
+**ke sabu tu suka mau?**
 = Why do you like cats?  
 **de sabu damen e kavai.**
 = Because they are cute.
@@ -771,12 +785,12 @@ period of time
 ### Answers to the Exercises
 
 
-1. ke jen suke supe?
-2. papa suke.
+1. ke jen suka supe?
+2. papa suka.
 3. ke zaman da lai?
 4. pos des minute.
 5. ke sabu da no yam?
-6. de sabu da no suke kafe i supe.
+6. de sabu da no suka kafe i supe.
 
 
 --------------------------------------------------------------------------------
@@ -843,7 +857,7 @@ It is enough to set the stage once in the beginning with a time expression.
 Another time word will not be needed until the tense changes
 or until it becomes useful to stress that you are still talking in the same tense.
 
-**mi su pas e un mau.**
+**mi pas ha un mau.**
 = I had a cat in the past.  
 **da e hau mau.**
 = It was a good cat.  
@@ -855,7 +869,7 @@ time expression is present, other markers are not needed.
 
 **mi be gene a nen 2003.**
 = I was born in 2003.  
-**da safe la kamar a pos den.**
+**da safi la kamar a pos den.**
 = He will clean the room tomorrow.
 
 

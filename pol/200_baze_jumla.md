@@ -28,10 +28,10 @@ Dobrego ranka!
 **sal den!**
 Dzień dobry!
 
-**sal xam!**
+**sal sham!**
 Dobry wieczór!
 
-**sal noce!**
+**sal noche!**
 Dobranoc!
 
 **sal yam!**
@@ -77,11 +77,12 @@ Ja pozdrawiam matkę.
 **mi sal papa.**
 Ja pozdrawiam ojca.
 
-Słowo **sal**
-jest rzeczownikiem a **sal**
-odpowiadającym mu czasownikiem. Podstawowy szyk zdania w Panduni Pandunia to podmiot-orzeczenie-dopełnienie.
+Słowo
+**sal**
+jest rzeczownikiem i czasownikiem.
+Podstawowy szyk zdania w Panduni Pandunia to podmiot-orzeczenie-dopełnienie.
 
-**Sara sal Tomas.**
+**Sara ya sal Tomas.**
 Sara pozdrawia Tomasza.
 
 **sal mama!**
@@ -91,7 +92,11 @@ Cześć, mamo!
 Cześć, tato!
 
 <small>Etymologia. **mi**
-pochodzi z języków: angielkiego: mi, włoskiego: mi, suahili: mimi, zuluskiego: -mi-.</small>
+pochodzi z języków:
+angielkiego *mi*,
+włoskiego *mi*,
+suahili *mimi*,
+zuluskiego *-mi-*.</small>
 
 
 
@@ -110,11 +115,16 @@ Ty pozdrawiasz mnie.
 Zaimki nigdy nie odmieniają się w Panduni. Dlatego **mi**
 jest takie samo jako podmiot i dopełnienie, gdy język polski dwie różne formy, 'ja' i 'mnie'.
 
-**mi ame tu.**
+**mi ai tu.**
 Ja kocham cię.
 
-<small>Etymologia. **tu**
-pochodzi z języków: hiszpańskiego: "tú", włoskiego: "tu", francuskiego: "tu", hindi: तू  "tū", perskiego: تو‏‎ "to", tadżyckiego: ту "tu".</small>
+<small>Etymologia. **tu** pochodzi z języków
+hiszpańskiego *tú*,
+włoskiego *tu*,
+francuskiego *tu*,
+hindi तू  (tū),
+perskiego تو‏‎ (to),
+tadżyckiego ту (tu).</small>
 
 
 
@@ -135,9 +145,6 @@ jest ogólnym zaimkiem trzecioosobowym. Jest używany wobec ludzi (niezależnie 
 **mi sal da.**
 Ja pozdrawiam go/ją.
 
-<small>Etymologia. **da**
-pochodzi z języków lingala: yé, suahili: yeye, cziczewa: iye, zuluskiego: -ye-, hindi: यह  "ye".</small>
-
 
 
 ### sual <small>to ask a question</small>
@@ -148,7 +155,11 @@ Czy ty jesteś Tomasz?
 **sual tu davar?**
 Czy ty jesteś lekarzem?
 
-Porada: Pytania tak/nie często zaczynają się od **sual**. Jest to zwykły czasownik, żaden specjaly _znacznik pytania_. Właściwie, poprzednie zdanie powstało z **mi sual tu doktar.**
+Porada: Pytania tak/nie często zaczynają się od
+**sual**.
+Jest to zwykły czasownik, żaden specjaly _znacznik pytania_.
+Właściwie, poprzednie zdanie powstało z
+**mi sual tu e davar**
 (Ja pytam, ty lekarz?) porzez opuszczenie pierwszego słowa.
 
 **sual tu hau?**
@@ -160,8 +171,9 @@ A ty?
 **mi no hau.**
 Ja nie czuję się dobrze.
 
-<small>Etymologia. **sual**
-pochodzi z języków hindi: क्या  "kyā", urdu: كيا‏‎ "kyā".</small>
+<small>Etymologia. **sual** pochodzi z języków
+hindi सवाल (savāl),
+Swahili *swali*.</small>
 
 
 
@@ -182,13 +194,13 @@ Tak, on/ona jest lekarzem.
 
 ### es <small>być</small>
 
-**mi es Tomas.**
+**mi e Tomas.**
 Ja jestem Tomasz.
 
-**tu es Sara.**
+**tu e Sara.**
 Ty jesteś Sara.
 
-**aple es pal.**
+**aple e pal.**
 Jabłko jest owocem.
 
 Uwaga: Należy użyć **es**
@@ -199,10 +211,10 @@ w ostatnim zdaniu, bo bez niego wyglądałoby jak wyrażenie rzeczownikowe: **ap
 
 ### no <small>nie</small>
 
-**mi no es Sara.**
+**mi no e Sara.**
 Nie jestem Sara.
 
-**mi no es davar.**
+**mi no e davar.**
 Nie jestem lekarzem.
 
 **sual tu hau?**
@@ -215,14 +227,17 @@ Czy czujesz się dobrze?
 **no, mi no hau.**
 Nie, nie czuję się dobrze.
 
-Możesz używać **no**
+Możesz używać
+**no**
 do zaprzeczania czegokolwiek. Jest umieszczane przed słowem zaprzeczanym.
 
 **da no sal mi.**
 Nie pozdrawia mnie.
 
-<small>Etymologi. **no**
-pochodzi z języków: angielskiego: no, hiszpańskiego: no, francuskiego: non.</small>
+<small>Etymologi. **no** pochodzi z języków
+angielskiego *no*,
+hiszpańskiego *no*,
+francuskiego *non*.</small>
 
 
 
@@ -237,13 +252,13 @@ Wy pozdrawiacie ich.
 **damen sal mimen!**
 Oni/One pozdrawiają nas.
 
-**mimen es fem.**
+**mimen e fem.**
 Jesteśmy kobietami.
 
-**tumen es man.**
+**tumen e man.**
 Jesteście mężczyznami.
 
-**damen es aple.**
+**damen e aple.**
 Są jabłkami.
 
 
@@ -255,22 +270,25 @@ Co?
 
 **tu ke?**
 Kim jesteś?
-**mi es Tomas.**
+**mi e Tomas.**
 Jestem Tomasz.
 
-**da es ke?**
+**da e ke?**
 Kim ona jest?
-**da es Sara.**
+**da e Sara.**
 Ona to Sara.
 
-**tumen es ke?**
+**tumen e ke?**
 Kim jesteście?
 
-**damen es ke?**
+**damen e ke?**
 Kim są?
 
-<small>Etymologia. **ke**
-pochodzi z języków: hiszpańskiego: qué, portugalskiego: que, włoskiego: che, bengalskiego: কী "ki".</small>
+<small>Etymologia. **ke** pochodzi z języków
+hiszpańskiego *qué*,
+portugalskiego *que*,
+włoskiego *che*,
+bengalskiego: কী (ki).</small>
 
 
 
@@ -282,32 +300,34 @@ Co to?
 **ye aple.**
 To jest jabłko.
 
-**ye es rubi aple.**
+**ye e rubi aple.**
 To jest czerwone jabłko.
 
-**ye aple es rubi.**
+**ye aple e rubi.**
 Te jabłko jest czerwone.
 
-Uwaga: Kiedy przymiotnik, jak **rubi**, jest  umieszczony przed rzeczownikiem, działa jako przydawka.
+Uwaga: Kiedy przymiotnik, jak
+**rubi**,
+jest  umieszczony przed rzeczownikiem, działa jako przydawka.
 Kiedy jest po rzeczowniku, działa jako "przymiotnikowy" czasonik.
 
-**ye es rubi.**
+**ye e rubi.**
 Jest czerwone.
 
 
 
 ### su <small>(partykuła dzierżawcza)</small>
 
-**ye es ke?**
+**ye e ke?**
 Co to jest?
 
-**da es mi su telefon.**
+**da e mi su telefon.**
 To mój telefon.
 
-**ye es ke su?**
+**ye e ke su?**
 Czyje to?
 
-**da es mi su.**
+**da e mi su.**
 To jest moje.
 
 Uwaga: Partykuła dzierżawcza
@@ -318,13 +338,13 @@ znaczy "mój",
 **tu su**
 znaczy "twój" i tak dalej.
 
-**da es ke?**
+**da e ke?**
 Kim on/ona jest?
 
-**da es mi su doste.**
+**da e mi su dosti.**
 On/ona jest moim przyjacielem/przyjaciółką.
 
-**mi es Sara su doste.**
+**mi e Sara su dosti.**
 Jestem przyjacielem Sary.
 
 
@@ -332,24 +352,29 @@ Jestem przyjacielem Sary.
 
 ### nam <small>name</small>
 
-**tu su nam es ke?**
+**tu su nam e ke?**
 Jak się nazywasz? (Dosłownie: Czym jest twoje imię?)
 
-**mi su nam es Tomas.**
+**mi su nam e Tomas.**
 Nazywam się Tomasz.
 
-**da su nam es ke?**
+**da su nam e ke?**
 Jak ona jest nazywana?
 
-**da su nam es Sara.**
+**da su nam e Sara.**
 Ona jest nazywana Sarą.
 
-**mi su nam es Tomas.**
+**mi su nam e Tomas.**
 Ja jestem nazywany Tomaszem.
 
-<small>Etymologia. **nam**
-pochodzi z języków: hindi: नाम  "nām", perskiego: نام‏‎ "nām", tajskiego: นาม "naam", indonezyjskiego: nama, japońskiego: 名前 "namae", niemieskiego: Name, angielskiego: name.</small>
-
+<small>Etymologia. **nam** pochodzi z języków
+hindi नाम  (nām),
+perskiego: نام‏‎ (nām),
+tajskiego: นาม (naam),
+indonezyjskiego *nama*,
+japońskiego: 名前 (namae),
+niemieskiego *Name*,
+angielskiego *name*.</small>
 
 
 ### ha <small>mieć</small>
@@ -363,9 +388,9 @@ Nie ma pieniędzy.
 **mi vol ha neu fon.**
 Chcę mieć nowy telefon.
 
-**sual tu ha baca?**
+**sual tu ha bacha?**
 Czy masz dzieci?
-**mi ha du baca.**
+**mi ha du bacha.**
 Mam dwoje dzieci.
 
 
@@ -413,19 +438,23 @@ Je jabłko.
 **damen yam aple.**
 Jedzą jabłka.
 
-Uwaga: Inaczej niż język polski, Pandunia nie ma osobnyc form pojedynczej i mnogiej. Dlatego słowa jak **aple**
+Uwaga: Inaczej niż język polski, Pandunia nie ma osobnyc form pojedynczej i mnogiej.
+Dlatego słowa jak
+**aple**
 mogą się odnosić do jednego lub większej liczby jabłek.
 
 **sual tu yam kafe?**
 Czy pijesz kawę?
 
-**mi yam kafe.**
-Piję kawę.
+**ya. mi yam kafe.**
+Tak. Piję kawę.
 
-Porada: Znaczenie **yam**
-obejmuje i jedzenie i picie. Może się to na początku wydawać dziwne, ale niedługo zauważysz, że jesto dosyć poręczne! Zazwyczaj dopełnienie wyjaśnia, czy chodzi o jedzenie, picie czy oba.
+Porada: Znaczenie
+**yam**
+obejmuje i jedzenie i picie. Może się to na początku wydawać dziwne, ale niedługo zauważysz, że jesto dosyć poręczne!
+Zazwyczaj dopełnienie wyjaśnia, czy chodzi o jedzenie, picie czy oba.
 
-**mi yam kafe e ban.**
+**mi yam kafe i ban.**
 Spożywam kawę i chleb.
 
 
@@ -444,10 +473,10 @@ nie zmienia szyku zdania.
 **mi vol yam kafe.**
 Chcę pić kawę.
 
-**sual tu vol yam cai?**
+**sual tu vol yam cha?**
 Czy chcesz napić się herbaty?
 
-**no. mi no vol cai. mi vol kafe.**
+**no. mi no vol cha. mi vol kafe.**
 Nie, nie chcę herbaty. Chcę kawę.
 
 **tu vol ke aple?**
@@ -460,7 +489,7 @@ Te czerwone.
 
 ### ching <small>prosić</small>
 
-**mi ching tu yam cai.**
+**mi ching tu yam cha.**
 Proszę, żebyś napił się herbaty.
 
 **mi ching tu lai dom.**
@@ -471,7 +500,7 @@ Proszę, żebyś mi pomógł.
 
 Porada: By tworzyć bezpośrednie prośby, opuść wszystkie zaimki.
 
-**ching yam chai.**
+**ching yam cha.**
 Proszę, napij się herbaty!
 
 **ching yam kafe.**
@@ -539,15 +568,15 @@ Czy jesteś spragniony?
 
 ## Part 3. Komunikacja
 
-### yaf <small>przepraszam, pardon, sory</small>
+### maf <small>przepraszam, pardon, sory</small>
 
-**yaf! mi no aha.**
+**maf! mi no aha.**
 Przepraszam, nie rozumiem.
 
-**yaf! ye ke?**
+**maf! ye ke?**
 Przepraszam, co to?
 
-**yaf. tu su nam es ke?**
+**maf. tu su nam e ke?**
 Przepraszam, jak się nazywasz?
 
 
@@ -594,29 +623,32 @@ Umiem trochę mówić w Panduni.
 **mi no bil english.**
 Nie znam języka angielskiego.
 
-**yaf. mi no bil tu su bashe.**
+**maf. mi no bil tu su basha.**
 Przepraszam. Nie mówię w twoim języku.
 
 
 
-### loge <small>mówić</small>
+### loga <small>mówić</small>
 
-**tu loge ke?**
+**tu loga ke?**
 Co mówisz??
 
-**mi loge to tu.**
+**mi loga to tu.**
 Mówię do ciebie.
 
-**mimen loge to unale.**
+**mimen loga to semen.**
 Mówimy do siebie.
 
-**se loge "kot" a ke yang a pandunia?**
+**men loga
+"kot"
+a ke mode a pandunia?**
 Jak się mówi "kot" w Panduni?
 
-**"kot" es ke a pandunia?**
+**"kot"
+e ke a pandunia?**
 Czym jest "kot" w Panduni?
 
-**mau loge "miau".**
+**mau loga "miau".**
 Kot mówi miau.
 
 
@@ -626,10 +658,10 @@ Kot mówi miau.
 **mi no bil audi tu.**
 Nie mogę cię usłyszeć.
 
-**ching loge max bala.**
+**ching loga mas bala.**
 Proszę, mów głośniej.
 
-**mi audi muzike.**
+**mi audi muzika.**
 Słucham muzyki.
 
 **tu audi ke yang di muzike?**
@@ -637,58 +669,58 @@ Jakiego rodzaju muzyki słuchasz?
 
 
 
-### vide <small>widzieć</small>
+### visi <small>widzieć</small>
 
-**suke vide tu.**
+**suka visi tu.**
 Miło cię widzieć!
 
-**to rivide!**
+**to rivisi!**
 Do zobaczenia! (Dosłownie: Zobaczyć cię znowu!)
 
-**vide tu a posden!**
+**visi tu a posden!**
 Do jutra! (Dosłownie: Zobaczyć cię jutro!)
 
-**mi vide da a preden.**
+**mi visi da a preden.**
 Widziałem go/ją wczoraj.
 
 
 
 
-### seme <small>znaczyć</small>
+### sema <small>znaczyć</small>
 
-**ye lexe ya seme ke?**
+**ye lexi ya sema ke?**
 Co znaczy to słowo?
 
-**"mau" ya seme ke?**
+**"mau" ya sema ke?**
 Co znaczy "mau"?
 
-**da seme un yang de hevan.**
+**da sema un yang de hevan.**
 To oznacza rodzaj zwierzęcia.
 
-**mi no aha da seme ke.**
+**mi no aha da sema ke.**
 Nie rozumiem, co to znaczy.
 
 
 
-### kitabe <small>pisać</small>
+### kitabi <small>pisać</small>
 
-**ching kitabe tu su adres.**
+**ching kitabi tu su adres.**
 Proszę, napisz swój adres.
 
-**ching kitabe da a ye.**
+**ching kitabi da a ye.**
 Proszę, napisz to tutaj!
 
 
 
-### bashe <small>mówić w języku, komunikować się</small>
+### basha <small>mówić w języku, komunikować się</small>
 
-**sual tumen bashe pandunia.**
+**sual tumen basha pandunia.**
 Czy mówicie w Panduni?
 
-**mimen bashe pandunia.**
+**mimen basha pandunia.**
 Mówimy w Panduni.
 
-**sual tu bil bashe english?**
+**sual tu bil basha english?**
 Czy umiesz mówić w języku angielskim?
 
 **franse, espanya, portugal, rus**
@@ -754,7 +786,7 @@ Czy podróżujesz pociągiem?
 **mimen safar de London to Paris.**
 Podróżujemy z Londynu do Paryża.
 
-**safar es dai di long.**
+**safar e dai di long.**
 Podróż jest bardzo długa.
 
 

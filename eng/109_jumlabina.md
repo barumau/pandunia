@@ -523,17 +523,17 @@ Another common sequence is that of `causer > agent > patient`.
 In such sequences the first verb typically indicates a modality such as desire, permission or obligation,
 and the second verb indicates what the causer wants the agent to do.
 
-**mi vol tu yam fite.**
+**mi vol tu yam fito.**
 – I want you to eat vegetables. (desire)  
-**mi sel tu yam fite.**
+**mi sel tu yam fito.**
 – I advise you to eat vegetables. (advice)  
-**mi halal tu yam fite.**
+**mi halal tu yam fito.**
 – I allow you to eat vegetables. (permission)  
-**mi bil tu yam fite.**
+**mi bil tu yam fito.**
 – I enable you to eat vegetables. (ability)  
-**mi mus tu yam fite.**
+**mi mus tu yam fito.**
 – I compel you to eat vegetables. (obligation)  
-**mi rai tu yam fite.**
+**mi rai tu yam fito.**
 – I think you eat vegetables. (opinion)
 
 Syntactically the pivot construction is made up of

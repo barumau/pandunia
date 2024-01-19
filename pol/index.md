@@ -42,7 +42,7 @@ Niektóre zauważalne cechy Panduni:
 
 ## Artykuły
 
-- [Pandunia - nowy międzynarodowy język](001_dunia_baxa.md)
+- [Pandunia - nowy międzynarodowy język](001_dunia_basha.md)
 - [Prezentacja w formacie PDF (ang.)](http://www.pandunia.info/engli/Pandunia-presentation.pdf)
 - [Pandunia, globalny język kontaktowy (ang.)](http://www.pandunia.info/makal/Pandunia_in_Interlinguistica_Tartuensis_10.pdf) (artykuł w Interlinguistica Tartuensis 10)
 
@@ -56,6 +56,6 @@ Wielu ludzi już jest zainteresowanych Pandunią i mówi w niej. Znajdziesz fora
 - kanały Telegram: [wielojęzyczny](https://t.me/pandunia_grupe) i [w Panduni](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
 - Znajdź innych użytkowników Panduni w aplikacji [Amikumu](https://amikumu.com/)!
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen basha pandunia!")
 
 Możesz skontaktować się z twórcą Panduni, Risto Kupsala, pocztą elektroniczną [risto@pandunia.info](mailto:risto@pandunia.info) oraz na wyżej wymienionych forach.

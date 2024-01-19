@@ -179,8 +179,12 @@ Greetings, mother!
 **sal papa!**
 Greetings, father!
 
-<small>Etymology. **mi**
-is from English: me, Hindi: मैं (meṇ), Spanish: me, French: me, Swahili: mimi.</small>
+<small>Etymology. **mi** is from
+English *me*,
+Hindi: मैं (meṇ),
+Spanish *me*,
+French *me*,
+Swahili *mimi*.</small>
 
 
 ### tu <small>you</small>
@@ -207,7 +211,10 @@ I love you.
 Spanish *tu*,
 Russian ты (ty),
 Italian *tu*,
-French *tu*.</small>
+French *tu*,
+Hindi तू  (tū),
+Persian تو‏‎ (to),
+Tajik ту (tu).</small>
 
 
 ### da <small>he, she or it</small>
@@ -259,11 +266,11 @@ And you?
 **mi no hau.**
 I'm not good.
 
-<small>Etymology. **sual**
-is from Arabic سؤال (su'āl),
+<small>Etymology. **sual** is from
+Arabic سؤال (su'āl),
 Hindi सवाल (savāl),
-Malay _soal_,
-Swahili _swali_.</small>
+Malay *soal*,
+Swahili *swali*.</small>
 
 
 ### ya <small>yes</small>
@@ -635,10 +642,10 @@ Are you thirsty?
 **maf! mi no aha.**
 Sorry, I don't understand.
 
-**maf! ye es ke?**
+**maf! ye e ke?**
 Excuse me, what's this?
 
-**maf. tu su nam es ke?**
+**maf. tu su nam e ke?**
 Excuse me, what's your name?
 
 
@@ -703,7 +710,8 @@ We talk to each other.
 a ke mode a pandunia?**
 How do you say "cat" in Pandunia?
 
-**"cat" es ke a pandunia?**
+**"cat"
+e ke a pandunia?**
 What is "cat" in Pandunia?
 
 **mau loga "miau".**
@@ -733,7 +741,7 @@ What kind of music do you listen to?
 **suka visi tu.**
 Pleased to see you!
 
-**a rivisi!**
+**to rivisi!**
 See you again!
 
 **visi tu a posden!**

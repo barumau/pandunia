@@ -27,7 +27,7 @@ Często ten typ wyrażeń może być rozumiany jako pełne zdanie, w których cz
 
 Naturalnie, przymiotniki mogą być po obu stronach rzeczownika.
 
-**dai meza es gau.**
+**dai meza e gau.**
 – Duży stół jest wysoki.
 
 
@@ -41,7 +41,7 @@ W Panduni przysłówek to modyfikator, który znajduje się przed czasownikiem l
 – Ja _dobrze_ śpię.  
 **mi sona _hau_.**
 – Śpię _dobrze_.  
-**tu bashe pandunia _hau_.**
+**tu basha pandunia _hau_.**
 – Mówisz w Panduni _dobrze_.
 
 
@@ -51,24 +51,24 @@ Modyfikator może opisywać też inny modyfikator.
 Na przykład
 **dai**
 (duży) i
-**shiu**
+**shau**
 (mały) mogą być używane jako przysłówki intensyfikujące.
 
 **dai jen**
 – duża osoba  
-**shiu jen**
+**shau jen**
 – mała osoba  
 **mei jen**
 – ładna osoba
 
 **dai di mei jen**
 – bardzo ładna osoba  
-**shiu di mei jen**
+**shau di mei jen**
 – trochę ładna osoba
 
-Modyfikatory mogą być oddzielane **e** (i).
+Modyfikatory mogą być oddzielane **i** (i).
 
-**shiu e mei jen**
+**shau i mei jen**
 – mała i ładna osoba
 
 
@@ -76,9 +76,9 @@ Modyfikatory mogą być oddzielane **e** (i).
 
 Modyfikatory mogą być porównane.
 
-- **max**
+- **mas**
   (bardziej) oznacza porównanie niższości
-- **maxim**
+- **masim**
   (najbardziej) oznacza stopień najwyższy
 - **min**
   (mniej) oznacz porónanie niższości
@@ -89,8 +89,8 @@ Modyfikatory mogą być porównane.
 
 Partykuła **ka** łączy przysłówki porównania z obiektem porównania.
 
-**mi es max hau ka tu**
+**mi e mas hau ka tu**
 – Jestem lepszy od ciebie.  
-**tu loge par hau ka mi.**
+**tu loga par hau ka mi.**
 – Mówisz tak dobrze, jak ja.
 

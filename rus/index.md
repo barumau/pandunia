@@ -81,7 +81,7 @@ hide:
 
 Вы можете найти других носителей языка Пандунийского в: [Amikumu](https://amikumu.com/) app!
 
-Пожалуйста, помогите [перевести этот сайт](trabaxa_neteloka.md) into new languages!
+Пожалуйста, помогите [перевести этот сайт](trabasha_neteloka.md) into new languages!
 
 ![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen bashe pandunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>

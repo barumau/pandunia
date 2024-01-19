@@ -19,11 +19,11 @@ Zaimki mogą zastępować słowa-rzeczy i wyrażenia-rzeczy.
 **se**
 – się, siebie
 
-**mi vide se**
+**mi visi se.**
 – Widzę się.  
-**da vide se**
+**da visi se.**
 – Widzi się.  
-**mimen vide se.**
+**mimen visi se.**
 – Widzimy się.
 
 
@@ -64,6 +64,6 @@ Przymiotnikowy zaimek pytający to **ke** i znaczy tyle, co polskie _jaki_.
 – Kto? (Jaka osoba?)  
 **ke zaman?**
 – Kiedy? (Jaki czas?)  
-**ke yang?**
+**ke mode?**
 – Jak? (Jaki sposób?)
 

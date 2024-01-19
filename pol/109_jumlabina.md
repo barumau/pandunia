@@ -7,7 +7,7 @@ Obserwacje to najprostszy typ zdania. Mogą się składać z tylko jednego słow
 
 **mau!**
 – Kot!  
-**barxa!**
+**barsha!**
 – Pada!
 
 
@@ -37,23 +37,25 @@ Słowo **no** jes dodawane, by tworzyć przeczenie.
 
 Również dwa zaimki osobowe mogą być zestawione.
 
-**mi es da.**
+**mi e da.**
 – Ja jestem nim/nią.  
 **mi no tu.**
 – Ja Nie jestem tobą.
 
 #### Z podmiotem-rzeczownikiem
 
-Gdy podmiot jest rzeczownikiem, słowo **es** (tak) jest dodawane przed predykatem w zdaniach pozytywnych.
+Gdy podmiot jest rzeczownikiem, słowo
+**e**
+(być) jest dodawane przed predykatem w zdaniach pozytywnych.
 Przeczenia używają
 **no**,
 jak wyżej.
 
-**Sara es hau.**
+**Sara e hau.**
 – Sara jest dobra.  
-**ite es dai.**
+**ite e dai.**
 – Kamień jest duży.  
-**meza es neu.**
+**meza e neu.**
 – Stół jest nowy.  
 **meza no lau.**
 – Stół nie jest stary.
@@ -63,7 +65,7 @@ jak wyżej.
 
 Ta sama zasada działa przy zdaniach z dwoma przymiotnikami.
 
-**jun es mei.**
+**jun e mei.**
 – Młode jest piękne.  
 **neu no lau.**
 – Nowe nie jest stare.
@@ -74,25 +76,15 @@ Ta sama zasada działa przy zdaniach z dwoma przymiotnikami.
 ### Zdania czynne
 
 W predykatach czynności, główne zdanie w predykatacie to czasownik (tj. słowo-czynność).
-W Panduni, czasowniki są łatwe do rozpoznania, bo większość kończy się na **-a** lub **-u**.
 
-Zdania czynne używające czasownika kończącego się na **-a** mają szyk podmiot-orzeczenie-dopełnienie (SVO).
+Zdania czynne mają szyk podmiot-orzeczenie-dopełnienie (SVO).
 
 **mi yam aple.**
 – Ja jem jabłka.  
-**mi audi muzike.**
+**mi audi muzika.**
 – Ja słucham muzyki.  
-**mi vide tu.**
+**mi visi tu.**
 – Ja widzę cię.
-
-Czasowniki kończące się na **-u** są użwane w szyku podmiot-dopełnienie-orzeczenie (SOV).
-
-**mi aple yam.**
-– _Ja jabłka jem._
-
-SOV i SVO są dwoma najpowszechniejszymi szykami zdania w językach świata.
-SOV jest używany w językach jak hindi-urdu, tamil, tureckim, japońskim i koreańskim.
-SVO jest używany w (między innymi) językach: angielskim, hiszpańskim, mandaryńskim, indonezyjskim i współczesnym arabskim.
 
 
 ### Zdania bierne
@@ -102,9 +94,9 @@ SVO jest używany w (między innymi) językach: angielskim, hiszpańskim, mandar
 W stronie biernej nie ma podmiotu-agenta w zdaniu.
 Jest tylko dopełnienie i orzeczenie.
 
-**tu be vide.**
+**tu be visi.**
 – Ty jesteś widziany.  
-**muzike be audi.**
+**muzika be audi.**
 – Muzyka jest słyszana.  
 **ban be bake.**
 – Chleb jest pieczony.
@@ -112,22 +104,12 @@ Jest tylko dopełnienie i orzeczenie.
 Tu skupienie pada na dopełnienie, które jest pierwszym słowem w zdaniu.
 Dopełnienie jest biernym aktorem poddawanym działaniu.
 
-Agent może być wspomniany po czasowniku z lub bez przyimka **de**.
+Agent może być wspomniany po czasowniku z lub bez przyimka
+**de**.
 
-**tu be vide de mi.**
+**tu be visi de mi.**
 – Jesteś widziany przez mnie.
 
-
-#### Szyk VO
-
-W szyku zdania dopełnienie-orzeczenie (VO) skupienie pada na orzeczenie.
-
-**vide tu.**
-– Widzenie cię.  
-**audi muzike.**
-– Słuchanie muzyki.  
-**bake ban.**
-– Pieczenie chleba.
 
 
 
@@ -142,11 +124,20 @@ podmiot – orzeczenie 1. – dopełnienie 1. – orzeczenie 2. – dopełnienie
 Dopełnienie 1. spełnia podwójną rolę.
 Jest jednocześnie dopełnieniem dla orzeczenia 1. i podmiotem dla orzeczenia 2.
 
-**mi vol tu yam fite.**
+**mi vol tu yam fito.**
 – Ja chcę ty jesz warzywa.
 
-W powyższym przykładzie, **mi vol** ma **tu** jako swoje dopełnienie;
-jednocześnie **tu** działa jako podmiot następnego predykatu, **yam fite**, więc **tu** jest _osią_ całego zdania.
+W powyższym przykładzie,
+**mi vol**
+ma
+**tu**
+jako swoje dopełnienie; jednocześnie
+**tu**
+działa jako podmiot następnego predykatu,
+**yam fite**,
+więc
+**tu**
+jest _osią_ całego zdania.
 
 
 ### Seryjne czsowniki
@@ -169,9 +160,9 @@ Dochodzi do tego szczególnie w rozkazach i prośbach.
 
 #### Krótka struktura osiowa (VOVO)
 
-**mi sual tu baxa pandunia.**
+**mi sual tu basha pandunia.**
 – Pytam mówisz w Pandunia.  
-**sual tu baxa pandunia?**
+**sual tu basha pandunia?**
 – Czy mówisz w Panduni?
 
 #### Krótka struktura osiowa (VVO)
@@ -189,14 +180,14 @@ Dochodzi do tego szczególnie w rozkazach i prośbach.
 
 ### Podstawowe spójniki
 
-**e**
+**i**
 – i (łączy dwa podobne słowa lub wyrażenia)  
 **o**
 – lub (łączy dwa alternatywne słowa lub wyrażenia)  
 **ama**
 – ale (wprowadza słowo lub wyrażenie, które które kontrastuje lub zaprzecza poprzedzającemu słowu lub wyrażeniu)
 
-**mi suka mau e vaf.**
+**mi suka mau i vaf.**
 – Lubię koty i psy.  
 **mi suka mau o vaf.**
 – Lubię koty lub psy.  
@@ -212,16 +203,12 @@ Dochodzi do tego szczególnie w rozkazach i prośbach.
 
 ### Potwierdzenie
 
-Partykuła **es** potwierdza, a **no** przeczy. Inaczej, **es** oznacza "być", a **no** znaczy "nie być".
+Partykuła
+**ya**
+potwierdza, a
+**no**
+przeczy.
 
-Wyrażenia są domyślnie twierdzące, więc słowo
-**es**
-nie jest zawsze potrzebne. Jakkolwiek, jest szczególnie poręczne w wyrażaniu stanu.
-
-**mi es jen.**
-– Ja jestem osobą.  
-**da es neu meza.**
-– To jest nowy stół.
 
 ### Przeczenie
 
@@ -235,20 +222,20 @@ Takie zdania mogą być prosto zaprzeczane przez **no**.
 Słowo **no** jest używane do zaprzeczania czegokolwiek.
 Działa zawsze na następne słowo.
 
-**mi vide tu.**
+**mi visi tu.**
 – Ja widzę cię.  
-**mi no vide tu.**
+**mi no visi tu.**
 – Ja nie widzę cię.  
-**mi vide no tu ama damen.**
+**mi visi no tu ama damen.**
 – Ja widzę nie ciebie,ale ich.
 
-Partykuły **es** i **no** są używane też do odpowiadania na pytania.
+Partykuły **ya** i **no** są używane też do odpowiadania na pytania.
 
-**sual tu vide mi?**
+**sual tu visi mi?**
 – Czy widzisz mnie?  
-**ya. (mi vide tu.)**
+**ya. (mi visi tu.)**
 – Tak. (Widzę się.)  
-**no. (mi no vide tu.)**
+**no. (mi no visi tu.)**
 – Nie. (Nie widzę cię.)
 
 
@@ -307,12 +294,12 @@ Partykułami modyfikatorowymi mogą być tworzone również zdania podrzędne.
 
 Tutaj **ki** ma podobną rolę co polskojęzyczny zaimek _który_.
 
-**da es man _ki mi vide_.**
+**da e man _ki mi visi_.**
 – On jest człowiekiem_, którego widziałem_.
 
 Jeśli zdanie podrzędne nie ma podmiotu, ale zawiera dopełnienie (tj. jeśli orzeczenie jest przechodnie), rzeczownik z zdania nadrzędnego jest w domyśle podmiotem zdania podrzędnego.
 
-**mi vide man _ki yam aple_.**
+**mi visi man _ki yam aple_.**
 – Widzę człowieka_, który je jabłka_.
 
 
@@ -357,7 +344,8 @@ Działają jak przymiotniki i przysłówki, więc zazwyczaj ich miejsce jest prz
 **bil, mi ten mau a futur.**
 – Może będę miał koty w przyszłości.
 
-Naturalnie, wszystkie słowa czasu są używane, gdy są potrzebne. Zazwyczah wystaerczy wspomnieć czas tylko raz, na początku tekstu, a nie w każdym zdaniu, jeśli czas się nie zmienia.
+Naturalnie, wszystkie słowa czasu są używane, gdy są potrzebne.
+Zazwyczah wystaerczy wspomnieć czas tylko raz, na początku tekstu, a nie w każdym zdaniu, jeśli czas się nie zmienia.
 
 
 ## Przyimki
@@ -379,7 +367,7 @@ Przysłówek rozpoczyna wyrażenie przyimkowe. W prostym wyrażeniu przyimkowym 
 – Jestem w hotelu.  
 **mi sona a hotel.**
 – Śpię w hotelu.  
-**mi sona de xam to suba.**
+**mi sona de sham to suba.**
 – Śpię od wieczora do rana.  
 **mi safar de London to Paris.**
 – Podróżuję od Londynu do Paryża.
@@ -394,28 +382,13 @@ Przyimki mogą być też użyte jako rozpoczęcie zdania okolicznikowego czasu.
 **mi dele a tu sona.**
 – Czekam, kiedy śpisz.
 
-#### a
-
-**a** jest przyimkiem wszelkiego zastosowania. Jego podstawowym znaczeniem jest "przy".
-
-**mi a dom.**
-_Stoję przy domu._  
-
-**mi loge a pandunia.**
-_Mówię przy Panduni._  
-Mówię w Panduni.
-
-**mi loge a doste a pandunia a fon.**
-_Mówię przy przyjaciołach przy Panduni przy telefonie._
-Mówię z przyjaciółmi w Panduni przez telefon.
-
 #### Czasowniki jako przyimki
 
 W Panduni kilka czasowników działa jak przyimki lub przypadki gramatyczne w języku polskim.
 
-**mi gata ban.**
+**mi kata ban.**
 – Kroję chleb.  
-**mi gata ban, uze caku.**
+**mi kata ban, uze caku.**
 – Kroję chleb, używam noża. (Kroję chleb nożem.)
 
 **mi dele dura du hor.**
@@ -425,7 +398,7 @@ Oto kilka czasowników, których można użyć jak przyimków:
 
 **pos**
 – podążać; po, za  
-**dur**
+**dura**
 – trwać; podczas, przez  
 **jung**
 – być skocentrowanym; między, w środku  
@@ -447,11 +420,11 @@ W wielu zdaniach, czasownik wyraża wystarczająco wiele.
 – Przychodzę do domu.  
 **tu side a kursi.**
 – Siedzisz na krześle.  
-**da kuxe a sofa.**
+**da kushe a sofa.**
 – Leży na sofie.  
-**pexe boi a sui.**
+**peshe boi a sui.**
 – Ryba pływa w morzu.  
-**jang ja marce a dau.**
+**jangtor marche a dau.**
 – Wojownicy maszerują na drodze.
 
 
@@ -470,11 +443,12 @@ W powyższym przykładzie
 **guru**
  (mistrz) jest punktem odniesienia.
 
-**ka** jest też używany, gdy porównywane są przymiotniki.
+**ka**
+jest też używany, gdy porównywane są przymiotniki.
 
-**ben es min dai ka pa.**
+**bacha e min dai ka pa.**
 – Dziecko jest mniejsze niż ojciec.
-**cin pa es par dai ka pa.**
+**chin pa e par dai ka pa.**
 – Dziadek jest tak duży jak ojciec.
 
 **ka** wiąże przysłówki porównania –
@@ -499,20 +473,20 @@ Orzeczenie jest strukturalnym centrum zdania i pozostałe słowa są pośrednio 
 
 Każde zdanie może zostać narysowane jako drzewo, gdzie centralne słowa są wyżej, a zależne słowa – niżej.
 Na przykład, zdanie
-**mi vide tu**
+**mi visi tu**
 ('Widzę cię') może zostać rozrysowane w postaci poniższego drzewa:
 
-    mi vide tu.
+    mi visi tu.
 
-       vide
+       visi
       ┌─┴─┐
      mi   tu
 
 Przymiotniki i liczebniki wskazują na ich główne słowo, rzeczownik:
 
-    mi vide tri jun jen.
+    mi visi tri jun jen.
 
-       vide
+       visi
       ┌─┴──┐
      mi   jen 
            |
@@ -542,13 +516,13 @@ tutaj jego zasięg obejmuje tylko
 jest na szczycie, bo łączy dwa zdania podrzędne.
 
 
-    yusef e Sara vol shule pandunia, sabu da es hau dunia bashe.
+    yusef e Sara vol shule pandunia, sabu da e hau dunia basha.
 
                         sabu
                ┌──────────┴──────────┐
-              vol                    es
+              vol                    e
           ┌────┴──────┐           ┌──┴──┐
-          e         shule        da    bashe
+          e         shule        da    basha
       ┌───┴───┐    ┌──┴────┐            |
     yusef   Sara       pandunia       dunia
                                         |
