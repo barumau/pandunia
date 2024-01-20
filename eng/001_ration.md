@@ -207,6 +207,7 @@ Every word is pronounced as it is written.
 
 Pandunia has a regular stress accent.
 The place of the stress is decided by two simple rules.
+In the examples that follow, primary accent is indicated by an acute accent (*á*) and secondary accent by a grave accent (*à*) over the first vowel of a stressed syllable.
 
 1. Basic words are stressed on the syllable that is before the last consonant of the word.  
    **hálo! mí vól lóga la háu dúnia básha.**  

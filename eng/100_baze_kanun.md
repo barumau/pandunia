@@ -23,8 +23,10 @@ Almost every letter and letter-combination indicates always the same sound.
 
 Basic words are stressed on the syllable that is before the last consonant of the word, f.ex.
 **háu** ('good'), **dúnia** ('world'), **básha** ('language'), **amén** ('amen').
-Compound words are stressed according to their component words so that the primary stress is in the main word, f.ex.
+Compound words are stressed according to their component words so that the main component carries the primary stress
+and other components may carry secondary stress, f.ex.
 **trabásha** ('translate'), **dúnialìsme** ('globalism'), **bàsha skóla** ('language school').
+Primary accent is indicated by an acute accent (*á*) and secondary accent by a grave accent (*à*).
 
 
 ### (4) Pronouns
