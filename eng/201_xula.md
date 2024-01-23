@@ -294,7 +294,7 @@ chief, boss
 **ching yam kafe o cha.**
 = Please have some coffee or tea.  
 <big>☻</big>
-**ama mi yam un di chai! shukre.**
+**ama mi yam un di cha! shukre.**
 = But I drink only tea! Thank you.  
 ...  
 <big>☻</big>
@@ -409,7 +409,7 @@ Try translating these sentences from English to Pandunia.
 
 **amir**
 to order, to command  
-**chai**
+**cha**
 tea  
 **chin pa**
 grandfather  
@@ -431,7 +431,7 @@ the
 must, have to  
 **o**
 or  
-**safe**
+**safi**
 to clean  
 **shukre**
 thanks  
@@ -539,7 +539,7 @@ Of course common and proper nouns can also be used.
 
 ### Giving answers
 
-Yes/no questions can be answered with **ya** = yes, and **no** = no.
+Yes/no questions can be answered with **ya** 'yes', and **no** 'no'.
 
 – **sual tu yam supe?**
 = Do you eat soup?  
@@ -909,10 +909,10 @@ milk
 
 ### Answers to the Exercises
 
-1. mi su shefe feste a sha.
+1. mi su shefe festa a sha.
 2. mi ha du vaf a pas.
 3. tu yam supe a zai.
-4. da safe kamar a preden.
+4. da safi kamar a preden.
 5. mau yam milke a posden.
 6. tu su ma festa a prenoce.
 

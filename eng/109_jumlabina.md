@@ -516,7 +516,7 @@ A basic sequence is that of `agent > instrument > patient`.
 – He uses a knife to cut the bread.  
 **da jete la bol dape la dike.**
 – He throws the ball to hit the target.  
-**mi shofe la char lai la site.**
+**mi shofe la karo lai la site.**
 – He drives the car to enter the city.
 
 Another common sequence is that of `causer > agent > patient`.

@@ -669,10 +669,10 @@ I don't understand at all.
 
 ### bil <small>can</small>
 
-**mi bil shofe char.**
+**mi bil shofe karo.**
 I can drive a car.
 
-**da no bil shofe char.**
+**da no bil shofe karo.**
 He/she doesn't know how to drive a car.
 
 **sual tu bil shuli da?**
@@ -1011,10 +1011,10 @@ The rent is 500 dollars in a month.
 **da no bil pei la kira.**  
 He/she can't pay the rent.
 
-**mi vol sepe un char a kira.**  
+**mi vol sepe un karo a kira.**  
 I want to take a car for rent.
 
-**mi vol kira sepe un char.**
+**mi vol kira sepe un karo.**
 I want to rent a car.
 
 **da kira don la kamar to safarer.**

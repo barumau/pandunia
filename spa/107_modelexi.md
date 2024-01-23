@@ -13,7 +13,7 @@ Por ejemplo, la palabra
 modifica un sustantivo en la oración A
 y un verbo en la oración B.
 
-A. **vo es un _suga_ gar.**
+A. **vo es un _suga_ karo.**
 – Eso es un carro _rápido_.  
 B. **tu _suga_ di loga.**
 – Usted habla _rápido_.
@@ -23,9 +23,9 @@ B. **tu _suga_ di loga.**
 
 En Pandunia, _adjetivos_ son modificadores que preceden el sustantivo que modifican.
 
-**un _neu_ gar**
+**un _neu_ karo**
 – un carro _nuevo_  
-**un _suga_ gar**
+**un _suga_ karo**
 – un carro _rápido_  
 **poli _dai_ meza**
 – mesas _grandes_  
@@ -48,7 +48,7 @@ a diferencia de español, en que adjetivos cambian para acordar con el sustantiv
 
 Dos o más modificadores pueden modifican el mismo sustantivo.
 
-**un shau neu car**
+**un shau neu karo**
 – un carro nuevo pequeño
 
 

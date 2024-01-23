@@ -13,22 +13,22 @@
 **sal!**
 – ¡Buenos!  
 <big>☺</big>
-**tu es ke?**
+**tu e ke?**
 – ¿Quién es usted?  
 <big>☻</big>
-**mi es Yusef. tu es ke?**
+**mi e Yusef. tu e ke?**
 – Yo soy Yusef. ¿Quién es usted?  
 <big>☺</big>
-**mi es Sara. da es ke?**
+**mi e Sara. da e ke?**
 Yo soy Sara. ¿Quién es?  
 <big>☻</big>
-**da es mi su doste.**
+**da e mi su dosti.**
 – Es una amiga mia.  
 <big>☺</big>
-**da su nam es ke?**
+**da su nam e ke?**
 – ¿Cómo se llama?  
 <big>☻</big>
-**da su nam es Maria.**
+**da su nam e Maria.**
 – Su nombre es Maria.
 
 ### Gramatica
@@ -37,11 +37,11 @@ Frases de Pandunia normalmente sigue la estructura tema-comentario.
 El tema indica quién o qué se está hablando.
 El comentario dice algo sobre el tema.
 Por ejemplo, en
-**da es mi su doste**
+**da e mi su dosti**
 el tema es el pronombre
 **da**
 (él, ella, ello), que es seguido por el comentario
-**es mi su doste**
+**es mi su dosti**
 (es amigo mío).
 
 
@@ -49,13 +49,13 @@ Del mismo modo puede describirse diciendo
 **mi es**
 seguida por una palabra que lo describa.
 
-**mi es hau.**
+**mi e hau.**
 - Yo soy bueno.  
-**mi es man.**
+**mi e man.**
 - Soy un hombre.  
-**mi es fem.**
+**mi e fem.**
 - Soy una mujer.  
-**mi es nobi.**
+**mi e nobi.**
 - No soy binario.
 
 
@@ -87,13 +87,13 @@ tu
 su  
 **ke**
 quién? qué?  
-**es**
+**e**
 ser  
 **no**
 no  
 **hau**
 bueno  
-**doste**
+**dosti**
 amigo, amiga  
 **nam**
 nombre  
@@ -110,12 +110,12 @@ animal
 
 ### Respuestas
 
-1. tu es ke?
-2. mi es tomas.
-3. tu su doste es ke?
-4. da es Sara.
-5. tu su nam es ke?
-6. mi su nam es ........... 
+1. tu e ke?
+2. mi e Tomas.
+3. tu su dosti e ke?
+4. da e Sara.
+5. tu su nam e ke?
+6. mi su nam e ........... 
 
 
 ---------------------------------------------------------------------
@@ -127,7 +127,8 @@ animal
 – ¡Hola!
 
 Esta es la manera como se saludan las personas en Pandunia.
-Dicen **sal**.
+Dicen
+**sal**.
 Es usado para decir tanto hola como adiós o chao.
 
 **sal**
@@ -186,7 +187,7 @@ La forma de **sal tu** es útil para decir el nombre de la persona, parentesco o
 – ¡Hola, mamá!  
 **halo, papa!**
 – ¡Hola, papá!  
-**sal, xefe!**
+**sal, shefe!**
 – ¡Hola, jefe!  
 
 
@@ -210,7 +211,7 @@ saludar
 mamá, madre, ma  
 **papa**
 padre, papá, pa  
-**xefe**
+**shefe**
 jefe, patrón  
 
 
@@ -242,10 +243,10 @@ Pidiendo
 **shukre.**
 – ¡Gracias!  
 <big>☺</big>
-**ching yam kafe o cai.**
+**ching yam kafe o cha.**
 – Por favor beba algo de café o té.  
 <big>☻</big>
-**mi vol cai. shukre.**
+**mi vol cha. shukre.**
 – Quiero té, gracias.  
 ...  
 <big>☺</big>
@@ -255,7 +256,7 @@ Pidiendo
 **mi sal da. sal reste!**
 – Yo la saludo. ¡Adiós!  
 <big>☺</big>
-**sal cute!**
+**sal chute!**
 – ¡Chao!
 
 
@@ -317,21 +318,23 @@ utilizado para hacer peticiones corteses.
 
 **ching side.**
 – Por favor sientese.  
-**ching don  kafe.**
+**ching don kafe.**
 – Por favor me da un poco de café.  
-**ching don cai.**
+**ching don cha.**
 – Por favor me da un poco de té.  
-**ching yam cai.**
+**ching yam cha.**
 – Por favor beba algo de té.  
-**ching saf kamar.**
+**ching safi kamar.**
 – Por favor limpie la habitación.  
 
-Las ordenes son introducidas con **amir** 'ordenar'.
-Se utiliza la misma estructura eje como para pedir con **ching**.
+Las ordenes son introducidas con
+**amir**
+'ordenar'. Se utiliza la misma estructura eje como para pedir con
+**ching**.
 
-**amir don cai.**
+**amir don cha.**
 – ¡Deme un poco de té!  
-**amir saf kamar.**
+**amir safi kamar.**
 – ¡Limpie la habitación!
 
 
@@ -350,7 +353,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 **amir**
 ordenar  
-**cai**
+**cha**
 té  
 **ching**
 pedir, solicitar; por favor  
@@ -368,7 +371,7 @@ habitación
 el/la  
 **o**
 o  
-**saf**
+**safi**
 limpiar  
 **side**
 estar sentado  
@@ -380,11 +383,11 @@ algo
 
 ### Respuestas
 
-1. da yam cai.
-2. la xefe ching da side.
-3. ching yam kafe o cai.
-4. mama ching mi saf kamar.
-5. xefe side e yam kafe.
+1. da yam cha.
+2. la shefe ching da side.
+3. ching yam kafe o cha.
+4. mama ching mi safi kamar.
+5. shefe side i yam kafe.
 
 
 ---------------------------------------------------------------------
@@ -396,22 +399,22 @@ algo
 ![](http://www.pandunia.info/grafe/kafekan.png "a kafe kan")  
 
 <big>☺</big>
-**sal! sual tu yam yo kafe o cai?**
+**sal! sual tu yam kafe o cha?**
 – ¡Hola! ¿Qué desean tomar café o té?  
 <big>☻</big>
-**cai.**
+**cha.**
 – Té.  
 <big>☺</big>
 **tu ne?**
 – ¿Y usted?  
 <big>☹</big>
-**mi no baxa pandunia...**
+**mi no basha pandunia...**
 – Yo no hablo Pandunia...  
 <big>☺</big>
-**maf! sual da yam cai?**
+**maf! sual da yam cha?**
 – ¡Perdón! ¿Él toma té?  
 <big>☻</big>
-**no. da no yam cai. da yam kafe.**
+**no. da no yam cha. da yam kafe.**
 – No. Él no bebe té. Él desea tomar café.  
 <big>☺</big>
 **sual tu yam supe?**
@@ -426,7 +429,7 @@ algo
 **no yam.**
 – No.  
 <big>☺</big>
-**shukre. mi don un cai e un kafe e un supe pos des minute.**
+**shukre. mi don un cha i un kafe i un supe pos des minute.**
  – ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
 
 
@@ -435,22 +438,22 @@ algo
 Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **ching** 'pedir', lo cual se vio en la lección anterior.
 Las frases interrogativas se introducen con **sual** 'preguntar'.
 
-**mi sual tu yam cai.**
+**mi sual tu yam cha.**
 – Yo preguntarte, tomas té.  
-**sual tu yam cai?**
+**sual tu yam cha?**
 – ¿Bebes tú té?  
-**sual yam cai?**
+**sual yam cha?**
 – ¿Bebes té?   
 
 En las peticiones por lo general se refiere a los que se habla, pero las preguntas son a menudo acerca de otras personas.
 Por lo tanto el pronombre de segunda persona suele ser necesario.
 Se puede omitir sólo cuando está claro con quien es el tema de discusión.
 
-**sual da yam cai?**
+**sual da yam cha?**
 – ¿Bebe él/ella té?  
 **sual tu yam supe?**
 – ¿Come usted sopa?  
-**sual Kamilo baxa pandunia?**
+**sual Kamilo basha pandunia?**
 – ¿Habla Camilo Pandunia?
 
 
@@ -500,7 +503,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**baxa**
+**basha**
 hablar una língua  
 **des**
 diez  
@@ -526,8 +529,8 @@ sí
 
 ### Respuestas
 
-1. sual tu baxa pandunia?
-2. ya. mi baxa pandunia.
+1. sual tu bashe pandunia?
+2. ya. mi bashe pandunia.
 3. sual mama yam kafe?
 4. no. da no yam kafe.
 5. sual da yam supe?
@@ -539,9 +542,15 @@ sí
 
 ## Negación
 
-En la lección anterios apredimos a responder con **da** y **no**.
-La palabra **no** es usada para negar algo. Si se pone **no** antes
-del verbo convertimos una oración afirmativa en negativa. 
+En la lección anterios apredimos a responder con
+**da**
+y
+**no**.
+La palabra
+**no**
+es usada para negar algo. Si se pone
+**no**
+antes del verbo convertimos una oración afirmativa en negativa.
 
 **mi sal tu.**
 – Yo to saludo.  
@@ -559,11 +568,11 @@ niega la existencia de
 En Pandunia la palabra negativa ne se aplica a la palabra que la sigue.
 Si que diferentes alcances de negación pueden resultar en función de la ubicación de la palabra negativa.
 
-**mi ching tu saf kamar.**
+**mi ching tu safi kamar.**
 – Yo te pedi limpiar la habitación.  
-**mi no ching tu saf kamar.**
+**mi no ching tu safi kamar.**
 – Yo no te pedi limpiar la habitación.  
-**mi ching tu no saf kamar.**
+**mi ching tu no safi kamar.**
 – Yo te pedi no limpiar la habitación.  
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 
@@ -610,11 +619,11 @@ perro.
 
 ### Respuestas
 
-1. da no saf kamar.
+1. da no safi kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da no ha vaf e mau. / da ha no vaf e no mau.
-5. xefe yam cai ama no kafe.
+4. da no ha vaf i mau. / da ha no vaf i no mau.
+5. shefe yam cha ama no kafe.
 6. mama ha no vaf ama du mau.
 
 
@@ -638,33 +647,33 @@ En adición, hay palabras del tiempo espicificas.
 – más temprano, en el pasado  
 **zai**
 – actualmente, en este momento  
-**xa**
+**sha**
 – más tarde, en el futuro
 
-**Sara es mi su pas xefe.**
+**Sara e mi su pas shefe.**
 – Sara es mi ex-jefa.  
-**Yusef es mi su zai xefe.**
+**Yusef e mi su zai shefe.**
 – Yusef es mi actual jefe.  
-**Maria es mi su xa xefe.**
+**Maria e mi su sha shefe.**
 Maria es mi futura jefa.
 
 Las mismas palabras son usadas cuando se habla sobre acciones y
 eventos en el tiempo. Simplemente pone la palabra antes del verbo.
 
-**da pas es mi su xefe.**
+**da pas e mi su shefe.**
 – Ella fue mi jefa.  
-**da zai es mi su xefe.**
+**da zai e mi su shefe.**
 – Ella es mi jefa.  
-**da xa es mi su xefe.**
+**da sha e mi su shefe.**
 – Ella será mi jefa.
 
 También puede usar frases prepocicionales con **a**.
 
-**da es mi su xefe a pas.**
+**da e mi su shefe a pas.**
 – Ella fue mi jefa en el pasado.  
-**da es mi su xefe a zai.**
+**da e mi su shefe a zai.**
 – Ella es mi jefa en este momento.  
-**da es mi su xefe a xa.**
+**da e mi su shefe a sha.**
 – Ella será mi jefa en el futuro.
 
 Nota: el verbo es invariable. No cambia por el tiempo, por tal razón
@@ -678,7 +687,7 @@ que todavía se está hablando en el mismo tiempo.
 
 **mi pas ha un mau.**
 – Yo tuve un gato en el pasado.  
-**da es hau mau.**
+**da e hau mau.**
 – Ella fue una buena gata.  
 **mi ha un vaf a zai.**
 – Yo tengo un perro en el momento.
@@ -686,11 +695,11 @@ que todavía se está hablando en el mismo tiempo.
 En algunas expresiones es pertinente expresar el tiempo. Otras marcas
 de tiempo no son necesarias.
 
-**mi yam cai a preden.**
+**mi yam cha a preden.**
 – Yo tomé té ayer.  
 **da be gene a mes 9.**
 – Él nació en septiembre.  
-**mimen festa a nen 2000 su prexam.**
+**mimen festa a nen 2000 su presham.**
 – Nosotros celebraremos la víspera del año 2000.
 
 ### Ejercicios
@@ -714,9 +723,9 @@ el día siguiente, mañana
 anterior, previo  
 **preden**
 el día anterior, ayer  
-**xam**
+**sham**
 noche  
-**cen xam**
+**presham**
 la noche anterior, víspera  
 **festa**
 celebrar  
@@ -724,18 +733,18 @@ celebrar
 estar ubicado en (tiempo o espacio); en  
 **pas**
 pasado, antiguo  
-**xa**
+**sha**
 futuro  
 **zai**
 actual, presente
 
 ### Respuestas
 
-1. mi su xefe festa a xa.
+1. mi su shefe festa a sha.
 2. mi ha du vaf a pas.
 3. tu yam supe a zai.
-4. da saf kamar a pre den.
-5. mau yam milke a pos den.
+4. da safi kamar a preden.
+5. mau yam milke a posden.
 6. tu su ma festa a prenoce.
 
 
@@ -751,20 +760,20 @@ sucesivas efectuadas por el mismo agente. El orden de la frase es:
 Recordemos que Pandunia es una lengua que la serialización verbal
 sea común.
 
-**mi vol vide tu.**
+**mi vol visi tu.**
 – Quiero verte. (palabras por palabras: Yo querer ver usted)  
-**mi fokus vide tu.**
+**mi fokus visi tu.**
 – Te miro. (palabras por palabra: Yo concentrar ver ti)  
 
 Pueden haber mas de dos verbos en serie.
 
-**mi xula pandunia.**
+**mi shula pandunia.**
 – Yo aprendo pandunia.  
-**mi xuru xula pandunia.**
+**mi shuru shula pandunia.**
 – Yo empiezo a aprender pandunia.  
-**mi vol xuru xula pandunia.**
+**mi vol shuru shula pandunia.**
 – Yo quiero empezar a aprender Pandunia.  
-**mi vol xuru xula loge pandunia.**
+**mi vol shuru shula loga pandunia.**
 – Yo quiero empezar a aprender a hablar Pandunia.
 
 
@@ -783,16 +792,16 @@ Intenta traducir estas oraciones de Español a Pandunia.
 – enfocar, concentrarse  
 **loge**
 – hablar, charlar  
-**xuru**
+**shuru**
 – empezar, comenzar  
-**vide**
+**visi**
 – ver, mirar  
 **vol**
 – querer, necesitar
 
 ### Respuestas
 
-1. mi vol da kafe to xefe.
+1. mi vol da kafe to shefe.
 2. sual tu vol yam sui?
-3. da no vol saf da su kamar.
+3. da no vol safi se su kamar.
 

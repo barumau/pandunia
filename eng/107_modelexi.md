@@ -23,9 +23,9 @@ B. **tu _mei_ di kitabi.**
 
 In Pandunia, "adjectives" are modifiers that are placed before the noun that they modify.
 
-**un _neu_ gar**
+**un _neu_ karo**
 – a _new_ car  
-**un _suga_ gar**
+**un _suga_ karo**
 – a _fast_ car  
 **poli _dai_ meza**
 – _big_ tables  
@@ -36,7 +36,7 @@ In Pandunia, "adjectives" are modifiers that are placed before the noun that the
 
 Two or more modifiers can modify the same noun.
 
-**un shau nova gar**
+**un shau neu karo**
 – a little new car
 
 
@@ -45,7 +45,7 @@ Two or more modifiers can modify the same noun.
 A modifier that modifies a verb
 is placed immediately before the verb.
 
-**tu _suga_ loge.**
+**tu _suga_ loga.**
 – You talk _fast_.  
 **damen _hau_ kitabi.**
 – They write _well_.
@@ -105,16 +105,16 @@ The compound adverb is placed immediately before the verb that it modifies.
 
 **tre poli**
 – very much  
-**mi _tre poli_ vol loge.**
+**mi _tre poli_ vol loga.**
 – I want very much to speak.  
-**mi vol _tre poli_ loge.**
+**mi vol _tre poli_ loga.**
 – I want to speak very much.
 
 It is also possible to place the compound adverb very last in the sentence,
 and then it modifies the sentence as a whole.
 The meaning is the same like when the compound adverb modifies the main verb.
 
-**mi vol loge _tre poli_.**
+**mi vol loga _tre poli_.**
 – I want to speak very much.  
 **sual tu sona _bas hau_?**
 – Did you sleep well enough?
