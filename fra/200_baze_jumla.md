@@ -645,10 +645,10 @@ Je n’ai rien compris du tout.
 
 ### bil <small>pouvoir, savoir</small>
 
-**mi bil shofe un kar.**
+**mi bil shofe un karo.**
 Je sais conduire une voiture.
 
-**da no bil shofe un kar.**
+**da no bil shofe un karo.**
 Il/elle ne sait pas conduire une voiture.
 
 **sual tu bil shuli da?**
@@ -988,10 +988,10 @@ La location est de 500 dollars par mois / pour un mois.
 **da no bil pei la kira.**  
 Il / Elle ne peut pas payer la location.
 
-**mi vol sepe un gar a kira.**  
+**mi vol sepe un karo a kira.**  
 Je veux prendre une voiture en location.
 
-**mi vol kira sepe un kar.**
+**mi vol kira sepe un karo.**
 Je veux louer une voiture.
 
 **da kira don la kamar to safarer.**

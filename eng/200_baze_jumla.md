@@ -244,10 +244,10 @@ Malay *dia*.</small>
 
 ### sual <small>to ask a question</small>
 
-**sual tu es Tomas?**
+**sual tu e Tomas?**
 Are you Thomas?
 
-**sual tu es davar?**
+**sual tu e davar?**
 Are you a doctor?
 
 Tip: Yes/no questions frequently begin with
@@ -454,11 +454,11 @@ I am Sarah's friend.
 It's also possible to end a sentence with
 **su**.
 
-**mau es mi su.**
+**mau e mi su.**
 The cat is mine.  
-**pesa es damen su.**
+**pesa e damen su.**
 The money is theirs.  
-**dosti es sara su.**
+**dosti e sara su.**
 The friend is Sara's.
 
 <small>Etymology. **su** is from
@@ -1005,7 +1005,7 @@ I will take a beer.
 
 ### kira <small>rent, lease, hire</small>
 
-**kira es 500 dolar a mes.**  
+**kira e 500 dolar a mes.**  
 The rent is 500 dollars in a month.
 
 **da no bil pei la kira.**  
@@ -1037,16 +1037,16 @@ I will buy a beer.
 
 ### yang <small>type, kind, sort</small>
 
-**da es ke yang?**
+**da e ke yang?**
 What is it like?
 
-**sual da es neu?**
+**sual da e neu?**
 Is it new?
 
-**ke es mas hau?**
+**ke e mas hau?**
 Which is better?
 
-**ye es masim hau (de pan).**
+**ye e masim hau (de pan).**
 This is the best (of all).
 
 **da kosta ke?**
@@ -1085,7 +1085,7 @@ I will never forget you.
 ****
 Don't worry! (Hakuna matata!)
 
-**pan es oke.**
+**pan e oke.**
 Everything is alright.
 
 ****

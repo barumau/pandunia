@@ -901,7 +901,7 @@ can be combined to the prepositions in order to construct conjunctions of cause 
 The word **si** means 'to suppose',
 and in conditional sentences, it works in the same way as English 'if'.
 
-**mi no yam da, si mi es tu.**
+**mi no yam da, si mi e tu.**
 – I wouldn't eat it _if_ I were you.
 
 The rest of the sentence can optionally be preceded by the word **asar**, which means 'then'.

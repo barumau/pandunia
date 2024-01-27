@@ -183,6 +183,6 @@ depending on its position in the sentence.
 – I **love** you. (verb)  
 *tu fikre mi su **ai**.*
 – You think about my **love**. (noun)  
-**mi kitabu un ai anjil.**
+**mi kitabi un ai anjil.**
 – I write a **love** letter. (adjective)
 

@@ -22,14 +22,14 @@ Deux adjectifs ou plus peuvent modifier un même mot.
 L'adjectif peut se placer aussi après le nom.
 Cette structure peut souvent se lire comme une phrase complète, où l'adjectif fonctionne comme un verbe adjectival, et où le verbe _être_ est sous-entendu.
 
-**la char e neu.** 
+**la karo e neu.** 
 – La voiture est neuve.  
 **la bagre e suga.** 
 – Le tigre est rapide.
 
 Naturellement, il peut y avoir des modificateurs des deux côtés du nom également.
 
-**la neu char e suga.** 
+**la neu karo e suga.** 
 – La voiture neuve est rapide.
 
 # Adverbes

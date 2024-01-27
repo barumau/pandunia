@@ -191,21 +191,21 @@ the first verb (an auxiliary verb) is something that the subject possesses
 and the second verb is something that the subject does (when there is an object in the end)
 or experiences (when there is no object).
 
-**mi bil kitaba la javabe.**  
+**mi bil kitabi la javabe.**  
 ≈ *I have the ability to write the answer.*  
 – I can write the answer.  
-**mi halal kitaba la javabe.**  
+**mi halal kitabi la javabe.**  
 ≈ *I have the permission to write the answer.*  
 – I may write the answer.  
-**mi mus kitaba la javabe.**  
+**mi mus kitabi la javabe.**  
 ≈ *I have the compulsion to write the answer.*  
 – I must write the answer.
 
 Note that the same auxiliary verbs can be used alone as transitive verbs in the pivot construction.
 
-**guru halal mi kitaba la javabe.**
+**guru halal mi kitabi la javabe.**
 – The teacher permits me to write the answer.  
-**guru mus mi kitaba la javabe.**
+**guru mus mi kitabi la javabe.**
 – The teacher compels me to write the answer.
 
 
@@ -234,7 +234,7 @@ denotes an instrument or tool, 'with, by, by means of'.
 
 **da bate bi hamar.**
 – He hits with the hammer.  
-**da kitaba bi kalam.**
+**da kitabi bi kalam.**
 – He writes with a pen.
 
 It also denotes means of exchange, 'for'.
@@ -246,7 +246,7 @@ It also denotes the language of speech or a text, 'in'.
 
 **mimen loga bi pandunia**
 – We speak in Pandunia  
-**damen kitaba bi farsi**
+**damen kitabi bi farsi**
 – They write in Persian.
 
 #### de

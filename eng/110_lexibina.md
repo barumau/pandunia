@@ -25,14 +25,14 @@ For example, the word **hali** can function equally as an adjective (_blank_ or 
 – You must blank out that word.
 
 Likewise, the word
-**kitabu**
+**kitabi**
 can function as a verb (_to write_), a noun (_a writing_) and adjective (_written_ or _textual_).
 
-**mi kitabu letre.**
+**mi kitabi letre.**
 – I write a letter.  
-**letre e kitabu misije.**
+**letre e kitabi misije.**
 – A letter is a written message.  
-**mi ai tu su kitabu.**
+**mi ai tu su kitabi.**
 – I love your writings.
 
 

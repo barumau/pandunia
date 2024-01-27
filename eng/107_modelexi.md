@@ -13,7 +13,7 @@ For example, the word
 modifies a noun in sentence A
 and a verb in sentence B.
 
-A. **vo es _mei_ kitabi.**
+A. **vo e _mei_ kitabi.**
 – That is a beautiful writing.  
 B. **tu _mei_ di kitabi.**
 – You write _beautifully_.

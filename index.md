@@ -1,7 +1,7 @@
 
 ![](https://www.pandunia.info/bandir/bandera.png "pandunia su bandera")
 
-#pandunia - dunia baxe
+#pandunia - dunia basha
 
 #### [pandunia](pandunia/index.md)
 
