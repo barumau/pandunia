@@ -1,4 +1,4 @@
-# ange
+# rang
 
 <span style="color:black;">███</span> kalangi  
 <span style="color:white;">███</span> himangi

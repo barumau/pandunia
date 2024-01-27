@@ -1,4 +1,4 @@
-# shau baru du pati dante
+# shau baru su pati dante
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_01.png)
 
@@ -11,14 +11,14 @@ ma baru ya loga "sal" i da to vai.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_02.png)
 
-shau baru es unike. da fikir:
-"mi zai bil fa eni xe, ki mi vol!"
+shau baru e unike. da fikir:
+"mi zai bil fa eni she, ki mi vol!"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_03.png)
 
-shau baru ya move to vaxi kamar.
-da fikir "mi no vol vaxi mi su dante a zai."
-shau baru es dus.
+shau baru ya move to vashi kamar.
+da fikir "mi no vol vashi mi su dante a zai."
+shau baru e dus.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_04.png)
 
@@ -39,9 +39,9 @@ shau baru no yam kandi.
 
 shau baru vide la medu pote a alo almari.
 da fikir:
-"mama loga siro xe tema de medu. mi bil yam medu!"
+"mama loga siro she tema de medu. mi bil yam medu!"
 shau baru ya side a kursi i da yam shau medu.
-medu ya bon guste!
+medu ya hau guste!
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_07.png)
 
@@ -55,7 +55,7 @@ da su dante pate!
 ![](http://www.pandunia.info/grafe/urse_dante/urse_09.png)
 
 da kape la tele fon gi.
-da loga: "salam! sual tu es dante dava ja? ching lai to mi! mi ha un pate dante!"
+da loga: "salam! sual tu e dante dava ja? ching lai to mi! mi ha un pate dante!"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_10.png)
 
@@ -66,11 +66,11 @@ shau baru loga: "ya! mi ha pate dante!"
 ![](http://www.pandunia.info/grafe/urse_dante/urse_11.png)
 
 la dava ja ya ching la shau baru ya side a kursi i kai se su boke.
-"aha! un dante es poli dus! mi mus kape da to ekse"
+"aha! un dante e poli dus! mi mus kape da to ekse"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_12.png)
 
-la dava ja ya juxa yo dava xe to dante nama a karibu de dus dante.
+la dava ja ya jusha yo dava she to dante nama a karibu de dus dante.
 shau baru no sente la pate de zai.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_13.png)
@@ -101,19 +101,19 @@ la dante lai to vai!
 
 la dava ja ya loga to shau baru:
 "la dus dante zai a vai.
-ching memo uze un dante broxa a pan un suba i a pan un xam!"
+ching memo uze un dante brosha a pan un suba i a pan un sham!"
 shau baru ya vode memo.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_19.png)
 
-shau baru loga: "xukra, dava ja i vaf i mau i ekore!"
+shau baru loga: "shukra, dava ja i vaf i mau i ekore!"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_20.png)
 
-shau baru ya vaxi da su dante va un dante broxa a pan un suba i xam.
+shau baru ya vashi da su dante va un dante brosha a pan un suba i sham.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_21.png)
 
-ma baru ya note la shau baru fa mas bon di hafiza se su dante.
-mama loga: "tu es bon shau baru!"
+ma baru ya note la shau baru fa mas hau di hafiza se su dante.
+mama loga: "tu e hau shau baru!"
 

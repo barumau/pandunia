@@ -1,6 +1,6 @@
 # piper i karot
 
-kata i desen de [David Revoy](https://www.peppercarrot.com/)
+kisa i desen de [David Revoy](https://www.peppercarrot.com/)
 
 ![](http://www.pandunia.info/desen/piper_i_karot/piper_i_karot_E01P00.png)
 
