@@ -1,0 +1,22 @@
+site_name: lingua Pandunia
+site_url: http://www.pandunia.info/ita
+repo_url: https://github.com/barumau/pandunia/
+docs_dir: ../../ita
+site_dir: ../../html/ita
+theme:
+  name: material
+  font:
+    code: Ubuntu mono
+  language: it
+nav:
+    - 001_ration.md
+extra:
+  social:
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/r/pandunia/
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/jf5GHcHXKk
+    - icon: fontawesome/brands/facebook
+      link: http://www.facebook.com/groups/pandunia
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/pandunia_grupe

@@ -15,6 +15,7 @@ max_dataje_nam() {
 
 fa_dataje_liste() {
     max_dataje_nam $1/000_dake.md
+    max_dataje_nam $1/001_ration.md
     max_dataje_nam $1/100_baze_kanun.md
     max_dataje_nam $1/102_ABC.md
     max_dataje_nam $1/103_lexitipe.md
@@ -63,6 +64,7 @@ kitabe_china_dokume() {
 kitabe_europan_dokume eng
 kitabe_europan_dokume epo
 kitabe_europan_dokume fra
+kitabe_europan_dokume ita
 kitabe_europan_dokume pol
 kitabe_europan_dokume rus
 kitabe_europan_dokume spa

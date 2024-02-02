@@ -22,6 +22,7 @@ bina_pan() {
     bina_neteloka epo
     bina_neteloka fra
     bina_neteloka may
+    bina_neteloka ita
     bina_neteloka jpn
     bina_neteloka pandunia
     bina_neteloka pol
