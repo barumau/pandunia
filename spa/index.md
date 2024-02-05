@@ -77,7 +77,7 @@ lugares anteriormente citados.
 
 ## pandunia
 
-![](http://www.pandunia.info/grafe/bandir.png "La bandera de Pandunia")
+![](http://www.pandunia.info/grafe/bandera.png "La bandera de Pandunia")
 
 **de pan dunia, to pan dunia**  
 – de todo el mundo para todo el mundo
