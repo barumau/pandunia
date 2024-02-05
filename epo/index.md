@@ -56,7 +56,7 @@ menciitaj ret-lokoj.
 
 ## pandunia
 
-![](http://www.pandunia.info/grafe/bandir.png "flago de Pandunia")
+![](http://www.pandunia.info/grafe/bandera.png "flago de Pandunia")
 
 **de pan dunia, to pan dunia**  
 – de la tuta mondo, por la tuta mondo

@@ -214,7 +214,7 @@ malli on kätevä, kun ihmisiä tervehditään nimen, sukulaisuussuhteen, ammati
 = Hei, äiti!  
 **halo, papa!**
 = Hei, isä!  
-**sal, xefe!**
+**sal, shefe!**
 = Terve, pomo!
 
 
@@ -235,7 +235,7 @@ tervehdys, terve, hei
 äiti, mamma  
 **papa**  
 isä  
-**xefe**
+**shefe**
 pomo, päällikkö
 
 
@@ -267,10 +267,10 @@ pomo, päällikkö
 **shukre.**
 = Kiitos.  
 <big>☺</big>
-**ching yam kafe o cai.**
+**ching yam kafe o cha.**
 = Joisitko kahvia tai teetä?  
 <big>☻</big>
-**ama mi yam un di cai! shukre.**
+**ama mi yam un di cha! shukre.**
 = Mutta minähän juon vain teetä! Kiitos.  
 ...  
 <big>☻</big>
@@ -340,9 +340,9 @@ rakennetta voi hyödyntää kaikenlaisten kohteliaiden pyyntöjen ilmaisemiseen.
 = Istu, ole hyvä.  
 **ching don yo kafe.**
 = Antaisitko kahvia.  
-**ching don cai.**
+**ching don cha.**
 = Antaisitko teetä.  
-**ching yam cai.**
+**ching yam cha.**
 = Ottaisitko teetä.  
 **ching saf kamar.**
 = Siivoaisitko huoneen.
@@ -352,7 +352,7 @@ Käskyt aloitetaan sanalla
 ('käskeä, komentaa').
 Käskylauseiden rakenne on sama kuin pyyntölauseiden.
 
-**amir don cai.**
+**amir don cha.**
 = Anna teetä!  
 **amir saf kamar.**
 = Siivoa huone!
@@ -377,7 +377,7 @@ Käännä seuraavat lauseet panduniaksi. Oikeat vastaukset ovat sanaston jälkee
 
 ### Sanasto
 
-**cai**
+**cha**
 tee  
 **ching**
 pyytää; ole hyvä  
@@ -405,11 +405,11 @@ syödä tai juoda
 
 ### Harjoitusten vastaukset
 
-1. da yam cai.
-2. la xefe ching da side.
-3. ching yam kafe o cai.
+1. da yam cha.
+2. la shefe ching da side.
+3. ching yam kafe o cha.
 4. mama ching mi saf kamar.
-5. xefe side e yam kafe.
+5. shefe side e yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -423,10 +423,10 @@ syödä tai juoda
 <small>Kuva: [pikisuperstar](https://www.freepik.com/pikisuperstar)</small>
 
 <big>☺</big>
-**sal! sual tu yam kafe o cai?**
+**sal! sual tu yam kafe o cha?**
 = Terve! Joisitteko kahvia vai teetä?  
 <big>☻</big>
-**cai.**
+**cha.**
 = Teetä.  
 <big>☺</big>
 **tu ne?**
@@ -435,10 +435,10 @@ syödä tai juoda
 **mi no bashe pandunia...**
 = En osaa panduniaa...  
 <big>☺</big>
-**maf! sual da yam cai?**
+**maf! sual da yam cha?**
 = Anteeksi! Haluaisiko hän teetä?  
 <big>☻</big>
-**no. da no yam cai. da yam kafe.**
+**no. da no yam cha. da yam kafe.**
 = Ei, hän ei juo teetä. Hän juo kahvia.  
 <big>☺</big>
 **sual tu yam supe?**
@@ -453,7 +453,7 @@ syödä tai juoda
 **no yam.**
 = Ei.  
 <big>☺</big>
-**shukre. mi dona un cai e un kafe e un supe pos des minute.**
+**shukre. mi dona un cha e un kafe e un supe pos des minute.**
 = Kiitos. Minä tuon yhden teen, yhden kahvin ja yhden keiton kymmenen minuutin päästä.
 
 
@@ -463,11 +463,11 @@ Kysymykset joihin vastataan "kyllä" ja "ei" muodostetaan samalla saranarakentee
 joissa käytetään sanaa **ching**.
 Kysymyslauseet aloitetaan sanalla **sual** = kysyä.
 
-**mi sual tu yam cai.**
+**mi sual tu yam cha.**
 = Minä kysyn, juotko sinä teetä. 
-**sual tu yam cai?**
+**sual tu yam cha?**
 = Juotko sinä teetä?  
-**sual yam cai?**
+**sual yam cha?**
 = Juotko teetä?
 
 Pyynnöt on yleensä osoitettu ihmiselle, joille puhutaan,
@@ -475,7 +475,7 @@ mutta kysymykset usein koskettavat muita ihmisiä.
 Sen vuoksi kysymyslauseeseen jätetään yleensä jälkimmäinen pronomini jäljelle.
 Sen voisi jättää pois vain kun on ilmiselvää, ketä kysymys koskee.
 
-**sual da yam cai?**
+**sual da yam cha?**
 = Juoko hän teetä?  
 **sual tu yam supe?**
 = Syötkö sinä keittoa?  
@@ -484,7 +484,7 @@ Sen voisi jättää pois vain kun on ilmiselvää, ketä kysymys koskee.
 
 Tietysti myös yleis- ja erisnimiä voi käyttää kysymyksissä.
 
-**sual xefe yam kafe?**
+**sual shefe yam kafe?**
 = Juoko päällikkö kahvia?  
 **sual papa saf kamar?**
 = Siivoaako isä huoneen?  
@@ -647,7 +647,7 @@ mutta, vaan
 2. un kupa no hali.
 3. du vaf no yam supe.
 4. da no ha vaf e mau. / da ha no vaf e no mau.
-5. xefe yam cai ama no kafe.
+5. shefe yam cha ama no kafe.
 6. mama ha no vaf ama du mau.
 
 
@@ -756,11 +756,11 @@ Esimerkiksi kun on päivä ja puhe on aamiaisesta, lause viittaa luonnollisesti 
 Mennyttä, nykyistä ja tulevaa tarkoittavat määresanat ovat **pas, zai**
 ja **sha**. Niitä voi käyttää substantiivien määrittämiseen.
 
-**Sara es mi su pas xefe.**
+**Sara es mi su pas shefe.**
 = Sara on minun entinen pomo.  
-**Yusef es mi su zai xefe.**
+**Yusef es mi su zai shefe.**
 = Yusef on minun nykyinen pomo  
-**Maria es mi su sha xefe.**
+**Maria es mi su sha shefe.**
 = Maria on minun tuleva pomo.
 
 Samoja sanoja käytetään myös kun puhutaan teoista ja tapahtumista
@@ -839,7 +839,7 @@ maito
 
 ### Harjoitusten vastaukset
 
-1. mi su xefe festa a sha.
+1. mi su shefe festa a sha.
 2. mi ha du vaf a pas.
 3. tu yam supe a zai.
 4. da saf kamar a preden.

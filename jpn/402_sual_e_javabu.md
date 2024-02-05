@@ -29,7 +29,7 @@
 
 #### 旗は何を表していますか?
 
-![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
+![](http://www.pandunia.info/grafe/bandera.png "The flag of Pandunia")
 
 パンドゥニアの旗は世界の平等を表しています。
 紺色の空間を背景に青い惑星のシンボルがあります。

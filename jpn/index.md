@@ -6,7 +6,7 @@ hide:
 
 # パンドゥニア - シンプルな国際語
 
-![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
+![](http://www.pandunia.info/grafe/bandera.png "The flag of Pandunia")
 
 ## パンドゥニアとは?
 
@@ -52,7 +52,7 @@ hide:
   言葉を広める!
 <!-- - このサイトの翻訳を[手伝ってください。](tarja_netoloke.md) -->
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen basha pandunia!")
 
 パンドゥニアの制作者である Risto Kupsala にはEメール
 [risto@pandunia.info](mailto:risto@pandunia.info) または前述のフォーラムで

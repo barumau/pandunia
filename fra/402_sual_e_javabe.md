@@ -19,7 +19,7 @@ Les créateurs du Pandunia ont commencé ensemble l'élaboration d'une langue en
 
 #### Que représente le drapeau Pandunia ?
 
-![](http://www.pandunia.info/bandir/bandir.png "Le drapeau Pandunia")
+![](http://www.pandunia.info/grafe/bandera.png "Le drapeau Pandunia")
 
 Le drapeau Pandunia représente l'égalité mondiale. On peut y distinguer une planète bleue sur fond spatial et un signe égal superposé à la terre.
 

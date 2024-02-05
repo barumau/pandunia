@@ -92,7 +92,7 @@ Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@p
 
 ## pandunia
 
-![](http://www.pandunia.info/grafe/bandir.png "pandunian lippu")
+![](http://www.pandunia.info/grafe/bandera.png "pandunian lippu")
 
 **de pan dunia, to pan dunia**  
 – koko maailmalta, koko maailmalle

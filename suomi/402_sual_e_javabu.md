@@ -30,7 +30,7 @@ vuonna 2007, mutta kieli alkoi saada lopullisen muotonsa vasta vuoden
 
 #### Mitä pandunian lippu esittää?
 
-![](http://www.pandunia.info/bandir/bandir.png "Pandunian lippu")
+![](http://www.pandunia.info/grafe/bandera.png "Pandunian lippu")
 
 Pandunian lippu kuvastaa yleismaailmallista tasavertaisuutta. Lipun
 tausta on tumman sininen. Ympyrä esittää _sinistä planeettaamme_ ja

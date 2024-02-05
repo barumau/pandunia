@@ -24,7 +24,7 @@ Niektóre zauważalne cechy Panduni:
 - Jako skonstruowany język, Pandunia jest kompletnie regularna – nie ma żadnych wyjątków.
 - Pandunia jest prawdziwie międzynarodowa! Słowa Panduni to słowa ogólnoświatowe, które są zapożyczone z wielu języków na całym świecie, w tym najpopularniejszych 10 najczęściej używanych języków świata.
 
-![](http://www.pandunia.info/bandir/bandir.png "Flaga Panduni")
+![](http://www.pandunia.info/grafe/bandera.png "Flaga Panduni")
 
 
 ## Materiały do nauki

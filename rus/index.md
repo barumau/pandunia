@@ -91,7 +91,7 @@ hide:
 
 ## Пандуния
 
-![](http://www.pandunia.info/grafe/bandir.png "Флаг Пандунии")
+![](http://www.pandunia.info/grafe/bandera.png "Флаг Пандунии")
 
 **de pan dunia, to pan dunia**  
 – от всего мира, для всего мира.

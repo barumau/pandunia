@@ -58,7 +58,7 @@ Vous pouvez contacter Risto Kupsala, un des créateurs du pandunia, en envoyant 
 
 ## pandunia
 
-![](http://www.pandunia.info/grafe/bandir.png "le drapeau du Pandunia")
+![](http://www.pandunia.info/grafe/bandera.png "le drapeau du Pandunia")
 
 **de pan dunia, to pan dunia**  
 – du monde entier pour le monde entier

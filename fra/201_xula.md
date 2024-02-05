@@ -422,10 +422,10 @@ manger ou boire, consommer
 ### Réponses aux exercices
 
 1. da yam cai.
-2. la xefe ching da side.
+2. la shefe ching da side.
 3. ching yam kafe o cai.
 4. mama ching mi saf kamar.
-5. xefe side e yam kafe.
+5. shefe side e yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -681,7 +681,7 @@ mais
 2. un kupa no hali.
 3. du vaf no yam supe.
 4. da no ten vaf e mau. / da ten no vaf e no mau.
-5. xefe yam cai ama no kafe.
+5. shefe yam cha ama no kafe.
 6. mama ten no vaf ama du mau.
 
 
@@ -889,7 +889,7 @@ lait
 
 ### Réponses aux exercices
 
-1. mi su xefe festa na sha.
+1. mi su shefe festa na sha.
 2. mi ten du vaf na pas.
 3. tu yam supe na zai.
 4. da saf kamar a pre den.

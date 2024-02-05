@@ -6,7 +6,7 @@ hide:
 
 # pandunia – dunia basha
 
-![](http://www.pandunia.info/bandir/bandir.png "pandunia su bandera")
+![](http://www.pandunia.info/grafe/bandera.png "pandunia su bandera")
 
 sal dunia!
 

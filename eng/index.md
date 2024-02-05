@@ -90,7 +90,7 @@ You can contact the creator and a main developer of Pandunia, Risto Kupsala, via
 
 ## pandunia
 
-![](http://www.pandunia.info/grafe/bandir.png "The flag of Pandunia")
+![](http://www.pandunia.info/grafe/bandera.png "The flag of Pandunia")
 
 **de pan dunia, to pan dunia**  
 – from the whole world, for the whole world

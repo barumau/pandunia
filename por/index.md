@@ -31,7 +31,7 @@ Contato: risto@pandunia.info
 
 ## pandunia
 
-![](http://www.pandunia.info/bandir/bandir.png "Bandeira de Pandunia")
+![](http://www.pandunia.info/grafe/bandera.png "Bandeira de Pandunia")
 
 **de pan dunia, to pan dunia**  
 – do mundo inteiro para o mundo inteiro

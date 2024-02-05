@@ -6,7 +6,7 @@ hide:
 
 # pandunia
 
-![](http://www.pandunia.info/bandir/bandir.png "bendera Pandunia")
+![](http://www.pandunia.info/grafe/bandera.png "bendera Pandunia")
 
 
 Bahasa Pandunia adalah [bahasa buatan antarabangsa](https://id.wikipedia.org/wiki/Bahasa_buatan).

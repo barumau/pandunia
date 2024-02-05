@@ -95,7 +95,7 @@ Risto recorded another [short video in Pandunia](https://www.youtube.com/watch?v
 in 2016 to show how the language had evolved.
 Alex André recorded a [30 day challenge to learn Pandunia](https://twitter.com/XanderLeaDaren/status/1114972322157465612) in 2019.
 
-![](http://www.pandunia.info/bandir/bandir.png "Pandunia flag in 2018")  
+![](http://www.pandunia.info/grafe/bandera.png "Pandunia flag in 2018")  
 Pandunia flag in 2018
 
 Here are the creation years of the Wikipedia articles about Pandunia.

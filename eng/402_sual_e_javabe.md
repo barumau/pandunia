@@ -31,7 +31,7 @@ The final version of the language is published in 2023
 
 #### What does the flag of Pandunia represent?
 
-![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
+![](http://www.pandunia.info/grafe/bandera.png "The flag of Pandunia")
 
 The flag of Pandunia represents global equality.
 There is a symbol of _the blue planet_ against the background of the dark blue galaxy.
