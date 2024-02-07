@@ -7,7 +7,7 @@
 ![](http://www.pandunia.info/grafe/halo.png "halo!")
 
 <big>☺</big>
-**halo!**
+**sal!**
 – ¡Hola!  
 <big>☻</big>
 **sal!**
@@ -226,8 +226,7 @@ jefe, patrón
 ---------------------------------------------------------------------
 
 
-Pidiendo
---------
+## Pidiendo
 
 ### Diálogo
 

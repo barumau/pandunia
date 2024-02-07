@@ -43,7 +43,7 @@ You can just speak Pandunia!
 
 <p style="font-size:5em;">🙋‍</p>
 
-**sal**
+**sal!**
 Hello!
 
 **sal suba!**
@@ -87,11 +87,11 @@ when you greet someone.
 
 <small>Etymology. **sal** is from
 French *salut*,
-Arabic سَلَام‏ *salām*,
+Arabic سَلَام‏ (salām),
 Hebrew
-שָׁלוֹם‏ *šalom*,
+שָׁלוֹם‏ (šalom),
 Turkish *selam*,
-Hindi सलाम *salām*,
+Hindi सलाम (salām),
 Swahili *salaam*,
 Indonesian *selamat*.</small>
 
@@ -184,6 +184,7 @@ English *me*,
 Hindi: मैं (meṇ),
 Spanish *me*,
 French *me*,
+Fulfulde *mi*,
 Swahili *mimi*.</small>
 
 
@@ -492,7 +493,34 @@ German *Name*,
 English *name*.</small>
 
 
-### ken <small>to know</small>
+### ha <small>have</small>
+
+**mi ha un hau dom.**
+I have a good house.
+
+**da no ha pesa.**
+He doesn't have money.
+
+**mi vol ha un neu telefon.**
+I want to have a new telephone.
+
+**sual tu ha ben?**
+Do you have children?  
+**mi ha du ben.**
+I have two children.
+
+**sual ha davar?**
+Is there a doctor?  
+**ya. da e davar.**
+Yes. He or she is a doctor.
+
+**sual ha vin?**
+Do you have wine?  
+**ya. baki i rubi.**
+Yes, white and red.
+
+
+### ken <small>connaître</small>
 
 **mi ken da.**
 I know him/her/it.
@@ -732,7 +760,7 @@ Please speak louder.
 **mi audi muzika.**
 I listen to music.
 
-**tu audi ke yang di muzike?**
+**tu audi ke yang di muzika?**
 What kind of music do you listen to?
 
 
@@ -1017,7 +1045,7 @@ I want to take a car for rent.
 **mi vol kira sepe un karo.**
 I want to rent a car.
 
-**da kira don la kamar to safarer.**
+**da kira don la kamar to safartor.**
 He/she rents rooms to travelers.
 
 

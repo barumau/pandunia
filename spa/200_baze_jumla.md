@@ -64,13 +64,20 @@ Buen viaje.
 **sal sona!**
 Que duermas bien. / Que descanses.
 
-Como puedes ver arriba, **sal** es una palabra general para desear el bien.
+Como puedes ver arriba,
+**sal**
+es una palabra general para desear el bien.
 Puedes usarla cuando quieras.
 
 
-<small>Etimología. **sal** viene del árabe: سَلَام‏ "salām", hebreo:
-שָׁלוֹם‏ "šalom", turco: selam, hindi: सलाम "salām", suajili: salaam,
-indonesio: selamat.</small>
+<small>Etimología. **sal** viene del
+francés *salut*,
+árabe سَلَام‏ (salām),
+hebreo שָׁלוֹם‏ (šalom),
+turco *selam*,
+hindi सलाम (salām),
+suajili *salaam*,
+indonesio *selamat*.</small>
 
 
 ### shukre <small>gracias</small>
@@ -108,7 +115,9 @@ Yo saludo a mamá.
 **mi sal papa.**
 Yo saludo a papá.
 
-La palabra **sal** es un sustantivo y un verbo.
+La palabra
+**sal**
+es un sustantivo y un verbo.
 El orden básico de las palabras en pandunia es sujeto–verbo–objeto.
 
 **Sara ya sal Tomas.**
@@ -120,7 +129,13 @@ Sara saluda a Tomás.
 **sal papa!**
 ¡Saludos, papá!
 
-<small>Etimología. **mi** viene del inglés: me, hindi: मैं (meṇ), español: me.</small>
+<small>Etimología. **mi** viene del
+inglés *me*,
+hindi: मैं (meṇ),
+español *me*,
+fula *mi*,
+suajili *mimi*.</small>
+
 
 ### tu <small>tú</small>
 
@@ -141,7 +156,13 @@ es el mismo en las posiciones de sujeto y objeto, mientras que el español tiene
 **mi ame tu.**
 Te amo. (Yo ama ti)
 
-<small>Etimología. **tu** viene del espanñol: tú, russo:  ты (ty), italiano: tu, francés: tu.</small>
+<small>Etimología. **tu** viene del
+espanñol *tú*,
+russo  ты (ty),
+italiano *tu*,
+francés *tu*,
+hindi तू  (tū),
+farsi تو‏‎ (to).</small>
 
 
 ### da <small>él, ella o eso</small>
@@ -230,8 +251,10 @@ Se coloca antes de la cosa que se va a negar.
 **da no sal mi.**
 Él/ella no me saluda.
 
-<small>Etimología. **no**
-viene del español: no, inglés: nofrancés: non.</small>
+<small>Etimología. **no** viene del
+español *no*,
+inglés *no*,
+francés *non*.</small>
 
 
 ### Plural
@@ -289,10 +312,14 @@ Ella es Sara.
 **damen e ke?**
 ¿Quiénes son ellos/as?
 
-<small>Etimología. **ke** viene del español: qué, portugués: quê, italiano:
-che, bengalí: কী (ki).</small>
+<small>Etimología. **ke** viene del
+español *qué*,
+portugués *quê*,
+italiano *che*,
+bengalí কী (ki).</small>
 
-### ye & vo <small>esto, eso, aquello</small>
+
+### ye i vo <small>esto, eso, aquello</small>
 
 **ye e ke?**
 ¿Qué es esto?
@@ -303,7 +330,7 @@ Esta es una manzana.
 **vo e ke?**
 ¿Qué es eso?
 
-**vo e oranje.**
+**vo e aranja.**
 Esa es una naranja.
 
 **ye e rubi aple.**
@@ -324,6 +351,7 @@ Están aquí.
 **damen a vo.**
 Están allá.
 
+
 ### la <small>él, la, los, las</small>
 
 **sual tu vol ke?**
@@ -337,6 +365,7 @@ Quiero manzanas.
 
 **mi vol la rubi aple.**
 Quiero la manzana roja.
+
 
 ### su <small>(partícula posesiva)</small>
 
@@ -363,14 +392,17 @@ significa "tu/tuyo", y así.
 **da e ke?**
 ¿Quién es él/ella?
 
-**da e mi su doste.**
+**da e mi su dosti.**
 Él/ella es mi amigo/a.
 
-**mi e Sara su doste.**
+**mi e Sara su dosti.**
 Yo soy la amiga de Sara.
 
 <small>Etimología. **su** viene del
-español: su, portugués: seu, francés: son, inglés: ’s.</small>
+español *su*,
+portugués *seu*,
+francés *son* ~ *sa*,
+inglés *’s*.</small>
 
 
 ### nam <small>nombre</small>
@@ -388,13 +420,13 @@ Mi nombre es Tomás.
 Ella se llama Sara.
 
 <small>Etimología. **nam** viene del
-hindi: नाम  "nām",
-farsi: نام‏‎ "nām",
-tailandés: นาม "naam",
-indonesio: nama,
-japonés: 名前 "namae",
-alemán: Name,
-inglés: name.</small>
+hindi नाम  (nām),
+farsi نام‏‎ (nām),
+tailandés นาม (naam),
+indonesio *nama*,
+japonés 名前 (namae),
+alemán *Name*,
+inglés *name*.</small>
 
 
 ### ha <small>tener</small>
@@ -608,31 +640,34 @@ Puedo hablar pandunia.
 **mi bil kam pandunia.**
 Puedo hablar un poco de pandunia.
 
-**mi no bil englix.**
+**mi no bil english.**
 No puedo hablar inglés.
 
-**maf. mi no bil tu su baxe.**
+**maf. mi no bil tu su basha.**
 Lo siento. No puedo hablar tu idioma.
 
 
-### loge <small>decir, hablar</small>
+### loga <small>decir, hablar</small>
 
-**tu loge ke?**
+**tu loga ke?**
 ¿Qué dijiste?
 
-**mi loge to tu.**
+**mi loga to tu.**
 Te hablé.
 
-**mimen loge to semen.**
+**mimen loga to semen.**
 Hablamos entre nosotros.
 
-**se loge «gato» a ke yang a pandunia?**
+**men loga
+«gato»
+a ke mode a pandunia?**
 ¿Cómo se dice "gato" en pandunia?
 
-**«gato» e ke a pandunia?**
+**«gato»
+e ke a pandunia?**
 ¿Qué es "gato" en pandunia?
 
-**mau loge "miau".**
+**mau loga "miau".**
 El gato dice «miau».
 
 
@@ -644,7 +679,7 @@ El gato dice «miau».
 **mi no bil audi tu.**
 No puedo oírte.
 
-**ching loge max bala.**
+**ching loga mas bala.**
 Por favor, hablar más fuerte.
 
 **mi audi muzika.**
@@ -654,54 +689,54 @@ Escucho música.
 ¿Qué clase de música escuchas?
 
 
-### vide <small>ver</small>
+### visi <small>ver</small>
 
-**suka vide tu.**
+**suka visi tu.**
 Encantado de verte.
 
-**to rivide!**
+**to rivisi!**
 ¡Hasta luego! (Literalmente: _¡Hasta que te vea de nuevo!_)
 
-**vide tu a posden!**
+**visi tu a posden!**
 ¡Te veo mañana!
 
-**mi vide da a preden.**
+**mi visi da a preden.**
 Lo/a vi a él/ella ayer.
 
 
-### seme <small>significar</small>
+### sema <small>significar</small>
 
-**ye lexi ya seme ke?**
+**ye lexi ya sema ke?**
 ¿Qué significa esta palabra?
 
-**"mau" ya seme ke?**
+**"mau" ya sema ke?**
 ¿Qué significa "maw"?
 
-**da seme un yang de hevan.**
+**da sema un yang de hevan.**
 Significa una clase de animal.
 
-**mi no aha da seme ke.**
+**mi no aha da sema ke.**
 No entiendo qué significa.
 
 
-### kitaba <small>escribir</small>
+### kitabi <small>escribir</small>
 
-**ching kitaba tu su adres.**
+**ching kitabi tu su adres.**
 Por favor, escribe tu dirección.
 
-**ching kitaba da a ye.**
+**ching kitabi da a ye.**
 Por favor, escríbelo aquí.
 
 
-### baxe <small>hablar un idioma, comunicar</small>
+### basha <small>hablar un idioma, comunicar</small>
 
-**sual tumen baxe pandunia.**
+**sual tumen basha pandunia.**
 ¿Hablas pandunia?
 
-**mimen baxe pandunia.**
+**mimen basha pandunia.**
 Nosotros hablamos pandunia.
 
-**sual tu bil baxe englix?**
+**sual tu bil basha english?**
 ¿Puedes hablar inglés?
 
 **franse, espanya, portugal, rus**
@@ -724,7 +759,7 @@ Suajili, hausa, yoruba, amhárico
 **tu ga ke?**
 ¿A dónde vas?
 
-**mi ga la dom.**
+**mi ga dom.**
 Voy a casa.
 
 **mi mus ga ke?**
@@ -736,7 +771,7 @@ Voy a casa.
 **haida ga!**
 ¡Vamos! (a algún lugar)
 
-**haide ga a fute**
+**haida ga a fute**
 Vamos caminando.
 
 
@@ -763,7 +798,7 @@ Vendré a casa mañana.
 **mimen safar de London to Paris.**
 Nosotros viajamos de Londres a París.
 
-**safar e dai di long.**
+**safar e dai long.**
 El viaje es muy largo.
 
 
@@ -809,10 +844,12 @@ Vivo en Singapur.
 Ayuda: También está bien decir
 "tu dom a ke?"
 en vez de
-"tu doma ke".
+"tu dom ke".
 Sin embargo
 **dom**
-ya significa que algo está en algún lugar, así que **a** no es necesario.
+ya significa que algo está en algún lugar, así que
+**a**
+no es necesario.
 
 
 ### dele <small>esperar</small>
@@ -850,26 +887,26 @@ Le doy un libro a ellos/as.
 Él/ella no quiere darme eso.
 
 
-### cepe <small>tomar (de agarrar, sujetar)</small>
+### sepe <small>tomar (de agarrar, sujetar)</small>
 
-**mi cepe un kafe.**
+**mi sepe un kafe.**
 Voy a tomar un café.
 
-**ching cepe un kafe to mi.**
+**ching sepe un kafe to mi.**
 Por favor toma un café para mí.
 
-**tu pas cepe pesa de mi.**
+**tu pas sepe pesa de mi.**
 Tú ya tomaste dinero de mí.
 
-**mi cepe un bir.**
+**mi sepe un bir.**
 Voy a tomar una cerveza.
 
 
 ### kira <small>renta, alquiler</small>
 
-**mi vol kira cepe un karo.**
+**mi vol kira sepe un karo.**
 Quiero rentar un auto.
 
-**da kira don la kamar to safarja.**
+**da kira don la kamar to safartor.**
 Él/ella vende las habitaciones a los viajeros.
 

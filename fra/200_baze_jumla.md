@@ -78,7 +78,7 @@ est un mot générique pour souhaiter du bien à quelqu’un. Utilisez-le souven
 vient de l'arabe سَلَام‏ "salām", en hébreu il se dit : שָׁלוֹם‏ "šalom", en turc "selam", en Hindi सलाम "salām", en swahili "salaam" et en indonésien "selamat".</small>
 
 
-### xukre <small>merci</small>
+### shukre <small>merci</small>
 
 <p style="font-size:5em;">🙏</p>
 
@@ -111,7 +111,7 @@ Merci de m'avoir aidé.
 Je t'en prie. / Il n'y a pas de quoi.
 
 
-### es <small>être</small>
+### e <small>être</small>
 
 **mi e Tomas.**
 Je suis Thomas.
@@ -124,7 +124,9 @@ Je suis Sara.
 **mi e Tomas.**
 Je suis Thomas.
 
-Vous pouvez vous présenter simplement en utilisant **me** et votre prénom ; le verbe "être" est optionel.
+Vous pouvez vous présenter simplement en utilisant
+**mi**
+et votre prénom ; le verbe "être" est optionel.
 
 **mi sal mama.**
 Je salue la mère.
@@ -146,9 +148,12 @@ Salutations, mère ! | Salut maman !
 **sal papa!**
 Salutations, père ! | Salut papa !
 
-<small>Étymologie : **mi** vient de l'anglais "me", en hindi मैं (meṇ), en espagnol "me".</small>
-
-
+<small>Étymologie : **mi** vient de
+l'anglais *me*,
+en hindi मैं (meṇ),
+en espagnol *me*,
+en peul *mi*,
+en souahili *mimi*.</small>
 
 
 ### tu <small>tu, te, toi</small>
@@ -156,18 +161,23 @@ Salutations, père ! | Salut papa !
 **tu e Tomas.**
 Tu es Thomas.
 
-**mi salam tu.**
+**mi sal tu.**
 Je te salue.
 
-**tu salam mi.**
+**tu sal mi.**
 Tu me salues.
 
 Les pronoms ne changent jamais de forme en Pandunia ; peu importe qu'ils soient sujets ou compléments.
 
-**mi ame tu.**
+**mi ai tu.**
 Je t'aime.
 
-<small>Étymologie : **tu** vient du français "tu", en italien "tu".</small>
+<small>Étymologie : **tu** vient du
+français *tu*,
+en russe ты (ty),
+en italien *tu*,
+en hindi तू  (tū),
+en farsi تو‏‎ (to).</small>
 
 
 ### da <small>Il, elle, ou il neutre</small>
@@ -276,10 +286,9 @@ Il/elle ne me salue pas.
 <small>Étymologie :
 **no**
 vient de
-l'espagnol "no",
-en anglais il se dit "no",
-en français "non".</small>
-
+l'espagnol *no*,
+en anglais il se dit *no*,
+en français *non*.</small>
 
 
 ### Plusieurs personnes
@@ -340,10 +349,10 @@ Qui sont-ils ?
 <small>Étymologie :
 **ke**
 vient de
-l'espagnol "qué",
-en portugais il se dit "que",
-en italien "che"
-et en bengali: কী "ki".</small>
+l'espagnol *qué*,
+en portugais il se dit *que*,
+en italien *che*
+et en bengali কী (ki).</small>
 
 
 
@@ -400,9 +409,8 @@ C'est mon ami(e).
 **mi e Sara su dosti.**
 Je suis l'ami(e) de Sara.
 
-<small>Étymologie :
-**su**
-vient du anglais _'s_
+<small>Étymologie : **su** vient du
+anglais *'s*
 et de l'espagnol *su*.</small>
 
 
@@ -422,12 +430,13 @@ Son nom est Sara.
 
 <small>Étymologie :
 **nam**
-vient du hindi  नाम "nām",
-il se dit en farsi نام‏‎ "nām",
-en thaï นาม "naam", en indonésien "nama",
-en japonais 名前 "namae",
-en allemand "Name",
-en anglais "name".</small>
+vient du hindi  नाम (nām),
+il se dit en farsi نام‏‎ (nām),
+en thaï นาม (naam),
+en indonésien *nama*,
+en japonais 名前 (namae),
+en allemand *Name*,
+en anglais *name*.</small>
 
 
 ### ha <small>verbe avoir ; il y a </small>
@@ -470,7 +479,6 @@ Est-ce que vous vous connaissez l’un l’autre?
 
 **mimen ken semen de long.**
 Nous nous connaissons [l’un l’autre] depuis longtemps.
-
 
 
 ### mede <small>aide, aider</small>
@@ -578,7 +586,6 @@ Viens à la maison, s’il te plait !
 Aide moi, s’il te plait.
 
 
-
 ### haida <small>hortatif (impératif avec « nous »)</small>
 
 **haida yam!**
@@ -589,7 +596,6 @@ Allons manger !
 
 **haida ga dom.**
 Allons à la maison.
-
 
 
 ### yau <small>avoir besoin de</small>
@@ -605,8 +611,6 @@ Est-ce que tu as faim ?
 
 **sual tu yau sui?**
 Est-ce que tu as soif ?
-
-
 
 
 ## 3e partie : Communication
@@ -645,10 +649,10 @@ Je n’ai rien compris du tout.
 
 ### bil <small>pouvoir, savoir</small>
 
-**mi bil shofe un karo.**
+**mi bil shofe karo.**
 Je sais conduire une voiture.
 
-**da no bil shofe un karo.**
+**da no bil shofe karo.**
 Il/elle ne sait pas conduire une voiture.
 
 **sual tu bil shuli da?**
@@ -671,24 +675,27 @@ Désolé, je ne parle pas votre langue.
 
 
 
-### loge <small>mot, dire, parler</small>
+### loga <small>mot, dire, parler</small>
 
-**tu loge ke?**
+**tu loga ke?**
 Qu’est-ce que tu dis ?
 
-**mi loge to tu.**
+**mi loga to tu.**
 Je te parle. (mot à mot : _je parle à toi_)
 
-**mimen loge to semen.**
+**mimen loga to semen.**
 Nous nous parlons. (mot à mot : _nous parlons à l’un l’autre_)
 
-**se loge "chat" a ke yang a pandunia?**
+**se loga
+"chat"
+a ke mode a pandunia?**
 Comment se dit « chat » en pandunia ?
 
-**"chat" e ke a pandunia?**
+**"chat"
+e ke a pandunia?**
 Qu’est-ce que c’est, « chat», en pandunia ?
 
-**mau loge miau.**
+**mau loga miau.**
 Un chat dit miaou.
 
 
@@ -700,7 +707,7 @@ Un chat dit miaou.
 **mi no bil audi tu.**
 Je ne t’entends pas. (Je n’arrive pas à t’entendre)
 
-**ching loge mas bala.**
+**ching loga mas bala.**
 Parlez plus fort, s’il vous plait.
 
 **mi audi muzika.**
@@ -710,46 +717,46 @@ J’écoute de la musique.
 Quel genre de musique est-ce que tu écoutes ?
 
 
-### vide <small>voir</small>
+### visi <small>voir</small>
 
-**suka vide tu.**
+**suka visi tu.**
 Heureux de te voir !
 
-**to rivide!**
+**to rivisi!**
 On se voit plus tard ! / À plus tard !
 
-**vide tu a pos den!**
+**visi tu a posden!**
 On se voit demain ! / À demain !
 
-**mi vide da a preden.**
+**mi visi da a preden.**
 Je l’ai vu(e) hier.
 
 
-### seme <small>signifier, vouloir dire</small>
+### sema <small>signifier, vouloir dire</small>
 
-**ye leshi ya seme ke?**
+**ye lexi ya sema ke?**
 Que veut dire ce mot ?
 
-**"mau" ya seme ke?**
+**"mau" ya sema ke?**
 Que signifie « maw » ?
 
-**da seme un yang de hevan.**
+**da sema un yang de hevan.**
 Ça signifie un genre d’animal.
 
-**mi no aha da seme ke.**
+**mi no aha da sema ke.**
 Je ne comprend pas ce que cela signifie.
 
 
-### kitaba <small>écrire</small>
+### kitabi <small>écrire</small>
 
-**ching kitaba tu su adres.**
+**ching kitabi tu su adres.**
 S’il te plait, écris ton adresse.
 
-**ching kitaba da a ye.**
+**ching kitabi da a ye.**
 S’il te plait, écris-le là !
 
 
-### bashe <small>communiquer, parler une langue</small>
+### basha <small>communiquer, parler une langue</small>
 
 **sual tumen basha pandunia.**
 Est-ce que vous parlez tous pandunia ?
@@ -781,7 +788,7 @@ swahili, haoussa, yorouba, amharique
 **tu ga ke?**
 Où vas-tu ?
 
-**mi ga la dom.**
+**mi ga dom.**
 Je vais à la maison.
 
 **mi mus ga ke?**
@@ -820,16 +827,16 @@ Est-ce que tu voyages en train ?
 **mimen safar de London to Paris.**
 Nous voyageons de Londres à Paris.
 
-**safar tre long.**
+**safar e dai long.**
 Le voyage est très long.
 
 
 ### a <small>dans, sur, à</small>
 
-**la hotel a ke?**
+**hotel a ke?**
 Où est l’hôtel ?
 
-**la hotel a vo dau.**
+**hotel a vo dau.**
 L’hôtel est sur cette route.
 
 **tu a ke?**
@@ -966,7 +973,7 @@ Je leur donne un livre.
 Il/elle ne veut pas me le donner.
 
 
-### cepe <small>prendre, avoir, recevoir</small>
+### sepe <small>prendre, avoir, recevoir</small>
 
 **mi sepe un kafe.**
 Je vais prendre un café.
@@ -994,7 +1001,7 @@ Je veux prendre une voiture en location.
 **mi vol kira sepe un karo.**
 Je veux louer une voiture.
 
-**da kira don la kamar to safarer.**
+**da kira don la kamar to safartor.**
 Il/elle loue des chambres à les voyageurs.
 
 

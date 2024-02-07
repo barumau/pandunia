@@ -313,11 +313,16 @@ chief, boss
 
 ### Grammar
 
-Pandunia's personal pronouns are: **mi** = I, **tu** = you, and
-**da** = he, she, it. Pandunia is a gender-neutral language. It
-doesn't distinguish between sexes in the third person pronoun or any
-of the pronouns. All the personal pronouns are present in the
-following example sentence.
+Pandunia's personal pronouns are
+**mi**
+'I',
+**tu**
+'you', and
+**da**
+'he, she, it'.
+Pandunia is a gender-neutral language.
+It doesn't distinguish between sexes in the third person pronoun or any of the pronouns.
+All the personal pronouns are present in the following example sentence.
 
 **mi ching tu sal da.**
 = I ask you to say hello to him/her.
@@ -390,7 +395,7 @@ Commands are introduced with
 
 In practice, direct commands can be also made with just one verb and a commanding voice.
 
-**safe da!**
+**safi da!**
 = Clean it!
 
 
@@ -539,7 +544,11 @@ Of course common and proper nouns can also be used.
 
 ### Giving answers
 
-Yes/no questions can be answered with **ya** 'yes', and **no** 'no'.
+Yes/no questions can be answered with
+**ya**
+'yes', and
+**no**
+'no'.
 
 – **sual tu yam supe?**
 = Do you eat soup?  
@@ -590,7 +599,7 @@ after
 pardon, sorry  
 **minute**
 minute  
-**bashe**
+**basha**
 speak a language  
 **ne**
 sentence-ending tag for asking the other's point of view  
@@ -730,7 +739,7 @@ manner or thing if needed.
 = Who is coming? (**jen** = person)  
 **tu yam a ke zaman?**
 = When do you eat? (**zaman** = time)  
-**se danse a ke mode?**
+**men danse a ke mode?**
 = How to dance? (**mode** = manner, style)
 
 In Pandunia, questions beginning with _why_ are asked using
@@ -751,7 +760,7 @@ before the cause or reason.
 Of course **sabu** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-**mi suke mau de sabu damen e kavai**
+**mi suka mau de sabu damen e kavai**
 = I like cats because they are cute.
 
 ### Exercises
@@ -774,7 +783,7 @@ to come
 at, in, on  
 **jen**
 person  
-**suke**
+**suka**
 to like  
 **yang**
 manner, style  

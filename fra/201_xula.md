@@ -129,12 +129,12 @@ animal
 
 ### Réponses aux exercices
 
-1. tu es ke?
-2. mi es tomas.
-3. tu su doste es ke?
-4. da es Sara.
-5. tu su nam es ke?
-6. mi su nam es ........... 
+1. tu e ke?
+2. mi e Tomas.
+3. tu su dosti e ke?
+4. da e Sara.
+5. tu su nam e ke?
+6. mi su nam e ........... 
 
 
 --------------------------------------------------------------------------------
@@ -354,13 +354,13 @@ est un modèle très utile pour les formules de politesses.
 
 **ching side.**
 = Asseyez-vous s'il vous plaît..  
-**ching don  kafe.**
+**ching don kafe.**
 = S'il vous plaît, donnez-moi du café.  
 **ching don cha.**
 = S'il vous plaît, donnez-moi du thé. 
 **ching yam cha.**
 = S'il vous plaît, prenez un peu de thé.  
-**ching saf kamar.**
+**ching safi kamar.**
 = Nettoyez la chambre s'il vous plaît
 
 Les ordres sont données avec
@@ -370,13 +370,13 @@ Les ordres sont données avec
 
 **amir don cha.**
 = Donnez-moi du thé !  
-**amir saf kamar.**
+**amir safi kamar.**
 = Nettoiez la chambre !
 
 En pratique, les ordres directs peuvent aussi s'exprimer au moyen
 d'un seul verbe et d'un ton autoritaire.
 
-**saf da!**
+**safi da!**
 = Nettoie-le/la !
 
 
@@ -403,7 +403,7 @@ demander (poliment), s'il-vous-plaît
 donner  
 **shukre**
 merci  
-**e**
+**i**
 et  
 **kafe**
 café  
@@ -411,7 +411,7 @@ café
 chambre, pièce  
 **o**
 ou  
-**saf**
+**safi**
 nettoyer  
 **side**
 s'asseoir (être assis)  
@@ -421,11 +421,11 @@ manger ou boire, consommer
 
 ### Réponses aux exercices
 
-1. da yam cai.
+1. da yam cha.
 2. la shefe ching da side.
-3. ching yam kafe o cai.
-4. mama ching mi saf kamar.
-5. shefe side e yam kafe.
+3. ching yam kafe o cha.
+4. mama ching mi safi kamar.
+5. shefe side i yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -460,7 +460,7 @@ manger ou boire, consommer
 **ya.**
 = Oui.  
 <big>👩‍🍳</big>
-**sual ya yam supe?**
+**sual da yam supe?**
 = Prend-il de la soupe ?  
 <big>🧔</big>
 **no yam.**
@@ -501,7 +501,7 @@ Bien sûr, les noms communs et les noms propres peuvent aussi être utilisés.
 
 **sual shefe yam kafe?**
 = Est-ce que le chef prend du café ?  
-**sual papa saf kamar?**
+**sual papa safi kamar?**
 = Le père nettoie-t-il la chambre ?  
 **sual niki basha pandunia?**
 = Est-ce que Nicky parle le Pandunia ?
@@ -585,8 +585,8 @@ oui
 
 ### Réponses aux exercices
 
-1. sual tu baxe pandunia?
-2. ya. mi baxe pandunia.
+1. sual tu bashe pandunia?
+2. ya. mi bashe pandunia.
 3. sual mama yam kafe?
 4. no. da no yam kafe.
 5. sual da yam supe?
@@ -634,7 +634,7 @@ Le mot nié peut être de n'importe quel type : verbe, pronom, nom, adjectif et 
 
 **da no ha mau.**
 = Elle n'a pas de chat.  
-**da no ha mau, ama vaf.**
+**da ha no mau, ama vaf.**
 = Elle n'a pas de chats, mais des chiens.  
 **no da, ama mi ha mau.**
 = Pas elle, mais j'ai des chats.  
@@ -661,7 +661,7 @@ Parfois, il y a plus d'une bonne réponse.
 coupe, verre, tasse  
 **hali**
 vide  
-**ten**
+**ha**
 avoir  
 **mau**
 chat  
@@ -677,12 +677,12 @@ mais
 
 ### Réponses aux exercices
 
-1. da no saf kamar.
+1. da no safi kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da no ten vaf e mau. / da ten no vaf e no mau.
+4. da no ha vaf i mau. / da ha no vaf i no mau.
 5. shefe yam cha ama no kafe.
-6. mama ten no vaf ama du mau.
+6. mama ha no vaf ama du mau.
 
 
 --------------------------------------------------------------------------------
@@ -701,10 +701,10 @@ pour la personne, le temps, la manière ou la chose si nécessaire.
 = Qui est-il/elle ?  
 **ke jen lai?**
 = Qui vient ? (**ren** = personne)  
-**tu yam na ke zaman?**
+**tu yam a ke zaman?**
 = Quand manges-tu ? (**zaman** = temps)  
-**danse a ke yang?**
-= Comment danser ? (**yang** = manière, style)
+**men danse a ke mode?**
+= Comment danser ? (**mode** = manière, style)
 
 En Pandunia, les questions commençant par _pourquoi_ sont posées à l'aide de
 **ke sabu**.
@@ -726,7 +726,7 @@ Bien entendu, vous pouvez également utiliser
 pour exprimer la cause
 ou la raison de quelque chose, même si vous ne réponsez pas à une question.
 
-**mi suka mau ze sabu damen e kavai**
+**mi suka mau de sabu damen e kavai**
 = J'aime les chats parce qu'ils sont mignons.
 
 ### Exercices
@@ -763,7 +763,7 @@ temps, periode
 3. ke zaman da lai?
 4. pos des minute.
 5. ke sabu da no yam?
-6. de sabu da no suka kafe e supe.
+6. de sabu da no suka kafe i supe.
 
 --------------------------------------------------------------------------------
 
@@ -832,19 +832,19 @@ Une seule indication temporelle suffit pour situer le moment du récit.
 Une autre expression de temps ne sera utile que si on parle à un autre temps au cours du récit,
 ou bien pour souligner le fait que le temps du récit n'a pas changé.
 
-**mi pas ten un mau.**
+**mi pas ha un mau.**
 = J'ai eu un chat dans le passé.
 **da e hau mau.**
 = C'était un bon chat.
-**mi ten un vaf a zai.**
+**mi ha un vaf a zai.**
 = J'ai un chien maintenant.
 
 Toute expression de temps convient pour exprimer un moment dans le temps.
 Lorsqu'une expression temporelle est présente, les autres marqueurs de temps ne sont pas nécessaires.
 
-**mi be jene a nen 2003.**
+**mi be gene a nen 2003.**
 = Je suis né en 2003.  
-**da saf la kamar a pos den.**
+**da safi la kamar a pos den.**
 = Il nettoiera la chambre demain.
 
 
@@ -861,7 +861,7 @@ Essayez de traduire ces phrases du Français au Pandunia. Les réponses correcte
 
 ### Liste de mots
 
-**feste**
+**festa**
 fêter, célébrer  
 **pas**
 passé, ancien  
@@ -889,10 +889,10 @@ lait
 
 ### Réponses aux exercices
 
-1. mi su shefe festa na sha.
-2. mi ten du vaf na pas.
-3. tu yam supe na zai.
-4. da saf kamar a pre den.
-5. mau yam milke na pos den.
-6. tu su mama festa a prenoce.
+1. mi su shefe festa a sha.
+2. mi ha du vaf a pas.
+3. tu yam supe a zai.
+4. da safi kamar a preden.
+5. mau yam milke a posden.
+6. tu su ma festa a prenoce.
 
