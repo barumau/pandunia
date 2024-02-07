@@ -10,6 +10,8 @@ theme:
   language: it
 nav:
     - 001_ration.md
+    - 002_filsofi.md
+    - 003_baze.md
 extra:
   social:
     - icon: fontawesome/brands/reddit
