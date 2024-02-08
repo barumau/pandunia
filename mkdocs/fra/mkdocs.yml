@@ -6,6 +6,10 @@ site_dir: ../../html/fra
 theme:
   name: material
   language: fr
+  logo: logo.png
+  favicon: favicon.png
+  font:
+    code: Ubuntu mono
 extra_css:
   - stile.css
 plugins:

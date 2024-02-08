@@ -3,7 +3,13 @@ site_url: http://www.pandunia.info/tai
 repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../tai
 site_dir: ../../html/tai
-theme: material
+theme:
+  name: material
+  language: th
+  logo: logo.png
+  favicon: favicon.png
+  font:
+    code: Ubuntu mono
 nav:
     - "พันดูเนีย": 'index.md'
     - "พื้นฐาน": '003_baze.md'

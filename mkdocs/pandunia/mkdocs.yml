@@ -4,7 +4,12 @@ repo_url: https://github.com/barumau/pandunia/
 site_author: Risto Kupsala
 docs_dir: ../../pandunia
 site_dir: ../../html/pandunia
-theme: material
+theme:
+  name: material
+  logo: logo.png
+  favicon: favicon.png
+  font:
+    code: Ubuntu mono
 nav:
     - ABC: abc.md
     - kata:

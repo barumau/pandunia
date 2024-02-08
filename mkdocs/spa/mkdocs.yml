@@ -5,8 +5,12 @@ site_author: Risto Kupsala
 docs_dir: ../../spa
 site_dir: ../../html/spa
 theme:
-    name: material
-    language: es
+  name: material
+  language: es
+  logo: logo.png
+  favicon: favicon.png
+  font:
+    code: Ubuntu mono
 nav:
     - Inicio: 'index.md'
     - 'Info':

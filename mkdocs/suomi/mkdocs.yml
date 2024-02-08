@@ -7,6 +7,10 @@ site_dir: ../../html/suomi
 theme:
   name: material
   language: fi
+  logo: logo.png
+  favicon: favicon.png
+  font:
+    code: Ubuntu mono
 plugins:
     - search:
         lang: fi

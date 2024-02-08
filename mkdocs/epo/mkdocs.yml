@@ -6,6 +6,10 @@ site_dir: ../../html/epo
 theme:
   name: material
   language: eo
+  logo: logo.png
+  favicon: favicon.png
+  font:
+    code: Ubuntu mono
 nav:
     - 'Ĉefpaĝo': 'index.md'
     - 'Bazaĵoj kaj strukturo de Pandunia':

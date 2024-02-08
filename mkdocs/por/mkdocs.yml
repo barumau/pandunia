@@ -6,6 +6,10 @@ site_dir: ../../html/por
 theme:
   name: material
   language: pt
+  logo: logo.png
+  favicon: favicon.png
+  font:
+    code: Ubuntu mono
 nav:
     - 'Ortografía': 102_ABC.md
     - 'Frases básicas' : 200_baze_jumla.md

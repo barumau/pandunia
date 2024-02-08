@@ -5,9 +5,11 @@ docs_dir: ../../ita
 site_dir: ../../html/ita
 theme:
   name: material
+  language: it
+  logo: logo.png
+  favicon: favicon.png
   font:
     code: Ubuntu mono
-  language: it
 nav:
     - 001_ration.md
     - 002_filsofi.md

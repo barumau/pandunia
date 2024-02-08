@@ -6,6 +6,10 @@ site_dir: ../../html/pol
 theme:
   name: material
   language: pl
+  logo: logo.png
+  favicon: favicon.png
+  font:
+    code: Ubuntu mono
 nav:
     - Główna: 'index.md'
     - 'Info':

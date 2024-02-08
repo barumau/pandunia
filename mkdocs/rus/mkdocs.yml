@@ -7,6 +7,10 @@ use_directory_urls: false
 theme:
   name: material
   language: ru
+  logo: logo.png
+  favicon: favicon.png
+  font:
+    code: Ubuntu mono
 plugins:
     - search:
         lang: ru

@@ -6,6 +6,10 @@ site_dir: ../../html/jpn
 theme:
   name: material
   language: ja
+  logo: logo.png
+  favicon: favicon.png
+  font:
+    code: Ubuntu mono
 nav:
     - '基本': 003_baze.md
     - '文法':
