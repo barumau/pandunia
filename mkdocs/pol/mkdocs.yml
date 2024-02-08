@@ -3,6 +3,7 @@ site_url: http://www.pandunia.info/pol
 repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../pol
 site_dir: ../../html/pol
+use_directory_urls: false
 theme:
   name: material
   language: pl

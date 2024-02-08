@@ -3,6 +3,7 @@ site_url: http://www.pandunia.info/fra
 repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../fra
 site_dir: ../../html/fra
+use_directory_urls: false
 theme:
   name: material
   language: fr

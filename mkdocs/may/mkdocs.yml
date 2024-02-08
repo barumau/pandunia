@@ -3,6 +3,7 @@ site_url: http://www.pandunia.info/may
 repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../may
 site_dir: ../../html/may
+use_directory_urls: false
 theme:
   name: material
   language: id

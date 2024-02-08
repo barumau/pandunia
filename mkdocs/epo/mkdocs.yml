@@ -3,6 +3,7 @@ site_url: http://www.pandunia.info/epo
 repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../epo
 site_dir: ../../html/epo
+use_directory_urls: false
 theme:
   name: material
   language: eo

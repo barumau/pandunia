@@ -4,6 +4,7 @@ repo_url: https://github.com/barumau/pandunia/
 site_author: Risto Kupsala
 docs_dir: ../../spa
 site_dir: ../../html/spa
+use_directory_urls: false
 theme:
   name: material
   language: es

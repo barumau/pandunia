@@ -3,6 +3,7 @@ site_url: http://www.pandunia.info/zho
 repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../zho
 site_dir: ../../html/zho
+use_directory_urls: false
 theme:
   name: material
   language: zh

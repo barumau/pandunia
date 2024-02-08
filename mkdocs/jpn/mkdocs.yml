@@ -3,6 +3,7 @@ site_url: http://www.pandunia.info/jpn
 repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../jpn
 site_dir: ../../html/jpn
+use_directory_urls: false
 theme:
   name: material
   language: ja

@@ -4,6 +4,7 @@ repo_url: https://github.com/barumau/pandunia/
 site_author: Risto Kupsala
 docs_dir: ../../pandunia
 site_dir: ../../html/pandunia
+use_directory_urls: false
 theme:
   name: material
   logo: logo.png
