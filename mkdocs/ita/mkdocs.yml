@@ -3,6 +3,7 @@ site_url: http://www.pandunia.info/ita
 repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../ita
 site_dir: ../../html/ita
+use_directory_urls: false
 theme:
   name: material
   language: it
@@ -14,6 +15,8 @@ nav:
     - 001_ration.md
     - 002_filsofi.md
     - 003_baze.md
+    - 100_baze_kanun.md: 'Regole basilari'
+    - 101_dunia_lexi.md: 'Da dove vengono le parole'
 extra:
   social:
     - icon: fontawesome/brands/reddit

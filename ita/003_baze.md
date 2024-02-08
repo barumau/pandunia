@@ -167,7 +167,7 @@ L'avverbio può essere segnalato con
 **mi hau (di) visi tu.**
 – Ti vedo bene.  
 **tu visi di ai da.**
-– Apparentemente lo/la ami.
+– Evidentemente lo/la ami.
 
 I modificatori si comparano con
 **mas** 'più', **masim** 'il più, -issimo',
