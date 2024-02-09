@@ -12,11 +12,13 @@ theme:
   font:
     code: Ubuntu mono
 nav:
-    - 001_ration.md
+    - 'Lingua ausiliaria globale': 001_ration.md
     - 002_filsofi.md
     - 003_baze.md
-    - 100_baze_kanun.md: 'Regole basilari'
-    - 101_dunia_lexi.md: 'Da dove vengono le parole'
+    - 'Regole basilari': 100_baze_kanun.md
+    - 'Ortografia e pronuncia': 102_ABC.md
+    - 'Classi di parole': 103_lexitipe.md
+    - 'Da dove vengono le parole': 101_dunia_lexi.md
 extra:
   social:
     - icon: fontawesome/brands/reddit
