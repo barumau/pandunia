@@ -55,6 +55,6 @@ mikä on sen paikka lauseessa.
 – Minä **rakastan** sinua. (verbi)  
 *tu fikre mi su **ai**.*
 – Sinä ajattelet minun **rakkauttani**. (substantiivi)  
-**mi kitabu un ai anjil.**
+**mi kitabi un ai anjil.**
 – Minä kirjoitan **rakkaus**kirjettä. (adjektiivi)
 

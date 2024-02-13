@@ -37,7 +37,7 @@ Kompreneble, eblas ke modifovortoj aperu je ambaŭ flankoj de substantivo.
 **damen _hau_ kitaba.**
 – Ili _bone_ skribas.
 
-**tu _mei di_ kitabu.**
+**tu _mei di_ kitabi.**
 – Vi _bele_ skribas.  
 **damen _suga di_ marce.**
 – Ili _rapide_ promenas.

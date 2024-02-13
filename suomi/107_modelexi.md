@@ -42,7 +42,7 @@ Tavan adverbi on verbin edellä.
 
 **tu _suga_ loge.**
 – Sinä _nopeasti_ puhut.  
-**damen _hau_ kitabu.**
+**damen _hau_ kitabi.**
 – He _hyvin_ kirjoittavat.
 
 Määritepartikkeli
@@ -50,7 +50,7 @@ Määritepartikkeli
 pannaan usein adverbin ja verbin väliin.
 Se selkeyttää verbilausekkeen rakennetta.
 
-**tu _mei di_ kitabu.**
+**tu _mei di_ kitabi.**
 – Sinä _kauniisti_ kirjoitat.  
 **damen _suga di_ marche.**
 – He _nopeasti_ kävelevät.
