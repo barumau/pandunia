@@ -161,13 +161,13 @@ which includes, among many others,
 'meter',
 **botle**
 'bottle',
-**kope**
+**kupa**
 'cup, mug',
 **pake**
 'package',
 **pote**
 'pot',
-**sake**
+**saku**
 'bag, sack',
 **tin**
 'can, tin'
@@ -180,11 +180,11 @@ which includes, among many others,
 – two liters of juice  
 **tri metre kable**
 – three meters of wire  
-**un kope kafe**
+**un kupa kafe**
 – a cup of cofee  
 **du botle vin**
 – two bottles of wine  
-**tri sake patate**
+**tri saku patato**
 – three sacks of potatoes  
 **nelu tin limon jus**
 – four cans of lemonade

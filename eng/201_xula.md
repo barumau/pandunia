@@ -745,7 +745,7 @@ manner or thing if needed.
 In Pandunia, questions beginning with _why_ are asked using
 **ke sabu**.
 
-**ke sabu tu suke mau?**
+**ke sabu tu suka mau?**
 = Why do you like cats?
 
 Questions asking about the cause or reason of something, are answered by adding

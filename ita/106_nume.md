@@ -167,7 +167,7 @@ che include, tra gli altri,
 'pacco',
 **pote**
 'vaso',
-**sake**
+**saku**
 'borsa, sacco',
 **tin**
 'lattina'
@@ -184,7 +184,7 @@ che include, tra gli altri,
 – una tazza di caffè  
 **du botle vin**
 – due bottiglie di vino  
-**tri sake patate**
+**tri saku patato**
 – tre sacchi di patate  
 **nelu tin limon jus**
 – quattro lattine di limonata

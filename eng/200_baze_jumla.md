@@ -1122,7 +1122,7 @@ Cheers!
 ****
 Of course!
 
-**sual tu suke ...?**
+**sual tu suka ...?**
 Do you like ...?
 
 ****
@@ -1131,7 +1131,7 @@ I feel alright.
 **ching side a ye!**
 Please, sit here!
 
-**mi suke state.**
+**mi suka state.**
 I rather stand.
 
 ****

@@ -921,11 +921,11 @@ The rest of the sentence can optionally be preceded by the word **asar**, which 
 **ama**
 – but (introduces a word or phrase that contrasts with or contradicts the preceding word or phrase)
 
-**mi suke mau i vaf.**
+**mi suka mau i vaf.**
 – I like cats and dogs.  
-**mi suke mau o vaf.**
+**mi suka mau o vaf.**
 – I like cats or dogs.  
-**mi suke mau ama no vaf.**
+**mi suka mau ama no vaf.**
 – I like cats but not dogs.
 
 
@@ -1052,7 +1052,7 @@ Verb phrases can also be made into modifiers in this way, but any objects must b
 
 **shute de grafe pente**
 – the art of picture-painting (the art of painting pictures)  
-**ale su mede su suke**
+**ale su mede su suka**
 – the joy of others-helping (the joy of helping others)
 
 #### Possession
@@ -1159,7 +1159,7 @@ It is different from **he** in that it's not directly asking a question but it o
 It roughly translates as *right?*, *isn't it?*, *isn't that so?*, etc.
 One uses it at the end of sentence if one is not completely sure about something but thinks it's probably true.
 
-**tu suke kafe, ne? sepe un kupe ba!**
+**tu suka kafe, ne? sepe un kupa ba!**
 – You like coffee, right? Grab a cup!  
 **da neu, ne?**
 – It is new, isn't it?
