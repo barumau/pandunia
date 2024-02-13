@@ -18,6 +18,11 @@ nav:
     - 'Regole basilari': 100_baze_kanun.md
     - 'Ortografia e pronuncia': 102_ABC.md
     - 'Classi di parole': 103_lexitipe.md
+    - 'Pronomi': 104_viselexi.md
+    - 'Sostantivi': 105_namlexi.md
+    - 'Numerali': 106_nume.md
+    - 'Modificatori': 107_modelexi.md
+    - 'Verbi': 108_karlexi.md
     - 'Da dove vengono le parole': 101_dunia_lexi.md
 extra:
   social:
