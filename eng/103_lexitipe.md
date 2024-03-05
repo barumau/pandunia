@@ -64,16 +64,16 @@ all terms are explained when they are met for the first time.
 ## Analytic and isolating
 
 Pandunia is an _analytic language_.
-It means that different parts of a sentence (like subject, verb and object) are independent,
-they are not fused together into single words like in _synthetic languages_,
-and their relationships are encoded into the word order, not into words.
+It means that different parts of sentence, like subject, verb and object, are always independent words.
+Their syntactic relationship is encoded into word order only.
+Words don't change unlike in _synthetic languages_, which denote syntactic relationships by inflection or agglutination.
 Therefore the order of words is very important in Pandunia.
 
 Pandunia is also an _isolating language_.
 Grammatical information, like case, gender, number and tense, is not encoded into words by affixation, inflection or any other means.
 In fact, words don't ever change in Pandunia.
 So when one wants to express a new meaning or a nuance, one can't do that by modifying the words.
-One can express more things only by using more words or different words.
+The only way to add more details is to add more words.
 For example, the verb **lai** ('to come') is changed to the past tense by adding a word that means the past:
 **pas lai** ('came' or 'to come in the past').
 

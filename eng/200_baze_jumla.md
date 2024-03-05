@@ -318,7 +318,9 @@ He/she doesn't greet me.
 <small>Etymology. **no** is from
 Spanish *no*,
 English *no*,
-French *non*.</small>
+French *non*,
+Persian نه⁩ (na),
+Bengali না (na).</small>
 
 
 ### Plural pronouns
