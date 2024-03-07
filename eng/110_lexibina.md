@@ -21,7 +21,7 @@ For example, the word **hali** can function equally as an adjective (_blank_ or 
 – Do you have some blank paper?  
 **don mi un hali!**
 – Give me a blank!  
-**tu mus hali vo lexi.**
+**tu mus hali vo lexe.**
 – You must blank out that word.
 
 Likewise, the word
@@ -30,9 +30,9 @@ can function as a verb (_to write_), a noun (_a writing_) and adjective (_writte
 
 **mi kitabi letre.**
 – I write a letter.  
-**letre e kitabi misije.**
+**letre es kitabe misaje.**
 – A letter is a written message.  
-**mi ai tu su kitabi.**
+**mi love tu su kitabi.**
 – I love your writings.
 
 
@@ -40,16 +40,31 @@ can function as a verb (_to write_), a noun (_a writing_) and adjective (_writte
 
 A compound word is a word that is formed of two or more simpler words in order to yield a new meaning.
 New compound words can be created freely and easily in Pandunia.
-There are two types of compound words in Pandunia.
+There are two types of compound words in Pandunia, open compounds and closed compounds.
 
-1. Closed compounds are written together and there is no space between the words.
-   For example, **poste** 'mail' + **kan** 'place for working' = **postekan** 'post office'.
-2. Open compounds are written separately and there is a space between the words.
-   For example, **tomato** 'tomato' + **sos** 'sauce' = **tomato sos** 'tomato sauce',
+Open compounds are written separately and there is a space between the words.
+For example, **tomato** 'tomato' + **sos** 'sauce' = **tomato sos** 'tomato sauce',
+Typically open compounds are made of complete words.
 
-There is little or no difference between open compounds and closed compounds in Pandunia from grammatical point of view.
-Compound words that are well-established tend to be closed compounds,
-while unestablished and improvised compound words tend to be open compounds.
+Closed compounds are written together and there is no space between the words.
+For example, **poste** 'mail' + **kan** 'place for working' = **postekan** 'post office'.
+Typically closed compounds include affixes.
+Some affixes are word-like units that can't stand alone but that can only appear as part of another word.
+Closed compounds may involve some changes in the base word and affixes.
+The final **-e** of the base word disappears if it is followed by a suffix that starts with a vowel.
+For example **kriste** 'Christ' + **isme** 'creed' = **kristisme** 'Christianity'.
+Vowels other than **e** are never deleted.
+For example, the final **a** of the word **lama** remains in the following compound:
+**lama** 'lama' + **isme** 'creed' = **lamaisme** 'lamaism'.
+It is also common that certain suffixes, like **-ike** and **-ive**, attach to the base word via intermediate **-t-**.
+For example
+**konserva**
+'to conserve' +
+**-ive** =
+**konservative**
+(kon-serva-t-ive)
+'conservative'.
+Such suffixes are indicated in the list below.
 
 Pandunia's system of word derivation is designed to produce compound words
 that look and/or sound so close to international words that they are easy to recognize.
@@ -58,25 +73,6 @@ because international words tend to be written and pronounced in more or less di
 In fact, compound words are built in a different way in Pandunia than in European languages,
 though the results usually look mostly similar.
 
-For example, English word *antidemocratic* can be divided into parts thus: *anti-dem-o-crat-ic*.
-It is completely made up of bound morphemes, units that can't stand alone
-but that can only appear as part of another word.
-The corresponding Pandunia word,
-**antidemikratika**,
-is made up of stand-alone words
-and it could be written also as an open compound:
-**anti demi krati ka**.
-The structure of this compound word in Pandunia is identical with the corresponding word in Mandarin,
-*fǎn mín zhǔ de* (反民主的).
-So Pandunia's word derivation system is structurally closer to the East Asian type than the European type.
-
-| Pandunia | English | Mandarin |
-|----------|---------|----------|
-| anti     | anti-   | fán      |
-| demi     | dem-    | mín      |
-|          | -o-     |          |
-| krati    | crat-   | zhǔ      |
-| ka       | -ic     | de       |
 
 
 ## Affixes
@@ -87,8 +83,8 @@ They are joined or merged to the base word.
 For example, the word **Geia** 'planet Earth' consists of the base word **gei** 'earth, ground'
 and the collective noun suffix **-ya**.
 
-           gei       'earth, ground'
-       +   -ya       'collective noun suffix'
+           gee       'earth, ground'
+       +   -ia       'collective noun suffix'
     _____________
     =      Geia      'planet Earth, Gaia'
 
@@ -97,53 +93,55 @@ The last root is the most meaningful part in the compound
 and the preceding roots only modify its meaning.
 
            pan       'all'
-       +  demi       'people, public'
-       +   -ka       'adjectival suffix'
+       +  deme       'people, public'
+       +  -ike       'adjectival suffix'
     _____________
-    = pandemika      'pandemic'
+    = pandemike      'pandemic'
 
 The connecting vowel **-o-** is inserted between the elements in Greek compounds.
 
-           demi      'people, public'
-       +  krati      'rule, govern'
-       +    -ya      'collective noun suffix'
+           deme      'people, public'
+       +    -o-      'connecting vowel for Greek compounds'
+       +  krate      'rule, govern'
+       +    -ia      'collective noun suffix'
     _____________
-    = demikratia     'democracy'
+    = demokratia     'democracy'
 
-          termi      'temperature'
-       +  metri      'measure'
-       +     -r      'agent or apparatus'
+          terme      'temperature'
+       +    -o-      'connecting vowel for Greek compounds'
+       +  metre      'measure'
+       +    -er      'agent or apparatus'
     ____________
-    = termimetrir     'thermometer'
+    = termometrer     'thermometer'
 
 Pandunia has adopted international prefixes,
 including **a-**, **de-**, **pro-**, **re-** and **su-** among others,
 in order to re-create many international words as native Pandunia words.
 
              a-      'to, toward'
-       +   sesi      'go, pass'
+       +   sese      'go, pass'
     ____________
-    =     asesi      'get past to, access'
+    =     asese      'get past to, access'
 
            pro-      'forward, to the front'
-       +   sesi      'go, pass'
+       +   sese      'go, pass'
     ____________
-    =   prosesi      'pass forward, process'
+    =   prosese      'pass forward, process'
 
             re-      'back to'
-       +   sesi      'go, pass'
+       +   sese      'go, pass'
     ____________
-    =    resesi      'pass back, recede'
+    =    resese      'pass back, recede'
 
             de-      'away, off'
-       +   sesi      'go, pass'
+       +   sese      'go, pass'
     ____________
-    =    desesi      'pass away, die'
+    =    desese      'pass away, die'
 
             su-      'good, well'
-       +   sesi      'go, pass'
+       +   sese      'go, pass'
     ____________
-    =    susesi      'go well, succeed'
+    =    susese      'go well, succeed'
 
 Note that these prefixes are used only in compound words that really mean the sum their parts.
 Fossilized words whose meanings are no longer the sum of their parts,
@@ -224,9 +222,9 @@ The prefix **de-** means that the action is directed away from or off something.
 
 The prefix **dis-** means that the action is directed apart or in many directions.
 
-**trata**
+**trate**
 'draw'
-→ **distrata**
+→ **distrate**
 'draw apart, distract'
 
 
@@ -247,8 +245,6 @@ The prefix **dus-** adds a quality of badness to the base word.
 
 The prefix **ex-** means that the action is directed outside from something.
 
-**ex-**
-'out':  
 **sepe**
 'take, catch'
 → **exsepe**
@@ -278,9 +274,9 @@ There are two forms of this prefix.
 The form **kom-** is used when the following word begins with a *b*, *p* or *m*,
 and the form **kon-** is used in all other cases.
 
-**teni**
+**tene**
 'hold, keep'
-→ **konteni**
+→ **kontene**
 'keep together'  
 **strute**
 'structure'
@@ -321,13 +317,13 @@ The prefix **pre-** means that something is before in time or space.
 'put, pose'
 → **prepozi**
 'put before, prepend'  
-**dita**
+**dite**
 'tell'
-→ **predita**
+→ **predite**
 'foretell, predict'  
-**visi**
+**vize**
 'see'
-→ **previsi**
+→ **previze**
 'foresee, preview'
 
 #### pro-
@@ -347,9 +343,9 @@ The prefix **pro-** means that something is moved onward or into the open.
 
 The prefix **re-** means that something is done back or in the opposite direction than originally.
 
-**ati**
+**ate**
 'to act'
-→ **reati**
+→ **reate**
 'to act back, react'  
 **turne**
 'to turn'
@@ -364,9 +360,9 @@ The prefix **ri-** means repetition or doing again.
 'form'
 → **riforma**
 'form again, reform'  
-**nati**
+**nate**
 'be born'
-→ **rinati**
+→ **rinate**
 'be born again'
 
 #### sin- or sim-
@@ -382,18 +378,18 @@ and the form **sin-** is used in all other cases.
 'timely, temporal, chronic'
 → **sinkronike**
 'synchronic, happening at the same time'  
-**metri**
+**metria**
 'measurement'
-→ **simmetri**
+→ **simmetria**
 'symmetry, equal measurements'
 
 #### su-
 
 The prefix **su-** adds the quality of goodness into the base word.
 
-**sess**
+**sese**
 'pass, go by'
-→ **susess**
+→ **susese**
 'go well, succeed'  
 **rupa**
 'appearance, looks'
@@ -403,148 +399,140 @@ The prefix **su-** adds the quality of goodness into the base word.
 
 ### Suffixes
 
-#### -bil
+#### -aje
 
-The suffix *-bil* means that something is possible or able to be done.
+The suffix *-aje* means something that is made of or something that consists of the thing indicated by the base word.
 
-**visi**
-'see, view'
-→ **visibil**
-'one that can be seen, visible'  
-**uze**
-'use'
-→ **uzebil**
-'one that can be used, usable'
-
-#### -fa
-
-The suffix **-fa** means to turn into the thing that is indicated by the base word.
-
-**simpli**
-'simple'
-→ **simplifa**
-'make simple, simplify'  
-**lau**
-'old, aged, outdated'
-→ **laufa**
-'make or become old'  
-**un**
-'one'
-→ **unfa**
-'make one, unify'
-
-#### -je
-
-The suffix **-je** means something that is made of or something that consists of the thing indicated by the base word.
-
-**baga**
+**bage**
 'bag'
 → **bagaje**
 'baggage, luggage'  
 **kore**
 'core'
-**koreje**
+**koraje**
 'guts, the things in the core'  
-**misi**
+**mise**
 'send'
-→ **misije**
+→ **misaje**
 'something sent, message'  
-**fasa**
+**fase**
 'face'
 → **fasaje**
 'facade, frontage'  
 **limon**
 'lemon'
-→ **limonje**
+→ **limonaje**
 'lemonade'
 
-#### -ki
+#### -al ~ -ial
 
-The suffix **-ki** means something that is characterized by the thing or quality indicated by the base word.
+The suffix *-al* means that something belongs to or is related to the thing or person indicated by the base word.
 
-**un**
-'one'
-→ **unki**
-'only, sole, single'  
-**makin**
-'machine'
-→ **makinki**
-'machine-like, mechanical'
-
-#### -li
-
-The suffix **-li** means that something belongs to or is related to the thing or person indicated by the base word.
-
-**-li**
-'belonging or related to':  
-**fin**
+**fine**
 'end'
-→ **finli**
-'final, related to the end'  
-**dunia**
-'world, globe'
-→ **duniali**
-'global, worldly'
+→ **final**
+'final, belonging to the end'  
+**karne**
+'flesh'
+→ **karnal**
+'fleshly, related to flesh'
 
-#### -ma
+When *-al* is suffixed to a base word that ends in *-ia*, they merge together into *-ial*.
+
+**dunia**
+'world'
+→ **dunial**
+'worldly'  
+**imperia**
+'empire'
+→ **imperial**
+'imperial'
+
+#### -an
+
+The suffix *-an* denotes someone that is a member of a community, such as a country, city or a club.
+When this suffix is added to a base word that ends in *-ia*, they merge together into *-ian*.
+
+**Amerike**
+'America'
+→ **amerikan**
+'American'  
+**Italia**
+'Italy'
+→ **italian**
+'Italian'  
+**Rusia**
+'Russia'
+→ **rusian**
+'Russian'  
+**Paris**
+'the city of Paris'
+→ **parisan**
+'Parisian'  
+**kristia**
+'Christendom'
+→ **kristian**
+'Christian'  
+**hume**
+'earth, soil'
+→ **human**
+'earthling' and, by extension, 'human being'
+
+#### -bil
+
+The suffix *-bil* means that something is possible or able to be done.
+
+**vize**
+'see, view'
+→ **vizebil**
+'one that can be seen, visible'  
+**uza**
+'use'
+→ **uzabil**
+'one that can be used, usable'
+
+#### -eme
 
 This rarely used suffix means a fundamental unit in the system of things that is indicated by the base word.
 For example,
-*lexime*
+**lexeme**
 'lexeme' is the fundamental unit in the system of
-*lexi*
+*lexe*
 'words'.
 For example *spoke* and *spoken* are individual words but they represent the same underlying fundamental unit, which is *speak* in its basic form.
 
 **fone**
 'speech sound'
-→ **fonema**
+→ **foneme**
 'phoneme, distinct speech sound'  
-**lexi**
+**lexe**
 'word'
-→ **lexima**
-'lexeme'  
+→ **lexeme**
+'lexeme, fundamental unit of a family of words'  
 **mite**
 'myth'
-→ **mitema**
+→ **miteme**
 'mytheme, an archetypal story'
 
-#### -me
+#### -er ~ -ter
 
-The suffix **-me** means something that is in the position or rank that is indicated by the base word.
+The suffix *-er* means a doer or agent of the action that is indicated by the base word.
 
-**un**
-'one'
-→ **un me**
-'the first'  
-**du**
-'one'
-→ **du me**
-'the second'  
-**pre**
-'fore, front'
-→ **preme**
-'foremost, prime'  
-**extra**
-'outside, exterior'
-→ **extrame**
-'outermost, extreme'
-
-#### -r
-
-The suffix **-r** means a doer or agent of the action that is indicated by the base word.
-
-**beke**
-'bake'
-→ **beker**
+**ate**
+'to do, to act'
+→ **ater**
+'doer, actor, one who does or acts'  
+**bake**
+'to bake'
+→ **baker**
 'baker'  
 **lide**
-'lead'
+'to lead'
 → **lider**
 'leader, the one who leads'  
-**filsofi**
-'think deeply'
-→ **filsofir**
+**filsofe**
+'to think deeply'
+→ **filsofer**
 'philosopher'  
 **sapate**
 'shoe'
@@ -555,11 +543,11 @@ The suffix **-r** means a doer or agent of the action that is indicated by the b
 → **musketer**
 'musketeer'  
 **kase**
-'cash box, cash register'
+'box, cash box'
 → **kaser**
 'cashier'
 
-#### -ria
+#### -eria ~ -teria ~ ria
 
 This suffix is the combination of *-er* and *-ia*.
 It means the place for making, producing or selling the thing that is indicated by the base word.
@@ -572,30 +560,184 @@ It means the place for making, producing or selling the thing that is indicated 
 'perfume'
 → **perfumeria**
 'perfumery'  
-**piza**
-'pizza'
-→ **pizaria**
-'pizzeria, pizza place'  
 **enjener**
 'engineer'
 → **enjeneria**
 'engineering'
 
-#### -sme
+In some rare cases this suffix is trimmed into *-ria*.
 
-The suffix **-sme** means an ideology, a way of thinking or a way of life.
+**piza**
+'pizza'
+→ **pizaria**
+'pizzeria, pizza place'  
 
-**alkol**
-'alcohol'
-→ **alkolisme**
-'alcoholism'  
-**dei**
-'god'
-→ **deisme**
-'theism'
+#### -ete
 
-By extension, the suffix **-ste** means a person
-who tends to behave or think in a certain way or an adherent of an ideology or a religion.
+The suffix *-ete* indicates essentially the same thing as the base word but in a small size.
+
+**pake**
+'pack'
+→ **pakete**
+'packet'  
+**kase**
+'case'
+→ **kasete**
+'cassette'  
+**sigare**
+'cigar'
+→ **sigarete**
+'cigarette'
+
+#### -ia
+
+The suffix *-ia* has a variety of meanings,
+but fundamentally it means a collective of things or a community of people.
+
+**human**
+'human being'
+→ **humania**
+'humanity, mankind, all the human beings as a group'  
+**kriste**
+'Christ'
+→ **kristia**
+'Christianity, all Christians as a group'
+
+This ending is often used in place names, especially in country names.
+However it is not always used.
+There are also a lot of country names that do not end in **-ia**.
+
+**arabe**
+'Arab, Arabic'
+→ **Arabia**
+'Arabia'  
+**rus**
+'Russian, Ruski'
+→ **Rusia**
+'Russia'  
+**turke**
+'Turk, Turkish'
+→ **Turkia**
+'Turkey'  
+**itale**
+'Italic, Italian'
+→ **Italia**
+'Italy'  
+**Asia**
+'Asia'  
+**Indonesia**
+'Indonesia'
+
+The suffix *-ia* is also used in names of scientific disciplines,
+where it can be understood as collection of scientific knowledge and practices.
+
+**kime**
+'chemical'
+→ **kimia**
+'chemistry'  
+**filsofe**
+'view, outlook, life wisdom'
+→ **filsofia**
+'philosophy, the discipline of wisdom'  
+**loge**
+'to study and reason systematically'
+→ **logia**
+'systematic study, logic'  
+**biologia**
+'biology, systematic study of organic life'
+
+#### -ife ~ -tife
+
+The suffix *-ife* means to make or turn into the thing that is indicated by the base word.
+
+**komple**
+'copmplex'
+→ **komplife**
+'make complex, complexify'  
+**long**
+'long'
+→ **longife**
+'make long, lengthen'  
+**un**
+'one'
+→ **unife**
+'make one, unify'
+
+#### -ike ~ -tike
+
+The suffix **-ike** means something that is characterized by the thing or quality indicated by the base word.
+There are two forms of this suffix.
+The form **-ike** is used when the base word ends in a consonant or an *-e*.
+
+**un**
+'one'
+→ **unike**
+'only, sole, single'  
+**makin**
+'machine'
+→ **makinike**
+'machine-like, mechanical'
+
+The form **-tike** is used when the base word ends in a vowel other than *-e*.
+
+**tema**
+'theme'
+→ **tematike**
+'thematic'
+
+#### -ime
+
+The suffix *-ime* means something that is in the position or rank that is indicated by the base word.
+
+**un**
+'one'
+→ **unime**
+'the first'  
+**pre**
+'fore, front'
+→ **prime**
+'foremost, prime'  
+**extre**
+'outside, exterior'
+→ **extrime**
+'outermost, extreme'
+
+#### -ion ~ -tion
+
+The suffix *-ion* or *-tion* means action or process.
+There are two forms of this suffix.
+The form **-ion** is used when the base word ends in a consonant or an *-e*.
+
+**dite**
+'say'
+→ **dition**
+'saying, diction'
+
+The form **-tion** is used when the base word ends in a vowel other than *-e*.
+
+**rota**
+'wheel; to turn like a wheel'
+→ **rotation**
+'turning, rotation'
+
+#### -ium ~ **-um**
+
+The suffix **-ium** means 'chemical element'.
+
+**kali**
+'base, alkali'
+→ **kalium**
+'kalium'  
+**Kuri**
+→ **kurium**
+'curium, the chemical element named after Marie Curie'  
+**Einstein**
+→ **einsteinium**
+'einsteinium, the chemical element named after Albert Einstein'
+
+#### -iste ~ -tiste
+
+The suffix **-iste** means a person who tends to behave or think in a certain way or an adherent of an ideology or a religion.
 
 **alkol**
 'alcohol'
@@ -606,183 +748,108 @@ who tends to behave or think in a certain way or an adherent of an ideology or a
 → **deiste**
 'theist, one who believes in existence of a god or gods'
 
-#### -ta
+#### -isme ~ -tisme
 
-The suffix **-ta** means the state of being.
-It is used in abstract nouns of quality.
+The suffix **-isme** means an ideology, a way of thinking or a way of life.
 
-**dai**
-'big, great'
-→ **daita**
-'greatness'  
-**long**
-'long'
-→ **longta**
-'length'  
-**huri**
-'free'
-→ **hurita**
-'freedom'
+**alkol**
+'alcohol'
+→ **alkolisme**
+'alcoholism'  
+**dee**
+'god'
+→ **deisme**
+'theism'  
+**ative**
+'active'
+→ **ativisme**
+'activism'
 
-#### -te
+#### -ive ~ -tive
 
-The suffix **-te** indicates small size.
+The suffix **-ive** or **-tive** means someone who tends to do what the base word says.
+There are two forms of this suffix.
+The form **-ive** is used when the base word ends in a consonant or an *-e*.
 
-**kase**
-'case, box'
-→ **kasete**
-'cassette'  
-**pake**
-'pack, package'
-→ **pakete**
-'packet'
-
-#### -vi
-
-The suffix **-vi** means someone or something that typically does what the base word indicates.
-
-**ati**
+**ate**
 'act, perform'
-→ **ativi**
+→ **ative**
 'active, inclined to act'  
-**explozi**
+**exploze**
 'explode'
-→ **explozivi**
+→ **explozive**
 'explosive'
 
-#### -ya or -ia
+The form **-tive** is used when the base word ends in a vowel other than *-e*.
 
-The suffix **-ia** has a variety of meanings,
-but fundamentally it means a collective of things or a community of people.
-There are two forms of this suffix.
-The form **-ya** is used when the base word ends in a consonant or a vowel other than *i*,
-for example
-**hua** + **-ya** = **huaya**.
-The form **-ia** is used when the base word ends in *i*,
-for example
-**logi** + **-ya** = **logia**.
+**basha**
+'language, means of communication'
+→ **bashative**
+'communicative'
 
-**human**
-'human being'
-→ **humania**
-'humanity, mankind, all the human beings as a group'  
-**kristi**
-'Christ'
-→ **kristia**
-'Christianity, all Christians as a group'  
-**filsofi**
-'view, outlook, life wisdom'
-→ **filsofia**
-'philosophy, the discipline of wisdom'
+#### -ize ~ -tize
 
-This suffix is often (but not always) used in names of geographical areas, especially in names of countries.
+The suffix **-ize** means to furnish or equip with the thing indicated by the base word.
 
-**arabi**
-'Arab, Arabic'
-→ **Arabia**
-'Arabia'  
-**rus**
-'Russian, Ruski'
-→ **Rusia**
-'Russia'  
-**turki**
-'Turk, Turkish'
-→ **Turkia**
-'Turkey'  
-**itali**
-'Italic, Italian'
-→ **Italia**
-'Italy'  
-**Asia**
-'Asia'  
-**Indonesia**
-'Indonesia'
-
-The suffix **-ia** is also used in names of scientific disciplines,
-where it can be understood as collection of scientific knowledge and practices.
-
-**kimi**
-'chemical'
-→ **kimia**
-'chemistry'  
-**filsofi**
-'view, outlook, life wisdom'
-→ **filsofia**
-'philosophy, the discipline of wisdom'  
-**logi**
-'to study and reason systematically'
-→ **logia**
-'systematic study, logic'  
-**biologia**
-'biology, systematic study of organic life'
-
-#### -yon or -ion
-
-The suffix **-yon** means action or process.
-There are two forms of this suffix.
-The form **-yon** is used when the base word ends in a consonant or a vowel other than *i*,
-for example
-**loga** + **-yon** = **logayon**.
-The form **-ion** is used when the base word ends in *i*,
-for example
-**fuzi** + **-yon** = **fuzion**.
-
-**fuzi**
-'to fuse'
-→ **fuzion**
-'fusion, the act of fusing'  
-**loga**
-'to talk'
-→ **logayon**
-'talking, the act of talking'
-
-#### -yum or -ium
-
-The suffix **-yum** means an element.
-There are two forms of this suffix.
-The form **-yum** is used when the base word ends in a consonant or a vowel other than *i*,
-for example
-**Einstein** + **-yum** = **einsteinyum** 'einsteinium'.
-The form **-ium** is used when the base word ends in *i*,
-for example
-**kali** + **-yum** = **kalium** 'kalium'.
-
-**kali**
-'base, alkali'
-→ **kalium**
-'kalium'  
-**Kuri**
-→ **kurium**
-'curium, the chemical element named after Marie Curie'  
-**Einstein**
-→ **einsteinyum**
-'einsteinium, the chemical element named after Albert Einstein'
-
-#### -za
-
-The suffix **-za** means to furnish or equip with the thing indicated by the base word.
-
-**auri**
+**aure**
 'gold'
-→ **auriza**
+→ **aurize**
 'to gild, to coat with gold'  
 **makin**
 'machine'
-→ **makinza**
+→ **makinize**
 'to mechanize, to equip with machinery'
+
+#### -one
+
+The suffix **-one** indicates great size.
+
+**bol**
+'ball'
+→ **bolon**
+balloon'
+
+#### -or ~ -tor
+
+The suffix or **-or** means an apparatus, device or machine for doing the work that is incidated by the base word.
+
+**trate**
+'drag, haul'
+→ **trator**
+'tractor'  
+**fotografe**
+'to photograph'
+→ **fotografor**
+'photograph apparatus, camera'
+
+#### -ule
+
+The suffix **-ule** indicates small size.
+
+**kume**
+'mound, hill'
+→ **kumule**
+'small hill, hillock, heap, pile'  
+**node**
+'knot'
+→ **nodule**
+'nodule, small lump'
+
+#### -ure ~ -ture
+
+The suffix **-ure** means something that is the result or product of the action that is indicated by the base word.
+
+**kulte**
+'cultivate (a way of life)'
+→ **kulture**
+'culture'  
+**mixe**
+'mix'
+→ **mixure**
+'mixture'
 
 
 ### Affixes for chemistry
-
-Words for chemical compounds are built in a special way with special suffixes
-that are not used anywhere else.
-When a suffix is added, the final *e* vowel of the base word disappears.
-For example,
-**malte**
-'malt'
-+ **-os**
-= **maltos**
-'maltose' (a kind of sugar).
 
 **-al**
 'aldehyde':  
@@ -855,3 +922,4 @@ For example,
 'malt'
 → **maltos**
 'maltose'
+
