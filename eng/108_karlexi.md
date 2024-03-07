@@ -9,157 +9,104 @@ not by changing the form of verbs as in English and other languages.
 
 Person and number are indicated by the subject.
 For example, the verb
-**e**
+**es**
 ('to be') has the same form in all persons.
 
-**_mi_ e dosti.**
+**_mi_ es doste.**
 – I am a friend.  
-**_tu_ e dosti.**
+**_tu_ es doste.**
 – You are a friend.  
-**_da_ e dosti.**
+**_da_ es doste.**
 – He/she is a friend.  
-**_mimen_ e dosti.**
+**_mimen_ es doste.**
 – We are friends.  
-**_tumen_ e dosti.**
+**_tumen_ es doste.**
 – You are friends.  
-**_damen_ e dosti.**
+**_damen_ es doste.**
 – They are friends.
 
 Also a noun can serve as subject.
 
-**mau e hevan.**
+**mau es hevan.**
 – The cat is an animal.
 
-Frequently there is a marker between the subject and the verb
-to indicate where the subject ends and the verb begins.
-It is particularly helpful when the subject and the verb are content words
-that could serve as both.
-The marker is typically a particle or an auxiliary verb.
-One of the many suitable markers is
-**ya**
-('yes'),
-which doesn't change the meaning of the sentence
-but only helps to clarify its structure.
 
-**tuzi yam.**
-– Rabbit food. – OR Rabbit eats.  
-**tuzi ya yam.**
-– Rabbit does eat. ~ Rabbit eats.  
-**karote e tuzi yam.**
-– Carrot is rabbit food.  
-**tuzi _ya_ yam karote.**
-– Rabbits eat carrots.
+## Indicating time and mood
 
-Other suitable markers include auxiliaries of time and mood,
-which are introduced next.
+Verb tenses, moods and voices are expressed with auxiliary verbs,
+which come first in the verb phrase.
+The order of the auxiliaries is tense, mood and aspect.
+The tense marker is first, the mood marker is next, and the aspect marker is last.
+
+### Tense
+
+Tense is a property that expresses time reference.
+The main tenses are the past, present, and future.
+More specific time references are expressed with various time expressions, like *yesterday*, *tomorrow* or *one hour ago*.
+The marker **did** indicates the past tense,
+**nau** indicates the present tense,
+and **vil** indicates the future tense.
+
+**man** ***did*** **yam aple.**
+– The man *ate* (or *did eat*) an apple.  
+**man** ***nau*** **yam aple.**
+– The man *eats* an apple (now).  
+**man** ***vil*** **yam aple.**
+– The man *will eat* an apple.
+
+It is also possible to express the future in the past
+with a combination of two tense markers.
+
+**man** ***did vil*** **yam aple.**
+– The man *was going to* eat an apple.
 
 
-## Auxiliaries of time
+### Aspect
 
-The relationship of an action, event or state to time is indicated with auxiliary verbs.
+Aspect expresses how an action or event extends over time.
+There are two aspect markers in Pandunia,
+**bi** and **ha**.
 
-**shuru**
-'begin, start'
-indicates beginning of an action or transition to a new situation.
+The marker **bi** indicates that the action or event is *on-going* or *in progress*
+at the time, which the speaker is talking about.
+The time can be indicated with a tense marker.
 
-**mi shuru fuku la kote.**
-– I start wearing the coat. ~ I put the coat on.  
-**kaguji ya shuru hogo.**
-– Paper starts to burn.  
-**tu shuru yam.**
-– You start to eat.
+**man** ***bi*** **yam ban.**
+– The man *is*, *was* or *will be* eating bread.  
+**man** ***did bi*** **yam ban.**
+– The man was eating bread.  
+**man** ***nau bi*** **yam ban.**
+– The man is eating bread.  
+**man** ***vil bi*** **yam ban.**
+– The man will be eating bread.
 
-**fin**
-'end, cease, quit, stop'
-conveys the idea of "to stop doing something".
+The marker **ha** indicates that the action or event is completed
+and its results still has an effect at the time, which the speaker is talking about.
+The time can be indicated with a tense markers.
 
-**damen fin haha.**
-– They stopped laughing.  
-**kaguji ya fin hogo.**
-– Paper ceased to burn.  
-**tu fin yam.**
-– You stop eating.
+**man** ***ha*** **yam ban.**
+– The man *had*, *has* or *will have* eaten bread.  
+**man** ***did ha*** **yam ban.**
+– The man had eaten bread.  
+**man** ***nau ha*** **yam ban.**
+– The man has eaten bread.  
+**man** ***vil ha*** **yam ban.**
+– The man will have eaten bread.
 
-**pul**
-'fulfill, complete'
-indicates that an action is done completely.
 
-**tu pul yam un piza.**
-– You ate a pizza completely.  
-**mi pul visi la filme.**
-– I completed watching the film. / I watched the film completely.
+### Conditional mood
 
-**fen**
-'partially'
-indicates that the action is only partially done.
+The conditional marker **vud** indicates that the realization of an action or event depends on another condition.
+This marker is used in both main and subordinate clauses.
 
-**tu fen yam un piza.**
-– You ate some of the pizza.  
-**mi fen visi la filme.**
-– I watched some of the movie.
-
-**zai**
-'be present'
-indicates that a situation is happening at present.
-
-**mi zai yam un piza.**
-– I am eating a pizza.
-
-**dura**
-'keep on, continue, proceed'
-indicates that a situation is continuing or in progress.
-
-**mi dura yam la piza.**
-– I keep on eating the pizza.
-
-**ada**
-'have a habit, be used to'
-indicates that an action is done regularly.
-
-**mi ada gul yo bir.**
-– I have a habit of drinking beer.
-
-**le**
-'attain, accomplish, reach; already'
-indicates that an action has happened in the past and is still ongoing, or is relevant to the current situation.
-It is best translated by *already* or *(not) yet*.
-You can think of it somewhat like the present perfect in English (_I have done_, _I have eaten_).
-
-**da _le_ e guru.**
-– He/she is already a teacher.  
-**mi no _le_ gul yo alkohol.**
-– I haven't drunk alcohol yet.  
-**mi _le_ no gul yo alkohol.**
-– I am already not drinking alcohol.  
-**mi _le_ don la buku to damen.**
-– I have given the book to them. Or: I already gave the book to them.  
-**damen no _le_ ridon da to mi.**
-– They haven't given it back to me. Or: They didn't give it back to me yet.  
-**mi _le_ lai to siti.**
-– I have come to the city. Or: I already came to the city.
-
-**pas**
-'pass, go past, go through'
-indicates that an action is finished and is no longer relevant to the current situation.
-You can think of it somewhat like the past simple in English (I finished, I ate).
-
-**mi pas don la buku to damen.**
-– I gave the book to them. (Maybe they don't have it anymore or they gave it back.)  
-**mi pas vizite Franse.**
-– I have visited France.  
-**mi pas ada gul yo bir.**
-– I used to drink beer. / I had a habit of drinking beer.  
-**mi pas lai to siti.**
-– I came to the city.
-
-**sha**
-'will, shall'
-indicates that the event will take place later or in the future.
-
-**da _sha_ e guru.**
-– He/she shall be a teacher.  
-**mi no _sha_ gul bir.**
-– I will not drink beer.
+**mi** ***vud*** **van yam.**
+– I *would* like to eat.  
+**mi** ***vud*** **go to Dubai.**
+– I *would* go to Dubai.  
+**mi** ***vud*** **go, if tu las mi.**
+– I *would* go if you let me.  
+**tu no** ***vud*** **es suka, if mi** ***vud*** **go.**
+– You would not be happy, if I would go.
 
 
 ## Transitivity
@@ -181,7 +128,7 @@ and when there isn't an object, the verb is intransitive.
 – Water boils. (intransitive sentence)  
 **baker bake ban.**
 – The baker bakes bread. (transitive sentence)  
-**ban bake a tanur.**
+**ban bake in tanur.**
 – Bread bakes in the oven. (intransitive sentence)
 
 Serial verb construction is a string of verbs that share the same subject,
@@ -191,7 +138,7 @@ the first verb (an auxiliary verb) is something that the subject possesses
 and the second verb is something that the subject does (when there is an object in the end)
 or experiences (when there is no object).
 
-**mi bil kitabi la javabe.**  
+**mi ken kitabi la javabe.**  
 ≈ *I have the ability to write the answer.*  
 – I can write the answer.  
 **mi halal kitabi la javabe.**  

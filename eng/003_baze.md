@@ -97,14 +97,14 @@ The verb
 means 'to be'.
 It can be left out in very simple sentences.
 
-**mi e jen.**
+**mi es jen.**
 – I am a person.  
 **mi jen.**
 – I'm a person.
 
 It can't be left out when it is part of a serial verb.
 
-**mi vol e mau.**
+**mi vol es mau.**
 – I want to be a cat.  
 **mi vol mau!**
 – I want a cat!
@@ -175,9 +175,9 @@ Modifiers are compared with
 **min** 'less', **minim** 'least' and **par** 'equally, as'.
 The point of comparison is introduced with **ka** 'than, as'.
 
-**tu e mas sen ka mi.**
+**tu es mas sen ka mi.**
 – You are older than me.  
-**tu e masim sen.**
+**tu es masim sen.**
 – You are the oldest.
 
 ### Questions

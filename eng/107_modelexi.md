@@ -139,9 +139,9 @@ The particle
 **ka**
 relates the adverbs of comparison to the object of comparison.
 
-**aple e mas hau ka aranja.**
+**aple es mas hau ka aranja.**
 = Apples are better than oranges.  
-**aranja e min hau ka aple.**
+**aranja es min hau ka aple.**
 = Oranges are less good than apples.  
 **tu loga par hau ka mi.**
 = You speak as well as me.

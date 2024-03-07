@@ -104,9 +104,9 @@ points to things that are far from the speaker.
 
 The demonstratives can serve as subjects and objects in the same way as nouns.
 
-**ye e hau.**
+**ye es hau.**
 – This is good.  
-**vo e dus.**
+**vo es dus.**
 – That is bad.  
 **tu vol ye, he?**
 – Do you want this?  
@@ -129,10 +129,10 @@ does not specify physical distance
 but it is used when the speaker has already mentioned the object or person in question
 and it is known by the audience or is topical within the discourse.
 
-**ye e mau. da vol yam vo mushu.**
+**ye es mau. da vol yam vo mushu.**
 – This is a cat. It wants to eat that mouse.
 
-**mi ha un mau i un vaf. la vaf e dai. da yam poli yam.**
+**mi ha un mau i un vaf. la vaf es dai. da yam poli yam.**
 – I have a cat and a dog. The dog is big. It eats a lot of food.
 
 
@@ -147,7 +147,7 @@ refers to things currently being spoken, and
 **vo**
 refers to things about to be spoken.
 
-**ye jumla e korte.**
+**ye jumla es korte.**
 – This sentence is short.
 
 In the above,

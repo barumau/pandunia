@@ -143,13 +143,13 @@ The copula verb
 'to be'
 can be used optionally in simple predicative sentences like the ones above.
 
-**da e Ali.**
+**da es Ali.**
 – He is Ali.  
-**Ali e guru.**
+**Ali es guru.**
 – Ali is a teacher.  
-**Ali e rike.**
+**Ali es rike.**
 – Ali is rich.  
-**Ali e a dom.**
+**Ali es a dom.**
 – Ali is at home.
 
 The copula verb is used when it is necessary in order to convey the desired meaning.
@@ -158,13 +158,13 @@ For example, modal verbs, like
 'to want', always need it as the main verb
 because the sentences would have a different meaning without it.
 
-**da vol e guru.**
+**da vol es guru.**
 – He (or she) wants to be a teacher.  
 Compare with:  
 **da vol guru.**
 – He (or she) wants a teacher.
 
-**da vol e rike.**
+**da vol es rike.**
 – He (or she) wants to be rich.  
 Compare with:  
 **da vol rike.**
@@ -175,7 +175,7 @@ makes the boundary between the two sentence elements doubtful.
 
 **mi su kar mede bacha.**
 – My job helps children.  
-**mi su kar e mede bacha.**
+**mi su kar es mede bacha.**
 –  My job is to help children.
 
 It is also possible to use a pause,
@@ -195,19 +195,19 @@ and the linking verb
 **e**
 is optional in the same cases as before
 
-**da no Ali.** ~ **da no e Ali.**
+**da no Ali.** ~ **da no es Ali.**
 – He is not Ali.  
-**da no guru.** ~ **da no e guru.**
+**da no guru.** ~ **da no es guru.**
 – He is not a teacher.  
-**da no vol e guru.**
+**da no vol es guru.**
 – He doesn't want to be a teacher.  
-**da no rike.** ~ **da no e rike.**
+**da no rike.** ~ **da no es rike.**
 – He is not rich.  
-**da no vol e rike.**
+**da no vol es rike.**
 – He doesn't want to be rich.  
-**da no a dom.** ~ **da no e a dom.**
+**da no a dom.** ~ **da no es a dom.**
 – He is not at home.  
-**da su kar no e mede bacha.**
+**da su kar no es mede bacha.**
 – His job is not to help children.
 
 
@@ -216,15 +216,15 @@ is optional in the same cases as before
 In addition to noun subjects and pronoun subjects,
 the previous rules apply also to adjective subjects and verb subjects.
 
-**jun – mei.** ~ **jun e mei.**
+**jun – mei.** ~ **jun es mei.**
 – Young is beautiful.  
-**jun – no lau.** ~ **jun no e lau.**
+**jun – no lau.** ~ **jun no es lau.**
 – Young is not old.  
-**gani – hau.** ~ **gani e hau.**
+**gani – hau.** ~ **gani es hau.**
 – Singing is good.  
-**gani – no dus.** ~ **gani no e dus.**
+**gani – no dus.** ~ **gani no es dus.**
 – Singing is not bad.  
-**skolefa bacha – mede bacha.** ~ **skolefa bacha e mede bacha.**
+**skolefa bacha – mede bacha.** ~ **skolefa bacha es mede bacha.**
 – To teach children is to help children.
 
 
@@ -644,9 +644,9 @@ In Pandunia the topic comes first so it is a topic-fronting language.
 
 The focus of the sentence can be changed by changing the order of the topic and comment.
 
-**Maria e guru.**
+**Maria es guru.**
 – Maria is a teacher.  
-**guru e Maria.**
+**guru es Maria.**
 – The teacher is Maria.
 
 In Pandunia, the topic can be fronted by using various sentence structures,
@@ -675,7 +675,7 @@ One can also use the passive construction to a similar effect.
 
 Another way to front the object is to use the relative clause construction.
 
-**tu e ki mi visi.**
+**tu es ki mi visi.**
 – You are the one whom I saw.
 
 This sentence can be made more impactful by fronting the linking verb
@@ -790,7 +790,7 @@ In Pandunia they use the word
 **ke**
 ('what').
 
-**piza e ke?**
+**piza es ke?**
 – What is pizza?
 
 The question word may be moved to the front of the sentence for emphasis.
@@ -864,7 +864,7 @@ A content clause is a subordinate clause that provides content that is commented
 In Pandunia they are typically introduced with the conjunction
 **ki**.
 
-**mi ken ki tu e dosti.**
+**mi ken ki tu es dosti.**
 – I know that you are a friend.  
 **damen fikre ki mimen le chute.**
 – They think that we have left.
@@ -876,9 +876,9 @@ points to the following content clause and
 **la**
 points to the previous one.
 
-**vo e bari, ki mi le no visi damen.**
+**vo es bari, ki mi le no visi damen.**
 – _It_ is important _that I haven't seen them_.  
-**ki pan jen be sana ka par, la e klar.**
+**ki pan jen be sana ka par, la es klar.**
 – _That all people are created as equals_; _it_ is clear.
 
 The content clause marker
@@ -901,7 +901,7 @@ can be combined to the prepositions in order to construct conjunctions of cause 
 The word **si** means 'to suppose',
 and in conditional sentences, it works in the same way as English 'if'.
 
-**mi no yam da, si mi e tu.**
+**mi no yam da, si mi es tu.**
 – I wouldn't eat it _if_ I were you.
 
 The rest of the sentence can optionally be preceded by the word **asar**, which means 'then'.
@@ -940,27 +940,27 @@ The rest of the sentence can optionally be preceded by the word **asar**, which 
 
 Expressions are affirmative by default.
 
-**mi e shefe.**
+**mi es shefe.**
 – I am the boss.  
-**da e nova meza.**
+**da es nova meza.**
 – It is a new table.
 
 Affirmation can be emphasized with the adverb
 **ya**
 ('yes indeed').
 
-**mi ya e shefe.**
+**mi ya es shefe.**
 – I indeed am the boss.  
-**da ya e nova meza.**
+**da ya es nova meza.**
 – It indeed is a new table.
 
 #### Negative
 
 Such sentences can be simply negated with **no**.
 
-**da no e shefe.**
+**da no es shefe.**
 – He is not the boss.  
-**da no e neu meza.**
+**da no es neu meza.**
 – It's not a new table.
 
 The word **no** is used for denying anything.
