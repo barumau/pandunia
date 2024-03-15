@@ -802,7 +802,7 @@ However, unlike in English, the word order may also be left alone.
 – You are eating what?  
 **da lai a ke zaman?**
 – When does he arrive?  
-**tumen vizite a ke jen se dom?**
+**yu vizite a ke jen se dom?**
 – Whose house did you all visit?
 
 
@@ -866,7 +866,7 @@ In Pandunia they are typically introduced with the conjunction
 
 **mi ken ki tu es dosti.**
 – I know that you are a friend.  
-**damen fikre ki mimen le chute.**
+**damen fikre ki vi le chute.**
 – They think that we have left.
 
 A content clause can be placed before or after the clause that talks about it.
@@ -1075,9 +1075,9 @@ The same particle is used with with personal pronouns too.
 – your house  
 **da se dom**
 – his or her house  
-**mimen se dom**
+**vi se dom**
 – our house  
-**tumen se dom**
+**yu se dom**
 – your house  
 **damen se dom**
 – their house

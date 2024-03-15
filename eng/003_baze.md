@@ -42,9 +42,9 @@ The same word, without any change in form, can serve as a noun, adjective or ver
 
 | Person   | Singular          | Plural       |
 |:---------|:-----------------:|:------------:|
-|          | **mi**            | **mimen**    |
+|          | **mi**            | **vi**    |
 | 1st      | _I, me_           | _we, us_     |
-|          | **tu**            | **tumen**    |
+|          | **tu**            | **yu**    |
 | 2nd      | _you_             | _you all_    |
 |          | **da**            | **damen**    |
 | 3rd      | _he/she, him/her_ | _they, them_ |

@@ -328,30 +328,30 @@ Add
 
 **mi**
 (I) →
-**mimen**
+**vi**
 (we)  
 **tu**
 (you) →
-**tumen**
+**yu**
 (you all)  
 **da**
 (he, she, it) →
 **damen**
 (they)
 
-**mimen sal tumen.**
+**vi sal yu.**
 We greet you all.
 
-**tumen sal damen.**
+**yu sal damen.**
 You greet them.
 
-**damen sal mimen!**
+**damen sal vi!**
 They greet us.
 
-**mimen es fem.**
+**vi es fem.**
 We are women.
 
-**tumen es man.**
+**yu es man.**
 You are men.
 
 **damen es aple.**
@@ -373,7 +373,7 @@ Who is he/she?
 **da es Sara.**
 She is Sarah.
 
-**tumen es ke?**
+**yu es ke?**
 Who are you people?
 
 **damen es ke?**
@@ -528,10 +528,10 @@ I know him/her/it.
 **sual tu ken vo jen?**
 Do you know that person?
 
-**sual tumen ken semen?**
+**sual yu ken semen?**
 Do you know each other?
 
-**mimen ken semen de long.**
+**vi ken semen de long.**
 We know each other for a long time.
 
 
@@ -730,7 +730,7 @@ What did you say?
 **mi loga to tu.**
 I talk to you.
 
-**mimen loga to semen.**
+**vi loga to semen.**
 We talk to each other.
 
 **men loga
@@ -805,10 +805,10 @@ Please, write it here!
 
 ### basha <small>speak a language, communicate</small>
 
-**sual tumen basha pandunia.**
+**sual yu basha pandunia.**
 Do you speak Pandunia?
 
-**mimen basha pandunia.**
+**vi basha pandunia.**
 We speak Pandunia.
 
 **sual tu bil basha english?**
@@ -870,7 +870,7 @@ I will come home tomorrow.
 **sual tu safar a tren?**
 Do you travel by train?
 
-**mimen safar de London to Paris.**
+**vi safar de London to Paris.**
 We travel from London to Paris.
 
 **safar es dai long.**
@@ -925,7 +925,7 @@ Please wait!
 **dele mi!**
 Wait for me!
 
-**damen dele mimen.**
+**damen dele vi.**
 They wait for us.
 
 **mi dele tu a hotel.**
@@ -1084,7 +1084,7 @@ Nothing.
 **da koste kam / poli.**
 It is cheap / expensive.  
 
-**men ching mimen lai.**
+**men ching vi lai.**
 We are being called.
 
 **mi soka tualete.**

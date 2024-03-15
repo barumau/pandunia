@@ -18,9 +18,9 @@ For example, the verb
 – You are a friend.  
 **_da_ es doste.**
 – He/she is a friend.  
-**_mimen_ es doste.**
+**_vi_ es doste.**
 – We are friends.  
-**_tumen_ es doste.**
+**_yu_ es doste.**
 – You are friends.  
 **_damen_ es doste.**
 – They are friends.

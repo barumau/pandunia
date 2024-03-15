@@ -529,7 +529,7 @@ discussion.
 = Does he/she drink tea?  
 **sual tu yam supe?**
 = Do you eat soup?  
-**sual mimen yam sui?**
+**sual vi yam sui?**
 = Do we drink water?
 
 Of course common and proper nouns can also be used.

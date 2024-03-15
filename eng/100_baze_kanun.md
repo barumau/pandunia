@@ -33,11 +33,11 @@ Primary accent is indicated by an acute accent (*á*) and secondary accent by a 
 
 The personal pronouns are:  
 **mi** _I_, **tu** _you_ (sg.), **da** _he/she/it_,
-**mimen** _we_, **tumen** _you_ (pl.), **damen** _they_.
+**vi** _we_, **yu** _you_ (pl.), **damen** _they_.
 
 The possessive pronouns are:  
 **mi su** _my_, **tu su** _your_, **da su** _his or her_,
-**mimen su** _our_, **tumen su** _your_, **damen su** _their_.
+**vi su** _our_, **yu su** _your_, **damen su** _their_.
 
 The interrogative pronouns are:
 **ke**

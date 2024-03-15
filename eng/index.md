@@ -75,14 +75,14 @@ You can find Pandunia forums in several places:
 | Reddit   | [r/pandunia](https://www.reddit.com/r/pandunia/) | News and discussion |
 | Facebook | [Pandunia group](http://www.facebook.com/groups/pandunia) | Discussion |
 | Telegram | [multilingual channel](https://t.me/pandunia_grupe) | Discussion |
-| Telegram | [mimen loge pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) | Practicing. Only Pandunia is spoken here! |
+| Telegram | [vi loge pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) | Practicing. Only Pandunia is spoken here! |
 | QQ       | 717549404 | Discussion in Chinese and other languages |
 
 You can find other Pandunia speakers in [Amikumu](https://amikumu.com/) app!
 
 Please help to [translate this site](trabaxa_neteloka.md) into new languages!
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen bashe pandunia!")  
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "vi bashe pandunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 You can contact the creator and a main developer of Pandunia, Risto Kupsala, via email

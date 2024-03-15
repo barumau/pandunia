@@ -397,8 +397,8 @@ Add **men** to form the plural:
 | I          | mi         | wǒ         |
 | you        | tu         | nǐ         |
 | he/she/it  | da         | tā         |
-| we         | mimen      | wǒmen      |
-| you all    | tumen      | nǐmen      |
+| we         | vi      | wǒmen      |
+| you all    | yu      | nǐmen      |
 | they       | damen      | tāmen      |
 
 Add **se** to form the possessive:
@@ -408,11 +408,11 @@ Add **se** to form the possessive:
 | my         | mi se      | wǒ de      |
 | your       | tu se      | nǐ de      |
 | his/her/its| da se      | tā de      |
-| our        | mimen se   | wǒmen de   |
-| your       | tumen se   | nǐmen de   |
+| our        | vi se   | wǒmen de   |
+| your       | yu se   | nǐmen de   |
 | their      | damen se   | tāmen de   |
 
-By a fortunate coincidence, the second person plural pronoun is identical to Romani (Gypsy) *tumen*
+By a fortunate coincidence, the second person plural pronoun is identical to Romani (Gypsy) *yu*
 and not far from Hindi-Urdu *tum*.
 
 The personal pronouns in Pandunia attain three important goals.
