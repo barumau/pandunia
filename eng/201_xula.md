@@ -28,13 +28,13 @@ hide:
 **mi es Sara. da es ke?**
 = I am Sara. Who is that?  
 <big>☻</big>
-**da es mi su dosti.**
+**da es mi se dosti.**
 = That is my friend.  
 <big>☺</big>
-**da su nam es ke?**
+**da se nam es ke?**
 = What's her name?  
 <big>☻</big>
-**da su nam es Maria.**
+**da se nam es Maria.**
 = Her name is Maria.
 
 ### Grammar
@@ -42,11 +42,11 @@ hide:
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
 tells something about the topic. For instance in
-**da es mi su dosti**
+**da es mi se dosti**
 the topic is the pronoun
 **da**
 (he, she, it), which is followed by the comment
-**es mi su dosti**
+**es mi se dosti**
 (is my friend).
 
 In Pandunia, the word **es** functions like _to be_ in English.
@@ -106,7 +106,7 @@ he, she or it
 his, her, its  
 **ke**
 who or what  
-**e**
+**es**
 to be  
 **no**
 no; not  
@@ -127,12 +127,12 @@ animal
 
 ### Answers to the Exercises
 
-1. tu e ke?
-2. mi e Tomas.
-3. tu su dosti e ke?
-4. da e Sara.
-5. tu su nam e ke?
-6. mi su nam e ........... 
+1. tu es ke?
+2. mi es Tomas.
+3. tu se dosti es ke?
+4. da es Sara.
+5. tu se nam es ke?
+6. mi se nam es ........... 
 
 
 --------------------------------------------------------------------------------
@@ -301,7 +301,7 @@ chief, boss
 **chin pa, mi mus ga a zai.**
 = Grandfather, I have to go now.  
 <big>☺</big>
-**oke. ching sal tu su mama!**
+**oke. ching sal tu se mama!**
 = OK. Please tell greetings to your mother.  
 <big>☻</big>
 **mi sal da. sal reste!**
@@ -500,7 +500,7 @@ some, a(n)
 **no yam.**
 = No.  
 <big>☺</big>
-**shukre. mi don un cha i un kafe i un supe pos des minute.**
+**shukre. mi don un cha e un kafe e un supe pos des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -833,11 +833,11 @@ There are also specific time words.
 
 They can be used for modifying nouns.
 
-**Sara es mi su pas shefe.**
+**Sara es mi se pas shefe.**
 = Sarah is my former boss.  
-**Yusef es mi su zai shefe.**
+**Yusef es mi se zai shefe.**
 = Yusef is my current boss.  
-**Maria es mi su sha shefe.**
+**Maria es mi se sha shefe.**
 = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
@@ -918,10 +918,10 @@ milk
 
 ### Answers to the Exercises
 
-1. mi su shefe festa a sha.
+1. mi se shefe festa a sha.
 2. mi ha du vaf a pas.
 3. tu yam supe a zai.
 4. da safi kamar a preden.
 5. mau yam milke a posden.
-6. tu su ma festa a prenoce.
+6. tu se ma festa a prenoce.
 

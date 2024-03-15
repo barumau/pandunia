@@ -173,16 +173,16 @@ Compare with:
 The linking verb is used also when structural complexity of subject and/or predicate
 makes the boundary between the two sentence elements doubtful.
 
-**mi su kar mede bacha.**
+**mi se kar mede bacha.**
 – My job helps children.  
-**mi su kar es mede bacha.**
+**mi se kar es mede bacha.**
 –  My job is to help children.
 
 It is also possible to use a pause,
 that is indicated by a dash in writing,
 instead of the linking verb.
 
-**mi su kar – mede bacha.**
+**mi se kar – mede bacha.**
 – My job: to help children.
 
 
@@ -207,7 +207,7 @@ is optional in the same cases as before
 – He doesn't want to be rich.  
 **da no a dom.** ~ **da no es a dom.**
 – He is not at home.  
-**da su kar no es mede bacha.**
+**da se kar no es mede bacha.**
 – His job is not to help children.
 
 
@@ -802,7 +802,7 @@ However, unlike in English, the word order may also be left alone.
 – You are eating what?  
 **da lai a ke zaman?**
 – When does he arrive?  
-**tumen vizite a ke jen su dom?**
+**tumen vizite a ke jen se dom?**
 – Whose house did you all visit?
 
 
@@ -854,7 +854,7 @@ or it can be left out by using the reduced relative clause structure.
 
 Also a _resumptive relative pronoun_ can be used if needed.
 
-**la jen, mi fa kitabi la buku na ki su kalam, padu.**
+**la jen, mi fa kitabi la buku na ki se kalam, padu.**
 – The person whose pen I write the book with falls.
 
 
@@ -921,7 +921,7 @@ The rest of the sentence can optionally be preceded by the word **asar**, which 
 **ama**
 – but (introduces a word or phrase that contrasts with or contradicts the preceding word or phrase)
 
-**mi suka mau i vaf.**
+**mi suka mau e vaf.**
 – I like cats and dogs.  
 **mi suka mau o vaf.**
 – I like cats or dogs.  
@@ -1052,7 +1052,7 @@ Verb phrases can also be made into modifiers in this way, but any objects must b
 
 **shute de grafe pente**
 – the art of picture-painting (the art of painting pictures)  
-**ale su mede su suka**
+**ale se mede se suka**
 – the joy of others-helping (the joy of helping others)
 
 #### Possession
@@ -1062,24 +1062,24 @@ The possessive particle
 works like the apostrophe-s ('s) in English.
 It indicates that the previous word has possession of the next one.
 
-**Maria su mama**
+**Maria se mama**
 – Maria's mother  
-**Maria su mama su dom**
+**Maria se mama se dom**
 – Maria's mother's house
 
 The same particle is used with with personal pronouns too.
 
-**mi su dom**
+**mi se dom**
 – my house  
-**tu su dom**
+**tu se dom**
 – your house  
-**da su dom**
+**da se dom**
 – his or her house  
-**mimen su dom**
+**mimen se dom**
 – our house  
-**tumen su dom**
+**tumen se dom**
 – your house  
-**damen su dom**
+**damen se dom**
 – their house
 
 

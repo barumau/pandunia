@@ -10,11 +10,11 @@ They are used as substitutes for a person's name.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mi**      | **mimen**    |
+| **mi**      | **vi**       |
 | I, me       | we           |
-| **tu**      | **tumen**    |
+| **tu**      | **yu**       |
 | you         | you all      |
-| **da**      | **damen**    |
+| **da**      | **di**       |
 | he or she   | they         |
 
 All pronouns can be used for all genders.
@@ -25,26 +25,26 @@ For example, in the third person, one word –
 It is a gender-neutral personal pronoun and it treats everyone equally.
 
 There are three first-person plural pronouns.
-**tumimen**
+**yumi**
 is the inclusive *we* that includes the audience: 'you, I and other people'.
-**damimen**
+**dimi**
 is the exclusive *we* that excludes the audience: 'I and other people only'.
 Finally,
-**mimen**
+**vi**
 is the neutral *we* that can be both inclusive and exclusive.
 It is also the most common first-person plural pronoun,
 and the other two are used only occasionally.
 
 The possessive pronouns consists of the personal pronoun and the possessive particle
-**su**.
+**se**.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mi su**   | **mimen su** |
+| **mi se**   | **vi se**    |
 | my          | our          |
-| **tu su**   | **tumen su** |
+| **tu se**   | **yu se**    |
 | your        | your         |
-| **da su**   | **damen su** |
+| **da se**   | **di se**    |
 | his or her  | their        |
 
 
@@ -52,29 +52,29 @@ The possessive pronouns consists of the personal pronoun and the possessive part
 
 The reflexive pronoun is used when the object of a sentence is the same as the subject.
 
-**se**
+**selfe**
 – self
 
 Note! The same reflexive pronoun is used for all persons,
 so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, _ourselves_ and _themselves_ all at once.
 
-**mi visi se.**
+**mi visi selfe.**
 – I see myself.  
-**da visi se.**
+**da visi selfe.**
 – She sees herself. / He sees himself. / It sees itself.  
-**mimen visi se.**
+**vi visi selfe.**
 – We see ourselves.
 
 The expression
-**semen**
+**unotre**
 is used as the reciprocal pronoun.
 
-**semen**
+**unotre**
 – each other, one another
 
-**mi i tu visi semen.**
+**mi e tu visi unotre.**
 – Me and you see each other.  
-**mimen visi semen.**
+**vi visi unotre.**
 – We see each other.
 
 
@@ -83,34 +83,47 @@ is used as the reciprocal pronoun.
 Demonstrative pronouns are used with nouns to make them more specific.
 The demonstrative pronouns in Pandunia are:
 
-**ye**
-– this (near the speaker)  
-**vo**
-– that (far from speaker)  
-**la**
-– the (known by both the speaker and the listener)
+**da**
+this, that  
+**di**
+these, those
+
+As they do not differentiate between near and far, they can be further qualified by adding
+**hir**
+(_here_) or
+**der**
+(_there_).
+
+**da hir haus**
+= this house  
+**di hir haus**
+= these houses  
+**da der haus**
+= that house  
+**di der haus**
+= those houses  
 
 The proximal demonstrative
-**ye**
+**da hir**
 points to things that are near the speaker.
 The distal demonstrative
-**vo**
+**da der**
 points to things that are far from the speaker.
 
-**tu vol vo buku, he?**
+**tu van da der buke, he?**
 – Do you want that book?  
-**no, mi vol ye buku, no vo.**
+**no, mi van da hir buke, no da der.**
 – No, I want this book, not that.
 
 The demonstratives can serve as subjects and objects in the same way as nouns.
 
-**ye es hau.**
+**da hir es hau.**
 – This is good.  
-**vo es dus.**
+**da der es dus.**
 – That is bad.  
-**tu vol ye, he?**
+**tu vol da hir, he?**
 – Do you want this?  
-**no, mi vol vo.**
+**no, mi vol da der.**
 – No, I want that.
 
 When the verb is a content word,
@@ -120,19 +133,19 @@ between the subject and the verb.
 
 **mi visi du jen.**
 – I see two persons.  
-**ye ya gani i vo no gani.**
+**da hir ya gani e da der no gani.**
 – This one sings and that one doesn't sing.
 
 The basic proximal and distal pronouns are used for introducing a new object.
-The topical demonstrative **la**, on the other hand,
+The topical demonstrative **da**, on the other hand,
 does not specify physical distance
 but it is used when the speaker has already mentioned the object or person in question
 and it is known by the audience or is topical within the discourse.
 
-**ye es mau. da vol yam vo mushu.**
+**da hir es mau. da van yam da der mushu.**
 – This is a cat. It wants to eat that mouse.
 
-**mi ha un mau i un vaf. la vaf es dai. da yam poli yam.**
+**mi ave un mau e un vaf. da vaf es dai. da bi yam poli yam.**
 – I have a cat and a dog. The dog is big. It eats a lot of food.
 
 
@@ -140,42 +153,51 @@ and it is known by the audience or is topical within the discourse.
 
 The demonstrative pronouns can be used also discourse internally.
 Then they refer to abstract entities of discourse, not concrete objects.
-**la**
+**da**
 refers to things previously spoken,
-**ye**
+**da hir**
 refers to things currently being spoken, and
-**vo**
+**da der**
 refers to things about to be spoken.
 
-**ye jumla es korte.**
+**da hir jumla es korte.**
 – This sentence is short.
 
 In the above,
-**ye jumla**
+**da hir jumla**
 (_this sentence_) refers to the sentence being spoken.
 
-**mi seme vo: mi ai tu.**
+**mi seme da der: mi love tu.**
 – I mean this: I love you. OR I mean that I love you.  
-**mi ai tu. mi seme la.**
+**mi love tu. mi seme da.**
 – I love you. That is what I mean.
 
 In the above, the pronoun
-**vo**
+**da der**
 refers to the content of the next statement and
-**la**
+**da**
 refers to the content of the previous statement.
 
 
 ## Interrogative pronouns
 
-**ke**
-is a general-purpose interrogative pronoun.
-It does the job of English words _who_ and _what_.
+There are two interrogative pronouns in Pandunia.
 
-**ke?**
-– Who or what?  
+**kua**
+– what  
+**hu**
+– who
 
-The adjectival interrogative pronoun is also **ke**
+**da es kua?**
+– What is it?  
+**da es hu?**
+– Who is it?  
+**yu van kua?**
+– What do you want?  
+**kua es a table.**
+– What is on the table?
+
+The adjectival interrogative pronoun is **ke**
 and it means the same as English _which_.
 
 **ke she?**
@@ -184,7 +206,7 @@ and it means the same as English _which_.
 – Who? (Which person?)  
 **ke zaman?**
 – When? (What time?)  
-**ke loka?**
+**ke loke?**
 – Where? (In which place?)  
 **ke mode?**
 – How? (What way?)  
@@ -193,7 +215,7 @@ and it means the same as English _which_.
 
 Also adjectives are questioned with **ke**.
 
-**ke nova?**
+**ke nove?**
 – How new?  
 **ke koste?**
 – How costy?  

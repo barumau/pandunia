@@ -128,10 +128,10 @@ Thanks for helping me.
 You're welcome. (Literally: _No need to thank._)
 
 
-### e <small>to be</small>
+### es <small>to be</small>
 
 The word
-**e**
+**es**
 can be used also for stating something as a fact.
 
 **mi es Tomas.**
@@ -143,12 +143,10 @@ You are Sarah.
 **aple es frute.**
 The apple is a fruit.
 
-<small>Etymology. **e** is from
-Portuguese *é*,
-Italian *è*,
-French *est* /ɛ/,
-Ukrainian є /ye/,
-Hindi है /ɦɛ/.</small>
+<small>Etymology. **es** is from
+English *is*,
+German *ist*,
+French *est*.</small>
 
 
 ### mi <small>I, me</small>
@@ -389,7 +387,7 @@ Italian *che*,
 Bengali কী /ke/.</small>
 
 
-### ye i vo <small>this and that</small>
+### ye e vo <small>this and that</small>
 
 **ye es ke?**
 What's this?
@@ -423,12 +421,12 @@ They are there.
 
 
 
-### su <small>'s (possessive particle)</small>
+### se <small>'s (possessive particle)</small>
 
 **ye es ke?**
 What's this?
 
-**da es mi su telefon.**
+**da es mi se telefon.**
 It's my telephone.
 
 **ye es ke su?**
@@ -448,10 +446,10 @@ means "your" and so on.
 **da es ke?**
 Who's he/she?
 
-**da es mi su dosti.**
+**da es mi se dosti.**
 He/she is my friend.
 
-**mi es Sara su dosti.**
+**mi es Sara se dosti.**
 I am Sarah's friend.
 
 It's also possible to end a sentence with
@@ -473,16 +471,16 @@ Spanish *su*.</small>
 
 ### nam <small>name</small>
 
-**tu su nam es ke?**
+**tu se nam es ke?**
 What's your name?
 
-**mi su nam es Tomas.**
+**mi se nam es Tomas.**
 My name is Thomas.
 
-**da su nam es ke?**
+**da se nam es ke?**
 What is his/her name?
 
-**da su nam es Sara.**
+**da se nam es Sara.**
 Her name is Sarah.
 
 <small>Etymology. **nam** is from
@@ -518,7 +516,7 @@ Yes. He or she is a doctor.
 
 **sual ha vin?**
 Do you have wine?  
-**ya. baki i rubi.**
+**ya. baki e rubi.**
 Yes, white and red.
 
 
@@ -582,7 +580,7 @@ covers both eating and drinking.
 It can feel odd at first but soon you will see that it is quite handy!
 Usually the object of the verb tells is it about eating, drinking or both.
 
-**mi yam kafe i ban.**
+**mi yam kafe e ban.**
 I'm having coffee and bread.
 
 
@@ -675,7 +673,7 @@ Sorry, I don't understand.
 **maf! ye es ke?**
 Excuse me, what's this?
 
-**maf. tu su nam es ke?**
+**maf. tu se nam es ke?**
 Excuse me, what's your name?
 
 
@@ -720,7 +718,7 @@ I can speak a little Pandunia.
 **mi no bil english.**
 I can't speak English.
 
-**maf. mi no bil tu su basha.**
+**maf. mi no bil tu se basha.**
 Sorry, I can't speak your language.
 
 
@@ -741,7 +739,7 @@ a ke mode a pandunia?**
 How do you say "cat" in Pandunia?
 
 **"cat"
-e ke a pandunia?**
+es ke a pandunia?**
 What is "cat" in Pandunia?
 
 **mau loga "miau".**
@@ -798,7 +796,7 @@ I don't understand what it means.
 
 ### kitabi <small>write</small>
 
-**ching kitabi tu su adres.**
+**ching kitabi tu se adres.**
 Please, write your address.
 
 **ching kitabi da a ye.**
@@ -938,7 +936,7 @@ I wait for you in the hotel.
 
 ### zai <small>currently</small>
 
-**mi zai sal tu su dosti.**  
+**mi zai sal tu se dosti.**  
 I am greeting your friend.
 
 **la man ya zai visi un filme.**  
@@ -953,7 +951,7 @@ He/she is currently at home.
 
 ### pas <small>in the past</small>
 
-**mi pas sal tu su dosti.**  
+**mi pas sal tu se dosti.**  
 I greeted your friend.
 
 **la man ya pas visi un filme.**  
@@ -968,7 +966,7 @@ He/she was at home.
 
 ### le <small>already, completed</small>
 
-**mi le sal tu su dosti.**  
+**mi le sal tu se dosti.**  
 I have greeted your friend.
 
 **la man le visi un filme.**  
@@ -983,7 +981,7 @@ He/she has been at home.
 
 ### sha <small>in the future</small>
 
-**mi sha sal tu su dosti.**  
+**mi sha sal tu se dosti.**  
 I will greet your friend.
 
 **la man sha visi la filme.**  

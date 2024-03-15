@@ -118,7 +118,7 @@ Pandunia words can be ambiguous because they often have more meanings compared t
 
 But actually the meaning is clear in the real context:
 
-**pre tri nen, mi ha du mau i un vaf. mi ha mas un fem ben. da ai mau!**
+**pre tri nen, mi ha du mau e un vaf. mi ha mas un fem ben. da ai mau!**
 – Three years ago, I had two cats and a dog. I also had a daughter. _She loved the cats!_
 
 ### Time

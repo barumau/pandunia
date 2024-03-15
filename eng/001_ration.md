@@ -401,16 +401,16 @@ Add **men** to form the plural:
 | you all    | tumen      | nǐmen      |
 | they       | damen      | tāmen      |
 
-Add **su** to form the possessive:
+Add **se** to form the possessive:
 
 | English    | Pandunia   | Chinese    |
 |------------|------------|------------|
-| my         | mi su      | wǒ de      |
-| your       | tu su      | nǐ de      |
-| his/her/its| da su      | tā de      |
-| our        | mimen su   | wǒmen de   |
-| your       | tumen su   | nǐmen de   |
-| their      | damen su   | tāmen de   |
+| my         | mi se      | wǒ de      |
+| your       | tu se      | nǐ de      |
+| his/her/its| da se      | tā de      |
+| our        | mimen se   | wǒmen de   |
+| your       | tumen se   | nǐmen de   |
+| their      | damen se   | tāmen de   |
 
 By a fortunate coincidence, the second person plural pronoun is identical to Romani (Gypsy) *tumen*
 and not far from Hindi-Urdu *tum*.
@@ -446,10 +446,10 @@ The auxiliary verb **be** is used when the object of the action comes first in t
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
 **be** is a loan word from Standard Chinese *bèi*,
-but it is also close to some uses of English "to be".
+but it is also close to some uses of English *to be*.
 
     English:   It can not be eaten.
-    Pandunia:  da no bil be yam.
+    Pandunia:  da no ken be yam.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
@@ -462,14 +462,16 @@ In Pandunia and Chinese, nouns can be singular or plural depending on surroundin
 There's no plural ending like -s in English.
 Also verbs are not conjugated.
 In Pandunia, one word,
-**e**,
+**es**,
 is used instead of _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  da e aple.
+    Pandunia:  da es aple.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  damen e aple.
+    Pandunia:  damen es aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
+
+
 

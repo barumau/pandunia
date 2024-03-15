@@ -17,22 +17,22 @@ Instead, the word class is determined by the word's place in the sentence.
 
 For example, the word **hali** can function equally as an adjective (_blank_ or _void_), noun (_a blank_) and verb (_to make blank_ or _to get blank_).
 
-**tu ha hali papir, he?**
+**tu ave hali papir, he?**
 – Do you have some blank paper?  
 **don mi un hali!**
 – Give me a blank!  
-**tu mus hali vo lexe.**
+**tu mus hali da lexe.**
 – You must blank out that word.
 
 Likewise, the word
 **kitabi**
 can function as a verb (_to write_), a noun (_a writing_) and adjective (_written_ or _textual_).
 
-**mi kitabi letre.**
+**mi kitabe letre.**
 – I write a letter.  
 **letre es kitabe misaje.**
 – A letter is a written message.  
-**mi love tu su kitabi.**
+**mi love tu se kitabe.**
 – I love your writings.
 
 

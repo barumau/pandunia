@@ -181,7 +181,7 @@ depending on its position in the sentence.
 
 *mi **ai** tu.*
 – I **love** you. (verb)  
-*tu fikre mi su **ai**.*
+*tu fikre mi se **ai**.*
 – You think about my **love**. (noun)  
 **mi kitabi un ai anjil.**
 – I write a **love** letter. (adjective)

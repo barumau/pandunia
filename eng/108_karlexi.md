@@ -47,12 +47,12 @@ The marker **did** indicates the past tense,
 **nau** indicates the present tense,
 and **vil** indicates the future tense.
 
-**man** ***did*** **yam aple.**
-– The man *ate* (or *did eat*) an apple.  
-**man** ***nau*** **yam aple.**
-– The man *eats* an apple (now).  
-**man** ***vil*** **yam aple.**
-– The man *will eat* an apple.
+**man** ***did*** **yam ban.**
+– The man *ate* (or *did eat*) bread.  
+**man** ***nau*** **yam ban.**
+– The man *eats* bread (now).  
+**man** ***vil*** **yam ban.**
+– The man *will eat* bread.
 
 It is also possible to express the future in the past
 with a combination of two tense markers.
@@ -138,21 +138,21 @@ the first verb (an auxiliary verb) is something that the subject possesses
 and the second verb is something that the subject does (when there is an object in the end)
 or experiences (when there is no object).
 
-**mi ken kitabi la javabe.**  
+**mi ken kitabe da javabe.**  
 ≈ *I have the ability to write the answer.*  
 – I can write the answer.  
-**mi halal kitabi la javabe.**  
+**mi halal kitabe da javabe.**  
 ≈ *I have the permission to write the answer.*  
 – I may write the answer.  
-**mi mus kitabi la javabe.**  
+**mi mus kitabe da javabe.**  
 ≈ *I have the compulsion to write the answer.*  
 – I must write the answer.
 
 Note that the same auxiliary verbs can be used alone as transitive verbs in the pivot construction.
 
-**guru halal mi kitabi la javabe.**
+**guru halal mi kitabe da javabe.**
 – The teacher permits me to write the answer.  
-**guru mus mi kitabi la javabe.**
+**guru mus mi kitabe da javabe.**
 – The teacher compels me to write the answer.
 
 
@@ -191,9 +191,9 @@ It also denotes means of exchange, 'for'.
 
 It also denotes the language of speech or a text, 'in'.
 
-**mimen loga bi pandunia**
+**vi loga bi pandunia**
 – We speak in Pandunia  
-**damen kitabi bi farsi**
+**di kitabe bi farsi**
 – They write in Persian.
 
 #### de
@@ -211,7 +211,7 @@ The preposition
 **ex**
 denotes location on the outside, 'out, outside'.
 
-**demi ya protesta ex la burgi.**
+**deme ya proteste ex la burge.**
 – People protest outside the castle.
 
 #### in
@@ -280,7 +280,7 @@ The preposition
 **via**
 denotes road or way, 'via, by way of'.
 
-**mimen lai a Berlin via Praha.**
+**vi lai do Berlin via Praha.**
 – We come to Berlin via Prague.
 
 #### vise
