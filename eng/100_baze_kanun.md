@@ -40,9 +40,9 @@ The possessive pronouns are:
 **vi su** _our_, **yu su** _your_, **damen su** _their_.
 
 The interrogative pronouns are:
-**ke**
+**kua**
 _what_ or _who_,
-**ke su**
+**kua su**
 _whose_.
 
 

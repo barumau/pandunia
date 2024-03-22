@@ -121,9 +121,9 @@ The demonstratives can serve as subjects and objects in the same way as nouns.
 – This is good.  
 **da der es dus.**
 – That is bad.  
-**tu vol da hir, he?**
+**tu van da hir, he?**
 – Do you want this?  
-**no, mi vol da der.**
+**no, mi van da der.**
 – No, I want that.
 
 When the verb is a content word,
@@ -197,22 +197,22 @@ There are two interrogative pronouns in Pandunia.
 **kua es a table.**
 – What is on the table?
 
-Adjectives are questioned with **kua di**.
+Adjectives are questioned with **kua li**.
 
-**kua di nove?**
+**kua li nove?**
 – How new?  
-**kua di koste?**
+**kua li koste?**
 – How costy?  
-**kua di poli?**
+**kua li poli?**
 – How many?  
-**kua di kam?**
+**kua li kam?**
 – How few?  
-**kua di dai?**
+**kua li dai?**
 – How big?  
-**kua di shau?**
+**kua li shau?**
 – How small?
 
-**tu have kua di dai mau?**
+**tu have kua li dai mau?**
 – How big a cat do you have?
 
 

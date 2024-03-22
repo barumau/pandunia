@@ -43,11 +43,12 @@ The tense marker is first, the mood marker is next, and the aspect marker is las
 Tense is a property that expresses time reference.
 The main tenses are the past, present, and future.
 More specific time references are expressed with various time expressions, like *yesterday*, *tomorrow* or *one hour ago*.
-The marker **did** indicates the past tense,
-**nau** indicates the present tense,
-and **vil** indicates the future tense.
+The marker
+**pas** indicates the past tense,
+**nau** indicates the present tense, and
+**vil** indicates the future tense.
 
-**man** ***did*** **yam ban.**
+**man** ***pas*** **yam ban.**
 – The man *ate* (or *did eat*) bread.  
 **man** ***nau*** **yam ban.**
 – The man *eats* bread (now).  
@@ -57,7 +58,7 @@ and **vil** indicates the future tense.
 It is also possible to express the future in the past
 with a combination of two tense markers.
 
-**man** ***did vil*** **yam aple.**
+**man** ***pas vil*** **yam aple.**
 – The man *was going to* eat an apple.
 
 
@@ -73,7 +74,7 @@ The time can be indicated with a tense marker.
 
 **man** ***bi*** **yam ban.**
 – The man *is*, *was* or *will be* eating bread.  
-**man** ***did bi*** **yam ban.**
+**man** ***pas bi*** **yam ban.**
 – The man was eating bread.  
 **man** ***nau bi*** **yam ban.**
 – The man is eating bread.  
@@ -86,7 +87,7 @@ The time can be indicated with a tense markers.
 
 **man** ***ha*** **yam ban.**
 – The man *had*, *has* or *will have* eaten bread.  
-**man** ***did ha*** **yam ban.**
+**man** ***pas ha*** **yam ban.**
 – The man had eaten bread.  
 **man** ***nau ha*** **yam ban.**
 – The man has eaten bread.  
@@ -170,7 +171,7 @@ denotes a destination, goal or purpose, 'to, toward, for'.
 
 **damen marche a bazar.**
 – They walk to the market.  
-**mi vol don ye buku a tu.**
+**mi van don ye buke a tu.**
 – I want to give this book to you.
 
 #### bi
@@ -181,7 +182,7 @@ denotes an instrument or tool, 'with, by, by means of'.
 
 **da bate bi hamar.**
 – He hits with the hammer.  
-**da kitabi bi kalam.**
+**da kitabe bi kalam.**
 – He writes with a pen.
 
 It also denotes means of exchange, 'for'.
@@ -265,7 +266,7 @@ The preposition
 **re**
 denotes movement back, 'back, in return'.
 
-**da don la buku re mi.**
+**da don la buke re mi.**
 – He gave the book back to me.
 
 #### tra

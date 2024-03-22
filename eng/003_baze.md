@@ -71,7 +71,7 @@ If the subject is a personal pronoun, the **ya** is left out.
 The basic word order is subject–verb–object
 – the same as in English!
 
-**mi ai tu.**
+**mi love tu.**
 – I love you.
 
 When the direct object is a noun, it is marked apart from the verb by a demonstrative pronoun, numeral or another determiner.
@@ -104,21 +104,21 @@ It can be left out in very simple sentences.
 
 It can't be left out when it is part of a serial verb.
 
-**mi vol es mau.**
+**mi van es mau.**
 – I want to be a cat.  
-**mi vol mau!**
+**mi van mau!**
 – I want a cat!
 
 ### Multi-purpose words
 
 Pandunia words can be ambiguous because they often have more meanings compared to English.
 
-**da ai mau.**
+**da love mau.**
 – He loves cats. / She loved a cat. / He/she will love the cat.
 
 But actually the meaning is clear in the real context:
 
-**pre tri nen, mi ha du mau e un vaf. mi ha mas un fem ben. da ai mau!**
+**pre tri nen, mi have du mau e un vaf. mi have mas un fem ben. da love mau!**
 – Three years ago, I had two cats and a dog. I also had a daughter. _She loved the cats!_
 
 ### Time
@@ -128,18 +128,18 @@ Tenses and aspects are optionally expressed with the help of adverbs and auxilia
 (currently),
 **pas**
 (in the past),
-**le**
+**ha**
 (already), and
-**sha**
+**vil**
 (in the future).
 
-**mi zai ai tu.**
+**mi zai love tu.**
 – I am loving you.  
-**mi pas ai tu.**
+**mi pas love tu.**
 – I loved you.  
-**mi le ai tu.**
+**mi ha love tu.**
 – I have loved you.  
-**mi sha ai tu.**
+**mi vil love tu.**
 – I will love you.
 
 ### Passive
@@ -149,7 +149,7 @@ The passive voice is formed with the help of the helping verb
 
 **tu be ai.**
 – You are loved.  
-**mi be ai de tu.**
+**mi be love de tu.**
 – I am loved by you.
 
 ### Modifying other words
@@ -163,11 +163,11 @@ To modify a noun, put adjectives before it.
 
 To modify a verb, put adverbs before it.
 The adverb can be tagged with
-**di**.
+**li**.
 
-**mi hau (di) visi tu.**
+**mi hau (li) visi tu.**
 – I see you well.  
-**tu visi di ai da.**
+**tu visi li love da.**
 – You seemingly love him/her.
 
 Modifiers are compared with
@@ -190,16 +190,16 @@ To ask _yes–or–no_ questions, replace the verb with "(verb) **no** (verb)" p
 – You see me, eh?
 
 To ask a content question, write a normal sentence and replace the word in question with
-**ke**
+**kua**
 'what, who'.
 
-**tu ai ke?**
+**tu love kua?**
 – Who do you love?  
-**tu ai ke man?**
+**tu love kua man?**
 – Which man do you love?  
-**ke man ya ai tu?**
+**kua man ya love tu?**
 – Which man loves you?  
-**tu ai da ke poli?**
+**tu love da kua li poli?**
 – How much do you love him?
 
 ### Commands

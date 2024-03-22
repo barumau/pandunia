@@ -23,7 +23,7 @@ The adjectival meaning, 'fiery', emerges in adjectival position.
 
 The verbal meaning, 'to burn', emerges in verbal position.
 
-**mi hogo yo moke.**
+**mi hogo som moke.**
 – I burn some wood.
 
 Verb, noun and modifier are created independently from the base word.
@@ -215,9 +215,9 @@ Eyes are used for watching.
 Love is felt for others.
 Therefore the semantics of the following sentences are easy to understand.
 
-**mi futau yo moka.**
+**mi futau som moka.**
 – I chop trees.  
-**mi hogo yo moka.**
+**mi hogo som moka.**
 – I burn wood.  
 **mi oke tu.**
 – I eye you. ~ I look at you.  

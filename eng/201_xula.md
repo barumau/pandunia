@@ -19,19 +19,19 @@ hide:
 **sal!**
 = Hello!  
 <big>☺</big>
-**tu es ke?**
+**tu es kua?**
 = Who are you?  
 <big>☻</big>
-**mi es Yusef. tu es ke?**
+**mi es Yusef. tu es kua?**
 = I am Yusef. Who are you?  
 <big>☺</big>
-**mi es Sara. da es ke?**
+**mi es Sara. da es kua?**
 = I am Sara. Who is that?  
 <big>☻</big>
 **da es mi se dosti.**
 = That is my friend.  
 <big>☺</big>
-**da se nam es ke?**
+**da se nam es kua?**
 = What's her name?  
 <big>☻</big>
 **da se nam es Maria.**
@@ -104,7 +104,7 @@ your
 he, she or it  
 **da su**
 his, her, its  
-**ke**
+**kua**
 who or what  
 **es**
 to be  
@@ -127,11 +127,11 @@ animal
 
 ### Answers to the Exercises
 
-1. tu es ke?
+1. tu es kua?
 2. mi es Tomas.
-3. tu se dosti es ke?
+3. tu se dosti es kua?
 4. da es Sara.
-5. tu se nam es ke?
+5. tu se nam es kua?
 6. mi se nam es ........... 
 
 
@@ -294,14 +294,14 @@ chief, boss
 **ching yam kafe o cha.**
 = Please have some coffee or tea.  
 <big>☻</big>
-**ama mi yam un di cha! shukre.**
-= But I drink only tea! Thank you.  
+**ama mi un li yam cha! shukre.**
+= But I only drink tea! Thank you.  
 ...  
 <big>☻</big>
 **chin pa, mi mus ga a zai.**
 = Grandfather, I have to go now.  
 <big>☺</big>
-**oke. ching sal tu se mama!**
+**okei. ching sal tu se mama!**
 = OK. Please tell greetings to your mother.  
 <big>☻</big>
 **mi sal da. sal reste!**
@@ -667,13 +667,13 @@ of the negative word.
 The negated word can be of any type: verb, pronoun, noun, adjective
 and even numeral.
 
-**da no ha mau.**
+**da no have mau.**
 = She doesn't have a cat.  
-**da ha no mau, ama vaf.**
+**da have no mau, ama vaf.**
 = She has no cats but dogs.  
-**no da, ama mi ha mau.**
+**no da, ama mi have mau.**
 = Not she but I have cats. (It's not her, but me who has cats.)  
-**mi ha no un, ama du mau.**
+**mi have no un, ama du mau.**
 = I have not one but two cats.
 
 
@@ -715,9 +715,9 @@ but
 1. da no safi kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da no ha vaf i mau. / da ha no vaf i no mau.
+4. da no have vaf i mau. / da have no vaf i no mau.
 5. shefe yam cha ama no kafe.
-6. mama ha no vaf ama du mau.
+6. mama have no vaf ama du mau.
 
 
 --------------------------------------------------------------------------------
@@ -725,42 +725,42 @@ but
 ## More Questions
 
 To ask questions beginning with _what_, _which_, _how_, _who_ and
-_when_, the interrogative pronoun **ke** is normally used. The
+_when_, the interrogative pronoun **kua** is normally used. The
 question can be made more specific by adding words for person, time,
 manner or thing if needed.
 
-**da es ke?**
+**da es kua?**
 = What is that? / Who is (s)he?  
-**da es ke jen?**
+**da es kua jen?**
 = Who is he/she?  
-**da es ke she?**
+**da es kua ting?**
 = What (thing) is it?  
-**ke jen lai?**
+**kua jen lai?**
 = Who is coming? (**jen** = person)  
-**tu yam a ke zaman?**
-= When do you eat? (**zaman** = time)  
-**men danse a ke mode?**
+**tu yam a kua tem?**
+= When do you eat? (**tem** = time)  
+**von danse a kua mode?**
 = How to dance? (**mode** = manner, style)
 
 In Pandunia, questions beginning with _why_ are asked using
-**ke sabu**.
+**kua sababe**.
 
-**ke sabu tu suka mau?**
+**kua sababe tu suka mau?**
 = Why do you like cats?
 
 Questions asking about the cause or reason of something, are answered by adding
-**de sabu**
+**de sababe**
 before the cause or reason.
 
-**ke sabu tu suka mau?**
+**kua sababe tu suka mau?**
 = Why do you like cats?  
-**de sabu damen es kavai.**
+**de sababe damen es kavai.**
 = Because they are cute.
 
-Of course **sabu** can also be used to express the cause or reason for
+Of course **sababe** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-**mi suka mau de sabu damen es kavai**
+**mi suka mau de sababe damen es kavai**
 = I like cats because they are cute.
 
 ### Exercises
@@ -794,11 +794,11 @@ period of time
 ### Answers to the Exercises
 
 
-1. ke jen suka supe?
+1. kua jen suka supe?
 2. papa suka.
-3. ke zaman da lai?
+3. kua tem da lai?
 4. pos des minute.
-5. ke sabu da no yam?
+5. kua sababe da no yam?
 6. de sabu da no suka kafe i supe.
 
 
@@ -826,9 +826,11 @@ For example when people talk about that morning's breakfast, the sentence tells 
 
 There are also specific time words.
 
+**pas**
+= in the past  
 **zai**
 = currently, at the moment  
-**sha**
+**vil**
 = later, in the future
 
 They can be used for modifying nouns.
@@ -837,7 +839,7 @@ They can be used for modifying nouns.
 = Sarah is my former boss.  
 **Yusef es mi se zai shefe.**
 = Yusef is my current boss.  
-**Maria es mi se sha shefe.**
+**Maria es mi se vil shefe.**
 = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
@@ -847,7 +849,7 @@ Simply put the word before the verb.
 = I hit it (in the past).  
 **mi zai dape da.**
 = I am hitting it (currently).  
-**mi sha dape da.**
+**mi vil dape da.**
 = I will hit it (in the future).
 
 It's also possible to use preposition phrases of time.
@@ -856,7 +858,7 @@ It's also possible to use preposition phrases of time.
 = I hit it in the past.  
 **mi dape da a zai.**
 = I hit it at present.  
-**mi dape da a sha.**
+**mi dape da a vil.**
 = I hit it in the future.
 
 
@@ -866,11 +868,11 @@ It is enough to set the stage once in the beginning with a time expression.
 Another time word will not be needed until the tense changes
 or until it becomes useful to stress that you are still talking in the same tense.
 
-**mi pas ha un mau.**
+**mi pas have un mau.**
 = I had a cat in the past.  
 **da es hau mau.**
 = It was a good cat.  
-**mi ha un vaf a zai.**
+**mi have un vaf a zai.**
 = I have a dog now.
 
 Any expression of time is good for expressing the tense. When one
@@ -899,8 +901,8 @@ Try translating these sentences from English to Pandunia.
 past, former  
 **zai**
 present, current  
-**sha**
-future  
+**vil**
+will, future tense marker  
 **pre**
 before  
 **den**
@@ -919,7 +921,7 @@ milk
 ### Answers to the Exercises
 
 1. mi se shefe festa a sha.
-2. mi ha du vaf a pas.
+2. mi have du vaf a pas.
 3. tu yam supe a zai.
 4. da safi kamar a preden.
 5. mau yam milke a posden.

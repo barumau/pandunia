@@ -27,9 +27,9 @@ which does not change according to number, case, gender, tense, mood or
 any of the other inflectional categories known from other languages.
 Compare, for example, what happens to the words in the following two sentences in Pandunia and English.
 
-1. *mi ai da.*
+1. *mi love da.*
    – I love him.
-2. *da ai mi.*
+2. *da love mi.*
    – He loves me.
 
 In Pandunia, the subject and object simply change places and that's it.
@@ -144,9 +144,9 @@ as in the table below.
 
 | Subject         | TAM    | Predicate   | Det.   | Object            |
 |-----------------|--------|-------------|--------|-------------------|
-| *suka bacha*    | **ya** | *kitabi*    | **un** | *long letre.*     |
+| *suka bacha*    | **ya** | *kitabe*    | **un** | *long letre.*     |
 | The happy child |        | writes      |        | a long letter.    |
-| *jun man*       | **ya** | *visi*      | **un** | *mei parke.*      |
+| *yun man*       | **ya** | *visi*      | **un** | *mei parke.*      |
 | The young man   |        | sees        |        | a beautiful park. |
 | *poli jen*      | **ya** | *vol shope* | **un** | nova dom.*        |
 | Many people     |        | want to buy |        | a new house.      |
@@ -183,6 +183,6 @@ depending on its position in the sentence.
 – I **love** you. (verb)  
 *tu fikre mi se **ai**.*
 – You think about my **love**. (noun)  
-**mi kitabi un ai anjil.**
+**mi kitabe un love anjil.**
 – I write a **love** letter. (adjective)
 
