@@ -197,38 +197,46 @@ There are two interrogative pronouns in Pandunia.
 **kua es a table.**
 – What is on the table?
 
-The adjectival interrogative pronoun is **ke**
-and it means the same as English _which_.
+Adjectives are questioned with **kua di**.
 
-**ke she?**
-– What? (Which thing?)  
-**ke jen?**
-– Who? (Which person?)  
-**ke zaman?**
-– When? (What time?)  
-**ke loke?**
-– Where? (In which place?)  
-**ke mode?**
-– How? (What way?)  
-**ke sabu?**
-– Why? (What reason?)
-
-Also adjectives are questioned with **ke**.
-
-**ke nove?**
+**kua di nove?**
 – How new?  
-**ke koste?**
+**kua di koste?**
 – How costy?  
-**ke poli?**
+**kua di poli?**
 – How many?  
-**ke kam?**
+**kua di kam?**
 – How few?  
-**ke dai?**
+**kua di dai?**
 – How big?  
-**ke shau?**
+**kua di shau?**
 – How small?
 
-**tu ha ke dai di mau?**
+**tu have kua di dai mau?**
 – How big a cat do you have?
 
+
+## Table of pronominals
+
+A pronominal phrase is an expression that consists of several words and functions syntactically as a pronoun.
+Pandunia's pronominal phrases can be arranged in a regular table of pronominals as below.
+
+|               | Interrogative | Demonstrative | Indefinite    | Universal     | Negative      | Alternative   | Elective      |
+|:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| Thing         | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   | **otre ting** | **eni ting**  |
+|               | what (thing)  | that thing    | something     | everything    | nothing       | another       | anything      |
+| Individual    | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    | **otre von**  | **eni von**   |
+|               | who           | that one      | someone       | every one     | no-one        | another       | anyone        |
+| Possession    | **kua von su**| **da von su** | **som von su**|**evri von su**| **no von su** |**otre von su**| **eni von su**|
+|               | whose         | that one's    | someone's     | everyone's    | no-one's      | another's     | anyone's      |
+| Time          | **kua tem**   | **da tem**    | **some tem**  | **evri tem**  | **no tem**    | **otre tem**  | **eni tem**   |
+|               |when, what time| that time     | sometime      |always, all the time| never    | another time  | any time      |
+| Place         | **kua ver**   | **da ver**    | **som ver**   | **evri ver**  | **no ver**    | **otre ver**  | **eni ver**   |
+|               | where         | there         | somewhere     | everywhere    | nowhere       | elsewhere     | anywhere      |
+| Quality       | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   | **otre tipe** | **eni tipe**  |
+|               | what kind of  | that kind of  | some kind of  | all kinds of  | no kind of    |another type of| any kind of   |
+| Quantity      | **kua monte** | **da monte**  | **som monte** | **evri monte**| **no monte**  | **otre monte**| **eni monte** |
+|               | how much      | so much       | some          | whole amount  | no amount     | other amount  | any amount    |
+| Manner        | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    | **otre vei**  | **eni vei**   |
+|               | how           | in that way   | somehow       | in every way  | in no way     | otherwise     | anyway        |
 
