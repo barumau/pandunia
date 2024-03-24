@@ -39,4 +39,7 @@ extra:
       link: http://www.facebook.com/groups/pandunia
     - icon: fontawesome/brands/telegram
       link: https://pandunia.telegramo.org/
+markdown_extensions:
+  - toc:
+      toc_depth: 2
 

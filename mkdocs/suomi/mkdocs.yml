@@ -50,4 +50,6 @@ extra:
       link: http://www.facebook.com/groups/pandunia
     - icon: fontawesome/brands/telegram
       link: https://t.me/pandunia_grupe
-
+markdown_extensions:
+  - toc:
+      toc_depth: 2
