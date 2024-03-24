@@ -23,7 +23,7 @@ Ici
 **mushu**
 'souris' est l'object.
 
-**mi safe kamar.**
+**mi safi kamar.**
 – Je nettoie une chambre.
 
 
@@ -34,7 +34,7 @@ car il y a pas de marquer général du passif qui pourrait doner l'information p
 Autrement dit, la voix passive et active ont la forme commune.
 Si le sujet ne précise pas les cas comme animé/inanimé, actant/patient, la même forme peut être ambiguë d'un cas à l'autre.
 
-**koko le yam.**
+**koko ha yam.**
 – Le poulet a déjà mangé. *ou*
 Le poulet est déjà mangé (par nous).
 
@@ -42,135 +42,72 @@ Cet exemple est un cas particulier.
 Dans les communications courantes, cette ambiguïté est levée par la fontion sémantique du sujet.
 La phrase suivant ne peut qu'être interprétée par la voix active.
 
-**mi le yam.**
+**mi ha yam.**
 – J'ai déjà mangé.
 
 Et la phrase suivant ne peut qu'être interprétée par la voix passive.
 
-**keke le yam.**
+**keke ha yam.**
 – La gâteau est déjà mangé.
 
 La phrase passive peut être marquée par la verbe auxiliaire
 **be**.
 
-**koko be yam.**
+**koko ha be yam.**
 – Le poulet est mangé.  
-**kamar be safe.**
+**kamar ha be safi.**
 – Chambre est nettoyée.
 
 On peut indiquer l'agent avec la préposition
 **de**.
 
-**koko be yam de mimen.**
+**koko ha be yam de vi.**
 – Le poulet est mangé par nous.  
-**kamar be saf de mi.**
+**kamar ha be safi de mi.**
 – Chambre est nettoyée par moi.
 
 
 ## Verbes auxiliaires des aspects
 
-Il n'y a pas d'expression systématique du temps en pandunia,
-mais le système des aspects est assez complet.
 
-**shuru**
-'commencer'
-indique le début d'une action ou la transition vers une nouvelle situation.
-
-**mi shuru fuku la kote.**
-– Je commence à porter le manteau. ~ Je mets le manteau.  
-**kaguji ya shuru hogo.**
-– Le papier commence à brûler.  
-**tu shuru yam.**
-– Tu commences à manger.
-
-**fin**
-'finir'
-indique la fin d'une action..
-
-**damen fin haha.**
-– Ils arrêtent de rire.  
-**kaguji ya fin hogo.**
-– Le papier a cessé de brûler.  
-**tu fin yam.**
-– Tu arrêtes de manger.
-
-**pul**
-'compléter'
-indique qu'une action est bien faite.
-
-**tu pul yam un piza.**
-– Tu as complètement mangé une pizza.  
-**mi pul vide la filme.**
-– J'ai fini de regarder le film. / J'ai regardé le film complètement.
-
-**fen**
-'partiellement'
-indique que l'action n'est que partiellement effectuée.
-
-**tu fen yam un piza.**
-– Vous avez mangé une partie de la pizza.  
-**mi fen vide la filme.**
-– J'ai regardé une partie du film.
-
-**zai**
-'être présent'
-indique qu'une situation se produit actuellement.
-
-**mi zai yam un piza.**
-– Je suis en train de manger une pizza.
-
-**dur**
-'durer, continuer'
-indique qu'une situation est en cours.
-
-**mi dur yam la piza.**
-– Je continue à manger la pizza.
-
-**ada**
-'être habitué à'
-indique qu'une action est effectuée régulièrement.
-
-**mi ada gul yo bir.**
-– J'ai l'habitude de boire de la bière.
-
-**le**
+**ha**
 'achever'
 indique l'aspect accompli ou achevé.
 Il indique qu'une action s'est produite dans le passé et est toujours en cours, ou est pertinente pour la situation actuelle.
 
-**da _le_ e guru.**
+**da _ha_ es guru.**
 – Il ou elle est déjà enseignant.  
-**mi no _le_ gul yo alkohol.**
+**mi no _ha_ gul yo alkohol.**
 – Je n'ai pas encore bu d'alcool.  
-**mi _le_ no gul yo alkohol.**
+**mi _ha_ no gul yo alkohol.**
 – Je ne bois déjà plus d'alcool. (J'ai déjà achevé la situation où je ne bois pas d'alcool.)  
-**mi _le_ don la buku to damen.**
+**mi _ha_ don la buke to di.**
 – Je leur ai déjà donné le livre.  
-**damen no _le_ ridon da to mi.**
+**damen no _ha_ ridon da to mi.**
 – Ils ne me l'ont pas encore rendu.  
-**mi _le_ lai to site.**
+**mi _ha_ lai to site.**
 – Je suis déjà venu en ville.
 
-**pas**
+**did**
 'passer'
 Il indique qu'une action est terminée et n'est plus pertinente pour la situation actuelle.
 
-**mi pas don la buku to damen.**
+**mi did don la buku to damen.**
 – Je leur ai donné le livre. (Peut-être qu'ils ne l'ont plus ou qu'ils l'ont rendu.)  
-**mi pas vizite Franse.**
+**mi did vizite Franse.**
 – J'ai visité la France une fois.  
-**mi pas ada gul yo bir.**
+**mi did ada gul bir.**
 – J'avais l'habitude de boire de la bière.  
-**mi pas lai to site.**
+**mi did lai to site.**
 – Je suis venu en ville une fois.
 
-**sha**
+**vil**
 'sera, –rai'
 indique que l'événement se produira plus tard ou dans le futur.
 
-**da _sha_ e guru.**
+**da _vil_ es guru.**
 – Il ou elle sera enseignant(e).  
-**mi no _sha_ gul bir.**
+**mi no _vil_ gul bir.**
 – Je ne boirai pas de bière.
 
 

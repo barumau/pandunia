@@ -330,7 +330,7 @@ Dans cette section, nous allons comparer les structures de phrases du Pandunia a
 L'ordre normal des mots est sujet-verbe-objet - tout comme en anglais ou en chinois.
 
     Anglais :   I love you, and you love me.
-    Pandunia :  mi ame tu, tu ame mi.
+    Pandunia:  mi love tu, tu love mi.
     Chinois :   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
     Français :  Je t'aime, et tu m'aimes.
 
@@ -347,7 +347,7 @@ est utilisé lorsque l'objet d'une action vient en premier dans la phrase. (C'es
 est un mot emprunté au chinois standard, mais il est également proche de certaines utilisations de l'anglais "to be".
 
     Anglais :   It can not be eaten.
-    Pandunia :  da no bil be yam.
+    Pandunia:  da no ken be yam.
     Chinois :   Tā bù néng bèi chī. (它不能被吃。)
     Français :	Ça ne peut pas être mangé.
 
@@ -360,18 +360,19 @@ Comme le chinois, le Pandunia ne marque pas les verbes avec un mot comme "to" (f
     
 
 En pandunia et en chinois, les noms peuvent être singuliers ou pluriels selon le contexte.
-Il n'y a pas de terminaison au pluriel comme -s en anglais ou en français et les verbes ne sont pas conjugés. Un seul mot,
-**e**,
+Il n'y a pas de terminaison au pluriel comme -s en anglais ou en français et les verbes ne sont pas conjugés.
+Un seul mot,
+**es**,
 est utilisé au lieu de _am, is, are, was, were..._ (_suis, es, est, sommes, êtes, sont, étais, était, étions, étiez…_).
 
     Anglais :   It is an apple.
-    Pandunia :  da e aple.
+    Pandunia:  da es aple.
     Chinois :   Tā shì píngguǒ. (他是苹果。)
     Français :  C'est une pomme.
     
     
     Anglais :   They are apples.
-    Pandunia :  damen e aple.
+    Pandunia:  di es aple.
     Chinois :   Tāmen shì píngguǒ. (他们是苹果。)
     Français :  Ce sont des pommes.
     

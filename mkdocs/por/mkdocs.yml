@@ -13,6 +13,7 @@ theme:
     code: Ubuntu mono
 nav:
     - 'Ortografía': 102_ABC.md
+    - 'Pronomes': 104_viselexi.md
     - 'Frases básicas' : 200_baze_jumla.md
     - 'Dicionarios':
         - 'Pandunia-Português': pandunia-por.md

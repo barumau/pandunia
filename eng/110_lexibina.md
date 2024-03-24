@@ -176,9 +176,9 @@ The prefix **an-** means being or doing the opposite of the base word.
 'alcoholic'
 → **analkolike**
 'unalcoholic'  
-**human**
+**homan**
 'human'
-→ **anhuman**
+→ **anhoman**
 'unhuman'  
 **tabakiste**
 'smoker'
@@ -472,11 +472,7 @@ When this suffix is added to a base word that ends in *-ia*, they merge together
 **kristia**
 'Christendom'
 → **kristian**
-'Christian'  
-**hume**
-'earth, soil'
-→ **human**
-'earthling' and, by extension, 'human being'
+'Christian'
 
 #### -bil
 
@@ -594,9 +590,9 @@ The suffix *-ete* indicates essentially the same thing as the base word but in a
 The suffix *-ia* has a variety of meanings,
 but fundamentally it means a collective of things or a community of people.
 
-**human**
+**homan**
 'human being'
-→ **humania**
+→ **homania**
 'humanity, mankind, all the human beings as a group'  
 **kriste**
 'Christ'

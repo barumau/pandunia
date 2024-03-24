@@ -72,34 +72,49 @@ La montrovorto estas:
 
 ## Demandovortoj
 
-**ke** estas la ĝenerala demandovorto en pandunio.
+**kua**
+estas la ĝenerala demandovorto en pandunio.
 Ĝi funckias kiel la demanda senco de la vortoj _kiu_ kaj _kio_.
 
-**ke?**
-– Kiu?/Kio?  
-**ke she?**
-– Kio? (Kiu afero?)  
-**ke jen?**
-– Kiu? (Kiu persono?)  
-**ke zaman?**
-– Kiam? (Kiu tempo?)  
-**ke yang?** 
-– Kiel? (Kiu maniero?)  
-**ke sabu?**
-– Kial? (Kiu kaŭzo?)
+**kua?**
+– Kiu?/Kio?
 
-Ankaŭ adjektivoj estas demandataj per **ke**.
+Adjektivoj estas demandataj per **kua li**.
 
-**ke neu?**
+**kua li nove?**
 – Kiom nova?  
-**ke koste?**
+**kua li koste?**
 – Kiom multekosta?  
-**ke poli?**
+**kua li poli?**
 – Kiom multe?  
-**ke dai?**
+**kua li dai?**
 – Kiom granda?  
-**ke shau?**
-– Kiom eta?  
-**tu ha ke dai di mau?**
+**kua li shau?**
+– Kiom eta?
+
+**tu ha kua li dai mau?**
 – Kiom granda kato vi havas?
 
+## Tabelvortoj
+
+"Tabelvortoj" estas vortoj, kiuj rolas kiel pronomoj kaj estas konstruitaj laŭ fiksita principo.
+Oni povas aranĝi tiajn vortojn en tabelo kaj en Esperanto kaj en Pandunia.
+
+|               | Demanda       | Montranta     | Nedifinita    | Tutampleksa   | Nea           | Diferenca     | Elektenda     |
+|:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| Aĵo           | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   | **otre ting** | **eni ting**  |
+|               | kio           | tio           | io            | ĉio           | nenio         | alio          | io ajn        |
+| Homo          | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    | **otre von**  | **eni von**   |
+|               | kiu           | tiu           | iu            | ĉiu           | neniu         | aliulo        | iu ajn        |
+| Aparteno      | **kua von su**| **da von su** | **som von su**|**evri von su**| **no von su** |**otre von su**| **eni von su**|
+|               | kies          | ties          | ies           | ĉies          | nenies        | de alia       | ies ajn       |
+| Loko          | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   | **otre loke** | **eni loke**  |
+|               | kie           | tie           | ie            | ĉie           | nenie         | aliloke       | ie ajn        |
+| Tempo         | **kua tem**   | **da tem**    | **some tem**  | **evri tem**  | **no tem**    | **otre tem**  | **eni tem**   |
+|               | kiam          | tiam          | iam           | ĉiam          | neniam        | alifoje       | iam ajn       |
+| Maniero       | **kua mode**  | **da mode**   | **som mode**  | **evri mode** | **no mode**   | **otre mode** | **eni mode**  |
+|               | kiel          | tiel          | iel           | ĉiel          | neniel        | alimaniere    | iel ajn       |
+| Kvalito       | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   | **otre tipe** | **eni tipe**  |
+|               | kia           | tia           | ia            | ĉia           | nenia         | alispeca      | ia ajn        |
+| Kvanto        | **kua monte** | **da monte**  | **som monte** | **evri monte**| **no monte**  | **otre monte**| **eni monte** |
+|               | kiom          | tiom          | iom           | ĉiom          | neniom        | alikvante     | iom ajn       |

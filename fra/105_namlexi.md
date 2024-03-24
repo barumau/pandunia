@@ -36,11 +36,11 @@ Le nombre peut être mentionné avec des numéraux au besoin.
 – deux chaises  
 **tri kursi**
 – trois chaises  
-**men kursi**
+**poli kursi**
 – beaucoup de chaises; des chaises
 
 
-### Genre
+## Genre
 
 Le pandunia n'a pas de genre grammatical (masculin, féminin, neutre ou aucun autre).
 

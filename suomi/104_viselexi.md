@@ -5,11 +5,11 @@
 
 | Yksikkö     | Monikko      |
 |:------------|:-------------|
-| **mi**      | **mimen**    |
+| **mi**      | **vi**       |
 | minä        | me           |
-| **tu**      | **tumen**    |
+| **tu**      | **yu**       |
 | sinä        | te           |
-| **da**      | **damen**    |
+| **da**      | **di**       |
 | hän         | he           |
 
 Persoonapronominien omistusmuodot muodostetaan partikkelilla
@@ -17,11 +17,11 @@ Persoonapronominien omistusmuodot muodostetaan partikkelilla
 
 | Yksikkö     | Monikko      |
 |:------------|:-------------|
-| **mi su**   | **mimen su** |
+| **mi su**   | **vi su**    |
 | minun       | meidän       |
-| **tu su**   | **tumen su** |
+| **tu su**   | **yu su**    |
 | sinun       | teidän       |
-| **da su**   | **damen su** |
+| **da su**   | **di su**    |
 | hänen       | heidän       |
 
 Persoonapronominit korvaavat kokonaisia lausekkeita.
@@ -36,11 +36,11 @@ Persoonapronominit korvaavat kokonaisia lausekkeita.
 
 Refleksiivipronominia **ze** käytetään sellaisenaan kaikissa persoonissa.
 
-**mi vide se**
+**mi vize se.**
 – Minä näen itseni.  
-**ye vide se**
+**da vize se.**
 – Hän näkee itsensä.  
-**mimen vide se.**
+**vi vize se.**
 – Me näemme itsemme.
 
 Sen omistusmuoto on **se su**.
@@ -49,15 +49,15 @@ Sen omistusmuoto on **se su**.
 – Hän näkee kasvonsa peilissä.
 
 Sana
-**semen**
+**unotre**
 viittaa tekijöihin vastavuoroisesti.
 
-**semen**
-– toisiaan
+**unotre**
+– toinen toistaan, toisiaan
 
-**mi i tu visi semen.**
+**mi e tu vize unotre.**
 – Sinä ja minä näemme toisemme.  
-**mimen visi semen.**
+**vi vize unotre.**
 – Me näemme toisemme.
 
 
@@ -65,77 +65,86 @@ viittaa tekijöihin vastavuoroisesti.
 
 Osoittava pronomini on:
 
-**ye**
-– tämä, nämä  
-**vo**
-– tuo, nuo  
-**la**
-– se, ne (jotain jonka puhuja olettaa kuulijan tietävän)
+**da**
+– tämä, tuo, se  
+**di**
+– nämä, nuo, ne
 
-Panduniassa **ye**, **vo** ja **la** ovat sekä määreitä että itsenäisiä pronomineja.
 
 Pronomini
-**ye**
+**da hir**
 osoittaa puhujan lähellä oleviin asioihin,
 ja pronomini
-**vo**
+**da der**
 osoittaa puhujasta kaukana oleviin asioihin.
 
-**tu vol vo buku, he?**
+**tu van da der buke, he?**
 – Haluatko sinä tuon kirjan?  
-**no, mi vol ye buku, no vo.**
+**no, mi van da hir buke, no da der.**
 – Minä haluan tämän kirjan, en tuota.
 
 Panduniassa osoittavat pronomiinit toimivat subjekteina ja objekteina samalla tavalla kuin substantiivit.
 
-**ye e hau.**
+**da hir es hau.**
 – Tämä on hyvä.  
-**vo e dus.**
+**da der es dus.**
 – Tuo on huono.  
-**tu vol ye, he?**
+**tu van da hir, he?**
 – Haluatko sinä tämän?  
-**no, mi vol vo.**
+**no, mi van da der.**
 – Ei, minä haluan tuon.
 
 
 ## Kysymyspronominit
 
-**ke** on yleiskäyttöinen kysymyspronomini. Se vastaa suomen sanoja _mikä_ ja _kuka_.
+**kua**
+on yleiskäyttöinen kysymyspronomini.
+Se vastaa suomen sanoja _mikä_ ja _kuka_.
 
-**ke?**
-= Mikä?
+**kua?**
+– Mikä?
 
-Se toimii myös määritteenä merkityksessä 'mikä' tai 'kumpi'.
 
-**ke she?**
-= Mikä esine?  
-**ke jen?**
-= Kuka? (Mikä henkilö?)  
-**ke zaman?**
-= Milloin? (Millä hetkellä?)  
-**ke loka?**
-– Missä? (Millä paikalla?)  
-**ke mode?** 
-= Miten? (Millä tavalla?)  
-**ke sabu?**
-– Miksi? (Mistä syystä?)
+Adjektiivit voi saattaa kyseenalaisiksi sanalla
+**kua li**.
 
-Myös adjektiivit voi saattaa kyseenalaisiksi sanalla **ke**.
-
-**ke neu?**
+**kua li nove?**
 – Kuinka uusi?  
-**ke koste?**
+**kua li koste?**
 – Minkä hintainen? Kuinka kallis?  
-**ke poli?**
+**kua li poli?**
 – Kuinka monta?  
-**ke kam?**
+**kua li kam?**
 – Kuinka vähän?  
-**ke dai?**
+**kua li dai?**
 – Kuinka iso?  
-**ke shau?**
+**kua li shau?**
 – Kuinka pieni?
 
-**tu ha ke dai di mau?**
+**tu have kua li dai mau?**
 – Kuinka iso kissa sinulla on?
 
+## Pronominimaisten sanojen taulukko
 
+Pro-sanat ovat merkitykseltään pronominimaisia sanoja.
+Ne ovat joko proadverbeja tai proadjektiiveja, jotka on johdettu pronominista.
+Pandunian pro-sanat voidaan järjestää säännönmukaisesti taulukkoon kuten alla.
+
+|               | Kysyvät       | Osoittavat    | Epämääräiset  | Kaikenkattavat| Kieltävät     | Vaihtoehtoiset| Sallivat      |
+|:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| Asia          | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   | **otre ting** | **eni ting**  |
+|               | mikä          | tuo asia      | jokin         | kaikki        | ei mikään     | toinen, muu   | mikä tahansa  |
+| Henkilö       | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    | **otre von**  | **eni von**   |
+|               | kuka          | tuo henkilö   | joku          | jokainen      | ei kukaan     | toinen, muu   | kuka tahansa  |
+| Omistus       | **kua von su**| **da von su** | **som von su**|**evri von su**| **no von su** |**otre von su**| **eni von su**|
+|               | kenen         | tuon henkilön | jonkun        | jokaisen      | ei kenenkään  | toisen        | kenen tahansa |
+| Paikka        | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   | **otre loke** | **eni loke**  |
+|               | missä         | tuolla        | jossakin      | kaikkialla    | ei missään    | toisaalla     | missä tahansa |
+| Aika          | **kua tem**   | **da tem**    | **some tem**  | **evri tem**  | **no tem**    | **otre tem**  | **eni tem**   |
+|               | milloin       | silloin       | joskus        | aina          | ei koskaan    | toiste        |milloin tahansa|
+| Tapa          | **kua mode**  | **da mode**   | **som mode**  | **evri mode** | **no mode**   | **otre mode** | **eni mode**  |
+|               | miten         | siten         | jotenkin      | kaikin tavoin | ei mitenkään  | muuten        | miten tahansa |
+| Laatu         | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   | **otre tipe** | **eni tipe**  |
+|               | millainen     | tuollainen    | jonkinlainen  | kaikenlainen  |ei minkään lainen|toisen lainen|millainen tahansa|
+| Määrä         | **kua monte** | **da monte**  | **som monte** | **evri monte**| **no monte**  | **otre monte**| **eni monte** |
+|               | montako       | noin monta    | jonkin verran | kaikki        | ei yhtään     | toisen verran |kuinka paljon tahansa|

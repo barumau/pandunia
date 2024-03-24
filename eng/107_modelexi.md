@@ -23,7 +23,7 @@ B. **tu _mei_ li kitabe.**
 
 In Pandunia, "adjectives" are modifiers that are placed before the noun that they modify.
 
-**un _neu_ karo**
+**un _nove_ karo**
 – a _new_ car  
 **un _suga_ karo**
 – a _fast_ car  
@@ -47,7 +47,7 @@ is placed immediately before the verb.
 
 **tu _suga_ loga.**
 – You talk _fast_.  
-**di _hau_ kitabe.**
+**di jen _hau_ kitabe.**
 – They write _well_.
 
 It is common to put the modifying particle

@@ -52,17 +52,19 @@ The possessive pronouns consists of the personal pronoun and the possessive part
 
 The reflexive pronoun is used when the object of a sentence is the same as the subject.
 
-**selfe**
+**se**
 – self
 
-Note! The same reflexive pronoun is used for all persons,
+Note! The same reflexive pronoun
+**se**
+is used for all persons,
 so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, _ourselves_ and _themselves_ all at once.
 
-**mi vize selfe.**
+**mi vize se.**
 – I see myself.  
-**da vize selfe.**
+**da vize se.**
 – She sees herself. / He sees himself. / It sees itself.  
-**vi vize selfe.**
+**vi vize se.**
 – We see ourselves.
 
 The expression
@@ -229,14 +231,13 @@ Pandunia's pronominal phrases can be arranged in a regular table of pronominals 
 |               | who           | that one      | someone       | every one     | no-one        | another       | anyone        |
 | Possession    | **kua von su**| **da von su** | **som von su**|**evri von su**| **no von su** |**otre von su**| **eni von su**|
 |               | whose         | that one's    | someone's     | everyone's    | no-one's      | another's     | anyone's      |
+| Place         | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   | **otre loke** | **eni loke**  |
+|               | where         | there         | somewhere     | everywhere    | nowhere       | elsewhere     | anywhere      |
 | Time          | **kua tem**   | **da tem**    | **some tem**  | **evri tem**  | **no tem**    | **otre tem**  | **eni tem**   |
 |               |when, what time| that time     | sometime      |always, all the time| never    | another time  | any time      |
-| Place         | **kua ver**   | **da ver**    | **som ver**   | **evri ver**  | **no ver**    | **otre ver**  | **eni ver**   |
-|               | where         | there         | somewhere     | everywhere    | nowhere       | elsewhere     | anywhere      |
+| Manner        | **kua mode**  | **da mode**   | **som mode**  | **evri mode** | **no mode**   | **otre mode** | **eni mode**  |
+|               | how           | in that way   | somehow       | in every way  | in no way     | otherwise     | anyway        |
 | Quality       | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   | **otre tipe** | **eni tipe**  |
 |               | what kind of  | that kind of  | some kind of  | all kinds of  | no kind of    |another type of| any kind of   |
 | Quantity      | **kua monte** | **da monte**  | **som monte** | **evri monte**| **no monte**  | **otre monte**| **eni monte** |
 |               | how much      | so much       | some          | all           | none          | other amount  | any amount    |
-| Manner        | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    | **otre vei**  | **eni vei**   |
-|               | how           | in that way   | somehow       | in every way  | in no way     | otherwise     | anyway        |
-

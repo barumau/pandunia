@@ -49,9 +49,13 @@ the topic is the pronoun
 **es mi su doste**
 (is my friend).
 
-In Pandunia, the word **es** functions like _to be_ in English.
+In Pandunia, the word
+**es**
+functions like _to be_ in English.
 The same word is used for all persons.
-And to say the opposite, simply put **no** before it.
+And to say the opposite, simply put
+**no**
+before it.
 
 **da es Sara.**
 = She is Sarah.  
@@ -60,7 +64,7 @@ And to say the opposite, simply put **no** before it.
 
 **mau es hevan.**
 = The cat is an animal.  
-**dom no es hevan.**
+**haus no es hevan.**
 = The house is not an animal.  
 
 In the same way you can describe yourself by saying
@@ -79,8 +83,8 @@ and a word that describes you.
 
 ### Exercises
 
-Try translating these sentences from English to Pandunia. The correct
-answers are after the word list.
+Try translating these sentences from English to Pandunia.
+The correct answers are after the word list.
 
 1. Who are you?
 2. I am Thomas.
@@ -715,7 +719,7 @@ but
 1. da no safi kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da no have vaf i mau. / da have no vaf i no mau.
+4. da no have vaf e mau. / da have no vaf e no mau.
 5. shefe yam cha ama no kafe.
 6. mama have no vaf ama du mau.
 
@@ -757,8 +761,10 @@ before the cause or reason.
 **de sababe di es kavai.**
 = Because they are cute.
 
-Of course **sababe** can also be used to express the cause or reason for
-something, even when not answering to a question.
+Of course,
+**sababe**
+can also be used to express the cause or reason for something,
+even when not answering to a question.
 
 **mi suka mau de sababe di es kavai**
 = I like cats because they are cute.
@@ -785,7 +791,7 @@ at, in, on
 person  
 **suka**
 to like  
-**yang**
+**mode**
 manner, style  
 **zaman**
 period of time
@@ -812,7 +818,7 @@ There are no verb conjugations in Pandunia. All verbs have only one
 form for all times. In a way they are similar to some English verbs,
 such as "to hit", which is the same in all tenses.
 
-**mi dape da.**
+**mi bate da.**
 = I hit it.
 
 In Pandunia all verbs are like that! For example,
@@ -826,7 +832,7 @@ For example when people talk about that morning's breakfast, the sentence tells 
 
 There are also specific time words.
 
-**pas**
+**did**
 = in the past  
 **zai**
 = currently, at the moment  
@@ -845,20 +851,20 @@ They can be used for modifying nouns.
 The same words are used when you talk about actions and events in time.
 Simply put the word before the verb.
 
-**mi did dape da.**
+**mi did bate da.**
 = I hit it (in the past).  
-**mi zai dape da.**
+**mi zai bate da.**
 = I am hitting it (currently).  
-**mi vil dape da.**
+**mi vil bate da.**
 = I will hit it (in the future).
 
 It's also possible to use preposition phrases of time.
 
-**mi dape da a pas.**
+**mi bate da a pas.**
 = I hit it in the past.  
-**mi dape da a zai.**
+**mi bate da a zai.**
 = I hit it at present.  
-**mi dape da a vil.**
+**mi bate da a vil.**
 = I hit it in the future.
 
 
@@ -897,7 +903,7 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**pas**
+**did**
 past, former  
 **zai**
 present, current  
@@ -909,7 +915,7 @@ before
 day, 24 hours  
 **noche**
 night  
-**dape**
+**bate**
 to hit, to beat  
 **ban**
 bread  
@@ -920,8 +926,8 @@ milk
 
 ### Answers to the Exercises
 
-1. mi su shefe festa a sha.
-2. mi have du vaf a pas.
+1. mi su shefe festa a vil.
+2. mi have du vaf a did.
 3. tu yam supe a zai.
 4. da safi kamar a preden.
 5. mau yam milke a posden.

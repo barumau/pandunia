@@ -24,6 +24,6 @@ Elles seront abordées plus en détail plus loin dans ce document.
     - **mi ching tu loga mas ming.** →  **ching loga mas ming.**
       = S'il te plait, parle plus distinctement.
 11. Les mots composés se construisent en mettant les mots-racines l'un à côté de l'autre.
-    - ex. **huri** (liberté) + **-sme** (idéologie) → **hurisme** (libéralisme)
+    - ex. **hure** (liberté) + **-isme** (idéologie) → **hurisme** (libéralisme)
     - ex. **poste** (courrier) + **kase** (boîte) → **poste kase** (boîte à lettres)
 
