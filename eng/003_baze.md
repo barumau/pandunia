@@ -42,11 +42,11 @@ The same word, without any change in form, can serve as a noun, adjective or ver
 
 | Person   | Singular          | Plural       |
 |:---------|:-----------------:|:------------:|
-|          | **mi**            | **vi**    |
+|          | **mi**            | **vi**       |
 | 1st      | _I, me_           | _we, us_     |
-|          | **tu**            | **yu**    |
+|          | **tu**            | **yu**       |
 | 2nd      | _you_             | _you all_    |
-|          | **da**            | **damen**    |
+|          | **da**            | **di**       |
 | 3rd      | _he/she, him/her_ | _they, them_ |
 
 ### Basic sentence structures
@@ -78,7 +78,7 @@ When the direct object is a noun, it is marked apart from the verb by a demonstr
 
 **mi yam un pai.**
 – I eat a pie.  
-**tu yam ye pai.**
+**tu yam da pai.**
 – You eat this pie.
 
 ### Negation
@@ -135,7 +135,7 @@ Tenses and aspects are optionally expressed with the help of adverbs and auxilia
 
 **mi zai love tu.**
 – I am loving you.  
-**mi pas love tu.**
+**mi did love tu.**
 – I loved you.  
 **mi ha love tu.**
 – I have loved you.  
@@ -158,16 +158,16 @@ To modify a noun, put adjectives before it.
 
 **un neu ai**
 – a new love  
-**la hau pai**
+**da hau pai**
 – the good pie
 
 To modify a verb, put adverbs before it.
 The adverb can be tagged with
 **li**.
 
-**mi hau (li) visi tu.**
+**mi hau (li) vize tu.**
 – I see you well.  
-**tu visi li love da.**
+**tu vize li love da.**
 – You seemingly love him/her.
 
 Modifiers are compared with
@@ -184,9 +184,9 @@ The point of comparison is introduced with **ka** 'than, as'.
 
 To ask _yes–or–no_ questions, replace the verb with "(verb) **no** (verb)" pattern or add **he** 'eh, huh' to the end of the sentence.
 
-**tu visi no visi mi?**
+**tu vize no vize mi?**
 – Do you see me?  
-**tu visi mi, he?**
+**tu vize mi, he?**
 – You see me, eh?
 
 To ask a content question, write a normal sentence and replace the word in question with
@@ -206,8 +206,8 @@ To ask a content question, write a normal sentence and replace the word in quest
 
 To state a command, leave out the subject and start the sentence with the verb.
 
-**yam ye pai!**
+**yam da pai!**
 – Eat this pie!  
-**visi vo mau!**
+**vize da mau!**
 – Look at that cat!
 

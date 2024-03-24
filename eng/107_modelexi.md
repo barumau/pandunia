@@ -47,7 +47,7 @@ is placed immediately before the verb.
 
 **tu _suga_ loga.**
 – You talk _fast_.  
-**damen _hau_ kitabe.**
+**di _hau_ kitabe.**
 – They write _well_.
 
 It is common to put the modifying particle
@@ -57,7 +57,7 @@ It makes the structure of the verb phrase clearer.
 
 **tu _mei di_ kitabe.**
 – You write _beautifully_.  
-**damen _suga di_ marche.**
+**di _suga di_ marche.**
 – They walk _fast_.
 
 

@@ -210,7 +210,7 @@ The place of the stress is decided by two simple rules.
 In the examples that follow, primary accent is indicated by an acute accent (*á*) and secondary accent by a grave accent (*à*) over the first vowel of a stressed syllable.
 
 1. Basic words are stressed on the syllable that is before the last consonant of the word.  
-   **hálo! mí vól lóga la háu dúnia básha.**  
+   **hálo! mí vól lóga da háu dúnia básha.**  
    (_Hello! I want to speak the good world language._)
 2. Compound words are stressed according to their component words so that the primary stress is in the main word.  
    **pandúnia e dèmikrátili básha.**  
@@ -388,29 +388,26 @@ The third-person pronoun in Pandunia is **da**.
 It has the remarkable benefit that it can refer to both males and females as well as lifeless objects.
 So it covers the English third-person pronouns _he_, _she_ and _it_, all at once.
 
-The plural and possessive pronouns follow the super simple patterns of Standard Chinese.
-
-Add **men** to form the plural:
-
 | English    | Pandunia   | Chinese    |
 |------------|------------|------------|
 | I          | mi         | wǒ         |
 | you        | tu         | nǐ         |
 | he/she/it  | da         | tā         |
-| we         | vi      | wǒmen      |
-| you all    | yu      | nǐmen      |
-| they       | damen      | tāmen      |
+| we         | vi         | wǒmen      |
+| you all    | yu         | nǐmen      |
+| they       | di         | tāmen      |
 
-Add **se** to form the possessive:
+The possessive pronouns follow the super simple pattern of Standard Chinese.
+Simply add **su** to form the possessive, as below.
 
 | English    | Pandunia   | Chinese    |
 |------------|------------|------------|
-| my         | mi se      | wǒ de      |
-| your       | tu se      | nǐ de      |
-| his/her/its| da se      | tā de      |
-| our        | vi se   | wǒmen de   |
-| your       | yu se   | nǐmen de   |
-| their      | damen se   | tāmen de   |
+| my         | mi su      | wǒ de      |
+| your       | tu su      | nǐ de      |
+| his/her/its| da su      | tā de      |
+| our        | vi su      | wǒmen de   |
+| your       | yu su      | nǐmen de   |
+| their      | di su      | tāmen de   |
 
 By a fortunate coincidence, the second person plural pronoun is identical to Romani (Gypsy) *yu*
 and not far from Hindi-Urdu *tum*.
@@ -470,7 +467,7 @@ is used instead of _am, is, are, was, were..._
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  damen es aple.
+    Pandunia:  di es aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 
 

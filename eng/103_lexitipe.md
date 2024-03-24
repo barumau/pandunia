@@ -99,7 +99,7 @@ whereas content words are translated in the dictionary.
 
 In Pandunia, sentences are held together by a fixed group of structure words.
 They include pronouns (such as **mi** 'I' and **tu** 'you'),
-determiners (such as **un** 'a, one' and **la** 'the')
+determiners (such as **un** 'a, one' and **da** 'the')
 and various grammatical particles (such as the affirmative and negative particles **ya** and **no**).
 Structure words make the syntactical structure easy to see,
 because they mark out the boundaries between sentence constituents.
@@ -146,7 +146,7 @@ as in the table below.
 |-----------------|--------|-------------|--------|-------------------|
 | *suka bacha*    | **ya** | *kitabe*    | **un** | *long letre.*     |
 | The happy child |        | writes      |        | a long letter.    |
-| *yun man*       | **ya** | *visi*      | **un** | *mei parke.*      |
+| *yun man*       | **ya** | *vize*      | **un** | *mei parke.*      |
 | The young man   |        | sees        |        | a beautiful park. |
 | *poli jen*      | **ya** | *vol shope* | **un** | nova dom.*        |
 | Many people     |        | want to buy |        | a new house.      |
@@ -175,14 +175,14 @@ Content words can be classified further into the following word classes:
 
 However, the class of a content word is seldom permanent.
 A word like
-**ai**
+**love**
 ('love') can function as verb, noun or adjective
 depending on its position in the sentence.
 
-*mi **ai** tu.*
+**mi** ***love*** **tu.*
 – I **love** you. (verb)  
-*tu fikre mi se **ai**.*
+**tu fikre mi su** ***love.***
 – You think about my **love**. (noun)  
-**mi kitabe un love anjil.**
+**mi kitabe un** ***love*** **anjil.**
 – I write a **love** letter. (adjective)
 

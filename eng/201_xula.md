@@ -28,13 +28,13 @@ hide:
 **mi es Sara. da es kua?**
 = I am Sara. Who is that?  
 <big>☻</big>
-**da es mi se dosti.**
+**da es mi su doste.**
 = That is my friend.  
 <big>☺</big>
-**da se nam es kua?**
+**da su nam es kua?**
 = What's her name?  
 <big>☻</big>
-**da se nam es Maria.**
+**da su nam es Maria.**
 = Her name is Maria.
 
 ### Grammar
@@ -42,11 +42,11 @@ hide:
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
 tells something about the topic. For instance in
-**da es mi se dosti**
+**da es mi su doste**
 the topic is the pronoun
 **da**
 (he, she, it), which is followed by the comment
-**es mi se dosti**
+**es mi su doste**
 (is my friend).
 
 In Pandunia, the word **es** functions like _to be_ in English.
@@ -112,7 +112,7 @@ to be
 no; not  
 **hau**
 good  
-**dosti**
+**doste**
 friend  
 **nam**
 name  
@@ -129,10 +129,10 @@ animal
 
 1. tu es kua?
 2. mi es Tomas.
-3. tu se dosti es kua?
+3. tu su doste es kua?
 4. da es Sara.
-5. tu se nam es kua?
-6. mi se nam es ........... 
+5. tu su nam es kua?
+6. mi su nam es ........... 
 
 
 --------------------------------------------------------------------------------
@@ -301,7 +301,7 @@ chief, boss
 **chin pa, mi mus ga a zai.**
 = Grandfather, I have to go now.  
 <big>☺</big>
-**okei. ching sal tu se mama!**
+**okei. ching sal tu su mama!**
 = OK. Please tell greetings to your mother.  
 <big>☻</big>
 **mi sal da. sal reste!**
@@ -430,7 +430,7 @@ to go
 coffee  
 **kamar**
 room  
-**la**
+**da**
 the  
 **mus**
 must, have to  
@@ -453,7 +453,7 @@ some, a(n)
 ### Answers to the Exercises
 
 1. da yam cha.
-2. la shefe ching da side.
+2. da shefe ching da side.
 3. ching yam kafe o cha.
 4. mama ching mi safi kamar.
 5. shefe side i yam kafe.
@@ -754,13 +754,13 @@ before the cause or reason.
 
 **kua sababe tu suka mau?**
 = Why do you like cats?  
-**de sababe damen es kavai.**
+**de sababe di es kavai.**
 = Because they are cute.
 
 Of course **sababe** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-**mi suka mau de sababe damen es kavai**
+**mi suka mau de sababe di es kavai**
 = I like cats because they are cute.
 
 ### Exercises
@@ -835,17 +835,17 @@ There are also specific time words.
 
 They can be used for modifying nouns.
 
-**Sara es mi se pas shefe.**
+**Sara es mi su did shefe.**
 = Sarah is my former boss.  
-**Yusef es mi se zai shefe.**
+**Yusef es mi su zai shefe.**
 = Yusef is my current boss.  
-**Maria es mi se vil shefe.**
+**Maria es mi su vil shefe.**
 = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
 Simply put the word before the verb.
 
-**mi pas dape da.**
+**mi did dape da.**
 = I hit it (in the past).  
 **mi zai dape da.**
 = I am hitting it (currently).  
@@ -868,7 +868,7 @@ It is enough to set the stage once in the beginning with a time expression.
 Another time word will not be needed until the tense changes
 or until it becomes useful to stress that you are still talking in the same tense.
 
-**mi pas have un mau.**
+**mi did have un mau.**
 = I had a cat in the past.  
 **da es hau mau.**
 = It was a good cat.  
@@ -880,7 +880,7 @@ time expression is present, other markers are not needed.
 
 **mi be gene a nen 2003.**
 = I was born in 2003.  
-**da safi la kamar a pos den.**
+**da safi da kamar a pos den.**
 = He will clean the room tomorrow.
 
 
@@ -920,10 +920,10 @@ milk
 
 ### Answers to the Exercises
 
-1. mi se shefe festa a sha.
+1. mi su shefe festa a sha.
 2. mi have du vaf a pas.
 3. tu yam supe a zai.
 4. da safi kamar a preden.
 5. mau yam milke a posden.
-6. tu se ma festa a prenoce.
+6. tu su ma festa a prenoce.
 

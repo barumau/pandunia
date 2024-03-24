@@ -59,7 +59,7 @@ in three levels: (1) clause constituents, (2) phrases and (3) words.
         ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐ ┌────┬───┼───┬────┐ ┌───┴────┐
     (3) │det│adj│noun│ │TAM│adv│verb│ │prep│det│adj│noun│ │particle│
         └───┴───┴────┘ └───┴───┴────┘ └────┴───┴───┴────┘ └────────┘
-         da  yun  man   pas  suge marce  a   da  dai dau      he.
+         da  yun  man   did  suge marce  a   da  dai dau      he.
 	     that young man did fast walk   on  the big road     huh
 		 'That young man walked fast on the big road, huh?'
 
@@ -82,13 +82,13 @@ Determiners, like
 'this or these',
 **vo**
 'that or those over there',
-**la**
+**da**
 'that or those', and
 **yo**
 'some',
 help to indicate where noun phrases begin.
 
-**la shau baku meme *ya* van shuru yam *la* hau seng chau.**
+**da shau baku meme *ya* van shuru yam *da* hau seng chau.**
 – The little white sheep want to start to eat that good fresh grass.
 
 
@@ -173,16 +173,16 @@ Compare with:
 The linking verb is used also when structural complexity of subject and/or predicate
 makes the boundary between the two sentence elements doubtful.
 
-**mi se kar mede bacha.**
+**mi su kar mede bacha.**
 – My job helps children.  
-**mi se kar es mede bacha.**
+**mi su kar es mede bacha.**
 –  My job is to help children.
 
 It is also possible to use a pause,
 that is indicated by a dash in writing,
 instead of the linking verb.
 
-**mi se kar – mede bacha.**
+**mi su kar – mede bacha.**
 – My job: to help children.
 
 
@@ -207,7 +207,7 @@ is optional in the same cases as before
 – He doesn't want to be rich.  
 **da no a dom.** ~ **da no es a dom.**
 – He is not at home.  
-**da se kar no es mede bacha.**
+**da su kar no es mede bacha.**
 – His job is not to help children.
 
 
@@ -336,7 +336,7 @@ and the second-most common order by number of languages.
     ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐
     │det│adj│noun│ │TAM│adv│verb│ │det│adj│noun│
     └───┴───┴────┘ └───┴───┴────┘ └───┴───┴────┘
-     la  yun man    pas     visi   un  sen guru.
+     da  yun man    did     vize   un  sen guru.
     'The young man  did     see    an  old guru.'
 
 Transitive clauses are called transitive because they express an event where some energy transits from the subject to the object.
@@ -385,13 +385,13 @@ in the form that the verb describes.
 Consider the following sentence,
 where the child is the agent that departs energy in the form of a push to the ball, the patient.
 
-**la bacha dape la bol.**
+**da bacha dape da bol.**
 – The child hits the ball.
 
 There can also be an instrument that mediates the flow of energy from the agent to the patient.
 The sequence `agent > instrument > patient` reflects the flow of energy in an action chain.
 
-**la bacha uze la bang dape la bol.**
+**da bacha uze da bang dape da bol.**
 – The child uses the bat to hit the ball.
 
 The order of the participants is in line with the order of the action chain in reality.
@@ -406,18 +406,18 @@ For example, in the following sentence, the subject is
 **mi**
 'I',
 the verb is
-**visi**
+**vide**
 'see',
 and the object is
 **tu**
 'you'.
 
-**mi visi tu.**
+**mi vize tu.**
 – I see you.
 
 If the words are arranged in the opposite order, the entire sentence will have the opposite meaning.
 
-**tu visi mi.**
+**tu vize mi.**
 – You see me.
 
 The subject and object roles are related to syntax, which deals with word order and other grammatical phenomena.
@@ -426,13 +426,13 @@ The semantic and syntactic roles can be mapped together in many ways.
 Usually the most energetic semantic participant takes the role of the subject.
 
 1. If there is an agent, it becomes the subject.
-    - ***la bace* uze la bang dape la bol.**
+    - ***da bacha* uze da bang dape da bol.**
       – *The child* uses the bat to hit the ball.  
 2. Otherwise, if there is an instrument, it becomes the subject.
-    - ***la bang* dape la bol.**
+    - ***da bang* dape da bol.**
       – *The bat* hits the ball.  
 3. Otherwise the patient becomes the subject and the clause type becomes intransitive.
-    - ***la bol* dape.**
+    - ***da bol* dape.**
       – *The ball* is hit.
 
 When a sentence consists of a subject and a verb (SV),
@@ -465,7 +465,7 @@ as in the following examples.
 – The cat walks.  
 **sol lume.**
 – The sun shines.  
-**damen lai.**
+**di lai.**
 – They come.  
 
 However, it is possible to clarify the roles of subject and object with the help of the auxiliary verbs
@@ -512,11 +512,11 @@ The **basic pivot construction** is a syntactic realization of an action chain
 that reflects the flow of energy from one participant to another.
 A basic sequence is that of `agent > instrument > patient`.
 
-**da uze un chaku kate la ban.**
+**da uze un chaku kate da ban.**
 – He uses a knife to cut the bread.  
-**da jete la bol dape la dike.**
+**da jete da bol dape da dike.**
 – He throws the ball to hit the target.  
-**mi shofe la karo lai la site.**
+**mi shofe da karo lai da site.**
 – He drives the car to enter the city.
 
 Another common sequence is that of `causer > agent > patient`.
@@ -562,7 +562,7 @@ One may pick any or all participants of the action chain into a sentence
 as long as they stay in the same order.
 In the following example sentence all optional participants and their verbs are enclosed in brackets.
 
-**(mi van) (tu uze) (la chaku) kate la ban (don ma).**
+**(mi van) (tu uze) (da chaku) kate da ban (don ma).**
 – I want you to use the knife to cut the bread and give to mother.
 
 
@@ -589,9 +589,9 @@ The the remaining syntactic structure is `verb₁–verb₂–object`.
 – I ask you to come home.  
 **ching lai dom!**
 – Please come home!  
-**mi amir tu kluze la mun.**
+**mi amir tu kluze da mun.**
 – I command you to shut the door.  
-**amir kluze la mun.**
+**amir kluze da mun.**
 – Shut the door!
 
 
@@ -653,7 +653,7 @@ In Pandunia, the topic can be fronted by using various sentence structures,
 such as passivization and change of word order.
 Consider the following sentence:
 
-**mi visi tu.**
+**mi vize tu.**
 – I see you.
 
 The topic of the sentence is the subject
@@ -665,33 +665,33 @@ can be topicalized by moving it to the front.
 There are several ways how to do it.
 The simplest one involves a simple change of word order and a pause.
 
-**tu – mi visi.**
+**tu – mi vize.**
 – (It's) you I saw.
 
 One can also use the passive construction to a similar effect.
 
-**tu be mi visi.**
+**tu be mi vize.**
 – You were seen by me.
 
 Another way to front the object is to use the relative clause construction.
 
-**tu es ki mi visi.**
+**tu es ki mi vize.**
 – You are the one whom I saw.
 
 This sentence can be made more impactful by fronting the linking verb
 **es**.
 and then even more by dropping the relative pronoun.
 
-**es tu ki mi visi.**
+**es tu ki mi vize.**
 – It's you whom I saw.  
-**es tu mi visi.**
+**es tu mi vize.**
 – It's you I saw.
 
 Finally, the same
 **es...**
 constructions can be used for emphasizing the topicness of the normal subject too.
 
-**es mi ki visi tu.** ~ **es mi visi tu.**
+**es mi ki vize tu.** ~ **es mi vize tu.**
 – It's me who saw you.  
 **es mi ki lai.** ~ **es mi lai.**
 – It's me who came.
@@ -745,11 +745,11 @@ Yes-no questions are answered with
 **no**
 ('no').
 
-**tu visi mi, he?**
+**tu vize mi, he?**
 – Do you see me?  
-**ya. (mi ya visi tu.)**
+**ya. (mi ya vize tu.)**
 – Yes. (I _do_ see you.)  
-**no. (mi no visi tu.)**
+**no. (mi no vize tu.)**
 – No. (I don't see you.)
 
 Negative questions are answered so that
@@ -758,11 +758,11 @@ and
 **no**
 apply to the verb, not the whole question.
 
-**tu no visi mi, he?**
+**tu no vize mi, he?**
 – Don't you see me?  
-**ya. (mi visi tu.)**
+**ya. (mi vize tu.)**
 – Yes. (I see you.)  
-**no. (mi no visi tu.)**
+**no. (mi no vize tu.)**
 – No. (I don't see you.)
 
 
@@ -802,8 +802,8 @@ However, unlike in English, the word order may also be unchanged.
 – You are eating what?  
 **da lai a kua tem?**
 – When does he arrive?  
-**yu vizite a kua jen se dom?**
-– Whose house did you all visit?
+**yu vizite a kua jen su dom?**
+– Whose house did you all vizet?
 
 
 ## Relative clauses
@@ -819,7 +819,7 @@ and it corresponds to English _that_, _who_ and _which_.
 
 In Pandunia, relative clauses are always set off by commas.
 
-**la buke, ki la jen fa kitabe, pada.**
+**da buke, ki da jen fa kitabe, pada.**
 – The book, which the person writes, falls.
 
 It is also possible to leave
@@ -827,34 +827,34 @@ It is also possible to leave
 out.
 This structure is called _reduced relative clause_.
 
-**la buke, la jen fa kitabe, pada.**
+**da buke, da jen fa kitabe, pada.**
 – The book the person writes falls.
 
 The relative pronoun is necessary
 when the relativized noun is the subject of the relative clause.
 
-**la jen, ki fa kitabe la buke, pada.**
+**da jen, ki fa kitabe da buke, pada.**
 – The person that writes the book falls.
 
 Also the object noun of a preposition can be the target of the relative clause.
 It's possible to use relative pronouns or the reduced relative clause structure.
 
-**la kalam, a ki la jen fa kitabe la buke, pada.**
+**da kalam, a ki da jen fa kitabe da buke, pada.**
 – The pen, with _which_ the person writes the book, falls.  
-**la kalam, la jen fa kitabe la buke a, pada.**
+**da kalam, da jen fa kitabe da buke a, pada.**
 – The pen the person writes the book with falls.
 
 The relative pronoun can be put in its right place in the pivot structure
 or it can be left out by using the reduced relative clause structure.
 
-**la jen, mi visi ki fa kitabe la buke, pada.**
+**da jen, mi vize ki fa kitabe da buke, pada.**
 – The person, whom I see write the book, falls.  
-**la jen, mi visi fa kitabe la buke, pada.**
+**da jen, mi vize fa kitabe da buke, pada.**
 – The person that I see write the book falls.  
 
 Also a _resumptive relative pronoun_ can be used if needed.
 
-**la jen, mi fa kitabe la buke na ki se kalam, padu.**
+**da jen, mi fa kitabe da buke na ki su kalam, padu.**
 – The person whose pen I write the book with falls.
 
 
@@ -866,19 +866,19 @@ In Pandunia they are typically introduced with the conjunction
 
 **mi nou ki tu es doste.**
 – I know that you are a friend.  
-**damen fikre ki vi ha chute.**
+**di fikre ki vi ha chute.**
 – They think that we have left.
 
 A content clause can be placed before or after the clause that talks about it.
 The demonstrative
 **vo**
 points to the following content clause and
-**la**
+**da**
 points to the previous one.
 
-**vo es bari, ki mi no ha visi damen.**
+**vo es bari, ki mi no ha vize di.**
 – _It_ is important _that I haven't seen them_.  
-**ki pan jen be sana ka par, la es klar.**
+**ki pan jen be sana ka par, da es klar.**
 – _That all people are created as equals_; _it_ is clear.
 
 The content clause marker
@@ -890,9 +890,9 @@ can be combined to the prepositions in order to construct conjunctions of cause 
 **de ki**
 – because, for the reason that
 
-**mi dugu ye buke _to ki_ mi trapas la teste.**
+**mi dugu ye buke _to ki_ mi trapas da teste.**
 – I read this book so that I will pass the test.  
-**mi ha trapas la teste _de ki_ mi dugu la buke.**
+**mi ha trapas da teste _de ki_ mi dugu da buke.**
 – I have passed the test because I read the book.
 
 
@@ -967,27 +967,27 @@ The word **no** is used for denying anything.
 It affects always the next word.
 Different scopes of negation may result depending on the location of the negative word.
 
-**mi visi tu.**
+**mi vize tu.**
 – I see you.  
-**mi no visi tu.**
+**mi no vize tu.**
 – I don't see you.  
-**mi visi no tu ama damen.**
+**mi vize no tu ama di.**
 – I see, not you, but them.
 
-**mi ching tu safi la kamar.**
+**mi ching tu safi da kamar.**
 – I ask you to clean the room.  
-**mi no ching tu safi la kamar.**
+**mi no ching tu safi da kamar.**
 – I do NOT ask you to clean the room.  
-**mi ching tu no safi la kamar.**
+**mi ching tu no safi da kamar.**
 – I ask you NOT to clean the room.
 
 Particles **ya** and **no** are used also for answering questions.
 
-**sual tu visi mi?** 
+**sual tu vize mi?** 
 – Do you see me?  
-**ya. (mi ya visi tu.)** 
+**ya. (mi ya vize tu.)** 
 – Yes. (I do see you.)  
-**no. (mi no visi tu.)** 
+**no. (mi no vize tu.)** 
 – No. (I don't see you.)
 
 Negative questions are answered so that
@@ -996,11 +996,11 @@ and
 **no**
 apply to the verb alone and not the sentence as a whole.
 
-**sual tu no visi mi?** 
+**sual tu no vize mi?** 
 – Don't you see me?  
-**ya. (mi ya visi tu.)** 
+**ya. (mi ya vize tu.)** 
 – Yes. (I do see you.)  
-**no. (mi no visi tu.)** 
+**no. (mi no vize tu.)** 
 – No. (I don't see you.)
 
 ### Modifier particles
@@ -1052,7 +1052,7 @@ Verb phrases can also be made into modifiers in this way, but any objects must b
 
 **shute de grafe pente**
 – the art of picture-painting (the art of painting pictures)  
-**ale se mede se suka**
+**ale su mede su suka**
 – the joy of others-helping (the joy of helping others)
 
 #### Possession
@@ -1062,24 +1062,24 @@ The possessive particle
 works like the apostrophe-s ('s) in English.
 It indicates that the previous word has possession of the next one.
 
-**Maria se mama**
+**Maria su mama**
 – Maria's mother  
-**Maria se mama se dom**
+**Maria su mama su dom**
 – Maria's mother's house
 
 The same particle is used with with personal pronouns too.
 
-**mi se dom**
+**mi su dom**
 – my house  
-**tu se dom**
+**tu su dom**
 – your house  
-**da se dom**
+**da su dom**
 – his or her house  
-**vi se dom**
+**vi su dom**
 – our house  
-**yu se dom**
+**yu su dom**
 – your house  
-**damen se dom**
+**di su dom**
 – their house
 
 
@@ -1089,16 +1089,16 @@ In Pandunia, tense can be expressed with time words and time phrases if needed.
 The general time words are **pas** (past), **zai** (present) and **xa** (future, upcoming).
 They function like adverbs, so typically their place is before the verb.
 
-**mi pas have mau.**
+**mi did have mau.**
 – I had cats.  
 **ama mi no zai have mau.**
 – But I now don't have cats.  
 **bil ki mi sha have mau.**
 – Maybe I will have cats.
 
-It's also possible to say it in a longer way like **na pas zaman** (in the past) etc.
+It's also possible to say it in a longer way like **na did zaman** (in the past) etc.
 
-**mi have mau a pas zaman.**
+**mi have mau a did zaman.**
 – I had cats in the past.  
 **ama mi no have mau a zai zaman.**
 – But I don't have cats at present.  
@@ -1198,7 +1198,7 @@ or indicates agreement.
 The speaker is absolutely sure of what they are saying.
 It can be translated as *indeed* or *truly*.
 
-**mi ha visi tu ya.**
+**mi ha vize tu ya.**
 – I truly saw you.  
 **da ver, ya.**
 – It is true indeed.  

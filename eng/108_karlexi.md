@@ -22,7 +22,7 @@ For example, the verb
 – We are friends.  
 **_yu_ es doste.**
 – You are friends.  
-**_damen_ es doste.**
+**_di_ es doste.**
 – They are friends.
 
 Also a noun can serve as subject.
@@ -169,7 +169,7 @@ The preposition
 **a**
 denotes a destination, goal or purpose, 'to, toward, for'.
 
-**damen marche a bazar.**
+**di marche a bazar.**
 – They walk to the market.  
 **mi van don ye buke a tu.**
 – I want to give this book to you.
@@ -187,7 +187,7 @@ denotes an instrument or tool, 'with, by, by means of'.
 
 It also denotes means of exchange, 'for'.
 
-**da shope la juba bi unli 20 euro.**
+**da shope da juba bi unli 20 euro.**
 – She bought the dress for only 20 euros.
 
 It also denotes the language of speech or a text, 'in'.
@@ -203,7 +203,7 @@ The preposition
 **de**
 denotes separation or departure, 'off, away from, from'.
 
-**damen lai de Brazil.**
+**di lai de Brazil.**
 – They come from Brazil.
 
 #### ex
@@ -212,7 +212,7 @@ The preposition
 **ex**
 denotes location on the outside, 'out, outside'.
 
-**deme ya proteste ex la burge.**
+**deme ya proteste ex da burge.**
 – People protest outside the castle.
 
 #### in
@@ -221,7 +221,7 @@ The preposition
 **in**
 denotes location on the inside, 'in, inside'.
 
-**zulmivan ya sir in la burgi.**
+**zulmivan ya sir in da burgi.**
 – The tyrant hides in the castle.
 
 #### kon
@@ -230,7 +230,7 @@ The preposition
 **kon**
 denotes togetherness, 'with, in the company of'.
 
-**da loge kon la shefe.**
+**da loge kon da shefe.**
 – He/she speaks with the boss.
 
 #### pos
@@ -239,7 +239,7 @@ The preposition
 **pos**
 denotes later position in time or space, 'after, later than'.
 
-**damen lai pos mi.**
+**di lai pos mi.**
 – They come after me.
 
 #### pre
@@ -248,7 +248,7 @@ The preposition
 **pre**
 denotes earlier position in time or space, 'before, in front of'.
 
-**damen lai pre mi.**
+**di lai pre mi.**
 – They come before me.
 
 #### pro
@@ -266,7 +266,7 @@ The preposition
 **re**
 denotes movement back, 'back, in return'.
 
-**da don la buke re mi.**
+**da don da buke re mi.**
 – He gave the book back to me.
 
 #### tra

@@ -336,16 +336,16 @@ Add
 (you all)  
 **da**
 (he, she, it) →
-**damen**
+**di**
 (they)
 
 **vi sal yu.**
 We greet you all.
 
-**yu sal damen.**
+**yu sal di.**
 You greet them.
 
-**damen sal vi!**
+**di sal vi!**
 They greet us.
 
 **vi es fem.**
@@ -354,7 +354,7 @@ We are women.
 **yu es man.**
 You are men.
 
-**damen es aple.**
+**di es aple.**
 They are apples.
 
 
@@ -376,7 +376,7 @@ She is Sarah.
 **yu es kua?**
 Who are you people?
 
-**damen es kua?**
+**di es kua?**
 Who are they?
 
 <small>Etymology. **kua** is from
@@ -407,23 +407,23 @@ This apple is red.
 **ye es rubi.**
 This is red.
 
-**damen a kua?**
+**di a kua?**
 Where are they?
 
-**damen a ye.**
+**di a ye.**
 They are here.
 
-**damen a vo.**
+**di a vo.**
 They are there.
 
 
 
-### se <small>'s (possessive particle)</small>
+### su <small>'s (possessive particle)</small>
 
 **ye es kua?**
 What's this?
 
-**da es mi se telefon.**
+**da es mi su telefon.**
 It's my telephone.
 
 **ye es kua su?**
@@ -443,10 +443,10 @@ means "your" and so on.
 **da es kua?**
 Who's he/she?
 
-**da es mi se dosti.**
+**da es mi su doste.**
 He/she is my friend.
 
-**mi es Sara se dosti.**
+**mi es Sara su doste.**
 I am Sarah's friend.
 
 It's also possible to end a sentence with
@@ -454,9 +454,9 @@ It's also possible to end a sentence with
 
 **mau es mi su.**
 The cat is mine.  
-**pesa es damen su.**
+**pesa es di su.**
 The money is theirs.  
-**dosti es sara su.**
+**doste es sara su.**
 The friend is Sara's.
 
 <small>Etymology. **su** is from
@@ -468,16 +468,16 @@ Spanish *su*.</small>
 
 ### nam <small>name</small>
 
-**tu se nam es kua?**
+**tu su nam es kua?**
 What's your name?
 
-**mi se nam es Tomas.**
+**mi su nam es Tomas.**
 My name is Thomas.
 
-**da se nam es kua?**
+**da su nam es kua?**
 What is his/her name?
 
-**da se nam es Sara.**
+**da su nam es Sara.**
 Her name is Sarah.
 
 <small>Etymology. **nam** is from
@@ -525,10 +525,10 @@ I know him/her/it.
 **sual tu nou vo jen?**
 Do you know that person?
 
-**sual yu nou semen?**
+**sual yu nou unotre?**
 Do you know each other?
 
-**vi nou semen de long.**
+**vi nou unotre de long.**
 We know each other for a long time.
 
 
@@ -557,7 +557,7 @@ Would you like to eat something?
 **da yam un aple.**
 He/she eats an apple.
 
-**damen yam aple.**
+**di yam aple.**
 They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms.
@@ -670,7 +670,7 @@ Sorry, I don't understand.
 **maf! ye es kua?**
 Excuse me, what's this?
 
-**maf. tu se nam es kua?**
+**maf. tu su nam es kua?**
 Excuse me, what's your name?
 
 
@@ -715,7 +715,7 @@ I can speak a little Pandunia.
 **mi no ken english.**
 I can't speak English.
 
-**maf. mi no ken tu se basha.**
+**maf. mi no ken tu su basha.**
 Sorry, I can't speak your language.
 
 
@@ -727,7 +727,7 @@ What did you say?
 **mi loga to tu.**
 I talk to you.
 
-**vi loga to semen.**
+**vi loga to unotre.**
 We talk to each other.
 
 **men loga**
@@ -761,18 +761,18 @@ I listen to music.
 What kind of music do you listen to?
 
 
-### visi <small>to see</small>
+### vize <small>to see</small>
 
-**suka visi tu.**
+**suka vize tu.**
 Pleased to see you!
 
-**to rivisi!**
+**to rivize!**
 See you again!
 
-**visi tu a posden!**
+**vize tu a posden!**
 See you tomorrow!
 
-**mi visi da a preden.**
+**mi vize da a preden.**
 I saw him/her yesterday.
 
 
@@ -793,7 +793,7 @@ I don't understand what it means.
 
 ### kitabe <small>write</small>
 
-**ching kitabe tu se adres.**
+**ching kitabe tu su adres.**
 Please, write your address.
 
 **ching kitabe da a ye.**
@@ -922,7 +922,7 @@ Please wait!
 **dele mi!**
 Wait for me!
 
-**damen dele vi.**
+**di dele vi.**
 They wait for us.
 
 **mi dele tu a hotel.**
@@ -933,10 +933,10 @@ I wait for you in the hotel.
 
 ### zai <small>currently</small>
 
-**mi zai sal tu se dosti.**  
+**mi zai sal tu su doste.**  
 I am greeting your friend.
 
-**la man ya zai visi un filme.**  
+**da man ya zai vize un filme.**  
 The man is watching a film.
 
 **da zai es shefe.**  
@@ -946,42 +946,42 @@ He/she is currently the chief.
 He/she is currently at home.
 
 
-### pas <small>in the past</small>
+### did <small>in the past</small>
 
-**mi pas sal tu se dosti.**  
+**mi did sal tu su doste.**  
 I greeted your friend.
 
-**la man pas visi un filme.**  
+**da man did vize un filme.**  
 The man watched a film.
 
-**da pas es shefe.**  
+**da did es shefe.**  
 He/she was the chief.
 
-**da pas es a dom.**  
+**da did es a dom.**  
 He/she was at home.
 
 
 ### ha <small>already, completed</small>
 
-**mi ha sal tu se dosti.**  
+**mi ha sal tu su doste.**  
 I have greeted your friend.
 
-**la man ha visi un filme.**  
+**da man ha vize un filme.**  
 The man has watched a film.
 
 **da ha es shefe.**  
 He/she has been the chief.
 
-**da ha a la dom.**  
+**da ha a da dom.**  
 He/she has been at home.
 
 
 ### vil <small>in the future</small>
 
-**mi vil sal tu se dosti.**  
+**mi vil sal tu su doste.**  
 I will greet your friend.
 
-**la man vil visi la filme.**  
+**da man vil vize da filme.**  
 The man will watch the film.
 
 **da vil es shefe.**  
@@ -1006,7 +1006,7 @@ Please give it to me.
 **mi don ye to tu.**
 I give this to you.
 
-**mi don buke to damen.**
+**mi don buke to di.**
 I give a book to them.
 
 **da no van don da to mi.**
@@ -1021,7 +1021,7 @@ I will take a coffee.
 **ching sepe un kafe to mi.**
 Please take one coffee for me.
 
-**tu pas sepe pesa de mi.**
+**tu did sepe pesa de mi.**
 You already got money from me before.
 
 **mi sepe un bir.**
@@ -1033,7 +1033,7 @@ I will take a beer.
 **kira es 500 dolar a mes.**  
 The rent is 500 dollars in a month.
 
-**da no ken pei la kira.**  
+**da no ken pei da kira.**  
 He/she can't pay the rent.
 
 **mi van sepe un karo a kira.**  
@@ -1042,7 +1042,7 @@ I want to take a car for rent.
 **mi van kira sepe un karo.**
 I want to rent a car.
 
-**da kira don la kamar to safartor.**
+**da kira don da kamar to safartor.**
 He/she rents rooms to travelers.
 
 
@@ -1054,7 +1054,7 @@ Tip: Buying and selling a compound words: **mai dar**
 means _to sell_ and **mai kap**
 means _to buy_.
 
-**damen mai don pan.**
+**di mai don pan.**
 They sell everything.
 
 **mi mai kapa un bir.**

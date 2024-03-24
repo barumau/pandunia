@@ -36,15 +36,15 @@ It is also the most common first-person plural pronoun,
 and the other two are used only occasionally.
 
 The possessive pronouns consists of the personal pronoun and the possessive particle
-**se**.
+**su**.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mi se**   | **vi se**    |
+| **mi su**   | **vi su**    |
 | my          | our          |
-| **tu se**   | **yu se**    |
+| **tu su**   | **yu su**    |
 | your        | your         |
-| **da se**   | **di se**    |
+| **da su**   | **di su**    |
 | his or her  | their        |
 
 
@@ -58,11 +58,11 @@ The reflexive pronoun is used when the object of a sentence is the same as the s
 Note! The same reflexive pronoun is used for all persons,
 so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, _ourselves_ and _themselves_ all at once.
 
-**mi visi selfe.**
+**mi vize selfe.**
 – I see myself.  
-**da visi selfe.**
+**da vize selfe.**
 – She sees herself. / He sees himself. / It sees itself.  
-**vi visi selfe.**
+**vi vize selfe.**
 – We see ourselves.
 
 The expression
@@ -72,9 +72,9 @@ is used as the reciprocal pronoun.
 **unotre**
 – each other, one another
 
-**mi e tu visi unotre.**
+**mi e tu vize unotre.**
 – Me and you see each other.  
-**vi visi unotre.**
+**vi vize unotre.**
 – We see each other.
 
 
@@ -131,7 +131,7 @@ there needs to be a modal particle,
 like **ya** or **no**,
 between the subject and the verb.
 
-**mi visi du jen.**
+**mi vize du jen.**
 – I see two persons.  
 **da hir ya gani e da der no gani.**
 – This one sings and that one doesn't sing.
@@ -236,7 +236,7 @@ Pandunia's pronominal phrases can be arranged in a regular table of pronominals 
 | Quality       | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   | **otre tipe** | **eni tipe**  |
 |               | what kind of  | that kind of  | some kind of  | all kinds of  | no kind of    |another type of| any kind of   |
 | Quantity      | **kua monte** | **da monte**  | **som monte** | **evri monte**| **no monte**  | **otre monte**| **eni monte** |
-|               | how much      | so much       | some          | whole amount  | no amount     | other amount  | any amount    |
+|               | how much      | so much       | some          | all           | none          | other amount  | any amount    |
 | Manner        | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    | **otre vei**  | **eni vei**   |
 |               | how           | in that way   | somehow       | in every way  | in no way     | otherwise     | anyway        |
 
