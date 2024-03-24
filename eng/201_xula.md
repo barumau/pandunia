@@ -19,22 +19,22 @@ hide:
 **sal!**
 = Hello!  
 <big>☺</big>
-**tu e ke?**
+**tu es kua?**
 = Who are you?  
 <big>☻</big>
-**mi e Yusef. tu e ke?**
+**mi es Yusef. tu es kua?**
 = I am Yusef. Who are you?  
 <big>☺</big>
-**mi e Sara. da e ke?**
+**mi es Sara. da es kua?**
 = I am Sara. Who is that?  
 <big>☻</big>
-**da e mi su dosti.**
+**da es mi su doste.**
 = That is my friend.  
 <big>☺</big>
-**da su nam e ke?**
+**da su nam es kua?**
 = What's her name?  
 <big>☻</big>
-**da su nam e Maria.**
+**da su nam es Maria.**
 = Her name is Maria.
 
 ### Grammar
@@ -42,38 +42,38 @@ hide:
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
 tells something about the topic. For instance in
-**da e mi su dosti**
+**da es mi su doste**
 the topic is the pronoun
 **da**
 (he, she, it), which is followed by the comment
-**es mi su dosti**
+**es mi su doste**
 (is my friend).
 
 In Pandunia, the word **es** functions like _to be_ in English.
 The same word is used for all persons.
 And to say the opposite, simply put **no** before it.
 
-**da e Sara.**
+**da es Sara.**
 = She is Sarah.  
-**da no e Sara.**
+**da no es Sara.**
 = She is not Sarah.
 
-**mau e hevan.**
+**mau es hevan.**
 = The cat is an animal.  
-**dom no e hevan.**
+**dom no es hevan.**
 = The house is not an animal.  
 
 In the same way you can describe yourself by saying
 **mi es**
 and a word that describes you.
 
-**mi e hau.**
+**mi es hau.**
 = I'm good.  
-**mi e man.**
+**mi es man.**
 = I'm a man.  
-**mi e fem.**
+**mi es fem.**
 = I'm a woman.  
-**mi e nobi.**
+**mi es nobi.**
 = I'm non-binary.
 
 
@@ -104,15 +104,15 @@ your
 he, she or it  
 **da su**
 his, her, its  
-**ke**
+**kua**
 who or what  
-**e**
+**es**
 to be  
 **no**
 no; not  
 **hau**
 good  
-**dosti**
+**doste**
 friend  
 **nam**
 name  
@@ -127,12 +127,12 @@ animal
 
 ### Answers to the Exercises
 
-1. tu e ke?
-2. mi e Tomas.
-3. tu su dosti e ke?
-4. da e Sara.
-5. tu su nam e ke?
-6. mi su nam e ........... 
+1. tu es kua?
+2. mi es Tomas.
+3. tu su doste es kua?
+4. da es Sara.
+5. tu su nam es kua?
+6. mi su nam es ........... 
 
 
 --------------------------------------------------------------------------------
@@ -294,14 +294,14 @@ chief, boss
 **ching yam kafe o cha.**
 = Please have some coffee or tea.  
 <big>☻</big>
-**ama mi yam un di cha! shukre.**
-= But I drink only tea! Thank you.  
+**ama mi un li yam cha! shukre.**
+= But I only drink tea! Thank you.  
 ...  
 <big>☻</big>
 **chin pa, mi mus ga a zai.**
 = Grandfather, I have to go now.  
 <big>☺</big>
-**oke. ching sal tu su mama!**
+**okei. ching sal tu su mama!**
 = OK. Please tell greetings to your mother.  
 <big>☻</big>
 **mi sal da. sal reste!**
@@ -430,7 +430,7 @@ to go
 coffee  
 **kamar**
 room  
-**la**
+**da**
 the  
 **mus**
 must, have to  
@@ -453,7 +453,7 @@ some, a(n)
 ### Answers to the Exercises
 
 1. da yam cha.
-2. la shefe ching da side.
+2. da shefe ching da side.
 3. ching yam kafe o cha.
 4. mama ching mi safi kamar.
 5. shefe side i yam kafe.
@@ -500,7 +500,7 @@ some, a(n)
 **no yam.**
 = No.  
 <big>☺</big>
-**shukre. mi don un cha i un kafe i un supe pos des minute.**
+**shukre. mi don un cha e un kafe e un supe pos des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -529,7 +529,7 @@ discussion.
 = Does he/she drink tea?  
 **sual tu yam supe?**
 = Do you eat soup?  
-**sual mimen yam sui?**
+**sual vi yam sui?**
 = Do we drink water?
 
 Of course common and proper nouns can also be used.
@@ -667,13 +667,13 @@ of the negative word.
 The negated word can be of any type: verb, pronoun, noun, adjective
 and even numeral.
 
-**da no ha mau.**
+**da no have mau.**
 = She doesn't have a cat.  
-**da ha no mau, ama vaf.**
+**da have no mau, ama vaf.**
 = She has no cats but dogs.  
-**no da, ama mi ha mau.**
+**no da, ama mi have mau.**
 = Not she but I have cats. (It's not her, but me who has cats.)  
-**mi ha no un, ama du mau.**
+**mi have no un, ama du mau.**
 = I have not one but two cats.
 
 
@@ -715,9 +715,9 @@ but
 1. da no safi kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da no ha vaf i mau. / da ha no vaf i no mau.
+4. da no have vaf i mau. / da have no vaf i no mau.
 5. shefe yam cha ama no kafe.
-6. mama ha no vaf ama du mau.
+6. mama have no vaf ama du mau.
 
 
 --------------------------------------------------------------------------------
@@ -725,42 +725,42 @@ but
 ## More Questions
 
 To ask questions beginning with _what_, _which_, _how_, _who_ and
-_when_, the interrogative pronoun **ke** is normally used. The
+_when_, the interrogative pronoun **kua** is normally used. The
 question can be made more specific by adding words for person, time,
 manner or thing if needed.
 
-**da e ke?**
+**da es kua?**
 = What is that? / Who is (s)he?  
-**da e ke jen?**
+**da es kua jen?**
 = Who is he/she?  
-**da e ke she?**
+**da es kua ting?**
 = What (thing) is it?  
-**ke jen lai?**
+**kua jen lai?**
 = Who is coming? (**jen** = person)  
-**tu yam a ke zaman?**
-= When do you eat? (**zaman** = time)  
-**men danse a ke mode?**
+**tu yam a kua tem?**
+= When do you eat? (**tem** = time)  
+**von danse a kua mode?**
 = How to dance? (**mode** = manner, style)
 
 In Pandunia, questions beginning with _why_ are asked using
-**ke sabu**.
+**kua sababe**.
 
-**ke sabu tu suka mau?**
+**kua sababe tu suka mau?**
 = Why do you like cats?
 
 Questions asking about the cause or reason of something, are answered by adding
-**de sabu**
+**de sababe**
 before the cause or reason.
 
-**ke sabu tu suka mau?**
+**kua sababe tu suka mau?**
 = Why do you like cats?  
-**de sabu damen e kavai.**
+**de sababe di es kavai.**
 = Because they are cute.
 
-Of course **sabu** can also be used to express the cause or reason for
+Of course **sababe** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-**mi suka mau de sabu damen e kavai**
+**mi suka mau de sababe di es kavai**
 = I like cats because they are cute.
 
 ### Exercises
@@ -794,11 +794,11 @@ period of time
 ### Answers to the Exercises
 
 
-1. ke jen suka supe?
+1. kua jen suka supe?
 2. papa suka.
-3. ke zaman da lai?
+3. kua tem da lai?
 4. pos des minute.
-5. ke sabu da no yam?
+5. kua sababe da no yam?
 6. de sabu da no suka kafe i supe.
 
 
@@ -826,28 +826,30 @@ For example when people talk about that morning's breakfast, the sentence tells 
 
 There are also specific time words.
 
+**pas**
+= in the past  
 **zai**
 = currently, at the moment  
-**sha**
+**vil**
 = later, in the future
 
 They can be used for modifying nouns.
 
-**Sara e mi su pas shefe.**
+**Sara es mi su did shefe.**
 = Sarah is my former boss.  
-**Yusef e mi su zai shefe.**
+**Yusef es mi su zai shefe.**
 = Yusef is my current boss.  
-**Maria e mi su sha shefe.**
+**Maria es mi su vil shefe.**
 = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
 Simply put the word before the verb.
 
-**mi pas dape da.**
+**mi did dape da.**
 = I hit it (in the past).  
 **mi zai dape da.**
 = I am hitting it (currently).  
-**mi sha dape da.**
+**mi vil dape da.**
 = I will hit it (in the future).
 
 It's also possible to use preposition phrases of time.
@@ -856,7 +858,7 @@ It's also possible to use preposition phrases of time.
 = I hit it in the past.  
 **mi dape da a zai.**
 = I hit it at present.  
-**mi dape da a sha.**
+**mi dape da a vil.**
 = I hit it in the future.
 
 
@@ -866,11 +868,11 @@ It is enough to set the stage once in the beginning with a time expression.
 Another time word will not be needed until the tense changes
 or until it becomes useful to stress that you are still talking in the same tense.
 
-**mi pas ha un mau.**
+**mi did have un mau.**
 = I had a cat in the past.  
-**da e hau mau.**
+**da es hau mau.**
 = It was a good cat.  
-**mi ha un vaf a zai.**
+**mi have un vaf a zai.**
 = I have a dog now.
 
 Any expression of time is good for expressing the tense. When one
@@ -878,7 +880,7 @@ time expression is present, other markers are not needed.
 
 **mi be gene a nen 2003.**
 = I was born in 2003.  
-**da safi la kamar a pos den.**
+**da safi da kamar a pos den.**
 = He will clean the room tomorrow.
 
 
@@ -899,8 +901,8 @@ Try translating these sentences from English to Pandunia.
 past, former  
 **zai**
 present, current  
-**sha**
-future  
+**vil**
+will, future tense marker  
 **pre**
 before  
 **den**
@@ -919,7 +921,7 @@ milk
 ### Answers to the Exercises
 
 1. mi su shefe festa a sha.
-2. mi ha du vaf a pas.
+2. mi have du vaf a pas.
 3. tu yam supe a zai.
 4. da safi kamar a preden.
 5. mau yam milke a posden.

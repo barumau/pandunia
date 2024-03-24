@@ -9,8 +9,8 @@ Like all words in Pandunia, nouns don't ever change in form.
 The same word form is always used, no matter whether the referred thing is singular or plural, definite or indefinite, subject or object, etc.
 Therefore the same Pandunia word form can correspond to many different word forms in English.
 
-**ite**
-– a stone, stones, the stone, or the stones  
+**haus**
+– a house, houses, the house, or the houses  
 **meza**
 – a table, tables, the table, or the tables  
 **kursi**
@@ -58,15 +58,17 @@ It is done simply by inserting a number or a quantity word before the noun.
 
 It is possible to specify plurality also by reduplication, by saying the noun two times.
 
-**ite ite**
-– stones and stones, a variety of stones  
-**buku buku**
+**haus haus**
+– houses and houses, a variety of houses  
+**buke buke**
 – books and books, a variety of books
 
 Quantity words should not be used together with reduplication.
 Therefore, a phrase like
-**men buku buku**
-is superfluous.
+**tri buke buke**
+would be superfluous, whereas
+**tri buke**
+('three books') is just perfect.
 
 ## Proper names
 

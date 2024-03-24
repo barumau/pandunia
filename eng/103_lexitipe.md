@@ -27,9 +27,9 @@ which does not change according to number, case, gender, tense, mood or
 any of the other inflectional categories known from other languages.
 Compare, for example, what happens to the words in the following two sentences in Pandunia and English.
 
-1. *mi ai da.*
+1. *mi love da.*
    – I love him.
-2. *da ai mi.*
+2. *da love mi.*
    – He loves me.
 
 In Pandunia, the subject and object simply change places and that's it.
@@ -99,7 +99,7 @@ whereas content words are translated in the dictionary.
 
 In Pandunia, sentences are held together by a fixed group of structure words.
 They include pronouns (such as **mi** 'I' and **tu** 'you'),
-determiners (such as **un** 'a, one' and **la** 'the')
+determiners (such as **un** 'a, one' and **da** 'the')
 and various grammatical particles (such as the affirmative and negative particles **ya** and **no**).
 Structure words make the syntactical structure easy to see,
 because they mark out the boundaries between sentence constituents.
@@ -144,9 +144,9 @@ as in the table below.
 
 | Subject         | TAM    | Predicate   | Det.   | Object            |
 |-----------------|--------|-------------|--------|-------------------|
-| *suka bacha*    | **ya** | *kitabi*    | **un** | *long letre.*     |
+| *suka bacha*    | **ya** | *kitabe*    | **un** | *long letre.*     |
 | The happy child |        | writes      |        | a long letter.    |
-| *jun man*       | **ya** | *visi*      | **un** | *mei parke.*      |
+| *yun man*       | **ya** | *vize*      | **un** | *mei parke.*      |
 | The young man   |        | sees        |        | a beautiful park. |
 | *poli jen*      | **ya** | *vol shope* | **un** | nova dom.*        |
 | Many people     |        | want to buy |        | a new house.      |
@@ -175,14 +175,14 @@ Content words can be classified further into the following word classes:
 
 However, the class of a content word is seldom permanent.
 A word like
-**ai**
+**love**
 ('love') can function as verb, noun or adjective
 depending on its position in the sentence.
 
-*mi **ai** tu.*
+**mi** ***love*** **tu.*
 – I **love** you. (verb)  
-*tu fikre mi su **ai**.*
+**tu fikre mi su** ***love.***
 – You think about my **love**. (noun)  
-**mi kitabi un ai anjil.**
+**mi kitabe un** ***love*** **anjil.**
 – I write a **love** letter. (adjective)
 

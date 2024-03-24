@@ -42,11 +42,11 @@ The same word, without any change in form, can serve as a noun, adjective or ver
 
 | Person   | Singular          | Plural       |
 |:---------|:-----------------:|:------------:|
-|          | **mi**            | **mimen**    |
+|          | **mi**            | **vi**       |
 | 1st      | _I, me_           | _we, us_     |
-|          | **tu**            | **tumen**    |
+|          | **tu**            | **yu**       |
 | 2nd      | _you_             | _you all_    |
-|          | **da**            | **damen**    |
+|          | **da**            | **di**       |
 | 3rd      | _he/she, him/her_ | _they, them_ |
 
 ### Basic sentence structures
@@ -71,14 +71,14 @@ If the subject is a personal pronoun, the **ya** is left out.
 The basic word order is subject–verb–object
 – the same as in English!
 
-**mi ai tu.**
+**mi love tu.**
 – I love you.
 
 When the direct object is a noun, it is marked apart from the verb by a demonstrative pronoun, numeral or another determiner.
 
 **mi yam un pai.**
 – I eat a pie.  
-**tu yam ye pai.**
+**tu yam da pai.**
 – You eat this pie.
 
 ### Negation
@@ -97,28 +97,28 @@ The verb
 means 'to be'.
 It can be left out in very simple sentences.
 
-**mi e jen.**
+**mi es jen.**
 – I am a person.  
 **mi jen.**
 – I'm a person.
 
 It can't be left out when it is part of a serial verb.
 
-**mi vol e mau.**
+**mi van es mau.**
 – I want to be a cat.  
-**mi vol mau!**
+**mi van mau!**
 – I want a cat!
 
 ### Multi-purpose words
 
 Pandunia words can be ambiguous because they often have more meanings compared to English.
 
-**da ai mau.**
+**da love mau.**
 – He loves cats. / She loved a cat. / He/she will love the cat.
 
 But actually the meaning is clear in the real context:
 
-**pre tri nen, mi ha du mau i un vaf. mi ha mas un fem ben. da ai mau!**
+**pre tri nen, mi have du mau e un vaf. mi have mas un fem ben. da love mau!**
 – Three years ago, I had two cats and a dog. I also had a daughter. _She loved the cats!_
 
 ### Time
@@ -128,18 +128,18 @@ Tenses and aspects are optionally expressed with the help of adverbs and auxilia
 (currently),
 **pas**
 (in the past),
-**le**
+**ha**
 (already), and
-**sha**
+**vil**
 (in the future).
 
-**mi zai ai tu.**
+**mi zai love tu.**
 – I am loving you.  
-**mi pas ai tu.**
+**mi did love tu.**
 – I loved you.  
-**mi le ai tu.**
+**mi ha love tu.**
 – I have loved you.  
-**mi sha ai tu.**
+**mi vil love tu.**
 – I will love you.
 
 ### Passive
@@ -149,7 +149,7 @@ The passive voice is formed with the help of the helping verb
 
 **tu be ai.**
 – You are loved.  
-**mi be ai de tu.**
+**mi be love de tu.**
 – I am loved by you.
 
 ### Modifying other words
@@ -158,16 +158,16 @@ To modify a noun, put adjectives before it.
 
 **un neu ai**
 – a new love  
-**la hau pai**
+**da hau pai**
 – the good pie
 
 To modify a verb, put adverbs before it.
 The adverb can be tagged with
-**di**.
+**li**.
 
-**mi hau (di) visi tu.**
+**mi hau (li) vize tu.**
 – I see you well.  
-**tu visi di ai da.**
+**tu vize li love da.**
 – You seemingly love him/her.
 
 Modifiers are compared with
@@ -175,39 +175,39 @@ Modifiers are compared with
 **min** 'less', **minim** 'least' and **par** 'equally, as'.
 The point of comparison is introduced with **ka** 'than, as'.
 
-**tu e mas sen ka mi.**
+**tu es mas sen ka mi.**
 – You are older than me.  
-**tu e masim sen.**
+**tu es masim sen.**
 – You are the oldest.
 
 ### Questions
 
 To ask _yes–or–no_ questions, replace the verb with "(verb) **no** (verb)" pattern or add **he** 'eh, huh' to the end of the sentence.
 
-**tu visi no visi mi?**
+**tu vize no vize mi?**
 – Do you see me?  
-**tu visi mi, he?**
+**tu vize mi, he?**
 – You see me, eh?
 
 To ask a content question, write a normal sentence and replace the word in question with
-**ke**
+**kua**
 'what, who'.
 
-**tu ai ke?**
+**tu love kua?**
 – Who do you love?  
-**tu ai ke man?**
+**tu love kua man?**
 – Which man do you love?  
-**ke man ya ai tu?**
+**kua man ya love tu?**
 – Which man loves you?  
-**tu ai da ke poli?**
+**tu love da kua li poli?**
 – How much do you love him?
 
 ### Commands
 
 To state a command, leave out the subject and start the sentence with the verb.
 
-**yam ye pai!**
+**yam da pai!**
 – Eat this pie!  
-**visi vo mau!**
+**vize da mau!**
 – Look at that cat!
 

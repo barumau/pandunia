@@ -13,9 +13,9 @@ For example, the word
 modifies a noun in sentence A
 and a verb in sentence B.
 
-A. **vo e _mei_ kitabi.**
+A. **vo es _mei_ kitabe.**
 – That is a beautiful writing.  
-B. **tu _mei_ di kitabi.**
+B. **tu _mei_ li kitabe.**
 – You write _beautifully_.
 
 
@@ -47,7 +47,7 @@ is placed immediately before the verb.
 
 **tu _suga_ loga.**
 – You talk _fast_.  
-**damen _hau_ kitabi.**
+**di _hau_ kitabe.**
 – They write _well_.
 
 It is common to put the modifying particle
@@ -55,9 +55,9 @@ It is common to put the modifying particle
 between the modifier and the verb.
 It makes the structure of the verb phrase clearer.
 
-**tu _mei di_ kitabi.**
+**tu _mei di_ kitabe.**
 – You write _beautifully_.  
-**damen _suga di_ marche.**
+**di _suga di_ marche.**
 – They walk _fast_.
 
 
@@ -67,9 +67,9 @@ The particle
 **di**
 is used also when a modifier modifies another one.
 
-**un _dai di_ hau buku**
+**un _dai di_ hau buke**
 – a _greatly_ good book  
-**poli _bala di_ ai ja jen**
+**poli _bala di_ love ja jen**
 – _strongly_ loving people
 
 
@@ -105,16 +105,16 @@ The compound adverb is placed immediately before the verb that it modifies.
 
 **tre poli**
 – very much  
-**mi _tre poli_ vol loga.**
+**mi _tre poli_ van loga.**
 – I want very much to speak.  
-**mi vol _tre poli_ loga.**
+**mi van _tre poli_ loga.**
 – I want to speak very much.
 
 It is also possible to place the compound adverb very last in the sentence,
 and then it modifies the sentence as a whole.
 The meaning is the same like when the compound adverb modifies the main verb.
 
-**mi vol loga _tre poli_.**
+**mi van loga _tre poli_.**
 – I want to speak very much.  
 **sual tu sona _bas hau_?**
 – Did you sleep well enough?
@@ -139,9 +139,9 @@ The particle
 **ka**
 relates the adverbs of comparison to the object of comparison.
 
-**aple e mas hau ka aranja.**
+**aple es mas hau ka aranja.**
 = Apples are better than oranges.  
-**aranja e min hau ka aple.**
+**aranja es min hau ka aple.**
 = Oranges are less good than apples.  
 **tu loga par hau ka mi.**
 = You speak as well as me.

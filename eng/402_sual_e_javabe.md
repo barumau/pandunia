@@ -10,7 +10,7 @@ very new language.
 #### How can I help to spread Pandunia?
 
 Learn Pandunia! Speak it with others! Talk about it with others!
-Write stories or articles, make videos, podcasts, music, etc.
+Write stories or articles, make vizeos, podcasts, music, etc.
 
 You can also help with this website by translating content and correcting mistakes.
 [Read the instructions](trabaxa_neteloka.md)!

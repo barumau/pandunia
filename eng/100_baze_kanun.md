@@ -33,16 +33,16 @@ Primary accent is indicated by an acute accent (*á*) and secondary accent by a 
 
 The personal pronouns are:  
 **mi** _I_, **tu** _you_ (sg.), **da** _he/she/it_,
-**mimen** _we_, **tumen** _you_ (pl.), **damen** _they_.
+**vi** _we_, **yu** _you_ (pl.), **di** _they_.
 
 The possessive pronouns are:  
 **mi su** _my_, **tu su** _your_, **da su** _his or her_,
-**mimen su** _our_, **tumen su** _your_, **damen su** _their_.
+**vi su** _our_, **yu su** _your_, **di su** _their_.
 
 The interrogative pronouns are:
-**ke**
+**kua**
 _what_ or _who_,
-**ke su**
+**kua su**
 _whose_.
 
 
@@ -83,13 +83,13 @@ and the adverb modifier is before the verb that it modifies.
 The verb does not change in person, number and tense.
 Auxiliary verbs indicate time.
 
-- **zai**
+- **bi**
   indicates an ongoing event.
-- **le**
-  indicates a completed event whose results have an effect on the present situation.
-- **pas**
-  indicates a completed event that has no connection to the present situation.
-- **sha**
+- **ha**
+  indicates a completed event, which has an effect on the present situation.
+- **did**
+  indicates a past event.
+- **vil**
   indicates a future event.
 
 

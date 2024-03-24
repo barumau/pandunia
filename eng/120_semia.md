@@ -13,17 +13,17 @@ The actual meaning emerges in the sentence context.
 
 The noun meaning, 'fire', emerges when the word occupies the position of a noun in a sentence.
 
-**mi vide la hogo.**
+**mi vize da hogo.**
 – I see fire.
 
 The adjectival meaning, 'fiery', emerges in adjectival position.
 
-**mi vide un hogo kar.**
+**mi vize un hogo kar.**
 – I see a fiery chariot.
 
 The verbal meaning, 'to burn', emerges in verbal position.
 
-**mi hogo yo moke.**
+**mi hogo som moke.**
 – I burn some wood.
 
 Verb, noun and modifier are created independently from the base word.
@@ -141,7 +141,7 @@ In the following examples, the agent is marked with superscript A and the patien
 The person opens the door on purpose.
 The door undergoes a change of state from closed to opened.
 
-**jenᴬ vide e arome aranjaᴾ.**
+**jenᴬ vize es arome aranjaᴾ.**
 – The personᴬ sees and smells an orangeᴾ.
 
 The person can perceive the orange with their senses.
@@ -160,7 +160,7 @@ but it does it just by being there, it doesn't do it on purpose.
 The person is the one who moves the chair.
 The chair is not self-propelled and it doesn't move by itself.
 
-**jenᴬ pas domᴾ.**
+**jenᴬ did domᴾ.**
 – The personᴬ passes the houseᴾ.
 
 The person is the one who moves
@@ -215,9 +215,9 @@ Eyes are used for watching.
 Love is felt for others.
 Therefore the semantics of the following sentences are easy to understand.
 
-**mi futau yo moka.**
+**mi futau som moka.**
 – I chop trees.  
-**mi hogo yo moka.**
+**mi hogo som moka.**
 – I burn wood.  
 **mi oke tu.**
 – I eye you. ~ I look at you.  
@@ -230,7 +230,7 @@ If you are in a situation where you can apply freedom to an object,
 you can probably guess that the object is likely a human object or an animate object,
 and then you can imagine what freedom does to them.
 
-**mi hure damen.**
+**mi hure di.**
 – I free them. ~ I liberate them.
 
 The thing called *mother* is not any different.
