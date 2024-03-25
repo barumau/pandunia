@@ -6,9 +6,9 @@ En pandunio, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
 
 ### Modifante substantivon
 
-**un _neu_ gar**
+**un _nove_ karo**
 – nova aŭto 
-**un _suga_ gar**
+**un _suga_ karo**
 – rapida aŭto  
 **poli _dai_ meza**
 – grandaj tabloj  
@@ -20,26 +20,32 @@ En pandunio, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
 Kiam modifovorto sekvas substantivon, ĝi rolas kvazaŭ kiel verbo, kiu indikas staton.
 Tio estas, kiel adjektivaj verboj en Esperanto.
 
-**gar e neu.**
-– La aŭto novas. (Aŭ: La aŭto estas nova.)  
-**bagre e suga.**
-– Tigroj rapidas. (Aŭ: Tigroj estas rapidaj.)  
+**karo – nove.**
+– La aŭto novas.  
+**karo es nove.**
+La aŭto estas nova.  
+**bagre – suga.**
+– Tigroj rapidas.  
+**bagre – suga.**
+Tigroj estas rapidaj.
 
 Kompreneble, eblas ke modifovortoj aperu je ambaŭ flankoj de substantivo.
 
-**un neu gar e suga.**
-– Nova aŭto estas rapida.
+**nove karo – suga.**
+– Nova aŭto rapidas.  
+**nove karo es suga.**
+– Novaj aŭto estas rapidaj.
 
 ## Modifante verbon
 
 **tu _suga_ loga.**
 – Vi _rapide_ parolas.  
-**damen _hau_ kitaba.**
+**di jen _hau_ kitabe.**
 – Ili _bone_ skribas.
 
-**tu _mei di_ kitabi.**
+**tu _mei di_ kitabe.**
 – Vi _bele_ skribas.  
-**damen _suga di_ marce.**
+**di _suga li_ marche.**
 – Ili _rapide_ promenas.
 
 
@@ -47,12 +53,12 @@ Kompreneble, eblas ke modifovortoj aperu je ambaŭ flankoj de substantivo.
 
 Modifovorto povas modifi ankaŭ alian modifovorton.
 Aldoni partiklon
-**di**
+**li**
 inter la modifanta kaj la modifata.
 
-**un dai di_ hau buku**
+**un _dai li_ hau buke**
 – _grande_ bona libro  
-**poli _bala di_ ai ja jen**
+**_bala li_ lovente jen**
 – _forte_ amantaj homoj
 
 ### Komparoj
@@ -67,17 +73,17 @@ Modifovortoj povas esti komparataj.
   (malpli) signifas komparo de malplieco
 - **minim**
   (malplej) signifas komparo de malplejeco
-- **par**
+- **sim**
   (same, egale) signifas komparo de sameco
 
 Partiklo
 **ka**
 rilatas komparvortoj al la fonto de komparo.
 
-**aple e mas hau ka aranja.**
+**aple es mas hau ka aranja.**
 – Pomoj estas pli bonaj ol oranĝoj.  
-**aranja e min hau ka aple.**
+**aranja es min hau ka aple.**
 – Oranĝoj estas malpli bonaj ol pomoj.
-**tu loga par hau ka mi.**
+**tu loga sim hau ka mi.**
 – Vi parolas same bone kiel mi.
 

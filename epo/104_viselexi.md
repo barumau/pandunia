@@ -6,24 +6,24 @@ Pronomoj povas aperi anstataŭ substantivoj.
 
 | Ununombra   | Multenombra  |
 |:------------|:-------------|
-| **mi**      | **mimen**    |
+| **mi**      | **vi**       |
 | mi          | ni           |
-| **tu**      | **tumen**    |
+| **tu**      | **yu**       |
 | vi, ci      | vi           |
-| **da**      | **damen**    |
+| **da**      | **di**       |
 | li, ŝi, ĝi  | ili          |
-All pronouns can be used for all genders.
+
 
 La posedaj pronomoj estas formata per aldo de partiklo
 **su**.
 
 | Ununombra   | Multenombra  |
 |:------------|:-------------|
-| **mi su**   | **mimen su** |
+| **mi su**   | **vi su**    |
 | mia         | nia          |
-| **tu su**   | **tumen su** |
+| **tu su**   | **yu su**    |
 | via, cia    | via          |
-| **da su**   | **damen su** |
+| **da su**   | **di su**    |
 |lia, ŝia, ĝia| ilia         |
 
 ## Refleksiva pronomo
@@ -31,43 +31,62 @@ La posedaj pronomoj estas formata per aldo de partiklo
 **se**
 – si (mem)
 
-Rimarko: La refleksiva pronomo **se** povas uziĝi por ĉiuj personoj.
+Rimarko: La refleksiva pronomo
+**se**
+povas uziĝi por ĉiuj personoj.
 Do ĝi rilatas al ĉiuj tiaj uzadoj en Esperanto, kiel: _mi(n) mem_, _vi(n) mem_, _ni(n) mem_ kaj _si(n)_.
 
-**mi visi se**
+**mi vize se.**
 – Mi vidas min.  
-**da visi se**
+**da vize se.**
 – Ŝi vidas sin.  
-**mimen visi se.**
+**vi vize se.**
 – Ni vidas nin.
 
-Oni uzas **se kon** por esprimi reciprokecon.
+Oni uzas
+**unotre**
+por esprimi reciprokecon.
 
-**semen**
+**unotre**
 – unu la alia
 
-**mi i tu visi semen.**
+**mi e tu vize unotre.**
 – Mi kaj vi vidas unu la alian.  
-**mimen visi semen.**
+**vi vize unotre.**
 – Ni vidas unu la alian.
+
 
 ## Montrovortoj
 
 La montrovorto estas:
 
-**ye**
-– ĉi tiu  
-**vo**
+**da**
 – tiu  
-**la**
-– la
+**di**
+– tiuj
 
-**ye e bon.**
+Por esprimi proksimecon, aldonu
+**hir**
+(_ĉi tie_) aŭ
+**der**
+(_tie_).
+
+**da hir haus**
+– ĉi tiu domo  
+**di hir haus**
+– ĉi tiuj domoj  
+**da der haus**
+– tiu domo  
+**di der haus**
+– tiuj domoj  
+**da hir es hau.**
 – ĉi tiu (aĵo) estas bone.  
-**vo e dus.**
+**da der es dus.**
 – Tiu (aĵo) estas malbone.  
-**mi vol ye buku, no vo.**
-– mi volas ĉi tiun libron, ne tiun.
+**tu van da hir, he?**
+– ĉu vi volas ĉi tiun?  
+**no, mi van da der.**
+– Ne, mi volas tiun tie.
 
 
 ## Demandovortoj
@@ -92,7 +111,7 @@ Adjektivoj estas demandataj per **kua li**.
 **kua li shau?**
 – Kiom eta?
 
-**tu ha kua li dai mau?**
+**tu have kua li dai mau?**
 – Kiom granda kato vi havas?
 
 ## Tabelvortoj

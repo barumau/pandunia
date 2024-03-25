@@ -88,6 +88,9 @@ Il indique qu'une action s'est produite dans le passé et est toujours en cours,
 **mi _ha_ lai to site.**
 – Je suis déjà venu en ville.
 
+
+## Verbes auxiliaires de temps
+
 **did**
 'passer'
 Il indique qu'une action est terminée et n'est plus pertinente pour la situation actuelle.

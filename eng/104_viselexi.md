@@ -97,13 +97,13 @@ As they do not differentiate between near and far, they can be further qualified
 (_there_).
 
 **da hir haus**
-= this house  
+– this house  
 **di hir haus**
-= these houses  
+– these houses  
 **da der haus**
-= that house  
+– that house  
 **di der haus**
-= those houses  
+– those houses  
 
 The proximal demonstrative
 **da hir**

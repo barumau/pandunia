@@ -323,8 +323,6 @@ Bengali না (na).</small>
 
 ### Plural pronouns
 
-Add
-**men** to singular pronouns to make the plural.
 
 **mi**
 (I) →
@@ -381,39 +379,40 @@ Who are they?
 
 <small>Etymology. **kua** is from
 French *quoi*,
+Spanish *cuál*,
 English *what*.</small>
 
 
-### ye e vo <small>this and that</small>
+### da <small>this or that</small>
 
-**ye es kua?**
+**da hir es kua?**
 What's this?
 
-**ye es aple.**
+**da hir es aple.**
 This is an apple.
 
-**vo es kua?**
+**da der es kua?**
 What is that?
 
-**vo es aranja.**
+**da der es aranja.**
 That is an orange.
 
-**ye es rubi aple.**
+**da es rubi aple.**
 This is a red apple.
 
-**ye aple es rubi.**
+**da aple es rubi.**
 This apple is red.
 
-**ye es rubi.**
+**da es rubi.**
 This is red.
 
 **di a kua?**
 Where are they?
 
-**di a ye.**
+**di a hir.**
 They are here.
 
-**di a vo.**
+**di a der.**
 They are there.
 
 
@@ -490,28 +489,28 @@ German *Name*,
 English *name*.</small>
 
 
-### have <small>have</small>
+### ave <small>have</small>
 
-**mi have un hau dom.**
+**mi ave un hau dom.**
 I have a good house.
 
-**da no have pesa.**
+**da no ave pesa.**
 He doesn't have money.
 
-**mi van have un neu telefon.**
+**mi van ave un neu telefon.**
 I want to have a new telephone.
 
-**sual tu have ben?**
+**sual tu ave ben?**
 Do you have children?  
-**mi have du ben.**
+**mi ave du ben.**
 I have two children.
 
-**sual have davar?**
+**sual ave davar?**
 Is there a doctor?  
 **ya. da es davar.**
 Yes. He or she is a doctor.
 
-**sual have vin?**
+**sual ave vin?**
 Do you have wine?  
 **ya. baki e rubi.**
 Yes, white and red.
@@ -522,7 +521,7 @@ Yes, white and red.
 **mi nou da.**
 I know him/her/it.
 
-**sual tu nou vo jen?**
+**sual tu nou da der jen?**
 Do you know that person?
 
 **sual yu nou unotre?**
@@ -534,7 +533,7 @@ We know each other for a long time.
 
 ### mede <small>help</small>
 
-**mi yau som mede.**
+**mi yau mede.**
 I need help.
 
 **sual tu ken mede mi?**
@@ -603,7 +602,7 @@ No, I don't want tea. I want coffee.
 
 **tu van kua aple?**
 Which apple do you want?  
-**ye rubi.**
+**da rubi.**
 This red one.
 
 
@@ -647,7 +646,7 @@ Let's go home.
 
 ### yau <small>need</small>
 
-**mi yau som mede.**
+**mi yau mede.**
 I need help.
 
 **mi yau yam.**
@@ -730,7 +729,7 @@ I talk to you.
 **vi loga to unotre.**
 We talk to each other.
 
-**men loga**
+**von loga**
 *cat*
 **a kua mode a pandunia?**
 How do you say "cat" in Pandunia?
@@ -800,15 +799,15 @@ Please, write your address.
 Please, write it here!
 
 
-### basha <small>speak a language, communicate</small>
+### bashe <small>speak a language, communicate</small>
 
-**sual yu basha pandunia.**
+**sual yu bashe pandunia.**
 Do you speak Pandunia?
 
-**vi basha pandunia.**
+**vi bashe pandunia.**
 We speak Pandunia.
 
-**sual tu ken basha english?**
+**sual tu ken bashe english?**
 Can you speak English?
 
 **franse, espanya, portugal, rus**
@@ -931,19 +930,22 @@ I wait for you in the hotel.
 
 ## Part 5. Time expressions
 
-### zai <small>currently</small>
+### bi <small>currently</small>
 
-**mi zai sal tu su doste.**  
+**mi bi sal tu su doste.**  
 I am greeting your friend.
 
-**da man ya zai vize un filme.**  
+**da man bi vize un filme.**  
 The man is watching a film.
 
-**da zai es shefe.**  
-He/she is currently the chief.
 
-**da zai a dom.**  
-He/she is currently at home.
+### ha <small>already, completed</small>
+
+**mi ha sal tu su doste.**  
+I have greeted your friend.
+
+**da man ha vize dafilme.**  
+The man has watched the film.
 
 
 ### did <small>in the past</small>
@@ -959,21 +961,6 @@ He/she was the chief.
 
 **da did es a dom.**  
 He/she was at home.
-
-
-### ha <small>already, completed</small>
-
-**mi ha sal tu su doste.**  
-I have greeted your friend.
-
-**da man ha vize un filme.**  
-The man has watched a film.
-
-**da ha es shefe.**  
-He/she has been the chief.
-
-**da ha a da dom.**  
-He/she has been at home.
 
 
 ### vil <small>in the future</small>

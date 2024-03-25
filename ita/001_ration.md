@@ -387,19 +387,16 @@ Il pronome di terza persona in pandunia è **da**.
 Ha la notevole qualità di potersi riferire sia ai maschi che alle femmine, oltre che agli oggetti inanimati.
 Corrisponde dunque ai pronomi di terza persona inglesi _he_, _she_ e _it_, tutti insieme.
 
-I pronomi plurali e possessivi seguono i modelli supersemplici del cinese standard.
-
-Si aggiunge **men** per formare il plurale:
-
 | Inglese    | Pandunia   | Cinese     |
 |------------|------------|------------|
 | I          | mi         | wǒ         |
 | you        | tu         | nǐ         |
 | he/she/it  | da         | tā         |
-| we         | mimen      | wǒmen      |
-| you all    | tumen      | nǐmen      |
-| they       | damen      | tāmen      |
+| we         | vi         | wǒmen      |
+| you all    | yu         | nǐmen      |
+| they       | di         | tāmen      |
 
+I pronomi possessivi seguono i modelli supersemplici del cinese standard.
 Si aggiunge **su** per formare il possessivo:
 
 | Inglese    | Pandunia   | Cinese     |
@@ -407,19 +404,16 @@ Si aggiunge **su** per formare il possessivo:
 | my         | mi su      | wǒ de      |
 | your       | tu su      | nǐ de      |
 | his/her/its| da su      | tā de      |
-| our        | mimen su   | wǒmen de   |
-| your       | tumen su   | nǐmen de   |
-| their      | damen su   | tāmen de   |
-
-Per una fortunata coincidenza, il pronome di seconda persona plurale è identico al romaní *tumen*
-e non troppo distante dall'hindi-urdu *tum*.
+| our        | vi su      | wǒmen de   |
+| your       | yu su      | nǐmen de   |
+| their      | di su      | tāmen de   |
 
 I pronomi personali in pandunia raggiungono tre importanti obiettivi.
 
 1. I pronomi di base
    (**mi**, **tu**, **da**)
    hanno una scrittura e una pronuncia diversa tra loro.
-2. I pronomi plurali e possessivi sono costruiti in maniera sistematica.
+2. I pronomi possessivi sono costruiti in maniera sistematica.
    Non sono solo un pugno di parole a caso.
 3. Le parole sono internazionali
    e provengono da diverse famiglie linguistiche.
@@ -434,10 +428,12 @@ L'ordine delle parole in una frase normale è soggetto-verbo-oggetto
 – proprio come in inglese e in cinese.
 
     Inglese:   I love you, and you love me.
-    Pandunia:  mi ai tu, tu ai mi.
+    Pandunia:  mi love tu, tu love mi.
     Cinese:    Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
-Il verbo ausiliare **be** è usato quando l'oggetto dell'azione è il primo elemento della frase.
+Il verbo ausiliare
+**be**
+è usato quando l'oggetto dell'azione è il primo elemento della frase.
 (La cosiddetta costruzione passiva.)
 
     Inglese:   Apples were eaten.
@@ -448,7 +444,7 @@ Il verbo ausiliare **be** è usato quando l'oggetto dell'azione è il primo elem
 ma è anche vicino ad alcuni usi dell'inglese "to be".
 
     Inglese:   It cannot be eaten.
-    Pandunia:  da no bil be yam.
+    Pandunia:  da no ken be yam.
     Cinese:    Tā bù néng bèi chī. (它不能被吃。)
 
 Come per il cinese, il pandunia non marca i verbi con una parola come "to".
@@ -461,14 +457,14 @@ In pandunia e cinese i sostantivi possono essere singolari o plurali a seconda d
 Non c'è una desinenza plurale come -s dell'inglese.
 Anche i verbi non seguono alcuna coniugazione.
 In pandunia una sola parola,
-**e**,
+**es**,
 è usata per tradurre _sono, sei, è, siamo, ero, eravate..._
 
     Inglese:   It is an apple.
-    Pandunia:  da e aple.
+    Pandunia:  da es aple.
     Cinese:    Tā shì píngguǒ. (他是苹果。)
 
     Inglese:   They are apples.
-    Pandunia:  damen e aple.
+    Pandunia:  di es aple.
     Cinese:    Tāmen shì píngguǒ. (他们是苹果。)
 

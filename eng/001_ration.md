@@ -409,15 +409,12 @@ Simply add **su** to form the possessive, as below.
 | your       | yu su      | nǐmen de   |
 | their      | di su      | tāmen de   |
 
-By a fortunate coincidence, the second person plural pronoun is identical to Romani (Gypsy) *yu*
-and not far from Hindi-Urdu *tum*.
-
 The personal pronouns in Pandunia attain three important goals.
 
 1. The basic pronouns
    (**mi**, **tu**, **da**)
    look and sound distinct.
-2. The plural and possessive pronouns are built in a systematic way.
+2. The possessive pronouns are built in a systematic way.
    They are not only a bunch of random words.
 3. The words are international
    and come from many different language families.
@@ -435,7 +432,9 @@ The normal sentence word order is subject–verb–object
     Pandunia:  mi love tu, tu love mi.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
-The auxiliary verb **be** is used when the object of the action comes first in the sentence.
+The auxiliary verb
+**be**
+is used when the object of the action comes first in the sentence.
 (This is the so called passive sentence.)
 
     English:   Apples were eaten.
@@ -469,6 +468,4 @@ is used instead of _am, is, are, was, were..._
     English:   They are apples.
     Pandunia:  di es aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
-
-
 

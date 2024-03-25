@@ -5,43 +5,94 @@
 
 Subjekto indikas personon kaj nombron de verbo.
 Ekzemple, la verbo
-**e**
+**es**
 ('esti') havas la saman formon en ćiu person.
 
-**_mi_ e dosti.**
+**_mi_ es doste.**
 – mi estas amiko.  
-**_tu_ e dosti.**
+**_tu_ es doste.**
 – Ci estas amiko.  
-**_ya_ e dosti.**
+**_da_ es doste.**
 – Ri (li aŭ ŝi) estas amiko.  
-**_mimen_ e dosti.**
+**_vi_ es doste.**
 – Ni estas amikoj.  
-**_tumen_ e dosti.**
+**_yu_ es doste.**
 – Vi estas amikoj.  
-**_damen_ e dosti.**
+**_di_ es doste.**
 – Ili estas amikoj.
 
 Ankaŭ substantivo povas roli kiel subjekto.
 
-**mau e hevan.**
+**mau es hevan.**
 – Kato estas besto.
 
-Ofte estas markilo inter subjekto kaj verbo
-por indiki la limo inter subjekto kaj verbo.
-Tio estas helpema kiam kaj la subjekto kaj la verbo estas leksikaj vortoj
-kaj kune ili povus ŝajni kiel unu kunmetita vorto.
-Tia markilo estas tipe partiklo aŭ helpanta verbo.
-Unu de la multaj uzeblaj markiloj estas
-**ya**
-('jes, ja'),
-ćar ĝi ne ŝanĝas signifon de la frazo
-sed nur klarifigas sian konstruon.
+## Kiel esprimi tempo kaj modo
 
-**tuzi yam.**
-– Kunikla manĝo. – Kuniklo manĝas.  
-**tuzi ya yam.**
-– Kuniklo (ja) manĝas.  
-**karote e tuzi yam.**
-– Karoto estas kunikla manĝo.  
-**tuzi _ya_ yam karote.**
-– Kunikloj (ja) manĝas karotojn.
+Verbaj tensoj, aspektoj kaj modoj estas esprimita per helpantaj verboj,
+kiuj estas unue en la verba frazo.
+Ilia ordo estas: tempo, modo, aspekto.
+
+### Tenso
+
+**did** indikas pasintan tenson,
+**nau** indikas prezencan tenson kaj
+**vil** indikas estontan tenson.
+
+**man** ***did*** **yam ban.**
+– Viro *manĝIS* panon.  
+**man** ***nau*** **yam ban.**
+– Viro *manĝAS* panon.  
+**man** ***vil*** **yam ban.**
+– Viro *manĝOS* panon.
+
+Oni povas ankaux esprimi estontecon en pasinteco.
+
+**man** ***pas vil*** **yam ban.**
+– Viro estis manĝonta panon.
+
+
+### Aspekto
+
+Aspekto esprimas la manieron, kiel oni prezentas procezon, ĉu kun limoj, ĉu sen limoj.
+Estas du aspektaj markiloj en Pandunia,
+**bi** kaj **ha**.
+
+Oni povas uzi aspektan kaj tensan markilojn kune.
+
+La markilo **bi** indikas, ke la procezo daŭras ankoraŭ.
+
+**man** ***bi*** **yam ban.**
+– Viro estas, estis aŭ estos manĝanta panon.  
+**man** ***did bi*** **yam ban.**
+– Viro estis manĝanta panon.  
+**man** ***nau bi*** **yam ban.**
+– Viro estas manĝanta panon.  
+**man** ***vil bi*** **yam ban.**
+– Viro estos manĝanta panon.
+
+La markilo **ha** indikas, ke la ago estas finita kaj ĝia rezulto estas ankoraŭ efika.
+
+**man** ***ha*** **yam ban.**
+– Viro estis, estas aŭ estos manĝinta panon.  
+**man** ***did ha*** **yam ban.**
+– Viro estis manĝinta panon.  
+**man** ***nau ha*** **yam ban.**
+– Viro estas manĝinta panon.  
+**man** ***vil ha*** **yam ban.**
+– Viro estos manĝinta panon.
+
+
+### Kondicionala modo
+
+La kondicionala markilo **vud** esprimas kiel la *us*-modon,
+ke la plenumo de procezo dependas de iu nerealigita kondiĉo.
+
+**mi** ***vud*** **van yam.**
+– Mi volus manĝi.  
+**mi** ***vud*** **go to Dubai.**
+– Mi irus al Dubai.  
+**mi** ***vud*** **go, if tu las mi.**
+– Mi irus, se vi lasos min.  
+**tu no** ***vud*** **es suka, if mi** ***vud*** **go.**
+– Vi ne estus feliĉa, se mi irus.
+

@@ -38,11 +38,11 @@ Naturellement, il peut y avoir des modificateurs des deux côtés du nom égalem
 
 En pandunia, les adverbes se placent avant le verbe ou à la fin de la phrase.
 
-**mi hau di sona.** 
+**mi hau li sona.** 
 – Je _bien_ dors.  
 **mi sona hau.** 
 – Je dors _bien_.  
-**tu basha pandunia hau.** 
+**tu bashe pandunia hau.** 
 – Tu parles pandunia _bien_.
 
 
@@ -62,9 +62,9 @@ Ainsi,
 **un mei jen** 
 – un bel individu
 
-**un dai di mei jen** 
+**un dai li mei jen** 
 – un très bel individu  
-**un shau di mei jen** 
+**un shau li mei jen** 
 – un assez bel individu
 
 
@@ -80,13 +80,13 @@ Les modificateurs peuvent être comparés.
 ('moins') marque le comparatif d'infériorité  
 **minim**
 ('le moins') marque le superlatif d'infériorité  
-**par**
+**sim**
 ('aussi, autant') marque le comparatif d'égalité
 
 La particule **ko** met en relation les adverbes de comparaison à l'élément comparé.
 
 **mi es mas hau ka tu.**
 = Je suis meilleur que toi.  
-**tu loga par hau ka mi.**
+**tu loga sim hau ka mi.**
 = Tu parles aussi bien que moi.
 

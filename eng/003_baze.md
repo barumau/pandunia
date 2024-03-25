@@ -93,13 +93,13 @@ To negate a word, add **no** before it.
 ### To be
 
 The verb
-**e**
+**es**
 means 'to be'.
 It can be left out in very simple sentences.
 
 **mi es jen.**
 – I am a person.  
-**mi jen.**
+**mi – jen.**
 – I'm a person.
 
 It can't be left out when it is part of a serial verb.
@@ -123,22 +123,24 @@ But actually the meaning is clear in the real context:
 
 ### Time
 
-Tenses and aspects are optionally expressed with the help of adverbs and auxiliary verbs, like
-**zai**
-(currently),
-**pas**
-(in the past),
+Tenses and aspects are optionally expressed with the help of adverbs and auxiliary verbs,
+like the aspect auxiliaries
+**bi**
+(be in the process of), and
 **ha**
-(already), and
+(have completed),
+and the tense auxiliaries
+**did**
+(in the past), and
 **vil**
 (in the future).
 
-**mi zai love tu.**
+**mi bi love tu.**
 – I am loving you.  
-**mi did love tu.**
-– I loved you.  
 **mi ha love tu.**
 – I have loved you.  
+**mi did love tu.**
+– I loved you.  
 **mi vil love tu.**
 – I will love you.
 
@@ -147,7 +149,7 @@ Tenses and aspects are optionally expressed with the help of adverbs and auxilia
 The passive voice is formed with the help of the helping verb
 **be**.
 
-**tu be ai.**
+**tu be love.**
 – You are loved.  
 **mi be love de tu.**
 – I am loved by you.
@@ -156,7 +158,7 @@ The passive voice is formed with the help of the helping verb
 
 To modify a noun, put adjectives before it.
 
-**un neu ai**
+**un nove love**
 – a new love  
 **da hau pai**
 – the good pie
@@ -171,9 +173,18 @@ The adverb can be tagged with
 – You seemingly love him/her.
 
 Modifiers are compared with
-**mas** 'more, -er', **masim** 'most, -est',
-**min** 'less', **minim** 'least' and **par** 'equally, as'.
-The point of comparison is introduced with **ka** 'than, as'.
+**mas**
+'more, -er',
+**masim**
+'most, -est',
+**min**
+'less',
+**minim**
+'least' and
+**sim** 'equally, as'.
+The point of comparison is introduced with
+**ka**
+'than, as'.
 
 **tu es mas sen ka mi.**
 – You are older than me.  
@@ -182,7 +193,8 @@ The point of comparison is introduced with **ka** 'than, as'.
 
 ### Questions
 
-To ask _yes–or–no_ questions, replace the verb with "(verb) **no** (verb)" pattern or add **he** 'eh, huh' to the end of the sentence.
+To ask _yes–or–no_ questions, replace the verb with "(verb) **no** (verb)" pattern
+or add **he** 'eh, huh' to the end of the sentence.
 
 **tu vize no vize mi?**
 – Do you see me?  
@@ -197,7 +209,7 @@ To ask a content question, write a normal sentence and replace the word in quest
 – Who do you love?  
 **tu love kua man?**
 – Which man do you love?  
-**kua man ya love tu?**
+**kua man love tu?**
 – Which man loves you?  
 **tu love da kua li poli?**
 – How much do you love him?

@@ -42,11 +42,11 @@ La stessa parola, senza alcuna modifica della forma, può funzionare come sostan
 
 | Persona  | Singolare         | Plurale      |
 |:---------|:-----------------:|:------------:|
-|          | **mi**            | **mimen**    |
+|          | **mi**            | **vi**       |
 | 1ª       | _io, me_          | _noi, ci_    |
-|          | **tu**            | **tumen**    |
+|          | **tu**            | **yu**       |
 | 2ª       | _tu, te_          | _voi, vi_    |
-|          | **da**            | **damen**    |
+|          | **da**            | **di**       |
 | 3ª       | _lui, lei_        | _loro_       |
 
 ### Struttura fondamentale della frase
@@ -70,14 +70,14 @@ Se il soggetto è un pronome personale, **ya** si omette.
 L'ordine delle parole è generalmente soggetto-verbo-oggetto
 – lo stesso dell'italiano!
 
-**mi ai tu.**
+**mi love tu.**
 – Io ti amo.
 
 Quando il complemento oggetto è un sostantivo, viene distinto dal verbo attraverso un pronome dimostrativo, un numerale o un altro determinante.
 
 **mi yam un pai.**
 – Io mangio una torta.  
-**tu yam ye pai.**
+**tu yam da pai.**
 – Tu mangi questa torta.
 
 ### Negazione
@@ -92,53 +92,53 @@ Per negare una parola basta farla precedere da **no**.
 ### Essere
 
 Il verbo
-**e**
+**es**
 significa 'essere'.
 Può essere omesso in frasi estremamente semplici.
 
-**mi e jen.**
+**mi es jen.**
 – Io sono una persona.  
-**mi jen.**
+**mi – jen.**
 – Io sono una persona.
 
 Non si può omettere quando è parte di una costruzione verbale in serie.
 
-**mi vol e mau.**
+**mi van es mau.**
 – Io voglio essere un gatto.  
-**mi vol mau!**
+**mi van mau!**
 – Io voglio un gatto!
 
 ### Parole polivalenti
 
 Le parole del pandunia possono essere ambigue, perché spesso hanno più significati rispetto a quanto succede in italiano.
 
-**da ai mau.**
+**da love mau.**
 – Lui ama i gatti. / Lei amava un gatto. / Lui/lei amerà il gatto.
 
 Ma in realtà il significato è chiaro nel contesto reale:
 
-**pre tri nen, mi ha du mau i un vaf. mi ha mas un fem ben. da ai mau!**
+**pre tri nen, mi have du mau e un vaf. mi have mas un fem ben. da love mau!**
 – Tre anni fa, io avevo due gatti e un cane. Avevo anche una figlia. _Lei amava i gatti!_
 
 ### Tempo
 
 I tempi e gli aspetti sono espressi opzionalmente con l'aiuto di avverbi e verbi ausiliari, come
-**zai**
+**bi**
 (in questo momento),
-**pas**
-(nel passato),
-**le**
-(già) e
-**sha**
+**ha**
+(già)
+**did**
+(nel passato) e
+**vil**
 (nel futuro).
 
-**mi zai ai tu.**
+**mi bi love tu.**
 – Ti sto amando.  
-**mi pas ai tu.**
-– Ti amavo / amai.  
-**mi le ai tu.**
+**mi ha love tu.**
 – Ti ho amato.  
-**mi sha ai tu.**
+**mi did love tu.**
+– Ti amavo / amai.  
+**mi vil love tu.**
 – Ti amerò.
 
 ### Passivo
@@ -146,67 +146,77 @@ I tempi e gli aspetti sono espressi opzionalmente con l'aiuto di avverbi e verbi
 La voce passiva si forma con l'aiuto dell'ausiliare
 **be**.
 
-**tu be ai.**
+**tu be love.**
 – Tu sei amato.  
-**mi be ai de tu.**
+**mi be love de tu.**
 – Io sono amato da te.
 
 ### Modificare le altre parole
 
 Per modificare un sostantivo lo si fa precedere dagli aggettivi.
 
-**un neu ai**
+**un nove love**
 – un nuovo amore  
-**la hau pai**
+**da hau pai**
 – la buona torta
 
 Per modificare un verbo lo si fa precedere dagli avverbi.
 L'avverbio può essere segnalato con
-**di**.
+**li**.
 
-**mi hau (di) visi tu.**
+**mi hau (li) vize tu.**
 – Ti vedo bene.  
-**tu visi di ai da.**
+**tu vize li love da.**
 – Evidentemente lo/la ami.
 
 I modificatori si comparano con
-**mas** 'più', **masim** 'il più, -issimo',
-**min** 'meno', **minim** 'il meno' e **par** 'tanto... quanto'.
-Il secondo termine di paragone è introdotto da **ka** 'di'.
+**mas**
+'più',
+**masim**
+'il più, -issimo',
+**min**
+'meno',
+**minim**
+'il meno' e
+**sim**
+'tanto... quanto'.
+Il secondo termine di paragone è introdotto da
+**ka**
+'di'.
 
-**tu e mas sen ka mi.**
+**tu es mas sen ka mi.**
 – Tu sei più vecchio di me.  
-**tu e masim sen.**
+**tu es masim sen.**
 – Tu sei il più vecchio/vecchissimo.
 
 ### Domande
 
 Per formulare delle domande chiuse (alle quali si può rispondere con _sì_ o _no_), basta sostituire il verbo con lo schema "(verbo) **no** (verbo)" o aggiungere **he** 'eh' alla fine della frase.
 
-**tu visi no visi mi?**
+**tu vize no vize mi?**
 – Mi vedi?  
-**tu visi mi, he?**
+**tu vize mi, he?**
 – Mi vedi, no?
 
 Per formulare delle domande aperte, basta scrivere una frase affermativa e sostituire la parola in questione con
-**ke**
+**kua**
 'cosa, chi, quale'.
 
-**tu ai ke?**
+**tu love kua?**
 – Chi ami?  
-**tu ai ke man?**
+**tu love kua man?**
 – Che uomo ami?  
-**ke man ya ai tu?**
+**kua man love tu?**
 – Che uomo ti ama?  
-**tu ai da ke poli?**
+**tu love da kua li poli?**
 – Quanto lo/la ami?
 
 ### Comandi
 
 Per dare un ordine, basta omettere il soggetto e cominciare la frase con il verbo.
 
-**yam ye pai!**
+**yam da pai!**
 – Mangia questa torta!  
-**visi vo mau!**
+**vize da mau!**
 – Guarda quel gatto!
 

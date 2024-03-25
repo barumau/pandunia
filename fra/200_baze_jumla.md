@@ -75,7 +75,12 @@ est un mot générique pour souhaiter du bien à quelqu’un. Utilisez-le souven
 
 <small>Étymologie :
 **sal**
-vient de l'arabe سَلَام‏ "salām", en hébreu il se dit : שָׁלוֹם‏ "šalom", en turc "selam", en Hindi सलाम "salām", en swahili "salaam" et en indonésien "selamat".</small>
+vient de l'arabe سَلَام‏ "salām",
+en hébreu il se dit : שָׁלוֹם‏ "šalom",
+en turc "selam",
+en Hindi सलाम "salām",
+en swahili "salaam"
+et en indonésien "selamat".</small>
 
 
 ### shukre <small>merci</small>
@@ -111,17 +116,17 @@ Merci de m'avoir aidé.
 Je t'en prie. / Il n'y a pas de quoi.
 
 
-### e <small>être</small>
+### es <small>être</small>
 
-**mi e Tomas.**
+**mi es Tomas.**
 Je suis Thomas.
 
 ### mi <small>je, me, moi</small>
 
-**mi e Sara.**
+**mi es Sara.**
 Je suis Sara.
 
-**mi e Tomas.**
+**mi es Tomas.**
 Je suis Thomas.
 
 Vous pouvez vous présenter simplement en utilisant
@@ -158,7 +163,7 @@ en souahili *mimi*.</small>
 
 ### tu <small>tu, te, toi</small>
 
-**tu e Tomas.**
+**tu es Tomas.**
 Tu es Thomas.
 
 **mi sal tu.**
@@ -169,7 +174,7 @@ Tu me salues.
 
 Les pronoms ne changent jamais de forme en Pandunia ; peu importe qu'ils soient sujets ou compléments.
 
-**mi ai tu.**
+**mi love tu.**
 Je t'aime.
 
 <small>Étymologie : **tu** vient du
@@ -326,33 +331,32 @@ Ce sont des pommes.
 
 
 
-### ke? <small>Quoi ? Qui ? Quel ?</small>
+### kua? <small>Quoi ? Qui ? Quel ?</small>
 
-**ke?** Quoi ?
+**kua?** Quoi ?
 
-**tu e ke?**
+**tu es kua?**
 Qui es-tu ?  
-**mi e Tomas.**
+**mi es Tomas.**
 Je suis Thomas.
 
-**da e ke?**
+**da es kua?**
 Qui est-il/elle ?  
-**da e Sara.**
+**da es Sara.**
 C'est Sara.
 
-**tumen e ke?**
+**yu es kua?**
 Qui êtes-vous ?
 
-**damen e ke?**
+**di es kua?**
 Qui sont-ils ?
 
 <small>Étymologie :
-**ke**
+**kua**
 vient de
-l'espagnol *qué*,
-en portugais il se dit *que*,
-en italien *che*
-et en bengali কী (ki).</small>
+la français *quoi*,
+l'espagnol *cuál*,
+et l'anglais *what*.</small>
 
 
 

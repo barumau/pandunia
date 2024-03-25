@@ -44,11 +44,11 @@ Tense is a property that expresses time reference.
 The main tenses are the past, present, and future.
 More specific time references are expressed with various time expressions, like *yesterday*, *tomorrow* or *one hour ago*.
 The marker
-**pas** indicates the past tense,
+**did** indicates the past tense,
 **nau** indicates the present tense, and
 **vil** indicates the future tense.
 
-**man** ***pas*** **yam ban.**
+**man** ***did*** **yam ban.**
 – The man *ate* (or *did eat*) bread.  
 **man** ***nau*** **yam ban.**
 – The man *eats* bread (now).  
@@ -58,8 +58,8 @@ The marker
 It is also possible to express the future in the past
 with a combination of two tense markers.
 
-**man** ***pas vil*** **yam aple.**
-– The man *was going to* eat an apple.
+**man** ***pas vil*** **yam ban.**
+– The man *was going to* eat bread.
 
 
 ### Aspect
@@ -74,7 +74,7 @@ The time can be indicated with a tense marker.
 
 **man** ***bi*** **yam ban.**
 – The man *is*, *was* or *will be* eating bread.  
-**man** ***pas bi*** **yam ban.**
+**man** ***did bi*** **yam ban.**
 – The man was eating bread.  
 **man** ***nau bi*** **yam ban.**
 – The man is eating bread.  
@@ -87,7 +87,7 @@ The time can be indicated with a tense markers.
 
 **man** ***ha*** **yam ban.**
 – The man *had*, *has* or *will have* eaten bread.  
-**man** ***pas ha*** **yam ban.**
+**man** ***did ha*** **yam ban.**
 – The man had eaten bread.  
 **man** ***nau ha*** **yam ban.**
 – The man has eaten bread.  
@@ -174,28 +174,6 @@ denotes a destination, goal or purpose, 'to, toward, for'.
 **mi van don ye buke a tu.**
 – I want to give this book to you.
 
-#### bi
-
-The preposition
-**bi**
-denotes an instrument or tool, 'with, by, by means of'.
-
-**da bate bi hamar.**
-– He hits with the hammer.  
-**da kitabe bi kalam.**
-– He writes with a pen.
-
-It also denotes means of exchange, 'for'.
-
-**da shope da juba bi unli 20 euro.**
-– She bought the dress for only 20 euros.
-
-It also denotes the language of speech or a text, 'in'.
-
-**vi loga bi pandunia**
-– We speak in Pandunia  
-**di kitabe bi farsi**
-– They write in Persian.
 
 #### de
 
@@ -281,7 +259,7 @@ The preposition
 **via**
 denotes road or way, 'via, by way of'.
 
-**vi lai do Berlin via Praha.**
+**vi lai to Berlin via Praha.**
 – We come to Berlin via Prague.
 
 #### vise

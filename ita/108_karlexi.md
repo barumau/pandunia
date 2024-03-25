@@ -9,25 +9,25 @@ e non cambiando la forma dei verbi come avviene in italiano e altre lingue.
 
 La persona e il numero sono indicati dal soggetto.
 Per esempio il verbo
-**e**
+**es**
 ('essere') ha la stessa forma per tutte le persone.
 
-**_mi_ e dosti.**
+**_mi_ es doste.**
 – Io sono un amico.  
-**_tu_ e dosti.**
+**_tu_ es doste.**
 – Tu sei un amico.  
-**_da_ e dosti.**
+**_da_ es doste.**
 – Lui/lei è un amico/un'amica.  
-**_mimen_ e dosti.**
+**_vi_ es doste.**
 – Noi siamo amici.  
-**_tumen_ e dosti.**
+**_yu_ es doste.**
 – Voi siete amici.  
-**_damen_ e dosti.**
+**_di_ es doste.**
 – Loro sono amici.
 
 Anche un sostantivo può fungere da soggetto.
 
-**mau e hevan.**
+**mau es hevan.**
 – Il gatto è un animale.
 
 Di frequente c'è un marcatore tra il soggetto e il verbo
@@ -45,121 +45,74 @@ ma aiuta a chiarirne la struttura.
 – Cibo per conigli. – OPPURE Il coniglio mangia.  
 **tuzi ya yam.**
 – Il coniglio mangia.  
-**karote e tuzi yam.**
+**karote es tuzi yam.**
 – La carota è un cibo per conigli.  
 **tuzi _ya_ yam karote.**
 – I conigli mangiano le carote.
 
-Altri marcatori idonei includono gli ausiliari di tempo e modo,
+Altri marcatori idonei includono gli ausiliari di tempo, aspetto e modo,
 che sono introdotti qui di seguito.
 
 
-## Ausiliari di tempo
+## Ausiliari di tempo e modo
+
+### Tempo
 
 La relazione tra un azione, un evento o uno stato e il tempo si indica con dei verbi ausiliari.
 
-**shuru**
-'cominciare'
-indica il principio di un'azione o la transizione a una nuova situazione.
-
-**mi shuru fuku la kote.**
-– Comincio a indossare il cappotto. ~ Metto il cappotto.  
-**kaguji ya shuru hogo.**
-– La carta comincia a bruciare.  
-**tu shuru yam.**
-– Cominci a mangiare.
-
-**fin**
-'finire, terminare'
-trasmette l'idea di "smettere di fare qualcosa".
-
-**damen fin haha.**
-– Smisero di ridere.  
-**kaguji ya fin hogo.**
-– La carta smise di bruciare.  
-**tu fin yam.**
-– Tu smetti di mangiare.
-
-**pul**
-'completare'
-indica che un'azione è completata.
-
-**tu pul yam un piza.**
-– Hai mangiato tutta una pizza.  
-**mi pul visi la filme.**
-– Ho visto tutto il film.
-
-**fen**
-'parzialmente'
-indica che un'azione è compiuta solo in parte.
-
-**tu fen yam un piza.**
-– Hai mangiato una parte della pizza.  
-**mi fen visi la filme.**
-– Ho visto una parte del film.
-
-**zai**
-'essere presente'
-indica che una situazione sta avvenendo nel presente.
-
-**mi zai yam un piza.**
-– Sto mangiando una pizza.
-
-**dura**
-'continuare, procedere'
-indica che una situazione sta continuando o è in svolgimento.
-
-**mi dura yam la piza.**
-– Continuo a mangiare la pizza.
-
-**ada**
-'solere, essere soliti'
-indica che un'azione è compiuta regolarmente.
-
-**mi ada gul yo bir.**
-– Sono solito bere birra.
-
-**le**
-'raggiungere, compiete; già'
-indica che un'azione è avvenuta nel passato e si sta ancora svolgendo o che è rilevante per la situazione attuale.
-Si traduce con *già* o *(non) ancora*.
-Si può pensare a qualcosa di simile al passato prossimo italiano (_Ho fatto_, _ho mangiato_).
-
-**da _le_ e guru.**
-– Lui è già un insegnante.  
-**mi no _le_ gul yo alkohol.**
-– Non ho ancora bevuto alcol.  
-**mi _le_ no gul yo alkohol.**
-– Non sto più bevendo alcol.  
-**mi _le_ don la buku to damen.**
-– Ho dato loro il libro. OPPURE: Ho già dato il libro a loro.  
-**damen no _le_ ridon da to mi.**
-– Loro non me lo hanno restituito. OPPURE: Non me l'hanno ancora restituito.  
-**mi _le_ lai to siti.**
-– Sono venuto in città. OPPURE: Sono già venuto in città.
-
-**pas**
+**did**
 'passare, attraversare'
 indica che un'azione è terminata e non è più rilevante per la situazione attuale.
 Si può pensare a qualcosa do simile al passato remoto in italiano (terminai, mangiai).
 
-**mi pas don la buku to damen.**
+**mi did don la buku to damen.**
 – Diedi loro il libro. (Forse non lo hanno più o lo hanno restituito.)  
-**mi pas vizite Franse.**
+**mi did vizite Franse.**
 – Visitai la Francia.  
-**mi pas ada gul yo bir.**
+**mi did ada gul yo bir.**
 – Ero solito bere birra. / Avevo l'abitudine di bere birra.  
-**mi pas lai to siti.**
+**mi did lai to siti.**
 – Venni in città.
 
-**sha**
+**vil**
 'futuro'
 indica che l'azione avrà luogo più tardi o in futuro.
 
-**da _sha_ e guru.**
+**da _vil_ es guru.**
 – Lui sarà un insegnante.  
-**mi no _sha_ gul bir.**
+**mi no _vil_ gul bir.**
 – Non berrò birra.
+
+
+### Aspetto
+
+**bi**
+'essere in corso'
+indica che una situazione sta avvenendo nel presente.
+
+**man** ***bi*** **yam ban.**
+– L'uomo *stava* o *sta* mangiando il pane.  
+**man** ***did bi*** **yam ban.**
+– L'uomo stava mangiando il pane.  
+**man** ***bi*** **yam ban.**
+– L'uomo sta mangiando il pane.  
+**man** ***vil bi*** **yam ban.**
+– L'uomo mangerà ancora il pane.
+
+**ha**
+'aver fatto'
+indica che un'azione è avvenuta nel passato e si sta ancora svolgendo o che è rilevante per la situazione attuale.
+Si traduce con *già* o *(non) ancora*.
+Si può pensare a qualcosa di simile al passato prossimo italiano (_Ho fatto_, _ho mangiato_).
+
+**man** ***ha*** **yam ban.**
+– L'uomo *aveva*, *ha* o *avrà* mangiato il pane.  
+**man** ***did ha*** **yam ban.**
+– L'uomo aveva mangiato il pane.  
+**man** ***nau ha*** **yam ban.**
+– L'uomo ha mangiato il pane.  
+**man** ***vil ha*** **yam ban.**
+– L'uomo avrà mangiato il pane.
 
 
 ## Transitività
@@ -191,21 +144,21 @@ il primo verbo (un ausiliare) è qualcosa che il soggetto possiede
 e il secondo verbo è qualcosa che il soggetto fa (quando è presente un complemento oggetto)
 o che esperisce (se non è presente alcun complemento oggetto).
 
-**mi bil kitabi la javabe.**  
+**mi ken kitabe da javabe.**  
 ≈ *Ho la capacità di scrivere la risposta.*  
 – So scrivere la risposta.  
-**mi halal kitabi la javabe.**  
+**mi halal kitabe da javabe.**  
 ≈ *Ho il permesso di scrivere la risposta.*  
 – Posso scrivere la risposta.  
-**mi mus kitabi la javabe.**  
+**mi mus kitabe da javabe.**  
 ≈ *Ho l'obbligo di scrivere la risposta.*  
 – Devo scrivere la risposta.
 
 Nota che gli stessi verbi ausiliari possono essere usati da soli come verbi transitivi nella costruzione fondamentale.
 
-**guru halal mi kitabi la javabe.**
+**guru halal mi kitabe da javabe.**
 – L'insegnante mi permette di scrivere la risposta.  
-**guru mus mi kitabi la javabe.**
+**guru mus mi kitabe da javabe.**
 – L'insegnante mi obbliga a scrivere la risposta.
 
 
@@ -221,33 +174,11 @@ La preposizione
 **a**
 indica una destinazione, un obiettivo o uno scopo, 'a, verso, per'.
 
-**damen marche a bazar.**
+**di marche a bazar.**
 – Loro camminano verso il mercato.  
-**mi vol don ye buku a tu.**
+**mi van don ye buke a tu.**
 – Voglio dare questo libro a te.
 
-#### bi
-
-La preposizione
-**bi**
-indica uno strumento, 'con, per mezzo di'.
-
-**da bate bi hamar.**
-– Lui colpisce con il martello.  
-**da kitabi bi kalam.**
-– Lui scrive con una penna.
-
-Indica anche un mezzo di scambio, 'per'.
-
-**da shope la juba bi unli 20 euro.**
-– Lei ha comprato il vestito per soli 20 euro.
-
-Indica anche la lingua di un discorso o di un testo, 'in'.
-
-**mimen loga bi pandunia**
-– Noi parliamo in pandunia.  
-**damen kitabi bi farsi**
-– Loro scrivono in persiano.
 
 #### de
 
@@ -255,7 +186,7 @@ La preposizione
 **de**
 indica separazione o allontanamento, 'via, via da, da'.
 
-**damen lai de Brazil.**
+**di lai de Brazil.**
 – Loro vengono dal Brasile.
 
 #### ex
@@ -273,7 +204,7 @@ La preposizione
 **in**
 indica posizione interna, 'dentro a, in, all'interno'.
 
-**zulmivan ya sir in la burgi.**
+**zulmivan ya sir in da burgi.**
 – Il tiranno si nasconde nel castello.
 
 #### kon
@@ -291,7 +222,7 @@ La preposizione
 **pos**
 indica posizione posteriore nel tempo o nello spazio, 'dopo'.
 
-**damen lai pos mi.**
+**di lai pos mi.**
 – Loro vengono dopo di me.
 
 #### pre
@@ -318,7 +249,7 @@ La preposizione
 **re**
 indica movimento di ritorno, 'indietro'.
 
-**da don la buku re mi.**
+**da don da buke re mi.**
 – Lui mi ha dato il libro indietro.
 
 #### tra
@@ -336,7 +267,7 @@ La preposizione
 **via**
 indica strada, via o percorso, 'via, per'.
 
-**mimen lai a Berlin via Praha.**
+**vi lai to Berlin via Praha.**
 – Arriviamo a Berlino via Praga.
 
 #### vise

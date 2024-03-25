@@ -51,25 +51,25 @@ is placed immediately before the verb.
 – They write _well_.
 
 It is common to put the modifying particle
-**di**
+**li**
 between the modifier and the verb.
 It makes the structure of the verb phrase clearer.
 
-**tu _mei di_ kitabe.**
+**tu _mei li_ kitabe.**
 – You write _beautifully_.  
-**di _suga di_ marche.**
+**di _suga li_ marche.**
 – They walk _fast_.
 
 
 ## Modifying other modifiers
 
 The particle
-**di**
+**li**
 is used also when a modifier modifies another one.
 
-**un _dai di_ hau buke**
+**un _dai li_ hau buke**
 – a _greatly_ good book  
-**poli _bala di_ love ja jen**
+**_bala li_ lovente jen**
 – _strongly_ loving people
 
 
@@ -132,7 +132,7 @@ Adjectives can be compared with the adverbs of comparison.
   (_less_) indicates comparison of inferiority
 - **minim**
   (_least_) indicates the superlative of inferiority
-- **par**
+- **sim**
   (_as_ or _equally_) indicates the comparison of equality
 
 The particle
@@ -143,6 +143,6 @@ relates the adverbs of comparison to the object of comparison.
 = Apples are better than oranges.  
 **aranja es min hau ka aple.**
 = Oranges are less good than apples.  
-**tu loga par hau ka mi.**
+**tu loga sim hau ka mi.**
 = You speak as well as me.
 
