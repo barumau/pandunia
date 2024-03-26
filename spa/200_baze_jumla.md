@@ -534,29 +534,29 @@ No, no quiero té. Quiero café.
 Esta roja.
 
 
-### ching <small>pedir, solicitud, por favor</small>
+### plis <small>pedir, solicitud, por favor</small>
 
-**mi ching tu yam cai.**
+**mi plis tu yam cai.**
 Te pido que bebas té.
 
-**mi ching tu lai dom.**
+**mi plis tu lai dom.**
 Te pido que vengas a casa.
 
-**mi ching tu mede mi.**
+**mi plis tu mede mi.**
 Te pido que me ayudes.
 
 Ayuda: Para hacer solicitudes directas, no pongas ningún pronombre.
 
-**ching yam cai.**
+**plis yam cai.**
 Por favor, bebe/beban té.
 
-**ching yam kafe.**
+**plis yam kafe.**
 Por favor, bebe/beban café.
 
-**ching lai dom.**
+**plis lai dom.**
 Por favor, ven/vengan a casa.
 
-**ching mede mi.**
+**plis mede mi.**
 Por favor, ayúdame/ayúdenme.
 
 
@@ -679,7 +679,7 @@ El gato dice «miau».
 **mi no bil audi tu.**
 No puedo oírte.
 
-**ching loga mas bala.**
+**plis loga mas bala.**
 Por favor, hablar más fuerte.
 
 **mi audi muzika.**
@@ -721,10 +721,10 @@ No entiendo qué significa.
 
 ### kitabi <small>escribir</small>
 
-**ching kitabi tu su adres.**
+**plis kitabi tu su adres.**
 Por favor, escribe tu dirección.
 
-**ching kitabi da a ye.**
+**plis kitabi da a ye.**
 Por favor, escríbelo aquí.
 
 
@@ -777,7 +777,7 @@ Vamos caminando.
 
 ### lai <small>venir</small>
 
-**ching lai!**
+**plis lai!**
 ¡Ven aquí! ¡Vengan aquí!
 
 **tu lai de ke?**
@@ -854,7 +854,7 @@ no es necesario.
 
 ### dele <small>esperar</small>
 
-**ching dele!**
+**plis dele!**
 ¡Por favor, espera!
 
 **dele mi!**
@@ -871,10 +871,10 @@ Te espero en el hotel.
 
 ### don <small>dar</small>
 
-**ching don yo pesa.**
+**plis don yo pesa.**
 Por favor da dinero.
 
-**ching don da to mi.**
+**plis don da to mi.**
 Por favor dame eso.
 
 **mi don ye to tu.**
@@ -892,7 +892,7 @@ Le doy un libro a ellos/as.
 **mi sepe un kafe.**
 Voy a tomar un café.
 
-**ching sepe un kafe to mi.**
+**plis sepe un kafe to mi.**
 Por favor toma un café para mí.
 
 **tu pas sepe pesa de mi.**

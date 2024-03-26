@@ -274,20 +274,20 @@ chef, patron
 **halo!**
 = Bonjour !  
 <big>🧓</big>
-**halo! ching side.**
+**halo! plis side.**
 = Bonjour ! Asseyez-vous je vous prie !  
 <big>🧒</big>
 **shukre.**
 = Merci.  
 <big>🧓</big>
-**ching yam kafe o cha.**
+**plis yam kafe o cha.**
 = Prenez du thé ou du café, je vous prie
 <big>🧒</big>
 **mi van cha. shukre.**
 = Je prends du thé, merci.  
 ...  
 <big>🧓</big>
-**ching sal tu su mama!**
+**plis sal tu su mama!**
 = S'il te plaît, salut ta mère.  
 <big>🧒</big>
 **mi sal da. sal reste!**
@@ -310,12 +310,12 @@ Les pronoms personnels en Pandunia sont :
 Il ne fait pas de distinction entre les sexes des pronoms à la troisième personne ou de n'importe quels autres pronoms.
 Tous les pronoms personnels sont présents dans la phrase suivante.
 
-**mi ching tu sal da.**
+**mi plis tu sal da.**
 = Je te demande de le/la saluer.
 
 Cette phrase a une _structure pivot_.
 Le premier verbe
-**ching**
+**plis**
 (demander) s'adresse à
 **tu**
 comme objet. Dans le même temps
@@ -340,13 +340,13 @@ En d'autres termes, le locuteur peut supposer que les auditeurs savent de qui il
 Il n'est donc pas nécessaire de les répéter sans cesse.
 De cette manière, les phrases peuvent être raccourcies.
 
-**mi ching tu sal da.**
+**mi plis tu sal da.**
 = Je te demande de le/la saluer.  
-**ching sal da.**
+**plis sal da.**
 = S'il te plaît salue le/la.
 
 Avez-vous noté comment la traduction de
-**ching**
+**plis**
 a changé entre les deux phrases ?
 Le sens du mot – le concept –, n'a pas changé, c'est son utilisation qui a changé.
 Le français reflète ce changement en
@@ -356,24 +356,24 @@ C'est un principe en Pandunia qu'il y ait toujours eshactement un mot pour un co
 On ne crée pas différents mots simplement parce que le rôle grammatical d'un concept change.
 
 La phrase
-**ching sal da**
+**plis sal da**
 est un modèle très utile pour les formules de politesses.
 
-**ching side.**
+**plis side.**
 = Asseyez-vous s'il vous plaît..  
-**ching don kafe.**
+**plis don kafe.**
 = S'il vous plaît, donnez-moi du café.  
-**ching don cha.**
+**plis don cha.**
 = S'il vous plaît, donnez-moi du thé. 
-**ching yam cha.**
+**plis yam cha.**
 = S'il vous plaît, prenez un peu de thé.  
-**ching safi kamar.**
+**plis safi kamar.**
 = Nettoyez la chambre s'il vous plaît
 
 Les ordres sont données avec
 **amir**
 (ordonner). Ils utilisent la même structure de pivot que les requêtes avec
-**ching**.
+**plis**.
 
 **amir don cha.**
 = Donnez-moi du thé !  
@@ -404,7 +404,7 @@ Essayez de traduire ces phrases du Français au Pandunia.
 ordonner  
 **cha**
 thé  
-**ching**
+**plis**
 demander (poliment), s'il-vous-plaît  
 **don**
 donner  
@@ -429,9 +429,9 @@ manger ou boire, consommer
 ### Réponses aux exercices
 
 1. da yam cha.
-2. da shefe ching da side.
-3. ching yam kafe o cha.
-4. mama ching mi safi kamar.
+2. da shefe plis da side.
+3. plis yam kafe o cha.
+4. mama plis mi safi kamar.
 5. shefe side i yam kafe.
 
 
@@ -480,7 +480,7 @@ manger ou boire, consommer
 ### Poser des questions
 
 Les questions auxquelles on peut répondre par _oui_ ou par _non_ ont la même structure pivot que les requêtes formulées avec
-**ching**
+**plis**
 que vous avez appris dans la leçon précédente. Les phrases interrogatives sont introduites avec
 **sual**
 'demander, questionner'.
@@ -628,11 +628,11 @@ En Pandunia, la négation affecte le mot qui le suit ;
 le sens de la phrase change donc selon l'emplacement du
 **no**.
 
-**mi ching tu safi kamar.**
+**mi plis tu safi kamar.**
 = Je te demande de nettoyer la chambre.  
-**mi no ching tu safi kamar.**
+**mi no plis tu safi kamar.**
 = Je ne te demande pas de nettoyer la chambre.  
-**mi ching tu no safi kamar.**
+**mi plis tu no safi kamar.**
 = Je te demande de ne pas nettoyer la chambre.
 
 

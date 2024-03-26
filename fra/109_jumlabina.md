@@ -169,9 +169,9 @@ C'est particulièrement valable pour l'expression d'ordres et de demandes.
 
 ###. Short pivot structure (VVO)
 
-**mi ching tu lai to dom.**
+**mi plis tu lai to dom.**
 – Je te prie de venir à la maison.  
-**ching lai to dom!**
+**plis lai to dom!**
 – S'il te plait viens à la maison !
 (Mot à mot : _Demande viens maison !_)
 
@@ -248,11 +248,11 @@ Le sens de la phrase change donc selon l'emplacement du
 **mi vide no tu ama damen.**
 – Ce n'est pas toi que je vois, mais eux.
 
-**mi ching tu saf la kamar.**
+**mi plis tu saf la kamar.**
 – Je te demande de nettoyer la chambre.  
-**mi no ching tu saf la kamar.**
+**mi no plis tu saf la kamar.**
 – Je NE demande PAS à toi de nettoyer la chambre.  
-**mi ching tu no saf la kamar.**
+**mi plis tu no saf la kamar.**
 – Je te demande de NE PAS nettoyer la chambre.
 
 Les particules **ya** et **no** sont également utilisées pour répondre aux questions.

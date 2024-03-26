@@ -187,9 +187,9 @@ Esto es común especialmente en mandatos y pedidos.
 
 ### Estructura de eje corta (VVO)
 
-**mi ching tu lai to dom.**
+**mi plis tu lai to dom.**
 – Yo te pido que vienes a casa.  
-**ching lai to dom!**
+**plis lai to dom!**
 – ¡Por favor viene a casa!
 (Palabra por palabra: _¡Pedir venir a casa!_)
 

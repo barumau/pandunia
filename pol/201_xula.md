@@ -236,20 +236,20 @@ ojciec, tata
 **sal!**
 = Cześć!  
 <big>☺</big>
-**sal! ching side.**
+**sal! plis side.**
 = Cześć! Proszę, usiądź!  
 <big>☻</big>
 **shukre.**
 = Dziękuję.  
 <big>☺</big>
-**ching yam kafe o cha.**
+**plis yam kafe o cha.**
 = Proszę, napij się kawy lub herbaty.  
 <big>☻</big>
 **mi yam cha. shukre.**
 = Napiję się herbaty, dziękuję.  
 ...  
 <big>☺</big>
-**ching sal tu su mama!**
+**plis sal tu su mama!**
 = Proszę pozdrów twoją matkę.  
 <big>☻</big>
 **mi sal da. sal!**
@@ -266,12 +266,12 @@ Pandunia jest językiem neutralnym płciowo.
 Nie rozróżnia płci w zaimkach trzecioosobowych ani jakichkolwiek innych zaimkach.
 Wszystkie zaimki osobowe są obecne przykładowym zdaniu poniżej.
 
-**mi ching tu sal da.**
+**mi plis tu sal da.**
 = Ja proszę cię, żebyś pozdrowił go/ją.
 
 Te zdanie ma _strukturę osiową_.
 Pierwszy czasownik,
-**ching**
+**plis**
 = prosić, odnosi się do
 **tu**
 jako swojego dopełnienia. Jednocześnie
@@ -292,30 +292,30 @@ Pamiętaj, że można opóścić zaimki znane z kontekstu.
 Innymi słowy, mówiący może spokojnie założyć, że słuchacze wiedzą, o kim mówi, więc nie potrzeba wciąż ich powtarzać.
 W ten sposób zdania mogą być skracane.
 
-**mi ching tu sal da.**
+**mi plis tu sal da.**
 = Ja proszę cię, żebyś pozdrowił go/ją.  
-**ching sal da.**
+**plis sal da.**
 = Proszę, pozdrów go/ją.
 
 Zdanie
-**ching sal da**
+**plis sal da**
 ma użyteczny wzór, użyteczny przy grzecznych prośbach.
 
-**ching side.**
+**plis side.**
 = Proszę, usiąść.  
-**ching don kafe.**
+**plis don kafe.**
 = Proszę, podaj kawę.  
-**ching don cha.**
+**plis don cha.**
 = Proszę, podaj herbatę.  
-**ching yam cha.**
+**plis yam cha.**
 = Proszę, pij herbatę.  
-**ching safi kamar.**
+**plis safi kamar.**
 = Proszę, sprzątaj pokój.
 
 Rozkazy są wprowadzane z
 **amir**
 = rozkazać. Kożystają z takiej samej struktury osiowej, co prośby z
-**ching**.
+**plis**.
 
 **amir don cha.**
 = Daj (mi) herbatę!  
@@ -343,7 +343,7 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 **cha**
 herbata  
-**ching**
+**plis**
 poprosić, prosić  
 **don**  
 dać, dawać  
@@ -369,9 +369,9 @@ jeść lub pić
 ### Odpowiedzi do Ćwiczeń
 
 1. da yam cha.
-2. la shefe ching da side.
-3. ching yam kafe o cha.
-4. mama ching mi safi kamar.
+2. la shefe plis da side.
+3. plis yam kafe o cha.
+4. mama plis mi safi kamar.
 5. shefe side i yam kafe.
 
 
@@ -420,7 +420,7 @@ jeść lub pić
 ### Zadawanie pytań
 
 Pytanie, na które można odpowiedzieć mówiąc _tak_ lub _nie_ mają taką samą strukturę osiową, co prośby z
-**ching**,
+**plis**,
 której nauczyłeś się w poprzedniej lekcji.
 Pytania są wprowadzane słowem
 **sual**
@@ -562,11 +562,11 @@ zaprzecza istnieniu pozdrowienia.
 W Panduni słowo negujące działa na nastepne słowo.
 Różne zakresy przeczenia mogą zależeć od lokalizacji słowa negującego.
 
-**mi ching tu safi kamar.**
+**mi plis tu safi kamar.**
 – Ja proszę cię, żebyś sprzątał pokój.  
-**mi no ching tu safi kamar.**
+**mi no plis tu safi kamar.**
 – Ja NIE proszę cię, żebyś sprzątał pokój.  
-**mi ching tu no safi kamar.**
+**mi plis tu no safi kamar.**
 – Ja proszę cię, żebyś NIE sprzątał pokoju.
 
 

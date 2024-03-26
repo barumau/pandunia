@@ -564,29 +564,29 @@ La rouge. (mot à mot _cette rouge-ci_)
 
 
 
-### ching <small>demander, s’il vous plait</small>
+### plis <small>demander, s’il vous plait</small>
 
-**mi ching tu yam cha.**
+**mi plis tu yam cha.**
 Je te demande si tu veux du thé.
 
-**mi ching tu lai dom.**
+**mi plis tu lai dom.**
 Je te demande de venir à la maison.
 
-**mi ching tu mede mi.**
+**mi plis tu mede mi.**
 Je te demande de m’aider.
 
 Astuce : Pour créer des demandes directes, retirez les pronoms.
 
-**ching yam cha.**
+**plis yam cha.**
 Prenez un thé, je vous en prie !
 
-**ching yam kafe.**
+**plis yam kafe.**
 Servez-vous un café, faites donc !
 
-**ching lai dom.**
+**plis lai dom.**
 Viens à la maison, s’il te plait !
 
-**ching mede mi.**
+**plis mede mi.**
 Aide moi, s’il te plait.
 
 
@@ -711,7 +711,7 @@ Un chat dit miaou.
 **mi no bil audi tu.**
 Je ne t’entends pas. (Je n’arrive pas à t’entendre)
 
-**ching loga mas bala.**
+**plis loga mas bala.**
 Parlez plus fort, s’il vous plait.
 
 **mi audi muzika.**
@@ -753,10 +753,10 @@ Je ne comprend pas ce que cela signifie.
 
 ### kitabi <small>écrire</small>
 
-**ching kitabi tu su adres.**
+**plis kitabi tu su adres.**
 S’il te plait, écris ton adresse.
 
-**ching kitabi da a ye.**
+**plis kitabi da a ye.**
 S’il te plait, écris-le là !
 
 
@@ -810,7 +810,7 @@ On y va à pied !
 
 ### lai <small>venir</small>
 
-**ching lai!**
+**plis lai!**
 Viens ici !
 
 **tu lai de ke?**
@@ -877,7 +877,7 @@ Est-ce que tu résides dans cet hôtel ?
 
 ### dele <small>attendre</small>
 
-**ching dele!**
+**plis dele!**
 Veuillez attendre !
 
 **dele mi!**
@@ -961,10 +961,10 @@ Il / Elle sera à la maison.
 
 ### don <small>donner</small>
 
-**ching don yo pesa.**
+**plis don yo pesa.**
 Donne-moi de l’argent, s’il te plait.
 
-**ching don da to mi.**
+**plis don da to mi.**
 Donne-le moi, s’il te plait.
 
 **mi don ye to tu.**
@@ -982,7 +982,7 @@ Il/elle ne veut pas me le donner.
 **mi sepe un kafe.**
 Je vais prendre un café.
 
-**ching sepe un kafe to mi.**
+**plis sepe un kafe to mi.**
 Prends-moi un café, s’il te plait.
 
 **tu pas sepe pesa de mi.**

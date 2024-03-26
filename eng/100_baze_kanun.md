@@ -109,12 +109,12 @@ A similar effect can be also reached with the impersonal pronoun
 – One speaks Pandunia.
 
 In the _pivot structure_, the object of the transitive verb functions as the subject of the following verb.  
-**mi ching tu loga pandunia.**
+**mi plis tu loga pandunia.**
 – I ask you to speak Pandunia.
 
 Pronouns can be left out when they are obvious and redundant.  
-**_mi_ ching _tu_ loga pandunia.**
-→ **ching loga pandunia.**  
+**_mi_ plis _tu_ loga pandunia.**
+→ **plis loga pandunia.**  
 – Please speak Pandunia.
 
 

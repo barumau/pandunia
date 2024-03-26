@@ -104,14 +104,14 @@
 人がパンドゥニアを話す。
 
 他動詞の目的語のあとに別の動詞を続けることができます。この構文をパンドゥニアでは「ピボット構造」と呼びます。  
-**mi ching.**
+**mi plis.**
 – 私はお願いをします。  
-**mi ching tu loga pandunia.**
+**mi plis tu loga pandunia.**
 – あなたがパンドゥニアを話すように私は（あなたに）お願いをします。
 
 文脈から明らかである場合などには、代名詞を省略しても構いません。  
-**_mi_ ching _tu_ loga pandunia.**
-→ **ching loga pandunia.**  
+**_mi_ plis _tu_ loga pandunia.**
+→ **plis loga pandunia.**  
 – パンドゥニアで話すようにお願いします。（＝パンドゥニアで話してください。）
 
 

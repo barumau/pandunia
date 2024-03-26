@@ -498,29 +498,29 @@ Qual maçã você quer?
 Isso vermelho.
 
 
-### ching <small>pedir, por favor</small>
+### plis <small>pedir, por favor</small>
 
-**mi ching tu yam cai.**
+**mi plis tu yam cai.**
 Peço-lhe para beber chá.
 
-**mi ching tu lai dom.**
+**mi plis tu lai dom.**
 Peço-lhe que volte para casa.
 
-**mi ching tu mede mi.**
+**mi plis tu mede mi.**
 Peço-lhe que me ajude.
 
 Para fazer pedidos diretos, não coloque nenhum pronome.
 
-**ching yam cai.**
+**plis yam cai.**
 Por favor, beba chá.
 
-**ching yam kafe.**
+**plis yam kafe.**
 Por favor, beba café.
 
-**ching lai dom.**
+**plis lai dom.**
 Por favor, venha para casa.
 
-**ching mede mi.**
+**plis mede mi.**
 Por favor me ajude.
 
 
@@ -639,7 +639,7 @@ Escute-me!
 **mi no bil audi tu.**
 Não consigo te ouvir.
 
-**ching loge max bala.**
+**plis loge max bala.**
 Por favor, fale mais alto.
 
 **mi audi muzika.**
@@ -681,10 +681,10 @@ Eu não entendo o que significa.
 
 ### kitaba <small>escrever</small>
 
-**ching kitaba tu su adres.**
+**plis kitaba tu su adres.**
 Por favor, escreva seu endereço.
 
-**ching kitaba da a ye.**
+**plis kitaba da a ye.**
 Escreva aqui, por favor.
 
 
@@ -737,7 +737,7 @@ Vamos andando.
 
 ### lai <small>venha</small>
 
-**ching lai!**
+**plis lai!**
 Vem aqui! Venha aqui!
 
 **tu lai de ke?**
@@ -810,7 +810,7 @@ em vez de
 
 ### dele <small>esperar</small>
 
-**ching dele!**
+**plis dele!**
 Por favor, espere!
 
 **dele mi!**
@@ -827,10 +827,10 @@ Te espero no hotel.
 
 ### don <small>dar</small>
 
-**ching don yo pesa.**
+**plis don yo pesa.**
 Por favor, dê dinheiro.
 
-**ching don da to mi.**
+**plis don da to mi.**
 Por favor, dê-me isso.
 
 **mi don ye to tu.**
@@ -848,7 +848,7 @@ Ele/ela não quer me dar isso.
 **mi sepe un kafe.**
 Vou beber uma xícara de café.
 
-**ching sepe un kafe to mi.**
+**plis sepe un kafe to mi.**
 Por favor, tome um café para mim.
 **tu pas sepe pesa de mi.**
 Você já tirou dinheiro de mim.

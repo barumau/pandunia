@@ -585,9 +585,9 @@ In commands and requests also the second participant can be left out
 when it indicates the second person ('you').
 The the remaining syntactic structure is `verb₁–verb₂–object`.
 
-**mi ching tu lai dom.**
+**mi plis tu lai dom.**
 – I ask you to come home.  
-**ching lai dom!**
+**plis lai dom!**
 – Please come home!  
 **mi amir tu kluze da mun.**
 – I command you to shut the door.  
@@ -974,11 +974,11 @@ Different scopes of negation may result depending on the location of the negativ
 **mi vize no tu ama di.**
 – I see, not you, but them.
 
-**mi ching tu safi da kamar.**
+**mi plis tu safi da kamar.**
 – I ask you to clean the room.  
-**mi no ching tu safi da kamar.**
+**mi no plis tu safi da kamar.**
 – I do NOT ask you to clean the room.  
-**mi ching tu no safi da kamar.**
+**mi plis tu no safi da kamar.**
 – I ask you NOT to clean the room.
 
 Particles **ya** and **no** are used also for answering questions.

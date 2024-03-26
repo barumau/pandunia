@@ -104,12 +104,12 @@ Un efeto similar se puede lograr con el pronombre impersonal
 – Se habla Pandunia.
 
 En la _structura de eje_, el objeto del verbo transitivo funcciona como el subjeto del verbo siguiente.  
-**mi ching tu loga pandunia.**
+**mi plis tu loga pandunia.**
 – Yo te pido a tú hablar Pandunia.
 
 Pronombres se pueden omitir cuando son obvios y superfluos.  
-**_mi_ ching _tu_ loga pandunia.**
-→ **ching loga pandunia.**  
+**_mi_ plis _tu_ loga pandunia.**
+→ **plis loga pandunia.**  
 – Por favor habla Pandunia.
 
 

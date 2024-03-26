@@ -120,9 +120,9 @@ V1の対象であり、V2のS(主語)でもあります。
 sual tu basha pandunia?
 – パンドゥニアを話せますか。
 
-**mi ching tu lai dom.**
+**mi plis tu lai dom.**
 – 帰ってきてくれませんか。  
-**ching lai dom!**
+**plis lai dom!**
 – 帰ってきてください!
 
 

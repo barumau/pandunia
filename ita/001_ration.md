@@ -450,7 +450,7 @@ ma è anche vicino ad alcuni usi dell'inglese "to be".
 Come per il cinese, il pandunia non marca i verbi con una parola come "to".
 
     Inglese:   I invite him to drink coffee.
-    Pandunia:  mi ching da yam kafe.
+    Pandunia:  mi plis da yam kafe.
     Cinese:    Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 In pandunia e cinese i sostantivi possono essere singolari o plurali a seconda delle parole intorno.

@@ -131,12 +131,12 @@ Oni povas atingi similan rezulton per la nepersona pronomo
 
 En la _ĉarnira konstruo_ la objekto de la unua verbo
 rolas kiel la subjekto de la dua verbo.  
-**mi ching tu tolke pandunia.**
+**mi plis tu tolke pandunia.**
 – Mi petas ke vi parolas Pandunia.
 
 Oni povas forĵeti pronomojn kiam ili estas nenecesaj.  
-**_mi_ ching _tu_ tolke pandunia.**
-→ **ching tolke pandunia.**  
+**_mi_ plis _tu_ tolke pandunia.**
+→ **plis tolke pandunia.**  
 – Bonvolu paroli Pandunian.
 
 

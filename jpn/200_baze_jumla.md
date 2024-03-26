@@ -505,29 +505,29 @@ hide:
 この赤いのです。
 
 
-### ching <small>頼む、お願いする</small>
+### plis <small>頼む、お願いする</small>
 
-**mi ching tu yam chai.**
+**mi plis tu yam chai.**
 私はあなたにお茶を頼みます(=お茶をお願いします)。
 
-**mi ching tu lai dom.**
+**mi plis tu lai dom.**
 私はあなたに(私の)家に来るよう頼みます(=私の家に来てください)。
 
-**mi ching tu mede mi.**
+**mi plis tu mede mi.**
 私はあなたに私を助けるよう頼みます(=助けてください)。
 
 ヒント：直接頼む場合は全ての代名詞を除外します。
 
-**ching yam chai.**
+**plis yam chai.**
 お茶をお願い。
 
-**ching yam kafe.**
+**plis yam kafe.**
 コーヒーを頼む!
 
-**ching lai dom.**
+**plis lai dom.**
 お願いだから(家に)帰ってきて!
 
-**ching mede mi.**
+**plis mede mi.**
 どうか助けてください。
 
 
@@ -647,7 +647,7 @@ hide:
 **mi no bil audi tu.**
 (あなたの声が私には)聞えません。
 
-**ching loga mas bala.**
+**plis loga mas bala.**
 大きな声で話してください。
 
 **mi audi yo muzika.**
@@ -689,10 +689,10 @@ hide:
 
 ### kitabe <small>書く</small>
 
-**ching kitabe tu su adres.**
+**plis kitabe tu su adres.**
 あなたの住所を書いてください。
 
-**ching kitabe da a ye.**
+**plis kitabe da a ye.**
 そこに書いてください。
 
 
@@ -745,7 +745,7 @@ hide:
 
 ### lai <small>来る、行く</small>
 
-**ching lai!**
+**plis lai!**
 こっちに来て!
 
 **tu lai de ke?**
@@ -812,7 +812,7 @@ hide:
 
 ### dele <small>待つ、待ち受ける</small>
 
-**ching dele!**
+**plis dele!**
 ちょっと待って!
 
 **dele mi!**
@@ -893,10 +893,10 @@ hide:
 
 ### don <small>与える</small>
 
-**ching don pesa.**
+**plis don pesa.**
 お金をください。
 
-**ching don da to mi.**
+**plis don da to mi.**
 それを私にください。
 
 **mi don da to tu.**
@@ -914,7 +914,7 @@ hide:
 **mi sepe un kafe.**
 私は一杯のコーヒーを得ました。
 
-**ching sepe un kafe to mi.**
+**plis sepe un kafe to mi.**
 (私に)コーヒーを一杯ください。
 
 **tu le sepe pesa de mi.**

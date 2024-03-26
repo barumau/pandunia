@@ -108,12 +108,12 @@ In alternativa è possibile utilizzare la costruzione con il pronome impersonale
 – Si parla il pandunia.
 
 Nella _struttura a incastro_, il complemento oggetto del verbo transitivo rappresenta a sua volta il soggetto del verbo seguente.  
-**mi ching tu loga pandunia.**
+**mi plis tu loga pandunia.**
 – Ti chiedo di parlare il pandunia. (lett. 'Chiedo (a te che) tu parli il pandunia.')
 
 I pronomi possono essere omessi quando sono ovvi o ridondanti.  
-**_mi_ ching _tu_ loga pandunia.**
-→ **ching loga pandunia.**  
+**_mi_ plis _tu_ loga pandunia.**
+→ **plis loga pandunia.**  
 – Per favore parla il pandunia.
 
 

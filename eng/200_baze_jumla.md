@@ -606,29 +606,29 @@ Which apple do you want?
 This red one.
 
 
-### ching <small>request, please</small>
+### plis <small>request, please</small>
 
-**mi ching tu yam cha.**
+**mi plis tu yam cha.**
 I ask you to drink tea.
 
-**mi ching tu lai dom.**
+**mi plis tu lai dom.**
 I ask you to come home.
 
-**mi ching tu mede mi.**
+**mi plis tu mede mi.**
 I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**ching yam cha.**
+**plis yam cha.**
 Please, have some tea!
 
-**ching yam kafe.**
+**plis yam kafe.**
 Please, have some coffee!
 
-**ching lai dom.**
+**plis lai dom.**
 Please, come home!
 
-**ching mede mi.**
+**plis mede mi.**
 Please, help me.
 
 
@@ -750,7 +750,7 @@ Listen to me!
 **mi no ken audi tu.**
 I can't hear you.
 
-**ching loga mas bala.**
+**plis loga mas bala.**
 Please speak louder.
 
 **mi audi muzika.**
@@ -792,10 +792,10 @@ I don't understand what it means.
 
 ### kitabe <small>write</small>
 
-**ching kitabe tu su adres.**
+**plis kitabe tu su adres.**
 Please, write your address.
 
-**ching kitabe da a ye.**
+**plis kitabe da a ye.**
 Please, write it here!
 
 
@@ -848,7 +848,7 @@ Let's go by foot!
 
 ### lai <small>to come</small>
 
-**ching lai!**
+**plis lai!**
 Come here!
 
 **tu lai de kua?**
@@ -915,7 +915,7 @@ Do you live in this hotel?
 
 ### dele <small>to wait</small>
 
-**ching dele!**
+**plis dele!**
 Please wait!
 
 **dele mi!**
@@ -984,10 +984,10 @@ He/she will be at home.
 
 ### don <small>give</small>
 
-**ching don som pesa.**
+**plis don som pesa.**
 Please give some money.
 
-**ching don da to mi.**
+**plis don da to mi.**
 Please give it to me.
 
 **mi don ye to tu.**
@@ -1005,7 +1005,7 @@ He/she doesn't want to give it to me.
 **mi sepe un kafe.**
 I will take a coffee.
 
-**ching sepe un kafe to mi.**
+**plis sepe un kafe to mi.**
 Please take one coffee for me.
 
 **tu did sepe pesa de mi.**
@@ -1068,7 +1068,7 @@ Nothing.
 **da koste kam / poli.**
 It is cheap / expensive.  
 
-**men ching vi lai.**
+**men plis vi lai.**
 We are being called.
 
 **mi soka tualete.**
@@ -1112,7 +1112,7 @@ Do you like ...?
 ****
 I feel alright.
 
-**ching side a ye!**
+**plis side a ye!**
 Please, sit here!
 
 **mi suka state.**

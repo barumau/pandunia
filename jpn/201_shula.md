@@ -201,19 +201,19 @@ dom **no** zou.
 **sal!**
 = こんにちは。  
 <big>🧓</big>
-**sal! ching side.**
+**sal! plis side.**
 = こんにちは、おかけになってください。  
 <big>🧒</big>
 **shukra.**
 = ありがとうございます。  
 <big>🧓</big>
-**ching yam yo kafe o chai.**
+**plis yam yo kafe o chai.**
 = コーヒーとお茶、どちらになさいますか。  
 ☻: **mi yam yo chai. shukra.**
 = お茶をください(ありがとう)。  
 ...  
 <big>🧓</big>
-**ching sal tu su mama!**
+**plis sal tu su mama!**
 = お母様によろしく言っておいてください。  
 <big>🧒</big>
 **mi sal da. sal sona!**
@@ -231,12 +231,12 @@ dom **no** zou.
 全ての人称代名詞が
 使われています。
 
-**mi ching tu sal da.**
+**mi plis tu sal da.**
 = **私**は**あなたに**、**彼/彼女/それ/その人**へあいさつをお願いします。
 
 この文は**依存文**です
 (直訳すると「依存構造」ですが、物々しいので平易な表現に改めています)。
-最初の動詞 **ching** は **tu** を目的語とします。
+最初の動詞 **plis** は **tu** を目的語とします。
 同時に **tu** は2つ目の動詞 **sal** の主語でもあり、その目的語は **da** です。
 つまり **tu** には「第1動詞の目的語」と「第2動詞の主語」という2つの役目があります。
 したがって **tu** は2つの動詞間の「依存」あるいは「連結」する存在となります。
@@ -250,9 +250,9 @@ dom **no** zou.
 安心して考えることができます。
 このようにして文を短くすることができます。
 
-**mi ching tu sal da.**
+**mi plis tu sal da.**
 = 私はあなたに、彼/彼女/それ/その人へあいさつをお願いします。  
-**ching sal da.**
+**plis sal da.**
 = 彼/彼女/その人へあいさつをお願いします。
 
 <!--
@@ -263,22 +263,22 @@ dom **no** zou.
 かえって混乱を招いてしまいます。
 -->
 
-**ching sal da** は
+**plis sal da** は
 丁寧なお願いをするときに役立つフレーズです。
 <!-- 【重要】日本語では同じ丁寧な外国語の文でも話し相手によって翻訳が変わります(丁寧語、謙譲語、他)。ここでは一般的な丁寧語で表現しています。 -->
-**ching side.**
+**plis side.**
 = 座ってください。  
-**ching don yo kafe.**
+**plis don yo kafe.**
 = コーヒーをください。  
-**ching don yo chai.**
+**plis don yo chai.**
 = お茶をください。  
-**ching yam yo chai.**
+**plis yam yo chai.**
 = お茶をどうぞ。  
-**ching safa la kamar.**
+**plis safa la kamar.**
 = 部屋の掃除をお願いします。
 
 命令は **amir**(命令する) で表します。
-以下の命令文は **ching** と同じ依存文を採用しています。
+以下の命令文は **plis** と同じ依存文を採用しています。
 
 **amir don yo cai.**
 = お茶をくれ。  
@@ -307,7 +307,7 @@ dom **no** zou.
 
 **amir** 命令する、注文する  
 **chai** お茶  
-**ching** お願いする、頼む  
+**plis** お願いする、頼む  
 **don** 与える、渡す  
 **shukra** ありがとう  
 **i** と(_and_)  
@@ -324,9 +324,9 @@ dom **no** zou.
 ### 練習の答え
 
 1. da yam chai.
-2. shef ching da side.
-3. ching yam yo kafe o chai.
-4. mama ching mi safa la kamar.
+2. shef plis da side.
+3. plis yam yo kafe o chai.
+4. mama plis mi safa la kamar.
 5. shef side i yam yo kafe.
 
 
@@ -365,7 +365,7 @@ dom **no** zou.
 ### 質問する
 
 「はい」「いいえ」で答えられる質問は、
-前回のレッスンで学んだ **ching** と同じ**依存文**(S1+V1+O1&S2+V2+O2)になっています。
+前回のレッスンで学んだ **plis** と同じ**依存文**(S1+V1+O1&S2+V2+O2)になっています。
 質問文は **sual**(尋ねる、質問する) を使います。この文は基本的に主語1を省略できます。
 
 **mi sual tu yam yo chai.**
@@ -489,11 +489,11 @@ mi **no** sal tu.
 否定の範囲は
 **no** の位置によって変わります
 
-mi ching tu safa la kamar.
+mi plis tu safa la kamar.
 = 私はあなたに部屋の掃除を頼みます。  
-mi **no** ching tu safa la kamar.
+mi **no** plis tu safa la kamar.
 = 私はあなたに部屋の掃除を頼み<u>ません</u>。  
-mi ching tu **no** safa la kamar.
+mi plis tu **no** safa la kamar.
 = 私はあなたに部屋の掃除を<u>しないこと</u>を頼みます。
 
 否定される側の単語の品詞には動詞、代名詞、名詞、形容詞、さらには数字など、

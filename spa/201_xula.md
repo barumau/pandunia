@@ -236,20 +236,20 @@ jefe, patrón
 **halo!**
 – ¡Hola!  
 <big>☺</big>
-**halo! ching side.**
+**halo! plis side.**
 – ¡ Hola!¡ Por favor sientese!  
 <big>☻</big>
 **shukre.**
 – ¡Gracias!  
 <big>☺</big>
-**ching yam kafe o cha.**
+**plis yam kafe o cha.**
 – Por favor beba algo de café o té.  
 <big>☻</big>
 **mi vol cha. shukre.**
 – Quiero té, gracias.  
 ...  
 <big>☺</big>
-**ching sal tu su mama!**
+**plis sal tu su mama!**
 – Por favor llevale saludos a tu madre.  
 <big>☻</big>
 **mi sal da. sal reste!**
@@ -272,11 +272,11 @@ Pandunia es una lengua de género neutral.
 No distingue sexos en los pronombres de las terceras personas o en otros pronombres.
 Todos los pronombres personales son usados en la siguiente oración.
 
-**mi ching tu sal da.**
+**mi plis tu sal da.**
 – Yo pedirte saludar a él/ella. (Te pido que saludes)
 
 Esta oración es una _oración eje_. El primer verbo,
-**ching**
+**plis**
 'pedir', se dirije a
 **tu**
 como su objeto. Al mismo tiempo
@@ -300,36 +300,36 @@ seguridad que los oyentes saben de lo que él o ella está hablando.
 Por lo tanto, es innecesario seguir repitiéndolas. De esta manera se
 pueden hacer frases más cortas. 
 
-**mi ching tu sal da.**
+**mi plis tu sal da.**
 – Yo te pido digas hola a él.
-**ching sal da.**
+**plis sal da.**
 – Por favor dile hola.
 
-¿Vea cómo la traducción de **ching** ha cambiado entre las dos frases?
+¿Vea cómo la traducción de **plis** ha cambiado entre las dos frases?
 El significado de la palabra, el concepto, no ha cambiado, pero sí su uso.
 En español se refleja este cambio mediante el uso de diferentes palabras, 'pedir' y 'por favor'.
 Pandunia puede hacer frente a los cambios de este tipo sin recurrir a diferentes palabras.
 Es un principio en Pandunia que siempre hay exactamente una palabra para un concepto.
 Diferentes palabras no se crean sólo por el papel gramatical de algunos cambios de concepto.
 
-La frase **ching sal da** tiene un patrón útil que puede ser
+La frase **plis sal da** tiene un patrón útil que puede ser
 utilizado para hacer peticiones corteses.
 
-**ching side.**
+**plis side.**
 – Por favor sientese.  
-**ching don kafe.**
+**plis don kafe.**
 – Por favor me da un poco de café.  
-**ching don cha.**
+**plis don cha.**
 – Por favor me da un poco de té.  
-**ching yam cha.**
+**plis yam cha.**
 – Por favor beba algo de té.  
-**ching safi kamar.**
+**plis safi kamar.**
 – Por favor limpie la habitación.  
 
 Las ordenes son introducidas con
 **amir**
 'ordenar'. Se utiliza la misma estructura eje como para pedir con
-**ching**.
+**plis**.
 
 **amir don cha.**
 – ¡Deme un poco de té!  
@@ -354,7 +354,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 ordenar  
 **cha**
 té  
-**ching**
+**plis**
 pedir, solicitar; por favor  
 **don**
 dar  
@@ -383,9 +383,9 @@ algo
 ### Respuestas
 
 1. da yam cha.
-2. la shefe ching da side.
-3. ching yam kafe o cha.
-4. mama ching mi safi kamar.
+2. la shefe plis da side.
+3. plis yam kafe o cha.
+4. mama plis mi safi kamar.
 5. shefe side i yam kafe.
 
 
@@ -434,7 +434,7 @@ algo
 
 ### Preguntando
 
-Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **ching** 'pedir', lo cual se vio en la lección anterior.
+Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **plis** 'pedir', lo cual se vio en la lección anterior.
 Las frases interrogativas se introducen con **sual** 'preguntar'.
 
 **mi sual tu yam cha.**
@@ -567,11 +567,11 @@ niega la existencia de
 En Pandunia la palabra negativa ne se aplica a la palabra que la sigue.
 Si que diferentes alcances de negación pueden resultar en función de la ubicación de la palabra negativa.
 
-**mi ching tu safi kamar.**
+**mi plis tu safi kamar.**
 – Yo te pedi limpiar la habitación.  
-**mi no ching tu safi kamar.**
+**mi no plis tu safi kamar.**
 – Yo no te pedi limpiar la habitación.  
-**mi ching tu no safi kamar.**
+**mi plis tu no safi kamar.**
 – Yo te pedi no limpiar la habitación.  
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 

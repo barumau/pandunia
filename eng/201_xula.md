@@ -289,13 +289,13 @@ chief, boss
 **halo, chin pa!**
 = Hello, grandfather!  
 <big>☺</big>
-**halo! ching side.**
+**halo! plis side.**
 = Hello! Please sit!  
 <big>☻</big>
 **shukre.**
 = Thank you.  
 <big>☺</big>
-**ching yam kafe o cha.**
+**plis yam kafe o cha.**
 = Please have some coffee or tea.  
 <big>☻</big>
 **ama mi un li yam cha! shukre.**
@@ -305,7 +305,7 @@ chief, boss
 **chin pa, mi mus ga a zai.**
 = Grandfather, I have to go now.  
 <big>☺</big>
-**okei. ching sal tu su mama!**
+**okei. plis sal tu su mama!**
 = OK. Please tell greetings to your mother.  
 <big>☻</big>
 **mi sal da. sal reste!**
@@ -328,12 +328,12 @@ Pandunia is a gender-neutral language.
 It doesn't distinguish between sexes in the third person pronoun or any of the pronouns.
 All the personal pronouns are present in the following example sentence.
 
-**mi ching tu sal da.**
+**mi plis tu sal da.**
 = I ask you to say hello to him/her.
 
 This sentence has a _pivot structure_.
 The first verb,
-**ching**
+**plis**
 ('to request), addresses
 **tu**
 as its object. At the same time
@@ -358,13 +358,13 @@ the context. In other words the speaker can safely assume that the
 listeners know who he/she is talking about. So it is unnecessary
 to keep on repeating them. In this manner phrases can be made shorter.
 
-**mi ching tu sal da.**
+**mi plis tu sal da.**
 = I ask you to say hello to him/her.  
-**ching sal da.**
+**plis sal da.**
 = Please say hello to him/her.
 
 See how the translation of
-**ching**
+**plis**
 changed between the two sentences?
 The meaning of the word, the concept, did not change, but its use did.
 English reflects this change by using different words, to ask and please.
@@ -373,24 +373,24 @@ It is a principle in Pandunia that there is always exactly one word for one conc
 Different words are not created just because the grammatical role of a concept changes.
 
 The phrase
-**ching sal da**
+**plis sal da**
 has a useful pattern that can be used for making polite requests.
 
-**ching side.**
+**plis side.**
 = Please be seated.  
-**ching don kafe.**
+**plis don kafe.**
 = Please give me some coffee.  
-**ching don cha.**
+**plis don cha.**
 = Please give me some tea.  
-**ching yam cha.**
+**plis yam cha.**
 = Please have some tea.  
-**ching safi kamar.**
+**plis safi kamar.**
 = Please clean the room.
 
 Commands are introduced with
 **amir**
 ('to command'). They employ the same pivot structure as requests with
-**ching**.
+**plis**.
 
 **amir don cha.**
 = Give (me) some tea!  
@@ -422,7 +422,7 @@ to order, to command
 tea  
 **chin pa**
 grandfather  
-**ching**
+**plis**
 to ask; please  
 **don**
 to give  
@@ -457,9 +457,9 @@ some, a(n)
 ### Answers to the Exercises
 
 1. da yam cha.
-2. da shefe ching da side.
-3. ching yam kafe o cha.
-4. mama ching mi safi kamar.
+2. da shefe plis da side.
+3. plis yam kafe o cha.
+4. mama plis mi safi kamar.
 5. shefe side i yam kafe.
 
 
@@ -511,7 +511,7 @@ some, a(n)
 ### Asking questions
 
 Questions that can be answered by saying _yes_ or _no_ have the same pivot structure as requests with
-**ching**,
+**plis**,
 which you learned in the previous lesson.
 Question sentences are introduced with
 **sual**
@@ -661,11 +661,11 @@ In Pandunia the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
 of the negative word.
 
-**mi ching tu safi kamar.**
+**mi plis tu safi kamar.**
 = I ask you to clean the room.  
-**mi no ching tu safi kamar.**
+**mi no plis tu safi kamar.**
 = I do NOT ask you to clean the room.  
-**mi ching tu no safi kamar.**
+**mi plis tu no safi kamar.**
 = I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective

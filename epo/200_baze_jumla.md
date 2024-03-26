@@ -551,29 +551,29 @@ Kiun pomon vi volas manĝi?
 Tiun ruĝan.
 
 
-### ching <small>peti</small>
+### plis <small>peti</small>
 
-**mi ching tu yam cha.**
+**mi plis tu yam cha.**
 Mi petas ke vi trinku teon.
 
-**mi ching tu lai dom.**
+**mi plis tu lai dom.**
 Mi petas ke vi venu hejmen.
 
-**mi ching tu mede mi.**
+**mi plis tu mede mi.**
 Mi petas ke vi helpu min.
 
 Noto: Faru mallongajn petojn forlasante la pronomojn.
 
-**ching yam cha.**
+**plis yam cha.**
 Bonvolu trinki teon!
 
-**ching yam kafe.**
+**plis yam kafe.**
 Bonvolu trinki kafon!
 
-**ching lai dom.**
+**plis lai dom.**
 Bonvolu veni hejmen!
 
-**ching mede mi.**
+**plis mede mi.**
 Bonvolu helpi min.
 
 
@@ -694,7 +694,7 @@ Aŭskulti min!
 **mi no ken audi tu.**
 Mi ne povas aŭdi vin.
 
-**ching loga mas bala.**
+**plis loga mas bala.**
 Bonvolu paroli pli forte.
 
 **mi audi muzika.**
@@ -734,10 +734,10 @@ Mi ne komprenas kion ĝi signifas.
 
 ### kitabe <small>skribi</small>
 
-**ching kitabe tu su adres.**
+**plis kitabe tu su adres.**
 Bonvolu skribi vian adreson.
 
-**ching kitabe da a hir.**
+**plis kitabe da a hir.**
 Bonvolu skribi ĝin ĉi tie!
 
 
@@ -789,7 +789,7 @@ Ni iru piede!
 
 ### lai <small>veni</small>
 
-**ching lai!**
+**plis lai!**
 Bonvolu veni!
 
 **tu lai de kua?**
@@ -855,7 +855,7 @@ Mi loĝas en Singapuro.
 
 ### dele <small>atendi</small>
 
-**ching dele!**
+**plis dele!**
 Bonvolu, atendu!
 
 **dele mi!**

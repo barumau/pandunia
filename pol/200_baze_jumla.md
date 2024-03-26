@@ -487,29 +487,29 @@ Te czerwone.
 
 
 
-### ching <small>prosić</small>
+### plis <small>prosić</small>
 
-**mi ching tu yam cha.**
+**mi plis tu yam cha.**
 Proszę, żebyś napił się herbaty.
 
-**mi ching tu lai dom.**
+**mi plis tu lai dom.**
 Proszę, żebyś przyszedł do domu.
 
-**mi ching tu mede mi.**
+**mi plis tu mede mi.**
 Proszę, żebyś mi pomógł.
 
 Porada: By tworzyć bezpośrednie prośby, opuść wszystkie zaimki.
 
-**ching yam cha.**
+**plis yam cha.**
 Proszę, napij się herbaty!
 
-**ching yam kafe.**
+**plis yam kafe.**
 Proszę, napij się kawy!
 
-**ching lai dom.**
+**plis lai dom.**
 Proszę, przyjdź do domu!
 
-**ching mede mi.**
+**plis mede mi.**
 Proszę, pomóż mi.
 
 
@@ -658,7 +658,7 @@ Kot mówi miau.
 **mi no bil audi tu.**
 Nie mogę cię usłyszeć.
 
-**ching loga mas bala.**
+**plis loga mas bala.**
 Proszę, mów głośniej.
 
 **mi audi muzika.**
@@ -704,10 +704,10 @@ Nie rozumiem, co to znaczy.
 
 ### kitabi <small>pisać</small>
 
-**ching kitabi tu su adres.**
+**plis kitabi tu su adres.**
 Proszę, napisz swój adres.
 
-**ching kitabi da a ye.**
+**plis kitabi da a ye.**
 Proszę, napisz to tutaj!
 
 
@@ -764,7 +764,7 @@ Pójdźmy pieszo!
 
 ### lai <small>przybywać, przychodzić</small>
 
-**ching lai!**
+**plis lai!**
 Przyjdź tu!
 
 **tu lai de ke?**
@@ -837,7 +837,7 @@ Jakkolwiek **dom** już obejmuje znaczenie bycia w czymś, więc **a** nie jest 
 
 ### dele <small>czekać</small>
 
-**ching dele!**
+**plis dele!**
 Proszę, czekaj!
 
 **damen dele mimen.**
@@ -853,10 +853,10 @@ Czekam na ciebie w hotelu.
 
 ### don <small>dać</small>
 
-**ching don pesa.**
+**plis don pesa.**
 Proszę, daj trochę pieniędzy.
 
-**ching don da to mi.**
+**plis don da to mi.**
 Proszę, daj mi to.
 
 **mi don ye to tu.**
@@ -874,7 +874,7 @@ Nie chce dać mi tego.
 **mi sepe un kafe.**
 Wezmę kawę.
 
-**ching sepe un kafe to mi.**
+**plis sepe un kafe to mi.**
 Proszę, weź kawę dla mnie.
 
 **tu pas sepe pesa de mi.**
