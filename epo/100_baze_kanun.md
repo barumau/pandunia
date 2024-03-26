@@ -3,14 +3,15 @@
 
 ### (1) Mondaj vortoj
 
-Pandunia estas egala monda lingvo.
-Internaciaj vortoj estas pruntita de ĉiuj partoj de la mondo al Pandunia.
-Oni adaptigas al la prononcaj kaj skribaj sistemoj de Pandunia.
+Pandunia estas egale monda lingvo.
+Internaciaj vortoj estas pruntita el ĉiuj partoj de la mondo al Pandunia.
+Ili estas adaptitaj al la prononcaj kaj skribaj sistemoj de Pandunia.
 Nur unu baza vorto estas pruntita kaj aldonaj vortoj estas kunmetitaj laŭ regulo 10.
 
 
-### (2) Prononco
+### (2) Prononco kaj skribado
 
+La skribsistemo estas simpla kaj laŭregula.
 Ĉiu vorto elparoliĝas kiel ĝi skribiĝas.
 Neniu litero estas silenta.
 Nur minusklaj literoj estas necesaj.
@@ -21,66 +22,96 @@ Nur minusklaj literoj estas necesaj.
 La akcento estas sur la silabo, kiu estas antaŭ la lasta konsonanto.
 
 
-### (4) Pronomoj
-
-La personaj pronomoj estas:  
-**mi** _mi_, **tu** _vi_ (ununombre), **da** _ĝi, li aŭ ŝi_,
-**mimen** _ni_, **tumen** _vi_ (multenombre), **damen** _ili_.
-
-La posedaj pronomoj estas:  
-**mi su** _mia_, **tu su** _via_, **da su** _ĝia, lia aŭ ŝia_,
-**mimen su** _nia_, **tumen su** _via_, **damen su** _ilia_.
-
-La demandaj pronomoj estas:  
-**ke**
-_kio_ aŭ _kiu_,
-**ke su**
-_kies_.
-
-
 ### (5) Substantivoj
 
-Substantivoj ne ŝanĝiĝas laŭ nombro aŭ genro. Nature, ili estas
-nek virgenraj, nek ingenraj, nek ununombraj, nek multnombraj.
-
+Substantivoj neniam ŝanĝiĝas por indiki nombron, kazon aŭ genron.
+La nedifinaj artikoloj estas singulare **un** kaj plurale **som**.
+La difinaj artikoloj estas singulare **da** kaj plurale **di**.
 
 ### (6) Nombrovortoj
 
-La kardinalaj nombroj estas:  
-0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **nelu**, 5 **lima**, 6 **luka**,
-7 **ceti**, 8 **bati**, 9 **tisa**, 10 **des**.  
-Pli ol dek: 11 **des un**, 12 **des du**, 13 **des tri**, ktp.  
-Dekoj: 20 **du des**, 30 **tri des**, 40 **nelu des**, ktp.  
-Centoj: 100 **un sento**, 200 **du sento**, 300 **tri sento**, ktp.  
-Miloj: 1000 **un kilo**, 2000 **du kilo**, 3000 **tri kilo**, ktp.
+La kvantaj nombrovortoj estas:  
+0 **zero**, 1 **un**, 2 **due**, 3 **tri**, 4 **for**, 5 **faive**, 6 **sixe**,
+7 **seven**, 8 **eite**, 9 **nain**, 10 **ten**.  
+Pli grandaj ol dek: 11 **ten un**, 12 **ten du**, 13 **ten tri**, ktp.  
+Dekoj: 20 **du ten**, 30 **tri ten**, 40 **for ten**, ktp.  
+Centoj: 100 **un hunde**, 200 **due hunde**, 300 **tri hunde**, ktp.  
+Miloj: 1000 **un tauzen**, 2000 **due tauzen**, 3000 **tri tauzen**, ktp.
 
-La ordaj nombroj havas sufikson **me**:  
-**un me** (la unua), **du me** (la dua), **tri me** (la tria), ktp.
+Kvantaj nombrovortoj iĝas ordaj kiam ili estas metita post la substantivo.
+
+**buke un**
+– la unua libro  
+**buke due**
+– la dua libro  
+**buke tri**
+– la tria libro  
+ktp.
 
 
 ### (7) Modifaj vortoj
 
 Adjektivoj kaj adverboj havas saman formon.
 Ili antaŭas la vorton, kiun ili modifas.
-**un suga loga**
-– rapida parolo.  
-**tu suga loga.**
+
+**un rapide tolke**
+– rapida parolo  
+**yu rapide tolke.**
 – Vi rapide parolas.
 
+La adjektivoj estas ĉiam metita antaŭ la substantivo, kies sencon ili modifas.
+
+- La komparo de egaleco estas **as...as** (tiom...kiel).
+- La komparo de plieco estas **mor...dan** (pli...ol).
+- La komparo de malplieco estas **les...dan** (malpli...ol).
+
+
+### (4) Pronomoj
+
+La personaj pronomoj estas:  
+**mi**
+'mi',
+**tu**
+'vi (ununombre)',
+**da**
+'ĝi, li aŭ ŝi',
+**vi**
+'ni',
+**yu** 'vi (multenombre)',
+**di**
+'ili'.
+
+La posedaj pronomoj estas:  
+**mi's**
+'mia',
+**tu's**
+'via',
+**da's**
+'ĝia, lia aŭ ŝia',
+**vi's**
+'nia',
+**yu's**
+'via',
+**di's**
+'ilia'.
+
+La demandaj pronomoj estas:  
+**kua**
+'kio',
+**hu**
+'kiu',
+**hu's**
+'kies'.
 
 ### (8) Verboj
 
-Verboj ne ŝanĝiĝas laŭ persono, nombro aŭ tempo.
-Helpaj verboj indikas tempon.
+Verboj ne ŝanĝiĝas laŭ persono, nombro aŭ tenco.
+Helpaj verboj indikas tencon, aspekton kaj modon.
 
-- **zai**
-  indikas nunan agadon.
-- **le**
-  indikas finigitan agadon kies rezulto estas grave en la nuna situacio.
-- **pas**
-  indikas pasintan agadon.
-- **sha**
-  indikas estontan agadon.
+- La helpverbo **bi** indikas daŭran agon.
+- La helpverbo **ha** indikas kompletan agon, kies rezulto influas la nunan situacion.
+- La helpverbo **did** indikas pasintan agon.
+- La helpverbo **vil** indikas estontan agon.
 
 
 ### (9) Vortordo
@@ -91,25 +122,28 @@ La sama ordo estas uzata kaj en deklaroj kaj en demandoj.
 Pasiva frazo estas kreita per helpo de verbo
 **be**.
 Oni povas atingi similan rezulton per la nepersona pronomo
-**men**.
+**von**.
 
-**pandunia be loga.**
+**pandunia be tolke.**
 – Pandunia estas parolita.  
-**men loga pandunia.**
+**von tolke pandunia.**
 – Oni parolas pandunian.
 
 En la _ĉarnira konstruo_ la objekto de la unua verbo
 rolas kiel la subjekto de la dua verbo.  
-**mi ching tu loge pandunia.**
+**mi ching tu tolke pandunia.**
 – Mi petas ke vi parolas Pandunia.
 
 Oni povas forĵeti pronomojn kiam ili estas nenecesaj.  
-**_mi_ ching _tu_ loga pandunia.**
-→ **ching loga pandunia.**  
+**_mi_ ching _tu_ tolke pandunia.**
+→ **ching tolke pandunia.**  
 – Bonvolu paroli Pandunian.
 
 
 ### (10) Vortfarado
+
+En Pandunia, vortoj estas ŝanĝita nur kiam ilia signifo ŝanĝiĝas.
+Vortoj neniam ŝanĝiĝas por indiki gramatikaĵojn.
 
 Oni povas krei novajn vortojn kunmetante aliajn vortojn.
 La ĉefa vorto ĉiam staras je la fino.
@@ -120,4 +154,5 @@ La ĉefa vorto ĉiam staras je la fino.
 ("kesto") =
 **posta kase**
 ("leterkesto")
+
 
