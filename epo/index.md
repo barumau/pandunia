@@ -66,7 +66,7 @@ La normala vortordo estas subjekto–verbo–objekto.
 [Designed by Freepik](http://www.freepik.com)
 
 Demandoj enhavas la saman vortordon.  
-**yu love kua?**
+**yu love hu?**
 – Kiun vi amas?  
 **yu love mi, he?**
 – Ĉu vi amas min?
@@ -94,7 +94,7 @@ Oni komparas adjektivojn kaj adverbojn per helpantaj vortoj:
 **as**
 – tiom kiel.
 
-**mi is mor gude dan yu.**
+**mi es mor gude dan yu.**
 – Mi estas pli bona ol vi.  
 **no, mi es as gude as yu.**
 – Ne, mi estas tiom bona kiel vi.  
@@ -118,7 +118,7 @@ Tempo estas indikata per helpantaj verboj:
 **mi bi ride un buke.**
 – Mi estas leganta libron.  
 **yu vil tolke Pandunia.**
-– Vi parolos Panglobiŝon.
+– Vi parolos Pandunian.
 
 Frazfinaj partikuloj indikas kial oni diras la frazon,
 ekz. ĉu ĝi estas deklaro, demando aŭ komando.  

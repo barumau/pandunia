@@ -24,6 +24,15 @@ For example, in the third person, one word –
 – refers to women, men and people of other genders alike.
 It is a gender-neutral personal pronoun and it treats everyone equally.
 
+The singular 2nd person pronoun **tu** can be used in all situations, both formal and informal,
+regardless of differences in social status and age of the speakers.
+In this way it is similar to Swedish _du_.
+However, some speakers may prefer to use **tu** only with family and intimate friends.
+Then its usage is comparable to German _du_, French _tu_, Russian _ты_ (ty) and Hindi _tū_.
+
+It is always acceptable to use the plural pronoun **yu**
+instead of the singular pronoun **tu**.
+
 There are three first-person plural pronouns.
 **yumi**
 is the inclusive *we* that includes the audience: 'you, I and other people'.
@@ -198,6 +207,11 @@ There are two interrogative pronouns in Pandunia.
 – What do you want?  
 **kua es a table.**
 – What is on the table?
+
+The possessive interrogative pronoun is created regularly.
+
+**hu su**
+– whose
 
 Adjectives are questioned with **kua li**.
 

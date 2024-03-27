@@ -5,44 +5,54 @@
 
 | Ones    | Ten and over | 20 and over      | 30 and over      |
 |:--------|:-------------|:-----------------|:-----------------|
-| 0 siro  | 10 (un) des  | 20 du des        | 30 tri des       |
-| 1 un    | 11 des un    | 21 du des un     | 31 tri des un    |
-| 2 du    | 12 des du    | 22 du des du     | 32 tri des du    |
-| 3 tri   | 13 des tri   | 23 du des tri    | 33 tri des tri   |
-| 4 nelu  | 14 des nelu  | 24 du des nelu   | 34 tri des nelu  |
-| 5 lima  | 15 des lima  | 25 du des lima   | 35 tri des lima  |
-| 6 luka  | 16 des luka  | 26 du des luka   | 36 tri des luka  |
-| 7 cheti | 17 des cheti | 27 du des cheti  | 37 tri des cheti |
-| 8 bati  | 18 des bati  | 28 du des bati   | 38 tri des bati  |
-| 9 tisa  | 19 des tisa  | 29 du des tisa   | 39 tri des tisa  |
+| 0 zero  | 10 (un) ten  | 20 du ten        | 30 tri ten       |
+| 1 un    | 11 ten un    | 21 du ten un     | 31 tri ten un    |
+| 2 du    | 12 ten du    | 22 du ten du     | 32 tri ten du    |
+| 3 tri   | 13 ten tri   | 23 du ten tri    | 33 tri ten tri   |
+| 4 for   | 14 ten for   | 24 du ten for    | 34 tri ten for   |
+| 5 faive | 15 ten faive | 25 du ten faive  | 35 tri ten faive |
+| 6 sixe  | 16 ten sixe  | 26 du ten sixe   | 36 tri ten sixe  |
+| 7 seven | 17 ten seven | 27 du ten seven  | 37 tri ten seven |
+| 8 eite  | 18 ten eite  | 28 du ten eite   | 38 tri ten eite  |
+| 9 nain  | 19 ten nain  | 29 du ten nain   | 39 tri ten nain  |
 
 | Ones    |  Tens         | Hundreds        | Thousands        |
-|:--------|:-------------|:----------------|:------------------|
-| 1 un    | 10 (un) des  | 100 (un) sento  | 1000 (un) kilo    |
-| 2 du    | 20 du des    | 200 du sento    | 2000 du kilo      |
-| 3 tri   | 30 tri des   | 300 tri sento   | 3000 tri kilo     |
-| 4 nelu  | 40 nelu   des| 400 nelu sento  | 4000 nelu kilo    |
-| 5 lima  | 50 lima  des | 500 lima sento  | 5000 lima kilo    |
-| 6 luka  | 60 luka des  | 600 luka sento  | 6000 luka kilo    |
-| 7 cheti | 70 cheti des | 700 cheti sento | 7000 cheti kilo   |
-| 8 bati  | 80 bati des  | 800 bati sento  | 8000 bati kilo    |
-| 9 tisa  | 90 tisa des  | 900 tisa sento  | 9000 tisa kilo    |
+|:--------|:--------------|:----------------|:-----------------|
+| 1 un    | 10 (un) ten  | 100 un hunde    | 1000 un tauzen    |
+| 2 du    | 20 du ten    | 200 du hunde    | 2000 du tauzen    |
+| 3 tri   | 30 tri ten   | 300 tri hunde   | 3000 tri tauzen   |
+| 4 for   | 40 for ten   | 400 for hunde   | 4000 for tauzen   |
+| 5 faive | 50 faive ten | 500 faive hunde | 5000 faive tauzen |
+| 6 sixe  | 60 sixe ten  | 600 sixe hunde  | 6000 sixe tauzen  |
+| 7 seven | 70 seven ten | 700 seven hunde | 7000 seven tauzen |
+| 8 eite  | 80 eite ten  | 800 eite hunde  | 8000 eite tauzen  |
+| 9 nain  | 90 nain ten  | 900 nain hunde  | 9000 nain tauzen  |
 
 Greater numbers follow the same logic as above.
 
-10'000 = un des kilo  
-100'000 = un sento kilo  
-1'000'000 = un mega  
-10'000'000 = un des mega  
-100'000'000 = un sento mega  
-1'000'000'000 = un giga
+10'000 un ten tauzen  
+100'000 un hunde tauzen  
+1'000'000 un milion  
+10'000'000 un ten milion  
+100'000'000 un hunde milion  
+1'000'000'000 un tauzen milion  
+
+Note: The words "billion" and "milliard" are not used in Pangdunia
+because their meanings are different from country to country.
+Instead, one should say **tauzen milion** (thousand millions) or **un giga**.
 
 The numerals that are greater than one hundred are borrowed from the
-[International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units) (SI).
-They are used in scientific words in the whole world.
+
+The prefixes of the [International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units)
+(SI) are used in common language in Pandunia.
+It is normal to say, for example:  
+**eite giga person bi live in Dunia.**  
+– Eight billion (or _milliard_) people live on Earth.
 
 | Prefix | Symbol | Base 10 | Decimal                        |
 |:-------|:------:|:-----|----------------------------------:|
+| deka   | da     | 10¹  |                                10 |
+| hekto  | h      | 10²  |                               100 |
 | kilo   | k      | 10³  |                             1'000 |
 | mega   | M      | 10⁶  |                         1'000'000 |
 | giga   | G      | 10⁹  |                     1'000'000'000 |
@@ -66,7 +76,7 @@ They are put before the word or phrase that they qualify.
 – three stars  
 **kam sing**
 – few stars  
-**poli sing**
+**meni sing**
 – many stars
 
 **un dai kursi**
@@ -79,67 +89,8 @@ They are put before the word or phrase that they qualify.
 
 ## Ordinal numbers
 
-Ordinal numbers are created with the particle
-**me**.
-
-- **un me**
-  – first
-- **du me**
-  – second
-- **tri me**
-  – third
-- **nelu me**
-  – fourth
-- **lima me**
-  – fifth
-- **luka me**
-  – sixth
-- **cheti me**
-  – seventh
-- **bati me**
-  – eighth
-- **tisa me**
-  – ninth
-- **des me**
-  – tenth
-
-They are placed before the modified noun like normal adjectives.
-
-**un me fen**
-– the first part  
-**du me fen**
-– the second part  
-**tri me fen**
-– the third part
-
-Also the words for previous, next, first and last use the same particle.
-
-**pre**
-'before, precede'
-→ **pre me**
-'previous, preceding'  
-**pos**
-'after, follow'
-→ **pos me**
-'next, following'  
-**shuru**
-'begin'
-→ **shuru me**
-'the first'  
-**fine**
-'end'
-→ **fine me**
-'the last'
-
-Ordinal numbers are put before cardinal numbers.
-
-**un me tri kupa kafe**
-– the first three cups of coffee
-
-
-### Ordinal number after noun
-
-Another way to form ordinal numbers is to place the cardinal number after the noun.
+Ordinal numbers are similar to cardinal numbers
+but they are placed after the noun that they modify.
 
 **fen un**
 – part one (the first part)  
@@ -172,9 +123,7 @@ which includes, among many others,
 **tin**
 'can, tin'
 **tong**
-'cask, barrel',
-**van**
-'bowl'.
+'cask, barrel'.
 
 **du litre jus**
 – two liters of juice  

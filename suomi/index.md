@@ -6,64 +6,145 @@ hide:
 
 # Pandunia
 
-**sal, dunia!**
+**halo, dunia!**
 – Tervehdys, maailma!
 
 Tervetuloa tutustumaan panduniaan,
-pieneen kieleen, joka haluaisi auttaa koko maailmaa!
+kansainvälistä toimintaa ja ystävyyttä varten luotuun apukieleen!
 
 ![](http://www.pandunia.info/grafe/halo_dunia.png "sal dunia!")  
 <small>Kuva: [Freepik](http://www.freepik.com)</small>
 
 ## Mitä pandunia on?
 
-Pandunia on pieni, keinotekoinen kieli.
-Se on tehty auttamaan erikielisiä ihmisiä puhumaan keskenään.
-Se on monikulttuurinen kieli,
-joka tuo yhteen sanoja kaikkialta maailmasta.
-Se on rakenteeltaan yksinkertainen, ja siinä on vain vähän kielioppisääntöjä.
+Pandunia on yksinkertainen, keinotekoinen kieli,
+jonka tehtävä on auttaa ihmisiä puhumaan keskenään
+silloin kun he eivät osaa muuta yhteistä kieltä.
 
-Pandunia on maailmanlaajuiseen käyttöön tarkoitettu apukieli.
-Se on helppo kieli, jolla ihmiset voivat puhua keskenään silloin,
-kun heillä ei ole muuta yhteistä kieltä.
-Sen tehtävä on täydentää muita kieliä monikielisessä maailmassa.
+Kaikki pandunian sanat ovat kansainvälisiä.
+Perussanat muistuttavat englannin sanoja
+ja loput sanat tulevat muista kansainvälisesti tärkeistä kielistä,
+mukaan lukien ranska, espanja, japani, kiina, venäjä, arabia, hindi ja swahili.
 
-Pandunia on yksinkertaisempi, säännöllisempi ja helpommin opittava kuin luonnollisesti kehittyneet maailmankielet,
-kuten englanti, ranska, espanja, venäjä, arabia ja kiina.
-Pandunian oppiminen on kaikille yhtä helppoa!
-Sen sanat tulevat kaikilta mantereilta ja kaikista kulttuureista.
+Pandunia on yhteensopivaa englannin kanssa perustasolla.
+Se on kuin englannin yksinkertaistettu muoto, jota puhutaan vieraalla korostuksella.
+Voit siis käyttää panduniaa heti kaikkialla maailmassa, missä englantia puhutaan,
+sellaisiin käytännön asioihin kuin hotellihuoneen hankkimiseen, taksin tilaamiseen ja matkamuistojen ostamiseen.
 
-Pandunian lopullinen versio julkaistaan vuonna 2023.
+Pandunia on säännöllinen ja yksinkertainen.
+Sen vuoksi sitä on paljon helpompi ja nopeampi oppia kuin englantia ja muita kansallisia kieliä.
+Panduniassa ei ole poikkeuksia eikä monimutkaisia kielioppisääntöjä.
+Pandunia on niin helppoa, että sen kieliopin perusteiden luettelemiseen tarvitaan [vain kymmenen sääntöä](100_baze_kanun.md).
+Kaikki voivat oppia pandunian perusteet lyhyessä ajassa!
+Se on erinomainen valinta kansainväliseksi vieraaksi kieleksi, koska se parantaisi kansainvälisen viestinnän laatua.
+On parempi puhua hyvää panduniaa kuin huonoa englantia.
 
-## Kelle?
+## Pandunian perusteet
 
-Pandunia on tarkoitettu aivan kaikille!
-Käytännössa pandunian puhujat lasketaan vasta kymmenissä,
-joten se ei ole ainakaan vielä todellinen maailmankieli.
-Se voi kuitenkin olla mielenkiintoinen harrastus!
+Panduniaa kirjoitetaan latinalaisilla aakkosilla:  
+A B C Ch D E F G H I J K L M N O P R S Sh T U V X Y Z
 
-Panduniasta uusi, parannettu versio valmistui syyskuussa 2021.
-Se sisältää kieliopin parannuksia sekä paljon uusia sanoja.
+Kaikki paitsi alla olevat kirjaimet äännetään niin kuin suomessa:
 
-## Opiskele!
+- **c** äännetään kuten _ts_ sanassa _metsä_.
+- **sh** äännetään kuten _sh_ sanassa _shakki_.
+- **ch** äännetään kuten _tsh_ sanassa _tshekki_.
+- **j** on edellisen soinnillinen vastine eli se ääntyy kuten nimessä _Jack_.
+- **y** äännetään kuten suomen *j*.
 
-Panduniaa voi opiskella itsenäisesti.
-Rakenteeltaan pandunia on niin yksinkertaista,
-että sen voi oppia käytännön harjoitusten kautta,
-eikä kielioppia ole pakko opiskella.
+Vokaalit äännetään kuten suomessa.
+Painottomissa tavuissa kirjain **e** voidaan ääntää keskisenä vokaalina /ə/.
 
-- [Pandunian perusteet tiivistettynä](003_baze.md) vain yhdellä sivulla!
-- [Koko kielioppi](pan.pdf) PDF-tiedostona
-- [Emoji-kurssi](http://www.pandunia.info/pandunia/mini_xula.html) - Yritä oppia pandunian alkeet pelkkien kuvien avulla!
-- [Tulkkisanakirja](200_baze_jumla.md) - Käytännöllisiä lauseita panduniasta suomeksi
-- Sanastoja
-    - [Pandunia-suomi](pandunia-suomi.md)
-    - [Suomi-pandunia](suomi-pandunia.md)
-    - [Luettelo sanojen alkuperästä](leksaslia.md) (lähdekielet on merkitty [kielikoodeilla](http://jkorpela.fi/kielet/nimet.html))
-- [Tarinoita panduniaksi](https://www.pandunia.info/kitabe)
+Panduniaa kirjoitetaan lähes äänteenmukaisesti.
+Yksi äänne = yksi kirjain tai kirjainyhdistelmä.
 
+Lyhyissä sanoissa painotetaan ensimmäistä tavua ja pitemmissä sanoissa toista tavua.  
+**méni pérson kén tólke da Énglish in Amérika.**
+– Monet ihmiset osaavat puhua englantia Amerikassa.
+
+Kaikki pandunian sanat ovat taipumattomia.
+Sanoja ei siis taivuteta lainkaan persoona-, aika-, tapa- tai sijamuodoissa eikä edes monikossa.
+
+Lauseen sanajärjestys on subjekti–verbi–objekti,
+eli yleensä tekijä on lauseen alussa, sitten teonsana ja viimeisenä tekemisen kohde.
+
+**mi love yu.**
+– Minä rakastan sinua.
+
+Samaa sanajärjestystä käytetään myös kysymyslauseissa.  
+**yu love mi, he?**
+– Sinä rakastat minua, häh? (eli: Rakastatko sinä minua?)
+
+Yksikkö ja monikko ilmaistaan lukusanoilla tarpeen mukaan.
+
+**buke**
+– kirja tai kirjoja  
+- **un buke**
+  – (yksi) kirja;
+- **due buke**
+  – kaksi kirjaa;
+- **tri buke**
+  – kolme kirjaa;
+- **meni buke**
+  – monta kirjaa
+
+Adjektiiveja ja adverbeja vertaillaan sanoilla:
+**mor**
+– enemmän, -mpi;
+**les**
+– vähemmän;
+**dan**
+– kuin; ja
+**as**
+– yhtä...kuin.
+
+**mi es mor gude dan yu.**
+– Minä olen parempi (_enemmän hyvä_) kuin sinä.  
+**no, mi es as gude as yu.**
+– Ei, minä olen yhtä hyvä kuin sinä.  
+**da bi tolke mor faste dan yu.**
+– Hän puhuu nopeammin (_enemmän nopeasti_) kuin sinä.
+
+Aika ilmaistaan apusanoilla:
+**did**
+– mennyt tapahtuma  
+**vil**
+– tuleva tapahtuma  
+**ha**
+– päättynyt mutta yhä tähän hetkeen vaikuttava tapahtuma  
+**bi**
+– meneillään oleva tapahtuma
+
+**di did ride mi's buke.**
+– He lukivat minun kirjaa.  
+**vi ha ride meni buke.**
+– Me olemme lukeneet monta kirjaa.  
+**mi bi ride un buke.**
+– Minä olen lukemassa yhtä kirjaa.  
+**yu vil tolke Pandunia.**
+– Te tulette puhumaan panduniaa.
+
+Lauseenloppuisilla pikkusanoilla ilmaistaan, minkä vuoksi lause on sanottu,
+esim. onko se toteamus, kysymys vai käsky.  
+**yu love kafe, he?**
+– Sinä rakastat kahvia, mitä? (kysymys)  
+**yu love kafe, ya.**
+– Sinä rakastat kahvia kyllä. (toteamus)  
+**yu love kafe, ne.**
+– Sinä rakastat kahvia, vai... (ehdotus)
+
+## Käytä sitä!
+
+Kuten yllä olevista maistiaisista huomaat, pandunian perusteet on kenen tahansa helppo oppia.
+Se on vielä helpompaa, jos puhut edes jonkin verran englantia!
+Panduniaa on myös helppo alkaa käyttää välittömästi.
+Älä siis odota!
+Kokeile panduniaa kavereidesi kanssa huvin vuoksi tai käytä sitä vierasmaalaisten kanssa kun olet matkoilla.
+Se toimii!
 
 ## Jutellaan!
+
+Pandunian puhujia on useilla keskustelukanavilla internetissä.
 
 | Alusta   | Kanava | Tarkoitus |
 |----------|---------|---------|
@@ -80,19 +161,18 @@ Muita pandunian puhujia voi löytää [Amikumu](https://amikumu.com/)-sovellukse
 Suomeksi on tarjolla [sähköpostilista](https://groups.google.com/forum/?hl=fi&fromgroups=#!forum/suomi-pandunia),
 johon voi liittyä lähettämällä tyhjän viestin osoitteeseen suomi-pandunia+subscribe@googlegroups.com tai käyttämällä selainta ja Google-tiliä.
 
+Panduniaa ei harrasta vielä monikaan,
+mutta jos _sinä_ pidät panduniaa hyvänä ideana, niin myös _muut_ ajattelevat samoin.
+Eli ala käyttämään panduniaa ja tehdään siitä yhdessä maailman yhteinen kieli!
+
 ![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen bashe pandunia!")  
 <small>Kuva: [Freepik](http://www.freepik.com)</small>
 
 Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@pandunia.info](mailto:risto@pandunia.info)
 
-## Kirjoituksia
-
-- [Maailman yhteyskieli](001_dunia_basha.md)
-- [Panduniasta muissa julkaisuissa](makal_tema_pandunia.md)
-
 ## pandunia
 
 ![](http://www.pandunia.info/grafe/bandera.png "pandunian lippu")
 
-**de pan dunia, to pan dunia**  
+**de hol dunia, to hol dunia**  
 – koko maailmalta, koko maailmalle
