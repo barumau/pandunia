@@ -4,40 +4,48 @@
 
 | Unuoj   | Dek kaj pli | 20 kaj pli        | 30 kaj pli       |
 |:--------|:-------------|:-----------------|:-----------------|
-| 0 siro  | 10 (un) des  | 20 du des        | 30 tri des       |
-| 1 un    | 11 des un    | 21 du des un     | 31 tri des un    |
-| 2 du    | 12 des du    | 22 du des du     | 32 tri des du    |
-| 3 tri   | 13 des tri   | 23 du des tri    | 33 tri des tri   |
-| 4 nelu  | 14 des nelu  | 24 du des nelu   | 34 tri des nelu  |
-| 5 lima  | 15 des lima  | 25 du des lima   | 35 tri des lima  |
-| 6 luka  | 16 des luka  | 26 du des luka   | 36 tri des luka  |
-| 7 cheti | 17 des cheti | 27 du des cheti  | 37 tri des cheti |
-| 8 bati  | 18 des bati  | 28 du des bati   | 38 tri des bati  |
-| 9 tisa  | 19 des tisa  | 29 du des tisa   | 39 tri des tisa  |
+| 0 zero  | 10 (un) ten  | 20 du ten        | 30 tri ten       |
+| 1 un    | 11 ten un    | 21 du ten un     | 31 tri ten un    |
+| 2 du    | 12 ten du    | 22 du ten du     | 32 tri ten du    |
+| 3 tri   | 13 ten tri   | 23 du ten tri    | 33 tri ten tri   |
+| 4 for   | 14 ten for   | 24 du ten for    | 34 tri ten for   |
+| 5 faive | 15 ten faive | 25 du ten faive  | 35 tri ten faive |
+| 6 sixe  | 16 ten sixe  | 26 du ten sixe   | 36 tri ten sixe  |
+| 7 seven | 17 ten seven | 27 du ten seven  | 37 tri ten seven |
+| 8 eite  | 18 ten eite  | 28 du ten eite   | 38 tri ten eite  |
+| 9 nain  | 19 ten nain  | 29 du ten nain   | 39 tri ten nain  |
 
 | Unuoj   | Dekoj        | Centoj          | Miloj            |
 |:--------|:-------------|:----------------|:------------------|
-| 1 un    | 10 (un) des  | 100 (un) sento  | 1000 (un) kilo    |
-| 2 du    | 20 du des    | 200 du sento    | 2000 du kilo      |
-| 3 tri   | 30 tri des   | 300 tri sento   | 3000 tri kilo     |
-| 4 nelu  | 40 nelu   des| 400 nelu sento  | 4000 nelu kilo    |
-| 5 lima  | 50 lima  des | 500 lima sento  | 5000 lima kilo    |
-| 6 luka  | 60 luka des  | 600 luka sento  | 6000 luka kilo    |
-| 7 cheti | 70 cheti des | 700 cheti sento | 7000 cheti kilo   |
-| 8 bati  | 80 bati des  | 800 bati sento  | 8000 bati kilo    |
-| 9 tisa  | 90 tisa des  | 900 tisa sento  | 9000 tisa kilo    |
+| 1 un    | 10 (un) ten  | 100 un hunde    | 1000 un tauzen    |
+| 2 due   | 20 due ten   | 200 due hunde   | 2000 due tauzen   |
+| 3 tri   | 30 tri ten   | 300 tri hunde   | 3000 tri tauzen   |
+| 4 for   | 40 for ten   | 400 for hunde   | 4000 for tauzen   |
+| 5 faive | 50 faive ten | 500 faive hunde | 5000 faive tauzen |
+| 6 sixe  | 60 sixe ten  | 600 sixe hunde  | 6000 sixe tauzen  |
+| 7 seven | 70 seven ten | 700 seven hunde | 7000 seven tauzen |
+| 8 eite  | 80 eite ten  | 800 eite hunde  | 8000 eite tauzen  |
+| 9 nain  | 90 nain ten  | 900 nain hunde  | 9000 nain tauzen  |
 
 Pli grandaj nombroj sekvas la saman logikon kiel supre.
 
-10'000 = un des kilo  
-100'000 = un sento kilo  
-1'000'000 = un mega  
-10'000'000 = un des mega  
-100'000'000 = un sento mega  
-1'000'000'000 = un giga
+10'000 un ten tauzen  
+100'000 un hunde tauzen  
+1'000'000 un milion  
+10'000'000 un ten milion  
+100'000'000 un hunde milion  
+1'000'000'000 un tauzen milion  
+
+Notu! La vortoj "billion" kaj "milliard" ne estas uzata en Pandunia,
+ĉar ilia uzado estas malsama inter landoj.
+Anstataŭ on devus diri **tauzen milion** (mil milionoj) aŭ **giga**.
 
 Por la nombroj pli grandaj ol 999, eblas uzi la oblajn prefiksojn el la Sistemo Internacia de Unuoj.
-Do ekzemple _kilo_ indikas miloblecon.
+La prefiksoj de la [Internacia sistemo de unuoj](https://eo.wikipedia.org/wiki/Internacia_sistemo_de_unuoj)
+(SI) estas uzataj en normala parolado en Pandunia.
+Ekzemple, oni dirus normale:  
+**eite giga person is live in Dunia.**  
+– Ok miliardoj da homoj vivas en la Mondo.
 
 |Prefikso|Simbolo |10-baze  | Decimale                       |
 |:-------|:------:|:-----|----------------------------------:|
