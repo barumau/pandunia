@@ -32,7 +32,7 @@ can function as a verb (_to write_), a noun (_a writing_) and adjective (_writte
 – I write a letter.  
 **letre es kitabe misaje.**
 – A letter is a written message.  
-**mi love tu su kitabe.**
+**mi love yu su kitabe.**
 – I love your writings.
 
 
