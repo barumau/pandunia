@@ -52,7 +52,7 @@ It is normal to say, for example:
 | Prefix | Symbol | Base 10 | Decimal                        |
 |:-------|:------:|:-----|----------------------------------:|
 | deka   | da     | 10¹  |                                10 |
-| hekto  | h      | 10²  |                               100 |
+| heto   | h      | 10²  |                               100 |
 | kilo   | k      | 10³  |                             1'000 |
 | mega   | M      | 10⁶  |                         1'000'000 |
 | giga   | G      | 10⁹  |                     1'000'000'000 |
@@ -235,23 +235,23 @@ Names of the months are made up of the number of the month and
    – February
 3. **mes tri**
    – March
-4. **mes nelu**
+4. **mes for**
   – April
-5. **mes lima**
+5. **mes faive**
   – May
-6. **mes luka**
+6. **mes sixe**
   – June
-7. **mes cheti**
+7. **mes seven**
   – July
-8. **mes bati**
+8. **mes eite**
   – August
-9. **mes tisa**
+9. **mes nain**
   – September
-10. **mes des**
+10. **mes ten**
   – October
-11. **mes des un**
+11. **mes ten un**
   – November
-12. **mes des du**
+12. **mes ten du**
   – December
 
 
@@ -281,12 +281,12 @@ Time can be told with the word
 ('hour').
 The 24 hour clock is the standard.
 
-**hor des du**
+**hor ten du**
 – twelve o'clock  
-**hor des du e tri des**
+**hor ten du e tri ten**
 – twelve thirty, half past twelve  
-**hor du des**
-– eight PM  
-**hor du des e des lima**
-– quarter past eight PM
+**hor du ten**
+– eight PM (i.e. 200 hours)  
+**hor du ten e ten faive**
+– quarter past eight PM (i.e. 215 hours)
 

@@ -14,7 +14,8 @@ theme:
 nav:
     - 'Ortografía': 102_ABC.md
     - 'Pronomes': 104_viselexi.md
-    - 'Frases básicas' : 200_baze_jumla.md
+    - 'Frases básicas': 200_baze_jumla.md
+    - 'Números': 106_nume.md
     - 'Dicionarios':
         - 'Pandunia-Português': pandunia-por.md
         - 'Português-Pandunia': por-pandunia.md
