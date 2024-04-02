@@ -83,36 +83,36 @@ en swahili "salaam"
 et en indonésien "selamat".</small>
 
 
-### shukre <small>merci</small>
+### tanke <small>merci</small>
 
 <p style="font-size:5em;">🙏</p>
 
 
-**shukre!**
+**tanke!**
 Merci!
 
-**poli shukre!**
+**poli tanke!**
 Merci beaucoup !
 
-**ya, shukre.**
+**ya, tanke.**
 Oui, merci.
 
-**no, shukre.**
+**no, tanke.**
 Non, merci.
 
-**shukre tu.**
+**tanke tu.**
 Merci à toi.
 
-**mi shukre tu.**
+**mi tanke tu.**
 Je te / vous remercie.
 
-**mi shukre tu mede mi.**
+**mi tanke tu mede mi.**
 Je te remercie de m'avoir aidé.
 
-**shukre tu mede mi.**
+**tanke tu mede mi.**
 Merci de m'avoir aidé.
 
-**no yau shukre.**
+**no yau tanke.**
 Je t'en prie. / Il n'y a pas de quoi.
 
 

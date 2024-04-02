@@ -514,21 +514,21 @@ Proszę, pomóż mi.
 
 
 
-### shukre <small>dzięki</small>
+### tanke <small>dzięki</small>
 
-**shukre!**
+**tanke!**
 Dzięki!
 
-**shukre tu.**
+**tanke tu.**
 Dzięki ci.
 
-**mi shukre tu.**
+**mi tanke tu.**
 Dziękuję tobie.
 
-**mi shukre tu mede mi.**
+**mi tanke tu mede mi.**
 Dziękuję tobie, że pomogłeś mi.
 
-**shukre tu mede mi.**
+**tanke tu mede mi.**
 Dzięki tobie, że pomogłeś mi.
 
 **tu kechi.**

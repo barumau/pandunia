@@ -74,35 +74,35 @@ swahili *salaam*,
 indonesia *selamat*.</small>
 
 
-### shukre <small>kiitos</small>
+### tanke <small>kiitos</small>
 
 <p style="font-size:5em;">🙏</p>
 
-**shukre!**
+**tanke!**
 Kiitos!
 
-**poli shukre!**
+**poli tanke!**
 Paljon kiitoksia!
 
-**ya, shukre.**
+**ya, tanke.**
 Kyllä, kiitos.
 
-**no, shukre.**
+**no, tanke.**
 Ei, kiitos.
 
-**shukre tu.**
+**tanke tu.**
 Kiitos sinulle.
 
-**mi shukre tu.**
+**mi tanke tu.**
 Minä kiitän sinua.
 
-**mi shukre tu mede mi.**
+**mi tanke tu mede mi.**
 Minä kiitän sinua minun auttamisesta.
 
-**shukre tu mede mi.**
+**tanke tu mede mi.**
 Kiitos kun autoit minua.
 
-**no yau shukre.**
+**no yau tanke.**
 Ole hyvä. (Sanan mukaisesti: _Ei tarvitse kiittää._)
 
 

@@ -80,24 +80,24 @@ suajili *salaam*,
 indonesio *selamat*.</small>
 
 
-### shukre <small>gracias</small>
+### tanke <small>gracias</small>
 
-**shukre!**
+**tanke!**
 ¡Gracias!
 
-**shukre tu.**
+**tanke tu.**
 Gracias. (a ti.)
 
-**mi shukre tu.**
+**mi tanke tu.**
 Te agradezco.
 
-**mi shukre tu mede mi.**
+**mi tanke tu mede mi.**
 Te agradezco por ayudarme.
 
-**shukre tu mede mi.**
+**tanke tu mede mi.**
 Gracias por ayudarme.
 
-**no yau shukre.**
+**no yau tanke.**
 De nada. No hay de qué.
 
 

@@ -264,13 +264,13 @@ pomo, päällikkö
 **halo! ching side.**
 = Hei! Istu, ole hyvä!  
 <big>☻</big>
-**shukre.**
+**tanke.**
 = Kiitos.  
 <big>☺</big>
 **ching yam kafe o cha.**
 = Joisitko kahvia tai teetä?  
 <big>☻</big>
-**ama mi yam un di cha! shukre.**
+**ama mi yam un di cha! tanke.**
 = Mutta minähän juon vain teetä! Kiitos.  
 ...  
 <big>☻</big>
@@ -383,7 +383,7 @@ tee
 pyytää; ole hyvä  
 **don**
 antaa  
-**shukre**
+**tanke**
 kiitos  
 **e**
 ja  
@@ -453,7 +453,7 @@ syödä tai juoda
 **no yam.**
 = Ei.  
 <big>☺</big>
-**shukre. mi dona un cha e un kafe e un supe pos des minute.**
+**tanke. mi dona un cha e un kafe e un supe pos des minute.**
 = Kiitos. Minä tuon yhden teen, yhden kahvin ja yhden keiton kymmenen minuutin päästä.
 
 

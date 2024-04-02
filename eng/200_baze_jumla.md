@@ -96,35 +96,35 @@ Swahili *salaam*,
 Indonesian *selamat*.</small>
 
 
-### shukre <small>thanks</small>
+### tanke <small>thanks</small>
 
 <p style="font-size:5em;">🙏</p>
 
-**shukre!**
+**tanke!**
 Thanks!
 
-**poli shukre!**
+**poli tanke!**
 Thanks a lot!
 
-**ya, shukre.**
+**ya, tanke.**
 Yes, thank you.
 
-**no, shukre.**
+**no, tanke.**
 No, thank you.
 
-**shukre tu.**
+**tanke tu.**
 Thank you.
 
-**mi shukre tu.**
+**mi tanke tu.**
 I thank you.
 
-**mi shukre tu mede mi.**
+**mi tanke tu mede mi.**
 I thank you for helping me.
 
-**shukre tu mede mi.**
+**tanke tu mede mi.**
 Thanks for helping me.
 
-**no yau shukre.**
+**no yau tanke.**
 You're welcome. (Literally: _No need to thank._)
 
 

@@ -219,7 +219,7 @@ Adjectives are questioned with **kua li**.
 – How new?  
 **kua li koste?**
 – How costy?  
-**kua li poli?**
+**kua li meni?**
 – How many?  
 **kua li kam?**
 – How few?  
@@ -228,7 +228,7 @@ Adjectives are questioned with **kua li**.
 **kua li shau?**
 – How small?
 
-**tu have kua li dai mau?**
+**tu ave kua li dai mau?**
 – How big a cat do you have?
 
 

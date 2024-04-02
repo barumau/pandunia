@@ -72,35 +72,35 @@ sŭahila *salaam*,
 indonezia *selamat*.</small>
 
 
-### shukre <small>dankon</small>
+### tanke <small>dankon</small>
 
 <p style="font-size:5em;">�</p>
 
-**shukre!**
+**tanke!**
 Dankon!
 
-**poli shukre!**
+**poli tanke!**
 Multajn dankojn!
 
-**ya, shukre.**
+**ya, tanke.**
 Jes, danke.
 
-**no, shukre.**
+**no, tanke.**
 Ne, danke.
 
-**shukre tu.**
+**tanke tu.**
 Dankon al vi.
 
-**mi shukre tu.**
+**mi tanke tu.**
 Mi dankas vin.
 
-**mi shukre tu mede mi.**
+**mi tanke tu mede mi.**
 Mi dankas vin pro vi helpis min.
 
-**shukre tu mede mi.**
+**tanke tu mede mi.**
 Dankon pro vi helpis min.
 
-**no yau shukre.**
+**no yau tanke.**
 Ne dankinde.
 
 

@@ -72,24 +72,24 @@ Você pode usá-lo sempre que quiser.
 Indonésio: selamat.</small>
 
 
-### shukre <small>obrigado</small>
+### tanke <small>obrigado</small>
 
 **xucur!**
 Obrigada!
 
-**shukre tu.**
+**tanke tu.**
 Obrigado a você.
 
-**mi shukre tu.**
+**mi tanke tu.**
 Te agradeço.
 
-**mi shukre tu mede mi.**
+**mi tanke tu mede mi.**
 Agradeço por me ajudar.
 
-**shukre tu mede mi.**
+**tanke tu mede mi.**
 Obrigado por ajudar.
 
-**no yau shukre.**
+**no yau tanke.**
 De nada.
 
 

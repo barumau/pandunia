@@ -292,13 +292,13 @@ chief, boss
 **halo! plis side.**
 = Hello! Please sit!  
 <big>☻</big>
-**shukre.**
+**tanke.**
 = Thank you.  
 <big>☺</big>
 **plis yam kafe o cha.**
 = Please have some coffee or tea.  
 <big>☻</big>
-**ama mi un li yam cha! shukre.**
+**ama mi un li yam cha! tanke.**
 = But I only drink tea! Thank you.  
 ...  
 <big>☻</big>
@@ -442,7 +442,7 @@ must, have to
 or  
 **safi**
 to clean  
-**shukre**
+**tanke**
 thanks  
 **side**
 to sit  
@@ -504,7 +504,7 @@ some, a(n)
 **no yam.**
 = No.  
 <big>☺</big>
-**shukre. mi don un cha e un kafe e un supe pos des minute.**
+**tanke. mi don un cha e un kafe e un supe pos des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 

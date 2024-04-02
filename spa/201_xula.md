@@ -239,13 +239,13 @@ jefe, patrón
 **halo! plis side.**
 – ¡ Hola!¡ Por favor sientese!  
 <big>☻</big>
-**shukre.**
+**tanke.**
 – ¡Gracias!  
 <big>☺</big>
 **plis yam kafe o cha.**
 – Por favor beba algo de café o té.  
 <big>☻</big>
-**mi vol cha. shukre.**
+**mi vol cha. tanke.**
 – Quiero té, gracias.  
 ...  
 <big>☺</big>
@@ -358,7 +358,7 @@ té
 pedir, solicitar; por favor  
 **don**
 dar  
-**shukre**
+**tanke**
 gracias  
 **e**
 y  
@@ -428,7 +428,7 @@ algo
 **no yam.**
 – No.  
 <big>☺</big>
-**shukre. mi don un cha i un kafe i un supe pos des minute.**
+**tanke. mi don un cha i un kafe i un supe pos des minute.**
  – ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
 
 

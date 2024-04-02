@@ -277,13 +277,13 @@ chef, patron
 **halo! plis side.**
 = Bonjour ! Asseyez-vous je vous prie !  
 <big>🧒</big>
-**shukre.**
+**tanke.**
 = Merci.  
 <big>🧓</big>
 **plis yam kafe o cha.**
 = Prenez du thé ou du café, je vous prie
 <big>🧒</big>
-**mi van cha. shukre.**
+**mi van cha. tanke.**
 = Je prends du thé, merci.  
 ...  
 <big>🧓</big>
@@ -408,7 +408,7 @@ thé
 demander (poliment), s'il-vous-plaît  
 **don**
 donner  
-**shukre**
+**tanke**
 merci  
 **i**
 et  
@@ -473,7 +473,7 @@ manger ou boire, consommer
 **no yam.**
 = Non.  
 <big>👩‍🍳</big>
-**shukre. mi don un cha i un kafe i un supe pos des minute.**
+**tanke. mi don un cha i un kafe i un supe pos des minute.**
  = Merci. J'apporte un thé, un café et une soupe dans 10 minutes
 
 

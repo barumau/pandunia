@@ -78,35 +78,35 @@ hide:
 スワヒリ語：salaam、インドネシア語：selamat</small>
 
 
-### shukra <small>ありがとう</small>
+### tanke <small>ありがとう</small>
 
 <p style="font-size:5em;">🙏</p>
 
-**shukra!**
+**tanke!**
 ありがとう!
 
-**poli shukra!**
+**poli tanke!**
 どうもありがとう!
 
-**ya, shukra.**
+**ya, tanke.**
 はい、ありがとうございます。
 
-**no, shukra.**
+**no, tanke.**
 いいえ、結構です。
 
-**shukra tu.**
+**tanke tu.**
 ありがとうございました。
 
-**mi shukra tu.**
+**mi tanke tu.**
 ありがとうございます。
 
-**mi shukra tu mede mi.**
+**mi tanke tu mede mi.**
 私を助けてくれてありがとう。
 
-**shukra tu mede mi.**
+**tanke tu mede mi.**
 私を助けてくれてありがとう。
 
-**no yau shukra.**
+**no yau tanke.**
 どういたしまして。
 
 

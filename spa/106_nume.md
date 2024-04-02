@@ -3,30 +3,30 @@
 
 ## Números cardinales
 
-| Unidades | Diez y mayor | 20 y mayor       | 30 y mayor       |
-|:---------|:-------------|:-----------------|:-----------------|
-| 0 zero  | 10 (un) ten  | 20 du ten        | 30 tri ten       |
-| 1 un    | 11 ten un    | 21 du ten un     | 31 tri ten un    |
-| 2 du    | 12 ten du    | 22 du ten du     | 32 tri ten du    |
-| 3 tri   | 13 ten tri   | 23 du ten tri    | 33 tri ten tri   |
-| 4 for   | 14 ten for   | 24 du ten for    | 34 tri ten for   |
-| 5 faive | 15 ten faive | 25 du ten faive  | 35 tri ten faive |
-| 6 sixe  | 16 ten sixe  | 26 du ten sixe   | 36 tri ten sixe  |
-| 7 seven | 17 ten seven | 27 du ten seven  | 37 tri ten seven |
-| 8 eite  | 18 ten eite  | 28 du ten eite   | 38 tri ten eite  |
-| 9 nain  | 19 ten nain  | 29 du ten nain   | 39 tri ten nain  |
+| Unidades     | Diez y mayor   | 20 y mayor       | 30 y mayor         |
+|:-------------|:---------------|:-----------------|:-------------------|
+| 0 zero       | 10 (un) ten    | 20 du ten        | 30 tri ten         |
+| 1 un         | 11 ten un      | 21 du ten un     | 31 tri ten un      |
+| 2 du         | 12 ten du      | 22 du ten du     | 32 tri ten du      |
+| 3 tri        | 13 ten tri     | 23 du ten tri    | 33 tri ten tri     |
+| 4 for        | 14 ten for     | 24 du ten for    | 34 tri ten for     |
+| 5 faif       | 15 ten faif    | 25 du ten faif   | 35 tri ten faif    |
+| 6 sixe       | 16 ten sixe    | 26 du ten sixe   | 36 tri ten sixe    |
+| 7 seven      | 17 ten seven   | 27 du ten seven  | 37 tri ten seven   |
+| 8 eite       | 18 ten eite    | 28 du ten eite   | 38 tri ten eite    |
+| 9 nain       | 19 ten nain    | 29 du ten nain   | 39 tri ten nain    |
 
-| Unidades | Dieces       | Cientos         | Miles             |
-|:---------|:-------------|:----------------|:------------------|
-| 1 un    | 10 (un) ten  | 100 un hunde    | 1000 un tauzen    |
-| 2 du    | 20 du ten    | 200 du hunde    | 2000 du tauzen    |
-| 3 tri   | 30 tri ten   | 300 tri hunde   | 3000 tri tauzen   |
-| 4 for   | 40 for ten   | 400 for hunde   | 4000 for tauzen   |
-| 5 faive | 50 faive ten | 500 faive hunde | 5000 faive tauzen |
-| 6 sixe  | 60 sixe ten  | 600 sixe hunde  | 6000 sixe tauzen  |
-| 7 seven | 70 seven ten | 700 seven hunde | 7000 seven tauzen |
-| 8 eite  | 80 eite ten  | 800 eite hunde  | 8000 eite tauzen  |
-| 9 nain  | 90 nain ten  | 900 nain hunde  | 9000 nain tauzen  |
+| Unidades     | Dieces         | Cientos          | Miles              |
+|:-------------|:---------------|:-----------------|:-------------------|
+| 1 un         | 10 (un) ten    | 100 un hunde     | 1000 un tauzen     |
+| 2 du         | 20 du ten      | 200 du hunde     | 2000 du tauzen     |
+| 3 tri        | 30 tri ten     | 300 tri hunde    | 3000 tri tauzen    |
+| 4 for        | 40 for ten     | 400 for hunde    | 4000 for tauzen    |
+| 5 faif       | 50 faif ten    | 500 faif hunde   | 5000 faif tauzen   |
+| 6 sixe       | 60 sixe ten    | 600 sixe hunde   | 6000 sixe tauzen   |
+| 7 seven      | 70 seven ten   | 700 seven hunde  | 7000 seven tauzen  |
+| 8 eite       | 80 eite ten    | 800 eite hunde   | 8000 eite tauzen   |
+| 9 nain       | 90 nain ten    | 900 nain hunde   | 9000 nain tauzen   |
 
 Números mayores usan el lógico mismo como arriba.
 
@@ -83,11 +83,11 @@ Ellas preceden la palabra o frase que califican.
 
 La manera para crear números ordinales es poner el número después del sustantivo.
 
-**fen un**
+**parte un**
 – parte primera  
-**fen du**
+**parte du**
 – parte segunda  
-**fen tri**
+**parte tri**
 – parte tercera
 
 
@@ -95,35 +95,35 @@ La manera para crear números ordinales es poner el número después del sustant
 
 Hay dos maneras para crear fracciones.
 Ambos usan la palabra
-**fen**
+**parte**
 («parte»).
 
 La manera corta es usar números ordinales.
 
-**un fen du**
+**un parte du**
 – una mitad (½)  
-**un fen nelu**
+**un parte for**
 – un cuarto (¼)  
-**tri fen nelu**
+**tri parte for**
 – tres cuartos (¾)  
-**un fen sento**
+**un parte hunde**
 – un centésimo (un por ciento) (1%)  
-**un fen kilo**
+**un parte tauzen**
 – un milésima (un por mil) (1‰)
 
 La manera más largo usa la pauta
-**X de Y fen**
+**X of Y parte**
 ('X de Y partes').
 
-**un de du fen**
+**un of du parte**
 – una de dos partes, una mitad (½)  
-**un de nelu fen**
+**un of for parte**
 – una de cuatro partes, un cuarto (¼)  
-**tri de nelu fen**
+**tri of for parte**
 – tres de cuatro partes, tres cuartos (¾)  
-**un de sento fen**
+**un of hunde parte**
 – una de cien partes, uno por ciento (1%)  
-**un de kilo fen**
+**un of tauzen parte**
 – una de miles partes, uno por mil (1‰)
 
 
@@ -135,25 +135,24 @@ Días de la semana inclusan la palabra
 **den**
 («día de la semana»).
 
-1. **lunaden**
+1. **lunadei**
    – lunes
-2. **marisden**
+2. **marisdei**
    – martes
-3. **merkurden**
+3. **merkurdei**
    – miércoles
-4. **mushinden**
+4. **mushindei**
    – jueves
-5. **zukraden**
+5. **zukradei**
    – viernes
-6. **shaniden**
+6. **shanidei**
    – sabado
-7. **solden**
+7. **soldei**
    – domingo
 
 #### Meses
 
-Las nombers de los meses se componen como los nombers de los días,
-pero esta vez la palabra
+Las nombers de los meses se componen con la palabra
 **mes**
 («mes») se usa.
 
@@ -165,7 +164,7 @@ pero esta vez la palabra
    – marzo
 4. **mes for**
   – abril
-5. **mes faive**
+5. **mes faif**
   – mayo
 6. **mes sixe**
   – junio
