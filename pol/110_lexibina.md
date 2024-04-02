@@ -8,37 +8,108 @@ Wiele z nich pochodzi z starożytnej greki, łaciny, języka arabskiego i język
 
 ## Przyrostki słowotwórcze
 
-### -er
+#### de-
+
+Tworzy czasowniki odwracjające znaczenie podstawowego czasownika.
+
+**liga**
+'wiązać'
+→ **deliga**
+'odwiązywać'  
+**tape**
+'zatykać, zamykać korkiem'
+→ **detape**
+'odtykać, wyciągąć korek'
+
+
+#### -er
 
 Tworzy wykonawcę czynności z rdzeni-czynności.
 Określa osobę lub narzędzie wykonujące czynność.
 
 **loga**
-'mówić' → 
-**logar**
+'mówić'
+→ **logater**
 'mówca, ten, kto mówi'  
 **bake**
-'piec' →
-**baker**
+'piec'
+→ **baker**
 'piekarz'  
 **lide**
-'przewodzić' → 
-**lider**
-'przywódca'
+'przewodzić'
+→ **lider**
+'przywódca'  
+**kompute**
+'liczyć, przetważać dane'
+→ **komputer**
+'komputer'  
+**sapate**
+'but'
+→ **sapater**
+'szewc'  
+**muskete**
+'muszkiet'
+→ **musketer**
+'muszkieter'  
+**kase**
+'kasa sklepowa'
+→ **kasir**
+'kasjer'
 
-### ta
+
+#### -ia
 
 Tworzy rzeczowniki zbiorowe. Opisuje grupę elementów nazwanych rdzeniem jako całość.
 
-**human**
-'człowiek' →
-**humanta**
+**homan**
+'człowiek'
+→ **homania**
+'ludzkość, wszyscy ludzie jako grup'  
+**kriste**
+'chrześcijanin'
+→ **kristia**
+'chrześcijaństwo, wszyscy chrześcijanie jako grupa'  
+**filsofe**
+'pogląd, mądrość życiowa'
+→ **filsofia**
+'filozofia, dyscyplina mądrości'
+
+Te zakończenie jest często znajdywane w nazwach miejsc, szczególnie krajów.
+Jakkolwiek, te użycie nie jest systematyczne i nie jest potrzebne.
+Jest też wiele nazw krajów, które nie kończą się na
+**-ia**.
+
+**arabe**
+'Arab, arabski'
+→ **Arabia**
+'Arabia'  
+**rus**
+'Rosjanin, rosyjski'
+→ **Rusia**
+'Rosja'  
+**turke**
+'Turek, turecki'
+→ **Turkia**
+Turcja  
+**Italia**
+'Włochy'  
+**Asia**
+'Azja'  
+**Indonesia**
+'Indonezia'
+
+### -ta
+
+Tworzy rzeczowniki zbiorowe. Opisuje grupę elementów nazwanych rdzeniem jako całość.
+
+**homan**
+'człowiek'
+→ **homanta**
 'ludzkość'
 
-Również abstrakcyjne rzeczowniki często kończą się na **ta**.
+Również abstrakcyjne rzeczowniki często kończą się na **-ta**.
 
-**neu**
-'nowy' →
-**neuta**
+**nove**
+'nowy'
+→ **noveta**
 'nowość'
-

@@ -26,6 +26,7 @@ Samaten sana **skribe** voi toimia niin verbinä 'kirjoittaa', substantiivina 'k
 **mi love yu su kitabe.**
 – Minä rakastan teidän kirjoituksianne.
 
+
 ## Yhdyssanat
 
 Sanoja saa yhdistää panduniassa vapaasti ilmaisemaan uusia asioita.
@@ -54,14 +55,78 @@ Yleisimmät liitteet luetellaan alla.
 Osa liitteistä on itse asiassa tavallisia sanoja, joita voi käyttää myös itsenäisinä,
 mutta useimmat ovat aitoja liitteitä, jotka eivät toimi itsenäisinä sanoina.
 
+Esimerkiksi sana **Geia** 'Maa-planeetta' on muodostettu sanasta
+**gee**
+'maaperä' ja jälkiliitteestä
+**-ia**.
+
+           gee       'maaperä'
+       +   -ia       'kollektiivisen substantiivin pääte'
+    _____________
+    =      Geia      'Maa-planeetta, Gaia'
+
+Kahdesta tai useammasta perussanasta voi muodostaa yhdyssanan.
+Viimeisen sanan merkitys on suurin
+ja sitä ennen tulevat sanat vain muokkaavat sen merkitystä.
+
+           pan       'kaikki'
+       +  deme       'kansa, väki'
+       +  -ike       'adjektiivin pääte'
+    _____________
+    = pandemike      'koko kansaa koskeva, pandeeminen'
+
+Kreikkalaisperäisissä sanoissa käytetään toisinaan yhdysvokaalia **-o-** yhdistämään yhdyssanan osat toisiinsa.
+
+           deme      'kansa, väki'
+       +    -o-      'yhdysvokaali'
+       +  krate      'valta'
+       +    -ia      'kollektiivisen substantiivin pääte'
+    _____________
+    = demokratia     'kansavalta, demokratia'
+
+          terme      'lämpötila'
+       +    -o-      'yhdysvokaali'
+       +  metre      'mittaus'
+       +    -er      'tekijä tai väline'
+    ____________
+    = termometrer     'lämpömittari'
+
+Panduniassa käytetään kansainvälisistä sanoista tuttuja etuliitteitä,
+kuten **a-**, **de-**, **pro-**, **re-** ja **su-**,
+jotta pandunian kantasanoista voitaisiin muodostaa mahdollisimman paljon kansainvälisesti tunnistettavia sanoja.
+
+             a-      'tykö'
+       +  grese      'harppaus'
+    ____________
+    =    agrese      'päällekarkaus'
+
+           pro-      'eteenpäin'
+       +  grese      'harppaus'
+    ____________
+    =  progrese      'eteenpäin harppaus, progressio'
+
+            re-      'takaisin'
+       +  grese      'harppaus'
+    ____________
+    =    resese      'takaisin harppaus, regressio'
+
+            de-      'pois'
+       +   sese      'harppaus'
+    ____________
+    =   degrese      'poikkeaminen, harha-askel, digressio'
+
+Huomaa, että kansainvälisiä etuliitteitä käytetään panduniassa ainoastaan silloin, kun johdetun sanan merkitys todella on sen osien summa.
+Panduniassa ei mielellään käytetä sellaisia yhdyssanoja, joiden merkitys ei tule ilmi sanan osista.
+
+
 ### Etuliitteet
 
 #### a-
 
-**a-**
-'tykö, itseensä' :  
+Etuliite **a-** tarkoittaa, että kantasanan ilmaisema tekeminen tuo tekijän ja tekemisen kohteen yhteen.
+
 **sepe**
-'ottaa'
+'ottaa, siepata'
 → **asepe**
 'ottaa itselleen, hyväksyä'  
 **liga**
@@ -71,27 +136,39 @@ mutta useimmat ovat aitoja liitteitä, jotka eivät toimi itsenäisinä sanoina.
 
 #### an-
 
-**an-** :  
-vastakohta, epä-:  
+Etuliite **an-** merkitsee puutetta.
+
+**deiste**
+'jumaluskoinen'
+→ **andeiste**
+'jumalaton, ateisti'  
 **hapi**
 'onnellinen'
 → **anhapi**
 'onneton'  
-**juste**
-'oikeudenmukainen'
-→ **anjuste**
-'epäoikeudenmukainen'  
 **homan**
 'ihminen'
 → **anhoman**
-'epäihminen'
+'epäihminen'  
+**tabakiste**
+'tupakoitsija'
+→ **antabakiste**
+'tupakoimaton'  
+**kluze**
+'suljettu'
+→ **ankluze**
+'sulkematon, avoin'  
+**uzebil**
+'käyttökelpoinen'
+→ **anuzebil**
+'käyttökelvoton'
 
 #### de-
 
-**de-**
-'pois, erilleen' :  
+Etuliite **de-** merkitsee, että kantasanan ilmaisema tekeminen vie tai ottaa pois.
+
 **sepe**
-'ottaa, napata'
+'ottaa, siepata'
 → **desepe**
 'ottaa pois, poistaa'  
 **dute**
@@ -110,6 +187,10 @@ vastakohta, epä-:
 'koodata'
 → **dekode**
 'dekoodata, purkaa koodi'  
+**tape**
+'tappi, korkki'
+→ **detape**
+'korkata, poistaa tappi tai korkki'  
 **kovre**
 'peittää'
 → **dekovre**
@@ -118,6 +199,19 @@ vastakohta, epä-:
 'kasvaa'
 → **dekrese**
 'kutistua'
+
+#### dis-
+
+Etuliite **dis-** merkitsee eri suuntiin hajottamista.
+
+**trate**
+'vetää, kiskoa'
+→ **distrate**
+'kiskoa hajalleen'  
+**turbe**
+'hämmentää'
+→ **disturbe**
+'hämmentää hajalleen, häiritä'
 
 #### dus-
 
@@ -134,10 +228,9 @@ Etuliite **dus-** tarkoittaa huonoutta.
 
 #### ex-
 
-**ex**
-'ulos' :  
+Etuliite **ex-** tarkoittaa, että toiminta suuntautuu ulos.
 **sepe**
-'ottaa, napata'
+'ottaa, siepata'
 → **exsepe**
 'ottaa pois, poislukea'  
 **jete**
@@ -147,8 +240,8 @@ Etuliite **dus-** tarkoittaa huonoutta.
 
 #### in-
 
-**in-**
-'sisään' :  
+Etuliite **ex-** tarkoittaa, että toiminta suuntautuu sisään.
+
 **jete**
 'työntää'
 → **injete**

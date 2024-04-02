@@ -80,8 +80,9 @@ though the results usually look mostly similar.
 Affixes, i.e. prefixes and suffixes, are very important and give great flexibility to the language.
 They are joined or merged to the base word.
 
-For example, the word **Geia** 'planet Earth' consists of the base word **gei** 'earth, ground'
-and the collective noun suffix **-ya**.
+For example, the word **Geia** 'planet Earth' consists of the base word
+**gee**
+'earth, ground' and the collective noun suffix **-ia**.
 
            gee       'earth, ground'
        +   -ia       'collective noun suffix'
@@ -143,7 +144,7 @@ in order to re-create many international words as native Pandunia words.
     ____________
     =    susese      'go well, succeed'
 
-Note that these prefixes are used only in compound words that really mean the sum their parts.
+Note that these internatioal prefixes are used only in compound words that really mean the sum their parts.
 Fossilized words whose meanings are no longer the sum of their parts,
 like *evolution* (originally 'rolling out') and *revolution* (originally 'rolling back'),
 are not compound words in Pandunia.
@@ -153,7 +154,7 @@ are not compound words in Pandunia.
 
 #### a-
 
-The prefix **a-** means that the action is directed toward or closer to the speaker.
+The prefix **a-** means that the action brings the agent and the object together.
 
 **sepe**
 'take, catch'
@@ -225,8 +226,11 @@ The prefix **dis-** means that the action is directed apart or in many direction
 **trate**
 'draw'
 → **distrate**
-'draw apart, distract'
-
+'draw apart, distract'  
+**turbe**
+'whirl, spin'
+→ **disturbe**
+'disturb'
 
 #### dus-
 
@@ -548,9 +552,9 @@ The suffix *-er* means a doer or agent of the action that is indicated by the ba
 This suffix is the combination of *-er* and *-ia*.
 It means the place for making, producing or selling the thing that is indicated by the base word.
 
-**beke**
+**bake**
 'to bake'
-→ **bekeria**
+→ **bakeria**
 'bakery'  
 **perfume**
 'perfume'
@@ -561,12 +565,12 @@ It means the place for making, producing or selling the thing that is indicated 
 → **enjeneria**
 'engineering'
 
-In some rare cases this suffix is trimmed into *-ria*.
+In some rare cases this suffix is trimmed into **-ria**.
 
 **piza**
 'pizza'
 → **pizaria**
-'pizzeria, pizza place'  
+'pizzeria, pizza place'
 
 #### -ete
 
