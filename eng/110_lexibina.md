@@ -271,7 +271,7 @@ The prefix **in-** means that the action is directed into something.
 → **inkluze**
 'close in, enclose, include'
 
-#### kon- or kom-
+#### kon- ~ kom-
 
 The prefixes **kon-** and **kom-** mean that something is done together.
 There are two forms of this prefix.
@@ -367,9 +367,13 @@ The prefix **ri-** means repetition or doing again.
 **nate**
 'be born'
 → **rinate**
-'be born again'
+'be born again'  
+**pleye**
+'play'
+→ **ripleye**
+'play again, replay'
 
-#### sin- or sim-
+#### sin- ~ sim-
 
 The prefixes **sin-** and **sim-** mean that something is one and the same.
 There are two forms of this prefix.
