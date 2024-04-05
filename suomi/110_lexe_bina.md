@@ -252,33 +252,36 @@ Etuliite **ex-** tarkoittaa, että toiminta suuntautuu sisään.
 'sulkea sisään, ottaa mukaan'
 
 
-#### kon- tai kom-
+#### kon- ~ kom-
 
-**kon-**
-'yhdessä, yhteen' :  
+Etuliitteet **kon-** ja *kom-** tarkoittaa 'kanssa, yhdessä, yhteen, kokoon'.
+
+**tene**
+'pitää'
+→ **kontene**
+'pitää yhdessä'  
 **strute**
 'rakentaa'
 → **konstrute**
 'rakentaa, panna kokoon'  
-**labe**
-'työskennellä'
-→ **konlabe**
-'tehdä yhteistyötä'
+**patia**
+'kärsiminen'
+→ **kompatia**
+'yhdessä kärsiminen, kanssakärsimys'
 
-**mes-**
-'väärin' :  
+#### mes-
+
+Etuliite **mes-** tarkoittaa 'väärin, virheellisesti'.
+
 **uze**
 'käyttö'
 → **mesuze**
 'väärinkäyttö'
 
+### pos-
 
-**pos**
-'jälkeen' :  
-**gere**
-'sota'
-→ **posgeral**
-'sodanjälkeinen'  
+Etuliite **pos-** tarkoittaa 'jälkeen, perään, jälkeen päin'.
+
 **poze**
 'panna, asettaa'
 → **pospoze**
@@ -286,32 +289,34 @@ Etuliite **ex-** tarkoittaa, että toiminta suuntautuu sisään.
 
 #### pre-
 
-**pre-**
-'ennen, aiemmin' :  
+Etuliite **pre-** tarkoittaa 'ennen, aiemmin, ennalta'.
+
 **dite**
 'kertoa'  
 → **predite**
 'kertoa edeltä, ennustaa'  
-**vide**
+**vize**
 'nähdä'
-→ **previde**
+→ **previze**
 'nähdä edeltä, aavistaa'
 
-**pro-**
-'eteen, esiin' :  
-**poze**
+### pro-
+
+Etuliite **pro-** tarkoittaa 'eteen, esiin, ilmi'.
+ 
+**pozi**
 'panna, asettaa'
-→ **propoze**
-'panna ehdolle'  
-**voke**
+→ **propozi**
+'panna ehdolle, ehdottaa'  
+**voka**
 'kutsua'
-→ **provoke**
+→ **provoka**
 'kutsua esiin'
 
 #### re-
 
-**re-**
-'takaisin' :  
+Etuliite **re-** tarkoittaa 'takaisin, vastaan, aiempaan eli vastakkaiseen suuntaan'.
+
 **ate**
 'toimia'
 → **reate**
@@ -323,68 +328,213 @@ Etuliite **ex-** tarkoittaa, että toiminta suuntautuu sisään.
 
 #### ri-
 
-**ri-**
-'toistaa, tehdä uudelleen' :  
-**du**
-'tehdä'
-→ **ridu**
-'tehdä uudelleen'  
-**forme**
+Etuliite **ri-** tarkoittaa 'uudestaan, uudelleen, toistaen'.
+
+**forma**
 'muovata'
-→ **riforme**
-'muovata uudelleen, reformoida'
+→ **riforma**
+'muovata uudelleen, reformoida'  
+**nate**
+'syntyä'
+→ **rinate**
+'syntyä uudestaan'  
+**pleye**
+'soittaa, toistaa'
+→ **ripleye**
+'soittaa tai toistaa uudelleen'
+
+#### sin- ~ sim-
+
+Etuliitteet **sin-** ja **sim-** tarkoittavat 'sama, saman, yhden, samaan, yhteen'.
+Tämä etuliite esiintyy kahdessa muodossa.
+Muotoa **sim-** käytetään, kun sitä seuraava sana alkaa kirjaimella *b*, *p* tai *m*,
+ja muotoa **sin-** käytetään muissa tapauksissa.
+
+**kronike**
+'aikainen, ajallinen'
+→ **sinkronike**
+'samanaikainen, yhtäaikainen, synkroninen'  
+**metria**
+'mittaus'
+→ **simmetria**
+'samanmittaisuus, tasasuhtaisuus, symmetria'  
+**patia**
+'kärsiminen'
+→ **simpatia**
+'saman kärsiminen, myötätunto, sympatia'  
+**mixe**
+'sekoittaa'
+→ **simmixe**
+'sekoittaa yhteen'
+
+#### su-
+
+Etuliite **su-** merkitsee 'hyvä, hyvin'.
+
+**sese**
+'kulkea, mennä'
+→ **susese**
+'mennä hyvin, onnistua'  
+**rupe**
+'ulkonäkö'
+→ **surupike**
+'hyvännäköinen'
 
 
 ### Jälkiliitteet
 
+#### -aje
+
+Jälkiliite **-aje** merkitsee esinettä tai asiaa, joka on tehty kantasanan ilmaisemasta asiasta.
+
+**bage**
+'laukku'
+→ **bagaje**
+'laukusto, matkatavarat'  
+**kore**
+'ydin'
+**koraje**
+'sisukset, sisu'  
+**mise**
+'lähettää'
+→ **misaje**
+'lähetys, viesti, sanoma'  
+**fase**
+'pinta, sivu'
+→ **fasaje**
+'julkisivu, fasadi'  
+**limon**
+'sitruuna'
+→ **limonaje**
+'sitruunajuoma, limonadi'
+
 #### -al ~ -ial
 
-**-al**
-'asiaan liittyvä, -llinen' :  
-**nacia**
-'kansa'
-→ **nacial**
-'kansallinen'  
-**socia**
-'yhteisö'
-→ **social**
-'yhteisöllinen, sosiaalinen'  
+Jälkiliite **-al** merkitsee asiaan kuuluvaa tai liittyvää.
+
+**fine**
+'loppu'
+→ **final**
+'lopullinen'  
+
 **universe**
 'kaikkeus'
 → **universal**
-'kaikkea koskeva, universaali'
+'kaikkea koskeva, universaali'  
+**karne**
+'liha'
+→ **karnal**
+'lihallinen'
 
-#### -an
+Kun **-al** liitetään kantasanaan, jonka lopussa on **-ia**, ne yhdistyvät päätteeksi **-ial**.
 
-**-an**
-'johonkin kuuluva, jäsen, asukas' :  
+**dunia**
+'maailma'
+→ **dunial**
+'maailmallinen'  
+**imperia**
+'keisarikunta'
+→ **imperial**
+'keisarikunnallinen, imperiaalinen'  
+**nasia**
+'kansa'
+→ **nasial**
+'kansallinen'  
+**sosia**
+'yhteisö'
+→ **sosial**
+'yhteisöllinen, sosiaalinen'
+
+#### -an ~ ian
+
+Jälkiliite **-an** merkitsee 'johonkin kuuluvaa, jäsentä, asukasta'.
+
 **Amerika**
 'Amerikka'
-→ **Amerikan**
+→ **amerikan**
 'amerikkalainen'  
-**Italie**
+**Italia**
 'Italia'
-→ **Italian**
+→ **italian**
 'italialainen'  
-**Rusie**
+**Rusia**
 'Venäjä'
-→ **Rusian**
+→ **rusian**
 'venäläinen, venäjänmaalainen'  
+**Paris**
+'Pariisi'
+→ **parisan**
+'pariisilainen'  
+**kristia**
+'kristikunta'
+→ **kristian**
+'kristikuntalainen, kristitty'
 
+#### -bil
+
+Jälkiliite *-bil* merkitsee 'mahdollinen, kelpoinen, tehtävissä oleva'.
+
+**vize**
+'nähdä'
+→ **vizebil**
+'(silmin)nähtävä, näkyvä'  
+**uza**
+'käyttää'
+→ **uzabil**
+'käyttökelpoinen, käytettävä'
+
+#### -eme
+
+Tämä harvoin käytetty jälkiliite merkitsee kantasanan nimeämän järjestelmän perusyksikköä.
+Esimerkiksi,
+**lexeme**
+eli 'lekseemi' on sanaston perusyksikkö, koska
+**lexe**
+tarkoittaa 'sanaa'.
+Yksi lekseemi voi ilmetä monena eri sanana.
+Esimerkiksi TALO-lekseemi ilmenee monina taivutettuina sanoina, kuten *talon*, *talossa* ja *talolle*.
+
+**fone**
+'puheäänne'
+→ **foneme**
+'foneemi, äänteistön perusyksikkö'  
+**lexe**
+'sana'
+→ **lexeme**
+'lekseemi, sanaston perusyksikkö'  
+**mite**
+'taru, myytti'
+→ **miteme**
+'myteemi, arkkityyppinen taru, taruston perusyksikkö'
 
 #### -er ~ -ter
 
+Jälkiliite **-er** tarkoittaa 'tekijää'.
 
-**-er**
-'tekijä, -ja' :  
 **helpe**
 'auttaa'
 → **helper**
 'apulainen, avustaja'  
-**beke**
+**bake**
 'leipoa'
-→ **beker**
-'leipuri'
+→ **baker**
+'leipuri'  
+**lide**
+'johtaa'
+→ **lider**
+'johtaja'  
+**filsofe**
+'pohtia'
+→ **filsofer**
+'pohdiskelija, filosofi'  
+**muskete**
+'musketti'
+→ **musketer**
+'musketööri, muskettisoturi'  
+**kase**
+'kassa, kassalipas'
+→ **kaser**
+'kassatyöntekijä, "kassa"'
 
 #### -eria ~ -teria ~ ria
 
@@ -393,28 +543,47 @@ Etuliite **ex-** tarkoittaa, että toiminta suuntautuu sisään.
 **baker**
 'leipuri'
 → **bakeria**
-'leipomo'
+'leipomo'  
+**perfume**
+'hajuvesi, parfyymi'
+→ **perfumeria**
+'hajuvesikauppa, parfymeria'
 
 #### -ete
 
-**-ete**
-'pienennys, pikku-' :  
-**cigare**
-'sikari'
-→ **cigarete**
-'savuke'
+Jälkiliite **-ete** tai **-lete** lisää kantasanaan pienuuden vivahteen.
 
-**-ful**
-'täysi, runsas, -kas' :  
-**helpe**
-'apu'
-→ **helpeful**
-'avulias, avukas'
+**pake**
+'pakkaus'
+→ **pakete**
+'(pikku)paketti'  
+**kase**
+'lipas'
+→ **kasete**
+'kotelo, kasetti'  
+**sigare**
+'sikari'
+→ **sigarete**
+'savuke'
 
 #### -ia
 
-**-ia**
-'maa, alue, ala (myös tiedonala)' :  
+Jälkiliitteelä **-ia** on useita toisiinsa liittyviä merkityksiä.
+Sen perusmerkitys on 'kunta, ala, alue'.
+Se voi olla konkreettinen, kuten maa-ala, tai abstrakti, kuten oppiala.
+
+**homan**
+'ihminen'
+→ **homania**
+'ihmiskunta'  
+**kriste**
+'Kristus'
+→ **kristia**
+'kristikunta'
+
+Tätä jälkiliitettä käytetään monesti alueiden ja maiden nimissä.
+Se ei esiinny kuitenkaan kaikkien maiden nimissä.
+
 **arabe**
 'arabi'
 → **Arabia**
@@ -423,17 +592,37 @@ Etuliite **ex-** tarkoittaa, että toiminta suuntautuu sisään.
 'venäläinen'
 → **Rusia**
 'Venäjä'  
+**turke**
+'turkkilainen'
+→ **Turkia**
+'Turkki'  
+**itale**
+'itaali'
 **Italia**
 'Italia'  
+**Asia**
+'Asia'  
+**Indonesia**
+'Indonesia'
+
+Jälkiliite **-ia** esiintyy oppi- ja tieteenalojen nimissä.
+
+**kime**
+'kemikaali'
+→ **kimia**
+'kemia'  
 **filsofe**
 'maailmankatsomus, elämänfilosofia'
 → **filsofia**
 'filosofia (tieteenä)'  
-**kime**
-'kemikaali'
-→ **kimia**
-'kemia'
-
+**loge**
+'tutkia ja järkeillä'
+→ **logia**
+'tutkiminen, logiikka'  
+**biologia**
+'biologia, elämän tutkiminen'  
+**geologia**
+'geologia, maaperän tutkiminen'
 
 #### -ife ~ -tife
 

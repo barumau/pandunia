@@ -273,7 +273,7 @@ The prefix **in-** means that the action is directed into something.
 
 #### kon- ~ kom-
 
-The prefixes **kon-** and **kom-** mean that something is done together.
+The prefixes **kon-** and **kom-** mean 'together'.
 There are two forms of this prefix.
 The form **kom-** is used when the following word begins with a *b*, *p* or *m*,
 and the form **kon-** is used in all other cases.
@@ -285,7 +285,11 @@ and the form **kon-** is used in all other cases.
 **strute**
 'structure'
 → **konstrute**
-'construct, put together'
+'construct, put together'  
+**patia**
+'suffering'
+→ **kompatia**
+'suffering together, compassion'
 
 #### per-
 
@@ -375,13 +379,11 @@ The prefix **ri-** means repetition or doing again.
 
 #### sin- ~ sim-
 
-The prefixes **sin-** and **sim-** mean that something is one and the same.
+The prefixes **sin-** and **sim-** mean '(for, to or at) the same'.
 There are two forms of this prefix.
 The form **sim-** is used when the following word begins with a *b*, *p* or *m*,
 and the form **sin-** is used in all other cases.
 
-**sin-, sim-**
-'same, equal' :
 **kronike**
 'timely, temporal, chronic'
 → **sinkronike**
@@ -389,7 +391,15 @@ and the form **sin-** is used in all other cases.
 **metria**
 'measurement'
 → **simmetria**
-'symmetry, equal measurements'
+'symmetry, equal measurements'  
+**patia**
+'suffering'
+→ **simpatia**
+'feeling ~ suffering the same, sympathy'  
+**mixe**
+'mix'
+→ **simmixe**
+'mix together, blend'
 
 #### su-
 
@@ -399,9 +409,9 @@ The prefix **su-** adds the quality of goodness into the base word.
 'pass, go by'
 → **susese**
 'go well, succeed'  
-**rupa**
+**rupe**
 'appearance, looks'
-→ **surupa**
+→ **surupike**
 'good-looking'
 
 
@@ -434,18 +444,22 @@ The suffix *-aje* means something that is made of or something that consists of 
 
 #### -al ~ -ial
 
-The suffix *-al* means that something belongs to or is related to the thing or person indicated by the base word.
+The suffix **-al** means that something belongs to or is related to the thing or person indicated by the base word.
 
 **fine**
 'end'
 → **final**
 'final, belonging to the end'  
+**universe**
+'universe, everything'
+→ **universal**
+'universal, something that concerns everything and everyone'  
 **karne**
 'flesh'
 → **karnal**
 'fleshly, related to flesh'
 
-When *-al* is suffixed to a base word that ends in *-ia*, they merge together into *-ial*.
+When **-al** is suffixed to a base word that ends in **-ia**, the endings merge together into **-ial**.
 
 **dunia**
 'world'
@@ -454,11 +468,19 @@ When *-al* is suffixed to a base word that ends in *-ia*, they merge together in
 **imperia**
 'empire'
 → **imperial**
-'imperial'
+'imperial'  
+**nasia**
+'nation'
+→ **nasial**
+'national'  
+**sosia**
+'society'
+→ **sosial**
+'societal, social'
 
-#### -an
+#### -an ~ ian
 
-The suffix *-an* denotes someone that is a member of a community, such as a country, city or a club.
+The suffix **-an** denotes someone that is a member of a community, such as a country, city or a club.
 When this suffix is added to a base word that ends in *-ia*, they merge together into *-ian*.
 
 **Amerike**
@@ -500,7 +522,7 @@ The suffix *-bil* means that something is possible or able to be done.
 This rarely used suffix means a fundamental unit in the system of things that is indicated by the base word.
 For example,
 **lexeme**
-'lexeme' is the fundamental unit in the system of
+('lexeme') is the fundamental unit in the system of
 *lexe*
 'words'.
 For example *spoke* and *spoken* are individual words but they represent the same underlying fundamental unit, which is *speak* in its basic form.
@@ -648,7 +670,9 @@ where it can be understood as collection of scientific knowledge and practices.
 → **logia**
 'systematic study, logic'  
 **biologia**
-'biology, systematic study of organic life'
+'biology, systematic study of organic life'  
+**geologia**
+'geology, systematic study of the ground'
 
 #### -ife ~ -tife
 
