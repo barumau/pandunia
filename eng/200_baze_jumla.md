@@ -416,48 +416,48 @@ They are here.
 They are there.
 
 
-### su <small>'s (possessive particle)</small>
+### se <small>'s (possessive particle)</small>
 
 **ye es kua?**
 What's this?
 
-**da es mi su telefon.**
+**da es mi se telefon.**
 It's my telephone.
 
-**ye es kua su?**
+**ye es kua se?**
 Whose is this?
 
-**da es mi su.**
+**da es mi se.**
 It's mine.
 
 Note: Possessive particle
-**su**
+**se**
 is put between the owner and the owned thing. So
-**mi su**
+**mi se**
 means "my",
-**tu su**
+**tu se**
 means "your" and so on.
 
 **da es kua?**
 Who's he/she?
 
-**da es mi su doste.**
+**da es mi se doste.**
 He/she is my friend.
 
-**mi es Sara su doste.**
+**mi es Sara se doste.**
 I am Sarah's friend.
 
 It's also possible to end a sentence with
-**su**.
+**se**.
 
-**mau es mi su.**
+**mau es mi se.**
 The cat is mine.  
-**pesa es di su.**
+**pesa es di se.**
 The money is theirs.  
-**doste es sara su.**
+**doste es sara se.**
 The friend is Sara's.
 
-<small>Etymology. **su** is from
+<small>Etymology. **se** is from
 English *'s*,
 Afrikaans *se*,
 French *son* ~ *sa*,
@@ -466,16 +466,16 @@ Spanish *su*.</small>
 
 ### nam <small>name</small>
 
-**tu su nam es kua?**
+**tu se nam es kua?**
 What's your name?
 
-**mi su nam es Tomas.**
+**mi se nam es Tomas.**
 My name is Thomas.
 
-**da su nam es kua?**
+**da se nam es kua?**
 What is his/her name?
 
-**da su nam es Sara.**
+**da se nam es Sara.**
 Her name is Sarah.
 
 <small>Etymology. **nam** is from
@@ -490,7 +490,7 @@ English *name*.</small>
 
 ### ave <small>have</small>
 
-**mi ave un hau dom.**
+**mi ave un hau haus.**
 I have a good house.
 
 **da no ave pesa.**
@@ -613,7 +613,7 @@ This red one.
 **mi plis tu yam cha.**
 I ask you to drink tea.
 
-**mi plis tu lai dom.**
+**mi plis tu lai haus.**
 I ask you to come home.
 
 **mi plis tu mede mi.**
@@ -627,7 +627,7 @@ Please, have some tea!
 **plis yam kafe.**
 Please, have some coffee!
 
-**plis lai dom.**
+**plis lai haus.**
 Please, come home!
 
 **plis mede mi.**
@@ -642,7 +642,7 @@ Let's eat!
 **haida go yam!**
 Let's go eat!
 
-**haida go dom.**
+**haida go haus.**
 Let's go home.
 
 
@@ -671,7 +671,7 @@ Sorry, I don't understand.
 **pardon! da es kua?**
 Excuse me, what's this?
 
-**pardon. tu su nam es kua?**
+**pardon. tu se nam es kua?**
 Excuse me, what's your name?
 
 
@@ -716,7 +716,7 @@ I can speak a little Pandunia.
 **mi no ken english.**
 I can't speak English.
 
-**maf. mi no ken tu su basha.**
+**maf. mi no ken tu se basha.**
 Sorry, I can't speak your language.
 
 
@@ -794,7 +794,7 @@ I don't understand what it means.
 
 ### kitabe <small>write</small>
 
-**plis kitabe tu su adres.**
+**plis kitabe tu se adres.**
 Please, write your address.
 
 **plis kitabe da a ye.**
@@ -832,7 +832,7 @@ Swahili, Hausa, Yoruba, Amharic
 **tu go kua?**
 Where are you going?
 
-**mi go dom.**
+**mi go haus.**
 I'm going home.
 
 **mi mus go kua?**
@@ -859,7 +859,7 @@ Where do you come from?
 **mi lai de Dubai.**
 I come from Dubai.
 
-**mi lai dom a pos den.**
+**mi lai haus a pos den.**
 I will come home tomorrow.
 
 
@@ -886,7 +886,7 @@ The hotel is on that road.
 **tu a kua?**
 Where are you?
 
-**mi a dom.**
+**mi a haus.**
 I'm at home.
 
 **da a kua?**
@@ -902,7 +902,7 @@ as a preposition or alone as the verb.
 **mi kar a...**
 I work at ...
 
-
+<!--
 ### dom <small>to live, reside</small>
 
 **tu dom kua?**
@@ -913,7 +913,7 @@ I live in Singapore.
 
 **sual tu dom ye hotel?**
 Do you live in this hotel?
-
+-->
 
 ### dele <small>to wait</small>
 
@@ -934,7 +934,7 @@ I wait for you in the hotel.
 
 ### bi <small>currently</small>
 
-**mi bi sal tu su doste.**  
+**mi bi sal tu se doste.**  
 I am greeting your friend.
 
 **da man bi vize un filme.**  
@@ -943,7 +943,7 @@ The man is watching a film.
 
 ### ha <small>already, completed</small>
 
-**mi ha sal tu su doste.**  
+**mi ha sal tu se doste.**  
 I have greeted your friend.
 
 **da man ha vize dafilme.**  
@@ -952,7 +952,7 @@ The man has watched the film.
 
 ### did <small>in the past</small>
 
-**mi did sal tu su doste.**  
+**mi did sal tu se doste.**  
 I greeted your friend.
 
 **da man did vize un filme.**  
@@ -961,13 +961,13 @@ The man watched a film.
 **da did es shefe.**  
 He/she was the chief.
 
-**da did es a dom.**  
+**da did es a haus.**  
 He/she was at home.
 
 
 ### vil <small>in the future</small>
 
-**mi vil sal tu su doste.**  
+**mi vil sal tu se doste.**  
 I will greet your friend.
 
 **da man vil vize da filme.**  
@@ -976,7 +976,7 @@ The man will watch the film.
 **da vil es shefe.**  
 He/she will be the chief.
 
-**da vil es a dom.**  
+**da vil es a haus.**  
 He/she will be at home.
 
 

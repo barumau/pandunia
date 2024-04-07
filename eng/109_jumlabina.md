@@ -132,7 +132,7 @@ Often there is no copula verb (i.e. linking verb) between the subject and its pr
 – Ali is a teacher.  
 **Ali rike.**
 – Ali is rich.  
-**Ali a dom.**
+**Ali a haus.**
 – Ali is at home.
 
 
@@ -149,7 +149,7 @@ can be used optionally in simple predicative sentences like the ones above.
 – Ali is a teacher.  
 **Ali es rike.**
 – Ali is rich.  
-**Ali es a dom.**
+**Ali es a haus.**
 – Ali is at home.
 
 The copula verb is used when it is necessary in order to convey the desired meaning.
@@ -173,16 +173,16 @@ Compare with:
 The linking verb is used also when structural complexity of subject and/or predicate
 makes the boundary between the two sentence elements doubtful.
 
-**mi su kar mede bacha.**
+**mi se kar mede bacha.**
 – My job helps children.  
-**mi su kar es mede bacha.**
+**mi se kar es mede bacha.**
 –  My job is to help children.
 
 It is also possible to use a pause,
 that is indicated by a dash in writing,
 instead of the linking verb.
 
-**mi su kar – mede bacha.**
+**mi se kar – mede bacha.**
 – My job: to help children.
 
 
@@ -205,9 +205,9 @@ is optional in the same cases as before
 – He is not rich.  
 **da no van es rike.**
 – He doesn't want to be rich.  
-**da no a dom.** ~ **da no es a dom.**
+**da no a haus.** ~ **da no es a haus.**
 – He is not at home.  
-**da su kar no es mede bacha.**
+**da se kar no es mede bacha.**
 – His job is not to help children.
 
 
@@ -572,9 +572,9 @@ In pivot constructions where the first action indicates a modality, such as desi
 the first participant can be left out when it indicates the first person ('I').
 The the remaining syntactic construction is `verb₁–pivot–verb₂–object`.
 
-**mi sual tu lai dom.**
+**mi sual tu lai haus.**
 – I ask (whether) you come come?  
-**sual tu lai dom.**
+**sual tu lai haus.**
 – Do you come come?  
 **mi asha tu yam mas fite.**
 – I wish you would eat more vegetables.  
@@ -585,9 +585,9 @@ In commands and requests also the second participant can be left out
 when it indicates the second person ('you').
 The the remaining syntactic structure is `verb₁–verb₂–object`.
 
-**mi plis tu lai dom.**
+**mi plis tu lai haus.**
 – I ask you to come home.  
-**plis lai dom!**
+**plis lai haus!**
 – Please come home!  
 **mi amir tu kluze da mun.**
 – I command you to shut the door.  
@@ -612,11 +612,11 @@ It is very common in Pandunia.
 There can be two, three or even more verbs in a series.
 All verbs are about the same subject.
  
-1. **mi go a dom.**
+1. **mi go a haus.**
    – I go home.
-2. **mi ken go a dom.**
+2. **mi ken go a haus.**
    – I can go home.
-3. **mi van ken go a dom.**
+3. **mi van ken go a haus.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
@@ -802,7 +802,7 @@ However, unlike in English, the word order may also be unchanged.
 – You are eating what?  
 **da lai a kua tem?**
 – When does he arrive?  
-**yu vizite a kua jen su dom?**
+**yu vizite a kua jen se haus?**
 – Whose house did you all vizet?
 
 
@@ -854,7 +854,7 @@ or it can be left out by using the reduced relative clause structure.
 
 Also a _resumptive relative pronoun_ can be used if needed.
 
-**da jen, mi fa kitabe da buke na ki su kalam, padu.**
+**da jen, mi fa kitabe da buke na ki se kalam, padu.**
 – The person whose pen I write the book with falls.
 
 
@@ -1052,34 +1052,34 @@ Verb phrases can also be made into modifiers in this way, but any objects must b
 
 **shute de grafe pente**
 – the art of picture-painting (the art of painting pictures)  
-**ale su mede su suka**
+**ale se mede se suka**
 – the joy of others-helping (the joy of helping others)
 
 #### Possession
 
 The possessive particle
-**su**
-works like the apostrophe-s ('s) in English.
+**se**
+works like the *s*-genitive (*'s*) in English.
 It indicates that the previous word has possession of the next one.
 
-**Maria su mama**
+**Maria se mama**
 – Maria's mother  
-**Maria su mama su dom**
+**Maria se mama se haus**
 – Maria's mother's house
 
 The same particle is used with with personal pronouns too.
 
-**mi su dom**
+**mi se haus**
 – my house  
-**tu su dom**
+**tu se haus**
 – your house  
-**da su dom**
+**da se haus**
 – his or her house  
-**vi su dom**
+**vi se haus**
 – our house  
-**yu su dom**
+**yu se haus**
 – your house  
-**di su dom**
+**di se haus**
 – their house
 
 

@@ -148,7 +148,7 @@ as in the table below.
 | The happy child |        | writes      |        | a long letter.    |
 | *yun man*       | **ya** | *vize*      | **un** | *mei parke.*      |
 | The young man   |        | sees        |        | a beautiful park. |
-| *meni jen*      | **ya** | *van shope* | **un** | nova dom.*        |
+| *meni jen*      | **ya** | *van shope* | **un** | nova haus.*       |
 | Many people     |        | want to buy |        | a new house.      |
 
 So the key to decoding Pandunia is to know the structure words and the clause constructions.
@@ -181,8 +181,8 @@ depending on its position in the sentence.
 
 **mi** ***love*** **tu.*
 – I **love** you. (verb)  
-**tu fikre mi su** ***love.***
+**tu fikre mi se** ***love.***
 – You think about my **love**. (noun)  
-**mi kitabe un** ***love*** **anjil.**
+**mi kitabe un** ***love*** **letre.**
 – I write a **love** letter. (adjective)
 

@@ -272,7 +272,7 @@ a normal PoS suffix.
  
 | 字 | Pandunia root | Cantonese  | Mandarin   | Japanese   | Korean     | Vietnamese |
 |----|---------------|------------|------------|------------|------------|------------|
-| 水 | **sui**       | sui        | shuǐ       | sui        | su         | thuỷ       |
+| 水 | **sui**       | sui        | shuǐ       | sui        | se         | thuỷ       |
 | 中 | **jung**      | zung       | zhōng      | chū        | jung       | trung      |
 | 心 | **shim**      | sam        | xīn        | shin       | sim        | tâm        |
 | 門 | **mun**       | mun        | mén        | mon        | mun        | (môn)      |

@@ -45,15 +45,15 @@ It is also the most common first-person plural pronoun,
 and the other two are used only occasionally.
 
 The possessive pronouns consists of the personal pronoun and the possessive particle
-**su**.
+**se**.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mi su**   | **vi su**    |
+| **mi se**   | **vi se**    |
 | my          | our          |
-| **tu su**   | **yu su**    |
+| **tu se**   | **yu se**    |
 | your        | your         |
-| **da su**   | **di su**    |
+| **da se**   | **di se**    |
 | his or her  | their        |
 
 
@@ -61,19 +61,19 @@ The possessive pronouns consists of the personal pronoun and the possessive part
 
 The reflexive pronoun is used when the object of a sentence is the same as the subject.
 
-**se**
+**selfe**
 – self
 
 Note! The same reflexive pronoun
-**se**
+**selfe**
 is used for all persons,
 so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, _ourselves_ and _themselves_ all at once.
 
-**mi vize se.**
+**mi vize selfe.**
 – I see myself.  
-**da vize se.**
+**da vize selfe.**
 – She sees herself. / He sees himself. / It sees itself.  
-**vi vize se.**
+**vi vize selfe.**
 – We see ourselves.
 
 The expression
@@ -210,7 +210,7 @@ There are two interrogative pronouns in Pandunia.
 
 The possessive interrogative pronoun is created regularly.
 
-**hu su**
+**hu se**
 – whose
 
 Adjectives are questioned with **kua li**.
@@ -243,7 +243,7 @@ Pandunia's pronominal phrases can be arranged in a regular table of pronominals 
 |               | what (thing)  | that thing    | something     | everything    | nothing       | another       | anything      |
 | Individual    | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    | **otre von**  | **eni von**   |
 |               | who           | that one      | someone       | every one     | no-one        | another       | anyone        |
-| Possession    | **kua von su**| **da von su** | **som von su**|**evri von su**| **no von su** |**otre von su**| **eni von su**|
+| Possession    | **kua von se**| **da von se** | **som von se**|**evri von se**| **no von se** |**otre von se**| **eni von se**|
 |               | whose         | that one's    | someone's     | everyone's    | no-one's      | another's     | anyone's      |
 | Place         | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   | **otre loke** | **eni loke**  |
 |               | where         | there         | somewhere     | everywhere    | nowhere       | elsewhere     | anywhere      |

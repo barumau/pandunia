@@ -36,13 +36,13 @@ The personal pronouns are:
 **vi** _we_, **yu** _you_ (pl.), **di** _they_.
 
 The possessive pronouns are:  
-**mi su** _my_, **tu su** _your_, **da su** _his or her_,
-**vi su** _our_, **yu su** _your_, **di su** _their_.
+**mi se** _my_, **tu se** _your_, **da se** _his or her_,
+**vi se** _our_, **yu se** _your_, **di se** _their_.
 
 The interrogative pronouns are:
 **kua**
 _what_ or _who_,
-**kua su**
+**kua se**
 _whose_.
 
 

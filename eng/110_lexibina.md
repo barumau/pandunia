@@ -32,7 +32,7 @@ can function as a verb (_to write_), a noun (_a writing_) and adjective (_writte
 – I write a letter.  
 **letre es kitabe misaje.**
 – A letter is a written message.  
-**mi love yu su kitabe.**
+**mi love yu se kitabe.**
 – I love your writings.
 
 
@@ -293,7 +293,7 @@ and the form **kon-** is used in all other cases.
 
 #### per-
 
-The prefix **per-** means that something is done thoroughly or completely.
+The prefix **per-** means that something is done completely, entirely or all the way through.
 
 **fete**
 'make, do'

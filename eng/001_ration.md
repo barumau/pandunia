@@ -398,16 +398,16 @@ So it covers the English third-person pronouns _he_, _she_ and _it_, all at once
 | they       | di         | tāmen      |
 
 The possessive pronouns follow the super simple pattern of Standard Chinese.
-Simply add **su** to form the possessive, as below.
+Simply add **se** to form the possessive, as below.
 
 | English    | Pandunia   | Chinese    |
 |------------|------------|------------|
-| my         | mi su      | wǒ de      |
-| your       | tu su      | nǐ de      |
-| his/her/its| da su      | tā de      |
-| our        | vi su      | wǒmen de   |
-| your       | yu su      | nǐmen de   |
-| their      | di su      | tāmen de   |
+| my         | mi se      | wǒ de      |
+| your       | tu se      | nǐ de      |
+| his/her/its| da se      | tā de      |
+| our        | vi se      | wǒmen de   |
+| your       | yu se      | nǐmen de   |
+| their      | di se      | tāmen de   |
 
 The personal pronouns in Pandunia attain three important goals.
 
