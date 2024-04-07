@@ -200,7 +200,7 @@ Por demandi _ki_-demandon skribu la normala frazo kaj anstataŭigu la demanditan
 – Kiun viron vi amas?  
 **kua man ya love tu?**
 – Kiu viro amas vin?  
-**tu love da kua li poli?**
+**tu love da kua li muche?**
 – Kiom multe vi amas lin?
 
 ### Ordonojn

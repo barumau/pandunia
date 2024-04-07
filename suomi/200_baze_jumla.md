@@ -81,7 +81,7 @@ indonesia *selamat*.</small>
 **tanke!**
 Kiitos!
 
-**poli tanke!**
+**meni tanke!**
 Paljon kiitoksia!
 
 **ya, tanke.**

@@ -113,7 +113,7 @@ ye idea e **mas** neu _ka_ vo idea.
 
 副詞は通常、修飾する単語の前にあります。
 
-mi **poli** ai tu.
+mi **meni** ai tu.
 – 私は**とても**あなたが好きです。
 
 
@@ -141,6 +141,6 @@ tu ai **ke**?
 – あなたは**誰**が好きですか?  
 tu ai **ke** man?
 – **どの**男が好きですか?  
-tu **ke** <u>poli</u> di ai mi?
+tu **ke** <u>meni</u> di ai mi?
 – あなたは私を**どれ**<u>くらい</u>愛していますか?
 

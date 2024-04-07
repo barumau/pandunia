@@ -112,7 +112,7 @@ Adjektiivit voi saattaa kyseenalaisiksi sanalla
 – Kuinka uusi?  
 **kua li koste?**
 – Minkä hintainen? Kuinka kallis?  
-**kua li poli?**
+**kua li muche?**
 – Kuinka monta?  
 **kua li kam?**
 – Kuinka vähän?  

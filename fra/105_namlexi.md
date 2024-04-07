@@ -36,7 +36,7 @@ Le nombre peut être mentionné avec des numéraux au besoin.
 – deux chaises  
 **tri kursi**
 – trois chaises  
-**poli kursi**
+**meni kursi**
 – beaucoup de chaises; des chaises
 
 

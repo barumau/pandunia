@@ -43,7 +43,7 @@ Le nombre, le genre ou le caractère défini sont marqués par des mots complém
 – un chat, une chatte, le chat, la chatte, les chats, les chattes, des chats, des chattes  
 **un mau**
 – un chat, une chatte  
-**poli mau**
+**meni mau**
 – beaucoup de chats, beaucoup de chattes  
 **da hir mau**
 – ce chat-ci, cette chatte-ci  
@@ -117,9 +117,9 @@ Le point de comparison est introduit par
 
 Les adverbes se placent généralement avant le nom qu'ils modifient, mais pas toujours.
 
-**mi poli love tu.**
+**mi muche love tu.**
 – Je beaucoup t'aime .  
-**mi love tu, poli.**
+**mi love tu, muche.**
 – Je t'aime beaucoup.
 
 
@@ -149,6 +149,6 @@ C'est l'ordre des mots d'une phrase affirmative qui sert pour les questions.
 – Tu aimes qui ?  
 **kua man love tu?**
 – Quel homme aimes-tu ?  
-**tu love da kua li poli?**
+**tu love da kua li muche?**
 – Tu l'aimes combien ?
 

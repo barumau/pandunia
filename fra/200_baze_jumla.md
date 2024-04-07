@@ -91,7 +91,7 @@ et en indonésien "selamat".</small>
 **tanke!**
 Merci!
 
-**poli tanke!**
+**meni tanke!**
 Merci beaucoup !
 
 **ya, tanke.**

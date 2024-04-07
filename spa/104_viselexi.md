@@ -84,7 +84,7 @@ o es conocido por el oyente o es de interés actual en el discurso.
 **da hir es mau. da van yam da der mushu.**
 – Ese es gato.  Quiere comer ese ratón.
 
-**mi ave un mau e un vaf. da vaf es dai. da bi yam poli yam.**
+**mi ave un mau e un vaf. da vaf es dai. da bi yam muche yam.**
 – Tengo un gato y un perro. El perro es grande. Come mucha comida.
 
 
@@ -133,7 +133,7 @@ Antes de un adjetivo, **kua li** también significa «cuán».
 – ¿Cuán nuevo?  
 **kua li koste?**
 – ¿Cuán caro? (¿Cuánto cuesta?)  
-**kua li poli?**
+**kua li muche?**
 – ¿Cuán muchos? (¿Cuántos?)  
 **kua li dai?**
 – ¿Cuán grande?  

@@ -82,7 +82,7 @@ Il correspond en français à _qui_, _qui est-ce qui_, _qui est-ce que_ (personn
 – Quel degré de nouveauté ? (Comment neuf?)  
 **kua li koste?**
 – Quel prix ? (Comment cher ?)  
-**kua li poli?**
+**kua li muche?**
 – Combien ? En quelle quantité ? (Comment beaucoup ?)  
 **kua li dai?**
 – Quelle taille ? (Comment grand ?)  

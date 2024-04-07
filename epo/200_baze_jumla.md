@@ -29,7 +29,7 @@ pandunie.
 
 ### sal <small>saluti</small>
 
-**sal**
+**sal!**
 Saluton!
 
 **sal suba!**
@@ -41,7 +41,7 @@ Bonan tagon!
 **sal sham!**
 Bonan vesperon!
 
-**sal noce!**
+**sal noche!**
 Bonan nokton!
 
 **sal yam!**
@@ -79,7 +79,7 @@ indonezia *selamat*.</small>
 **tanke!**
 Dankon!
 
-**poli tanke!**
+**meni tanke!**
 Multajn dankojn!
 
 **ya, tanke.**
@@ -104,7 +104,7 @@ Dankon pro vi helpis min.
 Ne dankinde.
 
 
-### e <small>esti</small>
+### es <small>esti</small>
 
 La vorto
 **es**
@@ -185,9 +185,13 @@ Mi amas vin.
 
 <small>Etimologio. **tu**
 venas el
-franca *tu*,
+hispana *tu*,
 itala *tu*,
-rusa ты *ty*.</small>
+franca *tu*,
+rusa ты (ty),
+hindia तू  (tū),
+persa تو‏‎ (to),
+taĝika ту (tu).</small>
 
 ### da <small>li, ŝi, ĝi</small>
 
@@ -200,7 +204,8 @@ Li estas viro.
 **da es aple.**
 Ĝi estas pomo.
 
-Noto: **da**
+Noto:
+**da**
 estas ĝenerala pronomo de tria persono.
 
 **mi sal da.**
@@ -235,8 +240,8 @@ Kaj vi?
 **mi no hau.**
 Mi ne fartas bone.
 
-<small>Etimologio. **sual**
-venas el araba سؤال (su'āl),
+<small>Etimologio. **sual** venas el
+araba سؤال (su'āl),
 hindia सवाल (savāl),
 malaja _soal_,
 sŭahila _swali_.</small>
@@ -416,10 +421,10 @@ Li/ŝi estas mia amiko.
 Mi estas amiko de Sara.
 
 <small>Etimologio. **su** venas el
-angla _'s_,
-afrikaansa _se_,
+angla *'s*,
+afrikaansa *se*,
 franca *son* ~ *sa*,
-hispana _su_.</small>
+hispana *su*.</small>
 
 
 ### nam <small>nomo</small>
@@ -470,6 +475,9 @@ Mi konas lin/ŝin.
 
 **sual tu nou da der jen?**
 Ĉu vi konas tiun personon?
+
+**mi no nou.**
+Mi ne scias.
 
 **sual yu nou unotre?**
 Ĉu vi konas unu la alian?
@@ -533,8 +541,8 @@ Mi manĝas kafon kaj panon.
 **tu van yam kua?**
 Kion vi volas manĝi?
 
-Noto: En pandunio la demandvorto estas en la normala loko ankaŭ en demandaj
-frazoj. La vortordo ne ŝanĝas pro
+Noto: En pandunio la demandvorto estas en la normala loko ankaŭ en demandaj frazoj.
+La vortordo ne ŝanĝas pro
 **kua**.
 
 **mi van yam kafe.**
@@ -606,16 +614,17 @@ Mi bezonas manĝi.
 
 ## 3a parto: Komunikado
 
-### maf <small>pardono</small>
+### pardon <small>pardono</small>
 
-**maf! mi no aha.**
+**pardon! mi no aha.**
 Pardonon, mi ne komprenas.
 
-**maf! da es kua?**
+**pardon! da es kua?**
 Pardonon, kio estas tio?
 
-**maf. tu su nam es kua?**
+**pardon. tu su nam es kua?**
 Pardonon, kio estas via nomo?
+
 
 ### aha <small>kompreni</small>
 
@@ -732,6 +741,7 @@ Kion "mau" signifas?
 **mi no aha da sema kua.**
 Mi ne komprenas kion ĝi signifas.
 
+
 ### kitabe <small>skribi</small>
 
 **plis kitabe tu su adres.**
@@ -812,6 +822,7 @@ Ni vojaĝas el Londono al Parizo.
 
 **safar es dai long.**
 La vojaĝo estas tre longa.
+
 
 ### a <small>ĉe, en, sur</small>
 
@@ -901,8 +912,6 @@ La viro vidis filmon
 
 **da did es a dom.**  
 Ĝi estis pasinte hejme.
-
-
 
 
 ### vil <small>-os</small>

@@ -44,7 +44,7 @@ Oni povas esprimin nombron per numeraloj kiam ĝi estas utila.
 – du seĝoj  
 **tri kursi**
 – tri seĝoj  
-**poli kursi**
+**meni kursi**
 – multe da seĝoj; seĝoj
 
 

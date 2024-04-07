@@ -405,7 +405,7 @@ ordonner
 **cha**
 thé  
 **plis**
-demander (poliment), s'il-vous-plaît  
+demander (meniment), s'il-vous-plaît  
 **don**
 donner  
 **tanke**

@@ -103,7 +103,7 @@ Indonesian *selamat*.</small>
 **tanke!**
 Thanks!
 
-**poli tanke!**
+**meni tanke!**
 Thanks a lot!
 
 **ya, tanke.**
@@ -208,9 +208,9 @@ I love you.
 
 <small>Etymology. **tu** is from
 Spanish *tu*,
-Russian ты (ty),
 Italian *tu*,
 French *tu*,
+Russian ты (ty),
 Hindi तू  (tū),
 Persian تو‏‎ (to),
 Tajik ту (tu).</small>
@@ -416,7 +416,6 @@ They are here.
 They are there.
 
 
-
 ### su <small>'s (possessive particle)</small>
 
 **ye es kua?**
@@ -523,6 +522,9 @@ I know him/her/it.
 
 **sual tu nou da der jen?**
 Do you know that person?
+
+**mi no nou.**
+I don't know.
 
 **sual yu nou unotre?**
 Do you know each other?
@@ -661,15 +663,15 @@ Are you thirsty?
 
 ## Part 3. Communication
 
-### maf <small>sorry, pardon</small>
+### pardon <small>sorry, pardon</small>
 
-**maf! mi no aha.**
+**pardon! mi no aha.**
 Sorry, I don't understand.
 
-**maf! ye es kua?**
+**pardon! da es kua?**
 Excuse me, what's this?
 
-**maf. tu su nam es kua?**
+**pardon. tu su nam es kua?**
 Excuse me, what's your name?
 
 
@@ -1065,7 +1067,7 @@ This is the best (of all).
 How much does it cost?  
 **nol.**
 Nothing.  
-**da koste kam / poli.**
+**da koste kam / meni.**
 It is cheap / expensive.  
 
 **men plis vi lai.**

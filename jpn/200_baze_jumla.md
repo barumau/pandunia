@@ -85,7 +85,7 @@ hide:
 **tanke!**
 ありがとう!
 
-**poli tanke!**
+**meni tanke!**
 どうもありがとう!
 
 **ya, tanke.**
@@ -902,7 +902,7 @@ hide:
 **mi don da to tu.**
 私はあなたにこれを与えます(=これをあげます)。
 
-**mi don buku to damen.**
+**mi don buke to damen.**
 私は本を彼ら/彼女ら/その人たちに与えた。
 
 **da no vol don da to mi.**

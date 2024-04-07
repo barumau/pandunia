@@ -7,9 +7,9 @@ Un modificateurs est un mot qui ajoute une qualité ou une description à un aut
 – une voiture nouvelle  
 **un _suga_ karo**
 – voiture(s) rapide(s)
-**poli _dai_ meza**
+**meni _dai_ meza**
 – grande(s) table(s)  
-**poli _gau_ meza**
+**meni _gau_ meza**
 – table(s) haute(s) 
 **un hau jen**
 – bonne(s) chaise(s)

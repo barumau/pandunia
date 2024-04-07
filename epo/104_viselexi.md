@@ -104,7 +104,7 @@ Adjektivoj estas demandataj per **kua li**.
 – Kiom nova?  
 **kua li koste?**
 – Kiom multekosta?  
-**kua li poli?**
+**kua li muche?**
 – Kiom multe?  
 **kua li dai?**
 – Kiom granda?  

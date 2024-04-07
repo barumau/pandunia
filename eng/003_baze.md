@@ -211,7 +211,7 @@ To ask a content question, write a normal sentence and replace the word in quest
 – Which man do you love?  
 **kua man love tu?**
 – Which man loves you?  
-**tu love da kua li poli?**
+**tu love da kua li muche?**
 – How much do you love him?
 
 ### Commands

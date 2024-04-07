@@ -156,7 +156,7 @@ and it is known by the audience or is topical within the discourse.
 **da hir es mau. da van yam da der mushu.**
 – This is a cat. It wants to eat that mouse.
 
-**mi ave un mau e un vaf. da vaf es dai. da bi yam poli yam.**
+**mi ave un mau e un vaf. da vaf es dai. da bi yam muche yam.**
 – I have a cat and a dog. The dog is big. It eats a lot of food.
 
 
@@ -219,7 +219,7 @@ Adjectives are questioned with **kua li**.
 – How new?  
 **kua li koste?**
 – How costy?  
-**kua li meni?**
+**kua li muche?**
 – How many?  
 **kua li kam?**
 – How few?  

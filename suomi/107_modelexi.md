@@ -11,9 +11,9 @@ Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Pandun
 – uusi auto  
 **un _suga_ gar**
 – nopea auto  
-**poli _dai_ meza**
+**meni _dai_ meza**
 = isoja pöytiä  
-**poli _gau_ meza**
+**meni _gau_ meza**
 = korkeita pöytiä  
 **un hau jen**
 = hyvä tuoli
@@ -64,7 +64,7 @@ käytetään myös kun määrite määrittää toista määritettä.
 
 **un _dai di_ hau buku**
 – _isosti_ hyvä kirja  
-**poli _bala di_ ai ja jen**
+**meni _bala di_ ai ja jen**
 – _voimakkaasti_ rakastavat ihmiset
 
 
@@ -98,17 +98,17 @@ Asteen määrite muodostaa _yhdysadverbin_ toisen määritteen kanssa.
 Sillä voi määrittää verbiä tai kokonaista lausetta.
 Yhdysadverbi pannaan määrittelemänsä verbin edelle.
 
-**tre poli**
+**vere muche**
 – hyvin paljon  
-**mi _tre poli_ vol loge.**
+**mi _vere muche_ vol loge.**
 – Minä haluan _hyvin paljon_ puhua.  
-**mi vol _tre poli_ loge.**
+**mi vol _vere muche_ loge.**
 – Minä haluan puhua hyvin paljon.
 
 Yhdysadverbin voi myös panna lauseen loppuun,
 jolloin se määrittää lausetta kokonaisuutena.
 
-**mi vol loge _tre poli_.**
+**mi vol loge _vere muche_.**
 – I want to speak very much.  
 **sual tu sona _bas hau_?**
 – Did you sleep well enough?

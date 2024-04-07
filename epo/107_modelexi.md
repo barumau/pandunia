@@ -10,9 +10,9 @@ En pandunio, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
 – nova aŭto 
 **un _suga_ karo**
 – rapida aŭto  
-**poli _dai_ meza**
+**meni _dai_ meza**
 – grandaj tabloj  
-**poli _gau_ meza**
+**meni _gau_ meza**
 – altaj tabloj  
 **un hau jen**
 – bona homo

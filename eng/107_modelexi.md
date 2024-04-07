@@ -27,9 +27,9 @@ In Pandunia, "adjectives" are modifiers that are placed before the noun that the
 – a _new_ car  
 **un _suga_ karo**
 – a _fast_ car  
-**poli _dai_ meza**
+**meni _dai_ meza**
 – _big_ tables  
-**poli _gau_ meza**
+**meni _gau_ meza**
 – high tables  
 **un hau jen**
 – a good person
@@ -103,18 +103,18 @@ A degree word together with a modifier forms a _compound adverb_
 that can modify a verb or a sentence.
 The compound adverb is placed immediately before the verb that it modifies.
 
-**tre poli**
+**vere muche**
 – very much  
-**mi _tre poli_ van loga.**
+**mi _vere muche_ van loga.**
 – I want very much to speak.  
-**mi van _tre poli_ loga.**
+**mi van _vere muche_ loga.**
 – I want to speak very much.
 
 It is also possible to place the compound adverb very last in the sentence,
 and then it modifies the sentence as a whole.
 The meaning is the same like when the compound adverb modifies the main verb.
 
-**mi van loga _tre poli_.**
+**mi van loga _vere muche_.**
 – I want to speak very much.  
 **sual tu sona _bas hau_?**
 – Did you sleep well enough?

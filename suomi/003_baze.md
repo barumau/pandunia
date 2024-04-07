@@ -188,7 +188,7 @@ Hakukysymys muodostetaan kirjoittamalla tavallinen lause, josta korvataan kysytt
 – Sinä rakastat mitä miestä?  
 **ke man ya ame tu?**
 – Mikä mies rakastaa sinua?  
-**tu ame da ke poli?**
+**tu ame da ke meni?**
 – Sinä rakastat häntä miten paljon?
 
 ### Käskeminen

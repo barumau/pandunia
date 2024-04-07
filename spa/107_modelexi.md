@@ -27,9 +27,9 @@ En Pandunia, _adjetivos_ son modificadores que preceden el sustantivo que modifi
 – un carro _nuevo_  
 **un _suga_ karo**
 – un carro _rápido_  
-**poli _dai_ meza**
+**meni _dai_ meza**
 – mesas _grandes_  
-**poli _gau_ meza**
+**meni _gau_ meza**
 – mesas _altas_  
 **un hau jen**
 – una persona _buena_
@@ -41,9 +41,9 @@ a diferencia de español, en que adjetivos cambian para acordar con el sustantiv
 – un hombre bueno  
 **un hau fem**
 – una mujer buena  
-**poli hau man**
+**meni hau man**
 – hombres buenos  
-**poli hau fem**
+**meni hau fem**
 – mujeres buenas
 
 Dos o más modificadores pueden modifican el mismo sustantivo.
@@ -80,7 +80,7 @@ también se usa cuando un modificador modifica un otro.
 
 **un _surpris di_ hau buku**
 – un _sorprendentemente_ buen libro  
-**poli _bala di_ ai ja jen**
+**meni _bala di_ ai ja jen**
 – personas _firmemente_ amorosas
 
 
@@ -114,18 +114,18 @@ Una palabra de grado junta con un modificador crea un _adverbo compuesto_
 que puede modificar un verbo o una oración.
 El adverbo compuesto se pone inmediatamente antes del verbo que modifica.
 
-**tre poli**
+**vere muche**
 – muchísimo
-**mi _tre poli_ vol loge.**
+**mi _vere muche_ vol loge.**
 – Tengo muchas ganas de hablar.  
-**mi vol _tre poli_ loge.**
+**mi vol _vere muche_ loge.**
 – Quiero hablar muchísimo.
 
 En adición es posible poner el adverbo compuesto en el fin de la oración,
 y entonces modifica la oración en conjunto.
 El significado es la misma como cuando el adverbo compuesto modifica el verbo principal.
 
-**mi vol loge _tre poli_.**
+**mi vol loge _vere muche_.**
 – Muchísimo quiero hablar.  
 **sual tu sona _bas hau_?**
 – ¿Sonaste bastante bien?
