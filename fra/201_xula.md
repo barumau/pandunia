@@ -676,7 +676,7 @@ chien
 **du**
 deux  
 **siro**
-zero  
+siro  
 **ama**
 mais
 

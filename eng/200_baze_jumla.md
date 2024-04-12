@@ -144,6 +144,7 @@ You are Sarah.
 The apple is a fruit.
 
 <small>Etymology. **es** is from
+Spanish *es*,
 English *is*,
 German *ist*,
 French *est*.</small>
@@ -253,7 +254,7 @@ Tip: Yes/no questions frequently begin with
 **sual**.
 It is just a regular verb, not a special _question tag_.
 In fact, the previous question is simply abbreviated from
-**mi sual tu es davar**
+**mi sual tu es tiber**
 (I ask, you are doctor?) by dropping out the first word.
 
 **sual tu hau?**
@@ -280,19 +281,24 @@ Are you Thomas.
 **ya, mi es Tomas.**
 Yes, I am Thomas.
 
-**sual da es davar?**
+**sual da es tiber?**
 Is he/she a doctor?
 
-**ya, da es davar.**
+**ya, da es tiber.**
 Yes, he is a doctor.
 
+<small>Etymology. **ya** is from
+German *ja*,
+English *yeah*,
+Malay *ya*,
+Korean 예 (ya).</small>
 
 ### no <small>no, not</small>
 
 **mi no es Sara.**
 I'm not Sarah.
 
-**mi no es davar.**
+**mi no es tiber.**
 I'm not a doctor.
 
 **sual tu hau?**
@@ -418,7 +424,7 @@ They are there.
 
 ### se <small>'s (possessive particle)</small>
 
-**ye es kua?**
+**da es kua?**
 What's this?
 
 **da es mi se telefon.**
@@ -499,9 +505,9 @@ He doesn't have money.
 **mi van ave un neu telefon.**
 I want to have a new telephone.
 
-**sual tu ave ben?**
+**sual tu ave pikin?**
 Do you have children?  
-**mi ave du ben.**
+**mi ave du pikin.**
 I have two children.
 
 **sual ave davar?**
@@ -526,25 +532,25 @@ Do you know that person?
 **mi no nou.**
 I don't know.
 
-**sual yu nou unotre?**
+**sual yu nou unaltre?**
 Do you know each other?
 
-**vi nou unotre de long.**
+**vi nou unaltre of long.**
 We know each other for a long time.
 
 
-### mede <small>help</small>
+### helpe <small>help</small>
 
-**mi yau mede.**
+**mi yau helpe.**
 I need help.
 
-**sual tu ken mede mi?**
+**sual tu ken helpe mi?**
 Can you help me?
 
-**sual mi ken mede tu?**
+**sual mi ken helpe tu?**
 Can I help you?
 
-**mi van mede tu.**
+**mi van helpe tu.**
 I want to help you.
 
 
@@ -552,7 +558,7 @@ I want to help you.
 
 ### yam <small>consume, eat, drink</small>
 
-**sual tu van yam yo?**
+**sual tu van yam som ting?**
 Would you like to eat something?
 
 **da yam un aple.**
@@ -648,7 +654,7 @@ Let's go home.
 
 ### yau <small>need</small>
 
-**mi yau mede.**
+**mi yau helpe.**
 I need help.
 
 **mi yau yam.**
@@ -663,15 +669,15 @@ Are you thirsty?
 
 ## Part 3. Communication
 
-### pardon <small>sorry, pardon</small>
+### perdon <small>sorry, pardon</small>
 
-**pardon! mi no aha.**
+**perdon! mi no aha.**
 Sorry, I don't understand.
 
-**pardon! da es kua?**
+**perdon! da es kua?**
 Excuse me, what's this?
 
-**pardon. tu se nam es kua?**
+**perdon. tu se nam es kua?**
 Excuse me, what's your name?
 
 
@@ -683,7 +689,7 @@ Do you understand me?
 **mi aha.**
 I understand.
 
-**maf. mi no aha tu.**
+**perdon. mi no aha tu.**
 Sorry. I don't understand you.
 
 **mi no bas aha tu.**
@@ -716,7 +722,7 @@ I can speak a little Pandunia.
 **mi no ken english.**
 I can't speak English.
 
-**maf. mi no ken tu se basha.**
+**perdon. mi no ken tu se bashe.**
 Sorry, I can't speak your language.
 
 
@@ -728,7 +734,7 @@ What did you say?
 **mi loga to tu.**
 I talk to you.
 
-**vi loga to unotre.**
+**vi loga to unaltre.**
 We talk to each other.
 
 **von loga**
@@ -779,7 +785,7 @@ I saw him/her yesterday.
 
 ### sema <small>to mean</small>
 
-**ye lexe ya sema kua?**
+**da hir lexe ya sema kua?**
 What does this word mean?
 
 **"mau" ya sema kua?**
@@ -818,7 +824,7 @@ French, Spanish, Portuguese, Russian
 **putong han, nipon, malayu**
 Chinese, Japanese, Malay
 
-**arabi, turki, parsi, urdu, hindi**
+**arabe, turke, parse, urdu, hindi**
 Arabic, Turkish, Farsi, Urdu, Hindi
 
 **suahili, hausa, yoruba, amara**
@@ -853,7 +859,7 @@ Let's go by foot!
 **plis lai!**
 Come here!
 
-**tu lai de kua?**
+**tu lai of kua?**
 Where do you come from?
 
 **mi lai de Dubai.**
@@ -880,7 +886,7 @@ The voyage is very long.
 **hotel a kua?**
 Where is the hotel?
 
-**hotel a vo dau.**
+**hotel a da der dau.**
 The hotel is on that road.
 
 **tu a kua?**
@@ -955,7 +961,7 @@ The man has watched the film.
 **mi did sal tu se doste.**  
 I greeted your friend.
 
-**da man did vize un filme.**  
+**man did vize un filme.**  
 The man watched a film.
 
 **da did es shefe.**  
@@ -986,13 +992,13 @@ He/she will be at home.
 
 ### don <small>give</small>
 
-**plis don som pesa.**
+**plis don pesa.**
 Please give some money.
 
 **plis don da to mi.**
 Please give it to me.
 
-**mi don ye to tu.**
+**mi don da hir to tu.**
 I give this to you.
 
 **mi don buke to di.**
@@ -1031,7 +1037,7 @@ I want to take a car for rent.
 **mi van kira sepe un karo.**
 I want to rent a car.
 
-**da kira don da kamar to safartor.**
+**da kira don kamar to safarer.**
 He/she rents rooms to travelers.
 
 

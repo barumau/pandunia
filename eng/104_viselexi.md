@@ -1,12 +1,20 @@
 
 # 4. Pronouns
 
-Pronouns can substitute nouns and noun phrases.
+Pronouns are words that take the place of nouns and noun phrases in a sentence.
+They keep us from repeating the same words over and over again.
+Here's an example of a sentence without pronouns:  
+*My mother is a teacher but my mother is also a singer and my mother sings beautifully.*  
+It sounds clumsy and repetitive.
+Here's the same sentence with a personal pronoun:  
+*My mother is a teacher but* ***she*** *is also a singer and* ***she*** *sings beautifully.*  
+The latter sentence sounds fluent and smooth.
+
 
 ## Personal pronouns
 
 Personal pronouns refer to people.
-They are used as substitutes for a person's name.
+They are used in place of a person's name or title.
 
 | Singular    | Plural       |
 |:------------|:-------------|
@@ -92,7 +100,8 @@ is used as the reciprocal pronoun.
 ## Demonstrative pronouns
 
 Demonstrative pronouns are used with nouns to make them more specific.
-The demonstrative pronouns in Pandunia are:
+
+Pandunia has two main demonstrative pronouns:
 
 **da**
 this, that  
@@ -105,6 +114,10 @@ As they do not differentiate between near and far, they can be further qualified
 **der**
 (_there_).
 
+**da haus**
+– this or that house  
+**di haus**
+– these or those houses  
 **da hir haus**
 – this house  
 **di hir haus**
@@ -112,14 +125,14 @@ As they do not differentiate between near and far, they can be further qualified
 **da der haus**
 – that house  
 **di der haus**
-– those houses  
+– those houses
 
 The proximal demonstrative
 **da hir**
-points to things that are near the speaker.
+points to things that are close to the speaker in terms of physical distance or relation.
 The distal demonstrative
 **da der**
-points to things that are far from the speaker.
+points to things that are futher away from the speaker in terms of physical distance or relation.
 
 **tu van da der buke, he?**
 – Do you want that book?  

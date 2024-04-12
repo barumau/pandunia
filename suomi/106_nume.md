@@ -5,7 +5,7 @@
 
 | Ykköset      | 10 ja yli      | 20 ja yli        | 30 ja yli          |
 |:-------------|:---------------|:-----------------|:-------------------|
-| 0 zero       | 10 (un) ten    | 20 du ten        | 30 tri ten         |
+| 0 siro       | 10 (un) ten    | 20 du ten        | 30 tri ten         |
 | 1 un         | 11 ten un      | 21 du ten un     | 31 tri ten un      |
 | 2 du         | 12 ten du      | 22 du ten du     | 32 tri ten du      |
 | 3 tri        | 13 ten tri     | 23 du ten tri    | 33 tri ten tri     |
@@ -191,7 +191,7 @@ ilman mitään *yli*- ja *vailla*-rakenteita.
 
 **haur tri**
 – kello kolme  
-**haur tri e zero**
+**haur tri e siro**
 – tasan kello kolme  
 **haur tri e faif**
 – kolme nolla viisi – eli viisi yli kolme  

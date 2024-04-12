@@ -5,7 +5,7 @@
 
 | Ones         | Ten and over   | 20 and over      | 30 and over        |
 |:-------------|:---------------|:-----------------|:-------------------|
-| 0 zero       | 10 (un) ten    | 20 du ten        | 30 tri ten         |
+| 0 siro       | 10 (un) ten    | 20 du ten        | 30 tri ten         |
 | 1 un         | 11 ten un      | 21 du ten un     | 31 tri ten un      |
 | 2 du         | 12 ten du      | 22 du ten du     | 32 tri ten du      |
 | 3 tri        | 13 ten tri     | 23 du ten tri    | 33 tri ten tri     |
@@ -285,7 +285,7 @@ and we never use words like *past* and *to* in Pandunia.
 
 **haur tri**
 – three o'clock  
-**haur tri e zero**
+**haur tri e siro**
 – three o'clock sharp  
 **haur tri e faif**
 – three oh-five – or five past three  

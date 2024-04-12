@@ -31,7 +31,7 @@ La difinaj artikoloj estas singulare **da** kaj plurale **di**.
 ### (6) Nombrovortoj
 
 La kvantaj nombrovortoj estas:  
-0 **zero**, 1 **un**, 2 **due**, 3 **tri**, 4 **for**, 5 **faive**, 6 **sixe**,
+0 **siro**, 1 **un**, 2 **due**, 3 **tri**, 4 **for**, 5 **faive**, 6 **sixe**,
 7 **seven**, 8 **eite**, 9 **nain**, 10 **ten**.  
 Pli grandaj ol dek: 11 **ten un**, 12 **ten du**, 13 **ten tri**, ktp.  
 Dekoj: 20 **du ten**, 30 **tri ten**, 40 **for ten**, ktp.  
