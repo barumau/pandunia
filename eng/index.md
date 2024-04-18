@@ -114,7 +114,7 @@ Time is expressed with auxiliary verbs:
 **bi**
 – ongoing events
 
-**di did ride mi's buke.**
+**di did ride mi se buke.**
 – They read my book.  
 **vi ha ride meni buke.**
 – We have read many books.  
