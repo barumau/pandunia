@@ -18,28 +18,28 @@ plugins:
         lang: fr
 nav:
     - Accueil: 'index.md'
-    - 'Présentation': 001_ration.md
+    - 'Présentation': I01_ration.md
     - 'Grammaire':
-        - 100_baze_kanun.md
-        - 101_dunia_lexi.md
-        - 102_ABC.md
-        - 104_viselexi.md
-        - 105_namlexi.md
-        - 106_nume.md
-        - 107_modelexi.md
-        - 108_karlexi.md
-        - 109_jumlabina.md
-        - 110_lexibina.md
+        - B01_baze_kanun.md
+        - L01_dunia_lexe.md
+        - G01_ABC.md
+        - G07_vise_lexe.md
+        - G04_name.md
+        - G06_nume.md
+        - G05_sifa.md
+        - G08_verbe.md
+        - G11_jumla.md
+        - G12_lexe_bina.md
     - 'Leçons':
-        - 'Phrases courantes': 200_baze_jumla.md
-        - 'Leçons': 201_xula.md
+        - 'Phrases courantes': B03_baze_jumla.md
+        - 'Leçons': K00_kurse.md
     - 'Vocabulaire':
         - 'Pandunia → français': pandunia-fra.md
         - 'Français → pandunia': fra-pandunia.md
         - 'Etymologie': leksaslia.md
         - 'Recherche': tiddly.html
     - 'Appendix':
-        - 'Questions et réponses': 402_sual_e_javabe.md
+        - 'Questions et réponses': I04_FAQ.md
         - 'Traduire ce site': tarja_netoloke.md
 extra:
   social:

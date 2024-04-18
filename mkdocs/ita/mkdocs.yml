@@ -12,18 +12,18 @@ theme:
   font:
     code: Ubuntu mono
 nav:
-    - 'Lingua ausiliaria globale': 001_ration.md
-    - 002_filsofi.md
-    - 003_baze.md
-    - 'Regole basilari': 100_baze_kanun.md
-    - 'Ortografia e pronuncia': 102_ABC.md
-    - 'Classi di parole': 103_lexitipe.md
-    - 'Pronomi': 104_viselexi.md
-    - 'Sostantivi': 105_namlexi.md
-    - 'Numerali': 106_nume.md
-    - 'Modificatori': 107_modelexi.md
-    - 'Verbi': 108_karlexi.md
-    - 'Da dove vengono le parole': 101_dunia_lexi.md
+    - 'Lingua ausiliaria globale': I01_ration.md
+    - I02_filsofia.md
+    - B02_nutshell.md
+    - 'Regole basilari': B01_baze_kanun.md
+    - 'Ortografia e pronuncia': G01_ABC.md
+    - 'Classi di parole': G03_lexe_tipe.md
+    - 'Pronomi': G07_vise_lexe.md
+    - 'Sostantivi': G04_name.md
+    - 'Numerali': G06_nume.md
+    - 'Modificatori': G05_sifa.md
+    - 'Verbi': G08_verbe.md
+    - 'Da dove vengono le parole': L01_dunia_lexe.md
 extra:
   social:
     - icon: fontawesome/brands/reddit

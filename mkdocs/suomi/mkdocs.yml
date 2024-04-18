@@ -21,25 +21,25 @@ nav:
         - 'Maailman yhteyskieli': 001_dunia_basha.md
         - 'Historia': 401_histor.md
     - 'Pandunian perusteet ja rakenne':
-        - 'Perussäännöt': 100_baze_kanun.md
-        - 'Yleismaailmallinen sanasto': 101_dunia_loga.md
-        - 'Ääntäminen': 102_ABC.md
-        - 'Sanaluokat': 103_lexitipe.md
-        - 'Pronominit': 104_viselexi.md
-        - 'Substantiivit': 105_namlexi.md
-        - 'Numeraalit': 106_nume.md
-        - 'Määritteet': 107_modelexi.md
-        - 'Verbit': 108_karlexi.md
-        - 'Lauserakenteet': 109_jumlabina.md
+        - 'Perussäännöt': B01_baze_kanun.md
+        - 'Yleismaailmallinen sanasto': L01_dunia_lexe.md
+        - 'Ääntäminen': G01_ABC.md
+        - 'Sanaluokat': G03_lexe_tipe.md
+        - 'Pronominit': G07_vise_lexe.md
+        - 'Substantiivit': G04_name.md
+        - 'Numeraalit': G06_nume.md
+        - 'Määritteet': G05_sifa.md
+        - 'Verbit': G08_verbe.md
+        - 'Lauserakenteet': G11_jumla.md
         - 'Sanojen johtaminen': 110_lexe_bina.md
     - 'Oppitunteja':
-        - 'Lauseita': 200_baze_jumla.md
-        - 'Kurssi': 201_xula.md
+        - 'Lauseita': B03_baze_jumla.md
+        - 'Kurssi': K00_kurse.md
     - 'Sanasto':
         - 'Pandunia-suomi': pandunia-suomi.md
         - 'Suomi-pandunia': suomi-pandunia.md
         - 'Alkuperäsanasto': leksaslia.md
-    - 'Videoita': filme.md
+    - 'Videoita': I06_I06_filme.md
     - 'UKK': 402_sual_e_javabu.md
 extra:
   social:

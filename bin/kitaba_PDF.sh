@@ -15,18 +15,18 @@ max_dataje_nam() {
 
 fa_dataje_liste() {
     max_dataje_nam $1/000_dake.md
-    max_dataje_nam $1/001_ration.md
+    max_dataje_nam $1/I01_ration.md
     max_dataje_nam $1/100_baze_kanun.md
-    max_dataje_nam $1/102_ABC.md
-    max_dataje_nam $1/103_lexitipe.md
-    max_dataje_nam $1/104_viselexi.md
-    max_dataje_nam $1/105_namlexi.md
-    max_dataje_nam $1/106_nume.md
-    max_dataje_nam $1/107_modelexi.md
-    max_dataje_nam $1/108_karlexi.md
-    max_dataje_nam $1/109_jumlabina.md
-    max_dataje_nam $1/110_lexibina.md
-    max_dataje_nam $1/201_xula.md
+    max_dataje_nam $1/G01_ABC.md
+    max_dataje_nam $1/G03_lexe_tipe.md
+    max_dataje_nam $1/G04_name.md
+    max_dataje_nam $1/G05_sifa.md
+    max_dataje_nam $1/G06_nume.md
+    max_dataje_nam $1/G07_vise_lexe.md
+    max_dataje_nam $1/G08_verbe.md
+    max_dataje_nam $1/G11_jumla.md
+    max_dataje_nam $1/G12_lexe_bina.md
+    max_dataje_nam $1/K00_kurse.md
 }
 
 fa_pan_md() {

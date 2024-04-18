@@ -15,19 +15,19 @@ nav:
     - Główna: 'index.md'
     - 'Info':
         - 'Wprowadzenie': 001_dunia_baxa.md
-        - 'Założenia': 002_filsofi.md
+        - 'Założenia': I02_filsofia.md
     - 'Gramatyka':
-        - 100_baze_kanun.md
-        - 'Dźwięki i litery': 102_ABC.md
-        - 104_viselexi.md
-        - 105_namlexi.md
-        - 106_nume.md
-        - 107_modelexi.md
-        - 109_jumlabina.md
-        - 110_lexibina.md
+        - B01_baze_kanun.md
+        - 'Dźwięki i litery': G01_ABC.md
+        - G07_vise_lexe.md
+        - G04_name.md
+        - G06_nume.md
+        - G05_sifa.md
+        - G11_jumla.md
+        - G12_lexe_bina.md
     - 'Nauka':
-        - 'Rozmówki': 200_baze_jumla.md
-        - 'Kurs': 201_xula.md
+        - 'Rozmówki': B03_baze_jumla.md
+        - 'Kurs': K00_kurse.md
     - 'Słownik':
         - 'Pandunia-polski': pandunia-pol.md
         - 'Polski-pandunia': pol-pandunia.md

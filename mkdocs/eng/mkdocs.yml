@@ -14,33 +14,33 @@ theme:
 extra_css:
   - stile.css
 nav:
-    - 'Introduction': 001_ration.md
+    - 'Introduction': I01_ration.md
     - 'Grammar and Rules':
-        - 'The basic rules': 100_baze_kanun.md
-        - 'World words': 101_dunia_lexi.md
-        - 'Spelling and pronunciation': 102_ABC.md
-        - 'Word classes': 103_lexitipe.md
-        - 'Pronouns': 104_viselexi.md
-        - 'Nouns': 105_namlexi.md
-        - 'Numerals': 106_nume.md
-        - 'Modifiers': 107_modelexi.md
-        - 'Verbs': 108_karlexi.md
-        - 'Sentences': 109_jumlabina.md
-        - 'Word building': 110_lexibina.md
+        - 'The basic rules': B01_baze_kanun.md
+        - 'World words': L01_dunia_lexe.md
+        - 'Spelling and pronunciation': G01_ABC.md
+        - 'Word classes': G03_lexe_tipe.md
+        - 'Pronouns': G07_vise_lexe.md
+        - 'Nouns': G04_name.md
+        - 'Numerals': G06_nume.md
+        - 'Modifiers': G05_sifa.md
+        - 'Verbs': G08_verbe.md
+        - 'Sentences': G11_jumla.md
+        - 'Word building': G12_lexe_bina.md
     - 'Lessons':
-        - 'Basic Phrases': 200_baze_jumla.md
-        - 'Course': 201_xula.md
+        - 'Basic Phrases': B03_baze_jumla.md
+        - 'Course': K00_kurse.md
     - 'Words':
         - 'Pandunia-English': pandunia-eng.md
         - 'English-Pandunia': eng-pandunia.md
         - 'Origins of words': leksaslia.md
         - 'Search': tiddly.html
-    - 'Videos': filme.md
+    - 'Videos': I06_I06_filme.md
     - 'Info':
-        - History: 401_histori.md
-        - 'Questions & Answers': 402_sual_e_javabe.md
-        - 'Adapting foreign words' : 403_loga_hapu.md
-        - 'Translate this site': trabaxa_neteloka.md
+        - History: I03_historia.md
+        - 'Questions & Answers': I04_FAQ.md
+        - 'Adapting foreign words' : L02_lexe_modifikation.md
+        - 'Translate this site': M01_trabashe.md
 extra:
   social:
     - icon: fontawesome/brands/reddit

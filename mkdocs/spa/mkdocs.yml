@@ -15,21 +15,21 @@ theme:
 nav:
     - Inicio: 'index.md'
     - 'Info':
-        - 002_filsofi.md
+        - I02_filsofia.md
     - 'Gramatica':
-        - 100_baze_kanun.md
-        - 102_ABC.md
-        - 103_lexitipe.md
-        - 104_viselexi.md
-        - 105_namlexi.md
-        - 106_nume.md
-        - 107_modelexi.md
-        - 108_karlexi.md
-        - 109_jumlabina.md
-        - 110_lexibina.md
+        - B01_baze_kanun.md
+        - G01_ABC.md
+        - G03_lexe_tipe.md
+        - G07_vise_lexe.md
+        - G04_name.md
+        - G06_nume.md
+        - G05_sifa.md
+        - G08_verbe.md
+        - G11_jumla.md
+        - G12_lexe_bina.md
     - 'Lecciones':
-        - 'Frases básicas': 200_baze_jumla.md
-        - 'Curso': 201_xula.md
+        - 'Frases básicas': B03_baze_jumla.md
+        - 'Curso': K00_kurse.md
     - 'Diccionarios':
         - 'Pandunia-Español': pandunia-spa.md
         - 'Español-Pandunia': spa-pandunia.md

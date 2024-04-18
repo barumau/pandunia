@@ -12,10 +12,10 @@ theme:
   font:
     code: Ubuntu mono
 nav:
-    - 'Ortografía': 102_ABC.md
-    - 'Pronomes': 104_viselexi.md
-    - 'Frases básicas': 200_baze_jumla.md
-    - 'Números': 106_nume.md
+    - 'Ortografía': G01_ABC.md
+    - 'Pronomes': G07_vise_lexe.md
+    - 'Frases básicas': B03_baze_jumla.md
+    - 'Números': G06_nume.md
     - 'Dicionarios':
         - 'Pandunia-Português': pandunia-por.md
         - 'Português-Pandunia': por-pandunia.md

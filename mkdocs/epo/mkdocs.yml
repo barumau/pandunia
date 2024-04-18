@@ -14,17 +14,17 @@ theme:
 nav:
     - 'Ĉefpaĝo': 'index.md'
     - 'Bazaĵoj kaj strukturo de Pandunia':
-        - 'Bazaj reguloj': 100_baze_kanun.md
-        - 'Tutmonda vortaro': 101_dunia_lexi.md
-        - 'Prononco': 102_ABC.md
-        - 'Pronomoj': 104_viselexi.md
-        - 'Substantivoj': 105_namlexi.md
-        - 'Nombrovortoj': 106_nume.md
-        - 'Modifaj vortoj': 107_modelexi.md
-        - 'Verboj': 108_karlexi.md
-        - 'Vortfarado': 110_lexibina.md
+        - 'Bazaj reguloj': B01_baze_kanun.md
+        - 'Tutmonda vortaro': L01_dunia_lexe.md
+        - 'Prononco': G01_ABC.md
+        - 'Pronomoj': G07_vise_lexe.md
+        - 'Substantivoj': G04_name.md
+        - 'Nombrovortoj': G06_nume.md
+        - 'Modifaj vortoj': G05_sifa.md
+        - 'Verboj': G08_verbe.md
+        - 'Vortfarado': G12_lexe_bina.md
     - 'Lecionoj':
-        - 'Utilaj frazoj': 200_baze_jumla.md
+        - 'Utilaj frazoj': B03_baze_jumla.md
     - 'Vortaroj':
         - 'Pandunia-Esperanto': pandunia-epo.md
         - 'Esperanto-Pandunia': epo-pandunia.md
