@@ -13,7 +13,7 @@ Learn Pandunia! Speak it with others! Talk about it with others!
 Write stories or articles, make vizeos, podcasts, music, etc.
 
 You can also help with this website by translating content and correcting mistakes.
-[Read the instructions](trabaxa_neteloka.md)!
+[Read the instructions](M01_trabashe.md)!
 In short, contents of this website are stored in
 [GitHub](https://github.com/barumau/pandunia)
 in raw text format for easy editing.
@@ -48,7 +48,7 @@ It can be written easily in the smiley-style: `(=)` or `(＝)`.
 #### Where do Pandunia words come from?
 
 Pandunia's words come from all parts of the world.
-Read the [article about world words](101_dunia_lexe.md) for more details,
+Read the [article about world words](L01_dunia_lexe.md) for more details,
 and see the
 [Pandunia lexe a dunia karte](http://www.pandunia.info/lexekarte/index.html)
 pages to see where every Pandunia word is from on a world map.

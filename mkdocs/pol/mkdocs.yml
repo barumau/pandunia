@@ -14,7 +14,7 @@ theme:
 nav:
     - Główna: 'index.md'
     - 'Info':
-        - 'Wprowadzenie': 001_dunia_baxa.md
+        - 'Wprowadzenie': I01_ration.md
         - 'Założenia': I02_filsofia.md
     - 'Gramatyka':
         - B01_baze_kanun.md

@@ -27,7 +27,7 @@ nav:
     - 'フレーズ集': B03_baze_jumla.md
     - '対話形式のレッスン': 201_shula.md
     - '辞典': pandunia-jpn.md
-    - 'よくある質問': 402_sual_e_javabu.md
+    - 'よくある質問': I04_FAQ.md
 extra:
   social:
     - icon: fontawesome/brands/reddit

@@ -18,8 +18,8 @@ plugins:
 nav:
     - Kotisivu: 'index.md'
     - 'Tietoa':
-        - 'Maailman yhteyskieli': 001_dunia_basha.md
-        - 'Historia': 401_histor.md
+        - 'Maailman yhteyskieli': I01_ration.md
+        - 'Historia': I03_historia.md
     - 'Pandunian perusteet ja rakenne':
         - 'Perussäännöt': B01_baze_kanun.md
         - 'Yleismaailmallinen sanasto': L01_dunia_lexe.md
@@ -31,7 +31,7 @@ nav:
         - 'Määritteet': G05_sifa.md
         - 'Verbit': G08_verbe.md
         - 'Lauserakenteet': G11_jumla.md
-        - 'Sanojen johtaminen': 110_lexe_bina.md
+        - 'Sanojen johtaminen': G12_lexe_bina.md
     - 'Oppitunteja':
         - 'Lauseita': B03_baze_jumla.md
         - 'Kurssi': K00_kurse.md
@@ -39,8 +39,8 @@ nav:
         - 'Pandunia-suomi': pandunia-suomi.md
         - 'Suomi-pandunia': suomi-pandunia.md
         - 'Alkuperäsanasto': leksaslia.md
-    - 'Videoita': I06_I06_filme.md
-    - 'UKK': 402_sual_e_javabu.md
+    - 'Videoita': I06_filme.md
+    - 'UKK': I04_FAQ.md
 extra:
   social:
     - icon: fontawesome/brands/reddit

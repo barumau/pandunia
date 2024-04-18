@@ -35,13 +35,13 @@ Le sue parole sono state prese da tutti i continenti e da tutte le culture del m
 
 La versione finale del pandunia è stata pubblicata nel 2023.
 
-
+<!--
 ## Come impararlo?
 
-- [Le basi del pandunia](003_baze.md) (una sola breve pagina!)
-- [Lezioni con dialoghi](201_xula.md)
+- [Le basi del pandunia](B02_nutshell.md) (una sola breve pagina!)
+- [Lezioni con dialoghi](K00_kurse.md)
 - [Mini-lezioni con immagini](http://www.pandunia.info/pandunia/mini_xula.html)
-- [Frasario](200_baze_jumla.md)
+- [Frasario](B03_baze_jumla.md)
 - [Grammatica completa del panduria](pan.pdf) in formato PDF
 - [Dizionario](tiddly.html)
 - [Etimologia delle parole](leksaslia.md)
@@ -58,11 +58,12 @@ La versione finale del pandunia è stata pubblicata nel 2023.
 
 ## Articoli
 
-- [Pandunia - la lingua ausiliaria veramente globale](001_ration.md)
-- [Semantica del pandunia](120_semia.md)
-- [Adattare le parole internazionali al pandunia](403_loga_hapu.md)
+- [Pandunia - la lingua ausiliaria veramente globale](I01_ration.md)
+- [Semantica del pandunia](L02_sema.md)
+- [Adattare le parole internazionali al pandunia](L02_lexe_modifikation.md)
 - [Menzioni del pandunia in altre pubblicazionie](makal_tema_pandunia.md)
 - [Perché mi piace il pandunia?](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opinioni di chi lo ha imparato
+-->
 
 ## Unisciti agli altri
 
@@ -80,7 +81,7 @@ Puoi trovare forum sul pandunia in diversi luoghi:
 
 Puoi trovare altri parlanti pandunia sull'app di [Amikumu](https://amikumu.com/)!
 
-Per favore, aiutaci a [tradurre questo sito](trabaxa_neteloka.md) in altre lingue!
+Per favore, aiutaci a [tradurre questo sito](M01_trabashe.md) in altre lingue!
 
 ![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen bashe pandunia!")  
 <small>Immagine di [Freepik](http://www.freepik.com)</small>

@@ -156,7 +156,7 @@ No. → Use the following word selection method.
     - If there's no cross-cultural word, select the one that is known by the greatest number of 1st language speakers.
 4. Select a word form that represents the group well and also fits well into Pandunia.
     - Strip off unnecessary prefixes and suffixes.
-    - Use [the sounds, the spelling and the normal word structure](102_ABC.md) of Pandunia.
+    - Use [the sounds, the spelling and the normal word structure](G01_ABC.md) of Pandunia.
     - Make sure that the new word is not identical or too similar to any previously existing Pandunia word.
 
 Normally a word appears in at least two of the source languages.

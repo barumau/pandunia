@@ -34,7 +34,7 @@ sellaisiin käytännön asioihin kuin hotellihuoneen hankkimiseen, taksin tilaam
 Pandunia on säännöllinen ja yksinkertainen.
 Sen vuoksi sitä on paljon helpompi ja nopeampi oppia kuin englantia ja muita kansallisia kieliä.
 Panduniassa ei ole poikkeuksia eikä monimutkaisia kielioppisääntöjä.
-Pandunia on niin helppoa, että sen kieliopin perusteiden luettelemiseen tarvitaan [vain kymmenen sääntöä](100_baze_kanun.md).
+Pandunia on niin helppoa, että sen kieliopin perusteiden luettelemiseen tarvitaan [vain kymmenen sääntöä](B01_baze_kanun.md).
 Kaikki voivat oppia pandunian perusteet lyhyessä ajassa!
 Se on erinomainen valinta kansainväliseksi vieraaksi kieleksi, koska se parantaisi kansainvälisen viestinnän laatua.
 On parempi puhua hyvää panduniaa kuin huonoa englantia.

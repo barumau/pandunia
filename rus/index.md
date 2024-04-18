@@ -36,7 +36,7 @@ hide:
 
 ## Как учить Пандунийский?
 
-- [Уроки с диалогами](201_xula.md)
+- [Уроки с диалогами](K00_kurse.md)
 - [Мини-уроки с картинками](http://www.pandunia.info/pandunia/mini_xula.html)
 - [Полная грамматика Пандунийского](pan.pdf) в формате PDF
 - [Словарь с возможностью поиска](tiddly.html)
@@ -46,8 +46,8 @@ hide:
 - [Истории в Пандунии](https://www.pandunia.info/kitabe)
 
 <!--
-- [Основы Пандунийского](003_baze.md) (только одна короткая страница!)
-- [Разговорник](200_baze_jumla.md)
+- [Основы Пандунийского](B02_nutshell.md) (только одна короткая страница!)
+- [Разговорник](B03_baze_jumla.md)
 -->
 
 ## Материалы на других сайтах
@@ -59,9 +59,9 @@ hide:
 <!--
 ## Статьи
 
-- [Пандунийский - новый мировой язык](001_ration.md)
-- [О семантике Пандунийского](120_semia.md)
-- [Адаптация международных слов к Пандунийскому](403_loga_hapu.md)
+- [Пандунийский - новый мировой язык](I01_ration.md)
+- [О семантике Пандунийского](L02_sema.md)
+- [Адаптация международных слов к Пандунийскому](L02_lexe_modifikation.md)
 - [Упоминания о Пандунийском в других публикациях](makal_tema_pandunia.md)
 - [Почему мне нравится Пандунийский?](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - мнения учащихся
 -->
@@ -81,7 +81,9 @@ hide:
 
 Вы можете найти других носителей языка Пандунийского в: [Amikumu](https://amikumu.com/) app!
 
-Пожалуйста, помогите [перевести этот сайт](trabasha_neteloka.md) into new languages!
+<!--
+Пожалуйста, помогите [перевести этот сайт](trabasha_neteloka.md)!
+-->
 
 ![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen bashe pandunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>

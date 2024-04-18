@@ -35,10 +35,10 @@ Tiene una gramática más sencilla, formas de palabras más internacionales, y m
 
 ## ¿Cómo aprenderlo?
 
-- [Lecciones con diálogos](201_xula.md)
+- [Lecciones con diálogos](K00_kurse.md)
 - [Tarjetas y pruebas](https://lingopolo.org/pandunia/) en Lingopolo
 - [Mini lecciones con gráficos](http://www.pandunia.info/pandunia/mini_xula.html)
-- [Guía de conversación](200_baze_jumla.md)
+- [Guía de conversación](B03_baze_jumla.md)
 - [Gramática de Pandunia](pan.pdf) como PDF
 - [Dicionario que permite búsquedas](http://www.pandunia.info/pandunia/logia.html)
 - [Orígenes de las palabras(etimología de Pandunia)](leksaslia.md)
