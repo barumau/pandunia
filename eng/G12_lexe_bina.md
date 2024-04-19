@@ -540,9 +540,23 @@ For example *spoke* and *spoken* are individual words but they represent the sam
 → **miteme**
 'mytheme, an archetypal story'
 
+#### -ente ~ -nte
+
+The suffixes **-ente** and **-nte** mean 'one who does the action of the base word'.
+
+**es**
+'to be'
+→ **esente**
+'a being, one who is'  
+**loga**
+'to talk'
+→ **logante**
+'a talking one, one who talks'
+
 #### -er ~ -ter
 
-The suffix *-er* means a doer or agent of the action that is indicated by the base word.
+The suffixes **-er** and **-ter** mean 'a person who is occupied with the action of the base word'.
+It implies often but not always a professional occupation.
 
 **ate**
 'to do, to act'
@@ -598,7 +612,7 @@ In some rare cases this suffix is trimmed into **-ria**.
 → **pizaria**
 'pizzeria, pizza place'
 
-#### -ete
+#### -ete ~ -lete
 
 The suffix *-ete* indicates essentially the same thing as the base word but in a small size.
 
@@ -748,21 +762,6 @@ The form **-tion** is used when the base word ends in a vowel other than *-e*.
 → **rotation**
 'turning, rotation'
 
-#### -ium ~ **-um**
-
-The suffix **-ium** means 'chemical element'.
-
-**kali**
-'base, alkali'
-→ **kalium**
-'kalium'  
-**Kuri**
-→ **kurium**
-'curium, the chemical element named after Marie Curie'  
-**Einstein**
-→ **einsteinium**
-'einsteinium, the chemical element named after Albert Einstein'
-
 #### -iste ~ -tiste
 
 The suffix **-iste** means a person who tends to behave or think in a certain way or an adherent of an ideology or a religion.
@@ -792,6 +791,34 @@ The suffix **-isme** means an ideology, a way of thinking or a way of life.
 'active'
 → **ativisme**
 'activism'
+
+#### -ita ~ -ta
+
+The suffixes **-ita** and **-ta** create abstract nouns that represent a quality or a state.
+
+**nove**
+'new, novel'
+→ **novita**
+'newness, novelty'  
+**un**
+'one'
+**unita**
+'oneness, unity'
+
+#### -ium ~ **-um**
+
+The suffix **-ium** means 'chemical element'.
+
+**kali**
+'base, alkali'
+→ **kalium**
+'kalium'  
+**Kuri**
+→ **kurium**
+'curium, the chemical element named after Marie Curie'  
+**Einstein**
+→ **einsteinium**
+'einsteinium, the chemical element named after Albert Einstein'
 
 #### -ive ~ -tive
 
