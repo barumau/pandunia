@@ -39,81 +39,34 @@ can function as a verb (_to write_), a noun (_a writing_) and adjective (_writte
 ## Compound Words
 
 A compound word is a word that is formed of two or more simpler words in order to yield a new meaning.
+The last word is the most meaningful part in the compound
+and the preceding words only modify its meaning.
 New compound words can be created freely and easily in Pandunia.
 There are two types of compound words in Pandunia, open compounds and closed compounds.
 
-Open compounds are written separately and there is a space between the words.
+An open compound is simply a series of base words put next to each other.
+They are written separately and there is a space between each words.
 For example, **tomato** 'tomato' + **sos** 'sauce' = **tomato sos** 'tomato sauce',
-Typically open compounds are made of complete words.
 
 Closed compounds are written together and there is no space between the words.
 For example, **poste** 'mail' + **kan** 'place for working' = **postekan** 'post office'.
 Typically closed compounds include affixes.
-Some affixes are word-like units that can't stand alone but that can only appear as part of another word.
-Closed compounds may involve some changes in the base word and affixes.
-The final **-e** of the base word disappears if it is followed by a suffix that starts with a vowel.
-For example **kriste** 'Christ' + **isme** 'creed' = **kristisme** 'Christianity'.
-Vowels other than **e** are never deleted.
-For example, the final **a** of the word **lama** remains in the following compound:
-**lama** 'lama' + **isme** 'creed' = **lamaisme** 'lamaism'.
-It is also common that certain suffixes, like **-ike** and **-ive**, attach to the base word via intermediate **-t-**.
-For example
-**konserva**
-'to conserve' +
-**-ive** =
-**konservative**
-(kon-serva-t-ive)
-'conservative'.
-Such suffixes are indicated in the list below.
+Affixes are word-like units that have special properties.
+Some of them are not stand-alone words,
+they can only appear as part of another word.
 
 Pandunia's system of word derivation is designed to produce compound words
 that look and/or sound so close to international words that they are easy to recognize.
 They are not meant to be identical with words in English or in any other language,
-because international words tend to be written and pronounced in more or less different ways from language to language.
-In fact, compound words are built in a different way in Pandunia than in European languages,
+because international words tend to be written and pronounced in more or less different ways from language to language, anyway.
+In fact, many compound words are built in a different way in Pandunia than in European languages,
 though the results usually look mostly similar.
-
 
 
 ## Affixes
 
 Affixes, i.e. prefixes and suffixes, are very important and give great flexibility to the language.
-They are joined or merged to the base word.
-
-For example, the word **Geia** 'planet Earth' consists of the base word
-**gee**
-'earth, ground' and the collective noun suffix **-ia**.
-
-           gee       'earth, ground'
-       +   -ia       'collective noun suffix'
-    _____________
-    =      Geia      'planet Earth, Gaia'
-
-Two or more roots can be put together to make _compound words_.
-The last root is the most meaningful part in the compound
-and the preceding roots only modify its meaning.
-
-           pan       'all'
-       +  deme       'people, public'
-       +  -ike       'adjectival suffix'
-    _____________
-    = pandemike      'pandemic'
-
-The connecting vowel **-o-** is inserted between the elements in Greek compounds.
-
-           deme      'people, public'
-       +    -o-      'connecting vowel for Greek compounds'
-       +  krate      'rule, govern'
-       +    -ia      'collective noun suffix'
-    _____________
-    = demokratia     'democracy'
-
-          terme      'temperature'
-       +    -o-      'connecting vowel for Greek compounds'
-       +  metre      'measure'
-       +    -er      'agent or apparatus'
-    ____________
-    = termometrer     'thermometer'
+They are joined together with the base word.
 
 Pandunia has adopted international prefixes,
 including **a-**, **de-**, **pro-**, **re-** and **su-** among others,
@@ -146,8 +99,56 @@ in order to re-create many international words as native Pandunia words.
 
 Note that these internatioal prefixes are used only in compound words that really mean the sum their parts.
 Fossilized words whose meanings are no longer the sum of their parts,
-like *evolution* (originally 'rolling out') and *revolution* (originally 'rolling back'),
+like *evolution* (originally 'rolling out'),
 are not compound words in Pandunia.
+
+Many suffixes have two forms, one that begins with a vowel and one that begins with a consonant.
+The vowel-initial form is used when the base word ends in a consonant or in the vowel **-e**,
+which disappears before the suffix.
+Below we add the vowel-initial suffix **-ike** to a base word that ends in **-e**.
+
+            fize       'body'
+       +    -ike       'adjectival suffix'
+    _____________
+    =     fizike       'bodily, physical'
+
+The consonant-intial form is used when the base word ends in any other vowel except **-e**.
+Below we add the consonant-initial suffix **-tike** to a base word that ends in another vowel.
+
+            tema       'theme, topic'
+       +   -tike       'adjectival suffix'
+    _____________
+    =   tematike       'thematic, topical'
+
+The vowel-initial suffix
+**-ike**
+and the consonant-initial suffix
+**-tike**
+are alternative forms of one and the same underlying suffix,
+**(t)ike**,
+which has an optional initial sound.
+The surface form of the suffix depends on the properties of the base word.
+
+Another suffix with two forms is **(o)krate**.
+Its vowel-initial form is **-okrate**
+and its consonant initial form is **-krate**.
+So this time the optional sound is a vowel (and not a consonant as in **(t)ike**).
+
+Below we add this suffix to a base word that ends in **-e**.
+
+            deme      'people, public'
+      + (o)krate      'rule, govern'
+      +      -ia      'collective noun suffix'
+    ______________
+    =  demokratia     'democracy, rule by the public'
+
+Next we add the suffix to a base word that ends in another vowel.
+
+           media      'the media'
+      + (o)krate      'rule, govern'
+      +      -ia      'collective noun suffix'
+    ______________
+    = mediakratia     'mediacracy, rule by the media'
 
 
 ### Prefixes
@@ -855,6 +856,36 @@ The suffix **-ize** means to furnish or equip with the thing indicated by the ba
 → **makinize**
 'to mechanize, to equip with machinery'
 
+#### -krate ~ okrate
+
+The suffix **(o)krate** means 'rule, govern'.
+
+**deme**
+'people, public'
+→ **demokratia**
+'democracy, rule by the people'  
+**tekne**
+'technology'
+→ **teknokratia**
+'technocracy, rule by the technology'  
+**media**
+'the (mass) media'
+→ **mediakratia**
+'mediacracy, rule by the media'
+
+#### -metre ~ ometre
+
+The suffix **(o)metre** means 'measurement'.
+
+**terme**
+'temperature'
+→ **termometria**
+'temperature measurement, thermometry'  
+**sim-**
+'same'
+→ **simmetria**
+'equal measurements, symmetry'
+
 #### -one
 
 The suffix **-one** indicates great size.
@@ -877,18 +908,23 @@ The suffix or **-or** means an apparatus, device or machine for doing the work t
 → **fotografor**
 'photograph apparatus, camera'
 
-#### -ule
+#### -ul ~ -kul
 
-The suffix **-ule** indicates small size.
+The suffix **-ule** indicates a thing in small size.
 
 **kume**
 'mound, hill'
-→ **kumule**
+→ **kumul**
 'small hill, hillock, heap, pile'  
 **node**
 'knot'
-→ **nodule**
-'nodule, small lump'
+→ **nodul**
+'nodule, small lump'  
+**mira**
+'stare in awe'
+→ **mirakul**
+'wonder, miracle'
+
 
 #### -ure ~ -ture
 
