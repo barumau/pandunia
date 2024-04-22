@@ -700,7 +700,7 @@ is more than one correct answer.
 cup, glass, mug  
 **hali**
 empty  
-**ha**
+**have**
 to have  
 **mau**
 cat  

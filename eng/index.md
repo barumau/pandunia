@@ -109,16 +109,16 @@ Time is expressed with auxiliary verbs:
 – past events  
 **vil**
 – future events  
-**ha**
+**haf**
 – past events that are still relevant  
 **bi**
 – ongoing events
 
-**di did ride mi se buke.**
+**di did lese mi se buke.**
 – They read my book.  
-**vi ha ride meni buke.**
+**vi haf lese meni buke.**
 – We have read many books.  
-**mi bi ride un buke.**
+**mi bi lese un buke.**
 – I am reading one book.  
 **yu vil tolke Pandunia.**
 – You will talk Pandunia.

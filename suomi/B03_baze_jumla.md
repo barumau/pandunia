@@ -451,20 +451,20 @@ englannin *name*.</small>
 
 
 
-### ha <small>olla, omistaa</small>
+### haf <small>olla, omistaa</small>
 
-**mi ha un hau dom.**
+**mi haf un hau dom.**
 Minulla on hyvä talo.
 
-**da no ha pesa.**
+**da no haf pesa.**
 Hänellä ei ole rahaa.
 
-**mi vol ha un neu telefon.**
+**mi vol haf un neu telefon.**
 Minä haluan saada uuden puhelimen.
 
-**sual tu ha yo ben?**
+**sual tu haf yo ben?**
 Onko sinulla lapsia?
-**mi ha du ben.**
+**mi haf du ben.**
 Minulla on kaksi lasta.
 
 

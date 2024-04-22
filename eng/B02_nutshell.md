@@ -1,3 +1,4 @@
+
 # The basics of Pandunia
 
 Pandunia is a constructed language that has a minimalistic grammar and a globalistic vocabulary.
@@ -7,7 +8,7 @@ Pandunia is a constructed language that has a minimalistic grammar and a globali
 Pandunia uses a systematic spelling where
 each letter represents one spoken sound.
 
-> A B Ch D E F G H I J K L M N O P R S Sh T U V X Y Z
+> A B CH D E F G H I J K L M N O P R S SH T U V X Y Z
 
 The vowels **a, e, i, o, u** are pronounced as in "are there three or two".
 
@@ -51,35 +52,38 @@ The same word, without any change in form, can serve as a noun, adjective or ver
 
 ### Basic sentence structures
 
-The particle **ya** 'yes' may separate the subject and the verb
-when the subject is a noun.
-
-**mau ya yam.**
-– The cat eats.  
-**jen ya sona.**
-– The person sleeps.
-
-If the subject is a personal pronoun, the **ya** is left out.
-
-**mi yam.**
-– I eat.  
-**tu sona.**
-– You sleep.  
-**da sona.**
-– He/she sleeps.
-
 The basic word order is subject–verb–object
 – the same as in English!
 
 **mi love tu.**
 – I love you.
 
-When the direct object is a noun, it is marked apart from the verb by a demonstrative pronoun, numeral or another determiner.
+Grammar words help to distinguish the subject, verb and object.
+Subject and object are noun phrases and they frequently begin with a grammar word,
+such as a demonstrative pronoun, numeral or another determiner.
+The verb is a verb phrase and it frequently begins with a grammar word,
+such as an affirmative or negative particle, an auxiliary verb or a marker of tense, aspect or mood.
 
-**mi yam un pai.**
-– I eat a pie.  
-**tu yam da pai.**
-– You eat this pie.
+    Example 1. Structurally unclear sentence.
+    mau yam fish.
+    cat eat fish
+    'The cat eats fish.' (probable interpretation of the meaning)
+    
+    Example 2. Structurally clear sentence with the affirmation of the verb.
+    mau ya  yam fish.
+    cat yes eat fish
+    'The cat does eat fish.'
+
+    Example 3. Structurally clear sentence with the negation of the verb.
+    mau ya  yam fish.
+    cat no  eat fish
+    'The cat doesn't eat fish.'
+
+    Example 4. A complex but structurally clear sentence.
+    mi se frende  haf    yam un  pai.
+    me 's friend  ASPECT eat one pie
+    'My friend has eaten a pie.'
+
 
 ### Negation
 
@@ -87,7 +91,7 @@ To negate a word, add **no** before it.
 
 **mi no sona.**
 – I don't sleep.  
-**tu yam no jen.**
+**tu yam no von.**
 – You eat no-one.
 
 ### To be
@@ -97,9 +101,9 @@ The verb
 means 'to be'.
 It can be left out in very simple sentences.
 
-**mi es jen.**
+**mi es home.**
 – I am a person.  
-**mi – jen.**
+**mi – home.**
 – I'm a person.
 
 It can't be left out when it is part of a serial verb.
@@ -113,12 +117,12 @@ It can't be left out when it is part of a serial verb.
 
 Pandunia words can be ambiguous because they often have more meanings compared to English.
 
-**da love mau.**
+**da ya love mau.**
 – He loves cats. / She loved a cat. / He/she will love the cat.
 
 But actually the meaning is clear in the real context:
 
-**pre tri nen, mi have du mau e un vaf. mi have mas un fem ben. da love mau!**
+**pre tri nen, mi have du mau e un vaf. mi have plus un fem ben. da ya love mau!**
 – Three years ago, I had two cats and a dog. I also had a daughter. _She loved the cats!_
 
 ### Time
@@ -127,7 +131,7 @@ Tenses and aspects are optionally expressed with the help of adverbs and auxilia
 like the aspect auxiliaries
 **bi**
 (be in the process of), and
-**ha**
+**haf**
 (have completed),
 and the tense auxiliaries
 **did**
@@ -137,7 +141,7 @@ and the tense auxiliaries
 
 **mi bi love tu.**
 – I am loving you.  
-**mi ha love tu.**
+**mi haf love tu.**
 – I have loved you.  
 **mi did love tu.**
 – I loved you.  
@@ -151,7 +155,7 @@ The passive voice is formed with the help of the helping verb
 
 **tu be love.**
 – You are loved.  
-**mi be love de tu.**
+**mi be love of tu.**
 – I am loved by you.
 
 ### Modifying other words
@@ -173,23 +177,20 @@ The adverb can be tagged with
 – You seemingly love him/her.
 
 Modifiers are compared with
-**mas**
+**mor**
 'more, -er',
-**masim**
-'most, -est',
-**min**
-'less',
-**minim**
-'least' and
-**sim** 'equally, as'.
+**les**
+'less', and
+**sim**
+'equally, as'.
 The point of comparison is introduced with
-**ka**
+**dan**
 'than, as'.
 
-**tu es mas sen ka mi.**
-– You are older than me.  
-**tu es masim sen.**
-– You are the oldest.
+**tu es mor yun dan mi.**
+– You are younger than me.  
+**tu es mor yun dan hol.**
+– You are the youngest of all.
 
 ### Questions
 
@@ -209,7 +210,7 @@ To ask a content question, write a normal sentence and replace the word in quest
 – Who do you love?  
 **tu love kua man?**
 – Which man do you love?  
-**kua man love tu?**
+**kua man ya love tu?**
 – Which man loves you?  
 **tu love da kua li muche?**
 – How much do you love him?
@@ -219,7 +220,7 @@ To ask a content question, write a normal sentence and replace the word in quest
 To state a command, leave out the subject and start the sentence with the verb.
 
 **yam da pai!**
-– Eat this pie!  
+– Eat that pie!  
 **vize da mau!**
 – Look at that cat!
 

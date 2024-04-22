@@ -17,7 +17,7 @@ Instead, the word class is determined by the word's place in the sentence.
 
 For example, the word **hali** can function equally as an adjective (_blank_ or _void_), noun (_a blank_) and verb (_to make blank_ or _to get blank_).
 
-**tu ave hali papir, he?**
+**tu have hali papir, he?**
 – Do you have some blank paper?  
 **don mi un hali!**
 – Give me a blank!  
@@ -886,6 +886,19 @@ The suffix **(o)metre** means 'measurement'.
 → **simmetria**
 'equal measurements, symmetry'
 
+#### -nome ~ onome
+
+The suffix **(o)nome** means 'arrangement, management'.
+
+**astre**
+'celestial body'
+→ **astronomia**
+'astronomy'  
+**agre**
+'farming'
+→ **agronomia**
+agronomy
+
 #### -one
 
 The suffix **-one** indicates great size.
@@ -910,29 +923,28 @@ The suffix or **-or** means an apparatus, device or machine for doing the work t
 
 #### -ul ~ -kul
 
-The suffix **-ule** indicates a thing in small size.
+The suffixes **-ul** and **-kul** forms a diminutive of the base word.
 
 **kume**
 'mound, hill'
 → **kumul**
 'small hill, hillock, heap, pile'  
-**node**
-'knot'
-→ **nodul**
-'nodule, small lump'  
+**bande**
+'band, group of things tied together'
+→ **bandul**
+'bundle'  
 **mira**
 'stare in awe'
 → **mirakul**
 'wonder, miracle'
 
-
 #### -ure ~ -ture
 
-The suffix **-ure** means something that is the result or product of the action that is indicated by the base word.
+The suffixes **-ur** and **-tur** mean something that is the result or product of the action that is indicated by the base word.
 
 **kulte**
 'cultivate (a way of life)'
-→ **kulture**
+→ **kultur**
 'culture'  
 **mixe**
 'mix'

@@ -599,13 +599,13 @@ Siis eri asiat tulevat kielletyksi, kun kieltosanan paikka lauseessa muuttuu.
 Kielletty sana voi olla mitä tahansa tyyppiä: verbi, pronomini,
 substantiivi, adjektiivi tai jopa lukusana.
 
-**da no ha mau.**
+**da no haf mau.**
 = Hän ei omista kissaa.  
-**da ha no mau, ama vaf.**
+**da haf no mau, ama vaf.**
 = Hän ei omista kissaa vaan koiran.  
-**no da, ama mi ha mau.**
+**no da, ama mi haf mau.**
 = Ei hän vaan minä omistan kissan.  
-**mi ha no un, ama du mau.**
+**mi haf no un, ama du mau.**
 = Minula ei ole yhtä vaan kaksi kissaa.
 
 
@@ -646,9 +646,9 @@ mutta, vaan
 1. da no saf kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da no ha vaf e mau. / da ha no vaf e no mau.
+4. da no haf vaf e mau. / da haf no vaf e no mau.
 5. shefe yam cha ama no kafe.
-6. mama ha no vaf ama du mau.
+6. mama haf no vaf ama du mau.
 
 
 --------------------------------------------------------------------------------
@@ -793,11 +793,11 @@ Riittää, kun sanoo yhden kerran, että kaikki se tapahtui aamulla.
 Siis ajan ilmaus mainitaan vain kerran alussa.
 Seuraava ajan ilmaus tarvitaan vasta sitten, kun siirrytään puhumaan toisesta ajankohdasta.
 
-**mi pas ha un mau.**
+**mi pas haf un mau.**
 = Minä omistin ennen kissan.  
 **da es hau mau.**
 = Se _oli_ hyvä kissa.  
-**mi ha un vaf a zai.**
+**mi haf un vaf a zai.**
 = Minulla on koira nyt.
 
 Mikä tahansa ajan ilmaisu kelpaa aikamuodon asettamiseksi. Silloin ei
@@ -840,7 +840,7 @@ maito
 ### Harjoitusten vastaukset
 
 1. mi su shefe festa a sha.
-2. mi ha du vaf a pas.
+2. mi haf du vaf a pas.
 3. tu yam supe a zai.
 4. da saf kamar a preden.
 5. mau yam milke a posden.

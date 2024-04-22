@@ -494,28 +494,28 @@ German *Name*,
 English *name*.</small>
 
 
-### ave <small>have</small>
+### have <small>have</small>
 
-**mi ave un hau haus.**
+**mi have un hau haus.**
 I have a good house.
 
-**da no ave pesa.**
+**da no have pesa.**
 He doesn't have money.
 
-**mi van ave un neu telefon.**
+**mi van have un neu telefon.**
 I want to have a new telephone.
 
-**sual tu ave pikin?**
+**sual tu have pikin?**
 Do you have children?  
-**mi ave du pikin.**
+**mi have du pikin.**
 I have two children.
 
-**sual ave davar?**
+**sual have davar?**
 Is there a doctor?  
 **ya. da es davar.**
 Yes. He or she is a doctor.
 
-**sual ave vin?**
+**sual have vin?**
 Do you have wine?  
 **ya. baki e rubi.**
 Yes, white and red.
@@ -947,12 +947,12 @@ I am greeting your friend.
 The man is watching a film.
 
 
-### ha <small>already, completed</small>
+### haf <small>already, completed</small>
 
-**mi ha sal tu se doste.**  
+**mi haf sal tu se doste.**  
 I have greeted your friend.
 
-**da man ha vize dafilme.**  
+**da man haf vize dafilme.**  
 The man has watched the film.
 
 

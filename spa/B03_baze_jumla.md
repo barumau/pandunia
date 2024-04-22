@@ -429,20 +429,20 @@ alemán *Name*,
 inglés *name*.</small>
 
 
-### ha <small>tener</small>
+### haf <small>tener</small>
 
-**mi ha un hau dom.**
+**mi haf un hau dom.**
 Tengo una buena casa.
 
-**da no ha pesa.**
+**da no haf pesa.**
 Él/ella no tiene dinero.
 
-**mi vol ha un neu telefon.**
+**mi vol haf un neu telefon.**
 Yo quiero tener un teléfono nuevo.
 
-**sual tu ha yo ben?**
+**sual tu haf yo ben?**
 ¿Tienes niños?  
-**mi ha du ben.**
+**mi haf du ben.**
 Tengo dos niños.
 
 

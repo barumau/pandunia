@@ -1,3 +1,4 @@
+
 # Bazaĵoj de Pandunia rapide
 
 Pandunia estas konstruita lingvo, kiu havas minimala gramatiko kaj tutmonda vortaro.
@@ -6,6 +7,8 @@ Pandunia estas konstruita lingvo, kiu havas minimala gramatiko kaj tutmonda vort
 
 Pandunia havas sistema ortografio.
 Ĉiu litero aŭ literkombino korespondas al unu sono.
+
+> A B CH D E F G H I J K L M N O P R S SH T U V X Y Z
 
 La vokaloj **a, e, i, o, u** estas prononcita same kiel en Esperanto.
 
@@ -69,12 +72,32 @@ La normala vortordo estas subjekto–verbo–objekto.
 **mi love tu.**
 – Mi amas vin.
 
-Kiam la objekto estas substantivo, ĝi estas markita per montranta pronomo pronoun, nombrovorto aŭ alia vorteto.
+Gramatikaj vortoj helpas distingi subjekton, verbon kaj objekton.
+Subjekto kaj objekto estas substantivaj frazoj kaj ili ofte komenciĝas per iu gramatika vorto,
+kiel montranta pronomo aŭ numeralo.
+Verbo estas verba frazo kaj ĝi ofte komenciĝas per iu gramatika vorto,
+kiel jesa aŭ nea vorteto, helpanta verbo aŭ markilo de tempo, aspekto aŭ modo.
 
-**mi yam un pai.**
-– Mi manĝas torton.  
-**tu yam da pai.**
-– Vi manĝas tiun torton.
+    Ekzemplo 1. Strukture neklara frazo.
+    mau  yam   fish.
+    kato manĝi fiŝo
+    'Kato manĝas fiŝon.' (verŝajna interpreto)
+    
+    Ekzemplo 2. Strukture klara frazo dank'al jesa vorto.
+    mau  ya  yam   fish.
+    kato jes manĝi fiŝo
+    'Kato ja manĝas fiŝon.'
+
+    Ekzemplo 3. Strukture klara frazo dank'al nea vorto.
+    mau  ya  yam   fish.
+    kato ne  manĝi fiŝo
+    'Kato ne manĝas fiŝon.'
+
+    Ekzemplo 4. Komplika sed strukture klara frazo.
+    mi se     frende  haf      yam   un  pai.
+    mi POSEDO amiko   ASPEKTO  manĝi unu torto
+    'Mia amikos estas manĝinta torton.'
+
 
 ### Neado
 
@@ -82,7 +105,7 @@ Aldoni **no** antaŭ la neita vorto.
 
 **mi no sona.**
 – Mi ne dormas.  
-**tu yam no jen.**
+**tu yam no von.**
 – Vi manĝas neniun.
 
 ### Esti
@@ -90,42 +113,47 @@ Aldoni **no** antaŭ la neita vorto.
 La verbo
 **es**
 signifas 'esti'.
-Oni povas forĵeti ĝin de tre simplaj frazoj.
+Oni povas forĵeti ĝin el tre simplaj frazoj.
 
-**mi es jen.**
+**mi es home.**
 – Mi homo.  
-**mi – jen.**
+**mi – home.**
 – Mi estas homo.  
+
+Oni ne povas forĵeti ĝin, kiam ĝi apartenas en verboserio.
+
 **mi van es mau.**
-– Mi volas esti kato.
+– Mi volas esti kato.  
+**mi van mau!**
+– Mi volas katon!
 
 ### Multeuzeblaj vortoj
 
 La vortoj de pandunia ofte havas pli vastan sencon ol la korespondaj esperantaj vortoj.
 
-**da love mau.**
+**da ya love mau.**
 – Li amas katojn. / Ŝi amis katon. / Ĝi amos la katon.
 
 Sed la kunteksto normale klarigas la precizan signifon:
 
-**pre tri nen, mi have du mau e un vaf. mi have mas un fem ben. da love mau!**
+**pre tri nen, mi have du mau e un vaf. mi have plus un fem ben. da ya love mau!**
 – Antaū tri jaroj mi havis du katojn kaj unu hundon. Mi ankaū havis filinon. _Ŝi amis la katojn!_
 
 ### Tempo
 
 Tensoj kaj aspektoj estas esprimita per adverboj kaj helpantaj verboj, kiel
-**nau**
-(nune),
+**bi**
+(esti -anta),
+**haf**
+(esti -inta),
 **did**
-(pasinte),
-**le**
-(jam antaŭe) kaj
+(pasinte) kaj
 **vil**
 (estonte).
 
 **mi bi love tu.**
 – Mi estas amanta vin.  
-**mi ha love tu.**
+**mi haf love tu.**
 – Mi estas aminta vin.  
 **mi did love tu.**
 – Mi amis vin.  
@@ -139,7 +167,7 @@ La pasivo estas farita uzante la helpantan verbon
 
 **tu be love.**
 – Vi estas amita.  
-**mi be love de tu.**
+**mi be love of tu.**
 – Mi estas amita de vi.
 
 ### Modifaj vortoj
@@ -161,24 +189,20 @@ La adverboj povas esti markita de vorteto
 – Vi vidable amas lin aŭ ŝin.
 
 Por kompari modifvortojn, uzu la vortetoj
-**mas**
+**mor**
 'pli',
-**masim**
-'plej',
-**min**
-'malpli',
-**minim**
-'malplej' kaj
+**les**
+'malpli', kaj
 **sim**
 'egale'.
 La celo de komparo estas markita per
-**ka**
+**dan**
 'kiel'.
 
-**tu es mas sen ka mi.**
-– Vi estas pli maljuna ol mi.  
-**tu es masim sen.**
-– Vi estas la plej maljuna.
+**tu es mor yun dan mi.**
+– Vi estas pli juna ol mi.  
+**tu es mor yun dan hol.**
+– Vi estas la plej juna de ĉiuj.
 
 ### Demandoj
 
@@ -208,7 +232,7 @@ Por demandi _ki_-demandon skribu la normala frazo kaj anstataŭigu la demanditan
 Por diri ordonon forĵetu la subjekto kaj komencigi la frazon per la verbo.
 
 **yam da pai!**
-– Manĝu ĉi tiun torton!  
+– Manĝu tiun torton!  
 **vize da mau!**
 – Vidu tiun katon!
 

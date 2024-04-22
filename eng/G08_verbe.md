@@ -66,7 +66,7 @@ with a combination of two tense markers.
 
 Aspect expresses how an action or event extends over time.
 There are two aspect markers in Pandunia,
-**bi** and **ha**.
+**bi** and **haf**.
 
 The marker **bi** indicates that the action or event is *on-going* or *in progress*
 at the time, which the speaker is talking about.
@@ -81,17 +81,17 @@ The time can be indicated with a tense marker.
 **man** ***vil bi*** **yam ban.**
 – The man will be eating bread.
 
-The marker **ha** indicates that the action or event is completed
+The marker **haf** indicates that the action or event is completed
 and its results still has an effect at the time, which the speaker is talking about.
 The time can be indicated with a tense markers.
 
-**man** ***ha*** **yam ban.**
+**man** ***haf*** **yam ban.**
 – The man *had*, *has* or *will have* eaten bread.  
-**man** ***did ha*** **yam ban.**
+**man** ***did haf*** **yam ban.**
 – The man had eaten bread.  
-**man** ***nau ha*** **yam ban.**
+**man** ***nau haf*** **yam ban.**
 – The man has eaten bread.  
-**man** ***vil ha*** **yam ban.**
+**man** ***vil haf*** **yam ban.**
 – The man will have eaten bread.
 
 

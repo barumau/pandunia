@@ -85,7 +85,7 @@ Auxiliary verbs indicate time.
 
 - **bi**
   indicates an ongoing event.
-- **ha**
+- **haf**
   indicates a completed event, which has an effect on the present situation.
 - **did**
   indicates a past event.

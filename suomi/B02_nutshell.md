@@ -108,7 +108,7 @@ Pandunian ovat monikäyttöisiä, ja sen vuoksi ne voivat joskus vaikuttaa epäs
 
 Virkkeen asiayhteys selkeyttää sen merkityksen:
 
-**pre tri nen, mi ha du mau i un vaf. mi max ha un fem ben. da ame mau!**
+**pre tri nen, mi haf du mau i un vaf. mi max haf un fem ben. da ame mau!**
 – Kolme vuotta sitten minulla oli kaksi kissaa ja koira. Minulla oli myös tytär. Hän rakasti niitä kissoja!
 
 ### Aika

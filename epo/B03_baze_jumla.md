@@ -890,12 +890,12 @@ Mi nune salutas vian amikon.
 La viro estas vidanta la virinon.
 
 
-### ha <small>esti -inta</small>
+### haf <small>esti -inta</small>
 
-**mi ha sal tu su doste.**  
+**mi haf sal tu su doste.**  
 Mi estas salutinta vian amikon.
 
-**da man ha vize da filme.**  
+**da man haf vize da filme.**  
 La viro estas vidinta la filmon.
 
 

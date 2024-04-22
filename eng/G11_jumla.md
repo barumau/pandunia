@@ -866,7 +866,7 @@ In Pandunia they are typically introduced with the conjunction
 
 **mi nou ki tu es doste.**
 – I know that you are a friend.  
-**di fikre ki vi ha chute.**
+**di fikre ki vi haf chute.**
 – They think that we have left.
 
 A content clause can be placed before or after the clause that talks about it.
@@ -876,7 +876,7 @@ points to the following content clause and
 **da**
 points to the previous one.
 
-**vo es bari, ki mi no ha vize di.**
+**vo es bari, ki mi no haf vize di.**
 – _It_ is important _that I haven't seen them_.  
 **ki pan jen be sana ka par, da es klar.**
 – _That all people are created as equals_; _it_ is clear.
@@ -892,7 +892,7 @@ can be combined to the prepositions in order to construct conjunctions of cause 
 
 **mi dugu ye buke _to ki_ mi trapas da teste.**
 – I read this book so that I will pass the test.  
-**mi ha trapas da teste _de ki_ mi dugu da buke.**
+**mi haf trapas da teste _de ki_ mi dugu da buke.**
 – I have passed the test because I read the book.
 
 
@@ -1198,7 +1198,7 @@ or indicates agreement.
 The speaker is absolutely sure of what they are saying.
 It can be translated as *indeed* or *truly*.
 
-**mi ha vize tu ya.**
+**mi haf vize tu ya.**
 – I truly saw you.  
 **da ver, ya.**
 – It is true indeed.  

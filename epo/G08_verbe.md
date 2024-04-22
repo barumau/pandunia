@@ -55,7 +55,7 @@ Oni povas ankaux esprimi estontecon en pasinteco.
 
 Aspekto esprimas la manieron, kiel oni prezentas procezon, ĉu kun limoj, ĉu sen limoj.
 Estas du aspektaj markiloj en Pandunia,
-**bi** kaj **ha**.
+**bi** kaj **haf**.
 
 Oni povas uzi aspektan kaj tensan markilojn kune.
 
@@ -70,15 +70,15 @@ La markilo **bi** indikas, ke la procezo daŭras ankoraŭ.
 **man** ***vil bi*** **yam ban.**
 – Viro estos manĝanta panon.
 
-La markilo **ha** indikas, ke la ago estas finita kaj ĝia rezulto estas ankoraŭ efika.
+La markilo **haf** indikas, ke la ago estas finita kaj ĝia rezulto estas ankoraŭ efika.
 
-**man** ***ha*** **yam ban.**
+**man** ***haf*** **yam ban.**
 – Viro estis, estas aŭ estos manĝinta panon.  
-**man** ***did ha*** **yam ban.**
+**man** ***did haf*** **yam ban.**
 – Viro estis manĝinta panon.  
-**man** ***nau ha*** **yam ban.**
+**man** ***nau haf*** **yam ban.**
 – Viro estas manĝinta panon.  
-**man** ***vil ha*** **yam ban.**
+**man** ***vil haf*** **yam ban.**
 – Viro estos manĝinta panon.
 
 
