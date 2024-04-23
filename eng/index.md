@@ -80,7 +80,7 @@ Singular and plural are indicated with number words.
 – one or more books  
 **un buke**
 – (one) book  
-**due buke**
+**du buke**
 – two books  
 **tri buke**
 – three books  
@@ -94,12 +94,12 @@ Comparison is done with helping words:
 – less;
 **dan**
 – than; and
-**as**
-– as, equally.
+**sim**
+– as, same, equally.
 
 **mi es mor gude dan yu.**
 – I am better (_more good_) than you.  
-**no, mi es as gude as yu.**
+**no, mi es sim gude dan yu.**
 – No, I am as good as you.  
 **da bi tolke mor faste dan yu.**
 – He or she talks faster (_more fast_) than you.
@@ -176,5 +176,5 @@ You can contact the creator and a main developer of Pandunia, Risto Kupsala, via
 
 ![](http://www.pandunia.info/grafe/bandera.png "The flag of Pandunia")
 
-**de hol dunia, to hol dunia**  
+**of hol dunia, to hol dunia**  
 – from the whole world, for the whole world

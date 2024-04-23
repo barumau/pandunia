@@ -261,13 +261,13 @@ pomo, päällikkö
 **halo, cin pa!**
 = Hei, isoisä!  
 <big>☺</big>
-**halo! ching side.**
+**halo! plis side.**
 = Hei! Istu, ole hyvä!  
 <big>☻</big>
 **tanke.**
 = Kiitos.  
 <big>☺</big>
-**ching yam kafe o cha.**
+**plis yam kafe o cha.**
 = Joisitko kahvia tai teetä?  
 <big>☻</big>
 **ama mi yam un di cha! tanke.**
@@ -277,7 +277,7 @@ pomo, päällikkö
 **cin pa, mi mus ga a zai.**
 = Isoisä, Minun täytyy lähteä nyt.  
 <big>☺</big>
-**oke. ching sal tu se mama!**
+**oke. plis sal tu se mama!**
 = OK. Kerro terveisiä äidillesi!  
 <big>☻</big>
 **mi sal da. sal reste!**
@@ -293,11 +293,11 @@ Pandunian persoonapronominit ovat: **mi** = minä, **tu** = sinä, ja **da** = h
 Kuten suomessa, myös panduniassa persoonapronomineilla ei jaotella sukupuolta.
 Kaikkia edellä mainittuja persoonapronomineja käytettään seuraavassa esimerkkilauseessa.
 
-**mi ching tu sal da.**
+**mi plis tu sal da.**
 = Minä pyydän sinua tervehtimään häntä.
 
 Lauseessa on niin sanottu _saranarakenne_. Ensimmäinen verbi,
-**ching**
+**plis**
 = pyytää, saa kohteekseen sanan
 **tu**, 
 joka toimii samaan aikaan toisen verbin,
@@ -321,30 +321,30 @@ Toisin sanoen puhuja voi turvallisin mielin olettaa,
 että kuulijat tietävät mistä tai kenestä hän puhuu, eikä hänen tarvitse jatkuvasti toistaa niitä.
 Tällä tavalla lauseista voi tehdä lyhyempiä.
 
-**mi ching tu sal da.**
+**mi plis tu sal da.**
 = Minä pyydän sinua tervehtimään häntä.  
-**ching sal da.**
+**plis sal da.**
 = (Pyydän,) tervehdi häntä.
 
-Huomasitko miten sanan **ching** rooli muuttui hieman kahdessa edellisessä lauseessa?
+Huomasitko miten sanan **plis** rooli muuttui hieman kahdessa edellisessä lauseessa?
 Sanan merkitys ei muuttunut, mutta sen käyttötapa muuttui.
 Eräissä kielissä pyyntöjen muodostamiseen käytetään apusanaa kuten englannissa _please_ ja saksassa _bitte_.
 Suomessa käytetään ilmaisua "ole hyvä" tai verbin isi-muotoa.
 Sen sijaan panduniassa käytetään yksinkertaisesti pyytämistä tarkoittavaa verbiä yksinään, sillä kuulija toki tietää kuka pyytää.
 
 Lauseen
-**ching sal da**
+**plis sal da**
 rakennetta voi hyödyntää kaikenlaisten kohteliaiden pyyntöjen ilmaisemiseen.
 
-**ching side.**
+**plis side.**
 = Istu, ole hyvä.  
-**ching don yo kafe.**
+**plis don yo kafe.**
 = Antaisitko kahvia.  
-**ching don cha.**
+**plis don cha.**
 = Antaisitko teetä.  
-**ching yam cha.**
+**plis yam cha.**
 = Ottaisitko teetä.  
-**ching saf kamar.**
+**plis saf kamar.**
 = Siivoaisitko huoneen.
 
 Käskyt aloitetaan sanalla
@@ -379,7 +379,7 @@ Käännä seuraavat lauseet panduniaksi. Oikeat vastaukset ovat sanaston jälkee
 
 **cha**
 tee  
-**ching**
+**plis**
 pyytää; ole hyvä  
 **don**
 antaa  
@@ -406,9 +406,9 @@ syödä tai juoda
 ### Harjoitusten vastaukset
 
 1. da yam cha.
-2. la shefe ching da side.
-3. ching yam kafe o cha.
-4. mama ching mi saf kamar.
+2. la shefe plis da side.
+3. plis yam kafe o cha.
+4. mama plis mi saf kamar.
 5. shefe side e yam kafe.
 
 
@@ -460,7 +460,7 @@ syödä tai juoda
 ### Kysyminen
 
 Kysymykset joihin vastataan "kyllä" ja "ei" muodostetaan samalla saranarakenteella kuin pyynnöt,
-joissa käytetään sanaa **ching**.
+joissa käytetään sanaa **plis**.
 Kysymyslauseet aloitetaan sanalla **sual** = kysyä.
 
 **mi sual tu yam cha.**
@@ -589,11 +589,11 @@ tervehtimisen olemassaolon.
 Panduniassa kieltosana vaikuttaa aina seuraavaan sanaan.
 Siis eri asiat tulevat kielletyksi, kun kieltosanan paikka lauseessa muuttuu.
 
-**mi ching tu saf la kamar.**
+**mi plis tu saf la kamar.**
 = Minä pyydän sinua siivoamaan huoneen.  
-**mi no ching tu saf la kamar.**
+**mi no plis tu saf la kamar.**
 = Minä EN pyydä sinua siivoamaan huonetta.  
-**mi ching tu no saf la kamar.**
+**mi plis tu no saf la kamar.**
 = Minä pyydän sinua ETTET siivoa huonetta.
 
 Kielletty sana voi olla mitä tahansa tyyppiä: verbi, pronomini,
@@ -727,7 +727,7 @@ aika
 3. ke zaman da lai?
 4. pos des minute.
 5. ke sabu da no yam?
-6. de sabu da no suka kafe e supe.
+6. de sababe da no suka kafe e supe.
 
 
 --------------------------------------------------------------------------------

@@ -44,34 +44,34 @@ You can just speak Pandunia!
 <p style="font-size:5em;">🙋‍</p>
 
 **sal!**
-Hello!
+– Hello!
 
 **sal suba!**
-Good morning!
+– Good morning!
 
 **sal dia!**
-Good day!
+– Good day!
 
 **sal sham!**
-Good evening!
+– Good evening!
 
 **sal noche!**
-Good night!
+– Good night!
 
 **sal yam!**
-Bon appetit!
+– Bon appetit!
 
-**sal lai!**
-Welcome!
+**sal kom!**
+– Welcome!
 
-**sal ga!**
-Goodbye!
+**sal go!**
+– Goodbye!
 
 **sal safar!**
-Have a safe journey!
+– Have a safe journey!
 
 **sal sona!**
-Sleep well!
+– Sleep well!
 
 As you can see from the range of expressions,
 **sal**
@@ -101,47 +101,47 @@ Indonesian *selamat*.</small>
 <p style="font-size:5em;">🙏</p>
 
 **tanke!**
-Thanks!
+– Thanks!
 
 **meni tanke!**
-Thanks a lot!
+– Thanks a lot!
 
 **ya, tanke.**
-Yes, thank you.
+– Yes, thank you.
 
 **no, tanke.**
-No, thank you.
+– No, thank you.
 
 **tanke tu.**
-Thank you.
+– Thank you.
 
 **mi tanke tu.**
-I thank you.
+– I thank you.
 
-**mi tanke tu mede mi.**
-I thank you for helping me.
+**mi tanke tu helpe mi.**
+– I thank you for helping me.
 
 **tanke tu mede mi.**
-Thanks for helping me.
+– Thanks for helping me.
 
 **no yau tanke.**
-You're welcome. (Literally: _No need to thank._)
+– You're welcome. (Literally: _No need to thank._)
 
 
 ### es <small>to be</small>
 
 The word
 **es**
-can be used also for stating something as a fact.
+is used for stating something as a fact.
 
 **mi es Tomas.**
-I am Thomas.
+– I am Thomas.
 
 **tu es Sara.**
-You are Sarah.
+– You are Sarah.
 
 **aple es frute.**
-The apple is a fruit.
+– The apple is a fruit.
 
 <small>Etymology. **es** is from
 Spanish *es*,
@@ -153,16 +153,16 @@ French *est*.</small>
 ### mi <small>I, me</small>
 
 **mi es Sara.**
-I'm Sarah.
+– I'm Sarah.
 
 **mi es Tomas.**
-I'm Thomas.
+– I'm Thomas.
 
 **mi sal mama.**
-I greet mother.
+– I greet mother.
 
 **mi sal papa.**
-I greet father.
+– I greet father.
 
 The word
 **sal**
@@ -170,13 +170,13 @@ is both a noun and a verb.
 The basic word order in Pandunia is subject–verb–object.
 
 **Sara ya sal Tomas.**
-Sarah greets Thomas.
+– Sarah greets Thomas.
 
 **sal mama!**
-Greetings, mother!
+– Greetings, mother!
 
 **sal papa!**
-Greetings, father!
+– Greetings, father!
 
 <small>Etymology. **mi** is from
 English *me*,
@@ -190,13 +190,13 @@ Swahili *mimi*.</small>
 ### tu <small>you</small>
 
 **tu es Tomas.**
-You are Thomas.
+– You are Thomas.
 
 **mi sal tu.**
-I greet you.
+– I greet you.
 
 **tu sal mi.**
-You greet me.
+– You greet me.
 
 Pronouns don't ever change their form in Pandunia.
 That's why
@@ -205,7 +205,7 @@ is the same in subject and object positions
 while English has two different forms, 'I' and 'me'.
 
 **mi love tu.**
-I love you.
+– I love you.
 
 <small>Etymology. **tu** is from
 Spanish *tu*,
@@ -222,20 +222,20 @@ Tajik ту (tu).</small>
 <p style="font-size:4em;">👥🗣️👉👤</p>
 
 **da es man.**
-He is a man.
+– He is a man.
 
 **da es fem.**
-She is a woman.
+– She is a woman.
 
 **da es aple.**
-It is an apple.
+– It is an apple.
 
 **da**
 is the general third person pronoun.
 It is used for people (irrespective of gender) as well as for things.
 
 **mi sal da.**
-I greet him/her.
+– I greet him/her.
 
 <small>Etymology. **da** is from
 Mandarin 他/她 (tā),
@@ -245,26 +245,26 @@ Malay *dia*.</small>
 ### sual <small>to ask a question</small>
 
 **sual tu es Tomas?**
-Are you Thomas?
+– Are you Thomas?
 
-**sual tu es davar?**
-Are you a doctor?
+**sual tu es dokter?**
+– Are you a doctor?
 
 Tip: Yes/no questions frequently begin with
 **sual**.
 It is just a regular verb, not a special _question tag_.
 In fact, the previous question is simply abbreviated from
-**mi sual tu es tiber**
+**mi sual tu es dokter**
 (I ask, you are doctor?) by dropping out the first word.
 
 **sual tu hau?**
-How are you? (Literally: _Are you good?_)  
+– How are you? (Literally: _Are you good?_)  
 **mi hau.**
-I'm good.  
+– I'm good.  
 **tu ne?**
-And you?  
+– And you?  
 **mi no hau.**
-I'm not good.
+– I'm not good.
 
 <small>Etymology. **sual** is from
 Arabic سؤال (su'āl),
@@ -276,16 +276,16 @@ Swahili *swali*.</small>
 ### ya <small>yes</small>
 
 **sual tu es Tomas?**
-Are you Thomas.
+– Are you Thomas?
 
 **ya, mi es Tomas.**
-Yes, I am Thomas.
+– Yes, I am Thomas.
 
-**sual da es tiber?**
-Is he/she a doctor?
+**sual da es dokter?**
+– Is he/she a doctor?
 
-**ya, da es tiber.**
-Yes, he is a doctor.
+**ya, da es dokter.**
+– Yes, he is a doctor.
 
 <small>Etymology. **ya** is from
 German *ja*,
@@ -293,23 +293,24 @@ English *yeah*,
 Malay *ya*,
 Korean 예 (ya).</small>
 
+
 ### no <small>no, not</small>
 
 **mi no es Sara.**
-I'm not Sarah.
+– I'm not Sarah.
 
-**mi no es tiber.**
-I'm not a doctor.
+**mi no es dokter.**
+– I'm not a doctor.
 
 **sual tu hau?**
-Are you well?  
+– Are you well?  
 **ya. mi hau.**
-Yes, I'm well.
+– Yes, I'm well.
 
-**sual tu hau?**
-Are you well?  
-**no, mi no hau.**
-No, I'm not well.
+**sual tu es hau?**
+– Are you well?  
+**no, mi no es hau.**
+– No, I'm not well.
 
 You can use
 **no**
@@ -317,7 +318,7 @@ to deny anything.
 It is placed before the word that is denied.
 
 **da no sal mi.**
-He/she doesn't greet me.
+– He/she doesn't greet me.
 
 <small>Etymology. **no** is from
 Spanish *no*,
@@ -329,59 +330,55 @@ Bengali না (na).</small>
 
 ### Plural pronouns
 
+| Singular    | Plural       |
+|:------------|:-------------|
+| **mi**      | **vi**       |
+| I, me       | we           |
+| **tu**      | **yu**       |
+| you         | you all      |
+| **da**      | **di**       |
+| he or she   | they         |
 
-**mi**
-(I) →
-**vi**
-(we)  
-**tu**
-(you) →
-**yu**
-(you all)  
-**da**
-(he, she, it) →
-**di**
-(they)
 
 **vi sal yu.**
-We greet you all.
+– We greet you all.
 
 **yu sal di.**
-You greet them.
+– You greet them.
 
 **di sal vi!**
-They greet us.
+– They greet us.
 
 **vi es fem.**
-We are women.
+– We are women.
 
 **yu es man.**
-You are men.
+– You are men.
 
 **di es aple.**
-They are apples.
+– They are apples.
 
 
 ### kua? <small>what? who?</small>
 
 **kua?**
-What?
+– What?
 
 **tu es kua?**
-Who are you?  
+– Who are you?  
 **mi es Tomas.**
-I'm Thomas.
+– I'm Thomas.
 
 **da es kua?**
-Who is he/she?  
+– Who is he/she?  
 **da es Sara.**
-She is Sarah.
+– She is Sarah.
 
 **yu es kua?**
-Who are you people?
+– Who are you people?
 
 **di es kua?**
-Who are they?
+– Who are they?
 
 <small>Etymology. **kua** is from
 French *quoi*,
@@ -392,49 +389,49 @@ English *what*.</small>
 ### da <small>this or that</small>
 
 **da hir es kua?**
-What's this?
+– What's this?
 
 **da hir es aple.**
-This is an apple.
+– This is an apple.
 
 **da der es kua?**
-What is that?
+– What is that?
 
 **da der es aranja.**
-That is an orange.
+– That is an orange.
 
 **da es rubi aple.**
-This is a red apple.
+– This is a red apple.
 
 **da aple es rubi.**
-This apple is red.
+– This apple is red.
 
 **da es rubi.**
-This is red.
+– This is red.
 
-**di a kua?**
-Where are they?
+**di sta kua?**
+– Where are they?
 
-**di a hir.**
-They are here.
+**di sta hir.**
+– They are here.
 
-**di a der.**
-They are there.
+**di sta der.**
+– They are there.
 
 
 ### se <small>'s (possessive particle)</small>
 
 **da es kua?**
-What's this?
+– What's this?
 
 **da es mi se telefon.**
-It's my telephone.
+– It's my telephone.
 
-**ye es kua se?**
-Whose is this?
+**da hir es kua se?**
+– Whose is this?
 
 **da es mi se.**
-It's mine.
+– It's mine.
 
 Note: Possessive particle
 **se**
@@ -445,13 +442,13 @@ means 'my',
 means 'your' and so on.
 
 **da es kua?**
-Who's he/she?
+– Who's he/she?
 
 **da es mi se frende.**
-He/she is my friend.
+– He/she is my friend.
 
 **mi es Sara se frende.**
-I am Sarah's friend.
+– I am Sarah's friend.
 
 It's also possible to end a sentence with
 **se**.
@@ -465,6 +462,7 @@ The friend is Sara's.
 
 <small>Etymology. **se** is from
 English *'s*,
+German *-s*,
 Afrikaans *se*,
 French *son* ~ *sa*,
 Spanish *su*.</small>
@@ -473,16 +471,16 @@ Spanish *su*.</small>
 ### nam <small>name</small>
 
 **tu se nam es kua?**
-What's your name?
+– What's your name?
 
 **mi se nam es Tomas.**
-My name is Thomas.
+– My name is Thomas.
 
 **da se nam es kua?**
-What is his/her name?
+– What is his/her name?
 
 **da se nam es Sara.**
-Her name is Sarah.
+– Her name is Sarah.
 
 <small>Etymology. **nam** is from
 Hindi नाम  (nām),
@@ -497,61 +495,61 @@ English *name*.</small>
 ### have <small>have</small>
 
 **mi have un hau haus.**
-I have a good house.
+– I have a good house.
 
 **da no have pesa.**
-He doesn't have money.
+– He doesn't have money.
 
-**mi van have un neu telefon.**
-I want to have a new telephone.
+**mi van have un nove telefon.**
+– I want to have a new telephone.
 
 **sual tu have pikin?**
-Do you have children?  
+– Do you have children?  
 **mi have du pikin.**
-I have two children.
+– I have two children.
 
-**sual have tiber?**
-Is there a doctor?  
-**ya. da es tiber.**
-Yes. He or she is a doctor.
+**sual have dokter?**
+– Is there a doctor?  
+**ya. da es dokter.**
+– Yes. He or she is a doctor.
 
 **sual have vin?**
-Do you have wine?  
+– Do you have wine?  
 **ya. baki e rubi.**
-Yes, white and red.
+– Yes, white and red.
 
 
 ### nou <small>know</small>
 
 **mi nou da.**
-I know him/her/it.
+– I know him/her/it.
 
 **sual tu nou da der jen?**
-Do you know that person?
+– Do you know that person?
 
 **mi no nou.**
-I don't know.
+– I don't know.
 
 **sual yu nou unotre?**
-Do you know each other?
+– Do you know each other?
 
-**vi nou unotre de long.**
-We know each other for a long time.
+**vi nou unotre of long.**
+– We know each other for a long time.
 
 
 ### helpe <small>help</small>
 
 **mi yau helpe.**
-I need help.
+– I need help.
 
 **sual tu ken helpe mi?**
-Can you help me?
+– Can you help me?
 
 **sual mi ken helpe tu?**
-Can I help you?
+– Can I help you?
 
 **mi van helpe tu.**
-I want to help you.
+– I want to help you.
 
 
 ## Part 2: Eating
@@ -559,13 +557,13 @@ I want to help you.
 ### yam <small>consume, eat, drink</small>
 
 **sual tu van yam som ting?**
-Would you like to eat something?
+– Would you like to eat something?
 
 **da yam un aple.**
-He/she eats an apple.
+– He/she eats an apple.
 
 **di yam aple.**
-They eat apples.
+– They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms.
 Therefore a word like
@@ -573,10 +571,10 @@ Therefore a word like
 can refer to one or more apples.
 
 **sual tu yam kafe?**
-Do you drink coffee?
+– Do you drink coffee?
 
 **ya. mi yam kafe.**
-Yes, I drink coffee.
+– Yes, I drink coffee.
 
 Tip: Meaning of
 **yam**
@@ -585,86 +583,86 @@ It can feel odd at first but soon you will see that it is quite handy!
 Usually the object of the verb tells is it about eating, drinking or both.
 
 **mi yam kafe e ban.**
-I'm having coffee and bread.
+– I'm having coffee and bread.
 
 
 ### van <small>want</small>
 
 **sual tu van yam?**
-Would you like to eat?
+– Would you like to eat?
 
 **tu van yam kua?**
-What would you like to eat?
+– What would you like to eat?
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia
 the word order is not affected by the
 **kua**.
 
 **mi van yam kafe.**
-I want to drink coffee.
+– I want to drink coffee.
 
 **sual tu van yam cha?**
-Would you like to drink tea?  
+– Would you like to drink tea?  
 **no. mi no van cha. mi van kafe.**
-No, I don't want tea. I want coffee.
+– No, I don't want tea. I want coffee.
 
 **tu van kua aple?**
-Which apple do you want?  
+– Which apple do you want?  
 **da rubi.**
-This red one.
+– This red one.
 
 
 ### plis <small>request, please</small>
 
 **mi plis tu yam cha.**
-I ask you to drink tea.
+– I ask you to drink tea.
 
-**mi plis tu lai haus.**
-I ask you to come home.
+**mi plis tu kom haus.**
+– I ask you to come home.
 
 **mi plis tu mede mi.**
-I ask you to help me.
+– I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
 **plis yam cha.**
-Please, have some tea!
+– Please, have some tea!
 
 **plis yam kafe.**
-Please, have some coffee!
+– Please, have some coffee!
 
-**plis lai haus.**
-Please, come home!
+**plis kom haus.**
+– Please, come home!
 
-**plis mede mi.**
-Please, help me.
+**plis helpe mi.**
+– Please, help me.
 
 
 ### haida <small>let's</small>
 
 **haida yam!**
-Let's eat!
+– Let's eat!
 
 **haida go yam!**
-Let's go eat!
+– Let's go eat!
 
 **haida go haus.**
-Let's go home.
+– Let's go home.
 
 
 ### yau <small>need</small>
 
 **mi yau helpe.**
-I need help.
+– I need help.
 
 **mi yau yam.**
-I'm hungry.
+– I'm hungry.
 
 **sual tu yau yam?**
-Are you hungry?
+– Are you hungry?
 
 **sual tu yau sui?**
-Are you thirsty?
+– Are you thirsty?
 
 
 ## Part 3. Communication
@@ -672,268 +670,274 @@ Are you thirsty?
 ### perdon <small>sorry, pardon</small>
 
 **perdon! mi no aha.**
-Sorry, I don't understand.
+– Sorry, I don't understand.
 
 **perdon! da es kua?**
-Excuse me, what's this?
+– Excuse me, what's this?
 
 **perdon. tu se nam es kua?**
-Excuse me, what's your name?
+– Excuse me, what's your name?
 
 
 ### aha <small>understand</small>
 
 **sual tu aha mi?**
-Do you understand me?
+– Do you understand me?
 
 **mi aha.**
-I understand.
+– I understand.
 
 **perdon. mi no aha tu.**
-Sorry. I don't understand you.
+– Sorry. I don't understand you.
 
 **mi no bas aha tu.**
-I didn't quite understand you.
+– I didn't quite understand you.
 
-**mi aha no she.**
-I don't understand at all.
+**mi aha no ting.**
+– I don't understand at all.
 
 
 ### ken <small>can</small>
 
 **mi ken shofe karo.**
-I can drive a car.
+– I can drive a car.
 
 **da no ken shofe karo.**
-He/she doesn't know how to drive a car.
+– He/she doesn't know how to drive a car.
 
 **sual tu ken shuli da?**
-Do you know how to fix it?
+– Do you know how to fix it?
 
 **sual tu ken pandunia?**
-Can you speak Pandunia?
+– Can you speak Pandunia?
 
 **mi ken pandunia.**
-I can speak Pandunia.
+– I can speak Pandunia.
 
 **mi ken kam pandunia.**
-I can speak a little Pandunia.
+– I can speak a little Pandunia.
 
 **mi no ken english.**
-I can't speak English.
+– I can't speak English.
 
 **perdon. mi no ken tu se bashe.**
-Sorry, I can't speak your language.
+– Sorry, I can't speak your language.
 
 
 ### loga <small>to say, speak, talk</small>
 
 **tu loga kua?**
-What did you say?
+– What did you say?
 
 **mi loga to tu.**
-I talk to you.
+– I talk to you.
 
-**vi loga to unaltre.**
-We talk to each other.
+**vi loga to unotre.**
+– We talk to each other.
 
 **von loga**
 *cat*
 **a kua mode a pandunia?**
-How do you say "cat" in Pandunia?
+– How do you say "cat" in Pandunia?
 
-*cat*
+***cat***
 **es kua a pandunia?**
-What is "cat" in Pandunia?
+– What is "cat" in Pandunia?
 
 **mau loga "miau".**
-Cat says "meow".
+– Cat says "meow".
 
 
 ### audi <small>to listen, hear</small>
 
 **audi mi!**
-Listen to me!
+– Listen to me!
 
 **mi no ken audi tu.**
-I can't hear you.
+– I can't hear you.
 
 **plis loga mor bala.**
-Please speak louder.
+– Please speak louder.
 
-**mi audi muzika.**
-I listen to music.
+**mi audi muzike.**
+– I listen to music.
 
-**tu audi kua tipe li muzika?**
-What kind of music do you listen to?
+**tu audi kua sorte muzike?**
+– What kind of music do you listen to?
 
 
 ### vize <small>to see</small>
 
 **suka vize tu.**
-Pleased to see you!
+– Pleased to see you!
 
 **to rivize!**
-See you again!
+– See you again!
 
 **vize tu a posden!**
-See you tomorrow!
+– See you tomorrow!
 
 **mi vize da a preden.**
-I saw him/her yesterday.
+– I saw him/her yesterday.
 
 
 ### sema <small>to mean</small>
 
 **da hir lexe ya sema kua?**
-What does this word mean?
+– What does this word mean?
 
 **"mau" ya sema kua?**
-What does "mau" mean?
+– What does "mau" mean?
 
 **da sema un yang de hevan.**
-It means a kind of animal.
+– It means a kind of animal.
 
 **mi no aha da sema kua.**
-I don't understand what it means.
+– I don't understand what it means.
 
 
 ### kitabe <small>write</small>
 
 **plis kitabe tu se adres.**
-Please, write your address.
+– Please, write your address.
 
-**plis kitabe da a ye.**
-Please, write it here!
+**plis kitabe da a hir.**
+– Please, write it here!
 
 
 ### bashe <small>speak a language, communicate</small>
 
 **sual yu bashe pandunia.**
-Do you speak Pandunia?
+– Do you speak Pandunia?
 
 **vi bashe pandunia.**
-We speak Pandunia.
+– We speak Pandunia.
 
 **sual tu ken bashe english?**
-Can you speak English?
+– Can you speak English?
 
 **franse, espanya, portugal, rus**
-French, Spanish, Portuguese, Russian
+– French, Spanish, Portuguese, Russian
 
 **putong han, nipon, malayu**
-Chinese, Japanese, Malay
+– Chinese, Japanese, Malay
 
 **arabe, turke, parse, urdu, hindi**
-Arabic, Turkish, Farsi, Urdu, Hindi
+– Arabic, Turkish, Farsi, Urdu, Hindi
 
 **suahili, hausa, yoruba, amara**
-Swahili, Hausa, Yoruba, Amharic
+– Swahili, Hausa, Yoruba, Amharic
 
 
 ## Part 4. Going around
 
 ### go <small>to go</small>
 
+**go der!**
+– Go there!
+
 **tu go kua?**
-Where are you going?
+– Where are you going?
 
 **mi go haus.**
-I'm going home.
+– I'm going home.
 
 **mi mus go kua?**
-Where should I go?
+– Where should I go?
 
 **mi mus go to kua jen?**
-To whom should I go?
+– To whom should I go?
 
 **haida go!**
-Let's go!
+– Let's go!
 
 **haida go a fute**
-Let's go by foot!
+– Let's go by foot!
 
 
-### lai <small>to come</small>
+### kom <small>to come</small>
 
-**plis lai!**
-Come here!
+**kom hir!**
+– Come here!
 
-**tu lai of kua?**
-Where do you come from?
+**plis kom!**
+– Please come!
 
-**mi lai de Dubai.**
-I come from Dubai.
+**tu kom of kua?**
+– Where do you come from?
 
-**mi lai haus a pos den.**
-I will come home tomorrow.
+**mi kom of Dubai.**
+– I come from Dubai.
+
+**mi kom haus a pos den.**
+– I will come home tomorrow.
 
 
 ### safar <small>to travel</small>
 
 **sual tu safar a tren?**
-Do you travel by train?
+– Do you travel by train?
 
 **vi safar de London to Paris.**
-We travel from London to Paris.
+– We travel from London to Paris.
 
 **safar es dai long.**
-The voyage is very long.
+– The voyage is very long.
 
 
 ### a <small>in, on, at</small>
 
 **hotel a kua?**
-Where is the hotel?
+– Where is the hotel?
 
 **hotel a da der dau.**
-The hotel is on that road.
+– The hotel is on that road.
 
 **tu a kua?**
-Where are you?
+– Where are you?
 
 **mi a haus.**
-I'm at home.
+– I'm at home.
 
 **da a kua?**
-Where is he/she?
+– Where is he/she?
 
 **da side a kamar.**
-He/she sits in the room.
+– He/she sits in the room.
 
 Tip! You can use
 **a**
 as a preposition or alone as the verb.
 
 **mi kar a...**
-I work at ...
+– I work at ...
 
 
 ### loju <small>to live, reside</small>
 
 **tu loju kua?**
-Where do you live?
+– Where do you live?
 
 **mi loju Singapur.**
-I live in Singapore.
+– I live in Singapore.
 
 **sual tu loju da hir hotel?**
-Do you live in this hotel?
+– Do you live in this hotel?
 
 
 ### dele <small>to wait</small>
 
 **plis dele!**
-Please wait!
+– Please wait!
 
 **dele mi!**
-Wait for me!
+– Wait for me!
 
 **di dele vi.**
-They wait for us.
+– They wait for us.
 
 **mi dele tu a hotel.**
-I wait for you in the hotel.
+– I wait for you in the hotel.
 
 
 ## Part 5. Time expressions
@@ -941,50 +945,60 @@ I wait for you in the hotel.
 ### bi <small>currently</small>
 
 **mi bi sal tu se frende.**  
-I am greeting your friend.
+– I am greeting your friend.
 
 **da man bi vize un filme.**  
-The man is watching a film.
+– The man is watching a film.
+
+**da bi es shefe.**  
+– He or she is being the chief.
+
+**da bi es a haus.**  
+– He or she is currently at home.
 
 
 ### haf <small>already, completed</small>
 
 **mi haf sal tu se frende.**  
-I have greeted your friend.
+– I have greeted your friend.
 
 **da man haf vize da filme.**  
-The man has watched the film.
+– The man has watched the film.
 
+**da haf es shefe.**  
+– He has been the chief.
+
+**da haf es a haus.**  
+– He has been at home.
 
 ### did <small>in the past</small>
 
 **mi did sal tu se frende.**  
-I greeted your friend.
+– I greeted your friend.
 
 **man did vize un filme.**  
-The man watched a film.
+– The man watched a film.
 
 **da did es shefe.**  
-He/she was the chief.
+– He/she was the chief.
 
 **da did es a haus.**  
-He/she was at home.
+– He/she was at home.
 
 
 ### vil <small>in the future</small>
 
 **mi vil sal tu se frende.**  
-I will greet your friend.
+– I will greet your friend.
 
 **da man vil vize da filme.**  
-The man will watch the film.
+– The man will watch the film.
 
 **da vil es shefe.**  
-He/she will be the chief.
+– He/she will be the chief.
 
 **da vil es a haus.**  
-He/she will be at home.
-
+– He/she will be at home.
 
 
 
@@ -993,52 +1007,52 @@ He/she will be at home.
 ### don <small>give</small>
 
 **plis don pesa.**
-Please give some money.
+– Please give some money.
 
 **plis don da to mi.**
-Please give it to me.
+– Please give it to me.
 
 **mi don da hir to tu.**
-I give this to you.
+– I give this to you.
 
 **mi don buke to di.**
-I give a book to them.
+– I give a book to them.
 
 **da no van don da to mi.**
-He/she doesn't want to give it to me.
+– He/she doesn't want to give it to me.
 
 
 ### sepe <small>take, get</small>
 
 **mi sepe un kafe.**
-I will take a coffee.
+– I will take a coffee.
 
 **plis sepe un kafe to mi.**
-Please take one coffee for me.
+– Please take one coffee for me.
 
 **tu did sepe pesa de mi.**
-You already got money from me before.
+– You already got money from me before.
 
 **mi sepe un bir.**
-I will take a beer.
+– I will take a beer.
 
 
 ### kira <small>rent, lease, hire</small>
 
 **kira es 500 dolar a mes.**  
-The rent is 500 dollars in a month.
+– The rent is 500 dollars in a month.
 
 **da no ken pei da kira.**  
-He/she can't pay the rent.
+– He/she can't pay the rent.
 
 **mi van sepe un karo a kira.**  
-I want to take a car for rent.
+– I want to take a car for rent.
 
 **mi van kira sepe un karo.**
-I want to rent a car.
+– I want to rent a car.
 
 **da kira don kamar to safarer.**
-He/she rents rooms to travelers.
+– He/she rents rooms to travelers.
 
 
 <!--
@@ -1050,95 +1064,85 @@ means _to sell_ and **mai kap**
 means _to buy_.
 
 **di mai don pan.**
-They sell everything.
+– They sell everything.
 
 **mi mai kapa un bir.**
-I will buy a beer.
+– I will buy a beer.
 
 ### tipe <small>type, kind, sort</small>
 
 **da es kua tipe?**
-What is it like?
+– What is it like?
 
 **sual da es neu?**
-Is it new?
+– Is it new?
 
 **kua es mas hau?**
-Which is better?
+– Which is better?
 
 **ye es masim hau (de pan).**
-This is the best (of all).
+– This is the best (of all).
 
 **da kosta kua?**
-How much does it cost?  
-**nol.**
-Nothing.  
+– How much does it cost?  
+**no ting.**
+– Nothing.  
 **da koste kam / meni.**
-It is cheap / expensive.  
+– It is cheap / expensive.  
 
-**men plis vi lai.**
-We are being called.
+**von plis vi kom.**
+– We are being called.
 
 **mi soka tualete.**
-I'm looking for the toilet.
+– I'm looking for the toilet.
 
-****
-Go there / forward / back / left / right.
+Go forward / back / left / right.
 
-****
 Come here / back / to us.
 
 **mi skole pandunia.**
-I study Pandunia.
+– I study Pandunia.
 
 **shou da to mi a lexe buke!**
-Show me in the dictionary!
+– Show me in the dictionary!
 **mi no memo.**
-I don't remember.
+– I don't remember.
 
-****
-(I wish you) all the best!
+– (I wish you) all the best!
 
-****
-I will never forget you.
+– I will never forget you.
 
-****
-Don't worry! (Hakuna matata!)
+– Don't worry! (Hakuna matata!)
 
 **pan es okei.**
-Everything is alright.
+– Everything is alright.
 
-****
-Cheers!
+– Cheers!
 
-****
-Of course!
+– Of course!
 
 **sual tu suka ...?**
-Do you like ...?
+– Do you like ...?
 
-****
-I feel alright.
+– I feel alright.
 
-**plis side a ye!**
-Please, sit here!
+**plis side hir!**
+– Please, sit here!
 
-**mi suka state.**
-I rather stand.
+**mi suka sta.**
+– I rather stand.
 
-****
-With pleasure!
+– With pleasure!
 
 **feste shuru a kua tem?**
-When does the party begin?
+– When does the party begin?
 
 **tu sahi.**
-You are right.
+– You are right.
 
-****
-Leave me alone!
+– Leave me alone!
 
 **kua habar?**
-What's new?
+– What's new?
 -->
 

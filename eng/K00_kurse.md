@@ -739,7 +739,7 @@ manner or thing if needed.
 = Who is he/she?  
 **da es kua ting?**
 = What (thing) is it?  
-**kua jen lai?**
+**kua jen kom?**
 = Who is coming? (**jen** = person)  
 **tu yam a kua tem?**
 = When do you eat? (**tem** = time)  
@@ -783,7 +783,7 @@ even when not answering to a question.
 
 **danse**
 to dance  
-**lai**
+**kom**
 to come  
 **a**
 at, in, on  
@@ -802,10 +802,10 @@ period of time
 
 1. kua jen suka supe?
 2. papa suka.
-3. kua tem da lai?
+3. kua tem da kom?
 4. pos des minute.
 5. kua sababe da no yam?
-6. de sabu da no suka kafe i supe.
+6. de sababe da no suka kafe e supe.
 
 
 --------------------------------------------------------------------------------

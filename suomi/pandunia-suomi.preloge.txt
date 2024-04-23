@@ -19,7 +19,7 @@ ja sen perässä on sulkeiden sisällä pääkäännöksen merkitystä laajentav
 Jos hakusanalla on useampia merkityksiä,
 niiden käännökset erotetaan puolipisteellä.
 
-> ching - pyytää (anoa; ole hyvä)
+> plis - pyytää (anoa; ole hyvä)
 
 Toisinaan samasta sanasta on kaksi lähes samanlaista hakusanaa.
 

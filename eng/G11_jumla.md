@@ -465,7 +465,7 @@ as in the following examples.
 – The cat walks.  
 **sol lume.**
 – The sun shines.  
-**di lai.**
+**di kom.**
 – They come.  
 
 However, it is possible to clarify the roles of subject and object with the help of the auxiliary verbs
@@ -516,7 +516,7 @@ A basic sequence is that of `agent > instrument > patient`.
 – He uses a knife to cut the bread.  
 **da jete da bol dape da dike.**
 – He throws the ball to hit the target.  
-**mi shofe da karo lai da site.**
+**mi shofe da karo kom da site.**
 – He drives the car to enter the city.
 
 Another common sequence is that of `causer > agent > patient`.
@@ -572,9 +572,9 @@ In pivot constructions where the first action indicates a modality, such as desi
 the first participant can be left out when it indicates the first person ('I').
 The the remaining syntactic construction is `verb₁–pivot–verb₂–object`.
 
-**mi sual tu lai haus.**
+**mi sual tu kom haus.**
 – I ask (whether) you come come?  
-**sual tu lai haus.**
+**sual tu kom haus.**
 – Do you come come?  
 **mi asha tu yam mas fite.**
 – I wish you would eat more vegetables.  
@@ -585,9 +585,9 @@ In commands and requests also the second participant can be left out
 when it indicates the second person ('you').
 The the remaining syntactic structure is `verb₁–verb₂–object`.
 
-**mi plis tu lai haus.**
+**mi plis tu kom haus.**
 – I ask you to come home.  
-**plis lai haus!**
+**plis kom haus!**
 – Please come home!  
 **mi amir tu kluze da mun.**
 – I command you to shut the door.  
@@ -693,7 +693,7 @@ constructions can be used for emphasizing the topicness of the normal subject to
 
 **es mi ki vize tu.** ~ **es mi vize tu.**
 – It's me who saw you.  
-**es mi ki lai.** ~ **es mi lai.**
+**es mi ki kom.** ~ **es mi kom.**
 – It's me who came.
 
 
@@ -800,7 +800,7 @@ However, unlike in English, the word order may also be unchanged.
 – What are you eating?  
 **tu zai yam kua?**
 – You are eating what?  
-**da lai a kua tem?**
+**da kom a kua tem?**
 – When does he arrive?  
 **yu vizite a kua jen se haus?**
 – Whose house did you all vizet?

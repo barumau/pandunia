@@ -181,9 +181,9 @@ Tällä tavalla lauseista voi tulla lyhyempiä.
 
 ### Short pivot structure (VVO)
 
-**mi ching tu lai to dom.**
+**mi plis tu kom to dom.**
 – Minä pyydän sinua tulemaan kotiin.  
-**ching lai to dom!**
+**plis kom to dom!**
 – (Pyydän) tule kotiin!
 
 
@@ -292,7 +292,7 @@ Yleensä sanajärjestys kuitenkin on sama kuin väitelauseissa.
 – Mitä sinä olet syömässä?  
 **tu zai yam ke?**
 – Sinä olet syömässä mitä?  
-**da lai a ke zaman?**
+**da kom a ke zaman?**
 – Mihin aikaan hän tulee?  
 **tumen vizite a ke jen su dom?**
 – Kenen talossa te kävitte?
@@ -366,11 +366,11 @@ Se vaikuttaa aina vain seuraavaan sanaan.
 **mi visi no tu ama damen.**
 = Minä näen, en sinua, vaan heidät.
 
-**mi ching tu safi la kamar.**
+**mi plis tu safi la kamar.**
 – Minä pyydän sinua siivoamaan huoneen.  
-**mi no ching tu safi la kamar.**
+**mi no plis tu safi la kamar.**
 – Minä en pyydä sinua siivoamaan huonetta.  
-**mi ching tu no safi la kamar.**
+**mi plis tu no safi la kamar.**
 – Minä pyydän sinua olemaan siivoamatta huonetta.
 
 

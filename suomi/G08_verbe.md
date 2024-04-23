@@ -135,7 +135,7 @@ ilmaisee, että toiminta on loppunut mutta sen seuraukset ovat kuluvan hetken ka
 – Minä olen antanut kirjan heille. (Siis se ei ole minulla.)  
 **damen no _le_ ridon da to mi.**
 – He eivät ole antaneet sitä takaisin minulle.  
-**mi _le_ lai to siti.**
+**mi _le_ kom to siti.**
 – Minä olen saapunut kaupunkiin.
 
 **pas**
@@ -148,7 +148,7 @@ ilmaisee ohimennyttä toimintaa, jonka seuraukset eivät ole olennaisia.
 – Minä kävin Ranskassa (kerran).  
 **mi pas ada gul yo bir.**
 – Minulla oli tapana juoda olutta (ennen).  
-**mi pas lai to siti.**
+**mi pas kom to siti.**
 – Minä tulin kaupunkiin (kerran).
 
 **sha**

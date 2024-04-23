@@ -74,8 +74,8 @@ Grammatical information, like case, gender, number and tense, is not encoded int
 In fact, words don't ever change in Pandunia.
 So when one wants to express a new meaning or a nuance, one can't do that by modifying the words.
 The only way to add more details is to add more words.
-For example, the verb **lai** ('to come') is changed to the past tense by adding a word that means the past:
-**pas lai** ('came' or 'to come in the past').
+For example, the verb **kom** ('to come') is changed to the past tense by adding a word that means the past:
+**did kom** ('came' or 'did come').
 
 ## Content words and structure words
 

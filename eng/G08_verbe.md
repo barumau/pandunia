@@ -181,7 +181,7 @@ The preposition
 **de**
 denotes separation or departure, 'off, away from, from'.
 
-**di lai de Brazil.**
+**di kom de Brazil.**
 – They come from Brazil.
 
 #### ex
@@ -217,7 +217,7 @@ The preposition
 **pos**
 denotes later position in time or space, 'after, later than'.
 
-**di lai pos mi.**
+**di kom pos mi.**
 – They come after me.
 
 #### pre
@@ -226,7 +226,7 @@ The preposition
 **pre**
 denotes earlier position in time or space, 'before, in front of'.
 
-**di lai pre mi.**
+**di kom pre mi.**
 – They come before me.
 
 #### pro
@@ -259,7 +259,7 @@ The preposition
 **via**
 denotes road or way, 'via, by way of'.
 
-**vi lai to Berlin via Praha.**
+**vi kom to Berlin via Praha.**
 – We come to Berlin via Prague.
 
 #### vise

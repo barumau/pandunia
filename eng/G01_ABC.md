@@ -344,8 +344,8 @@ One may
 (2) insert one space before and after the punctuation mark.
 This practice helps to separate sentences more clearly.
 
-    (1) sal!  tu hau, he?  mi vol go do kafekan.  tu vol lai kon mi, he?
-    (2) sal ! tu hau, he ? mi vol go do kafekan . tu vol lai kon mi, he ?
+    (1) sal!  tu hau, he?  mi vol go do kafekan.  tu vol kom kon mi, he?
+    (2) sal ! tu hau, he ? mi vol go do kafekan . tu vol kom kon mi, he ?
 
 In informal texts, smileys, emoticons and emojis may be used like punctuation marks to end sentences
 but in addition they indicate the mood of the speaker.
