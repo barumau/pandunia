@@ -94,11 +94,11 @@ Para clarificar el orden o para añadir otros objetos, los verbos auxiliares **f
 **fa** indica que el sujeto es el agento o hacedor de la acción,
 y **be** indica que el sujeto es el paciente o recibirador.
 
-**mi fa sal mi su doste.**
+**mi fa sal mi su frende.**
 – Yo saludo a mi amiga.  
-**mi be sal mi su doste.**
+**mi be sal mi su frende.**
 – Yo soy saludada por mi amiga.  
-**pa fa mi sal mi su doste.**
+**pa fa mi sal mi su frende.**
 – Mi papá me hace saludar a mi amiga.
 
 

@@ -8,17 +8,17 @@ Ekzemple, la verbo
 **es**
 ('esti') havas la saman formon en ćiu person.
 
-**_mi_ es doste.**
+**_mi_ es frende.**
 – mi estas amiko.  
-**_tu_ es doste.**
+**_tu_ es frende.**
 – Ci estas amiko.  
-**_da_ es doste.**
+**_da_ es frende.**
 – Ri (li aŭ ŝi) estas amiko.  
-**_vi_ es doste.**
+**_vi_ es frende.**
 – Ni estas amikoj.  
-**_yu_ es doste.**
+**_yu_ es frende.**
 – Vi estas amikoj.  
-**_di_ es doste.**
+**_di_ es frende.**
 – Ili estas amikoj.
 
 Ankaŭ substantivo povas roli kiel subjekto.

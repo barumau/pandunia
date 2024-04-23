@@ -13,7 +13,7 @@ For example, the word
 modifies a noun in sentence A
 and a verb in sentence B.
 
-A. **vo es _mei_ kitabe.**
+A. **da es _mei_ kitabe.**
 – That is a beautiful writing.  
 B. **tu _mei_ li kitabe.**
 – You write _beautifully_.
@@ -36,7 +36,7 @@ In Pandunia, "adjectives" are modifiers that are placed before the noun that the
 
 Two or more modifiers can modify the same noun.
 
-**un shau neu karo**
+**un lil nove karo**
 – a little new car
 
 
@@ -77,27 +77,23 @@ is used also when a modifier modifies another one.
 
 Degree words tell us about the intensity of something.
 
-**tre**
+**vere**
 – very  
 **bas**
 – quite, sufficiently, enough  
-**mas**
+**mor**
 – more  
-**min**
+**les**
 – less
-**mas ka bas**
-– too  
 
 Degree words are placed before the word that they modify.
 
 **un dai man**
 – a big man  
-**un tre dai man**
+**un vere dai man**
 – a very big man  
 **un bas dai man**
 – a big enough man / a sufficiently big man
-**un mas dai man ka bas**
-– a too big man  
 
 A degree word together with a modifier forms a _compound adverb_
 that can modify a verb or a sentence.
@@ -124,25 +120,25 @@ The meaning is the same like when the compound adverb modifies the main verb.
 
 Adjectives can be compared with the adverbs of comparison.
 
-- **mas**
+- **mor**
   (_more_) indicates comparison of superiority
-- **masim**
-  (_most_) indicates the superlative of superiority
-- **min**
+- **mor... of hol**
+  (_most... of all_) indicates the superlative of superiority
+- **les**
   (_less_) indicates comparison of inferiority
-- **minim**
-  (_least_) indicates the superlative of inferiority
+- **les... of hol**
+  (_least... of all_) indicates the superlative of inferiority
 - **sim**
   (_as_ or _equally_) indicates the comparison of equality
 
 The particle
-**ka**
+**dan**
 relates the adverbs of comparison to the object of comparison.
 
-**aple es mas hau ka aranja.**
+**aple es mor hau dan aranja.**
 = Apples are better than oranges.  
-**aranja es min hau ka aple.**
+**aranja es les hau dan aple.**
 = Oranges are less good than apples.  
-**tu loga sim hau ka mi.**
+**tu loga sim hau dan mi.**
 = You speak as well as me.
 

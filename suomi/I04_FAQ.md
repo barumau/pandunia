@@ -131,7 +131,7 @@ Pandunia on saanut vaikutteita sekä luonnollisista että keinotekoisista kielis
 - Pandunian kielioppi on tiivis mutta joustava. Panduniassa on vain
   muutamia kielioppirakenteita, joita sovelletaan uudestaan ja
   uudestaan eri tasoilla.
-- Pandunia on aidoste neutraali kieli.
+- Pandunia on aidosti neutraali kieli.
 
 Yllä mainittuja pandunian ominaispiirteitä saattaa esiintyä muissakin
 kielissä, mutta kokonaisuutena se on ainutlaatuinen.
@@ -208,7 +208,7 @@ Verrataan samaa tarkoittavaa lausetta esperantossa ja panduniassa. Sanojen
 osat on erotettu toisistaan pystyviivalla.
 
     Esperanto: Mi   vol|as vid|i via|j|n du    bel|a|j|n okul|o|j|n nun.
-    Pandunia:  mi   vol    vide  tu su   du    sundar    yen        na zai.
+    Pandunia:  mi   vol    vide  tu se   du    sundar    yen        na zai.
                Minä haluan nähdä sinun   kaksi kaunista  silmää     nyt.
 
 #### Eikö sanan "salam" pitäisi tarkoittaa rauhaa?

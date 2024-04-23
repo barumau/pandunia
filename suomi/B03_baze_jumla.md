@@ -391,7 +391,7 @@ Me olemme täällä.
 **ye e ke?**
 Mikä tämä on?
 
-**da e mi su telefon.**
+**da e mi se telefon.**
 Se on minun puhelin.
 
 **ye e ke su?**
@@ -412,10 +412,10 @@ tarkoittaa "sinun" jne.
 **da e ke?**
 Kuka hän on?
 
-**da e mi su dosti.**
+**da e mi se frende.**
 Hän on minun ystävä.
 
-**mi e Sara su dosti.**
+**mi e Sara su frende.**
 Minä olen Saran ystävä.
 
 <small>Sanan **su** lähteitä ovat
@@ -426,10 +426,10 @@ espanjan *su*.</small>
 
 ### nam <small>nimi</small>
 
-**tu su nam e ke?**
+**tu se nam e ke?**
 Mikä sinun nimesi on?
 
-**mi su nam e Tomas.**
+**mi se nam e Tomas.**
 Minun nimeni on Tomas.
 
 **da su nam e ke?**
@@ -628,7 +628,7 @@ Anteeksi, minä en ymmärrä.
 **maf! ye es ke?**
 Anteeksi, mikä tämä on?
 
-**maf. tu su nam es ke?**
+**maf. tu se nam es ke?**
 Anteeksi, mikä sinun nimi on?
 
 
@@ -675,7 +675,7 @@ Minä osaan vähän panduniaa.
 **mi no bil english.**
 Minä en osaa englantia.
 
-**maf. mi no bil tu su basha.**
+**maf. mi no bil tu se basha.**
 Anteeksi, en osaa sinun kieltäsi.
 
 
@@ -756,7 +756,7 @@ Minä en ymmärrä mitä se tarkoittaa.
 
 ### kitabi <small>kirjoittaa</small>
 
-**ching kitabi tu su adres.**
+**ching kitabi tu se adres.**
 Kirjoittaisitko osoitteesi.
 
 **ching kitabi da a ye.**
@@ -902,7 +902,7 @@ Minä odotan sinua hotellissa.
 
 ### zai <small>parhaillaan</small>
 
-**mi zai sal tu su doste.**  
+**mi zai sal tu se frende.**  
 Minä olen tervehtimässä sinun ystävääsi.
 
 **la man ya zai visi un filme.**  
@@ -917,7 +917,7 @@ Hän on parhaillaan kotona.
 
 ### pas <small>ennen</small>
 
-**mi pas sal tu su dosti.**  
+**mi pas sal tu se frende.**  
 Minä tervehdin sinun ystävääsi.
 
 **la man ya pas visi un filme.**  
@@ -932,7 +932,7 @@ Hän oli kotona.
 
 ### le <small>jo, valmiiksi</small>
 
-**mi le sal tu su dosti.**  
+**mi le sal tu se frende.**  
 Minä olen tervehtinyt ystävääsi.
 
 **la man le visi un filme.**  
@@ -947,7 +947,7 @@ Hän on ollut kotona.
 
 ### sha <small>myöhemmin, jatkossa</small>
 
-**mi sha sal tu su dosti.**  
+**mi sha sal tu se frende.**  
 Minä tervehdin ystävääsi (jatkossa).
 
 **la man sha visi la filme.**  

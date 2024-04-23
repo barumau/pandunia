@@ -28,7 +28,7 @@ hide:
 **mi es Sara. da es kua?**
 = I am Sara. Who is that?  
 <big>☻</big>
-**da es mi se doste.**
+**da es mi se frende.**
 = That is my friend.  
 <big>☺</big>
 **da se nam es kua?**
@@ -42,11 +42,11 @@ hide:
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
 tells something about the topic. For instance in
-**da es mi se doste**
+**da es mi se frende**
 the topic is the pronoun
 **da**
 (he, she, it), which is followed by the comment
-**es mi se doste**
+**es mi se frende**
 (is my friend).
 
 In Pandunia, the word
@@ -116,7 +116,7 @@ to be
 no; not  
 **hau**
 good  
-**doste**
+**frende**
 friend  
 **nam**
 name  
@@ -133,7 +133,7 @@ animal
 
 1. tu es kua?
 2. mi es Tomas.
-3. tu se doste es kua?
+3. tu se frende es kua?
 4. da es Sara.
 5. tu se nam es kua?
 6. mi se nam es ........... 

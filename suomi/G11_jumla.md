@@ -103,11 +103,11 @@ Apuverbejä **fa** ja **be** käytetään lauseenjäsenten roolien selkeyttämis
 **fa** tarkoittaa, että subjekti on tekijä,
 ja **be** tarkoittaa että subjekti on kokija tai tekemisen vastaanottaja.
 
-**mi fa salam mi su dosti.**
+**mi fa salam mi se frende.**
 – Minä tervehdin ystävääni.  
-**mi be salam mi su dosti.**
+**mi be salam mi se frende.**
 – Minua tervehtii minun ystäväni.  
-**pa fa mi salam mi su dosti.**
+**pa fa mi salam mi se frende.**
 – Isä panee minut tervehtimään ystävääni.
 
 
@@ -415,9 +415,9 @@ joka vastaa suomen genetiivisijaa.
 
 Samaa partikkelia käytetään myös pronominien kanssa.
 
-**mi su dom**
+**mi se dom**
 – minun taloni  
-**tu su dom**
+**tu se dom**
 – sinun talosi  
 **da su dom**
 – hänen talonsa  

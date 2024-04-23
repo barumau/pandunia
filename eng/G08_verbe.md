@@ -12,17 +12,17 @@ For example, the verb
 **es**
 ('to be') has the same form in all persons.
 
-**_mi_ es doste.**
+**_mi_ es frende.**
 – I am a friend.  
-**_tu_ es doste.**
+**_tu_ es frende.**
 – You are a friend.  
-**_da_ es doste.**
+**_da_ es frende.**
 – He/she is a friend.  
-**_vi_ es doste.**
+**_vi_ es frende.**
 – We are friends.  
-**_yu_ es doste.**
+**_yu_ es frende.**
 – You are friends.  
-**_di_ es doste.**
+**_di_ es frende.**
 – They are friends.
 
 Also a noun can serve as subject.

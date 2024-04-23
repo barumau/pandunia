@@ -15,17 +15,17 @@ Esimerkiksi, verbi
 **e**
 ('olla') on samassa muodossa kaikissa persoonissa.
 
-**_mi_ e dosti.**
+**_mi_ e frende.**
 – Minä olen ystävä.  
-**_tu_ e dosti.**
+**_tu_ e frende.**
 – Sinä olet ystävä.  
-**_da_ e dosti.**
+**_da_ e frende.**
 – Hän on ystävä.  
-**_mimen_ e dosti.**
+**_mimen_ e frende.**
 – Me olemme ystäviä.  
-**_tumen_ e dosti.**
+**_tumen_ e frende.**
 – Te olette ystäviä.  
-**_damen_ e dosti.**
+**_damen_ e frende.**
 – He ovat ystäviä.
 
 Subjektina voi olla myös substantiivi.

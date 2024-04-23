@@ -250,21 +250,22 @@ Adjectives are questioned with **kua li**.
 A pronominal phrase is an expression that consists of several words and functions syntactically as a pronoun.
 Pandunia's pronominal phrases can be arranged in a regular table of pronominals as below.
 
-|               | Interrogative | Demonstrative | Indefinite    | Universal     | Negative      | Alternative   | Elective      |
+| Category      | Interrogative | Demonstrative | Indefinite    | Universal     | Negative      | Alternative   | Elective      |
 |:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| Thing         | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   | **otre ting** | **eni ting**  |
-|               | what (thing)  | that thing    | something     | everything    | nothing       | another       | anything      |
-| Individual    | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    | **otre von**  | **eni von**   |
-|               | who           | that one      | someone       | every one     | no-one        | another       | anyone        |
-| Possession    | **kua von se**| **da von se** | **som von se**|**evri von se**| **no von se** |**otre von se**| **eni von se**|
-|               | whose         | that one's    | someone's     | everyone's    | no-one's      | another's     | anyone's      |
-| Place         | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   | **otre loke** | **eni loke**  |
-|               | where         | there         | somewhere     | everywhere    | nowhere       | elsewhere     | anywhere      |
-| Time          | **kua tem**   | **da tem**    | **some tem**  | **evri tem**  | **no tem**    | **otre tem**  | **eni tem**   |
-|               |when, what time| that time     | sometime      |always, all the time| never    | another time  | any time      |
-| Manner        | **kua mode**  | **da mode**   | **som mode**  | **evri mode** | **no mode**   | **otre mode** | **eni mode**  |
-|               | how           | in that way   | somehow       | in every way  | in no way     | otherwise     | anyway        |
-| Quality       | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   | **otre tipe** | **eni tipe**  |
-|               | what kind of  | that kind of  | some kind of  | all kinds of  | no kind of    |another type of| any kind of   |
-| Quantity      | **kua monte** | **da monte**  | **som monte** | **evri monte**| **no monte**  | **otre monte**| **eni monte** |
-|               | how much      | so much       | some          | all           | none          | other amount  | any amount    |
+| **ting**      | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   | **otre ting** | **eni ting**  |
+| Thing         | what (thing)  | that thing    | something     | everything    | nothing       | another       | anything      |
+| **von**       | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    | **otre von**  | **eni von**   |
+| Individual    | who           | that one      | someone       | every one     | no-one        | another       | anyone        |
+| **have**      | **kua von se**| **da von se** | **som von se**|**evri von se**| **no von se** |**otre von se**| **eni von se**|
+| Possession    | whose         | that one's    | someone's     | everyone's    | no-one's      | another's     | anyone's      |
+| **loke**      | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   | **otre loke** | **eni loke**  |
+| Location      | where         | there         | somewhere     | everywhere    | nowhere       | elsewhere     | anywhere      |
+| **tem**       | **kua tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    | **otre tem**  | **eni tem**   |
+| Time          |when, what time| that time     | sometime      |always, all the time| never    | another time  | any time      |
+| **vei**       | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    | **otre vei**  | **eni vei**   |
+| Manner        | how           | in that way   | somehow       | in every way  | in no way     | otherwise     | anyway        |
+| **sorte**     | **kua sorte** | **da sorte**  | **som sorte** | **evri sorte**| **no sorte**  | **otre sorte**| **eni sorte** |
+| Kind, sort    | what kind of  | that kind of  | some kind of  | all kinds of  | no kind of    |another type of| any kind of   |
+| **monta**     | **kua monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  | **otre monta**| **eni monta** |
+| Amount        | how much      | so much       | some          | all           | none          | other amount  | any amount    |
+

@@ -389,10 +389,10 @@ hide:
 **da es kua?**
 彼/彼女/その人は誰ですか?
 
-**da es mi se doste.**
+**da es mi se frende.**
 彼/彼女/その人は私の友達です。
 
-**mi es Sara se doste.**
+**mi es Sara se frende.**
 私は(事実として)サラの友達です。
 
 <small>【語源】 **se** 英語：’s、スペイン語：su、アフリカーンス語：se</small>
@@ -844,7 +844,7 @@ hide:
 
 ### bi <small>現在(進行形)</small>
 
-**mi bi sal tu se doste.**  
+**mi bi sal tu se frende.**  
 私はあなたの友達にあいさつしています。
 
 **man bi vize fem.**  
@@ -859,7 +859,7 @@ hide:
 
 ### ha <small>既に、もう</small>
 
-**mi ha sal tu se doste.**  
+**mi ha sal tu se frende.**  
 私はあなたの友達にすでに挨拶しました。
 
 **man ha vize fem.**  
@@ -874,7 +874,7 @@ hide:
 
 ### did <small>過去</small>
 
-**mi did sal tu se doste.**  
+**mi did sal tu se frende.**  
 私はあなたの友達にあいさつしました。
 
 **man did vize un filme.**  
@@ -889,7 +889,7 @@ hide:
 
 ### vil <small>未来</small>
 
-**mi vil sal tu se doste.**  
+**mi vil sal tu se frende.**  
 私はあなたの友達にあいさつするでしょう。
 
 **man vil vize fem.**  

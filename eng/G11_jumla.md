@@ -864,7 +864,7 @@ A content clause is a subordinate clause that provides content that is commented
 In Pandunia they are typically introduced with the conjunction
 **ki**.
 
-**mi nou ki tu es doste.**
+**mi nou ki tu es frende.**
 – I know that you are a friend.  
 **di fikre ki vi haf chute.**
 – They think that we have left.

@@ -43,7 +43,7 @@ Kompreneble, eblas ke modifovortoj aperu je ambaŭ flankoj de substantivo.
 **di jen _hau_ kitabe.**
 – Ili _bone_ skribas.
 
-**tu _mei di_ kitabe.**
+**tu _mei li_ kitabe.**
 – Vi _bele_ skribas.  
 **di _suga li_ marche.**
 – Ili _rapide_ promenas.
@@ -65,25 +65,25 @@ inter la modifanta kaj la modifata.
 
 Modifovortoj povas esti komparataj.
 
-- **mas**
+- **mor**
   (pli) signifas komparo de plieco
-- **masim**
+- **mor... of hol**
   (la plej) signifas komparo de plejeco
-- **min**
+- **les**
   (malpli) signifas komparo de malplieco
-- **minim**
+- **les... of hol**
   (malplej) signifas komparo de malplejeco
 - **sim**
   (same, egale) signifas komparo de sameco
 
 Partiklo
-**ka**
+**dan**
 rilatas komparvortoj al la fonto de komparo.
 
-**aple es mas hau ka aranja.**
+**aple es mor hau dan aranja.**
 – Pomoj estas pli bonaj ol oranĝoj.  
-**aranja es min hau ka aple.**
+**aranja es les hau dan aple.**
 – Oranĝoj estas malpli bonaj ol pomoj.
-**tu loga sim hau ka mi.**
+**tu loga sim hau dan mi.**
 – Vi parolas same bone kiel mi.
 

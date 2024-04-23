@@ -16,31 +16,32 @@
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mi su**   | **vi su**    |
+| **mi se**   | **vi se**    |
 | meu, minha  | nosso, nossa |
-| **tu su**   | **yu su**    |
+| **tu se**   | **yu se**    |
 | teu, tua    | vosso, vossa |
-| **da su**   | **di su**    |
+| **da se**   | **di se**    |
 | seu, sua    | seu, sua     |
 
 
 ## Tabela dos "correlativos"
 
-|               | Interrogativo | Demonstrativo | Indefinido    | Coletivo      | Negativo      |
+| Categoria     | Interrogativo | Demonstrativo | Indefinido    | Coletivo      | Negativo      |
 |:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| Coisa         | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   |
-|               | o que         | isso, aquilo  | algo          | tudo          | nada          |
-| Individuo     | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    |
-|               | quem          | esse, aquele  | alguém        | todo, cada    | ninguém       |
-| Posse         | **kua von su**| **da von su** | **som von su**|**evri von su**| **no von su** |
-|               | de quem       | de tal pessoa | de alguém     | de todos      | de ninguém    |
-| Lugar         | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   |
-|               | onde          | aí, ali, lá   | algum lugar   | todo lugar    | nenhum lugar  |
-| Tempo         | **kua tem**   | **da tem**    | **some tem**  | **evri tem**  | **no tem**    |
-|               | quando        | naquele tempo | em algum tempo| sempre        | nunca         |
-| Modo          | **kua mode**  | **da mode**   | **som mode**  | **evri mode** | **no mode**   |
-|               | de que modo   | desse modo    | de algún modo|de todos os modos|de nenhum modo|
-| Qualidade     | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   |
-|               | de que tipo   | desse tipo    | de algum tipo | de nenhum tipo| de todo tipo  |
-| Quantidade    | **kua monte** | **da monte**  | **som monte** | **evri monte**| **no monte**  |
-|               | quanto        | tanto         | um pouco      |toda quantidade|nenhuma quantidade|
+| **ting**      | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   |
+| Coisa         | o que         | isso, aquilo  | algo          | tudo          | nada          |
+| **von**       | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    |
+| Individuo     | quem          | esse, aquele  | alguém        | todo, cada    | ninguém       |
+| **have**      | **kua von se**| **da von se** | **som von se**|**evri von se**| **no von se** |
+| Posse         | de quem       | de tal pessoa | de alguém     | de todos      | de ninguém    |
+| **loke**      | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   |
+| Lugar         | onde          | aí, ali, lá   | algum lugar   | todo lugar    | nenhum lugar  |
+| **tem**       | **kua tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    |
+| Tempo         | quando        | naquele tempo | em algum tempo| sempre        | nunca         |
+| **vei**       | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    |
+| Modo          | de que modo   | desse modo    | de algún modo|de todos os modos|de nenhum modo|
+| **sorte**     | **kua sorte** | **da sorte**  | **som sorte** | **evri sorte**| **no sorte**  |
+| Qualidade     | de que tipo   | desse tipo    | de algum tipo | de nenhum tipo| de todo tipo  |
+| **monta**     | **kua monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  |
+| Quantidade    | quanto        | tanto         | um pouco      |toda quantidade|nenhuma quantidade|
+

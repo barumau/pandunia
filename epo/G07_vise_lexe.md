@@ -19,28 +19,28 @@ La posedaj pronomoj estas formata per aldo de partiklo
 
 | Ununombra   | Multenombra  |
 |:------------|:-------------|
-| **mi su**   | **vi su**    |
+| **mi se**   | **vi se**    |
 | mia         | nia          |
-| **tu su**   | **yu su**    |
+| **tu se**   | **yu se**    |
 | via, cia    | via          |
-| **da su**   | **di su**    |
+| **da se**   | **di se**    |
 |lia, ŝia, ĝia| ilia         |
 
 ## Refleksiva pronomo
 
-**se**
+**selfe**
 – si (mem)
 
 Rimarko: La refleksiva pronomo
-**se**
+**selfe**
 povas uziĝi por ĉiuj personoj.
 Do ĝi rilatas al ĉiuj tiaj uzadoj en Esperanto, kiel: _mi(n) mem_, _vi(n) mem_, _ni(n) mem_ kaj _si(n)_.
 
-**mi vize se.**
+**mi vize selfe.**
 – Mi vidas min.  
-**da vize se.**
+**da vize selfe.**
 – Ŝi vidas sin.  
-**vi vize se.**
+**vi vize selfe.**
 – Ni vidas nin.
 
 Oni uzas
@@ -71,6 +71,10 @@ Por esprimi proksimecon, aldonu
 **der**
 (_tie_).
 
+**da haus**
+– tiu (ĉi) domo  
+**di haus**
+– tiuj (ĉi) domoj  
 **da hir haus**
 – ĉi tiu domo  
 **di hir haus**
@@ -79,6 +83,9 @@ Por esprimi proksimecon, aldonu
 – tiu domo  
 **di der haus**
 – tiuj domoj  
+
+La montrovortoj povas roli kiel subjekto same kiel substantivoj.
+
 **da hir es hau.**
 – ĉi tiu (aĵo) estas bone.  
 **da der es dus.**
@@ -119,21 +126,22 @@ Adjektivoj estas demandataj per **kua li**.
 "Tabelvortoj" estas vortoj, kiuj rolas kiel pronomoj kaj estas konstruitaj laŭ fiksita principo.
 Oni povas aranĝi tiajn vortojn en tabelo kaj en Esperanto kaj en Pandunia.
 
-|               | Demanda       | Montranta     | Nedifinita    | Tutampleksa   | Nea           | Diferenca     | Elektenda     |
+| Kategorio     | Demanda       | Montranta     | Nedifinita    | Tutampleksa   | Nea           | Diferenca     | Elektenda     |
 |:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| Aĵo           | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   | **otre ting** | **eni ting**  |
-|               | kio           | tio           | io            | ĉio           | nenio         | alio          | io ajn        |
-| Homo          | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    | **otre von**  | **eni von**   |
-|               | kiu           | tiu           | iu            | ĉiu           | neniu         | aliulo        | iu ajn        |
-| Aparteno      | **kua von su**| **da von su** | **som von su**|**evri von su**| **no von su** |**otre von su**| **eni von su**|
-|               | kies          | ties          | ies           | ĉies          | nenies        | de alia       | ies ajn       |
-| Loko          | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   | **otre loke** | **eni loke**  |
-|               | kie           | tie           | ie            | ĉie           | nenie         | aliloke       | ie ajn        |
-| Tempo         | **kua tem**   | **da tem**    | **some tem**  | **evri tem**  | **no tem**    | **otre tem**  | **eni tem**   |
-|               | kiam          | tiam          | iam           | ĉiam          | neniam        | alifoje       | iam ajn       |
-| Maniero       | **kua mode**  | **da mode**   | **som mode**  | **evri mode** | **no mode**   | **otre mode** | **eni mode**  |
-|               | kiel          | tiel          | iel           | ĉiel          | neniel        | alimaniere    | iel ajn       |
-| Kvalito       | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   | **otre tipe** | **eni tipe**  |
-|               | kia           | tia           | ia            | ĉia           | nenia         | alispeca      | ia ajn        |
-| Kvanto        | **kua monte** | **da monte**  | **som monte** | **evri monte**| **no monte**  | **otre monte**| **eni monte** |
-|               | kiom          | tiom          | iom           | ĉiom          | neniom        | alikvante     | iom ajn       |
+| **ting**      | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   | **otre ting** | **eni ting**  |
+| Aĵo           | kio           | tio           | io            | ĉio           | nenio         | alio          | io ajn        |
+| **von**       | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    | **otre von**  | **eni von**   |
+| Homo          | kiu           | tiu           | iu            | ĉiu           | neniu         | aliulo        | iu ajn        |
+| **have**      | **kua von se**| **da von se** | **som von se**|**evri von se**| **no von se** |**otre von se**| **eni von se**|
+| Aparteno      | kies          | ties          | ies           | ĉies          | nenies        | de alia       | ies ajn       |
+| **loke**      | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   | **otre loke** | **eni loke**  |
+| Loko          | kie           | tie           | ie            | ĉie           | nenie         | aliloke       | ie ajn        |
+| **tem**       | **kua tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    | **otre tem**  | **eni tem**   |
+| Tempo         | kiam          | tiam          | iam           | ĉiam          | neniam        | alifoje       | iam ajn       |
+| **vei**       | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    | **otre vei**  | **eni vei**   |
+| Maniero       | kiel          | tiel          | iel           | ĉiel          | neniel        | alimaniere    | iel ajn       |
+| **sorte**     | **kua sorte** | **da sorte**  | **som sorte** | **evri sorte**| **no sorte**  | **otre sorte**| **eni sorte** |
+| Kvalito       | kia           | tia           | ia            | ĉia           | nenia         | alispeca      | ia ajn        |
+| **monta**     | **kua monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  | **otre monta**| **eni monta** |
+| Kvanto        | kiom          | tiom          | iom           | ĉiom          | neniom        | alikvante     | iom ajn       |
+

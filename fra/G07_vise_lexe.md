@@ -16,15 +16,15 @@ Les pronoms servent à remplacer des noms et des groupes nominaux.
 | il, elle, le, lui, la | ils, elles, les, leur |
 
 Les pronoms possessifs sont construit avec le particle
-**su**.
+**se**.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mi su**   | **vi su**    |
+| **mi se**   | **vi se**    |
 | mon         | nôtre        |
-| **tu su**   | **yu su**    |
+| **tu se**   | **yu se**    |
 | ton         | vôtre        |
-| **da su**   | **di su**    |
+| **da se**   | **di se**    |
 | son         | leur         |
 
 
@@ -32,19 +32,19 @@ Les pronoms possessifs sont construit avec le particle
 
 Le pronom réfléchi s'utilise quand l'objet de la phrase est le même que le sujet.
 
-**se** 
+**selfe** 
 – se, moi-même, toi-même, etc.
 
 Remarque ! Le pronom réfléchi
-**se**
+**selfe**
 s'utilise pour toutes les personnes, donc il correspond en français à tous ces pronons à la fois :
 _me_ ou _moi-même_, _te_ ou _toi-même_, _se_, _lui-même_, _elle(s)-même_ ou _eux-mêmes, _nous(-mêmes)_, _vous(-mêmes).
 
-**mi vize se.**
+**mi vize selfe.**
 – Je me vois.  
-**da vize se.**
+**da vize selfe.**
 – Elle se voit. / Il se voit.  
-**vi vize se.**
+**vi vize selfe.**
 – Nous nous voyons.
 
 
@@ -95,21 +95,22 @@ Il correspond en français à _qui_, _qui est-ce qui_, _qui est-ce que_ (personn
 
 ## Tabeau des proformes
 
-|               | Interrogatif  | Démonstratif  | Indéfini      | Collectif     | Négatif       |
+| Catégorie     | Interrogatif  | Démonstratif  | Indéfini      | Collectif     | Négatif       |
 |:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| Chose         | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   |
-|               | que           | cette chose   | quelque chose | toute chose   | aucune chose  |
-| Individu      | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    |
-|               | qui           | cette personne| quelqu'un     | toute personne| aucun         |
-| Possession    | **kua von su**| **da von su** | **som von su**|**evri von su**| **no von su** |
-|               | de qui        | de celui-là   | de quelqu'un  | de tous       | de nul        |
-| Lieu          | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   |
-|               | où            | là            | quelque part  | partout       | nulle part    |
-| Temps         | **kua tem**   | **da tem**    | **some tem**  | **evri tem**  | **no tem**    |
-|               | quand         | à ce moment   | un fois       | à tout moment | à aucun moment|
-| Manière       | **kua mode**  | **da mode**   | **som mode**  | **evri mode** | **no mode**   |
-|               | comment       | comme cela|d'une manière quelconque|de toute manière|d'aucun manière|
-| Qualité       | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   |
-|               |de quelle sorte| de cette sorte|d'une quelconque sorte|de tout sorte|d'aucune sorte|
-| Quantité      | **kua monte** | **da monte**  | **som monte** | **evri monte**| **no monte**  |
-|               | combien       | cette quantité| un peu        |toute la quantité| rien du tout|
+| **ting**      | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   |
+| Chose         | que           | cette chose   | quelque chose | toute chose   | aucune chose  |
+| **von**       | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    |
+| Individu      | qui           | cette personne| quelqu'un     | toute personne| aucun         |
+| **have**      | **kua von se**| **da von se** | **som von se**|**evri von se**| **no von se** |
+| Possession    | de qui        | de celui-là   | de quelqu'un  | de tous       | de nul        |
+| **loke**      | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   |
+| Lieu          | où            | là            | quelque part  | partout       | nulle part    |
+| **tem**       | **kua tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    |
+| Temps         | quand         | à ce moment   | un fois       | à tout moment | à aucun moment|
+| **vei**       | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    |
+| Manière       | comment       | comme cela|d'une manière quelconque|de toute manière|d'aucun manière|
+| **sorte**     | **kua sorte** | **da sorte**  | **som sorte** | **evri sorte**| **no sorte**  |
+| Qualité       |de quelle sorte| de cette sorte|d'une quelconque sorte|de tout sorte|d'aucune sorte|
+| **monta**     | **kua monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  |
+| Quantité      | combien       | cette quantité| un peu        |toute la quantité| rien du tout|
+

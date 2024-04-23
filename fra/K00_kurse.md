@@ -33,7 +33,7 @@ est toujours neutre sur le plan de la politesse et de l'intimité.
 **mi es Sara. da es kua?**
 = Je suis Sara. Qui est-ce ?  
 <big>☻</big>g>
-**da es mi su doste.**
+**da es mi su frende.**
 = C'est mon amie.  
 <big>☺</big>g>
 **da su nam es kua?**
@@ -47,11 +47,11 @@ est toujours neutre sur le plan de la politesse et de l'intimité.
 Les phrases en Pandunia suivent normalement la structure sujet-commentaire.
 Le sujet indique de qui ou de quoi on parle.
 Le commentaire dit quelque chose sur le sujet. Par exemple, dans
-**da es mi su doste**
+**da es mi su frende**
 le sujet est le pronom
 **da**
 (il, elle, il neutre), suivi du commentaire
-**es mi su doste**
+**es mi su frende**
 (est mon amie).
 
 Le mot
@@ -121,7 +121,7 @@ oui
 non ; ne pas être  
 **hau**
 bon  
-**doste**
+**frende**
 ami  
 **nam**
 nom  
@@ -138,7 +138,7 @@ animal
 
 1. tu es kua?
 2. mi es Tomas.
-3. tu su doste es kua?
+3. tu su frende es kua?
 4. da es Sara.
 5. tu su nam es kua?
 6. mi su nam es ........... 

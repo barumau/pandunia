@@ -17,15 +17,15 @@ Pronombres pueden mantenerse en pie para sustantivos y frases nominales.
 Todos los pronombres pueden usarse para todos los géneros.
 
 Los pronombres posesivos consisten en el pronombre personal y la partícula posesiva
-**su**.
+**se**.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mi su**   | **vi su**    |
+| **mi se**   | **vi se**    |
 | mio         | nuestro      |
-| **tu su**   | **yu su**    |
+| **tu se**   | **yu se**    |
 | tuyo        | de ustedes   |
-| **da su**   | **di su**    |
+| **da se**   | **di se**    |
 | suyo        | de ellos     |
 
 
@@ -33,11 +33,11 @@ Los pronombres posesivos consisten en el pronombre personal y la partícula pose
 
 El pronombre reflexivo se usa cuando el objeto de una oración es la misma como el sujeto.
 
-**se**
+**selfe**
 – su mismo  
-**mi vize se.**
+**mi vize selfe.**
 – Me miro.  
-**mimen vize se.**
+**vi vize selfe.**
 – Nos miramos.
 
 La expresión **semon** se usa cuando dos o más personas performan la acción el uno al otro.
@@ -137,7 +137,7 @@ Antes de un adjetivo, **kua li** también significa «cuán».
 – ¿Cuán muchos? (¿Cuántos?)  
 **kua li dai?**
 – ¿Cuán grande?  
-**kua li shau?**
+**kua li lil?**
 – ¿Cuán pequeño?
 
 **tu have kua li dai mau?**
@@ -146,21 +146,22 @@ Antes de un adjetivo, **kua li** también significa «cuán».
 
 ## Tabla de "correlativos"
 
-|               | Pregunta      | Demonstrativo | Indefinido    | Colectivo     | Negativo      |
+| Categoría     | Pregunta      | Demonstrativo | Indefinido    | Colectivo     | Negativo      |
 |:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| Objeto        | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   |
-|               | qué           | eso           | algo          | todo          | nada          |
-| Persona       | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    |
-|               | quién         | ése           | alguien       |todos, cada uno| nadie         |
-| Pertenencia   | **kua von su**| **da von su** | **som von su**|**evri von su**| **no von su** |
-|               | de quién      | de ése        | de alguien    | de todos      | de nadie      |
-| Lugar         | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   |
-|               | dónde         | allá, ahí     | en algún lugar| en todos lados| en ningún lado|
-| Tiempo        | **kua tem**   | **da tem**    | **some tem**  | **evri tem**  | **no tem**    |
-|               | cuándo        | entonces      | alguna vez    | siempre       | nunca         |
-| Modo          | **kua mode**  | **da mode**   | **som mode**  | **evri mode** | **no mode**   |
-|               | cómo          | así, tan      | de algún modo | de todos modos| de ningún modo|
-| Cualidad      | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   |
-|               | cómo          | tal           | algún         | cada, todo    | ningún        |
-| Cantidad      | **kua monte** | **da monte**  | **som monte** | **evri monte**| **no monte**  |
-|               | cuánto        | tanto         | algo, un poco | todo monto    | nada          |
+| **ting**      | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   |
+| Objeto        | qué           | eso           | algo          | todo          | nada          |
+| **von**       | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    |
+| Persona       | quién         | ése           | alguien       |todos, cada uno| nadie         |
+| **have**      | **kua von se**| **da von se** | **som von se**|**evri von se**| **no von se** |
+| Pertenencia   | de quién      | de ése        | de alguien    | de todos      | de nadie      |
+| **loke**      | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   |
+| Lugar         | dónde         | allá, ahí     | en algún lugar| en todos lados| en ningún lado|
+| **tem**       | **kua tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    |
+| Tiempo        | cuándo        | entonces      | alguna vez    | siempre       | nunca         |
+| **vei**       | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    |
+| Modo          | cómo          | así, tan      | de algún modo | de todos modos| de ningún modo|
+| **sorte**     | **kua sorte** | **da sorte**  | **som sorte** | **evri sorte**| **no sorte**  |
+| Cualidad      | cómo          | tal           | algún         | cada, todo    | ningún        |
+| **monta**     | **kua monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  |
+| Cantidad      | cuánto        | tanto         | algo, un poco | todo monto    | nada          |
+

@@ -17,35 +17,37 @@ Persoonapronominien omistusmuodot muodostetaan partikkelilla
 
 | Yksikkö     | Monikko      |
 |:------------|:-------------|
-| **mi su**   | **vi su**    |
+| **mi se**   | **vi se**    |
 | minun       | meidän       |
-| **tu su**   | **yu su**    |
+| **tu se**   | **yu se**    |
 | sinun       | teidän       |
-| **da su**   | **di su**    |
+| **da se**   | **di se**    |
 | hänen       | heidän       |
 
 Persoonapronominit korvaavat kokonaisia lausekkeita.
 
-**un jovan man na dom. _ye_ duku un buke.**
+**un yun man sta haus. _da_ lete un buke.**
 – _Yksi nuori mies on kotona. Hän lukee kirjaa._
 
 ## Refleksiivipronomini
 
-**se**
+**selfe**
 = itse
 
-Refleksiivipronominia **ze** käytetään sellaisenaan kaikissa persoonissa.
+Refleksiivipronominia
+**selfe**
+käytetään sellaisenaan kaikissa persoonissa.
 
-**mi vize se.**
+**mi vize selfe.**
 – Minä näen itseni.  
-**da vize se.**
+**da vize selfe.**
 – Hän näkee itsensä.  
-**vi vize se.**
+**vi vize selfe.**
 – Me näemme itsemme.
 
-Sen omistusmuoto on **se su**.
+Sen omistusmuoto on **selfe se**.
 
-**da vide se su muka a mirar.**
+**da vize selfe se muka a mirer.**
 – Hän näkee kasvonsa peilissä.
 
 Sana
@@ -130,21 +132,22 @@ Pro-sanat ovat merkitykseltään pronominimaisia sanoja.
 Ne ovat joko proadverbeja tai proadjektiiveja, jotka on johdettu pronominista.
 Pandunian pro-sanat voidaan järjestää säännönmukaisesti taulukkoon kuten alla.
 
-|               | Kysyvät       | Osoittavat    | Epämääräiset  | Kaikenkattavat| Kieltävät     | Vaihtoehtoiset| Sallivat      |
+| Kategoria     | Kysyvät       | Osoittavat    | Epämääräiset  | Kaikenkattavat| Kieltävät     | Vaihtoehtoiset| Sallivat      |
 |:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| Asia          | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   | **otre ting** | **eni ting**  |
-|               | mikä          | tuo asia      | jokin         | kaikki        | ei mikään     | toinen, muu   | mikä tahansa  |
-| Henkilö       | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    | **otre von**  | **eni von**   |
-|               | kuka          | tuo henkilö   | joku          | jokainen      | ei kukaan     | toinen, muu   | kuka tahansa  |
-| Omistus       | **kua von su**| **da von su** | **som von su**|**evri von su**| **no von su** |**otre von su**| **eni von su**|
-|               | kenen         | tuon henkilön | jonkun        | jokaisen      | ei kenenkään  | toisen        | kenen tahansa |
-| Paikka        | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   | **otre loke** | **eni loke**  |
-|               | missä         | tuolla        | jossakin      | kaikkialla    | ei missään    | toisaalla     | missä tahansa |
-| Aika          | **kua tem**   | **da tem**    | **some tem**  | **evri tem**  | **no tem**    | **otre tem**  | **eni tem**   |
-|               | milloin       | silloin       | joskus        | aina          | ei koskaan    | toiste        |milloin tahansa|
-| Tapa          | **kua mode**  | **da mode**   | **som mode**  | **evri mode** | **no mode**   | **otre mode** | **eni mode**  |
-|               | miten         | siten         | jotenkin      | kaikin tavoin | ei mitenkään  | muuten        | miten tahansa |
-| Laatu         | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   | **otre tipe** | **eni tipe**  |
-|               | millainen     | tuollainen    | jonkinlainen  | kaikenlainen  |ei minkään lainen|toisen lainen|millainen tahansa|
-| Määrä         | **kua monte** | **da monte**  | **som monte** | **evri monte**| **no monte**  | **otre monte**| **eni monte** |
-|               | montako       | noin monta    | jonkin verran | kaikki        | ei yhtään     | toisen verran |kuinka paljon tahansa|
+| **ting**      | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   | **otre ting** | **eni ting**  |
+| Asia          | mikä          | tuo asia      | jokin         | kaikki        | ei mikään     | toinen, muu   | mikä tahansa  |
+| **von**       | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    | **otre von**  | **eni von**   |
+| Henkilö       | kuka          | tuo henkilö   | joku          | jokainen      | ei kukaan     | toinen, muu   | kuka tahansa  |
+| **have**      | **kua von se**| **da von se** | **som von se**|**evri von se**| **no von se** |**otre von se**| **eni von se**|
+| Omistus       | kenen         | tuon henkilön | jonkun        | jokaisen      | ei kenenkään  | toisen        | kenen tahansa |
+| **loke**      | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   | **otre loke** | **eni loke**  |
+| Paikka        | missä         | tuolla        | jossakin      | kaikkialla    | ei missään    | toisaalla     | missä tahansa |
+| **tem**       | **kua tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    | **otre tem**  | **eni tem**   |
+| Aika          | milloin       | silloin       | joskus        | aina          | ei koskaan    | toiste        |milloin tahansa|
+| **vei**       | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    | **otre vei**  | **eni vei**   |
+| Tapa          | miten         | siten         | jotenkin      | kaikin tavoin | ei mitenkään  | muuten        | miten tahansa |
+| **sorte**     | **kua sorte** | **da sorte**  | **som sorte** | **evri sorte**| **no sorte**  | **otre sorte**| **eni sorte** |
+| Laatu         | millainen     | tuollainen    | jonkinlainen  | kaikenlainen  |ei minkään lainen|toisen lainen|millainen tahansa|
+| **monta**     | **kua monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  | **otre monta**| **eni monta** |
+| Määrä         | montako       | noin monta    | jonkin verran | kaikki        | ei yhtään     | toisen verran |kuinka paljon tahansa|
+

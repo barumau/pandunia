@@ -1,3 +1,4 @@
+
 # Frazaro
 
 ## Enkonduko
@@ -192,6 +193,7 @@ rusa ты (ty),
 hindia तू  (tū),
 persa تو‏‎ (to),
 taĝika ту (tu).</small>
+
 
 ### da <small>li, ŝi, ĝi</small>
 
@@ -389,38 +391,38 @@ Ili estas ĉi tie.
 Ili estas tie.
 
 
-### su <small>(poseda vorteto)</small>
+### se <small>(poseda vorteto)</small>
 
-**ye es kua?**
+**da es kua?**
 Kio estas ĉi tio?
 
-**da es mi su telefon.**
+**da es mi se telefon.**
 Tio estas mia telefono.
 
-**ye es kua su?**
+**ye es kua se?**
 Tio estas kies?
 
-**da es mi su.**
+**da es mi se.**
 Tio estas mia.
 
 Noto: La posedan vorteton
-**su**
+**se**
 oni metas inter la posedanto kaj la posedataĵo. Do
-**mi su**
-signifas "mia",
-**tu su**
-signifas "via", kaj tiel plu.
+**mi se**
+signifas 'mia',
+**tu se**
+signifas 'via', kaj tiel plu.
 
 **da es kua?**
 Who's he/she?
 
-**da es mi su doste.**
+**da es mi se frende.**
 Li/ŝi estas mia amiko.
 
-**mi es Sara su doste.**
+**mi es Sara se frende.**
 Mi estas amiko de Sara.
 
-<small>Etimologio. **su** venas el
+<small>Etimologio. **se** venas el
 angla *'s*,
 afrikaansa *se*,
 franca *son* ~ *sa*,
@@ -429,16 +431,16 @@ hispana *su*.</small>
 
 ### nam <small>nomo</small>
 
-**tu su nam es kua?**
+**tu se nam es kua?**
 Kio estas via nomo?
 
-**mi su nam es Tomas.**
+**mi se nam es Tomas.**
 Mia nomo estas Tomaso.
 
-**da su nam es kua?**
+**da se nam es kua?**
 Kio estas ŝia nomo?
 
-**da su nam es Sara.**
+**da se nam es Sara.**
 Ŝia nomo estas Sara.
 
 <small>Etimologio. **nam** venas el
@@ -451,21 +453,21 @@ japana 名前 (namae),
 angla *name*.</small>
 
 
-### ave <small>havi</small>
+### have <small>havi</small>
 
-**mi ave un hau dom.**
+**mi have un hau haus.**
 Mi havas bonan domon.
 
-**da no ave pesa.**
+**da no have pesa.**
 Li/ŝi ne havas mono.
 
-**mi van ave un neu telefon.**
+**mi van have un neu telefon.**
 Mi volas havi novan telefonon.
 
-**sual tu ave ben?**
+**sual tu have pikin?**
 Ĉu vi havas infanojn?  
-**mi ave du ben.**
-Mi havas da infanojn.
+**mi have du pikin.**
+Mi havas du infanojn.
 
 
 ### nou <small>scii, koni</small>
@@ -486,26 +488,26 @@ Mi ne scias.
 Ni konas unu la alian longe.
 
 
-### mede <small>helpo</small>
+### helpe <small>helpo</small>
 
-**mi yau mede.**
+**mi yau helpe.**
 Mi bezonas helpon.
 
-**sual tu ken mede mi?**
+**sual tu ken helpe mi?**
 Ĉu vi povas helpi min?
 
-**sual mi ken mede tu?**
+**sual mi ken helpe tu?**
 Ĉu mi povas helpi vin?
 
-**mi van mede tu.**
-Mi volas helpu vin.
+**mi van helpe tu.**
+Mi volas helpi vin.
 
 
 ## 2a parto: Manĝado
 
 ### yam <small>manĝi, trinki</small>
 
-**sual tu van yam yo?**
+**sual tu van yam som ting?**
 Ĉu vi volas manĝi ion?
 
 **da yam un aple.**
@@ -564,7 +566,7 @@ Tiun ruĝan.
 **mi plis tu yam cha.**
 Mi petas ke vi trinku teon.
 
-**mi plis tu lai dom.**
+**mi plis tu lai haus.**
 Mi petas ke vi venu hejmen.
 
 **mi plis tu mede mi.**
@@ -578,7 +580,7 @@ Bonvolu trinki teon!
 **plis yam kafe.**
 Bonvolu trinki kafon!
 
-**plis lai dom.**
+**plis lai haus.**
 Bonvolu veni hejmen!
 
 **plis mede mi.**
@@ -593,13 +595,13 @@ Ni manĝu!
 **haida go yam!**
 Ni iru manĝi!
 
-**haida go dom.**
+**haida go haus.**
 Ni iru hejmen.
 
 
 ### yau <small>bezoni</small>
 
-**mi yau mede.**
+**mi yau helpe.**
 Mi bezonas helpon.
 
 **mi yau yam.**
@@ -614,15 +616,15 @@ Mi bezonas manĝi.
 
 ## 3a parto: Komunikado
 
-### pardon <small>pardono</small>
+### perdon <small>pardono</small>
 
-**pardon! mi no aha.**
+**perdon! mi no aha.**
 Pardonon, mi ne komprenas.
 
-**pardon! da es kua?**
+**perdon! da es kua?**
 Pardonon, kio estas tio?
 
-**pardon. tu su nam es kua?**
+**perdon. tu se nam es kua?**
 Pardonon, kio estas via nomo?
 
 
@@ -634,7 +636,7 @@ Pardonon, kio estas via nomo?
 **mi aha.**
 Mi komprenas.
 
-**maf. mi no aha tu.**
+**perdon. mi no aha tu.**
 Pardonon, mi ne komprenas vin.
 
 **mi no bas aha tu.**
@@ -667,19 +669,19 @@ Mi povas ete pandunion.
 **mi no ken english.**
 Mi ne povas paroli la anglan.
 
-**maf. mi no ken tu su basha.**
+**perdon. mi no ken tu se bashe.**
 Pardonon, mi ne povas paroli vian lingvon.
 
 
 ### loga <small>diri, paroli</small>
 
-**tu loga ke?**
+**tu loga kua?**
 Kion vi diris?
 
 **mi loga to tu.**
 Mi parolas al vi.
 
-**vi loga to unotre.**
+**vi loga to unaltre.**
 Ni parolas unu al alia.
 
 **von loga**
@@ -703,7 +705,7 @@ Aŭskulti min!
 **mi no ken audi tu.**
 Mi ne povas aŭdi vin.
 
-**plis loga mas bala.**
+**plis loga mor bala.**
 Bonvolu paroli pli forte.
 
 **mi audi muzika.**
@@ -729,7 +731,7 @@ Mi vidin lin/ŝin hieraŭ.
 
 ### sema <small>signifi</small>
 
-**ye lexi ya semi ke?**
+**da hir lexe ya sema kua?**
 Kion tiu vorto signifas?
 
 **"mau" ya sema kua?**
@@ -744,10 +746,10 @@ Mi ne komprenas kion ĝi signifas.
 
 ### kitabe <small>skribi</small>
 
-**plis kitabe tu su adres.**
+**plis kitabe tu se adres.**
 Bonvolu skribi vian adreson.
 
-**plis kitabe da a hir.**
+**plis kitabe da a ye.**
 Bonvolu skribi ĝin ĉi tie!
 
 
@@ -768,7 +770,7 @@ la franca, la hispana, la portugala, la rusa
 **putong han, nipon, indonesia**
 la ĉina, la japana, la indonezia
 
-**arabi, turki, parsi, urdu, hindi**
+**arabe, turke, parse, urdu, hindi**
 la araba, la turka, la persa, la urdua, la hindia
 
 **suahili, hausa, yoruba, amara**
@@ -782,7 +784,7 @@ la sŭahilia, la haŭsa, la joruba, la amhara
 **tu go kua?**
 Kien vi iras?
 
-**mi go dom.**
+**mi go haus.**
 Mi iras hejmen.
 
 **mi mus go kua?**
@@ -802,13 +804,13 @@ Ni iru piede!
 **plis lai!**
 Bonvolu veni!
 
-**tu lai de kua?**
+**tu lai of kua?**
 Vi venas el kie?
 
 **mi lai de Dubai.**
 Mi venas el Dubai.
 
-**mi lai dom a pos den.**
+**mi lai haus a pos den.**
 Mi venos hejmen morgaŭ.
 
 
@@ -829,13 +831,13 @@ La vojaĝo estas tre longa.
 **hotel a kua?**
 Kie estas la hotelo?
 
-**hotel a da dau.**
+**hotel a da der dau.**
 La hotelo estas ĉe tiu vojo.
 
 **tu a kua?**
 Kie vi estas?
 
-**mi a dom.**
+**mi a haus.**
 Mi estas hejme.
 
 **da a kua?**
@@ -852,15 +854,15 @@ kiel prepozicio aŭ ankaŭ kiel verbo.
 Mi laboras ĉe ...
 
 
-### dom <small>loĝi</small>
+### loju <small>loĝi</small>
 
-**tu dom kua?**
+**tu loju kua?**
 Kie vi loĝas?
 
-**mi dom Singapur.**
+**mi loju Singapur.**
 Mi loĝas en Singapuro.
 
-**sual tu dom da hotel?**
+**sual tu loju da hir hotel?**
 Ĉu vi loĝas en cxi tiu hotelo?
 
 
@@ -883,7 +885,7 @@ Mi atendas vin en la hotelo.
 
 ### bi <small>esti -anta</small>
 
-**mi bi sal tu su doste.**  
+**mi bi sal tu se frende.**  
 Mi nune salutas vian amikon.
 
 **da man bi vize un filme.**  
@@ -892,7 +894,7 @@ La viro estas vidanta la virinon.
 
 ### haf <small>esti -inta</small>
 
-**mi haf sal tu su doste.**  
+**mi haf sal tu se frende.**  
 Mi estas salutinta vian amikon.
 
 **da man haf vize da filme.**  
@@ -901,7 +903,7 @@ La viro estas vidinta la filmon.
 
 ### did <small>-is, pasinte</small>
 
-**mi did sal tu su doste.**  
+**mi did sal tu se frende.**  
 Mi salutis vian amikon.
 
 **da man did vize un filme.**  
@@ -910,13 +912,13 @@ La viro vidis filmon
 **da did es shefe.**  
 Ĝi estis la ĉefo.
 
-**da did es a dom.**  
+**da did es a haus.**  
 Ĝi estis pasinte hejme.
 
 
 ### vil <small>-os</small>
 
-**mi vil sal tu su doste.**  
+**mi vil sal tu se frende.**  
 Mi salutos vian amikon.
 
 **da man vil vize da filme.**  
@@ -925,6 +927,6 @@ La viro vidos la virinon.
 **da vil es shefe.**  
 Ĝi estos la ĉefo.
 
-**da vil es a dom.**  
+**da vil es a haus.**  
 Ĝi estos hejme.
 

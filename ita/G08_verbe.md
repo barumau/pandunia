@@ -12,17 +12,17 @@ Per esempio il verbo
 **es**
 ('essere') ha la stessa forma per tutte le persone.
 
-**_mi_ es doste.**
+**_mi_ es frende.**
 – Io sono un amico.  
-**_tu_ es doste.**
+**_tu_ es frende.**
 – Tu sei un amico.  
-**_da_ es doste.**
+**_da_ es frende.**
 – Lui/lei è un amico/un'amica.  
-**_vi_ es doste.**
+**_vi_ es frende.**
 – Noi siamo amici.  
-**_yu_ es doste.**
+**_yu_ es frende.**
 – Voi siete amici.  
-**_di_ es doste.**
+**_di_ es frende.**
 – Loro sono amici.
 
 Anche un sostantivo può fungere da soggetto.

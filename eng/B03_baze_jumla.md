@@ -440,17 +440,17 @@ Note: Possessive particle
 **se**
 is put between the owner and the owned thing. So
 **mi se**
-means "my",
+means 'my',
 **tu se**
-means "your" and so on.
+means 'your' and so on.
 
 **da es kua?**
 Who's he/she?
 
-**da es mi se doste.**
+**da es mi se frende.**
 He/she is my friend.
 
-**mi es Sara se doste.**
+**mi es Sara se frende.**
 I am Sarah's friend.
 
 It's also possible to end a sentence with
@@ -460,7 +460,7 @@ It's also possible to end a sentence with
 The cat is mine.  
 **pesa es di se.**
 The money is theirs.  
-**doste es sara se.**
+**frende es sara se.**
 The friend is Sara's.
 
 <small>Etymology. **se** is from
@@ -510,9 +510,9 @@ Do you have children?
 **mi have du pikin.**
 I have two children.
 
-**sual have davar?**
+**sual have tiber?**
 Is there a doctor?  
-**ya. da es davar.**
+**ya. da es tiber.**
 Yes. He or she is a doctor.
 
 **sual have vin?**
@@ -532,10 +532,10 @@ Do you know that person?
 **mi no nou.**
 I don't know.
 
-**sual yu nou unaltre?**
+**sual yu nou unotre?**
 Do you know each other?
 
-**vi nou unaltre of long.**
+**vi nou unotre de long.**
 We know each other for a long time.
 
 
@@ -758,7 +758,7 @@ Listen to me!
 **mi no ken audi tu.**
 I can't hear you.
 
-**plis loga mas bala.**
+**plis loga mor bala.**
 Please speak louder.
 
 **mi audi muzika.**
@@ -908,18 +908,18 @@ as a preposition or alone as the verb.
 **mi kar a...**
 I work at ...
 
-<!--
-### dom <small>to live, reside</small>
 
-**tu dom kua?**
+### loju <small>to live, reside</small>
+
+**tu loju kua?**
 Where do you live?
 
-**mi dom Singapur.**
+**mi loju Singapur.**
 I live in Singapore.
 
-**sual tu dom ye hotel?**
+**sual tu loju da hir hotel?**
 Do you live in this hotel?
--->
+
 
 ### dele <small>to wait</small>
 
@@ -940,7 +940,7 @@ I wait for you in the hotel.
 
 ### bi <small>currently</small>
 
-**mi bi sal tu se doste.**  
+**mi bi sal tu se frende.**  
 I am greeting your friend.
 
 **da man bi vize un filme.**  
@@ -949,16 +949,16 @@ The man is watching a film.
 
 ### haf <small>already, completed</small>
 
-**mi haf sal tu se doste.**  
+**mi haf sal tu se frende.**  
 I have greeted your friend.
 
-**da man haf vize dafilme.**  
+**da man haf vize da filme.**  
 The man has watched the film.
 
 
 ### did <small>in the past</small>
 
-**mi did sal tu se doste.**  
+**mi did sal tu se frende.**  
 I greeted your friend.
 
 **man did vize un filme.**  
@@ -973,7 +973,7 @@ He/she was at home.
 
 ### vil <small>in the future</small>
 
-**mi vil sal tu se doste.**  
+**mi vil sal tu se frende.**  
 I will greet your friend.
 
 **da man vil vize da filme.**  

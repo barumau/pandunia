@@ -28,7 +28,7 @@ hide:
 **mi es Sara. da es ke?**
 = Olen Sara. Kuka hän on?  
 <big>☻</big>
-**da es mi su doste.**
+**da es mi se frende.**
 = Hän on minun ystäväni.  
 <big>☺</big>
 **da su nam es ke?**
@@ -43,11 +43,11 @@ Pandunian lauseet noudattavat tavallisesti teema-kommentti-rakennetta.
 Teema osoittaa kenestä tai mistä puhutaan.
 Kommentti kertoo jotakin uutta teemasta.
 Esimerkiksi lauseessa
-**da es mi su doste**
+**da es mi se frende**
 teema on
 **da**
 (hän), ja sitä seuraa kommentti
-**es mi su doste**
+**es mi se frende**
 (on minun ystäväni).
 
 Sanan **es** voi kääntää olla-verbiksi.
@@ -110,7 +110,7 @@ olla
 ei  
 **hau**
 hyvä  
-**doste**
+**frende**
 ystävä  
 **nam**
 nimi  
@@ -127,10 +127,10 @@ eläin
 
 1. tu es ke?
 2. mi es tomas.
-3. tu su doste es ke?
+3. tu se frende es ke?
 4. da es Sara.
-5. tu su nam es ke?
-6. mi su nam es ........... 
+5. tu se nam es ke?
+6. mi se nam es ........... 
 
 
 --------------------------------------------------------------------------------
@@ -277,7 +277,7 @@ pomo, päällikkö
 **cin pa, mi mus ga a zai.**
 = Isoisä, Minun täytyy lähteä nyt.  
 <big>☺</big>
-**oke. ching sal tu su mama!**
+**oke. ching sal tu se mama!**
 = OK. Kerro terveisiä äidillesi!  
 <big>☻</big>
 **mi sal da. sal reste!**
@@ -756,11 +756,11 @@ Esimerkiksi kun on päivä ja puhe on aamiaisesta, lause viittaa luonnollisesti 
 Mennyttä, nykyistä ja tulevaa tarkoittavat määresanat ovat **pas, zai**
 ja **sha**. Niitä voi käyttää substantiivien määrittämiseen.
 
-**Sara es mi su pas shefe.**
+**Sara es mi se pas shefe.**
 = Sara on minun entinen pomo.  
-**Yusef es mi su zai shefe.**
+**Yusef es mi se zai shefe.**
 = Yusef on minun nykyinen pomo  
-**Maria es mi su sha shefe.**
+**Maria es mi se sha shefe.**
 = Maria on minun tuleva pomo.
 
 Samoja sanoja käytetään myös kun puhutaan teoista ja tapahtumista
@@ -839,10 +839,10 @@ maito
 
 ### Harjoitusten vastaukset
 
-1. mi su shefe festa a sha.
+1. mi se shefe festa a sha.
 2. mi haf du vaf a pas.
 3. tu yam supe a zai.
 4. da saf kamar a preden.
 5. mau yam milke a posden.
-6. tu su ma festa a prenoce.
+6. tu se ma festa a prenoce.
 

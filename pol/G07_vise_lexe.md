@@ -7,23 +7,23 @@ Zaimki mogą zastępować słowa-rzeczy i wyrażenia-rzeczy.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mi**      | **mimen**    |
+| **mi**      | **vi**       |
 | ja, mnie    | my           |
-| **tu**      | **tumen**    |
+| **tu**      | **yu**       |
 | ty, ciebie  | wy           |
-| **da**      | **damen**    |
+| **da**      | **di**       |
 | on, ona, ono| oni, one     |
   
  
 
-**se**
+**selfe**
 – się, siebie
 
-**mi visi se.**
+**mi vize selfe.**
 – Widzę się.  
-**da visi se.**
+**da vize selfe.**
 – Widzi się.  
-**mimen visi se.**
+**vi vize selfe.**
 – Widzimy się.
 
 
@@ -31,39 +31,39 @@ Zaimki mogą zastępować słowa-rzeczy i wyrażenia-rzeczy.
 
 Zaimki wskazujące to:
 
-**ye**
+**da hir**
 – ten  
-**vo**
+**da der**
 – tamten
 
-**ye mau**
+**da hir mau**
 – Ten kot  
-**vo mau.**
+**da der mau.**
 – Tamten kot
 
-**mi vol ye.**
+**mi vol da hir.**
 – Chcę ten.  
-**mi vol ye mau.**
+**mi vol da hir mau.**
 – Chcę tego kota.
 
 
 ## Zaimki pytające
 
-**ke**
+**kua**
 jest zaimkiem pytającym ogólnego zastosowania.
 Załatwia robotę polskich _kto_ i _co_.
 
-**ke?**
+**kua?**
 – Kto lub co?
 
 Przymiotnikowy zaimek pytający to **ke** i znaczy tyle, co polskie _jaki_.
 
-**ke she?**
+**kua ting?**
 – Co? (Jaka rzecz?)  
-**ke jen?**
+**kua von?**
 – Kto? (Jaka osoba?)  
-**ke zaman?**
+**kua tem?**
 – Kiedy? (Jaki czas?)  
-**ke mode?**
+**kua vei?**
 – Jak? (Jaki sposób?)
 
