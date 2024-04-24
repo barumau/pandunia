@@ -58,7 +58,7 @@ The marker
 It is also possible to express the future in the past
 with a combination of two tense markers.
 
-**man** ***pas vil*** **yam ban.**
+**man** ***did vil*** **yam ban.**
 – The man *was going to* eat bread.
 
 
@@ -167,22 +167,36 @@ They always take an object.
 
 The preposition
 **a**
-denotes a destination, goal or purpose, 'to, toward, for'.
+expresses general location in time or space, 'at, in, on'.
 
-**di marche a bazar.**
-– They walk to the market.  
-**mi van don ye buke a tu.**
-– I want to give this book to you.
+**vi marche a dau.**
+– We walk on the road.  
+**mau side a meza.**
+– A cat sits on the table.  
+**mi mus sta long a labur.**
+– I must stay long at work.
 
-
-#### de
+#### to
 
 The preposition
-**de**
-denotes separation or departure, 'off, away from, from'.
+**to**
+denotes a destination, goal or purpose, 'to, toward, for'.
 
-**di kom de Brazil.**
-– They come from Brazil.
+**di marche to bazar.**
+– They walk to the market.  
+**mi van don da hir buke to yu.**
+– I want to give this book to you.
+
+#### of
+
+The preposition
+**of**
+expresses separation or origin, 'of, off, from'.
+
+**di kom of Brazil.**
+– They come from Brazil.  
+**da lexe** ***kitabe*** **es of arabe asle.**
+– This word *kitabe* is of Arabic origin.
 
 #### ex
 

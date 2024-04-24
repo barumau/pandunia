@@ -517,7 +517,7 @@ A basic sequence is that of `agent > instrument > patient`.
 **da jete da bol dape da dike.**
 – He throws the ball to hit the target.  
 **mi shofe da karo kom da site.**
-– He drives the car to enter the city.
+– I drive the car to enter the city.
 
 Another common sequence is that of `causer > agent > patient`.
 In such sequences the first verb typically indicates a modality such as desire, permission or obligation,
@@ -796,9 +796,9 @@ In Pandunia they use the word
 The question word may be moved to the front of the sentence for emphasis.
 However, unlike in English, the word order may also be unchanged.
 
-**kua tu zai yam?**
+**kua tu yam?**
 – What are you eating?  
-**tu zai yam kua?**
+**tu yam kua?**
 – You are eating what?  
 **da kom a kua tem?**
 – When does he arrive?  
@@ -827,21 +827,21 @@ It is also possible to leave
 out.
 This structure is called _reduced relative clause_.
 
-**da buke, da jen fa kitabe, pada.**
+**da buke, da jen kitabe, pada.**
 – The book the person writes falls.
 
 The relative pronoun is necessary
 when the relativized noun is the subject of the relative clause.
 
-**da jen, ki fa kitabe da buke, pada.**
+**da jen, ki kitabe da buke, pada.**
 – The person that writes the book falls.
 
 Also the object noun of a preposition can be the target of the relative clause.
 It's possible to use relative pronouns or the reduced relative clause structure.
 
-**da kalam, a ki da jen fa kitabe da buke, pada.**
+**da kalam, a ki da jen kitabe da buke, pada.**
 – The pen, with _which_ the person writes the book, falls.  
-**da kalam, da jen fa kitabe da buke a, pada.**
+**da kalam, da jen kitabe da buke a, pada.**
 – The pen the person writes the book with falls.
 
 The relative pronoun can be put in its right place in the pivot structure
@@ -862,11 +862,11 @@ Also a _resumptive relative pronoun_ can be used if needed.
 
 A content clause is a subordinate clause that provides content that is commented or referred to by its main clause.
 In Pandunia they are typically introduced with the conjunction
-**ki**.
+**ke**.
 
-**mi nou ki tu es frende.**
+**mi nou ke tu es frende.**
 – I know that you are a friend.  
-**di fikre ki vi haf chute.**
+**di fikre ke vi haf chute.**
 – They think that we have left.
 
 A content clause can be placed before or after the clause that talks about it.
@@ -876,18 +876,18 @@ points to the following content clause and
 **da**
 points to the previous one.
 
-**vo es bari, ki mi no haf vize di.**
+**vo es bari, ke mi no haf vize di.**
 – _It_ is important _that I haven't seen them_.  
-**ki pan jen be sana ka par, da es klar.**
+**ke pan jen be sana ka par, da es klar.**
 – _That all people are created as equals_; _it_ is clear.
 
 The content clause marker
-**ki**
+**ke**
 can be combined to the prepositions in order to construct conjunctions of cause and purpose.
 
-**to ki**
+**to ke**
 – so that, in order that, with the result that  
-**de ki**
+**of ke**
 – because, for the reason that
 
 **mi dugu ye buke _to ki_ mi trapas da teste.**
@@ -1023,9 +1023,9 @@ The modifier particles are useful for creating complex adjectives that consists 
 
 Or in the opposite order:
 
-**labi de rode rang**
+**labi of rode rang**
 – lips of the rose-color  
-**yen de sama rang**
+**yen of sama rang**
 – eyes of the sky-color
 
 The particles help in creating measure words too.
@@ -1042,7 +1042,7 @@ So a modifier phrase with and without **de** can mean a different thing.
 
 **mas mei hua**
 – more beautiful flowers  
-**mas de mei hua**
+**mas of mei hua**
 – more of beautiful flowers
 
 #### Modification with verb phrases
@@ -1050,7 +1050,7 @@ So a modifier phrase with and without **de** can mean a different thing.
 Verbs are turned into modifiers by placing **de** or **li** immediately next to the verb.
 Verb phrases can also be made into modifiers in this way, but any objects must be moved to before the verb.
 
-**shute de grafe pente**
+**shute of grafe pente**
 – the art of picture-painting (the art of painting pictures)  
 **ale se mede se suka**
 – the joy of others-helping (the joy of helping others)
@@ -1081,38 +1081,6 @@ The same particle is used with with personal pronouns too.
 – your house  
 **di se haus**
 – their house
-
-
-### Tense and Aspect Particles
-
-In Pandunia, tense can be expressed with time words and time phrases if needed.
-The general time words are **pas** (past), **zai** (present) and **xa** (future, upcoming).
-They function like adverbs, so typically their place is before the verb.
-
-**mi did have mau.**
-– I had cats.  
-**ama mi no zai have mau.**
-– But I now don't have cats.  
-**bil ki mi sha have mau.**
-– Maybe I will have cats.
-
-It's also possible to say it in a longer way like **na did zaman** (in the past) etc.
-
-**mi have mau a did zaman.**
-– I had cats in the past.  
-**ama mi no have mau a zai zaman.**
-– But I don't have cats at present.  
-**bil ki mi have mau a sha zaman.**
-– Maybe I will have cats in the future.
-
-Note! Verbs are not conjugated.
-So the verb
-**ha**
-stayed the same in all tenses in the examples above.
-
-Naturally time words are used only when they are necessary.
-Usually it is enough to mention the time just once at the beginning of the text
-and not in every single sentence, if the tense doesn't change.
 
 
 ### Sentence-ending particles
@@ -1169,7 +1137,7 @@ is used to introduce a statement.
 It can fill a pause, particularly at the beginning of a response to a question.
 It can also introduce a statement that may be contrary to expectations.
 
-**tu kitabe da, he? – na, no le.**
+**tu kitabe da, he? – na, no haf.**
 – Did you write it? – Well, not yet.  
 **da hau, ne? – na, ya.**
 – It's good, isn't it? – Well, yes.

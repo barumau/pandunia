@@ -766,7 +766,7 @@ Of course,
 can also be used to express the cause or reason for something,
 even when not answering to a question.
 
-**mi suka mau de sababe di es kavai**
+**mi suka mau of sababe di es kavai**
 = I like cats because they are cute.
 
 ### Exercises
@@ -805,7 +805,7 @@ period of time
 3. kua tem da kom?
 4. pos des minute.
 5. kua sababe da no yam?
-6. de sababe da no suka kafe e supe.
+6. of sababe da no suka kafe e supe.
 
 
 --------------------------------------------------------------------------------

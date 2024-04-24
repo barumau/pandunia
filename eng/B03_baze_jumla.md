@@ -789,7 +789,7 @@ Tip: To make direct requests, drop all the pronouns.
 **"mau" ya sema kua?**
 – What does "mau" mean?
 
-**da sema un yang de hevan.**
+**da sema un sorte of hevan.**
 – It means a kind of animal.
 
 **mi no aha da sema kua.**
@@ -878,7 +878,7 @@ Tip: To make direct requests, drop all the pronouns.
 **sual tu safar a tren?**
 – Do you travel by train?
 
-**vi safar de London to Paris.**
+**vi safar of London to Paris.**
 – We travel from London to Paris.
 
 **safar es dai long.**
@@ -1030,7 +1030,7 @@ as a preposition or alone as the verb.
 **plis sepe un kafe to mi.**
 – Please take one coffee for me.
 
-**tu did sepe pesa de mi.**
+**tu did sepe pesa of mi.**
 – You already got money from me before.
 
 **mi sepe un bir.**
