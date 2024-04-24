@@ -55,15 +55,20 @@ _whose_.
 ### (6) Numerals
 
 The cardinal numbers are:  
-0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **nelu**, 5 **lima**, 6 **luka**,
-7 **cheti**, 8 **bati**, 9 **tisa**, 10 **des**.  
-Greater than ten: 11 **des un**, 12 **des du**, 13 **des tri**, etc.  
-Tens: 20 **du des**, 30 **tri des**, 40 **nelu des**, etc.  
-Hundreds: 100 **un sento**, 200 **du sento**, 300 **tri sento**, etc.  
-Thousands: 1000 **un kilo**, 2000 **du kilo**, 3000 **tri kilo**, etc.
+0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **for**, 5 **faif**, 6 **sixe**,
+7 **seven**, 8 **eite**, 9 **nain**, 10 **ten**.  
+Greater than ten: 11 **ten un**, 12 **ten du**, 13 **ten tri**, etc.  
+Tens: 20 **du ten**, 30 **tri ten**, 40 **for ten**, etc.  
+Hundreds: 100 **un hunde**, 200 **du hunde**, 300 **tri hunde**, etc.  
+Thousands: 1000 **un tauzen**, 2000 **du tauzen**, 3000 **tri tauzen**, etc.
 
-The ordinal numbers use the suffix **me**:  
-**un me** (first), **du me** (second), **tri me** (third), etc.
+When a number is put after the noun, it becomes the corresponding ordinal number:  
+**parte un**
+– part one, the first part  
+**parte du**
+– part two, the second part  
+**parte tri**
+– part three, the third part
 
 
 ### (7) Modifiers
@@ -72,9 +77,9 @@ The adjective and the adverb have the same form.
 The adjective modifier is before the noun that it modifies,
 and the adverb modifier is before the verb that it modifies.
 
-**un suga loga**
+**un rapide loga**
 – A fast speech.  
-**tu suga loga.**
+**tu rapide loga.**
 – You speak fast.
 
 
@@ -101,11 +106,11 @@ The same order is used in declarations and questions.
 A passive sentence is created with the help of the passive auxiliary verb
 **be**.
 A similar effect can be also reached with the impersonal pronoun
-**men**.
+**von**.
 
 **pandunia be loga.**
 – Pandunia is spoken.  
-**men loga pandunia.**
+**von loga pandunia.**
 – One speaks Pandunia.
 
 In the _pivot structure_, the object of the transitive verb functions as the subject of the following verb.  
