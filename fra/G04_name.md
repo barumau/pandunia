@@ -4,7 +4,9 @@
 ## Invariabilité
 
 Un substantif ou nom est un mot qui sert à nommer une chose.
-Comme tous les mots en pandunia, les noms sont invariables : ils ne sont pas affectés par le nombre et le genre. Donc la même forme sert pour le singulier et le pluriel, le masculin ou le féminin, le caractère défini ou indéfini, etc.
+Comme tous les mots en pandunia, les noms sont invariables :
+ils ne sont pas affectés par le nombre et le genre.
+Donc la même forme sert pour le singulier et le pluriel, le masculin ou le féminin, le caractère défini ou indéfini, etc.
 
 **haus**
 – un maison, du maisons, le maison ou les maisons  

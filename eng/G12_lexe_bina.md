@@ -635,6 +635,14 @@ The suffix *-ete* indicates essentially the same thing as the base word but in a
 The suffix *-ia* has a variety of meanings,
 but fundamentally it means a collective of things or a community of people.
 
+**nese**
+'island'
+→ **nesia**
+'archipelago'  
+**lexe**
+'word'
+→ **lexia**
+'vocabulary'  
 **homan**
 'human being'
 → **homania**
@@ -763,19 +771,6 @@ The form **-tion** is used when the base word ends in a vowel other than *-e*.
 → **rotation**
 'turning, rotation'
 
-#### -iste ~ -tiste
-
-The suffix **-iste** means a person who tends to behave or think in a certain way or an adherent of an ideology or a religion.
-
-**alkol**
-'alcohol'
-→ **alkoliste**
-'alcoholic, alcoholist'  
-**dee**
-'god'
-→ **deiste**
-'theist, one who believes in existence of a god or gods'
-
 #### -isme ~ -tisme
 
 The suffix **-isme** means an ideology, a way of thinking or a way of life.
@@ -792,6 +787,19 @@ The suffix **-isme** means an ideology, a way of thinking or a way of life.
 'active'
 → **ativisme**
 'activism'
+
+#### -iste ~ -tiste
+
+The suffix **-iste** means a person who tends to behave or think in a certain way or an adherent of an ideology or a religion.
+
+**alkol**
+'alcohol'
+→ **alkoliste**
+'alcoholic, alcoholist'  
+**dee**
+'god'
+→ **deiste**
+'theist, one who believes in existence of a god or gods'
 
 #### -ita ~ -ta
 

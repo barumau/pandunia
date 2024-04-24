@@ -19,7 +19,11 @@ Therefore the same Pandunia word form can correspond to many different word form
 – water, the water
 
 Number and definiteness are often known because they were previously mentioned in the conversation or because they are general knowledge.
-For example, normally the word **sol** refers to _the sun_ and **lun** refers to _the moon_, our only sun and moon.
+For example, normally the word
+**sol**
+refers to _the sun_ and
+**lun**
+refers to _the moon_, our only sun and moon.
 
 
 ## Indicating number

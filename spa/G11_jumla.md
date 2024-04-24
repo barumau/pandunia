@@ -1,15 +1,6 @@
 
 # 9. Oraciones
 
-## Observaciones
-
-Observaciones son las oraciones más sencillas.
-Pueden consistir en solo una palabra, que llama la atención del oyente.
-
-**mau!**
-– ¡Un gato!  
-**barsha!**
-– ¡Llueve!
 
 ## Oraciones de estado
 
@@ -20,7 +11,7 @@ En las oraciones más sencillas, el sujeto es un pronombre y el predicado es un 
 
 **mi hau.**
 – Yo estoy bien.  
-**da neu.**
+**da nove.**
 – Ello es nuevo.  
 **da Sara.**
 – Ella es Sara.
@@ -28,11 +19,11 @@ En las oraciones más sencillas, el sujeto es un pronombre y el predicado es un 
 Cuando el sujeto es un sustantivo, el verbo de conexión **es** («ser», «estar») es necesario.
 
 
-**Sara e hau.**
+**Sara es hau.**
 – Sara está bien.  
-**ite e dai.**
+**roka es dai.**
 – Rocas son grandes.  
-**meza e neu.**
+**meza es nove.**
 – La mesa es nueva.
 
 La palabra **no** se añade para formar el negativo.
@@ -40,22 +31,22 @@ Entonces el verbo **es** no es necesario.
 
 | Positivo         | Negativo           |
 |------------------|--------------------|
-| **mi (e) hau.**  | **mi no hau.**     |
+| **mi (es) hau.**  | **mi no (es) hau.**     |
 | Yo estoy bien.   | Yo no estoy bien.  |
-| **da (e) neu.**  | **da no neu.**     |
+| **da (es) nove.**  | **da no (es) nove.**     |
 | Ello es nuevo.   | Ello no es nuevo.  |
-| **da (e) Sara.** | **da no Sara.**    |
+| **da (es) Sara.** | **da no (es) Sara.**    |
 | Ella es Sara.    | Ella no es Sara.   |
-| **Sara e hau.**  | **Sara no hau.**   |
+| **Sara es hau.**  | **Sara no hau.**   |
 | Sara está bien.  | Sara no está bien. |
 
 
 Dos pronombres personales también se pueden combinar con
-**e**.
+**es**.
 
-**mi e da.**
+**mi es da.**
 – Yo soy ello.  
-**mi no (e) tu.**
+**mi no (es) tu.**
 – Yo no soy tú.
 
 
@@ -63,11 +54,11 @@ Dos pronombres personales también se pueden combinar con
 
 La misma regla aplica para dos adjetivos, o un verbo y un adjetivo.
 
-**jun e mei.**
+**yun es mei.**
 – Joven e lindo.  
-**neu no lau.**
+**nove no lau.**
 – Nuevo no e viejo.  
-**gani e hau.**
+**gani es hau.**
 – Cantar es bueno.
 
 
@@ -78,28 +69,11 @@ Estes siguen el predicado.
 
 **mi marche.**
 – Yo camino.  
-**tu yam yo aple.**
+**tu yam aple.**
 – Tú comes manzana.  
-**mimen done da yo pesa.**
+**vi don som mone to da.**
 – Nosotros le damos algo dinero.
 
-Tal vez, el sujeto de una oración puede ser el objeto de otra.
-
-**la fuku ya gan.**
-– La ropa se seca.  
-**sol fa fuku gan.**
-– El sol seca la ropa.
-
-Para clarificar el orden o para añadir otros objetos, los verbos auxiliares **fa** y **be** se utilizan.
-**fa** indica que el sujeto es el agento o hacedor de la acción,
-y **be** indica que el sujeto es el paciente o recibirador.
-
-**mi fa sal mi su frende.**
-– Yo saludo a mi amiga.  
-**mi be sal mi su frende.**
-– Yo soy saludada por mi amiga.  
-**pa fa mi sal mi su frende.**
-– Mi papá me hace saludar a mi amiga.
 
 
 ## Estructura de eje
@@ -112,18 +86,18 @@ subjeto – verbo 1 – objeto 1 – verbo 2 – objeto 2.
 Objeto 1 tiene dos papeles.
 Es al mismo tiempo el objeto del verbo 1 y el sujeto del verbo 2.
 
-**mi vol tu yam yo fito.**
+**mi van tu yam som vege.**
 – Yo quiero que tú comes verduras.
 
 En el ejemplo arriba,
-**mi vol**
+**mi van**
 tiene
 **tu**
 como su objeto.
 Al mismo tiempo,
 **tu**
 funciona como el sujeto del predicado siguiente,
-**yam yo fito**.
+**yam som vege**.
 Entonces
 **tu**
 es el _eje_ de la oración entera.
@@ -132,17 +106,17 @@ El verbo segundo en una estructura de eje es el verbo principal.
 El verbo primero es un verbo modal,
 que indica una modalidad como desero, permiso, o obligación.
 
-**mi vol tu yam fito.**
+**mi van tu yam vege.**
 – Quiero que tú comes verduras. (desero)  
-**mi sel tu yam fito.**
+**mi sele tu yam vege.**
 – Aconsejo que tú comes verduras. (consejo)  
-**mi halal tu yam fito.**
+**mi halal tu yam vege.**
 – Permito a tú comer verduras. (permiso)  
-**mi bil tu yam fito.**
+**mi bil tu yam vege.**
 – Posibilito a tú comer verduras. (habilidad)  
-**mi mus tu yam fito.**
+**mi mus tu yam vege.**
 – Obligo a tú a comer verduras. (obligación)  
-**mi rai tu yam fito.**
+**mi rai tu yam vege.**
 – Opina que tú comes verduras. (opinión)
 
 
@@ -151,26 +125,26 @@ que indica una modalidad como desero, permiso, o obligación.
 Puede haber dos, tres, o incluso más verbos en una serie,
 y todos tienen el mismo sujeto.
  
-1. **mi ga to dom.**
+1. **mi go a haus.**
    – Me voy a casa.  
-2. **mi bil ga to dom.**
+2. **mi ken go a haus.**
    – Me puede ir a casa.  
-3. **mi vol bil ga to dom.**
+3. **mi van ken go a haus.**
    – Me quiero poder ir a casa.
    (Palabra por palabra: _Yo querer poder irse a casa_!)
 
 El verbo último en la serie es el verbo principal.
 Los verbos que lo predece son verbos modales.
 
-**tu vol yam yo fito.**
+**tu van yam som vege.**
 – Tú quieres comer verduras. (desero)  
-**tu sel yam yo fito.**
+**tu sele yam som vege.**
 – Tú debes comer verduras. (consejo)  
-**tu halal yam yo fito.**
+**tu halal yam som vege.**
 – Tú puede comer verduras. (permiso)  
-**tu bil yam yo fito.**
+**tu ken yam som vege.**
 – Tú puede comer verduras. (habilidad)  
-**tu mus yam yo fito.**
+**tu mus yam som vege.**
 – Tú tienes que comer verduras. (obligación)
 
 ## Omitir pronombres
@@ -180,16 +154,16 @@ Esto es común especialmente en mandatos y pedidos.
 
 ### Estructura de eje corta (VOVO)
 
-**mi amir tu kai la mun.**
+**mi amir tu kai da mun.**
 – Yo te mando que abres la puerta.  
-**amir tu kai la mun.**
+**amir tu kai da mun.**
 – ¡Abre la puerta!
 
 ### Estructura de eje corta (VVO)
 
-**mi plis tu lai to dom.**
+**mi plis tu kom to haus.**
 – Yo te pido que vienes a casa.  
-**plis lai to dom!**
+**plis kom to haus!**
 – ¡Por favor viene a casa!
 (Palabra por palabra: _¡Pedir venir a casa!_)
 
@@ -226,7 +200,7 @@ con la structura de _A-no-A_.
 
 **tu yam no yam un piza?**
 – Tú comes o no comes una pizza?  
-**tu bil no bil yam un piza?**
+**tu ken no ken yam un piza?**
 – Tú puedes o no puedes comer una pizza?
 
 Finalmente, puede enfatiza la pregunta usando **sual**.
@@ -242,11 +216,11 @@ Preguntas de sí o no se responden con
 **no**
 («no»).
 
-**tu visi mi, he?**
+**tu vize mi, he?**
 – ¿Tú me ves?  
-**ya. (mi ya visi tu.)**
+**ya. (mi ya vize tu.)**
 – Sí. (Yo _sí_ te veo.)  
-**no. (mi no visi tu.)**
+**no. (mi no vize tu.)**
 – No. (Yo _no_ te veo.)
 
 Preguntas negativas se responden para
@@ -255,11 +229,11 @@ y
 **no**
 aplican al verbo principal, no la pregunta entera.
 
-**tu no visi mi, he?**
+**tu no vize mi, he?**
 – ¿No me ves?  
-**ya. (mi visi tu.)**
+**ya. (mi vize tu.)**
 – Sí. (Te veo.)  
-**no. (mi no visi tu.)**
+**no. (mi no vize tu.)**
 – No. (No te veo.)
 
 
@@ -282,21 +256,22 @@ La pregunta se repuesta por repetir el alternativo elegido.
 ## Preguntas abiertas
 
 Preguntas abiertas piden más información.
-En Pandunia se usan la palabra **ke**.
+En Pandunia se usan la palabra
+**kua**.
 
-**piza es ke?**
+**piza es kua?**
 – ¿Qué es pizza?
 
 La palabra de pregunta se puede mover al inicio de la oración para enfasís.
 Sin embargo, a diferencia de español, el orden de las palabras también se puede dejar en paz
 
-**ke tu zai yam?**
+**kua tu yam?**
 – ¿Qué estás comiendo?  
-**tu zai yam ke?**
+**tu yam kua?**
 – ¿Estás comiendo qué?  
-**da lai a ke zaman?**
+**da kom a kua tem?**
 – ¿Cuándo llega?  
-**tumen vizite a ke jen su dom?**
+**yu vizite a kua jen se haus?**
 – ¿La casa de quién ustedes visitaron?
 
 
@@ -307,46 +282,47 @@ Por ejemplo, la frase «la persona que vive alla» contiene el sustantivo _perso
 que es modificado por la cláusula relativa _que vive alla_.
 
 Hay maneras diferentes para construir una cláusula relativa en Pandunia.
-El pronombre relativo en Pandunia es **jo**
+El pronombre relativo en Pandunia es
+**ki**
 y corresponde a español _que_ o _el cual_.
 
 En Pandunia, cláusulas relativas siempre son separadadas por comas.
 
-**la buku, ki la jen fa kitaba, pada.**
+**da buke, ki da jen kitabe, pada.**
 – El libro, que la persona escribe, cae.
 
 Es posible omitir
 **ki**.
 Esta estructura se llama _cláusula relativa reducida_.
 
-**la buku, la jen fa kitabi, pada.**
+**da buke, da jen kitabe, pada.**
 – El libro, que la persona escribe, cae.
 
 El pronombre relative es necesario
 cuando el sustantivo relativizado es el sujeto de la cláusula relativa.
 
-**la jen, ki fa kitabi la buku, pada.**
+**da jen, ki kitabe da buke, pada.**
 – La persona, que escribe el libro, cae.
 
 En adición el objeto de una preposición puede ser la cabeza de la cláusula relativa.
 Es posible usar pronombres relativas o la estructura de cláusula relativa reducida.
 
-**la kalam, a ki la jen fa kitabi la buku, pada.**
+**da kalam, a ki da jen kitabe da buke, pada.**
 – La pluma, con que la persona escribe el libro, cae.  
-**la kalam, la jen fa kitabi la buku a, pada.**
+**da kalam, da jen kitabe da buke a, pada.**
 – La pluma, con que la persona escribe el libro, cae.
 
 El pronombre relativo puede ponerse en su lugar correcto en la estructura de eje
 o puede omitirse usando la estructura de cláusula relativa reducida.
 
-**la jen, mi visi ki fa kitabi la buku, pada.**
+**da jen, mi vize ki kitabe da buke, pada.**
 – La persona, que veo escribir el libro, cae.
-**la jen, mi visi fa kitabi la buku, pada.**
+**da jen, mi vize kitabe da buke, pada.**
 – La persona, que veo escribir el libro, cae.
 
 En adición _pronombre relativo resumivo_ se puede utilizar si es necesario.
 
-**la jen, mi fa kitabi la buku na ki su kalam, padu.**
+**da jen, mi kitabe da buke a ki se kalam, pada.**
 – La persona, con cuya pluma escribo el libro, cae.
 
 
@@ -354,14 +330,14 @@ En adición _pronombre relativo resumivo_ se puede utilizar si es necesario.
 
 Una cláusula de contenido puede ponerse antes o despues de la cláusula que habla sobre ella.
 El demostrativo
-**vo**
+**da der**
 indica la frase siguiente, y
-**la**
+**da**
 indica la previa.
 
-**vo e bari, ki mi le no visi damen.**
+**da der es bari, ke mi haf no vize di.**
 – Lo siguiente es importante: resulta que no los veo.  
-**ki pan jen be sana ka par, la e klar.**
+**ke pan jen es sim, da es klar.**
 – Todas las personas son iguales; este hecho es claro.
 
 --------------------------------------------------------------------------------
@@ -370,7 +346,7 @@ indica la previa.
 
 ### Conjunciones básicas
 
-**i**
+**e**
 – y (conecta dos palabras o frases similares)  
 **o**
 – o (conecta dos palabras o frases alternativas)  
@@ -378,10 +354,20 @@ indica la previa.
 – pero (introduce una palabra o frase que contrasta o
 contradice con la palabra o frase previa)
 
-**mi suka mau i vaf.**
+**mi suka mau e vaf.**
 – Me gustan los gatos y los perros.  
 **mi suka mau o vaf.**
 – Me gustan los gatos o los perros.  
 **mi suka mau ama no vaf.**
 – Me gustan los gatos pero no los perros.
+
+## Observaciones
+
+Observaciones son las oraciones más sencillas.
+Pueden consistir en solo una palabra, que llama la atención del oyente.
+
+**mau!**
+– ¡Un gato!  
+**barsha!**
+– ¡Llueve!
 

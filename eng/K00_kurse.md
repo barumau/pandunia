@@ -238,7 +238,6 @@ to address people by name, kinship term or profession.
 – Hello, chief!
 
 
-
 ### Exercises
 
 Try translating these sentences from English to Pandunia. The correct
@@ -248,6 +247,7 @@ answers are after the word list.
 2. Mother greets father.
 3. Hello, mother!
 4. Goodbye!
+
 
 ### Word List
 
@@ -486,7 +486,7 @@ some, a(n)
 **mi no basha pandunia...**
 = I don't speak Pandunia...  
 <big>☺</big>
-**maf! sual da yam cha?**
+**perdon! sual da yam cha?**
 = Pardon! Will he have tea?  
 <big>☻</big>
 **no. da no yam cha. da yam kafe.**
@@ -504,7 +504,7 @@ some, a(n)
 **no yam.**
 = No.  
 <big>☺</big>
-**tanke. mi don un cha e un kafe e un supe pos des minute.**
+**tanke. mi don un cha e un kafe e un supe pos ten minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -597,26 +597,26 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**pos**
-after  
-**maf**
-pardon, sorry  
+**bashe**
+speak a language  
 **minute**
 minute  
-**basha**
-speak a language  
 **ne**
 sentence-ending tag for asking the other's point of view  
+**perdon**
+pardon, sorry  
+**pos**
+after  
+**sual**
+to ask a question  
 **sui**
 water  
 **supe**
 soup  
+**ten**
+ten  
 **un**
 one (1)  
-**des**
-ten  
-**sual**
-to ask a question  
 **ya**
 yes
 
@@ -696,22 +696,22 @@ is more than one correct answer.
 
 ### Word List
 
-**kupa**
-cup, glass, mug  
+**ama**
+but  
+**du**
+two  
 **hali**
 empty  
 **have**
 to have  
+**kupa**
+cup, glass, mug  
 **mau**
 cat  
 **vaf**
 dog  
-**du**
-two  
 **siro**
-zero  
-**ama**
-but
+zero
 
 
 ### Answers to the Exercises
@@ -858,15 +858,6 @@ Simply put the word before the verb.
 **mi vil bate da.**
 = I will hit it (in the future).
 
-It's also possible to use preposition phrases of time.
-
-**mi bate da a pas.**
-= I hit it in the past.  
-**mi bate da a zai.**
-= I hit it at present.  
-**mi bate da a vil.**
-= I hit it in the future.
-
 
 It is not necessary to repeat the time expressions all the time.
 It would be awkward.
@@ -926,10 +917,10 @@ milk
 
 ### Answers to the Exercises
 
-1. mi se shefe festa a vil.
-2. mi have du vaf a did.
+1. mi se shefe feste a vil.
+2. mi have du vaf a pas.
 3. tu yam supe a zai.
 4. da safi kamar a preden.
 5. mau yam milke a posden.
-6. tu se ma festa a prenoce.
+6. tu se ma feste a prenoce.
 

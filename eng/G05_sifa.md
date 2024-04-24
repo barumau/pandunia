@@ -25,7 +25,7 @@ In Pandunia, "adjectives" are modifiers that are placed before the noun that the
 
 **un _nove_ karo**
 – a _new_ car  
-**un _suga_ karo**
+**un _rapide_ karo**
 – a _fast_ car  
 **meni _dai_ meza**
 – _big_ tables  
@@ -45,7 +45,7 @@ Two or more modifiers can modify the same noun.
 A modifier that modifies a verb
 is placed immediately before the verb.
 
-**tu _suga_ loga.**
+**tu _rapide_ loga.**
 – You talk _fast_.  
 **di jen _hau_ kitabe.**
 – They write _well_.
@@ -57,7 +57,7 @@ It makes the structure of the verb phrase clearer.
 
 **tu _mei li_ kitabe.**
 – You write _beautifully_.  
-**di _suga li_ marche.**
+**di _rapide li_ marche.**
 – They walk _fast_.
 
 

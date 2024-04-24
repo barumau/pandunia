@@ -132,7 +132,7 @@ La manera más largo usa la pauta
 #### Días de la semana
 
 Días de la semana inclusan la palabra
-**den**
+**dei**
 («día de la semana»).
 
 1. **lunadei**

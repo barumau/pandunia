@@ -52,14 +52,14 @@ Palabras de contenido pueden clasificarse en las clases siguientes:
 
 Sin embargo, la clase de una palabra de contenido casi nunca es permanente.
 Una palabra como
-**visi**
+**vize**
 puede funciona como un verbo, sustantivo, o adjetivo
 dependiendo de su posición en la oración.
 
-**mi _visi_ tu.**
+**mi _vize_ tu.**
 – Te _veo_. (verbo)  
-**tu ha hau visi.**
+**tu have hau vize.**
 – Tienes buena _visión_. (sustantivo)  
-**mi stude la _visi_ arti.**
+**mi stude da _vise_ arte.**
 – Estudio las artes _visuales_. (adjectivo)
 

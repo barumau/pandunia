@@ -13,22 +13,22 @@
 **sal!**
 – ¡Buenos!  
 <big>☺</big>
-**tu e ke?**
+**tu es kua?**
 – ¿Quién es usted?  
 <big>☻</big>
-**mi e Yusef. tu e ke?**
+**mi es Yusef. tu es kua?**
 – Yo soy Yusef. ¿Quién es usted?  
 <big>☺</big>
-**mi e Sara. da e ke?**
+**mi es Sara. da es kua?**
 Yo soy Sara. ¿Quién es?  
 <big>☻</big>
-**da e mi su dosti.**
+**da es mi se frende.**
 – Es una amiga mia.  
 <big>☺</big>
-**da su nam e ke?**
+**da se nam es kua?**
 – ¿Cómo se llama?  
 <big>☻</big>
-**da su nam e Maria.**
+**da se nam es Maria.**
 – Su nombre es Maria.
 
 ### Gramatica
@@ -37,11 +37,11 @@ Frases de Pandunia normalmente sigue la estructura tema-comentario.
 El tema indica quién o qué se está hablando.
 El comentario dice algo sobre el tema.
 Por ejemplo, en
-**da e mi su dosti**
+**da es mi se frende**
 el tema es el pronombre
 **da**
 (él, ella, ello), que es seguido por el comentario
-**es mi su dosti**
+**es mi se frende**
 (es amigo mío).
 
 
@@ -49,13 +49,13 @@ Del mismo modo puede describirse diciendo
 **mi es**
 seguida por una palabra que lo describa.
 
-**mi e hau.**
+**mi es hau.**
 - Yo soy bueno.  
-**mi e man.**
+**mi es man.**
 - Soy un hombre.  
-**mi e fem.**
+**mi es fem.**
 - Soy una mujer.  
-**mi e nobi.**
+**mi es nobi.**
 - No soy binario.
 
 
@@ -75,25 +75,25 @@ Intenta traducir estas frases de Español a Pandunia.
 
 **mi**
 yo  
-**mi su**
+**mi se**
 mi  
 **tu**
 tú, usted
-**tu su**
+**tu se**
 tu  
 **da**
 él, ella, ello  
-**da su**
+**da se**
 su  
-**ke**
+**kua**
 quién? qué?  
-**e**
+**es**
 ser  
 **no**
 no  
 **hau**
 bueno  
-**dosti**
+**frende**
 amigo, amiga  
 **nam**
 nombre  
@@ -110,12 +110,12 @@ animal
 
 ### Respuestas
 
-1. tu e ke?
-2. mi e Tomas.
-3. tu su dosti e ke?
-4. da e Sara.
-5. tu su nam e ke?
-6. mi su nam e ........... 
+1. tu es kua?
+2. mi es Tomas.
+3. tu se frende es kua?
+4. da es Sara.
+5. tu se nam es kua?
+6. mi se nam es ........... 
 
 
 ---------------------------------------------------------------------
@@ -134,7 +134,9 @@ Es usado para decir tanto hola como adiós o chao.
 **sal**
 – ¡Adiós!
 
-La palabra **sal** significa saludo.
+La palabra
+**sal**
+significa saludo.
 (El origen de esta palabra es del árabe “salām” et del francese "salut".
 Pandunia es una lengua planificada multicultural.
 Por eso en Pandunia es común encontrar que una sola palabra tenga origenes de diferentes idiomas.) 
@@ -179,7 +181,9 @@ En Pandunia las oraciones pueden ser abreviadas dejando por fuera los pronombres
 **sal!**
 – ¡Saludos! (Es obvio que el oyente es saludado.)
 
-La forma de **sal tu** es útil para decir el nombre de la persona, parentesco o profesión.
+La forma de
+**sal tu**
+es útil para decir el nombre de la persona, parentesco o profesión.
 
 **halo, karolina!**
 – ¡Hola, Carolina!  
@@ -245,11 +249,11 @@ jefe, patrón
 **plis yam kafe o cha.**
 – Por favor beba algo de café o té.  
 <big>☻</big>
-**mi vol cha. tanke.**
+**mi van cha. tanke.**
 – Quiero té, gracias.  
 ...  
 <big>☺</big>
-**plis sal tu su mama!**
+**plis sal tu se mama!**
 – Por favor llevale saludos a tu madre.  
 <big>☻</big>
 **mi sal da. sal reste!**
@@ -366,8 +370,8 @@ y
 café  
 **kamar**
 habitación  
-**la**
-el/la  
+**da**
+el, la  
 **o**
 o  
 **safi**
@@ -383,7 +387,7 @@ algo
 ### Respuestas
 
 1. da yam cha.
-2. la shefe plis da side.
+2. da shefe plis da side.
 3. plis yam kafe o cha.
 4. mama plis mi safi kamar.
 5. shefe side i yam kafe.
@@ -410,7 +414,7 @@ algo
 **mi no basha pandunia...**
 – Yo no hablo Pandunia...  
 <big>☺</big>
-**maf! sual da yam cha?**
+**perdon! sual da yam cha?**
 – ¡Perdón! ¿Él toma té?  
 <big>☻</big>
 **no. da no yam cha. da yam kafe.**
@@ -428,14 +432,18 @@ algo
 **no yam.**
 – No.  
 <big>☺</big>
-**tanke. mi don un cha i un kafe i un supe pos des minute.**
+**tanke. mi don un cha e un kafe e un supe pos ten minute.**
  – ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
 
 
 ### Preguntando
 
-Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **plis** 'pedir', lo cual se vio en la lección anterior.
-Las frases interrogativas se introducen con **sual** 'preguntar'.
+Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con
+**plis**
+'pedir', lo cual se vio en la lección anterior.
+Las frases interrogativas se introducen con
+**sual**
+'preguntar'.
 
 **mi sual tu yam cha.**
 – Yo preguntarte, tomas té.  
@@ -502,16 +510,14 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**basha**
+**bashe**
 hablar una língua  
-**des**
-diez  
-**maf**
-perdón  
 **minute**
 minuto  
 **no**
 no  
+**perdon**
+perdón  
 **pos**
 despues  
 **sual**
@@ -520,6 +526,8 @@ preguntar
 agua  
 **supe**
  sopa  
+**ten**
+diez  
 **un**
 un (1)  
 **ya**
@@ -542,7 +550,7 @@ sí
 ## Negación
 
 En la lección anterios apredimos a responder con
-**da**
+**ya**
 y
 **no**.
 La palabra
@@ -576,13 +584,13 @@ Si que diferentes alcances de negación pueden resultar en función de la ubicac
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 
 
-**da no ha mau.**
+**da no have mau.**
 – Ella no tiene gato.  
-**da ha no mau, ama vaf.**
+**da have no mau, ama vaf.**
 – Ella no tiene gatos sino perros.  
-**no da, ama mi ha mau.**
+**no da, ama mi have mau.**
 – Ella no, pero yo tengo gato.  
-**mi ha no un, ama du mau.**
+**mi have no un, ama du mau.**
 – Yo no tengo un gato sino dos gatos.  
 
 
@@ -601,19 +609,19 @@ Intenta traducir las oraciones de Español a Pandunia.
 ### Vocabulario
 
 **ama**
-pero, sino.  
+pero, sino  
 **du**
-dos.  
+dos  
 **hali**
-vacio.  
+vacio  
+**have**
+tener, poseer  
 **kupa**
-copa, vaso, taza.  
+copa, vaso, taza  
 **mau**
-gato.  
-**ha**
-tener, poseer.  
+gato  
 **vaf**
-perro.
+perro
 
 
 ### Respuestas
@@ -621,9 +629,9 @@ perro.
 1. da no safi kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da no ha vaf i mau. / da ha no vaf i no mau.
+4. da no have vaf e mau. / da have no vaf e no mau.
 5. shefe yam cha ama no kafe.
-6. mama ha no vaf ama du mau.
+6. mama have no vaf ama du mau.
 
 
 ---------------------------------------------------------------------
@@ -642,41 +650,27 @@ previa, la oración dice del tiempo pasado.
 
 En adición, hay palabras del tiempo espicificas.
 
-**pas**
+**did**
 – más temprano, en el pasado  
 **zai**
 – actualmente, en este momento  
-**sha**
+**vil**
 – más tarde, en el futuro
-
-**Sara e mi su pas shefe.**
-– Sara es mi ex-jefa.  
-**Yusef e mi su zai shefe.**
-– Yusef es mi actual jefe.  
-**Maria e mi su sha shefe.**
-Maria es mi futura jefa.
 
 Las mismas palabras son usadas cuando se habla sobre acciones y
 eventos en el tiempo. Simplemente pone la palabra antes del verbo.
 
-**da pas e mi su shefe.**
+**da did es mi se shefe.**
 – Ella fue mi jefa.  
-**da zai e mi su shefe.**
+**da (zai) es mi se shefe.**
 – Ella es mi jefa.  
-**da sha e mi su shefe.**
+**da vil es mi se shefe.**
 – Ella será mi jefa.
 
-También puede usar frases prepocicionales con **a**.
-
-**da e mi su shefe a pas.**
-– Ella fue mi jefa en el pasado.  
-**da e mi su shefe a zai.**
-– Ella es mi jefa en este momento.  
-**da e mi su shefe a sha.**
-– Ella será mi jefa en el futuro.
-
 Nota: el verbo es invariable. No cambia por el tiempo, por tal razón
-en los ejemplos anteriores el verbo **es** (estar,ser) se mantuvo
+en los ejemplos anteriores el verbo
+**es**
+(estar, ser) se mantuvo
 igual en todos los tiempos.
 
 No es necesario repetir las expresiones de tiempo todas las veces.
@@ -684,22 +678,23 @@ Sería algo tedioso. Es suficiente con poner una vez la expresión de
 tiempo. No es necesaria hasta que llega a ser útil hacer hincapié en
 que todavía se está hablando en el mismo tiempo.
 
-**mi pas ha un mau.**
+**mi did have un mau.**
 – Yo tuve un gato en el pasado.  
-**da e hau mau.**
+**da es hau mau.**
 – Ella fue una buena gata.  
-**mi ha un vaf a zai.**
+**mi have un vaf a zai.**
 – Yo tengo un perro en el momento.
 
-En algunas expresiones es pertinente expresar el tiempo. Otras marcas
-de tiempo no son necesarias.
+En algunas expresiones es pertinente expresar el tiempo.
+Otras marcas de tiempo no son necesarias.
 
 **mi yam cha a preden.**
 – Yo tomé té ayer.  
-**da be gene a mes 9.**
+**da be nate a mes 9.**
 – Él nació en septiembre.  
-**mimen festa a nen 2000 su presham.**
+**vi feste a nen 2000 se presham.**
 – Nosotros celebraremos la víspera del año 2000.
+
 
 ### Ejercicios
 
@@ -726,81 +721,17 @@ el día anterior, ayer
 noche  
 **presham**
 la noche anterior, víspera  
-**festa**
+**feste**
 celebrar  
 **a**
-estar ubicado en (tiempo o espacio); en  
-**pas**
-pasado, antiguo  
-**sha**
-futuro  
-**zai**
-actual, presente
+estar ubicado en (tiempo o espacio); en
 
 ### Respuestas
 
-1. mi su shefe festa a sha.
-2. mi ha du vaf a pas.
+1. mi se shefe feste a vil.
+2. mi have du vaf a pas.
 3. tu yam supe a zai.
 4. da safi kamar a preden.
 5. mau yam milke a posden.
-6. tu su ma festa a prenoce.
-
-
----------------------------------------------------------------------
-
-## Serialización verbal
-
-La construcción de un verbo serie expresa de dos o más acciones
-sucesivas efectuadas por el mismo agente. El orden de la frase es:
-
-> sujeto + verbo 1 + verbo 2 + objeto
-
-Recordemos que Pandunia es una lengua que la serialización verbal
-sea común.
-
-**mi vol visi tu.**
-– Quiero verte. (palabras por palabras: Yo querer ver usted)  
-**mi fokus visi tu.**
-– Te miro. (palabras por palabra: Yo concentrar ver ti)  
-
-Pueden haber mas de dos verbos en serie.
-
-**mi shula pandunia.**
-– Yo aprendo pandunia.  
-**mi shuru shula pandunia.**
-– Yo empiezo a aprender pandunia.  
-**mi vol shuru shula pandunia.**
-– Yo quiero empezar a aprender Pandunia.  
-**mi vol shuru shula loga pandunia.**
-– Yo quiero empezar a aprender a hablar Pandunia.
-
-
-### Ejercicios
-Intenta traducir estas oraciones de Español a Pandunia.
-
-1. Yo necesito darle café al jefe.
-2. ¿Quieres beber agua?
-3. Él no quiere limpiar su habitación.
-
-### Vocabulario
-
-**to**
-– a  
-**fokus**
-– enfocar, concentrarse  
-**loge**
-– hablar, charlar  
-**shuru**
-– empezar, comenzar  
-**visi**
-– ver, mirar  
-**vol**
-– querer, necesitar
-
-### Respuestas
-
-1. mi vol da kafe to shefe.
-2. sual tu vol yam sui?
-3. da no vol safi se su kamar.
+6. tu se ma feste a prenoce.
 

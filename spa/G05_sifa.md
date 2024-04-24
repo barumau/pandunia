@@ -8,14 +8,14 @@ Las misma palabra puede modificar sustantivos y verbos,
 mientras en español solo _adjetivos_ pueden modificar sustantivos
 y solo _adverbos_ pueden modificar verbos.
 Por ejemplo, la palabra
-**suga**
+**rapide**
 («rápido» o «rápidamente»)
 modifica un sustantivo en la oración A
 y un verbo en la oración B.
 
-A. **vo es un _suga_ karo.**
+A. **da es un _rapide_ karo.**
 – Eso es un carro _rápido_.  
-B. **tu _suga_ di loga.**
+B. **tu _rapide_ li loga.**
 – Usted habla _rápido_.
 
 
@@ -23,9 +23,9 @@ B. **tu _suga_ di loga.**
 
 En Pandunia, _adjetivos_ son modificadores que preceden el sustantivo que modifican.
 
-**un _neu_ karo**
+**un _nove_ karo**
 – un carro _nuevo_  
-**un _suga_ karo**
+**un _rapide_ karo**
 – un carro _rápido_  
 **meni _dai_ meza**
 – mesas _grandes_  
@@ -48,7 +48,7 @@ a diferencia de español, en que adjetivos cambian para acordar con el sustantiv
 
 Dos o más modificadores pueden modifican el mismo sustantivo.
 
-**un shau neu karo**
+**un lil nove karo**
 – un carro nuevo pequeño
 
 
@@ -56,31 +56,31 @@ Dos o más modificadores pueden modifican el mismo sustantivo.
 
 En Pandunia, _adverbos_ son modificadores que preceden el verbo que modifican.
 
-**tu _suga_ loge.**
+**tu _rapide_ loga.**
 – Usted hablas _rápido_.  
-**damen _hau_ kitabi.**
+**di jen _hau_ kitabe.**
 – Ellas escriben _bien_.
 
 Es común poner la partícula de modificación
-**di**
+**li**
 entre el modificador y el verbo.
 Hace la estructura del frase verbal más claro.
 
-**tu _mei di_ kitabi.**
+**tu _mei li_ kitabe.**
 – Tú escribes _hermoso_.  
-**damen _suga di_ marche.**
+**di _rapide li_ marche.**
 – Ellos caminan _rápido_.
 
 
 ### Modificar otros modificadores
 
 La partícula
-**di**
+**li**
 también se usa cuando un modificador modifica un otro.
 
-**un _surpris di_ hau buku**
+**un _suprende li_ hau buke**
 – un _sorprendentemente_ buen libro  
-**meni _bala di_ ai ja jen**
+**_bala li_ lovente jen**
 – personas _firmemente_ amorosas
 
 
@@ -88,27 +88,23 @@ también se usa cuando un modificador modifica un otro.
 
 Palabras de grado nos dicen sobre la intensidad de algo.
 
-**tre**
+**vere**
 – muy  
 **bas**
 – bastante  
-**mas**
+**mor**
 – más  
-**min**
-– menos  
-**mas ka bas**
-– demasiado
+**les**
+– menos
 
 Palabras de grado preceden la palabra que modifican.
 
 **un dai man**
 – un hombre grande  
-**un tre dai man**
+**un vere dai man**
 – un hombre muy grande  
-**un mas dai man**
-– un hombre más grande  
-**un mas dai man ka bas**
-– un hombre demasiado grande
+**un mor dai man**
+– un hombre más grande
 
 Una palabra de grado junta con un modificador crea un _adverbo compuesto_
 que puede modificar un verbo o una oración.
@@ -116,16 +112,16 @@ El adverbo compuesto se pone inmediatamente antes del verbo que modifica.
 
 **vere muche**
 – muchísimo
-**mi _vere muche_ vol loge.**
+**mi _vere muche_ van loga.**
 – Tengo muchas ganas de hablar.  
-**mi vol _vere muche_ loge.**
+**mi van _vere muche_ loga.**
 – Quiero hablar muchísimo.
 
 En adición es posible poner el adverbo compuesto en el fin de la oración,
 y entonces modifica la oración en conjunto.
 El significado es la misma como cuando el adverbo compuesto modifica el verbo principal.
 
-**mi vol loge _vere muche_.**
+**mi van loga _vere muche_.**
 – Muchísimo quiero hablar.  
 **sual tu sona _bas hau_?**
 – ¿Sonaste bastante bien?
@@ -135,25 +131,25 @@ El significado es la misma como cuando el adverbo compuesto modifica el verbo pr
 
 Adjetivos pueden compararse con los adverbos de comparación.
 
-- **mas**
+- **mor**
   (_más_) indica superioridad sobre otra cosa
-- **masim**
+- **mor... of hol**
   (_mayor_) indica superioridad sobre un grupo entero
-- **min**
+- **les**
   (_menos_) indica inferioridad a otra cosa
-- **minim**
+- **les... of hol**
   (_menor_) indica inferioridad a un grupo entero
-- **par**
+- **sim**
   (_igual_, _tan_ o _equivamente_) indica igualdad
 
 La partícula
-**ka**
+**dan**
 (_que_) relaciona los adverbos de comparación al objeto de comparación.
 
-**aple e mas hau ka aranja.**
+**aple es mor hau dan aranja.**
 = Las manzanas son mejores (más buenas) que las naranjas.  
-**aranja e min hau ka aple.**
+**aranja es les hau dan aple.**
 = Las naranjas son peores (menos buenas) que las manzanas.  
-**tu loga par hau ka mi.**
+**tu loga sim hau dan mi.**
 = Hablas tan bien como yo.
 

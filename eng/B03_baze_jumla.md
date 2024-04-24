@@ -121,7 +121,7 @@ Indonesian *selamat*.</small>
 **mi tanke tu helpe mi.**
 – I thank you for helping me.
 
-**tanke tu mede mi.**
+**tanke tu helpe mi.**
 – Thanks for helping me.
 
 **no yau tanke.**
@@ -212,7 +212,7 @@ Spanish *tu*,
 Italian *tu*,
 French *tu*,
 Russian ты (ty),
-Hindi तू  (tū),
+Hindi तू (tū),
 Persian تو‏‎ (to),
 Tajik ту (tu).</small>
 
@@ -257,13 +257,13 @@ In fact, the previous question is simply abbreviated from
 **mi sual tu es dokter**
 (I ask, you are doctor?) by dropping out the first word.
 
-**sual tu hau?**
+**sual tu gude?**
 – How are you? (Literally: _Are you good?_)  
-**mi hau.**
+**mi gude.**
 – I'm good.  
 **tu ne?**
 – And you?  
-**mi no hau.**
+**mi no gude.**
 – I'm not good.
 
 <small>Etymology. **sual** is from
@@ -302,14 +302,14 @@ Korean 예 (ya).</small>
 **mi no es dokter.**
 – I'm not a doctor.
 
-**sual tu hau?**
+**sual tu gude?**
 – Are you well?  
-**ya. mi hau.**
+**ya. mi gude.**
 – Yes, I'm well.
 
-**sual tu es hau?**
+**sual tu es gude?**
 – Are you well?  
-**no, mi no es hau.**
+**no, mi no es gude.**
 – No, I'm not well.
 
 You can use
@@ -455,7 +455,7 @@ It's also possible to end a sentence with
 
 **mau es mi se.**
 The cat is mine.  
-**pesa es di se.**
+**mone es di se.**
 The money is theirs.  
 **frende es sara se.**
 The friend is Sara's.
@@ -494,10 +494,10 @@ English *name*.</small>
 
 ### have <small>have</small>
 
-**mi have un hau haus.**
+**mi have un gude haus.**
 – I have a good house.
 
-**da no have pesa.**
+**da no have mone.**
 – He doesn't have money.
 
 **mi van have un nove telefon.**
@@ -620,7 +620,7 @@ the word order is not affected by the
 **mi plis tu kom haus.**
 – I ask you to come home.
 
-**mi plis tu mede mi.**
+**mi plis tu helpe mi.**
 – I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
@@ -736,7 +736,7 @@ Tip: To make direct requests, drop all the pronouns.
 – We talk to each other.
 
 **von loga**
-*cat*
+***cat***
 **a kua mode a pandunia?**
 – How do you say "cat" in Pandunia?
 
@@ -781,18 +781,18 @@ Tip: To make direct requests, drop all the pronouns.
 – I saw him/her yesterday.
 
 
-### sema <small>to mean</small>
+### seme <small>to mean</small>
 
-**da hir lexe ya sema kua?**
+**da hir lexe ya seme kua?**
 – What does this word mean?
 
-**"mau" ya sema kua?**
+**"mau" ya seme kua?**
 – What does "mau" mean?
 
-**da sema un sorte of hevan.**
+**da seme un sorte of hevan.**
 – It means a kind of animal.
 
-**mi no aha da sema kua.**
+**mi no aha da seme kua.**
 – I don't understand what it means.
 
 
@@ -881,7 +881,7 @@ Tip: To make direct requests, drop all the pronouns.
 **vi safar of London to Paris.**
 – We travel from London to Paris.
 
-**safar es dai long.**
+**safar es muche long.**
 – The voyage is very long.
 
 
@@ -909,7 +909,7 @@ Tip! You can use
 **a**
 as a preposition or alone as the verb.
 
-**mi kar a...**
+**mi verke a...**
 – I work at ...
 
 
@@ -944,60 +944,61 @@ as a preposition or alone as the verb.
 
 ### bi <small>currently</small>
 
-**mi bi sal tu se frende.**  
+**mi bi sal tu se frende.**
 – I am greeting your friend.
 
-**da man bi vize un filme.**  
+**da man bi vize un filme.**
 – The man is watching a film.
 
-**da bi es shefe.**  
+**da bi es shefe.**
 – He or she is being the chief.
 
-**da bi es a haus.**  
+**da bi es a haus.**
 – He or she is currently at home.
 
 
 ### haf <small>already, completed</small>
 
-**mi haf sal tu se frende.**  
+**mi haf sal tu se frende.**
 – I have greeted your friend.
 
-**da man haf vize da filme.**  
+**da man haf vize da filme.**
 – The man has watched the film.
 
-**da haf es shefe.**  
+**da haf es shefe.**
 – He has been the chief.
 
-**da haf es a haus.**  
+**da haf es a haus.**
 – He has been at home.
+
 
 ### did <small>in the past</small>
 
-**mi did sal tu se frende.**  
+**mi did sal tu se frende.**
 – I greeted your friend.
 
-**man did vize un filme.**  
+**man did vize un filme.**
 – The man watched a film.
 
-**da did es shefe.**  
+**da did es shefe.**
 – He/she was the chief.
 
-**da did es a haus.**  
+**da did es a haus.**
 – He/she was at home.
 
 
 ### vil <small>in the future</small>
 
-**mi vil sal tu se frende.**  
+**mi vil sal tu se frende.**
 – I will greet your friend.
 
-**da man vil vize da filme.**  
+**da man vil vize da filme.**
 – The man will watch the film.
 
-**da vil es shefe.**  
+**da vil es shefe.**
 – He/she will be the chief.
 
-**da vil es a haus.**  
+**da vil es a haus.**
 – He/she will be at home.
 
 
@@ -1006,7 +1007,7 @@ as a preposition or alone as the verb.
 
 ### don <small>give</small>
 
-**plis don pesa.**
+**plis don mone.**
 – Please give some money.
 
 **plis don da to mi.**
@@ -1030,7 +1031,7 @@ as a preposition or alone as the verb.
 **plis sepe un kafe to mi.**
 – Please take one coffee for me.
 
-**tu did sepe pesa of mi.**
+**tu did sepe mone of mi.**
 – You already got money from me before.
 
 **mi sepe un bir.**
@@ -1039,19 +1040,19 @@ as a preposition or alone as the verb.
 
 ### kira <small>rent, lease, hire</small>
 
-**kira es 500 dolar a mes.**  
+**kira es 500 dolar a mes.**
 – The rent is 500 dollars in a month.
 
-**da no ken pei da kira.**  
+**da no ken pei da kira.**
 – He/she can't pay the rent.
 
-**mi van sepe un karo a kira.**  
+**mi van sepe un karo a kira.**
 – I want to take a car for rent.
 
-**mi van kira sepe un karo.**
+**mi van sepe kira un karo.**
 – I want to rent a car.
 
-**da kira don kamar to safarer.**
+**da don kira kamar to safarer.**
 – He/she rents rooms to travelers.
 
 
@@ -1077,10 +1078,10 @@ means _to buy_.
 **sual da es neu?**
 – Is it new?
 
-**kua es mas hau?**
+**kua es mas gude?**
 – Which is better?
 
-**ye es masim hau (de pan).**
+**ye es masim gude (de pan).**
 – This is the best (of all).
 
 **da kosta kua?**

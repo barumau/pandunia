@@ -10,23 +10,23 @@ Dos o más palabras se pueden armar para hacer una _palabra compuesta_.
 La palabra última es la parte más significativo en la compuesta
 y las otras palabras que la preceden solo modifican su significado.
 
-**demi**
+**deme**
 (gente) +
-**krati**
+**(o)kratia**
 (reinado) =
-**demikrati**
+**demokratia**
 (democracia).
 
-**andemikrati di**
+**andemokratike**
 (antidemocrático)
 
-**termi**
+**terme**
 (temperatura) +
-**metre**
+**(o)metre**
 (medida) +
-**-r**
+**-er**
 (aparato) =
-**termimetrer**
+**termometrer**
 (termómetro).
 
 
@@ -37,123 +37,122 @@ y las otras palabras que la preceden solo modifican su significado.
 Inverte el significado de verbos y adjetivos.
 
 **node** atar →
-**an node** desatar  
-**dosti** amigo →
-**an dosti** enemigo
+**annode** desatar  
+**amike** amigo →
+**anamike** enemigo
 
 
-#### di
+#### -bil
 
-**di**
-hace adjectivos de sustantivos y verbos.
-
-**dom** casa →
-**dom di** doméstico  
-**aranja rang** color naranja →
-**aranja rang di** de color naranja
+Indica posibilidad.
 
 
-#### -er
+**vize**
+'ver'  
+→ **vizebil**
+'visible'
+
+#### -er ~ -ter
 
 Crea sustantivos de agentos.
 Describe una persona que hace o causa la acción.
 
-**yam** comer →
-**yamer** comensal  
-**xule** aprender →
-**xuler** aprendiz, estudiante
 
-**loge** hablar →
-**loger** hablante  
-**filsof** filosofar →
-**filsofer** filósofo  
-**mate** morir →
-**mater** asesino
+**loga**
+'hablar'
+→ **logater**
+'hablante'  
+**filsofe**
+'filosofar'
+→ **filsofer**
+'filósofo'
 
 El derivado también se puede asociar más libremente con el raíz.
 
-**sapatu** zapato →
-**sapatu ja** zapatero  
-**muskete** mosquete →
-**muskete ja** mosquetero  
-**kasa** caja →
-**kasa ja** cajero
+**muskete**
+'mosquete'
+→ **musketer**
+'mosquetero'  
+**kase**
+'caja'
+→ **kaser**
+'cajero'
+
+#### -eria ~ -teria ~ -ria
+
+Indica un campo de pericia, o una colección de técnicas para utilizar o hacer algo.
+
+**enjener**
+'ingeniéro'
+→ **enjeneria**
+'ingeniería
 
 
-#### gi
-
-Indica un aparato, máquina, o instrumento que se utiliza para la acción.
-
-**fei** volar →
-**fei gi** aeronave, avión  
-**foto grafi** fotografía →
-**foto grafi gi** cámera  
-**pinse** pellizcar →
-**pinse gi** pinza
-
-
-#### ta
-
-Crea sustantivos abstractos que representan una calidad o estado.
-
-**nove** nuevo →
-**nove ta** novedad  
-**huru** libre →
-**huru ta** libertad  
-**un** uno →
-**un ta** unidad, unión
-
-
-#### bil
-
-Indica posibilidad. Se usa con el sufijo de agento **ja** con mucha frecuencia.
-
-**bil** posible  
-**bil ja** hábil, capaz
-
-**vide** ver  
-**vide bil** visible  
-**vide bil ja** capaz de ver
-
-
-#### jama
+#### -ia
 
 Crea sustantivos de agregado.
 Indica un grupo o colección de elementos.
 
-**nesi** isla →
-**nesi jama** archipiélago  
-**loga** vocablo →
-**loga jama** vocabulario
+**nese**
+'isla'
+→ **nesia**
+'archipiélago'  
+**lexe**
+'vocablo'
+→ **lexia**
+'vocabulario'
 
 
-#### suta
-
-Indica un campo de pericia, o una colección de técnicas para utilizar o hacer algo.
-
-**enjener** ingeniéro →
-**enjener suta** ingeniería  
-**sapatu** zapato →
-**sapatu suta** zapatería
 
 
-#### sim
+
+#### -ike ~ -tike
+
+**-ike**
+hace adjectivos de sustantivos y verbos.
+
+**un**
+'uno'
+→ **unike**
+'único, solo'  
+**dome**
+'casa'
+→ **domike**
+'doméstico'
+
+#### -isme ~ -tisme
 
 Indica una ideología, o manera de pensar o vivir.
 
-Se usa con el sufijo de agento **ja** con mucha frecuencia.
+**dee**
+'díos'  
+→ **deisme**
+'teísmo'
+
+#### -iste
+
 Este sufijo describe una persona que segue cierta ideología.
 
-**deu** díos  
-**deu sim** teísmo
-**deu sim ja** un teísta  
-**deu sim di** teísta  
+**dee**
+'díos'  
+→ **deiste**
+'teísta'
 
+#### -ita ~ -ta
 
-#### xe
+Crea sustantivos abstractos que representan una calidad o estado.
 
-Indica una cosa que mostra un atributo o sufrir una acción.
+**nove**
+'nuevo'
+→ **novita**
+'novedad'  
+**hure**
+'libre'
+→ **hurita**
+'libertad'  
+**un**
+'uno'
+→ **unita**
+'unidad'
 
-**sabe** saber →
-**sabe xe** sabida cosa (conocimiento)
 

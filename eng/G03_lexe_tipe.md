@@ -148,7 +148,7 @@ as in the table below.
 | The happy child |        | writes      |        | a long letter.    |
 | *yun man*       | **ya** | *vize*      | **un** | *mei parke.*      |
 | The young man   |        | sees        |        | a beautiful park. |
-| *meni jen*      | **ya** | *van shope* | **un** | nova haus.*       |
+| *meni jen*      | **ya** | *van shope* | **un** | nove haus.*       |
 | Many people     |        | want to buy |        | a new house.      |
 
 So the key to decoding Pandunia is to know the structure words and the clause constructions.

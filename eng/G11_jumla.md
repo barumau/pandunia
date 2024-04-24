@@ -173,16 +173,16 @@ Compare with:
 The linking verb is used also when structural complexity of subject and/or predicate
 makes the boundary between the two sentence elements doubtful.
 
-**mi se kar mede bacha.**
+**mi se kar helpe bacha.**
 – My job helps children.  
-**mi se kar es mede bacha.**
+**mi se kar es helpe bacha.**
 –  My job is to help children.
 
 It is also possible to use a pause,
 that is indicated by a dash in writing,
 instead of the linking verb.
 
-**mi se kar – mede bacha.**
+**mi se kar – helpe bacha.**
 – My job: to help children.
 
 
@@ -207,7 +207,7 @@ is optional in the same cases as before
 – He doesn't want to be rich.  
 **da no a haus.** ~ **da no es a haus.**
 – He is not at home.  
-**da se kar no es mede bacha.**
+**da se kar no es helpe bacha.**
 – His job is not to help children.
 
 
@@ -224,7 +224,7 @@ the previous rules apply also to adjective subjects and verb subjects.
 – Singing is good.  
 **gani – no dus.** ~ **gani no es dus.**
 – Singing is not bad.  
-**skolefa bacha – mede bacha.** ~ **skolefa bacha es mede bacha.**
+**skolefa bacha – helpe bacha.** ~ **skolefa bacha es helpe bacha.**
 – To teach children is to help children.
 
 
@@ -625,7 +625,7 @@ The verbs before it are modal verbs.
 
 **tu van yam som vege.**
 – You want to eat vegetables. (desire)  
-**tu sel yam som vege.**
+**tu sele yam som vege.**
 – You had better eat vegetables. (advice)  
 **tu halal yam som vege.**
 – You may eat vegetables. (permission)  
@@ -819,7 +819,7 @@ and it corresponds to English _that_, _who_ and _which_.
 
 In Pandunia, relative clauses are always set off by commas.
 
-**da buke, ki da jen fa kitabe, pada.**
+**da buke, ki da jen kitabe, pada.**
 – The book, which the person writes, falls.
 
 It is also possible to leave
@@ -847,14 +847,14 @@ It's possible to use relative pronouns or the reduced relative clause structure.
 The relative pronoun can be put in its right place in the pivot structure
 or it can be left out by using the reduced relative clause structure.
 
-**da jen, mi vize ki fa kitabe da buke, pada.**
+**da jen, mi vize ki kitabe da buke, pada.**
 – The person, whom I see write the book, falls.  
-**da jen, mi vize fa kitabe da buke, pada.**
+**da jen, mi vize kitabe da buke, pada.**
 – The person that I see write the book falls.  
 
 Also a _resumptive relative pronoun_ can be used if needed.
 
-**da jen, mi fa kitabe da buke na ki se kalam, padu.**
+**da jen, mi kitabe da buke a ki se kalam, pada.**
 – The person whose pen I write the book with falls.
 
 
@@ -914,7 +914,7 @@ The rest of the sentence can optionally be preceded by the word **asar**, which 
 
 ## Combining phrases with conjunctions
 
-**i**
+**e**
 – and (connects two similar words or phrases)  
 **o**
 – or (connects two alternative words or phrases)  
@@ -1052,7 +1052,7 @@ Verb phrases can also be made into modifiers in this way, but any objects must b
 
 **shute of grafe pente**
 – the art of picture-painting (the art of painting pictures)  
-**ale se mede se suka**
+**ale se helpe se suka**
 – the joy of others-helping (the joy of helping others)
 
 #### Possession
@@ -1182,3 +1182,4 @@ They may consist of only one word, which draws the listener's attention.
 – A cat!  
 **barsha!**
 – Rain! / (It) rains!
+

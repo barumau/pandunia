@@ -12,22 +12,22 @@ Por ejemplo, el verbo
 **e**
 (»ser>>) tiene la misma forma para todas las personas.
 
-**_mi_ e dosti.**
+**_mi_ es frende.**
 – Yo soy una amiga.  
-**_tu_ e dosti.**
+**_tu_ es frende.**
 – Tú eres un amigo.  
-**_da_ e dosti.**
+**_da_ es frende.**
 – Éla es amiga de alguien.  
-**_mimen_ e dosti.**
+**_vi_ es frende.**
 – Nosotros somos unos amigos de alguien.  
-**_tumen_ e dosti.**
+**_yu_ es frende.**
 – Ustedes son unas amigas de alguien.  
-**_damen_ e dosti.**
+**_di_ es frende.**
 – Ellos son unos amigos de alguien.
 
 En adición un sustantivo puede servir de un sujeto.
 
-**mau e hevan.**
+**mau es hevan.**
 – El gato es animal.
 
 Frecuentamente hay indicador entre el sujeto y el verbo
@@ -41,9 +41,9 @@ Un de los indicadores más adecuado es
 que añade ningún contenido a la oración
 pero ayuda clarificar su estructura.
 
-**karote e uma yam.**
+**karote es mar yam.**
 – Zanahoria es comida para caballos.  
-**uma _ya_ yam karote.**
+**mar _ya_ yam karote.**
 – El caballo come zanahorias.
 
 Otros indicadores adecuado son verbos auxiliares de tiempo y modo,
@@ -54,92 +54,47 @@ que se introducen suguiente.
 
 La relación de un acción, evento, o estado a tiempo se indica con verbos auxiliares.
 
-**shuru**
-(»empezar>>, »comenzar>>)
-indica el comienzo de una acción o transición a una situación nueva.
-
-**mi shuru fuku la kote.**
-– Empiezo a llevar el abrigo. = Me pongo el abrigo.  
-**kaguji ya shuru hogo.**
-– Papel empieza a quemar.  
-**tu shuru yam.**
-– Empiezas a comer.
-
-**fin**
-(»dejar>>, »terminar>>)
-indica el fin de una acción o situación.
-
-**damen fin haha.**
-– Dejan de reírse.  
-**kaguji ya fin hogo.**
-– Papel deja de quemar.
-
-**pul**
-(»completar>>, »acabar>>)
-indica que un acción se completa totalmente.
-
-**tu pul yam un piza.**
-– Completamente comiste un pizza.  
-**mi pul visi la filme.**
-– Miré la película completamente. = Acabo mirando la película.
-
-**zai**
+**bi**
 (»actual>>)
 indica que una situación es actual.
 
-**mi zai yam un piza.**
+**mi bi yam un piza.**
 – Estoy comiendo una pizza.
 
-**dur**
-(»seguir>>, »continuar>>)
-indica que una situación está continuando o en progreso.
-
-**mi dur yam la piza.**
-– Sigo comiendo la pizza.
-
-**ada**
-(»habitual>>, »acostumbrado>>)
-indica que una acción ocurre frecuentamente.
-
-**mi ada gul yo bir.**
-– Tengo la costumbre de bebir cerveza.
-
-**le**
+**haf**
 (»lograr>>, »ya>>)
 indica que una situación ha sido logrado, y el estado presente es el resulto de eso.
 Preste atención a la consecuencia de una acción pasada a la situación actual.
 
-**da _le_ e guru.**
+**da _haf_ es guru.**
 – Se ha hecho docente.  
-**mi _le_ no gul yo alkohol.**
+**mi _haf_ no gul yo alkohol.**
 – Ya no bebir alcohol.  
-**mi no _le_ gul yo alkohol.**
+**mi no _haf_ gul yo alkohol.**
 – No he bebido alcohol.  
-**mi _le_ don la buku to damen.**
+**mi _haf_ don la buke to di.**
 – Los he dado el libro. (Todavía lo tienen y yo no.)  
-**damen no _le_ ridon da to mi.**
+**damen no _haf_ ridon da to mi.**
 – No me lo han devuelvo.  
-**mi _le_ lai to siti.**
+**mi _haf_ kom to siti.**
 – He venido a la ciudad.
 
-**pas**
+**did**
 (»pasar>>)
 indica que una situación terminó
 y es pertinente solo como una experiencia.
 
-**mi pas don la buku to damen.**
+**mi did don da buke to di.**
 – Los di el libro. (Tal vez no todavía lo tienen, o lo devolvieron.)  
-**mi pas vizite Franse.**
+**mi did vizite Franse.**
 – Visité Francia.  
-**mi pas ada gul yo bir.**
-– Yo solía bebir cerveza. / Tení la costumbre de bebir cerveza.
 
-**sha**
+**vil**
 (»ir a>>, »futuro>>)
 indica que un evento ocurrirá en el futuro.
 
-**da _sha_ e guru.**
+**da vil_ es guru.**
 – Será docente.  
-**mi no _sha_ gul yo bir.**
+**mi no _vil_ gul bir.**
 – No voy a bebir una cerveza.
 
