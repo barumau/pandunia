@@ -118,7 +118,7 @@ which includes, among many others,
 'package',
 **pote**
 'pot',
-**saku**
+**sake**
 'bag, sack',
 **tin**
 'can, tin'
@@ -133,9 +133,9 @@ which includes, among many others,
 – a cup of cofee  
 **du botle vin**
 – two bottles of wine  
-**tri saku patato**
+**tri sake patato**
 – three sacks of potatoes  
-**nelu tin limon jus**
+**for tin limon jus**
 – four cans of lemonade
 
 

@@ -218,7 +218,7 @@ There are two interrogative pronouns in Pandunia.
 – Who is it?  
 **yu van kua?**
 – What do you want?  
-**kua es a table.**
+**kua es a meza.**
 – What is on the table?
 
 The possessive interrogative pronoun is created regularly.
@@ -238,7 +238,7 @@ Adjectives are questioned with **kua li**.
 – How few?  
 **kua li dai?**
 – How big?  
-**kua li shau?**
+**kua li lil?**
 – How small?
 
 **tu have kua li dai mau?**

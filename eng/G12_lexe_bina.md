@@ -702,7 +702,7 @@ where it can be understood as collection of scientific knowledge and practices.
 The suffix *-ife* means to make or turn into the thing that is indicated by the base word.
 
 **komple**
-'copmplex'
+'complex'
 → **komplife**
 'make complex, complexify'  
 **long**

@@ -48,19 +48,19 @@ in three levels: (1) clause constituents, (2) phrases and (3) words.
 
     Figure 1. Decomposition of a sentence structure in Pandunia.
     
-         ╔═════════╗   ╔═══════════╗  ╔═══════════╗   ╔═══════════════╗
-    (1)  ║ SUBJECT ║   ║ PREDICATE ║  ║ ADVERBIAL ║   ║ENDING PARTICLE║
-         ╚════╤════╝   ╚═════╤═════╝  ╚═════╤═════╝   ╚═══════╤═══════╝
-              │              │              │                 │
-        ┌─────┴─────┐  ┌─────┴─────┐  ┌─────┴──────┐          │
-    (2) │noun phrase│  │verb phrase│  │prep. phrase│          │
-        └─────┬─────┘  └─────┬─────┘  └────────┬───┘          │
-              │              │                 │              │
-        ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐ ┌────┬───┼───┬────┐ ┌───┴────┐
-    (3) │det│adj│noun│ │TAM│adv│verb│ │prep│det│adj│noun│ │particle│
-        └───┴───┴────┘ └───┴───┴────┘ └────┴───┴───┴────┘ └────────┘
-         da  yun  man   did  suge marce  a   da  dai dau      he.
-	     that young man did fast walk   on  the big road     huh
+         ╔═════════╗   ╔═══════════╗    ╔═══════════╗   ╔═══════════════╗
+    (1)  ║ SUBJECT ║   ║ PREDICATE ║    ║ ADVERBIAL ║   ║ENDING PARTICLE║
+         ╚════╤════╝   ╚═════╤═════╝    ╚═════╤═════╝   ╚═══════╤═══════╝
+              │              │                │                 │
+        ┌─────┴─────┐  ┌─────┴─────┐    ┌─────┴──────┐          │
+    (2) │noun phrase│  │verb phrase│    │prep. phrase│          │
+        └─────┬─────┘  └─────┬─────┘    └────────┬───┘          │
+              │              │                   │              │
+        ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐   ┌────┬───┼───┬────┐ ┌───┴────┐
+    (3) │det│adj│noun│ │TAM│adv│verb│   │prep│det│adj│noun│ │particle│
+        └───┴───┴────┘ └───┴───┴────┘   └────┴───┴───┴────┘ └────────┘
+         da  yun  man   did rapide marche a   da  dai dau      he.
+	     that young man did fast   walk   on  the big road     huh
 		 'That young man walked fast on the big road, huh?'
 
 
@@ -71,7 +71,7 @@ Subject and object can be noun phrases that consist of many words,
 and there can be a series of verbs (i.e. a serial verb) instead of a single verb.
 In such cases the boundaries between the clause constituents can become doubtful.
 
-**shau baku meme van shuru yam hau seng chau.**
+**lil baku meme van shuru yam hau seng chau.**
 – Little white sheep want to start to eat good fresh grass.
 
 Boundaries between sentence elements can be marked with little words.
@@ -88,7 +88,7 @@ Determiners, like
 'some',
 help to indicate where noun phrases begin.
 
-**da shau baku meme *ya* van shuru yam *da* hau seng chau.**
+**da lil baku meme *ya* van shuru yam *da* hau seng chau.**
 – The little white sheep want to start to eat that good fresh grass.
 
 
@@ -385,13 +385,13 @@ in the form that the verb describes.
 Consider the following sentence,
 where the child is the agent that departs energy in the form of a push to the ball, the patient.
 
-**da bacha dape da bol.**
+**da bacha bate da bol.**
 – The child hits the ball.
 
 There can also be an instrument that mediates the flow of energy from the agent to the patient.
 The sequence `agent > instrument > patient` reflects the flow of energy in an action chain.
 
-**da bacha uze da bang dape da bol.**
+**da bacha uze da bang bate da bol.**
 – The child uses the bat to hit the ball.
 
 The order of the participants is in line with the order of the action chain in reality.
@@ -426,13 +426,13 @@ The semantic and syntactic roles can be mapped together in many ways.
 Usually the most energetic semantic participant takes the role of the subject.
 
 1. If there is an agent, it becomes the subject.
-    - ***da bacha* uze da bang dape da bol.**
+    - ***da bacha* uze da bang bate da bol.**
       – *The child* uses the bat to hit the ball.  
 2. Otherwise, if there is an instrument, it becomes the subject.
-    - ***da bang* dape da bol.**
+    - ***da bang* bate da bol.**
       – *The bat* hits the ball.  
 3. Otherwise the patient becomes the subject and the clause type becomes intransitive.
-    - ***da bol* dape.**
+    - ***da bol* bate.**
       – *The ball* is hit.
 
 When a sentence consists of a subject and a verb (SV),
@@ -514,7 +514,7 @@ A basic sequence is that of `agent > instrument > patient`.
 
 **da uze un chaku kate da ban.**
 – He uses a knife to cut the bread.  
-**da jete da bol dape da dike.**
+**da jete da bol bate da dika.**
 – He throws the ball to hit the target.  
 **mi shofe da karo kom da site.**
 – I drive the car to enter the city.
@@ -960,7 +960,7 @@ Such sentences can be simply negated with **no**.
 
 **da no es shefe.**
 – He is not the boss.  
-**da no es neu meza.**
+**da no es nove meza.**
 – It's not a new table.
 
 The word **no** is used for denying anything.
@@ -1117,7 +1117,7 @@ It translates as *eh?* or *huh?*.
 **me**
 indicates indifference, boredom or lack of excitement.
 
-**me. da no neu.**
+**me. da no nove.**
 – Meh. It's not new.
 
 **ne**
@@ -1129,7 +1129,7 @@ One uses it at the end of sentence if one is not completely sure about something
 
 **tu suka kafe, ne? sepe un kupa ba!**
 – You like coffee, right? Grab a cup!  
-**da neu, ne?**
+**da nove, ne?**
 – It is new, isn't it?
 
 **na**
@@ -1170,7 +1170,7 @@ It can be translated as *indeed* or *truly*.
 – I truly saw you.  
 **da ver, ya.**
 – It is true indeed.  
-**da neu, ne? – da neu, ya.**
+**da nove, ne? – da nove, ya.**
 – It is new, right? – It's new indeed.
 
 ## Observations

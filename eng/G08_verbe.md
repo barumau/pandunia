@@ -213,7 +213,7 @@ The preposition
 **in**
 denotes location on the inside, 'in, inside'.
 
-**zulmivan ya sir in da burgi.**
+**zulmer ya sir in da burge.**
 – The tyrant hides in the castle.
 
 #### kon

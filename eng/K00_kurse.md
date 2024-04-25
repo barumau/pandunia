@@ -302,7 +302,7 @@ chief, boss
 = But I only drink tea! Thank you.  
 ...  
 <big>☻</big>
-**chin pa, mi mus ga a zai.**
+**chin pa, mi mus go a nau.**
 = Grandfather, I have to go now.  
 <big>☺</big>
 **okei. plis sal tu se mama!**
@@ -311,7 +311,7 @@ chief, boss
 **mi sal da. sal reste!**
 = I will. Bye!  
 <big>☺</big>
-**sal ga!**
+**sal go!**
 = Bye!
 
 
@@ -428,7 +428,7 @@ to ask; please
 to give  
 **e**
 and  
-**ga**
+**go**
 to go  
 **kafe**
 coffee  
@@ -834,7 +834,7 @@ There are also specific time words.
 
 **did**
 = in the past  
-**zai**
+**nau**
 = currently, at the moment  
 **vil**
 = later, in the future
@@ -843,7 +843,7 @@ They can be used for modifying nouns.
 
 **Sara es mi se did shefe.**
 = Sarah is my former boss.  
-**Yusef es mi se zai shefe.**
+**Yusef es mi se nau shefe.**
 = Yusef is my current boss.  
 **Maria es mi se vil shefe.**
 = Maria is my future boss.
@@ -853,7 +853,7 @@ Simply put the word before the verb.
 
 **mi did bate da.**
 = I hit it (in the past).  
-**mi zai bate da.**
+**mi nau bate da.**
 = I am hitting it (currently).  
 **mi vil bate da.**
 = I will hit it (in the future).
@@ -869,7 +869,7 @@ or until it becomes useful to stress that you are still talking in the same tens
 = I had a cat in the past.  
 **da es hau mau.**
 = It was a good cat.  
-**mi have un vaf a zai.**
+**mi have un vaf a nau.**
 = I have a dog now.
 
 Any expression of time is good for expressing the tense. When one
@@ -896,7 +896,7 @@ Try translating these sentences from English to Pandunia.
 
 **did**
 past, former  
-**zai**
+**nau**
 present, current  
 **vil**
 will, future tense marker  
@@ -919,7 +919,7 @@ milk
 
 1. mi se shefe feste a vil.
 2. mi have du vaf a pas.
-3. tu yam supe a zai.
+3. tu yam supe a nau.
 4. da safi kamar a preden.
 5. mau yam milke a posden.
 6. tu se ma feste a prenoce.

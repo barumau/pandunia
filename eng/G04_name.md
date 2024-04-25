@@ -46,7 +46,7 @@ It is done simply by inserting a number or a quantity word before the noun.
 – two sheep  
 **tri meme**
 – three sheep  
-**men meme**
+**meni meme**
 – many sheep
 
 **kursi**
