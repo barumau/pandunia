@@ -9,8 +9,8 @@ Come tutte le parole in pandunia, i sostantivi non cambiano mai forma.
 Si usa sempre la stessa forma, non importa se la cosa alla quale ci si riferisce sia singolare o plurale, determinata o indeterminata, soggetto o complemento oggetto ecc.
 Perciò la stessa forma di una parola in pandunia può corrispondere a più forme diverse in italiano.
 
-**ite**
-– una pietra, delle pietre, la pietra o le pietre
+**haus**
+– una casa, delle case, la casa o le case
 **meza**
 – un tavolo, dei tavoli, il tavolo o i tavoli
 **kursi**
@@ -42,7 +42,7 @@ Lo si fa inserendo semplicemente un numero o un quantificatore davanti al sostan
 – due pecore  
 **tri meme**
 – tre pecore  
-**men meme**
+**meni meme**
 – tante pecore
 
 **kursi**
@@ -53,19 +53,19 @@ Lo si fa inserendo semplicemente un numero o un quantificatore davanti al sostan
 – due sedie  
 **tri kursi**
 – tre sedie  
-**poli kursi**
+**meni kursi**
 – molte sedie
 
 È possibile specificare la pluralità anche attraverso reduplicazione, ripetendo il sostantivo due volte.
 
-**ite ite**
-– pietre e pietre, diverse pietre  
-**buku buku**
+**haus haus**
+– case e case, diverse case  
+**buke buke**
 – libri e libri, diversi libri
 
 I quantificatori non si usano con la reduplicazione.
 Perciò un sintagma come
-**men buku buku**
+**meni buke buke**
 è ridondante.
 
 ## Nomi propri
@@ -94,3 +94,4 @@ Un onorifico può essere usato con un nome proprio, un cognome o entrambi.
 – Sig. Billy  
 **si King**
 – Sig. King
+

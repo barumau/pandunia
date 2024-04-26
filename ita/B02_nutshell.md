@@ -51,27 +51,18 @@ La stessa parola, senza alcuna modifica della forma, può funzionare come sostan
 
 ### Struttura fondamentale della frase
 
-La particella **ya** 'sì' può separare il soggetto e il verbo quando il soggetto è un sostantivo.
-
-**mau ya yam.**
-– Il gatto mangia.  
-**jen ya sona.**
-– La persona dorme.
-
-Se il soggetto è un pronome personale, **ya** si omette.
-
-**mi yam.**
-– Io mangio.  
-**tu sona.**
-– Tu dormi.  
-**da sona.**
-– Lui / lei dorme.
-
 L'ordine delle parole è generalmente soggetto-verbo-oggetto
 – lo stesso dell'italiano!
 
 **mi love tu.**
 – Io ti amo.
+
+La particella **ya** 'sì' può separare il soggetto e il verbo.
+
+**mau ya yam.**
+– Il gatto mangia.  
+**jen ya sona.**
+– La persona dorme.
 
 Quando il complemento oggetto è un sostantivo, viene distinto dal verbo attraverso un pronome dimostrativo, un numerale o un altro determinante.
 
@@ -96,10 +87,10 @@ Il verbo
 significa 'essere'.
 Può essere omesso in frasi estremamente semplici.
 
-**mi es jen.**
-– Io sono una persona.  
-**mi – jen.**
-– Io sono una persona.
+**mi es home.**
+– Io sono un uomo.  
+**mi – home.**
+– Io sono un uomo.
 
 Non si può omettere quando è parte di una costruzione verbale in serie.
 
@@ -125,7 +116,7 @@ Ma in realtà il significato è chiaro nel contesto reale:
 I tempi e gli aspetti sono espressi opzionalmente con l'aiuto di avverbi e verbi ausiliari, come
 **bi**
 (in questo momento),
-**ha**
+**haf**
 (già)
 **did**
 (nel passato) e
@@ -134,7 +125,7 @@ I tempi e gli aspetti sono espressi opzionalmente con l'aiuto di avverbi e verbi
 
 **mi bi love tu.**
 – Ti sto amando.  
-**mi ha love tu.**
+**mi haf love tu.**
 – Ti ho amato.  
 **mi did love tu.**
 – Ti amavo / amai.  
@@ -148,7 +139,7 @@ La voce passiva si forma con l'aiuto dell'ausiliare
 
 **tu be love.**
 – Tu sei amato.  
-**mi be love de tu.**
+**mi be love of tu.**
 – Io sono amato da te.
 
 ### Modificare le altre parole
@@ -170,23 +161,23 @@ L'avverbio può essere segnalato con
 – Evidentemente lo/la ami.
 
 I modificatori si comparano con
-**mas**
+**mor**
 'più',
-**masim**
+**mor... of hol**
 'il più, -issimo',
-**min**
+**les**
 'meno',
-**minim**
+**les... of hol**
 'il meno' e
 **sim**
 'tanto... quanto'.
 Il secondo termine di paragone è introdotto da
-**ka**
+**dan**
 'di'.
 
-**tu es mas sen ka mi.**
+**tu es mor sen dan mi.**
 – Tu sei più vecchio di me.  
-**tu es masim sen.**
+**tu es mor sen of hol.**
 – Tu sei il più vecchio/vecchissimo.
 
 ### Domande
@@ -206,9 +197,9 @@ Per formulare delle domande aperte, basta scrivere una frase affermativa e sosti
 – Chi ami?  
 **tu love kua man?**
 – Che uomo ami?  
-**kua man love tu?**
+**kua man ya love tu?**
 – Che uomo ti ama?  
-**tu love da kua li poli?**
+**tu love da kua li muche?**
 – Quanto lo/la ami?
 
 ### Comandi

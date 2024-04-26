@@ -222,7 +222,7 @@ The preposition
 **kon**
 denotes togetherness, 'with, in the company of'.
 
-**da loge kon da shefe.**
+**da loga kon da shefe.**
 – He/she speaks with the boss.
 
 #### pos

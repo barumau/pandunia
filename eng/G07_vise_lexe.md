@@ -141,9 +141,9 @@ points to things that are futher away from the speaker in terms of physical dist
 
 The demonstratives can serve as subjects and objects in the same way as nouns.
 
-**da hir es hau.**
+**da hir es gude.**
 – This is good.  
-**da der es dus.**
+**da der es bade.**
 – That is bad.  
 **tu van da hir, he?**
 – Do you want this?  
@@ -264,7 +264,7 @@ Pandunia's pronominal phrases can be arranged in a regular table of pronominals 
 | Time          |when, what time| that time     | sometime      |always, all the time| never    | another time  | any time      |
 | **vei**       | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    | **otre vei**  | **eni vei**   |
 | Manner        | how           | in that way   | somehow       | in every way  | in no way     | otherwise     | anyway        |
-| **sorte**     | **kua sorte** | **da sorte**  | **som sorte** | **evri sorte**| **no sorte**  | **otre sorte**| **eni sorte** |
+| **tipe**      | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   | **otre tipe** | **eni tipe**  |
 | Kind, sort    | what kind of  | that kind of  | some kind of  | all kinds of  | no kind of    |another type of| any kind of   |
 | **monta**     | **kua monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  | **otre monta**| **eni monta** |
 | Amount        | how much      | so much       | some          | all           | none          | other amount  | any amount    |

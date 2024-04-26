@@ -27,9 +27,9 @@ che non cambia per categorie come numero, caso, genere, tempo, aspetto o
 qualsiasi altra categoria flessiva conosciuta nelle altre lingue.
 Si confronti, per esempio, quello che succede alle parole nelle seguenti due frasi in panundia e in italiano.
 
-1. *mi ai da.*
+1. *mi love da.*
    – Io amo lui.
-2. *da ai mi.*
+2. *da love mi.*
    – Egli ama me.
 
 In pandunia il soggetto e il complemento oggetto cambiano semplicemente di posto e non c'è altro.
@@ -144,11 +144,11 @@ come nella tabella che segue.
 
 | Soggetto        | TAM    | Predicato         | Det.   | Oggetto           |
 |-----------------|--------|-------------------|--------|-------------------|
-| *suka bacha*    | **ya** | *kitabi*          | **un** | *long letre.*     |
+| *suka bacha*    | **ya** | *kitabe*          | **un** | *long letre.*     |
 | Il bimbo felice |        | scrive            |        | una lunga lettera.|
-| *jun man*       | **ya** | *visi*            | **un** | *mei parke.*      |
+| *yun man*       | **ya** | *vize*            | **un** | *mei parke.*      |
 | Il giovane uomo |        | vede              |        | un bel parco.     |
-| *poli jen*      | **ya** | *vol shope*       | **un** | nova dom.*        |
+| *meni jen*      | **ya** | *van shope*       | **un** | nove haus.*       |
 | Molte persone   |        | vogliono comprare |        | una nuova casa.   |
 
 La chiave per decodificare il pandunia è conoscere le parole grammaticali e la costruzione della frase.
@@ -175,14 +175,14 @@ Le parole lessicali possono essere suddivise nelle seguenti classi di parole:
 
 Comunque raramente la classe di una parola lessicale è permanente.
 Una parola come
-**ai**
+**love**
 ('amore') può funzionare come verbo, nome o aggettivo
 a seconda della sua posizione nella frase.
 
-*mi **ai** tu.*
+**mi** ***love*** **tu.*
 – Io ti **amo**. (verbo)  
-*tu fikre mi su **ai**.*
+**tu fikre mi se** ***love.***
 – Tu pensi al mio **amore**. (sostantivo)  
-**mi kitabi un ai anjil.**
+**mi kitabe un** ***love*** **letre.**
 – Io scrivo una lettera **d'amore**. (aggettivo)
 

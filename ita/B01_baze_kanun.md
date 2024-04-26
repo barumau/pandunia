@@ -22,9 +22,9 @@ Ogni lettera e ogni combinazione di lettere indicano sempre lo stesso suono.
 ### (3) Accento tonico regolare
 
 Le parole di base sono accentate sulla vocale che precede l'ultima consonante della parola, p.es.
-**háu** ('buono'), **dúnia** ('mondo'), **básha** ('lingua'), **amén** ('amen').
+**háu** ('buono'), **dúnia** ('mondo'), **báshe** ('lingua'), **amén** ('amen').
 L'accentazione delle parole composte si basa invece sull'accento delle diverse parole che le compongono: il componente principale riceve l'accento primario, mentre gli altri possono presentare un accento secondario, p.es.
-**trabásha** ('tradurre'), **dúnialìsme** ('globalismo'), **bàsha skóla** ('scuola di lingue').
+**trabáshe** ('tradurre'), **dúnialìsme** ('globalismo'), **bàshe skóla** ('scuola di lingue').
 L'accento primario è qui indicato con un accento acuto (*á*) e il secondario con un accento grave (*à*).
 
 
@@ -32,37 +32,52 @@ L'accento primario è qui indicato con un accento acuto (*á*) e il secondario c
 
 I pronomi personali sono:  
 **mi** _io_, **tu** _tu_, **da** _egli/ella/esso_,
-**mimen** _noi_, **tumen** _voi_, **damen** _essi/esse_.
+**vi** _noi_, **yu** _voi_, **di** _essi/esse_.
 
 I pronomi possessivi sono:  
-**mi su** _mio_, **tu su** _tuo_, **da su** _suo_,
-**mimen su** _nostro_, **tumen su** _vostro_, **damen su** _loro_.
+**mi se** _mio_, **tu se** _tuo_, **da se** _suo_,
+**vi se** _nostro_, **yu se** _vostro_, **di se** _loro_.
 
 I pronomi interrogativi sono:
-**ke**
+**kua**
 _cosa_ o _chi_,
-**ke su**
+**kua se**
 _di chi_.
 
 
 ### (5) Sostantivi
-   I sostantivi possiedono solo una forma, immutabile.
-   La loro forma non è modificata a seconda di numero, genere o caso.
-   Il numero è indicato dai numerali e dalle parole di quantità.
-   La loro funzione è indicata dall'ordine delle parole o da una preposizione.
+
+I sostantivi possiedono solo una forma, immutabile.
+La loro forma non è modificata a seconda di numero, genere o caso.
+Il numero è indicato dai numerali e dalle parole di quantità.
+La loro funzione è indicata dall'ordine delle parole o da una preposizione.
 
 ### (6) Numerali
 
 I numeri cardinali sono:  
-0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **nelu**, 5 **lima**, 6 **luka**,
-7 **cheti**, 8 **bati**, 9 **tisa**, 10 **des**.  
-Dopo il dieci: 11 **des un**, 12 **des du**, 13 **des tri**, ecc.  
-Decine: 20 **du des**, 30 **tri des**, 40 **nelu des**, ecc.  
-Centinaia: 100 **un sento**, 200 **du sento**, 300 **tri sento**, ecc.  
-Migliaia: 1000 **un kilo**, 2000 **du kilo**, 3000 **tri kilo**, ecc.
+0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **for**, 5 **faif**, 6 **sixe**,
+7 **seven**, 8 **eite**, 9 **nain**, 10 **ten**.  
+Dopo il dieci:
+11 **ten un**, 12 **ten du**, 13 **ten tri**,
+ecc.  
+Decine:
+20 **du ten**, 30 **tri ten**, 40 **for ten**,
+ecc.  
+Centinaia:
+100 **un hunde**, 200 **du hunde**, 300 **tri hunde**,
+ecc.  
+Migliaia:
+1000 **un tauzen**, 2000 **du tauzen**, 3000 **tri tauzen**,
+ecc.
 
-I numeri ordinali usano il suffisso **me**:  
-**un me** (primo), **du me** (secondo), **tri me** (terzo), ecc.
+Il modo di costruire i numeri ordinali è posizionare il numero cardinale dopo il sostantivo.
+
+**parte un**
+– parte prima (la prima parte)  
+**parte du**
+– parte seconda (la seconda parte)  
+**parte tri**
+– parte terza (la terza parte)
 
 
 ### (7) Modificatori
@@ -71,9 +86,9 @@ L'aggettivo e l'avverbio hanno la stessa forma.
 L'aggettivo precede il sostantivo che modifica
 e l'avverbio precede il verbo che modifica.
 
-**un suga loga**
+**un rapide loga**
 – Una parlata veloce.  
-**tu suga loga.**
+**tu rapide loga.**
 – Tu parli velocemente.
 
 
@@ -82,13 +97,13 @@ e l'avverbio precede il verbo che modifica.
 Il verbo non si coniuga in base a persona, numero o tempo.
 Il tempo si indica con i verbi ausiliari:
 
-- **zai**
+- **bi**
   indica un'azione in corso.
-- **le**
+- **haf**
   indica un'azione completata il cui risultato ha un effetto sulla situazione presente.
-- **pas**
+- **did**
   indica un'azione completata che non ha connessione con la situazione presente.
-- **sha**
+- **vil**
   indica un'azione futura.
 
 
@@ -100,11 +115,11 @@ Quest'ordine viene usato sia nelle affermative sia nelle interrogative.
 Una frase passiva si costruisce con l'aiuto del verbo ausiliario passivo
 **be**.
 In alternativa è possibile utilizzare la costruzione con il pronome impersonale
-**men**.
+**von**.
 
 **pandunia be loga.**
 – Il pandunia è parlato.  
-**men loga pandunia.**
+**von loga pandunia.**
 – Si parla il pandunia.
 
 Nella _struttura a incastro_, il complemento oggetto del verbo transitivo rappresenta a sua volta il soggetto del verbo seguente.  

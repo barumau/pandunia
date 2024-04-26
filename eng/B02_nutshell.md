@@ -64,22 +64,26 @@ such as a demonstrative pronoun, numeral or another determiner.
 The verb is a verb phrase and it frequently begins with a grammar word,
 such as an affirmative or negative particle, an auxiliary verb or a marker of tense, aspect or mood.
 
-    Example 1. Structurally unclear sentence.
+Example 1. Structurally unclear sentence.
+
     mau yam fish.
     cat eat fish
     'The cat eats fish.' (probable interpretation of the meaning)
     
-    Example 2. Structurally clear sentence with the affirmation of the verb.
+Example 2. Structurally clear sentence with the affirmation of the verb.
+
     mau ya  yam fish.
     cat yes eat fish
     'The cat does eat fish.'
 
-    Example 3. Structurally clear sentence with the negation of the verb.
+Example 3. Structurally clear sentence with the negation of the verb.
+
     mau ya  yam fish.
     cat no  eat fish
     'The cat doesn't eat fish.'
 
-    Example 4. A complex but structurally clear sentence.
+Example 4. A complex but structurally clear sentence.
+
     mi se frende  haf    yam un  pai.
     me 's friend  ASPECT eat one pie
     'My friend has eaten a pie.'
@@ -102,9 +106,9 @@ means 'to be'.
 It can be left out in very simple sentences.
 
 **mi es home.**
-– I am a person.  
+– I am a human.  
 **mi – home.**
-– I'm a person.
+– I'm a human.
 
 It can't be left out when it is part of a serial verb.
 
@@ -179,8 +183,12 @@ The adverb can be tagged with
 Modifiers are compared with
 **mor**
 'more, -er',
+**mor... of hol**
+'the most... (of all)',
 **les**
-'less', and
+'less',
+**les... of hol**
+'the least... (of all)', and
 **sim**
 'equally, as'.
 The point of comparison is introduced with

@@ -140,7 +140,7 @@ Oni povas aranĝi tiajn vortojn en tabelo kaj en Esperanto kaj en Pandunia.
 | Tempo         | kiam          | tiam          | iam           | ĉiam          | neniam        | alifoje       | iam ajn       |
 | **vei**       | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    | **otre vei**  | **eni vei**   |
 | Maniero       | kiel          | tiel          | iel           | ĉiel          | neniel        | alimaniere    | iel ajn       |
-| **sorte**     | **kua sorte** | **da sorte**  | **som sorte** | **evri sorte**| **no sorte**  | **otre sorte**| **eni sorte** |
+| **tipe**      | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   | **otre tipe** | **eni tipe**  |
 | Kvalito       | kia           | tia           | ia            | ĉia           | nenia         | alispeca      | ia ajn        |
 | **monta**     | **kua monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  | **otre monta**| **eni monta** |
 | Kvanto        | kiom          | tiom          | iom           | ĉiom          | neniom        | alikvante     | iom ajn       |

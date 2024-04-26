@@ -30,29 +30,6 @@ Anche un sostantivo può fungere da soggetto.
 **mau es hevan.**
 – Il gatto è un animale.
 
-Di frequente c'è un marcatore tra il soggetto e il verbo
-per indicare dove termina il soggetto e dove comincia il verbo.
-È di particolare utilità quando il soggetto e il verbo sono parole lessicali
-che potrebbero assumere entrambe le funzioni.
-Il marcatore è di solito una particella o un verbo ausiliare.
-Uno dei tanti marcatori idonei è
-**ya**
-('sì'),
-che non cambia il significato della frase,
-ma aiuta a chiarirne la struttura.
-
-**tuzi yam.**
-– Cibo per conigli. – OPPURE Il coniglio mangia.  
-**tuzi ya yam.**
-– Il coniglio mangia.  
-**karote es tuzi yam.**
-– La carota è un cibo per conigli.  
-**tuzi _ya_ yam karote.**
-– I conigli mangiano le carote.
-
-Altri marcatori idonei includono gli ausiliari di tempo, aspetto e modo,
-che sono introdotti qui di seguito.
-
 
 ## Ausiliari di tempo e modo
 
@@ -65,13 +42,11 @@ La relazione tra un azione, un evento o uno stato e il tempo si indica con dei v
 indica che un'azione è terminata e non è più rilevante per la situazione attuale.
 Si può pensare a qualcosa do simile al passato remoto in italiano (terminai, mangiai).
 
-**mi did don la buku to damen.**
+**mi did don da buke to di.**
 – Diedi loro il libro. (Forse non lo hanno più o lo hanno restituito.)  
 **mi did vizite Franse.**
 – Visitai la Francia.  
-**mi did ada gul yo bir.**
-– Ero solito bere birra. / Avevo l'abitudine di bere birra.  
-**mi did lai to siti.**
+**mi did kom to siti.**
 – Venni in città.
 
 **vil**
@@ -99,19 +74,19 @@ indica che una situazione sta avvenendo nel presente.
 **man** ***vil bi*** **yam ban.**
 – L'uomo mangerà ancora il pane.
 
-**ha**
+**haf**
 'aver fatto'
 indica che un'azione è avvenuta nel passato e si sta ancora svolgendo o che è rilevante per la situazione attuale.
 Si traduce con *già* o *(non) ancora*.
 Si può pensare a qualcosa di simile al passato prossimo italiano (_Ho fatto_, _ho mangiato_).
 
-**man** ***ha*** **yam ban.**
+**man** ***haf*** **yam ban.**
 – L'uomo *aveva*, *ha* o *avrà* mangiato il pane.  
-**man** ***did ha*** **yam ban.**
+**man** ***did haf*** **yam ban.**
 – L'uomo aveva mangiato il pane.  
-**man** ***nau ha*** **yam ban.**
+**man** ***nau haf*** **yam ban.**
 – L'uomo ha mangiato il pane.  
-**man** ***vil ha*** **yam ban.**
+**man** ***vil haf*** **yam ban.**
 – L'uomo avrà mangiato il pane.
 
 
@@ -168,25 +143,25 @@ Nota che gli stessi verbi ausiliari possono essere usati da soli come verbi tran
 In pandunia le preposizioni sono parole che funzionano quasi come i verbi.
 Hanno sempre bisogno di un oggetto.
 
-#### a
+#### to
 
 La preposizione
-**a**
+**to**
 indica una destinazione, un obiettivo o uno scopo, 'a, verso, per'.
 
-**di marche a bazar.**
+**di marche to bazar.**
 – Loro camminano verso il mercato.  
-**mi van don ye buke a tu.**
+**mi van don da buke to tu.**
 – Voglio dare questo libro a te.
 
 
-#### de
+#### of
 
 La preposizione
-**de**
+**of**
 indica separazione o allontanamento, 'via, via da, da'.
 
-**di lai de Brazil.**
+**di kom of Brazil.**
 – Loro vengono dal Brasile.
 
 #### ex
@@ -258,7 +233,7 @@ La preposizione
 **tra**
 indica attraversamento, 'per, attraverso'.
 
-**mimen le kurse tra siti.**
+**vi haf kurse tra siti.**
 - Ho fatto jogging per la città.
 
 #### via
@@ -267,7 +242,7 @@ La preposizione
 **via**
 indica strada, via o percorso, 'via, per'.
 
-**vi lai to Berlin via Praha.**
+**vi kom to Berlin via Praha.**
 – Arriviamo a Berlino via Praga.
 
 #### vise

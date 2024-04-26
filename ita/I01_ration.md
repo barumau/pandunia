@@ -397,16 +397,16 @@ Corrisponde dunque ai pronomi di terza persona inglesi _he_, _she_ e _it_, tutti
 | they       | di         | tāmen      |
 
 I pronomi possessivi seguono i modelli supersemplici del cinese standard.
-Si aggiunge **su** per formare il possessivo:
+Si aggiunge **se** per formare il possessivo:
 
 | Inglese    | Pandunia   | Cinese     |
 |------------|------------|------------|
-| my         | mi su      | wǒ de      |
-| your       | tu su      | nǐ de      |
-| his/her/its| da su      | tā de      |
-| our        | vi su      | wǒmen de   |
-| your       | yu su      | nǐmen de   |
-| their      | di su      | tāmen de   |
+| my         | mi se      | wǒ de      |
+| your       | tu se      | nǐ de      |
+| his/her/its| da se      | tā de      |
+| our        | vi se      | wǒmen de   |
+| your       | yu se      | nǐmen de   |
+| their      | di se      | tāmen de   |
 
 I pronomi personali in pandunia raggiungono tre importanti obiettivi.
 

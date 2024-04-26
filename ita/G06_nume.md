@@ -125,9 +125,9 @@ che include, tra gli altri,
 – una tazza di caffè  
 **du botle vin**
 – due bottiglie di vino  
-**tri saku patato**
+**tri sake patato**
 – tre sacchi di patate  
-**nelu tin limon jus**
+**for tin limon jus**
 – quattro lattine di limonata
 
 
@@ -166,7 +166,7 @@ Le frazioni sono connesse alla parte nominale attraverso
 **of**
 ('di').
 
-**un parte du of hor**
+**un parte du of haur**
 – un mezzo (di una) ora  
 **faif ten parte hunde of jen**
 – il cinquanta percento delle persone  

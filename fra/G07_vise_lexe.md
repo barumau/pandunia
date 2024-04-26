@@ -32,7 +32,7 @@ Les pronoms possessifs sont construit avec le particle
 
 Le pronom réfléchi s'utilise quand l'objet de la phrase est le même que le sujet.
 
-**selfe** 
+**selfe**
 – se, moi-même, toi-même, etc.
 
 Remarque ! Le pronom réfléchi
@@ -109,7 +109,7 @@ Il correspond en français à _qui_, _qui est-ce qui_, _qui est-ce que_ (personn
 | Temps         | quand         | à ce moment   | un fois       | à tout moment | à aucun moment|
 | **vei**       | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    |
 | Manière       | comment       | comme cela|d'une manière quelconque|de toute manière|d'aucun manière|
-| **sorte**     | **kua sorte** | **da sorte**  | **som sorte** | **evri sorte**| **no sorte**  |
+| **tipe**      | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   |
 | Qualité       |de quelle sorte| de cette sorte|d'une quelconque sorte|de tout sorte|d'aucune sorte|
 | **monta**     | **kua monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  |
 | Quantité      | combien       | cette quantité| un peu        |toute la quantité| rien du tout|

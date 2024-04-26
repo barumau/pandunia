@@ -146,7 +146,7 @@ Pandunian pro-sanat voidaan järjestää säännönmukaisesti taulukkoon kuten a
 | Aika          | milloin       | silloin       | joskus        | aina          | ei koskaan    | toiste        |milloin tahansa|
 | **vei**       | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    | **otre vei**  | **eni vei**   |
 | Tapa          | miten         | siten         | jotenkin      | kaikin tavoin | ei mitenkään  | muuten        | miten tahansa |
-| **sorte**     | **kua sorte** | **da sorte**  | **som sorte** | **evri sorte**| **no sorte**  | **otre sorte**| **eni sorte** |
+| **tipe**      | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   | **otre tipe** | **eni tipe**  |
 | Laatu         | millainen     | tuollainen    | jonkinlainen  | kaikenlainen  |ei minkään lainen|toisen lainen|millainen tahansa|
 | **monta**     | **kua monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  | **otre monta**| **eni monta** |
 | Määrä         | montako       | noin monta    | jonkin verran | kaikki        | ei yhtään     | toisen verran |kuinka paljon tahansa|

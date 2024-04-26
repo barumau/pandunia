@@ -6,7 +6,7 @@ hide:
 
 # Pandunia
 
-**sal, dunia!**
+**halo, dunia!**
 – Ciao, mondo!
 
 Benvenuti nella pagina del pandunia,
@@ -33,7 +33,7 @@ come l'inglese, il francese, lo spagnolo, il cinese, il russo, l'arabo e la ling
 Imparare il pandunia è facile per tutti allo stesso modo!
 Le sue parole sono state prese da tutti i continenti e da tutte le culture del mondo.
 
-La versione finale del pandunia è stata pubblicata nel 2023.
+La versione finale del pandunia è stata pubblicata nell'aprile 2024.
 
 <!--
 ## Come impararlo?

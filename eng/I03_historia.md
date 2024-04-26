@@ -98,6 +98,8 @@ Alex André recorded a [30 day challenge to learn Pandunia](https://twitter.com/
 ![](http://www.pandunia.info/grafe/bandera.png "Pandunia flag in 2018")  
 Pandunia flag in 2018
 
+The third version of Pandunia was published in late April 2024.
+
 Here are the creation years of the Wikipedia articles about Pandunia.
 
 - 2008 [Esperanto](https://eo.wikipedia.org/wiki/Pandunia)

@@ -18,8 +18,8 @@ Ainsi, voilà comment on construit le mot **ain sui** ('larme') :
 
 Et le mot **termometrer** (_thermomètre_) :
 
-         term-      (température)  
-       + metr-      (mesure)
+         terme      (température)  
+       + metre      (mesure)
        +   -er      (appareil)
     ____________
     = termometrer    (thermomètre)
@@ -33,7 +33,7 @@ La voyelle **-o-** n'est pas utilisée quand le second mot commence par une voye
 
 La terminaison vocalique du premier mot est toujours omise dans un mot composé.
 
-         pac-       (paix)
+         pace       (paix)
        + iste       (adepte, partisan, -iste)
     ____________
     =  paciste      (pacifiste, partisant de la paix)

@@ -905,53 +905,53 @@ comme préposition ou tout seul comme un verbe.
 **da bi es shefe.**
 – C'est lui le chef / elle la cheffe actuellement.
 
-**da bi es a haus.**  
-En ce moment, il / elle est à la maison.
+**da bi es a haus.**
+– En ce moment, il / elle est à la maison.
 
 
 ### haf <small>déjà (action achevée)</small>
 
-**mi haf sal tu se frende.**  
-J'ai (déjà) salué ton ami(e).
+**mi haf sal tu se frende.**
+– J'ai (déjà) salué ton ami(e).
 
-**da man haf vize da filme.**  
-L'homme a (déjà) regardé la filme.
+**da man haf vize da filme.**
+– L'homme a (déjà) regardé la filme.
 
 **da haf es shefe.**  
 Il / Elle a (déjà) été le chef / la cheffe.
 
-**da haf es a haus.**  
-Il / elle a (déjà) été à la maison.
+**da haf es a haus.**
+– Il / elle a (déjà) été à la maison.
 
 
 ### did <small>dans le passé</small>
 
-**mi did sal tu se frende.**  
-J'ai salué ton ami(e).
+**mi did sal tu se frende.**
+– J'ai salué ton ami(e).
 
-**man did vize un filme.**  
-L'homme a regardé / regardait la filme.
+**man did vize un filme.**
+– L'homme a regardé / regardait la filme.
 
-**da did es shefe.**  
-C'était lui le chef. / C'était elle la cheffe.
+**da did es shefe.**
+– C'était lui le chef. / C'était elle la cheffe.
 
-**da did es a haus.**  
-Il / Elle était à la maison.
+**da did es a haus.**
+– Il / Elle était à la maison.
 
 
 ### vil <small>(événement futur)</small>
 
-**mi vil sal tu se frende.**  
-Je saluerai ton ami(e).
+**mi vil sal tu se frende.**
+– Je saluerai ton ami(e).
 
-**da man vil vize da filme.**  
-L'homme regardera la filme.
+**da man vil vize da filme.**
+– L'homme regardera la filme.
 
-**da vil es shefe.**  
-Il sera chef. / Elle sera cheffe.
+**da vil es shefe.**
+– Il sera chef. / Elle sera cheffe.
 
-**da vil es a haus.**  
-Il / Elle sera à la maison.
+**da vil es a haus.**
+– Il / Elle sera à la maison.
 
 
 

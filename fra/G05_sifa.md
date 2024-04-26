@@ -5,7 +5,7 @@ Un modificateurs est un mot qui ajoute une qualité ou une description à un aut
 
 **un _nove_ karo**
 – une voiture nouvelle  
-**un _suga_ karo**
+**un _rapide_ karo**
 – voiture(s) rapide(s)
 **meni _dai_ meza**
 – grande(s) table(s)  
@@ -16,7 +16,7 @@ Un modificateurs est un mot qui ajoute une qualité ou une description à un aut
 
 Deux adjectifs ou plus peuvent modifier un même mot.
 
-**un shau neu karo**
+**un lil nove karo**
 – petite voiture neuve
 
 L'adjectif peut se placer aussi après le nom.
@@ -24,7 +24,7 @@ Cette structure peut souvent se lire comme une phrase complète, où l'adjectif 
 
 **karo es nove.** 
 – La voiture est neuve.  
-**bagre es suga.** 
+**bagre es rapide.** 
 – Le tigre est rapide.
 
 Naturellement, il peut y avoir des modificateurs des deux côtés du nom également.
@@ -52,19 +52,19 @@ Un modificateur peut également modifier un autre modificateur.
 Ainsi,
 **dai**
 (grand) et
-**shau**
+**lil**
 (petit) peuvent être utilisés comme des adverbes d'intensification.
 
 **un dai jen** 
 – un grand individu  
-**un shau jen** 
+**un lil jen** 
 – un petit individu  
 **un mei jen** 
 – un bel individu
 
 **un dai li mei jen** 
 – un très bel individu  
-**un shau li mei jen** 
+**un lil li mei jen** 
 – un assez bel individu
 
 
@@ -72,21 +72,23 @@ Ainsi,
 
 Les modificateurs peuvent être comparés.
 
-**mas**
+**mor**
 ('plus') marque le comparatif de supériorité  
-**masim**
+**mor... of hol**
 ('le plus') marque le superlatif de supériorité  
-**min**
+**les**
 ('moins') marque le comparatif d'infériorité  
-**minim**
+**les... of hol**
 ('le moins') marque le superlatif d'infériorité  
 **sim**
 ('aussi, autant') marque le comparatif d'égalité
 
-La particule **ko** met en relation les adverbes de comparaison à l'élément comparé.
+La particule
+**dan**
+met en relation les adverbes de comparaison à l'élément comparé.
 
-**mi es mas hau ka tu.**
+**mi es mor hau dan tu.**
 = Je suis meilleur que toi.  
-**tu loga sim hau ka mi.**
+**tu loga sim hau dan mi.**
 = Tu parles aussi bien que moi.
 

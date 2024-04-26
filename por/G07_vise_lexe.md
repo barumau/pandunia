@@ -40,7 +40,7 @@
 | Tempo         | quando        | naquele tempo | em algum tempo| sempre        | nunca         |
 | **vei**       | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    |
 | Modo          | de que modo   | desse modo    | de algún modo|de todos os modos|de nenhum modo|
-| **sorte**     | **kua sorte** | **da sorte**  | **som sorte** | **evri sorte**| **no sorte**  |
+| **tipe**      | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   |
 | Qualidade     | de que tipo   | desse tipo    | de algum tipo | de nenhum tipo| de todo tipo  |
 | **monta**     | **kua monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  |
 | Quantidade    | quanto        | tanto         | um pouco      |toda quantidade|nenhuma quantidade|

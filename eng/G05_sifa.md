@@ -31,7 +31,7 @@ In Pandunia, "adjectives" are modifiers that are placed before the noun that the
 – _big_ tables  
 **meni _gau_ meza**
 – high tables  
-**un hau jen**
+**un _gude_ jen**
 – a good person
 
 Two or more modifiers can modify the same noun.
@@ -47,7 +47,7 @@ is placed immediately before the verb.
 
 **tu _rapide_ loga.**
 – You talk _fast_.  
-**di jen _hau_ kitabe.**
+**di jen _gude_ kitabe.**
 – They write _well_.
 
 It is common to put the modifying particle
@@ -67,7 +67,7 @@ The particle
 **li**
 is used also when a modifier modifies another one.
 
-**un _dai li_ hau buke**
+**un _dai li_ gude buke**
 – a _greatly_ good book  
 **_bala li_ lovente jen**
 – _strongly_ loving people
@@ -77,7 +77,7 @@ is used also when a modifier modifies another one.
 
 Degree words tell us about the intensity of something.
 
-**vere**
+**muche**
 – very  
 **bas**
 – quite, sufficiently, enough  
@@ -90,7 +90,7 @@ Degree words are placed before the word that they modify.
 
 **un dai man**
 – a big man  
-**un vere dai man**
+**un muche dai man**
 – a very big man  
 **un bas dai man**
 – a big enough man / a sufficiently big man
@@ -112,7 +112,7 @@ The meaning is the same like when the compound adverb modifies the main verb.
 
 **mi van loga _vere muche_.**
 – I want to speak very much.  
-**sual tu sona _bas hau_?**
+**sual tu sona _bas gude_?**
 – Did you sleep well enough?
 
 
@@ -120,16 +120,16 @@ The meaning is the same like when the compound adverb modifies the main verb.
 
 Adjectives can be compared with the adverbs of comparison.
 
-- **mor**
-  (_more_) indicates comparison of superiority
-- **mor... of hol**
-  (_most... of all_) indicates the superlative of superiority
-- **les**
-  (_less_) indicates comparison of inferiority
-- **les... of hol**
-  (_least... of all_) indicates the superlative of inferiority
-- **sim**
-  (_as_ or _equally_) indicates the comparison of equality
+**mor**
+(_more_) indicates comparison of superiority  
+**mor... of hol**
+(_most... of all_) indicates the superlative of superiority  
+**les**
+(_less_) indicates comparison of inferiority  
+**les... of hol**
+(_least... of all_) indicates the superlative of inferiority  
+**sim**
+(_as_ or _equally_) indicates the comparison of equality
 
 The particle
 **dan**

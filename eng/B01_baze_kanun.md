@@ -47,20 +47,29 @@ _whose_.
 
 
 ### (5) Nouns
-   Nouns have only one form, always the same.
-   Their form is not affected by number, gender or case.
-   Number is indicated by number and quantity words.
-   Their role is indicated by word order or by a preposition.
+
+Nouns have only one form, always the same.
+Their form is not affected by number, gender or case.
+Number is indicated by number and quantity words.
+Their role is indicated by word order or by a preposition.
 
 ### (6) Numerals
 
 The cardinal numbers are:  
 0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **for**, 5 **faif**, 6 **sixe**,
 7 **seven**, 8 **eite**, 9 **nain**, 10 **ten**.  
-Greater than ten: 11 **ten un**, 12 **ten du**, 13 **ten tri**, etc.  
-Tens: 20 **du ten**, 30 **tri ten**, 40 **for ten**, etc.  
-Hundreds: 100 **un hunde**, 200 **du hunde**, 300 **tri hunde**, etc.  
-Thousands: 1000 **un tauzen**, 2000 **du tauzen**, 3000 **tri tauzen**, etc.
+Greater than ten:
+11 **ten un**, 12 **ten du**, 13 **ten tri**,
+etc.  
+Tens:
+20 **du ten**, 30 **tri ten**, 40 **for ten**,
+etc.  
+Hundreds:
+100 **un hunde**, 200 **du hunde**, 300 **tri hunde**,
+etc.  
+Thousands:
+1000 **un tauzen**, 2000 **du tauzen**, 3000 **tri tauzen**,
+etc.
 
 When a number is put after the noun, it becomes the corresponding ordinal number:  
 **parte un**

@@ -981,7 +981,11 @@ Different scopes of negation may result depending on the location of the negativ
 **mi plis tu no safi da kamar.**
 – I ask you NOT to clean the room.
 
-Particles **ya** and **no** are used also for answering questions.
+Particles
+**ya**
+and
+**no**
+are used also for answering questions.
 
 **sual tu vize mi?** 
 – Do you see me?  
@@ -1005,9 +1009,15 @@ apply to the verb alone and not the sentence as a whole.
 
 ### Modifier particles
 
-Particles **li** and **de** are used to link a noun, an adjective or a verb phrase to a noun to modify it.
-**li** connects the modifying word or phrase to the main noun word.
-**de** works in the opposite direction, it connects the main noun to the modifying word or phrase.
+Particles
+**li**
+and
+**of**
+are used to link a noun, an adjective or a verb phrase to a noun to modify it.
+**li**
+connects the modifying word or phrase to the main noun word.
+**of**
+works in the opposite direction, it connects the main noun to the modifying word or phrase.
 
 #### Modification with noun phrases
 
@@ -1034,15 +1044,19 @@ The particles help in creating measure words too.
 – one sack of potatoes  
 **du sake li patate**
 – two sacks of potatoes  
-**mas sake li patate**
+**mor sake li patate**
 – more sacks of potatoes
 
-Note that **li** and **de** connect phrases together.
-So a modifier phrase with and without **de** can mean a different thing.
+Note that
+**li**
+and
+**of**
+connect phrases together.
+So a modifier phrase with and without them can mean a different thing.
 
-**mas mei hua**
+**mor mei hua**
 – more beautiful flowers  
-**mas of mei hua**
+**mor of mei hua**
 – more of beautiful flowers
 
 #### Modification with verb phrases

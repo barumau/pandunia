@@ -442,11 +442,11 @@ must, have to
 or  
 **safi**
 to clean  
-**tanke**
-thanks  
 **side**
 to sit  
-**un di**
+**tanke**
+thanks  
+**un li**
 only  
 **yam**
 to eat or drink  
@@ -483,7 +483,7 @@ some, a(n)
 **tu ne?**
 = And you?  
 <big>☹</big>
-**mi no basha pandunia...**
+**mi no bashe pandunia...**
 = I don't speak Pandunia...  
 <big>☺</big>
 **perdon! sual da yam cha?**
@@ -542,7 +542,7 @@ Of course common and proper nouns can also be used.
 = Does the chief drink coffee?  
 **sual papa safi kamar?**
 = Does the father clean the room?  
-**sual Niki basha pandunia?**
+**sual Niki bashe pandunia?**
 = Does Nicky speak Pandunia?
 
 
@@ -728,9 +728,10 @@ zero
 
 ## More Questions
 
-To ask questions beginning with _what_, _which_, _how_, _who_ and
-_when_, the interrogative pronoun **kua** is normally used. The
-question can be made more specific by adding words for person, time,
+To ask questions beginning with _what_, _which_, _how_, _who_ and _when_, the interrogative pronoun
+**kua**
+is normally used.
+The question can be made more specific by adding words for person, time,
 manner or thing if needed.
 
 **da es kua?**
@@ -869,7 +870,7 @@ or until it becomes useful to stress that you are still talking in the same tens
 = I had a cat in the past.  
 **da es hau mau.**
 = It was a good cat.  
-**mi have un vaf a nau.**
+**mi have un vaf nau.**
 = I have a dog now.
 
 Any expression of time is good for expressing the tense. When one
@@ -922,5 +923,5 @@ milk
 3. tu yam supe a nau.
 4. da safi kamar a preden.
 5. mau yam milke a posden.
-6. tu se ma feste a prenoce.
+6. tu se ma feste a prenoche.
 

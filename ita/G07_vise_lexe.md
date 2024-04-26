@@ -10,11 +10,11 @@ Sono usati come sostituti di un nome di persona.
 
 | Singolare   | Plurale      |
 |:------------|:-------------|
-| **mi**      | **mimen**    |
+| **mi**      | **vi**       |
 | io          | noi          |
-| **tu**      | **tumen**    |
+| **tu**      | **yu**       |
 | tu          | voi          |
-| **da**      | **damen**    |
+| **da**      | **di**       |
 | egli o ella | essi o esse  |
 
 Tutti i pronomi possono essere usati per tutti i generi.
@@ -25,26 +25,26 @@ Per esempio alla terza persona una sola parola –
 Si tratta di un pronome personale neutrale, che rappresenta chiunque nello stesso modo.
 
 Ci sono tre pronomi plurali di prima persona.
-**tumimen**
+**yumi**
 è il *noi* inclusivo che include l'ascoltatore: 'tu, io e altre persone'.
-**damimen**
+**dimi**
 è il *noi* esclusivo che esclude l'ascoltatore: 'io e altre persone'.
 Infine,
-**mimen**
+**vi**
 è il *noi* neutrale, che può essere tanto inclusivo quanto esclusivo.
 È inoltre il pronome di prima persona plurale più comune,
 laddove gli altri due sono usati solo occasionalmente.
 
 I pronomi possessivi sono formati dal pronome personale e dalla particella possessiva
-**su**.
+**se**.
 
 | Singolare   | Plurale      |
 |:------------|:-------------|
-| **mi su**   | **mimen su** |
+| **mi se**   | **vi se**    |
 | mio         | nostro       |
-| **tu su**   | **tumen su** |
+| **tu se**   | **yu se**    |
 | tuo         | vostro       |
-| **da su**   | **damen su** |
+| **da se**   | **di se**    |
 | suo         | loro         |
 
 
@@ -52,29 +52,29 @@ I pronomi possessivi sono formati dal pronome personale e dalla particella posse
 
 Il pronome riflessivo si usa quando il complemento oggetto di una frase coincide con il soggetto.
 
-**se**
+**selfe**
 – stesso, medesimo
 
 Nota! Il pronome riflessivo è unico per tutte le persone,
-corrisponde dunque agli italiani _mi_, _ti_, _si_, _ci_, _vi_ e _si_
+**selfe**
 
-**mi visi se.**
+**mi vize selfe.**
 – Io mi vedo.  
-**da visi se.**
+**da vize selfe.**
 – Lei si vede. / Lui si vede. 
-**mimen visi se.**
+**vi vize selfe.**
 – Noi ci vediamo (vediamo noi stessi).
 
 L'espressione
-**semen**
+**unotre**
 si usa come pronome reciproco.
 
-**semen**
+**unotre**
 – l'un l'altro
 
-**mi i tu visi semen.**
+**mi e tu vize unotre.**
 – Io e tu ci vediamo (reciprocamente).  
-**mimen visi semen.**
+**vi vize unotre.**
 – Noi ci vediamo (l'un l'altro).
 
 
@@ -83,34 +83,34 @@ si usa come pronome reciproco.
 I pronomi dimostrativi si usano con i sostantivi per specificarli.
 I pronomi dimostrativi in pandunia sono:
 
-**ye**
+**da**
+– quello (conosciuto sia dal parlante sia dall'ascoltatore)  
+**da hir**
 – questo (vicino al parlante)  
-**vo**
-– quello (lontano dal parlante)  
-**la**
-– quello (conosciuto sia dal parlante sia dall'ascoltatore)
+**da der**
+– quello (lontano dal parlante)
 
 Il dimostrativo prossimale
-**ye**
+**da hir**
 indica cose che sono vicine a chi parla.
 Il dimostrativo distale
-**vo**
+**da der**
 indica cose che sono lontane da chi parla.
 
-**tu vol vo buku, he?**
+**tu van da der buke, he?**
 – Vuoi quel libro?  
-**no, mi vol ye buku, no vo.**
+**no, mi van da hir buke, no da der.**
 – No, voglio questo libro, non quello.
 
 I dimostrativi possono fungere da soggetto e complemento oggetto proprio come i sostantivi.
 
-**ye e hau.**
+**da hir es gude.**
 – Questo è buono.  
-**vo e dus.**
+**da der es bade.**
 – Quello è cattivo.  
-**tu vol ye, he?**
+**tu van da hir, he?**
 – Vuoi questo?  
-**no, mi vol vo.**
+**no, mi van da der.**
 – No, voglio quello.
 
 Quando il verbo è una parola lessicale,
@@ -118,9 +118,9 @@ c'è bisogno di una particella modale,
 come **ya** o **no**,
 tra il soggetto e il verbo.
 
-**mi visi du jen.**
+**mi vize du jen.**
 – Vedo due persone.  
-**ye ya gani i vo no gani.**
+**da hir ya gani e da der no gani.**
 – Questi canta e quegli non canta.
 
 I pronomi prossimale e distale di base sono usati per introdurre un nuovo oggetto.
@@ -129,10 +129,10 @@ non specifica una distanza fisica,
 ma è usato quando il parlante ha già menzionato l'oggetto o la persona in questione
 e questo/a è nota a chi ascolta o è l'argomento del discorso.
 
-**ye e mau. da vol yam vo mushu.**
+**da hir es mau. da van yam da der mushu.**
 – Questo è un gatto. Vuole mangiare quel topo.
 
-**mi ha un mau i un vaf. la vaf e dai. da yam poli yam.**
+**mi have un mau e un vaf. da vaf es dai. da bi yam muche yam.**
 – Ho un gatto e un cane. Il cane è grande. Mangia molto cibo.
 
 
@@ -140,29 +140,29 @@ e questo/a è nota a chi ascolta o è l'argomento del discorso.
 
 I pronomi dimostrativi possono essere usati anche internamente al discorso.
 In questo caso si riferiscono a entità astratte del discorso, non a oggetti concreti.
-**la**
+**da**
 si riferisce a cose dette in precedenza,
-**ye**
+**da hir**
 si riferisce a cose che si dicono in quel momento e
-**vo**
+**da der**
 si riferisce a cose che si stanno per dire.
 
-**ye jumla e korte.**
+**da hir jumla es korte.**
 – Questa frase è breve.
 
 Nell'esempio precedente,
-**ye jumla**
+**da hir jumla**
 (_questa frase_) si riferisce alla frase che si sta pronunciando.
 
-**mi seme vo: mi ai tu.**
+**mi seme da der: mi love tu.**
 – Io intendo questo: ti amo. OPPURE io intendo che ti amo.  
-**mi ai tu. mi seme la.**
+**mi love tu. mi seme da.**
 – Ti amo. Questo è ciò che intendo.
 
 Nell'esempio sopra il pronome
-**vo**
+**da der**
 si riferisce al contenuto della frase seguente e
-**la**
+**da**
 si riferisce al contenuto della frase precedente.
 
 
@@ -172,41 +172,48 @@ si riferisce al contenuto della frase precedente.
 è il pronome interrogativo generico.
 Funziona come gli italiani _chi_ e _che cosa_.
 
-**ke?**
-– Chi o cosa?  
+**kua**
+– cosa?  
+**hu**
+– chi?
 
-L'aggettivo interrogativo è sempre **ke**
-e corrisponde agli italiani _quale_, _che_.
+Anche gli aggettivi vengono trasformati in domanda con **kua li**.
 
-**ke she?**
-– Cosa? (Che cosa?)  
-**ke jen?**
-– Chi? (Che persona?)  
-**ke zaman?**
-– Quando? (Che tempo?)  
-**ke loka?**
-– Dove? (Che luogo?)  
-**ke mode?**
-– Come? (Che modo?)  
-**ke sabu?**
-– Perché? (Che ragione?)
-
-Anche gli aggettivi vengono trasformati in domanda con **ke**.
-
-**ke nova?**
+**kua li nove?**
 – Quanto nuovo?  
-**ke koste?**
+**kua li koste?**
 – Quanto costoso?  
-**ke poli?**
+**kua li muche?**
 – Quanti?  
-**ke kam?**
+**kua li kam?**
 – Quanto poco?  
-**ke dai?**
+**kua li dai?**
 – Quanto grande?  
-**ke shau?**
+**kua li lil?**
 – Quanto piccolo?
 
-**tu ha ke dai di mau?**
+**tu have kua li dai mau?**
 – Hai un gatto quanto grande?
 
+
+## Table dei "correlativi"
+
+| Categoria     | Interrogativo | Demonstrativo | Indefinido    | Coletivo      | Negativo      |
+|:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| **ting**      | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   |
+| Cosa          | cosa          | quella cosa   | qualcosa      | ogni cosa     | niente        |
+| **von**       | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    |
+| Unità         | quale         | quello        | qualcuno      | ognuno        | nessuno       |
+| **have**      | **kua von se**| **da von se** | **som von se**|**evri von se**| **no von se** |
+| Possesso      | di chi        | di quello     | di qualcuno   | di tutti      | di nessuno    |
+| **loke**      | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   |
+| Luogo         | dove          | là quel luogo |in qualche posto| dovunque     |in nessun posto|
+| **tem**       | **kua tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    |
+| Tempo         | quando        | in quel tempo | qualche volta | sempre        | mai           |
+| **vei**       | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    |
+| Modo          | in che modo   | in quel modo  |in qualche modo| in tutti modi | in nessun modo|
+| **tipe**      | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   |
+| Tipo          | che tipo      | quel tipo     | qualche tipo  | orni tipo     | nessun tipo   |
+| **monta**     | **kua monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  |
+| Quantità      | quanto        |quella quantità| una quantità  | tutto quanto  | per niente    |
 

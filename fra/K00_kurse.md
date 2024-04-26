@@ -33,13 +33,13 @@ est toujours neutre sur le plan de la politesse et de l'intimité.
 **mi es Sara. da es kua?**
 = Je suis Sara. Qui est-ce ?  
 <big>☻</big>g>
-**da es mi su frende.**
+**da es mi se frende.**
 = C'est mon amie.  
 <big>☺</big>g>
-**da su nam es kua?**
+**da se nam es kua?**
 = Quel est son nom ?  
 <big>☻</big>g>
-**da su nam es Maria.**
+**da se nam es Maria.**
 = Son nom est Maria.
 
 ### Grammaire
@@ -47,11 +47,11 @@ est toujours neutre sur le plan de la politesse et de l'intimité.
 Les phrases en Pandunia suivent normalement la structure sujet-commentaire.
 Le sujet indique de qui ou de quoi on parle.
 Le commentaire dit quelque chose sur le sujet. Par exemple, dans
-**da es mi su frende**
+**da es mi se frende**
 le sujet est le pronom
 **da**
 (il, elle, il neutre), suivi du commentaire
-**es mi su frende**
+**es mi se frende**
 (est mon amie).
 
 Le mot
@@ -101,15 +101,15 @@ Les réponses correctes sont données plus bas.
 
 **mi**
 je, moi  
-**mi su**
+**mi se**
 mon, ma, mes  
 **tu**
 tu, toi  
-**tu su**
+**tu se**
 ton, ta, tes  
 **da**
 il, elle ou il neutre  
-**da su**
+**da se**
 son, sa, ses  
 **kua**
 qui ou quoi  
@@ -138,10 +138,10 @@ animal
 
 1. tu es kua?
 2. mi es Tomas.
-3. tu su frende es kua?
+3. tu se frende es kua?
 4. da es Sara.
-5. tu su nam es kua?
-6. mi su nam es ........... 
+5. tu se nam es kua?
+6. mi se nam es ........... 
 
 
 --------------------------------------------------------------------------------
@@ -287,13 +287,13 @@ chef, patron
 = Je prends du thé, merci.  
 ...  
 <big>🧓</big>
-**plis sal tu su mama!**
+**plis sal tu se mama!**
 = S'il te plaît, salut ta mère.  
 <big>🧒</big>
 **mi sal da. sal reste!**
 = Je la saluerai. Au revoir !  
 <big>🧓</big>
-**sal ga!**
+**sal go!**
 = Au revoir !
 
 
@@ -408,9 +408,7 @@ thé
 demander (meniment), s'il-vous-plaît  
 **don**
 donner  
-**tanke**
-merci  
-**i**
+**e**
 et  
 **kafe**
 café  
@@ -422,6 +420,8 @@ ou
 nettoyer  
 **side**
 s'asseoir (être assis)  
+**tanke**
+merci  
 **yam**
 manger ou boire, consommer
 
@@ -442,38 +442,38 @@ manger ou boire, consommer
 
 ### Dialogue
 
-<big>👩‍🍳</big>
+<big>☺</big>
 **sal! sual tu yam kafe o cha?**
 = Bonjour ! Prenez-vous du café ou du thé ?  
-<big>🧔</big>
+<big>☻</big>
 **cha.**
 = Du thé.  
-<big>👩‍🍳</big>
+<big>☺</big>
 **tu ne?**
 = Et vous ?  
-<big>🧓</big>
+<big>☹</big>
 **mi no basha pandunia...**
 = Je ne parle pas le Pandunia...  
-<big>👩‍🍳</big>
-**maf! sual da yam cha?**
+<big>☺</big>
+**perdon! sual da yam cha?**
 = Pardon ! prend-il du thé ?  
-<big>🧔</big>
+<big>☻</big>
 **no. da no yam cha. da yam kafe.**
 = Non. Il ne prend pas de thé. Il prend du café.  
-<big>👩‍🍳</big>
+<big>☺</big>
 **sual tu yam supe?**
 = Prenez-vous de la soupe ?  
-<big>🧔</big>
+<big>☻</big>
 **ya.**
 = Oui.  
-<big>👩‍🍳</big>
+<big>☺</big>
 **sual da yam supe?**
 = Prend-il de la soupe ?  
-<big>🧔</big>
+<big>☻</big>
 **no yam.**
 = Non.  
-<big>👩‍🍳</big>
-**tanke. mi don un cha i un kafe i un supe pos des minute.**
+<big>☺</big>
+**tanke. mi don un cha e un kafe e un supe pos ten minute.**
  = Merci. J'apporte un thé, un café et une soupe dans 10 minutes
 
 
@@ -565,26 +565,26 @@ Essayez de traduire ces phrases du Français au Pandunia.
 
 ### Liste de mots
 
-**pos**
-après  
-**maf**
-pardon, désolé  
+**bashe**
+parler (une langue)  
 **minute**
 minute  
 **no**
 non, pas  
-**basha**
-parler (une langue)  
+**perdon**
+pardon, désolé  
+**pos**
+après  
+**sual**
+poser une question (est-ce que)  
 **sui**
 eau  
 **supe**
 soupe  
 **un**
 un (1)  
-**des**
+**ten**
 dix  
-**sual**
-poser une question (est-ce que)  
 **ya**
 oui
 
@@ -663,22 +663,22 @@ Parfois, il y a plus d'une bonne réponse.
 
 ### Liste de mots
 
-**kupa**
-coupe, verre, tasse  
+**ama**
+mais  
+**du**
+deux  
 **hali**
 vide  
-**ha**
+**have**
 avoir  
+**kupa**
+coupe, verre, tasse  
 **mau**
 chat  
 **vaf**
 chien  
-**du**
-deux  
 **siro**
 siro  
-**ama**
-mais
 
 
 ### Réponses aux exercices
@@ -696,7 +696,7 @@ mais
 ## Autres questions
 
 Pour poser des questions commençant par _quoi_, _quel_, _comment_, _qui_ and _quand_, le pronom interrogatif
-**ke**
+**kua**
 est normalement utilisé.
 La question peut être formulée de manière plus spécifique en ajoutant des mots
 pour la personne, le temps, la manière ou la chose si nécessaire.
@@ -706,7 +706,7 @@ pour la personne, le temps, la manière ou la chose si nécessaire.
 **da es kua jen?**
 = Qui est-il/elle ?  
 **da es kua ting?**
-**kua jen lai?**
+**kua jen kom?**
 = Qui vient ? (**ren** = personne)  
 **tu yam a kua tem?**
 = Quand manges-tu ? (**zaman** = temps)  
@@ -733,7 +733,7 @@ Bien entendu, vous pouvez également utiliser
 pour exprimer la cause
 ou la raison de quelque chose, même si vous ne réponsez pas à une question.
 
-**mi suka mau de sababe di es kavai**
+**mi suka mau of sababe di es kavai**
 = J'aime les chats parce qu'ils sont mignons.
 
 ### Exercices
@@ -750,7 +750,7 @@ ou la raison de quelque chose, même si vous ne réponsez pas à une question.
 
 **danse**
 danser  
-**lai**
+**kom**
 venir  
 **jen**
 personne  
@@ -767,10 +767,10 @@ temps, periode
 
 1. kua jen suka supe?
 2. papa suka.
-3. kua tem da lai?
+3. kua tem da kom?
 4. pos des minute.
 5. kua sababe da no yam?
-6. de sabu da no suka kafe i supe.
+6. of sababe da no suka kafe e supe.
 
 
 --------------------------------------------------------------------------------
@@ -798,42 +798,22 @@ propos d'un petit déjeuner qui a déjà été consommé.
 
 Il y a également des expressions de temps spécifiques.
 
-**zai**
-= actuellement, en ce moment
-**sha**
-= dans le futur
+**did**
+– dans le passé  
+**nau**
+– actuellement, en ce moment
+**vil**
+– dans le futur
 
-Les adjectifs pour le passé, le présent et le futur sont
-**pas, zai**
-et
-**sha**.
-Ils peuvent être utilisés pour modifier des noms.
-
-**Sara es mi su did shefe.**
-= Sara est mon ex-patron.  
-**Yusef es mi su zai shefe.**
-= Yusef est mon chef actuel.  
-**Maria es mi su vil shefe.**
-= Maria est ma future patronne.
 
 Les mêmes mots sont utilisés lorsque vous parlez d'actions et d'événements dans le temps. Il suffit de mettre le mot avant le verbe.
 
 **mi did bate da.**
 = Je l'ai frappé (dans le passé).  
-**mi zai bate da.**
+**mi nau bate da.**
 = Je le frappe (actuellement)  
 **mi vil bate da.**
 = Je le frapperai (dans le futur).
-
-On peut également placer l'expression du temps en fin de phrase.
-
-
-**mi bate da a pas.**
-– Je l'ai frappé par le passé.  
-**mi bate da a zai.**
-– Je le frappe à présent.  
-**mi bate da a vil.**
-– Je le frapperai dans le futur / à l'avenir.
 
 Il n'est pas nécessaire de répéter les expressions de temps à chaque phrase. Ce serait maladroit.
 Une seule indication temporelle suffit pour situer le moment du récit.
@@ -844,7 +824,7 @@ ou bien pour souligner le fait que le temps du récit n'a pas changé.
 = J'ai eu un chat dans le passé.
 **da es hau mau.**
 = C'était un bon chat.
-**mi have un vaf a zai.**
+**mi have un vaf nau.**
 = J'ai un chien maintenant.
 
 Toute expression de temps convient pour exprimer un moment dans le temps.
@@ -869,11 +849,11 @@ Essayez de traduire ces phrases du Français au Pandunia. Les réponses correcte
 
 ### Liste de mots
 
-**festa**
+**feste**
 fêter, célébrer  
 **did**
 passé, ancien  
-**zai**
+**nau**
 présent, en cours, actuel  
 **vil**
 futur  
@@ -897,10 +877,10 @@ lait
 
 ### Réponses aux exercices
 
-1. mi su shefe festa a vil.
-2. mi have du vaf a did.
-3. tu yam supe a zai.
+1. mi se shefe feste a vil.
+2. mi have du vaf a pas.
+3. tu yam supe a nau.
 4. da safi kamar a preden.
 5. mau yam milke a posden.
-6. tu su ma festa a prenoce.
+6. tu se ma feste a prenoche.
 

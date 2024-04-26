@@ -34,7 +34,7 @@ car il y a pas de marquer général du passif qui pourrait doner l'information p
 Autrement dit, la voix passive et active ont la forme commune.
 Si le sujet ne précise pas les cas comme animé/inanimé, actant/patient, la même forme peut être ambiguë d'un cas à l'autre.
 
-**koko ha yam.**
+**koko haf yam.**
 – Le poulet a déjà mangé. *ou*
 Le poulet est déjà mangé (par nous).
 
@@ -42,50 +42,44 @@ Cet exemple est un cas particulier.
 Dans les communications courantes, cette ambiguïté est levée par la fontion sémantique du sujet.
 La phrase suivant ne peut qu'être interprétée par la voix active.
 
-**mi ha yam.**
+**mi haf yam.**
 – J'ai déjà mangé.
-
-Et la phrase suivant ne peut qu'être interprétée par la voix passive.
-
-**keke ha yam.**
-– La gâteau est déjà mangé.
 
 La phrase passive peut être marquée par la verbe auxiliaire
 **be**.
 
-**koko ha be yam.**
+**koko haf be yam.**
 – Le poulet est mangé.  
-**kamar ha be safi.**
+**kamar haf be safi.**
 – Chambre est nettoyée.
 
 On peut indiquer l'agent avec la préposition
 **de**.
 
-**koko ha be yam de vi.**
+**koko haf be yam de vi.**
 – Le poulet est mangé par nous.  
-**kamar ha be safi de mi.**
+**kamar haf be safi de mi.**
 – Chambre est nettoyée par moi.
 
 
 ## Verbes auxiliaires des aspects
 
-
-**ha**
+**haf**
 'achever'
 indique l'aspect accompli ou achevé.
 Il indique qu'une action s'est produite dans le passé et est toujours en cours, ou est pertinente pour la situation actuelle.
 
-**da _ha_ es guru.**
+**da _haf_ es guru.**
 – Il ou elle est déjà enseignant.  
-**mi no _ha_ gul yo alkohol.**
+**mi no _ha_ gul alkol.**
 – Je n'ai pas encore bu d'alcool.  
-**mi _ha_ no gul yo alkohol.**
+**mi _haf_ no gul alkol.**
 – Je ne bois déjà plus d'alcool. (J'ai déjà achevé la situation où je ne bois pas d'alcool.)  
-**mi _ha_ don la buke to di.**
+**mi _haf_ don la buke to di.**
 – Je leur ai déjà donné le livre.  
-**damen no _ha_ ridon da to mi.**
+**damen no _haf_ ridon da to mi.**
 – Ils ne me l'ont pas encore rendu.  
-**mi _ha_ lai to site.**
+**mi _haf_ kom to site.**
 – Je suis déjà venu en ville.
 
 
@@ -95,13 +89,11 @@ Il indique qu'une action s'est produite dans le passé et est toujours en cours,
 'passer'
 Il indique qu'une action est terminée et n'est plus pertinente pour la situation actuelle.
 
-**mi did don la buku to damen.**
+**mi did don la buke to di.**
 – Je leur ai donné le livre. (Peut-être qu'ils ne l'ont plus ou qu'ils l'ont rendu.)  
 **mi did vizite Franse.**
 – J'ai visité la France une fois.  
-**mi did ada gul bir.**
-– J'avais l'habitude de boire de la bière.  
-**mi did lai to site.**
+**mi did kom to site.**
 – Je suis venu en ville une fois.
 
 **vil**
@@ -122,7 +114,7 @@ Le pandunia possède trois prépositions basiques de lieu et de temps.
 
 **a**
 – présence, lieu où l'on est ou moment (en général): avec, à, dans, sur, au cours de, pendant, durant  
-**de**
+**of**
 – origine, début ou cause: de, à partir de, depuis, parce que, car  
 **to**
 – destination, fin, objectif ou but : à, jusqu'à, pour, alors
@@ -133,33 +125,33 @@ Une préposition introduit un complément prépositionnel. Dans un complément p
 – Je suis à l'hôtel.  
 **mi sona a hotel.** 
 – Je dors à l'hôtel.  
-**mi sona de sham to suba.** 
+**mi sona of sham to suba.** 
 – Je dors du soir au matin.  
-**mi safar de London to Paris.** 
+**mi safar of London to Paris.** 
 – Je voyage de Londres à Paris.  
 
 Les prépositions peuvent être aussi complétées par un groupe verbale. Dans ce cas, elles se réfèrent au temps.
 
-**mi dele de tu gowa.**
+**mi dele of tu go.**
 – J'ai attendu depuis que tu es parti.  
 **mi dele to tu lai dome.**
 – J'attends que tu viennes à la maison.  
 **mi dele a tu sona.**
-– J'attends pendant que tu dors.  
+– J'attends pendant que tu dors.
 
 #### a
 
-**a** est une préposition aush nombreush sens. a significhation de base est  "avech".
+**a** est une préposition aush nombreush sens. a significhation de base est "avec".
  
-**mi lipa a dom.**  
+**mi sta a dom.**  
 _Je suis debout avec maison._  
 Je me tiens devant la maison / tout près de la maison.
  
-**mi loge a pandunia.**  
+**mi loga a pandunia.**  
 _Je parle avec pandunia._  
 Je parle en pandunia.
  
-**mi loge a dosti a pandunia a fon.**  
+**mi loga a frende a pandunia a fon.**  
 _Je parle avec ami.e avec pandunia avec téléphone._  
 Je parle avec un ami.e en pandunia au téléphone.
 
@@ -169,10 +161,10 @@ En pandunia certains verbes fonctionnent comme le feraient des prépositions en 
 
 **mi kata ban.**
 – Je coupe pain.  
-**mi kata ban, uze chaku.**
+**mi kata ban, uza chaku.**
 – Je coupe pain, utilise un couteau. ~ Je coupe du pain avec un couteau.
 
-**mi dele dur du hor.**
+**mi dele dura du hor.**
 – J'attends, (ça) dure deux heures. ~ J'attends pendant deux heures.
 
 #### Verbes sans prépositions
@@ -180,27 +172,27 @@ En pandunia certains verbes fonctionnent comme le feraient des prépositions en 
 Les prépositions ne sont pas utilisées aussi fréquemment en pandunia qu'en anglais.
 Dans de nombreuses phrases, le verbe seul suffit.
 
-**mi lai dom.**
+**mi kom dom.**
 – Je viens (à) la maison.  
 **tu side kursi.**
 – Tu es assis (sur) une chaise.  
 **ya lala sofa.**
 – Il ou elle est allongée (sur) le canapé.  
-**peshe boi daria.**
+**pishe boi daria.**
 – Des poissons nagent (dans) la mer.  
-**jangtor marche dau.**
+**janger marche dau.**
 – Des guerriers défilent (dans) la rue.  
 
-### Préposition de relation
+### Prépositions de relation
 
 La préposition
-**ka**
+**as**
 indique la manière ou le style. Elle correspond en français aux prépositions _comme_, _que_, et _comme si_.
 
-**mi ken pandunia ka guru.**
+**mi ken pandunia as guru.**
 – Je connais le pandunia comme un maître.
 
-**ka**
+**as**
 met en relation le verbe ou l'adjectif avec l'élément comparé.
 Dans l'exemple ci-dessus
 **ken**
@@ -208,20 +200,22 @@ Dans l'exemple ci-dessus
 **guru**
 (maître) est l'élément de comparaison.
 
-**ka** est aussi utilisé quand on chompare des adjechtifs.
+**dan**
+est utilisé quand on chompare des adjectifs.
 
-**bacha e min dai ka pa.**
+**bacha es les dai dan pa.**
 – L'enfant est moins grand que le père.  
-**chin pa e par dai ka pa.**
+**gran pa es sim dai dan pa.**
 – Grand-père est aussi grand que père.
 
-**ka**
+**dan**
 met en relation les adverbes de comparaison –
-**mas**
+**mor**
 (plus),
-**min**
+**les**
 (moins) et
-**par**
+**sim**
 (aussi, autant) - et l'élément comparé,
 **pa**
 (père) dans les exemples ci-dessus.
+

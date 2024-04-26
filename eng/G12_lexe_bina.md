@@ -846,10 +846,10 @@ The form **-ive** is used when the base word ends in a consonant or an *-e*.
 
 The form **-tive** is used when the base word ends in a vowel other than *-e*.
 
-**basha**
-'language, means of communication'
-→ **bashative**
-'communicative'
+**dika**
+'point at, indicate'
+→ **dikative**
+'indicative'
 
 #### -ize ~ -tize
 

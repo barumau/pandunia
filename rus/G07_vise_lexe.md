@@ -32,7 +32,7 @@
 | время         | когда         | тогда         | когда-то      | всегда        | никогда       |
 | **vei**       | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    |
 | способ        | как           | так           | как-то        | всячески      | никак         |
-| **sorte**     | **kua sorte** | **da sorte**  | **som sorte** | **evri sorte**| **no sorte**  |
+| **tipe**      | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   |
 | качество      | какой         | такой         | какой-то      | всяческий     | никакой       |
 | **monta**     | **kua monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  |
 | количество    | сколько       | столько       | сколько-то    | целиком       | нисколько     |

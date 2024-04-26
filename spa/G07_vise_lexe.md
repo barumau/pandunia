@@ -160,7 +160,7 @@ Antes de un adjetivo, **kua li** también significa «cuán».
 | Tiempo        | cuándo        | entonces      | alguna vez    | siempre       | nunca         |
 | **vei**       | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    |
 | Modo          | cómo          | así, tan      | de algún modo | de todos modos| de ningún modo|
-| **sorte**     | **kua sorte** | **da sorte**  | **som sorte** | **evri sorte**| **no sorte**  |
+| **tipe**      | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   |
 | Cualidad      | cómo          | tal           | algún         | cada, todo    | ningún        |
 | **monta**     | **kua monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  |
 | Cantidad      | cuánto        | tanto         | algo, un poco | todo monto    | nada          |

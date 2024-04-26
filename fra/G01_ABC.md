@@ -86,14 +86,14 @@ De façon similaire, il y a une diphtongue dans le mot **day**.
 L’accent est sur la syllabe qui est avant la dernière consonne :
 
 - **mau** /máu/, **hotel** /hotél/
-- **nove** /nóve/, **musike** /musíke/, **arabe** /arábe/
+- **nove** /nóve/, **muzike** /muzíke/, **arabe** /arábe/
 - **dunia** /dúnia/, **arabia** /arábia/
 
-     dunia e mimen su mei planeta.  
-    /dúnia é mímen su méi planéta./
+     dunia es vi se mei planeta.  
+    /dúnia és ví se méi planéta./
 
-     mi vol loge komun basha, da e pandunia.  
-    /mí vól lóge komún básha, dá é pandúnia./
+     mi vol loga komun bashe, da es pandunia.  
+    /mí vól lóga komún báshe, dá és pandúnia./
 
 
 ## Majuscules
@@ -130,10 +130,8 @@ Par exemple : 10 Mb (des megobite), 100 Gb (hon gigobite), 2 mm (du milometre), 
 
 Lors de textes informels, des émoticones et des emojis peuvent être utilisés pour indiquer une humeur. Par exemple,  **:)** indique la joie et **:(** indique de la tristesse.
 
-**mi vide tu :)**
+**mi vize tu :)**
 = Je te vois.  
-**mi no vide tu :(**
+**mi no vize tu :(**
 = Je ne te vois pas.
 
-
-Mis à jour le 2023-07-12

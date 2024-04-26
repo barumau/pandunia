@@ -109,9 +109,9 @@ Les sons qui existent en anglais ou en mandarin mais pas en Pandunia sont mis en
 | Nasales    | m n ng      | m n ng        | m n ng          |
 | Occlusives | p b t d k g | p b t d k g   | p b t d k g     |
 | Liquides   | l r y v     | l r y w       | l r y w (yü)    |
-| Sifflantes | s z x       | s z sh (zh)   | s z* sh (x)     |
+| Sifflantes | s z sh      | s z sh (zh)   | s z* sh (x)     |
 | Fricatives | f h         | f h (v th dh) | f h             |
-| Affriquées | c j         | ch j          | c j (ch zh q)   |
+| Affriquées | ch j        | ch j          | ch j (c zh q)   |
 
 
 ### Modèles de syllabes simples
@@ -294,7 +294,7 @@ Le Pandunia emprunte des racines de mots occidentaux afin de proposer un vocabul
 | --------------- | ----------- | --------- | -------- | -------- | -------- | -------- |
 | **korte*        | short       | curto     | corto    | court    | kurz     | korotkiy |
 | **neu**         | new         | novo      | nuevo    | nouveau, neuf | neu | novıy    |
-| **marce**       | march       | marcha    | marcha   | marche   | Marsch   | marš     |
+| **marche**      | march       | marcha    | marcha   | marche   | Marsch   | marš     |
 | **posta**       | post (mail) | (postal)  | posta    | poste    | Post     | počta    |
 
 A l'instar des langues citées ci-dessus, le Pandunia utilise également des suffixes afin de créer des adjectifs, des noms et des verbes. Voici quelques exemples : korti (court), korte (nabot, nain), korta (raccourcir), novi (nouveau), nove (des nouvelles [informations]), nova (renouveler, rénover).
@@ -330,7 +330,7 @@ Dans cette section, nous allons comparer les structures de phrases du Pandunia a
 L'ordre normal des mots est sujet-verbe-objet - tout comme en anglais ou en chinois.
 
     Anglais :   I love you, and you love me.
-    Pandunia:  mi love tu, tu love mi.
+    Pandunia:   mi love tu, tu love mi.
     Chinois :   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
     Français :  Je t'aime, et tu m'aimes.
 
@@ -347,7 +347,7 @@ est utilisé lorsque l'objet d'une action vient en premier dans la phrase. (C'es
 est un mot emprunté au chinois standard, mais il est également proche de certaines utilisations de l'anglais "to be".
 
     Anglais :   It can not be eaten.
-    Pandunia:  da no ken be yam.
+    Pandunia:   da no ken be yam.
     Chinois :   Tā bù néng bèi chī. (它不能被吃。)
     Français :	Ça ne peut pas être mangé.
 
@@ -366,13 +366,13 @@ Un seul mot,
 est utilisé au lieu de _am, is, are, was, were..._ (_suis, es, est, sommes, êtes, sont, étais, était, étions, étiez…_).
 
     Anglais :   It is an apple.
-    Pandunia:  da es aple.
+    Pandunia:   da es aple.
     Chinois :   Tā shì píngguǒ. (他是苹果。)
     Français :  C'est une pomme.
     
     
     Anglais :   They are apples.
-    Pandunia:  di es aple.
+    Pandunia:   di es aple.
     Chinois :   Tāmen shì píngguǒ. (他们是苹果。)
     Français :  Ce sont des pommes.
     
@@ -380,3 +380,4 @@ est utilisé au lieu de _am, is, are, was, were..._ (_suis, es, est, sommes, êt
 ## Le Pandunia - Une langue mondiale
 
 ![](http://www.pandunia.info/grafe/bandera.png "Pandunia flag")
+

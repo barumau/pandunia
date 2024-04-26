@@ -64,19 +64,23 @@ L'ordre de base des mots dans une phrase est sujet - verbe - objet (SVO).
 – Je t'aime.
 
 Le temps, l'aspect et le mode sont indiqués à l'aide de particules et d'auxiliaires.
+**bi**
+indique le moment en cours.
+**haf**
+par son sens "déjà", marque l'aspect parfait.
+**did**
+marque le passé révolu.
+**vil**
+marque le futur.
 
 **mi bi love tu.**
-– Je suis en train de t'aimer. / Je t'aime en ce moment.
-(**bi** indique le moment en cours)  
-**mi ha love tu.**
-– Je l'ai (déjà) fait.
-(**ha** par son sens "déjà", marque l'aspect parfait)  
+– Je suis en train de t'aimer. / Je t'aime en ce moment.  
+**mi haf love tu.**
+– Je l'ai (déjà) fait.  
 **mi did love tu.**
-– Je t'ai aimé. / Je t'aimais.
-(**did** marque le passé révolu.)  
+– Je t'ai aimé. / Je t'aimais.  
 **mi vil love tu.**
 – Je t'aimerai.
-(**vil** marque le futur)
 
 L'ordre des mots est inversé dans les phrases au passif.
 Les verbes au passif prennent la particule
@@ -98,21 +102,21 @@ Les adjectifs se placent généralement devant le nom qu'ils modifient.
 – _les livres bonnes_
 
 On compare les adjectifs grâce aux mots
-**mas**
+**mor**
 (_plus_),
-**masim**
+**mor... of hol**
 (_le plus_),
-**min**
+**les**
 (_moins_),
-**minim**
+**les... of hol**
 (_le moins_) et
 **sim**
 (_aussi, tout autant_).
 Le point de comparison est introduit par
-**ka**
+**dan**
 (_que_).
 
-**da hir idea es mas nove ka da der idea.**
+**da hir idea es mor nove dan da der idea.**
 – Cette idée-ci est plus novatrice que cette idée-là.
 
 Les adverbes se placent généralement avant le nom qu'ils modifient, mais pas toujours.
