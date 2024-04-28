@@ -144,7 +144,7 @@ It works!
 
 You can find other Pandunia speakers in the internet in following forums.
 
-- [Pandunia Discord server](https://discord.gg/jf5GHcHXKk)
+- [Pandunia Discord server](https://discord.gg/CgZ6nUpj)
 - [Forum in Reddit](https://www.reddit.com/r/pandunia/)
 - [Pandunia Facebook group](http://www.facebook.com/groups/pandunia)
 - [Multilingual channel](https://t.me/pandunia_grupe) and

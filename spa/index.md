@@ -60,7 +60,7 @@ Tiene una gramática más sencilla, formas de palabras más internacionales, y m
 Ya hay personas interesadas en pandunia y lo están practicando.
 Puedes encontrarles en varios lugares de internet: 
 
-- [Chat en Discord](https://discord.gg/jf5GHcHXKk)
+- [Chat en Discord]((https://discord.gg/CgZ6nUpj)
 - Salas de chat en Telegram:
   [plurilingüe](https://t.me/pandunia_grupe) y
   [en pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).

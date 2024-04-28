@@ -23,7 +23,7 @@ Nota: Esta documentação não está atualizada com a versão final do Pandunia.
 - [Pequenas aulas com imagens](http://www.pandunia.info/pandunia/mini_xula.html)
 - [Grupo Facebook da pandunia](http://www.facebook.com/groups/pandunia)
 - [Sala de conversa em Telegram](https://t.me/pandunia_grupe)
-- [Servidor do Discord](https://discord.gg/jf5GHcHXKk)
+- [Servidor do Discord]((https://discord.gg/CgZ6nUpj)
 
 ![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")
 

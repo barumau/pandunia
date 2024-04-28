@@ -50,7 +50,7 @@ Niektóre zauważalne cechy Panduni:
 
 Wielu ludzi już jest zainteresowanych Pandunią i mówi w niej. Znajdziesz fora Panduni w kilku miejscach:
 
-- [kanały Discord](https://discord.gg/jf5GHcHXKk)
+- [kanały Discord]((https://discord.gg/CgZ6nUpj)
 - Linki i dyskusja na [Reddicie](https://www.reddit.com/r/pandunia/)
 - [Przyjaciele Panduni](http://www.facebook.com/groups/pandunia) na Facebooku
 - kanały Telegram: [wielojęzyczny](https://t.me/pandunia_grupe) i [w Panduni](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
