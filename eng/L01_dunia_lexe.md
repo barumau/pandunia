@@ -384,11 +384,11 @@ a normal PoS suffix.
 
 ### Examples of East Asian words
 
-#### kom 'come'
+#### lai 'come'
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
-| Mandarin   | kom          | 来 (lái)       |
+| Mandarin   | lai          | 来 (lái)       |
 | Wu         | lɛ                   | 来           |
 | Cantonese  | loi          | 來           |
 | Vietnamese | la:i         | lại          |

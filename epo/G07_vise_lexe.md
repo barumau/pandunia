@@ -86,9 +86,9 @@ Por esprimi proksimecon, aldonu
 
 La montrovortoj povas roli kiel subjekto same kiel substantivoj.
 
-**da hir es hau.**
+**da hir es gude.**
 – ĉi tiu (aĵo) estas bone.  
-**da der es dus.**
+**da der es bade.**
 – Tiu (aĵo) estas malbone.  
 **tu van da hir, he?**
 – ĉu vi volas ĉi tiun?  
@@ -115,7 +115,7 @@ Adjektivoj estas demandataj per **kua li**.
 – Kiom multe?  
 **kua li dai?**
 – Kiom granda?  
-**kua li shau?**
+**kua li lil?**
 – Kiom eta?
 
 **tu have kua li dai mau?**

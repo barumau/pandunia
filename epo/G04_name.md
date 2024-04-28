@@ -17,18 +17,11 @@ Do oni uzas la saman formon por ununombra, multnombra, difina kaj nedifina senco
 – akvo  
 
 Plejofte la nombro kaj la difineco estas evidenta, se ĝi estas jam priklarigita antaŭe en la teksto aŭ pro ĝenerala kono.
-Ekzemple, normale la vorto **sol** temas pri _la suno_ kaj **luna** temas pri _la luno_; nia nura suno kaj luno.
-
-Kunmetante du aŭ pli da vortoj, oni kreas novan vorton.
-La lasta vorto en tia kunmetita ĉeno estas la kerna vorto.
-La aliaj vortoj, kiuj antaŭas la kernan vorton, nur modifas ĝian sencon.
-
-**sol foto**
-– suna lumo  
-**luna foto**
-– luna lumo  
-**luna ite**
-– luna ŝtono  
+Ekzemple, normale la vorto
+**sol**
+temas pri _la suno_ kaj
+**lun**
+temas pri _la luno_; nia nura suno kaj luno.
 
 
 ## Nombro

@@ -161,8 +161,8 @@ La akcento estas je la vokalo antaŭ la lasta konsonanto.
 - **nove** /nóve/, **muzike** /muzíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
-     dunia es mimen su mei planeta.  
-    /dúnia és mímen su méi planéta./
+     dunia es vi se mei planeta.  
+    /dúnia és ví se méi planéta./
 
      mi vol loge komun bashe, da es pandunia.  
     /mí vól lóge komún báshe, dá és pandúnia./

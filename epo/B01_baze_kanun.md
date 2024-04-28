@@ -22,50 +22,6 @@ Nur minusklaj literoj estas necesaj.
 La akcento estas sur la silabo, kiu estas antaŭ la lasta konsonanto.
 
 
-### (5) Substantivoj
-
-Substantivoj neniam ŝanĝiĝas por indiki nombron, kazon aŭ genron.
-La nedifinaj artikoloj estas singulare **un** kaj plurale **som**.
-La difinaj artikoloj estas singulare **da** kaj plurale **di**.
-
-### (6) Nombrovortoj
-
-La kvantaj nombrovortoj estas:  
-0 **siro**, 1 **un**, 2 **due**, 3 **tri**, 4 **for**, 5 **faive**, 6 **sixe**,
-7 **seven**, 8 **eite**, 9 **nain**, 10 **ten**.  
-Pli grandaj ol dek: 11 **ten un**, 12 **ten du**, 13 **ten tri**, ktp.  
-Dekoj: 20 **du ten**, 30 **tri ten**, 40 **for ten**, ktp.  
-Centoj: 100 **un hunde**, 200 **due hunde**, 300 **tri hunde**, ktp.  
-Miloj: 1000 **un tauzen**, 2000 **due tauzen**, 3000 **tri tauzen**, ktp.
-
-Kvantaj nombrovortoj iĝas ordaj kiam ili estas metita post la substantivo.
-
-**buke un**
-– la unua libro  
-**buke due**
-– la dua libro  
-**buke tri**
-– la tria libro  
-ktp.
-
-
-### (7) Modifaj vortoj
-
-Adjektivoj kaj adverboj havas saman formon.
-Ili antaŭas la vorton, kiun ili modifas.
-
-**un rapide tolke**
-– rapida parolo  
-**yu rapide tolke.**
-– Vi rapide parolas.
-
-La adjektivoj estas ĉiam metita antaŭ la substantivo, kies sencon ili modifas.
-
-- La komparo de egaleco estas **as...as** (tiom...kiel).
-- La komparo de plieco estas **mor...dan** (pli...ol).
-- La komparo de malplieco estas **les...dan** (malpli...ol).
-
-
 ### (4) Pronomoj
 
 La personaj pronomoj estas:  
@@ -82,17 +38,17 @@ La personaj pronomoj estas:
 'ili'.
 
 La posedaj pronomoj estas:  
-**mi's**
+**mi se**
 'mia',
-**tu's**
+**tu se**
 'via',
-**da's**
+**da se**
 'ĝia, lia aŭ ŝia',
-**vi's**
+**vi se**
 'nia',
-**yu's**
+**yu se**
 'via',
-**di's**
+**di se**
 'ilia'.
 
 La demandaj pronomoj estas:  
@@ -100,8 +56,61 @@ La demandaj pronomoj estas:
 'kio',
 **hu**
 'kiu',
-**hu's**
+**hu se**
 'kies'.
+
+
+### (5) Substantivoj
+
+Substantivoj neniam ŝanĝiĝas por indiki nombron, kazon aŭ genron.
+La nedifinaj artikoloj estas singulare **un** kaj plurale **som**.
+La difinaj artikoloj estas singulare **da** kaj plurale **di**.
+
+### (6) Nombrovortoj
+
+La kvantaj nombrovortoj estas:  
+0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **for**, 5 **faif**, 6 **sixe**,
+7 **seven**, 8 **eite**, 9 **nain**, 10 **ten**.  
+Pli grandaj ol dek:
+11 **ten un**, 12 **ten du**, 13 **ten tri**,
+ktp.  
+Dekoj:
+20 **du ten**, 30 **tri ten**, 40 **for ten**,
+ktp.  
+Centoj:
+100 **un hunde**, 200 **du hunde**, 300 **tri hunde**,
+ktp.  
+Miloj:
+1000 **un tauzen**, 2000 **du tauzen**, 3000 **tri tauzen**,
+ktp.
+
+Kvantaj nombrovortoj iĝas ordaj kiam ili estas metita post la substantivo.
+
+**parte un**
+– la unua parto  
+**parte du**
+– la dua parto  
+**parte tri**
+– la tria parto  
+ktp.
+
+
+### (7) Modifaj vortoj
+
+Adjektivoj kaj adverboj havas saman formon.
+Ili antaŭas la vorton, kiun ili modifas.
+
+**un rapide loga**
+– rapida parolo  
+**tu rapide loga.**
+– Vi rapide parolas.
+
+La adjektivoj estas ĉiam metita antaŭ la substantivo, kies sencon ili modifas.
+
+- La komparo de egaleco estas **sim...dan** (tiom...kiel).
+- La komparo de plieco estas **mor...dan** (pli...ol).
+- La komparo de malplieco estas **les...dan** (malpli...ol).
+
 
 ### (8) Verboj
 
@@ -124,19 +133,19 @@ Pasiva frazo estas kreita per helpo de verbo
 Oni povas atingi similan rezulton per la nepersona pronomo
 **von**.
 
-**pandunia be tolke.**
+**pandunia be loga.**
 – Pandunia estas parolita.  
-**von tolke pandunia.**
+**von loga pandunia.**
 – Oni parolas pandunian.
 
 En la _ĉarnira konstruo_ la objekto de la unua verbo
 rolas kiel la subjekto de la dua verbo.  
-**mi plis tu tolke pandunia.**
+**mi plis tu loga pandunia.**
 – Mi petas ke vi parolas Pandunia.
 
 Oni povas forĵeti pronomojn kiam ili estas nenecesaj.  
-**_mi_ plis _tu_ tolke pandunia.**
-→ **plis tolke pandunia.**  
+**_mi_ plis _tu_ loga pandunia.**
+→ **plis loga pandunia.**  
 – Bonvolu paroli Pandunian.
 
 
@@ -154,5 +163,4 @@ La ĉefa vorto ĉiam staras je la fino.
 ("kesto") =
 **posta kase**
 ("leterkesto")
-
 

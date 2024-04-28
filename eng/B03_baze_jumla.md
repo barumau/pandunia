@@ -328,7 +328,7 @@ Persian نه⁩ (na),
 Bengali না (na).</small>
 
 
-### Plural pronouns
+### Plural personal pronouns
 
 | Singular    | Plural       |
 |:------------|:-------------|

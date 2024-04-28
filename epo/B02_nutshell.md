@@ -52,20 +52,6 @@ La sama vorto, sin ia ajn ŝanĝo en sia formo, povas roli kiel substantivo, adj
 
 ### Bazaj frazkonstruoj
 
-La partiklo **ya** 'jes' apartigas la subjekto de la verbo.
-
-**mau ya yam.**
-– Kato manĝas.  
-**jen ya sona.**
-– Homo dormas.
-
-Se la subjekto estas persona pronomo, la **ya** estas forlasita.
-
-**mi yam.**
-– Mi manĝas.  
-**tu sona.**
-– Vi dormas.
-
 Vortordo ege gravas.
 La normala vortordo estas subjekto–verbo–objekto.
 
@@ -78,22 +64,26 @@ kiel montranta pronomo aŭ numeralo.
 Verbo estas verba frazo kaj ĝi ofte komenciĝas per iu gramatika vorto,
 kiel jesa aŭ nea vorteto, helpanta verbo aŭ markilo de tempo, aspekto aŭ modo.
 
-    Ekzemplo 1. Strukture neklara frazo.
+Ekzemplo 1. Strukture neklara frazo.
+
     mau  yam   fish.
     kato manĝi fiŝo
     'Kato manĝas fiŝon.' (verŝajna interpreto)
     
-    Ekzemplo 2. Strukture klara frazo dank'al jesa vorto.
+Ekzemplo 2. Strukture klara frazo dank'al jesa vorto.
+
     mau  ya  yam   fish.
     kato jes manĝi fiŝo
     'Kato ja manĝas fiŝon.'
 
-    Ekzemplo 3. Strukture klara frazo dank'al nea vorto.
-    mau  ya  yam   fish.
+Ekzemplo 3. Strukture klara frazo dank'al nea vorto.
+
+    mau  no  yam   fish.
     kato ne  manĝi fiŝo
     'Kato ne manĝas fiŝon.'
 
-    Ekzemplo 4. Komplika sed strukture klara frazo.
+Ekzemplo 4. Komplika sed strukture klara frazo.
+
     mi se     frende  haf      yam   un  pai.
     mi POSEDO amiko   ASPEKTO  manĝi unu torto
     'Mia amikos estas manĝinta torton.'
@@ -183,7 +173,7 @@ Aldonu modifvorton antaŭ verboj.
 La adverboj povas esti markita de vorteto
 **li**.
 
-**mi hau (li) vize tu.**
+**mi gude (li) vize tu.**
 – Mi bone vidas vin.  
 **tu vize li love da.**
 – Vi vidable amas lin aŭ ŝin.
@@ -191,8 +181,12 @@ La adverboj povas esti markita de vorteto
 Por kompari modifvortojn, uzu la vortetoj
 **mor**
 'pli',
+**mor... of hol**
+'la plej... (el ĉiu)',
 **les**
-'malpli', kaj
+'malpli',
+**les... of hol**
+'la malplej... (el ĉiu)', kaj
 **sim**
 'egale'.
 La celo de komparo estas markita per

@@ -8,13 +8,13 @@ En pandunio, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
 
 **un _nove_ karo**
 – nova aŭto 
-**un _suga_ karo**
+**un _rapide_ karo**
 – rapida aŭto  
 **meni _dai_ meza**
 – grandaj tabloj  
 **meni _gau_ meza**
 – altaj tabloj  
-**un hau jen**
+**un _gude_ jen**
 – bona homo
 
 Kiam modifovorto sekvas substantivon, ĝi rolas kvazaŭ kiel verbo, kiu indikas staton.
@@ -24,28 +24,28 @@ Tio estas, kiel adjektivaj verboj en Esperanto.
 – La aŭto novas.  
 **karo es nove.**
 La aŭto estas nova.  
-**bagre – suga.**
+**bagre – rapide.**
 – Tigroj rapidas.  
-**bagre – suga.**
+**bagre es rapide.**
 Tigroj estas rapidaj.
 
 Kompreneble, eblas ke modifovortoj aperu je ambaŭ flankoj de substantivo.
 
-**nove karo – suga.**
+**nove karo – rapide.**
 – Nova aŭto rapidas.  
-**nove karo es suga.**
+**nove karo es rapide.**
 – Novaj aŭto estas rapidaj.
 
 ## Modifante verbon
 
-**tu _suga_ loga.**
+**tu _rapide_ loga.**
 – Vi _rapide_ parolas.  
-**di jen _hau_ kitabe.**
+**di jen _gude_ kitabe.**
 – Ili _bone_ skribas.
 
 **tu _mei li_ kitabe.**
 – Vi _bele_ skribas.  
-**di _suga li_ marche.**
+**di _rapide li_ marche.**
 – Ili _rapide_ promenas.
 
 
@@ -56,7 +56,7 @@ Aldoni partiklon
 **li**
 inter la modifanta kaj la modifata.
 
-**un _dai li_ hau buke**
+**un _dai li_ gude buke**
 – _grande_ bona libro  
 **_bala li_ lovente jen**
 – _forte_ amantaj homoj
@@ -65,16 +65,16 @@ inter la modifanta kaj la modifata.
 
 Modifovortoj povas esti komparataj.
 
-- **mor**
-  (pli) signifas komparo de plieco
-- **mor... of hol**
-  (la plej) signifas komparo de plejeco
-- **les**
-  (malpli) signifas komparo de malplieco
-- **les... of hol**
-  (malplej) signifas komparo de malplejeco
-- **sim**
-  (same, egale) signifas komparo de sameco
+**mor**
+(pli) signifas komparo de plieco  
+**mor... of hol**
+(la plej) signifas komparo de plejeco  
+**les**
+(malpli) signifas komparo de malplieco  
+**les... of hol**
+(malplej) signifas komparo de malplejeco  
+**sim**
+(same, egale) signifas komparo de sameco
 
 Partiklo
 **dan**

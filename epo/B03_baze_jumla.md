@@ -48,10 +48,10 @@ Bonan nokton!
 **sal yam!**
 Bonan apetiton!
 
-**sal lai!**
+**sal kom!**
 Bonvenon!
 
-**sal ga!**
+**sal go!**
 Ĝis!
 
 **sal safar!**
@@ -75,7 +75,7 @@ indonezia *selamat*.</small>
 
 ### tanke <small>dankon</small>
 
-<p style="font-size:5em;">�</p>
+<p style="font-size:5em;">🙏</p>
 
 **tanke!**
 Dankon!
@@ -95,10 +95,10 @@ Dankon al vi.
 **mi tanke tu.**
 Mi dankas vin.
 
-**mi tanke tu mede mi.**
+**mi tanke tu helpe mi.**
 Mi dankas vin pro vi helpis min.
 
-**tanke tu mede mi.**
+**tanke tu helpe mi.**
 Dankon pro vi helpis min.
 
 **no yau tanke.**
@@ -229,24 +229,24 @@ malaja *dia*.</small>
 Noto: Demandoj ofte komencas per **sual**.
 Sed ĝi estas tute normala verbo, ne demandvorteto kiel esperanta _ĉu_.
 Fakte, la lasta demando estas simple mallonga manero por diri
-**mi sual tu es davar**
+**mi sual tu es dokter**
 (Mi demandas: Vi estas doktoro?).
 Oni nur forlasis la unuan pronomon.
 
-**sual tu hau?**
+**sual tu gude?**
 Kiel vi fartas? (Laŭvorte: _Ĉu vi bonas?_)  
-**mi hau.**
+**mi gude.**
 Mi fartas bone.  
 **tu ne?**
 Kaj vi?  
-**mi no hau.**
+**mi no gude.**
 Mi ne fartas bone.
 
 <small>Etimologio. **sual** venas el
 araba سؤال (su'āl),
 hindia सवाल (savāl),
-malaja _soal_,
-sŭahila _swali_.</small>
+malaja *soal*,
+sŭahila *swali*.</small>
 
 
 ### ya <small>jes</small>
@@ -269,17 +269,17 @@ Jes, li estas doktoro.
 **mi no es Sara.**
 Mi ne estas Sara.
 
-**mi no es davar.**
+**mi no es dokter.**
 Mi ne estas doktoro.
 
-**sual tu hau?**
+**sual tu gude?**
 Ĉu vi fartas bone?  
-**ya. mi hau.**
+**ya. mi gude.**
 Jes, mi estas bone.
 
-**sual tu hau?**
+**sual tu es gude?**
 Ĉu vi fartas bone?  
-**no, mi no hau.**
+**no, mi no es gude.**
 Ne, mi ne estas bone.
 
 Vi povas uzi
@@ -295,21 +295,17 @@ hispana *no*,
 franca *non*.</small>
 
 
-## Pluraj pronomoj
+## Pluraj personaj pronomoj
 
+| Singular    | Plural       |
+|:------------|:-------------|
+| **mi**      | **vi**       |
+| mi          | ni           |
+| **tu**      | **yu**       |
+| ci, vi      | vi           |
+| **da**      | **di**       |
+| li, ŝi, ĝi  | ili          |
 
-**mi**
-(mi) →
-**vi**
-(ni)  
-**tu**
-(vi, ci) →
-**yu**
-(vi)  
-**da**
-(li, ŝi, ĝi) →
-**di**
-(ili)
 
 **vi sal yu.**
 Ni salutas vin ĉiujn.
@@ -328,7 +324,6 @@ Vi estas viroj.
 
 **di es aple.**
 Ili estas pomoj.
-
 
 
 ### kua? <small>kio? kiu?</small>
@@ -381,13 +376,13 @@ Tiu pomo ruĝas.
 **da es rubi.**
 Ĉi tio estas ruĝe.
 
-**di a kua?**
+**di sta kua?**
 Kie ili estas?
 
-**di a hir.**
+**di sta hir.**
 Ili estas ĉi tie.
 
-**di a der.**
+**di sta der.**
 Ili estas tie.
 
 
@@ -399,7 +394,7 @@ Kio estas ĉi tio?
 **da es mi se telefon.**
 Tio estas mia telefono.
 
-**ye es kua se?**
+**da hir es kua se?**
 Tio estas kies?
 
 **da es mi se.**
@@ -455,13 +450,13 @@ angla *name*.</small>
 
 ### have <small>havi</small>
 
-**mi have un hau haus.**
+**mi have un gude haus.**
 Mi havas bonan domon.
 
-**da no have pesa.**
+**da no have mone.**
 Li/ŝi ne havas mono.
 
-**mi van have un neu telefon.**
+**mi van have un nove telefon.**
 Mi volas havi novan telefonon.
 
 **sual tu have pikin?**
@@ -484,7 +479,7 @@ Mi ne scias.
 **sual yu nou unotre?**
 Ĉu vi konas unu la alian?
 
-**vi nou unotre de long.**
+**vi nou unotre of long.**
 Ni konas unu la alian longe.
 
 
@@ -566,10 +561,10 @@ Tiun ruĝan.
 **mi plis tu yam cha.**
 Mi petas ke vi trinku teon.
 
-**mi plis tu lai haus.**
+**mi plis tu kom haus.**
 Mi petas ke vi venu hejmen.
 
-**mi plis tu mede mi.**
+**mi plis tu helpe mi.**
 Mi petas ke vi helpu min.
 
 Noto: Faru mallongajn petojn forlasante la pronomojn.
@@ -580,10 +575,10 @@ Bonvolu trinki teon!
 **plis yam kafe.**
 Bonvolu trinki kafon!
 
-**plis lai haus.**
+**plis kom haus.**
 Bonvolu veni hejmen!
 
-**plis mede mi.**
+**plis helpe mi.**
 Bonvolu helpi min.
 
 
@@ -642,7 +637,7 @@ Pardonon, mi ne komprenas vin.
 **mi no bas aha tu.**
 Mi ne sufiĉe komprenis vin.
 
-**mi aha no she.**
+**mi aha no ting.**
 Mi komprenas nenion.
 
 
@@ -681,7 +676,7 @@ Kion vi diris?
 **mi loga to tu.**
 Mi parolas al vi.
 
-**vi loga to unaltre.**
+**vi loga to unotre.**
 Ni parolas unu al alia.
 
 **von loga**
@@ -708,10 +703,10 @@ Mi ne povas aŭdi vin.
 **plis loga mor bala.**
 Bonvolu paroli pli forte.
 
-**mi audi muzika.**
+**mi audi muzike.**
 Mi aŭskultas muzikon.
 
-**tu audi kua tipe li muzika?**
+**tu audi kua sorte muzike?**
 Kian muzikon vi aŭskultas?
 
 
@@ -729,18 +724,18 @@ Mi ĝojas vidi vin!
 **mi vize da a preden.**
 Mi vidin lin/ŝin hieraŭ.
 
-### sema <small>signifi</small>
+### seme <small>signifi</small>
 
-**da hir lexe ya sema kua?**
+**da hir lexe ya seme kua?**
 Kion tiu vorto signifas?
 
-**"mau" ya sema kua?**
+**"mau" ya seme kua?**
 Kion "mau" signifas?
 
-**da sema un yang de hevan.**
+**da seme un sorte of hevan.**
 Ĝi signifas tipon de besto.
 
-**mi no aha da sema kua.**
+**mi no aha da seme kua.**
 Mi ne komprenas kion ĝi signifas.
 
 
@@ -749,7 +744,7 @@ Mi ne komprenas kion ĝi signifas.
 **plis kitabe tu se adres.**
 Bonvolu skribi vian adreson.
 
-**plis kitabe da a ye.**
+**plis kitabe da a hir.**
 Bonvolu skribi ĝin ĉi tie!
 
 
@@ -781,6 +776,9 @@ la sŭahilia, la haŭsa, la joruba, la amhara
 
 ### go <small>iri</small>
 
+**go der!**
+– Iru tien!
+
 **tu go kua?**
 Kien vi iras?
 
@@ -799,18 +797,21 @@ Ni iru!
 **haida go a fute**
 Ni iru piede!
 
-### lai <small>veni</small>
+### kom <small>veni</small>
 
-**plis lai!**
+**kom hir!**
+– Venu ĉi tien!
+
+**plis kom!**
 Bonvolu veni!
 
-**tu lai of kua?**
+**tu kom of kua?**
 Vi venas el kie?
 
-**mi lai de Dubai.**
+**mi kom of Dubai.**
 Mi venas el Dubai.
 
-**mi lai haus a pos den.**
+**mi kom haus a pos den.**
 Mi venos hejmen morgaŭ.
 
 
@@ -819,10 +820,10 @@ Mi venos hejmen morgaŭ.
 **sual tu safar a tren?**
 Ĉu vi vojaĝas per vagonaro?
 
-**vi safar de London to Paris.**
+**vi safar of London to Paris.**
 Ni vojaĝas el Londono al Parizo.
 
-**safar es dai long.**
+**safar es muche long.**
 La vojaĝo estas tre longa.
 
 
@@ -850,7 +851,7 @@ Noto! Vi povas uzi
 **a**
 kiel prepozicio aŭ ankaŭ kiel verbo.
 
-**mi kar a...**
+**mi verke a...**
 Mi laboras ĉe ...
 
 
@@ -885,48 +886,48 @@ Mi atendas vin en la hotelo.
 
 ### bi <small>esti -anta</small>
 
-**mi bi sal tu se frende.**  
+**mi bi sal tu se frende.**
 Mi nune salutas vian amikon.
 
-**da man bi vize un filme.**  
+**da man bi vize un filme.**
 La viro estas vidanta la virinon.
 
 
 ### haf <small>esti -inta</small>
 
-**mi haf sal tu se frende.**  
+**mi haf sal tu se frende.**
 Mi estas salutinta vian amikon.
 
-**da man haf vize da filme.**  
+**da man haf vize da filme.**
 La viro estas vidinta la filmon.
 
 
 ### did <small>-is, pasinte</small>
 
-**mi did sal tu se frende.**  
+**mi did sal tu se frende.**
 Mi salutis vian amikon.
 
-**da man did vize un filme.**  
+**man did vize un filme.**
 La viro vidis filmon
 
-**da did es shefe.**  
+**da did es shefe.**
 Ĝi estis la ĉefo.
 
-**da did es a haus.**  
+**da did es a haus.**
 Ĝi estis pasinte hejme.
 
 
 ### vil <small>-os</small>
 
-**mi vil sal tu se frende.**  
+**mi vil sal tu se frende.**
 Mi salutos vian amikon.
 
-**da man vil vize da filme.**  
+**da man vil vize da filme.**
 La viro vidos la virinon.
 
-**da vil es shefe.**  
+**da vil es shefe.**
 Ĝi estos la ĉefo.
 
-**da vil es a haus.**  
+**da vil es a haus.**
 Ĝi estos hejme.
 

@@ -78,7 +78,7 @@ Example 2. Structurally clear sentence with the affirmation of the verb.
 
 Example 3. Structurally clear sentence with the negation of the verb.
 
-    mau ya  yam fish.
+    mau no  yam fish.
     cat no  eat fish
     'The cat doesn't eat fish.'
 
@@ -175,7 +175,7 @@ To modify a verb, put adverbs before it.
 The adverb can be tagged with
 **li**.
 
-**mi hau (li) vize tu.**
+**mi gude (li) vize tu.**
 – I see you well.  
 **tu vize li love da.**
 – You seemingly love him/her.
@@ -202,8 +202,9 @@ The point of comparison is introduced with
 
 ### Questions
 
-To ask _yes–or–no_ questions, replace the verb with "(verb) **no** (verb)" pattern
-or add **he** 'eh, huh' to the end of the sentence.
+To ask _yes–or–no_ questions, replace the verb with "(verb) **no** (verb)" pattern or add
+**he**
+'eh, huh' to the end of the sentence.
 
 **tu vize no vize mi?**
 – Do you see me?  
