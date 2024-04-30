@@ -4,6 +4,58 @@
 Funkciado de afiksoj (prefiksoj kaj sufiksoj) similas al tiu de Esperanto.
 Ili permesas aktive konstrui novajn vortojn, el tiuj jam konataj.
 
+## Afiksoj
+
+Afiksoj, t.e. prefiksoj kaj sufiksoj, estas utilaj eroj de vortoj, kiuj estas ofte uzataj por konstrui novajn vortojn.
+
+Multaj sufiksoj havas du formojn, unu kiu komenciĝas per vokalo kaj unu kiu komenciĝas per konsonanto.
+La vokalkomenca formo estas uzata kiam la radiko finiĝas per konsonanto aŭ per vokalo **-e**,
+kiu malaperas antaŭ la sufikso.
+Sube ni metas la vokalkomencan sufikson  **-ik** al radiko kiu finiĝas per **-e**.
+
+            fize       'korpo'
+       +     -ik       'adjektiva sufikso'
+    _____________
+    =      fizik       'korpa, fizika'
+
+La konsonantkomenca formo estas uzata kiam la radiko finiĝas per iu ajn vokalo krom **-e**.
+Sube ni metas la konsonantkomencan sufikson  **-tik** al radiko kiu finiĝas per alia vokalo.
+
+            tema       'temo'
+       +    -tik       'adjektiva sufikso'
+    _____________
+    =    tematik       'tema'
+
+Sufiksoj
+**-ik**
+kaj
+**-tik**
+estas alternativaj formoj de la sama baza sufikso,
+**(t)ik**,
+kiu nur enhavas forĵetebla komenca sono.
+
+Alia sufikso kiu havas du formojn estas **(o)krate**.
+Ĝia vokalkomenca formo estas **-okrate**
+kaj ĝia konsonantkomenca formo estas **-krate**.
+Ĉifoje la forĵetebla sono estas vokalo (kaj ne konsonanto kiel en **(t)ike**).
+
+Sube ni metas tiun sufikson  **-ike** al radiko kiu finiĝas per **-e**.
+
+            deme      'popolo'
+      + (o)krate      'reĝimo'
+      +      -ia      'substantiva sufikso'
+    ______________
+    =  demokratia     'demokratio, popola reĝimo'
+
+Kaj sube ni metas tiun sufikson al radiko kiu finiĝas per alia vokalo.
+
+           media      'amasinformilo'
+      + (o)krate      'reĝimo'
+      +      -ia      'substantiva sufikso'
+    ______________
+    = mediakratia     'amasinformila reĝimo'
+
+
 ### Prefiksoj
 
 #### a-
