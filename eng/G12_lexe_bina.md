@@ -105,27 +105,27 @@ are not compound words in Pandunia.
 Many suffixes have two forms, one that begins with a vowel and one that begins with a consonant.
 The vowel-initial form is used when the base word ends in a consonant or in the vowel **-e**,
 which disappears before the suffix.
-Below we add the vowel-initial suffix **-ike** to a base word that ends in **-e**.
+Below we add the vowel-initial suffix **-ik** to a base word that ends in **-e**.
 
             fize       'body'
-       +    -ike       'adjectival suffix'
+       +     -ik       'adjectival suffix'
     _____________
-    =     fizike       'bodily, physical'
+    =      fizik       'bodily, physical'
 
 The consonant-intial form is used when the base word ends in any other vowel except **-e**.
-Below we add the consonant-initial suffix **-tike** to a base word that ends in another vowel.
+Below we add the consonant-initial suffix **-tik** to a base word that ends in another vowel.
 
             tema       'theme, topic'
-       +   -tike       'adjectival suffix'
+       +    -tik       'adjectival suffix'
     _____________
-    =   tematike       'thematic, topical'
+    =    tematik       'thematic, topical'
 
 The vowel-initial suffix
-**-ike**
+**-ik**
 and the consonant-initial suffix
-**-tike**
+**-tik**
 are alternative forms of one and the same underlying suffix,
-**(t)ike**,
+**(t)ik**,
 which has an optional initial sound.
 The surface form of the suffix depends on the properties of the base word.
 
@@ -155,7 +155,9 @@ Next we add the suffix to a base word that ends in another vowel.
 
 #### a-
 
-The prefix **a-** means that the action brings the agent and the object together.
+The prefix
+**a-**
+means that the action brings the agent and the object together.
 
 **sepe**
 'take, catch'
@@ -168,7 +170,9 @@ The prefix **a-** means that the action brings the agent and the object together
 
 #### an-
 
-The prefix **an-** means being or doing the opposite of the base word.
+The prefix
+**an-**
+means being or doing the opposite of the base word.
 
 **deiste**
 'theist'
@@ -190,14 +194,16 @@ The prefix **an-** means being or doing the opposite of the base word.
 'closed'
 → **ankluze**
 'unclosed, open'  
-**uzebil**
+**uzabil**
 'usable'
-→ **anuzebil**
+→ **anuzabil**
 'unusable'
 
 #### de-
 
-The prefix **de-** means that the action is directed away from or off something.
+The prefix
+**de-**
+means that the action is directed away from or off something.
 
 **sepe**
 'take, catch'
@@ -222,7 +228,9 @@ The prefix **de-** means that the action is directed away from or off something.
 
 #### dis-
 
-The prefix **dis-** means that the action is directed apart or in many directions.
+The prefix
+**dis-**
+means that the action is directed apart or in many directions.
 
 **trate**
 'draw'
@@ -241,14 +249,20 @@ The prefix **dus-** adds a quality of badness to the base word.
 'function'
 → **dusfunte**
 'malfunction, dysfunction'  
-**rupa**
+**rupe**
 'appearance, looks'
-→ **dusrupa**
-'bad-looking, ugly'
+→ **dusrupik**
+'bad-looking, ugly'  
+**forme**
+'form'
+→ **dusforme**
+'malform'
 
 #### ex-
 
-The prefix **ex-** means that the action is directed outside from something.
+The prefix
+**ex-**
+means that the action is directed outside from something.
 
 **sepe**
 'take, catch'
@@ -261,7 +275,9 @@ The prefix **ex-** means that the action is directed outside from something.
 
 #### in-
 
-The prefix **in-** means that the action is directed into something.
+The prefix
+**in-**
+means that the action is directed into something.
 
 **jete**
 'thrust'
@@ -283,9 +299,9 @@ and the form **kon-** is used in all other cases.
 'hold, keep'
 → **kontene**
 'keep together'  
-**strute**
-'structure'
-→ **konstrute**
+**stru**
+'build, structure'
+→ **konstru**
 'construct, put together'  
 **patia**
 'suffering'
@@ -300,14 +316,14 @@ The prefix **per-** means that something is done completely, entirely or all the
 'make, do'
 → **perfete**
 'perfect, completely done'  
-**uze**
+**uza**
 'use'
-→ **peruze**
+→ **peruza**
 'use up'
 
 #### pos-
 
-The prefix **pos-** means that something is after in time or space.
+The prefix **pos-** means that something is after in time or order.
 
 **pozi**
 'put, pose'
@@ -320,7 +336,9 @@ The prefix **pos-** means that something is after in time or space.
 
 #### pre-
 
-The prefix **pre-** means that something is before in time or space.
+The prefix
+**pre-**
+means that something is before in time or order.
 
 **pozi**
 'put, pose'
@@ -385,9 +403,9 @@ There are two forms of this prefix.
 The form **sim-** is used when the following word begins with a *b*, *p* or *m*,
 and the form **sin-** is used in all other cases.
 
-**kronike**
+**kronik**
 'timely, temporal, chronic'
-→ **sinkronike**
+→ **sinkronik**
 'synchronic, happening at the same time'  
 **metria**
 'measurement'
@@ -412,7 +430,7 @@ The prefix **su-** adds the quality of goodness into the base word.
 'go well, succeed'  
 **rupe**
 'appearance, looks'
-→ **surupike**
+→ **surupik**
 'good-looking'
 
 
@@ -420,7 +438,9 @@ The prefix **su-** adds the quality of goodness into the base word.
 
 #### -aje
 
-The suffix *-aje* means something that is made of or something that consists of the thing indicated by the base word.
+The suffix
+**-aje**
+means something that is made of or something that consists of the thing indicated by the base word.
 
 **bage**
 'bag'
@@ -445,7 +465,9 @@ The suffix *-aje* means something that is made of or something that consists of 
 
 #### -al ~ -ial
 
-The suffix **-al** means that something belongs to or is related to the thing or person indicated by the base word.
+The suffix
+**-al**
+means that something belongs to or is related to the thing or person indicated by the base word.
 
 **fine**
 'end'
@@ -481,10 +503,15 @@ When **-al** is suffixed to a base word that ends in **-ia**, the endings merge 
 
 #### -an ~ ian
 
-The suffix **-an** denotes someone that is a member of a community, such as a country, city or a club.
-When this suffix is added to a base word that ends in *-ia*, they merge together into *-ian*.
+The suffix
+**-an**
+denotes someone that is a member of a community, such as a country, city or a club.
+When this suffix is added to a base word that ends in
+**-ia**,
+they merge together into
+**-ian**.
 
-**Amerike**
+**Amerika**
 'America'
 → **amerikan**
 'American'  
@@ -507,7 +534,8 @@ When this suffix is added to a base word that ends in *-ia*, they merge together
 
 #### -bil
 
-The suffix *-bil* means that something is possible or able to be done.
+The suffix
+**-bil** means that something is possible or able to be done.
 
 **vize**
 'see, view'
@@ -543,7 +571,9 @@ For example *spoke* and *spoken* are individual words but they represent the sam
 
 #### -ente ~ -nte
 
-The suffixes **-ente** and **-nte** mean 'one who does the action of the base word'.
+The suffix
+**-(e)nte**
+means 'one who does the action of the base word'.
 
 **es**
 'to be'
@@ -556,7 +586,9 @@ The suffixes **-ente** and **-nte** mean 'one who does the action of the base wo
 
 #### -er ~ -ter
 
-The suffixes **-er** and **-ter** mean 'a person who is occupied with the action of the base word'.
+The suffix
+**-(t)er**
+means 'a person who is occupied with the action of the base word'.
 It implies often but not always a professional occupation.
 
 **ate**
@@ -590,7 +622,8 @@ It implies often but not always a professional occupation.
 
 #### -eria ~ -teria ~ ria
 
-This suffix is the combination of *-er* and *-ia*.
+This suffix is the combination of
+**-(t)er** + **-ia**.
 It means the place for making, producing or selling the thing that is indicated by the base word.
 
 **bake**
@@ -613,26 +646,30 @@ In some rare cases this suffix is trimmed into **-ria**.
 → **pizaria**
 'pizzeria, pizza place'
 
-#### -ete ~ -lete
+#### -et ~ -let
 
-The suffix *-ete* indicates essentially the same thing as the base word but in a small size.
+The suffix
+**-(l)et**
+expresses 'small size'.
 
 **pake**
 'pack'
-→ **pakete**
+→ **paket**
 'packet'  
 **kase**
 'case'
-→ **kasete**
+→ **kaset**
 'cassette'  
-**sigare**
+**sigar**
 'cigar'
-→ **sigarete**
+→ **sigaret**
 'cigarette'
 
 #### -ia
 
-The suffix *-ia* has a variety of meanings,
+The suffix
+**-ia**
+has a variety of meanings,
 but fundamentally it means a collective of things or a community of people.
 
 **nese**
@@ -677,7 +714,9 @@ There are also a lot of country names that do not end in **-ia**.
 **Indonesia**
 'Indonesia'
 
-The suffix *-ia* is also used in names of scientific disciplines,
+The suffix
+**-ia**
+is also used in names of scientific disciplines,
 where it can be understood as collection of scientific knowledge and practices.
 
 **kime**
@@ -688,13 +727,13 @@ where it can be understood as collection of scientific knowledge and practices.
 'view, outlook, life wisdom'
 → **filsofia**
 'philosophy, the discipline of wisdom'  
-**loge**
+**loje**
 'to study and reason systematically'
-→ **logia**
+→ **lojia**
 'systematic study, logic'  
-**biologia**
+**biolojia**
 'biology, systematic study of organic life'  
-**geologia**
+**geolojia**
 'geology, systematic study of the ground'
 
 #### -ife ~ -tife
@@ -714,31 +753,33 @@ The suffix *-ife* means to make or turn into the thing that is indicated by the 
 → **unife**
 'make one, unify'
 
-#### -ike ~ -tike
+#### -ik ~ -tik
 
-The suffix **-ike** means something that is characterized by the thing or quality indicated by the base word.
+The suffix **-ik** means something that is characterized by the thing or quality indicated by the base word.
 There are two forms of this suffix.
-The form **-ike** is used when the base word ends in a consonant or an *-e*.
+The form **-ik** is used when the base word ends in a consonant or an *-e*.
 
 **un**
 'one'
-→ **unike**
+→ **unik**
 'only, sole, single'  
 **makin**
 'machine'
-→ **makinike**
+→ **makinik**
 'machine-like, mechanical'
 
-The form **-tike** is used when the base word ends in a vowel other than *-e*.
+The form **-tik** is used when the base word ends in a vowel other than *-e*.
 
 **tema**
 'theme'
-→ **tematike**
+→ **tematik**
 'thematic'
 
 #### -ime
 
-The suffix *-ime* means something that is in the position or rank that is indicated by the base word.
+The suffix
+**-ime**
+means something that is in the position or rank that is indicated by the base word.
 
 **un**
 'one'
@@ -755,16 +796,22 @@ The suffix *-ime* means something that is in the position or rank that is indica
 
 #### -ion ~ -tion
 
-The suffix *-ion* or *-tion* means action or process.
+The suffix
+**-(t)ion**
+means 'an action or process'.
 There are two forms of this suffix.
-The form **-ion** is used when the base word ends in a consonant or an *-e*.
+The form
+**-ion**
+is used when the base word ends in a consonant or an *-e*.
 
 **dite**
 'say'
 → **dition**
 'saying, diction'
 
-The form **-tion** is used when the base word ends in a vowel other than *-e*.
+The form
+**-tion**
+is used when the base word ends in a vowel other than *-e*.
 
 **rota**
 'wheel; to turn like a wheel'
@@ -773,7 +820,9 @@ The form **-tion** is used when the base word ends in a vowel other than *-e*.
 
 #### -isme ~ -tisme
 
-The suffix **-isme** means an ideology, a way of thinking or a way of life.
+The suffix
+**-(t)isme**
+means an ideology, a way of thinking or a way of life.
 
 **alkol**
 'alcohol'
@@ -803,7 +852,9 @@ The suffix **-iste** means a person who tends to behave or think in a certain wa
 
 #### -ita ~ -ta
 
-The suffixes **-ita** and **-ta** create abstract nouns that represent a quality or a state.
+The suffix
+**-(i)ta**
+creates abstract nouns that represent a quality or a state.
 
 **nove**
 'new, novel'
@@ -918,7 +969,9 @@ balloon'
 
 #### -or ~ -tor
 
-The suffix or **-or** means an apparatus, device or machine for doing the work that is incidated by the base word.
+The suffix
+**-(t)or**
+means an apparatus, device or machine for doing the work that is incidated by the base word.
 
 **trate**
 'drag, haul'
@@ -931,7 +984,9 @@ The suffix or **-or** means an apparatus, device or machine for doing the work t
 
 #### -ul ~ -kul
 
-The suffixes **-ul** and **-kul** forms a diminutive of the base word.
+The suffix
+**-(k)ul**
+means a 'concentration of something'.
 
 **kume**
 'mound, hill'
@@ -946,9 +1001,11 @@ The suffixes **-ul** and **-kul** forms a diminutive of the base word.
 → **mirakul**
 'wonder, miracle'
 
-#### -ure ~ -ture
+#### -ur ~ -tur
 
-The suffixes **-ur** and **-tur** mean something that is the result or product of the action that is indicated by the base word.
+The suffix
+**-(t)ur**
+means something that is the result or product of the action that is indicated by the base word.
 
 **kulte**
 'cultivate (a way of life)'
@@ -956,7 +1013,7 @@ The suffixes **-ur** and **-tur** mean something that is the result or product o
 'culture'  
 **mixe**
 'mix'
-→ **mixure**
+→ **mixur**
 'mixture'
 
 

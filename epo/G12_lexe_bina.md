@@ -8,7 +8,9 @@ Ili permesas aktive konstrui novajn vortojn, el tiuj jam konataj.
 
 #### a-
 
-La prefikso **a-** signifas ke la ago kunmetas la aganton kaj la agaton.
+La prefikso
+**a-**
+signifas ke la ago kunportas la aganton kaj la agaton.
 
 **sepe**
 'preni'
@@ -19,9 +21,42 @@ La prefikso **a-** signifas ke la ago kunmetas la aganton kaj la agaton.
 → **aliga**
 'alligi'
 
+#### an-
+
+La prefikso
+**an-**
+esprimas neadon aŭ senigon de la baza vorto.
+
+**deiste**
+'teisto'
+→ **andeiste**
+'ateisto, sendiulo'  
+**alkolike**
+'alkohola'
+→ **analkolike**
+'senalkohola'  
+**homan**
+'homa'
+→ **anhoman**
+'nehoma'  
+**tabakiste**
+'fumanto (de tabako)'
+→ **antabakiste**
+'nefumanto'  
+**kluze**
+'ferma'
+→ **ankluze**
+'malferma'  
+**uzabil**
+'uzebla'
+→ **anuzabil**
+'neuzebla'
+
 #### de-
 
-La prefikso **de-** signifas ke la agado forigas ion.
+La prefikso
+**de-**
+signifas ke la agado forigas ion.
 
 **liga**
 'ligi'
@@ -46,7 +81,9 @@ La prefikso **de-** signifas ke la agado forigas ion.
 
 #### dis-
 
-La prefikso **dis-** signifas, ke aferoj moviĝas for en malsamaj aŭ pluraj direktoj, malkunen.
+La prefikso
+**dis-**
+signifas, ke aferoj moviĝas for en malsamaj aŭ pluraj direktoj, malkunen.
 
 **trate**
 'tiri'
@@ -65,9 +102,9 @@ La prefikso **dus-** donas econ de malboneco al la bazvorto.
 'funkcii'
 → **dusfunte**
 'misfunkcii'  
-**rupa**
+**rupe**
 'aspekti'
-→ **dusrupa**
+→ **dusrupik**
 'aspekti malbona aŭ malbela'  
 **forme**
 'formi'
@@ -76,7 +113,9 @@ La prefikso **dus-** donas econ de malboneco al la bazvorto.
 
 #### ex-
 
-La prefikso **ex-** signifas ke la ago celas eksteren.
+La prefikso
+**ex-**
+signifas ke la ago celas eksteren.
 
 **sepe**
 'preni'
@@ -89,7 +128,9 @@ La prefikso **ex-** signifas ke la ago celas eksteren.
 
 #### in-
 
-La prefikso **in-** signifas ke la ago celas inen.
+La prefikso
+**in-**
+signifas ke la ago celas inen.
 
 **jete**
 'ŝpruci'
@@ -108,10 +149,48 @@ La prefiksoj **kon-** kaj **kom-** signifas ke la afero estas farata kune.
 'teni'
 → **kontene**
 'kunteni'  
-**strute**
+**stru**
 'strukturi'
-→ **konstrute**
-'konstrui'
+→ **konstru**
+'konstrui'  
+**patia**
+'sufero'
+→ **kompatia**
+'kunsufero, kompato'
+
+#### pos-
+
+La prefikso
+**pos-**
+esprimas ke io estas post en tempo aŭ ordo.
+
+**pozi**
+'meti'
+→ **pospozi**
+'postmeti'  
+**prodution**
+'produktado'
+→ **posprodution**
+'postproduktado'
+
+#### pre-
+
+La prefikso
+**pre-**
+esprimas ke io estas antaŭ en tempo aŭ ordo.
+
+**pozi**
+'meti'
+→ **prepozi**
+'antaŭmeti'  
+**dite**
+'diri'
+→ **predite**
+'antaŭdiri'  
+**vize**
+'vidi'
+→ **previze**
+'antaŭvidi'
 
 #### re-
 
@@ -150,7 +229,9 @@ La prefikso **ri-** signifas 'fari denove'.
 
 #### -aje
 
-La sufikso **-aje** signifas kolektan, normale konkretan aferon, kiu estas farita el aŭ ĉe la "materialo", kiun la radiko montras.
+La sufikso
+**-aje**
+signifas aferon, kiu estas farita el aŭ ĉe la "materialo", kiun la radiko montras.
 
 **bage**
 'valizo'
@@ -173,22 +254,148 @@ La sufikso **-aje** signifas kolektan, normale konkretan aferon, kiu estas farit
 → **limonaje**
 'limonado'
 
+#### -al ~ -ial
+
+La sufikso
+**-al**
+esprimas ke 'io apartenas al la afero esprimata de la radiko'.
+
+**fine**
+'fino'
+→ **final**
+'fina'  
+**universe**
+'universo'
+→ **universal**
+'universala'  
+**karne**
+'karno'
+→ **karnal**
+'karna'
+
+Kiam
+**-al**
+estas metita sur radiko, kiu finiĝas per
+**-ia**,
+la sufiksoj kuniĝas al
+**-ial**.
+
+**dunia**
+'mondo'
+→ **dunial**
+'monda'  
+**imperia**
+'imperio'
+→ **imperial**
+'imperia'  
+**nasia**
+'nacio'
+→ **nasial**
+'nacia'  
+**sosia**
+'socio'
+→ **sosial**
+'socia, sociala'
+
+#### -an ~ ian
+
+La sufikso
+**-an**
+esprimas 'anon de iu komunumo', ekzemple de lando, urbo aŭ klubo.
+Kiam tiu sufikso estas metita sur radiko, kiu finiĝas per
+**-ia**,
+la sufiksoj kuniĝas al
+**-ian**.
+
+**Amerika**
+'Ameriko'
+→ **amerikan**
+'amerikano'  
+**Italia**
+'Italio'
+→ **italian**
+'italiano'  
+**Rusia**
+'Rusio'
+→ **rusian**
+'rusiano'  
+**Paris**
+'Parizo'
+→ **parisan**
+'parizano'  
+**kristia**
+'kristanaro'
+→ **kristian**
+'kristano'
+#### -bil
+
+La sufikso
+**-bil**
+esprimas, ke io estas 'ebla' aŭ 'povas esti farata'.
+
+**vize**
+'vidi'
+→ **vizebil**
+'videbla'  
+**uza**
+'uzi'
+→ **uzabil**
+'uzebla'
+
+#### -ente ~ -nte
+
+La sufikso
+**-(e)nte**
+esprimas 'iun kiu faras la agon kiun la radiko esprimas'.
+
+**es**
+'esti'
+→ **esente**
+'estanta'  
+**loga**
+'paroli'
+→ **logante**
+'parolanta'
 
 #### -er ~ -ter
 
+La sufikso
+**-(t)er**
+esprimas 'personon kiu okupiĝas pri io (eble profesie)'.
+
+**ate**
+'agi'
+→ **ater**
+'aganto'  
 **bake**
 'baki'
 → **baker**
 'bakisto'  
+**lide**
+'regi, estri'
+→ **lider**
+'resisto, estro'  
+**filsofe**
+'filozofi'
+→ **filsofer**
+'filozofo'  
+**muskete**
+'muskedo'
+→ **musketer**
+'muskedisto, musketero'  
+**kase**
+'kesto, kaso'
+→ **kaser**
+'kasisto'  
 **kompute**
 'komputi'
 → **komputer**
-'komputilo'  
-morta - mortigi ; morter - mortiganto  
+'komputilo'
 
 #### -eria ~ -teria ~ ria
 
-Ĉi tiu sufikso estas kombinaĵo de **-er** kaj **-ia**.
+Ĉi tiu sufikso estas kombinaĵo de
+**-(t)er** + **-ia**.
 Ĝi siginifas ejon, kutime verkejon.
 
 **bake**
@@ -198,7 +405,11 @@ morta - mortigi ; morter - mortiganto
 **perfume**
 'parfumo'
 → **perfumeria**
-'parfumejo'
+'parfumejo'  
+**enjener**
+'inĝeniero'
+→ **enjeneria**
+'iĝenierejo, inĝenierio'
 
 Malofte la sufikso tranĉiĝas al **-ria**.
 
@@ -207,8 +418,40 @@ Malofte la sufikso tranĉiĝas al **-ria**.
 → **pizaria**
 'picejo, restoracio kiu vendas picojn'
 
+#### -et ~ -let
+
+La sufikso
+**-(l)et**
+esprimas 'malgrandecon'.
+
+**pake**
+'pako'
+→ **paket**
+'paketo'  
+**kase**
+'kesto'
+→ **kaset**
+'kasedo'  
+**sigar**
+'cigaro'
+→ **sigaret**
+'cigaredo'
+
 #### -ia
 
+La sufikso
+**-ia**
+fundamente esprimas 'kolekton de aferoj aŭ komunumon de personoj'
+aŭ lokon kie ili estas kolektita.
+
+**nese**
+'insulo'
+→ **nesia**
+'insularo'  
+**lexe**
+'vorto'
+→ **lexia**
+'vortaro'  
 **homan**
 'homo'
 → **homania**
@@ -218,7 +461,7 @@ Malofte la sufikso tranĉiĝas al **-ria**.
 → **kristia**
 'kristanaro'  
 **filsofe**
-'filozofajxo'
+'filozofaĵo'
 → **filsofia**
 'filozofio'
 
@@ -241,7 +484,9 @@ Malofte la sufikso tranĉiĝas al **-ria**.
 **Indonesia**
 'Indonezio'
 
-La sufikso *-ia* estas uzata en vortoj de sciencaj fakoj,
+La sufikso
+**-ia**
+estas uzata en vortoj de sciencaj fakoj,
 kie ĝi signifas kolekton de scienca scio kaj praktiko.
 
 **kime**
@@ -252,12 +497,14 @@ kie ĝi signifas kolekton de scienca scio kaj praktiko.
 'filozofii'
 → **filsofia**
 'filozofio 
-**loge**
+**loje**
 'studi kaj rezoni sisteme'
-→ **logia**
+→ **lojia**
 'sistema studo kaj rezono, logiko'  
-**biologia**
-'biologio'
+**biolojia**
+'biologio'  
+**geolojia**
+'geologio'
 
 #### -ife ~ -tife
 
@@ -276,61 +523,71 @@ La sufikso *-ife* signifas 'igi'.
 → **unife**
 'unuigi'
 
-#### -ike ~ -tike
+#### -ik ~ -tik
 
-La sufikso **-ike** signifas ion, kiu estas difinita de aĵo aŭ eco, kiu estas indikita de la radiko.
+La sufikso **-ik** signifas ion, kiu estas difinita de aĵo aŭ eco, kiu estas indikita de la radiko.
 Estas du formoj de tiu sufikso.
-La formo **-ike** estas uzata kiam la radiko finiĝas per konsonanto aŭ *-e*.
+La formo **-ik** estas uzata kiam la radiko finiĝas per konsonanto aŭ *-e*.
 
 **un**
 'unu'
-→ **unike**
+→ **unik**
 'sola'  
 **makin**
 'maŝino'
-→ **makinike**
+→ **makinik**
 'maŝina, mekanika'
 
-La formo **-tike** estas uzata kiam la radiko finiĝas per alia vokalo ol *-e*.
+La formo **-tik** estas uzata kiam la radiko finiĝas per alia vokalo ol *-e*.
 
 **tema**
 'temo'
-→ **tematike**
+→ **tematik**
 'tema'
 
 #### -ion ~ -tion
 
-La sufikso **-ion** aŭ **-tion** signifas adon.
+La sufikso
+**-(t)ion**
+signifas 'adon'.
 Estas du formoj de tiu sufikso.
-La formo **-ion**  estas uzata kiam la radiko finiĝas per konsonanto aŭ *-e*.
+La formo
+**-ion**
+estas uzata kiam la radiko finiĝas per konsonanto aŭ *-e*.
 
 **dite**
 'diri'
 → **dition**
 'dirado'
 
-La formo **-tion** estas uzata kiam la radiko finiĝas per iu alia vokalo ol *-e*.
+La formo
+**-tion**
+estas uzata kiam la radiko finiĝas per iu alia vokalo ol *-e*.
 
 **rota**
 'rado, turniĝi kiel rado'
 → **rotation**
 'turniĝado, rotacio'
 
-#### -ium ~ **-um**
 
-La sufikso **-ium** signifas 'kemian elementon'.
+#### -isme ~ -tisme
 
-**kali**
-'alkala'
-→ **kalium**
-'kalio'  
-**Kuri**
-'Kurio'
-→ **kurium**
-'kuriumo'  
-**Einstein**
-→ **einsteinium**
-'ejnŝtejnio'
+La sufikso
+**-(t)isme**
+signifas manieron de pensi pri la mondo aŭ manieron de vivi en la mondo.
+
+**alkol**
+'alkoholo'
+→ **alkolisme**
+'alkoholismo'  
+**dee**
+'dio'
+→ **deisme**
+'teismo, diismo'  
+**ative**
+'agema, aktiva'
+→ **ativisme**
+'aktivismo'
 
 #### -iste ~ -tiste
 
@@ -345,22 +602,38 @@ La sufikso **-iste** signifas personon, kiun kutime kondutas aŭ pensas en certa
 → **deiste**
 'teisto, diisto'
 
-#### -isme ~ -tisme
+#### -ita ~ -ta
 
-La sufikso **-isme** signifas manieron de vivi en la mondo aŭ maniero de pensi pri la mondo.
+La sufikso
+**-(i)ta**
+esprimas 'abstraktan staton aŭ econ'.
 
-**alkol**
-'alkoholo'
-→ **alkolisme**
-'alkoholismo'  
-**dee**
-'dio'
-→ **deisme**
-'teismo, diismo'  
-**ative**
-'agema, aktiva'
-→ **ativisme**
-'aktivismo'
+**nove**
+'nova'
+→ **novita**
+'noveco'  
+**un**
+'unu'
+**unita**
+'unueco'
+
+#### -ium ~ **-um**
+
+La sufikso
+**-ium**
+signifas 'kemian elementon'.
+
+**kali**
+'alkala'
+→ **kalium**
+'kalio'  
+**Kuri**
+'Kurio'
+→ **kurium**
+'kuriumo'  
+**Einstein**
+→ **einsteinium**
+'ejnŝtejnio'
 
 #### -ive ~ -tive
 
@@ -397,33 +670,31 @@ La sufikso **-ize** signifas 'provizi per la aĵo de la radiko'.
 → **makinize**
 'mekanizi, provizi per maŝinoj'
 
-#### -ta
 
-**nove**
-'nova'
-→ **noveta**
-'noveco'  
-**huri**
-'libera'
-→ **hurita**
-'libereco'
+#### -ul ~ -kul
 
-#### -ule
-
-La sufikso **-ule** signifas 'malgrandecon'.
+La sufikso
+**-(k)ul**
+signifas 'koncentraĵon de io'.
 
 **kume**
 'altaĵo'
-→ **kumule**
+→ **kumul**
 'altaĵeto'  
 **node**
 'nodo'
-→ **nodule**
-'nodeto'
+→ **nodul**
+'nodeto'  
+**mira**
+'miri'
+→ **mirakul**
+'mirindaĵo, miraklo'
 
-#### -ure ~ -ture
+#### -ur ~ -tur
 
-La sufikso **-ure** signifas rezulton de ago.
+La sufikso
+**-(t)ur**
+signifas rezulton de ago.
 
 **kulte**
 'kulturi'
@@ -431,6 +702,6 @@ La sufikso **-ure** signifas rezulton de ago.
 'kulturo'  
 **mixe**
 'miksi'
-→ **mixure**
+→ **mixur**
 'miksaĵo, miksturo'
 
