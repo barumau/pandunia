@@ -197,7 +197,7 @@ in Pandunia.
 
 > Word order in active sentence: Subject + Verb + Object
 
-Pandunia's personal pronouns are:
+Pandunia's singular personal pronouns are:
 **mi**
 = I,
 **tu**
@@ -317,7 +317,7 @@ chief, boss
 
 ### Grammar
 
-Pandunia's personal pronouns are
+Pandunia's singular personal pronouns are
 **mi**
 'I',
 **tu**
@@ -422,8 +422,6 @@ to order, to command
 tea  
 **chin pa**
 grandfather  
-**plis**
-to ask; please  
 **don**
 to give  
 **e**
@@ -440,6 +438,8 @@ the
 must, have to  
 **o**
 or  
+**plis**
+to ask; please  
 **safi**
 to clean  
 **side**
@@ -449,9 +449,7 @@ thanks
 **un li**
 only  
 **yam**
-to eat or drink  
-**yo**
-some, a(n)
+to eat or drink
 
 
 ### Answers to the Exercises
@@ -728,13 +726,14 @@ zero
 
 ## More Questions
 
-To ask questions beginning with _what_, _which_, _how_, _who_ and _when_, the interrogative pronoun
+Content questions are asked with the interrogative pronouns
 **kua**
-is normally used.
-The question can be made more specific by adding words for person, time,
-manner or thing if needed.
+('what, which') and
+**hu**
+('who').
+The question can be made more specific by adding words for person, time, manner or thing if needed.
 
-**da es kua?**
+**da es hu?**
 = What is that? / Who is (s)he?  
 **da es kua jen?**
 = Who is he/she?  
@@ -782,26 +781,26 @@ even when not answering to a question.
 
 ### Word List
 
+**a**
+at, in, on  
 **danse**
 to dance  
 **kom**
 to come  
-**a**
-at, in, on  
 **jen**
 person  
-**suka**
-to like  
 **mode**
 manner, style  
-**zaman**
+**suka**
+to like  
+**tem**
 period of time
 
 
 ### Answers to the Exercises
 
 
-1. kua jen suka supe?
+1. hu suka supe?
 2. papa suka.
 3. kua tem da kom?
 4. pos des minute.
@@ -828,7 +827,7 @@ can mean both "I eat bread" and "I ate bread",
 but usually only one or the other meaning makes sense in the context of the discussion.
 For example when people talk about that morning's breakfast, the sentence tells about the past time.
 
-**mi yam ban a ye suba yam.**
+**mi yam ban a da hir suba yam.**
 = I ate bread for this breakfast.
 
 There are also specific time words.
@@ -870,8 +869,8 @@ or until it becomes useful to stress that you are still talking in the same tens
 = I had a cat in the past.  
 **da es hau mau.**
 = It was a good cat.  
-**mi have un vaf nau.**
-= I have a dog now.
+**mi nau have un vaf.**
+= I now have a dog.
 
 Any expression of time is good for expressing the tense. When one
 time expression is present, other markers are not needed.
@@ -886,9 +885,9 @@ time expression is present, other markers are not needed.
 
 Try translating these sentences from English to Pandunia.
 
-1. My boss will celebrate in the future	
-2. I used to have two dogs.	
-3. You are eating soup right now.
+1. My boss will celebrate.
+2. I had two dogs.	
+3. You are eating soup now.
 4. She cleaned the room the day before.
 5. The cat will drink milk tomorrow.
 6. Your mother partied last night.
@@ -896,11 +895,11 @@ Try translating these sentences from English to Pandunia.
 ### Word List
 
 **did**
-past, former  
+before, formerly  
 **nau**
-present, current  
+at present, currently  
 **vil**
-will, future tense marker  
+will, in the future  
 **pre**
 before  
 **den**
@@ -918,9 +917,9 @@ milk
 
 ### Answers to the Exercises
 
-1. mi se shefe feste a vil.
-2. mi have du vaf a pas.
-3. tu yam supe a nau.
+1. mi se shefe vil feste.
+2. mi did have du vaf.
+3. tu nau yam supe.
 4. da safi kamar a preden.
 5. mau yam milke a posden.
 6. tu se ma feste a prenoche.

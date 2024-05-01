@@ -210,22 +210,20 @@ More examples:
 
 ## Word Structure
 
-Pandunia words are structurally rather simple.
-Syllables are structured `(C)(L)V(S)(N)` where
+Pandunia words have a rather simple structure.
+Syllables are structured `(C)(L)V(S)(C)` where
 
 - `C` is a consonant.
-- `L` is a liquid consonant (**l** or **r**).
+- `L` is a liquid consonant (**l** or **r**)
+   or a semivowel (**i** or **u**).
 - `V` is a vowel.
 - `S` is a semivowel (**i** or **u**),
-- `N` is a nasal (**m**, **n** or **ng**),
-   a liquid (**l** or **r**),
-   or a voiceless fricative (**f**, **s**, **sh** or  **h**).
-- The sounds between brackets are optional.
+- Sounds between brackets are optional.
 
 In the table below there are some syllables from the lightest to the heaviest.
 Each of them is also a word in Pandunia.
 
-| Syllable | (C) | (L) |  V  | (S) | (N) | Word meaning |
+| Syllable | (C) | (L) |  V  | (S) | (C) | Word meaning |
 |:---------|:---:|:---:|:---:|:---:|:---:|:-------------|
 | **a**    |     |     |  a  |     |     | 'at'         |
 | **ai**   |     |     |  a  |  i  |     | 'ow!'        |
@@ -247,12 +245,11 @@ A common word refers to a thing as a member of a group, not as an individual.
 For example _dog_ is a common word but _Sam_ is not, it is a proper name.
 
 Common words, which are in general use, must fit into the normal word structure,
-and they can include only the normal sounds of Pandunia.
+and they must have only the normal sounds of Pandunia.
 
-Most Pandunia words are structurally simpler than the corresponding English words.
-Difficult consonant groups are avoided in the beginning, middle and end of words,
-so _stadium_ is **estade**, _act_ is **ate**, and _saint_ is **sante** in Pandunia.
-Also final stop consonants are avoided, so for example _soup_ is **supe** in Pandunia.
+Many Pandunia words are structurally simpler than the corresponding English words.
+Difficult consonant clusters are avoided in the beginning, middle and end of words,
+so _psyche_ is **sike**, _act_ is **ate**, and _saint_ is **sante** in Pandunia.
 
 
 ### Proper names
@@ -261,7 +258,7 @@ Proper nouns and rarely used common nouns can be more complex than ordinary word
 They can even include sounds that don't belong to the normal sound inventory of Pandunia.
 
 For example, family name _Smith_ may remain **Smith** in Pandunia,
-although it is structurally more complex than common Pandunia words,
+although it is structurally more complex than normal Pandunia words,
 and it has the external _th_ sound.
 However, foreign people probably will pronounce this name incorrectly.
 Therefore it is advisable to adapt also proper names to the phonetic system of Pandunia.

@@ -8,22 +8,26 @@ Panduniassa se on hyvin yleistä.
 Itse asiassa suurin osa sanoista ei kuulu mihinkään määrättyyn sanaluokkaan,
 vaan sanaluokka määräytyy sen perusteella, mikä tehtävä sanalla on lauseessa.
 
-Esimerkiksi sana **blanke** voi toimia niin adjektiivina 'tyhjä', substantiivina 'tyhjä' kuin verbinä 'tyhjentää'.
+Esimerkiksi sana
+**hali**
+voi toimia niin adjektiivina 'tyhjä', substantiivina 'tyhjä' kuin verbinä 'tyhjentää'.
 
-**yu have som blanke papir, no?**
+**tu have hali papir, he?**
 – Onko sinulla tyhjää paperia?  
-**give mi un blanke!**
+**don mi un hali!**
 – Annan minulle yksi tyhjä!  
-**yu mus blanke da texte.**
+**tu mus hali da lexe.**
 – Sinun täytyy tyhjentää teksti.
 
-Samaten sana **skribe** voi toimia niin verbinä 'kirjoittaa', substantiivina 'kirjoitus' kuin adjektiivina 'kirjoitettu, kirjallinen'.
+Samaten sana
+**kitabe**
+voi toimia niin verbinä 'kirjoittaa', substantiivina 'kirjoitus' kuin adjektiivina 'kirjoitettu, kirjallinen'.
 
 **mi kitabe letre.**
 – Minä kirjoitan kirjettä.  
 **letre es kitabe misaje.**
 – Kirje on kirjoitettu viesti.  
-**mi love yu su kitabe.**
+**mi love yu se kitabe.**
 – Minä rakastan teidän kirjoituksianne.
 
 
@@ -45,7 +49,7 @@ Samaten,
 
 Yhdyssanat voidaan kirjoittaa yhteen tai erikseen.
 Erityisesti vakiintuneet yhdyssanat on tapana kirjoittaa yhteen.
-Esimerkiksi, sana _demokratia_ kirjoitetaan yleensä **demekratie** eikä **deme kratie**.
+Esimerkiksi, sana _postitoimisto_ kirjoitetaan yleensä **postekan** eikä **poste kan**.
 
 
 ## Etu- ja jälkiliitteet
@@ -75,19 +79,17 @@ ja sitä ennen tulevat sanat vain muokkaavat sen merkitystä.
     _____________
     = pandemike      'koko kansaa koskeva, pandeeminen'
 
-Kreikkalaisperäisissä sanoissa käytetään toisinaan yhdysvokaalia **-o-** yhdistämään yhdyssanan osat toisiinsa.
+Joihinkin jälkiliitteisiin sisältyy liitevokaali.
 
            deme      'kansa, väki'
-       +    -o-      'yhdysvokaali'
-       +  krate      'valta'
-       +    -ia      'kollektiivisen substantiivin pääte'
+     + (o)krate      'valta'
+     +      -ia      'kollektiivisen substantiivin pääte'
     _____________
     = demokratia     'kansavalta, demokratia'
 
           terme      'lämpötila'
-       +    -o-      'yhdysvokaali'
-       +  metre      'mittaus'
-       +    -er      'tekijä tai väline'
+    +  (o)metre      'mittaus'
+    +       -er      'tekijä tai väline'
     ____________
     = termometrer     'lämpömittari'
 
@@ -251,7 +253,6 @@ Etuliite **ex-** tarkoittaa, että toiminta suuntautuu sisään.
 → **inkluze**
 'sulkea sisään, ottaa mukaan'
 
-
 #### kon- ~ kom-
 
 Etuliitteet **kon-** ja *kom-** tarkoittaa 'kanssa, yhdessä, yhteen, kokoon'.
@@ -273,18 +274,18 @@ Etuliitteet **kon-** ja *kom-** tarkoittaa 'kanssa, yhdessä, yhteen, kokoon'.
 
 Etuliite **mes-** tarkoittaa 'väärin, virheellisesti'.
 
-**uze**
+**uza**
 'käyttö'
-→ **mesuze**
+→ **mesuza**
 'väärinkäyttö'
 
 ### pos-
 
 Etuliite **pos-** tarkoittaa 'jälkeen, perään, jälkeen päin'.
 
-**poze**
+**pozi**
 'panna, asettaa'
-→ **pospoze**
+→ **pospozi**
 'panna jkn jälkeen'
 
 #### pre-
@@ -549,21 +550,21 @@ Jälkiliite **-er** tarkoittaa 'tekijää'.
 → **perfumeria**
 'hajuvesikauppa, parfymeria'
 
-#### -ete
+#### -et ~ -let
 
 Jälkiliite **-ete** tai **-lete** lisää kantasanaan pienuuden vivahteen.
 
 **pake**
 'pakkaus'
-→ **pakete**
+→ **paket**
 '(pikku)paketti'  
 **kase**
 'lipas'
-→ **kasete**
+→ **kaset**
 'kotelo, kasetti'  
-**sigare**
+**sigar**
 'sikari'
-→ **sigarete**
+→ **sigaret**
 'savuke'
 
 #### -ia
@@ -641,26 +642,22 @@ Jälkiliite **-ia** esiintyy oppi- ja tieteenalojen nimissä.
 → **klarife**
 'selventää, selkeyttää, selittää'
 
-#### -ike ~ -tike
+#### -ik ~ -tik
 
 **-ike**
 'ominainen, -nen' :  
 **baze**
 'perusta'
-→ **bazike**
+→ **bazik**
 'perus-'  
 **fize**
 'fysiikka'
-→ **fizike**
+→ **fizik**
 'fyysinen'  
 **muze**
 'muusa'
-→ **muzike**
+→ **muzik**
 'muusinen, musiikki'  
-**nuve**
-'uusi'
-→ **nuvike**
-'uusikko, noviisi'
 
 **-ime**
 'enin, superlatiivinen' :  

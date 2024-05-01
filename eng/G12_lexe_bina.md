@@ -15,7 +15,9 @@ This is very common in Pandunia,
 where most words don't belong to any fixed word classes.
 Instead, the word class is determined by the word's place in the sentence.
 
-For example, the word **hali** can function equally as an adjective (_blank_ or _void_), noun (_a blank_) and verb (_to make blank_ or _to get blank_).
+For example, the word
+**hali**
+can function equally as an adjective (_blank_ or _void_), noun (_a blank_) and verb (_to make blank_ or _to get blank_).
 
 **tu have hali papir, he?**
 – Do you have some blank paper?  
@@ -759,6 +761,10 @@ The suffix **-ik** means something that is characterized by the thing or quality
 There are two forms of this suffix.
 The form **-ik** is used when the base word ends in a consonant or an *-e*.
 
+**baze**
+'base, basis'
+→ **bazik**
+'basic'  
 **un**
 'one'
 → **unik**

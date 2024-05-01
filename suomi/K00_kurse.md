@@ -22,19 +22,19 @@ hide:
 **tu es ke?**
 = Kuka sinä olet?  
 <big>☻</big>
-**mi es Yusef. tu es ke?**
+**mi es Yusef. tu es kua?**
 = Olen Yusef. Kuka sinä olet?  
 <big>☺</big>
-**mi es Sara. da es ke?**
+**mi es Sara. da es kua?**
 = Olen Sara. Kuka hän on?  
 <big>☻</big>
 **da es mi se frende.**
 = Hän on minun ystäväni.  
 <big>☺</big>
-**da su nam es ke?**
+**da se nam es kua?**
 = Mikä hänen nimensä on?  
 <big>☻</big>
-**da su nam es Maria.**
+**da se nam es Maria.**
 = Hänen nimensä on Maria.
 
 ### Kielioppia
@@ -61,7 +61,7 @@ Kieltomuodossa käytetään sen sijasta sanaa **no**, joka tarkoittaa _ei_.
 
 **mau es hevan.**
 = Kissa on eläin.  
-**dom no es heva.**
+**haus no es hevan.**
 = Talo ei ole eläin.  
 
 Voit kertoa itsestäsi sanomalla
@@ -92,17 +92,17 @@ Käännä seuraavat lauseet suomesta panduniaksi. Oikeat vastaukset ovat sananst
 
 **mi**
 minä  
-**mi su**
+**mi se**
 minun  
 **tu**
 sinä  
-**tu su**
+**tu se**
 sinun  
 **da**
 hän tai se  
-**da su**
+**da se**
 hänen, sen  
-**ke**
+**kua**
 mikä tai kuka  
 **es**
 olla  
@@ -125,11 +125,11 @@ eläin
 
 ### Harjoitusten vastaukset
 
-1. tu es ke?
-2. mi es tomas.
-3. tu se frende es ke?
+1. tu es kua?
+2. mi es Tomas.
+3. tu se frende es kua?
 4. da es Sara.
-5. tu se nam es ke?
+5. tu se nam es kua?
 6. mi se nam es ........... 
 
 
@@ -141,13 +141,16 @@ eläin
 = Terve!
 
 Näin ihmiset tervehtivät toisiaan panduniaksi.
-He sanovat **sal**.
+He sanovat
+**sal**.
 Samaa sanaa voi käyttää sekä tervehtimiseen että hyvästelemiseen.
 
 **sal**
 = Näkemiin!
 
-Sana **salam** tarkoittaa tervehdystä.
+Sana
+**sal**
+tarkoittaa tervehdystä.
 Toisaalta se tulee latinan tervehdyksestä *salve* ja sen sukulaissanoista,
 kuten ranskan *salut*.
 on alkujaan arabian kielen sana, joka tarkoittaa _hyvinvointia_ ja _rauhaa_,
@@ -183,7 +186,12 @@ Juuri tämä järjestys, subjekti, verbi ja objekti, on normaali sanajärjestys 
 
 > Lauseen sanajärjestys: Subjekti + verbi + objekti
 
-Pandunian persoonapronominit ovat: **mi** = minä, **tu** = sinä, ja  **da** = hän, se.
+Pandunian yksikön persoonapronominit ovat:
+**mi**
+('minä'),
+**tu**
+('sinä') ja
+**da** ('hän, se').
 Huomasithan että pronominit pysyivät koko ajan samoina edellisissä esimerkkilauseissa?
 Pandunian sanat eivät taivu sijamuodoissa.
 Ne pysyvät koko ajan samoina riippumatta siitä, mikä niiden asema lauseessa on.
@@ -229,7 +237,7 @@ Käännä seuraavat lauseet suomesta panduniaksi. Oikeat vastaukset ovat sananst
 
 ### Sanasto
 
-**salam, halo**
+**sal, salam, halo**
 tervehdys, terve, hei  
 **mama**
 äiti, mamma  
@@ -270,26 +278,32 @@ pomo, päällikkö
 **plis yam kafe o cha.**
 = Joisitko kahvia tai teetä?  
 <big>☻</big>
-**ama mi yam un di cha! tanke.**
+**ama mi un li yam cha! tanke.**
 = Mutta minähän juon vain teetä! Kiitos.  
 ...  
 <big>☻</big>
-**cin pa, mi mus ga a zai.**
+**chin pa, mi mus go a nau.**
 = Isoisä, Minun täytyy lähteä nyt.  
 <big>☺</big>
-**oke. plis sal tu se mama!**
+**okei. plis sal tu se mama!**
 = OK. Kerro terveisiä äidillesi!  
 <big>☻</big>
 **mi sal da. sal reste!**
 = Min kerron. Hei hei!  
 <big>☺</big>
-**sal cuti!**
+**sal go!**
 = Hei hei!
 
 
 ### Kielioppia
 
-Pandunian persoonapronominit ovat: **mi** = minä, **tu** = sinä, ja **da** = hän.
+Pandunian persoonapronominit ovat
+**mi**
+('minä'),
+**tu**
+('sinä') ja
+**da**
+('hän, se').
 Kuten suomessa, myös panduniassa persoonapronomineilla ei jaotella sukupuolta.
 Kaikkia edellä mainittuja persoonapronomineja käytettään seuraavassa esimerkkilauseessa.
 
@@ -326,7 +340,9 @@ Tällä tavalla lauseista voi tehdä lyhyempiä.
 **plis sal da.**
 = (Pyydän,) tervehdi häntä.
 
-Huomasitko miten sanan **plis** rooli muuttui hieman kahdessa edellisessä lauseessa?
+Huomasitko miten sanan
+**plis**
+rooli muuttui hieman kahdessa edellisessä lauseessa?
 Sanan merkitys ei muuttunut, mutta sen käyttötapa muuttui.
 Eräissä kielissä pyyntöjen muodostamiseen käytetään apusanaa kuten englannissa _please_ ja saksassa _bitte_.
 Suomessa käytetään ilmaisua "ole hyvä" tai verbin isi-muotoa.
@@ -338,13 +354,13 @@ rakennetta voi hyödyntää kaikenlaisten kohteliaiden pyyntöjen ilmaisemiseen.
 
 **plis side.**
 = Istu, ole hyvä.  
-**plis don yo kafe.**
+**plis don kafe.**
 = Antaisitko kahvia.  
 **plis don cha.**
 = Antaisitko teetä.  
 **plis yam cha.**
 = Ottaisitko teetä.  
-**plis saf kamar.**
+**plis safi kamar.**
 = Siivoaisitko huoneen.
 
 Käskyt aloitetaan sanalla
@@ -354,13 +370,13 @@ Käskylauseiden rakenne on sama kuin pyyntölauseiden.
 
 **amir don cha.**
 = Anna teetä!  
-**amir saf kamar.**
+**amir safi kamar.**
 = Siivoa huone!
 
 Käytännössä napakat käskyt voi tehdä myös pelkällä verbillä ja
 käskevällä äänellä.
 
-**saf da!**
+**safi da!**
 = Siivoa se!
 
 
@@ -377,28 +393,34 @@ Käännä seuraavat lauseet panduniaksi. Oikeat vastaukset ovat sanaston jälkee
 
 ### Sanasto
 
+**amir**
+käskeä, komentaa  
 **cha**
 tee  
-**plis**
-pyytää; ole hyvä  
 **don**
 antaa  
-**tanke**
-kiitos  
 **e**
 ja  
+**go**
+mennä  
 **kafe**
 kahvi  
 **kamar**
 huone  
-**amir**
-käskeä, komentaa  
+**mus**
+pitää, täytyä  
 **o**
 tai, vai  
-**saf**
+**plis**
+pyytää; ole hyvä  
+**safi**
 siisti; siistiä, siivota  
 **side**
 istua  
+**tanke**
+kiitos  
+**un li**
+vain, ainoastaan  
 **yam**
 syödä tai juoda
 
@@ -406,10 +428,10 @@ syödä tai juoda
 ### Harjoitusten vastaukset
 
 1. da yam cha.
-2. la shefe plis da side.
+2. da shefe plis da side.
 3. plis yam kafe o cha.
-4. mama plis mi saf kamar.
-5. shefe side e yam kafe.
+4. mama plis mi safi kamar.
+5. shefe side i yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -435,7 +457,7 @@ syödä tai juoda
 **mi no bashe pandunia...**
 = En osaa panduniaa...  
 <big>☺</big>
-**maf! sual da yam cha?**
+**perdon! sual da yam cha?**
 = Anteeksi! Haluaisiko hän teetä?  
 <big>☻</big>
 **no. da no yam cha. da yam kafe.**
@@ -453,15 +475,17 @@ syödä tai juoda
 **no yam.**
 = Ei.  
 <big>☺</big>
-**tanke. mi dona un cha e un kafe e un supe pos des minute.**
+**tanke. mi don un cha e un kafe e un supe pos ten minute.**
 = Kiitos. Minä tuon yhden teen, yhden kahvin ja yhden keiton kymmenen minuutin päästä.
 
 
 ### Kysyminen
 
 Kysymykset joihin vastataan "kyllä" ja "ei" muodostetaan samalla saranarakenteella kuin pyynnöt,
-joissa käytetään sanaa **plis**.
-Kysymyslauseet aloitetaan sanalla **sual** = kysyä.
+joissa käytetään sanaa
+**plis**.
+Kysymyslauseet aloitetaan sanalla
+**sual** ('kysyä').
 
 **mi sual tu yam cha.**
 = Minä kysyn, juotko sinä teetä. 
@@ -479,22 +503,26 @@ Sen voisi jättää pois vain kun on ilmiselvää, ketä kysymys koskee.
 = Juoko hän teetä?  
 **sual tu yam supe?**
 = Syötkö sinä keittoa?  
-**sual mimen yam sui?**
+**sual vi yam sui?**
 = Juommeko me vettä?
 
 Tietysti myös yleis- ja erisnimiä voi käyttää kysymyksissä.
 
 **sual shefe yam kafe?**
 = Juoko päällikkö kahvia?  
-**sual papa saf kamar?**
+**sual papa safi kamar?**
 = Siivoaako isä huoneen?  
-**sual niki bashe pandunia?**
+**sual Niki bashe pandunia?**
 = Puhuuko Niki panduniaa?
 
 
 ### Vastaaminen
 
-Kyllä-vai-ei kysymyksiin vastaan **ya** = kyllä, tai **no** = ei.
+Kyllä-vai-ei kysymyksiin vastataan
+**ya**
+('kyllä') tai
+**no**
+('ei').
 
 – **sual tu yam supe?**
 = Syötkö sinä keittoa?  
@@ -537,24 +565,24 @@ Käännä seuraavat lauseet panduniaksi.
 
 ### Sanasto
 
-**pos**
-jälkeen  
-**maf**
-anteeksi  
-**minute**
-minuutti  
 **bashe**
 puhua kieltä  
+**minute**
+minuutti  
+**perdon**
+anteeksi  
+**pos**
+jälkeen  
+**sual**
+kysyä  
 **sui**
 vesi  
 **supe**
 keitto, soppa  
+**ten**
+kymmenen  
 **un**
 yksi (1)  
-**des**
-kymmenen  
-**sual**
-kysyä  
 **ya**
 kyllä
 
@@ -576,36 +604,37 @@ Edellisellä tunnilla opitte vastaamaan kysymyksiin **ya** ja **no**.
 **no** on siis kieltosana.
 Kun verbin eteen lisätään **no**, myöntölauseesta tulee kieltolause.
 
-**mi salam tu.**
+**mi sal tu.**
 = Minä tervehdin sinua.  
-**mi no salam tu.**
+**mi no sal tu.**
 = Minä en tervehdi sinua.
 
 Käsitteellisesti kieltäminen tarkoittaa kielletyn sanan olemattomaksi toteamista.
 Lauseessa
-**mi no salam tu**
-kieltosana **no** kieltää
-tervehtimisen olemassaolon.
+**mi no sal tu**
+kieltosana
+**no**
+kieltää tervehtimisen olemassaolon.
 Panduniassa kieltosana vaikuttaa aina seuraavaan sanaan.
 Siis eri asiat tulevat kielletyksi, kun kieltosanan paikka lauseessa muuttuu.
 
-**mi plis tu saf la kamar.**
+**mi plis tu safi kamar.**
 = Minä pyydän sinua siivoamaan huoneen.  
-**mi no plis tu saf la kamar.**
+**mi no plis tu safi kamar.**
 = Minä EN pyydä sinua siivoamaan huonetta.  
-**mi plis tu no saf la kamar.**
+**mi plis tu no safi kamar.**
 = Minä pyydän sinua ETTET siivoa huonetta.
 
 Kielletty sana voi olla mitä tahansa tyyppiä: verbi, pronomini,
 substantiivi, adjektiivi tai jopa lukusana.
 
-**da no haf mau.**
+**da no have mau.**
 = Hän ei omista kissaa.  
-**da haf no mau, ama vaf.**
+**da have no mau, ama vaf.**
 = Hän ei omista kissaa vaan koiran.  
-**no da, ama mi haf mau.**
+**no da, ama mi have mau.**
 = Ei hän vaan minä omistan kissan.  
-**mi haf no un, ama du mau.**
+**mi have no un, ama du mau.**
 = Minula ei ole yhtä vaan kaksi kissaa.
 
 
@@ -623,22 +652,22 @@ Käännä seuraavat lauseet panduniaksi.
 
 ### Sanasto
 
-**kupa**
-kuppi, muki, lasi  
+**ama**
+mutta, vaan  
+**du**
+kaksi  
 **hali**
 tyhjä  
-**ha**
+**have**
 omistaa  
+**kupa**
+kuppi, muki, lasi  
 **mau**
 kissa  
 **vaf**
 koira  
-**du**
-kaksi  
 **siro**
-nolla  
-**ama**
-mutta, vaan
+nolla
 
 
 ### Harjoitusten vastaukset
@@ -646,52 +675,58 @@ mutta, vaan
 1. da no saf kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da no haf vaf e mau. / da haf no vaf e no mau.
+4. da no have vaf e mau. / da have no vaf e no mau.
 5. shefe yam cha ama no kafe.
-6. mama haf no vaf ama du mau.
+6. mama have no vaf ama du mau.
 
 
 --------------------------------------------------------------------------------
 
 ## Muita kysymyksiä
 
-Asioiden kysymiseen käytetään kysymyssanoja **ke** ja **ki**, jota
-tarkennetaan muilla sanoilla.
+Asioiden kysymiseen käytetään kysymyssanoja
+**kua**
+('mikä') ja
+**hu**
+('kuka').
 
-**da es ke?**
+**da es hu?**
 = Mikä se on? / Kuka hän on?  
-**da es ke jen?**
+**da es kua jen?**
 = Kuka (henkilö) hän on?  
-**da es ke xe?**
+**da es kua ting?**
 = Mikä (asia) se on?
 
-**ke jen lai?**
+**kua jen kom?**
 = Kuka tulee? (**jen** = henkilö)  
-**tu yam a ke zaman?**
-= Mihin aikaan sinä syöt? (**zaman** = aika)  
-**se danse a ke yang?**
-= Miten tanssitaan? (**yang** = tapa)
+**tu yam a kua tem?**
+= Mihin aikaan sinä syöt? (**tem** = aika)  
+**von danse a kua mode?**
+= Miten tanssitaan? (**mode** = tapa)
 
 Miksi-kysymykset aloitetaan sanomalla
-**ke sabu**
+**kua sababe**
 ('minkä vuoksi').
 
-**ke sabu tu suka mau?**
+**kua sababe tu suka mau?**
 = Minkä takia sinä tykkäät kissoista?
 
-Miksi-kysymykseen vastataan panemalla sana **sabu** ennen syytä.
-**sabu** on todellisuudessa passiivinen verbi, joka tarkoittaa _aiheutua_.
+Miksi-kysymykseen vastataan panemalla sana
+**sababe**
+ennen syytä.
+**sababe**
 
-**ke sabu tu suka mau?**
+**kua sababe tu suka mau?**
 = Minkä takia sinä tykkäät kissoista?  
-**de sabu damen es kavai.**
+**de sababe di es kavai.**
 = Sen takia että ne ovat söpöjä.
 
-Sanaa **sabu** voi käyttää syyn ilmaisemiseen silloinkin, kun ei
-vastata kysymykseen.
+Sanaa
+**sababe**
+voi käyttää syyn ilmaisemiseen silloinkin, kun ei vastata kysymykseen.
 
-**mi suka mau de sabu damen es kavai**
-= Minä tykkään kissoista sen takia että ne ovat söpöjä.
+**mi suka mau of sababe di es kavai**
+= Minä tykkään kissoista sen takia, että ne ovat söpöjä.
 
 ### Harjoituksia
 
@@ -707,27 +742,27 @@ vastata kysymykseen.
 
 **danse**
 tanssia  
-**lai**
+**kom**
 tulla  
 **jen**
 henkilö  
+**mode**
+tapa  
 **suka**
 tykätä, pitää  
-**yang**
-tapa  
-**zaman**
+**tem**
 aika
 
 
 ### Harjoitusten vastaukset
 
 
-1. ke jen suka supe?
+1. hu suka supe?
 2. papa suka.
-3. ke zaman da lai?
+3. kua tem da kom?
 4. pos des minute.
-5. ke sabu da no yam?
-6. de sababe da no suka kafe e supe.
+5. kua sababe da no yam?
+6. of sababe da no suka kafe e supe.
 
 
 --------------------------------------------------------------------------------
@@ -736,76 +771,62 @@ aika
 
 ### Expressing time
 
-Pandunian kaikki verbit ovat taipumattomia. Jokaisella verbillä on siis vain yksi muoto,
-jota käytetään kaikissa aikamuodoissa.
+Pandunian kaikki verbit ovat taipumattomia.
+Jokaisella verbillä on siis vain yksi muoto, jota käytetään kaikissa aikamuodoissa.
 Ne siis muistuttavat joitakin suomen kielen verbejä, kuten imuroida ja nauttia,
-jotka ovat kaikissa aikamuodoissa samoja joissakin persoonissa.
+jotka ovat kaikissa aikamuodoissa samoja ainakin joissakin persoonissa.
 
 **mi suka da.**
 = Minä nautin siitä (äsken/nyt/pian).
 
 Ero on siinä, että kaikki pandunian verbit ovat sellaisia! Esimerkiksi
 **mi yam ban**
-voi tarkoittaa sekä "Minä söin leipää" että "Minä syön leipää",
+voi tarkoittaa sekä 'minä söin leipää' että 'minä syön leipää',
 mutta tavallisesti vain toinen merkitys sopii asiayhteyteen.
-Esimerkiksi kun on päivä ja puhe on aamiaisesta, lause viittaa luonnollisesti menneeseen aikaan.
+Esimerkiksi, kun on päivä ja puhe on aamiaisesta, lause viittaa luonnollisesti menneeseen aikaan.
 
-**mi yam ban a ye suba yam.**
+**mi yam ban a da hir suba yam.**
 = Minä söin leipää tänään aamiaisella.
 
-Mennyttä, nykyistä ja tulevaa tarkoittavat määresanat ovat **pas, zai**
-ja **sha**. Niitä voi käyttää substantiivien määrittämiseen.
+Mennyttä, nykyistä ja tulevaa tarkoittavat apuverbit ovat
+**did**
+('ennen'),
+**nau**
+('nyt') ja
+**vil**
+('myöhemmin').
+Ajan apuverbit tulevat ennen pääverbiä.
 
-**Sara es mi se pas shefe.**
-= Sara on minun entinen pomo.  
-**Yusef es mi se zai shefe.**
-= Yusef on minun nykyinen pomo  
-**Maria es mi se sha shefe.**
-= Maria on minun tuleva pomo.
-
-Samoja sanoja käytetään myös kun puhutaan teoista ja tapahtumista
-ajassa. Ajan määre pannaan verbin eteen.
-
-**mi pas darba da.**
+**mi did bate da.**
 = Minä löin sitä (ennen).  
-**mi zai darba da.**
+**mi nau bate da.**
 = Minä lyön sitä (nyt).  
-**mi sha darba da.**
+**mi vil bate da.**
 = Minä lyön sitä (tulevaisuudessa).
 
-Kuten huomaat, verbi ei taivu aikamuodoissa. Verbi **darba** (lyödä)
-pysyy samana kaikissa aikamuodoissa.
-
-On myös mahdollista ilmaista asia pitemmästi, kuten sanomalla
-**sa pase** (menneisyydessä) jne.
-
-**mi darba da a pas.**
-= Minä löin sitä menneisyydessä.  
-**mi darba da a zai.**
-= Minä lyön sitä nykyään.  
-**mi darba da a sha.**
-= Minä lyön sitä tulevaisuudessa.
+Kuten huomaat, verbi ei taivu aikamuodoissa. Verbi
+**bate**
+('lyödä') pysyy samana kaikissa aikamuodoissa.
 
 Yksinkertaisuuden vuoksi ajan ilmausta ei tarvitse toistaa jatkuvasti.
-Olisi kömpelöä jankuttaa, että minä heräsin _aamulla_, harjasin hampaat
-_aamulla_, söin _aamulla_ ja luin lehteä _aamulla_.
-Riittää, kun sanoo yhden kerran, että kaikki se tapahtui aamulla.
+Olisi kömpelöä jankuttaa, että minä heräsin _aamulla_, harjasin hampaat _aamulla_, söin _aamulla_ ja luin lehteä _aamulla_.
+Riittää, että sanotaan yhden kerran, että se kaikki tapahtui aamulla.
 Siis ajan ilmaus mainitaan vain kerran alussa.
 Seuraava ajan ilmaus tarvitaan vasta sitten, kun siirrytään puhumaan toisesta ajankohdasta.
 
-**mi pas haf un mau.**
+**mi did have un mau.**
 = Minä omistin ennen kissan.  
 **da es hau mau.**
 = Se _oli_ hyvä kissa.  
-**mi haf un vaf a zai.**
-= Minulla on koira nyt.
+**mi nau have un vaf.**
+= Minulla on nyt koira.
 
-Mikä tahansa ajan ilmaisu kelpaa aikamuodon asettamiseksi. Silloin ei
-tarvita muita aikaa ilmaisevia sanoja.
+Mikä tahansa ajan ilmaisu kelpaa aikamuodon asettamiseksi.
+Silloin ei tarvita muita aikaa ilmaisevia sanoja.
 
 **mi be gene a nen 2003.**
 = Minä synnyin _vuonna 2003_.  
-**da saf la kamar a pos den.**
+**da safi da kamar a pos den.**
 = Hän siivoa huoneen _huomenna_.
 
 
@@ -814,7 +835,7 @@ tarvita muita aikaa ilmaisevia sanoja.
 Käännä seuraavat lauseet panduniaksi.
 
 1. Minun pomoni juhlii tulevaisuudessa.
-2. Minulla oli kaksi koiraa ennen.	
+2. Minulla oli kaksi koiraa.	
 3. Sinä juot kahvia nyt.
 4. Hän siivosi huoneen eilen.
 5. Kissa juo maitoa huomenna.
@@ -822,13 +843,19 @@ Käännä seuraavat lauseet panduniaksi.
 
 ### Sanasto
 
-**pas**
-entinen, ennen  
-**zai**
-nykyinen, nykyään  
-**sha**
-tuleva, tulevaisuudessa  
-**darba**
+**did**
+ennen  
+**nau**
+nyt, nykyään  
+**vil**
+tulevaisuudessa  
+**pre**
+aikaisempi, edellinen  
+**den**
+päivä, vuorokausi  
+**noche**
+yö  
+**bate**
 lyödä  
 **ban**
 leipä  
@@ -839,10 +866,10 @@ maito
 
 ### Harjoitusten vastaukset
 
-1. mi se shefe festa a sha.
-2. mi haf du vaf a pas.
-3. tu yam supe a zai.
-4. da saf kamar a preden.
+1. mi se shefe vil feste.
+2. mi did have du vaf.
+3. tu nau yam supe.
+4. da safi kamar a preden.
 5. mau yam milke a posden.
-6. tu se ma festa a prenoce.
+6. tu se ma feste a prenoche.
 
