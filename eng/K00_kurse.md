@@ -19,13 +19,13 @@ hide:
 **sal!**
 = Hello!  
 <big>☺</big>
-**tu es kua?**
+**tu es hu?**
 = Who are you?  
 <big>☻</big>
-**mi es Yusef. tu es kua?**
+**mi es Yusef. tu es hu?**
 = I am Yusef. Who are you?  
 <big>☺</big>
-**mi es Sara. da es kua?**
+**mi es Sara. da es hu?**
 = I am Sara. Who is that?  
 <big>☻</big>
 **da es mi se frende.**
@@ -96,44 +96,46 @@ The correct answers are after the word list.
 
 ### Word List
 
-**mi**
-I, me  
-**mi se**
-my  
-**tu**
-you  
-**tu se**
-your  
 **da**
 he, she or it  
 **da se**
 his, her, its  
-**kua**
-who or what  
 **es**
 to be  
-**no**
-no; not  
-**hau**
-good  
-**frende**
-friend  
-**nam**
-name  
 **fem**
 woman  
+**frende**
+friend  
+**gude**
+good  
+**hevan**
+animal  
+**hu**
+who  
+**kua**
+what  
 **man**
 man  
 **mau**
 cat  
-**hevan**
-animal
+**mi**
+I, me  
+**mi se**
+my  
+**nam**
+name  
+**no**
+no; not  
+**tu**
+you (singular)  
+**tu se**
+your  
 
 ### Answers to the Exercises
 
-1. tu es kua?
+1. tu es hu?
 2. mi es Tomas.
-3. tu se frende es kua?
+3. hu es tu se frende?
 4. da es Sara.
 5. tu se nam es kua?
 6. mi se nam es ........... 

@@ -21,7 +21,7 @@ Kaikista yksinkertaisimmissa lauseissa subjekti on substantiivi tai pronomini ja
 
 **mi bon.**
 = Minä olen hyvä.  
-**da neu.**
+**da nove.**
 = Se on uusi.  
 **da Sara.**
 = Hän on Sara.
@@ -33,7 +33,7 @@ Substantiivin ollessa subjektina, verbi **si** ('olla') tulee välttämättömä
 – Sara on hyvä  
 **seku es dai.**
 – Kivet ovat isoja.  
-**meza es neu.**
+**meza es nove.**
 – Pöytä on uusi.
 
 Kieltolauseessa käytetään sanaa **no**.
@@ -42,7 +42,7 @@ Kieltolauseessa käytetään sanaa **no**.
 |------------------|--------------------|
 | **mi bon.**      | **mi no bon.**     |
 | Minä olen hyvä.  | Minä en ole hyvä.  |
-| **da neu.**      | **da no neu.**     |
+| **da nove.**      | **da no nove.**     |
 | Se on uusi.      | Se ei ole uusi.    |
 | **da Sara.**     | **da no Sara.**    |
 | Hän on Sara.     | Hän ei ole Sara.   |
@@ -52,7 +52,7 @@ Kieltolauseessa käytetään sanaa **no**.
 Myös kaksi persoonapronominia voidaan asettaa rinnakkain.
 Selkeyden vuoksi väliin voi panna sanan **si** (kyllä) myöntölauseessa.
 
-**mi e da.**
+**mi es da.**
 = Minä olen se.  
 **mi no tu.**
 = Minä en ole sinä.
@@ -62,11 +62,11 @@ Selkeyden vuoksi väliin voi panna sanan **si** (kyllä) myöntölauseessa.
 
 Kun subjektina on adjektiivi, sana **si** (kyllä) toimii olla-verbin korvikkeena myöntölauseessa. Kieltolauseessa käytetään sanaa **no** kuten edelläkin.
 
-**jun e mei.**
+**yun es mei.**
 = Nuori on kaunista.  
-**neu no lau.**
+**nove no lau.**
 = Uusi ei ole vanha.  
-**gani e bon.**
+**gani es bon.**
 – Laulaminen on hyvä.
 
 
@@ -78,17 +78,17 @@ Aktiivilauseissa predikaatina on verbi eli teonsana.
 
 **mi marche.**
 – Minä kävelen.  
-**mi fikir.**
+**mi fikre.**
 – Minä ajattelen.
 
 Subjektin ja predikaatin lisäksi lauseessa voi olla myös objekti,
 joka on teon kohde.
 
-**mi fikir tu.**
+**mi fikre tu.**
 – Minä ajattelen sinua.  
-**tu yam yo aple.**
+**tu yam som aple.**
 – Sinä syös omenoita.  
-**mimen don yo pesa to da.**
+**vi don som mone to da.**
 – Me annamme hänelle rahaa.
 
 Toisinaan yhden lauseen subjekti voi olla toisessa lauseessa objekti,
@@ -144,25 +144,25 @@ on lauseessa _saranana_.
  
 Verbiketjussa on kaksi tai useampia teonsanoja peräkkäin. Kaikkien verbien subjekti on sama ja jälkimmäinen verbi on edellisen verbin kohteena.
  
-1. **mi ga to dom.**
+1. **mi go to haus.**
    – Minä menen kotiin.
-2. **mi bil ga to dom.**
+2. **mi ken go to haus.**
    – Minä voin mennä kotiin.
-3. **mi vol bil ga to dom.**
+3. **mi van ken go to haus.**
    – Minä haluan voida mennä kotiin.
 
 Ketjun viimeinen verbi on pääverbi,
 ja sitä ennen olevan verbit ovat tavan apuverbejä.
 
-**tu vol yam yo fito.**
+**tu vol yam vege.**
 – Sinä haluat syödä kasviksia. (halu)  
-**tu sel yam yo fito.**
+**tu sel yam vege.**
 – Sinun kannattaisi syödä kasviksia. (neuvo)  
-**tu halal yam yo fito.**
+**tu halal yam vege.**
 – Sinä saat syödä kasviksia. (lupa)  
-**tu bil yam yo fito.**
+**tu ken yam vege.**
 – Sinä voit syödä kasviksia. (mahdollisuus)  
-**tu mus yam yo fito.**
+**tu mus yam vege.**
 – Sinun täytyy syödä kasviksia. (pakko)
 
 
@@ -181,9 +181,9 @@ Tällä tavalla lauseista voi tulla lyhyempiä.
 
 ### Short pivot structure (VVO)
 
-**mi plis tu kom to dom.**
+**mi plis tu kom to haus.**
 – Minä pyydän sinua tulemaan kotiin.  
-**plis kom to dom!**
+**plis kom to haus!**
 – (Pyydän) tule kotiin!
 
 
@@ -220,7 +220,7 @@ Tämä on ns. _A-no-A_ -rakennne.
 
 **tu yam no yam un piza?**
 – Syötkö vai etkö syö pitsaa?  
-**tu bil no bil yam un piza?**
+**tu ken no ken yam un piza?**
 – Voitko vai etkö voi syödä pitsaa?
 
 Viimeinen tapa on painottaa kysymistä käyttämällä verbiä **sual** ('kysyä').
@@ -249,11 +249,11 @@ ja
 **no**
 tarkoittavat verbiä eivätkä koko kysymyslausetta.
 
-**tu no visi mi, he?**
+**tu no vize mi, he?**
 – Etkö sinä näe minua  
-**ya. (mi visi tu.)**
+**ya. (mi vize tu.)**
 – Kyllä. (Minä kyllä näen sinut.)  
-**no. (mi no visi tu.)**
+**no. (mi no vize tu.)**
 – Ei. (Minä en näe sinua.)
 
 
@@ -282,7 +282,7 @@ Panduniassa avoimissa kysymyksissä on aina kysymyssana
 ('mikä, mitä').
 Sanajärjestys on yleensä sama kuin väitelauseissa.
 
-**piza e ke?**
+**piza es ke?**
 – Mikä pitsa on?
 
 Kysymyssanan voi myös siirtää lauseen alkuun painottamaan sen merkitystä.
@@ -294,7 +294,7 @@ Yleensä sanajärjestys kuitenkin on sama kuin väitelauseissa.
 – Sinä olet syömässä mitä?  
 **da kom a ke zaman?**
 – Mihin aikaan hän tulee?  
-**tumen vizite a ke jen su dom?**
+**yu vizite a ke jen se haus?**
 – Kenen talossa te kävitte?
 
 
@@ -333,37 +333,37 @@ Yleensä sanajärjestys kuitenkin on sama kuin väitelauseissa.
 
 Lauseet ovat lähtökohtaisesti myöntäviä.
 
-**mi e shefe.**
+**mi es shefe.**
 = Minä olen pomo.  
-**da e neu meza.**
+**da es nove meza.**
 = Se on uusi pöytä.
 
 Myöntämistä voi painottaa sanalla
 **ya**
 ('kyllä').
 
-**mi ya e shefe.**
+**mi ya es shefe.**
 – Minä kyllä olen pomo.  
-**da ya e neu meza.**
+**da ya es nove meza.**
 – Se kyllä on uusi pöytä.
 
 #### Kieltäminen
 
 Edellisen kaltaiset lauseet kielletään sanalla **no**.
 
-**da no e shefe.**
+**da no es shefe.**
 = Minä en ole pomo.  
-**da no e neu meza.**
+**da no es nove meza.**
 = Tämä ei ole uusi pöytä.
 
 Sanaa **no** käytetään myös toisten sanojen kieltämiseen.
 Se vaikuttaa aina vain seuraavaan sanaan.
 
-**mi visi tu.**
+**mi vize tu.**
 = Minä näen sinut.  
-**mi no visi tu.**
+**mi no vize tu.**
 = Minä en näe sinua.  
-**mi visi no tu ama damen.**
+**mi vize no tu ama di.**
 = Minä näen, en sinua, vaan heidät.
 
 **mi plis tu safi la kamar.**
@@ -408,24 +408,24 @@ Omistusta ilmaistaan omistusparikkelilla
 **su**,
 joka vastaa suomen genetiivisijaa.
 
-**Maria su mama**
+**Maria se mama**
 – Marian äiti  
-**Maria su mama su dom**
+**Maria se mama se haus**
 – Marian äidin talo
 
 Samaa partikkelia käytetään myös pronominien kanssa.
 
-**mi se dom**
+**mi se haus**
 – minun taloni  
-**tu se dom**
+**tu se haus**
 – sinun talosi  
-**da su dom**
+**da se haus**
 – hänen talonsa  
-**mimen su dom**
+**vi se haus**
 – meidän talomme  
-**tumen su dom**
+**yu se haus**
 – teidän talonne  
-**damen su dom**
+**di se haus**
 – heidän talonsa
 
 

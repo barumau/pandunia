@@ -99,13 +99,34 @@ Panduniassa osoittavat pronomiinit toimivat subjekteina ja objekteina samalla ta
 
 ## Kysymyspronominit
 
-**kua**
-on yleiskäyttöinen kysymyspronomini.
-Se vastaa suomen sanoja _mikä_ ja _kuka_.
+Panduniassa on kaksi kysyvää pronominia.
 
 **kua?**
-– Mikä?
+– mikä  
+**hu**
+– kuka
 
+Kysymyssana sijoittuu lausekkeessa kysyttävän asian paikalle.
+Sitä ei siis sijoiteta lausekkeen alkuun toisin kuin yleensä suomen kielessä.
+
+**kua es da?**
+– Mikä se on?  
+**hu es da?**
+– Kuka hän on?  
+**yu van kua?**
+– Mitä sinä haluat?  
+**kua es a meza.**
+– Mitä on pöydällä?  
+**hu es in haus.**
+– Kuka on talossa?
+
+Omistusta kysyvä pronomini rakennetaan samalla tavalla kuin muutkin omistuspronominit.
+
+**hu se**
+– kenen
+
+**hu se haus es da?**
+– Kenen talo tuo on?
 
 Adjektiivit voi saattaa kyseenalaisiksi sanalla
 **kua li**.
@@ -125,6 +146,7 @@ Adjektiivit voi saattaa kyseenalaisiksi sanalla
 
 **tu have kua li dai mau?**
 – Kuinka iso kissa sinulla on?
+
 
 ## Pronominimaisten sanojen taulukko
 

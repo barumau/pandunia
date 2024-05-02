@@ -19,13 +19,13 @@ hide:
 **sal!**
 = Terve!  
 <big>☺</big>
-**tu es ke?**
+**tu es hu?**
 = Kuka sinä olet?  
 <big>☻</big>
-**mi es Yusef. tu es kua?**
+**mi es Yusef. tu es hu?**
 = Olen Yusef. Kuka sinä olet?  
 <big>☺</big>
-**mi es Sara. da es kua?**
+**mi es Sara. da es hu?**
 = Olen Sara. Kuka hän on?  
 <big>☻</big>
 **da es mi se frende.**
@@ -50,9 +50,13 @@ teema on
 **es mi se frende**
 (on minun ystäväni).
 
-Sanan **es** voi kääntää olla-verbiksi.
+Sana
+**es**
+tarkoittaa *olla*-verbiä.
 Samaa sanaa käytetään sellaisenaan kaikissa persoonissa.
-Kieltomuodossa käytetään sen sijasta sanaa **no**, joka tarkoittaa _ei_.
+Kieltomuodossa käytetään sen edellä tai sijasta sanaa
+**no**,
+joka tarkoittaa _ei_.
 
 **da es Sara.**
 = Hän on Sara.  
@@ -90,44 +94,46 @@ Käännä seuraavat lauseet suomesta panduniaksi. Oikeat vastaukset ovat sananst
 
 ### Sanasto
 
-**mi**
-minä  
-**mi se**
-minun  
-**tu**
-sinä  
-**tu se**
-sinun  
 **da**
 hän tai se  
 **da se**
 hänen, sen  
-**kua**
-mikä tai kuka  
 **es**
 olla  
-**no**
-ei  
-**hau**
-hyvä  
-**frende**
-ystävä  
-**nam**
-nimi  
 **fem**
 nainen  
+**frende**
+ystävä  
+**gude**
+hyvä  
+**hevan**
+eläin
+**hu**
+kuka  
+**kua**
+mikä  
 **man**
 mies  
 **mau**
 kissa  
-**hevan**
-eläin
+**mi**
+minä  
+**mi se**
+minun  
+**nam**
+nimi  
+**no**
+ei  
+**tu**
+sinä  
+**tu se**
+sinun  
 
 ### Harjoitusten vastaukset
 
-1. tu es kua?
+1. tu es hu?
 2. mi es Tomas.
-3. tu se frende es kua?
+3. hu es tu se frende?
 4. da es Sara.
 5. tu se nam es kua?
 6. mi se nam es ........... 

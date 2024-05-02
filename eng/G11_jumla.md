@@ -612,11 +612,11 @@ It is very common in Pandunia.
 There can be two, three or even more verbs in a series.
 All verbs are about the same subject.
  
-1. **mi go a haus.**
+1. **mi go to haus.**
    – I go home.
-2. **mi ken go a haus.**
+2. **mi ken go to haus.**
    – I can go home.
-3. **mi van ken go a haus.**
+3. **mi van ken go to haus.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 

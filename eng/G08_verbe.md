@@ -42,11 +42,14 @@ The tense marker is first, the mood marker is next, and the aspect marker is las
 
 Tense is a property that expresses time reference.
 The main tenses are the past, present, and future.
-More specific time references are expressed with various time expressions, like *yesterday*, *tomorrow* or *one hour ago*.
 The marker
-**did** indicates the past tense,
-**nau** indicates the present tense, and
-**vil** indicates the future tense.
+**did**
+indicates the past tense,
+**nau**
+indicates the present tense, and
+**vil**
+indicates the future tense.
+More specific time references are expressed with various time expressions, like *yesterday*, *tomorrow* or *one hour ago*.
 
 **man** ***did*** **yam ban.**
 – The man *ate* (or *did eat*) bread.  
@@ -68,7 +71,9 @@ Aspect expresses how an action or event extends over time.
 There are two aspect markers in Pandunia,
 **bi** and **haf**.
 
-The marker **bi** indicates that the action or event is *on-going* or *in progress*
+The marker
+**bi**
+indicates that the action or event is *on-going* or *in progress*
 at the time, which the speaker is talking about.
 The time can be indicated with a tense marker.
 
@@ -81,7 +86,9 @@ The time can be indicated with a tense marker.
 **man** ***vil bi*** **yam ban.**
 – The man will be eating bread.
 
-The marker **haf** indicates that the action or event is completed
+The marker
+**haf**
+indicates that the action or event is completed
 and its results still has an effect at the time, which the speaker is talking about.
 The time can be indicated with a tense markers.
 
@@ -97,15 +104,17 @@ The time can be indicated with a tense markers.
 
 ### Conditional mood
 
-The conditional marker **vud** indicates that the realization of an action or event depends on another condition.
+The conditional marker
+**vud**
+indicates that the realization of an action or event depends on another condition.
 This marker is used in both main and subordinate clauses.
 
 **mi** ***vud*** **van yam.**
 – I *would* like to eat.  
 **mi** ***vud*** **go to Dubai.**
 – I *would* go to Dubai.  
-**mi** ***vud*** **go, if tu las mi.**
-– I *would* go if you let me.  
+**mi** ***vud*** **go, if tu vud las mi.**
+– I *would* go if you would let me.  
 **tu no** ***vud*** **es suka, if mi** ***vud*** **go.**
 – You would not be happy, if I would go.
 

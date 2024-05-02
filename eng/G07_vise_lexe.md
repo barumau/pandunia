@@ -212,19 +212,27 @@ There are two interrogative pronouns in Pandunia.
 **hu**
 – who
 
-**da es kua?**
-– What is it?  
-**da es hu?**
-– Who is it?  
-**yu van kua?**
-– What do you want?  
-**kua es a meza.**
-– What is on the table?
+The interrogative pronoun takes the place of the questioned thing in the phrase.
+It is not placed in the beginning of the phrase unlike normally in English.
 
-The possessive interrogative pronoun is created regularly.
+**kua es da?**
+– What is that?  
+**hu es da?**
+– Who is he ~ she?  
+**yu van kua?**
+– What do you want? (Literally: You want what?)  
+**kua es a meza.**
+– What is on the table?  
+**hu es in haus.**
+– Who is in the house?
+
+The possessive interrogative pronoun is built like the other possessive pronouns.
 
 **hu se**
 – whose
+
+**hu se haus es da?**
+– Whose hose is that?
 
 Adjectives are questioned with **kua li**.
 
