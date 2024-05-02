@@ -537,7 +537,8 @@ they merge together into
 #### -bil
 
 The suffix
-**-bil** means that something is possible or able to be done.
+**-bil**
+means that something is possible or able to be done.
 
 **vize**
 'see, view'
@@ -554,7 +555,7 @@ This rarely used suffix means a fundamental unit in the system of things that is
 For example,
 **lexeme**
 ('lexeme') is the fundamental unit in the system of
-*lexe*
+**lexe**
 'words'.
 For example *spoke* and *spoken* are individual words but they represent the same underlying fundamental unit, which is *speak* in its basic form.
 
@@ -641,7 +642,8 @@ It means the place for making, producing or selling the thing that is indicated 
 → **enjeneria**
 'engineering'
 
-In some rare cases this suffix is trimmed into **-ria**.
+In some rare cases this suffix is trimmed into
+**-ria**.
 
 **piza**
 'pizza'
@@ -666,6 +668,28 @@ expresses 'small size'.
 'cigar'
 → **sigaret**
 'cigarette'
+
+#### -file ~ ofile
+
+The suffix
+**-(o)file**
+means 'extraordinary or abnormal liking of something'.
+
+**Rus**
+'Russia'
+→ **rusofilia**
+'Russophilia, strong liking of Russia or Russians'
+
+#### -fobe ~ ofobe
+
+The suffix
+**-(o)file**
+means 'extraordinary or abnormal dislike of something'.
+
+**Rus**
+'Russia'
+→ **rusofobia**
+'Russophobia, strong dislike of Russia or Russians'
 
 #### -ia
 
@@ -692,8 +716,8 @@ but fundamentally it means a collective of things or a community of people.
 'Christianity, all Christians as a group'
 
 This ending is often used in place names, especially in country names.
-However it is not always used.
-There are also a lot of country names that do not end in **-ia**.
+However it is not always used,
+and there are also many country names that do not end in **-ia**.
 
 **arabe**
 'Arab, Arabic'
@@ -740,7 +764,9 @@ where it can be understood as collection of scientific knowledge and practices.
 
 #### -ife ~ -tife
 
-The suffix *-ife* means to make or turn into the thing that is indicated by the base word.
+The suffix
+**-(t)ife**
+means to make or turn into the thing that is indicated by the base word.
 
 **komple**
 'complex'
@@ -753,18 +779,26 @@ The suffix *-ife* means to make or turn into the thing that is indicated by the 
 **un**
 'one'
 → **unife**
-'make one, unify'
+'yhdistää'  
+**klare**
+'clear'
+→ **klarife**
+'make clear, clarify'
 
 #### -ik ~ -tik
 
-The suffix **-ik** means something that is characterized by the thing or quality indicated by the base word.
-There are two forms of this suffix.
-The form **-ik** is used when the base word ends in a consonant or an *-e*.
+The suffix
+**-(t)ik**
+means something that is characterized by the thing or quality indicated by the base word.
 
 **baze**
 'base, basis'
 → **bazik**
 'basic'  
+**fize**
+'body'
+→ **fizik**
+'physical'  
 **un**
 'one'
 → **unik**
@@ -772,10 +806,7 @@ The form **-ik** is used when the base word ends in a consonant or an *-e*.
 **makin**
 'machine'
 → **makinik**
-'machine-like, mechanical'
-
-The form **-tik** is used when the base word ends in a vowel other than *-e*.
-
+'machine-like, mechanical'  
 **tema**
 'theme'
 → **tematik**
@@ -805,20 +836,18 @@ means something that is in the position or rank that is indicated by the base wo
 The suffix
 **-(t)ion**
 means 'an action or process'.
-There are two forms of this suffix.
-The form
-**-ion**
-is used when the base word ends in a consonant or an *-e*.
-
+**ate**
+'act'
+→ **ation**
+'action'  
 **dite**
 'say'
 → **dition**
-'saying, diction'
-
-The form
-**-tion**
-is used when the base word ends in a vowel other than *-e*.
-
+'saying, diction'  
+**konsume**
+'consume'
+→ **konsumion**
+'consumption'  
 **rota**
 'wheel; to turn like a wheel'
 → **rotation**
@@ -834,23 +863,29 @@ means an ideology, a way of thinking or a way of life.
 'alcohol'
 → **alkolisme**
 'alcoholism'  
-**dee**
-'god'
-→ **deisme**
-'theism'  
 **ative**
 'active'
 → **ativisme**
-'activism'
+'activism'  
+**dee**
+'god'
+→ **deisme**
+'theism'
 
 #### -iste ~ -tiste
 
-The suffix **-iste** means a person who tends to behave or think in a certain way or an adherent of an ideology or a religion.
+The suffix
+**-(t)iste**
+means a person who tends to behave or think in a certain way or an adherent of an ideology or a religion.
 
 **alkol**
 'alcohol'
 → **alkoliste**
 'alcoholic, alcoholist'  
+**ative**
+'active',
+→ **ativiste**
+'activist'  
 **dee**
 'god'
 → **deiste**
@@ -873,7 +908,9 @@ creates abstract nouns that represent a quality or a state.
 
 #### -ium ~ **-um**
 
-The suffix **-ium** means 'chemical element'.
+The suffix
+**-(i)um**
+means 'chemical element'.
 
 **kali**
 'base, alkali'
@@ -888,10 +925,9 @@ The suffix **-ium** means 'chemical element'.
 
 #### -ive ~ -tive
 
-The suffix **-ive** or **-tive** means someone who tends to do what the base word says.
-There are two forms of this suffix.
-The form **-ive** is used when the base word ends in a consonant or an *-e*.
-
+The suffix
+**-(t)ive**
+means someone who tends to do what the base word says.
 **ate**
 'act, perform'
 → **ative**
@@ -899,10 +935,7 @@ The form **-ive** is used when the base word ends in a consonant or an *-e*.
 **exploze**
 'explode'
 → **explozive**
-'explosive'
-
-The form **-tive** is used when the base word ends in a vowel other than *-e*.
-
+'explosive'  
 **dika**
 'point at, indicate'
 → **dikative**
@@ -910,20 +943,24 @@ The form **-tive** is used when the base word ends in a vowel other than *-e*.
 
 #### -ize ~ -tize
 
-The suffix **-ize** means to furnish or equip with the thing indicated by the base word.
+The suffix
+**-(t)iza**
+means 'to furnish or equip with something'.
 
 **aure**
 'gold'
-→ **aurize**
+→ **auriza**
 'to gild, to coat with gold'  
 **makin**
 'machine'
-→ **makinize**
+→ **makiniza**
 'to mechanize, to equip with machinery'
 
 #### -krate ~ okrate
 
-The suffix **(o)krate** means 'rule, govern'.
+The suffix
+**(o)krate**
+means 'to rule, govern'.
 
 **deme**
 'people, public'
@@ -938,14 +975,31 @@ The suffix **(o)krate** means 'rule, govern'.
 → **mediakratia**
 'mediacracy, rule by the media'
 
+#### -los
+
+The suffix
+**-los**
+means 'lacking'.
+
+**helpe**
+'help'
+→ **helpelos**
+'helpless'  
+**peni**
+'penny'
+→ **penilos**
+'penniless'
+
 #### -metre ~ ometre
 
-The suffix **(o)metre** means 'measurement'.
+The suffix
+**(o)metre**
+means 'measurement'.
 
 **terme**
 'temperature'
-→ **termometria**
-'temperature measurement, thermometry'  
+→ **termometrer**
+'temperature measurer, thermometer'  
 **sim-**
 'same'
 → **simmetria**
@@ -953,7 +1007,9 @@ The suffix **(o)metre** means 'measurement'.
 
 #### -nome ~ onome
 
-The suffix **(o)nome** means 'arrangement, management'.
+The suffix
+**(o)nome**
+means 'arrangement, management'.
 
 **astre**
 'celestial body'

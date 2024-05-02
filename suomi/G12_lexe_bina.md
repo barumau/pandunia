@@ -351,9 +351,9 @@ Tämä etuliite esiintyy kahdessa muodossa.
 Muotoa **sim-** käytetään, kun sitä seuraava sana alkaa kirjaimella *b*, *p* tai *m*,
 ja muotoa **sin-** käytetään muissa tapauksissa.
 
-**kronike**
+**kronik**
 'aikainen, ajallinen'
-→ **sinkronike**
+→ **sinkronik**
 'samanaikainen, yhtäaikainen, synkroninen'  
 **metria**
 'mittaus'
@@ -473,7 +473,9 @@ Jälkiliite **-an** merkitsee 'johonkin kuuluvaa, jäsentä, asukasta'.
 
 #### -bil
 
-Jälkiliite *-bil* merkitsee 'mahdollinen, kelpoinen, tehtävissä oleva'.
+Jälkiliite
+**-bil**
+merkitsee 'mahdollista, kelpoista, tehtävissä olevaa'.
 
 **vize**
 'nähdä'
@@ -508,9 +510,26 @@ Esimerkiksi TALO-lekseemi ilmenee monina taivutettuina sanoina, kuten *talon*, *
 → **miteme**
 'myteemi, arkkityyppinen taru, taruston perusyksikkö'
 
+#### -ente ~ -nte
+
+Jälkiliite
+**-(e)nte**
+tarkoittaa 'tekevää'.
+
+**es**
+'olla'
+→ **esente**
+'oleva'  
+**loga**
+'puhua'
+→ **logante**
+'puhuva, puhuja'
+
 #### -er ~ -ter
 
-Jälkiliite **-er** tarkoittaa 'tekijää'.
+Jälkiliite
+**-(t)er**
+tarkoittaa 'tekijää'.
 
 **helpe**
 'auttaa'
@@ -539,8 +558,10 @@ Jälkiliite **-er** tarkoittaa 'tekijää'.
 
 #### -eria ~ -teria ~ ria
 
-**-eria**
-'työpaikka' :  
+Tämä jälkiliite on kahden muun yhdistelmä:
+**-(t)er** + **-ia**.
+Se merkitsee työpaikkaa, pajaa, kauppaa tai laajassa merkityksessä alaa.
+
 **baker**
 'leipuri'
 → **bakeria**
@@ -548,11 +569,25 @@ Jälkiliite **-er** tarkoittaa 'tekijää'.
 **perfume**
 'hajuvesi, parfyymi'
 → **perfumeria**
-'hajuvesikauppa, parfymeria'
+'hajuvesikauppa, parfymeria'  
+**enjener**
+'insinööri'
+→ **enjeneria**
+'insinööritoimisto tai insinööriala'
+
+Joissakin harvoissa tapauksissa tämä jälkiliite typistyy muotoon
+**-ria**.
+
+**piza**
+'pitsa'
+→ **pizaria**
+'pitseria, pitsaravintola'
 
 #### -et ~ -let
 
-Jälkiliite **-ete** tai **-lete** lisää kantasanaan pienuuden vivahteen.
+Jälkiliite
+**-(l)et**
+lisää kantasanaan pienuuden vivahteen.
 
 **pake**
 'pakkaus'
@@ -567,12 +602,44 @@ Jälkiliite **-ete** tai **-lete** lisää kantasanaan pienuuden vivahteen.
 → **sigaret**
 'savuke'
 
+#### -file ~ ofile
+
+Liite
+**-(o)file**
+merkitsee 'jonkin asian tavallisesta poikkeavaa tykkäämistä'.
+
+**Rus**
+'Venäjä'
+→ **rusofilia**
+'russofilia, suuri kiinnostus Venäjää ja venäläisyyttä kohtaan'
+
+#### -fobe ~ ofobe
+
+Liite
+**-(o)file**
+merkitsee 'tavallisesta poikkeavaa inhoa tai kammoa jotakin kohtaan'.
+
+**Rus**
+'Venäjä'
+→ **rusofobia**
+'russofobia, venäläiskammo'
+
 #### -ia
 
-Jälkiliitteelä **-ia** on useita toisiinsa liittyviä merkityksiä.
-Sen perusmerkitys on 'kunta, ala, alue'.
-Se voi olla konkreettinen, kuten maa-ala, tai abstrakti, kuten oppiala.
+Jälkiliitteelä
+**-ia**
+on useita toisiinsa liittyviä merkityksiä.
+Sen perusmerkitys on 'ihmisistä tai asioista koostuva yhteisö'.
+Johdos voi olla merkitykseltään konkreettinen, kuten maa-ala, tai abstrakti, kuten oppiala.
 
+**nese**
+'saari'
+→ **nesia**
+'saaristo'  
+**lexe**
+'sana'
+→ **lexia**
+'sanasto'  
 **homan**
 'ihminen'
 → **homania**
@@ -606,7 +673,9 @@ Se ei esiinny kuitenkaan kaikkien maiden nimissä.
 **Indonesia**
 'Indonesia'
 
-Jälkiliite **-ia** esiintyy oppi- ja tieteenalojen nimissä.
+Jälkiliite
+**-ia**
+esiintyy useimmissa oppi- ja tieteenalojen nimissä.
 
 **kime**
 'kemikaali'
@@ -616,19 +685,29 @@ Jälkiliite **-ia** esiintyy oppi- ja tieteenalojen nimissä.
 'maailmankatsomus, elämänfilosofia'
 → **filsofia**
 'filosofia (tieteenä)'  
-**loge**
+**loje**
 'tutkia ja järkeillä'
-→ **logia**
+→ **lojia**
 'tutkiminen, logiikka'  
-**biologia**
+**biolojia**
 'biologia, elämän tutkiminen'  
-**geologia**
+**geolojia**
 'geologia, maaperän tutkiminen'
 
 #### -ife ~ -tife
 
-**-ife**
-'tehdä joksikin' :  
+Jälkiliite
+**-(t)ife**
+merkitsee 'joksikin tekemistä tai tulemista'.
+
+**komple**
+'monimutkainen, kompleksi'
+→ **komplife**
+'monimutkaistaa'  
+**long**
+'pitkä'
+→ **longife**
+'pidentää'  
 **petre**
 'kivi'
 → **petrife**
@@ -644,23 +723,41 @@ Jälkiliite **-ia** esiintyy oppi- ja tieteenalojen nimissä.
 
 #### -ik ~ -tik
 
-**-ike**
-'ominainen, -nen' :  
+Liite
+**-(t)ik**
+meerkitsee 'jonkin tapaista tai luonteista'.
+
 **baze**
 'perusta'
 → **bazik**
-'perus-'  
+'perustavanlaatuinen, perus-'  
 **fize**
-'fysiikka'
+'fyysinen kappale'
 → **fizik**
 'fyysinen'  
-**muze**
-'muusa'
-→ **muzik**
-'muusinen, musiikki'  
+**un**
+'yksi'
+→ **unik**
+'yksinomainen, ainoa'  
+**makin**
+'kone'
+→ **makinik**
+'konemainen, mekaaninen'  
+**tema**
+'aihe, teema'
+→ **tematik**
+'aiheinen, temaattinen'
 
+#### -ime
+
+Liite
 **-ime**
-'enin, superlatiivinen' :  
+merkitsee 'kantasanan ilmaisemassa sijassa tai asemassa olevaa'.
+
+**un**
+'yksi'
+→ **unime**
+'ensimmäinen'  
 **pre**
 'edessä'
 → **prime**
@@ -672,78 +769,111 @@ Jälkiliite **-ia** esiintyy oppi- ja tieteenalojen nimissä.
 
 #### -ion ~ -tion
 
-**-ion**
-'toiminta tai prosessi' :  
+Liite
+**-(t)ion**
+merkitsee 'toimintaa tai prosessia'.
+
 **ate**
 'toimi, toimenpide'
 → **ation**
 'toiminta'  
+**dite**
+'sanoa'
+→ **dition**
+'sanominen, sanonta'  
 **konsume**
 'kuluttaa'
 → **konsumion**
-'kulutus, kuluttaminen'
-
-#### -iste ~ -tiste
-
-**-iste**
-'ajattelu- tai elämäntavan edustaja' :  
-**alkohol**
-'alkoholi'
-→ **alkoholiste**
-'alkoholisti, juoppo'  
-**komun**
-'yhteinen'
-→ **komuniste**
-'kommunisti, yhteisomistuksen kannattaja'  
-**pacife**
-'rauhoittaa'
-→ **pacifiste**
-'pasifisti, rauhankannattaja'  
-**tabake**
-'tupakka'
-→ **tabakiste**
-'tupakoitsija'
+'kulutus, kuluttaminen'  
+**rota**
+'ratas; pyöriä kuin ratas'
+→ **rotation**
+'rattaan kaltainen pyöriminen, rotaatio'
 
 #### -isme ~ -tisme
 
-**-isme**
-'ajattelu- tai elämäntapa, -ismi' :  
+Liite
+**-(t)isme**
+merkitsee 'ajattelu- tai elämäntapaa'.
+
 **alkohol**
 'alkoholi'
 → **alkoholisme**
 'alkoholismi, juoppous'  
-**komun**
-'yhteinen'
-→ **komunisme**
-'kommunismi, yhteisomistuksen aate'  
-**pacife**
-'rauhoittaa'
-→ **pacifisme**
-'pasifismi, rauhankannatus'  
+**ative**
+'aktiivinen, toimelias'
+→ **ativisme**
+'aktiivisuus, toimeliaisuus'  
+**dee**
+'jumala'
+→ **deisme**
+'jumalusko, teismi'  
 **tabake**
 'tupakka'
 → **tabakisme**
 'tupakointi elämäntapana'
 
-**-ite**
-'laatu, -us' :  
-**juste**
-'oikeudenmukainen, reilu'
-→ **justite**
-'oikeudenmukaisuus, reiluus'  
-**sane**
-'terve'
-→ **sanite**
-'terveys'  
+#### -iste ~ -tiste
+
+Liite
+**-(t)iste**
+merkitseee 'ajattelu- tai elämäntavan edustajaa'.
+
+**alkohol**
+'alkoholi'
+→ **alkoholiste**
+'alkoholisti, juoppo'  
+**ative**
+'aktiivinen toimelias',
+→ **ativiste**
+'aktivisti'  
+**dee**
+'jumala'
+→ **deiste**
+'jumaluskoinen, teisti'  
+**tabake**
+'tupakka'
+→ **tabakiste**
+'tupakoitsija'
+
+#### -ita ~ -ta
+
+Liite
+**-(i)ta**
+merkitsee 'laatua, olemusta'.
+
+**nove**
+'uusi'
+→ **novita**
+'uutuus'  
 **un**
 'yksi'
-→ **unite**
+→ **unita**
 'ykseys'
+
+#### -ium ~ **-um**
+
+Liite
+**-(i)um**
+merkitsee 'alkuainetta'.
+
+**kali**
+'emäs, alkali'
+→ **kalium**
+'kalium'  
+**Kuri**
+→ **kurium**
+'kurium, Marie Curien mukaan nimetty alkuaine'  
+**Einstein**
+→ **einsteinium**
+'einsteinium, Albert Einsteinin mukaan nimetty alkuaine'
 
 #### -ive ~ -tive
 
-**-ive**
-'taipuvainen' :  
+Liite
+**-(t)ive**
+tarkoittaa 'henkilöä, joka on taipuvainen toimimaan mainitulla tavalla.
+
 **ate**
 'toimia'
 → **ative**
@@ -752,18 +882,51 @@ Jälkiliite **-ia** esiintyy oppi- ja tieteenalojen nimissä.
 'räjähtää'
 → **explozive**
 'räjähtävä'
+**dika**
+'osoittaa, indikoida'
+→ **dikative**
+'osoittava, indikatiivinen'
 
 #### -ize ~ -tize
 
-**-ize**
-'varustaa' :  
+Liite
+**-(t)iza**
+merkitsee 'jollakin varustamista'.
+
 **aure**
 'kulta'
-→ **aurize**
-'kullata'
+→ **auriza**
+'kullata'  
+**makin**
+'kone'
+→ **makiniza**
+'koneellistaa'
 
+#### -krate ~ okrate
+
+Liite
+**(o)krate**
+merkitsee 'valtaa, hallitsemista'.
+
+**deme**
+'kansa'
+→ **demokratia**
+'demokratia, kansanvalta'  
+**tekne**
+'tekniikka'
+→ **teknokratia**
+'teknokratia, teknologian valta'  
+**media**
+'media, joukkotiedotusvälineet'
+→ **mediakratia**
+'mediakratia, median valta'
+
+#### -los
+
+Liite
 **-los**
-'puuttuva, -ton' :  
+merkitsee 'puuttuvaa'.
+
 **helpe**
 'apu'
 → **helpelos**
@@ -773,28 +936,68 @@ Jälkiliite **-ia** esiintyy oppi- ja tieteenalojen nimissä.
 → **penilos**
 'pennitön'
 
-**-os**
-'jotakin omaava tai sisältävä' :  
-**pore**
-'huokonen'
-→ **poros**
-'huokoinen, huokosia sisältävä'
+#### -metre ~ ometre
 
-#### -ure ~ -ture
+Liite
+**(o)metre**
+merkitsee 'mittausta'.
 
-**-ure**
-'tekemisen tulos, tuote tai jaloste' :  
-**korekte**
-'korjata'
-→ **korekture**
-'korjaus'  
+**terme**
+'lämpötila'
+→ **termometrer**
+'lämpömittari'  
+**sim-**
+'sama'
+→ **simmetria**
+'samanmittaisuus, tasasuhteisuus, symmetria'
+
+#### -nome ~ onome
+
+Liite
+**(o)nome**
+merkitsee 'säännönmukaistamista, järjestämistä'.
+
+**astre**
+'taivaankappale'
+→ **astronomia**
+'tähtitiede, astronomia'  
+**agre**
+'maanviljely'
+→ **agronomia**
+maanviljelyoppi, agronomia
+
+#### -ul ~ -kul
+
+Liite
+**-(k)ul**
+merkitsee 'jonkin tiivistymää tai pelkistymää'.
+
+**kume**
+'mäki'
+→ **kumul**
+'kukkula'  
+**bande**
+'joukko, rypäs'
+→ **bandul**
+'nippu'  
+**mira**
+'ihmetellä'
+→ **mirakul**
+'ihme'
+
+#### -ur ~ -tur
+
+Liite
+**-(t)ur**
+merkitsee 'tekemisen tulosta, tuotetta tai jalostetta'.
+
 **kulte**
 'hengenviljely, elämäntavan viljely'
-→ **kulture**
+→ **kultur**
 'kulttuuri'  
 **mixe**
 'sekoittaa'
-→ **mixure**
+→ **mixur**
 'sekoitus, mikstuura'
 
 
