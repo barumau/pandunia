@@ -32,19 +32,19 @@ Les pronoms possessifs sont construit avec le particle
 
 Le pronom réfléchi s'utilise quand l'objet de la phrase est le même que le sujet.
 
-**selfe**
+**sef**
 – se, moi-même, toi-même, etc.
 
 Remarque ! Le pronom réfléchi
-**selfe**
+**sef**
 s'utilise pour toutes les personnes, donc il correspond en français à tous ces pronons à la fois :
 _me_ ou _moi-même_, _te_ ou _toi-même_, _se_, _lui-même_, _elle(s)-même_ ou _eux-mêmes, _nous(-mêmes)_, _vous(-mêmes).
 
-**mi vize selfe.**
+**mi vize sef.**
 – Je me vois.  
-**da vize selfe.**
+**da vize sef.**
 – Elle se voit. / Il se voit.  
-**vi vize selfe.**
+**vi vize sef.**
 – Nous nous voyons.
 
 

@@ -33,11 +33,11 @@ Los pronombres posesivos consisten en el pronombre personal y la partícula pose
 
 El pronombre reflexivo se usa cuando el objeto de una oración es la misma como el sujeto.
 
-**selfe**
+**sef**
 – su mismo  
-**mi vize selfe.**
+**mi vize sef.**
 – Me miro.  
-**vi vize selfe.**
+**vi vize sef.**
 – Nos miramos.
 
 La expresión **semon** se usa cuando dos o más personas performan la acción el uno al otro.

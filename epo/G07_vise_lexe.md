@@ -28,19 +28,19 @@ La posedaj pronomoj estas formata per aldo de partiklo
 
 ## Refleksiva pronomo
 
-**selfe**
+**sef**
 – si (mem)
 
 Rimarko: La refleksiva pronomo
-**selfe**
+**sef**
 povas uziĝi por ĉiuj personoj.
 Do ĝi rilatas al ĉiuj tiaj uzadoj en Esperanto, kiel: _mi(n) mem_, _vi(n) mem_, _ni(n) mem_ kaj _si(n)_.
 
-**mi vize selfe.**
+**mi vize sef.**
 – Mi vidas min.  
-**da vize selfe.**
+**da vize sef.**
 – Ŝi vidas sin.  
-**vi vize selfe.**
+**vi vize sef.**
 – Ni vidas nin.
 
 Oni uzas

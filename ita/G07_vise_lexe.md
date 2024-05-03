@@ -52,17 +52,17 @@ I pronomi possessivi sono formati dal pronome personale e dalla particella posse
 
 Il pronome riflessivo si usa quando il complemento oggetto di una frase coincide con il soggetto.
 
-**selfe**
+**sef**
 – stesso, medesimo
 
 Nota! Il pronome riflessivo è unico per tutte le persone,
-**selfe**
+**sef**
 
-**mi vize selfe.**
+**mi vize sef.**
 – Io mi vedo.  
-**da vize selfe.**
+**da vize sef.**
 – Lei si vede. / Lui si vede. 
-**vi vize selfe.**
+**vi vize sef.**
 – Noi ci vediamo (vediamo noi stessi).
 
 L'espressione

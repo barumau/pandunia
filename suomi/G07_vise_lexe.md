@@ -31,23 +31,23 @@ Persoonapronominit korvaavat kokonaisia lausekkeita.
 
 ## Refleksiivipronomini
 
-**selfe**
+**sef**
 = itse
 
 Refleksiivipronominia
-**selfe**
+**sef**
 käytetään sellaisenaan kaikissa persoonissa.
 
-**mi vize selfe.**
+**mi vize sef.**
 – Minä näen itseni.  
-**da vize selfe.**
+**da vize sef.**
 – Hän näkee itsensä.  
-**vi vize selfe.**
+**vi vize sef.**
 – Me näemme itsemme.
 
-Sen omistusmuoto on **selfe se**.
+Sen omistusmuoto on **sef se**.
 
-**da vize selfe se muka a mirer.**
+**da vize sef se muka a mirer.**
 – Hän näkee kasvonsa peilissä.
 
 Sana

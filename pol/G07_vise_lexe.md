@@ -16,14 +16,14 @@ Zaimki mogą zastępować słowa-rzeczy i wyrażenia-rzeczy.
   
  
 
-**selfe**
+**sef**
 – się, siebie
 
-**mi vize selfe.**
+**mi vize sef.**
 – Widzę się.  
-**da vize selfe.**
+**da vize sef.**
 – Widzi się.  
-**vi vize selfe.**
+**vi vize sef.**
 – Widzimy się.
 
 

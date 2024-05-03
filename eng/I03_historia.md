@@ -1,49 +1,9 @@
 # History of Pandunia
 
-## The seed
-
-Once upon a time there was a little boy called Risto.
-He grew up in a small village called Luohua, far from the hustle and bustle of the world.
-The small world around him spoke the same way and thought the same way.
-
-He met people from other parts of the world only when he was fourteen years old
-after a reception centre for refugees had been opened nearby.
-Life with the newcomers wasn't always easy
-because the locals and the refugees practiced different cultures and spoke different languages.
-
-The boy grew up to be a young man, and he moved to the city.
-He was surrounded by more and more people from different cultures.
-He studied in a crosscultural, English speaking study program,
-but he became disillusioned with the English language.
-It worked relatively well when it was written,
-but in spoken communication it was a source of confusion and misuderstandings.
-
-In his youth globalization was the word of the day.
-He worked in the biggest and the most international company in his country.
-In his free time he studied languages from all over the world
-and he started also making his own languages.
-He got married with a woman from Shanghai.
-Their marriage ended after ten years and two children,
-but his love for foreign cultures and languages remained.
-He continued his life alone with his children for several years
-before he found the love of his life.
-
-All this time languages were only a hobby for him, nothing more.
-Once he travelled to India in business and there he met an old, wise poet.
-"I would kill myself if I had to live like you," said the old poet.
-After the business trip the man spent many days at work staring at the wall.
-He realized that the way he had been going was a dead end.
-
-The man left his job and started to study linguistics in a university.
-At the same time he decided to finish his language, Pandunia,
-and let it go out into the world.
-Maybe it would find a home also in the hearts of other people.
-
-
 ## The ecosystem
 
 Pandunia was formed in an inspiring environment.
-Risto, the initiator of Pandunia, worked and played together with other people
+Risto, the initiator of Pandunia, worked and exchanged ideas with other people
 who are interested in languages.
 He participated in forums like
 the [AUXLANG](https://listserv.brown.edu/cgi-bin/wa?A0=AUXLANG) mailing list

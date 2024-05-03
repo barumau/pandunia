@@ -69,19 +69,19 @@ The possessive pronouns consists of the personal pronoun and the possessive part
 
 The reflexive pronoun is used when the object of a sentence is the same as the subject.
 
-**selfe**
+**sef**
 – self
 
 Note! The same reflexive pronoun
-**selfe**
+**sef**
 is used for all persons,
 so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, _ourselves_ and _themselves_ all at once.
 
-**mi vize selfe.**
+**mi vize sef.**
 – I see myself.  
-**da vize selfe.**
+**da vize sef.**
 – She sees herself. / He sees himself. / It sees itself.  
-**vi vize selfe.**
+**vi vize sef.**
 – We see ourselves.
 
 The expression
