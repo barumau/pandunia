@@ -294,13 +294,13 @@ chief, boss
 **halo! plis side.**
 = Hello! Please sit!  
 <big>☻</big>
-**tanke.**
+**danke.**
 = Thank you.  
 <big>☺</big>
 **plis yam kafe o cha.**
 = Please have some coffee or tea.  
 <big>☻</big>
-**ama mi un li yam cha! tanke.**
+**ama mi un li yam cha! danke.**
 = But I only drink tea! Thank you.  
 ...  
 <big>☻</big>
@@ -446,7 +446,7 @@ to ask; please
 to clean  
 **side**
 to sit  
-**tanke**
+**danke**
 thanks  
 **un li**
 only  
@@ -504,7 +504,7 @@ to eat or drink
 **no yam.**
 = No.  
 <big>☺</big>
-**tanke. mi don un cha e un kafe e un supe pos ten minute.**
+**danke. mi don un cha e un kafe e un supe pos ten minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 

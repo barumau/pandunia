@@ -239,13 +239,13 @@ ojciec, tata
 **sal! plis side.**
 = Cześć! Proszę, usiądź!  
 <big>☻</big>
-**tanke.**
+**danke.**
 = Dziękuję.  
 <big>☺</big>
 **plis yam kafe o cha.**
 = Proszę, napij się kawy lub herbaty.  
 <big>☻</big>
-**mi yam cha. tanke.**
+**mi yam cha. danke.**
 = Napiję się herbaty, dziękuję.  
 ...  
 <big>☺</big>
@@ -347,7 +347,7 @@ herbata
 poprosić, prosić  
 **don**  
 dać, dawać  
-**tanke**
+**danke**
 dzięki, dziękuję  
 **i** i  
 **kafe**
@@ -413,7 +413,7 @@ jeść lub pić
 **no yam.**
 – Nie.  
 <big>☺</big>
-**tanke. mi don un cha i un kafe i un supe pos des minute.**
+**danke. mi don un cha i un kafe i un supe pos des minute.**
 – Dziękuję. Przyniosę jedną herbatę, jedną kawę i jedną zupę za dziesięć minut.
 
 

@@ -79,24 +79,24 @@ suaíli *salaam*,
 indonésio *selamat*.</small>
 
 
-### tanke <small>obrigado</small>
+### danke <small>obrigado</small>
 
-**tanke!**
+**danke!**
 – Obrigada!
 
-**tanke tu.**
+**danke tu.**
 – Obrigado a você.
 
-**mi tanke tu.**
+**mi danke tu.**
 – Te agradeço.
 
-**mi tanke tu helpe mi.**
+**mi danke tu helpe mi.**
 – Agradeço por me ajudar.
 
-**tanke tu helpe mi.**
+**danke tu helpe mi.**
 – Obrigado por ajudar.
 
-**no yau tanke.**
+**no yau danke.**
 – De nada.
 
 

@@ -278,13 +278,13 @@ pomo, päällikkö
 **halo! plis side.**
 = Hei! Istu, ole hyvä!  
 <big>☻</big>
-**tanke.**
+**danke.**
 = Kiitos.  
 <big>☺</big>
 **plis yam kafe o cha.**
 = Joisitko kahvia tai teetä?  
 <big>☻</big>
-**ama mi un li yam cha! tanke.**
+**ama mi un li yam cha! danke.**
 = Mutta minähän juon vain teetä! Kiitos.  
 ...  
 <big>☻</big>
@@ -423,7 +423,7 @@ pyytää; ole hyvä
 siisti; siistiä, siivota  
 **side**
 istua  
-**tanke**
+**danke**
 kiitos  
 **un li**
 vain, ainoastaan  
@@ -481,7 +481,7 @@ syödä tai juoda
 **no yam.**
 = Ei.  
 <big>☺</big>
-**tanke. mi don un cha e un kafe e un supe pos ten minute.**
+**danke. mi don un cha e un kafe e un supe pos ten minute.**
 = Kiitos. Minä tuon yhden teen, yhden kahvin ja yhden keiton kymmenen minuutin päästä.
 
 

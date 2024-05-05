@@ -96,35 +96,35 @@ Swahili *salaam*,
 Indonesian *selamat*.</small>
 
 
-### tanke <small>thanks</small>
+### danke <small>thanks</small>
 
 <p style="font-size:5em;">🙏</p>
 
-**tanke!**
+**danke!**
 – Thanks!
 
-**meni tanke!**
+**meni danke!**
 – Thanks a lot!
 
-**ya, tanke.**
+**ya, danke.**
 – Yes, thank you.
 
-**no, tanke.**
+**no, danke.**
 – No, thank you.
 
-**tanke tu.**
+**danke tu.**
 – Thank you.
 
-**mi tanke tu.**
+**mi danke tu.**
 – I thank you.
 
-**mi tanke tu helpe mi.**
+**mi danke tu helpe mi.**
 – I thank you for helping me.
 
-**tanke tu helpe mi.**
+**danke tu helpe mi.**
 – Thanks for helping me.
 
-**no yau tanke.**
+**no yau danke.**
 – You're welcome. (Literally: _No need to thank._)
 
 

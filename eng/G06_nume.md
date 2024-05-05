@@ -207,22 +207,22 @@ It uses the pattern
 
 Days of the week are named after celestial bodies according to the historical international system
 and they include the word
-**dei**
+**den**
 ('day, 24 hours').
 
-1. **lunadei**
+1. **lunaden**
    – Monday
-2. **marisdei**
+2. **marisden**
    – Tuesday
-3. **merkurdei**
+3. **merkurden**
    – Wednesday
-4. **mushindei**
+4. **mushinden**
    – Thursday
-5. **zukradei**
+5. **zukraden**
    – Friday
-6. **shanidei**
+6. **shaniden**
    – Saturday
-7. **soldei**
+7. **solden**
    – Sunday
 
 #### Months
@@ -264,15 +264,15 @@ The day, month and year ordered from the longest period of time to the shortest,
 or vice versa i.e. year first and day last.
 Month is always in the middle.
 
-**nen 2022 mes 9 dei 17**
+**nen 2022 mes 9 den 17**
 ~
-**dei 17 mes 9 nen 2002**
+**den 17 mes 9 nen 2002**
 
 There are also two short formats without the year.
 
-**mes 9 dei 17**
+**mes 9 den 17**
 ~
-**dei 17 mes 9**
+**den 17 mes 9**
 
 
 ## Time
@@ -332,10 +332,10 @@ The 12 hour clock splits the day into two 12 hour sections.
 One lasts from midnight to noon and the second half lasts from noon to midnight.
 Hours before noon are called *AM* (pronounced *ah-em*),
 which comes from the phrase
-**ante mide dei**,
+**ante mide den**,
 which means 'before midday'.
 Hours after noon are called *PM* (pronounced *peh-em*), which comes from the phrase
-**pos mide dei**,
+**pos mide den**,
 which means 'after midday'.
 
 Before midday we say:

@@ -103,22 +103,22 @@ Se la kvantovorto estas ordonombro, ĝi aperas post la vorto kiun ĝi modifas.
 #### Tagoj de semajno
 
 Tagoj de semajno estas nomigitaj laŭ astroj de la sola sistemo, kaj ili finiĝas je la vorto
-**dei**
+**den**
 ('tago, 24 horoj').
 
-1. **lunadei**
+1. **lunaden**
    – lundo
-2. **marisdei**
+2. **marisden**
    – mardo
-3. **merkurdei**
+3. **merkurden**
    – merkredo
-4. **mushindei**
+4. **mushinden**
    – jaŭdo
-5. **zukradei**
+5. **zukraden**
    – vendredo
-6. **shanidei**
+6. **shaniden**
    – sabato
-7. **soldei**
+7. **solden**
    – dimanćo
 
 #### Monatoj

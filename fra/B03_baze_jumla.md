@@ -83,36 +83,36 @@ en swahili *salaam*
 et en indonésien *selamat*.</small>
 
 
-### tanke <small>merci</small>
+### danke <small>merci</small>
 
 <p style="font-size:5em;">🙏</p>
 
 
-**tanke!**
+**danke!**
 – Merci!
 
-**meni tanke!**
+**meni danke!**
 – Merci beaucoup !
 
-**ya, tanke.**
+**ya, danke.**
 – Oui, merci.
 
-**no, tanke.**
+**no, danke.**
 – Non, merci.
 
-**tanke tu.**
+**danke tu.**
 – Merci à toi.
 
-**mi tanke tu.**
+**mi danke tu.**
 – Je te / vous remercie.
 
-**mi tanke tu helpe mi.**
+**mi danke tu helpe mi.**
 – Je te remercie de m'avoir aidé.
 
-**tanke tu helpe mi.**
+**danke tu helpe mi.**
 – Merci de m'avoir aidé.
 
-**no yau tanke.**
+**no yau danke.**
 – Je t'en prie. / Il n'y a pas de quoi.
 
 

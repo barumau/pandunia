@@ -80,24 +80,24 @@ suajili *salaam*,
 indonesio *selamat*.</small>
 
 
-### tanke <small>gracias</small>
+### danke <small>gracias</small>
 
-**tanke!**
+**danke!**
 – ¡Gracias!
 
-**tanke tu.**
+**danke tu.**
 – Gracias. (a ti.)
 
-**mi tanke tu.**
+**mi danke tu.**
 – Te agradezco.
 
-**mi tanke tu helpe mi.**
+**mi danke tu helpe mi.**
 – Te agradezco por ayudarme.
 
-**tanke tu helpe mi.**
+**danke tu helpe mi.**
 – Gracias por ayudarme.
 
-**no yau tanke.**
+**no yau danke.**
 – De nada. No hay de qué.
 
 

@@ -78,35 +78,35 @@ hide:
 スワヒリ語：salaam、インドネシア語：selamat</small>
 
 
-### tanke <small>ありがとう</small>
+### danke <small>ありがとう</small>
 
 <p style="font-size:5em;">🙏</p>
 
-**tanke!**
+**danke!**
 ありがとう!
 
-**meni tanke!**
+**meni danke!**
 どうもありがとう!
 
-**ya, tanke.**
+**ya, danke.**
 はい、ありがとうございます。
 
-**no, tanke.**
+**no, danke.**
 いいえ、結構です。
 
-**tanke tu.**
+**danke tu.**
 ありがとうございました。
 
-**mi tanke tu.**
+**mi danke tu.**
 ありがとうございます。
 
-**mi tanke tu mede mi.**
+**mi danke tu mede mi.**
 私を助けてくれてありがとう。
 
-**tanke tu mede mi.**
+**danke tu mede mi.**
 私を助けてくれてありがとう。
 
-**no yau tanke.**
+**no yau danke.**
 どういたしまして。
 
 

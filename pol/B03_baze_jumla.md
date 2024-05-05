@@ -514,21 +514,21 @@ Proszę, pomóż mi.
 
 
 
-### tanke <small>dzięki</small>
+### danke <small>dzięki</small>
 
-**tanke!**
+**danke!**
 Dzięki!
 
-**tanke tu.**
+**danke tu.**
 Dzięki ci.
 
-**mi tanke tu.**
+**mi danke tu.**
 Dziękuję tobie.
 
-**mi tanke tu mede mi.**
+**mi danke tu mede mi.**
 Dziękuję tobie, że pomogłeś mi.
 
-**tanke tu mede mi.**
+**danke tu mede mi.**
 Dzięki tobie, że pomogłeś mi.
 
 **tu kechi.**

@@ -73,35 +73,35 @@ sŭahila *salaam*,
 indonezia *selamat*.</small>
 
 
-### tanke <small>dankon</small>
+### danke <small>dankon</small>
 
 <p style="font-size:5em;">🙏</p>
 
-**tanke!**
+**danke!**
 Dankon!
 
-**meni tanke!**
+**meni danke!**
 Multajn dankojn!
 
-**ya, tanke.**
+**ya, danke.**
 Jes, danke.
 
-**no, tanke.**
+**no, danke.**
 Ne, danke.
 
-**tanke tu.**
+**danke tu.**
 Dankon al vi.
 
-**mi tanke tu.**
+**mi danke tu.**
 Mi dankas vin.
 
-**mi tanke tu helpe mi.**
+**mi danke tu helpe mi.**
 Mi dankas vin pro vi helpis min.
 
-**tanke tu helpe mi.**
+**danke tu helpe mi.**
 Dankon pro vi helpis min.
 
-**no yau tanke.**
+**no yau danke.**
 Ne dankinde.
 
 

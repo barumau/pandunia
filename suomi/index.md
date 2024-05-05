@@ -148,7 +148,7 @@ Pandunian puhujia on useilla keskustelukanavilla internetissä.
 
 | Alusta   | Kanava | Tarkoitus |
 |----------|---------|---------|
-| Discord  | [pandunia deha]((https://discord.gg/CgZ6nUpj) | Monipuolinen keskustelupalvelin! |
+| Discord  | [pandunia deha](https://discord.gg/CgZ6nUpj) | Monipuolinen keskustelupalvelin! |
 | Reddit   | [r/pandunia](https://www.reddit.com/r/pandunia/) | Uutisia ja keskustelua panduniaksi ja englanniksi. |
 | Facebook | [Tekokielet-ryhmä](http://www.facebook.com/groups/tekokielet) | Suomenkielinen ryhmä tekokielistä yleensä. |
 | Facebook | [Pandunia-ryhmä](http://www.facebook.com/groups/pandunia) | Keskustelua eri kielillä. |

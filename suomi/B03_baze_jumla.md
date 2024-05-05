@@ -79,35 +79,35 @@ swahili *salaam*,
 indonesia *selamat*.</small>
 
 
-### tanke <small>kiitos</small>
+### danke <small>kiitos</small>
 
 <p style="font-size:5em;">🙏</p>
 
-**tanke!**
+**danke!**
 – Kiitos!
 
-**meni tanke!**
+**meni danke!**
 – Paljon kiitoksia!
 
-**ya, tanke.**
+**ya, danke.**
 – Kyllä, kiitos.
 
-**no, tanke.**
+**no, danke.**
 – Ei, kiitos.
 
-**tanke tu.**
+**danke tu.**
 – Kiitos sinulle.
 
-**mi tanke tu.**
+**mi danke tu.**
 – Minä kiitän sinua.
 
-**mi tanke tu helpe mi.**
+**mi danke tu helpe mi.**
 – Minä kiitän sinua minun auttamisesta.
 
-**tanke tu mede mi.**
+**danke tu mede mi.**
 – Kiitos kun autoit minua.
 
-**no yau tanke.**
+**no yau danke.**
 – Ole hyvä. (Sanan mukaisesti: _Ei tarvitse kiittää._)
 
 
