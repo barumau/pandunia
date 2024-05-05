@@ -213,7 +213,7 @@ The preposition
 **ex**
 denotes location on the outside, 'out, outside'.
 
-**deme ya proteste ex da burge.**
+**deme ye proteste ex da burge.**
 – People protest outside the castle.
 
 #### in
@@ -222,7 +222,7 @@ The preposition
 **in**
 denotes location on the inside, 'in, inside'.
 
-**zulmer ya sir in da burge.**
+**zulmer ye sir in da burge.**
 – The tyrant hides in the castle.
 
 #### kon

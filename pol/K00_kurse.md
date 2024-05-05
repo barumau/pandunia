@@ -10,22 +10,22 @@ hide:
 ### Dialog
 
 <big>☺</big>
-**tu e ke?**
+**tu es ke?**
 = Kim jesteś?  
 <big>☻</big>
-**mi e Yusef. tu e ke?**
+**mi es Yusef. tu es ke?**
 = Jestem Yusef. Kim jesteś?  
 <big>☺</big>
-**mi e Sara. da e ke?**
+**mi es Sara. da es ke?**
 = Jestem Sara. Kto to?  
 <big>☻</big>
-**da e mi su dosti.**
+**da es mi su dosti.**
 = To mój przyjaciel.  
 <big>☺</big>
-**da su nam e ke?**
+**da su nam es ke?**
 = Jak się nazywa?  
 <big>☻</big>
-**da su nam e Maria.**
+**da su nam es Maria.**
 = Nazywa się Maria.
 
 ### Gramatyka
@@ -34,28 +34,28 @@ Zdania w Panduni normalnie podążają za strukturą temat-komentarz.
 Temat wskazuje,o kim lub o czym jest mowa.
 Komentarz mówi coś o temacie.
 Na przykład, w
-**da e mi su dosti**
+**da es mi su dosti**
 tematem jest zaimek
 **da**
 (on, ona, ono), za którym podąrza komentarz
-**e mi su dosti**
+**es mi su dosti**
 (jest moim przyjacielem).
 
 Słowo
-**e**
+**es**
 znaczy _być_ w Pandunia. To samo słowo jest używane dla wszystkich osób.
 By powiedzieć przeciwnie, po prostu zamień je na
 **no**
 (które jest słowem na _nie_).
 
-**da e Sara.**
+**da es Sara.**
 = Ona jest Sarą.  
-**da no e Sara.**
+**da no es Sara.**
 = Ona nie jest Sarą.
 
-**mau e hevan.**
+**mau es hevan.**
 = Kot jest zwierzęciem.  
-**dom no e hevan.**
+**haus no es hevan.**
 = Dom nie jest zwierzęciem.  
 
 
@@ -83,9 +83,9 @@ on, ona lub ono
 jego lub jej  
 **ke**
 co lub kto  
-**e**
+**es**
 być (jestem, jesteś, jest, itd)  
-**ya**
+**ye**
 tak  
 **no**
 nie  
@@ -106,12 +106,12 @@ zwierzę
 
 ### Odpowiedzi do Ćwiczeń
 
-1. tu e ke?
-2. mi e Tomas.
-3. tu su dosti e ke?
-4. da e Sara.
-5. tu su nam e ke?
-6. mi su nam e ........... 
+1. tu es ke?
+2. mi es Tomas.
+3. tu su dosti es ke?
+4. da es Sara.
+5. tu su nam es ke?
+6. mi su nam es ........... 
 
 
 --------------------------------------------------------------------------------
@@ -349,7 +349,7 @@ poprosić, prosić
 dać, dawać  
 **danke**
 dzięki, dziękuję  
-**i** i  
+**e** i  
 **kafe**
 kawa  
 **kamar**
@@ -372,7 +372,7 @@ jeść lub pić
 2. la shefe plis da side.
 3. plis yam kafe o cha.
 4. mama plis mi safi kamar.
-5. shefe side i yam kafe.
+5. shefe side e yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -404,7 +404,7 @@ jeść lub pić
 **sual tu yam supe?**
 – Czy zje pan zupę?  
 <big>☻</big>
-**ya.**
+**ye.**
 – Tak.  
 <big>☺</big>
 **sual da yam supe?**
@@ -413,7 +413,7 @@ jeść lub pić
 **no yam.**
 – Nie.  
 <big>☺</big>
-**danke. mi don un cha i un kafe i un supe pos des minute.**
+**danke. mi don un cha e un kafe e un supe pos des minute.**
 – Dziękuję. Przyniosę jedną herbatę, jedną kawę i jedną zupę za dziesięć minut.
 
 
@@ -456,11 +456,11 @@ Oczywiście, powszechne rzeczowniki i nazwy własne również mogą być używan
 
 ### Dawanie odpowiedzi
 
-Na pytania tak/nie można odpowiadać słowami **ya** = tak, i **no** = nie.
+Na pytania tak/nie można odpowiadać słowami **ye** = tak, i **no** = nie.
 
 – **sual tu yam supe?**
 – Czy jesz zupę?  
-– **ya.**
+– **ye.**
 – Tak.  
 – **sual da yam supe?**
 – Czy ona je zupę?  
@@ -471,7 +471,7 @@ Można odpowiadać też bardziej złożenie.
 
 – **sual tu yam kafe?**
 – Czy pijesz kawę?  
-– **ya. mi yam kafe.**
+– **ye. mi yam kafe.**
 – Tak, piję kawę.  
 – **sual da yam kafe?**
 – Czy on pije kawę?  
@@ -521,14 +521,14 @@ jeden (1)
 dziesięć  
 **sual**  
 zapytać, pytać  
-**ya**
+**ye**
 tak
 
 
 ### Odpowiedzi do Ćwiczeń
 
 1. sual tu bashe pandunia?
-2. ya. mi bashe pandunia.
+2. ye. mi bashe pandunia.
 3. sual mama yam kafe?
 4. no. da no yam kafe.
 5. sual da yam supe?
@@ -540,7 +540,7 @@ tak
 ## Mówienie nie
 
 W poprzedniej lekcji nauczyłeś się odpowiadać
-**ya**
+**ye**
 i
 **no**
 na pytania. Słowo
@@ -572,13 +572,13 @@ Różne zakresy przeczenia mogą zależeć od lokalizacji słowa negującego.
 
 Negowane słowo może być dowolnego typu: czasownik, zaimek, rzeczownik, przymiotnik, a nawet liczebnik.
 
-**da no ha mau.**
+**da no have mau.**
 – Ona nie ma koty.  
-**da ha no mau, ama vaf.**
+**da have no mau, ama vaf.**
 – Ona ma nie koty, ale psy.  
-**no da, ama mi ha mau.**
+**no da, ama mi have mau.**
 – Nie ona, ale ja mam koty.  
-**mi ha no un, ama du mau.**
+**mi have no un, ama du mau.**
 – Ja nie mam jednego, ale dwa koty.
 
 
@@ -601,7 +601,7 @@ Czasem istnieje więcej niż jedna poprawna odpowiedź
 kubek, szklanka  
 **hali**
 pusty  
-**ha**
+**have**
 mieć  
 **mau**
 kot  
@@ -620,9 +620,9 @@ ale
 1. da no safi kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da no ha vaf i mau. / da ha no vaf i no mau.
+4. da no have vaf e mau. / da have no vaf e no mau.
 5. shefe yam cha ama no kafe.
-6. mama ha no vaf ama du mau.
+6. mama have no vaf ama du mau.
 
 
 --------------------------------------------------------------------------------
@@ -633,7 +633,7 @@ Do zadawania pytań, które zaczynają się w języku polskim zaimkami pytajnymi
 **ke**.
 Pytanie może zostać skonkretyzowane przez użycie słów na osobę, czas, sposób lub rzecz, jeśli trzeba.
 
-**da e ke?**
+**da es ke?**
 – Cot to jest? / Kim on/ona jest?
 **ke jen lai?**
 – Kto przychodzi? (**ren** = osoba)  
@@ -656,14 +656,14 @@ jest tak naprawdę bierny czasownik znaczący _być spowodowanym przez_.
 
 **ke sabu tu suka mau?**
 – Dlaczego lubisz koty?  
-**de sabu damen e kavai.**
+**de sabu damen es kavai.**
 – Ponieważ są słodkie.
 
 Oczywiście
 **de sabu**
 może być też yżywane do wyrażania przyczyny lub powodu czegoś, nawet nie odpowiadając na pytanie.
 
-**mi suka mau de sabu damen e kavai.**
+**mi suka mau de sabu damen es kavai.**
 – Lubię koty, bo są słodkie.
 
 ### Ćwiczenia
@@ -700,7 +700,7 @@ czas
 3. ke zaman da lai?
 4. pos des minute.
 5. ke sabu da no yam?
-6. de sabu da no suka kafe i supe.
+6. de sabu da no suka kafe e supe.
 
 
 --------------------------------------------------------------------------------
@@ -721,42 +721,30 @@ Na przykład, gdy ludzie rozmawiają o śniadaniu tego dnia, zdanie mówi o czas
 
 Istnieją też konkretne słowa opisujące czas.
 
-**le**
+**did**
 - już, przed określonym czasem  
-**zai**
+**nau**
 - teraz, w tym momencie  
-**sha**
+**vil**
 - w przyszłości
 
 
 
 Przymiotniki dla przeszłości, teraźniejszości i przyszłości to, odpowiednio,
-**pas, zai**
+**did, nau**
 i
-**sha**.
+**vil**.
 Mogą być używane do modyfikowania rzeczowników.
-
-**Sara e mi su pas shefe.**
-– Sara jest moim byłym szefem.  
-**Yusef e mi su zai shefe.**
-– Yusef jest moim obecnym szefem.  
-**Maria e mi su sha shefe.**
-– Maria jest moim przyszłym szefem.
 
 Te same słowa są używane, gdy mowa o czynnościach i wydarzeniach w czasie. Po prostu umieszcza się je po czasowniku.
 
-**mi pas darba da.**
+**mi did bate da.**
 – Uderzyłem to (w przeszłości).  
-**mi zai darba da.**
+**mi nau bate da.**
 – Uderzam to (teraz).  
-**mi sha darba da.**
+**mi vil bate da.**
 – Uderzę to (w przeszłości).
 
-Alternatywnie, określenie czasu może zostac umieszczone jako ostatnie w zdaniu.
-
-**mi darba da a pas.**  
-**mi darba da a zai.**  
-**mi darba da a sha.**
 
 
 Nie trzeba powtarzać oreśleń czasu cały czas.
@@ -765,11 +753,11 @@ Wystarczy określić to na początku wypowiedzi.
 Inne określenie czasu nie będzie potrzebne, doopóki nie zmieni się czas
 albo nie będzię przydatne zaakcentowanie, że mowa wciąż w tym samym czasie.
 
-**mi pas ha un mau.**
+**mi did have un mau.**
 – Miałem jednego kota w przeszłości.  
-**da e hau mau.**
+**da es hau mau.**
 – To był dobry kot.  
-**mi ha un vaf a zai.**
+**mi have un vaf a nau.**
 – Mam teraz jedneg psa.
 
 Jakiekolwiek określenie czasu jest dobre.
@@ -795,13 +783,13 @@ Poprawne odpowiedzi są na dole strony.
 
 ### Lista słów
 
-**pas**
+**did**
 przeszły, były  
-**zai**
+**nau**
 teraźniejszy, obecny  
-**sha**
+**vil**
 przyszły  
-**darba**
+**bate**
 uderzyć, bić  
 **ban**
 chleb  
@@ -812,9 +800,9 @@ poranny posiłek, śniadanie
 
 ### Odpowiedzi do Ćwiczeń
 
-1. mi su shefe feste a sha.
-2. mi ha du vaf a pas.
-3. tu yam supe a zai.
+1. mi su shefe feste a vil.
+2. mi have du vaf a did.
+3. tu yam supe a nau.
 4. da safe kamar a preden.
 5. mau yam milke a posden.
 6. tu su ma festa a prenoce.

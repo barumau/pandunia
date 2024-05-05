@@ -68,13 +68,13 @@ Esimerkki 1. Rakenteeltaan epätarkka lause.
     
 Esimerkki 2. Rakenteeltaan tarkka lause myöntösanan ansiosta.
 
-    mau   ya    yam   fish.
+    mau   ye    yam   fish.
     kissa kyllä syödä kala
     'Kissa syö kalaa.'
 
 Esimerkki 3. Rakenteeltaan tarkka lause kieltosanan ansiosta.
 
-    mau   ya  yam   fish.
+    mau   no  yam   fish.
     kissa ei  syödä kala
     'Kissa ei syö kalaa.'
 
@@ -119,12 +119,12 @@ Monet sanat voivat toimia niin substantiivina, adjektiivina kuin verbinä.
 
 Pandunian ovat monikäyttöisiä, ja sen vuoksi ne voivat joskus vaikuttaa epäselviltä suomen sanoihin verrattuna.
 
-**da ya love mau.**
+**da ye love mau.**
 – Hän rakastaa kissaa. / Hän rakasti kissoja. / Hän tulee rakastamaan kissoja.
 
 Virkkeen asiayhteys selkeyttää sen merkityksen:
 
-**pre tri nen, mi have du mau e un vaf. mi have plus un fem ben. da ya love mau!**
+**pre tri nen, mi have du mau e un vaf. mi have plus un fem ben. da ye love mau!**
 – Kolme vuotta sitten minulla oli kaksi kissaa ja koira. Minulla oli myös tytär. Hän rakasti niitä kissoja!
 
 ### Aika
@@ -217,7 +217,7 @@ Hakukysymys muodostetaan kirjoittamalla tavallinen lause, josta korvataan kysytt
 – Sinä rakastat ketä?  
 **tu love kua man?**
 – Sinä rakastat mitä miestä?  
-**kua man ya love tu?**
+**kua man ye love tu?**
 – Mikä mies rakastaa sinua?  
 **tu love da kua li muche?**
 – Sinä rakastat häntä miten paljon?

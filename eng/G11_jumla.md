@@ -88,7 +88,7 @@ Determiners, like
 'some',
 help to indicate where noun phrases begin.
 
-**da lil baku meme *ya* van shuru yam *da* hau seng chau.**
+**da lil baku meme *ye* van shuru yam *da* hau seng chau.**
 – The little white sheep want to start to eat that good fresh grass.
 
 
@@ -714,14 +714,14 @@ The easiest way to form a yes-no question in Pandunia is to simply attach the pa
 It is also possible to use
 **no**
 ('no', 'not') or
-**ya**
+**ye**
 ('yes') instead of
 **he**
 to suggest the expected answer.
 
 **tu yam un piza, no?**
 – You eat a pizza, don't you?  
-**tu yam un piza, ya?**
+**tu yam un piza, ye?**
 – You eat a pizza, right?
 
 The third way to ask a yes-no question is to contradict the verb
@@ -740,27 +740,27 @@ Finally, you can emphasize the question by using **sual**.
 – Do you eat a pizza?
 
 Yes-no questions are answered with
-**ya**
+**ye**
 ('yes') and
 **no**
 ('no').
 
 **tu vize mi, he?**
 – Do you see me?  
-**ya. (mi ya vize tu.)**
+**ye. (mi ye vize tu.)**
 – Yes. (I _do_ see you.)  
 **no. (mi no vize tu.)**
 – No. (I don't see you.)
 
 Negative questions are answered so that
-**ya**
+**ye**
 and
 **no**
 apply to the verb, not the whole question.
 
 **tu no vize mi, he?**
 – Don't you see me?  
-**ya. (mi vize tu.)**
+**ye. (mi vize tu.)**
 – Yes. (I see you.)  
 **no. (mi no vize tu.)**
 – No. (I don't see you.)
@@ -946,12 +946,12 @@ Expressions are affirmative by default.
 – It is a new table.
 
 Affirmation can be emphasized with the adverb
-**ya**
+**ye**
 ('yes indeed').
 
-**mi ya es shefe.**
+**mi ye es shefe.**
 – I indeed am the boss.  
-**da ya es nova meza.**
+**da ye es nova meza.**
 – It indeed is a new table.
 
 #### Negative
@@ -982,27 +982,27 @@ Different scopes of negation may result depending on the location of the negativ
 – I ask you NOT to clean the room.
 
 Particles
-**ya**
+**ye**
 and
 **no**
 are used also for answering questions.
 
 **sual tu vize mi?** 
 – Do you see me?  
-**ya. (mi ya vize tu.)** 
+**ye. (mi ye vize tu.)** 
 – Yes. (I do see you.)  
 **no. (mi no vize tu.)** 
 – No. (I don't see you.)
 
 Negative questions are answered so that
-**ya**
+**ye**
 and
 **no**
 apply to the verb alone and not the sentence as a whole.
 
 **sual tu no vize mi?** 
 – Don't you see me?  
-**ya. (mi ya vize tu.)** 
+**ye. (mi ye vize tu.)** 
 – Yes. (I do see you.)  
 **no. (mi no vize tu.)** 
 – No. (I don't see you.)
@@ -1153,7 +1153,7 @@ It can also introduce a statement that may be contrary to expectations.
 
 **tu kitabe da, he? – na, no haf.**
 – Did you write it? – Well, not yet.  
-**da hau, ne? – na, ya.**
+**da hau, ne? – na, ye.**
 – It's good, isn't it? – Well, yes.
 
 **o**
@@ -1174,17 +1174,17 @@ Wow!
 **da dai, va!**
 – It's so big!
 
-**ya**
+**ye**
 reinforces the meaning of the sentence
 or indicates agreement.
 The speaker is absolutely sure of what they are saying.
 It can be translated as *indeed* or *truly*.
 
-**mi haf vize tu ya.**
+**mi haf vize tu ye.**
 – I truly saw you.  
-**da ver, ya.**
+**da ver, ye.**
 – It is true indeed.  
-**da nove, ne? – da nove, ya.**
+**da nove, ne? – da nove, ye.**
 – It is new, right? – It's new indeed.
 
 ## Observations

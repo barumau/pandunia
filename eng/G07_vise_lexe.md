@@ -152,12 +152,12 @@ The demonstratives can serve as subjects and objects in the same way as nouns.
 
 When the verb is a content word,
 there needs to be a modal particle,
-like **ya** or **no**,
+like **ye** or **no**,
 between the subject and the verb.
 
 **mi vize du jen.**
 – I see two persons.  
-**da hir ya gani e da der no gani.**
+**da hir ye gani e da der no gani.**
 – This one sings and that one doesn't sing.
 
 The basic proximal and distal pronouns are used for introducing a new object.

@@ -127,7 +127,7 @@ Sentence-final particles express why the sentence is said,
 i.e. is the sentence, for example, a statement, a question or a command.  
 **yu love kafe, he?**
 – You love coffee, eh? (question)  
-**yu love kafe, ya.**
+**yu love kafe, ye.**
 – You love coffee, indeed. (statement)  
 **yu love kafe, ne.**
 – You love coffee, or... (need for response)

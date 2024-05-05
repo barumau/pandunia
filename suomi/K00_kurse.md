@@ -472,7 +472,7 @@ syödä tai juoda
 **sual tu yam supe?**
 = Saisiko olla keittoa?  
 <big>☻</big>
-**ya.**
+**ye.**
 = Kyllä.  
 <big>☺</big>
 **sual da yam supe?**
@@ -525,14 +525,14 @@ Tietysti myös yleis- ja erisnimiä voi käyttää kysymyksissä.
 ### Vastaaminen
 
 Kyllä-vai-ei kysymyksiin vastataan
-**ya**
+**ye**
 ('kyllä') tai
 **no**
 ('ei').
 
 – **sual tu yam supe?**
 = Syötkö sinä keittoa?  
-– **ya.**
+– **ye.**
 = Kyllä.  
 – **sual da yam supe?**
 = Syökö hän keittoa?  
@@ -543,7 +543,7 @@ Vastata voi myös perusteellisemmin.
 
 – **sual tu yam kafe?**
 = Juotko sinä kahvia?  
-– **ya. mi yam kafe.**
+– **ye. mi yam kafe.**
 = Kyllä. Minä juon kahvia.  
 – **sual da yam kafe?**
 = Juoko hän kahvia?  
@@ -589,13 +589,13 @@ keitto, soppa
 kymmenen  
 **un**
 yksi (1)  
-**ya**
+**ye**
 kyllä
 
 ### Harjoitusten vastaukset
 
 1. sual tu bashe pandunia?
-2. ya. mi bashe pandunia.
+2. ye. mi bashe pandunia.
 3. sual mama yam kafe?
 4. no. da no yam kafe.
 5. sual da yam supe?
@@ -606,7 +606,7 @@ kyllä
 ## Ein sanominen
 
 
-Edellisellä tunnilla opitte vastaamaan kysymyksiin **ya** ja **no**.
+Edellisellä tunnilla opitte vastaamaan kysymyksiin **ye** ja **no**.
 **no** on siis kieltosana.
 Kun verbin eteen lisätään **no**, myöntölauseesta tulee kieltolause.
 

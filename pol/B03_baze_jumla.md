@@ -82,7 +82,7 @@ Słowo
 jest rzeczownikiem i czasownikiem.
 Podstawowy szyk zdania w Panduni Pandunia to podmiot-orzeczenie-dopełnienie.
 
-**Sara ya sal Tomas.**
+**Sara ye sal Tomas.**
 Sara pozdrawia Tomasza.
 
 **sal mama!**
@@ -177,18 +177,18 @@ Swahili *swali*.</small>
 
 
 
-### ya <small>tak</small>
+### ye <small>tak</small>
 
 **sual tu Tomas?**
 Czy ty jesteś Tomasz?
 
-**ya, mi Tomas.**
+**ye, mi Tomas.**
 Tak, ja jestem Tomasz.
 
 **sual da davar?**
 Czy on/ona jest lekarzem?
 
-**ya, da davar.**
+**ye, da davar.**
 Tak, on/ona jest lekarzem.
 
 
@@ -219,7 +219,7 @@ Nie jestem lekarzem.
 
 **sual tu hau?**
 Czy czujesz się dobrze?
-**ya. mi hau.**
+**ye. mi hau.**
 Tak, czuję się dobrze.
 
 **sual tu hau?**
@@ -446,7 +446,7 @@ mogą się odnosić do jednego lub większej liczby jabłek.
 **sual tu yam kafe?**
 Czy pijesz kawę?
 
-**ya. mi yam kafe.**
+**ye. mi yam kafe.**
 Tak. Piję kawę.
 
 Porada: Znaczenie
@@ -688,10 +688,10 @@ Widziałem go/ją wczoraj.
 
 ### sema <small>znaczyć</small>
 
-**ye lexi ya sema ke?**
+**ye lexi ye sema ke?**
 Co znaczy to słowo?
 
-**"mau" ya sema ke?**
+**"mau" ye sema ke?**
 Co znaczy "mau"?
 
 **da sema un yang de hevan.**

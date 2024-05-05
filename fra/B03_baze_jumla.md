@@ -94,7 +94,7 @@ et en indonésien *selamat*.</small>
 **meni danke!**
 – Merci beaucoup !
 
-**ya, danke.**
+**ye, danke.**
 – Oui, merci.
 
 **no, danke.**
@@ -144,7 +144,7 @@ Le mot
 est un nom et un verbe correspondant.
 L'ordre des mots en Pandunia est sujet-verbe-objet.
 
-**Sara ya sal Tomas.**
+**Sara ye sal Tomas.**
 – Sara salue Thomas.
 
 **sal mama!**
@@ -247,18 +247,18 @@ souheli _swali_.</small>
 
 
 
-### ya <small>oui</small>
+### ye <small>oui</small>
 
 **sual tu es Tomas?**
 – Es-tu Thomas.
 
-**ya, mi es Tomas.**
+**ye, mi es Tomas.**
 – Oui, je suis Thomas.
 
 **sual da es dokter?**
 – Est-il/elle doctor ?
 
-**ya, da es dokter.**
+**ye, da es dokter.**
 – Oui, il/elle est doctor.
 
 
@@ -273,7 +273,7 @@ souheli _swali_.</small>
 
 **sual tu gude?**
 – Est-ce que tu vas bien ?  
-**ya. mi gude.**
+**ye. mi gude.**
 – Oui, je vais bien.
 
 **sual tu es gude?**
@@ -458,12 +458,12 @@ en anglais *name*.</small>
 
 **sual have dokter?**
 – Est-ce qu’il y a un médecin ?  
-**ya. da es dokter.**
+**ye. da es dokter.**
 – Oui. Il/elle est médecin.
 
 **sual have vin?**
 – Est-ce que tu as du vin?  
-**ya. baki e rubi.**
+**ye. baki e rubi.**
 – Oui, du blanc et du rouge.
 
 
@@ -522,7 +522,7 @@ peut signifier une ou plusieurs pommes.
 **sual tu yam kafe?**
 – Est-ce que tu bois du café ?
 
-**ya. mi yam kafe.**
+**ye. mi yam kafe.**
 – Je bois du café.
 
 Astuce : Le sens de
@@ -734,10 +734,10 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 ### seme <small>signifier, vouloir dire</small>
 
-**da hir lexe ya seme kua?**
+**da hir lexe ye seme kua?**
 – Que veut dire ce mot ?
 
-**"mau" ya seme kua?**
+**"mau" ye seme kua?**
 – Que signifie « maw » ?
 
 **da seme un sorte of hevan.**

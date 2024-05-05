@@ -44,7 +44,7 @@ est addé pour former le negatif.
 – Ce n'est pas Sarah.
 
 Il est possible d'ajouter le mot
-**ya**
+**ye**
 (oui) avant le prédicat dans des phrases affirmatives, selon le style et la praticité.
 Dans ce cas la structure est similaire à celle des phrases négatives.
 
@@ -58,7 +58,7 @@ Dans ce cas la structure est similaire à celle des phrases négatives.
 – La table n'est pas vieille.
 
 De plus, deux pronoms personnels peuvent être combinés avec
-**ya**
+**ye**
 et
 **no**.
 
@@ -208,23 +208,23 @@ C'est particulièrement valable pour l'expression d'ordres et de demandes.
 #### Particule affirmative
 
 La particule
-**ya**
+**ye**
 est affirmative et la particule
 **no**
 est négative.
-**ya**
+**ye**
 affirme l'existence de quelque chose, tandis que
 **no**
 la nie.
 
 Une expression est affirmative par défaut, donc le mot
-**ya**
+**ye**
 n'est pas toujours nécessaire.
 
 
 **mi es jen.** 
 – Je suis une personne.  
-**da ya es nove meza.**
+**da ye es nove meza.**
 – C'est une nouvelle table.
 
 #### Particule négative
@@ -259,27 +259,27 @@ Le sens de la phrase change donc selon l'emplacement du
 – Je te demande de NE PAS nettoyer la chambre.
 
 Les particules
-**ya**
+**ye**
 et
 **no**
 sont également utilisées pour répondre aux questions.
 
 **sual tu vize mi?** 
 – Est-ce que tu me voies ?  
-**ya. (mi ya vize tu.)** 
+**ye. (mi ye vize tu.)** 
 – Oui. (Je te vois bien.)  
 **no. (mi no vize tu.)** 
 – Non. (Je ne te vois pas.)
 
 On répond aux phrases interro-négatives de façon à ce que
-**ya**
+**ye**
 et
 **no**
 s'appliquent au verbe, et non pas à la question entière.
 
 **sual tu no vize mi?** 
 – Ne me vois-tu pas ?  
-**ya. (mi ya vize tu.)** 
+**ye. (mi ye vize tu.)** 
 – Si. (Je te vois bien.)  
 **no. (mi no vize tu.)** 
 – Non. (Je ne te vois pas.)

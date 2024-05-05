@@ -89,7 +89,7 @@ indonesia *selamat*.</small>
 **meni danke!**
 – Paljon kiitoksia!
 
-**ya, danke.**
+**ye, danke.**
 – Kyllä, kiitos.
 
 **no, danke.**
@@ -147,7 +147,7 @@ Sana
 on sekä substantiivi että verbi.
 Pandunian normaali sanajärjestys on subjekti–verbi–objekti.
 
-**Sara ya sal Tomas.**
+**Sara ye sal Tomas.**
 – Sara tervehtii Tomasta.
 
 **sal mama!**
@@ -247,25 +247,25 @@ malaijin *soal*,
 suahilin *swali*.</small>
 
 
-### ya <small>kyllä</small>
+### ye <small>kyllä</small>
 
 **sual tu es Tomas?**
 – Oletko Tomas?
 
-**ya, mi es Tomas.**
+**ye, mi es Tomas.**
 – Kyllä, olen Tomas.
 
 **sual da es dokter?**
 – Onko hän lääkäri?
 
-**ya, da es dokter.**
+**ye, da es dokter.**
 – Kyllä, hän on lääkäri.
 
-<small>Sanan **ya** lähteitä ovat
+<small>Sanan **ye** lähteitä ovat
 saksan *ja*,
 englannin *yeah*,
 malaijin *ya*,
-korean 예 (ya).</small>
+korean 예 (ye).</small>
 
 
 ### no <small>ei</small>
@@ -278,7 +278,7 @@ korean 예 (ya).</small>
 
 **sual tu hau?**
 – Voitko hyvin?  
-**ya. mi hau.**
+**ye. mi hau.**
 – Kyllä, minä voin hyvin.
 
 **sual tu es hau?**
@@ -529,7 +529,7 @@ voi tarkoittaa yhtä tai useampaa omenaa.
 **sual tu yam kafe?**
 – Juotko kahvia?
 
-**ya. mi yam kafe.**
+**ye. mi yam kafe.**
 – Minä juon kahvia.
 
 Vinkki: Sana
@@ -739,18 +739,18 @@ Minkälaista musiikkia sinä kuuntelet?
 – Minä näin hänet eilen.
 
 
-### sema <small>tarkoittaa</small>
+### seme <small>tarkoittaa</small>
 
-**da hir lexe ya sema kua?**
+**da hir lexe ye seme kua?**
 – Mitä tämä sana tarkoittaa?
 
-**"mau" ya sema kua?**
+**"mau" ye seme kua?**
 – Mitä "mau" tarkoittaa?
 
-**da sema un yang de hevan.**
+**da seme un yang de hevan.**
 – Se tarkoittaa eräänlaista eläintä.
 
-**mi no aha da sema kua.**
+**mi no aha da seme kua.**
 – Minä en ymmärrä mitä se tarkoittaa.
 
 

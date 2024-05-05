@@ -143,7 +143,7 @@ Les prépositions peuvent être aussi complétées par un groupe verbale. Dans c
 
 **a** est une préposition aush nombreush sens. a significhation de base est "avec".
  
-**mi sta a dom.**  
+**mi sta a haus.**  
 _Je suis debout avec maison._  
 Je me tiens devant la maison / tout près de la maison.
  
@@ -172,11 +172,11 @@ En pandunia certains verbes fonctionnent comme le feraient des prépositions en 
 Les prépositions ne sont pas utilisées aussi fréquemment en pandunia qu'en anglais.
 Dans de nombreuses phrases, le verbe seul suffit.
 
-**mi kom dom.**
+**mi kom haus.**
 – Je viens (à) la maison.  
 **tu side kursi.**
 – Tu es assis (sur) une chaise.  
-**ya lala sofa.**
+**da bi lala sofa.**
 – Il ou elle est allongée (sur) le canapé.  
 **pishe boi daria.**
 – Des poissons nagent (dans) la mer.  

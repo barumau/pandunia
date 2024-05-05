@@ -495,7 +495,7 @@ to eat or drink
 **sual tu yam supe?**
 = Would you like to have soup?  
 <big>☻</big>
-**ya.**
+**ye.**
 = Yes.  
 <big>☺</big>
 **sual da yam supe?**
@@ -549,14 +549,14 @@ Of course common and proper nouns can also be used.
 ### Giving answers
 
 Yes/no questions can be answered with
-**ya**
+**ye**
 'yes', and
 **no**
 'no'.
 
 – **sual tu yam supe?**
 = Do you eat soup?  
-– **ya.**
+– **ye.**
 = Yes.  
 – **sual da yam supe?**
 = Does she eat soup?  
@@ -567,7 +567,7 @@ Also more complete answers can be given.
 
 – **sual tu yam kafe?**
 = Do you drink coffee?  
-– **ya. mi yam kafe.**
+– **ye. mi yam kafe.**
 = Yes, I drink coffee.  
 – **sual da yam kafe?**
 = Does he drink coffee?  
@@ -617,14 +617,14 @@ soup
 ten  
 **un**
 one (1)  
-**ya**
+**ye**
 yes
 
 
 ### Answers to the Exercises
 
 1. sual tu bashe pandunia?
-2. ya. mi bashe pandunia.
+2. ye. mi bashe pandunia.
 3. sual mama yam kafe?
 4. no. da no yam kafe.
 5. sual da yam supe?
@@ -636,7 +636,7 @@ yes
 ## Saying no
 
 In the previous lesson you learned to answer
-**ya**
+**ye**
 and
 **no**
 to questions. The word

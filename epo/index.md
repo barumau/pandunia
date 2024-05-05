@@ -124,7 +124,7 @@ Frazfinaj partikuloj indikas kial oni diras la frazon,
 ekz. ĉu ĝi estas deklaro, demando aŭ komando.  
 **yu love kafe, he?**
 – Ĉu vi ŝatas kafon? (demando)  
-**yu love kafe, ya.**
+**yu love kafe, ye.**
 – Vi ja ŝatas kafon.  
 **yu love kafe, ne.**
 – Vi ŝatas kafon, ĉu?

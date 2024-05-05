@@ -120,7 +120,7 @@ La palabra
 es un sustantivo y un verbo.
 El orden básico de las palabras en pandunia es sujeto–verbo–objeto.
 
-**Sara ya sal Tomas.**
+**Sara ye sal Tomas.**
 – Sara saluda a Tomás.
 
 **sal mama!**
@@ -211,18 +211,18 @@ De hecho, la pregunta anterior es una sencilla abreviación de
 
 
 
-### ya <small>sí</small>
+### ye <small>sí</small>
 
 **sual tu es Tomas?**
 – ¿Eres Tomás?.
 
-**ya, mi es Tomas.**
+**ye, mi es Tomas.**
 – Sí, soy Tomás.
 
 **sual da es dokter?**
 – ¿Él/ella es doctor/a?
 
-**ya, da es dokter.**
+**ye, da es dokter.**
 – Sí, él/ella es doctor/a.
 
 
@@ -236,7 +236,7 @@ De hecho, la pregunta anterior es una sencilla abreviación de
 
 **sual tu gude?**
 – ¿Estás bien?  
-**ya. mi gude.**
+**ye. mi gude.**
 – Sí, estoy bien.
 
 **sual tu es gude?**
@@ -483,7 +483,7 @@ puede referirse a una o más manzanas.
 **sual tu yam kafe?**
 – ¿Bebes café?
 
-**ya. mi yam kafe.**
+**ye. mi yam kafe.**
 – Sí, yo bebo café.
 
 Ayuda: El significado de
@@ -694,10 +694,10 @@ _Él/ella no puede conducir un auto._)
 
 ### seme <small>significar</small>
 
-**da hir lexe ya seme kua?**
+**da hir lexe ye seme kua?**
 – ¿Qué significa esta palabra?
 
-**"mau" ya seme kua?**
+**"mau" ye seme kua?**
 – ¿Qué significa "mau"?
 
 **da seme un sorte of hevan.**

@@ -115,7 +115,7 @@ son, sa, ses
 qui ou quoi  
 **es**
 être (je suis, tu es, nous sommes, etc.)  
-**ya**
+**ye**
 oui  
 **no**
 non ; ne pas être  
@@ -464,7 +464,7 @@ manger ou boire, consommer
 **sual tu yam supe?**
 = Prenez-vous de la soupe ?  
 <big>☻</big>
-**ya.**
+**ye.**
 = Oui.  
 <big>☺</big>
 **sual da yam supe?**
@@ -517,14 +517,14 @@ Bien sûr, les noms communs et les noms propres peuvent aussi être utilisés.
 ### Apporter des réponses
 
 On peut répondre aux questions fermées (deux réponses possibles oui ou non) par
-**ya**
+**ye**
 'oui' et
 **no**
 'non'.
 
 – **sual tu yam supe?**
 = Manges-tu de la soupe ?  
-– **ya.**
+– **ye.**
 = Oui.  
 – **sual da yam supe?**
 = Mange-t-elle de la soupe ?  
@@ -535,7 +535,7 @@ Des réponses plus complètes peuvent également être apportées.
 
 – **sual tu yam kafe?**
 = Bois-tu du café ?  
-– **ya. mi yam kafe.**
+– **ye. mi yam kafe.**
 = Oui, je bois du café .  
 – **sual da yam kafe?**
 = Boit-il du café ?  
@@ -585,14 +585,14 @@ soupe
 un (1)  
 **ten**
 dix  
-**ya**
+**ye**
 oui
 
 
 ### Réponses aux exercices
 
 1. sual tu bashe pandunia?
-2. ya. mi bashe pandunia.
+2. ye. mi bashe pandunia.
 3. sual mama yam kafe?
 4. no. da no yam kafe.
 5. sual da yam supe?
@@ -604,7 +604,7 @@ oui
 # Dire non
 
 Dans la leçon précédente, vous avez appris à répondre
-**ya**
+**ye**
 et
 **no**
 aux questions. Le mot

@@ -72,7 +72,7 @@ Example 1. Structurally unclear sentence.
     
 Example 2. Structurally clear sentence with the affirmation of the verb.
 
-    mau ya  yam fish.
+    mau ye  yam fish.
     cat yes eat fish
     'The cat does eat fish.'
 
@@ -121,12 +121,12 @@ It can't be left out when it is part of a serial verb.
 
 Pandunia words can be ambiguous because they often have more meanings compared to English.
 
-**da ya love mau.**
+**da ye love mau.**
 – He loves cats. / She loved a cat. / He/she will love the cat.
 
 But actually the meaning is clear in the real context:
 
-**pre tri nen, mi have du mau e un vaf. mi have plus un fem ben. da ya love mau!**
+**pre tri nen, mi have du mau e un vaf. mi have plus un fem ben. da ye love mau!**
 – Three years ago, I had two cats and a dog. I also had a daughter. _She loved the cats!_
 
 ### Time
@@ -219,7 +219,7 @@ To ask a content question, write a normal sentence and replace the word in quest
 – Who do you love?  
 **tu love kua man?**
 – Which man do you love?  
-**kua man ya love tu?**
+**kua man ye love tu?**
 – Which man loves you?  
 **tu love da kua li muche?**
 – How much do you love him?

@@ -83,7 +83,7 @@ Dankon!
 **meni danke!**
 Multajn dankojn!
 
-**ya, danke.**
+**ye, danke.**
 Jes, danke.
 
 **no, danke.**
@@ -146,7 +146,7 @@ La vorto
 estas kaj substantivo kaj verbo.
 La normala vortordo en pandunio estas subjekto-verbo-objekto.
 
-**Sara ya sal Tomas.**
+**Sara ye sal Tomas.**
 Sara salutas Tomason.
 
 **sal mama!**
@@ -249,18 +249,18 @@ malaja *soal*,
 sŭahila *swali*.</small>
 
 
-### ya <small>jes</small>
+### ye <small>jes</small>
 
 **sual tu es Tomas?**
 Ĉu vi estas Tomaso.
 
-**ya, mi es Tomas.**
+**ye, mi es Tomas.**
 Jes, mi estas Tomaso.
 
 **sual da es davar?**
 Ĉu li/ŝi estas doktoro?
 
-**ya, da es davar.**
+**ye, da es davar.**
 Jes, li estas doktoro.
 
 
@@ -274,7 +274,7 @@ Mi ne estas doktoro.
 
 **sual tu gude?**
 Ĉu vi fartas bone?  
-**ya. mi gude.**
+**ye. mi gude.**
 Jes, mi estas bone.
 
 **sual tu es gude?**
@@ -519,7 +519,7 @@ indikas unu aŭ multajn pomojn.
 **sual tu yam kafe?**
 Ĉu vi trinkas kafon?
 
-**ya. mi yam kafe.**
+**ye. mi yam kafe.**
 Jes, mi trinkas kafon.
 
 Noto: Signifo de
@@ -726,10 +726,10 @@ Mi vidin lin/ŝin hieraŭ.
 
 ### seme <small>signifi</small>
 
-**da hir lexe ya seme kua?**
+**da hir lexe ye seme kua?**
 Kion tiu vorto signifas?
 
-**"mau" ya seme kua?**
+**"mau" ye seme kua?**
 Kion "mau" signifas?
 
 **da seme un sorte of hevan.**

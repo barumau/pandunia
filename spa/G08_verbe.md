@@ -36,14 +36,14 @@ Es particularmente útil cuando el sujeto y el verbo son palabras de contenido
 que pueden servir de los dos.
 El indicador es tipicalmente una partícula o un verbo auxiliar.
 Un de los indicadores más adecuado es
-**ya**
+**ye**
 (»sí»),
 que añade ningún contenido a la oración
 pero ayuda clarificar su estructura.
 
 **karote es mar yam.**
 – Zanahoria es comida para caballos.  
-**mar _ya_ yam karote.**
+**mar _ye_ yam karote.**
 – El caballo come zanahorias.
 
 Otros indicadores adecuado son verbos auxiliares de tiempo y modo,

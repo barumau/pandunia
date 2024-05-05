@@ -94,9 +94,9 @@ joka on teon kohde.
 Toisinaan yhden lauseen subjekti voi olla toisessa lauseessa objekti,
 vaikka verbi pysyy samana.
 
-**la fuku ya gan.**
+**la fuku ye gan.**
 – Vaatteet kuivuvat.  
-**la sol ya gan la fuku.**
+**la sol ye gan la fuku.**
 – Aurinko kuivaa vaatteita.
 
 Apuverbejä **fa** ja **be** käytetään lauseenjäsenten roolien selkeyttämiseksi.
@@ -205,13 +205,13 @@ Panduniassa helpoin tapa muodostaa tällainen kymysys on liittää väitelauseen
 Lauseen loppuun voi vaihtoehtoisesti liittää myös sanat
 **no**
 ('ei') tai
-**ya**
+**ye**
 ('kyllä')
 sen mukaan, kumpaa vastausta odotetaan.
 
 **tu yam un piza, no?**
 – Ethän sinä syö pitsaa?  
-**tu yam un piza, ya?**
+**tu yam un piza, ye?**
 – Sinä syöt pitsaa, eikö niin?
 
 Kolmas tapa muodostaa kyllä–vai–ei -kysymys on ristiriitainen väitelause,
@@ -231,27 +231,27 @@ Viimeinen tapa on painottaa kysymistä käyttämällä verbiä **sual** ('kysyä
 – (Kysyn) syötkö sinä pitsaa?
 
 Kyllä–vai–ei -kysymyksiin vastaan joko
-**ya**
+**ye**
 ('kyllä') tai
 **no**
 ('ei').
 
 **tu vide mi, he?**
 – Näetkö sinä minut?  
-**ya. (mi ya vide tu.)**
+**ye. (mi ye vide tu.)**
 – Yes. (I _do_ see you.)  
 **no. (mi no vide tu.)**
 – En. (Minä en näe sinua.)
 
 Kieltomuotoisiin kysymyksiin vastattaessa
-**ya**
+**ye**
 ja
 **no**
 tarkoittavat verbiä eivätkä koko kysymyslausetta.
 
 **tu no vize mi, he?**
 – Etkö sinä näe minua  
-**ya. (mi vize tu.)**
+**ye. (mi vize tu.)**
 – Kyllä. (Minä kyllä näen sinut.)  
 **no. (mi no vize tu.)**
 – Ei. (Minä en näe sinua.)
@@ -339,12 +339,12 @@ Lauseet ovat lähtökohtaisesti myöntäviä.
 = Se on uusi pöytä.
 
 Myöntämistä voi painottaa sanalla
-**ya**
+**ye**
 ('kyllä').
 
-**mi ya es shefe.**
+**mi ye es shefe.**
 – Minä kyllä olen pomo.  
-**da ya es nove meza.**
+**da ye es nove meza.**
 – Se kyllä on uusi pöytä.
 
 #### Kieltäminen

@@ -106,7 +106,7 @@ Indonesian *selamat*.</small>
 **meni danke!**
 – Thanks a lot!
 
-**ya, danke.**
+**yes, danke.**
 – Yes, thank you.
 
 **no, danke.**
@@ -169,7 +169,7 @@ The word
 is both a noun and a verb.
 The basic word order in Pandunia is subject–verb–object.
 
-**Sara ya sal Tomas.**
+**Sara ye sal Tomas.**
 – Sarah greets Thomas.
 
 **sal mama!**
@@ -273,25 +273,25 @@ Malay *soal*,
 Swahili *swali*.</small>
 
 
-### ya <small>yes</small>
+### ye <small>yes</small>
 
 **sual tu es Tomas?**
 – Are you Thomas?
 
-**ya, mi es Tomas.**
+**ye, mi es Tomas.**
 – Yes, I am Thomas.
 
 **sual da es dokter?**
 – Is he/she a doctor?
 
-**ya, da es dokter.**
+**ye, da es dokter.**
 – Yes, he is a doctor.
 
-<small>Etymology. **ya** is from
+<small>Etymology. **ye** is from
 German *ja*,
 English *yeah*,
-Malay *ya*,
-Korean 예 (ya).</small>
+Malay *ye*,
+Korean 예 (ye).</small>
 
 
 ### no <small>no, not</small>
@@ -304,7 +304,7 @@ Korean 예 (ya).</small>
 
 **sual tu gude?**
 – Are you well?  
-**ya. mi gude.**
+**ye. mi gude.**
 – Yes, I'm well.
 
 **sual tu es gude?**
@@ -510,12 +510,12 @@ English *name*.</small>
 
 **sual have dokter?**
 – Is there a doctor?  
-**ya. da es dokter.**
+**ye. da es dokter.**
 – Yes. He or she is a doctor.
 
 **sual have vin?**
 – Do you have wine?  
-**ya. baki e rubi.**
+**ye. baki e rubi.**
 – Yes, white and red.
 
 
@@ -573,7 +573,7 @@ can refer to one or more apples.
 **sual tu yam kafe?**
 – Do you drink coffee?
 
-**ya. mi yam kafe.**
+**ye. mi yam kafe.**
 – Yes, I drink coffee.
 
 Tip: Meaning of
@@ -783,10 +783,10 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### seme <small>to mean</small>
 
-**da hir lexe ya seme kua?**
+**da hir lexe ye seme kua?**
 – What does this word mean?
 
-**"mau" ya seme kua?**
+**"mau" ye seme kua?**
 – What does "mau" mean?
 
 **da seme un sorte of hevan.**

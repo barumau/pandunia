@@ -72,7 +72,7 @@ Ekzemplo 1. Strukture neklara frazo.
     
 Ekzemplo 2. Strukture klara frazo dank'al jesa vorto.
 
-    mau  ya  yam   fish.
+    mau  ye  yam   fish.
     kato jes manĝi fiŝo
     'Kato ja manĝas fiŝon.'
 
@@ -121,12 +121,12 @@ Oni ne povas forĵeti ĝin, kiam ĝi apartenas en verboserio.
 
 La vortoj de pandunia ofte havas pli vastan sencon ol la korespondaj esperantaj vortoj.
 
-**da ya love mau.**
+**da ye love mau.**
 – Li amas katojn. / Ŝi amis katon. / Ĝi amos la katon.
 
 Sed la kunteksto normale klarigas la precizan signifon:
 
-**pre tri nen, mi have du mau e un vaf. mi have plus un fem ben. da ya love mau!**
+**pre tri nen, mi have du mau e un vaf. mi have plus un fem ben. da ye love mau!**
 – Antaū tri jaroj mi havis du katojn kaj unu hundon. Mi ankaū havis filinon. _Ŝi amis la katojn!_
 
 ### Tempo
@@ -216,7 +216,7 @@ Por demandi _ki_-demandon skribu la normala frazo kaj anstataŭigu la demanditan
 – Kiun vi amas?  
 **tu love kua man?**
 – Kiun viron vi amas?  
-**kua man ya love tu?**
+**kua man ye love tu?**
 – Kiu viro amas vin?  
 **tu love da kua li muche?**
 – Kiom multe vi amas lin?

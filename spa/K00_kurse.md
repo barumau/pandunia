@@ -423,7 +423,7 @@ algo
 **sual tu yam supe?**
 – ¿Quieren tomar sopa?  
 <big>☻</big>
-**ya.**
+**ye.**
 – Sí.  
 <big>☺</big>
 **sual da yam supe?**
@@ -466,11 +466,11 @@ Se puede omitir sólo cuando está claro con quien es el tema de discusión.
 
 ### Respondiendo
 
-Las preguntas de sí o no se responden con **ya** 'sí', y **no** 'no'.
+Las preguntas de sí o no se responden con **ye** 'sí', y **no** 'no'.
 
 – **sual tu yam supe?**
 – ¿Comes tú sopa?  
-– **ya.**
+– **ye.**
 – Sí.  
 – **sual da yam supe?**
 – ¿Come ella sopa?  
@@ -480,7 +480,7 @@ También se puede dar una respuesta mas larga.
 
 – **sual tu yam kafe?**
 – ¿Bebes tú café?  
-– **ya. mi yam kafe.**
+– **ye. mi yam kafe.**
 – Sí, yo bebo café.  
 – **sual da yam kafe?**
 – ¿Bebe él café?  
@@ -530,14 +530,14 @@ agua
 diez  
 **un**
 un (1)  
-**ya**
+**ye**
 sí
 
 
 ### Respuestas
 
 1. sual tu bashe pandunia?
-2. ya. mi bashe pandunia.
+2. ye. mi bashe pandunia.
 3. sual mama yam kafe?
 4. no. da no yam kafe.
 5. sual da yam supe?
@@ -550,7 +550,7 @@ sí
 ## Negación
 
 En la lección anterios apredimos a responder con
-**ya**
+**ye**
 y
 **no**.
 La palabra

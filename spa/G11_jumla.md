@@ -185,14 +185,14 @@ La manera más fácil para formar una pregunta de sí o no es sencillamente afij
 Es también posible usar
 **no**
 («no») o
-**ya**
+**ye**
 («si») en vez de
 **he**
 para sugerir una repuesta esperada.
 
 **tu yam un piza, no?**
 – Tú comes una pizza, ¿no?  
-**tu yam un piza, ya?**
+**tu yam un piza, ye?**
 – Tú comes una pizza, ¿sí?
 
 La manera tercera para preguntar una pregunta de sí o no es contradecir el verbo
@@ -211,27 +211,27 @@ Finalmente, puede enfatiza la pregunta usando **sual**.
 – ¿Tú comes una pizza?
 
 Preguntas de sí o no se responden con
-**ya**
+**ye**
 («si») y
 **no**
 («no»).
 
 **tu vize mi, he?**
 – ¿Tú me ves?  
-**ya. (mi ya vize tu.)**
+**ye. (mi ye vize tu.)**
 – Sí. (Yo _sí_ te veo.)  
 **no. (mi no vize tu.)**
 – No. (Yo _no_ te veo.)
 
 Preguntas negativas se responden para
-**ya**
+**ye**
 y
 **no**
 aplican al verbo principal, no la pregunta entera.
 
 **tu no vize mi, he?**
 – ¿No me ves?  
-**ya. (mi vize tu.)**
+**ye. (mi vize tu.)**
 – Sí. (Te veo.)  
 **no. (mi no vize tu.)**
 – No. (No te veo.)
