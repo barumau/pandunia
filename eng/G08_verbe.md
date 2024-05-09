@@ -102,11 +102,13 @@ The time can be indicated with a tense markers.
 – The man will have eaten bread.
 
 
-### Conditional mood
+### Mood
 
-The conditional marker
+The conditional mood is used for anything that could take place.
+It indicates that the realization of an action or event depends on another condition.
+The conditional mood is expressed with the auxiliary verb
 **vud**
-indicates that the realization of an action or event depends on another condition.
+('would').
 This marker is used in both main and subordinate clauses.
 
 **mi** ***vud*** **van yam.**
@@ -117,6 +119,37 @@ This marker is used in both main and subordinate clauses.
 – I *would* go if you would let me.  
 **tu no** ***vud*** **es suka, if mi** ***vud*** **go.**
 – You would not be happy, if I would go.
+
+The auxiliary verb
+**shud**
+('should, ought') indicates some kind of expectation like duty, obligation, requirement, desire, advisability or likelihood.
+
+**ma voka vi. vi shud go.**
+– Mother called us. We should go.  
+**da shud haf kom pre nau.**
+– He should have come by now.  
+**evri von shud vote.**
+– Everyone should vote.
+
+The imperative mood is used to form a command or request.
+In Pandunia, the imperative is created with the auxiliary verb
+**shal**.
+It can be used to give commands to any person, not just "you".
+
+**vi shal go!**
+– Let us go! ~ Let's go!  
+**di shal kurse!**
+– Let them run!
+
+**shal**
+can be used to give commands also to the second person,
+but it is common to drop both the personal pronoun and the auxiliary verb
+in order to give the command more force.
+
+**tu shal kom!** = **kom!**
+– Come!  
+**yu shal kom!** = **kom!**
+– Come (you all)!
 
 
 ## Transitivity

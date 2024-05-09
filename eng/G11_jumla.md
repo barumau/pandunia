@@ -406,7 +406,7 @@ For example, in the following sentence, the subject is
 **mi**
 'I',
 the verb is
-**vide**
+**vize**
 'see',
 and the object is
 **tu**
