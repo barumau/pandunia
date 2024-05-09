@@ -153,9 +153,9 @@ Il peut y avoir deux ou trois verbes dans une suite, voire davantage, et ils por
 
 1. **mi go to haus.**
    – Je vais à la maison.  
-2. **mi ken go to haus.**
+2. **mi kan go to haus.**
    – Je peux aller à la maison.  
-3. **mi van ken go to haus.**
+3. **mi van kan go to haus.**
    – Je veux pouvoir aller à la maison.
 
 ## Omission des pronoms

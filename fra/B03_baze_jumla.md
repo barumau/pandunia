@@ -490,10 +490,10 @@ en anglais *name*.</small>
 **mi yau helpe.**
 – J’ai besoin d’aide.
 
-**sual tu ken helpe mi?**
+**sual tu kan helpe mi?**
 – Est-ce que tu peux m’aider ?
 
-**sual mi ken helpe tu?**
+**sual mi kan helpe tu?**
 – Est-ce que je peux t’aider ?
 
 **mi van helpe tu.**
@@ -648,30 +648,30 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 – Je n’ai rien compris du tout.
 
 
-### ken <small>pouvoir, savoir</small>
+### kan <small>pouvoir, savoir</small>
 
-**mi ken shofe karo.**
+**mi kan shofe karo.**
 – Je sais conduire une voiture.
 
-**da no ken shofe karo.**
+**da no kan shofe karo.**
 – Il/elle ne sait pas conduire une voiture.
 
-**sual tu ken shuli da?**
+**sual tu kan shuli da?**
 – Est-ce que tu sais réparer ça ?
 
-**sual tu ken pandunia?**
+**sual tu kan pandunia?**
 – Peux-tu parler pandunia ?
 
-**mi ken pandunia.**
+**mi kan pandunia.**
 – Je peux parler pandunia.
 
-**mi ken kam pandunia.**
+**mi kan kam pandunia.**
 – Je peux parler un peu pandunia.
 
-**mi no ken english.**
+**mi no kan english.**
 – Je ne parle pas anglais.
 
-**perdon. mi no ken tu se bashe.**
+**perdon. mi no kan tu se bashe.**
 – Désolé, je ne parle pas votre langue.
 
 
@@ -704,7 +704,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 **audi mi!**
 – Écoute-moi !
 
-**mi no ken audi tu.**
+**mi no kan audi tu.**
 – Je ne t’entends pas. (Je n’arrive pas à t’entendre)
 
 **plis loga mor bala.**
@@ -764,7 +764,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 **vi bashe pandunia.**
 – Nous parlons pandunia.
 
-**sual tu ken bashe english?**
+**sual tu kan bashe english?**
 – Est-ce que tu parles anglais ?
 
 **franse, espanya, portugal, rus**
@@ -996,7 +996,7 @@ Il / Elle a (déjà) été le chef / la cheffe.
 **kira es 500 dolar a mes.**
 – La location est de 500 dollars par mois / pour un mois.
 
-**da no ken pei da kira.**
+**da no kan pei da kira.**
 – Il / Elle ne peut pas payer la location.
 
 **mi van sepe un karo a kira.**

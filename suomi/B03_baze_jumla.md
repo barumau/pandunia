@@ -497,10 +497,10 @@ englannin *name*.</small>
 **mi yau helpe.**
 – Minä tarvitsen apua.
 
-**sual tu ken helpe mi?**
+**sual tu kan helpe mi?**
 – Voitko auttaa minua?
 
-**sual mi ken helpe tu?**
+**sual mi kan helpe tu?**
 – Voinko auttaa sinua?
 
 **mi van helpe tu.**
@@ -655,30 +655,30 @@ Ymmärrätkö minua?
 – En ymmärrä yhtään.
 
 
-### ken <small>osata</small>
+### kan <small>osata</small>
 
-**mi ken shofe karo.**
+**mi kan shofe karo.**
 – Osaan ajaa autolla.
 
-**da no ken shofe karo.**
+**da no kan shofe karo.**
 – Hän ei osaa ajaa autolla.
 
-**sual tu ken shuli da?**
+**sual tu kan shuli da?**
 – Osaatko korjata sen?
 
-**sual tu ken pandunia?**
+**sual tu kan pandunia?**
 – Osaatko panduniaa?
 
-**mi ken pandunia.**
+**mi kan pandunia.**
 – Minä osaan panduniaa.
 
-**mi ken kam pandunia.**
+**mi kan kam pandunia.**
 – Minä osaan vähän panduniaa.
 
-**mi no ken english.**
+**mi no kan english.**
 – Minä en osaa englantia.
 
-**perdon. mi no ken tu se bashe.**
+**perdon. mi no kan tu se bashe.**
 – Anteeksi, en osaa sinun kieltäsi.
 
 
@@ -711,7 +711,7 @@ Ymmärrätkö minua?
 **audi mi!**
 Kuuntele minua!
 
-**mi no ken audi tu.**
+**mi no kan audi tu.**
 En voi kuulla sinua.
 
 **plis loga mor bala.**
@@ -771,7 +771,7 @@ Minkälaista musiikkia sinä kuuntelet?
 **vi bashe pandunia.**
 – Me osaamme puhua panduniaa.
 
-**sual tu ken bashe english?**
+**sual tu kan bashe english?**
 – Osaatko puhua englantia?
 
 **franse, espanya, portugal, rus**

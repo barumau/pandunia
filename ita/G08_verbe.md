@@ -119,7 +119,7 @@ il primo verbo (un ausiliare) è qualcosa che il soggetto possiede
 e il secondo verbo è qualcosa che il soggetto fa (quando è presente un complemento oggetto)
 o che esperisce (se non è presente alcun complemento oggetto).
 
-**mi ken kitabe da javabe.**  
+**mi kan kitabe da javabe.**  
 ≈ *Ho la capacità di scrivere la risposta.*  
 – So scrivere la risposta.  
 **mi halal kitabe da javabe.**  

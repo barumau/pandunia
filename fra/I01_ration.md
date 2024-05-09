@@ -347,7 +347,7 @@ est utilisé lorsque l'objet d'une action vient en premier dans la phrase. (C'es
 est un mot emprunté au chinois standard, mais il est également proche de certaines utilisations de l'anglais "to be".
 
     Anglais :   It can not be eaten.
-    Pandunia:   da no ken be yam.
+    Pandunia:   da no kan be yam.
     Chinois :   Tā bù néng bèi chī. (它不能被吃。)
     Français :	Ça ne peut pas être mangé.
 

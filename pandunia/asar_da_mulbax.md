@@ -2,10 +2,10 @@
 
 | bashe | asar |
 |-------|--------|
-| english | 11% |
+| english | 12% |
 | doice | 4% |
 | franse | 8% |
-| espan | 9% |
+| espan | 8% |
 | portugal | 8% |
 | rus | 7% |
 | hindi | 6% |
@@ -13,10 +13,10 @@
 | tamil | 1% |
 | parsi | 3% |
 | turki | 4% |
-| putonghan | 5% |
+| putonghan | 4% |
 | guangdong | 2% |
 | nipon | 6% |
-| cosen | 5% |
+| cosen | 4% |
 | viet | 3% |
 | malayu | 5% |
 | arabe | 4% |

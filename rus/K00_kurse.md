@@ -917,11 +917,11 @@ hide:
 
 В последовательности может быть и более двух глаголов.
 
-**mi don ken pandunia.**
+**mi don kan pandunia.**
 – Я учу Пандунию. (буквально пословно: Я получаю знаю Пандунию)  
-**mi vol don ken pandunia.**
+**mi vol don kan pandunia.**
 – Я хочу изучать Пандунию.  
-**mi vol don ken loge pandunia.**
+**mi vol don kan loge pandunia.**
 – Я хочу учиться говорить на Пандунии.
 
 ### Упражнения
@@ -937,7 +937,7 @@ hide:
 
 **vol**
 хотеть, желать  
-**ken**
+**kan**
 знать  
 **foku**
 фокусироваться, концетрироваться на  

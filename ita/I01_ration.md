@@ -444,7 +444,7 @@ Il verbo ausiliare
 ma è anche vicino ad alcuni usi dell'inglese "to be".
 
     Inglese:   It cannot be eaten.
-    Pandunia:  da no ken be yam.
+    Pandunia:  da no kan be yam.
     Cinese:    Tā bù néng bèi chī. (它不能被吃。)
 
 Come per il cinese, il pandunia non marca i verbi con una parola come "to".

@@ -146,9 +146,9 @@ Verbiketjussa on kaksi tai useampia teonsanoja peräkkäin. Kaikkien verbien sub
  
 1. **mi go to haus.**
    – Minä menen kotiin.
-2. **mi ken go to haus.**
+2. **mi kan go to haus.**
    – Minä voin mennä kotiin.
-3. **mi van ken go to haus.**
+3. **mi van kan go to haus.**
    – Minä haluan voida mennä kotiin.
 
 Ketjun viimeinen verbi on pääverbi,
@@ -160,7 +160,7 @@ ja sitä ennen olevan verbit ovat tavan apuverbejä.
 – Sinun kannattaisi syödä kasviksia. (neuvo)  
 **tu halal yam vege.**
 – Sinä saat syödä kasviksia. (lupa)  
-**tu ken yam vege.**
+**tu kan yam vege.**
 – Sinä voit syödä kasviksia. (mahdollisuus)  
 **tu mus yam vege.**
 – Sinun täytyy syödä kasviksia. (pakko)
@@ -220,7 +220,7 @@ Tämä on ns. _A-no-A_ -rakennne.
 
 **tu yam no yam un piza?**
 – Syötkö vai etkö syö pitsaa?  
-**tu ken no ken yam un piza?**
+**tu kan no kan yam un piza?**
 – Voitko vai etkö voi syödä pitsaa?
 
 Viimeinen tapa on painottaa kysymistä käyttämällä verbiä **sual** ('kysyä').

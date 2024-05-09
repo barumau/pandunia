@@ -127,9 +127,9 @@ y todos tienen el mismo sujeto.
  
 1. **mi go a haus.**
    – Me voy a casa.  
-2. **mi ken go a haus.**
+2. **mi kan go a haus.**
    – Me puede ir a casa.  
-3. **mi van ken go a haus.**
+3. **mi van kan go a haus.**
    – Me quiero poder ir a casa.
    (Palabra por palabra: _Yo querer poder irse a casa_!)
 
@@ -142,7 +142,7 @@ Los verbos que lo predece son verbos modales.
 – Tú debes comer verduras. (consejo)  
 **tu halal yam som vege.**
 – Tú puede comer verduras. (permiso)  
-**tu ken yam som vege.**
+**tu kan yam som vege.**
 – Tú puede comer verduras. (habilidad)  
 **tu mus yam som vege.**
 – Tú tienes que comer verduras. (obligación)
@@ -200,7 +200,7 @@ con la structura de _A-no-A_.
 
 **tu yam no yam un piza?**
 – Tú comes o no comes una pizza?  
-**tu ken no ken yam un piza?**
+**tu kan no kan yam un piza?**
 – Tú puedes o no puedes comer una pizza?
 
 Finalmente, puede enfatiza la pregunta usando **sual**.

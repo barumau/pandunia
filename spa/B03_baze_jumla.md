@@ -453,10 +453,10 @@ inglés *name*.</small>
 **mi yau helpe.**
 – Necesito ayuda.
 
-**sual tu ken helpe mi?**
+**sual tu kan helpe mi?**
 – ¿Puedes ayudarme?
 
-**sual mi ken helpe tu?**
+**sual mi kan helpe tu?**
 – ¿Puedo ayudarte?
 
 **mi van helpe tu.**
@@ -607,31 +607,31 @@ Ayuda: Para hacer solicitudes directas, no pongas ningún pronombre.
 – No entiendo nada.
 
 
-### ken <small>poder</small>
+### kan <small>poder</small>
 
-**mi ken shofe karo.**
+**mi kan shofe karo.**
 – Puedo conducir un auto.
 
-**da no ken shofe karo.**
+**da no kan shofe karo.**
 – Él/ella no saber conducir un auto. (Literalmente:
 _Él/ella no puede conducir un auto._)
 
-**sual tu ken shuli da?**
+**sual tu kan shuli da?**
 – ¿Puedes arreglarlo?
 
-**sual tu ken pandunia?**
+**sual tu kan pandunia?**
 – ¿Puedes hablar pandunia?
 
-**mi ken pandunia.**
+**mi kan pandunia.**
 – Puedo hablar pandunia.
 
-**mi ken kam pandunia.**
+**mi kan kam pandunia.**
 – Puedo hablar un poco de pandunia.
 
-**mi no ken english.**
+**mi no kan english.**
 – No puedo hablar inglés.
 
-**perdon. mi no ken tu se bashe.**
+**perdon. mi no kan tu se bashe.**
 – Lo siento. No puedo hablar tu idioma.
 
 
@@ -664,7 +664,7 @@ _Él/ella no puede conducir un auto._)
 **audi mi!**
 – ¡Escúchame!
 
-**mi no ken audi tu.**
+**mi no kan audi tu.**
 – No puedo oírte.
 
 **plis loga mor bala.**
@@ -724,7 +724,7 @@ _Él/ella no puede conducir un auto._)
 **vi bashe pandunia.**
 – Nosotros hablamos pandunia.
 
-**sual tu ken bashe english?**
+**sual tu kan bashe english?**
 – ¿Puedes hablar inglés?
 
 **franse, espanya, portugal, rus**

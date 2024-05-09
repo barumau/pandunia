@@ -542,10 +542,10 @@ English *name*.</small>
 **mi yau helpe.**
 – I need help.
 
-**sual tu ken helpe mi?**
+**sual tu kan helpe mi?**
 – Can you help me?
 
-**sual mi ken helpe tu?**
+**sual mi kan helpe tu?**
 – Can I help you?
 
 **mi van helpe tu.**
@@ -697,30 +697,30 @@ Tip: To make direct requests, drop all the pronouns.
 – I don't understand at all.
 
 
-### ken <small>can</small>
+### kan <small>can</small>
 
-**mi ken shofe karo.**
+**mi kan shofe karo.**
 – I can drive a car.
 
-**da no ken shofe karo.**
+**da no kan shofe karo.**
 – He/she doesn't know how to drive a car.
 
-**sual tu ken shuli da?**
+**sual tu kan shuli da?**
 – Do you know how to fix it?
 
-**sual tu ken pandunia?**
+**sual tu kan pandunia?**
 – Can you speak Pandunia?
 
-**mi ken pandunia.**
+**mi kan pandunia.**
 – I can speak Pandunia.
 
-**mi ken kam pandunia.**
+**mi kan kam pandunia.**
 – I can speak a little Pandunia.
 
-**mi no ken english.**
+**mi no kan english.**
 – I can't speak English.
 
-**perdon. mi no ken tu se bashe.**
+**perdon. mi no kan tu se bashe.**
 – Sorry, I can't speak your language.
 
 
@@ -753,7 +753,7 @@ Tip: To make direct requests, drop all the pronouns.
 **audi mi!**
 – Listen to me!
 
-**mi no ken audi tu.**
+**mi no kan audi tu.**
 – I can't hear you.
 
 **plis loga mor bala.**
@@ -813,7 +813,7 @@ Tip: To make direct requests, drop all the pronouns.
 **vi bashe pandunia.**
 – We speak Pandunia.
 
-**sual tu ken bashe english?**
+**sual tu kan bashe english?**
 – Can you speak English?
 
 **franse, espanya, portugal, rus**
@@ -1043,7 +1043,7 @@ as a preposition or alone as the verb.
 **kira es 500 dolar a mes.**
 – The rent is 500 dollars in a month.
 
-**da no ken pei da kira.**
+**da no kan pei da kira.**
 – He/she can't pay the rent.
 
 **mi van sepe un karo a kira.**

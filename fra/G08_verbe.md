@@ -189,13 +189,13 @@ La préposition
 **as**
 indique la manière ou le style. Elle correspond en français aux prépositions _comme_, _que_, et _comme si_.
 
-**mi ken pandunia as guru.**
+**mi kan pandunia as guru.**
 – Je connais le pandunia comme un maître.
 
 **as**
 met en relation le verbe ou l'adjectif avec l'élément comparé.
 Dans l'exemple ci-dessus
-**ken**
+**kan**
 (savoir) est le verbe et
 **guru**
 (maître) est l'élément de comparaison.

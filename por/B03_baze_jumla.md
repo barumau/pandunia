@@ -452,10 +452,10 @@ inglês *name*.</small>
 **mi yau helpe.**
 – Preciso de ajuda.
 
-**sual tu ken helpe mi?**
+**sual tu kan helpe mi?**
 – Poderia me ajudar?
 
-**sual mi ken helpe tu?**
+**sual mi kan helpe tu?**
 – Eu posso ajudar?
 
 **mi van helpe tu.**
@@ -603,30 +603,30 @@ Para fazer pedidos diretos, não coloque nenhum pronome.
 – Não entendo nada.
 
 
-### ken <small>poder</small>
+### kan <small>poder</small>
 
-**mi ken shofe karo.**
+**mi kan shofe karo.**
 – Eu posso conduzir um carro.
 
-**da no ken shofe karo.**
+**da no kan shofe karo.**
 – Ele/ela não sabe dirigir um carro.
 
-**sual tu ken shuli da?**
+**sual tu kan shuli da?**
 – Você pode corrigi-lo?
 
-**sual tu ken pandunia?**
+**sual tu kan pandunia?**
 – Você pode falar Pandunia?
 
-**mi ken pandunia.**
+**mi kan pandunia.**
 – Eu posso falar pandúnia.
 
-**mi ken kam pandunia.**
+**mi kan kam pandunia.**
 – Eu posso falar um pouco de pandunia.
 
-**mi no ken english.**
+**mi no kan english.**
 – Não posso falar inglês.
 
-**perdon. mi no ken tu se bashe.**
+**perdon. mi no kan tu se bashe.**
 – Sinto muito. Eu não posso falar a sua língua.
 
 
@@ -659,7 +659,7 @@ Para fazer pedidos diretos, não coloque nenhum pronome.
 **audi mi!**
 – Escute-me!
 
-**mi no ken audi tu.**
+**mi no kan audi tu.**
 – Não consigo te ouvir.
 
 **plis loga mor bala.**
@@ -719,7 +719,7 @@ Para fazer pedidos diretos, não coloque nenhum pronome.
 **vi bashe pandunia.**
 – Falamos Pandúnia.
 
-**sual tu ken bashe english?**
+**sual tu kan bashe english?**
 – Você pode falar em Inglês?
 
 **franse, espanya, portugal, rus**

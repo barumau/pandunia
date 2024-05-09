@@ -395,18 +395,18 @@ Mam dwoje dzieci.
 
 
 
-### ken <small>wiedzieć, znać</small>
+### kan <small>wiedzieć, znać</small>
 
-**mi ken da.**
+**mi kan da.**
 Znam go/ją.
 
-**sual tu ken ye jen?**
+**sual tu kan ye jen?**
 Czy znasz tę osobę?
 
-**sual tumen ken semen?**
+**sual tumen kan semen?**
 Czy znacie się?
 
-**mimen ken semen de long.**
+**mimen kan semen de long.**
 Znamy się od długiego (czasu).
 
 

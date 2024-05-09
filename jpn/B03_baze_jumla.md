@@ -457,10 +457,10 @@ hide:
 **mi yau helpe.**
 私には助けが必要です。
 
-**sual tu ken helpe mi?**
+**sual tu kan helpe mi?**
 あなたは私を助けられますか?(=助けてくれませんか?/手伝ってくれませんか?)
 
-**sual mi ken helpe tu?**
+**sual mi kan helpe tu?**
 私はあなたを助けられますか?(=助けましょうか?/手伝いましょうか?)
 
 **mi van helpe tu.**
@@ -603,30 +603,30 @@ hide:
 私はあなたのことが全く理解できません。
 
 
-### ken <small>できる、可能</small>
+### kan <small>できる、可能</small>
 
-**mi ken shofe karo.**
+**mi kan shofe karo.**
 私は車を運転できます。
 
-**da no ken shofe karo.**
+**da no kan shofe karo.**
 彼/彼女/その人は車を運転できない。
 
-**sual tu ken shuli da?**
+**sual tu kan shuli da?**
 (あなたはそれを)修理できますか?
 
-**sual tu ken pandunia?**
+**sual tu kan pandunia?**
 (あなたは)パンドゥニアを話せますか?
 
-**mi ken pandunia.**
+**mi kan pandunia.**
 (私は)パンドゥニアを話せます。
 
-**mi ken kam pandunia.**
+**mi kan kam pandunia.**
 (私は)パンドゥニアを少し話せます。
 
-**mi no ken english.**
+**mi no kan english.**
 私は英語を話せません。
 
-**perdon. mi no ken tu se bashe.**
+**perdon. mi no kan tu se bashe.**
 すみません、あなたの話す言葉を(私は)話せません
 
 
@@ -659,7 +659,7 @@ hide:
 **audi mi!**
 聞いてください!
 
-**mi no ken audi tu.**
+**mi no kan audi tu.**
 (あなたの声が私には)聞えません。
 
 **plis loga mas bala.**
@@ -719,7 +719,7 @@ hide:
 **vi bashe pandunia.**
 私たちはパンドゥニアを話せます。
 
-**sual tu ken bashe nipon?**
+**sual tu kan bashe nipon?**
 (あなたは)日本語を話せますか?
 
 **english, franse, espanya, portugal, rus**
@@ -944,7 +944,7 @@ hide:
 **kira es 50000 yen a mes.**  
 ひと月のレンタル料は5万円です。
 
-**da no ken pei da kira.**  
+**da no kan pei da kira.**  
 彼/彼女/その人はレンタル料を払えなかった。
 
 **mi van sepe un karo a kira.**  

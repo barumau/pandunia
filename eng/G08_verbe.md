@@ -31,7 +31,7 @@ Also a noun can serve as subject.
 – The cat is an animal.
 
 
-## Indicating time and mood
+## Time and mood
 
 Verb tenses, moods and voices are expressed with auxiliary verbs,
 which come first in the verb phrase.
@@ -152,6 +152,410 @@ in order to give the command more force.
 – Come (you all)!
 
 
+### Summary
+
+<table>
+<colgroup>
+  <col style="width: 50%;">
+  <col style="width: 50%;">
+</colgroup>
+<tr>
+  <td>
+    <table style="width: 100%;">
+      <colgroup>
+        <col style="width: 50%;">
+        <col style="width: 50%;">
+      </colgroup>
+      <tr>
+        <td>mi yam.</td>
+        <td>I eat.</td>
+      </tr>
+      <tr>
+        <td>mi bi yam.</td>
+        <td>I am eating.</td>
+      </tr>
+      <tr>
+        <td>mi haf yam.</td>
+        <td>I have eaten.</td>
+      </tr>
+    </table>
+  </td>
+  <td>
+    <table style="width: 100%;">
+      <colgroup>
+        <col style="width: 50%;">
+        <col style="width: 50%;">
+      </colgroup>
+      <tr>
+        <td>mi no yam.</td>
+        <td>I don't eat.</td>
+      </tr>
+      <tr>
+        <td>mi no bi yam.</td>
+        <td>I'm not eating.</td>
+      </tr>
+      <tr>
+        <td>mi no haf yam.</td>
+        <td>I haven't eaten.</td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<tr>
+  <td>
+    <table style="width: 100%;">
+      <colgroup>
+        <col style="width: 50%;">
+        <col style="width: 50%;">
+      </colgroup>
+      <tr>
+        <td>mi did yam.</td>
+        <td>I ate.</td>
+      </tr>
+      <tr>
+        <td>mi did bi yam.</td>
+        <td>I was eating.</td>
+      </tr>
+      <tr>
+        <td>mi did haf yam.</td>
+        <td>I had eaten.</td>
+      </tr>
+    </table>
+  </td>
+  <td>
+    <table style="width: 100%;">
+      <colgroup>
+        <col style="width: 50%;">
+        <col style="width: 50%;">
+      </colgroup>
+      <tr>
+        <td>mi no did yam.</td>
+        <td>I didn't eat.</td>
+      </tr>
+      <tr>
+        <td>mi no did bi yam.</td>
+        <td>I was not eating.</td>
+      </tr>
+      <tr>
+        <td>mi no did haf yam.</td>
+        <td>I had not eaten.</td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<tr>
+  <td>
+    <table style="width: 100%;">
+      <colgroup>
+        <col style="width: 50%;">
+        <col style="width: 50%;">
+      </colgroup>
+      <tr>
+        <td>mi vil yam.</td>
+        <td>I will eat.</td>
+      </tr>
+      <tr>
+        <td>mi vil bi yam.</td>
+        <td>I will be eating.</td>
+      </tr>
+      <tr>
+        <td>mi vil haf yam.</td>
+        <td>I will have eaten.</td>
+      </tr>
+    </table>
+  </td>
+  <td>
+    <table style="width: 100%;">
+      <colgroup>
+        <col style="width: 50%;">
+        <col style="width: 50%;">
+      </colgroup>
+      <tr>
+        <td>mi no vil yam.</td>
+        <td>I won't eat.</td>
+      </tr>
+      <tr>
+        <td>mi no vil bi yam.</td>
+        <td>I won't be eating.</td>
+      </tr>
+      <tr>
+        <td>mi no vil haf yam.</td>
+        <td>I won't have eaten.</td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<tr>
+  <td>
+    <table style="width: 100%;">
+      <colgroup>
+        <col style="width: 50%;">
+        <col style="width: 50%;">
+      </colgroup>
+      <tr>
+        <td>mi vud yam.</td>
+        <td>I would eat.</td>
+      </tr>
+      <tr>
+        <td>mi vud bi yam.</td>
+        <td>I would be eating.</td>
+      </tr>
+      <tr>
+        <td>mi vud haf yam.</td>
+        <td>I would have eaten.</td>
+      </tr>
+    </table>
+  </td>
+  <td>
+    <table style="width: 100%;">
+      <colgroup>
+        <col style="width: 50%;">
+        <col style="width: 50%;">
+      </colgroup>
+      <tr>
+        <td>mi no vud yam.</td>
+        <td>I wouldn't eat.</td>
+      </tr>
+      <tr>
+        <td>mi no vud bi yam.</td>
+        <td>I wouldn't be eating.</td>
+      </tr>
+      <tr>
+        <td>mi no vud haf yam.</td>
+        <td>I wouldn't have eaten.</td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<tr>
+  <td>
+    <table style="width: 100%;">
+      <colgroup>
+        <col style="width: 50%;">
+        <col style="width: 50%;">
+      </colgroup>
+      <tr>
+        <td>mi shud yam.</td>
+        <td>I should eat.</td>
+      </tr>
+      <tr>
+        <td>mi shud bi yam.</td>
+        <td>I should be eating.</td>
+      </tr>
+      <tr>
+        <td>mi shud haf yam.</td>
+        <td>I should have eaten.</td>
+      </tr>
+    </table>
+  </td>
+  <td>
+    <table style="width: 100%;">
+      <colgroup>
+        <col style="width: 50%;">
+        <col style="width: 50%;">
+      </colgroup>
+      <tr>
+        <td>mi no shud yam.</td>
+        <td>I shouldn't eat.</td>
+      </tr>
+      <tr>
+        <td>mi no shud bi yam.</td>
+        <td>I shouldn't be eating.</td>
+      </tr>
+      <tr>
+        <td>mi no shud haf yam.</td>
+        <td>I shouldn't have eaten.</td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<tr>
+  <td>
+    <table style="width: 100%;">
+      <colgroup>
+        <col style="width: 50%;">
+        <col style="width: 50%;">
+      </colgroup>
+      <tr>
+        <td>mi shud yam.</td>
+        <td>I should eat.</td>
+      </tr>
+      <tr>
+        <td>mi shud bi yam.</td>
+        <td>I should be eating.</td>
+      </tr>
+      <tr>
+        <td>mi shud haf yam.</td>
+        <td>I should have eaten.</td>
+      </tr>
+    </table>
+  </td>
+  <td>
+    <table style="width: 100%;">
+      <colgroup>
+        <col style="width: 50%;">
+        <col style="width: 50%;">
+      </colgroup>
+      <tr>
+        <td>mi no shud yam.</td>
+        <td>I shouldn't eat.</td>
+      </tr>
+      <tr>
+        <td>mi no shud bi yam.</td>
+        <td>I shouldn't be eating.</td>
+      </tr>
+      <tr>
+        <td>mi no shud haf yam.</td>
+        <td>I shouldn't have eaten.</td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<tr>
+  <td>
+    <table style="width: 100%;">
+      <colgroup>
+        <col style="width: 50%;">
+        <col style="width: 50%;">
+      </colgroup>
+      <tr>
+        <td>mi kan yam.</td>
+        <td>I can eat.</td>
+      </tr>
+      <tr>
+        <td>mi kan bi yam.</td>
+        <td>I can be eating.</td>
+      </tr>
+      <tr>
+        <td>mi kan haf yam.</td>
+        <td>I may have eaten.</td>
+      </tr>
+      <tr>
+        <td>mi did kan yam.</td>
+        <td>I could eat.</td>
+      </tr>
+      <tr>
+        <td>mi did kan haf yam.</td>
+        <td>I could have eaten.</td>
+      </tr>
+      <tr>
+        <td>mi did kan bi yam.</td>
+        <td>I could have been eating.</td>
+      </tr>
+      <tr>
+        <td>mi vil kan yam.</td>
+        <td>I will be able to eat.</td>
+      </tr>
+    </table>
+  </td>
+  <td>
+    <table style="width: 100%;">
+      <colgroup>
+        <col style="width: 50%;">
+        <col style="width: 50%;">
+      </colgroup>
+      <tr>
+        <td>mi no kan yam.</td>
+        <td>I can't eat.</td>
+      </tr>
+      <tr>
+        <td>mi no kan bi yam.</td>
+        <td>I can't be eating.</td>
+      </tr>
+      <tr>
+        <td>mi no kan haf yam.</td>
+        <td>I may not have eaten.</td>
+      </tr>
+      <tr>
+        <td>mi no did kan yam.</td>
+        <td>I couldn't eat.</td>
+      </tr>
+      <tr>
+        <td>mi no did kan haf yam.</td>
+        <td>I couldn't have eaten.</td>
+      </tr>
+      <tr>
+        <td>mi no did kan bi yam.</td>
+        <td>I couldn't have been eating.</td>
+      </tr>
+      <tr>
+        <td>mi no vil kan yam.</td>
+        <td>I won't be able to eat.</td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<tr>
+  <td>
+    <table style="width: 100%;">
+      <colgroup>
+        <col style="width: 50%;">
+        <col style="width: 50%;">
+      </colgroup>
+      <tr>
+        <td>mi did vil yam.</td>
+        <td>I was going to eat.</td>
+      </tr>
+    </table>
+  </td>
+  <td>
+    <table style="width: 100%;">
+      <colgroup>
+        <col style="width: 50%;">
+        <col style="width: 50%;">
+      </colgroup>
+      <tr>
+        <td>mi no did vil yam.</td>
+        <td>I wasn't going to eat.</td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<tr>
+  <td>
+    <table style="width: 100%;">
+      <colgroup>
+        <col style="width: 50%;">
+        <col style="width: 50%;">
+      </colgroup>
+      <tr>
+        <td>yam!</td>
+        <td>Eat!</td>
+      </tr>
+      <tr>
+        <td>yu shal yam!</td>
+        <td>You shall eat!</td>
+      </tr>
+      <tr>
+        <td>vi shal yam!</td>
+        <td>Let's eat!</td>
+      </tr>
+    </table>
+  </td>
+  <td>
+    <table style="width: 100%;">
+      <colgroup>
+        <col style="width: 50%;">
+        <col style="width: 50%;">
+      </colgroup>
+      <tr>
+        <td>no yam!</td>
+        <td>Don't eat!</td>
+      </tr>
+      <tr>
+        <td>yu no shal yam!</td>
+        <td>You shall not eat!</td>
+      </tr>
+      <tr>
+        <td>vi no shal yam!</td>
+        <td>Let's not eat!</td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
+
+
 ## Transitivity
 
 In general, there are three types of verbs.
@@ -181,7 +585,7 @@ the first verb (an auxiliary verb) is something that the subject possesses
 and the second verb is something that the subject does (when there is an object in the end)
 or experiences (when there is no object).
 
-**mi ken kitabe da javabe.**  
+**mi kan kitabe da javabe.**  
 ≈ *I have the ability to write the answer.*  
 – I can write the answer.  
 **mi halal kitabe da javabe.**  

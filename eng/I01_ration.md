@@ -209,10 +209,10 @@ Pandunia has a regular stress accent.
 The place of the stress is decided by two simple rules.
 In the examples that follow, primary accent is indicated by an acute accent (*á*) and secondary accent by a grave accent (*à*) over the first vowel of a stressed syllable.
 
-1. Basic words are stressed on the syllable that is before the last consonant of the word.  
-   **hálo! mí vól lóga da háu dúnia báshe.**  
+1. Root words are stressed on the syllable that is before the last consonant of the word.  
+   **hálo! mí vól lóga da gúde dúnia báshe.**  
    (_Hello! I want to speak the good world language._)
-2. Compound words are stressed according to their component words so that the primary stress is in the main word.  
+2. Derived and compound words are stressed according to their components so that the primary stress is in the main word.  
    **pandúnia es dèmokrátike báshe.**  
    (_Pandunia is a democratic language._)
 
@@ -445,7 +445,7 @@ is used when the object of the action comes first in the sentence.
 but it is also close to some uses of English *to be*.
 
     English:   It can not be eaten.
-    Pandunia:  da no ken be yam.
+    Pandunia:  da no kan be yam.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".

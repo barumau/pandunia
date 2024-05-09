@@ -21,9 +21,9 @@ Almost every letter and letter-combination indicates always the same sound.
 
 ### (3) Regular stress accent
 
-Basic words are stressed on the syllable that is before the last consonant of the word, f.ex.
-**háu** ('good'), **dúnia** ('world'), **báshe** ('language'), **amén** ('amen').
-Compound words are stressed according to their component words so that the main component carries the primary stress
+Root words are stressed on the syllable that is before the last consonant of the word, f.ex.
+**háu** ('nice'), **dúnia** ('world'), **báshe** ('language'), **amén** ('amen').
+Derived words and compound words are stressed according to their components so that the main component carries the primary stress
 and other components may carry secondary stress, f.ex.
 **trabáshe** ('translate'), **dúnialìsme** ('globalism'), **bàshe skóla** ('language school').
 Primary accent is indicated here by an acute accent (*á*) and secondary accent by a grave accent (*à*).

@@ -433,12 +433,12 @@ W wielu zdaniach, czasownik wyraża wystarczająco wiele.
 Przyimek **ka** wyraża sposób lub styl.
 Odpowiada polskojęzycznym przyimkom _jak_, _niż_, _jakby_.
 
-**mi ken pandunia ka guru.**
+**mi kan pandunia ka guru.**
 – Znam Pandunię jak mistrz.
 
 **ka** wiąże czasownik lub przymiotnik z punktem odniesienia.
 W powyższym przykładzie
-**ken**
+**kan**
 (wiedzieć) jest czasownikiem, a
 **guru**
  (mistrz) jest punktem odniesienia.

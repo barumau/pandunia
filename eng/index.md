@@ -46,15 +46,19 @@ A B C Ch D E F G H I J K L M N O P R S Sh T U V X Y Z
 
 Only one letter is pronounced different than what is normal in English:
 **c** = ts as in _cats_.
+However, this letter is used rarely alone.
+It is normally part of the digraph **ch**, which is pronounced as in the English word *church*.
 
 All vowels are pure vowels.
-The letter **e** may be pronounced as the central vowel /ə/ in unaccented syllables.
+They are pronounced as in
+<i><u>a</u>re th<u>e</u>re thr<u>ee</u> <u>o</u>r tw<u>o</u></i>.
 
 The spelling of Pandunia is nearly phonetic.
 One sound = one letter.
 
-The stressed syllable is the first one in short words and the second one in longer words.  
-**méni pérson kén tólke da Énglish in Amérika.**
+The stress is on that syllable that is before the last consonant of the root word.
+Prefixes and suffixes are either unstressed or they may carry a secondary stress.  
+**méni jén kén tólke Englísh in Amérika.**
 – Many people can speak English in America.
 
 Words stay always the same in Pandunia.

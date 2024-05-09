@@ -488,10 +488,10 @@ Ni konas unu la alian longe.
 **mi yau helpe.**
 Mi bezonas helpon.
 
-**sual tu ken helpe mi?**
+**sual tu kan helpe mi?**
 Ĉu vi povas helpi min?
 
-**sual mi ken helpe tu?**
+**sual mi kan helpe tu?**
 Ĉu mi povas helpi vin?
 
 **mi van helpe tu.**
@@ -641,30 +641,30 @@ Mi ne sufiĉe komprenis vin.
 Mi komprenas nenion.
 
 
-### ken <small>povi</small>
+### kan <small>povi</small>
 
-**mi ken shofe karo.**
+**mi kan shofe karo.**
 Mi povas konduki aŭton.
 
-**da no ken shofe karo.**
+**da no kan shofe karo.**
 Ŝi/li ne povas konduki aŭton.
 
-**sual tu ken shuli da?**
+**sual tu kan shuli da?**
 Ĉu vi povas ripari ĝin?
 
-**sual tu ken pandunia?**
+**sual tu kan pandunia?**
 Ĉu vi povas paroli pandunion?
 
-**mi ken pandunia.**
+**mi kan pandunia.**
 Mi povas pandunion.
 
-**mi ken kam pandunia.**
+**mi kan kam pandunia.**
 Mi povas ete pandunion.
 
-**mi no ken english.**
+**mi no kan english.**
 Mi ne povas paroli la anglan.
 
-**perdon. mi no ken tu se bashe.**
+**perdon. mi no kan tu se bashe.**
 Pardonon, mi ne povas paroli vian lingvon.
 
 
@@ -697,7 +697,7 @@ Kato diras mjaŭ.
 **audi mi!**
 Aŭskulti min!
 
-**mi no ken audi tu.**
+**mi no kan audi tu.**
 Mi ne povas aŭdi vin.
 
 **plis loga mor bala.**
@@ -756,7 +756,7 @@ Bonvolu skribi ĝin ĉi tie!
 **vi bashe pandunia.**
 Ni parolas pandunion.
 
-**sual tu ken bashe english?**
+**sual tu kan bashe english?**
 Ĉu vi povas paroli la anglan?
 
 **franse, espanya, portugal, rus**

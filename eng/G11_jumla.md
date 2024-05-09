@@ -529,7 +529,7 @@ and the second verb indicates what the causer wants the agent to do.
 – I advise you to eat vegetables. (advice)  
 **mi halal tu yam vege.**
 – I allow you to eat vegetables. (permission)  
-**mi ken tu yam vege.**
+**mi kan tu yam vege.**
 – I enable you to eat vegetables. (ability)  
 **mi mus tu yam vege.**
 – I compel you to eat vegetables. (obligation)  
@@ -614,9 +614,9 @@ All verbs are about the same subject.
  
 1. **mi go to haus.**
    – I go home.
-2. **mi ken go to haus.**
+2. **mi kan go to haus.**
    – I can go home.
-3. **mi van ken go to haus.**
+3. **mi van kan go to haus.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
@@ -629,7 +629,7 @@ The verbs before it are modal verbs.
 – You had better eat vegetables. (advice)  
 **tu halal yam som vege.**
 – You may eat vegetables. (permission)  
-**tu ken yam som vege.**
+**tu kan yam som vege.**
 – You can eat vegetables. (ability)  
 **tu mus yam som vege.**
 – You must eat vegetables. (obligation)
@@ -729,7 +729,7 @@ with the _A-not-A_ structure.
 
 **tu yam no yam un piza?**
 – Do you or don't you eat a pizza?  
-**tu ken no ken yam un hol piza?**
+**tu kan no kan yam un hol piza?**
 – Can you or can't you eat a whole pizza?
 
 Finally, you can emphasize the question by using **sual**.
