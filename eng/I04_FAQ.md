@@ -26,7 +26,7 @@ The creator of the language, Risto Kupsala,
 had his first ideas about an evenly global auxiliary language in the early 2000s.
 He experimented different ideas together with other people.
 Pandunia started to take form in 2017.
-The final version of the language is published in 2023
+The final version of the language was published in 2024
 – but of course languages evolve all the time!
 
 #### What does the flag of Pandunia represent?

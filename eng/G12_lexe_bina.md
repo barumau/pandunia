@@ -669,6 +669,33 @@ expresses 'small size'.
 → **sigaret**
 'cigarette'
 
+#### -fa ~ -ifa
+
+The suffix
+**-(i)fa**
+means to make or turn into the thing that is indicated by the base word.
+
+**mei**
+'beautiful'
+→ **meifa**
+'make beautiful, beautify'  
+**komple**
+'complex'
+→ **komplifa**
+'make complex, complexify'  
+**long**
+'long'
+→ **longifa**
+'make long, lengthen'  
+**un**
+'one'
+→ **unifa**
+'yhdistää'  
+**klare**
+'clear'
+→ **klarifa**
+'make clear, clarify'
+
 #### -file ~ ofile
 
 The suffix
@@ -761,29 +788,6 @@ where it can be understood as collection of scientific knowledge and practices.
 'biology, systematic study of organic life'  
 **geolojia**
 'geology, systematic study of the ground'
-
-#### -ife ~ -tife
-
-The suffix
-**-(t)ife**
-means to make or turn into the thing that is indicated by the base word.
-
-**komple**
-'complex'
-→ **komplife**
-'make complex, complexify'  
-**long**
-'long'
-→ **longife**
-'make long, lengthen'  
-**un**
-'one'
-→ **unife**
-'yhdistää'  
-**klare**
-'clear'
-→ **klarife**
-'make clear, clarify'
 
 #### -ik ~ -tik
 
