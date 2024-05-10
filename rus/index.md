@@ -6,7 +6,7 @@ hide:
 
 # Пандуния
 
-**sal, dunia!**
+**halo, dunia!**
 – Привет, мир!
 
 Добро пожаловать, чтобы узнать больше о Пандунийском,
@@ -85,7 +85,7 @@ hide:
 Пожалуйста, помогите [перевести этот сайт](trabasha_neteloka.md)!
 -->
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen bashe pandunia!")  
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "vi bashe pandunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 Вы можете связаться с создателем и главным разработчиком Пандунийского, Ристо Купсала, по электронной почте:
@@ -95,5 +95,5 @@ hide:
 
 ![](http://www.pandunia.info/grafe/bandera.png "Флаг Пандунии")
 
-**de pan dunia, to pan dunia**  
+**of hol dunia, to hol dunia**  
 – от всего мира, для всего мира.
