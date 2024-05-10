@@ -137,7 +137,7 @@ Antes de un adjetivo, **kua li** también significa «cuán».
 – ¿Cuán muchos? (¿Cuántos?)  
 **kua li dai?**
 – ¿Cuán grande?  
-**kua li lil?**
+**kua li let?**
 – ¿Cuán pequeño?
 
 **tu have kua li dai mau?**

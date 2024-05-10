@@ -189,7 +189,7 @@ Anche gli aggettivi vengono trasformati in domanda con **kua li**.
 – Quanto poco?  
 **kua li dai?**
 – Quanto grande?  
-**kua li lil?**
+**kua li let?**
 – Quanto piccolo?
 
 **tu have kua li dai mau?**

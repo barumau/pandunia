@@ -246,7 +246,7 @@ Adjectives are questioned with **kua li**.
 – How few?  
 **kua li dai?**
 – How big?  
-**kua li lil?**
+**kua li let?**
 – How small?
 
 **tu have kua li dai mau?**

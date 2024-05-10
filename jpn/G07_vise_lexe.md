@@ -50,7 +50,7 @@
 – 彼女/彼/その人は**自身を**見ます。  
 **vi vize se.**
 – 私達は**自身を**見た。  
-**shau mau ya lingue se**.
+**let mau ya lingue se**.
 – 小さな猫は**自身(の体)を**舐めた。
 
 「お互い」にあたる表現は semen を使ってつくります。
@@ -151,7 +151,7 @@ mi vol **da hir** buke.
 – いくつ、いくら(**どれくらい**多い)?  
 **kua li dai?**
 – **どのくらい**大きい?  
-**kua li shau?**
+**kua li let?**
 – **どのくらい**小さい?
 
 **tu ave kua li dai mau?**

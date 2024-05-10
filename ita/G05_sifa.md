@@ -36,7 +36,7 @@ In pandunia gli "aggettivi" sono modificatori posizionati davanti al sostantivo 
 
 Lo stesso sostantivo può essere modificato da due o più modificatori.
 
-**un lil nove karo**
+**un let nove karo**
 – una macchina piccola e nuova
 
 

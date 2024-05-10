@@ -115,7 +115,7 @@ Adjektivoj estas demandataj per **kua li**.
 – Kiom multe?  
 **kua li dai?**
 – Kiom granda?  
-**kua li lil?**
+**kua li let?**
 – Kiom eta?
 
 **tu have kua li dai mau?**

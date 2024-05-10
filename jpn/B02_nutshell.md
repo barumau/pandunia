@@ -95,7 +95,7 @@ mi **sha** ame tu.
 
 形容詞は修飾する名詞の前に置きます。
 
-**neu idea**
+**nove idea**
 – 新しいアイデア  
 
 比較に使う形容詞は次の通りです。
@@ -108,7 +108,7 @@ mi **sha** ame tu.
 **ka**
 の後に置かれます。
 
-ye idea e **mas** neu _ka_ vo idea.
+ye idea e **mas** nove _ka_ vo idea.
 – このアイデアはあのアイデア**よりも**新しいです。
 
 副詞は通常、修飾する単語の前にあります。

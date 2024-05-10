@@ -424,7 +424,7 @@ hide:
 **da no ave pesa.**
 彼/彼女/その人はお金を持っていません。
 
-**mi van ave un neu telefon.**
+**mi van ave un nove telefon.**
 私は新しい電話が持ちたい(=所有したい)です。
 
 **sual tu ave pikin?**

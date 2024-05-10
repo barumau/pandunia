@@ -51,24 +51,24 @@ Modyfikator może opisywać też inny modyfikator.
 Na przykład
 **dai**
 (duży) i
-**shau**
+**let**
 (mały) mogą być używane jako przysłówki intensyfikujące.
 
 **dai jen**
 – duża osoba  
-**shau jen**
+**let jen**
 – mała osoba  
 **mei jen**
 – ładna osoba
 
 **dai di mei jen**
 – bardzo ładna osoba  
-**shau di mei jen**
+**let di mei jen**
 – trochę ładna osoba
 
 Modyfikatory mogą być oddzielane **i** (i).
 
-**shau i mei jen**
+**let i mei jen**
 – mała i ładna osoba
 
 

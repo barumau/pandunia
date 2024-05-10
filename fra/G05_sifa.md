@@ -16,7 +16,7 @@ Un modificateurs est un mot qui ajoute une qualité ou une description à un aut
 
 Deux adjectifs ou plus peuvent modifier un même mot.
 
-**un lil nove karo**
+**un let nove karo**
 – petite voiture neuve
 
 L'adjectif peut se placer aussi après le nom.
@@ -52,19 +52,19 @@ Un modificateur peut également modifier un autre modificateur.
 Ainsi,
 **dai**
 (grand) et
-**lil**
+**let**
 (petit) peuvent être utilisés comme des adverbes d'intensification.
 
 **un dai jen** 
 – un grand individu  
-**un lil jen** 
+**un let jen** 
 – un petit individu  
 **un mei jen** 
 – un bel individu
 
 **un dai li mei jen** 
 – un très bel individu  
-**un lil li mei jen** 
+**un let li mei jen** 
 – un assez bel individu
 
 
