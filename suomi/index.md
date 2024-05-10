@@ -98,9 +98,9 @@ Adjektiiveja ja adverbeja vertaillaan sanoilla:
 **as**
 – yhtä...kuin.
 
-**mi es mor gude dan yu.**
+**mi es mor gud dan yu.**
 – Minä olen parempi (_enemmän hyvä_) kuin sinä.  
-**no, mi es as gude as yu.**
+**no, mi es as gud as yu.**
 – Ei, minä olen yhtä hyvä kuin sinä.  
 **da bi tolke mor faste dan yu.**
 – Hän puhuu nopeammin (_enemmän nopeasti_) kuin sinä.

@@ -104,7 +104,7 @@ olla
 nainen  
 **frende**
 ystävä  
-**gude**
+**gud**
 hyvä  
 **hevan**
 eläin

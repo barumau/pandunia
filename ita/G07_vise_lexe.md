@@ -104,9 +104,9 @@ indica cose che sono lontane da chi parla.
 
 I dimostrativi possono fungere da soggetto e complemento oggetto proprio come i sostantivi.
 
-**da hir es gude.**
+**da hir es gud.**
 – Questo è buono.  
-**da der es bade.**
+**da der es bad.**
 – Quello è cattivo.  
 **tu van da hir, he?**
 – Vuoi questo?  

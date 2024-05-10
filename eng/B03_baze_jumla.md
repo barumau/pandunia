@@ -257,13 +257,13 @@ In fact, the previous question is simply abbreviated from
 **mi sual tu es dokter**
 (I ask, you are doctor?) by dropping out the first word.
 
-**sual tu gude?**
+**sual tu gud?**
 – How are you? (Literally: _Are you good?_)  
-**mi gude.**
+**mi gud.**
 – I'm good.  
 **tu ne?**
 – And you?  
-**mi no gude.**
+**mi no gud.**
 – I'm not good.
 
 <small>Etymology. **sual** is from
@@ -302,14 +302,14 @@ Korean 예 (ye).</small>
 **mi no es dokter.**
 – I'm not a doctor.
 
-**sual tu gude?**
+**sual tu gud?**
 – Are you well?  
-**ye. mi gude.**
+**ye. mi gud.**
 – Yes, I'm well.
 
-**sual tu es gude?**
+**sual tu es gud?**
 – Are you well?  
-**no, mi no es gude.**
+**no, mi no es gud.**
 – No, I'm not well.
 
 You can use
@@ -494,7 +494,7 @@ English *name*.</small>
 
 ### have <small>have</small>
 
-**mi have un gude haus.**
+**mi have un gud haus.**
 – I have a good house.
 
 **da no have mone.**
@@ -573,7 +573,7 @@ can refer to one or more apples.
 **sual tu yam kafe?**
 – Do you drink coffee?
 
-**ye. mi yam kafe.**
+**yes. mi yam kafe.**
 – Yes, I drink coffee.
 
 Tip: Meaning of
@@ -762,7 +762,7 @@ Tip: To make direct requests, drop all the pronouns.
 **mi audi muzike.**
 – I listen to music.
 
-**tu audi kua sorte muzike?**
+**tu audi kua tipe li muzike?**
 – What kind of music do you listen to?
 
 
@@ -789,7 +789,7 @@ Tip: To make direct requests, drop all the pronouns.
 **"mau" ye seme kua?**
 – What does "mau" mean?
 
-**da seme un sorte of hevan.**
+**da seme un tipe of hevan.**
 – It means a kind of animal.
 
 **mi no aha da seme kua.**
@@ -1078,10 +1078,10 @@ means _to buy_.
 **sual da es neu?**
 – Is it new?
 
-**kua es mas gude?**
+**kua es mas gud?**
 – Which is better?
 
-**ye es masim gude (de pan).**
+**ye es masim gud (de pan).**
 – This is the best (of all).
 
 **da kosta kua?**

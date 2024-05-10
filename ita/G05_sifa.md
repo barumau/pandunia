@@ -31,7 +31,7 @@ In pandunia gli "aggettivi" sono modificatori posizionati davanti al sostantivo 
 – molti tavoli _grandi_  
 **meni _gau_ meza**
 – molti tavoli _alti_  
-**un _gude_ jen**
+**un _gud_ jen**
 – una _buona_ persona
 
 Lo stesso sostantivo può essere modificato da due o più modificatori.
@@ -47,7 +47,7 @@ si posiziona immediatamente davanti al verbo.
 
 **tu _rapide_ loga.**
 – Tu parli _velocemente_.  
-**di jen _gude_ kitabe.**
+**di jen _gud_ kitabe.**
 – Loro scrivono _bene_.
 
 È d'uso comune inserire la particella
@@ -67,7 +67,7 @@ La particella
 **li**
 si usa anche quando un modificatore ne modifica un altro.
 
-**un _dai li_ gude buke**
+**un _dai li_ gud buke**
 – un libro _molto_ buono  
 **_bala li_ lovente jen**
 – molte persone _fortemente_ affettuose
@@ -112,7 +112,7 @@ Il significato è lo stesso di quello ottenuto quando l'avverbio composto modifi
 
 **mi van loga _vere muche_.**
 – Voglio parlare moltissimo.  
-**sual tu sona _bas gude_?**
+**sual tu sona _bas gud_?**
 – Hai dormito abbastanza bene?
 
 

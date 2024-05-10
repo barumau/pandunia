@@ -83,7 +83,7 @@ They are put before the word or phrase that they qualify.
 – one big chair  
 **du dai kursi**
 – two big chairs  
-**tri hau kursi**
+**tri gud kursi**
 – three good chairs
 
 

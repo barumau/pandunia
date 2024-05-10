@@ -41,8 +41,10 @@ The possessive pronouns are:
 
 The interrogative pronouns are:
 **kua**
-_what_ or _who_,
-**kua se**
+_what_,
+**hu**
+_who_,
+**hu se**
 _whose_.
 
 

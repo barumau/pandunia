@@ -200,13 +200,13 @@ De hecho, la pregunta anterior es una sencilla abreviación de
 **mi sual tu es dokter**
 (Yo pregunto, ¿eres doctor?), en que se omite la primera palabra.
 
-**sual tu gude?**
+**sual tu gud?**
 – ¿Cómo estás? (Literalmente: _¿Estás bien?_)  
-**mi gude.**
+**mi gud.**
 – Estoy bien.  
 **tu ne?**
 – ¿Y tú?  
-**mi no gude.**
+**mi no gud.**
 – No estoy bien.
 
 
@@ -234,14 +234,14 @@ De hecho, la pregunta anterior es una sencilla abreviación de
 **mi no es dokter.**
 – No soy doctor/a.
 
-**sual tu gude?**
+**sual tu gud?**
 – ¿Estás bien?  
-**ye. mi gude.**
+**ye. mi gud.**
 – Sí, estoy bien.
 
-**sual tu es gude?**
+**sual tu es gud?**
 – ¿Estás bien?  
-**no, mi no es gude.**
+**no, mi no es gud.**
 – No, no estoy bien.
 
 Puedes usar
@@ -415,7 +415,7 @@ inglés *name*.</small>
 
 ### have <small>tener</small>
 
-**mi have un gude haus.**
+**mi have un gud haus.**
 – Tengo una buena casa.
 
 **da no have mone.**

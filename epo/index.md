@@ -94,9 +94,9 @@ Oni komparas adjektivojn kaj adverbojn per helpantaj vortoj:
 **as**
 – tiom kiel.
 
-**mi es mor gude dan yu.**
+**mi es mor gud dan yu.**
 – Mi estas pli bona ol vi.  
-**no, mi es as gude as yu.**
+**no, mi es as gud as yu.**
 – Ne, mi estas tiom bona kiel vi.  
 **da bi tolke mor faste dan yu.**
 – Li aŭ ŝi parolas pli rapide ol vi.

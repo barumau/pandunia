@@ -14,7 +14,7 @@ En pandunio, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
 – grandaj tabloj  
 **meni _gau_ meza**
 – altaj tabloj  
-**un _gude_ jen**
+**un _gud_ jen**
 – bona homo
 
 Kiam modifovorto sekvas substantivon, ĝi rolas kvazaŭ kiel verbo, kiu indikas staton.
@@ -40,7 +40,7 @@ Kompreneble, eblas ke modifovortoj aperu je ambaŭ flankoj de substantivo.
 
 **tu _rapide_ loga.**
 – Vi _rapide_ parolas.  
-**di jen _gude_ kitabe.**
+**di jen _gud_ kitabe.**
 – Ili _bone_ skribas.
 
 **tu _mei li_ kitabe.**
@@ -56,7 +56,7 @@ Aldoni partiklon
 **li**
 inter la modifanta kaj la modifata.
 
-**un _dai li_ gude buke**
+**un _dai li_ gud buke**
 – _grande_ bona libro  
 **_bala li_ lovente jen**
 – _forte_ amantaj homoj

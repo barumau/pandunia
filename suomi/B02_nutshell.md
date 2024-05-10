@@ -173,7 +173,7 @@ Verbiä luonnehditaan panemalla adverbimääre sen eteen.
 Toisinaan adverbi merkitään pikkusanalla
 **li**.
 
-**mi gude (li) vize tu.**
+**mi gud (li) vize tu.**
 – Minä hyvin näen sinut.  
 **tu vize li love da.**
 – Sinä nähtävästi rakastat häntä.

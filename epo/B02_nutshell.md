@@ -173,7 +173,7 @@ Aldonu modifvorton antaŭ verboj.
 La adverboj povas esti markita de vorteto
 **li**.
 
-**mi gude (li) vize tu.**
+**mi gud (li) vize tu.**
 – Mi bone vidas vin.  
 **tu vize li love da.**
 – Vi vidable amas lin aŭ ŝin.

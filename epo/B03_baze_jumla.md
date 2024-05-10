@@ -233,13 +233,13 @@ Fakte, la lasta demando estas simple mallonga manero por diri
 (Mi demandas: Vi estas doktoro?).
 Oni nur forlasis la unuan pronomon.
 
-**sual tu gude?**
+**sual tu gud?**
 Kiel vi fartas? (Laŭvorte: _Ĉu vi bonas?_)  
-**mi gude.**
+**mi gud.**
 Mi fartas bone.  
 **tu ne?**
 Kaj vi?  
-**mi no gude.**
+**mi no gud.**
 Mi ne fartas bone.
 
 <small>Etimologio. **sual** venas el
@@ -272,14 +272,14 @@ Mi ne estas Sara.
 **mi no es dokter.**
 Mi ne estas doktoro.
 
-**sual tu gude?**
+**sual tu gud?**
 Ĉu vi fartas bone?  
-**ye. mi gude.**
+**ye. mi gud.**
 Jes, mi estas bone.
 
-**sual tu es gude?**
+**sual tu es gud?**
 Ĉu vi fartas bone?  
-**no, mi no es gude.**
+**no, mi no es gud.**
 Ne, mi ne estas bone.
 
 Vi povas uzi
@@ -450,7 +450,7 @@ angla *name*.</small>
 
 ### have <small>havi</small>
 
-**mi have un gude haus.**
+**mi have un gud haus.**
 Mi havas bonan domon.
 
 **da no have mone.**

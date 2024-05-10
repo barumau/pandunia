@@ -31,7 +31,7 @@ In Pandunia, "adjectives" are modifiers that are placed before the noun that the
 – _big_ tables  
 **meni _gau_ meza**
 – high tables  
-**un _gude_ jen**
+**un _gud_ jen**
 – a good person
 
 Two or more modifiers can modify the same noun.
@@ -47,7 +47,7 @@ is placed immediately before the verb.
 
 **tu _rapide_ loga.**
 – You talk _fast_.  
-**di jen _gude_ kitabe.**
+**di jen _gud_ kitabe.**
 – They write _well_.
 
 It is common to put the modifying particle
@@ -67,7 +67,7 @@ The particle
 **li**
 is used also when a modifier modifies another one.
 
-**un _dai li_ gude buke**
+**un _dai li_ gud buke**
 – a _greatly_ good book  
 **_bala li_ lovente jen**
 – _strongly_ loving people
@@ -112,7 +112,7 @@ The meaning is the same like when the compound adverb modifies the main verb.
 
 **mi van loga _vere muche_.**
 – I want to speak very much.  
-**sual tu sona _bas gude_?**
+**sual tu sona _bas gud_?**
 – Did you sleep well enough?
 
 

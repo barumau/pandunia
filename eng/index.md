@@ -101,9 +101,9 @@ Comparison is done with helping words:
 **sim**
 – as, same, equally.
 
-**mi es mor gude dan yu.**
+**mi es mor gud dan yu.**
 – I am better (_more good_) than you.  
-**no, mi es sim gude dan yu.**
+**no, mi es sim gud dan yu.**
 – No, I am as good as you.  
 **da bi tolke mor faste dan yu.**
 – He or she talks faster (_more fast_) than you.

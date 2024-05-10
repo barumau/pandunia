@@ -175,7 +175,7 @@ To modify a verb, put adverbs before it.
 The adverb can be tagged with
 **li**.
 
-**mi gude (li) vize tu.**
+**mi gud (li) vize tu.**
 – I see you well.  
 **tu vize li love da.**
 – You seemingly love him/her.

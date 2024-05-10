@@ -227,14 +227,14 @@ En fait, la dernière question est une simple abréviation de
 **mi**
 –, est supprimé.
 
-**sual tu gude?**
+**sual tu gud?**
 – Comment vas-tu ? (litéralement : _Est-ce que tu vas bien_)  
-**mi gude.**
+**mi gud.**
 – Ça va. | Je vais bien.  
 
 **tu ne?**
 – Et toi ?  
-**mi no gude.**
+**mi no gud.**
 – Ça ne vas pas | Je ne vais pas bien.
 
 <small>Étymologie :
@@ -271,14 +271,14 @@ souheli _swali_.</small>
 **mi no es dokter.**
 – Je ne suis pas doctor.
 
-**sual tu gude?**
+**sual tu gud?**
 – Est-ce que tu vas bien ?  
-**ye. mi gude.**
+**ye. mi gud.**
 – Oui, je vais bien.
 
-**sual tu es gude?**
+**sual tu es gud?**
 – Est-ce que tu vas bien ?  
-**no, mi no es gude.**
+**no, mi no es gud.**
 – Non, je ne vais pas bien.
 
 Vous pouvez utiliser
@@ -442,7 +442,7 @@ en anglais *name*.</small>
 
 ### have <small>verbe avoir ; il y a </small>
 
-**mi have un gude haus.**
+**mi have un gud haus.**
 – J’ai une bonne maison.
 
 **da no have mone.**

@@ -141,9 +141,9 @@ points to things that are futher away from the speaker in terms of physical dist
 
 The demonstratives can serve as subjects and objects in the same way as nouns.
 
-**da hir es gude.**
+**da hir es gud.**
 – This is good.  
-**da der es bade.**
+**da der es bad.**
 – That is bad.  
 **tu van da hir, he?**
 – Do you want this?  
@@ -240,7 +240,7 @@ Adjectives are questioned with **kua li**.
 – How new?  
 **kua li koste?**
 – How costy?  
-**kua li muche?**
+**kua li meni?**
 – How many?  
 **kua li kam?**
 – How few?  

@@ -86,9 +86,9 @@ Por esprimi proksimecon, aldonu
 
 La montrovortoj povas roli kiel subjekto same kiel substantivoj.
 
-**da hir es gude.**
+**da hir es gud.**
 – ĉi tiu (aĵo) estas bone.  
-**da der es bade.**
+**da der es bad.**
 – Tiu (aĵo) estas malbone.  
 **tu van da hir, he?**
 – ĉu vi volas ĉi tiun?  
