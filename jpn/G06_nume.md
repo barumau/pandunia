@@ -73,6 +73,6 @@
 – **1つ**の大きな椅子  
 **du** dai kursi
 – **2つ**の大きな椅子  
-**tri** hau kursi
+**tri** gud kursi
 – **3つ**の良い椅子
 

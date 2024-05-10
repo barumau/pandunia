@@ -14,13 +14,13 @@
 大半のパンドゥニアの単語の品詞は文脈に依存します。
 
 例えば
-**ai**
+**love**
 は動詞または名詞または形容詞になれます。
 
-*mi **ai** tu.*
+*mi **love** tu.*
 – 私はあなたに恋しています。 (動詞)  
-**tu gamo mi su ai.**
+**tu gamo mi se love.**
 – あなたは私の恋を感じます。 (名詞)  
-**mi kitabu un ai anjil.**
+**mi kitabe un love letre.**
 – 私は恋文を書きます。 (形容詞)
 

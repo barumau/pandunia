@@ -5,19 +5,19 @@
 
 動詞は時制や相や敬語や極性などによって変化することがありません。
 
-mi **yam** la aple.
+mi **yam** aple.
 – 私はリンゴを**食べる**。  
-mi **yam** la aple a preden.**
+mi **yam** aple a preden.**
 – 昨日私はリンゴを**食べた**。  
-mi dura **yam** la aple.**
+mi bi **yam** aple.**
 – 昨日私はまだリンゴを**食べている**。  
-guru **yam** la aple.**
+guru **yam** da aple.**
 – 先生はリンゴを**食べます**。  
-mi no **yam** la aple.**
+mi no **yam** da aple.**
 – 私はリンゴを**食べない**。
 
 普通、機能語は主語と目的語を別れます。
 主語も目的語も内容単語の時に有用です。
 
-**uma ya yam la aple.**
+**uma ye yam da aple.**
 – 馬はリンゴを食べる。

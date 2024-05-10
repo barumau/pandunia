@@ -8,9 +8,9 @@
 最も単純な文では主語は名詞または代名詞であり、述語は形容詞または名詞です。
 
 
-mi hau.
+mi gud.
 – 私は元気です。  
-da nova.
+da nove.
 – それは新しい/新品です。  
 da Sara.
 – 彼女はサラです。
@@ -20,15 +20,15 @@ da Sara.
 #### Verbal predicative clause
 
 主語は名詞だったら、繋辞の動詞の
-**e**
+**es**
 は必要です。
 
 
-Sara e hau.
+Sara es gud.
 – サラは元気です。  
-seku e dai.
+seku es dai.
 – この石は大きい。  
-meza e nova.
+meza es nove.
 – このテーブルは新しい/新品です。
 
 
@@ -38,11 +38,11 @@ meza e nova.
 
 **no** が追加されると否定文になります。
 
-mi **no** hau. ~ mi no e hau.
+mi **no** gud. ~ mi no es gud.
 – 私は気分が優れません。 (訳注:「元気がない」では不自然)  
-da **no** nova. ~ da no e nova.
+da **no** nove. ~ da no es nove.
 – それは新しくない/新品ではない。  
-da **no** Sara. ~ da no e Sara.
+da **no** Sara. ~ da no es Sara.
 – 彼女はサラ(人の名前)ではありません。
 
 
@@ -50,11 +50,11 @@ da **no** Sara. ~ da no e Sara.
 
 同じ事が2つの形容詞または動詞にも言えます。
 
-**jun – mei.** ~ **jun e mei.**
+**yun – mei.** ~ **yun es mei.**
 – **若いこと**は美しい。  
-**nova no lau.** ~ **nova no e lau.**
+**nove no sen.** ~ **nove no es sen.**
 – **新しいもの/新品**は古くありません。  
-**gani – hau.** ~ **gani e hau.**
+**gani – gud.** ~ **gani es gud.**
 – 歌うことは良いです。
 
 
@@ -64,20 +64,20 @@ da **no** Sara. ~ da no e Sara.
 
 次の文はSVO順です。
 
-mi **yam** yo aple.
+mi **yam** som aple.
 – 私はリンゴを**食べます**。  
-mi **visi** tu.
+mi **vize** tu.
 – 私はあなたを**見ます**。
 
 語順を変わるために受動的な機能語を使うことはできます。
 
-tu **be visi** mi.
+tu **be vize** mi.
 – あなたは私に**見られます**。  
 ban **be bake**.
 – パンが**焼かれます**。
 
 行動を起こす側は前置詞
-**de**
+**of**
 の有無に関わらず動詞の後に言及できます。
 (訳注:まだ前置詞の解説はしていないので、この部分は飛ばして後で戻ってきてください)
 
@@ -93,18 +93,18 @@ O1には2つの役割があります。
 V1の対象であり、V2のS(主語)でもあります。
 
 
-**mi vol tu yam yo fito.**
+**mi van tu yam vege.**
 – 私はあなたが野菜を食べることを望みます/要求します。
 
 上の例では
-**mi vol**
+**mi van**
 の目的語は
 **tu**
 です。
 同時に
 **tu**
 は次の述語
-**yam yo fito**
+**yam vege**
 の主語として機能しています。
 つまり
 **tu**
@@ -117,12 +117,12 @@ V1の対象であり、V2のS(主語)でもあります。
 
 **mi** sual tu basha pandunia.
 – パンドゥニアを話せますか。  
-sual tu basha pandunia?
+sual tu bashe pandunia?
 – パンドゥニアを話せますか。
 
-**mi plis tu lai dom.**
+**mi plis tu kom haus.**
 – 帰ってきてくれませんか。  
-**plis lai dom!**
+**plis kom haus!**
 – 帰ってきてください!
 
 
@@ -131,11 +131,11 @@ sual tu basha pandunia?
 次の文には動詞が複数使われているものがありますが、
 それらは全て同じ主題を対象としています。
  
-1. **mi go a dom.**
+1. **mi go to haus.**
    – 私は家に**帰ります**。
-2. **mi bil go a dom.**
+2. **mi kan go to haus.**
    – 私は家に<u>帰ることが</u>**できます**。
-3. **mi vol bil go a dom.**
+3. **mi van kan go to haus.**
    – 私は家に**帰ることが**<u>できることを</u><u>**望みます**</u>。
    (=私は家に帰りたいです)
 
