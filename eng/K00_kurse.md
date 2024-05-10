@@ -14,28 +14,28 @@ hide:
 
 <big>☺</big>
 **sal!**
-= Hello!  
+– Hello!  
 <big>☻</big>
 **sal!**
-= Hello!  
+– Hello!  
 <big>☺</big>
 **tu es hu?**
-= Who are you?  
+– Who are you?  
 <big>☻</big>
 **mi es Yusef. tu es hu?**
-= I am Yusef. Who are you?  
+– I am Yusef. Who are you?  
 <big>☺</big>
 **mi es Sara. da es hu?**
-= I am Sara. Who is that?  
+– I am Sara. Who is that?  
 <big>☻</big>
 **da es mi se frende.**
-= That is my friend.  
+– That is my friend.  
 <big>☺</big>
 **da se nam es kua?**
-= What's her name?  
+– What's her name?  
 <big>☻</big>
 **da se nam es Maria.**
-= Her name is Maria.
+– Her name is Maria.
 
 ### Grammar
 
@@ -58,27 +58,27 @@ And to say the opposite, simply put
 before it.
 
 **da es Sara.**
-= She is Sarah.  
+– She is Sarah.  
 **da no es Sara.**
-= She is not Sarah.
+– She is not Sarah.
 
 **mau es hevan.**
-= The cat is an animal.  
+– The cat is an animal.  
 **haus no es hevan.**
-= The house is not an animal.  
+– The house is not an animal.  
 
 In the same way you can describe yourself by saying
 **mi es**
 and a word that describes you.
 
 **mi es hau.**
-= I'm good.  
+– I'm good.  
 **mi es man.**
-= I'm a man.  
+– I'm a man.  
 **mi es fem.**
-= I'm a woman.  
+– I'm a woman.  
 **mi es nobi.**
-= I'm non-binary.
+– I'm non-binary.
 
 
 ### Exercises
@@ -106,7 +106,7 @@ to be
 woman  
 **frende**
 friend  
-**gude**
+**gud**
 good  
 **hevan**
 animal  
@@ -147,7 +147,7 @@ your
 ## Saying hello
 
 **sal**
-= Hello!
+– Hello!
 
 This is how people often greet each other in Pandunia.
 They say
@@ -155,7 +155,7 @@ They say
 It is used for saying both hello and goodbye.
 
 **sal**
-= Bye!
+– Bye!
 
 The word
 **sal**
@@ -180,9 +180,9 @@ The word
 means *greeting* or *to greet*.
 
 **mi sal tu.**
-= I greet you.  
+– I greet you.  
 **tu sal mi.**
-= You greet me.
+– You greet me.
 
 These are active sentences.
 In active sentences the subject does the action to the object. In
@@ -201,11 +201,11 @@ in Pandunia.
 
 Pandunia's singular personal pronouns are:
 **mi**
-= I,
+– I,
 **tu**
-= you, and
+– you, and
 **da**
-= he, she, it. Note that the pronouns stayed the same in the
+– he, she, it. Note that the pronouns stayed the same in the
 previous example sentences. Words never change in Pandunia. They
 always stay the same regardless of their position in sentence.
 
@@ -213,11 +213,11 @@ In Pandunia sentences can be made shorter by leaving out pronouns
 that are obvious in the present situation.
 
 **mi sal tu!**
-= I greet you.  
+– I greet you.  
 **sal tu!**
-= Greetings to you! (It is obvious that the speaker is the one who greets.)  
+– Greetings to you! (It is obvious that the speaker is the one who greets.)  
 **sal!**
-= Greeting! (It is obvious that the listeners are greeted.)  
+– Greeting! (It is obvious that the listeners are greeted.)  
 
 Another Pandunia word for greeting is
 **halo**.
@@ -225,7 +225,7 @@ It is also a very international greeting.
 You can choose freely, which word to use when you greet people.
 
 **halo!**
-= Hello!
+– Hello!
 
 You may use both **sal** and **halo**
 to address people by name, kinship term or profession.
@@ -289,32 +289,32 @@ chief, boss
 
 <big>☻</big>
 **halo, chin pa!**
-= Hello, grandfather!  
+– Hello, grandfather!  
 <big>☺</big>
 **halo! plis side.**
-= Hello! Please sit!  
+– Hello! Please sit!  
 <big>☻</big>
 **danke.**
-= Thank you.  
+– Thank you.  
 <big>☺</big>
 **plis yam kafe o cha.**
-= Please have some coffee or tea.  
+– Please have some coffee or tea.  
 <big>☻</big>
 **ama mi un li yam cha! danke.**
-= But I only drink tea! Thank you.  
+– But I only drink tea! Thank you.  
 ...  
 <big>☻</big>
 **chin pa, mi mus go a nau.**
-= Grandfather, I have to go now.  
+– Grandfather, I have to go now.  
 <big>☺</big>
 **okei. plis sal tu se mama!**
-= OK. Please tell greetings to your mother.  
+– OK. Please tell greetings to your mother.  
 <big>☻</big>
 **mi sal da. sal reste!**
-= I will. Bye!  
+– I will. Bye!  
 <big>☺</big>
 **sal go!**
-= Bye!
+– Bye!
 
 
 ### Grammar
@@ -331,7 +331,7 @@ It doesn't distinguish between sexes in the third person pronoun or any of the p
 All the personal pronouns are present in the following example sentence.
 
 **mi plis tu sal da.**
-= I ask you to say hello to him/her.
+– I ask you to say hello to him/her.
 
 This sentence has a _pivot structure_.
 The first verb,
@@ -361,9 +361,9 @@ listeners know who he/she is talking about. So it is unnecessary
 to keep on repeating them. In this manner phrases can be made shorter.
 
 **mi plis tu sal da.**
-= I ask you to say hello to him/her.  
+– I ask you to say hello to him/her.  
 **plis sal da.**
-= Please say hello to him/her.
+– Please say hello to him/her.
 
 See how the translation of
 **plis**
@@ -379,15 +379,15 @@ The phrase
 has a useful pattern that can be used for making polite requests.
 
 **plis side.**
-= Please be seated.  
+– Please be seated.  
 **plis don kafe.**
-= Please give me some coffee.  
+– Please give me some coffee.  
 **plis don cha.**
-= Please give me some tea.  
+– Please give me some tea.  
 **plis yam cha.**
-= Please have some tea.  
+– Please have some tea.  
 **plis safi kamar.**
-= Please clean the room.
+– Please clean the room.
 
 Commands are introduced with
 **amir**
@@ -395,14 +395,14 @@ Commands are introduced with
 **plis**.
 
 **amir don cha.**
-= Give (me) some tea!  
+– Give (me) some tea!  
 **amir safi kamar.**
-= Clean the room!
+– Clean the room!
 
 In practice, direct commands can be also made with just one verb and a commanding voice.
 
 **safi da!**
-= Clean it!
+– Clean it!
 
 
 ### Exercises
@@ -435,7 +435,7 @@ coffee
 **kamar**
 room  
 **da**
-the  
+this or that  
 **mus**
 must, have to  
 **o**
@@ -460,7 +460,7 @@ to eat or drink
 2. da shefe plis da side.
 3. plis yam kafe o cha.
 4. mama plis mi safi kamar.
-5. shefe side i yam kafe.
+5. shefe side e yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -475,37 +475,37 @@ to eat or drink
 
 <big>☺</big>
 **sal! sual tu yam kafe o cha?**
-= Hello! Would you like to have coffee or tea?  
+– Hello! Would you like to have coffee or tea?  
 <big>☻</big>
 **cha.**
-= Tea.  
+– Tea.  
 <big>☺</big>
 **tu ne?**
-= And you?  
+– And you?  
 <big>☹</big>
 **mi no bashe pandunia...**
-= I don't speak Pandunia...  
+– I don't speak Pandunia...  
 <big>☺</big>
 **perdon! sual da yam cha?**
-= Pardon! Will he have tea?  
+– Pardon! Will he have tea?  
 <big>☻</big>
 **no. da no yam cha. da yam kafe.**
-= No, he won't. He would like to have coffee.  
+– No, he won't. He would like to have coffee.  
 <big>☺</big>
 **sual tu yam supe?**
-= Would you like to have soup?  
+– Would you like to have soup?  
 <big>☻</big>
 **ye.**
-= Yes.  
+– Yes.  
 <big>☺</big>
 **sual da yam supe?**
-= Would he like to have soup?  
+– Would he like to have soup?  
 <big>☻</big>
 **no yam.**
-= No.  
+– No.  
 <big>☺</big>
 **danke. mi don un cha e un kafe e un supe pos ten minute.**
-= Thank you. I will bring one tea, one coffee and one soup in ten minutes.
+– Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
 ### Asking questions
@@ -518,11 +518,11 @@ Question sentences are introduced with
 'to ask'.
 
 **mi sual tu yam cha.**
-= I ask (do) you drink tea.  
+– I ask (do) you drink tea.  
 **sual tu yam cha?**
-= Do you drink tea?  
+– Do you drink tea?  
 **sual yam cha?**
-= Drink tea?
+– Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions
 are often about other people. Therefore the second pronoun is usually
@@ -530,20 +530,20 @@ needed. It can be left out only when it is clear who is the topic of
 discussion.
 
 **sual da yam cha?**
-= Does he/she drink tea?  
+– Does he/she drink tea?  
 **sual tu yam supe?**
-= Do you eat soup?  
+– Do you eat soup?  
 **sual vi yam sui?**
-= Do we drink water?
+– Do we drink water?
 
 Of course common and proper nouns can also be used.
 
 **sual shefe yam kafe?**
-= Does the chief drink coffee?  
+– Does the chief drink coffee?  
 **sual papa safi kamar?**
-= Does the father clean the room?  
+– Does the father clean the room?  
 **sual Niki bashe pandunia?**
-= Does Nicky speak Pandunia?
+– Does Nicky speak Pandunia?
 
 
 ### Giving answers
@@ -568,18 +568,18 @@ Also more complete answers can be given.
 – **sual tu yam kafe?**
 = Do you drink coffee?  
 – **ye. mi yam kafe.**
-= Yes, I drink coffee.  
+– Yes, I drink coffee.  
 – **sual da yam kafe?**
-= Does he drink coffee?  
+– Does he drink coffee?  
 – **no. da no yam kafe.**
-= No, he doesn't drink coffee.
+– No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
 
 – **sual tu yam sui?**
-= Do you drink water?  
+– Do you drink water?  
 – **yam.**
-= (Yes, I) drink.
+– (Yes, I) drink.
 
 
 ### Exercises
@@ -646,9 +646,9 @@ is used for denying something. Adding
 in front of the verb turns an affirmative sentence to negative.
 
 **mi sal tu.**
-= I greet you.  
+– I greet you.  
 **mi no sal tu.**
-= I do not greet you.
+– I do not greet you.
 
 Conceptually negation means the absence or non-existence of the negated word.
 In the phrase
@@ -662,23 +662,23 @@ Different scopes of negation may result depending on the location
 of the negative word.
 
 **mi plis tu safi kamar.**
-= I ask you to clean the room.  
+– I ask you to clean the room.  
 **mi no plis tu safi kamar.**
-= I do NOT ask you to clean the room.  
+– I do NOT ask you to clean the room.  
 **mi plis tu no safi kamar.**
-= I ask you NOT to clean the room.
+– I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
 and even numeral.
 
 **da no have mau.**
-= She doesn't have a cat.  
+– She doesn't have a cat.  
 **da have no mau, ama vaf.**
-= She has no cats but dogs.  
+– She has no cats but dogs.  
 **no da, ama mi have mau.**
-= Not she but I have cats. (It's not her, but me who has cats.)  
+– Not she but I have cats. (It's not her, but me who has cats.)  
 **mi have no un, ama du mau.**
-= I have not one but two cats.
+– I have not one but two cats.
 
 
 ### Exercises
@@ -736,32 +736,32 @@ Content questions are asked with the interrogative pronouns
 The question can be made more specific by adding words for person, time, manner or thing if needed.
 
 **da es hu?**
-= What is that? / Who is (s)he?  
+– What is that? / Who is (s)he?  
 **da es kua jen?**
-= Who is he/she?  
+– Who is he/she?  
 **da es kua ting?**
-= What (thing) is it?  
+– What (thing) is it?  
 **kua jen kom?**
-= Who is coming? (**jen** = person)  
+– Who is coming? (**jen** = person)  
 **tu yam a kua tem?**
-= When do you eat? (**tem** = time)  
+– When do you eat? (**tem** = time)  
 **von danse a kua mode?**
-= How to dance? (**mode** = manner, style)
+– How to dance? (**mode** = manner, style)
 
 In Pandunia, questions beginning with _why_ are asked using
 **kua sababe**.
 
 **kua sababe tu suka mau?**
-= Why do you like cats?
+– Why do you like cats?
 
 Questions asking about the cause or reason of something, are answered by adding
 **de sababe**
 before the cause or reason.
 
 **kua sababe tu suka mau?**
-= Why do you like cats?  
+– Why do you like cats?  
 **de sababe di es kavai.**
-= Because they are cute.
+– Because they are cute.
 
 Of course,
 **sababe**
@@ -769,7 +769,7 @@ can also be used to express the cause or reason for something,
 even when not answering to a question.
 
 **mi suka mau of sababe di es kavai**
-= I like cats because they are cute.
+– I like cats because they are cute.
 
 ### Exercises
 
@@ -821,7 +821,7 @@ form for all times. In a way they are similar to some English verbs,
 such as "to hit", which is the same in all tenses.
 
 **mi bate da.**
-= I hit it.
+– I hit it.
 
 In Pandunia all verbs are like that! For example,
 **mi yam ban**
@@ -830,35 +830,35 @@ but usually only one or the other meaning makes sense in the context of the disc
 For example when people talk about that morning's breakfast, the sentence tells about the past time.
 
 **mi yam ban a da hir suba yam.**
-= I ate bread for this breakfast.
+– I ate bread for this breakfast.
 
 There are also specific time words.
 
 **did**
-= in the past  
+– in the past  
 **nau**
-= currently, at the moment  
+– currently, at the moment  
 **vil**
-= later, in the future
+– later, in the future
 
 They can be used for modifying nouns.
 
 **Sara es mi se did shefe.**
-= Sarah is my former boss.  
+– Sarah is my former boss.  
 **Yusef es mi se nau shefe.**
-= Yusef is my current boss.  
+– Yusef is my current boss.  
 **Maria es mi se vil shefe.**
-= Maria is my future boss.
+– Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
 Simply put the word before the verb.
 
 **mi did bate da.**
-= I hit it (in the past).  
+– I hit it (in the past).  
 **mi nau bate da.**
-= I am hitting it (currently).  
+– I am hitting it (currently).  
 **mi vil bate da.**
-= I will hit it (in the future).
+– I will hit it (in the future).
 
 
 It is not necessary to repeat the time expressions all the time.
@@ -868,19 +868,19 @@ Another time word will not be needed until the tense changes
 or until it becomes useful to stress that you are still talking in the same tense.
 
 **mi did have un mau.**
-= I had a cat in the past.  
+– I had a cat in the past.  
 **da es hau mau.**
-= It was a good cat.  
+– It was a good cat.  
 **mi nau have un vaf.**
-= I now have a dog.
+– I now have a dog.
 
 Any expression of time is good for expressing the tense. When one
 time expression is present, other markers are not needed.
 
 **mi be gene a nen 2003.**
-= I was born in 2003.  
+– I was born in 2003.  
 **da safi da kamar a pos den.**
-= He will clean the room tomorrow.
+– He will clean the room tomorrow.
 
 
 ### Exercises
