@@ -96,3 +96,35 @@ ke la plenumo de procezo dependas de iu nerealigita kondiĉo.
 **tu no** ***vud*** **es suka, if mi** ***vud*** **go.**
 – Vi ne estus feliĉa, se mi irus.
 
+
+### Resumo
+
+| Pandunia                | Esperanto                 | Pandunia                   | Esperanto                    |
+|:------------------------|:--------------------------|:---------------------------|:-----------------------------|
+| **mi yam.**             | Mi manĝas.                | **mi no yam.**             | Mi ne manĝas.                |
+| **mi bi yam.**          | Mi estas manĝanta.        | **mi no bi yam.**          | Mi ne estas manĝanta.        |
+| **mi haf yam.**         | Mi estas manĝinta.        | **mi no haf yam.**         | Mi ne estas manĝinta.        |
+| **mi did yam.**         | Mi manĝis.                | **mi no did yam.**         | Mi ne manĝis.                |
+| **mi did bi yam.**      | Mi estis manĝanta.        | **mi no did bi yam.**      | Mi ne estis manĝanta.        |
+| **mi did haf yam.**     | Mi estis manĝinta.        | **mi no did haf yam.**     | Mi ne estis manĝinta.        |
+| **mi vil yam.**         | Mi manĝos.                | **mi no vil yam.**         | Mi ne manĝos.                |
+| **mi vil bi yam.**      | Mi estos manĝanta.        | **mi no vil bi yam.**      | Mi ne estos manĝanta.        |
+| **mi vil haf yam.**     | Mi estos manĝinta.        | **mi no vil haf yam.**     | Mi ne estos manĝinta.        |
+| **mi did vil yam.**     | Mi estis manĝonta.        | **mi no did vil yam.**     | Mi ne estis manĝonta.        |
+| **mi vud yam.**         | Mi manĝus.                | **mi no vud yam.**         | Mi ne manĝus.                |
+| **mi vud bi yam.**      | Mi estus manĝanta.        | **mi no vud bi yam.**      | Mi ne estus manĝanta.        |
+| **mi vud haf yam.**     | Mi estus manĝinta.        | **mi no vud haf yam.**     | Mi ne estus manĝinta.        |
+| **mi shud yam.**        | Mi devus manĝi.           | **mi no shud yam.**        | Mi ne devus manĝi.           |
+| **mi shud bi yam.**     | Mi devus esti manĝanta.   | **mi no shud bi yam.**     | Mi ne devus esti manĝanta.   |
+| **mi shud haf yam.**    | Mi devus esti manĝinta.   | **mi no shud haf yam.**    | Mi ne devus esti manĝinta.   |
+| **mi kan yam.**         | Mi povas manĝi.           | **mi no kan yam.**         | Mi ne povas manĝi.           |
+| **mi kan bi yam.**      | Mi povas esti manĝanta.   | **mi no kan bi yam.**      | Mi ne povas esti manĝanta.   |
+| **mi kan haf yam.**     | Mi povas esti manĝinta.   | **mi no kan haf yam.**     | Mi ne povas esti manĝinta.   |
+| **mi did kan yam.**     | Mi povis manĝi.           | **mi no did kan yam.**     | Mi ne povis manĝi.           |
+| **mi did kan bi yam.**  | Mi povis esti manĝanta.   | **mi no did kan bi yam.**  | Mi ne povis esti manĝanta.   |
+| **mi did kan haf yam.** | Mi povis esti manĝinta.   | **mi no did kan haf yam.** | Mi ne povis esti manĝinta.   |
+| **mi vil kan yam.**     | Mi povos manĝi.           | **mi no vil kan yam.**     | Mi ne esti able to manĝi.    |
+| **yam!**                | Manĝu!                    | **no yam!**                | Ne manĝu!                    |
+| **yu shal yam!**        | Vi manĝu!                 | **yu no shal yam!**        | Vi ne manĝu!                 |
+| **vi shal yam!**        | Ni manĝu!                 | **vi no shal yam!**        | Ni ne manĝu!                 |
+
