@@ -22,7 +22,9 @@ Cada letra y combinación de letras siempre representa el sonido misma.
 
 Si la palabra tiene una o dos sílabas, la primer sílaba es acentuada.
 Si la palabra tiene tres o más sílabas, la segunda sílaba es acentuada.
-
+Mientras que los posibles acentos secundarios vendrían de las restantes palabras raices, como por ejemplo:
+**trabáshe** ('trabajo'), **dúnialìsme** ('globalismo'), **bàshe skóla** ('Escuela de idiomas').
+En el ejemplo previo indicamos el acento principal con una tilde derecha (*á*) mientras que el secundario es indicado con una tilde izquierda (*à*).
 
 ### (4) Pronombres
 
