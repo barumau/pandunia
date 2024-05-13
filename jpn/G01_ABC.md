@@ -321,14 +321,14 @@ _c_, _q_, _w_ はそれぞれ _ch_, _k_, and _v_ と読んでも構いません�
 
 （例）
 
-    (1) sal!  tu hau, he?  mi vol go a kafekan.  tu vol lai kon mi, he?
-    (2) sal ! tu hau, he ? mi vol go a kafekan . tu vol lai kon mi, he ?
+    (1) sal!  tu hau, he?  mi vol go to kafekan.  tu van kom kon mi, he?
+    (2) sal ! tu hau, he ? mi vol go to kafekan . tu van kom kon mi, he ?
 
 フォーマルでない場においては、顔文字や絵文字などを文末に置くこともできます。
 たとえば、 **:)**（笑顔）や **:(** （悲しい顔）など。
 
-**mi visi tu :)**
+**mi vize tu :)**
 – 見えてますよ（にこにこ）  
-**tu no visi mi :(**
+**tu no vize mi :(**
 – 見てくれてない（しょんぼり）
 <!--ちょっとこの訳は遊びすぎかな-->

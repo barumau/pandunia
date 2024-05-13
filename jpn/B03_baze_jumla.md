@@ -39,7 +39,7 @@ hide:
 
 <p style="font-size:5em;">🙋‍</p>
 
-**sal**
+**sal!**
 こんにちは。
 
 **sal suba!**
@@ -209,7 +209,7 @@ hide:
 **sual tu es Tomas?**
 あなたはトーマスですか?
 
-**sual tu es davar?**
+**sual tu es dokter?**
 あなたは医者ですか?
 
 ヒント：「はい/いいえ」で答えられる質問は
@@ -221,35 +221,35 @@ hide:
 (私は尋ねる、あなたは医者ですか?) の
 最初の単語を省略しただけです。
 
-**sual tu hau?**
+**sual tu gud?**
 お元気ですか? (文の通り：あなたは元気ですか?)  
-**mi hau.**
+**mi gud.**
 私は元気です。  
 **tu ne?**
 あなたは?  
-**mi no hau.**
+**mi no gud.**
 私は調子が悪いです。 (訳注:元気か否かは第三者が判断するので自ら言いません)
 
-<small>【語源】 **sual** アラビア語：سؤال (su'āl)、ヒンディー語：सवाल (savāl)、マレー語：soal、スワヒリ語：swali</small>
+<small>【語源】 **sual** アラビア語：سؤال (se'āl)、ヒンディー語：सवाल (savāl)、マレー語：soal、スワヒリ語：swali</small>
 
 
-### yes <small>はい</small>
+### ye <small>はい</small>
 
 <p style="font-size:5em">👍</p>
 
 **sual tu es Tomas?**
 あなたはトーマスですか?
 
-**yes, mi es Tomas.**
+**ye, mi es Tomas.**
 はい、私はトーマスです。
 
 **sual da es dokter?**
 彼/彼女/その人は医者ですか?
 
-**yes, da es dokter.**
+**ye, da es dokter.**
 はい、彼は医者です。
 
-<small>【語源】 **yes** 英語：yeah、マレー語：ya、韓国語：예 (ya)、中国語：呀 (ya)</small>
+<small>【語源】 **ye** 英語：yeah、マレー語：ya、韓国語：예 (ye)、中国語：呀 (ya)</small>
 
 
 ### no <small>いいえ、否定</small>
@@ -262,14 +262,14 @@ hide:
 **mi no es dokter.**
 私は医者ではありません。
 
-**sual tu hau?**
+**sual tu gud?**
 元気ですか?  
-**ya. mi hau.**
+**ye. mi gud.**
 はい。元気です。
 
-**sual tu hau?**
+**sual tu gud?**
 元気ですか?  
-**no. mi no hau.**
+**no. mi no gud.**
 いいえ。私は調子が悪いです。
 
 何かを否定するときは
@@ -311,64 +311,68 @@ hide:
 それらはリンゴです。
 
 
-### kua? <small>何? 誰?</small>
+### hu? <small>何? 誰?</small>
 
 **kua?**
-何?
+誰?
 
-**tu es kua?**
-あなたは誰ですか? (訳注:英語の _Who are you?_ と同じで本来は失礼な言い方です。 **tu su nam ke?**(あなたの名前は?)の方が良いと思います)  
+**hu es tu?**
+あなたは誰ですか? (訳注:英語の _Who are you?_ と同じで本来は失礼な言い方です。
+**tu se nam es kua?**
+(あなたの名前は?)の方が良いと思います)  
 **mi es Tomas.**
 私はトーマスです。
 
-**da es kua?**
+**hu es da?**
 彼/彼女/その人は誰ですか?  
 **da es Sara.**
 彼女はサラです。
 
-**yu es kua?**
-あなたたちは誰ですか? (訳注:これも英語の _Who are you people?_ と同じで良い意味では普通使いません。ただ適切な言い換えが思いつきません。 **toti nam ke?**(あなたたちの名前は?) では本来の意図から離れてしまいます)
+**hu es yu?**
+あなたたちは誰ですか?
+(訳注:これも英語の _Who are you people?_ と同じで良い意味では普通使いません。
+ただ適切な言い換えが思いつきません。
+**yu se nam es kua?**
+(あなたたちの名前は?) では本来の意図から離れてしまいます)
 
-**di es kua?**
+**hu es di?**
 彼ら/彼女ら/その人たちは誰ですか?
 
+
+### kua? <small>何?</small>
+
+**kua?**
+何?
 
 
 ### da hir <small>これ</small>
 
-**da hir es kua?**
+**kua es da hir?**
 これは何ですか?/何これ?
 
 **da hir es aple.**
 これはリンゴです。
 
-**da der es kua?**
-これは赤いリンゴです。
-
-**da der es aranja.**
-このリンゴは赤いです。
-
 **da es rubi aple.**
-これは赤いです。
+これは赤いリンゴです。これは赤いです。
 
 
 ### da der <small>あれ、それ</small>
 
-**da der es kua?**
+**kua es da der?**
 あれは何ですか?
 
-**da der es aranje.**
+**da der es aranja.**
 それはオレンジです。
 
 **da der es rubi aple.**
 それは赤いリンゴです。
 
 **da der aple es rubi.**
-あのリンゴは赤いです。.
+あのリンゴは赤いです。
 
 **da der es rubi.**
 それは赤いです。
-
 
 
 ### se <small>～の(所有する)</small>
@@ -379,19 +383,21 @@ hide:
 **da es mi se telefon.**
 私の電話です。
 
-**ye es kua se?**
+**da hir es hu se?**
 これは誰の(物)ですか?
 
 **da es mi se.**
 私の(物)です。
 
-注：所有助詞 **se** は所有者と所有物の間に置かれます。
+注：所有助詞
+**se**
+は所有者と所有物の間に置かれます。
 **mi se**
 は「私の」、
 **tu se**
 は「あなたの」などの意味になります。
 
-**da es kua?**
+**da es hu?**
 彼/彼女/その人は誰ですか?
 
 **da es mi se frende.**
@@ -400,7 +406,7 @@ hide:
 **mi es Sara se frende.**
 私は(事実として)サラの友達です。
 
-<small>【語源】 **se** 英語：’s、スペイン語：su、アフリカーンス語：se</small>
+<small>【語源】 **se** 英語：’s、スペイン語：se、アフリカーンス語：se</small>
 
 
 ### nam <small>名前</small>
@@ -421,7 +427,8 @@ hide:
 ペルシャ語：نام‏‎ nām、タイ語：นาม naam、インドネシア語：nama、日本語：名前 (namae)、
 ドイツ語：Name、英語：name.</small>
 
-### ave <small>持っている、いる、所有している</small>
+
+### have <small>持っている、いる、所有している</small>
 
 **mi have un gud haus.**
 私は良い家を所有しています。
@@ -549,15 +556,15 @@ hide:
 どうか助けてください。
 
 
-### haida <small>～しましょう</small>
+### shal <small>～しましょう</small>
 
-**haida yam!**
+**vi shal yam!**
 食べましょう!
 
-**haida go yam!**
+**vi shal go yam!**
 食べに行きましょう!
 
-**haida go haus.**
+**vi shal go haus.**
 (家に)帰りましょう。
 
 
@@ -707,12 +714,12 @@ hide:
 私はそれが何を意味するか分かりません。
 
 
-### kitabe <small>書く</small>
+### kitab <small>書く</small>
 
-**plis kitabe tu se adres.**
+**plis kitab tu se adres.**
 あなたの住所を書いてください。
 
-**plis kitabe da a hir.**
+**plis kitab da a hir.**
 そこに書いてください。
 
 
@@ -825,9 +832,17 @@ hide:
 **sual tu loju da hir hotel?**
 (あなたは)このホテルに宿泊していますか?
 
-ヒント：**tu loju kua** の代わりに **tu loju a kua?** と言ってもOKです。
-但し **loju** は「どこかにいる」ことを
-含んでいるため **a** は不要です。
+ヒント：
+**tu loju kua**
+の代わりに
+**tu loju a kua?**
+と言ってもOKです。
+但し
+**loju**
+は「どこかにいる」ことを
+含んでいるため
+**a**
+は不要です。
 
 
 ### dele <small>待つ、待ち受ける</small>

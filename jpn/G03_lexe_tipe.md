@@ -21,6 +21,6 @@
 – 私はあなたに恋しています。 (動詞)  
 **tu gamo mi se love.**
 – あなたは私の恋を感じます。 (名詞)  
-**mi kitabe un love letre.**
+**mi kitab un love letre.**
 – 私は恋文を書きます。 (形容詞)
 
