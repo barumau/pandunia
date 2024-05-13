@@ -344,8 +344,8 @@ Una persona può
 (2) inserire uno spazio prima e dopo il segno di punteggiatura.
 Questa abitudine aiuta a separare le frasi con più chiarezza.
 
-    (1) sal!  tu hau, he?  mi vol go a kafekan.  tu vol lai kon mi, he?
-    (2) sal ! tu hau, he ? mi vol go a kafekan . tu vol lai kon mi, he ?
+    (1) sal!  tu gud, he?  mi van go to kafekan.  tu van kom kon mi, he?
+    (2) sal ! tu gud, he ? mi van go to kafekan . tu van kom kon mi, he ?
 
 In testi informali si possono usare smiley, emoticon ed emoji come se fossero segni di punteggiatura per terminare le frasi,
 ma in più essi indicano lo stato d'animo del parlante.

@@ -714,26 +714,26 @@ pour la personne, le temps, la manière ou la chose si nécessaire.
 = Comment danser ? (**mode** = manière, style)
 
 En Pandunia, les questions commençant par _pourquoi_ sont posées à l'aide de
-**kua sababe**.
+**kua sabab**.
 
-**kua sababe tu suka mau?**
+**kua sabab tu suka mau?**
 = Pourquoi aimes-tu les chats ?
 
 On répond aux questions sur les causes ou les raisons de quelque chose en ajoutant
-**de sababe**
+**of sabab**
 avant la cause ou la raison.
 
-**kua sababe tu suka mau?**
+**kua sabab tu suka mau?**
 = Pourquoi aimes-tu les chats ?  
-**de sababe di es kavai.**
+**of sabab di es kavai.**
 = Parce qu'ils sont mignons.
 
 Bien entendu, vous pouvez également utiliser
-**sababe**
+**sabab**
 pour exprimer la cause
 ou la raison de quelque chose, même si vous ne réponsez pas à une question.
 
-**mi suka mau of sababe di es kavai**
+**mi suka mau of sabab di es kavai**
 = J'aime les chats parce qu'ils sont mignons.
 
 ### Exercices
@@ -769,8 +769,8 @@ temps, periode
 2. papa suka.
 3. kua tem da kom?
 4. pos des minute.
-5. kua sababe da no yam?
-6. of sababe da no suka kafe e supe.
+5. kua sabab da no yam?
+6. of sabab da no suka kafe e supe.
 
 
 --------------------------------------------------------------------------------
@@ -800,7 +800,7 @@ Il y a également des expressions de temps spécifiques.
 
 **did**
 – dans le passé  
-**nau**
+**nun**
 – actuellement, en ce moment
 **vil**
 – dans le futur
@@ -810,7 +810,7 @@ Les mêmes mots sont utilisés lorsque vous parlez d'actions et d'événements d
 
 **mi did bate da.**
 = Je l'ai frappé (dans le passé).  
-**mi nau bate da.**
+**mi nun bate da.**
 = Je le frappe (actuellement)  
 **mi vil bate da.**
 = Je le frapperai (dans le futur).
@@ -824,7 +824,7 @@ ou bien pour souligner le fait que le temps du récit n'a pas changé.
 = J'ai eu un chat dans le passé.
 **da es hau mau.**
 = C'était un bon chat.
-**mi have un vaf nau.**
+**mi have un vaf nun.**
 = J'ai un chien maintenant.
 
 Toute expression de temps convient pour exprimer un moment dans le temps.
@@ -853,7 +853,7 @@ Essayez de traduire ces phrases du Français au Pandunia. Les réponses correcte
 fêter, célébrer  
 **did**
 passé, ancien  
-**nau**
+**nun**
 présent, en cours, actuel  
 **vil**
 futur  
@@ -879,7 +879,7 @@ lait
 
 1. mi se shefe feste a vil.
 2. mi have du vaf a pas.
-3. tu yam supe a nau.
+3. tu yam supe a nun.
 4. da safi kamar a preden.
 5. mau yam milke a posden.
 6. tu se ma feste a prenoche.

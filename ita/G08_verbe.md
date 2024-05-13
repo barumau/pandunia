@@ -84,7 +84,7 @@ Si può pensare a qualcosa di simile al passato prossimo italiano (_Ho fatto_, _
 – L'uomo *aveva*, *ha* o *avrà* mangiato il pane.  
 **man** ***did haf*** **yam ban.**
 – L'uomo aveva mangiato il pane.  
-**man** ***nau haf*** **yam ban.**
+**man** ***nun haf*** **yam ban.**
 – L'uomo ha mangiato il pane.  
 **man** ***vil haf*** **yam ban.**
 – L'uomo avrà mangiato il pane.

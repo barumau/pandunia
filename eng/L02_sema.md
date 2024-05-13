@@ -49,7 +49,7 @@ such as hammer, drill, axe, knife, comb and brush.
 
 | Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **brox**   | 'brush'      | 'of brush' | 'to brush' |
+| **brosh**  | 'brush'      | 'of brush' | 'to brush' |
 | **kem**    | 'sword'      | 'of sword' | 'to sword-fight, to fence' |
 | **defa**   | 'shield'     | 'to defend, to shield' |
 | **kanjar** | 'dagger'     | 'of dagger' | 'to stab' |
@@ -91,7 +91,7 @@ The base word is a quality:
 
 | Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **hau**    | 'goodness'   | 'good, well'     | 'do good, make good, improve' |
+| **gud**    | 'goodness'   | 'good, well'     | 'do good, make good, improve' |
 | **hure**   | 'freedom'    | 'free'           | 'to free, to liberate' |
 
 ### Artifact words
@@ -104,7 +104,7 @@ The base word refers to a human-made object.
 
 | Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **kitabe** | 'writing'    | 'written'        | 'to write' |
+| **kitab**  | 'writing'    | 'written'        | 'to write' |
 | **fikre**  | 'thought'    | 'of thinking'    | 'to think' |
 
 
@@ -147,7 +147,7 @@ The door undergoes a change of state from closed to opened.
 The person can perceive the orange with their senses.
 The orange is a non-living thing.
 
-**jenᴬ ame aranjaᴾ.**
+**jenᴬ love aranjaᴾ.**
 – The personᴬ loves orangesᴾ.
 
 The person can feel.
@@ -192,7 +192,7 @@ Examples of different kinds of activity words include the following:
 'fire',
 **oke**
 'eyes',
-**ame**
+**love**
 'love',
 **hure**
 'freedom', and
@@ -221,7 +221,7 @@ Therefore the semantics of the following sentences are easy to understand.
 – I burn wood.  
 **mi oke tu.**
 – I eye you. ~ I look at you.  
-**mi ame tu.**
+**mi love tu.**
 – I love you.
 
 Freedom is an abstract thing.

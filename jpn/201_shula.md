@@ -761,7 +761,7 @@ mi suka mau, **sabab** di es kavai
 <!-- この辺りに古い仕様の残骸が残っていたため全て削除しました -->
 **did**
 = 過去  
-**nau**
+**nun**
 = 現在  
 **vil**
 = 未来
@@ -771,7 +771,7 @@ mi suka mau, **sabab** di es kavai
 
 mi **did** bate da.
 = 私はそれを叩き**ました**。 (過去)  
-mi **nau** bate da.
+mi **nun** bate da.
 = 私はそれを叩い**ています**。 (現在進行)  
 mi **vil** bate da.
 = 私はそれを叩く**でしょう**。 (未来)
@@ -784,7 +784,7 @@ mi **did** have un mau.
 = 私は**かつて**(1匹の)猫を飼って<u>いました</u>。  
 da es gud mau.
 = その猫は良い猫でした。 (過去の猫のことを語っているので過去形)  
-mi nau have un vaf.
+mi nun have un vaf.
 = **今は**(私は1匹の)犬を飼って<u>います</u>。 (話が現在のことに変わっている)
 <!--
 時制表現は、それとわかればどの単語でも構いません。
@@ -812,7 +812,7 @@ da safi da kamar **a pos den**.
 
 **did**
 過去、前  
-**nau**
+**nun**
 現在、今  
 **vil**
 未来  
@@ -837,7 +837,7 @@ da safi da kamar **a pos den**.
 
 1. mi se shefe vil feste.
 2. mi did have du vaf.
-3. tu nau yam supe.
+3. tu nun yam supe.
 4. da safi kamar a preden.
 5. mau yam milke a posden.
 6. tu se ma feste a prenoche.

@@ -210,10 +210,10 @@ The place of the stress is decided by two simple rules.
 In the examples that follow, primary accent is indicated by an acute accent (*á*) and secondary accent by a grave accent (*à*) over the first vowel of a stressed syllable.
 
 1. Root words are stressed on the syllable that is before the last consonant of the word.  
-   **hálo! mí vól lóga da gúde dúnia báshe.**  
+   **hálo! mí ván lóga da gúd dúnia báshe.**  
    (_Hello! I want to speak the good world language._)
 2. Derived and compound words are stressed according to their components so that the primary stress is in the main word.  
-   **pandúnia es dèmokrátike báshe.**  
+   **pandúnia es dèmokrátik báshe.**  
    (_Pandunia is a democratic language._)
 
 Regular stress is easier to learn and more comfortable to use

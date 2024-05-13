@@ -35,12 +35,12 @@ Ilia ordo estas: tempo, modo, aspekto.
 ### Tenso
 
 **did** indikas pasintan tenson,
-**nau** indikas prezencan tenson kaj
+**nun** indikas prezencan tenson kaj
 **vil** indikas estontan tenson.
 
 **man** ***did*** **yam ban.**
 – Viro *manĝIS* panon.  
-**man** ***nau*** **yam ban.**
+**man** ***nun*** **yam ban.**
 – Viro *manĝAS* panon.  
 **man** ***vil*** **yam ban.**
 – Viro *manĝOS* panon.
@@ -65,7 +65,7 @@ La markilo **bi** indikas, ke la procezo daŭras ankoraŭ.
 – Viro estas, estis aŭ estos manĝanta panon.  
 **man** ***did bi*** **yam ban.**
 – Viro estis manĝanta panon.  
-**man** ***nau bi*** **yam ban.**
+**man** ***nun bi*** **yam ban.**
 – Viro estas manĝanta panon.  
 **man** ***vil bi*** **yam ban.**
 – Viro estos manĝanta panon.
@@ -76,7 +76,7 @@ La markilo **haf** indikas, ke la ago estas finita kaj ĝia rezulto estas ankora
 – Viro estis, estas aŭ estos manĝinta panon.  
 **man** ***did haf*** **yam ban.**
 – Viro estis manĝinta panon.  
-**man** ***nau haf*** **yam ban.**
+**man** ***nun haf*** **yam ban.**
 – Viro estas manĝinta panon.  
 **man** ***vil haf*** **yam ban.**
 – Viro estos manĝinta panon.

@@ -168,7 +168,7 @@ To modify a noun, put adjectives before it.
 
 **un nove love**
 – a new love  
-**da hau pai**
+**da gud pai**
 – the good pie
 
 To modify a verb, put adverbs before it.

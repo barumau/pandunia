@@ -47,7 +47,7 @@ eli menneisyyttä, nykyisyyttä ja tulevaisuutta.
 The marker
 **did**
 ilmaisee mennyttä aikaa,
-**nau**
+**nun**
 nykyistä aikaa ja
 **vil**
 tulevaa aikaa.
@@ -55,7 +55,7 @@ Ajan kohdan voi ilmaista myös erilaisilla ajan ilmauksilla, kuten *eilen*, *huo
 
 **man** ***did*** **yam ban.**
 – Mies *söi* (ennen) leipää.  
-**man** ***nau*** **yam ban.**
+**man** ***nun*** **yam ban.**
 – Mies *syö* (nyt) leipää.  
 **man** ***vil*** **yam ban.**
 – Mies *tulee syömään* (tulevaisuudessa) leipää.
@@ -81,7 +81,7 @@ Puheena oleva hetki voidaan ilmaista ajankohdan apuverbillä.
 – Mies oli tai on syömässä leipää.  
 **man** ***did bi*** **yam ban.**
 – Mies oli syömässä leipää.  
-**man** ***nau bi*** **yam ban.**
+**man** ***nun bi*** **yam ban.**
 – Mies on syömässä leipää.  
 **man** ***vil bi*** **yam ban.**
 – Mies tulee olemaan syömässä leipää.
@@ -96,7 +96,7 @@ Puheena oleva hetki voidaan ilmaista ajankohdan apuverbillä.
 – Mies oli tai on syönyt leipää.  
 **man** ***did haf*** **yam ban.**
 – Mies oli syönyt leipää.  
-**man** ***nau haf*** **yam ban.**
+**man** ***nun haf*** **yam ban.**
 – Mies on syönyt leipää.  
 **man** ***vil haf*** **yam ban.**
 – Mies tulee olemaan syönyt leipää.

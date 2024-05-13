@@ -421,7 +421,7 @@ jeść lub pić
 
 Pytanie, na które można odpowiedzieć mówiąc _tak_ lub _nie_ mają taką samą strukturę osiową, co prośby z
 **plis**,
-której nauczyłeś się w poprzedniej lekcji.
+której nunczyłeś się w poprzedniej lekcji.
 Pytania są wprowadzane słowem
 **sual**
 = pytać.
@@ -539,7 +539,7 @@ tak
 
 ## Mówienie nie
 
-W poprzedniej lekcji nauczyłeś się odpowiadać
+W poprzedniej lekcji nunczyłeś się odpowiadać
 **ye**
 i
 **no**
@@ -723,7 +723,7 @@ Istnieją też konkretne słowa opisujące czas.
 
 **did**
 - już, przed określonym czasem  
-**nau**
+**nun**
 - teraz, w tym momencie  
 **vil**
 - w przyszłości
@@ -731,7 +731,7 @@ Istnieją też konkretne słowa opisujące czas.
 
 
 Przymiotniki dla przeszłości, teraźniejszości i przyszłości to, odpowiednio,
-**did, nau**
+**did, nun**
 i
 **vil**.
 Mogą być używane do modyfikowania rzeczowników.
@@ -740,7 +740,7 @@ Te same słowa są używane, gdy mowa o czynnościach i wydarzeniach w czasie. P
 
 **mi did bate da.**
 – Uderzyłem to (w przeszłości).  
-**mi nau bate da.**
+**mi nun bate da.**
 – Uderzam to (teraz).  
 **mi vil bate da.**
 – Uderzę to (w przeszłości).
@@ -757,7 +757,7 @@ albo nie będzię przydatne zaakcentowanie, że mowa wciąż w tym samym czasie.
 – Miałem jednego kota w przeszłości.  
 **da es hau mau.**
 – To był dobry kot.  
-**mi have un vaf a nau.**
+**mi have un vaf a nun.**
 – Mam teraz jedneg psa.
 
 Jakiekolwiek określenie czasu jest dobre.
@@ -785,7 +785,7 @@ Poprawne odpowiedzi są na dole strony.
 
 **did**
 przeszły, były  
-**nau**
+**nun**
 teraźniejszy, obecny  
 **vil**
 przyszły  
@@ -802,7 +802,7 @@ poranny posiłek, śniadanie
 
 1. mi su shefe feste a vil.
 2. mi have du vaf a did.
-3. tu yam supe a nau.
+3. tu yam supe a nun.
 4. da safe kamar a preden.
 5. mau yam milke a posden.
 6. tu su ma festa a prenoce.

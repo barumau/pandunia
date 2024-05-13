@@ -135,10 +135,10 @@ The particle
 **dan**
 relates the adverbs of comparison to the object of comparison.
 
-**aple es mor hau dan aranja.**
+**aple es mor gud dan aranja.**
 = Apples are better than oranges.  
-**aranja es les hau dan aple.**
+**aranja es les gud dan aple.**
 = Oranges are less good than apples.  
-**tu loga sim hau dan mi.**
+**tu loga sim gud dan mi.**
 = You speak as well as me.
 

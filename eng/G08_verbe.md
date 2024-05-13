@@ -45,7 +45,7 @@ The main tenses are the past, present, and future.
 The marker
 **did**
 indicates the past tense,
-**nau**
+**nun**
 indicates the present tense, and
 **vil**
 indicates the future tense.
@@ -53,7 +53,7 @@ More specific time references are expressed with various time expressions, like 
 
 **man** ***did*** **yam ban.**
 – The man *ate* (or *did eat*) bread.  
-**man** ***nau*** **yam ban.**
+**man** ***nun*** **yam ban.**
 – The man *eats* bread (now).  
 **man** ***vil*** **yam ban.**
 – The man *will eat* bread.
@@ -81,7 +81,7 @@ The time can be indicated with a tense marker.
 – The man *is*, *was* or *will be* eating bread.  
 **man** ***did bi*** **yam ban.**
 – The man was eating bread.  
-**man** ***nau bi*** **yam ban.**
+**man** ***nun bi*** **yam ban.**
 – The man is eating bread.  
 **man** ***vil bi*** **yam ban.**
 – The man will be eating bread.
@@ -96,7 +96,7 @@ The time can be indicated with a tense markers.
 – The man *had*, *has* or *will have* eaten bread.  
 **man** ***did haf*** **yam ban.**
 – The man had eaten bread.  
-**man** ***nau haf*** **yam ban.**
+**man** ***nun haf*** **yam ban.**
 – The man has eaten bread.  
 **man** ***vil haf*** **yam ban.**
 – The man will have eaten bread.
@@ -126,7 +126,7 @@ The auxiliary verb
 
 **ma voka vi. vi shud go.**
 – Mother called us. We should go.  
-**da shud haf kom pre nau.**
+**da shud haf kom pre nun.**
 – He should have come by now.  
 **evri von shud vote.**
 – Everyone should vote.

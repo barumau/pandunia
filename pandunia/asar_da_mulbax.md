@@ -13,7 +13,7 @@
 | tamil | 1% |
 | parsi | 3% |
 | turki | 4% |
-| putonghan | 4% |
+| putonghan | 5% |
 | guangdong | 2% |
 | nipon | 6% |
 | cosen | 4% |

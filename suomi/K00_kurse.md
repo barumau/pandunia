@@ -288,7 +288,7 @@ pomo, päällikkö
 = Mutta minähän juon vain teetä! Kiitos.  
 ...  
 <big>☻</big>
-**chin pa, mi mus go a nau.**
+**chin pa, mi mus go a nun.**
 = Isoisä, Minun täytyy lähteä nyt.  
 <big>☺</big>
 **okei. plis sal tu se mama!**
@@ -711,27 +711,27 @@ Asioiden kysymiseen käytetään kysymyssanoja
 = Miten tanssitaan? (**mode** = tapa)
 
 Miksi-kysymykset aloitetaan sanomalla
-**kua sababe**
+**kua sabab**
 ('minkä vuoksi').
 
-**kua sababe tu suka mau?**
+**kua sabab tu suka mau?**
 = Minkä takia sinä tykkäät kissoista?
 
 Miksi-kysymykseen vastataan panemalla sana
-**sababe**
+**sabab**
 ennen syytä.
-**sababe**
+**sabab**
 
-**kua sababe tu suka mau?**
+**kua sabab tu suka mau?**
 = Minkä takia sinä tykkäät kissoista?  
-**de sababe di es kavai.**
+**of sabab di es kavai.**
 = Sen takia että ne ovat söpöjä.
 
 Sanaa
-**sababe**
+**sabab**
 voi käyttää syyn ilmaisemiseen silloinkin, kun ei vastata kysymykseen.
 
-**mi suka mau of sababe di es kavai**
+**mi suka mau of sabab di es kavai**
 = Minä tykkään kissoista sen takia, että ne ovat söpöjä.
 
 ### Harjoituksia
@@ -767,8 +767,8 @@ aika
 2. papa suka.
 3. kua tem da kom?
 4. pos des minute.
-5. kua sababe da no yam?
-6. of sababe da no suka kafe e supe.
+5. kua sabab da no yam?
+6. of sabab da no suka kafe e supe.
 
 
 --------------------------------------------------------------------------------
@@ -797,7 +797,7 @@ Esimerkiksi, kun on päivä ja puhe on aamiaisesta, lause viittaa luonnollisesti
 Mennyttä, nykyistä ja tulevaa tarkoittavat apuverbit ovat
 **did**
 ('ennen'),
-**nau**
+**nun**
 ('nyt') ja
 **vil**
 ('myöhemmin').
@@ -805,7 +805,7 @@ Ajan apuverbit tulevat ennen pääverbiä.
 
 **mi did bate da.**
 = Minä löin sitä (ennen).  
-**mi nau bate da.**
+**mi nun bate da.**
 = Minä lyön sitä (nyt).  
 **mi vil bate da.**
 = Minä lyön sitä (tulevaisuudessa).
@@ -824,7 +824,7 @@ Seuraava ajan ilmaus tarvitaan vasta sitten, kun siirrytään puhumaan toisesta 
 = Minä omistin ennen kissan.  
 **da es hau mau.**
 = Se _oli_ hyvä kissa.  
-**mi nau have un vaf.**
+**mi nun have un vaf.**
 = Minulla on nyt koira.
 
 Mikä tahansa ajan ilmaisu kelpaa aikamuodon asettamiseksi.
@@ -851,7 +851,7 @@ Käännä seuraavat lauseet panduniaksi.
 
 **did**
 ennen  
-**nau**
+**nun**
 nyt, nykyään  
 **vil**
 tulevaisuudessa  
@@ -874,7 +874,7 @@ maito
 
 1. mi se shefe vil feste.
 2. mi did have du vaf.
-3. tu nau yam supe.
+3. tu nun yam supe.
 4. da safi kamar a preden.
 5. mau yam milke a posden.
 6. tu se ma feste a prenoche.

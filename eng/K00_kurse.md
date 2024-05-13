@@ -71,7 +71,7 @@ In the same way you can describe yourself by saying
 **mi es**
 and a word that describes you.
 
-**mi es hau.**
+**mi es gud.**
 – I'm good.  
 **mi es man.**
 – I'm a man.  
@@ -304,7 +304,7 @@ chief, boss
 – But I only drink tea! Thank you.  
 ...  
 <big>☻</big>
-**chin pa, mi mus go a nau.**
+**chin pa, mi mus go a nun.**
 – Grandfather, I have to go now.  
 <big>☺</big>
 **okei. plis sal tu se mama!**
@@ -838,7 +838,7 @@ There are also specific time words.
 
 **did**
 – in the past  
-**nau**
+**nun**
 – currently, at the moment  
 **vil**
 – later, in the future
@@ -848,7 +848,7 @@ Simply put the word before the verb.
 
 **mi did bate da.**
 – I hit it (in the past).  
-**mi nau bate da.**
+**mi nun bate da.**
 – I am hitting it (currently).  
 **mi vil bate da.**
 – I will hit it (in the future).
@@ -864,7 +864,7 @@ or until it becomes useful to stress that you are still talking in the same tens
 – I had a cat in the past.  
 **da es gud mau.**
 – It was a good cat.  
-**mi nau have un vaf.**
+**mi nun have un vaf.**
 – I now have a dog.
 
 Any expression of time is good for expressing the tense. When one
@@ -891,7 +891,7 @@ Try translating these sentences from English to Pandunia.
 
 **did**
 before, formerly  
-**nau**
+**nun**
 at present, currently  
 **vil**
 will, in the future  
@@ -914,7 +914,7 @@ milk
 
 1. mi se shefe vil feste.
 2. mi did have du vaf.
-3. tu nau yam supe.
+3. tu nun yam supe.
 4. da safi kamar a preden.
 5. mau yam milke a posden.
 6. tu se ma feste a prenoche.

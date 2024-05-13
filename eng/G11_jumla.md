@@ -71,7 +71,7 @@ Subject and object can be noun phrases that consist of many words,
 and there can be a series of verbs (i.e. a serial verb) instead of a single verb.
 In such cases the boundaries between the clause constituents can become doubtful.
 
-**let baku meme van shuru yam hau seng chau.**
+**let baku meme van shuru yam gud seng chau.**
 – Little white sheep want to start to eat good fresh grass.
 
 Boundaries between sentence elements can be marked with little words.
@@ -88,7 +88,7 @@ Determiners, like
 'some',
 help to indicate where noun phrases begin.
 
-**dalet baku meme *ye* van shuru yam *da* hau seng chau.**
+**da let baku meme *ye* van shuru yam *da* gud seng chau.**
 – The little white sheep want to start to eat that good fresh grass.
 
 
@@ -220,7 +220,7 @@ the previous rules apply also to adjective subjects and verb subjects.
 – Young is beautiful.  
 **yun – no sen.** ~ **yun no es sen.**
 – Young is not old.  
-**gani – hau.** ~ **gani es hau.**
+**gani – gud.** ~ **gani es gud.**
 – Singing is good.  
 **gani – no dus.** ~ **gani no es dus.**
 – Singing is not bad.  
@@ -291,7 +291,7 @@ but structurally it is now a transitive clause.
 
 ***yun fem*** **danse mei danse.**
 – The young woman dances a beautiful dance.  
-***sen man*** **morte hau morte.**
+***sen man*** **morte gud morte.**
 – The old man died a good death.
 
 The intransitive clause is structurally similar to the nominal predicative clause, which has zero copula.
@@ -1153,7 +1153,7 @@ It can also introduce a statement that may be contrary to expectations.
 
 **tu kitab da, he? – na, no haf.**
 – Did you write it? – Well, not yet.  
-**da hau, ne? – na, ye.**
+**da gud, ne? – na, ye.**
 – It's good, isn't it? – Well, yes.
 
 **o**
