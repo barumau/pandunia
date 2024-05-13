@@ -27,14 +27,14 @@ can function equally as an adjective (_blank_ or _void_), noun (_a blank_) and v
 – You must blank out that word.
 
 Likewise, the word
-**kitabe**
+**kitab**
 can function as a verb (_to write_), a noun (_a writing_) and adjective (_written_ or _textual_).
 
-**mi kitabe letre.**
+**mi kitab letre.**
 – I write a letter.  
-**letre es kitabe misaje.**
+**letre es kitab misaje.**
 – A letter is a written message.  
-**mi love yu se kitabe.**
+**mi love yu se kitab.**
 – I love your writings.
 
 

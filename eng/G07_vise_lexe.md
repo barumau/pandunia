@@ -134,9 +134,9 @@ The distal demonstrative
 **da der**
 points to things that are futher away from the speaker in terms of physical distance or relation.
 
-**tu van da der buke, he?**
+**tu van da der buk, he?**
 – Do you want that book?  
-**no, mi van da hir buke, no da der.**
+**no, mi van da hir buk, no da der.**
 – No, I want this book, not that.
 
 The demonstratives can serve as subjects and objects in the same way as nouns.

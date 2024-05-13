@@ -138,7 +138,7 @@ your
 3. hu es tu se frende?
 4. da es Sara.
 5. tu se nam es kua?
-6. mi se nam es ........... 
+6. mi se nam es ____________.
 
 
 --------------------------------------------------------------------------------
@@ -424,6 +424,10 @@ to order, to command
 tea  
 **chin pa**
 grandfather  
+**da**
+this or that  
+**danke**
+to thank; thank you  
 **don**
 to give  
 **e**
@@ -434,8 +438,6 @@ to go
 coffee  
 **kamar**
 room  
-**da**
-this or that  
 **mus**
 must, have to  
 **o**
@@ -749,26 +751,26 @@ The question can be made more specific by adding words for person, time, manner 
 – How to dance? (**mode** = manner, style)
 
 In Pandunia, questions beginning with _why_ are asked using
-**kua sababe**.
+**kua sabab**.
 
-**kua sababe tu suka mau?**
+**kua sabab tu suka mau?**
 – Why do you like cats?
 
 Questions asking about the cause or reason of something, are answered by adding
-**de sababe**
+**of sabab**
 before the cause or reason.
 
-**kua sababe tu suka mau?**
+**kua sabab tu suka mau?**
 – Why do you like cats?  
-**de sababe di es kavai.**
+**of sabab di es kavai.**
 – Because they are cute.
 
 Of course,
-**sababe**
+**sabab**
 can also be used to express the cause or reason for something,
 even when not answering to a question.
 
-**mi suka mau of sababe di es kavai**
+**mi suka mau of sabab di es kavai**
 – I like cats because they are cute.
 
 ### Exercises
@@ -791,12 +793,12 @@ to dance
 to come  
 **jen**
 person  
-**mode**
-manner, style  
 **suka**
 to like  
 **tem**
-period of time
+period of time  
+**vei**
+manner, style
 
 
 ### Answers to the Exercises
@@ -806,8 +808,8 @@ period of time
 2. papa suka.
 3. kua tem da kom?
 4. pos des minute.
-5. kua sababe da no yam?
-6. of sababe da no suka kafe e supe.
+5. kua sabab da no yam?
+6. of sabab da no suka kafe e supe.
 
 
 --------------------------------------------------------------------------------
@@ -841,16 +843,7 @@ There are also specific time words.
 **vil**
 – later, in the future
 
-They can be used for modifying nouns.
-
-**Sara es mi se did shefe.**
-– Sarah is my former boss.  
-**Yusef es mi se nau shefe.**
-– Yusef is my current boss.  
-**Maria es mi se vil shefe.**
-– Maria is my future boss.
-
-The same words are used when you talk about actions and events in time.
+These words are used when you talk about actions and events in time.
 Simply put the word before the verb.
 
 **mi did bate da.**
@@ -869,7 +862,7 @@ or until it becomes useful to stress that you are still talking in the same tens
 
 **mi did have un mau.**
 – I had a cat in the past.  
-**da es hau mau.**
+**da es gud mau.**
 – It was a good cat.  
 **mi nau have un vaf.**
 – I now have a dog.
@@ -904,12 +897,12 @@ at present, currently
 will, in the future  
 **pre**
 before  
+**bate**
+to hit, to beat  
 **den**
 day, 24 hours  
 **noche**
 night  
-**bate**
-to hit, to beat  
 **ban**
 bread  
 **suba yam**

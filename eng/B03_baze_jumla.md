@@ -359,26 +359,32 @@ Bengali না (na).</small>
 – They are apples.
 
 
-### kua? <small>what? who?</small>
+### hu? <small>who?</small>
 
-**kua?**
+**hu?**
 – What?
 
-**tu es kua?**
+**hu es tu?**
 – Who are you?  
 **mi es Tomas.**
 – I'm Thomas.
 
-**da es kua?**
+**hu es da?**
 – Who is he/she?  
 **da es Sara.**
 – She is Sarah.
 
-**yu es kua?**
+**hu es yu?**
 – Who are you people?
 
-**di es kua?**
+**hu es di?**
 – Who are they?
+
+
+### kua? <small>what?</small>
+
+**kua?**
+– What?
 
 <small>Etymology. **kua** is from
 French *quoi*,
@@ -386,22 +392,31 @@ Spanish *cuál*,
 English *what*.</small>
 
 
-### da <small>this or that</small>
+### da hir <small>this</small>
 
-**da hir es kua?**
+**kua es da hir?**
 – What's this?
 
 **da hir es aple.**
 – This is an apple.
 
-**da der es kua?**
+**da es rubi aple.**
+– It is a red apple.
+
+**di sta kua?**
+– Where are they?
+
+**di sta hir.**
+– They are here.
+
+
+### da der <small>that</small>
+
+**kua es da der?**
 – What is that?
 
 **da der es aranja.**
 – That is an orange.
-
-**da es rubi aple.**
-– This is a red apple.
 
 **da aple es rubi.**
 – This apple is red.
@@ -411,9 +426,6 @@ English *what*.</small>
 
 **di sta kua?**
 – Where are they?
-
-**di sta hir.**
-– They are here.
 
 **di sta der.**
 – They are there.
@@ -427,7 +439,7 @@ English *what*.</small>
 **da es mi se telefon.**
 – It's my telephone.
 
-**da hir es kua se?**
+**da hir es hu se?**
 – Whose is this?
 
 **da es mi se.**
@@ -441,7 +453,7 @@ means 'my',
 **tu se**
 means 'your' and so on.
 
-**da es kua?**
+**da es hu?**
 – Who's he/she?
 
 **da es mi se frende.**
@@ -638,15 +650,15 @@ Tip: To make direct requests, drop all the pronouns.
 – Please, help me.
 
 
-### haida <small>let's</small>
+### shal <small>let's, shall</small>
 
-**haida yam!**
+**vi shal yam!**
 – Let's eat!
 
-**haida go yam!**
+**vi shal go yam!**
 – Let's go eat!
 
-**haida go haus.**
+**vi shal go haus.**
 – Let's go home.
 
 
@@ -796,12 +808,12 @@ Tip: To make direct requests, drop all the pronouns.
 – I don't understand what it means.
 
 
-### kitabe <small>write</small>
+### kitab <small>write</small>
 
-**plis kitabe tu se adres.**
+**plis kitab tu se adres.**
 – Please, write your address.
 
-**plis kitabe da a hir.**
+**plis kitab da a hir.**
 – Please, write it here!
 
 

@@ -602,9 +602,9 @@ They don't say, for example, *I want that I write* but they say *I want to write
 Looks like it is worthwhile to mention the participants only when they add new information to the sentence.
 The second participant can be left out from the pivot construction when it is the same as the subject.
 
-***mi*** **van** ***mi*** **kitabe letre.**
+***mi*** **van** ***mi*** **kitab letre.**
 – *I* want *me* to write a letter.  
-***mi*** **van kitabe letre.**
+***mi*** **van kitab letre.**
 – I want to write a letter.
 
 This structure is called the verb series or the serial verb construction.
@@ -819,7 +819,7 @@ and it corresponds to English _that_, _who_ and _which_.
 
 In Pandunia, relative clauses are always set off by commas.
 
-**da buke, ki da jen kitabe, pada.**
+**da buk, ki da jen kitab, pada.**
 – The book, which the person writes, falls.
 
 It is also possible to leave
@@ -827,34 +827,34 @@ It is also possible to leave
 out.
 This structure is called _reduced relative clause_.
 
-**da buke, da jen kitabe, pada.**
+**da buk, da jen kitab, pada.**
 – The book the person writes falls.
 
 The relative pronoun is necessary
 when the relativized noun is the subject of the relative clause.
 
-**da jen, ki kitabe da buke, pada.**
+**da jen, ki kitab da buk, pada.**
 – The person that writes the book falls.
 
 Also the object noun of a preposition can be the target of the relative clause.
 It's possible to use relative pronouns or the reduced relative clause structure.
 
-**da kalam, a ki da jen kitabe da buke, pada.**
+**da kalam, a ki da jen kitab da buk, pada.**
 – The pen, with _which_ the person writes the book, falls.  
-**da kalam, da jen kitabe da buke a, pada.**
+**da kalam, da jen kitab da buk a, pada.**
 – The pen the person writes the book with falls.
 
 The relative pronoun can be put in its right place in the pivot structure
 or it can be left out by using the reduced relative clause structure.
 
-**da jen, mi vize ki kitabe da buke, pada.**
+**da jen, mi vize ki kitab da buk, pada.**
 – The person, whom I see write the book, falls.  
-**da jen, mi vize kitabe da buke, pada.**
+**da jen, mi vize kitab da buk, pada.**
 – The person that I see write the book falls.  
 
 Also a _resumptive relative pronoun_ can be used if needed.
 
-**da jen, mi kitabe da buke a ki se kalam, pada.**
+**da jen, mi kitab da buk a ki se kalam, pada.**
 – The person whose pen I write the book with falls.
 
 
@@ -890,9 +890,9 @@ can be combined to the prepositions in order to construct conjunctions of cause 
 **of ke**
 – because, for the reason that
 
-**mi dugu ye buke _to ki_ mi trapas da teste.**
+**mi dugu ye buk _to ki_ mi trapas da teste.**
 – I read this book so that I will pass the test.  
-**mi haf trapas da teste _de ki_ mi dugu da buke.**
+**mi haf trapas da teste _de ki_ mi dugu da buk.**
 – I have passed the test because I read the book.
 
 
@@ -1151,7 +1151,7 @@ is used to introduce a statement.
 It can fill a pause, particularly at the beginning of a response to a question.
 It can also introduce a statement that may be contrary to expectations.
 
-**tu kitabe da, he? – na, no haf.**
+**tu kitab da, he? – na, no haf.**
 – Did you write it? – Well, not yet.  
 **da hau, ne? – na, ye.**
 – It's good, isn't it? – Well, yes.

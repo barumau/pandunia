@@ -64,14 +64,14 @@ It is possible to specify plurality also by reduplication, by saying the noun tw
 
 **haus haus**
 – houses and houses, a variety of houses  
-**buke buke**
+**buk buk**
 – books and books, a variety of books
 
 Quantity words should not be used together with reduplication.
 Therefore, a phrase like
-**tri buke buke**
+**tri buk buk**
 would be superfluous, whereas
-**tri buke**
+**tri buk**
 ('three books') is just perfect.
 
 ## Proper names
