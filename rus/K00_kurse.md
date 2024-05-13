@@ -663,7 +663,7 @@ hide:
 
 **da did es mi se shefe.**
 – Она была моим боссом в прошлом.  
-**da nau es mi se shefe.**
+**da nun es mi se shefe.**
 – Она мой босс сейчас.  
 **da vil es mi se shefe.**
 – Она будет моим боссом в будущем.
@@ -683,7 +683,7 @@ hide:
 – Я владел (одной) кошкой в прошлом.  
 **da have mau.**
 – Она была хорошей кошкой.  
-**mi nau have un vaf.**
+**mi nun have un vaf.**
 – Я сейчас владею (одним) собаком.
 
 Любое выражение, указывающее время, может быть удобно.
@@ -721,7 +721,7 @@ hide:
 завтрак  
 **feste**
 праздновать  
-**nau**
+**nun**
 сейчас  
 **nen**
 год  
@@ -740,7 +740,7 @@ hide:
 
 1. mi se shefe vil feste.
 2. mi did have du vaf.
-3. tu nau yam supa.
+3. tu nun yam supa.
 4. da safi kamar a preden.
 5. mau yam kafe a pos den.
 6. tu se mama feste a presham.

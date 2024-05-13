@@ -60,12 +60,12 @@ Lo si fa inserendo semplicemente un numero o un quantificatore davanti al sostan
 
 **haus haus**
 – case e case, diverse case  
-**buke buke**
+**buk buk**
 – libri e libri, diversi libri
 
 I quantificatori non si usano con la reduplicazione.
 Perciò un sintagma come
-**meni buke buke**
+**meni buk buk**
 è ridondante.
 
 ## Nomi propri

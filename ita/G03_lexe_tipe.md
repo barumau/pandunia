@@ -144,7 +144,7 @@ come nella tabella che segue.
 
 | Soggetto        | TAM    | Predicato         | Det.   | Oggetto           |
 |-----------------|--------|-------------------|--------|-------------------|
-| *suka bacha*    | **ya** | *kitabe*          | **un** | *long letre.*     |
+| *suka bacha*    | **ya** | *kitab*          | **un** | *long letre.*     |
 | Il bimbo felice |        | scrive            |        | una lunga lettera.|
 | *yun man*       | **ya** | *vize*            | **un** | *mei parke.*      |
 | Il giovane uomo |        | vede              |        | un bel parco.     |
@@ -183,6 +183,6 @@ a seconda della sua posizione nella frase.
 – Io ti **amo**. (verbo)  
 **tu fikre mi se** ***love.***
 – Tu pensi al mio **amore**. (sostantivo)  
-**mi kitabe un** ***love*** **letre.**
+**mi kitab un** ***love*** **letre.**
 – Io scrivo una lettera **d'amore**. (aggettivo)
 

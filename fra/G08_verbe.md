@@ -75,7 +75,7 @@ Il indique qu'une action s'est produite dans le passé et est toujours en cours,
 – Je n'ai pas encore bu d'alcool.  
 **mi _haf_ no gul alkol.**
 – Je ne bois déjà plus d'alcool. (J'ai déjà achevé la situation où je ne bois pas d'alcool.)  
-**mi _haf_ don la buke to di.**
+**mi _haf_ don la buk to di.**
 – Je leur ai déjà donné le livre.  
 **damen no _haf_ ridon da to mi.**
 – Ils ne me l'ont pas encore rendu.  
@@ -89,7 +89,7 @@ Il indique qu'une action s'est produite dans le passé et est toujours en cours,
 'passer'
 Il indique qu'une action est terminée et n'est plus pertinente pour la situation actuelle.
 
-**mi did don la buke to di.**
+**mi did don la buk to di.**
 – Je leur ai donné le livre. (Peut-être qu'ils ne l'ont plus ou qu'ils l'ont rendu.)  
 **mi did vizite Franse.**
 – J'ai visité la France une fois.  

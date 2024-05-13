@@ -20,14 +20,14 @@ voi toimia niin adjektiivina 'tyhjä', substantiivina 'tyhjä' kuin verbinä 'ty
 – Sinun täytyy tyhjentää teksti.
 
 Samaten sana
-**kitabe**
+**kitab**
 voi toimia niin verbinä 'kirjoittaa', substantiivina 'kirjoitus' kuin adjektiivina 'kirjoitettu, kirjallinen'.
 
-**mi kitabe letre.**
+**mi kitab letre.**
 – Minä kirjoitan kirjettä.  
-**letre es kitabe misaje.**
+**letre es kitab misaje.**
 – Kirje on kirjoitettu viesti.  
-**mi love yu se kitabe.**
+**mi love yu se kitab.**
 – Minä rakastan teidän kirjoituksianne.
 
 
@@ -37,7 +37,7 @@ Sanoja saa yhdistää panduniassa vapaasti ilmaisemaan uusia asioita.
 Yhdyssanan viimeinen osa on tärkein,
 ja sitä edeltävät sanat vain täydentävät sen merkitystä.
 Esimerkiksi, 
-**kitabe meza**
+**kitab meza**
 on eräänlainen pöytä, kirjoituspöytä.
 Samaten,
 **kristal klare**

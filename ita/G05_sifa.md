@@ -13,9 +13,9 @@ Per esempio la parola
 modifica un sostantivo nella frase A
 e un verbo nella frase B.
 
-A. **da es _mei_ kitabe.**
+A. **da es _mei_ kitab.**
 – Quella è una bella scrittura.  
-B. **tu _mei_ li kitabe.**
+B. **tu _mei_ li kitab.**
 – Tu scrivi _in modo bello_.
 
 
@@ -47,7 +47,7 @@ si posiziona immediatamente davanti al verbo.
 
 **tu _rapide_ loga.**
 – Tu parli _velocemente_.  
-**di jen _gud_ kitabe.**
+**di jen _gud_ kitab.**
 – Loro scrivono _bene_.
 
 È d'uso comune inserire la particella
@@ -55,7 +55,7 @@ si posiziona immediatamente davanti al verbo.
 tra il modificatore e il verbo.
 Ciò rende più chiara la struttura del sintagma verbale.
 
-**tu _mei li_ kitabe.**
+**tu _mei li_ kitab.**
 – Tu scrivi _in modo bello_.  
 **di _rapide li_ marche.**
 – Loro camminano _velocemente_.
@@ -67,7 +67,7 @@ La particella
 **li**
 si usa anche quando un modificatore ne modifica un altro.
 
-**un _dai li_ gud buke**
+**un _dai li_ gud buk**
 – un libro _molto_ buono  
 **_bala li_ lovente jen**
 – molte persone _fortemente_ affettuose

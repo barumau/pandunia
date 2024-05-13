@@ -747,12 +747,12 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 – Je ne comprend pas ce que cela signifie.
 
 
-### kitabe <small>écrire</small>
+### kitab <small>écrire</small>
 
-**plis kitabe tu se adres.**
+**plis kitab tu se adres.**
 – S’il te plait, écris ton adresse.
 
-**plis kitabe da a hir.**
+**plis kitab da a hir.**
 – S’il te plait, écris-le là !
 
 
@@ -969,7 +969,7 @@ Il / Elle a (déjà) été le chef / la cheffe.
 **mi don da hir to tu.**
 – Je te donne ceci.
 
-**mi don buke to di.**
+**mi don buk to di.**
 – Je leur donne un livre.
 
 **da no van don da to mi.**

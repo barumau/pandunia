@@ -80,15 +80,15 @@ The word order is the same also in questions.
 
 Singular and plural are indicated with number words.
 
-**buke**
+**buk**
 – one or more books  
-**un buke**
+**un buk**
 – (one) book  
-**du buke**
+**du buk**
 – two books  
-**tri buke**
+**tri buk**
 – three books  
-**meni buke**
+**meni buk**
 – many books
 
 Comparison is done with helping words:
@@ -118,11 +118,11 @@ Time is expressed with auxiliary verbs:
 **bi**
 – ongoing events
 
-**di did lese mi se buke.**
+**di did lese mi se buk.**
 – They read my book.  
-**vi haf lese meni buke.**
+**vi haf lese meni buk.**
 – We have read many books.  
-**mi bi lese un buke.**
+**mi bi lese un buk.**
 – I am reading one book.  
 **yu vil tolke Pandunia.**
 – You will talk Pandunia.

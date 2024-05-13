@@ -412,7 +412,7 @@ a normal PoS suffix.
 | Hausa      | adduʕa       | addu'a          |
 | Yoruba     | adura        | àdúrà           |
 
-#### kitabe 'writing'
+#### kitab 'writing'
 
 This word means _book_ in many languages.
 The original Arabic word means all kinds of writing.

@@ -702,12 +702,12 @@ Para fazer pedidos diretos, não coloque nenhum pronome.
 – Eu não entendo o que significa.
 
 
-### kitabe <small>escrever</small>
+### kitab <small>escrever</small>
 
-**plis kitabe tu se adres.**
+**plis kitab tu se adres.**
 – Por favor, escreva seu endereço.
 
-**plis kitabe da a hir.**
+**plis kitab da a hir.**
 – Escreva aqui, por favor.
 
 
@@ -862,7 +862,7 @@ não é necessário.
 **mi don da hir to tu.**
 – Eu te dou isso.
 
-**mi don buke to di.**
+**mi don buk to di.**
 – Eu dou um livro para eles.
 
 **da no van don da to mi.**

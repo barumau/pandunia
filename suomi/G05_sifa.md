@@ -62,7 +62,7 @@ Partikkelia
 **di**
 käytetään myös kun määrite määrittää toista määritettä.
 
-**un _dai di_ hau buku**
+**un _dai di_ hau buk**
 – _isosti_ hyvä kirja  
 **meni _bala di_ ai ja jen**
 – _voimakkaasti_ rakastavat ihmiset

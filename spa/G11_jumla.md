@@ -288,41 +288,41 @@ y corresponde a español _que_ o _el cual_.
 
 En Pandunia, cláusulas relativas siempre son separadadas por comas.
 
-**da buke, ki da jen kitabe, pada.**
+**da buke, ki da jen kitab, pada.**
 – El libro, que la persona escribe, cae.
 
 Es posible omitir
 **ki**.
 Esta estructura se llama _cláusula relativa reducida_.
 
-**da buke, da jen kitabe, pada.**
+**da buke, da jen kitab, pada.**
 – El libro, que la persona escribe, cae.
 
 El pronombre relative es necesario
 cuando el sustantivo relativizado es el sujeto de la cláusula relativa.
 
-**da jen, ki kitabe da buke, pada.**
+**da jen, ki kitab da buke, pada.**
 – La persona, que escribe el libro, cae.
 
 En adición el objeto de una preposición puede ser la cabeza de la cláusula relativa.
 Es posible usar pronombres relativas o la estructura de cláusula relativa reducida.
 
-**da kalam, a ki da jen kitabe da buke, pada.**
+**da kalam, a ki da jen kitab da buke, pada.**
 – La pluma, con que la persona escribe el libro, cae.  
-**da kalam, da jen kitabe da buke a, pada.**
+**da kalam, da jen kitab da buke a, pada.**
 – La pluma, con que la persona escribe el libro, cae.
 
 El pronombre relativo puede ponerse en su lugar correcto en la estructura de eje
 o puede omitirse usando la estructura de cláusula relativa reducida.
 
-**da jen, mi vize ki kitabe da buke, pada.**
+**da jen, mi vize ki kitab da buke, pada.**
 – La persona, que veo escribir el libro, cae.
-**da jen, mi vize kitabe da buke, pada.**
+**da jen, mi vize kitab da buke, pada.**
 – La persona, que veo escribir el libro, cae.
 
 En adición _pronombre relativo resumivo_ se puede utilizar si es necesario.
 
-**da jen, mi kitabe da buke a ki se kalam, pada.**
+**da jen, mi kitab da buke a ki se kalam, pada.**
 – La persona, con cuya pluma escribo el libro, cae.
 
 

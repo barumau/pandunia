@@ -937,7 +937,7 @@ hide:
 **mi don da hir to tu.**
 私はあなたにこれを与えます(=これをあげます)。
 
-**mi don buke to di.**
+**mi don buk to di.**
 私は本を彼ら/彼女ら/その人たちに与えた。
 
 **da no van don da to mi.**

@@ -98,7 +98,7 @@ Les adjectifs se placent généralement devant le nom qu'ils modifient.
 
 **un nove idea**
 – une nouvelle idée  
-**di hau buke**
+**di hau buk**
 – _les livres bonnes_
 
 On compare les adjectifs grâce aux mots

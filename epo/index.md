@@ -73,15 +73,15 @@ Demandoj enhavas la saman vortordon.
 
 Singularo kaj pluralo estas indikita per nombrovortoj.
 
-**buke**
+**buk**
 – unu aŭ multaj libroj  
-**un buke**
+**un buk**
 – (unu) libro  
-**due buke**
+**due buk**
 – du libroj  
-**tri buke**
+**tri buk**
 – tri libroj  
-**meni buke**
+**meni buk**
 – multaj libroj
 
 Oni komparas adjektivojn kaj adverbojn per helpantaj vortoj:
@@ -111,11 +111,11 @@ Tempo estas indikata per helpantaj verboj:
 **bi**
 – daŭre pasantaj agoj
 
-**di did ride mi's buke.**
+**di did ride mi's buk.**
 – Ili legis mian libron.  
-**vi haf ride meni buke.**
+**vi haf ride meni buk.**
 – Ni estas leginta multajn librojn.  
-**mi bi ride un buke.**
+**mi bi ride un buk.**
 – Mi estas leganta libron.  
 **yu vil tolke Pandunia.**
 – Vi parolos Pandunian.

@@ -77,15 +77,15 @@ Samaa sanajärjestystä käytetään myös kysymyslauseissa.
 
 Yksikkö ja monikko ilmaistaan lukusanoilla tarpeen mukaan.
 
-**buke**
+**buk**
 – kirja tai kirjoja  
-- **un buke**
+- **un buk**
   – (yksi) kirja;
-- **due buke**
+- **due buk**
   – kaksi kirjaa;
-- **tri buke**
+- **tri buk**
   – kolme kirjaa;
-- **meni buke**
+- **meni buk**
   – monta kirjaa
 
 Adjektiiveja ja adverbeja vertaillaan sanoilla:
@@ -115,11 +115,11 @@ Aika ilmaistaan apusanoilla:
 **bi**
 – meneillään oleva tapahtuma
 
-**di did ride mi's buke.**
+**di did ride mi's buk.**
 – He lukivat minun kirjaa.  
-**vi haf ride meni buke.**
+**vi haf ride meni buk.**
 – Me olemme lukeneet monta kirjaa.  
-**mi bi ride un buke.**
+**mi bi ride un buk.**
 – Minä olen lukemassa yhtä kirjaa.  
 **yu vil tolke Pandunia.**
 – Te tulette puhumaan panduniaa.

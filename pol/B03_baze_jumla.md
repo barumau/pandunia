@@ -862,7 +862,7 @@ Proszę, daj mi to.
 **mi don ye to tu.**
 Daję ci to.
 
-**mi don buku to damen.**
+**mi don buk to damen.**
 Daję im książkę.
 
 **da no vol don da to mi.**

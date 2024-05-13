@@ -1028,7 +1028,7 @@ as a preposition or alone as the verb.
 **mi don da hir to tu.**
 – I give this to you.
 
-**mi don buke to di.**
+**mi don buk to di.**
 – I give a book to them.
 
 **da no van don da to mi.**
@@ -1116,7 +1116,7 @@ Come here / back / to us.
 **mi skole pandunia.**
 – I study Pandunia.
 
-**shou da to mi a lexe buke!**
+**shou da to mi a lexe buk!**
 – Show me in the dictionary!
 **mi no memo.**
 – I don't remember.

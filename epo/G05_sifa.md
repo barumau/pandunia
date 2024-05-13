@@ -40,10 +40,10 @@ Kompreneble, eblas ke modifovortoj aperu je ambaŭ flankoj de substantivo.
 
 **tu _rapide_ loga.**
 – Vi _rapide_ parolas.  
-**di jen _gud_ kitabe.**
+**di jen _gud_ kitab.**
 – Ili _bone_ skribas.
 
-**tu _mei li_ kitabe.**
+**tu _mei li_ kitab.**
 – Vi _bele_ skribas.  
 **di _rapide li_ marche.**
 – Ili _rapide_ promenas.
@@ -56,7 +56,7 @@ Aldoni partiklon
 **li**
 inter la modifanta kaj la modifata.
 
-**un _dai li_ gud buke**
+**un _dai li_ gud buk**
 – _grande_ bona libro  
 **_bala li_ lovente jen**
 – _forte_ amantaj homoj

@@ -144,7 +144,7 @@ as in the table below.
 
 | Subject         | TAM    | Predicate   | Det.   | Object            |
 |-----------------|--------|-------------|--------|-------------------|
-| *suka bacha*    | **ye** | *kitabe*    | **un** | *long letre.*     |
+| *suka bacha*    | **ye** | *kitab*     | **un** | *long letre.*     |
 | The happy child |        | writes      |        | a long letter.    |
 | *yun man*       | **ye** | *vize*      | **un** | *mei parke.*      |
 | The young man   |        | sees        |        | a beautiful park. |
@@ -183,6 +183,6 @@ depending on its position in the sentence.
 – I **love** you. (verb)  
 **tu fikre mi se** ***love.***
 – You think about my **love**. (noun)  
-**mi kitabe un** ***love*** **letre.**
+**mi kitab un** ***love*** **letre.**
 – I write a **love** letter. (adjective)
 

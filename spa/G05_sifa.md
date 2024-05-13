@@ -58,7 +58,7 @@ En Pandunia, _adverbos_ son modificadores que preceden el verbo que modifican.
 
 **tu _rapide_ loga.**
 – Usted hablas _rápido_.  
-**di jen _hau_ kitabe.**
+**di jen _hau_ kitab.**
 – Ellas escriben _bien_.
 
 Es común poner la partícula de modificación
@@ -66,7 +66,7 @@ Es común poner la partícula de modificación
 entre el modificador y el verbo.
 Hace la estructura del frase verbal más claro.
 
-**tu _mei li_ kitabe.**
+**tu _mei li_ kitab.**
 – Tú escribes _hermoso_.  
 **di _rapide li_ marche.**
 – Ellos caminan _rápido_.

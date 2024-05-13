@@ -26,7 +26,7 @@ Substantiivin toistaminen on helppo tapa ilmaista monikkoa.
 
 **ite ite**
 = kiviä ja kiviä, monenlaisia kiviä  
-**buku buku**
+**buk buk**
 = kirjoja ja kirjoja, monenlaisia kirjoja  
 
 

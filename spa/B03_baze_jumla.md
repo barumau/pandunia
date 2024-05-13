@@ -707,12 +707,12 @@ _Él/ella no puede conducir un auto._)
 – No entiendo qué significa.
 
 
-### kitabe <small>escribir</small>
+### kitab <small>escribir</small>
 
-**plis kitabe tu se adres.**
+**plis kitab tu se adres.**
 – Por favor, escribe tu dirección.
 
-**plis kitabe da a hir.**
+**plis kitab da a hir.**
 – Por favor, escríbelo aquí.
 
 

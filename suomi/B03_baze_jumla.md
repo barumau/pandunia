@@ -754,12 +754,12 @@ Minkälaista musiikkia sinä kuuntelet?
 – Minä en ymmärrä mitä se tarkoittaa.
 
 
-### kitabe <small>kirjoittaa</small>
+### kitab <small>kirjoittaa</small>
 
-**plis kitabe tu se adres.**
+**plis kitab tu se adres.**
 – Kirjoittaisitko osoitteesi.
 
-**plis kitabe da a hir.**
+**plis kitab da a hir.**
 – Kirjoittaisitko sen tähän!
 
 

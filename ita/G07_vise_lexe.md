@@ -97,9 +97,9 @@ Il dimostrativo distale
 **da der**
 indica cose che sono lontane da chi parla.
 
-**tu van da der buke, he?**
+**tu van da der buk, he?**
 – Vuoi quel libro?  
-**no, mi van da hir buke, no da der.**
+**no, mi van da hir buk, no da der.**
 – No, voglio questo libro, non quello.
 
 I dimostrativi possono fungere da soggetto e complemento oggetto proprio come i sostantivi.

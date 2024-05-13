@@ -739,12 +739,12 @@ Kion "mau" signifas?
 Mi ne komprenas kion ĝi signifas.
 
 
-### kitabe <small>skribi</small>
+### kitab <small>skribi</small>
 
-**plis kitabe tu se adres.**
+**plis kitab tu se adres.**
 Bonvolu skribi vian adreson.
 
-**plis kitabe da a hir.**
+**plis kitab da a hir.**
 Bonvolu skribi ĝin ĉi tie!
 
 

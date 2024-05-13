@@ -161,14 +161,14 @@
 
     Глагол¹ + Глагол² ( + Дополнение )
 
-**mi plis tu lete da hir buke.**
+**mi plis tu lete da hir buk.**
 – Я прошу тебя прочитать эту книгу.  
-**plis lete da hir buke.**
+**plis lete da hir buk.**
 – Пожалуйста, прочитай эту книгу.
 
-**mi amir tu lete da hir buke.**
+**mi amir tu lete da hir buk.**
 – Я приказываю тебе прочитать эту книгу.  
-**amir lete da hir buke.**
+**amir lete da hir buk.**
 – Прочитай эту книгу!
 
 

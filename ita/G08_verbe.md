@@ -42,7 +42,7 @@ La relazione tra un azione, un evento o uno stato e il tempo si indica con dei v
 indica che un'azione è terminata e non è più rilevante per la situazione attuale.
 Si può pensare a qualcosa do simile al passato remoto in italiano (terminai, mangiai).
 
-**mi did don da buke to di.**
+**mi did don da buk to di.**
 – Diedi loro il libro. (Forse non lo hanno più o lo hanno restituito.)  
 **mi did vizite Franse.**
 – Visitai la Francia.  
@@ -119,21 +119,21 @@ il primo verbo (un ausiliare) è qualcosa che il soggetto possiede
 e il secondo verbo è qualcosa che il soggetto fa (quando è presente un complemento oggetto)
 o che esperisce (se non è presente alcun complemento oggetto).
 
-**mi kan kitabe da javabe.**  
+**mi kan kitab da javab.**  
 ≈ *Ho la capacità di scrivere la risposta.*  
 – So scrivere la risposta.  
-**mi halal kitabe da javabe.**  
+**mi halal kitab da javab.**  
 ≈ *Ho il permesso di scrivere la risposta.*  
 – Posso scrivere la risposta.  
-**mi mus kitabe da javabe.**  
+**mi mus kitab da javab.**  
 ≈ *Ho l'obbligo di scrivere la risposta.*  
 – Devo scrivere la risposta.
 
 Nota che gli stessi verbi ausiliari possono essere usati da soli come verbi transitivi nella costruzione fondamentale.
 
-**guru halal mi kitabe da javabe.**
+**guru halal mi kitab da javab.**
 – L'insegnante mi permette di scrivere la risposta.  
-**guru mus mi kitabe da javabe.**
+**guru mus mi kitab da javab.**
 – L'insegnante mi obbliga a scrivere la risposta.
 
 
@@ -151,7 +151,7 @@ indica una destinazione, un obiettivo o uno scopo, 'a, verso, per'.
 
 **di marche to bazar.**
 – Loro camminano verso il mercato.  
-**mi van don da buke to tu.**
+**mi van don da buk to tu.**
 – Voglio dare questo libro a te.
 
 
@@ -224,7 +224,7 @@ La preposizione
 **re**
 indica movimento di ritorno, 'indietro'.
 
-**da don da buke re mi.**
+**da don da buk re mi.**
 – Lui mi ha dato il libro indietro.
 
 #### tra

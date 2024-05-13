@@ -26,7 +26,7 @@ Persoonapronominien omistusmuodot muodostetaan partikkelilla
 
 Persoonapronominit korvaavat kokonaisia lausekkeita.
 
-**un yun man sta haus. _da_ lete un buke.**
+**un yun man sta haus. _da_ lete un buk.**
 – _Yksi nuori mies on kotona. Hän lukee kirjaa._
 
 ## Refleksiivipronomini
@@ -80,9 +80,9 @@ ja pronomini
 **da der**
 osoittaa puhujasta kaukana oleviin asioihin.
 
-**tu van da der buke, he?**
+**tu van da der buk, he?**
 – Haluatko sinä tuon kirjan?  
-**no, mi van da hir buke, no da der.**
+**no, mi van da hir buk, no da der.**
 – Minä haluan tämän kirjan, en tuota.
 
 Panduniassa osoittavat pronomiinit toimivat subjekteina ja objekteina samalla tavalla kuin substantiivit.

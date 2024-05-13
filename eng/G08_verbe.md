@@ -213,21 +213,21 @@ the first verb (an auxiliary verb) is something that the subject possesses
 and the second verb is something that the subject does (when there is an object in the end)
 or experiences (when there is no object).
 
-**mi kan kitabe da javabe.**  
+**mi kan kitab da javab.**  
 ≈ *I have the ability to write the answer.*  
 – I can write the answer.  
-**mi halal kitabe da javabe.**  
+**mi halal kitab da javab.**  
 ≈ *I have the permission to write the answer.*  
 – I may write the answer.  
-**mi mus kitabe da javabe.**  
+**mi mus kitab da javab.**  
 ≈ *I have the compulsion to write the answer.*  
 – I must write the answer.
 
 Note that the same auxiliary verbs can be used alone as transitive verbs in the pivot construction.
 
-**guru halal mi kitabe da javabe.**
+**guru halal mi kitab da javab.**
 – The teacher permits me to write the answer.  
-**guru mus mi kitabe da javabe.**
+**guru mus mi kitab da javab.**
 – The teacher compels me to write the answer.
 
 
@@ -258,7 +258,7 @@ denotes a destination, goal or purpose, 'to, toward, for'.
 
 **di marche to bazar.**
 – They walk to the market.  
-**mi van don da hir buke to yu.**
+**mi van don da hir buk to yu.**
 – I want to give this book to you.
 
 #### of
@@ -269,8 +269,8 @@ expresses separation or origin, 'of, off, from'.
 
 **di kom of Brazil.**
 – They come from Brazil.  
-**da lexe** ***kitabe*** **es of arabe asle.**
-– This word *kitabe* is of Arabic origin.
+**da lexe** ***kitab*** **es of arabe asle.**
+– This word *kitab* is of Arabic origin.
 
 #### ex
 
@@ -332,7 +332,7 @@ The preposition
 **re**
 denotes movement back, 'back, in return'.
 
-**da don da buke re mi.**
+**da don da buk re mi.**
 – He gave the book back to me.
 
 #### tra

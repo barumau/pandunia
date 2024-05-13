@@ -45,7 +45,7 @@ Un método fácil para decir que hay muchos es repetir el sustantivo dos veces.
 
 **ite ite**
 – piedras y piedras, una gran variedad de piedras
-**buku buku**
+**buk buk**
 – libros y libros, una gran variedad de libros
 
 
