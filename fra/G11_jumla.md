@@ -19,13 +19,13 @@ Elles peuvent ne se construire que d'un mot, ce qui attire l'attention de l'audi
 Une phrase est normalement composée d'un sujet et d'un prédicat.
 Dans les phrases les plus simples, le sujet est un nom ou un pronom et le prédicat est un adjectif ou un nom.
 
-**mi hau.**
+**mi gud.**
 – Je vais bien. (= Je suis bon.)  
 **ye nove.**
 – C'est nouveau.  
 **da Sara.**
 – C'est Sarah.  
-**Sara es hau.**
+**Sara es gud.**
 – Sarah va bien.  
 **seku es dai.**
 – La pierre est grosse.  
@@ -36,7 +36,7 @@ Le mot
 **no**
 est addé pour former le negatif.
 
-**mi no hau.** 
+**mi no gud.** 
 – Je ne vais pas bien. (= Je ne suis pas bon.)  
 **da no nove.** 
 – Ce n'est pas nouveau.  
@@ -48,7 +48,7 @@ Il est possible d'ajouter le mot
 (oui) avant le prédicat dans des phrases affirmatives, selon le style et la praticité.
 Dans ce cas la structure est similaire à celle des phrases négatives.
 
-**Sara es hau.** 
+**Sara es gud.** 
 – Sarah va bien.  
 **da seku es dai.** 
 – La pierre est grosse.  
@@ -78,7 +78,7 @@ La même règle s'applique aussi pour deux adjectifs.
 
 ### Quand le sujet est un verbe
 
-**gani es hau.**
+**gani es gud.**
 – Chanter, c'est bon.
 
 

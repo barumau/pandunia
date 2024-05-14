@@ -75,7 +75,7 @@ Eles precedem a palavra ou frase que qualificam.
 – uma cadeira grande  
 **du dai kursi**
 – duas cadeiras grandes  
-**tri hau kursi**
+**tri gud kursi**
 – três boas cadeiras
 
 

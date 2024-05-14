@@ -183,11 +183,11 @@ The adverb can be tagged with
 Modifiers are compared with
 **mor**
 'more, -er',
-**mor... of hol**
+**mor... dan hol**
 'the most... (of all)',
 **les**
 'less',
-**les... of hol**
+**les... dan hol**
 'the least... (of all)', and
 **sim**
 'equally, as'.
@@ -213,15 +213,17 @@ To ask _yes–or–no_ questions, replace the verb with "(verb) **no** (verb)" p
 
 To ask a content question, write a normal sentence and replace the word in question with
 **kua**
-'what, who'.
+'what' or
+**hu**
+'who'.
 
-**tu love kua?**
+**tu love hu?**
 – Who do you love?  
 **tu love kua man?**
 – Which man do you love?  
 **kua man ye love tu?**
 – Which man loves you?  
-**tu love da kua li muche?**
+**tu love da kua li much?**
 – How much do you love him?
 
 ### Commands

@@ -25,7 +25,7 @@ In Pandunia, "adjectives" are modifiers that are placed before the noun that the
 
 **un _nove_ karo**
 – a _new_ car  
-**un _rapide_ karo**
+**un _rapid_ karo**
 – a _fast_ car  
 **meni _dai_ meza**
 – _big_ tables  
@@ -45,7 +45,7 @@ Two or more modifiers can modify the same noun.
 A modifier that modifies a verb
 is placed immediately before the verb.
 
-**tu _rapide_ loga.**
+**tu _rapid_ loga.**
 – You talk _fast_.  
 **di jen _gud_ kitab.**
 – They write _well_.
@@ -57,7 +57,7 @@ It makes the structure of the verb phrase clearer.
 
 **tu _mei li_ kitab.**
 – You write _beautifully_.  
-**di _rapide li_ marche.**
+**di _rapid li_ marche.**
 – They walk _fast_.
 
 
@@ -77,7 +77,7 @@ is used also when a modifier modifies another one.
 
 Degree words tell us about the intensity of something.
 
-**muche**
+**ver**
 – very  
 **bas**
 – quite, sufficiently, enough  
@@ -90,7 +90,7 @@ Degree words are placed before the word that they modify.
 
 **un dai man**
 – a big man  
-**un muche dai man**
+**un ver dai man**
 – a very big man  
 **un bas dai man**
 – a big enough man / a sufficiently big man
@@ -99,18 +99,18 @@ A degree word together with a modifier forms a _compound adverb_
 that can modify a verb or a sentence.
 The compound adverb is placed immediately before the verb that it modifies.
 
-**vere muche**
+**ver much**
 – very much  
-**mi _vere muche_ van loga.**
+**mi _ver much_ van loga.**
 – I want very much to speak.  
-**mi van _vere muche_ loga.**
+**mi van _ver much_ loga.**
 – I want to speak very much.
 
 It is also possible to place the compound adverb very last in the sentence,
 and then it modifies the sentence as a whole.
 The meaning is the same like when the compound adverb modifies the main verb.
 
-**mi van loga _vere muche_.**
+**mi van loga _ver much_.**
 – I want to speak very much.  
 **sual tu sona _bas gud_?**
 – Did you sleep well enough?
@@ -122,11 +122,11 @@ Adjectives can be compared with the adverbs of comparison.
 
 **mor**
 (_more_) indicates comparison of superiority  
-**mor... of hol**
+**mor... dan hol**
 (_most... of all_) indicates the superlative of superiority  
 **les**
 (_less_) indicates comparison of inferiority  
-**les... of hol**
+**les... dan hol**
 (_least... of all_) indicates the superlative of inferiority  
 **sim**
 (_as_ or _equally_) indicates the comparison of equality
@@ -136,9 +136,9 @@ The particle
 relates the adverbs of comparison to the object of comparison.
 
 **aple es mor gud dan aranja.**
-= Apples are better than oranges.  
+– Apples are better than oranges.  
 **aranja es les gud dan aple.**
-= Oranges are less good than apples.  
+– Oranges are less good than apples.  
 **tu loga sim gud dan mi.**
-= You speak as well as me.
+– You speak as well as me.
 

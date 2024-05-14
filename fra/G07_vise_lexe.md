@@ -86,7 +86,7 @@ Il correspond en français à _qui_, _qui est-ce qui_, _qui est-ce que_ (personn
 – Combien ? En quelle quantité ? (Comment beaucoup ?)  
 **kua li dai?**
 – Quelle taille ? (Comment grand ?)  
-**kua li shau?**
+**kua li sgud?**
 – Quelle taille ? (Comment petit ?)
 
 **tu have kua li dai mau?**

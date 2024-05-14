@@ -68,11 +68,11 @@ El demostrativo distal
 **da der**
 indica cosas que están lejos del orador.
 
-**da hir es hau.**
+**da hir es gud.**
 – Esta (cosa) es buena.  
 **da der es dus.**
 – Esa (cosa) es mala.  
-**mi van da hir buke, no da der.**
+**mi van da hir buk, no da der.**
 – Quiero este libro, no ese.
 
 Los demostrativos proximal y distal se usan para introducir objetos nuevos.

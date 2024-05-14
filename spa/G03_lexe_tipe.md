@@ -58,7 +58,7 @@ dependiendo de su posición en la oración.
 
 **mi _vize_ tu.**
 – Te _veo_. (verbo)  
-**tu have hau vize.**
+**tu have gud vize.**
 – Tienes buena _visión_. (sustantivo)  
 **mi stude da _vise_ arte.**
 – Estudio las artes _visuales_. (adjectivo)

@@ -49,7 +49,7 @@ Del mismo modo puede describirse diciendo
 **mi es**
 seguida por una palabra que lo describa.
 
-**mi es hau.**
+**mi es gud.**
 - Yo soy bueno.  
 **mi es man.**
 - Soy un hombre.  
@@ -91,7 +91,7 @@ quién? qué?
 ser  
 **no**
 no  
-**hau**
+**gud**
 bueno  
 **frende**
 amigo, amiga  
@@ -680,7 +680,7 @@ que todavía se está hablando en el mismo tiempo.
 
 **mi did have un mau.**
 – Yo tuve un gato en el pasado.  
-**da es hau mau.**
+**da es gud mau.**
 – Ella fue una buena gata.  
 **mi have un vaf a zai.**
 – Yo tengo un perro en el momento.

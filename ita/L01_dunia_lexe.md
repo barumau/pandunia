@@ -408,7 +408,7 @@ un semplice suffisso vocalico.
 | hausa       | adduʕa       | addu'a          |
 | yoruba      | adura        | àdúrà           |
 
-#### kitabi 'scritto'
+#### kitab 'scritto'
 
 Questa parola significa _libro_ in molte lingue.
 La parola araba originale indica tutti i tipi di scritti.

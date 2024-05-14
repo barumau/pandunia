@@ -58,7 +58,7 @@ One sound = one letter.
 
 The stress is on that syllable that is before the last consonant of the root word.
 Prefixes and suffixes are either unstressed or they may carry a secondary stress.  
-**méni jén kén tólke Englísh in Amérika.**
+**méni jén kán báshe Englísh in Amérika.**
 – Many people can speak English in America.
 
 Words stay always the same in Pandunia.
@@ -105,7 +105,7 @@ Comparison is done with helping words:
 – I am better (_more good_) than you.  
 **no, mi es sim gud dan yu.**
 – No, I am as good as you.  
-**da bi tolke mor faste dan yu.**
+**da bi tolke mor rapid dan yu.**
 – He or she talks faster (_more fast_) than you.
 
 Time is expressed with auxiliary verbs:

@@ -80,11 +80,11 @@ Modyfikatory mogą być porównane.
 
 **mor**
 (bardziej) oznacza porównanie niższości  
-**mor... of hol**
+**mor... dan hol**
 (najbardziej) oznacza stopień najwyższy  
 **les**
 (mniej) oznacz porónanie niższości  
-**les... of hol**
+**les... dan hol**
 (najmniej) oznacza stopień najniższy  
 **sim**
 (jak) oznacza porównanie równości

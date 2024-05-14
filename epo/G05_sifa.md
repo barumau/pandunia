@@ -8,7 +8,7 @@ En pandunio, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
 
 **un _nove_ karo**
 – nova aŭto 
-**un _rapide_ karo**
+**un _rapid_ karo**
 – rapida aŭto  
 **meni _dai_ meza**
 – grandaj tabloj  
@@ -24,28 +24,28 @@ Tio estas, kiel adjektivaj verboj en Esperanto.
 – La aŭto novas.  
 **karo es nove.**
 La aŭto estas nova.  
-**bagre – rapide.**
+**bagre – rapid.**
 – Tigroj rapidas.  
-**bagre es rapide.**
+**bagre es rapid.**
 Tigroj estas rapidaj.
 
 Kompreneble, eblas ke modifovortoj aperu je ambaŭ flankoj de substantivo.
 
-**nove karo – rapide.**
+**nove karo – rapid.**
 – Nova aŭto rapidas.  
-**nove karo es rapide.**
+**nove karo es rapid.**
 – Novaj aŭto estas rapidaj.
 
 ## Modifante verbon
 
-**tu _rapide_ loga.**
+**tu _rapid_ loga.**
 – Vi _rapide_ parolas.  
 **di jen _gud_ kitab.**
 – Ili _bone_ skribas.
 
 **tu _mei li_ kitab.**
 – Vi _bele_ skribas.  
-**di _rapide li_ marche.**
+**di _rapid li_ marche.**
 – Ili _rapide_ promenas.
 
 
@@ -67,11 +67,11 @@ Modifovortoj povas esti komparataj.
 
 **mor**
 (pli) signifas komparo de plieco  
-**mor... of hol**
+**mor... dan hol**
 (la plej) signifas komparo de plejeco  
 **les**
 (malpli) signifas komparo de malplieco  
-**les... of hol**
+**les... dan hol**
 (malplej) signifas komparo de malplejeco  
 **sim**
 (same, egale) signifas komparo de sameco
@@ -80,10 +80,10 @@ Partiklo
 **dan**
 rilatas komparvortoj al la fonto de komparo.
 
-**aple es mor hau dan aranja.**
+**aple es mor gud dan aranja.**
 – Pomoj estas pli bonaj ol oranĝoj.  
-**aranja es les hau dan aple.**
+**aranja es les gud dan aple.**
 – Oranĝoj estas malpli bonaj ol pomoj.
-**tu loga sim hau dan mi.**
+**tu loga sim gud dan mi.**
 – Vi parolas same bone kiel mi.
 

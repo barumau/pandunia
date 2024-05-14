@@ -871,7 +871,7 @@ no es necesario.
 **mi don da hir to tu.**
 – Te doy esto.
 
-**mi don buke to di.**
+**mi don buk to di.**
 – Le doy un libro a ellos/as.
 
 **da no van don da to mi.**

@@ -86,9 +86,9 @@ L'aggettivo e l'avverbio hanno la stessa forma.
 L'aggettivo precede il sostantivo che modifica
 e l'avverbio precede il verbo che modifica.
 
-**un rapide loga**
+**un rapid loga**
 – Una parlata veloce.  
-**tu rapide loga.**
+**tu rapid loga.**
 – Tu parli velocemente.
 
 

@@ -386,6 +386,12 @@ Bengali না (na).</small>
 **kua?**
 – What?
 
+**kua es da?**
+– What is that?
+
+**da es buk.**
+– That is a book.
+
 <small>Etymology. **kua** is from
 French *quoi*,
 Spanish *cuál*,
@@ -415,14 +421,14 @@ English *what*.</small>
 **kua es da der?**
 – What is that?
 
-**da der es aranja.**
-– That is an orange.
+**da der es aple.**
+– That is an apple.
 
 **da aple es rubi.**
-– This apple is red.
+– The apple is red.
 
 **da es rubi.**
-– This is red.
+– It is red.
 
 **di sta kua?**
 – Where are they?
@@ -467,8 +473,8 @@ It's also possible to end a sentence with
 
 **mau es mi se.**
 The cat is mine.  
-**mone es di se.**
-The money is theirs.  
+**mone es vi se.**
+The money is our.  
 **frende es sara se.**
 The friend is Sara's.
 
@@ -893,7 +899,7 @@ Tip: To make direct requests, drop all the pronouns.
 **vi safar of London to Paris.**
 – We travel from London to Paris.
 
-**safar es muche long.**
+**safar es ver long.**
 – The voyage is very long.
 
 

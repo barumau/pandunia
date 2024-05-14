@@ -77,9 +77,9 @@ Los adjetivos y adverbos tienen la misma forma.
 El adjetivo está antes del sustantivo que modifica,
 y el adverbo está antes del verbo que modifica.
 
-**un rapide loga**
+**un rapid loga**
 – Un habla rápida.  
-**tu rapide loga.**
+**tu rapid loga.**
 – Tú hablas rápido.
 
 

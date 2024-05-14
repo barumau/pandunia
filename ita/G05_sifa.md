@@ -25,7 +25,7 @@ In pandunia gli "aggettivi" sono modificatori posizionati davanti al sostantivo 
 
 **un _nove_ karo**
 – una _nuova_ macchina  
-**un _rapide_ karo**
+**un _rapid_ karo**
 – una macchina _veloce_  
 **meni _dai_ meza**
 – molti tavoli _grandi_  
@@ -45,7 +45,7 @@ Lo stesso sostantivo può essere modificato da due o più modificatori.
 Il modificatore che modifica un verbo
 si posiziona immediatamente davanti al verbo.
 
-**tu _rapide_ loga.**
+**tu _rapid_ loga.**
 – Tu parli _velocemente_.  
 **di jen _gud_ kitab.**
 – Loro scrivono _bene_.
@@ -57,7 +57,7 @@ Ciò rende più chiara la struttura del sintagma verbale.
 
 **tu _mei li_ kitab.**
 – Tu scrivi _in modo bello_.  
-**di _rapide li_ marche.**
+**di _rapid li_ marche.**
 – Loro camminano _velocemente_.
 
 
@@ -122,11 +122,11 @@ Gli aggettivi possono essere comparati con gli avverbi di paragone.
 
 **mor**
 (_più_) indica il comparativo di maggioranza  
-**mor... of hol**
+**mor... dan hol**
 (_il più_) indica il superlativo al massimo grado  
 **les**
 (_meno_) indica il comparativo di minoranza  
-**les... of hol**
+**les... dan hol**
 (_il meno_) indica il superlativo al minimo grado  
 **sim**
 (_come_ o _quanto_) indica il comparativo di uguaglianza
@@ -135,10 +135,10 @@ La particella
 **dan**
 connette gli avverbi di paragone all'oggetto del paragone.
 
-**aple es mor hau dan aranja.**
+**aple es mor gud dan aranja.**
 = Le mele sono migliori delle arance.  
-**aranja es les hau dan aple.**
+**aranja es les gud dan aple.**
 = Le arance sono meno buone delle mele.  
-**tu loga sim hau dan mi.**
+**tu loga sim gud dan mi.**
 = Parli tanto bene quanto me.
 

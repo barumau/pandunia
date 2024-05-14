@@ -83,7 +83,7 @@ Nombro staras antaŭ la vorto aŭ vortoĉeno kies kvanton ĝi indikas.
 – unu granda seĝo  
 **du dai kursi**
 – du grandaj seĝoj  
-**tri hau kursi**
+**tri gud kursi**
 – tri bonaj seĝoj
 
 

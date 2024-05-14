@@ -98,17 +98,17 @@ Les adjectifs se placent généralement devant le nom qu'ils modifient.
 
 **un nove idea**
 – une nouvelle idée  
-**di hau buk**
+**di gud buk**
 – _les livres bonnes_
 
 On compare les adjectifs grâce aux mots
 **mor**
 (_plus_),
-**mor... of hol**
+**mor... dan hol**
 (_le plus_),
 **les**
 (_moins_),
-**les... of hol**
+**les... dan hol**
 (_le moins_) et
 **sim**
 (_aussi, tout autant_).

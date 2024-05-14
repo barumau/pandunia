@@ -234,7 +234,8 @@ The possessive interrogative pronoun is built like the other possessive pronouns
 **hu se haus es da?**
 – Whose hose is that?
 
-Adjectives are questioned with **kua li**.
+Adjectives are questioned with
+**kua li**.
 
 **kua li nove?**
 – How new?  

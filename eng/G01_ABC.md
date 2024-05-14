@@ -349,7 +349,7 @@ but in addition they indicate the mood of the speaker.
 For example **:)** indicates happiness and **:(** indicates sadness.
 
 **mi love yu :)**
-= I love you.  
+– I love you.  
 **yu no love mi :(**
-= You don't love me.
+– You don't love me.
 

@@ -166,7 +166,7 @@ Adjektivoj estas antaŭ la vorto, kiun ili modifas.
 
 **un nove love**
 – nova amo  
-**da hau pai**
+**da gud pai**
 – bona torto
 
 Aldonu modifvorton antaŭ verboj.
@@ -181,11 +181,11 @@ La adverboj povas esti markita de vorteto
 Por kompari modifvortojn, uzu la vortetoj
 **mor**
 'pli',
-**mor... of hol**
+**mor... dan hol**
 'la plej... (el ĉiu)',
 **les**
 'malpli',
-**les... of hol**
+**les... dan hol**
 'la malplej... (el ĉiu)', kaj
 **sim**
 'egale'.

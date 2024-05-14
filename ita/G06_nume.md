@@ -75,7 +75,7 @@ Questi vanno posizionati davanti alla parola o al sintagma che quantificano.
 – una grande sedia  
 **du dai kursi**
 – due grandi sedie  
-**tri hau kursi**
+**tri gud kursi**
 – tre buone sedie
 
 

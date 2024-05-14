@@ -8,14 +8,14 @@ Las misma palabra puede modificar sustantivos y verbos,
 mientras en español solo _adjetivos_ pueden modificar sustantivos
 y solo _adverbos_ pueden modificar verbos.
 Por ejemplo, la palabra
-**rapide**
+**rapid**
 («rápido» o «rápidamente»)
 modifica un sustantivo en la oración A
 y un verbo en la oración B.
 
-A. **da es un _rapide_ karo.**
+A. **da es un _rapid_ karo.**
 – Eso es un carro _rápido_.  
-B. **tu _rapide_ li loga.**
+B. **tu _rapid_ li loga.**
 – Usted habla _rápido_.
 
 
@@ -25,25 +25,25 @@ En Pandunia, _adjetivos_ son modificadores que preceden el sustantivo que modifi
 
 **un _nove_ karo**
 – un carro _nuevo_  
-**un _rapide_ karo**
+**un _rapid_ karo**
 – un carro _rápido_  
 **meni _dai_ meza**
 – mesas _grandes_  
 **meni _gau_ meza**
 – mesas _altas_  
-**un hau jen**
+**un gud jen**
 – una persona _buena_
 
 Adjetivos en Pandunia siempre tienen la misma forma,
 a diferencia de español, en que adjetivos cambian para acordar con el sustantivo que modifican.
 
-**un hau man**
+**un gud man**
 – un hombre bueno  
-**un hau fem**
+**un gud fem**
 – una mujer buena  
-**meni hau man**
+**meni gud man**
 – hombres buenos  
-**meni hau fem**
+**meni gud fem**
 – mujeres buenas
 
 Dos o más modificadores pueden modifican el mismo sustantivo.
@@ -56,9 +56,9 @@ Dos o más modificadores pueden modifican el mismo sustantivo.
 
 En Pandunia, _adverbos_ son modificadores que preceden el verbo que modifican.
 
-**tu _rapide_ loga.**
+**tu _rapid_ loga.**
 – Usted hablas _rápido_.  
-**di jen _hau_ kitab.**
+**di jen _gud_ kitab.**
 – Ellas escriben _bien_.
 
 Es común poner la partícula de modificación
@@ -68,7 +68,7 @@ Hace la estructura del frase verbal más claro.
 
 **tu _mei li_ kitab.**
 – Tú escribes _hermoso_.  
-**di _rapide li_ marche.**
+**di _rapid li_ marche.**
 – Ellos caminan _rápido_.
 
 
@@ -78,7 +78,7 @@ La partícula
 **li**
 también se usa cuando un modificador modifica un otro.
 
-**un _suprende li_ hau buke**
+**un _suprende li_ gud buk**
 – un _sorprendentemente_ buen libro  
 **_bala li_ lovente jen**
 – personas _firmemente_ amorosas
@@ -123,7 +123,7 @@ El significado es la misma como cuando el adverbo compuesto modifica el verbo pr
 
 **mi van loga _vere muche_.**
 – Muchísimo quiero hablar.  
-**sual tu sona _bas hau_?**
+**sual tu sona _bas gud_?**
 – ¿Sonaste bastante bien?
 
 
@@ -133,11 +133,11 @@ Adjetivos pueden compararse con los adverbos de comparación.
 
 - **mor**
   (_más_) indica superioridad sobre otra cosa
-- **mor... of hol**
+- **mor... dan hol**
   (_mayor_) indica superioridad sobre un grupo entero
 - **les**
   (_menos_) indica inferioridad a otra cosa
-- **les... of hol**
+- **les... dan hol**
   (_menor_) indica inferioridad a un grupo entero
 - **sim**
   (_igual_, _tan_ o _equivamente_) indica igualdad
@@ -146,10 +146,10 @@ La partícula
 **dan**
 (_que_) relaciona los adverbos de comparación al objeto de comparación.
 
-**aple es mor hau dan aranja.**
+**aple es mor gud dan aranja.**
 = Las manzanas son mejores (más buenas) que las naranjas.  
-**aranja es les hau dan aple.**
+**aranja es les gud dan aple.**
 = Las naranjas son peores (menos buenas) que las manzanas.  
-**tu loga sim hau dan mi.**
+**tu loga sim gud dan mi.**
 = Hablas tan bien como yo.
 

@@ -88,9 +88,9 @@ The adjective and the adverb have the same form.
 The adjective modifier is before the noun that it modifies,
 and the adverb modifier is before the verb that it modifies.
 
-**un rapide loga**
+**un rapid loga**
 – A fast speech.  
-**tu rapide loga.**
+**tu rapid loga.**
 – You speak fast.
 
 

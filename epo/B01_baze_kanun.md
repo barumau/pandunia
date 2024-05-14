@@ -100,10 +100,10 @@ ktp.
 Adjektivoj kaj adverboj havas saman formon.
 Ili antaŭas la vorton, kiun ili modifas.
 
-**un rapide loga**
+**un rapid loga**
 – rapida parolo  
-**tu rapide loga.**
-– Vi rapide parolas.
+**tu rapid loga.**
+– Vi rapid parolas.
 
 La adjektivoj estas ĉiam metita antaŭ la substantivo, kies sencon ili modifas.
 

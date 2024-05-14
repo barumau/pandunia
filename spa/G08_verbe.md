@@ -72,7 +72,7 @@ Preste atención a la consecuencia de una acción pasada a la situación actual.
 – Ya no bebir alcohol.  
 **mi no _haf_ gul yo alkohol.**
 – No he bebido alcohol.  
-**mi _haf_ don la buke to di.**
+**mi _haf_ don la buk to di.**
 – Los he dado el libro. (Todavía lo tienen y yo no.)  
 **damen no _haf_ ridon da to mi.**
 – No me lo han devuelvo.  
@@ -84,7 +84,7 @@ Preste atención a la consecuencia de una acción pasada a la situación actual.
 indica que una situación terminó
 y es pertinente solo como una experiencia.
 
-**mi did don da buke to di.**
+**mi did don da buk to di.**
 – Los di el libro. (Tal vez no todavía lo tienen, o lo devolvieron.)  
 **mi did vizite Franse.**
 – Visité Francia.  

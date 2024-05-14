@@ -52,7 +52,7 @@ La skribsistemo de Pandunia estas preskaŭ laŭsona.
 Unu sono = unu litero.
 
 Oni akcentas la unuan silabon en mallongaj vortoj kaj la duan silabon en pli longaj vortoj.  
-**méni pérson kén tólke da Énglish in Amérika.**
+**méni jén kán báshe Englísh in Amérika.**
 – Multaj homoj povas paroli la anglan en Ameriko.
 
 Vortoj neniam ŝanĝiĝas en Pandunia.
@@ -77,7 +77,7 @@ Singularo kaj pluralo estas indikita per nombrovortoj.
 – unu aŭ multaj libroj  
 **un buk**
 – (unu) libro  
-**due buk**
+**du buk**
 – du libroj  
 **tri buk**
 – tri libroj  
@@ -91,14 +91,14 @@ Oni komparas adjektivojn kaj adverbojn per helpantaj vortoj:
 – malpli;
 **dan**
 – ol; kaj
-**as**
+**sim**
 – tiom kiel.
 
 **mi es mor gud dan yu.**
 – Mi estas pli bona ol vi.  
-**no, mi es as gud as yu.**
+**no, mi es sim gud dan yu.**
 – Ne, mi estas tiom bona kiel vi.  
-**da bi tolke mor faste dan yu.**
+**da bi tolke mor rapid dan yu.**
 – Li aŭ ŝi parolas pli rapide ol vi.
 
 Tempo estas indikata per helpantaj verboj:  
@@ -111,11 +111,11 @@ Tempo estas indikata per helpantaj verboj:
 **bi**
 – daŭre pasantaj agoj
 
-**di did ride mi's buk.**
+**di did lese mi se buk.**
 – Ili legis mian libron.  
-**vi haf ride meni buk.**
+**vi haf lese meni buk.**
 – Ni estas leginta multajn librojn.  
-**mi bi ride un buk.**
+**mi bi lese un buk.**
 – Mi estas leganta libron.  
 **yu vil tolke Pandunia.**
 – Vi parolos Pandunian.

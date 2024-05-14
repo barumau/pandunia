@@ -5,13 +5,13 @@ Un modificateurs est un mot qui ajoute une qualité ou une description à un aut
 
 **un _nove_ karo**
 – une voiture nouvelle  
-**un _rapide_ karo**
+**un _rapid_ karo**
 – voiture(s) rapide(s)
 **meni _dai_ meza**
 – grande(s) table(s)  
 **meni _gau_ meza**
 – table(s) haute(s) 
-**un hau jen**
+**un gud jen**
 – bonne(s) chaise(s)
 
 Deux adjectifs ou plus peuvent modifier un même mot.
@@ -24,12 +24,12 @@ Cette structure peut souvent se lire comme une phrase complète, où l'adjectif 
 
 **karo es nove.** 
 – La voiture est neuve.  
-**bagre es rapide.** 
+**bagre es rapid.** 
 – Le tigre est rapide.
 
 Naturellement, il peut y avoir des modificateurs des deux côtés du nom également.
 
-**nove karo es suga.** 
+**nove karo es rapid.** 
 – La voiture neuve est rapide.
 
 # Adverbes
@@ -38,11 +38,11 @@ Naturellement, il peut y avoir des modificateurs des deux côtés du nom égalem
 
 En pandunia, les adverbes se placent avant le verbe ou à la fin de la phrase.
 
-**mi hau li sona.** 
+**mi gud li sona.** 
 – Je _bien_ dors.  
-**mi sona hau.** 
+**mi sona gud.** 
 – Je dors _bien_.  
-**tu bashe pandunia hau.** 
+**tu bashe pandunia gud.** 
 – Tu parles pandunia _bien_.
 
 
@@ -74,11 +74,11 @@ Les modificateurs peuvent être comparés.
 
 **mor**
 ('plus') marque le comparatif de supériorité  
-**mor... of hol**
+**mor... dan hol**
 ('le plus') marque le superlatif de supériorité  
 **les**
 ('moins') marque le comparatif d'infériorité  
-**les... of hol**
+**les... dan hol**
 ('le moins') marque le superlatif d'infériorité  
 **sim**
 ('aussi, autant') marque le comparatif d'égalité
@@ -87,8 +87,8 @@ La particule
 **dan**
 met en relation les adverbes de comparaison à l'élément comparé.
 
-**mi es mor hau dan tu.**
+**mi es mor gud dan tu.**
 = Je suis meilleur que toi.  
-**tu loga sim hau dan mi.**
+**tu loga sim gud dan mi.**
 = Tu parles aussi bien que moi.
 

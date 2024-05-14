@@ -148,14 +148,14 @@ Per modificare un sostantivo lo si fa precedere dagli aggettivi.
 
 **un nove love**
 – un nuovo amore  
-**da hau pai**
+**da gud pai**
 – la buona torta
 
 Per modificare un verbo lo si fa precedere dagli avverbi.
 L'avverbio può essere segnalato con
 **li**.
 
-**mi hau (li) vize tu.**
+**mi gud (li) vize tu.**
 – Ti vedo bene.  
 **tu vize li love da.**
 – Evidentemente lo/la ami.
@@ -163,11 +163,11 @@ L'avverbio può essere segnalato con
 I modificatori si comparano con
 **mor**
 'più',
-**mor... of hol**
+**mor... dan hol**
 'il più, -issimo',
 **les**
 'meno',
-**les... of hol**
+**les... dan hol**
 'il meno' e
 **sim**
 'tanto... quanto'.
@@ -177,7 +177,7 @@ Il secondo termine di paragone è introdotto da
 
 **tu es mor sen dan mi.**
 – Tu sei più vecchio di me.  
-**tu es mor sen of hol.**
+**tu es mor sen dan hol.**
 – Tu sei il più vecchio/vecchissimo.
 
 ### Domande

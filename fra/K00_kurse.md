@@ -76,7 +76,7 @@ De la même façon, vous pouvez vous décrire en utilisant
 **mi es**
 suivi d'un mot pour vous décrire.
 
-**mi es hau.**
+**mi es gud.**
 – Je vais bien (Je suis bien).  
 **mi es man.**
 – Je suis un homme.  
@@ -119,7 +119,7 @@ qui ou quoi
 oui  
 **no**
 non ; ne pas être  
-**hau**
+**gud**
 bon  
 **frende**
 ami  
@@ -822,7 +822,7 @@ ou bien pour souligner le fait que le temps du récit n'a pas changé.
 
 **mi did have un mau.**
 = J'ai eu un chat dans le passé.
-**da es hau mau.**
+**da es gud mau.**
 = C'était un bon chat.
 **mi have un vaf nun.**
 = J'ai un chien maintenant.

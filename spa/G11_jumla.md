@@ -9,7 +9,7 @@
 Normalmente una oración consiste en una sujeto y un predicado.
 En las oraciones más sencillas, el sujeto es un pronombre y el predicado es un adjetivo o un sustantivo.
 
-**mi hau.**
+**mi gud.**
 – Yo estoy bien.  
 **da nove.**
 – Ello es nuevo.  
@@ -19,7 +19,7 @@ En las oraciones más sencillas, el sujeto es un pronombre y el predicado es un 
 Cuando el sujeto es un sustantivo, el verbo de conexión **es** («ser», «estar») es necesario.
 
 
-**Sara es hau.**
+**Sara es gud.**
 – Sara está bien.  
 **roka es dai.**
 – Rocas son grandes.  
@@ -31,13 +31,13 @@ Entonces el verbo **es** no es necesario.
 
 | Positivo         | Negativo           |
 |------------------|--------------------|
-| **mi (es) hau.**  | **mi no (es) hau.**     |
+| **mi (es) gud.**  | **mi no (es) gud.**     |
 | Yo estoy bien.   | Yo no estoy bien.  |
 | **da (es) nove.**  | **da no (es) nove.**     |
 | Ello es nuevo.   | Ello no es nuevo.  |
 | **da (es) Sara.** | **da no (es) Sara.**    |
 | Ella es Sara.    | Ella no es Sara.   |
-| **Sara es hau.**  | **Sara no hau.**   |
+| **Sara es gud.**  | **Sara no gud.**   |
 | Sara está bien.  | Sara no está bien. |
 
 
@@ -58,7 +58,7 @@ La misma regla aplica para dos adjetivos, o un verbo y un adjetivo.
 – Joven e lindo.  
 **nove no lau.**
 – Nuevo no e viejo.  
-**gani es hau.**
+**gani es gud.**
 – Cantar es bueno.
 
 
@@ -288,41 +288,41 @@ y corresponde a español _que_ o _el cual_.
 
 En Pandunia, cláusulas relativas siempre son separadadas por comas.
 
-**da buke, ki da jen kitab, pada.**
+**da buk, ki da jen kitab, pada.**
 – El libro, que la persona escribe, cae.
 
 Es posible omitir
 **ki**.
 Esta estructura se llama _cláusula relativa reducida_.
 
-**da buke, da jen kitab, pada.**
+**da buk, da jen kitab, pada.**
 – El libro, que la persona escribe, cae.
 
 El pronombre relative es necesario
 cuando el sustantivo relativizado es el sujeto de la cláusula relativa.
 
-**da jen, ki kitab da buke, pada.**
+**da jen, ki kitab da buk, pada.**
 – La persona, que escribe el libro, cae.
 
 En adición el objeto de una preposición puede ser la cabeza de la cláusula relativa.
 Es posible usar pronombres relativas o la estructura de cláusula relativa reducida.
 
-**da kalam, a ki da jen kitab da buke, pada.**
+**da kalam, a ki da jen kitab da buk, pada.**
 – La pluma, con que la persona escribe el libro, cae.  
-**da kalam, da jen kitab da buke a, pada.**
+**da kalam, da jen kitab da buk a, pada.**
 – La pluma, con que la persona escribe el libro, cae.
 
 El pronombre relativo puede ponerse en su lugar correcto en la estructura de eje
 o puede omitirse usando la estructura de cláusula relativa reducida.
 
-**da jen, mi vize ki kitab da buke, pada.**
+**da jen, mi vize ki kitab da buk, pada.**
 – La persona, que veo escribir el libro, cae.
-**da jen, mi vize kitab da buke, pada.**
+**da jen, mi vize kitab da buk, pada.**
 – La persona, que veo escribir el libro, cae.
 
 En adición _pronombre relativo resumivo_ se puede utilizar si es necesario.
 
-**da jen, mi kitab da buke a ki se kalam, pada.**
+**da jen, mi kitab da buk a ki se kalam, pada.**
 – La persona, con cuya pluma escribo el libro, cae.
 
 
