@@ -47,8 +47,8 @@ Następujące spółgłoski są wymawiane inaczej w Panduni niż w języku polsk
 - **ch** jest zawsze wymawiane jak CZ w _czoło_.
 - **j** jest zawsze wymawiane jak DŻ w _dżdżownica_.
 - **n** jest wymawiane końcem języka z wyjątkiem w kombinacjach **nk** i **ng**, gdzie jest to miękkopodniebne /ŋ/ jak w _bank_ wymawianym szybko.
-Na końcu słowa, **g** w **ng** może być nieme.
-Więc słowo **pang** może być wymawiane /paŋ/ jak i /paŋg/.
+  Na końcu słowa, **g** w **ng** może być nieme.
+  Więc słowo **pang** może być wymawiane /paŋ/ jak i /paŋg/.
 
 ## Samogłoski
 
@@ -61,7 +61,7 @@ Pandunia ma pięć samogłosek.
 Wymawia się je praktycznie jak w języku polskim.
 To czyste samogłoski, więc ich cechy nie zmieniają się podczas długiej wymowy.
 
-Spółgłoski półotwarte **y** i **w** są wymawiane odpowiednio jak J i Ł w polskim.
+Spółgłoski półotwarte **y** i **v** są wymawiane odpowiednio jak J i Ł w polskim.
 
 
 ### Akcent
@@ -72,11 +72,11 @@ Akcentuje się sylabę, która jest przed ostatnią spógłoską.
 2. Akcentuje się ostatnią sylabę w słowach, które kończą się spółgłoską. Np. *hotél*.
 3. Akcentuje się przedostatnią sylabę w słowach które kończą się samogłoską. Np. *póte*, *dúnia*, *muzíke*.
 
-     dunia e mimen su mei planeta.  
-    /dúnia é mímen su méi planéta./
+     dunia es vi se mei planeta.  
+    /dúnia és ví se méi planéta./
 
-     mi vol loga komun basha, da e pandunia.  
-    /mí vól lóga komún básha, dá é pandúnia./
+     mi van loga komun bashe, da es pandunia.  
+    /mí ván lóga komún báshe, dá és pandúnia./
 
 
 ## Wielkość liter
@@ -126,9 +126,9 @@ Na przykład:
 
 W tekstach nieformalnych buźki, emotikony i emoji mogą być używane oznaczyć nastrój. Na przykład **:)** oznacza radość a **:(** oznacza smutek.
 
-**mi visi tu :)**
+**mi vize tu :)**
 – Ja widzę cię.  
-**mi no visi tu :(**
+**mi no vize tu :(**
 – Ja nie widzę cię.
 
 
@@ -145,6 +145,7 @@ Początkowe spółgłoski są ograniczone do:
 2. Spógłoski zwartej + płynnej
     - pl, bl, kl, gl
     - pr, br, tr, dr, kr, gr
+	- sk, st, skl, skr, str
 
 Środkowe skupienie spółgłosek są ograniczone do:
 
@@ -161,8 +162,3 @@ Początkowe spółgłoski są ograniczone do:
     - st, sp, sk
     - zd, zb, zg
 4. Spółgłoski zwartej + płynnej (spójrz wyżej)
-
-Dozwolonymi końcowymi spółgłoskami są:
-h, l, m, n, ng, r, s, v, x, y
-
-

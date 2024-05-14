@@ -41,9 +41,9 @@ Zaimki wskazujące to:
 **da der mau.**
 – Tamten kot
 
-**mi vol da hir.**
+**mi van da hir.**
 – Chcę ten.  
-**mi vol da hir mau.**
+**mi van da hir mau.**
 – Chcę tego kota.
 
 
@@ -54,9 +54,13 @@ jest zaimkiem pytającym ogólnego zastosowania.
 Załatwia robotę polskich _kto_ i _co_.
 
 **kua?**
-– Kto lub co?
+– co?  
+**hu**
+– kto?
 
-Przymiotnikowy zaimek pytający to **ke** i znaczy tyle, co polskie _jaki_.
+Przymiotnikowy zaimek pytający to
+**kua**
+i znaczy tyle, co polskie _jaki_.
 
 **kua ting?**
 – Co? (Jaka rzecz?)  

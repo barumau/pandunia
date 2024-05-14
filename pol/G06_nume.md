@@ -67,7 +67,7 @@ Są umieszczane przed słowem lub wyrażeniem, które opisują.
 – jeden duży stół  
 **du dai kursi**
 – dwa duże krzesła  
-**tri hau kursi**
+**tri gud kursi**
 – trzy dobre krzesła
 
 Liczbeniki porządkowe pojawiają się po słowach, które opisują.

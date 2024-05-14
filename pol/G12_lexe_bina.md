@@ -22,7 +22,7 @@ Tworzy czasowniki odwracjające znaczenie podstawowego czasownika.
 'odtykać, wyciągąć korek'
 
 
-#### -er
+#### -er ~ ter
 
 Tworzy wykonawcę czynności z rdzeni-czynności.
 Określa osobę lub narzędzie wykonujące czynność.
@@ -53,7 +53,7 @@ Określa osobę lub narzędzie wykonujące czynność.
 'muszkieter'  
 **kase**
 'kasa sklepowa'
-→ **kasir**
+→ **kaser**
 'kasjer'
 
 
@@ -98,18 +98,20 @@ Turcja
 **Indonesia**
 'Indonezia'
 
-### -ta
+#### -ta ~ ita
 
-Tworzy rzeczowniki zbiorowe. Opisuje grupę elementów nazwanych rdzeniem jako całość.
+Tworzy rzeczowniki zbiorowe.
+Opisuje grupę elementów nazwanych rdzeniem jako całość.
 
 **homan**
 'człowiek'
-→ **homanta**
+→ **homanita**
 'ludzkość'
 
-Również abstrakcyjne rzeczowniki często kończą się na **-ta**.
+Również abstrakcyjne rzeczowniki często kończą się na
+**-(i)ta**.
 
 **nove**
 'nowy'
-→ **noveta**
+→ **novita**
 'nowość'

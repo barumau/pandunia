@@ -128,7 +128,14 @@ A ordem básica das palavras em Pandunia é sujeito-verbo-objeto.
 **sal papa!**
 – Saudações, pai!
 
-<small>Etimologia. **mi** vem do inglês: me, hindi: मैं (meṇ), espanhol: me.</small>
+<small>Etimologia. **mi** vem do
+inglês *me*,
+hindi: मैं (meṇ),
+espanhol *me*,
+francês *me*,
+fula *mi*,
+suaíli *mimi*.</small>
+
 
 ### tu <small>você</small>
 
@@ -149,7 +156,14 @@ Os pronomes não mudam de forma na pandunia.
 **mi love tu.**
 – Eu te amo.
 
-<small>Etimologia. **tu** vem do espanhol: tú, russo: ты (ty), italiano: tu, francês: tu.</small>
+<small>Etimologia. **tu** vem do
+espanhol *tú*,
+russo ты (ty),
+italiano *tu*,
+francês *tu*,
+hindi तू (tū),
+persa تو‏‎ (to),
+tadjique ту (tu).</small>.</small>
 
 
 ### da <small>ele, ela ou isso</small>
@@ -217,7 +231,7 @@ Na verdade, a pergunta acima é uma simples abreviação de
 **mi no es Sara.**
 – Eu não sou Sara.
 
-**mi no es davar.**
+**mi no es dokter.**
 – Eu não sou médico.
 
 **sual tu gud?**
@@ -241,6 +255,7 @@ Ele é colocado antes da coisa a ser negada.
 <small>Etimologia. **no** vem do
 espanhol *no*,
 inglês *no*,
+francês *non*,
 persa نه⁩ (na),
 bangla না (na).</small>
 
@@ -275,26 +290,32 @@ bangla না (na).</small>
 – Essas são maçãs.
 
 
-### kua? <small>o quê? quem?</small>
+### hu? <small>o quem?</small>
 
-**kua?**
+**hu?**
 – O que?
 
-**tu es kua?**
+**hu es tu?**
 – Quem é?  
 **mi es Tomas.**
 – Eu sou Tomas.
 
-**da es kua?**
+**hu es da?**
 – Quem é ela?  
 **da es Sara.**
 – Ela é Sara.
 
-**yu es kua?**
+**hu es yu?**
 – Quem são vocês?
 
-**di es kua?**
+**hu es di?**
 – Quem são eles?
+
+
+### kua? <small>o quê?</small>
+
+**kua?**
+– O que?
 
 <small>Etimologia. **kua** vem do
 francês *quoi*,
@@ -302,27 +323,18 @@ espanhol *cuál*,
 inglês *what*.</small>
 
 
-### da <small>isso e aquilo</small>
+### da hir <small>isso</small>
 
-**da hir es kua?**
+**kua es da hir?**
 – O que é isso?
 
 **da hir es aple.**
 – Isto é uma maçã.
 
-**da der es kua?**
-– O que é isso?
-
-**da der es aranja.**
-– Isso é uma laranja.
-
-**da es rubi aple.**
-– Isso é uma maçã vermelha.
-
-**da aple es rubi.**
+**da hir aple es rubi.**
 – Esta maçã é vermelha.
 
-**da es rubi.**
+**da hir es rubi.**
 – Este é vermelho.
 
 **di sta kua?**
@@ -331,22 +343,23 @@ inglês *what*.</small>
 **di sta hir.**
 – Estão aqui.
 
+
+### da der <small>aquilo</small>
+
+**da der es kua?**
+– O que é aquilo?
+
+**da der es aranja.**
+– Isso é uma laranja.
+
+**da aple es rubi.**
+– A maçã é vermelha.
+
+**di sta kua?**
+– Onde estão?
+
 **di sta der.**
 – Eles estão ali.
-
-### la <small>o, a, os, as</small>
-
-**sual tu vol ke?**
-– O que Quer?
-
-**mi vol aple.**
-– Eu quero maçãs.
-
-**sual tu vol ke aple?**
-– Qual maçã você quer?
-
-**mi vol la rubi aple.**
-– Eu quero a maçã vermelha.
 
 ### se <small>(partícula possessiva)</small>
 
@@ -544,15 +557,15 @@ Para fazer pedidos diretos, não coloque nenhum pronome.
 – Por favor me ajude.
 
 
-### haida <small>vamos</small>
+### shal <small>vamos</small>
 
-**haida yam!**
+**vi shal yam!**
 – Vamos comer.
 
-**haida go yam!**
+**vi shal go yam!**
 – Vamos comer.
 
-**haida go haus.**
+**vi shal go haus.**
 – Vamos para casa.
 
 
@@ -668,7 +681,7 @@ Para fazer pedidos diretos, não coloque nenhum pronome.
 **mi audi muzike.**
 – Escuto música.
 
-**tu audi kua sorte muzike?**
+**tu audi kua tipe li muzike?**
 – Que tipo de música você ouve?
 
 
@@ -751,10 +764,10 @@ Para fazer pedidos diretos, não coloque nenhum pronome.
 **mi mus go to kua jen?**
 – A quem devo ir?
 
-**haida go!**
+**vi shal go!**
 – Vamos lá! (Em algum lugar)
 
-**haida go a fute**
+**vi shal go a fute**
 – Vamos andando.
 
 
@@ -888,6 +901,6 @@ não é necessário.
 **mi van sepe kira un karo.**
 – Eu quero alugar um carro.
 
-**da kira don kamar to safarer.**
+**da don kira kamar to safarer.**
 – Ele/ela vende os quartos para viajantes.
 

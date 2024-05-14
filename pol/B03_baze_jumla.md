@@ -25,7 +25,7 @@ Cześć!
 **sal suba!**
 Dobrego ranka!
 
-**sal den!**
+**sal dia!**
 Dzień dobry!
 
 **sal sham!**
@@ -37,10 +37,10 @@ Dobranoc!
 **sal yam!**
 Smacznego!
 
-**sal lai!**
+**sal kom!**
 Witaj! Zapraszam!
 
-**sal ga!**
+**sal go!**
 Żegnaj!
 
 **sal safar!**
@@ -49,14 +49,20 @@ Szczęśliwej podróży!
 **sal sona!**
 Dobrego snu!
 
-Jak pewnie zauważyłeś dzięki tym kilku wyrażeniom, **sal**
+Jak pewnie zauważyłeś dzięki tym kilku wyrażeniom,
+**sal**
 jest ogólnym słowem do pozdrowień. Używaj go, kiedy chcesz!
 
 **sal**
 jest popularnym pozdrowieniem używanym przez i religijnych i niereligijnych ludzi w wielu różnych krajach na całym świecie.
 
 <small>Etymologia. **sal**
-pochodzi z języków: arabskiego: سَلَام‏ "salām", hebrajskiego: שָׁלוֹם‏ "šalom", tureckiego: selam, hindi: सलाम "salām", suahili: salaam, indonezyjskiego: selamat.</small>
+pochodzi z języków: arabskiego: سَلَام‏ "salām",
+hebrajskiego: שָׁלוֹם‏ "šalom",
+tureckiego: selam,
+hindi: सलाम "salām",
+suahili: salaam,
+indonezyjskiego: selamat.</small>
 
 
 
@@ -115,7 +121,7 @@ Ty pozdrawiasz mnie.
 Zaimki nigdy nie odmieniają się w Panduni. Dlatego **mi**
 jest takie samo jako podmiot i dopełnienie, gdy język polski dwie różne formy, 'ja' i 'mnie'.
 
-**mi ai tu.**
+**mi love tu.**
 Ja kocham cię.
 
 <small>Etymologia. **tu** pochodzi z języków
@@ -130,13 +136,13 @@ tadżyckiego ту (tu).</small>
 
 ### da <small>on, ona lub to</small>
 
-**da man.**
+**da es man.**
 On jest mężczyzną.
 
-**da fem.**
+**da es fem.**
 Ona jest kobietą.
 
-**da aple.**
+**da es aple.**
 To jest jabłko.
 
 **da**
@@ -149,26 +155,26 @@ Ja pozdrawiam go/ją.
 
 ### sual <small>to ask a question</small>
 
-**sual tu Tomas?**
+**sual tu es Tomas?**
 Czy ty jesteś Tomasz?
 
-**sual tu davar?**
+**sual tu es dokter?**
 Czy ty jesteś lekarzem?
 
 Porada: Pytania tak/nie często zaczynają się od
 **sual**.
 Jest to zwykły czasownik, żaden specjaly _znacznik pytania_.
 Właściwie, poprzednie zdanie powstało z
-**mi sual tu e davar**
+**mi sual tu es dokter**
 (Ja pytam, ty lekarz?) porzez opuszczenie pierwszego słowa.
 
-**sual tu hau?**
+**sual tu gud?**
 Jak się czujesz? (Dosłownie: _Czy ty jesteś dobry?_)
-**mi hau.**
+**mi gud.**
 Ja czuję się dobrze.
 **tu ne?**
 A ty?
-**mi no hau.**
+**mi no gud.**
 Ja nie czuję się dobrze.
 
 <small>Etymologia. **sual** pochodzi z języków
@@ -179,52 +185,53 @@ Swahili *swali*.</small>
 
 ### ye <small>tak</small>
 
-**sual tu Tomas?**
+**sual tu es Tomas?**
 Czy ty jesteś Tomasz?
 
-**ye, mi Tomas.**
+**ye, mi es Tomas.**
 Tak, ja jestem Tomasz.
 
-**sual da davar?**
+**sual da es dokter?**
 Czy on/ona jest lekarzem?
 
-**ye, da davar.**
+**ye, da es dokter.**
 Tak, on/ona jest lekarzem.
 
 
 ### es <small>być</small>
 
-**mi e Tomas.**
+**mi es Tomas.**
 Ja jestem Tomasz.
 
-**tu e Sara.**
+**tu es Sara.**
 Ty jesteś Sara.
 
-**aple e pal.**
+**aple es fture.**
 Jabłko jest owocem.
 
 Uwaga: Należy użyć **es**
-w ostatnim zdaniu, bo bez niego wyglądałoby jak wyrażenie rzeczownikowe: **aple pal**
+w ostatnim zdaniu, bo bez niego wyglądałoby jak wyrażenie rzeczownikowe
+**aple – frute**
 (jabłkowy owoc).
 
 
 
 ### no <small>nie</small>
 
-**mi no e Sara.**
+**mi no es Sara.**
 Nie jestem Sara.
 
-**mi no e davar.**
+**mi no es dokter.**
 Nie jestem lekarzem.
 
-**sual tu hau?**
+**sual tu gud?**
 Czy czujesz się dobrze?
-**ye. mi hau.**
+**ye. mi gud.**
 Tak, czuję się dobrze.
 
-**sual tu hau?**
+**sual tu es gud?**
 Czy czujesz się dobrze?  
-**no, mi no hau.**
+**no, mi no es gud.**
 Nie, nie czuję się dobrze.
 
 Możesz używać
@@ -243,67 +250,70 @@ francuskiego *non*.</small>
 
 ### ludzie
 
-**mimen sal tumen.**
+**vi sal yu.**
 My pozdrawiamy was.
 
-**tumen sal damen.**
+**yu sal di.**
 Wy pozdrawiacie ich.
 
-**damen sal mimen!**
+**di sal vi!**
 Oni/One pozdrawiają nas.
 
-**mimen e fem.**
+**vi es fem.**
 Jesteśmy kobietami.
 
-**tumen e man.**
+**yu es man.**
 Jesteście mężczyznami.
 
-**damen e aple.**
+**di es aple.**
 Są jabłkami.
 
 
+### hu <small>co? kto?</small>
 
-### ke? <small>co? kto?</small>
+**hu?**
+– Kto?
+
+**hu es tu?**
+Kim jesteś?
+**mi es Tomas.**
+Jestem Tomasz.
+
+**hu es da?**
+Kim ona jest?
+**da es Sara.**
+Ona to Sara.
+
+**hu es yu?**
+Kim jesteście?
+
+**hu es di?**
+Kim są?
+
+
+### kua <small>co?</small>
 
 **ke?**
 Co?
 
-**tu ke?**
-Kim jesteś?
-**mi e Tomas.**
-Jestem Tomasz.
-
-**da e ke?**
-Kim ona jest?
-**da e Sara.**
-Ona to Sara.
-
-**tumen e ke?**
-Kim jesteście?
-
-**damen e ke?**
-Kim są?
-
-<small>Etymologia. **ke** pochodzi z języków
-hiszpańskiego *qué*,
-portugalskiego *que*,
-włoskiego *che*,
-bengalskiego: কী (ki).</small>
+<small>Etymologia. **kua** pochodzi z języków
+francuskiego *quoi*,
+hiszpańskiego *cuál*,
+angielkiego *what*.</small>
 
 
+### da hir <small>to</small>
 
-### ye <small>to, tamto</small>
-
-**ye ke? / ke ye?**
+**kua es da hir?**
 Co to?
 
-**ye aple.**
+**da hir es aple.**
 To jest jabłko.
 
-**ye e rubi aple.**
+**da es rubi aple.**
 To jest czerwone jabłko.
 
-**ye aple e rubi.**
+**da aple es rubi.**
 Te jabłko jest czerwone.
 
 Uwaga: Kiedy przymiotnik, jak
@@ -311,57 +321,57 @@ Uwaga: Kiedy przymiotnik, jak
 jest  umieszczony przed rzeczownikiem, działa jako przydawka.
 Kiedy jest po rzeczowniku, działa jako "przymiotnikowy" czasonik.
 
-**ye e rubi.**
+**da es rubi.**
 Jest czerwone.
 
 
+### da der <small>tamto</small>
 
-### su <small>(partykuła dzierżawcza)</small>
 
-**ye e ke?**
+### se <small>(partykuła dzierżawcza)</small>
+
+**da es kua?**
 Co to jest?
 
-**da e mi su telefon.**
+**da es mi se telefon.**
 To mój telefon.
 
-**ye e ke su?**
+**da hir es hu se?**
 Czyje to?
 
-**da e mi su.**
+**da es mi se.**
 To jest moje.
 
 Uwaga: Partykuła dzierżawcza
-**su**
+**se**
 jest umiejscawiana między właściciela i posiadaną rzecz, więc
-**mi su**
+**mi se**
 znaczy "mój",
-**tu su**
+**tu se**
 znaczy "twój" i tak dalej.
 
-**da e ke?**
+**da es hu?**
 Kim on/ona jest?
 
-**da e mi su dosti.**
+**da es mi se frende.**
 On/ona jest moim przyjacielem/przyjaciółką.
 
-**mi e Sara su dosti.**
+**mi es Sara se frende.**
 Jestem przyjacielem Sary.
-
-
 
 
 ### nam <small>name</small>
 
-**tu su nam e ke?**
+**tu se nam es kua?**
 Jak się nazywasz? (Dosłownie: Czym jest twoje imię?)
 
-**mi su nam e Tomas.**
+**mi se nam es Tomas.**
 Nazywam się Tomasz.
 
-**da su nam e ke?**
+**da se nam es kua?**
 Jak ona jest nazywana?
 
-**da su nam e Sara.**
+**da se nam es Sara.**
 Ona jest nazywana Sarą.
 
 **mi su nam e Tomas.**
@@ -377,49 +387,49 @@ niemieskiego *Name*,
 angielskiego *name*.</small>
 
 
-### ha <small>mieć</small>
+### have <small>mieć</small>
 
-**mi ha hau dom.**
+**mi have un gud haus.**
 Mam dobry dom.
 
-**da no ha pesa.**
+**da no have mone.**
 Nie ma pieniędzy.
 
-**mi vol ha neu fon.**
+**mi van have un nove telefon.**
 Chcę mieć nowy telefon.
 
-**sual tu ha bacha?**
+**sual tu have pikin?**
 Czy masz dzieci?
-**mi ha du bacha.**
+**mi have du pikin.**
 Mam dwoje dzieci.
 
 
 
-### kan <small>wiedzieć, znać</small>
+### nou <small>wiedzieć, znać</small>
 
-**mi kan da.**
+**mi nou da.**
 Znam go/ją.
 
-**sual tu kan ye jen?**
+**sual tu nou da jen?**
 Czy znasz tę osobę?
 
-**sual tumen kan semen?**
+**sual yu nou unotre?**
 Czy znacie się?
 
-**mimen kan semen de long.**
+**vi nou unotre of long.**
 Znamy się od długiego (czasu).
 
 
 
-### mede <small>pomoc</small>
+### helpe <small>pomoc</small>
 
-**mi yau yo mede.**
+**mi yau helpe.**
 Potrzebuję pomocy.
 
-**sual tu bil mede mi?**
+**sual tu kan helpe mi?**
 Czy możesz pomóc mi?
 
-**sual mi bil mede tu?**
+**sual mi kan helpe tu?**
 Czy mogę ci pomóc?
 
 
@@ -429,13 +439,13 @@ Czy mogę ci pomóc?
 
 ### yam <small>konsumować, spożywać, jeść, pić</small>
 
-**sual tu vol yam yo?**
+**sual tu van yam som ting?**
 Czy chcesz zjeść coś?
 
 **da yam un aple.**
 Je jabłko.
 
-**damen yam aple.**
+**di yam aple.**
 Jedzą jabłka.
 
 Uwaga: Inaczej niż język polski, Pandunia nie ma osobnyc form pojedynczej i mnogiej.
@@ -454,37 +464,37 @@ Porada: Znaczenie
 obejmuje i jedzenie i picie. Może się to na początku wydawać dziwne, ale niedługo zauważysz, że jesto dosyć poręczne!
 Zazwyczaj dopełnienie wyjaśnia, czy chodzi o jedzenie, picie czy oba.
 
-**mi yam kafe i ban.**
+**mi yam kafe e ban.**
 Spożywam kawę i chleb.
 
 
 
-### vol <small>chcieć</small>
+### van <small>chcieć</small>
 
-**sual tu vol yam?**
+**sual tu van yam?**
 Czy chcesz jeść?
 
-**tu vol yam ke?**
+**tu van yam kua?**
 Co chcesz zjeść?
 
-Porada: Gdy język polski umieszcza "co" na początku pytania, w Panduni **ke**
+Porada: Gdy język polski umieszcza "co" na początku pytania, w Panduni
+**kua**
 nie zmienia szyku zdania.
 
-**mi vol yam kafe.**
+**mi van yam kafe.**
 Chcę pić kawę.
 
-**sual tu vol yam cha?**
+**sual tu van yam cha?**
 Czy chcesz napić się herbaty?
 
-**no. mi no vol cha. mi vol kafe.**
+**no. mi no van cha. mi van kafe.**
 Nie, nie chcę herbaty. Chcę kawę.
 
-**tu vol ke aple?**
+**tu van kua aple?**
 Które jabłko chcesz?
 
-**ye rubi.**
+**da rubi.**
 Te czerwone.
-
 
 
 ### plis <small>prosić</small>
@@ -492,10 +502,10 @@ Te czerwone.
 **mi plis tu yam cha.**
 Proszę, żebyś napił się herbaty.
 
-**mi plis tu lai dom.**
+**mi plis tu kom haus.**
 Proszę, żebyś przyszedł do domu.
 
-**mi plis tu mede mi.**
+**mi plis tu helpe mi.**
 Proszę, żebyś mi pomógł.
 
 Porada: By tworzyć bezpośrednie prośby, opuść wszystkie zaimki.
@@ -506,10 +516,10 @@ Proszę, napij się herbaty!
 **plis yam kafe.**
 Proszę, napij się kawy!
 
-**plis lai dom.**
+**plis kom haus.**
 Proszę, przyjdź do domu!
 
-**plis mede mi.**
+**plis helpe mi.**
 Proszę, pomóż mi.
 
 
@@ -525,10 +535,10 @@ Dzięki ci.
 **mi danke tu.**
 Dziękuję tobie.
 
-**mi danke tu mede mi.**
+**mi danke tu helpe mi.**
 Dziękuję tobie, że pomogłeś mi.
 
-**danke tu mede mi.**
+**danke tu helpe mi.**
 Dzięki tobie, że pomogłeś mi.
 
 **tu kechi.**
@@ -536,22 +546,21 @@ Nie ma za co. (Dosłownie: _Jesteś uprzejmy._)
 
 
 
-### haida <small>niech my</small>
+### shal <small>niech my</small>
 
-**haida yam!**
+**vi shal yam!**
 Zjedzmy!
 
-**haida ga yam!**
+**vi shal go yam!**
 Chodźmy jeść!
 
-**haida ga dom.**
+**vi shal go haus.**
 Chodź do domu.
-
 
 
 ### yau <small>potrzebować</small>
 
-**mi yau yo mede.**
+**mi yau helpe.**
 Potrzebuję pomocy.
 
 **mi yau yam.**
@@ -568,17 +577,16 @@ Czy jesteś spragniony?
 
 ## Part 3. Komunikacja
 
-### maf <small>przepraszam, pardon, sory</small>
+### perdon <small>przepraszam, pardon, sory</small>
 
-**maf! mi no aha.**
+**perdon! mi no aha.**
 Przepraszam, nie rozumiem.
 
-**maf! ye ke?**
+**perdon! da es kua?**
 Przepraszam, co to?
 
-**maf. tu su nam e ke?**
+**perdon. tu se nam es kua?**
 Przepraszam, jak się nazywasz?
-
 
 
 ### aha <small>rozumieć</small>
@@ -589,138 +597,131 @@ Czy rozumiesz mnie?
 **mi aha.**
 Rozumiem.
 
-**maf. mi no aha tu.**
+**perdon. mi no aha tu.**
 Przepraszam., nie rozumiem cię.
 
 **mi no bas aha tu.**
 Niezbyt zrozumiałem cię.
 
-**mi aha no she.**
+**mi aha no ting.**
 Nic nie rozumiem.
 
 
+### kan <small>móc, umieć</small>
 
-### bil <small>móc, umieć</small>
-
-**mi bil shofe char.**
+**mi kan shofe karo.**
 Umiem kierować samochodem.
 
-**da no bil shofe char.**
+**da no kan shofe karo.**
 Nie umie kierować samochodem.
 
-**sual tu bil shuli da?**
+**sual tu kan shuli da?**
 Czy umiesz to naprawić?
 
-**sual tu bil pandunia?**
+**sual tu kan pandunia?**
 Czy umiesz mówić w Panduni?
 
-**mi bil pandunia.**
+**mi kan pandunia.**
 Umiem mówić w Panduni.
 
-**mi bil kam pandunia.**
+**mi kan kam pandunia.**
 Umiem trochę mówić w Panduni.
 
-**mi no bil english.**
+**mi no kan english.**
 Nie znam języka angielskiego.
 
-**maf. mi no bil tu su basha.**
+**perdon. mi no kan tu se bashe.**
 Przepraszam. Nie mówię w twoim języku.
-
 
 
 ### loga <small>mówić</small>
 
-**tu loga ke?**
+**tu loga kua?**
 Co mówisz??
 
 **mi loga to tu.**
 Mówię do ciebie.
 
-**mimen loga to semen.**
+**vi loga to unotre.**
 Mówimy do siebie.
 
-**men loga
+**von loga**
 "kot"
-a ke mode a pandunia?**
+**a kua mode a pandunia?**
 Jak się mówi "kot" w Panduni?
 
-**"kot"
-e ke a pandunia?**
+"kot"
+**es kua a pandunia?**
 Czym jest "kot" w Panduni?
 
 **mau loga "miau".**
 Kot mówi miau.
 
 
-
 ### audi <small>słuchać, słyszeć</small>
 
-**mi no bil audi tu.**
+**mi no kan audi tu.**
 Nie mogę cię usłyszeć.
 
-**plis loga mas bala.**
+**plis loga mor bala.**
 Proszę, mów głośniej.
 
-**mi audi muzika.**
+**mi audi muzike.**
 Słucham muzyki.
 
-**tu audi ke yang di muzike?**
+**tu audi kua tipe li muzike?**
 Jakiego rodzaju muzyki słuchasz?
 
 
+### vize <small>widzieć</small>
 
-### visi <small>widzieć</small>
-
-**suka visi tu.**
+**suka vize tu.**
 Miło cię widzieć!
 
-**to rivisi!**
+**to rivize!**
 Do zobaczenia! (Dosłownie: Zobaczyć cię znowu!)
 
-**visi tu a posden!**
+**vize tu a posden!**
 Do jutra! (Dosłownie: Zobaczyć cię jutro!)
 
-**mi visi da a preden.**
+**mi vize da a preden.**
 Widziałem go/ją wczoraj.
 
 
+### seme <small>znaczyć</small>
 
-
-### sema <small>znaczyć</small>
-
-**ye lexi ye sema ke?**
+**da hir lexe ye seme kua?**
 Co znaczy to słowo?
 
-**"mau" ye sema ke?**
+**"mau" ye seme kua?**
 Co znaczy "mau"?
 
-**da sema un yang de hevan.**
+**da seme un tipe of hevan.**
 To oznacza rodzaj zwierzęcia.
 
-**mi no aha da sema ke.**
+**mi no aha da seme kua.**
 Nie rozumiem, co to znaczy.
 
 
 
-### kitabi <small>pisać</small>
+### kitab <small>pisać</small>
 
-**plis kitabi tu su adres.**
+**plis kitab tu se adres.**
 Proszę, napisz swój adres.
 
-**plis kitabi da a ye.**
+**plis kitab da a hir.**
 Proszę, napisz to tutaj!
 
 
+### bashe <small>mówić w języku, komunikować się</small>
 
-### basha <small>mówić w języku, komunikować się</small>
-
-**sual tumen basha pandunia.**
+**sual yu bashe pandunia.**
 Czy mówicie w Panduni?
 
-**mimen basha pandunia.**
+**vi bashe pandunia.**
 Mówimy w Panduni.
 
-**sual tu bil basha english?**
+**sual tu kan bashe english?**
 Czy umiesz mówić w języku angielskim?
 
 **franse, espanya, portugal, rus**
@@ -729,7 +730,7 @@ francuski, hiszpański, portugalski, rosyjski
 **putong han, nipon, indonesia**
 chiński, japoński, indonezyjski
 
-**arabi, turki, parsi, urdu, hindi**
+**arabe, turke, parse, urdu, hindi**
 arabski, turecki, perski, urdu, hindi
 
 **suahili, hausa, yoruba, amara**
@@ -739,43 +740,40 @@ suahili, hausa, joruba, amharski
 
 ## Part 4. Chodzenie
 
-### ga <small>iść</small>
+### go <small>iść</small>
 
-**tu ga ke?**
+**tu go kua?**
 Dokąd idziesz?
 
-**mi ga dom.**
+**mi go haus.**
 Idę do domu.
 
-**mi mus ga ke?**
+**mi mus go kua?**
 Gdzie powinienem pójść?
 
-**mi mus ga to ke jen?**
+**mi mus go to kua jen?**
 Do kogo powinienem pójść?
 
-**haida ga!**
+**vi shal go!**
 Pójdźmy!
 
-**haida ga a fute**
+**vi shal go a fute**
 Pójdźmy pieszo!
 
 
+### kom <small>przybywać, przychodzić</small>
 
-
-### lai <small>przybywać, przychodzić</small>
-
-**plis lai!**
+**plis kom!**
 Przyjdź tu!
 
-**tu lai de ke?**
+**tu kom of kua?**
 Skąd pochodzisz?
 
-**mi lai de Dubai.**
+**mi kom of Dubai.**
 Pochodzę z Dubaju.
 
-**mi lai dom a pos den.**
+**mi kom haus a pos den.**
 Przyjdę do domu jutro.
-
 
 
 ### safar <small>podróżować</small>
@@ -783,55 +781,61 @@ Przyjdę do domu jutro.
 **sual tu safar a tren?**
 Czy podróżujesz pociągiem?
 
-**mimen safar de London to Paris.**
+**vi safar of London to Paris.**
 Podróżujemy z Londynu do Paryża.
 
-**safar e dai di long.**
+**safar es muche long.**
 Podróż jest bardzo długa.
-
 
 
 ### a <small>w, na, przy</small>
 
-**hotel a ke?**
+**hotel a kua?**
 Gdzie jest hotel?
 
-**hotel a ye dau.**
+**hotel a da der dau.**
 Hotel jest przy tej drodze.
 
-**tu a ke?**
+**tu a kua?**
 Gdzie jesteś?
 
-**mi a dom.**
+**mi a haus.**
 Jestem w domu.
 
-**da a ke?**
+**da a kua?**
 Gdzie jest?
 
 **da side a kamar.**
 Siedzi w pokoju.
 
-Porada! Możesz używać **a**
+Porada! Możesz używać
+**a**
 jako przyimka lub samodzielnie jako czasownika.
 
-**mi kar a...**
+**mi verke a...**
 Pracuję w ...
 
 
+### loju <small>mieszkać</small>
 
-### dom <small>mieszkać</small>
-
-**tu dom ke?**
+**tu loju kua?**
 Gdzie mieszkasz?
 
-**mi dom Singapur.**
+**mi loju Singapur.**
 Mieszkam w Singapurze.
 
-**sual tu dom ye hotel?**
+**sual tu loju da hir hotel?**
 Czy miszkasz w tym hotelu?
 
-Porada: Poprawnie jest też powiedzieć "tu dom a ke?" zamiast "tu dom ke".
-Jakkolwiek **dom** już obejmuje znaczenie bycia w czymś, więc **a** nie jest potrzebne.
+Porada: Poprawnie jest też powiedzieć
+**tu loju a kua?**
+zamiast
+**tu loju kua**.
+Jakkolwiek
+**loju**
+już obejmuje znaczenie bycia w czymś, więc
+**a**
+nie jest potrzebne.
 
 
 
@@ -840,7 +844,7 @@ Jakkolwiek **dom** już obejmuje znaczenie bycia w czymś, więc **a** nie jest 
 **plis dele!**
 Proszę, czekaj!
 
-**damen dele mimen.**
+**di dele vi.**
 Czekają na nas.
 
 **mi dele tu a hotel.**
@@ -853,19 +857,19 @@ Czekam na ciebie w hotelu.
 
 ### don <small>dać</small>
 
-**plis don pesa.**
+**plis don mone.**
 Proszę, daj trochę pieniędzy.
 
 **plis don da to mi.**
 Proszę, daj mi to.
 
-**mi don ye to tu.**
+**mi don da hir to tu.**
 Daję ci to.
 
-**mi don buk to damen.**
+**mi don buk to di.**
 Daję im książkę.
 
-**da no vol don da to mi.**
+**da no van don da to mi.**
 Nie chce dać mi tego.
 
 
@@ -877,7 +881,7 @@ Wezmę kawę.
 **plis sepe un kafe to mi.**
 Proszę, weź kawę dla mnie.
 
-**tu pas sepe pesa de mi.**
+**tu did sepe mone of mi.**
 Już dostałeś ode mnie pieniądze.
 
 **mi sepe un bir.**

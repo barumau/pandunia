@@ -19,45 +19,47 @@ Obserwacje to najprostszy typ zdania. Mogą się składać z tylko jednego słow
 Normalnie zdanie składa się z podmiotu i predykatu.
 W najprostrzych zdaniach podmiot to zaimek osobowy, a predykat to przymiotnik lub rzeczownik.
 
-**mi hau.**
+**mi – gud.** ~ **mi es gud.**
 – Jestem dobry.  
-**da neu.**
+**da – nove.** ~ **da es nove.**
 – To jest nowe.  
-**da Sara.**
+**da – Sara.** ~ **da es Sara.**
 – Ona to Sara.
 
-Słowo **no** jes dodawane, by tworzyć przeczenie.
+Słowo
+**no**
+jes dodawane, by tworzyć przeczenie.
 
-**mi no hau.**
+**mi no (es) gud.**
 – Nie jestem dobry.  
-**da no neu.**
+**da no (es) nove.**
 – To nie jest nowe.  
-**da no Sara.**
+**da no (es) Sara.**
 – Ona to nie Sara.
 
 Również dwa zaimki osobowe mogą być zestawione.
 
-**mi e da.**
+**mi es da.**
 – Ja jestem nim/nią.  
-**mi no tu.**
+**mi no (es) tu.**
 – Ja Nie jestem tobą.
 
 #### Z podmiotem-rzeczownikiem
 
 Gdy podmiot jest rzeczownikiem, słowo
-**e**
+**es**
 (być) jest dodawane przed predykatem w zdaniach pozytywnych.
 Przeczenia używają
 **no**,
 jak wyżej.
 
-**Sara e hau.**
+**Sara es gud.**
 – Sara jest dobra.  
-**ite e dai.**
+**sek es dai.**
 – Kamień jest duży.  
-**meza e neu.**
+**meza es nove.**
 – Stół jest nowy.  
-**meza no lau.**
+**meza no sen.**
 – Stół nie jest stary.
 
 
@@ -65,9 +67,9 @@ jak wyżej.
 
 Ta sama zasada działa przy zdaniach z dwoma przymiotnikami.
 
-**jun e mei.**
+**yun es mei.**
 – Młode jest piękne.  
-**neu no lau.**
+**nove no (es) sen.**
 – Nowe nie jest stare.
 
 
@@ -83,7 +85,7 @@ Zdania czynne mają szyk podmiot-orzeczenie-dopełnienie (SVO).
 – Ja jem jabłka.  
 **mi audi muzika.**
 – Ja słucham muzyki.  
-**mi visi tu.**
+**mi vize tu.**
 – Ja widzę cię.
 
 
@@ -94,7 +96,7 @@ Zdania czynne mają szyk podmiot-orzeczenie-dopełnienie (SVO).
 W stronie biernej nie ma podmiotu-agenta w zdaniu.
 Jest tylko dopełnienie i orzeczenie.
 
-**tu be visi.**
+**tu be vize.**
 – Ty jesteś widziany.  
 **muzika be audi.**
 – Muzyka jest słyszana.  
@@ -105,9 +107,9 @@ Tu skupienie pada na dopełnienie, które jest pierwszym słowem w zdaniu.
 Dopełnienie jest biernym aktorem poddawanym działaniu.
 
 Agent może być wspomniany po czasowniku z lub bez przyimka
-**de**.
+**of**.
 
-**tu be visi de mi.**
+**tu be vize of mi.**
 – Jesteś widziany przez mnie.
 
 
@@ -124,17 +126,17 @@ podmiot – orzeczenie 1. – dopełnienie 1. – orzeczenie 2. – dopełnienie
 Dopełnienie 1. spełnia podwójną rolę.
 Jest jednocześnie dopełnieniem dla orzeczenia 1. i podmiotem dla orzeczenia 2.
 
-**mi vol tu yam fito.**
+**mi van tu yam vege.**
 – Ja chcę ty jesz warzywa.
 
 W powyższym przykładzie,
-**mi vol**
+**mi van**
 ma
 **tu**
 jako swoje dopełnienie; jednocześnie
 **tu**
 działa jako podmiot następnego predykatu,
-**yam fite**,
+**yam vege**,
 więc
 **tu**
 jest _osią_ całego zdania.
@@ -145,11 +147,11 @@ jest _osią_ całego zdania.
 Wszystkie słowa-czyny (czasowniki), które pojawiają się jeden po drugim są aktywowane przez podmiot.
 Mogą być dwa, trzy albo i więcej słów-czynów w serii.
 
-1. **mi ga dom.**
+1. **mi go haus.**
 – Idę do domu.  
-2. **mi bil ga dom.**
+2. **mi kan go haus.**
 – Mogę iśc do domu.  
-3. **mi vol bil ga dom.**
+3. **mi van kan go haus.**
 – Chcę móc iść do domu.
 
 
@@ -160,16 +162,16 @@ Dochodzi do tego szczególnie w rozkazach i prośbach.
 
 #### Krótka struktura osiowa (VOVO)
 
-**mi sual tu basha pandunia.**
+**mi sual tu bashe pandunia.**
 – Pytam mówisz w Pandunia.  
-**sual tu basha pandunia?**
+**sual tu bashe pandunia?**
 – Czy mówisz w Panduni?
 
 #### Krótka struktura osiowa (VVO)
 
-**mi plis tu lai dom.**
+**mi plis tu kom haus.**
 – Proszę cię, żebyś wrócił do domu.  
-**plis lai dom!**
+**plis kom haus!**
 – Proszę, wróć do domu! (Dosłownie _Prosić wrócić dom!_)
 
 
@@ -204,7 +206,7 @@ Dochodzi do tego szczególnie w rozkazach i prośbach.
 ### Potwierdzenie
 
 Partykuła
-**ya**
+**ye**
 potwierdza, a
 **no**
 przeczy.
@@ -216,26 +218,26 @@ Takie zdania mogą być prosto zaprzeczane przez **no**.
 
 **mi no jen.**
 – Ja nie jestem osobą.  
-**da no neu meza.**
+**da no nove meza.**
 – To nie jest nowy stół.
 
 Słowo **no** jest używane do zaprzeczania czegokolwiek.
 Działa zawsze na następne słowo.
 
-**mi visi tu.**
+**mi vize tu.**
 – Ja widzę cię.  
-**mi no visi tu.**
+**mi no vize tu.**
 – Ja nie widzę cię.  
-**mi visi no tu ama damen.**
+**mi vize no tu ama damen.**
 – Ja widzę nie ciebie,ale ich.
 
-Partykuły **ya** i **no** są używane też do odpowiadania na pytania.
+Partykuły **ye** i **no** są używane też do odpowiadania na pytania.
 
-**sual tu visi mi?**
+**sual tu vize mi?**
 – Czy widzisz mnie?  
-**ya. (mi visi tu.)**
+**ye. (mi vize tu.)**
 – Tak. (Widzę się.)  
-**no. (mi no visi tu.)**
+**no. (mi no vize tu.)**
 – Nie. (Nie widzę cię.)
 
 
@@ -246,27 +248,27 @@ Partykuły **ya** i **no** są używane też do odpowiadania na pytania.
 
 Partykuła modyfikatorowa może być używana przy każdym posiadającym rzeczowniku lub zaimku.
 
-Przed **su** pojawia się posiadacz, a po nim posiadany obiekt.
+Przed **se** pojawia się posiadacz, a po nim posiadany obiekt.
 
-**maria su mama**
+**maria se mama**
 – Marii matka  
-**mi su dom**
+**mi se haus**
 – mój dom  
-**mi su papa su dom**
+**mi se papa se haus**
 – mojego ojca dom
 
 
-Partykuły **di** i **de** są używane do oznaczania posiadania i opisu.
-**di** łączy opisujące słowo lub wyrażenie z opisywanym słowem.
-**de** działa w przeciwnym kierunku. Łączy opisywane słowo z modyfikatorem.
+Partykuły **li** i **of** są używane do oznaczania posiadania i opisu.
+**li** łączy opisujące słowo lub wyrażenie z opisywanym słowem.
+**of** działa w przeciwnym kierunku. Łączy opisywane słowo z modyfikatorem.
 
-Przed **de** pojawia się posiadany obiekt, a po nim posiadacz.
+Przed **of** pojawia się posiadany obiekt, a po nim posiadacz.
 
-**mama de maria**
+**mama of maria**
 – matka Marii  
-**dom de mi**
+**haus of mi**
 – dom mój  
-**dom de papa de mi**
+**haus of papa of mi**
 – dom ojca mojego
 
 #### Nadawanie cech przymiotnikami
@@ -276,16 +278,16 @@ To daje nam więcej informacji o rzeczowniku, a partykuła objaśnia, na którym
 
 Partykuły modyfikatorowe są użyteczne do tworzenia złożonych przymiotników, które składają się z dwóch lub większej liczby słów.
 
-**labi de rode rang**
+**labi of rode rang**
 – usta koloru róży  
-**yen de sama rang**
+**yen of sama rang**
 – oczy koloru nieba
 
 Lub w przeciwnej kolejności:
 
-**rode rang di labe**
+**rode rang li labe**
 – koloru róży usta  
-**sama rang di yen**
+**sama rang li yen**
 – koloru nieba oczy
 
 #### Zdania podrzędne
@@ -294,12 +296,12 @@ Partykułami modyfikatorowymi mogą być tworzone również zdania podrzędne.
 
 Tutaj **ki** ma podobną rolę co polskojęzyczny zaimek _który_.
 
-**da e man _ki mi visi_.**
+**da es man _ki mi visi_.**
 – On jest człowiekiem_, którego widziałem_.
 
 Jeśli zdanie podrzędne nie ma podmiotu, ale zawiera dopełnienie (tj. jeśli orzeczenie jest przechodnie), rzeczownik z zdania nadrzędnego jest w domyśle podmiotem zdania podrzędnego.
 
-**mi visi man _ki yam aple_.**
+**mi vize man _ki yam aple_.**
 – Widzę człowieka_, który je jabłka_.
 
 
@@ -325,29 +327,6 @@ Partykuła **plus** _(też)_ jest dość dobrym przykładem.
 Partykuły modalne mogą działać na każde słowo, włączając w to zimki i liczebniki, których przymiotniki nie mogą opisywać.
 
 
-### Partykuły czasu i aspektu
-
-W Panduni, czas może być wyrażany słowami czasu i wyrażeniami czasu, jeśli trzeba.
-Ogólne słowa czasu to
-**pas**
-(przeszłość),
-**zai**
-(teraźniejszość) i
-**futur**
-(przyszłość).
-Działają jak przymiotniki i przysłówki, więc zazwyczaj ich miejsce jest przed orzeczeniem lub na końcu zdania.
-
-**mi ten un mau a pas.**
-– Miałem koty w przeszłości.  
-**ama mi ten no mau a zai.**
-– Ale nie mam kotów teraz.  
-**bil, mi ten mau a futur.**
-– Może będę miał koty w przyszłości.
-
-Naturalnie, wszystkie słowa czasu są używane, gdy są potrzebne.
-Zazwyczah wystaerczy wspomnieć czas tylko raz, na początku tekstu, a nie w każdym zdaniu, jeśli czas się nie zmienia.
-
-
 ## Przyimki
 
 ### Przyimiki miejsca i czasu
@@ -356,7 +335,7 @@ Pandunia ma cztery przyimki miejsca i czasu.
 
 1. **a**
 – obecność, miejsce lub moment (zazwyczaj): wraz z, przy, w, na, obok, podczas
-2. **de**
+2. **of**
 – pochodzenie, początek lub przyczyna: od, z, ponieważ
 3. **to**
 – cel, przeznaczenie lub koniec: do, aż, dla
@@ -367,17 +346,17 @@ Przysłówek rozpoczyna wyrażenie przyimkowe. W prostym wyrażeniu przyimkowym 
 – Jestem w hotelu.  
 **mi sona a hotel.**
 – Śpię w hotelu.  
-**mi sona de sham to suba.**
+**mi sona of sham to suba.**
 – Śpię od wieczora do rana.  
-**mi safar de London to Paris.**
+**mi safar of London to Paris.**
 – Podróżuję od Londynu do Paryża.
 
 
 Przyimki mogą być też użyte jako rozpoczęcie zdania okolicznikowego czasu.
 
-**mi dele de tu ga.**
+**mi dele of tu go.**
 – Czekam, od kiedy wyszłaś.  
-**mi dele to tu lai dom.**
+**mi dele to tu kom haus.**
 – Zaczekam, aż wrócisz do domu.  
 **mi dele a tu sona.**
 – Czekam, kiedy śpisz.
@@ -386,9 +365,9 @@ Przyimki mogą być też użyte jako rozpoczęcie zdania okolicznikowego czasu.
 
 W Panduni kilka czasowników działa jak przyimki lub przypadki gramatyczne w języku polskim.
 
-**mi kata ban.**
+**mi kate ban.**
 – Kroję chleb.  
-**mi kata ban, uze caku.**
+**mi kate ban, uza chaku.**
 – Kroję chleb, używam noża. (Kroję chleb nożem.)
 
 **mi dele dura du hor.**
@@ -404,11 +383,7 @@ Oto kilka czasowników, których można użyć jak przyimków:
 – być skocentrowanym; między, w środku  
 **loka**
 – zajmować, być zlokalizowanym; w, na  
-**gola**
-– otaczać; wokół, dookoła  
-**supra**
-– przekraczać; nad, ponad  
-**sabu**
+**sabab**
 – być spowodowanym przez; przez, ponieważ, bo
 
 #### Czasowniki bez przyimów
@@ -416,7 +391,7 @@ Oto kilka czasowników, których można użyć jak przyimków:
 Przyimki nie są używane tak często w Panduni jak w języku polskim.
 W wielu zdaniach, czasownik wyraża wystarczająco wiele.
 
-**mi lai dom.**
+**mi kom haus.**
 – Przychodzę do domu.  
 **tu side a kursi.**
 – Siedzisz na krześle.  
@@ -424,39 +399,40 @@ W wielu zdaniach, czasownik wyraża wystarczająco wiele.
 – Leży na sofie.  
 **peshe boi a sui.**
 – Ryba pływa w morzu.  
-**jangtor marche a dau.**
+**janger marche a dau.**
 – Wojownicy maszerują na drodze.
 
 
 ### Przyimek relacji
 
-Przyimek **ka** wyraża sposób lub styl.
+Przyimek **dan** wyraża sposób lub styl.
 Odpowiada polskojęzycznym przyimkom _jak_, _niż_, _jakby_.
 
-**mi kan pandunia ka guru.**
+**mi kan pandunia dan guru.**
 – Znam Pandunię jak mistrz.
 
-**ka** wiąże czasownik lub przymiotnik z punktem odniesienia.
+**dan**
+wiąże czasownik lub przymiotnik z punktem odniesienia.
 W powyższym przykładzie
 **kan**
 (wiedzieć) jest czasownikiem, a
 **guru**
- (mistrz) jest punktem odniesienia.
+(mistrz) jest punktem odniesienia.
 
-**ka**
+**dan**
 jest też używany, gdy porównywane są przymiotniki.
 
-**bacha e min dai ka pa.**
+**bacha es les dai dan pa.**
 – Dziecko jest mniejsze niż ojciec.
-**chin pa e par dai ka pa.**
+**chin pa es sim dai dan pa.**
 – Dziadek jest tak duży jak ojciec.
 
-**ka** wiąże przysłówki porównania –
-**mas**
+**dan** wiąże przysłówki porównania –
+**mor**
 (bardziej),
-**min**
+**les**
 (mniej) i
-**par**
+**sim**
 (tak samo) – z punktem odniesienia, którym jest
 **pa**
 (ojciec) w powyższych przykładach.
@@ -473,32 +449,32 @@ Orzeczenie jest strukturalnym centrum zdania i pozostałe słowa są pośrednio 
 
 Każde zdanie może zostać narysowane jako drzewo, gdzie centralne słowa są wyżej, a zależne słowa – niżej.
 Na przykład, zdanie
-**mi visi tu**
+**mi vize tu**
 ('Widzę cię') może zostać rozrysowane w postaci poniższego drzewa:
 
-    mi visi tu.
+    mi vize tu.
 
-       visi
+       vize
       ┌─┴─┐
      mi   tu
 
 Przymiotniki i liczebniki wskazują na ich główne słowo, rzeczownik:
 
-    mi visi tri jun jen.
+    mi vize tri yun jen.
 
-       visi
+       vize
       ┌─┴──┐
      mi   jen 
            |
-         jun
+          yun
            |
           tri
 
 Hierarchia części mowy w Panduni od bardziej do mniej centralnych jest, jak następuje.
 
 1. Spójniki: e, o, ama
-2. Łączniki: su, di, de
-3. Przyimki: a, to, de
+2. Łączniki: se, li, of
+3. Przyimki: a, to, of
 4. Czasowniki
 5. Rzeczowniki i zaimki
 6. Partykuły czasu, aspektu i trybu
@@ -509,22 +485,22 @@ Następujący przykłas pokazuje, jak zasięg działa na finalną pozycję słó
 Na przykład, chociaż
 **e**
 jest ogólnie wyżej niż
-**sabu**,
+**sabab**,
 tutaj jego zasięg obejmuje tylko
 **yusef** i **Sara**.
-**sabu**
+**sabab**
 jest na szczycie, bo łączy dwa zdania podrzędne.
 
 
-    yusef e Sara vol shule pandunia, sabu da e hau dunia basha.
+    yusef e Sara van shule pandunia, sabab da es gud dunia bashe.
 
-                        sabu
+                        sabab
                ┌──────────┴──────────┐
-              vol                    e
+              van                    es
           ┌────┴──────┐           ┌──┴──┐
-          e         shule        da    basha
+          e         shule        da    bashe
       ┌───┴───┐    ┌──┴────┐            |
     yusef   Sara       pandunia       dunia
                                         |
-                                       hau
+                                       gud
 

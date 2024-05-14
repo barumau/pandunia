@@ -8,26 +8,26 @@ Modyfikator to słowo, które dodaje jakąś wartość lub opis do rzeczy wyraż
 Przymiotnik to słowo, które dodaje określoną cechę rzeczownikowi.
 W Panduni przymiotnik to modyfikator, który jest przed rzeczownikiem.
 
-**dai ite**
+**dai sek**
 – duży kamień  
 **dai meza**
 – duży stół  
 **gau meza**
 – wysoki stół  
-**hau kursi**
+**gud kursi**
 – dobre krzesło
 
 Przymiotnik może też być po rzeczowniku.
 Często ten typ wyrażeń może być rozumiany jako pełne zdanie, w których czasownik _być_ jest pozostawiony w domyśle.
 
-**ite dai.**
+**sek dai.**
 – Kamień jest duży.  
 **meza gau.**
 – Stół jest wysoki.
 
 Naturalnie, przymiotniki mogą być po obu stronach rzeczownika.
 
-**dai meza e gau.**
+**dai meza es gau.**
 – Duży stół jest wysoki.
 
 
@@ -37,11 +37,11 @@ Przysłówek to słowo, które opisuje czasownik lub inną modyfikator.
 
 W Panduni przysłówek to modyfikator, który znajduje się przed czasownikiem lub na końcu zdania.
 
-**mi _hau_ sona.**
+**mi _gud_ sona.**
 – Ja _dobrze_ śpię.  
-**mi sona _hau_.**
+**mi sona _gud_.**
 – Śpię _dobrze_.  
-**tu basha pandunia _hau_.**
+**tu bashe pandunia _gud_.**
 – Mówisz w Panduni _dobrze_.
 
 
@@ -50,9 +50,9 @@ W Panduni przysłówek to modyfikator, który znajduje się przed czasownikiem l
 Modyfikator może opisywać też inny modyfikator.
 Na przykład
 **dai**
-(duży) i
+('duży') i
 **let**
-(mały) mogą być używane jako przysłówki intensyfikujące.
+('mały') mogą być używane jako przysłówki intensyfikujące.
 
 **dai jen**
 – duża osoba  
@@ -61,14 +61,16 @@ Na przykład
 **mei jen**
 – ładna osoba
 
-**dai di mei jen**
+**dai li mei jen**
 – bardzo ładna osoba  
-**let di mei jen**
+**let li mei jen**
 – trochę ładna osoba
 
-Modyfikatory mogą być oddzielane **i** (i).
+Modyfikatory mogą być oddzielane
+**e**
+('i').
 
-**let i mei jen**
+**let e mei jen**
 – mała i ładna osoba
 
 
@@ -76,21 +78,23 @@ Modyfikatory mogą być oddzielane **i** (i).
 
 Modyfikatory mogą być porównane.
 
-- **mas**
-  (bardziej) oznacza porównanie niższości
-- **masim**
-  (najbardziej) oznacza stopień najwyższy
-- **min**
-  (mniej) oznacz porónanie niższości
-- **minim**
-  (najmniej) oznacza stopień najniższy
-- **par**
-  (jak) oznacza porównanie równości
+**mor**
+(bardziej) oznacza porównanie niższości  
+**mor... of hol**
+(najbardziej) oznacza stopień najwyższy  
+**les**
+(mniej) oznacz porónanie niższości  
+**les... of hol**
+(najmniej) oznacza stopień najniższy  
+**sim**
+(jak) oznacza porównanie równości
 
-Partykuła **ka** łączy przysłówki porównania z obiektem porównania.
+Partykuła
+**dan**
+łączy przysłówki porównania z obiektem porównania.
 
-**mi e mas hau ka tu**
+**mi es mor gud dan tu**
 – Jestem lepszy od ciebie.  
-**tu loga par hau ka mi.**
+**tu loga sim gud dan mi.**
 – Mówisz tak dobrze, jak ja.
 

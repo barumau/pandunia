@@ -130,73 +130,77 @@ umieszczone w nawiasach.
 | Nosowe             | m n ng      | m n ng        | m n ng             | m n ng (m' ń)                   |
 | Zwarte             | p b t d k g | p b t d k g   | p b t d k g        | p b t d k g (p' b' t' d' k' g') |
 | Płynne             | l r y v     | l r y w       | l r y w (yü)       | l r j ł (l' r')                 |
-| Syczące            | s z x       | s z sh (zh)   | s z* sh (x)        | s z sz (ż sz' ż' ś ź ch ch')    |
+| Syczące            | s z sh      | s z sh (zh)   | s z* sh (x)        | s z sz (ż sz' ż' ś ź ch ch')    |
 | Szczelinowe        | f h         | f h (v th dh) | f h                | f h (w f' w')                   |
-| Zwarto-szczelinowe | c j         | ch j          | ch zh (q j c)      | cz dż (c dz ć dź)               |
+| Zwarto-szczelinowe | ch j        | ch j          | ch zh (q j c)      | cz dż (c dz ć dź)               |
 
 
 ### Proste wzory sylab
 
-Wzory sylab różnią się między językami. Na przykład w japońskim
-najtrudniejszy typ sylaby to CVN, gdzie C to spółgłoska, V to
-samogłoska a N to spółgłoska nosowa. To nadaje japońskiemu bardzo
-wokaliczne brzmienie. Natomiast angielski i polski mogą mieć bardzo
-trudne sylaby, na przykład "sprints" (CCCVNCC) w angielskim i
-"przestępstw" (CCVCCVCCCCC) w polskim.
+Wzory sylab różnią się między językami.
+Na przykład w japońskim najtrudniejszy typ sylaby to CVN, gdzie C to spółgłoska, V to samogłoska a N to spółgłoska nosowa.
+To nadaje japońskiemu bardzo wokaliczne brzmienie.
+Natomiast angielski i polski mogą mieć bardzo trudne sylaby, na przykład "sprints" (CCCVNCC) w angielskim
+i "przestępstw" (CCVCCVCCCCC) w polskim.
 
-Pandunia jest gdzieś po środku. Większość słów składa się z prostych
-sylab CV, ale są możliwe też bardzej skomplikowane, szczególnie w
-międzynarodowo znanyc słowac technicznych. Na przykład **kristal**
-(kryształ) jest uznawany za skomplikowane słowo w Panduni. Z bardziej
-złożonymi zapożyczeniami można sobie poradzić na dwa sposoby.
+Pandunia jest gdzieś po środku.
+Większość słów składa się z prostych sylab CV, ale są możliwe też bardzej skomplikowane,
+szczególnie w międzynarodowo znanyc słowac technicznych.
+Na przykład
+**kristal**
+(kryształ) jest uznawany za skomplikowane słowo w Panduni.
+Z bardziej złożonymi zapożyczeniami można sobie poradzić na dwa sposoby.
 
-1. Wybrać prostszy wariant z innego języka. Na przykład słowo na
-"projekt" jest wzięte z wersji francuskiej: **proje**.
-2. Rozbić skupienia spółgłosek dodając samogłoski. Na przykład
-"sport" stałoby się **esporte**. Wiele języków robi coś podobnego.
-Porównaj portugalskie "esporte" i japońskie "supōtsu".
+1. Wybrać prostszy wariant z innego języka.
+   Na przykład słowo na "projekt" jest wzięte z wersji francuskiej
+   **projete**.
+2. Rozbić skupienia spółgłosek dodając samogłoski.
+   Na przykład "sport" stałoby się
+   **sporte**.
+   Wiele języków robi coś podobnego.
+   Porównaj portugalskie "esporte" i japońskie "supōtsu".
 
 
 ### Regularny zapis
 
-Ortografia angielska jest notorycznie nieregularna. Pīnyīn został
-stworzony później, w latach 1950-1959, ale niestety też ma kilka
-nieregularności, po prostu dlatego, że w mówionym chińskim jest
-więcej dźwięków niż jest liter w alfabecie rzymskim; ale nadal,  w 
-porównaniu do angielskiego, Pīnyīn jest bardzo regularny. Na
-przykład, angielskie rymy _my, sigh, lie,_ i _rye_ byłyby zapisane w
-Pīnyīn jako _mai, sai, lai, rai_.
+Ortografia angielska jest notorycznie nieregularna.
+Pīnyīn został stworzony później, w latach 1950-1959, ale niestety też ma kilka nieregularności,
+po prostu dlatego, że w mówionym chińskim jest więcej dźwięków niż jest liter w alfabecie rzymskim;
+ale nadal,  w porównaniu do angielskiego, Pīnyīn jest bardzo regularny.
+Na przykład, angielskie rymy _my, sigh, lie,_ i _rye_ byłyby zapisane w Pīnyīn jako _mai, sai, lai, rai_.
 
 Pandunia może być zapisywana regularnie, bo ma mniej dźwięków mowy
-(24) niż jest liter w podstawowym alfabecie rzymskim (26). Alfabet
-Panduni to:  
-a b c d e f g h i j k l m n o p r s t u v w x y z
+(24) niż jest liter w podstawowym alfabecie rzymskim (26).
+Alfabet Panduni to:  
+a b c d e f g h i j k l m n o p r s t u v x y z
 
-Pandunia ma doskonałą zgodność liter i dźwięków. Jedna litera
-odpowiada tylko jednej głosce. Głoska jest reprezentowana przez
-dokładnie jedną literę. Każde słowo jest wymawiane tak, jak jest pisane.
+Pandunia ma doskonałą zgodność liter i dźwięków.
+Jedna litera odpowiada tylko jednej głosce.
+Głoska jest reprezentowana przez dokładnie jedną literę.
+Każde słowo jest wymawiane tak, jak jest pisane.
 
 ### Łatwy akcent
 
-Teksty w Pīnyīn są przeładowane znakami diakratycznymi jak w "Wǒmen
-yě huì shuō zhōngguòhuá." Oznacają one tony. W standardowym chińskim
-każda sylaba jest wymawiana jednym spośród czterech tonów lub
-nieoznaczonym tonem neutralnym.
+Teksty w Pīnyīn są przeładowane znakami diakratycznymi jak w
+"Wǒmen yě huì shuō zhōngguòhuá."
+Oznacają one tony.
+W standardowym chińskim każda sylaba jest wymawiana jednym spośród czterech tonów lub nieoznaczonym tonem neutralnym.
 
-Angielski nie ma tonów, ale ma akcent. Akcent jest zmienny w
-angielskim, więc pozycja akcentu jest nieprzewidywalna. W zapisanym
-wyrażeniu, jak "totally fantastic personnel", nic nie wskazuje na to,
-że każde słowo ma akcent na inna sylabę. Gdyby akcent był oznaczany
-znakem diakryrycznym, wyglądałoby to mniej więcej tak: "tótally
-fantástic personnél".
+Angielski nie ma tonów, ale ma akcent.
+Akcent jest zmienny w angielskim, więc pozycja akcentu jest nieprzewidywalna.
+W zapisanym wyrażeniu, jak
+"totally fantastic personnel",
+nic nie wskazuje na to, że każde słowo ma akcent na inna sylabę.
+Gdyby akcent był oznaczany znakem diakryrycznym, wyglądałoby to mniej więcej tak:
+"tótally fantástic personnél".
 
 Tony są trudne do nauki dla ludzi nieprzyzwyczajonych do nich.
-Zmienny akcent jest trudny do nauki dla ludzi przyzwyczajonych do
-stałego akcentu. Ani ton ani zmienny akcent nie są potrzebne w języku
-międzynarodowym.
+Zmienny akcent jest trudny do nauki dla ludzi przyzwyczajonych do stałego akcentu.
+Ani ton ani zmienny akcent nie są potrzebne w języku międzynarodowym.
 
-Pandunia ma stały akcent. Pada on na sylabę przed ostatnią
-spółgłoską. O tak: **mi wól lóga supér dúnia báxe.**
+Pandunia ma stały akcent.
+Pada on na sylabę przed ostatnią spółgłoską. O tak:
+**mi ván lóga gúd dúnia báshe.**
 
 Pandunia nie ma tonu leksykalnego.
 
@@ -212,91 +216,82 @@ Języki mogą być skategoryzowane według dwóch parametrów.
 Powszechnie używane języki mogą być według tych parametrów podzielone
 na cztery typy.
 
-1. Języki analityczne – Słowa składają się z niewielu, wyraźnych
-   części.
+1. Języki analityczne – Słowa składają się z niewielu, wyraźnych części.
     - mandaryński chiński
-2. Języki analityczne fleksyjne – Słowa składają się z niewielu,
-   połączonych części.
+2. Języki analityczne fleksyjne – Słowa składają się z niewielu, połączonych części.
     - angielski
-3. Języki aglutynacyjne – Słowa składają się z wielu, wyraźnych
-   części.
+3. Języki aglutynacyjne – Słowa składają się z wielu, wyraźnych części.
     - japoński, indonezyjski, telugu
-4. Języki syntetyczne fleksyjne – Słowa składają się z wielu,
-   połączonych części.
+4. Języki syntetyczne fleksyjne – Słowa składają się z wielu, połączonych części.
     - hiszpański, portugalski, francuski
     - niemiecki, rosyjski, polski
     - hindi-urdu, bengalski, pundżabski
     - arabski, hausa
 
-Zazwyczaj języki mieszają różne typy. Na przykład, w angielskim
-liczba mnoga może być utworzona na kilka różnych sposobów. _Many a
-cat_ jest wyrażeniem analitycznym składającym się z trzech osobnych
-słów. _Cats_ jest słowem aglutynatywnym składającym się z dwóch
-wyraźnych części (_cat_ i _-s_). _Leaves_ jest połączonym słowem,
-składającym się z dwóch części (_leaf_ i _-s_).
+Zazwyczaj języki mieszają różne typy.
+Na przykład, w angielskim liczba mnoga może być utworzona na kilka różnych sposobów.
+_Many a cat_
+jest wyrażeniem analitycznym składającym się z trzech osobnych słów.
+_Cats_ jest słowem aglutynatywnym składającym się z dwóch wyraźnych części (_cat_ i _-s_).
+_Leaves_ jest połączonym słowem, składającym się z dwóch części (_leaf_ i _-s_).
 
-Pandunia należy do pierwszego typu. Jest językiem analitycznym. Jej
-słowa składają się z niewielu części, które są łatwe do
-rozdzielenia. To dobra cecha, bo sprawia, że język jest łatwiejszy w
-nauce i użyciu w porównaniu z językami, w których słowa zazwyczaj są
-długie i składają się z wielu części.
+Pandunia należy do pierwszego typu.
+Jest językiem analitycznym.
+Jej słowa składają się z niewielu części, które są łatwe do rozdzielenia.
+To dobra cecha, bo sprawia, że język jest łatwiejszy w nauce i użyciu w porównaniu z językami,
+w których słowa zazwyczaj są długie i składają się z wielu części.
 
 
 ### Części słowa
 
-Słowo składa się z rdzenia i opcjonalnych zrostków dołączonych do
-rdzenia. Języki przedrostkowe umieszczają zrostki przed rdzeniem, a
-języki przyrostkowe umieszczają zrostki po rdzeniu. Niektóre języki
-umieszczają zrostki po obu stronach albo nawet w środku rdzenia.
-Zazwyczaj języki używają kilku różnych metod. Na przykład polski
-używa i przedrostków (np. za-pis) i przyrostków (mił-ość).
+Słowo składa się z rdzenia i opcjonalnych zrostków dołączonych do rdzenia.
+Języki przedrostkowe umieszczają zrostki przed rdzeniem, a języki przyrostkowe umieszczają zrostki po rdzeniu.
+Niektóre języki umieszczają zrostki po obu stronach albo nawet w środku rdzenia.
+Zazwyczaj języki używają kilku różnych metod.
+Na przykład polski używa i przedrostków (np. za-pis) i przyrostków (mił-ość).
 
-Języki przyrostkowe są najpowszechniejsze. Języki indoeuropejskie,
-telugu, chiński i japoński są głównie przyrostkowe.
+Języki przyrostkowe są najpowszechniejsze.
+Języki indoeuropejskie, telugu, chiński i japoński są głównie przyrostkowe.
 
-Chiński nie ma fleksji. Słowa są tylko łączone w większe słowa.
-Niektóre słowa mają specjalne znaczenie, gdy są częścią większego
-słowa. Te tak zwane morfemy związane są z grubsza jak przyrostki.
+Chiński nie ma fleksji.
+Słowa są tylko łączone w większe słowa.
+Niektóre słowa mają specjalne znaczenie, gdy są częścią większego słowa.
+Te tak zwane morfemy związane są z grubsza jak przyrostki.
 
-Polski, angielski, hiszpański i hindustani używają głównie _systemu
-rdzenia i zrostka_. Znaczenie jest zmieniane dodawaniem części
-zależnych przed i po rdzeniu. Na przykład "balkoniki" składa się z
-rdzenia _balkon_ i zrostków _-ik_ (który dodaje znaczenie małości) i
-_-i_ (który nadaje liczbę mnogą). Większość zrostków nie może
-pojawiać się sama i potrzebuje rdzenia.
+Polski, angielski, hiszpański i hindustani używają głównie _systemu rdzenia i zrostka_.
+Znaczenie jest zmieniane dodawaniem części zależnych przed i po rdzeniu.
+Na przykład "balkoniki" składa się z rdzenia _balkon_ i zrostków _-ik_ (który dodaje znaczenie małości) i _-i_ (który nadaje liczbę mnogą).
+Większość zrostków nie może pojawiać się sama i potrzebuje rdzenia.
 
-Język arabski używa transfiksów (również znanych jako
-[system rdzenia i wzoru](https://www.britannica.com/topic/root-and-pattern-system)).
-Rdzeń składa się z (zazwyczaj trzech) spółgłosek i jest odmieniany
-przez wprowadzanie wzorów samogłosek między nimi. Arabski ma też
-wiele przedrostków i przyrostków do tworzenia dodatkowych słów.
+Język arabski używa transfiksów (również znanych jako [system rdzenia i wzoru](https://www.britannica.com/topic/root-and-pattern-system)).
+Rdzeń składa się z (zazwyczaj trzech) spółgłosek i jest odmieniany przez wprowadzanie wzorów samogłosek między nimi.
+Arabski ma też wiele przedrostków i przyrostków do tworzenia dodatkowych słów.
 
-Pandunia używa _systemu rdzenia i zrostka_. Zasady tego systemu są
-znane większości ludzi. Nowe słowa mogą być łatwo tworzone.
+Pandunia używa _systemu rdzenia i zrostka_.
+Zasady tego systemu są znane większości ludzi.
+Nowe słowa mogą być łatwo tworzone.
 
 
 ### Szyk słów
 
-W językach świata są używane różne szyki słów. Kilka najważnieszych
-przestrzeni szyków słów to:
+W językach świata są używane różne szyki słów.
+Kilka najważnieszych przestrzeni szyków słów to:
 
-- Struktura zdania. Kolejność podmiotu (S), orzeczenia (V) i
-  dopełnienia bliższego (O) w zdaniu przechodnim. Najpowszechniejsze
-  struktury zdania to podmiot-orzeczenie-dopełnienie i
-  podmiot-dopełnienie-orzeczenie (SOV).
-- Kolejność liczebnika i rzeczownika. Liczebniki główne mogą albo
-  poprzedzać (LiczRz) albo następować po (RzLicz) rzeczowniku.
-- Kolejność przymiotnika i rzeczownika. Są dwie możliwe kolejności:
+- Struktura zdania. Kolejność podmiotu (S), orzeczenia (V) i dopełnienia bliższego (O) w zdaniu przechodnim.
+  Najpowszechniejsze struktury zdania to podmiot-orzeczenie-dopełnienie i podmiot-dopełnienie-orzeczenie (SOV).
+- Kolejność liczebnika i rzeczownika.
+  Liczebniki główne mogą albo poprzedzać (LiczRz) albo następować po (RzLicz) rzeczowniku.
+- Kolejność przymiotnika i rzeczownika.
+  Są dwie możliwe kolejności:
     1. Przymiotnik poprzedza rzeczownik (PrR)
     2. Przymiotnik następuje po rzeczowniku (RPr)
-- Kolejność zdania podrzędnego i rzeczownika. Zdanie podrzędne może
-  albo poprzedzać (ZdRz) albo następować po (RzZd) rzeczowniku.
+- Kolejność zdania podrzędnego i rzeczownika.
+  Zdanie podrzędne może albo poprzedzać (ZdRz) albo następować po (RzZd) rzeczowniku.
 - Kolejność przyimka i rzeczownika.
     1. Prepozycja poprzedza rzeczownik.
     2. Postpozycja następuje po rzeczowniku.
 
-Tabela poniżej pokazuje, jakie są typowe szyki słów w kilku
-ważnych językach świata.
+Tabela poniżej pokazuje, jakie są typowe szyki słów w kilku ważnych językach świata.
 
 | Język        | Zdanie   | Liczebnik | Przymiotnik | Podrzędne | Przyimek |
 |--------------|:--------:|:---------:|:-----------:|:---------:|:--------:|
@@ -311,13 +306,13 @@ ważnych językach świata.
 | Japoński     | SOV      | LiczRz    | PrR         | ZdRz      | post     |
 | Suahili      | SVO      | RzLicz    | RPr         | RzZd      | pre      |
 
-Również inne szyki słów są możliwe. Na przykład w polszczyźnie,
-która zazwyczaj używa szyku SVO w zdaniach oznajmujących, jest
-możliwie praktycznie każdy szyk; na przykład zdania "Ala ma kota",
+Również inne szyki słów są możliwe.
+Na przykład w polszczyźnie, która zazwyczaj używa szyku SVO w zdaniach oznajmujących,
+jest możliwie praktycznie każdy szyk; na przykład zdania "Ala ma kota",
 "Kota ma Ala" wyrażają to samo i należą do języka polskiego.
 
-Jak można zauważyć w powyższej tabeli, języki nie są zgodne, co do
-szyków słów. Istnieją trzy główne typy języków:
+Jak można zauważyć w powyższej tabeli, języki nie są zgodne, co do szyków słów.
+Istnieją trzy główne typy języków:
 
 1. Języki, w których główne słowo pojawia się pierwsze mają zazwyczaj
    SVO, RzLicz, RPr, RzZd i prepozycje.
@@ -325,23 +320,9 @@ szyków słów. Istnieją trzy główne typy języków:
    SOV, LiczRz, PrR, ZdRz i postpozycje.
 3. Języki z mieszanymi lub wolnymi szykami zdań.
 
-Trzeci typ jest najbardziej atrakcyjny dla międzynarodowego języka
-sztucznego, który powinien być przyjazny dla wielu ludzi z różnymi
-zwyczajami mówienia. To czyni język nie tylko uniwersalnym, ale też
-bardziej interesującym!
-
-Pandunia pozwala na różne szyki słów. Jest to osiągnięte głównie
-zakończeniami czasowników -a i -u, które sygnalizują odwrotne szyki
-zdań. W Panduni czasowniki mogą działać też jako przyimki.
-
-**mi lova tu.** (SVO)  
-**mi tu amu.** (SOV)  
-Kocham cię.
-
-**mi salta supra meza gawi.** (Ja skaczę, przekroczyć stół wysoki.)
-**mi salta gawi meza supru.** (Ja skaczę, wysoki stół
-jest-przekraczany)
-Skaczę nad wysokim stołem.
+Trzeci typ jest najbardziej atrakcyjny dla międzynarodowego języka sztucznego,
+który powinien być przyjazny dla wielu ludzi z różnymi zwyczajami mówienia.
+To czyni język nie tylko uniwersalnym, ale też bardziej interesującym!
 
 
  
@@ -395,13 +376,10 @@ jak to możliwe.
 | Rdzeń Panduni | Polski | Angielski  | Portugalski | Hiszpański | Francuski  | Niemiecki  | Rosyjski   |
 |---------------|--------|------------|-------------|------------|------------|------------|------------|
 | **korte**     | krótki | short      | curto       | corto      | court      | kurz       | korotkiy   |
-| **neu**       | nowy   | new        | novo        | nuevo      | nouveau    | neu        | novıy      |
-| **marce**     | marzec | march      | marcha      | marcha     | marche     | Marsch     | marš       |
+| **nove**      | nowy   | new        | novo        | nuevo      | nouveau    | neu        | novıy      |
+| **marche**    | marzec | march      | marcha      | marcha     | marche     | Marsch     | marš       |
 | **posta**     | poczta | post (mail)| (postal)    | posta      | poste      | Post       | počta      |
 
-Przyrostki Panduni są dołączane do rdzeni. Oto kilka słów Panduni:
-korti (krótki), korte (krótkość), korta (skracać), novi (nowy), nove
-(nowość), nova (odnowić).
 
 
 ### Słowa sinickie
@@ -428,12 +406,12 @@ zwarte i dodaje normalne przyrostki części mowy.
 |---|---------------|------------|-------------|------------|------------|------------|
 | 水 | **sui**       | sui        | shuǐ        | sui        | su         | thuỷ       |
 | 中 | **jung**      | zung       | zhōng       | chū        | jung       | trung      |
-| 心 | **xim**       | sam        | xīn         | shin       | sim        | tâm        |
+| 心 | **shim**      | sam        | xīn         | shin       | sim        | tâm        |
 | 門 | **mun**       | mun        | mén         | mon        | mun        | (môn)      |
 | 問 | **ven**       | man        | wèn         | mon        | mun        | vấn        |
 | 讀 | **duga**      | duk        | dú          | doku       | dog        | đọc        |
-| 出 | **cuti**      | cœt        | chū         | shutsu     | chul       | xuất       |
-| 索 | **sogu**      | sok        | suǒ         | saku       | sæg        |            |
+| 出 | **chut**      | cœt        | chū         | shutsu     | chul       | xuất       |
+| 索 | **sok**       | sok        | suǒ         | saku       | sæg        |            |
 | 惡 | **aga**       | ok         | è           | aku        | ag         | ác         |
 
 Używanie zrostków Panduni do rdzeni sinickich mogą na początku
@@ -452,23 +430,26 @@ polskim, angielskim i chińskim.
 
     Polski:     Ja kocham cię, a ty kochasz mnie.
     Angielski:  I love you, and you love me.
-    Pandunia:   mi ame tu, tu ame mi.
+    Pandunia:   mi love tu, tu love mi.
     Chiński:    Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
-Czasownik **bey** jest używany, gdy pacjens pojawia się pierwszy w
-zdaniu. (To tak zwana strona bierna.)
+Czasownik
+**be**
+jest używany, gdy pacjens pojawia się pierwszy w zdaniu.
+(To tak zwana strona bierna.)
 
     Polski:     Jabłka były zjedzone.
     Angielski:  The apples were eaten.
     Pandunia:   aple be yam.
     Chiński:    Píngguǒ bèi chī le. (苹果被吃了。)
 
-**Bey** jest zapożyczeniem ze standardowego chińskiego, ale jest też
+**be**
+jest zapożyczeniem ze standardowego chińskiego, ale jest też
 podobne do niektórych użyć polskiego "być" i angielskiego "to be".
 
     Polski:     To nie może być zjedzone.
     Angielski:  It can not be eaten.
-    Pandunia:   da no bil be yam.
+    Pandunia:   da no kan be yam.
     Chiński:    Tā bù néng bèi chī. (它不能被吃。)
 
 Jak chiński, Pandunia nie oznacza czasowników końcówkami jak "-ić"
@@ -492,13 +473,6 @@ byłem, byliście, będziemy..._
 
     Polski:     To są jabłka.
     Angielski:  They are apples.
-    Pandunia:   damen es aple.
+    Pandunia:   di es aple.
     Chiński:    Tāmen shì píngguǒ. (他们是苹果。)
-
-
-
-## Pandunia - język globalny
-
-![](http://www.pandunia.info/grafe/bandera.png "Flaga Panduni")
-
 

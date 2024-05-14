@@ -10,22 +10,22 @@ hide:
 ### Dialog
 
 <big>☺</big>
-**tu es ke?**
+**tu es hu?**
 = Kim jesteś?  
 <big>☻</big>
-**mi es Yusef. tu es ke?**
+**mi es Yusef. tu es hu?**
 = Jestem Yusef. Kim jesteś?  
 <big>☺</big>
-**mi es Sara. da es ke?**
+**mi es Sara. da es hu?**
 = Jestem Sara. Kto to?  
 <big>☻</big>
-**da es mi su dosti.**
+**da es mi se frende.**
 = To mój przyjaciel.  
 <big>☺</big>
-**da su nam es ke?**
+**da se nam es kua?**
 = Jak się nazywa?  
 <big>☻</big>
-**da su nam es Maria.**
+**da se nam es Maria.**
 = Nazywa się Maria.
 
 ### Gramatyka
@@ -34,11 +34,11 @@ Zdania w Panduni normalnie podążają za strukturą temat-komentarz.
 Temat wskazuje,o kim lub o czym jest mowa.
 Komentarz mówi coś o temacie.
 Na przykład, w
-**da es mi su dosti**
+**da es mi se frende**
 tematem jest zaimek
 **da**
 (on, ona, ono), za którym podąrza komentarz
-**es mi su dosti**
+**es mi se frende**
 (jest moim przyjacielem).
 
 Słowo
@@ -73,45 +73,49 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię. Poprawne od
 
 ### Lista słów
 
-**mi** 
-ja, mnie. **mi su** mój  
-**tu**
-ty, cię. **tu su** twój  
 **da**
 on, ona lub ono  
-**da su**
+**da se**
 jego lub jej  
-**ke**
-co lub kto  
 **es**
 być (jestem, jesteś, jest, itd)  
-**ye**
-tak  
-**no**
-nie  
-**hau**
-dobry, dobrze  
-**dosti**
-przyjaciel  
-**nam**
-imię, nazwa  
 **fem**
 kobieta  
+**frende**
+przyjaciel  
+**gud**
+dobry, dobrze  
+**hevan**
+zwierzę
+**hu**
+kto  
+**kua**
+co  
 **man**
 mężczyzna  
 **mau**
 kot  
-**hevan**
-zwierzę
+**mi** 
+ja, mnie  
+**mi se**
+mój  
+**nam**
+imię, nazwa  
+**no**
+nie  
+**tu**
+ty, cię  
+**tu se**
+twój  
 
 ### Odpowiedzi do Ćwiczeń
 
-1. tu es ke?
+1. tu es hu?
 2. mi es Tomas.
-3. tu su dosti es ke?
+3. hu es tu se frende?
 4. da es Sara.
-5. tu su nam es ke?
-6. mi su nam es ........... 
+5. tu se nam es kua?
+6. mi se nam es ____________.
 
 
 --------------------------------------------------------------------------------
@@ -158,11 +162,11 @@ Kolejność podmiotu, orzeczenia i dopełnienia jest ważna i nigdy się nie zmi
 
 W Panduni zaimki osobowe to:
 **mi**
-= ja,
+'ja',
 **tu**
-= ty, i
+'ty', i
 **da**
-= on,ona, ono.
+'on,ona, ono'.
 Zauważ, że zaimki zostają takie same w poprzednich, przykładowych, zdaniach.
 Słowa nigdy się nie odmieniają w Panduni. Pozostają takie same niezleżnie od ich pozycji w zdaniu.
 
@@ -193,7 +197,8 @@ Innym słowem w Panduni do pozdrawiania jest
 Jest to równie międzynarodowe pozdrowienie.
 Możesz swobodnie wybierać, którego słowa użyć pozdrawiając ludzi.
 
-**haló!** - Cześć!
+**haló!**
+– Cześć!
 
 
 ### Ćwiczenia
@@ -208,13 +213,14 @@ Poprawne odpowiedzi są pod listą słów.
 
 ### Lista słów
 
-**sal, haló**
+**sal, halo**
 pozdrowienie, cześć, witaj, dzień dobry, itd.  
-**mamá**
+**mama**
 matka, mama  
-**papá**
+**papa**
 ojciec, tata  
-**shefe** szef, dyrektor
+**shefe**
+szef, dyrektor
 
 
 ### Odpowiedzi do Ćwiczeń
@@ -233,7 +239,7 @@ ojciec, tata
 ### Dialog
 
 <big>☻</big>
-**sal!**
+**halo!**
 = Cześć!  
 <big>☺</big>
 **sal! plis side.**
@@ -249,7 +255,7 @@ ojciec, tata
 = Napiję się herbaty, dziękuję.  
 ...  
 <big>☺</big>
-**plis sal tu su mama!**
+**plis sal tu se mama!**
 = Proszę pozdrów twoją matkę.  
 <big>☻</big>
 **mi sal da. sal!**
@@ -343,22 +349,23 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 **cha**
 herbata  
-**plis**
-poprosić, prosić  
-**don**  
-dać, dawać  
 **danke**
 dzięki, dziękuję  
-**e** i  
+**don**
+dać, dawać  
+**e**
+i  
 **kafe**
 kawa  
 **kamar**
 pokój  
 **amir**
 rozkazać, rozkazywać  
-**u**
+**o**
 lub  
-**safi**  
+**plis**
+poprosić, prosić  
+**safi**
 posprzątać, sprzątać  
 **side**
 siedzieć  
@@ -369,7 +376,7 @@ jeść lub pić
 ### Odpowiedzi do Ćwiczeń
 
 1. da yam cha.
-2. la shefe plis da side.
+2. shefe plis da side.
 3. plis yam kafe o cha.
 4. mama plis mi safi kamar.
 5. shefe side e yam kafe.
@@ -395,7 +402,7 @@ jeść lub pić
 **mi no basha pandunia...**
 – Nie mówię w Panduni...  
 <big>☺</big>
-**maf! sual da yam cha?**
+**perdon! sual da yam cha?**
 – Przepraszam! Czy napije się herbaty?  
 <big>☻</big>
 **no. da no yam cha. da yam kafe.**
@@ -413,7 +420,7 @@ jeść lub pić
 **no yam.**
 – Nie.  
 <big>☺</big>
-**danke. mi don un cha e un kafe e un supe pos des minute.**
+**danke. mi don un cha e un kafe e un supe pos ten minute.**
 – Dziękuję. Przyniosę jedną herbatę, jedną kawę i jedną zupę za dziesięć minut.
 
 
@@ -441,7 +448,7 @@ Może zostać opuszczony tylko, gdy jest jasne, o kogo chodzi.
 – Czy on/ona pije herbatę?  
 **sual tu yam supe?**
 – Czy jesz zupę?  
-**sual mimen yam sui?**
+**sual vi yam sui?**
 – Czy pijemy wodę?
 
 Oczywiście, powszechne rzeczowniki i nazwy własne również mogą być używane.
@@ -450,13 +457,17 @@ Oczywiście, powszechne rzeczowniki i nazwy własne również mogą być używan
 – Czy szef pije kawę?  
 **sual papa safi kamar?**
 – Czy ojciec sprząta pokój?  
-**sual niki basha pandunia?**
+**sual Niki bashe pandunia?**
 – Czy Nicky mówi Pandunia?
 
 
 ### Dawanie odpowiedzi
 
-Na pytania tak/nie można odpowiadać słowami **ye** = tak, i **no** = nie.
+Na pytania tak/nie można odpowiadać słowami
+**ye**
+'tak' i
+**no**
+'nie'.
 
 – **sual tu yam supe?**
 – Czy jesz zupę?  
@@ -501,26 +512,26 @@ Spróbuj przetłumaczyć te zdania z języka polskiego na Pandunię.
 
 ### Lista Słów
 
-**bada**
-po  
-**maf**
-przepraszam, pardon  
+**bashe**
+mówić; język  
 **minute**
 minuta  
 **no**
 nie  
-**basha**
-mówić; język  
+**perdon**
+przepraszam, pardon  
+**pos**
+po  
+**sual**  
+zapytać, pytać  
 **sui**
 woda  
 **supe**
 zupa  
+**ten**
+dziesięć  
 **un**
 jeden (1)  
-**des**
-dziesięć  
-**sual**  
-zapytać, pytać  
 **ye**
 tak
 
@@ -555,7 +566,7 @@ przed czasownikiem zamienia zdanie twierdzące w przeczące.
 – Nie pozdrawiam cię.
 
 Konceptualnie, zdanie przeczące oznacza brak lub nieistnienie przeczonego słowa. W zdaniu
-**mi no sal tu**,
+**mi no sal tu**
 przeczące słowo
 **no**
 zaprzecza istnieniu pozdrowienia.
@@ -568,7 +579,6 @@ Różne zakresy przeczenia mogą zależeć od lokalizacji słowa negującego.
 – Ja NIE proszę cię, żebyś sprzątał pokój.  
 **mi plis tu no safi kamar.**
 – Ja proszę cię, żebyś NIE sprzątał pokoju.
-
 
 Negowane słowo może być dowolnego typu: czasownik, zaimek, rzeczownik, przymiotnik, a nawet liczebnik.
 
@@ -597,22 +607,22 @@ Czasem istnieje więcej niż jedna poprawna odpowiedź
 
 ### Word List
 
-**kupa**
-kubek, szklanka  
+**ama**
+ale  
+**du**
+dwa  
 **hali**
 pusty  
 **have**
 mieć  
+**kupa**
+kubek, szklanka  
 **mau**
 kot  
 **vaf**
 pies  
-**du**
-dwa  
-**nul**
-zero  
-**ama**
-ale
+**siro**
+zero
 
 
 ### Odpowiedzi do Ćwiczeń
@@ -629,41 +639,44 @@ ale
 
 ## Więcej pytań
 
-Do zadawania pytań, które zaczynają się w języku polskim zaimkami pytajnymi innymi niż _czy_ (_kto_, _co_, _który_, _jaki_, _jak_, _gdzie_, _skąd_, _dokąd_), używany jest zazwyczaj zaimek
-**ke**.
+Do zadawania pytań, które zaczynają się w języku polskim zaimkami pytajnymi innymi niż _czy_, używany jest zazwyczaj zaimek
+**hu**
+('kto')
+**kua**
+('co').
 Pytanie może zostać skonkretyzowane przez użycie słów na osobę, czas, sposób lub rzecz, jeśli trzeba.
 
-**da es ke?**
+**da es hu?**
 – Cot to jest? / Kim on/ona jest?
-**ke jen lai?**
-– Kto przychodzi? (**ren** = osoba)  
-**tu yam a ke zaman?**
+**kua jen lai?**
+– Kto przychodzi? (**jen** = osoba)  
+**tu yam a kua tem?**
 – Kiedy jesz? (**zaman** = czas)  
-**se danse a ke mode?**
-– Jak tańczyć? (**mode** = sposób, styl)
+**von danse a kua vei?**
+– Jak tańczyć? (**vei** = sposób, styl)
 
 W Panduni pytania zaczynające się w polskim na _dlaczego_ są zadawane przez
-**ke sabu**.
+**kua sabab**.
 
-**ke sabu tu suka mau de?**
+**kua sabab tu suka mau?**
 – Dlaczego lubisz koty?
 
 Na pytania o przyczynę, lub powód czegoś, odpowiada się dodając
-**de sabu**
+**of sabab**
 przed przyczyną lub powodem.
-**de sabu**
+**of sabab**
 jest tak naprawdę bierny czasownik znaczący _być spowodowanym przez_.
 
-**ke sabu tu suka mau?**
+**kua sabab tu suka mau?**
 – Dlaczego lubisz koty?  
-**de sabu damen es kavai.**
+**of sabab di es kavai.**
 – Ponieważ są słodkie.
 
 Oczywiście
-**de sabu**
+**of sabab**
 może być też yżywane do wyrażania przyczyny lub powodu czegoś, nawet nie odpowiadając na pytanie.
 
-**mi suka mau de sabu damen es kavai.**
+**mi suka mau of sabab di es kavai**
 – Lubię koty, bo są słodkie.
 
 ### Ćwiczenia
@@ -680,27 +693,27 @@ może być też yżywane do wyrażania przyczyny lub powodu czegoś, nawet nie o
 
 **danse**
 tańczyć  
-**lai**
-przychodzić  
 **jen**
 osoba  
+**kom**
+przychodzić  
 **suka**
 lubić  
-**mode**
-sposób, styl  
-**zaman**
-czas
+**tem**
+czas  
+**vei**
+sposób, styl
 
 
 ### Odpowiedzi do Ćwiczeń
 
 
-1. ke jen suka supe?
+1. hu suka supe?
 2. papa suka.
-3. ke zaman da lai?
+3. kua tem da kom?
 4. pos des minute.
-5. ke sabu da no yam?
-6. de sabu da no suka kafe e supe.
+5. kua sabab da no yam?
+6. of sabab da no suka kafe e supe.
 
 
 --------------------------------------------------------------------------------
@@ -731,12 +744,13 @@ Istnieją też konkretne słowa opisujące czas.
 
 
 Przymiotniki dla przeszłości, teraźniejszości i przyszłości to, odpowiednio,
-**did, nun**
+**did**, **nun**
 i
 **vil**.
 Mogą być używane do modyfikowania rzeczowników.
 
-Te same słowa są używane, gdy mowa o czynnościach i wydarzeniach w czasie. Po prostu umieszcza się je po czasowniku.
+Te same słowa są używane, gdy mowa o czynnościach i wydarzeniach w czasie.
+Po prostu umieszcza się je po czasowniku.
 
 **mi did bate da.**
 – Uderzyłem to (w przeszłości).  
@@ -755,9 +769,9 @@ albo nie będzię przydatne zaakcentowanie, że mowa wciąż w tym samym czasie.
 
 **mi did have un mau.**
 – Miałem jednego kota w przeszłości.  
-**da es hau mau.**
+**da es gud mau.**
 – To był dobry kot.  
-**mi have un vaf a nun.**
+**mi nun have un vaf.**
 – Mam teraz jedneg psa.
 
 Jakiekolwiek określenie czasu jest dobre.
@@ -765,7 +779,7 @@ Gdy jedno określenie czasu jest obecne, nie potrzeba dodatkowych słów.
 
 **mi be gene a nen 2003.**
 – Urodziłem się w 2003. roku.  
-**da safi la kamar a pos den.**
+**da safi da kamar a pos den.**
 – Posprząta pokój jutro.
 
 
@@ -793,17 +807,17 @@ przyszły
 uderzyć, bić  
 **ban**
 chleb  
-**suba yam**
-poranny posiłek, śniadanie  
-**festa**
+**feste**
 świętować, bawić się
+**suba yam**
+poranny posiłek, śniadanie
 
 ### Odpowiedzi do Ćwiczeń
 
-1. mi su shefe feste a vil.
-2. mi have du vaf a did.
-3. tu yam supe a nun.
-4. da safe kamar a preden.
+1. mi se shefe vil feste.
+2. mi did have du vaf.
+3. tu nun yam supe.
+4. da safi kamar a preden.
 5. mau yam milke a posden.
-6. tu su ma festa a prenoce.
+6. tu se ma feste a prenoche.
 
