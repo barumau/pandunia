@@ -459,7 +459,7 @@ to eat or drink
 ### Answers to the Exercises
 
 1. da yam cha.
-2. da shefe plis da side.
+2. shefe plis da side.
 3. plis yam kafe o cha.
 4. mama plis mi safi kamar.
 5. shefe side e yam kafe.
@@ -747,8 +747,8 @@ The question can be made more specific by adding words for person, time, manner 
 – Who is coming? (**jen** = person)  
 **tu yam a kua tem?**
 – When do you eat? (**tem** = time)  
-**von danse a kua mode?**
-– How to dance? (**mode** = manner, style)
+**von danse a kua vei?**
+– How to dance? (**vei** = way, manner, style)
 
 In Pandunia, questions beginning with _why_ are asked using
 **kua sabab**.
@@ -789,10 +789,10 @@ even when not answering to a question.
 at, in, on  
 **danse**
 to dance  
-**kom**
-to come  
 **jen**
 person  
+**kom**
+to come  
 **suka**
 to like  
 **tem**

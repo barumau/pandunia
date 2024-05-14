@@ -585,7 +585,7 @@ can refer to one or more apples.
 **sual tu yam kafe?**
 – Do you drink coffee?
 
-**yes. mi yam kafe.**
+**ye. mi yam kafe.**
 – Yes, I drink coffee.
 
 Tip: Meaning of
@@ -860,10 +860,10 @@ Tip: To make direct requests, drop all the pronouns.
 **mi mus go to kua jen?**
 – To whom should I go?
 
-**haida go!**
+**vi shal go!**
 – Let's go!
 
-**haida go a fute**
+**vi shal go a fute**
 – Let's go by foot!
 
 
