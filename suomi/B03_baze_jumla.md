@@ -104,7 +104,7 @@ indonesia *selamat*.</small>
 **mi danke tu helpe mi.**
 – Minä kiitän sinua minun auttamisesta.
 
-**danke tu mede mi.**
+**danke tu helpe mi.**
 – Kiitos kun autoit minua.
 
 **no yau danke.**
@@ -231,13 +231,13 @@ Itse asiassa äskeinen kysymys on lyhennetty lauseesta
 **mi sual tu es dokter**
 (Minä kysyn: sinä olet lääkäri?), joka on lyhennetty jättämällä ensimmäinen sana pois.
 
-**sual tu hau?**
+**sual tu gud?**
 – Miten voit? (Sananmukaisesti: _Voitko hyvin?_)  
-**mi hau.**
+**mi gud.**
 – Minä voin hyvin.  
 **tu ne?**
 – Entä sinä?  
-**mi no hau.**
+**mi no gud.**
 – Minä en voi hyvin.
 
 <small>Sanan **sual** lähteitä ovat
@@ -276,14 +276,14 @@ korean 예 (ye).</small>
 **mi no es dokter.**
 – Minä en ole lääkäri.
 
-**sual tu hau?**
+**sual tu gud?**
 – Voitko hyvin?  
-**ye. mi hau.**
+**ye. mi gud.**
 – Kyllä, minä voin hyvin.
 
-**sual tu es hau?**
+**sual tu es gud?**
 – Voitko hyvin?  
-**no, mi no es hau.**
+**no, mi no es gud.**
 – Ei, minä en voi hyvin.
 
 Sanalla
@@ -334,26 +334,38 @@ banglan না (na).</small>
 – Ne ovat omenoita.
 
 
+### hu <small>kuka?</small>
+
+**hu?**
+– Kuka?
+
+**hu es tu?**
+– Kuka olet?
+**mi es Tomas.**
+– Minä olen Tomas.
+
+**hu es da?**
+– Kuka hän on?
+**da es Sara.**
+– Hän on Sara.
+
+**hu es yu?**
+– Keitä te olette?
+
+**hu es di?**
+– Keitä he ovat?
+
+
 ### kua? <small>mikä? kuka?</small>
 
 **kua?**
 – Mitä?
 
-**tu es kua?**
-– Kuka olet?
-**mi es Tomas.**
-– Minä olen Tomas.
+**kua es da?**
+– Mikä tuo on?
 
-**da es kua?**
-– Kuka hän on?
-**da es Sara.**
-– Hän on Sara.
-
-**yu es kua?**
-– Keitä te olette?
-
-**di es kua?**
-– Keitä he ovat?
+**da es buk.**
+– Se on kirja.
 
 <small>Sanan **kua** lähteitä ovat
 ranskan *quoi*,
@@ -361,25 +373,34 @@ espanjan *cuál*,
 englannin *what*.</small>
 
 
-### da <small>se</small>
+### da hir <small>tämä</small>
 
-**da hir es kua?**
+**kua es da hir?**
 – Mikä tämä on?
 
 **da hir es aple.**
 – Tämä on omena.
 
+**da es rubi aple.**
+– Se on punainen omena.
+
+**di sta kua?**
+– Missä he ovat?
+
+**di sta hir.**
+– He ovat täällä.
+
+
+### da der <small>tuo</small>
+
 **da der es kua?**
 – Mikä tuo on?
 
-**da der es aranja.**
-– Tuo on appelsiini.
-
-**da es rubi aple.**
-– Tämä on punainen omena.
+**da der es aple.**
+– Tuo on omena.
 
 **da aple es rubi.**
-– Tämä omena on punainen.
+– Se omena on punainen.
 
 **da es rubi.**
 – Se on punainen.
@@ -387,11 +408,8 @@ englannin *what*.</small>
 **di sta kua?**
 – Missä he ovat?
 
-**di sta hir.**
-– He ovat tuolla.
-
 **di sta der.**
-– Me olemme täällä.
+– He ovat tuolla.
 
 
 ### se <small>-n (omistuspartikkeli)</small>
@@ -402,7 +420,7 @@ englannin *what*.</small>
 **da es mi se telefon.**
 – Se on minun puhelin.
 
-**da hir es kua se?**
+**da hir es hu se?**
 – Kenen tämä on?
 
 **da es mi se.**
@@ -417,7 +435,7 @@ tarkoittaa "minun",
 **tu se**
 tarkoittaa "sinun" jne.
 
-**da es kua?**
+**da es hu?**
 – Kuka hän on?
 
 **da es mi se frende.**
@@ -425,6 +443,16 @@ tarkoittaa "sinun" jne.
 
 **mi es Sara se frende.**
 – Minä olen Saran ystävä.
+
+Lause voi myös päättyä sanaan
+**se**.
+
+**mau es mi se.**
+Kissa on minun.  
+**mone es vi se.**
+Rahat on meidän.  
+**frende es sara se.**
+Ystävä on Saran.
 
 <small>Sanan **se** lähteitä ovat
 englannin *'s*,
@@ -460,7 +488,7 @@ englannin *name*.</small>
 
 ### have <small>olla, omistaa</small>
 
-**mi have un hau haus.**
+**mi have un gud haus.**
 – Minulla on hyvä talo.
 
 **da no have pesa.**
@@ -485,6 +513,7 @@ englannin *name*.</small>
 
 **mi no nou.**
 – En tiedä.
+
 **sual yu nou unotre?**
 – Tunnetteko toisenne?
 
@@ -550,7 +579,8 @@ koska yleensä tekemisen kohde tarkentaa, onko kyse syömisestä, juomisesta vai
 **tu van yam kua?**
 – Mitä haluaisit syödä?
 
-Vinkki: Suomessa kysymyssana on yleensä lauseen alussa, mutta panduniassa **ke**
+Vinkki: Suomessa kysymyssana on yleensä lauseen alussa, mutta panduniassa
+**kua**
 on samalla paikalla kuin normaalissakin lauseessa.
 
 **mi van yam kafe.**
@@ -575,7 +605,7 @@ on samalla paikalla kuin normaalissakin lauseessa.
 **mi plis tu kom haus.**
 – Minä pyydän sinua tulemaan kotiin.
 
-**mi plis tu mede mi.**
+**mi plis tu helpe mi.**
 – Minä pyydän sinua auttamaan minua.
 
 Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
@@ -596,15 +626,15 @@ kun panduniassa käytetään sanaa
 – Auttaisitko minua.
 
 
-### haida <small>tehkäämme</small>
+### shal <small>käskytavan apuverbi</small>
 
-**haida yam!**
+**vi shal yam!**
 – Syökäämme!
 
-**haida go yam!**
+**vi shal go yam!**
 – Menkäämme syömään!
 
-**haida go haus.**
+**vi shal go haus.**
 – Menkäämme kotiin.
 
 
@@ -720,7 +750,7 @@ Puhuisitko kovempaa.
 **mi audi muzike.**
 Minä kuuntelen musiikkia.
 
-**tu audi kua sorte muzike?**
+**tu audi kua tipe li muzike?**
 Minkälaista musiikkia sinä kuuntelet?
 
 
@@ -747,7 +777,7 @@ Minkälaista musiikkia sinä kuuntelet?
 **"mau" ye seme kua?**
 – Mitä "mau" tarkoittaa?
 
-**da seme un yang de hevan.**
+**da seme un tipe of hevan.**
 – Se tarkoittaa eräänlaista eläintä.
 
 **mi no aha da seme kua.**
@@ -791,28 +821,31 @@ Minkälaista musiikkia sinä kuuntelet?
 
 ### go <small>mennä</small>
 
-**tu ga ke?**
+**go der!**
+– Mene tuonne!
+
+**tu go kua?**
 – Minne sinä menet?
 
-**mi ga dom.**
+**mi go haus.**
 – Minä menen kotiin.
 
-**mi mus ga ke?**
+**mi mus go kua?**
 – Minne minun pitää mennä?
 
-**mi mus ga to ke jen?**
+**mi mus go to kua jen?**
 – Kenen luoksen minun pitää mennä?
 
-**haida ga!**
+**vi shal go!**
 – Menkäämme!
 
-**haida ga a fute**
+**vi shal go a fute**
 – Menkäämme jalan!
 
 
 ### kom <small>tulla</small>
 
-**plis lai!**
+**plis kom!**
 – Tule tänne!
 
 **tu kom of kua?**
@@ -830,28 +863,28 @@ Minkälaista musiikkia sinä kuuntelet?
 **sual tu safar a tren?**
 – Matkustatko junalla?
 
-**mimen safar de London to Paris.**
+**vi safar of London to Paris.**
 – Me matkustamme Lontoosta Pariisiin.
 
-**safar e dai long.**
+**safar es ver long.**
 – Matka on hyvin pitkä.
 
 
 ### a <small>luona, kanssa, -lla, -ssa</small>
 
-**hotel a ke?**
+**hotel a kua?**
 – Missä hotelli on?
 
-**hotel a vo dau.**
+**hotel a da der dau.**
 – Hotelli on tuolla tiellä.
 
-**tu a ke?**
+**tu a kua?**
 – Missä sinä olet?
 
-**mi a dom.**
+**mi a haus.**
 – Olen kotona.
 
-**da a ke?**
+**da a kua?**
 – Missä hän on?
 
 **da side a kamar.**
@@ -861,7 +894,7 @@ Panduniassa sanaa
 **a**
 voi käyttää yksinään ilman verbiä.
 
-**mi kar a...**
+**mi verke a...**
 – Työskentelen ...lla.
 
 
@@ -894,7 +927,7 @@ voi käyttää yksinään ilman verbiä.
 
 
 
-## Osa 5. Ajan ilmaiseminen
+## Osa 5. Ajanhetken ja -kulun ilmaiseminen
 
 ### bi <small>parhaillaan</small>
 

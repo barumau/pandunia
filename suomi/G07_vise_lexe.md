@@ -13,7 +13,7 @@
 | hän         | he           |
 
 Persoonapronominien omistusmuodot muodostetaan partikkelilla
-**su**.
+**se**.
 
 | Yksikkö     | Monikko      |
 |:------------|:-------------|
@@ -87,9 +87,9 @@ osoittaa puhujasta kaukana oleviin asioihin.
 
 Panduniassa osoittavat pronomiinit toimivat subjekteina ja objekteina samalla tavalla kuin substantiivit.
 
-**da hir es hau.**
+**da hir es gud.**
 – Tämä on hyvä.  
-**da der es dus.**
+**da der es bad.**
 – Tuo on huono.  
 **tu van da hir, he?**
 – Haluatko sinä tämän?  
@@ -135,13 +135,13 @@ Adjektiivit voi saattaa kyseenalaisiksi sanalla
 – Kuinka uusi?  
 **kua li koste?**
 – Minkä hintainen? Kuinka kallis?  
-**kua li muche?**
+**kua li meni?**
 – Kuinka monta?  
 **kua li kam?**
 – Kuinka vähän?  
 **kua li dai?**
 – Kuinka iso?  
-**kua li shau?**
+**kua li let?**
 – Kuinka pieni?
 
 **tu have kua li dai mau?**

@@ -7,30 +7,30 @@ Määrite on sana, joka muokkaa tai tarkentaa toisen sanan merkitystä, esim. hy
 
 Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Panduniassa adjektiivit ovat yleensä pääsanaa ennen.
 
-**un _neu_ gar**
+**un _nove_ karo**
 – uusi auto  
-**un _suga_ gar**
+**un _rapid_ karo**
 – nopea auto  
 **meni _dai_ meza**
-= isoja pöytiä  
+– isoja pöytiä  
 **meni _gau_ meza**
-= korkeita pöytiä  
-**un hau jen**
-= hyvä tuoli
+– korkeita pöytiä  
+**un _gud_ jen**
+– hyvä ihminen
 
 Adjektiivi voi olla myös substantiivin jälkeen.
 Monesti tällainen rakenne on luettavissa kokonaisena virkkeenä, jossa ei ole käytetty olla-verbiä.
 
-**da neu.**
+**da – nove.** ~ **da es nove.**
 – Se on uusi.  
-**kar (e) neu.**
+**kar – nove.** ~ **kar es nove.**
 – Auto on uusi.  
-**bagre (e) suga.**
+**bagre – rapid.** ~ **bagre es rapid.**
 – Tiikeri on nopea.
 
 Luonnollisesti laatusanoja voi olla substantiivin kummallakin puolella.
 
-**neu kar (e) suga.**
+**nove kar – rapid.** ~ **nove kar es rapid.**
 = Uusi auto on nopea.
 
 
@@ -40,31 +40,31 @@ Adverbi määrittää teonsanaa, adjektiivia tai toista adverbia.
 
 Tavan adverbi on verbin edellä.
 
-**tu _suga_ loge.**
+**tu _rapid_ loga.**
 – Sinä _nopeasti_ puhut.  
-**damen _hau_ kitabi.**
+**di jen _gud_ kitab.**
 – He _hyvin_ kirjoittavat.
 
 Määritepartikkeli
-**di**
+**li**
 pannaan usein adverbin ja verbin väliin.
 Se selkeyttää verbilausekkeen rakennetta.
 
-**tu _mei di_ kitabi.**
+**tu _mei li_ kitab.**
 – Sinä _kauniisti_ kirjoitat.  
-**damen _suga di_ marche.**
+**di _rapid li_ marche.**
 – He _nopeasti_ kävelevät.
 
 
 ## Määritteen määrite
 
 Partikkelia
-**di**
+**li**
 käytetään myös kun määrite määrittää toista määritettä.
 
-**un _dai di_ hau buk**
+**un _dai li_ gud buk**
 – _isosti_ hyvä kirja  
-**meni _bala di_ ai ja jen**
+**_bala li_ lovente jen**
 – _voimakkaasti_ rakastavat ihmiset
 
 
@@ -72,71 +72,67 @@ käytetään myös kun määrite määrittää toista määritettä.
 
 Asteen määritteet kertovat laadun voimakkuudesta.
 
-**tre**
+**ver**
 – paljon, sangen, hyvin  
 **bas**
 – tarpeeksi, kyllin  
-**mas**
+**mor**
 – enemmän  
-**min**
+**les**
 – vähemmän
-**mas ka bas**
-– enemmän kuin tarpeeksi, liian  
 
 Asteen määritteet tulevat ennen määrittelemäänsä sanaa.
 
 **un dai man**
 – iso mies  
-**un tre dai man**
+**un ver dai man**
 – hyvin iso mies  
 **un bas dai man**
-– tarpeeksi iso mies  
-**un mas dai man ka bas**
-– liian iso mies
+– tarpeeksi iso mies
 
 Asteen määrite muodostaa _yhdysadverbin_ toisen määritteen kanssa.
 Sillä voi määrittää verbiä tai kokonaista lausetta.
 Yhdysadverbi pannaan määrittelemänsä verbin edelle.
 
-**vere muche**
+**ver much**
 – hyvin paljon  
-**mi _vere muche_ vol loge.**
-– Minä haluan _hyvin paljon_ puhua.  
-**mi vol _vere muche_ loge.**
-– Minä haluan puhua hyvin paljon.
+**mi _ver much_ van loga.**
+– Minä _todella paljon_ haluan puhua.  
+**mi van _ver much_ loga.**
+– Minä haluan _todella paljon_ puhua.
 
 Yhdysadverbin voi myös panna lauseen loppuun,
 jolloin se määrittää lausetta kokonaisuutena.
 
-**mi vol loge _vere muche_.**
-– I want to speak very much.  
-**sual tu sona _bas hau_?**
-– Did you sleep well enough?
+**mi van loga _ver much_.**
+– Haluan puhua todella paljon.  
+**sual tu sona _bas gud_?**
+– Nukuitko tarpeeksi hyvin?
 
 
 ## Vertailu
 
 Sekä adjektiiveja että adverbeja voi verrata.
 
-- **mas**
-  enemmän, -mpi
-- **masim**
-  eniten
-- **min**
-  vähemmän
-- **minim**
-  vähiten
-- **par**
-   yhtä
+**mor**
+'enemmän, -mpi'  
+**mor... dan hol**
+'kaikista eniten'  
+**les**
+'vähemmän'  
+**les... dan hol**
+'kaikista vähiten'  
+**sim**
+'yhtä'
 
-Pikkusana
-**ka**
+Apusana
+**dan**
 suhteuttaa vertailevan adverbin vertailtavaan asiaan.
 
-**aple e mas hau ka aranja.**
-= Omenat ovat parempia kuin appelsiinit.  
-**aranja e min hau ka aple.**
-= Appelsiinit ovat vähemmän hyviä kuin omenat.  
-**tu loge par hau ka mi.**
-= Sinä puhut yhtä hyvin kuin minä.
+**aple es mor gud dan aranja.**
+– Omenat ovat parempia kuin appelsiinit.  
+**aranja es les gud dan aple.**
+– Appelsiinit ovat vähemmän hyviä kuin omenat.  
+**tu loga sim gud dan mi.**
+– Sinä puhut yhtä hyvin kuin minä.
 

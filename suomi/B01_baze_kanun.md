@@ -16,7 +16,7 @@ Kaikki sanat luetaan äänteenmukaisesti.
 ### 3. Painotus
 
 Perussanoissa paino on viimeistä konsonanttia ennen olevalla tavulla, esim.
-**háu** ('hyvä'), **dúnia** ('maailma'), **básha** ('kieli'), **amén** ('aamen').
+**háu** ('mukava'), **dúnia** ('maailma'), **báshe** ('kieli'), **amén** ('aamen').
 
 Yhdyssanoissa yhdysosat pitävät alkuperäisen painonsa siten, että pääpaino on edussanalla, esim.
 **trabáshe** ('kääntää'), **dúnialìsme** ('globalismi'), **bàshe skóla** ('kielikoulu').
@@ -32,9 +32,12 @@ Niiden omistusmuodot ovat:
 **vi se** _meidän_, **yu se** _teidän_, **di se** _heidän_.
 
 Kysyvät pronominit ovat:
-**kua** _mikä_ tai _kuka_,
-**kua se**
-_minkä_ tai _kenen_.
+**kua**
+_mikä_,
+**hu**
+_kuka_,
+**hu se**
+_kenen_.
 
 ### 5. Substantiivit
 
@@ -72,9 +75,9 @@ Adjektiivit ja adverbit ovat muodoltaan samanlaisia.
 Yhdessä niitä kutsutaan määritteiksi.
 Ajektiivimääritteen paikka on ennen substantiivia ja adverbimääritteen ennen verbiä.
 
-**un rapide loga**
+**un rapid loga**
 – Nopea puhe.  
-**tu rapide loga.**
+**tu rapid loga.**
 – Sinä nopeasti puhut.
 
 ### 8. Verbit

@@ -120,11 +120,11 @@ Esimerkkejä:
 - **bala** /bála/, **muzike** /muzíke/, **arabe** /arábe/
 - **dunia** /dúnia/, **arabia** /arábia/
 
-     dunia es mimen su mei planeta.  
-    /dúnia és mímen su méi planéta./
+     dunia es vi se mei planeta.  
+    /dúnia és ví se méi planéta./
 
-     mi vol loga komun bashe, da es pandunia.  
-    /mí vól lóga komún báshe, dá és pandúnia./
+     mi van loga komun bashe, da es pandunia.  
+    /mí ván lóga komún báshe, dá és pandúnia./
 
 
 ## Aakkoslajit
@@ -164,8 +164,8 @@ Esim. bin, ka-fe, yu-mor, pos-te.
 
 Epämuodollisessa tekstissä voi käyttää hyömiöitä ja hymiömerkkejä tunnetilan ilmaisemiseen. Esimerkiksi **:)** ilmaisee iloa ja **:(** ilmaisee surua.
 
-**mi vide tu :)**
-= Minä näen sinut.  
-**tu no vide mi :(**
-= Sinä et näe minua.
+**mi love yu :)**
+= Minä rakastan sinua.  
+**yu no love mi :(**
+= Sinä et rakasta minua.
 

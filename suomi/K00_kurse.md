@@ -72,7 +72,7 @@ Voit kertoa itsestäsi sanomalla
 **mi es**
 ja sen perään sanan, joka kuvaa sinua.
 
-**mi es hau.**
+**mi es gud.**
 = Minä voin hyvin.  
 **mi es man.**
 = Minä olen mies.  
@@ -606,9 +606,15 @@ kyllä
 ## Ein sanominen
 
 
-Edellisellä tunnilla opitte vastaamaan kysymyksiin **ye** ja **no**.
-**no** on siis kieltosana.
-Kun verbin eteen lisätään **no**, myöntölauseesta tulee kieltolause.
+Edellisellä tunnilla opitte vastaamaan kysymyksiin
+**ye**
+ja
+**no**.
+**no**
+on siis kieltosana.
+Kun verbin eteen lisätään
+**no**,
+myöntölauseesta tulee kieltolause.
 
 **mi sal tu.**
 = Minä tervehdin sinua.  
@@ -707,8 +713,8 @@ Asioiden kysymiseen käytetään kysymyssanoja
 = Kuka tulee? (**jen** = henkilö)  
 **tu yam a kua tem?**
 = Mihin aikaan sinä syöt? (**tem** = aika)  
-**von danse a kua mode?**
-= Miten tanssitaan? (**mode** = tapa)
+**von danse a kua vei?**
+= Miten tanssitaan? (**vei** = tapa)
 
 Miksi-kysymykset aloitetaan sanomalla
 **kua sabab**
@@ -822,7 +828,7 @@ Seuraava ajan ilmaus tarvitaan vasta sitten, kun siirrytään puhumaan toisesta 
 
 **mi did have un mau.**
 = Minä omistin ennen kissan.  
-**da es hau mau.**
+**da es gud mau.**
 = Se _oli_ hyvä kissa.  
 **mi nun have un vaf.**
 = Minulla on nyt koira.

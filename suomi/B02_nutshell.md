@@ -166,7 +166,7 @@ Substantiivia luonnehditaan panemalla adjektiivimääre sen eteen.
 
 **un nove love**
 – uusi rakkaus  
-**da hau pai**
+**da gud pai**
 – hyvä piirakka
 
 Verbiä luonnehditaan panemalla adverbimääre sen eteen.
@@ -181,11 +181,11 @@ Toisinaan adverbi merkitään pikkusanalla
 Määreitä vertaillaan pikkusanoilla
 **mor**
 'enemmän, -mpi',
-**mor... of hol**
+**mor... dan hol**
 'eniten kaikista, -in',
 **les**
 'vähemmän',
-**les... of hol**
+**les... dan hol**
 'vähiten kaikista' ja
 **sim**
 'yhtä, saman verran'.
