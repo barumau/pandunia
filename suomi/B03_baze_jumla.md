@@ -631,6 +631,15 @@ kun panduniassa käytetään sanaa
 **vi shal yam!**
 – Syökäämme!
 
+**yu shal yam!**
+– Syökää te!
+
+**tu shal yam!**
+– Syö sinä!
+
+**yam!**
+– Syö! ~ Syökää!
+
 **vi shal go yam!**
 – Menkäämme syömään!
 

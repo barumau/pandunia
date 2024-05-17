@@ -661,6 +661,15 @@ Tip: To make direct requests, drop all the pronouns.
 **vi shal yam!**
 – Let's eat!
 
+**yu shal yam!**
+– You all shall eat!
+
+**tu shal yam!**
+– You shall eat!
+
+**yam!**
+– Eat!
+
 **vi shal go yam!**
 – Let's go eat!
 
@@ -869,7 +878,7 @@ Tip: To make direct requests, drop all the pronouns.
 **vi shal go!**
 – Let's go!
 
-**vi shal go a fute**
+**vi shal go a fut**
 – Let's go by foot!
 
 

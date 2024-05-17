@@ -548,16 +548,25 @@ Ayuda: Para hacer solicitudes directas, no pongas ningún pronombre.
 – Por favor, ayúdame/ayúdenme.
 
 
-### haida <small>vamos</small>
+### shal <small>vamos</small>
 
-**haida yam!**
-– Comamos. (Literalmente: _Vamos, comamos_.)
+**vi shal yam!**
+– ¡Comamos!
 
-**haida go yam!**
-– Vamos a comer.
+**yu shal yam!**
+– ¡Vosotros comed!
 
-**haida go haus.**
-– Vamos a casa.
+**tu shal yam!**
+– ¡Tú come!
+
+**yam!**
+– ¡Comed! ~ ¡Come!
+
+**vi shal go yam!**
+– ¡Vamos a comer!
+
+**vi shal go haus.**
+– ¡Vamos a casa!
 
 
 ### yau <small>necesitar</small>
@@ -756,10 +765,10 @@ _Él/ella no puede conducir un auto._)
 **mi mus go to kua jen?**
 – ¿A quién debería ir?
 
-**haida go!**
+**vi shal go!**
 – ¡Vamos! (a algún lugar)
 
-**haida go a fute**
+**vi shal go a fut**
 – Vamos caminando.
 
 

@@ -589,15 +589,24 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 – Aide moi, s’il te plait.
 
 
-### haida <small>hortatif (impératif avec « nous »)</small>
+### shal <small>impératif ou hortatif</small>
 
-**haida yam!**
+**vi shal yam!**
 – Mangeons !
 
-**haida go yam!**
+**yu shal yam!**
+– Vous mangez!
+
+**tu shal yam!**
+– Tu mange!
+
+**yam!**
+– Mange! ~ Mangez!
+
+**vi shal go yam!**
 – Allons manger !
 
-**haida go haus.**
+**vi shal go haus.**
 – Allons à la maison.
 
 
@@ -799,10 +808,10 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 **mi mus go to kua jen?**
 – Je devrais aller (voir) qui ?
 
-**haida go!**
+**vi shal go!**
 – Allons-y !
 
-**haida go a fute**
+**vi shal go a fut**
 – On y va à pied !
 
 

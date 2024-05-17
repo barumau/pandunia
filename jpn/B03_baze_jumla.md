@@ -763,10 +763,10 @@ hide:
 **mi mus go to kua jen?**
 私はどこの人へ行かなければならないのでしょうか?
 
-**haida go!**
+**vi shal go!**
 出かけましょう!
 
-**haida go a fute**
+**vi shal go a fut**
 歩いて行きましょう!
 
 

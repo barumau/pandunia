@@ -582,15 +582,21 @@ Bonvolu veni hejmen!
 Bonvolu helpi min.
 
 
-### haida <small>ni faru</small>
+### shal <small>-u, faru</small>
 
-**haida yam!**
+**vi shal yam!**
 Ni manĝu!
 
-**haida go yam!**
+**yu shal yam!**
+– Vi manĝu!
+
+**yam!**
+– Manĝu!
+
+**vi shal go yam!**
 Ni iru manĝi!
 
-**haida go haus.**
+**vi shal go haus.**
 Ni iru hejmen.
 
 
@@ -791,11 +797,12 @@ Kien mi devas iri?
 **mi mus go to kua jen?**
 Al kiu mi devas iri?
 
-**haida go!**
+**vi shal go!**
 Ni iru!
 
-**haida go a fute**
+**vi shal go a fut**
 Ni iru piede!
+
 
 ### kom <small>veni</small>
 
