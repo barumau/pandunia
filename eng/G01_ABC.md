@@ -16,7 +16,18 @@ Pandunia is written in the basic Latin alphabet – the same as English!
 It doesn't have any of the accented letters, which are different from language to language.
 So it can be typed, printed and used with computers and smart devices in most countries without any difficulty.
 
+There are 25 letters (including two two-letter combinations) in the Pandunia alphabet: 5 vowels and 20 consonants.
+
 > A B Ch D E F G H I J K L M N O P R S Sh T U V X Y Z
+
+A specialty of the Pandunia writing system is that
+every consonant letter by itself includes a short mid central vowel sound unless otherwise specified.
+(In this regard Pandunia's writing system works like those of India.)
+This short vowel sound is called **schwa**,
+and it is the most basic vowel sound that can be created without much effort.
+It is like the *a* in English *career* /kərir/ or *sofa* /soufə/.
+A consonant's schwa can also be silent and it can be replaced by any written vowel.
+Therefore for example **did** can be pronounced /did/ or /didə/ but **didi** is always pronounced /didi/.
 
 ## Note on phonetic notation
 
@@ -73,7 +84,7 @@ as well as pronunciation advice in plain English.
   _U_ is pronounced as in _rule_.
 
 In addition, there is an optional mid central vowel sound [ə], which is also called the **schwa**.
-It is pronounced as the *a* in *about* /əbaut/ or the *a* in *sofa* /soufə/.
+It is pronounced as the *a* in English *about* /əbaut/, *career* /kərir/ and *sofa* /soufə/.
 It is the most basic vowel sound that can be created without much effort.
 It is called optional because it is never written and in many cases not even pronounced.
 
