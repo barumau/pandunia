@@ -81,8 +81,8 @@ They are put before the word or phrase that they qualify.
 – one big chair  
 **du dai kursi**
 – two big chairs  
-**tri gud kursi**
-– three good chairs
+**tri dai kursi**
+– three big chairs
 
 
 ## Ordinal numbers
