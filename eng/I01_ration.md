@@ -228,7 +228,7 @@ If the stress was marked on the vowels, it might look something like this:
 Pandunia doesn't have tones either.
 Chinese, on the other hand, is a tonal language.
 That's why texts in romanized Chinese are loaded with accent marks, as in
-*wǒmen yě huì shuō zhōngguòhuá*.
+*wǒmen yě huì shuō zhōngguóhuà*.
 They are there to mark tones.
 In Standard Chinese, each syllable is pronounced in one of the four tones or in the unmarked neutral tone.
 
