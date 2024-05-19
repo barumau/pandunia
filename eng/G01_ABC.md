@@ -108,8 +108,6 @@ depending on what is most comfortable for them.
 
 A semivowel is a sound that is phonetically similar to a vowel sound but functions like a consonant as the syllable boundary.
 Pandunia has two semivowels **y** and **v**.
-They appear only in the beginning of a syllable
-and they are always followed by a full vowel.
 
 - **v** = [w] ~ [ʋ] ~ [v]  
   _V_ is pronounced as the _w_ in _wet_,
