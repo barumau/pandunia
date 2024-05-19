@@ -588,11 +588,7 @@ The the remaining syntactic structure is `verb₁–verb₂–object`.
 **mi plis tu kom haus.**
 – I ask you to come home.  
 **plis kom haus!**
-– Please come home!  
-**mi amir tu kluze da mun.**
-– I command you to shut the door.  
-**amir kluze da mun.**
-– Shut the door!
+– Please come home!
 
 
 ### Serial verb construction
