@@ -276,8 +276,8 @@ a normal PoS suffix.
 | 中 | **jung**      | zung       | zhōng      | chū        | jung       | trung      |
 | 心 | **shim**      | sam        | xīn        | shin       | sim        | tâm        |
 | 門 | **mun**       | mun        | mén        | mon        | mun        | (môn)      |
-| 讀 | **duge**      | duk        | dú         | doku       | dok        | đọc        |
-| 出 | **chuti**     | cœt        | chū        | shutsu     | chul       | xuất       |
+| 讀 | **duk**       | duk        | dú         | doku       | dok        | đọc        |
+| 出 | **chut**      | cœt        | chū        | shutsu     | chul       | xuất       |
 
 
 ### Examples of global words
@@ -460,7 +460,7 @@ The word **jen** is combined from several unrelated sources.
     - Urdu کمرا  /kəmra:/ (room)
     - Malay "kamar" (room)
 
-#### kata 'to cut'
+#### kate 'to cut'
 
 - the West
     - English "cut" /kʌt/

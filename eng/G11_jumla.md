@@ -871,12 +871,12 @@ In Pandunia they are typically introduced with the conjunction
 
 A content clause can be placed before or after the clause that talks about it.
 The demonstrative
-**vo**
-points to the following content clause and
+**da der**
+points to the following content clause and plain
 **da**
 points to the previous one.
 
-**vo es bari, ke mi no haf vize di.**
+**da der es bari, ke mi no haf vize di.**
 – _It_ is important _that I haven't seen them_.  
 **ke pan jen be sana ka par, da es klar.**
 – _That all people are created as equals_; _it_ is clear.
@@ -890,9 +890,9 @@ can be combined to the prepositions in order to construct conjunctions of cause 
 **of ke**
 – because, for the reason that
 
-**mi dugu ye buk _to ki_ mi trapas da teste.**
+**mi duk ye buk _to ke_ mi trapas da teste.**
 – I read this book so that I will pass the test.  
-**mi haf trapas da teste _de ki_ mi dugu da buk.**
+**mi haf trapas da teste _de ke_ mi duk da buk.**
 – I have passed the test because I read the book.
 
 
@@ -1064,7 +1064,7 @@ So a modifier phrase with and without them can mean a different thing.
 Verbs are turned into modifiers by placing **de** or **li** immediately next to the verb.
 Verb phrases can also be made into modifiers in this way, but any objects must be moved to before the verb.
 
-**shute of grafe pente**
+**shut of grafe pente**
 – the art of picture-painting (the art of painting pictures)  
 **ale se helpe se suka**
 – the joy of others-helping (the joy of helping others)

@@ -1024,9 +1024,9 @@ means 'arrangement, management'.
 → **agronomia**
 agronomy
 
-#### -one
+#### -on
 
-The suffix **-one** indicates great size.
+The suffix **-on** indicates great size.
 
 **bol**
 'ball'

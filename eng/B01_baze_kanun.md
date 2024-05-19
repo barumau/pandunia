@@ -141,10 +141,10 @@ Words don't ever change only to serve in a different grammatical role.
 Compound words are made by combining the elements that form them.
 The main word stands at the end.
 
-**posta**
+**poste**
 ('mail') +
 **kase**
 ('box') =
-**posta kase**
+**poste kase**
 ('mailbox')
 

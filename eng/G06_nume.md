@@ -37,7 +37,7 @@ Greater numbers follow the same logic as above.
 100'000'000 un hunde milion  
 1'000'000'000 un tauzen milion  
 
-Note: The words "billion" and "milliard" are not used in Pangdunia
+Note: The words "billion" and "milliard" are not used in Pandunia
 because their meanings are different from country to country.
 Instead, one should say **tauzen milion** (thousand millions) or **un giga**.
 
