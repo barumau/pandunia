@@ -151,6 +151,7 @@ Sounds that are present in English or Mandarin but not in Pandunia are inside pa
 | Fricatives | f h         | f h (v th th) | f h             |
 | Affricates | ch j        | ch j          | ch j (c zh q)   |
 
+\* This letter represents a different sound in Mandarin.
 
 
 ### Easy syllable structure
