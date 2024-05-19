@@ -179,7 +179,7 @@ A word like
 ('love') can function as verb, noun or adjective
 depending on its position in the sentence.
 
-**mi** ***love*** **tu.*
+**mi** ***love*** **tu.**
 – I **love** you. (verb)  
 **tu fikre mi se** ***love.***
 – You think about my **love**. (noun)  

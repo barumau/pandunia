@@ -282,7 +282,7 @@ Therefore for example **morte** can mean both ’died’ and ’dies’.
 So called intransitive verbs can take a cognate object, whose meaning is very close to the meaning of the verb.
 For example the sentence **bacha kurse**, 'the children run', can take an object like **long kurse**, 'a long run'.
 
-***bacha** **kurse long kurse.**
+***bacha*** **kurse long kurse.**
 – 'The chilren run a long run.'
 
 The meaning of the sentence doesn’t really change.
