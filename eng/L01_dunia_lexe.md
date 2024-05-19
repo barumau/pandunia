@@ -124,11 +124,12 @@ The table below shows the number of countries by continent where the 21 source l
 | Tamil      |          |          |          |    3     |          |
 | Malay      |          |          |          |    4     |          |
 | Mandarin   |          |          |          |    3     |          |
-| Cantonese  |          |          |          |   (1)    |          |
+| Cantonese  |          |          |          |    2\*   |          |
 | Japanese   |          |          |          |    1     |          |
 | Korean     |          |          |          |    2     |          |
 | Vietnamese |          |          |          |    1     |          |
 
+\* Cantonese is the official language of Hong Kong and Macau, which are not countries but special administrative districts.
 
 ## Word selection method
 
