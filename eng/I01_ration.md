@@ -357,7 +357,7 @@ Most Pandunia words are already international – at least in some part(s) of th
 The three key principles for selecting words for Pandunia are:
 
 - **Equality** : Words are borrowed equally from different regions of the world.
-  In practice it means that Pandunia borrows words from the languages of Africa, Asia, Europe and the Americas.
+  In practice it means that Pandunia borrows words from the languages of Africa, Asia, Europe, Oceania and the Americas.
 - **Prevalence** : Widely spread words are favored.
   The more people know the word the better.
 - **Simplicity** : Word forms with easy pronunciation are prefered.
@@ -369,7 +369,7 @@ are typically the oldest words in languages,
 and they tend to be unique to a language or a group of closely related languages.
 
 Therefore it's almost impossible to find international words for the most basic ideas,
-that are in common to unrelated languages in Africa, the Americas, Asia and Europe.
+that are in common to unrelated languages in Africa, the Americas, Asia, Europe and Oceania.
 Still, we have tried.
 
 The personal pronouns are among the most frequently occuring words.
@@ -385,7 +385,7 @@ including French _tu_, Spanish _tú_, Russian _ty_ and Hindi _tū_.
 In Pandunia it is a neutral pronoun that can be used both in informal and formal situations.
 
 The third-person pronoun in Pandunia is **da**.
-It has the remarkable benefit that it can refer to both males and females as well as lifeless objects.
+It has the remarkable benefit that it can refer to people of any gender as well as lifeless objects.
 So it covers the English third-person pronouns _he_, _she_ and _it_, all at once.
 
 | English    | Pandunia   | Chinese    |
