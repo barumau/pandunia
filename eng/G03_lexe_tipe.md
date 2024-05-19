@@ -105,7 +105,7 @@ Structure words make the syntactical structure easy to see,
 because they mark out the boundaries between sentence constituents.
 
 Therefore one can know the grammatical structure of a sentence by knowing the structure words only.
-It doesn't matter does one know any of the content words.
+It doesn't matter if one doesn't know any of the content words.
 It's because the structure words define the structure and the content words define the meaning.
 For example, consider the following sentence where only structure words are visible and content words are hidden.
 

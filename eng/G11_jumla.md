@@ -1102,7 +1102,7 @@ The same particle is used with with personal pronouns too.
 Sentence-ending particles are modal particles or interaction particles that occur at the end of a sentence.
 They indicate the speaker's mood or attitude to the meaning of the sentence.
 They can also indicate what kind of reaction to the sentence the speaker expects from the listener.
-For example, the speaker can use the particle **ne** to indicate that they expect the listener express their point of view.
+For example, the speaker can use the particle **ne** to indicate that they expect the listener to express their point of view.
 
 **ba**
 indicates a suggestion or a command.

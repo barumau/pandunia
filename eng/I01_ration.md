@@ -356,7 +356,7 @@ and prepositions.
 Most Pandunia words are already international – at least in some part(s) of the world!
 The three key principles for selecting words for Pandunia are:
 
-- **Equality** : Words are be borrowed equally from different regions of the world.
+- **Equality** : Words are borrowed equally from different regions of the world.
   In practice it means that Pandunia borrows words from the languages of Africa, Asia, Europe and the Americas.
 - **Prevalence** : Widely spread words are favored.
   The more people know the word the better.

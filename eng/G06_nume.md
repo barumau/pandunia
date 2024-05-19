@@ -41,8 +41,6 @@ Note: The words "billion" and "milliard" are not used in Pandunia
 because their meanings are different from country to country.
 Instead, one should say **tauzen milion** (thousand millions) or **un giga**.
 
-The numerals that are greater than one hundred are borrowed from the
-
 The prefixes of the [International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units)
 (SI) are used in common language in Pandunia.
 It is normal to say, for example:  

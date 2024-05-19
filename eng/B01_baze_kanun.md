@@ -116,7 +116,7 @@ The same order is used in declarations and questions.
 
 A passive sentence is created with the help of the passive auxiliary verb
 **be**.
-A similar effect can be also reached with the impersonal pronoun
+A similar effect can also be reached with the impersonal pronoun
 **von**.
 
 **pandunia be loga.**

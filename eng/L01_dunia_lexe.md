@@ -27,7 +27,7 @@ The languages within a certain cultural sphere share words (loan words and trans
     - Languages of the West have been influenced greatly by Greek and Latin and in modern times by French and English.
 2. The Afro-Asian (or the Islamic) cultural sphere
     - This group includes languages of areas where Islam is the main religion.
-    - It spans from the Atlantic coast of Africa to the islands in the Pacific of Indonesia and the Philippines.
+    - It spans from the Atlantic coast of Africa to the Pacific islands of Indonesia and the Philippines.
     - The languages of this cultural sphere are influenced by Persian and especially Arabic, which is the language of Quran, the holy book of Islam.
 3. The South Asian (or the Indian) cultural sphere
     - This sphere covers the very populous subcontinent of India, Indochina and more
