@@ -5,7 +5,7 @@
 
 Everybody knows at least two essential units of grammar: words and sentences.
 In written texts, words are separated by spaces
-and sentences begin with a capital letter and end with a full stop.
+and sentences end with a full stop.
 However, there are also other grammatical units besides words and sentences.
 
 Grammar involves a hierarchy of grammatical units,
