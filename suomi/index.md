@@ -102,7 +102,7 @@ Adjektiiveja ja adverbeja vertaillaan sanoilla:
 – Minä olen parempi (_enemmän hyvä_) kuin sinä.  
 **no, mi es as gud as yu.**
 – Ei, minä olen yhtä hyvä kuin sinä.  
-**da bi tolke mor faste dan yu.**
+**da bi tok mor rapid dan yu.**
 – Hän puhuu nopeammin (_enemmän nopeasti_) kuin sinä.
 
 Aika ilmaistaan apusanoilla:
@@ -121,7 +121,7 @@ Aika ilmaistaan apusanoilla:
 – Me olemme lukeneet monta kirjaa.  
 **mi bi ride un buk.**
 – Minä olen lukemassa yhtä kirjaa.  
-**yu vil tolke Pandunia.**
+**yu vil tok Pandunia.**
 – Te tulette puhumaan panduniaa.
 
 Lauseenloppuisilla pikkusanoilla ilmaistaan, minkä vuoksi lause on sanottu,

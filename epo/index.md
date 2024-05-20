@@ -98,7 +98,7 @@ Oni komparas adjektivojn kaj adverbojn per helpantaj vortoj:
 – Mi estas pli bona ol vi.  
 **no, mi es sim gud dan yu.**
 – Ne, mi estas tiom bona kiel vi.  
-**da bi tolke mor rapid dan yu.**
+**da bi tok mor rapid dan yu.**
 – Li aŭ ŝi parolas pli rapide ol vi.
 
 Tempo estas indikata per helpantaj verboj:  
@@ -117,7 +117,7 @@ Tempo estas indikata per helpantaj verboj:
 – Ni estas leginta multajn librojn.  
 **mi bi lese un buk.**
 – Mi estas leganta libron.  
-**yu vil tolke Pandunia.**
+**yu vil tok Pandunia.**
 – Vi parolos Pandunian.
 
 Frazfinaj partikuloj indikas kial oni diras la frazon,
@@ -153,7 +153,7 @@ Ne estas multe da parolantoj ankoraŭ
 sed se _vi_ pensas ke Pandunia estas bona ideo, ankaŭ _aliuloj_ pensos same.
 Do komencu uzi Pandunian nun kaj ni faru ĝin nia komuna lingvo!
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "vi tolke pandunia!")  
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "vi tok pandunia!")  
 <small>Bildo de [Freepik](http://www.freepik.com)</small>
 
 Vi povas kontakti la kreinton de pandunio, Risto Kupsala, per la retpoŝta

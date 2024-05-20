@@ -105,7 +105,7 @@ Comparison is done with helping words:
 – I am better (_more good_) than you.  
 **no, mi es sim gud dan yu.**
 – No, I am as good as you.  
-**da bi tolke mor rapid dan yu.**
+**da bi tok mor rapid dan yu.**
 – He or she talks faster (_more fast_) than you.
 
 Time is expressed with auxiliary verbs:
@@ -124,7 +124,7 @@ Time is expressed with auxiliary verbs:
 – We have read many books.  
 **mi bi lese un buk.**
 – I am reading one book.  
-**yu vil tolke Pandunia.**
+**yu vil tok Pandunia.**
 – You will talk Pandunia.
 
 Sentence-final particles express why the sentence is said,
