@@ -5,7 +5,7 @@
 
 Everybody knows at least two essential units of grammar: words and sentences.
 In written texts, words are separated by spaces
-and sentences begin with a capital letter and end with a full stop.
+and sentences end with a full stop.
 However, there are also other grammatical units besides words and sentences.
 
 Grammar involves a hierarchy of grammatical units,
@@ -105,7 +105,7 @@ Structure words make the syntactical structure easy to see,
 because they mark out the boundaries between sentence constituents.
 
 Therefore one can know the grammatical structure of a sentence by knowing the structure words only.
-It doesn't matter does one know any of the content words.
+It doesn't matter if one doesn't know any of the content words.
 It's because the structure words define the structure and the content words define the meaning.
 For example, consider the following sentence where only structure words are visible and content words are hidden.
 
@@ -179,7 +179,7 @@ A word like
 ('love') can function as verb, noun or adjective
 depending on its position in the sentence.
 
-**mi** ***love*** **tu.*
+**mi** ***love*** **tu.**
 – I **love** you. (verb)  
 **tu fikre mi se** ***love.***
 – You think about my **love**. (noun)  

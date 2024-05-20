@@ -116,7 +116,7 @@ The same order is used in declarations and questions.
 
 A passive sentence is created with the help of the passive auxiliary verb
 **be**.
-A similar effect can be also reached with the impersonal pronoun
+A similar effect can also be reached with the impersonal pronoun
 **von**.
 
 **pandunia be loga.**
@@ -141,10 +141,10 @@ Words don't ever change only to serve in a different grammatical role.
 Compound words are made by combining the elements that form them.
 The main word stands at the end.
 
-**posta**
+**poste**
 ('mail') +
 **kase**
 ('box') =
-**posta kase**
+**poste kase**
 ('mailbox')
 

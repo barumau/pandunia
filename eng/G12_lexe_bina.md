@@ -47,7 +47,7 @@ New compound words can be created freely and easily in Pandunia.
 There are two types of compound words in Pandunia, open compounds and closed compounds.
 
 An open compound is simply a series of base words put next to each other.
-They are written separately and there is a space between each words.
+They are written separately and there is a space between each pair of words.
 For example, **tomato** 'tomato' + **sos** 'sauce' = **tomato sos** 'tomato sauce',
 
 Closed compounds are written together and there is no space between the words.
@@ -99,7 +99,7 @@ in order to re-create many international words as native Pandunia words.
     ____________
     =    susese      'go well, succeed'
 
-Note that these internatioal prefixes are used only in compound words that really mean the sum their parts.
+Note that these international prefixes are used only in compound words that really mean the sum their parts.
 Fossilized words whose meanings are no longer the sum of their parts,
 like *evolution* (originally 'rolling out'),
 are not compound words in Pandunia.
@@ -1024,9 +1024,9 @@ means 'arrangement, management'.
 → **agronomia**
 agronomy
 
-#### -one
+#### -on
 
-The suffix **-one** indicates great size.
+The suffix **-on** indicates great size.
 
 **bol**
 'ball'

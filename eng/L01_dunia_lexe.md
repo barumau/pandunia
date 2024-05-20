@@ -27,7 +27,7 @@ The languages within a certain cultural sphere share words (loan words and trans
     - Languages of the West have been influenced greatly by Greek and Latin and in modern times by French and English.
 2. The Afro-Asian (or the Islamic) cultural sphere
     - This group includes languages of areas where Islam is the main religion.
-    - It spans from the Atlantic coast of Africa to the islands in the Pacific of Indonesia and the Philippines.
+    - It spans from the Atlantic coast of Africa to the Pacific islands of Indonesia and the Philippines.
     - The languages of this cultural sphere are influenced by Persian and especially Arabic, which is the language of Quran, the holy book of Islam.
 3. The South Asian (or the Indian) cultural sphere
     - This sphere covers the very populous subcontinent of India, Indochina and more
@@ -124,11 +124,12 @@ The table below shows the number of countries by continent where the 21 source l
 | Tamil      |          |          |          |    3     |          |
 | Malay      |          |          |          |    4     |          |
 | Mandarin   |          |          |          |    3     |          |
-| Cantonese  |          |          |          |   (1)    |          |
+| Cantonese  |          |          |          |    2\*   |          |
 | Japanese   |          |          |          |    1     |          |
 | Korean     |          |          |          |    2     |          |
 | Vietnamese |          |          |          |    1     |          |
 
+\* Cantonese is the official language of Hong Kong and Macau, which are not countries but special administrative districts.
 
 ## Word selection method
 
@@ -276,8 +277,8 @@ a normal PoS suffix.
 | 中 | **jung**      | zung       | zhōng      | chū        | jung       | trung      |
 | 心 | **shim**      | sam        | xīn        | shin       | sim        | tâm        |
 | 門 | **mun**       | mun        | mén        | mon        | mun        | (môn)      |
-| 讀 | **duge**      | duk        | dú         | doku       | dok        | đọc        |
-| 出 | **chuti**     | cœt        | chū        | shutsu     | chul       | xuất       |
+| 讀 | **duk**       | duk        | dú         | doku       | dok        | đọc        |
+| 出 | **chut**      | cœt        | chū        | shutsu     | chul       | xuất       |
 
 
 ### Examples of global words
@@ -460,7 +461,7 @@ The word **jen** is combined from several unrelated sources.
     - Urdu کمرا  /kəmra:/ (room)
     - Malay "kamar" (room)
 
-#### kata 'to cut'
+#### kate 'to cut'
 
 - the West
     - English "cut" /kʌt/

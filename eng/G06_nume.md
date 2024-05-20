@@ -37,11 +37,9 @@ Greater numbers follow the same logic as above.
 100'000'000 un hunde milion  
 1'000'000'000 un tauzen milion  
 
-Note: The words "billion" and "milliard" are not used in Pangdunia
+Note: The words "billion" and "milliard" are not used in Pandunia
 because their meanings are different from country to country.
 Instead, one should say **tauzen milion** (thousand millions) or **un giga**.
-
-The numerals that are greater than one hundred are borrowed from the
 
 The prefixes of the [International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units)
 (SI) are used in common language in Pandunia.
@@ -83,8 +81,8 @@ They are put before the word or phrase that they qualify.
 – one big chair  
 **du dai kursi**
 – two big chairs  
-**tri gud kursi**
-– three good chairs
+**tri dai kursi**
+– three big chairs
 
 
 ## Ordinal numbers

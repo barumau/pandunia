@@ -91,8 +91,8 @@ is used as the reciprocal pronoun.
 **unotre**
 – each other, one another
 
-**mi e tu vize unotre.**
-– Me and you see each other.  
+**tu e mi vize unotre.**
+– You and I see each other.  
 **vi vize unotre.**
 – We see each other.
 
