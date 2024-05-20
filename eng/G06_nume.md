@@ -100,7 +100,7 @@ but they are placed after the noun that they modify.
 
 ## Classifiers of measurement
 
-The classifier of measurement is a word that occurs between a numeral and a noun.
+The classifier of measurement or a measure word is a word that occurs between a numeral and a noun.
 It indicates how the referent of the noun is measured, contained or packaged.
 Classifiers of measurement is an open class of words,
 which includes, among many others,
@@ -123,17 +123,20 @@ which includes, among many others,
 **tong**
 'cask, barrel'.
 
-**du litre jus**
+Measure words are used in this simple structure:
+number + measure word + **se** + noun.
+
+**du litre se jus**
 – two liters of juice  
-**tri metre kable**
+**tri metre se kable**
 – three meters of wire  
-**un kupa kafe**
+**un kupa se kafe**
 – a cup of cofee  
-**du botle vin**
+**du botle se vin**
 – two bottles of wine  
-**tri sake patato**
+**tri sake se patato**
 – three sacks of potatoes  
-**for tin limon jus**
+**for tin se limon jus**
 – four cans of lemonade
 
 
@@ -171,14 +174,13 @@ stands for '2/3' in mathematical symbols.
 – one thousandth, one permille (1‰)
 
 Fractions are connected to their noun head with
-**of**
-('of').
+**se**.
 
-**un parte du of haur**
+**un parte du se haur**
 – a half (of an) hour  
-**faif ten parte hunde of jen**
+**faif ten parte hunde se jen**
 – fifty percent of people  
-**du parte tri of keke**
+**du parte tri se keke**
 – two thirds of a cake  
 
 

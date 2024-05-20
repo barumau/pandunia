@@ -1003,15 +1003,16 @@ apply to the verb alone and not the sentence as a whole.
 **no. (mi no vize tu.)** 
 – No. (I don't see you.)
 
+
 ### Modifier particles
 
 Particles
-**li**
+**se**
 and
 **of**
 are used to link a noun, an adjective or a verb phrase to a noun to modify it.
-**li**
-connects the modifying word or phrase to the main noun word.
+**se**
+connects the modifying word or phrase to the main noun.
 **of**
 works in the opposite direction, it connects the main noun to the modifying word or phrase.
 
@@ -1022,9 +1023,9 @@ It gives us more information about the noun, and the particle makes it clear in 
 
 The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
-**rode rang li labi**
+**rode rang se labi**
 – rose-colored lips  
-**sama rang li yen**
+**sama rang se yen**
 – sky-colored eyes
 
 Or in the opposite order:
@@ -1034,17 +1035,17 @@ Or in the opposite order:
 **yen of sama rang**
 – eyes of the sky-color
 
-The particles help in creating measure words too.
+The particles help in creating measure word structures too.
  
-**un sake li patate**
+**un sake se patate**
 – one sack of potatoes  
-**du sake li patate**
+**du sake se patate**
 – two sacks of potatoes  
-**mor sake li patate**
+**mor sake se patate**
 – more sacks of potatoes
 
 Note that
-**li**
+**se**
 and
 **of**
 connect phrases together.
@@ -1057,7 +1058,11 @@ So a modifier phrase with and without them can mean a different thing.
 
 #### Modification with verb phrases
 
-Verbs are turned into modifiers by placing **de** or **li** immediately next to the verb.
+Verbs are turned into modifiers by placing
+**se**
+or
+**of**
+immediately next to the verb.
 Verb phrases can also be made into modifiers in this way, but any objects must be moved to before the verb.
 
 **shut of grafe pente**
