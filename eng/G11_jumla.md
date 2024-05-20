@@ -938,7 +938,7 @@ Expressions are affirmative by default.
 
 **mi es shefe.**
 – I am the boss.  
-**da es nova meza.**
+**da es nove meza.**
 – It is a new table.
 
 Affirmation can be emphasized with the adverb

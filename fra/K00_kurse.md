@@ -370,21 +370,14 @@ est un modèle très utile pour les formules de politesses.
 **plis safi kamar.**
 = Nettoyez la chambre s'il vous plaît
 
-Les ordres sont données avec
-**amir**
-(ordonner). Ils utilisent la même structure de pivot que les requêtes avec
-**plis**.
+Les ordres directs peuvent s'exprimer au moyen d'un seul verbe et d'un ton autoritaire.
 
-**amir don cha.**
-= Donnez-moi du thé !  
-**amir safi kamar.**
-= Nettoiez la chambre !
-
-En pratique, les ordres directs peuvent aussi s'exprimer au moyen
-d'un seul verbe et d'un ton autoritaire.
-
+**don cha!**
+– Donnez-moi du thé !  
+**safi kamar!**
+– Nettoiez la chambre !  
 **safi da!**
-= Nettoie-le/la !
+– Nettoie-le/la !
 
 
 ### Exercices
@@ -400,8 +393,6 @@ Essayez de traduire ces phrases du Français au Pandunia.
 
 ### Liste de mots
 
-**amir**
-ordonner  
 **cha**
 thé  
 **plis**

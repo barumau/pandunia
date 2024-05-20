@@ -330,14 +330,10 @@ utilizado para hacer peticiones corteses.
 **plis safi kamar.**
 – Por favor limpie la habitación.  
 
-Las ordenes son introducidas con
-**amir**
-'ordenar'. Se utiliza la misma estructura eje como para pedir con
-**plis**.
-
-**amir don cha.**
+Las ordenes se expresan directamente.
+**don cha!**
 – ¡Deme un poco de té!  
-**amir safi kamar.**
+**safi kamar!**
 – ¡Limpie la habitación!
 
 
@@ -354,8 +350,6 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**amir**
-ordenar  
 **cha**
 té  
 **plis**

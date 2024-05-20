@@ -154,10 +154,10 @@ Esto es común especialmente en mandatos y pedidos.
 
 ### Estructura de eje corta (VOVO)
 
-**mi amir tu kai da mun.**
-– Yo te mando que abres la puerta.  
-**amir tu kai da mun.**
-– ¡Abre la puerta!
+**mi sual tu kai da mun.**
+– Yo te pregunto que abres la puerta.  
+**sual tu kai da mun?**
+– ¿Abriste la puerta?
 
 ### Estructura de eje corta (VVO)
 

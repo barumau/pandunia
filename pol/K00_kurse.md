@@ -318,20 +318,14 @@ ma użyteczny wzór, użyteczny przy grzecznych prośbach.
 **plis safi kamar.**
 = Proszę, sprzątaj pokój.
 
-Rozkazy są wprowadzane z
-**amir**
-= rozkazać. Kożystają z takiej samej struktury osiowej, co prośby z
-**plis**.
+Bezpośrednie rozkazy mogą być też tworzone tylko jednym czasownikiem i rozkazującym tonem.
 
-**amir don cha.**
-= Daj (mi) herbatę!  
-**amir safi kamar.**
-= Sprzątaj pokój!
-
-W praktyce, bezpośrednie rozkazy mogą być też tworzone tylko jednym czasownikiem i rozkazującym tonem.
-
+**don cha!**
+– Daj (mi) herbatę!  
+**safi kamar!**
+– Sprzątaj pokój!  
 **safi da!**
-= Sprzątaj to!
+– Sprzątaj to!
 
 
 ### Ćwiczenia
@@ -359,8 +353,6 @@ i
 kawa  
 **kamar**
 pokój  
-**amir**
-rozkazać, rozkazywać  
 **o**
 lub  
 **plis**

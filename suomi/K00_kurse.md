@@ -369,21 +369,17 @@ rakennetta voi hyödyntää kaikenlaisten kohteliaiden pyyntöjen ilmaisemiseen.
 **plis safi kamar.**
 = Siivoaisitko huoneen.
 
-Käskyt aloitetaan sanalla
-**amir**
-('käskeä, komentaa').
-Käskylauseiden rakenne on sama kuin pyyntölauseiden.
+Käskyt muodostetaan suoremmin.
+Ne muistuttavat muuten pyyntöä, mutta niissä ei käytetä sana
+**plis**
+jätetään pois.
 
-**amir don cha.**
-= Anna teetä!  
-**amir safi kamar.**
-= Siivoa huone!
-
-Käytännössä napakat käskyt voi tehdä myös pelkällä verbillä ja
-käskevällä äänellä.
-
+**don cha!**
+– Anna teetä!  
+**safi kamar!**
+– Siivoa huone!  
 **safi da!**
-= Siivoa se!
+– Siivoa se!
 
 
 ### Harjoituksia
@@ -399,8 +395,6 @@ Käännä seuraavat lauseet panduniaksi. Oikeat vastaukset ovat sanaston jälkee
 
 ### Sanasto
 
-**amir**
-käskeä, komentaa  
 **cha**
 tee  
 **don**

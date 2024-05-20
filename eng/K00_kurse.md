@@ -389,18 +389,14 @@ has a useful pattern that can be used for making polite requests.
 **plis safi kamar.**
 – Please clean the room.
 
-Commands are introduced with
-**amir**
-('to command'). They employ the same pivot structure as requests with
+Commands are expressed more directly than requests.
+A command is basically like the request but without the
 **plis**.
 
-**amir don cha.**
+**don cha!**
 – Give (me) some tea!  
-**amir safi kamar.**
-– Clean the room!
-
-In practice, direct commands can be also made with just one verb and a commanding voice.
-
+**safi kamar!**
+– Clean the room!  
 **safi da!**
 – Clean it!
 
@@ -418,8 +414,6 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**amir**
-to order, to command  
 **cha**
 tea  
 **chin pa**

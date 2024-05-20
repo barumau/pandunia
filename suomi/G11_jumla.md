@@ -7,9 +7,9 @@ Yksinkertaisin lausetyyppi on huomiolause.
 Se voi koostua vain yhdestä sanasta, johon puhuja haluaa kuulijan kiinnittävän huomiota.
 
 **mau!**
-= Kissa!  
+– Kissa!  
 **barsha!**
-= Sataa!  
+– Sataa!  
 
 
 ## Olotilaa ilmaiseva lause
@@ -20,11 +20,11 @@ Lauseissa on _subjekti ja predikaatti_.
 Kaikista yksinkertaisimmissa lauseissa subjekti on substantiivi tai pronomini ja predikaatti on adjektiivi.
 
 **mi bon.**
-= Minä olen hyvä.  
+– Minä olen hyvä.  
 **da nove.**
-= Se on uusi.  
+– Se on uusi.  
 **da Sara.**
-= Hän on Sara.
+– Hän on Sara.
 
 Substantiivin ollessa subjektina, verbi **si** ('olla') tulee välttämättömäksi.
 
@@ -53,9 +53,9 @@ Myös kaksi persoonapronominia voidaan asettaa rinnakkain.
 Selkeyden vuoksi väliin voi panna sanan **si** (kyllä) myöntölauseessa.
 
 **mi es da.**
-= Minä olen se.  
+– Minä olen se.  
 **mi no tu.**
-= Minä en ole sinä.
+– Minä en ole sinä.
 
 
 ### Adjektiivi subjektina
@@ -63,9 +63,9 @@ Selkeyden vuoksi väliin voi panna sanan **si** (kyllä) myöntölauseessa.
 Kun subjektina on adjektiivi, sana **si** (kyllä) toimii olla-verbin korvikkeena myöntölauseessa. Kieltolauseessa käytetään sanaa **no** kuten edelläkin.
 
 **yun es mei.**
-= Nuori on kaunista.  
+– Nuori on kaunista.  
 **nove no lau.**
-= Uusi ei ole vanha.  
+– Uusi ei ole vanha.  
 **gani es bon.**
 – Laulaminen on hyvä.
 
@@ -125,7 +125,7 @@ subjekti – verbi 1 – objekti 1 – verbi 2 – objekti 2.
 Objekti 1 on kahdessa roolissa. Se on yhtä aikaa sekä verbin 1 objekti että verbin 2 subjekti.
 
 **mi vol tu yam fito.**
-= Minä haluan sinun syövän vihanneksia.
+– Minä haluan sinun syövän vihanneksia.
 
 Edellisessä esimerkissä, lausekkeen
 **mi vol**
@@ -174,10 +174,10 @@ Tällä tavalla lauseista voi tulla lyhyempiä.
 
 ### Lyhyt saranarakenne (VOVO)
 
-**mi amir tu kai la mun.**
-– Minä käsken sinua avaamaan oven.  
-**amir tu kai mun.**
-– (Käsken) avaa ovi!
+**mi sual tu kai da mun.**
+– Minä kysyn sinua avaamaan oven.  
+**sual tu kai mun.**
+– Avaatko oven?
 
 ### Short pivot structure (VVO)
 
@@ -302,25 +302,25 @@ Yleensä sanajärjestys kuitenkin on sama kuin väitelauseissa.
 
 ## Konjunktiot
 
-**i**
+**e**
 – ja (yhdistää kaksi yhdenarvoista sanaa tai lauseketta)  
 **o**
 – tai, vai (yhdistää kaksi vaihtoehtoista sanaa tai lauseketta)  
 **ama**
 – mutta (esittelee sanan tai lausekkeen, joka on edellä sanotun vastainen)  
-**ki**
+**ke**
 – että (esittelee lausekkeen joka on verbin subjektina tai objektina tai on lainattua puhetta)  
-**to ki**
+**to ke**
 – jotta, sitä varten että  
-**de ki**
+**of ke**
 – koska, sen vuoksi että
 
-**mi suka mau i vaf.**
-= Minä pidän kissoista ja koirista.  
+**mi suka mau e vaf.**
+– Minä pidän kissoista ja koirista.  
 **mi suka mau o vaf.**
-= Minä pidän kissoista tai koirista.  
+– Minä pidän kissoista tai koirista.  
 **mi suka mau ama no vaf.**
-= Minä pidän kissoista mutta en koirista.
+– Minä pidän kissoista mutta en koirista.
 
 --------------------------------------------------------------------------------
 
@@ -334,9 +334,9 @@ Yleensä sanajärjestys kuitenkin on sama kuin väitelauseissa.
 Lauseet ovat lähtökohtaisesti myöntäviä.
 
 **mi es shefe.**
-= Minä olen pomo.  
+– Minä olen pomo.  
 **da es nove meza.**
-= Se on uusi pöytä.
+– Se on uusi pöytä.
 
 Myöntämistä voi painottaa sanalla
 **ye**
@@ -352,34 +352,34 @@ Myöntämistä voi painottaa sanalla
 Edellisen kaltaiset lauseet kielletään sanalla **no**.
 
 **da no es shefe.**
-= Minä en ole pomo.  
+– Minä en ole pomo.  
 **da no es nove meza.**
-= Tämä ei ole uusi pöytä.
+– Tämä ei ole uusi pöytä.
 
 Sanaa **no** käytetään myös toisten sanojen kieltämiseen.
 Se vaikuttaa aina vain seuraavaan sanaan.
 
 **mi vize tu.**
-= Minä näen sinut.  
+– Minä näen sinut.  
 **mi no vize tu.**
-= Minä en näe sinua.  
+– Minä en näe sinua.  
 **mi vize no tu ama di.**
-= Minä näen, en sinua, vaan heidät.
+– Minä näen, en sinua, vaan heidät.
 
-**mi plis tu safi la kamar.**
+**mi plis tu safi da kamar.**
 – Minä pyydän sinua siivoamaan huoneen.  
-**mi no plis tu safi la kamar.**
+**mi no plis tu safi da kamar.**
 – Minä en pyydä sinua siivoamaan huonetta.  
-**mi plis tu no safi la kamar.**
+**mi plis tu no safi da kamar.**
 – Minä pyydän sinua olemaan siivoamatta huonetta.
 
 
 ### Määrepartikkelit
 
 Panduniassa on kaksi määrepartikkelia,
-**di**
+**se**
 ja
-**de**.
+**of**.
 Ne eroavat toisistaan vain sanajärjestyksen osalta.
 Merkitykseltään ne ovat samoja.
 
@@ -388,16 +388,16 @@ Merkitykseltään ne ovat samoja.
 
 Kahdesta tai useammasta sanasta koostuvat adjektiivit käyttävät määrepartikkeleita.
 
-**rode rang di labi**
+**rode rang se labi**
 – ruusun väriset huulet  
-**sama rang di yen**
+**sama rang se yen**
 – taivaan väriset silmät
 
 Tai käänteisessä järjestyksessä:
 
-**labi de rode rang**
+**labi of rode rang**
 – huulet ruusun väriset  
-**yen de sama rang**
+**yen of sama rang**
 – silmät taivaan siniset
 
 
@@ -405,7 +405,7 @@ Tai käänteisessä järjestyksessä:
 #### Omistus
 
 Omistusta ilmaistaan omistusparikkelilla
-**su**,
+**se**,
 joka vastaa suomen genetiivisijaa.
 
 **Maria se mama**
@@ -431,20 +431,24 @@ Samaa partikkelia käytetään myös pronominien kanssa.
 
 ### Tavan partikkelit
 
-Tavan partikkeleilla puhuja voi ilmaista, miten hän suhtautuu sanomaansa asiaan. Monissa kielissä on jonkinlaisia tavan partikkeleita. Suomen kielessä sellaisia ovat sanat _vain, kai_ ja _toki_.
+Tavan partikkeleilla puhuja voi ilmaista, miten hän suhtautuu sanomaansa asiaan.
+Monissa kielissä on jonkinlaisia tavan partikkeleita.
+Suomen kielessä sellaisia ovat sanat _vain, kai_ ja _toki_.
 
 Panduniassa tavan partikkeli määrittää seuraavaa sanaa tai, jos se on lauseen viimeisenä, se määrittää koko lausetta.
 
-Partikkeli **plus** (myös) on hyvä esimerkki tavan partikkeleista, koska se toimii samalla tavalla kuin vastaava suomen sana.
+Partikkeli
+**plus**
+(myös) on hyvä esimerkki tavan partikkeleista, koska se toimii samalla tavalla kuin vastaava suomen sana.
 
 **da yam bir plus.**
-= Hän juo olutta, myös.  
+– Hän juo olutta, myös.  
 **da yam plus bir.**
-= Hän juo _myös olutta_.  
+– Hän juo _myös olutta_.  
 **da plus yam bir.**
-= Hän _myös juo_ olutta.  
+– Hän _myös juo_ olutta.  
 **plus da yam bir.**
-= _Myös hän_ juo olutta.
+– _Myös hän_ juo olutta.
 
 Partikkelit voivat määrittää mitä tahansa sanaa, mutta adjektiivit eivät voi määrittää esimerkiksi lukusanoja.
 
