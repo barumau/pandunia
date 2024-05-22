@@ -895,6 +895,29 @@ means a person who tends to behave or think in a certain way or an adherent of a
 → **deiste**
 'theist, one who believes in existence of a god or gods'
 
+#### -it ~ -t
+
+The suffix
+**-it**
+expresses one who undergoes or has undergone the action of the root.
+
+**fa**
+'to make'
+→ **fat**
+'(that which is or has been) done'  
+**van**
+'to want'
+→ **vanit**
+'(that which is or has been) wanted'  
+**vize**
+'to view or see'
+→ **vizit**
+'(that which is or has been) viewed or seen'  
+**audi**
+'to hear'
+→ **audit**
+'(that which is or has been) heard'  
+
 #### -ita ~ -ta
 
 The suffix
