@@ -144,7 +144,7 @@ as in the table below.
 
 | Subject         | TAM    | Predicate   | Det.   | Object            |
 |-----------------|--------|-------------|--------|-------------------|
-| *suka bacha*    | **ye** | *kitab*     | **un** | *long letre.*     |
+| *hapi bacha*    | **ye** | *kitab*     | **un** | *long letre.*     |
 | The happy child |        | writes      |        | a long letter.    |
 | *yun man*       | **ye** | *vize*      | **un** | *mei parke.*      |
 | The young man   |        | sees        |        | a beautiful park. |

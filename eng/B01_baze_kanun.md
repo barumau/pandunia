@@ -32,20 +32,40 @@ Primary accent is indicated here by an acute accent (*á*) and secondary accent 
 ### (4) Pronouns
 
 The personal pronouns are:  
-**mi** _I_, **tu** _you_ (sg.), **da** _he/she/it_,
-**vi** _we_, **yu** _you_ (pl.), **di** _they_.
+**mi**
+'I',
+**tu**
+'you' (singular),
+**da**
+'he, she, it',
+**vi**
+'we',
+**yu**
+'you' (plural),
+**di**
+'they'.
 
 The possessive pronouns are:  
-**mi se** _my_, **tu se** _your_, **da se** _his or her_,
-**vi se** _our_, **yu se** _your_, **di se** _their_.
+**mi se**
+'my',
+**tu se**
+'your',
+**da se**
+'his or her',
+**vi se**
+'our',
+**yu se**
+'your',
+**di se**
+'their'.
 
 The interrogative pronouns are:
 **kua**
-_what_,
+'what',
 **hu**
-_who_,
+'who',
 **hu se**
-_whose_.
+'whose'.
 
 
 ### (5) Nouns
