@@ -1,8 +1,8 @@
 # History of Pandunia
 
-## The ecosystem
+## Before Pandunia
 
-Pandunia was formed in an inspiring environment.
+Ideas for Pandunia were formed in an inspiring environment.
 Risto, the initiator of Pandunia, worked and exchanged ideas with other people
 who are interested in languages.
 He participated in forums like
@@ -24,7 +24,7 @@ and Justin Kunimune
 only to mention a few.
 
 
-## Early buds
+## Years of development
 
 In the early years, Pandunia was Risto's personal language project.
 It was like play dough to him that could be shaped and reshaped again for experimenting new ideas.
@@ -54,11 +54,28 @@ in the Oxford Research Encyclopedias.
 Risto recorded another [short video in Pandunia](https://www.youtube.com/watch?v=TgO8AwX4OCU)
 in 2016 to show how the language had evolved.
 Alex André recorded a [30 day challenge to learn Pandunia](https://twitter.com/XanderLeaDaren/status/1114972322157465612) in 2019.
+This was called the [base version 1 of Pandunia](https://github.com/barumau/pandunia/releases/tag/v1.1)
+and it used word-final vowels for marking word classes in the style of Esperanto.
+However, the language was still evolving, and the
+[second base version](https://github.com/barumau/pandunia/releases/tag/v2.1)
+was published in 2021 and it didn't use the word-class markers anymore.
 
 ![](http://www.pandunia.info/grafe/bandera.png "Pandunia flag in 2018")  
 Pandunia flag in 2018
 
-The third version of Pandunia was published in late April 2024.
+
+## Stabilization
+
+The [third and final base version of Pandunia](https://github.com/barumau/pandunia/releases/tag/v.3.0)
+was published in early 2024.
+It combined the best features of the previous versions:
+word derivation system aligned to the international vocabularies and simplified, inflectionless grammar.
+In addition the most frequently occurring words were replaced with those that are resemble English.
+Pandunia had evolved from a creative constructed language into a serious successor for international English
+that would level the playing field for international and multicultural communication.
+
+
+## Pandunia in Wikipedia
 
 Here are the creation years of the Wikipedia articles about Pandunia.
 
@@ -74,3 +91,4 @@ Here are the creation years of the Wikipedia articles about Pandunia.
 - 2022 [Spanish](https://es.wikipedia.org/wiki/Pandunia),
        [Basque](https://eu.wikipedia.org/wiki/Pandunia),
        [Italian](https://it.wikipedia.org/wiki/Pandunia)
+
