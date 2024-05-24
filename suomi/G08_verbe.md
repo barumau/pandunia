@@ -119,4 +119,36 @@ Sitä käytetään sekä päälauseessa että alisteisissa sivulauseissa.
 **tu no** ***vud*** **es suka, if mi** ***vud*** **go.**
 – Sinä et olisi iloinen, jos minä menisin.
 
+Apuverbi
+**shud**
+('pitää, pitäisi') ilmaisee jonkinlaista odotusta, kuten velvollisuutta, pakkoa, vaatimusta, neuvoa tai todennäköisyyttä.
+
+**ma voka vi. vi shud go.**
+– Äiti kutsuu meitä. Meidän pitäisi mennä.  
+**da shud haf kom pre nun.**
+– Hänen olisi pitänyt tulla ennen tätä.  
+**evri von shud vote.**
+– Kaikkien pitäisi äänestää.
+
+Imperatiivi ilmaisee käskyä.
+Panduniassa imperatiivi muodostetaan apuverbillä
+**shal**.
+Sen avulla voi käskeä kaikkia persoonia eikä vain toista.
+
+**vi shal go!**
+– Menkäämme! ~ Mennään!  
+**di shal kurse!**
+– Juoskoon!
+
+Apuverbin
+**shal**
+avulla voi käskeä myös toista persoonaa,
+mutta on tavallisempaa käyttää pelkkää verbiä käskevään äänensävyyn,
+jotta käsky olisi napakampi ja tehokkaampi.
+
+**tu shal kom!** = **kom!**
+– Tule!  
+**yu shal kom!** = **kom!**
+– Tulkaa!
+
 

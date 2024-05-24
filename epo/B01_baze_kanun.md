@@ -33,7 +33,8 @@ La personaj pronomoj estas:
 'ĝi, li aŭ ŝi',
 **vi**
 'ni',
-**yu** 'vi (multenombre)',
+**yu**
+'vi (multenombre)',
 **di**
 'ili'.
 
@@ -107,9 +108,15 @@ Ili antaŭas la vorton, kiun ili modifas.
 
 La adjektivoj estas ĉiam metita antaŭ la substantivo, kies sencon ili modifas.
 
-- La komparo de egaleco estas **sim...dan** (tiom...kiel).
-- La komparo de plieco estas **mor...dan** (pli...ol).
-- La komparo de malplieco estas **les...dan** (malpli...ol).
+- La komparo de egaleco estas
+  **sim...dan**
+  (tiom...kiel).
+- La komparo de plieco estas
+  **mor...dan**
+  (pli...ol).
+- La komparo de malplieco estas
+  **les...dan**
+  (malpli...ol).
 
 
 ### (8) Verboj
@@ -157,10 +164,10 @@ Vortoj neniam ŝanĝiĝas por indiki gramatikaĵojn.
 Oni povas krei novajn vortojn kunmetante aliajn vortojn.
 La ĉefa vorto ĉiam staras je la fino.
 
-**posta**
+**poste**
 ("poŝto") +
 **kase**
 ("kesto") =
-**posta kase**
+**poste kase**
 ("leterkesto")
 

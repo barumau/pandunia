@@ -82,9 +82,11 @@ La markilo **haf** indikas, ke la ago estas finita kaj ĝia rezulto estas ankora
 – Viro estos manĝinta panon.
 
 
-### Kondicionala modo
+### Modoj
 
-La kondicionala markilo **vud** esprimas kiel la *us*-modon,
+La kondicionala markilo
+**vud**
+esprimas kiel la *us*-modon,
 ke la plenumo de procezo dependas de iu nerealigita kondiĉo.
 
 **mi** ***vud*** **van yam.**
@@ -95,6 +97,38 @@ ke la plenumo de procezo dependas de iu nerealigita kondiĉo.
 – Mi irus, se vi lasos min.  
 **tu no** ***vud*** **es suka, if mi** ***vud*** **go.**
 – Vi ne estus feliĉa, se mi irus.
+
+La helpanta verbo
+**shud**
+('devus') esprimas iu tipo de anticipo, kiel devo, postulo, rekomendeco aŭ verŝajneco.
+
+**ma voka vi. vi shud go.**
+– Patrino vokas nin. Ni devus iri.  
+**da shud haf kom pre nun.**
+– Li devus jam veni antaŭ nun.  
+**evri von shud vote.**
+– ĉiu devus voĉdoni.
+
+La imperativa modo esprimas ordonon aŭ devigon.
+En Pandunia la imperativo estas esprimita per la helpanta verbo
+**shal**.
+Oni povas uzi ĝin por ordoni ĉiu persono, ne nur "vi".
+
+**vi shal go!**
+– Ni iru!  
+**di shal kurse!**
+– Ili kuru!
+
+Oni povas uzi vorton
+**shal**
+ankaŭ por ordoni la duan personon,
+sed normale oni forlasas ĝin kaj la personan pronomon
+por fortigi ordonon.
+
+**tu shal kom!** = **kom!**
+– Venu!  
+**yu shal kom!** = **kom!**
+– Venu (vi ĉiuj)!
 
 
 ### Resumo
