@@ -1,48 +1,48 @@
-# tri behe i un gui
+# tri behe e un gui
 
-<small>trabasha de _Erjo_</small>
+<small>trabasha of _Erjo_</small>
 
-a tele pas, un gui be dom a nicha de un kio, ki transe un rivo.
-la gui ya ten un dus rupa. da ten yen, ki dai ka tasa, i nos ki long ka bele.
+a tele pas, un gui be dom a nicha of un kio, ki transe un rivo.
+da gui ye ten un dus rupa. da ten ain, ki dai ka tasa, e nos ki long ka bele.
 
-a un den, la gui ya audi un shau soni a supra de kio.
-«ke jen ya marcha a mi su kio?» la gui ya krita.
-«oh! un di zai mi, shau behe» un shau behe ya loga.
-da dai shush di loga, i fa zoku:
-«mi marcha to gazo topo, a ki mi sha yam to mi e gola».
+a un den, da gui ye audi un let son a supra of kio.
+«ke jen ye marcha a mi se kio?» da gui ye krita.
+«oh! un li nun mi, let behe» un let behe ye loga.
+da dai shush li loga, e fa zoku:
+«mi marcha to gazo stan, a ki mi vil yam to mi e gola».
 
-«zai mi kape tu!» loga la gui.
+«nun mi kape tu!» loga da gui.
 
-«no, no!», la shau buze ya loga.
-«no kape mi, a sabu de mi e shau shau. un di shau deng, i medi behe sha marce. da e mas dai».
-«oke», la gui ya loga.
+«no, no!», da let behe ye loga.
+«no kape mi, a sabab of mi e let let. un li let deng, e mide behe vil marche. da e mor dai».
+«okei», da gui ye loga.
 
-a pos de shau zaman, un soni be audi a supra de kio.
-«ke jen marcha a mi su kio?», la gui ya krita.
-«oh! e mi, medi behe. mi move to gazo topo, a ki mi sha yam to mi e gola», la medi behe ya loga.
-da no shush di loga.
+a pos of let zaman, un son be audi a supra of kio.
+«ke jen marcha a mi se kio?», da gui ye krita.
+«oh! e mi, mide behe. mi move to gazo stan, a ki mi vil yam to mi e gola», da mide behe ye loga.
+da no shush li loga.
 
-«zai mi kape tu!» la gui ya loga.
+«nun mi kape tu!» da gui ye loga.
 
-«no, no! no kape mi» la medi behe ya loga.
-«shau deng, i dai behe sha marcha. da e dai dai».
-«oke» be loga la gui.
+«no, no! no kape mi» da mide behe ye loga.
+«let deng, e dai behe vil marcha. da e dai dai».
+«okei» be loga da gui.
 
-![](http://www.pandunia.info/grafe/behe_e_gui.png "behe i gui")  
+![](http://www.pandunia.info/grafe/behe_e_gui.png "behe e gui")  
 <small>Image designed by [Ajipebriana, brgfx, upklyak / Freepik](https://www.freepik.com)</small>
 
-a pos de shau zaman, bari kelele be audi a supra de kio.
-«ke jen marcha a mi su kio?», la gui ya krita.
-«mi, dai behe», la dai behe ya loga a dai soni.
+a pos of let zaman, bari kelele be audi a supra of kio.
+«ke jen marcha a mi se kio?», da gui ye krita.
+«mi, dai behe», da dai behe ye loga a dai son.
 
-«zai mi kape tu!» la gui ya loga.
+«nun mi kape tu!» da gui ye loga.
 
-«ya, ching lai! mi ten du korne, a ki mi sha harabu tu su yen.
-mi ten du dai jeng seku, a ki mi sha parcha tu su oste.»
+«ye, plis kom! mi ten du korne, a ki mi vil harabu tu se ain.
+mi ten du dai jeng seku, a ki mi vil parcha tu se oste.»
 
-i pos la, la dai behe ya harabu gui su yen, i parcha la gui su oste, i lanse la gui to rivo.
-pos la, da marcha to gazo topo.
-a gazo topo, pan behe yam to se e gola.
-damen sun no ten la energi to fuka to dom.
-i si damen zoku no ga, damen zoku e gola.
+e pos da, da dai behe ye harabu gui se ain, e parcha da gui se oste, e lanse da gui to rivo.
+pos da, da ye marcha to gazo stan.
+a gazo stan, pan behe yam to se e gola.
+damen sun no ten da energi to fuka to dom.
+e si damen zoku no ga, damen zoku e gola.
 
