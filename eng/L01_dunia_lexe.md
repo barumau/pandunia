@@ -426,6 +426,7 @@ The original Arabic word means all kinds of writing.
 | Hindi      | kitab        | किताब             |
 | Indonesian | kitab        | kitab           |
 | Turkish    | kitap        | kitap           |
+| Hausa      | litta:fi     | littafi         |
 | Oromo      | kita:ba      | kitaaba         |
 | Swahili    | kitabu       | kitabu          |
 
