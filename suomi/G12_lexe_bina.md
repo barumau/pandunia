@@ -624,7 +624,7 @@ merkitsee 'tavallisesta poikkeavaa inhoa tai kammoa jotakin kohtaan'.
 → **rusofobia**
 'russofobia, venäläiskammo'
 
-#### -ia
+#### -ia ~ -ya
 
 Jälkiliitteelä
 **-ia**
@@ -672,6 +672,13 @@ Se ei esiinny kuitenkaan kaikkien maiden nimissä.
 'Asia'  
 **Indonesia**
 'Indonesia'
+
+Samaa jälkiliitettä käytetään toisinaan myös pienten paikkojen nimissä.
+
+**sushi**
+'sushi'
+→ **sushiya**
+'sushipaikka tai -ravintola'
 
 Jälkiliite
 **-ia**

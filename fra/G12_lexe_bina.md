@@ -113,7 +113,7 @@ Le mot dérivé peut aussi avoir un sens plus lâche par rapport à la racine.
 'caissier.e'
 
 
-#### -ia
+#### -ia ~ -ya
 
 Crée des noms collectifs.
 Il marque un groupe d'éléments nommés par la racine comme formant une unité.

@@ -88,7 +88,7 @@ Indica un campo de pericia, o una colección de técnicas para utilizar o hacer 
 'ingeniería
 
 
-#### -ia
+#### -ia ~ -ya
 
 Crea sustantivos de agregado.
 Indica un grupo o colección de elementos.

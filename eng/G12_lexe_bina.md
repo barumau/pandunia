@@ -718,7 +718,7 @@ means 'extraordinary or abnormal dislike of something'.
 → **rusofobia**
 'Russophobia, strong dislike of Russia or Russians'
 
-#### -ia
+#### -ia ~ -ya
 
 The suffix
 **-ia**
@@ -766,6 +766,13 @@ and there are also many country names that do not end in **-ia**.
 'Asia'  
 **Indonesia**
 'Indonesia'
+
+The same suffix is sometimes used also in names of smaller establishments.
+
+**sushi**
+'sushi'
+→ **sushiya**
+'sushi place or restaurant'
 
 The suffix
 **-ia**

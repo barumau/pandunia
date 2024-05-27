@@ -489,7 +489,7 @@ esprimas 'malgrandecon'.
 → **sigaret**
 'cigaredo'
 
-#### -ia
+#### -ia ~ -ya
 
 La sufikso
 **-ia**
@@ -535,6 +535,13 @@ aŭ lokon kie ili estas kolektita.
 'Azio'  
 **Indonesia**
 'Indonezio'
+
+Oni povas uzi la saman sufikson iam en nomoj de ejoj.
+
+**sushi**
+'suŝio'
+→ **sushiya**
+'suŝiejo, suŝia restoracio'
 
 La sufikso
 **-ia**
