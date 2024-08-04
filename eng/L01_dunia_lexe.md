@@ -199,17 +199,18 @@ The search reveals that there are several words that are international.
   including Telugu, Thai and Indonesian.
 
 The most prevalent of these words is /bʱaʂa/.
-It is recognised nearly everywhere in India, Indochina and Malay archipelago,
+It is recognised nearly everywhere in India, Indochina and the Malay archipelago,
 which are some of the most densely populated areas in the world.
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
-| Hindi      | bʱaʂa        | भाषा          |
-| Punjabi    | bʱaʃa         | ਭਾਸ਼ਾ          |
-| Gujarati   | bʱaʃa        | ભાષા          |
-| Marathi    | bʱaɕa        | भाषा          |
+| Hindi      | bʱa:ʂa:      | भाषा          |
+| Punjabi    | bʱa:ʃa:      | ਭਾਸ਼ਾ          |
+| Gujarati   | bʱa:ʃa:      | ભાષા          |
+| Marathi    | bʱa:ɕa:      | भाषा          |
 | Bangla     | bʱaʃa        | ভাষা           |
-| Telugu     | baʃa         | భాష          |
+| Telugu     | ba:ʃa        | భాష          |
+| Tamil      | ba:ɕai       | பாசை          |
 | Thai       | pʰa:sa:      | ภาษา         |
 | Indonesian | bahasa       | bahasa          |
 | Javanese   | basa         | basa            |
@@ -219,34 +220,47 @@ As you can see, the same word is written and pronounced differently in different
 This is typical of international words.
 They get adapted in almost every language to their own spelling system.
 Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Pandunia.
-So the Pandunia word for language becomes
-**bashe**.
+Only the root of the word is borrowed to Pandunia.
+The root is *bhāṣ-*,
+as we can see from derived words like
+Hindi द्विभाषी /dvibhāṣī/
+and
+Bangla দ্বিভাষিক /dibhaśik/.
+Both of them mean 'bilingual'.
+
+So the Pandunia root for 'language' becomes
+**bash**,
+and it serves as the root for many derived words, including
+**dubashik** (*du-bash-ik*)
+'bilingual' and
+**polibashik** (*poli-bash-ik*)
+'multilingual, polyglot'.
+
 
 ### Western words
  
 Typically Western words have this structure: prefix + root +
 suffixes. Usually the root ends in a consonant.
 
-For example in Spanish, the root cort- (short) can be combined with
-affixes to produce different kinds of words.
+For example in Spanish, the root *cort-* (short) can be combined with affixes to produce different kinds of words.
 
-- Adjectives: corto (masc.), corta (fem.)
-- Noun: cortedad
-- Verb: acortar
+- Adjectives: *cort-o* (masc.), *cort-a* (fem.)
+- Noun: *cort-edad*
+- Verb: *a-cort-ar*
 
 Also English uses comparable affixes.
 
-- Adjectives: short, shorter, shortest
-- Nouns: shortness, shorty
-- Verb: shorten
+- Adjectives: *short*, *short-er*, *short-est*
+- Nouns: *short-ness*, *short-y*
+- Verb: *short-en*
 
-Pandunia borrows the roots of Western words. The goal is to select a
-form that sounds familiar to speakers of as many languages as possible.
+Pandunia borrows the roots of Western words.
+The goal is to select a form that sounds familiar to speakers of as many languages as possible.
 
 | Pandunia word | English    | Portuguese | Spanish    | French     | German     | Russian    |
 |---------------|------------|------------|------------|------------|------------|------------|
 | **korte**     | short      | curto      | corto      | court      | kurz       | korotkiy   |
-| **nove**      | new        | novo       | nuevo      | nouveau    | neu        | novîy      |
+| **nov**       | new        | novo       | nuevo      | nouveau    | neu        | novîy      |
 | **marche**    | march      | marcha     | marcha     | marche     | Marsch     | marš       |
 | **poste**     | post (mail)| (postal)   | posta      | poste      | Post       | počta      |
 
@@ -354,7 +368,7 @@ a normal PoS suffix.
 | Kongo      | bande:la     | bandêla         |
 
 
-#### kamiza 'shirt'
+#### kamiz 'shirt'
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -462,7 +476,7 @@ The word **jen** is combined from several unrelated sources.
     - Urdu کمرا  /kəmra:/ (room)
     - Malay "kamar" (room)
 
-#### kate 'to cut'
+#### kat 'to cut'
 
 - the West
     - English "cut" /kʌt/
