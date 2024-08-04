@@ -237,10 +237,256 @@ and it serves as the root for many derived words, including
 'multilingual, polyglot'.
 
 
-### Western words
+### Examples of global words
+
+#### bir 'beer'
+
+- English *beer*
+- German *Bier*
+- French *bière* /biɛʁ/
+- Italian *birra*
+- Turkish *bira*
+- Arabic بيرَه (bīra)
+- Amharic ቢራ (bira)
+- Rwanda *byere*
+- Swahili *bia*
+- Hindi बियर (biyar)
+- Bangla বিয়ার (biyar)
+- Telugu బీరు (bīru)
+- Malay *bir*
+- Japanese ビール (bīru)
+- Wu Chinese 啤酒 (**bi**-jieu)
+- Mandarin 啤酒 (**pí**-jiǔ)
+- Vietnamese *bia*
+
+#### cha 'tea'
+
+- Mandarin 茶 (chá)
+- Japanese 茶 (cha)
+- Korean 차 (cha)
+- Vietnamese trà /tʂa/
+- Persian چای‎ (chây)
+- Bangla চা  (cha)
+- Hindi चाय (chāy)
+- Russian чай (chay)
+- Turkish *çay*
+- Arabic شاي /ʃay/
+- Hausa *shayi*
+- Fula *ataayi*
+- Swahili *chai*
+- Portuguese *chá*
+- English *cha*, *chai*, *char* 'types of tea'
+
+#### motor 'motor, engine'
+
+- English *motor*
+- Spanish *motor*
+- French *moteur*
+- Russian мотор (motor)
+- Persian موتور (motor)
+- Hindi मोटर (motar)
+- Turkish *motor*
+- Arabic موتور (mutūr)
+- Hausa *mota*
+- Swahili *mota*
+- Japanese モーター (mōtā)
+- Korean 모터 (moteo)
+- Mandarin 摩托 (mótuō)
+- Vietnamese *mô-tơ*
+
+#### sherte 'shirt'
+
+- English *shirt* /ʃɜː(ɹ)t/
+- German *T-Shirt* /ti:.ʃøːɐt/ 'T-shirt'
+- French *T-shirt* /ti.ʃɛʁt/ 'T-shirt'
+- Persian تی‌شِرْت (ti-šert) 'T-shirt'
+- Hindi टी-शर्ट (ṭī-śarṭ) 'T-shirt'
+- Bangla শার্ট (śarṭo)
+- Tamil சட்டை (caṭṭai)
+- Turkish *tişört* 'T-shirt'
+- Arabic تِي شِيرْت (tī šīrt) 'T-shirt'
+- Swahili *shati* /ʃati/
+- Yoruba *ṣẹ́ẹ̀tì*
+- Mandarin T恤衫 (tī-xùshān) 'T-shirt'
+- Cantonese 恤衫 (seot1 saam1)
+- Japanese シャツ (shatsu)
+- Korean 셔츠 (syeocheu)
+
+
+### Examples of scattered words
+
+#### amir 'order, command'
+
+Originally an Arabic word, it has been borrowed to the European languages
+as *emir* 'commander of an Islamic nation-
+and as *admiral* 'commander of a navy'.
+
+- African and Asian languages
+    - Arabic أَمْر‎ /ʾamr/ 'command'
+    - Persian امر‎ /amr/
+    - Turkish *emir*
+    - Swahili *amri*
+    - Hausa *umarni* 'to command'
+- Euro-American languages
+    - English *emir* and *admiral* 'types of commander'
+    - French *amiral* 'admiral'
+    - Russian эмир (emir)
+
+#### bandera 'flag'
+
+- Portuguese *bandeira*
+- Spanish *bandera*
+- French *bannière* /baniɛʁ/
+- English *banner* /bænəɹ/
+- Malay *bendera* /bəndera/
+- Amharic ባንዴራ (bandera)
+- Swahili *bandera*
+- Kongo *bandêla*
+
+#### kamar 'room, chamber'
+
+- Euro-American languages
+    - Italian *camera* 'chamber'
+    - Portuguese *câmara* 'chamber'
+    - Spanish *cámara* 'chamber'
+    - German *Kammer* 'chamber'
+- South Asian languages
+    - Hindi कमरा (kamrā)
+    - Urdu کمرا (kamrā)
+    - Malay *kamar*
+
+
+### Examples of unrelated but similar words
+
+#### jen 'person, people'
+
+The word **jen** is combined from several unrelated sources.
+
+- East Asian languages
+    - Mandarin 人 /ʐən/ 'person'
+    - Wu 人 /zəŋ/ 'person'
+    - Japanese 人 (jin) 'person'
+- Euro-American languages
+    - French *gens* /ʒã/ 'people'
+    - Portuguese *gente* /ʒenti/ 'people'
+- South Asian languages
+    - Hindi जन (jan) 'person, people'
+    - Bengali জন (jôn) 'counter word for people'
+    - Khmer ជន (jon) 'person, people'
+    - Thai ชน (chon) 'person, people'
+
+#### kat 'to cut'
+
+- Euro-American languages
+    - English *cut* /kʌt/
+- South Asian languages
+    - Hindi काटना (katnā)
+    - Bengali কাটা (kata)
+- Afro-Asian languages
+    - Arabic قَطَعَ (qaṭa’a)
+    - Swahili *-kata*
+- East Asian languages
+    - Wu Chinese 隔 /kɐʔ/
+    - Vietnamese *cắt* /kɐʔt/
+
+#### sui 'water'
+
+- East-Asian languages
+    - Mandarin 水 (shuǐ)
+    - Cantonese 水 (seoi)
+    - Wu Chinese 水 (su)
+	- Japanese 水 (sui)
+	- Korean 수 (su)
+    - Vietnamese *thuỷ*
+- South West Asian languages
+    - Turkish *su*
+	- Turkmen *suw*
+	- Kazakh *su*
+
+
+### Examples of Afro-Asian words
+
+#### dua 'prayer'
+
+- Arabic دعاء (duʿā)
+- Persian دعاء (do'a)
+- Hindi hin:दुआ (duā)
+- Bangla দুয়া (dua)
+- Turkish *dua*
+- Malay*doa*
+- Hausa *addu'a*
+- Yoruba *àdúrà*
+- Fula *du'aade*
+
+#### kitab 'writing'
+
+This word means 'book' in many languages.
+The original Arabic word means 'writing' in general.
+
+- Arabic كتاب (kitāb)
+- Persian کتاب (ketâb)
+- Urdu کتاب (kitāb)
+- Indonesian *kitab*
+- Turkish *kitap*
+- Hausa *littafi*
+- Oromo *kitaaba*
+- Swahili *kitabu*
+
+### Examples of East Asian words
+
+Sinitic words are words from Middle Chinese that are used today in languages of East Asia,
+including Chinese languages, Japanese, Korean and Vietnamese.
+Sinitic words are single-syllable words or compounds of syllabic elements.
+
+Middle Chinese had lexical tone. Today Chinese languages and Vietnamese have tones but they are not the same as in Middle Chinese.
+Japanese and Korean are not tonal languages so they have ignored the tones.
+Also Pandunia ignores the tones.
+(To ignore the tones is about the same as to ignore the stress accent or pitch accent in words from other source languages.)
+
+Middle Chinese had unreleased stop consonants, which are usually written in the Latin alphabet as *-p*, *-t* and *-k*.
+Cantonese, Vietnamese and Korean keep them mostly as they were.
+Mandarin has deleted them.
+Japanese has added a vowel to ease pronunciation.
+Pandunia keeps the final stops and adds an optional schwa sound.
+
+#### chut 'exit, leave'
+
+- Cantonese 出 (ceot1)
+- Mandarin 出 (chū)
+- Hakka 出 (chut)
+- Japanese 出 (shutsu)
+- Korean 출 (chul)
+- Vietnamese *xuất*
+
+#### mun 'door, opening'
+
+- Cantonese 門 (mun4)
+- Mandarin 门 (mén)
+- Japanese 門 (mon)
+- Korean 문 (mun)
+- Vietnamese *môn*
+
+#### shan 'mountain'
+
+- Mandarin 山 (shān)
+- Cantonese 山 (saan1)
+- Japanse 山 (san)
+- Korean 산 (san)
+- Vietnamese *sơn*
+
+#### shim 'hear'
  
-Typically Western words have this structure: prefix + root +
-suffixes. Usually the root ends in a consonant.
+- Mandarin 心 (xīn)
+- Cantonese 心 (sam)
+- Japanese 心 (shin)
+- Korean (sim)
+- Vietnamese *tâm*
+
+### Examples of Euro-American words
+ 
+Typically Euro-American words have the following structure:
+prefix + root + suffixes.
+In most cases the root ends in a consonant.
 
 For example in Spanish, the root *cort-* (short) can be combined with affixes to produce different kinds of words.
 
@@ -254,256 +500,32 @@ Also English uses comparable affixes.
 - Nouns: *short-ness*, *short-y*
 - Verb: *short-en*
 
-Pandunia borrows the roots of Western words.
-The goal is to select a form that sounds familiar to speakers of as many languages as possible.
+Pandunia borrows only the bare roots of Western words.
+The purpose is to select a form that sounds familiar to speakers of as many languages as possible.
 
-| Pandunia word | English    | Portuguese | Spanish    | French     | German     | Russian    |
-|---------------|------------|------------|------------|------------|------------|------------|
-| **korte**     | short      | curto      | corto      | court      | kurz       | korotkiy   |
-| **nov**       | new        | novo       | nuevo      | nouveau    | neu        | novîy      |
-| **marche**    | march      | marcha     | marcha     | marche     | Marsch     | marš       |
-| **poste**     | post (mail)| (postal)   | posta      | poste      | Post       | počta      |
+#### korte 'short'
 
+- English *short*
+- German *kurz*
+- French *court*
+- Spanish *curto*
+- Portuguese *corto*
+- Russian короткий (korotkiy)
 
-### Sinitic words
+#### nov 'new'
 
-Sinitic words are words from Middle Chinese that are used today in
-languages of East Asia, including Chinese languages, Japanese, Korean
-and Vietnamese. Sinitic words are single-syllable words or compounds
-of syllabic elements.
+- English *new*, *novel*
+- German *neu*
+- French *nouveau*
+- Spanish *nuevo*
+- Portuguese *novo*
+- Russian новый (novîy)
 
-Middle Chinese had lexical tone. Today Chinese languages and
-Vietnamese have tones but they are not the same as in Middle Chinese.
-Japanese and Korean are not tonal languages so they have ignored the
-tones. Also Pandunia ignores the tones. (To ignore the tones is about
-the same as to ignore the stress accent or pitch accent of other
-source languages.)
+#### marche 'walk'
 
-Middle Chinese had unreleased stop consonants, which are usually
-written -p, -t and -k. Cantonese, Vietnamese and Korean keep them
-mostly as they were. Mandarin has deleted them. Japanese has added a
-vowel to ease pronunciation. Pandunia keeps the final stops and adds
-a normal PoS suffix.
- 
-| 字 | Pandunia root | Cantonese  | Mandarin   | Japanese   | Korean     | Vietnamese |
-|----|---------------|------------|------------|------------|------------|------------|
-| 水 | **sui**       | sui        | shuǐ       | sui        | se         | thuỷ       |
-| 中 | **jung**      | zung       | zhōng      | chū        | jung       | trung      |
-| 心 | **shim**      | sam        | xīn        | shin       | sim        | tâm        |
-| 門 | **mun**       | mun        | mén        | mon        | mun        | (môn)      |
-| 讀 | **duk**       | duk        | dú         | doku       | dok        | đọc        |
-| 出 | **chut**      | cœt        | chū        | shutsu     | chul       | xuất       |
-
-
-### Examples of global words
-
-#### bir 'beer'
-
-| Language   | Spoken word  | Written word    |
-|------------|--------------|-----------------|
-| German     | bi:ɐ         | Bier            |
-| English    | biəɹ         | beer            |
-| French     | biɛʁ         | bière           |
-| Italian    | birra        | birra           |
-| Turkish    | bira         | bira            |
-| Arabic     | bi:ra        | بيرَه            |
-| Amharic    | bira         | ቢራ              |
-| Rwanda     | bjere        | byere           |
-| Swahili    | bia          | bia             |
-| Hindi      | bijər        | बियर             |
-| Indonesian | bir          | bir             |
-| Japanese   | bi:ru        | ビール             |
-| Wu         | bi           | 啤(酒)            |
-| Mandarin   | pʰi          | 啤(酒)            |
-
-#### cha 'tea'
-
-| Language   | Spoken word  | Written word    |
-|------------|--------------|-----------------|
-| Mandarin   | tʂʰa         | 茶 |
-| Japanese   | tʃa          | 茶 |
-| Korean     | tʃʰa         | 차 |
-| Vietnamese | tʂa          | trà             |
-| Persian    | tʃay         | چای‎ |
-| Bangla     | tʃa          | চা  |
-| Hindi      | tʃay         | चाय |
-| Russian    | tʃay         | чай             |
-| Turkish    | tʃay         | çay             |
-| Arabic     | ʃay          | شاي |
-| Hausa      | ʃayi         | shayi           |
-| Fula       | ata:yi       | ataayi          |
-| Swahili    | tʃai         | chai            |
-| Portuguese | ʃa           | chá             |
-
-
-#### motor 'motor, engine'
-
-| Language   | Spoken word  | Written word    |
-|------------|--------------|-----------------|
-| Spanish    | motor        | motor           |
-| English    | moʊtəɹ       | motor           |
-| French     | motœʁ        | moteur          |
-| Russian    | motor        | мотор           |
-| Turkish    | motor        | motor           |
-| Persian    | motor        | موتور            |
-| Arabic     | mutu:r       | موتور            |
-| Hindi      | motər        | मोटर             |
-| Japanese   | mo:ta:       | モーター         |
-| Mandarin   | muotuo       | 摩托              |
-
-
-### Examples of semiglobal words
-
-#### bandera 'flag'
-
-| Language   | Spoken word  | Written word    |
-|------------|--------------|-----------------|
-| Portuguese | bɐndeiɾa     | bandeira        |
-| Spanish    | bandeɾa      | bandera         |
-| English    | bænəɹ        | banner          |
-| French     | baniɛʁ       | bannière        |
-| Indonesian | bəndera      | bendera         |
-| Amharic    | bandera      | ባንዴራ            |
-| Swahili    | bandera      | bandera         |
-| Kongo      | bande:la     | bandêla         |
-
-
-#### kamiz 'shirt'
-
-| Language   | Spoken word  | Written word    |
-|------------|--------------|-----------------|
-| Italian    | kamitʃa      | camicia         |
-| Spanish    | kamisa       | camisa          |
-| Portuguese | kɐmiza       | camisa          |
-| French     | ʃəmiz        | chemise         |
-| Arabic     | qami:s       | قميص           |
-| Amharic    | ʃəmiz        | ሸሚዝ             |
-| Urdu       | qami:z       | قمیض           |
-| Hindi      | qami:z       | क़मीज़             |
-| Indonesian | kəmedʒa      | kemeja          |
-| Filipino   | kamisa       | kamisa          |
-
-
-### Examples of South Asian words
-
-#### pal 'fruit'
-
-| Language   | Spoken word  | Written word    |
-|------------|--------------|-----------------|
-| Hindi      | phal         | फल          |
-| Bangla     | phal         | ফল           |
-| Telugu     | phalamu      |        |
-| Tamil      | palam        | பழம்         |
-| Thai       | phon(la)     | ผน(ละ)         |
-
-
-### Examples of East Asian words
-
-#### lai 'come'
-
-| Language   | Spoken word  | Written word    |
-|------------|--------------|-----------------|
-| Mandarin   | lai          | 来 (lái)       |
-| Wu         | lɛ                   | 来           |
-| Cantonese  | loi          | 來           |
-| Vietnamese | la:i         | lại          |
-| Korean     | lɛ           | 래           |
-| Japanese   | rai          | 來           |
-
-
-
-
-### Examples of words from Arabic
-
-#### dua 'prayer'
-
-| Language   | Spoken  form | Written word    |
-|------------|--------------|-----------------|
-| Arabic     | duʿa:         | دعاء            |
-| Persian    | doʕa         | دعاء            |
-| Turkish    | dua          | dua             |
-| Kazakh     | duɣa         | дұға            |
-| Indonesian | doa          | doa             |
-| Hausa      | adduʕa       | addu'a          |
-| Yoruba     | adura        | àdúrà           |
-
-#### kitab 'writing'
-
-This word means _book_ in many languages.
-The original Arabic word means all kinds of writing.
-
-| Language   | Spoken  form | Written word    |
-|------------|--------------|-----------------|
-| Arabic     | kita:b       | كتاب             |
-| Persian    | keta:b       | کتاب             |
-| Urdu       | kitab        | کتاب             |
-| Hindi      | kitab        | किताब             |
-| Indonesian | kitab        | kitab           |
-| Turkish    | kitap        | kitap           |
-| Hausa      | litta:fi     | littafi         |
-| Oromo      | kita:ba      | kitaaba         |
-| Swahili    | kitabu       | kitabu          |
-
-
-### Examples of scattered words
-
-#### jen 'person, people'
-
-The word **jen** is combined from several unrelated sources.
-
-- East Asia
-    - Mandarin 人 /ʐən/ (person)
-    - Wu 人 /zəŋ/ (person)
-    - Japanese 人 /dʒin/ (person, in some compounds)
-- the West
-    - French "gens" /ʒã/ (people)
-    - Portuguese "gente" /ʒenti/ (people)
-- South Asia
-    - Hindi जन /dʒan/ (person, people)
-    - Bengali জন /dʒon/ (counter word for people)
-    - Thai ชน /t͡ɕʰon˧/ (person, people)
-    - Khmer ជន /cɔ:n/ (person, people)
-
-#### kamar 'room, chamber'
-
-- the West
-    - Italian "camera" (chamber)
-    - Portuguese "câmara" (chamber)
-    - Spanish "cámara" (chamber)
-    - German "Kammer" (chamber)
-- South Asia
-    - Hindi कमरा /kəmra:/ (room)
-    - Urdu کمرا  /kəmra:/ (room)
-    - Malay "kamar" (room)
-
-#### kat 'to cut'
-
-- the West
-    - English "cut" /kʌt/
-- South Asia
-    - Hindi काटना /katna:/
-    - Bengali কাটা /kata/
-- Africa
-    - Arabic قَطَعَ /qaṭa’a/
-    - Swahili "-kata"
-- East Asia
-    - Wu Chinese 隔 /kɐʔ/
-    - Vietnamese "cắt" /kɐʔt/
-
-#### amir 'order, command'
-
-Originally an Arabic word, it has been borrowed to the West as
-"emir" (commander of an Islamic nation)
-and "admiral" (commander of the navy).
-
-- Africa and Asia
-    - Arabic أَمْر‎ /ʾamr/
-    - Persian امر‎ /amr/
-    - Turkish "emir"
-    - Swahili "amri"
-    - Hausa "umarni"
-- the West
-    - English "emir" and "admiral"
-    - French "amiral" (admiral)
-    - Russian "эмир" (emir)
-
+- English *march* 'military walk'
+- German *Marsch* 'military walk'
+- French *marche* 'walk'
+- Spanish *marcha*
+- Portuguese *marcha*
+- Russian марш (marš)
