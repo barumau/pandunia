@@ -381,26 +381,26 @@ Bengali না (na).</small>
 – Who are they?
 
 
-### kua? <small>what?</small>
+### vat? <small>what?</small>
 
-**kua?**
+**vat?**
 – What?
 
-**kua es da?**
+**vat es da?**
 – What is that?
 
 **da es buk.**
 – That is a book.
 
-<small>Etymology. **kua** is from
-French *quoi*,
-Spanish *cuál*,
-English *what*.</small>
+<small>Etymology. **vat** is from
+English *what*,
+German *was*,
+and Dutch *wat*.</small>
 
 
 ### da hir <small>this</small>
 
-**kua es da hir?**
+**vat es da hir?**
 – What's this?
 
 **da hir es aple.**
@@ -409,7 +409,7 @@ English *what*.</small>
 **da es rubi aple.**
 – It is a red apple.
 
-**di sta kua?**
+**di sta vat?**
 – Where are they?
 
 **di sta hir.**
@@ -418,7 +418,7 @@ English *what*.</small>
 
 ### da der <small>that</small>
 
-**kua es da der?**
+**vat es da der?**
 – What is that?
 
 **da der es aple.**
@@ -430,7 +430,7 @@ English *what*.</small>
 **da es rubi.**
 – It is red.
 
-**di sta kua?**
+**di sta vat?**
 – Where are they?
 
 **di sta der.**
@@ -439,7 +439,7 @@ English *what*.</small>
 
 ### se <small>'s (possessive particle)</small>
 
-**da es kua?**
+**da es vat?**
 – What's this?
 
 **da es mi se telefon.**
@@ -488,13 +488,13 @@ Spanish *su*.</small>
 
 ### nam <small>name</small>
 
-**tu se nam es kua?**
+**tu se nam es vat?**
 – What's your name?
 
 **mi se nam es Tomas.**
 – My name is Thomas.
 
-**da se nam es kua?**
+**da se nam es vat?**
 – What is his/her name?
 
 **da se nam es Sara.**
@@ -609,12 +609,12 @@ Usually the object of the verb tells is it about eating, drinking or both.
 **sual tu van yam?**
 – Would you like to eat?
 
-**tu van yam kua?**
+**tu van yam vat?**
 – What would you like to eat?
 
 Tip: While English puts the "what" at the beginning of a question, in Pandunia
 the word order is not affected by the
-**kua**.
+**vat**.
 
 **mi van yam kafe.**
 – I want to drink coffee.
@@ -624,7 +624,7 @@ the word order is not affected by the
 **no. mi no van cha. mi van kafe.**
 – No, I don't want tea. I want coffee.
 
-**tu van kua aple?**
+**tu van vat aple?**
 – Which apple do you want?  
 **da rubi.**
 – This red one.
@@ -699,10 +699,10 @@ Tip: To make direct requests, drop all the pronouns.
 **perdon! mi no aha.**
 – Sorry, I don't understand.
 
-**perdon! da es kua?**
+**perdon! da es vat?**
 – Excuse me, what's this?
 
-**perdon. tu se nam es kua?**
+**perdon. tu se nam es vat?**
 – Excuse me, what's your name?
 
 
@@ -753,7 +753,7 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### loga <small>to say, speak, talk</small>
 
-**tu loga kua?**
+**tu loga vat?**
 – What did you say?
 
 **mi loga to tu.**
@@ -764,11 +764,11 @@ Tip: To make direct requests, drop all the pronouns.
 
 **von loga**
 ***cat***
-**a kua mode a pandunia?**
+**a vat mode a pandunia?**
 – How do you say "cat" in Pandunia?
 
 ***cat***
-**es kua a pandunia?**
+**es vat a pandunia?**
 – What is "cat" in Pandunia?
 
 **mau loga "miau".**
@@ -789,7 +789,7 @@ Tip: To make direct requests, drop all the pronouns.
 **mi audi muzike.**
 – I listen to music.
 
-**tu audi kua tipe li muzike?**
+**tu audi vat tip se muzike?**
 – What kind of music do you listen to?
 
 
@@ -810,16 +810,16 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### seme <small>to mean</small>
 
-**da hir lexe ye seme kua?**
+**da hir lexe ye seme vat?**
 – What does this word mean?
 
-**"mau" ye seme kua?**
+**"mau" ye seme vat?**
 – What does "mau" mean?
 
 **da seme un tipe of hevan.**
 – It means a kind of animal.
 
-**mi no aha da seme kua.**
+**mi no aha da seme vat.**
 – I don't understand what it means.
 
 
@@ -863,16 +863,16 @@ Tip: To make direct requests, drop all the pronouns.
 **go der!**
 – Go there!
 
-**tu go kua?**
+**tu go vat plas?**
 – Where are you going?
 
 **mi go haus.**
 – I'm going home.
 
-**mi mus go kua?**
+**mi mus go vat plas?**
 – Where should I go?
 
-**mi mus go to kua jen?**
+**mi mus go to vat jen?**
 – To whom should I go?
 
 **vi shal go!**
@@ -890,7 +890,7 @@ Tip: To make direct requests, drop all the pronouns.
 **plis kom!**
 – Please come!
 
-**tu kom of kua?**
+**tu kom of vat plas?**
 – Where do you come from?
 
 **mi kom of Dubai.**
@@ -908,25 +908,25 @@ Tip: To make direct requests, drop all the pronouns.
 **vi safar of London to Paris.**
 – We travel from London to Paris.
 
-**safar es ver long.**
+**safar es muche long.**
 – The voyage is very long.
 
 
 ### a <small>in, on, at</small>
 
-**hotel a kua?**
+**hotel a vat plas?**
 – Where is the hotel?
 
 **hotel a da der dau.**
 – The hotel is on that road.
 
-**tu a kua?**
+**tu a vat plas?**
 – Where are you?
 
 **mi a haus.**
 – I'm at home.
 
-**da a kua?**
+**da a vat plas?**
 – Where is he/she?
 
 **da side a kamar.**
@@ -942,7 +942,7 @@ as a preposition or alone as the verb.
 
 ### loju <small>to live, reside</small>
 
-**tu loju kua?**
+**tu loju vat plas?**
 – Where do you live?
 
 **mi loju Singapur.**
@@ -1099,19 +1099,19 @@ means _to buy_.
 
 ### tipe <small>type, kind, sort</small>
 
-**da es kua tipe?**
+**da es vat tipe?**
 – What is it like?
 
 **sual da es neu?**
 – Is it new?
 
-**kua es mas gud?**
+**vat es mas gud?**
 – Which is better?
 
 **ye es masim gud (de pan).**
 – This is the best (of all).
 
-**da kosta kua?**
+**da kosta vat?**
 – How much does it cost?  
 **no ting.**
 – Nothing.  
@@ -1162,7 +1162,7 @@ Come here / back / to us.
 
 – With pleasure!
 
-**feste shuru a kua tem?**
+**feste shuru a vat tem?**
 – When does the party begin?
 
 **tu sahi.**
@@ -1170,7 +1170,7 @@ Come here / back / to us.
 
 – Leave me alone!
 
-**kua habar?**
+**vat habar?**
 – What's new?
 -->
 

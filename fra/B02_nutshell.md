@@ -144,15 +144,15 @@ Le mot **no** met le mot qui suit à la forme négative.
 ### Questions
 
 Les mot interrogatif est
-**kua**
+**vat**
 (_quoi, qui, qu'est-che que, qu'est-che qui_).
 
 C'est l'ordre des mots d'une phrase affirmative qui sert pour les questions.
 
-**tu love kua?**
+**tu love vat?**
 – Tu aimes qui ?  
-**kua man love tu?**
+**vat man love tu?**
 – Quel homme aimes-tu ?  
-**tu love da kua li muche?**
+**tu love da hau muche?**
 – Tu l'aimes combien ?
 

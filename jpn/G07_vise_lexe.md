@@ -138,34 +138,34 @@ mi van **da hir** buk.
 
 ## 疑問代名詞
 
-**kua**
+**vat**
 は汎用の疑問代名詞です。
 「誰」や「何」を意味します。
 
-**kua?**
+**vat?**
 – 「誰?」または「何?」  
 
 
 副詞の疑問代名詞も
-**kua**
+**vat**
 を用いて
-**kua li**
+**hau**
 と表現します。
 「どのように」、「どのくらい」を意味します。
 
 
-**kua li nove?**
+**hau nove?**
 – **どれくらい**新しい?  
-**kua li koste?**
+**hau koste?**
 – **どれくらい**(費用が)かかる?  
-**kua li meni?**
+**hau meni?**
 – いくつ、いくら(**どれくらい**多い)?  
-**kua li dai?**
+**hau dai?**
 – **どのくらい**大きい?  
-**kua li let?**
+**hau let?**
 – **どのくらい**小さい?
 
-**tu have kua li dai mau?**
+**tu have hau dai mau?**
 – あなたは**どのくらいの**大きさの猫を飼っていますか?
 
 

@@ -20,20 +20,20 @@
 
 |               | Вопросительные| Указательные  | Неопределенные| Собирательные | Отрицательные |
 |:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| **ting**      | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   |
+| **ting**      | **vat ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   |
 | предмет       | что           | то            | что-то        | все           | ничто         |
-| **von**       | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    |
+| **von**       |**hu; vat von**| **da von**    | **som von**   | **evri von**  | **no von**    |
 | личность      | кто           | тот           | кто-то        | всякий        | никто         |
-| **have**      | **kua von se**| **da von se** | **som von se**|**evri von se**| **no von se** |
+| **have**      | **hu se**     | **da von se** | **som von se**|**evri von se**| **no von se** |
 | принадлежность| чей           | того          | чей-то        | всех          | ничей         |
-| **loke**      | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   |
+| **plas**      | **vat plas**  | **da plas**   | **som plas**  | **evri plas** | **no plas**   |
 | место         | где           | там           | где-то        | везде         | нигде         |
-| **tem**       | **kua tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    |
+| **tem**       | **vat tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    |
 | время         | когда         | тогда         | когда-то      | всегда        | никогда       |
-| **vei**       | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    |
+| **vei**       | **vat vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    |
 | способ        | как           | так           | как-то        | всячески      | никак         |
-| **tipe**      | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   |
+| **tip**       | **vat tip**   | **da tip**    | **som tip**   | **evri tip**  | **no tip**    |
 | качество      | какой         | такой         | какой-то      | всяческий     | никакой       |
-| **monta**     | **kua monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  |
+| **monta**     | **vat monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  |
 | количество    | сколько       | столько       | сколько-то    | целиком       | нисколько     |
 

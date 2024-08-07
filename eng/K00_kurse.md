@@ -31,7 +31,7 @@ hide:
 **da es mi se frende.**
 – That is my friend.  
 <big>☺</big>
-**da se nam es kua?**
+**da se nam es vat?**
 – What's her name?  
 <big>☻</big>
 **da se nam es Maria.**
@@ -112,7 +112,7 @@ good
 animal  
 **hu**
 who  
-**kua**
+**vat**
 what  
 **man**
 man  
@@ -137,7 +137,7 @@ your
 2. mi es Tomas.
 3. hu es tu se frende?
 4. da es Sara.
-5. tu se nam es kua?
+5. tu se nam es vat?
 6. mi se nam es ____________.
 
 
@@ -725,7 +725,7 @@ zero
 ## More Questions
 
 Content questions are asked with the interrogative pronouns
-**kua**
+**vat**
 ('what, which') and
 **hu**
 ('who').
@@ -733,28 +733,28 @@ The question can be made more specific by adding words for person, time, manner 
 
 **da es hu?**
 – What is that? / Who is (s)he?  
-**da es kua jen?**
+**da es vat jen?**
 – Who is he/she?  
-**da es kua ting?**
+**da es vat ting?**
 – What (thing) is it?  
-**kua jen kom?**
+**vat jen kom?**
 – Who is coming? (**jen** = person)  
-**tu yam a kua tem?**
+**tu yam a vat tem?**
 – When do you eat? (**tem** = time)  
-**von danse a kua vei?**
+**von danse a vat vei?**
 – How to dance? (**vei** = way, manner, style)
 
 In Pandunia, questions beginning with _why_ are asked using
-**kua sabab**.
+**vat sabab**.
 
-**kua sabab tu suka mau?**
+**vat sabab tu suka mau?**
 – Why do you like cats?
 
 Questions asking about the cause or reason of something, are answered by adding
 **of sabab**
 before the cause or reason.
 
-**kua sabab tu suka mau?**
+**vat sabab tu suka mau?**
 – Why do you like cats?  
 **of sabab di es kavai.**
 – Because they are cute.
@@ -800,9 +800,9 @@ manner, style
 
 1. hu suka supe?
 2. papa suka.
-3. kua tem da kom?
+3. vat tem da kom?
 4. pos des minute.
-5. kua sabab da no yam?
+5. vat sabab da no yam?
 6. of sabab da no suka kafe e supe.
 
 

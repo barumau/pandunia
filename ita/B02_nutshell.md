@@ -190,16 +190,16 @@ Per formulare delle domande chiuse (alle quali si può rispondere con _sì_ o _n
 – Mi vedi, no?
 
 Per formulare delle domande aperte, basta scrivere una frase affermativa e sostituire la parola in questione con
-**kua**
+**vat**
 'cosa, chi, quale'.
 
-**tu love kua?**
+**tu love vat?**
 – Chi ami?  
-**tu love kua man?**
+**tu love vat man?**
 – Che uomo ami?  
-**kua man ya love tu?**
+**vat man ya love tu?**
 – Che uomo ti ama?  
-**tu love da kua li muche?**
+**tu love da hau muche?**
 – Quanto lo/la ami?
 
 ### Comandi

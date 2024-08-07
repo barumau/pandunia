@@ -257,21 +257,21 @@ La pregunta se repuesta por repetir el alternativo elegido.
 
 Preguntas abiertas piden más información.
 En Pandunia se usan la palabra
-**kua**.
+**vat**.
 
-**piza es kua?**
+**piza es vat?**
 – ¿Qué es pizza?
 
 La palabra de pregunta se puede mover al inicio de la oración para enfasís.
 Sin embargo, a diferencia de español, el orden de las palabras también se puede dejar en paz
 
-**kua tu yam?**
+**vat tu yam?**
 – ¿Qué estás comiendo?  
-**tu yam kua?**
+**tu yam vat?**
 – ¿Estás comiendo qué?  
-**da kom a kua tem?**
+**da kom a vat tem?**
 – ¿Cuándo llega?  
-**yu vizite a kua jen se haus?**
+**yu vizite a vat jen se haus?**
 – ¿La casa de quién ustedes visitaron?
 
 

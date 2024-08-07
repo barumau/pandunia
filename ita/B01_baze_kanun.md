@@ -39,9 +39,9 @@ I pronomi possessivi sono:
 **vi se** _nostro_, **yu se** _vostro_, **di se** _loro_.
 
 I pronomi interrogativi sono:
-**kua**
+**vat**
 _cosa_ o _chi_,
-**kua se**
+**vat se**
 _di chi_.
 
 

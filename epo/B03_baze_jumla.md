@@ -326,42 +326,42 @@ Vi estas viroj.
 Ili estas pomoj.
 
 
-### kua? <small>kio? kiu?</small>
+### vat? <small>kio? kiu?</small>
 
-**kua?**
+**vat?**
 Kion?
 
-**tu es kua?**
+**tu es vat?**
 Kiu vi estas?
 **mi es Tomas.**
 Mi estas Tomaso.
 
-**da es kua?**
+**da es vat?**
 Kiu ŝi estas?
 **da es Sara.**
 Ŝi estas Sara.
 
-**yu es kua?**
+**yu es vat?**
 Kiuj vi estas?
 
-**di es kua?**
+**di es vat?**
 Kiuj ili estas?
 
-<small>Etymologio. **kua** venas
-franca *quoi*,
-hispana *cuál*,
-angla *what*.</small>
+<small>Etymologio. **vat** venas el
+angla *what*,
+ĝermana *was*,
+nederlanda *wat*.</small>
 
 
 ### da <small>tiu</small>
 
-**da hir es kua?**
+**da hir es vat?**
 Kio estas ĉi tio?
 
 **da hir es aple.**
 Ĉi tio estas pomo.
 
-**da der es kua?**
+**da der es vat?**
 Kio estas tio?
 
 **da der es aranja.**
@@ -376,7 +376,7 @@ Tiu pomo ruĝas.
 **da es rubi.**
 Ĉi tio estas ruĝe.
 
-**di sta kua?**
+**di sta vat?**
 Kie ili estas?
 
 **di sta hir.**
@@ -388,13 +388,13 @@ Ili estas tie.
 
 ### se <small>(poseda vorteto)</small>
 
-**da es kua?**
+**da es vat?**
 Kio estas ĉi tio?
 
 **da es mi se telefon.**
 Tio estas mia telefono.
 
-**da hir es kua se?**
+**da hir es vat se?**
 Tio estas kies?
 
 **da es mi se.**
@@ -408,7 +408,7 @@ signifas 'mia',
 **tu se**
 signifas 'via', kaj tiel plu.
 
-**da es kua?**
+**da es vat?**
 Who's he/she?
 
 **da es mi se frende.**
@@ -426,13 +426,13 @@ hispana *su*.</small>
 
 ### nam <small>nomo</small>
 
-**tu se nam es kua?**
+**tu se nam es vat?**
 Kio estas via nomo?
 
 **mi se nam es Tomas.**
 Mia nomo estas Tomaso.
 
-**da se nam es kua?**
+**da se nam es vat?**
 Kio estas ŝia nomo?
 
 **da se nam es Sara.**
@@ -535,12 +535,12 @@ Mi manĝas kafon kaj panon.
 **sual tu van yam?**
 Ĉu vi volas manĝi?
 
-**tu van yam kua?**
+**tu van yam vat?**
 Kion vi volas manĝi?
 
 Noto: En pandunio la demandvorto estas en la normala loko ankaŭ en demandaj frazoj.
 La vortordo ne ŝanĝas pro
-**kua**.
+**vat**.
 
 **mi van yam kafe.**
 Mi volas trinki kafon.
@@ -550,7 +550,7 @@ Mi volas trinki kafon.
 **no. mi no van cha. mi van kafe.**
 Ne. Mi ne volas teon. Mi volas kafon.
 
-**tu van kua aple?**
+**tu van vat aple?**
 Kiun pomon vi volas manĝi?  
 **da rubi.**
 Tiun ruĝan.
@@ -622,10 +622,10 @@ Mi bezonas manĝi.
 **perdon! mi no aha.**
 Pardonon, mi ne komprenas.
 
-**perdon! da es kua?**
+**perdon! da es vat?**
 Pardonon, kio estas tio?
 
-**perdon. tu se nam es kua?**
+**perdon. tu se nam es vat?**
 Pardonon, kio estas via nomo?
 
 
@@ -676,7 +676,7 @@ Pardonon, mi ne povas paroli vian lingvon.
 
 ### loga <small>diri, paroli</small>
 
-**tu loga kua?**
+**tu loga vat?**
 Kion vi diris?
 
 **mi loga to tu.**
@@ -687,11 +687,11 @@ Ni parolas unu al alia.
 
 **von loga**
 "kato"
-**a kua mode a pandunia?**
+**a vat mode a pandunia?**
 Kiel oni diras "kato" pandunie?
 
 *kato*
-**es kua a pandunia?**
+**es vat a pandunia?**
 Kio estas "kato" pandunie?
 
 **mau loga "miau".**
@@ -712,7 +712,7 @@ Bonvolu paroli pli forte.
 **mi audi muzike.**
 Mi aŭskultas muzikon.
 
-**tu audi kua sorte muzike?**
+**tu audi vat sorte muzike?**
 Kian muzikon vi aŭskultas?
 
 
@@ -732,16 +732,16 @@ Mi vidin lin/ŝin hieraŭ.
 
 ### seme <small>signifi</small>
 
-**da hir lexe ye seme kua?**
+**da hir lexe ye seme vat?**
 Kion tiu vorto signifas?
 
-**"mau" ye seme kua?**
+**"mau" ye seme vat?**
 Kion "mau" signifas?
 
 **da seme un sorte of hevan.**
 Ĝi signifas tipon de besto.
 
-**mi no aha da seme kua.**
+**mi no aha da seme vat.**
 Mi ne komprenas kion ĝi signifas.
 
 
@@ -785,16 +785,16 @@ la sŭahilia, la haŭsa, la joruba, la amhara
 **go der!**
 – Iru tien!
 
-**tu go kua?**
+**tu go vat plas?**
 Kien vi iras?
 
 **mi go haus.**
 Mi iras hejmen.
 
-**mi mus go kua?**
+**mi mus go vat plas?**
 Kien mi devas iri?
 
-**mi mus go to kua jen?**
+**mi mus go to vat jen?**
 Al kiu mi devas iri?
 
 **vi shal go!**
@@ -812,7 +812,7 @@ Ni iru piede!
 **plis kom!**
 Bonvolu veni!
 
-**tu kom of kua?**
+**tu kom of vat plas?**
 Vi venas el kie?
 
 **mi kom of Dubai.**
@@ -836,19 +836,19 @@ La vojaĝo estas tre longa.
 
 ### a <small>ĉe, en, sur</small>
 
-**hotel a kua?**
+**hotel a vat plas?**
 Kie estas la hotelo?
 
 **hotel a da der dau.**
 La hotelo estas ĉe tiu vojo.
 
-**tu a kua?**
+**tu a vat plas?**
 Kie vi estas?
 
 **mi a haus.**
 Mi estas hejme.
 
-**da a kua?**
+**da a vat plas?**
 Kie li aŭ ŝi estas?
 
 **da side a kamar.**
@@ -864,7 +864,7 @@ Mi laboras ĉe ...
 
 ### loju <small>loĝi</small>
 
-**tu loju kua?**
+**tu loju vat plas?**
 Kie vi loĝas?
 
 **mi loju Singapur.**

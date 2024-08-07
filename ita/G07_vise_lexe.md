@@ -172,27 +172,27 @@ si riferisce al contenuto della frase precedente.
 è il pronome interrogativo generico.
 Funziona come gli italiani _chi_ e _che cosa_.
 
-**kua**
+**vat**
 – cosa?  
 **hu**
 – chi?
 
-Anche gli aggettivi vengono trasformati in domanda con **kua li**.
+Anche gli aggettivi vengono trasformati in domanda con **hau**.
 
-**kua li nove?**
+**hau nove?**
 – Quanto nuovo?  
-**kua li koste?**
+**hau koste?**
 – Quanto costoso?  
-**kua li muche?**
+**hau muche?**
 – Quanti?  
-**kua li kam?**
+**hau kam?**
 – Quanto poco?  
-**kua li dai?**
+**hau dai?**
 – Quanto grande?  
-**kua li let?**
+**hau let?**
 – Quanto piccolo?
 
-**tu have kua li dai mau?**
+**tu have hau dai mau?**
 – Hai un gatto quanto grande?
 
 
@@ -200,20 +200,20 @@ Anche gli aggettivi vengono trasformati in domanda con **kua li**.
 
 | Categoria     | Interrogativo | Demonstrativo | Indefinido    | Coletivo      | Negativo      |
 |:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| **ting**      | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   |
+| **ting**      | **vat ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   |
 | Cosa          | cosa          | quella cosa   | qualcosa      | ogni cosa     | niente        |
-| **von**       | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    |
+| **von**       |**hu; vat von**| **da von**    | **som von**   | **evri von**  | **no von**    |
 | Unità         | quale         | quello        | qualcuno      | ognuno        | nessuno       |
-| **have**      | **kua von se**| **da von se** | **som von se**|**evri von se**| **no von se** |
+| **have**      | **hu se**     | **da von se** | **som von se**|**evri von se**| **no von se** |
 | Possesso      | di chi        | di quello     | di qualcuno   | di tutti      | di nessuno    |
-| **loke**      | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   |
+| **plas**      | **vat plas**  | **da plas**   | **som plas**  | **evri plas** | **no plas**   |
 | Luogo         | dove          | là quel luogo |in qualche posto| dovunque     |in nessun posto|
-| **tem**       | **kua tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    |
+| **tem**       | **vat tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    |
 | Tempo         | quando        | in quel tempo | qualche volta | sempre        | mai           |
-| **vei**       | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    |
+| **vei**       | **vat vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    |
 | Modo          | in che modo   | in quel modo  |in qualche modo| in tutti modi | in nessun modo|
-| **tipe**      | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   |
+| **tip**       | **vat tip**   | **da tip**    | **som tip**   | **evri tip**  | **no tip**    |
 | Tipo          | che tipo      | quel tipo     | qualche tipo  | orni tipo     | nessun tipo   |
-| **monta**     | **kua monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  |
+| **monta**     | **vat monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  |
 | Quantità      | quanto        |quella quantità| una quantità  | tutto quanto  | per niente    |
 

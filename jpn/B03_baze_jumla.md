@@ -313,12 +313,12 @@ hide:
 
 ### hu? <small>何? 誰?</small>
 
-**kua?**
+**vat?**
 誰?
 
 **hu es tu?**
 あなたは誰ですか? (訳注:英語の _Who are you?_ と同じで本来は失礼な言い方です。
-**tu se nam es kua?**
+**tu se nam es vat?**
 (あなたの名前は?)の方が良いと思います)  
 **mi es Tomas.**
 私はトーマスです。
@@ -332,22 +332,22 @@ hide:
 あなたたちは誰ですか?
 (訳注:これも英語の _Who are you people?_ と同じで良い意味では普通使いません。
 ただ適切な言い換えが思いつきません。
-**yu se nam es kua?**
+**yu se nam es vat?**
 (あなたたちの名前は?) では本来の意図から離れてしまいます)
 
 **hu es di?**
 彼ら/彼女ら/その人たちは誰ですか?
 
 
-### kua? <small>何?</small>
+### vat? <small>何?</small>
 
-**kua?**
+**vat?**
 何?
 
 
 ### da hir <small>これ</small>
 
-**kua es da hir?**
+**vat es da hir?**
 これは何ですか?/何これ?
 
 **da hir es aple.**
@@ -359,7 +359,7 @@ hide:
 
 ### da der <small>あれ、それ</small>
 
-**kua es da der?**
+**vat es da der?**
 あれは何ですか?
 
 **da der es aranja.**
@@ -377,7 +377,7 @@ hide:
 
 ### se <small>～の(所有する)</small>
 
-**da es kua?**
+**da es vat?**
 これは何ですか?
 
 **da es mi se telefon.**
@@ -411,13 +411,13 @@ hide:
 
 ### nam <small>名前</small>
 
-**tu se nam es kua?**
+**tu se nam es vat?**
 あなたの名前は(何ですか)?
 
 **mi se nam es Tomas.**
 私の名前はトーマスです。
 
-**da se nam es kua?**
+**da se nam es vat?**
 彼/彼女/その人の名前は(何ですか)?
 
 **da se nam es Sara.**
@@ -513,7 +513,7 @@ hide:
 **sual tu van yam?**
 あなたは食べることを望みますか?(=食べたいですか?)
 
-**tu van yam kua?**
+**tu van yam vat?**
 あなたは何を食べることを望みますか?(=何を食べたいですか?)
 
 **mi van yam kafe.**
@@ -524,7 +524,7 @@ hide:
 **no. mi no van cha. mi van kafe.**
 いいえ。私はお茶を望みません。私が望むのはコーヒーです。(=いいえ、お茶はいりません。コーヒーが欲しいです)
 
-**tu van kua aple?**
+**tu van vat aple?**
 どのリンゴが欲しいですか?  
 **da rubi.**
 この赤いのです。
@@ -590,10 +590,10 @@ hide:
 **perdon! mi no aha.**
 すみません、私には理解できません。
 
-**perdon! da es kua?**
+**perdon! da es vat?**
 すみません、これは何ですか?
 
-**perdon. tu se nam es kua?**
+**perdon. tu se nam es vat?**
 失礼ですが、あなたのお名前は?
 
 
@@ -644,7 +644,7 @@ hide:
 
 ### loga <small>～と言う、話す、喋る</small>
 
-**tu loga kua?**
+**tu loga vat?**
 あなたは何と言いましたが?
 
 **mi loga to tu.**
@@ -655,11 +655,11 @@ hide:
 
 **von loga**
 “ネコ”
-**a kua mode a pandunia?**
+**a vat mode a pandunia?**
 「猫」はパンドゥニアで何と言いますか(=どのように言いますか)?
 
 “ネコ”
-**es kua a pandunia?**
+**es vat a pandunia?**
 「猫」はパンドゥニアで何と言いますか? (訳注:答えは “ネコ” es mau.)
 
 **mau loga “miau”.**
@@ -680,7 +680,7 @@ hide:
 **mi audi muzike.**
 私は音楽を聴きます。
 
-**tu audi kua tipe li muzike?**
+**tu audi vat tipe li muzike?**
 あなたはどんなジャンルの音楽を聴きますか?
 
 
@@ -701,16 +701,16 @@ hide:
 
 ### seme <small>～という意味</small>
 
-**da hir lexe ye seme kua?**
+**da hir lexe ye seme vat?**
 この話はどういう意味ですか?
 
-**"mau" ye seme kua?**
+**"mau" ye seme vat?**
 「mau」はどういう意味ですか?
 
 **da seme un tipe of hevan.**
 それは動物の一種を意味します。
 
-**mi no aha da seme kua.**
+**mi no aha da seme vat.**
 私はそれが何を意味するか分かりません。
 
 
@@ -751,16 +751,16 @@ hide:
 
 ### go <small>行く、出かける</small>
 
-**tu go kua?**
+**tu go vat plas?**
 (あなたは)どこに出かけますか?
 
 **mi go haus.**
 私は家に向かいます。
 
-**mi mus go kua?**
+**mi mus go vat plas?**
 私はどこに行かなければなりませんか？
 
-**mi mus go to kua jen?**
+**mi mus go to vat jen?**
 私はどこの人へ行かなければならないのでしょうか?
 
 **vi shal go!**
@@ -775,7 +775,7 @@ hide:
 **plis kom!**
 こっちに来て!
 
-**tu kom of kua?**
+**tu kom of vat plas?**
 (あなたは)どこから来ましたか?
 
 **mi kom of Dubai.**
@@ -799,19 +799,19 @@ hide:
 
 ### a <small>～(の中)で、～上で、～に</small>
 
-**hotel a kua?**
+**hotel a vat plas?**
 ホテルはどこですか?
 
 **hotel a da der dau.**
 ホテルはその道にあります。
 
-**tu a kua?**
+**tu a vat plas?**
 (あなたは)どこにいますか?
 
 **mi a haus.**
 私は自宅にいます。
 
-**da a kua?**
+**da a vat plas?**
 彼女はどこにいますか?
 
 **da side a kamar.**
@@ -823,7 +823,7 @@ hide:
 
 ### loju <small>住む、居住する</small>
 
-**tu loju kua?**
+**tu loju vat plas?**
 (あなたは)どこに住んでいますか?
 
 **mi loju Singapur.**
@@ -833,9 +833,9 @@ hide:
 (あなたは)このホテルに宿泊していますか?
 
 ヒント：
-**tu loju kua**
+**tu loju vat**
 の代わりに
-**tu loju a kua?**
+**tu loju a vat?**
 と言ってもOKです。
 但し
 **loju**

@@ -13,19 +13,19 @@
 **sal!**
 – ¡Buenos!  
 <big>☺</big>
-**tu es kua?**
+**tu es vat?**
 – ¿Quién es usted?  
 <big>☻</big>
-**mi es Yusef. tu es kua?**
+**mi es Yusef. tu es vat?**
 – Yo soy Yusef. ¿Quién es usted?  
 <big>☺</big>
-**mi es Sara. da es kua?**
+**mi es Sara. da es vat?**
 Yo soy Sara. ¿Quién es?  
 <big>☻</big>
 **da es mi se frende.**
 – Es una amiga mia.  
 <big>☺</big>
-**da se nam es kua?**
+**da se nam es vat?**
 – ¿Cómo se llama?  
 <big>☻</big>
 **da se nam es Maria.**
@@ -85,7 +85,7 @@ tu
 él, ella, ello  
 **da se**
 su  
-**kua**
+**vat**
 quién? qué?  
 **es**
 ser  
@@ -110,11 +110,11 @@ animal
 
 ### Respuestas
 
-1. tu es kua?
+1. tu es vat?
 2. mi es Tomas.
-3. tu se frende es kua?
+3. tu se frende es vat?
 4. da es Sara.
-5. tu se nam es kua?
+5. tu se nam es vat?
 6. mi se nam es ........... 
 
 

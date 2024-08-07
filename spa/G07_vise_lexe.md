@@ -120,27 +120,31 @@ refiere al contenido de la oración previa.
 
 ## Pronombres interogativos
 
-**kua**
+**vat**
 es pronombre interogativo para uso general.
-Funciona como las palabras españoles _qué_, _quién_, y _cuál_.
+Funciona como las palabras españoles _qué_ y _cuál_.
 
-**kua?**
-– ¿Qué?  
+**vat**
+– ¿qué?  
+**hu**
+– ¿quién?
 
-Antes de un adjetivo, **kua li** también significa «cuán».
+Antes de un adjetivo,
+**hau**
+significa «cuán».
 
-**kua li nove?**
+**hau nove?**
 – ¿Cuán nuevo?  
-**kua li koste?**
+**hau koste?**
 – ¿Cuán caro? (¿Cuánto cuesta?)  
-**kua li muche?**
+**hau muche?**
 – ¿Cuán muchos? (¿Cuántos?)  
-**kua li dai?**
+**hau dai?**
 – ¿Cuán grande?  
-**kua li let?**
+**hau let?**
 – ¿Cuán pequeño?
 
-**tu have kua li dai mau?**
+**tu have hau dai mau?**
 – ¿Cuán grande gato es tu gato?
 
 
@@ -148,20 +152,20 @@ Antes de un adjetivo, **kua li** también significa «cuán».
 
 | Categoría     | Pregunta      | Demonstrativo | Indefinido    | Colectivo     | Negativo      |
 |:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| **ting**      | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   |
+| **ting**      | **vat ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   |
 | Objeto        | qué           | eso           | algo          | todo          | nada          |
-| **von**       | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    |
+| **von**       |**hu; vat von**| **da von**    | **som von**   | **evri von**  | **no von**    |
 | Persona       | quién         | ése           | alguien       |todos, cada uno| nadie         |
-| **have**      | **kua von se**| **da von se** | **som von se**|**evri von se**| **no von se** |
+| **have**      | **hu se**     | **da von se** | **som von se**|**evri von se**| **no von se** |
 | Pertenencia   | de quién      | de ése        | de alguien    | de todos      | de nadie      |
-| **loke**      | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   |
+| **plas**      | **vat plas**  | **da plas**   | **som plas**  | **evri plas** | **no plas**   |
 | Lugar         | dónde         | allá, ahí     | en algún lugar| en todos lados| en ningún lado|
-| **tem**       | **kua tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    |
+| **tem**       | **vat tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    |
 | Tiempo        | cuándo        | entonces      | alguna vez    | siempre       | nunca         |
-| **vei**       | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    |
+| **vei**       | **vat vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    |
 | Modo          | cómo          | así, tan      | de algún modo | de todos modos| de ningún modo|
-| **tipe**      | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   |
+| **tip**       | **vat tip**   | **da tip**    | **som tip**   | **evri tip**  | **no tip**    |
 | Cualidad      | cómo          | tal           | algún         | cada, todo    | ningún        |
-| **monta**     | **kua monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  |
+| **monta**     | **vat monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  |
 | Cantidad      | cuánto        | tanto         | algo, un poco | todo monto    | nada          |
 

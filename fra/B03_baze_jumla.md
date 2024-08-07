@@ -1,6 +1,6 @@
 ﻿# Le pandunia mot à mot
 
-### Introduction
+## Introduction
 
 Le pandunia est une langue construite conçue pour être relativement
 aisée pour tout le monde. Vous pouvez l’apprendre rapidement avec ce
@@ -327,33 +327,45 @@ en français *non*.</small>
 
 
 
-### kua? <small>Quoi ? Qui ? Quel ?</small>
+### hu? <small>Qui ?</small>
 
-**kua?**
+**vat?**
 – Quoi ?
 
-**tu es kua?**
+**hu es tu?**
 – Qui es-tu ?  
 **mi es Tomas.**
 – Je suis Thomas.
 
-**da es kua?**
+**hu es da?**
 – Qui est-il/elle ?  
 **da es Sara.**
 – C'est Sara.
 
-**yu es kua?**
+**hu es yu?**
 – Qui êtes-vous ?
 
-**di es kua?**
+**hu es di?**
 – Qui sont-ils ?
 
+
+### vat? <small>Quoi ? Quel ?</small>
+
+**vat?**
+– Quoi ?
+
+**vat es da?**
+– Qu'est-ce que c'est ?
+
+**da es buk.**
+– C'est un livre.
+
 <small>Étymologie :
-**kua**
+**vat**
 vient de
-la français *quoi*,
-l'espagnol *cuál*,
-et l'anglais *what*.</small>
+l'anglais *what*,
+l'allemand *was*,
+et le néerlandais *wat*.</small>
 
 
 
@@ -362,7 +374,7 @@ et l'anglais *what*.</small>
 **da hir es aple.**
 – Qu’est-ce que c’est que ceci ?
 
-**da der es kua?**
+**da der es vat?**
 – Qu’est-ce que c’est que ça ?
 
 **da es aple.**
@@ -380,13 +392,13 @@ et l'anglais *what*.</small>
 
 ### se <small>particule possessive</small>
 
-**da es kua?**
+**da es vat?**
 – Qu'est-ce que c'est ?
 
 **da es mi se telefon.**
 – C'est mon téléphone.
 
-**da hir es kua se?**
+**da hir es hu se?**
 – À qui est-ce ?
 
 **da es mi se.**
@@ -401,7 +413,7 @@ signifie "mon, ma, mes",
 **tu se**
 signifie "ton, ta, tes" et ainsi de suite.
 
-**da es kua?**
+**da es hu?**
 – Qui est-ce ?
 
 **da es mi se frende.**
@@ -417,13 +429,13 @@ et de l'espagnol *su*.</small>
 
 ### nam <small>nom</small>
 
-**tu se nam es kua?**
+**tu se nam es vat?**
 – Quel est ton nom?
 
 **mi se nam es Tomas.**
 – Mon nom est Thomas.
 
-**da se nam es kua?**
+**da se nam es vat?**
 – Quel est son nom ?
 
 **da se nam es Sara.**
@@ -540,12 +552,12 @@ Habituellement, l’objet du verbe dit s’il s’agit de quelque chose qu’on 
 **sual tu van yam?**
 – Est-ce que tu veux manger ?
 
-**tu van yam kua?**
+**tu van yam vat?**
 – Qu’est-ce que tu veux manger ?
 
 Astuce : en français, à l’écrit, le « quoi » est plutôt en début de question, mais en pandunia,
 l’ordre des mots n’est pas changé par
-**kua**,
+**vat**,
 un peu comme en français à l’oral : « tu veux manger quoi ? ».
 
 **mi van yam kafe.**
@@ -556,7 +568,7 @@ un peu comme en français à l’oral : « tu veux manger quoi ? ».
 **no. mi no van cha. mi van kafe.**
 – Non, Je ne veux pas de thé. Je veux du café.
 
-**tu van kua aple?**
+**tu van vat aple?**
 – Quelle pomme veux-tu ?  
 **da rubi.**
 – La rouge. (mot à mot _cette rouge-ci_)
@@ -632,10 +644,10 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 **perdon! mi no aha.**
 – Désolé, je ne comprends pas.
 
-**perdon! da es kua?**
+**perdon! da es vat?**
 – Excusez-moi, qu’est-ce que c’est ?
 
-**perdon. tu se nam es kua?**
+**perdon. tu se nam es vat?**
 – Pardon, quel est ton nom ?
 
 
@@ -697,11 +709,11 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 **von loga**
 ***chat***
-**a kua mode a pandunia?**
+**a vat mode a pandunia?**
 – Comment se dit « chat » en pandunia ?
 
 ***chat***
-**es kua a pandunia?**
+**es vat a pandunia?**
 – Qu’est-ce que c’est, « chat», en pandunia ?
 
 **mau loga "miau".**
@@ -722,7 +734,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 **mi audi muzike.**
 – J’écoute de la musique.
 
-**tu audi kua sorte muzike?**
+**tu audi vat tip se muzike?**
 – Quel genre de musique est-ce que tu écoutes ?
 
 
@@ -743,16 +755,16 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 ### seme <small>signifier, vouloir dire</small>
 
-**da hir lexe ye seme kua?**
+**da hir lexe ye seme vat?**
 – Que veut dire ce mot ?
 
-**"mau" ye seme kua?**
+**"mau" ye seme vat?**
 – Que signifie « maw » ?
 
 **da seme un sorte of hevan.**
 – Ça signifie un genre d’animal.
 
-**mi no aha da seme kua.**
+**mi no aha da seme vat.**
 – Je ne comprend pas ce que cela signifie.
 
 
@@ -796,16 +808,16 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 **go der!**
 – Va là-bas !
 
-**tu go kua?**
+**tu go vat plas?**
 – Où vas-tu ?
 
 **mi go haus.**
 – Je vais à la maison.
 
-**mi mus go kua?**
+**mi mus go vat plas?**
 – Où est-ce que je dois aller ?
 
-**mi mus go to kua jen?**
+**mi mus go to vat jen?**
 – Je devrais aller (voir) qui ?
 
 **vi shal go!**
@@ -823,7 +835,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 **plis kom!**
 – S'il vous plaît viens !
 
-**tu kom of kua?**
+**tu kom of vat plas?**
 – D’où viens-tu ?
 
 **mi kom of Dubai.**
@@ -847,19 +859,19 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 
 ### a <small>dans, sur, à</small>
 
-**hotel a kua?**
+**hotel a vat plas?**
 – Où est l’hôtel ?
 
 **hotel a da der dau.**
 – L’hôtel est sur cette route.
 
-**tu a kua?**
+**tu a vat plas?**
 – Où es-tu ?
 
 **mi a haus.**
 – Je suis à la maison. / Je suis chez moi.
 
-**da a kua?**
+**da a vat plas?**
 – Où est-il/elle ?
 
 **da side a kamar.**
@@ -875,7 +887,7 @@ comme préposition ou tout seul comme un verbe.
 
 ### loju <small>vivre, habiter, résider</small>
 
-**tu loju kua?**
+**tu loju vat plas?**
 – Où est-ce que tu habites ?
 
 **mi loju Singapur.**

@@ -31,7 +31,7 @@ hide:
 **da es mi se frende.**
 = Hän on minun ystäväni.  
 <big>☺</big>
-**da se nam es kua?**
+**da se nam es vat?**
 = Mikä hänen nimensä on?  
 <big>☻</big>
 **da se nam es Maria.**
@@ -110,7 +110,7 @@ hyvä
 eläin
 **hu**
 kuka  
-**kua**
+**vat**
 mikä  
 **man**
 mies  
@@ -135,7 +135,7 @@ sinun
 2. mi es Tomas.
 3. hu es tu se frende?
 4. da es Sara.
-5. tu se nam es kua?
+5. tu se nam es vat?
 6. mi se nam es ........... 
 
 
@@ -691,30 +691,30 @@ nolla
 ## Muita kysymyksiä
 
 Asioiden kysymiseen käytetään kysymyssanoja
-**kua**
+**vat**
 ('mikä') ja
 **hu**
 ('kuka').
 
 **da es hu?**
 = Mikä se on? / Kuka hän on?  
-**da es kua jen?**
+**da es vat jen?**
 = Kuka (henkilö) hän on?  
-**da es kua ting?**
+**da es vat ting?**
 = Mikä (asia) se on?
 
-**kua jen kom?**
+**vat jen kom?**
 = Kuka tulee? (**jen** = henkilö)  
-**tu yam a kua tem?**
+**tu yam a vat tem?**
 = Mihin aikaan sinä syöt? (**tem** = aika)  
-**von danse a kua vei?**
+**von danse a vat vei?**
 = Miten tanssitaan? (**vei** = tapa)
 
 Miksi-kysymykset aloitetaan sanomalla
-**kua sabab**
+**vat sabab**
 ('minkä vuoksi').
 
-**kua sabab tu suka mau?**
+**vat sabab tu suka mau?**
 = Minkä takia sinä tykkäät kissoista?
 
 Miksi-kysymykseen vastataan panemalla sana
@@ -722,7 +722,7 @@ Miksi-kysymykseen vastataan panemalla sana
 ennen syytä.
 **sabab**
 
-**kua sabab tu suka mau?**
+**vat sabab tu suka mau?**
 = Minkä takia sinä tykkäät kissoista?  
 **of sabab di es kavai.**
 = Sen takia että ne ovat söpöjä.
@@ -765,9 +765,9 @@ aika
 
 1. hu suka supe?
 2. papa suka.
-3. kua tem da kom?
+3. vat tem da kom?
 4. pos des minute.
-5. kua sabab da no yam?
+5. vat sabab da no yam?
 6. of sabab da no suka kafe e supe.
 
 

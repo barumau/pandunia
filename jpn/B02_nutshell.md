@@ -134,7 +134,7 @@ mi van sepe **no** da hir ama da der.
 ### 質問
 
 質問に使う単語は次の通りです。
-**kua**
+**vat**
 (どの、何)。
 **hu**
 (誰)。
@@ -142,8 +142,8 @@ mi van sepe **no** da hir ama da der.
 
 tu love **hu**?
 – あなたは**誰**が好きですか?  
-tu love **kua** man?
+tu love **vat** man?
 – **どの**男が好きですか?  
-tu **kua** <u>muche</u> love mi?
+tu **vat** <u>muche</u> love mi?
 – あなたは私を**どれ**<u>くらい</u>愛していますか?
 

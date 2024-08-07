@@ -209,16 +209,16 @@ aŭ aldoni **he** 'ĉu' je la fino de la frazo.
 – Vi vidas min, ĉu?
 
 Por demandi _ki_-demandon skribu la normala frazo kaj anstataŭigu la demanditan vorton per
-**kua**
+**vat**
 'kio, kiu'.
 
-**tu love kua?**
+**tu love vat?**
 – Kiun vi amas?  
-**tu love kua man?**
+**tu love vat man?**
 – Kiun viron vi amas?  
-**kua man ye love tu?**
+**vat man ye love tu?**
 – Kiu viro amas vin?  
-**tu love da kua li muche?**
+**tu love da hau muche?**
 – Kiom multe vi amas lin?
 
 ### Ordonojn

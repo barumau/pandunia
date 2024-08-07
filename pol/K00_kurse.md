@@ -22,7 +22,7 @@ hide:
 **da es mi se frende.**
 = To mój przyjaciel.  
 <big>☺</big>
-**da se nam es kua?**
+**da se nam es vat?**
 = Jak się nazywa?  
 <big>☻</big>
 **da se nam es Maria.**
@@ -89,7 +89,7 @@ dobry, dobrze
 zwierzę
 **hu**
 kto  
-**kua**
+**vat**
 co  
 **man**
 mężczyzna  
@@ -114,7 +114,7 @@ twój
 2. mi es Tomas.
 3. hu es tu se frende?
 4. da es Sara.
-5. tu se nam es kua?
+5. tu se nam es vat?
 6. mi se nam es ____________.
 
 
@@ -634,23 +634,23 @@ zero
 Do zadawania pytań, które zaczynają się w języku polskim zaimkami pytajnymi innymi niż _czy_, używany jest zazwyczaj zaimek
 **hu**
 ('kto')
-**kua**
+**vat**
 ('co').
 Pytanie może zostać skonkretyzowane przez użycie słów na osobę, czas, sposób lub rzecz, jeśli trzeba.
 
 **da es hu?**
 – Cot to jest? / Kim on/ona jest?
-**kua jen lai?**
+**vat jen lai?**
 – Kto przychodzi? (**jen** = osoba)  
-**tu yam a kua tem?**
+**tu yam a vat tem?**
 – Kiedy jesz? (**zaman** = czas)  
-**von danse a kua vei?**
+**von danse a vat vei?**
 – Jak tańczyć? (**vei** = sposób, styl)
 
 W Panduni pytania zaczynające się w polskim na _dlaczego_ są zadawane przez
-**kua sabab**.
+**vat sabab**.
 
-**kua sabab tu suka mau?**
+**vat sabab tu suka mau?**
 – Dlaczego lubisz koty?
 
 Na pytania o przyczynę, lub powód czegoś, odpowiada się dodając
@@ -659,7 +659,7 @@ przed przyczyną lub powodem.
 **of sabab**
 jest tak naprawdę bierny czasownik znaczący _być spowodowanym przez_.
 
-**kua sabab tu suka mau?**
+**vat sabab tu suka mau?**
 – Dlaczego lubisz koty?  
 **of sabab di es kavai.**
 – Ponieważ są słodkie.
@@ -702,9 +702,9 @@ sposób, styl
 
 1. hu suka supe?
 2. papa suka.
-3. kua tem da kom?
+3. vat tem da kom?
 4. pos des minute.
-5. kua sabab da no yam?
+5. vat sabab da no yam?
 6. of sabab da no suka kafe e supe.
 
 

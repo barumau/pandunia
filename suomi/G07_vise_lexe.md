@@ -101,7 +101,7 @@ Panduniassa osoittavat pronomiinit toimivat subjekteina ja objekteina samalla ta
 
 Panduniassa on kaksi kysyvää pronominia.
 
-**kua?**
+**vat?**
 – mikä  
 **hu**
 – kuka
@@ -109,13 +109,13 @@ Panduniassa on kaksi kysyvää pronominia.
 Kysymyssana sijoittuu lausekkeessa kysyttävän asian paikalle.
 Sitä ei siis sijoiteta lausekkeen alkuun toisin kuin yleensä suomen kielessä.
 
-**kua es da?**
+**vat es da?**
 – Mikä se on?  
 **hu es da?**
 – Kuka hän on?  
-**yu van kua?**
+**yu van vat?**
 – Mitä sinä haluat?  
-**kua es a meza.**
+**vat es a meza.**
 – Mitä on pöydällä?  
 **hu es in haus.**
 – Kuka on talossa?
@@ -129,22 +129,22 @@ Omistusta kysyvä pronomini rakennetaan samalla tavalla kuin muutkin omistuspron
 – Kenen talo tuo on?
 
 Adjektiivit voi saattaa kyseenalaisiksi sanalla
-**kua li**.
+**hau**.
 
-**kua li nove?**
+**hau nove?**
 – Kuinka uusi?  
-**kua li koste?**
+**hau koste?**
 – Minkä hintainen? Kuinka kallis?  
-**kua li meni?**
+**hau meni?**
 – Kuinka monta?  
-**kua li kam?**
+**hau kam?**
 – Kuinka vähän?  
-**kua li dai?**
+**hau dai?**
 – Kuinka iso?  
-**kua li let?**
+**hau let?**
 – Kuinka pieni?
 
-**tu have kua li dai mau?**
+**tu have hau dai mau?**
 – Kuinka iso kissa sinulla on?
 
 
@@ -156,20 +156,20 @@ Pandunian pro-sanat voidaan järjestää säännönmukaisesti taulukkoon kuten a
 
 | Kategoria     | Kysyvät       | Osoittavat    | Epämääräiset  | Kaikenkattavat| Kieltävät     | Vaihtoehtoiset| Sallivat      |
 |:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| **ting**      | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   | **otre ting** | **eni ting**  |
+| **ting**      | **vat ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   | **otre ting** | **eni ting**  |
 | Asia          | mikä          | tuo asia      | jokin         | kaikki        | ei mikään     | toinen, muu   | mikä tahansa  |
-| **von**       | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    | **otre von**  | **eni von**   |
+| **von**       |**hu; vat von**| **da von**    | **som von**   | **evri von**  | **no von**    | **otre von**  | **eni von**   |
 | Henkilö       | kuka          | tuo henkilö   | joku          | jokainen      | ei kukaan     | toinen, muu   | kuka tahansa  |
-| **have**      | **kua von se**| **da von se** | **som von se**|**evri von se**| **no von se** |**otre von se**| **eni von se**|
+| **have**      | **hu se**     | **da von se** | **som von se**|**evri von se**| **no von se** |**otre von se**| **eni von se**|
 | Omistus       | kenen         | tuon henkilön | jonkun        | jokaisen      | ei kenenkään  | toisen        | kenen tahansa |
-| **loke**      | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   | **otre loke** | **eni loke**  |
+| **plas**      | **vat plas**  | **da plas**   | **som plas**  | **evri plas** | **no plas**   | **otre plas** | **eni plas**  |
 | Paikka        | missä         | tuolla        | jossakin      | kaikkialla    | ei missään    | toisaalla     | missä tahansa |
-| **tem**       | **kua tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    | **otre tem**  | **eni tem**   |
+| **tem**       | **vat tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    | **otre tem**  | **eni tem**   |
 | Aika          | milloin       | silloin       | joskus        | aina          | ei koskaan    | toiste        |milloin tahansa|
-| **vei**       | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    | **otre vei**  | **eni vei**   |
+| **vei**       | **vat vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    | **otre vei**  | **eni vei**   |
 | Tapa          | miten         | siten         | jotenkin      | kaikin tavoin | ei mitenkään  | muuten        | miten tahansa |
-| **tipe**      | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   | **otre tipe** | **eni tipe**  |
+| **tip**       | **vat tip**   | **da tip**    | **som tip**   | **evri tip**  | **no tip**    | **otre tip**  | **eni tip**   |
 | Laatu         | millainen     | tuollainen    | jonkinlainen  | kaikenlainen  |ei minkään lainen|toisen lainen|millainen tahansa|
-| **monta**     | **kua monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  | **otre monta**| **eni monta** |
+| **monta**     | **vat monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  | **otre monta**| **eni monta** |
 | Määrä         | montako       | noin monta    | jonkin verran | kaikki        | ei yhtään     | toisen verran |kuinka paljon tahansa|
 

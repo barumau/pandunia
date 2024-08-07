@@ -71,25 +71,25 @@ _me_ ou _moi-même_, _te_ ou _toi-même_, _se_, _lui-même_, _elle(s)-même_ ou 
 
 ## Les pronoms interrogatifs
 
-**kua**
+**vat**
 est un pronom interrogatif universel.
 Il correspond en français à _qui_, _qui est-ce qui_, _qui est-ce que_ (personne) et _que_, _quoi_, _qu'est-ce qui_, _qu'est-ce que_ (chose).
 
 
-**kua li** peut être aussi suivi d'un adjectif pour poser une question.
+**hau** peut être aussi suivi d'un adjectif pour poser une question.
 
-**kua li nove?**
+**hau nove?**
 – Quel degré de nouveauté ? (Comment neuf?)  
-**kua li koste?**
+**hau koste?**
 – Quel prix ? (Comment cher ?)  
-**kua li muche?**
+**hau muche?**
 – Combien ? En quelle quantité ? (Comment beaucoup ?)  
-**kua li dai?**
+**hau dai?**
 – Quelle taille ? (Comment grand ?)  
-**kua li sgud?**
+**hau sgud?**
 – Quelle taille ? (Comment petit ?)
 
-**tu have kua li dai mau?**
+**tu have hau dai mau?**
 – Quelle taille fait le chat que tu as? (Tu as un chat comment grand ?)
 
 
@@ -97,20 +97,20 @@ Il correspond en français à _qui_, _qui est-ce qui_, _qui est-ce que_ (personn
 
 | Catégorie     | Interrogatif  | Démonstratif  | Indéfini      | Collectif     | Négatif       |
 |:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| **ting**      | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   |
+| **ting**      | **vat ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   |
 | Chose         | que           | cette chose   | quelque chose | toute chose   | aucune chose  |
-| **von**       | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    |
+| **von**       |**hu; vat von**| **da von**    | **som von**   | **evri von**  | **no von**    |
 | Individu      | qui           | cette personne| quelqu'un     | toute personne| aucun         |
-| **have**      | **kua von se**| **da von se** | **som von se**|**evri von se**| **no von se** |
+| **have**      | **hu se**     | **da von se** | **som von se**|**evri von se**| **no von se** |
 | Possession    | de qui        | de celui-là   | de quelqu'un  | de tous       | de nul        |
-| **loke**      | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   |
+| **plas**      | **vat plas**  | **da plas**   | **som plas**  | **evri plas** | **no plas**   |
 | Lieu          | où            | là            | quelque part  | partout       | nulle part    |
-| **tem**       | **kua tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    |
+| **tem**       | **vat tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    |
 | Temps         | quand         | à ce moment   | un fois       | à tout moment | à aucun moment|
-| **vei**       | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    |
+| **vei**       | **vat vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    |
 | Manière       | comment       | comme cela|d'une manière quelconque|de toute manière|d'aucun manière|
-| **tipe**      | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   |
+| **tip**       | **vat tip**   | **da tip**    | **som tip**   | **evri tip**  | **no tip**    |
 | Qualité       |de quelle sorte| de cette sorte|d'une quelconque sorte|de tout sorte|d'aucune sorte|
-| **monta**     | **kua monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  |
+| **monta**     | **vat monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  |
 | Quantité      | combien       | cette quantité| un peu        |toute la quantité| rien du tout|
 

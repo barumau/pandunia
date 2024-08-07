@@ -60,7 +60,7 @@ The possessive pronouns are:
 'their'.
 
 The interrogative pronouns are:
-**kua**
+**vat**
 'what',
 **hu**
 'who',

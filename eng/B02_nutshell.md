@@ -212,18 +212,18 @@ To ask _yes–or–no_ questions, replace the verb with "(verb) **no** (verb)" p
 – You see me, eh?
 
 To ask a content question, write a normal sentence and replace the word in question with
-**kua**
+**vat**
 'what' or
 **hu**
 'who'.
 
 **tu love hu?**
 – Who do you love?  
-**tu love kua man?**
+**tu love vat man?**
 – Which man do you love?  
-**kua man ye love tu?**
+**vat man ye love tu?**
 – Which man loves you?  
-**tu love da kua li much?**
+**tu love da hau muche?**
 – How much do you love him?
 
 ### Commands

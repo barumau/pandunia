@@ -212,18 +212,18 @@ Para averiguar _si-o-no_ preguntando, cambiamos el verbo por el patrón "(verbo)
 – ¿Cierto que me viste?
 
 Para averiguar un contenido, escribimos la oracion normalmente, y la volvemos una pregunta cuando reemplazamos la incógnita con la palabra
-**kua**
+**vat**
 'qué, cuál' or
 **hu**
 'quién'.
 
 **tu love hu?**
 – ¿a quién amas?  
-**tu love kua man?**
+**tu love vat man?**
 – ¿a cuál persona amas?  
-**kua man ye love tu?**
+**vat man ye love tu?**
 – ¿qué persona te ama?  
-**tu love da kua li much?**
+**tu love da hau much?**
 – ¿qué tanto le amas?
 
 ### Órdenes

@@ -356,26 +356,26 @@ banglan না (na).</small>
 – Keitä he ovat?
 
 
-### kua? <small>mikä? kuka?</small>
+### vat? <small>mikä? kuka?</small>
 
-**kua?**
+**vat?**
 – Mitä?
 
-**kua es da?**
+**vat es da?**
 – Mikä tuo on?
 
 **da es buk.**
 – Se on kirja.
 
-<small>Sanan **kua** lähteitä ovat
-ranskan *quoi*,
-espanjan *cuál*,
-englannin *what*.</small>
+<small>Sanan **vat** lähteitä ovat
+englannin *what*,
+saksan *was*,
+hollannin *wat*.</small>
 
 
 ### da hir <small>tämä</small>
 
-**kua es da hir?**
+**vat es da hir?**
 – Mikä tämä on?
 
 **da hir es aple.**
@@ -384,7 +384,7 @@ englannin *what*.</small>
 **da es rubi aple.**
 – Se on punainen omena.
 
-**di sta kua?**
+**di sta vat?**
 – Missä he ovat?
 
 **di sta hir.**
@@ -393,7 +393,7 @@ englannin *what*.</small>
 
 ### da der <small>tuo</small>
 
-**da der es kua?**
+**da der es vat?**
 – Mikä tuo on?
 
 **da der es aple.**
@@ -405,7 +405,7 @@ englannin *what*.</small>
 **da es rubi.**
 – Se on punainen.
 
-**di sta kua?**
+**di sta vat?**
 – Missä he ovat?
 
 **di sta der.**
@@ -414,7 +414,7 @@ englannin *what*.</small>
 
 ### se <small>-n (omistuspartikkeli)</small>
 
-**da es kua?**
+**da es vat?**
 – Mikä tämä on?
 
 **da es mi se telefon.**
@@ -464,13 +464,13 @@ espanjan *su*.</small>
 
 ### nam <small>nimi</small>
 
-**tu se nam es kua?**
+**tu se nam es vat?**
 – Mikä sinun nimesi on?
 
 **mi se nam es Tomas.**
 – Minun nimeni on Tomas.
 
-**da se nam es kua?**
+**da se nam es vat?**
 – Mikä hänen nimensä on?
 
 **da se nam es Sara.**
@@ -576,11 +576,11 @@ koska yleensä tekemisen kohde tarkentaa, onko kyse syömisestä, juomisesta vai
 **sual tu van yam?**
 – Haluaisitko syödä?
 
-**tu van yam kua?**
+**tu van yam vat?**
 – Mitä haluaisit syödä?
 
 Vinkki: Suomessa kysymyssana on yleensä lauseen alussa, mutta panduniassa
-**kua**
+**vat**
 on samalla paikalla kuin normaalissakin lauseessa.
 
 **mi van yam kafe.**
@@ -591,7 +591,7 @@ on samalla paikalla kuin normaalissakin lauseessa.
 **no. mi no van cha. mi van kafe.**
 – Ei, minä en halua teetä. Minä haluan kahvia.
 
-**tu van kua aple?**
+**tu van vat aple?**
 – Minkä omenan haluat?
 **da rubi.**
 – Tuon punaisen.
@@ -669,10 +669,10 @@ kun panduniassa käytetään sanaa
 **perdon! mi no aha.**
 – Anteeksi, minä en ymmärrä.
 
-**perdon! da es kua?**
+**perdon! da es vat?**
 – Anteeksi, mikä tämä on?
 
-**perdon. tu se nam es kua?**
+**perdon. tu se nam es vat?**
 – Anteeksi, mikä sinun nimi on?
 
 
@@ -723,7 +723,7 @@ Ymmärrätkö minua?
 
 ### loga <small>sanoa, puhua</small>
 
-**tu loga kua?**
+**tu loga vat?**
 – Mitä sinä sanoit?
 
 **mi loga to tu.**
@@ -734,11 +734,11 @@ Ymmärrätkö minua?
 
 **von loga**
 "kissa"
-**a kua mode a pandunia?**
+**a vat mode a pandunia?**
 – Miten sanotaan "kissa" panduniaksi?
 
 ***kissa***
-**es kua a pandunia?**
+**es vat a pandunia?**
 – Mikä "kissa" on panduniaksi?
 
 **mau loga "miau".**
@@ -759,7 +759,7 @@ Puhuisitko kovempaa.
 **mi audi muzike.**
 Minä kuuntelen musiikkia.
 
-**tu audi kua tipe li muzike?**
+**tu audi vat tip se muzike?**
 Minkälaista musiikkia sinä kuuntelet?
 
 
@@ -780,16 +780,16 @@ Minkälaista musiikkia sinä kuuntelet?
 
 ### seme <small>tarkoittaa</small>
 
-**da hir lexe ye seme kua?**
+**da hir lexe ye seme vat?**
 – Mitä tämä sana tarkoittaa?
 
-**"mau" ye seme kua?**
+**"mau" ye seme vat?**
 – Mitä "mau" tarkoittaa?
 
 **da seme un tipe of hevan.**
 – Se tarkoittaa eräänlaista eläintä.
 
-**mi no aha da seme kua.**
+**mi no aha da seme vat.**
 – Minä en ymmärrä mitä se tarkoittaa.
 
 
@@ -833,22 +833,22 @@ Minkälaista musiikkia sinä kuuntelet?
 **go der!**
 – Mene tuonne!
 
-**tu go kua?**
+**tu go vat plas?**
 – Minne sinä menet?
 
 **mi go haus.**
 – Minä menen kotiin.
 
-**mi mus go kua?**
+**mi mus go vat plas?**
 – Minne minun pitää mennä?
 
-**mi mus go to kua jen?**
+**mi mus go to vat jen?**
 – Kenen luoksen minun pitää mennä?
 
 **vi shal go!**
 – Menkäämme!
 
-**vi shal go a fute**
+**vi shal go a fut**
 – Menkäämme jalan!
 
 
@@ -857,7 +857,7 @@ Minkälaista musiikkia sinä kuuntelet?
 **plis kom!**
 – Tule tänne!
 
-**tu kom of kua?**
+**tu kom of vat plas?**
 – Mistä sinä tulet?
 
 **mi kom of Dubai.**
@@ -875,25 +875,25 @@ Minkälaista musiikkia sinä kuuntelet?
 **vi safar of London to Paris.**
 – Me matkustamme Lontoosta Pariisiin.
 
-**safar es ver long.**
+**safar es muche long.**
 – Matka on hyvin pitkä.
 
 
 ### a <small>luona, kanssa, -lla, -ssa</small>
 
-**hotel a kua?**
+**hotel a vat plas?**
 – Missä hotelli on?
 
 **hotel a da der dau.**
 – Hotelli on tuolla tiellä.
 
-**tu a kua?**
+**tu a vat plas?**
 – Missä sinä olet?
 
 **mi a haus.**
 – Olen kotona.
 
-**da a kua?**
+**da a vat plas?**
 – Missä hän on?
 
 **da side a kamar.**
@@ -909,7 +909,7 @@ voi käyttää yksinään ilman verbiä.
 
 ### loju <small>asua</small>
 
-**tu loju kua?**
+**tu loju vat?**
 – Missä sinä asut?
 
 **mi loju Singapur.**
@@ -940,60 +940,60 @@ voi käyttää yksinään ilman verbiä.
 
 ### bi <small>parhaillaan</small>
 
-**mi bi sal tu se frende.**  
+**mi bi sal tu se frende.**
 – Minä olen tervehtimässä sinun ystävääsi.
 
-**man bi vize un filme.**  
+**man bi vize un filme.**
 – Mies on katsomassa filmiä.
 
-**da bi es shefe.**  
+**da bi es shefe.**
 – Hän on päällikkö (parhaillaan).
 
-**da bi es a haus.**  
+**da bi es a haus.**
 – Hän on parhaillaan kotona.
 
 
 ### haf <small>jo, valmiiksi</small>
 
-**mi haf sal tu se frende.**  
+**mi haf sal tu se frende.**
 – Minä olen tervehtinyt ystävääsi.
 
-**man haf vize un filme.**  
+**man haf vize un filme.**
 – Mies on katsonut filmin.
 
-**da haf es shefe.**  
+**da haf es shefe.**
 – Hän on ollut päällikkö.
 
-**da haf es a haus.**  
+**da haf es a haus.**
 – Hän on ollut kotona.
 
 
 ### did <small>ennen</small>
 
-**mi did sal tu se frende.**  
+**mi did sal tu se frende.**
 – Minä tervehdin sinun ystävääsi.
 
-**man did vize un filme.**  
+**man did vize un filme.**
 – Mies katsoi elokuvaa.
 
-**da did es shefe.**  
+**da did es shefe.**
 – Hän oli ennen päällikkö.
 
-**da did es a haus.**  
+**da did es a haus.**
 – Hän oli kotona.
 
 
 ### vil <small>myöhemmin, jatkossa</small>
 
-**mi vil sal tu se frende.**  
+**mi vil sal tu se frende.**
 – Minä tervehdin ystävääsi (jatkossa).
 
-**da man vil vize da filme.**  
+**da man vil vize da filme.**
 – Mies tulee katsomaan filmin.
 
-**da vil es shefe.**  
+**da vil es shefe.**
 – Hän tulee olemaan päällikkö.
 
-**da vil es a haus.**  
+**da vil es a haus.**
 – Hän tulee olemaan kotona.
 

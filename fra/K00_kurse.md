@@ -24,19 +24,19 @@ est toujours neutre sur le plan de la politesse et de l'intimité.
 **sal!**
 = Salut!  
 <big>☺</big>g>
-**tu es kua?**
+**tu es vat?**
 = Qui es-tu ?  
 <big>☻</big>g>
-**mi es Yusef. tu es kua?**
+**mi es Yusef. tu es vat?**
 = Je suis Yusef. Qui est-tu ?  
 <big>☺</big>g>
-**mi es Sara. da es kua?**
+**mi es Sara. da es vat?**
 = Je suis Sara. Qui est-ce ?  
 <big>☻</big>g>
 **da es mi se frende.**
 = C'est mon amie.  
 <big>☺</big>g>
-**da se nam es kua?**
+**da se nam es vat?**
 = Quel est son nom ?  
 <big>☻</big>g>
 **da se nam es Maria.**
@@ -111,7 +111,7 @@ ton, ta, tes
 il, elle ou il neutre  
 **da se**
 son, sa, ses  
-**kua**
+**vat**
 qui ou quoi  
 **es**
 être (je suis, tu es, nous sommes, etc.)  
@@ -136,11 +136,11 @@ animal
 
 ### Réponses aux exercices
 
-1. tu es kua?
+1. tu es vat?
 2. mi es Tomas.
-3. tu se frende es kua?
+3. tu se frende es vat?
 4. da es Sara.
-5. tu se nam es kua?
+5. tu se nam es vat?
 6. mi se nam es ........... 
 
 
@@ -687,34 +687,34 @@ siro
 ## Autres questions
 
 Pour poser des questions commençant par _quoi_, _quel_, _comment_, _qui_ and _quand_, le pronom interrogatif
-**kua**
+**vat**
 est normalement utilisé.
 La question peut être formulée de manière plus spécifique en ajoutant des mots
 pour la personne, le temps, la manière ou la chose si nécessaire.
 
-**da es kua?**
+**da es vat?**
 = Qu'est-ce que c'est ?  
-**da es kua jen?**
+**da es vat jen?**
 = Qui est-il/elle ?  
-**da es kua ting?**
-**kua jen kom?**
+**da es vat ting?**
+**vat jen kom?**
 = Qui vient ? (**ren** = personne)  
-**tu yam a kua tem?**
+**tu yam a vat tem?**
 = Quand manges-tu ? (**zaman** = temps)  
-**von danse a kua mode?**
+**von danse a vat mode?**
 = Comment danser ? (**mode** = manière, style)
 
 En Pandunia, les questions commençant par _pourquoi_ sont posées à l'aide de
-**kua sabab**.
+**vat sabab**.
 
-**kua sabab tu suka mau?**
+**vat sabab tu suka mau?**
 = Pourquoi aimes-tu les chats ?
 
 On répond aux questions sur les causes ou les raisons de quelque chose en ajoutant
 **of sabab**
 avant la cause ou la raison.
 
-**kua sabab tu suka mau?**
+**vat sabab tu suka mau?**
 = Pourquoi aimes-tu les chats ?  
 **of sabab di es kavai.**
 = Parce qu'ils sont mignons.
@@ -756,11 +756,11 @@ temps, periode
 ### Réponses aux exercices
 
 
-1. kua jen suka supe?
+1. vat jen suka supe?
 2. papa suka.
-3. kua tem da kom?
+3. vat tem da kom?
 4. pos des minute.
-5. kua sabab da no yam?
+5. vat sabab da no yam?
 6. of sabab da no suka kafe e supe.
 
 

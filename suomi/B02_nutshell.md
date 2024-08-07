@@ -209,25 +209,29 @@ Vaihtoehtokysymyksessä verbi korvataan "(verbi) **no** (verbi)" -rakenteella ta
 **tu vize mi, he?**
 – Sinä näet minut, häh?
 
-Hakukysymys muodostetaan kirjoittamalla tavallinen lause, josta korvataan kysytty asia sanalla
-**kua**
-'kuka, mikä, mitä'.
+Hakukysymyksissä kysytyn asian paikalle pannaan sopiva kysymyssana,
+joko
+**hu**
+'kuka',
+**vat**
+'mikä, mitä' tai
+**hau**
+'kuinka, missä määrin'.
 
-**tu love kua?**
+**tu love hu?**
 – Sinä rakastat ketä?  
-**tu love kua man?**
+**tu love vat man?**
 – Sinä rakastat mitä miestä?  
-**kua man ye love tu?**
+**vat man ye love tu?**
 – Mikä mies rakastaa sinua?  
-**tu love da kua li muche?**
-– Sinä rakastat häntä miten paljon?
+**tu love da hau muche?**
+– Sinä rakastat häntä kuinka paljon?
 
 ### Käskeminen
 
-Käsky muodostetaan jättämällä subjekti pois ja aloittamalla lause verbillä.
+Käsky muodostetaan jättämällä subjekti pois ja aloittamalla lause suoraan verbillä.
 
 **yam da pai!**
-– Syö tämä piirakka!  
+– Syö se piirakka!  
 **vize da mau!**
 – Katso tuota kissaa!
-

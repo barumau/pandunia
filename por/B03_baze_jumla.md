@@ -681,7 +681,7 @@ Para fazer pedidos diretos, não coloque nenhum pronome.
 **mi audi muzike.**
 – Escuto música.
 
-**tu audi kua tipe li muzike?**
+**tu audi kua tip se muzike?**
 – Que tipo de música você ouve?
 
 

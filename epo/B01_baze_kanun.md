@@ -53,7 +53,7 @@ La posedaj pronomoj estas:
 'ilia'.
 
 La demandaj pronomoj estas:  
-**kua**
+**vat**
 'kio',
 **hu**
 'kiu',

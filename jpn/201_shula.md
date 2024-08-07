@@ -19,7 +19,7 @@
 **da es mi se frende.**
 = あの人は私の友人です。  
 <big>☺</big>
-**da se nam es kua?**
+**da se nam es vat?**
 = 彼女の名前は?  
 <big>☻</big>
 **da se nam es Maria.**
@@ -99,7 +99,7 @@ haus **no** hevan.
 彼の、彼女の、その、その人の  
 **hu**
 誰  
-**kua**
+**vat**
 何  
 **es**
 指定  
@@ -128,7 +128,7 @@ haus **no** hevan.
 2. mi es Tomas.
 3. hu es tu se frende?
 4. da es Sara.
-5. tu se nam es kua?
+5. tu se nam es vat?
 6. mi se nam es ____________.
 
 
@@ -671,32 +671,32 @@ mi plis tu **no** safi kamar.
 
 通常5W1H(いつ、どこで、だれが、なにを、なぜ、どのように)の質問には
 質問代名詞
-**kua**
+**vat**
 を使います。
 必要に応じて人、時間、方法、物などの単語を追加することで
 質問をより具体的にすることができます。
 
 da es **hu**?
 = それは**何**ですか? または 彼/彼女/その人は**誰**ですか?  
-**kua jen** ye kom?
+**vat jen** ye kom?
 = どの人が来ますか?(=**誰**が来ますか?) (**jen** 人)  
-**a kua tem** tu yam?
+**a vat tem** tu yam?
 = (あなたは)**いつ**食べますか? (**tem** 時間)  
-**a kua vei** danse?
+**a vat vei** danse?
 = **どのように**踊りますか? (**vei** 振舞い、態度、マナー)  
-**a kua loke** tu sona?
+**a vat loke** tu sona?
 = (あなたは)**何処で**寝ますか? (**sona** 寝る、眠る)
 
 「なぜ～ですか」の
-質問には **kua sabab** を使います。 (**sabab** 原因、もたらす)
+質問には **vat sabab** を使います。 (**sabab** 原因、もたらす)
 
-**kua sabab** tu suka mau?
+**vat sabab** tu suka mau?
 = **何故**あなたは猫が好きなのですか?
 
 何かの原因や理由を尋ねる質問には、
 原因や理由の前に **sabab** を付けて答えます。
 
-**kua sabab** tu suka mau?
+**vat sabab** tu suka mau?
 = **何故**あなたは猫が好きなのですか?  
 **sabab** di es kavai.
 = **何故なら**(それらが)可愛いからです。
@@ -735,9 +735,9 @@ mi suka mau, **sabab** di es kavai
 
 1. hu suka supe?
 2. papa suka.
-3. kua tem da kom?
+3. vat tem da kom?
 4. pos des minute.
-5. kua sabab da no yam?
+5. vat sabab da no yam?
 6. sabab da no suka kafe e supe.
 
 

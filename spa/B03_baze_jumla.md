@@ -289,42 +289,54 @@ francés *non*.</small>
 – Esas son manzanas.
 
 
-### kua? <small>¿qué? ¿quién?</small>
+### hu? <small>¿quién?</small>
 
-**kua?**
+**hu?**
 – ¿Qué?
 
-**tu es kua?**
+**hu es tu?**
 – ¿Quién eres?
 **mi es Tomas.**
 – Soy Tomás.
 
-**da es kua?**
+**hu es da?**
 – ¿Quién es él/ella?  
 **da es Sara.**
 – Ella es Sara.
 
-**yu es kua?**
+**hu es yu?**
 – ¿Quiénes son ustedes?
 
-**di es kua?**
+**hu es di?**
 – ¿Quiénes son ellos/as?
 
-<small>Etimología. **kua** viene del
-francés *quoi*,
-español *cuál*,
-inglés *what*.</small>
+
+### vat? <small>¿qué?</small>
+
+**vat?**
+– ¿Qué?
+
+**vat es da?**
+– ¿Qué es eso?
+
+**da es buk.**
+– Eso es un libro.
+
+<small>Etimología. **vat** viene del
+inglés *what*,
+alemán *was*,
+neerlandés *wat*.</small>
 
 
 ### da <small>esto, eso, aquello</small>
 
-**da hir es kua?**
+**da hir es vat?**
 – ¿Qué es esto?
 
 **da hir es aple.**
 – Esta es una manzana.
 
-**da der es kua?**
+**da der es vat?**
 – ¿Qué es eso?
 
 **da der es aranja.**
@@ -339,7 +351,7 @@ inglés *what*.</small>
 **da es rubi.**
 – Esta es roja.
 
-**di sta kua?**
+**di sta vat?**
 – ¿Dónde están?
 
 **di sta hir.**
@@ -351,13 +363,13 @@ inglés *what*.</small>
 
 ### se <small>(partícula posesiva)</small>
 
-**da es kua?**
+**da es vat?**
 – ¿Qué es esto?
 
 **da es mi se telefon.**
 – Es mi teléfono.
 
-**da hir es kua se?**
+**da hir es hu se?**
 – ¿De quién es esto?
 
 **da es mi se.**
@@ -371,7 +383,7 @@ significa "mi/mío",
 **tu se**
 significa "tu/tuyo", y así.
 
-**da es kua?**
+**da es hu?**
 – ¿Quién es él/ella?
 
 **da es mi se frende.**
@@ -391,13 +403,13 @@ portugués *seu*.</small>
 
 ### nam <small>nombre</small>
 
-**tu se nam es kua?**
+**tu se nam es vat?**
 – ¿Cuál es tu nombre?
 
 **mi se nam es Tomas.**
 – Mi nombre es Tomás.
 
-**da se nam es kua?**
+**da se nam es vat?**
 – ¿Cómo se llama (el/ella/eso)?
 
 **da se nam es Sara.**
@@ -501,12 +513,12 @@ Normalmente el objeto del verbo dice si se trata de comer, beber o ambos.
 **sual tu van yam?**
 – ¿Te gustaría comer?
 
-**tu van yam kua?**
+**tu van yam vat?**
 – ¿Qué te gustaría comer?
 
 Ayuda: Mientras que en el español por lo general se pone el "qué" al inicio de
 la pregunta, en pandunia el orden de las palabras no es afectado por el
-**kua**.
+**vat**.
 
 **mi van yam kafe.**
 – Quiero beber café.
@@ -516,7 +528,7 @@ la pregunta, en pandunia el orden de las palabras no es afectado por el
 **no. mi no van cha. mi van kafe.**
 – No, no quiero té. Quiero café.
 
-**tu van kua aple?**
+**tu van vat aple?**
 – ¿Qué manzana quieres?  
 **da rubi.**
 – Esta roja.
@@ -591,10 +603,10 @@ Ayuda: Para hacer solicitudes directas, no pongas ningún pronombre.
 **perdon! mi no aha.**
 – Lo siento, no entiendo.
 
-**perdon! da es kua?**
+**perdon! da es vat?**
 – Perdóname, ¿qué es eso?
 
-**perdon. tu se nam es kua?**
+**perdon. tu se nam es vat?**
 – Perdóname, ¿cómo te llamas?
 
 
@@ -646,7 +658,7 @@ _Él/ella no puede conducir un auto._)
 
 ### loga <small>decir, hablar</small>
 
-**tu loga kua?**
+**tu loga vat?**
 – ¿Qué dijiste?
 
 **mi loga to tu.**
@@ -657,11 +669,11 @@ _Él/ella no puede conducir un auto._)
 
 **von loga**
 ***gato***
-**a kua mode a pandunia?**
+**a vat mode a pandunia?**
 – ¿Cómo se dice "gato" en pandunia?
 
 ***gato***
-**es kua a pandunia?**
+**es vat a pandunia?**
 – ¿Qué es "gato" en pandunia?
 
 **mau loga "miau".**
@@ -682,8 +694,8 @@ _Él/ella no puede conducir un auto._)
 **mi audi muzike.**
 – Escucho música.
 
-**tu audi kua sorte muzike?**
-– ¿Qué clase de música escuchas?
+**tu audi vat tip se muzike?**
+– ¿Qué tipo de música escuchas?
 
 
 ### vize <small>ver</small>
@@ -703,16 +715,16 @@ _Él/ella no puede conducir un auto._)
 
 ### seme <small>significar</small>
 
-**da hir lexe ye seme kua?**
+**da hir lexe ye seme vat?**
 – ¿Qué significa esta palabra?
 
-**"mau" ye seme kua?**
+**"mau" ye seme vat?**
 – ¿Qué significa "mau"?
 
 **da seme un sorte of hevan.**
 – Significa una clase de animal.
 
-**mi no aha da seme kua.**
+**mi no aha da seme vat.**
 – No entiendo qué significa.
 
 
@@ -753,16 +765,16 @@ _Él/ella no puede conducir un auto._)
 
 ### go <small>ir</small>
 
-**tu go kua?**
+**tu go vat plas?**
 – ¿A dónde vas?
 
 **mi go haus.**
 – Voy a casa.
 
-**mi mus go kua?**
+**mi mus go vat plas?**
 – ¿A dónde debería ir?
 
-**mi mus go to kua jen?**
+**mi mus go to vat jen?**
 – ¿A quién debería ir?
 
 **vi shal go!**
@@ -780,7 +792,7 @@ _Él/ella no puede conducir un auto._)
 **plis kom!**
 – ¡Ven aquí! ¡Vengan aquí!
 
-**tu kom of kua?**
+**tu kom of vat plas?**
 – ¿De dónde vienes?
 
 **mi kom of Dubai.**
@@ -804,19 +816,19 @@ _Él/ella no puede conducir un auto._)
 
 ### a <small>en, estar en (lugar)</small>
 
-**hotel a kua?**
+**hotel a vat plas?**
 – ¿Dónde está el hotel?
 
 **hotel a da der dau.**
 – El hotel está por ese camino.
 
-**tu a kua?**
+**tu a vat plas?**
 – ¿Dónde estás?
 
 **mi a haus.**
 – Estoy en casa.
 
-**da a kua?**
+**da a vat plas?**
 – ¿Dónde está él/ella?
 
 **da side a kamar.**
@@ -832,7 +844,7 @@ como una preposición o como un verbo por aparte.
 
 ### loju <small>vivir, residir, alojar</small>
 
-**tu loju kua?**
+**tu loju vat?**
 – ¿Dónde vives?
 
 **mi loju Singapur.**
@@ -842,9 +854,9 @@ como una preposición o como un verbo por aparte.
 – ¿Vives en este hotel?
 
 Ayuda: También está bien decir
-**tu loju a kua?**
+**tu loju a vat plas?**
 en vez de
-**tu loju kua**.
+**tu loju vat plas**.
 Sin embargo
 **loju**
 ya significa que algo está en algún lugar, así que

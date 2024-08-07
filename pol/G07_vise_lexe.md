@@ -49,25 +49,25 @@ Zaimki wskazujące to:
 
 ## Zaimki pytające
 
-**kua**
+**vat**
 jest zaimkiem pytającym ogólnego zastosowania.
 Załatwia robotę polskich _kto_ i _co_.
 
-**kua?**
+**vat?**
 – co?  
 **hu**
 – kto?
 
 Przymiotnikowy zaimek pytający to
-**kua**
+**vat**
 i znaczy tyle, co polskie _jaki_.
 
-**kua ting?**
+**vat ting?**
 – Co? (Jaka rzecz?)  
-**kua von?**
+**vat von?**
 – Kto? (Jaka osoba?)  
-**kua tem?**
+**vat tem?**
 – Kiedy? (Jaki czas?)  
-**kua vei?**
+**vat vei?**
 – Jak? (Jaki sposób?)
 

@@ -207,7 +207,7 @@ refers to the content of the previous statement.
 
 There are two interrogative pronouns in Pandunia.
 
-**kua**
+**vat**
 – what  
 **hu**
 – who
@@ -215,13 +215,13 @@ There are two interrogative pronouns in Pandunia.
 The interrogative pronoun takes the place of the questioned thing in the phrase.
 It is not placed in the beginning of the phrase unlike normally in English.
 
-**kua es da?**
+**vat es da?**
 – What is that?  
 **hu es da?**
 – Who is he ~ she?  
-**yu van kua?**
+**yu van vat?**
 – What do you want? (Literally: You want what?)  
-**kua es a meza.**
+**vat es a meza.**
 – What is on the table?  
 **hu es in haus.**
 – Who is in the house?
@@ -235,22 +235,22 @@ The possessive interrogative pronoun is built like the other possessive pronouns
 – Whose hose is that?
 
 Adjectives are questioned with
-**kua li**.
+**hau**.
 
-**kua li nove?**
+**hau nove?**
 – How new?  
-**kua li koste?**
+**hau koste?**
 – How costy?  
-**kua li meni?**
+**hau meni?**
 – How many?  
-**kua li kam?**
+**hau kam?**
 – How few?  
-**kua li dai?**
+**hau dai?**
 – How big?  
-**kua li let?**
+**hau let?**
 – How small?
 
-**tu have kua li dai mau?**
+**tu have hau dai mau?**
 – How big a cat do you have?
 
 
@@ -261,20 +261,20 @@ Pandunia's pronominal phrases can be arranged in a regular table of pronominals 
 
 | Category      | Interrogative | Demonstrative | Indefinite    | Universal     | Negative      | Alternative   | Elective      |
 |:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| **ting**      | **kua ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   | **otre ting** | **eni ting**  |
+| **ting**      | **vat ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   | **otre ting** | **eni ting**  |
 | Thing         | what (thing)  | that thing    | something     | everything    | nothing       | another       | anything      |
-| **von**       | **kua von**   | **da von**    | **som von**   | **evri von**  | **no von**    | **otre von**  | **eni von**   |
-| Individual    | who           | that one      | someone       | every one     | no-one        | another       | anyone        |
-| **have**      | **kua von se**| **da von se** | **som von se**|**evri von se**| **no von se** |**otre von se**| **eni von se**|
+| **von**       |**hu; vat von**| **da von**    | **som von**   | **evri von**  | **no von**    | **otre von**  | **eni von**   |
+| Individual    | who; which one| that one      | someone       | every one     | no-one        | another       | anyone        |
+| **have**      | **hu se**     | **da von se** | **som von se**|**evri von se**| **no von se** |**otre von se**| **eni von se**|
 | Possession    | whose         | that one's    | someone's     | everyone's    | no-one's      | another's     | anyone's      |
-| **loke**      | **kua loke**  | **da loke**   | **som loke**  | **evri loke** | **no loke**   | **otre loke** | **eni loke**  |
+| **plas**      | **vat plas**  | **da plas**   | **som plas**  | **evri plas** | **no plas**   | **otre plas** | **eni plas**  |
 | Location      | where         | there         | somewhere     | everywhere    | nowhere       | elsewhere     | anywhere      |
-| **tem**       | **kua tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    | **otre tem**  | **eni tem**   |
+| **tem**       | **vat tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    | **otre tem**  | **eni tem**   |
 | Time          |when, what time| that time     | sometime      |always, all the time| never    | another time  | any time      |
-| **vei**       | **kua vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    | **otre vei**  | **eni vei**   |
+| **vei**       | **vat vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    | **otre vei**  | **eni vei**   |
 | Manner        | how           | in that way   | somehow       | in every way  | in no way     | otherwise     | anyway        |
-| **tipe**      | **kua tipe**  | **da tipe**   | **som tipe**  | **evri tipe** | **no tipe**   | **otre tipe** | **eni tipe**  |
+| **tip**       | **vat tip**   | **da tip**    | **som tip**   | **evri tip**  | **no tip**    | **otre tip**  | **eni tip**   |
 | Kind, sort    | what kind of  | that kind of  | some kind of  | all kinds of  | no kind of    |another type of| any kind of   |
-| **monta**     | **kua monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  | **otre monta**| **eni monta** |
+| **monta**     | **vat monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  | **otre monta**| **eni monta** |
 | Amount        | how much      | so much       | some          | all           | none          | other amount  | any amount    |
 

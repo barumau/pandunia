@@ -40,9 +40,9 @@ Los pronombres posesivos son:
 **vi se** _nuestro_, **yu se** _suyo, su, vuestro (de ustedes)_, **di se** _suyo, su (de ellos o ellas)_.
 
 Los pronombres interrogativos son:  
-**kua**
+**vat**
 _qué o quién_, _cuál_,
-**kua su**
+**vat su**
 _de quién_.
 
 El pronombre impersonal es **von**.

@@ -291,12 +291,12 @@ Kim jesteście?
 Kim są?
 
 
-### kua <small>co?</small>
+### vat <small>co?</small>
 
 **ke?**
 Co?
 
-<small>Etymologia. **kua** pochodzi z języków
+<small>Etymologia. **vat** pochodzi z języków
 francuskiego *quoi*,
 hiszpańskiego *cuál*,
 angielkiego *what*.</small>
@@ -304,7 +304,7 @@ angielkiego *what*.</small>
 
 ### da hir <small>to</small>
 
-**kua es da hir?**
+**vat es da hir?**
 Co to?
 
 **da hir es aple.**
@@ -330,7 +330,7 @@ Jest czerwone.
 
 ### se <small>(partykuła dzierżawcza)</small>
 
-**da es kua?**
+**da es vat?**
 Co to jest?
 
 **da es mi se telefon.**
@@ -362,13 +362,13 @@ Jestem przyjacielem Sary.
 
 ### nam <small>name</small>
 
-**tu se nam es kua?**
+**tu se nam es vat?**
 Jak się nazywasz? (Dosłownie: Czym jest twoje imię?)
 
 **mi se nam es Tomas.**
 Nazywam się Tomasz.
 
-**da se nam es kua?**
+**da se nam es vat?**
 Jak ona jest nazywana?
 
 **da se nam es Sara.**
@@ -474,11 +474,11 @@ Spożywam kawę i chleb.
 **sual tu van yam?**
 Czy chcesz jeść?
 
-**tu van yam kua?**
+**tu van yam vat?**
 Co chcesz zjeść?
 
 Porada: Gdy język polski umieszcza "co" na początku pytania, w Panduni
-**kua**
+**vat**
 nie zmienia szyku zdania.
 
 **mi van yam kafe.**
@@ -490,7 +490,7 @@ Czy chcesz napić się herbaty?
 **no. mi no van cha. mi van kafe.**
 Nie, nie chcę herbaty. Chcę kawę.
 
-**tu van kua aple?**
+**tu van vat aple?**
 Które jabłko chcesz?
 
 **da rubi.**
@@ -582,10 +582,10 @@ Czy jesteś spragniony?
 **perdon! mi no aha.**
 Przepraszam, nie rozumiem.
 
-**perdon! da es kua?**
+**perdon! da es vat?**
 Przepraszam, co to?
 
-**perdon. tu se nam es kua?**
+**perdon. tu se nam es vat?**
 Przepraszam, jak się nazywasz?
 
 
@@ -636,7 +636,7 @@ Przepraszam. Nie mówię w twoim języku.
 
 ### loga <small>mówić</small>
 
-**tu loga kua?**
+**tu loga vat?**
 Co mówisz??
 
 **mi loga to tu.**
@@ -647,11 +647,11 @@ Mówimy do siebie.
 
 **von loga**
 "kot"
-**a kua mode a pandunia?**
+**a vat mode a pandunia?**
 Jak się mówi "kot" w Panduni?
 
 "kot"
-**es kua a pandunia?**
+**es vat a pandunia?**
 Czym jest "kot" w Panduni?
 
 **mau loga "miau".**
@@ -669,7 +669,7 @@ Proszę, mów głośniej.
 **mi audi muzike.**
 Słucham muzyki.
 
-**tu audi kua tipe li muzike?**
+**tu audi vat tip se muzike?**
 Jakiego rodzaju muzyki słuchasz?
 
 
@@ -690,16 +690,16 @@ Widziałem go/ją wczoraj.
 
 ### seme <small>znaczyć</small>
 
-**da hir lexe ye seme kua?**
+**da hir lexe ye seme vat?**
 Co znaczy to słowo?
 
-**"mau" ye seme kua?**
+**"mau" ye seme vat?**
 Co znaczy "mau"?
 
 **da seme un tipe of hevan.**
 To oznacza rodzaj zwierzęcia.
 
-**mi no aha da seme kua.**
+**mi no aha da seme vat.**
 Nie rozumiem, co to znaczy.
 
 
@@ -742,16 +742,16 @@ suahili, hausa, joruba, amharski
 
 ### go <small>iść</small>
 
-**tu go kua?**
+**tu go vat?**
 Dokąd idziesz?
 
 **mi go haus.**
 Idę do domu.
 
-**mi mus go kua?**
+**mi mus go vat?**
 Gdzie powinienem pójść?
 
-**mi mus go to kua jen?**
+**mi mus go to vat jen?**
 Do kogo powinienem pójść?
 
 **vi shal go!**
@@ -766,7 +766,7 @@ Pójdźmy pieszo!
 **plis kom!**
 Przyjdź tu!
 
-**tu kom of kua?**
+**tu kom of vat?**
 Skąd pochodzisz?
 
 **mi kom of Dubai.**
@@ -790,19 +790,19 @@ Podróż jest bardzo długa.
 
 ### a <small>w, na, przy</small>
 
-**hotel a kua?**
+**hotel a vat?**
 Gdzie jest hotel?
 
 **hotel a da der dau.**
 Hotel jest przy tej drodze.
 
-**tu a kua?**
+**tu a vat?**
 Gdzie jesteś?
 
 **mi a haus.**
 Jestem w domu.
 
-**da a kua?**
+**da a vat?**
 Gdzie jest?
 
 **da side a kamar.**
@@ -818,7 +818,7 @@ Pracuję w ...
 
 ### loju <small>mieszkać</small>
 
-**tu loju kua?**
+**tu loju vat?**
 Gdzie mieszkasz?
 
 **mi loju Singapur.**
@@ -828,9 +828,9 @@ Mieszkam w Singapurze.
 Czy miszkasz w tym hotelu?
 
 Porada: Poprawnie jest też powiedzieć
-**tu loju a kua?**
+**tu loju a vat?**
 zamiast
-**tu loju kua**.
+**tu loju vat**.
 Jakkolwiek
 **loju**
 już obejmuje znaczenie bycia w czymś, więc

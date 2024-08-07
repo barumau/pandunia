@@ -22,7 +22,7 @@ hide:
 **da es mi se frende.**
 – Это мой друг.  
 <big>☺</big>
-**da se nam es kua?**
+**da se nam es vat?**
 – Как её зовут?  
 <big>☻</big>
 **da se nam es Maria.**
@@ -86,7 +86,7 @@ hide:
 хороший  
 **hu**
 кто?  
-**kua**
+**vat**
 что?  
 **man**
 мужчина  
@@ -111,7 +111,7 @@ hide:
 2. mi es Tomas.
 3. hu es tu se frende?
 4. da es Sara.
-5. tu se nam es kua?
+5. tu se nam es vat?
 6. mi se nam es ........... 
 
 

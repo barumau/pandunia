@@ -783,22 +783,22 @@ The question is answered by repeating the chosen alternative.
 
 Open questions, or _wh-_ questions, ask for more information.
 In Pandunia they use the word
-**kua**
+**vat**
 ('what').
 
-**piza es kua?**
+**piza es vat?**
 – What is pizza?
 
 The question word may be moved to the front of the sentence for emphasis.
 However, unlike in English, the word order may also be unchanged.
 
-**kua tu yam?**
+**vat tu yam?**
 – What are you eating?  
-**tu yam kua?**
+**tu yam vat?**
 – You are eating what?  
-**da kom a kua tem?**
+**da kom a vat tem?**
 – When does he arrive?  
-**yu vizite a kua jen se haus?**
+**yu vizite a vat jen se haus?**
 – Whose house did you all vizet?
 
 
