@@ -474,7 +474,7 @@ Pandunia keeps the final stops and adds an optional schwa sound.
 - Korean 산 (san)
 - Vietnamese *sơn*
 
-#### shim 'hear'
+#### shim 'heart'
  
 - Mandarin 心 (xīn)
 - Cantonese 心 (sam)

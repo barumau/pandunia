@@ -290,11 +290,12 @@ means that the action is directed into something.
 → **inkluze**
 'close in, enclose, include'
 
-#### kon- ~ kom-
+#### kon- ~ kom- ~ ko-
 
 The prefixes **kon-** and **kom-** mean 'together'.
-There are two forms of this prefix.
+There are three forms of this prefix.
 The form **kom-** is used when the following word begins with a *b*, *p* or *m*,
+the form **ko-** is used when the following word begins with an *r* or *l*,
 and the form **kon-** is used in all other cases.
 
 **tene**

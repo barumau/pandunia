@@ -894,15 +894,16 @@ can be combined to the prepositions in order to construct conjunctions of cause 
 
 ## Conditional clauses
 
-The word **si** means 'to suppose',
-and in conditional sentences, it works in the same way as English 'if'.
+The word
+**if**
+is conditional sentences, it works in the same way as English 'if'.
 
-**mi no vud yam da, si mi es tu.**
+**mi no vud yam da, if mi es tu.**
 – I wouldn't eat it _if_ I were you.
 
 The rest of the sentence can optionally be preceded by the word **asar**, which means 'then'.
 
-**si tu tochu tava, asar tu pati hanu.**
+**if tu tochu tava, asar tu pate hande.**
 – _If_ you touch the pan, _then_ you will hurt your hand.
 
 
