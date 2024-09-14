@@ -126,7 +126,7 @@ ekz. ĉu ĝi estas deklaro, demando aŭ komando.
 – Ĉu vi ŝatas kafon? (demando)  
 **yu love kafe, ye.**
 – Vi ja ŝatas kafon.  
-**yu love kafe, ne.**
+**yu love kafe, ne?**
 – Vi ŝatas kafon, ĉu?
 
 

@@ -105,9 +105,9 @@ La verbo
 signifas 'esti'.
 Oni povas forĵeti ĝin el tre simplaj frazoj.
 
-**mi es home.**
+**mi es hom.**
 – Mi homo.  
-**mi – home.**
+**mi – hom.**
 – Mi estas homo.  
 
 Oni ne povas forĵeti ĝin, kiam ĝi apartenas en verboserio.

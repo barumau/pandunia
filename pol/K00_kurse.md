@@ -136,7 +136,7 @@ To słowo jest używane i na powitanie, jak i na pożegnanie
 Słowo
 **sal**
 znaczy "pozdrowienie".
-Jest oryginalnie arabskim słowem znaczącym _pokój_ i jest powszechnym pozdrowieniem w wielu częściach śœiata, szczególnie w Afryce i Azji.
+Jest oryginalnie arabskim słowem znaczącym _pokój_ i jest powszechnym pozdrowieniem w wielu częściach świata, szczególnie w Afryce i Azji.
 Pandunia jest językiem ogólnoświatowym, biorącym słowa z wszystkich części świata.
 
 **sal**
