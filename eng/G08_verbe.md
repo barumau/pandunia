@@ -234,8 +234,16 @@ Note that the same auxiliary verbs can be used alone as transitive verbs in the 
 
 ## Prepositions
 
-In Pandunia, prepositions are words that function almost like verbs.
+In Pandunia, prepositions are words that can function almost like verbs.
 They always take an object.
+The most frequent prepositions in Pandunia are
+**a**
+(location),
+**to**
+(destination) and
+**of**
+(origin).
+They have broader meanings in Pandunia than the corresponding prepositions in English.
 
 #### a
 
@@ -254,23 +262,60 @@ expresses general location in time or space, 'at, in, on'.
 
 The preposition
 **to**
-denotes a destination, goal or purpose, 'to, toward, for'.
+denotes destination in the broadest sense.
+
+It denotes the destination of movement, 'to'.
 
 **di marche to bazar.**
-– They walk to the market.  
-**mi van don da hir buk to yu.**
-– I want to give this book to you.
+– They walk to the market.
+
+It denotes the destination of giving i.e. the recipient, 'to, for'.
+
+**mi don da hir buk to yu.**
+– I give this book to you.  
+**da hir buk es to yu.**
+– This book if for you.
+
+It denotes the causal destination, 'for, for the purpose of'.
+
+**mi vud morte to mi se nasia.**
+– I would die for my nation.
 
 #### of
 
 The preposition
 **of**
-expresses separation or origin, 'of, off, from'.
+denotes separation or origin in the broadest sense.
+
+It denotes the origin of movement, 'from'.
 
 **di kom of Brazil.**
-– They come from Brazil.  
+– They come from Brazil.
+
+It denotes origin of existence, 'of'.
+
 **da lexe** ***kitab*** **es of arabe asle.**
 – This word *kitab* is of Arabic origin.
+
+It denotes material origin, 'of'.
+
+**da kopa es of glass.**
+– The cup is made of glass.
+
+It denotes the causal origin, 'because of'.
+
+**da mau morte of sen umre.**
+– The cat died of old age.  
+**da mau morte of toxe.**
+– The cat died because of poison.
+
+It denotes the mental origin, 'of, about'.
+
+**vi tok of yu.**
+– We talk about you.  
+**mi fikre of hope.**
+– I think of (or about) hope.
+
 
 #### ex
 
