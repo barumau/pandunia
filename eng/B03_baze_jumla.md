@@ -984,18 +984,18 @@ as a preposition or alone as the verb.
 – He or she is currently at home.
 
 
-### haf <small>already, completed</small>
+### hav <small>already, completed</small>
 
-**mi haf sal tu se frende.**
+**mi hav sal tu se frende.**
 – I have greeted your friend.
 
-**da man haf vize da filme.**
+**da man hav vize da filme.**
 – The man has watched the film.
 
-**da haf es shefe.**
+**da hav es shefe.**
 – He has been the chief.
 
-**da haf es a haus.**
+**da hav es a haus.**
 – He has been at home.
 
 

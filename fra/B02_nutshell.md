@@ -66,7 +66,7 @@ L'ordre de base des mots dans une phrase est sujet - verbe - objet (SVO).
 Le temps, l'aspect et le mode sont indiqués à l'aide de particules et d'auxiliaires.
 **bi**
 indique le moment en cours.
-**haf**
+**hav**
 par son sens "déjà", marque l'aspect parfait.
 **did**
 marque le passé révolu.
@@ -75,7 +75,7 @@ marque le futur.
 
 **mi bi love tu.**
 – Je suis en train de t'aimer. / Je t'aime en ce moment.  
-**mi haf love tu.**
+**mi hav love tu.**
 – Je l'ai (déjà) fait.  
 **mi did love tu.**
 – Je t'ai aimé. / Je t'aimais.  

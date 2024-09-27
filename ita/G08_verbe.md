@@ -74,13 +74,13 @@ indica che una situazione sta avvenendo nel presente.
 **man** ***vil bi*** **yam ban.**
 – L'uomo mangerà ancora il pane.
 
-**haf**
+**hav**
 'aver fatto'
 indica che un'azione è avvenuta nel passato e si sta ancora svolgendo o che è rilevante per la situazione attuale.
 Si traduce con *già* o *(non) ancora*.
 Si può pensare a qualcosa di simile al passato prossimo italiano (_Ho fatto_, _ho mangiato_).
 
-**man** ***haf*** **yam ban.**
+**man** ***hav*** **yam ban.**
 – L'uomo *aveva*, *ha* o *avrà* mangiato il pane.  
 **man** ***did haf*** **yam ban.**
 – L'uomo aveva mangiato il pane.  
@@ -233,7 +233,7 @@ La preposizione
 **tra**
 indica attraversamento, 'per, attraverso'.
 
-**vi haf kurse tra siti.**
+**vi hav kurse tra siti.**
 - Ho fatto jogging per la città.
 
 #### via

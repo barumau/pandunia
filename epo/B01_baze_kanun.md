@@ -125,7 +125,7 @@ Verboj ne ŝanĝiĝas laŭ persono, nombro aŭ tenco.
 Helpaj verboj indikas tencon, aspekton kaj modon.
 
 - La helpverbo **bi** indikas daŭran agon.
-- La helpverbo **haf** indikas kompletan agon, kies rezulto influas la nunan situacion.
+- La helpverbo **hav** indikas kompletan agon, kies rezulto influas la nunan situacion.
 - La helpverbo **did** indikas pasintan agon.
 - La helpverbo **vil** indikas estontan agon.
 

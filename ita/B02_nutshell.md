@@ -116,7 +116,7 @@ Ma in realtà il significato è chiaro nel contesto reale:
 I tempi e gli aspetti sono espressi opzionalmente con l'aiuto di avverbi e verbi ausiliari, come
 **bi**
 (in questo momento),
-**haf**
+**hav**
 (già)
 **did**
 (nel passato) e
@@ -125,7 +125,7 @@ I tempi e gli aspetti sono espressi opzionalmente con l'aiuto di avverbi e verbi
 
 **mi bi love tu.**
 – Ti sto amando.  
-**mi haf love tu.**
+**mi hav love tu.**
 – Ti ho amato.  
 **mi did love tu.**
 – Ti amavo / amai.  

@@ -89,7 +89,7 @@ Aika ilmaistaan apuverbeillä.
 
 - **bi**
   ilmaisee meneillään olevaa toimintaa.
-- **haf**
+- **hav**
   ilmaisee tehtyä toimintaa, joka vaikuttaa kuluvaan hetkeen.
 - **did**
   ilmaisee tehtyä toimintaa, joka ei enää vaikuta kuluvaan hetkeen.

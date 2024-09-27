@@ -117,7 +117,7 @@ Aika ilmaistaan apusanoilla:
 
 **di did ride mi's buk.**
 – He lukivat minun kirjaa.  
-**vi haf ride meni buk.**
+**vi hav ride meni buk.**
 – Me olemme lukeneet monta kirjaa.  
 **mi bi ride un buk.**
 – Minä olen lukemassa yhtä kirjaa.  

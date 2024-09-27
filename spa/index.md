@@ -112,14 +112,14 @@ El tiempo se expresa con verbos auxiliares:
 – eventos pasados  
 **vil**
 – ewentos futuros  
-**haf**
+**hav**
 – eventos pasados que sigen vigentes  
 **bi**
 – eventos que están sucediendo actualmente
 
 **di did lese mi se buk.**
 – Leyó mi libro.  
-**vi haf lese meni buk.**
+**vi hav lese meni buk.**
 – Hemos leído muchos libros.  
 **mi bi lese un buk.**
 – Estoy leyendo un libro.  

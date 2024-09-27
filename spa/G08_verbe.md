@@ -61,7 +61,7 @@ indica que una situación es actual.
 **mi bi yam un piza.**
 – Estoy comiendo una pizza.
 
-**haf**
+**hav**
 (»lograr>>, »ya>>)
 indica que una situación ha sido logrado, y el estado presente es el resulto de eso.
 Preste atención a la consecuencia de una acción pasada a la situación actual.

@@ -84,7 +84,7 @@ Ekzemplo 3. Strukture klara frazo dank'al nea vorto.
 
 Ekzemplo 4. Komplika sed strukture klara frazo.
 
-    mi se     frende  haf      yam   un  pai.
+    mi se     frende  hav      yam   un  pai.
     mi POSEDO amiko   ASPEKTO  manĝi unu torto
     'Mia amikos estas manĝinta torton.'
 
@@ -134,7 +134,7 @@ Sed la kunteksto normale klarigas la precizan signifon:
 Tensoj kaj aspektoj estas esprimita per adverboj kaj helpantaj verboj, kiel
 **bi**
 (esti -anta),
-**haf**
+**hav**
 (esti -inta),
 **did**
 (pasinte) kaj
@@ -143,7 +143,7 @@ Tensoj kaj aspektoj estas esprimita per adverboj kaj helpantaj verboj, kiel
 
 **mi bi love tu.**
 – Mi estas amanta vin.  
-**mi haf love tu.**
+**mi hav love tu.**
 – Mi estas aminta vin.  
 **mi did love tu.**
 – Mi amis vin.  

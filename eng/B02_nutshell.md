@@ -84,7 +84,7 @@ Example 3. Structurally clear sentence with the negation of the verb.
 
 Example 4. A complex but structurally clear sentence.
 
-    mi se frende  haf    yam un  pai.
+    mi se frende  hav    yam un  pai.
     me 's friend  ASPECT eat one pie
     'My friend has eaten a pie.'
 
@@ -135,7 +135,7 @@ Tenses and aspects are optionally expressed with the help of adverbs and auxilia
 like the aspect auxiliaries
 **bi**
 (be in the process of), and
-**haf**
+**hav**
 (have completed),
 and the tense auxiliaries
 **did**
@@ -145,7 +145,7 @@ and the tense auxiliaries
 
 **mi bi love tu.**
 – I am loving you.  
-**mi haf love tu.**
+**mi hav love tu.**
 – I have loved you.  
 **mi did love tu.**
 – I loved you.  

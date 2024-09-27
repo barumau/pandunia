@@ -930,18 +930,18 @@ comme préposition ou tout seul comme un verbe.
 – En ce moment, il / elle est à la maison.
 
 
-### haf <small>déjà (action achevée)</small>
+### hav <small>déjà (action achevée)</small>
 
-**mi haf sal tu se frende.**
+**mi hav sal tu se frende.**
 – J'ai (déjà) salué ton ami(e).
 
-**da man haf vize da filme.**
+**da man hav vize da filme.**
 – L'homme a (déjà) regardé la filme.
 
-**da haf es shefe.**  
+**da hav es shefe.**  
 Il / Elle a (déjà) été le chef / la cheffe.
 
-**da haf es a haus.**
+**da hav es a haus.**
 – Il / elle a (déjà) été à la maison.
 
 

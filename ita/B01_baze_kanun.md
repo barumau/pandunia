@@ -99,7 +99,7 @@ Il tempo si indica con i verbi ausiliari:
 
 - **bi**
   indica un'azione in corso.
-- **haf**
+- **hav**
   indica un'azione completata il cui risultato ha un effetto sulla situazione presente.
 - **did**
   indica un'azione completata che non ha connessione con la situazione presente.

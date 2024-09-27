@@ -34,7 +34,7 @@ car il y a pas de marquer général du passif qui pourrait doner l'information p
 Autrement dit, la voix passive et active ont la forme commune.
 Si le sujet ne précise pas les cas comme animé/inanimé, actant/patient, la même forme peut être ambiguë d'un cas à l'autre.
 
-**koko haf yam.**
+**koko hav yam.**
 – Le poulet a déjà mangé. *ou*
 Le poulet est déjà mangé (par nous).
 
@@ -42,29 +42,29 @@ Cet exemple est un cas particulier.
 Dans les communications courantes, cette ambiguïté est levée par la fontion sémantique du sujet.
 La phrase suivant ne peut qu'être interprétée par la voix active.
 
-**mi haf yam.**
+**mi hav yam.**
 – J'ai déjà mangé.
 
 La phrase passive peut être marquée par la verbe auxiliaire
 **be**.
 
-**koko haf be yam.**
+**koko hav be yam.**
 – Le poulet est mangé.  
-**kamar haf be safi.**
+**kamar hav be safi.**
 – Chambre est nettoyée.
 
 On peut indiquer l'agent avec la préposition
 **de**.
 
-**koko haf be yam de vi.**
+**koko hav be yam de vi.**
 – Le poulet est mangé par nous.  
-**kamar haf be safi de mi.**
+**kamar hav be safi de mi.**
 – Chambre est nettoyée par moi.
 
 
 ## Verbes auxiliaires des aspects
 
-**haf**
+**hav**
 'achever'
 indique l'aspect accompli ou achevé.
 Il indique qu'une action s'est produite dans le passé et est toujours en cours, ou est pertinente pour la situation actuelle.

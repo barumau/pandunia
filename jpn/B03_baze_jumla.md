@@ -877,18 +877,18 @@ hide:
 彼/彼女/その人は今家にいます。
 
 
-### haf <small>既に、もう</small>
+### hav <small>既に、もう</small>
 
-**mi haf sal tu se frende.**
+**mi hav sal tu se frende.**
 私はあなたの友達にすでに挨拶しました。
 
-**man haf vize fem.**  
+**man hav vize fem.**  
 男はすでに女を見ました。
 
-**da haf es shefe.**
+**da hav es shefe.**
 彼/彼女/その人は既にチーフです。
 
-**da haf es a haus.**
+**da hav es a haus.**
 彼/彼女/その人は既に家にいます。
 
 

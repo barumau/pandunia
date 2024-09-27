@@ -85,7 +85,7 @@ Ejemplo 3. Frase con estructura clara y negación en el verbo.
 
 Ejemplo 4. Oración compleja pero estructuralmente clara.
 
-    mi se frende  haf    yam un  pai.
+    mi se frende  hav    yam un  pai.
     mi amiga  ASPECTO come un pastel
     'Mi amiga ha comido un pastel.'
 
@@ -136,7 +136,7 @@ Los tiempos y aspectos verbales también se pueden expresar con la ayuda de adve
 como con los auxiliares de aspecto
 **bi**
 (estar en proceso de...), y
-**haf**
+**hav**
 (haber sido completado),
 o los auxiliares de tiempo verbal
 **did**(en el pasado), y
@@ -145,7 +145,7 @@ o los auxiliares de tiempo verbal
 
 **mi bi love tu.**
 – estoy amándote.  
-**mi haf love tu.**
+**mi hav love tu.**
 – te he amado.  
 **mi did love tu.**
 – te amé.  

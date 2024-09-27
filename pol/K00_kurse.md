@@ -31,7 +31,7 @@ hide:
 ### Gramatyka
 
 Zdania w Panduni normalnie podążają za strukturą temat-komentarz.
-Temat wskazuje,o kim lub o czym jest mowa.
+Temat wskazuje, o kim lub o czym jest mowa.
 Komentarz mówi coś o temacie.
 Na przykład, w
 **da es mi se frende**
@@ -666,7 +666,7 @@ jest tak naprawdę bierny czasownik znaczący _być spowodowanym przez_.
 
 Oczywiście
 **of sabab**
-może być też yżywane do wyrażania przyczyny lub powodu czegoś, nawet nie odpowiadając na pytanie.
+może być też używane do wyrażania przyczyny lub powodu czegoś, nawet nie odpowiadając na pytanie.
 
 **mi suka mau of sabab di es kavai**
 – Lubię koty, bo są słodkie.

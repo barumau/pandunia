@@ -64,7 +64,7 @@
 ### 相
 
 相は動作などの段階を表現します。
-パンドゥニアには **bi** と **haf** という二種類の相標識があります。
+パンドゥニアには **bi** と **hav** という二種類の相標識があります。
 
 **bi**
 はある特定のタイミングで動作が*行われている最中である*こと、*進行中*であることを示します。
@@ -81,10 +81,10 @@
 **man** ***vil bi*** **yam ban.**
 – 男性はパンを食べ*ている状態になるでしょう*。
 
-**haf**
+**hav**
 は動作が完了し、その影響が現在まで残っていることを表します。
 
-**man** ***haf*** **yam ban.**
+**man** ***hav*** **yam ban.**
 – 男性はパンを食べ終わりました。 
 – 男性はパンを食べ終わったところです。
 – 男性はパンを食べ終わるでしょう。 
@@ -121,7 +121,7 @@
 
 **ma voka vi. vi shud go.**
 – おかあさんが私たちを呼んでる。 行かなくちゃ。 
-**da shud haf kom pre nun.**
+**da shud hav kom pre nun.**
 – あいつ、今頃にはもう来てなくちゃいけなかったのに。  
 **evri von shud vote.**
 – 誰もが投票すべきだよ。
@@ -155,26 +155,26 @@
 |:------------------------|:--------------------------|:---------------------------|:-----------------------------|
 | **mi yam.**             | I eat.                    | **mi no yam.**             | I don't eat.                 |
 | **mi bi yam.**          | I am eating.              | **mi no bi yam.**          | I'm not eating.              |
-| **mi haf yam.**         | I have eaten.             | **mi no haf yam.**         | I haven't eaten.             |
+| **mi hav yam.**         | I have eaten.             | **mi no hav yam.**         | I haven't eaten.             |
 | **mi did yam.**         | I ate.                    | **mi no did yam.**         | I didn't eat.                |
 | **mi did bi yam.**      | I was eating.             | **mi no did bi yam.**      | I was not eating.            |
-| **mi did haf yam.**     | I had eaten.              | **mi no did haf yam.**     | I had not eaten.             |
+| **mi did hav yam.**     | I had eaten.              | **mi no did hav yam.**     | I had not eaten.             |
 | **mi vil yam.**         | I will eat.               | **mi no vil yam.**         | I won't eat.                 |
 | **mi vil bi yam.**      | I will be eating.         | **mi no vil bi yam.**      | I won't be eating.           |
-| **mi vil haf yam.**     | I will have eaten.        | **mi no vil haf yam.**     | I won't have eaten.          |
+| **mi vil hav yam.**     | I will have eaten.        | **mi no vil hav yam.**     | I won't have eaten.          |
 | **mi did vil yam.**     | I was going to eat.       | **mi no did vil yam.**     | I wasn't going to eat.       |
 | **mi vud yam.**         | I would eat.              | **mi no vud yam.**         | I wouldn't eat.              |
 | **mi vud bi yam.**      | I would be eating  .      | **mi no vud bi yam.**      | I wouldn't be eating.        |
-| **mi vud haf yam.**     | I would have eaten.       | **mi no vud haf yam.**     | I wouldn't have eaten.       |
+| **mi vud hav yam.**     | I would have eaten.       | **mi no vud hav yam.**     | I wouldn't have eaten.       |
 | **mi shud yam.**        | I should eat.             | **mi no shud yam.**        | I shouldn't eat.             |
 | **mi shud bi yam.**     | I should be eating.       | **mi no shud bi yam.**     | I shouldn't be eating.       |
-| **mi shud haf yam.**    | I should have eaten.      | **mi no shud haf yam.**    | I shouldn't have eaten.      |
+| **mi shud hav yam.**    | I should have eaten.      | **mi no shud hav yam.**    | I shouldn't have eaten.      |
 | **mi kan yam.**         | I can eat.                | **mi no kan yam.**         | I can't eat.                 |
 | **mi kan bi yam.**      | I can be eating.          | **mi no kan bi yam.**      | I can't be eating.           |
-| **mi kan haf yam.**     | I may have eaten.         | **mi no kan haf yam.**     | I may not have eaten.        |
+| **mi kan hav yam.**     | I may have eaten.         | **mi no kan hav yam.**     | I may not have eaten.        |
 | **mi did kan yam.**     | I could eat.              | **mi no did kan yam.**     | I couldn't eat.              |
 | **mi did kan bi yam.**  | I could have been eating. | **mi no did kan bi yam.**  | I couldn't have been eating. |
-| **mi did kan haf yam.** | I could have eaten.       | **mi no did kan haf yam.** | I couldn't have eaten.       |
+| **mi did kan hav yam.** | I could have eaten.       | **mi no did kan hav yam.** | I couldn't have eaten.       |
 | **mi vil kan yam.**     | I will be able to eat.    | **mi no vil kan yam.**     | I won't be able to eat.      |
 | **yam!**                | Eat!                      | **no yam!**                | Don't eat!                   |
 | **yu shal yam!**        | You shall eat!            | **yu no shal yam!**        | You shall not eat!           |

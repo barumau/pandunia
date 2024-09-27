@@ -953,18 +953,18 @@ voi käyttää yksinään ilman verbiä.
 – Hän on parhaillaan kotona.
 
 
-### haf <small>jo, valmiiksi</small>
+### hav <small>jo, valmiiksi</small>
 
-**mi haf sal tu se frende.**
+**mi hav sal tu se frende.**
 – Minä olen tervehtinyt ystävääsi.
 
-**man haf vize un filme.**
+**man hav vize un filme.**
 – Mies on katsonut filmin.
 
-**da haf es shefe.**
+**da hav es shefe.**
 – Hän on ollut päällikkö.
 
-**da haf es a haus.**
+**da hav es a haus.**
 – Hän on ollut kotona.
 
 

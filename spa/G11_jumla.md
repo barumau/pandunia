@@ -335,7 +335,7 @@ indica la frase siguiente, y
 **da**
 indica la previa.
 
-**da der es bari, ke mi haf no vize di.**
+**da der es bari, ke mi hav no vize di.**
 – Lo siguiente es importante: resulta que no los veo.  
 **ke pan jen es sim, da es klar.**
 – Todas las personas son iguales; este hecho es claro.

@@ -95,7 +95,7 @@ Los verbos auxiliares indican el tiempo.
 
 - **bi**
   indica un evento que está en curso.
-- **haf**
+- **hav**
   indica un evento que se ha completado y cuyo resulto afecta la situación presente.
 - **did**
   indica un evento que pasó y que no es relacionado con la situación presente.

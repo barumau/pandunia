@@ -159,16 +159,14 @@ they are joined with the tilde (~).
   _R_ is preferably trilled as in Scottish and Indian English, or smooth as in American English.
   Never silent!
 - **s** = [s]  
-  _S_ is always voiceless like _s_ in _sissy_.
+  _S_ is always voiceless like the _s_ in _sissy_.
 - **sh** = [ʃ]  
   _Sh_ is pronounced as in _shop_.
 - **t** = [tʰ] ~ [t]  
   _T_ is pronounced with a puff of air as in _tin_.
-- **x** = [ks] ~ [s]  
-  _X_ is pronounced as _ks_ when it is between vowels.
+- **x** = [ks]  
+  _X_ is pronounced as the _x_ in _box_.
   For example **maxim** is pronounced /maksim/.
-  In other positions it may be pronounced as _s_,
-  for example **max** /mas/, **xenon** /senon/.
 - **z** = [z] ~ [dz]
 
 ## External letters and sounds

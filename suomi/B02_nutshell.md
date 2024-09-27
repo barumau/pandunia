@@ -80,7 +80,7 @@ Esimerkki 3. Rakenteeltaan tarkka lause kieltosanan ansiosta.
 
 Esimerkki 4. Monimutkainen mutta tarkka lause.
 
-    mi   se  frende  haf  yam   un   pai.
+    mi   se  frende  hav  yam   un   pai.
     minä -n  ystävä  jo   syödä yksi piirakka
     'Minun ystäväni on syönyt piirakan.'
 
@@ -134,7 +134,7 @@ Niiden sijasta käytetään apuverbejä ilmaisemaan ajankohtaa ja ajan kulkua.
 Ajan kulkua ilmaistaan apuverbeillä
 **bi**
 (parhaillaan) ja
-**haf**
+**hav**
 (jo), ja ajankohtaa ilmaistaan apuverbeillä
 **did**
 (ennen) ja
@@ -143,7 +143,7 @@ Ajan kulkua ilmaistaan apuverbeillä
 
 **mi bi love tu.**
 – Minä parhaillaan rakastan sinua.  
-**mi haf love tu.**
+**mi hav love tu.**
 – Minä olen jo rakastanut sinua.  
 **mi did love tu.**
 – Minä ennen rakastin sinua.  

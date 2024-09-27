@@ -70,7 +70,7 @@ Menneisyyden tuleisuus voidaan ilmaista kahdella ajankohdan apuverbillä.
 
 Ajan kulkua eli aspektia ilmaisevilla apuverbeillä ilmaistaan tekemisen kestoa ja vaikutusta ajan virrassa.
 Panduniassa on kaksi ajan kulkua ilmaisevaa apuverbiä
-**bi** ja **haf**.
+**bi** ja **hav**.
 
 Apuverbi
 **bi**
@@ -87,12 +87,12 @@ Puheena oleva hetki voidaan ilmaista ajankohdan apuverbillä.
 – Mies tulee olemaan syömässä leipää.
 
 Apuverbi
-**haf**
+**hav**
 ilmaisee, että tekeminen on päättynyt
 ja sen seuraukset vaikuttavat puheena olevaan hetkeen.
 Puheena oleva hetki voidaan ilmaista ajankohdan apuverbillä.
 
-**man** ***haf*** **yam ban.**
+**man** ***hav*** **yam ban.**
 – Mies oli tai on syönyt leipää.  
 **man** ***did haf*** **yam ban.**
 – Mies oli syönyt leipää.  
@@ -125,7 +125,7 @@ Apuverbi
 
 **ma voka vi. vi shud go.**
 – Äiti kutsuu meitä. Meidän pitäisi mennä.  
-**da shud haf kom pre nun.**
+**da shud hav kom pre nun.**
 – Hänen olisi pitänyt tulla ennen tätä.  
 **evri von shud vote.**
 – Kaikkien pitäisi äänestää.

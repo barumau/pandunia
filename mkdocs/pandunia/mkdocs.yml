@@ -9,22 +9,21 @@ theme:
   name: material
   logo: logo.png
   favicon: favicon.png
-  font:
-    code: Ubuntu mono
 nav:
     - ABC: abc.md
     - kata:
-        - 'la shau baru su pati dante': baru_dante.md
+        - 'da let baru se pate dante': baru_dante.md
         - 'tri behe e un gui': 3_buze_e_guye.md
-        - 'tri shau goro': 3_lil_gurube.md
-    - kitabu:
-        - 'insan su putong haki': putong_hake.md
-        - 'din kitabu': dini_kitabe.md
-    - 'loga liste':
-        - 'lexibuku': logia.html
-        - 'dexa su nam': desha_nam.md
-        - 'lexi asal': leksaslia.md
-        - 'lexi su nume': lexi_nume.md
+        - 'tri let goro': 3_lil_gurube.md
+    - kitab:
+        - 'homan se putong hak': putong_hake.md
+        - 'din kitab': dini_kitabe.md
+    - 'lexe liste':
+        - 'lexe buk': logia.html
+        - 'gogia se nam': desha_nam.md
+        - 'lexaslia': leksaslia.md
+        - 'lexe se num': lexi_nume.md
+        - rang: rang.md
     - filme: filme.md
     - linke: linke.md
 extra:

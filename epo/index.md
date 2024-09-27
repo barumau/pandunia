@@ -106,14 +106,14 @@ Tempo estas indikata per helpantaj verboj:
 – pasintaj agoj  
 **vil**
 – estontaj agoj  
-**haf**
+**hav**
 – kompletaj agoj kiuj ankoraŭ influas la nunan situacion  
 **bi**
 – daŭre pasantaj agoj
 
 **di did lese mi se buk.**
 – Ili legis mian libron.  
-**vi haf lese meni buk.**
+**vi hav lese meni buk.**
 – Ni estas leginta multajn librojn.  
 **mi bi lese un buk.**
 – Mi estas leganta libron.  
