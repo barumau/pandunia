@@ -146,17 +146,16 @@ Se toimii!
 
 Pandunian puhujia on useilla keskustelukanavilla internetissä.
 
-| Alusta   | Kanava | Tarkoitus |
-|----------|---------|---------|
-| Discord  | [pandunia deha](https://discord.gg/CgZ6nUpj) | Monipuolinen keskustelupalvelin! |
-| Reddit   | [r/pandunia](https://www.reddit.com/r/pandunia/) | Uutisia ja keskustelua panduniaksi ja englanniksi. |
-| Facebook | [Tekokielet-ryhmä](http://www.facebook.com/groups/tekokielet) | Suomenkielinen ryhmä tekokielistä yleensä. |
-| Facebook | [Pandunia-ryhmä](http://www.facebook.com/groups/pandunia) | Keskustelua eri kielillä. |
-| Telegram | [mimen bashe pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) | Harjoittelu. Täällä puhutaan vain panduniaa! |
-| Telegram | [monikielinen kanava](https://t.me/pandunia_grupe) | Keskustelua eri kielillä. |
-| QQ       | 717549404 | Keskustelua kiinaksi ja muilla kielillä. |
+- [Oma keskustelupalstamme](https://pandunia.info/forum/) – kirjautumista ei tarvita!
+- [Discord-palvelin](https://discord.gg/CgZ6nUpj)
+- Redditin [r/pandunia](https://www.reddit.com/r/pandunia/)-palsta
+- Facebookin [Tekokielet-ryhmä](http://www.facebook.com/groups/tekokielet) tekokielistä yleensä.
+- Facebookin [Pandunia-ryhmä](http://www.facebook.com/groups/pandunia)
+- Telegramin [vi tok pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) Täällä puhutaan vain panduniaa!
+- Telegramin [monikielinen kanava](https://t.me/pandunia_grupe)
+- QQ 717549404: Keskustelua kiinaksi ja muilla kielillä.
 
-Muita pandunian puhujia voi löytää [Amikumu](https://amikumu.com/)-sovelluksella.
+Lähellä olevia pandunian puhujia voi löytää [Amikumu](https://amikumu.com/)-sovelluksella.
 
 Suomeksi on tarjolla [sähköpostilista](https://groups.google.com/forum/?hl=fi&fromgroups=#!forum/suomi-pandunia),
 johon voi liittyä lähettämällä tyhjän viestin osoitteeseen suomi-pandunia+subscribe@googlegroups.com tai käyttämällä selainta ja Google-tiliä.

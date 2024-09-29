@@ -30,6 +30,8 @@ nav:
         - 'этимология': leksaslia.md
 extra:
   social:
+    - icon: fontawesome/regular/comments
+      link: https://pandunia.info/forum/
     - icon: fontawesome/brands/reddit
       link: https://www.reddit.com/r/pandunia/
     - icon: fontawesome/brands/discord

@@ -148,6 +148,7 @@ It works!
 
 You can find other Pandunia speakers in the internet in following forums.
 
+- Our own [discussion forum](https://pandunia.info/forum/) – login not required!
 - [Pandunia Discord server](https://discord.gg/CgZ6nUpj)
 - [Forum in Reddit](https://www.reddit.com/r/pandunia/)
 - [Pandunia Facebook group](http://www.facebook.com/groups/pandunia)
