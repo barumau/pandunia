@@ -74,11 +74,11 @@ La markilo **hav** indikas, ke la ago estas finita kaj ĝia rezulto estas ankora
 
 **man** ***hav*** **yam ban.**
 – Viro estis, estas aŭ estos manĝinta panon.  
-**man** ***did haf*** **yam ban.**
+**man** ***did hav*** **yam ban.**
 – Viro estis manĝinta panon.  
-**man** ***nun haf*** **yam ban.**
+**man** ***nun hav*** **yam ban.**
 – Viro estas manĝinta panon.  
-**man** ***vil haf*** **yam ban.**
+**man** ***vil hav*** **yam ban.**
 – Viro estos manĝinta panon.
 
 

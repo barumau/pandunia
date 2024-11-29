@@ -94,11 +94,11 @@ The time can be indicated with a tense markers.
 
 **man** ***hav*** **yam ban.**
 – The man *had*, *has* or *will have* eaten bread.  
-**man** ***did haf*** **yam ban.**
+**man** ***did hav*** **yam ban.**
 – The man had eaten bread.  
-**man** ***nun haf*** **yam ban.**
+**man** ***nun hav*** **yam ban.**
 – The man has eaten bread.  
-**man** ***vil haf*** **yam ban.**
+**man** ***vil hav*** **yam ban.**
 – The man will have eaten bread.
 
 

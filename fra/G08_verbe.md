@@ -69,17 +69,17 @@ On peut indiquer l'agent avec la préposition
 indique l'aspect accompli ou achevé.
 Il indique qu'une action s'est produite dans le passé et est toujours en cours, ou est pertinente pour la situation actuelle.
 
-**da _haf_ es guru.**
+**da _hav_ es guru.**
 – Il ou elle est déjà enseignant.  
 **mi no _ha_ gul alkol.**
 – Je n'ai pas encore bu d'alcool.  
-**mi _haf_ no gul alkol.**
+**mi _hav_ no gul alkol.**
 – Je ne bois déjà plus d'alcool. (J'ai déjà achevé la situation où je ne bois pas d'alcool.)  
-**mi _haf_ don la buk to di.**
+**mi _hav_ don la buk to di.**
 – Je leur ai déjà donné le livre.  
-**damen no _haf_ ridon da to mi.**
+**damen no _hav_ ridon da to mi.**
 – Ils ne me l'ont pas encore rendu.  
-**mi _haf_ kom to site.**
+**mi _hav_ kom to site.**
 – Je suis déjà venu en ville.
 
 

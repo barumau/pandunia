@@ -66,17 +66,17 @@ indica que una situación es actual.
 indica que una situación ha sido logrado, y el estado presente es el resulto de eso.
 Preste atención a la consecuencia de una acción pasada a la situación actual.
 
-**da _haf_ es guru.**
+**da _hav_ es guru.**
 – Se ha hecho docente.  
-**mi _haf_ no gul yo alkohol.**
+**mi _hav_ no gul yo alkohol.**
 – Ya no bebir alcohol.  
-**mi no _haf_ gul yo alkohol.**
+**mi no _hav_ gul yo alkohol.**
 – No he bebido alcohol.  
-**mi _haf_ don la buk to di.**
+**mi _hav_ don la buk to di.**
 – Los he dado el libro. (Todavía lo tienen y yo no.)  
-**damen no _haf_ ridon da to mi.**
+**damen no _hav_ ridon da to mi.**
 – No me lo han devuelvo.  
-**mi _haf_ kom to siti.**
+**mi _hav_ kom to siti.**
 – He venido a la ciudad.
 
 **did**

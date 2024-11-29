@@ -94,11 +94,11 @@ Puheena oleva hetki voidaan ilmaista ajankohdan apuverbillä.
 
 **man** ***hav*** **yam ban.**
 – Mies oli tai on syönyt leipää.  
-**man** ***did haf*** **yam ban.**
+**man** ***did hav*** **yam ban.**
 – Mies oli syönyt leipää.  
-**man** ***nun haf*** **yam ban.**
+**man** ***nun hav*** **yam ban.**
 – Mies on syönyt leipää.  
-**man** ***vil haf*** **yam ban.**
+**man** ***vil hav*** **yam ban.**
 – Mies tulee olemaan syönyt leipää.
 
 
