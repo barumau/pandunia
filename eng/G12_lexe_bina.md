@@ -19,7 +19,7 @@ For example, the word
 **hali**
 can function equally as an adjective (_blank_ or _void_), noun (_a blank_) and verb (_to make blank_ or _to get blank_).
 
-**tu have hali papir, he?**
+**tu hav hali papir, he?**
 – Do you have some blank paper?  
 **don mi un hali!**
 – Give me a blank!  
@@ -75,29 +75,29 @@ including **a-**, **de-**, **pro-**, **re-** and **su-** among others,
 in order to re-create many international words as native Pandunia words.
 
              a-      'to, toward'
-       +   sese      'go, pass'
+       +    ses      'go, pass'
     ____________
-    =     asese      'get past to, access'
+    =      ases      'get past to, access'
 
            pro-      'forward, to the front'
-       +   sese      'go, pass'
+       +    ses      'go, pass'
     ____________
-    =   prosese      'pass forward, process'
+    =    proses      'pass forward, process'
 
             re-      'back to'
-       +   sese      'go, pass'
+       +    ses      'go, pass'
     ____________
-    =    resese      'pass back, recede'
+    =     reses      'pass back, recede'
 
             de-      'away, off'
-       +   sese      'go, pass'
+       +    ses      'go, pass'
     ____________
-    =    desese      'pass away, die'
+    =     deses      'pass away, die'
 
             su-      'good, well'
-       +   sese      'go, pass'
+       +    ses      'go, pass'
     ____________
-    =    susese      'go well, succeed'
+    =     suses      'go well, succeed'
 
 Note that these international prefixes are used only in compound words that really mean the sum their parts.
 Fossilized words whose meanings are no longer the sum of their parts,
@@ -107,9 +107,9 @@ are not compound words in Pandunia.
 Many suffixes have two forms, one that begins with a vowel and one that begins with a consonant.
 The vowel-initial form is used when the base word ends in a consonant or in the vowel **-e**,
 which disappears before the suffix.
-Below we add the vowel-initial suffix **-ik** to a base word that ends in **-e**.
+Below we add the vowel-initial suffix **-ik** to a base word that ends in a consonant.
 
-            fize       'body'
+             fiz       'body'
        +     -ik       'adjectival suffix'
     _____________
     =      fizik       'bodily, physical'
@@ -131,15 +131,15 @@ are alternative forms of one and the same underlying suffix,
 which has an optional initial sound.
 The surface form of the suffix depends on the properties of the base word.
 
-Another suffix with two forms is **(o)krate**.
-Its vowel-initial form is **-okrate**
-and its consonant initial form is **-krate**.
-So this time the optional sound is a vowel (and not a consonant as in **(t)ike**).
+Another suffix with two forms is **(o)krat**.
+Its vowel-initial form is **-okrat**
+and its consonant initial form is **-krat**.
+So this time the optional sound is a vowel (and not a consonant as in **(t)ik**).
 
 Below we add this suffix to a base word that ends in **-e**.
 
-            deme      'people, public'
-      + (o)krate      'rule, govern'
+             dem      'people, public'
+      +  (o)krat      'rule, govern'
       +      -ia      'collective noun suffix'
     ______________
     =  demokratia     'democracy, rule by the public'
@@ -147,7 +147,7 @@ Below we add this suffix to a base word that ends in **-e**.
 Next we add the suffix to a base word that ends in another vowel.
 
            media      'the media'
-      + (o)krate      'rule, govern'
+      +  (o)krat      'rule, govern'
       +      -ia      'collective noun suffix'
     ______________
     = mediakratia     'mediacracy, rule by the media'
@@ -192,7 +192,7 @@ means being or doing the opposite of the base word.
 'smoker'
 → **antabakiste**
 'non-smoker'  
-**kluze**
+**kluz**
 'closed'
 → **ankluze**
 'unclosed, open'  
@@ -207,13 +207,13 @@ The prefix
 **de-**
 means that the action is directed away from or off something.
 
-**sepe**
+**sep**
 'take, catch'
-→ **desepe**
+→ **desep**
 'take away, remove'  
-**dute**
+**dut**
 'lead, conduct'
-→ **dedute**
+→ **dedut**
 'lead away, deduce'  
 **parte**
 'part, chip'
@@ -223,9 +223,9 @@ means that the action is directed away from or off something.
 'code'
 → **dekode**
 'decode, remove coding'  
-**tape**
+**tap**
 'plug, cap, stopper'
-→ **detape**
+→ **detap**
 'unplug, remove the plug, cap or stopper'
 
 #### dis-
@@ -234,9 +234,9 @@ The prefix
 **dis-**
 means that the action is directed apart or in many directions.
 
-**trate**
+**trat**
 'draw'
-→ **distrate**
+→ **distrat**
 'draw apart, distract'  
 **turbe**
 'whirl, spin'
@@ -251,13 +251,13 @@ The prefix **dus-** adds a quality of badness to the base word.
 'function'
 → **dusfunte**
 'malfunction, dysfunction'  
-**rupe**
+**rup**
 'appearance, looks'
 → **dusrupik**
 'bad-looking, ugly'  
-**forme**
+**forma**
 'form'
-→ **dusforme**
+→ **dusforma**
 'malform'
 
 #### ex-
@@ -266,13 +266,13 @@ The prefix
 **ex-**
 means that the action is directed outside from something.
 
-**sepe**
+**sep**
 'take, catch'
-→ **exsepe**
+→ **exsep**
 'take out, except'  
-**jete**
+**jet**
 'thrust'
-→ **exjete**
+→ **exjet**
 'thrust out, eject'
 
 #### in-
@@ -281,13 +281,13 @@ The prefix
 **in-**
 means that the action is directed into something.
 
-**jete**
+**jet**
 'thrust'
-→ **injete**
+→ **injet**
 'thrust in, inject'  
-**kluze**
+**kluz**
 'close, shut'
-→ **inkluze**
+→ **inkluz**
 'close in, enclose, include'
 
 #### kon- ~ kom- ~ ko-
@@ -298,9 +298,9 @@ The form **kom-** is used when the following word begins with a *b*, *p* or *m*,
 the form **ko-** is used when the following word begins with an *r* or *l*,
 and the form **kon-** is used in all other cases.
 
-**tene**
+**ten**
 'hold, keep'
-→ **kontene**
+→ **konten**
 'keep together'  
 **stru**
 'build, structure'
@@ -313,11 +313,13 @@ and the form **kon-** is used in all other cases.
 
 #### per-
 
-The prefix **per-** means that something is done completely, entirely or all the way through.
+The prefix
+**per-**
+means that something is done completely, entirely or all the way through.
 
-**fete**
-'make, do'
-→ **perfete**
+**fat**
+'done'
+→ **perfat**
 'perfect, completely done'  
 **uza**
 'use'
@@ -347,13 +349,13 @@ means that something is before in time or order.
 'put, pose'
 → **prepozi**
 'put before, prepend'  
-**dite**
+**dit**
 'tell'
-→ **predite**
+→ **predit**
 'foretell, predict'  
-**vize**
+**viz**
 'see'
-→ **previze**
+→ **previz**
 'foresee, preview'
 
 #### pro-
@@ -390,13 +392,13 @@ The prefix **ri-** means repetition or doing again.
 'form'
 → **riforma**
 'form again, reform'  
-**nate**
+**nat**
 'be born'
-→ **rinate**
+→ **rinat**
 'be born again'  
-**pleye**
+**pley**
 'play'
-→ **ripleye**
+→ **ripley**
 'play again, replay'
 
 #### sin- ~ sim-
@@ -427,11 +429,11 @@ and the form **sin-** is used in all other cases.
 
 The prefix **su-** adds the quality of goodness into the base word.
 
-**sese**
+**ses**
 'pass, go by'
-→ **susese**
+→ **suses**
 'go well, succeed'  
-**rupe**
+**rup**
 'appearance, looks'
 → **surupik**
 'good-looking'
@@ -445,19 +447,19 @@ The suffix
 **-aje**
 means something that is made of or something that consists of the thing indicated by the base word.
 
-**bage**
+**bag**
 'bag'
 → **bagaje**
 'baggage, luggage'  
-**kore**
+**kor**
 'core'
 **koraje**
 'guts, the things in the core'  
-**mise**
+**mis**
 'send'
 → **misaje**
 'something sent, message'  
-**fase**
+**fas**
 'face'
 → **fasaje**
 'facade, frontage'  
@@ -472,7 +474,7 @@ The suffix
 **-al**
 means that something belongs to or is related to the thing or person indicated by the base word.
 
-**fine**
+**fin**
 'end'
 → **final**
 'final, belonging to the end'  
@@ -550,43 +552,56 @@ means that something is possible or able to be done.
 → **uzabil**
 'one that can be used, usable'
 
-#### -eme
+#### -em
 
 This rarely used suffix means a fundamental unit in the system of things that is indicated by the base word.
 For example,
-**lexeme**
+**lexem**
 ('lexeme') is the fundamental unit in the system of
 **lexe**
 'words'.
 For example *spoke* and *spoken* are individual words but they represent the same underlying fundamental unit, which is *speak* in its basic form.
 
-**fone**
+**fon**
 'speech sound'
-→ **foneme**
+→ **fonem**
 'phoneme, distinct speech sound'  
 **lexe**
 'word'
-→ **lexeme**
+→ **lexem**
 'lexeme, fundamental unit of a family of words'  
-**mite**
+**mit**
 'myth'
-→ **miteme**
+→ **mitem**
 'mytheme, an archetypal story'
 
-#### -ente ~ -nte
+#### -en ~ -n
 
-The suffix
-**-(e)nte**
+The active participle suffix
+**-(e)n**
 means 'one who does the action of the base word'.
 
 **es**
 'to be'
-→ **esente**
+→ **esen**
 'a being, one who is'  
 **loga**
 'to talk'
-→ **logante**
+→ **logan**
 'a talking one, one who talks'
+
+This suffix has additional combining forms
+**-ent-**
+and
+**-nt-**
+which are used before other suffixes.
+
+**esen** + **-ia**
+→ **esentia**
+'being, essence'  
+**esen** + **-ik**
+→ **esentik**
+'essential'
 
 #### -er ~ -ter
 
@@ -599,27 +614,27 @@ It implies often but not always a professional occupation.
 'to do, to act'
 → **ater**
 'doer, actor, one who does or acts'  
-**bake**
+**bak**
 'to bake'
 → **baker**
 'baker'  
-**lide**
+**lid**
 'to lead'
 → **lider**
 'leader, the one who leads'  
-**filsofe**
+**filsof**
 'to think deeply'
 → **filsofer**
 'philosopher'  
-**sapate**
+**sapat**
 'shoe'
 → **sapater**
 'shoemaker'  
-**muskete**
+**musket**
 'musket'
 → **musketer**
 'musketeer'  
-**kase**
+**kas**
 'box, cash box'
 → **kaser**
 'cashier'
@@ -630,11 +645,11 @@ This suffix is the combination of
 **-(t)er** + **-ia**.
 It means the place for making, producing or selling the thing that is indicated by the base word.
 
-**bake**
+**bak**
 'to bake'
 → **bakeria**
 'bakery'  
-**perfume**
+**perfum**
 'perfume'
 → **perfumeria**
 'perfumery'  
@@ -651,24 +666,28 @@ In some rare cases this suffix is trimmed into
 → **pizaria**
 'pizzeria, pizza place'
 
-#### -et ~ -let
+#### -et ~ -t
 
-The suffix
-**-(l)et**
-expresses 'small size'.
+The passive participle suffix
+**-(e)t**
+expresses one who undergoes or has undergone the action of the root.
 
-**pake**
-'pack'
-→ **paket**
-'packet'  
-**kase**
-'case'
-→ **kaset**
-'cassette'  
-**sigar**
-'cigar'
-→ **sigaret**
-'cigarette'
+**fa**
+'to make'
+→ **fat**
+'(that which is or has been) done'  
+**van**
+'to want'
+→ **vanet**
+'(that which is or has been) wanted'  
+**vize**
+'to view or see'
+→ **vizet**
+'(that which is or has been) viewed or seen'  
+**audi**
+'to hear'
+→ **audet**
+'(that which is or has been) heard'  
 
 #### -fa ~ -ifa
 
@@ -692,7 +711,7 @@ means to make or turn into the thing that is indicated by the base word.
 'one'
 → **unifa**
 'yhdistää'  
-**klare**
+**klar**
 'clear'
 → **klarifa**
 'make clear, clarify'
@@ -726,7 +745,7 @@ The suffix
 has a variety of meanings,
 but fundamentally it means a collective of things or a community of people.
 
-**nese**
+**nes**
 'island'
 → **nesia**
 'archipelago'  
@@ -747,7 +766,7 @@ This ending is often used in place names, especially in country names.
 However it is not always used,
 and there are also many country names that do not end in **-ia**.
 
-**arabe**
+**arab**
 'Arab, Arabic'
 → **Arabia**
 'Arabia'  
@@ -759,7 +778,7 @@ and there are also many country names that do not end in **-ia**.
 'Turk, Turkish'
 → **Turkia**
 'Turkey'  
-**itale**
+**ital**
 'Italic, Italian'
 → **Italia**
 'Italy'  
@@ -780,15 +799,15 @@ The suffix
 is also used in names of scientific disciplines,
 where it can be understood as collection of scientific knowledge and practices.
 
-**kime**
+**kim**
 'chemical'
 → **kimia**
 'chemistry'  
-**filsofe**
+**filsof**
 'view, outlook, life wisdom'
 → **filsofia**
 'philosophy, the discipline of wisdom'  
-**loje**
+**loj**
 'to study and reason systematically'
 → **lojia**
 'systematic study, logic'  
@@ -803,11 +822,11 @@ The suffix
 **-(t)ik**
 means something that is characterized by the thing or quality indicated by the base word.
 
-**baze**
+**baz**
 'base, basis'
 → **bazik**
 'basic'  
-**fize**
+**fiz**
 'body'
 → **fizik**
 'physical'  
@@ -824,23 +843,23 @@ means something that is characterized by the thing or quality indicated by the b
 → **tematik**
 'thematic'
 
-#### -ime
+#### -im
 
 The suffix
-**-ime**
+**-im**
 means something that is in the position or rank that is indicated by the base word.
 
 **un**
 'one'
-→ **unime**
+→ **unim**
 'the first'  
 **pre**
 'fore, front'
-→ **prime**
+→ **prim**
 'foremost, prime'  
 **extre**
 'outside, exterior'
-→ **extrime**
+→ **extrim**
 'outermost, extreme'
 
 #### -ion ~ -tion
@@ -852,11 +871,11 @@ means 'an action or process'.
 'act'
 → **ation**
 'action'  
-**dite**
+**dit**
 'say'
 → **dition**
 'saying, diction'  
-**konsume**
+**konsum**
 'consume'
 → **konsumion**
 'consumption'  
@@ -875,11 +894,11 @@ means an ideology, a way of thinking or a way of life.
 'alcohol'
 → **alkolisme**
 'alcoholism'  
-**ative**
+**ativ**
 'active'
 → **ativisme**
 'activism'  
-**dee**
+**deo**
 'god'
 → **deisme**
 'theism'
@@ -894,37 +913,33 @@ means a person who tends to behave or think in a certain way or an adherent of a
 'alcohol'
 → **alkoliste**
 'alcoholic, alcoholist'  
-**ative**
+**ativ**
 'active',
 → **ativiste**
 'activist'  
-**dee**
+**deo**
 'god'
 → **deiste**
 'theist, one who believes in existence of a god or gods'
 
-#### -it ~ -t
+#### -it ~ -lit
 
 The suffix
-**-it**
-expresses one who undergoes or has undergone the action of the root.
+**-(l)it**
+expresses 'small size'.
 
-**fa**
-'to make'
-→ **fat**
-'(that which is or has been) done'  
-**van**
-'to want'
-→ **vanit**
-'(that which is or has been) wanted'  
-**vize**
-'to view or see'
-→ **vizit**
-'(that which is or has been) viewed or seen'  
-**audi**
-'to hear'
-→ **audit**
-'(that which is or has been) heard'  
+**pak**
+'pack'
+→ **pakit**
+'packet'  
+**kas**
+'case'
+→ **kasit**
+'cassette'  
+**sigar**
+'cigar'
+→ **sigarit**
+'cigarette'
 
 #### -ita ~ -ta
 
@@ -932,7 +947,7 @@ The suffix
 **-(i)ta**
 creates abstract nouns that represent a quality or a state.
 
-**nove**
+**nov**
 'new, novel'
 → **novita**
 'newness, novelty'  
@@ -961,28 +976,28 @@ means 'chemical element'.
 #### -ive ~ -tive
 
 The suffix
-**-(t)ive**
+**-(t)iv**
 means someone who tends to do what the base word says.
 **ate**
 'act, perform'
-→ **ative**
+→ **ativ**
 'active, inclined to act'  
-**exploze**
+**exploz**
 'explode'
-→ **explozive**
+→ **exploziv**
 'explosive'  
 **dika**
 'point at, indicate'
-→ **dikative**
+→ **dikativ**
 'indicative'
 
-#### -ize ~ -tize
+#### -iza ~ -tiza
 
 The suffix
 **-(t)iza**
 means 'to furnish or equip with something'.
 
-**aure**
+**aur**
 'gold'
 → **auriza**
 'to gild, to coat with gold'  
@@ -991,13 +1006,13 @@ means 'to furnish or equip with something'.
 → **makiniza**
 'to mechanize, to equip with machinery'
 
-#### -krate ~ okrate
+#### -krat ~ okrat
 
 The suffix
-**(o)krate**
+**(o)krat**
 means 'to rule, govern'.
 
-**deme**
+**demo**
 'people, public'
 → **demokratia**
 'democracy, rule by the people'  
@@ -1040,10 +1055,10 @@ means 'measurement'.
 → **simmetria**
 'equal measurements, symmetry'
 
-#### -nome ~ onome
+#### -nomia ~ onomia
 
 The suffix
-**(o)nome**
+**(o)nomia**
 means 'arrangement, management'.
 
 **astre**
@@ -1070,11 +1085,11 @@ The suffix
 **-(t)or**
 means an apparatus, device or machine for doing the work that is incidated by the base word.
 
-**trate**
+**trat**
 'drag, haul'
 → **trator**
 'tractor'  
-**fotografe**
+**fotograf**
 'to photograph'
 → **fotografor**
 'photograph apparatus, camera'
@@ -1083,9 +1098,9 @@ means an apparatus, device or machine for doing the work that is incidated by th
 
 The suffix
 **-(k)ul**
-means a 'concentration of something'.
+indicates intensification or concentration, frequently but not necessarily into a smaller size.
 
-**kume**
+**kum**
 'mound, hill'
 → **kumul**
 'small hill, hillock, heap, pile'  
@@ -1096,7 +1111,11 @@ means a 'concentration of something'.
 **mira**
 'stare in awe'
 → **mirakul**
-'wonder, miracle'
+'wonder, miracle'  
+**lit**
+'small'
+→ **litul**
+'little'
 
 #### -ur ~ -tur
 
@@ -1128,11 +1147,11 @@ means something that is the result or product of the action that is indicated by
 → **metan**
 'methane'
 
-**-ate**
+**-at**
 'salt or ester':  
 **sulfe**
 'sulfur'
-→ **sulfate**
+→ **sulfat**
 'sulfate'  
 
 **-en**
@@ -1156,11 +1175,11 @@ means something that is the result or product of the action that is indicated by
 **metin**
 'methyne'
 
-**-ite**
+**-it**
 'salt or ester':  
 **sulfe**
 'sulfur'
-→ **sulfite**
+→ **sulfit**
 'sulfite'
 
 **-ol**
@@ -1179,7 +1198,7 @@ means something that is the result or product of the action that is indicated by
 
 **-os**
 'sugar':  
-**frute**
+**frut**
 'fruit'
 → **frutos**
 'fructose'  
