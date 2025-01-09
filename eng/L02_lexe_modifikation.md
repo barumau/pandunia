@@ -10,22 +10,22 @@ and the _hard c_ is written with a **k**.
 
 | Latinate | Pandunia | Notes and examples |
 |----------|----------|--------------------|
-| c (hard) | k        | café > **kafe**, copy > **kopi**, cup > **kupa** |
+| c (hard) | k        | café > **kafe**, copy > **kopi**, cup > **kup** |
 | c (soft) | s        | city > **site** |
 | g (soft) | g (hard) | geography > **geografia** |
 | s        | s / z    | **s**ol > **sol**, ma**ss**age > **masaje**, ro**s**e > **roze** |
 | ch (Greek)| h       | chaos > **haos**, cholera > **holera** |
-| ch (French) | x     | chic > **shike** |
+| ch (French) | x     | chic > **shik** |
 | th       | t        | theme > **tem** |
 | ph       | f        | philosophy > **filsofia** |
-| qu       | k        | mosquito > **moskite** |
+| qu       | k        | mosquito > **moskito** |
 | x        | x        | galaxy > **galaxia** |
 | -tion    | -tion    | nation > **nation**, function > **funtion** |
 
 The *t* in *-tion* sounds like the normal *t*.
 It doesn't sound like *sh* as in English or like *s* as in French.
 Therefore the *t*'s sound identical, for example, in the derivation series
-**ate** 'act', **ative** 'active' and **ation** 'action'.
+**ate** 'act', **ativ** 'active' and **ation** 'action'.
 
 
 ## Sinitic words
@@ -88,11 +88,11 @@ and it has added a vowel after the final stops.
 | Middle Chinese | Mandarin<br/>(Pinyin) | Cantonese<br/>(Jyutping) | Japanese<br/>(Romaji) | Korean<br/>(RR) | Vietnamese | Pandunia  |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | -m       | -n       | -m       | -n       | -m       | -m       | -m       |
-| -p*      | -        | -p*      | -        | -p*      | -p*      | -bV, -pV |
+| -p*      | -        | -p*      | -        | -p*      | -p*      | -p, -b   |
 | -n       | -n       | -n       | -n       | -n       | -n       | -n       |
-| -t*      | -        | -t*      |-chi, -tsu| -l       | -t*      | -dV, -tV |
+| -t*      | -        | -t*      |-chi, -tsu| -l       | -t*      | -t, -d   |
 | -ŋ       | -ng      | -ng      | -n       | -ng      | -ng      | -ng      |
-| -k*      | -        | -k*      | -ki, -ku | -k*      | -c*, -ch | -gV, -kV |
+| -k*      | -        | -k*      | -ki, -ku | -k*      | -c*, -ch | -k, -g   |
 
 (*) The final consonants in Middle Chinese, Cantonese, Korean and Vietnamese have no audible release.
 They are neither voiced nor aspirated.
@@ -121,15 +121,14 @@ The recipe for building a Sinitic word for Pandunia is the following:
    Typically at least 2/3 of them agree.
    Japanese and Vietnamese have frequently changed it.
 2. Select the medial vowel(s) firstly from Mandarin then Japanese.
-   Japanese is the only Sinitic language that uses a five-vowel system that is compatible with Pandunia's vowel system.
+   Japanese is the only language of those with Sino-Xenic vocabulary that uses a five-vowel system that is compatible with Pandunia's vowel system.
 3. Select the final nasal or stop consonant firstly from Cantonese then from Korean, Japanese and/or Vietnamese.
    Typically at least three of them all agree.
-4. Add **-e** if the stem ends in a stop consonant.
 
 Some examples of this word adoption process are shown in the table below.
 
 | Mandarin | Cantonese | Japanese | Korean    | Vietnamese | Pandunia  |
 |----------|-----------|----------|-----------|------------|-----------|
-| 罚 fa2  | 罰 fat6  | 罰 batsu | 벌 beol | phạt  | **fate**  |
+| 罚 fa2  | 罰 fat6  | 罰 batsu | 벌 beol | phạt  | **fat**  |
 | 板 ban3 | 板 baan2 | 板 ban   | 판 pan  | bản   | **ban**  |
-| 术 shu4 | 術 seot6 | 術 jutsu | 술 sul  | thuật | **shute** |
+| 术 shu4 | 術 seot6 | 術 jutsu | 술 sul  | thuật | **shut** |

@@ -159,22 +159,28 @@ in order to give the command more force.
 | **mi yam.**             | I eat.                    | **mi no yam.**             | I don't eat.                 |
 | **mi bi yam.**          | I am eating.              | **mi no bi yam.**          | I'm not eating.              |
 | **mi hav yam.**         | I have eaten.             | **mi no hav yam.**         | I haven't eaten.             |
+| **mi hav bi yam.**      | I have been eating.       | **mi no hav bi yam.**      | I haven't been eating.       |
 | **mi did yam.**         | I ate.                    | **mi no did yam.**         | I didn't eat.                |
 | **mi did bi yam.**      | I was eating.             | **mi no did bi yam.**      | I was not eating.            |
 | **mi did hav yam.**     | I had eaten.              | **mi no did hav yam.**     | I had not eaten.             |
+| **mi did hav bi yam.**  | I had been eating.        | **mi no did hav bi yam.**  | I hadn't been eating.        |
 | **mi vil yam.**         | I will eat.               | **mi no vil yam.**         | I won't eat.                 |
 | **mi vil bi yam.**      | I will be eating.         | **mi no vil bi yam.**      | I won't be eating.           |
 | **mi vil hav yam.**     | I will have eaten.        | **mi no vil hav yam.**     | I won't have eaten.          |
+| **mi vil hav bi yam.**  | I will have been eating.  | **mi no vil hav bi yam.**  | I won't have been eating.    |
 | **mi did vil yam.**     | I was going to eat.       | **mi no did vil yam.**     | I wasn't going to eat.       |
 | **mi vud yam.**         | I would eat.              | **mi no vud yam.**         | I wouldn't eat.              |
 | **mi vud bi yam.**      | I would be eating  .      | **mi no vud bi yam.**      | I wouldn't be eating.        |
 | **mi vud hav yam.**     | I would have eaten.       | **mi no vud hav yam.**     | I wouldn't have eaten.       |
+| **mi vud hav bi yam.**  | I would have been eating. | **mi no vud hav bi yam.**  | I wouldn't have been eating. |
 | **mi shud yam.**        | I should eat.             | **mi no shud yam.**        | I shouldn't eat.             |
 | **mi shud bi yam.**     | I should be eating.       | **mi no shud bi yam.**     | I shouldn't be eating.       |
 | **mi shud hav yam.**    | I should have eaten.      | **mi no shud hav yam.**    | I shouldn't have eaten.      |
+| **mi shud hav bi yam.** | I should have been eating.| **mi no shud hav bi yam.** | I shouldn't have been eating.|
 | **mi kan yam.**         | I can eat.                | **mi no kan yam.**         | I can't eat.                 |
 | **mi kan bi yam.**      | I can be eating.          | **mi no kan bi yam.**      | I can't be eating.           |
 | **mi kan hav yam.**     | I may have eaten.         | **mi no kan hav yam.**     | I may not have eaten.        |
+| **mi kan hav bi yam.**  | I may have been eating.   | **mi no kan hav bi yam.**  | I may not haven been eating. |
 | **mi did kan yam.**     | I could eat.              | **mi no did kan yam.**     | I couldn't eat.              |
 | **mi did kan bi yam.**  | I could have been eating. | **mi no did kan bi yam.**  | I couldn't have been eating. |
 | **mi did kan hav yam.** | I could have eaten.       | **mi no did kan hav yam.** | I couldn't have eaten.       |
@@ -205,6 +211,9 @@ and when there isn't an object, the verb is intransitive.
 – The baker bakes bread. (transitive sentence)  
 **ban bake in tanur.**
 – Bread bakes in the oven. (intransitive sentence)
+
+
+## Serial verb construction
 
 Serial verb construction is a string of verbs that share the same subject,
 which is before the verbs.
@@ -292,24 +301,24 @@ It denotes the origin of movement, 'from'.
 **di kom of Brazil.**
 – They come from Brazil.
 
-It denotes origin of existence, 'of'.
+It denotes also the origin of existence, 'of'.
 
-**da lexe** ***kitab*** **es of arabe asle.**
+**da lexe** ***kitab*** **es of arab asle.**
 – This word *kitab* is of Arabic origin.
 
-It denotes material origin, 'of'.
+It denotes also the material origin, 'of'.
 
 **da kopa es of glass.**
 – The cup is made of glass.
 
-It denotes the causal origin, 'because of'.
+It denotes also the causal origin, 'because of'.
 
 **da mau morte of sen umre.**
 – The cat died of old age.  
 **da mau morte of toxe.**
 – The cat died because of poison.
 
-It denotes the mental origin, 'of, about'.
+It denotes also the mental origin, 'of, about'.
 
 **vi tok of yu.**
 – We talk about you.  
@@ -401,6 +410,6 @@ The preposition
 **vis**
 denotes substitution, 'instead of, on behalf of'.
 
-**da loga vise mi.**
+**da loga vis mi.**
 – He speaks on my behalf.
 
