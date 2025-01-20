@@ -58,7 +58,7 @@ One sound = one letter.
 
 The stress is on that syllable that is before the last consonant of the root word.
 Prefixes and suffixes are either unstressed or they may carry a secondary stress.  
-**méni jén kán báshe Englísh in Amérika.**
+**méni hóm kán básh Englísh in Amérika.**
 – Many people can speak English in America.
 
 Words stay always the same in Pandunia.
@@ -171,7 +171,7 @@ Find Pandunia speakers near you in [Amikumu](https://amikumu.com/) app!
 - [Counting in Pandunia](https://www.languagesandnumbers.com/how-to-count-in-pandunia/en/panglobish/) in _Of Languages and Numbers_
 - [Flashcards and quizzes](https://lingopolo.org/pandunia/) in _Lingopolo_
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "vi bashe pandunia!")  
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "vi tok pandunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 You can contact the creator and a main developer of Pandunia, Risto Kupsala, via email

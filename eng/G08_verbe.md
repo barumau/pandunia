@@ -350,8 +350,8 @@ The preposition
 **kon**
 denotes togetherness, 'with, in the company of'.
 
-**da loga kon da shefe.**
-– He/she speaks with the boss.
+**da log kon da shefe.**
+– He/she talks with the boss.
 
 #### Laterness: pos
 
@@ -410,6 +410,6 @@ The preposition
 **vis**
 denotes substitution, 'instead of, on behalf of'.
 
-**da loga vis mi.**
-– He speaks on my behalf.
+**da log vis mi.**
+– He talks on my behalf.
 

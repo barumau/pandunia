@@ -585,9 +585,9 @@ means 'one who does the action of the base word'.
 'to be'
 → **esen**
 'a being, one who is'  
-**loga**
+**log**
 'to talk'
-→ **logan**
+→ **logen**
 'a talking one, one who talks'
 
 This suffix has additional combining forms

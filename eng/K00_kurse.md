@@ -479,7 +479,7 @@ to eat or drink
 **tu ne?**
 – And you?  
 <big>☹</big>
-**mi no bashe pandunia...**
+**mi no bash pandunia...**
 – I don't speak Pandunia...  
 <big>☺</big>
 **perdon! sual da yam cha?**
@@ -538,7 +538,7 @@ Of course common and proper nouns can also be used.
 – Does the chief drink coffee?  
 **sual papa safi kamar?**
 – Does the father clean the room?  
-**sual Niki bashe pandunia?**
+**sual Niki bash pandunia?**
 – Does Nicky speak Pandunia?
 
 
@@ -593,7 +593,7 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**bashe**
+**bash**
 speak a language  
 **minute**
 minute  
@@ -619,8 +619,8 @@ yes
 
 ### Answers to the Exercises
 
-1. sual tu bashe pandunia?
-2. ye. mi bashe pandunia.
+1. sual tu bash pandunia?
+2. ye. mi bash pandunia.
 3. sual mama yam kafe?
 4. no. da no yam kafe.
 5. sual da yam supe?

@@ -45,7 +45,7 @@ Two or more modifiers can modify the same noun.
 A modifier that modifies a verb
 is placed immediately before the verb.
 
-**tu _rapid_ loga.**
+**tu _rapid_ log.**
 – You talk _fast_.  
 **di jen _gud_ kitab.**
 – They write _well_.
@@ -101,17 +101,17 @@ The compound adverb is placed immediately before the verb that it modifies.
 
 **ver much**
 – very much  
-**mi _ver much_ van loga.**
-– I want very much to speak.  
-**mi van _ver much_ loga.**
-– I want to speak very much.
+**mi _ver much_ van log.**
+– I want very much to talk.  
+**mi van _ver much_ log.**
+– I want to talk very much.
 
 It is also possible to place the compound adverb very last in the sentence,
 and then it modifies the sentence as a whole.
 The meaning is the same like when the compound adverb modifies the main verb.
 
-**mi van loga _ver much_.**
-– I want to speak very much.  
+**mi van log _ver much_.**
+– I want to talk very much.  
 **sual tu sona _bas gud_?**
 – Did you sleep well enough?
 
@@ -139,6 +139,6 @@ relates the adverbs of comparison to the object of comparison.
 – Apples are better than oranges.  
 **aranja es les gud dan aple.**
 – Oranges are less good than apples.  
-**tu loga sim gud dan mi.**
-– You speak as well as me.
+**tu log sim gud dan mi.**
+– You talk as well as me.
 

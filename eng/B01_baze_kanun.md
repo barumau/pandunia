@@ -22,10 +22,10 @@ Almost every letter and letter-combination indicates always the same sound.
 ### (3) Regular stress accent
 
 Root words are stressed on the syllable that is before the last consonant of the word, f.ex.
-**háu** ('nice'), **dúnia** ('world'), **báshe** ('language'), **amén** ('amen').
+**háu** ('nice'), **dúnia** ('world'), **básh** ('language'), **amén** ('amen').
 Derived words and compound words are stressed according to their components so that the main component carries the primary stress
 and other components may carry secondary stress, f.ex.
-**trabáshe** ('translate'), **dúnialìsme** ('globalism'), **bàshe skóla** ('language school').
+**trabásh** ('translate'), **dúnialìsme** ('globalism'), **bàsh skóla** ('language school').
 Primary accent is indicated here by an acute accent (*á*) and secondary accent by a grave accent (*à*).
 
 
@@ -108,9 +108,9 @@ The adjective and the adverb have the same form.
 The adjective modifier is before the noun that it modifies,
 and the adverb modifier is before the verb that it modifies.
 
-**un rapid loga**
+**un rapid log**
 – A fast speech.  
-**tu rapid loga.**
+**tu rapid log.**
 – You speak fast.
 
 
@@ -139,18 +139,18 @@ A passive sentence is created with the help of the passive auxiliary verb
 A similar effect can also be reached with the impersonal pronoun
 **von**.
 
-**pandunia be loga.**
+**pandunia be log.**
 – Pandunia is spoken.  
-**von loga pandunia.**
+**von log pandunia.**
 – One speaks Pandunia.
 
 In the _pivot structure_, the object of the transitive verb functions as the subject of the following verb.  
-**mi plis tu loga pandunia.**
+**mi plis tu log pandunia.**
 – I ask you to speak Pandunia.
 
 Pronouns can be left out when they are obvious and redundant.  
-**_mi_ plis _tu_ loga pandunia.**
-→ **plis loga pandunia.**  
+**_mi_ plis _tu_ log pandunia.**
+→ **plis log pandunia.**  
 – Please speak Pandunia.
 
 

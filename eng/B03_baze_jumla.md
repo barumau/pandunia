@@ -548,10 +548,10 @@ English *name*.</small>
 **mi no nou.**
 – I don't know.
 
-**sual yu nou unotre?**
+**sual yu nou unaltre?**
 – Do you know each other?
 
-**vi nou unotre of long.**
+**vi nou unaltre of long.**
 – We know each other for a long time.
 
 
@@ -747,22 +747,22 @@ Tip: To make direct requests, drop all the pronouns.
 **mi no kan english.**
 – I can't speak English.
 
-**perdon. mi no kan tu se bashe.**
+**perdon. mi no kan tu se bash.**
 – Sorry, I can't speak your language.
 
 
-### loga <small>to say, speak, talk</small>
+### log <small>to say, speak, talk</small>
 
-**tu loga vat?**
+**tu log vat?**
 – What did you say?
 
-**mi loga to tu.**
+**mi log to tu.**
 – I talk to you.
 
-**vi loga to unotre.**
+**vi log to unaltre.**
 – We talk to each other.
 
-**von loga**
+**von log**
 ***cat***
 **a vat mode a pandunia?**
 – How do you say "cat" in Pandunia?
@@ -771,7 +771,7 @@ Tip: To make direct requests, drop all the pronouns.
 **es vat a pandunia?**
 – What is "cat" in Pandunia?
 
-**mau loga "miau".**
+**mau log "miau".**
 – Cat says "meow".
 
 
@@ -783,7 +783,7 @@ Tip: To make direct requests, drop all the pronouns.
 **mi no kan audi tu.**
 – I can't hear you.
 
-**plis loga mor bala.**
+**plis log mor bala.**
 – Please speak louder.
 
 **mi audi muzike.**
@@ -832,15 +832,15 @@ Tip: To make direct requests, drop all the pronouns.
 – Please, write it here!
 
 
-### bashe <small>speak a language, communicate</small>
+### bash <small>speak a language, communicate</small>
 
-**sual yu bashe pandunia.**
+**sual yu bash pandunia.**
 – Do you speak Pandunia?
 
-**vi bashe pandunia.**
+**vi bash pandunia.**
 – We speak Pandunia.
 
-**sual tu kan bashe english?**
+**sual tu kan bash english?**
 – Can you speak English?
 
 **franse, espanya, portugal, rus**
