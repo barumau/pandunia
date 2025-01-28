@@ -142,7 +142,7 @@ Uzu Pandunian kun viaj amikoj en ĉiutaga vivo aŭ provu ĝin kun fremduloj dum 
 Nun vi povas paroli en Pandunia en niaj interretaj grupoj.
 
 - [Nia diskutforumo](https://pandunia.info/forum/) – ensaluto ne deviga!
-- [Servilo en *Discord*](https://discord.gg/CgZ6nUpj)
+- [Servilo en *Discord*](https://discord.gg/jf5GHcHXKk)
 - [Pandunia Fejsbuk-grupo](http://www.facebook.com/groups/pandunia)
 - Telegram-kanaloj [en Esperanto](https://pandunia.telegramo.org/) kaj
   [en pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).

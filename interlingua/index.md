@@ -35,7 +35,7 @@ Multe personas jam se occupa de Pandunia e lo parla. Vos pote trovar forumos pro
 - canales in le messagero instantanee Telegram:
   [multilingual](https://t.me/pandunia_grupe) e
   [in Pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
-- [canales in Discord](https://discord.gg/FWavWeG)
+- [canales in Discord](https://discord.gg/jf5GHcHXKk)
 - canal de QQ: 717549404
 
 ![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")

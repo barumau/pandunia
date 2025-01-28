@@ -163,7 +163,7 @@ por ejemplo si era una pregunta, una orden o una afirmación.
 Ya hay personas interesadas en Pandunía y lo están practicando.
 Puedes encontrarles en varios lugares de internet: 
 
-- [Chat en Discord](https://discord.gg/CgZ6nUpj)
+- [Chat en Discord](https://discord.gg/jf5GHcHXKk)
 - Salas de chat en Telegram:
   [plurilingüe](https://t.me/pandunia_grupe) y
   [en pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).

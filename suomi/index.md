@@ -147,7 +147,7 @@ Se toimii!
 Pandunian puhujia on useilla keskustelukanavilla internetissä.
 
 - [Oma keskustelupalstamme](https://pandunia.info/forum/) – kirjautumista ei tarvita!
-- [Discord-palvelin](https://discord.gg/CgZ6nUpj)
+- [Discord-palvelin](https://discord.gg/jf5GHcHXKk)
 - Redditin [r/pandunia](https://www.reddit.com/r/pandunia/)-palsta
 - Facebookin [Tekokielet-ryhmä](http://www.facebook.com/groups/tekokielet) tekokielistä yleensä.
 - Facebookin [Pandunia-ryhmä](http://www.facebook.com/groups/pandunia)

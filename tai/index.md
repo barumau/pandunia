@@ -44,7 +44,7 @@ hide:
 - [กลุ่ม Facebook pandunia](http://www.facebook.com/groups/pandunia)
 - [Telegram ภาษาพันดูเนีย](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg)
 - [Telegram หลายภาษา](https://t.me/pandunia_grupe)
-- ช่อง [Discord](https://discord.gg/FWavWeG)
+- ช่อง [Discord](https://discord.gg/jf5GHcHXKk)
 - แอป [Amikumu](https://amikumu.com/) por trovi parolantojn
 - QQ: 717549404
 - [Pandunia Vikio](http://eo.pandunia.wikia.com/wiki/%C4%88efpa%C4%9Do)

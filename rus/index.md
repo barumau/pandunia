@@ -73,7 +73,7 @@ hide:
 
 | Платформа| канал   | Темы    |
 |----------|---------|---------|
-| Discord  | [Пандуния-сервер](https://discord.gg/CgZ6nUpj) | Все |
+| Discord  | [Пандуния-сервер](https://discord.gg/jf5GHcHXKk) | Все |
 | Reddit   | [r/pandunia](https://www.reddit.com/r/pandunia/) | Новости и обсуждение |
 | Facebook | [Группа Пандунии в Facebook](http://www.facebook.com/groups/pandunia) | Обсуждение |
 | Telegram | [многоязычный канал](https://t.me/pandunia_grupe) | Обсуждение |

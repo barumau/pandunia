@@ -72,7 +72,7 @@ Puoi trovare forum sul pandunia in diversi luoghi:
 
 | Piattaforma | Canale  | Argomento   |
 |-------------|---------|-------------|
-| Discord     | [Server dedicato al pandunia](https://discord.gg/CgZ6nUpj) | Miscellanea |
+| Discord     | [Server dedicato al pandunia](https://discord.gg/jf5GHcHXKk) | Miscellanea |
 | Reddit      | [r/pandunia](https://www.reddit.com/r/pandunia/) | Notizie e discussione |
 | Facebook    | [Gruppo pandunia](http://www.facebook.com/groups/pandunia) | Discussione |
 | Telegram    | [canale multilingue](https://t.me/pandunia_grupe) | Discussione |
