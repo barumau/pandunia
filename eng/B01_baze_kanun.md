@@ -18,7 +18,6 @@ Spelling is simple and regular.
 Every word is pronounced exactly as it is written.
 Almost every letter and letter-combination indicates always the same sound.
 
-
 ### (3) Regular stress accent
 
 Root words are stressed on the syllable that is before the last consonant of the word, f.ex.
@@ -36,7 +35,7 @@ The personal pronouns are:
 'I',
 **tu**
 'you' (singular),
-**da**
+**he**
 'he, she, it',
 **vi**
 'we',
@@ -50,7 +49,7 @@ The possessive pronouns are:
 'my',
 **tu se**
 'your',
-**da se**
+**he se**
 'his or her',
 **vi se**
 'our',
@@ -79,7 +78,7 @@ Their role is indicated by word order or by a preposition.
 
 The cardinal numbers are:  
 0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **for**, 5 **faif**, 6 **sixe**,
-7 **seven**, 8 **eite**, 9 **nain**, 10 **ten**.  
+7 **seven**, 8 **eit**, 9 **nain**, 10 **ten**.  
 Greater than ten:
 11 **ten un**, 12 **ten du**, 13 **ten tri**,
 etc.  
@@ -135,11 +134,11 @@ The word order is subject–verb–object.
 The same order is used in declarations and questions.
 
 A passive sentence is created with the help of the passive auxiliary verb
-**be**.
+**bei**.
 A similar effect can also be reached with the impersonal pronoun
 **von**.
 
-**pandunia be log.**
+**pandunia bei log.**
 – Pandunia is spoken.  
 **von log pandunia.**
 – One speaks Pandunia.

@@ -19,11 +19,11 @@ For example, the word
 **hali**
 can function equally as an adjective (_blank_ or _void_), noun (_a blank_) and verb (_to make blank_ or _to get blank_).
 
-**tu hav hali papir, he?**
+**tu hav hali papir, ha?**
 – Do you have some blank paper?  
 **don mi un hali!**
 – Give me a blank!  
-**tu mus hali da lexe.**
+**tu mus hali de lexe.**
 – You must blank out that word.
 
 Likewise, the word

@@ -13,7 +13,7 @@ For example, the word
 modifies a noun in sentence A
 and a verb in sentence B.
 
-A. **da es _mei_ kitab.**
+A. **he es _mei_ kitab.**
 – That is a beautiful writing.  
 B. **tu _mei_ li kitab.**
 – You write _beautifully_.
@@ -23,9 +23,9 @@ B. **tu _mei_ li kitab.**
 
 In Pandunia, "adjectives" are modifiers that are placed before the noun that they modify.
 
-**un _nove_ karo**
+**un _nov_ kar**
 – a _new_ car  
-**un _rapid_ karo**
+**un _rapid_ kar**
 – a _fast_ car  
 **meni _dai_ meza**
 – _big_ tables  
@@ -36,7 +36,7 @@ In Pandunia, "adjectives" are modifiers that are placed before the noun that the
 
 Two or more modifiers can modify the same noun.
 
-**un let nove karo**
+**un lit nov kar**
 – a little new car
 
 

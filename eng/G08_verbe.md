@@ -16,7 +16,7 @@ For example, the verb
 – I am a friend.  
 **_tu_ es frende.**
 – You are a friend.  
-**_da_ es frende.**
+**_ha_ es frende.**
 – He/she is a friend.  
 **_vi_ es frende.**
 – We are friends.  
@@ -126,7 +126,7 @@ The auxiliary verb
 
 **ma voka vi. vi shud go.**
 – Mother called us. We should go.  
-**da shud hav kom pre nun.**
+**he shud hav kom pre nun.**
 – He should have come by now.  
 **evri von shud vote.**
 – Everyone should vote.
@@ -222,21 +222,21 @@ the first verb (an auxiliary verb) is something that the subject possesses
 and the second verb is something that the subject does (when there is an object in the end)
 or experiences (when there is no object).
 
-**mi kan kitab da javab.**  
+**mi kan kitab de javab.**  
 ≈ *I have the ability to write the answer.*  
 – I can write the answer.  
-**mi halal kitab da javab.**  
+**mi halal kitab de javab.**  
 ≈ *I have the permission to write the answer.*  
 – I may write the answer.  
-**mi mus kitab da javab.**  
+**mi mus kitab de javab.**  
 ≈ *I have the compulsion to write the answer.*  
 – I must write the answer.
 
 Note that the same auxiliary verbs can be used alone as transitive verbs in the pivot construction.
 
-**guru halal mi kitab da javab.**
+**guru halal mi kitab de javab.**
 – The teacher permits me to write the answer.  
-**guru mus mi kitab da javab.**
+**guru mus mi kitab de javab.**
 – The teacher compels me to write the answer.
 
 
@@ -280,9 +280,9 @@ It denotes the destination of movement, 'to'.
 
 It denotes the destination of giving i.e. the recipient, 'to, for'.
 
-**mi don da hir buk to yu.**
+**mi don de hir buk to yu.**
 – I give this book to you.  
-**da hir buk es to yu.**
+**de hir buk es to yu.**
 – This book if for you.
 
 It denotes the causal destination, 'for, for the purpose of'.
@@ -303,19 +303,19 @@ It denotes the origin of movement, 'from'.
 
 It denotes also the origin of existence, 'of'.
 
-**da lexe** ***kitab*** **es of arab asle.**
+**de lexe** ***kitab*** **es of arab asle.**
 – This word *kitab* is of Arabic origin.
 
 It denotes also the material origin, 'of'.
 
-**da kopa es of glass.**
+**de kopa es of glass.**
 – The cup is made of glass.
 
 It denotes also the causal origin, 'because of'.
 
-**da mau morte of sen umre.**
+**de mau morte of sen umre.**
 – The cat died of old age.  
-**da mau morte of toxe.**
+**de mau morte of toxe.**
 – The cat died because of poison.
 
 It denotes also the mental origin, 'of, about'.
@@ -332,7 +332,7 @@ The preposition
 **ex**
 denotes location on the outside, 'out, outside'.
 
-**deme ye proteste ex da burge.**
+**deme ye proteste ex de burge.**
 – People protest outside the castle.
 
 #### in
@@ -341,7 +341,7 @@ The preposition
 **in**
 denotes location on the inside, 'in, inside'.
 
-**zulmer ye sir in da burge.**
+**zulmer ye sir in de burge.**
 – The tyrant hides in the castle.
 
 #### kon
@@ -350,7 +350,7 @@ The preposition
 **kon**
 denotes togetherness, 'with, in the company of'.
 
-**da log kon da shefe.**
+**he log kon de shefe.**
 – He/she talks with the boss.
 
 #### Laterness: pos
@@ -386,7 +386,7 @@ The preposition
 **re**
 denotes movement back, 'back, in return'.
 
-**da don da buk re mi.**
+**he don de buk re mi.**
 – He gave the book back to me.
 
 #### tra
@@ -410,6 +410,6 @@ The preposition
 **vis**
 denotes substitution, 'instead of, on behalf of'.
 
-**da log vis mi.**
+**he log vis mi.**
 – He talks on my behalf.
 

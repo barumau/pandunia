@@ -25,16 +25,16 @@ hide:
 **mi es Yusef. tu es hu?**
 – I am Yusef. Who are you?  
 <big>☺</big>
-**mi es Sara. da es hu?**
+**mi es Sara. he es hu?**
 – I am Sara. Who is that?  
 <big>☻</big>
-**da es mi se frende.**
+**he es mi se frende.**
 – That is my friend.  
 <big>☺</big>
-**da se nam es vat?**
+**he se nam es vat?**
 – What's her name?  
 <big>☻</big>
-**da se nam es Maria.**
+**he se nam es Maria.**
 – Her name is Maria.
 
 ### Grammar
@@ -42,9 +42,9 @@ hide:
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
 tells something about the topic. For instance in
-**da es mi se frende**
+**he es mi se frende**
 the topic is the pronoun
-**da**
+**he**
 (he, she, it), which is followed by the comment
 **es mi se frende**
 (is my friend).
@@ -57,9 +57,9 @@ And to say the opposite, simply put
 **no**
 before it.
 
-**da es Sara.**
+**he es Sara.**
 – She is Sarah.  
-**da no es Sara.**
+**he no es Sara.**
 – She is not Sarah.
 
 **mau es hevan.**
@@ -96,9 +96,9 @@ The correct answers are after the word list.
 
 ### Word List
 
-**da**
+**he**
 he, she or it  
-**da se**
+**he se**
 his, her, its  
 **es**
 to be  
@@ -136,7 +136,7 @@ your
 1. tu es hu?
 2. mi es Tomas.
 3. hu es tu se frende?
-4. da es Sara.
+4. he es Sara.
 5. tu se nam es vat?
 6. mi se nam es ____________.
 
@@ -204,7 +204,7 @@ Pandunia's singular personal pronouns are:
 – I,
 **tu**
 – you, and
-**da**
+**he**
 – he, she, it. Note that the pronouns stayed the same in the
 previous example sentences. Words never change in Pandunia. They
 always stay the same regardless of their position in sentence.
@@ -271,7 +271,7 @@ chief, boss
 
 ### Answers to the Exercises
 
-1. tu sal da.
+1. tu sal he.
 2. mama sal papa.
 3. sal mama!
 4. sal!
@@ -291,7 +291,7 @@ chief, boss
 **halo, chin pa!**
 – Hello, grandfather!  
 <big>☺</big>
-**halo! plis side.**
+**halo! plis sid.**
 – Hello! Please sit!  
 <big>☻</big>
 **danke.**
@@ -310,7 +310,7 @@ chief, boss
 **okei. plis sal tu se mama!**
 – OK. Please tell greetings to your mother.  
 <big>☻</big>
-**mi sal da. sal reste!**
+**mi sal he. sal reste!**
 – I will. Bye!  
 <big>☺</big>
 **sal go!**
@@ -324,13 +324,13 @@ Pandunia's singular personal pronouns are
 'I',
 **tu**
 'you', and
-**da**
+**he**
 'he, she, it'.
 Pandunia is a gender-neutral language.
 It doesn't distinguish between sexes in the third person pronoun or any of the pronouns.
 All the personal pronouns are present in the following example sentence.
 
-**mi plis tu sal da.**
+**mi plis tu sal he.**
 – I ask you to say hello to him/her.
 
 This sentence has a _pivot structure_.
@@ -343,7 +343,7 @@ as its object. At the same time
 serves also as the subject of the second verb,
 **sal**
 ('to greet'), whose object is
-**da**.
+**he**.
 So
 **tu**
 has a double role:
@@ -360,9 +360,9 @@ the context. In other words the speaker can safely assume that the
 listeners know who he/she is talking about. So it is unnecessary
 to keep on repeating them. In this manner phrases can be made shorter.
 
-**mi plis tu sal da.**
+**mi plis tu sal he.**
 – I ask you to say hello to him/her.  
-**plis sal da.**
+**plis sal he.**
 – Please say hello to him/her.
 
 See how the translation of
@@ -375,10 +375,10 @@ It is a principle in Pandunia that there is always exactly one word for one conc
 Different words are not created just because the grammatical role of a concept changes.
 
 The phrase
-**plis sal da**
+**plis sal he**
 has a useful pattern that can be used for making polite requests.
 
-**plis side.**
+**plis sid.**
 – Please be seated.  
 **plis don kafe.**
 – Please give me some coffee.  
@@ -386,7 +386,7 @@ has a useful pattern that can be used for making polite requests.
 – Please give me some tea.  
 **plis yam cha.**
 – Please have some tea.  
-**plis safi kamar.**
+**plis safi kamre.**
 – Please clean the room.
 
 Commands are expressed more directly than requests.
@@ -395,9 +395,9 @@ A command is basically like the request but without the
 
 **don cha!**
 – Give (me) some tea!  
-**safi kamar!**
+**safi kamre!**
 – Clean the room!  
-**safi da!**
+**safi he!**
 – Clean it!
 
 
@@ -418,7 +418,7 @@ Try translating these sentences from English to Pandunia.
 tea  
 **chin pa**
 grandfather  
-**da**
+**de**
 this or that  
 **danke**
 to thank; thank you  
@@ -430,7 +430,7 @@ and
 to go  
 **kafe**
 coffee  
-**kamar**
+**kamre**
 room  
 **mus**
 must, have to  
@@ -440,7 +440,7 @@ or
 to ask; please  
 **safi**
 to clean  
-**side**
+**sid**
 to sit  
 **danke**
 thanks  
@@ -452,11 +452,11 @@ to eat or drink
 
 ### Answers to the Exercises
 
-1. da yam cha.
-2. shefe plis da side.
+1. he yam cha.
+2. shefe plis he sid.
 3. plis yam kafe o cha.
-4. mama plis mi safi kamar.
-5. shefe side e yam kafe.
+4. mama plis mi safi kamre.
+5. shefe sid e yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -482,10 +482,10 @@ to eat or drink
 **mi no bash pandunia...**
 – I don't speak Pandunia...  
 <big>☺</big>
-**perdon! sual da yam cha?**
+**perdon! sual he yam cha?**
 – Pardon! Will he have tea?  
 <big>☻</big>
-**no. da no yam cha. da yam kafe.**
+**no. he no yam cha. he yam kafe.**
 – No, he won't. He would like to have coffee.  
 <big>☺</big>
 **sual tu yam supe?**
@@ -494,7 +494,7 @@ to eat or drink
 **ye.**
 – Yes.  
 <big>☺</big>
-**sual da yam supe?**
+**sual he yam supe?**
 – Would he like to have soup?  
 <big>☻</big>
 **no yam.**
@@ -525,7 +525,7 @@ are often about other people. Therefore the second pronoun is usually
 needed. It can be left out only when it is clear who is the topic of
 discussion.
 
-**sual da yam cha?**
+**sual he yam cha?**
 – Does he/she drink tea?  
 **sual tu yam supe?**
 – Do you eat soup?  
@@ -536,7 +536,7 @@ Of course common and proper nouns can also be used.
 
 **sual shefe yam kafe?**
 – Does the chief drink coffee?  
-**sual papa safi kamar?**
+**sual papa safi kamre?**
 – Does the father clean the room?  
 **sual Niki bash pandunia?**
 – Does Nicky speak Pandunia?
@@ -554,7 +554,7 @@ Yes/no questions can be answered with
 = Do you eat soup?  
 – **ye.**
 = Yes.  
-– **sual da yam supe?**
+– **sual he yam supe?**
 = Does she eat soup?  
 – **no.**
 = No.
@@ -565,9 +565,9 @@ Also more complete answers can be given.
 = Do you drink coffee?  
 – **ye. mi yam kafe.**
 – Yes, I drink coffee.  
-– **sual da yam kafe?**
+– **sual he yam kafe?**
 – Does he drink coffee?  
-– **no. da no yam kafe.**
+– **no. he no yam kafe.**
 – No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
@@ -622,9 +622,9 @@ yes
 1. sual tu bash pandunia?
 2. ye. mi bash pandunia.
 3. sual mama yam kafe?
-4. no. da no yam kafe.
-5. sual da yam supe?
-6. (da) no yam.
+4. no. he no yam kafe.
+5. sual he yam supe?
+6. (he) no yam.
 
 
 --------------------------------------------------------------------------------
@@ -657,21 +657,21 @@ In Pandunia the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
 of the negative word.
 
-**mi plis tu safi kamar.**
+**mi plis tu safi kamre.**
 – I ask you to clean the room.  
-**mi no plis tu safi kamar.**
+**mi no plis tu safi kamre.**
 – I do NOT ask you to clean the room.  
-**mi plis tu no safi kamar.**
+**mi plis tu no safi kamre.**
 – I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
 and even numeral.
 
-**da no have mau.**
+**he no have mau.**
 – She doesn't have a cat.  
-**da have no mau, ama vaf.**
+**he have no mau, ama vaf.**
 – She has no cats but dogs.  
-**no da, ama mi have mau.**
+**no he, ama mi have mau.**
 – Not she but I have cats. (It's not her, but me who has cats.)  
 **mi have no un, ama du mau.**
 – I have not one but two cats.
@@ -712,10 +712,10 @@ zero
 
 ### Answers to the Exercises
 
-1. da no safi kamar.
+1. he no safi kamre.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da no have vaf e mau. / da have no vaf e no mau.
+4. he no have vaf e mau. / he have no vaf e no mau.
 5. shefe yam cha ama no kafe.
 6. mama have no vaf ama du mau.
 
@@ -731,11 +731,11 @@ Content questions are asked with the interrogative pronouns
 ('who').
 The question can be made more specific by adding words for person, time, manner or thing if needed.
 
-**da es hu?**
+**he es hu?**
 – What is that? / Who is (s)he?  
-**da es vat jen?**
+**he es vat jen?**
 – Who is he/she?  
-**da es vat ting?**
+**he es vat ting?**
 – What (thing) is it?  
 **vat jen kom?**
 – Who is coming? (**jen** = person)  
@@ -800,10 +800,10 @@ manner, style
 
 1. hu suka supe?
 2. papa suka.
-3. vat tem da kom?
+3. vat tem he kom?
 4. pos des minute.
-5. vat sabab da no yam?
-6. of sabab da no suka kafe e supe.
+5. vat sabab he no yam?
+6. of sabab he no suka kafe e supe.
 
 
 --------------------------------------------------------------------------------
@@ -816,7 +816,7 @@ There are no verb conjugations in Pandunia. All verbs have only one
 form for all times. In a way they are similar to some English verbs,
 such as "to hit", which is the same in all tenses.
 
-**mi bate da.**
+**mi bate he.**
 – I hit it.
 
 In Pandunia all verbs are like that! For example,
@@ -825,7 +825,7 @@ can mean both "I eat bread" and "I ate bread",
 but usually only one or the other meaning makes sense in the context of the discussion.
 For example when people talk about that morning's breakfast, the sentence tells about the past time.
 
-**mi yam ban a da hir suba yam.**
+**mi yam ban a de hir suba yam.**
 – I ate bread for this breakfast.
 
 There are also specific time words.
@@ -840,11 +840,11 @@ There are also specific time words.
 These words are used when you talk about actions and events in time.
 Simply put the word before the verb.
 
-**mi did bate da.**
+**mi did bate he.**
 – I hit it (in the past).  
-**mi nun bate da.**
+**mi nun bate he.**
 – I am hitting it (currently).  
-**mi vil bate da.**
+**mi vil bate he.**
 – I will hit it (in the future).
 
 
@@ -856,7 +856,7 @@ or until it becomes useful to stress that you are still talking in the same tens
 
 **mi did have un mau.**
 – I had a cat in the past.  
-**da es gud mau.**
+**he es gud mau.**
 – It was a good cat.  
 **mi nun have un vaf.**
 – I now have a dog.
@@ -866,7 +866,7 @@ time expression is present, other markers are not needed.
 
 **mi be gene a nen 2003.**
 – I was born in 2003.  
-**da safi da kamar a pos den.**
+**he safi de kamre a pos den.**
 – He will clean the room tomorrow.
 
 
@@ -909,7 +909,7 @@ milk
 1. mi se shefe vil feste.
 2. mi did have du vaf.
 3. tu nun yam supe.
-4. da safi kamar a preden.
+4. he safi kamre a preden.
 5. mau yam milke a posden.
 6. tu se ma feste a prenoche.
 

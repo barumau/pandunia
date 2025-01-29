@@ -13,7 +13,7 @@ The actual meaning emerges in the sentence context.
 
 The noun meaning, 'fire', emerges when the word occupies the position of a noun in a sentence.
 
-**mi vize da hogo.**
+**mi vize de hogo.**
 – I see fire.
 
 The adjectival meaning, 'fiery', emerges in adjectival position.

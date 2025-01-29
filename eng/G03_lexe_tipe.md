@@ -27,9 +27,9 @@ which does not change according to number, case, gender, tense, mood or
 any of the other inflectional categories known from other languages.
 Compare, for example, what happens to the words in the following two sentences in Pandunia and English.
 
-1. *mi love da.*
+1. *mi love he.*
    – I love him.
-2. *da love mi.*
+2. *he love mi.*
    – He loves me.
 
 In Pandunia, the subject and object simply change places and that's it.
@@ -99,7 +99,7 @@ whereas content words are translated in the dictionary.
 
 In Pandunia, sentences are held together by a fixed group of structure words.
 They include pronouns (such as **mi** 'I' and **tu** 'you'),
-determiners (such as **un** 'a, one' and **da** 'the')
+determiners (such as **un** 'a, one' and **de** 'the')
 and various grammatical particles (such as the affirmative and negative particles **ye** and **no**).
 Structure words make the syntactical structure easy to see,
 because they mark out the boundaries between sentence constituents.

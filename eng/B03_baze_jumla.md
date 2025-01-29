@@ -217,29 +217,34 @@ Persian تو‏‎ (to),
 Tajik ту (tu).</small>
 
 
-### da <small>he, she or it</small>
+### he <small>he, she or it</small>
 
 <p style="font-size:4em;">👥🗣️👉👤</p>
 
-**da es man.**
+**he es man.**
 – He is a man.
 
-**da es fem.**
+**he es fem.**
 – She is a woman.
 
-**da es aple.**
+**he**
+is the general third person pronoun in Pandunia.
+It is pronounced /hə/.
+The pronunciation is between English *he* and *her* i.e. /hi:/ and /hə(r)/.
+Therefore it is fitting that it is used for all people irrespective of gender.
+In addition, it is used for things, too.
+
+**he es aple.**
 – It is an apple.
 
-**da**
-is the general third person pronoun.
-It is used for people (irrespective of gender) as well as for things.
-
-**mi sal da.**
+**mi sal he.**
 – I greet him/her.
 
-<small>Etymology. **da** is from
-Mandarin 他/她 (tā),
-Malay *dia*.</small>
+<small>Etymology. **he** is from
+English *he* and *her*,
+Dutch *hij*,
+Afrikaans *hy*,
+Arabic ـهَا (-hā).</small>
 
 
 ### sual <small>to ask a question</small>
@@ -281,10 +286,10 @@ Swahili *swali*.</small>
 **ye, mi es Tomas.**
 – Yes, I am Thomas.
 
-**sual da es dokter?**
+**sual he es dokter?**
 – Is he/she a doctor?
 
-**ye, da es dokter.**
+**ye, he es dokter.**
 – Yes, he is a doctor.
 
 <small>Etymology. **ye** is from
@@ -317,7 +322,7 @@ You can use
 to deny anything.
 It is placed before the word that is denied.
 
-**da no sal mi.**
+**he no sal mi.**
 – He/she doesn't greet me.
 
 <small>Etymology. **no** is from
@@ -336,7 +341,7 @@ Bengali না (na).</small>
 | I, me       | we           |
 | **tu**      | **yu**       |
 | you         | you all      |
-| **da**      | **di**       |
+| **he**      | **di**       |
 | he or she   | they         |
 
 
@@ -369,9 +374,9 @@ Bengali না (na).</small>
 **mi es Tomas.**
 – I'm Thomas.
 
-**hu es da?**
+**hu es he?**
 – Who is he/she?  
-**da es Sara.**
+**he es Sara.**
 – She is Sarah.
 
 **hu es yu?**
@@ -386,10 +391,10 @@ Bengali না (na).</small>
 **vat?**
 – What?
 
-**vat es da?**
+**vat es he?**
 – What is that?
 
-**da es buk.**
+**he es buk.**
 – That is a book.
 
 <small>Etymology. **vat** is from
@@ -398,15 +403,15 @@ German *was*,
 and Dutch *wat*.</small>
 
 
-### da hir <small>this</small>
+### de hir <small>this</small>
 
-**vat es da hir?**
+**vat es de hir?**
 – What's this?
 
-**da hir es aple.**
+**de hir es aple.**
 – This is an apple.
 
-**da es rubi aple.**
+**he es rubi aple.**
 – It is a red apple.
 
 **di sta vat?**
@@ -416,18 +421,18 @@ and Dutch *wat*.</small>
 – They are here.
 
 
-### da der <small>that</small>
+### de der <small>that</small>
 
-**vat es da der?**
+**vat es de der?**
 – What is that?
 
-**da der es aple.**
+**de der es aple.**
 – That is an apple.
 
-**da aple es rubi.**
+**de aple es rubi.**
 – The apple is red.
 
-**da es rubi.**
+**he es rubi.**
 – It is red.
 
 **di sta vat?**
@@ -439,16 +444,16 @@ and Dutch *wat*.</small>
 
 ### se <small>'s (possessive particle)</small>
 
-**da es vat?**
+**he es vat?**
 – What's this?
 
-**da es mi se telefon.**
+**he es mi se telefon.**
 – It's my telephone.
 
-**da hir es hu se?**
+**de hir es hu se?**
 – Whose is this?
 
-**da es mi se.**
+**he es mi se.**
 – It's mine.
 
 Note: Possessive particle
@@ -459,10 +464,10 @@ means 'my',
 **tu se**
 means 'your' and so on.
 
-**da es hu?**
+**he es hu?**
 – Who's he/she?
 
-**da es mi se frende.**
+**he es mi se frende.**
 – He/she is my friend.
 
 **mi es Sara se frende.**
@@ -494,10 +499,10 @@ Spanish *su*.</small>
 **mi se nam es Tomas.**
 – My name is Thomas.
 
-**da se nam es vat?**
+**he se nam es vat?**
 – What is his/her name?
 
-**da se nam es Sara.**
+**he se nam es Sara.**
 – Her name is Sarah.
 
 <small>Etymology. **nam** is from
@@ -515,7 +520,7 @@ English *name*.</small>
 **mi have un gud haus.**
 – I have a good house.
 
-**da no have mone.**
+**he no have mone.**
 – He doesn't have money.
 
 **mi van have un nove telefon.**
@@ -528,7 +533,7 @@ English *name*.</small>
 
 **sual have dokter?**
 – Is there a doctor?  
-**ye. da es dokter.**
+**ye. he es dokter.**
 – Yes. He or she is a doctor.
 
 **sual have vin?**
@@ -539,10 +544,10 @@ English *name*.</small>
 
 ### nou <small>know</small>
 
-**mi nou da.**
+**mi nou he.**
 – I know him/her/it.
 
-**sual tu nou da der jen?**
+**sual tu nou de der jen?**
 – Do you know that person?
 
 **mi no nou.**
@@ -577,7 +582,7 @@ English *name*.</small>
 **sual tu van yam som ting?**
 – Would you like to eat something?
 
-**da yam un aple.**
+**he yam un aple.**
 – He/she eats an apple.
 
 **di yam aple.**
@@ -626,7 +631,7 @@ the word order is not affected by the
 
 **tu van vat aple?**
 – Which apple do you want?  
-**da rubi.**
+**de rubi.**
 – This red one.
 
 
@@ -699,7 +704,7 @@ Tip: To make direct requests, drop all the pronouns.
 **perdon! mi no aha.**
 – Sorry, I don't understand.
 
-**perdon! da es vat?**
+**perdon! he es vat?**
 – Excuse me, what's this?
 
 **perdon. tu se nam es vat?**
@@ -726,13 +731,13 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### kan <small>can</small>
 
-**mi kan shofe karo.**
+**mi kan shofe kar.**
 – I can drive a car.
 
-**da no kan shofe karo.**
+**he no kan shofe kar.**
 – He/she doesn't know how to drive a car.
 
-**sual tu kan shuli da?**
+**sual tu kan shuli he?**
 – Do you know how to fix it?
 
 **sual tu kan pandunia?**
@@ -804,22 +809,22 @@ Tip: To make direct requests, drop all the pronouns.
 **vize tu a posden!**
 – See you tomorrow!
 
-**mi vize da a preden.**
+**mi vize he a preden.**
 – I saw him/her yesterday.
 
 
 ### seme <small>to mean</small>
 
-**da hir lexe ye seme vat?**
+**de hir lexe ye seme vat?**
 – What does this word mean?
 
 **"mau" ye seme vat?**
 – What does "mau" mean?
 
-**da seme un tipe of hevan.**
+**he seme un tipe of hevan.**
 – It means a kind of animal.
 
-**mi no aha da seme vat.**
+**mi no aha he seme vat.**
 – I don't understand what it means.
 
 
@@ -828,7 +833,7 @@ Tip: To make direct requests, drop all the pronouns.
 **plis kitab tu se adres.**
 – Please, write your address.
 
-**plis kitab da a hir.**
+**plis kitab he a hir.**
 – Please, write it here!
 
 
@@ -917,7 +922,7 @@ Tip: To make direct requests, drop all the pronouns.
 **hotel a vat plas?**
 – Where is the hotel?
 
-**hotel a da der dau.**
+**hotel a de der dau.**
 – The hotel is on that road.
 
 **tu a vat plas?**
@@ -926,10 +931,10 @@ Tip: To make direct requests, drop all the pronouns.
 **mi a haus.**
 – I'm at home.
 
-**da a vat plas?**
+**he a vat plas?**
 – Where is he/she?
 
-**da side a kamar.**
+**he sid a kamre.**
 – He/she sits in the room.
 
 Tip! You can use
@@ -948,7 +953,7 @@ as a preposition or alone as the verb.
 **mi loju Singapur.**
 – I live in Singapore.
 
-**sual tu loju da hir hotel?**
+**sual tu loju de hir hotel?**
 – Do you live in this hotel?
 
 
@@ -974,13 +979,13 @@ as a preposition or alone as the verb.
 **mi bi sal tu se frende.**
 – I am greeting your friend.
 
-**da man bi vize un filme.**
+**de man bi vize un filme.**
 – The man is watching a film.
 
-**da bi es shefe.**
+**he bi es shefe.**
 – He or she is being the chief.
 
-**da bi es a haus.**
+**he bi es a haus.**
 – He or she is currently at home.
 
 
@@ -989,13 +994,13 @@ as a preposition or alone as the verb.
 **mi hav sal tu se frende.**
 – I have greeted your friend.
 
-**da man hav vize da filme.**
+**de man hav vize de filme.**
 – The man has watched the film.
 
-**da hav es shefe.**
+**he hav es shefe.**
 – He has been the chief.
 
-**da hav es a haus.**
+**he hav es a haus.**
 – He has been at home.
 
 
@@ -1007,10 +1012,10 @@ as a preposition or alone as the verb.
 **man did vize un filme.**
 – The man watched a film.
 
-**da did es shefe.**
+**he did es shefe.**
 – He/she was the chief.
 
-**da did es a haus.**
+**he did es a haus.**
 – He/she was at home.
 
 
@@ -1019,13 +1024,13 @@ as a preposition or alone as the verb.
 **mi vil sal tu se frende.**
 – I will greet your friend.
 
-**da man vil vize da filme.**
+**de man vil vize de filme.**
 – The man will watch the film.
 
-**da vil es shefe.**
+**he vil es shefe.**
 – He/she will be the chief.
 
-**da vil es a haus.**
+**he vil es a haus.**
 – He/she will be at home.
 
 
@@ -1037,16 +1042,16 @@ as a preposition or alone as the verb.
 **plis don mone.**
 – Please give some money.
 
-**plis don da to mi.**
+**plis don he to mi.**
 – Please give it to me.
 
-**mi don da hir to tu.**
+**mi don de hir to tu.**
 – I give this to you.
 
 **mi don buk to di.**
 – I give a book to them.
 
-**da no van don da to mi.**
+**he no van don he to mi.**
 – He/she doesn't want to give it to me.
 
 
@@ -1070,16 +1075,16 @@ as a preposition or alone as the verb.
 **kira es 500 dolar a mes.**
 – The rent is 500 dollars in a month.
 
-**da no kan pei da kira.**
+**he no kan pei de kira.**
 – He/she can't pay the rent.
 
-**mi van sepe un karo a kira.**
+**mi van sepe un kar a kira.**
 – I want to take a car for rent.
 
-**mi van sepe kira un karo.**
+**mi van sepe kira un kar.**
 – I want to rent a car.
 
-**da don kira kamar to safarer.**
+**he don kira kamre to safarer.**
 – He/she rents rooms to travelers.
 
 
@@ -1099,10 +1104,10 @@ means _to buy_.
 
 ### tipe <small>type, kind, sort</small>
 
-**da es vat tipe?**
+**he es vat tipe?**
 – What is it like?
 
-**sual da es neu?**
+**sual he es nov?**
 – Is it new?
 
 **vat es mas gud?**
@@ -1111,11 +1116,11 @@ means _to buy_.
 **ye es masim gud (de pan).**
 – This is the best (of all).
 
-**da kosta vat?**
+**he kosta vat?**
 – How much does it cost?  
 **no ting.**
 – Nothing.  
-**da koste kam / meni.**
+**he koste kam / meni.**
 – It is cheap / expensive.  
 
 **von plis vi kom.**
@@ -1131,7 +1136,7 @@ Come here / back / to us.
 **mi skole pandunia.**
 – I study Pandunia.
 
-**shou da to mi a lexe buk!**
+**shou he to mi a lexe buk!**
 – Show me in the dictionary!
 **mi no memo.**
 – I don't remember.
@@ -1154,7 +1159,7 @@ Come here / back / to us.
 
 – I feel alright.
 
-**plis side hir!**
+**plis sid hir!**
 – Please, sit here!
 
 **mi suka sta.**

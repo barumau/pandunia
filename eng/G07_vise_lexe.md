@@ -22,13 +22,13 @@ They are used in place of a person's name or title.
 | I, me       | we           |
 | **tu**      | **yu**       |
 | you         | you all      |
-| **da**      | **di**       |
+| **he**      | **di**       |
 | he or she   | they         |
 
 All pronouns can be used for all genders.
 In Pandunia, personal pronouns do not specify whether the person discussed is a woman or a man.
 For example, in the third person, one word –
-**da**
+**he**
 – refers to women, men and people of other genders alike.
 It is a gender-neutral personal pronoun and it treats everyone equally.
 
@@ -61,7 +61,7 @@ The possessive pronouns consists of the personal pronoun and the possessive part
 | my          | our          |
 | **tu se**   | **yu se**    |
 | your        | your         |
-| **da se**   | **di se**    |
+| **he se**   | **di se**    |
 | his or her  | their        |
 
 
@@ -79,7 +79,7 @@ so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself
 
 **mi vize sef.**
 – I see myself.  
-**da vize sef.**
+**he vize sef.**
 – She sees herself. / He sees himself. / It sees itself.  
 **vi vize sef.**
 – We see ourselves.
@@ -101,53 +101,51 @@ is used as the reciprocal pronoun.
 
 Demonstrative pronouns are used with nouns to make them more specific.
 
-Pandunia has two main demonstrative pronouns:
+Pandunia has one main demonstrative pronouns:
 
-**da**
-this, that  
-**di**
-these, those
+**de**
+– this, that, these, those
 
-As they do not differentiate between near and far, they can be further qualified by adding
+As it doesn't differentiate between things near and far, it can be further qualified by adding
 **hir**
 (_here_) or
 **der**
 (_there_).
 
-**da haus**
+**de haus**
 – this or that house  
-**di haus**
+**de meni haus**
 – these or those houses  
-**da hir haus**
+**de hir haus**
 – this house  
-**di hir haus**
+**de hir meni haus**
 – these houses  
-**da der haus**
+**de der haus**
 – that house  
-**di der haus**
+**de der meni haus**
 – those houses
 
 The proximal demonstrative
-**da hir**
+**de hir**
 points to things that are close to the speaker in terms of physical distance or relation.
 The distal demonstrative
-**da der**
+**de der**
 points to things that are futher away from the speaker in terms of physical distance or relation.
 
-**tu van da der buk, he?**
+**tu van de der buk, ha?**
 – Do you want that book?  
-**no, mi van da hir buk, no da der.**
+**no, mi van de hir buk, no de der.**
 – No, I want this book, not that.
 
 The demonstratives can serve as subjects and objects in the same way as nouns.
 
-**da hir es gud.**
+**de hir es gud.**
 – This is good.  
-**da der es bad.**
+**de der es bad.**
 – That is bad.  
-**tu van da hir, he?**
+**tu van de hir, ha?**
 – Do you want this?  
-**no, mi van da der.**
+**no, mi van de der.**
 – No, I want that.
 
 When the verb is a content word,
@@ -157,19 +155,19 @@ between the subject and the verb.
 
 **mi vize du jen.**
 – I see two persons.  
-**da hir ye gani e da der no gani.**
+**de hir ye gani e de der no gani.**
 – This one sings and that one doesn't sing.
 
 The basic proximal and distal pronouns are used for introducing a new object.
-The topical demonstrative **da**, on the other hand,
+The topical demonstrative **de**, on the other hand,
 does not specify physical distance
 but it is used when the speaker has already mentioned the object or person in question
 and it is known by the audience or is topical within the discourse.
 
-**da hir es mau. da van yam da der mushu.**
+**de hir es mau. he van yam de der mushu.**
 – This is a cat. It wants to eat that mouse.
 
-**mi have un mau e un vaf. da vaf es dai. da bi yam muche yam.**
+**mi have un mau e un vaf. de vaf es dai. he bi yam muche yam.**
 – I have a cat and a dog. The dog is big. It eats a lot of food.
 
 
@@ -177,29 +175,29 @@ and it is known by the audience or is topical within the discourse.
 
 The demonstrative pronouns can be used also discourse internally.
 Then they refer to abstract entities of discourse, not concrete objects.
-**da**
+**de**
 refers to things previously spoken,
-**da hir**
+**de hir**
 refers to things currently being spoken, and
-**da der**
+**de der**
 refers to things about to be spoken.
 
-**da hir jumla es korte.**
+**de hir jumla es korte.**
 – This sentence is short.
 
 In the above,
-**da hir jumla**
+**de hir jumla**
 (_this sentence_) refers to the sentence being spoken.
 
-**mi seme da der: mi love tu.**
+**mi seme de der: mi love tu.**
 – I mean this: I love you. OR I mean that I love you.  
-**mi love tu. mi seme da.**
+**mi love tu. mi seme de.**
 – I love you. That is what I mean.
 
 In the above, the pronoun
-**da der**
+**de der**
 refers to the content of the next statement and
-**da**
+**de**
 refers to the content of the previous statement.
 
 
@@ -215,9 +213,9 @@ There are two interrogative pronouns in Pandunia.
 The interrogative pronoun takes the place of the questioned thing in the phrase.
 It is not placed in the beginning of the phrase unlike normally in English.
 
-**vat es da?**
+**vat es de der?**
 – What is that?  
-**hu es da?**
+**hu es he?**
 – Who is he ~ she?  
 **yu van vat?**
 – What do you want? (Literally: You want what?)  
@@ -231,7 +229,7 @@ The possessive interrogative pronoun is built like the other possessive pronouns
 **hu se**
 – whose
 
-**hu se haus es da?**
+**hu se haus es de der?**
 – Whose hose is that?
 
 Adjectives are questioned with
@@ -261,20 +259,20 @@ Pandunia's pronominal phrases can be arranged in a regular table of pronominals 
 
 | Category      | Interrogative | Demonstrative | Indefinite    | Universal     | Negative      | Alternative   | Elective      |
 |:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| **ting**      | **vat ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   | **otre ting** | **eni ting**  |
+| **ting**      | **vat ting**  | **de ting**   | **som ting**  | **evri ting** | **no ting**   | **otre ting** | **eni ting**  |
 | Thing         | what (thing)  | that thing    | something     | everything    | nothing       | another       | anything      |
-| **von**       |**hu; vat von**| **da von**    | **som von**   | **evri von**  | **no von**    | **otre von**  | **eni von**   |
+| **von**       |**hu; vat von**| **de von**    | **som von**   | **evri von**  | **no von**    | **otre von**  | **eni von**   |
 | Individual    | who; which one| that one      | someone       | every one     | no-one        | another       | anyone        |
-| **have**      | **hu se**     | **da von se** | **som von se**|**evri von se**| **no von se** |**otre von se**| **eni von se**|
+| **have**      | **hu se**     | **de von se** | **som von se**|**evri von se**| **no von se** |**otre von se**| **eni von se**|
 | Possession    | whose         | that one's    | someone's     | everyone's    | no-one's      | another's     | anyone's      |
-| **plas**      | **vat plas**  | **da plas**   | **som plas**  | **evri plas** | **no plas**   | **otre plas** | **eni plas**  |
+| **plas**      | **vat plas**  | **de plas**   | **som plas**  | **evri plas** | **no plas**   | **otre plas** | **eni plas**  |
 | Location      | where         | there         | somewhere     | everywhere    | nowhere       | elsewhere     | anywhere      |
-| **tem**       | **vat tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    | **otre tem**  | **eni tem**   |
+| **tem**       | **vat tem**   | **de tem**    | **som tem**   | **evri tem**  | **no tem**    | **otre tem**  | **eni tem**   |
 | Time          |when, what time| that time     | sometime      |always, all the time| never    | another time  | any time      |
-| **vei**       | **vat vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    | **otre vei**  | **eni vei**   |
+| **vei**       | **vat vei**   | **de vei**    | **som vei**   | **evri vei**  | **no vei**    | **otre vei**  | **eni vei**   |
 | Manner        | how           | in that way   | somehow       | in every way  | in no way     | otherwise     | anyway        |
-| **tip**       | **vat tip**   | **da tip**    | **som tip**   | **evri tip**  | **no tip**    | **otre tip**  | **eni tip**   |
+| **tip**       | **vat tip**   | **de tip**    | **som tip**   | **evri tip**  | **no tip**    | **otre tip**  | **eni tip**   |
 | Kind, sort    | what kind of  | that kind of  | some kind of  | all kinds of  | no kind of    |another type of| any kind of   |
-| **monta**     | **vat monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  | **otre monta**| **eni monta** |
+| **monta**     | **vat monta** | **de monta**  | **som monta** | **evri monta**| **no monta**  | **otre monta**| **eni monta** |
 | Amount        | how much      | so much       | some          | all           | none          | other amount  | any amount    |
 

@@ -75,7 +75,7 @@ so the doer comes first, then the action word and finally the object of the acti
 The word order is the same also in questions.  
 **yu love hu?**
 – Who do you love?  
-**yu love mi, he?**
+**yu love mi, ha?**
 – Do you love me? (i.e. Do you love, eh?)
 
 Singular and plural are indicated with number words.
@@ -105,7 +105,7 @@ Comparison is done with helping words:
 – I am better (_more good_) than you.  
 **no, mi es sim gud dan yu.**
 – No, I am as good as you.  
-**da bi tok mor rapid dan yu.**
+**he bi tok mor rapid dan yu.**
 – He or she talks faster (_more fast_) than you.
 
 Time is expressed with auxiliary verbs:
@@ -129,7 +129,7 @@ Time is expressed with auxiliary verbs:
 
 Sentence-final particles express why the sentence is said,
 i.e. is the sentence, for example, a statement, a question or a command.  
-**yu love kafe, he?**
+**yu love kafe, ha?**
 – You love coffee, eh? (question)  
 **yu love kafe, ye.**
 – You love coffee, indeed. (statement)  

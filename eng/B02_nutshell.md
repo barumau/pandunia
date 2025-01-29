@@ -47,7 +47,7 @@ The same word, without any change in form, can serve as a noun, adjective or ver
 | 1st      | _I, me_           | _we, us_     |
 |          | **tu**            | **yu**       |
 | 2nd      | _you_             | _you all_    |
-|          | **da**            | **di**       |
+|          | **he**            | **di**       |
 | 3rd      | _he/she, him/her_ | _they, them_ |
 
 ### Basic sentence structures
@@ -121,12 +121,12 @@ It can't be left out when it is part of a serial verb.
 
 Pandunia words can be ambiguous because they often have more meanings compared to English.
 
-**da ye love mau.**
+**he love mau.**
 – He loves cats. / She loved a cat. / He/she will love the cat.
 
 But actually the meaning is clear in the real context:
 
-**pre tri nen, mi have du mau e un vaf. mi have plus un fem ben. da ye love mau!**
+**pre tri nen, mi have du mau e un vaf. mi have plus un fem ben. he love mau!**
 – Three years ago, I had two cats and a dog. I also had a daughter. _She loved the cats!_
 
 ### Time
@@ -168,7 +168,7 @@ To modify a noun, put adjectives before it.
 
 **un nove love**
 – a new love  
-**da gud pai**
+**de gud pai**
 – the good pie
 
 To modify a verb, put adverbs before it.
@@ -177,7 +177,7 @@ The adverb can be tagged with
 
 **mi gud (li) vize tu.**
 – I see you well.  
-**tu vize li love da.**
+**tu vize li love he.**
 – You seemingly love him/her.
 
 Modifiers are compared with
@@ -208,7 +208,7 @@ To ask _yes–or–no_ questions, replace the verb with "(verb) **no** (verb)" p
 
 **tu vize no vize mi?**
 – Do you see me?  
-**tu vize mi, he?**
+**tu vize mi, ha?**
 – You see me, eh?
 
 To ask a content question, write a normal sentence and replace the word in question with
@@ -223,15 +223,15 @@ To ask a content question, write a normal sentence and replace the word in quest
 – Which man do you love?  
 **vat man ye love tu?**
 – Which man loves you?  
-**tu love da hau muche?**
+**tu love he hau muche?**
 – How much do you love him?
 
 ### Commands
 
 To state a command, leave out the subject and start the sentence with the verb.
 
-**yam da pai!**
+**yam de pai!**
 – Eat that pie!  
-**vize da mau!**
+**vize de mau!**
 – Look at that cat!
 
