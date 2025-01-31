@@ -76,7 +76,7 @@ The word order is the same also in questions.
 **yu love hu?**
 – Who do you love?  
 **yu love mi, ha?**
-– Do you love me? (i.e. Do you love, eh?)
+– Do you love me? (i.e. You love me, eh?)
 
 Singular and plural are indicated with number words.
 

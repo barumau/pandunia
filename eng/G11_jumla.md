@@ -59,9 +59,9 @@ in three levels: (1) clause constituents, (2) phrases and (3) words.
         ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐   ┌────┬───┼───┬────┐ ┌───┴────┐
     (3) │det│adj│noun│ │TAM│adv│verb│   │prep│det│adj│noun│ │particle│
         └───┴───┴────┘ └───┴───┴────┘   └────┴───┴───┴────┘ └────────┘
-         de  yun  man   did rapid marche a   de  dai dau      he.
-	     that young man did fast   walk   on  the big road     huh
-		 'That young man walked fast on the big road, huh?'
+         de  yun  man   did rapid marche  a   de  dai dau      ha.
+         that young man did fast   walk   on  the big road     huh
+        'That young man walked fast on the big road, huh?'
 
 
 ### Marking boundaries between constituents
@@ -666,7 +666,7 @@ The simplest one involves a simple change of word order and a pause.
 
 One can also use the passive construction to a similar effect.
 
-**tu be mi vize.**
+**tu bei mi vize.**
 – You were seen by me.
 
 Another way to front the object is to use the relative clause construction.
@@ -1125,7 +1125,7 @@ It translates as *bah*, *fie*.
 – Bah! Pizza! I don't want (it).
 
 
-**he**
+**ha**
 asks a direct *yes or no* question.
 It translates as *eh?* or *huh?*.
 
@@ -1141,7 +1141,9 @@ indicates indifference, boredom or lack of excitement.
 **ne**
 asks for the listener's point of view on the matter,
 usually their agreement.
-It is different from **he** in that it's not directly asking a question but it only seeks confirmation.
+It is different from
+**ha**
+in that it's not directly asking a question but it only seeks confirmation.
 It roughly translates as *right?*, *isn't it?*, *isn't that so?*, etc.
 One uses it at the end of sentence if one is not completely sure about something but thinks it's probably true.
 
