@@ -240,11 +240,11 @@ In addition, it is used for things, too.
 **mi sal he.**
 – I greet him/her.
 
-<small>Etymology. **he** is from
-English *he* and *her*,
-Dutch *hij*,
-Afrikaans *hy*,
-Arabic ـهَا (-hā).</small>
+> Etymology:
+> **he** is from
+> English *he* (♂) & *her* (♀),
+> Hebrew הו (hū, ♂) & הי (hī, ♀),
+> Arabic هُوَ (huwa, ♂) & هِيَ (hiya, ♀).
 
 
 ### sual <small>to ask a question</small>
