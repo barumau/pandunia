@@ -13,7 +13,7 @@ For example, the word
 modifies a noun in sentence A
 and a verb in sentence B.
 
-A. **he es _mei_ kitab.**
+A. **de der es _mei_ kitab.**
 – That is a beautiful writing.  
 B. **tu _mei_ li kitab.**
 – You write _beautifully_.
@@ -57,7 +57,7 @@ It makes the structure of the verb phrase clearer.
 
 **tu _mei li_ kitab.**
 – You write _beautifully_.  
-**di _rapid li_ marche.**
+**de _rapid li_ marche.**
 – They walk _fast_.
 
 

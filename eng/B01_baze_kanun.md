@@ -18,6 +18,7 @@ Spelling is simple and regular.
 Every word is pronounced exactly as it is written.
 Almost every letter and letter-combination indicates always the same sound.
 
+
 ### (3) Regular stress accent
 
 Root words are stressed on the syllable that is before the last consonant of the word, f.ex.
@@ -35,27 +36,27 @@ The personal pronouns are:
 'I',
 **tu**
 'you' (singular),
-**he**
+**hi**
 'he, she, it',
 **vi**
 'we',
 **yu**
 'you' (plural),
-**di**
+**de**
 'they'.
 
 The possessive pronouns are:  
-**mi se**
+**mi's**
 'my',
-**tu se**
+**tu's**
 'your',
-**he se**
+**hi's**
 'his or her',
-**vi se**
+**vi's**
 'our',
-**yu se**
+**yu's**
 'your',
-**di se**
+**de's**
 'their'.
 
 The interrogative pronouns are:
@@ -63,7 +64,7 @@ The interrogative pronouns are:
 'what',
 **hu**
 'who',
-**hu se**
+**hu's**
 'whose'.
 
 

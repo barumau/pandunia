@@ -16,13 +16,13 @@ For example, the verb
 – I am a friend.  
 **_tu_ es frende.**
 – You are a friend.  
-**_ha_ es frende.**
+**_hi_ es frende.**
 – He/she is a friend.  
 **_vi_ es frende.**
 – We are friends.  
 **_yu_ es frende.**
 – You are friends.  
-**_di_ es frende.**
+**_de_ es frende.**
 – They are friends.
 
 Also a noun can serve as subject.
@@ -126,7 +126,7 @@ The auxiliary verb
 
 **ma voka vi. vi shud go.**
 – Mother called us. We should go.  
-**he shud hav kom pre nun.**
+**hi shud hav kom pre nun.**
 – He should have come by now.  
 **evri von shud vote.**
 – Everyone should vote.
@@ -138,7 +138,7 @@ It can be used to give commands to any person, not just "you".
 
 **vi shal go!**
 – Let us go! ~ Let's go!  
-**di shal kurse!**
+**de shal kurse!**
 – Let them run!
 
 **shal**
@@ -222,21 +222,21 @@ the first verb (an auxiliary verb) is something that the subject possesses
 and the second verb is something that the subject does (when there is an object in the end)
 or experiences (when there is no object).
 
-**mi kan kitab de javab.**  
+**mi kan kitab da javab.**  
 ≈ *I have the ability to write the answer.*  
 – I can write the answer.  
-**mi halal kitab de javab.**  
+**mi halal kitab da javab.**  
 ≈ *I have the permission to write the answer.*  
 – I may write the answer.  
-**mi mus kitab de javab.**  
+**mi mus kitab da javab.**  
 ≈ *I have the compulsion to write the answer.*  
 – I must write the answer.
 
 Note that the same auxiliary verbs can be used alone as transitive verbs in the pivot construction.
 
-**guru halal mi kitab de javab.**
+**guru halal mi kitab da javab.**
 – The teacher permits me to write the answer.  
-**guru mus mi kitab de javab.**
+**guru mus mi kitab da javab.**
 – The teacher compels me to write the answer.
 
 
@@ -275,14 +275,14 @@ denotes destination in the broadest sense.
 
 It denotes the destination of movement, 'to'.
 
-**di marche to bazar.**
+**de marche to bazar.**
 – They walk to the market.
 
 It denotes the destination of giving i.e. the recipient, 'to, for'.
 
-**mi don de hir buk to yu.**
+**mi don da hir buk to yu.**
 – I give this book to you.  
-**de hir buk es to yu.**
+**da hir buk es to yu.**
 – This book if for you.
 
 It denotes the causal destination, 'for, for the purpose of'.
@@ -298,24 +298,24 @@ denotes separation or origin in the broadest sense.
 
 It denotes the origin of movement, 'from'.
 
-**di kom of Brazil.**
+**de kom of Brazil.**
 – They come from Brazil.
 
 It denotes also the origin of existence, 'of'.
 
-**de lexe** ***kitab*** **es of arab asle.**
-– This word *kitab* is of Arabic origin.
+**da lexe** ***kitab*** **es of arab asle.**
+– The word *kitab* is of Arabic origin.
 
 It denotes also the material origin, 'of'.
 
-**de kopa es of glass.**
+**da kopa es of glass.**
 – The cup is made of glass.
 
 It denotes also the causal origin, 'because of'.
 
-**de mau morte of sen umre.**
+**da mau morte of sen umre.**
 – The cat died of old age.  
-**de mau morte of toxe.**
+**da mau morte of toxe.**
 – The cat died because of poison.
 
 It denotes also the mental origin, 'of, about'.
@@ -332,7 +332,7 @@ The preposition
 **ex**
 denotes location on the outside, 'out, outside'.
 
-**deme ye proteste ex de burge.**
+**deme ye proteste ex da burge.**
 – People protest outside the castle.
 
 #### in
@@ -341,7 +341,7 @@ The preposition
 **in**
 denotes location on the inside, 'in, inside'.
 
-**zulmer ye sir in de burge.**
+**zulmer ye sir in da burge.**
 – The tyrant hides in the castle.
 
 #### kon
@@ -350,7 +350,7 @@ The preposition
 **kon**
 denotes togetherness, 'with, in the company of'.
 
-**he log kon de shefe.**
+**hi log kon da shefe.**
 – He/she talks with the boss.
 
 #### Laterness: pos
@@ -359,7 +359,7 @@ The preposition
 **pos**
 denotes later position in time or space, 'after, later than'.
 
-**di kom pos mi.**
+**de kom pos mi.**
 – They come after me.
 
 #### Beforeness: pre
@@ -368,7 +368,7 @@ The preposition
 **pre**
 denotes earlier position in time or space, 'before, in front of'.
 
-**di kom pre mi.**
+**de kom pre mi.**
 – They come before me.
 
 #### pro
@@ -386,7 +386,7 @@ The preposition
 **re**
 denotes movement back, 'back, in return'.
 
-**he don de buk re mi.**
+**hi don da buk re mi.**
 – He gave the book back to me.
 
 #### tra
@@ -410,6 +410,6 @@ The preposition
 **vis**
 denotes substitution, 'instead of, on behalf of'.
 
-**he log vis mi.**
+**hi log vis mi.**
 – He talks on my behalf.
 

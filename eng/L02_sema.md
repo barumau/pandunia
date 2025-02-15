@@ -13,7 +13,7 @@ The actual meaning emerges in the sentence context.
 
 The noun meaning, 'fire', emerges when the word occupies the position of a noun in a sentence.
 
-**mi vize de hogo.**
+**mi vize da hogo.**
 – I see fire.
 
 The adjectival meaning, 'fiery', emerges in adjectival position.
@@ -230,7 +230,7 @@ If you are in a situation where you can apply freedom to an object,
 you can probably guess that the object is likely a human object or an animate object,
 and then you can imagine what freedom does to them.
 
-**mi hure di.**
+**mi hure de.**
 – I free them. ~ I liberate them.
 
 The thing called *mother* is not any different.

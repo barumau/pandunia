@@ -17,7 +17,7 @@ English is a Germanic language and therefore it is related to other Germanic lan
 which are in many ways similar to English but they are independent, separate and definitely not copies of English.
 Take a look at this comparison of the same sentence in English and other Germanic languages.
 
-| Pandunia           | mi es mi se pa se pikin e mi se ma se bebe.                |
+| Pandunia           | mi es mi's pa's pikin e mi's ma's bebe.                |
 |:-------------------|:-----------------------------------------------------------|
 | English            | I am my father's child and my mother's baby.               |
 | Scots              | A am the bairn o ma faither an the babbie o ma mither.     |
@@ -39,7 +39,7 @@ The Pandunia version is rather similar, too, because it borrows many basic words
 | English            | Come in my house, my friend. Welcome! Come here, sing and dance, eat and drink. That is my plan. We have water, beer, milk and warm soup! |
 | German             | Komm in mein Haus, mein Freund. Willkommen! Komm her, sing und tanz, iss und trink. Das ist mein Plan. Wir haben Wasser, Bier, Milch und warme Suppe! |
 | Swedish            | Kom in i mitt hus, min vän. Välkommen! Kom hit, sjung och dansa, ät och drick. Det är min plan. Vi har vatten, öl, mjölk och varm soppa! |
-| Pandunia           | Kom in mi se haus, mi se frende. Vel kom! Kom hir, gante en danse, yam en gul. He es mi se plan. Vi hab sui, bir, milke en garme supa! |
+| Pandunia           | Kom in mi's haus, mi's frende. Vel kom! Kom hir, gante en danse, yam en gul. Da es mi's plan. Vi hab sui, bir, milke en garme sup! |
 
 It is clear that Pandunia bears reseblance to _all Germanic languages_.
 So English doesn't hold a special position in this regard.

@@ -19,11 +19,11 @@ For example, the word
 **hali**
 can function equally as an adjective (_blank_ or _void_), noun (_a blank_) and verb (_to make blank_ or _to get blank_).
 
-**tu hav hali papir, ha?**
+**tu hav hali papir, he?**
 – Do you have some blank paper?  
 **don mi un hali!**
 – Give me a blank!  
-**tu mus hali de lexe.**
+**tu mus hali da lexe.**
 – You must blank out that word.
 
 Likewise, the word
@@ -34,7 +34,7 @@ can function as a verb (_to write_), a noun (_a writing_) and adjective (_writte
 – I write a letter.  
 **letre es kitab misaje.**
 – A letter is a written message.  
-**mi love yu se kitab.**
+**mi love yu's kitab.**
 – I love your writings.
 
 

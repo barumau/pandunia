@@ -211,7 +211,7 @@ The place of the stress is decided by two simple rules.
 In the examples that follow, primary accent is indicated by an acute accent (*á*) and secondary accent by a grave accent (*à*) over the first vowel of a stressed syllable.
 
 1. Root words are stressed on the syllable that is before the last consonant of the word.  
-   **hálo! mí ván lóg de gúd dúnia básh.**  
+   **hálo! mí ván lóga da gúd dúnia básh.**  
    (_Hello! I want to speak the good world language._)
 2. Derived and compound words are stressed according to their components so that the primary stress is in the main word.  
    **pandúnia es dèmokrátik básh.**  
@@ -385,7 +385,7 @@ comes from the Indo-European family of languages,
 including French _tu_, Spanish _tú_, Russian _ty_ and Hindi _tū_.
 In Pandunia it is a neutral pronoun that can be used both in informal and formal situations.
 
-The third-person pronoun in Pandunia is **he**.
+The third-person pronoun in Pandunia is **hi**.
 It has the remarkable benefit that it can refer to people of any gender as well as lifeless objects.
 So it covers the English third-person pronouns _he_, _she_ and _it_, all at once.
 
@@ -393,27 +393,27 @@ So it covers the English third-person pronouns _he_, _she_ and _it_, all at once
 |------------|------------|------------|
 | I          | mi         | wǒ         |
 | you        | tu         | nǐ         |
-| he/she/it  | he         | tā         |
+| he/she/it  | hi         | tā         |
 | we         | vi         | wǒmen      |
 | you all    | yu         | nǐmen      |
-| they       | di         | tāmen      |
+| they       | de         | tāmen      |
 
 The possessive pronouns follow the super simple pattern of Standard Chinese.
 Simply add **se** to form the possessive, as below.
 
 | English    | Pandunia   | Chinese    |
 |------------|------------|------------|
-| my         | mi se      | wǒ de      |
-| your       | tu se      | nǐ de      |
-| his/her/its| he se      | tā de      |
-| our        | vi se      | wǒmen de   |
-| your       | yu se      | nǐmen de   |
-| their      | di se      | tāmen de   |
+| my         | mi's       | wǒ de      |
+| your       | tu's       | nǐ de      |
+| his/her/its| hi's       | tā de      |
+| our        | vi's       | wǒmen de   |
+| your       | yu's       | nǐmen de   |
+| their      | de's       | tāmen de   |
 
 The personal pronouns in Pandunia attain three important goals.
 
 1. The basic pronouns
-   (**mi**, **tu**, **he**)
+   (**mi**, **tu**, **hi**)
    look and sound distinct.
 2. The possessive pronouns are built in a systematic way.
    They are not only a bunch of random words.
@@ -442,17 +442,17 @@ is used when the object of the action comes first in the sentence.
     Pandunia:  aple bei yam.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
-**bei** is a loan word from Standard Chinese *bèi*,
+**be** is a loan word from Standard Chinese *bèi*,
 but it is also close to some uses of English *to be*.
 
     English:   It can not be eaten.
-    Pandunia:  he no kan bei yam.
+    Pandunia:  hi no kan bei yam.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  mi plis he yam kafe.
+    Pandunia:  mi plis hi yam kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words.
@@ -463,10 +463,10 @@ In Pandunia, one word,
 is used instead of _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  he es aple.
+    Pandunia:  hi es aple.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  di es aple.
+    Pandunia:  de es aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 
