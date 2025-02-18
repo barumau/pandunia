@@ -913,18 +913,18 @@ The rest of the sentence can optionally be preceded by the word **asar**, which 
 
 ## Combining phrases with conjunctions
 
-**e**
+**en**
 – and (connects two similar words or phrases)  
-**o**
+**or**
 – or (connects two alternative words or phrases)  
-**ama**
+**me**
 – but (introduces a word or phrase that contrasts with or contradicts the preceding word or phrase)
 
-**mi suka mau e vaf.**
+**mi suka mau en vaf.**
 – I like cats and dogs.  
-**mi suka mau o vaf.**
+**mi suka mau or vaf.**
 – I like cats or dogs.  
-**mi suka mau ama no vaf.**
+**mi suka mau me no vaf.**
 – I like cats but not dogs.
 
 
@@ -973,11 +973,11 @@ Different scopes of negation may result depending on the location of the negativ
 **mi vize no tu ama de.**
 – I see, not you, but them.
 
-**mi plis tu safi da kamar.**
+**mi plis tu safi da kamre.**
 – I ask you to clean the room.  
-**mi no plis tu safi da kamar.**
+**mi no plis tu safi da kamre.**
 – I do NOT ask you to clean the room.  
-**mi plis tu no safi da kamar.**
+**mi plis tu no safi da kamre.**
 – I ask you NOT to clean the room.
 
 Particles

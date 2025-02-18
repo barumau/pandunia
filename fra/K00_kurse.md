@@ -24,22 +24,22 @@ est toujours neutre sur le plan de la politesse et de l'intimité.
 **sal!**
 = Salut!  
 <big>☺</big>g>
-**tu es vat?**
+**tu es hu?**
 = Qui es-tu ?  
 <big>☻</big>g>
-**mi es Yusef. tu es vat?**
+**mi es Yusef. tu es hu?**
 = Je suis Yusef. Qui est-tu ?  
 <big>☺</big>g>
-**mi es Sara. da es vat?**
+**mi es Sara. hi es hu?**
 = Je suis Sara. Qui est-ce ?  
 <big>☻</big>g>
-**da es mi se frende.**
+**hi es mi's frende.**
 = C'est mon amie.  
 <big>☺</big>g>
-**da se nam es vat?**
+**hi's nam es vat?**
 = Quel est son nom ?  
 <big>☻</big>g>
-**da se nam es Maria.**
+**hi's nam es Maria.**
 = Son nom est Maria.
 
 ### Grammaire
@@ -47,11 +47,11 @@ est toujours neutre sur le plan de la politesse et de l'intimité.
 Les phrases en Pandunia suivent normalement la structure sujet-commentaire.
 Le sujet indique de qui ou de quoi on parle.
 Le commentaire dit quelque chose sur le sujet. Par exemple, dans
-**da es mi se frende**
+**hi es mi's frende**
 le sujet est le pronom
-**da**
+**hi**
 (il, elle, il neutre), suivi du commentaire
-**es mi se frende**
+**es mi's frende**
 (est mon amie).
 
 Le mot
@@ -62,9 +62,9 @@ Et pour dire le contraire, remplacez le simplement par
 **no**
 (qui signifie à la fois _ne pas_ et _non_)
 
-**da es Sara.**
+**hi es Sara.**
 = C'est Sara.  
-**da no es Sara.**
+**hi no es Sara.**
 = Ce n'est pas Sara.
 
 **mau es hevan.**
@@ -101,15 +101,15 @@ Les réponses correctes sont données plus bas.
 
 **mi**
 je, moi  
-**mi se**
+**mi's**
 mon, ma, mes  
 **tu**
 tu, toi  
-**tu se**
+**tu's**
 ton, ta, tes  
-**da**
+**hi**
 il, elle ou il neutre  
-**da se**
+**hi's**
 son, sa, ses  
 **vat**
 qui ou quoi  
@@ -138,10 +138,10 @@ animal
 
 1. tu es vat?
 2. mi es Tomas.
-3. tu se frende es vat?
-4. da es Sara.
-5. tu se nam es vat?
-6. mi se nam es ........... 
+3. tu's frende es vat?
+4. hi es Sara.
+5. tu's nam es vat?
+6. mi's nam es ........... 
 
 
 --------------------------------------------------------------------------------
@@ -192,7 +192,7 @@ Les pronoms personnels en Pandunia sont :
 'je',
 **tu**
 'tu', et
-**da**
+**hi**
 'il, elle, il neutre'.
 Notez que les pronoms restent les mêmes dans les phrases d'exemples précédentes.
 Les mots ne changent jamais en Pandunia ;
@@ -257,7 +257,7 @@ chef, patron
 
 ### Réponses aux exercices
 
-1. tu sal da.
+1. tu sal hi.
 2. mama sal papa.
 3. sal mama!
 4. sal!
@@ -274,23 +274,23 @@ chef, patron
 **halo!**
 = Bonjour !  
 <big>🧓</big>
-**halo! plis side.**
+**halo! plis sid.**
 = Bonjour ! Asseyez-vous je vous prie !  
 <big>🧒</big>
 **danke.**
 = Merci.  
 <big>🧓</big>
-**plis yam kafe o cha.**
+**plis yam kafe or cha.**
 = Prenez du thé ou du café, je vous prie
 <big>🧒</big>
 **mi van cha. danke.**
 = Je prends du thé, merci.  
 ...  
 <big>🧓</big>
-**plis sal tu se mama!**
+**plis sal tu's mama!**
 = S'il te plaît, salut ta mère.  
 <big>🧒</big>
-**mi sal da. sal reste!**
+**mi sal hi. sal reste!**
 = Je la saluerai. Au revoir !  
 <big>🧓</big>
 **sal go!**
@@ -304,13 +304,13 @@ Les pronoms personnels en Pandunia sont :
 'je',
 **tu**
 'tu', et
-**da**
+**hi**
 'il, elle, il neutre'.
  Le pandunia est une langue neutre du point de vue du genre.
 Il ne fait pas de distinction entre les sexes des pronoms à la troisième personne ou de n'importe quels autres pronoms.
 Tous les pronoms personnels sont présents dans la phrase suivante.
 
-**mi plis tu sal da.**
+**mi plis tu sal hi.**
 = Je te demande de le/la saluer.
 
 Cette phrase a une _structure pivot_.
@@ -323,7 +323,7 @@ comme objet. Dans le même temps
 sert également de sujet au deuxième verbe
 **sal**
 (saluer) dont l'objet est
-**da**.
+**hi**.
 Ainsi
 **tu**
 a un double rôle :
@@ -340,9 +340,9 @@ En d'autres termes, le locuteur peut supposer que les auditeurs savent de qui il
 Il n'est donc pas nécessaire de les répéter sans cesse.
 De cette manière, les phrases peuvent être raccourcies.
 
-**mi plis tu sal da.**
+**mi plis tu sal hi.**
 = Je te demande de le/la saluer.  
-**plis sal da.**
+**plis sal hi.**
 = S'il te plaît salue le/la.
 
 Avez-vous noté comment la traduction de
@@ -356,10 +356,10 @@ C'est un principe en Pandunia qu'il y ait toujours eshactement un mot pour un co
 On ne crée pas différents mots simplement parce que le rôle grammatical d'un concept change.
 
 La phrase
-**plis sal da**
+**plis sal hi**
 est un modèle très utile pour les formules de politesses.
 
-**plis side.**
+**plis sid.**
 = Asseyez-vous s'il vous plaît..  
 **plis don kafe.**
 = S'il vous plaît, donnez-moi du café.  
@@ -367,16 +367,16 @@ est un modèle très utile pour les formules de politesses.
 = S'il vous plaît, donnez-moi du thé. 
 **plis yam cha.**
 = S'il vous plaît, prenez un peu de thé.  
-**plis safi kamar.**
+**plis safi kamre.**
 = Nettoyez la chambre s'il vous plaît
 
 Les ordres directs peuvent s'exprimer au moyen d'un seul verbe et d'un ton autoritaire.
 
 **don cha!**
 – Donnez-moi du thé !  
-**safi kamar!**
+**safi kamre!**
 – Nettoiez la chambre !  
-**safi da!**
+**safi hi!**
 – Nettoie-le/la !
 
 
@@ -399,17 +399,17 @@ thé
 demander (meniment), s'il-vous-plaît  
 **don**
 donner  
-**e**
+**en**
 et  
 **kafe**
 café  
-**kamar**
+**kamre**
 chambre, pièce  
-**o**
+**or**
 ou  
 **safi**
 nettoyer  
-**side**
+**sid**
 s'asseoir (être assis)  
 **danke**
 merci  
@@ -419,11 +419,11 @@ manger ou boire, consommer
 
 ### Réponses aux exercices
 
-1. da yam cha.
-2. da shefe plis da side.
-3. plis yam kafe o cha.
-4. mama plis mi safi kamar.
-5. shefe side i yam kafe.
+1. hi yam cha.
+2. shefe plis hi sid.
+3. plis yam kafe or cha.
+4. mama plis mi safi kamre.
+5. shefe sid en yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -446,10 +446,10 @@ manger ou boire, consommer
 **mi no basha pandunia...**
 = Je ne parle pas le Pandunia...  
 <big>☺</big>
-**perdon! sual da yam cha?**
+**perdon! sual hi yam cha?**
 = Pardon ! prend-il du thé ?  
 <big>☻</big>
-**no. da no yam cha. da yam kafe.**
+**no. hi no yam cha. hi yam kafe.**
 = Non. Il ne prend pas de thé. Il prend du café.  
 <big>☺</big>
 **sual tu yam supe?**
@@ -458,13 +458,13 @@ manger ou boire, consommer
 **ye.**
 = Oui.  
 <big>☺</big>
-**sual da yam supe?**
+**sual hi yam supe?**
 = Prend-il de la soupe ?  
 <big>☻</big>
 **no yam.**
 = Non.  
 <big>☺</big>
-**danke. mi don un cha e un kafe e un supe pos ten minute.**
+**danke. mi don un cha en un kafe en un supe pos ten minute.**
  = Merci. J'apporte un thé, un café et une soupe dans 10 minutes
 
 
@@ -477,7 +477,7 @@ que vous avez appris dans la leçon précédente. Les phrases interrogatives son
 'demander, questionner'.
 
 **mi sual tu yam cha.**
-= Je vous demande e vous buvez du thé.  
+= Je vous demande.e vous buvez du thé.  
 **sual tu yam cha?**
 = Buvez-vous du thé ?  
 **sual yam cha?**
@@ -488,7 +488,7 @@ mais les questions, elles, se portent souvent sur d'autres personnes.
 Par conséquent, le deuxième pronom est habituellement nécessaire.
 Il peut être omis seulement quand on a identifié qui est le sujet de la discussion.
 
-**sual da yam cha?**
+**sual hi yam cha?**
 = Est-ce qu'il ou elle prend du thé ?  
 **sual tu yam supe?**
 = Prenez-vous de la soupe ?  
@@ -499,7 +499,7 @@ Bien sûr, les noms communs et les noms propres peuvent aussi être utilisés.
 
 **sual shefe yam kafe?**
 = Est-ce que le chef prend du café ?  
-**sual papa safi kamar?**
+**sual papa safi kamre?**
 = Le père nettoie-t-il la chambre ?  
 **sual Niki basha pandunia?**
 = Est-ce que Nicky parle le Pandunia ?
@@ -517,7 +517,7 @@ On peut répondre aux questions fermées (deux réponses possibles oui ou non) p
 = Manges-tu de la soupe ?  
 – **ye.**
 = Oui.  
-– **sual da yam supe?**
+– **sual hi yam supe?**
 = Mange-t-elle de la soupe ?  
 – **no.**
 = Non.
@@ -528,9 +528,9 @@ Des réponses plus complètes peuvent également être apportées.
 = Bois-tu du café ?  
 – **ye. mi yam kafe.**
 = Oui, je bois du café .  
-– **sual da yam kafe?**
+– **sual hi yam kafe?**
 = Boit-il du café ?  
-– **no. da no yam kafe.**
+– **no. hi no yam kafe.**
 = Non, il ne boit pas de café.
 
 Il est également possible de répondre par l'affirmative en répétant le verbe principal de la question.
@@ -585,9 +585,9 @@ oui
 1. sual tu bashe pandunia?
 2. ye. mi bashe pandunia.
 3. sual mama yam kafe?
-4. no. da no yam kafe.
-5. sual da yam supe?
-6. (da) no yam.
+4. no. hi no yam kafe.
+5. sual hi yam supe?
+6. (hi) no yam.
 
 
 --------------------------------------------------------------------------------
@@ -619,21 +619,21 @@ En Pandunia, la négation affecte le mot qui le suit ;
 le sens de la phrase change donc selon l'emplacement du
 **no**.
 
-**mi plis tu safi kamar.**
+**mi plis tu safi kamre.**
 = Je te demande de nettoyer la chambre.  
-**mi no plis tu safi kamar.**
+**mi no plis tu safi kamre.**
 = Je ne te demande pas de nettoyer la chambre.  
-**mi plis tu no safi kamar.**
+**mi plis tu no safi kamre.**
 = Je te demande de ne pas nettoyer la chambre.
 
 
 Le mot nié peut être de n'importe quel type : verbe, pronom, nom, adjectif et même numéral.
 
-**da no have mau.**
+**hi no have mau.**
 = Elle n'a pas de chat.  
-**da have no mau, ama vaf.**
+**hi have no mau, ama vaf.**
 = Elle n'a pas de chats, mais des chiens.  
-**no da, ama mi have mau.**
+**no hi, ama mi have mau.**
 = Pas elle, mais j'ai des chats.  
 **mi have no un, ama du mau.**
 = Je n'ai pas un, mais deux chats.
@@ -674,10 +674,10 @@ siro
 
 ### Réponses aux exercices
 
-1. da no safi kamar.
+1. hi no safi kamre.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da no have vaf e mau. / da have no vaf e no mau.
+4. hi no have vaf en mau. / hi have no vaf en no mau.
 5. shefe yam cha ama no kafe.
 6. mama have no vaf ama du mau.
 
@@ -692,12 +692,12 @@ est normalement utilisé.
 La question peut être formulée de manière plus spécifique en ajoutant des mots
 pour la personne, le temps, la manière ou la chose si nécessaire.
 
-**da es vat?**
+**hi es vat?**
 = Qu'est-ce que c'est ?  
-**da es vat jen?**
+**hi es vat hom?**
 = Qui est-il/elle ?  
 **da es vat ting?**
-**vat jen kom?**
+**vat hom kom?**
 = Qui vient ? (**ren** = personne)  
 **tu yam a vat tem?**
 = Quand manges-tu ? (**zaman** = temps)  
@@ -716,7 +716,7 @@ avant la cause ou la raison.
 
 **vat sabab tu suka mau?**
 = Pourquoi aimes-tu les chats ?  
-**of sabab di es kavai.**
+**of sabab de es kavai.**
 = Parce qu'ils sont mignons.
 
 Bien entendu, vous pouvez également utiliser
@@ -724,7 +724,7 @@ Bien entendu, vous pouvez également utiliser
 pour exprimer la cause
 ou la raison de quelque chose, même si vous ne réponsez pas à une question.
 
-**mi suka mau of sabab di es kavai**
+**mi suka mau of sabab de es kavai**
 = J'aime les chats parce qu'ils sont mignons.
 
 ### Exercices
@@ -743,7 +743,7 @@ ou la raison de quelque chose, même si vous ne réponsez pas à une question.
 danser  
 **kom**
 venir  
-**jen**
+**hom**
 personne  
 **suka**
 apprécier  
@@ -756,12 +756,12 @@ temps, periode
 ### Réponses aux exercices
 
 
-1. vat jen suka supe?
+1. vat hom suka supe?
 2. papa suka.
-3. vat tem da kom?
+3. vat tem hi kom?
 4. pos des minute.
-5. vat sabab da no yam?
-6. of sabab da no suka kafe e supe.
+5. vat sabab hi no yam?
+6. of sabab hi no suka kafe en supe.
 
 
 --------------------------------------------------------------------------------
@@ -774,7 +774,7 @@ Il n'y a pas de conjugaison en Pandunia. Les verbes n'ont qu'une
 seule forme. Ils fonctionnement un peu comme le verbe anglais "to hit
 (frapper)" dont la forme ne change (pratiquement) jamais.
 
-**mi bate da.**
+**mi bate hi.**
 = Je le frappe / je l'ai frappé.
 
 En Pandunia tous les verbes fonctionnent ainsi ! Par exemple,
@@ -799,11 +799,11 @@ Il y a également des expressions de temps spécifiques.
 
 Les mêmes mots sont utilisés lorsque vous parlez d'actions et d'événements dans le temps. Il suffit de mettre le mot avant le verbe.
 
-**mi did bate da.**
+**mi did bate hi.**
 = Je l'ai frappé (dans le passé).  
-**mi nun bate da.**
+**mi nun bate hi.**
 = Je le frappe (actuellement)  
-**mi vil bate da.**
+**mi vil bate hi.**
 = Je le frapperai (dans le futur).
 
 Il n'est pas nécessaire de répéter les expressions de temps à chaque phrase. Ce serait maladroit.
@@ -813,7 +813,7 @@ ou bien pour souligner le fait que le temps du récit n'a pas changé.
 
 **mi did have un mau.**
 = J'ai eu un chat dans le passé.
-**da es gud mau.**
+**hi es gud mau.**
 = C'était un bon chat.
 **mi have un vaf nun.**
 = J'ai un chien maintenant.
@@ -823,7 +823,7 @@ Lorsqu'une expression temporelle est présente, les autres marqueurs de temps ne
 
 **mi be gene a nen 2003.**
 = Je suis né en 2003.  
-**da safi da kamar a pos den.**
+**hi safi da kamre a pos den.**
 = Il nettoiera la chambre demain.
 
 
@@ -868,10 +868,10 @@ lait
 
 ### Réponses aux exercices
 
-1. mi se shefe feste a vil.
+1. mi's shefe feste a vil.
 2. mi have du vaf a pas.
 3. tu yam supe a nun.
-4. da safi kamar a preden.
+4. hi safi kamre a preden.
 5. mau yam milke a posden.
-6. tu se ma feste a prenoche.
+6. tu's ma feste a prenoche.
 

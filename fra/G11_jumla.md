@@ -19,50 +19,50 @@ Elles peuvent ne se construire que d'un mot, ce qui attire l'attention de l'audi
 Une phrase est normalement composée d'un sujet et d'un prédicat.
 Dans les phrases les plus simples, le sujet est un nom ou un pronom et le prédicat est un adjectif ou un nom.
 
-**mi gud.**
+**mi es gud.**
 – Je vais bien. (= Je suis bon.)  
-**ye nove.**
+**da es nov.**
 – C'est nouveau.  
-**da Sara.**
+**hi es Sara.**
 – C'est Sarah.  
 **Sara es gud.**
 – Sarah va bien.  
-**seku es dai.**
+**sek es dai.**
 – La pierre est grosse.  
-**meza es nove.**
+**meza es nov.**
 – La table est neuve.  
 
 Le mot
 **no**
 est addé pour former le negatif.
 
-**mi no gud.** 
+**mi no es gud.** 
 – Je ne vais pas bien. (= Je ne suis pas bon.)  
-**da no nove.** 
+**da no es nov.** 
 – Ce n'est pas nouveau.  
-**da no Sara.** 
+**hi no es Sara.** 
 – Ce n'est pas Sarah.
 
 Il est possible d'ajouter le mot
-**ye**
-(oui) avant le prédicat dans des phrases affirmatives, selon le style et la praticité.
+**es**
+('être') avant le prédicat dans des phrases affirmatives, selon le style et la praticité.
 Dans ce cas la structure est similaire à celle des phrases négatives.
 
 **Sara es gud.** 
 – Sarah va bien.  
-**da seku es dai.** 
+**da sek es dai.** 
 – La pierre est grosse.  
-**da meza es nove.** 
+**da meza es nov.** 
 – La table est neuve.  
 **da meza no es lau.** 
 – La table n'est pas vieille.
 
 De plus, deux pronoms personnels peuvent être combinés avec
-**ye**
+**es**
 et
-**no**.
+**no es**.
 
-**mi es da.** 
+**mi es hi.** 
 – Moi, c'est lui / elle.  
 **mi no (es) tu.** 
 – Je ne suis pas toi.
@@ -73,7 +73,7 @@ La même règle s'applique aussi pour deux adjectifs.
 
 **yun es mei.** 
 – (Être) jeune, c'est beau.  
-**nove no (es) lau.** 
+**nov no (es) lau.** 
 – Neuf, ce n'est pas vieux.  
 
 ### Quand le sujet est un verbe
@@ -103,21 +103,21 @@ Donc l'objet de l'action est le sujet de la phrase.
 Souvent, le complément d'agent n'est pas mentionné du tout.
 
 En pandunia, la voix passive est marquée par le verbe auxiliaire
-**be**.
+**bei**.
 
-**tu be vi<e.**
+**tu bei vize.**
 – Tu es vu.e.  
-**muzike be audi.**
+**muzike bei audi.**
 – De la musique est entendue.  
-**ban be bake.**
+**ban bei bake.**
 – Du pain est cuit.  
-**kupa be parche.**
+**kupa bei parche.**
 – La tasse se brise. (La tasse est brisée.)
 
 L'agent peut être introduit après le verbe à l'aide de la particule
-**de**.
+**of**.
 
-**tu be vize de mi.**
+**tu bei vize of mi.**
 – Tu es vu.e par moi.
 
 
@@ -131,7 +131,7 @@ sujet – verbe 1 – objet 1 – verbe 2 – objet 2.
 L'objet 1 possède un double rôle.
 Il est à la fois l'objet du verbe 1 et du sujet du verbe 2.
 
-**mi van tu yam vege.**
+**mi van tu yam veg.**
 – Je veux tu manges légumes. (Je veux que tu manges des légumes.)
 
 Dans l'exemple ci-dessus,
@@ -141,7 +141,7 @@ a pour objet
 En même temps,
 **tu**
 fonctionne comme le sujet du prédicat suivant :
-**yam vege**.
+**yam veg**.
 Donc
 **tu**
 est le _pivot_ de la phrase entière.
@@ -165,12 +165,12 @@ C'est particulièrement valable pour l'expression d'ordres et de demandes.
 
 ### Structure pivot brève (VOVO)
 
-**mi sual tu bashe pandunia.**
+**mi sual tu bash pandunia.**
 – Je demande (si) tu parles pandunia.  
-**sual tu bashe pandunia?**
+**sual tu bash pandunia?**
 – Est-ce que tu parles pandunia ?
 
-### Short pivot structure (VVO)
+### Structure pivot brève (VVO)
 
 **mi plis tu kom to haus.**
 – Je te prie de venir à la maison.  
@@ -184,18 +184,18 @@ C'est particulièrement valable pour l'expression d'ordres et de demandes.
 
 ### Conjonctions de base
 
-**e**
+**en**
 – et (connecte deux mots ou phrases semblables)
-**o**
+**or**
 – ou (connecte deux mots ou phrases alternatifs)
-**ama**
+**me**
 – mais (introduit un mot ou une phrase qui vient en contraste ou en contradiction du mot ou de la phrase précédents)
 
-**mi suka mau e vaf.**
+**mi suka mau en vaf.**
 – J'aime les chats et les chiens.  
-**mi suka mau o vaf.**
+**mi suka mau or vaf.**
 – J'aime les chats ou les chiens.  
-**mi suka mau ama no vaf.**
+**mi suka mau me no vaf.**
 – J'aime les chats mais pas les chiens.
 
 --------------------------------------------------------------------------------
@@ -222,9 +222,9 @@ Une expression est affirmative par défaut, donc le mot
 n'est pas toujours nécessaire.
 
 
-**mi es jen.** 
+**mi es hom.** 
 – Je suis une personne.  
-**da ye es nove meza.**
+**da ye es nov meza.**
 – C'est une nouvelle table.
 
 #### Particule négative
@@ -232,9 +232,9 @@ n'est pas toujours nécessaire.
 La négation de phrases telles que ci-dessus s'exprime simplement par
 **no**.
 
-**mi no es jen.** 
+**mi no es hom.** 
 – Je ne suis pas une personne.  
-**da no es nove meza.**
+**da no es nov meza.**
 – Ce n'est pas une nouvelle table.
 
 Le mot
@@ -248,14 +248,14 @@ Le sens de la phrase change donc selon l'emplacement du
 – Je te vois.  
 **mi no vize tu.**
 – Je ne te vois pas.  
-**mi vize no tu ama di.**
+**mi vize no tu ama de.**
 – Ce n'est pas toi que je vois, mais eux.
 
-**mi plis tu safi da kamar.**
+**mi plis tu safi da kamre.**
 – Je te demande de nettoyer la chambre.  
-**mi no plis tu safi da kamar.**
+**mi no plis tu safi da kamre.**
 – Je NE demande PAS à toi de nettoyer la chambre.  
-**mi plis tu no safi da kamar.**
+**mi plis tu no safi da kamre.**
 – Je te demande de NE PAS nettoyer la chambre.
 
 Les particules
@@ -288,11 +288,11 @@ s'appliquent au verbe, et non pas à la question entière.
 ### Particules modificatrices
 
 Les particules
-**li**
+**'s**
 et
 **of**
 servent à relier un nom, un adjectif ou une proposition subordonnée à un autre nom pour le modifier.
-**li**
+**'s**
 relie le mot ou la proposition qui modifie au nom principal.
 **of**
 fonctionne de manière inverse, il connecte le nom principal au mot modificateur ou à la subordonnée.
@@ -304,9 +304,9 @@ Cela permet de préciser le nom, et la particule choisie montre clairement à qu
 
 Les particules modificatrices permettent ainsi de créer des groupes nominaux compléments complexes de deux mots ou davantage.
 
-**rode rang li labi**
+**rode rang's labi**
 – des lèvres de couleur rose 
-**sama rang li yen**
+**sama rang's yen**
 – des yeux de la couleur du ciel
 
 Ou dans l'ordre inverse :
@@ -318,15 +318,15 @@ Ou dans l'ordre inverse :
 
 Ces particules permettent également de créer des mots-mesures.
  
-**un sake li patate**
+**un sake's patate**
 – un sac de pommes de terre
-**du sake li patate**
+**du sake's patate**
 – deux sacs de pommes de terre
-**mor sake li patate**
+**mor sake's patate**
 – plus / davantage de sacs de pommes de terre
 
 Remarque :
-**li**
+**'s**
 et
 **of**
 connectent des propositions.
@@ -350,9 +350,9 @@ Elle indique que le mot qui la précède est en possession du mot qui la suit.
 **Maria se mama se haus**
 – La maison de la mère de Maria (Maria's mother's house)
 
-**mi se haus**
+**mi's haus**
 – ma maison  
-**tu se haus**
+**tu's haus**
 – ta maison
 
 
@@ -368,13 +368,13 @@ La particule
 **plus**
 ('aussi, également') en est un bon exemple car elle fonctionne plutôt comme en français.
 
-**da yam bir plus.**
+**hi yam bir plus.**
 – Elle boit de la bière, _en plus_.  
-**da yam plus bir.**
+**hi yam plus bir.**
 – Elle boit _de la bière aussi_.  
-**da plus yam bir.**
+**hi plus yam bir.**
 – Elle _boit aussi_ de la bière.  
-**plus da yam bir.**
+**plus hi yam bir.**
 – _Elle aussi_ boit de la bière.
 
 Les particules modales peuvent modifier toutes sortes de mots, y compris des pronoms et des numéraux, ce que les adjectifs ne peuvent pas modifier.

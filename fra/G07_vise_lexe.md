@@ -12,7 +12,7 @@ Les pronoms servent à remplacer des noms et des groupes nominaux.
 | je, me, moi | nous         |
 | **tu**      | **yu**       |
 | tu, te, toi | vous         |
-| **da**      | **di**       |
+| **hi**      | **de**       |
 | il, elle, le, lui, la | ils, elles, les, leur |
 
 Les pronoms possessifs sont construit avec le particle
@@ -20,11 +20,11 @@ Les pronoms possessifs sont construit avec le particle
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mi se**   | **vi se**    |
+| **mi's**    | **vi's**     |
 | mon         | nôtre        |
-| **tu se**   | **yu se**    |
+| **tu's**    | **yu's**     |
 | ton         | vôtre        |
-| **da se**   | **di se**    |
+| **hi's**    | **de's**     |
 | son         | leur         |
 
 
@@ -42,7 +42,7 @@ _me_ ou _moi-même_, _te_ ou _toi-même_, _se_, _lui-même_, _elle(s)-même_ ou 
 
 **mi vize sef.**
 – Je me vois.  
-**da vize sef.**
+**hi vize sef.**
 – Elle se voit. / Il se voit.  
 **vi vize sef.**
 – Nous nous voyons.
@@ -101,7 +101,7 @@ Il correspond en français à _qui_, _qui est-ce qui_, _qui est-ce que_ (personn
 | Chose         | que           | cette chose   | quelque chose | toute chose   | aucune chose  |
 | **von**       |**hu; vat von**| **da von**    | **som von**   | **evri von**  | **no von**    |
 | Individu      | qui           | cette personne| quelqu'un     | toute personne| aucun         |
-| **have**      | **hu se**     | **da von se** | **som von se**|**evri von se**| **no von se** |
+| **have**      | **hu's**      | **da von's**  | **som von's** |**evri von's** | **no von's**  |
 | Possession    | de qui        | de celui-là   | de quelqu'un  | de tous       | de nul        |
 | **plas**      | **vat plas**  | **da plas**   | **som plas**  | **evri plas** | **no plas**   |
 | Lieu          | où            | là            | quelque part  | partout       | nulle part    |

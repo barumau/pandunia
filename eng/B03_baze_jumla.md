@@ -247,7 +247,8 @@ When the most common consonant and the most common vowel are put together, the r
 > **hi** is from
 > English *he* (♂) & *she* (♀),
 > Hebrew הו (hū, ♂) & הי (hī, ♀),
-> Arabic هُوَ (huwa, ♂) & هِيَ (hiya, ♀)
+> Arabic هُوَ (huwa, ♂) & هِيَ (hiya, ♀),
+> Maltese *hi* (♀).
 
 
 ### sual <small>to ask a question</small>
@@ -397,7 +398,7 @@ Bengali না (na).</small>
 **vat es hi?**
 – What is that?
 
-**hi es buk.**
+**da es buk.**
 – That is a book.
 
 <small>Etymology. **vat** is from
@@ -447,10 +448,10 @@ and Dutch *wat*.</small>
 
 ### 's <small>'s (possessive particle)</small>
 
-**hi es vat?**
+**da es vat?**
 – What's this?
 
-**hi es mi's telefon.**
+**da es mi's telefon.**
 – It's my telephone.
 
 **da hir es hu's?**
@@ -743,7 +744,7 @@ Tip: To make direct requests, drop all the pronouns.
 **hi no kan shofe kar.**
 – He/she doesn't know how to drive a car.
 
-**sual tu kan shuli hi?**
+**sual tu kan shuli da?**
 – Do you know how to fix it?
 
 **sual tu kan pandunia?**
@@ -827,10 +828,10 @@ Tip: To make direct requests, drop all the pronouns.
 **"mau" ye seme vat?**
 – What does "mau" mean?
 
-**hi seme un tipe of hevan.**
+**da seme un tipe of hevan.**
 – It means a kind of animal.
 
-**mi no aha hi seme vat.**
+**mi no aha da seme vat.**
 – I don't understand what it means.
 
 
@@ -839,7 +840,7 @@ Tip: To make direct requests, drop all the pronouns.
 **plis kitab tu's adres.**
 – Please, write your address.
 
-**plis kitab hi a hir.**
+**plis kitab da a hir.**
 – Please, write it here!
 
 
@@ -988,7 +989,7 @@ as a preposition or alone as the verb.
 **da man bi vize un filme.**
 – The man is watching a film.
 
-**hi bi es shefe.**
+**hi bi es shef.**
 – He or she is being the chief.
 
 **hi bi es a haus.**
@@ -1003,7 +1004,7 @@ as a preposition or alone as the verb.
 **da man hav vize da filme.**
 – The man has watched the film.
 
-**hi hav es shefe.**
+**hi hav es shef.**
 – He has been the chief.
 
 **hi hav es a haus.**
@@ -1018,7 +1019,7 @@ as a preposition or alone as the verb.
 **man did vize un filme.**
 – The man watched a film.
 
-**hi did es shefe.**
+**hi did es shef.**
 – He/she was the chief.
 
 **hi did es a haus.**
@@ -1033,7 +1034,7 @@ as a preposition or alone as the verb.
 **da man vil vize da filme.**
 – The man will watch the film.
 
-**hi vil es shefe.**
+**hi vil es shef.**
 – He/she will be the chief.
 
 **hi vil es a haus.**

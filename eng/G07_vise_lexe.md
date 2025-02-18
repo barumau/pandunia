@@ -57,11 +57,11 @@ The possessive pronouns consists of the personal pronoun and the possessive part
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mi's**   | **vi's**    |
+| **mi's**    | **vi's**     |
 | my          | our          |
-| **tu's**   | **yu's**    |
+| **tu's**    | **yu's**     |
 | your        | your         |
-| **hi's**   | **de's**    |
+| **hi's**    | **de's**     |
 | his or her  | their        |
 
 
@@ -88,12 +88,12 @@ The expression
 **unotre**
 is used as the reciprocal pronoun.
 
-**unotre**
+**unaltre**
 – each other, one another
 
-**tu e mi vize unotre.**
+**tu e mi vize unaltre.**
 – You and I see each other.  
-**vi vize unotre.**
+**vi vize unaltre.**
 – We see each other.
 
 
@@ -215,7 +215,7 @@ There are two interrogative pronouns in Pandunia.
 The interrogative pronoun takes the place of the questioned thing in the phrase.
 It is not placed in the beginning of the phrase unlike normally in English.
 
-**vat es hi?**
+**vat es da?**
 – What is it?  
 **hu es hi?**
 – Who is he ~ she?  

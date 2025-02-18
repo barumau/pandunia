@@ -46,19 +46,19 @@ La phrase suivant ne peut qu'être interprétée par la voix active.
 – J'ai déjà mangé.
 
 La phrase passive peut être marquée par la verbe auxiliaire
-**be**.
+**bei**.
 
-**koko hav be yam.**
+**koko hav bei yam.**
 – Le poulet est mangé.  
-**kamar hav be safi.**
+**kamre hav bei safi.**
 – Chambre est nettoyée.
 
 On peut indiquer l'agent avec la préposition
-**de**.
+**of**.
 
-**koko hav be yam de vi.**
+**koko hav bei yam of vi.**
 – Le poulet est mangé par nous.  
-**kamar hav be safi de mi.**
+**kamar hav bei safi dof mi.**
 – Chambre est nettoyée par moi.
 
 
@@ -71,13 +71,13 @@ Il indique qu'une action s'est produite dans le passé et est toujours en cours,
 
 **da _hav_ es guru.**
 – Il ou elle est déjà enseignant.  
-**mi no _ha_ gul alkol.**
+**mi no _hav_ gul alkol.**
 – Je n'ai pas encore bu d'alcool.  
 **mi _hav_ no gul alkol.**
 – Je ne bois déjà plus d'alcool. (J'ai déjà achevé la situation où je ne bois pas d'alcool.)  
-**mi _hav_ don la buk to di.**
+**mi _hav_ don la buk to de.**
 – Je leur ai déjà donné le livre.  
-**damen no _hav_ ridon da to mi.**
+**de no _hav_ ridon da to mi.**
 – Ils ne me l'ont pas encore rendu.  
 **mi _hav_ kom to site.**
 – Je suis déjà venu en ville.
@@ -89,7 +89,7 @@ Il indique qu'une action s'est produite dans le passé et est toujours en cours,
 'passer'
 Il indique qu'une action est terminée et n'est plus pertinente pour la situation actuelle.
 
-**mi did don la buk to di.**
+**mi did don la buk to de.**
 – Je leur ai donné le livre. (Peut-être qu'ils ne l'ont plus ou qu'ils l'ont rendu.)  
 **mi did vizite Franse.**
 – J'ai visité la France une fois.  
@@ -100,7 +100,7 @@ Il indique qu'une action est terminée et n'est plus pertinente pour la situatio
 'sera, –rai'
 indique que l'événement se produira plus tard ou dans le futur.
 
-**da _vil_ es guru.**
+**hi _vil_ es guru.**
 – Il ou elle sera enseignant(e).  
 **mi no _vil_ gul bir.**
 – Je ne boirai pas de bière.
@@ -134,7 +134,7 @@ Les prépositions peuvent être aussi complétées par un groupe verbale. Dans c
 
 **mi dele of tu go.**
 – J'ai attendu depuis que tu es parti.  
-**mi dele to tu lai dome.**
+**mi dele to tu kom to haus.**
 – J'attends que tu viennes à la maison.  
 **mi dele a tu sona.**
 – J'attends pendant que tu dors.
@@ -147,7 +147,7 @@ Les prépositions peuvent être aussi complétées par un groupe verbale. Dans c
 _Je suis debout avec maison._  
 Je me tiens devant la maison / tout près de la maison.
  
-**mi loga a pandunia.**  
+**mi log a pandunia.**  
 _Je parle avec pandunia._  
 Je parle en pandunia.
  
@@ -159,12 +159,12 @@ Je parle avec un ami.e en pandunia au téléphone.
 
 En pandunia certains verbes fonctionnent comme le feraient des prépositions en français.
 
-**mi kata ban.**
+**mi kat ban.**
 – Je coupe pain.  
-**mi kata ban, uza chaku.**
+**mi kat ban, uze chaku.**
 – Je coupe pain, utilise un couteau. ~ Je coupe du pain avec un couteau.
 
-**mi dele dura du hor.**
+**mi dele duran du haur.**
 – J'attends, (ça) dure deux heures. ~ J'attends pendant deux heures.
 
 #### Verbes sans prépositions
@@ -176,7 +176,7 @@ Dans de nombreuses phrases, le verbe seul suffit.
 – Je viens (à) la maison.  
 **tu side kursi.**
 – Tu es assis (sur) une chaise.  
-**da bi lala sofa.**
+**hi bi lala sofa.**
 – Il ou elle est allongée (sur) le canapé.  
 **pishe boi daria.**
 – Des poissons nagent (dans) la mer.  

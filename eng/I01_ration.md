@@ -446,7 +446,7 @@ is used when the object of the action comes first in the sentence.
 but it is also close to some uses of English *to be*.
 
     English:   It can not be eaten.
-    Pandunia:  hi no kan bei yam.
+    Pandunia:  de no kan bei yam.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".

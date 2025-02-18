@@ -6,9 +6,9 @@ En pandunio, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
 
 ### Modifante substantivon
 
-**un _nove_ karo**
+**un _nov_ kar**
 – nova aŭto 
-**un _rapid_ karo**
+**un _rapid_ kar**
 – rapida aŭto  
 **meni _dai_ meza**
 – grandaj tabloj  
@@ -20,9 +20,9 @@ En pandunio, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
 Kiam modifovorto sekvas substantivon, ĝi rolas kvazaŭ kiel verbo, kiu indikas staton.
 Tio estas, kiel adjektivaj verboj en Esperanto.
 
-**karo – nove.**
+**kar – nove.**
 – La aŭto novas.  
-**karo es nove.**
+**kar es nov.**
 La aŭto estas nova.  
 **bagre – rapid.**
 – Tigroj rapidas.  
@@ -31,21 +31,21 @@ Tigroj estas rapidaj.
 
 Kompreneble, eblas ke modifovortoj aperu je ambaŭ flankoj de substantivo.
 
-**nove karo – rapid.**
+**nov kar – rapid.**
 – Nova aŭto rapidas.  
-**nove karo es rapid.**
+**nov kar es rapid.**
 – Novaj aŭto estas rapidaj.
 
 ## Modifante verbon
 
-**tu _rapid_ loga.**
+**tu _rapid_ log.**
 – Vi _rapide_ parolas.  
 **di jen _gud_ kitab.**
 – Ili _bone_ skribas.
 
 **tu _mei li_ kitab.**
 – Vi _bele_ skribas.  
-**di _rapid li_ marche.**
+**de _rapid li_ marche.**
 – Ili _rapide_ promenas.
 
 
@@ -84,6 +84,6 @@ rilatas komparvortoj al la fonto de komparo.
 – Pomoj estas pli bonaj ol oranĝoj.  
 **aranja es les gud dan aple.**
 – Oranĝoj estas malpli bonaj ol pomoj.
-**tu loga sim gud dan mi.**
+**tu log sim gud dan mi.**
 – Vi parolas same bone kiel mi.
 

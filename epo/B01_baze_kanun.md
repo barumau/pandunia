@@ -29,27 +29,27 @@ La personaj pronomoj estas:
 'mi',
 **tu**
 'vi (ununombre)',
-**da**
+**hi**
 'ĝi, li aŭ ŝi',
 **vi**
 'ni',
 **yu**
 'vi (multenombre)',
-**di**
+**de**
 'ili'.
 
 La posedaj pronomoj estas:  
-**mi se**
+**mi's**
 'mia',
-**tu se**
+**tu's**
 'via',
-**da se**
+**hi's**
 'ĝia, lia aŭ ŝia',
-**vi se**
+**vi's**
 'nia',
-**yu se**
+**yu's**
 'via',
-**di se**
+**de's**
 'ilia'.
 
 La demandaj pronomoj estas:  
@@ -57,7 +57,7 @@ La demandaj pronomoj estas:
 'kio',
 **hu**
 'kiu',
-**hu se**
+**hu's**
 'kies'.
 
 
@@ -71,7 +71,7 @@ La difinaj artikoloj estas singulare **da** kaj plurale **di**.
 
 La kvantaj nombrovortoj estas:  
 0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **for**, 5 **faif**, 6 **sixe**,
-7 **seven**, 8 **eite**, 9 **nain**, 10 **ten**.  
+7 **seven**, 8 **eit**, 9 **nain**, 10 **ten**.  
 Pli grandaj ol dek:
 11 **ten un**, 12 **ten du**, 13 **ten tri**,
 ktp.  
@@ -101,9 +101,9 @@ ktp.
 Adjektivoj kaj adverboj havas saman formon.
 Ili antaŭas la vorton, kiun ili modifas.
 
-**un rapid loga**
+**un rapid log**
 – rapida parolo  
-**tu rapid loga.**
+**tu rapid log.**
 – Vi rapid parolas.
 
 La adjektivoj estas ĉiam metita antaŭ la substantivo, kies sencon ili modifas.
@@ -124,10 +124,18 @@ La adjektivoj estas ĉiam metita antaŭ la substantivo, kies sencon ili modifas.
 Verboj ne ŝanĝiĝas laŭ persono, nombro aŭ tenco.
 Helpaj verboj indikas tencon, aspekton kaj modon.
 
-- La helpverbo **bi** indikas daŭran agon.
-- La helpverbo **hav** indikas kompletan agon, kies rezulto influas la nunan situacion.
-- La helpverbo **did** indikas pasintan agon.
-- La helpverbo **vil** indikas estontan agon.
+-   La helpverbo
+    **bi**
+    indikas daŭran agon.
+-    La helpverbo
+     **hav**
+     indikas kompletan agon, kies rezulto influas la nunan situacion.
+-    La helpverbo
+     **did**
+     indikas pasintan agon.
+-    La helpverbo
+     **vil**
+     indikas estontan agon.
 
 
 ### (9) Vortordo
@@ -136,23 +144,23 @@ La normala vortordo estas subjekto–verbo–objekto.
 La sama ordo estas uzata kaj en deklaroj kaj en demandoj.
 
 Pasiva frazo estas kreita per helpo de verbo
-**be**.
+**bei**.
 Oni povas atingi similan rezulton per la nepersona pronomo
 **von**.
 
-**pandunia be loga.**
+**pandunia bei log.**
 – Pandunia estas parolita.  
-**von loga pandunia.**
+**von log pandunia.**
 – Oni parolas pandunian.
 
 En la _ĉarnira konstruo_ la objekto de la unua verbo
 rolas kiel la subjekto de la dua verbo.  
-**mi plis tu loga pandunia.**
+**mi plis tu log pandunia.**
 – Mi petas ke vi parolas Pandunia.
 
 Oni povas forĵeti pronomojn kiam ili estas nenecesaj.  
-**_mi_ plis _tu_ loga pandunia.**
-→ **plis loga pandunia.**  
+**_mi_ plis _tu_ log pandunia.**
+→ **plis log pandunia.**  
 – Bonvolu paroli Pandunian.
 
 

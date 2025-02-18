@@ -297,7 +297,7 @@ chief, boss
 **danke.**
 – Thank you.  
 <big>☺</big>
-**plis yam kafe o cha.**
+**plis yam kafe or cha.**
 – Please have some coffee or tea.  
 <big>☻</big>
 **ama mi un li yam cha! danke.**
@@ -424,7 +424,7 @@ this or that
 to thank; thank you  
 **don**
 to give  
-**e**
+**en**
 and  
 **go**
 to go  
@@ -434,7 +434,7 @@ coffee
 room  
 **mus**
 must, have to  
-**o**
+**or**
 or  
 **plis**
 to ask; please  
@@ -454,9 +454,9 @@ to eat or drink
 
 1. hi yam cha.
 2. shefe plis hi sid.
-3. plis yam kafe o cha.
+3. plis yam kafe or cha.
 4. mama plis mi safi kamre.
-5. shefe sid e yam kafe.
+5. shefe sid en yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -470,7 +470,7 @@ to eat or drink
 <small>Image designed by [pikisuperstar](https://www.freepik.com/pikisuperstar)</small>
 
 <big>☺</big>
-**sal! sual tu yam kafe o cha?**
+**sal! sual tu yam kafe or cha?**
 – Hello! Would you like to have coffee or tea?  
 <big>☻</big>
 **cha.**
@@ -500,7 +500,7 @@ to eat or drink
 **no yam.**
 – No.  
 <big>☺</big>
-**danke. mi don un cha e un kafe e un supe pos ten minute.**
+**danke. mi don un cha en un kafe en un supe pos ten minute.**
 – Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -715,7 +715,7 @@ zero
 1. hi no safi kamre.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. hi no have vaf e mau. / hi have no vaf e no mau.
+4. hi no have vaf en mau. / hi have no vaf en no mau.
 5. shefe yam cha ama no kafe.
 6. mama have no vaf ama du mau.
 
@@ -733,12 +733,12 @@ The question can be made more specific by adding words for person, time, manner 
 
 **hi es hu?**
 – What is that? / Who is (s)he?  
-**hi es vat jen?**
+**hi es vat hom?**
 – Who is he/she?  
 **hi es vat ting?**
 – What (thing) is it?  
-**vat jen kom?**
-– Who is coming? (**jen** = person)  
+**vat hom kom?**
+– Who is coming? (**hom** = person)  
 **tu yam a vat tem?**
 – When do you eat? (**tem** = time)  
 **von danse a vat vei?**
@@ -783,7 +783,7 @@ even when not answering to a question.
 at, in, on  
 **danse**
 to dance  
-**jen**
+**hom**
 person  
 **kom**
 to come  
@@ -803,7 +803,7 @@ manner, style
 3. vat tem hi kom?
 4. pos des minute.
 5. vat sabab hi no yam?
-6. of sabab hi no suka kafe e supe.
+6. of sabab hi no suka kafe en supe.
 
 
 --------------------------------------------------------------------------------

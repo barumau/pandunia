@@ -47,7 +47,7 @@ La sama vorto, sin ia ajn ŝanĝo en sia formo, povas roli kiel substantivo, adj
 | 1a       | _mi_              | _ni_         |
 |          | **tu**            | **yu**       |
 | 2a       | _vi_              | _vi_         |
-|          | **da**            | **di**       |
+|          | **hi**            | **de**       |
 | 3a       | _li, ŝi_          | _they, them_ |
 
 ### Bazaj frazkonstruoj
@@ -84,7 +84,7 @@ Ekzemplo 3. Strukture klara frazo dank'al nea vorto.
 
 Ekzemplo 4. Komplika sed strukture klara frazo.
 
-    mi se     frende  hav      yam   un  pai.
+    mi's      frende  hav      yam   un  pai.
     mi POSEDO amiko   ASPEKTO  manĝi unu torto
     'Mia amikos estas manĝinta torton.'
 
@@ -121,12 +121,12 @@ Oni ne povas forĵeti ĝin, kiam ĝi apartenas en verboserio.
 
 La vortoj de pandunia ofte havas pli vastan sencon ol la korespondaj esperantaj vortoj.
 
-**da ye love mau.**
+**hi love mau.**
 – Li amas katojn. / Ŝi amis katon. / Ĝi amos la katon.
 
 Sed la kunteksto normale klarigas la precizan signifon:
 
-**pre tri nen, mi have du mau e un vaf. mi have plus un fem ben. da ye love mau!**
+**pre tri nen, mi have du mau e un vaf. mi have plus un fem ben. hi love mau!**
 – Antaū tri jaroj mi havis du katojn kaj unu hundon. Mi ankaū havis filinon. _Ŝi amis la katojn!_
 
 ### Tempo
@@ -153,18 +153,18 @@ Tensoj kaj aspektoj estas esprimita per adverboj kaj helpantaj verboj, kiel
 ### Pasivo
 
 La pasivo estas farita uzante la helpantan verbon
-**be**.
+**bei**.
 
-**tu be love.**
+**tu bei love.**
 – Vi estas amita.  
-**mi be love of tu.**
+**mi bei love of tu.**
 – Mi estas amita de vi.
 
 ### Modifaj vortoj
 
 Adjektivoj estas antaŭ la vorto, kiun ili modifas.
 
-**un nove love**
+**un nov love**
 – nova amo  
 **da gud pai**
 – bona torto
@@ -175,7 +175,7 @@ La adverboj povas esti markita de vorteto
 
 **mi gud (li) vize tu.**
 – Mi bone vidas vin.  
-**tu vize li love da.**
+**tu vize li love hi.**
 – Vi vidable amas lin aŭ ŝin.
 
 Por kompari modifvortojn, uzu la vortetoj
@@ -210,15 +210,17 @@ aŭ aldoni **he** 'ĉu' je la fino de la frazo.
 
 Por demandi _ki_-demandon skribu la normala frazo kaj anstataŭigu la demanditan vorton per
 **vat**
-'kio, kiu'.
+'kio',
+**hu**
+'kiu'.
 
-**tu love vat?**
+**tu love hu?**
 – Kiun vi amas?  
 **tu love vat man?**
 – Kiun viron vi amas?  
 **vat man ye love tu?**
 – Kiu viro amas vin?  
-**tu love da hau muche?**
+**tu love hi hau muche?**
 – Kiom multe vi amas lin?
 
 ### Ordonojn

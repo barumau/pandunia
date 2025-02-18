@@ -133,7 +133,7 @@ i.e. is the sentence, for example, a statement, a question or a command.
 – You love coffee, eh? (question)  
 **yu love kafe, ye.**
 – You love coffee, indeed. (statement)  
-**yu love kafe, ne.**
+**yu love kafe, ne?**
 – You love coffee, or... (need for response)
 
 

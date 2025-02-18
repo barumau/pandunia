@@ -155,18 +155,18 @@ and the tense auxiliaries
 ### Passive
 
 The passive voice is formed with the help of the helping verb
-**be**.
+**bei**.
 
-**tu be love.**
+**tu bei love.**
 – You are loved.  
-**mi be love of tu.**
+**mi bei love of tu.**
 – I am loved by you.
 
 ### Modifying other words
 
 To modify a noun, put adjectives before it.
 
-**un nove love**
+**un nov love**
 – a new love  
 **da gud pai**
 – the good pie

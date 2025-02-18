@@ -293,7 +293,7 @@ Le Pandunia emprunte des racines de mots occidentaux afin de proposer un vocabul
 | Racine Pandunia | Anglais     | Portugais | Espagnol | Français | Allemand | Russe    |
 | --------------- | ----------- | --------- | -------- | -------- | -------- | -------- |
 | **korte*        | short       | curto     | corto    | court    | kurz     | korotkiy |
-| **neu**         | new         | novo      | nuevo    | nouveau, neuf | neu | novıy    |
+| **nov**         | new         | novo      | nuevo    | nouveau, neuf | neu | novıy    |
 | **marche**      | march       | marcha    | marcha   | marche   | Marsch   | marš     |
 | **posta**       | post (mail) | (postal)  | posta    | poste    | Post     | počta    |
 
@@ -315,8 +315,8 @@ Le Pandunia quant à lui conserve la consonne – p, t ou k, –, finale et lui 
 | 中   | **jong**        | zung      | zhōng    | chū      | jung   | trung      |
 | 心   | **shim**        | sam       | xīn      | shin     | sim    | tâm        |
 | 門   | **mon**         | mun       | mén      | mon      | mun    | (môn)      |
-| 讀   | **duku**        | duk       | dú       | doku     | dog    | đọc        |
-| 出   | **cuti**        | cœt       | chū      | shutsu   | chul   | xuất       |
+| 讀   | **duk**         | duk       | dú       | doku     | dog    | đọc        |
+| 出   | **cut**         | cœt       | chū      | shutsu   | chul   | xuất       |
 | 索   | **sog**         | sok       | suǒ      | saku     | sæg    |            |
 | 惡   | **ag**          | ok        | è        | aku      | ag     | ác         |
 
@@ -339,7 +339,7 @@ Le verbe
 est utilisé lorsque l'objet d'une action vient en premier dans la phrase. (C'est ce qu'on appelle la phrase passive.)
 
     Anglais :   The apples were eaten.
-    Pandunia :  aple be yam.
+    Pandunia :  aple bei yam.
     Chinois :   Píngguǒ bèi chī le. (苹果被吃了。)
     Français :  Les pommes ont été mangées.
 
@@ -347,14 +347,14 @@ est utilisé lorsque l'objet d'une action vient en premier dans la phrase. (C'es
 est un mot emprunté au chinois standard, mais il est également proche de certaines utilisations de l'anglais "to be".
 
     Anglais :   It can not be eaten.
-    Pandunia:   da no kan be yam.
+    Pandunia:   da no kan bei yam.
     Chinois :   Tā bù néng bèi chī. (它不能被吃。)
     Français :	Ça ne peut pas être mangé.
 
 Comme le chinois, le Pandunia ne marque pas les verbes avec un mot comme "to" (français : "à").
 
     Anglais :   I invite him to drink coffee.
-    Pandunia:   mi plis da yam kafe.
+    Pandunia:   mi plis hi yam kafe.
     Chinois :   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
     Français :  Je l'invite à boire du café.
     
@@ -372,7 +372,7 @@ est utilisé au lieu de _am, is, are, was, were..._ (_suis, es, est, sommes, êt
     
     
     Anglais :   They are apples.
-    Pandunia:   di es aple.
+    Pandunia:   de es aple.
     Chinois :   Tāmen shì píngguǒ. (他们是苹果。)
     Français :  Ce sont des pommes.
     

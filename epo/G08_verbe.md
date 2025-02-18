@@ -12,13 +12,13 @@ Ekzemple, la verbo
 – mi estas amiko.  
 **_tu_ es frende.**
 – Ci estas amiko.  
-**_da_ es frende.**
+**_hi_ es frende.**
 – Ri (li aŭ ŝi) estas amiko.  
 **_vi_ es frende.**
 – Ni estas amikoj.  
 **_yu_ es frende.**
 – Vi estas amikoj.  
-**_di_ es frende.**
+**_de_ es frende.**
 – Ili estas amikoj.
 
 Ankaŭ substantivo povas roli kiel subjekto.
@@ -34,9 +34,12 @@ Ilia ordo estas: tempo, modo, aspekto.
 
 ### Tenso
 
-**did** indikas pasintan tenson,
-**nun** indikas prezencan tenson kaj
-**vil** indikas estontan tenson.
+**did**
+indikas pasintan tenson,
+**nun**
+indikas prezencan tenson kaj
+**vil**
+indikas estontan tenson.
 
 **man** ***did*** **yam ban.**
 – Viro *manĝIS* panon.  
@@ -47,7 +50,7 @@ Ilia ordo estas: tempo, modo, aspekto.
 
 Oni povas ankaux esprimi estontecon en pasinteco.
 
-**man** ***pas vil*** **yam ban.**
+**man** ***did vil*** **yam ban.**
 – Viro estis manĝonta panon.
 
 
@@ -59,7 +62,9 @@ Estas du aspektaj markiloj en Pandunia,
 
 Oni povas uzi aspektan kaj tensan markilojn kune.
 
-La markilo **bi** indikas, ke la procezo daŭras ankoraŭ.
+La markilo
+**bi**
+indikas, ke la procezo daŭras ankoraŭ.
 
 **man** ***bi*** **yam ban.**
 – Viro estas, estis aŭ estos manĝanta panon.  
@@ -70,7 +75,9 @@ La markilo **bi** indikas, ke la procezo daŭras ankoraŭ.
 **man** ***vil bi*** **yam ban.**
 – Viro estos manĝanta panon.
 
-La markilo **hav** indikas, ke la ago estas finita kaj ĝia rezulto estas ankoraŭ efika.
+La markilo
+**hav**
+indikas, ke la ago estas finita kaj ĝia rezulto estas ankoraŭ efika.
 
 **man** ***hav*** **yam ban.**
 – Viro estis, estas aŭ estos manĝinta panon.  
@@ -93,7 +100,7 @@ ke la plenumo de procezo dependas de iu nerealigita kondiĉo.
 – Mi volus manĝi.  
 **mi** ***vud*** **go to Dubai.**
 – Mi irus al Dubai.  
-**mi** ***vud*** **go, if tu las mi.**
+**mi** ***vud*** **go, if tu vud las mi.**
 – Mi irus, se vi lasos min.  
 **tu no** ***vud*** **es suka, if mi** ***vud*** **go.**
 – Vi ne estus feliĉa, se mi irus.
@@ -104,7 +111,7 @@ La helpanta verbo
 
 **ma voka vi. vi shud go.**
 – Patrino vokas nin. Ni devus iri.  
-**da shud hav kom pre nun.**
+**hi shud hav kom pre nun.**
 – Li devus jam veni antaŭ nun.  
 **evri von shud vote.**
 – ĉiu devus voĉdoni.
@@ -116,7 +123,7 @@ Oni povas uzi ĝin por ordoni ĉiu persono, ne nur "vi".
 
 **vi shal go!**
 – Ni iru!  
-**di shal kurse!**
+**de shal kurse!**
 – Ili kuru!
 
 Oni povas uzi vorton

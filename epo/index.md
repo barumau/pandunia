@@ -98,7 +98,7 @@ Oni komparas adjektivojn kaj adverbojn per helpantaj vortoj:
 – Mi estas pli bona ol vi.  
 **no, mi es sim gud dan yu.**
 – Ne, mi estas tiom bona kiel vi.  
-**da bi tok mor rapid dan yu.**
+**hi bi tok mor rapid dan yu.**
 – Li aŭ ŝi parolas pli rapide ol vi.
 
 Tempo estas indikata per helpantaj verboj:  
@@ -111,7 +111,7 @@ Tempo estas indikata per helpantaj verboj:
 **bi**
 – daŭre pasantaj agoj
 
-**di did lese mi se buk.**
+**de did lese mi's buk.**
 – Ili legis mian libron.  
 **vi hav lese meni buk.**
 – Ni estas leginta multajn librojn.  
@@ -165,5 +165,5 @@ menciitaj ret-lokoj.
 
 ![](http://www.pandunia.info/grafe/bandera.png "flago de Pandunia")
 
-**de hol dunia, to hol dunia**  
+**of hol dunia, to hol dunia**  
 – de la tuta mondo, por la tuta mondo

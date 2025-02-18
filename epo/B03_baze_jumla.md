@@ -195,25 +195,25 @@ persa تو‏‎ (to),
 taĝika ту (tu).</small>
 
 
-### da <small>li, ŝi, ĝi</small>
+### hi <small>li, ŝi, ĝi</small>
 
-**da es man.**
+**hi es man.**
 Li estas viro.
 
-**da es fem.**
+**hi es fem.**
 Ŝi estas virino.
 
-**da es aple.**
+**hi es aple.**
 Ĝi estas pomo.
 
 Noto:
-**da**
+**hi**
 estas ĝenerala pronomo de tria persono.
 
-**mi sal da.**
+**mi sal hi.**
 Mi salutas lin/vin.
 
-<small>Etimologio. **da** venas el
+<small>Etimologio. **hi** venas el
 mandarenĉina 他/她 (tā),
 malaja *dia*.</small>
 
@@ -257,10 +257,10 @@ sŭahila *swali*.</small>
 **ye, mi es Tomas.**
 Jes, mi estas Tomaso.
 
-**sual da es davar?**
+**sual hi es davar?**
 Ĉu li/ŝi estas doktoro?
 
-**ye, da es davar.**
+**ye, hi es davar.**
 Jes, li estas doktoro.
 
 
@@ -286,7 +286,7 @@ Vi povas uzi
 **no**
 por nei ĉion. Metu ĝin antaŭ la neitan vorton.
 
-**da no sal mi.**
+**hi no sal mi.**
 Li/ŝi no salutas min.
 
 <small>Etimologio. **no** venas el
@@ -303,17 +303,17 @@ franca *non*.</small>
 | mi          | ni           |
 | **tu**      | **yu**       |
 | ci, vi      | vi           |
-| **da**      | **di**       |
+| **hi**      | **de**       |
 | li, ŝi, ĝi  | ili          |
 
 
 **vi sal yu.**
 Ni salutas vin ĉiujn.
 
-**yu sal di.**
+**yu sal de.**
 Vi ĉiuj salutas ilin.
 
-**di sal vi!**
+**de sal vi!**
 Ili salutas nin.
 
 **vi es fem.**
@@ -322,7 +322,7 @@ Ni estas virinoj.
 **yu es man.**
 Vi estas viroj.
 
-**di es aple.**
+**de es aple.**
 Ili estas pomoj.
 
 
@@ -336,15 +336,15 @@ Kiu vi estas?
 **mi es Tomas.**
 Mi estas Tomaso.
 
-**da es vat?**
+**hi es vat?**
 Kiu ŝi estas?
-**da es Sara.**
+**hi es Sara.**
 Ŝi estas Sara.
 
 **yu es vat?**
 Kiuj vi estas?
 
-**di es vat?**
+**de es vat?**
 Kiuj ili estas?
 
 <small>Etymologio. **vat** venas el
@@ -376,13 +376,13 @@ Tiu pomo ruĝas.
 **da es rubi.**
 Ĉi tio estas ruĝe.
 
-**di sta vat?**
+**de sta vat?**
 Kie ili estas?
 
-**di sta hir.**
+**de sta hir.**
 Ili estas ĉi tie.
 
-**di sta der.**
+**de sta der.**
 Ili estas tie.
 
 
@@ -391,30 +391,30 @@ Ili estas tie.
 **da es vat?**
 Kio estas ĉi tio?
 
-**da es mi se telefon.**
+**da es mi's telefon.**
 Tio estas mia telefono.
 
-**da hir es vat se?**
+**da hir es hu's?**
 Tio estas kies?
 
-**da es mi se.**
+**da es mi's.**
 Tio estas mia.
 
 Noto: La posedan vorteton
 **se**
 oni metas inter la posedanto kaj la posedataĵo. Do
-**mi se**
+**mi's**
 signifas 'mia',
-**tu se**
+**tu's**
 signifas 'via', kaj tiel plu.
 
-**da es vat?**
-Who's he/she?
+**hi es hu?**
+Kiu li/ŝi estas?
 
-**da es mi se frende.**
+**da es mi's frende.**
 Li/ŝi estas mia amiko.
 
-**mi es Sara se frende.**
+**mi es Sara's frende.**
 Mi estas amiko de Sara.
 
 <small>Etimologio. **se** venas el
@@ -426,16 +426,16 @@ hispana *su*.</small>
 
 ### nam <small>nomo</small>
 
-**tu se nam es vat?**
+**tu's nam es vat?**
 Kio estas via nomo?
 
-**mi se nam es Tomas.**
+**mi's nam es Tomas.**
 Mia nomo estas Tomaso.
 
-**da se nam es vat?**
+**hi's nam es vat?**
 Kio estas ŝia nomo?
 
-**da se nam es Sara.**
+**hi's nam es Sara.**
 Ŝia nomo estas Sara.
 
 <small>Etimologio. **nam** venas el
@@ -453,7 +453,7 @@ angla *name*.</small>
 **mi have un gud haus.**
 Mi havas bonan domon.
 
-**da no have mone.**
+**hi no have mone.**
 Li/ŝi ne havas mono.
 
 **mi van have un nove telefon.**
@@ -467,7 +467,7 @@ Mi havas du infanojn.
 
 ### nou <small>scii, koni</small>
 
-**mi nou da.**
+**mi nou hi.**
 Mi konas lin/ŝin.
 
 **sual tu nou da der jen?**
@@ -505,10 +505,10 @@ Mi volas helpi vin.
 **sual tu van yam som ting?**
 Ĉu vi volas manĝi ion?
 
-**da yam un aple.**
+**hi yam un aple.**
 Li/ŝi manĝas pomon.
 
-**di yam aple.**
+**de yam aple.**
 Ili manĝas pomojn.
 
 Noto: Pandunio ne havas apartajn formojn por singularo kaj pluralo.
@@ -622,10 +622,10 @@ Mi bezonas manĝi.
 **perdon! mi no aha.**
 Pardonon, mi ne komprenas.
 
-**perdon! da es vat?**
+**perdon! da hir es vat?**
 Pardonon, kio estas tio?
 
-**perdon. tu se nam es vat?**
+**perdon. tu's nam es vat?**
 Pardonon, kio estas via nomo?
 
 
@@ -652,7 +652,7 @@ Mi komprenas nenion.
 **mi kan shofe karo.**
 Mi povas konduki aŭton.
 
-**da no kan shofe karo.**
+**hi no kan shofe kar.**
 Ŝi/li ne povas konduki aŭton.
 
 **sual tu kan shuli da?**
@@ -670,7 +670,7 @@ Mi povas ete pandunion.
 **mi no kan english.**
 Mi ne povas paroli la anglan.
 
-**perdon. mi no kan tu se bashe.**
+**perdon. mi no kan tu's bashe.**
 Pardonon, mi ne povas paroli vian lingvon.
 
 
@@ -727,7 +727,7 @@ Mi ĝojas vidi vin!
 **vize tu a posden!**
 Ĝis la revido morgaŭ!
 
-**mi vize da a preden.**
+**mi vize hi a preden.**
 Mi vidin lin/ŝin hieraŭ.
 
 ### seme <small>signifi</small>
@@ -747,7 +747,7 @@ Mi ne komprenas kion ĝi signifas.
 
 ### kitab <small>skribi</small>
 
-**plis kitab tu se adres.**
+**plis kitab tu's adres.**
 Bonvolu skribi vian adreson.
 
 **plis kitab da a hir.**
@@ -882,7 +882,7 @@ Bonvolu, atendu!
 **dele mi!**
 Atendu min!
 
-**di dele vi.**
+**de dele vi.**
 Ili atendas nin.
 
 **mi dele tu a hotel.**
@@ -893,7 +893,7 @@ Mi atendas vin en la hotelo.
 
 ### bi <small>esti -anta</small>
 
-**mi bi sal tu se frende.**
+**mi bi sal tu's frende.**
 Mi nune salutas vian amikon.
 
 **da man bi vize un filme.**
@@ -902,7 +902,7 @@ La viro estas vidanta la virinon.
 
 ### hav <small>esti -inta</small>
 
-**mi hav sal tu se frende.**
+**mi hav sal tu's frende.**
 Mi estas salutinta vian amikon.
 
 **da man hav vize da filme.**
@@ -911,30 +911,30 @@ La viro estas vidinta la filmon.
 
 ### did <small>-is, pasinte</small>
 
-**mi did sal tu se frende.**
+**mi did sal tu's frende.**
 Mi salutis vian amikon.
 
 **man did vize un filme.**
 La viro vidis filmon
 
-**da did es shefe.**
+**hi did es shef.**
 Ĝi estis la ĉefo.
 
-**da did es a haus.**
+**hi did es a haus.**
 Ĝi estis pasinte hejme.
 
 
 ### vil <small>-os</small>
 
-**mi vil sal tu se frende.**
+**mi vil sal tu's frende.**
 Mi salutos vian amikon.
 
 **da man vil vize da filme.**
 La viro vidos la virinon.
 
-**da vil es shefe.**
+**hi vil es shef.**
 Ĝi estos la ĉefo.
 
-**da vil es a haus.**
+**hi vil es a haus.**
 Ĝi estos hejme.
 

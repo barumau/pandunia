@@ -10,7 +10,7 @@ Pronomoj povas aperi anstataŭ substantivoj.
 | mi          | ni           |
 | **tu**      | **yu**       |
 | vi, ci      | vi           |
-| **da**      | **di**       |
+| **hi**      | **de**       |
 | li, ŝi, ĝi  | ili          |
 
 
@@ -19,11 +19,11 @@ La posedaj pronomoj estas formata per aldo de partiklo
 
 | Ununombra   | Multenombra  |
 |:------------|:-------------|
-| **mi se**   | **vi se**    |
+| **mi's**    | **vi's**     |
 | mia         | nia          |
-| **tu se**   | **yu se**    |
+| **tu's**    | **yu's**     |
 | via, cia    | via          |
-| **da se**   | **di se**    |
+| **hi's**    | **de's**     |
 |lia, ŝia, ĝia| ilia         |
 
 ## Refleksiva pronomo
@@ -38,7 +38,7 @@ Do ĝi rilatas al ĉiuj tiaj uzadoj en Esperanto, kiel: _mi(n) mem_, _vi(n) mem_
 
 **mi vize sef.**
 – Mi vidas min.  
-**da vize sef.**
+**hi vize sef.**
 – Ŝi vidas sin.  
 **vi vize sef.**
 – Ni vidas nin.
@@ -47,12 +47,12 @@ Oni uzas
 **unotre**
 por esprimi reciprokecon.
 
-**unotre**
+**unaltre**
 – unu la alia
 
-**mi e tu vize unotre.**
+**tu e mi vize unaltre.**
 – Mi kaj vi vidas unu la alian.  
-**vi vize unotre.**
+**vi vize unaltre.**
 – Ni vidas unu la alian.
 
 
@@ -109,7 +109,7 @@ estas la ĝenerala demandovorto en pandunio.
 
 **vat es da?**
 – Kio estas tio?  
-**hu es da?**
+**hu es hi?**
 – Kiu estas li ~ ŝi?  
 **yu van vat?**
 – Kion vi volas? (Laŭvorte: Vi volas kion?)  
@@ -146,7 +146,7 @@ Oni povas aranĝi tiajn vortojn en tabelo kaj en Esperanto kaj en Pandunia.
 | Aĵo           | kio           | tio           | io            | ĉio           | nenio         | alio          | io ajn        |
 | **von**       |**hu; vat von**| **da von**    | **som von**   | **evri von**  | **no von**    | **otre von**  | **eni von**   |
 | Homo          | kiu           | tiu           | iu            | ĉiu           | neniu         | aliulo        | iu ajn        |
-| **have**      | **hu se**     | **da von se** | **som von se**|**evri von se**| **no von se** |**otre von se**| **eni von se**|
+| **have**      | **hu's**      | **da von's**  | **som von's** |**evri von's** | **no von's**  |**otre von's** | **eni von's** |
 | Aparteno      | kies          | ties          | ies           | ĉies          | nenies        | de alia       | ies ajn       |
 | **plas**      | **vat plas**  | **da plas**   | **som plas**  | **evri plas** | **no plas**   | **otre plas** | **eni plas**  |
 | Loko          | kie           | tie           | ie            | ĉie           | nenie         | aliloke       | ie ajn        |
