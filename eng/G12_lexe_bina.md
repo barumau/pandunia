@@ -155,7 +155,7 @@ Next we add the suffix to a base word that ends in another vowel.
 
 ### Prefixes
 
-#### a-
+#### a- ~ ad-
 
 The prefix
 **a-**
@@ -170,38 +170,7 @@ means that the action brings the agent and the object together.
 → **aliga**
 'tie to oneself, ally'
 
-#### an-
-
-The prefix
-**an-**
-means being or doing the opposite of the base word.
-
-**deiste**
-'theist'
-→ **andeiste**
-'atheist'  
-**alkolike**
-'alcoholic'
-→ **analkolike**
-'unalcoholic'  
-**homan**
-'human'
-→ **anhoman**
-'unhuman'  
-**tabakiste**
-'smoker'
-→ **antabakiste**
-'non-smoker'  
-**kluz**
-'closed'
-→ **ankluze**
-'unclosed, open'  
-**uzabil**
-'usable'
-→ **anuzabil**
-'unusable'
-
-#### de-
+#### de- ~ dez-
 
 The prefix
 **de-**
@@ -211,9 +180,9 @@ means that the action is directed away from or off something.
 'take, catch'
 → **desep**
 'take away, remove'  
-**dut**
+**dute**
 'lead, conduct'
-→ **dedut**
+→ **dedute**
 'lead away, deduce'  
 **parte**
 'part, chip'
@@ -226,7 +195,12 @@ means that the action is directed away from or off something.
 **tap**
 'plug, cap, stopper'
 → **detap**
-'unplug, remove the plug, cap or stopper'
+'unplug, remove the plug, cap or stopper'  
+**information**
+'information'
+→ **dezinformation**
+'disinformation, information that is meant to lead away from the truth'
+
 
 #### dis-
 
@@ -260,7 +234,54 @@ The prefix **dus-** adds a quality of badness to the base word.
 → **dusforma**
 'malform'
 
-#### ex-
+
+#### en- ~ em-
+
+The prefix
+**en-**
+indicates position in something, when it is prefixed to words with a static meaning.
+There are two forms of this prefix.
+The form **em-** is used when the following word begins with a *b*, *p* or *m*,
+and the form **en-** is used in all other cases.
+
+**demik**
+'populational'
+→ **endemik**
+'endemic, occuring in a population'  
+**tene**
+'keep, hold'
+→ **entene**
+'keep in, hold in, inhold'
+
+It indicates motion or transformation into something when it is prefixed to words with an active meaning.
+
+**jete**
+'thrust'
+→ **enjete**
+'thrust in, inject'  
+**kluze**
+'close, shut'
+→ **enkluze**
+'close in, enclose, include'  
+**kode**
+'code'
+→ **enkode**
+'encode'  
+**amur**
+'love'
+→ **enamur**
+'fall in love, enamor'  
+**porta**
+'transfer, bring'
+→ **emporta**
+'bring in, import'  
+**sirke**
+'circle'
+→ **ensirke**
+'encircle, surround'
+
+
+#### ex- ~ exo-
 
 The prefix
 **ex-**
@@ -275,20 +296,47 @@ means that the action is directed outside from something.
 → **exjet**
 'thrust out, eject'
 
-#### in-
+#### in- ~ im-
 
 The prefix
 **in-**
-means that the action is directed into something.
+reverses the meaning of the adjective or noun to which it is prefixed.
+There are two forms of this prefix.
+The form **im-** is used when the following word begins with a *b*, *p* or *m*,
+and the form **in-** is used in all other cases.
 
-**jet**
-'thrust'
-→ **injet**
-'thrust in, inject'  
-**kluz**
-'close, shut'
-→ **inkluz**
-'close in, enclose, include'
+**abilita**
+'ability'
+→ **inabilita**
+'inability'  
+**kredebil**
+'credible, believable'
+→ **inkredebil**
+'incredible, unbelievable'  
+**populik**
+'popular'
+→ **impopulik**
+'unpopular'  
+**perfat**
+'perfect'
+→ **imperfat**
+'imperfect'  
+**deiste**
+'theist'
+→ **indeiste**
+'atheist'  
+**alkolik**
+'alcoholic'
+→ **inalkolik**
+'unalcoholic'  
+**homanik**
+'humane'
+→ **inhomanik**
+'unhumane'  
+**uzebil**
+'usable'
+→ **inuzebil**
+'unusable'
 
 #### kon- ~ kom- ~ ko-
 
