@@ -15,6 +15,7 @@ nav:
     - "พันดูเนีย": 'index.md'
     - "พื้นฐาน": 'B02_nutshell.md'
     - B01_baze_kanun.md
+    - pandunia-tha.md
 extra:
   social:
     - icon: fontawesome/regular/comments

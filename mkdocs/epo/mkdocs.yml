@@ -9,8 +9,8 @@ theme:
   language: eo
   logo: logo.png
   favicon: favicon.png
-  font:
-    code: Ubuntu mono
+extra_css:
+  - stile.css
 nav:
     - 'Ĉefpaĝo': 'index.md'
     - 'Bazaĵoj kaj strukturo de Pandunia':

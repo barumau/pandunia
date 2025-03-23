@@ -9,8 +9,8 @@ theme:
   language: pt
   logo: logo.png
   favicon: favicon.png
-  font:
-    code: Ubuntu mono
+extra_css:
+  - stile.css
 nav:
     - 'Ortografía': G01_ABC.md
     - 'Pronomes': G07_vise_lexe.md

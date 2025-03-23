@@ -10,8 +10,8 @@ theme:
   language: fi
   logo: logo.png
   favicon: favicon.png
-  font:
-    code: Ubuntu mono
+extra_css:
+  - stile.css
 plugins:
     - search:
         lang: fi
@@ -36,8 +36,9 @@ nav:
         - 'Lauseita': B03_baze_jumla.md
         - 'Kurssi': K00_kurse.md
     - 'Sanasto':
-        - 'Pandunia-suomi': pandunia-suomi.md
-        - 'Suomi-pandunia': suomi-pandunia.md
+        - 'Pandunia-suomi': pandunia-fin.md
+        - 'Suomi-pandunia': fin-pandunia.md
+        - Sanahaku : https://www.pandunia.info/lexia/?d=fin
         - 'Alkuperäsanasto': leksaslia.md
     - 'Videoita': I06_filme.md
     - 'UKK': I04_FAQ.md

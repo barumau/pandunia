@@ -35,7 +35,7 @@ Niektóre zauważalne cechy Panduni:
 - [Lekcje z Dialogami](K00_kurse.md)
 - [Gramatyka](B01_baze_kanun.md)
 
-- [Słownik z możliwością wyszukiwania](tiddly.html)
+- [Słownik z możliwością wyszukiwania](../lexia/index.html?d=pol)
 - słownik [polski-Pandunia](pol-pandunia.md)
 - słownik [Pandunia-polski](pandunia-pol.md)
 - [Etymologia](leksaslia.md)

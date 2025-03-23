@@ -9,14 +9,14 @@ theme:
   language: id
   logo: logo.png
   favicon: favicon.png
-  font:
-    code: Ubuntu mono
+extra_css:
+  - stile.css
 nav:
     - Home: 'index.md'
     - 'Kalimat': fraze.md
     - 'Kamus':
-        - 'Pandunia–Melayu': pandunia-may.md
-        - 'Melayu–Pandunia': may-pandunia.md
+        - 'Pandunia–Melayu': pandunia-ind.md
+        - 'Melayu–Pandunia': ind-pandunia.md
 extra:
   social:
     - icon: fontawesome/regular/comments

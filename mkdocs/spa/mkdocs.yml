@@ -10,8 +10,8 @@ theme:
   language: es
   logo: logo.png
   favicon: favicon.png
-  font:
-    code: Ubuntu mono
+extra_css:
+  - stile.css
 nav:
     - Inicio: 'index.md'
     - 'Info':

@@ -9,8 +9,8 @@ theme:
   language: pl
   logo: logo.png
   favicon: favicon.png
-  font:
-    code: Ubuntu mono
+extra_css:
+  - stile.css
 nav:
     - Główna: 'index.md'
     - 'Info':
@@ -32,7 +32,7 @@ nav:
         - 'Pandunia-polski': pandunia-pol.md
         - 'Polski-pandunia': pol-pandunia.md
         - 'Etymologia': leksaslia.md
-        - 'Wyszukaj': tiddly.html
+        - 'Wyszukaj': https://www.pandunia.info/lexia/?d=pol
 extra:
   social:
     - icon: fontawesome/regular/comments

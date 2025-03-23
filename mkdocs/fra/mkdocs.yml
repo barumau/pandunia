@@ -9,8 +9,6 @@ theme:
   language: fr
   logo: logo.png
   favicon: favicon.png
-  font:
-    code: Ubuntu mono
 extra_css:
   - stile.css
 plugins:
@@ -37,7 +35,7 @@ nav:
         - 'Pandunia → français': pandunia-fra.md
         - 'Français → pandunia': fra-pandunia.md
         - 'Etymologie': leksaslia.md
-        - 'Recherche': tiddly.html
+        - 'Recherche': https://www.pandunia.info/lexia/?d=fra
     - 'Appendix':
         - 'Questions et réponses': I04_FAQ.md
         - 'Traduire ce site': tarja_netoloke.md

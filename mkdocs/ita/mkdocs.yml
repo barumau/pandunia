@@ -9,8 +9,8 @@ theme:
   language: it
   logo: logo.png
   favicon: favicon.png
-  font:
-    code: Ubuntu mono
+extra_css:
+  - stile.css
 nav:
     - 'Lingua ausiliaria globale': I01_ration.md
     - I02_filsofia.md
@@ -23,6 +23,9 @@ nav:
     - 'Numerali': G06_nume.md
     - 'Modificatori': G05_sifa.md
     - 'Verbi': G08_verbe.md
+    - 'Vocabolario':
+        - 'pandunia → italiano': pandunia-ita.md
+        - 'italiano → pandunia': ita-pandunia.md
     - 'Da dove vengono le parole': L01_dunia_lexe.md
 extra:
   social:

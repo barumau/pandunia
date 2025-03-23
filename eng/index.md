@@ -160,16 +160,14 @@ Find Pandunia speakers near you in [Amikumu](https://amikumu.com/) app!
 
 ## More stuff
 
-- [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_xula.html)
 - [Complete grammar of Pandunia](pan.pdf) in PDF format
-- [Searchable dictionary](tiddly.html)
+- [Searchable dictionary](../lexia/index.html?d=eng)
 - [Origins of words](leksaslia.md)
 - Go to the
   [Pandunia lexe a dunia karte](http://www.pandunia.info/lexikarta/index.html)
   pages to see where every Pandunia word is from on a world map.
 - [Stories in Pandunia](https://www.pandunia.info/kitabe)
 - [Counting in Pandunia](https://www.languagesandnumbers.com/how-to-count-in-pandunia/en/panglobish/) in _Of Languages and Numbers_
-- [Flashcards and quizzes](https://lingopolo.org/pandunia/) in _Lingopolo_
 
 ![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "vi tok pandunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>

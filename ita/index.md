@@ -43,7 +43,6 @@ La versione finale del pandunia è stata pubblicata nell'aprile 2024.
 - [Mini-lezioni con immagini](http://www.pandunia.info/pandunia/mini_xula.html)
 - [Frasario](B03_baze_jumla.md)
 - [Grammatica completa del panduria](pan.pdf) in formato PDF
-- [Dizionario](tiddly.html)
 - [Etimologia delle parole](leksaslia.md)
 - Va' alla pagina
   [Pandunia lexe a dunia karte](http://www.pandunia.info/lexikarta/index.html)

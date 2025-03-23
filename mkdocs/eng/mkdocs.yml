@@ -9,8 +9,6 @@ theme:
   name: material
   logo: logo.png
   favicon: favicon.png
-  font:
-    code: Ubuntu mono
 extra_css:
   - stile.css
 nav:
@@ -34,7 +32,7 @@ nav:
         - 'Pandunia-English': pandunia-eng.md
         - 'English-Pandunia': eng-pandunia.md
         - 'Origins of words': leksaslia.md
-        - 'Search': tiddly.html
+        - 'Search': https://www.pandunia.info/lexia/?d=eng
     - 'Videos': I06_filme.md
     - 'Info':
         - History: I03_historia.md

@@ -15,7 +15,7 @@ nav:
     - Home: 'index.md'
     - '字母表': abc.md
     - '短语集': fraze.md
-    - '词典': pandunia-zho.md
+    - '词典': pandunia-cmn.md
     - '语源': leksaslia.md
 extra:
   social:
