@@ -24,20 +24,40 @@ Yhdyssanoissa yhdysosat pitävät alkuperäisen painonsa siten, että pääpaino
 ### 4. Pronominit
 
 Personaapronominit ovat:
-**mi** _minä_, **tu** _sinä_, **da** _hän_,
-**vi** _me_, **yu** _te_, **di** _he_.
+**mi**
+'minä',
+**tu**
+'sinä',
+**hi**
+'hän',
+**vi**
+'me',
+**yu**
+'te',
+**de**
+'he'.
 
 Niiden omistusmuodot ovat:
-**mi se** _minun_, **tu se** _sinun_, **da se** _hänen_,
-**vi se** _meidän_, **yu se** _teidän_, **di se** _heidän_.
+**mi's**
+'minun',
+**tu's**
+'sinun',
+**hi's**
+'hänen',
+**vi's**
+'meidän',
+**yu's**
+'teidän',
+**de's**
+'heidän'.
 
 Kysyvät pronominit ovat:
-**kua**
-_mikä_,
+**vat**
+'mikä',
 **hu**
-_kuka_,
-**hu se**
-_kenen_.
+'kuka',
+**hu's**
+'kenen'.
 
 ### 5. Substantiivit
 
@@ -48,7 +68,7 @@ Panduniassa ei ole yksikköä eikä monikkoa, sijamuotoja eikä kieliopillista s
 
 Perusluvut ovat:
 0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **for**, 5 **faif**, 6 **sixe**,
-7 **seven**, 8 **eite**, 9 **nain**, 10 **ten**.  
+7 **seven**, 8 **eit**, 9 **nain**, 10 **ten**.  
 Kymmentä suuremmat:
 11 **ten un**, 12 **ten du**, 13 **ten tri**,
 jne.  
@@ -57,7 +77,7 @@ Kymmenet:
 jne.  
 Sadat:
 100 **un hunde**, 200 **du hunde**, 300 **tri hunde**,
-	jne.  
+jne.  
 Tuhannet:
 1000 **un tauzen**, 2000 **du tauzen**, 3000 **tri tauzen**,
 jne.
@@ -75,9 +95,9 @@ Adjektiivit ja adverbit ovat muodoltaan samanlaisia.
 Yhdessä niitä kutsutaan määritteiksi.
 Ajektiivimääritteen paikka on ennen substantiivia ja adverbimääritteen ennen verbiä.
 
-**un rapid loga**
+**un rapid log**
 – Nopea puhe.  
-**tu rapid loga.**
+**tu rapid log.**
 – Sinä nopeasti puhut.
 
 ### 8. Verbit
@@ -102,25 +122,25 @@ Lauseen sanajärjestys on subjekti–verbi–objekti.
 Samaa sanajärjestystä käytetään sekä väittämissä että kysymyksissä.
 
 Passiivi muodostetaan apuverbillä
-**be**.
+**bei**.
 Saman vaikutelman voi luoda myös persoonattomalla pronominilla
 **von**.
 
-**pandunia be loga.**
+**pandunia bei log.**
 – Panduniaa puhutaan.  
-**von loga pandunia.**
+**von log pandunia.**
 – Ihmiset puhuvat panduniaa.
 
 Aktiivisen verbin objekti voi toimia seuraavan verbin subjektina.
 Tämä on ns. _saranarakenne_.
 
-**mi plis tu loga pandunia.**
+**mi ples tu log pandunia.**
 – Minä pyydän sinua puhumaan panduniaa.
 
 Pronominit voidaan jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
 
-**_mi_ plis _tu_ loga pandunia.**
-→ **plis loga pandunia.**  
+**_mi_ ples _tu_ log pandunia.**
+→ **ples log pandunia.**  
 – Pyydän, puhu panduniaa.
 
 ### 10. Sanojen johtaminen
@@ -128,10 +148,10 @@ Pronominit voidaan jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettom
 Yhdyssanat muodostetaan asettamalla kaksi tai useampia perussanoja peräkkäin
 siten, että viimeinen sana on merkittävin.
 
-**posta**
+**poste**
 ('posti') +
 **kase**
 ('laatikko', 'lipas') =
-**posta kase**
+**poste kase**
 ('postilaatikko')
 

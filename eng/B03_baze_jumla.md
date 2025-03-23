@@ -457,12 +457,12 @@ and Dutch *wat*.</small>
 **da hir es hu's?**
 – Whose is this?
 
-**hi es mi's.**
+**da es mi's.**
 – It's mine.
 
 Note: The possessive particle
 **'s**
-is put between the owner and the thing that is owned. So
+is joined to the owner. So
 **mi's**
 means 'my',
 **tu's**
@@ -498,21 +498,21 @@ French *son* ~ *sa*,
 Spanish *su*.</small>
 
 
-### nam <small>name</small>
+### nim <small>name</small>
 
-**tu's nam es vat?**
+**tu's nim es vat?**
 – What's your name?
 
-**mi's nam es Tomas.**
+**mi's nim es Tomas.**
 – My name is Thomas.
 
-**hi's nam es vat?**
+**hi's nim es vat?**
 – What is his/her name?
 
-**hi's nam es Sara.**
+**hi's nim es Sara.**
 – Her name is Sarah.
 
-<small>Etymology. **nam** is from
+<small>Etymology. **nim** is from
 Hindi नाम  (nām),
 Farsi نام‏‎ (nām),
 Thai นาม (naam),
@@ -642,29 +642,29 @@ the word order is not affected by the
 – This red one.
 
 
-### plis <small>request, please</small>
+### ples <small>ask, beg; please</small>
 
-**mi plis tu yam cha.**
-– I ask you to drink tea.
+**mi ples tu yam cha.**
+– I beg you to drink tea.
 
-**mi plis tu kom haus.**
-– I ask you to come home.
+**mi ples tu kom haus.**
+– I beg you to come home.
 
-**mi plis tu helpe mi.**
-– I ask you to help me.
+**mi ples tu helpe mi.**
+– I beg you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**plis yam cha.**
+**ples yam cha.**
 – Please, have some tea!
 
-**plis yam kafe.**
+**ples yam kafe.**
 – Please, have some coffee!
 
-**plis kom haus.**
+**ples kom haus.**
 – Please, come home!
 
-**plis helpe mi.**
+**ples helpe mi.**
 – Please, help me.
 
 
@@ -714,7 +714,7 @@ Tip: To make direct requests, drop all the pronouns.
 **perdon! da hir es vat?**
 – Excuse me, what's this?
 
-**perdon. tu's nam es vat?**
+**perdon. tu's nim es vat?**
 – Excuse me, what's your name?
 
 
@@ -795,7 +795,7 @@ Tip: To make direct requests, drop all the pronouns.
 **mi no kan audi tu.**
 – I can't hear you.
 
-**plis log mor bala.**
+**ples log mor bala.**
 – Please speak louder.
 
 **mi audi muzike.**
@@ -837,10 +837,10 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### kitab <small>write</small>
 
-**plis kitab tu's adres.**
+**ples kitab tu's adres.**
 – Please, write your address.
 
-**plis kitab da a hir.**
+**ples kitab da a hir.**
 – Please, write it here!
 
 
@@ -899,7 +899,7 @@ Tip: To make direct requests, drop all the pronouns.
 **kom hir!**
 – Come here!
 
-**plis kom!**
+**ples kom!**
 – Please come!
 
 **tu kom of vat plas?**
@@ -954,8 +954,8 @@ as a preposition or alone as the verb.
 
 ### loju <small>to live, reside</small>
 
-**tu loju vat plas?**
-– Where do you live?
+**tu loju in vat plas?**
+– Where do you live in?
 
 **mi loju Singapur.**
 – I live in Singapore.
@@ -966,7 +966,7 @@ as a preposition or alone as the verb.
 
 ### dele <small>to wait</small>
 
-**plis dele!**
+**ples dele!**
 – Please wait!
 
 **dele mi!**
@@ -1046,10 +1046,10 @@ as a preposition or alone as the verb.
 
 ### don <small>give</small>
 
-**plis don mone.**
+**ples don mone.**
 – Please give some money.
 
-**plis don hi to mi.**
+**ples don hi to mi.**
 – Please give it to me.
 
 **mi don da hir to tu.**
@@ -1067,7 +1067,7 @@ as a preposition or alone as the verb.
 **mi sepe un kafe.**
 – I will take a coffee.
 
-**plis sepe un kafe to mi.**
+**ples sepe un kafe to mi.**
 – Please take one coffee for me.
 
 **tu did sepe mone of mi.**
@@ -1130,7 +1130,7 @@ means _to buy_.
 **hi koste kam / meni.**
 – It is cheap / expensive.  
 
-**von plis vi kom.**
+**von ples vi kom.**
 – We are being called.
 
 **mi soka tualete.**
@@ -1166,7 +1166,7 @@ Come here / back / to us.
 
 – I feel alright.
 
-**plis sid hir!**
+**ples sid hir!**
 – Please, sit here!
 
 **mi suka sta.**

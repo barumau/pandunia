@@ -85,7 +85,7 @@ so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself
 – We see ourselves.
 
 The expression
-**unotre**
+**unaltre**
 is used as the reciprocal pronoun.
 
 **unaltre**

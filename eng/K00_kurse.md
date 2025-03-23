@@ -31,10 +31,10 @@ hide:
 **hi es mi's frende.**
 – That is my friend.  
 <big>☺</big>
-**hi's nam es vat?**
+**hi's nim es vat?**
 – What's her name?  
 <big>☻</big>
-**hi's nam es Maria.**
+**hi's nim es Maria.**
 – Her name is Maria.
 
 ### Grammar
@@ -122,7 +122,7 @@ cat
 I, me  
 **mi's**
 my  
-**nam**
+**nim**
 name  
 **no**
 no; not  
@@ -137,8 +137,8 @@ your
 2. mi es Tomas.
 3. hu es tu's frende?
 4. hi es Sara.
-5. tu's nam es vat?
-6. mi's nam es ____________.
+5. tu's nim es vat?
+6. mi's nim es ____________.
 
 
 --------------------------------------------------------------------------------
@@ -291,13 +291,13 @@ chief, boss
 **halo, chin pa!**
 – Hello, grandfather!  
 <big>☺</big>
-**halo! plis sid.**
+**halo! ples sid.**
 – Hello! Please sit!  
 <big>☻</big>
 **danke.**
 – Thank you.  
 <big>☺</big>
-**plis yam kafe or cha.**
+**ples yam kafe o cha.**
 – Please have some coffee or tea.  
 <big>☻</big>
 **ama mi un li yam cha! danke.**
@@ -307,7 +307,7 @@ chief, boss
 **chin pa, mi mus go a nun.**
 – Grandfather, I have to go now.  
 <big>☺</big>
-**okei. plis sal tu's mama!**
+**okei. ples sal tu's mama!**
 – OK. Please tell greetings to your mother.  
 <big>☻</big>
 **mi sal hi. sal reste!**
@@ -330,13 +330,13 @@ Pandunia is a gender-neutral language.
 It doesn't distinguish between sexes in the third person pronoun or any of the pronouns.
 All the personal pronouns are present in the following example sentence.
 
-**mi plis tu sal hi.**
+**mi ples tu sal hi.**
 – I ask you to say hello to him/her.
 
 This sentence has a _pivot structure_.
 The first verb,
-**plis**
-('to request), addresses
+**ples**
+('to ask, to beg'), addresses
 **tu**
 as its object. At the same time
 **tu**
@@ -360,13 +360,13 @@ the context. In other words the speaker can safely assume that the
 listeners know who he/she is talking about. So it is unnecessary
 to keep on repeating them. In this manner phrases can be made shorter.
 
-**mi plis tu sal hi.**
+**mi ples tu sal hi.**
 – I ask you to say hello to him/her.  
-**plis sal hi.**
+**ples sal hi.**
 – Please say hello to him/her.
 
 See how the translation of
-**plis**
+**ples**
 changed between the two sentences?
 The meaning of the word, the concept, did not change, but its use did.
 English reflects this change by using different words, to ask and please.
@@ -375,23 +375,23 @@ It is a principle in Pandunia that there is always exactly one word for one conc
 Different words are not created just because the grammatical role of a concept changes.
 
 The phrase
-**plis sal hi**
+**ples sal hi**
 has a useful pattern that can be used for making polite requests.
 
-**plis sid.**
+**ples sid.**
 – Please be seated.  
-**plis don kafe.**
+**ples don kafe.**
 – Please give me some coffee.  
-**plis don cha.**
+**ples don cha.**
 – Please give me some tea.  
-**plis yam cha.**
+**ples yam cha.**
 – Please have some tea.  
-**plis safi kamre.**
+**ples safi kamre.**
 – Please clean the room.
 
 Commands are expressed more directly than requests.
 A command is basically like the request but without the
-**plis**.
+**ples**.
 
 **don cha!**
 – Give (me) some tea!  
@@ -424,7 +424,7 @@ this or that
 to thank; thank you  
 **don**
 to give  
-**en**
+**e**
 and  
 **go**
 to go  
@@ -434,9 +434,9 @@ coffee
 room  
 **mus**
 must, have to  
-**or**
+**o**
 or  
-**plis**
+**ples**
 to ask; please  
 **safi**
 to clean  
@@ -453,10 +453,10 @@ to eat or drink
 ### Answers to the Exercises
 
 1. hi yam cha.
-2. shefe plis hi sid.
-3. plis yam kafe or cha.
-4. mama plis mi safi kamre.
-5. shefe sid en yam kafe.
+2. shefe ples hi sid.
+3. ples yam kafe o cha.
+4. mama ples mi safi kamre.
+5. shefe sid e yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -470,7 +470,7 @@ to eat or drink
 <small>Image designed by [pikisuperstar](https://www.freepik.com/pikisuperstar)</small>
 
 <big>☺</big>
-**sal! sual tu yam kafe or cha?**
+**sal! sual tu yam kafe o cha?**
 – Hello! Would you like to have coffee or tea?  
 <big>☻</big>
 **cha.**
@@ -488,26 +488,26 @@ to eat or drink
 **no. hi no yam cha. hi yam kafe.**
 – No, he won't. He would like to have coffee.  
 <big>☺</big>
-**sual tu yam supe?**
+**sual tu yam supa?**
 – Would you like to have soup?  
 <big>☻</big>
 **ye.**
 – Yes.  
 <big>☺</big>
-**sual hi yam supe?**
+**sual hi yam supa?**
 – Would he like to have soup?  
 <big>☻</big>
 **no yam.**
 – No.  
 <big>☺</big>
-**danke. mi don un cha en un kafe en un supe pos ten minute.**
+**danke. mi don un cha e un kafe e un supa pos ten minute.**
 – Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
 ### Asking questions
 
 Questions that can be answered by saying _yes_ or _no_ have the same pivot structure as requests with
-**plis**,
+**ples**,
 which you learned in the previous lesson.
 Question sentences are introduced with
 **sual**
@@ -527,7 +527,7 @@ discussion.
 
 **sual hi yam cha?**
 – Does he/she drink tea?  
-**sual tu yam supe?**
+**sual tu yam supa?**
 – Do you eat soup?  
 **sual vi yam sui?**
 – Do we drink water?
@@ -550,11 +550,11 @@ Yes/no questions can be answered with
 **no**
 'no'.
 
-– **sual tu yam supe?**
+– **sual tu yam supa?**
 = Do you eat soup?  
 – **ye.**
 = Yes.  
-– **sual hi yam supe?**
+– **sual hi yam supa?**
 = Does she eat soup?  
 – **no.**
 = No.
@@ -607,7 +607,7 @@ after
 to ask a question  
 **sui**
 water  
-**supe**
+**supa**
 soup  
 **ten**
 ten  
@@ -623,7 +623,7 @@ yes
 2. ye. mi bash pandunia.
 3. sual mama yam kafe?
 4. no. hi no yam kafe.
-5. sual hi yam supe?
+5. sual hi yam supa?
 6. (hi) no yam.
 
 
@@ -657,11 +657,11 @@ In Pandunia the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
 of the negative word.
 
-**mi plis tu safi kamre.**
+**mi ples tu safi kamre.**
 – I ask you to clean the room.  
-**mi no plis tu safi kamre.**
+**mi no ples tu safi kamre.**
 – I do NOT ask you to clean the room.  
-**mi plis tu no safi kamre.**
+**mi ples tu no safi kamre.**
 – I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
@@ -714,8 +714,8 @@ zero
 
 1. hi no safi kamre.
 2. un kupa no hali.
-3. du vaf no yam supe.
-4. hi no have vaf en mau. / hi have no vaf en no mau.
+3. du vaf no yam supa.
+4. hi no have vaf e mau. / hi have no vaf e no mau.
 5. shefe yam cha ama no kafe.
 6. mama have no vaf ama du mau.
 
@@ -798,12 +798,12 @@ manner, style
 ### Answers to the Exercises
 
 
-1. hu suka supe?
+1. hu suka supa?
 2. papa suka.
 3. vat tem hi kom?
 4. pos des minute.
 5. vat sabab hi no yam?
-6. of sabab hi no suka kafe en supe.
+6. of sabab hi no suka kafe e supa.
 
 
 --------------------------------------------------------------------------------
@@ -908,7 +908,7 @@ milk
 
 1. mi's shefe vil feste.
 2. mi did have du vaf.
-3. tu nun yam supe.
+3. tu nun yam supa.
 4. hi safi kamre a preden.
 5. mau yam milke a posden.
 6. tu's ma feste a prenoche.

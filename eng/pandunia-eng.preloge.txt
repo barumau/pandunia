@@ -12,15 +12,15 @@ when the meaning of the word and the meaning of its English translation are almo
 
 When the Pandunia word can be translated in more than one way,
 the most general or the most common translation is first
-and it is followed by alternative translations inside parenthesis.
+and it is followed by alternative translations.
 
-> **serpe** *n* snake (serpent)
+> **serpe** *n* snake, serpent
 
 There can be two or more entries for the same headword
 for different word classes.
 
-> **plis** *int* please
-> **plis** *v* ask (request, beg, plead)
+> **ples** *int* please
+> **ples** *v* ask, beg
 
 ---
 

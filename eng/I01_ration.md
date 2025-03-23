@@ -451,8 +451,8 @@ but it is also close to some uses of English *to be*.
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
-    English:   I invite him to drink coffee.
-    Pandunia:  mi plis hi yam kafe.
+    English:   I ask him to drink coffee.
+    Pandunia:  mi ples hi yam kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words.

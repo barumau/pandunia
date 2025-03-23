@@ -39,7 +39,7 @@ The Pandunia version is rather similar, too, because it borrows many basic words
 | English            | Come in my house, my friend. Welcome! Come here, sing and dance, eat and drink. That is my plan. We have water, beer, milk and warm soup! |
 | German             | Komm in mein Haus, mein Freund. Willkommen! Komm her, sing und tanz, iss und trink. Das ist mein Plan. Wir haben Wasser, Bier, Milch und warme Suppe! |
 | Swedish            | Kom in i mitt hus, min vän. Välkommen! Kom hit, sjung och dansa, ät och drick. Det är min plan. Vi har vatten, öl, mjölk och varm soppa! |
-| Pandunia           | Kom in mi's haus, mi's frende. Vel kom! Kom hir, gante en danse, yam en gul. Da es mi's plan. Vi hab sui, bir, milke en garme sup! |
+| Pandunia           | Kom en mi's haus, mi's frende. Vel kom! Kom hir, gante e danse, yam e gul. Da es mi's plan. Vi hab sui, bir, milke e garme sup! |
 
 It is clear that Pandunia bears reseblance to _all Germanic languages_.
 So English doesn't hold a special position in this regard.

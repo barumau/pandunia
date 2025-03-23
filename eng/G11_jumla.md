@@ -585,9 +585,9 @@ In commands and requests also the second participant can be left out
 when it indicates the second person ('you').
 The the remaining syntactic structure is `verb₁–verb₂–object`.
 
-**mi plis tu kom haus.**
+**mi ples tu kom haus.**
 – I ask you to come home.  
-**plis kom haus!**
+**ples kom haus!**
 – Please come home!
 
 
@@ -913,16 +913,16 @@ The rest of the sentence can optionally be preceded by the word **asar**, which 
 
 ## Combining phrases with conjunctions
 
-**en**
+**e**
 – and (connects two similar words or phrases)  
-**or**
+**o**
 – or (connects two alternative words or phrases)  
 **me**
 – but (introduces a word or phrase that contrasts with or contradicts the preceding word or phrase)
 
-**mi suka mau en vaf.**
+**mi suka mau e vaf.**
 – I like cats and dogs.  
-**mi suka mau or vaf.**
+**mi suka mau o vaf.**
 – I like cats or dogs.  
 **mi suka mau me no vaf.**
 – I like cats but not dogs.
@@ -973,11 +973,11 @@ Different scopes of negation may result depending on the location of the negativ
 **mi vize no tu ama de.**
 – I see, not you, but them.
 
-**mi plis tu safi da kamre.**
+**mi ples tu safi da kamre.**
 – I ask you to clean the room.  
-**mi no plis tu safi da kamre.**
+**mi no ples tu safi da kamre.**
 – I do NOT ask you to clean the room.  
-**mi plis tu no safi da kamre.**
+**mi ples tu no safi da kamre.**
 – I ask you NOT to clean the room.
 
 Particles
