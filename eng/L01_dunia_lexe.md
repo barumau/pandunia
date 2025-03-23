@@ -449,41 +449,40 @@ Mandarin has deleted them.
 Japanese has added a vowel to ease pronunciation.
 Pandunia keeps the final stops and adds an optional schwa sound.
 
-#### chut 'exit, leave'
+| Ideogram | Pandunia     | Literal meaning      | Mandarin     | Cantonese    | Vietnamese   | Korean       | Japanese     | Loanword in English  |
+|----------|--------------|----------------------|--------------|--------------|--------------|--------------|--------------|----------------------|
+| 道 | dao          | 'way'                | dào          | dou          | đạo          | do           | dō           | tao ~ dao            |
+| 術 | sut          | 'skill, art'         | shù          | seot         | thuật        | sul          | jitsu        | -                    |
+| 武 | vu           | 'martial, military'  | wǔshù        | mou          | võ           | mu           | bu           | -                    |
+| 武道 | vudao        | 'martial way'        | wǔdào        | mou dou      | võ đạo       | mudo         | budō         | budo                 |
+| 武術 | vusut        | 'martial art'        | wǔshù        | mou seot     | võ thuật     | musul        | bujutsu      | bujitsu, wushu       |
+| 柔 | jiu          | 'soft, yielding'     | róu          | yau          | nhu          | yu           | jū           | -                    |
+| 柔道 | jiudao       | 'soft way'           | róudào       | yau dou      | nhu đạo      | yudo         | jūdō         | judo                 |
+| 柔術 | jiusut       | 'soft skill'         | róushù       | yau seot     | nhu thuật    | yusul        | jūjutsu      | jujitsu, jiujitsu    |
+| 剣 | gem          | 'sword'              | jian         | gim          | kiếm         | geom         | ken          | -                    |
+| 剣道 | gemdao       | 'way of the sword'   | jiandào      | gim dou      | kiếm đạo     | geomdo       | kendō        | kendo, gumdo         |
+| 剣術 | gemsut       | 'swordmanship'       | jiànshù      | gim seot     | kiếm thuật   | geomsul      | kenjutsu     | kenjutsu             |
+| 弓 | gung         | 'bow (and arrow)'    | gōng         | gung         | cung         | gung         | kyū          | -                    |
+| 弓道 | gungdao      | 'way of the bow'     | gōngdào      | gung dou     | cung đạo     | gungdo       | kyūdō        | kyudo                |
+| 弓術 | gungsut      | 'archery'            | (jiànshù)    | (zin seot)   | (bắn cung)   | gungsul      | kyūjutsu     | -                    |
+| 拳 | kuen         | 'fist; box'          | quán         | kyun         | quyền        | gwon         | ken          | -                    |
+| 跆拳道 | taikuendao   | 'kick-box way'       | táiquándào   | toi kyun dou | đài quyền đạo| taegwondo    | tekondō      | taekwondo            |
+| 拳術 | kuensut      | 'boxing'             | (quánjī)     | (kyun gik)   | quyền thuật   | (gwontu)     | (kento)      | -                    |
+| 武士 | vushi        | 'warrior'            | wǔshì        | mou si       | võ sĩ        | musa         | bushi        | bushi                |
+| 武士道 | vushidao     | 'way of the warrior' | wǔshìdào     | mou si dou   | võ sĩ đạo    | musado       | bushidō      | bushido              |
+| 太 | tai          | 'extreme'            | tài          | taai         | thái         | tae          | tai          | -                    |
+| 極 | gik          | 'pole'               | jí           | gik          | cực          | geuk         | kyoku        | -                    |
+| 太極 | taigik       | 'absolute'           | tàijí        | taai gik     | thái cực     | taegeuk      | taikyoku     | tai chi ~ taiji      |
+| 太極拳 | taigikkuen   | 'absolute boxing'    | tàijíquán    |taai gik kyun |thái cực quyền| taegeukgwon  | taikyokuken  | tai chi              |
+| 陰 | yim          | 'dark, negative'     | yáng         | yoeng        | dương        | yang         | yō           | yang                 |
+| 陽 | yang         | 'bright, positive'   | yīn          | yam          | âm           | eum          | in           | yin                  |
+| 陰極 | yim gik      | 'cathode'            | yīnjí        | yam gik      | âm cực       | eumgeuk      | inkyoku      | -                    |
+| 陽極 | yang gik     | 'anode'              | yángjí       | yoeng gik    | dương cực    | yanggeuk     | yōkyoku      | -                    |
+| 太陽 | taiyang      | 'extreme brightness' | tàiyáng      | taai yoeng   | thái dương   | taeyang      | taiyō        | -                    |
 
-- Cantonese 出 (ceot1)
-- Mandarin 出 (chū)
-- Hakka 出 (chut)
-- Japanese 出 (shutsu)
-- Korean 출 (chul)
-- Vietnamese *xuất*
-
-#### mun 'door, opening'
-
-- Cantonese 門 (mun4)
-- Mandarin 门 (mén)
-- Japanese 門 (mon)
-- Korean 문 (mun)
-- Vietnamese *môn*
-
-#### shan 'mountain'
-
-- Mandarin 山 (shān)
-- Cantonese 山 (saan1)
-- Japanse 山 (san)
-- Korean 산 (san)
-- Vietnamese *sơn*
-
-#### shim 'heart'
- 
-- Mandarin 心 (xīn)
-- Cantonese 心 (sam)
-- Japanese 心 (shin)
-- Korean (sim)
-- Vietnamese *tâm*
 
 ### Examples of Euro-American words
- 
+
 Typically Euro-American words have the following structure:
 prefix + root + suffixes.
 In most cases the root ends in a consonant.
