@@ -12,10 +12,10 @@ theme:
 extra_css:
   - stile.css
 nav:
-    - 'Ortografía': G01_ABC.md
-    - 'Pronomes': G07_vise_lexe.md
+    - 'Ortografía': G-ABC.md
+    - 'Pronomes': G-PRO.md
     - 'Frases básicas': B03_baze_jumla.md
-    - 'Números': G06_nume.md
+    - 'Números': G-NUM.md
     - 'Dicionarios':
         - 'Pandunia-Português': pandunia-por.md
         - 'Português-Pandunia': por-pandunia.md

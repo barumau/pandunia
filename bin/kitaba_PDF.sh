@@ -17,15 +17,15 @@ fa_dataje_liste() {
     max_dataje_nam $1/000_dake.md
     max_dataje_nam $1/I01_ration.md
     max_dataje_nam $1/100_baze_kanun.md
-    max_dataje_nam $1/G01_ABC.md
-    max_dataje_nam $1/G03_lexe_tipe.md
-    max_dataje_nam $1/G04_name.md
-    max_dataje_nam $1/G05_sifa.md
-    max_dataje_nam $1/G06_nume.md
-    max_dataje_nam $1/G07_vise_lexe.md
-    max_dataje_nam $1/G08_verbe.md
-    max_dataje_nam $1/G11_jumla.md
-    max_dataje_nam $1/G12_lexe_bina.md
+    max_dataje_nam $1/G-ABC.md
+    max_dataje_nam $1/G-PoS.md
+    max_dataje_nam $1/G-N.md
+    max_dataje_nam $1/G-ADJ.md
+    max_dataje_nam $1/G-NUM.md
+    max_dataje_nam $1/G-PRO.md
+    max_dataje_nam $1/G-V.md
+    max_dataje_nam $1/G-P.md
+    max_dataje_nam $1/G-AFX.md
     max_dataje_nam $1/K00_kurse.md
 }
 

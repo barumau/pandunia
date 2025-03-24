@@ -29,7 +29,7 @@ hide:
 - [単語帳形式の学習とクイズ](https://lingopolo.org/pandunia/) Lingopolo を利用しています。
 - [絵を用いたミニレッスン](http://www.pandunia.info/pandunia/mini_xula.html)
 - [フレーズ集](B03_baze_jumla.md)
-- [つづり](G01_ABC.md) と [文法](B01_baze_kanun.md)
+- [つづり](G-ABC.md) と [文法](B01_baze_kanun.md)
 
 - [検索可能な辞書](../lexia/index.html?d=jpn)
 <!-- - [日本語→パンドゥニア](jpn-pandunia.md) 辞書 -->

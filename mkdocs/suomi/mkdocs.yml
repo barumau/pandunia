@@ -23,15 +23,15 @@ nav:
     - 'Pandunian perusteet ja rakenne':
         - 'Perussäännöt': B01_baze_kanun.md
         - 'Yleismaailmallinen sanasto': L01_dunia_lexe.md
-        - 'Ääntäminen': G01_ABC.md
-        - 'Sanaluokat': G03_lexe_tipe.md
-        - 'Pronominit': G07_vise_lexe.md
-        - 'Substantiivit': G04_name.md
-        - 'Numeraalit': G06_nume.md
-        - 'Määritteet': G05_sifa.md
-        - 'Verbit': G08_verbe.md
-        - 'Lauserakenteet': G11_jumla.md
-        - 'Sanojen johtaminen': G12_lexe_bina.md
+        - 'Ääntäminen': G-ABC.md
+        - 'Sanaluokat': G-PoS.md
+        - 'Pronominit': G-PRO.md
+        - 'Substantiivit': G-N.md
+        - 'Numeraalit': G-NUM.md
+        - 'Määritteet': G-ADJ.md
+        - 'Verbit': G-V.md
+        - 'Lauserakenteet': G-P.md
+        - 'Sanojen johtaminen': G-AFX.md
     - 'Oppitunteja':
         - 'Lauseita': B03_baze_jumla.md
         - 'Kurssi': K00_kurse.md

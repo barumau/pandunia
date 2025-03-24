@@ -16,15 +16,15 @@ nav:
     - 'Grammar and Rules':
         - 'The basic rules': B01_baze_kanun.md
         - 'World words': L01_dunia_lexe.md
-        - 'Spelling and pronunciation': G01_ABC.md
-        - 'Word classes': G03_lexe_tipe.md
-        - 'Pronouns': G07_vise_lexe.md
-        - 'Nouns': G04_name.md
-        - 'Numerals': G06_nume.md
-        - 'Modifiers': G05_sifa.md
-        - 'Verbs': G08_verbe.md
-        - 'Sentences': G11_jumla.md
-        - 'Word building': G12_lexe_bina.md
+        - 'Spelling and pronunciation': G-ABC.md
+        - 'Word classes': G-PoS.md
+        - 'Pronouns': G-PRN.md
+        - 'Nouns': G-N.md
+        - 'Numerals': G-NUM.md
+        - 'Modifiers': G-ADJ.md
+        - 'Verbs': G-V.md
+        - 'Sentences': G-P.md
+        - 'Word building': G-AFX.md
     - 'Lessons':
         - 'Basic Phrases': B03_baze_jumla.md
         - 'Course': K00_kurse.md

@@ -16,13 +16,13 @@ nav:
     - I02_filsofia.md
     - B02_nutshell.md
     - 'Regole basilari': B01_baze_kanun.md
-    - 'Ortografia e pronuncia': G01_ABC.md
-    - 'Classi di parole': G03_lexe_tipe.md
-    - 'Pronomi': G07_vise_lexe.md
-    - 'Sostantivi': G04_name.md
-    - 'Numerali': G06_nume.md
-    - 'Modificatori': G05_sifa.md
-    - 'Verbi': G08_verbe.md
+    - 'Ortografia e pronuncia': G-ABC.md
+    - 'Classi di parole': G-PoS.md
+    - 'Pronomi': G-PRO.md
+    - 'Sostantivi': G-N.md
+    - 'Numerali': G-NUM.md
+    - 'Modificatori': G-ADJ.md
+    - 'Verbi': G-V.md
     - 'Vocabolario':
         - 'pandunia → italiano': pandunia-ita.md
         - 'italiano → pandunia': ita-pandunia.md

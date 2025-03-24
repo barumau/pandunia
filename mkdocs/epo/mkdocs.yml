@@ -16,13 +16,13 @@ nav:
     - 'Bazaĵoj kaj strukturo de Pandunia':
         - 'Bazaj reguloj': B01_baze_kanun.md
         - 'Tutmonda vortaro': L01_dunia_lexe.md
-        - 'Prononco': G01_ABC.md
-        - 'Pronomoj': G07_vise_lexe.md
-        - 'Substantivoj': G04_name.md
-        - 'Nombrovortoj': G06_nume.md
-        - 'Modifaj vortoj': G05_sifa.md
-        - 'Verboj': G08_verbe.md
-        - 'Vortfarado': G12_lexe_bina.md
+        - 'Prononco': G-ABC.md
+        - 'Pronomoj': G-PRO.md
+        - 'Substantivoj': G-N.md
+        - 'Nombrovortoj': G-NUM.md
+        - 'Modifaj vortoj': G-ADJ.md
+        - 'Verboj': G-V.md
+        - 'Vortfarado': G-AFX.md
     - 'Lecionoj':
         - 'Utilaj frazoj': B03_baze_jumla.md
     - 'Vortaroj':

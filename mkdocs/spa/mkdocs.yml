@@ -18,15 +18,15 @@ nav:
         - I02_filsofia.md
     - 'Gramatica':
         - B01_baze_kanun.md
-        - G01_ABC.md
-        - G03_lexe_tipe.md
-        - G07_vise_lexe.md
-        - G04_name.md
-        - G06_nume.md
-        - G05_sifa.md
-        - G08_verbe.md
-        - G11_jumla.md
-        - G12_lexe_bina.md
+        - G-ABC.md
+        - G-PoS.md
+        - G-PRO.md
+        - G-N.md
+        - G-NUM.md
+        - G-ADJ.md
+        - G-V.md
+        - G-P.md
+        - G-AFX.md
     - 'Lecciones':
         - 'Frases básicas': B03_baze_jumla.md
         - 'Curso': K00_kurse.md

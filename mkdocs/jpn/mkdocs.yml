@@ -15,15 +15,15 @@ nav:
     - '基本': B02_nutshell.md
     - '文法':
         - '基本事項': B01_baze_kanun.md
-        - 'つづり': G01_ABC.md
-        - '品詞': G03_lexe_tipe.md
-        - '代名詞': G07_vise_lexe.md
-        - '名詞': G04_name.md
-        - '数詞': G06_nume.md
-        - '修飾詞': G05_sifa.md
-        - '動詞': G08_verbe.md
-        - '文章': G11_jumla.md
-        - '単語の構築': G12_lexe_bina.md
+        - 'つづり': G-ABC.md
+        - '品詞': G-PoS.md
+        - '代名詞': G-PRO.md
+        - '名詞': G-N.md
+        - '数詞': G-NUM.md
+        - '修飾詞': G-ADJ.md
+        - '動詞': G-V.md
+        - '文章': G-P.md
+        - '単語の構築': G-AFX.md
     - 'フレーズ集': B03_baze_jumla.md
     - '対話形式のレッスン': 201_shula.md
     - '辞典': pandunia-jpn.md

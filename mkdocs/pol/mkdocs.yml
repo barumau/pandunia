@@ -18,13 +18,13 @@ nav:
         - 'Założenia': I02_filsofia.md
     - 'Gramatyka':
         - B01_baze_kanun.md
-        - 'Dźwięki i litery': G01_ABC.md
-        - G07_vise_lexe.md
-        - G04_name.md
-        - G06_nume.md
-        - G05_sifa.md
-        - G11_jumla.md
-        - G12_lexe_bina.md
+        - 'Dźwięki i litery': G-ABC.md
+        - G-PRO.md
+        - G-N.md
+        - G-NUM.md
+        - G-ADJ.md
+        - G-P.md
+        - G-AFX.md
     - 'Nauka':
         - 'Rozmówki': B03_baze_jumla.md
         - 'Kurs': K00_kurse.md
