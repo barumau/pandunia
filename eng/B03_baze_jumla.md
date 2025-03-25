@@ -929,7 +929,7 @@ Tip: To make direct requests, drop all the pronouns.
 **hotel a vat plas?**
 – Where is the hotel?
 
-**hotel a da der dau.**
+**hotel a da der dao.**
 – The hotel is on that road.
 
 **tu a vat plas?**

@@ -24,6 +24,7 @@ fa_dataje_liste() {
     max_dataje_nam $1/G-NUM.md
     max_dataje_nam $1/G-PRO.md
     max_dataje_nam $1/G-V.md
+    max_dataje_nam $1/G-PP.md
     max_dataje_nam $1/G-P.md
     max_dataje_nam $1/G-AFX.md
     max_dataje_nam $1/K00_kurse.md

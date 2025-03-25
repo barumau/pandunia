@@ -59,7 +59,7 @@ in three levels: (1) clause constituents, (2) phrases and (3) words.
         ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐   ┌────┬───┼───┬────┐ ┌───┴────┐
     (3) │det│adj│noun│ │TAM│adv│verb│   │prep│det│adj│noun│ │particle│
         └───┴───┴────┘ └───┴───┴────┘   └────┴───┴───┴────┘ └────────┘
-         da  yun  man   did rapid marche a   da  dai dau      he.
+         da  yun  man   did rapid marche a   da  dai dao      he.
         that young man did fast   walk   on  the big road     huh
         'That young man walked fast on the big road, huh?'
 
