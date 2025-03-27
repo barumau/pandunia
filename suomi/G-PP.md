@@ -85,6 +85,20 @@ Se merkitsee myös ajatuksen lähdettä.
 **mi fikre of hope.**
 – Minä ajattelen toivoA.
 
+## be ('keinolla, välineellä')
+
+**mi kom der be bus.**
+– Minä tulen sinne bussiLLA.  
+**mi bate ding be hamar.**
+– Minä lyön naulaa vasaraLLA.  
+**hi log be pandunia.**
+– Hän puhuu panduniaKSI.  
+**mi kupa da be 100 euro.**
+– Minä ostin sen sadalla eurolla.  
+**mi bate be forte.**
+– Minä lyön voimalla ~ voimallisesti.  
+**mi vod be nim of deo.**
+– Minä vannon Jumalan nimeen.
 
 ### ex ('ulkopuolella')
 

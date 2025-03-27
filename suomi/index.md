@@ -147,9 +147,12 @@ Se toimii!
 Pandunian puhujia on useilla keskustelukanavilla internetissä.
 
 - [Oma keskustelupalstamme](https://pandunia.info/forum/) – kirjautumista ei tarvita!
+  Tänne voi kirjoittaa myös suomeksi.
+- Suomenkielinen [sähköpostilista](https://groups.google.com/g/suomi-pandunia).
+  Liity mukaan lähettämällä tyhjä viesti osoitteeseen suomi-pandunia+subscribe@googlegroups.com tai käyttämällä selainta ja Google-tiliä.
+- Facebookin [Tekokielet-ryhmä](http://www.facebook.com/groups/tekokielet) tekokielistä yleensä.
 - [Discord-palvelin](https://discord.gg/jf5GHcHXKk)
 - Redditin [r/pandunia](https://www.reddit.com/r/pandunia/)-palsta
-- Facebookin [Tekokielet-ryhmä](http://www.facebook.com/groups/tekokielet) tekokielistä yleensä.
 - Facebookin [Pandunia-ryhmä](http://www.facebook.com/groups/pandunia)
 - Telegramin [vi tok pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) Täällä puhutaan vain panduniaa!
 - Telegramin [monikielinen kanava](https://t.me/pandunia_grupe)
@@ -157,14 +160,11 @@ Pandunian puhujia on useilla keskustelukanavilla internetissä.
 
 Lähellä olevia pandunian puhujia voi löytää [Amikumu](https://amikumu.com/)-sovelluksella.
 
-Suomeksi on tarjolla [sähköpostilista](https://groups.google.com/forum/?hl=fi&fromgroups=#!forum/suomi-pandunia),
-johon voi liittyä lähettämällä tyhjän viestin osoitteeseen suomi-pandunia+subscribe@googlegroups.com tai käyttämällä selainta ja Google-tiliä.
-
 Panduniaa ei harrasta vielä monikaan,
 mutta jos _sinä_ pidät panduniaa hyvänä ideana, niin myös _muut_ ajattelevat samoin.
 Eli ala käyttämään panduniaa ja tehdään siitä yhdessä maailman yhteinen kieli!
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen bashe pandunia!")  
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "vi tok pandunia!")  
 <small>Kuva: [Freepik](http://www.freepik.com)</small>
 
 Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@pandunia.info](mailto:risto@pandunia.info)
@@ -173,5 +173,5 @@ Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@p
 
 ![](http://www.pandunia.info/grafe/bandera.png "pandunian lippu")
 
-**de hol dunia, to hol dunia**  
+**of hol dunia, to hol dunia**  
 – koko maailmalta, koko maailmalle
