@@ -32,7 +32,7 @@ Take a look at this comparison of the same sentence in English and other Germani
 
 Another example is the [Universal Germanic Dialog](https://www.youtube.com/watch?v=ryVG5LHRMJ4) by King Ming Lam.
 It is more or less recognizable in all Germanic languages.
-The Pandunia version is rather similar, too, because it borrows many basic words from Germanic languages.
+The Pandunia version is rather similar, too, because Pandunia borrows many basic words from Germanic languages.
 
 | Language           | "The Universal Germanic Dialog"                            |
 |:-------------------|:-----------------------------------------------------------|
@@ -48,9 +48,31 @@ Pandunia is an independent language that bears significant similarity to
 Germanic languages like English, German and Dutch
 but also to Romance languages like Italian, Spanish, Portuguese and French
 and, to a lesser degree, also to many other languages.
-It is an independent language in the great global network of languages.
 
-Now that this issue is settled, let's continue comparing Pandunia, the challenger,
+Let's compare Pandunia to some Indo-European languages.
+
+| Language    | Example phrase                   | Remarks                                           |
+|-------------|----------------------------------|---------------------------------------------------|
+| Pandunia    | *tu es mi's nov frende.*         |                                                   |
+| English     | *You are my new friend.*         |                                                   |
+| German      | *Du bist mein neuer Freund.*     |                                                   |
+| French      | *Tu es mon nouvel ami*.          |                                                   |
+| Russian     | *Ty - moy novyy drug.*           | There's no *to be*.                               |
+| Hindi-Urdu  | *Tum - mere naye dost - ho.*     | *To be* is in the end.                            |
+| Bangla      | *Tumi - aamaar natun dost.*      | There's no *to be*.                               |
+| Persian     | *To - dost jadid man - (hasti).* | *To be* is optional and it is in the end.         |
+
+The phrase in Pandunia resembles Germanic, Romance and Slavic languages in Europe.
+If one would substitute the word *frende* with its synonym  *doste*,
+the phrase could be understandable even to speakers of Asian Indo-European language
+– especially without the verb *to be*:
+**tu - mi's nov doste**.
+
+In summary, words and phrases in Pandunia can resemble many languages but there are always also differences.
+Pandunia is an independent language in the great global network of languages.
+
+Now that we have answered the question about Pandunia imitating English,
+let's continue comparing Pandunia, the challenger, 
 and English, the reigning world language.
 
 

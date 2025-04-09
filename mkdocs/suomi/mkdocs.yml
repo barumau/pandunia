@@ -16,10 +16,7 @@ plugins:
     - search:
         lang: fi
 nav:
-    - Kotisivu: 'index.md'
-    - 'Tietoa':
-        - 'Maailman yhteyskieli': I01_ration.md
-        - 'Historia': I03_historia.md
+    - 'Johdanto': I01_ration.md
     - 'Pandunian perusteet ja rakenne':
         - 'Perussäännöt': B01_baze_kanun.md
         - 'Yleismaailmallinen sanasto': L01_dunia_lexe.md
@@ -42,7 +39,10 @@ nav:
         - Sanahaku : https://www.pandunia.info/lexia/?d=fin
         - 'Alkuperäsanasto': leksaslia.md
     - 'Videoita': I06_filme.md
-    - 'UKK': I04_FAQ.md
+    - Tietoa:
+        - 'Historia': I03_historia.md
+        - 'UKK': I04_FAQ.md
+        - 'Pandunia vs. englanti' : I05_Pandunia_vs_English.md
 extra:
   social:
     - icon: fontawesome/regular/comments
