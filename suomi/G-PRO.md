@@ -106,8 +106,12 @@ Panduniassa on kaksi kysyvää pronominia.
 **hu**
 – kuka
 
-Kysymyssana sijoittuu lausekkeessa kysyttävän asian paikalle.
-Sitä ei siis sijoiteta lausekkeen alkuun toisin kuin yleensä suomen kielessä.
+Kysymyssana sijoittuu lauseessa kysyttävän asian paikalle.
+Sitä ei siis sijoiteta lauseen alkuun toisin kuin yleensä suomen kielessä.
+
+*`vat  es   da?`*  
+ `mikä olla se`  
+'Mikä se on?'
 
 **vat es da?**
 – Mikä se on?  
@@ -117,7 +121,7 @@ Sitä ei siis sijoiteta lausekkeen alkuun toisin kuin yleensä suomen kielessä.
 – Mitä sinä haluat?  
 **vat es a meza.**
 – Mitä on pöydällä?  
-**hu es in haus.**
+**hu es en haus.**
 – Kuka on talossa?
 
 Omistusta kysyvä pronomini rakennetaan samalla tavalla kuin muutkin omistuspronominit.

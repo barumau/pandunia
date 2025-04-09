@@ -19,7 +19,7 @@ Esimerkiksi, verbi
 – Minä olen ystävä.  
 **_tu_ es frende.**
 – Sinä olet ystävä.  
-**_da_ es frende.**
+**_hi_ es frende.**
 – Hän on ystävä.  
 **_vi_ es frende.**
 – Me olemme ystäviä.  
@@ -125,7 +125,7 @@ Apuverbi
 
 **ma voka vi. vi shud go.**
 – Äiti kutsuu meitä. Meidän pitäisi mennä.  
-**da shud hav kom pre nun.**
+**hi shud hav kom pre nun.**
 – Hänen olisi pitänyt tulla ennen tätä.  
 **evri von shud vote.**
 – Kaikkien pitäisi äänestää.

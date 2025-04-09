@@ -19,42 +19,46 @@ Se voi koostua vain yhdestä sanasta, johon puhuja haluaa kuulijan kiinnittävä
 Lauseissa on _subjekti ja predikaatti_.
 Kaikista yksinkertaisimmissa lauseissa subjekti on substantiivi tai pronomini ja predikaatti on adjektiivi.
 
-**mi bon.**
+**mi gud.**
 – Minä olen hyvä.  
-**da nove.**
+**hi nov.**
 – Se on uusi.  
-**da Sara.**
+**hi Sara.**
 – Hän on Sara.
 
-Substantiivin ollessa subjektina, verbi **si** ('olla') tulee välttämättömäksi.
+Substantiivin ollessa subjektina, verbi
+**es**
+('olla') tulee välttämättömäksi.
 
 
-**Sara es bon.**
+**Sara es gud.**
 – Sara on hyvä  
 **seku es dai.**
 – Kivet ovat isoja.  
-**meza es nove.**
+**meza es nov.**
 – Pöytä on uusi.
 
 Kieltolauseessa käytetään sanaa **no**.
 
 | Myöntölause      | Kieltolause        |
 |------------------|--------------------|
-| **mi bon.**      | **mi no bon.**     |
+| **mi gud.**      | **mi no gud.**     |
 | Minä olen hyvä.  | Minä en ole hyvä.  |
-| **da nove.**      | **da no nove.**     |
+| **hi nov.**      | **hi no nov.**     |
 | Se on uusi.      | Se ei ole uusi.    |
-| **da Sara.**     | **da no Sara.**    |
+| **hi Sara.**     | **hi no Sara.**    |
 | Hän on Sara.     | Hän ei ole Sara.   |
-| **Sara es bon.**  | **Sara no bon.**   |
+| **Sara es gud.**  | **Sara no gud.**   |
 | Sara on hyvä.    | Sara ei ole hyvä.  |
 
 Myös kaksi persoonapronominia voidaan asettaa rinnakkain.
-Selkeyden vuoksi väliin voi panna sanan **si** (kyllä) myöntölauseessa.
+Selkeyden vuoksi väliin voi panna *olla*-verbin
+**es**
+myöntölauseessa.
 
-**mi es da.**
+**mi es hi.**
 – Minä olen se.  
-**mi no tu.**
+**mi no (es) tu.**
 – Minä en ole sinä.
 
 
@@ -64,10 +68,10 @@ Kun subjektina on adjektiivi, sana **si** (kyllä) toimii olla-verbin korvikkeen
 
 **yun es mei.**
 – Nuori on kaunista.  
-**nove no lau.**
-– Uusi ei ole vanha.  
-**gani es bon.**
-– Laulaminen on hyvä.
+**nov no lao.**
+– Uusi ei ole vanhaa.  
+**gani es gud.**
+– Laulaminen on hyvää.
 
 
 
@@ -88,7 +92,7 @@ joka on teon kohde.
 – Minä ajattelen sinua.  
 **tu yam som aple.**
 – Sinä syös omenoita.  
-**vi don som mone to da.**
+**vi don som mone to hi.**
 – Me annamme hänelle rahaa.
 
 Toisinaan yhden lauseen subjekti voi olla toisessa lauseessa objekti,
@@ -115,35 +119,62 @@ ja **be** tarkoittaa että subjekti on kokija tai tekemisen vastaanottaja.
 
 ### Kokonainen saranarakenne (SVOVO)
 
-Saranarakenne on pandunian keskeisimpiä lauserakenteita. Lisäksi se toimii perustana muille rakenteille.
+Saranarakenne on pandunian keskeisimpiä lauserakenteita.
+Lisäksi se toimii perustana muille rakenteille.
 
 Saranarakenteessa ensimmäisen teonsanan kohde on samalla toisen teonsanan tekijä.
 
-Saranarakenteessa sanajärjestys on :  
-subjekti – verbi 1 – objekti 1 – verbi 2 – objekti 2.
+Saranarakenteessa sanajärjestys on:
 
-Objekti 1 on kahdessa roolissa. Se on yhtä aikaa sekä verbin 1 objekti että verbin 2 subjekti.
+    subjekti – 1. verbi – objektisubjekti – 2. verbi – objekti
 
-**mi vol tu yam fito.**
-– Minä haluan sinun syövän vihanneksia.
+Objektisubjekti on kahdessa roolissa.
+Se on yhtä aikaa sekä 1. verbin objekti että 2. verbin subjekti.
 
-Edellisessä esimerkissä, lausekkeen
-**mi vol**
+*`mi    ples    tu    yam    vege.`*  
+ `minä  pyytää  sinä  syödä  vihannes`  
+'Minä pyydän sinua syömään vihanneksia.'
+
+Edellisessä virkkeessä, lausekkeen
+**mi ples**
 objektina on
 **tu**.
-Samaan aikaan
+Sama
 **tu**
-toimii subjektina lausekkeelle
-**yam fito**.
-Näin ollen
+toimii yhtä aikaa subjektina lausekkeelle
+**yam vege**.
+Näin ollen objektisubjekti
 **tu**
-on lauseessa _saranana_.
+toimii lauseessa ikään kuin saranana.
+
+Saranalause eroaa merkitykseltään päälauseen ja *että*-sivulauseen muodostamasta parista.
+Saranalauseessa ensimmäisen lauseen verbi kohdistuu toisen lauseen subjektiin.
+Siksi saranalauseessa tiedetään, ketä pyydetään tekemään ja mitä.
+
+*`mi    ples    de    get   vege.`*  
+ `minä  pyytää  he   saada  vihannes`  
+'Minä pyydän heitä hankkimaan vihanneksia (itselleen).'
+
+Sen sijaan *että*-sivulausetta käytettäessä päälauseen verbi kohdistuu koko sivulauseeseen.
+Sen vuoksi esimerkiksi seuraavasta virkkeestä tiedetään, mitä pyydetään ("että he saavat vihanneksia"), mutta ei sitä, ketä pyydetään järjestämään asia.
+
+*`mi    ples,   dat  de    get    vege.`*  
+ `minä  pyytää  että  he   saada  vihannes`  
+'Minä pyydän, että he saavat vihanneksia.'
+
+Monesti saranalause ja *että*-sivulauseen sisältävä päälause kuitenkin ovat merkitykseltään yhtäläisiä.
+Tämä on asian laita kahdessa seuraassa esimerkkivirkkeessä.
+
+**mi nou, dat tu ave mau.**
+– Minä tiedän, että sinulla on kissa.  
+**mi nou tu ave mau.**
+– Minä tiedän sinulla olevan kissa.
 
 
 ## Verbiketju
- 
+
 Verbiketjussa on kaksi tai useampia teonsanoja peräkkäin. Kaikkien verbien subjekti on sama ja jälkimmäinen verbi on edellisen verbin kohteena.
- 
+
 1. **mi go to haus.**
    – Minä menen kotiin.
 2. **mi kan go to haus.**
@@ -181,9 +212,9 @@ Tällä tavalla lauseista voi tulla lyhyempiä.
 
 ### Short pivot structure (VVO)
 
-**mi plis tu kom to haus.**
+**mi ples tu kom to haus.**
 – Minä pyydän sinua tulemaan kotiin.  
-**plis kom to haus!**
+**ples kom to haus!**
 – (Pyydän) tule kotiin!
 
 
@@ -278,23 +309,23 @@ Kysymykseen vastataan toistamalla valittu vaihtoehto.
 
 Avoimilla kysymyksillä kysytään uutta tietoa.
 Panduniassa avoimissa kysymyksissä on aina kysymyssana
-**ke**
+**vat**
 ('mikä, mitä').
 Sanajärjestys on yleensä sama kuin väitelauseissa.
 
-**piza es ke?**
+**piza es vat?**
 – Mikä pitsa on?
 
 Kysymyssanan voi myös siirtää lauseen alkuun painottamaan sen merkitystä.
 Yleensä sanajärjestys kuitenkin on sama kuin väitelauseissa.
 
-**ke tu zai yam?**
+**vat tu zai yam?**
 – Mitä sinä olet syömässä?  
-**tu zai yam ke?**
+**tu zai yam vat?**
 – Sinä olet syömässä mitä?  
-**da kom a ke zaman?**
+**hi kom a vat zaman?**
 – Mihin aikaan hän tulee?  
-**yu vizite a ke jen se haus?**
+**yu vizite a hu's haus?**
 – Kenen talossa te kävitte?
 
 
@@ -308,11 +339,11 @@ Yleensä sanajärjestys kuitenkin on sama kuin väitelauseissa.
 – tai, vai (yhdistää kaksi vaihtoehtoista sanaa tai lauseketta)  
 **ama**
 – mutta (esittelee sanan tai lausekkeen, joka on edellä sanotun vastainen)  
-**ke**
-– että (esittelee lausekkeen joka on verbin subjektina tai objektina tai on lainattua puhetta)  
-**to ke**
+**dat**
+– että (esittelee sivulauseen joka on verbin subjektina tai objektina tai on lainattua puhetta)  
+**to dat**
 – jotta, sitä varten että  
-**of ke**
+**of dat**
 – koska, sen vuoksi että
 
 **mi suka mau e vaf.**
@@ -335,7 +366,7 @@ Lauseet ovat lähtökohtaisesti myöntäviä.
 
 **mi es shefe.**
 – Minä olen pomo.  
-**da es nove meza.**
+**da es nov meza.**
 – Se on uusi pöytä.
 
 Myöntämistä voi painottaa sanalla
@@ -344,16 +375,16 @@ Myöntämistä voi painottaa sanalla
 
 **mi ye es shefe.**
 – Minä kyllä olen pomo.  
-**da ye es nove meza.**
+**da ye es nov meza.**
 – Se kyllä on uusi pöytä.
 
 #### Kieltäminen
 
 Edellisen kaltaiset lauseet kielletään sanalla **no**.
 
-**da no es shefe.**
+**mi no es shefe.**
 – Minä en ole pomo.  
-**da no es nove meza.**
+**da no es nov meza.**
 – Tämä ei ole uusi pöytä.
 
 Sanaa **no** käytetään myös toisten sanojen kieltämiseen.
@@ -366,11 +397,11 @@ Se vaikuttaa aina vain seuraavaan sanaan.
 **mi vize no tu ama di.**
 – Minä näen, en sinua, vaan heidät.
 
-**mi plis tu safi da kamar.**
+**mi ples tu safi da kamar.**
 – Minä pyydän sinua siivoamaan huoneen.  
-**mi no plis tu safi da kamar.**
+**mi no ples tu safi da kamar.**
 – Minä en pyydä sinua siivoamaan huonetta.  
-**mi plis tu no safi da kamar.**
+**mi ples tu no safi da kamar.**
 – Minä pyydän sinua olemaan siivoamatta huonetta.
 
 
@@ -383,7 +414,7 @@ ja
 Ne eroavat toisistaan vain sanajärjestyksen osalta.
 Merkitykseltään ne ovat samoja.
 
-#### Substantiivilausekke määritteenä
+#### Substantiivilauseke määritteenä
 
 
 Kahdesta tai useammasta sanasta koostuvat adjektiivit käyttävät määrepartikkeleita.
@@ -408,24 +439,24 @@ Omistusta ilmaistaan omistusparikkelilla
 **se**,
 joka vastaa suomen genetiivisijaa.
 
-**Maria se mama**
+**Maria's mama**
 – Marian äiti  
-**Maria se mama se haus**
+**Maria's mama's haus**
 – Marian äidin talo
 
 Samaa partikkelia käytetään myös pronominien kanssa.
 
-**mi se haus**
+**mi's haus**
 – minun taloni  
-**tu se haus**
+**tu's haus**
 – sinun talosi  
-**da se haus**
+**hi's haus**
 – hänen talonsa  
-**vi se haus**
+**vi's haus**
 – meidän talomme  
-**yu se haus**
+**yu's haus**
 – teidän talonne  
-**di se haus**
+**de's haus**
 – heidän talonsa
 
 
@@ -441,13 +472,13 @@ Partikkeli
 **plus**
 (myös) on hyvä esimerkki tavan partikkeleista, koska se toimii samalla tavalla kuin vastaava suomen sana.
 
-**da yam bir plus.**
+**hi yam bir plus.**
 – Hän juo olutta, myös.  
-**da yam plus bir.**
+**hi yam plus bir.**
 – Hän juo _myös olutta_.  
-**da plus yam bir.**
+**hi plus yam bir.**
 – Hän _myös juo_ olutta.  
-**plus da yam bir.**
+**plus hi yam bir.**
 – _Myös hän_ juo olutta.
 
 Partikkelit voivat määrittää mitä tahansa sanaa, mutta adjektiivit eivät voi määrittää esimerkiksi lukusanoja.

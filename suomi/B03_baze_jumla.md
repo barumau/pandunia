@@ -493,7 +493,7 @@ englannin *name*.</small>
 **mi have un gud haus.**
 – Minulla on hyvä talo.
 
-**da no have pesa.**
+**hi no have pesa.**
 – Hänellä ei ole rahaa.
 
 **mi van have un nove telefon.**
@@ -780,18 +780,18 @@ Minkälaista musiikkia sinä kuuntelet?
 – Minä näin hänet eilen.
 
 
-### seme <small>tarkoittaa</small>
+### sema <small>tarkoittaa</small>
 
-**da hir lexe ye seme vat?**
+**da hir lexe ye sema vat?**
 – Mitä tämä sana tarkoittaa?
 
-**"mau" ye seme vat?**
+**"mau" ye sema vat?**
 – Mitä "mau" tarkoittaa?
 
-**da seme un tipe of hevan.**
+**da sema un tipe of hevan.**
 – Se tarkoittaa eräänlaista eläintä.
 
-**mi no aha da seme vat.**
+**mi no aha da sema vat.**
 – Minä en ymmärrä mitä se tarkoittaa.
 
 
@@ -886,7 +886,7 @@ Minkälaista musiikkia sinä kuuntelet?
 **hotel a vat plas?**
 – Missä hotelli on?
 
-**hotel a da der dau.**
+**hotel a da der dao.**
 – Hotelli on tuolla tiellä.
 
 **tu a vat plas?**
@@ -895,10 +895,10 @@ Minkälaista musiikkia sinä kuuntelet?
 **mi a haus.**
 – Olen kotona.
 
-**da a vat plas?**
+**hi a vat plas?**
 – Missä hän on?
 
-**da side a kamar.**
+**hi side a kamar.**
 – Hän istuu huoneessa.
 
 Panduniassa sanaa

@@ -1,7 +1,9 @@
 
 # 3. Sanojen luokittelu
 
-Tämä kielioppi käsittelee pandunian sanaluokkia ja sanajärjestystä. 
+## Johdanto
+
+Tämä kielioppi käsittelee pandunian sanaluokkia ja sanajärjestystä.
 Se on tarkoitettu oppimisen tueksi,
 mutta parhaiten kielen oppii opettelemalla fraaseja ja keskusteluja.
 
@@ -15,45 +17,110 @@ Pandunian oppiminen ei ole vaikeaa.
 Siinä ei ole ainoatakaan edellä luetelluista hankaluuksista,
 vaan sen sijaan sen kielioppi on helppo ja säännöllinen, sen sanasto on suhteellisen yksinkertainen, ja sitä kirjoitetaan äänteenmukaisesti.
 
-## Sisältösanat ja funktiosanat
+
+## Kielen perusrakenneyksiköistä
+
+Kaikki tietävät ainakin kaksi kielen rakenteellista perusyksikköä, sanat ja virkkeet (joita myös lauseiksi kutsutaan kansankielessä).
+Kirjoitetussa kielessä sanat erotetaan tyhjillä sanaväleillä
+ja virkkeet päättyvät suureen välimerkkiin eli pisteeseen, kysymysmerkkiin tai huutomerkkiin.
+Kielioppia lukiessa on hyvä tietää myös muita kielen perusyksiköitä.
+
+Kieliopin perusyksiköt järjestetään hierarkkisesti pienimmästä suurimpaan seuraavasti:
+
+1.  **Morfeemi** on kielen pienin eroteltavissa oleva yksikkö jolla on merkitys.
+2.  **Sana** koostuu yhdestä tai useammasta morfeemista,
+    ja se on kielen pienin itsenäinen yksikkö.
+3.  **Lauseke** koostuu yhdestä tai useammasta sanasta.
+4.  **Lause** koostuu yhdestä tai useammasta lausekkeesta,
+    ja se ilmaisee kokonaisen ajatuksen.
+5.  **Virke** koostuu yhdestä tai useammasta lauseesta.
+
+Panduniassa morfeemien ainoa tehtävä on sanojen johto-opissa, jossa luodaan uusia sanoja uusille käsitteille.
+Sanoja luodaan eli johdetaan yhdistämällä monta morfeemia yhdeksi sanaksi.
+Esimerkiksi pandunian sana *demokratik* ('kansanvaltainen, demokraattinen') koostuu väliviivalla erotettavista morfeemeista seuraavasti:
+
+*`dem   -    o    -    krat  - ik`*  
+ `kansa  YHDYSVOKAALI  valta  -nen`  
+'kansanvaltainen'
+
+Panduniassa morfeemeilla ei ole mitään vaikutusta lauserakenteeseen.
+Sanoja ei taivuteta esim. persoona-, aika-, sija- tai muissakaan muodoissa,
+vaan kaikki pandunian sanat ovat taipumattomia.
+Siksi pandunian lauseopin pienin yksikkö on sana.
+
+Vertaa alla olevia lauseita panduniaksi, suomeksi ja englanniksi ja katso, mitä sanoille tapahtuu.
+
+1.  ***mi love hi.***  
+    engl. I love him.  
+    suom. *Minä rakasta-n hän-tä.*
+2. ***hi love mi.***  
+   engl. *He love-s me.*  
+   suom. *Hän rakasta-a minu-a.*
+
+Panduniassa sanat yksinkertaisesti vaihtavat paikkaa ja siinä kaikki!
+Mikään sana ei muutu, ainoastaan niiden järjestys vaihtuu.
+Sen sijaan englannissa sana *I* ('minä') muuttuu muotoon *me* ('minua')
+ja *he* ('hän') muuttuu muotoon *him* ('häntä').
+Englannissa myös verbi taipuu muodosta *love* muotoon *loves*.
+Myös suomen kielisissä esimerkkilauseissa kaikki sanat taipuvat.
+(Taivutuspäätteet on erotettu sanavartalosta yhdysviivalla.)
+Suomi ja englanti ovat yleisesti ottaen **taivuttavia kieliä**,
+vaikka englannissa taivutuksia käytetään paljon vähemmän kuin suomessa.
+
+Pandunia on **taivutukseton kieli**.
+Tässä suhteessa se muistuttaa eräitä Itä-Aasian kieliä, kuten kiina, vietnami ja thai,
+Länsi-Afrikan kieliä, kuten igbo ja joruba,
+ja eri kielten yhteentörmäyksessä syntyneitä ns. pidginkieliä, kuten Nigerian pidgin ja Haitin kreoli.
+Taivutuksettoman kielen etu on se, että kielenoppijan ei tarvitse pelätä väärien sanamuotojen käyttämistä.
+Riittää, kun osaa panna sanat oikeaan järjestykseen.
+
+
+## Sisältösanat ja suhdesanat
 
 Sanaluokka on joukko sanoja, joilla on samanlaiset (taivutus)muodot ja joita käytetään lauseissa samalla tavalla.
-Sanaluokkien yläluokkia ovat sisältösanat ja funktiosanat.
-Sisältösanojen tehtävä on viitata kielen ulkopuolisiin asioihin, joista puhutaan.
-Sisältösanoissa on suurin osa lauseen sisältämästä tiedosta.
-Funktiosanoilla on kielessä lähinnä kieliopillinen tai keskustelun kulkuun liittyvä tehtävä.
-Ne ylläpitävät lauseiden rakennetta,
-mutta ne eivät mitään tiettyä asiaa ulkopuolisessa maailmassa.
-Esimerkiksi sana "että" on funktiosana.
+Sanaluokkien yläluokkia ovat sisältösanat ja suhdesanat.
 
-Funktiosanat on helppo tunnistaa panduniassa, koska ne ovat useimmiten yksitavuisia.
-Sisältösanat sen sijaan ovat lähes aina pitempiä.
+Sisältösanoilla on omaa merkityssisältöä.
+Niiden tehtävä on viitata kielen ulkopuolisiin asioihin, joista puhutaan.
+Esimerkiksi *hevonen* ja *juosta* ovat sisältösanoja.
+Sisältösanoissa on suurin osa lauseen sisältämästä tiedosta.
+
+Suhdesanoilla on kielessä lähinnä kieliopillinen tai keskustelun kulkuun liittyvä tehtävä.
+Niillä ilmaistaan sanojen välisiä suhteita,
+ja ne ylläpitävät lauseiden rakennetta.
+Ne eivät viittaa mihinkään tiettyyn asiaan kielen ulkopuolisessa maailmassa,
+vaan ne saavat merkityksensä aina suhteessa omaan käyttötilanteeseensa.
+Esimerkiksi sanat *me* ja *että* ovat suhdesanoja.
+Sana *me* voi tarkoittaa ketä tahansa, ja sen merkitys ilmenee vain käyttötilanteessa.
+Sanalla *että* on vain kieliopillinen tehtävä, mutta se ei nimeä mitään tosimaailman asiaa.
 
 ## Sanaluokat
 
-Funktiosanat voidaan jakaa seuraaviin sanaluokkiin:
+Suhdesanat voidaan jakaa seuraaviin sanaluokkiin:
 
-1. Pronominit : puhujaan, puhuteltavaan ja muihin ihmisiin ja asioihin viittaavat sanat.
-2. Prepositiot : sanat, jotka yhdistävät lauseessa kerrotut asiat ja tapahtumat ympäristön olosuhteisiin, kuten aikaan ja paikkaan.
-3. Konjunktiot : lauseita ja lausekkeita yhdistävät sanat.
+1.  Pronominit: puhujaan, puhuteltavaan ja muihin henkilöihin ja asioihin viittaavat sanat.
+2.  Prepositiot: sanat, jotka yhdistävät lauseessa kerrotut asiat ja tapahtumat ympäristön olosuhteisiin, kuten aikaan ja paikkaan.
+3.  Konjunktiot: lauseita ja lausekkeita yhdistävät sanat.
 
 Sisältösanat voidaan jakaa seuraaviin sanaluokkiin:
 
-1. Substantiiviit : esineitä, asioita, paikkoja ja henkilöitä nimeävät sanat.
-2. Verbit : toimintaa, tekemistä ja olemista ilmaisevat sanat.
-3. Määritteet : substantiivin tai verbin laatua ilmaisevat sanat.
-4. Lukusanat : lukua ja määrää ilmaisevat sanat.
+1.  Substantiivit: esineitä, asioita, paikkoja ja henkilöitä nimeävät sanat.
+2.  Verbit: toimintaa, tekemistä ja olemista ilmaisevat sanat.
+3.  Määritteet:
+    -   Ajektiivit: substantiivien laatua ilmaisevat sanat.
+    -   Adverbit: verbien tapaa ilmaisevat sanat.
+4.  Lukusanat: lukua ja määrää ilmaisevat sanat.
 
 Panduniassa sisältösanojen sanaluokka vaihtelee lauseyhteyden mukaan.
-Ne eivät siis kuulu pysyvästi vain yhteen sanaluokkaan.
+Sisältösanat eivät siis kuulu pysyvästi vain yhteen sanaluokkaan.
 Esimerkiksi sana
 **love**
-('rakkaus') voi toimia verbinä, substantiivina tai määritteenä sen mukaan,
+('rakkaus, rakastaa') voi toimia verbinä, substantiivina tai määritteenä sen mukaan,
 mikä on sen paikka lauseessa.
 
-**mi** ***love*** **tu.*
+**mi** ***love*** **tu.**
 – Minä **rakastan** sinua. (verbi)  
-**tu fikre mi se** ***love.***
+**tu fikre mi's** ***love.***
 – Sinä ajattelet minun **rakkauttani**. (substantiivi)  
 **mi kitab un** ***love*** **letre.**
 – Minä kirjoitan **rakkaus**kirjettä. (adjektiivi)

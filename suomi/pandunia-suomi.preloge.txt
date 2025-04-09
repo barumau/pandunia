@@ -14,17 +14,12 @@ Kun hakusanalle on useampia käännöksiä,
 yleisin käännös on ensimmäisenä
 ja sen perässä on sulkeiden sisällä pääkäännöksen merkitystä laajentavia tai tarkentavia käännöksiä.
 
-> cira - repiä (raastaa)
+> chir - repiä (raastaa)
 
 Jos hakusanalla on useampia merkityksiä,
 niiden käännökset erotetaan puolipisteellä.
 
-> plis - pyytää (anoa; ole hyvä)
-
-Toisinaan samasta sanasta on kaksi lähes samanlaista hakusanaa.
-
-> **huru** - free (unbound)  
-> **fa huru** - free (liberate)
+> ples - pyytää (anoa; ole hyvä)
 
 Näistä **fa**-alkuisen hakusanan kohdalla on varsinaisen pääsanan suomennos verbinä.
 Pandunian sanat voivat toimia sekä substantiivina, adjektiivina että verbinä.
