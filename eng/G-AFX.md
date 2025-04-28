@@ -526,10 +526,6 @@ means that something belongs to or is related to the thing or person indicated b
 'end'
 → **final**
 'final, belonging to the end'  
-**universe**
-'universe, everything'
-→ **universal**
-'universal, something that concerns everything and everyone'  
 **karne**
 'flesh'
 → **karnal**
@@ -553,6 +549,10 @@ When **-al** is suffixed to a base word that ends in **-ia**, the endings merge 
 'society'
 → **sosial**
 'societal, social'
+**uneversia**
+'universe, everything'  
+→ **uneversial**
+'universal, something that concerns everything and everyone'
 
 #### -an ~ ian
 
@@ -600,7 +600,7 @@ means that something is possible or able to be done.
 → **uzabil**
 'one that can be used, usable'
 
-#### -em
+#### -em ~ -tem
 
 This rarely used suffix means a fundamental unit in the system of things that is indicated by the base word.
 For example,
@@ -608,7 +608,8 @@ For example,
 ('lexeme') is the fundamental unit in the system of
 **lexe**
 'words'.
-For example *spoke* and *spoken* are individual words but they represent the same underlying fundamental unit, which is *speak* in its basic form.
+For example, *spoke* and *spoken* are individual words but they represent the same underlying fundamental unit, which is *speak* in its fundamental form.
+So the other forms are identified as variations of the fundamental form.
 
 **fon**
 'speech sound'
@@ -932,10 +933,10 @@ means 'an action or process'.
 → **rotation**
 'turning, rotation'
 
-#### -isme ~ -tisme
+#### -isme
 
 The suffix
-**-(t)isme**
+**-isme**
 means an ideology, a way of thinking or a way of life.
 
 **alkol**
@@ -951,10 +952,10 @@ means an ideology, a way of thinking or a way of life.
 → **deisme**
 'theism'
 
-#### -iste ~ -tiste
+#### -iste
 
 The suffix
-**-(t)iste**
+**-iste**
 means a person who tends to behave or think in a certain way or an adherent of an ideology or a religion.
 
 **alkol**
