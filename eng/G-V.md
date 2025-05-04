@@ -31,7 +31,7 @@ Also a noun can serve as subject.
 – The cat is an animal.
 
 
-## Time and mood
+## Voice, time and mood
 
 Verb tenses, moods and voices are expressed with auxiliary verbs,
 which come first in the verb phrase.
@@ -151,43 +151,222 @@ in order to give the command more force.
 **yu shal kom!** = **kom!**
 – Come (you all)!
 
+### Passive voice
 
-### Summary
+The passive voice expresses that the subject undergoes the action or has its state changed.
+In other words, the subject has a passive role.
+In Pandunia, the passive voice is indicated by the auxiliary verb
+**ben**.
 
-| Pandunia                | English                   | Pandunia                   | English                      |
-|:------------------------|:--------------------------|:---------------------------|:-----------------------------|
-| **mi yam.**             | I eat.                    | **mi no yam.**             | I don't eat.                 |
-| **mi bi yam.**          | I am eating.              | **mi no bi yam.**          | I'm not eating.              |
-| **mi hav yam.**         | I have eaten.             | **mi no hav yam.**         | I haven't eaten.             |
-| **mi hav bi yam.**      | I have been eating.       | **mi no hav bi yam.**      | I haven't been eating.       |
-| **mi did yam.**         | I ate.                    | **mi no did yam.**         | I didn't eat.                |
-| **mi did bi yam.**      | I was eating.             | **mi no did bi yam.**      | I was not eating.            |
-| **mi did hav yam.**     | I had eaten.              | **mi no did hav yam.**     | I had not eaten.             |
-| **mi did hav bi yam.**  | I had been eating.        | **mi no did hav bi yam.**  | I hadn't been eating.        |
-| **mi vil yam.**         | I will eat.               | **mi no vil yam.**         | I won't eat.                 |
-| **mi vil bi yam.**      | I will be eating.         | **mi no vil bi yam.**      | I won't be eating.           |
-| **mi vil hav yam.**     | I will have eaten.        | **mi no vil hav yam.**     | I won't have eaten.          |
-| **mi vil hav bi yam.**  | I will have been eating.  | **mi no vil hav bi yam.**  | I won't have been eating.    |
-| **mi did vil yam.**     | I was going to eat.       | **mi no did vil yam.**     | I wasn't going to eat.       |
-| **mi vud yam.**         | I would eat.              | **mi no vud yam.**         | I wouldn't eat.              |
-| **mi vud bi yam.**      | I would be eating  .      | **mi no vud bi yam.**      | I wouldn't be eating.        |
-| **mi vud hav yam.**     | I would have eaten.       | **mi no vud hav yam.**     | I wouldn't have eaten.       |
-| **mi vud hav bi yam.**  | I would have been eating. | **mi no vud hav bi yam.**  | I wouldn't have been eating. |
-| **mi shud yam.**        | I should eat.             | **mi no shud yam.**        | I shouldn't eat.             |
-| **mi shud bi yam.**     | I should be eating.       | **mi no shud bi yam.**     | I shouldn't be eating.       |
-| **mi shud hav yam.**    | I should have eaten.      | **mi no shud hav yam.**    | I shouldn't have eaten.      |
-| **mi shud hav bi yam.** | I should have been eating.| **mi no shud hav bi yam.** | I shouldn't have been eating.|
-| **mi kan yam.**         | I can eat.                | **mi no kan yam.**         | I can't eat.                 |
-| **mi kan bi yam.**      | I can be eating.          | **mi no kan bi yam.**      | I can't be eating.           |
-| **mi kan hav yam.**     | I may have eaten.         | **mi no kan hav yam.**     | I may not have eaten.        |
-| **mi kan hav bi yam.**  | I may have been eating.   | **mi no kan hav bi yam.**  | I may not haven been eating. |
-| **mi did kan yam.**     | I could eat.              | **mi no did kan yam.**     | I couldn't eat.              |
-| **mi did kan bi yam.**  | I could have been eating. | **mi no did kan bi yam.**  | I couldn't have been eating. |
-| **mi did kan hav yam.** | I could have eaten.       | **mi no did kan hav yam.** | I couldn't have eaten.       |
-| **mi vil kan yam.**     | I will be able to eat.    | **mi no vil kan yam.**     | I won't be able to eat.      |
-| **yam!**                | Eat!                      | **no yam!**                | Don't eat!                   |
-| **yu shal yam!**        | You shall eat!            | **yu no shal yam!**        | You shall not eat!           |
-| **vi shal yam!**        | Let's eat!                | **vi no shal yam!**        | Let's not eat!               |
+Active voice:
+**de yam piza.**
+– They eat pizza.  
+Passive voice:
+**piza ben yam.**
+– Pizza is eaten.
+
+The agent of the action can be expressed also in passive sentences by using the preposition
+**be**.
+
+**mi's kar did ben bate be tren.**
+– My car was hit by a train.
+
+
+### Summary of verb forms
+
+#### Active voice
+
+<table>
+    <tr>
+        <th></th>
+        <th>Past</th>
+        <th>Present</th>
+        <th>Future</th>
+        <th>Conditional</th>
+    </tr>
+    <tr>
+        <th>Simple</th>
+        <td>
+            <strong><em>hi did yam</em></strong><br/>
+            'he ate ~ did eat'
+        </td>
+        <td>
+            <strong><em>hi yam</em></strong><br/>
+            'he eats'
+        </td>
+        <td>
+            <strong><em>hi vil yam</em></strong><br/>
+            'he will eat'
+        </td>
+        <td>
+            <strong><em>hi vud yam</em></strong><br/>
+            'he would eat'
+        </td>
+    </tr>
+    <tr>
+        <th>Perfect</th>
+        <td>
+            <strong><em>hi did hav yam</em></strong><br/>
+            'he had eaten'
+        </td>
+        <td>
+            <strong><em>hi hav yam</em></strong><br/>
+            'he has eaten'
+        </td>
+        <td>
+            <strong><em>hi vil hav yam</em></strong><br/>
+            'I will have eaten'
+        </td>
+        <td>
+            <strong><em>hi vud hav yam</em></strong><br/>
+            'he would have eaten'
+        </td>
+    </tr>
+    <tr>
+        <th>Progressive</th>
+        <td>
+            <strong><em>hi did bi yam</em></strong><br/>
+            'he was eating'
+        </td>
+        <td>
+            <strong><em>hi bi yam</em></strong><br/>
+            'he is eating'
+        </td>
+        <td>
+            <strong><em>hi vil bi yam</em></strong><br/>
+            'he will be eating'
+        </td>
+        <td>
+            <strong><em>hi vud bi yam</em></strong><br/>
+            'he would be eating'
+        </td>
+    <tr>
+        <th>Perfect progressive</th>
+        <td>
+            <strong><em>hi did hav bi yam</em></strong><br/>
+            'he had been eating'
+        </td>
+        <td>
+            <strong><em>hi hav bi yam</em></strong><br/>
+            'he has been eating'
+        </td>
+        <td>
+            <strong><em>hi vil hav bi yam</em></strong><br/>
+            'he will have been eating'
+        </td>
+        <td>
+            <strong><em>hi vud hav bi yam</em></strong><br/>
+            'he would have been eating'
+        </td>
+    </tr>
+    <tr>
+        <th>Imperative</th>
+        <td></td>
+        <td>
+            <strong><em>yam!</em></strong><br/>
+            'Eat!'
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+#### Passive voice
+
+<table>
+    <tr>
+        <th></th>
+        <th>Past</th>
+        <th>Present</th>
+        <th>Future</th>
+        <th>Conditional</th>
+    </tr>
+    <tr>
+        <th>Simple</th>
+        <td>
+            <strong><em>hi did ben yam</em></strong><br/>
+            'it was eaten'
+        </td>
+        <td>
+            <strong><em>hi ben yam</em></strong><br/>
+            'it is eaten'
+        </td>
+        <td>
+            <strong><em>hi vil ben yam</em></strong><br/>
+            'it will be eaten'
+        </td>
+        <td>
+            <strong><em>hi vud ben yam</em></strong><br/>
+            'it would be eaten'
+        </td>
+    </tr>
+    <tr>
+        <th>Perfect</th>
+        <td>
+            <strong><em>hi did hav ben yam</em></strong><br/>
+            'it had been eaten'
+        </td>
+        <td>
+            <strong><em>hi hav ben yam</em></strong><br/>
+            'it has been eaten'
+        </td>
+        <td>
+            <strong><em>hi vil hav ben yam</em></strong><br/>
+            'I will have been eaten'
+        </td>
+        <td>
+            <strong><em>hi vud hav ben yam</em></strong><br/>
+            'it would have been eaten'
+        </td>
+    </tr>
+    <tr>
+        <th>Progressive</th>
+        <td>
+            <strong><em>hi did bi ben yam</em></strong><br/>
+            'it was being eaten'
+        </td>
+        <td>
+            <strong><em>hi bi ben yam</em></strong><br/>
+            'it is being eaten'
+        </td>
+        <td>
+            <strong><em>hi vil bi ben yam</em></strong><br/>
+            'it will be being eaten'
+        </td>
+        <td>
+            <strong><em>hi vud bi ben yam</em></strong><br/>
+            'it would be being eaten'
+        </td>
+    <tr>
+        <th>Perfect progressive</th>
+        <td>
+            <strong><em>hi did hav bi ben yam</em></strong><br/>
+            'it had been being eaten'
+        </td>
+        <td>
+            <strong><em>hi hav bi ben yam</em></strong><br/>
+            'it has been being eaten'
+        </td>
+        <td>
+            <strong><em>hi vil hav bi ben yam</em></strong><br/>
+            'it will have be being eaten'
+        </td>
+        <td>
+            <strong><em>hi vud hav bi ben yam</em></strong><br/>
+            'it would have been being eaten'
+        </td>
+    </tr>
+    <tr>
+        <th>Imperative</th>
+        <td></td>
+        <td>
+            <strong><em>ben yam!</em></strong><br/>
+            'Be eaten!'
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 
 ## Transitivity

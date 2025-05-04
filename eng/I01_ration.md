@@ -434,19 +434,19 @@ The normal sentence word order is subject–verb–object
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The auxiliary verb
-**bei**
+**ben**
 is used when the object of the action comes first in the sentence.
 (This is the so called passive sentence.)
 
     English:   Apples were eaten.
-    Pandunia:  aple bei yam.
+    Pandunia:  aple ben yam.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
 **be** is a loan word from Standard Chinese *bèi*,
 but it is also close to some uses of English *to be*.
 
     English:   It can not be eaten.
-    Pandunia:  de no kan bei yam.
+    Pandunia:  de no kan ben yam.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".

@@ -135,11 +135,11 @@ The word order is subject–verb–object.
 The same order is used in declarations and questions.
 
 A passive sentence is created with the help of the passive auxiliary verb
-**bei**.
+**ben**.
 A similar effect can also be reached with the impersonal pronoun
 **von**.
 
-**pandunia bei log.**
+**pandunia ben log.**
 – Pandunia is spoken.  
 **von log pandunia.**
 – One speaks Pandunia.

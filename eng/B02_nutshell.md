@@ -154,12 +154,12 @@ and the tense auxiliaries
 
 ### Passive
 
-The passive voice is formed with the help of the helping verb
-**bei**.
+The passive voice is formed with the help of the verb
+**ben**.
 
-**tu bei love.**
+**tu ben love.**
 – You are loved.  
-**mi bei love of tu.**
+**mi ben love be tu.**
 – I am loved by you.
 
 ### Modifying other words
