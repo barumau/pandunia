@@ -1,5 +1,5 @@
 fa_pandoc() {
-    pandoc $1/pan.md -V geometry:a4paper,margin=2cm -s -o $1/pan.pdf --pdf-engine=/usr/bin/xelatex -V mainfont="$2" -V monofont="DejaVu Sans Mono"
+    pandoc --lua-filter=bin/parse-html.lua --from=markdown-markdown_in_html_blocks $1/pan.md -V geometry:a4paper,margin=2cm -s -o $1/pan.pdf --pdf-engine=/usr/bin/xelatex -V mainfont="$2" -V monofont="DejaVu Sans Mono"
     #-V CJKmainfont="MS Mincho" #-V CJKmainfont="Noto Sans CJK SC" -V devanagarifont="Noto Sans Devanagari"
     sed 's/\/home\/rkupsala\/pandunia\/html/http:\/\/www.pandunia.info/g' -i $1/pan.md
 }
@@ -32,16 +32,16 @@ fa_dataje_liste() {
 
 fa_pan_md() {
     echo
-    echo "kitaba la $1 PDF dokumen"
+    echo "kitab da $1 PDF dokumen"
     rm temp/dataje_liste.txt
     touch temp/dataje_liste.txt
     fa_dataje_liste $1
     cat temp/dataje_liste.txt | xargs -d "\n" cat -- > $1/pan.md
 
-    #la sube kitaba ha 'unicode' harfe e simbol, ki 'pandoc' no bil kitaba.
+    #da subik kitab have 'unicode' harfe e simbol, dat 'pandoc' no kan kitab.
     #101_dunia_loga.md 200_baze_jumla.md
 
-    # uze la loka di grafe
+    # uze da lok of grafe
     #sed 's/http:\/\/www.pandunia.info/\/home\/risto\/pandunia\/html/g' -i $1/pan.md
     sed 's/http:\/\/www.pandunia.info/\/home\/rkupsala\/pandunia\/html/g' -i $1/pan.md
 }
