@@ -735,7 +735,7 @@ expresses one who undergoes or has undergone the action of the root.
 '(that which is or has been) viewed or seen'  
 **audi**
 'to hear'
-→ **audet**
+→ **audit**
 '(that which is or has been) heard'  
 
 #### -fa ~ -ifa
@@ -759,29 +759,50 @@ means to make or turn into the thing that is indicated by the base word.
 **un**
 'one'
 → **unifa**
-'yhdistää'  
+'unite, unify'  
 **klar**
 'clear'
 → **klarifa**
 'make clear, clarify'
 
-#### -file ~ ofile
+#### -filia ~ ofilia
 
 The suffix
-**-(o)file**
+**-(o)filia**
 means 'extraordinary or abnormal liking of something'.
 
+**astre**
+'celestial object'
+→ **bashofilia**
+
+**bash**
+'language'
+→ **bashofilia**
+'glossophilia, linguaphilia, the love of language'  
 **Rus**
 'Russia'
 → **rusofilia**
-'Russophilia, strong liking of Russia or Russians'
+'Russophilia, strong liking of Russia or Russians'  
+**tekne**
+'technology'
+→ **teknofilia**
+'technophilia, the love of technology'
 
-#### -fobe ~ ofobe
+#### -fobia ~ ofobia
 
 The suffix
-**-(o)file**
+**-(o)fobia**
 means 'extraordinary or abnormal dislike of something'.
 
+**arane**
+'spider'
+→ **aranofobia**
+'arachnophobia, the fear of spiders'  
+**pan**
+'all-embracing'
+→ **panfobia**
+'panphobia, the fear of everything'  
+→ **rusofobia**
 **Rus**
 'Russia'
 → **rusofobia**
@@ -1084,10 +1105,10 @@ means 'lacking'.
 'help'
 → **helpelos**
 'helpless'  
-**peni**
-'penny'
-→ **penilos**
-'penniless'
+**nao**
+'brain'
+→ **naolos**
+'brainless'
 
 #### -metre ~ ometre
 
