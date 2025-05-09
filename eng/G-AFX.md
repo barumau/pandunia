@@ -771,10 +771,6 @@ The suffix
 **-(o)filia**
 means 'extraordinary or abnormal liking of something'.
 
-**astre**
-'celestial object'
-→ **bashofilia**
-
 **bash**
 'language'
 → **bashofilia**
