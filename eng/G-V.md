@@ -151,21 +151,22 @@ in order to give the command more force.
 **yu shal kom!** = **kom!**
 – Come (you all)!
 
-### Passive voice
+### Passive clause
 
-The passive voice expresses that the subject undergoes the action or has its state changed.
+The passive clause expresses that the subject undergoes the action or has its state changed.
 In other words, the subject has a passive role.
-In Pandunia, the passive voice is indicated by the auxiliary verb
+This contrasts with the active clause where the subject is the agent or the doer of the action.
+In Pandunia, the passive clause is constructed with the help of the auxiliary verb
 **ben**.
 
-Active voice:
+Active:
 **de yam piza.**
 – They eat pizza.  
-Passive voice:
+Passive:
 **piza ben yam.**
 – Pizza is eaten.
 
-The agent of the action can be expressed also in passive sentences by using the preposition
+The agent of the action can be expressed also in passive clauses by using the preposition
 **be**.
 
 **mi's kar did ben bate be tren.**
@@ -174,7 +175,7 @@ The agent of the action can be expressed also in passive sentences by using the 
 
 ### Summary of verb forms
 
-#### Active voice
+#### Active
 
 <table>
     <tr>
@@ -215,7 +216,7 @@ The agent of the action can be expressed also in passive sentences by using the 
         </td>
         <td>
             <strong><em>hi vil hav yam</em></strong><br/>
-            'I will have eaten'
+            'he will have eaten'
         </td>
         <td>
             <strong><em>hi vud hav yam</em></strong><br/>
@@ -271,7 +272,10 @@ The agent of the action can be expressed also in passive sentences by using the 
     </tr>
 </table>
 
-#### Passive voice
+Note!
+In the above table, **hi** is translated only 'he' instead of the usual 'he or she' in order to save space.
+
+#### Passive
 
 <table>
     <tr>
