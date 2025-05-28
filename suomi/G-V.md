@@ -152,3 +152,199 @@ jotta käsky olisi napakampi ja tehokkaampi.
 – Tulkaa!
 
 
+### Yhteenveto verbimuodoista
+
+#### Aktiivi
+
+<table>
+    <tr>
+        <th></th>
+        <th>Preteriti</th>
+        <th>Preesens</th>
+        <th>Futuuri</th>
+        <th>Konditionaali</th>
+    </tr>
+    <tr>
+        <th>Yleinen</th>
+        <td>
+            <strong><em>hi did yam</em></strong><br/>
+            'hän söi'
+        </td>
+        <td>
+            <strong><em>hi yam</em></strong><br/>
+            'hän syö'
+        </td>
+        <td>
+            <strong><em>hi vil yam</em></strong><br/>
+            'hän tulee syömään'
+        </td>
+        <td>
+            <strong><em>hi vud yam</em></strong><br/>
+            'hän söisi'
+        </td>
+    </tr>
+    <tr>
+        <th>Perfekti</th>
+        <td>
+            <strong><em>hi did hav yam</em></strong><br/>
+            'hän oli syönyt'
+        </td>
+        <td>
+            <strong><em>hi hav yam</em></strong><br/>
+            'hän on syönyt'
+        </td>
+        <td>
+            <strong><em>hi vil hav yam</em></strong><br/>
+            'hän tulee olemaan syönyt'
+        </td>
+        <td>
+            <strong><em>hi vud hav yam</em></strong><br/>
+            'hän olisi syönyt'
+        </td>
+    </tr>
+    <tr>
+        <th>Kesto</th>
+        <td>
+            <strong><em>hi did bi yam</em></strong><br/>
+            'hän oli syömässä'
+        </td>
+        <td>
+            <strong><em>hi bi yam</em></strong><br/>
+            'hän on syömässä'
+        </td>
+        <td>
+            <strong><em>hi vil bi yam</em></strong><br/>
+            'hän tulee olemaan syömässä'
+        </td>
+        <td>
+            <strong><em>hi vud bi yam</em></strong><br/>
+            'hän olisi syömässä'
+        </td>
+    <tr>
+        <th>Keston perfekti</th>
+        <td>
+            <strong><em>hi did hav bi yam</em></strong><br/>
+            'hän oli ollut syömässä'
+        </td>
+        <td>
+            <strong><em>hi hav bi yam</em></strong><br/>
+            'hän on ollut syömässä'
+        </td>
+        <td>
+            <strong><em>hi vil hav bi yam</em></strong><br/>
+            'hän tulee olemaan syönyt'
+        </td>
+        <td>
+            <strong><em>hi vud hav bi yam</em></strong><br/>
+            'hän olisi ollut syönyt'
+        </td>
+    </tr>
+    <tr>
+        <th>Imperatiivi</th>
+        <td></td>
+        <td>
+            <strong><em>yam!</em></strong><br/>
+            'Syö!'
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+
+#### Passiivi
+
+<table>
+    <tr>
+        <th></th>
+        <th>Preteriti</th>
+        <th>Preesens</th>
+        <th>Futuuri</th>
+        <th>Konditionaali</th>
+    </tr>
+    <tr>
+        <th>Yleinen</th>
+        <td>
+            <strong><em>hi did ben yam</em></strong><br/>
+            'se syötiin'
+        </td>
+        <td>
+            <strong><em>hi ben yam</em></strong><br/>
+            'se syödään'
+        </td>
+        <td>
+            <strong><em>hi vil ben yam</em></strong><br/>
+            'se tullaan syömään'
+        </td>
+        <td>
+            <strong><em>hi vud ben yam</em></strong><br/>
+            'se syötäisiin'
+        </td>
+    </tr>
+    <tr>
+        <th>Perfekti</th>
+        <td>
+            <strong><em>hi did hav ben yam</em></strong><br/>
+            'se oli syöty'
+        </td>
+        <td>
+            <strong><em>hi hav ben yam</em></strong><br/>
+            'se on syöty'
+        </td>
+        <td>
+            <strong><em>hi vil hav ben yam</em></strong><br/>
+            'se tulee olemaan syöty'
+        </td>
+        <td>
+            <strong><em>hi vud hav ben yam</em></strong><br/>
+            'se olisi syöty'
+        </td>
+    </tr>
+    <tr>
+        <th>Kesto</th>
+        <td>
+            <strong><em>hi did bi ben yam</em></strong><br/>
+            'se oli syötävänä'
+        </td>
+        <td>
+            <strong><em>hi bi ben yam</em></strong><br/>
+            'se on syötävänä'
+        </td>
+        <td>
+            <strong><em>hi vil bi ben yam</em></strong><br/>
+            'se tulee olemaan syötävänä'
+        </td>
+        <td>
+            <strong><em>hi vud bi ben yam</em></strong><br/>
+            'se olisi syötävänä'
+        </td>
+    <tr>
+        <th>Keston perfekti</th>
+        <td>
+            <strong><em>hi did hav bi ben yam</em></strong><br/>
+            'se oli ollut syötävänä'
+        </td>
+        <td>
+            <strong><em>hi hav bi ben yam</em></strong><br/>
+            'se on ollut syötävänä'
+        </td>
+        <td>
+            <strong><em>hi vil hav bi ben yam</em></strong><br/>
+            'se tulee olemaan ollut syötävänä'
+        </td>
+        <td>
+            <strong><em>hi vud hav bi ben yam</em></strong><br/>
+            'se olisi ollut syötävänä'
+        </td>
+    </tr>
+    <tr>
+        <th>Imperatiivi</th>
+        <td></td>
+        <td>
+            <strong><em>ben yam!</em></strong><br/>
+            'Tule syödyksi!'
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
