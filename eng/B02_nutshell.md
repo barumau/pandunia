@@ -183,21 +183,21 @@ The adverb can be tagged with
 Modifiers are compared with
 **mor**
 'more, -er',
-**mor... dan hol**
+**mor... az hol**
 'the most... (of all)',
 **les**
 'less',
-**les... dan hol**
+**les... az hol**
 'the least... (of all)', and
 **sim**
 'equally, as'.
 The point of comparison is introduced with
-**dan**
+**az**
 'than, as'.
 
-**tu es mor yun dan mi.**
+**tu es mor yun az mi.**
 – You are younger than me.  
-**tu es mor yun dan hol.**
+**tu es mor yun az hol.**
 – You are the youngest of all.
 
 ### Questions

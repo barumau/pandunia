@@ -29,7 +29,7 @@ In Pandunia, "adjectives" are modifiers that are placed before the noun that the
 – a _fast_ car  
 **meni _dai_ meza**
 – _big_ tables  
-**meni _gau_ meza**
+**meni _gao_ meza**
 – high tables  
 **un _gud_ jen**
 – a good person
@@ -122,23 +122,23 @@ Adjectives can be compared with the adverbs of comparison.
 
 **mor**
 (_more_) indicates comparison of superiority  
-**mor... dan hol**
+**mor... az hol**
 (_most... of all_) indicates the superlative of superiority  
 **les**
 (_less_) indicates comparison of inferiority  
-**les... dan hol**
+**les... az hol**
 (_least... of all_) indicates the superlative of inferiority  
 **sim**
 (_as_ or _equally_) indicates the comparison of equality
 
 The particle
-**dan**
+**az**
 relates the adverbs of comparison to the object of comparison.
 
-**aple es mor gud dan aranja.**
+**aple es mor gud az aranja.**
 – Apples are better than oranges.  
-**aranja es les gud dan aple.**
+**aranja es les gud az aple.**
 – Oranges are less good than apples.  
-**tu log sim gud dan mi.**
+**tu tok sim gud az mi.**
 – You talk as well as me.
 

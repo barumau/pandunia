@@ -96,16 +96,16 @@ Comparison is done with helping words:
 – more;
 **les**
 – less;
-**dan**
+**az**
 – than; and
 **sim**
 – as, same, equally.
 
-**mi es mor gud dan yu.**
+**mi es mor gud az yu.**
 – I am better (_more good_) than you.  
-**no, mi es sim gud dan yu.**
-– No, I am as good as you.  
-**hi bi tok mor rapid dan yu.**
+**no, tu es sim gud az mi.**
+– No, you are as good as me.  
+**hi bi tok mor rapid az yu.**
 – He or she talks faster (_more fast_) than you.
 
 Time is expressed with auxiliary verbs:
