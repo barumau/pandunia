@@ -12,9 +12,9 @@ theme:
   font:
     code: Ubuntu mono
 nav:
-    - '基本': B02_nutshell.md
+    - '基本': I-suma.md
     - '文法':
-        - '基本事項': B01_baze_kanun.md
+        - '基本事項': G-baze.md
         - 'つづり': G-ABC.md
         - '品詞': G-PoS.md
         - '代名詞': G-PRO.md
@@ -27,7 +27,7 @@ nav:
     - 'フレーズ集': B03_baze_jumla.md
     - '対話形式のレッスン': 201_shula.md
     - '辞典': pandunia-jpn.md
-    - 'よくある質問': I04_FAQ.md
+    - 'よくある質問': FAQ.md
 extra:
   social:
     - icon: fontawesome/regular/comments

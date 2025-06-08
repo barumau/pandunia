@@ -14,8 +14,8 @@ extra_css:
 nav:
     - 'Introduction': I01_ration.md
     - 'Grammar and Rules':
-        - 'The basic rules': B01_baze_kanun.md
-        - 'World words': L01_dunia_lexe.md
+        - 'The basic rules': G-baze.md
+        - 'World words': L-lexe.md
         - 'Spelling and pronunciation': G-ABC.md
         - 'Word classes': G-PoS.md
         - 'Pronouns': G-PRN.md
@@ -28,7 +28,7 @@ nav:
         - 'Word building': G-AFX.md
     - 'Lessons':
         - 'Basic Phrases': B03_baze_jumla.md
-        - 'Course': K00_kurse.md
+        - 'Course': K-kurse.md
     - 'Words':
         - 'Pandunia-English': pandunia-eng.md
         - 'English-Pandunia': eng-pandunia.md
@@ -36,8 +36,8 @@ nav:
         - 'Search': https://www.pandunia.info/lexia/?d=eng
     - 'Videos': I06_filme.md
     - 'Info':
-        - History: I03_historia.md
-        - 'Questions & Answers': I04_FAQ.md
+        - History: I-historia.md
+        - 'Questions & Answers': FAQ.md
         - 'Pandunia vs. English' : I05_Pandunia_vs_English.md
         - 'Adapting foreign words' : L02_lexe_modifikation.md
         - 'Translate this site': M01_trabashe.md

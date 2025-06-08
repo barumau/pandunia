@@ -14,8 +14,8 @@ extra_css:
 nav:
     - 'Ĉefpaĝo': 'index.md'
     - 'Bazaĵoj kaj strukturo de Pandunia':
-        - 'Bazaj reguloj': B01_baze_kanun.md
-        - 'Tutmonda vortaro': L01_dunia_lexe.md
+        - 'Bazaj reguloj': G-baze.md
+        - 'Tutmonda vortaro': L-lexe.md
         - 'Prononco': G-ABC.md
         - 'Pronomoj': G-PRO.md
         - 'Substantivoj': G-N.md

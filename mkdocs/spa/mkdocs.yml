@@ -15,9 +15,9 @@ extra_css:
 nav:
     - Inicio: 'index.md'
     - 'Info':
-        - I02_filsofia.md
+        - I-filosofia.md
     - 'Gramatica':
-        - B01_baze_kanun.md
+        - G-baze.md
         - G-ABC.md
         - G-PoS.md
         - G-PRO.md
@@ -29,7 +29,7 @@ nav:
         - G-AFX.md
     - 'Lecciones':
         - 'Frases básicas': B03_baze_jumla.md
-        - 'Curso': K00_kurse.md
+        - 'Curso': K-kurse.md
     - 'Diccionarios':
         - 'Pandunia-Español': pandunia-spa.md
         - 'Español-Pandunia': spa-pandunia.md

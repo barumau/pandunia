@@ -18,8 +18,8 @@ plugins:
 nav:
     - 'Johdanto': I01_ration.md
     - 'Pandunian perusteet ja rakenne':
-        - 'Perussäännöt': B01_baze_kanun.md
-        - 'Yleismaailmallinen sanasto': L01_dunia_lexe.md
+        - 'Perussäännöt': G-baze.md
+        - 'Yleismaailmallinen sanasto': L-lexe.md
         - 'Ääntäminen': G-ABC.md
         - 'Sanaluokat': G-PoS.md
         - 'Pronominit': G-PRO.md
@@ -32,7 +32,7 @@ nav:
         - 'Sanojen johtaminen': G-AFX.md
     - 'Oppitunteja':
         - 'Lauseita': B03_baze_jumla.md
-        - 'Kurssi': K00_kurse.md
+        - 'Kurssi': K-kurse.md
     - 'Sanasto':
         - 'Pandunia-suomi': pandunia-fin.md
         - 'Suomi-pandunia': fin-pandunia.md
@@ -40,8 +40,8 @@ nav:
         - 'Alkuperäsanasto': leksaslia.md
     - 'Videoita': I06_filme.md
     - Tietoa:
-        - 'Historia': I03_historia.md
-        - 'UKK': I04_FAQ.md
+        - 'Historia': I-historia.md
+        - 'UKK': FAQ.md
         - 'Pandunia vs. englanti' : I05_Pandunia_vs_English.md
 extra:
   social:

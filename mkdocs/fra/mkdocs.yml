@@ -18,8 +18,8 @@ nav:
     - Accueil: 'index.md'
     - 'Présentation': I01_ration.md
     - 'Grammaire':
-        - B01_baze_kanun.md
-        - L01_dunia_lexe.md
+        - G-baze.md
+        - L-lexe.md
         - G-ABC.md
         - G-PRO.md
         - G-N.md
@@ -30,14 +30,14 @@ nav:
         - G-AFX.md
     - 'Leçons':
         - 'Phrases courantes': B03_baze_jumla.md
-        - 'Leçons': K00_kurse.md
+        - 'Leçons': K-kurse.md
     - 'Vocabulaire':
         - 'Pandunia → français': pandunia-fra.md
         - 'Français → pandunia': fra-pandunia.md
         - 'Etymologie': leksaslia.md
         - 'Recherche': https://www.pandunia.info/lexia/?d=fra
     - 'Appendix':
-        - 'Questions et réponses': I04_FAQ.md
+        - 'Questions et réponses': FAQ.md
         - 'Traduire ce site': tarja_netoloke.md
 extra:
   social:

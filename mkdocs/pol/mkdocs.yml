@@ -15,9 +15,9 @@ nav:
     - Główna: 'index.md'
     - 'Info':
         - 'Wprowadzenie': I01_ration.md
-        - 'Założenia': I02_filsofia.md
+        - 'Założenia': I-filosofia.md
     - 'Gramatyka':
-        - B01_baze_kanun.md
+        - G-baze.md
         - 'Dźwięki i litery': G-ABC.md
         - G-PRO.md
         - G-N.md
@@ -27,7 +27,7 @@ nav:
         - G-AFX.md
     - 'Nauka':
         - 'Rozmówki': B03_baze_jumla.md
-        - 'Kurs': K00_kurse.md
+        - 'Kurs': K-kurse.md
     - 'Słownik':
         - 'Pandunia-polski': pandunia-pol.md
         - 'Polski-pandunia': pol-pandunia.md

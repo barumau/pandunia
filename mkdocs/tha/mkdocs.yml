@@ -13,8 +13,8 @@ theme:
     code: Ubuntu mono
 nav:
     - "พันดูเนีย": 'index.md'
-    - "พื้นฐาน": 'B02_nutshell.md'
-    - B01_baze_kanun.md
+    - "พื้นฐาน": 'I-suma.md'
+    - G-baze.md
     - pandunia-tha.md
 extra:
   social:
