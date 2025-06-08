@@ -12,7 +12,7 @@ theme:
 extra_css:
   - stile.css
 nav:
-    - 'Introduction': I01_ration.md
+    - 'Introduction': I-idea.md
     - 'Grammar and Rules':
         - 'The basic rules': G-baze.md
         - 'World words': L-lexe.md
@@ -34,7 +34,7 @@ nav:
         - 'English-Pandunia': eng-pandunia.md
         - 'Origins of words': leksaslia.md
         - 'Search': https://www.pandunia.info/lexia/?d=eng
-    - 'Videos': I06_filme.md
+    - 'Videos': I-filme.md
     - 'Info':
         - History: I-historia.md
         - 'Questions & Answers': FAQ.md

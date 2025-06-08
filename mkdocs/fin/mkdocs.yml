@@ -16,7 +16,7 @@ plugins:
     - search:
         lang: fi
 nav:
-    - 'Johdanto': I01_ration.md
+    - 'Johdanto': I-idea.md
     - 'Pandunian perusteet ja rakenne':
         - 'Perussäännöt': G-baze.md
         - 'Yleismaailmallinen sanasto': L-lexe.md
@@ -38,7 +38,7 @@ nav:
         - 'Suomi-pandunia': fin-pandunia.md
         - Sanahaku : https://www.pandunia.info/lexia/?d=fin
         - 'Alkuperäsanasto': leksaslia.md
-    - 'Videoita': I06_filme.md
+    - 'Videoita': I-filme.md
     - Tietoa:
         - 'Historia': I-historia.md
         - 'UKK': FAQ.md

@@ -16,7 +16,7 @@ plugins:
         lang: fr
 nav:
     - Accueil: 'index.md'
-    - 'Présentation': I01_ration.md
+    - 'Présentation': I-idea.md
     - 'Grammaire':
         - G-baze.md
         - L-lexe.md

@@ -14,7 +14,7 @@ extra_css:
 nav:
     - Główna: 'index.md'
     - 'Info':
-        - 'Wprowadzenie': I01_ration.md
+        - 'Wprowadzenie': I-idea.md
         - 'Założenia': I-filosofia.md
     - 'Gramatyka':
         - G-baze.md
