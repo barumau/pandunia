@@ -42,7 +42,6 @@ nav:
     - Tietoa:
         - 'Historia': I-historia.md
         - 'UKK': FAQ.md
-        - 'Pandunia vs. englanti' : I05_Pandunia_vs_English.md
 extra:
   social:
     - icon: fontawesome/regular/comments
