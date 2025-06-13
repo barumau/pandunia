@@ -8,7 +8,7 @@ Pandunia is a constructed language that has a minimalistic grammar and a globali
 Pandunia uses a systematic spelling where
 each letter represents one spoken sound.
 
-> A B CH D E F G H I J K L M N O P R S SH T U V X Y Z
+> A B C D E F G H I J K L M N O P R S T U V X Y Z
 
 The vowels **a, e, i, o, u** are pronounced as in "are there three or two".
 
@@ -29,7 +29,7 @@ The consonants are:
 **s** (always voiceless),
 **t**,
 **v** (sounds like _w_),
-**sh** (sounds like _sh_),
+**x** (sounds like _sh_),
 **y**,
 **z**.
 
@@ -43,11 +43,11 @@ The same word, without any change in form, can serve as a noun, adjective or ver
 
 | Person   | Singular          | Plural       |
 |:---------|:-----------------:|:------------:|
-|          | **mi**            | **vi**       |
+|          | **mi**            | **mimen**    |
 | 1st      | _I, me_           | _we, us_     |
-|          | **tu**            | **yu**       |
+|          | **tu**            | **tumen**    |
 | 2nd      | _you_             | _you all_    |
-|          | **hi**            | **de**       |
+|          | **da**            | **damen**    |
 | 3rd      | _he/she, him/her_ | _they, them_ |
 
 ### Basic sentence structures
@@ -66,27 +66,27 @@ such as an affirmative or negative particle, an auxiliary verb or a marker of te
 
 Example 1. Structurally unclear sentence.
 
-    mau yam fish.
-    cat eat fish
-    'The cat eats fish.' (probable interpretation of the meaning)
+*`mau yam fish.`*  
+ `cat eat fish`  
+'The cat eats fish.' (probable interpretation of the meaning)
     
 Example 2. Structurally clear sentence with the affirmation of the verb.
 
-    mau ye  yam fish.
-    cat yes eat fish
-    'The cat does eat fish.'
+*`mau ye  yam fish.`*  
+ `cat yes eat fish`  
+'The cat does eat fish.'
 
 Example 3. Structurally clear sentence with the negation of the verb.
 
-    mau no  yam fish.
-    cat no  eat fish
-    'The cat doesn't eat fish.'
+*̀`mau no  yam fish.`*  
+ `cat no  eat fish`  
+'The cat doesn't eat fish.'
 
 Example 4. A complex but structurally clear sentence.
 
-    mi's  frende  hav    yam un  pai.
-    me 's friend  ASPECT eat one pie
-    'My friend has eaten a pie.'
+*`mi su  doste  hav    yam un  pai.`*  
+ `me 's  friend ASPECT eat one pie`  
+'My friend has eaten a pie.'
 
 
 ### Negation
@@ -95,7 +95,7 @@ To negate a word, add **no** before it.
 
 **mi no sona.**
 – I don't sleep.  
-**tu yam no von.**
+**tu yam no jen.**
 – You eat no-one.
 
 ### To be
@@ -105,49 +105,49 @@ The verb
 means 'to be'.
 It can be left out in very simple sentences.
 
-**mi es home.**
+**mi es hom.**
 – I am a human.  
-**mi – home.**
+**mi – hom.**
 – I'm a human.
 
 It can't be left out when it is part of a serial verb.
 
-**mi van es mau.**
+**mi vol es mau.**
 – I want to be a cat.  
-**mi van mau!**
+**mi vol mau!**
 – I want a cat!
 
 ### Multi-purpose words
 
 Pandunia words can be ambiguous because they often have more meanings compared to English.
 
-**hi love mau.**
+**da love mau.**
 – He loves cats. / She loved a cat. / He/she will love the cat.
 
 But actually the meaning is clear in the real context:
 
-**pre tri nen, mi have du mau e un vaf. mi have plus un fem ben. hi love mau!**
+**pre tri nen, mi have du mau e un vaf. mi have plus un fem ben. da love mau!**
 – Three years ago, I had two cats and a dog. I also had a daughter. _She loved the cats!_
 
 ### Time
 
 Tenses and aspects are optionally expressed with the help of adverbs and auxiliary verbs,
 like the aspect auxiliaries
-**bi**
+**zai**
 (be in the process of), and
 **hav**
 (have completed),
 and the tense auxiliaries
-**did**
+**pas**
 (in the past), and
 **vil**
 (in the future).
 
-**mi bi love tu.**
+**mi zai love tu.**
 – I am loving you.  
 **mi hav love tu.**
 – I have loved you.  
-**mi did love tu.**
+**mi pas love tu.**
 – I loved you.  
 **mi vil love tu.**
 – I will love you.
@@ -155,50 +155,50 @@ and the tense auxiliaries
 ### Passive
 
 The passive voice is formed with the help of the verb
-**ben**.
+**bi**.
 
-**tu ben love.**
+**tu bi love.**
 – You are loved.  
-**mi ben love be tu.**
+**mi bi love di tu.**
 – I am loved by you.
 
 ### Modifying other words
 
 To modify a noun, put adjectives before it.
 
-**un nov love**
+**un nove love**
 – a new love  
-**da gud pai**
+**la bon pai**
 – the good pie
 
 To modify a verb, put adverbs before it.
 The adverb can be tagged with
 **li**.
 
-**mi gud (li) vize tu.**
+**mi bon (li) vize tu.**
 – I see you well.  
-**tu vize li love hi.**
+**tu vi li love da.**
 – You seemingly love him/her.
 
 Modifiers are compared with
-**mor**
+**max**
 'more, -er',
-**mor... az hol**
+**maxim**
 'the most... (of all)',
-**les**
+**min**
 'less',
-**les... az hol**
+**linim**
 'the least... (of all)', and
 **sim**
 'equally, as'.
 The point of comparison is introduced with
-**az**
+**ka**
 'than, as'.
 
-**tu es mor yun az mi.**
+**tu es max yun ka mi.**
 – You are younger than me.  
-**tu es mor yun az hol.**
-– You are the youngest of all.
+**tu es maxim yun.**
+– You are the youngest.
 
 ### Questions
 
@@ -206,32 +206,30 @@ To ask _yes–or–no_ questions, replace the verb with "(verb) **no** (verb)" p
 **he**
 'eh, huh' to the end of the sentence.
 
-**tu vize no vize mi?**
+**tu vi no vi mi?**
 – Do you see me?  
-**tu vize mi, he?**
+**tu vi mi, he?**
 – You see me, eh?
 
 To ask a content question, write a normal sentence and replace the word in question with
-**vat**
-'what' or
-**hu**
-'who'.
+**ke**
+'what, who'.
 
-**tu love hu?**
+**tu love ke?**
 – Who do you love?  
-**tu love vat man?**
+**tu love ke man?**
 – Which man do you love?  
-**vat man ye love tu?**
+**ke man love tu?**
 – Which man loves you?  
-**tu love hi hau muche?**
+**tu love da ke multi?**
 – How much do you love him?
 
 ### Commands
 
 To state a command, leave out the subject and start the sentence with the verb.
 
-**yam da pai!**
-– Eat that pie!  
-**vize da mau!**
+**yam ye pai!**
+– Eat this pie!  
+**vide vo mau!**
 – Look at that cat!
 

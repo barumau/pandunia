@@ -12,17 +12,17 @@ For example, the verb
 **es**
 ('to be') has the same form in all persons.
 
-**_mi_ es frende.**
+**mi es doste.**
 – I am a friend.  
-**_tu_ es frende.**
+**tu es doste.**
 – You are a friend.  
-**_hi_ es frende.**
+**da es doste.**
 – He/she is a friend.  
-**_vi_ es frende.**
+**mimen es doste.**
 – We are friends.  
-**_yu_ es frende.**
+**tumen es doste.**
 – You are friends.  
-**_de_ es frende.**
+**damen es doste.**
 – They are friends.
 
 Also a noun can serve as subject.
@@ -43,7 +43,7 @@ The tense marker is first, the mood marker is next, and the aspect marker is las
 Tense is a property that expresses time reference.
 The main tenses are the past, present, and future.
 The marker
-**did**
+**pas**
 indicates the past tense,
 **nun**
 indicates the present tense, and
@@ -51,7 +51,7 @@ indicates the present tense, and
 indicates the future tense.
 More specific time references are expressed with various time expressions, like *yesterday*, *tomorrow* or *one hour ago*.
 
-**man** ***did*** **yam ban.**
+**man** ***pas*** **yam ban.**
 – The man *ate* (or *did eat*) bread.  
 **man** ***nun*** **yam ban.**
 – The man *eats* bread (now).  
@@ -61,7 +61,7 @@ More specific time references are expressed with various time expressions, like 
 It is also possible to express the future in the past
 with a combination of two tense markers.
 
-**man** ***did vil*** **yam ban.**
+**man** ***pas vil*** **yam ban.**
 – The man *was going to* eat bread.
 
 
@@ -69,21 +69,21 @@ with a combination of two tense markers.
 
 Aspect expresses how an action or event extends over time.
 There are two aspect markers in Pandunia,
-**bi** and **hav**.
+**zai** and **hav**.
 
 The marker
-**bi**
+**zai**
 indicates that the action or event is *on-going* or *in progress*
 at the time, which the speaker is talking about.
 The time can be indicated with a tense marker.
 
-**man** ***bi*** **yam ban.**
+**man** ***zai*** **yam ban.**
 – The man *is*, *was* or *will be* eating bread.  
-**man** ***did bi*** **yam ban.**
+**man** ***pas zai*** **yam ban.**
 – The man was eating bread.  
-**man** ***nun bi*** **yam ban.**
+**man** ***nun zai*** **yam ban.**
 – The man is eating bread.  
-**man** ***vil bi*** **yam ban.**
+**man** ***vil zai*** **yam ban.**
 – The man will be eating bread.
 
 The marker
@@ -94,7 +94,7 @@ The time can be indicated with a tense markers.
 
 **man** ***hav*** **yam ban.**
 – The man *had*, *has* or *will have* eaten bread.  
-**man** ***did hav*** **yam ban.**
+**man** ***pas hav*** **yam ban.**
 – The man had eaten bread.  
 **man** ***nun hav*** **yam ban.**
 – The man has eaten bread.  
@@ -124,9 +124,9 @@ The auxiliary verb
 **shud**
 ('should, ought') indicates some kind of expectation like duty, obligation, requirement, desire, advisability or likelihood.
 
-**ma voka vi. vi shud go.**
+**ma voka mimen. mimen shud go.**
 – Mother called us. We should go.  
-**hi shud hav kom pre nun.**
+**da shud hav kom pre nun.**
 – He should have come by now.  
 **evri von shud vote.**
 – Everyone should vote.
@@ -136,9 +136,9 @@ In Pandunia, the imperative is created with the auxiliary verb
 **shal**.
 It can be used to give commands to any person, not just "you".
 
-**vi shal go!**
+**mimen shal go!**
 – Let us go! ~ Let's go!  
-**de shal kurse!**
+**damen shal kurse!**
 – Let them run!
 
 **shal**
@@ -148,7 +148,7 @@ in order to give the command more force.
 
 **tu shal kom!** = **kom!**
 – Come!  
-**yu shal kom!** = **kom!**
+**tumen shal kom!** = **kom!**
 – Come (you all)!
 
 ### Passive clause
@@ -157,20 +157,30 @@ The passive clause expresses that the subject undergoes the action or has its st
 In other words, the subject has a passive role.
 This contrasts with the active clause where the subject is the agent or the doer of the action.
 In Pandunia, the passive clause is constructed with the help of the auxiliary verb
-**ben**.
+**zai**.
 
 Active:
-**de yam piza.**
+**damen yam piza.**
 – They eat pizza.  
 Passive:
-**piza ben yam.**
+**piza bi yam.**
 – Pizza is eaten.
 
 The agent of the action can be expressed also in passive clauses by using the preposition
-**be**.
+**di**.
 
-**mi's kar did ben bate be tren.**
+**mi su gar pas bi bate di tren.**
 – My car was hit by a train.
+
+The equivalent of passive (past) participle is built by using the prefix
+**bi**-
+and the suffix
+-**(t)ik**.
+
+**biyamik piza**
+– eaten pizza (pizza that was or is eaten)  
+**bilogutik lexe**
+– spoken word (word that was or is spoken)
 
 
 ### Summary of verb forms
@@ -188,75 +198,75 @@ The agent of the action can be expressed also in passive clauses by using the pr
     <tr>
         <th>Simple</th>
         <td>
-            <strong><em>hi did yam</em></strong><br/>
+            <strong><em>da pas yam</em></strong><br/>
             'he ate ~ did eat'
         </td>
         <td>
-            <strong><em>hi yam</em></strong><br/>
+            <strong><em>da yam</em></strong><br/>
             'he eats'
         </td>
         <td>
-            <strong><em>hi vil yam</em></strong><br/>
+            <strong><em>da vil yam</em></strong><br/>
             'he will eat'
         </td>
         <td>
-            <strong><em>hi vud yam</em></strong><br/>
+            <strong><em>da vud yam</em></strong><br/>
             'he would eat'
         </td>
     </tr>
     <tr>
         <th>Perfect</th>
         <td>
-            <strong><em>hi did hav yam</em></strong><br/>
+            <strong><em>da pas hav yam</em></strong><br/>
             'he had eaten'
         </td>
         <td>
-            <strong><em>hi hav yam</em></strong><br/>
+            <strong><em>da hav yam</em></strong><br/>
             'he has eaten'
         </td>
         <td>
-            <strong><em>hi vil hav yam</em></strong><br/>
+            <strong><em>da vil hav yam</em></strong><br/>
             'he will have eaten'
         </td>
         <td>
-            <strong><em>hi vud hav yam</em></strong><br/>
+            <strong><em>da vud hav yam</em></strong><br/>
             'he would have eaten'
         </td>
     </tr>
     <tr>
         <th>Progressive</th>
         <td>
-            <strong><em>hi did bi yam</em></strong><br/>
+            <strong><em>da pas zai yam</em></strong><br/>
             'he was eating'
         </td>
         <td>
-            <strong><em>hi bi yam</em></strong><br/>
+            <strong><em>da zai yam</em></strong><br/>
             'he is eating'
         </td>
         <td>
-            <strong><em>hi vil bi yam</em></strong><br/>
+            <strong><em>da vil zai yam</em></strong><br/>
             'he will be eating'
         </td>
         <td>
-            <strong><em>hi vud bi yam</em></strong><br/>
+            <strong><em>da vud zai yam</em></strong><br/>
             'he would be eating'
         </td>
     <tr>
         <th>Perfect progressive</th>
         <td>
-            <strong><em>hi did hav bi yam</em></strong><br/>
+            <strong><em>da pas hav zai yam</em></strong><br/>
             'he had been eating'
         </td>
         <td>
-            <strong><em>hi hav bi yam</em></strong><br/>
+            <strong><em>da hav zai yam</em></strong><br/>
             'he has been eating'
         </td>
         <td>
-            <strong><em>hi vil hav bi yam</em></strong><br/>
+            <strong><em>da vil hav zai yam</em></strong><br/>
             'he will have been eating'
         </td>
         <td>
-            <strong><em>hi vud hav bi yam</em></strong><br/>
+            <strong><em>da vud hav zai yam</em></strong><br/>
             'he would have been eating'
         </td>
     </tr>
@@ -273,7 +283,7 @@ The agent of the action can be expressed also in passive clauses by using the pr
 </table>
 
 Note!
-In the above table, **hi** is translated only 'he' instead of the usual 'he or she' in order to save space.
+In the above table, **da** is translated only 'he' instead of the usual 'he or she' in order to save space.
 
 #### Passive
 
@@ -288,75 +298,75 @@ In the above table, **hi** is translated only 'he' instead of the usual 'he or s
     <tr>
         <th>Simple</th>
         <td>
-            <strong><em>hi did ben yam</em></strong><br/>
+            <strong><em>da pas bi yam</em></strong><br/>
             'it was eaten'
         </td>
         <td>
-            <strong><em>hi ben yam</em></strong><br/>
+            <strong><em>da bi yam</em></strong><br/>
             'it is eaten'
         </td>
         <td>
-            <strong><em>hi vil ben yam</em></strong><br/>
+            <strong><em>da vil bi yam</em></strong><br/>
             'it will be eaten'
         </td>
         <td>
-            <strong><em>hi vud ben yam</em></strong><br/>
+            <strong><em>da vud bi yam</em></strong><br/>
             'it would be eaten'
         </td>
     </tr>
     <tr>
         <th>Perfect</th>
         <td>
-            <strong><em>hi did hav ben yam</em></strong><br/>
+            <strong><em>da pas hav bi yam</em></strong><br/>
             'it had been eaten'
         </td>
         <td>
-            <strong><em>hi hav ben yam</em></strong><br/>
+            <strong><em>da hav bi yam</em></strong><br/>
             'it has been eaten'
         </td>
         <td>
-            <strong><em>hi vil hav ben yam</em></strong><br/>
+            <strong><em>da vil hav bi yam</em></strong><br/>
             'I will have been eaten'
         </td>
         <td>
-            <strong><em>hi vud hav ben yam</em></strong><br/>
+            <strong><em>da vud hav bi yam</em></strong><br/>
             'it would have been eaten'
         </td>
     </tr>
     <tr>
         <th>Progressive</th>
         <td>
-            <strong><em>hi did bi ben yam</em></strong><br/>
+            <strong><em>da pas zai bi yam</em></strong><br/>
             'it was being eaten'
         </td>
         <td>
-            <strong><em>hi bi ben yam</em></strong><br/>
+            <strong><em>da zai bi yam</em></strong><br/>
             'it is being eaten'
         </td>
         <td>
-            <strong><em>hi vil bi ben yam</em></strong><br/>
+            <strong><em>da vil zai bi yam</em></strong><br/>
             'it will be being eaten'
         </td>
         <td>
-            <strong><em>hi vud bi ben yam</em></strong><br/>
+            <strong><em>da vud zai bi yam</em></strong><br/>
             'it would be being eaten'
         </td>
     <tr>
         <th>Perfect progressive</th>
         <td>
-            <strong><em>hi did hav bi ben yam</em></strong><br/>
+            <strong><em>da pas hav zai bi yam</em></strong><br/>
             'it had been being eaten'
         </td>
         <td>
-            <strong><em>hi hav bi ben yam</em></strong><br/>
+            <strong><em>da hav zai bi yam</em></strong><br/>
             'it has been being eaten'
         </td>
         <td>
-            <strong><em>hi vil hav bi ben yam</em></strong><br/>
+            <strong><em>da vil hav zai bi yam</em></strong><br/>
             'it will have be being eaten'
         </td>
         <td>
-            <strong><em>hi vud hav bi ben yam</em></strong><br/>
+            <strong><em>da vud hav zai bi yam</em></strong><br/>
             'it would have been being eaten'
         </td>
     </tr>
@@ -364,7 +374,7 @@ In the above table, **hi** is translated only 'he' instead of the usual 'he or s
         <th>Imperative</th>
         <td></td>
         <td>
-            <strong><em>ben yam!</em></strong><br/>
+            <strong><em>bi yam!</em></strong><br/>
             'Be eaten!'
         </td>
         <td></td>
@@ -405,20 +415,20 @@ the first verb (an auxiliary verb) is something that the subject possesses
 and the second verb is something that the subject does (when there is an object in the end)
 or experiences (when there is no object).
 
-**mi kan kitab da javab.**  
+**mi kan kitab la javab.**  
 ≈ *I have the ability to write the answer.*  
 – I can write the answer.  
-**mi halal kitab da javab.**  
+**mi halal kitab la javab.**  
 ≈ *I have the permission to write the answer.*  
 – I may write the answer.  
-**mi mus kitab da javab.**  
+**mi mus kitab la javab.**  
 ≈ *I have the compulsion to write the answer.*  
 – I must write the answer.
 
 Note that the same auxiliary verbs can be used alone as transitive verbs in the pivot construction.
 
-**guru halal mi kitab da javab.**
+**guru halal mi kitab la javab.**
 – The teacher permits me to write the answer.  
-**guru mus mi kitab da javab.**
+**guru mus mi kitab la javab.**
 – The teacher compels me to write the answer.
 

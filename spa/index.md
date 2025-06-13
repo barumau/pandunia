@@ -58,23 +58,23 @@ Un sonido = una letra.
 
 El acento cae en la vocal que está antes de la última consonante de la palabra raíz.
 Los prefijos y sufijos no llevan acento o a lo mucho llevan un pequeño acento secundario.  
-**méni jén kán báshe Englísh in Amérika.**
-– Mucha gente habla inglés en América.
+**múlti jén kán báxe Pandúnia en dúnia.**
+– Muchas personas pueden hablar pandunia en el mundo.
 
 Las palabras en Pandunía se mantienen siempre estables.
 No existen casos de formas _conjugadas_ para tiempos, modos, singulares o plurales, etc. 
 El orden de las oraciones normalmente es sujeto–verbo–objeto
 quien ejecuta la acción va primero, luego va lo que se realiza y finalmente quien la recibe. 
-**mi love yu.**
+**mi love tu.**
 – yo los amo a ustedes.
 
-![](http://www.kupsala.net/PanGlobish/grafe/Freepik_love.png)  
+![](http://www.kupsala.net/grafe/Freepik_love.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 El orden también es el mismo en las preguntas
-**yu love hu?**
+**tu love ke?**
 – ¿A quién amas?  
-**yu love mi, he?**
+**tu love mi, he?**
 – ¿acaso me amas?
 
 El singular y el plural se indican con palabras de número.
@@ -87,61 +87,60 @@ El singular y el plural se indican con palabras de número.
 – dos libros  
 **tri buk**
 – tres libros  
-**meni buk**
+**multi buk**
 – (varios) libros
 
 Las palabras de comparación:
-**mor**
+**max**
 – más (mayor);
-**les**
+**min**
 – menos (menor);
-**dan**
+**ka**
 – que, como; y
 **sim**
 – lo mismo, igual, tanto.
 
-**mi es mor gud dan yu.**
+**mi es max bon ka tu.**
 – Soy mejor (_más bueno_) que ustedes.  
-**no, mi es sim gud dan yu.**
+**no, mi es sim bon ka tu.**
 – No, soy tan bueno como ustedes.  
-**da bi tok mor rapid dan yu.**
+**da logu max rapid ka tu.**
 – Él/ella habla más rápido que ustedes.
 
 El tiempo se expresa con verbos auxiliares:
-**did**
+**pas**
 – eventos pasados  
 **vil**
 – ewentos futuros  
 **hav**
 – eventos pasados que sigen vigentes  
-**bi**
+**zai**
 – eventos que están sucediendo actualmente
 
-**di did lese mi se buk.**
+**damen pas lese mi su buk.**
 – Leyó mi libro.  
-**vi hav lese meni buk.**
+**vi hav lese multi buk.**
 – Hemos leído muchos libros.  
-**mi bi lese un buk.**
+**mi zai lese un buk.**
 – Estoy leyendo un libro.  
-**yu vil tok Pandunia.**
+**tu vil baxe Pandunia.**
 – Hablas Pandunía.
 
 La partícula al final de la oración expresa la finalidad con la que se dijo,
 por ejemplo si era una pregunta, una orden o una afirmación.  
-**yu love kafe, he?**
+**tu love kafe, he?**
 – Ustedes aman el café, ¿no? (pregunta)  
-**yu love kafe, ye.**
+**tu love kafe, ya.**
 – Verdaderammente, ustedes aman el café. (afirmación)  
-**yu love kafe, ne.**
+**tu love kafe, ne.**
 – ¿Aman el café?, o... (busca una respuesta)
 
 
 ## ¿Cómo aprenderlo?
 
-- [Lecciones con diálogos](K00_kurse.md)
+- [Lecciones con diálogos](K-kurse.md)
 - [Tarjetas y pruebas](https://lingopolo.org/pandunia/) en Lingopolo
-- [Mini lecciones con gráficos](http://www.pandunia.info/pandunia/mini_xula.html)
-- [Guía de conversación](B03_baze_jumla.md)
+- [Guía de conversación](G-baze.md)
 - [Gramática de Pandunía](pan.pdf) como PDF
 - [Dicionario que permite búsquedas](http://www.pandunia.info/pandunia/logia.html)
 - [Orígenes de las palabras(etimología de Pandunía)](leksaslia.md)
@@ -180,7 +179,7 @@ lugares anteriormente citados.
 
 ## Pandunía
 
-![](http://www.pandunia.info/grafe/bandera.png "La bandera de Pandunia")
+![](http://www.pandunia.info/grafe/bandera.png "La bandera di Pandunia")
 
-**de pan dunia, to pan dunia**  
+**de hol dunia, to hol dunia**  
 – de todo el mundo para todo el mundo
