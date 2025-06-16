@@ -35,13 +35,10 @@ Le sue parole sono state prese da tutti i continenti e da tutte le culture del m
 
 La versione finale del pandunia è stata pubblicata nell'aprile 2024.
 
-<!--
 ## Come impararlo?
 
-- [Le basi del pandunia](B02_nutshell.md) (una sola breve pagina!)
-- [Lezioni con dialoghi](K00_kurse.md)
-- [Mini-lezioni con immagini](http://www.pandunia.info/pandunia/mini_xula.html)
-- [Frasario](B03_baze_jumla.md)
+- [Le basi del pandunia](I-suma.md) (una sola breve pagina!)
+- [Lezioni con dialoghi](K-kurse.md)
 - [Grammatica completa del panduria](pan.pdf) in formato PDF
 - [Etimologia delle parole](leksaslia.md)
 - Va' alla pagina
@@ -49,7 +46,10 @@ La versione finale del pandunia è stata pubblicata nell'aprile 2024.
   per vedere da dove proviene ogni parola del pandunia su una mappa del globo.
 - [Storie in pandunia](https://www.pandunia.info/kitabe)
 
+<!--
 ## Materiale su altri siti
+
+- [Frasario](B03_baze_jumla.md)
 
 - [Contare in pandunia](https://www.languagesandnumbers.com/how-to-count-in-pandunia/en/pandunia/) su _Of Languages and Numbers_
 - [Flashcard e quiz](https://lingopolo.org/pandunia/) su _Lingopolo_

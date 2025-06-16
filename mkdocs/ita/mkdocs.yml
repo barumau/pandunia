@@ -12,10 +12,10 @@ theme:
 extra_css:
   - stile.css
 nav:
-    - 'Lingua ausiliaria globale': I01_ration.md
-    - I02_filsofia.md
-    - B02_nutshell.md
-    - 'Regole basilari': B01_baze_kanun.md
+    - 'Lingua ausiliaria globale': I-idea.md
+    - I-filosofia.md
+    - I-suma.md
+    - 'Regole basilari': G-baze.md
     - 'Ortografia e pronuncia': G-ABC.md
     - 'Classi di parole': G-PoS.md
     - 'Pronomi': G-PRO.md
@@ -26,7 +26,7 @@ nav:
     - 'Vocabolario':
         - 'pandunia → italiano': pandunia-ita.md
         - 'italiano → pandunia': ita-pandunia.md
-    - 'Da dove vengono le parole': L01_dunia_lexe.md
+    - 'Da dove vengono le parole': L-lexe.md
 extra:
   social:
     - icon: fontawesome/regular/comments
