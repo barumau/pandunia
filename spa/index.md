@@ -119,7 +119,7 @@ El tiempo se expresa con verbos auxiliares:
 
 **damen pas lese mi su buk.**
 – Leyó mi libro.  
-**vi hav lese multi buk.**
+**mimen hav lese multi buk.**
 – Hemos leído muchos libros.  
 **mi zai lese un buk.**
 – Estoy leyendo un libro.  
@@ -132,7 +132,7 @@ por ejemplo si era una pregunta, una orden o una afirmación.
 – Ustedes aman el café, ¿no? (pregunta)  
 **tu love kafe, ya.**
 – Verdaderammente, ustedes aman el café. (afirmación)  
-**tu love kafe, ne.**
+**tu love kafe, ne?**
 – ¿Aman el café?, o... (busca una respuesta)
 
 

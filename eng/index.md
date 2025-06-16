@@ -6,7 +6,7 @@ hide:
 
 # Pandunia
 
-**halo, dunia!**
+**sal, dunia!**
 – Hello, world!
 
 Welcome to learn about Pandunia,
@@ -42,12 +42,11 @@ It's better to speak good Pandunia than bad English.
 ## Learn it now!
 
 Pandunia is written in the Latin (and English!) alphabet:  
-A B C Ch D E F G H I J K L M N O P R S Sh T U V X Y Z
+A B C D E F G H I J K L M N O P R S T U V X Y Z
 
-Only one letter is pronounced different than what is normal in English:
-**c** = ts as in _cats_.
-However, this letter is used rarely alone.
-It is normally part of the digraph **ch**, which is pronounced as in the English word *church*.
+Only two letters are pronounced differently than normally in English:
+**c** = *ch* as in *church*, and
+**x** = *sh* as in *ship*.
 
 All vowels are pure vowels.
 They are pronounced as in
@@ -66,16 +65,16 @@ There aren't any special _inflected_ forms for cases, tenses, moods, singular an
 
 The normal word order is subject–verb–object
 so the doer comes first, then the action word and finally the object of the action.  
-**mi love yu.**
+**mi love tu.**
 – I love you.
 
 ![](http://www.kupsala.net/PanGlobish/grafe/Freepik_love.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 The word order is the same also in questions.  
-**yu love hu?**
+**tu love ke?**
 – Who do you love?  
-**yu love mi, he?**
+**tu love mi, he?**
 – Do you love me? (i.e. Do you love, eh?)
 
 Singular and plural are indicated with number words.
@@ -88,52 +87,52 @@ Singular and plural are indicated with number words.
 – two books  
 **tri buk**
 – three books  
-**meni buk**
+**multi buk**
 – many books
 
 Comparison is done with helping words:
-**mor**
+**max**
 – more;
-**les**
+**min**
 – less;
-**az**
+**ka**
 – than; and
 **sim**
 – as, same, equally.
 
-**mi es mor gud az yu.**
+**mi es max bon ka tu.**
 – I am better (_more good_) than you.  
-**no, tu es sim gud az mi.**
+**no, tu es sim bon ka mi.**
 – No, you are as good as me.  
-**hi bi tok mor rapid az yu.**
+**da logu max rapid ka tu.**
 – He or she talks faster (_more fast_) than you.
 
 Time is expressed with auxiliary verbs:
-**did**
+**pas**
 – past events  
 **vil**
 – future events  
 **hav**
 – past events that are still relevant  
-**bi**
+**zai**
 – ongoing events
 
-**de did lese mi's buk.**
+**damen pas lese mi su buk.**
 – They read my book.  
-**vi hav lese meni buk.**
+**mimen hav lese multi buk.**
 – We have read many books.  
-**mi bi lese un buk.**
+**mi zai lese un buk.**
 – I am reading one book.  
-**yu vil tok Pandunia.**
+**tu vil baxe Pandunia.**
 – You will talk Pandunia.
 
 Sentence-final particles express why the sentence is said,
 i.e. is the sentence, for example, a statement, a question or a command.  
-**yu love kafe, he?**
+**tu love kafe, he?**
 – You love coffee, eh? (question)  
-**yu love kafe, ye.**
+**tu love kafe, ya.**
 – You love coffee, indeed. (statement)  
-**yu love kafe, ne?**
+**tu love kafe, ne?**
 – You love coffee, or... (need for response)
 
 
@@ -179,5 +178,5 @@ You can contact the creator and a main developer of Pandunia, Risto Kupsala, via
 
 ![](http://www.pandunia.info/grafe/bandera.png "The flag of Pandunia")
 
-**of hol dunia, to hol dunia**  
+**de hol dunia, to hol dunia**  
 – from the whole world, for the whole world
