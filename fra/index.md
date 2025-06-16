@@ -26,11 +26,10 @@ Quelques traits remarquables du pandunia :
 
 ## Ressources pour apprendre
 
-- [L'essentiel](B02_nutshell.md) en une seule page
+- [L'essentiel](I-suma.md) en une seule page
 - [Grammaire complète](pan.pdf) dans un fichier PDF
-- [Leçon en dialogues](K00_kurse.md)
+- [Leçon en dialogues](K-kurse.md)
 - [Flashcards et quiz](https://lingopolo.org/pandunia/) sur le site de Lingopolo (en anglais)
-- [Petits cours en images](http://www.pandunia.info/pandunia/mini_xula.html)
 - [Recueil d’expressions](B03_baze_jumla.md)
 - Dictionnaire [français → pandunia](fra-pandunia.md)
 - Dictionnaire [pandunia → français](pandunia-fra.md)

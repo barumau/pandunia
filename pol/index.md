@@ -29,11 +29,10 @@ Niektóre zauważalne cechy Panduni:
 
 ## Materiały do nauki
 
-- [Mini lekcje z obrazkami](http://www.pandunia.info/pandunia/mini_xula.html)
 - [Kompletna gramatyka](pan.pdf) w pliku PDF
 - [Rozmówki](B03_baze_jumla.md)
-- [Lekcje z Dialogami](K00_kurse.md)
-- [Gramatyka](B01_baze_kanun.md)
+- [Lekcje z Dialogami](K-kurse.md)
+- [Gramatyka](G-baze.md)
 
 - [Słownik z możliwością wyszukiwania](../lexia/index.html?d=pol)
 - słownik [polski-Pandunia](pol-pandunia.md)
@@ -42,7 +41,7 @@ Niektóre zauważalne cechy Panduni:
 
 ## Artykuły
 
-- [Pandunia - nowy międzynarodowy język](I01_ration.md)
+- [Pandunia - nowy międzynarodowy język](I-idea.md)
 - [Prezentacja w formacie PDF (ang.)](http://www.pandunia.info/engli/Pandunia-presentation.pdf)
 - [Pandunia, globalny język kontaktowy (ang.)](http://www.pandunia.info/makal/Pandunia_in_Interlinguistica_Tartuensis_10.pdf) (artykuł w Interlinguistica Tartuensis 10)
 

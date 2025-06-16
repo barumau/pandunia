@@ -15,8 +15,8 @@ max_dataje_nam() {
 
 fa_dataje_liste() {
     max_dataje_nam $1/000_dake.md
-    max_dataje_nam $1/I01_ration.md
-    max_dataje_nam $1/100_baze_kanun.md
+    max_dataje_nam $1/I-idea.md
+    max_dataje_nam $1/G-baze.md
     max_dataje_nam $1/G-ABC.md
     max_dataje_nam $1/G-PoS.md
     max_dataje_nam $1/G-N.md
@@ -27,7 +27,7 @@ fa_dataje_liste() {
     max_dataje_nam $1/G-PP.md
     max_dataje_nam $1/G-P.md
     max_dataje_nam $1/G-AFX.md
-    max_dataje_nam $1/K00_kurse.md
+    max_dataje_nam $1/K-kurse.md
 }
 
 fa_pan_md() {

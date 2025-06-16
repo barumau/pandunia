@@ -4,7 +4,7 @@
 
 Ideas for Pandunia were formed in an inspiring environment.
 Risto, the initiator of Pandunia, worked and exchanged ideas with other people
-who are interested in languages.
+who were interested in constructed languages.
 He participated in forums like
 the [AUXLANG](https://listserv.brown.edu/cgi-bin/wa?A0=AUXLANG) mailing list
 and the [Auxlangs](https://www.reddit.com/r/auxlangs/) bulletin board in Reddit.
@@ -77,7 +77,7 @@ that would level the playing field for international and multicultural communica
 
 ## Pandunia in Wikipedia
 
-Here are the creation years of the Wikipedia articles about Pandunia.
+These are the creation years of the Wikipedia articles about Pandunia.
 
 - 2008 [Esperanto](https://eo.wikipedia.org/wiki/Pandunia)
 - 2016 [Farsi](https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D9%86%D8%AF%D9%88%D9%86%DB%8C%D8%A7)

@@ -24,12 +24,11 @@ hide:
 
 ## 学習資料
 
-- [基本](B02_nutshell.md) 初心者向けに短くまとめられています。
-- [対話形式のレッスン](201_shula.md)
+- [基本](I-suma.md) 初心者向けに短くまとめられています。
+- [対話形式のレッスン](K-kurse.md)
 - [単語帳形式の学習とクイズ](https://lingopolo.org/pandunia/) Lingopolo を利用しています。
-- [絵を用いたミニレッスン](http://www.pandunia.info/pandunia/mini_xula.html)
 - [フレーズ集](B03_baze_jumla.md)
-- [つづり](G-ABC.md) と [文法](B01_baze_kanun.md)
+- [つづり](G-ABC.md) と [文法](G-baze.md)
 
 - [検索可能な辞書](../lexia/index.html?d=jpn)
 <!-- - [日本語→パンドゥニア](jpn-pandunia.md) 辞書 -->
