@@ -7,13 +7,13 @@ Määrite on sana, joka muokkaa tai tarkentaa toisen sanan merkitystä, esim. hy
 
 Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Panduniassa adjektiivit ovat yleensä pääsanaa ennen.
 
-**un _nove_ karo**
+**un _nove_ gar**
 – uusi auto  
-**un _rapid_ karo**
+**un _rapid_ gar**
 – nopea auto  
-**meni _dai_ meza**
+**multi _dai_ meza**
 – isoja pöytiä  
-**meni _gau_ meza**
+**multi _gau_ meza**
 – korkeita pöytiä  
 **un _gud_ jen**
 – hyvä ihminen
@@ -23,14 +23,14 @@ Monesti tällainen rakenne on luettavissa kokonaisena virkkeenä, jossa ei ole k
 
 **da – nove.** ~ **da es nove.**
 – Se on uusi.  
-**kar – nove.** ~ **kar es nove.**
+**gar – nove.** ~ **gar es nove.**
 – Auto on uusi.  
 **bagre – rapid.** ~ **bagre es rapid.**
 – Tiikeri on nopea.
 
 Luonnollisesti laatusanoja voi olla substantiivin kummallakin puolella.
 
-**nove kar – rapid.** ~ **nove kar es rapid.**
+**nove gar – rapid.** ~ **nove gar es rapid.**
 = Uusi auto on nopea.
 
 
@@ -40,7 +40,7 @@ Adverbi määrittää teonsanaa, adjektiivia tai toista adverbia.
 
 Tavan adverbi on verbin edellä.
 
-**tu _rapid_ loga.**
+**tu _rapid_ logu.**
 – Sinä _nopeasti_ puhut.  
 **di jen _gud_ kitab.**
 – He _hyvin_ kirjoittavat.
@@ -76,7 +76,7 @@ Asteen määritteet kertovat laadun voimakkuudesta.
 – paljon, sangen, hyvin  
 **bas**
 – tarpeeksi, kyllin  
-**mor**
+**max**
 – enemmän  
 **les**
 – vähemmän
@@ -96,15 +96,15 @@ Yhdysadverbi pannaan määrittelemänsä verbin edelle.
 
 **ver much**
 – hyvin paljon  
-**mi _ver much_ van loga.**
+**mi _ver much_ van logu.**
 – Minä _todella paljon_ haluan puhua.  
-**mi van _ver much_ loga.**
+**mi van _ver much_ logu.**
 – Minä haluan _todella paljon_ puhua.
 
 Yhdysadverbin voi myös panna lauseen loppuun,
 jolloin se määrittää lausetta kokonaisuutena.
 
-**mi van loga _ver much_.**
+**mi van logu _ver much_.**
 – Haluan puhua todella paljon.  
 **sual tu sona _bas gud_?**
 – Nukuitko tarpeeksi hyvin?
@@ -114,25 +114,25 @@ jolloin se määrittää lausetta kokonaisuutena.
 
 Sekä adjektiiveja että adverbeja voi verrata.
 
-**mor**
+**max**
 'enemmän, -mpi'  
-**mor... dan hol**
-'kaikista eniten'  
-**les**
+**maxim**
+'eniten'  
+**min**
 'vähemmän'  
-**les... dan hol**
-'kaikista vähiten'  
+**minim**
+'vähiten'  
 **sim**
 'yhtä'
 
 Apusana
-**dan**
+**ka**
 suhteuttaa vertailevan adverbin vertailtavaan asiaan.
 
-**aple es mor gud dan aranja.**
+**aple es max bon ka oranje.**
 – Omenat ovat parempia kuin appelsiinit.  
-**aranja es les gud dan aple.**
+**oranje es min bon ka aple.**
 – Appelsiinit ovat vähemmän hyviä kuin omenat.  
-**tu loga sim gud dan mi.**
+**tu logu sim bon ka mi.**
 – Sinä puhut yhtä hyvin kuin minä.
 

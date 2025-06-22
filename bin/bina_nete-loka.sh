@@ -28,8 +28,8 @@ bina_pan() {
     bina_neteloka pol
     bina_neteloka por
     bina_neteloka rus
-    bina_neteloka suomi
-    bina_neteloka tai
+    bina_neteloka fin
+    bina_neteloka tha
 }
 
 bina_pan

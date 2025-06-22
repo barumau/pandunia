@@ -92,5 +92,5 @@ Puoi contattare il creatore e principale sviluppatore del pandunia, Risto Kupsal
 
 ![](http://www.pandunia.info/grafe/bandir.png "La bandiera del pandunia")
 
-**de pan dunia, to pan dunia**  
+**ze hol dunia, do hol dunia**  
 – dal mondo intero, per il mondo intero

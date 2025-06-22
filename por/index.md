@@ -33,5 +33,5 @@ Contato: risto@pandunia.info
 
 ![](http://www.pandunia.info/grafe/bandera.png "Bandeira de Pandunia")
 
-**de pan dunia, to pan dunia**  
+**ze hol dunia, do hol dunia**  
 – do mundo inteiro para o mundo inteiro

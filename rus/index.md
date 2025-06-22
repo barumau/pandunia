@@ -36,7 +36,7 @@ hide:
 
 ## Как учить Пандунийский?
 
-- [Уроки с диалогами](K00_kurse.md)
+- [Уроки с диалогами](K-kurse.md)
 - [Мини-уроки с картинками](http://www.pandunia.info/pandunia/mini_xula.html)
 - [Полная грамматика Пандунийского](pan.pdf) в формате PDF
 - [Словарь с возможностью поиска](../lexia/index.html?d=rus)
@@ -85,7 +85,7 @@ hide:
 Пожалуйста, помогите [перевести этот сайт](trabasha_neteloka.md)!
 -->
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "vi bashe pandunia!")  
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxe pandunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 Вы можете связаться с создателем и главным разработчиком Пандунийского, Ристо Купсала, по электронной почте:
@@ -95,5 +95,5 @@ hide:
 
 ![](http://www.pandunia.info/grafe/bandera.png "Флаг Пандунии")
 
-**of hol dunia, to hol dunia**  
+**ze hol dunia, do hol dunia**  
 – от всего мира, для всего мира.

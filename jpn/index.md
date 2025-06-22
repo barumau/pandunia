@@ -6,8 +6,6 @@ hide:
 
 # パンドゥニア - シンプルな国際語
 
-![](http://www.pandunia.info/grafe/bandera.png "The flag of Pandunia")
-
 ## パンドゥニアとは?
 
 パンドゥニアは国際補助語です。
@@ -56,3 +54,9 @@ hide:
 パンドゥニアの制作者である Risto Kupsala にはEメール
 [risto@pandunia.info](mailto:risto@pandunia.info) または前述のフォーラムで
 連絡できます。
+
+
+![](http://www.pandunia.info/grafe/bandera.png "パンドゥニアの旗")
+
+**ze hol dunia, do hol dunia**  
+– 全世界から、全世界のために

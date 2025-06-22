@@ -32,7 +32,7 @@ ekz. por rezervi hotelĉambron, akiri taksion, aĉeti memoraĵojn, kaj fari mult
 
 Pandunia estas multe pli simpla por lerni ol la angla kaj aliaj naturaj internaciaj lingvoj ĉar ĝi estas regula kaj simpla.
 Ĝi ne enhavas nenecesajn regulojn, _kiujn vi nur devus scii_.
-Pandunia estas tiom simpla, ke ĝi baze enhavas [nur dek regulojn](B01_baze_kanun.md).
+Pandunia estas tiom simpla, ke ĝi baze enhavas [nur dek regulojn](G-baze.md).
 Ĉiuj povas lerni Pandunian ĝis bona nivelo en mallonga tempo!
 Pandunia estus bonega internacia lingvo ĉar ĝi povus plibonigi internacian komunikadon tra la mondo.
 Estus pli bone paroli bonan Pandunian ol malbonan anglan.
@@ -165,5 +165,5 @@ menciitaj ret-lokoj.
 
 ![](http://www.pandunia.info/grafe/bandera.png "flago de Pandunia")
 
-**of hol dunia, to hol dunia**  
+**ze hol dunia, do hol dunia**  
 – de la tuta mondo, por la tuta mondo

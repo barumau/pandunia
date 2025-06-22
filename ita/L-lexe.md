@@ -154,7 +154,7 @@ No. → Si usa il seguente criterio di selezione.
     - Se non ci sono parole interculturali, si seleziona quella che è conosciuta dal maggior numero di parlanti nativi.
 4. Si seleziona una forma per la parola che rappresenti bene il gruppo e che si adatti bene al pandunia.
     - Elimina prefissi e suffissi inutili.
-    - Usa [i suoni, lo spelling e la struttura lessicale normale](102_ABC.md) del pandunia.
+    - Usa [i suoni, lo spelling e la struttura lessicale normale](G-ABC.md) del pandunia.
     - Assicurati che la nuova parola non sia identica o troppo simile ad altre parole già esistenti in pandunia.
 
 Normalmente una parola compare in almeno due fonti linguistiche.

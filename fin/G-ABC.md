@@ -13,7 +13,7 @@ Panduniaa kirjoitetaan tavallisilla latinalaisilla aakkosilla.
 Sen kirjoittamiseen ei käytetä mitään tarkemerkittyjä kirjaimia, jotka muutenkin vaihtelevat kielestä toiseen.
 Niinpä sitä voi kirjoittaa ja tulostaa kaikilla kirjoituskoneilla, tietokoneilla ja muilla älylaitteilla ilman mitään erikoisjärjestelyjä.
 
-> A B Ch D E F G H I J K L M N O P R S Sh T U V X Y Z
+> A B C D E F G H I J K L M N O P R S T U V X Y Z
 
 ## Äänteet
 
@@ -24,8 +24,8 @@ Pandunian koko äänteistö esitetään ääntöpaikan ja -tavan mukaan jaoteltu
 
 |                    | Huulet |Hammasvalli|Kitalaki|Kitapurje|Äänirako |
 |:-------------------|:-------:|:-------:|:-------:|:-------:|:-------:|
-| **Umpiäänteet**    | b p     | t d     | ch j    | k g     |         |
-| **Hankausäänteet** | f       | s z     | sh      |         | h       |
+| **Umpiäänteet**    | b p     | t d     | c j     | k g     |         |
+| **Hankausäänteet** | f       | s z     | x       |         | h       |
 | **Nenä-äänteet**   | m       | n       |         | ng      |         |
 | **Laideäänne**     |         | l       |         |         |         |
 | **Täryäänne**      |         | r       |         |         |         |
@@ -52,8 +52,8 @@ Seuraavassa luetellaan ne kaikki.
 Vain niiden konsonanttien ääntämiseestä kerrotaan tarkemmin, jotka äännetään eri tavalla kuin suomessa.
 
 - **b** = [b]
-- **ch** = [tʃ]  
-  _Ch_ äännetään kuten _tš_ sanassa _tšekki_.
+- **c** = [tʃ]  
+  _C_ äännetään kuten _tš_ sanassa _tšekki_.
 - **d** = [d]
 - **f** = [f]
 - **g** = [g]  
@@ -78,17 +78,13 @@ Vain niiden konsonanttien ääntämiseestä kerrotaan tarkemmin, jotka äännet�
   Ääntämistavan saa valita omien tottumustensa mukaan.
 - **s** = [s]  
   *S* on terävämpi kuin suomen *s*, jotta se erottuisi selvästi *sh*:sta.
-- **sh** = [ʃ]  
-  *Sh* äännetään kuten *š* sanassa *šokki* tai kuten *sh* sanassa *shakki*.
 - **t** = [tʰ] ~ [t]  
   *T* äännetään ponnekkaan henkäyksen saattelemana.
 - **v** = [w] ~ [ʋ] ~ [v]  
   *V* äännetään kuin suomen _v_ tai kuin lyhyt _u_.
-- **x** = [ks] ~ [s]  
-  *X* äännetään *ks*, kun se on vokaalien välissä.
-  Esim. **maxim** äännetään /maksim/.
-  Muissa asemissa sen voi ääntää *s*:nä,
-  esim. **max** /mas/, **xenon** /senon/.
+- **x** = [ʃ]  
+  *X* äännetään kuten *š* sanassa *šokki* tai kuten *sh* sanassa *shakki*.
+  Esim. **maxim** äännetään /maʃim/.
 - **y** = [j]  
   _Y_ äännetään kuten suomen _j_.
 - **z** = [z] ~ [dz]  
@@ -120,11 +116,11 @@ Esimerkkejä:
 - **bala** /bála/, **muzike** /muzíke/, **arabe** /arábe/
 - **dunia** /dúnia/, **arabia** /arábia/
 
-     dunia es vi se mei planeta.  
-    /dúnia és ví se méi planéta./
+     dunia es mimen su mei planeta.  
+    /dúnia és mímen su méi planéta./
 
-     mi van loga komun bashe, da es pandunia.  
-    /mí ván lóga komún báshe, dá és pandúnia./
+     mi vol logu komun baxe, da es pandunia.  
+    /mí vól lógu komún báʃe, dá és pandúnia./
 
 
 ## Aakkoslajit
@@ -164,8 +160,8 @@ Esim. bin, ka-fe, yu-mor, pos-te.
 
 Epämuodollisessa tekstissä voi käyttää hyömiöitä ja hymiömerkkejä tunnetilan ilmaisemiseen. Esimerkiksi **:)** ilmaisee iloa ja **:(** ilmaisee surua.
 
-**mi love yu :)**
-= Minä rakastan sinua.  
-**yu no love mi :(**
-= Sinä et rakasta minua.
+**mi love tu :)**
+– Minä rakastan sinua.  
+**tu no love mi :(**
+– Sinä et rakasta minua.
 

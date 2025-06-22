@@ -1,9 +1,9 @@
 site_name: Pandunian kieli
-site_url: http://www.pandunia.info/suomi
+site_url: http://www.pandunia.info/fin
 repo_url: https://github.com/barumau/pandunia/
 site_author: Risto Kupsala
-docs_dir: ../../suomi
-site_dir: ../../html/suomi
+docs_dir: ../../fin
+site_dir: ../../html/fin
 use_directory_urls: false
 theme:
   name: material

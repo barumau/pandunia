@@ -34,7 +34,7 @@ sellaisiin käytännön asioihin kuin hotellihuoneen hankkimiseen, taksin tilaam
 Pandunia on säännöllinen ja yksinkertainen.
 Sen vuoksi sitä on paljon helpompi ja nopeampi oppia kuin englantia ja muita kansallisia kieliä.
 Panduniassa ei ole poikkeuksia eikä monimutkaisia kielioppisääntöjä.
-Pandunia on niin helppoa, että sen kieliopin perusteiden luettelemiseen tarvitaan [vain kymmenen sääntöä](B01_baze_kanun.md).
+Pandunia on niin helppoa, että sen kieliopin perusteiden luettelemiseen tarvitaan [vain kymmenen sääntöä](G-baze.md).
 Kaikki voivat oppia pandunian perusteet lyhyessä ajassa!
 Se on erinomainen valinta kansainväliseksi vieraaksi kieleksi, koska se parantaisi kansainvälisen viestinnän laatua.
 On parempi puhua hyvää panduniaa kuin huonoa englantia.
@@ -46,21 +46,18 @@ A B C Ch D E F G H I J K L M N O P R S Sh T U V X Y Z
 
 Kaikki paitsi alla olevat kirjaimet äännetään niin kuin suomessa:
 
-- **c** äännetään kuten _ts_ sanassa _metsä_.
-- **sh** äännetään kuten _sh_ sanassa _shakki_.
-- **ch** äännetään kuten _tsh_ sanassa _tshekki_.
-- **j** on edellisen soinnillinen vastine eli se ääntyy kuten nimessä _Jack_.
+- **c** äännetään kuten _tš_ sanassa _tšekki_.
+- **j** on edellisen soinnillinen vastine eli se ääntyy *dž* sanassa *radža* tai kuten *j* englantilaisessa nimessä _Jack_.
 - **y** äännetään kuten suomen *j*.
 
 Vokaalit äännetään kuten suomessa.
-Painottomissa tavuissa kirjain **e** voidaan ääntää keskisenä vokaalina /ə/.
 
 Panduniaa kirjoitetaan lähes äänteenmukaisesti.
 Yksi äänne = yksi kirjain tai kirjainyhdistelmä.
 
 Lyhyissä sanoissa painotetaan ensimmäistä tavua ja pitemmissä sanoissa toista tavua.  
-**méni pérson kén tólke da Énglish in Amérika.**
-– Monet ihmiset osaavat puhua englantia Amerikassa.
+**múlti hóm kán báxe pandúnia.**
+– Monet ihmiset osaavat puhua panduniaa.
 
 Kaikki pandunian sanat ovat taipumattomia.
 Sanoja ei siis taivuteta lainkaan persoona-, aika-, tapa- tai sijamuodoissa eikä edes monikossa.
@@ -81,57 +78,58 @@ Yksikkö ja monikko ilmaistaan lukusanoilla tarpeen mukaan.
 – kirja tai kirjoja  
 - **un buk**
   – (yksi) kirja;
-- **due buk**
+**du buk**
   – kaksi kirjaa;
 - **tri buk**
   – kolme kirjaa;
-- **meni buk**
+**multi buk**
   – monta kirjaa
 
 Adjektiiveja ja adverbeja vertaillaan sanoilla:
-**mor**
+**max**
 – enemmän, -mpi;
-**les**
+**min**
 – vähemmän;
-**dan**
+**ka**
 – kuin; ja
-**as**
-– yhtä...kuin.
+**sim**
+– yhtä.
 
-**mi es mor gud dan yu.**
+**mi es max bon ka tu.**
 – Minä olen parempi (_enemmän hyvä_) kuin sinä.  
-**no, mi es as gud as yu.**
-– Ei, minä olen yhtä hyvä kuin sinä.  
-**da bi tok mor rapid dan yu.**
+**no, tu es sim bon ka mi.**
+– Ei, sinä olet yhtä hyvä kuin minä.  
+**da logu max rapid ka tu.**
 – Hän puhuu nopeammin (_enemmän nopeasti_) kuin sinä.
 
 Aika ilmaistaan apusanoilla:
-**did**
+**pas**
 – mennyt tapahtuma  
 **vil**
 – tuleva tapahtuma  
-**ha**
+**hav**
 – päättynyt mutta yhä tähän hetkeen vaikuttava tapahtuma  
-**bi**
+**zai**
 – meneillään oleva tapahtuma
 
-**di did ride mi's buk.**
+**damen pas lese mi su buk.**
 – He lukivat minun kirjaa.  
-**vi hav ride meni buk.**
+**mimen hav lese multi buk.**
 – Me olemme lukeneet monta kirjaa.  
-**mi bi ride un buk.**
+**mi zai lese un buk.**
 – Minä olen lukemassa yhtä kirjaa.  
-**yu vil tok Pandunia.**
-– Te tulette puhumaan panduniaa.
+**tu vil baxe Pandunia.**
+– Sinä tulet puhumaan panduniaa.
 
 Lauseenloppuisilla pikkusanoilla ilmaistaan, minkä vuoksi lause on sanottu,
 esim. onko se toteamus, kysymys vai käsky.  
-**yu love kafe, he?**
+**tu love kafe, he?**
 – Sinä rakastat kahvia, mitä? (kysymys)  
-**yu love kafe, ya.**
+**tu love kafe, ya.**
 – Sinä rakastat kahvia kyllä. (toteamus)  
-**yu love kafe, ne.**
+**tu love kafe, ne?**
 – Sinä rakastat kahvia, vai... (ehdotus)
+
 
 ## Käytä sitä!
 
@@ -154,7 +152,8 @@ Pandunian puhujia on useilla keskustelukanavilla internetissä.
 - [Discord-palvelin](https://discord.gg/jf5GHcHXKk)
 - Redditin [r/pandunia](https://www.reddit.com/r/pandunia/)-palsta
 - Facebookin [Pandunia-ryhmä](http://www.facebook.com/groups/pandunia)
-- Telegramin [vi tok pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) Täällä puhutaan vain panduniaa!
+- Telegramin [panduniankielinen kanava](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
+  Täällä puhutaan vain panduniaa!
 - Telegramin [monikielinen kanava](https://t.me/pandunia_grupe)
 - QQ 717549404: Keskustelua kiinaksi ja muilla kielillä.
 
@@ -173,5 +172,5 @@ Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@p
 
 ![](http://www.pandunia.info/grafe/bandera.png "pandunian lippu")
 
-**of hol dunia, to hol dunia**  
+**ze hol dunia, do hol dunia**  
 – koko maailmalta, koko maailmalle

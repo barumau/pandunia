@@ -31,7 +31,7 @@ para pedir una habitación de un hotel, para pedir un taxi, para comprar regalos
 Pandunia es regular y simple.
 Entonces podrá ser aprendido mucho más fácil y rápido que el Inglés u otros idiomas nacionales.
 No existen excepciones gramaticales ni reglas complicadas en Pandunía.
-Pandunía es tan simple que su gramática básica se puede describir en [tan solo diez reglas](B01_baze_kanun.md).
+Pandunía es tan simple que su gramática básica se puede describir en [tan solo diez reglas](G-baze.md).
 ¡Cualquiera puede aprender Pandunía en poco tiempo!
 Pandunia puede ler una excelente elección como segundo lenguaje global
 porque esto podría mejorar la calidad de la comunicación internacional. 
@@ -181,5 +181,5 @@ lugares anteriormente citados.
 
 ![](http://www.pandunia.info/grafe/bandera.png "La bandera di Pandunia")
 
-**de hol dunia, to hol dunia**  
+**ze hol dunia, do hol dunia**  
 – de todo el mundo para todo el mundo

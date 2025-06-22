@@ -32,7 +32,7 @@ to get a hotel room, to order a taxi, to buy souvenirs and to do many other thin
 Pandunia is regular and simple.
 Therefore it can be learned much easier and faster than English and other national languages.
 There aren't any grammatical exceptions or complex rules in Pandunia.
-Pandunia is so simple that its basic grammar can be described in [only ten rules](B01_baze_kanun.md).
+Pandunia is so simple that its basic grammar can be described in [only ten rules](G-baze.md).
 Everybody can learn Pandunia to a good level in a short period of time!
 Pandunia would be an excellent choice for the global second language
 because it can improve the quality of international communication.
@@ -57,8 +57,8 @@ One sound = one letter.
 
 The stress is on that syllable that is before the last consonant of the root word.
 Prefixes and suffixes are either unstressed or they may carry a secondary stress.  
-**méni hóm kán básh Englísh in Amérika.**
-– Many people can speak English in America.
+**múlti hóm kán báxe pandúnia.**
+– Many people can speak Pandunia.
 
 Words stay always the same in Pandunia.
 There aren't any special _inflected_ forms for cases, tenses, moods, singular and plural etc.
@@ -166,9 +166,9 @@ Find Pandunia speakers near you in [Amikumu](https://amikumu.com/) app!
   [Pandunia lexe a dunia karte](http://www.pandunia.info/lexikarta/index.html)
   pages to see where every Pandunia word is from on a world map.
 - [Stories in Pandunia](https://www.pandunia.info/kitabe)
-- [Counting in Pandunia](https://www.languagesandnumbers.com/how-to-count-in-pandunia/en/panglobish/) in _Of Languages and Numbers_
+- [Counting in Pandunia](https://www.languagesandnumbers.com/how-to-count-in-pandunia/en/pandunia/) in _Of Languages and Numbers_
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "vi tok pandunia!")  
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxe pandunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 You can contact the creator and a main developer of Pandunia, Risto Kupsala, via email
@@ -178,5 +178,5 @@ You can contact the creator and a main developer of Pandunia, Risto Kupsala, via
 
 ![](http://www.pandunia.info/grafe/bandera.png "The flag of Pandunia")
 
-**de hol dunia, to hol dunia**  
+**ze hol dunia, do hol dunia**  
 – from the whole world, for the whole world
