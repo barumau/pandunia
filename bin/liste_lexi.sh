@@ -1,55 +1,32 @@
-fata_lista_pandunia_X() {
-    lexilista="$2/pandunia-$2.md"
-    #echo "kitabe $lexilista"
-    #pandunia ($2) a 1:me
-	# strute:                                        **lexe**     *n*      translated word
-    cat ../panlexia/lexia.csv | awk -F "|" "{print \"**\"\$2 \"** *\"\$3\"* \" \$$1 \"  \"}" > $lexilista
-    #mata 1:me line
-    sed -i '1d' $lexilista
-    # ABC nam to title a line xure
-    sed -i 's/^\*\*[A-Z]\*\* \*\* .*$/\n##&\n/' $lexilista
-    # mute "**A** ** A" to "A"
-    sed 's/#\*\*[A-Z]\*\* \*\*/#/g' -i $lexilista
-    #Delete empty translations
-    sed -i '/-...$/d' $lexilista
-    sed -i '/\*  $/d' $lexilista
-	
-	kitaba_Tiddly $2
-	
-    #kitabe la name e la preloge
-    headername="$2/pandunia-$2.preloge.txt"
-    if test -f "$headername"; then
-       echo "$headername exists"
-       cat $headername $lexilista > temp/temp.txt
-       mv temp/temp.txt $lexilista
-    else
-       echo "$headername doesn't exist. Writing default heading."
-       sed -i "1s/^/# pandunia–$3\n/" $lexilista
-    fi
+kopi_lexe_liste() {
+    pandunia_x="../panlexia/generated/pandunia-$1.md"
+    x_pandunia="../panlexia/generated/$1-pandunia.md"
+    cp $pandunia_x $1
+    cp $x_pandunia $1
 }
 
-fata_lista_X_pandunia() {
-    #ale lingue a 1:me
-    lexilista="$2/$2-pandunia.md"
-    #echo "kitabe $lexilista"
-    #cat ../panlexia/lexia.csv | awk -F "|" "{print \$$1 \" - \" \$2 \"  \"}" > $lexilista
-	# strute:                                        **lexe**     *n*      translated word
-	cat ../panlexia/lexia.csv | awk -F "|" "{print \"**\"\$$1 \"** *\"\$3\"* \" \$2 \"  \"}" > $lexilista
-    #mata 1:me line
-    sed -i '1d' $lexilista
-    # alfabeta
-    cat $2/$2-pandunia.md | LC_ALL=C sort -f > temp/temp.txt
-    # ABC nam to title a line xure
-    cat temp/temp.txt | sed 's/^\*\*[A-Z]\*\* \*\* .*$/\n##&\n/' > $lexilista
-    # mute "**A** ** A" to "A"
-    sed 's/#\*\*[A-Z]\*\* \*\*/#/g' -i $lexilista
-    #Add header
-    sed -i "1s/^/# $3–pandunia\n/" $lexilista
-    #Delete empty translations
-    sed -i '/\*\*\*\*/d' $lexilista
-	sed -i '/\*\*--/d' $lexilista
-    #Delete bullets
-    sed 's/• //g' -i $lexilista
+kopi_lexe_liste_kon_altre_nim() {
+    pandunia_x="../panlexia/generated/pandunia-$1.md"
+    x_pandunia="../panlexia/generated/$1-pandunia.md"
+    cp $pandunia_x $2
+    cp $x_pandunia $2
+}
+
+kopi_data_do_lexia() {
+    cp ../panlexia/generated/arb-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/cmn-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/deu-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/eng-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/epo-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/fas-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/fin-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/fra-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/jpn-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/por-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/pol-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/rus-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/spa-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/tha-pandunia.csv ./html/lexia/data
 }
 
 fa_lexi_asal_lista() {
@@ -85,15 +62,6 @@ fata_lexi_asal() {
     cat pandunia/loge_asle_supre.md temp/lexi.txt > pandunia/leksaslia.md
     #Delete empty translations
     sed -i '/||/d' pandunia/leksaslia.md
-}
-
-
-kitaba_Tiddly() {
-    cp $1/pandunia-$1.md temp/temp.txt
-    sed 's/_//g' -i temp/temp.txt
-    #mata 1:me line
-    sed -i '1d' temp/temp.txt
-    cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > $1/tiddly.html
 }
 
 trabaxa_lexi_asal_to_english() {
@@ -151,7 +119,7 @@ trabaxa_lexi_asal_to_english() {
 }
 
 trabaxa_lexi_asal_to_suomi() {
-    cd suomi
+    cd fin
     sed 's/amh:/amhara:/' -i leksaslia.md
     sed 's/ara:/arabia:/' -i leksaslia.md
     sed 's/ben:/bangla:/' -i leksaslia.md
@@ -259,53 +227,43 @@ trabaxa_lexi_asal_to_esperanto() {
 }
 
 
-#dos2unix ../panlexia/lexia.csv
-sed 's/\t/|/g' -i ../panlexia/lexia.csv
 
-# english i pandunia
-fata_lista 7 eng English
-trabaxa_lexi_asal_to_english
+# english e pandunia
+kopi_lexe_liste eng
+#trabaxa_lexi_asal_to_english
 
-#Tiddly dictionary
-#kitaba_Tiddly eng
+# esperanto e pandunia
+kopi_lexe_liste epo
 
-# esperanto i pandunia
-fata_lista 28 epo esperanto
-trabaxa_lexi_asal_to_esperanto
+# suomi e pandunia
+kopi_lexe_liste fin
+#trabaxa_lexi_asal_to_suomi
 
-# suomi i pandunia
-fata_lista 29 suomi suomi
-trabaxa_lexi_asal_to_suomi
+# polski e pandunia
+kopi_lexe_liste pol
 
-# polski i pandunia
-fata_lista 30 pol polski
+# putonghan e pandunia
+kopi_lexe_liste_kon_altre_nim cmn zho
 
-# Tiddly polski i pandunia
-#kitaba_Tiddly pol
+# nipon e pandunia
+kopi_lexe_liste jpn
 
-# putonghan i pandunia
-fata_lista 23 zho "putong han"
+# malayu e pandunia
+kopi_lexe_liste_kon_altre_nim ind may
 
-# nipon i pandunia
-fata_lista 25 jpn nipon
+# rus e pandunia
+kopi_lexe_liste rus
 
-# malayu i pandunia
-fata_lista 17 may "bahasa malayu"
+# franse e pandunia
+kopi_lexe_liste fra
 
-# rus i pandunia
-fata_lista 12 rus русский
+# espanya e pandunia
+kopi_lexe_liste spa
 
-# franse i pandunia
-fata_lista 9 fra français
-
-#Tiddly franse i pandunia
-kitaba_Tiddly fra
-
-# espanya i pandunia
-fata_lista 10 spa español
-
-# portugal i pandunia
-fata_lista 11 por português
+# portugal e pandunia
+kopi_lexe_liste por
 
 # lexi asal a pandunia baxa
-fata_lexi_asal
+#fata_lexi_asal
+
+kopi_data_do_lexia
