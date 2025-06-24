@@ -40,7 +40,7 @@ sen päälle on asetettu yhtäsuuruusmerkki valkoisella.
 
 Pandunian sanat tulevat kaikkialta maailmasta.
 Vieraile
-[Pandunia lexi a dunia karte](http://www.pandunia.info/lexikarta/index.html)
+[Pandunia lexe na dunia karta](http://www.pandunia.info/lexekarta/index.html)
 -sivustolla nähdäksesi kaikki Pandunian perussanat maailman kartalla.
 
 Yhteisen maailmankielen pitäisi olla sekoitus kaikista maailman kielistä.

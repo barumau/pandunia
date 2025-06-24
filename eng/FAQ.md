@@ -50,7 +50,7 @@ It can be written easily in the smiley-style: `(=)` or `(＝)`.
 Pandunia's words come from all parts of the world.
 Read the [article about world words](L-lexe.md) for more details,
 and see the
-[Pandunia lexe a dunia karte](http://www.pandunia.info/lexekarte/index.html)
+[Pandunia lexe na dunia karta](http://www.pandunia.info/lexekarte/index.html)
 pages to see where every Pandunia word is from on a world map.
 
 In our opinion the world language should be a mix of all languages in the world.

@@ -10,4 +10,4 @@ sh bin/karta_lexi.sh
 
 rm -rf ../html/pandunia
 cp html ../html/pandunia -r
-cp lexikarta ../html/pandunia -r
+cp lexekarta ../html/pandunia -r
