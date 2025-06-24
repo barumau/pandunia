@@ -2,9 +2,7 @@
 
 prepare() {
     lexoliste="temp/lexaslia.csv"
-    cat ../panlexia/dict/P/pandunia.tsv | awk -F "\t" "{print \$3\",\"\$5}" | sort -f > $lexoliste
-    #mortife duime line
-    sed -i '2d' $lexoliste
+    tail +2 ../panlexia/dict/P/pandunia.tsv | awk -F "\t" "{print \$3\",\"\$5}" | sort -f > $lexoliste
     #mortife la hali line –– kon 'whitespace'!
     sed '/,[[:space:]]*$/d' -i $lexoliste
     #mute ', ' a ','
@@ -13,7 +11,7 @@ prepare() {
     sed -i 's/• //' $lexoliste
 }
 
-echo poze la lexe a dunia karte
+echo pozi la lexe na dunia karta
 prepare
 python3 bin/fate_lexokarte.py
 

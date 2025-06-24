@@ -60,8 +60,6 @@ html_karte = '''
 '''
 
 html_tail = '''
-</div>
-
 <p><a href="index.html">🡨 liste</a></p>
 </body>
 </html>
@@ -71,7 +69,8 @@ def kitabe_dataje(row):
     #print(row[0])
     with open('lexekarta/%s.html' % row[0], 'w', encoding = 'utf-8') as dataje:
         dataje.write(html_head_1)
-        dataje.write('  <title>lexekarta: %s</title>\n' % row[0])
+        lexe = row[0]
+        dataje.write('  <title>lexekarta: %s</title>\n' % lexe)
         row.pop(0)
         dataje.write(html_head_2)
         dataje.write(html_karte)
@@ -86,6 +85,9 @@ def kitabe_dataje(row):
                 dataje.write('  <p class="%s">' % fen_fen[i])
                 dataje.write(fen_fen[i])
                 dataje.write(': %s</p>\n' % fen_fen[-1])
+        
+        dataje.write('</div>\n\n')
+        dataje.write('<h1>%s</h1>\n' % lexe)
         dataje.write(html_tail)
 
 with open("temp/lexaslia.csv", 'r') as file:
