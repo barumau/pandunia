@@ -289,7 +289,7 @@ chief, boss
 **halo, cin pa!**
 – Hello, grandfather!  
 <big>☺</big>
-**halo! ples side.**
+**sal! ples side.**
 – Hello! Please sit!  
 <big>☻</big>
 **danke.**
@@ -396,7 +396,7 @@ A command is basically like the request but without the
 – Give (me) some tea!  
 **safi kamre!**
 – Clean the room!  
-**safi hi!**
+**safi da!**
 – Clean it!
 
 
@@ -449,7 +449,7 @@ to eat or drink
 
 ### Answers to the Exercises
 
-1. di yam ca.
+1. da yam ca.
 2. xefe ples da side.
 3. ples yam kafe o ca.
 4. mama ples mi safi kamre.
@@ -549,7 +549,7 @@ Yes/no questions can be answered with
 
 – **sual tu yam supa?**
 = Do you eat soup?  
-– **ye.**
+– **ya.**
 = Yes.  
 – **sual da yam supa?**
 = Does she eat soup?  
@@ -610,18 +610,18 @@ soup
 ten  
 **un**
 one (1)  
-**ye**
+**ya**
 yes
 
 
 ### Answers to the Exercises
 
-1. sual tu bash pandunia?
-2. ye. mi bash pandunia.
+1. sual tu baxe pandunia?
+2. ya. mi baxe pandunia.
 3. sual mama yam kafe?
-4. no. hi no yam kafe.
-5. sual hi yam supa?
-6. (hi) no yam.
+4. no. da no yam kafe.
+5. sual da yam supa?
+6. (da) no yam.
 
 
 --------------------------------------------------------------------------------
@@ -654,11 +654,11 @@ In Pandunia the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
 of the negative word.
 
-**mi cing tu safi kamar.**
+**mi cing tu safi kamre.**
 – I ask you to clean the room.  
-**mi no cing tu safi kamar.**
+**mi no cing tu safi kamre.**
 – I do NOT ask you to clean the room.  
-**mi cing tu no safi kamar.**
+**mi cing tu no safi kamre.**
 – I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
@@ -869,9 +869,9 @@ or until it becomes useful to stress that you are still talking in the same tens
 Any expression of time is good for expressing the tense. When one
 time expression is present, other markers are not needed.
 
-**mi be gene a nen 2003.**
+**mi bi gene a nen 2003.**
 – I was born in 2003.  
-**da safi la kamre a pos den.**
+**da safi kamre a pos den.**
 – He will clean the room tomorrow.
 
 
