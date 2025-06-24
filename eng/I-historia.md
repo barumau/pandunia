@@ -37,9 +37,6 @@ but it was only in 2012 that other people learned Pandunia for the first time.
 Risto recorded a [short video in Pandunia](https://www.youtube.com/watch?v=yfkQrdyfLcQ) in 2013
 to show what Pandunia sounded like then.
 
-![](http://www.pandunia.info/bandir/bandera2016.png "Pandunia flag in 2016")  
-Pandunia flag in 2016
-
 A few more people got interested about Pandunia in 2016,
 and the Pandunia community started to grow slowly.
 Pandunia got more known in 2017
@@ -51,29 +48,50 @@ One year later, Pandunia is mentioned in the
 [Artificial Languages article](https://oxfordre.com/linguistics/view/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-11)
 in the Oxford Research Encyclopedias.
 
-Risto recorded another [short video in Pandunia](https://www.youtube.com/watch?v=TgO8AwX4OCU)
-in 2016 to show how the language had evolved.
-Alex André recorded a [30 day challenge to learn Pandunia](https://twitter.com/XanderLeaDaren/status/1114972322157465612) in 2019.
-This was called the [base version 1 of Pandunia](https://github.com/barumau/pandunia/releases/tag/v1.1)
-and it used word-final vowels for marking word classes in the style of Esperanto.
-However, the language was still evolving, and the
-[second base version](https://github.com/barumau/pandunia/releases/tag/v2.1)
-was published in 2021 and it didn't use the word-class markers anymore.
+## Digressions
 
-![](http://www.pandunia.info/grafe/bandera.png "Pandunia flag in 2018")  
-Pandunia flag in 2018
+Between 2019–2021 there was a digression in the evolution of Pandunia
+that finally lead into a sibling language called [Panlingue](https://www.pandunia.info/panlingue/).
+This branch used word-final vowels for marking word classes in the style of Esperanto.
+
+![](http://www.pandunia.info/bandir/bandera2016.png "Panlingue flag")  
+Panlingue flag (originally the flag for Pandunia in 2016)
+
+Another digression occurred in 2024 with a more European-oriented branch of the language.
+This alternative evolution of Pandunia finally became a separate language called [Panglo](https://www.pandunia.info/panglo/).
+Panglo borrowed the most frequently occurring words from English and other Germanic languages
+in an attempt to become a possible successor for international English
+that was the most widely spoken international language at the time.
+
+    Figure. Tree of evolution of Pandunia.
+    
+            ┌───────────────┐
+            │               │
+            │    PANDUNIA   │
+            │               │
+    4       └───────┰───────┘
+                    ┃
+      ┌────────┐    ┃
+    3 │ Panglo ├────┨
+      └────────┘    ┃
+    2               ┃
+                    ┃   ┌───────────┐
+    1               ┠───┤ Panlingue │
+                    ┃   └───────────┘
+    0               ┃
 
 
 ## Stabilization
 
-The [third and final base version of Pandunia](https://github.com/barumau/pandunia/releases/tag/v.3.0)
-was published in early 2024.
-It combined the best features of the previous versions:
-word derivation system aligned to the international vocabularies and simplified, inflectionless grammar.
-In addition the most frequently occurring words were replaced with those that are resemble English.
-Pandunia had evolved from a creative constructed language into a serious successor for international English
-that would level the playing field for international and multicultural communication.
+![](http://www.pandunia.info/grafe/bandera.png "Pandunia flag since 2018")  
+Pandunia flag since 2018
 
+The [second base version](https://github.com/barumau/pandunia/releases/tag/v2.0) of Pandunia
+was published in 2021.
+It had simplified, inflectionless grammar and evenly global vocabulary.
+The word derivation method in version 2 was isolating (so there was in principle only one morpheme per word).
+Later this was changed to agglutinative style so that Pandunia could take advantage of prefixes and suffixes
+that are common in international words of Greco-Latin and Perso-Arabic origin.
 
 ## Pandunia in Wikipedia
 
@@ -91,4 +109,3 @@ These are the creation years of the Wikipedia articles about Pandunia.
 - 2022 [Spanish](https://es.wikipedia.org/wiki/Pandunia),
        [Basque](https://eu.wikipedia.org/wiki/Pandunia),
        [Italian](https://it.wikipedia.org/wiki/Pandunia)
-
