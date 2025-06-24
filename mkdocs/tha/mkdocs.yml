@@ -1,8 +1,8 @@
 site_name: พันดูเนีย
 site_url: http://www.pandunia.info/tai
 repo_url: https://github.com/barumau/pandunia/
-docs_dir: ../../tai
-site_dir: ../../html/tai
+docs_dir: ../../tha
+site_dir: ../../html/tha
 use_directory_urls: false
 theme:
   name: material
