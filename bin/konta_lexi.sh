@@ -2,15 +2,15 @@
 kitaba_pike() {
    echo "# nume de pandunia lexe de ale bashe" > pandunia/lexi_nume.md
    echo "" >> pandunia/lexi_nume.md
-   echo "| bashe | nume  | fen |" >> pandunia/lexi_nume.md
+   echo "| baxe  | nume  | fen |" >> pandunia/lexi_nume.md
    echo "|-------|-------|-----|" >> pandunia/lexi_nume.md
    cat temp/stats.txt >> pandunia/lexi_nume.md
 }
 
 fata_leksasli_liste() {
-    cat ../panlexia/lexia.csv | cut -d '|' -f 6 > temp/lexasle.txt
-    #Delete empty lines
-    sed -i '/^$/d' temp/lexasle.txt
+    cat ../panlexia/dict/P/pandunia.tsv | cut -f 5 > temp/lexasle.txt
+    #Delete empty lines with only whitespace.
+    sed '/^[[:space:]]*$/d' -i temp/lexasle.txt
 }
 
 konta_bax() {
@@ -19,7 +19,7 @@ konta_bax() {
    #kitaba konte e 100-fen
    percent=$(printf "%.0f" $(echo "scale=2;($bax*100)/$3" | bc))
    echo "$2 $bax $percent%" >> temp/stats.txt
-   echo "$1,$percent" >> temp/logonumbe.csv
+   echo "$1,$percent" >> temp/lexenume.csv
 }
 
 fata_table() {
@@ -34,7 +34,7 @@ fata_table() {
 fata_leksasli_liste
 
 rm temp/stats.txt
-rm temp/logonumbe.csv
+rm temp/lexenume.csv
 pan=$(cat temp/lexasle.txt | grep -c ":" )
 echo "pan $pan 100%" >> temp/stats.txt
 
@@ -69,9 +69,8 @@ perl -pi -e 's/ \n/ /' temp/stats.txt
 
 #ratiba la dayi va lili numbe, ya kolum 2
 sort -rn -k2 temp/stats.txt -o temp/stats.txt
-sort --field-separator=',' --key=2 -rn temp/logonumbe.csv -o temp/logonumbe.csv
+sort --field-separator=',' --key=2 -rn temp/lexenume.csv -o temp/lexenume.csv
 
 fata_table
 
 kitaba_pike
-
