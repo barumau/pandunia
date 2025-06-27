@@ -14,7 +14,7 @@ extra_css:
 nav:
     - 'Ortografía': G-ABC.md
     - 'Pronomes': G-PRO.md
-    - 'Frases básicas': B03_baze_jumla.md
+    - 'Frases básicas': K-fraze.md
     - 'Números': G-NUM.md
     - 'Dicionarios':
         - 'Pandunia-Português': pandunia-por.md

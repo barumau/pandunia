@@ -85,7 +85,7 @@ hide:
 Пожалуйста, помогите [перевести этот сайт](trabasha_neteloka.md)!
 -->
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxe pandunia!")  
+![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "mimen baxe pandunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 Вы можете связаться с создателем и главным разработчиком Пандунийского, Ристо Купсала, по электронной почте:

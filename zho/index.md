@@ -15,7 +15,7 @@ hide:
 - [Telegram的聊天室](https://t.me/pandunia_grupe)
 - [Facebook 社区](http://www.facebook.com/groups/pandunia)
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "vi tok pandunia!")
+![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "mimen baxe pandunia!")
 
 
 本文档不是泛世界语最终版本的最新版本。 有关最准确的信息，请参阅英文版本。

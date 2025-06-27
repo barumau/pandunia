@@ -163,7 +163,7 @@ Panduniaa ei harrasta vielä monikaan,
 mutta jos _sinä_ pidät panduniaa hyvänä ideana, niin myös _muut_ ajattelevat samoin.
 Eli ala käyttämään panduniaa ja tehdään siitä yhdessä maailman yhteinen kieli!
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "vi tok pandunia!")  
+![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "mimen baxe pandunia!")  
 <small>Kuva: [Freepik](http://www.freepik.com)</small>
 
 Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@pandunia.info](mailto:risto@pandunia.info)

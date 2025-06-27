@@ -28,7 +28,7 @@ Niektóre zauważalne cechy Panduni:
 ## Materiały do nauki
 
 - [Kompletna gramatyka](pan.pdf) w pliku PDF
-- [Rozmówki](B03_baze_jumla.md)
+- [Rozmówki](K-fraze.md)
 - [Lekcje z Dialogami](K-kurse.md)
 - [Gramatyka](G-baze.md)
 
@@ -53,7 +53,7 @@ Wielu ludzi już jest zainteresowanych Pandunią i mówi w niej. Znajdziesz fora
 - kanały Telegram: [wielojęzyczny](https://t.me/pandunia_grupe) i [w Panduni](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
 - Znajdź innych użytkowników Panduni w aplikacji [Amikumu](https://amikumu.com/)!
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen basha pandunia!")
+![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "mimen baxe pandunia!")
 
 Możesz skontaktować się z twórcą Panduni, Risto Kupsala, pocztą elektroniczną [risto@pandunia.info](mailto:risto@pandunia.info) oraz na wyżej wymienionych forach.
 

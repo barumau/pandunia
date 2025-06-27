@@ -25,7 +25,7 @@ hide:
 - [基本](I-suma.md) 初心者向けに短くまとめられています。
 - [対話形式のレッスン](K-kurse.md)
 - [単語帳形式の学習とクイズ](https://lingopolo.org/pandunia/) Lingopolo を利用しています。
-- [フレーズ集](B03_baze_jumla.md)
+- [フレーズ集](K-fraze.md)
 - [つづり](G-ABC.md) と [文法](G-baze.md)
 
 - [検索可能な辞書](../lexia/index.html?d=jpn)
@@ -49,7 +49,7 @@ hide:
   言葉を広める!
 <!-- - このサイトの翻訳を[手伝ってください。](tarja_netoloke.md) -->
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen basha pandunia!")
+![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "mimen basha pandunia!")
 
 パンドゥニアの制作者である Risto Kupsala にはEメール
 [risto@pandunia.info](mailto:risto@pandunia.info) または前述のフォーラムで

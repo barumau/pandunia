@@ -145,6 +145,11 @@ languages.
   they tend to create extremely simplified grammar to overcome the language barrier
   — no matter how complex languages they speak natively.
 
+The "family tree" of Pandunia is presented in the figure below.
+
+![](http://www.pandunia.info/grafe/familytree.gif "The family tree of Pandunia")
+
+
 
 #### Who made Pandunia?
 

@@ -82,7 +82,7 @@ Puoi trovare altri parlanti pandunia sull'app di [Amikumu](https://amikumu.com/)
 
 Per favore, aiutaci a [tradurre questo sito](M01_trabashe.md) in altre lingue!
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen bashe pandunia!")  
+![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "mimen baxe pandunia!")  
 <small>Immagine di [Freepik](http://www.freepik.com)</small>
 
 Puoi contattare il creatore e principale sviluppatore del pandunia, Risto Kupsala, via e-mail

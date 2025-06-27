@@ -25,7 +25,7 @@ Nota: Esta documentação não está atualizada com a versão final do Pandunia.
 - [Sala de conversa em Telegram](https://t.me/pandunia_grupe)
 - [Servidor do Discord](https://discord.gg/jf5GHcHXKk)
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")
+![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "mimen baxe pandunia!")
 
 Contato: risto@pandunia.info
 

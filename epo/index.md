@@ -154,7 +154,7 @@ Ne estas multe da parolantoj ankoraŭ
 sed se _vi_ pensas ke Pandunia estas bona ideo, ankaŭ _aliuloj_ pensos same.
 Do komencu uzi Pandunian nun kaj ni faru ĝin nia komuna lingvo!
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "vi tok pandunia!")  
+![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "mimen baxe pandunia!")  
 <small>Bildo de [Freepik](http://www.freepik.com)</small>
 
 Vi povas kontakti la kreinton de pandunio, Risto Kupsala, per la retpoŝta

@@ -30,7 +30,7 @@ Quelques traits remarquables du pandunia :
 - [Grammaire complète](pan.pdf) dans un fichier PDF
 - [Leçon en dialogues](K-kurse.md)
 - [Flashcards et quiz](https://lingopolo.org/pandunia/) sur le site de Lingopolo (en anglais)
-- [Recueil d’expressions](B03_baze_jumla.md)
+- [Recueil d’expressions](K-fraze.md)
 - Dictionnaire [français → pandunia](fra-pandunia.md)
 - Dictionnaire [pandunia → français](pandunia-fra.md)
 - Dictionnaire [étymologique](leksaslia.md) - (consulter la [liste des codes des langues](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes))
@@ -51,7 +51,7 @@ De nombreuses personnes sont déjà intéressées par le pandunia et certaines l
 - QQ channel: 717549404
 - Vous pouvez aider à [traduire ce site](tarja_netoloke.md)
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen bashe pandunia!")
+![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "mimen baxe pandunia!")
 
 Vous pouvez contacter Risto Kupsala, un des créateurs du pandunia, en envoyant un courriel à [risto@pandunia.info](mailto:risto@pandunia.info) et également dans les forums mentionnés précédemment.
 

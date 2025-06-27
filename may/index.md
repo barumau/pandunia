@@ -24,6 +24,6 @@ Dokumentasi ini tidak terkini dengan versi terakhir Pandunia. Lihat versi Bahasa
 - [Facebook](http://www.facebook.com/groups/pandunia)
 - [Telegram](https://t.me/pandunia_grupe)
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")
+![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "mimen baxe pandunia!")
 
 Kontak: risto@pandunia.info

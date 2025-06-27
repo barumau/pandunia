@@ -49,6 +49,6 @@ hide:
 - QQ: 717549404
 - [Pandunia Vikio](http://eo.pandunia.wikia.com/wiki/%C4%88efpa%C4%9Do)
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen basha pandunia!")
+![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "mimen baxe pandunia!")
 
 คุณสามารถติดต่อ Risto Kupsala ผู้ประดิษฐ์ภาษาพันดูเนีย ผ่านทางอีเมลที่ [risto@pandunia.info](mailto:risto@pandunia.info) หรือในที่ที่อยู่ในรายการเครือข่ายชุมชน

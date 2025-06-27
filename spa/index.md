@@ -170,7 +170,7 @@ Puedes encontrarles en varios lugares de internet:
 - [Grupo de Facebook](http://www.facebook.com/groups/pandunia)
 - Canal QQ: 717549404
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")  
+![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "mimen baxe pandunia!")  
 <small>Imagen por [Freepik](http://www.freepik.com)</small>
 
 Puedes contactar mail al creador de Pandunía, Risto Kupsala, en al
