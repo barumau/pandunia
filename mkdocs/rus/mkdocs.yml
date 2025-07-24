@@ -9,6 +9,8 @@ theme:
   language: ru
   logo: logo.png
   favicon: favicon.png
+  palette:
+    primary: blue
   font:
     code: Ubuntu mono
 plugins:

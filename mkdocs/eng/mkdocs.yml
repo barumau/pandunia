@@ -9,6 +9,8 @@ theme:
   name: material
   logo: logo.png
   favicon: favicon.png
+  palette:
+    primary: blue
 extra_css:
   - stile.css
 nav:
@@ -18,7 +20,7 @@ nav:
         - 'World words': L-lexe.md
         - 'Spelling and pronunciation': G-ABC.md
         - 'Word classes': G-PoS.md
-        - 'Pronouns': G-PRN.md
+        - 'Pronouns': G-PRO.md
         - 'Nouns': G-N.md
         - 'Numerals': G-NUM.md
         - 'Modifiers': G-ADJ.md

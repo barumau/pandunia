@@ -10,6 +10,8 @@ theme:
   language: fi
   logo: logo.png
   favicon: favicon.png
+  palette:
+    primary: blue
 extra_css:
   - stile.css
 plugins:

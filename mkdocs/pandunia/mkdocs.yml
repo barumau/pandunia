@@ -9,6 +9,8 @@ theme:
   name: material
   logo: logo.png
   favicon: favicon.png
+  palette:
+    primary: blue
 extra_css:
   - stile.css
 nav:
