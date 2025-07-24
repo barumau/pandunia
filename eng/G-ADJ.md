@@ -1,5 +1,5 @@
 
-# 7. Modifiers
+# Modifiers
 
 A modifier is a word that adds a particular quality or description,
 such as good, bad, big, and fast, to another word.
@@ -23,20 +23,20 @@ B. **tu _mei_ li kitab.**
 
 In Pandunia, "adjectives" are modifiers that are placed before the noun that they modify.
 
-**un _nov_ kar**
+**un _nove_ gar**
 – a _new_ car  
-**un _rapid_ kar**
+**un _rapid_ gar**
 – a _fast_ car  
-**meni _dai_ meza**
+**multi _dai_ meza**
 – _big_ tables  
-**meni _gao_ meza**
+**multi _gao_ meza**
 – high tables  
-**un _gud_ jen**
+**un _hao_ jen**
 – a good person
 
 Two or more modifiers can modify the same noun.
 
-**un lit nov kar**
+**un lit nove gar**
 – a little new car
 
 
@@ -45,9 +45,9 @@ Two or more modifiers can modify the same noun.
 A modifier that modifies a verb
 is placed immediately before the verb.
 
-**tu _rapid_ log.**
+**tu _rapid_ logu.**
 – You talk _fast_.  
-**di jen _gud_ kitab.**
+**damen _hao_ kitab.**
 – They write _well_.
 
 It is common to put the modifying particle
@@ -67,7 +67,7 @@ The particle
 **li**
 is used also when a modifier modifies another one.
 
-**un _dai li_ gud buk**
+**un _dai li_ hao buk**
 – a _greatly_ good book  
 **_bala li_ lovente jen**
 – _strongly_ loving people
@@ -99,20 +99,20 @@ A degree word together with a modifier forms a _compound adverb_
 that can modify a verb or a sentence.
 The compound adverb is placed immediately before the verb that it modifies.
 
-**ver much**
+**ver multi**
 – very much  
-**mi _ver much_ van log.**
+**mi _ver multi_ vol logu.**
 – I want very much to talk.  
-**mi van _ver much_ log.**
+**mi vol _ver multi_ logu.**
 – I want to talk very much.
 
 It is also possible to place the compound adverb very last in the sentence,
 and then it modifies the sentence as a whole.
 The meaning is the same like when the compound adverb modifies the main verb.
 
-**mi van log _ver much_.**
+**mi vol logu _ver multi_.**
 – I want to talk very much.  
-**sual tu sona _bas gud_?**
+**sual tu sona _bas hao_?**
 – Did you sleep well enough?
 
 
@@ -120,25 +120,25 @@ The meaning is the same like when the compound adverb modifies the main verb.
 
 Adjectives can be compared with the adverbs of comparison.
 
-**mor**
-(_more_) indicates comparison of superiority  
-**mor... az hol**
-(_most... of all_) indicates the superlative of superiority  
-**les**
-(_less_) indicates comparison of inferiority  
-**les... az hol**
-(_least... of all_) indicates the superlative of inferiority  
-**sim**
-(_as_ or _equally_) indicates the comparison of equality
+**max**
+('more') indicates comparison of superiority  
+**maxim**
+('most') indicates the superlative of superiority  
+**min**
+('less') indicates comparison of inferiority  
+**minim**
+(_least_) indicates the superlative of inferiority  
+**par**
+('as' or 'equally') indicates the comparison of equality
 
 The particle
-**az**
+**ka**
 relates the adverbs of comparison to the object of comparison.
 
-**aple es mor gud az aranja.**
+**aple es max hao ka aranja.**
 – Apples are better than oranges.  
-**aranja es les gud az aple.**
+**aranja es min hao ka aple.**
 – Oranges are less good than apples.  
-**tu tok sim gud az mi.**
+**tu logu sim hao ka mi.**
 – You talk as well as me.
 

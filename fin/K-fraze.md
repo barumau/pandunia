@@ -52,7 +52,7 @@ Huom! Kappaleissa on monesti tällaisia huomioita ja vinkkejä. Niissä kerrotaa
 **sal yam!**
 – Hyvää ruokahalua!
 
-**sal kom!**
+**sal lai!**
 – Tervetuloa!
 
 **sal go!**
@@ -86,7 +86,7 @@ indonesia *selamat*.</small>
 **danke!**
 – Kiitos!
 
-**meni danke!**
+**poli danke!**
 – Paljon kiitoksia!
 
 **ye, danke.**
@@ -147,7 +147,7 @@ Sana
 on sekä substantiivi että verbi.
 Pandunian normaali sanajärjestys on subjekti–verbi–objekti.
 
-**Sara ye sal Tomas.**
+**Sara ya sal Tomas.**
 – Sara tervehtii Tomasta.
 
 **sal mama!**
@@ -192,30 +192,27 @@ italian *tu*,
 ranskan *tu*.</small>
 
 
-### hi <small>hän, se</small>
+### da <small>hän, se</small>
 
 <p style="font-size:4em;">👥🗣️👉👤</p>
 
-**hi es man.**
+**da es man.**
 – Hän on mies.
 
-**hi es fem.**
+**da es fem.**
 – Hän on nainen.
 
-**hi es aple.**
+**da es aple.**
 – Se on omena.
 
-**hi**
+**da**
 on yleispätevä kolmannen persoonan pronomini, jota käytetään ihmisistä, eläimistä, esineistä ja asioista.
 
-**mi sal hi.**
+**mi sal da.**
 – Minä tervehdin häntä.
 
-<small>Sanan **hi** lähteitä ovat
-englannin *he/him* ♂ & *she/her* ♀,
-heprean הו (hū, ♂) & הי (hī, ♀),
-arabian هُوَ (huwa, ♂) & هِيَ (hiya, ♀),
-maltan *hi* (♀).
+<small>Sanan **da** lähteitä ovat
+yleiskiinan 他/她 (tā).</small>
 
 
 ### sual <small>kysyä</small>
@@ -233,13 +230,13 @@ Itse asiassa äskeinen kysymys on lyhennetty lauseesta
 **mi sual tu es dokter**
 (Minä kysyn: sinä olet lääkäri?), joka on lyhennetty jättämällä ensimmäinen sana pois.
 
-**sual tu gud?**
+**sual tu hao?**
 – Miten voit? (Sananmukaisesti: _Voitko hyvin?_)  
-**mi gud.**
+**mi hao.**
 – Minä voin hyvin.  
 **tu ne?**
 – Entä sinä?  
-**mi no gud.**
+**mi no hao.**
 – Minä en voi hyvin.
 
 <small>Sanan **sual** lähteitä ovat
@@ -249,21 +246,21 @@ malaijin *soal*,
 suahilin *swali*.</small>
 
 
-### ye <small>kyllä</small>
+### ya <small>kyllä</small>
 
 **sual tu es Tomas?**
 – Oletko Tomas?
 
-**ye, mi es Tomas.**
+**ya, mi es Tomas.**
 – Kyllä, olen Tomas.
 
-**sual hi es dokter?**
+**sual da es dokter?**
 – Onko hän lääkäri?
 
-**ye, hi es dokter.**
+**ya, da es dokter.**
 – Kyllä, hän on lääkäri.
 
-<small>Sanan **ye** lähteitä ovat
+<small>Sanan **ya** lähteitä ovat
 saksan *ja*,
 englannin *yeah*,
 malaijin *ya*,
@@ -278,14 +275,14 @@ korean 예 (ye).</small>
 **mi no es dokter.**
 – Minä en ole lääkäri.
 
-**sual tu gud?**
+**sual tu hao?**
 – Voitko hyvin?  
-**ye. mi gud.**
+**ya. mi hao.**
 – Kyllä, minä voin hyvin.
 
-**sual tu es gud?**
+**sual tu es hao?**
 – Voitko hyvin?  
-**no, mi no es gud.**
+**no, mi no es hao.**
 – Ei, minä en voi hyvin.
 
 Sanalla
@@ -293,7 +290,7 @@ Sanalla
 voi kiistää mitä tahansa.
 Sen paikka on ennen kiistettyä sanaa.
 
-**hi no sal mi.**
+**da no sal mi.**
 – Hän ei tervehdi minua.
 
 <small>Sanan **no** lähteitä:
@@ -308,97 +305,97 @@ banglan না (na).</small>
 
 | Yksikkö     | Monikko      |
 |:------------|:-------------|
-| **mi**      | **vi**       |
+| **mi**      | **mimen**       |
 | minä        | me           |
-| **tu**      | **yu**       |
+| **tu**      | **tumen**       |
 | sinä        | te           |
-| **hi**      | **de**       |
+| **da**      | **damen**       |
 | hän         | he           |
 
 
 
-**vi sal yu.**
+**mimen sal tumen.**
 – Me tervehdimme teitä.
 
-**yu sal de.**
+**tumen sal damen.**
 – Te tervehditte heitä.
 
-**de sal vi.**
+**damen sal mimen.**
 – He tervehtivät meitä.
 
-**vi es fem.**
+**mimen es fem.**
 – Me olemme naisia.
 
-**yu es man.**
+**tumen es man.**
 – Te olette miehiä.
 
-**de es aple.**
+**damen es aple.**
 – Ne ovat omenoita.
 
 
-### hu <small>kuka?</small>
+### ke <small>kuka?</small>
 
-**hu?**
+**ke?**
 – Kuka?
 
-**hu es tu?**
+**ke es tu?**
 – Kuka olet?
 **mi es Tomas.**
 – Minä olen Tomas.
 
-**hu es hi?**
+**ke es da?**
 – Kuka hän on?
-**hi es Sara.**
+**da es Sara.**
 – Hän on Sara.
 
-**hu es yu?**
+**ke es tumen?**
 – Keitä te olette?
 
-**hu es de?**
+**ke es damen?**
 – Keitä he ovat?
 
 
-### vat? <small>mikä? kuka?</small>
+### ke? <small>mikä? kuka?</small>
 
-**vat?**
+**ke?**
 – Mitä?
 
-**vat es da?**
+**ke es da?**
 – Mikä tuo on?
 
 **da es buk.**
 – Se on kirja.
 
-<small>Sanan **vat** lähteitä ovat
+<small>Sanan **ke** lähteitä ovat
 englannin *what*,
 saksan *was*,
 hollannin *wat*.</small>
 
 
-### da hir <small>tämä</small>
+### ye <small>tämä</small>
 
-**vat es da hir?**
+**ke es ye?**
 – Mikä tämä on?
 
-**da hir es aple.**
+**ye es aple.**
 – Tämä on omena.
 
 **da es rubi aple.**
 – Se on punainen omena.
 
-**de sta vat?**
+**damen sta ke?**
 – Missä he ovat?
 
-**de sta hir.**
+**damen sta hir.**
 – He ovat täällä.
 
 
-### da der <small>tuo</small>
+### vo <small>tuo</small>
 
-**da der es vat?**
+**vo es ke?**
 – Mikä tuo on?
 
-**da der es aple.**
+**vo es aple.**
 – Tuo on omena.
 
 **da aple es rubi.**
@@ -407,53 +404,53 @@ hollannin *wat*.</small>
 **da es rubi.**
 – Se on punainen.
 
-**de sta vat?**
+**damen sta ke?**
 – Missä he ovat?
 
-**de sta der.**
+**damen sta der.**
 – He ovat tuolla.
 
 
 ### 's <small>-n (omistusliite)</small>
 
-**da es vat?**
+**da es ke?**
 – Mikä tämä on?
 
-**da es mi's telefon.**
+**da es mi su telefon.**
 – Se on minun puhelin.
 
-**da hir es hu's?**
+**ye es ke su?**
 – Kenen tämä on?
 
-**da es mi's.**
+**da es mi su.**
 – Se on minun.
 
 Omistusliite
 **'s**
 ilmaisee omistusta eli genetiiviä.
 Se liitetään omistajaan, joten
-**mi's**
+**mi su**
 tarkoittaa 'minun',
-**tu's**
+**tu su**
 tarkoittaa 'sinun' jne.
 
-**hi es hu?**
+**da es ke?**
 – Kuka hän on?
 
-**hi es mi's frende.**
+**da es mi su doste.**
 – Hän on minun ystävä.
 
-**mi es Sara's frende.**
+**mi es Sara su doste.**
 – Minä olen Saran ystävä.
 
 Lause voi myös päättyä liitteeseen
 **'s**.
 
-**mau es mi's.**
+**mau es mi su.**
 Kissa on minun.  
-**mone es vi's.**
+**mone es mimen su.**
 Rahat on meidän.  
-**frende es Sara's.**
+**doste es Sara su.**
 Ystävä on Saran.
 
 <small>Sanan **'s** lähteitä ovat
@@ -466,16 +463,16 @@ espanjan *su*.</small>
 
 ### nim <small>nimi</small>
 
-**tu's nim es vat?**
+**tu su nim es ke?**
 – Mikä sinun nimesi on?
 
-**mi's nim es Tomas.**
+**mi su nim es Tomas.**
 – Minun nimeni on Tomas.
 
-**hi's nim es vat?**
+**da su nim es ke?**
 – Mikä hänen nimensä on?
 
-**hi's nim es Sara.**
+**da su nim es Sara.**
 – Hänen nimensä on Sara.
 
 <small>Sanan **nim** lähteitä ovat
@@ -490,10 +487,10 @@ englannin *name*.</small>
 
 ### have <small>olla, omistaa</small>
 
-**mi have un gud haus.**
+**mi have un hao haus.**
 – Minulla on hyvä talo.
 
-**hi no have pesa.**
+**da no have pesa.**
 – Hänellä ei ole rahaa.
 
 **mi van have un nove telefon.**
@@ -507,19 +504,19 @@ englannin *name*.</small>
 
 ### nou <small>tietää, tuntea</small>
 
-**mi nou hi.**
+**mi nou da.**
 – Tunnen hänet.
 
-**sual tu nou da der jen?**
+**sual tu nou vo jen?**
 – Tunnetko tuon henkilön?
 
 **mi no nou.**
 – En tiedä.
 
-**sual yu nou unaltre?**
+**sual tumen nou unaltre?**
 – Tunnetteko toisenne?
 
-**vi nou unaltre of long.**
+**mimen nou unaltre ze long.**
 – Tunnemme toisemme jo vanhastaan.
 
 
@@ -546,10 +543,10 @@ englannin *name*.</small>
 **sual tu van yam som ting?**
 – Haluaisitko syödä jotakin?
 
-**hi yam un aple.**
+**da yam un aple.**
 – Hän syö omenaa.
 
-**de yam aple.**
+**damen yam aple.**
 – He syövät omenoita.
 
 Huom! Panduniassa ei ole erillisiä sanoja yksikölle ja monikolle.
@@ -560,7 +557,7 @@ voi tarkoittaa yhtä tai useampaa omenaa.
 **sual tu yam kafe?**
 – Juotko kahvia?
 
-**ye. mi yam kafe.**
+**ya. mi yam kafe.**
 – Minä juon kahvia.
 
 Vinkki: Sana
@@ -578,11 +575,11 @@ koska yleensä tekemisen kohde tarkentaa, onko kyse syömisestä, juomisesta vai
 **sual tu van yam?**
 – Haluaisitko syödä?
 
-**tu van yam vat?**
+**tu van yam ke?**
 – Mitä haluaisit syödä?
 
 Vinkki: Suomessa kysymyssana on yleensä lauseen alussa, mutta panduniassa
-**vat**
+**ke**
 on samalla paikalla kuin normaalissakin lauseessa.
 
 **mi van yam kafe.**
@@ -593,7 +590,7 @@ on samalla paikalla kuin normaalissakin lauseessa.
 **no. mi no van cha. mi van kafe.**
 – Ei, minä en halua teetä. Minä haluan kahvia.
 
-**tu van vat aple?**
+**tu van ke aple?**
 – Minkä omenan haluat?
 **da rubi.**
 – Tuon punaisen.
@@ -604,7 +601,7 @@ on samalla paikalla kuin normaalissakin lauseessa.
 **mi ples tu yam cha.**
 – Minä pyydän sinua juomaan teetä.
 
-**mi ples tu kom haus.**
+**mi ples tu lai haus.**
 – Minä pyydän sinua tulemaan kotiin.
 
 **mi ples tu helpe mi.**
@@ -621,7 +618,7 @@ kun panduniassa käytetään sanaa
 **ples yam kafe.**
 – Joisitko kahvia.
 
-**ples kom haus.**
+**ples lai haus.**
 – Tulisitko kotiin.
 
 **ples helpe mi.**
@@ -630,10 +627,10 @@ kun panduniassa käytetään sanaa
 
 ### shal <small>käskytavan apuverbi</small>
 
-**vi shal yam!**
+**mimen shal yam!**
 – Syökäämme!
 
-**yu shal yam!**
+**tumen shal yam!**
 – Syökää te!
 
 **tu shal yam!**
@@ -642,10 +639,10 @@ kun panduniassa käytetään sanaa
 **yam!**
 – Syö! ~ Syökää!
 
-**vi shal go yam!**
+**mimen shal go yam!**
 – Menkäämme syömään!
 
-**vi shal go haus.**
+**mimen shal go haus.**
 – Menkäämme kotiin.
 
 
@@ -671,10 +668,10 @@ kun panduniassa käytetään sanaa
 **perdon! mi no aha.**
 – Anteeksi, minä en ymmärrä.
 
-**perdon! da hir es vat?**
+**perdon! ye es ke?**
 – Anteeksi, mikä tämä on?
 
-**perdon. tu's nim es vat?**
+**perdon. tu su nim es ke?**
 – Anteeksi, mikä sinun nimi on?
 
 
@@ -701,7 +698,7 @@ Ymmärrätkö minua?
 **mi kan shofe kar.**
 – Osaan ajaa autolla.
 
-**hi no kan shofe kar.**
+**da no kan shofe kar.**
 – Hän ei osaa ajaa autolla.
 
 **sual tu kan shuli da?**
@@ -719,31 +716,31 @@ Ymmärrätkö minua?
 **mi no kan english.**
 – Minä en osaa englantia.
 
-**perdon. mi no kan tu's bash.**
+**perdon. mi no kan tu su bash.**
 – Anteeksi, en osaa sinun kieltäsi.
 
 
 ### loga <small>sanoa, puhua</small>
 
-**tu log vat?**
+**tu logu ke?**
 – Mitä sinä sanoit?
 
-**mi log to tu.**
+**mi logu do tu.**
 – Minä puhun sinulle.
 
-**vi log to unaltre.**
+**mimen logu do unaltre.**
 – Me puhumme toisillemme.
 
-**von log**
+**von logu**
 "kissa"
-**a vat mode a pandunia?**
+**na ke mode na pandunia?**
 – Miten sanotaan "kissa" panduniaksi?
 
 ***kissa***
-**es vat a pandunia?**
+**es ke na pandunia?**
 – Mikä "kissa" on panduniaksi?
 
-**mau log "miau".**
+**mau logu "miau".**
 – Kissa sanoo miau.
 
 
@@ -755,13 +752,13 @@ Kuuntele minua!
 **mi no kan audi tu.**
 En voi kuulla sinua.
 
-**ples log mor bala.**
+**ples logu max bala.**
 Puhuisitko kovempaa.
 
 **mi audi muzike.**
 Minä kuuntelen musiikkia.
 
-**tu audi vat tip's muzike?**
+**tu audi ke tip su muzike?**
 Minkälaista musiikkia sinä kuuntelet?
 
 
@@ -770,46 +767,46 @@ Minkälaista musiikkia sinä kuuntelet?
 **suka vize tu.**
 – Hauska nähdä sinua!
 
-**to rivize!**
+**do rivize!**
 – Näkemiin!
 
-**vize tu a posden!**
+**vize tu na posden!**
 – Nähdään huomenna!
 
-**mi vize hi a preden.**
+**mi vize da na preden.**
 – Minä näin hänet eilen.
 
 
 ### sema <small>tarkoittaa</small>
 
-**da hir lexe ye sema vat?**
+**ye lexe ya sema ke?**
 – Mitä tämä sana tarkoittaa?
 
-**"mau" ye sema vat?**
+**"mau" ya sema ke?**
 – Mitä "mau" tarkoittaa?
 
 **da sema un tipe of hevan.**
 – Se tarkoittaa eräänlaista eläintä.
 
-**mi no aha da sema vat.**
+**mi no aha da sema ke.**
 – Minä en ymmärrä mitä se tarkoittaa.
 
 
 ### kitab <small>kirjoittaa</small>
 
-**ples kitab tu's adres.**
+**ples kitab tu su adres.**
 – Kirjoittaisitko osoitteesi.
 
-**ples kitab da a hir.**
+**ples kitab da na hir.**
 – Kirjoittaisitko sen tähän!
 
 
 ### bashe <small>puhua kieltä, kommunikoida</small>
 
-**sual yu bash pandunia.**
+**sual tumen bash pandunia.**
 – Puhutteko te panduniaa?
 
-**vi bash pandunia.**
+**mimen bash pandunia.**
 – Me osaamme puhua panduniaa.
 
 **sual tu kan bash english?**
@@ -835,89 +832,89 @@ Minkälaista musiikkia sinä kuuntelet?
 **go der!**
 – Mene tuonne!
 
-**tu go vat plas?**
+**tu go ke plas?**
 – Minne sinä menet?
 
 **mi go haus.**
 – Minä menen kotiin.
 
-**mi mus go vat plas?**
+**mi mus go ke plas?**
 – Minne minun pitää mennä?
 
-**mi mus go to vat jen?**
+**mi mus go do ke jen?**
 – Kenen luoksen minun pitää mennä?
 
-**vi shal go!**
+**mimen shal go!**
 – Menkäämme!
 
-**vi shal go a fut**
+**mimen shal go na fut**
 – Menkäämme jalan!
 
 
-### kom <small>tulla</small>
+### lai <small>tulla</small>
 
-**ples kom!**
+**ples lai!**
 – Tule tänne!
 
-**tu kom of vat plas?**
+**tu lai ze ke plas?**
 – Mistä sinä tulet?
 
-**mi kom of Dubai.**
+**mi lai ze Dubai.**
 – Minä tulen Dubaista.
 
-**mi kom haus a pos den.**
+**mi lai haus na pos den.**
 – Minä tulen kotiin huomenna.
 
 
 ### safar <small>matkustaa</small>
 
-**sual tu safar a tren?**
+**sual tu safar na tren?**
 – Matkustatko junalla?
 
-**vi safar of London to Paris.**
+**mimen safar ze London do Paris.**
 – Me matkustamme Lontoosta Pariisiin.
 
-**safar es muche long.**
+**safar es multi long.**
 – Matka on hyvin pitkä.
 
 
-### a <small>luona, kanssa, -lla, -ssa</small>
+### na <small>luona, kanssa, -lla, -ssa</small>
 
-**hotel a vat plas?**
+**hotel na ke plas?**
 – Missä hotelli on?
 
-**hotel a da der dao.**
+**hotel na vo dao.**
 – Hotelli on tuolla tiellä.
 
-**tu a vat plas?**
+**tu na ke plas?**
 – Missä sinä olet?
 
-**mi a haus.**
+**mi na haus.**
 – Olen kotona.
 
-**hi a vat plas?**
+**da na ke plas?**
 – Missä hän on?
 
-**hi side a kamar.**
+**da side na kamar.**
 – Hän istuu huoneessa.
 
 Panduniassa sanaa
-**a**
+**na**
 voi käyttää yksinään ilman verbiä.
 
-**mi verke a...**
+**mi verke na...**
 – Työskentelen ...lla.
 
 
 ### loju <small>asua</small>
 
-**tu loju in vat plas?**
+**tu loju in ke plas?**
 – Missä sinä asut?
 
 **mi loju Singapur.**
 – Asun Singaporessa.
 
-**sual tu loju da hir hotel?**
+**sual tu loju ye hotel?**
 – Astuko tässä hotellissa?
 
 
@@ -929,10 +926,10 @@ voi käyttää yksinään ilman verbiä.
 **dele mi!**
 – Odota minua!
 
-**de dele vi.**
+**damen dele mimen.**
 – He odottavat meitä.
 
-**mi dele tu a hotel.**
+**mi dele tu na hotel.**
 – Minä odotan sinua hotellissa.
 
 
@@ -940,62 +937,62 @@ voi käyttää yksinään ilman verbiä.
 
 ## Osa 5. Ajanhetken ja -kulun ilmaiseminen
 
-### bi <small>parhaillaan</small>
+### zai <small>parhaillaan</small>
 
-**mi bi sal tu's frende.**
+**mi zai sal tu su doste.**
 – Minä olen tervehtimässä sinun ystävääsi.
 
-**man bi vize un filme.**
+**man zai vize un filme.**
 – Mies on katsomassa filmiä.
 
-**hi bi es shef.**
+**da zai es shef.**
 – Hän on päällikkö (parhaillaan).
 
-**hi bi es a haus.**
+**da zai es na haus.**
 – Hän on parhaillaan kotona.
 
 
 ### hav <small>jo, valmiiksi</small>
 
-**mi hav sal tu's frende.**
+**mi hav sal tu su doste.**
 – Minä olen tervehtinyt ystävääsi.
 
 **man hav vize da filme.**
 – Mies on katsonut sen filmin.
 
-**hi hav es shef.**
+**da hav es shef.**
 – Hän on ollut päällikkö.
 
-**hi hav es a haus.**
+**da hav es na haus.**
 – Hän on ollut kotona.
 
 
-### did <small>ennen</small>
+### pas <small>ennen</small>
 
-**mi did sal tu's frende.**
+**mi pas sal tu su doste.**
 – Minä tervehdin sinun ystävääsi.
 
-**man did vize un filme.**
+**man pas vize un filme.**
 – Mies katsoi elokuvaa.
 
-**hi did es shef.**
+**da pas es shef.**
 – Hän oli ennen päällikkö.
 
-**hi did es a haus.**
+**da pas es na haus.**
 – Hän oli kotona.
 
 
 ### vil <small>myöhemmin, jatkossa</small>
 
-**mi vil sal tu's frende.**
+**mi vil sal tu su doste.**
 – Minä tervehdin ystävääsi (jatkossa).
 
 **da man vil vize da filme.**
 – Mies tulee katsomaan filmin.
 
-**hi vil es shef.**
+**da vil es shef.**
 – Hän tulee olemaan päällikkö.
 
-**hi vil es a haus.**
+**da vil es na haus.**
 – Hän tulee olemaan kotona.
 

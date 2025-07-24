@@ -205,9 +205,9 @@ It is not placed in the beginning of the phrase unlike normally in English.
 – Who is that person ~ he ~ she?  
 **tu vol ke?**
 – What do you want? (Literally: You want what?)  
-**ke es a meza.**
+**ke es na meza.**
 – What is on the table?  
-**ke es in haus.**
+**ke es na haus.**
 – Who is in the house?
 
 The possessive interrogative pronoun is built like the other possessive pronouns.
@@ -244,20 +244,20 @@ Pandunia's pronominal phrases can be arranged in a regular table of pronominals 
 
 | Category      | Interrogative | Demonstrative | Indefinite    | Universal     | Negative      | Alternative   | Elective      |
 |:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| **ting**      | **vat ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   | **otre ting** | **eni ting**  |
+| **she**       | **ke she**    | **da she**    | **yo she**    | **pan she**   | **no she**    | **ale she**   | **eni she**   |
 | Thing         | what (thing)  | that thing    | something     | everything    | nothing       | another       | anything      |
-| **von**       |**hu; vat von**| **da von**    | **som von**   | **evri von**  | **no von**    | **otre von**  | **eni von**   |
+| **yen**       |**ke yen**     | **da yen**    | **yo yen**    | **pan yen**   | **no yen**    | **ale yen**   | **eni yen**   |
 | Individual    | who; which one| that one      | someone       | every one     | no-one        | another       | anyone        |
-| **have**      | **hu's**      | **da von's**  | **som von's** |**evri von's** | **no von's**  |**otre von's** | **eni von's** |
+| **have**      | **ke su**     | **da yen su** | **yo yen su** |**pan yen su** | **no yen su** |**ale yen su** | **eni yen su**|
 | Possession    | whose         | that one's    | someone's     | everyone's    | no-one's      | another's     | anyone's      |
-| **plas**      | **vat plas**  | **da plas**   | **som plas**  | **evri plas** | **no plas**   | **otre plas** | **eni plas**  |
+| **loka**      | **ke loka**   | **da loka**   | **yo loka**   | **pan loka**  | **no loka**   | **ale loka**  | **eni loka**  |
 | Location      | where         | there         | somewhere     | everywhere    | nowhere       | elsewhere     | anywhere      |
-| **tem**       | **vat tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    | **otre tem**  | **eni tem**   |
+| **tem**       | **ke tem**    | **da tem**    | **yo tem**    | **pan tem**   | **no tem**    | **ale tem**   | **eni tem**   |
 | Time          |when, what time| that time     | sometime      |always, all the time| never    | another time  | any time      |
-| **vei**       | **vat vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    | **otre vei**  | **eni vei**   |
+| **vei**       | **ke vei**    | **da vei**    | **yo vei**    | **pan vei**   | **no vei**    | **ale vei**   | **eni vei**   |
 | Manner        | how           | in that way   | somehow       | in every way  | in no way     | otherwise     | anyway        |
-| **tip**       | **vat tip**   | **da tip**    | **som tip**   | **evri tip**  | **no tip**    | **otre tip**  | **eni tip**   |
+| **tip**       | **ke tip**    | **da tip**    | **yo tip**    | **pan tip**   | **no tip**    | **ale tip**   | **eni tip**   |
 | Kind, sort    | what kind of  | that kind of  | some kind of  | all kinds of  | no kind of    |another type of| any kind of   |
-| **monta**     | **vat monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  | **otre monta**| **eni monta** |
+| **monta**     | **ke monta**  | **da monta**  | **yo monta**  | **pan monta** | **no monta**  | **ale monta** | **eni monta** |
 | Amount        | how much      | so much       | some          | all           | none          | other amount  | any amount    |
 -->

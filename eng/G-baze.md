@@ -1,5 +1,5 @@
 
-# 1. The basic rules of Pandunia
+# The basic rules of Pandunia
 
 These are the basic rules of Pandunia language.
 They are described in more detail later in this document.
@@ -36,35 +36,35 @@ The personal pronouns are:
 'I',
 **tu**
 'you' (singular),
-**hi**
+**da**
 'he, she, it',
-**vi**
+**mimen**
 'we',
-**yu**
+**tumen**
 'you' (plural),
-**de**
+**damen**
 'they'.
 
 The possessive pronouns are:  
-**mi's**
+**mi su**
 'my',
-**tu's**
+**tu su**
 'your',
-**hi's**
+**da su**
 'his or her',
-**vi's**
+**mimen su**
 'our',
-**yu's**
+**tumen su**
 'your',
-**de's**
+**damen su**
 'their'.
 
 The interrogative pronouns are:
-**vat**
+**ke**
 'what',
-**hu**
+**ke yen**
 'who',
-**hu's**
+**ke yen su**
 'whose'.
 
 
@@ -119,11 +119,11 @@ and the adverb modifier is before the verb that it modifies.
 The verb does not change in person, number and tense.
 Auxiliary verbs indicate time.
 
-- **bi**
+- **zai**
   indicates an ongoing event.
-- **hav**
+- **leu**
   indicates a completed event, which has an effect on the present situation.
-- **did**
+- **pas**
   indicates a past event.
 - **vil**
   indicates a future event.
@@ -135,22 +135,20 @@ The word order is subject–verb–object.
 The same order is used in declarations and questions.
 
 A passive sentence is created with the help of the passive auxiliary verb
-**ben**.
-A similar effect can also be reached with the impersonal pronoun
-**von**.
+**bi**.
 
-**pandunia ben log.**
+**pandunia bi logu.**
 – Pandunia is spoken.  
-**von log pandunia.**
+**bi logu pandunia.**
 – One speaks Pandunia.
 
 In the _pivot structure_, the object of the transitive verb functions as the subject of the following verb.  
-**mi ples tu log pandunia.**
+**mi ples tu logu pandunia.**
 – I ask you to speak Pandunia.
 
 Pronouns can be left out when they are obvious and redundant.  
-**_mi_ ples _tu_ log pandunia.**
-→ **ples log pandunia.**  
+**_mi_ ples _tu_ logu pandunia.**
+→ **ples logu pandunia.**  
 – Please speak Pandunia.
 
 

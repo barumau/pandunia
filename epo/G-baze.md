@@ -1,5 +1,5 @@
 
-# 1. Bazaj reguloj
+# Bazaj reguloj
 
 ### (1) Mondaj vortoj
 
@@ -29,35 +29,35 @@ La personaj pronomoj estas:
 'mi',
 **tu**
 'vi (ununombre)',
-**hi**
+**da**
 'ĝi, li aŭ ŝi',
-**vi**
+**mimen**
 'ni',
-**yu**
+**tumen**
 'vi (multenombre)',
-**de**
+**damen**
 'ili'.
 
 La posedaj pronomoj estas:  
-**mi's**
+**mi su**
 'mia',
-**tu's**
+**tu su**
 'via',
-**hi's**
+**da su**
 'ĝia, lia aŭ ŝia',
-**vi's**
+**mimen su**
 'nia',
-**yu's**
+**tumen su**
 'via',
-**de's**
+**damen su**
 'ilia'.
 
 La demandaj pronomoj estas:  
-**vat**
+**ke**
 'kio',
-**hu**
+**ke yen**
 'kiu',
-**hu's**
+**ke yen su**
 'kies'.
 
 
@@ -125,13 +125,13 @@ Verboj ne ŝanĝiĝas laŭ persono, nombro aŭ tenco.
 Helpaj verboj indikas tencon, aspekton kaj modon.
 
 -   La helpverbo
-    **bi**
+    **zai**
     indikas daŭran agon.
 -    La helpverbo
-     **hav**
+     **leu**
      indikas kompletan agon, kies rezulto influas la nunan situacion.
 -    La helpverbo
-     **did**
+     **pas**
      indikas pasintan agon.
 -    La helpverbo
      **vil**
@@ -144,23 +144,21 @@ La normala vortordo estas subjekto–verbo–objekto.
 La sama ordo estas uzata kaj en deklaroj kaj en demandoj.
 
 Pasiva frazo estas kreita per helpo de verbo
-**bei**.
-Oni povas atingi similan rezulton per la nepersona pronomo
-**von**.
+**bi**.
 
-**pandunia bei log.**
+**pandunia bi logu.**
 – Pandunia estas parolita.  
-**von log pandunia.**
+**bi logu pandunia.**
 – Oni parolas pandunian.
 
 En la _ĉarnira konstruo_ la objekto de la unua verbo
 rolas kiel la subjekto de la dua verbo.  
-**mi plis tu log pandunia.**
+**mi ples tu logu pandunia.**
 – Mi petas ke vi parolas Pandunia.
 
 Oni povas forĵeti pronomojn kiam ili estas nenecesaj.  
-**_mi_ plis _tu_ log pandunia.**
-→ **plis log pandunia.**  
+**_mi_ ples _tu_ logu pandunia.**
+→ **ples logu pandunia.**  
 – Bonvolu paroli Pandunian.
 
 

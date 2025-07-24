@@ -1,5 +1,5 @@
 
-# 5. Nouns
+# Nouns
 
 ## Only one form
 
