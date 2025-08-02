@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# 10. Where Pandunia words come from?
+# Where Pandunia words come from?
 
 ## Principles
 
@@ -16,7 +16,169 @@ The three key criteria for selecting words for Pandunia are:
   The more people know the word the better.
 - **Simplicity** : Word forms with easy pronunciation are favored.
 
-## Cultures of the world
+
+## Imitative words
+
+Many frequent Pandunia words are **onomatopoetic** i.e. imitative of a sound that the referred thing makes.
+For example, the Pandunia word for 'cat' is
+*mau*
+because cats cry *meow* ~ *miaow*.
+Pandunia is not alone in this.
+There are many languages, where the normal word for 'cat' sounds similar, for example
+Mandarin 猫 (māo),
+Cantonese 貓 (maau),
+Vietnamese *mèo*
+and Thai แมว (mɛɛu).
+In some languages, similar-sounding words,
+like Swahili *nyau* and Japanese にゃんこ (*nyan-ko*),
+are considered affectionate, playful or childish,
+but it's not a bad thing.
+They only reinforce the internationality of the chosen word.
+
+There are imitative words in all languages and in all levels of language.
+It is arbitrary and language-specific, which imitative words are considered childish
+and which ones are considered ordinary words that also adults can use even in serious contexts.
+There are many ordinary imitative words in English,
+like *cuckoo*, *baby*, *click*, *knock*, *crash*, *yawn*, *hiccup* and *howl*.
+Some of them are so ordinary that one might not even remember that they are imitative!
+There are also imitative words that are considered childish.
+On the other hand, childish usually means the same as easy to understand, which is a good thing in the international language.
+
+In Pandunia, we have decided that all imitative words are ordinary words.
+
+### mau 'cat'
+
+Words for 'cat' are different in unrelated languages,
+but the cry of a cat is almost universally
+`miau`.
+In Mandarin, Cantonese and Vietnamese the word for 'cat' imitates the cry of a cat,
+and they sound similar to the Pandunia word
+**mau**.
+
+| Language    | Content word       | Imitation of sound |
+|-------------|--------------------|--------------------|
+| English     | cat                | miaow ~ meow       |
+| German      | Katze              | miau               |
+| French      | chat               | miaou              |
+| Spanish     | gato               | miau               |
+| Portuguese  | gato               | miau               |
+| Russian     | кошка (koška)      | мяу (myau)         |
+| Persian     | گربه (gorbe)       | میو (miyu) |
+| Hindi       | बिल्ली (billī)     | म्याऊँ (myāū̃) |
+| Bengali     | বিড়াল (biṛal)     | ম্যাঁও (mễō) |
+| Tamil       | பூனை (pūṉai)       | மியாவ் (miyāv) |
+| Malay       | kucing             | meong              |
+| Turkish     | kedi               | miyav              |
+| Arabic      | قِطّ (qiṭṭ)        | مواء (muwāʔ) |
+| Hausa       | kyânwā             | |
+| Fula        | ullundu            | |
+| Swahili     | paka, nyau         | nyau |
+| Mandarin    | 猫 (māo)            | 喵 (miāo) |
+| Cantonese   | 貓 (maau¹)          | 喵 (miu¹) |
+| Vietnamese  | mèo                | ngao, meo          |
+| Korean      | 고양이 (goyang'i)     | 야옹 (yaong)         |
+| Japanese    | 猫 (neko)           | にゃん (nyan)         |
+
+### gau 'dog'
+
+Words for 'dog' are completely different in unrelated languages.
+Imitations of loud barking of a dog typically fit the pattern
+`_au`
+(*wau*, *bau*, *gau*, *hau*, etc.).
+
+| Language    | Content word       | Imitation of sound |
+|-------------|--------------------|--------------------|
+| English     | dog                | bow-wow            |
+| German      | Hund               | wau wau            |
+| French      | chien              | ouah ouah          |
+| Spanish     | perro, can         | guau guau          |
+| Portuguese  | cão                | au au              |
+| Russian     | собака (sobaka)    | гав-гав (gav-gav)  |
+| Persian     | سَگ (sag)           | واق واق (vāq vāq) |
+| Hindi       | कुत्ता (kuttā)        | भो भो (bho bho) |
+| Bengali     | কুকুর (kukur)       | ভউ ভউ (bha'u bha'u) |
+| Tamil       | நாய் (nāy)        | பாவ் பாவ் (pav pav) |
+| Malay       | anjing             | auk auk            |
+| Turkish     | köpek              | hav hav            |
+| Arabic      | كلب (kalb)         | (haw haw) |
+| Hausa       | kàrē               | hau hau            |
+| Fula        | rawaandu           |                    |
+| Swahili     | mbwa               | mbwa mbwa          |
+| Mandarin    | 狗 (gǒu)           | 汪汪 (wāng wāng) |
+| Cantonese   | 狗 (gau²)          | 㕵㕵 (wou wou) |
+| Vietnamese  | chó, cẩu           | gâu gâu            |
+| Korean      | 개 (gae)           | 멍멍 (meong meong) |
+| Japanese    | 犬 (inu)           | ワンワン (wanwan), アウアウ (au au) |
+
+Cantonese *gau*, Mandarin *gǒu*, Vietnamese *cẩu* and Portuguese *cão*
+sound similar to the sound of barking in some languages.
+Therefore the Pandunia word for dog is
+**gau**.
+
+<!-- hausa: *haushi* 'to bark' -->
+
+### haha 'laugh, laughter'
+
+Nouns and verbs for laughing are different
+but imitations of the sound of laughter are the same across languages.
+
+| Language    | Content word       | Imitation of sound |
+|-------------|--------------------|--------------------|
+| English     | laugh              | haha               |
+| German      | Lachen             | haha               |
+| French      | rire               | haha               |
+| Spanish     | risa               | jaja               |
+| Portuguese  | riso               | haha               |
+| Russian     | смех (smex)        | ха-ха (ha-ha)      |
+| Persian     | خنده (xande)       | ها ها (hâ hâ)     |
+| Hindi       | हँसी (hãsī)        | हाहाहा (hahaha)    |
+| Bengali     | হাসি (haśi)        | হাঃ হাঃ (ha ha)    |
+| Malay       | ketawa             | hahaha             |
+| Turkish     | kahkaha            | haha               |
+| Arabic      | ضحك (ḍaḥk)         | هَهَهَ (hahaha) |
+| Hausa       | dariya             |                    |
+| Fula        | jaleede            |                    |
+| Swahili     | -cheka             | kwa kwa kwa        |
+| Mandarin    | 笑 (xiào)           | 哈哈 (hāhā) |
+| Cantonese   | 笑 (siu³)          | 哈哈 (haahaa) |
+| Vietnamese  | tiếng cười         | ha ha              |
+| Korean      | 웃음 (useum)         | 하하 (haha)        |
+| Japanese    | 笑い (warai)         | あはは (ahaha) |
+
+### yam 'eating'
+
+Nouns and verbs for eating are different across languages,
+but imitations of the sound of eating typically fit the pattern `_am`.
+That is the sound that is heard when one opens the mouth wide and then closes it to eat something.
+
+| Language    | Content word       | Imitation of sound |
+|-------------|--------------------|--------------------|
+| English     | eat                | yum yum            |
+| German      | essen              | hamm hamm          |
+| French      | manger             | miam miam          |
+| Spanish     | comer              | ñam ñam            |
+| Portuguese  | comer              | nham nham          |
+| Russian     | есть (yest')       | ням-ням (nyam-nyam)|
+| Persian     | خوردن (xordan)     |                    |
+| Hindi       | खाना (khānā)       | मम् मम् (mam mam)  |
+| Bengali     | খাওয়া (khawa)     | গব গব (gob gob)    |
+| Tamil       | சாப்பிடு (cāppiṭu) |                |
+| Malay       | makan              | nyam nyam          |
+| Turkish     | yemek              | nam nam            |
+| Arabic      | أكل (ʔakala)       |                    |
+| Hausa       | ci                 |                    |
+| Fula        | nyamde             |                    |
+| Swahili     | -la                |                    |
+| Mandarin    | 吃 (chī), 食 (shí)  | 喃喃 (nán nán)        |
+| Cantonese   | 食 (sik)            | 喃喃 (naam naam)      |
+| Vietnamese  | ăn                 | nhăm nhăm          |
+| Korean      | 먹다 (meokda)        | 얌얌 (yam yam)       |
+| Japanese    | 食べる (taberu)       | モグモグ (mogu mogu)   |
+
+
+## Cultural and cross-cultural words
+
+### Cultures of the world
 
 Hartmut Traunmuller divided the world into four major cultural spheres in his article
 [A Universal Interlanguage: Some Basic Considerations](http://www.ling.su.se/staff/hartmut/UIL.pdf).
@@ -43,7 +205,7 @@ The cultural spheres are roughly outlined in the picture below.
 ![](http://www.pandunia.info/grafe/linguisticspheres.gif "Map of cultural spheres")
 
 
-## Languages of the world and world languages
+### Languages of the world and world languages
 
 It is estimated that over 6000 different languages are spoken in the world.
 Some languages are spoken by many while others are spoken by only a few.
@@ -504,7 +666,7 @@ The purpose is to select a form that sounds familiar to speakers of as many lang
 
 #### korte 'short'
 
-- English *short*
+- English *short*, *curt*
 - German *kurz*
 - French *court*
 - Spanish *curto*
