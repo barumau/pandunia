@@ -27,11 +27,11 @@ Toutes les autres consonnes se prononcent comme en français à l'exception de :
 
 | Personne | Singulier         | Pluriel      |
 |:---------|:-----------------:|:------------:|
-|          | **mi**            | **vi**       |
+|          | **mi**            | **mimen**    |
 | Première | _je, me, moi_     | _nous_       |
-|          | **tu**            | **yu**       |
+|          | **tu**            | **tumen**    |
 | Deuxième | _tu, te, toi ; vous (politesse)_ | _vous_ |
-|          | **da**            | **di**       |
+|          | **la**            | **damen**    |
 |Troisième |_il ou elle, le, lui_|_ils ou elles, les, leur_|
 
 ### Noms
@@ -45,11 +45,11 @@ Le nombre, le genre ou le caractère défini sont marqués par des mots complém
 – un chat, une chatte  
 **meni mau**
 – beaucoup de chats, beaucoup de chattes  
-**da hir mau**
+**ye mau**
 – ce chat-ci, cette chatte-ci  
 **di hir mau**
 – ces chats-ci, ces chattes-ci  
-**da der mau**
+**vo mau**
 – ce chat-là, cette chatte-là  
 **di der mau**
 – ces chats-ci, ces chattes-là
@@ -64,20 +64,20 @@ L'ordre de base des mots dans une phrase est sujet - verbe - objet (SVO).
 – Je t'aime.
 
 Le temps, l'aspect et le mode sont indiqués à l'aide de particules et d'auxiliaires.
-**bi**
+**zai**
 indique le moment en cours.
 **hav**
 par son sens "déjà", marque l'aspect parfait.
-**did**
+**pas**
 marque le passé révolu.
 **vil**
 marque le futur.
 
-**mi bi love tu.**
+**mi zai love tu.**
 – Je suis en train de t'aimer. / Je t'aime en ce moment.  
 **mi hav love tu.**
 – Je l'ai (déjà) fait.  
-**mi did love tu.**
+**mi pas love tu.**
 – Je t'ai aimé. / Je t'aimais.  
 **mi vil love tu.**
 – Je t'aimerai.
@@ -116,14 +116,14 @@ Le point de comparison est introduit par
 **dan**
 (_que_).
 
-**da hir idea es mor nove dan da der idea.**
+**ye idea es mor nove dan vo idea.**
 – Cette idée-ci est plus novatrice que cette idée-là.
 
 Les adverbes se placent généralement avant le nom qu'ils modifient, mais pas toujours.
 
-**mi muche love tu.**
+**mi multi love tu.**
 – Je beaucoup t'aime .  
-**mi love tu, muche.**
+**mi love tu, multi.**
 – Je t'aime beaucoup.
 
 
@@ -131,28 +131,28 @@ Les adverbes se placent généralement avant le nom qu'ils modifient, mais pas t
 
 Le mot **no** met le mot qui suit à la forme négative.
 
-**no mi ama da van sepe da.**
+**no mi ama la vol sepe la.**
 – Pas moi mais lui [qui] veut le prendre.
-**mi no van sepe da.**
+**mi no vol sepe la.**
 – Je ne veux pas le prendre.  
-**mi van no sepe da.**
+**mi vol no sepe la.**
 – Je veux _ne pas le prendre_.  
-**mi van sepe no da hir ama da der.**
+**mi vol sepe no ye ama vo.**
 – Je veux prendre _pas_ ceci_ mais cela.
 
 
 ### Questions
 
 Les mot interrogatif est
-**vat**
+**ke**
 (_quoi, qui, qu'est-che que, qu'est-che qui_).
 
 C'est l'ordre des mots d'une phrase affirmative qui sert pour les questions.
 
-**tu love vat?**
+**tu love ke?**
 – Tu aimes qui ?  
-**vat man love tu?**
+**ke man love tu?**
 – Quel homme aimes-tu ?  
-**tu love da hau muche?**
+**tu love da ke multi?**
 – Tu l'aimes combien ?
 

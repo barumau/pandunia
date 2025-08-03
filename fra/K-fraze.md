@@ -1,4 +1,5 @@
-﻿# Le pandunia mot à mot
+﻿
+# Le pandunia mot à mot
 
 ## Introduction
 
@@ -59,7 +60,7 @@ de la langue. Vous pouvez tout simplement parler en pandunia !
 **sal kom!**
 – Bienvenue !
 
-**sal go!**
+**sal chut!**
 – Au revoir !
 
 **sal safar!**
@@ -83,36 +84,36 @@ en swahili *salaam*
 et en indonésien *selamat*.</small>
 
 
-### danke <small>merci</small>
+### shukre <small>merci</small>
 
 <p style="font-size:5em;">🙏</p>
 
 
-**danke!**
+**shukre!**
 – Merci!
 
-**meni danke!**
+**multi shukre!**
 – Merci beaucoup !
 
-**ye, danke.**
+**ya, shukre.**
 – Oui, merci.
 
-**no, danke.**
+**no, shukre.**
 – Non, merci.
 
-**danke tu.**
+**shukre tu.**
 – Merci à toi.
 
-**mi danke tu.**
+**mi shukre tu.**
 – Je te / vous remercie.
 
-**mi danke tu helpe mi.**
+**mi shukre tu helpe mi.**
 – Je te remercie de m'avoir aidé.
 
-**danke tu helpe mi.**
+**shukre tu helpe mi.**
 – Merci de m'avoir aidé.
 
-**no yau danke.**
+**no yau shukre.**
 – Je t'en prie. / Il n'y a pas de quoi.
 
 
@@ -144,7 +145,7 @@ Le mot
 est un nom et un verbe correspondant.
 L'ordre des mots en Pandunia est sujet-verbe-objet.
 
-**Sara ye sal Tomas.**
+**Sara ya sal Tomas.**
 – Sara salue Thomas.
 
 **sal mama!**
@@ -185,30 +186,28 @@ en hindi तू  (tū),
 en farsi تو‏‎ (to).</small>
 
 
-### hi <small>Il, elle, ou il neutre</small>
+### da <small>Il, elle, ou il neutre</small>
 
-**hi es man.**
+**da es man.**
 – C'est un homme.
 
-**hi es fem.**
+**da es fem.**
 – C'est une femme.
 
-**hi es aple.**
+**da es aple.**
 – C'est une pomme.
 
-**hi**
+**da**
 est le pronom général de la troisième personne.
 Il est utilisé aussi bien pour les personnes (quel que soit leur sexe) que pour les choses.
 
-**mi sal hi.**
+**mi sal da.**
 – Je le/la salue.
 
 Étymologie :
-**hi**
+**da**
 vient de
-l'anglais *he* (♂) & *she* (♀),
-en hebreu הו (hū, ♂) & הי (hī, ♀),
-en arabe هُوَ (huwa, ♂) & هِيَ (hiya, ♀).</small>
+l'chinois 他, 她, 它 (tă).
 
 
 ### sual <small>Pour poser une question (est-ce que)</small>
@@ -223,7 +222,7 @@ Astuce : Les questions auxquelles on peut répondre par oui ou par non commencen
 **sual**.
 C'est un simple verbe régulier et non un marqueur interrogatif particulier.
 En fait, la dernière question est une simple abréviation de
-**mi sual tu dokter**
+**mi sual tu es dokter**
 (je vous demande si vous êtes doctor) ou le premier mot – le pronom personnel
 **mi**
 –, est supprimé.
@@ -247,19 +246,18 @@ malais _soal_,
 souheli _swali_.</small>
 
 
-
-### ye <small>oui</small>
+### ya <small>oui</small>
 
 **sual tu es Tomas?**
 – Es-tu Thomas.
 
-**ye, mi es Tomas.**
+**ya, mi es Tomas.**
 – Oui, je suis Thomas.
 
-**sual hi es dokter?**
+**sual da es dokter?**
 – Est-il/elle doctor ?
 
-**ye, hi es dokter.**
+**ya, da es dokter.**
 – Oui, il/elle est doctor.
 
 
@@ -274,7 +272,7 @@ souheli _swali_.</small>
 
 **sual tu gud?**
 – Est-ce que tu vas bien ?  
-**ye. mi gud.**
+**ya. mi gud.**
 – Oui, je vais bien.
 
 **sual tu es gud?**
@@ -286,7 +284,7 @@ Vous pouvez utiliser
 **no**
 pour mettre une phrase à la forme négative. La négation s'applique au mot qui le suit.
 
-**hi no salam mi.**
+**da no salam mi.**
 – Il/elle ne me salue pas.
 
 <small>Étymologie :
@@ -301,72 +299,71 @@ en français *non*.</small>
 
 | Singulaire  | Pluriel       |
 |:------------|:-------------|
-| **mi**      | **vi**       |
+| **mi**      | **mimen**    |
 | je, me, moi | nous         |
-| **tu**      | **yu**       |
+| **tu**      | **tumen**    |
 | tu, te, toi | vous         |
-| **hi**      | **de**       |
+| **da**      | **damen**    |
 | il, elle, le, lui, la | ils, elles, les, leur |
 
-**vi sal yu.**
+**mimen sal tumen.**
 – Nous vous saluons.
 
-**yu sal di.**
+**tumen sal damen.**
 – Vous les saluez.
 
-**di sal vi!**
+**damen sal mimen!**
 – Ils nous saluent.
 
-**vi es fem.**
+**mimen es fem.**
 – Nous sommes des femmes.
 
-**yu es man.**
+**tumen es man.**
 – Vous êtes des hommes.
 
-**di es aple.**
+**damen es aple.**
 – Ce sont des pommes.
 
 
 
-### hu? <small>Qui ?</small>
+### ke yen? <small>Qui ?</small>
 
-**vat?**
-– Quoi ?
+**ke?**
+– Qui ?
 
-**hu es tu?**
+**ke es tu?**
 – Qui es-tu ?  
 **mi es Tomas.**
 – Je suis Thomas.
 
-**hu es hi?**
+**ke es da?**
 – Qui est-il/elle ?  
-**hi es Sara.**
+**da es Sara.**
 – C'est Sara.
 
-**hu es yu?**
+**ke es tumen?**
 – Qui êtes-vous ?
 
-**hu es di?**
+**ke es damen?**
 – Qui sont-ils ?
 
 
-### vat? <small>Quoi ? Quel ?</small>
+### ke? <small>Quoi ? Quel ?</small>
 
-**vat?**
+**ke?**
 – Quoi ?
 
-**vat es da?**
+**ke es da?**
 – Qu'est-ce que c'est ?
 
 **da es buk.**
 – C'est un livre.
 
-<small>Étymologie :
-**vat**
-vient de
-l'anglais *what*,
-l'allemand *was*,
-et le néerlandais *wat*.</small>
+<small>Étymologie : **ke** vient de
+l'espagnol *qué*,
+en portugais il se dit *que*,
+en italien *che* et
+en bengali কী (ki).</small>
 
 
 
@@ -375,7 +372,7 @@ et le néerlandais *wat*.</small>
 **da hir es aple.**
 – Qu’est-ce que c’est que ceci ?
 
-**da der es vat?**
+**da der es ke?**
 – Qu’est-ce que c’est que ça ?
 
 **da es aple.**
@@ -391,55 +388,55 @@ et le néerlandais *wat*.</small>
 – C'est rouge. / Ceci est rouge.
 
 
-### 's <small>particule possessive</small>
+###  su <small>particule possessive</small>
 
-**da es vat?**
+**da es ke?**
 – Qu'est-ce que c'est ?
 
-**da es mi's telefon.**
+**da es mi su telefon.**
 – C'est mon téléphone.
 
-**da hir es hu's?**
+**da hir es ke su?**
 – À qui est-ce ?
 
-**da es mi's.**
+**da es mi su.**
 – C'est à moi.
 
 Note : La particule possessive
 **se**
 se place entre le possesseur et la chose possédée.
 Ainsi
-**mi's**
+**mi su**
 signifie "mon, ma, mes",
-**tu's**
+**tu su**
 signifie "ton, ta, tes" et ainsi de suite.
 
-**hi es hu?**
+**da es ke?**
 – Qui est-ce ?
 
-**hi es mi's frende.**
+**da es mi su doste.**
 – C'est mon ami(e).
 
-**mi es Sara's frende.**
+**mi es Sara su doste.**
 – Je suis l'ami(e) de Sara.
 
 <small>Étymologie : **se** vient du
-anglais *'s*
+anglais * su*
 et de l'espagnol *su*.</small>
 
 
 ### nam <small>nom</small>
 
-**tu's nam es vat?**
+**tu su nam es ke?**
 – Quel est ton nom?
 
-**mi's nam es Tomas.**
+**mi su nam es Tomas.**
 – Mon nom est Thomas.
 
-**hi's nam es vat?**
+**da su nam es ke?**
 – Quel est son nom ?
 
-**hi's nam es Sara.**
+**da su nam es Sara.**
 – Son nom est Sara.
 
 <small>Étymologie :
@@ -458,7 +455,7 @@ en anglais *name*.</small>
 **mi have un gud haus.**
 – J’ai une bonne maison.
 
-**hi no have mone.**
+**da no have mone.**
 – Il/elle n’a pas d’argent.
 
 **mi van have un nove telefon.**
@@ -471,18 +468,18 @@ en anglais *name*.</small>
 
 **sual have dokter?**
 – Est-ce qu’il y a un médecin ?  
-**ye. hi es dokter.**
+**ya. da es dokter.**
 – Oui. Il/elle est médecin.
 
 **sual have vin?**
 – Est-ce que tu as du vin?  
-**ye. baki e rubi.**
+**ya. baki e rubi.**
 – Oui, du blanc et du rouge.
 
 
 ### nou <small>connaître</small>
 
-**mi nou hi.**
+**mi nou da.**
 – Je le/la connais.
 
 **sual tu nou da der jen?**
@@ -491,10 +488,10 @@ en anglais *name*.</small>
 **mi no nou.**
 – – Je ne sais pas.
 
-**sual yu nou unotre?**
+**sual tumen nou unotre?**
 – Est-ce que vous vous connaissez l’un l’autre?
 
-**vi nou unotre of long.**
+**mimen nou unotre ze long.**
 – Nous nous connaissons [l’un l’autre] depuis longtemps.
 
 
@@ -521,10 +518,10 @@ en anglais *name*.</small>
 **sual tu van yam som ting?**
 – Est-ce que tu veux manger quelque chose ?
 
-**hi yam un aple.**
+**da yam un aple.**
 – Il/elle mange une pomme.
 
-**di yam aple.**
+**damen yam aple.**
 – Ils/elles mangent des pommes.
 
 Remarque : Contrairement au français, le pandunia n’a pas de formes singulier et pluriel séparées.
@@ -535,7 +532,7 @@ peut signifier une ou plusieurs pommes.
 **sual tu yam kafe?**
 – Est-ce que tu bois du café ?
 
-**ye. mi yam kafe.**
+**ya. mi yam kafe.**
 – Je bois du café.
 
 Astuce : Le sens de
@@ -553,12 +550,12 @@ Habituellement, l’objet du verbe dit s’il s’agit de quelque chose qu’on 
 **sual tu van yam?**
 – Est-ce que tu veux manger ?
 
-**tu van yam vat?**
+**tu van yam ke?**
 – Qu’est-ce que tu veux manger ?
 
 Astuce : en français, à l’écrit, le « quoi » est plutôt en début de question, mais en pandunia,
 l’ordre des mots n’est pas changé par
-**vat**,
+**ke**,
 un peu comme en français à l’oral : « tu veux manger quoi ? ».
 
 **mi van yam kafe.**
@@ -569,45 +566,45 @@ un peu comme en français à l’oral : « tu veux manger quoi ? ».
 **no. mi no van cha. mi van kafe.**
 – Non, Je ne veux pas de thé. Je veux du café.
 
-**tu van vat aple?**
+**tu van ke aple?**
 – Quelle pomme veux-tu ?  
 **da rubi.**
 – La rouge. (mot à mot _cette rouge-ci_)
 
 
 
-### plis <small>demander, s’il vous plait</small>
+### ples <small>demander, s’il vous plait</small>
 
-**mi plis tu yam cha.**
+**mi ples tu yam cha.**
 – Je te demande si tu veux du thé.
 
-**mi plis tu kom haus.**
+**mi ples tu kom haus.**
 – Je te demande de venir à la maison.
 
-**mi plis tu helpe mi.**
+**mi ples tu helpe mi.**
 – Je te demande de m’aider.
 
 Astuce : Pour créer des demandes directes, retirez les pronoms.
 
-**plis yam cha.**
+**ples yam cha.**
 – Prenez un thé, je vous en prie !
 
-**plis yam kafe.**
+**ples yam kafe.**
 – Servez-vous un café, faites donc !
 
-**plis kom haus.**
+**ples kom haus.**
 – Viens à la maison, s’il te plait !
 
-**plis helpe mi.**
+**ples helpe mi.**
 – Aide moi, s’il te plait.
 
 
 ### shal <small>impératif ou hortatif</small>
 
-**vi shal yam!**
+**mimen shal yam!**
 – Mangeons !
 
-**yu shal yam!**
+**tumen shal yam!**
 – Vous mangez!
 
 **tu shal yam!**
@@ -616,10 +613,10 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 **yam!**
 – Mange! ~ Mangez!
 
-**vi shal go yam!**
+**mimen shal go yam!**
 – Allons manger !
 
-**vi shal go haus.**
+**mimen shal go haus.**
 – Allons à la maison.
 
 
@@ -645,10 +642,10 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 **perdon! mi no aha.**
 – Désolé, je ne comprends pas.
 
-**perdon! da es vat?**
+**perdon! da es ke?**
 – Excusez-moi, qu’est-ce que c’est ?
 
-**perdon. tu's nam es vat?**
+**perdon. tu su nam es ke?**
 – Pardon, quel est ton nom ?
 
 
@@ -675,7 +672,7 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 **mi kan shofe kar.**
 – Je sais conduire une voiture.
 
-**hi no kan shofe kar.**
+**da no kan shofe kar.**
 – Il/elle ne sait pas conduire une voiture.
 
 **sual tu kan shuli da?**
@@ -693,31 +690,31 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 **mi no kan english.**
 – Je ne parle pas anglais.
 
-**perdon. mi no kan tu's bash.**
+**perdon. mi no kan tu su bashe.**
 – Désolé, je ne parle pas votre langue.
 
 
-### log <small>mot, dire, parler</small>
+### loge <small>mot, dire, parler</small>
 
-**tu log vat?**
+**tu loge ke?**
 – Qu’est-ce que tu dis ?
 
-**mi loga to tu.**
+**mi loga do tu.**
 – Je te parle. (mot à mot : _je parle à toi_)
 
-**vi log to unaltre.**
+**mimen loge do unaltre.**
 – Nous nous parlons. (mot à mot : _nous parlons à l’un l’autre_)
 
-**von log**
+**von loge**
 ***chat***
-**a vat mode a pandunia?**
+**na ke mode na pandunia?**
 – Comment se dit « chat » en pandunia ?
 
 ***chat***
-**es vat a pandunia?**
+**es ke na pandunia?**
 – Qu’est-ce que c’est, « chat», en pandunia ?
 
-**mau log "miau".**
+**mau loge "miau".**
 – Un chat dit miaou.
 
 
@@ -729,13 +726,13 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 **mi no kan audi tu.**
 – Je ne t’entends pas. (Je n’arrive pas à t’entendre)
 
-**plis log mor bala.**
+**ples loge mor bala.**
 – Parlez plus fort, s’il vous plait.
 
 **mi audi muzike.**
 – J’écoute de la musique.
 
-**tu audi vat tip's muzike?**
+**tu audi ke tip su muzike?**
 – Quel genre de musique est-ce que tu écoutes ?
 
 
@@ -744,49 +741,49 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 **suka vize tu.**
 – Heureux de te voir !
 
-**to rivize!**
+**do rivize!**
 – On se voit plus tard ! / À plus tard !
 
-**vize tu a posden!**
+**vize tu na posden!**
 – On se voit demain ! / À demain !
 
-**mi vize da a preden.**
+**mi vize da na preden.**
 – Je l’ai vu(e) hier.
 
 
-### seme <small>signifier, vouloir dire</small>
+### sema <small>signifier, vouloir dire</small>
 
-**da hir lexe ye seme vat?**
+**da hir lexe ya sema ke?**
 – Que veut dire ce mot ?
 
-**"mau" ye seme vat?**
+**"mau" ya sema ke?**
 – Que signifie « maw » ?
 
-**da seme un sorte of hevan.**
+**da sema un tipe di hevan.**
 – Ça signifie un genre d’animal.
 
-**mi no aha da seme vat.**
+**mi no aha da sema ke.**
 – Je ne comprend pas ce que cela signifie.
 
 
 ### kitab <small>écrire</small>
 
-**plis kitab tu's adres.**
+**ples kitab tu su adres.**
 – S’il te plait, écris ton adresse.
 
-**plis kitab da a hir.**
+**ples kitab da na hir.**
 – S’il te plait, écris-le là !
 
 
-### bash <small>communiquer, parler une langue</small>
+### bashe <small>communiquer, parler une langue</small>
 
-**sual yu bash pandunia.**
+**sual tumen bashe pandunia.**
 – Est-ce que vous parlez tous pandunia ?
 
-**vi bash pandunia.**
+**mimen bashe pandunia.**
 – Nous parlons pandunia.
 
-**sual tu kan bash english?**
+**sual tu kan bashe english?**
 – Est-ce que tu parles anglais ?
 
 **franse, espanya, portugal, rus**
@@ -809,22 +806,22 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 **go der!**
 – Va là-bas !
 
-**tu go vat plas?**
+**tu go ke plas?**
 – Où vas-tu ?
 
 **mi go haus.**
 – Je vais à la maison.
 
-**mi mus go vat plas?**
+**mi mus go ke plas?**
 – Où est-ce que je dois aller ?
 
-**mi mus go to vat jen?**
+**mi mus go do ke jen?**
 – Je devrais aller (voir) qui ?
 
-**vi shal go!**
+**mimen shal go!**
 – Allons-y !
 
-**vi shal go a fut**
+**mimen shal go na fut**
 – On y va à pied !
 
 
@@ -833,62 +830,62 @@ Astuce : Pour créer des demandes directes, retirez les pronoms.
 **kom hir!**
 – Viens ici !
 
-**plis kom!**
+**ples kom!**
 – S'il vous plaît viens !
 
-**tu kom of vat plas?**
+**tu kom ze ke plas?**
 – D’où viens-tu ?
 
-**mi kom of Dubai.**
+**mi kom ze Dubai.**
 – Je viens de Dubaï.
 
-**mi kom haus a pos den.**
+**mi kom haus na pos den.**
 – J'irai chez moi / à la maison demain.
 
 
 ### safar <small>voyager</small>
 
-**sual tu safar a tren?**
+**sual tu safar na tren?**
 – Est-ce que tu voyages en train ?
 
-**vi safar of London to Paris.**
+**mimen safar ze London do Paris.**
 – Nous voyageons de Londres à Paris.
 
 **safar es muche long.**
 – Le voyage est très long.
 
 
-### a <small>dans, sur, à</small>
+### na <small>dans, sur, à</small>
 
-**hotel a vat plas?**
+**hotel na ke plas?**
 – Où est l’hôtel ?
 
-**hotel a da der dau.**
+**hotel na da der dau.**
 – L’hôtel est sur cette route.
 
-**tu a vat plas?**
+**tu na ke plas?**
 – Où es-tu ?
 
-**mi a haus.**
+**mi na haus.**
 – Je suis à la maison. / Je suis chez moi.
 
-**hi a vat plas?**
+**da na ke plas?**
 – Où est-il/elle ?
 
-**hi sid a kamar.**
+**da sid na kamre.**
 – Il/elle est assis(e) dans la pièce.
 
 Astuce ! Vous pouvez utiliser
-**a**
+**na**
 comme préposition ou tout seul comme un verbe.
 
-**mi verke a...**
+**mi verke na...**
 – Je travaille à ...
 
 
 ### loju <small>vivre, habiter, résider</small>
 
-**tu loju vat plas?**
+**tu loju ke plas?**
 – Où est-ce que tu habites ?
 
 **mi loju Singapur.**
@@ -900,79 +897,79 @@ comme préposition ou tout seul comme un verbe.
 
 ### dele <small>attendre</small>
 
-**plis dele!**
+**ples dele!**
 – Veuillez attendre !
 
 **dele mi!**
 – Attendez-moi !
 
-**di dele vi.**
+**damen dele mimen.**
 – Ils nous attendent.
 
-**mi dele tu a hotel.**
+**mi dele tu na hotel.**
 – Je t’attends à l’hôtel.
 
 
 
 ## Part 5. Time expressions
 
-### bi <small>actuellement, en ce moment</small>
+### zai <small>actuellement, en ce moment</small>
 
-**mi bi sal tu's frende.**
+**mi zai sal tu su doste.**
 – Je suis en train de saluer ton ami(e).
 
-**da man bi vize da fem.**
+**da man zai vize da fem.**
 – L'homme est en train de regarder la femme.
 
-**hi bi es shefe.**
+**da zai es shefe.**
 – C'est lui le chef / elle la cheffe actuellement.
 
-**hi bi es a haus.**
+**da zai es na haus.**
 – En ce moment, il / elle est à la maison.
 
 
 ### hav <small>déjà (action achevée)</small>
 
-**mi hav sal tu's frende.**
+**mi hav sal tu su doste.**
 – J'ai (déjà) salué ton ami(e).
 
 **da man hav vize da filme.**
 – L'homme a (déjà) regardé la filme.
 
-**hi hav es shefe.**  
+**da hav es shefe.**  
 Il / Elle a (déjà) été le chef / la cheffe.
 
-**hi hav es a haus.**
+**da hav es na haus.**
 – Il / elle a (déjà) été à la maison.
 
 
-### did <small>dans le passé</small>
+### pas <small>dans le passé</small>
 
-**mi did sal tu's frende.**
+**mi pas sal tu su doste.**
 – J'ai salué ton ami(e).
 
-**man did vize un filme.**
+**man pas vize un filme.**
 – L'homme a regardé / regardait la filme.
 
-**hi did es shefe.**
+**da pas es shefe.**
 – C'était lui le chef. / C'était elle la cheffe.
 
-**hi did es a haus.**
+**da pas es na haus.**
 – Il / Elle était à la maison.
 
 
 ### vil <small>(événement futur)</small>
 
-**mi vil sal tu's frende.**
+**mi vil sal tu su doste.**
 – Je saluerai ton ami(e).
 
 **da man vil vize da filme.**
 – L'homme regardera la filme.
 
-**hi vil es shefe.**
+**da vil es shefe.**
 – Il sera chef. / Elle sera cheffe.
 
-**hi vil es a haus.**
+**da vil es na haus.**
 – Il / Elle sera à la maison.
 
 
@@ -982,19 +979,19 @@ Il / Elle a (déjà) été le chef / la cheffe.
 
 ### don <small>donner</small>
 
-**plis don mone.**
+**ples don mone.**
 – Donne-moi de l’argent, s’il te plait.
 
-**plis don da to mi.**
+**ples don da do mi.**
 – Donne-le moi, s’il te plait.
 
-**mi don da hir to tu.**
+**mi don da hir do tu.**
 – Je te donne ceci.
 
-**mi don buk to di.**
+**mi don buk do damen.**
 – Je leur donne un livre.
 
-**hi no van don da to mi.**
+**da no van don da do mi.**
 – Il/elle ne veut pas me le donner.
 
 
@@ -1003,10 +1000,10 @@ Il / Elle a (déjà) été le chef / la cheffe.
 **mi sepe un kafe.**
 – Je vais prendre un café.
 
-**plis sepe un kafe to mi.**
+**ples sepe un kafe do mi.**
 – Prends-moi un café, s’il te plait.
 
-**tu did sepe mone of mi.**
+**tu pas sepe mone ze mi.**
 – tu as déjà eu de l’argent de ma part.
 
 **mi sepe un bir.**
@@ -1015,19 +1012,17 @@ Il / Elle a (déjà) été le chef / la cheffe.
 
 ### kira <small>location, emprunt</small>
 
-**kira es 500 dolar a mes.**
+**kira es 500 dolar na mes.**
 – La location est de 500 dollars par mois / pour un mois.
 
-**hi no kan pei da kira.**
+**da no kan pei da kira.**
 – Il / Elle ne peut pas payer la location.
 
-**mi van sepe un karo a kira.**
+**mi van sepe un gar na kira.**
 – Je veux prendre une voiture en location.
 
-**mi van sepe kira un karo.**
+**mi van sepe kira un gar.**
 – Je veux louer une voiture.
 
-**hi don kira kamar to safarer.**
+**da don kira kamre do safarer.**
 – Il/elle loue des chambres à les voyageurs.
-
-

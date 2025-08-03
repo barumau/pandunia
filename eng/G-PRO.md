@@ -77,9 +77,9 @@ Note! The same reflexive pronoun
 is used for all persons,
 so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, _ourselves_ and _themselves_ all at once.
 
-**mi vi se**
+**mi vi se.**
 – I see myself.  
-**da vi se**
+**da vi se.**
 – She sees herself. / He sees himself. / It sees itself.  
 **mimen vi se.**
 – We see ourselves.
@@ -153,7 +153,7 @@ and it is known by the audience or is topical within the discourse.
 **ye e mau. da vol yam vo muxu.**
 – This is a cat. It wants to eat that mouse.
 
-**mi have un mau e un vaf. la vaf es dai. da zai yam multi yam.**
+**mi have un mau e un gau. la gau es dai. da zai yam multi yam.**
 – I have a cat and a dog. The dog is big. It eats a lot of food.
 
 
@@ -244,20 +244,20 @@ Pandunia's pronominal phrases can be arranged in a regular table of pronominals 
 
 | Category      | Interrogative | Demonstrative | Indefinite    | Universal     | Negative      | Alternative   | Elective      |
 |:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| **she**       | **ke she**    | **da she**    | **yo she**    | **pan she**   | **no she**    | **ale she**   | **eni she**   |
+| **she**       | **ke she**    | **la she**    | **yo she**    | **pan she**   | **no she**    | **ale she**   | **eni she**   |
 | Thing         | what (thing)  | that thing    | something     | everything    | nothing       | another       | anything      |
-| **yen**       |**ke yen**     | **da yen**    | **yo yen**    | **pan yen**   | **no yen**    | **ale yen**   | **eni yen**   |
+| **yen**       |**ke yen**     | **la yen**    | **yo yen**    | **pan yen**   | **no yen**    | **ale yen**   | **eni yen**   |
 | Individual    | who; which one| that one      | someone       | every one     | no-one        | another       | anyone        |
-| **have**      | **ke su**     | **da yen su** | **yo yen su** |**pan yen su** | **no yen su** |**ale yen su** | **eni yen su**|
+| **have**      | **ke su**     | **la yen su** | **yo yen su** |**pan yen su** | **no yen su** |**ale yen su** | **eni yen su**|
 | Possession    | whose         | that one's    | someone's     | everyone's    | no-one's      | another's     | anyone's      |
-| **loka**      | **ke loka**   | **da loka**   | **yo loka**   | **pan loka**  | **no loka**   | **ale loka**  | **eni loka**  |
+| **loka**      | **ke loka**   | **la loka**   | **yo loka**   | **pan loka**  | **no loka**   | **ale loka**  | **eni loka**  |
 | Location      | where         | there         | somewhere     | everywhere    | nowhere       | elsewhere     | anywhere      |
-| **tem**       | **ke tem**    | **da tem**    | **yo tem**    | **pan tem**   | **no tem**    | **ale tem**   | **eni tem**   |
+| **tem**       | **ke tem**    | **la tem**    | **yo tem**    | **pan tem**   | **no tem**    | **ale tem**   | **eni tem**   |
 | Time          |when, what time| that time     | sometime      |always, all the time| never    | another time  | any time      |
-| **vei**       | **ke vei**    | **da vei**    | **yo vei**    | **pan vei**   | **no vei**    | **ale vei**   | **eni vei**   |
+| **mode**      | **ke mode**   | **la mode**   | **yo mode**   | **pan mode**  | **no mode**   | **ale mode**  | **eni mode**  |
 | Manner        | how           | in that way   | somehow       | in every way  | in no way     | otherwise     | anyway        |
-| **tip**       | **ke tip**    | **da tip**    | **yo tip**    | **pan tip**   | **no tip**    | **ale tip**   | **eni tip**   |
+| **tipe**      | **ke tipe**   | **la tipe**   | **yo tipe**   | **pan tipe**  | **no tipe**   | **ale tipe**  | **eni tipe**  |
 | Kind, sort    | what kind of  | that kind of  | some kind of  | all kinds of  | no kind of    |another type of| any kind of   |
-| **monta**     | **ke monta**  | **da monta**  | **yo monta**  | **pan monta** | **no monta**  | **ale monta** | **eni monta** |
+| **monta**     | **ke monta**  | **la monta**  | **yo monta**  | **pan monta** | **no monta**  | **ale monta** | **eni monta** |
 | Amount        | how much      | so much       | some          | all           | none          | other amount  | any amount    |
--->
+

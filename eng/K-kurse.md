@@ -234,7 +234,7 @@ to address people by name, kinship term or profession.
 – Hello, mother!  
 **halo, papa!**
 – Hello, father!  
-**sal, xefe!**
+**sal, shef!**
 – Hello, chief!
 
 
@@ -263,7 +263,7 @@ to greet
 mother, mom  
 **papa**
 father, dad  
-**xefe**
+**shef**
 chief, boss  
 
 
@@ -295,10 +295,10 @@ chief, boss
 **danke.**
 – Thank you.  
 <big>☺</big>
-**ples yam kafe o ca.**
+**ples yam kafe o cha.**
 – Please have some coffee or tea.  
 <big>☻</big>
-**ama mi un li yam ca! danke.**
+**ama mi un li yam cha! danke.**
 – But I only drink tea! Thank you.  
 ...  
 <big>☻</big>
@@ -381,9 +381,9 @@ has a useful pattern that can be used for making polite requests.
 – Please be seated.  
 **ples don kafe.**
 – Please give me some coffee.  
-**ples don ca.**
+**ples don cha.**
 – Please give me some tea.  
-**ples yam ca.**
+**ples yam cha.**
 – Please have some tea.  
 **ples safi kamre.**
 – Please clean the room.
@@ -392,7 +392,7 @@ Commands are expressed more directly than requests.
 A command is basically like the request but without the
 **ples**.
 
-**don ca!**
+**don cha!**
 – Give (me) some tea!  
 **safi kamre!**
 – Clean the room!  
@@ -413,7 +413,7 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**ca**
+**cha**
 tea  
 **cin pa**
 grandfather  
@@ -449,11 +449,11 @@ to eat or drink
 
 ### Answers to the Exercises
 
-1. da yam ca.
-2. xefe ples da side.
-3. ples yam kafe o ca.
+1. da yam cha.
+2. shef ples da side.
+3. ples yam kafe o cha.
 4. mama ples mi safi kamre.
-5. xefe side e yam kafe.
+5. shef side e yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -467,10 +467,10 @@ to eat or drink
 <small>Image designed by [pikisuperstar](https://www.freepik.com/pikisuperstar)</small>
 
 <big>☺</big>
-**sal! sual tu yam kafe o ca?**
+**sal! sual tu yam kafe o cha?**
 – Hello! Would you like to have coffee or tea?  
 <big>☻</big>
-**ca.**
+**cha.**
 – Tea.  
 <big>☺</big>
 **tu ne?**
@@ -479,10 +479,10 @@ to eat or drink
 **mi no baxe pandunia...**
 – I don't speak Pandunia...  
 <big>☺</big>
-**perdon! sual da yam ca?**
+**perdon! sual da yam cha?**
 – Pardon! Will he have tea?  
 <big>☻</big>
-**no. da no yam ca. da yam kafe.**
+**no. da no yam cha. da yam kafe.**
 – No, he won't. He would like to have coffee.  
 <big>☺</big>
 **sual tu yam supa?**
@@ -497,7 +497,7 @@ to eat or drink
 **no yam.**
 – No.  
 <big>☺</big>
-**danke. mi don un ca e un kafe e un supa pos des minute.**
+**danke. mi don un cha e un kafe e un supa pos des minute.**
 – Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -510,11 +510,11 @@ Question sentences are introduced with
 **sual**
 'to ask'.
 
-**mi sual tu yam ca.**
+**mi sual tu yam cha.**
 – I ask (do) you drink tea.  
-**sual tu yam ca?**
+**sual tu yam cha?**
 – Do you drink tea?  
-**sual yam ca?**
+**sual yam cha?**
 – Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions
@@ -522,7 +522,7 @@ are often about other people. Therefore the second pronoun is usually
 needed. It can be left out only when it is clear who is the topic of
 discussion.
 
-**sual da yam ca?**
+**sual da yam cha?**
 – Does he or she drink tea?  
 **sual tu yam supa?**
 – Do you eat soup?  
@@ -531,7 +531,7 @@ discussion.
 
 Of course common and proper nouns can also be used.
 
-**sual xefe yam kafe?**
+**sual shef yam kafe?**
 – Does the chief drink coffee?  
 **sual papa safi kamre?**
 – Does the father clean the room?  
@@ -666,7 +666,7 @@ and even numeral.
 
 **da no have mau.**
 – She doesn't have a cat.  
-**da have no mau, ama vaf.**
+**da have no mau, ama gau.**
 – She has no cats but dogs.  
 **no da, ama mi have mau.**
 – Not she but I have cats. (It's not her, but me who has cats.)  
@@ -701,7 +701,7 @@ to have
 cup, glass, mug  
 **mau**
 cat  
-**vaf**
+**gau**
 dog  
 **siro**
 zero
@@ -711,10 +711,10 @@ zero
 
 1. da no safi kamre.
 2. un kupa no hali.
-3. du vaf no yam supa.
-4. da no have vaf e mau. / da have no vaf e no mau.
-5. xefe yam ca ama no kafe.
-6. mama have no vaf ama du mau.
+3. du gau no yam supa.
+4. da no have gau e mau. / da have no gau e no mau.
+5. shef yam cha ama no kafe.
+6. mama have no gau ama du mau.
 
 
 --------------------------------------------------------------------------------
@@ -835,11 +835,11 @@ There are also specific time words.
 
 They can be used for modifying nouns.
 
-**Sara es mi su pas xefe.**
+**Sara es mi su pas shef.**
 – Sarah is my former boss.  
-**Yusef es mi su zai xefe.**
+**Yusef es mi su zai shef.**
 – Yusef is my current boss.  
-**Maria es mi su vil xefe.**
+**Maria es mi su vil shef.**
 – Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
@@ -863,7 +863,7 @@ or until it becomes useful to stress that you are still talking in the same tens
 – I had a cat in the past.  
 **da es bon mau.**
 – It was a good cat.  
-**mi zai have un vaf.**
+**mi zai have un gau.**
 – I now have a dog.
 
 Any expression of time is good for expressing the tense. When one
@@ -911,8 +911,8 @@ milk
 
 ### Answers to the Exercises
 
-1. mi su xefe festa a vil.
-2. mi have du vaf a pas.
+1. mi su shef festa a vil.
+2. mi have du gau a pas.
 3. tu yam supa a zai.
 4. da safi kamre a preden.
 5. mau yam milke a posden.

@@ -920,11 +920,11 @@ The rest of the sentence can optionally be preceded by the word **asar**, which 
 **me**
 – but (introduces a word or phrase that contrasts with or contradicts the preceding word or phrase)
 
-**mi suka mau e vaf.**
+**mi suka mau e gau.**
 – I like cats and dogs.  
-**mi suka mau o vaf.**
+**mi suka mau o gau.**
 – I like cats or dogs.  
-**mi suka mau me no vaf.**
+**mi suka mau me no gau.**
 – I like cats but not dogs.
 
 
