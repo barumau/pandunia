@@ -161,7 +161,7 @@ Find Pandunia speakers near you in [Amikumu](https://amikumu.com/) app!
 
 - [Complete grammar of Pandunia](pan.pdf) in PDF format
 - [Searchable dictionary](../lexia/index.html?d=eng)
-- [Origins of words](leksaslia.md)
+- [Origins of words](lexaslia.md)
 - Go to the
   [Pandunia lexe na dunia karta](http://www.pandunia.info/lexekarta/index.html)
   pages to see where every Pandunia word is from on a world map.

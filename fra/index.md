@@ -33,7 +33,7 @@ Quelques traits remarquables du pandunia :
 - [Recueil d’expressions](K-fraze.md)
 - Dictionnaire [français → pandunia](fra-pandunia.md)
 - Dictionnaire [pandunia → français](pandunia-fra.md)
-- Dictionnaire [étymologique](leksaslia.md) - (consulter la [liste des codes des langues](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes))
+- Dictionnaire [étymologique](lexaslia.md) - (consulter la [liste des codes des langues](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes))
 - Dictionnaire [dynamique](../lexia/index.html?d=fra)
 - [Contes en Pandunia](https://www.pandunia.info/kitabe)
 

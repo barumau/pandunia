@@ -143,7 +143,7 @@ por ejemplo si era una pregunta, una orden o una afirmación.
 - [Guía de conversación](G-baze.md)
 - [Gramática de Pandunía](pan.pdf) como PDF
 - [Dicionario que permite búsquedas](http://www.pandunia.info/pandunia/logia.html)
-- [Orígenes de las palabras(etimología de Pandunía)](leksaslia.md)
+- [Orígenes de las palabras(etimología de Pandunía)](lexaslia.md)
 
 
 ## Textos

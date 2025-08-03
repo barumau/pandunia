@@ -33,7 +33,7 @@ nav:
     - 'Słownik':
         - 'Pandunia-polski': pandunia-pol.md
         - 'Polski-pandunia': pol-pandunia.md
-        - 'Etymologia': leksaslia.md
+        - 'Etymologia': lexaslia.md
         - 'Wyszukaj': https://www.pandunia.info/lexia/?d=pol
 extra:
   social:

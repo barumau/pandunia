@@ -40,7 +40,7 @@ La versione finale del pandunia è stata pubblicata nell'aprile 2024.
 - [Le basi del pandunia](I-suma.md) (una sola breve pagina!)
 - [Lezioni con dialoghi](K-kurse.md)
 - [Grammatica completa del panduria](pan.pdf) in formato PDF
-- [Etimologia delle parole](leksaslia.md)
+- [Etimologia delle parole](lexaslia.md)
 - Va' alla pagina
   [Pandunia lexe na dunia karta](http://www.pandunia.info/lexekarta/index.html)
   per vedere da dove proviene ogni parola del pandunia su una mappa del globo.

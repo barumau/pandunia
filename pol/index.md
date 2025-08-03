@@ -35,7 +35,7 @@ Niektóre zauważalne cechy Panduni:
 - [Słownik z możliwością wyszukiwania](../lexia/index.html?d=pol)
 - słownik [polski-Pandunia](pol-pandunia.md)
 - słownik [Pandunia-polski](pandunia-pol.md)
-- [Etymologia](leksaslia.md)
+- [Etymologia](lexaslia.md)
 
 ## Artykuły
 

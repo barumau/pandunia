@@ -35,7 +35,7 @@ nav:
     - 'Diccionarios':
         - 'Pandunia-Español': pandunia-spa.md
         - 'Español-Pandunia': spa-pandunia.md
-        - 'Diccionario etimológico': leksaslia.md
+        - 'Diccionario etimológico': lexaslia.md
 extra:
   social:
     - icon: fontawesome/regular/comments

@@ -10,7 +10,7 @@ muta_GitHub_dokumesanduku() {
 
 bina_neteloka() {
     echo
-    echo bina neteloka to $1
+    echo bina neteloka do $1
     bina_MkDocs $1
     muta_GitHub_dokumesanduku $1
 }

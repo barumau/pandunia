@@ -40,7 +40,7 @@ hide:
 - [Мини-уроки с картинками](http://www.pandunia.info/pandunia/mini_xula.html)
 - [Полная грамматика Пандунийского](pan.pdf) в формате PDF
 - [Словарь с возможностью поиска](../lexia/index.html?d=rus)
-- [Происхождение слов](leksaslia.md)
+- [Происхождение слов](lexaslia.md)
 - [Pandunia lexe na dunia karta](http://www.pandunia.info/lexekarta/index.html)
   страницы, чтобы увидеть, откуда взято каждое пандунийское слово на карте мира.
 - [Истории в Пандунии](https://www.pandunia.info/kitabe)

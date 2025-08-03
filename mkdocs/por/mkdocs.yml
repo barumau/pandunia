@@ -21,7 +21,7 @@ nav:
     - 'Dicionarios':
         - 'Pandunia-Português': pandunia-por.md
         - 'Português-Pandunia': por-pandunia.md
-        - 'Dicionario etimologico': leksaslia.md
+        - 'Dicionario etimologico': lexaslia.md
 extra:
   social:
     - icon: fontawesome/regular/comments

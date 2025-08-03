@@ -35,4 +35,4 @@ tu kan stude Pandunia na uze di [mini skola](mini_xula.html).
     * [dunia lexe](lexi/dunia_loge.html)
     * [frute nam](lexi/pal.html)
     * [gogia su nam](dexa_nam.md)
-    * [lexe asle](leksaslia.md) e [lexe nume](lexi_nume.md) e [asar di mula bashe](asar_da_mulbax.md)
+    * [lexe asle](lexaslia.md) e [lexe nume](lexi_nume.md) e [asar di mula bashe](asar_da_mulbax.md)

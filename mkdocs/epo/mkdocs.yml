@@ -30,7 +30,7 @@ nav:
     - 'Vortaroj':
         - 'Pandunia-Esperanto': pandunia-epo.md
         - 'Esperanto-Pandunia': epo-pandunia.md
-        - 'Etimologia vortaro': leksaslia.md
+        - 'Etimologia vortaro': lexaslia.md
 extra:
   social:
     - icon: fontawesome/regular/comments

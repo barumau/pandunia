@@ -36,7 +36,7 @@ nav:
     - 'Vocabulaire':
         - 'Pandunia → français': pandunia-fra.md
         - 'Français → pandunia': fra-pandunia.md
-        - 'Etymologie': leksaslia.md
+        - 'Etymologie': lexaslia.md
         - 'Recherche': https://www.pandunia.info/lexia/?d=fra
     - 'Appendix':
         - 'Questions et réponses': FAQ.md

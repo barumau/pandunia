@@ -12,13 +12,12 @@ suomi/Diaesitys.odp
 suomi/Diaesitys.pdf
 grafe/*
 html/*
-lexokarte/*
-lexikarta/*
+lexekarta/*
 */pan.md
 *.pdf
 */favicon.png
 */logo.png
-*/leksaslia.md
+*/lexaslia.md
 *-pandunia.md
 *pandunia-*.md
 putonghan/putonghan-pandunia.md
