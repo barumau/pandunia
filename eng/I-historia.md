@@ -63,23 +63,17 @@ Panglo borrowed the most frequently occurring words from English and other Germa
 in an attempt to become a possible successor for international English
 that was the most widely spoken international language at the time.
 
-    Figure. Tree of evolution of Pandunia.
+    Figure. The tree of evolution of Pandunia and its sibling languages.
     
-            ┌───────────────┐
-            │               │
-            │    PANDUNIA   │
-            │               │
-    4       └───────┰───────┘
-                    ┃
-      ┌────────┐    ┃
-    3 │ Panglo ├────┨
-      └────────┘    ┃
-    2               ┃
-                    ┃   ┌───────────┐
-    1               ┠───┤ Panlingue │
-                    ┃   └───────────┘
-    0               ┃
-
+        ┌───────────┐  ┌───────────┐  ┌───────────┐
+        │ Panlingue │  │ Pandunia  │  │  Panglo   │
+        └─────┬─────┘  └─────┬─────┘  └─────┬─────┘
+              │1             │2             │3
+              │              ├──────────────┘
+              └──────────────┤
+                             │
+                             │0
+      ───────────────────────┴───────────────────────
 
 ## Stabilization
 
