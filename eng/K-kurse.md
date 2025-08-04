@@ -322,7 +322,7 @@ Pandunia's singular personal pronouns are
 'I',
 **tu**
 'you', and
-**hi**
+**da**
 'he, she, it'.
 Pandunia is a gender-neutral language.
 It doesn't distinguish between sexes in the third person pronoun or any of the pronouns.

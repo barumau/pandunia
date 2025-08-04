@@ -34,12 +34,9 @@ It is a gender-neutral personal pronoun and it treats everyone equally.
 
 The singular 2nd person pronoun **tu** can be used in all situations, both formal and informal,
 regardless of differences in social status and age of the speakers.
-In this way it is similar to Swedish _du_.
-However, some speakers may prefer to use **tu** only with family and intimate friends.
-Then its usage is comparable to German _du_, French _tu_, Russian _ты_ (ty) and Hindi _tū_.
-
-It is always acceptable to use the plural pronoun **yu**
-instead of the singular pronoun **tu**.
+In this way it is similar to Scandinavian _du_
+and different from German _du_, French _tu_, Russian _ты_ (ty) and Hindi _tū_,
+which are used typically only with family members and intimate friends.
 
 There are three first-person plural pronouns.
 **tumimen**

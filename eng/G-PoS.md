@@ -27,9 +27,9 @@ which does not change according to number, case, gender, tense, mood or
 any of the other inflectional categories known from other languages.
 Compare, for example, what happens to the words in the following two sentences in Pandunia and English.
 
-1. *mi love hi.*
+1. *mi love da.*
    – I love him or her.
-2. *hi love mi.*
+2. *da love mi.*
    – He or she loves me.
 
 In Pandunia, the subject and object simply change places and that's it.
@@ -148,7 +148,7 @@ as in the table below.
 | The happy child |        | writes      |        | a long letter.    |
 | *yun man*       | **ye** | *vize*      | **un** | *mei parke.*      |
 | The young man   |        | sees        |        | a beautiful park. |
-| *meni jen*      | **ye** | *van shope* | **un** | nove haus.*       |
+| *meni jen*      | **ye** | *vol shope* | **un** | nove haus.*       |
 | Many people     |        | want to buy |        | a new house.      |
 
 So the key to decoding Pandunia is to know the structure words and the clause constructions.

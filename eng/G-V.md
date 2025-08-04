@@ -111,7 +111,7 @@ The conditional mood is expressed with the auxiliary verb
 ('would').
 This marker is used in both main and subordinate clauses.
 
-**mi** ***vud*** **van yam.**
+**mi** ***vud*** **vol yam.**
 – I *would* like to eat.  
 **mi** ***vud*** **go to Dubai.**
 – I *would* go to Dubai.  

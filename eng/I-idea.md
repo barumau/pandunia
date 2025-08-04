@@ -1,8 +1,8 @@
 # Pandunia - the evenly global helping language
- 
+
 ## Introduction
 
-Pandunia is an equally global auxiliary language. 
+Pandunia is an evenly global auxiliary language.
 In this article, we explain what makes Pandunia global and equal,
 why it was made to be global and equal,
 and how it could help people around the world communicate better with each other.
@@ -385,7 +385,7 @@ comes from the Indo-European family of languages,
 including French _tu_, Spanish _tú_, Russian _ty_ and Hindi _tū_.
 In Pandunia it is a neutral pronoun that can be used both in informal and formal situations.
 
-The third-person pronoun in Pandunia is **hi**.
+The third-person pronoun in Pandunia is **da**.
 It has the remarkable benefit that it can refer to people of any gender as well as lifeless objects.
 So it covers the English third-person pronouns _he_, _she_ and _it_, all at once.
 
@@ -393,29 +393,29 @@ So it covers the English third-person pronouns _he_, _she_ and _it_, all at once
 |------------|------------|------------|
 | I          | mi         | wǒ         |
 | you        | tu         | nǐ         |
-| he/she/it  | hi         | tā         |
-| we         | vi         | wǒmen      |
-| you all    | yu         | nǐmen      |
-| they       | de         | tāmen      |
+| he/she/it  | da         | tā         |
+| we         | mimen      | wǒmen      |
+| you all    | tumen      | nǐmen      |
+| they       | damen      | tāmen      |
 
 The possessive pronouns follow the super simple pattern of Standard Chinese.
 Simply add **se** to form the possessive, as below.
 
 | English    | Pandunia   | Chinese    |
 |------------|------------|------------|
-| my         | mi's       | wǒ de      |
-| your       | tu's       | nǐ de      |
-| his/her/its| hi's       | tā de      |
-| our        | vi's       | wǒmen de   |
-| your       | yu's       | nǐmen de   |
-| their      | de's       | tāmen de   |
+| my         | mi su      | wǒ de      |
+| your       | tu su      | nǐ de      |
+| his/her/its| da su      | tā de      |
+| our        | mimen su   | wǒmen de   |
+| your       | tumen su   | nǐmen de   |
+| their      | damen su   | tāmen de   |
 
 The personal pronouns in Pandunia attain three important goals.
 
 1. The basic pronouns
-   (**mi**, **tu**, **hi**)
+   (**mi**, **tu**, **da**)
    look and sound distinct.
-2. The possessive pronouns are built in a systematic way.
+2. The plurals and the possessives are built in a systematic way.
    They are not only a bunch of random words.
 3. The words are international
    and come from many different language families.
@@ -434,25 +434,25 @@ The normal sentence word order is subject–verb–object
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The auxiliary verb
-**ben**
+**bi**
 is used when the object of the action comes first in the sentence.
 (This is the so called passive sentence.)
 
     English:   Apples were eaten.
-    Pandunia:  aple ben yam.
+    Pandunia:  aple bi yam.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
-**be** is a loan word from Standard Chinese *bèi*,
+**bi** is a loan word from Standard Chinese *bèi*,
 but it is also close to some uses of English *to be*.
 
     English:   It can not be eaten.
-    Pandunia:  de no kan ben yam.
+    Pandunia:  damen no kan bi yam.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I ask him to drink coffee.
-    Pandunia:  mi ples hi yam kafe.
+    Pandunia:  mi ples da yam kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words.
@@ -463,10 +463,10 @@ In Pandunia, one word,
 is used instead of _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  hi es aple.
+    Pandunia:  da es aple.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  de es aple.
+    Pandunia:  damen es aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 

@@ -519,7 +519,7 @@ English *name*.</small>
 **da no have mone.**
 – He doesn't have money.
 
-**mi van have un nove telefon.**
+**mi vol have un nove telefon.**
 – I want to have a new telephone.
 
 **sual tu have pikin?**

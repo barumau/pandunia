@@ -59,7 +59,7 @@ in three levels: (1) clause constituents, (2) phrases and (3) words.
         ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐   ┌────┬───┼───┬────┐ ┌───┴────┐
     (3) │det│adj│noun│ │TAM│adv│verb│   │prep│det│adj│noun│ │particle│
         └───┴───┴────┘ └───┴───┴────┘   └────┴───┴───┴────┘ └────────┘
-         da  yun  man   did rapid marche a   da  dai dao      he.
+         la  yun  man  pas rapid marche na  la  dai dao      he.
         that young man did fast   walk   on  the big road     huh
         'That young man walked fast on the big road, huh?'
 
@@ -71,24 +71,24 @@ Subject and object can be noun phrases that consist of many words,
 and there can be a series of verbs (i.e. a serial verb) instead of a single verb.
 In such cases the boundaries between the clause constituents can become doubtful.
 
-**let baku meme van shuru yam gud seng chau.**
+**let baku meme vol shuru yam gud seng chau.**
 – Little white sheep want to start to eat good fresh grass.
 
 Boundaries between sentence elements can be marked with little words.
 Determiners, like 
 **un**
 'a, one',
-**da hir**
+**ye**
 'this or these',
-**da der**
+**vo**
 'that or those over there',
-**da**
+**la**
 'that or those', and
 **som**
 'some',
 help to indicate where noun phrases begin.
 
-**da lit vait meme *ye* van shuru yam *da* gud seng chau.**
+**la lit baku meme *ye* vol shuru yam *la* gud seng chau.**
 – The little white sheep want to start to eat that good fresh grass.
 
 
@@ -126,13 +126,13 @@ There are two types of predicative clause: verbal and nominal.
 A predicative completes the meaning of a sentence by giving information about a noun by either renaming it or describing it.
 Often there is no copula verb (i.e. linking verb) between the subject and its predicative complement.
 
-**hi Ali.**
+**da – Ali.**
 – He is Ali.  
-**Ali guru.**
+**Ali – guru.**
 – Ali is a teacher.  
-**Ali rike.**
+**Ali – rike.**
 – Ali is rich.  
-**Ali a haus.**
+**Ali na haus.**
 – Ali is at home.
 
 
@@ -143,7 +143,7 @@ The copula verb
 'to be'
 can be used optionally in simple predicative sentences like the ones above.
 
-**hi es Ali.**
+**da es Ali.**
 – He is Ali.  
 **Ali es guru.**
 – Ali is a teacher.  
@@ -154,35 +154,35 @@ can be used optionally in simple predicative sentences like the ones above.
 
 The copula verb is used when it is necessary in order to convey the desired meaning.
 For example, modal verbs, like
-**van**
+**vol**
 'to want', always need it as the main verb
 because the sentences would have a different meaning without it.
 
-**hi van es guru.**
+**da vol es guru.**
 – He (or she) wants to be a teacher.  
 Compare with:  
-**hi van guru.**
+**da vol guru.**
 – He (or she) wants a teacher.
 
-**hi van es rike.**
+**da vol es rike.**
 – He (or she) wants to be rich.  
 Compare with:  
-**hi van rike.**
+**da vol rike.**
 – He (or she) wants riches.
 
 The linking verb is used also when structural complexity of subject and/or predicate
 makes the boundary between the two sentence elements doubtful.
 
-**mi's job helpe bacha.**
+**mi su kar helpe bacha.**
 – My job helps children.  
-**mi's job es helpe bacha.**
+**mi su kar es helpe bacha.**
 –  My job is to help children.
 
 It is also possible to use a pause,
 that is indicated by a dash in writing,
 instead of the linking verb.
 
-**mi's job – helpe bacha.**
+**mi su kar – helpe bacha.**
 – My job: to help children.
 
 
@@ -195,19 +195,19 @@ and the linking verb
 **es**
 is optional in the same cases as before
 
-**hi no Ali.** ~ **hi no es Ali.**
+**da no Ali.** ~ **da no es Ali.**
 – He is not Ali.  
-**hi no guru.** ~ **hi no es guru.**
+**da no guru.** ~ **da no es guru.**
 – He is not a teacher.  
-**hi no van es guru.**
+**da no vol es guru.**
 – He doesn't want to be a teacher.  
-**hi no rike.** ~ **hi no es rike.**
+**da no rike.** ~ **da no es rike.**
 – He is not rich.  
-**hi no van es rike.**
+**da no vol es rike.**
 – He doesn't want to be rich.  
-**hi no a haus.** ~ **hi no es a haus.**
+**da no a haus.** ~ **da no es a haus.**
 – He is not at home.  
-**hi's job no es helpe bacha.**
+**la su kar no es helpe bacha.**
 – His job is not to help children.
 
 
@@ -336,7 +336,7 @@ and the second-most common order by number of languages.
     ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐
     │det│adj│noun│ │TAM│adv│verb│ │det│adj│noun│
     └───┴───┴────┘ └───┴───┴────┘ └───┴───┴────┘
-     da  yun man    did     vize   un  sen guru.
+     la  yun man    did     vize   un  sen guru.
     'The young man  did     see    an  old guru.'
 
 Transitive clauses are called transitive because they express an event where some energy transits from the subject to the object.
@@ -385,13 +385,13 @@ in the form that the verb describes.
 Consider the following sentence,
 where the child is the agent that departs energy in the form of a push to the ball, the patient.
 
-**da bacha bate da bol.**
+**la bacha bate la bol.**
 – The child hits the ball.
 
 There can also be an instrument that mediates the flow of energy from the agent to the patient.
 The sequence `agent > instrument > patient` reflects the flow of energy in an action chain.
 
-**da bacha uze da bang bate da bol.**
+**la bacha uze la bang bate la bol.**
 – The child uses the bat to hit the ball.
 
 The order of the participants is in line with the order of the action chain in reality.
@@ -426,13 +426,13 @@ The semantic and syntactic roles can be mapped together in many ways.
 Usually the most energetic semantic participant takes the role of the subject.
 
 1. If there is an agent, it becomes the subject.
-    - ***da bacha* uze da bang bate da bol.**
+    - ***la bacha* uze la bang bate la bol.**
       – *The child* uses the bat to hit the ball.  
 2. Otherwise, if there is an instrument, it becomes the subject.
-    - ***da bang* bate da bol.**
+    - ***la bang* bate la bol.**
       – *The bat* hits the ball.  
 3. Otherwise the patient becomes the subject and the clause type becomes intransitive.
-    - ***da bol* bate.**
+    - ***la bol* bate.**
       – *The ball* is hit.
 
 When a sentence consists of a subject and a verb (SV),
@@ -465,24 +465,24 @@ as in the following examples.
 – The cat walks.  
 **sol lume.**
 – The sun shines.  
-**de kom.**
+**de lai.**
 – They come.  
 
 However, it is possible to clarify the roles of subject and object with the help of the auxiliary verbs
 **fa**
 'do, make' and
-**be**
+**bi**
 'undergo'.
 **fa**
 indicates that the subject is the agent or doer of the action, and
-**be**
+**bi**
 indicates that the subject is the patient or receiver of the action.
 
-**banana be yam.**
+**banana bi yam.**
 – Banana is eaten.  
-**fuku be gan.**
+**fuku bi gan.**
 – Clothes are dried.  
-**ite be pada.**
+**ite bi pada.**
 – Stone is dropped.  
 **mau fa marche.**
 – The cat walks. ~ The cat does walk.  
@@ -512,18 +512,18 @@ The **basic pivot construction** is a syntactic realization of an action chain
 that reflects the flow of energy from one participant to another.
 A basic sequence is that of `agent > instrument > patient`.
 
-**hi uze un chaku kate da ban.**
+**da uze un chaku kate la ban.**
 – He uses a knife to cut the bread.  
-**hi jete da bol bate da dika.**
+**da jete la bol bate la dika.**
 – He throws the ball to hit the target.  
-**mi shofe da kar kom da site.**
+**mi shofe la kar lai la site.**
 – I drive the car to enter the city.
 
 Another common sequence is that of `causer > agent > patient`.
 In such sequences the first verb typically indicates a modality such as desire, permission or obligation,
 and the second verb indicates what the causer wants the agent to do.
 
-**mi van tu yam vege.**
+**mi vol tu yam vege.**
 – I want you to eat vegetables. (desire)  
 **mi sel tu yam vege.**
 – I advise you to eat vegetables. (advice)  
@@ -540,11 +540,11 @@ Syntactically the pivot construction is made up of
 `subject–verb₁–pivot–verb₂–object`.
 The pivot is at the same time the object for verb₁ and the subject for the verb₂.
 
-**mi van tu yam som vege.**
+**mi vol tu yam som vege.**
 – I want you to eat vegetables.
 
 In the example above,
-**mi van**
+**mi vol**
 has
 **tu**
 as its object.
@@ -562,7 +562,7 @@ One may pick any or all participants of the action chain into a sentence
 as long as they stay in the same order.
 In the following example sentence all optional participants and their verbs are enclosed in brackets.
 
-**(mi van) (tu uze) (da chaku) kate da ban (don ma).**
+**(mi vol) (tu uze) (la chaku) kate la ban (don ma).**
 – I want you to use the knife to cut the bread and give to mother.
 
 
@@ -572,22 +572,22 @@ In pivot constructions where the first action indicates a modality, such as desi
 the first participant can be left out when it indicates the first person ('I').
 The the remaining syntactic construction is `verb₁–pivot–verb₂–object`.
 
-**mi sual tu kom haus.**
+**mi sual tu lai haus.**
 – I ask (whether) you come come?  
-**sual tu kom haus.**
+**sual tu lai haus.**
 – Do you come come?  
-**mi asha tu yam mas fite.**
+**mi asha tu yam max fite.**
 – I wish you would eat more vegetables.  
-**asha tu yam mas fite.**
+**asha tu yam max fite.**
 – Wish you would eat more vegetables.
 
 In commands and requests also the second participant can be left out
 when it indicates the second person ('you').
 The the remaining syntactic structure is `verb₁–verb₂–object`.
 
-**mi ples tu kom haus.**
+**mi ples tu lai haus.**
 – I ask you to come home.  
-**ples kom haus!**
+**ples lai haus!**
 – Please come home!
 
 
@@ -598,9 +598,9 @@ They don't say, for example, *I want that I write* but they say *I want to write
 Looks like it is worthwhile to mention the participants only when they add new information to the sentence.
 The second participant can be left out from the pivot construction when it is the same as the subject.
 
-***mi*** **van** ***mi*** **kitab letre.**
+***mi*** **vol** ***mi*** **kitab letre.**
 – *I* want *me* to write a letter.  
-***mi*** **van kitab letre.**
+***mi*** **vol kitab letre.**
 – I want to write a letter.
 
 This structure is called the verb series or the serial verb construction.
@@ -612,14 +612,14 @@ All verbs are about the same subject.
    – I go home.
 2. **mi kan go to haus.**
    – I can go home.
-3. **mi van kan go to haus.**
+3. **mi vol kan go to haus.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
 The last verb in the series is the main verb.
 The verbs before it are modal verbs.
 
-**tu van yam som vege.**
+**tu vol yam som vege.**
 – You want to eat vegetables. (desire)  
 **tu sele yam som vege.**
 – You had better eat vegetables. (advice)  
@@ -671,14 +671,14 @@ One can also use the passive construction to a similar effect.
 
 Another way to front the object is to use the relative clause construction.
 
-**tu es dat mi vize.**
+**tu es ki mi vize.**
 – You are the one whom I saw.
 
 This sentence can be made more impactful by fronting the linking verb
 **es**.
 and then even more by dropping the relative pronoun.
 
-**es tu dat mi vize.**
+**es tu ki mi vize.**
 – It's you whom I saw.  
 **es tu mi vize.**
 – It's you I saw.
@@ -687,9 +687,9 @@ Finally, the same
 **es...**
 constructions can be used for emphasizing the topicness of the normal subject too.
 
-**es mi dat vize tu.** ~ **es mi vize tu.**
+**es mi ki vize tu.** ~ **es mi vize tu.**
 – It's me who saw you.  
-**es mi dat kom.** ~ **es mi kom.**
+**es mi ki lai.** ~ **es mi lai.**
 – It's me who came.
 
 
@@ -783,22 +783,22 @@ The question is answered by repeating the chosen alternative.
 
 Open questions, or _wh-_ questions, ask for more information.
 In Pandunia they use the word
-**vat**
+**ke**
 ('what').
 
-**piza es vat?**
+**piza es ke?**
 – What is pizza?
 
 The question word may be moved to the front of the sentence for emphasis.
 However, unlike in English, the word order may also be unchanged.
 
-**vat tu yam?**
+**ke tu yam?**
 – What are you eating?  
-**tu yam vat?**
+**tu yam ke?**
 – You are eating what?  
-**hi kom a vat tem?**
+**da lai na ke sat?**
 – When does he arrive?  
-**yu vizite a vat jen's haus?**
+**tumen vizite na ke yen su haus?**
 – Whose house did you all vizet?
 
 
@@ -812,47 +812,47 @@ There are different ways to build a relative clause in Pandunia.
 In English, relative clauses are build with the help of relative pronouns *that*, *who* and *which*,
 but there are no relative pronouns in Pandunia.
 What is used instead is the subordinator
-**dat**
+**ki**
 and it corresponds to English _that_, _who_ and _which_.
 
 In Pandunia, relative clauses are always set off by commas.
 
-**da buk, dat da jen kitab, pada.**
+**la buk, ki la jen kitab, pada.**
 – The book, which the person writes, falls.
 
 It is also possible to leave
-**dat**
+**ki**
 out.
 This structure is called _reduced relative clause_.
 
-**da buk, da jen kitab, pada.**
+**la buk, la jen kitab, pada.**
 – The book the person writes falls.
 
 The subordinator is necessary
 when the relativized noun is the subject of the relative clause.
 
-**da jen, dat kitab da buk, pada.**
+**la jen, ki kitab la buk, pada.**
 – The person that writes the book falls.
 
 Also the object noun of a preposition can be the target of the relative clause.
 It's possible to use the subordinator or the reduced relative clause structure.
 
-**da kalam, a dat da jen kitab da buk, pada.**
+**la kalam, a ki la jen kitab la buk, pada.**
 – The pen, with _which_ the person writes the book, falls.  
-**da kalam, da jen kitab da buk a, pada.**
+**la kalam, la jen kitab la buk a, pada.**
 – The pen the person writes the book with falls.
 
 The resumptive pronoun can be put in its right place in the pivot structure
 or it can be left out by using the reduced relative clause structure.
 
-**da jen, mi vize dat kitab da buk, pada.**
+**la jen, mi vize ki kitab la buk, pada.**
 – The person, whom I see write the book, falls.  
-**da jen, mi vize kitab da buk, pada.**
+**la jen, mi vize kitab la buk, pada.**
 – The person that I see write the book falls.  
 
 Also a _resumptive relative pronoun_ can be used if needed.
 
-**da jen, mi kitab da buk a hi's kalam, pada.**
+**la jen, mi kitab la buk a la su kalam, pada.**
 – The person whose pen I write the book with falls.
 
 
@@ -860,52 +860,52 @@ Also a _resumptive relative pronoun_ can be used if needed.
 
 A content clause is a subordinate clause that provides content that is commented or referred to by its main clause.
 In Pandunia they are typically introduced with the conjunction
-**dat**.
+**ki**.
 
-**mi nou dat tu es frende.**
+**mi nou ki tu es frende.**
 – I know that you are a friend.  
-**de fikre dat vi hav chute.**
+**de fikre ki mimen hav chute.**
 – They think that we have left.
 
 A content clause can be placed before or after the clause that talks about it.
 The demonstrative
-**da der**
+**vo**
 points to the following content clause and plain
-**da**
+**la**
 points to the previous one.
 
-**da der es bari, dat mi no hav vize de.**
+**vo es bari, ki mi no hav vize de.**
 – _It_ is important _that I haven't seen them_.  
-**dat pan jen be sana ka par, da es klar.**
+**ki pan jen be sana ka par, la es klar.**
 – _That all people are created as equals_; _it_ is clear.
 
 The content clause marker
-**dat**
+**ki**
 can be combined to the prepositions in order to construct conjunctions of cause and purpose.
 
-**to dat**
+**do ki**
 – so that, in order that, with the result that  
-**of dat**
+**ze ki**
 – because, for the reason that
 
-**mi duk ye buk _to dat_ mi trapas da teste.**
+**mi duk ye buk _do ki_ mi trapas la teste.**
 – I read this book so that I will pass the test.  
-**mi hav trapas da teste _of dat_ mi duk da buk.**
+**mi hav trapas la teste _ze ki_ mi duk la buk.**
 – I have passed the test because I read the book.
 
 
 ## Conditional clauses
 
 The word
-**if**
+**si**
 is conditional sentences, it works in the same way as English 'if'.
 
-**mi no vud yam da, if mi es tu.**
+**mi no vud yam la, si mi es tu.**
 – I wouldn't eat it _if_ I were you.
 
 The rest of the sentence can optionally be preceded by the word **asar**, which means 'then'.
 
-**if tu tochu tava, asar tu pate hande.**
+**si tu tochu tava, asar tu pate hande.**
 – _If_ you touch the pan, _then_ you will hurt your hand.
 
 
@@ -941,7 +941,7 @@ Expressions are affirmative by default.
 
 **mi es shefe.**
 – I am the boss.  
-**hi es nove meza.**
+**da es nove meza.**
 – It is a new table.
 
 Affirmation can be emphasized with the adverb
@@ -950,16 +950,16 @@ Affirmation can be emphasized with the adverb
 
 **mi ye es shefe.**
 – I indeed am the boss.  
-**hi ye es nova meza.**
+**da ye es nova meza.**
 – It indeed is a new table.
 
 #### Negative
 
 Such sentences can be simply negated with **no**.
 
-**hi no es shefe.**
+**da no es shefe.**
 – He is not the boss.  
-**hi no es nove meza.**
+**da no es nove meza.**
 – It's not a new table.
 
 The word **no** is used for denying anything.
@@ -973,11 +973,11 @@ Different scopes of negation may result depending on the location of the negativ
 **mi vize no tu ama de.**
 – I see, not you, but them.
 
-**mi ples tu safi da kamre.**
+**mi ples tu safi la kamre.**
 – I ask you to clean the room.  
-**mi no ples tu safi da kamre.**
+**mi no ples tu safi la kamre.**
 – I do NOT ask you to clean the room.  
-**mi ples tu no safi da kamre.**
+**mi ples tu no safi la kamre.**
 – I ask you NOT to clean the room.
 
 Particles
@@ -1010,13 +1010,13 @@ apply to the verb alone and not the sentence as a whole.
 ### Modifier particles
 
 Particles
-**'s**
+**su**
 and
-**of**
+**di**
 are used to link a noun, an adjective or a verb phrase to a noun to modify it.
-**'s**
+**su**
 connects the modifying word or phrase to the main noun.
-**of**
+**di**
 works in the opposite direction, it connects the main noun to the modifying word or phrase.
 
 #### Modification with noun phrases
@@ -1026,78 +1026,78 @@ It gives us more information about the noun, and the particle makes it clear in 
 
 The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
-**rode rang's labi**
+**rode rang su labi**
 – rose-colored lips  
-**sama rang's yen**
+**sama rang su ain**
 – sky-colored eyes
 
 Or in the opposite order:
 
-**labi of rode rang**
+**labi di rode rang**
 – lips of the rose-color  
-**yen of sama rang**
+**ain di sama rang**
 – eyes of the sky-color
 
 The particles help in creating measure word structures too.
- 
-**un sake's patate**
+
+**un sake su patate**
 – one sack of potatoes  
-**du sake's patate**
+**du sake su patate**
 – two sacks of potatoes  
-**mor sake's patate**
+**max sake su patate**
 – more sacks of potatoes
 
 Note that
-**'s**
+**su**
 and
-**of**
+**di**
 connect phrases together.
 So a modifier phrase with and without them can mean a different thing.
 
-**mor mei hua**
+**max mei hua**
 – more beautiful flowers  
-**mor of mei hua**
+**max di mei hua**
 – more of beautiful flowers
 
 #### Modification with verb phrases
 
 Verbs are turned into modifiers by placing
-**'s**
+**su**
 or
-**of**
+**di**
 immediately next to the verb.
 Verb phrases can also be made into modifiers in this way, but any objects must be moved to before the verb.
 
-**shut of grafe pente**
+**shut di grafe pente**
 – the art of picture-painting (the art of painting pictures)  
-**ale's helpe's suka**
+**ale su helpe su suka**
 – the joy of others-helping (the joy of helping others)
 
 #### Possession
 
 The possessive particle
-**'s**
+**su**
 works like the *s*-genitive (*'s*) in English.
 It indicates that the previous word has possession of the next one.
 
-**Maria's mama**
+**Maria su mama**
 – Maria's mother  
-**Maria's mama's haus**
+**Maria su mama su haus**
 – Maria's mother's house
 
 The same particle is used with with personal pronouns too.
 
-**mi's haus**
+**mi su haus**
 – my house  
-**tu's haus**
+**tu su haus**
 – your house  
-**hi's haus**
+**la su haus**
 – his or her house  
-**vi's haus**
+**mimen su haus**
 – our house  
-**yu's haus**
+**tumen su haus**
 – your house  
-**de's haus**
+**damen su haus**
 – their house
 
 
@@ -1119,9 +1119,9 @@ indicates a suggestion or a command.
 indicates disdainment, disrespect or contempt.
 It translates as *bah*, *fie*.
 
-**tu fete hi, fi.**
+**tu fete da, fi.**
 – You did it, bah.  
-**fi! piza! mi no van.**
+**fi! piza! mi no vol.**
 – Bah! Pizza! I don't want (it).
 
 
@@ -1135,7 +1135,7 @@ It translates as *eh?* or *huh?*.
 **me**
 indicates indifference, boredom or lack of excitement.
 
-**me. hi no es nove.**
+**me. da no es nove.**
 – Meh. It's not new.
 
 **ne**
@@ -1147,7 +1147,7 @@ One uses it at the end of sentence if one is not completely sure about something
 
 **tu suka kafe, ne? sepe un kupa ba!**
 – You like coffee, right? Grab a cup!  
-**hi es nove, ne?**
+**da es nove, ne?**
 – It is new, isn't it?
 
 **na**
@@ -1155,16 +1155,16 @@ is used to introduce a statement.
 It can fill a pause, particularly at the beginning of a response to a question.
 It can also introduce a statement that may be contrary to expectations.
 
-**tu kitab hi, he? – na, no haf.**
+**tu kitab da, he? – na, no haf.**
 – Did you write it? – Well, not yet.  
-**hi es gud, ne? – na, ye.**
+**da es gud, ne? – na, ye.**
 – It's good, isn't it? – Well, yes.
 
 **o**
 indicates that the speaker is uncertain of the matter.
 It roughly translates as *or...?*.
 
-**hi es okei a tu, o...**
+**da es okei a tu, o...**
 – It is okay for you, or...
 
 **va**
@@ -1173,9 +1173,9 @@ It can be used on its own or at the start or end of a sentence to express how am
 
 **va!**
 Wow!  
-**va, hi es dai!**
+**va, da es dai!**
 – Wow, it's big!  
-**hi es dai, va!**
+**da es dai, va!**
 – It's so big!
 
 **ye**
@@ -1186,10 +1186,11 @@ It can be translated as *indeed* or *truly*.
 
 **mi hav vize tu ye.**
 – I truly saw you.  
-**hi es ver, ye.**
+**da es ver, ye.**
 – It is true indeed.  
-**hi es nove, ne? – hi es nove, ye.**
+**da es nove, ne? – da es nove, ye.**
 – It is new, right? – It's new indeed.
+
 
 ## Observations
 

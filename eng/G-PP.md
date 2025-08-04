@@ -6,81 +6,81 @@ They always take an object.
 The most frequent prepositions in Pandunia are
 **en**
 (location),
-**to**
+**do**
 (destination) and
-**of**
+**ze**
 (origin).
 They have broader meanings in Pandunia than the corresponding prepositions in English.
 
-### Location: a
+### Location: na
 
 The preposition
-**a**
+**na**
 expresses general location in time or space, 'at, by, in, on'.
 
-**vi marche a dao.**
+**mimen marche na dao.**
 – We walk ON the road.  
-**mau sid a meza.**
+**mau side na meza.**
 – A cat sits ON the table.  
-**mi mus sta long a labur.**
+**mi mus sta long na labur.**
 – I must stay long AT work.
 
-### Destination: to
+### Destination: do
 
 The preposition
-**to**
+**do**
 denotes destination in the broadest sense.
 
 It denotes the destination of movement, 'to'.
 
-**de marche to bazar.**
+**damen marche do bazar.**
 – They walk TO the market.
 
 It denotes the destination of giving i.e. the recipient, 'to, for'.
 
-**mi don da hir buk to yu.**
+**mi don ye buk do tumen.**
 – I give this book TO you.  
-**da hir buk es to yu.**
+**ye buk es do tumen.**
 – This book if FOR you.
 
 It denotes the causal destination, 'for, for the purpose of'.
 
-**mi vud morte to mi se nasia.**
+**mi vud morte do mi se nasia.**
 – I would die FOR my nation.
 
-### Origin: of
+### Origin: ze
 
 The preposition
-**of**
+**ze**
 denotes separation or origin in the broadest sense.
 
 It denotes the origin of movement, 'from'.
 
-**de kom of Brazil.**
+**damen lai ze Brazil.**
 – They come FROM Brazil.
 
 It denotes also the origin of existence, 'of'.
 
-**da lexe** ***kitab*** **es of arab asle.**
+**la lexe** ***kitab*** **es ze arabe asle.**
 – The word *kitab* is OF Arabic origin.
 
 It denotes also the material origin, 'of'.
 
-**da kopa es of glass.**
+**la kopa es ze glass.**
 – The cup is made OF glass.
 
 It denotes also the causal origin, 'because of'.
 
-**da mau morte of sen umre.**
+**la mau morte ze sen umre.**
 – The cat died OF old age.  
-**da mau morte of toxe.**
+**la mau morte ze toxe.**
 – The cat died BECAUSE OF poison.
 
 It denotes also the mental origin, 'of, about'.
 
-**vi tok of yu.**
+**mimen loge ze tumen.**
 – We talk ABOUT you.  
-**mi fikre of hope.**
+**mi fikre ze hope.**
 – I think OF hope.
 
 
@@ -90,7 +90,7 @@ The preposition
 **ex**
 denotes location on the outside, 'out, outside'.
 
-**deme ye proteste ex da burge.**
+**deme ye proteste ex la burge.**
 – People protest outside the castle.
 
 ### en ('inside')
@@ -99,7 +99,7 @@ The preposition
 **en**
 denotes location on the inside, 'in, inside'.
 
-**presiden sir en da burge.**
+**presiden sir en la burge.**
 – The president hides in the castle.
 
 ### kon ('in the company of')
@@ -108,8 +108,8 @@ The preposition
 **kon**
 denotes togetherness, 'with, in the company of'.
 
-**hi log kon da shefe.**
-– He/she talks with the boss.
+**da loge kon la shef.**
+– He/she talks with the chief.
 
 ### pos ('after')
 
@@ -117,7 +117,7 @@ The preposition
 **pos**
 denotes later position in time or space, 'after, later than'.
 
-**de kom pos mi.**
+**damen lai pos mi.**
 – They come after me.
 
 ### pre ('before')
@@ -126,7 +126,7 @@ The preposition
 **pre**
 denotes earlier position in time or space, 'before, in front of'.
 
-**de kom pre mi.**
+**damen lai pre mi.**
 – They come before me.
 
 ### pro ('toward')
@@ -144,7 +144,7 @@ The preposition
 **re**
 denotes movement back, 'back, in return'.
 
-**hi don da buk re mi.**
+**da don la buk re mi.**
 – He gave the book back to me.
 
 ### tra ('through')
@@ -159,15 +159,14 @@ The preposition
 **via**
 denotes road or way, 'via, by way of'.
 
-**vi kom to Berlin via Praha.**
+**mimen lai do Berlin via Praha.**
 – We come to Berlin via Prague.
 
-### vis ('instead of')
+### vice ('instead of')
 
 The preposition
-**vis**
+**vice**
 denotes substitution, 'instead of, on behalf of'.
 
-**hi log vis mi.**
+**da loge vice mi.**
 – He talks on my behalf.
-
