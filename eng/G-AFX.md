@@ -34,7 +34,7 @@ can function as a verb (_to write_), a noun (_a writing_) and adjective (_writte
 – I write a letter.  
 **letre es kitab misaje.**
 – A letter is a written message.  
-**mi love yu's kitab.**
+**mi love tu su kitab.**
 – I love your writings.
 
 
@@ -486,6 +486,24 @@ The prefix **su-** adds the quality of goodness into the base word.
 → **surupik**
 'good-looking'
 
+#### ta- ~ tan-
+
+The prefix
+**ta(n)-**
+is about getting oneself to do the action, which the root refers to.
+
+**fikre**
+'to think'
+→ **tafikre**
+'to get lost in thoughts'  
+**xukre**
+'to thank'
+→ **taxukre**
+'be thankful'  
+
+In nouns it denotes the effect or resulting state of performing the action, especially to oneself.
+
+
 
 ### Suffixes
 
@@ -651,6 +669,32 @@ which are used before other suffixes.
 **esen** + **-ik**
 → **esentik**
 'essential'
+
+#### -enda
+
+Indicates 'what should be, or needs to be, done'.
+
+**age**
+'to do'
+→ **agenda**
+'agenda, list of things that need to be done'  
+**ade**
+'to add'
+→ **adenda**
+'addendum, something to be added'  
+**dele**
+'to delete'
+→ **delenda**
+'delenda, something to be deleted or removed'  
+**krede**
+'to believe'
+→ **kredenda**
+'credendum, something to be believed'  
+**korege**
+'to correct'
+→ **koregenda**
+'corrigendum, something to be corrected'
+
 
 #### -er ~ -ter
 
