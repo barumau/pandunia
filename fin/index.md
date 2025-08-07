@@ -65,11 +65,11 @@ Sanoja ei siis taivuteta lainkaan persoona-, aika-, tapa- tai sijamuodoissa eik�
 Lauseen sanajärjestys on subjekti–verbi–objekti,
 eli yleensä tekijä on lauseen alussa, sitten teonsana ja viimeisenä tekemisen kohde.
 
-**mi love yu.**
+**mi ame yu.**
 – Minä rakastan sinua.
 
 Samaa sanajärjestystä käytetään myös kysymyslauseissa.  
-**yu love mi, he?**
+**yu ame mi, he?**
 – Sinä rakastat minua, häh? (eli: Rakastatko sinä minua?)
 
 Yksikkö ja monikko ilmaistaan lukusanoilla tarpeen mukaan.
@@ -123,12 +123,12 @@ Aika ilmaistaan apusanoilla:
 
 Lauseenloppuisilla pikkusanoilla ilmaistaan, minkä vuoksi lause on sanottu,
 esim. onko se toteamus, kysymys vai käsky.  
-**tu love kafe, he?**
-– Sinä rakastat kahvia, mitä? (kysymys)  
-**tu love kafe, ya.**
-– Sinä rakastat kahvia kyllä. (toteamus)  
-**tu love kafe, ne?**
-– Sinä rakastat kahvia, vai... (ehdotus)
+**tu ame kafe, he?**
+– Pidätkö sinä kahvista? (kysymys)  
+**tu ame kafe, ya.**
+– Kyllähän sinä pidät kahvista. (toteamus)  
+**tu ame kafe, ne?**
+– Sinä pidät kahvista, niinhän? (ehdotus)
 
 
 ## Käytä sitä!

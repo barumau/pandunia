@@ -52,23 +52,23 @@ La skribsistemo de Pandunia estas preskaŭ laŭsona.
 Unu sono = unu litero.
 
 Oni akcentas la unuan silabon en mallongaj vortoj kaj la duan silabon en pli longaj vortoj.  
-**méni jén kán báshe Englísh in Amérika.**
-– Multaj homoj povas paroli la anglan en Ameriko.
+**mülti hóm kán báshe pandunia na dunia.**
+– Multaj homoj povas paroli la pandunian en la mondo.
 
 Vortoj neniam ŝanĝiĝas en Pandunia.
 Ili ne fleksias laŭ nombroj, kazoj, genroj, personoj, tempoj, ktp.
 
 La normala vortordo estas subjekto–verbo–objekto.  
-**mi love yu.**
+**mi ame yu.**
 – Mi amas vin.
 
 ![](http://www.kupsala.net/PanGlobish/grafe/Freepik_love.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 Demandoj enhavas la saman vortordon.  
-**yu love hu?**
+**yu ame ke?**
 – Kiun vi amas?  
-**yu love mi, he?**
+**yu ame mi, he?**
 – Ĉu vi amas min?
 
 Singularo kaj pluralo estas indikita per nombrovortoj.
@@ -122,12 +122,12 @@ Tempo estas indikata per helpantaj verboj:
 
 Frazfinaj partikuloj indikas kial oni diras la frazon,
 ekz. ĉu ĝi estas deklaro, demando aŭ komando.  
-**yu love kafe, he?**
+**yu ame kafe, he?**
 – Ĉu vi ŝatas kafon? (demando)  
-**yu love kafe, ye.**
+**yu ame kafe, ye.**
 – Vi ja ŝatas kafon.  
-**yu love kafe, ne?**
-– Vi ŝatas kafon, ĉu?
+**yu ame kafe, ne?**
+– Vi ŝatas kafon, ĉu ne?
 
 
 ## Uzu ĝin!

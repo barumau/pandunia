@@ -65,16 +65,16 @@ There aren't any special _inflected_ forms for cases, tenses, moods, singular an
 
 The normal word order is subject–verb–object
 so the doer comes first, then the action word and finally the object of the action.  
-**mi love tu.**
+**mi ame tu.**
 – I love you.
 
 ![](http://www.kupsala.net/PanGlobish/grafe/Freepik_love.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 The word order is the same also in questions.  
-**tu love ke?**
+**tu ame ke?**
 – Who do you love?  
-**tu love mi, he?**
+**tu ame mi, he?**
 – Do you love me? (i.e. Do you love, eh?)
 
 Singular and plural are indicated with number words.
@@ -128,12 +128,12 @@ Time is expressed with auxiliary verbs:
 
 Sentence-final particles express why the sentence is said,
 i.e. is the sentence, for example, a statement, a question or a command.  
-**tu love kafe, he?**
+**tu ame kafe, he?**
 – You love coffee, eh? (question)  
-**tu love kafe, ya.**
+**tu ame kafe, ya.**
 – You love coffee, indeed. (statement)  
-**tu love kafe, ne?**
-– You love coffee, or... (need for response)
+**tu ame kafe, ne?**
+– You love coffee, don't you? (need for response)
 
 
 ## Use it!

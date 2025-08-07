@@ -52,9 +52,10 @@ hide:
 
 ## Материалы на других сайтах
 
+- Пандуния на [Списки Сводеша для искусственных языков](https://ru.wiktionary.org/wiki/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%A1%D0%B2%D0%BE%D0%B4%D0%B5%D1%88%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%B2)
 - [Подсчет голосов в Пандунии](https://www.languagesandnumbers.com/how-to-count-in-pandunia/en/pandunia/)
 - [Карточки и викторины](https://lingopolo.org/pandunia/) на _Lingopolo_
-- [Fandom Wiki in Pandunia](https://pandunia.fandom.com/)
+
 
 <!--
 ## Статьи
@@ -71,13 +72,11 @@ hide:
 Многие люди уже интересуются Пандунийским, и они говорят на нём.
 Вы можете найти форумы Pandunia в нескольких местах:
 
-| Платформа| канал   | Темы    |
-|----------|---------|---------|
-| Discord  | [Пандуния-сервер](https://discord.gg/jf5GHcHXKk) | Все |
-| Reddit   | [r/pandunia](https://www.reddit.com/r/pandunia/) | Новости и обсуждение |
-| Facebook | [Группа Пандунии в Facebook](http://www.facebook.com/groups/pandunia) | Обсуждение |
-| Telegram | [многоязычный канал](https://t.me/pandunia_grupe) | Обсуждение |
-| Telegram | [mimen loge pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) | Практика языка |
+- [Пандуния-сервер](https://discord.gg/jf5GHcHXKk) в Discord | Все |
+- [r/pandunia](https://www.reddit.com/r/pandunia/) в Reddit
+- [Группа Пандунии в Facebook](http://www.facebook.com/groups/pandunia) в Facebook
+- [многоязычный канал](https://t.me/pandunia_grupe) в Telegram
+- [mimen loge pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) в Telegram
 
 Вы можете найти других носителей языка Пандунийского в: [Amikumu](https://amikumu.com/) app!
 
