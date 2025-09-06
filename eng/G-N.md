@@ -9,20 +9,20 @@ Like all words in Pandunia, nouns don't ever change in form.
 The same word form is always used, no matter whether the referred thing is singular or plural, definite or indefinite, subject or object, etc.
 Therefore the same Pandunia word form can correspond to many different word forms in English.
 
-**haus**
+*haus*
 – a house, houses, the house, or the houses  
-**meza**
+*meza*
 – a table, tables, the table, or the tables  
-**kursi**
+*kursi*
 – a chair, chairs, the chair, or the chairs  
-**sui**
+*sui*
 – water, the water
 
 Number and definiteness are often known because they were previously mentioned in the conversation or because they are general knowledge.
 For example, normally the word
-**sol**
+*sol*
 refers to _the sun_ and
-**lun**
+*lun*
 refers to _the moon_, our only sun and moon.
 
 
@@ -38,48 +38,73 @@ which also have only one form though they can refer to one or many things.
 In Pandunia, the number is indicated only when it matters and when it is new information.
 It is done simply by inserting a number or a quantity word before the noun.
 
-**meme**
+*meme*
 – (one or more) sheep  
-**un meme**
+*un meme*
 – a sheep or one sheep  
-**du meme**
+*du meme*
 – two sheep  
-**tri meme**
+*tri meme*
 – three sheep  
-**meni meme**
+*multi meme*
 – many sheep
 
-**kursi**
+*kursi*
 – a chair or chairs  
-**un kursi**
+*un kursi*
 – one chair  
-**du kursi**
+*du kursi*
 – two chairs  
-**tri kursi**
+*tri kursi*
 – three chairs  
-**meni kursi**
+*multi kursi*
 – many chairs
 
 It is possible to specify plurality also by reduplication, by saying the noun two times.
 
-**haus haus**
+*haus haus*
 – houses and houses, a variety of houses  
-**buk buk**
+*buk buk*
 – books and books, a variety of books
 
 Quantity words should not be used together with reduplication.
 Therefore, a phrase like
-**tri buk buk**
+*tri buk buk*
 would be superfluous, whereas
-**tri buk**
+*tri buk*
 ('three books') is just perfect.
+
+
+## Associative plural
+
+There is so called **associative plural** in Pandunia.
+It is expressed by the particle
+*men*,
+and the structure
+*X men*
+means 'X and other people associated with X'.
+
+*Adam men*
+– Adam and his people  
+*Maria men*
+– Maria and her people
+
+The same particle is used also for forming the plural personal pronouns.
+
+*mimen*
+– we = 'I and my people' (not 'many mes')  
+*tumen*
+– you = 'you and your people' (not 'many yous')  
+*damen*
+– they = 'a certain group of associated people'
+
 
 ## Proper names
 
 Proper names are nouns for individual people, places and other things.
 
 Names of people can be tagged with the universal title of respect
-**si**.
+*si*.
 Using it shows respect and politeness.
 In Pandunia, you use it in front of someone's name.
 
@@ -89,15 +114,15 @@ The closest translation for it in English is _Mr_ or _Ms_ or _Mx_.
 There are different customs concerning honorific titles in different cultures.
 In some cultures it is not polite to use someone's name without a title of respect.
 Therefore it is advisable to use
-**si**
+*si*
 always when you meet new people from different cultures.
 
 A title of respect can be used with a given name, a family name, or both.
 
-**si Bili King**
+*si Bili King*
 – Mx Billy King  
-**si Bili**
+*si Bili*
 – Mx Billy  
-**si King**
+*si King*
 – Mx King
 
