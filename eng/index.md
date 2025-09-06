@@ -10,24 +10,31 @@ hide:
 – Hello, world!
 
 Welcome to learn about Pandunia,
-the helping language for international interaction and friendship.
+an interesting constructed language.
 
 ![](http://www.pandunia.info/grafe/halo_dunia.png "sal dunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 ## What is Pandunia?
 
-**Pandunia** is a simple language that helps people to talk with each other
-when they don't have any other language in common.
+Pandunia is a **multicultural constructed language** that is spoken by a small number of people currently.
+It is **not** an international auxiliary language – yet! –
+because there are not enough speakers to qualify it as one.
 
-All words in Pandunia are international.
-The basic words are similar to English
-and the rest come from other important languages,
-including French, Spanish, Japanese, Chinese, Russian, Arabic, Hindi and Swahili.
+Pandunia can be used for:
 
-Pandunia is compatible with English on a basic level.
-So you can use Pandunia already now everywhere in the world where English is understood
-to get a hotel room, to order a taxi, to buy souvenirs and to do many other things.
+-   getting to know multicultural international words
+-   learning scientific vocabulary
+-   talking with a small group of like-minded people
+-   challenging your mind
+-   creating art, like poetry and music
+-   fun and personal things, like keeping a diary
+-   dreaming of a better world, where all people are equal
+
+All words in Pandunia are international in some part of the world.
+They come from widely spoken languages,
+including English, French, Spanish, Japanese, Chinese, Russian, Arabic, Hindi and Swahili,
+only to mention a few.
 
 Pandunia is regular and simple.
 Therefore it can be learned much easier and faster than English and other national languages.
@@ -35,29 +42,26 @@ There aren't any grammatical exceptions or complex rules in Pandunia.
 Pandunia is so simple that its basic grammar can be described in [only ten rules](G-baze.md).
 Everybody can learn Pandunia to a good level in a short period of time!
 Pandunia would be an excellent choice for the global second language
-because it can improve the quality of international communication.
-It's better to speak good Pandunia than bad English.
+because it could improve the quality of international communication.
 
 
-## Learn it now!
+## Overview of Pandunia's structure
 
 Pandunia is written in the Latin (and English!) alphabet:  
 A B C D E F G H I J K L M N O P R S T U V X Y Z
 
-Only two letters are pronounced differently than normally in English:
-**c** = *ch* as in *church*, and
-**x** = *sh* as in *ship*.
+All letters are pronounced roughly in the same way as in English.
 
 All vowels are pure vowels.
 They are pronounced as in
 <i><u>a</u>re th<u>e</u>re thr<u>ee</u> <u>o</u>r tw<u>o</u></i>.
 
 The spelling of Pandunia is nearly phonetic.
-One sound = one letter.
+One sound = one letter or a pair of letters.
 
 The stress is on that syllable that is before the last consonant of the root word.
 Prefixes and suffixes are either unstressed or they may carry a secondary stress.  
-**múlti hóm kán báxe pandúnia.**
+**múlti hóm kán báshe pandúnia.**
 – Many people can speak Pandunia.
 
 Words stay always the same in Pandunia.
@@ -100,9 +104,9 @@ Comparison is done with helping words:
 **sim**
 – as, same, equally.
 
-**mi es max bon ka tu.**
+**mi es max hao ka tu.**
 – I am better (_more good_) than you.  
-**no, tu es sim bon ka mi.**
+**no, tu es sim hao ka mi.**
 – No, you are as good as me.  
 **da logu max rapid ka tu.**
 – He or she talks faster (_more fast_) than you.
@@ -112,18 +116,18 @@ Time is expressed with auxiliary verbs:
 – past events  
 **vil**
 – future events  
-**hav**
+**ha**
 – past events that are still relevant  
 **zai**
 – ongoing events
 
 **damen pas lese mi su buk.**
 – They read my book.  
-**mimen hav lese multi buk.**
+**mimen ha lese multi buk.**
 – We have read many books.  
 **mi zai lese un buk.**
 – I am reading one book.  
-**tu vil baxe Pandunia.**
+**tu vil bashe Pandunia.**
 – You will talk Pandunia.
 
 Sentence-final particles express why the sentence is said,
@@ -168,7 +172,7 @@ Find Pandunia speakers near you in [Amikumu](https://amikumu.com/) app!
 - [Stories in Pandunia](https://www.pandunia.info/kitabe)
 - [Counting in Pandunia](https://www.languagesandnumbers.com/how-to-count-in-pandunia/en/pandunia/) in _Of Languages and Numbers_
 
-![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "mimen baxe pandunia!")  
+![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "mimen bashe pandunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 You can contact the creator and a main developer of Pandunia, Risto Kupsala, via email
