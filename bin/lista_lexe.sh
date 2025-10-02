@@ -229,7 +229,12 @@ trabashe_lexaslia_do_esperante() {
     cd ..
 }
 
-
+# gene dubashik lexe lista
+cd ../panlexia
+rm generated/*
+mkdir generated
+sh tools/generate_bilingual_dictionaries.sh pandunia
+cd ../panlingue
 
 # english e pandunia
 krea_lexe_lista eng

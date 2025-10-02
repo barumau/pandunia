@@ -13,7 +13,7 @@ cheke_folde() {
     sed "/pan\.md/d" -i temp/pan_lexe.txt
     sed "/Binary file.*matches/d" -i temp/pan_lexe.txt
     # Delete special symbols
-    sed "s/[,!?=–~ᴬᴾ\*\`\"\']//g" -i temp/pan_lexe.txt
+    sed "s/[,!?=–~_()ᴬᴾ\*\`\"\']//g" -i temp/pan_lexe.txt
     # Check the words against the official vocabulary with Python.
     python3 bin/cheke_lexe.py
     rm temp/pan_lexe.txt

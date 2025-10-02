@@ -1,7 +1,7 @@
 fa_pandoc() {
     pandoc --lua-filter=bin/parse-html.lua --from=markdown-markdown_in_html_blocks $1/pan.md -V geometry:a4paper,margin=2cm -s -o $1/pan.pdf --pdf-engine=/usr/bin/xelatex -V mainfont="$2" -V monofont="DejaVu Sans Mono"
     #-V CJKmainfont="MS Mincho" #-V CJKmainfont="Noto Sans CJK SC" -V devanagarifont="Noto Sans Devanagari"
-    sed 's/\/home\/rkupsala\/pandunia\/html/http:\/\/www.pandunia.info/g' -i $1/pan.md
+    sed 's/\/home\/risto\/pandunia\/html/http:\/\/www.pandunia.info/g' -i $1/pan.md
 }
 
 max_dataje_nam() {
@@ -42,8 +42,7 @@ fa_pan_md() {
     #101_dunia_loga.md 200_baze_jumla.md
 
     # uze da lok of grafe
-    #sed 's/http:\/\/www.pandunia.info/\/home\/risto\/pandunia\/html/g' -i $1/pan.md
-    sed 's/http:\/\/www.pandunia.info/\/home\/rkupsala\/pandunia\/html/g' -i $1/pan.md
+    sed 's/http:\/\/www.pandunia.info/\/home\/risto\/pandunia\/html/g' -i $1/pan.md
 }
 
 kitabe_europan_dokume() {
@@ -69,7 +68,7 @@ kitabe_europan_dokume ita
 kitabe_europan_dokume pol
 kitabe_europan_dokume rus
 kitabe_europan_dokume spa
-kitabe_europan_dokume suomi
+kitabe_europan_dokume fin
 
 kitabe_nipon_dokume jpn
 

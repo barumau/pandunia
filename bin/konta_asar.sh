@@ -2,7 +2,7 @@
 kitaba_pike() {
    echo "# asar de mule bashe de pandunia" > pandunia/asar_da_mulbax.md
    echo "" >> pandunia/asar_da_mulbax.md
-   echo "| baxe  | asar |" >> pandunia/asar_da_mulbax.md
+   echo "| bashe | asar |" >> pandunia/asar_da_mulbax.md
    echo "|-------|--------|" >> pandunia/asar_da_mulbax.md
    cat temp/stats.txt >> pandunia/asar_da_mulbax.md
 }
