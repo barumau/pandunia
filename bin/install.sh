@@ -4,10 +4,17 @@ install_MKDocs() {
     # First install Python and Pip
     # sudo apt install python3
     # sudo apt install python3-pip
-    apt install pipx
-    # For website generation
-    pipx install mkdocs
-    pipx install mkdocs-material --include-deps
+
+    # Create a folder for all virtual environments for Python.
+    mkdir -p $HOME/.venvs
+    # Create my environment called "pan".
+    python3 -m venv $HOME/.venvs/pan
+    # Install Python libraries for website generation.
+    $HOME/.venvs/pan/bin/python -m pip install mkdocs
+    $HOME/.venvs/pan/bin/python -m pip install mkdocs-material #--include-deps
+    # Activate the virtual environment.
+    # Do this always when you want to use mkdocs!
+    source $HOME/.venvs/pan/bin/activate
 }
 
 install_PanDoc() {
