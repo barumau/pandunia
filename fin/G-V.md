@@ -1,5 +1,5 @@
 
-# 8. Verbit
+# Verbit
 
 ## Yleistä
 
@@ -12,25 +12,25 @@ eikä taivuttamalla verbiä niin kuin suomen kielessä.
 
 Verbin subjekti ilmaisee sen persoonan ja luvun.
 Esimerkiksi, verbi
-**es**
+*sa*
 ('olla') on samassa muodossa kaikissa persoonissa.
 
-**_mi_ es frende.**
+*me sa doste.*
 – Minä olen ystävä.  
-**_tu_ es frende.**
+*tu sa doste.*
 – Sinä olet ystävä.  
-**_hi_ es frende.**
+*ho sa doste.*
 – Hän on ystävä.  
-**_vi_ es frende.**
+*memen sa doste.*
 – Me olemme ystäviä.  
-**_yu_ es frende.**
+*tumen sa doste.*
 – Te olette ystäviä.  
-**_di_ es frende.**
+*homen sa doste.*
 – He ovat ystäviä.
 
 Subjektina voi olla myös substantiivi.
 
-**mau es hevan.**
+*mau sa hevan.*
 – Kissa on eläin.
 
 ## Ajan ja tavan ilmaiseminen

@@ -1,27 +1,27 @@
 
-# 4. Pronominit
+# Pronominit
 
 ## Persoonapronominit
 
 | Yksikkö     | Monikko      |
 |:------------|:-------------|
-| **mi**      | **vi**       |
+| **me**      | **memen**    |
 | minä        | me           |
-| **tu**      | **yu**       |
+| **tu**      | **tumen**    |
 | sinä        | te           |
-| **hi**      | **de**       |
+| **ho**      | **homen**    |
 | hän         | he           |
 
 Persoonapronominien omistusmuodot muodostetaan partikkelilla
-**'s**.
+**di**.
 
 | Yksikkö     | Monikko      |
 |:------------|:-------------|
-| **mi's**    | **vi's**     |
+| **me di**   | **memen di** |
 | minun       | meidän       |
-| **tu's**    | **yu's**     |
+| **tu di**   | **tumen di** |
 | sinun       | teidän       |
-| **hi's**    | **de's**     |
+| **ho di**   | **homen di** |
 | hänen       | heidän       |
 
 Persoonapronominit korvaavat kokonaisia lausekkeita.
@@ -31,35 +31,37 @@ Persoonapronominit korvaavat kokonaisia lausekkeita.
 
 ## Refleksiivipronomini
 
-**sef**
-= itse
+**se**
+– itse
 
 Refleksiivipronominia
-**sef**
+**se**
 käytetään sellaisenaan kaikissa persoonissa.
 
-**mi vize sef.**
+**me viza se.**
 – Minä näen itseni.  
-**hi vize sef.**
+**ho viza se.**
 – Hän näkee itsensä.  
-**vi vize sef.**
+**memen viza se.**
 – Me näemme itsemme.
 
-Sen omistusmuoto on **sef se**.
+Sen omistusmuoto on
+**si**
+'oma'.
 
-**hi vize sef's muka a mirer.**
+**ho viza si face a mirer.**
 – Hän näkee kasvonsa peilissä.
 
 Sana
-**unaltre**
+**alale**
 viittaa tekijöihin vastavuoroisesti.
 
-**unaltre**
+**alale**
 – toinen toistaan ~ toisiaan
 
-**tu e mi vize unaltre.**
+**tu e me viza alale.**
 – Sinä ja minä näemme toisemme.  
-**vi vize unaltre.**
+**memen viza alale.**
 – Me näemme toisemme.
 
 
@@ -67,91 +69,92 @@ viittaa tekijöihin vastavuoroisesti.
 
 Osoittava pronomini on:
 
-**da**
-– tämä, tuo, se  
-**di**
-– nämä, nuo, ne
+**yi**
+– tämä, nämä  
+**vi**
+– tuo, nuo
 
 
 Pronomini
-**da hir**
+**yi**
 osoittaa puhujan lähellä oleviin asioihin,
 ja pronomini
-**da der**
+**vi**
 osoittaa puhujasta kaukana oleviin asioihin.
 
-**tu van da der buk, he?**
+**tu vola vi buk, he?**
 – Haluatko sinä tuon kirjan?  
-**no, mi van da hir buk, no da der.**
+**no, me vola yi buk, no vi.**
 – Minä haluan tämän kirjan, en tuota.
 
 Panduniassa osoittavat pronomiinit toimivat subjekteina ja objekteina samalla tavalla kuin substantiivit.
 
-**da hir es gud.**
+**yi sa boni.**
 – Tämä on hyvä.  
-**da der es bad.**
+**vi sa dusi.**
 – Tuo on huono.  
-**tu van da hir, he?**
+**tu vola yi, he?**
 – Haluatko sinä tämän?  
-**no, mi van da der.**
+**no, me vola vi.**
 – Ei, minä haluan tuon.
 
 
 ## Kysymyspronominit
 
-Panduniassa on kaksi kysyvää pronominia.
+Kaikkien pandunian kysymyssanojen alussa on kirjaimet
+**qu-**..
 
-**vat**
+**que**
 – mikä  
-**hu**
+**qui jan**
 – kuka
 
 Kysymyssana sijoittuu lauseessa kysyttävän asian paikalle.
 Sitä ei siis sijoiteta lauseen alkuun toisin kuin yleensä suomen kielessä.
 
-*`vat  es   da?`*  
+*`que  sa   ho?`*  
  `mikä olla se`  
 'Mikä se on?'
 
-**vat es da?**
+**que sa ho?**
 – Mikä se on?  
-**hu es da?**
+**que jan sa ho?**
 – Kuka hän on?  
-**yu van vat?**
+**tu vola que?**
 – Mitä sinä haluat?  
-**vat es a meza.**
+**que sa a mez?**
 – Mitä on pöydällä?  
-**hu es en haus.**
+**que sa a entre da haus?**
 – Kuka on talossa?
 
 Omistusta kysyvä pronomini rakennetaan samalla tavalla kuin muutkin omistuspronominit.
 
-**hu's**
+**que di** ~ **que jan di**
 – kenen
 
-**hu's haus es da?**
+**que di haus sa ho?**
 – Kenen talo tuo on?
 
 Adjektiivit voi saattaa kyseenalaisiksi sanalla
-**hau**.
+**quo**.
 
-**hau nove?**
+**quo novi?**
 – Kuinka uusi?  
-**hau koste?**
+**quo kosti?**
 – Minkä hintainen? Kuinka kallis?  
-**hau meni?**
+**quo multi?**
 – Kuinka monta?  
-**hau kam?**
+**quo kam?**
 – Kuinka vähän?  
-**hau dai?**
+**quo dayi?**
 – Kuinka iso?  
-**hau let?**
+**quo leti?**
 – Kuinka pieni?
 
-**tu have hau dai mau?**
-– Kuinka iso kissa sinulla on?
+**tu hava quo multi mau?**
+– Montako kissaa sinulla on?
 
-
+<!--
 ## Pronominimaisten sanojen taulukko
 
 Pro-sanat ovat merkitykseltään pronominimaisia sanoja.
@@ -176,4 +179,5 @@ Pandunian pro-sanat voidaan järjestää säännönmukaisesti taulukkoon kuten a
 | Laatu         | millainen     | tuollainen    | jonkinlainen  | kaikenlainen  |ei minkään lainen|toisen lainen|millainen tahansa|
 | **monta**     | **vat monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  | **otre monta**| **eni monta** |
 | Määrä         | montako       | noin monta    | jonkin verran | kaikki        | ei yhtään     | toisen verran |kuinka paljon tahansa|
+-->
 

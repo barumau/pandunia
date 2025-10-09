@@ -7,64 +7,40 @@ Määrite on sana, joka muokkaa tai tarkentaa toisen sanan merkitystä, esim. hy
 
 Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Panduniassa adjektiivit ovat yleensä pääsanaa ennen.
 
-**un _nove_ gar**
+*novi gar*
 – uusi auto  
-**un _rapid_ gar**
+*rapi gar*
 – nopea auto  
-**multi _dai_ meza**
-– isoja pöytiä  
-**multi _gau_ meza**
-– korkeita pöytiä  
-**un _gud_ jen**
-– hyvä ihminen
+*dayi mez*
+= iso pöytä  
+*boni korse*
+= hyvä tuoli
 
 Adjektiivi voi olla myös substantiivin jälkeen.
 Monesti tällainen rakenne on luettavissa kokonaisena virkkeenä, jossa ei ole käytetty olla-verbiä.
 
-**da – nove.** ~ **da es nove.**
+*ho – novi.* ~ *ho sa novi.*
 – Se on uusi.  
-**gar – nove.** ~ **gar es nove.**
+*gar – novi.* ~ *gar sa novi.*
 – Auto on uusi.  
-**bagre – rapid.** ~ **bagre es rapid.**
+*bagre – rapi.* ~ *bagre sa rapi.*
 – Tiikeri on nopea.
 
 Luonnollisesti laatusanoja voi olla substantiivin kummallakin puolella.
 
-**nove gar – rapid.** ~ **nove gar es rapid.**
+*novi gar – rapi.* ~ *novi gar sa rapi.*
 = Uusi auto on nopea.
-
-
-## Verbin määrite
-
-Adverbi määrittää teonsanaa, adjektiivia tai toista adverbia.
-
-Tavan adverbi on verbin edellä.
-
-**tu _rapid_ logu.**
-– Sinä _nopeasti_ puhut.  
-**di jen _gud_ kitab.**
-– He _hyvin_ kirjoittavat.
-
-Määritepartikkeli
-**li**
-pannaan usein adverbin ja verbin väliin.
-Se selkeyttää verbilausekkeen rakennetta.
-
-**tu _mei li_ kitab.**
-– Sinä _kauniisti_ kirjoitat.  
-**di _rapid li_ marche.**
-– He _nopeasti_ kävelevät.
 
 
 ## Määritteen määrite
 
 Partikkelia
-**li**
+*li*
 käytetään myös kun määrite määrittää toista määritettä.
 
-**un _dai li_ gud buk**
+*un _dai li_ gud buk*
 – _isosti_ hyvä kirja  
-**_bala li_ lovente jen**
+*_bala li_ lovente jen*
 – _voimakkaasti_ rakastavat ihmiset
 
 
@@ -72,41 +48,41 @@ käytetään myös kun määrite määrittää toista määritettä.
 
 Asteen määritteet kertovat laadun voimakkuudesta.
 
-**ver**
+*multo*
 – paljon, sangen, hyvin  
-**bas**
+*baso*
 – tarpeeksi, kyllin  
-**max**
+*max*
 – enemmän  
-**les**
+*min*
 – vähemmän
 
 Asteen määritteet tulevat ennen määrittelemäänsä sanaa.
 
-**un dai man**
+*dayi man*
 – iso mies  
-**un ver dai man**
+*multo dayi man*
 – hyvin iso mies  
-**un bas dai man**
+*baso dayi man*
 – tarpeeksi iso mies
 
 Asteen määrite muodostaa _yhdysadverbin_ toisen määritteen kanssa.
 Sillä voi määrittää verbiä tai kokonaista lausetta.
 Yhdysadverbi pannaan määrittelemänsä verbin edelle.
 
-**ver much**
+*ver much*
 – hyvin paljon  
-**mi _ver much_ van logu.**
+*mi _ver much_ van logu.*
 – Minä _todella paljon_ haluan puhua.  
-**mi van _ver much_ logu.**
+*mi van _ver much_ logu.*
 – Minä haluan _todella paljon_ puhua.
 
 Yhdysadverbin voi myös panna lauseen loppuun,
 jolloin se määrittää lausetta kokonaisuutena.
 
-**mi van logu _ver much_.**
+*mi van logu _ver much_.*
 – Haluan puhua todella paljon.  
-**sual tu sona _bas gud_?**
+*sual tu sona _bas gud_?*
 – Nukuitko tarpeeksi hyvin?
 
 
@@ -114,25 +90,37 @@ jolloin se määrittää lausetta kokonaisuutena.
 
 Sekä adjektiiveja että adverbeja voi verrata.
 
-**max**
+*max*
 'enemmän, -mpi'  
-**maxim**
+*maxim*
 'eniten'  
-**min**
+*min*
 'vähemmän'  
-**minim**
+*minim*
 'vähiten'  
-**sim**
+*sim*
 'yhtä'
 
 Apusana
-**ka**
+*ka*
 suhteuttaa vertailevan adverbin vertailtavaan asiaan.
 
-**aple es max bon ka oranje.**
+*aple sa max boni ka oranje.*
 – Omenat ovat parempia kuin appelsiinit.  
-**oranje es min bon ka aple.**
-– Appelsiinit ovat vähemmän hyviä kuin omenat.  
-**tu logu sim bon ka mi.**
-– Sinä puhut yhtä hyvin kuin minä.
+*oranje sa min boni ka aple.*
+– Appelsiinit ovat vähemmän hyviä kuin omenat.
+
+
+## Adjektiivin pääte
+
+Adjektiivin tunnus on
+*-i*.
+Tätä päätettä käytetään aina, kun adjektiivi on johdettu verbiä tai substantiivia tarkoittavasta sanavartalosta.
+Esim.
+*logi*
+'puhuttu',
+*suki*
+'tyytyväinen',
+*kitabi*
+'kirjallinen'.
 

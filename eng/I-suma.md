@@ -27,27 +27,48 @@ The consonants are:
 **p**,
 **r** (never silent),
 **s** (always voiceless),
+**sh** (sounds like *sh* in *shop*),
 **t**,
 **v** (sounds like _w_),
-**x** (sounds like _sh_),
+**x** (sounds like *s* or *ks*),
 **y**,
 **z**.
 
-### Never changing words
+### Words
 
-Words don't ever inflect or change in Pandunia
-– not even when they change their word class!
-The same word, without any change in form, can serve as a noun, adjective or verb.
+Words are made up of one or more roots and an ending.
+The ending indicates the word-class or "part of speech".
+
+-   Nouns end in **-e** or in a consonant
+-   Adjectives end in **-i**
+-   Adverbs end in **-o**
+-   There are two endings for verbs:
+    -   Verbs that end in **-a** indicate the subject–verb–object  (SVO) word order.
+    -   Verbs that end in **u** indicate the subject–object–verb (SOV) word order.
+
+### Nouns
+
+Nouns indicate a group of one or more; definite or indefinite; masculine, neuter or feminine.
+Number, definiteness and gender are indicated by additional words.
+
+**mau**
+– a cat, the cat, cats, the cats  
+**un mau**
+– one cat   
+**multi mau**
+– many cats  
+**yi mau**
+– the/this/that cat(s)
 
 ### Personal pronouns
 
 | Person   | Singular          | Plural       |
 |:---------|:-----------------:|:------------:|
-|          | **mi**            | **mimen**    |
+|          | **me**            | **memen**    |
 | 1st      | _I, me_           | _we, us_     |
 |          | **tu**            | **tumen**    |
 | 2nd      | _you_             | _you all_    |
-|          | **da**            | **damen**    |
+|          | **ho**            | **homen**    |
 | 3rd      | _he/she, him/her_ | _they, them_ |
 
 ### Basic sentence structures
@@ -55,181 +76,178 @@ The same word, without any change in form, can serve as a noun, adjective or ver
 The basic word order is subject–verb–object
 – the same as in English!
 
-**mi love tu.**
+**me ama tu.**
 – I love you.
 
-Grammar words help to distinguish the subject, verb and object.
-Subject and object are noun phrases and they frequently begin with a grammar word,
-such as a demonstrative pronoun, numeral or another determiner.
-The verb is a verb phrase and it frequently begins with a grammar word,
-such as an affirmative or negative particle, an auxiliary verb or a marker of tense, aspect or mood.
-
-Example 1. Structurally unclear sentence.
-
-*`mau yam fish.`*  
- `cat eat fish`  
-'The cat eats fish.' (probable interpretation of the meaning)
-    
-Example 2. Structurally clear sentence with the affirmation of the verb.
-
-*`mau ye  yam fish.`*  
- `cat yes eat fish`  
-'The cat does eat fish.'
-
-Example 3. Structurally clear sentence with the negation of the verb.
-
-*̀`mau no  yam fish.`*  
- `cat no  eat fish`  
-'The cat doesn't eat fish.'
-
-Example 4. A complex but structurally clear sentence.
-
-*`mi su  doste  hav    yam un  pai.`*  
- `me 's  friend ASPECT eat one pie`  
-'My friend has eaten a pie.'
-
+Word-class endings help to distinguish the subject, verb and object.
 
 ### Negation
 
-To negate a word, add **no** before it.
+To negate a word, add
+**no**
+before it.
 
-**mi no sona.**
+**me no sona.**
 – I don't sleep.  
-**tu yam no jen.**
+**tu yama no jan.**
 – You eat no-one.
 
 ### To be
 
 The verb
-**es**
+**sa**
 means 'to be'.
 It can be left out in very simple sentences.
 
-**mi es hom.**
+**me sa hom.**
 – I am a human.  
-**mi – hom.**
+**me – hom.**
 – I'm a human.
 
-It can't be left out when it is part of a serial verb.
+It can't be left out when it is part of a serial verb construction.
 
-**mi vol es mau.**
+**me vola sa mau.**
 – I want to be a cat.  
-**mi vol mau!**
+**me vola mau!**
 – I want a cat!
 
 ### Multi-purpose words
 
 Pandunia words can be ambiguous because they often have more meanings compared to English.
 
-**da love mau.**
-– He loves cats. / She loved a cat. / He/she will love the cat.
+**ho ama mau.**
+– He loves cats. ~ She loved a cat. ~ He or she will love the cat.
 
-But actually the meaning is clear in the real context:
+However, the precise meaning is usually clear in the actual context where the sentence is used.
 
-**pre tri nen, mi have du mau e un gau. mi have plus un fem ben. da love mau!**
+**a pre da tri nien, me hava du mau e un gau. me hava maxo un dote. ho ama mau!**
 – Three years ago, I had two cats and a dog. I also had a daughter. _She loved the cats!_
 
 ### Time
 
-Tenses and aspects are optionally expressed with the help of adverbs and auxiliary verbs,
-like the aspect auxiliaries
-**zai**
-(be in the process of), and
-**hav**
-(have completed),
-and the tense auxiliaries
-**pas**
-(in the past), and
-**vil**
-(in the future).
+Tenses and aspects are optionally expressed with the help of adverbs and auxiliary verbs.
 
-**mi zai love tu.**
-– I am loving you.  
-**mi hav love tu.**
-– I have loved you.  
-**mi pas love tu.**
-– I loved you.  
-**mi vil love tu.**
+
+**me zayo ama tu.**
+– I am loving you.
+(**zayo** indicates ongoing time i.e. progressive aspect)  
+**me paso ama tu.**
+– I loved you.
+(**paso** indicates the past time)  
+**me fino ama tu.**
+– I have loved you.
+(**fino** indicates completed action i.e. the perfect(ive) aspect)  
+**me vilo ama tu.**
 – I will love you.
+(**vilo** indicates future time)
 
 ### Passive
 
-The passive voice is formed with the help of the verb
-**bi**.
+The passive voice is formed by using the verb ending **-u**
+and changing the word order to the opposite,
+so that the patient of the action is before the verb and the agent is after the verb.
 
-**tu bi love.**
+**tu amu.**
 – You are loved.  
-**mi bi love di tu.**
-– I am loved by you.
+**tu amu me.**
+– You are loved by me.
 
 ### Modifying other words
 
-To modify a noun, put adjectives before it.
+Adjectives end in
+*-i*.
+They are usually before the noun that they modify,
+but they can be can be after the noun, too.
 
-**un nove love**
+**novi ame**
 – a new love  
-**la bon pai**
-– the good pie
+**boni pai**
+– a good pie
 
-To modify a verb, put adverbs before it.
-The adverb can be tagged with
-**li**.
+Adverbs end in
+*-o*.
+They can be placed freely, but usually they are before the word that they modify.
 
-**mi bon (li) vize tu.**
+**me bono viza tu.**
 – I see you well.  
-**tu vi li love da.**
-– You seemingly love him/her.
+**tu vizablo ama ho.**
+– You seemingly love him/her.  
+**me multo ama tu.**
+– I greatly love you.  
+**me ama tu multo.**
+– I love you greatly.
 
-Modifiers are compared with
+
+Adjectives and adverbs are compared with
 **max**
 'more, -er',
 **maxim**
-'the most... (of all)',
+'the most...',
 **min**
 'less',
-**linim**
-'the least... (of all)', and
-**sim**
+**minim**
+'the least...', and
+**par**
 'equally, as'.
 The point of comparison is introduced with
 **ka**
 'than, as'.
 
-**tu es max yun ka mi.**
+**tu sa max juni ka me.**
 – You are younger than me.  
-**tu es maxim yun.**
+**tu sa maxim juni.**
 – You are the youngest.
+
+### Saying no
+
+The word
+**no**
+denies the word that follows it.
+
+**no me a ho vola kapa ho**
+– Not me but he/she wants to take it.  
+**me no vola kapa ho.**
+– I don't want to take it.  
+**me vola no kapa ho.**
+– I want _not_ to take it.  
+**me vola kapa no ho a de.**
+– I want to take not it but that.
 
 ### Questions
 
-To ask _yes–or–no_ questions, replace the verb with "(verb) **no** (verb)" pattern or add
+To ask _yes–or–no_ questions, replace the verb with `(verb) **no** (verb)` pattern or add
 **he**
 'eh, huh' to the end of the sentence.
 
-**tu vi no vi mi?**
+**tu viza no viza me?**
 – Do you see me?  
-**tu vi mi, he?**
+**tu viza me, he?**
 – You see me, eh?
 
 To ask a content question, write a normal sentence and replace the word in question with
-**ke**
-'what, who'.
+**que**
+'what, who'
+or prefix it with
+**qui**
+'which (one)' or
+**quo**
+'how'.
 
-**tu love ke?**
+**tu ama que?**
 – Who do you love?  
-**tu love ke man?**
+**tu ama qui man?**
 – Which man do you love?  
-**ke man love tu?**
+**qui man ama tu?**
 – Which man loves you?  
-**tu love da ke multi?**
+**tu ama ho quo multo?**
 – How much do you love him?
 
 ### Commands
 
 To state a command, leave out the subject and start the sentence with the verb.
 
-**yam ye pai!**
+**yama yi pai!**
 – Eat this pie!  
-**vide vo mau!**
+**viza vi mau!**
 – Look at that cat!
 

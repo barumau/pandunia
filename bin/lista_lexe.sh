@@ -234,7 +234,7 @@ cd ../panlexia
 rm generated/*
 mkdir generated
 sh tools/generate_bilingual_dictionaries.sh pandunia
-cd ../panlingue
+cd ../pandunia
 
 # english e pandunia
 krea_lexe_lista eng

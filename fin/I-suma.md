@@ -7,28 +7,28 @@ Pandunia on keinotekoinen kieli, jonka kielioppi on minimaalinen ja sanasto tasa
 Panduniaa kirjoitetaan äänteenmukaisella kirjoituksella,
 jossa yksi kirjain tai kirjainyhdistelmä vastaa yhtä äännettä.
 
-Vokaalit **a, e, i, o, u** äännetään niin kuin suomessa.
+Vokaalit *a, e, i, o, u* äännetään niin kuin suomessa.
 
 Konsonantit ovat:
-**b**,
-**ch** (äännetään kuin _tš_ sanassa _tšekki_),
-**d**,
-**f**,
-**g**,
-**h**,
-**j** (kuin _dž_ sanassa _maharadža_),
-**k**,
-**l**,
-**m**,
-**n**,
-**p**,
-**r**,
-**s**,
-**sh** (kuin _š_ sanassa _šakki_),
-**t**,
-**v**,
-**y** (kuin suomen _j_),
-**z** (soinnillinen kuin englannin kielen sanassa _zoo_).
+*b*,
+*ch* (äännetään kuin *tš* sanassa *tšekki*),
+*d*,
+*f*,
+*g*,
+*h*,
+*j* (kuin *dž* sanassa *maharadža*),
+*k*,
+*l*,
+*m*,
+*n*,
+*p*,
+*r*,
+*s*,
+*sh* (suhu-*š* kuten sanassa *šakki*),
+*t*,
+*v*,
+*y* (kuin suomen *j*),
+*z* (soinnillinen kuin englannin kielen sanassa *zoo*).
 
 ### Taipumattomat sanat
 
@@ -40,198 +40,179 @@ Samaa sanaa voi käyttää samassa muodossa niin substantiivina, adjektiivina ku
 
 | Persoona | Yksikkö           | Monikko      |
 |:---------|:-----------------:|:------------:|
-|          | **mi**            | **vi**       |
-| 1.       | _minä_            | _me_         |
-|          | **tu**            | **yu**       |
-| 2.       | _sinä_            | _te_         |
-|          | **da**            | **di**       |
-| 3.       | _hän, se_         | _he_         |
+|          | *me*              | *memen*      |
+| 1.       |  minä             |  me          |
+|          | *tu*              | *tumen*      |
+| 2.       |  sinä             |  te          |
+|          | *ho*              | *homen*      |
+| 3.       |  hän, se          |  he          |
 
 ### Peruslauserakenteita
 
 Lauseen sanajärjestys on subjekti–verbi–objekti,
 mikä on myös suomessa yleisin sanajärjestys.
 
-**mi love tu.**
+*me ama tu.*
 – Minä rakastan sinua.
 
-Kieliopin rakennesanat auttavat tunnistamaan subjektin, verbin ja objektin toisistaan.
-Subjekti ja objekti ovat substantiivilausekkeita, ja usein ne alkavat jollakin rakennesanalla,
-kuten osoittavalla pronominilla tai lukusanalla.
-Verbi on verbilauseke, ja usein se alkaa jollakin rakennesanalla,
-kuten ajan, paikan tai tavan apuverbillä tai myöntö- tai kieltosanalla.
-Esimerkki 1. Rakenteeltaan epätarkka lause.
-
-    mau   yam   fish.
-    kissa syödä kala
-    'Kissa syö kalaa.' (merkitykseen perustuva tulkinta)
-    
-Esimerkki 2. Rakenteeltaan tarkka lause myöntösanan ansiosta.
-
-    mau   ye    yam   fish.
-    kissa kyllä syödä kala
-    'Kissa syö kalaa.'
-
-Esimerkki 3. Rakenteeltaan tarkka lause kieltosanan ansiosta.
-
-    mau   no  yam   fish.
-    kissa ei  syödä kala
-    'Kissa ei syö kalaa.'
-
-Esimerkki 4. Monimutkainen mutta tarkka lause.
-
-    mi   se  frende  hav  yam   un   pai.
-    minä -n  ystävä  jo   syödä yksi piirakka
-    'Minun ystäväni on syönyt piirakan.'
 
 
 ### Kieltäminen
 
-Kielletyn sanan eteen pannaan pikkusana **no** 'ei'.
+Kielletyn sanan eteen pannaan pikkusana
+*no*
+'ei'.
 
-**mi no sona.**
+*me no sona.*
 – Minä en nuku.  
-**tu yam no von.**
+*tu yama no jan.*
 – Sinä et syö ketään.
 
 ### Olla-verbi
 
-_Olla_-verbi on panduniassa
-**es**.
+*Olla*-verbi on panduniassa
+*sa*
 Sen voi jättää pois kaikista yksinkertaisimmissa lauseissa,
 joissa on vain subjekti ja predikatiivi.
 
-**mi – home.**
-– Minä, ihminen.  
-**mi es home.**
-– Minä olen ihminen.
+*me sa hom.*
+– Minä olen ihminen.  
+*me – hom.*
+– Minä, ihminen.
 
 Sitä ei voi jättää pois verbiketjusta.
 
-**mi van es mau.**
+*me vola sa mau.*
 – Minä haluan olla kissa.  
-**mi van mau!**
+*me vola mau!*
 – Minä haluan kissan!
 
-### Monikäyttöiset sanat
+### Monikäyttöiset kantasanat
 
-Monet sanat voivat toimia niin substantiivina, adjektiivina kuin verbinä.
+Monet kantasanat voivat toimia niin substantiivina, adjektiivina kuin verbinä.
+Ainoastaan niiden pääte vaihtuu!
 
-Pandunian ovat monikäyttöisiä, ja sen vuoksi ne voivat joskus vaikuttaa epäselviltä suomen sanoihin verrattuna.
+Pandunian sanat ovat monikäyttöisiä, ja sen vuoksi ne voivat joskus vaikuttaa epäselvemmiltä suomen sanoihin verrattuna.
 
-**da ye love mau.**
+*ho ama mau.*
 – Hän rakastaa kissaa. / Hän rakasti kissoja. / Hän tulee rakastamaan kissoja.
 
 Virkkeen asiayhteys selkeyttää sen merkityksen:
 
-**pre tri nen, mi have du mau e un vaf. mi have plus un fem ben. da ye love mau!**
-– Kolme vuotta sitten minulla oli kaksi kissaa ja koira. Minulla oli myös tytär. Hän rakasti niitä kissoja!
+*a pre da tri nien, me hava du mau e un gau. me hava maxo un dote. ho ama mau!*
+– Kolme vuotta sitten minulla oli kaksi kissaa ja koira. Minulla oli myös tytär. Hän rakasti kissoja!
 
 ### Aika
 
 Panduniassa ei ole varsinaisia aikamuotoa.
 Niiden sijasta käytetään apuverbejä ilmaisemaan ajankohtaa ja ajan kulkua.
 Ajan kulkua ilmaistaan apuverbeillä
-**bi**
+*zayo*
 (parhaillaan) ja
-**hav**
+*fino*
 (jo), ja ajankohtaa ilmaistaan apuverbeillä
-**did**
+*paso*
 (ennen) ja
-**vil**
+*vilo*
 (tulevaisuudessa).
 
-**mi bi love tu.**
+*me zayo ama tu.*
 – Minä parhaillaan rakastan sinua.  
-**mi hav love tu.**
-– Minä olen jo rakastanut sinua.  
-**mi did love tu.**
+*me paso ama tu.*
 – Minä ennen rakastin sinua.  
-**mi vil love tu.**
+*me fino ama tu.*
+– Minä olen jo rakastanut sinua.  
+*me vilo ama tu.*
 – Minä tulen rakastamaan sinua.
 
 ### Passiivi
 
-Passiivi muodostetaan käyttämällä apuverbiä
-**be**.
+Passiivi muodostetaan käyttämällä verbipäätettä
+*-u*
+sekä passiivilauseen rakennetta.
 
-**tu be love.**
+*tu amu.*
 – Sinua rakastetaan.  
-**mi be love of tu.**
+*tu amu me.*
 – Minua rakastat sinä.
 
 ### Muiden sanojen luonnehtiminen
 
 Substantiivia luonnehditaan panemalla adjektiivimääre sen eteen.
 
-**un nove love**
+*novi ame*
 – uusi rakkaus  
-**da gud pai**
+*boni pai*
 – hyvä piirakka
 
 Verbiä luonnehditaan panemalla adverbimääre sen eteen.
-Toisinaan adverbi merkitään pikkusanalla
-**li**.
+Adverbin tunnus on
+*-o*.
 
-**mi gud (li) vize tu.**
+*me bono viza tu.*
 – Minä hyvin näen sinut.  
-**tu vize li love da.**
+*tu vizablo ama ho.*
 – Sinä nähtävästi rakastat häntä.
+*me multo ama tu.*
+– Minä paljon rakastan sinua.  
+*me ama tu multo.*
+– Minä rakastan sinua paljon.
 
 Määreitä vertaillaan pikkusanoilla
-**mor**
+*max*
 'enemmän, -mpi',
-**mor... dan hol**
+*maxim*
 'eniten kaikista, -in',
-**les**
+*min*
 'vähemmän',
-**les... dan hol**
+*minim*
 'vähiten kaikista' ja
-**sim**
+*par*
 'yhtä, saman verran'.
 Vertailukohde esitellään apusanalla
-**dan**
+*ka*
 'kuin'.
 
-**tu es mor yun dan mi.**
+*tu sa max juni ka me.*
 – Sinä olet nuorempi kuin minä.  
-**tu es mor yun dan hol.**
+*tu sa maxim juni.*
 – Sinä olet kaikista nuorin.
 
 ### Kysyminen
 
-Vaihtoehtokysymyksessä verbi korvataan "(verbi) **no** (verbi)" -rakenteella tai virkkeen loppuun lisätään apusana
-**he**
+Vaihtoehtokysymyksessä verbi korvataan "(verbi) *no* (verbi)" -rakenteella tai virkkeen loppuun lisätään apusana
+*he*
 'häh'.
 
-**tu vize no vize mi?**
+*tu viza no viza me?*
 – Näetkö sinä minut?  
-**tu vize mi, he?**
+*tu viza me, he?*
 – Sinä näet minut, häh?
 
 Hakukysymyksissä kysytyn asian paikalle pannaan sopiva kysymyssana,
 joko
-**hu**
-'kuka',
-**vat**
-'mikä, mitä' tai
-**hau**
+*que*
+'mikä, mitä',
+*qui*
+'mikä, kumpi' tai
+*quo*
 'kuinka, missä määrin'.
 
-**tu love hu?**
+*tu ama que?*
 – Sinä rakastat ketä?  
-**tu love vat man?**
+*tu ama qui man?*
 – Sinä rakastat mitä miestä?  
-**vat man ye love tu?**
+*qui man ama tu?*
 – Mikä mies rakastaa sinua?  
-**tu love da hau muche?**
+*tu ama ho quo multo?*
 – Sinä rakastat häntä kuinka paljon?
 
 ### Käskeminen
 
 Käsky muodostetaan jättämällä subjekti pois ja aloittamalla lause suoraan verbillä.
 
-**yam da pai!**
-– Syö se piirakka!  
-**vize da mau!**
+*yama yi pai!*
+– Syö tämä piirakka!  
+*viza vi mau!*
 – Katso tuota kissaa!
+

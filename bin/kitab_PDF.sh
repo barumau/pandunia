@@ -21,6 +21,7 @@ fa_dataje_liste() {
     max_dataje_nam $1/G-PoS.md
     max_dataje_nam $1/G-N.md
     max_dataje_nam $1/G-ADJ.md
+    max_dataje_nam $1/G-ADV.md
     max_dataje_nam $1/G-NUM.md
     max_dataje_nam $1/G-PRO.md
     max_dataje_nam $1/G-V.md

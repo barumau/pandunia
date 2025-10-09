@@ -1,29 +1,86 @@
 
-# 1. Règles de base
+# Règles de base
 
 Voici les règles de base de la langue pandunia.
 Elles seront abordées plus en détail plus loin dans ce document.
 
-1. Tout mot est lu comme il est écrit.
-2. L'accentuation se fait sur la syllabe précédant la dernière consonne du mot.
-4. Les substantifs possèdent une forme unique et invariable.
-5. Les adjectifs se placent avant le mot qu'ils modifient.
-   - ex. **rapid loga** = discours rapide.
-6. Les adverbes modifient les verbes, les adjectifs, d'autres adverbes et des phrases complètes.
-   Ils se placent avant le mot qu'ils modifient ou tout à la fin de la phrase.
-   - ex. 1. **ver rapid loga** = discours très rapide
-   - ex. 2. ** tu loga gud.** = Tu parles bien.
-7. L'agent de l'action se place immédiatement avant le verbe.
-    - ex. **mi yam aple.** = Je mange des pommes.
-8. Le verbe auxiliaire **be** indique que le verbe est à la forme passive, et l'objet recevant l'action se place immédiatement avant le verbe.
-    - ex. **aple be yam.** = Des pommes sont mangées.
-9. Dans la _structure pivot_, l'objet du verbe transitif fonctionne comme le sujet du verbe qui suit.
-    - ex. **mi plis tu don mone.** = I te demande de donner de l'argent.
-10. Les pronoms peuvent être omis quand ils sont évidents et redondant.
-    - **mi sual tu bashe pandunia?** → **sual tu bashe pandunia?** = Parles-tu le pandunia?
-    - **mi plis tu loga mor klar.** →  **plis loga mor klar.**
-      = S'il te plait, parle plus distinctement.
+1.  Tout mot est lu comme il est écrit.
+
+    [En savoir plus!](G-ABC.md)
+
+2.  L'accentuation se fait sur la syllabe précédant la dernière consonne du mot.
+
+3.  Les mots sont composés d'une racine et d'un ou plusieurs suffixes.
+    Le dernier suffixe indique la catégorie grammaticale à laquelle il appartient.
+
+    -   Les adjectifs se terminent en *-i*, ex.
+        *novi*
+        'nouveau, neuf'.
+    -   Les adverbes se terminent en *-o*, ex.
+        *novo*
+        'nouvellement'.
+    -   Les verbes actifs se terminent en *-a*, ex.
+        *me loga*
+        'je parle'.
+    -   Les verbes passifs se terminent en *-u*, ex.
+        *ho logu*
+        'c'est parlé'.
+    -   Les substantifs (ou noms) se terminent en *-e*, *-ia* ou par une consonne.
+
+    [En savoir plus!](G-PoS.md)
+
+4.  Les substantifs possèdent une forme unique et invariable.
+
+    [En savoir plus!](G-N.md)
+
+5.  Les adjectifs se placent avant le mot qu'ils modifient.
+    *rapi loge*
+    'discours rapide'
+
+    [En savoir plus!](G-ADJ.md)
+
+6.  Les adverbes modifient les verbes, les adjectifs, d'autres adverbes et des phrases complètes.
+    Ils se placent avant le mot qu'ils modifient ou tout à la fin de la phrase.
+    *vero rapi loge*
+    – discours très rapide  
+    *tu loga bono*
+    – Tu parles bien.
+
+    [En savoir plus!](G-ADV.md)
+
+7.  La terminaison *-a* des verbes indique que le verbe est à la forme active,
+    et l'agent de l'action se place immédiatement avant le verbe.
+
+    *me yama aple.*
+    – Je mange des pommes.
+
+    La terminaison *-u* des verbes indique que le verbe est à la forme passive,
+    et l'objet recevant l'action se place immédiatement avant le verbe.
+
+    *aple yamu.*
+    – Des pommes sont mangées.
+
+    [En savoir plus!](G-V.md)
+
+9.  Dans la _structure pivot_, l'objet du verbe transitif fonctionne comme le sujet du verbe qui suit.
+
+    *me pliza te dona pes.*
+    – I te demande de donner de l'argent.
+
+    Les pronoms peuvent être omis quand ils sont évidents et redondant.
+
+    *me qua tu basha pandunia?* → *qua tu basha pandunia?*
+    – Parles-tu le pandunia?  
+    *me pleza tu loga klaro.* → *pleza loga klaro.*
+    – S'il te plait, parle distinctement.
+
+    [En savoir plus!](G-P.md)
+
 11. Les mots composés se construisent en mettant les mots-racines l'un à côté de l'autre.
-    - ex. **hure** (liberté) + **-isme** (idéologie) → **hurisme** (libéralisme)
-    - ex. **poste** (courrier) + **kase** (boîte) → **poste kase** (boîte à lettres)
+    La liaison entre eux est marquée par la voyelle *-o-* qui s'insère entre les racines.
+
+    *hur-* (liberté) + *ist-* (partisan) → *huriste* (libéraliste)  
+    *post-* (courrier) + *sinduk-* (boîte) → *postosinduk* (boîte à lettres)
+
+    [En savoir plus!](G-AFX.md)
 

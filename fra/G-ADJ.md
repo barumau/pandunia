@@ -1,94 +1,59 @@
 
-# 7. Adjectifs
+# Adjectifs
 
 Un modificateurs est un mot qui ajoute une qualité ou une description à un autre mot, par exemple _bon, mauvais, gros_ et _rapide_.
 
-**un _nove_ karo**
-– une voiture nouvelle  
-**un _rapid_ karo**
-– voiture(s) rapide(s)
-**meni _dai_ meza**
+*novi gare*
+– voiture(s) neuve(s)  
+*rapi gare*
+– voiture(s) rapide(s)  
+*dayi meze*
 – grande(s) table(s)  
-**meni _gau_ meza**
-– table(s) haute(s) 
-**un gud jen**
+*gawi meze*
+– table(s) haute(s)  
+*boni kurse*
 – bonne(s) chaise(s)
 
 Deux adjectifs ou plus peuvent modifier un même mot.
 
-**un let nove karo**
+*leti novi gare*
 – petite voiture neuve
 
 L'adjectif peut se placer aussi après le nom.
 Cette structure peut souvent se lire comme une phrase complète, où l'adjectif fonctionne comme un verbe adjectival, et où le verbe _être_ est sous-entendu.
 
-**karo es nove.** 
+*gare novi.*
 – La voiture est neuve.  
-**bagre es rapid.** 
+*bagre sa rapi.*
 – Le tigre est rapide.
 
 Naturellement, il peut y avoir des modificateurs des deux côtés du nom également.
 
-**nove karo es rapid.** 
+*novi gare – rapi.*
 – La voiture neuve est rapide.
-
-# Adverbes
-
-## Modification du verbe
-
-En pandunia, les adverbes se placent avant le verbe ou à la fin de la phrase.
-
-**mi gud li sona.** 
-– Je _bien_ dors.  
-**mi sona gud.** 
-– Je dors _bien_.  
-**tu bashe pandunia gud.** 
-– Tu parles pandunia _bien_.
-
-
-## Modification d'un autre modificateur
-
-Un modificateur peut également modifier un autre modificateur.
-Ainsi,
-**dai**
-(grand) et
-**let**
-(petit) peuvent être utilisés comme des adverbes d'intensification.
-
-**un dai jen** 
-– un grand individu  
-**un let jen** 
-– un petit individu  
-**un mei jen** 
-– un bel individu
-
-**un dai li mei jen** 
-– un très bel individu  
-**un let li mei jen** 
-– un assez bel individu
 
 
 ## Comparaison
 
 Les modificateurs peuvent être comparés.
 
-**mor**
+*max*
 ('plus') marque le comparatif de supériorité  
-**mor... dan hol**
+*maxim*
 ('le plus') marque le superlatif de supériorité  
-**les**
+*min*
 ('moins') marque le comparatif d'infériorité  
-**les... dan hol**
+*minim*
 ('le moins') marque le superlatif d'infériorité  
-**sim**
+*par*
 ('aussi, autant') marque le comparatif d'égalité
 
 La particule
-**dan**
+*ka*
 met en relation les adverbes de comparaison à l'élément comparé.
 
-**mi es mor gud dan tu.**
-= Je suis meilleur que toi.  
-**tu loga sim gud dan mi.**
-= Tu parles aussi bien que moi.
+*me sa max boni ka tu.*
+– Je suis meilleur que toi.  
+*tu loga par boni ka me.*
+– Tu parles aussi bien que moi.
 

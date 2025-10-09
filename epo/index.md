@@ -6,7 +6,7 @@ hide:
 
 # Pandunia
 
-**halo, dunia!**
+**sal, dunia!**
 – Saluton, mondo!
 
 Bonvenon al lerni pri Pandunia, la helpanta lingvo por internacia komerco kaj amikeco.
@@ -59,16 +59,16 @@ Vortoj neniam ŝanĝiĝas en Pandunia.
 Ili ne fleksias laŭ nombroj, kazoj, genroj, personoj, tempoj, ktp.
 
 La normala vortordo estas subjekto–verbo–objekto.  
-**mi ame yu.**
+**me ama tu.**
 – Mi amas vin.
 
 ![](http://www.kupsala.net/PanGlobish/grafe/Freepik_love.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 Demandoj enhavas la saman vortordon.  
-**yu ame ke?**
+**tu ama que?**
 – Kiun vi amas?  
-**yu ame mi, he?**
+**tu ama me, no?**
 – Ĉu vi amas min?
 
 Singularo kaj pluralo estas indikita per nombrovortoj.
@@ -81,52 +81,53 @@ Singularo kaj pluralo estas indikita per nombrovortoj.
 – du libroj  
 **tri buk**
 – tri libroj  
-**meni buk**
+**multi buk**
 – multaj libroj
 
 Oni komparas adjektivojn kaj adverbojn per helpantaj vortoj:
-**mor**
-– pli;
-**les**
-– malpli;
-**dan**
-– ol; kaj
-**sim**
-– tiom kiel.
+**max**
+'pli',
+**maxim**
+'la plej',
+**min**
+'malpli',
+**minim**
+'la malplej',
+**par**
+'tiom'
+kaj
+'**ka**
+'ol, kiel'.
 
-**mi es mor gud dan yu.**
+**me sa max boni ka tu.**
 – Mi estas pli bona ol vi.  
-**no, mi es sim gud dan yu.**
-– Ne, mi estas tiom bona kiel vi.  
-**hi bi tok mor rapid dan yu.**
+**no, tu sa par boni ka me.**
+– Ne, vi estas tiom bona kiel mi.  
+**ho loga max rapido ka tu.**
 – Li aŭ ŝi parolas pli rapide ol vi.
 
 Tempo estas indikata per helpantaj verboj:  
-**did**
+**paso**
 – pasintaj agoj  
-**vil**
+**vilo**
 – estontaj agoj  
-**hav**
-– kompletaj agoj kiuj ankoraŭ influas la nunan situacion  
-**bi**
+**zayo**
 – daŭre pasantaj agoj
 
-**de did lese mi's buk.**
+**homen paso lesa me di buk.**
 – Ili legis mian libron.  
-**vi hav lese meni buk.**
-– Ni estas leginta multajn librojn.  
-**mi bi lese un buk.**
+**me zayo lesa buk.**
 – Mi estas leganta libron.  
-**yu vil tok Pandunia.**
+**tu vilo basha Pandunia.**
 – Vi parolos Pandunian.
 
 Frazfinaj partikuloj indikas kial oni diras la frazon,
 ekz. ĉu ĝi estas deklaro, demando aŭ komando.  
-**yu ame kafe, he?**
+**tu ama kafe, he?**
 – Ĉu vi ŝatas kafon? (demando)  
-**yu ame kafe, ye.**
+**tu ama kafe, ya.**
 – Vi ja ŝatas kafon.  
-**yu ame kafe, ne?**
+**tu ame kafe, no?**
 – Vi ŝatas kafon, ĉu ne?
 
 
@@ -154,7 +155,7 @@ Ne estas multe da parolantoj ankoraŭ
 sed se _vi_ pensas ke Pandunia estas bona ideo, ankaŭ _aliuloj_ pensos same.
 Do komencu uzi Pandunian nun kaj ni faru ĝin nia komuna lingvo!
 
-![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "mimen baxe pandunia!")  
+![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "memen basha pandunia!")  
 <small>Bildo de [Freepik](http://www.freepik.com)</small>
 
 Vi povas kontakti la kreinton de pandunio, Risto Kupsala, per la retpoŝta
@@ -165,5 +166,6 @@ menciitaj ret-lokoj.
 
 ![](http://www.pandunia.info/grafe/bandera.png "flago de Pandunia")
 
-**ze hol dunia, do hol dunia**  
+**za holi dunia, pa holi dunia**  
 – de la tuta mondo, por la tuta mondo
+

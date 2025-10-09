@@ -23,7 +23,8 @@ nav:
         - 'Pronouns': G-PRO.md
         - 'Nouns': G-N.md
         - 'Numerals': G-NUM.md
-        - 'Modifiers': G-ADJ.md
+        - 'Adjectives': G-ADJ.md
+        - 'Adverbs': G-ADV.md
         - 'Verbs': G-V.md
         - 'Prepositions': G-PP.md
         - 'Sentences': G-P.md
@@ -40,6 +41,7 @@ nav:
     - 'Info':
         - History: I-historia.md
         - 'Questions & Answers': FAQ.md
+        - 'Esperanto vs. Pandunia': I-esperanto_vs_pandunia.md
         - 'Adapting foreign words' : L02_lexe_modifikation.md
         - 'Translate this site': M01_trabashe.md
 extra:

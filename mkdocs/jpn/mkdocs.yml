@@ -23,7 +23,9 @@ nav:
         - '名詞': G-N.md
         - '数詞': G-NUM.md
         - '修飾詞': G-ADJ.md
+        - '副詞': G-ADV.md
         - '動詞': G-V.md
+        - '前置詞': G-PP.md
         - '文章': G-P.md
         - '単語の構築': G-AFX.md
     - 'フレーズ集': K-fraze.md

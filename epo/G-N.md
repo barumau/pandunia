@@ -9,9 +9,9 @@ Do oni uzas la saman formon por ununombra, multnombra, difina kaj nedifina senco
 
 **haus**
 – domo, domoj, la domo, la domoj  
-**meza**
+**mez**
 – tablo, tabloj, la tablo, la tabloj  
-**kursi**
+**korse**
 – seĝo, seĝoj  
 **sui**
 – akvo  
@@ -29,15 +29,15 @@ temas pri _la luno_; nia nura suno kaj luno.
 Substantivoj havas la saman formon en la singularo kaj la plularalo.
 Oni povas esprimin nombron per numeraloj kiam ĝi estas utila.
 
-**kursi**
+**korse**
 – seĝo aŭ seĝoj  
-**un kursi**
+**un korse**
 – unu seĝo  
-**du kursi**
+**du korse**
 – du seĝoj  
-**tri kursi**
+**tri korse**
 – tri seĝoj  
-**meni kursi**
+**multi korse**
 – multe da seĝoj; seĝoj
 
 

@@ -10,7 +10,7 @@ hide:
 – Hello, world!
 
 Welcome to learn about Pandunia,
-an interesting constructed language.
+an international constructed language.
 
 ![](http://www.pandunia.info/grafe/halo_dunia.png "sal dunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
@@ -61,7 +61,7 @@ One sound = one letter or a pair of letters.
 
 The stress is on that syllable that is before the last consonant of the root word.
 Prefixes and suffixes are either unstressed or they may carry a secondary stress.  
-**múlti hóm kán báshe pandúnia.**
+**múlti hóm póta básha pandúnia.**
 – Many people can speak Pandunia.
 
 Words stay always the same in Pandunia.
@@ -69,16 +69,16 @@ There aren't any special _inflected_ forms for cases, tenses, moods, singular an
 
 The normal word order is subject–verb–object
 so the doer comes first, then the action word and finally the object of the action.  
-**mi ame tu.**
+**me ama tu.**
 – I love you.
 
 ![](http://www.kupsala.net/PanGlobish/grafe/Freepik_love.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 The word order is the same also in questions.  
-**tu ame ke?**
+**tu ama que?**
 – Who do you love?  
-**tu ame mi, he?**
+**tu ama me, no?**
 – Do you love me? (i.e. Do you love, eh?)
 
 Singular and plural are indicated with number words.
@@ -96,47 +96,47 @@ Singular and plural are indicated with number words.
 
 Comparison is done with helping words:
 **max**
-– more;
+'more',
+**maxim**
+'the most',
 **min**
-– less;
+'less',
+**minim**
+'the least',
+**par**
+'as, equally', and
 **ka**
-– than; and
-**sim**
-– as, same, equally.
+'than, as'.
 
-**mi es max hao ka tu.**
+**me sa max boni ka tu.**
 – I am better (_more good_) than you.  
-**no, tu es sim hao ka mi.**
+**no, tu sa par boni ka me.**
 – No, you are as good as me.  
-**da logu max rapid ka tu.**
+**ho loga max rapido ka tu.**
 – He or she talks faster (_more fast_) than you.
 
-Time is expressed with auxiliary verbs:
-**pas**
+Time is expressed with adverbs:
+**paso**
 – past events  
-**vil**
+**vilo**
 – future events  
-**ha**
-– past events that are still relevant  
-**zai**
+**zayo**
 – ongoing events
 
-**damen pas lese mi su buk.**
+**homen paso lesa me di buk.**
 – They read my book.  
-**mimen ha lese multi buk.**
-– We have read many books.  
-**mi zai lese un buk.**
+**me zayo lesa buk.**
 – I am reading one book.  
-**tu vil bashe Pandunia.**
-– You will talk Pandunia.
+**tu vilo basha Pandunia.**
+– You will speak Pandunia.
 
 Sentence-final particles express why the sentence is said,
 i.e. is the sentence, for example, a statement, a question or a command.  
-**tu ame kafe, he?**
+**tu ama kafe, he?**
 – You love coffee, eh? (question)  
-**tu ame kafe, ya.**
+**tu ama kafe, ya.**
 – You love coffee, indeed. (statement)  
-**tu ame kafe, ne?**
+**tu ame kafe, no?**
 – You love coffee, don't you? (need for response)
 
 
@@ -172,7 +172,7 @@ Find Pandunia speakers near you in [Amikumu](https://amikumu.com/) app!
 - [Stories in Pandunia](https://www.pandunia.info/kitabe)
 - [Counting in Pandunia](https://www.languagesandnumbers.com/how-to-count-in-pandunia/en/pandunia/) in _Of Languages and Numbers_
 
-![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "mimen bashe pandunia!")  
+![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "memen basha pandunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 You can contact the creator and a main developer of Pandunia, Risto Kupsala, via email
@@ -182,5 +182,6 @@ You can contact the creator and a main developer of Pandunia, Risto Kupsala, via
 
 ![](http://www.pandunia.info/grafe/bandera.png "The flag of Pandunia")
 
-**ze hol dunia, do hol dunia**  
+**za holi dunia, pa holi dunia**  
 – from the whole world, for the whole world
+
