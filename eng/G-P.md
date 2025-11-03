@@ -608,11 +608,11 @@ It is very common in Pandunia.
 There can be two, three or even more verbs in a series.
 All verbs are about the same subject.
  
-1. **mi go to haus.**
+1. **mi go pa haus.**
    – I go home.
-2. **mi kan go to haus.**
+2. **mi pota go pa haus.**
    – I can go home.
-3. **mi vola kan go to haus.**
+3. **mi vola pota go pa haus.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
@@ -710,14 +710,14 @@ The easiest way to form a yes-no question in Pandunia is to simply attach the pa
 It is also possible to use
 **no**
 ('no', 'not') or
-**ye**
+**ya**
 ('yes') instead of
 **he**
 to suggest the expected answer.
 
 **tu yama un piza, no?**
 – You eat a pizza, don't you?  
-**tu yama un piza, ye?**
+**tu yama un piza, ya?**
 – You eat a pizza, right?
 
 The third way to ask a yes-no question is to contradict the verb
@@ -725,7 +725,7 @@ with the _A-not-A_ structure.
 
 **tu yama no yama un piza?**
 – Do you or don't you eat a pizza?  
-**tu kan no kan yama un hol piza?**
+**tu pota no pota yama un holi piza?**
 – Can you or can't you eat a whole pizza?
 
 Finally, you can emphasize the question by using **qua**.
@@ -736,27 +736,27 @@ Finally, you can emphasize the question by using **qua**.
 – Do you eat a pizza?
 
 Yes-no questions are answered with
-**ye**
+**ya**
 ('yes') and
 **no**
 ('no').
 
 **tu viza mi, he?**
 – Do you see me?  
-**ye. (mi ye viza tu.)**
+**ya. (mi ya viza tu.)**
 – Yes. (I _do_ see you.)  
 **no. (mi no viza tu.)**
 – No. (I don't see you.)
 
 Negative questions are answered so that
-**ye**
+**ya**
 and
 **no**
 apply to the verb, not the whole question.
 
 **tu no viza mi, he?**
 – Don't you see me?  
-**ye. (mi viza tu.)**
+**ya. (mi viza tu.)**
 – Yes. (I see you.)  
 **no. (mi no viza tu.)**
 – No. (I don't see you.)
@@ -864,7 +864,7 @@ In Pandunia they are typically introduced with the conjunction
 
 **mi nou ke tu sa frende.**
 – I know that you are a friend.  
-**homen fikra ke memen hav chute.**
+**homen fikra ke memen ha chuta.**
 – They think that we have left.
 
 A content clause can be placed before or after the clause that talks about it.
@@ -874,7 +874,7 @@ points to the following content clause and plain
 **la**
 points to the previous one.
 
-**vo sa bari, ke mi no hav viza homen.**
+**vo sa bari, ke mi no ha viza homen.**
 – _It_ is important _that I haven't seen them_.  
 **ke pan jan be sana ka par, la sa klar.**
 – _That all people are created as equals_; _it_ is clear.
@@ -890,7 +890,7 @@ can be combined to the prepositions in order to construct conjunctions of cause 
 
 **mi duk ye buk _pa ke_ mi trapas la teste.**
 – I read this book so that I will pass the test.  
-**mi hav trapas la teste _ja ke_ mi duk la buk.**
+**mi ha trapas la teste _ja ke_ mi duk la buk.**
 – I have passed the test because I read the book.
 
 
@@ -981,27 +981,27 @@ Different scopes of negation may result depending on the location of the negativ
 – I ask you NOT to clean the room.
 
 Particles
-**ye**
+**ya**
 and
 **no**
 are used also for answering questions.
 
 **qua tu viza mi?** 
 – Do you see me?  
-**ye. (mi ye viza tu.)** 
+**ya. (mi ya viza tu.)** 
 – Yes. (I do see you.)  
 **no. (mi no viza tu.)** 
 – No. (I don't see you.)
 
 Negative questions are answered so that
-**ye**
+**ya**
 and
 **no**
 apply to the verb alone and not the sentence as a whole.
 
 **qua tu no viza mi?** 
 – Don't you see me?  
-**ye. (mi ye viza tu.)** 
+**ya. (mi ya viza tu.)** 
 – Yes. (I do see you.)  
 **no. (mi no viza tu.)** 
 – No. (I don't see you.)
@@ -1157,7 +1157,7 @@ It can also introduce a statement that may be contrary to expectations.
 
 **tu kitaba ho, he? – na, no haf.**
 – Did you write it? – Well, not yet.  
-**ho sa boni, ne? – na, ye.**
+**ho sa boni, ne? – na, ya.**
 – It's good, isn't it? – Well, yes.
 
 **o**
@@ -1178,17 +1178,17 @@ Wow!
 **ho sa dai, va!**
 – It's so big!
 
-**ye**
+**ya**
 reinforces the meaning of the sentence
 or indicates agreement.
 The speaker is absolutely sure of what they are saying.
 It can be translated as *indeed* or *truly*.
 
-**mi hav viza tu ye.**
+**mi ha viza tu, ya.**
 – I truly saw you.  
-**ho sa ver, ye.**
+**ho sa ver, ya.**
 – It is true indeed.  
-**ho sa novi, ne? – ho sa novi, ye.**
+**ho sa novi, ne? – ho sa novi, ya.**
 – It is new, right? – It's new indeed.
 
 

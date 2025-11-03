@@ -145,7 +145,7 @@ and it is known by the audience or is topical within the discourse.
 *yi sa mau. ho vola yama vi mush.*
 – This is a cat. It wants to eat that mouse.
 
-*me have un mau e un gau. li gau sa dai. ho zai yama multi yam.*
+*me have un mau e un gau. li gau sa dai. ho yama multi yam.*
 – I have a cat and a dog. The dog is big. It eats a lot of food.
 
 

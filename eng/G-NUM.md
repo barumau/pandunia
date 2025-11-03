@@ -44,7 +44,7 @@ Instead, one should say **kilo milion** (thousand millions) or **un giga**.
 The prefixes of the [International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units)
 (SI) are used in common language in Pandunia.
 It is normal to say, for example:  
-**bat  giga person bi live in Dunia.**  
+**bat giga hom viva a Dunia.**  
 – Eight billion (or _milliard_) people live on Earth.
 
 | Prefix   | Symbol  | Base 10 | Decimal                           |

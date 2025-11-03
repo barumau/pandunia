@@ -980,33 +980,33 @@ as a preposition or alone as the verb.
 
 ## Part 5. Time expressions
 
-### bi <small>currently</small>
+### sta <small>currently</small>
 
-*me bi sala tu di doste.*
+*me sta sala tu di doste.*
 – I am greeting your friend.
 
-*man bi viza filme.*
+*man sta viza filme.*
 – The man is watching a film.
 
-*ho bi sa shef.*
+*ho sta sa shef.*
 – He or she is being the chief.
 
-*ho bi sa a haus.*
+*ho sta sa a haus.*
 – He or she is currently at home.
 
 
-### hav <small>already, completed</small>
+### ha <small>already, completed</small>
 
-*me hav sala tu di doste.*
+*me ha sala tu di doste.*
 – I have greeted your friend.
 
-*ho man hav viza ho filme.*
+*ho man ha viza ho filme.*
 – The man has watched the film.
 
-*ho hav sa shef.*
+*ho ha sa shef.*
 – He has been the chief.
 
-*ho hav sa a haus.*
+*ho ha sa a haus.*
 – He has been at home.
 
 

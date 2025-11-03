@@ -299,22 +299,13 @@ They can't take an object.
 
 ## Time and mood
 
-<!--
-hun:elő 'ennen'
-hin:अब (ab), ben:এবে (ebe)
-
-*elo* 'preteriti'
-*elelo* 'pluskvamperfekti'
-*abo* 'preesens'
-*afto* 'futuuri'
--->
 
 ### Tense
 
 Tense is a property that expresses time reference.
 The main tenses are the past, present, and future.
 The marker
-*pas*
+*paso*
 indicates the past tense,
 *nun*
 indicates the present tense, and
@@ -322,57 +313,102 @@ indicates the present tense, and
 indicates the future tense.
 More specific time references are expressed with various time expressions, like *yesterday*, *tomorrow* or *one hour ago*.
 
-*man* ***pas*** *yama ban.*
+*man* ***paso*** *yama ban.*
 – The man *ate* (or *did eat*) bread.  
-*man* ***nun*** *yama ban.*
+*man* ***nuno*** *yama ban.*
 – The man *eats* bread (now).  
-*man* ***vil*** *yama ban.*
+*man* ***vilo*** *yama ban.*
 – The man *will eat* bread.
 
 It is also possible to express the future in the past
 with a combination of two tense markers.
 
-*man* ***pas vil*** *yama ban.*
+*man* ***paso vila*** *yama ban.*
 – The man *was going to* eat bread.
 
 
 ### Aspect
 
 Aspect expresses how an action or event extends over time.
-There are two aspect markers in Pandunia,
-*zai* and *hav*.
 
-The marker
-*zai*
-indicates that the action or event is *on-going* or *in progress*
+*shura*
+('to begin or start')
+indicates beginning of an action or transition to a new situation.
+In linguistics it is called the **inchoative** or **inceptive** aspect.
+
+*me shura fuka kote.*
+– I start wearing the coat. ~ I put the coat on.  
+*kaguje shura piru.*
+– Paper starts to burn.  
+*tu shura yama.*
+– You start to eat.
+
+*fina*
+('to end, cease, quit or stop')
+conveys the idea of "to stop doing something".
+In linguistics it is called the **terminative** or **cessative** aspect.
+
+*homen fina haha.*
+– They stopped laughing.  
+*kaguje fina piru.*
+– Paper ceased to burn.  
+*tu fina yama.*
+– You stop eating.
+
+*pula*
+('to fulfill or complete')
+indicates that an action is done completely.
+In linguistics it is called the **perfective** aspect.
+
+*tu pula yama piza.*
+– You ate a pizza (completely).  
+*me pula viza filme.*
+– I completed watching the film. / I watched the film completely.
+
+*dura*
+('to keep on, continue or proceed')
+indicates that a situation is on-going, continuing or in progress
 at the time, which the speaker is talking about.
-The time can be indicated with a tense marker.
+In linguistics it is called the **continuative** or **progressive** aspect.
 
-*man* ***zai*** *yama ban.*
-– The man *is*, *was* or *will be* eating bread.  
-*man* ***pas zai*** *yama ban.*
-– The man was eating bread.  
-*man* ***nun zai*** *yama ban.*
-– The man is eating bread.  
-*man* ***vil zai*** *yama ban.*
-– The man will be eating bread.
+*tu dura yama piza.*
+– You keep on eating pizza.
 
-The marker
-*hav*
-indicates that the action or event is completed
-and its results still has an effect at the time, which the speaker is talking about.
-The time can be indicated with a tense markers.
+A more common way to express continuation is to use the verb
+*sta*
+('to stay')
+in the sense 'to be in the process of'.
 
-*man* ***hav*** *yama ban.*
-– The man *had*, *has* or *will have* eaten bread.  
-*man* ***pas hav*** *yama ban.*
-– The man had eaten bread.  
-*man* ***nun hav*** *yama ban.*
-– The man has eaten bread.  
-*man* ***vil hav*** *yama ban.*
-– The man will have eaten bread.
+*tu sta yama piza.*
+– You are eating pizza.  
+*me sta viza filme.*
+– I am watching the film.
 
+**ha**
+('to exist')
+indicates that the action or event is complete
+and its result has still an effect at the time, which the speaker is talking about.
+This aspect resembles what is called the **perfect tense** in English grammar.
 
+*me ha dona buk pa homen.*
+– I have given the book to them. (So I don't have it.)  
+*homen no ha redona le pa me.*
+– They haven't given it back to me. (So probably they still have it.)  
+*me ha vena pa pol.*
+– I have come to the city. (So I am still there.)
+
+<!--
+Note that it is possible to negate the auxiliary verb
+*ha*
+and the main verb separately.
+
+*me no ha gula alkol.*
+– I haven't drank alcohol.  
+*me ha no gula alkol.*
+– I have reached the state of not drinking alcohol.
+-->
+
+<!--
 ### Mood
 
 The conditional mood is used for anything that could take place.
@@ -397,7 +433,7 @@ The auxiliary verb
 
 *ma voka memen. memen debu go.*
 – Mother called us. We should go.  
-*ho debu hav kom pre nun.*
+*ho debu ha vena pre nun.*
 – He should have come by now.  
 *evri von debu vote.*
 – Everyone should vote.
@@ -409,7 +445,7 @@ It can be used to give commands to any person, not just "you".
 
 *memen shal go!*
 – Let us go! ~ Let's go!  
-*homen shal kurse!*
+*homen shal kursa!*
 – Let them run!
 
 *shal*
@@ -417,41 +453,10 @@ can be used to give commands also to the second person,
 but it is common to drop both the personal pronoun and the auxiliary verb
 in order to give the command more force.
 
-*tu shal kom!* = *kom!*
+*tu shal vena!* = *vena!*
 – Come!  
-*tumen shal kom!* = *kom!*
+*tumen shal vena!* = *vena!*
 – Come (you all)!
-
-### Passive clause
-
-The passive clause expresses that the subject undergoes the action or has its state changed.
-In other words, the subject has a passive role.
-This contrasts with the active clause where the subject is the agent or the doer of the action.
-In Pandunia, the passive clause is constructed with the help of the auxiliary verb
-*zai*.
-
-Active:
-*homen yama piza.*
-– They eat pizza.  
-Passive:
-*piza bi yama.*
-– Pizza is eaten.
-
-The agent of the action can be expressed also in passive clauses by using the preposition
-*di*.
-
-*me di gar pas bi bate di tren.*
-– My car was hit by a train.
-
-The equivalent of passive (past) participle is built by using the prefix
-*bi*-
-and the suffix
--*(t)ik*.
-
-*biyamik piza*
-– eaten pizza (pizza that was or is eaten)  
-*bilogutik lexe*
-– spoken word (word that was or is spoken)
 
 
 ### Summary of verb forms
@@ -469,7 +474,7 @@ and the suffix
     <tr>
         <th>Simple</th>
         <td>
-            <strong><em>ho pas yama</em></strong><br/>
+            <strong><em>ho paso yama</em></strong><br/>
             'he ate ~ did eat'
         </td>
         <td>
@@ -488,56 +493,56 @@ and the suffix
     <tr>
         <th>Perfect</th>
         <td>
-            <strong><em>ho pas hav yama</em></strong><br/>
+            <strong><em>ho paso ha yama</em></strong><br/>
             'he had eaten'
         </td>
         <td>
-            <strong><em>ho hav yama</em></strong><br/>
+            <strong><em>ho ha yama</em></strong><br/>
             'he has eaten'
         </td>
         <td>
-            <strong><em>ho vil hav yama</em></strong><br/>
+            <strong><em>ho vil ha yama</em></strong><br/>
             'he will have eaten'
         </td>
         <td>
-            <strong><em>ho vud hav yama</em></strong><br/>
+            <strong><em>ho vud ha yama</em></strong><br/>
             'he would have eaten'
         </td>
     </tr>
     <tr>
         <th>Progressive</th>
         <td>
-            <strong><em>ho pas zai yama</em></strong><br/>
+            <strong><em>ho paso sta yama</em></strong><br/>
             'he was eating'
         </td>
         <td>
-            <strong><em>ho zai yama</em></strong><br/>
+            <strong><em>ho sta yama</em></strong><br/>
             'he is eating'
         </td>
         <td>
-            <strong><em>ho vil zai yama</em></strong><br/>
+            <strong><em>ho vil sta yama</em></strong><br/>
             'he will be eating'
         </td>
         <td>
-            <strong><em>ho vud zai yama</em></strong><br/>
+            <strong><em>ho vud sta yama</em></strong><br/>
             'he would be eating'
         </td>
     <tr>
         <th>Perfect progressive</th>
         <td>
-            <strong><em>ho pas hav zai yama</em></strong><br/>
+            <strong><em>ho paso ha sta yama</em></strong><br/>
             'he had been eating'
         </td>
         <td>
-            <strong><em>ho hav zai yama</em></strong><br/>
+            <strong><em>ho ha sta yama</em></strong><br/>
             'he has been eating'
         </td>
         <td>
-            <strong><em>ho vil hav zai yama</em></strong><br/>
+            <strong><em>ho vil ha sta yama</em></strong><br/>
             'he will have been eating'
         </td>
         <td>
-            <strong><em>ho vud hav zai yama</em></strong><br/>
+            <strong><em>ho vud ha sta yama</em></strong><br/>
             'he would have been eating'
         </td>
     </tr>
@@ -569,75 +574,75 @@ In the above table, *ho* is translated only 'he' instead of the usual 'he or she
     <tr>
         <th>Simple</th>
         <td>
-            <strong><em>ho pas bi yama</em></strong><br/>
+            <strong><em>ho paso yamu</em></strong><br/>
             'it was eaten'
         </td>
         <td>
-            <strong><em>ho bi yama</em></strong><br/>
+            <strong><em>ho yamu</em></strong><br/>
             'it is eaten'
         </td>
         <td>
-            <strong><em>ho vil bi yama</em></strong><br/>
+            <strong><em>ho vil yamu</em></strong><br/>
             'it will be eaten'
         </td>
         <td>
-            <strong><em>ho vud bi yama</em></strong><br/>
+            <strong><em>ho vud yamu</em></strong><br/>
             'it would be eaten'
         </td>
     </tr>
     <tr>
         <th>Perfect</th>
         <td>
-            <strong><em>ho pas hav bi yama</em></strong><br/>
+            <strong><em>ho paso ha yamu</em></strong><br/>
             'it had been eaten'
         </td>
         <td>
-            <strong><em>ho hav bi yama</em></strong><br/>
+            <strong><em>ho ha yamu</em></strong><br/>
             'it has been eaten'
         </td>
         <td>
-            <strong><em>ho vil hav bi yama</em></strong><br/>
+            <strong><em>ho vil ha yamu</em></strong><br/>
             'I will have been eaten'
         </td>
         <td>
-            <strong><em>ho vud hav bi yama</em></strong><br/>
+            <strong><em>ho vud ha yamu</em></strong><br/>
             'it would have been eaten'
         </td>
     </tr>
     <tr>
         <th>Progressive</th>
         <td>
-            <strong><em>ho pas zai bi yama</em></strong><br/>
+            <strong><em>ho paso sta yamu</em></strong><br/>
             'it was being eaten'
         </td>
         <td>
-            <strong><em>ho zai bi yama</em></strong><br/>
+            <strong><em>ho sta yamu</em></strong><br/>
             'it is being eaten'
         </td>
         <td>
-            <strong><em>ho vil zai bi yama</em></strong><br/>
+            <strong><em>ho vil sta yamu</em></strong><br/>
             'it will be being eaten'
         </td>
         <td>
-            <strong><em>ho vud zai bi yama</em></strong><br/>
+            <strong><em>ho vud sta yamu</em></strong><br/>
             'it would be being eaten'
         </td>
     <tr>
         <th>Perfect progressive</th>
         <td>
-            <strong><em>ho pas hav zai bi yama</em></strong><br/>
+            <strong><em>ho paso ha sta yamu</em></strong><br/>
             'it had been being eaten'
         </td>
         <td>
-            <strong><em>ho hav zai bi yama</em></strong><br/>
+            <strong><em>ho ha sta yamu</em></strong><br/>
             'it has been being eaten'
         </td>
         <td>
-            <strong><em>ho vil hav zai bi yama</em></strong><br/>
+            <strong><em>ho vil ha sta yamu</em></strong><br/>
             'it will have be being eaten'
         </td>
         <td>
-            <strong><em>ho vud hav zai bi yama</em></strong><br/>
+            <strong><em>ho vud ha sta yamu</em></strong><br/>
             'it would have been being eaten'
         </td>
     </tr>
@@ -645,14 +650,14 @@ In the above table, *ho* is translated only 'he' instead of the usual 'he or she
         <th>Imperative</th>
         <td></td>
         <td>
-            <strong><em>bi yama!</em></strong><br/>
+            <strong><em>yamu!</em></strong><br/>
             'Be eaten!'
         </td>
         <td></td>
         <td></td>
     </tr>
 </table>
-
+-->
 
 ## Participles
 

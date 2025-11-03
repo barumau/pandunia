@@ -11,7 +11,7 @@ They are described in more detail later in this document.
     They are adapted to the pronunciation and orthography of Pandunia.
     One basic word is admitted and additional words are built from it according to rule 10.
 
-    [Read more](L-lexe.md).
+    [Read more!](L-lexe.md)
 
 2.  **Spelling and pronunciation**
 
@@ -19,7 +19,7 @@ They are described in more detail later in this document.
     Every word is pronounced exactly as it is written.
     Almost every letter and letter-combination indicates always the same sound.
 
-    [Read more](G-ABC.md).
+    [Read more!](G-ABC.md)
 
 3.  **Regular stress accent**
 
@@ -42,7 +42,7 @@ They are described in more detail later in this document.
     This consistent system is a key factor of Pandunia's grammatical clarity
     as it allows for easy derivation of new words from a single root word.
 
-    [Read more](G-PoS.md).
+    [Read more!](G-PoS.md)
 
 5.  **Pronouns**
 
@@ -82,7 +82,7 @@ They are described in more detail later in this document.
     *que di* ~ *qui jan di*
     'whose'.
 
-    [Read more](G-PRO.md).
+    [Read more!](G-PRO.md)
 
 6.  **Nouns**
 
@@ -94,7 +94,7 @@ They are described in more detail later in this document.
     Nouns don't have a mandatory ending,
     but they usually end in *-e*, *-ia* or a consonant.
 
-    [Read more](G-N.md).
+    [Read more!](G-N.md)
 
 7.  **Numerals**
 
@@ -122,17 +122,17 @@ They are described in more detail later in this document.
     *parte tri*
     – part three, the third part
 
-    [Read more](G-NUM.md).
+    [Read more!](G-NUM.md)
 
 8.  **Adjectives**
 
     Adjectives end in *-i*
     and they may become before or after the word that they modify.
 
-    *rapidi loge*  
+    *rapi loge*  
     'a fast speech'
 
-    [Read more](G-ADJ.md).
+    [Read more!](G-ADJ.md)
 
 9.  **Adverbs**
 
@@ -145,7 +145,7 @@ They are described in more detail later in this document.
     *tu rapido loga.*  
     'You talk fast.'
 
-    [Read more](G-ADV.md).
+    [Read more!](G-ADV.md)
 
 10. **Verbs**
 
@@ -163,16 +163,14 @@ They are described in more detail later in this document.
     The verb does not change in person, number and tense.
     Auxiliary verbs indicate time.
 
-    -   *zai*
+    -   *nuno*
         indicates an ongoing event.
-    -   *leu*
-        indicates a completed event, which has an effect on the present situation.
-    -   *pas*
+    -   *paso*
         indicates a past event.
-    -   *vil*
+    -   *vilo*
         indicates a future event.
 
-    [Read more](G-V.md).
+    [Read more!](G-V.md)
 
 11. **Combining clauses**
 
@@ -189,7 +187,7 @@ They are described in more detail later in this document.
     *me pleza tu loga klaro.* →  *pleza loga klaro.*  
     'Please speak clearly.'
 
-    [Read more](G-P.md).
+    [Read more!](G-P.md)
 
 12. **Word building**
 
@@ -204,5 +202,5 @@ They are described in more detail later in this document.
     *postekase*
     ('mailbox')
 
-    [Read more](G-AFX.md).
+    [Read more!](G-AFX.md)
 
