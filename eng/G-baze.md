@@ -1,168 +1,206 @@
 
 # The basic rules of Pandunia
 
-These are the basic rules of Pandunia language.
+These are the basic rules of the Pandunia language.
 They are described in more detail later in this document.
 
-### (1) World words
+1.  **World words**
 
-Pandunia is an evenly global language.
-International words are borrowed from all parts of the world to Pandunia.
-They are adapted to the pronunciation and orthography of Pandunia.
-One basic word is admitted and additional words are built from it according to rule 10.
+    Pandunia is an evenly global language.
+    International words are borrowed from all parts of the world to Pandunia.
+    They are adapted to the pronunciation and orthography of Pandunia.
+    One basic word is admitted and additional words are built from it according to rule 10.
 
+    [Read more!](L-lexe.md)
 
-### (2) Spelling and pronunciation
+2.  **Spelling and pronunciation**
 
-Spelling is simple and regular.
-Every word is pronounced exactly as it is written.
-Almost every letter and letter-combination indicates always the same sound.
+    Spelling is simple and regular.
+    Every word is pronounced exactly as it is written.
+    Almost every letter and letter-combination indicates always the same sound.
 
+    [Read more!](G-ABC.md)
 
-### (3) Regular stress accent
+3.  **Regular stress accent**
 
-Root words are stressed on the syllable that is before the last consonant of the word, f.ex.
-**háu** ('nice'), **dúnia** ('world'), **básh** ('language'), **amén** ('amen').
-Derived words and compound words are stressed according to their components so that the main component carries the primary stress
-and other components may carry secondary stress, f.ex.
-**trabásh** ('translate'), **dúnialìsme** ('globalism'), **bàsh skóla** ('language school').
-Primary accent is indicated here by an acute accent (*á*) and secondary accent by a grave accent (*à*).
+    Root words are stressed on the syllable that is before the last consonant of the word, f.ex.
+    *háu* ('nice'), *dúnia* ('world'), *básh* ('language'), *amén* ('amen').
+    Derived words and compound words are stressed according to their components so that the main component carries the primary stress
+    and other components may carry secondary stress, f.ex.
+    *trabásha* ('translate'), *dúnialìsme* ('globalism'), *bàsh skóle* ('language school').
+    Primary accent is indicated here by an acute accent (*á*) and secondary accent by a grave accent (*à*).
 
+4.  **Word class markers**
 
-### (4) Pronouns
+    Pandunia words consist of a root and a word class marker.
+    The word class markers are final vowels that clearly indicate the word's part of speech:
+    *-i* for adjectives,
+    *-o* for adverbs,
+    *-a* and *-u* for verbs,
+    and *-e* or any other letter for nouns.
 
-The personal pronouns are:  
-**mi**
-'I',
-**tu**
-'you' (singular),
-**da**
-'he, she, it',
-**mimen**
-'we',
-**tumen**
-'you' (plural),
-**damen**
-'they'.
+    This consistent system is a key factor of Pandunia's grammatical clarity
+    as it allows for easy derivation of new words from a single root word.
 
-The possessive pronouns are:  
-**mi su**
-'my',
-**tu su**
-'your',
-**da su**
-'his or her',
-**mimen su**
-'our',
-**tumen su**
-'your',
-**damen su**
-'their'.
+    [Read more!](G-PoS.md)
 
-The interrogative pronouns are:
-**ke**
-'what',
-**ke yen**
-'who',
-**ke yen su**
-'whose'.
+5.  **Pronouns**
 
+    The personal pronouns are:  
+    *me*
+    'I',
+    *tu*
+    'you' (singular),
+    *ho*
+    'he, she, it',
+    *memen*
+    'we',
+    *tumen*
+    'you' (plural),
+    *homen*
+    'they'.
 
-### (5) Nouns
+    The possessive pronouns are:  
+    *me di* ~ *mi*
+    'my',
+    *tu di* ~ *ti*
+    'your',
+    *ho di* ~ *hi*
+    'his or her',
+    *memen di*
+    'our',
+    *tumen di*
+    'your',
+    *homen di*
+    'their'.
 
-Nouns have only one form, always the same.
-Their form is not affected by number, gender or case.
-Number is indicated by number and quantity words.
-Their role is indicated by word order or by a preposition.
+    The interrogative pronouns are:
+    *que*
+    'what',
+    *qui jan*
+    'who',
+    *que di* ~ *qui jan di*
+    'whose'.
 
-### (6) Numerals
+    [Read more!](G-PRO.md)
 
-The cardinal numbers are:  
-0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **for**, 5 **faif**, 6 **sixe**,
-7 **seven**, 8 **eit**, 9 **nain**, 10 **ten**.  
-Greater than ten:
-11 **ten un**, 12 **ten du**, 13 **ten tri**,
-etc.  
-Tens:
-20 **du ten**, 30 **tri ten**, 40 **for ten**,
-etc.  
-Hundreds:
-100 **un hunde**, 200 **du hunde**, 300 **tri hunde**,
-etc.  
-Thousands:
-1000 **un tauzen**, 2000 **du tauzen**, 3000 **tri tauzen**,
-etc.
+6.  **Nouns**
 
-When a number is put after the noun, it becomes the corresponding ordinal number:  
-**parte un**
-– part one, the first part  
-**parte du**
-– part two, the second part  
-**parte tri**
-– part three, the third part
+    Nouns have only one form, always the same.
+    Their form is not affected by number, gender or case.
+    Number is indicated by number and quantity words.
+    Their role is indicated by word order or by a preposition.
+    
+    Nouns don't have a mandatory ending,
+    but they usually end in *-e*, *-ia* or a consonant.
 
+    [Read more!](G-N.md)
 
-### (7) Modifiers
+7.  **Numerals**
 
-The adjective and the adverb have the same form.
-The adjective modifier is before the noun that it modifies,
-and the adverb modifier is before the verb that it modifies.
+    The cardinal numbers are:  
+    0 *nil*, 1 *un*, 2 *du*, 3 *tri*, 4 *char*, 5 *pen*, 6 *luk*,
+    7 *set*, 8 *bat*, 9 *nau*, 10 *des*.  
+    Greater than ten:
+    11 *des un*, 12 *des du*, 13 *des tri*,
+    etc.  
+    Tens:
+    20 *du des*, 30 *tri des*, 40 *char des*,
+    etc.  
+    Hundreds:
+    100 *un cent*, 200 *du cent*, 300 *tri cent*,
+    etc.  
+    Thousands:
+    1000 *un kil*, 2000 *du kil*, 3000 *tri kil*,
+    etc.
 
-**un rapid log**
-– A fast speech.  
-**tu rapid log.**
-– You speak fast.
+    When a number is put after the noun, it becomes the corresponding ordinal number:  
+    *parte un*
+    – part one, the first part  
+    *parte du*
+    – part two, the second part  
+    *parte tri*
+    – part three, the third part
 
+    [Read more!](G-NUM.md)
 
-### (8) Verbs
+8.  **Adjectives**
 
-The verb does not change in person, number and tense.
-Auxiliary verbs indicate time.
+    Adjectives end in *-i*
+    and they may become before or after the word that they modify.
 
-- **zai**
-  indicates an ongoing event.
-- **leu**
-  indicates a completed event, which has an effect on the present situation.
-- **pas**
-  indicates a past event.
-- **vil**
-  indicates a future event.
+    *rapi loge*  
+    'a fast speech'
 
+    [Read more!](G-ADJ.md)
 
-### (9) Word order
+9.  **Adverbs**
 
-The word order is subject–verb–object.
-The same order is used in declarations and questions.
+    Adverbs end in *-o*.
+    They modify verbs, adjectives, other adverbs and complete sentences.
+    They come before the word that they modify or very last in the sentence.
 
-A passive sentence is created with the help of the passive auxiliary verb
-**bi**.
+    *vero rapidi loge*  
+    'very fast speech' 
+    *tu rapido loga.*  
+    'You talk fast.'
 
-**pandunia bi logu.**
-– Pandunia is spoken.  
-**bi logu pandunia.**
-– One speaks Pandunia.
+    [Read more!](G-ADV.md)
 
-In the _pivot structure_, the object of the transitive verb functions as the subject of the following verb.  
-**mi ples tu logu pandunia.**
-– I ask you to speak Pandunia.
+10. **Verbs**
 
-Pronouns can be left out when they are obvious and redundant.  
-**_mi_ ples _tu_ logu pandunia.**
-→ **ples logu pandunia.**  
-– Please speak Pandunia.
+    There are two verb endings *-a* and *-u*.
+    The verb ending *-a* indicates that
+    the agent of the action is immediately before the verb.
+    The verb ending *-u* indicates that
+    the patient of the action is immediately before the verb.
 
+    *me yama aple.*  
+    'I eat apples.'      
+    *aple yamu.*  
+    'Apples are eaten.'
 
-### (10) Word building
+    The verb does not change in person, number and tense.
+    Auxiliary verbs indicate time.
 
-In Pandunia, words change only when their actual meaning changes.
-Words don't ever change only to serve in a different grammatical role.
-Compound words are made by combining the elements that form them.
-The main word stands at the end.
+    -   *nuno*
+        indicates an ongoing event.
+    -   *paso*
+        indicates a past event.
+    -   *vilo*
+        indicates a future event.
 
-**poste**
-('mail') +
-**kase**
-('box') =
-**poste kase**
-('mailbox')
+    [Read more!](G-V.md)
+
+11. **Combining clauses**
+
+    In the _pivot structure_, the object of the transitive verb functions as the subject of the following verb.
+    
+    *me pleza tu loga pandunia.*  
+    'I ask you to speak Pandunia.'
+
+    Pronouns can be left out when they are obvious and redundant.
+    
+    *me qua tu basha pandunia?* → *qua tu basha pandunia?*  
+    'Do you speak Pandunia?'
+
+    *me pleza tu loga klaro.* →  *pleza loga klaro.*  
+    'Please speak clearly.'
+
+    [Read more!](G-P.md)
+
+12. **Word building**
+
+    Compound words are made by combining the elements that form them by putting one element after another
+    so that the main element stands at the end.
+    The linking vowel *-o-* can be inserted between the elements.
+
+    *poste*
+    ('mail') +
+    *kase*
+    ('box') =
+    *postekase*
+    ('mailbox')
+
+    [Read more!](G-AFX.md)
 

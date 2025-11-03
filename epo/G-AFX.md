@@ -1,45 +1,93 @@
 
-# 11. Vortfarado
+# Vortfarado
 
-Funkciado de afiksoj (prefiksoj kaj sufiksoj) similas al tiu de Esperanto.
-Ili permesas aktive konstrui novajn vortojn, el tiuj jam konataj.
+## Nulderivado por ŝanĝi la vortotipon
+
+Oni povas ŝanĝi la finaĵon por krei pliajn facilajn vortojn.
+Tio similas al Esperanto, kun kelkaj diferencoj.
+
+En Esperanto, normalaj radikoj povas esti *a/e*-bazaj, *o*-bazaj kaj *i*-bazaj.
+(Tiu informo konsulteblas en bonaj vortaroj.)
+En panlingvo, vortoj ne havas bazan vortotipon.
+
+*log****a***
+'dir**i**'  
+*log****u***
+'esti dirata (de) / dir**iĝi**'  
+*log****i***
+'dir**a**'  
+*log****o***
+'dir**e**'  
+*log****e***
+'dir**o**'
+
+*nova*
+'novigi'  
+*novu*
+'esti novigita (de) ~ noviĝi'  
+*novi*
+'nova'  
+*novo*
+'nove'  
+*nove*
+'novo / novaĵo'  
+
+Kiam modifilo-vorto iĝas *a*-fina verbo, la signifo estas igi kiel la modifilo.
+
+*novi*
+'nova'
+→ *nova*
+'nov**igi**' (pensi ke ĉiuj verboj estas transitivaj helpas memori)  
+*sa novi*
+'novi ~ esti nova'
+
+Kiam verbo iĝas substantivo, la signifo estas la produktaĵo de la ago.
+
+*kitaba*
+'skribi'
+→ *kitabe*
+'skrib**aĵo**'  
+*kitabion*
+'skribo ~ skribado'
+
 
 ## Afiksoj
 
 Afiksoj, t.e. prefiksoj kaj sufiksoj, estas utilaj eroj de vortoj, kiuj estas ofte uzataj por konstrui novajn vortojn.
+Funkciado de afiksoj (prefiksoj kaj sufiksoj) similas al tiu de Esperanto.
+Ili permesas aktive konstrui novajn vortojn, el tiuj jam konataj.
 
-Multaj sufiksoj havas du formojn, unu kiu komenciĝas per vokalo kaj unu kiu komenciĝas per konsonanto.
-La vokalkomenca formo estas uzata kiam la radiko finiĝas per konsonanto aŭ per vokalo **-e**,
-kiu malaperas antaŭ la sufikso.
-Sube ni metas la vokalkomencan sufikson  **-ik** al radiko kiu finiĝas per **-e**.
+Kelkaj sufiksoj havas du formojn, unu kiu komenciĝas per vokalo kaj unu kiu komenciĝas per konsonanto.
+La vokalkomenca formo estas uzata kiam la baza radiko aŭ vorto finiĝas per konsonanto.
+Sube ni metas la vokalkomencan sufikson  **-ion** al radiko kiu finiĝas per konsonanto.
 
-            fize       'korpo'
-       +     -ik       'adjektiva sufikso'
+            dit-       'diri'
+       +    -ion       'ado'
     _____________
-    =      fizik       'korpa, fizika'
+    =     dition       'dirado'
 
-La konsonantkomenca formo estas uzata kiam la radiko finiĝas per iu ajn vokalo krom **-e**.
-Sube ni metas la konsonantkomencan sufikson  **-tik** al radiko kiu finiĝas per alia vokalo.
+La konsonantkomenca formo estas uzata kiam la baza radiko aŭ vorto finiĝas per vokalo.
+Sube ni metas la konsonantkomencan sufikson  **-tion** al vorto kiu finiĝas per vokalo.
 
-            tema       'temo'
-       +    -tik       'adjektiva sufikso'
+            safa       'purigi'
+       +   -tion       'ado'
     _____________
-    =    tematik       'tema'
+    =   safation       'purigado'
 
 Sufiksoj
-**-ik**
+**-ion**
 kaj
-**-tik**
+**-tion**
 estas alternativaj formoj de la sama baza sufikso,
-**(t)ik**,
+**(t)ion**,
 kiu nur enhavas forĵetebla komenca sono.
 
 Alia sufikso kiu havas du formojn estas **(o)krate**.
 Ĝia vokalkomenca formo estas **-okrate**
 kaj ĝia konsonantkomenca formo estas **-krate**.
-Ĉifoje la forĵetebla sono estas vokalo (kaj ne konsonanto kiel en **(t)ike**).
+Ĉifoje la forĵetebla sono estas vokalo (kaj ne konsonanto kiel en **(t)ion**).
 
-Sube ni metas tiun sufikson  **-ike** al radiko kiu finiĝas per **-e**.
+Sube ni metas tiun sufikson al radiko, kiu finiĝas per konsonanto.
 
             deme      'popolo'
       + (o)krate      'reĝimo'
@@ -47,7 +95,7 @@ Sube ni metas tiun sufikson  **-ike** al radiko kiu finiĝas per **-e**.
     ______________
     =  demokratia     'demokratio, popola reĝimo'
 
-Kaj sube ni metas tiun sufikson al radiko kiu finiĝas per alia vokalo.
+Kaj sube ni metas tiun sufikson al radiko, kiu finiĝas per vokalo.
 
            media      'amasinformilo'
       + (o)krate      'reĝimo'
@@ -58,53 +106,22 @@ Kaj sube ni metas tiun sufikson al radiko kiu finiĝas per alia vokalo.
 
 ### Prefiksoj
 
-#### a-
+#### a- ~ ad-
 
 La prefikso
 **a-**
 signifas ke la ago kunportas la aganton kaj la agaton.
 
-**sepe**
+**cepta**
 'preni'
-→ **asepe**
+→ **acepta**
 'ricevi, akcepti'  
 **liga**
 'ligi'
 → **aliga**
 'alligi'
 
-#### an-
-
-La prefikso
-**an-**
-esprimas neadon aŭ senigon de la baza vorto.
-
-**deiste**
-'teisto'
-→ **andeiste**
-'ateisto, sendiulo'  
-**alkolike**
-'alkohola'
-→ **analkolike**
-'senalkohola'  
-**homan**
-'homa'
-→ **anhoman**
-'nehoma'  
-**tabakiste**
-'fumanto (de tabako)'
-→ **antabakiste**
-'nefumanto'  
-**kluze**
-'ferma'
-→ **ankluze**
-'malferma'  
-**uzabil**
-'uzebla'
-→ **anuzabil**
-'neuzebla'
-
-#### de-
+#### de- ~ dez-
 
 La prefikso
 **de-**
@@ -114,21 +131,21 @@ signifas ke la agado forigas ion.
 'ligi'
 → **deliga**
 'malligi'  
-**dute**
+**duta**
 'konduki'
-→ **dedute**
+→ **deduta**
 'elkonduki'  
 **parte**
 'parto'
-→ **departe**
+→ **departa**
 'apartigi'  
-**kode**
+**koda**
 'kodi'
-→ **dekode**
+→ **dekoda**
 'malkodi'  
-**tape**
+**tapa**
 'korki'
-→ **detape**
+→ **detapa**
 'malkorki'
 
 #### dis-
@@ -137,73 +154,124 @@ La prefikso
 **dis-**
 signifas, ke aferoj moviĝas for en malsamaj aŭ pluraj direktoj, malkunen.
 
-**trate**
+**trata**
 'tiri'
-→ **distrate**
+→ **distrata**
 'distiri, distri'  
-**turbe**
+**turba**
 'kirli'
-→ **disturbe**
+→ **disturba**
 'diskirli, konfuzi'
 
 #### dus-
 
-La prefikso **dus-** donas econ de malboneco al la bazvorto.
+La prefikso
+**dus-**
+donas econ de malboneco al la bazvorto.
 
-**funte**
+**funtu**
 'funkcii'
-→ **dusfunte**
+→ **dusfuntu**
 'misfunkcii'  
 **rupe**
-'aspekti'
-→ **dusrupik**
+'aspekto'
+→ **dusrupi**
 'aspekti malbona aŭ malbela'  
-**forme**
+**forma**
 'formi'
-→ **dusforme**
+→ **dusforma**
 'misformi'
 
-#### ex-
+#### en- ~ em-
+
+La prefikso
+**en-**
+signifas ke la ago celas enen aŭ estas ene.
+
+**demi**
+'popola'
+→ **endemi**
+'enpopola'  
+**tena**
+'teni'
+→ **entena**
+'enteni'
+
+**jeta**
+'ŝpruci'
+→ **enjeta**
+'inŝpruci, injekti'  
+**kluza**
+'fermi'
+→ **enkluza**
+'enfermi, inkluzivi'
+**koda**
+'kodigi'
+→ **enkoda**
+'enkodigi'  
+**sirka**
+'ĉirkaŭi'
+→ **ensirka**
+'enĉirkaŭi'
+
+
+#### ex- ~ exo- ~ e-
 
 La prefikso
 **ex-**
 signifas ke la ago celas eksteren.
 
-**sepe**
+**kluza**
+'fermi'
+→ **exkluza**
+'ekskluzivi'  
+**cepta**
 'preni'
-→ **exsepe**
+→ **ecepta**
 'preni eksteren, escepti'  
-**jete**
+**jeta**
 'ŝpruci'
-→ **exjete**
+→ **ejeta**
 'ŝpruci eksteren'
 
-#### in-
+#### in- ~ im-
 
 La prefikso
 **in-**
-signifas ke la ago celas inen.
+esprimas neadon aŭ senigon de la baza vorto.
 
-**jete**
-'ŝpruci'
-→ **injete**
-'inŝpruci, injekti'  
-**kluze**
-'fermi'
-→ **inkluze**
-'enfermi, inkluzivi'
+**deviste**
+'teisto'
+→ **indeviste**
+'ateisto, sendiulo'  
+**alkoli**
+'alkohola'
+→ **inalkoli**
+'senalkohola'  
+**homani**
+'homa'
+→ **inhomani**
+'nehoma'  
+**tabakiste**
+'fumanto (de tabako)'
+→ **intabakiste**
+'nefumanto'  
+**uzabli**
+'uzebla'
+→ **inuzabli**
+'neuzebla'
 
-#### kon- ~ kom-
+#### kon- ~ kom- ~ ko-
 
 La prefiksoj **kon-** kaj **kom-** signifas ke la afero estas farata kune.
 
-**tene**
+**tena**
 'teni'
-→ **kontene**
+→ **kontena**
 'kunteni'  
-**stru**
+**struta**
 'strukturi'
-→ **konstru**
+→ **konstruta**
 'konstrui'  
 **patia**
 'sufero'
@@ -216,9 +284,9 @@ La prefikso
 **pos-**
 esprimas ke io estas post en tempo aŭ ordo.
 
-**pozi**
+**poza**
 'meti'
-→ **pospozi**
+→ **pospoza**
 'postmeti'  
 **prodution**
 'produktado'
@@ -231,52 +299,97 @@ La prefikso
 **pre-**
 esprimas ke io estas antaŭ en tempo aŭ ordo.
 
-**pozi**
+**poza**
 'meti'
-→ **prepozi**
+→ **prepoza**
 'antaŭmeti'  
-**dite**
+**dita**
 'diri'
-→ **predite**
+→ **predita**
 'antaŭdiri'  
-**vize**
+**viza**
 'vidi'
-→ **previze**
+→ **previza**
 'antaŭvidi'
 
 #### re-
 
 La prefikso **re-** signifas 'veni aŭ meti denove en la saman lokon kiel antaŭe'.
 
-**ate**
+**aga**
 'agi'
-→ **reate**
+→ **reaga**
 'reagi'  
-**turne**
+**turna**
 'turni'
-→ **returne**
+→ **returna**
 'returni, turni en la antaŭan direkton'  
-**peye**
+**peya**
 'pagi'
-→ **repeye**
+→ **repeya**
 'repagi'
 
 #### ri-
 
-La prefikso **ri-** signifas 'fari denove'.
+La prefikso
+**ri-**
+signifas 'fari denove'.
 
 **forma**
 'form'
 → **riforma**
 'reformi'  
-**nate**
+**natu**
 'naski'
-→ **rinate**
+→ **rinatu**
 'renaski'  
-**pleye**
+**pleya**
 'ludi'
-→ **ripleye**
+→ **ripleya**
 'ludi denove'
+
+#### sin- ~ sim-
+
+La prefiksoj
+**sin- ~ sim-**
+signifas 'sam-'.
+
+**kroni**
+'tempa'
+→ **sinkroni**
+'samtempa, sinkrona'  
+**metria**
+'mezurado'
+→ **simmetria**
+'sammezureco, simetrio'  
+**patia**
+'sento'
+→ **simpatia**
+'simila sento, simpatio'  
+**mixa**
+'miksi'
+→ **simmixa**
+'intermiksi'
+
+#### ta- ~ tan-
+
+La prefikso
+**ta(n)-**
+emfazas la ago kiel situacio.
+
+**fikra**
+'pensi'
+→ **tafikra**
+'esti pensema pri'  
+**xukra**
+'danki'
+→ **taxukra**
+'esti dankema al'  
+**slamu**
+'subiĝi'
+→ **taslam**
+'subiĝo'
+
 ### Sufiksoj
 
 #### -aje
@@ -293,7 +406,7 @@ signifas aferon, kiu estas farita el aŭ ĉe la "materialo", kiun la radiko mont
 'kerno, koro'
 **koraje**
 'kuraĝo'  
-**mise**
+**misa**
 'sendi'
 → **misaje**
 'sendaĵo, mesaĝo'  
@@ -315,15 +428,11 @@ esprimas ke 'io apartenas al la afero esprimata de la radiko'.
 **fine**
 'fino'
 → **final**
-'fina'  
-**universe**
+'finalo'  
+**uneverse**
 'universo'
-→ **universal**
-'universala'  
-**karne**
-'karno'
-→ **karnal**
-'karna'
+→ **uneversali**
+'universala'
 
 Kiam
 **-al**
@@ -334,80 +443,35 @@ la sufiksoj kuniĝas al
 
 **dunia**
 'mondo'
-→ **dunial**
+→ **duniali**
 'monda'  
 **imperia**
 'imperio'
-→ **imperial**
+→ **imperiali**
 'imperia'  
 **nasia**
 'nacio'
-→ **nasial**
+→ **nasiali**
 'nacia'  
-**sosia**
+**socia**
 'socio'
-→ **sosial**
+→ **sociali**
 'socia, sociala'
 
-#### -an ~ ian
+#### -bli
 
 La sufikso
-**-an**
-esprimas 'anon de iu komunumo', ekzemple de lando, urbo aŭ klubo.
-Kiam tiu sufikso estas metita sur radiko, kiu finiĝas per
-**-ia**,
-la sufiksoj kuniĝas al
-**-ian**.
-
-**Amerika**
-'Ameriko'
-→ **amerikan**
-'amerikano'  
-**Italia**
-'Italio'
-→ **italian**
-'italiano'  
-**Rusia**
-'Rusio'
-→ **rusian**
-'rusiano'  
-**Paris**
-'Parizo'
-→ **parisan**
-'parizano'  
-**kristia**
-'kristanaro'
-→ **kristian**
-'kristano'
-#### -bil
-
-La sufikso
-**-bil**
+**-bli**
 esprimas, ke io estas 'ebla' aŭ 'povas esti farata'.
 
-**vize**
+**viza**
 'vidi'
-→ **vizebil**
+→ **vizabli**
 'videbla'  
 **uza**
 'uzi'
-→ **uzabil**
+→ **uzabli**
 'uzebla'
-
-#### -ente ~ -nte
-
-La sufikso
-**-(e)nte**
-esprimas 'iun kiu faras la agon kiun la radiko esprimas'.
-
-**es**
-'esti'
-→ **esente**
-'estanta'  
-**loga**
-'paroli'
-→ **logante**
-'parolanta'
 
 #### -er ~ -ter
 
@@ -415,21 +479,21 @@ La sufikso
 **-(t)er**
 esprimas 'personon kiu okupiĝas pri io (eble profesie)'.
 
-**ate**
+**aga**
 'agi'
-→ **ater**
+→ **ager**
 'aganto'  
-**bake**
+**baka**
 'baki'
 → **baker**
 'bakisto'  
-**lide**
+**lida**
 'regi, estri'
 → **lider**
 'resisto, estro'  
-**filsofe**
+**filosofa**
 'filozofi'
-→ **filsofer**
+→ **filosofer**
 'filozofo'  
 **muskete**
 'muskedo'
@@ -439,7 +503,7 @@ esprimas 'personon kiu okupiĝas pri io (eble profesie)'.
 'kesto, kaso'
 → **kaser**
 'kasisto'  
-**kompute**
+**komputa**
 'komputi'
 → **komputer**
 'komputilo'
@@ -450,7 +514,7 @@ esprimas 'personon kiu okupiĝas pri io (eble profesie)'.
 **-(t)er** + **-ia**.
 Ĝi siginifas ejon, kutime verkejon.
 
-**bake**
+**baka**
 'baki'
 → **bakeria**
 'bakejo'  
@@ -489,6 +553,45 @@ esprimas 'malgrandecon'.
 → **sigaret**
 'cigaredo'
 
+#### -filia
+
+La sufikso
+**-filia**
+signifas 'eksternormala ŝato aŭ amo'.
+
+**baxe**
+'lingvo'
+→ **baxofilia**
+'glosofilio, amo de lingvoj'  
+**rusi**
+'rusa'
+→ **rusofilia**
+'rusofilio'  
+**tekne**
+'tekniko'
+→ **teknofilia**
+'teknofilo, amo de tekniko'
+
+#### -fobia
+
+La sufikso
+**-fobia**
+signifas 'eksternormala timo'.
+
+**arane**
+'araneo'
+→ **aranofobia**
+'araknofobio'  
+**pan**
+'ĉioampleksanta'
+→ **panfobia**
+'panfobio, timo de ĉio'  
+→ **rusofobia**
+**Rus**
+'Rusio'
+→ **rusofobia**
+'rusofobio, timo aŭ malŝato de Rusio'
+
 #### -ia ~ -ya
 
 La sufikso
@@ -517,15 +620,15 @@ aŭ lokon kie ili estas kolektita.
 → **filsofia**
 'filozofio'
 
-**arabe**
+**arabi**
 'araba'
 → **Arabia**
 'Arabio'  
-**rus**
+**rusi**
 'rusa'
 → **Rusia**
 'Rusio'  
-**turke**
+**turki**
 'turka'
 → **turkia**
 'Turkio'  
@@ -565,21 +668,47 @@ kie ĝi signifas kolekton de scienca scio kaj praktiko.
 **geolojia**
 'geologio'
 
-#### -ife ~ -tife
+#### -ian
 
-La sufikso *-ife* signifas 'igi'.
+La sufikso
+**-ian**
+esprimas 'anon de iu komunumo', ekzemple de lando, urbo aŭ klubo.
 
-**komple**
+
+**Italia**
+'Italio'
+→ **italian**
+'italiano'  
+**Rusia**
+'Rusio'
+→ **rusian**
+'rusiano'  
+**Paris**
+'Parizo'
+→ **parisian**
+'parizano'  
+**kristia**
+'kristanaro'
+→ **kristian**
+'kristano'
+
+#### -ifa
+
+La sufikso
+**-ifa**
+signifas 'igi'.
+
+**kompli**
 'malsimpla, kompleksa'
-→ **komplife**
+→ **komplifa**
 'malsimpligi', kompleksigi  
-**long**
+**longi**
 'longa'
-→ **longife**
+→ **longifa**
 'longigi'  
 **un**
 'unu'
-→ **unife**
+→ **unifa**
 'unuigi'
 
 #### -ik ~ -tik
@@ -590,19 +719,11 @@ La formo **-ik** estas uzata kiam la radiko finiĝas per konsonanto aŭ *-e*.
 
 **un**
 'unu'
-→ **unik**
-'sola'  
-**makin**
-'maŝino'
-→ **makinik**
-'maŝina, mekanika'
+→ **uniki**
+'sola'
 
-La formo **-tik** estas uzata kiam la radiko finiĝas per alia vokalo ol *-e*.
+La formo **-tiki** estas uzata kiam la radiko finiĝas per vokalo.
 
-**tema**
-'temo'
-→ **tematik**
-'tema'
 
 #### -ion ~ -tion
 
@@ -716,19 +837,119 @@ La formo **-tive** estas uzata kiam la radiko finiĝas per iu alia vokalo ol *-e
 → **bashative**
 'lingva, komunikada'
 
-#### -ize ~ -tize
+#### -iza
 
-La sufikso **-ize** signifas 'provizi per la aĵo de la radiko'.
+La sufikso
+**-iza**
+signifas 'provizi per la aĵo de la radiko'.
 
 **aure**
 'oro'
-→ **aurize**
+→ **auriza**
 'ori aŭ origi'  
 **makin**
 'maŝino'
-→ **makinize**
+→ **makiniza**
 'mekanizi, provizi per maŝinoj'
 
+#### -krate
+
+La sufikso
+**-krate**
+means 'to rule, govern'.
+
+**dem**
+'popolo'
+→ **demokratia**
+'demokratio, popola reĝimo'  
+**tekne**
+'technology'
+→ **teknokratia**
+'teknokratio, teknika reĝimo'  
+**media**
+'amasinformilo'
+→ **mediakratia**
+'amasinformila reĝimo'
+
+#### -metre
+
+La sufikso
+**(o)metre**
+signifas 'mezuro'.
+
+**terme**
+'varmeco'
+→ **termometrer**
+'termometro'  
+**sim-**
+'sama'
+→ **simmetria**
+'sammezureco, simetrio'
+
+#### -nomia
+
+La sufikso
+**-nomia**
+signifas 'aranĝado'.
+
+**astre**
+'astro'
+→ **astronomia**
+'astronomio'  
+**agre**
+'terkulturi'
+→ **agronomia**
+'agronomio'
+
+#### -n-
+
+Sufikso de aktiva participo.
+Oni metas ĝin post kompleta verbo,
+do la finaĵoj *-a* kaj *-u* estas konservitaj.
+
+**yama**
+'manĝi'
+→ **yamani**
+'manĝanta'  
+**viza**
+'vidi'
+→ **vizani**
+'vidanta'  
+
+La sama sufikso funkcias ankaŭ kiel kaŭza verba sufikso,
+kiu esprimas, ke iu estigas, ke iu faru la agon.
+
+**sava**
+'scii'
+→  **savana**
+'sciigi, estigi ke iu sciu'  
+**yama**
+'manĝi'
+→  **yamana**
+'manĝigi, estigi ke iu manĝu'
+
+#### -t-
+
+Sufikso de pasiva participo.
+Oni metas ĝin post kompleta verbo,
+do la finaĵo *-a* estas konservita.
+
+**sava**
+'scii'
+→  **savati**
+'sciita'
+
+La sama sufikso funkcias ankaŭ kiel kaŭza verba sufikso,
+kiu esprimas, ke iu estigas, ke la ago estu farata al io.
+
+**sava**
+'scii'
+→  **savata**
+'sciigi (ion)'  
+**yama**
+'manĝi'
+→  **yamata**
+'manĝigi, estigi ke io estu manĝata'
 
 #### -ul ~ -kul
 
@@ -755,12 +976,87 @@ La sufikso
 **-(t)ur**
 signifas rezulton de ago.
 
-**kulte**
+**kulta**
 'kulturi'
-→ **kulture**
+→ **kultur**
 'kulturo'  
-**mixe**
+**mixa**
 'miksi'
 → **mixur**
 'miksaĵo, miksturo'
+
+
+### Kemiaj afiksoj
+
+**-al**
+'aldehido':  
+**metanal**
+'formaldehido, metanalo'
+
+**-an**
+'alkana grupo':  
+**metil**
+'metilo'
+→ **metan**
+'methano'
+
+**-at**
+'salo aŭ estero':  
+**sulfe**
+'sulfuro'
+→ **sulfat**
+'sulfato'  
+
+**-en**
+'alkena grupo':  
+**meten**
+'meteno'
+
+**-il**
+'alkila grupo':  
+**bute**
+'butero'
+→ **butil**
+'butilo'  
+**metan**
+'metano'
+→ **metil**
+'metilo'
+
+**-in**
+'alkina grupo':  
+**metin**
+'metino'
+
+**-it**
+'salo aŭ estero':  
+**sulfe**
+'sulfuro'
+→ **sulfit**
+'sulfito'
+
+**-ol**
+'alkohola kombinaĵo':  
+**etan**
+'etano'
+→ **etanol**
+'etanolo'
+
+**-on**
+'ketona grupo':  
+**propan**
+'propano'
+→ **propanon**
+'propanono'
+
+**-os**
+'sukero':  
+**frut**
+'frukto'
+→ **frutos**
+'fruktozo'  
+**malte**
+'malto'
+→ **maltos**
+'maltozo'
 

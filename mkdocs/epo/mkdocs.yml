@@ -15,7 +15,7 @@ extra_css:
   - stile.css
 nav:
     - 'Ĉefpaĝo': 'index.md'
-    - 'Bazaĵoj kaj strukturo de Pandunia':
+    - 'Strukturo de Pandunia':
         - 'Bazaj reguloj': G-baze.md
         - 'Tutmonda vortaro': L-lexe.md
         - 'Prononco': G-ABC.md

@@ -1,7 +1,6 @@
 sh bin/lista_lexe.sh
 sh bin/konta_lexi.sh
 sh bin/bina_nete-loka.sh
-sh bin/fata_logia.sh
 
 sh bin/konta_asar.sh
 sh bin/grafa.sh

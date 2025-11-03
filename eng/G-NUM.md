@@ -1,50 +1,50 @@
 
-# 6. Numerals
+# Numerals
 
 ## Cardinal numbers
 
 | Ones         | Ten and over   | 20 and over      | 30 and over        |
 |:-------------|:---------------|:-----------------|:-------------------|
-| 0 siro       | 10 (un) ten    | 20 du ten        | 30 tri ten         |
-| 1 un         | 11 ten un      | 21 du ten un     | 31 tri ten un      |
-| 2 du         | 12 ten du      | 22 du ten du     | 32 tri ten du      |
-| 3 tri        | 13 ten tri     | 23 du ten tri    | 33 tri ten tri     |
-| 4 for        | 14 ten for     | 24 du ten for    | 34 tri ten for     |
-| 5 faif       | 15 ten faif    | 25 du ten faif   | 35 tri ten faif    |
-| 6 sixe       | 16 ten sixe    | 26 du ten sixe   | 36 tri ten sixe    |
-| 7 seven      | 17 ten seven   | 27 du ten seven  | 37 tri ten seven   |
-| 8 eite       | 18 ten eite    | 28 du ten eite   | 38 tri ten eite    |
-| 9 nain       | 19 ten nain    | 29 du ten nain   | 39 tri ten nain    |
+| 0 nil        | 10 (un) des    | 20 du des        | 30 tri des         |
+| 1 un         | 11 des un      | 21 du des un     | 31 tri des un      |
+| 2 du         | 12 des du      | 22 du des du     | 32 tri des du      |
+| 3 tri        | 13 des tri     | 23 du des tri    | 33 tri des tri     |
+| 4 char       | 14 des char    | 24 du des char   | 34 tri des char    |
+| 5 pen        | 15 des pen     | 25 du des pen    | 35 tri des pen     |
+| 6 luk        | 16 des luk     | 26 du des luk    | 36 tri des luk     |
+| 7 chet       | 17 des chet    | 27 du des chet   | 37 tri des chet    |
+| 8 bat        | 18 des bat     | 28 du des bat    | 38 tri des bat     |
+| 9 nau        | 19 des nau     | 29 du des nau    | 39 tri des nau     |
 
 | Ones         |  Tens          | Hundreds         | Thousands          |
 |:-------------|:---------------|:-----------------|:-------------------|
-| 1 un         | 10 (un) ten    | 100 un hunde     | 1000 un tauzen     |
-| 2 du         | 20 du ten      | 200 du hunde     | 2000 du tauzen     |
-| 3 tri        | 30 tri ten     | 300 tri hunde    | 3000 tri tauzen    |
-| 4 for        | 40 for ten     | 400 for hunde    | 4000 for tauzen    |
-| 5 faif       | 50 faif ten    | 500 faif hunde   | 5000 faif tauzen   |
-| 6 sixe       | 60 sixe ten    | 600 sixe hunde   | 6000 sixe tauzen   |
-| 7 seven      | 70 seven ten   | 700 seven hunde  | 7000 seven tauzen  |
-| 8 eite       | 80 eite ten    | 800 eite hunde   | 8000 eite tauzen   |
-| 9 nain       | 90 nain ten    | 900 nain hunde   | 9000 nain tauzen   |
+| 1 un         | 10 (un) des    | 100 un cento     | 1000 un kilo       |
+| 2 du         | 20 du des      | 200 du cento     | 2000 du kilo       |
+| 3 tri        | 30 tri des     | 300 tri cento    | 3000 tri kilo      |
+| 4 char       | 40 char des    | 400 char cento   | 4000 char kilo     |
+| 5 pen        | 50 pen  des    | 500 pen  cento   | 5000 pen  kilo     |
+| 6 luk        | 60 luk  des    | 600 luk  cento   | 6000 luk  kilo     |
+| 7 chet       | 70 chet  des   | 700 chet  cento  | 7000 chet  kilo    |
+| 8 bat        | 80 bat  des    | 800 bat  cento   | 8000 bat  kilo     |
+| 9 nau        | 90 nau  des    | 900 nau  cento   | 9000 nau  kilo     |
 
 Greater numbers follow the same logic as above.
 
-10'000 un ten tauzen  
-100'000 un hunde tauzen  
+10'000 un des kilo  
+100'000 un cento kilo  
 1'000'000 un milion  
-10'000'000 un ten milion  
-100'000'000 un hunde milion  
-1'000'000'000 un tauzen milion  
+10'000'000 un des milion  
+100'000'000 un cento milion  
+1'000'000'000 un kilo milion  
 
 Note: The words "billion" and "milliard" are not used in Pandunia
 because their meanings are different from country to country.
-Instead, one should say **tauzen milion** (thousand millions) or **un giga**.
+Instead, one should say **kilo milion** (thousand millions) or **un giga**.
 
 The prefixes of the [International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units)
 (SI) are used in common language in Pandunia.
 It is normal to say, for example:  
-**eite giga person bi live in Dunia.**  
+**bat giga hom viva a Dunia.**  
 – Eight billion (or _milliard_) people live on Earth.
 
 | Prefix   | Symbol  | Base 10 | Decimal                           |
@@ -74,14 +74,14 @@ They are put before the word or phrase that they qualify.
 – three stars  
 **kam sing**
 – few stars  
-**meni sing**
+**multi sing**
 – many stars
 
-**un dai kursi**
+**un dai korse**
 – one big chair  
-**du dai kursi**
+**du dai korse**
 – two big chairs  
-**tri dai kursi**
+**tri dai korse**
 – three big chairs
 
 
@@ -110,7 +110,7 @@ which includes, among many others,
 'meter',
 **botle**
 'bottle',
-**kupa**
+**kupe**
 'cup, mug',
 **pake**
 'package',
@@ -124,19 +124,19 @@ which includes, among many others,
 'cask, barrel'.
 
 Measure words are used in this simple structure:
-number + measure word + **se** + noun.
+number + measure word + **di** + noun.
 
-**du litre se jus**
+**du litre di jus**
 – two liters of juice  
-**tri metre se kable**
+**tri metre di kable**
 – three meters of wire  
-**un kupa se kafe**
+**un kupa di kafe**
 – a cup of cofee  
-**du botle se vin**
+**du botle di vin**
 – two bottles of wine  
-**tri sake se patato**
+**tri sake di patato**
 – three sacks of potatoes  
-**for tin se limon jus**
+**char tin di limon jus**
 – four cans of lemonade
 
 
@@ -164,23 +164,23 @@ stands for '2/3' in mathematical symbols.
 
 **un parte du**
 – a half (½)  
-**un parte for**
+**un parte char**
 – one fourth, one quarter (¼)  
-**tri parte for**
+**tri parte char**
 – three fourths, three quarters (¾)  
-**un parte hunde**
+**un parte cento**
 – one hundredth, one percent (1%)  
-**un parte tauzen**
+**un parte kilo**
 – one thousandth, one permille (1‰)
 
 Fractions are connected to their noun head with
-**se**.
+**di**.
 
-**un parte du se haur**
+**un parte du di haur**
 – a half (of an) hour  
-**faif ten parte hunde se jen**
+**pen des parte cento di jen**
 – fifty percent of people  
-**du parte tri se keke**
+**du parte tri di keke**
 – two thirds of a cake  
 
 
@@ -191,13 +191,13 @@ It uses the pattern
 
 **un of du parte**
 – one of two parts, a half (½)  
-**un of for parte**
+**un of char parte**
 – one of four parts, a quarter (¼)  
-**tri of for parte**
+**tri of char parte**
 – three of four parts, three quarters (¾)  
-**un of hunde parte**
+**un of cento parte**
 – one of hundred parts, a percent (1%)  
-**un of tauzen parte**
+**un of kilo parte**
 – one of thousand parts, a permille (1‰)
 
 
@@ -237,23 +237,23 @@ Names of the months are made up of the number of the month and
    – February
 3. **mes tri**
    – March
-4. **mes for**
+4. **mes char**
   – April
-5. **mes faif**
+5. **mes pen**
   – May
-6. **mes sixe**
+6. **mes luk**
   – June
-7. **mes seven**
+7. **mes chet**
   – July
-8. **mes eite**
+8. **mes bat**
   – August
-9. **mes nain**
+9. **mes nau**
   – September
-10. **mes ten**
+10. **mes des**
   – October
-11. **mes ten un**
+11. **mes des un**
   – November
-12. **mes ten du**
+12. **mes des du**
   – December
 
 
@@ -285,21 +285,21 @@ and we never use words like *past* and *to* in Pandunia.
 
 **haur tri**
 – three o'clock  
-**haur tri e siro**
+**haur tri e nil**
 – three o'clock sharp  
-**haur tri e faif**
+**haur tri e pen**
 – three oh-five – or five past three  
-**haur tri e ten**
+**haur tri e des**
 – three ten – or ten past three  
-**haur tri e ten faif**
+**haur tri e des pen**
 – three fifteen – or quarter past three  
-**haur tri e tri ten**
+**haur tri e tri des**
 – three thirty – or half past three  
-**haur tri e for ten faif**
+**haur tri e for des pen**
 – three forty-five – or quarter to four  
-**haur tri e faif ten**
+**haur tri e pen des**
 – three fifty – or ten to four  
-**haur tri e faif ten faif**
+**haur tri e pen des pen**
 – three-fifty-five – or five to four
 
 
@@ -311,19 +311,19 @@ Normally we use the 24 hour clock to tell the time in Pandunia.
 **haur un**
 – one o'clock ~ one hundred hours  
 01:15 =
-**haur un e ten faif**
+**haur un e des pen**
 – one fifteen ~ one hundred fifteen hours  
 01:30 =
-**haur un e tri ten**
+**haur un e tri des**
 – one thirty ~ one hundred thirty hours  
 13:00 =
-**haur ten tri**
+**haur des tri**
 – thirteen o'clock ~ thirteen hundred hours  
 13:15 =
-**haur ten tri e ten faif**
+**haur des tri e des pen**
 – thirteen fifteen ~ thirteen hundred fifteen hours  
 13:30 =
-**haur ten tri e tri ten**
+**haur des tri e tri des**
 – thirteen thirty ~ thirteen hundred thirty hours
 
 #### The 12 hour clock
@@ -344,13 +344,13 @@ Before midday we say:
 **haur un AM**
 – one AM  
 <big>🕜</big> =
-**haur un e tri ten AM**
+**haur un e tri des AM**
 – one thirty AM  
 <big>🕔</big> =
-**haur faif AM**
+**haur pen AM**
 – five AM  
 <big>🕙</big> =
-**haur ten AM**
+**haur des AM**
 – ten AM
 
 After midday we say:
@@ -359,12 +359,12 @@ After midday we say:
 **haur un PM**
 – one PM  
 <big>🕜</big> =
-**haur un e tri ten PM**
+**haur un e tri des PM**
 – one thirty PM
 <big>🕔</big> =
-**haur faif PM**
+**haur pen PM**
 – five PM  
 <big>🕙</big> =
-**haur ten PM**
+**haur des PM**
 – ten PM
 

@@ -51,7 +51,7 @@ krea_lexaslik_lista() {
 }
 
 krea_lexe_lista() {
-    echo krea lexolista do $1
+    echo krea lexeliste pa $1
     kopi_lexe_lista $1
     krea_lexaslik_lista $1
 }
@@ -234,7 +234,7 @@ cd ../panlexia
 rm generated/*
 mkdir generated
 sh tools/generate_bilingual_dictionaries.sh pandunia
-cd ../panlingue
+cd ../pandunia
 
 # english e pandunia
 krea_lexe_lista eng

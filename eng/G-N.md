@@ -4,16 +4,16 @@
 ## Only one form
 
 A noun is a word that refers to a concrete or abstract object,
-such as *person*, *tree*, *house*, *life* and *speed*.
+such as *person*, *tree*, *house*, *life* and *beauty*.
 Like all words in Pandunia, nouns don't ever change in form.
 The same word form is always used, no matter whether the referred thing is singular or plural, definite or indefinite, subject or object, etc.
 Therefore the same Pandunia word form can correspond to many different word forms in English.
 
 *haus*
 – a house, houses, the house, or the houses  
-*meza*
+*mez*
 – a table, tables, the table, or the tables  
-*kursi*
+*korse*
 – a chair, chairs, the chair, or the chairs  
 *sui*
 – water, the water
@@ -49,15 +49,15 @@ It is done simply by inserting a number or a quantity word before the noun.
 *multi meme*
 – many sheep
 
-*kursi*
+*korse*
 – a chair or chairs  
-*un kursi*
+*un korse*
 – one chair  
-*du kursi*
+*du korse*
 – two chairs  
-*tri kursi*
+*tri korse*
 – three chairs  
-*multi kursi*
+*multi korse*
 – many chairs
 
 It is possible to specify plurality also by reduplication, by saying the noun two times.
@@ -91,11 +91,11 @@ means 'X and other people associated with X'.
 
 The same particle is used also for forming the plural personal pronouns.
 
-*mimen*
+*memen*
 – we = 'I and my people' (not 'many mes')  
 *tumen*
 – you = 'you and your people' (not 'many yous')  
-*damen*
+*homen*
 – they = 'a certain group of associated people'
 
 
@@ -126,3 +126,16 @@ A title of respect can be used with a given name, a family name, or both.
 *si King*
 – Mx King
 
+
+## Noun ending?
+
+Nouns can end in any vowel or consonant in Pandunia.
+They don't have dedicated endings, unlike verbs, adverbs and adjectives do.
+As a rule of thumb, those words that **don't end** in the single vowels *-a*, *-u*, *-i* and *-o* are nouns.
+This rule is highly reliable but there are still exceptions to it,
+including a few cultural loanwords, like
+*piza*
+('pizza, an Italian pie with tomato, cheese and other toppings') and
+*sushi*
+('a Japanese dish of rice, seaweed and fish'),
+and many proper names, like *Ana*, *Marta*, *Lili*, *Marko* and *Lulu*.

@@ -16,25 +16,25 @@ hide:
 **sal!**
 – Hello!  
 <big>☻</big>
-**sal!**
+**salam!**
 – Hello!  
 <big>☺</big>
-**tu es ke?**
+**tu sa que?**
 – Who are you?  
 <big>☻</big>
-**mi es Yusef. tu es ke?**
+**me sa Yusef. tu sa que?**
 – I am Yusef. Who are you?  
 <big>☺</big>
-**mi es Sara. da es ke?**
+**me sa Sara. ho sa que?**
 – I am Sara. Who is that?  
 <big>☻</big>
-**da es mi su doste.**
+**ho sa me di doste.**
 – That is my friend.  
 <big>☺</big>
-**da su nam es ke?**
+**ho di nim sa que?**
 – What's her name?  
 <big>☻</big>
-**da su nam es Maria.**
+**ho di nim sa Maria.**
 – Her name is Maria.
 
 ### Grammar
@@ -42,43 +42,43 @@ hide:
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
 tells something about the topic. For instance in
-**da es mi su doste**
+**ho sa me di doste**
 the topic is the pronoun
-**da**
-(he, she, it), which is followed by the comment
-**es mi su doste**
-(is my friend).
+**ho**
+('he, she, it'), which is followed by the comment
+**sa me di doste**
+('is my friend').
 
 In Pandunia, the word
-**es**
+**sa**
 functions like _to be_ in English.
 The same word is used for all persons.
 And to say the opposite, simply put
 **no**
 before it.
 
-**da es Sara.**
-– She is Sarah.  
-**da no es Sara.**
-– She is not Sarah.
+**ho sa Sara.**
+— She is Sarah.  
+**ho no sa Sara.**
+— She is not Sarah.
 
-**mau es hevan.**
-– The cat is an animal.  
-**haus no es hevan.**
-– The house is not an animal.  
+**mau sa hevan.**
+— The cat is an animal.  
+**dom no sa hevan.**
+— The house is not an animal.  
 
 In the same way you can describe yourself by saying
-**mi es**
+**me sa**
 and a word that describes you.
 
-**mi es bon.**
-– I'm good.  
-**mi es man.**
-– I'm a man.  
-**mi es fem.**
-– I'm a woman.  
-**mi es nobi.**
-– I'm non-binary.
+**me sa boni.**
+— I'm good.  
+**me sa man.**
+— I'm a man.  
+**me sa fem.**
+— I'm a woman.  
+**me sa exjeni.**
+— I'm non-binary.
 
 
 ### Exercises
@@ -96,29 +96,29 @@ The correct answers are after the word list.
 
 ### Word List
 
-**mi**
+**me**
 I, me  
-**mi su**
+**me di**
 my  
 **tu**
 you  
-**tu su**
+**tu di**
 your  
-**da**
+**ho**
 he, she or it  
-**da su**
+**ho di**
 his, her, its  
-**ke**
+**que**
 who or what  
-**es**
+**sa**
 to be  
 **no**
 no; not  
-**bon**
+**boni**
 good  
 **doste**
 friend  
-**nam**
+**nim**
 name  
 **fem**
 woman  
@@ -131,12 +131,12 @@ animal
 
 ### Answers to the Exercises
 
-1. tu es ke?
-2. mi es Tomas.
-3. tu su doste es ke?
-4. da es Sara.
-5. tu su nam es ke?
-6. mi su nam es ........... 
+1. tu sa que?
+2. me sa tomas.
+3. tu di doste sa que?
+4. ho sa Sara.
+5. tu di nim sa que?
+6. me di nim sa ........... 
 
 
 --------------------------------------------------------------------------------
@@ -144,20 +144,20 @@ animal
 
 ## Saying hello
 
-**sal**
-– Hello!
+**sal!**
+— Hello!
 
 This is how people often greet each other in Pandunia.
 They say
 **sal**.
 It is used for saying both hello and goodbye.
 
-**sal**
-– Bye!
+**sal!**
+— Bye!
 
 The word
 **sal**
-means 'hello' or 'hi'.
+means well-wishes and it is used as a greeting.
 
 It has two origins.
 On one hand, it comes from the Latin greeting *salve* and related greetings like French *salut*.
@@ -166,82 +166,78 @@ On the other hand, it comes from a common Middle Eastern word for wishing well-b
 It appears as *shlaam* in Aramaic, the language that Jesus of Nazareth spoke.
 In Hebrew it is *shalom*,
 and in Arabic it is *salaam*.
-So smething like
+These words have been borrowed to many languages, so something like
 **sal**
-is already a common greeting in hundreds of languages in Africa, Asia and Europe.
+is already a common greeting in many countries in Africa, Asia and Europe.
 
-Pandunia is a constructed world language
+Pandunia is a globalistic language
 that borrows and blends together international words from all parts of the world.
 
-The word
+The verb form of
 **sal**
-means *greeting* or *to greet*.
+is
+**sala**,
+which means 'to wish well (for someone)' and 'to greet'.
 
-**mi sal tu.**
-– I greet you.  
-**tu sal mi.**
-– You greet me.
+**me sala tu.**
+— I greet you.  
+**tu sala me.**
+— You greet me.
 
 These are active sentences.
 In active sentences the subject does the action to the object. In
-**mi sal tu**
+**me sala tu**
 the first word
-**mi**
+**me**
 is the subject,
-**sal**
+**sala**
 is the verb (action word), and
 **tu**
 is the object.
-The order of subject, verb and object is the normal word order
-in Pandunia.
+The order subject–verb–object (or SVO in short) is a normal word order in Pandunia.
 
 > Word order in active sentence: Subject + Verb + Object
 
 Pandunia's singular personal pronouns are:
-**mi**
+**me**
 'I',
 **tu**
 'you', and
-**da**
-'he, she, it'. Note that the pronouns stayed the same in the
-previous example sentences. Words never change in Pandunia. They
-always stay the same regardless of their position in sentence.
+**ho**
+'he, she, it'.
+Note that all the pronouns stayed the same in the previous example sentences.
+Words never change in Pandunia.
+Except for verbs, they always stay the same regardless of their position in sentence.
 
 In Pandunia sentences can be made shorter by leaving out pronouns
 that are obvious in the present situation.
 
-**mi sal tu!**
-– I greet you.  
-**sal tu!**
-– Greetings to you! (It is obvious that the speaker is the one who greets.)  
-**sal!**
-– Greeting! (It is obvious that the listeners are greeted.)  
+**me sala tu!**
+— I greet you.  
+**sala tu!**
+— Greetings to you! (It is obvious that the speaker is the one who greets.)  
+**sala!**
+— Greetings! (It is obvious that the listeners are greeted.)
 
-Another Pandunia word for greeting is
-**halo**.
-It is also a very international greeting.
-You can choose freely, which word to use when you greet people.
 
-**halo!**
-– Hello!
-
-You may use both **sal** and **halo**
+You can use
+**sal**
 to address people by name, kinship term or profession.
 
-**halo, toni!**
-– Hello, Tony!  
+**sal, Adam!**
+— Hello, Adam!  
 **sal, mama!**
-– Hello, mother!  
-**halo, papa!**
-– Hello, father!  
+— Hello, mother!  
+**sal, papa!**
+— Hello, father!  
 **sal, shef!**
-– Hello, chief!
+— Hello, chief!
 
 
 ### Exercises
 
-Try translating these sentences from English to Pandunia. The correct
-answers are after the word list.
+Try translating these sentences from English to Pandunia.
+The correct answers are after the word list.
 
 1. You greet him/her.
 2. Mother greets father.
@@ -252,12 +248,10 @@ answers are after the word list.
 ### Word List
 
 **sal**
-hello, hi, salaam, ciao  
-**halo**
-hello (said especially on the phone)  
-**sal**
-greeting(s), to greet.  
-**sal**
+greetings, hello, hi, salaam, ciao  
+**salam**
+hello, salaam.  
+**sala**
 to greet  
 **mama**
 mother, mom  
@@ -269,9 +263,9 @@ chief, boss
 
 ### Answers to the Exercises
 
-1. tu sal da.
-2. mama sal papa.
-3. sal mama!
+1. tu sala ho.
+2. mama sala papa.
+3. sal, mama!
 4. sal!
 
 
@@ -286,62 +280,62 @@ chief, boss
 <small>Image designed by [macrovector](https://www.freepik.com/macrovector)</small>
 
 <big>☻</big>
-**halo, cin pa!**
-– Hello, grandfather!  
+**sal, senpa!**
+— Hello, grandfather!  
 <big>☺</big>
-**sal! ples side.**
-– Hello! Please sit!  
+**sal! chinga sida.**
+— Hello! Please sit!  
 <big>☻</big>
-**danke.**
-– Thank you.  
+**shukre.**
+— Thank you.  
 <big>☺</big>
-**ples yam kafe o cha.**
-– Please have some coffee or tea.  
+**chinga yama kafe o cha.**
+— Please have some coffee or tea.  
 <big>☻</big>
-**ama mi un li yam cha! danke.**
-– But I only drink tea! Thank you.  
+**ama me uniko yama cha! shukre.**
+— But I only drink tea! Thank you.  
 ...  
 <big>☻</big>
-**cin pa, mi mus go a nun.**
-– Grandfather, I have to go now.  
+**senpa, me debu chuta zayo.**
+— Grandfather, I have to go now.  
 <big>☺</big>
-**okei. ples sal tu su mama!**
-– OK. Please tell greetings to your mother.  
+**oke. chinga sala tu di mama!**
+— OK. Please tell greetings to your mother.  
 <big>☻</big>
-**mi sal da. sal reste!**
-– I will. Bye!  
+**me sala ho. sal reste!**
+— I will. Bye!  
 <big>☺</big>
-**sal cut!**
-– Bye!
+**sal chute!**
+— Bye!
 
 
 ### Grammar
 
 Pandunia's singular personal pronouns are
-**mi**
+**me**
 'I',
 **tu**
 'you', and
-**da**
+**ho**
 'he, she, it'.
 Pandunia is a gender-neutral language.
 It doesn't distinguish between sexes in the third person pronoun or any of the pronouns.
 All the personal pronouns are present in the following example sentence.
 
-**mi ples tu sal da.**
-– I ask you to say hello to him/her.
+**me chinga tu sala ho.**
+— I ask you to say hello to him/her.
 
 This sentence has a _pivot structure_.
 The first verb,
-**ples**
+**chinga**
 ('to ask, to beg'), addresses
 **tu**
 as its object. At the same time
 **tu**
 serves also as the subject of the second verb,
-**sal**
-('to greet'), whose object is
-**da**.
+**sala**
+('to greet'), whose object in turn is
+**ho**.
 So
 **tu**
 has a double role:
@@ -349,9 +343,9 @@ has a double role:
 (2) subject of the second verb.
 Hence, it is the _pivot_ or hinge between the two verbs.
 
-> Pivot Stucture: Subject + Verb¹ + Object/Subject + Verb² + Object
+> Pivot construction: Subject + Verb¹ + Object/Subject + Verb² + Object
 
-The pivot structure is a common structure in Pandunia.
+The pivot construction is a common structure in Pandunia.
 
 Remember that it is allowed to leave out pronouns that are known in the context.
 In other words the speaker can safely assume that the
@@ -359,13 +353,13 @@ listeners know who he or she is talking about.
 So it is unnecessary to keep on repeating them.
 In this manner phrases can be made shorter.
 
-**mi ples tu sal da.**
-– I ask you to say hello to him/her.  
-**ples sal da.**
-– Please say hello to him/her.
+**me chinga tu sala ho.**
+— I ask you to say hello to him/her.  
+**chinga sala ho.**
+— Please say hello to him/her.
 
 See how the translation of
-**ples**
+**chinga**
 changed between the two sentences?
 The meaning of the word, the concept, did not change, but its use did.
 English reflects this change by using different words, to ask and please.
@@ -374,30 +368,30 @@ It is a principle in Pandunia that there is always exactly one word for one conc
 Different words are not created just because the grammatical role of a concept changes.
 
 The phrase
-**ples sal da**
+**chinga sala ho**
 has a useful pattern that can be used for making polite requests.
 
-**ples side.**
-– Please be seated.  
-**ples don kafe.**
-– Please give me some coffee.  
-**ples don cha.**
-– Please give me some tea.  
-**ples yam cha.**
-– Please have some tea.  
-**ples safi kamre.**
-– Please clean the room.
+**chinga sida.**
+— Please be seated.  
+**chinga dona kafe.**
+— Please give me some coffee.  
+**chinga dona ch.**
+— Please give me some tea.  
+**chinga yama cha.**
+— Please have some tea.  
+**chinga safa kamre.**
+— Please clean the room.
 
 Commands are expressed more directly than requests.
 A command is basically like the request but without the
-**ples**.
+**chinga**.
 
-**don cha!**
-– Give (me) some tea!  
-**safi kamre!**
-– Clean the room!  
-**safi da!**
-– Clean it!
+**dona cha!**
+— Give (me) some tea!  
+**safa kamre!**
+— Clean the room!  
+**safa ho!**
+— Clean it!
 
 
 ### Exercises
@@ -415,45 +409,43 @@ Try translating these sentences from English to Pandunia.
 
 **cha**
 tea  
-**cin pa**
+**senpa**
 grandfather  
-**danke**
-to thank; thank you  
-**don**
+**dona**
 to give  
 **e**
 and  
-**go**
-to go  
+**chuta**
+to leave  
 **kafe**
 coffee  
 **kamre**
 room  
-**mus**
+**debu**
 must, have to  
 **o**
 or  
-**ples**
-to ask; please  
-**safi**
+**chinga**
+to request, to ask; please  
+**safa**
 to clean  
-**side**
+**sida**
 to sit  
-**danke**
+**shukre**
 thanks  
-**un li**
+**uniko**
 only  
-**yam**
+**yama**
 to eat or drink
 
 
 ### Answers to the Exercises
 
-1. da yam cha.
-2. shef ples da side.
-3. ples yam kafe o cha.
-4. mama ples mi safi kamre.
-5. shef side e yam kafe.
+1. ho yama cha.
+2. shef chinga ho sida.
+3. chinga yama kafe o cai.
+4. mama chinga me safa kamre.
+5. shef sida e yama kafe.
 
 
 --------------------------------------------------------------------------------
@@ -467,76 +459,76 @@ to eat or drink
 <small>Image designed by [pikisuperstar](https://www.freepik.com/pikisuperstar)</small>
 
 <big>☺</big>
-**sal! sual tu yam kafe o cha?**
-– Hello! Would you like to have coffee or tea?  
+**sal! qua tu yama kafe o cha?**
+— Hello! Would you like to have coffee or tea?  
 <big>☻</big>
 **cha.**
-– Tea.  
+— Tea.  
 <big>☺</big>
 **tu ne?**
-– And you?  
+— And you?  
 <big>☹</big>
-**mi no baxe pandunia...**
-– I don't speak Pandunia...  
+**me no basha pandunia...**
+— I don't speak Pandunia...  
 <big>☺</big>
-**perdon! sual da yam cha?**
-– Pardon! Will he have tea?  
+**perdon! qua ho yama cha?**
+— Pardon! Will he have tea?  
 <big>☻</big>
-**no. da no yam cha. da yam kafe.**
-– No, he won't. He would like to have coffee.  
+**no. ho no yama cha. ho yama kafe.**
+— No, he won't. He would like to have coffee.  
 <big>☺</big>
-**sual tu yam supa?**
-– Would you like to have soup?  
+**qua tu yama supe?**
+— Would you like to have soup?  
 <big>☻</big>
 **ya.**
-– Yes.  
+— Yes.  
 <big>☺</big>
-**sual da yam supa?**
-– Would he like to have soup?  
+**qua ho yama supa?**
+— Would he like to have soup?  
 <big>☻</big>
-**no yam.**
-– No.  
+**no yama.**
+— No.  
 <big>☺</big>
-**danke. mi don un cha e un kafe e un supa pos des minute.**
-– Thank you. I will bring one tea, one coffee and one soup in ten minutes.
+**shukre. me dona un cha e un kafe e un supe a pos da des minute.**
+— Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
 ### Asking questions
 
 Questions that can be answered by saying _yes_ or _no_ have the same pivot structure as requests with
-**ples**,
+**chinga**,
 which you learned in the previous lesson.
 Question sentences are introduced with
-**sual**
+**qua**
 'to ask'.
 
-**mi sual tu yam cha.**
-– I ask (do) you drink tea.  
-**sual tu yam cha?**
-– Do you drink tea?  
-**sual yam cha?**
-– Drink tea?
+**me qua tu yama cha.**
+— I ask (do) you drink tea.  
+**qua tu yama cha?**
+— Do you drink tea?  
+**qua yama cha?**
+— Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions
 are often about other people. Therefore the second pronoun is usually
 needed. It can be left out only when it is clear who is the topic of
 discussion.
 
-**sual da yam cha?**
-– Does he or she drink tea?  
-**sual tu yam supa?**
-– Do you eat soup?  
-**sual mimen yam sui?**
-– Do we drink water?
+**qua ho yama cha?**
+— Does he or she drink tea?  
+**qua tu yama supe?**
+— Do you eat soup?  
+**qua memen yama sui?**
+— Do we drink water?
 
 Of course common and proper nouns can also be used.
 
-**sual shef yam kafe?**
-– Does the chief drink coffee?  
-**sual papa safi kamre?**
-– Does the father clean the room?  
-**sual Adam baxe pandunia?**
-– Does Adam speak Pandunia?
+**qua shef yama kafe?**
+— Does the chief drink coffee?  
+**qua papa safa kamre?**
+— Does the father clean the room?  
+**qua Adam basha pandunia?**
+— Does Adam speak Pandunia?
 
 
 ### Giving answers
@@ -547,32 +539,34 @@ Yes/no questions can be answered with
 **no**
 'no'.
 
-– **sual tu yam supa?**
-= Do you eat soup?  
-– **ya.**
-= Yes.  
-– **sual da yam supa?**
-= Does she eat soup?  
-– **no.**
-= No.
+**qua tu yama supe?**
+— Do you eat soup?  
+**ya.**
+— Yes.
+
+**qua ho yama supe?**
+— Does she eat soup?  
+**no.**
+— No.
 
 Also more complete answers can be given.
 
-– **sual tu yam kafe?**
-– Do you drink coffee?  
-– **ya. mi yam kafe.**
-– Yes, I drink coffee.  
-– **sual da yam kafe?**
-– Does he drink coffee?  
-– **no. da no yam kafe.**
-– No, he doesn't drink coffee.
+**qua tu yama kafe?**
+— Do you drink coffee?  
+**ya. me yama kafe.**
+— Yes, I drink coffee.
 
-It is also possible to answer yes by repeating the main verb of the question.
+**qua ho yama kafe?**
+— Does he drink coffee?  
+**no. ho no yama kafe.**
+— No, he doesn't drink coffee.
 
-– **sual tu yam sui?**
-– Do you drink water?  
-– **yam.**
-– (Yes, I) drink.
+It is also possible to answer yes by repeating the verb of the question.
+
+– **qua tu yama sui?**
+— Do you drink water?  
+– **yama.**
+— (Yes, I) drink.
 
 
 ### Exercises
@@ -590,7 +584,7 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**baxe**
+**basha**
 speak a language  
 **minute**
 minute  
@@ -600,11 +594,11 @@ sentence-ending tag for asking the other's point of view
 pardon, sorry  
 **pos**
 after  
-**sual**
+**qua**
 to ask a question  
 **sui**
 water  
-**supa**
+**supe**
 soup  
 **des**
 ten  
@@ -616,12 +610,12 @@ yes
 
 ### Answers to the Exercises
 
-1. sual tu baxe pandunia?
-2. ya. mi baxe pandunia.
-3. sual mama yam kafe?
-4. no. da no yam kafe.
-5. sual da yam supa?
-6. (da) no yam.
+1. qua tu basha pandunia?
+2. ya. me basha pandunia.
+3. qua mama yama kafe?
+4. no. ho no yama kafe.
+5. qua ho yama supe?
+6. (ho) no yama.
 
 
 --------------------------------------------------------------------------------
@@ -638,46 +632,46 @@ is used for denying something. Adding
 **no**
 in front of the verb turns an affirmative sentence to negative.
 
-**mi sal tu.**
-– I greet you.  
-**mi no sal tu.**
-– I do not greet you.
+**me sala tu.**
+— I greet you.  
+**me no sala tu.**
+— I do not greet you.
 
 Conceptually negation means the absence or non-existence of the negated word.
 In the phrase
-**mi no sal tu**
+**me no sala tu**
 the negative word
 **no**
-denies the existence of greeting.
+denies the existence of the greeting.
 
 In Pandunia the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
 of the negative word.
 
-**mi cing tu safi kamre.**
-– I ask you to clean the room.  
-**mi no cing tu safi kamre.**
-– I do NOT ask you to clean the room.  
-**mi cing tu no safi kamre.**
-– I ask you NOT to clean the room.
+**me chinga tu safa kamre.**
+— I ask you to clean the room.  
+**me no chinga tu safa kamre.**
+— I do NOT ask you to clean the room.  
+**me chinga tu no safa kamre.**
+— I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
 and even numeral.
 
-**da no have mau.**
-– She doesn't have a cat.  
-**da have no mau, ama gau.**
-– She has no cats but dogs.  
-**no da, ama mi have mau.**
-– Not she but I have cats. (It's not her, but me who has cats.)  
-**mi have no un, ama du mau.**
-– I have not one but two cats.
+**ho no tena mau.**
+— She doesn't have a cat.  
+**ho tena no mau, a gau.**
+— She has no cats but dogs.  
+**no ho, a me tena mau.**
+— Not she but I have cats. (It's not her, but me who has cats.)  
+**me tena no un, a du mau.**
+— I have not one but two cats.
 
 
 ### Exercises
 
-Translate these sentences from English to Pandunia. Sometimes there
-is more than one correct answer.
+Translate these sentences from English to Pandunia.
+Sometimes there is more than one correct answer.
 
 1. He didn't clean the room.
 2. One cup is not empty.
@@ -695,73 +689,72 @@ but
 two  
 **hali**
 empty  
-**have**
+**tena**
 to have  
-**kupa**
+**kupe**
 cup, glass, mug  
 **mau**
 cat  
 **gau**
 dog  
-**siro**
+**nil**
 zero
 
 
 ### Answers to the Exercises
 
-1. da no safi kamre.
-2. un kupa no hali.
-3. du gau no yam supa.
-4. da no have gau e mau. / da have no gau e no mau.
-5. shef yam cha ama no kafe.
-6. mama have no gau ama du mau.
+1. ho no safa kamre.
+2. un kupe no hali.
+3. duli vaf no yama supe.
+4. ho no tena gau e mau. / ho tena no gau e no mau.
+5. shef yama cha a no kafe.
+6. mama tena no gau a du mau.
 
 
 --------------------------------------------------------------------------------
 
 ## More Questions
 
-To ask questions beginning with _what_, _which_, _how_, _who_ and
-_when_, the interrogative pronoun
-**ke**
+To ask questions beginning with _what_, _which_, _how_, _who_ and _when_, the interrogative pronoun
+**que**
 is normally used.
 The question can be made more specific by adding words for person, time, manner or thing if needed.
 
-**da es ke?**
-– What is that? / Who is (s)he?  
-**da es ke jen?**
-– Who is he/she?  
-**da es ke xe?**
-– What (thing) is it?  
-**ke jen lai?**
-– Who is coming? (**jen** – person)  
-**tu yam a ke zaman?**
-– When do you eat? (**zaman** – time)  
-**se danse a ke yang?**
-– How to dance? (**yang** – manner, style)
+**ho sa que?**
+— What is that? / Who is (s)he?  
+**ho sa qui jan?**
+— Who is he/she?  
+**ho sa qui she?**
+— What (thing) is it?  
+**qui jan laya**
+— Who is coming? (**jan** — person)  
+**tu yama a qui zaman?**
+— When do you eat? (**zaman** — time)  
+**se dansa a qui mode?**
+— How to dance? (**yang** — manner, style)
 
 In Pandunia, questions beginning with _why_ are asked using
-**ke sabab**.
+**qui sabab**.
 
-**ke sabab tu suka mau?**
-– Why do you like cats?
+**qui sabab tu suka mau?**
+— Why do you like cats?
 
 Questions asking about the cause or reason of something, are answered by adding
 **de sabab**
 before the cause or reason.
 
-**ke sabab tu suka mau?**
-– Why do you like cats?  
-**de sabab damen es kavai.**
-– Because they are cute.
+**qui sabab tu suku mau?**
+— Why do you like cats?  
+**de sabab homen sa kavai.**
+— Because they are cute.
 
 Of course,
 **sabab**
 can also be used to express the cause or reason for something,
 even when not answering to a question.
 
-**mi suka mau de sabab damen es kavai**
-– I like cats because they are cute.
+**me suku mau de sabab homen sa kavai**
+— I like cats because they are cute.
 
 ### Exercises
 
@@ -777,15 +770,15 @@ even when not answering to a question.
 
 **a**
 at, in, on  
-**danse**
+**dansa**
 to dance  
 **hom**
 person  
-**kom**
+**laya**
 to come  
-**suka**
+**suku**
 to like  
-**yang**
+**mode**
 manner, style  
 **zaman**
 period of time
@@ -794,12 +787,12 @@ period of time
 ### Answers to the Exercises
 
 
-1. ke jen suka supa?
-2. papa suka.
-3. ke zaman da lai?
-4. pos des minute.
-5. ke sabab da no yam?
-6. de sabab da no suka kafe e supa.
+1. qui jan suku supe?
+2. papa suku.
+3. qui zaman ho laya?
+4. a pos da des minute.
+5. qui sabab ho no yama?
+6. de sabab ho no suku kafe e supe.
 
 
 --------------------------------------------------------------------------------
@@ -808,49 +801,49 @@ period of time
 
 ### Expressing time
 
-There are no verb conjugations in Pandunia. All verbs have only one
-form for all times. In a way they are similar to some English verbs,
-such as "to hit", which is the same in all tenses.
+There are no verb conjugations in Pandunia.
+All verbs have only one form for all times.
+In a way they are similar to some English verbs, such as *hit*, which is the same in all tenses.
 
-**mi bate da.**
-– I hit it.
+**me bata ho.**
+— I hit it.
 
 In Pandunia all verbs are like that! For example,
-**mi yam ban**
+**me yama ban**
 can mean both "I eat bread" and "I ate bread",
 but usually only one or the other meaning makes sense in the context of the discussion.
 For example when people talk about that morning's breakfast, the sentence tells about the past time.
 
-**mi yam ban a ye suba yam.**
-– I ate bread for this breakfast.
+**me yama ban a ye suba yam.**
+— I ate bread for this breakfast.
 
 There are also specific time words.
 
-**pas**
-– in the past  
-**zai**
-– currently, at the moment  
-**vil**
-– later, in the future
+**paso**
+— in the past  
+**zayo**
+— currently, at the moment  
+**vilo**
+— later, in the future
 
 They can be used for modifying nouns.
 
-**Sara es mi su pas shef.**
-– Sarah is my former boss.  
-**Yusef es mi su zai shef.**
-– Yusef is my current boss.  
-**Maria es mi su vil shef.**
-– Maria is my future boss.
+**Sara sa me di pasi shef.**
+— Sarah is my former boss.  
+**Yusef sa me di zayi shef.**
+— Yusef is my current boss.  
+**Maria sa me di vili shef.**
+— Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
 Simply put the word before the verb.
 
-**mi pas bate da.**
-– I hit it (in the past).  
-**mi zai bate da.**
-– I am hitting it (currently).  
-**mi vil bate da.**
-– I will hit it (in the future).
+**me paso bata ho.**
+— I hit it (in the past).  
+**me zayo bata ho.**
+— I am hitting it (currently).  
+**me vilo bata ho.**
+— I will hit it (in the future).
 
 
 It is not necessary to repeat the time expressions all the time.
@@ -859,20 +852,20 @@ It is enough to set the stage once in the beginning with a time expression.
 Another time word will not be needed until the tense changes
 or until it becomes useful to stress that you are still talking in the same tense.
 
-**mi pas have un mau.**
-– I had a cat in the past.  
-**da es bon mau.**
-– It was a good cat.  
-**mi zai have un gau.**
-– I now have a dog.
+**me paso tena un mau.**
+— I had a cat in the past.  
+**ho sa boni mau.**
+— It was a good cat.  
+**me zayo tena un gau.**
+— I have a dog now.
 
 Any expression of time is good for expressing the tense. When one
 time expression is present, other markers are not needed.
 
-**mi bi gene a nen 2003.**
-– I was born in 2003.  
-**da safi kamre a pos den.**
-– He will clean the room tomorrow.
+**me genu a nen 2003.**
+— I was born in 2003.  
+**ho safa kamre a pos den.**
+— He will clean the room tomorrow.
 
 
 ### Exercises
@@ -888,19 +881,19 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**pas**
+**pasi**
 past, former  
-**zai**
+**zayi**
 present, current  
-**vil**
+**vili**
 future  
 **pre**
 before  
-**bate**
+**bata**
 to hit, to beat  
-**den**
+**dien**
 day, 24 hours  
-**noce**
+**noche**
 night  
 **ban**
 bread  
@@ -911,10 +904,10 @@ milk
 
 ### Answers to the Exercises
 
-1. mi su shef festa a vil.
-2. mi have du gau a pas.
-3. tu yam supa a zai.
-4. da safi kamre a preden.
-5. mau yam milke a posden.
-6. tu su ma festa a prenoce.
+1. me di shef festa a vile.
+2. me tena du gau a pase.
+3. tu yama supe zayo.
+4. ho safa kamre a predi den.
+5. mau yama kafe a posi den.
+6. tu di mama festa a predi noce.
 

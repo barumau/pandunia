@@ -43,11 +43,11 @@ La sama vorto, sin ia ajn ŝanĝo en sia formo, povas roli kiel substantivo, adj
 
 | Persono  | Ununombra         | Multenombra  |
 |:---------|:-----------------:|:------------:|
-|          | **mi**            | **vi**       |
+|          | **me**            | **memen**    |
 | 1a       | _mi_              | _ni_         |
-|          | **tu**            | **yu**       |
+|          | **tu**            | **tumen**    |
 | 2a       | _vi_              | _vi_         |
-|          | **hi**            | **de**       |
+|          | **ho**            | **homen**    |
 | 3a       | _li, ŝi_          | _they, them_ |
 
 ### Bazaj frazkonstruoj
@@ -55,78 +55,48 @@ La sama vorto, sin ia ajn ŝanĝo en sia formo, povas roli kiel substantivo, adj
 Vortordo ege gravas.
 La normala vortordo estas subjekto–verbo–objekto.
 
-**mi love tu.**
+**me ama tu.**
 – Mi amas vin.
-
-Gramatikaj vortoj helpas distingi subjekton, verbon kaj objekton.
-Subjekto kaj objekto estas substantivaj frazoj kaj ili ofte komenciĝas per iu gramatika vorto,
-kiel montranta pronomo aŭ numeralo.
-Verbo estas verba frazo kaj ĝi ofte komenciĝas per iu gramatika vorto,
-kiel jesa aŭ nea vorteto, helpanta verbo aŭ markilo de tempo, aspekto aŭ modo.
-
-Ekzemplo 1. Strukture neklara frazo.
-
-    mau  yam   fish.
-    kato manĝi fiŝo
-    'Kato manĝas fiŝon.' (verŝajna interpreto)
-    
-Ekzemplo 2. Strukture klara frazo dank'al jesa vorto.
-
-    mau  ye  yam   fish.
-    kato jes manĝi fiŝo
-    'Kato ja manĝas fiŝon.'
-
-Ekzemplo 3. Strukture klara frazo dank'al nea vorto.
-
-    mau  no  yam   fish.
-    kato ne  manĝi fiŝo
-    'Kato ne manĝas fiŝon.'
-
-Ekzemplo 4. Komplika sed strukture klara frazo.
-
-    mi's      frende  hav      yam   un  pai.
-    mi POSEDO amiko   ASPEKTO  manĝi unu torto
-    'Mia amikos estas manĝinta torton.'
 
 
 ### Neado
 
 Aldoni **no** antaŭ la neita vorto.
 
-**mi no sona.**
+**me no sona.**
 – Mi ne dormas.  
-**tu yam no von.**
+**tu yama no jan.**
 – Vi manĝas neniun.
 
 ### Esti
 
 La verbo
-**es**
+**sa**
 signifas 'esti'.
 Oni povas forĵeti ĝin el tre simplaj frazoj.
 
-**mi es hom.**
+**me sa hom.**
 – Mi homo.  
-**mi – hom.**
+**me – hom.**
 – Mi estas homo.  
 
 Oni ne povas forĵeti ĝin, kiam ĝi apartenas en verboserio.
 
-**mi van es mau.**
+**me vola sa mau.**
 – Mi volas esti kato.  
-**mi van mau!**
+**me vola mau!**
 – Mi volas katon!
 
 ### Multeuzeblaj vortoj
 
 La vortoj de pandunia ofte havas pli vastan sencon ol la korespondaj esperantaj vortoj.
 
-**hi love mau.**
+**ho ama mau.**
 – Li amas katojn. / Ŝi amis katon. / Ĝi amos la katon.
 
 Sed la kunteksto normale klarigas la precizan signifon:
 
-**pre tri nen, mi have du mau e un vaf. mi have plus un fem ben. hi love mau!**
+**a pre da tri nien, me hava du mau e un gau. me hava maxo un dote. ho ama mau!**
 – Antaū tri jaroj mi havis du katojn kaj unu hundon. Mi ankaū havis filinon. _Ŝi amis la katojn!_
 
 ### Tempo
@@ -141,94 +111,98 @@ Tensoj kaj aspektoj estas esprimita per adverboj kaj helpantaj verboj, kiel
 **vil**
 (estonte).
 
-**mi bi love tu.**
+**me zayo ama tu.**
 – Mi estas amanta vin.  
-**mi hav love tu.**
+**me paso ama tu.**
 – Mi estas aminta vin.  
-**mi did love tu.**
+**me fino ama tu.**
 – Mi amis vin.  
-**mi vil love tu.**
+**me vilo ama tu.**
 – Mi amos vin.
 
 ### Pasivo
 
-La pasivo estas farita uzante la helpantan verbon
-**bei**.
+La pasivo estas farita uzante verbformon, kiu finiĝas per
+**-u**.
 
-**tu bei love.**
+**tu amu.**
 – Vi estas amita.  
-**mi bei love of tu.**
-– Mi estas amita de vi.
+**tu amu me.**
+– Vi estas amita de mi.
 
 ### Modifaj vortoj
 
 Adjektivoj estas antaŭ la vorto, kiun ili modifas.
 
-**un nov love**
+**novi ame**
 – nova amo  
-**da gud pai**
+**boni pai**
 – bona torto
 
 Aldonu modifvorton antaŭ verboj.
-La adverboj povas esti markita de vorteto
-**li**.
+Adverboj estas markita de la finaĵo
+**-o**.
 
-**mi gud (li) vize tu.**
+**me bono viza tu.**
 – Mi bone vidas vin.  
-**tu vize li love hi.**
+**tu vizablo ama ho.**
 – Vi vidable amas lin aŭ ŝin.
 
 Por kompari modifvortojn, uzu la vortetoj
-**mor**
+**max**
 'pli',
-**mor... dan hol**
-'la plej... (el ĉiu)',
-**les**
+**maxim**
+'la plej',
+**min**
 'malpli',
-**les... dan hol**
-'la malplej... (el ĉiu)', kaj
-**sim**
+**minim**
+'la malplej', kaj
+**par**
 'egale'.
 La celo de komparo estas markita per
-**dan**
+**ka**
 'kiel'.
 
-**tu es mor yun dan mi.**
+**tu sa max juni ka me.**
 – Vi estas pli juna ol mi.  
-**tu es mor yun dan hol.**
-– Vi estas la plej juna de ĉiuj.
+**tu sa maxim juni.**
+– Vi estas la plej juna.
 
 ### Demandoj
 
 Por demandi _jes–aŭ–ne_ demandon anstataŭigi la verbon per "(verbo) **no** (verbo)" konstruo
-aŭ aldoni **he** 'ĉu' je la fino de la frazo.
+aŭ aldoni
+**he**
+'ĉu' je la fino de la frazo.
 
-**tu vize no vize mi?**
+**tu viza no viza me?**
 – Ĉu vi vidas min?  
-**tu vize mi, he?**
+**tu viza me, he?**
 – Vi vidas min, ĉu?
 
 Por demandi _ki_-demandon skribu la normala frazo kaj anstataŭigu la demanditan vorton per
-**vat**
-'kio',
-**hu**
+**que**
+'kio, kiu',
+**qui**
+'kiu (el pluraj)',
+**qui jan**
 'kiu'.
 
-**tu love hu?**
+**tu ama que?**
 – Kiun vi amas?  
-**tu love vat man?**
+**tu ama qui man?**
 – Kiun viron vi amas?  
-**vat man ye love tu?**
+**qui man ama tu?**
 – Kiu viro amas vin?  
-**tu love hi hau muche?**
+**tu ama ho quo multo?**
 – Kiom multe vi amas lin?
 
 ### Ordonojn
 
 Por diri ordonon forĵetu la subjekto kaj komencigi la frazon per la verbo.
 
-**yam da pai!**
-– Manĝu tiun torton!  
-**vize da mau!**
+**yama yi pai!**
+– Manĝu ĉi tiun torton!  
+**viza vi mau!**
 – Vidu tiun katon!
 

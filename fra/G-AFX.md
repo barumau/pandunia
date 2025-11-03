@@ -1,22 +1,21 @@
 
-# 11. Construction des mots
-
+# Construction des mots
 
 ## Mots composés
 
 Deux racines ou davantage peuvent être assemblées de façon à former un _mot composé_.
 Le dernier mot est celui portant le sens le plus important du groupe et les mots qui se placent avant lui ne font que modifier son sens.
 
-Les mots composés se construisent à partir de simples mots-racines, jointes entre elles par la voyelle **-o**.
+Les mots composés se construisent à partir de simples mots-racines, jointes entre elles par la voyelle *-o-*.
 
-Ainsi, voilà comment on construit le mot **ain sui** ('larme') :
+Ainsi, voilà comment on construit le mot *ain sui* ('larme') :
 
           ain       (œil)
        +  sui       (eau)
     ____________
     = ain sui       (larme)
 
-Et le mot **termometrer** (_thermomètre_) :
+Et le mot *termometrer* (_thermomètre_) :
 
          terme      (température)  
        + metre      (mesure)
@@ -24,7 +23,7 @@ Et le mot **termometrer** (_thermomètre_) :
     ____________
     = termometrer    (thermomètre)
 
-La voyelle **-o-** n'est pas utilisée quand le second mot commence par une voyelle.
+La voyelle *-o-* n'est pas utilisée quand le second mot commence par une voyelle.
 
           dee       (dieu)  
        + iste       (adepte, partisan, -iste)
@@ -45,13 +44,13 @@ La terminaison vocalique du premier mot est toujours omise dans un mot composé.
 
 Crée des verbes qui renversent le sens de la racine du verbe.
 
-**node**
+*node*
 'nouer'
-→ **annode**
+→ *annode*
 'dénouer'  
-**tape**
+*tape*
 'boucher'
-→ **antape**
+→ *antape*
 'déboucher, enlever le bouchon'
 
 
@@ -62,13 +61,13 @@ Crée des verbes qui renversent le sens de la racine du verbe.
 Indique la possibilité.
 Il se place après le mot-racine.
 
-**vize**
+*vize*
 'voir'
-→ **vizebil**
+→ *vizebil*
 'qui peut être vu, visible'  
-**uza**
+*uza*
 'usee'
-→ **uzabil**
+→ *uzabil*
 'qui peut être usé, usable'
 
 #### -er ~ -ter
@@ -76,40 +75,40 @@ Il se place après le mot-racine.
 Crée des noms agents.
 Il marque une personne ou un outil qui produit une action.
 
-**loga**
+*loga*
 'parler'
-→ **logater**
+→ *logater*
 'celui / celle qui parle, orat.eur.rice, locut.eur.rice'  
-**bake**
+*bake*
 '(faire) cuire au four'
-→ **baker**
+→ *baker*
 'celui / celle qui fait cuire, boulanger.e'  
-**lide**
+*lide*
 'mener, diriger'
-→ **lider**
+→ *lider*
 'celui qui mène ou dirige, meneur, leader'  
-**filsofe**
+*filsofe*
 'penser profondément, réfléchir'
-→ **filsofer**
+→ *filsofer*
 'philosophe'  
-**kompute**
+*kompute*
 'calculer (des données)'
-→ **komputer**
+→ *komputer*
 'ordinateur'
 
 Le mot dérivé peut aussi avoir un sens plus lâche par rapport à la racine.
 
-**sapate**
+*sapate*
 'chaussure'
-→ **sapater**
+→ *sapater*
 'cordonnier.e, fabricant.e de chaussures'  
-**muskete**
+*muskete*
 'mousquet'
-→ **musketer**
+→ *musketer*
 'mousquetaire'  
-**kase**
+*kase*
 'caisse (magasin)'
-→ **kaser**
+→ *kaser*
 'caissier.e'
 
 
@@ -118,116 +117,115 @@ Le mot dérivé peut aussi avoir un sens plus lâche par rapport à la racine.
 Crée des noms collectifs.
 Il marque un groupe d'éléments nommés par la racine comme formant une unité.
 
-**homan**
+*homan*
 'être humain'
-→ **homania**
+→ *homania*
 'humanité, genre humain, tous les êtres humains en tant que groupe'  
-**Kriste**
+*Kriste*
 'Christe'
-→ **kristia**
+→ *kristia*
 'chrétienté, tous les chrétiens en tant que groupe'  
-**filsofe**
+*filsofe*
 'point de vue, vision, sagesse de vie'
-→ **filsofia**
+→ *filsofia*
 'philosophie, la discipline de la sagesse'
 
 Ce suffixe se trouve souvent dans les noms de lieux, en particulier les noms de pays.
 Cependant son usage n'est pas systématique et n'est pas requis.
-Il y a également beaucoup de noms de pays qui ne sont pas terminés par **-ia**.
+Il y a également beaucoup de noms de pays qui ne sont pas terminés par *-ia*.
 
-**arabe**
+*arabe*
 'arabe'
-→ **Arabia**
+→ *Arabia*
 'Arabie'  
-**rus**
+*rus*
 'russe'
-→ **Rusia**
+→ *Rusia*
 'Russie'  
-**turke**
+*turke*
 'turc'
-→ **Turkia**
+→ *Turkia*
 'Turquie'  
-**Asia**
+*Asia*
 'Asie'  
-**Indonesia**
+*Indonesia*
 'Indonésie'  
-**Italia**
+*Italia*
 'Italie'
 
-Placé après **-er**, ce suffixe marque un lieu de travail.
+Placé après *-er*, ce suffixe marque un lieu de travail.
 
-**bekeria**
+*bekeria*
 'boulangerie'  
-**fateria**
+*fateria*
 'usine, manufacture'  
-**sapateria**
+*sapateria*
 'cordonnerie'
 
 #### -ife
 
 Suffixe causatif.
 
-**sabe**
+*sabe*
 'savoir faire'  
-**sabife**
+*sabife*
 'faire savoir'  
-**note**
+*note*
 'noter'
-→ **notife**
+→ *notife*
 'notifier, avertir'
 
 #### -iste
 
 Ce suffixe marque une personne qui tend à se comporter ou à penser d'une certaine façon, ou bien à suivre une certaine idéologie ou religion.
 
-**alkol**
+*alkol*
 'alcool'
-→ **alkoliste**
+→ *alkoliste*
 'alcoolique'  
-**dee**
+*dee*
 'dieu'
-→ **deiste**
+→ *deiste*
 'déiste' (celui / celle qui croit en l'existence d'un ou de plusieurs dieux)
 
 #### -isme
 
-**alkol**
+*alkol*
 'alcool'
-→ **alkolisme**
+→ *alkolisme*
 'alcoolisme'  
-**dee**
+*dee*
 'dieu'
-→ **deisme**
+→ *deisme*
 'déisme' (système de croyance en un ou plusieurs dieux)
-**ative**
+*ative*
 'actif'
-→ **ativisme**
+→ *ativisme*
 'activisme'
 
 #### -ta
 
-Les noms abstraits sont souvent terminés par **-ta**.
+Les noms abstraits sont souvent terminés par *-ta*.
 
-**nove**
+*nove*
 'nouveau, neuf'
-→ **neuta**
+→ *neuta*
 'nouveauté'  
-**huri**
+*huri*
 'libre'
-→ **hurita**
+→ *hurita*
 'liberté'
 
 ### -kan
 
 Ce suffixe marque un lieu de travail ou commerce.
 
-**ban**
+*ban*
 'pain'
-→ **bankan**
+→ *bankan*
 'boulangerie'  
-**kafe**
+*kafe*
 'café'
-→ **kafekan**
+→ *kafekan*
 'cafétéria'
-
 

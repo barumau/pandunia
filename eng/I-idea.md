@@ -1,3 +1,4 @@
+
 # Pandunia - the evenly global helping language
 
 ## Introduction
@@ -211,10 +212,10 @@ The place of the stress is decided by two simple rules.
 In the examples that follow, primary accent is indicated by an acute accent (*á*) and secondary accent by a grave accent (*à*) over the first vowel of a stressed syllable.
 
 1. Root words are stressed on the syllable that is before the last consonant of the word.  
-   **hálo! mí ván lóga da gúd dúnia básh.**  
+   **hálo! mí vóla lóga bóni dúnia báshe.**  
    (_Hello! I want to speak the good world language._)
 2. Derived and compound words are stressed according to their components so that the primary stress is in the main word.  
-   **pandúnia es dèmokrátik básh.**  
+   **pandúnia sa dèmokráti báshe.**  
    (_Pandunia is a democratic language._)
 
 Regular stress is easier to learn and more comfortable to use
@@ -377,7 +378,7 @@ The personal pronouns are among the most frequently occuring words.
 
 The first-person pronoun often begins with *m-* even in unrelated languages,
 for example English _me_, French _moi_, Spanish _me_, Hindi _main_, Finnish _minä_, Igbo _mụ_, Kongo _mu_, Swahili _mimi_, and Zulu _mina_.
-In Pandunia it is **mi** (_I_, _me_).
+In Pandunia it is **me** (_I_, _me_).
 
 The second-person pronoun
 **tu**
@@ -385,35 +386,37 @@ comes from the Indo-European family of languages,
 including French _tu_, Spanish _tú_, Russian _ty_ and Hindi _tū_.
 In Pandunia it is a neutral pronoun that can be used both in informal and formal situations.
 
-The third-person pronoun in Pandunia is **da**.
+The third-person pronoun in Pandunia is **ho**.
 It has the remarkable benefit that it can refer to people of any gender as well as lifeless objects.
 So it covers the English third-person pronouns _he_, _she_ and _it_, all at once.
 
 | English    | Pandunia   | Chinese    |
 |------------|------------|------------|
-| I          | mi         | wǒ         |
+| I          | me         | wǒ         |
 | you        | tu         | nǐ         |
-| he/she/it  | da         | tā         |
-| we         | mimen      | wǒmen      |
+| he/she/it  | ho         | tā         |
+| we         | memen      | wǒmen      |
 | you all    | tumen      | nǐmen      |
-| they       | damen      | tāmen      |
+| they       | homen      | tāmen      |
 
 The possessive pronouns follow the super simple pattern of Standard Chinese.
-Simply add **se** to form the possessive, as below.
+Simply add
+**di**
+to form the possessive, as below.
 
 | English    | Pandunia   | Chinese    |
 |------------|------------|------------|
-| my         | mi su      | wǒ de      |
-| your       | tu su      | nǐ de      |
-| his/her/its| da su      | tā de      |
-| our        | mimen su   | wǒmen de   |
-| your       | tumen su   | nǐmen de   |
-| their      | damen su   | tāmen de   |
+| my         | me di      | wǒ de      |
+| your       | tu di      | nǐ de      |
+| his/her/its| ho di      | tā de      |
+| our        | memen di   | wǒmen de   |
+| your       | tumen di   | nǐmen de   |
+| their      | homen di   | tāmen de   |
 
 The personal pronouns in Pandunia attain three important goals.
 
 1. The basic pronouns
-   (**mi**, **tu**, **da**)
+   (**me**, **tu**, **ho**)
    look and sound distinct.
 2. The plurals and the possessives are built in a systematic way.
    They are not only a bunch of random words.
@@ -430,7 +433,7 @@ The normal sentence word order is subject–verb–object
 – just like in English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  mi love tu, tu love mi.
+    Pandunia:  me ama tu, tu ama me.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The auxiliary verb
@@ -446,27 +449,27 @@ is used when the object of the action comes first in the sentence.
 but it is also close to some uses of English *to be*.
 
     English:   It can not be eaten.
-    Pandunia:  damen no kan bi yam.
+    Pandunia:  homen no pota bi yam.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I ask him to drink coffee.
-    Pandunia:  mi ples da yam kafe.
+    Pandunia:  me pleza ho yama kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words.
 There's no plural ending like -s in English.
 Also verbs are not conjugated.
 In Pandunia, one word,
-**es**,
+**sa**,
 is used instead of _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  da es aple.
+    Pandunia:  ho sa aple.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  damen es aple.
+    Pandunia:  homen sa aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 

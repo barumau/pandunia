@@ -1,5 +1,5 @@
 
-# 11. Sanojen johtaminen
+# Sanojen johtaminen
 
 ## Nollajohto
 
@@ -1064,3 +1064,4 @@ merkitsee 'tekemisen tulosta, tuotetta tai jalostetta'.
 'mallas'
 → **maltos**
 'mallassokeri, maltoosi'
+
