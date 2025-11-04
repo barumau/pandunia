@@ -43,11 +43,11 @@ En pandunia las palabras no son conjugadas ni modificadas.
 | Persona  | Singular          | Plural       |
 |:---------|:-----------------:|:------------:|
 |          | *me*              | *memen*      |
-| Primera  | _yo_              | _nosotros_   |
+| Primera  | 'yo'              | 'nosotros'   |
 |          | *tu*              | *tumen*      |
-| Segunda  | _tú, vos, usted_  | _ustedes_    |
+| Segunda  | 'tú, vos, usted'  | 'ustedes'    |
 |          | *ho*              | *homen*      |
-| Tercera  | _él, ella_        |_ellos, ellas_|
+| Tercera  | 'él, ella'        |'ellos, ellas'|
 
 ### Estructura de las oraciones básicas
 
@@ -109,18 +109,18 @@ como con los auxiliares de aspecto
 *ha*
 (haber sido completado),
 o los auxiliares de tiempo verbal
-*paso*
+*pasa*
 (en el pasado), y
-*vilo*
+*futa*
 (en el futuro).
 
 *me sta ama tu.*
 – estoy amándote.  
 *me ha ama tu.*
 – te he amado.  
-*me paso ama tu.*
+*me pasa ama tu.*
 – te amé.  
-*me vilo ama tu.*
+*me futa ama tu.*
 – te amaré.
 
 ### Oración pasiva
@@ -140,7 +140,6 @@ de modo que el paciente de la acción está antes del verbo y el agente está de
 Para modificar un sustantivo, colocamos antes del mismo un adjetivo.
 Los adjetivos terminan en
 *-a*.
-
 
 *novi ame*
 – un nuevo amor  

@@ -163,11 +163,14 @@ They are described in more detail later in this document.
     The verb does not change in person, number and tense.
     Auxiliary verbs indicate time.
 
-    -   *nuno*
+    -   *sta*
+        ('be at')
         indicates an ongoing event.
-    -   *paso*
+    -   *pasa*
+        ('pass')
         indicates a past event.
-    -   *vilo*
+    -   *futa*
+        ('be going to')
         indicates a future event.
 
     [Read more!](G-V.md)

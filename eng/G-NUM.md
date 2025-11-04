@@ -77,11 +77,11 @@ They are put before the word or phrase that they qualify.
 **multi sing**
 – many stars
 
-**un dai korse**
+**un dayi korse**
 – one big chair  
-**du dai korse**
+**du dayi korse**
 – two big chairs  
-**tri dai korse**
+**tri dayi korse**
 – three big chairs
 
 
@@ -186,18 +186,18 @@ Fractions are connected to their noun head with
 
 In addition, there is also a longer pattern for forming fractions.
 It uses the pattern
-**X of Y parte**
+**X da Y parte**
 ('X of Y parts').
 
-**un of du parte**
+**un da du parte**
 – one of two parts, a half (½)  
-**un of char parte**
+**un da char parte**
 – one of four parts, a quarter (¼)  
-**tri of char parte**
+**tri da char parte**
 – three of four parts, three quarters (¾)  
-**un of cento parte**
+**un da cento parte**
 – one of hundred parts, a percent (1%)  
-**un of kilo parte**
+**un da kilo parte**
 – one of thousand parts, a permille (1‰)
 
 
@@ -210,19 +210,19 @@ and they include the word
 **den**
 ('day, 24 hours').
 
-1. **lunaden**
+1. **lunadien**
    – Monday
-2. **marisden**
+2. **marisdien**
    – Tuesday
-3. **merkurden**
+3. **merkurdien**
    – Wednesday
-4. **mushinden**
+4. **mushindien**
    – Thursday
-5. **zukraden**
+5. **zukradien**
    – Friday
-6. **shaniden**
+6. **shanidien**
    – Saturday
-7. **solden**
+7. **soldien**
    – Sunday
 
 #### Months
@@ -264,15 +264,15 @@ The day, month and year ordered from the longest period of time to the shortest,
 or vice versa i.e. year first and day last.
 Month is always in the middle.
 
-**nen 2022 mes 9 den 17**
+**nen 2022 mes 9 dien 17**
 ~
-**den 17 mes 9 nen 2002**
+**dien 17 mes 9 nen 2002**
 
 There are also two short formats without the year.
 
-**mes 9 den 17**
+**mes 9 dien 17**
 ~
-**den 17 mes 9**
+**dien 17 mes 9**
 
 
 ## Time

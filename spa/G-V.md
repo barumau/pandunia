@@ -114,12 +114,12 @@ y es pertinente solo como una experiencia.
 *me pasa ada gula bir.*
 – Yo solía bebir cerveza. / Tení la costumbre de bebir cerveza.
 
-*sha*
+*futa*
 (»ir a>>, »futuro>>)
 indica que un evento ocurrirá en el futuro.
 
-*ho sha sa guru.*
+*ho futa sa guru.*
 – Será docente.  
-*me no sha gula bir.*
+*me no futa gula bir.*
 – No voy a bebir una cerveza.
 

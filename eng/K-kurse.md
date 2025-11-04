@@ -823,7 +823,7 @@ There are also specific time words.
 — in the past  
 **zayo**
 — currently, at the moment  
-**vilo**
+**futo**
 — later, in the future
 
 They can be used for modifying nouns.
@@ -832,7 +832,7 @@ They can be used for modifying nouns.
 — Sarah is my former boss.  
 **Yusef sa me di zayi shef.**
 — Yusef is my current boss.  
-**Maria sa me di vili shef.**
+**Maria sa me di futi shef.**
 — Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
@@ -842,7 +842,7 @@ Simply put the word before the verb.
 — I hit it (in the past).  
 **me zayo bata ho.**
 — I am hitting it (currently).  
-**me vilo bata ho.**
+**me futo bata ho.**
 — I will hit it (in the future).
 
 
@@ -885,8 +885,8 @@ Try translating these sentences from English to Pandunia.
 past, former  
 **zayi**
 present, current  
-**vili**
-future  
+**futi**
+future, to-come  
 **pre**
 before  
 **bata**
@@ -904,10 +904,10 @@ milk
 
 ### Answers to the Exercises
 
-1. me di shef festa a vile.
+1. me di shef festa a fute.
 2. me tena du gau a pase.
 3. tu yama supe zayo.
 4. ho safa kamre a predi den.
 5. mau yama kafe a posi den.
-6. tu di mama festa a predi noce.
+6. tu di mama festa a predi noche.
 

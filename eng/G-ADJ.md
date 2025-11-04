@@ -1,7 +1,7 @@
 
 # Adjectives
 
-A modifier is a word that adds some quality or description to another word,
+An adjective is a word that adds some quality or description to another word,
 for example *good*, *bad*, *big*, and *fast*.
 
 ## Modifying nouns
@@ -10,18 +10,18 @@ In Pandunia, adjectives are usually placed before the noun that they modify.
 
 *novi gar*
 – new car(s)  
-*rapidi gar*
+*rapi gar*
 – fast car(s)  
-*dayi meze*
+*dayi mez*
 – big table(s)  
-*gavi meze*
+*gavi mez*
 – high table(s)  
 *boni kurse*
 – good chair(s)
 
 Two or more adjectives can modify the same noun.
 
-*liti novi gar*
+*leti novi gar*
 – a little, new car
 
 ## Predicative use

@@ -305,25 +305,25 @@ They can't take an object.
 Tense is a property that expresses time reference.
 The main tenses are the past, present, and future.
 The marker
-*paso*
+*pasa*
 indicates the past tense,
 *nun*
 indicates the present tense, and
-*vil*
+*futa*
 indicates the future tense.
 More specific time references are expressed with various time expressions, like *yesterday*, *tomorrow* or *one hour ago*.
 
-*man* ***paso*** *yama ban.*
+*man* ***pasa*** *yama ban.*
 – The man *ate* (or *did eat*) bread.  
 *man* ***nuno*** *yama ban.*
 – The man *eats* bread (now).  
-*man* ***vilo*** *yama ban.*
+*man* ***futa*** *yama ban.*
 – The man *will eat* bread.
 
 It is also possible to express the future in the past
 with a combination of two tense markers.
 
-*man* ***paso vila*** *yama ban.*
+*man* ***pasa futa*** *yama ban.*
 – The man *was going to* eat bread.
 
 
@@ -474,7 +474,7 @@ in order to give the command more force.
     <tr>
         <th>Simple</th>
         <td>
-            <strong><em>ho paso yama</em></strong><br/>
+            <strong><em>ho pasa yama</em></strong><br/>
             'he ate ~ did eat'
         </td>
         <td>
@@ -482,7 +482,7 @@ in order to give the command more force.
             'he eats'
         </td>
         <td>
-            <strong><em>ho vil yama</em></strong><br/>
+            <strong><em>ho futa yama</em></strong><br/>
             'he will eat'
         </td>
         <td>
@@ -493,7 +493,7 @@ in order to give the command more force.
     <tr>
         <th>Perfect</th>
         <td>
-            <strong><em>ho paso ha yama</em></strong><br/>
+            <strong><em>ho pasa ha yama</em></strong><br/>
             'he had eaten'
         </td>
         <td>
@@ -501,7 +501,7 @@ in order to give the command more force.
             'he has eaten'
         </td>
         <td>
-            <strong><em>ho vil ha yama</em></strong><br/>
+            <strong><em>ho futa ha yama</em></strong><br/>
             'he will have eaten'
         </td>
         <td>
@@ -512,7 +512,7 @@ in order to give the command more force.
     <tr>
         <th>Progressive</th>
         <td>
-            <strong><em>ho paso sta yama</em></strong><br/>
+            <strong><em>ho pasa sta yama</em></strong><br/>
             'he was eating'
         </td>
         <td>
@@ -520,7 +520,7 @@ in order to give the command more force.
             'he is eating'
         </td>
         <td>
-            <strong><em>ho vil sta yama</em></strong><br/>
+            <strong><em>ho futa sta yama</em></strong><br/>
             'he will be eating'
         </td>
         <td>
@@ -530,7 +530,7 @@ in order to give the command more force.
     <tr>
         <th>Perfect progressive</th>
         <td>
-            <strong><em>ho paso ha sta yama</em></strong><br/>
+            <strong><em>ho pasa ha sta yama</em></strong><br/>
             'he had been eating'
         </td>
         <td>
@@ -538,7 +538,7 @@ in order to give the command more force.
             'he has been eating'
         </td>
         <td>
-            <strong><em>ho vil ha sta yama</em></strong><br/>
+            <strong><em>ho futa ha sta yama</em></strong><br/>
             'he will have been eating'
         </td>
         <td>
@@ -574,7 +574,7 @@ In the above table, *ho* is translated only 'he' instead of the usual 'he or she
     <tr>
         <th>Simple</th>
         <td>
-            <strong><em>ho paso yamu</em></strong><br/>
+            <strong><em>ho pasa yamu</em></strong><br/>
             'it was eaten'
         </td>
         <td>
@@ -582,7 +582,7 @@ In the above table, *ho* is translated only 'he' instead of the usual 'he or she
             'it is eaten'
         </td>
         <td>
-            <strong><em>ho vil yamu</em></strong><br/>
+            <strong><em>ho futa yamu</em></strong><br/>
             'it will be eaten'
         </td>
         <td>
@@ -593,7 +593,7 @@ In the above table, *ho* is translated only 'he' instead of the usual 'he or she
     <tr>
         <th>Perfect</th>
         <td>
-            <strong><em>ho paso ha yamu</em></strong><br/>
+            <strong><em>ho pasa ha yamu</em></strong><br/>
             'it had been eaten'
         </td>
         <td>
@@ -601,7 +601,7 @@ In the above table, *ho* is translated only 'he' instead of the usual 'he or she
             'it has been eaten'
         </td>
         <td>
-            <strong><em>ho vil ha yamu</em></strong><br/>
+            <strong><em>ho futa ha yamu</em></strong><br/>
             'I will have been eaten'
         </td>
         <td>
@@ -612,7 +612,7 @@ In the above table, *ho* is translated only 'he' instead of the usual 'he or she
     <tr>
         <th>Progressive</th>
         <td>
-            <strong><em>ho paso sta yamu</em></strong><br/>
+            <strong><em>ho pasa sta yamu</em></strong><br/>
             'it was being eaten'
         </td>
         <td>
@@ -620,7 +620,7 @@ In the above table, *ho* is translated only 'he' instead of the usual 'he or she
             'it is being eaten'
         </td>
         <td>
-            <strong><em>ho vil sta yamu</em></strong><br/>
+            <strong><em>ho futa sta yamu</em></strong><br/>
             'it will be being eaten'
         </td>
         <td>
@@ -630,7 +630,7 @@ In the above table, *ho* is translated only 'he' instead of the usual 'he or she
     <tr>
         <th>Perfect progressive</th>
         <td>
-            <strong><em>ho paso ha sta yamu</em></strong><br/>
+            <strong><em>ho pasa ha sta yamu</em></strong><br/>
             'it had been being eaten'
         </td>
         <td>
@@ -638,7 +638,7 @@ In the above table, *ho* is translated only 'he' instead of the usual 'he or she
             'it has been being eaten'
         </td>
         <td>
-            <strong><em>ho vil ha sta yamu</em></strong><br/>
+            <strong><em>ho futa ha sta yamu</em></strong><br/>
             'it will have be being eaten'
         </td>
         <td>

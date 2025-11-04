@@ -6,7 +6,7 @@ hide:
 
 # Pandunia
 
-**sal, dunia!**
+*sal, dunia!*
 – Hello, world!
 
 Welcome to learn about Pandunia,
@@ -48,7 +48,7 @@ because it could improve the quality of international communication.
 ## Overview of Pandunia's structure
 
 Pandunia is written in the Latin (and English!) alphabet:  
-A B C D E F G H I J K L M N O P R S T U V X Y Z
+A B C D E F G H I J K L M N O P Q R S T U V X Y Z
 
 All letters are pronounced roughly in the same way as in English.
 
@@ -61,7 +61,7 @@ One sound = one letter or a pair of letters.
 
 The stress is on that syllable that is before the last consonant of the root word.
 Prefixes and suffixes are either unstressed or they may carry a secondary stress.  
-**múlti hóm póta básha pandúnia.**
+*múlti hóm póta básha pandúnia.*
 – Many people can speak Pandunia.
 
 Words stay always the same in Pandunia.
@@ -69,74 +69,74 @@ There aren't any special _inflected_ forms for cases, tenses, moods, singular an
 
 The normal word order is subject–verb–object
 so the doer comes first, then the action word and finally the object of the action.  
-**me ama tu.**
+*me ama tu.*
 – I love you.
 
 ![](http://www.kupsala.net/PanGlobish/grafe/Freepik_love.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 The word order is the same also in questions.  
-**tu ama que?**
+*tu ama que?*
 – Who do you love?  
-**tu ama me, no?**
+*tu ama me, no?*
 – Do you love me? (i.e. Do you love, eh?)
 
 Singular and plural are indicated with number words.
 
-**buk**
+*buk*
 – one or more books  
-**un buk**
+*un buk*
 – (one) book  
-**du buk**
+*du buk*
 – two books  
-**tri buk**
+*tri buk*
 – three books  
-**multi buk**
+*multi buk*
 – many books
 
 Comparison is done with helping words:
-**max**
+*max*
 'more',
-**maxim**
+*maxim*
 'the most',
-**min**
+*min*
 'less',
-**minim**
+*minim*
 'the least',
-**par**
+*par*
 'as, equally', and
-**ka**
+*ka*
 'than, as'.
 
-**me sa max boni ka tu.**
+*me sa max boni ka tu.*
 – I am better (_more good_) than you.  
-**no, tu sa par boni ka me.**
-– No, you are as good as me.  
-**ho loga max rapido ka tu.**
+*no, me sa par boni ka tu.*
+– No, I am as good as you.  
+*ho loga max rapido ka tu.*
 – He or she talks faster (_more fast_) than you.
 
 Time is expressed with adverbs:
-**paso**
+*pasa*
 – past events  
-**vilo**
+*futa*
 – future events  
-**zayo**
+*sta*
 – ongoing events
 
-**homen paso lesa me di buk.**
+*homen pasa lesa me di buk.*
 – They read my book.  
-**me zayo lesa buk.**
+*me sta lesa buk.*
 – I am reading one book.  
-**tu vilo basha Pandunia.**
+*tu futa basha pandunia.*
 – You will speak Pandunia.
 
 Sentence-final particles express why the sentence is said,
 i.e. is the sentence, for example, a statement, a question or a command.  
-**tu ama kafe, he?**
+*tu ama kafe, he?*
 – You love coffee, eh? (question)  
-**tu ama kafe, ya.**
+*tu ama kafe, ya.*
 – You love coffee, indeed. (statement)  
-**tu ame kafe, no?**
+*tu ame kafe, no?*
 – You love coffee, don't you? (need for response)
 
 
@@ -176,12 +176,13 @@ Find Pandunia speakers near you in [Amikumu](https://amikumu.com/) app!
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 You can contact the creator and a main developer of Pandunia, Risto Kupsala, via email
-[risto@pandunia.info](mailto:risto@pandunia.info) and in the aforementioned forums.
+[risto@pandunia.info](mailto:risto@pandunia.info)
+and in the aforementioned forums.
 
 ## pandunia
 
 ![](http://www.pandunia.info/grafe/bandera.png "The flag of Pandunia")
 
-**za holi dunia, pa holi dunia**  
+***ja holi dunia, pa holi dunia***  
 – from the whole world, for the whole world
 

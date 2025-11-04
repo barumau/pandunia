@@ -16,7 +16,7 @@ or at the end of the sentence.
  `I  sleep-V good-ADV`  
 'I sleep well.'
 
-*`te  bash-a  pandunia bon-o.`*  
+*`tu  bash-a  pandunia bon-o.`*  
  `you speak-V Pandunia good-ADV`  
 'You speak Pandunia well.'
 
@@ -57,12 +57,12 @@ The particle
 *ka*
 relates the adverbs of comparison to the object of comparison.
 
-*aple sa max boni ka oranje.*
-= Apples are better than oranges.  
-*oranje sa min boni ka aple.*
-= Oranges are less good than apples.  
-*tu loga paro bono ka me.*
-= You speak as well as me.
+*aple sa max boni ka aranje.*
+– Apples are better than oranges.  
+*aranje sa min boni ka aple.*
+– Oranges are less good than apples.  
+*tu loga par bono ka me.*
+– You speak as well as me.
 
 It is also possible to compare modifiers with the following verbs,
 which are directly attached to the object of comparison.
@@ -74,9 +74,9 @@ which are directly attached to the object of comparison.
 - *para*
   ('to equal')
 
-*aple maxa oranje sa boni.*
+*aple maxa aranje sa boni.*
 – Apples exceed oranges in being good. _meaning:_ Apples are better than oranges.  
-*oranje mina aple sa boni.*
+*aranje mina aple sa boni.*
 – Oranges subceed apples in being good. _meaning:_ Oranges are less good than apples.  
 *tu para me loga bono.*
 – You equal me in speaking well. _meaning:_ You speak as well as me.

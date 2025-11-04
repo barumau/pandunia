@@ -1010,33 +1010,33 @@ as a preposition or alone as the verb.
 – He has been at home.
 
 
-### did <small>in the past</small>
+### pasa <small>in the past</small>
 
-*me did sala tu di doste.*
+*me pasa sala tu di doste.*
 – I greeted your friend.
 
-*man did viza filme.*
+*man pasa viza filme.*
 – The man watched a film.
 
-*ho did sa shef.*
+*ho pasa sa shef.*
 – He/she was the chief.
 
-*ho did sa a haus.*
+*ho pasa sa a haus.*
 – He/she was at home.
 
 
-### vil <small>in the future</small>
+### futa <small>be going to, in the future</small>
 
-*me vil sala tu di doste.*
+*me futa sala tu di doste.*
 – I will greet your friend.
 
-*man vil viza filme.*
+*man futa viza filme.*
 – The man will watch the film.
 
-*ho vil sa shef.*
+*ho futa sa shef.*
 – He/she will be the chief.
 
-*ho vil sa a haus.*
+*ho futa sa a haus.*
 – He/she will be at home.
 
 
@@ -1069,7 +1069,7 @@ as a preposition or alone as the verb.
 *ples cepa kafe pa me.*
 – Please take one coffee for me.
 
-*tu did cepa mone of me.*
+*tu pasa cepa mone of me.*
 – You already got money from me before.
 
 *me cepa bir.*

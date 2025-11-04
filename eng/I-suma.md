@@ -127,19 +127,18 @@ However, the precise meaning is usually clear in the actual context where the se
 
 Tenses and aspects are optionally expressed with the help of adverbs and auxiliary verbs.
 
-
 *me sta ama tu.*
 – I am loving you.
 (*sta* indicates ongoing time i.e. progressive aspect)  
-*me paso ama tu.*
-– I loved you.
-(*paso* indicates the past time)  
-*me fino ama tu.*
+*me ha ama tu.*
 – I have loved you.
-(*fino* indicates completed action i.e. the perfect(ive) aspect)  
-*me vilo ama tu.*
+(*ha* indicates completed action i.e. the perfect aspect)  
+*me pasa ama tu.*
+– I loved you.
+(*pasa* indicates the past time)  
+*me futa ama tu.*
 – I will love you.
-(*vilo* indicates future time)
+(*futa* indicates future time)
 
 ### Passive
 

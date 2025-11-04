@@ -42,7 +42,8 @@ and languages that use them are called *inflected languages*.
 
 Languages that have very few grammatical inflections or free from all grammatical inflections are known as *isolating languages*.
 Pandunia is not an isolating language, but it has very few grammatical inflections indeed.
-There are only two inflections in Pandunia, the verb endings *-a* and *-u*, which indicate the order of the agent and patient in the clause.
+There are only two inflections in Pandunia, the verb endings *-a* and *-u*,
+which indicate the order of the agent and patient in the clause.
 The other endings, *-e*, *-i* and *-o*, are not inflections, they are derivations.
 
 Pandunia is an exceptionally simple language.
@@ -60,16 +61,16 @@ Every word is made of one or more roots and an ending, which is attached to the 
 
 Pandunia uses a simple array of five vowel endings, which indicate clearly the word class of every word.
 
-- Nouns end in *-e*, e.g. *buke* 'book'.
-- Adjectives end in *-i*, e.g. *buki* 'bookish'
-- Adverbs end in *-o*, e.g. *buko* 'bookishly'.
-- Verbs end in either *-a* or *-u* depending on the order of clause constituents.
+-   Nouns end frequently in *-e* or in a consonant, e.g. *letre* 'card', *buk* 'book'.
+-   Adjectives end in *-i*, e.g. *buki* 'bookish'
+-   Adverbs end in *-o*, e.g. *buko* 'bookishly'.
+-   Verbs end in either *-a* or *-u* depending on the order of clause constituents.
 
 The vowel endings make syntax transparent.
 In Pandunia, one can know the grammatical structure of a sentence without knowing the meaning of the words.
 For example, consider the following sentence where root words are hidden.
 
-    ░░░e ░░░░░a ░░░░i ░░░░e.
+    ░░░░e ░░░░░a ░░░░i ░░░░e.
 
 In other languages nothing could be guessed only by the last vowels of words,
 but in Pandunia they reveal the structure of the whole sentence.
@@ -84,22 +85,22 @@ a predicate, which is the verb,
 and an object, which consists of the adjective and the noun in the end.
 The word order is thus subject–verb–object.
 
-        ░░░░e     ░░░░░a     ░░░░i      ░░░░e.
-         │          │          │          │
-    ┌────┴────┐┌────┴────┐┌────┴────┐┌────┴────┐
-    │  noun   ││ A-verb  ││adjective││  noun   │
-    └────┬────┘└────┬────┘└────┬────┘└────┬────┘
-         │          │          └────┬─────┘
-    ┌────┴────┐┌────┴────┐     ┌────┴────┐
-    │ subject ││predicate│     │ object  │
-    └─────────┘└─────────┘     └─────────┘
+         ░░░░░e         ░░░░░a         ░░░░░i         ░░░░░e.
+           │              │              │              │
+    ┌──────┴──────┐┌──────┴──────┐┌──────┴──────┐┌──────┴──────┐
+    │    noun     ││   A-verb    ││  adjective  ││    noun     │
+    └──────┬──────┘└──────┬──────┘└──────┬──────┘└──────┬──────┘
+           │              │              └──────┬───────┘
+    ┌──────┴──────┐┌──────┴──────┐       ┌──────┴──────┐
+    │   subject   ││  predicate  │       │   object    │
+    └─────────────┘└─────────────┘       └─────────────┘
 
 The vowel endings form the grammatical structure of sentences,
 and the meaning or content comes from root words.
 A root word is a word without an ending,
-like *bac-* 'child', *kitab-* 'writing', *long-* 'length' and *letr-* 'letter'.
+like *bach-* 'child', *kitab-* 'writing', *long-* 'length' and *letr-* 'letter'.
 A root with an ending is a complete word,
-like *bace* 'child' (noun) and *kitaba* 'write' (verb).
+like *bache* 'child' (noun) and *kitaba* 'write' (verb).
 The roots and endings together create the complete meaning of a sentence.
 
     ░░░░e   ░░░░░a    ░░░░i ░░░░e.
@@ -150,10 +151,8 @@ For example, adjectives can be placed before the noun or after the noun.
 In Pandunia, one can say *bache suki* or *suki bache* and the meaning is the same: 'a happy child'.
 In most languages one or the other order is preferred or even required.
 For example, in English the noun-last order (e.g. *a happy child*) is normal, and the opposite order (e.g. *a child happy*) would sound abnormal.
-In Spanish it's the opposite: the noun-first order (e.g. *un niño feliz*) is normal and the noun-last order (e.g. *un feliz nīno*) is abnormal.
+In Spanish it's the opposite: the noun-first order (e.g. *un niño feliz*) is normal and the noun-last order (e.g. *un feliz nīño*) is abnormal.
 
-In Pandunia, even adpositions can be placed before nouns as prepositions (as in English) or after nouns as postpositions (as in Japanese and Hindi).
-The level of flexibility in Pandunia is uncomparable!
 
 But why free word order matters?
 Because it makes it easy to approach Pandunia.
@@ -181,155 +180,155 @@ and the vowel endings indicate different manifestations of that idea.
 
 Pandunia uses the following vowel endings to mark parts of speech.
 
-No vowel or **-e** indicates a noun,
+No vowel or *-e* indicates a noun,
 which is the name of the thing or idea that the root is about.
 Nouns answer to the question: What?
 
-**-ia** indicates a collective noun,
+*-ia* indicates a collective noun,
 which means the totality of the things that the root is about.
 It can also indicate an abstract noun.
 For example,
-**humania**
+*homia*
 means "humanity" both as the collective "humankind" and as the abstract "humanhood".
 
-**-i** indicates an adjective,
+*-i* indicates an adjective,
 which describes the main characteristic or quality of the root.
 Adjectives answer to the following questions: What kind? How many?
 
-**-o** indicates an adverb,
+*-o* indicates an adverb,
 which describes a manner or a circumstance (ex. place or time).
 Adverbs answer to the following questions: How? Where? When?
 
-**-a** indicates an active verb,
+*-a* indicates an active verb,
 which is an action that a person can do with the corresponding noun.
 So the purpose or the potential of the noun determines the meaning of the verb.
 
-**-u** indicates a passive verb,
+*-u* indicates a passive verb,
 which is an event that happens or an action that is done to someone.
 The meaning of a passive verb depends on the corresponding active verb.
 
-These endings and the participles (**-an-** and **-it-**) are the only true suffixes i.e. bound morphemes in Pandunia.
+These endings and the participles (*-n-* and *-t-*) are the only true suffixes i.e. bound morphemes in Pandunia.
 All other suffixes can be used also as independent words.
-For example **paciste** (pacifist) is made up of two full words:
-**pace** (peace) and **iste** (proponent).
+For example *paciste* (pacifist) is made up of two full words:
+*pace* (peace) and *iste* (proponent).
 
 The designated vowel endings enable easy derivation of one type of word from another.
 An ending is simply changed to another ending.
 All endings can be used on all roots in the same way.
 
-- The ending **-e** converts the idea into a thing.
-  For example, **nile** means the color blue.
-- The ending **-i** converts the idea into a description.
-  The resulting adjective describes another idea with the modifying idea.
-  For example, **nili dome** means a blue house.
-- The ending **-a** converts the idea into an action.
-  The resulting verb is about using the idea to an object.
-  For example, **nila dome** means "to make the house blue".
-- The ending **-u** creates an action just like **-a**.
-  The only difference is that the word order is reversed so that the object comes first.
-  For example, **dome nilu** means "the house becomes blue".
+-   The ending *-e* converts the idea into a thing.
+    For example, *nile* means the color blue.
+-   The ending *-i* converts the idea into a description.
+    The resulting adjective describes another idea with the modifying idea.
+    For example, *nili dome* means a blue house.
+-   The ending *-a* converts the idea into an action.
+    The resulting verb is about using the idea to an object.
+    For example, *nila dome* means "to make the house blue".
+-   The ending *-u* creates an action just like *-a*.
+    The only difference is that the word order is reversed so that the object comes first.
+    For example, *dome nilu* means "the house becomes blue".
 
 Here are a few examples of different types of ideas.
 
-- concrete action
-    - **kitabe**
-      'writing, text' (noun)
-    - **kitabi**
-      'written, textual' (adjective)
-    - **kitabo**
-      'by writing, textually' (adverb)
-    - **kitaba**
-      'to write' (active verb)
-    - **kitabu**
-      'to be written' (passive verb)
-- abstract action
-    - **fikre**
-      'thought' (noun)
-    - **fikri**
-      'thought' (adjective)
-    - **fikro**
-      'by thought' (adverb)
-    - **fikra**
-      'to think' (active verb)
-    - **fikru**
-      'to be thought' (passive verb)
-- description
-    - **longe**
-      'length' (noun)
-    - **longi**
-      'long, lengthy' (adjective)
-    - **longo**
-      'lengthily' (adverb)
-    - **longa**
-      'to make long, lengthen' (active verb)
-    - **longu**
-      'to get long, be lengthened' (passive verb)
-- emotion
-    - **suke**
-      'delight' (noun)
-    - **suki**
-      'delighted, happy' (adjective)
-    - **suko**
-      'happily' (adverb)
-    - **suka**
-      'to delight, please' (active verb)
-    - **suku**
-      'to be delighted, be pleased' (passive verb)
-- tool
-    - **hamar**
-      'a hammer' (noun)
-    - **hamari**
-      'hammerlike' (adjective)
-    - **hamaro**
-      'by/with/like a hammer'
-    - **hamara**
-      'to hammer, to use hammer on sth' (active verb)
-    - **hamaru**
-      'to be hammered' (passive verb)
+-   concrete action
+    -   *kitabe*
+        'writing, text' (noun)
+    -   *kitabi*
+        'written, textual' (adjective)
+    -   *kitabo*
+        'by writing, textually' (adverb)
+    -   *kitaba*
+        'to write' (active verb)
+    -   *kitabu*
+        'to be written' (passive verb)
+-   abstract action
+    -   *fikre*
+        'thought' (noun)
+    -   *fikri*
+        'thought' (adjective)
+    -   *fikro*
+        'by thought' (adverb)
+    -   *fikra*
+        'to think' (active verb)
+    -   *fikru*
+        'to be thought' (passive verb)
+-   description
+    -   *longe*
+        'length' (noun)
+    -   *longi*
+        'long, lengthy' (adjective)
+    -   *longo*
+        'lengthily' (adverb)
+    -   *longa*
+        'to make long, lengthen' (active verb)
+    -   *longu*
+        'to get long, be lengthened' (passive verb)
+-   emotion
+    -   *suke*
+        'delight' (noun)
+    -   *suki*
+        'delighted, happy' (adjective)
+    -   *suko*
+        'happily' (adverb)
+    -   *suka*
+        'to delight, please' (active verb)
+    -   *suku*
+        'to be delighted, be pleased' (passive verb)
+-   tool
+    -   *hamar*
+        'a hammer' (noun)
+    -   *hamari*
+        'hammerlike' (adjective)
+    -   *hamaro*
+        'by/with/like a hammer'
+    -   *hamara*
+        'to hammer, to use hammer on sth' (active verb)
+    -   *hamaru*
+        'to be hammered' (passive verb)
 
 
 ### Deriving verbs
 
-**-a** and **-u** are the endings for verbs.
+*-a* and *-u* are the endings for verbs.
 
 1. If the stem's idea is an action, then its verb form will mean "to do the action".
-   For example from **vize** ('a look') we get **viza** ('to look').
+   For example from *vize* ('a look') we get *viza* ('to look').
 2. If the idea is a description then its verb form will mean "to turn into that quality".
-   For example from **nevi** ('new') we get **neva** ('to make new' or 'to renew').
+   For example from *nevi* ('new') we get *neva* ('to make new' or 'to renew').
 3. If the idea is a thing, then its verb form will mean "to apply it to".
-   For example from **hamar** ('hammer') we get **hamara** ('to hammer').
+   For example from *hamar* ('hammer') we get *hamara* ('to hammer').
 
 
 ### Deriving nouns
 
-**-e** is the ending for nouns.
+*-e* is the ending for nouns.
 
 If the stem's idea is an action, then its noun form will mean the result or the product of the action.
-For example from **kitaba** ('to write') we get **kitabe** ('writing' or 'text').
+For example from *kitaba* ('to write') we get *kitabe* ('writing' or 'text').
 
 If the idea is a description, then its noun form will mean a concrete instance of that quality.
-For example from **nevi** ('new') we get **neve** ('a novelty' i.e. something new).
+For example from *nevi* ('new') we get *neve* ('a novelty' i.e. something new).
 
 Additional noun suffixes are presented below.
 
 ### Deriving adjectives
 
-**-i** is the ending for adjectives and adjectival verbs.
+*-i* is the ending for adjectives and adjectival verbs.
 
 If the stem's idea is a description, then its adjectival form will mean "that which is in the state of the root".
-For example from **nev-** ('newness'), we get **nevi** ('new' i.e. 'that which is new').
+For example from *nov-* ('newness'), we get *novi* ('new' i.e. 'that which is new').
 
 If the idea is an action, then its adjectival form will mean the state that is produced by the action.
-For example from **loga** ('to speak') we get **logi** ('spoken').
+For example from *loga* ('to speak') we get *logi* ('spoken').
 
 If the idea is a thing, an object or a person, then its adjectival form will mean "that which is like the root".
-For example, from the noun **human** ('human being'), we get the adjective **humani** ('human', having the attributes of a human being).
+For example, from the noun *hom* ('human being'), we get the adjective *homi* ('human', having the attributes of a human being).
 
 If the root is a place word, then its adjectival form will mean 'that which is from that place'.
 
-**Rusia** Russia, **Rusi** Russian  
-**Pakistan** Pakistan, **Pakistani** Pakistani  
-**Amerike** America, **Ameriki** American  
-**Europe** Europe, **Europi** European  
-**Asia** Asia, **Asi** Asian
+*Rusia* 'Russia', *Rusi* 'Russian'  
+*Pakistan* 'Pakistan', *Pakistani* 'Pakistani'  
+*Amerike* 'America', *Ameriki* 'American'  
+*Europe* 'Europe', *Europi* 'European'  
+*Asia* 'Asia', *Asi* 'Asian'
 
