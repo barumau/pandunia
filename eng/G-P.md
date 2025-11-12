@@ -337,7 +337,7 @@ and the second-most common order by number of languages.
     │det│adj│noun│ │TAM│adv│verb│ │det│adj│noun│
     └───┴───┴────┘ └───┴───┴────┘ └───┴───┴────┘
      la  juni man    did     viza   un  seni guru.
-    'The young man  did     see    an  old guru.'
+    'The young man  did     see    an  old teacher.'
 
 Transitive clauses are called transitive because they express an event where some energy transits from the subject to the object.
 Subject–verb–object is a natural word order,
@@ -577,9 +577,9 @@ The the remaining syntactic construction is `verb₁–pivot–verb₂–object`
 **qua tu lai haus.**
 – Do you come come?  
 **mi asha tu yama max fite.**
-– I wish you would eat more vegetables.  
+– I wish you would eat more plants.  
 **asha tu yama max fite.**
-– Wish you would eat more vegetables.
+– Wish you would eat more plants.
 
 In commands and requests also the second participant can be left out
 when it indicates the second person ('you').
