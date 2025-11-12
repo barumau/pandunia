@@ -1110,7 +1110,7 @@ that indicates means that someone causes someone to do something.
 **sava**
 'to know'
 →  **savana**
-'to make (someone) known (something), to inform (someone)'  
+'to make (someone) know (something), to inform (someone)'  
 **yama**
 'to eat'
 →  **yamana**

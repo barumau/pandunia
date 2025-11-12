@@ -79,7 +79,7 @@ that are shared by French, English, German, Spanish and other languages from Wes
 10. The passive is made up of *to be* and a participle.
     For example in English *I am seen* and in Esperanto *mi estas vidita*.
 11. The normal word order is subject–verb–object.
-12. The word order is changed in questions.
+12. The word order in questions deviates from the normal word order.
 
 Both English and Esperanto have all of the above listed features except number 7.
 Ido, Novial and Interlingua have all of them.

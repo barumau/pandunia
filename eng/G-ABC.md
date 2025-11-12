@@ -33,9 +33,12 @@ Pandunia is written in the basic Latin alphabet
 It doesn't have any of the accented letters, which are different from language to language.
 So it can be typed, printed and viewed with computers and other smart devices in most countries without any difficulty.
 
-There are 23 letters in the Pandunia alphabet: 5 vowels and 18 consonants.
+There are 25 letters in the Pandunia alphabet: 5 vowels and 20 consonants.
 
-> A B C D E F G H I J K L M N O P R S T U V X Y Z
+```
+ a b c d e f g h i j k l m n o p q r s t u v x y z
+(A B C D E F G H I J K L M N O P Q R S T U V X Y Z)
+```
 
 The spelling system is very consistent:
 the great majority of words are written exactly as they are pronounced.
@@ -295,7 +298,7 @@ However, foreign people probably will pronounce this name incorrectly.
 Therefore it is advisable to adapt also proper names to the phonetic system of Pandunia.
 
 
-## Large and small Letters
+## Large and small letters
 
 Pandunia has its own rules for using the large letters (i.e. upper-case letters) and the small letters (i.e. lower-case letters).
 

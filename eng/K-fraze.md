@@ -61,10 +61,10 @@ You can just speak Pandunia!
 *sal yam!*
 – Bon appetit!
 
-*sal kom!*
+*sal vena!*
 – Welcome!
 
-*sal chut!*
+*sal chuta!*
 – Goodbye!
 
 *sal safar!*
@@ -338,12 +338,12 @@ Bengali না (na).</small>
 ### Plural personal pronouns
 
 | Singular    | Plural       |
-|:************|:************-|
-| *me*      | *memen*    |
+|:------------|:-------------|
+| *me*        | *memen*      |
 | I, me       | we           |
-| *tu*      | *tumen*    |
+| *tu*        | *tumen*      |
 | you         | you all      |
-| *ho*      | *homen*    |
+| *ho*        | *homen*      |
 | he or she   | they         |
 
 
@@ -559,10 +559,10 @@ English *name*.</small>
 *me no nou.*
 – I don't know.
 
-*qua tumen nou unaltre?*
+*qua tumen nou alale?*
 – Do you know each other?
 
-*memen nou unaltre of long.*
+*memen nou alala ja long.*
 – We know each other for a long time.
 
 
@@ -641,29 +641,29 @@ the word order is not affected by the
 – This red one.
 
 
-### ples <small>ask, beg; please</small>
+### pleza <small>ask, beg; please</small>
 
-*me ples tu yama cha.*
+*me pleza tu yama cha.*
 – I beg you to drink tea.
 
-*me ples tu kom haus.*
+*me pleza tu vena haus.*
 – I beg you to come home.
 
-*me ples tu helpa me.*
+*me pleza tu helpa me.*
 – I beg you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-*ples yama cha.*
+*pleza yama cha.*
 – Please, have some tea!
 
-*ples yama kafe.*
+*pleza yama kafe.*
 – Please, have some coffee!
 
-*ples kom haus.*
+*pleza vena haus.*
 – Please, come home!
 
-*ples helpa me.*
+*pleza helpa me.*
 – Please, help me.
 
 
@@ -755,7 +755,7 @@ Tip: To make direct requests, drop all the pronouns.
 *me pota kam pandunia.*
 – I can speak a little Pandunia.
 
-*me no pota english.*
+*me no pota engli.*
 – I can't speak English.
 
 *perdon. me no pota tu di bash.*
@@ -794,7 +794,7 @@ Tip: To make direct requests, drop all the pronouns.
 *me no pota audi tu.*
 – I can't hear you.
 
-*ples loga mor bala.*
+*pleza loga max bala.*
 – Please speak louder.
 
 *me audi muzike.*
@@ -836,16 +836,16 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### kitaba <small>write</small>
 
-*ples kitaba tu di adres.*
+*pleza kitaba tu di adres.*
 – Please, write your address.
 
-*ples kitaba ho a hir.*
+*pleza kitaba ho a hir.*
 – Please, write it here!
 
 
 ### basha <small>speak a language, communicate</small>
 
-*qua tumen basha pandunia.*
+*qua tu basha pandunia.*
 – Do you speak Pandunia?
 
 *memen basha pandunia.*
@@ -860,7 +860,7 @@ Tip: To make direct requests, drop all the pronouns.
 *putong han, nipon, malayu*
 – Chinese, Japanese, Malay
 
-*arabe, turke, parse, urdu, hindi*
+*arabi, turki, parsi, urdu, hindi*
 – Arabic, Turkish, Farsi, Urdu, Hindi
 
 *suahili, hausa, yoruba, amara*
@@ -893,33 +893,33 @@ Tip: To make direct requests, drop all the pronouns.
 – Let's go by foot!
 
 
-### kom <small>to come</small>
+### vena <small>to come</small>
 
-*kom hir!*
+*vena hir!*
 – Come here!
 
-*ples kom!*
+*pleza vena!*
 – Please come!
 
-*tu kom of qui kan?*
+*tu vena ja qui kan?*
 – Where do you come from?
 
-*me kom of Dubai.*
+*me vena ja Dubai.*
 – I come from Dubai.
 
-*me kom haus a pos den.*
+*me vena haus a pos den.*
 – I will come home tomorrow.
 
 
-### safar <small>to travel</small>
+### safara <small>to travel</small>
 
-*qua tu safar a tren?*
+*qua tu safara a tren?*
 – Do you travel by train?
 
-*memen safar of London pa Paris.*
+*memen safara ja London pa Paris.*
 – We travel from London to Paris.
 
-*safar sa muche long.*
+*safara sa multo longi.*
 – The voyage is very long.
 
 
@@ -947,13 +947,13 @@ Tip! You can use
 *a*
 as a preposition or alone as the verb.
 
-*me verke a...*
+*me verka a...*
 – I work at ...
 
 
 ### loju <small>to live, reside</small>
 
-*tu loju in qui kan?*
+*tu loju a qui kan?*
 – Where do you live in?
 
 *me loju Singapur.*
@@ -965,7 +965,7 @@ as a preposition or alone as the verb.
 
 ### dela <small>to wait</small>
 
-*ples dela!*
+*pleza dela!*
 – Please wait!
 
 *dela me!*
@@ -1045,10 +1045,10 @@ as a preposition or alone as the verb.
 
 ### dona <small>give</small>
 
-*ples dona mone.*
+*pleza dona mone.*
 – Please give some money.
 
-*ples dona ho pa me.*
+*pleza dona ho pa me.*
 – Please give it to me.
 
 *me dona yi pa tu.*
@@ -1066,7 +1066,7 @@ as a preposition or alone as the verb.
 *me cepa kafe.*
 – I will take a coffee.
 
-*ples cepa kafe pa me.*
+*pleza cepa kafe pa me.*
 – Please take one coffee for me.
 
 *tu pasa cepa mone of me.*
@@ -1129,7 +1129,7 @@ means _to buy_.
 *ho koste kam / meni.*
 – It is cheap / expensive.  
 
-*von ples memen kom.*
+*von pleza memen vena.*
 – We are being called.
 
 *me soka tualete.*
@@ -1165,7 +1165,7 @@ Come here / back / to us.
 
 – I feel alright.
 
-*ples sida hir!*
+*pleza sida hir!*
 – Please, sit here!
 
 *me suku sta.*
