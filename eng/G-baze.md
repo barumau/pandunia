@@ -140,10 +140,10 @@ They are described in more detail later in this document.
     They modify verbs, adjectives, other adverbs and complete sentences.
     They come before the word that they modify or very last in the sentence.
 
-    *vero rapidi loge*  
-    'very fast speech' 
-    *tu rapido loga.*  
-    'You talk fast.'
+    *multo rapi loge*
+    – very fast speech  
+    *tu rapo loga.*
+    – You talk fast.
 
     [Read more!](G-ADV.md)
 

@@ -735,30 +735,30 @@ Tip: To make direct requests, drop all the pronouns.
 – I don't understand at all.
 
 
-### pota <small>can</small>
+### saba <small>know how</small>
 
-*me pota shofa gar.*
+*me saba shofa gar.*
 – I can drive a car.
 
-*ho no pota shofa gar.*
+*ho no saba shofa gar.*
 – He/she doesn't know how to drive a car.
 
-*qua tu pota shuli ho?*
+*qua tu saba shuli ho?*
 – Do you know how to fix it?
 
-*qua tu pota pandunia?*
+*qua tu saba pandunia?*
 – Can you speak Pandunia?
 
-*me pota pandunia.*
+*me saba pandunia.*
 – I can speak Pandunia.
 
-*me pota kam pandunia.*
+*me saba kam pandunia.*
 – I can speak a little Pandunia.
 
-*me no pota engli.*
+*me no saba engli.*
 – I can't speak English.
 
-*perdon. me no pota tu di bash.*
+*perdon. me no saba tu di bash.*
 – Sorry, I can't speak your language.
 
 
@@ -851,7 +851,7 @@ Tip: To make direct requests, drop all the pronouns.
 *memen basha pandunia.*
 – We speak Pandunia.
 
-*qua tu pota basha english?*
+*qua tu saba basha english?*
 – Can you speak English?
 
 *franse, espanya, portugal, rus*

@@ -7,18 +7,18 @@ Ellas se describien en más detalle más tarde en este sitio.
 
 1.  **Palabras mundiales**
 
-    Pandunia es una lengua equitativamente mundial.
-    Palabras internacionales se prestan de todas partes del mundo a Pandunia.
+    Pandunia es una lengua geográficamente equitativa,
+    es decir que las palabras de pandunia provienen de todos los lugares del mundo.
     Ellas se ajustan a la ortografía y la pronuciación de Pandunia.
-    Una palabra básica se ingresa y palabras adicionales se construyen con ella, de acuerdo con regla 10.
+    Con una palabra básica que se ingresa podemos construir palabras adicionales, esto es de acuerdo con regla 12.
 
     [¡Lea más!](L-lexe.md)
 
 2.  **Ortografía y pronunciación**
 
-    La ortografía es sencilla y regular.
-    Cada palabra se pronuncia exactamente como se escribe.
-    Cada letra y combinación de letras siempre representa el mismo sonido.
+    La ortografía es sencilla y regular,
+    cada palabra se pronuncia exactamente como se escribe,
+    cada letra y combinación de letras siempre representan el mismo sonido.
 
     [¡Lea más!](G-ABC.md)
 
@@ -40,7 +40,7 @@ Ellas se describien en más detalle más tarde en este sitio.
     y *-e* o cualquier otra letra para sustantivos.
 
     Este sistema consistente es un factor clave para la claridad gramatical de Pandunia,
-    ya que permite derivar fácilmente nuevas palabras a partir de una sola raíz.
+    ya que permite crear fácilmente nuevas palabras derivadas a partir de una sola raíz.
 
     [¡Lea más!](G-PoS.md)
 
@@ -131,7 +131,7 @@ Ellas se describien en más detalle más tarde en este sitio.
 8.  **Adjetivos**
 
     Los adjetivos terminan en
-    *-a*.
+    *-i*.
     El adjetivo está antes del sustantivo que modifica.
 
     *rapi loge*
@@ -145,9 +145,9 @@ Ellas se describien en más detalle más tarde en este sitio.
     *-o*.
     El adverbo está antes del verbo que modifica.
 
-    *un rapid loga*
-    – Un habla rápida.  
-    *tu rapid loga.*
+    *multo rapi loge*
+    – un habla muy rápida  
+    *tu rapo loga.*
     – Tú hablas rápido.
 
     [¡Lea más!](G-ADV.md)
@@ -202,11 +202,11 @@ Ellas se describien en más detalle más tarde en este sitio.
     Las palabras compuestas se hacen combinando los elementos que las construyen.
     La palabra principal está al final.
 
-    *posta*
+    *poste*
     ('correo') +
     *kase*
     ('caja') =
-    *posta kase*
+    *postekase*
     ('buzón')
 
     [¡Lea más!](G-AFX.md)
