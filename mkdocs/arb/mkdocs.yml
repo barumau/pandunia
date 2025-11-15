@@ -1,0 +1,32 @@
+site_name: لغة باندونيا
+site_url: http://www.pandunia.info/arb
+repo_url: https://github.com/barumau/pandunia/
+docs_dir: ../../arb
+site_dir: ../../html/arb
+use_directory_urls: false
+theme:
+  name: material
+  language: ar
+  logo: logo.png
+  favicon: favicon.png
+  palette:
+    primary: blue
+extra_css:
+  - stile.css
+nav:
+    - 'قاموس' : https://pandunia.info/lexia/index.html?d=arb
+extra:
+  social:
+    - icon: fontawesome/regular/comments
+      link: https://pandunia.info/forum/
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/r/pandunia/
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/jf5GHcHXKk
+    - icon: fontawesome/brands/facebook
+      link: http://www.facebook.com/groups/pandunia
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/pandunia_grupe
+markdown_extensions:
+  - toc:
+      toc_depth: 2
