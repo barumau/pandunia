@@ -22,29 +22,25 @@
 | 2 du         | 20 du des      | 200 du cento     | 2000 du kilo       |
 | 3 tri        | 30 tri des     | 300 tri cento    | 3000 tri kilo      |
 | 4 char       | 40 char des    | 400 char cento   | 4000 char kilo     |
-| 5 pen        | 50 pen  des    | 500 pen  cento   | 5000 pen  kilo     |
-| 6 luk        | 60 luk  des    | 600 luk  cento   | 6000 luk  kilo     |
-| 7 chet       | 70 chet  des   | 700 chet  cento  | 7000 chet  kilo    |
-| 8 bat        | 80 bat  des    | 800 bat  cento   | 8000 bat  kilo     |
-| 9 nau        | 90 nau  des    | 900 nau  cento   | 9000 nau  kilo     |
+| 5 pen        | 50 pen des     | 500 pen cento    | 5000 pen kilo      |
+| 6 luk        | 60 luk des     | 600 luk cento    | 6000 luk kilo      |
+| 7 chet       | 70 chet des    | 700 chet cento   | 7000 chet kilo     |
+| 8 bat        | 80 bat des     | 800 bat cento    | 8000 bat kilo      |
+| 9 nau        | 90 nau des     | 900 nau cento    | 9000 nau kilo      |
 
 Greater numbers follow the same logic as above.
 
 10'000 un des kilo  
 100'000 un cento kilo  
-1'000'000 un milion  
-10'000'000 un des milion  
-100'000'000 un cento milion  
-1'000'000'000 un kilo milion  
-
-Note: The words "billion" and "milliard" are not used in Pandunia
-because their meanings are different from country to country.
-Instead, one should say **kilo milion** (thousand millions) or **un giga**.
+1'000'000 un mega  
+10'000'000 un des mega  
+100'000'000 un cento mega  
+1'000'000'000 un kilo mega  
 
 The prefixes of the [International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units)
 (SI) are used in common language in Pandunia.
 It is normal to say, for example:  
-**bat giga hom viva a Dunia.**  
+**bat giga hom viva a dunia.**  
 – Eight billion (or _milliard_) people live on Earth.
 
 | Prefix   | Symbol  | Base 10 | Decimal                           |

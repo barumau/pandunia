@@ -1,9 +1,10 @@
 
 # Adjektivoj
 
-_Modifovorto_ estas vorto, kiu priskribas econ de alia vorto.
-Panduniaj modifovortoj rolas kiel adjektivoj kaj adverboj en Esperanto.
-En pandunio, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
+Adjektivo estas vorto, kiu priskribas econ de alia vorto.
+En pandunio, adjektivoj antaŭas la substantivon kiun ili modifas.
+En pandunio, plejaj adjektivoj finiĝas je
+*-i*.
 
 ## Modifante substantivon
 
@@ -11,30 +12,37 @@ En pandunio, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
 – nova aŭto 
 *rapi gar*
 – rapida aŭto  
-**multi _dayi_ mez**
-– grandaj tabloj  
-**multi _gao_ mez**
-– altaj tabloj  
-**un _boni_ jan**
-– bona homo
+*dayi mez*
+– granda tablo  
+*gavi mez*
+– alta tablo  
+*boni kurse*
+– bona seĝo
+
+Du aŭ pli da adjektivoj povas modifi la saman vorton.
+
+*leti novi gar*
+– malgranda nova aŭto
+
+## Predikativa uzo
 
 Kiam modifovorto sekvas substantivon, ĝi rolas kvazaŭ kiel verbo, kiu indikas staton.
 Tio estas, kiel adjektivaj verboj en Esperanto.
 
-**gar – novi.**
+*gar – novi.*
 – La aŭto novas.  
-**gar sa novi.**
+*gar sa novi.*
 La aŭto estas nova.  
-**bagre – rapi.**
-– Tigroj rapidas.  
-**bagre sa rapi.**
-Tigroj estas rapidaj.
+*bagre – rapi.*
+– Tigro rapidas.  
+*bagre sa rapi.*
+Tigro estas rapida.
 
 Kompreneble, eblas ke modifovortoj aperu je ambaŭ flankoj de substantivo.
 
-**novi gar – rapi.**
+*novi gar – rapi.*
 – Nova aŭto rapidas.  
-**novi gar sa rapi.**
+*novi gar sa rapi.*
 – Novaj aŭto estas rapidaj.
 
 ## Komparoj
@@ -63,9 +71,9 @@ rilatas komparvortoj al la fonto de komparo.
 **tu loga par bono ka mi.**
 – Vi parolas same bone kiel mi.
 
-## Finaĵo de modifovortoj
+## Finaĵo de adjektivoj
 
-Finaĵo de modifovortoj estas *-i* normale.
+Finaĵo de adjektivoj estas *-i* normale.
 La finaĵo estas ĉiam uzata je vortoj derivitaj el verboj kaj substantivoj.
 Ekz. *logi* 'parola', *suki* 'feliĉa', *kitabi* 'skriba'.
 

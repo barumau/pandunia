@@ -1,50 +1,47 @@
+
 # Nombrovortoj
 
 ## Kvantaj nombrovortoj
 
 | Unuoj        | Dek kaj pli    | 20 kaj pli       | 30 kaj pli         |
 |:-------------|:---------------|:-----------------|:-------------------|
-| 0 siro       | 10 (un) ten    | 20 du ten        | 30 tri ten         |
-| 1 un         | 11 ten un      | 21 du ten un     | 31 tri ten un      |
-| 2 du         | 12 ten du      | 22 du ten du     | 32 tri ten du      |
-| 3 tri        | 13 ten tri     | 23 du ten tri    | 33 tri ten tri     |
-| 4 for        | 14 ten for     | 24 du ten for    | 34 tri ten for     |
-| 5 faif       | 15 ten faif    | 25 du ten faif   | 35 tri ten faif    |
-| 6 sixe       | 16 ten sixe    | 26 du ten sixe   | 36 tri ten sixe    |
-| 7 seven      | 17 ten seven   | 27 du ten seven  | 37 tri ten seven   |
-| 8 eite       | 18 ten eite    | 28 du ten eite   | 38 tri ten eite    |
-| 9 nain       | 19 ten nain    | 29 du ten nain   | 39 tri ten nain    |
+| 0 nil        | 10 (un) des    | 20 du des        | 30 tri des         |
+| 1 un         | 11 des un      | 21 du des un     | 31 tri des un      |
+| 2 du         | 12 des du      | 22 du des du     | 32 tri des du      |
+| 3 tri        | 13 des tri     | 23 du des tri    | 33 tri des tri     |
+| 4 char       | 14 des char    | 24 du des char   | 34 tri des char    |
+| 5 pen        | 15 des pen     | 25 du des pen    | 35 tri des pen     |
+| 6 luk        | 16 des luk     | 26 du des luk    | 36 tri des luk     |
+| 7 chet       | 17 des chet    | 27 du des chet   | 37 tri des chet    |
+| 8 bat        | 18 des bat     | 28 du des bat    | 38 tri des bat     |
+| 9 nau        | 19 des nau     | 29 du des nau    | 39 tri des nau     |
 
 | Unuoj        | Dekoj          | Centoj           | Miloj              |
 |:-------------|:---------------|:-----------------|:-------------------|
-| 1 un         | 10 (un) ten    | 100 un hunde     | 1000 un tauzen     |
-| 2 du         | 20 du ten      | 200 du hunde     | 2000 du tauzen     |
-| 3 tri        | 30 tri ten     | 300 tri hunde    | 3000 tri tauzen    |
-| 4 for        | 40 for ten     | 400 for hunde    | 4000 for tauzen    |
-| 5 faif       | 50 faif ten    | 500 faif hunde   | 5000 faif tauzen   |
-| 6 sixe       | 60 sixe ten    | 600 sixe hunde   | 6000 sixe tauzen   |
-| 7 seven      | 70 seven ten   | 700 seven hunde  | 7000 seven tauzen  |
-| 8 eite       | 80 eite ten    | 800 eite hunde   | 8000 eite tauzen   |
-| 9 nain       | 90 nain ten    | 900 nain hunde   | 9000 nain tauzen   |
+| 1 un         | 10 (un) des    | 100 un cento     | 1000 un kilo       |
+| 2 du         | 20 du des      | 200 du cento     | 2000 du kilo       |
+| 3 tri        | 30 tri des     | 300 tri cento    | 3000 tri kilo      |
+| 4 char       | 40 char des    | 400 char cento   | 4000 char kilo     |
+| 5 pen        | 50 pen des     | 500 pen cento    | 5000 pen kilo      |
+| 6 luk        | 60 luk des     | 600 luk cento    | 6000 luk kilo      |
+| 7 chet       | 70 chet des    | 700 chet cento   | 7000 chet kilo     |
+| 8 bat        | 80 bat des     | 800 bat cento    | 8000 bat kilo      |
+| 9 nau        | 90 nau des     | 900 nau cento    | 9000 nau kilo      |
 
 Pli grandaj nombroj sekvas la saman logikon kiel supre.
 
-10'000 un ten tauzen  
-100'000 un hunde tauzen  
-1'000'000 un milion  
-10'000'000 un ten milion  
-100'000'000 un hunde milion  
-1'000'000'000 un tauzen milion  
-
-Notu! La vortoj "billion" kaj "milliard" ne estas uzata en Pandunia,
-ĉar ilia uzado estas malsama inter landoj.
-Anstataŭ on devus diri **tauzen milion** (mil milionoj) aŭ **giga**.
+10'000 un des kilo  
+100'000 un cento kilo  
+1'000'000 un mega  
+10'000'000 un des mega  
+100'000'000 un cento mega  
+1'000'000'000 un kilo mega  
 
 Por la nombroj pli grandaj ol 999, eblas uzi la oblajn prefiksojn el la Sistemo Internacia de Unuoj.
 La prefiksoj de la [Internacia sistemo de unuoj](https://eo.wikipedia.org/wiki/Internacia_sistemo_de_unuoj)
 (SI) estas uzataj en normala parolado en Pandunia.
 Ekzemple, oni dirus normale:  
-**eite giga person bi live in Dunia.**  
+**bat giga hom viva a dunia.**  
 – Ok miliardoj da homoj vivas en la Mondo.
 
 |Prefikso  |Simbolo  |10-baze  | Decimale                          |
@@ -76,15 +73,15 @@ Nombro staras antaŭ la vorto aŭ vortoĉeno kies kvanton ĝi indikas.
 – tri steloj  
 **kam sing**
 – kelkaj steloj  
-**meni sing**
+**multi sing**
 – multe da steloj
 
-**un dai kursi**
+**un dayi korse**
 – unu granda seĝo  
-**du dai kursi**
+**du dayi korse**
 – du grandaj seĝoj  
-**tri gud kursi**
-– tri bonaj seĝoj
+**tri dayi korse**
+– tri grandaj seĝoj
 
 
 ## Ordaj nombrovortoj
@@ -106,19 +103,19 @@ Tagoj de semajno estas nomigitaj laŭ astroj de la sola sistemo, kaj ili finiĝa
 **den**
 ('tago, 24 horoj').
 
-1. **lunaden**
+1. **lunadien**
    – lundo
-2. **marisden**
+2. **marisdien**
    – mardo
-3. **merkurden**
+3. **merkurdien**
    – merkredo
-4. **mushinden**
+4. **mushindien**
    – jaŭdo
-5. **zukraden**
+5. **zukradien**
    – vendredo
-6. **shaniden**
+6. **shanidien**
    – sabato
-7. **solden**
+7. **soldien**
    – dimanćo
 
 #### Monatoj
@@ -133,22 +130,22 @@ Nomoj de monatoj enhavas nombron de monato kaj
    – februaro
 3. **mes tri**
    – marćo
-4. **mes for**
+4. **mes char**
   – aprilo
-5. **mes faif**
+5. **mes pen**
   – majo
-6. **mes sixe**
+6. **mes luk**
   – junio
-7. **mes seven**
+7. **mes chet**
   – julio
-8. **mes eite**
+8. **mes bat**
   – aŭgusto
-9. **mes nain**
+9. **mes nau**
   – septembro
-10. **mes ten**
+10. **mes des**
   – oktobro
-11. **mes ten un**
+11. **mes des un**
   – novembro
-12. **mes ten du**
+12. **mes des du**
   – decembro
 

@@ -346,20 +346,6 @@ The subject is the source of the energy
 and it sends the energy through the verb, which transits it to the object.
 The object receives the energy and is affected by it.
 
-
-### Ambitransitive verbs
-
-In general, there are three types of verbs.
-
-1. Transitive verbs need a direct object, which is the target of the action.
-2. Intransitive verbs don't take an object. Then the action is directed to the subject.
-3. Ambitransitive verbs can be both transitive and intransitive.
-
-Pandunia verbs are typically ambitransitive
-i.e. they may or may not take an object.
-When there is an object, the clause is transtive,
-and when there isn't an object, the clause is intransitive.
-
 In transitive clauses, the subject is the agent and the object is the patient.
 There is a lot of variation in the the roles of agent and patient,
 but their most basic types can be described as prototypical roles.
@@ -431,77 +417,9 @@ Usually the most energetic semantic participant takes the role of the subject.
 2. Otherwise, if there is an instrument, it becomes the subject.
     - ***bang* bata bol.**
       – *The bat* hits the ball.  
-3. Otherwise the patient becomes the subject and the clause type becomes intransitive.
+3. Otherwise the patient becomes the subject, the clause type becomes intransitive and the verb ending changes to **-u**.
     - ***bol* batu.**
       – *The ball* is hit.
-
-When a sentence consists of a subject and a verb (SV),
-the role of the subject can be ambiguous.
-It can be either the agent or the patient.
-In such cases the interpretation of its role is based on probability.
-What is the most likely role that fits together with the situation that the sentence describes?
-
-Often the other words in the sentence help to define the role of the subject,
-and the sentence can be interpreted in only one meaningful way
-that is in line with the reality.
-In the following examples, the subject is in all likelihood a patient
-i.e. the recipient or the undergoer of the action.
-
-**banana yama.**
-– Banana is eaten.  
-**fuku gan.**
-– Clothes dry.  
-**ite pada.**
-– Stone falls.
-
-(The alternative interpretations, where the subject would be agent,
-*banana eats something*, *clothes make something dry*, and *stone drops something*,
-would not make sense.)
-
-There are also SV sentences where the subject is likely the agent,
-as in the following examples.
-
-**mau marche.**
-– The cat walks.  
-**sol lume.**
-– The sun shines.  
-**homen lai.**
-– They come.  
-
-However, it is possible to clarify the roles of subject and object with the help of the auxiliary verbs
-**fa**
-'do, make' and
-**bi**
-'undergo'.
-**fa**
-indicates that the subject is the agent or doer of the action, and
-**bi**
-indicates that the subject is the patient or receiver of the action.
-
-**banana bi yama.**
-– Banana is eaten.  
-**fuku bi gan.**
-– Clothes are dried.  
-**ite bi pada.**
-– Stone is dropped.  
-**mau fa marche.**
-– The cat walks. ~ The cat does walk.  
-**sol fa lume.**
-– The sun shines. ~ The sun makes the shining.
-
-It is also possible to add other objects with the help of
-**fa**
-'make'.
-
-**mau yama peshe.**
-– The cat eats fish.  
-**mi fa mau yama peshe.**
-– I make the cat eat fish. ~ I feed the cat with fish.
-
-**fuku gan.**
-– Clothes dry.  
-**sol fa fuku gan.**
-– The sun makes clothes dry.
 
 
 ### Pivot construction

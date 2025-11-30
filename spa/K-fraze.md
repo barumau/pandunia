@@ -315,13 +315,13 @@ bengalí না (na).</small>
 
 ### que? <small>¿qué?</small>
 
-*vat?*
+*que?*
 – ¿Qué?
 
-*vat es da?*
+*que sa ye?*
 – ¿Qué es eso?
 
-*da es buk.*
+*ye sa buk.*
 – Eso es un libro.
 
 <small>Etimología.
@@ -793,7 +793,7 @@ _Él/ella no puede conducir un auto._)
 
 ### go <small>ir</small>
 
-*tu go vat plas?*
+*tu go qui plas?*
 – ¿A dónde vas?
 
 *me go haus.*
@@ -882,9 +882,9 @@ como una preposición o como un verbo por aparte.
 – ¿Vives en este hotel?
 
 Ayuda: También está bien decir
-*tu loju a vat plas?*
+*tu loju a qui plas?*
 en vez de
-*tu loju vat plas*.
+*tu loju qui plas*.
 Sin embargo
 *loju*
 ya significa que algo está en algún lugar, así que

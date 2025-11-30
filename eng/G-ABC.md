@@ -350,7 +350,7 @@ For example:
 
 « - » Words may be divided into syllables with a hyphen.
 The hyphen is placed between spoken syllables. For example:
-**bus**, **ka-fe**, **hu-mor**, **pos-te**, **hi-drar-gen-te**.
+ **bus**, **ka-fe**, **hu-mor**, **pos-te**, **hi-drar-gen-te**.
 
 
 ## Punctuation

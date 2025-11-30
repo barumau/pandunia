@@ -661,19 +661,19 @@ In the above table, *ho* is translated only 'he' instead of the usual 'he or she
 
 ## Participles
 
-*-nt-*
+*-n-*
 denotes someone or something that does the action of the root.
 It is the active participle suffix.
 
 *loga*
 – to speak  
-*loganti*
+*logani*
 – speaking  
-*logante*
+*logane*
 – the one who speaks  
 *padu*
 – to fall  
-*padunti*
+*paduni*
 – fallen  
 
 *-t-*
@@ -694,41 +694,42 @@ to unite
 united
 
 
-### Causative verbs
+## Causative verbs
 
 The causatives are the verbs that are used to indicate
 that one person causes another person to do something.
-It can be by asking, paying, requesting, or forcing the person.
+Causation can come about by asking, requesting, forcing, hiring or otherwise making someone else to do the job.
 
 Sometimes the simple active verb is causative.
+For example, when you drop something, you make it fall.
 
-*Tomas pada xeke.*
+*Tomas pada petre.*
 – Thomas drops a stone.  
-*xeke padu.*
+*petre padu.*
 – Stone falls.
 
 In other situations, the causative is formed by using one of the participle suffixes.
 *-ana* means that someone causes someone to do something.
-*-ita* means that someone causes something to be done to someone or something.
+*-ata* means that someone causes something to be done to someone or something.
 
 *Sara padana Tomas.*
 – Sara causes Thomas to drop (something).  
-*Sara padita xeke.*
-– Sara causes the stone to be dropped.
+*Sara padata petre.*
+– Sara causes the stone to be dropped (by someone else).
 
 Here is a more complete example.
 Note that *to feed* has two different causative meanings in English.
 
-*pex yamu.*
+*pesh yamu.*
 – Fish is eaten.  
-*mau yama pex.*
+*mau yama pesh.*
 – The cat eats fish.  
-*me yamita pex pa mau.*
+*me yamata pesh pa mau.*
 – I feed fish to the cat.  
-*me yamana mau va pex.*
+*me yamana mau va pesh.*
 – I feed the cat with fish.
 
-A causative can imply that the action is done for the causer.
+A causative can imply that the action is done for the one who causes it.
 
 *me no bina dom. me binata ho.*
 – I don't build the house. I have it built (for myself).

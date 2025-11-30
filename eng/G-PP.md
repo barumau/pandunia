@@ -4,169 +4,170 @@
 In Pandunia, prepositions are words that can function almost like verbs.
 They always take an object.
 The most frequent prepositions in Pandunia are
-**a**
+*a*
 (location),
-**pa**
+*pa*
 (destination) and
-**ze**
+*ja*
 (origin).
 They have broader meanings in Pandunia than the corresponding prepositions in English.
 
 ### Location: a
 
 The preposition
-**a**
+*a*
 expresses general location in time or space, 'at, by, in, on'.
 
-**memen marche a dao.**
+*memen marche a dao.*
 – We walk ON the road.  
-**mau side a meza.**
+*mau side a mez.*
 – A cat sits ON the table.  
-**mi mus sta long a labur.**
+*mi mus sta long a labur.*
 – I must stay long AT work.
 
 ### Destination: pa
 
 The preposition
-**pa**
+*pa*
 denotes destination in the broadest sense.
 
 It denotes the destination of movement, 'to'.
 
-**homen marche pa bazar.**
+*homen marche pa bazar.*
 – They walk TO the market.
 
 It denotes the destination of giving i.e. the recipient, 'to, for'.
 
-**mi don ye buk pa tumen.**
+*mi don ye buk pa tumen.*
 – I give this book TO you.  
-**ye buk sa pa tumen.**
+*ye buk sa pa tumen.*
 – This book if FOR you.
 
 It denotes the causal destination, 'for, for the purpose of'.
 
-**mi vud morte pa mi se nasia.**
+*mi vud morte pa mi se nasia.*
 – I would die FOR my nation.
 
-### Origin: ze
+### Origin: ja
 
 The preposition
-**ze**
+*ja*
 denotes separation or origin in the broadest sense.
 
 It denotes the origin of movement, 'from'.
 
-**homen lai ze Brazil.**
+*homen anda ja Brazil.*
 – They come FROM Brazil.
 
 It denotes also the origin of existence, 'of'.
 
-**la lexe** ***kitab*** **sa ze arabe asle.**
+*lexe* ***kitab*** *sa ja arabi asle.*
 – The word *kitab* is OF Arabic origin.
 
 It denotes also the material origin, 'of'.
 
-**kupe sa ze glas.**
+*kupe sa ja glas.*
 – The cup is made OF glass.
 
 It denotes also the causal origin, 'because of'.
 
-**la mau mortu ze seni umre.**
+*mau mortu ja seni umre.*
 – The cat died OF old age.  
-**la mau mortu ze toxe.**
+*mau mortu ja toxe.*
 – The cat died BECAUSE OF poison.
 
 It denotes also the mental origin, 'of, about'.
 
-**memen loga ze tumen.**
+*memen loga ja tumen.*
 – We talk ABOUT you.  
-**mi fikre ze hope.**
+*me fikra ja ashe.*
 – I think OF hope.
 
-
-### ex ('outside')
-
-The preposition
-**ex**
-denotes location on the outside, 'out, outside'.
-
-**deme ye proteste ex la burge.**
-– People protest outside the castle.
 
 ### en ('inside')
 
 The preposition
-**en**
+*en*
 denotes location on the inside, 'in, inside'.
 
-**presiden sir en la burge.**
+*presiden siru en burge.*
 – The president hides in the castle.
+
+### ex ('outside')
+
+The preposition
+*ex*
+denotes location on the outside, 'out, outside'.
+
+*deme protesta ex burge.*
+– People protest outside the castle.
 
 ### kon ('in the company of')
 
 The preposition
-**kon**
+*kon*
 denotes togetherness, 'with, in the company of'.
 
-**ho loga kon la shef.**
+*ho loga kon shef.*
 – He/she talks with the chief.
 
 ### pos ('after')
 
 The preposition
-**pos**
+*pos*
 denotes later position in time or space, 'after, later than'.
 
-**homen lai pos mi.**
+*homen anda pos me.*
 – They come after me.
 
 ### pre ('before')
 
 The preposition
-**pre**
+*pre*
 denotes earlier position in time or space, 'before, in front of'.
 
-**homen lai pre mi.**
+*homen anda pre me.*
 – They come before me.
 
 ### pro ('toward')
 
 The preposition
-**pro**
+*pro*
 denotes direction or intention, 'toward, forth, for, for the sake of, pro'.
 
-**mi kurse pro salita.**
+*me kursa pro salia.*
 – I jog for health.
 
 ### re ('back')
 
 The preposition
-**re**
+*re*
 denotes movement back, 'back, in return'.
 
-**ho don la buk re mi.**
+*ho dona buk re me.*
 – He gave the book back to me.
 
 ### tra ('through')
 
 The preposition
-**tra**
+*tra*
 denotes piercing through, 'through'.
 
 ### via ('by way of')
 
 The preposition
-**via**
+*via*
 denotes road or way, 'via, by way of'.
 
-**memen lai pa Berlin via Praha.**
+*memen anda pa Berlin via Praha.*
 – We come to Berlin via Prague.
 
 ### vice ('instead of')
 
 The preposition
-**vice**
+*vice*
 denotes substitution, 'instead of, on behalf of'.
 
-**ho loga vice mi.**
+*ho loga vice me.*
 – He talks on my behalf.
+

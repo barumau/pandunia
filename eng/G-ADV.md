@@ -1,7 +1,9 @@
 
 # Adverbs
 
-An adverb is a word that modifies a verb or another modifier.
+Adverb is a word that modifies a verb, an adjective or another adverb.
+In Pandunia, most adverbs end in
+*-o*.
 
 ## Modifying a verb
 
@@ -27,14 +29,14 @@ For example *day* (big) and *lil* (little) can be used as intensifying adverbs.
 
 *dayi hom*
 – a big person  
-*lili jan*
+*leti jan*
 – a little person  
-*sundari jan*
+*meyi jan*
 – a beautiful person
 
-*dayo sundari jan*
+*dayo meyi jan*
 – very beautiful person  
-*lilo sundari jan*
+*leto meyi jan*
 – somewhat beautiful person
 
 

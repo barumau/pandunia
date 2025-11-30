@@ -4,10 +4,10 @@
 Pronouns are words that take the place of nouns and noun phrases in a sentence.
 They keep us from repeating the same words over and over again.
 Here's an example of a sentence without pronouns:  
-*My mother is a teacher but my mother is also a singer and my mother sings beautifully.*  
+ *My mother is a teacher but my mother is also a singer and my mother sings beautifully.*  
 It sounds clumsy and repetitive.
 Here's the same sentence with a personal pronoun:  
-*My mother is a teacher but* **she** *is also a singer and* **she** *sings beautifully.*  
+ *My mother is a teacher but* **she** *is also a singer and* **she** *sings beautifully.*  
 The latter sentence sounds fluent and smooth.
 
 

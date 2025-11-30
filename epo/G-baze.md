@@ -89,8 +89,8 @@
 7.  **Nombrovortoj**
 
     La kvantaj nombrovortoj estas:  
-    0 *nil*, 1 *un*, 2 *du*, 3 *tri*, 4 *char*, 5 *pen*, 6 *six*,
-    7 *set*, 8 *ot*, 9 *nau*, 10 *des*.  
+    0 *nil*, 1 *un*, 2 *du*, 3 *tri*, 4 *char*, 5 *pen*, 6 *luk*,
+    7 *set*, 8 *bat*, 9 *nau*, 10 *des*.  
     Pli grandaj ol dek:
     11 *des un*, 12 *des du*, 13 *des tri*,
     ktp.  
@@ -132,8 +132,8 @@
     kaj ili modifas verbojn, adjektivojn kaj aliaj adverbojn.
     Ili antaŭas la vorton, kiun ili modifas.
 
-    *vero rapi loge*  
-    'vere rapida parolo'
+    *multo rapi loge*  
+    'tre rapida parolo'
 
     *tu rapo loga.*  
     'Vi rapide parolas.'
@@ -165,8 +165,8 @@
     La objekto de transitiva verbo povas roli kiel la subjekto de sekvanta verbo en la frazo.
     Tia strukturo nomiĝas la "ĉarnira strukturo".
 
-    *me pleza tu dona pese.*  
-    'Mi petas vin (por) doni monon.'
+    *me pleza tu loga pandunia.*  
+    'Mi petas vin (por) paroli pandunion.'
     Eblas forigi pronomon kiam ĝia senco estas evidenta.
 
     *me qua tu basha pandunia?* → *qua tu basha pandunia?*  

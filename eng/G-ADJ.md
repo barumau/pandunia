@@ -3,6 +3,8 @@
 
 An adjective is a word that adds some quality or description to another word,
 for example *good*, *bad*, *big*, and *fast*.
+In Pandunia, most adjectives end in
+*-i*.
 
 ## Modifying nouns
 
@@ -29,13 +31,17 @@ Two or more adjectives can modify the same noun.
 Adjective can be also after the noun.
 Often this type of phrases can be read as complete sentences, where the verb *to be* is implied.
 
-*gar novi.*
+*gar – novi.*
 – The car is new.  
-*bagre rapidi.*
-– The tiger is fast.
+*gar sa novi.*
+– The car is new.  
+*bagre – rapi.*
+– The tiger is fast.  
+*bagre sa rapi.*
+– The tiger is fast.  
 
 Naturally there can be modifiers on both sides of the noun as well.
 
-*novi gar rapidi.*
+*novi gar – rapi.*
 – The new car is fast.
 
