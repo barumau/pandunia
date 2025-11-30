@@ -12,6 +12,8 @@ install_MKDocs() {
     # Install Python libraries for website generation.
     $HOME/.venvs/pan/bin/python -m pip install mkdocs
     $HOME/.venvs/pan/bin/python -m pip install mkdocs-material #--include-deps
+    # Install Python libary for data manipulation.
+    $HOME/.venvs/pan/bin/python -m pip install pandas
     # Activate the virtual environment.
     # Do this always when you want to use mkdocs!
     source $HOME/.venvs/pan/bin/activate

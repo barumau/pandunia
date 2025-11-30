@@ -16,20 +16,21 @@ bina_neteloka() {
 }
 
 bina_pan() {
-    bina_neteloka zho
+    bina_neteloka arb
     bina_neteloka eng
-    bina_neteloka spa
     bina_neteloka epo
+    bina_neteloka fin
     bina_neteloka fra
-    bina_neteloka may
     bina_neteloka ita
     bina_neteloka jpn
+    bina_neteloka may
     bina_neteloka pandunia
     bina_neteloka pol
     bina_neteloka por
     bina_neteloka rus
-    bina_neteloka fin
+    bina_neteloka spa
     bina_neteloka tha
+    bina_neteloka zho
 }
 
 bina_pan

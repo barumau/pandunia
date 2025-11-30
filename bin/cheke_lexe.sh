@@ -8,8 +8,8 @@ cheke_folde() {
     grep "^\*" $1 -r > temp/pan_lexe.txt
     # Delete irrelevant lines.
     sed "/lexaslia\.md/d" -i temp/pan_lexe.txt
-    sed "/pandunia-$1\.md/d" -i temp/pan_lexe.txt
-    sed "/$1-pandunia\.md/d" -i temp/pan_lexe.txt
+    sed "/pandunia-...\.md/d" -i temp/pan_lexe.txt # ... is a 3-letter language code
+    sed "/...-pandunia\.md/d" -i temp/pan_lexe.txt
     sed "/pan\.md/d" -i temp/pan_lexe.txt
     sed "/Binary file.*matches/d" -i temp/pan_lexe.txt
     # Delete special symbols
