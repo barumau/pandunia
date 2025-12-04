@@ -36,6 +36,46 @@ nav:
         - 'Etymologia': lexaslia.md
         - 'Wyszukaj': https://www.pandunia.info/lexia/?d=pol
 extra:
+  alternate:
+    - name: English
+      link: https://pandunia.info/eng/
+      lang: en
+    - name: Español
+      link: https://pandunia.info/spa/
+      lang: es
+    - name: Esperanto
+      link: https://pandunia.info/epo/
+      lang: eo
+    - name: Français
+      link: https://pandunia.info/fra/
+      lang: fr
+    - name: Italiano
+      link: https://pandunia.info/ita/
+      lang: it
+    - name: Polski
+      link: https://pandunia.info/pol/
+      lang: pl
+    - name: Português
+      link: https://pandunia.info/por/
+      lang: pt
+    - name: Melayu
+      link: https://pandunia.info/may/
+      lang: id
+    - name: Suomi
+      link: https://pandunia.info/fin/
+      lang: fi
+    - name: Русский
+      link: https://pandunia.info/rus/
+      lang: ru
+    - name: 日本語
+      link: https://pandunia.info/jpn/
+      lang: jp
+    - name: 中文
+      link: https://pandunia.info/zho/
+      lang: zh
+    - name: ภาษาไทย
+      link: https://pandunia.info/tha/
+      lang: th
   social:
     - icon: fontawesome/regular/comments
       link: https://pandunia.info/forum/
