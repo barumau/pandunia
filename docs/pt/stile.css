@@ -1,0 +1,19 @@
+blockquote {
+  background-color: lightgrey;
+  font-style: normal;
+  color: black;
+  padding: 1em;
+}
+
+body, p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+pre, code {
+  background-color: white;
+  --md-code-bg-color: white;
+  font-family: 'Ubuntu mono', monospace;
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+}

@@ -1,0 +1,322 @@
+# Project info
+site_name: Pandunia
+site_description: An official description of the Pandunia language
+site_author: Risto Kupsala et alia
+site_url: https://www.pandunia.info
+site_dir: ../html/pd
+use_directory_urls: false
+
+# Repository
+repo_name: 'pandunia'
+repo_url: 'https://github.com/barumau/pandunia'
+edit_uri: 'edit/main/docs/'
+
+# Copyright
+copyright: CC-BY-SA-4.0
+
+# Configuration
+theme:
+  name: material
+#  custom_dir: overrides
+  language: en
+  favicon: assets/favicon.ico
+  logo: assets/logo.svg
+  icon:
+    repo: fontawesome/brands/github
+
+# Navigation
+nav:
+  - Home: index.md
+  - Grammar:
+    - 'The 12 rules': G-baze.md
+    - 'World Words': L-lexe.md
+    - 'Spelling and pronunciation': G-ABC.md
+    - 'Regular Accent': 103_aksente.md
+    - 'Word classes': G-PoS.md
+    - Pronouns: G-PRO.md
+    - Nouns : G-N.md
+    - Numerals: G-NUM.md
+    - Adjectives: G-ADJ.md
+    - Adverbs: G-ADV.md
+    - Verbs: G-V.md
+    - Prepositions: G-PP.md
+    - 'Sentence structure': G-P.md
+    - 'Word building': G-AFX.md
+  - Lessons:
+    - 'Basic phrases': K-fraze.md
+    - Course: K-kurse.md
+  - Vocabulary:
+    - "English–Pandunia": do_pandunia.md
+    - "Pandunia–English": ze_pandunia.md
+    - "Origins of words": lexaslia.md
+    - Search: https://www.pandunia.info/lexia/
+  - 'About':
+    - 'The idea': I-idea.md
+    - Videos: I-filme.md
+    - History: I-historia.md
+    - 'Questions & Answers': FAQ.md
+    - 'Adapting foreign words' : L02_lexe_modifikation.md
+    - 'Translate this site': M01_trabashe.md
+markdown_extensions:
+  - toc:
+      toc_depth: 2
+extra_css:
+    - assets/stile.css
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      default_language: en
+      languages:
+        - locale: en
+          name: English
+          default: true
+          build: true
+        - locale: eo
+          name: Esperanto
+          build: true
+          site_name: "Pandunia lingvo"
+          site_description: "Internacia helpa lingvo el la tuta mondo"
+          nav_translations:
+            Introduction: Enkonduko
+            Grammar: Gramatiko
+            "The 12 rules": "12 reguloj"
+            "World Words": "Mondaj vortoj"
+            "Spelling and pronunciation": "Literumo kaj prononco"
+            "Regular Accent": "Regula akcento"
+            Nouns : Substantivoj
+            Numerals: Numeraloj
+            Adjectives: Adjektivoj
+            Pronouns: Pronomoj
+            Verbs: Verboj
+            "Sentence structure": "Fraza strukturo"
+            "Word building": "Vortkonstruado"
+            Lessons: Lecionoj
+            "Lesson 1": "Leciono 1"
+            "Lesson 2": "Leciono 2"
+            Phrases: Frazoj
+            Vocabulary: Vortaro
+            "English–Pandunia": "esperanto–pandunia"
+            "Pandunia–English": "pandunia–esperanto"
+            "About": Informoj
+            "The idea": Ideo
+        - locale: es
+          name: Español
+          build: true
+          site_name: "Pandunia"
+          site_description: "Lengua auxiliar internacional de origen global"
+          nav_translations:
+            Home: Inicio
+            Introduction: Introducción
+            Grammar: Gramática
+            "The 12 rules": "12 reglas"
+            "World Words": "Palabras del mundo"
+            "Spelling and pronunciation": "Ortografía y pronunciación"
+            "Regular Accent": "Acento regular"
+            Nouns : Sustantivos
+            Numerals: Numerales
+            Adjectives: Adjetivos
+            Pronouns: Pronombres
+            Verbs: Verbos
+            "Sentence structure": "Estructura de la oración"
+            "Word building": "Formación de palabras"
+            Lessons: Lecciones
+            "Lesson 1": "Lección 1"
+            "Lesson 2": "Lección 2"
+            Phrases: Frases
+            Vocabulary: Vocabulario
+            "English–Pandunia": "español–pandunia"
+            "Pandunia–English": "pandunia–español"
+            "About": "Acerca de"
+            "The idea": Idea
+        - locale: fi
+          name: Suomi
+          build: true
+          site_name: "Pandunian kieli"
+          site_description: "Finno-Ugric interlanguage"
+          nav_translations:
+            Introduction: Esittely
+            Grammar: Kielioppi
+            "The 12 rules": "12 sääntöä"
+            "World Words": "Maailman sanat"
+            "Spelling and pronunciation": "Äänne- ja kirjoitusasu"
+            "Regular Accent": "Painotus"
+            Nouns : Nimisant
+            Numerals: Lukusanat
+            Adjectives: Laatusanat
+            Pronouns: Viittaussanat
+            Verbs: Teonsanat
+            "Sentence structure": Lauserakenne
+            "Word building": "Sanojen johtaminen"
+            Lessons: Oppitunnit
+            "Lesson 1": "Oppitunti 1"
+            "Lesson 2": "Oppitunti 2"
+            Phrases: Lauseita
+            Vocabulary: Sanasto
+            "English–Pandunia": "suomi–pandunia"
+            "Pandunia–English": "pandunia–suomi"
+            "About": Tietoja
+            "The idea": Idea
+        - locale: fr
+          name: Français
+          build: true
+          site_name: "langue Pandunia"
+          site_description: "langue auxiliaire internationale de source mondiale"
+          nav_translations:
+            Introduction: Introduction
+            Grammar: Grammaire
+            "The 12 rules": "12 règles"
+            "World Words": "Mots du monde"
+            "Spelling and pronunciation": "Orthographe et prononciation"
+            "Regular Accent": "Accent régulier"
+            Nouns : Noms
+            Numerals: Numéraux
+            Adjectives: Adjectifs
+            Pronouns: Pronoms
+            Verbs: Verbes
+            "Sentence structure": "Structure de la phrase"
+            "Word building": "Formation des mots"
+            Lessons: Leçons
+            "Lesson 1": "Leçon 1"
+            "Lesson 2": "Leçon 2"
+            Phrases: Phrases
+            Vocabulary: Vocabulaire
+            "English–Pandunia": "français–pandunia"
+            "Pandunia–English": "pandunia–français"
+            "About": À propos
+            "The idea": Idée
+        - locale: it
+          name: Italiano
+          build: true
+          site_name: "Lingua Pandunia"
+          site_description: "Lingua ausiliaria internazionale di origine globale"
+          nav_translations:
+            Introduction: Introduzione
+            Grammar: Grammatica
+            "The 12 rules": "12 regole"
+            "World Words": "Parole del mondo"
+            "Spelling and pronunciation": "Ortografia e pronuncia"
+            "Regular Accent": "Accento regolare"
+            Nouns : Sostantivi
+            Numerals: Numerali
+            Adjectives: Aggettivi
+            Pronouns: Pronomi
+            Verbs: Verbi
+            "Sentence structure": "Struttura della frase"
+            "Word building": "Formazione delle parole"
+            Lessons: Lezioni
+            "Lesson 1": "Lezione 1"
+            "Lesson 2": "Lezione 2"
+            Phrases: Frasi
+            Vocabulary: Vocabolario
+            "English–Pandunia": "italiano–pandunia"
+            "Pandunia–English": "pandunia–italiano"
+            "About": Informazioni
+            "The idea": Idea
+        - locale: pt
+          name: Português
+          build: true
+          site_name: "Língua Pandunia"
+          site_description: "Língua auxiliar internacional de origem global"
+          nav_translations:
+            Introduction: Introdução
+            Grammar: Gramática
+            "The 12 rules": "12 regras"
+            "World Words": "Palavras do mundo"
+            "Spelling and pronunciation": "Ortografia e pronúncia"
+            "Regular Accent": "Acento regular"
+            Nouns : Substantivos
+            Numerals: Numerais
+            Adjectives: Adjetivos
+            Pronouns: Pronomes
+            Verbs: Verbos
+            "Sentence structure": "Estrutura da frases"
+            "Word building": "Formação de palavras"
+            Lessons: Lições
+            "Lesson 1": "Lição 1"
+            "Lesson 2": "Lição 2"
+            Phrases: Frases
+            Vocabulary: Vocabulário
+            "English–Pandunia": "português–pandunia"
+            "Pandunia–English": "pandunia–português"
+            "About": Sobre
+            "The idea": Ideia
+        - locale: ru
+          name: Русский
+          build: true
+          site_name: "Язык Пангло"
+          site_description: "Международный вспомогательный язык глобального происхождения"
+          nav_translations:
+            Introduction: Введение
+            Grammar: Грамматика
+            "The 12 rules": "12 правил"
+            "World Words": "Мировые слова"
+            "Spelling and pronunciation": "Правописание и произношение"
+            "Regular Accent": "Регулярное ударение"
+            Nouns : Существительные
+            Numerals: Числительные
+            Adjectives: Прилагательные
+            Pronouns: Местоимения
+            Verbs: Глаголы
+            "Sentence structure": "Структура предложения"
+            "Word building": "Словообразование"
+            Lessons: Уроки
+            "Lesson 1": "Урок 1"
+            "Lesson 2": "Урок 2"
+            Phrases: Фразы
+            Vocabulary: Словарь
+            "English–Pandunia": "русский–пангло"
+            "Pandunia–English": "пангло–русский"
+            "About": О языке
+            "The idea": Идея
+        - locale: th
+          name: ไทย
+          build: true
+          site_name: "ภาษาแปงโล"
+          site_description: "ภาษาสากลเสริมระหว่างประเทศที่มีต้นกำเนิดทั่วโลก"
+          nav_translations:
+            Introduction: บทนำ
+            Grammar: ไวยากรณ์
+            "The 12 rules": "12 กฎ"
+            "World Words": "คำจากทั่วโลก"
+            "Spelling and pronunciation": "การสะกดคำและการออกเสียง"
+            "Regular Accent": "การเน้นเสียงปกติ"
+            Nouns : คำนาม
+            Numerals: ตัวเลข
+            Adjectives: คำคุณศัพท์
+            Pronouns: สรรพนาม
+            Verbs: คำกริยา
+            "Sentence structure": "โครงสร้างประโยค"
+            "Word building": "การสร้างคำ"
+            Lessons: บทเรียน
+            "Lesson 1": "บทเรียน 1"
+            "Lesson 2": "บทเรียน 2"
+            Phrases: วลี
+            Vocabulary: คำศัพท์
+            "English–Pandunia": "ไทย–แปงโล"
+            "Pandunia–English": "แปงโล–ไทย"
+            "About": เกี่ยวกับ
+            "The idea": แนวคิด
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/regular/comments
+      link: https://pandunia.info/forum/
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/r/pandunia/
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/jf5GHcHXKk
+    - icon: fontawesome/brands/facebook
+      link: http://www.facebook.com/groups/pandunia
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/pandunia_grupe
+extra_css:
+  - stile.css
+
