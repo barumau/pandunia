@@ -1,213 +1,144 @@
 
-# Reglas básicas de Pandunia
+# 1. Reglas básicas de Pandunia
 
 Estas son las reglas básicas del idioma Pandunia.
 Ellas se describien en más detalle más tarde en este sitio.
 
 
-1.  **Palabras mundiales**
+### (1) Palabras mundiales
 
-    Pandunia es una lengua geográficamente equitativa,
-    es decir que las palabras de pandunia provienen de todos los lugares del mundo.
-    Ellas se ajustan a la ortografía y la pronuciación de Pandunia.
-    Con una palabra básica que se ingresa podemos construir palabras adicionales, esto es de acuerdo con regla 12.
+Pandunia es una lengua equitativamente mundial.
+Palabras internacionales se prestan de todas partes del mundo a Pandunia.
+Ellas se ajustan a la ortografía y la pronuciación de Pandunia.
+Una palabra básica se ingresa y palabras adicionales se construyen con ella, de acuerdo con regla 10.
 
-    [¡Lea más!](L-lexe.md)
 
-2.  **Ortografía y pronunciación**
+### (2) Ortografía y pronunciación
 
-    La ortografía es sencilla y regular,
-    cada palabra se pronuncia exactamente como se escribe,
-    cada letra y combinación de letras siempre representan el mismo sonido.
+La ortografía es sencilla y regular.
+Cada palabra se pronuncia exactamente como se escribe.
+Cada letra y combinación de letras siempre representa el mismo sonido.
 
-    [¡Lea más!](G-ABC.md)
 
-3.  **Acento regular**
+### (3) Acento regular
 
-    Las palabras principales vienen acentuadas en la vocal anterior a la última consonante,  Por ejemplo:
-    *háu* ('benéfico'), *dúnia* ('mundo'), *báshe* ('idioma'), *amén* ('amén').
-    Mientras que los posibles acentos secundarios vendrían de las restantes palabras raices, como por ejemplo:
-    *trabáshe* ('trabajo'), *dúnialìsme* ('globalismo'), *bàshe skóla* ('Escuela de idiomas').
-    En el ejemplo previo indicamos el acento principal con una tilde derecha (*á*) mientras que el secundario es indicado con una tilde izquierda (*à*).
+Las palabras principales vienen acentuadas en la vocal anterior a la última consonante,  Por ejemplo:
+**háu** ('benéfico'), **dúnia** ('mundo'), **báshe** ('idioma'), **amén** ('amén').
+Mientras que los posibles acentos secundarios vendrían de las restantes palabras raices, como por ejemplo:
+**trabáshe** ('trabajo'), **dúnialìsme** ('globalismo'), **bàshe skóla** ('Escuela de idiomas').
+En el ejemplo previo indicamos el acento principal con una tilde derecha (*á*) mientras que el secundario es indicado con una tilde izquierda (*à*).
 
-4.  **Marcadores de clase gramatical**
 
-    Las palabras de Pandunia constan de una raíz y un marcador de clase gramatical.
-    Los marcadores de clase gramatical son vocales finales que indican claramente la categoría gramatical de la palabra:
-    *-i* para adjetivos,
-    *-o* para adverbios,
-    *-a* y *-u* para verbos,
-    y *-e* o cualquier otra letra para sustantivos.
+### (4) Pronombres
 
-    Este sistema consistente es un factor clave para la claridad gramatical de Pandunia,
-    ya que permite crear fácilmente nuevas palabras derivadas a partir de una sola raíz.
+Los pronombres personales son:  
+**mi** _yo_, **tu** _tú o usted_, **da** _él, ella, eso_,
+**vi** _nosotros_, **yu** _ustedes_, **di** _ellos o ellas_.
 
-    [¡Lea más!](G-PoS.md)
+Los pronombres posesivos son:  
+**mi se** _mío, mi_, **tu se** _tuyo, tu, suyo, su, vuestro_, **da se** _suyo, su (de él o ella)_,
+**vi se** _nuestro_, **yu se** _suyo, su, vuestro (de ustedes)_, **di se** _suyo, su (de ellos o ellas)_.
 
-5.  **Pronombres**
+Los pronombres interrogativos son:  
+**vat**
+_qué o quién_, _cuál_,
+**vat su**
+_de quién_.
 
-    Los pronombres personales son:  
-    *me*
-    'yo',
-    *tu*
-    'tú o usted',
-    *ho*
-    'él, ella, eso',
-    *memen*
-    'nosotros',
-    *tumen*
-    'ustedes',
-    *homen*
-    'ellos o ellas'.
+El pronombre impersonal es **von**.
+Se usa para comenza una oración sin subjeto.
 
-    Los pronombres posesivos son:  
-    *me di* ~ *mi*
-    'mío, mi',
-    *tu di* ~ *ti*
-    'tuyo, tu, suyo, su, vuestro',
-    *ho di* ~ *hi*
-    'suyo, su (de él o ella)',
-    *memen di*
-    'nuestro',
-    *tumen di*
-    'suyo, su, vuestro (de ustedes)',
-    *homen di*
-    'suyo, su (de ellos o ellas)'.
 
-    Los pronombres interrogativos son:  
-    *que*
-    'qué',
-    *qui jan*
-    'quién',
-    *que di* ~ *qui jan di*
-    'de quién'.
+### (5) Sustantivos
 
-    El pronombre impersonal es
-    *men*.
-    Se usa para comenza una oración sin subjeto.
+Los sustantivos tienen una sola forma, siempre la misma.
+Su forma no es afectada por número, género, o caso.
+Su número es indicado por palabras de número y cantidad.
+Su rol es indicado por el orden de las palabras o por una preposición.
 
-    [¡Lea más!](G-PRO.md)
 
-6.  **Sustantivos**
+### (6) Numerales
 
-    Los sustantivos tienen una sola forma, siempre la misma.
-    Su forma no es afectada por número, género, o caso.
-    Su número es indicado por palabras de número y cantidad.
-    Su rol es indicado por el orden de las palabras o por una preposición.
+Los números cardinales son:  
+0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **for**, 5 **faif**, 6 **sixe**,
+7 **seven**, 8 **eite**, 9 **nain**, 10 **ten**.  
+Mayor que diez: 11 **ten un**, 12 **ten du**, 13 **ten tri**, etc.  
+Dieces: 20 **du ten**, 30 **tri ten**, 40 **for ten**, etc.  
+Cientos: 100 **un hunde**, 200 **du hunde**, 300 **tri hunde**, etc.  
+Miles: 1000 **un tauzen**, 2000 **du tauzen**, 3000 **tri tauzen**, etc.
 
-    Los sustantivos no tienen una terminación obligatoria,
-    pero generalmente terminan en *-e*, *-ia* o una consonante.
+La manera de crear números ordinales es poner el número después del sustantivo:  
+**parte un**
+– primera parte  
+**parte du**
+– segunda parte  
+**parte tri**
+– tercera parte
 
-    [¡Lea más!](G-N.md).
 
-7.  **Numerales**
+### (7) Modificadores
 
-    Los números cardinales son:  
-    0 *nil*, 1 *un*, 2 *du*, 3 *tri*, 4 *char*, 5 *pen*, 6 *luk*,
-    7 *set*, 8 *bat*, 9 *nau*, 10 *des*.  
-    Mayor que diez:
-    11 *des un*, 12 *des du*, 13 *des tri*,
-    etc.  
-    Dieces:
-    20 *du des*, 30 *tri des*, 40 *char des*,
-    etc.  
-    Cientos:
-    100 *un cent*, 200 *du cent*, 300 *tri cent*,
-    etc.  
-    Miles:
-    1000 *un kil*, 2000 *du kil*, 3000 *tri kil*,
-    etc.
+Los adjetivos y adverbos tienen la misma forma.
+El adjetivo está antes del sustantivo que modifica,
+y el adverbo está antes del verbo que modifica.
 
-    La manera de crear números ordinales es poner el número después del sustantivo:  
-    *parte un*
-    – primera parte  
-    *parte du*
-    – segunda parte  
-    *parte tri*
-    – tercera parte
+**un rapid loga**
+– Un habla rápida.  
+**tu rapid loga.**
+– Tú hablas rápido.
 
-    [¡Lea más!](G-NUM.md)
 
-8.  **Adjetivos**
+### (8) Verbos
 
-    Los adjetivos terminan en
-    *-i*.
-    El adjetivo está antes del sustantivo que modifica.
+Las conjugaciones verbales no cambian para persona, número, o tiempos verbales.
+Los verbos auxiliares indican el tiempo.
 
-    *rapi loge*
-    – un habla rápida.  
+- **bi**
+  indica un evento que está en curso.
+- **hav**
+  indica un evento que se ha completado y cuyo resulto afecta la situación presente.
+- **did**
+  indica un evento que pasó y que no es relacionado con la situación presente.
+- **vil**
+  indica un evento que ocurrirá en el futuro.
 
-    [¡Lea más!](G-ADJ.md)
 
-9. **Adverbios**
+### (9) Orden de las palabras
 
-    Los adverbios terminan en
-    *-o*.
-    El adverbo está antes del verbo que modifica.
+El orden de las palabras es subjeto-verbo-objeto.
+El mismo orden se usa en ambos declaraciones y preguntas.
 
-    *multo rapi loge*
-    – un habla muy rápida  
-    *tu rapo loga.*
-    – Tú hablas rápido.
+Una oración pasiva se construye con la ayuda del verbo auxiliar pasivo
+**be**.
+Un efeto similar se puede lograr con el pronombre impersonal
+**von**.
 
-    [¡Lea más!](G-ADV.md)
+**pandunia be loga.**
+– Pandunia es hablado.  
+**von loga pandunia.**
+– Se habla Pandunia.
 
-10. **Verbos**
+En la _estructura de eje_, el objeto del verbo transitivo funciona como el subjeto del verbo que sigue.  
+**mi plis tu loga pandunia.**
+– Yo te pido a ti hablar Pandunia.
 
-    Existen dos terminaciones verbales: *-a* y *-u*.
-    La terminación *-a* indica que
-    el agente de la acción se encuentra inmediatamente antes del verbo.
-    La terminación *-u* indica que
-    el paciente de la acción se encuentra inmediatamente antes del verbo.
+Los pronombres se pueden omitir cuando son obvios y superfluos.  
+**_mi_ plis _tu_ loga pandunia.**
+→ **plis loga pandunia.**  
+– Por favor habla Pandunia.
 
-    *me yama aple.*
-    'Yo como manzanas.'
-    *aple yamu.*
-    'Las manzanas son comidas.'
 
-    Las conjugaciones verbales no cambian para persona, número, o tiempos verbales.
-    Los verbos auxiliares indican el tiempo.
+### (10) Construcción de las palabras
 
-    -   *sta*
-        indica un evento que está en curso.
-    -   *ha*
-        indica un evento que se ha completado y cuyo resulto afecta la situación presente.
-    -   *pasa*
-        indica un evento que pasó y que no es relacionado con la situación presente.
-    -   *vila*
-        indica un evento que ocurrirá en el futuro.
+En Pandunia, palabras se cambian solo cuando su significado se cambia.
+Las palabras nunca se cambian solo para servir en un rol gramático diferente.
+Las palabras compuestas se hacen combinando los elementos que las construyen.
+La palabra principal está al final.
 
-    [¡Lea más!](G-V.md)
-
-11. **Orden de las palabras**
-
-    En la **estructura de eje**, el objeto del verbo transitivo funciona como el subjeto del verbo que sigue.  
-    *me pleza tu loga pandunia.*  
-    – Yo te pido a ti hablar Pandunia.
-
-    Los pronombres se pueden omitir cuando son obvios y superfluos.
-
-    *me qua tu basha pandunia?* → *qua tu basha pandunia?*  
-    '¿Hablas Pandunia?'
-
-    *me pleza tu loga klaro.* →  *pleza loga klaro.*  
-    'Por favor, habla con claridad.'
-
-    [¡Lea más!](G-P.md)
-
-12.  **Construcción de las palabras**
-
-    En Pandunia, palabras se cambian solo cuando su significado se cambia.
-    Las palabras nunca se cambian solo para servir en un rol gramático diferente.
-    Las palabras compuestas se hacen combinando los elementos que las construyen.
-    La palabra principal está al final.
-
-    *poste*
-    ('correo') +
-    *kase*
-    ('caja') =
-    *postekase*
-    ('buzón')
-
-    [¡Lea más!](G-AFX.md)
+**posta**
+('correo') +
+**kase**
+('caja') =
+**posta kase**
+('buzón')
 

@@ -34,43 +34,43 @@ Puedes hablar pandunia sin más.
 
 ### sal <small>saludar, saludo</small>
 
-*sal!*
+**sal!**
 – Hola.
 
-*sal suba!*
+**sal suba!**
 – Buenos días. (Se usa por la mañana.)
 
-*sal dia!*
+**sal dia!**
 – Buenos días.
 
-*sal sham!*
+**sal sham!**
 – Buenas tardes.
 
-*sal noche!*
+**sal noche!**
 – Buenas noches.
 
-*sal yam!*
+**sal yam!**
 – Buen apetito. / Que aproveche.
 
-*sal vena!*
+**sal kom!**
 – Bienvenido/s.
 
-*sal chuta!*
+**sal go!**
 – Adiós.
 
-*sal safar!*
+**sal safar!**
 – Buen viaje.
 
-*sal sona!*
+**sal sona!**
 – Que duermas bien. / Que descanses.
 
 Como puedes ver arriba,
-*sal*
+**sal**
 es una palabra general para desear el bien.
 Puedes usarla cuando quieras.
 
 
-<small>Etimología. *sal* viene del
+<small>Etimología. **sal** viene del
 francés *salut*,
 árabe سَلَام‏ (salām),
 hebreo שָׁלוֹם‏ (šalom),
@@ -80,56 +80,56 @@ suajili *salaam*,
 indonesio *selamat*.</small>
 
 
-### shukre <small>gracias</small>
+### danke <small>gracias</small>
 
-*shukre!*
+**danke!**
 – ¡Gracias!
 
-*shukra tu.*
+**danke tu.**
 – Gracias. (a ti.)
 
-*me shukra tu.*
+**mi danke tu.**
 – Te agradezco.
 
-*me shukra tu helpa me.*
+**mi danke tu helpe mi.**
 – Te agradezco por ayudarme.
 
-*shukra tu helpa me.*
+**danke tu helpe mi.**
 – Gracias por ayudarme.
 
-*no yau shukra.*
+**no yau danke.**
 – De nada. No hay de qué.
 
 
-### me <small>yo</small>
+### mi <small>yo</small>
 
-*me sa Sara.*
+**mi es Sara.**
 – Yo soy Sara.
 
-*me sa Tomas.*
+**mi es Tomas.**
 – Yo soy Tomás.
 
-*me sala mama.*
+**mi sal mama.**
 – Yo saludo a mamá.
 
-*me sala papa.*
+**mi sal papa.**
 – Yo saludo a papá.
 
 La palabra
-*sal*
+**sal**
 es un sustantivo y un verbo.
 El orden básico de las palabras en pandunia es sujeto–verbo–objeto.
 
-*Sara sala Tomas.*
+**Sara ye sal Tomas.**
 – Sara saluda a Tomás.
 
-*sal mama!*
+**sal mama!**
 – ¡Saludos, mamá!
 
-*sal papa!*
+**sal papa!**
 – ¡Saludos, papá!
 
-<small>Etimología. *mi* viene del
+<small>Etimología. **mi** viene del
 inglés *me*,
 hindi: मैं (meṇ),
 español *me*,
@@ -139,311 +139,283 @@ suajili *mimi*.</small>
 
 ### tu <small>tú</small>
 
-*tu sa Tomas.*
+**tu es Tomas.**
 – Tú eres Tomás.
 
-*me sala tu.*
+**mi sal tu.**
 – Te saludo.
 
-*tu sala me.*
+**tu sal mi.**
 – Me saludas.
 
 Los pronombres no cambian su forma en pandunia.
 Es por eso que
-*me*
+**mi**
 es el mismo en las posiciones de sujeto y objeto, mientras que el español tiene diferentes formas, 'yo', 'me', etc.
 
-*me ama tu.*
+**mi love tu.**
 – Te amo. (Yo ama ti)
 
-<small>Etimología.
-*tu*
-viene del
-español *tú*,
-russo ты (ty),
+<small>Etimología. **tu** viene del
+espanñol *tú*,
+russo  ты (ty),
 italiano *tu*,
 francés *tu*,
 hindi तू  (tū),
 farsi تو‏‎ (to).</small>
 
 
-### ho <small>él, ella o eso</small>
+### da <small>él, ella o eso</small>
 
-*ho sa man.*
+**da es man.**
 – Él es un hombre.
 
-*ho sa fem.*
+**da es fem.**
 – Ella es una mujer.
 
-*ho sa aple.*
+**da es aple.**
 – Eso es una manzana.
 
-*ho*
+**da**
 es un pronombre personal de tercera persona general.
 Es usado en personas (sin importar su género) y en cosas.
 
-*me sala ho.*
+**mi sal da.**
 – Yo lo/la saludo.
 
-<small>Etimología.
-*ho*
-viene del
-hebreo הוּא /hu/,
-árabe هو /howa/,
-turco *o*,
-fula *o*,
-yoruba *ó*,
-farsi او /u/,
-hindi वह /voh/.
-</small>
 
 
-### qua <small>se utiliza para preguntar</small>
+### sual <small>se utiliza para preguntar</small>
 
-*qua tu sa Tomas?*
+**sual tu es Tomas?**
 – ¿Eres Tomás?
 
-*qua tu sa dokter?*
+**sual tu es dokter?**
 – ¿Eres doctor?
 
 Ayuda: Las preguntas que tienen como respuesta un sí o un no, frecuentemente inician con
-*qua*.
+**sual**.
 Solo es un verbo regular, no una _etiqueta de pregunta_.
 De hecho, la pregunta anterior es una sencilla abreviación de
-*me qua tu sa dokter*
+**mi sual tu es dokter**
 (Yo pregunto, ¿eres doctor?), en que se omite la primera palabra.
 
-*qua tu boni?*
+**sual tu gud?**
 – ¿Cómo estás? (Literalmente: _¿Estás bien?_)  
-*me boni.*
+**mi gud.**
 – Estoy bien.  
-*tu ne?*
+**tu ne?**
 – ¿Y tú?  
-*me no boni.*
+**mi no gud.**
 – No estoy bien.
 
 
-### ya <small>sí</small>
 
-*qua tu sa Tomas?*
+### ye <small>sí</small>
+
+**sual tu es Tomas?**
 – ¿Eres Tomás?.
 
-*ya, me sa Tomas.*
+**ye, mi es Tomas.**
 – Sí, soy Tomás.
 
-*qua ho sa dokter?*
+**sual da es dokter?**
 – ¿Él/ella es doctor/a?
 
-*ya, ho sa dokter.*
+**ye, da es dokter.**
 – Sí, él/ella es doctor/a.
-
-<small>Etimología.
-*ya*
-viene del
-alemán *ja*,
-inglés *yeah*,
-malayo *ya*,
-coreano 예 (ya).</small>
 
 
 ### no <small>no</small>
 
-*me no sa Sara.*
+**mi no es Sara.**
 – No soy Sara.
 
-*me no sa dokter.*
+**mi no es dokter.**
 – No soy doctor/a.
 
-*qua tu boni?*
+**sual tu gud?**
 – ¿Estás bien?  
-*ya. me boni.*
+**ye. mi gud.**
 – Sí, estoy bien.
 
-*qua tu sa boni?*
+**sual tu es gud?**
 – ¿Estás bien?  
-*no, me no sa boni.*
+**no, mi no es gud.**
 – No, no estoy bien.
 
 Puedes usar
-*no*
+**no**
 para negar cualquier cosa.
 Se coloca antes de la cosa que se va a negar.
 
-*ho no sala me.*
+**da no sal mi.**
 – Él/ella no me saluda.
 
-<small>Etimología.
-*no*
-viene del
+<small>Etimología. **no** viene del
 español *no*,
 inglés *no*,
-francés *non*,
-farsi نه⁩ (na),
-bengalí না (na).</small>
+francés *non*.</small>
 
 
-### Pronombres personales plurales
+### Plural
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| *me*        | *memen*      |
+| **mi**      | **vi**       |
 | yo          | nosotros     |
-| *tu*        | *tumen*      |
+| **tu**      | **yu**       |
 | tú, usted   | ustedes      |
-| *ho*        | *homen*      |
+| **da**      | **di**       |
 | él, ella    | ellos, ellas |
 
 
-*memen sala tumen.*
+**vi sal yu.**
 – Nosotros los saludamos a ustedes. 
 
-*tumen sala homen.*
+**yu sal di.**
 – Ustedes los saludan a ellos.
 
-*homen sala memen.*
+**di sal vi!**
 – ¡Ellos nos saludan!
 
-*memen sa fem.*
+**vi es fem.**
 – Nosotras somos mujeres.
 
-*tumen sa man.*
+**yu es man.**
 – Ustedes son hombres.
 
-*homen sa aple.*
+**di es aple.**
 – Esas son manzanas.
 
 
-### que? <small>¿qué?</small>
+### hu? <small>¿quién?</small>
 
-*que?*
+**hu?**
 – ¿Qué?
 
-*que sa ye?*
-– ¿Qué es eso?
-
-*ye sa buk.*
-– Eso es un libro.
-
-<small>Etimología.
-*que*
-viene del
-español *qué*,
-portugués *que*,
-italiano *che*,
-bengalí কী (ke).
-</small>
-
-
-### qui jan? <small>¿quién?</small>
-
-*qui jan?*
-– ¿Qué?
-
-*tu sa qui jan?*
+**hu es tu?**
 – ¿Quién eres?
-*me sa Tomas.*
+**mi es Tomas.**
 – Soy Tomás.
 
-*ho sa qui jan?*
+**hu es da?**
 – ¿Quién es él/ella?  
-*ho sa Sara.*
+**da es Sara.**
 – Ella es Sara.
 
-*tumen sa qui jan?*
+**hu es yu?**
 – ¿Quiénes son ustedes?
 
-*homen sa qui jan?*
+**hu es di?**
 – ¿Quiénes son ellos/as?
 
 
-### yi <small>esto, eso, aquello</small>
+### vat? <small>¿qué?</small>
 
-*yi sa que?*
-– ¿Qué es esto?
+**vat?**
+– ¿Qué?
 
-*yi sa aple.*
-– Esta es una manzana.
-
-*vi sa que?*
+**vat es da?**
 – ¿Qué es eso?
 
-*vi sa aranje.*
+**da es buk.**
+– Eso es un libro.
+
+<small>Etimología. **vat** viene del
+inglés *what*,
+alemán *was*,
+neerlandés *wat*.</small>
+
+
+### da <small>esto, eso, aquello</small>
+
+**da hir es vat?**
+– ¿Qué es esto?
+
+**da hir es aple.**
+– Esta es una manzana.
+
+**da der es vat?**
+– ¿Qué es eso?
+
+**da der es aranja.**
 – Esa es una naranja.
 
-*vi sa rubi aple.*
+**da es rubi aple.**
 – Esa es una manzana roja.
 
-*yi aple sa rubi.*
+**da aple es rubi.**
 – Esta manzana es roja.
 
-*yi sa rubi.*
+**da es rubi.**
 – Esta es roja.
 
-*ho sa rubi.*
+**di sta vat?**
 – ¿Dónde están?
 
-*homen sta que?*
+**di sta hir.**
 – Están aquí.
 
-*homen sta der.*
+**di sta der.**
 – Están allá.
 
 
-### di <small>(partícula posesiva)</small>
+### se <small>(partícula posesiva)</small>
 
-*yi sa que?*
+**da es vat?**
 – ¿Qué es esto?
 
-*ho sa me di telefon.*
+**da es mi se telefon.**
 – Es mi teléfono.
 
-*yi sa que di?*
+**da hir es hu se?**
 – ¿De quién es esto?
 
-*ho sa me di.*
+**da es mi se.**
 – Es mío.
 
 Nota: La partícula posesiva
-*di*
+**se**
 se pone entre el poseedor y la cosa poseída. Así
-*me di*
+**mi se**
 significa "mi/mío",
-*tu di*
+**tu se**
 significa "tu/tuyo", y así.
 
-*ho sa que?*
+**da es hu?**
 – ¿Quién es él/ella?
 
-*ho sa me di doste.*
+**da es mi se frende.**
 – Él/ella es mi amigo/a.
 
-*me sa Sara di doste.*
+**mi es Sara se frende.**
 – Yo soy la amiga de Sara.
 
-<small>Etimología.
-*di*
-viene del
-chinés 的 (de, di).
-</small>
+<small>Etimología. **se** viene del
+inglés *'s*,
+alemán *-s*,
+afrikaans *se*,
+francés *son* ~ *sa*,
+español *su*,
+portugués *seu*.</small>
 
 
-### nim <small>nombre</small>
+### nam <small>nombre</small>
 
-*tu di nim sa que?*
+**tu se nam es vat?**
 – ¿Cuál es tu nombre?
 
-*me di nim sa Tomas.*
+**mi se nam es Tomas.**
 – Mi nombre es Tomás.
 
-*ho di nim sa que?*
+**da se nam es vat?**
 – ¿Cómo se llama (el/ella/eso)?
 
-*ho di nim sa Sara.*
+**da se nam es Sara.**
 – Ella se llama Sara.
 
-<small>Etimología.
-*nim*
-viene del
+<small>Etimología. **nam** viene del
 hindi नाम  (nām),
 farsi نام‏‎ (nām),
 tailandés นาม (naam),
@@ -453,174 +425,174 @@ alemán *Name*,
 inglés *name*.</small>
 
 
-### hava <small>tener</small>
+### have <small>tener</small>
 
-*me hava boni haus.*
+**mi have un gud haus.**
 – Tengo una buena casa.
 
-*ho no hava mone.*
+**da no have mone.**
 – Él/ella no tiene dinero.
 
-*me vola hava novi telefon.*
+**mi van have un nove telefon.**
 – Yo quiero tener un teléfono nuevo.
 
-*qua tu hava pikin?*
+**sual tu have pikin?**
 – ¿Tienes niños?  
-*me hava du pikin.*
+**mi have du pikin.**
 – Tengo dos niños.
 
 
 ### nou <small>saber, conocer</small>
 
-*me nou ho.*
+**mi nou da.**
 – Yo lo/a conozco a él/ella.
 
-*qua tu nou vi jen?*
+**sual tu nou da der jen?**
 – ¿Conoces esa persona?
 
-*me no nou.*
+**mi no nou.**
 – Yo no sé.
 
-*qua tumen nou alale?*
+**sual yu nou unotre?**
 – ¿Ustedes se conocen (entre ustedes)?
 
-*memen nou alala ja long.*
+**vi nou unotre of long.**
 – Nosotros nos conocemos (entre nosotros) hace tiempo.
 
 
 ### helpe <small>ayudar, ayuda</small>
 
-*me yau helpa.*
+**mi yau helpe.**
 – Necesito ayuda.
 
-*qua tu pota helpa me?*
+**sual tu kan helpe mi?**
 – ¿Puedes ayudarme?
 
-*qua me pota helpa tu?*
+**sual mi kan helpe tu?**
 – ¿Puedo ayudarte?
 
-*me vola helpa tu.*
+**mi van helpe tu.**
 – Quiero ayudarte
 
 ## Parte 2: Comer
 
-### yama <small>consumir, comer, beber</small>
+### yam <small>consumir, comer, beber</small>
 
-*qua tu vola yama som ting?*
+**sual tu van yam som ting?**
 – ¿Te gustaría comer algo?
 
-*ho yama un aple.*
+**da yam un aple.**
 – Él/ella come una manzana.
 
-*homen yama aple.*
+**di yam aple.**
 – Ellos/as comen manzanas.
 
 Nota: A diferencia del español, pandunia no tiene formas separadas de singular y plural.
 Por lo tanto una palabra como
-*aple*
+**aple**
 puede referirse a una o más manzanas.
 
-*qua tu yama kafe?*
+**sual tu yam kafe?**
 – ¿Bebes café?
 
-*ya. me yama kafe.*
+**ye. mi yam kafe.**
 – Sí, yo bebo café.
 
 Ayuda: El significado de
-*yama*
+**yam**
 cubre tanto comer y beber.
 Puede parecer raro al inicio, pero pronto verás que es bastante útil.
 Normalmente el objeto del verbo dice si se trata de comer, beber o ambos.
 
-*me yama kafe e ban.*
+**mi yam kafe e ban.**
 – Estoy tomando café y pan.
 
 
-### vola <small>querer, gustar (deseo)</small>
+### van <small>querer, gustar (deseo)</small>
 
-*qua tu vola yama?*
+**sual tu van yam?**
 – ¿Te gustaría comer?
 
-*tu vola yama que?*
+**tu van yam vat?**
 – ¿Qué te gustaría comer?
 
 Ayuda: Mientras que en el español por lo general se pone el "qué" al inicio de
 la pregunta, en pandunia el orden de las palabras no es afectado por el
-*que*.
+**vat**.
 
-*me vola yama kafe.*
+**mi van yam kafe.**
 – Quiero beber café.
 
-*qua tu vola yama cha?*
+**sual tu van yam cha?**
 – ¿Te gustaría beber té? 
-*no. me no vola cha. me vola kafe.*
+**no. mi no van cha. mi van kafe.**
 – No, no quiero té. Quiero café.
 
-*tu vola qui aple?*
+**tu van vat aple?**
 – ¿Qué manzana quieres?  
-*li rubi.*
+**da rubi.**
 – Esta roja.
 
 
-### pleza <small>pedir, por favor</small>
+### plis <small>pedir, por favor</small>
 
-*me pleza tu yama cha.*
+**mi plis tu yam cha.**
 – Te pido que bebas té.
 
-*me pleza tu vena haus.*
+**mi plis tu kom haus.**
 – Te pido que vengas a casa.
 
-*me pleza tu helpa me.*
+**mi plis tu helpe mi.**
 – Te pido que me ayudes.
 
 Ayuda: Para hacer solicitudes directas, no pongas ningún pronombre.
 
-*pleza yama cha.*
+**plis yam cha.**
 – Por favor, bebe/beban té.
 
-*pleza yama kafe.*
+**plis yam kafe.**
 – Por favor, bebe/beban café.
 
-*pleza vena haus.*
+**plis kom haus.**
 – Por favor, ven/vengan a casa.
 
-*pleza helpa me.*
+**plis helpe mi.**
 – Por favor, ayúdame/ayúdenme.
 
 
 ### shal <small>vamos</small>
 
-*memen shal yama!*
+**vi shal yam!**
 – ¡Comamos!
 
-*tumen shal yama!*
+**yu shal yam!**
 – ¡Vosotros comed!
 
-*tu shal yama!*
+**tu shal yam!**
 – ¡Tú come!
 
-*yama!*
+**yam!**
 – ¡Comed! ~ ¡Come!
 
-*memen shal go yama!*
+**vi shal go yam!**
 – ¡Vamos a comer!
 
-*memen shal go haus.*
+**vi shal go haus.**
 – ¡Vamos a casa!
 
 
 ### yau <small>necesitar</small>
 
-*me yau helpa.*
+**mi yau helpe.**
 – Necesito ayuda.
 
-*me yau yama.*
+**mi yau yam.**
 – Estoy hambriento. (Literalmente: _Necesito comer._)
 
-*qua tu yau yama?*
+**sual tu yau yam?**
 – ¿Estás hambriento? ¿Tienes hambre? (Literalmente: _¿Necesitas comida?_)
 
-*qua tu yau sui?*
+**sual tu yau sui?**
 – ¿Tienes sed?
 
 
@@ -628,164 +600,164 @@ Ayuda: Para hacer solicitudes directas, no pongas ningún pronombre.
 
 ### perdon <small>lo siento, perdón</small>
 
-*perdon! me no aha.*
+**perdon! mi no aha.**
 – Lo siento, no entiendo.
 
-*perdon! yi sa que?*
+**perdon! da es vat?**
 – Perdóname, ¿qué es eso?
 
-*perdon. tu di nim sa que?*
+**perdon. tu se nam es vat?**
 – Perdóname, ¿cómo te llamas?
 
 
 ### aha <small>entender, comprender</small>
 
-*qua tu aha me?*
+**sual tu aha mi?**
 – ¿Me entiendes?
 
-*me aha.*
+**mi aha.**
 – Entiendo.
 
-*perdon. me no aha tu.*
+**perdon. mi no aha tu.**
 – Lo siento. No te entiendo.
 
-*me no baso aha tu.*
+**mi no bas aha tu.**
 – No te entiendo muy bien.
 
-*me aha no ting.*
+**mi aha no ting.**
 – No entiendo nada.
 
 
-### pota <small>poder</small>
+### kan <small>poder</small>
 
-*me pota shofa gar.*
+**mi kan shofe karo.**
 – Puedo conducir un auto.
 
-*ho no pota shofa gar.*
+**da no kan shofe karo.**
 – Él/ella no saber conducir un auto. (Literalmente:
 _Él/ella no puede conducir un auto._)
 
-*qua tu pota shuli ho?*
+**sual tu kan shuli da?**
 – ¿Puedes arreglarlo?
 
-*qua tu pota pandunia?*
+**sual tu kan pandunia?**
 – ¿Puedes hablar pandunia?
 
-*me pota pandunia.*
+**mi kan pandunia.**
 – Puedo hablar pandunia.
 
-*me pota kam pandunia.*
+**mi kan kam pandunia.**
 – Puedo hablar un poco de pandunia.
 
-*me no pota engli.*
+**mi no kan english.**
 – No puedo hablar inglés.
 
-*perdon. me no pota tu di bash.*
+**perdon. mi no kan tu se bashe.**
 – Lo siento. No puedo hablar tu idioma.
 
 
 ### loga <small>decir, hablar</small>
 
-*tu loga que?*
+**tu loga vat?**
 – ¿Qué dijiste?
 
-*me loga pa tu.*
+**mi loga to tu.**
 – Te hablé.
 
-*memen loga pa alale.*
+**vi loga to unotre.**
 – Hablamos entre nosotros.
 
-*jan loga*
-**gato**
-*a qui mode a pandunia?*
+**von loga**
+***gato***
+**a vat mode a pandunia?**
 – ¿Cómo se dice "gato" en pandunia?
 
-**gato**
-*sa que a pandunia?*
+***gato***
+**es vat a pandunia?**
 – ¿Qué es "gato" en pandunia?
 
-*mau loga "miau".*
+**mau loga "miau".**
 – El gato dice «miau».
 
 
 ### audi <small>escuchar, oír</small>
 
-*audi me!*
+**audi mi!**
 – ¡Escúchame!
 
-*me no pota audi tu.*
+**mi no kan audi tu.**
 – No puedo oírte.
 
-*pleza loga max bala.*
+**plis loga mor bala.**
 – Por favor, hablar más fuerte.
 
-*me audi muzike.*
+**mi audi muzike.**
 – Escucho música.
 
-*tu audi que tip di muzike?*
+**tu audi vat tip se muzike?**
 – ¿Qué tipo de música escuchas?
 
 
-### viza <small>ver</small>
+### vize <small>ver</small>
 
-*suku viza tu.*
+**suka vize tu.**
 – Encantado de verte.
 
-*to rivize!*
+**to rivize!**
 – ¡Hasta luego! (Literalmente: _¡Hasta que te vea de nuevo!_)
 
-*viza tu a posden!*
+**vize tu a posden!**
 – ¡Te veo mañana!
 
-*me viza ho a preden.*
+**mi vize da a preden.**
 – Lo/a vi a él/ella ayer.
 
 
-### sema <small>significar</small>
+### seme <small>significar</small>
 
-*yi lexe sema que?*
+**da hir lexe ye seme vat?**
 – ¿Qué significa esta palabra?
 
-*"mau" sema que?*
+**"mau" ye seme vat?**
 – ¿Qué significa "mau"?
 
-*ho sema un tipe da hevan.*
+**da seme un sorte of hevan.**
 – Significa una clase de animal.
 
-*me no aha ho sema que.*
+**mi no aha da seme vat.**
 – No entiendo qué significa.
 
 
-### kitaba <small>escribir</small>
+### kitab <small>escribir</small>
 
-*pleza kitaba tu di adres.*
+**plis kitab tu se adres.**
 – Por favor, escribe tu dirección.
 
-*pleza kitaba ho a hir.*
+**plis kitab da a hir.**
 – Por favor, escríbelo aquí.
 
 
-### basha <small>hablar un idioma, comunicar</small>
+### bashe <small>hablar un idioma, comunicar</small>
 
-*qua tu basha pandunia.*
+**sual yu bashe pandunia.**
 – ¿Hablas pandunia?
 
-*memen basha pandunia.*
+**vi bashe pandunia.**
 – Nosotros hablamos pandunia.
 
-*qua tu pota basha english?*
+**sual tu kan bashe english?**
 – ¿Puedes hablar inglés?
 
-*franse, espanya, portugal, rus*
+**franse, espanya, portugal, rus**
 – Francés, español, portugués, ruso
 
-*putong han, nipon, malayu*
+**putong han, nipon, malayu**
 – Chino, japonés, indonesio
 
-*arabi, turki, parsi, urdu, hindi*
-– Árabe, turco, farsi, urdu, hindi
+**arabe, turke, parse, urdu, hindi**
+– Árabe. turco, farsi, urdu, hindi
 
-*suahili, hausa, yoruba, amara*
+**suahili, hausa, yoruba, amara**
 – Suajili, hausa, yoruba, amhárico
 
 
@@ -793,160 +765,160 @@ _Él/ella no puede conducir un auto._)
 
 ### go <small>ir</small>
 
-*tu go qui plas?*
+**tu go vat plas?**
 – ¿A dónde vas?
 
-*me go haus.*
+**mi go haus.**
 – Voy a casa.
 
-*me debu go qui kan?*
+**mi mus go vat plas?**
 – ¿A dónde debería ir?
 
-*me debu go pa qui jan?*
+**mi mus go to vat jen?**
 – ¿A quién debería ir?
 
-*memen shal go!*
+**vi shal go!**
 – ¡Vamos! (a algún lugar)
 
-*memen shal go a fut*
+**vi shal go a fut**
 – Vamos caminando.
 
 
-### vena <small>venir</small>
+### kom <small>venir</small>
 
-*vena hir!*
+**kom hir!**
 – – ¡Ven aquí! ¡Vengan aquí!
 
-*pleza vena!*
+**plis kom!**
 – ¡Ven aquí! ¡Vengan aquí!
 
-*tu vena ja qui kan?*
+**tu kom of vat plas?**
 – ¿De dónde vienes?
 
-*me vena ja Dubai.*
+**mi kom of Dubai.**
 – Vengo de Dubái.
 
-*me vena haus a pos den.*
+**mi kom haus a pos den.**
 – Vendré a casa mañana.
 
 
-### safara <small>viajar</small>
+### safar <small>viajar</small>
 
-*qua tu safara a tren?*
+**sual tu safar a tren?**
 – ¿Viajas en tren?
 
-*memen safara ja London pa Paris.*
+**vi safar of London to Paris.**
 – Nosotros viajamos de Londres a París.
 
-*safara sa multo longi.*
+**safar es muche long.**
 – El viaje es muy largo.
 
 
 ### a <small>en, estar en (lugar)</small>
 
-*hotel a qui kan?*
+**hotel a vat plas?**
 – ¿Dónde está el hotel?
 
-*hotel a vi dao.*
+**hotel a da der dau.**
 – El hotel está por ese camino.
 
-*tu a qui kan?*
+**tu a vat plas?**
 – ¿Dónde estás?
 
-*me a haus.*
+**mi a haus.**
 – Estoy en casa.
 
-*ho a qui kan?*
+**da a vat plas?**
 – ¿Dónde está él/ella?
 
-*ho sida a kamre.*
+**da side a kamar.**
 – Él/ella se sienta en la habitación.
 
 Ayuda: Puedes usar
-*a*
+**a**
 como una preposición o como un verbo por aparte.
 
-*me verka a...*
+**mi verke a...**
 – Trabajo en...
 
 
 ### loju <small>vivir, residir, alojar</small>
 
-*tu loju a qui kan?*
+**tu loju vat?**
 – ¿Dónde vives?
 
-*me loju Singapur.*
+**mi loju Singapur.**
 – Vivo en Singapur.
 
-*qua tu loju yi hotel?*
+**sual tu loju da hir hotel?**
 – ¿Vives en este hotel?
 
 Ayuda: También está bien decir
-*tu loju a qui plas?*
+**tu loju a vat plas?**
 en vez de
-*tu loju qui plas*.
+**tu loju vat plas**.
 Sin embargo
-*loju*
+**loju**
 ya significa que algo está en algún lugar, así que
-*a*
+**a**
 no es necesario.
 
 
-### dela <small>esperar</small>
+### dele <small>esperar</small>
 
-*pleza dela!*
+**plis dele!**
 – ¡Por favor, espera!
 
-*dela me!*
+**dele mi!**
 – ¡Espérame!
 
-*homen dela memen.*
+**di dele vi.**
 – Ellos/as nos esperan.
 
-*me dela tu a hotel.*
+**mi dele tu a hotel.**
 – Te espero en el hotel.
 
 
 ## Parte 5: Negocios
 
-### dona <small>dar</small>
+### don <small>dar</small>
 
-*pleza dona mone.*
+**plis don mone.**
 – Por favor da dinero.
 
-*pleza dona ho pa me.*
+**plis don da to mi.**
 – Por favor dame eso.
 
-*me dona yi pa tu.*
+**mi don da hir to tu.**
 – Te doy esto.
 
-*me dona buk pa homen.*
+**mi don buk to di.**
 – Le doy un libro a ellos/as.
 
-*ho no vola dona ho pa me.*
+**da no van don da to mi.**
 – Él/ella no quiere darme eso.
 
 
-### cepa <small>tomar (de agarrar, sujetar)</small>
+### sepe <small>tomar (de agarrar, sujetar)</small>
 
-*me cepa kafe.*
+**mi sepe un kafe.**
 – Voy a tomar un café.
 
-*pleza cepa kafe pa me.*
+**plis sepe un kafe to mi.**
 – Por favor toma un café para mí.
 
-*tu pasa cepa mone of me.*
+**tu did sepe mone of mi.**
 – Tú ya tomaste dinero de mí.
 
-*me cepa bir.*
+**mi sepe un bir.**
 – Voy a tomar una cerveza.
 
 
-### kire <small>renta, alquiler</small>
+### kira <small>renta, alquiler</small>
 
-*me vola cepa gar a kire.*
+**mi van sepe kira un karo.**
 – Quiero rentar un auto.
 
-*ho dona kamre a kire pa safarer.*
+**da don kira kamar to safarer.**
 – Él/ella vende las habitaciones a los viajeros.
 

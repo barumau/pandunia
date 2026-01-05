@@ -59,5 +59,5 @@ Vous pouvez contacter Risto Kupsala, un des créateurs du pandunia, en envoyant 
 
 ![](http://www.pandunia.info/grafe/bandera.png "le drapeau du Pandunia")
 
-**za holi dunia, pa holi dunia**  
+**ze hol dunia, do hol dunia**  
 – du monde entier pour le monde entier

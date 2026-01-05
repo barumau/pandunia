@@ -8,9 +8,9 @@ Panduniassa niihin ei sisälly lukumäärä, joten erillisiä yksikkö- ja monik
 
 **haus**
 – talo tai taloja  
-**mez**
+**meza**
 – pöytä tai pöytiä  
-**korse**
+**kursi**
 – tuoli tai tuoleja  
 **sui**
 – vesi, vettä  

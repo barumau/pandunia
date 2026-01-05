@@ -1,5 +1,5 @@
 
-# 7. Määritteet
+# Adjektiivit
 
 Määrite on sana, joka muokkaa tai tarkentaa toisen sanan merkitystä, esim. hyvä, huono, nopea.
 
@@ -7,40 +7,64 @@ Määrite on sana, joka muokkaa tai tarkentaa toisen sanan merkitystä, esim. hy
 
 Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Panduniassa adjektiivit ovat yleensä pääsanaa ennen.
 
-*novi gar*
+**un _nova_ gar**
 – uusi auto  
-*rapi gar*
+**un _rapid_ gar**
 – nopea auto  
-*dayi mez*
-= iso pöytä  
-*boni korse*
-= hyvä tuoli
+**multi _dai_ meza**
+– isoja pöytiä  
+**multi _gao_ meza**
+– korkeita pöytiä  
+**un _hao_ jan**
+– hyvä ihminen
 
 Adjektiivi voi olla myös substantiivin jälkeen.
 Monesti tällainen rakenne on luettavissa kokonaisena virkkeenä, jossa ei ole käytetty olla-verbiä.
 
-*ho – novi.* ~ *ho sa novi.*
+**ho – nova.** ~ **ho es nova.**
 – Se on uusi.  
-*gar – novi.* ~ *gar sa novi.*
+**gar – nova.** ~ **gar es nova.**
 – Auto on uusi.  
-*bagre – rapi.* ~ *bagre sa rapi.*
+**bagre – rapid.** ~ **bagre es rapid.**
 – Tiikeri on nopea.
 
 Luonnollisesti laatusanoja voi olla substantiivin kummallakin puolella.
 
-*novi gar – rapi.* ~ *novi gar sa rapi.*
-= Uusi auto on nopea.
+**nova gar – rapid.** ~ **nova gar es rapid.**
+– Uusi auto on nopea.
+
+
+## Verbin määrite
+
+Adverbi määrittää teonsanaa, adjektiivia tai toista adverbia.
+
+Tavan adverbi on verbin edellä.
+
+**tu _rapid_ logu.**
+– Sinä _nopeasti_ puhut.  
+**di jen _gud_ kitab.**
+– He _hyvin_ kirjoittavat.
+
+Määritepartikkeli
+**li**
+pannaan usein adverbin ja verbin väliin.
+Se selkeyttää verbilausekkeen rakennetta.
+
+**tu _mei li_ kitab.**
+– Sinä _kauniisti_ kirjoitat.  
+**di _rapid li_ marche.**
+– He _nopeasti_ kävelevät.
 
 
 ## Määritteen määrite
 
 Partikkelia
-*li*
+**li**
 käytetään myös kun määrite määrittää toista määritettä.
 
-*un _dai li_ gud buk*
+**un _dai li_ gud buk**
 – _isosti_ hyvä kirja  
-*_bala li_ lovente jen*
+**_bala li_ lovente jen**
 – _voimakkaasti_ rakastavat ihmiset
 
 
@@ -48,41 +72,41 @@ käytetään myös kun määrite määrittää toista määritettä.
 
 Asteen määritteet kertovat laadun voimakkuudesta.
 
-*multo*
+**ver**
 – paljon, sangen, hyvin  
-*baso*
+**bas**
 – tarpeeksi, kyllin  
-*max*
+**max**
 – enemmän  
-*min*
+**les**
 – vähemmän
 
 Asteen määritteet tulevat ennen määrittelemäänsä sanaa.
 
-*dayi man*
+**un dai man**
 – iso mies  
-*multo dayi man*
+**un ver dai man**
 – hyvin iso mies  
-*baso dayi man*
+**un bas dai man**
 – tarpeeksi iso mies
 
 Asteen määrite muodostaa _yhdysadverbin_ toisen määritteen kanssa.
 Sillä voi määrittää verbiä tai kokonaista lausetta.
 Yhdysadverbi pannaan määrittelemänsä verbin edelle.
 
-*ver much*
+**ver much**
 – hyvin paljon  
-*mi _ver much_ van logu.*
+**mi _ver much_ van logu.**
 – Minä _todella paljon_ haluan puhua.  
-*mi van _ver much_ logu.*
+**mi van _ver much_ logu.**
 – Minä haluan _todella paljon_ puhua.
 
 Yhdysadverbin voi myös panna lauseen loppuun,
 jolloin se määrittää lausetta kokonaisuutena.
 
-*mi van logu _ver much_.*
+**mi van logu _ver much_.**
 – Haluan puhua todella paljon.  
-*sual tu sona _bas gud_?*
+**sual tu sona _bas gud_?**
 – Nukuitko tarpeeksi hyvin?
 
 
@@ -90,37 +114,25 @@ jolloin se määrittää lausetta kokonaisuutena.
 
 Sekä adjektiiveja että adverbeja voi verrata.
 
-*max*
+**max**
 'enemmän, -mpi'  
-*maxim*
+**maxim**
 'eniten'  
-*min*
+**min**
 'vähemmän'  
-*minim*
+**minim**
 'vähiten'  
-*sim*
+**sim**
 'yhtä'
 
 Apusana
-*ka*
+**ka**
 suhteuttaa vertailevan adverbin vertailtavaan asiaan.
 
-*aple sa max boni ka oranje.*
+**aple es max bon ka oranje.**
 – Omenat ovat parempia kuin appelsiinit.  
-*oranje sa min boni ka aple.*
-– Appelsiinit ovat vähemmän hyviä kuin omenat.
-
-
-## Adjektiivin pääte
-
-Adjektiivin tunnus on
-*-i*.
-Tätä päätettä käytetään aina, kun adjektiivi on johdettu verbiä tai substantiivia tarkoittavasta sanavartalosta.
-Esim.
-*logi*
-'puhuttu',
-*suki*
-'tyytyväinen',
-*kitabi*
-'kirjallinen'.
+**oranje es min bon ka aple.**
+– Appelsiinit ovat vähemmän hyviä kuin omenat.  
+**tu logu sim bon ka mi.**
+– Sinä puhut yhtä hyvin kuin minä.
 

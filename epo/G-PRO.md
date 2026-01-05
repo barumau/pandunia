@@ -1,4 +1,3 @@
-
 # Pronomoj
 
 ## Personaj pronomoj
@@ -7,24 +6,24 @@ Pronomoj povas aperi anstataŭ substantivoj.
 
 | Ununombra   | Multenombra  |
 |:------------|:-------------|
-| **me**      | **memen**    |
+| **mi**      | **mimen**    |
 | mi          | ni           |
 | **tu**      | **tumen**    |
 | vi, ci      | vi           |
-| **ho**      | **homen**    |
+| **da**      | **damen**    |
 | li, ŝi, ĝi  | ili          |
 
 
 La posedaj pronomoj estas formata per aldo de partiklo
-**di**.
+**su**.
 
 | Ununombra   | Multenombra  |
 |:------------|:-------------|
-| **me di**   | **memen di** |
+| **mi su**   | **mimen su** |
 | mia         | nia          |
-| **tu di**   | **tumen di** |
+| **tu su**   | **tumen su** |
 | via, cia    | via          |
-| **ho di**   | **homen di** |
+| **da su**   | **damen su** |
 |lia, ŝia, ĝia| ilia         |
 
 ## Refleksiva pronomo
@@ -37,23 +36,23 @@ Rimarko: La refleksiva pronomo
 povas uziĝi por ĉiuj personoj.
 Do ĝi rilatas al ĉiuj tiaj uzadoj en Esperanto, kiel: _mi(n) mem_, _vi(n) mem_, _ni(n) mem_ kaj _si(n)_.
 
-**me viza se**
+**mi vi se**
 – Mi vidas min.  
-**ho viza se**
+**da vi se**
 – Ŝi vidas sin.  
-**memen viza se.**
+**mimen vi se.**
 – Ni vidas nin.
 
 Oni uzas
-**alale**
+**semen**
 por esprimi reciprokecon.
 
-**alale**
+**semen**
 – unu la alia
 
-**tu e me viza alale.**
+**tu e mi vi semen.**
 – Mi kaj vi vidas unu la alian.  
-**memen viza alale.**
+**mimen vi semen.**
 – Ni vidas unu la alian.
 
 
@@ -61,64 +60,64 @@ por esprimi reciprokecon.
 
 La montrovorto estas:
 
-**yi**
+**ye**
 – tiu(j) ĉi  
-**vi**
+**vo**
 – tiu(j)
 
-**yi haus**
+**ye haus**
 – tiu ĉi domo  
-**vi haus**
+**vo haus**
 – tiu domo  
 
 La montrovortoj povas roli kiel subjekto same kiel substantivoj.
 
-**yi sa boni.**
+**ye es bon.**
 – ĉi tiu (aĵo) estas bone.  
-**vi sa dusi.**
+**vo es dus.**
 – Tiu (aĵo) estas malbone.  
-**tu vola yi, he?**
+**tu vol ye, he?**
 – ĉu vi volas ĉi tiun?  
-**no, mi vola vi.**
+**no, mi vol vo.**
 – Ne, mi volas tiun tie.
 
 
 ## Demandovortoj
 
-**que**
+**ke**
 estas la ĝenerala demandovorto en pandunio.
 Ĝi funckias kiel la demanda senco de la vorto *kio*.
 
-**que?**
+**ke?**
 – kio?, kiu?
 
-**que sa ve?**
+**ke es da?**
 – Kio estas tio?  
-**que sa ho?**
+**ke es vo jen?**
 – Kiu estas li ~ ŝi?  
-**tu vola que?**
+**tu vol ke?**
 – Kion vi volas? (Laŭvorte: Vi volas kion?)  
-**que sa a mez.**
+**ke es na meza.**
 – Kio estas ĉe la tablo?  
-**que sa a haus.**
+**ke es na haus.**
 – Kiu estas en la domo?
 
 Adjektivoj estas demandataj per
-**quo**.
+**ke**.
 
-**quo novi?**
+**ke nove?**
 – Kiom nova?  
-**quo kosti?**
+**ke koste?**
 – Kiom multekosta?  
-**quo multi?**
+**ke multi?**
 – Kiom multe?  
-**quo dayi?**
+**ke dai?**
 – Kiom granda?  
-**quo liti?**
+**ke lit?**
 – Kiom eta?
 
-**tu hava quo multi mau?**
-– Kiom da katoj vi havas?
+**tu have ke dai mau?**
+– Kiom granda kato vi havas?
 
 <!--
 ## Tabelvortoj

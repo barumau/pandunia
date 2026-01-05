@@ -1,16 +1,33 @@
 
 # Spelling and pronunciation
 
-## General
-
-Pandunia has its own sound system and its own spelling system.
-The speling system is phonetic in two directions:
+Pandunia is phonetic in two directions:
 
 1. When you read a word, you can always pronounce it.
 2. When you hear a word, you can almost always write it.
+   (Foreign names can be an exception.)
 
-There are two accents or manners of speaking Pandunia: complete and reduced.
-The difference between them is that several sounds have a simplified pronunciation in the reduced accent.
+Once you have learned the few rules and the way letters are pronounced,
+you can read Pandunia aloud and be understood.
+
+## Basic Latin Alphabet
+
+Pandunia is written in the basic Latin alphabet – the same as English!
+It doesn't have any of the accented letters, which are different from language to language.
+So it can be typed, printed and used with computers and smart devices in most countries without any difficulty.
+
+There are 25 letters (including two two-letter combinations) in the Pandunia alphabet: 5 vowels and 20 consonants.
+
+> A B Ch D E F G H I J K L M N O P R S Sh T U V X Y Z
+
+A specialty of the Pandunia writing system is that
+every consonant letter by itself includes a short mid central vowel sound unless otherwise specified.
+(In this regard Pandunia's writing system works like those of India.)
+This short vowel sound is called **schwa**,
+and it is the most basic vowel sound that can be created without much effort.
+It is like the *a* in English *career* /kərir/ or *sofa* /soufə/.
+A consonant's schwa can also be silent and it can be replaced by any written vowel.
+Therefore for example **did** can be pronounced /did/ or /didə/ but **didi** is always pronounced /didi/.
 
 ## Note on phonetic notation
 
@@ -23,117 +40,28 @@ However, [r] and [ɹ] are not distinguished in Pandunia, but they are perceived 
 These mental sounds or **phonemes** can cover several physical sounds and are written between slashes.
 So, speakers of Pandunia perceive mentally always one sound, /r/, regardless of which physical sound, [r] or [ɹ], is actually heard.
 It is said that Pandunia has the phoneme /r/, which has alternative physical pronunciations [r] and [ɹ].
-This can be annotated `/r/ = [r ~ ɹ]`.
+This can be annotated `/r/ = [r] ~ [ɹ]`.
 
+## Sounds
 
-## Basic Latin Alphabet
-
-Pandunia is written in the basic Latin alphabet
-– the same as English!
-It doesn't have any of the accented letters, which are different from language to language.
-So it can be typed, printed and viewed with computers and other smart devices in most countries without any difficulty.
-
-There are 25 letters in the Pandunia alphabet: 5 vowels and 20 consonants.
-
-```
- a b c d e f g h i j k l m n o p q r s t u v x y z
-(A B C D E F G H I J K L M N O P Q R S T U V X Y Z)
-```
-
-The spelling system is very consistent:
-the great majority of words are written exactly as they are pronounced.
-In general, what you see is what you say.
-Every letter corresponds to a specific sound, and there are no silent letters.
-However, there are well-defined exceptions,
-and three letters are pronounced in more than one way.
-They are *r* and *l* in the reduced accent,
-and *x* in both dialects.
-Once you have learned the way each letter is pronounced and the special rules,
-you can read Pandunia aloud and be understood.
-
-
-## Speech sound inventory
+Pandunia has its own sound system and its own spelling system
+that are mostly similar to those of the languages of continental Europe and Latin America.
 
 The complete speech sound inventory of Pandunia is presented in the table below.
 
-|                    | Labial           | Alveolar        | Palatal        | Velar           | Glottal |
-|:-------------------|:----------------:|:---------------:|:--------------:|:---------------:|:-------:|
-| **Stops**          | *p* [p] *b* [b]  | *t* [t] *d* [d] |                |*k q* [k] *g* [g]|         |
-| **Affricates**     |                  | *c* [ts]¹       |*ch* [tʃ] j [dʒ]| *x* [ks]²       |         |
-| **Fricatives**     | *f* [f]          | *s* [s] *z* [z] | sh [ʃ]         |                 | *h* [h] |
-| **Nasals**         | *m* [m]          | *n* [n]³        |                | *ng* [ŋ]³       |         |
-| **Lateral**        |                  | *l* [l]⁴        |                |                 |         |
-| **Trill**          |                  | *r* [r]⁵        |                |                 |         |
-| **Semivowels**     | *v* [ʋ]⁶         |                 | *y* [j]        |                 |         |
-| ---                | ---              | ---             | ---            | ---             | ---     |
-| **High vowels**    | *u* [u]          |                 | *i* [i]        |                 |         |
-| **Mid vowels**     | *o* [o]          | – [ə]           | *e* [e]        |                 |         |
-| **Low vowels**     |                  | *a* [a]         |                |                 |         |
-|                    | **Back**         | **Central**     | **Front**      |                 |         |
-
-
-### Consonants with variable pronunciation
-
-There are two major spoken Pandunia accents, complete and reduced.
-They differ in the way how certain consonants are pronounced.
-
-1.  *c* is pronounced [ts] in the complete accent and [s] in the reduced accent.
-2.  The letter *x* is pronounced /ks/ in the complete accent.
-    In the reduced accent, *x* is [ks] only between vowels, as in *taxi* /'tak.si/.
-    In other positions it is reduced to [s], as in
-    *xenon* /'se.non/, *max* /mas/, and *extra* /estra/.
-3.  *n* is pronounced with the tip of the tongue against the alveolar ridge,
-    except in combinations *nk* and *ng*,
-    where it is velar [ŋ] like in *banker* and *finger*.
-    In the end of a word, the *g* in *ng* is silent in the reduced accent.
-    For example, the word *pang* is pronounced [paŋ] in the reduced accent, and [paŋg] in the complete accent.
-4.  *l* is pronounced [l] always in the complete accent.
-    In the reduced accent, it is pronounced like *j* in consonant clusters.
-    For example, the word *plate* is pronounced /'pla.te/ in the complete accent and /'pja.te/ in the reduced accent.
-5.  The letter *r* has several alternative pronunciations.
-    In the complete accent, it is pronounced as a vibration of the tip of the tongue,
-    [r], as in Scottish and Indian English,
-    or as a vibration of the uvula, [ʀ], as in German.
-    Some speakers pronounce it as an alveolar approximant, [ɹ], as in American English.
-    In the reduced accent, it is pronounced like *l* in the beginning and the end of a syllable.
-    In consonant clusters, it is pronounced like the letter *v*.
-    For example, the word *program* is pronounced /pro'gram/ in the complete accent and /pwo'gwam/ in the reduced accent.
-5.  *v* is the labiodental approximant, [ʋ], in the complete accent, but some speakers pronounce it as the labiodental fricative, [v].
-    In the reduced accent it is the bilabial approximant, [w].
-
-### Consonants with similar pronunciation in both accents
-
-Pronunciation of the other consonants is straightforward.
-
--   **p** = [pʰ] ~ [p]  
-    *p* is pronounced with a puff of air as in *pin*.
--   **b** = [b]
--   **t** = [tʰ] ~ [t]  
-    *t* is pronounced with a puff of air as in *tin*.
--   **d** = [d]
--   **k** = [kʰ] ~ [k]  
-    *k* is preferably always pronounced with a puff of air as in *kin*.
--   **q** = **k**  
-    *q* is pronounced as *k*.
-    It is used only in the combination *qu* and in some loan words.
--   **g** = [g]  
-    *G* is always hard as in *get*,
-    never soft as in *gel*.
--   **f** = [f]
--   **s** = [s]
--   **z** = [z]
--   **sh** = [ʃ]  
-    *sh* is pronounced as *sh* in *ship*.
--   **ch** = [tʃ]  
-    *ch* is pronounced as *sh* in *chip*.
--   **j** = [dʒ]  
-    *j* is pronounced as *j* in *jeans*.
--   **h** = [h] ~ [x]  
-    *h* can be rougher than in English.
--   **m** = [m]
--   **y** = [j]  
-    *y* is pronounced as the *y* in *yes*.
-
+|                    | Labial  |Alveolar | Palatal | Velar   | Glottal |
+|:-------------------|:-------:|:-------:|:-------:|:-------:|:-------:|
+| **Stops**          | b p     | t d     | ch j    | k g     |         |
+| **Fricatives**     | f       | s z     | sh      |         | h       |
+| **Nasals**         | m       | n       |         | ng      |         |
+| **Lateral**        |         | l       |         |         |         |
+| **Trill**          |         | r       |         |         |         |
+| **Semivowels**     | v       |         | y       |         |         |
+| ---------------    | ------- | ------- | ------- | ------- | ------- |
+| **High vowels**    | u       |         | i       |         |         |
+| **Mid vowels**     | o       | (ə)     | e       |         |         |
+| **Low vowels**     |         | a       |         |         |         |
+|                    |**Back**|**Central**|**Front**|        |         |
 
 ### Vowels
 
@@ -145,15 +73,15 @@ by using the symbols of the International Phonetic Alphabet (IPA)
 as well as pronunciation advice in plain English.
 
 - **a** = [a]  
-  *a* is pronounced as in *father*.
+  _A_ is pronounced as in _father_.
 - **e** = [e]  
-  *e* is pronounced as in *bet*.
+  _E_ is pronounced as in _bet_.
 - **i** = [i]  
-  *i* is pronounced as in *machine*.
+  _I_ is pronounced as in _machine_.
 - **o** = [o]  
-  *o* is pronounced as in *or*.
+  _O_ is pronounced as in _or_.
 - **u** = [u]  
-  *u* is pronounced as in *rule*.
+  _U_ is pronounced as in _rule_.
 
 In addition, there is an optional mid central vowel sound [ə], which is also called the **schwa**.
 It is pronounced as the *a* in English *about* /əbaut/, *career* /kərir/ and *sofa* /soufə/.
@@ -179,29 +107,78 @@ depending on what is most comfortable for them.
 ### Semivowels
 
 A semivowel is a sound that is phonetically similar to a vowel sound but functions like a consonant as the syllable boundary.
-Pandunia has two semivowels: **y** and **v**.
+Pandunia has two semivowels **y** and **v**.
 They appear only in the beginning of a syllable
 and they are always followed by a full vowel.
 
 - **v** = [w] ~ [ʋ] ~ [v]  
-  *v* is pronounced as the *w* in *wet*,
-  but some speakers may pronounce it more like the *v* in *vet*.
+  _V_ is pronounced as the _w_ in _wet_,
+  but some speakers may pronounce it more like the _v_ in _vet_.
 - **y** = [j]  
-  *y* is pronounced as the *y* in *yes*.
+  _Y_ is pronounced as the _y_ in _yes_.
 
 There are also several common vowel sequences
 – au, eu, ou, ai, ei, oi –
 which are pronounced as the consecutive vowels with or without a hiatus in between.
 
 
+### Consonants
+
+Pandunia has 19 consonant sounds.
+They are represented in the writing system by 19 Latin letters and their combinations.
+Most of them are pronounced in roughly the same way as in English.
+
+If alternative pronunciations are possible,
+they are joined with the tilde (~).
+
+- **b** = [b]
+- **ch** = [tʃ]  
+  _Ch_ is pronounced always like _ch_ in _chat_, never as in _chateau_ or _choir_.
+- **d** = [d]
+- **f** = [f]
+- **g** = [g]  
+  _G_ is always hard as in _get_,
+  never soft as in _gel_.
+- **h** = [h] ~ [x]  
+  _H_ can be rougher than in English.
+- **j** = [dʒ]  
+  _J_ is pronounced always as in _judge_ or as the soft _g_ in _gel_.
+- **k** = [kʰ] ~ [k]  
+  _K_ is preferably always pronounced with a puff of air as in _kin_.
+- **l** = [l]  
+  _L_ is always "light" as _lip_ in and never "dark" as in _cold_.
+- **m** = [m]
+- **n** = [n] ~ [ŋ]  
+  _N_ is pronounced with the tip of the tongue except in combinations _nk_ and _ng_,
+  where it is velar [ŋ] like in _banker_ and _finger_.
+  In the end of a word, the _g_ in _ng_ can be silent.
+  So the word **pang** can be pronounced [paŋ] as well as [paŋg].
+- **p** = [pʰ] ~ [p]  
+  _P_ is pronounced with a puff of air as in _pin_.
+- **r** = [r] ~ [ɹ]  
+  _R_ is preferably trilled as in Scottish and Indian English, or smooth as in American English.
+  Never silent!
+- **s** = [s]  
+  _S_ is always voiceless like the _s_ in _sissy_.
+- **sh** = [ʃ]  
+  _Sh_ is pronounced as in _shop_.
+- **t** = [tʰ] ~ [t]  
+  _T_ is pronounced with a puff of air as in _tin_.
+- **x** = [ks]  
+  _X_ is pronounced as the _x_ in _box_.
+  For example **maxim** is pronounced /maksim/.
+- **z** = [z] ~ [dz]
+
 ## External letters and sounds
 
-There are also additional letters and letter-combinations, which can be used only in *external words*,
+There are also additional letters and letter-combinations, which can be used only in _external words_,
 which do not belong to the ordinary vocabulary of Pandunia, like names of places and people.
 They are not used in any common Pandunia words.
 
+- **c** = [ts]  
+  Like _ts_ in _bits_.
 - **kh** = [x]  
-  Voiceless velar fricative, like *ch* in *Loch* in Scottish.
+  Voiceless velar fricative, like _ch_ in _Loch_ in Scottish.
 - **gh** = [ɣ]  
   Voiced velar fricative
 - **ph** = [ɸ]  
@@ -213,13 +190,13 @@ They are not used in any common Pandunia words.
 - **qh** = [χ]
   Voiceless uvular fricative.
 - **rh** = [ʀ] ~ [ʁ]  
-  Voiced uvular trill or fricative like *rh* in *rhume* in Parisian French.
+  Voiced uvular trill or fricative like _rh_ in _rhume_ in Parisian French.
 - **th** = [θ]  
-  Like *th* in *thing*.
+  Like _th_ in _thing_.
 - **dh** = [ð]  
-  Like *th* in *they*.
+  Like _th_ in _they_.
 - **zh** = [ʒ]  
-  Like *z* in *azure*.
+  Like _z_ in _azure_.
 - **w** = = [w] ~ [ʋ] ~ [v]  
   W is pronounced the same as **v**.
 
@@ -227,9 +204,9 @@ The additional letters and digraphs are used locally.
 Their purpose is to help to transfer names in local languages to the international language,
 so that local people can recognize them.
 It's OK if you don't know how to pronounce any of these sounds.
-The letters *c*, *q*, and *w* can be pronounced the same as *ch*, *k*, and *v*,
-and all digraphs can be pronunced as if the *h* was not there.
-So, for example, *zh* can be pronounced simply as *z* in the simplified international accent.
+The letters _c_, _q_, and _w_ can be pronounced the same as _ch_, _k_, and _v_,
+and all digraphs can be pronunced as if the _h_ was not there.
+So, for example, _zh_ can be pronounced simply as _z_ in the simplified international accent.
 
 
 For example, the capital of Greece is called "Αθήνα" /aθina/ in the local language, Greek.
@@ -237,10 +214,8 @@ The Pandunia version of this name is "Athina".
 It can be pronounced either /aθina/ (as the Greek do) or /atina/ (in the simplified international accent).
 
 More examples:  
-**Khartum**
-Khartoum (the capital of Sudan)  
-**Rhone**
-Rhône (a river in France and Switzerland)  
+ **Khartum** Khartoum (the capital of Sudan)  
+ **Rhone** Rhône (a river in France and Switzerland)  
 
 ## Word Structure
 
@@ -276,14 +251,14 @@ This rule is applied to both common words and proper names.
 ### Common words
 
 A common word refers to a thing as a member of a group, not as an individual.
-For example *dog* is a common word but *Sam* is not, it is a proper name.
+For example _dog_ is a common word but _Sam_ is not, it is a proper name.
 
 Common words, which are in general use, must fit into the normal word structure,
 and they must have only the normal sounds of Pandunia.
 
 Many Pandunia words are structurally simpler than the corresponding English words.
 Difficult consonant clusters are avoided in the beginning, middle and end of words,
-so *psyche* is **sike**, *act* is **ate**, and *saint* is **sante** in Pandunia.
+so _psyche_ is **sike**, _act_ is **ate**, and _saint_ is **sante** in Pandunia.
 
 
 ### Proper names
@@ -291,14 +266,14 @@ so *psyche* is **sike**, *act* is **ate**, and *saint* is **sante** in Pandunia.
 Proper nouns and rarely used common nouns can be more complex than ordinary words.
 They can even include sounds that don't belong to the normal sound inventory of Pandunia.
 
-For example, family name *Smith* may remain **Smith** in Pandunia,
+For example, family name _Smith_ may remain **Smith** in Pandunia,
 although it is structurally more complex than normal Pandunia words,
-and it has the external *th* sound.
+and it has the external _th_ sound.
 However, foreign people probably will pronounce this name incorrectly.
 Therefore it is advisable to adapt also proper names to the phonetic system of Pandunia.
 
 
-## Large and small letters
+## Large and small Letters
 
 Pandunia has its own rules for using the large letters (i.e. upper-case letters) and the small letters (i.e. lower-case letters).
 
@@ -375,15 +350,15 @@ One may
 (2) insert one space before and after the punctuation mark.
 This practice helps to separate sentences more clearly.
 
-    (1) sal!  tu gud, he?  mi vol go do kafekan.  tu vol lai kon mi, he?
-    (2) sal ! tu gud, he ? mi vol go do kafekan . tu vol lai kon mi, he ?
+    (1) sal!  tu hao, he?  mi voli go do kafekan.  tu voli lai kon mi, he?
+    (2) sal ! tu hao, he ? mi voli go do kafekan . tu voli lai kon mi, he ?
 
 In informal texts, smileys, emoticons and emojis may be used like punctuation marks to end sentences
 but in addition they indicate the mood of the speaker.
 For example **:)** indicates happiness and **:(** indicates sadness.
 
-**mi ama tu :)**
+**mi love tu :)**
 – I love you.  
-**tu no ama mi :(**
+**tu no love mi :(**
 – You don't love me.
 

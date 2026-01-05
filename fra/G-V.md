@@ -1,9 +1,9 @@
 
-# Verbes
+# 8. Verbes
 
 ## Introduction
 
-Un verbe indique une action ou un événement, ex. *manger, parler, penser, voir*…
+Un verbe indique une action ou un événement, ex. manger, parler, penser, voir…
 
 Un verbe peut impliquer un agent et un objet.
 L'agent fait une action, il en est à l'origine,
@@ -14,16 +14,16 @@ et l'objet reçoit ou subit l'action.
 
 Le pandunia est une langue dont les phrases suivent généralement un ordre agent–verbe–patient i.e. sujet–verbe–objet.
 
-*mau yama mush.*
+**mau yam mushu.**
 – Le chat (S) mange (V) la souris (O).
 
 Ici
-*mau*
+**mau**
 'chat' est l'agent et
-*mush*
+**mushu**
 'souris' est l'object.
 
-*me safa kamar.*
+**mi safi kamar.**
 – Je nettoie une chambre.
 
 
@@ -34,7 +34,7 @@ car il y a pas de marquer général du passif qui pourrait doner l'information p
 Autrement dit, la voix passive et active ont la forme commune.
 Si le sujet ne précise pas les cas comme animé/inanimé, actant/patient, la même forme peut être ambiguë d'un cas à l'autre.
 
-*koko hav yama.*
+**koko hav yam.**
 – Le poulet a déjà mangé. *ou*
 Le poulet est déjà mangé (par nous).
 
@@ -42,67 +42,67 @@ Cet exemple est un cas particulier.
 Dans les communications courantes, cette ambiguïté est levée par la fontion sémantique du sujet.
 La phrase suivant ne peut qu'être interprétée par la voix active.
 
-*me hav yama.*
+**mi hav yam.**
 – J'ai déjà mangé.
 
 La phrase passive peut être marquée par la verbe auxiliaire
-*bei*.
+**bei**.
 
-*koko hav yamu.*
+**koko hav bei yam.**
 – Le poulet est mangé.  
-*kamre hav safu.*
+**kamre hav bei safi.**
 – Chambre est nettoyée.
 
 On peut indiquer l'agent avec la préposition
-*of*.
+**of**.
 
-*koko hav yamu of vi.*
+**koko hav bei yam of vi.**
 – Le poulet est mangé par nous.  
-*kamar hav safu me.*
+**kamar hav bei safi dof mi.**
 – Chambre est nettoyée par moi.
 
 
 ## Verbes auxiliaires des aspects
 
-*hav*
+**hav**
 'achever'
 indique l'aspect accompli ou achevé.
 Il indique qu'une action s'est produite dans le passé et est toujours en cours, ou est pertinente pour la situation actuelle.
 
-*da _hav_ es guru.*
+**da _hav_ es guru.**
 – Il ou elle est déjà enseignant.  
-*me no _hav_ gul alkol.*
+**mi no _hav_ gul alkol.**
 – Je n'ai pas encore bu d'alcool.  
-*me _hav_ no gul alkol.*
+**mi _hav_ no gul alkol.**
 – Je ne bois déjà plus d'alcool. (J'ai déjà achevé la situation où je ne bois pas d'alcool.)  
-*me _hav_ don la buk to de.*
+**mi _hav_ don la buk to de.**
 – Je leur ai déjà donné le livre.  
-*de no _hav_ ridon da to me.*
+**de no _hav_ ridon da to mi.**
 – Ils ne me l'ont pas encore rendu.  
-*me _hav_ kom to site.*
+**mi _hav_ kom to site.**
 – Je suis déjà venu en ville.
 
 
 ## Verbes auxiliaires de temps
 
-*did*
+**did**
 'passer'
 Il indique qu'une action est terminée et n'est plus pertinente pour la situation actuelle.
 
-*me did don la buk to de.*
+**mi did don la buk to de.**
 – Je leur ai donné le livre. (Peut-être qu'ils ne l'ont plus ou qu'ils l'ont rendu.)  
-*me did vizite Franse.*
+**mi did vizite Franse.**
 – J'ai visité la France une fois.  
-*me did kom to site.*
+**mi did kom to site.**
 – Je suis venu en ville une fois.
 
-*vil*
+**vil**
 'sera, –rai'
 indique que l'événement se produira plus tard ou dans le futur.
 
-*hi _vil_ es guru.*
+**hi _vil_ es guru.**
 – Il ou elle sera enseignant(e).  
-*me no _vil_ gul bir.*
+**mi no _vil_ gul bir.**
 – Je ne boirai pas de bière.
 
 
@@ -112,46 +112,46 @@ indique que l'événement se produira plus tard ou dans le futur.
 
 Le pandunia possède trois prépositions basiques de lieu et de temps.
 
-*a*
+**a**
 – présence, lieu où l'on est ou moment (en général): avec, à, dans, sur, au cours de, pendant, durant  
-*of*
+**of**
 – origine, début ou cause: de, à partir de, depuis, parce que, car  
-*to*
+**to**
 – destination, fin, objectif ou but : à, jusqu'à, pour, alors
 
 Une préposition introduit un complément prépositionnel. Dans un complément prépositionnel simple, la préposition est complétée par un pronom ou un groupe nominal.
 
-*me a hotel.* 
+**mi a hotel.** 
 – Je suis à l'hôtel.  
-*me sona a hotel.* 
+**mi sona a hotel.** 
 – Je dors à l'hôtel.  
-*me sona of sham to suba.* 
+**mi sona of sham to suba.** 
 – Je dors du soir au matin.  
-*me safar of London to Paris.* 
+**mi safar of London to Paris.** 
 – Je voyage de Londres à Paris.  
 
 Les prépositions peuvent être aussi complétées par un groupe verbale. Dans ce cas, elles se réfèrent au temps.
 
-*me dele of tu go.*
+**mi dele of tu go.**
 – J'ai attendu depuis que tu es parti.  
-*me dele to tu kom to haus.*
+**mi dele to tu kom to haus.**
 – J'attends que tu viennes à la maison.  
-*me dele a tu sona.*
+**mi dele a tu sona.**
 – J'attends pendant que tu dors.
 
 #### a
 
-*a* est une préposition aush nombreush sens. a significhation de base est "avec".
+**a** est une préposition aush nombreush sens. a significhation de base est "avec".
  
-*me sta a haus.*  
+**mi sta a haus.**  
 _Je suis debout avec maison._  
 Je me tiens devant la maison / tout près de la maison.
  
-*me loga a pandunia.*  
+**mi log a pandunia.**  
 _Je parle avec pandunia._  
 Je parle en pandunia.
  
-*me loga a doste a pandunia a fon.*  
+**mi loga a frende a pandunia a fon.**  
 _Je parle avec ami.e avec pandunia avec téléphone._  
 Je parle avec un ami.e en pandunia au téléphone.
 
@@ -159,12 +159,12 @@ Je parle avec un ami.e en pandunia au téléphone.
 
 En pandunia certains verbes fonctionnent comme le feraient des prépositions en français.
 
-*me kat ban.*
+**mi kat ban.**
 – Je coupe pain.  
-*me kat ban, uze chaku.*
+**mi kat ban, uze chaku.**
 – Je coupe pain, utilise un couteau. ~ Je coupe du pain avec un couteau.
 
-*me dele duran du haur.*
+**mi dele duran du haur.**
 – J'attends, (ça) dure deux heures. ~ J'attends pendant deux heures.
 
 #### Verbes sans prépositions
@@ -172,50 +172,50 @@ En pandunia certains verbes fonctionnent comme le feraient des prépositions en 
 Les prépositions ne sont pas utilisées aussi fréquemment en pandunia qu'en anglais.
 Dans de nombreuses phrases, le verbe seul suffit.
 
-*me kom haus.*
+**mi kom haus.**
 – Je viens (à) la maison.  
-*tu side kursi.*
+**tu side kursi.**
 – Tu es assis (sur) une chaise.  
-*hi bi lala sofa.*
+**hi bi lala sofa.**
 – Il ou elle est allongée (sur) le canapé.  
-*pishe boi daria.*
+**pishe boi daria.**
 – Des poissons nagent (dans) la mer.  
-*janger marche dau.*
+**janger marche dau.**
 – Des guerriers défilent (dans) la rue.  
 
 ### Prépositions de relation
 
 La préposition
-*as*
+**as**
 indique la manière ou le style. Elle correspond en français aux prépositions _comme_, _que_, et _comme si_.
 
-*me kan pandunia as guru.*
+**mi kan pandunia as guru.**
 – Je connais le pandunia comme un maître.
 
-*as*
+**as**
 met en relation le verbe ou l'adjectif avec l'élément comparé.
 Dans l'exemple ci-dessus
-*kan*
+**kan**
 (savoir) est le verbe et
-*guru*
+**guru**
 (maître) est l'élément de comparaison.
 
-*dan*
+**dan**
 est utilisé quand on chompare des adjectifs.
 
-*bacha es les dai dan pa.*
+**bacha es les dai dan pa.**
 – L'enfant est moins grand que le père.  
-*gran pa es par dai dan pa.*
+**gran pa es sim dai dan pa.**
 – Grand-père est aussi grand que père.
 
-*dan*
+**dan**
 met en relation les adverbes de comparaison –
-*mor*
+**mor**
 (plus),
-*les*
+**les**
 (moins) et
-*par*
+**sim**
 (aussi, autant) - et l'élément comparé,
-*pa*
+**pa**
 (père) dans les exemples ci-dessus.
 

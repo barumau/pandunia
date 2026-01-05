@@ -24,36 +24,36 @@ They are described in more detail later in this document.
 3.  **Regular stress accent**
 
     Root words are stressed on the syllable that is before the last consonant of the word, f.ex.
-    *háu* ('nice'), *dúnia* ('world'), *básh* ('language'), *amén* ('amen').
+    *háo* ('nice'), *dúnia* ('world'), *báshe* ('language'), *amén* ('amen').
     Derived words and compound words are stressed according to their components so that the main component carries the primary stress
     and other components may carry secondary stress, f.ex.
-    *trabásha* ('translate'), *dúnialìsme* ('globalism'), *bàsh skóle* ('language school').
+    *trabáshe* ('translate'), *dúnialìsme* ('globalism'), *bàshe skóle* ('language school').
     Primary accent is indicated here by an acute accent (*á*) and secondary accent by a grave accent (*à*).
 
-4.  **Word class markers**
+4.  **Word class**
 
-    Pandunia words consist of a root and a word class marker.
-    The word class markers are final vowels that clearly indicate the word's part of speech:
-    *-i* for adjectives,
-    *-o* for adverbs,
-    *-a* and *-u* for verbs,
-    and *-e* or any other letter for nouns.
+    Pandunia is an analytical language.
+    It means that its words do not inflect or change their form because of grammar.
+    Therefore the same word can function in different grammatical roles,
+    for example as noun, verb, adjective or adverb,
+    without any change in form.
+    Word forms change only when the word's meaning changes.
 
-    This consistent system is a key factor of Pandunia's grammatical clarity
-    as it allows for easy derivation of new words from a single root word.
+    This consistent system is a key factor for Pandunia's grammatical simplicity
+    as it allows for direct communication without formal grammatical errors.
 
     [Read more!](G-PoS.md)
 
 5.  **Pronouns**
 
     The personal pronouns are:  
-    *me*
+    *mi*
     'I',
     *tu*
     'you' (singular),
     *ho*
     'he, she, it',
-    *memen*
+    *mimen*
     'we',
     *tumen*
     'you' (plural),
@@ -61,13 +61,13 @@ They are described in more detail later in this document.
     'they'.
 
     The possessive pronouns are:  
-    *me di* ~ *mi*
+    *mi di*
     'my',
-    *tu di* ~ *ti*
+    *tu di*
     'your',
-    *ho di* ~ *hi*
+    *ho di*
     'his or her',
-    *memen di*
+    *mimen di*
     'our',
     *tumen di*
     'your',
@@ -75,11 +75,11 @@ They are described in more detail later in this document.
     'their'.
 
     The interrogative pronouns are:
-    *que*
+    *qua*
     'what',
-    *qui jan*
+    *qua jan*
     'who',
-    *que di* ~ *qui jan di*
+    *qua di* ~ *qua jan di*
     'whose'.
 
     [Read more!](G-PRO.md)
@@ -90,9 +90,6 @@ They are described in more detail later in this document.
     Their form is not affected by number, gender or case.
     Number is indicated by number and quantity words.
     Their role is indicated by word order or by a preposition.
-    
-    Nouns don't have a mandatory ending,
-    but they usually end in *-e*, *-ia* or a consonant.
 
     [Read more!](G-N.md)
 
@@ -126,68 +123,75 @@ They are described in more detail later in this document.
 
 8.  **Adjectives**
 
-    Adjectives end in *-i*
-    and they may become before or after the word that they modify.
+    Adjectives modify nouns.
+    The adjective modifier is before the noun that it modifies.
 
-    *rapi loge*  
+    *un rapid loge*  
     'a fast speech'
 
     [Read more!](G-ADJ.md)
 
 9.  **Adverbs**
 
-    Adverbs end in *-o*.
-    They modify verbs, adjectives, other adverbs and complete sentences.
+    Adverbs modify verbs, adjectives, other adverbs and complete sentences.
     They come before the word that they modify or very last in the sentence.
 
-    *multo rapi loge*
+    *tre rapid loge*
     – very fast speech  
-    *tu rapo loga.*
+    *tu rapid loge.*
     – You talk fast.
 
     [Read more!](G-ADV.md)
 
 10. **Verbs**
 
-    There are two verb endings *-a* and *-u*.
-    The verb ending *-a* indicates that
-    the agent of the action is immediately before the verb.
-    The verb ending *-u* indicates that
-    the patient of the action is immediately before the verb.
+    Pandunia verbs do not change in person, number, tense or any other grammatical category.
+    Therefore a plain verb can be understood in many ways
+    (though usually only one interpretation is fitting in the context of the discussion).
 
-    *me yama aple.*  
-    'I eat apples.'      
-    *aple yamu.*  
-    'Apples are eaten.'
+    *mi darse pandunia.*  
+    'I study ~ studied ~ will study Pandunia.'
 
-    The verb does not change in person, number and tense.
-    Auxiliary verbs indicate time.
+    Auxiliary verbs can be used to indicate the moment, duration and relevance of the action.
 
     -   *sta*
-        ('be at')
         indicates an ongoing event.
-    -   *pasa*
-        ('pass')
+    -   *ha*
+        indicates a completed event, which has an effect on the present situation.
+    -   *le*
         indicates a past event.
-    -   *futa*
-        ('be going to')
+    -   *fu*
         indicates a future event.
+
+    *mi ha darse pandunia.*  
+    'I have studied Pandunia.'
 
     [Read more!](G-V.md)
 
-11. **Combining clauses**
+11. **Word order in clauses**
 
-    In the _pivot structure_, the object of the transitive verb functions as the subject of the following verb.
-    
-    *me pleza tu loga pandunia.*  
+    The word order is subject–verb–object.
+    The same order is used in declarations and questions.
+
+    A passive sentence is created with the help of the passive auxiliary verb
+    **bi**.
+
+    *pandunia bi loge.*
+    – Pandunia is spoken.   
+    *bi loge pandunia.*
+    – One speaks Pandunia.
+
+    In the **pivot construction**, the object of the transitive verb functions as the subject of the following verb.
+
+    *mi ples tu loge pandunia.*  
     'I ask you to speak Pandunia.'
 
     Pronouns can be left out when they are obvious and redundant.
     
-    *me qua tu basha pandunia?* → *qua tu basha pandunia?*  
-    'Do you speak Pandunia?'
+    *mi que tu bashe pandunia?* → *que tu bashe pandunia?*  
+    'Do you speak Panlingue?'
 
-    *me pleza tu loga klaro.* →  *pleza loga klaro.*  
+    *me ples tu loge klar.* →  *ples loge klar.*  
     'Please speak clearly.'
 
     [Read more!](G-P.md)
@@ -196,7 +200,6 @@ They are described in more detail later in this document.
 
     Compound words are made by combining the elements that form them by putting one element after another
     so that the main element stands at the end.
-    The linking vowel *-o-* can be inserted between the elements.
 
     *poste*
     ('mail') +
@@ -204,6 +207,15 @@ They are described in more detail later in this document.
     ('box') =
     *postekase*
     ('mailbox')
+
+    The linking vowel, *-o-*, can be inserted between the elements especially in compound words that stem from the Greek language.
+
+    *dem*
+    ('people') +
+    *kratia*
+    ('government, rule') =
+    *demokratia*
+    ('democracy, rule by the people')
 
     [Read more!](G-AFX.md)
 

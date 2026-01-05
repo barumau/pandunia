@@ -1,5 +1,5 @@
 
-# Sustantivos
+# 5. Sustantivos
 
 ## Solo una forma
 
@@ -7,13 +7,13 @@ Un sustantivo es una palabra que llama una cosa.
 Como todas las palabras en Pandunia, sustantivos no cambian su forma nunca.
 Entonces la misma forma se usa en singular y plural, en definido e indefinido, etc.
 
-*petre*
+**ite**
 – una piedra, unas piedras, la piedra, o las piedras  
-*muk*
+**moka**
 – un árbol, unos árboles, el álbol, o los árboles  
-*korse*
+**kursi**
 – una silla, unas sillas, la silla, o las sillas  
-*sui*
+**sui**
 – agua
 
 El número y la definitud frecuentamente se conocen porque se mencionaron previamente en la conversación, o porque son de conocimiento general.
@@ -30,22 +30,22 @@ Un número o otra palabra de cantidad puede agregarse
 – pero tipicalmente, no es necesario.
 Simplemente inserta un número delante del sustantivo igual.
 
-*korse*
+**kursi**
 – silla o sillas  
-*un korse*
+**un kursi**
 – una silla  
-*du korse*
+**du kursi**
 – dos sillas  
-*tri korse*
+**tri kursi**
 – tres sillas  
-*multi korse*
+**men kursi**
 – muchas sillas
 
 Un método fácil para decir que hay muchos es repetir el sustantivo dos veces.
 
-*petre petre*
+**ite ite**
 – piedras y piedras, una gran variedad de piedras
-*buk buk*
+**buk buk**
 – libros y libros, una gran variedad de libros
 
 
@@ -54,7 +54,7 @@ Un método fácil para decir que hay muchos es repetir el sustantivo dos veces.
 Nombres propios son sustantivos para personal, lugares, y otras cosas individuales.
 
 Nombres de personas pueden etiquetarse con la título de respeto universal
-*si*.
+**si**.
 Usarlo mostra respeto y cortesía.
 
 Puede usarse en situaciones formales e informales, y para todos los grupos social, de edad, o de género.
@@ -68,23 +68,24 @@ Por lo tanto es aconsejable usar **shi** siempre cuando conoce personas nuevas d
 
 Un título de respeto se puede usar con el nombre de pila, el apellido, o los dos.
 
-*si Gabriel Garsia Markes*
+**si Gabriel Garsia Markes**
 – Sr. Gabriel García Marquez  
-*si Gabriel*
+**si Gabriel**
 – Sr. Gabriel  
-*si Garsia Markes*
+**si Garsia Markes**
 – Sr. García Marquez
 
 
-## ¿Terminación de los sustantivos?
+## Palabras compuestas
 
-En Pandunia, los sustantivos pueden terminar en cualquier vocal o consonante.
-A diferencia de los verbos, adverbios y adjetivos, no tienen terminaciones específicas.
-Por regla general, las palabras que **no terminan** en las vocales simples *-a*, *-u*, *-i* y *-o* son sustantivos.
-Esta regla es bastante fiable, pero existen excepciones, como algunos préstamos culturales, por ejemplo,
-*piza*
-('pizza, una pizza italiana con tomate, queso y otros ingredientes') y
-*sushi*
-('un plato japonés de arroz, algas y pescado'),
-y muchos nombres propios, como *Ana*, *Marta*, *Lili*, *Marko* y *Lulu*.
+Dos o más sustantivos pueden reunirse para hacer una palabra compuesta.
+La última palabra es la palabra más significativa,
+y las palabras que preceden a ella solo modifica el significado.
+
+**sol foto**
+– luz solar  
+**luna foto**
+– luz lunar  
+**luna ite**
+– roca lunar
 

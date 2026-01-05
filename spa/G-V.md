@@ -1,5 +1,5 @@
 
-# Verbos
+# 8. Verbos
 
 Verbos son inmutables en Pandunia.
 Cosas como persona, número, tiempo, y modo son indicadas por palabras distintas,
@@ -9,117 +9,92 @@ no como cambiar las formas de verbos como en español y otros idiomas.
 
 Persona y número son indicados por el sujeto.
 Por ejemplo, el verbo
-*sa*
+**e**
 (»ser>>) tiene la misma forma para todas las personas.
 
-*me sa doste.*
+**_mi_ es frende.**
 – Yo soy una amiga.  
-*tu sa doste.*
+**_tu_ es frende.**
 – Tú eres un amigo.  
-*ho sa doste.*
+**_da_ es frende.**
 – Éla es amiga de alguien.  
-*memen sa doste.*
+**_vi_ es frende.**
 – Nosotros somos unos amigos de alguien.  
-*tumen sa doste.*
+**_yu_ es frende.**
 – Ustedes son unas amigas de alguien.  
-*homen sa doste.*
+**_di_ es frende.**
 – Ellos son unos amigos de alguien.
 
 En adición un sustantivo puede servir de un sujeto.
 
-*mau sa hevan.*
+**mau es hevan.**
 – El gato es animal.
+
+Frecuentamente hay indicador entre el sujeto y el verbo
+para indicar donde el sujeto finaliza y el verbo comenza.
+Es particularmente útil cuando el sujeto y el verbo son palabras de contenido
+que pueden servir de los dos.
+El indicador es tipicalmente una partícula o un verbo auxiliar.
+Un de los indicadores más adecuado es
+**ye**
+(»sí»),
+que añade ningún contenido a la oración
+pero ayuda clarificar su estructura.
+
+**karote es mar yam.**
+– Zanahoria es comida para caballos.  
+**mar _ye_ yam karote.**
+– El caballo come zanahorias.
+
+Otros indicadores adecuado son verbos auxiliares de tiempo y modo,
+que se introducen suguiente.
 
 
 ## Verbos auxiliares de tiempo
 
 La relación de un acción, evento, o estado a tiempo se indica con verbos auxiliares.
 
-*shura*
-(»empezar>>, »comenzar>>)
-indica el comienzo de una acción o transición a una situación nueva.
-
-*me shura fuka kote.*
-– Empiezo a llevar el abrigo. = Me pongo el abrigo.  
-*kaguje shura piru.*
-– Papel empieza a quemar.  
-*tu shura yama.*
-– Empiezas a comer.
-
-*fina*
-(»dejar>>, »terminar>>)
-indica el fin de una acción o situación.
-
-*homen fina haha.*
-– Dejan de reírse.  
-*kaguje fina piru.*
-– Papel deja de quemar.
-
-*pula*
-(»completar>>, »acabar>>)
-indica que un acción se completa totalmente.
-
-*tu pula yama piza.*
-– Completamente comiste un pizza.  
-*me pula viza filme.*
-– Miré la película completamente. = Acabo mirando la película.
-
-*dura*
-(»seguir>>, »continuar>>)
-indica que una situación está continuando o en progreso.
-
-*me dura yama piza.*
-– Sigo comiendo una pizza.
-
-*sta*
+**bi**
 (»actual>>)
 indica que una situación es actual.
 
-*me sta yama piza.*
-– Estoy comiendo una pizza.  
-*me sta viza filme.*
-– Estoy viendo una película.
+**mi bi yam un piza.**
+– Estoy comiendo una pizza.
 
-*ha*
+**hav**
 (»lograr>>, »ya>>)
 indica que una situación ha sido logrado, y el estado presente es el resulto de eso.
 Preste atención a la consecuencia de una acción pasada a la situación actual.
 
-*me ha dona buk pa homen.*
+**da _hav_ es guru.**
+– Se ha hecho docente.  
+**mi _hav_ no gul yo alkohol.**
+– Ya no bebir alcohol.  
+**mi no _hav_ gul yo alkohol.**
+– No he bebido alcohol.  
+**mi _hav_ don la buk to di.**
 – Los he dado el libro. (Todavía lo tienen y yo no.)  
-*homen no ha redona le pa me.*
+**damen no _hav_ ridon da to mi.**
 – No me lo han devuelvo.  
-*me ha vena pa pol.*
+**mi _hav_ kom to siti.**
 – He venido a la ciudad.
 
-<!--
-*ho ha sa guru.*
-– Se ha hecho docente.
-
-*me no ha gula alkol.*
-– No he bebido alcohol.  
-*me ha no gula alkol.*
-– Ya no bebir alcohol.  
--->
-
-*pas*
+**did**
 (»pasar>>)
 indica que una situación terminó
 y es pertinente solo como una experiencia.
 
-*mi pas don la buku do yemon.*
+**mi did don da buk to di.**
 – Los di el libro. (Tal vez no todavía lo tienen, o lo devolvieron.)  
-*me pasa vizita France.*
+**mi did vizite Franse.**
 – Visité Francia.  
-*me pasa ada gula bir.*
-– Yo solía bebir cerveza. / Tení la costumbre de bebir cerveza.
 
-*futa*
+**vil**
 (»ir a>>, »futuro>>)
 indica que un evento ocurrirá en el futuro.
 
-*ho futa sa guru.*
+**da vil_ es guru.**
 – Será docente.  
-*me no futa gula bir.*
+**mi no _vil_ gul bir.**
 – No voy a bebir una cerveza.
 

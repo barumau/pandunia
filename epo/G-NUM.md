@@ -37,11 +37,15 @@ Pli grandaj nombroj sekvas la saman logikon kiel supre.
 100'000'000 un cento mega  
 1'000'000'000 un kilo mega  
 
+Notu! La vortoj "billion" kaj "milliard" ne estas uzata en Pandunia,
+ĉar ilia uzado estas malsama inter landoj.
+Anstataŭ on devus diri **tauzen milion** (mil milionoj) aŭ **giga**.
+
 Por la nombroj pli grandaj ol 999, eblas uzi la oblajn prefiksojn el la Sistemo Internacia de Unuoj.
 La prefiksoj de la [Internacia sistemo de unuoj](https://eo.wikipedia.org/wiki/Internacia_sistemo_de_unuoj)
 (SI) estas uzataj en normala parolado en Pandunia.
 Ekzemple, oni dirus normale:  
-**bat giga hom viva a dunia.**  
+**bat giga person jive en Dunia.**  
 – Ok miliardoj da homoj vivas en la Mondo.
 
 |Prefikso  |Simbolo  |10-baze  | Decimale                          |
@@ -76,12 +80,12 @@ Nombro staras antaŭ la vorto aŭ vortoĉeno kies kvanton ĝi indikas.
 **multi sing**
 – multe da steloj
 
-**un dayi korse**
+**un dai kursi**
 – unu granda seĝo  
-**du dayi korse**
+**du dai kursi**
 – du grandaj seĝoj  
-**tri dayi korse**
-– tri grandaj seĝoj
+**tri hao kursi**
+– tri bonaj seĝoj
 
 
 ## Ordaj nombrovortoj
@@ -115,7 +119,7 @@ Tagoj de semajno estas nomigitaj laŭ astroj de la sola sistemo, kaj ili finiĝa
    – vendredo
 6. **shanidien**
    – sabato
-7. **soldien**
+7. **sordien**
    – dimanćo
 
 #### Monatoj

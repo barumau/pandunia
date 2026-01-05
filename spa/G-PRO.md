@@ -1,5 +1,5 @@
 
-# Pronombres
+# 4. Pronombres
 
 Pronombres pueden mantenerse en pie para sustantivos y frases nominales.
 
@@ -7,25 +7,25 @@ Pronombres pueden mantenerse en pie para sustantivos y frases nominales.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| *me*        | *memen*      |
+| **mi**      | **vi**       |
 | yo          | nosotros     |
-| *tu*        | *tumen*      |
+| **tu**      | **yu**       |
 | tú, usted   | ustedes      |
-| *ho*        | *homen*      |
+| **da**      | **di**       |
 | él, ella    | ellos, ellas |
 
 Todos los pronombres pueden usarse para todos los géneros.
 
 Los pronombres posesivos consisten en el pronombre personal y la partícula posesiva
-*di*.
+**se**.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| *me di*     | *memen di*   |
+| **mi se**   | **vi se**    |
 | mio         | nuestro      |
-| *tu di*     | *tumen di*   |
+| **tu se**   | **yu se**    |
 | tuyo        | de ustedes   |
-| *ho di*     | *homen di*   |
+| **da se**   | **di se**    |
 | suyo        | de ellos     |
 
 
@@ -33,21 +33,21 @@ Los pronombres posesivos consisten en el pronombre personal y la partícula pose
 
 El pronombre reflexivo se usa cuando el objeto de una oración es la misma como el sujeto.
 
-*se*
+**sef**
 – su mismo  
-*me viza se.*
+**mi vize sef.**
 – Me miro.  
-*memen viza se.*
+**vi vize sef.**
 – Nos miramos.
 
 La expresión **semon** se usa cuando dos o más personas performan la acción el uno al otro.
 
-*alale*
+**unotre**
 – el uno al otro
 
-*tu e me viza alale.*
+**mi e tu vize unotre.**
 – Yo y tú miramos el uno al otros.  
-*memen viza alale.*
+**vi vize unotre.**
 – Nos miramos.
 
 
@@ -56,23 +56,23 @@ La expresión **semon** se usa cuando dos o más personas performan la acción e
 Pronombres demostrativos se usan con sustantivos para hacerlos más espicificos.
 Los demostrativos en Pandunia son:
 
-*yi*
-– esto  
-*vi*
-– eso
+**da**
+– esto, eso  
+**di**
+– estos, esos
 
 El demostrativo proximal
-*yi*
+**da hir**
 indica cosas que están cerca del orador.
 El demostrativo distal
-*vi*
+**da der**
 indica cosas que están lejos del orador.
 
-*yi sa boni.*
+**da hir es gud.**
 – Esta (cosa) es buena.  
-*vi sa dusi.*
+**da der es dus.**
 – Esa (cosa) es mala.  
-**me vola yi buk, no vi.**
+**mi van da hir buk, no da der.**
 – Quiero este libro, no ese.
 
 Los demostrativos proximal y distal se usan para introducir objetos nuevos.
@@ -81,10 +81,10 @@ no espicifica distancia fisical,
 pero se usan cuando el orador ya mencionó el objeto o persona en cuestión,
 o es conocido por el oyente o es de interés actual en el discurso.
 
-*yi sa mau. ho vola yama vi mush.*
+**da hir es mau. da van yam da der mushu.**
 – Ese es gato.  Quiere comer ese ratón.
 
-*me hava un mau e un gau. li gau sa dai. ho yama multi yam.*
+**mi ave un mau e un vaf. da vaf es dai. da bi yam muche yam.**
 – Tengo un gato y un perro. El perro es grande. Come mucha comida.
 
 
@@ -92,62 +92,62 @@ o es conocido por el oyente o es de interés actual en el discurso.
 
 Los demostrativos se pueden usar para referir
 a entidades abstractas de discurso, no objetos concretos.
-*li*
+**da**
 refiere a cosas que se dijeron anteriormente,
-*yi*
+**da hir**
 refiere a cosas que se dicen actualmente, y
-*vi*
+**da der**
 refiere a cosas que se dirán en el futuro.
 
-*yi jumla sa korte.*
+**da hir jumla es korte.**
 – Esta oración es corta.
 
 Arriba,
-*yi jumla*
-('esta oración') refiere a la oración que se está hablando.
+**da hir jumla**
+(_esta oración_) refiere a la oración que se está hablando.
 
-*me sema vi: me ama tu.*
+**mi seme da der: mi love tu.**
 – Significo esto: te amo. (Significo que te amo.)  
-*me ama tu. me sema li.*
+**mi love tu. mi seme da.**
 – Te amo. Esa es la que significo.
 
 Arriba,
-*vi*
+**da der**
 refiere al contenido de la oración siguiente, y
-*li*
+**da**
 refiere al contenido de la oración previa.
 
 
 ## Pronombres interogativos
 
-*que*
+**vat**
 es pronombre interogativo para uso general.
 Funciona como las palabras españoles _qué_ y _cuál_.
 
-*que*
+**vat**
 – ¿qué?  
-*qui jan*
+**hu**
 – ¿quién?
 
 Antes de un adjetivo,
-*quo*
+**hau**
 significa «cuán».
 
-*quo novi?*
+**hau nove?**
 – ¿Cuán nuevo?  
-*quo kosti?*
+**hau koste?**
 – ¿Cuán caro? (¿Cuánto cuesta?)  
-*quo multi?*
+**hau muche?**
 – ¿Cuán muchos? (¿Cuántos?)  
-*quo dayi?*
+**hau dai?**
 – ¿Cuán grande?  
-*quo leti?*
+**hau let?**
 – ¿Cuán pequeño?
 
-*tu hava quo dayi mau?*
+**tu have hau dai mau?**
 – ¿Cuán grande gato es tu gato?
 
-<!--
+
 ## Tabla de "correlativos"
 
 | Categoría     | Pregunta      | Demonstrativo | Indefinido    | Colectivo     | Negativo      |
@@ -168,5 +168,4 @@ significa «cuán».
 | Cualidad      | cómo          | tal           | algún         | cada, todo    | ningún        |
 | **monta**     | **vat monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  |
 | Cantidad      | cuánto        | tanto         | algo, un poco | todo monto    | nada          |
--->
 

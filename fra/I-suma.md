@@ -5,13 +5,13 @@ Cette page se veut être un guide de base décrivant les traits principaux du Pa
 
 ### Alphabet et sons
 
-| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
-|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| IPA:      | a | b | ts~s | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ks~s | j | z~dz |
+![](http://www.pandunia.info/grafe/ABC.png "a b c d e f g h i j k l m n o p r s t u v z")
 
 Les voyelles **a, e, i, o, u** sont prononcées comme dans "bas pré si pot cou".
 
 Toutes les autres consonnes se prononcent comme en français à l'exception de :
+
+
 
 - **ch** qui se prononce  TCH comme dans _match_
 - **sh** qui se prononce CH comme dans _machine_
@@ -27,11 +27,11 @@ Toutes les autres consonnes se prononcent comme en français à l'exception de :
 
 | Personne | Singulier         | Pluriel      |
 |:---------|:-----------------:|:------------:|
-|          | **me**            | **memen**    |
+|          | **mi**            | **mimen**    |
 | Première | _je, me, moi_     | _nous_       |
 |          | **tu**            | **tumen**    |
 | Deuxième | _tu, te, toi ; vous (politesse)_ | _vous_ |
-|          | **ho**            | **homen**    |
+|          | **la**            | **damen**    |
 |Troisième |_il ou elle, le, lui_|_ils ou elles, les, leur_|
 
 ### Noms
@@ -60,35 +60,35 @@ Le nombre, le genre ou le caractère défini sont marqués par des mots complém
 The basic word order is subject–verb–object (SVO).
 L'ordre de base des mots dans une phrase est sujet - verbe - objet (SVO).
 
-**me ama tu.**
+**mi love tu.**
 – Je t'aime.
 
 Le temps, l'aspect et le mode sont indiqués à l'aide de particules et d'auxiliaires.
 **zai**
 indique le moment en cours.
-**ha**
+**hav**
 par son sens "déjà", marque l'aspect parfait.
-**pasa**
+**pas**
 marque le passé révolu.
-**futa**
+**vil**
 marque le futur.
 
-**me zai ama tu.**
+**mi zai love tu.**
 – Je suis en train de t'aimer. / Je t'aime en ce moment.  
-**me ha ama tu.**
+**mi hav love tu.**
 – Je l'ai (déjà) fait.  
-**me pasa ama tu.**
+**mi pas love tu.**
 – Je t'ai aimé. / Je t'aimais.  
-**me futa ama tu.**
+**mi vil love tu.**
 – Je t'aimerai.
 
 L'ordre des mots est inversé dans les phrases au passif.
 Les verbes au passif prennent la particule
-**beyu**.
+**be**.
 
-**tu beyu ama.**
+**tu be love.**
 – Tu es aimé.e.  
-**me beyu ama da tu.**
+**mi be love de tu.**
 – Je suis aimé.e de toi.
 
 
@@ -96,34 +96,34 @@ Les verbes au passif prennent la particule
 
 Les adjectifs se placent généralement devant le nom qu'ils modifient.
 
-**un novi idea**
+**un nove idea**
 – une nouvelle idée  
-**boni buk**
+**di gud buk**
 – _les livres bonnes_
 
 On compare les adjectifs grâce aux mots
-**max**
+**mor**
 (_plus_),
-**maxim**
+**mor... dan hol**
 (_le plus_),
-**min**
+**les**
 (_moins_),
-**minim**
+**les... dan hol**
 (_le moins_) et
-**par**
+**sim**
 (_aussi, tout autant_).
 Le point de comparison est introduit par
-**ka**
+**dan**
 (_que_).
 
-**yi idee sa max novi ka vi idee.**
+**ye idea es mor nove dan vo idea.**
 – Cette idée-ci est plus novatrice que cette idée-là.
 
 Les adverbes se placent généralement avant le nom qu'ils modifient, mais pas toujours.
 
-**me multi ama tu.**
+**mi multi love tu.**
 – Je beaucoup t'aime .  
-**me ama tu, multi.**
+**mi love tu, multi.**
 – Je t'aime beaucoup.
 
 
@@ -131,28 +131,28 @@ Les adverbes se placent généralement avant le nom qu'ils modifient, mais pas t
 
 Le mot **no** met le mot qui suit à la forme négative.
 
-**no me pero ho vola cepe le.**
+**no mi ama la vol sepe la.**
 – Pas moi mais lui [qui] veut le prendre.
-**me no vola cepe le.**
+**mi no vol sepe la.**
 – Je ne veux pas le prendre.  
-**me vola no cepe le.**
+**mi vol no sepe la.**
 – Je veux _ne pas le prendre_.  
-**me vola cepe no yi pero vi.**
+**mi vol sepe no ye ama vo.**
 – Je veux prendre _pas_ ceci_ mais cela.
 
 
 ### Questions
 
 Les mot interrogatif est
-**que**
+**ke**
 (_quoi, qui, qu'est-che que, qu'est-che qui_).
 
 C'est l'ordre des mots d'une phrase affirmative qui sert pour les questions.
 
-**tu ama que?**
+**tu love ke?**
 – Tu aimes qui ?  
-**qui man ama tu?**
+**ke man love tu?**
 – Quel homme aimes-tu ?  
-**tu ama ho quo multo?**
+**tu love da ke multi?**
 – Tu l'aimes combien ?
 

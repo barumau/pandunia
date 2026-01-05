@@ -1,5 +1,5 @@
 
-# Verbit
+# 8. Verbit
 
 ## Yleistä
 
@@ -12,25 +12,25 @@ eikä taivuttamalla verbiä niin kuin suomen kielessä.
 
 Verbin subjekti ilmaisee sen persoonan ja luvun.
 Esimerkiksi, verbi
-*sa*
+**es**
 ('olla') on samassa muodossa kaikissa persoonissa.
 
-*me sa doste.*
+**_mi_ es frende.**
 – Minä olen ystävä.  
-*tu sa doste.*
+**_tu_ es frende.**
 – Sinä olet ystävä.  
-*ho sa doste.*
+**_hi_ es frende.**
 – Hän on ystävä.  
-*memen sa doste.*
+**_vi_ es frende.**
 – Me olemme ystäviä.  
-*tumen sa doste.*
+**_yu_ es frende.**
 – Te olette ystäviä.  
-*homen sa doste.*
+**_di_ es frende.**
 – He ovat ystäviä.
 
 Subjektina voi olla myös substantiivi.
 
-*mau sa hevan.*
+**mau es hevan.**
 – Kissa on eläin.
 
 ## Ajan ja tavan ilmaiseminen
@@ -45,168 +45,112 @@ Pandunia ilmaistaa aikaa kahdella tavalla.
 Ensimmäisellä tavalla ilmaistaan ajan kohtaa suhteessa puheena olevaan hetkeen
 eli menneisyyttä, nykyisyyttä ja tulevaisuutta.
 The marker
-*paso*
+**did**
 ilmaisee mennyttä aikaa,
-*nuno*
+**nun**
 nykyistä aikaa ja
-*vilo*
+**vil**
 tulevaa aikaa.
 Ajan kohdan voi ilmaista myös erilaisilla ajan ilmauksilla, kuten *eilen*, *huomenna* ja *kaksi tuntia sitten*.
 
-*man* ***paso*** *yama ban.*
+**man** ***did*** **yam ban.**
 – Mies *söi* (ennen) leipää.  
-*man* ***nuno*** *yama ban.*
+**man** ***nun*** **yam ban.**
 – Mies *syö* (nyt) leipää.  
-*man* ***vilo*** *yama ban.*
+**man** ***vil*** **yam ban.**
 – Mies *tulee syömään* (tulevaisuudessa) leipää.
 
 Menneisyyden tuleisuus voidaan ilmaista kahdella ajankohdan apuverbillä.
 
-*man* ***paso vila*** *yama ban.*
+**man** ***did vil*** **yam ban.**
 – Mies *aikoi* (menneisyydessä) *syödä* (tulevaisuudessa) leipää.
 
 
 ### Ajan kulku
 
 Ajan kulkua eli aspektia ilmaisevilla apuverbeillä ilmaistaan tekemisen kestoa ja vaikutusta ajan virrassa.
-
-Toiminnan, tapahtuman tai olemisen suhde aikaan ilmaistaan panduniassa apuverbeillä.
-
-*shura*
-('alkaa')
-ilmaisee toiminnan alkamista tai siirtymistä uuteen tilanteeseen.
-
-*me shura fuka kote.*
-– Minä alan pitää takkia. = Minä panen takin päälle.  
-*kaguje shura piru.*
-– Paperi alkaa palaa.  
-*tu shura yama.*
-– Sinä alat syödä.
-
-*fina*
-('loppua, lakata')
-ilmaisee toiminnan loppumista tai lopettamista.
-
-*homen fina haha.*
-– He lakkaavat nauramasta.  
-*kaguje fina piru.*
-– Paperi lakkaa palamasta.  
-*tu fina yama.*
-– Sinä lakkaat syömästä.
-
-*pula*
-('täyttää, viedä loppuun')
-ilmaisee, että toiminta viedään loppuun asti.
-
-*tu pula yama piza.*
-– Sinä söit pitsan (kokonaan).  
-*me pula viza filme.*
-– Minä katsoin elokuvan (kokonaan).
-
-<!--
-*parto*
-('osittain')
-ilmaisee, että toiminta tehdään vain osittain.
-
-*tu parto yama piza.*
-– Sinä söit pitsaa (osittain).  
-*me parto viza filme.*
-– Minä katsoin elokuvaa (osittain).
--->
-
-*dura*
-('kestää, jatkua')
-ilmaisee toiminnan kestoa.
-
-*tu dura yama piza.*
-– Sinä syöt yhä pitsaa.
+Panduniassa on kaksi ajan kulkua ilmaisevaa apuverbiä
+**bi** ja **hav**.
 
 Apuverbi
-*sta*
+**bi**
 ilmaisee, että tekeminen on meneillään puheena olevalla hetkellä.
 Puheena oleva hetki voidaan ilmaista ajankohdan apuverbillä.
 
-*tu sta yama piza.*
-– *Sinä olet syömässä pitsaa.  
-*me sta viza filme.*
-– Minä olen katsomassa elokuvaa.
+**man** ***bi*** **yam ban.**
+– Mies oli tai on syömässä leipää.  
+**man** ***did bi*** **yam ban.**
+– Mies oli syömässä leipää.  
+**man** ***nun bi*** **yam ban.**
+– Mies on syömässä leipää.  
+**man** ***vil bi*** **yam ban.**
+– Mies tulee olemaan syömässä leipää.
 
 Apuverbi
-*ha*
+**hav**
 ilmaisee, että tekeminen on päättynyt
 ja sen seuraukset vaikuttavat puheena olevaan hetkeen.
 Puheena oleva hetki voidaan ilmaista ajankohdan apuverbillä.
 
-*me ha dona buk pa homen.*
-– Minä olen antanut kirjan heille. (Siis se ei ole minulla.)  
-*homen no ha redona le pa me.*
-– He eivät ole antaneet sitä takaisin minulle. (Siis se on yhä heillä.)  
-*me ha vena pa pol.*
-– Minä olen saapunut kaupunkiin. (Siis olen yhä siellä.)
+**man** ***hav*** **yam ban.**
+– Mies oli tai on syönyt leipää.  
+**man** ***did hav*** **yam ban.**
+– Mies oli syönyt leipää.  
+**man** ***nun hav*** **yam ban.**
+– Mies on syönyt leipää.  
+**man** ***vil hav*** **yam ban.**
+– Mies tulee olemaan syönyt leipää.
 
-<!--
-*ho _ha_ sa guru.*
-– Hän on ollut opettaja.  
 
-Huom! On mahdollista kieltää apuverbi
-*ha*
-ja pääverbi erikseen.
-
-*me no ha gula alkol.*
-– Minä en ole juonut alkoholia.  
-*me ha no gula alkol.*
-– Minä olen yhä juomatta alkoholia.  
--->
-
-<!--
-### Tapamuodot
+### Konditionaali
 
 Konditionaali eli ehtotapa ilmaisee, että teko tai tapahtuma riippuu toisesta teosta tai tapahtumasta.
 Konditionaalia ilmaistaan panduniassa apuverbillä
-*vud*,
+**vud**,
 mikä vastaa suomen kielen verbin *isi*-muotoa.
 Sitä käytetään sekä päälauseessa että alisteisissa sivulauseissa.
 
-*me* ***vud*** *van yam.*
+**mi** ***vud*** **van yam.**
 – Minä haluaisin syödä.  
-*me* ***vud*** *go to Dubai.*
+**mi** ***vud*** **go to Dubai.**
 – Minä menisin Dubaihin.  
-*me* ***vud*** *go, if tu vud las me.*
+**mi** ***vud*** **go, if tu vud las mi.**
 – Minä menisin, jos sinä päästäisit minut.  
-*tu no* ***vud*** *es suka, if me* ***vud*** *go.*
+**tu no** ***vud*** **es suka, if mi** ***vud*** **go.**
 – Sinä et olisi iloinen, jos minä menisin.
 
 Apuverbi
-*shud*
+**shud**
 ('pitää, pitäisi') ilmaisee jonkinlaista odotusta, kuten velvollisuutta, pakkoa, vaatimusta, neuvoa tai todennäköisyyttä.
 
-*ma voka memen. memen shud go.*
+**ma voka vi. vi shud go.**
 – Äiti kutsuu meitä. Meidän pitäisi mennä.  
-*hi shud hav vena pre nun.*
+**hi shud hav kom pre nun.**
 – Hänen olisi pitänyt tulla ennen tätä.  
-*evri von shud vote.*
+**evri von shud vote.**
 – Kaikkien pitäisi äänestää.
 
 Imperatiivi ilmaisee käskyä.
 Panduniassa imperatiivi muodostetaan apuverbillä
-*shal*.
+**shal**.
 Sen avulla voi käskeä kaikkia persoonia eikä vain toista.
 
-*memen shal go!*
+**vi shal go!**
 – Menkäämme! ~ Mennään!  
-*homen shal kurse!*
+**di shal kurse!**
 – Juoskoon!
 
 Apuverbin
-*shal*
+**shal**
 avulla voi käskeä myös toista persoonaa,
 mutta on tavallisempaa käyttää pelkkää verbiä käskevään äänensävyyn,
 jotta käsky olisi napakampi ja tehokkaampi.
 
-*tu shal vena!* = *vena!*
+**tu shal kom!** = **kom!**
 – Tule!  
-*tumen shal vena!* = *vena!*
+**yu shal kom!** = **kom!**
 – Tulkaa!
+
 
 ### Yhteenveto verbimuodoista
 
@@ -223,75 +167,75 @@ jotta käsky olisi napakampi ja tehokkaampi.
     <tr>
         <th>Yleinen</th>
         <td>
-            <strong><em>ho paso yama</em></strong><br/>
+            <strong><em>hi did yam</em></strong><br/>
             'hän söi'
         </td>
         <td>
-            <strong><em>ho yama</em></strong><br/>
+            <strong><em>hi yam</em></strong><br/>
             'hän syö'
         </td>
         <td>
-            <strong><em>ho vil yama</em></strong><br/>
+            <strong><em>hi vil yam</em></strong><br/>
             'hän tulee syömään'
         </td>
         <td>
-            <strong><em>ho vud yama</em></strong><br/>
+            <strong><em>hi vud yam</em></strong><br/>
             'hän söisi'
         </td>
     </tr>
     <tr>
         <th>Perfekti</th>
         <td>
-            <strong><em>ho paso ha yama</em></strong><br/>
+            <strong><em>hi did hav yam</em></strong><br/>
             'hän oli syönyt'
         </td>
         <td>
-            <strong><em>ho ha yama</em></strong><br/>
+            <strong><em>hi hav yam</em></strong><br/>
             'hän on syönyt'
         </td>
         <td>
-            <strong><em>ho vil ha yama</em></strong><br/>
+            <strong><em>hi vil hav yam</em></strong><br/>
             'hän tulee olemaan syönyt'
         </td>
         <td>
-            <strong><em>ho vud ha yama</em></strong><br/>
+            <strong><em>hi vud hav yam</em></strong><br/>
             'hän olisi syönyt'
         </td>
     </tr>
     <tr>
         <th>Kesto</th>
         <td>
-            <strong><em>ho paso sta yama</em></strong><br/>
+            <strong><em>hi did bi yam</em></strong><br/>
             'hän oli syömässä'
         </td>
         <td>
-            <strong><em>ho sta yama</em></strong><br/>
+            <strong><em>hi bi yam</em></strong><br/>
             'hän on syömässä'
         </td>
         <td>
-            <strong><em>ho vil sta yama</em></strong><br/>
+            <strong><em>hi vil bi yam</em></strong><br/>
             'hän tulee olemaan syömässä'
         </td>
         <td>
-            <strong><em>ho vud sta yama</em></strong><br/>
+            <strong><em>hi vud bi yam</em></strong><br/>
             'hän olisi syömässä'
         </td>
     <tr>
         <th>Keston perfekti</th>
         <td>
-            <strong><em>ho paso ha sta yama</em></strong><br/>
+            <strong><em>hi did hav bi yam</em></strong><br/>
             'hän oli ollut syömässä'
         </td>
         <td>
-            <strong><em>ho ha sta yama</em></strong><br/>
+            <strong><em>hi hav bi yam</em></strong><br/>
             'hän on ollut syömässä'
         </td>
         <td>
-            <strong><em>ho vil ha sta yama</em></strong><br/>
+            <strong><em>hi vil hav bi yam</em></strong><br/>
             'hän tulee olemaan syönyt'
         </td>
         <td>
-            <strong><em>ho vud ha sta yama</em></strong><br/>
+            <strong><em>hi vud hav bi yam</em></strong><br/>
             'hän olisi ollut syönyt'
         </td>
     </tr>
@@ -299,7 +243,7 @@ jotta käsky olisi napakampi ja tehokkaampi.
         <th>Imperatiivi</th>
         <td></td>
         <td>
-            <strong><em>yama!</em></strong><br/>
+            <strong><em>yam!</em></strong><br/>
             'Syö!'
         </td>
         <td></td>
@@ -321,75 +265,75 @@ jotta käsky olisi napakampi ja tehokkaampi.
     <tr>
         <th>Yleinen</th>
         <td>
-            <strong><em>ho paso yamu</em></strong><br/>
+            <strong><em>hi did ben yam</em></strong><br/>
             'se syötiin'
         </td>
         <td>
-            <strong><em>ho yamu</em></strong><br/>
+            <strong><em>hi ben yam</em></strong><br/>
             'se syödään'
         </td>
         <td>
-            <strong><em>ho vil yamu</em></strong><br/>
+            <strong><em>hi vil ben yam</em></strong><br/>
             'se tullaan syömään'
         </td>
         <td>
-            <strong><em>ho vud yamu</em></strong><br/>
+            <strong><em>hi vud ben yam</em></strong><br/>
             'se syötäisiin'
         </td>
     </tr>
     <tr>
         <th>Perfekti</th>
         <td>
-            <strong><em>ho paso ha yamu</em></strong><br/>
+            <strong><em>hi did hav ben yam</em></strong><br/>
             'se oli syöty'
         </td>
         <td>
-            <strong><em>ho ha yamu</em></strong><br/>
+            <strong><em>hi hav ben yam</em></strong><br/>
             'se on syöty'
         </td>
         <td>
-            <strong><em>ho vil ha yamu</em></strong><br/>
+            <strong><em>hi vil hav ben yam</em></strong><br/>
             'se tulee olemaan syöty'
         </td>
         <td>
-            <strong><em>ho vud ha yamu</em></strong><br/>
+            <strong><em>hi vud hav ben yam</em></strong><br/>
             'se olisi syöty'
         </td>
     </tr>
     <tr>
         <th>Kesto</th>
         <td>
-            <strong><em>ho paso sta yamu</em></strong><br/>
+            <strong><em>hi did bi ben yam</em></strong><br/>
             'se oli syötävänä'
         </td>
         <td>
-            <strong><em>ho sta yamu</em></strong><br/>
+            <strong><em>hi bi ben yam</em></strong><br/>
             'se on syötävänä'
         </td>
         <td>
-            <strong><em>ho vil sta yamu</em></strong><br/>
+            <strong><em>hi vil bi ben yam</em></strong><br/>
             'se tulee olemaan syötävänä'
         </td>
         <td>
-            <strong><em>ho vud sta yamu</em></strong><br/>
+            <strong><em>hi vud bi ben yam</em></strong><br/>
             'se olisi syötävänä'
         </td>
     <tr>
         <th>Keston perfekti</th>
         <td>
-            <strong><em>ho paso ha sta yamu</em></strong><br/>
+            <strong><em>hi did hav bi ben yam</em></strong><br/>
             'se oli ollut syötävänä'
         </td>
         <td>
-            <strong><em>ho ha sta yamu</em></strong><br/>
+            <strong><em>hi hav bi ben yam</em></strong><br/>
             'se on ollut syötävänä'
         </td>
         <td>
-            <strong><em>ho vil ha sta yamu</em></strong><br/>
+            <strong><em>hi vil hav bi ben yam</em></strong><br/>
             'se tulee olemaan ollut syötävänä'
         </td>
         <td>
-            <strong><em>ho vud ha sta yamu</em></strong><br/>
+            <strong><em>hi vud hav bi ben yam</em></strong><br/>
             'se olisi ollut syötävänä'
         </td>
     </tr>
@@ -397,11 +341,10 @@ jotta käsky olisi napakampi ja tehokkaampi.
         <th>Imperatiivi</th>
         <td></td>
         <td>
-            <strong><em>yamu!</em></strong><br/>
+            <strong><em>ben yam!</em></strong><br/>
             'Tule syödyksi!'
         </td>
         <td></td>
         <td></td>
     </tr>
 </table>
--->

@@ -6,7 +6,7 @@ hide:
 
 # Pandunia
 
-*sal, dunia!*
+**sal, dunia!**
 – ¡Hola, mundo!
 
 ¡Les damos la bienvenida a Pandunia, el idioma auxiliar que es equitativo a nivel global! 
@@ -36,7 +36,7 @@ porque esto podría mejorar la calidad de la comunicación internacional.
 ## ¡Aprende ahora!
 
 Pandunia está escrito con el alfabeto latino (usado en Español e inglés)
-A B C D E F G H I J K L M N O P Q R S T U V X Y Z
+A B C Ch D E F G H I J K L M N O P R S Sh T U V X Y Z
 
 Las únicas letras que no son como en el español son:
 **c** = ts como _Jets_.
@@ -55,85 +55,81 @@ Un sonido = una letra.
 
 El acento cae en la vocal que está antes de la última consonante de la palabra raíz.
 Los prefijos y sufijos no llevan acento o a lo mucho llevan un pequeño acento secundario.  
-*múlti hóm kán báshe Pandúnia en dúnia.*
+**múlti hóm kán báshe Pandúnia en dúnia.**
 – Muchas personas pueden hablar pandunia en el mundo.
 
 Las palabras en Pandunia se mantienen siempre estables.
 No existen casos de formas _conjugadas_ para tiempos, modos, singulares o plurales, etc. 
 El orden de las oraciones normalmente es sujeto–verbo–objeto
 quien ejecuta la acción va primero, luego va lo que se realiza y finalmente quien la recibe. 
-*me ama tu.*
+**mi ame tu.**
 – yo los amo a ustedes.
 
 ![](http://www.kupsala.net/grafe/Freepik_love.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 El orden también es el mismo en las preguntas
-*tu ama que?*
+**tu ame ke?**
 – ¿A quién amas?  
-*tu ama me, no?*
+**tu ame mi, he?**
 – ¿acaso me amas?
 
 El singular y el plural se indican con palabras de número.
 
-*buk*
+**buk**
 – uno o más libros  
-*un buk*
+**un buk**
 – (un) libro  
-*du buk*
+**du buk**
 – dos libros  
-*tri buk*
+**tri buk**
 – tres libros  
-*multi buk*
+**multi buk**
 – (varios) libros
 
 Las palabras de comparación:
-*max* /mas/
+**max** /mas/
 – más (mayor);
-*maxim*
-'la más... (de todas)',
-*min*
+**min**
 – menos (menor);
-*minim*
-'la menor... (de todas)',
-*par*
-– lo mismo, igual, tanto, y
-*ka*
-– que, como.
+**ka**
+– que, como; y
+**sim**
+– lo mismo, igual, tanto.
 
-*me sa max boni ka tu.*
+**mi es max bon ka tu.**
 – Soy mejor (_más bueno_) que ustedes.  
-*no, mesa par boni ka tu.*
+**no, mi es sim bon ka tu.**
 – No, soy tan bueno como ustedes.  
-*ho loga max rapido ka tu.*
+**da logu max rapid ka tu.**
 – Él/ella habla más rápido que ustedes.
 
 El tiempo se expresa con verbos auxiliares:
-*pasa*
+**pas**
 – eventos pasados  
-*futa*
-– eventos futuros  
-*ha*
+**vil**
+– ewentos futuros  
+**ha**
 – eventos pasados que sigen vigentes  
-*sta*
+**zai**
 – eventos que están sucediendo actualmente
 
-*homen pasa lesa me di buk.*
+**damen pas lese mi su buk.**
 – Leyó mi libro.  
-*memen ha lese multi buk.*
+**mimen ha lese multi buk.**
 – Hemos leído muchos libros.  
-*me sta lesa buk.*
+**mi zai lese un buk.**
 – Estoy leyendo un libro.  
-*tu futa basha pandunia.*
+**tu vil bashe Pandunia.**
 – Hablas Pandunia.
 
 La partícula al final de la oración expresa la finalidad con la que se dijo,
 por ejemplo si era una pregunta, una orden o una afirmación.  
-*tu ama kafe, he?*
+**tu ame kafe, he?**
 – Ustedes aman el café, ¿no? (pregunta)  
-*tu ama kafe, ya.*
+**tu ame kafe, ya.**
 – Verdaderammente, ustedes aman el café. (afirmación)  
-*tu ame kafe, ne?*
+**tu ame kafe, ne?**
 – ¿Aman el café?, o... (busca una respuesta)
 
 
@@ -173,7 +169,7 @@ Puedes encontrarles en varios lugares de internet:
 ![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "mimen bashe pandunia!")  
 <small>Imagen por [Freepik](http://www.freepik.com)</small>
 
-Puedes contactar mail al creador de Pandunia, Risto Kupsala, en el correo electrónico
+Puedes contactar mail al creador de Pandunia, Risto Kupsala, en al correo electrónico
 [risto@pandunia.info](mailto:risto@pandunia.info)
 y en los lugares anteriormente citados.
 
@@ -181,6 +177,5 @@ y en los lugares anteriormente citados.
 
 ![](http://www.pandunia.info/grafe/bandera.png "La bandera di Pandunia")
 
-***ja holi dunia, pa holi dunia***  
+**ze hol dunia, do hol dunia**  
 – de todo el mundo para todo el mundo
-

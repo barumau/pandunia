@@ -1,4 +1,3 @@
-
 # Pandunia - the evenly global helping language
 
 ## Introduction
@@ -212,10 +211,10 @@ The place of the stress is decided by two simple rules.
 In the examples that follow, primary accent is indicated by an acute accent (*á*) and secondary accent by a grave accent (*à*) over the first vowel of a stressed syllable.
 
 1. Root words are stressed on the syllable that is before the last consonant of the word.  
-   **hálo! mí vóla lóga bóni dúnia báshe.**  
+   **hálo! mí ván lóga da gúd dúnia básh.**  
    (_Hello! I want to speak the good world language._)
 2. Derived and compound words are stressed according to their components so that the primary stress is in the main word.  
-   **pandúnia sa dèmokráti báshe.**  
+   **pandúnia es dèmokrátik básh.**  
    (_Pandunia is a democratic language._)
 
 Regular stress is easier to learn and more comfortable to use
@@ -378,7 +377,7 @@ The personal pronouns are among the most frequently occuring words.
 
 The first-person pronoun often begins with *m-* even in unrelated languages,
 for example English _me_, French _moi_, Spanish _me_, Hindi _main_, Finnish _minä_, Igbo _mụ_, Kongo _mu_, Swahili _mimi_, and Zulu _mina_.
-In Pandunia it is **me** (_I_, _me_).
+In Pandunia it is **mi** (_I_, _me_).
 
 The second-person pronoun
 **tu**
@@ -392,31 +391,29 @@ So it covers the English third-person pronouns _he_, _she_ and _it_, all at once
 
 | English    | Pandunia   | Chinese    |
 |------------|------------|------------|
-| I          | me         | wǒ         |
+| I          | mi         | wǒ         |
 | you        | tu         | nǐ         |
 | he/she/it  | ho         | tā         |
-| we         | memen      | wǒmen      |
+| we         | mimen      | wǒmen      |
 | you all    | tumen      | nǐmen      |
 | they       | homen      | tāmen      |
 
 The possessive pronouns follow the super simple pattern of Standard Chinese.
-Simply add
-**di**
-to form the possessive, as below.
+Simply add **se** to form the possessive, as below.
 
 | English    | Pandunia   | Chinese    |
 |------------|------------|------------|
-| my         | me di      | wǒ de      |
+| my         | mi di      | wǒ de      |
 | your       | tu di      | nǐ de      |
 | his/her/its| ho di      | tā de      |
-| our        | memen di   | wǒmen de   |
+| our        | mimen di   | wǒmen de   |
 | your       | tumen di   | nǐmen de   |
 | their      | homen di   | tāmen de   |
 
 The personal pronouns in Pandunia attain three important goals.
 
 1. The basic pronouns
-   (**me**, **tu**, **ho**)
+   (**mi**, **tu**, **ho**)
    look and sound distinct.
 2. The plurals and the possessives are built in a systematic way.
    They are not only a bunch of random words.
@@ -433,7 +430,7 @@ The normal sentence word order is subject–verb–object
 – just like in English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  me ama tu, tu ama me.
+    Pandunia:  mi love tu, tu love mi.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The auxiliary verb
@@ -449,27 +446,27 @@ is used when the object of the action comes first in the sentence.
 but it is also close to some uses of English *to be*.
 
     English:   It can not be eaten.
-    Pandunia:  homen no pota bi yam.
+    Pandunia:  homen no kan bi yam.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I ask him to drink coffee.
-    Pandunia:  me pleza ho yama kafe.
+    Pandunia:  mi ples ho yam kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words.
 There's no plural ending like -s in English.
 Also verbs are not conjugated.
 In Pandunia, one word,
-**sa**,
+**es**,
 is used instead of _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  ho sa aple.
+    Pandunia:  ho es aple.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  homen sa aple.
+    Pandunia:  homen es aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 

@@ -12,9 +12,9 @@
 
 2.  **Prononco kaj skribado**
 
+    La skribsistemo estas simpla kaj laŭregula.
     Ĉiu vorto elparoliĝas kiel ĝi skribiĝas.
     Neniu litero estas silenta.
-
     Nur minusklaj literoj estas necesaj.
 
     [Legu pli](G-ABC.md).
@@ -23,68 +23,65 @@
 
     La akcento estas sur la silabo, kiu estas antaŭ la lasta konsonanto.
 
-    [Legu pli](G-PoS.md).
+4. **Vortklaso**
 
-4.  **Vortklasaj markiloj**
+    Pandunia estas analiza lingvo.
+    Tio signifas, ke ĝiaj vortoj ne fleksiĝas aŭ ŝanĝas sian formon pro gramatiko.
+    Tial la sama vorto povas funkcii en malsamaj gramatikaj roloj,
+    ekzemple kiel substantivo, verbo, adjektivo aŭ adverbo,
+    sen ŝanĝo de formo.
+    Vortformoj ŝanĝiĝas nur kiam la signifo de la vorto ŝanĝiĝas.
 
-    Pandunia vortoj fariĝas de radiko kaj vortklasa markilo.
-    La vortklasaj markiloj estas vokalaj finaĵoj, kiuj klare montras la vortklason de la vorto:
-    adjektivoj finiĝas per *-i*,
-    adverboj per *-o*,
-    verboj per *-a* kaj *-u*,
-    kaj substantivoj per *-e* aŭ iu alia litero.
-
-    Ĉi tiu regula kaj efika sistemo estas ŝlosila faranto de la gramatika klareco de Pandunia,
-    ĉar ĝi ebligas facilan derivadon de novaj vortoj el ununura radikvorto.
+    Ĉi tiu kohera sistemo estas ŝlosila faktoro por la gramatika simpleco de Pandunia
+    ĉar ĝi ebligas rektan komunikadon sen vortformaj gramatikaj eraroj.
 
     [Legu pli](G-PoS.md).
 
 5.  **Pronomoj**
 
     La personaj pronomoj estas:  
-    *me*
+    *mi*
     'mi',
     *tu*
     'vi (ununombre)',
     *ho*
     'ĝi, li aŭ ŝi',
-    *memen*
+    *mimen*
     'ni',
     *tumen*
     'vi (multenombre)',
     *homen*
     'ili'.
-
+    
     La posedaj pronomoj estas:  
-    *me di* ~ *mi*
+    *mi di*
     'mia',
-    *tu di* ~ *ti*
+    *tu di*
     'via',
-    *ho di* ~ *hi*
+    *ho di*
     'ĝia, lia aŭ ŝia',
-    *memen di*
+    *mimen di*
     'nia',
     *tumen di*
     'via',
     *homen di*
     'ilia'.
-
+    
     La demandaj pronomoj estas:  
-    *que*
+    *ke*
     'kio',
-    *qui jan*
+    *ke jan*
     'kiu',
-    *que di* ~ *qui jan di*
+    *ke jan di*
     'kies'.
 
     [Legu pli](G-PRO.md).
 
 6.  **Substantivoj**
 
-    Substantivoj ne havas deviga finaĵo,
-    sed ili kutime finiĝas per *-e*, *-ia* aŭ konsonanto.
-    Ili ŝanĝiĝas nek laŭ nombro nek laŭ genro.
-    Nature, ili estas nek virgenraj, nek ingenraj, nek ununombraj, nek multnombraj.
+    Substantivoj neniam ŝanĝiĝas por indiki nombron, kazon aŭ genron.
+    La nedifinaj artikoloj estas singulare **un** kaj plurale **som**.
+    La difinaj artikoloj estas singulare **da** kaj plurale **di**.
 
 7.  **Nombrovortoj**
 
@@ -103,7 +100,7 @@
     Miloj:
     1000 *un kil*, 2000 *du kil*, 3000 *tri kil*,
     ktp.
-
+    
     Kvantaj nombrovortoj iĝas ordaj kiam ili estas metita post la substantivo.
 
     *parte un*
@@ -118,12 +115,26 @@
 
 8.  **Adjektivoj**
 
-    Adjektivoj finiĝas per *-i*,
-    kaj ili antaŭas la vorton, kiun ili modifas.
-
-    *rapi loge*  
-    'rapida parolo'
-
+    Adjektivoj kaj adverboj havas saman formon.
+    Ili antaŭas la vorton, kiun ili modifas.
+    
+    *un rapid loge*
+    – rapida parolo  
+    *tu rapid loge.*
+    – Vi rapid parolas.
+    
+    La adjektivoj estas ĉiam metita antaŭ la substantivo, kies sencon ili modifas.
+    
+    -   La komparo de egaleco estas
+        **par...ka**
+        (tiom...kiel).
+    -   La komparo de plieco estas
+        **max...ka**
+        (pli...ol).
+    -   La komparo de malplieco estas
+        **min...ka**
+        (malpli...ol).
+    
     [Legu pli](G-ADJ.md).
 
 9.  **Adverboj**
@@ -142,51 +153,60 @@
 
 10. **Verboj**
 
-    Progresaj verboj finiĝas per *-a*
-    kaj uzas la vortordon subjekto–verbo–objekto.
-
-    *me yama aple.*  
-    'Mi manĝas pomojn.'
-
-    Regresaj verboj finiĝas per *-u*
-    kaj uzas la vortordon objekto–verbo–subjekto.
-
-    *aple yamu.*  
-    'Pomoj estas manĝata.'
-
+    Verboj ne ŝanĝiĝas laŭ persono, nombro aŭ tenco.
+    Helpaj verboj indikas tencon, aspekton kaj modon.
+    
+    -   La helpverbo
+        **zai**
+        indikas daŭran agon.
+    -    La helpverbo
+         **leu**
+         indikas kompletan agon, kies rezulto influas la nunan situacion.
+    -    La helpverbo
+         **pas**
+         indikas pasintan agon.
+    -    La helpverbo
+         **vil**
+         indikas estontan agon.
+    
     [Legu pli](G-V.md).
 
 11. **Vortordo**
 
-    La normalaj vortordoj estas subjekto–verbo–objekto (SVO)
-    kaj subjekto–objekto–verbo (SOV).
+    La normala vortordo estas subjekto–verbo–objekto.
     La sama ordo estas uzata kaj en deklaroj kaj en demandoj.
-
-    La objekto de transitiva verbo povas roli kiel la subjekto de sekvanta verbo en la frazo.
-    Tia strukturo nomiĝas la "ĉarnira strukturo".
-
-    *me pleza tu loga pandunia.*  
-    'Mi petas vin (por) paroli pandunion.'
-    Eblas forigi pronomon kiam ĝia senco estas evidenta.
-
-    *me qua tu basha pandunia?* → *qua tu basha pandunia?*  
-    'Ĉu vi parolas panlingvon?'
-
-    *me pleza tu loga klaro.* →  *pleza loga klaro.*  
-    'Bonvolu paroli klare.'
+    
+    Pasiva frazo estas kreita per helpo de verbo
+    *bi*.
+    
+    *pandunia bi loge.*
+    – Pandunia estas parolita.  
+    *bi loge pandunia.*
+    – Oni parolas pandunian.
+    
+    En la **ĉarnira konstruo** la objekto de la unua verbo
+    rolas kiel la subjekto de la dua verbo.
+    
+    *mi ples tu loge pandunia.*
+    – Mi petas ke vi parolas Pandunia.
+    
+    Oni povas forĵeti pronomojn kiam ili estas nenecesaj.
+    
+    *_mi_ ples _tu_ loge pandunia.*
+    → *ples logu pandunia.*  
+    – Bonvolu paroli Pandunian.
 
     [Legu pli](G-P.md).
 
-12. Vortfarado
+12. **Vortfarado**
 
     En Pandunia, vortoj estas ŝanĝita nur kiam ilia signifo ŝanĝiĝas.
-    Vortoj neniam ŝanĝiĝas por indiki gramatikaĵojn
-    (escepte de la du verbfinaĵoj).
-
+    Vortoj neniam ŝanĝiĝas por indiki gramatikaĵojn.
+    
     Oni povas krei novajn vortojn kunmetante aliajn vortojn.
     La ĉefa vorto ĉiam staras je la fino.
-    Liga vokalo -o- estas metita en centron.
-
+    Liga vokalo *-o-* povas esti metita en centron.
+    
     *hur-*
     'libero' +
     *ist-*
@@ -200,6 +220,15 @@
     'kesto' →
     *postosinduk*
     'leterkesto'
+
+    La konekta vokalo, *-o-*, povas esti metita inter la elementojn precipe en kunmetitaj vortoj, kiuj venas de la greka lingvo.
+
+    *dem*
+    ('popolo') +
+    *kratia*
+    ('regado') =
+    *demokratia*
+    ('demokratio')
 
     [Legu pli](G-AFX.md).
 

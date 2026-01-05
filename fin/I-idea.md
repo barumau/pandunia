@@ -1,4 +1,3 @@
-
 # Pandunia - tasapuolinen yhteiskieli
 
 ## Näkökulmia maailmasta
@@ -165,36 +164,21 @@ Pandunian persoonapronominit ovat hyvä esimerkki sanojen kansainvälisyydestä.
 
 |Suomi | Englanti| Pandunia | Kiina   |
 |------|---------|----------|---------|
-| minä | I       | me       | wǒ      |
+| minä | I       | mi       | wǒ      |
 | sinä | you     | tu       | nǐ      |
-| hän  | he/she  | ho       | tā      |
-| me   | we      | memen    | wǒmen   |
+| hän  | he/she  | da       | tā      |
+| me   | we      | mimen    | wǒmen   |
 | te   | you     | tumen    | nǐmen   |
-| he   | they    | homen    | tāmen   |
+| he   | they    | damen    | tāmen   |
 
-Huom. Kolmannen persoonan pronomini
-**ho**
-viittaa kaikkiin sukupuoliin niin kuin lähteenä olevissa hindi-urdussa ja bantukielissä – sekä suomessa!
+Huom. Kolmannen persoonan pronomini **ye** viittaa kaikkiin sukupuoliin niin kuin lähteenä olevissa hindi-urdussa ja bantukielissä – sekä suomessa!
 
-Persoonapronominien omistusmuodot noudattavan kiinan superhelppoa mallia.
-Lisää vain
-**di**
-perusmuotoon!
-
-| Suomi  | Englanti   | Pandunia   | Kiina      |
-|--------|------------|------------|------------|
-| minun  | my         | me di      | wǒ de      |
-| sinun  | your       | tu di      | nǐ de      |
-| hänen  | his/her/its| ho di      | tā de      |
-| meidän | our        | memen di   | wǒmen de   |
-| teidän | your       | tumen di   | nǐmen de   |
-| heidän | their      | homen di   | tāmen de   |
 ## Helppo lauserakenne
 
 Pandunian yleisin sanajärjestys on subjekti-predikaatti-objekti, joka on myös yleisin sanajärjestys englannissa ja kiinassa.
 
     Englanti:  I love you, and you love me.
-    Pandunia:  me ama tu, tu ama me.
+    Pandunia:  mi ame tu, i tu ame mi.
     Kiina:     Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 Objektin voi siirtää lauseen alkun apuverbin **be** avulla.
@@ -206,31 +190,29 @@ Objektin voi siirtää lauseen alkun apuverbin **be** avulla.
 **be** on lainaa kiinan kielestä, mutta sen käyttö muistuttaa myös joitakin englannin olla-verbin "to be" käyttötapoja.
 
     Englanti:  It can not be eaten.
-    Pandunia:  homen no pota bi yam.
+    Pandunia:  da no bil be yam.
     Kiina:     Tā bù néng bèi chī. (它不能被吃。)
 
 Kuten kiinassa, panduniassa ei tarvitse merkitä infiniittimuotoista verbiä, mikä tehdään englannissa artikkelilla "to".
 
     Englanti:  I invite him to drink coffee.
-    Pandunia:  me pleza ho yama kafe.
+    Pandunia:  mi ples da yam kafe.
     Kiina:     Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
-Panduniassa ja kiinassa sama substantiivimuoto käy sekä yksikössä että monikossa.
-Siis englannin kielen tapaista monikon päätettä (-s) ei ole.
-Molemmissa kielissä ei myöskään taivuteta verbejä persoona- eikä aikamuodoissa.
+Panduniassa ja kiinassa sama substantiivimuoto käy sekä yksikössä että monikossa. Siis englannin kielen tapaista monikon päätettä (-s) ei ole. Molemmissa kielissä ei myöskään taivuteta verbejä persoona- eikä aikamuodoissa.
 
     Englanti:  It is an apple.
-    Pandunia:  ho sa aple.
+    Pandunia:  da es aple.
     Kiina:     Tā shì píngguǒ. (他是苹果。)
 
     Englanti:  They are apples.
-    Pandunia:  homen sa aple.
+    Pandunia:  damen es aple.
     Kiina:     Tāmen shì píngguǒ. (他们是苹果。)
 
 
 
 ## Pandunia - koko maailman kieli
 
-![](http://www.pandunia.info/grafe/bandera.png "Pandunian lippu")
+![](http://www.pandunia.info/bander/bander.png "Pandunian lippu")
 
 

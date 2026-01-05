@@ -37,10 +37,14 @@ Greater numbers follow the same logic as above.
 100'000'000 un cento mega  
 1'000'000'000 un kilo mega  
 
+Note: The words "billion" and "milliard" are not used in Pandunia
+because their meanings are different from country to country.
+Instead, one should say **tauzen milion** (thousand millions) or **un giga**.
+
 The prefixes of the [International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units)
 (SI) are used in common language in Pandunia.
 It is normal to say, for example:  
-**bat giga hom viva a dunia.**  
+**bat giga person jive en Dunia.**  
 – Eight billion (or _milliard_) people live on Earth.
 
 | Prefix   | Symbol  | Base 10 | Decimal                           |
@@ -73,11 +77,11 @@ They are put before the word or phrase that they qualify.
 **multi sing**
 – many stars
 
-**un dayi korse**
+**un dai kursi**
 – one big chair  
-**du dayi korse**
+**du dai kursi**
 – two big chairs  
-**tri dayi korse**
+**tri dai kursi**
 – three big chairs
 
 
@@ -106,7 +110,7 @@ which includes, among many others,
 'meter',
 **botle**
 'bottle',
-**kupe**
+**kupa**
 'cup, mug',
 **pake**
 'package',
@@ -120,19 +124,19 @@ which includes, among many others,
 'cask, barrel'.
 
 Measure words are used in this simple structure:
-number + measure word + **di** + noun.
+number + measure word + **se** + noun.
 
-**du litre di jus**
+**du litre se jus**
 – two liters of juice  
-**tri metre di kable**
+**tri metre se kable**
 – three meters of wire  
-**un kupa di kafe**
+**un kupa se kafe**
 – a cup of cofee  
-**du botle di vin**
+**du botle se vin**
 – two bottles of wine  
-**tri sake di patato**
+**tri sake se patato**
 – three sacks of potatoes  
-**char tin di limon jus**
+**for tin se limon jus**
 – four cans of lemonade
 
 
@@ -160,40 +164,40 @@ stands for '2/3' in mathematical symbols.
 
 **un parte du**
 – a half (½)  
-**un parte char**
+**un parte for**
 – one fourth, one quarter (¼)  
-**tri parte char**
+**tri parte for**
 – three fourths, three quarters (¾)  
-**un parte cento**
+**un parte hunde**
 – one hundredth, one percent (1%)  
-**un parte kilo**
+**un parte tauzen**
 – one thousandth, one permille (1‰)
 
 Fractions are connected to their noun head with
-**di**.
+**se**.
 
-**un parte du di haur**
+**un parte du se haur**
 – a half (of an) hour  
-**pen des parte cento di jen**
+**faif ten parte hunde se jen**
 – fifty percent of people  
-**du parte tri di keke**
+**du parte tri se keke**
 – two thirds of a cake  
 
 
 In addition, there is also a longer pattern for forming fractions.
 It uses the pattern
-**X da Y parte**
+**X of Y parte**
 ('X of Y parts').
 
-**un da du parte**
+**un of du parte**
 – one of two parts, a half (½)  
-**un da char parte**
+**un of for parte**
 – one of four parts, a quarter (¼)  
-**tri da char parte**
+**tri of for parte**
 – three of four parts, three quarters (¾)  
-**un da cento parte**
+**un of hunde parte**
 – one of hundred parts, a percent (1%)  
-**un da kilo parte**
+**un of tauzen parte**
 – one of thousand parts, a permille (1‰)
 
 
@@ -206,19 +210,19 @@ and they include the word
 **den**
 ('day, 24 hours').
 
-1. **lunadien**
+1. **lunaden**
    – Monday
-2. **marisdien**
+2. **marisden**
    – Tuesday
-3. **merkurdien**
+3. **merkurden**
    – Wednesday
-4. **mushindien**
+4. **mushinden**
    – Thursday
-5. **zukradien**
+5. **zukraden**
    – Friday
-6. **shanidien**
+6. **shaniden**
    – Saturday
-7. **soldien**
+7. **solden**
    – Sunday
 
 #### Months
@@ -260,15 +264,15 @@ The day, month and year ordered from the longest period of time to the shortest,
 or vice versa i.e. year first and day last.
 Month is always in the middle.
 
-**nen 2022 mes 9 dien 17**
+**nen 2022 mes 9 den 17**
 ~
-**dien 17 mes 9 nen 2002**
+**den 17 mes 9 nen 2002**
 
 There are also two short formats without the year.
 
-**mes 9 dien 17**
+**mes 9 den 17**
 ~
-**dien 17 mes 9**
+**den 17 mes 9**
 
 
 ## Time
@@ -291,7 +295,7 @@ and we never use words like *past* and *to* in Pandunia.
 – three fifteen – or quarter past three  
 **haur tri e tri des**
 – three thirty – or half past three  
-**haur tri e for des pen**
+**haur tri e char des pen**
 – three forty-five – or quarter to four  
 **haur tri e pen des**
 – three fifty – or ten to four  
@@ -340,7 +344,7 @@ Before midday we say:
 **haur un AM**
 – one AM  
 <big>🕜</big> =
-**haur un e tri des AM**
+**haur un e tri ten AM**
 – one thirty AM  
 <big>🕔</big> =
 **haur pen AM**
