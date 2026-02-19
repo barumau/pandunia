@@ -6,7 +6,7 @@
     Pandunia estas egale monda lingvo.
     Internaciaj vortoj estas pruntita el ĉiuj partoj de la mondo al Pandunia.
     Ili estas adaptitaj al la prononcaj kaj skribaj sistemoj de Pandunia.
-    Nur unu baza vorto estas pruntita kaj aldonaj vortoj estas kunmetitaj laŭ regulo 10.
+    Nur unu baza vorto estas pruntita kaj aldonaj vortoj estas kunmetitaj laŭ 12-a regulo.
 
     [Legu pli](L-lexe.md).
 
@@ -82,6 +82,8 @@
     Substantivoj neniam ŝanĝiĝas por indiki nombron, kazon aŭ genron.
     La nedifinaj artikoloj estas singulare **un** kaj plurale **som**.
     La difinaj artikoloj estas singulare **da** kaj plurale **di**.
+
+    [Legu pli](G-N.md).
 
 7.  **Nombrovortoj**
 
@@ -176,14 +178,6 @@
     La normala vortordo estas subjekto–verbo–objekto.
     La sama ordo estas uzata kaj en deklaroj kaj en demandoj.
     
-    Pasiva frazo estas kreita per helpo de verbo
-    *bi*.
-    
-    *pandunia bi loge.*
-    – Pandunia estas parolita.  
-    *bi loge pandunia.*
-    – Oni parolas pandunian.
-    
     En la **ĉarnira konstruo** la objekto de la unua verbo
     rolas kiel la subjekto de la dua verbo.
     
@@ -195,6 +189,14 @@
     *_mi_ ples _tu_ loge pandunia.*
     → *ples logu pandunia.*  
     – Bonvolu paroli Pandunian.
+
+    Pasiva frazo estas kreita per helpo de verbo
+    *bi*.
+    
+    *pandunia bi loge.*
+    – Pandunia estas parolita.  
+    *bi loge pandunia.*
+    – Oni parolas pandunian.
 
     [Legu pli](G-P.md).
 

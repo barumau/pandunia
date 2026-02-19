@@ -51,11 +51,11 @@ indicates the present tense, and
 indicates the future tense.
 More specific time references are expressed with various time expressions, like *yesterday*, *tomorrow* or *one hour ago*.
 
-**man** ***le*** **yam ban.**
+*man* ***le*** *yam ban.*
 – The man *ate* (or *did eat*) bread.  
-**man** ***nun*** **yam ban.**
+*man* ***nun*** *yam ban.*
 – The man *eats* bread (now).  
-**man** ***fu*** **yam ban.**
+*man* ***fu*** *yam ban.*
 – The man *will eat* bread.
 
 It is also possible to express the future in the past

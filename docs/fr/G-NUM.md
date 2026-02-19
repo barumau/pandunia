@@ -1,32 +1,32 @@
 
-# 6. Numéraux
+# Numéraux
 
 Les mots de base pour les chiffres sont :
 
 | Uns          | 10 et plus     | 20 et plus       | 30 et plus         |
 |:-------------|:---------------|:-----------------|:-------------------|
-| 0 siro       | 10 (un) ten    | 20 du ten        | 30 tri ten         |
-| 1 un         | 11 ten un      | 21 du ten un     | 31 tri ten un      |
-| 2 du         | 12 ten du      | 22 du ten du     | 32 tri ten du      |
-| 3 tri        | 13 ten tri     | 23 du ten tri    | 33 tri ten tri     |
-| 4 for        | 14 ten for     | 24 du ten for    | 34 tri ten for     |
-| 5 faif       | 15 ten faif    | 25 du ten faif   | 35 tri ten faif    |
-| 6 sixe       | 16 ten sixe    | 26 du ten sixe   | 36 tri ten sixe    |
-| 7 seven      | 17 ten seven   | 27 du ten seven  | 37 tri ten seven   |
-| 8 eite       | 18 ten eite    | 28 du ten eite   | 38 tri ten eite    |
-| 9 nain       | 19 ten nain    | 29 du ten nain   | 39 tri ten nain    |
+| 0 nil        | 10 (un) des    | 20 du des        | 30 tri des         |
+| 1 un         | 11 des un      | 21 du des un     | 31 tri des un      |
+| 2 du         | 12 des du      | 22 du des du     | 32 tri des du      |
+| 3 tri        | 13 des tri     | 23 du des tri    | 33 tri des tri     |
+| 4 char       | 14 des char    | 24 du des char   | 34 tri des char    |
+| 5 pen        | 15 des pen     | 25 du des pen    | 35 tri des pen     |
+| 6 luk        | 16 des luk     | 26 du des luk    | 36 tri des luk     |
+| 7 chet       | 17 des chet    | 27 du des chet   | 37 tri des chet    |
+| 8 bat        | 18 des bat     | 28 du des bat    | 38 tri des bat     |
+| 9 nau        | 19 des nau     | 29 du des nau    | 39 tri des nau     |
 
 | Uns          |  Dizaines      | Cents            | Milliers           |
 |:-------------|:---------------|:-----------------|:-------------------|
-| 1 un         | 10 (un) ten    | 100 un hunde     | 1000 un tauzen     |
-| 2 du         | 20 du ten      | 200 du hunde     | 2000 du tauzen     |
-| 3 tri        | 30 tri ten     | 300 tri hunde    | 3000 tri tauzen    |
-| 4 for        | 40 for ten     | 400 for hunde    | 4000 for tauzen    |
-| 5 faif       | 50 faif ten    | 500 faif hunde   | 5000 faif tauzen   |
-| 6 sixe       | 60 sixe ten    | 600 sixe hunde   | 6000 sixe tauzen   |
-| 7 seven      | 70 seven ten   | 700 seven hunde  | 7000 seven tauzen  |
-| 8 eite       | 80 eite ten    | 800 eite hunde   | 8000 eite tauzen   |
-| 9 nain       | 90 nain ten    | 900 nain hunde   | 9000 nain tauzen   |
+| 1 un         | 10 (un) des    | 100 un cento     | 1000 un kilo       |
+| 2 du         | 20 du des      | 200 du cento     | 2000 du kilo       |
+| 3 tri        | 30 tri des     | 300 tri cento    | 3000 tri kilo      |
+| 4 char       | 40 char des    | 400 char cento   | 4000 char kilo     |
+| 5 pen        | 50 pen des     | 500 pen cento    | 5000 pen kilo      |
+| 6 luk        | 60 luk des     | 600 luk cento    | 6000 luk kilo      |
+| 7 chet       | 70 chet des    | 700 chet cento   | 7000 chet kilo     |
+| 8 bat        | 80 bat des     | 800 bat cento    | 8000 bat kilo      |
+| 9 nau        | 90 nau des     | 900 nau cento    | 9000 nau kilo      |
 
 Les nombres supérieurs à 999 peuvent utiliser les multiples provenant du Systèmes International des Unités.
 Ainsi, par exemple kilo- est le multiple qui indique les milliers.
@@ -63,7 +63,7 @@ On les place avant le mot ou le groupe de mots qu'ils qualifient.
 – une grande chaise
 **du dai kursi**
 – deux grandes chaises
-**tri gud kursi**
+**tri hao kursi**
 – trois bonnes chaises
 
 Les nombres ordinaux se placent après le mot qu'ils modifient.

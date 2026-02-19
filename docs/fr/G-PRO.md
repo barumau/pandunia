@@ -12,7 +12,7 @@ Les pronoms servent à remplacer des noms et des groupes nominaux.
 | je, me, moi | nous         |
 | **tu**      | **tumen**    |
 | tu, te, toi | vous         |
-| **da**      | **damen**    |
+| *ho*        | *homen*      |
 | il, elle, le, lui, la | ils, elles, les, leur |
 
 Les pronoms possessifs sont construit avec le particle
@@ -24,7 +24,7 @@ Les pronoms possessifs sont construit avec le particle
 | mon         | nôtre        |
 | **tu su**   | **tumen su** |
 | ton         | vôtre        |
-| **da su**   | **damen su** |
+| **ho su**   | **homen su** |
 | son         | leur         |
 
 
@@ -42,7 +42,7 @@ _me_ ou _moi-même_, _te_ ou _toi-même_, _se_, _lui-même_, _elle(s)-même_ ou 
 
 **mi vi se.**
 – Je me vois.  
-**da vi se.**
+**ho vi se.**
 – Elle se voit. / Il se voit.  
 **mimen vi se.**
 – Nous nous voyons.

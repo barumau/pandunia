@@ -9,7 +9,7 @@ They are described in more detail later in this document.
     Pandunia is an evenly global language.
     International words are borrowed from all parts of the world to Pandunia.
     They are adapted to the pronunciation and orthography of Pandunia.
-    One basic word is admitted and additional words are built from it according to rule 10.
+    One basic word is admitted and additional words are built from it according to rule 12.
 
     [Read more!](L-lexe.md)
 
@@ -30,7 +30,7 @@ They are described in more detail later in this document.
     *trabáshe* ('translate'), *dúnialìsme* ('globalism'), *bàshe skóle* ('language school').
     Primary accent is indicated here by an acute accent (*á*) and secondary accent by a grave accent (*à*).
 
-4.  **Word class**
+4.  **Word classes**
 
     Pandunia is an analytical language.
     It means that its words do not inflect or change their form because of grammar.
@@ -152,7 +152,7 @@ They are described in more detail later in this document.
     *mi darse pandunia.*  
     'I study ~ studied ~ will study Pandunia.'
 
-    Auxiliary verbs can be used to indicate the moment, duration and relevance of the action.
+    Auxiliary verbs can be used to indicate the moment, the duration and the lasting impact of an action.
 
     -   *sta*
         indicates an ongoing event.

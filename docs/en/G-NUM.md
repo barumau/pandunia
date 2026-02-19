@@ -106,9 +106,9 @@ Classifiers of measurement is an open class of words,
 which includes, among many others,
 **litre**
 'liter',
-**metre**
+**mitre**
 'meter',
-**botle**
+**botil**
 'bottle',
 **kupa**
 'cup, mug',
