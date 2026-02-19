@@ -1,7 +1,10 @@
+#!/bin/sh
+
 fa_pandoc() {
-    pandoc --lua-filter=bin/parse-html.lua --from=markdown-markdown_in_html_blocks $1/pan.md -V geometry:a4paper,margin=2cm -s -o $1/pan.pdf --pdf-engine=/usr/bin/xelatex -V mainfont="$2" -V monofont="DejaVu Sans Mono"
+    dir="docs/$1"
+    pandoc --lua-filter=bin/parse-html.lua --from=markdown-markdown_in_html_blocks $dir/pan.md -V geometry:a4paper,margin=2cm -s -o $dir/pan.pdf --pdf-engine=/usr/bin/xelatex -V mainfont="$2" -V monofont="DejaVu Sans Mono"
     #-V CJKmainfont="MS Mincho" #-V CJKmainfont="Noto Sans CJK SC" -V devanagarifont="Noto Sans Devanagari"
-    sed 's/\/home\/risto\/pandunia\/html/http:\/\/www.pandunia.info/g' -i $1/pan.md
+    sed 's/\/home\/risto\/html/http:\/\/www.pandunia.info/g' -i $dir/pan.md
 }
 
 max_dataje_nam() {
@@ -36,14 +39,15 @@ fa_pan_md() {
     echo "kitaba $1 PDF dokumen"
     rm temp/dataje_liste.txt
     touch temp/dataje_liste.txt
-    fa_dataje_liste $1
-    cat temp/dataje_liste.txt | xargs -d "\n" cat -- > $1/pan.md
+    dir="docs/$1"
+    fa_dataje_liste $dir
+    cat temp/dataje_liste.txt | xargs -d "\n" cat -- > $dir/pan.md
 
     #da subik kitab have 'unicode' harfe e simbol, dat 'pandoc' no kan kitab.
     #101_dunia_loga.md 200_baze_jumla.md
 
     # uze da lok of grafe
-    sed 's/http:\/\/www.pandunia.info/\/home\/risto\/pandunia\/html/g' -i $1/pan.md
+    sed 's/http:\/\/www.pandunia.info/\/home\/risto\/html/g' -i $dir/pan.md
 }
 
 kitabe_europan_dokume() {
@@ -62,18 +66,19 @@ kitabe_china_dokume() {
     fa_pandoc $1 "Noto Serif CJK SC"
 }
 
-kitabe_europan_dokume eng
-kitabe_europan_dokume epo
-kitabe_europan_dokume fra
-kitabe_europan_dokume ita
-kitabe_europan_dokume pol
-kitabe_europan_dokume rus
-kitabe_europan_dokume spa
-kitabe_europan_dokume fin
+kitabe_europan_dokume en
+kitabe_europan_dokume eo
+kitabe_europan_dokume es
+kitabe_europan_dokume fi
+kitabe_europan_dokume fr
+kitabe_europan_dokume it
+kitabe_europan_dokume pl
+#kitabe_europan_dokume pt
+kitabe_europan_dokume ru
 
-kitabe_nipon_dokume jpn
+kitabe_nipon_dokume ja
 
-kitabe_china_dokume zho
+kitabe_china_dokume zh
 
 # uze ye pake:
 #sudo apt install pandoc
