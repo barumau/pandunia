@@ -4,34 +4,10 @@
 Le pandunia utilise l’alphabet latin de base pour son écriture.
 Voici les lettres du pandunia ainsi que les symboles de l’alphabet phonétique international (API).
 
-| Pandunia | API    |
-|:--------:|:------:|
-| A        | a      |
-| B        | b      |
-| Ch       | tʃ     |
-| D        | d      |
-| E        | e      |
-| F        | f      |
-| G        | g      |
-| H        | h (x)  |
-| I        | i      |
-| J        | dʒ     |
-| K        | kʰ     |
-| L        | l      |
-| M        | m      |
-| N        | n (ŋ)  |
-| P        | pʰ     |
-| O        | o      |
-| R        | r (ɹ)  |
-| S        | s      |
-| Sh       | ʃ      |
-| T        | tʰ     |
-| U        | u      |
-| V        | w (ʋ v) |
-| Y        | j      |
-| Z        | z (dz) |
+     A  B   C  D  E  F  G  H  I   J  K  L  M  N  O  P  R  S  T  U  V  X  Y  Z
+    [a  b (t)ʃ d  e  f  g  h  i (d)ʒ k  l  m  n  o  p  r  s  t  u  w  ks j  z]
 
-Le pandunia se prononce eshactement comme il s’écrit, comme l’espagnol.
+Le pandunia se prononce exactement comme il s’écrit, comme l’espagnol.
 Il n’y a pas de lettre muette.
 Chaque lettre a un son, toujours le même.
 
@@ -61,9 +37,8 @@ Les consonnes suivantes se prononcent différement en pandunia et en français :
 - **g** se prononce toujours comme dans _gâteau_.
 - **r** est prononcé roulé si possible, comme en espagnol ou en italien. D’autres prononciations sont acceptables.
 - **s** est toujours sourd comme dans _souris_. 
-- **sh** se prononce toujours comme le « ch » de _chat_.
-- **ch* se prononce comme le « tch » de _tchâo !_.
-- **j** est prononcé comme le « dj » dans _Djibouti_.
+- **c** se prononce comme « ch » de *chat* out comme le « tch » de _tchâo !_.
+- **j** est prononcé comme le « j »  de *jolie* ou comme le « dj » dans _Djibouti_.
 - **n** se prononce avec le bout de la langue
   sauf dans les combinaisons de lettres **nk** et **ng**, où le « n » est vélaire /ŋ/
   comme dans les mots anglais _banker_ et _finger_.
@@ -71,29 +46,33 @@ Les consonnes suivantes se prononcent différement en pandunia et en français :
   Ainsi, le mot **pang** peut se prononcer /paŋ/ ou /paŋg/.
 - **h** est aspiré comme dans _**h**ello_ en anglais, ou comme dans certains rires, retranscrits par _ha ha ha_.
 
-
-## Diphtongues
-
-Quand deux voyelles sont proches l'une de l'autre, le son de la première glisse vers le son de la seconde et forme une  _diphthongue_.
-
-Par exemple **a** et **i** forment  une diphtongue dans le mot **mais**.
-Le son **a** glisse progressivement ves le son **i**.
-De façon similaire, il y a une diphtongue dans le mot **day**.
-
+|                       | Labial      | Alvéolaire  | Palatal       | Vélaire     |
+|:----------------------|:-----------:|:-----------:|:-------------:|:-----------:|
+| **Plosive**           | b [b] p [b] | t [t] d [d] |               | k [k] g [g] |
+| **Affricate**         |             |             | c [tɕ] j [dʑ] |             |
+| **Fricative**         | f [f]       | s [s] z [z] |               | h [x ~ h]   |
+| **Nasale**            | m [m]       | n [n]       |               |             |
+| **Lateral**           |             | l [l]       |               |             |
+| **Trill**             |             | r [r ~ ɹ]   |               |             |
+| **Semivoyelle**       | v [w ~ ʋ]   |             | y [j]         |             |
+| **Voyelle fermée**    | u [u]       |             | i [i]         |             |
+|**Voyelle mi-fermée**  | o [o̞]       |             | e [e̞]         |             |
+| **Voyelle ouverte**   |             | a [a]       |               |             |
+|                      |**Postérieur**| **Central** | **Antérieur** |             |
 
 ## Accent tonique
 
 L’accent est sur la syllabe qui est avant la dernière consonne :
 
 - **mau** /máu/, **hotel** /hotél/
-- **nove** /nóve/, **muzike** /muzíke/, **arabe** /arábe/
+- **nova** /nóva/, **muzike** /muzíke/, **arabe** /arábe/
 - **dunia** /dúnia/, **arabia** /arábia/
 
-     dunia es vi se mei planeta.  
-    /dúnia és ví se méi planéta./
+     dunia es mimen su mei planeta.  
+    /dúnia és mímen su méi planéta./
 
-     mi vol loga komun bashe, da es pandunia.  
-    /mí vól lóga komún báshe, dá és pandúnia./
+     mi voli loga komun basa, le es pandunia.  
+    /mí vóli lóga komún bása, le és pandúnia./
 
 
 ## Majuscules

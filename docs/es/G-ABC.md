@@ -1,5 +1,5 @@
 
-# 2. Ortografía y pronunciación
+# Ortografía y pronunciación
 
 Pandunia es fonético en dos direcciónes:
 
@@ -16,7 +16,7 @@ Pandunia se escribe en el alfabeto latino básico – ¡la misma que español!
 No tiene letras acentos como «á» y «ñ», que son diferentes en idiomas diferentes.
 Entonces se puede teclear, imprimir y usar con computadoras y dispositivos en la mayoría de países sin dificultad.
 
-> A B Ch D E F G H I J K L M N O P R S Sh T U V Y Z
+> A B C D E F G H I J K L M N O P R S T U V Y Z
 
 ## Sonidos
 
@@ -74,7 +74,7 @@ se cierra en paréntesis en la columna de AFI.
 | Pandunia | AFI    | Consejo |
 |:--------:|:------:|:--------|
 | b        | b      | Siempre fuerte como en _ambos_. |
-| ch       | tʃ     | |
+| c        | tʃ     | Como *ch* en *chico*. |
 | d        | d      | Siempre fuerte como en _onda_. |
 | f        | f      | |
 | g        | g      | Siempre fuerte como en _hongo_. |
@@ -87,7 +87,6 @@ se cierra en paréntesis en la columna de AFI.
 | p        | pʰ     | |
 | r        | r (ɹ)  | |
 | s        | s      | |
-| sh       | ʃ      | Como _sh_ en _sushi_. |
 | t        | tʰ     | |
 | z        | z (dz) | Sonoro como el zumbido de una abeja en _bzzzz_. |
 
@@ -138,7 +137,7 @@ Una sílaba puede incluir como máximo:
 - un consonante líquida (**l** o **r**)
 - una o dos vocales, y
 - una consonante final de:
-  **m**, **n**, **ng**, **l**, **r**, **f**, **s**, **sh**, **h**.
+  **m**, **n**, **ng**, **l**, **r**, **f**, **s**, **h**.
 
 Ciertos grupos de consonantes se permiten solo entre dos vocales, como **ks** y **zn**.
 
@@ -198,10 +197,3 @@ que termina la oración.
 Esa práctica ayuda seperar oraciónes más claramente.
 
 En textos informales, los emoticonos se pueden usar para indicar el estado de ánimo.
-Por ejemplo **:)** indica felicidad, y **:(** indica tristeza.
-
-**mi vide tu :)**
-(Te veo.)  
-**tu no vide mi :(**
-(No me ves.)
-

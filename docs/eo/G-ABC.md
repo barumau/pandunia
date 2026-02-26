@@ -1,35 +1,10 @@
 # Prononco de pandunio
 
 Pandunio uzas la bazan latinan alfabeton.
-Jen la pandunia alfabeto
-kaj prononco laŭ Internacia Fonetika Alfabeto (IFA).
+Jen la pandunia alfabeto kaj prononco laŭ Esperanta alfabeto.
 
-| Pandunia | IPA    |
-|:--------:|:------:|
-| A        | a      |
-| B        | b      |
-| Ch       | tʃ     |
-| D        | d      |
-| E        | e      |
-| F        | f      |
-| G        | g      |
-| H        | h (x)  |
-| I        | i      |
-| J        | dʒ     |
-| K        | kʰ     |
-| L        | l      |
-| M        | m      |
-| N        | n (ŋ)  |
-| P        | pʰ     |
-| O        | o      |
-| R        | r (ɹ)  |
-| S        | s      |
-| Sh       | ʃ      |
-| T        | tʰ     |
-| U        | u      |
-| V        | w (ʋ v) |
-| Y        | j      |
-| Z        | z (dz) |
+    Pandunia:  A  B   C   D  E  F  G   H   I   J   K  L  M  N  O  P  R  S  T  U  V  X  Y  Z
+    Esperanta: a  b  ŝ/ĉ  d  e  f  g  h/ĥ  i  ĵ/ĝ  k  l  m  n  o  p  r  s  t  u  ŭ  ks j  z
 
 En pandunio ĉiu litero reprezentas ĉiam unu saman sonon.
 Ne estas sensonaj literoj.
@@ -38,71 +13,19 @@ Ne estas sensonaj literoj.
 
 La tuta fonemaro de Pandunia estas en la suba tabelo.
 
-|                    | Lipa    |Alveola  | Palata  | Vela    | Glota   |
-|:-------------------|:-------:|:-------:|:-------:|:-------:|:-------:|
-| **Plozivo**        | b p     | t d     | ch j    | k g     |         |
-| **Frikativo**      | f       | s z     | sh      |         | h       |
-| **Naza**           | m       | n       |         | ng      |         |
-| **Lateralo**       |         | l       |         |         |         |
-| **Trilo**          |         | r       |         |         |         |
-| **Duonvokaloj**    | v       |         | y       |         |         |
-|**Malvastaj vokaloj**| u      |         | i       |         |         |
-|**Duonvastaj vokaloj** | o    |         | e       |         |         |
-|**Vastaj vokaloj**  |         | a       |         |         |         |
-|                |**Malantaŭa**|**Centra**|**Antaŭa**|       |         |
-
-
-### Vokaloj
-
-Pandunio havas kvin vokalojn.
-Ili estas prononcitaj kiel en Esperanto.
-
-### Duonvokaloj
-
-- **v** = [w] ~ [ʋ] ~ [v]  
-  _V_ estas prononcata kiel esperantaj _ŭ_,
-  sed kelkaj paronlantoj povas prononci ĝin kiel _v_.
-- **y** = [j]  
-  _Y_ estas prononcata kiel esperanta _j_.
-
-
-### Konsonantoj
-
-Pandunia enhavas 19 konsonantojn.
-
-- **b** = [b]
-- **ch** = [tʃ]  
-  _Ch_ estas prononcata kiel esperanta _ĉ_.
-- **d** = [d]
-- **f** = [f]
-- **g** = [g]
-- **h** = [h] ~ [x]  
-  _H_ estas prononcata kiel esperanta _h_.
-- **j** = [dʒ]  
-  _J_ estas prononcata kiel esperanta _ĝ_.
-- **k** = [kʰ] ~ [k]
-- **l** = [l]
-- **m** = [m]
-- **n** = [n] ~ [ŋ]  
-  _N_ estas prononcata alveolare krom en kunmetaĵoj _nk_ kaj _ng_,
-  kie ĝi estas velara [ŋ].
-  Vortfine, la _g_ en _ng_ povas esti surda.
-  Ekz. **pang** povas esti prononcita [paŋ] aŭ [paŋg].
-- **p** = [pʰ] ~ [p]
-- **r** = [r] ~ [ɹ]  
-  _R_ estas prononcata kiel en la rusa aŭ kiel en la nordamerika angla.
-- **s** = [s]  
-  _S_ is always voiceless like _s_ in _sissy_.
-- **sh** = [ʃ]  
-  _Sh_ estas prononcata kiel esperanta _ŝ_.
-- **t** = [tʰ] ~ [t]
-- **x** = [ks] ~ [s]  
-  _X_ estas prononcata _ks_, kiam ĝi estas inter vokaloj.
-  Ekz. **maxim** estas prononcata /maksim/.
-  In aliaj lokoj oni povas prononci ĝin kiel _s_,
-  ekz. **max** /mas/, **xenon** /senon/.
-- **z** = [z] ~ [dz]
-
+|                       | Lipa        | Alveola     | Palata        | Vela        |
+|:----------------------|:-----------:|:-----------:|:-------------:|:-----------:|
+| **Plozivo**           | b [b] p [b] | t [t] d [d] |               | k [k] g [g] |
+| **Affrikato**         |             |             | c [tɕ] j [dʑ] |             |
+| **Frikativo**         | f [f]       | s [s] z [z] |               | h [x ~ h]   |
+| **Naza**              | m [m]       | n [n]       |               |             |
+| **Lateralo**          |             | l [l]       |               |             |
+| **Trilo**             |             | r [r ~ ɹ]   |               |             |
+| **Duonvokaloj**       | v [w ~ ʋ]   |             | y [j]         |             |
+|**Malvastaj vokaloj**  | u [u]       |             | i [i]         |             |
+|**Duonvastaj vokaloj** | o [o̞]       |             | e [e̞]         |             |
+|**Vastaj vokaloj**     |             | a [a]       |               |             |
+|                       |**Malantaŭa**|**Centra**   |**Antaŭa**     |             |
 
 ## Aldonaj literoj kaj sonoj
 
@@ -111,8 +34,8 @@ kiujn oni povas uzi nur en _eksteraj vortoj_,
 kiuj ne apartenal al la normala vortaro de Pandunia,
 ekz. nomoj de lokoj, homoj kaj lokaj aĵoj
 
-- **c** = [ts]  
-  _C_ estas prononcata kiel en Esperanto.
+- **ch** = [tʃ]  
+  _Ch_ estas prononcata kiel esperanta *Ĉ*.
 - **kh** = [x]  
   _Kh_ estas prononcata kiel esperanta _Ĥ_.
 - **gh** = [ɣ]  
@@ -158,14 +81,14 @@ Pliaj ekzemploj:
 La akcento estas je la vokalo antaŭ la lasta konsonanto.
 
 - **mau** /máu/, **hotel** /hotél/
-- **nove** /nóve/, **muzike** /muzíke/, **arabi** /arábi/
+- **nova** /nóve/, **muzike** /muzíke/, **arabi** /arábi/
 - **dunia** /dúnia/, **arabia** /arábia/
 
-     dunia es vi se mei planeta.  
-    /dúnia és ví se méi planéta./
+     dunia es mimen su mei planeta.  
+    /dúnia és mímen su méi planéta./
 
-     mi vol loge komun bashe, da es pandunia.  
-    /mí vól lóge komún báshe, dá és pandúnia./
+     mi voli logu komun basa, le es pandunia.  
+    /mí vóli lógu komún bása, lé és pandúnia./
 
 
 ## Uskleco
@@ -209,28 +132,3 @@ ka-fe, yu-mor, pos-te.
 [,] Komo indikas etan paŭzon aŭ apartigo inter listeroj.
 
 En neformalaj tekstoj, miensimboloj kaj emoĝioj povas uziĝi por montri humoron.
-Ekzemple **:)** montras feliĉon kaj **:(** montras malfeliĉon.
-
-**mi visi tu :)**
-= Mi vidas vin.  
-**tu no visi mi :(**
-= Vi ne vidas min.
-
-
-## Vorto-strukturo
-
-La plej ofta vorto-strukturo estas KVKV, kie K estas konsonanto kaj V estas vokalo.
-
-La plej malfacila vorto estas KLVKKVK, kie L estas likva konsonanto (l aŭ r).
-Ekzemple **kristal** estas tia vorto.
-
-Komencaj konsonantoj povas esti nur jenaj:
-
-1. Iu ajn sola konsonanto, escepte de /ŋ/
-2. Oklusiva konsonanto kaj likva konsonanto
-    - pl, bl, kl, gl
-    - pr, br, tr, dr, kr, gr
-
-La permesitaj vorto-finaj konsonantoj estas:
-f, h, l, m, n, ng, r, s, x, v, y
-

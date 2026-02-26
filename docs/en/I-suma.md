@@ -3,7 +3,7 @@
 
 Pandunia is a constructed language that has a minimalistic grammar and a globalistic vocabulary.
 
-### Letters and sounds
+## Pronunciation
 
 Pandunia uses a systematic spelling where
 each letter represents one spoken sound.
@@ -12,26 +12,21 @@ each letter represents one spoken sound.
 
 The vowels **a, e, i, o, u** are pronounced as in "are there three or two".
 
-The consonants are:
-**b**,
-**ch** (sounds like _ch_ in _church_),
-**d**,
-**f**,
-**g** (always hard),
-**h**,
-**j**,
-**k**,
-**l**,
-**m**,
-**n**,
-**p**,
-**r** (never silent),
-**s** (always voiceless),
-**t**,
-**v** (sounds like _w_),
-**x** (sounds like _sh_),
-**y**,
-**z**.
+Consonants are pronounced in Pandunia as they are in English, with the following exceptions:
+
+-   *c* is pronounced like *ch* in *church* but also like *c* in *center*.
+-   *g* is always hard like in *get*.
+-   *j* sounds like the English *j* in *jet*.
+-   *v* sounds like *w* in *wet*.
+-   *x* sounds like *x* in *box* or like *s* in *set*.
+
+### What syllable to stress
+
+Stress falls on the first syllable of the root,
+which is the body of the word without prefixes and suffixes.
+Prefixes and suffixes are usually unstressed.  
+***hom*** 'person', ***su****pa* 'soup', ***po****pul* 'people', ***du****nia* 'world', *di****fe****ren* 'different'.
+
 
 ### Never changing words
 
@@ -55,7 +50,7 @@ The same word, without any change in form, can serve as a noun, adjective or ver
 The basic word order is subject–verb–object
 – the same as in English!
 
-**mi love tu.**
+**mi ame tu.**
 – I love you.
 
 Grammar words help to distinguish the subject, verb and object.
@@ -121,12 +116,12 @@ It can't be left out when it is part of a serial verb.
 
 Pandunia words can be ambiguous because they often have more meanings compared to English.
 
-**ho love mau.**
+**ho ame mau.**
 – He loves cats. / She loved a cat. / He/she will love the cat.
 
 But actually the meaning is clear in the real context:
 
-**pre tri nen, mi have du mau e un gau. mi have plus un fem ben. ho love mau!**
+**pre tri nen, mi have du mau e un gau. mi have plus un fem ben. ho ame mau!**
 – Three years ago, I had two cats and a dog. I also had a daughter. _She loved the cats!_
 
 ### Time
@@ -143,13 +138,13 @@ and the tense auxiliaries
 **fu**
 (in the future).
 
-**mi zai love tu.**
+**mi zai ame tu.**
 – I am loving you.  
-**mi ha love tu.**
+**mi ha ame tu.**
 – I have loved you.  
-**mi pas love tu.**
+**mi pas ame tu.**
 – I loved you.  
-**mi fu love tu.**
+**mi fu ame tu.**
 – I will love you.
 
 ### Passive
@@ -157,16 +152,16 @@ and the tense auxiliaries
 The passive voice is formed with the help of the verb
 **bi**.
 
-**tu bi love.**
+**tu bi ame.**
 – You are loved.  
-**mi bi love da tu.**
+**mi bi ame da tu.**
 – I am loved by you.
 
 ### Modifying other words
 
 To modify a noun, put adjectives before it.
 
-**un nova love**
+**un nova ame**
 – a new love  
 **el hao pai**
 – the good pie
@@ -177,7 +172,7 @@ The adverb can be tagged with
 
 **mi hao (li) vize tu.**
 – I see you well.  
-**tu vi li love ho.**
+**tu vi li ame ho.**
 – You seemingly love him/her.
 
 Modifiers are compared with
@@ -187,7 +182,7 @@ Modifiers are compared with
 'the most... (of all)',
 **min**
 'less',
-**linim**
+**minim**
 'the least... (of all)', and
 **sim**
 'equally, as'.
@@ -215,13 +210,13 @@ To ask a content question, write a normal sentence and replace the word in quest
 **ke**
 'what, who'.
 
-**tu love ke?**
+**tu ame ke?**
 – Who do you love?  
-**tu love ke man?**
+**tu ame ke man?**
 – Which man do you love?  
-**ke man love tu?**
+**ke man ame tu?**
 – Which man loves you?  
-**tu love ho ke multi?**
+**tu ame ho ke multi?**
 – How much do you love him?
 
 ### Commands

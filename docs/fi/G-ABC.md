@@ -22,28 +22,25 @@ jotka muistuttavat paljolti mm. manner-Euroopan kielten vastaavia järjestelmiä
 
 Pandunian koko äänteistö esitetään ääntöpaikan ja -tavan mukaan jaoteltuna alla olevassa taulukossa.
 
-|                    | Huulet |Hammasvalli|Kitalaki|Kitapurje|Äänirako |
-|:-------------------|:-------:|:-------:|:-------:|:-------:|:-------:|
-| **Umpiäänteet**    | b p     | t d     | c j     | k g     |         |
-| **Hankausäänteet** | f       | s z     | x       |         | h       |
-| **Nenä-äänteet**   | m       | n       |         | ng      |         |
-| **Laideäänne**     |         | l       |         |         |         |
-| **Täryäänne**      |         | r       |         |         |         |
-| **Puolivokaalit**  | v       |         | y       |         |         |
-|**Suppeat vokaalit**| u       |         | i       |         |         |
-|**Välivokaalit**    | o       |         | e       |         |         |
-|**Väljät vokaalit** |         | a       |         |         |         |
-|                 |**Takainen**|**Keskinen**|**Etinen**|     |         |
+|                    | Huulet      | Hammasvalli | Kitalaki      | Kitapurje   |
+|:-------------------|:-----------:|:-----------:|:-------------:|:-----------:|
+| **Sulkuäänteet**   | b [b] p [b] | t [t] d [d] |               | k [k] g [g] |
+| **Sulku-hankaus**  |             |             | c [tɕ] j [dʑ] |             |
+| **Hankausäänteet** | f [f]       | s [s] z [z] |               | h [x ~ h]   |
+| **Nenä-äänteet**   | m [m]       | n [n]       |               |             |
+| **Laideäänne**     |             | l [l]       |               |             |
+| **Täryäänne**      |             | r [r ~ ɹ]   |               |             |
+| **Puolivokaalit**  | v [w ~ ʋ]   |             | y [j]         |             |
+|**Suppeat vokaalit**| u [u]       |             | i [i]         |             |
+|**Välivokaalit**    | o [o̞]       |             | e [e̞]         |             |
+|**Väljät vokaalit** |             | a [a]       |               |             |
+|                    |**Takainen** |**Keskinen** | **Etinen**    |             |
 
 ### Vokaalit
 
 Panduniassa on viisi vokaalia.
-Niitä merkitään kirjaimilla A, E, I, O ja U.
+Niitä merkitään kirjaimilla *a, e, i, o, u*.
 Ne äännetään kutakuinkin niin kuin suomen kielessä.
-
-Eräät vokaalit esiintyvät usein peräkkäin
-– au, eu, ou, ai, ei, oi –
-ja ne äännetään diftongeina.
 
 ### Konsonantit
 
@@ -83,11 +80,11 @@ Vain niiden konsonanttien ääntämiseestä kerrotaan tarkemmin, jotka äännet�
 - **v** = [w] ~ [ʋ] ~ [v]  
   *V* äännetään kuin suomen _v_ tai kuin lyhyt _u_.
 - **x** = [ʃ]  
-  *X* äännetään kuten *š* sanassa *šokki* tai kuten *sh* sanassa *shakki*.
-  Esim. **maxim** äännetään /maʃim/.
+  *X* äännetään kuten *ks*, mutta sanan alussa ja ennen toista konsonanttia se äännetään *s*:nä.
+  Esim. **maxim** äännetään /maksim/.
 - **y** = [j]  
   _Y_ äännetään kuten suomen _j_.
-- **z** = [z] ~ [dz]  
+- **z** = [z]  
   *Z* on soinnillinen *s* eli se äännetään kuten *z* englannin sanassa *zoo*.
   Sitä ei tule ääntää *ts*:nä!
 
@@ -119,8 +116,8 @@ Esimerkkejä:
      dunia es mimen su mei planeta.  
     /dúnia és mímen su méi planéta./
 
-     mi vol logu komun baxe, da es pandunia.  
-    /mí vól lógu komún báʃe, dá és pandúnia./
+     mi voli logu komun basa, le es pandunia.  
+    /mí vóli lógu komún bása, lé és pandúnia./
 
 
 ## Aakkoslajit

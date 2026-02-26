@@ -1,182 +1,88 @@
 
-# Spelling and pronunciation
+# Letters and sounds
 
-Pandunia is phonetic in two directions:
+## Alphabet
 
-1. When you read a word, you can always pronounce it.
-2. When you hear a word, you can almost always write it.
-   (Foreign names can be an exception.)
+Pandunia is written in the **basic Latin alphabet** – the same as English!
+It doesn't have any of the accented letters, which are different from language to language.
+That's why it can be typed, printed and used with most computers and smart devices in the world without any difficulty.
 
-Once you have learned the few rules and the way letters are pronounced,
+There are 24 letters in the **Pandunia alphabet**:  
+`A B C D E F G H I J K L M N O P R S T U V X Y Z`
+
+Other letters, like `W` and `Y`, are foreign to Pandunia.
+They can be present only in names and culture-specific words, which are not part of the normal Pandunia vocabulary.
+
+Written Pandunia follows the **one letter = one sound** principle. 
+Therefore, Pandunia is **phonetic** in two directions:
+
+1.  When you read a word, you can always pronounce it.
+2.  When you hear a word, you can always write it.
+
+Once you have learned the way letters are pronounced,
 you can read Pandunia aloud and be understood.
 
-## Basic Latin Alphabet
+## Vowels
 
-Pandunia is written in the basic Latin alphabet – the same as English!
-It doesn't have any of the accented letters, which are different from language to language.
-So it can be typed, printed and used with computers and smart devices in most countries without any difficulty.
+Pandunia has 5 vowel sounds and 18 consonant sounds.
+The number of vowels is average, and the number of consonants is moderately small among world's languages.
+(In average there are [5–6 vowels](https://wals.info/chapter/2) and [19–25 consonants](https://wals.info/chapter/1).)
+Therefore it is relatively easy to pronounce the sounds of Pandunia.
 
-There are 25 letters (including two two-letter combinations) in the Pandunia alphabet: 5 vowels and 20 consonants.
+The vowel sounds in Pandunia are *a, e, i, o, u*
+and they are pronounced as in
+***a****re th****e****re thr****ee o****r tw****o***.
+Consecutive vowels are pronounced independently.
 
-> A B Ch D E F G H I J K L M N O P R S Sh T U V X Y Z
+## Consonants
 
-A specialty of the Pandunia writing system is that
-every consonant letter by itself includes a short mid central vowel sound unless otherwise specified.
-(In this regard Pandunia's writing system works like those of India.)
-This short vowel sound is called **schwa**,
-and it is the most basic vowel sound that can be created without much effort.
-It is like the *a* in English *career* /kərir/ or *sofa* /soufə/.
-A consonant's schwa can also be silent and it can be replaced by any written vowel.
-Therefore for example **did** can be pronounced /did/ or /didə/ but **didi** is always pronounced /didi/.
+Pandunia has eighteen consonants.
+There are in average 19–25 consonants in world's languages, so the consonant inventory in Pandunia is moderately small.
 
-## Note on phonetic notation
+Consonants need to be accompanied by a vowel to make a complete syllable.
+Two of the consonants are semivowels, which sound like very short vowels, but which behave like consonants.
+The Pandunia letter *y* sounds like the English *y* in the word *yet*,
+and the Pandunia letter *v* sounds like the English *w* in *wet*.
 
-In this page, we use the symbols of the International Phonetic Alphabet (IPA) to show pronunciation in writing.
-We use square brackets and slashes to show that we're talking about a sound and not a letter.
+The consonant letters *p, b, t, d, k, f, s, z, j, h, m, n, l, y* sound like in English generally.
+*g* is always hard as in *get*.
+*r* is never silent and it is preferably trilled as in Scottish and Indian English.
+The Pandunia letter *c* sounds like the letter combination *ch* in the English word *church*.
+Finally, the Pandunia letter *x* sounds the same as in English
+but it can be simplified to *s* in the beginning of a syllable and before another consonant,
+as in *xenon* /senon/ and *exter* /ester/.
 
-Physical speech sounds are written between square brackets,
-for example [r] and [ɹ] indicate two different *r*-sounds, the trill and the glide.
-However, [r] and [ɹ] are not distinguished in Pandunia, but they are perceived as one sound.
-These mental sounds or **phonemes** can cover several physical sounds and are written between slashes.
-So, speakers of Pandunia perceive mentally always one sound, /r/, regardless of which physical sound, [r] or [ɹ], is actually heard.
-It is said that Pandunia has the phoneme /r/, which has alternative physical pronunciations [r] and [ɹ].
-This can be annotated `/r/ = [r] ~ [ɹ]`.
+## Speech sound inventory
 
-## Sounds
+The complete speech sound inventory of Pandunia is presented with phonetic symbols in the table below.
 
-Pandunia has its own sound system and its own spelling system
-that are mostly similar to those of the languages of continental Europe and Latin America.
+|                    | Labial      | Alveolar    | Palatal       | Velar       |
+|:-------------------|:-----------:|:-----------:|:-------------:|:-----------:|
+| **Stops**          | b [b] p [b] | t [t] d [d] |               | k [k] g [g] |
+| **Affricates**     |             |             | c [tɕ] j [dʑ] |             |
+| **Fricatives**     | f [f]       | s [s] z [z] |               | h [x ~ h]   |
+| **Nasals**         | m [m]       | n [n]       |               |             |
+| **Lateral**        |             | l [l]       |               |             |
+| **Trill**          |             | r [r ~ ɹ]   |               |             |
+| **Semivowels**     | v [w ~ ʋ]   |             | y [j]         |             |
+| **High vowels**    | u [u]       |             | i [i]         |             |
+| **Mid vowels**     | o [o̞]       |             | e [e̞]         |             |
+| **Low vowels**     |             | a [a]       |               |             |
+|                    | **Back**    | **Central** | **Front**     |             |
 
-The complete speech sound inventory of Pandunia is presented in the table below.
-
-|                    | Labial  |Alveolar | Palatal | Velar   | Glottal |
-|:-------------------|:-------:|:-------:|:-------:|:-------:|:-------:|
-| **Stops**          | b p     | t d     | ch j    | k g     |         |
-| **Fricatives**     | f       | s z     | sh      |         | h       |
-| **Nasals**         | m       | n       |         | ng      |         |
-| **Lateral**        |         | l       |         |         |         |
-| **Trill**          |         | r       |         |         |         |
-| **Semivowels**     | v       |         | y       |         |         |
-| ---------------    | ------- | ------- | ------- | ------- | ------- |
-| **High vowels**    | u       |         | i       |         |         |
-| **Mid vowels**     | o       | (ə)     | e       |         |         |
-| **Low vowels**     |         | a       |         |         |         |
-|                    |**Back**|**Central**|**Front**|        |         |
-
-### Vowels
-
-Pandunia has five oral vowel sounds.
-They are represented by the letters *a*, *e*, *i*, *o* and *u* in the writing system.
-
-The list below shows how each vowel is pronounced
-by using the symbols of the International Phonetic Alphabet (IPA)
-as well as pronunciation advice in plain English.
-
-- **a** = [a]  
-  _A_ is pronounced as in _father_.
-- **e** = [e]  
-  _E_ is pronounced as in _bet_.
-- **i** = [i]  
-  _I_ is pronounced as in _machine_.
-- **o** = [o]  
-  _O_ is pronounced as in _or_.
-- **u** = [u]  
-  _U_ is pronounced as in _rule_.
-
-In addition, there is an optional mid central vowel sound [ə], which is also called the **schwa**.
-It is pronounced as the *a* in English *about* /əbaut/, *career* /kərir/ and *sofa* /soufə/.
-It is the most basic vowel sound that can be created without much effort.
-It is called optional because it is never written and in many cases not even pronounced.
-
-The purpose of the schwa is to make speaking Pandunia easier.
-It can be inserted after consonants that are difficult to pronounce without a vowel.
-Different people can insert schwas in different places
-depending on what is natural to them.
-(There are native languages that don't allow any consonant cluster and final consonants.)
-The schwa sound can be inserted between the consonants of a consonant cluster and after word-final consonants.
-For example the word *skol* can be pronounced /skol/
-or /səkol/ (where the initial consonant cluster is broken apart by a schwa)
-or /səkolə/ (where the final consonant is followed by a schwa).
-All these pronunciations sound almost the same,
-because the schwa sound is always very short and unstressed.
-Schwas don't ever change what syllable of the word is stressed!
-Everybody is free to insert schwas or to omit them
-depending on what is most comfortable for them.
-
-
-### Semivowels
-
-A semivowel is a sound that is phonetically similar to a vowel sound but functions like a consonant as the syllable boundary.
-Pandunia has two semivowels **y** and **v**.
-They appear only in the beginning of a syllable
-and they are always followed by a full vowel.
-
-- **v** = [w] ~ [ʋ] ~ [v]  
-  _V_ is pronounced as the _w_ in _wet_,
-  but some speakers may pronounce it more like the _v_ in _vet_.
-- **y** = [j]  
-  _Y_ is pronounced as the _y_ in _yes_.
-
-There are also several common vowel sequences
-– au, eu, ou, ai, ei, oi –
-which are pronounced as the consecutive vowels with or without a hiatus in between.
-
-
-### Consonants
-
-Pandunia has 19 consonant sounds.
-They are represented in the writing system by 19 Latin letters and their combinations.
-Most of them are pronounced in roughly the same way as in English.
-
-If alternative pronunciations are possible,
-they are joined with the tilde (~).
-
-- **b** = [b]
-- **ch** = [tʃ]  
-  _Ch_ is pronounced always like _ch_ in _chat_, never as in _chateau_ or _choir_.
-- **d** = [d]
-- **f** = [f]
-- **g** = [g]  
-  _G_ is always hard as in _get_,
-  never soft as in _gel_.
-- **h** = [h] ~ [x]  
-  _H_ can be rougher than in English.
-- **j** = [dʒ]  
-  _J_ is pronounced always as in _judge_ or as the soft _g_ in _gel_.
-- **k** = [kʰ] ~ [k]  
-  _K_ is preferably always pronounced with a puff of air as in _kin_.
-- **l** = [l]  
-  _L_ is always "light" as _lip_ in and never "dark" as in _cold_.
-- **m** = [m]
-- **n** = [n] ~ [ŋ]  
-  _N_ is pronounced with the tip of the tongue except in combinations _nk_ and _ng_,
-  where it is velar [ŋ] like in _banker_ and _finger_.
-  In the end of a word, the _g_ in _ng_ can be silent.
-  So the word **pang** can be pronounced [paŋ] as well as [paŋg].
-- **p** = [pʰ] ~ [p]  
-  _P_ is pronounced with a puff of air as in _pin_.
-- **r** = [r] ~ [ɹ]  
-  _R_ is preferably trilled as in Scottish and Indian English, or smooth as in American English.
-  Never silent!
-- **s** = [s]  
-  _S_ is always voiceless like the _s_ in _sissy_.
-- **sh** = [ʃ]  
-  _Sh_ is pronounced as in _shop_.
-- **t** = [tʰ] ~ [t]  
-  _T_ is pronounced with a puff of air as in _tin_.
-- **x** = [ks]  
-  _X_ is pronounced as the _x_ in _box_.
-  For example **maxim** is pronounced /maksim/.
-- **z** = [z] ~ [dz]
+Note: The alveolo-palatal affricates *c* [tɕ] and *j* [dʑ] can be also pronounced
+as post-alveolar affricates [tʃ] and [dʒ],
+as alveolo-palatal fricatives [ɕ] and [ʑ],
+or as post-alveolar fricatives [ʃ] and [ʒ].
 
 ## External letters and sounds
 
-There are also additional letters and letter-combinations, which can be used only in _external words_,
+There are also additional letters and letter-combinations, which can be used only in **external words**,
 which do not belong to the ordinary vocabulary of Pandunia, like names of places and people.
 They are not used in any common Pandunia words.
 
-- **c** = [ts]  
-  Like _ts_ in _bits_.
+- **ch** = [tʃ]  
+  Like _ch_ in _church_.
 - **kh** = [x]  
   Voiceless velar fricative, like _ch_ in _Loch_ in Scottish.
 - **gh** = [ɣ]  
@@ -195,6 +101,8 @@ They are not used in any common Pandunia words.
   Like _th_ in _thing_.
 - **dh** = [ð]  
   Like _th_ in _they_.
+- **sh** = [ʃ]  
+  Like *sh* in *shop*.
 - **zh** = [ʒ]  
   Like _z_ in _azure_.
 - **w** = = [w] ~ [ʋ] ~ [v]  
@@ -204,18 +112,13 @@ The additional letters and digraphs are used locally.
 Their purpose is to help to transfer names in local languages to the international language,
 so that local people can recognize them.
 It's OK if you don't know how to pronounce any of these sounds.
-The letters _c_, _q_, and _w_ can be pronounced the same as _ch_, _k_, and _v_,
-and all digraphs can be pronunced as if the _h_ was not there.
-So, for example, _zh_ can be pronounced simply as _z_ in the simplified international accent.
-
+The letters *q* and *w* can be pronounced the same as *k* and *v*,
+and all digraphs can be pronunced as if the *h* was not there.
+So, for example, *zh* can be pronounced simply as *z* in the simplified international accent.
 
 For example, the capital of Greece is called "Αθήνα" /aθina/ in the local language, Greek.
 The Pandunia version of this name is "Athina".
 It can be pronounced either /aθina/ (as the Greek do) or /atina/ (in the simplified international accent).
-
-More examples:  
- **Khartum** Khartoum (the capital of Sudan)  
- **Rhone** Rhône (a river in France and Switzerland)  
 
 ## Word Structure
 
@@ -243,12 +146,12 @@ Each of them is also a word in Pandunia.
 | **plan** |  p  |  l  |  a  |     |  n  | 'plan'       |
 
 
-## Adapting Loan Words
+### Adapting Loan Words
 
 As a general rule, loan words are adapted to the phonetic spelling system of Pandunia.
 This rule is applied to both common words and proper names.
 
-### Common words
+#### Common words
 
 A common word refers to a thing as a member of a group, not as an individual.
 For example _dog_ is a common word but _Sam_ is not, it is a proper name.
@@ -261,7 +164,7 @@ Difficult consonant clusters are avoided in the beginning, middle and end of wor
 so _psyche_ is **sike**, _act_ is **ate**, and _saint_ is **sante** in Pandunia.
 
 
-### Proper names
+#### Proper names
 
 Proper nouns and rarely used common nouns can be more complex than ordinary words.
 They can even include sounds that don't belong to the normal sound inventory of Pandunia.
@@ -293,7 +196,7 @@ There are three reasons why large letters and rules about their usage are not ne
 3. It is simpler to use only small letters.
    No need for special rules for capitalization.
 
-#### Proper names
+### Proper names
 
 Proper names *may* be capitalized according to the writers preference.
 Family names *may* be written completely in large letters.
@@ -307,7 +210,7 @@ However, all names may be written completely in small letters too.
     (3) Ludoviko Lazaro ZAMENHOF, Edgar de VAL, MIZUTA Sentaro
 
 
-#### Acronyms
+### Acronyms
 
 Initialisms, like **ASEAN**, **EU**, **NAFTA** and **UN**, are always written in large letters.
 Other acronyms may use a mixture of large and small letters,
@@ -325,7 +228,7 @@ For example:
 
 « - » Words may be divided into syllables with a hyphen.
 The hyphen is placed between spoken syllables. For example:
- **bus**, **ka-fe**, **hu-mor**, **pos-te**, **hi-drar-gen-te**.
+ *bus*, *ka-fe*, *hu-mor*, *pos-te*, *hi-drar-gen-te*.
 
 
 ## Punctuation
@@ -353,12 +256,5 @@ This practice helps to separate sentences more clearly.
     (1) sal!  tu hao, he?  mi voli go do kafekan.  tu voli lai kon mi, he?
     (2) sal ! tu hao, he ? mi voli go do kafekan . tu voli lai kon mi, he ?
 
-In informal texts, smileys, emoticons and emojis may be used like punctuation marks to end sentences
+In informal texts, smileys, emoticons and emojis may be used instead of punctuation marks to end sentences
 but in addition they indicate the mood of the speaker.
-For example **:)** indicates happiness and **:(** indicates sadness.
-
-**mi love tu :)**
-– I love you.  
-**tu no love mi :(**
-– You don't love me.
-

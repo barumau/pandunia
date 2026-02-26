@@ -8,7 +8,7 @@ Oto alfabet Pandunii z odpowiadającymi im symbolami Międzynarodowego Alfabetu 
 |:--------:|:------:|
 | A        | a      |
 | B        | b      |
-| Ch       | tʃ     |
+| C        | tʃ     |
 | D        | d      |
 | E        | e      |
 | F        | f      |
@@ -24,7 +24,6 @@ Oto alfabet Pandunii z odpowiadającymi im symbolami Międzynarodowego Alfabetu 
 | O        | o      |
 | R        | r (ɹ)  |
 | S        | s      |
-| Sh       | ʃ      |
 | T        | tʰ     |
 | U        | u      |
 | V        | w (ʋ v) |
@@ -43,8 +42,7 @@ Większość spółgosek jest wymawiana tak jak w polskim. Więc wymowa **b, c, 
 Następujące spółgłoski są wymawiane inaczej w Panduni niż w języku polskim.
 
 - **r**, najlepiej, by była drżąca jak w hiszpańskim _carro_. Inne wymowy są akceptowane.
-- **sh** jest zawsze wymawiane jak SZ w _szpital_.
-- **ch** jest zawsze wymawiane jak CZ w _czoło_.
+- **c** jest zawsze wymawiane jak CZ w _czoło_.
 - **j** jest zawsze wymawiane jak DŻ w _dżdżownica_.
 - **n** jest wymawiane końcem języka z wyjątkiem w kombinacjach **nk** i **ng**, gdzie jest to miękkopodniebne /ŋ/ jak w _bank_ wymawianym szybko.
   Na końcu słowa, **g** w **ng** może być nieme.
@@ -72,11 +70,11 @@ Akcentuje się sylabę, która jest przed ostatnią spógłoską.
 2. Akcentuje się ostatnią sylabę w słowach, które kończą się spółgłoską. Np. *hotél*.
 3. Akcentuje się przedostatnią sylabę w słowach które kończą się samogłoską. Np. *póte*, *dúnia*, *muzíke*.
 
-     dunia es vi se mei planeta.  
-    /dúnia és ví se méi planéta./
+     dunia es mimen su mei planeta.  
+    /dúnia és mímen su méi planéta./
 
-     mi van loga komun bashe, da es pandunia.  
-    /mí ván lóga komún báshe, dá és pandúnia./
+     mi voli logu komun basa, le es pandunia.  
+    /mí vóli lógu komún bása, lé és pandúnia./
 
 
 ## Wielkość liter
@@ -124,12 +122,7 @@ Na przykład:
 
 [,] Przecinek oznacza małą pauzę lub przerwę między warunkami lub częściami listy.
 
-W tekstach nieformalnych buźki, emotikony i emoji mogą być używane oznaczyć nastrój. Na przykład **:)** oznacza radość a **:(** oznacza smutek.
-
-**mi vize tu :)**
-– Ja widzę cię.  
-**mi no vize tu :(**
-– Ja nie widzę cię.
+W tekstach nieformalnych buźki, emotikony i emoji mogą być używane oznaczyć nastrój.
 
 
 ## Struktura słów

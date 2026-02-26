@@ -1,5 +1,5 @@
 
-# 2. Ortografia e pronuncia
+# Ortografia e pronuncia
 
 Il pandunia è fonetico in due direzioni:
 
@@ -16,7 +16,7 @@ Il pandunia è scritto con l'alfabeto latino di base - lo stesso usato dall'ingl
 Non ha accenti sulle lettere, che differiscono da lingua a lingua.
 In questo modo può essere digitato, stampato e usato con computer e dispositivi smart in moltissime nazioni senza alcuna difficoltà.
 
-> A B Ch D E F G H I J K L M N O P R S Sh T U V X Y Z
+> A B C D E F G H I J K L M N O P R S T U V X Y Z
 
 ## Nota sulla trascrizione fonetica
 
@@ -38,19 +38,21 @@ che sono molto simili a quelli delle lingue dell'Europa continentale e dell'Amer
 
 L'inventario completo dei suoni del parlato del pandunia è rappresentato nella tabella qui sotto.
 
-|                    | Labiali  |Alveolari | Palatali | Velari  | Glottali |
-|:-------------------|:--------:|:--------:|:--------:|:-------:|:--------:|
-| **Occlusive**      | b p     | t d     | ch j    | k g     |         |
-| **Fricative**      | f       | s z     | sh      |         | h       |
-| **Nasali**         | m       | n       |         | ng      |         |
-| **Laterali**       |         | l       |         |         |         |
-| **Vibranti**       |         | r       |         |         |         |
-| **Semivocaku**     | v       |         | y       |         |         |
-| ---------------    | ------- | ------- | ------- | ------- | ------- |
-| **Vocali chiuse**  | u       |         | i       |         |         |
-| **Vocali medie**   | o       | (ə)     | e       |         |         |
-| **Vovali aperte**  |         | a       |         |         |         |
-|                    |**Posteriori**|**Centrali**|**Anteriori**|        |         |
+|                    | Labiali     | Alveolari   | Palatali      | Velari      |
+|:-------------------|:-----------:|:-----------:|:-------------:|:-----------:|
+| **Occlusive**      | b [b] p [b] | t [t] d [d] |               | k [k] g [g] |
+| **Affricato**      |             |             | c [tɕ] j [dʑ] |             |
+| **Fricative**      | f [f]       | s [s] z [z] |               | h [x ~ h]   |
+| **Nasali**         | m [m]       | n [n]       |               |             |
+| **Laterali**       |             | l [l]       |               |             |
+| **Vibranti**       |             | r [r ~ ɹ]   |               |             |
+| **Semivocali**     | v [w ~ ʋ]   |             | y [j]         |             |
+| ---------------    | -------     | -------     | -------       | -------     |
+| **Vocali chiuse**  | u [u]       |             | i [i]         |             |
+| **Vocali medie**   | o [o̞]       |             | e [e̞]         |             |
+| **Vocali aperte**  |             | a [a]       |               |             |
+|                   |**Posteriori**|**Centrali** |**Anteriori**  |             |
+
 
 ### Vocali
 
@@ -122,8 +124,8 @@ Se sono ammesse pronunce alternative,
 sono unite dalla tilde (~).
 
 - **b** = [b]
-- **ch** = [tʃ]  
-  _Ch_ si pronuncia come la _c_ in _cielo_.
+- **c** = [tʃ]  
+  _C_ si pronuncia come la _c_ in _cielo_.
 - **d** = [d]
 - **f** = [f]
 - **g** = [g]  
@@ -149,8 +151,6 @@ sono unite dalla tilde (~).
   Non è mai muta!
 - **s** = [s]  
   _S_ è sempre sorda come _s_ in _sasso_.
-- **sh** = [ʃ]  
-  _Sh_ si pronuncia come _sc_ in _sceriffo_.
 - **t** = [tʰ] ~ [t]  
   _T_ si pronuncia con una piccola aspirazione, come in inglese _tin_.
 - **x** = [ks] ~ [s]  
@@ -167,8 +167,8 @@ Ci sono anche lettere e combinazioni di lettere addizionali, che possono essere 
 che non appartengono al vocabolario ordinario del pandunia, come nomi di luoghi e di persone.
 Non sono usate in nessuna parola comune del pandunia.
 
-- **c** = [ts]  
-  Affricata alveolare sorda, come _z_ in _marzo_.
+- **ch** = [tʃ]  
+  Affricata palato-alveolare sorda, come _c_ in _cielo_.
 - **kh** = [x]  
   Fricativa velare sorda, come _j_ nello spagnolo _Juan_.
 - **gh** = [ɣ]  
@@ -187,6 +187,8 @@ Non sono usate in nessuna parola comune del pandunia.
   Fricativa dentale sorda, come _th_ nell'inglese _thing_.
 - **dh** = [ð]  
   Fricativa dentale sonora, come _d_ nello spagnolo _miedo_.
+- **sh** = [ʃ]  
+  _Sh_ si pronuncia come _sc_ in _sceriffo_.
 - **zh** = [ʒ]  
   Fricativa postalveolare sonora, come _j_ nel franceese _jour_.
 - **w** = = [w] ~ [ʋ] ~ [v]  
@@ -344,14 +346,8 @@ Una persona può
 (2) inserire uno spazio prima e dopo il segno di punteggiatura.
 Questa abitudine aiuta a separare le frasi con più chiarezza.
 
-    (1) sal!  tu gud, he?  mi van go to kafekan.  tu van kom kon mi, he?
-    (2) sal ! tu gud, he ? mi van go to kafekan . tu van kom kon mi, he ?
+    (1) sal!  tu hao, he?  mi voli go to kafekan.  tu voli lai kon mi, he?
+    (2) sal ! tu hao, he ? mi voli go to kafekan . tu voli lai kon mi, he ?
 
 In testi informali si possono usare smiley, emoticon ed emoji come se fossero segni di punteggiatura per terminare le frasi,
 ma in più essi indicano lo stato d'animo del parlante.
-Per esempio **:)** indica felicità e **:(** indica tristezza.
-
-**mi visi tu :)**
-– Io ti vedo.  
-**tu no visi mi :(**
-– Tu non mi vedi.
