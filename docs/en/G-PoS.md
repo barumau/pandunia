@@ -100,7 +100,7 @@ whereas content words are translated in the dictionary.
 In Pandunia, sentences are held together by a fixed group of structure words.
 They include pronouns (such as **mi** 'I' and **tu** 'you'),
 determiners (such as **un** 'a, one' and **el** 'the')
-and various grammatical particles (such as the affirmative and negative particles **ye** and **no**).
+and various grammatical particles (such as the affirmative and negative particles **ya** and **no**).
 Structure words make the syntactical structure easy to see,
 because they mark out the boundaries between sentence constituents.
 
@@ -109,23 +109,23 @@ It doesn't matter if one doesn't know any of the content words.
 It's because the structure words define the structure and the content words define the meaning.
 For example, consider the following sentence where only structure words are visible and content words are hidden.
 
-    ░░░░ ░░░░ ye ░░░░ ░░░░ un ░░░░ ░░░░.
+    ░░░░ ░░░░ ya ░░░░ ░░░░ un ░░░░ ░░░░.
 
-Here the structure words *ye* and *un* form a certain construction or mold where content words are inserted.
+Here the structure words *ya* and *un* form a certain construction or mold where content words are inserted.
 The type and placement of the structure words reveals the structure of the mold.
 Namely, it is the transitive clause construction.
 It is identified by its three-part structure.
 First there is the subject (a noun phrase).
 It is followed by the predicate (a verb phrase),
-whose beginning is marked here by the affirmative particle *ye*.
+whose beginning is marked here by the affirmative particle *ya*.
 It is in turn followed by the object (another noun phrase),
 whose beginning is marked by the determiner *un* 'a, one'.
 
     Figure. The transtive construction in three levels.
     
-     ┌─────────┐ ┌───────────┐┌────────────┐
-     │ ░░░ ░░░ │ │ye ░░░ ░░░ ││ un ░░░ ░░░.│  WORD LEVEL
-     └────┬────┘ └─────┬─────┘└─────┬──────┘
+     ┌─────────┐ ┌────────────┐┌────────────┐
+     │ ░░░ ░░░ │ │ ya ░░░ ░░░ ││ un ░░░ ░░░.│  WORD LEVEL
+     └────┬────┘ └──────┬─────┘└────┬───────┘
     ------│------------│------------│----------------------------
     ┌─────┴─────┐┌─────┴─────┐┌─────┴─────┐
     │NOUN PHRASE││VERB PHRASE││NOUN PHRASE│   PHRASE LEVEL
@@ -144,11 +144,11 @@ as in the table below.
 
 | Subject         | TAM    | Predicate    | Det.   | Object            |
 |-----------------|--------|--------------|--------|-------------------|
-| *hapi bacha*    | **ye** | *kitab*      | **un** | *long letre.*     |
+| *hapi baca*     | **ya** | *kitab*      | **un** | *long letre.*     |
 | The happy child |        | writes       |        | a long letter.    |
-| *jun man*       | **ye** | *vize*       | **un** | *mei parke.*      |
+| *jun man*       | **ya** | *vize*       | **un** | *mei parke.*      |
 | The young man   |        | sees         |        | a beautiful park. |
-| *multi jan*     | **ye** | *voli shope* | **un** | nova haus.*       |
+| *multi jen*     | **ya** | *voli shope* | **un** | nova haus.*       |
 | Many people     |        | want to buy  |        | a new house.      |
 
 So the key to decoding Pandunia is to know the structure words and the clause constructions.

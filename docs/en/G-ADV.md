@@ -24,14 +24,14 @@ For example *day* (big) and *lil* (little) can be used as intensifying adverbs.
 
 *dai hom*
 – a big person  
-*let jan*
+*let jen*
 – a little person  
-*mei jan*
+*mei jen*
 – a beautiful person
 
-*dai li mei jan*
+*dai li mei jen*
 – very beautiful person  
-*let li mei jan*
+*let li mei jen*
 – somewhat beautiful person
 
 

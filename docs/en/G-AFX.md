@@ -34,7 +34,7 @@ can function as a verb (_to write_), a noun (_a writing_) and adjective (_writte
 – I write a letter.  
 **letre es kitab misaje.**
 – A letter is a written message.  
-**mi love tu di kitab.**
+**mi ame tu su kitab.**
 – I love your writings.
 
 

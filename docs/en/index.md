@@ -106,7 +106,7 @@ Comparison is done with helping words:
 
 **mi es max hao ka tu.**
 – I am better (_more good_) than you.  
-**no, tu es par hao ka mi.**
+**ne, tu es par hao ka mi.**
 – No, you are as good as me.  
 **ho loge max rapid ka tu.**
 – He or she talks faster (_more fast_) than you.
@@ -121,11 +121,11 @@ Time is expressed with auxiliary verbs:
 **zai**
 – ongoing events
 
-**homen pas lege mi di buk.**
+**homen pas lese mi su buk.**
 – They read my book.  
-**mimen ha lege multi buk.**
+**mimen ha lese multi buk.**
 – We have read many books.  
-**mi zai lege un buk.**
+**mi zai lese un buk.**
 – I am reading one book.  
 **tu fu basa Pandunia.**
 – You will talk Pandunia.

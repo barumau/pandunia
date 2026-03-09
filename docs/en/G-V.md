@@ -117,7 +117,7 @@ This marker is used in both main and subordinate clauses.
 – I *would* go to Dubai.  
 **mi** ***vud*** **go, if tu vud las mi.**
 – I *would* go if you would let me.  
-**tu no** ***vud*** **es suka, if mi** ***vud*** **go.**
+**tu ne** ***vud*** **es suka, if mi** ***vud*** **go.**
 – You would not be happy, if I would go.
 
 The auxiliary verb
@@ -169,7 +169,7 @@ Passive:
 The agent of the action can be expressed also in passive clauses by using the preposition
 **da**.
 
-**mi di gar le bi bate da tren.**
+**mi su gar le bi bate da tren.**
 – My car was hit by a train.
 
 The equivalent of passive (past) participle is built by using the prefix

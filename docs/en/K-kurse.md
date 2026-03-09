@@ -28,13 +28,13 @@ hide:
 **mi es Sara. ho es ke?**
 – I am Sara. Who is that?  
 <big>☻</big>
-**ho es mi di doste.**
+**ho es mi su doste.**
 – That is my friend.  
 <big>☺</big>
-**ho di nam es ke?**
+**ho su nim es ke?**
 – What's her name?  
 <big>☻</big>
-**ho di nam es Maria.**
+**ho su nim es Maria.**
 – Her name is Maria.
 
 ### Grammar
@@ -42,11 +42,11 @@ hide:
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
 tells something about the topic. For instance in
-**ho es mi di doste**
+**ho es mi su doste**
 the topic is the pronoun
 **ho**
 (he, she, it), which is followed by the comment
-**es mi di doste**
+**es mi su doste**
 (is my friend).
 
 In Pandunia, the word
@@ -54,17 +54,17 @@ In Pandunia, the word
 functions like _to be_ in English.
 The same word is used for all persons.
 And to say the opposite, simply put
-**no**
+**ne**
 before it.
 
 **ho es Sara.**
 – She is Sarah.  
-**ho no es Sara.**
+**ho ne es Sara.**
 – She is not Sarah.
 
 **mau es hevan.**
 – The cat is an animal.  
-**haus no es hevan.**
+**haus ne es hevan.**
 – The house is not an animal.  
 
 In the same way you can describe yourself by saying
@@ -98,27 +98,27 @@ The correct answers are after the word list.
 
 **mi**
 I, me  
-**mi di**
+**mi su**
 my  
 **tu**
 you  
-**tu di**
+**tu su**
 your  
 **ho**
 he, she or it  
-**ho di**
+**ho su**
 his, her, its  
 **ke**
 who or what  
 **es**
 to be  
-**no**
+**ne**
 no; not  
 **hao**
 good  
 **doste**
 friend  
-**nam**
+**nim**
 name  
 **fem**
 woman  
@@ -133,10 +133,10 @@ animal
 
 1. tu es ke?
 2. mi es Tomas.
-3. tu di doste es ke?
+3. tu su doste es ke?
 4. ho es Sara.
-5. tu di nam es ke?
-6. mi di nam es ........... 
+5. tu su nim es ke?
+6. mi su nim es ........... 
 
 
 --------------------------------------------------------------------------------
@@ -282,7 +282,7 @@ chief, boss
 
 ### Dialog
 
-![](http://www.pandunia.info/grafe/laupapa.png "cin pa i bacha")  
+![](http://www.pandunia.info/grafe/laupapa.png "cin pa e baca")  
 <small>Image designed by [macrovector](https://www.freepik.com/macrovector)</small>
 
 <big>☻</big>
@@ -305,7 +305,7 @@ chief, boss
 **cin pa, mi mus go a nun.**
 – Grandfather, I have to go now.  
 <big>☺</big>
-**okei. ples sal tu di mama!**
+**okei. ples sal tu su mama!**
 – OK. Please tell greetings to your mother.  
 <big>☻</big>
 **mi sal ho. sal reste!**
@@ -476,13 +476,13 @@ to eat or drink
 **tu ne?**
 – And you?  
 <big>☹</big>
-**mi no basa pandunia...**
+**mi ne basa pandunia...**
 – I don't speak Pandunia...  
 <big>☺</big>
 **perdon! sual ho yam ca?**
 – Pardon! Will he have tea?  
 <big>☻</big>
-**no. ho no yam ca. ho yam kafe.**
+**ne. ho ne yam ca. ho yam kafe.**
 – No, he won't. He would like to have coffee.  
 <big>☺</big>
 **sual tu yam supa?**
@@ -494,7 +494,7 @@ to eat or drink
 **sual ho yam supa?**
 – Would he like to have soup?  
 <big>☻</big>
-**no yam.**
+**ne yam.**
 – No.  
 <big>☺</big>
 **danke. mi don un ca e un kafe e un supa pos des minute.**
@@ -544,7 +544,7 @@ Of course common and proper nouns can also be used.
 Yes/no questions can be answered with
 **ya**
 'yes', and
-**no**
+**ne**
 'no'.
 
 – **sual tu yam supa?**
@@ -553,7 +553,7 @@ Yes/no questions can be answered with
 = Yes.  
 – **sual ho yam supa?**
 = Does she eat soup?  
-– **no.**
+– **ne.**
 = No.
 
 Also more complete answers can be given.
@@ -564,7 +564,7 @@ Also more complete answers can be given.
 – Yes, I drink coffee.  
 – **sual ho yam kafe?**
 – Does he drink coffee?  
-– **no. ho no yam kafe.**
+– **ne. ho ne yam kafe.**
 – No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
@@ -619,9 +619,9 @@ yes
 1. sual tu basa pandunia?
 2. ya. mi basa pandunia.
 3. sual mama yam kafe?
-4. no. ho no yam kafe.
+4. ne. ho ne yam kafe.
 5. sual ho yam supa?
-6. (ho) no yam.
+6. (ho) ne yam.
 
 
 --------------------------------------------------------------------------------
@@ -631,23 +631,23 @@ yes
 In the previous lesson you learned to answer
 **ya**
 and
-**no**
+**ne**
 to questions. The word
-**no**
+**ne**
 is used for denying something. Adding
-**no**
+**ne**
 in front of the verb turns an affirmative sentence to negative.
 
 **mi sal tu.**
 – I greet you.  
-**mi no sal tu.**
+**mi ne sal tu.**
 – I do not greet you.
 
 Conceptually negation means the absence or non-existence of the negated word.
 In the phrase
-**mi no sal tu**
+**mi ne sal tu**
 the negative word
-**no**
+**ne**
 denies the existence of greeting.
 
 In Pandunia the negative word affects the word that follows it.
@@ -656,21 +656,21 @@ of the negative word.
 
 **mi cing tu safi kamre.**
 – I ask you to clean the room.  
-**mi no cing tu safi kamre.**
+**mi ne cing tu safi kamre.**
 – I do NOT ask you to clean the room.  
-**mi cing tu no safi kamre.**
+**mi cing tu ne safi kamre.**
 – I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
 and even numeral.
 
-**ho no have mau.**
+**ho ne have mau.**
 – She doesn't have a cat.  
-**ho have no mau, ama gau.**
+**ho have ne mau, ama gau.**
 – She has no cats but dogs.  
-**no ho, ama mi have mau.**
+**ne ho, ama mi have mau.**
 – Not she but I have cats. (It's not her, but me who has cats.)  
-**mi have no un, ama du mau.**
+**mi have ne un, ama du mau.**
 – I have not one but two cats.
 
 
@@ -709,12 +709,12 @@ zero
 
 ### Answers to the Exercises
 
-1. ho no safi kamre.
-2. un kupa no hali.
-3. du gau no yam supa.
-4. ho no have gau e mau. / ho have no gau e no mau.
-5. cef yam ca ama no kafe.
-6. mama have no gau ama du mau.
+1. ho ne safi kamre.
+2. un kupa ne hali.
+3. du gau ne yam supa.
+4. ho ne have gau e mau. / ho have ne gau e ne mau.
+5. cef yam ca ama ne kafe.
+6. mama have ne gau ama du mau.
 
 
 --------------------------------------------------------------------------------
@@ -729,12 +729,12 @@ The question can be made more specific by adding words for person, time, manner 
 
 **ho es ke?**
 – What is that? / Who is (s)he?  
-**ho es ke jan?**
+**ho es ke jen?**
 – Who is he/she?  
 **ho es ke made?**
 – What (thing) is it?  
-**ke jan vene?**
-– Who is coming? (**jan** – person)  
+**ke jen vene?**
+– Who is coming? (**jen** – person)  
 **tu yam a ke zaman?**
 – When do you eat? (**zaman** – time)  
 **se danse a ke yang?**
@@ -794,12 +794,12 @@ period of time
 ### Answers to the Exercises
 
 
-1. ke jan suka supa?
+1. ke jen suka supa?
 2. papa suka.
 3. ke zaman ho vene?
 4. pos des minute.
-5. ke sabab ho no yam?
-6. de sabab ho no suka kafe e supa.
+5. ke sabab ho ne yam?
+6. de sabab ho ne suka kafe e supa.
 
 
 --------------------------------------------------------------------------------
@@ -835,11 +835,11 @@ There are also specific time words.
 
 They can be used for modifying nouns.
 
-**Sara es mi di pas cef.**
+**Sara es mi su pas cef.**
 – Sarah is my former boss.  
-**Yusef es mi di zai cef.**
+**Yusef es mi su zai cef.**
 – Yusef is my current boss.  
-**Maria es mi di fu cef.**
+**Maria es mi su fu cef.**
 – Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
@@ -911,10 +911,10 @@ milk
 
 ### Answers to the Exercises
 
-1. mi di cef festa a fu.
+1. mi su cef festa a fu.
 2. mi have du gau a pas.
 3. tu yam supa a zai.
 4. ho safi kamre a preden.
 5. mau yam milke a posden.
-6. tu di ma festa a prenoce.
+6. tu su ma festa a prenoce.
 

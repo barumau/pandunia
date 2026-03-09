@@ -59,7 +59,7 @@ The complete speech sound inventory of Pandunia is presented with phonetic symbo
 |                    | Labial      | Alveolar    | Palatal       | Velar       |
 |:-------------------|:-----------:|:-----------:|:-------------:|:-----------:|
 | **Stops**          | b [b] p [b] | t [t] d [d] |               | k [k] g [g] |
-| **Affricates**     |             |             | c [tɕ] j [dʑ] |             |
+| **Affricates**     |             |             | c [tʃ] j [dʒ] |             |
 | **Fricatives**     | f [f]       | s [s] z [z] |               | h [x ~ h]   |
 | **Nasals**         | m [m]       | n [n]       |               |             |
 | **Lateral**        |             | l [l]       |               |             |
@@ -70,10 +70,10 @@ The complete speech sound inventory of Pandunia is presented with phonetic symbo
 | **Low vowels**     |             | a [a]       |               |             |
 |                    | **Back**    | **Central** | **Front**     |             |
 
-Note: The alveolo-palatal affricates *c* [tɕ] and *j* [dʑ] can be also pronounced
-as post-alveolar affricates [tʃ] and [dʒ],
-as alveolo-palatal fricatives [ɕ] and [ʑ],
-or as post-alveolar fricatives [ʃ] and [ʒ].
+Note: The post-alveolar affricates *c* [tɕ] and *j* [dʑ] can be also pronounced
+as alveolo-palatal affricates [tʃ] and [dʒ],
+as post-alveolar fricatives [ʃ] and [ʒ],
+or as alveolo-palatal fricatives [ɕ] and [ʑ].
 
 ## External letters and sounds
 

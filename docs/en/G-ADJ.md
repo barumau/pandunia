@@ -31,7 +31,7 @@ In Pandunia, adjectives are modifiers that are placed before the noun that they 
 – _big_ tables  
 **multi _gao_ meza**
 – high tables  
-**un _hao_ jan**
+**un _hao_ jen**
 – a good person
 
 Two or more modifiers can modify the same noun.
@@ -57,7 +57,7 @@ It makes the structure of the verb phrase clearer.
 
 **tu _mei li_ kitab.**
 – You write _beautifully_.  
-**homen _rapid li_ marche.**
+**homen _rapid li_ marce.**
 – They walk _fast_.
 
 

@@ -166,7 +166,7 @@ The chair is not self-propelled and it doesn't move by itself.
 The person is the one who moves
 and the house stands still.
 
-**vafᴬ marche.**
+**gauᴬ marce.**
 – The dogᴬ walks.
 
 The dog moves and it is self-moving.
@@ -240,7 +240,7 @@ You can apply *any axe* to *any tree*, but you can't apply *any mother* to *any 
 There is a natural relation between the mother and the child. The mother is the child's mother and the child is the mother's child.
 So there is a natural assumption, that the one who applies a mother (or motherhood) is the mother herself.
 
-**mi matre mi se ben.**
+**mi matre mi su ben.**
 – 'I mother my child.'
 
 The meaning of some of these sentences can be unintuitive for some people.

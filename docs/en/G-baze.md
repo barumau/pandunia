@@ -61,25 +61,25 @@ They are described in more detail later in this document.
     'they'.
 
     The possessive pronouns are:  
-    *mi di*
+    *mi su*
     'my',
-    *tu di*
+    *tu su*
     'your',
-    *ho di*
+    *ho su*
     'his or her',
-    *mimen di*
+    *mimen su*
     'our',
-    *tumen di*
+    *tumen su*
     'your',
-    *homen di*
+    *homen su*
     'their'.
 
     The interrogative pronouns are:
-    *qua*
+    *ke*
     'what',
-    *qua jan*
+    *ke jen*
     'who',
-    *qua di* ~ *qua jan di*
+    *ke su* ~ *ke jen su*
     'whose'.
 
     [Read more!](G-PRO.md)
@@ -188,7 +188,7 @@ They are described in more detail later in this document.
 
     Pronouns can be left out when they are obvious and redundant.
     
-    *mi que tu bashe pandunia?* → *que tu bashe pandunia?*  
+    *mi que tu basa pandunia?* → *que tu basa pandunia?*  
     'Do you speak Panlingue?'
 
     *me ples tu loge klar.* →  *ples loge klar.*  

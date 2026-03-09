@@ -31,7 +31,7 @@ because, when you are hit by a sudden pain,
 first your mouth opens wide (producing the *a* sound),
 and then it tightens into a grimace (producing the *i* sound).
 It's easy to imagine where the following words come from:
-*achi*
+*aci*
 ('to sneeze'),
 *glut*
 ('to swallow')

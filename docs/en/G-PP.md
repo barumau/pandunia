@@ -18,7 +18,7 @@ The preposition
 **na**
 expresses general location in time or space, 'at, by, in, on'.
 
-**mimen marche na dao.**
+**mimen marce na dao.**
 – We walk ON the road.  
 **mau side na meza.**
 – A cat sits ON the table.  
@@ -33,7 +33,7 @@ denotes destination in the broadest sense.
 
 It denotes the destination of movement, 'to'.
 
-**homen marche do bazar.**
+**homen marce do bazar.**
 – They walk TO the market.
 
 It denotes the destination of giving i.e. the recipient, 'to, for'.
@@ -45,7 +45,7 @@ It denotes the destination of giving i.e. the recipient, 'to, for'.
 
 It denotes the causal destination, 'for, for the purpose of'.
 
-**mi vud morte do mi se nasia.**
+**mi vud morte do mi su nasia.**
 – I would die FOR my nation.
 
 ### Origin: ze
@@ -108,7 +108,7 @@ The preposition
 **kon**
 denotes togetherness, 'with, in the company of'.
 
-**ho loge kon el shef.**
+**ho loge kon el cef.**
 – He/she talks with the chief.
 
 ### pos ('after')

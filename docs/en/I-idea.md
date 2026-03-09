@@ -400,16 +400,16 @@ So it covers the English third-person pronouns _he_, _she_ and _it_, all at once
 | they       | homen      | tāmen      |
 
 The possessive pronouns follow the super simple pattern of Standard Chinese.
-Simply add **se** to form the possessive, as below.
+Simply add **su** to form the possessive, as below.
 
 | English    | Pandunia   | Chinese    |
 |------------|------------|------------|
-| my         | mi di      | wǒ de      |
-| your       | tu di      | nǐ de      |
-| his/her/its| ho di      | tā de      |
-| our        | mimen di   | wǒmen de   |
-| your       | tumen di   | nǐmen de   |
-| their      | homen di   | tāmen de   |
+| my         | mi su      | wǒ de      |
+| your       | tu su      | nǐ de      |
+| his/her/its| ho su      | tā de      |
+| our        | mimen su   | wǒmen de   |
+| your       | tumen su   | nǐmen de   |
+| their      | homen su   | tāmen de   |
 
 The personal pronouns in Pandunia attain three important goals.
 
@@ -447,7 +447,7 @@ is used when the object of the action comes first in the sentence.
 but it is also close to some uses of English *to be*.
 
     English:   It can not be eaten.
-    Pandunia:  ho no pote bi yam.
+    Pandunia:  ho ne pote bi yam.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".

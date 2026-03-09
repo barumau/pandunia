@@ -9,7 +9,7 @@
 | 1 un         | 11 des un      | 21 du des un     | 31 tri des un      |
 | 2 du         | 12 des du      | 22 du des du     | 32 tri des du      |
 | 3 tri        | 13 des tri     | 23 du des tri    | 33 tri des tri     |
-| 4 char       | 14 des char    | 24 du des char   | 34 tri des char    |
+| 4 car        | 14 des car     | 24 du des car    | 34 tri des car     |
 | 5 pen        | 15 des pen     | 25 du des pen    | 35 tri des pen     |
 | 6 luk        | 16 des luk     | 26 du des luk    | 36 tri des luk     |
 | 7 chet       | 17 des chet    | 27 du des chet   | 37 tri des chet    |
@@ -21,7 +21,7 @@
 | 1 un         | 10 (un) des    | 100 un cento     | 1000 un kilo       |
 | 2 du         | 20 du des      | 200 du cento     | 2000 du kilo       |
 | 3 tri        | 30 tri des     | 300 tri cento    | 3000 tri kilo      |
-| 4 char       | 40 char des    | 400 char cento   | 4000 char kilo     |
+| 4 car        | 40 car des     | 400 car cento    | 4000 car kilo      |
 | 5 pen        | 50 pen des     | 500 pen cento    | 5000 pen kilo      |
 | 6 luk        | 60 luk des     | 600 luk cento    | 6000 luk kilo      |
 | 7 chet       | 70 chet des    | 700 chet cento   | 7000 chet kilo     |
@@ -124,19 +124,19 @@ which includes, among many others,
 'cask, barrel'.
 
 Measure words are used in this simple structure:
-number + measure word + **se** + noun.
+number + measure word + **ze** + noun.
 
-**du litre se jus**
+**du litre ze jus**
 – two liters of juice  
-**tri metre se kable**
+**tri metre ze kable**
 – three meters of wire  
-**un kupa se kafe**
+**un kupa ze kafe**
 – a cup of cofee  
-**du botle se vin**
+**du botle ze vin**
 – two bottles of wine  
-**tri sake se patato**
+**tri sake ze patato**
 – three sacks of potatoes  
-**for tin se limon jus**
+**car tin ze limon jus**
 – four cans of lemonade
 
 
@@ -164,9 +164,9 @@ stands for '2/3' in mathematical symbols.
 
 **un parte du**
 – a half (½)  
-**un parte for**
+**un parte car**
 – one fourth, one quarter (¼)  
-**tri parte for**
+**tri parte car**
 – three fourths, three quarters (¾)  
 **un parte hunde**
 – one hundredth, one percent (1%)  
@@ -174,13 +174,13 @@ stands for '2/3' in mathematical symbols.
 – one thousandth, one permille (1‰)
 
 Fractions are connected to their noun head with
-**se**.
+**ze**.
 
-**un parte du se haur**
+**un parte du ze haur**
 – a half (of an) hour  
-**faif ten parte hunde se jen**
+**faif ten parte hunde ze jen**
 – fifty percent of people  
-**du parte tri se keke**
+**du parte tri ze keke**
 – two thirds of a cake  
 
 
@@ -191,9 +191,9 @@ It uses the pattern
 
 **un of du parte**
 – one of two parts, a half (½)  
-**un of for parte**
+**un of car parte**
 – one of four parts, a quarter (¼)  
-**tri of for parte**
+**tri of car parte**
 – three of four parts, three quarters (¾)  
 **un of hunde parte**
 – one of hundred parts, a percent (1%)  
@@ -237,7 +237,7 @@ Names of the months are made up of the number of the month and
    – February
 3. **mes tri**
    – March
-4. **mes char**
+4. **mes car**
   – April
 5. **mes pen**
   – May
@@ -295,7 +295,7 @@ and we never use words like *past* and *to* in Pandunia.
 – three fifteen – or quarter past three  
 **haur tri e tri des**
 – three thirty – or half past three  
-**haur tri e char des pen**
+**haur tri e car des pen**
 – three forty-five – or quarter to four  
 **haur tri e pen des**
 – three fifty – or ten to four  

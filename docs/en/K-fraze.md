@@ -55,7 +55,7 @@ You can just speak Pandunia!
 *sal sham!*
 – Good evening!
 
-*sal noche!*
+*sal noce!*
 – Good night!
 
 *sal yam!*
@@ -64,7 +64,7 @@ You can just speak Pandunia!
 *sal vene!*
 – Welcome!
 
-*sal chut!*
+*sal cut!*
 – Goodbye!
 
 *sal safar!*
@@ -111,7 +111,7 @@ Indonesian *selamat*.</small>
 *ya, cukre.*
 – Yes, thank you.
 
-*no, cukre.*
+*ne, cukre.*
 – No, thank you.
 
 *cukre tu.*
@@ -126,7 +126,7 @@ Indonesian *selamat*.</small>
 *cukre tu helpe mi.*
 – Thanks for helping me.
 
-*no yau cukre.*
+*ne yau cukre.*
 – You're welcome. (Literally: _No need to thank._)
 
 
@@ -173,7 +173,7 @@ The word
 is both a noun and a verb.
 The basic word order in Pandunia is subject–verb–object.
 
-*Sara ye sal Tomas.*
+*Sara ya sal Tomas.*
 – Sarah greets Thomas.
 
 *sal mama!*
@@ -280,7 +280,7 @@ In fact, the previous question is simply abbreviated from
 – I'm good.  
 *tu ne?*
 – And you?  
-*mi no hao.*
+*mi ne hao.*
 – I'm not good.
 
 <small>Etymology. *sual* is from
@@ -313,12 +313,12 @@ Malay *ya*,
 Korean 예 (ya).</small>
 
 
-### no <small>no, not</small>
+### ne <small>no, not</small>
 
-*mi no es Sara.*
+*mi ne es Sara.*
 – I'm not Sarah.
 
-*mi no es dokter.*
+*mi ne es dokter.*
 – I'm not a doctor.
 
 *sual tu hao?*
@@ -328,19 +328,19 @@ Korean 예 (ya).</small>
 
 *sual tu es hao?*
 – Are you well?  
-*no, mi no es hao.*
+*ne, mi ne es hao.*
 – No, I'm not well.
 
 You can use
-*no*
+*ne*
 to deny anything.
 It is placed before the word that is denied.
 
-*ho no sal mi.*
+*ho ne sal mi.*
 – He/she doesn't greet me.
 
 <small>Similar words to
-*no*
+*ne*
 in other languages:  
 Spanish *no*,
 English *no*,
@@ -380,7 +380,7 @@ Bengali না (na).</small>
 – They are apples.
 
 
-### ke jan? <small>who?</small>
+### ke jen? <small>who?</small>
 
 *ke yen?*
 – Who? ~ Which person?
@@ -462,66 +462,69 @@ Bengali কী (ke).
 – They are there.
 
 
-### di <small>'s (possessive particle)</small>
+### su <small>'s (possessive particle)</small>
 
 *ye es ke?*
 – What's this?
 
-*ho es mi di telefon.*
+*ho es mi su telefon.*
 – It's my telephone.
 
-*ye es ke di?*
+*ye es ke su?*
 – Whose is this?
 
-*ho es mi di.*
+*ho es mi su.*
 – It's mine.
 
 Note: The possessive particle
-*di*
+*su*
 is joined to the owner. So
-*mi di*
+*mi su*
 means 'my',
-*tu di*
+*tu su*
 means 'your' and so on.
 
 *ho es ke?*
 – Who's he/she?
 
-*ho es mi di doste.*
+*ho es mi su doste.*
 – He/she is my friend.
 
-*mi es Sara di doste.*
+*mi es Sara su doste.*
 – I am Sarah's friend.
 
 It's also possible to end a sentence with
-*di*.
+*su*.
 
-*mau es mi di.*
+*mau es mi su.*
 The cat is mine.  
-*mone es mimen di.*
+*mone es mimen su.*
 The money is our.  
-*doste es Sara di.*
+*doste es Sara su.*
 The friend is Sara's.
 
 <small>
 Similar words to
-*di*
+*su*
 in other languages:
-Mandarin 的 (de, di).</small>
+Spanish *su*,
+Portuguese *seu*,
+French *son* ~ *sa*,
+Afrikaans *se*.</small>
 
 
 ### nim <small>name</small>
 
-*tu di nim es ke?*
+*tu su nim es ke?*
 – What's your name?
 
-*mi di nim es Tomas.*
+*mi su nim es Tomas.*
 – My name is Thomas.
 
-*ho di nim es ke?*
+*ho su nim es ke?*
 – What is his/her name?
 
-*ho di nim es Sara.*
+*ho su nim es Sara.*
 – Her name is Sarah.
 
 <small>Similar words to
@@ -541,7 +544,7 @@ English *name*.</small>
 *mi have un hao haus.*
 – I have a good house.
 
-*ho no have mone.*
+*ho ne have mone.*
 – He doesn't have money.
 
 *mi voli have un nova telefon.*
@@ -571,7 +574,7 @@ English *name*.</small>
 *sual tu nos vo jen?*
 – Do you know that person?
 
-*mi no nos.*
+*mi ne nos.*
 – I don't know.
 
 *sual tumen nos alale?*
@@ -600,7 +603,7 @@ English *name*.</small>
 
 ### yam <small>consume, eat, drink</small>
 
-*sual tu voli yam som ting?*
+*sual tu voli yam som made?*
 – Would you like to eat something?
 
 *ho yam un aple.*
@@ -645,9 +648,9 @@ the word order is not affected by the
 *mi voli yam kafe.*
 – I want to drink coffee.
 
-*sual tu voli yam cha?*
+*sual tu voli yam ca?*
 – Would you like to drink tea?  
-*no. mi no voli cha. mi voli kafe.*
+*ne. mi ne voli ca. mi voli kafe.*
 – No, I don't want tea. I want coffee.
 
 *tu voli ke aple?*
@@ -658,7 +661,7 @@ the word order is not affected by the
 
 ### ples <small>ask, beg; please</small>
 
-*mi ples tu yam cha.*
+*mi ples tu yam ca.*
 – I beg you to drink tea.
 
 *mi ples tu vene haus.*
@@ -669,7 +672,7 @@ the word order is not affected by the
 
 Tip: To make direct requests, drop all the pronouns.
 
-*ples yam cha.*
+*ples yam ca.*
 – Please, have some tea!
 
 *ples yam kafe.*
@@ -722,13 +725,13 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### perdon <small>sorry, pardon</small>
 
-*perdon! mi no aha.*
+*perdon! mi ne aha.*
 – Sorry, I don't understand.
 
 *perdon! ye es ke?*
 – Excuse me, what's this?
 
-*perdon. tu di nim es ke?*
+*perdon. tu su nim es ke?*
 – Excuse me, what's your name?
 
 
@@ -740,13 +743,13 @@ Tip: To make direct requests, drop all the pronouns.
 *mi aha.*
 – I understand.
 
-*perdon. mi no aha tu.*
+*perdon. mi ne aha tu.*
 – Sorry. I don't understand you.
 
-*mi no bas aha tu.*
+*mi ne bas aha tu.*
 – I didn't quite understand you.
 
-*mi aha no ting.*
+*mi aha no made.*
 – I don't understand at all.
 
 
@@ -755,7 +758,7 @@ Tip: To make direct requests, drop all the pronouns.
 *mi pote cofe kar.*
 – I can drive a car.
 
-*ho no pote cofe kar.*
+*ho ne pote cofe kar.*
 – He/she doesn't know how to drive a car.
 
 *sual tu pote shuli ho?*
@@ -770,10 +773,10 @@ Tip: To make direct requests, drop all the pronouns.
 *mi pote kam pandunia.*
 – I can speak a little Pandunia.
 
-*mi no pote angle.*
+*mi ne pote angle.*
 – I can't speak English.
 
-*perdon. mi no pote tu di basa.*
+*perdon. mi ne pote tu su basa.*
 – Sorry, I can't speak your language.
 
 
@@ -806,7 +809,7 @@ Tip: To make direct requests, drop all the pronouns.
 *audi mi!*
 – Listen to me!
 
-*mi no pote audi tu.*
+*mi ne pote audi tu.*
 – I can't hear you.
 
 *ples log mor bala.*
@@ -815,7 +818,7 @@ Tip: To make direct requests, drop all the pronouns.
 *mi audi muzike.*
 – I listen to music.
 
-*tu audi ke tip di muzike?*
+*tu audi ke tip da muzike?*
 – What kind of music do you listen to?
 
 
@@ -845,13 +848,13 @@ Tip: To make direct requests, drop all the pronouns.
 *ho sema un tipe zi hevan.*
 – It means a kind of animal.
 
-*mi no aha ho sema ke.*
+*mi ne aha ho sema ke.*
 – I don't understand what it means.
 
 
 ### kitab <small>write</small>
 
-*ples kitab tu di adres.*
+*ples kitab tu su adres.*
 – Please, write your address.
 
 *ples kitab ho a ye.*
@@ -934,7 +937,7 @@ Tip: To make direct requests, drop all the pronouns.
 *mimen safar zi London do Paris.*
 – We travel from London to Paris.
 
-*safar es muche long.*
+*safar es muce long.*
 – The voyage is very long.
 
 
@@ -997,13 +1000,13 @@ as a preposition or alone as the verb.
 
 ### bi <small>currently</small>
 
-*mi bi sal tu di doste.*
+*mi bi sal tu su doste.*
 – I am greeting your friend.
 
 *ho man bi vize un filme.*
 – The man is watching a film.
 
-*ho bi es shef.*
+*ho bi es cef.*
 – He or she is being the chief.
 
 *ho bi es a haus.*
@@ -1012,13 +1015,13 @@ as a preposition or alone as the verb.
 
 ### hav <small>already, completed</small>
 
-*mi hav sal tu di doste.*
+*mi hav sal tu su doste.*
 – I have greeted your friend.
 
 *ho man hav vize ho filme.*
 – The man has watched the film.
 
-*ho hav es shef.*
+*ho hav es cef.*
 – He has been the chief.
 
 *ho hav es a haus.*
@@ -1027,13 +1030,13 @@ as a preposition or alone as the verb.
 
 ### le <small>in the past</small>
 
-*mi le sal tu di doste.*
+*mi le sal tu su doste.*
 – I greeted your friend.
 
 *man le vize un filme.*
 – The man watched a film.
 
-*ho le es shef.*
+*ho le es cef.*
 – He/she was the chief.
 
 *ho le es a haus.*
@@ -1042,13 +1045,13 @@ as a preposition or alone as the verb.
 
 ### fu <small>in the future</small>
 
-*mi fu sal tu di doste.*
+*mi fu sal tu su doste.*
 – I will greet your friend.
 
 *ho man fu vize ho filme.*
 – The man will watch the film.
 
-*ho fu es shef.*
+*ho fu es cef.*
 – He/she will be the chief.
 
 *ho fu es a haus.*
@@ -1072,7 +1075,7 @@ as a preposition or alone as the verb.
 *mi don buk do homen.*
 – I give a book to them.
 
-*ho no voli don ho do mi.*
+*ho ne voli don ho do mi.*
 – He/she doesn't want to give it to me.
 
 
@@ -1096,7 +1099,7 @@ as a preposition or alone as the verb.
 *kira es 500 dolar a mes.*
 – The rent is 500 dollars in a month.
 
-*ho no pote pei ho kira.*
+*ho ne pote pei ho kira.*
 – He/she can't pay the rent.
 
 *mi voli cepe un kar a kira.*
@@ -1139,7 +1142,7 @@ means _to buy_.
 
 *ho kosta ke?*
 – How much does it cost?  
-*no ting.*
+*no made.*
 – Nothing.  
 *ho koste kam / multi.*
 – It is cheap / expensive.  
@@ -1159,7 +1162,7 @@ Come here / back / to us.
 
 *shou ho do mi a lexe buk!*
 – Show me in the dictionary!
-*mi no memo.*
+*mi ne memo.*
 – I don't remember.
 
 – (I wish you) all the best!
