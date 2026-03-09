@@ -14,7 +14,7 @@ or at the end of the sentence.
 *mi sona hao.*
 – I sleep well.
 
-*tu bashe pandunia hao.*
+*tu basa pandunia hao.*
 – You speak Pandunia well.
 
 ## Modifying another modifier

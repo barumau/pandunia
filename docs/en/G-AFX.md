@@ -815,9 +815,9 @@ The suffix
 **-(o)filia**
 means 'extraordinary or abnormal liking of something'.
 
-**bash**
+**basa**
 'language'
-→ **bashofilia**
+→ **basafilia**
 'glossophilia, linguaphilia, the love of language'  
 **Rus**
 'Russia'

@@ -234,7 +234,7 @@ to address people by name, kinship term or profession.
 – Hello, mother!  
 **halo, papa!**
 – Hello, father!  
-**sal, shef!**
+**sal, cef!**
 – Hello, chief!
 
 
@@ -263,7 +263,7 @@ to greet
 mother, mom  
 **papa**
 father, dad  
-**shef**
+**cef**
 chief, boss  
 
 
@@ -295,10 +295,10 @@ chief, boss
 **danke.**
 – Thank you.  
 <big>☺</big>
-**ples yam kafe o cha.**
+**ples yam kafe o ca.**
 – Please have some coffee or tea.  
 <big>☻</big>
-**ama mi un li yam cha! danke.**
+**ama mi un li yam ca! danke.**
 – But I only drink tea! Thank you.  
 ...  
 <big>☻</big>
@@ -381,9 +381,9 @@ has a useful pattern that can be used for making polite requests.
 – Please be seated.  
 **ples don kafe.**
 – Please give me some coffee.  
-**ples don cha.**
+**ples don ca.**
 – Please give me some tea.  
-**ples yam cha.**
+**ples yam ca.**
 – Please have some tea.  
 **ples safi kamre.**
 – Please clean the room.
@@ -392,7 +392,7 @@ Commands are expressed more directly than requests.
 A command is basically like the request but without the
 **ples**.
 
-**don cha!**
+**don ca!**
 – Give (me) some tea!  
 **safi kamre!**
 – Clean the room!  
@@ -413,7 +413,7 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**cha**
+**ca**
 tea  
 **cin pa**
 grandfather  
@@ -449,11 +449,11 @@ to eat or drink
 
 ### Answers to the Exercises
 
-1. ho yam cha.
-2. shef ples ho side.
-3. ples yam kafe o cha.
+1. ho yam ca.
+2. cef ples ho side.
+3. ples yam kafe o ca.
 4. mama ples mi safi kamre.
-5. shef side e yam kafe.
+5. cef side e yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -467,22 +467,22 @@ to eat or drink
 <small>Image designed by [pikisuperstar](https://www.freepik.com/pikisuperstar)</small>
 
 <big>☺</big>
-**sal! sual tu yam kafe o cha?**
+**sal! sual tu yam kafe o ca?**
 – Hello! Would you like to have coffee or tea?  
 <big>☻</big>
-**cha.**
+**ca.**
 – Tea.  
 <big>☺</big>
 **tu ne?**
 – And you?  
 <big>☹</big>
-**mi no bashe pandunia...**
+**mi no basa pandunia...**
 – I don't speak Pandunia...  
 <big>☺</big>
-**perdon! sual ho yam cha?**
+**perdon! sual ho yam ca?**
 – Pardon! Will he have tea?  
 <big>☻</big>
-**no. ho no yam cha. ho yam kafe.**
+**no. ho no yam ca. ho yam kafe.**
 – No, he won't. He would like to have coffee.  
 <big>☺</big>
 **sual tu yam supa?**
@@ -497,7 +497,7 @@ to eat or drink
 **no yam.**
 – No.  
 <big>☺</big>
-**danke. mi don un cha e un kafe e un supa pos des minute.**
+**danke. mi don un ca e un kafe e un supa pos des minute.**
 – Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -510,11 +510,11 @@ Question sentences are introduced with
 **sual**
 'to ask'.
 
-**mi sual tu yam cha.**
+**mi sual tu yam ca.**
 – I ask (do) you drink tea.  
-**sual tu yam cha?**
+**sual tu yam ca?**
 – Do you drink tea?  
-**sual yam cha?**
+**sual yam ca?**
 – Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions
@@ -522,7 +522,7 @@ are often about other people. Therefore the second pronoun is usually
 needed. It can be left out only when it is clear who is the topic of
 discussion.
 
-**sual ho yam cha?**
+**sual ho yam ca?**
 – Does he or she drink tea?  
 **sual tu yam supa?**
 – Do you eat soup?  
@@ -531,11 +531,11 @@ discussion.
 
 Of course common and proper nouns can also be used.
 
-**sual shef yam kafe?**
+**sual cef yam kafe?**
 – Does the chief drink coffee?  
 **sual papa safi kamre?**
 – Does the father clean the room?  
-**sual Adam bashe pandunia?**
+**sual Adam basa pandunia?**
 – Does Adam speak Pandunia?
 
 
@@ -590,7 +590,7 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
-**bashe**
+**basa**
 speak a language  
 **minute**
 minute  
@@ -616,8 +616,8 @@ yes
 
 ### Answers to the Exercises
 
-1. sual tu bashe pandunia?
-2. ya. mi bashe pandunia.
+1. sual tu basa pandunia?
+2. ya. mi basa pandunia.
 3. sual mama yam kafe?
 4. no. ho no yam kafe.
 5. sual ho yam supa?
@@ -713,7 +713,7 @@ zero
 2. un kupa no hali.
 3. du gau no yam supa.
 4. ho no have gau e mau. / ho have no gau e no mau.
-5. shef yam cha ama no kafe.
+5. cef yam ca ama no kafe.
 6. mama have no gau ama du mau.
 
 
@@ -731,7 +731,7 @@ The question can be made more specific by adding words for person, time, manner 
 – What is that? / Who is (s)he?  
 **ho es ke jan?**
 – Who is he/she?  
-**ho es ke she?**
+**ho es ke made?**
 – What (thing) is it?  
 **ke jan vene?**
 – Who is coming? (**jan** – person)  
@@ -835,11 +835,11 @@ There are also specific time words.
 
 They can be used for modifying nouns.
 
-**Sara es mi di pas shef.**
+**Sara es mi di pas cef.**
 – Sarah is my former boss.  
-**Yusef es mi di zai shef.**
+**Yusef es mi di zai cef.**
 – Yusef is my current boss.  
-**Maria es mi di fu shef.**
+**Maria es mi di fu cef.**
 – Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
@@ -911,7 +911,7 @@ milk
 
 ### Answers to the Exercises
 
-1. mi di shef festa a fu.
+1. mi di cef festa a fu.
 2. mi have du gau a pas.
 3. tu yam supa a zai.
 4. ho safi kamre a preden.

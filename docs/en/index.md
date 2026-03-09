@@ -127,7 +127,7 @@ Time is expressed with auxiliary verbs:
 – We have read many books.  
 **mi zai lege un buk.**
 – I am reading one book.  
-**tu fu bashe Pandunia.**
+**tu fu basa Pandunia.**
 – You will talk Pandunia.
 
 Sentence-final particles express why the sentence is said,
@@ -172,7 +172,7 @@ Find Pandunia speakers near you in [Amikumu](https://amikumu.com/) app!
 - [Stories in Pandunia](https://www.pandunia.info/kitabe)
 - [Counting in Pandunia](https://www.languagesandnumbers.com/how-to-count-in-pandunia/en/pandunia/) in _Of Languages and Numbers_
 
-![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "mimen bashe pandunia!")  
+![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "mimen basa pandunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 You can contact the creator and a main developer of Pandunia, Risto Kupsala, via email

@@ -71,7 +71,7 @@ Subject and object can be noun phrases that consist of many words,
 and there can be a series of verbs (i.e. a serial verb) instead of a single verb.
 In such cases the boundaries between the clause constituents can become doubtful.
 
-**let baku meme voli shuru yam hao seng chau.**
+**let baku meme voli curu yam hao seng chau.**
 – Little white sheep want to start to eat good fresh grass.
 
 Boundaries between sentence elements can be marked with little words.
@@ -88,7 +88,7 @@ Determiners, like
 'some',
 help to indicate where noun phrases begin.
 
-**el lit baku meme *ye* voli shuru yam *el* hao seng chau.**
+**el lit baku meme *ye* voli curu yam *el* hao seng chau.**
 – The little white sheep want to start to eat that good fresh grass.
 
 
@@ -1068,7 +1068,7 @@ or
 immediately next to the verb.
 Verb phrases can also be made into modifiers in this way, but any objects must be moved to before the verb.
 
-**shut da grafe pente**
+**sut da grafe pente**
 – the art of picture-painting (the art of painting pictures)  
 **ale di helpe di suka**
 – the joy of others-helping (the joy of helping others)

@@ -22,12 +22,12 @@ Therefore, Pandunia is **phonetic** in two directions:
 Once you have learned the way letters are pronounced,
 you can read Pandunia aloud and be understood.
 
-## Vowels
-
 Pandunia has 5 vowel sounds and 18 consonant sounds.
 The number of vowels is average, and the number of consonants is moderately small among world's languages.
 (In average there are [5–6 vowels](https://wals.info/chapter/2) and [19–25 consonants](https://wals.info/chapter/1).)
 Therefore it is relatively easy to pronounce the sounds of Pandunia.
+
+## Vowels
 
 The vowel sounds in Pandunia are *a, e, i, o, u*
 and they are pronounced as in

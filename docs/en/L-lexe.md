@@ -382,21 +382,9 @@ As you can see, the same word is written and pronounced differently in different
 This is typical of international words.
 They get adapted in almost every language to their own spelling system.
 Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Pandunia.
-Only the root of the word is borrowed to Pandunia.
-The root is *bhāṣ-*,
-as we can see from derived words like
-Hindi द्विभाषी /dvibhāṣī/
-and
-Bangla দ্বিভাষিক /dibhaśik/.
-Both of them mean 'bilingual'.
 
-So the Pandunia root for 'language' becomes
-**bash**,
-and it serves as the root for many derived words, including
-**dubashik** (*du-bash-ik*)
-'bilingual' and
-**polibashik** (*poli-bash-ik*)
-'multilingual, polyglot'.
+So the Pandunia root for 'language' shall be
+**basa**.
 
 
 ### Examples of global words

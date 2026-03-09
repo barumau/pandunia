@@ -98,35 +98,35 @@ Swahili *salaam*,
 Indonesian *selamat*.</small>
 
 
-### shukre <small>thanks</small>
+### cukre <small>thanks</small>
 
 <p style="font-size:5em;">🙏</p>
 
-*shukre!*
+*cukre!*
 – Thanks!
 
-*multi shukre!*
+*multi cukre!*
 – Thanks a lot!
 
-*ya, shukre.*
+*ya, cukre.*
 – Yes, thank you.
 
-*no, shukre.*
+*no, cukre.*
 – No, thank you.
 
-*shukre tu.*
+*cukre tu.*
 – Thank you.
 
-*mi shukre tu.*
+*mi cukre tu.*
 – I thank you.
 
-*mi shukre tu helpe mi.*
+*mi cukre tu helpe mi.*
 – I thank you for helping me.
 
-*shukre tu helpe mi.*
+*cukre tu helpe mi.*
 – Thanks for helping me.
 
-*no yau shukre.*
+*no yau cukre.*
 – You're welcome. (Literally: _No need to thank._)
 
 
@@ -752,10 +752,10 @@ Tip: To make direct requests, drop all the pronouns.
 
 ### pote <small>can</small>
 
-*mi pote shofe kar.*
+*mi pote cofe kar.*
 – I can drive a car.
 
-*ho no pote shofe kar.*
+*ho no pote cofe kar.*
 – He/she doesn't know how to drive a car.
 
 *sual tu pote shuli ho?*
@@ -770,10 +770,10 @@ Tip: To make direct requests, drop all the pronouns.
 *mi pote kam pandunia.*
 – I can speak a little Pandunia.
 
-*mi no pote english.*
+*mi no pote angle.*
 – I can't speak English.
 
-*perdon. mi no pote tu di bashe.*
+*perdon. mi no pote tu di basa.*
 – Sorry, I can't speak your language.
 
 
@@ -858,15 +858,15 @@ Tip: To make direct requests, drop all the pronouns.
 – Please, write it here!
 
 
-### bashe <small>speak a language, communicate</small>
+### basa <small>speak a language, communicate</small>
 
-*sual tumen bashe pandunia.*
+*sual tumen basa pandunia.*
 – Do you speak Pandunia?
 
-*mimen bashe pandunia.*
+*mimen basa pandunia.*
 – We speak Pandunia.
 
-*sual tu pote bashe english?*
+*sual tu pote basa angle?*
 – Can you speak English?
 
 *franse, espanya, portugal, rus*
@@ -1188,7 +1188,7 @@ Come here / back / to us.
 
 – With pleasure!
 
-*feste shuru a ke tem?*
+*feste curu a ke tem?*
 – When does the party begin?
 
 *tu sahi.*
