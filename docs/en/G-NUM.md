@@ -12,34 +12,30 @@
 | 4 car        | 14 des car     | 24 du des car    | 34 tri des car     |
 | 5 pen        | 15 des pen     | 25 du des pen    | 35 tri des pen     |
 | 6 luk        | 16 des luk     | 26 du des luk    | 36 tri des luk     |
-| 7 chet       | 17 des chet    | 27 du des chet   | 37 tri des chet    |
+| 7 set        | 17 des set     | 27 du des set    | 37 tri des set     |
 | 8 bat        | 18 des bat     | 28 du des bat    | 38 tri des bat     |
 | 9 nau        | 19 des nau     | 29 du des nau    | 39 tri des nau     |
 
 | Ones         |  Tens          | Hundreds         | Thousands          |
 |:-------------|:---------------|:-----------------|:-------------------|
-| 1 un         | 10 (un) des    | 100 un cento     | 1000 un kilo       |
-| 2 du         | 20 du des      | 200 du cento     | 2000 du kilo       |
-| 3 tri        | 30 tri des     | 300 tri cento    | 3000 tri kilo      |
-| 4 car        | 40 car des     | 400 car cento    | 4000 car kilo      |
-| 5 pen        | 50 pen des     | 500 pen cento    | 5000 pen kilo      |
-| 6 luk        | 60 luk des     | 600 luk cento    | 6000 luk kilo      |
-| 7 chet       | 70 chet des    | 700 chet cento   | 7000 chet kilo     |
-| 8 bat        | 80 bat des     | 800 bat cento    | 8000 bat kilo      |
-| 9 nau        | 90 nau des     | 900 nau cento    | 9000 nau kilo      |
+| 1 un         | 10 (un) des    | 100 un cen       | 1000 un kil        |
+| 2 du         | 20 du des      | 200 du cen       | 2000 du kil        |
+| 3 tri        | 30 tri des     | 300 tri cen      | 3000 tri kil       |
+| 4 car        | 40 car des     | 400 car cen      | 4000 car kil       |
+| 5 pen        | 50 pen des     | 500 pen cen      | 5000 pen kil       |
+| 6 luk        | 60 luk des     | 600 luk cen      | 6000 luk kil       |
+| 7 chet       | 70 set des     | 700 set cen      | 7000 set kil       |
+| 8 bat        | 80 bat des     | 800 bat cen      | 8000 bat kil       |
+| 9 nau        | 90 nau des     | 900 nau cen      | 9000 nau kil       |
 
 Greater numbers follow the same logic as above.
 
-10'000 un des kilo  
-100'000 un cento kilo  
+10'000 un des kil  
+100'000 un cen kil  
 1'000'000 un mega  
 10'000'000 un des mega  
-100'000'000 un cento mega  
-1'000'000'000 un kilo mega  
-
-Note: The words "billion" and "milliard" are not used in Pandunia
-because their meanings are different from country to country.
-Instead, one should say **tauzen milion** (thousand millions) or **un giga**.
+100'000'000 un cen mega  
+1'000'000'000 un kil mega  
 
 The prefixes of the [International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units)
 (SI) are used in common language in Pandunia.
@@ -66,22 +62,22 @@ It is normal to say, for example:
 Quantity can be expressed with numerals and other quantity-words.
 They are put before the word or phrase that they qualify.
 
-**un sing**
+*un sing*
 – one star  
-**du sing**
+*du sing*
 – two stars  
-**tri sing**
+*tri sing*
 – three stars  
-**kam sing**
+*kam sing*
 – few stars  
-**multi sing**
+*multi sing*
 – many stars
 
-**un dai kursi**
+*un dayi mez*
 – one big chair  
-**du dai kursi**
+*du dayi korse*
 – two big chairs  
-**tri dai kursi**
+*tri boni korse*
 – three big chairs
 
 
@@ -168,9 +164,9 @@ stands for '2/3' in mathematical symbols.
 – one fourth, one quarter (¼)  
 **tri parte car**
 – three fourths, three quarters (¾)  
-**un parte hunde**
+**un parte cen**
 – one hundredth, one percent (1%)  
-**un parte tauzen**
+**un parte kil**
 – one thousandth, one permille (1‰)
 
 Fractions are connected to their noun head with
@@ -178,7 +174,7 @@ Fractions are connected to their noun head with
 
 **un parte du ze haur**
 – a half (of an) hour  
-**faif ten parte hunde ze jen**
+**faif ten parte cen ze jen**
 – fifty percent of people  
 **du parte tri ze keke**
 – two thirds of a cake  
@@ -186,18 +182,18 @@ Fractions are connected to their noun head with
 
 In addition, there is also a longer pattern for forming fractions.
 It uses the pattern
-**X of Y parte**
+**X ze Y parte**
 ('X of Y parts').
 
-**un of du parte**
+**un ze du parte**
 – one of two parts, a half (½)  
-**un of car parte**
+**un ze car parte**
 – one of four parts, a quarter (¼)  
-**tri of car parte**
+**tri ze car parte**
 – three of four parts, three quarters (¾)  
-**un of hunde parte**
+**un ze cen parte**
 – one of hundred parts, a percent (1%)  
-**un of tauzen parte**
+**un ze kil parte**
 – one of thousand parts, a permille (1‰)
 
 

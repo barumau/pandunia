@@ -1,5 +1,5 @@
 
-# 5. Rzeczowniki
+# Rzeczowniki
 
 ## Nieodmienne
 
@@ -7,13 +7,13 @@ Rzeczownik jest słowem, które nazywa rzeczy.
 Jak wszystkie słowa w Panduni, rzeczowniki są nieodmienne.
 Taka sa forma jest używana w liczbie pojedynczej i mnogiej, podmiocie i dopełnieniu.
 
-**sek**
+*petre*
 – kamień, kamienie  
-**meza**
+*mez*
 – stół, stoły  
-**kursi**
+*korse*
 – krzesło, krzesła  
-**sui**
+*sui*
 – woda
 
 Dosyć często liczba jest znana, bo została określona wcześniej.
@@ -24,9 +24,9 @@ Liczba nie wpływa na rzeczowniki, tj. rzeczowniki mają te same formy w liczbie
 
 Prostym sposobem wyrażenia liczby mnogiej jest rzeczownik.
 
-**sek sek**
+*petre-petre*
 – kamienie, wiele kamieni  
-**sing sing**
+*sing-sing*
 – gwiazdy, wiele kamieni
 
 ## Rodzaj
@@ -38,6 +38,6 @@ Pandunia nie ma rodzaju gramatycznego (tj. męskiej, żeńskiej lub nijakiej kat
 Dwa lub więcej rzeczowników może być połączone, by utworzyć wyraz złożony.
 Ostatnie słowo ma największe znaczenie w wyrazie złożonym, a słowa, które są przed nim tylko zmieniają znaczenie.
 
-**sing grupe**
+*sing-grupe*
 – gwiazdozbiór
 

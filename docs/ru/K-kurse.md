@@ -780,15 +780,15 @@ hide:
 - 1 un
 - 2 du
 - 3 tri
-- 4 for
-- 5 faif
-- 6 sixe
-- 7 seven
-- 8 eite
-- 9 nain
-- 10 ten
-- 100 hunde
-- 1000 tauzen
+- 4 car
+- 5 pen
+- 6 luk
+- 7 set
+- 8 bat
+- 9 nau
+- 10 des
+- 100 cen
+- 1000 kil
 - 1 000 000 mega
 - 1 000 000 000 giga
 

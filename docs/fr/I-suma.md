@@ -1,11 +1,14 @@
-﻿# Les bases du pandunia
+﻿
+# Les bases du pandunia
 
-Cette page se veut être un guide de base décrivant les traits principaux du Pandunia.
+Cette page se veut être un guide de base décrivant les traits principaux du pandunia.
 
 
 ### Alphabet et sons
 
-![](http://www.pandunia.info/grafe/ABC.png "a b c d e f g h i j k l m n o p r s t u v z")
+| Panlingue: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
+|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| IPA:      | a | b | ts~s | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~ʋ | ks~s | j | z~dz |
 
 Les voyelles **a, e, i, o, u** sont prononcées comme dans "bas pré si pot cou".
 
@@ -27,11 +30,11 @@ Toutes les autres consonnes se prononcent comme en français à l'exception de :
 
 | Personne | Singulier         | Pluriel      |
 |:---------|:-----------------:|:------------:|
-|          | **mi**            | **mimen**    |
+|          | **me**            | **memen**    |
 | Première | _je, me, moi_     | _nous_       |
 |          | **tu**            | **tumen**    |
 | Deuxième | _tu, te, toi ; vous (politesse)_ | _vous_ |
-|          | **la**            | **damen**    |
+|          | **ho**            | **homen**    |
 |Troisième |_il ou elle, le, lui_|_ils ou elles, les, leur_|
 
 ### Noms
@@ -60,35 +63,35 @@ Le nombre, le genre ou le caractère défini sont marqués par des mots complém
 The basic word order is subject–verb–object (SVO).
 L'ordre de base des mots dans une phrase est sujet - verbe - objet (SVO).
 
-**mi love tu.**
+**me ama tu.**
 – Je t'aime.
 
 Le temps, l'aspect et le mode sont indiqués à l'aide de particules et d'auxiliaires.
-**zai**
+**sta**
 indique le moment en cours.
-**hav**
+**ha**
 par son sens "déjà", marque l'aspect parfait.
 **pas**
 marque le passé révolu.
-**vil**
+**fu**
 marque le futur.
 
-**mi zai love tu.**
+**me sta ama tu.**
 – Je suis en train de t'aimer. / Je t'aime en ce moment.  
-**mi hav love tu.**
+**me ha ama tu.**
 – Je l'ai (déjà) fait.  
-**mi pas love tu.**
+**me pas ama tu.**
 – Je t'ai aimé. / Je t'aimais.  
-**mi vil love tu.**
+**me fu ama tu.**
 – Je t'aimerai.
 
 L'ordre des mots est inversé dans les phrases au passif.
 Les verbes au passif prennent la particule
-**be**.
+**beyu**.
 
-**tu be love.**
+**tu beyu ama.**
 – Tu es aimé.e.  
-**mi be love de tu.**
+**me beyu ama da tu.**
 – Je suis aimé.e de toi.
 
 
@@ -96,34 +99,34 @@ Les verbes au passif prennent la particule
 
 Les adjectifs se placent généralement devant le nom qu'ils modifient.
 
-**un nove idea**
+**un novi idea**
 – une nouvelle idée  
-**di gud buk**
+**boni buk**
 – _les livres bonnes_
 
 On compare les adjectifs grâce aux mots
-**mor**
+**max**
 (_plus_),
-**mor... dan hol**
+**maxim**
 (_le plus_),
-**les**
+**min**
 (_moins_),
-**les... dan hol**
+**minim**
 (_le moins_) et
-**sim**
+**par**
 (_aussi, tout autant_).
 Le point de comparison est introduit par
-**dan**
+**ka**
 (_que_).
 
-**ye idea es mor nove dan vo idea.**
+**yi idee sa max novi ka vi idee.**
 – Cette idée-ci est plus novatrice que cette idée-là.
 
 Les adverbes se placent généralement avant le nom qu'ils modifient, mais pas toujours.
 
-**mi multi love tu.**
+**me multo ama tu.**
 – Je beaucoup t'aime .  
-**mi love tu, multi.**
+**me ama tu multo.**
 – Je t'aime beaucoup.
 
 
@@ -131,13 +134,13 @@ Les adverbes se placent généralement avant le nom qu'ils modifient, mais pas t
 
 Le mot **no** met le mot qui suit à la forme négative.
 
-**no mi ama la vol sepe la.**
+**no me pero ho vola cepa le.**
 – Pas moi mais lui [qui] veut le prendre.
-**mi no vol sepe la.**
+**me no vola cepa le.**
 – Je ne veux pas le prendre.  
-**mi vol no sepe la.**
+**me vola no cepa le.**
 – Je veux _ne pas le prendre_.  
-**mi vol sepe no ye ama vo.**
+**me vola cepa no yi pero vi.**
 – Je veux prendre _pas_ ceci_ mais cela.
 
 
@@ -149,10 +152,10 @@ Les mot interrogatif est
 
 C'est l'ordre des mots d'une phrase affirmative qui sert pour les questions.
 
-**tu love ke?**
+**tu ama ke?**
 – Tu aimes qui ?  
-**ke man love tu?**
+**ke nam ama tu?**
 – Quel homme aimes-tu ?  
-**tu love da ke multi?**
+**tu ama le ke multo?**
 – Tu l'aimes combien ?
 

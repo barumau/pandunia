@@ -66,7 +66,7 @@ Areal linguistic characteristics, such as [Standard Average European](https://en
 are not suitable guidelines for the world language.
 Instead, the grammar should be built from things that are universally known and/or universally considered easy.
 
-Words are included in Pandunia mostly from 21 main source languages.
+Words are borrowed to Pandunia mostly from the 21 main source languages.
 The six official languages of the United Nations are included: English, French, Spanish, Russian, Arabic and Mandarin Chinese.
 The language of the heart of Europe is included: German.
 The language of the South Atlantic is included: Portuguese.
@@ -136,7 +136,7 @@ the consonant inventories in world's languages are categorized by size as follow
 - moderately large: 26-33
 - large: 34 or more consonants
 
-Pandunia has only 20 consonants so its consonant inventory is average in size.
+Pandunia has only 18 consonants so the size of its consonant inventory is moderately small.
 
 English and Mandarin, for example, have much bigger consonant inventories than Pandunia.
 Most consonant letters are pronounced in the same way in all three languages.
@@ -145,14 +145,14 @@ Sounds that are present in English or Mandarin but not in Pandunia are inside pa
 
 |            | Pandunia    | English       | Mandarin        |
 |------------|-------------|---------------|-----------------|
-| Nasals     | m n (ng)    | m n (ng)      | m n (ng)        |
+| Nasals     | m n         | m n (ng)      | m n (ng)        |
 | Stops      | p b t d k g | p b t d k g   | p b t d k g     |
 | Liquids    | l r y v     | l r y w       | l r y w (yü)    |
-| Sibilants  | s z sh      | s z sh (zh)   | s z* x (sh)     |
-| Fricatives | f h         | f h (v th th) | f h             |
-| Affricates | ch j        | ch j          | ch j (c zh q)   |
+| Sibilants  | s z         | s z (sh zh)   | s z* (x sh)     |
+| Fricatives | f h         | f h (v th dh) | f h             |
+| Affricates | c j         | ch j          | ch j (c zh q)   |
 
-\* This letter represents a different sound in Mandarin.
+\* This letter represents a slightly different sound in Mandarin.
 
 
 ### Easy syllable structure
@@ -212,10 +212,10 @@ The place of the stress is decided by two simple rules.
 In the examples that follow, primary accent is indicated by an acute accent (*á*) and secondary accent by a grave accent (*à*) over the first vowel of a stressed syllable.
 
 1. Root words are stressed on the syllable that is before the last consonant of the word.  
-   **hálo! mí vóli lóge un háo dúnia báshe.**  
+   **hálo! mé vóla lóga bóni dúnia báse.**  
    (_Hello! I want to speak a good world language._)
 2. Derived and compound words are stressed according to their components so that the primary stress is in the main word.  
-   **pandúnia es dèmokrátik báshe.**  
+   **pandúnia sá dèmokráti báse.**  
    (_Pandunia is a democratic language._)
 
 Regular stress is easier to learn and more comfortable to use
@@ -253,7 +253,7 @@ The widely spoken languages can be categorized into four types according to thes
 2. Analytic fusional languages – Words are made of few, fused parts.
     - English
 3. Agglutinative languages – Words are made of many, distinct parts.
-    - Japanese, Malay, Tamil, Swahili
+    - Japanese, Malay-Indonesian, Telugu
 4. Synthetic fusional languages – Words are made of many, fused parts.
     - Spanish, Portuguese, French
     - German, Russian
@@ -266,8 +266,8 @@ _Many a cat_ is an analytic phrase that consists of three separate words.
 _Cats_ is an agglutinative word that consists of two distincts parts, _cat_ and _-s_.
 _Leaves_ is a fused word that consists of two parts, _leaf_ and _-s_.
 
-Pandunia is an analytic language.
-Its words consist of few parts and they are clearly separable.
+Pandunia is a lightly agglutinative language.
+Its words consist of a few clearly separatable parts.
 This is a good thing because it makes the language easy to learn and use
 in comparison to languages where words are longer or fused of many parts.
 
@@ -298,9 +298,8 @@ Arabic uses transfixes.
 The root consists of (usually three) consonants and it is changed by inserting a pattern of vowels between them.
 Arabic also has many prefixes and suffixes for creating additional words.
 
-Pandunia uses the simple root-and-affix system.
-Its words can consist of many, distinct parts
-that are easy to separate.
+Pandunia uses a **simple root-and-affix system**.
+Pandunia words can consist of many, distinct parts that are easy to separate.
 Everybody can create new words easily.
 
 
@@ -341,16 +340,35 @@ The table below shows what are the typical, unmarked word orders in important wo
 Also other word orders are possible.
 For example in English, which normally uses the SVO order in declarative sentences,
 the object can be fronted in interrogative and relative clauses,
-as in "What did you say?"
+as in *what did you say*.
 
 The previous table shows that the major languages don't agree about word orders.
-Pandunia supports several word orders
-but the default is to use the most common ones:
-subject–verb–object (SVO),
-numeral before the noun,
-adjective before the noun,
-relative clause after the noun
-and prepositions.
+There are three main types of languages:
+
+1. Languages where the main word comes first have typically SVO,
+   NNum, NAdj, NRel and prepositions.
+2. Languages where the main word comes last have typically SOV, NumN,
+   AdjN, RelN and postpositions.
+3. Languages with mixed or free word order.
+
+The third type is the most attractive for the world auxiliary
+language, which has to welcome people with many different speaking
+habits. It doesn't make the language only versatile but also more
+interesting!
+
+Pandunia allows different word orders. This is achieved mainly by
+the verb endings -a and -u, which signal reverse word orders. In
+Pandunia verbs can function also as adpositions (so called _coverbs_).
+
+**me ama te.** (SVO)  
+**me te amu.** (SOV)  
+I love you.
+
+**me jampa supra gavi mez.**
+(I jump, surpass the high table.)  
+**me jampa gavi mez supru.**
+(I jump, the high table is-surpassed.)  
+I jump over the high table.
 
 
 ## World words
@@ -400,21 +418,23 @@ So it covers the English third-person pronouns _he_, _she_ and _it_, all at once
 | they       | homen      | tāmen      |
 
 The possessive pronouns follow the super simple pattern of Standard Chinese.
-Simply add **su** to form the possessive, as below.
+Simply add
+*di*
+to form the possessive, as below.
 
 | English    | Pandunia   | Chinese    |
 |------------|------------|------------|
-| my         | mi su      | wǒ de      |
-| your       | tu su      | nǐ de      |
-| his/her/its| ho su      | tā de      |
-| our        | mimen su   | wǒmen de   |
-| your       | tumen su   | nǐmen de   |
-| their      | homen su   | tāmen de   |
+| my         | me di      | wǒ de      |
+| your       | tu di      | nǐ de      |
+| his/her/its| ho di      | tā de      |
+| our        | memen di   | wǒmen de   |
+| your       | tumen di   | nǐmen de   |
+| their      | homen di   | tāmen de   |
 
 The personal pronouns in Pandunia attain three important goals.
 
 1. The basic pronouns
-   (**mi**, **tu**, **ho**)
+   (*me*, *tu*, *ho*)
    look and sound distinct.
 2. The plurals and the possessives are built in a systematic way.
    They are not only a bunch of random words.
@@ -431,7 +451,7 @@ The normal sentence word order is subject–verb–object
 – just like in English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  mi ame tu, tu ame mi.
+    Pandunia:  me ama tu, tu ama me.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The auxiliary verb
@@ -440,34 +460,34 @@ is used when the object of the action comes first in the sentence.
 (This is the so called passive sentence.)
 
     English:   Apples were eaten.
-    Pandunia:  aple bi yam.
+    Pandunia:  aple bi yama.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
 **bi** is a loan word from Standard Chinese *bèi*,
 but it is also close to some uses of English *to be*.
 
     English:   It can not be eaten.
-    Pandunia:  ho ne pote bi yam.
+    Pandunia:  ho no pota bi yama.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I ask him to drink coffee.
-    Pandunia:  mi ples ho yam kafe.
+    Pandunia:  me pleza ho yama kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words.
 There's no plural ending like -s in English.
 Also verbs are not conjugated.
 In Pandunia, one word,
-**es**,
+**sa**,
 is used instead of _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  ho es aple.
+    Pandunia:  ho sa aple.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  homen es aple.
+    Pandunia:  homen sa aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 

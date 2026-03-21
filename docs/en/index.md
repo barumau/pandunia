@@ -61,7 +61,7 @@ One sound = one letter or a pair of letters.
 
 The stress is on that syllable that is before the last consonant of the root word.
 Prefixes and suffixes are either unstressed or they may carry a secondary stress.  
-**múlti hóm póte báshe pandúnia.**
+**múlti hóm póte bása pandúnia.**
 – Many people can speak Pandunia.
 
 Words stay always the same in Pandunia.
@@ -112,7 +112,7 @@ Comparison is done with helping words:
 – He or she talks faster (_more fast_) than you.
 
 Time is expressed with auxiliary verbs:
-**pas**
+**le**
 – past events  
 **fu**
 – future events  
@@ -121,7 +121,7 @@ Time is expressed with auxiliary verbs:
 **zai**
 – ongoing events
 
-**homen pas lese mi su buk.**
+**homen le lese mi su buk.**
 – They read my book.  
 **mimen ha lese multi buk.**
 – We have read many books.  
@@ -164,7 +164,7 @@ Find Pandunia speakers near you in [Amikumu](https://amikumu.com/) app!
 ## More stuff
 
 - [Complete grammar of Pandunia](pan.pdf) in PDF format
-- [Searchable dictionary](../lexia/index.html?d=eng)
+- [Searchable dictionary](./lexia/index.html?d=eng)
 - [Origins of words](lexaslia.md)
 - Go to the
   [Pandunia lexe na dunia karta](http://www.pandunia.info/lexekarta/index.html)

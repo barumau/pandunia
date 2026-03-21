@@ -43,12 +43,12 @@ La sama vorto, sin ia ajn ŝanĝo en sia formo, povas roli kiel substantivo, adj
 
 | Persono  | Ununombra         | Multenombra  |
 |:---------|:-----------------:|:------------:|
-|          | **mi**            | **vi**       |
-| 1a       | _mi_              | _ni_         |
-|          | **tu**            | **yu**       |
-| 2a       | _vi_              | _vi_         |
-|          | **hi**            | **de**       |
-| 3a       | _li, ŝi_          | _they, them_ |
+|          | *me*              | *memen*      |
+| 1a       | 'mi'              | 'ni'         |
+|          | *tu*              | *tumen*      |
+| 2a       | 'vi'              | 'vi'         |
+|          | *ho*              | *homen*      |
+| 3a       | 'li, ŝi'          | 'they, them' |
 
 ### Bazaj frazkonstruoj
 
@@ -132,22 +132,22 @@ Sed la kunteksto normale klarigas la precizan signifon:
 ### Tempo
 
 Tensoj kaj aspektoj estas esprimita per adverboj kaj helpantaj verboj, kiel
-**bi**
+**sta**
 (esti -anta),
-**hav**
+**ha**
 (esti -inta),
-**did**
+**pas**
 (pasinte) kaj
-**vil**
+**fu**
 (estonte).
 
-**mi bi love tu.**
+**me sta ama tu.**
 – Mi estas amanta vin.  
-**mi hav love tu.**
+**me ha ama tu.**
 – Mi estas aminta vin.  
-**mi did love tu.**
+**me pas ama tu.**
 – Mi amis vin.  
-**mi vil love tu.**
+**me fu ama tu.**
 – Mi amos vin.
 
 ### Pasivo
@@ -155,18 +155,18 @@ Tensoj kaj aspektoj estas esprimita per adverboj kaj helpantaj verboj, kiel
 La pasivo estas farita uzante la helpantan verbon
 **bei**.
 
-**tu bei love.**
+**tu bei ama.**
 – Vi estas amita.  
-**mi bei love of tu.**
+**me bei ama da tu.**
 – Mi estas amita de vi.
 
 ### Modifaj vortoj
 
 Adjektivoj estas antaŭ la vorto, kiun ili modifas.
 
-**un nov love**
+*novi ame*
 – nova amo  
-**da gud pai**
+*boni pai*
 – bona torto
 
 Aldonu modifvorton antaŭ verboj.

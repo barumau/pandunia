@@ -1,71 +1,48 @@
-# Modifovortoj
 
-_Modifovorto_ estas vorto, kiu priskribas econ de alia vorto.
-Panduniaj modifovortoj rolas kiel adjektivoj kaj adverboj en Esperanto.
-En pandunio, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
+# Adjektivoj
+
+Adjektivo estas vorto, kiu priskribas econ de alia vorto.
+En Pandunio, adjektivoj antaŭas la substantivon kiun ili modifas.
+Panduniaj adjektivoj finiĝas je
+*-i*.
 
 ## Modifante substantivon
 
-**un _nova_ gar**
+*novi gar*
 – nova aŭto 
-**un _rapid_ gar**
+*rapi gar*
 – rapida aŭto  
-**multi _dai_ meza**
-– grandaj tabloj  
-**multi _gao_ meza**
-– altaj tabloj  
-**un _hao_ jan**
-– bona homo
+*dayi mez*
+– granda tablo  
+*gavi mez*
+– alta tablo  
+*boni korse*
+– bona seĝo
 
 Kiam modifovorto sekvas substantivon, ĝi rolas kvazaŭ kiel verbo, kiu indikas staton.
 Tio estas, kiel adjektivaj verboj en Esperanto.
 
-**gar – nova.**
+*gar – novi.*
 – La aŭto novas.  
-**gar es nova.**
+*gar sa novi.*
 La aŭto estas nova.  
-**bagre – rapid.**
-– Tigroj rapidas.  
-**bagre es rapid.**
-Tigroj estas rapidaj.
+*bagre – rapi.*
+– Tigro rapidas.  
+*bagre sa rapi.*
+Tigro estas rapida.
 
 Kompreneble, eblas ke modifovortoj aperu je ambaŭ flankoj de substantivo.
 
-**nova gar – rapid.**
+*novi gar – rapi.*
 – Nova aŭto rapidas.  
-**nova gar es rapid.**
+*novi gar sa rapi.*
 – Novaj aŭto estas rapidaj.
-
-## Modifante verbon
-
-**tu _rapid_ loge.**
-– Vi _rapide_ parolas.  
-**homen _hao_ kitab.**
-– Ili _bone_ skribas.
-
-**tu _mei li_ kitab.**
-– Vi _bele_ skribas.  
-**homen _rapid li_ marche.**
-– Ili _rapide_ promenas.
-
-
-## Modifante alian modifovorton
-
-Modifovorto povas modifi ankaŭ alian modifovorton.
-Aldoni partiklon
-**li**
-inter la modifanta kaj la modifata.
-
-**un _dai li_ hao buk**
-– _grande_ bona libro  
-**_bala li_ lovente jen**
-– _forte_ amantaj homoj
 
 ## Komparoj
 
 Modifovortoj povas esti komparataj.
 
-**max**
+**mas**
 ('pli') signifas komparo de plieco  
 **maxim**
 ('la plej') signifas komparo de plejeco  
@@ -80,10 +57,10 @@ Partiklo
 **ka**
 rilatas komparvortoj al la fonto de komparo.
 
-**aple es max hao ka aranja.**
+**aple sa max boni ka aranje.**
 – Pomoj estas pli bonaj ol oranĝoj.  
-**aranja es min hao ka aple.**
+**aranje sa min boni ka aple.**
 – Oranĝoj estas malpli bonaj ol pomoj.
-**tu loge par hao ka mi.**
+**tu loga par bono ka me.**
 – Vi parolas same bone kiel mi.
 

@@ -6,11 +6,11 @@ Pronomoj povas aperi anstataŭ substantivoj.
 
 | Ununombra   | Multenombra  |
 |:------------|:-------------|
-| **mi**      | **mimen**    |
+| **me**      | **memen**    |
 | mi          | ni           |
 | **tu**      | **tumen**    |
 | vi, ci      | vi           |
-| **da**      | **damen**    |
+| **ho**      | **homen**    |
 | li, ŝi, ĝi  | ili          |
 
 
@@ -19,11 +19,11 @@ La posedaj pronomoj estas formata per aldo de partiklo
 
 | Ununombra   | Multenombra  |
 |:------------|:-------------|
-| **mi su**   | **mimen su** |
+| **me di**   | **memen di** |
 | mia         | nia          |
-| **tu su**   | **tumen su** |
+| **tu di**   | **tumen di** |
 | via, cia    | via          |
-| **da su**   | **damen su** |
+| **ho di**   | **homen di** |
 |lia, ŝia, ĝia| ilia         |
 
 ## Refleksiva pronomo
@@ -36,23 +36,23 @@ Rimarko: La refleksiva pronomo
 povas uziĝi por ĉiuj personoj.
 Do ĝi rilatas al ĉiuj tiaj uzadoj en Esperanto, kiel: _mi(n) mem_, _vi(n) mem_, _ni(n) mem_ kaj _si(n)_.
 
-**mi vi se**
+**me viza se**
 – Mi vidas min.  
-**da vi se**
+**ho viza se**
 – Ŝi vidas sin.  
-**mimen vi se.**
+**memen viza se.**
 – Ni vidas nin.
 
 Oni uzas
-**semen**
+**alale**
 por esprimi reciprokecon.
 
-**semen**
+**alale**
 – unu la alia
 
-**tu e mi vi semen.**
+**tu e me viza alale.**
 – Mi kaj vi vidas unu la alian.  
-**mimen vi semen.**
+**memen viza alale.**
 – Ni vidas unu la alian.
 
 
@@ -72,13 +72,13 @@ La montrovorto estas:
 
 La montrovortoj povas roli kiel subjekto same kiel substantivoj.
 
-**ye es bon.**
+**ye sa boni.**
 – ĉi tiu (aĵo) estas bone.  
-**vo es dus.**
+**vo sa dusi.**
 – Tiu (aĵo) estas malbone.  
-**tu vol ye, he?**
+**tu vola ye, he?**
 – ĉu vi volas ĉi tiun?  
-**no, mi vol vo.**
+**no, mi vola vo.**
 – Ne, mi volas tiun tie.
 
 
@@ -123,7 +123,7 @@ Adjektivoj estas demandataj per
 ## Tabelvortoj
 
 "Tabelvortoj" estas vortoj, kiuj rolas kiel pronomoj kaj estas konstruitaj laŭ fiksita principo.
-Oni povas aranĝi tiajn vortojn en tabelo kaj en Esperanto kaj en Pandunia.
+Oni povas aranĝi tiajn vortojn en tabelo kaj en Esperanto kaj en Pandunio.
 
 | Kategorio     | Demanda       | Montranta     | Nedifinita    | Tutampleksa   | Nea           | Diferenca     | Elektenda     |
 |:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|

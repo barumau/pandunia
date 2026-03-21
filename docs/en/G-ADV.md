@@ -2,40 +2,45 @@
 # Adverbs
 
 Adverb is a word that modifies a verb, an adjective or another adverb.
+In Pandunia, most adverbs end in
+*-o*.
 
 ## Modifying a verb
 
-In Pandunia, adverbs are usually placed before the verb
+In Pandunia, adverbs end in *-o* and their place is before the verb
 or at the end of the sentence.
 
-*mi hao sona.*
-– I sleep well.
+*`me bon-o    son-a.`*  
+ `I  good-ADV sleep-V`  
+'I sleep well.'
 
-*mi sona hao.*
-– I sleep well.
+*`me son-a   bon-o.`*  
+ `I  sleep-V good-ADV`  
+'I sleep well.'
 
-*tu basa pandunia hao.*
-– You speak Pandunia well.
+*`tu  bas-a   pandunia bon-o.`*  
+ `you speak-V Pandunia good-ADV`  
+'You speak Pandunia well.'
 
 ## Modifying another modifier
 
 A modifier can modify also another modifier.
 For example *day* (big) and *lil* (little) can be used as intensifying adverbs.
 
-*dai hom*
+*dayi hom*
 – a big person  
-*let jen*
+*leti jen*
 – a little person  
-*mei jen*
+*meyi jen*
 – a beautiful person
 
-*dai li mei jen*
+*dayo meyi jen*
 – very beautiful person  
-*let li mei jen*
+*leto meyi jen*
 – somewhat beautiful person
 
 
-## Comparison
+## Adverbs of comparison
 
 Modifiers can be compared with the adverbs of comparison.
 
@@ -54,14 +59,13 @@ The particle
 *ka*
 relates the adverbs of comparison to the object of comparison.
 
-*aple es max hao ka aranje.*
+*aple sa max boni ka aranje.*
 – Apples are better than oranges.  
-*aranje es min hao ka aple.*
+*aranje sa min boni ka aple.*
 – Oranges are less good than apples.  
-*tu loge par hao ka mi.*
+*tu loga par bono ka me.*
 – You speak as well as me.
 
-<!--
 It is also possible to compare modifiers with the following verbs,
 which are directly attached to the object of comparison.
 
@@ -72,15 +76,14 @@ which are directly attached to the object of comparison.
 - *para*
   ('to equal')
 
-*aple max aranje es hao.*
+*aple maxa aranje sa boni.*
 – Apples exceed oranges in being good. _meaning:_ Apples are better than oranges.  
-*aranje min aple es hao.*
+*aranje mina aple sa boni.*
 – Oranges subceed apples in being good. _meaning:_ Oranges are less good than apples.  
-*tu par mi loge hao.*
+*tu para me loga bono.*
 – You equal me in speaking well. _meaning:_ You speak as well as me.
--->
 
-<!--
+
 ## Adverbs of time and space
 
 Adverbs are used for expressing time and place of events and actions.
@@ -114,4 +117,4 @@ A complement can be added with the preposition *da*.
 
 *me vola shopa tougar maxo da motogar.*
 – I want to buy a trailer in addition to the car.
--->
+

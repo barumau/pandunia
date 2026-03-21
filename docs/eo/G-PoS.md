@@ -3,11 +3,11 @@
 
 ## Simpla sed potenca gramatiko
 
-Panlingvo has a grammar that is systematic, regular and also very flexible.
+Pandunio has a grammar that is systematic, regular and also very flexible.
 There is a simple root-and-ending system at the core of the grammar.
 Every word is made of one or more roots and an ending, which is attached to the root.
 
-Panlingvo uses a simple array of five vowel endings, which indicate clearly the word class of every word.
+Pandunio uses a simple array of five vowel endings, which indicate clearly the word class of every word.
 
 - Substantivoj finiĝas per *-e*, e.g. *buke* 'book'.
 - Adjektivoj finiĝas per *-i*, e.g. *buki* 'bookish'
@@ -15,13 +15,13 @@ Panlingvo uses a simple array of five vowel endings, which indicate clearly the 
 - Progresaj verboj finiĝas per *-a* kaj regresaj verboj per *-u*.
 
 The vowel endings make syntax transparent.
-In Panlingvo, one can know the grammatical structure of a sentence without knowing the meaning of the words.
+In Pandunio, one can know the grammatical structure of a sentence without knowing the meaning of the words.
 For example, consider the following sentence where root words are hidden.
 
     ░░░e ░░░░░a ░░░░i ░░░░e.
 
 In other languages nothing could be guessed only by the last vowels of words,
-but in Panlingvo they reveal the structure of the whole sentence.
+but in Pandunio they reveal the structure of the whole sentence.
 First, the word classes can be known, because they are indicated by the vowel endings.
 The first word is a noun because it ends in *-e*,
 the next one is a verb because it ends in *-a*,
@@ -58,14 +58,14 @@ The roots and endings together create the complete meaning of a sentence.
 
 ## Flexible grammar, free word order
 
-Thanks to its flexible grammatical structure, word order is free in Panlingvo.
+Thanks to its flexible grammatical structure, word order is free in Pandunio.
 
 Subject, verb and object can be arranged in any order,
 which is a good thing, because different languages use different word orders.
 The subject–verb–object order is the most common order by number of speakers,
 and the subject–object–verb order is the most common order by number of languages.
 The examples below show how clause constituents are arranged in various languages
-– and how freely they can be arranged in Panlingvo!
+– and how freely they can be arranged in Pandunio!
 
 | Lingvo         | Subjekto       | Verbo          | Objekto        |
 |----------------|----------------|----------------|----------------|
@@ -75,20 +75,20 @@ The examples below show how clause constituents are arranged in various language
 | Germane:       | *Das Kind*     | *schreibt*     | *einen Brief.* |
 | Ĉine:          | *Háizi*        | *xiě*          | *xìn.*         |
 | Malaje:        | *Anak*         | *menulis*      | *surat.*       |
-| Panlingve:     | ***bache***    | ***kitaba***   | ***letre.***   |
+| Pandunie:      | ***bace***     | ***kitaba***   | ***letre.***   |
 
 | Lingvo         | Subjekto       | Objekto        | Verbo          |
 |----------------|----------------|----------------|----------------|
 | Turke:         | *Çocuk*        | *mektubu*      | *yazar.*       |
 | Hindie:        | *bacca*        | *patr*         | *likhata hai.* |
 | Japane:        | *kodomo wa*    | *tegami o*     | *kakimasu.*    |
-| Panlingve:     | ***bache***    | ***letre***    | ***kitabu.***  |
+| Pandunie:      | ***bahe***     | ***letre***    | ***kitabu.***  |
 
 | Lingvo         | Verbo          | Subjekto       | Objekto        |
 |----------------|----------------|----------------|----------------|
 | Arabe:         | *yaktab*       | *al-tifl*      | *risālatan*    |
 | Tagaloge:      | *Nagsusulat*   | *ang bata*     | *ng liham.*    |
-| Panlingve:     | ***kitabu***   | ***bache***    | ***letre.***   |
+| Pandunie:      | ***kitabu***   | ***bace***     | ***letre.***   |
 
 In most languages only one word order is possible or normal.
 For example, in English it is nearly impossible to say things in the subject–object–verb order.
@@ -96,39 +96,39 @@ You can't say simply *the child the letter writes*.
 
 Word order is free also in other cases.
 For example, adjectives can be placed before the noun or after the noun.
-In Panlingvo, one can say *bache suki* or *suki bache* and the meaning is the same: 'a happy child'.
+In Pandunio, one can say *bache suki* or *suki bache* and the meaning is the same: 'a happy child'.
 In most languages one or the other order is preferred or even required.
 For example, in English the noun-last order (e.g. *a happy child*) is normal, and the opposite order (e.g. *a child happy*) would sound abnormal.
 In Spanish it's the opposite: the noun-first order (e.g. *un niño feliz*) is normal and the noun-last order (e.g. *un feliz nīno*) is abnormal.
 
-In Panlingvo, even adpositions can be placed before nouns as prepositions (as in English) or after nouns as postpositions (as in Japanese and Hindi).
-The level of flexibility in Panlingvo is uncomparable!
+In Pandunio, even adpositions can be placed before nouns as prepositions (as in English) or after nouns as postpositions (as in Japanese and Hindi).
+The level of flexibility in Pandunio is uncomparable!
 
 But why free word order matters?
-Because it makes it easy to approach Panlingvo.
+Because it makes it easy to approach Pandunio.
 There are more than one way to begin speaking the language.
 Most other languages can offer only one way that is right and all other ways are wrong.
 Therefore a big part of learning is actually about unlearning old habits.
-Not in Panlingvo!
+Not in Pandunio!
 
 Learning courses can be tailor-made for specific audiences.
-When one teaches Panlingvo to speakers of language X, it's smartest to teach a form of Panlingvo that is close to language X.
-For example, speakers of Turkish would grasp easily Panlingvo that uses Turkish-like word orders (subject–object–verb, adjective–noun and postpositions)
-whereas speakers of Malay would grasp easily Panlingvo that uses Malay-like features (subject–verb–object, noun–adjective and prepositions).
+When one teaches Pandunio to speakers of language X, it's smartest to teach a form of Pandunio that is close to language X.
+For example, speakers of Turkish would grasp easily Pandunio that uses Turkish-like word orders (subject–object–verb, adjective–noun and postpositions)
+whereas speakers of Malay would grasp easily Pandunio that uses Malay-like features (subject–verb–object, noun–adjective and prepositions).
 
-Panlingvo courses can be made so that there is maximum similarity between the source language and the target langauge (Panlingvo) in early stages of learning.
-This is a unique feature of Panlingvo.
-However, as learners make progress, texts in Panlingvo can be adjusted little by little toward the international standard of the language.
+Pandunio courses can be made so that there is maximum similarity between the source language and the target langauge (Pandunio) in early stages of learning.
+This is a unique feature of Pandunio.
+However, as learners make progress, texts in Pandunio can be adjusted little by little toward the international standard of the language.
 
 
 ## Quick word derivation
 
-Panlingvo uses vowel endings for quick word derivation.
+Pandunio uses vowel endings for quick word derivation.
 In this system the final vowel of a word indicates its word class.
 So the root (i.e. stem) of the word indicates a general idea
 and the vowel endings indicate different manifestations of that idea.
 
-Panlingvo uses the following vowel endings to mark parts of speech.
+Pandunio uses the following vowel endings to mark parts of speech.
 
 No vowel or **-e** indicates a noun,
 which is the name of the thing or idea that the root is about.
@@ -157,7 +157,7 @@ So the purpose or the potential of the noun determines the meaning of the verb.
 which is an event that happens or an action that is done to someone.
 The meaning of a regresa verbo depends on the corresponding progresa verbo.
 
-These endings and the participles (**-an-** and **-it-**) are the only true suffixes i.e. bound morphemes in Panlingvo.
+These endings and the participles (**-an-** and **-it-**) are the only true suffixes i.e. bound morphemes in Pandunio.
 All other suffixes can be used also as independent words.
 For example **paciste** (pacifist) is made up of two full words:
 **pace** (peace) and **iste** (proponent).

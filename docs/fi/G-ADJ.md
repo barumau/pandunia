@@ -1,113 +1,34 @@
 
 # Adjektiivit
 
-Määrite on sana, joka muokkaa tai tarkentaa toisen sanan merkitystä, esim. hyvä, huono, nopea.
-
 ## Substantiivin määrite
 
-Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Panduniassa adjektiivit ovat yleensä pääsanaa ennen.
+Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä, esim. *hyvä, huono, nopea*.
+Panduniassa adjektiivit ovat yleensä pääsanaa ennen.
 
-**un _nova_ gar**
+*novi gare*
 – uusi auto  
-**un _rapid_ gar**
+*rapidi gare*
 – nopea auto  
-**multi _dai_ meza**
-– isoja pöytiä  
-**multi _gao_ meza**
-– korkeita pöytiä  
-**un _hao_ jan**
+*dayi mez*
+– iso pöytä  
+*boni jen*
 – hyvä ihminen
 
 Adjektiivi voi olla myös substantiivin jälkeen.
 Monesti tällainen rakenne on luettavissa kokonaisena virkkeenä, jossa ei ole käytetty olla-verbiä.
 
-**ho – nova.** ~ **ho es nova.**
+*ho – novi.* = *ho sa novi.*
 – Se on uusi.  
-**gar – nova.** ~ **gar es nova.**
+*gare – novi.* = *gare sa novi.*
 – Auto on uusi.  
-**bagre – rapid.** ~ **bagre es rapid.**
+*bagre – rapidi.* = *bagre sa rapidi.*
 – Tiikeri on nopea.
 
 Luonnollisesti laatusanoja voi olla substantiivin kummallakin puolella.
 
-**nova gar – rapid.** ~ **nova gar es rapid.**
+*novi gare – rapidi.* = *novi gare sa rapidi.*
 – Uusi auto on nopea.
-
-
-## Verbin määrite
-
-Adverbi määrittää teonsanaa, adjektiivia tai toista adverbia.
-
-Tavan adverbi on verbin edellä.
-
-**tu _rapid_ logu.**
-– Sinä _nopeasti_ puhut.  
-**di jen _gud_ kitab.**
-– He _hyvin_ kirjoittavat.
-
-Määritepartikkeli
-**li**
-pannaan usein adverbin ja verbin väliin.
-Se selkeyttää verbilausekkeen rakennetta.
-
-**tu _mei li_ kitab.**
-– Sinä _kauniisti_ kirjoitat.  
-**di _rapid li_ marche.**
-– He _nopeasti_ kävelevät.
-
-
-## Määritteen määrite
-
-Partikkelia
-**li**
-käytetään myös kun määrite määrittää toista määritettä.
-
-**un _dai li_ gud buk**
-– _isosti_ hyvä kirja  
-**_bala li_ lovente jen**
-– _voimakkaasti_ rakastavat ihmiset
-
-
-#### Asteen määritteet
-
-Asteen määritteet kertovat laadun voimakkuudesta.
-
-**ver**
-– paljon, sangen, hyvin  
-**bas**
-– tarpeeksi, kyllin  
-**max**
-– enemmän  
-**les**
-– vähemmän
-
-Asteen määritteet tulevat ennen määrittelemäänsä sanaa.
-
-**un dai man**
-– iso mies  
-**un ver dai man**
-– hyvin iso mies  
-**un bas dai man**
-– tarpeeksi iso mies
-
-Asteen määrite muodostaa _yhdysadverbin_ toisen määritteen kanssa.
-Sillä voi määrittää verbiä tai kokonaista lausetta.
-Yhdysadverbi pannaan määrittelemänsä verbin edelle.
-
-**ver much**
-– hyvin paljon  
-**mi _ver much_ van logu.**
-– Minä _todella paljon_ haluan puhua.  
-**mi van _ver much_ logu.**
-– Minä haluan _todella paljon_ puhua.
-
-Yhdysadverbin voi myös panna lauseen loppuun,
-jolloin se määrittää lausetta kokonaisuutena.
-
-**mi van logu _ver much_.**
-– Haluan puhua todella paljon.  
-**sual tu sona _bas gud_?**
-– Nukuitko tarpeeksi hyvin?
 
 
 ## Vertailu

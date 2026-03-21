@@ -18,16 +18,16 @@ En panlingue, les adverbes se terminent en *-o* et ils se placent avant le verbe
 Un modificateur peut également modifier un autre modificateur.
 Ainsi, *day-* (grand) et *let-* (petit) peuvent être utilisés comme des adverbes d'intensification.
 
-*dayi jan*
+*dayi jen*
 – un grand individu  
-*leti jan*
+*leti jen*
 – un petit individu  
-*sundari jan* 
+*meyi jen* 
 – un bel individu
 
-*dayo sundari jan* 
+*dayo meyi jen* 
 – un très bel individu  
-*leto sundari jan* 
+*leto meyi jen* 
 – un assez bel individu
 
 
@@ -35,7 +35,7 @@ Ainsi, *day-* (grand) et *let-* (petit) peuvent être utilisés comme des adverb
 
 Les modificateurs peuvent être comparés.
 
--   *max*
+-   *mas*
    (plus) marque le comparatif de supériorité
 -   *maxim*
    (le plus) marque le superlatif de supériorité
@@ -48,7 +48,8 @@ Les modificateurs peuvent être comparés.
 
 La particule *ka* met en relation les adverbes de comparaison à l'élément comparé.
 
-*me sa max boni ka tu.*
+*me sa mas boni ka tu.*
 – Je suis meilleur que toi.  
 *tu loga par bono ka me.*
 – Tu parles aussi bien que moi.
+

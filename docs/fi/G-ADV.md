@@ -1,67 +1,83 @@
 
 # Adverbit
 
-## Adjektiivin määritteenä
+Adverbi määrittää verbiä, adjektiivia tai toista adverbia.
+Adverbi vastaa mm. kysymyksiin millä tavalla ja missä määrin.
 
-Määrite voi määritellä myös toista määritettä.
-Esimerkiksi **day** (suuri) ja **lil** (pieni) voivat toimia adverbeina.
+Panduniassa adverbin tunnusomainen pääte on
+*-o*.
+Päätettä ei kuitenkaan käytetä eräissä yleisimmistä adverbeista, kuten
+*mas*
+'enemmän',
+*maxim*
+'eniten' ja
+*par*
+'yhtä'.
 
-**day ren**
-= iso henkilö  
-**lil ren**
-= pieni henkilö  
-**sundari ren**
-= kaunis henkilö
+## Tavan adverbit
 
-**dayo sundari ren**
-= suuresti (eli hyvin) kaunis henkilö  
-**lilo sundari ren**
-= pienesti (eli vähän) kaunis henkilö
+Tavan adverbi on verbin edellä tai lauseen lopussa.
 
-Kun halutaan käyttää kahta määritettä erikseen,
-niiden väliin ei tarvitse panna sanaa **e** (ja).
-
-**lili sundari ren**
-= pieni, kaunis henkilö
-
+*tu* ***rapido*** *loga.*
+– Sinä **nopeasti** puhut.  
+*tu loga* ***rapido***.
+– Sinä puhut **nopeasti**.
 
 
-## Verbin määritteenä
+## Asteen adverbit
 
-Adverbi määrittää teonsanaa, adjektiivia tai toista adverbia.
+Asteen määritteet kertovat laadun voimakkuudesta.
 
-Tavan adverbi on verbin edellä.
+*multo*
+– paljon, sangen, hyvin  
+*basto*
+– tarpeeksi, kyllin  
+*mas*
+– enemmän  
+*min*
+– vähemmän
 
-**tu _rapo_ loga.**
-– Sinä _nopeasti_ puhut.  
-**homen _bono_ kitaba.**
-– He _hyvin_ kirjoittavat.
+Asteen määritteet tulevat ennen määrittelemäänsä sanaa.
+
+*dayi nam*
+– iso mies  
+*multo dayi nam*
+– hyvin iso mies  
+*basto dayi nam*
+– tarpeeksi iso mies
+
+Asteen määrite voi muodostaa _yhdysadverbin_ toisen määritteen kanssa.
+Sillä voi määrittää verbiä tai kokonaista lausetta.
+Yhdysadverbi pannaan määrittelemänsä verbin edelle.
+
+*vero multo*
+– todella paljon  
+*me* ***vero multo*** *vola loga kon tu.**
+– Minä _todella paljon_ haluan puhua sinun kanssasi.  
+*me vola* ***vero multo*** *loga.*
+– Minä haluan _todella paljon_ puhua.
+
+Yhdysadverbin voi myös panna lauseen loppuun,
+jolloin se määrittää lausetta kokonaisuutena.
+
+*me vola loga* ***vero multo***.
+– Haluan puhua todella paljon.  
+*kua tu sona* ***basto bono***?
+– Nukuitko tarpeeksi hyvin?
 
 
-## Vertailu
+## Adverbien vertailu
 
 Adverbeja vertaillaan samalla tavalla kuin adjektiiveja.
 
-- **max** : enemmän, -mpi
-- **maxim** : eniten
-- **min** : vähemmän
-- **minim** : vähiten
-- **par** : yhtä
+- *mas* : enemmän, -mpi
+- *maxim* : eniten
+- *min* : vähemmän
+- *minim* : vähiten
+- *par* : yhtä
 
 Pikkusana **ka** suhteuttaa vertailevan adverbin vertailtavaan asiaan.
 
-**tu loga par bono ka me.**
+*tu loga par bono ka me.*
 = Sinä puhut yhtä hyvin kuin minä.
-
-
-## Adverbin pääte
-
-Adverbin pääte on
-**-o**.
-
-Päätettä ei käytetä eräissä yleisimmistä adverbeista, kuten
-**max**
-'enemmän' ja
-**par**
-'yhtä'.
 

@@ -1,122 +1,52 @@
 
 # Adjectives
 
-A modifier is a word that adds a particular quality or description,
-such as good, bad, big, and fast, to another word.
-In Pandunia, there is only one class of modifiers.
-The same word can modify nouns and verbs,
-whereas in English only _adjectives_ can modify nouns
-and only _adverbs_ can modify verbs.
-For example, the word
-**mei**
-('beautiful' or 'beautifully')
-modifies a noun in sentence A
-and a verb in sentence B.
-
-A. **vo es _mei_ kitab.**
-– That is a beautiful writing.  
-B. **tu _mei_ li kitab.**
-– You write _beautifully_.
-
+An adjective is a word that adds some quality or description to another word,
+such as *good*, *bad*, *big*, and *happy*.
+In Pandunia, most adjectives end in
+*-i*.
 
 ## Modifying nouns
 
-In Pandunia, adjectives are modifiers that are placed before the noun that they modify.
+In Pandunia, adjectives are usually placed before the noun that they modify.
 
-**un _nova_ gar**
-– a _new_ car  
-**un _rapid_ gar**
-– a _fast_ car  
-**multi _dai_ meza**
-– _big_ tables  
-**multi _gao_ meza**
-– high tables  
-**un _hao_ jen**
-– a good person
+*novi gar*
+– new car(s)  
+*rapi gar*
+– fast car(s)  
+*dayi mez*
+– big table(s)  
+*gavi mez*
+– high table(s)  
+*boni kurse*
+– good chair(s)
 
-Two or more modifiers can modify the same noun.
+Two or more adjectives can modify the same noun.
 
-**un lit nova gar**
-– a little new car
+*leti novi gar*
+– a little, new car
 
+## Predicative use
 
-## Modifying verbs
+Adjective can be also after the noun.
+Often this type of phrases can be read as complete sentences, where the verb *to be* is implied.
 
-A modifier that modifies a verb
-is placed immediately before the verb.
+*gar – novi.*
+– The car is new.  
+*gar sa novi.*
+– The car is new.  
+*bagre – rapi.*
+– The tiger is fast.  
+*bagre sa rapi.*
+– The tiger is fast.  
 
-**tu _rapid_ loge.**
-– You talk _fast_.  
-**homen _hao_ kitab.**
-– They write _well_.
+Naturally there can be modifiers on both sides of the noun as well.
 
-It is common to put the modifying particle
-**li**
-between the modifier and the verb.
-It makes the structure of the verb phrase clearer.
-
-**tu _mei li_ kitab.**
-– You write _beautifully_.  
-**homen _rapid li_ marce.**
-– They walk _fast_.
+*novi gar – rapi.*
+– The new car is fast.
 
 
-## Modifying other modifiers
-
-The particle
-**li**
-is used also when a modifier modifies another one.
-
-**un _dai li_ hao buk**
-– a _greatly_ good book  
-**_bala li_ lovente jen**
-– _strongly_ loving people
-
-
-## Degree words
-
-Degree words tell us about the intensity of something.
-
-**ver**
-– very  
-**bas**
-– quite, sufficiently, enough  
-**max**
-– more  
-**min**
-– less
-
-Degree words are placed before the word that they modify.
-
-**un dai man**
-– a big man  
-**un ver dai man**
-– a very big man  
-**un bas dai man**
-– a big enough man / a sufficiently big man
-
-A degree word together with a modifier forms a _compound adverb_
-that can modify a verb or a sentence.
-The compound adverb is placed immediately before the verb that it modifies.
-
-**ver multi**
-– very much  
-**mi _ver multi_ voli loge.**
-– I want very much to talk.  
-**mi voli _ver multi_ loge.**
-– I want to talk very much.
-
-It is also possible to place the compound adverb very last in the sentence,
-and then it modifies the sentence as a whole.
-The meaning is the same like when the compound adverb modifies the main verb.
-
-**mi voli loge _ver multi_.**
-– I want to talk very much.  
-**sual tu sona _bas hao_?**
-– Did you sleep well enough?
-
-
-## Adverbs of comparison
+## Comparison
 
 Adjectives can be compared with the adverbs of comparison.
 
@@ -135,10 +65,8 @@ The particle
 **ka**
 relates the adverbs of comparison to the object of comparison.
 
-**aple es max hao ka aranja.**
+**aple sa max boni ka aranja.**
 – Apples are better than oranges.  
-**aranja es min hao ka aple.**
-– Oranges are less good than apples.  
-**tu loge par hao ka mi.**
-– You talk as well as me.
+**aranja sa min boni ka aple.**
+– Oranges are less good than apples.
 

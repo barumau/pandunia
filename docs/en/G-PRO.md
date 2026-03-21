@@ -50,15 +50,15 @@ It is also the most common first-person plural pronoun,
 and the other two are used only occasionally.
 
 The possessive pronouns consists of the personal pronoun and the possessive particle
-*di*.
+*su*.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| *mi di*     | *mimen di*   |
+| *mi su*     | *mimen su*   |
 | my          | our          |
-| *tu di*     | *tumen di*   |
+| *tu su*     | *tumen su*   |
 | your        | your         |
-| *ho di*     | *homen di*   |
+| *ho su*     | *homen su*   |
 | his or her  | their        |
 
 
@@ -115,7 +115,7 @@ points to things that are far from the speaker.
 
 *tu voli vo buku, he?*
 – Do you want that book?  
-*no, mi voli ye buku, no vo.*
+*ne, mi voli ye buku, ne vo.*
 – No, I want this book, not that.
 
 The demonstratives can serve as subjects and objects in the same way as nouns.
@@ -126,17 +126,17 @@ The demonstratives can serve as subjects and objects in the same way as nouns.
 – That is bad.  
 *tu voli ye, he?*
 – Do you want this?  
-*no, mi voli vo.*
+*ne, mi voli vo.*
 – No, I want that.
 
 When the verb is a content word,
 there needs to be a modal particle,
-like *ya* or *no*,
+like *ya* or *ne*,
 between the subject and the verb.
 
-*ye ya vi du jan.*
+*ye ya vi du jen.*
 – This one sees two persons.  
-*ye ya gani e vo no gani.*
+*ye ya gani e vo ne gani.*
 – This one sings and that one doesn't sing.
 
 The basic proximal and distal pronouns are used for introducing a new object.
@@ -147,7 +147,7 @@ does not specify physical distance
 but it is used when the speaker has already mentioned the object or person in question
 and it is known by the audience or is topical within the discourse.
 
-*ye es mau. ho voli yam vo mushu.*
+*ye es mau. ho voli yam vo mus.*
 – This is a cat. It wants to eat that mouse.
 
 *mi have un mau e un gau. el gau es dai. ho yam multi yam.*
@@ -184,78 +184,100 @@ refers to the content of the next statement and
 refers to the content of the previous statement.
 
 
-## Interrogative pronouns
+## Interrogatives
 
-*ke*
-is a general-purpose interrogative pronoun.
-It does the job of English words _who_ and _what_.
+In Pandunia, interrogative phrases consist of the general-purpose question word
+*ki*
+and an appropriate content word.
 
-*ke?*
-– Who or what?  
+*ki made*
+– what, what thing  
+*ki jen*
+– who, what person  
+*ki fason*
+– how, in what way or manner  
+*ki nume*
+– how many, what number  
+*ki suma*
+– how much, what amount  
+*ki koste*
+– how much, what price
 
-The interrogative pronoun takes the place of the questioned thing in the phrase.
-It is not placed in the beginning of the phrase unlike normally in English.
+The interrogative phrase takes the place of the questioned thing in the clause.
+It is not placed in the beginning of the clause unlike normally in English.
 
-*ke es ho?*
-– What is it?  
-*ke es vo jen?*
-– Who is that person ~ he ~ she?  
-*tu voli ke?*
-– What do you want? (Literally: You want what?)  
-*ke es na meza.*
-– What is on the table?  
-*ke es na haus.*
-– Who is in the house?
+*`ho es ki   made?`*  
+ `it be what thing`  
+'What is it?'
+
+*`tu  voli ki   made?`*  
+ `you want what thing`  
+'What do you want?'
+
+*`ki   jen    fa le?`*  
+ `what person do it`  
+'Who did it?'
 
 The possessive interrogative pronoun is built like the other possessive pronouns.
 
-*ke di*
+*ki su*
 – whose
 
-*ke di haus es vo?*
+*ki su haus es vo?*
 – Whose hose is that?
 
-Also adjectives are questioned with *ke*.
+Also adjectives are questioned with *ki*.
 
-*ke nova?*
+*ki nova?*
 – How new?  
-*ke koste?*
+*ki koste?*
 – How costy?  
-*ke multi?*
+*ki multi?*
 – How many?  
-*ke kam?*
+*ki kam?*
 – How few?  
-*ke dai?*
+*ki dai?*
 – How big?  
-*ke lit?*
+*ki lit?*
 – How small?
 
-*tu have ke dai mau?*
-– How big a cat do you have?
+Also adjectives are questioned with
+*ki*.
 
-<!--
-## Table of pronominals
+*ki dai?*
+– how big  
+*ki sen*
+– how old  
+*ki kuai*
+– how fast
 
-A pronominal phrase is an expression that consists of several words and functions syntactically as a pronoun.
-Pandunia's pronominal phrases can be arranged in a regular table of pronominals as below.
+*tu have ki dai mau?*
+– How big a cat do you have?  
+*tu sta ki sen?*
+– How old are you?  
+*vo karu sta ki kuai?*
+– How fast is that car?
 
-| Category      | Interrogative | Demonstrative | Indefinite    | Universal     | Negative      | Alternative   | Elective      |
-|:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| *she*         | *qui she*     | *li she*      | *yo she*      | *pan she*     | *no she*      | *ali she*     | *eni she*     |
-| Thing         | what (thing)  | that thing    | something     | everything    | nothing       | another       | anything      |
-| *jan*         |*qui jan*      | *li jan*      | *yo jan*      | *pan jan*     | *no jan*      | *ali jan*     | *eni jan*     |
-| Individual    | who; which one| that one      | someone       | every one     | no-one        | another       | anyone        |
-| *have*        | *que (jan) di*| *li jan di*   | *yo jan di*   |*pan jan di*   | *no jan di*   |*ali jan di*   | *eni jan di*  |
-| Possession    | whose         | that one's    | someone's     | everyone's    | no-one's      | another's     | anyone's      |
-| *loke*        | *qui loke*    | *li loke*     | *yo loke*     | *pan loke*    | *no loke*     | *ali loke*    | *eni loke*    |
-| Location      | where         | there         | somewhere     | everywhere    | nowhere       | elsewhere     | anywhere      |
-| *tem*         | *qui tem*     | *li tem*      | *yo tem*      | *pan tem*     | *no tem*      | *ali tem*     | *eni tem*     |
-| Time          |when, what time| that time     | sometime      |always, all the time| never    | another time  | any time      |
-| *mode*        | *qui mode*    | *li mode*     | *yo mode*     | *pan mode*    | *no mode*     | *ali mode*    | *eni mode*    |
-| Manner        | how           | in that way   | somehow       | in every way  | in no way     | otherwise     | anyway        |
-| *tipe*        | *qui tipe*    | *li tipe*     | *yo tipe*     | *pan tipe*    | *no tipe*     | *ali tipe*    | *eni tipe*    |
-| Kind, sort    | what kind of  | that kind of  | some kind of  | all kinds of  | no kind of    |another type of| any kind of   |
-| *monta*       | *qui monta*   | *li monta*    | *yo monta*    | *pan monta*   | *no monta*    | *ali monta*   | *eni monta*   |
-| Amount        | how much      | so much       | some          | all           | none          | other amount  | any amount    |
--->
+## Table of pro-forms
 
+A pro-form is a word or expression that stands in for another word, phrase, clause or sentence.
+Pandunia's pro-forms can be arranged in a regular table as below.
+
+| Category      | Interrogative | Relative      | Demonstrative | Indefinite    | Universal     | Negative      | Alternative   | Elective      |
+|:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| *made*        | *ki made*     | *ku made*     | *le made*     | *mo made*     | *har made*    | *<s> made*     | *ale made*    | *eni made*    |
+| Thing         | what (thing)  | that which    | that thing    | something     | everything    | nothing       | another       | anything      |
+| *jen*         | *ki jen*      | *ku jen*      | *le jen*      | *mo jen*      | *har jen*     | *no jen*      | *ale jen*     | *eni jen*     |
+| Individual    | who; which one| that who      | that one      | someone       | every one     | no-one        | another       | anmone        |
+| *have*        | *ki (jen) su* | *ku (jen) su* | *le jen su*   | *mo jen su*   | *har jen su*  | *no jen su*   | *ale jen su*  | *eni jen su*  |
+| Possession    | whose         | whose         | that one's    | someone's     | evermone's    | no-one's      | another's     | anmone's      |
+| *loke*        | *ki loke*     | *ku loke*     | *le loke*     | *mo loke*     | *har loke*    | *no loke*     | *ale loke*    | *eni loke*    |
+| Location      | where         | the place that| there         | somewhere     | everywhere    | nowhere       | elsewhere     | anywhere      |
+| *tem*         | *ki tem*      | *ku tem*      | *le tem*      | *mo tem*      | *har tem*     | *no tem*      | *ale tem*     | *eni tem*     |
+| Time          |when, what time| the time that |then, that time| sometime      |always, all the time| never    | another time  | any time      |
+| *fason*       | *ki fason*    | *ku fason*    | *le fason*    | *mo fason*    | *har fason*   | *no fason*    | *ale fason*   | *eni fason*   |
+| Manner        | how           | the way that  | in that way   | somehow       | in every way  | in no way     | otherwise     | anyway        |
+| *tipe*        | *ki tipe*     | *ku tipe*     | *le tipe*     | *mo tipe*     | *har tipe*    | *no tipe*     | *ale tipe*    | *eni tipe*    |
+| Kind, sort    | what kind of  | the kind that | that kind of  | some kind of  | all kinds of  | no kind of    |another type of| any kind of   |
+| *suma*        | *ki suma*     | *ku suma*     | *le suma*     | *mo suma*     | *har suma*    | *no suma*     | *ale suma*    | *eni suma*    |
+| Amount        | how much      |the amount that| so much       | some          | all           | none          | other amount  | any amount    |
