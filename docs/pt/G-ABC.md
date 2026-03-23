@@ -14,7 +14,7 @@ O alfabeto da Pandunia é mostrado abaixo junto com os correspondentes símbolos
 | E        | e      | **e**vitar | Nunca nasalado ou com som de *i*. |
 | F        | f      | **f**ato   |           |
 | G        | g      | **g**ota   | Sempre duro, nunca com som de *j*. |
-| H        | h ~ x  | ca**rr**o  | O som gutural mudo como em português brasileiro. |
+| H        | h ~ x  | ca**rr**o  | O som gutural mudo em português brasileiro. |
 | I        | i      | **i**dade  |           |
 | J        | dʒ ~ ʒ | **j**ade   |           |
 | K        | kʰ     | **c**asa   |           |

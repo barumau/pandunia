@@ -4,16 +4,16 @@
 ## Senflekciaj
 
 _Substantivo_ estas vorto kiu prezentas aferon.
-Substantivoj estas senfleksiaj, kiel aliaj vortospecoj en Pandunio.
+Substantivoj estas senfleksiaj, kiel aliaj vortospecoj en pandunio.
 Do oni uzas la saman formon por ununombra, multnombra, difina kaj nedifina senco.
 
 *petre*
 – ŝtono, ŝtonoj, la ŝtono, la stonoj  
-*mez*
+*meza*
 – tablo, tabloj, la tablo, la tabloj  
-*korse*
+*kursi*
 – seĝo, seĝoj  
-*suy*
+*sui*
 – akvo  
 
 Plejofte la nombro kaj la difineco estas evidenta, se ĝi estas jam priklarigita antaŭe en la teksto aŭ pro ĝenerala kono.
@@ -29,15 +29,15 @@ temas pri _la luno_; nia nura suno kaj luno.
 Substantivoj havas la saman formon en la singularo kaj la plularalo.
 Oni povas esprimin nombron per numeraloj kiam ĝi estas utila.
 
-**korse**
+*kursi*
 – seĝo aŭ seĝoj  
-**un korse**
+*un kursi*
 – unu seĝo  
-**du korse**
+*du kursi*
 – du seĝoj  
-**tri korse**
+*tri kursi*
 – tri seĝoj  
-**multi korse**
+*multi kursi*
 – multe da seĝoj; seĝoj
 
 

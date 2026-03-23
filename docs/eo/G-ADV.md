@@ -2,29 +2,27 @@
 # Adverboj
 
 Adverbo estas vorto, kiu modifas verbon, adjektivon aŭ alian adverbon.
-En Pandunio, plejaj adverboj finiĝas per
-*-o*.
 
 ## Modifante verbon
 
-*tu rapido loga.*
+*tu rapid loge.*
 – Vi _rapide_ parolas.  
 *homen bono kitaba.*
 – Ili _bone_ skribas.
 
-*me bono sona.*
+*mi hao sona.*
 – Mi _bone_ dormas.  
-*me sona bono.*
+*mi sona hao.*
 – Mi dormas _bone_.  
-*tu basa pandunia bono.*
-– Vi parolas Pandunion _bone_.
+*tu bashe pandunia hao.*
+– Vi parolas pandunion _bone_.
 
 ## Modifante adjektivon
 
 Adverboj povas modifi ankaŭ adjektivojn.
 
-*dayo meyi jan*
+*dai li mei jan*
 – grande bela homo  
-*leto meyi jan*
+*let li mei jan*
 – ete bela homo
 

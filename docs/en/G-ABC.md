@@ -48,7 +48,7 @@ The consonant letters *p, b, t, d, k, f, s, z, j, h, m, n, l, y* sound like in E
 *g* is always hard as in *get*.
 *r* is never silent and it is preferably trilled as in Scottish and Indian English.
 The Pandunia letter *c* sounds like the letter combination *ch* in the English word *church*.
-Finally, the Pandunia letter *x* sounds the same as in English, namely /ks/,
+Finally, the Pandunia letter *x* sounds the same as in English
 but it can be simplified to *s* in the beginning of a syllable and before another consonant,
 as in *xenon* /senon/ and *exter* /ester/.
 
@@ -219,7 +219,7 @@ like for example **GULag**, which is an acronym of the Russian words "Glavnoye U
 Capital letters are also used in the standard international acronyms.
 For example:
 10 Mb (des megabite),
-100 GB (cen gigabaite),
+100 GB (sento gigabaite),
 2 mm (du milimitre),
 1 kJ (un kilojul).
 
@@ -253,8 +253,8 @@ One may
 (2) insert one space before and after the punctuation mark.
 This practice helps to separate sentences more clearly.
 
-    (1) sal!  tu boni, he?  me vola ga do kafekan.  tu vola vena kon me, he?
-    (2) sal ! tu boni, he ? me vola ga do kafekan . tu vola vena kon me, he ?
+    (1) sal!  tu hao, he?  mi voli go do kafekan.  tu voli lai kon mi, he?
+    (2) sal ! tu hao, he ? mi voli go do kafekan . tu voli lai kon mi, he ?
 
 In informal texts, smileys, emoticons and emojis may be used instead of punctuation marks to end sentences
 but in addition they indicate the mood of the speaker.

@@ -31,14 +31,14 @@ because, when you are hit by a sudden pain,
 first your mouth opens wide (producing the *a* sound),
 and then it tightens into a grimace (producing the *i* sound).
 It's easy to imagine where the following words come from:
-*acih*
-('the sneeze'),
+*aci*
+('to sneeze'),
 *glut*
-('the swallowing')
-*hahah*
-('the laughter'),
-*hihih*
-('the giggle').
+('to swallow')
+*haha*
+('to laugh'),
+*hihi*
+('high-pitched laughter').
 
 Some imitative words come from the early childhood.
 When a baby is offered food with a spoon, they will either accept it by opening their mouth – producing the *ya* sound –
@@ -181,4 +181,3 @@ Was it 1000 or 200 years ago?
 Did it arise spontaneously among uneducated people or was it created deliberately by learned people?
 For all we know, it could be just an exceptionally cosmopolitan constructed international auxiliary language created in the 22nd century.
 Maybe we will find it out someday...
-

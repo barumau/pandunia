@@ -2,7 +2,7 @@
 # The basic rules of Pandunia
 
 These are the basic rules of the Pandunia language.
-They are described in more detail later in the documentation.
+They are described in more detail later in this document.
 
 1.  **World words**
 
@@ -24,37 +24,36 @@ They are described in more detail later in the documentation.
 3.  **Regular stress accent**
 
     Root words are stressed on the syllable that is before the last consonant of the word, f.ex.
-    *súki* ('nice'), *dúnia* ('world'), *báse* ('language'), *amén* ('amen').
+    *háo* ('nice'), *dúnia* ('world'), *báshe* ('language'), *amén* ('amen').
     Derived words and compound words are stressed according to their components so that the main component carries the primary stress
     and other components may carry secondary stress, f.ex.
-    *trabása* ('translate'), *dúnialìsme* ('globalism'), *bàseskóle* ('language school').
+    *trabáshe* ('translate'), *dúnialìsme* ('globalism'), *bàshe skóle* ('language school').
     Primary accent is indicated here by an acute accent (*á*) and secondary accent by a grave accent (*à*).
 
-4.  **Word class markers**
+4.  **Word classes**
 
-    Pandunia is an agglutinative language,
-    and its words consist of a root and a word class marker.
-    The word class markers are final vowels that clearly indicate the word's part of speech.
-    Adjectives end in a consonant + *i*,
-    adverbs end in a consonant + *o*,
-    and verbs end in a consonant + *a* or *u*.
-    Nouns can take any other ending, like *-e*, *-ia* or any consonant.
+    Pandunia is an analytical language.
+    It means that its words do not inflect or change their form because of grammar.
+    Therefore the same word can function in different grammatical roles,
+    for example as noun, verb, adjective or adverb,
+    without any change in form.
+    Word forms change only when the word's meaning changes.
 
-    This consistent system is a key factor of Pandunia's grammatical clarity
-    as it allows for easy derivation of new words from a single root word.
+    This consistent system is a key factor for Pandunia's grammatical simplicity
+    as it allows for direct communication without formal grammatical errors.
 
     [Read more!](G-PoS.md)
 
 5.  **Pronouns**
 
     The personal pronouns are:  
-    *me*
+    *mi*
     'I',
     *tu*
     'you' (singular),
     *ho*
     'he, she, it',
-    *memen*
+    *mimen*
     'we',
     *tumen*
     'you' (plural),
@@ -62,17 +61,17 @@ They are described in more detail later in the documentation.
     'they'.
 
     The possessive pronouns are:  
-    *me di* ~ *mi*
+    *mi su*
     'my',
-    *tu di* ~ *ti*
+    *tu su*
     'your',
-    *ho di* ~ *hi*
+    *ho su*
     'his or her',
-    *memen di*
+    *mimen su*
     'our',
-    *tumen di*
+    *tumen su*
     'your',
-    *homen di*
+    *homen su*
     'their'.
 
     The interrogative pronouns are:
@@ -80,7 +79,7 @@ They are described in more detail later in the documentation.
     'what',
     *ke jen*
     'who',
-    *ke di* ~ *ke jen di*
+    *ke su* ~ *ke jen su*
     'whose'.
 
     [Read more!](G-PRO.md)
@@ -91,25 +90,22 @@ They are described in more detail later in the documentation.
     Their form is not affected by number, gender or case.
     Number is indicated by number and quantity words.
     Their role is indicated by word order or by a preposition.
-    
-    Nouns don't have a mandatory ending,
-    but they usually end in *-e*, two vowels or a consonant.
 
     [Read more!](G-N.md)
 
 7.  **Numerals**
 
     The cardinal numbers are:  
-    0 *nil*, 1 *un*, 2 *du*, 3 *tri*, 4 *car*, 5 *pen*, 6 *luk*,
+    0 *nil*, 1 *un*, 2 *du*, 3 *tri*, 4 *char*, 5 *pen*, 6 *luk*,
     7 *set*, 8 *bat*, 9 *nau*, 10 *des*.  
     Greater than ten:
     11 *des un*, 12 *des du*, 13 *des tri*,
     etc.  
     Tens:
-    20 *du des*, 30 *tri des*, 40 *car des*,
+    20 *du des*, 30 *tri des*, 40 *char des*,
     etc.  
     Hundreds:
-    100 *un cen*, 200 *du cen*, 300 *tri cen*,
+    100 *un cent*, 200 *du cent*, 300 *tri cent*,
     etc.  
     Thousands:
     1000 *un kil*, 2000 *du kil*, 3000 *tri kil*,
@@ -128,40 +124,32 @@ They are described in more detail later in the documentation.
 8.  **Adjectives**
 
     Adjectives modify nouns.
-    They end in *-i*,
-    and they may come before or after the word that they modify.
+    The adjective modifier is before the noun that it modifies.
 
-    *rapidi loge* ~ *loge rapidi*  
+    *un rapid loge*  
     'a fast speech'
 
     [Read more!](G-ADJ.md)
 
 9.  **Adverbs**
 
-    Adverbs end in *-o*.
-    They modify verbs, adjectives, other adverbs and complete sentences.
+    Adverbs modify verbs, adjectives, other adverbs and complete sentences.
     They come before the word that they modify or very last in the sentence.
 
-    *multo rapi loge*
+    *tre rapid loge*
     – very fast speech  
-    *tu rapido loga.*
+    *tu rapid loge.*
     – You talk fast.
 
     [Read more!](G-ADV.md)
 
 10. **Verbs**
 
-    There are two verb endings *-a* and *-u*.
-    The verb ending *-a* indicates that
-    the agent of the action is immediately before the verb.
-    The verb ending *-u* indicates that
-    the patient of the action is immediately before the verb.
-
-    Pandunia verbs do not change for other grammatical categories like person, number or tense.
+    Pandunia verbs do not change in person, number, tense or any other grammatical category.
     Therefore a plain verb can be understood in many ways
     (though usually only one interpretation is fitting in the context of the discussion).
 
-    *me darsa pandunia.*  
+    *mi darse pandunia.*  
     'I study ~ studied ~ will study Pandunia.'
 
     Auxiliary verbs can be used to indicate the moment, the duration and the lasting impact of an action.
@@ -170,40 +158,40 @@ They are described in more detail later in the documentation.
         indicates an ongoing event.
     -   *ha*
         indicates a completed event, which has an effect on the present situation.
-    -   *pas*
+    -   *le*
         indicates a past event.
     -   *fu*
         indicates a future event.
 
-    *me ha darsa pandunia.*  
+    *mi ha darse pandunia.*  
     'I have studied Pandunia.'
 
     [Read more!](G-V.md)
 
 11. **Word order in clauses**
 
-    Pandunia allows several different clause word orders, like subject–verb–object (SVO) and subject–object–verb (SOV).
-    The same order can be used both in declarations and in questions.
+    The word order is subject–verb–object.
+    The same order is used in declarations and questions.
 
-    A passive clause is created with the help of the passivizing auxiliary
-    *bi*.
+    A passive sentence is created with the help of the passive auxiliary verb
+    **bi**.
 
-    *pandunia bi basa.*
+    *pandunia bi loge.*
     – Pandunia is spoken.   
-    *bi basa pandunia.*
+    *bi loge pandunia.*
     – One speaks Pandunia.
 
     In the **pivot construction**, the object of the transitive verb functions as the subject of the following verb.
 
-    *me pleza tu loga pandunia.*  
+    *mi ples tu loge pandunia.*  
     'I ask you to speak Pandunia.'
 
     Pronouns can be left out when they are obvious and redundant.
     
-    *me kua tu basa pandunia?* → *kua tu basa pandunia?*  
-    'Do you speak Pandunia?'
+    *mi que tu basa pandunia?* → *que tu basa pandunia?*  
+    'Do you speak Panlingue?'
 
-    *me pleza tu loga klaro.* →  *pleza loga klaro.*  
+    *me ples tu loge klar.* →  *ples loge klar.*  
     'Please speak clearly.'
 
     [Read more!](G-P.md)

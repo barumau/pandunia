@@ -1,5 +1,5 @@
 
-# Słowotwórstwo
+# 11. Słowotwórstwo
 
 Możliwe jest tworzenie nowych słów w Panduni.
 Pandunia ma produktywny system tworzenia nowych słów.

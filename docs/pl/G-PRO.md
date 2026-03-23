@@ -1,5 +1,5 @@
 
-# Zaimki
+# 4. Zaimki
 
 ## Zaimki osobowe
 
@@ -7,23 +7,23 @@ Zaimki mogą zastępować słowa-rzeczy i wyrażenia-rzeczy.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| *me*        | *mimen*      |
+| **mi**      | **vi**       |
 | ja, mnie    | my           |
-| *tu*        | *tumen*      |
+| **tu**      | **yu**       |
 | ty, ciebie  | wy           |
-| *ho*        | *homen*      |
+| **da**      | **di**       |
 | on, ona, ono| oni, one     |
   
  
 
-**se**
+**sef**
 – się, siebie
 
-**mi vize se.**
+**mi vize sef.**
 – Widzę się.  
-**da vize se.**
+**da vize sef.**
 – Widzi się.  
-**vi vize se.**
+**vi vize sef.**
 – Widzimy się.
 
 
@@ -31,43 +31,43 @@ Zaimki mogą zastępować słowa-rzeczy i wyrażenia-rzeczy.
 
 Zaimki wskazujące to:
 
-**ye**
+**da hir**
 – ten  
-**vo**
+**da der**
 – tamten
 
-**ye mau**
+**da hir mau**
 – Ten kot  
-**vo mau.**
+**da der mau.**
 – Tamten kot
 
-**me vola ye.**
+**mi van da hir.**
 – Chcę ten.  
-**me vola ye mau.**
+**mi van da hir mau.**
 – Chcę tego kota.
 
 
 ## Zaimki pytające
 
-*ke*
+**vat**
 jest zaimkiem pytającym ogólnego zastosowania.
 Załatwia robotę polskich _kto_ i _co_.
 
-*ke?*
+**vat?**
 – co?  
-*ke jen*
+**hu**
 – kto?
 
 Przymiotnikowy zaimek pytający to
-*ke*
+**vat**
 i znaczy tyle, co polskie _jaki_.
 
-*ke made?*
+**vat ting?**
 – Co? (Jaka rzecz?)  
-*ke jen?*
+**vat von?**
 – Kto? (Jaka osoba?)  
-*ke tempo?*
+**vat tem?**
 – Kiedy? (Jaki czas?)  
-*ke modo?*
+**vat vei?**
 – Jak? (Jaki sposób?)
 

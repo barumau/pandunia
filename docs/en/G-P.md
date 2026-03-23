@@ -695,63 +695,53 @@ constructions can be used for emphasizing the topicness of the normal subject to
 
 ## Questions
 
-### Yes or no questions
+### Yes-no questions
 
-The basic way to ask *yes or no* questions involves using the verb–*ne*–verb (verb–*not*–verb) structure.
-The question structure involves a contradiction,
-and it is often used to confirm if a fact is true or not.
+_Yes-no_ questions are questions that expect 'yes' or 'no' as answer.
+The easiest way to form a yes-no question in Pandunia is to simply attach the particle
+**he**
+('eh', 'huh') to the end of a statement.
 
-*`tu  es ne  es dokter?`*  
- `you be not be doctor`  
-'Are you a doctor?'
+**tu yam un piza.**
+– You eat a pizza. (statement)  
+**tu yam un piza, he?**
+– Do you eat a pizza? (question)
 
-*`tu  voli ne  voli yam aple?`*  
- `you want not want eat apple`  
-'Do you want to eat an apple?'
+It is also possible to use
+**ne**
+('no', 'not') or
+**ya**
+('yes') instead of
+**he**
+to suggest the expected answer.
 
-The negated verb can be also in the end of the sentence.
+**tu yam un piza, ne?**
+– You eat a pizza, don't you?  
+**tu yam un piza, ya?**
+– You eat a pizza, right?
 
-*`tu  es dokter ne  es?`*  
- `you be doctor not be`  
-'Are you a doctor?'
+The third way to ask a yes-no question is to contradict the verb
+with the _A-not-A_ structure.
 
-*`tu  voli yam aple  ne  voli?`*  
- `you want eat apple not want`  
-'Do you want to eat an apple?'
+**tu yam ne yam un piza?**
+– Do you or don't you eat a pizza?  
+**tu kan ne kan yam un hol piza?**
+– Can you or can't you eat a whole pizza?
 
-This structure is often simplified by leaving out the final verb.
+Finally, you can emphasize the question by using **sual**.
 
-*`tu  es dokter ne  es?`*  
- `you be doctor not`  
-'Are you a doctor?' ~ 'You are a doctor, no?'
+**mi sual, tu yam un piza?**
+– I ask do you eat a pizza?  
+**sual tu yam un piza?**
+– Do you eat a pizza?
 
-*`tu  voli yam aple  ne?`*  
- `you want eat apple not`  
-'Do you want to eat an apple?' ~ 'You want an apple, no?'
-
-Sentences with a negated verb end logically with the affirmative particle.
-
-*`tu  ne  nose mi ya?`*  
- `you not know me yes`  
-Don't you know me?
-
-An unrelated way to form questions is using the word
-**sual**
-('to ask').
-It is essentially a pivot construction without the initial pronoun.
-
-*mi sual, tu yam piza?*
-– I ask do you eat pizza?  
-*sual tu yam piza?*
-– Do you eat pizza?
-
-*Yes or no* questions are answered with
+Yes-no questions are answered with
 **ya**
 ('yes') and
 **ne**
 ('no').
 
-**tu vize mi, ne?**
+**tu vize mi, he?**
 – Do you see me?  
 **ya. (mi ya vize tu.)**
 – Yes. (I _do_ see you.)  
@@ -764,7 +754,7 @@ and
 **ne**
 apply to the verb, not the whole question.
 
-**tu ne vize mi ya?**
+**tu ne vize mi, he?**
 – Don't you see me?  
 **ya. (mi vize tu.)**
 – Yes. (I see you.)  

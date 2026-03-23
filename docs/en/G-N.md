@@ -4,16 +4,16 @@
 ## Only one form
 
 A noun is a word that refers to a concrete or abstract object,
-such as *person*, *tree*, *house*, *life* and *beauty*.
+such as *person*, *tree*, *house*, *life* and *speed*.
 Like all words in Pandunia, nouns don't ever change in form.
 The same word form is always used, no matter whether the referred thing is singular or plural, definite or indefinite, subject or object, etc.
 Therefore the same Pandunia word form can correspond to many different word forms in English.
 
 *haus*
 – a house, houses, the house, or the houses  
-*mez*
+*meza*
 – a table, tables, the table, or the tables  
-*korse*
+*kursi*
 – a chair, chairs, the chair, or the chairs  
 *sui*
 – water, the water
@@ -21,9 +21,9 @@ Therefore the same Pandunia word form can correspond to many different word form
 Number and definiteness are often known because they were previously mentioned in the conversation or because they are general knowledge.
 For example, normally the words
 *sol*
-refers to _the sun_ and
+and
 *lun*
-refers to _the moon_, our only sun and moon.
+refer to _the sun_ and _the moon_, our only sun and moon.
 
 
 ## Indicating number
@@ -39,9 +39,9 @@ which also have only one form though they can refer to one or many things.
 
 One can use simple nouns to make general statements about things in general, without indicating a specific group or number.
 
-*singe sa dayi mau.*
+*singa es dai mau.*
 – The lion is a large cat.  
-*fem sa latifi.*
+*fem es latif.*
 – Women are nice.
 
 In Pandunia, the number is indicated only when it matters and when it is new information.
@@ -58,16 +58,17 @@ It is done simply by inserting a number or a quantity word before the noun.
 *multi meme*
 – many sheep
 
-*korse*
+*kursi*
 – a chair or chairs  
-*un korse*
+*un kursi*
 – one chair  
-*du korse*
+*du kursi*
 – two chairs  
-*tri korse*
+*tri kursi*
 – three chairs  
-*multi korse*
+*multi kursi*
 – many chairs
+
 
 
 ## Plural of diversity
@@ -75,16 +76,16 @@ It is done simply by inserting a number or a quantity word before the noun.
 Noun reduplication i.e. doubling of the noun indicates a variety or diversity of the reduplicated object.
 It means that there are many kinds of the thing in question.
 
-*hom-hom*
+*hom hom*
 – people and people, many kinds of people  
-*haus-haus*
+*haus haus*
 – houses and houses, many kinds of houses  
-*buk-buk*
+*buk buk*
 – books and books, many kinds of books
 
 Quantity words should not be used together with reduplication.
 Therefore, a phrase like
-*tri buk-buk*
+*tri buk buk*
 would be too much, whereas
 *tri buk*
 ('three books') is just perfect.
@@ -99,14 +100,14 @@ and the structure
 *X men*
 means 'X and other people associated with X'.
 
-*Adam-men*
+*Adam men*
 – Adam and his people  
-*Maria-men*
+*Maria men*
 – Maria and her people
 
 The same particle is used also for forming the plural personal pronouns.
 
-*memen*
+*mimen*
 – we = 'I and my people' (not 'many mes')  
 *tumen*
 – you = 'you and your people' (not 'many yous')  
@@ -140,18 +141,4 @@ A title of respect can be used with a given name, a family name, or both.
 – Mx Billy  
 *si King*
 – Mx King
-
-
-## Noun ending?
-
-Nouns can end in any vowel or consonant in Pandunia.
-They don't have dedicated endings, unlike verbs, adverbs and adjectives do.
-As a rule of thumb, those words that **don't end** in the single vowels *-a*, *-u*, *-i* and *-o* are nouns.
-This rule is highly reliable but there are still exceptions to it,
-including a few cultural loanwords, like
-*piza*
-('pizza, an Italian pie with tomato, cheese and other toppings') and
-*susi*
-('sushi, a Japanese dish of rice, seaweed and fish'),
-and many proper names, like *Ana*, *Marta*, *Lili*, *Marko* and *Lulu*.
 

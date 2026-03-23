@@ -1,230 +1,157 @@
 
-# Pandunian perussäännöt
+# 1. Pandunian perussäännöt
 
-1.  **Kansainvälinen sanasto**
+### 1. Kansainvälinen sanasto
 
-    Pandunia on tasapuolisesti yleismaailmallinen kieli.
-    Panduniaan lainataan kansainvälisiä sanoja kaikkialta maailmasta.
-    Ne sovitetaan pandunian äänteisiin ja kirjoitusjärjestelmään.
-    Samaan asiaan liittyvistä sanoista yksi perussana omaksutaan panduniaan ja loput johdetaan 12. säännön mukaan.
+Pandunia on tasapuolisesti yleismaailmallinen kieli.
+Panduniaan lainataan kansainvälisiä sanoja kaikkialta maailmasta.
+Ne sovitetaan pandunian äänteisiin ja kirjoitusjärjestelmään.
+Samaan asiaan liittyvistä sanoista yksi perussana omaksutaan panduniaan ja loput johdetaan säännön 10 mukaan.
 
-    [Lue lisää!](L-lexe.md)
+### 2. Sanojen kirjoitus ja ääntäminen
 
-2.  Sanojen kirjoitus ja ääntäminen
+Panduniaa kirjoitetaan säännönmukaisesti.
+Kaikki sanat luetaan äänteenmukaisesti.
 
-    Panduniaa kirjoitetaan säännönmukaisesti.
-    Kaikki sanat luetaan äänteenmukaisesti.
+### 3. Painotus
 
-    [Lue lisää!](G-ABC.md)
+Perussanoissa paino on viimeistä konsonanttia ennen olevalla tavulla, esim.
+**háu** ('mukava'), **dúnia** ('maailma'), **báshe** ('kieli'), **amén** ('aamen').
 
-3.  **Painotus**
+Yhdyssanoissa yhdysosat pitävät alkuperäisen painonsa siten, että pääpaino on edussanalla, esim.
+**trabáshe** ('kääntää'), **dúnialìsme** ('globalismi'), **bàshe skóla** ('kielikoulu').
 
-    Perussanoissa paino on viimeistä konsonanttia ennen olevalla tavulla, esim.
-    **súki** ('mukava'), **dúnia** ('maailma'), **báse** ('kieli'), **amén** ('aamen').
+### 4. Pronominit
 
-    Yhdyssanoissa yhdysosat pitävät alkuperäisen painonsa siten, että pääpaino on edussanalla, esim.
-    **trabása** ('kääntää'), **dúnialìsme** ('globalismi'), **bàseskóle** ('kielikoulu').
+Personaapronominit ovat:
+**mi**
+'minä',
+**tu**
+'sinä',
+**hi**
+'hän',
+**vi**
+'me',
+**yu**
+'te',
+**de**
+'he'.
 
-4.  **Sanaluokkatunnukset**
+Niiden omistusmuodot ovat:
+**mi's**
+'minun',
+**tu's**
+'sinun',
+**hi's**
+'hänen',
+**vi's**
+'meidän',
+**yu's**
+'teidän',
+**de's**
+'heidän'.
 
-    Pandunia on agglutinoiva eli sananosia yhteen liittävä kieli.
-    Sen sanat koostuvat vartalosta ja päätteenä olevasta sanaluokkatunnuksesta.
-    Adjektiivien päättenä on konsonantti + *i*,
-    adverbien päätteenä on konsonantti + *o*,
-    ja verbien päätteenä on konsonantti + *a* tai *u*.
-    Substantiivit saavat päättyä vapaasti mihin tahansa vokaaliin tai konsonanttiin, mutta *-e* on yleinen substantiivin pääte.
+Kysyvät pronominit ovat:
+**vat**
+'mikä',
+**hu**
+'kuka',
+**hu's**
+'kenen'.
 
-    Sanaluokkatunnukset tekevät pandunian rakenteesta selkeän
-    ja mahdollistavat eri sanaluokkien sanojen johtamisen helposti.
+### 5. Substantiivit
 
-    [Lue lisää!](G-PoS.md)
+Substantiivit ovat taipumattomia.
+Panduniassa ei ole yksikköä eikä monikkoa, sijamuotoja eikä kieliopillista sukua.
 
-5.  **Pronominit**
+### 6. Lukusanat
 
-    Personaapronominit ovat:
-    *me*
-    'minä',
-    *tu*
-    'sinä',
-    *ho*
-    'hän',
-    *memen*
-    'me',
-    *tumen*
-    'te',
-    *homen*
-    'he'.
-
-    Niiden omistusmuodot ovat:
-    *me di* ~ *mi*
-    'minun',
-    *tu di* ~ *ti*
-    'sinun',
-    *ho di* ~ *hi*
-    'hänen',
-    *memen di*
-    'meidän',
-    *tumen di*
-    'teidän',
-    *homen di*
-    'heidän'.
-
-    Kysyvät pronominit ovat:
-    *ke*
-    'mikä',
-    *ke jen*
-    'kuka',
-    *ke di* ~ *ke jen di*
-    'kenen'.
-
-    [Lue lisää!](G-PRO.md)
-
-5.  Substantiivit
-
-    Substantiivit ovat taipumattomia.
-    Panduniassa ei ole yksikköä eikä monikkoa, sijamuotoja eikä kieliopillista sukua.
-    
-    Substantiiveilla ei ole sanaluokkatunnusta,
-    mutta yleensä substantiivit päättyvät *e*:hen, mihin tahansa kahteen vokaaliin tai johonkin konsonanttiin.
-
-    [Lue lisää!](G-N.md)
-
-6.  **Lukusanat**
-
-    Perusluvut ovat:
-    0 *nil*, 1 *un*, 2 *du*, 3 *tri*, 4 *car*, 5 *pen*, 6 *luk*,
-    7 *set*, 8 *bat*, 9 *nau*, 10 *des*.  
-    Kymmentä suuremmat:
-    11 *des un*, 12 *des du*, 13 *des tri*,
-    jne.  
-    Kymmenet:
-    20 *du des*, 30 *tri des*, 40 *car des*,
-    jne.  
-    Sadat:
-    100 *un cen*, 200 *du cen*, 300 *tri cen*,
-    jne.  
-    Tuhannet:
-    1000 *un kil*, 2000 *du kil*, 3000 *tri kil*,
-    jne.
+Perusluvut ovat:
+0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **for**, 5 **faif**, 6 **sixe**,
+7 **seven**, 8 **eit**, 9 **nain**, 10 **ten**.  
+Kymmentä suuremmat:
+11 **ten un**, 12 **ten du**, 13 **ten tri**,
+jne.  
+Kymmenet:
+20 **du ten**, 30 **tri ten**, 40 **for ten**,
+jne.  
+Sadat:
+100 **un hunde**, 200 **du hunde**, 300 **tri hunde**,
+jne.  
+Tuhannet:
+1000 **un tauzen**, 2000 **du tauzen**, 3000 **tri tauzen**,
+jne.
 	
-    Järjestysluvut saadaan asettamalla perusluku substantiivin jälkeen:  
-    *parte un*
-    – ensimmäinen osa, osa yksi  
-    *parte du*
-    – toinen osa, osa kaksi  
-    *parte tri*
-    – kolmas osa, osa kolme
+Järjestysluvut saadaan asettamalla perusluku substantiivin jälkeen:  
+**parte un**
+– ensimmäinen osa, osa yksi  
+**parte du**
+– toinen osa, osa kaksi  
+**parte tri**
+– kolmas osa, osa kolme
 
-    [Lue lisää!](G-NUM.md)
+### 7. Adjektiivit ja adverbit
+Adjektiivit ja adverbit ovat muodoltaan samanlaisia.
+Yhdessä niitä kutsutaan määritteiksi.
+Ajektiivimääritteen paikka on ennen substantiivia ja adverbimääritteen ennen verbiä.
 
-8.  **Adjektiivit**
+**un rapid log**
+– Nopea puhe.  
+**tu rapid log.**
+– Sinä nopeasti puhut.
 
-    Adjektiivit ja adverbit ovat muodoltaan samanlaisia.
-    Yhdessä niitä kutsutaan määritteiksi.
-    Ajektiivimääritteen paikka on ennen substantiivia ja adverbimääritteen ennen verbiä.
+### 8. Verbit
 
-    *rapidi loge* ~ *loge rapidi*  
-    'nopea puhe'
+Verbit ovat taipumattomia.
+Ne eivät taivu persoona-, aika- taikka tapamuodoissa.
+Persoona ilmaistaan persoonapronominilla.
+Aika ilmaistaan apuverbeillä.
 
-    [Lue lisää!](G-ADJ.md)
+- **bi**
+  ilmaisee meneillään olevaa toimintaa.
+- **hav**
+  ilmaisee tehtyä toimintaa, joka vaikuttaa kuluvaan hetkeen.
+- **did**
+  ilmaisee tehtyä toimintaa, joka ei enää vaikuta kuluvaan hetkeen.
+- **vil**
+  ilmaisee tulevaa toimintaa.
 
-9.  **Adverbit**
+### 9. Sanajärjestys
 
-    Adverbit määrittelevät verbejä, adjektiiveja, toisia adverbeja ja kokonaisia lauseita.
-    Ne sijaitsevat yleensä ennen määrittelemäänsä sanaa tai lauseen lopussa.
-    Adverbin tunnus on *-o*.
+Lauseen sanajärjestys on subjekti–verbi–objekti.
+Samaa sanajärjestystä käytetään sekä väittämissä että kysymyksissä.
 
-    *multo rapi loge*
-    – hyvin nopea puhe  
-    *tu rapido loga.*
-    – Sinä nopeasti puhut.
+Passiivi muodostetaan apuverbillä
+**bei**.
+Saman vaikutelman voi luoda myös persoonattomalla pronominilla
+**von**.
 
-    [Lue lisää!](G-ADV.md)
+**pandunia bei log.**
+– Panduniaa puhutaan.  
+**von log pandunia.**
+– Ihmiset puhuvat panduniaa.
 
-10. **Verbit**
+Aktiivisen verbin objekti voi toimia seuraavan verbin subjektina.
+Tämä on ns. _saranarakenne_.
 
-    Pandunian verbit taipuvat lauseenosien järjestyksen mukaan.
-    Tekijäjohtoisten verbien pääte on **-a**
-    ja sanajärjestys on subjekti–verbi–objekti.
+**mi ples tu log pandunia.**
+– Minä pyydän sinua puhumaan panduniaa.
 
-    **me yama aple.**  
-    'Minä syön omenaa.'
+Pronominit voidaan jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
 
-    Kohdejohtoisten verbien pääte on **-u**
-    ja sanajärjestys on objekti–verbi–subjekti.
+**_mi_ ples _tu_ log pandunia.**
+→ **ples log pandunia.**  
+– Pyydän, puhu panduniaa.
 
-    **aple yamu.**  
-    'Omenaa syödään.'
-    
-    Pandunian verbit eivät taivu persoona-, aika- eikä tapamuodoissa.
-    Persoona ilmaistaan persoonapronominilla,
-    ja aika ilmaistaan apuverbillä tai muulla ajan ilmauksella.
+### 10. Sanojen johtaminen
 
-    -   *sta*
-      ilmaisee meneillään olevaa toimintaa.
-    -   *ha*
-      ilmaisee tehtyä toimintaa, joka vaikuttaa kuluvaan hetkeen.
-    -   *pas*
-      ilmaisee tehtyä toimintaa, joka ei enää vaikuta kuluvaan hetkeen.
-    -   *fu*
-      ilmaisee tulevaa toimintaa.
+Yhdyssanat muodostetaan asettamalla kaksi tai useampia perussanoja peräkkäin
+siten, että viimeinen sana on merkittävin.
 
-    *me ha darsa pandunia.*  
-    'Minä olen opiskellut panduniaa.'
-
-    [Lue lisää!](G-V.md)
-
-11. **Sanajärjestys**
-
-    Lauseen sanajärjestys on subjekti–verbi–objekti.
-    Samaa sanajärjestystä käytetään sekä väittämissä että kysymyksissä.
-    
-    Passiivi muodostetaan apuverbillä
-    **bei**.
-    Saman vaikutelman voi luoda myös persoonattomalla pronominilla
-    **von**.
-    
-    *pandunia bi basa.*
-    – Panduniaa puhutaan.  
-    *bi basa pandunia.*
-    – Ihmiset puhuvat panduniaa.
-    
-    Aktiivisen verbin objekti voi toimia seuraavan verbin subjektina.
-    Tämä on ns. _saranarakenne_.
-    
-    *me pleza tu loga pandunia.*  
-    – Minä pyydän sinua puhumaan panduniaa.
-    
-    Pronominit voidaan jättää pois, kun ne ovat ilmiselviä tai muuten tarpeettomia.
-    
-    *me kua tu basa pandunia?* → *kua tu basa pandunia?*  
-    '~~Minä kysyn~~ puhutko sinä panduniaa?'
-
-    *me pleza tu loga klaro.* →  *pleza loga klaro.*  
-    '~~Minä pyydän~~ puhuisitko selvästi.'
-
-    [Lue lisää!](G-P.md)
-
-12. **Sanojen johtaminen**
-
-    Yhdyssanat muodostetaan asettamalla kaksi tai useampia perussanoja peräkkäin
-    siten, että viimeinen sana on merkittävin.
-    
-    *poste*
-    ('posti') +
-    *kase*
-    ('laatikko', 'lipas') =
-    *postekase*
-    ('postilaatikko')
-
-    Yhdysvokaali *-o-* lisätään toisinaan sananosien väliin eritoten, kun yhdyssana koostuu kreikkalaisperäisistä sanoista.
-
-    *dem*
-    ('kansa') +
-    *kratia*
-    ('hallinto') =
-    *demokratia*
-    ('demokratia, kansanvalta')
-
-    [Lue lisää!](G-AFX.md)
+**poste**
+('posti') +
+**kase**
+('laatikko', 'lipas') =
+**poste kase**
+('postilaatikko')
 
