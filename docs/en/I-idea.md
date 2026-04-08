@@ -71,7 +71,7 @@ The six official languages of the United Nations are included: English, French, 
 The language of the heart of Europe is included: German.
 The language of the South Atlantic is included: Portuguese.
 The most important East Asian languages are included: Japanese, Korean, Vietnamese, Cantonese and Malay.
-The most influential languages of the Indian subcontinent are included: Hindi, Urdu, Bengali and Tamil.
+The most influential languages of the Indian subcontinent are included: Hindi-Urdu, Bengali and Tamil.
 The most widely spoken native African languages after Arabic are included: Swahili, Hausa and Fula.
 The other major languages of Middle East besides Arabic are included: Turkish and Persian.
 
@@ -212,10 +212,10 @@ The place of the stress is decided by two simple rules.
 In the examples that follow, primary accent is indicated by an acute accent (*á*) and secondary accent by a grave accent (*à*) over the first vowel of a stressed syllable.
 
 1. Root words are stressed on the syllable that is before the last consonant of the word.  
-   **hálo! mí vóli lóge un háo dúnia báshe.**  
+   **hálo! mí vóli lóge un háo dúnia bása.**  
    (_Hello! I want to speak a good world language._)
 2. Derived and compound words are stressed according to their components so that the primary stress is in the main word.  
-   **pandúnia es dèmokrátik báshe.**  
+   **pandúnia es dèmokrátik bása.**  
    (_Pandunia is a democratic language._)
 
 Regular stress is easier to learn and more comfortable to use

@@ -61,7 +61,7 @@ One sound = one letter or a pair of letters.
 
 The stress is on that syllable that is before the last consonant of the root word.
 Prefixes and suffixes are either unstressed or they may carry a secondary stress.  
-**múlti hóm póte báshe pandúnia.**
+**múlti hóm póte bása pandúnia.**
 – Many people can speak Pandunia.
 
 Words stay always the same in Pandunia.

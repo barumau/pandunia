@@ -10,7 +10,7 @@ That's why it can be typed, printed and used with most computers and smart devic
 There are 24 letters in the **Pandunia alphabet**:  
 `A B C D E F G H I J K L M N O P R S T U V X Y Z`
 
-Other letters, like `W` and `Y`, are foreign to Pandunia.
+Other letters, like `Q` and `W`, are foreign to Pandunia.
 They can be present only in names and culture-specific words, which are not part of the normal Pandunia vocabulary.
 
 Written Pandunia follows the **one letter = one sound** principle. 

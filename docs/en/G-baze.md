@@ -24,10 +24,10 @@ They are described in more detail later in this document.
 3.  **Regular stress accent**
 
     Root words are stressed on the syllable that is before the last consonant of the word, f.ex.
-    *háo* ('nice'), *dúnia* ('world'), *báshe* ('language'), *amén* ('amen').
+    *háo* ('nice'), *dúnia* ('world'), *bása* ('language'), *amén* ('amen').
     Derived words and compound words are stressed according to their components so that the main component carries the primary stress
     and other components may carry secondary stress, f.ex.
-    *trabáshe* ('translate'), *dúnialìsme* ('globalism'), *bàshe skóle* ('language school').
+    *trabása* ('translate'), *dúnialìsme* ('globalism'), *bàsa-skóle* ('language school').
     Primary accent is indicated here by an acute accent (*á*) and secondary accent by a grave accent (*à*).
 
 4.  **Word classes**
