@@ -28,7 +28,7 @@ hide:
 - [フレーズ集](K-fraze.md)
 - [つづり](G-ABC.md) と [文法](G-baze.md)
 
-- [検索可能な辞書](../lexia/index.html?d=jpn)
+- [検索可能な辞書](./lexia/index.html?d=jpn)
 <!-- - [日本語→パンドゥニア](jpn-pandunia.md) 辞書 -->
 - [パンドゥニア→日本語](pandunia-jpn.md) 辞書
 - [単語の語源一覧](lexaslia.md) ([ISO 639-2コード一覧](https://ja.wikipedia.org/wiki/ISO_639-2コード一覧))
