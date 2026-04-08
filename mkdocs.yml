@@ -31,7 +31,7 @@ nav:
   - Grammar:
     - 'The 12 rules': G-baze.md
     - 'World Words': L-lexe.md
-    - 'Spelling and pronunciation': G-ABC.md
+    - 'Letters and sounds': G-ABC.md
     - 'Regular Accent': 103_aksente.md
     - 'Word classes': G-PoS.md
     - Pronouns: G-PRO.md
@@ -89,7 +89,7 @@ plugins:
             Grammar: Gramatiko
             "The 12 rules": "12 reguloj"
             "World Words": "Mondaj vortoj"
-            "Spelling and pronunciation": "Literumo kaj prononco"
+            "Letters and sounds": "Literumo kaj prononco"
             "Regular Accent": "Regula akcento"
             Nouns : Substantivoj
             Numerals: Numeraloj
@@ -119,7 +119,7 @@ plugins:
             Grammar: Gramática
             "The 12 rules": "12 reglas"
             "World Words": "Palabras del mundo"
-            "Spelling and pronunciation": "Ortografía y pronunciación"
+            "Letters and sounds": "Ortografía y pronunciación"
             "Regular Accent": "Acento regular"
             Nouns : Sustantivos
             Numerals: Numerales
@@ -148,7 +148,7 @@ plugins:
             Grammar: Grammaire
             "The 12 rules": "12 règles"
             "World Words": "Mots du monde"
-            "Spelling and pronunciation": "Orthographe et prononciation"
+            "Letters and sounds": "Orthographe et prononciation"
             "Regular Accent": "Accent régulier"
             Nouns : Noms
             Numerals: Numéraux
@@ -177,7 +177,7 @@ plugins:
             Grammar: Tatabahasa
             "The 12 rules": "12 peraturan"
             "World Words": "Kata dunia"
-            "Spelling and pronunciation": "Ejaan dan sebutan"
+            "Letters and sounds": "Ejaan dan sebutan"
             "Regular Accent": "Aksen tetap"
             Nouns : Kata nama
             Numerals: Kata bilangan
@@ -206,7 +206,7 @@ plugins:
             Grammar: Grammatica
             "The 12 rules": "12 regole"
             "World Words": "Parole del mondo"
-            "Spelling and pronunciation": "Ortografia e pronuncia"
+            "Letters and sounds": "Ortografia e pronuncia"
             "Regular Accent": "Accento regolare"
             Nouns : Sostantivi
             Numerals: Numerali
@@ -235,7 +235,7 @@ plugins:
             Grammar: Gramatyka
             "The 12 rules": "12 zasad"
             "World Words": "Słowa świata"
-            "Spelling and pronunciation": "Pisownia i wymowa"
+            "Letters and sounds": "Pisownia i wymowa"
             "Regular Accent": "Regularny akcent"
             Nouns : Rzeczowniki
             Numerals: Liczebniki
@@ -264,7 +264,7 @@ plugins:
             Grammar: Gramática
             "The 12 rules": "12 regras"
             "World Words": "Palavras do mundo"
-            "Spelling and pronunciation": "Ortografia e pronúncia"
+            "Letters and sounds": "Ortografia e pronúncia"
             "Regular Accent": "Acento regular"
             Nouns : Substantivos
             Numerals: Numerais
@@ -293,7 +293,7 @@ plugins:
             Grammar: Kielioppi
             "The 12 rules": "12 sääntöä"
             "World Words": "Maailman sanat"
-            "Spelling and pronunciation": "Äänne- ja kirjoitusasu"
+            "Letters and sounds": "Äänne- ja kirjoitusasu"
             "Regular Accent": "Painotus"
             Nouns : Nimisant
             Numerals: Lukusanat
@@ -315,14 +315,14 @@ plugins:
         - locale: ru
           name: Русский
           build: true
-          site_name: "Язык Пангло"
+          site_name: "Язык Пандуния"
           site_description: "Международный вспомогательный язык глобального происхождения"
           nav_translations:
             Introduction: Введение
             Grammar: Грамматика
             "The 12 rules": "12 правил"
             "World Words": "Мировые слова"
-            "Spelling and pronunciation": "Правописание и произношение"
+            "Letters and sounds": "Правописание и произношение"
             "Regular Accent": "Регулярное ударение"
             Nouns : Существительные
             Numerals: Числительные
@@ -337,8 +337,8 @@ plugins:
             Course: Курс
             Phrases: Фразы
             Vocabulary: Словарь
-            "English–Pandunia": "русский–пангло"
-            "Pandunia–English": "пангло–русский"
+            "English–Pandunia": "русский–пандуния"
+            "Pandunia–English": "пандуния–русский"
             "About": О языке
             "The idea": Идея
         - locale: th
@@ -351,7 +351,7 @@ plugins:
             Grammar: ไวยากรณ์
             "The 12 rules": "12 กฎ"
             "World Words": "คำจากทั่วโลก"
-            "Spelling and pronunciation": "การสะกดคำและการออกเสียง"
+            "Letters and sounds": "การสะกดคำและการออกเสียง"
             "Regular Accent": "การเน้นเสียงปกติ"
             Nouns : คำนาม
             Numerals: ตัวเลข
@@ -380,7 +380,7 @@ plugins:
             Grammar: 文法
             "The 12 rules": "12のルール"
             "World Words": "世界の言葉"
-            "Spelling and pronunciation": "つづりと発音"
+            "Letters and sounds": "つづりと発音"
             "Regular Accent": "規則的なアクセント"
             Nouns : 名詞
             Numerals: 数詞
@@ -409,7 +409,7 @@ plugins:
             Grammar: 语法
             "The 12 rules": "12条规则"
             "World Words": "世界词汇"
-            "Spelling and pronunciation": "拼写与发音"
+            "Letters and sounds": "拼写与发音"
             "Regular Accent": "规则重音"
             Nouns : 名词
             Numerals: 数词
@@ -438,7 +438,7 @@ plugins:
             Grammar: القواعد
             "The 12 rules": "القواعد الاثني عشر"
             "World Words": "كلمات العالم"
-            "Spelling and pronunciation": "التهجئة والنطق"
+            "Letters and sounds": "التهجئة والنطق"
             "Regular Accent": "اللكنة المنتظمة"
             Nouns : الأسماء
             Numerals: الأعداد
@@ -467,7 +467,7 @@ plugins:
             Grammar: دستور زبان
             "The 12 rules": "۱۲ قاعده"
             "World Words": "واژه‌های جهانی"
-            "Spelling and pronunciation": "املا و تلفظ"
+            "Letters and sounds": "املا و تلفظ"
             "Regular Accent": "لهجه منظم"
             Nouns : اسامی
             Numerals: اعداد

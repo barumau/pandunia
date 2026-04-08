@@ -10,6 +10,23 @@ kopi_lexeliste_do_altre_nim() {
     tail -n +6 "$x_pandunia" > ./docs/$2/do_pandunia.md
 }
 
+kopi_data_do_lexia() {
+    cp ../panlexia/generated/arb-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/cmn-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/deu-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/eng-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/epo-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/fas-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/fin-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/fra-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/jpn-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/por-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/pol-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/rus-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/spa-pandunia.csv ./html/lexia/data
+    cp ../panlexia/generated/tha-pandunia.csv ./html/lexia/data
+}
+
 # Generate bilingual dictionaries from Panlexia.
 cd ~/panlexia
 rm ./generated/*
@@ -38,3 +55,7 @@ sh bin/kitab_PDF.sh
 
 # Build the website with MkDocs
 mkdocs build
+
+# Copy data files for searchable dictionary and copy the lexicon to the pandunia folder.
+kopi_data_do_lexia
+cp -r ./html/lexia ../html/pandunia
