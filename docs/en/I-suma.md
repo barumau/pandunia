@@ -1,24 +1,52 @@
 
-# The basics of Pandunia
+# Introduction to Pandunia
 
-Pandunia is a constructed language that has a minimalistic grammar and a globalistic vocabulary.
+**Pandunia** is a language that is built to be simple, consistent and usable for international communications.
+It has many positive qualities:
+
+1.  It is easy to speak compared to other international languages regardless of one's native language.
+2.  It has regular spelling.
+3.  It has completely regular grammar that is free of inflections (grammatical changes in word forms).
+4.  It has well-defined rules for word order.
+5.  Its vocabulary is international, multicultural and globally sourced.
+    Its words are shared by many important and wide-spread languages around the world,
+    including English, French, Spanish, German, Russian, Arabic, Swahili, Turkish, Persian, Hindi, Bengali, Tamil, Malay, Chinese, Japanese and many more!
+6.  It has a limited and completely regular set of affixes for productive word derivation.
+7.  It provides resources for naturally building international scientific and technological terms.
 
 ## Pronunciation
 
 Pandunia uses a systematic spelling where
-each letter represents one spoken sound.
+each letter stands for one spoken sound.
 
-> A B C D E F G H I J K L M N O P R S T U V X Y Z
+| Letter | Pronunciation                  | Phonetic symbol |
+|:------:|:-------------------------------|:---------------:|
+| A a    | *a* as in *ah*                 |      [a]        |
+| B b    | *b* as in *beeb*               |      [b]        |
+| C c    | *ch* as in *chip*              |      [tʃ]       |
+| D d    | *d* as in *dad*                |      [d]        |
+| E e    | *a* as in *ah*                 |      [e̞]        |
+| F f    | *a* as in *ah*                 |      [f]        |
+| G g    | *a* as in *ah*                 |      [g]        |
+| H h    | *a* as in *ah*                 |      [h]        |
+| I i    | *a* as in *ah*                 |      [i]        |
+| J j    | *j* as in *jet*                |      [dʒ]       |
+| K k    | *a* as in *ah*                 |      [k]        |
+| L l    | *a* as in *ah*                 |      [l]        |
+| M m    | *a* as in *ah*                 |      [m]        |
+| N n    | *a* as in *ah*                 |      [n]        |
+| O o    | *a* as in *ah*                 |      [o̞]        |
+| P p    | *a* as in *ah*                 |      [p]        |
+| R r    | *a* as in *ah*                 |      [r]        |
+| S s    | *a* as in *ah*                 |      [s]        |
+| T t    | *a* as in *ah*                 |      [t]        |
+| U u    | *a* as in *ah*                 |      [u]        |
+| V v    | *a* as in *ah*                 |      [w]        |
+| Y y    | *y* as in *yes*                |      [j]        |
+| Z z    | *z* as in *zoo*                |      [z]        |
 
-The vowels **a, e, i, o, u** are pronounced as in "are there three or two".
 
-Consonants are pronounced in Pandunia as they are in English, with the following exceptions:
 
--   *c* is pronounced like *ch* in *church* but also like *c* in *center*.
--   *g* is always hard like in *get*.
--   *j* sounds like the English *j* in *jet*.
--   *v* sounds like *w* in *wet*.
--   *x* sounds like *x* in *box* or like *s* in *set*.
 
 ### What syllable to stress
 
@@ -29,6 +57,54 @@ Prefixes and suffixes are usually unstressed.
 
 
 ### Never changing words
+
+Understanding of Pandunia is based on understanding of words.
+
+The grammar of Pandunia is fully transparent.
+Every word is meaningful and represents an idea or object in the real world.
+There are no empty words that would have only formal or grammatical function as in other languages.
+(For example, the English verb forms *speak*, *spoke*, *spoken*, and *speaking* refer to the same action
+in the real world but their grammatical use is different.)
+
+The grammatical structure of Pandunia is not based on empty grammatical markers,
+but rather it is based on word order and word classes (or "parts of speech").
+Each Pandunia word belongs to a default word class that represents its natural meaning. For example,
+*baca*
+'child' and
+*kursi*
+'chair' are nouns (thing words),
+*hao*
+'good' and
+*jun*
+'young' are adjectives (quality words), and
+*vide*
+'to see' and
+*marce*
+'to walk' are verbs (action words).
+
+The key to understanding the structure of clauses in Pandunia is to identify the verbs in the clause.
+Usually it is easy even in the beginning, because typically there is a subject pronoun before the verb.
+
+       mi      vide     mau.
+       me      see      cat    ⇒ 'I see a cat.'
+       ↑        ↑        ↑
+    pronoun    verb    noun
+
+The most common verbs pop up in text again and again, so one learns to identify them quickly.
+When one can identify the verb, it is easy to understand the structure of also those phrases that don't include any pronouns
+thanks to the fixed word order patterns of Pandunia.
+
+     baca      vide     lit        mau.
+     child     see      little     cat    ⇒ 'The child sees a little cat.'
+      ↑         ↑        ↑          ↑
+    noun      verb    adjective    noun
+
+The word order pattern in the sentence above is subject–verb–object.
+The first noun (*baca*) is the subject, then there is the verb (*vide*), which forms the core of the phrase,
+and it is followed by the object, which is a noun phrase that consists of two words (*lit mau*).
+
+But what words, phrases and word order patterns are, actually?
+
 
 Words don't ever inflect or change in Pandunia
 – not even when they change their word class!

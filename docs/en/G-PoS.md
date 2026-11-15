@@ -1,7 +1,82 @@
 
-# Word types in Pandunia
+# Word classes in Pandunia
 
 ## Introduction
+
+The grammar of Pandunia is fully transparent.
+Every word is meaningful and represents an idea or object in the real world.
+There are no empty words that would have only formal or grammatical function as in other languages.
+(For example, the English verb forms *speak*, *spoke*, *spoken*, and *speaking* refer to the same action
+in the real world but their grammatical use is different.)
+
+The grammatical structure of Pandunia is not based on empty grammatical markers,
+but rather it is based on word order and word classes (or "parts of speech").
+Each Pandunia word belongs to a default word class that represents its natural meaning. For example,
+*baca*
+'child' and
+*kursi*
+'chair' are nouns (thing words),
+*hao*
+'good' and
+*jun*
+'young' are adjectives (quality words), and
+*vide*
+'to see' and
+*marce*
+'to walk' are verbs (action words).
+
+The key to understanding the structure of clauses in Pandunia is to identify the verbs in the clause.
+Usually it is easy even in the beginning, because typically there is a subject pronoun before the verb.
+
+       mi      vide     mau.
+       me      see      cat    ⇒ 'I see a cat.'
+       ↑        ↑        ↑
+    pronoun    verb    noun
+
+The most common verbs pop up in text again and again, so one learns to identify them quickly.
+When one can identify the verb, it is easy to understand the structure of also those phrases that don't include any pronouns
+thanks to the fixed word order patterns of Pandunia.
+
+     baca      vide     lit        mau.
+     child     see      little     cat    ⇒ 'The child sees a little cat.'
+      ↑         ↑        ↑          ↑
+    noun      verb    adjective    noun
+
+The word order pattern in the sentence above is subject–verb–object.
+The first noun (*baca*) is the subject, then there is the verb (*vide*), which forms the core of the phrase,
+and it is followed by the object, which is a noun phrase that consists of two words (*lit mau*).
+
+But what words, phrases and word order patterns are, actually?
+
+
+## Hierarchy of grammatical units
+
+Everybody knows at least two essential units of grammar: words and sentences.
+In written texts, words are separated by spaces
+and sentences end with a full stop.
+However, there are also other grammatical units besides words and sentences that are useful to know.
+
+Grammar involves a hierarchy of grammatical units,
+which are listed below from the simplest to the most complex.
+
+1. **Morpheme** is the **smallest part of language** with a meaning or function.
+2. **Words** are made up of **one or more morphemes**, f.ex. *un-happi-ness*.
+3. **Phrases** are made up of **one or more words**, f.ex. *[a very happy person]*.
+4. **Clauses** are made up of **one or more phrases** in a regular word order pattern, f.ex. *[(all people) (can see) (a very happy person)]*.
+5. **Sentences** are made up of **one or more clauses**, f.ex. *[(You sleep) and (I keep guard)]*.
+
+Sentences in Pandunia can be decoded by stepping through the hierarchy:
+
+1.  Match the **word** into a word class based on the **morphemes** that it contains.
+    For example, the only morpheme in the monomorphemic word *hao* ('good')
+    and the last morpheme in the multimorphemic word *dem-o-krat-ik* ('democratic') signal that they are adjectives.
+2.  Arrange words that logically belong together into phrases.
+    (Remember that a phrase can consist of only one word!)
+3.  Match the phrases into a suitable word order pattern, like SVO or SOV.
+4.  Understand how the clauses are joined together to form the sentence.
+
+
+## Unchanging words
 
 One of the first things that people notice about Pandunia is that its words don't ever change.
 All words in Pandunia have one unchanging form,
@@ -39,29 +114,17 @@ This type of grammar is particularly friendly for beginners,
 because all they have to do is to find the right words and to put them in the right order.
 It is convenient also for advanced users who can enjoy the clarity of expression.
 
-## Basic grammatical units
-
-Everybody knows at least two essential units of grammar: words and sentences.
-In written texts, words are separated by spaces
-and sentences end with a full stop.
-However, there are also other grammatical units besides words and sentences.
-
-Grammar involves a hierarchy of grammatical units,
-which are listed below from the simplest to the most complex.
-
-1. **Morpheme** is the **smallest part of language** with a meaning or function.
-2. **Words** are made up of **one or more morphemes**, f.ex. *un-happi-ness*.
-3. **Phrases** are made up of **one or more words**, f.ex. *[a very happy person]*.
-4. **Clauses** are made up of **one or more phrases**, f.ex. *[(all people) (can see) (a very happy person)]*.
-5. **Sentences** are made up of **one or more clauses**, f.ex. *[(You sleep) and (I keep guard)]*.
-
-Morphemes don't have any grammatical function in Pandunia.
-Their only job is to help to build the vocabulary of Pandunia.
-So the simplest grammatical unit that one usually thinks of in Pandunia is the word.
-
 ## Content words and structure words
 
-A word class is a group of words that share similar roles, meanings and word derivation capabilities.
+There are top-level word classes: structure words and content words.
+The structure words are further divided into closed word classes, like pronouns and conjunctions,
+which contain a small and fixed number of words that are easy to learn by heart.
+The content words are divided into open word classes, like verbs and nominals,
+which contain large and ever growing number of words.
+However, as in other languages, the set of the most commonly used content words is quite stable.
+
+
+A word class is a group of words that share similar roles, meanings and word building capabilities.
 In Pandunia, word classes belong to two superclasses: content words and structure words.
 Content words are the words that name things in the real world, like *human*, *house*, and *walking*.
 The job of structure words is to bind content words into meaningful phrases.

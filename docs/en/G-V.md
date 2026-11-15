@@ -9,97 +9,148 @@ not by changing the form of verbs as in English and other languages.
 
 Person and number are indicated by the subject.
 For example, the verb
-**es**
+*es*
 ('to be') has the same form in all persons.
 
-**mi es doste.**
+*mi es doste.*
 – I am a friend.  
-**tu es doste.**
+*tu es doste.*
 – You are a friend.  
-**ho es doste.**
+*ho es doste.*
 – He/she is a friend.  
-**mimen es doste.**
+*mimen es doste.*
 – We are friends.  
-**tumen es doste.**
+*tumen es doste.*
 – You are friends.  
-**homen es doste.**
+*homen es doste.*
 – They are friends.
 
 Also a noun can serve as subject.
 
-**mau es hevan.**
+*mau es hevan.*
 – The cat is an animal.
 
 
 ## Voice, time and mood
 
-Verb tenses, moods and voices are expressed with auxiliary verbs,
-which come first in the verb phrase.
-The order of the auxiliaries is tense, mood and aspect.
-The tense marker is first, the mood marker is next, and the aspect marker is last.
+Verb aspects, moods and voices are expressed with auxiliary verbs,
+and they come first in the verb phrase.
+The order of the auxiliaries is voice, aspect, and mood.
 
-### Tense
+### Time
 
-Tense is a property that expresses time reference.
-The main tenses are the past, present, and future.
-The marker
-**le**
-indicates the past tense,
-**nun**
-indicates the present tense, and
-**fu**
-indicates the future tense.
-More specific time references are expressed with various time expressions, like *yesterday*, *tomorrow* or *one hour ago*.
+Tense and aspect are grammatical systems that place and describe actions in the flow of time.
+Tense roughly means reference to the time at which events take place, like past, present and future.
+Aspect expresses how an action or event extends over time, like is it completed, ongoing or prospective (yet to begin).
 
-*man* ***le*** *yam ban.*
-– The man *ate* (or *did eat*) bread.  
-*man* ***nun*** *yam ban.*
-– The man *eats* bread (now).  
-*man* ***fu*** *yam ban.*
-– The man *will eat* bread.
+Pandunia marks verbs for aspect and not for tense.
+Therefore a question like "how do you form the past tense in Pandunia?" is nonsensical.
+The real question is: "how do you refer to events in the past in Pandunia?"
+You do it by various time expressions, like *last year*, *yesterday* or *one hour ago*,
+or you do it through aspect.
 
-It is also possible to express the future in the past
-with a combination of two tense markers.
+In Pandunia, aspect is a lexical feature.
+Rather than conjugating its verbs for aspect,
+Pandunia uses particles to indicate how a verb works within a particular timeframe or how the verb relates to the flow of time.
+The particles most often used to indicate aspect in Pandunia are:
 
-**man** ***le fu*** **yam ban.**
-– The man *was going to* eat bread.
+-   *sta*:
+    the progressive aspect that indicates ongoing events
+-   *ha*:
+    the perfective aspect that indicates completed events
+-   *ja*:
+    the resultative aspect that focuses on the resulting state of a completed event
+-   *va*:
+    the progressive aspect that indicates plans and expectations
 
+They can be used in any time context, past, present or future.
 
-### Aspect
-
-Aspect expresses how an action or event extends over time.
-There are two aspect markers in Pandunia,
-**sta** and **ha**.
+#### Progressive (ongoing) aspect
 
 The marker
-**sta**
-indicates that the action or event is *on-going* or *in progress*
+*sta*
+indicates that the action or event is ongoing or in progress
 at the time, which the speaker is talking about.
-The time can be indicated with a tense marker.
 
-**man** ***sta*** **yam ban.**
+*nam* ***sta*** *yam ban.*
 – The man *is*, *was* or *will be* eating bread.  
-**man** ***le sta*** **yam ban.**
+*nam* ***le sta*** *yam ban.*
 – The man was eating bread.  
-**man** ***nun sta*** **yam ban.**
+*nam* ***nun sta*** *yam ban.*
 – The man is eating bread.  
-**man** ***fu sta*** **yam ban.**
+*nam* ***fu sta*** *yam ban.*
 – The man will be eating bread.
 
-The marker
-**ha**
-indicates that the action or event is completed
-and its results still has an effect at the time, which the speaker is talking about.
-The time can be indicated with a tense markers.
+#### Perfective (completed) aspect
 
-**man** ***ha*** **yam ban.**
-– The man *had*, *has* or *will have* eaten bread.  
-**man** ***le ha*** **yam ban.**
+The marker
+*ha*
+indicates that the action or event is completed.
+Its results may or may not have an effect at the time, which the speaker is talking about.
+
+*nam* ***ha*** *yam ban.*
+– The man *ate* or *has eaten* bread.  
+*nam* ***le ha*** *yam ban.*
 – The man had eaten bread.  
-**man** ***nun ha*** **yam ban.**
+*nam* ***nun ha*** *yam ban.*
 – The man has eaten bread.  
-**man** ***fu ha*** **yam ban.**
+*nam* ***fu ha*** *yam ban.*
 – The man will have eaten bread.
+
+#### Prospective aspect
+
+The marker
+*va*
+indicates that the action or even is yet to begin.
+The prospective aspect is used to convey intentions, plans, or expectations of carrying out a future action.
+
+*mi va vide un nova filme.*
+– I am going to see a new movie.
+
+
+#### Resultative aspect
+
+The marker
+*ja*
+indicates that the action or event has reached its intended goal or endpoint,
+and it has left an impact on the state of affairs at the time, which the speaker is talking about.
+
+*mi ja vene.*
+– I have arrived.  
+*mi ja yam.*
+– I have (already) eaten.
+
+<!--
+The perfect aspect denotes a process completed with a resultative value: it has an impact on the state of affairs at the time referred to by the illocution.
+A past action occurs, resulting in a state that still holds at the present moment.
+It focuses on the resulting state of a completed event.
+-->
+
+The resultative aspect can be combined with other aspects.
+
+To talk about present situations,
+*ja*
+acts as "already", indicating that the action has reached its intended goal or endpoint.
+
+The resultative perfective aspect is similar in meaning to the present perfect tense in English.
+
+*mi ja ha vizite London.*
+– I have (already) been to London.  
+*mi ja ha yam aple.*
+– I have eaten an apple. (And I am still full.)
+
+The perfective resultative aspect is similar to the experiential aspect in some languages.
+It signifies that a situation has been experienced at least once at an unspecified time in the past, and as a result we have an experience of it.
+
+*mi ha ja vizite London.*
+– I have been to London (sometime before in my life).  
+
+When used in questions or to talk about experience,
+*ja*
+acts as "ever," referring to a previous, completed time.
+
+*tu ja ha vizite London ne?*
+– Have you **ever** been to London?
 
 
 ### Mood
@@ -107,48 +158,48 @@ The time can be indicated with a tense markers.
 The conditional mood is used for anything that could take place.
 It indicates that the realization of an action or event depends on another condition.
 The conditional mood is expressed with the auxiliary verb
-**vud**
+*vud*
 ('would').
 This marker is used in both main and subordinate clauses.
 
-**mi** ***vud*** **voli yam.**
+*mi* ***vud*** *voli yam.*
 – I *would* like to eat.  
-**mi** ***vud*** **go do Dubai.**
+*mi* ***vud*** *go do Dubai.*
 – I *would* go to Dubai.  
-**mi** ***vud*** **go, if tu vud las mi.**
+*mi* ***vud*** *go, if tu vud las mi.*
 – I *would* go if you would let me.  
-**tu ne** ***vud*** **es suka, if mi** ***vud*** **go.**
+*tu ne* ***vud*** *es suka, if mi* ***vud*** *go.*
 – You would not be happy, if I would go.
 
 The auxiliary verb
-**debe**
+*debi*
 ('should, ought') indicates some kind of expectation like duty, obligation, requirement, desire, advisability or likelihood.
 
-**ma voka mimen. mimen debe go.**
+*ma voka mimen. mimen debi go.*
 – Mother called us. We should go.  
-**ho debe ha kom pre nun.**
+*ho debi ha kom pre nun.*
 – He should have come by now.  
-**evri von debe vote.**
+*evri von debi vota.*
 – Everyone should vote.
 
 The imperative mood is used to form a command or request.
 In Pandunia, the imperative is created with the auxiliary verb
-**shal**.
+*shal*.
 It can be used to give commands to any person, not just "you".
 
-**mimen shal go!**
+*mimen shal go!*
 – Let us go! ~ Let's go!  
-**homen shal kurse!**
+*homen shal kurse!*
 – Let them run!
 
-**shal**
+*shal*
 can be used to give commands also to the second person,
 but it is common to drop both the personal pronoun and the auxiliary verb
 in order to give the command more force.
 
-**tu shal kom!** = **kom!**
+*tu shal kom!* = *kom!*
 – Come!  
-**tumen shal kom!** = **kom!**
+*tumen shal kom!* = *kom!*
 – Come (you all)!
 
 ### Passive clause
@@ -157,29 +208,29 @@ The passive clause expresses that the subject undergoes the action or has its st
 In other words, the subject has a passive role.
 This contrasts with the active clause where the subject is the agent or the doer of the action.
 In Pandunia, the passive clause is constructed with the help of the auxiliary verb
-**sta**.
+*bi*.
 
 Active:
-**homen yam piza.**
+*homen yam piza.*
 – They eat pizza.  
 Passive:
-**piza bi yam.**
+*piza bi yam.*
 – Pizza is eaten.
 
 The agent of the action can be expressed also in passive clauses by using the preposition
-**da**.
+*da*.
 
-**mi su gar le bi bate da tren.**
+*mi su gar le bi bate da tren.*
 – My car was hit by a train.
 
 The equivalent of passive (past) participle is built by using the prefix
-**bi**-
+*bi*-
 and the suffix
--**(t)ik**.
+-*(t)ik*.
 
-**biyamik piza**
+*biyamik piza*
 – eaten pizza (pizza that was or is eaten)  
-**bilogutik lexe**
+*bilogutik lexe*
 – spoken word (word that was or is spoken)
 
 
@@ -283,7 +334,7 @@ and the suffix
 </table>
 
 Note!
-In the above table, **ho** is translated only 'he' instead of the usual 'he or she' in order to save space.
+In the above table, *ho* is translated only 'he' instead of the usual 'he or she' in order to save space.
 
 #### Passive
 
@@ -396,13 +447,13 @@ i.e. they may or may not require an object depending on the sentence structure.
 When there is an object, the verb is transtive,
 and when there isn't an object, the verb is intransitive.
 
-**mi bule sui.**
+*mi bule sui.*
 – I boil water. (transitive sentence)  
-**sui bule.**
+*sui bule.*
 – Water boils. (intransitive sentence)  
-**baker bake ban.**
+*baker bake ban.*
 – The baker bakes bread. (transitive sentence)  
-**ban bake in tanur.**
+*ban bake in tanur.*
 – Bread bakes in the oven. (intransitive sentence)
 
 
@@ -415,20 +466,20 @@ the first verb (an auxiliary verb) is something that the subject possesses
 and the second verb is something that the subject does (when there is an object in the end)
 or experiences (when there is no object).
 
-**mi pote kitab el javab.**  
+*mi pote kitab el javab.*  
 ≈ *I have the ability to write the answer.*  
 – I can write the answer.  
-**mi halal kitab el javab.**  
+*mi halal kitab el javab.*  
 ≈ *I have the permission to write the answer.*  
 – I may write the answer.  
-**mi mus kitab el javab.**  
+*mi mus kitab el javab.*  
 ≈ *I have the compulsion to write the answer.*  
 – I must write the answer.
 
 Note that the same auxiliary verbs can be used alone as transitive verbs in the pivot construction.
 
-**guru halal mi kitab el javab.**
+*guru halal mi kitab el javab.*
 – The teacher permits me to write the answer.  
-**guru mus mi kitab el javab.**
+*guru mus mi kitab el javab.*
 – The teacher compels me to write the answer.
 

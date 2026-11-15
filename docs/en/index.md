@@ -15,6 +15,11 @@ an interesting constructed language.
 ![](http://www.pandunia.info/grafe/halo_dunia.png "sal dunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
+## New version is in the making!
+
+Contents of this website are currently changing,
+because a new version of Pandunia is in the making.
+
 ## What is Pandunia?
 
 Pandunia is a **multicultural constructed language** that is spoken by a small number of people currently.
@@ -39,7 +44,7 @@ only to mention a few.
 Pandunia is regular and simple.
 Therefore it can be learned much easier and faster than English and other national languages.
 There aren't any grammatical exceptions or complex rules in Pandunia.
-Pandunia is so simple that its basic grammar can be described in [only ten rules](G-baze.md).
+Pandunia is so simple that its basic grammar can be described in [only twelve rules](G-baze.md).
 Everybody can learn Pandunia to a good level in a short period of time!
 Pandunia would be an excellent choice for the global second language
 because it could improve the quality of international communication.

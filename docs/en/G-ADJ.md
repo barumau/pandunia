@@ -19,6 +19,59 @@ B. **tu _mei_ li kitab.**
 – You write _beautifully_.
 
 
+## True adjectives
+
+True adjectives form a closed class of words in Pandunia.
+True adjectives are words that describe qualities by default,
+and they are not derived from other words, like nouns or verbs.
+There is 26 true adjectives in Pandunia.
+Many of them are divided regularly into pairs of opposites:
+
+*hao / dus*
+– good / bad  
+*dai / let*
+– big / small  
+*long / korte*
+– long / short  
+high ~ tall / low ~ short  
+*lao / xin*
+– old, former / new, fresh  
+*sen / jun*
+– old ~ aged / young  
+– warm ~ hot / cold  
+– strong / weak  
+– fast / slow  
+– sharp / dull  
+– thick / thin  
+– deep / shallow  
+– wide / narrow  
+*X / Y*
+– bright / dark
+
+Colors:
+white, black, red, green, blue, yellow, brown, purple
+
+## Derived adjectives
+
+Derived adjectives are formed when adjective-forming affixes are added to nouns or verbs.
+The number of derived adjectives is unlimited.
+They can be identified from their endings.
+
+-   *-ik*: likeness, that which is like or made of
+-   *-al*: relation, that which has or is related to
+-   *-im*: rank or position, that which has the rank of
+-   *-en*: active participant, doing
+-   *-et*: passive participant, done
+-   *-iv*: active capability, fit for doing, tending to do
+-   *-bil*: passive capability, fit for being done
+
+*nurik* 'light, luminous'
+*lumik* ~ *luminos* 'shiny'
+*solik* 'sunny'
+*yeprangik* 'green'
+
+
+
 ## Modifying nouns
 
 In Pandunia, adjectives are modifiers that are placed before the noun that they modify.
