@@ -30,30 +30,32 @@ kopi_data_do_lexia() {
 }
 
 krea_lexaslik_lista() {
+    pandunia_kamus="../panlexia/dict/P/pandunia.tsv"
+    lexaslia="docs/$1/lexaslia.md"
     #pandunia = $3 e lexasle = $5
-    cat ../panlexia/dict/P/pandunia.tsv | awk -F '\t' "{print \"**\" \$3 \"** ≈ \" \$5  \"\"}" > $1/lexaslia.md
-    dos2unix $1/lexaslia.md
+    cat $pandunia_kamus | awk -F '\t' "{print \"**\" \$3 \"** ≈ \" \$5  \"\"}" > $lexaslia
+    dos2unix $lexaslia
     #mata 1:me line
-    sed -i '1d' $1/lexaslia.md
+    sed -i '1d' $lexaslia
     #Sort
-    LC_ALL=C sort -f $1/lexaslia.md --output $1/lexaslia.md
+    LC_ALL=C sort -f $lexaslia --output $lexaslia
     #Delete empty translations
-    sed -i '/≈ $/d' $1/lexaslia.md
+    sed -i '/≈ $/d' $lexaslia
     #repare 2:me line
-    #sed 's/|\*\*--/|--/' -i $2/lexaslia.md
-    #sed 's/--\*\*|/--|/' -i $2/lexaslia.md
-    #awk 'BEGIN {OFS=""} {if ($0 ~ /\*\*/) print $0,"  ";else print $0}' $1/lexaslia.md
-    #sed 's/\^\*\*\S*$/&_  /g' -i $1/lexaslia.md
+    #sed 's/|\*\*--/|--/' -i docs/$2/lexaslia.md
+    #sed 's/--\*\*|/--|/' -i docs/$2/lexaslia.md
+    #awk 'BEGIN {OFS=""} {if ($0 ~ /\*\*/) print $0,"  ";else print $0}' docs/$1/lexaslia.md
+    #sed 's/\^\*\*\S*$/&_  /g' -i docs/$1/lexaslia.md
     #Add Markdown style line break (two spaces) to every line.
-    sed "s/$/  /" -i $1/lexaslia.md
+    sed "s/$/  /" -i $lexaslia
     #Add header
-    sed -i "1s/^/# lexaslia\n\n/" $1/lexaslia.md
+    sed -i "1s/^/# lexaslia\n\n/" $lexaslia
 }
 
 krea_lexe_lista() {
     echo krea lexeliste pa $1
-    kopi_lexe_lista $1
-    krea_lexaslik_lista $1
+    #kopi_lexe_lista $1
+    krea_lexaslik_lista $2
 }
 
 fata_lexi_asal() {
@@ -67,8 +69,8 @@ fata_lexi_asal() {
     sed -i '/||/d' pandunia/lexaslia.md
 }
 
-trabashe_lexaslia_do_engle() {
-    cd eng
+trabasa_lexaslia_do_engle() {
+    cd docs/en
     sed 's/amh:/Amharic:/' -i lexaslia.md
     sed 's/ara:/Arabic:/' -i lexaslia.md
     sed 's/ben:/Bengali:/' -i lexaslia.md
@@ -118,11 +120,11 @@ trabashe_lexaslia_do_engle() {
     sed 's/yue:/Cantonese:/' -i lexaslia.md
     sed 's/zho:/Mandarin:/' -i lexaslia.md
     sed 's/zul:/Zulu:/' -i lexaslia.md
-    cd ..
+    cd ../..
 }
 
-trabashe_lexaslia_do_suome() {
-    cd fin
+trabasa_lexaslia_do_suome() {
+    cd docs/fi
     sed 's/amh:/amhara:/' -i lexaslia.md
     sed 's/ara:/arabia:/' -i lexaslia.md
     sed 's/ben:/bangla:/' -i lexaslia.md
@@ -172,11 +174,11 @@ trabashe_lexaslia_do_suome() {
     sed 's/yue:/kantoninkiina:/' -i lexaslia.md
     sed 's/zho:/yleiskiina:/' -i lexaslia.md
     sed 's/zul:/zulu:/' -i lexaslia.md
-    cd ..
+    cd ../..
 }
 
-trabashe_lexaslia_do_esperante() {
-    cd epo
+trabasa_lexaslia_do_esperante() {
+    cd docs/eo
     sed 's/amh:/amhara:/' -i lexaslia.md
     sed 's/ara:/araba:/' -i lexaslia.md
     sed 's/ben:/bengala:/' -i lexaslia.md
@@ -226,7 +228,7 @@ trabashe_lexaslia_do_esperante() {
     sed 's/yue:/kantona:/' -i lexaslia.md
     sed 's/zho:/mandarena:/' -i lexaslia.md
     sed 's/zul:/zulua:/' -i lexaslia.md
-    cd ..
+    cd ../..
 }
 
 # gene dubashik lexe lista
@@ -237,39 +239,39 @@ sh tools/generate_bilingual_dictionaries.sh pandunia
 cd ../pandunia
 
 # english e pandunia
-krea_lexe_lista eng
-trabashe_lexaslia_do_engle
+krea_lexe_lista eng en
+trabasa_lexaslia_do_engle
 
 # esperanto e pandunia
-krea_lexe_lista epo
+krea_lexe_lista epo eo
 
 # suome e pandunia
-krea_lexe_lista fin
-#trabashe_lexaslia_do_suome
+krea_lexe_lista fin fi
+#trabasa_lexaslia_do_suome
 
 # polski e pandunia
-krea_lexe_lista pol
+krea_lexe_lista pol pl
 
 # putonghan e pandunia
 kopi_lexe_liste_kon_altre_nim cmn zho
 
 # nipon e pandunia
-krea_lexe_lista jpn
+krea_lexe_lista jpn ja
 
 # malayu e pandunia
 kopi_lexe_liste_kon_altre_nim ind may
 
 # rus e pandunia
-krea_lexe_lista rus
+krea_lexe_lista rus ru
 
 # franse e pandunia
-krea_lexe_lista fra
+krea_lexe_lista fra fr
 
 # espanya e pandunia
-krea_lexe_lista spa
+krea_lexe_lista spa es
 
 # portugal e pandunia
-krea_lexe_lista por
+krea_lexe_lista por pt
 
 # lexi asal a pandunia baxa
 krea_lexaslik_lista pandunia
