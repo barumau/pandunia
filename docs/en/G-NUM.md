@@ -264,15 +264,25 @@ The day, month and year ordered from the longest period of time to the shortest,
 or vice versa i.e. year first and day last.
 Month is always in the middle.
 
-**nen 2022 mes 9 den 17**
-~
-**den 17 mes 9 nen 2002**
+2022-09-17 = **nen 2022 mes 9 den 17**  
+17.09.2022 = **den 17 mes 9 nen 2002**
 
-There are also two short formats without the year.
+Different countries and cultures use different calendars.
+When necessary, the calendar era can be specified by adding one of the following abbreviations:
 
-**mes 9 den 17**
-~
-**den 17 mes 9**
+| Abbreviation | Era in Pandunia | Era in English          | Beginning Year    |
+|:------------:|:----------------|:------------------------|:------------------|
+| HE           | *holocenik era* | Holocene Era, Human Era | 0 HE              |
+| KE           | *komunik era*   | Common Era              | 10 001 HE = 1 KE  |
+| KE           | *kristik era*   | Christian Era           | 10 001 HE = 1 KE  |
+| SE           | *sakatik era*   | Saka Era (used in India)| 10 078 HE = 0 SE  |
+| IE           | *islamik era*   | Islamic Era             | 10 622 HE = 1 IE  |
+| UE           | *unixik era*    | Unix Era                | 11 970 HE = 0 UE  |
+
+There are also two short date formats without the year.
+
+09-17 = **mes 9 den 17**  
+17.9. = **den 17 mes 9**
 
 
 ## Time
