@@ -270,7 +270,7 @@ The table below shows the number of countries by continent where the 21 source l
 | Language   | America  | Europe   | Africa   | Asia     | Oceania  |
 |------------|----------|----------|----------|----------|----------|
 | English    |    14    |    3     |   23     |    5     |    14    |
-| French     |     2    |    5     |   21     |          |     1    |
+| French     |     2    |    5     |   18     |          |     1    |
 | Spanish    |    18    |    1     |    1     |          |          |
 | Portuguese |     1    |    1     |    6     |    1     |          |
 | Russian    |          |    2     |          |    3     |          |
