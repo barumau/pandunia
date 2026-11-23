@@ -59,7 +59,7 @@ in three levels: (1) clause constituents, (2) phrases and (3) words.
         ┌───┬─┴─┬────┐ ┌───┬─┴─┬────┐   ┌────┬───┼───┬────┐ ┌───┴────┐
     (3) │det│adj│noun│ │TAM│adv│verb│   │prep│det│adj│noun│ │particle│
         └───┴───┴────┘ └───┴───┴────┘   └────┴───┴───┴────┘ └────────┘
-         la  jun  man  le  rapid marce   a   la  dai dao      he.
+         la  jun  man  le  rapid marce   a   la  dai dao      ha.
         that young man did fast   walk   on  the big road     huh
         'That young man walked fast on the big road, huh?'
 
@@ -126,7 +126,7 @@ There are two types of predicative clause: verbal and nominal.
 A predicative completes the meaning of a sentence by giving information about a noun by either renaming it or describing it.
 Often there is no copula verb (i.e. linking verb) between the subject and its predicative complement.
 
-*ho – Ali.*
+*he – Ali.*
 – He is Ali.  
 *Ali – guru.*
 – Ali is a teacher.  
@@ -143,7 +143,7 @@ The copula verb
 'to be'
 can be used optionally in simple predicative sentences like the ones above.
 
-*ho es Ali.*
+*he es Ali.*
 – He is Ali.  
 *Ali es guru.*
 – Ali is a teacher.  
@@ -158,16 +158,16 @@ For example, modal verbs, like
 'to want', always need it as the main verb
 because the sentences would have a different meaning without it.
 
-*ho voli es guru.*
+*he voli es guru.*
 – He (or she) wants to be a teacher.  
 Compare with:  
-*ho voli guru.*
+*he voli guru.*
 – He (or she) wants a teacher.
 
-*ho voli es rike.*
+*he voli es rike.*
 – He (or she) wants to be rich.  
 Compare with:  
-*ho voli rike.*
+*he voli rike.*
 – He (or she) wants riches.
 
 The linking verb is used also when structural complexity of subject and/or predicate
@@ -195,19 +195,19 @@ and the linking verb
 *es*
 is optional in the same cases as before
 
-*ho ne Ali.* ~ *ho ne es Ali.*
+*he ne Ali.* ~ *he ne es Ali.*
 – He is not Ali.  
-*ho ne guru.* ~ *ho ne es guru.*
+*he ne guru.* ~ *he ne es guru.*
 – He is not a teacher.  
-*ho ne voli es guru.*
+*he ne voli es guru.*
 – He doesn't want to be a teacher.  
-*ho ne rike.* ~ *ho ne es rike.*
+*he ne rike.* ~ *he ne es rike.*
 – He is not rich.  
-*ho ne voli es rike.*
+*he ne voli es rike.*
 – He doesn't want to be rich.  
-*ho ne a haus.* ~ *ho ne es a haus.*
+*he ne a haus.* ~ *he ne es a haus.*
 – He is not at home.  
-*ho su kar ne es helpe baca.*
+*he su kar ne es helpe baca.*
 – His job is not to help children.
 
 
@@ -397,9 +397,9 @@ The **basic pivot construction** is a syntactic realization of an action chain
 that reflects the flow of energy from one participant to another.
 A basic sequence is that of `agent > instrument > patient`.
 
-*ho uze un caku kate la ban.*
+*he uze un caku kate la ban.*
 – He uses a knife to cut the bread.  
-*ho jete la bol bate la dika.*
+*he jete la bol bate la dika.*
 – He throws the ball to hit the target.  
 *mi shofe la kar lai la site.*
 – I drive the car to enter the city.
@@ -492,7 +492,7 @@ This structure is called the verb series or the serial verb construction.
 It is very common in Pandunia.
 There can be two, three or even more verbs in a series.
 All verbs are about the same subject.
- 
+
 1. *mi go do haus.*
    – I go home.
 2. *mi kan go do haus.*
@@ -534,7 +534,7 @@ In Pandunia, the topic can be fronted by using various sentence structures,
 such as passivization and change of word order.
 Consider the following sentence:
 
-*mi vize tu.*
+*mi vide tu.*
 – I see you.
 
 The topic of the sentence is the subject
@@ -546,33 +546,33 @@ can be topicalized by moving it to the front.
 There are several ways how to do it.
 The simplest one involves a simple change of word order and a pause.
 
-*tu – mi vize.*
+*tu – mi vide.*
 – (It's) you I saw.
 
 One can also use the passive construction to a similar effect.
 
-*tu be mi vize.*
+*tu be mi vide.*
 – You were seen by me.
 
 Another way to front the object is to use the relative clause construction.
 
-*tu es ki mi vize.*
+*tu es ki mi vide.*
 – You are the one whom I saw.
 
 This sentence can be made more impactful by fronting the linking verb
 *es*.
 and then even more by dropping the relative pronoun.
 
-*es tu ki mi vize.*
+*es tu ki mi vide.*
 – It's you whom I saw.  
-*es tu mi vize.*
+*es tu mi vide.*
 – It's you I saw.
 
 Finally, the same
 *es...*
 constructions can be used for emphasizing the topicness of the normal subject too.
 
-*es mi ki vize tu.* ~ *es mi vize tu.*
+*es mi ki vide tu.* ~ *es mi vide tu.*
 – It's me who saw you.  
 *es mi ki lai.* ~ *es mi lai.*
 – It's me who came.
@@ -584,12 +584,12 @@ constructions can be used for emphasizing the topicness of the normal subject to
 
 _Yes-no_ questions are questions that expect 'yes' or 'no' as answer.
 The easiest way to form a yes-no question in Pandunia is to simply attach the particle
-*he*
+*ha*
 ('eh', 'huh') to the end of a statement.
 
 *tu yam un piza.*
 – You eat a pizza. (statement)  
-*tu yam un piza, he?*
+*tu yam un piza, ha?*
 – Do you eat a pizza? (question)
 
 It is also possible to use
@@ -597,7 +597,7 @@ It is also possible to use
 ('no', 'not') or
 *ya*
 ('yes') instead of
-*he*
+*ha*
 to suggest the expected answer.
 
 *tu yam un piza, ne?*
@@ -626,11 +626,11 @@ Yes-no questions are answered with
 *ne*
 ('no').
 
-*tu vize mi, he?*
+*tu vide mi, ha?*
 – Do you see me?  
-*ya. (mi ya vize tu.)*
+*ya. (mi ya vide tu.)*
 – Yes. (I _do_ see you.)  
-*ne. (mi ne vize tu.)*
+*ne. (mi ne vide tu.)*
 – No. (I don't see you.)
 
 Negative questions are answered so that
@@ -639,18 +639,18 @@ and
 *ne*
 apply to the verb, not the whole question.
 
-*tu ne vize mi, he?*
+*tu ne vide mi, ha?*
 – Don't you see me?  
-*ya. (mi vize tu.)*
+*ya. (mi vide tu.)*
 – Yes. (I see you.)  
-*ne. (mi ne vize tu.)*
+*ne. (mi ne vide tu.)*
 – No. (I don't see you.)
 
 
 ### Alternative questions
 
 Questions that offer alternatives end with the particle
-*he*
+*ha*
 or start with the word
 *sual*
 to indicate that an answer is expected.
@@ -658,7 +658,7 @@ The question is answered by repeating the chosen alternative.
 
 *tu yam un o du banana.*
 – You eat one or two bananas. (statement)  
-*tu yam un o du banana, he?*
+*tu yam un o du banana, ha?*
 – Do you eat one or two bananas? (question)  
 *un.*
 – One.
@@ -681,9 +681,9 @@ However, unlike in English, the word order may also be unchanged.
 – What are you eating?  
 *tu yam ke?*
 – You are eating what?  
-*ho lai na ke sat?*
+*he lai na ke sat?*
 – When does he arrive?  
-*tumen vizite na ke jen su haus?*
+*yu vizite na ke jen su haus?*
 – Whose house did you all vizet?
 
 
@@ -730,9 +730,9 @@ It's possible to use the subordinator or the reduced relative clause structure.
 The resumptive pronoun can be put in its right place in the pivot structure
 or it can be left out by using the reduced relative clause structure.
 
-*la jen, mi vize ki kitab la buk, pada.*
+*la jen, mi vide ki kitab la buk, pada.*
 – The person, whom I see write the book, falls.  
-*la jen, mi vize kitab la buk, pada.*
+*la jen, mi vide kitab la buk, pada.*
 – The person that I see write the book falls.  
 
 Also a _resumptive relative pronoun_ can be used if needed.
@@ -749,7 +749,7 @@ In Pandunia they are typically introduced with the conjunction
 
 *mi nos ki tu es doste.*
 – I know that you are a friend.  
-*homen fikre ki mimen ha chute.*
+*de fikre ki wi ha chute.*
 – They think that we have left.
 
 A content clause can be placed before or after the clause that talks about it.
@@ -759,7 +759,7 @@ points to the following content clause and plain
 *la*
 points to the previous one.
 
-*vo es bari, ki mi ne ha vize homen.*
+*vo es bari, ki mi ne ha vide de.*
 – _It_ is important _that I haven't seen them_.  
 *ki pan jen be sana ka par, la es klar.*
 – _That all people are created as equals_; _it_ is clear.
@@ -785,7 +785,7 @@ The word
 *si*
 is conditional sentences, it works in the same way as English 'if'.
 
-*mi ne vud yam ho, si mi es tu.*
+*mi ne vud yam he, si mi es tu.*
 – I wouldn't eat it _if_ I were you.
 
 The rest of the sentence can optionally be preceded by the word *asar*, which means 'then'.
@@ -826,7 +826,7 @@ Expressions are affirmative by default.
 
 *mi es cef.*
 – I am the boss.  
-*ho es nova meza.*
+*he es nova meza.*
 – It is a new table.
 
 Affirmation can be emphasized with the adverb
@@ -835,27 +835,27 @@ Affirmation can be emphasized with the adverb
 
 *mi ya es cef.*
 – I indeed am the boss.  
-*ho ya es nova meza.*
+*he ya es nova meza.*
 – It indeed is a new table.
 
 #### Negative
 
 Such sentences can be simply negated with *ne*.
 
-*ho ne es cef.*
+*he ne es cef.*
 – He is not the boss.  
-*ho ne es nova meza.*
+*he ne es nova meza.*
 – It's not a new table.
 
 The word *ne* is used for denying anything.
 It affects always the next word.
 Different scopes of negation may result depending on the location of the negative word.
 
-*mi vize tu.*
+*mi vide tu.*
 – I see you.  
-*mi ne vize tu.*
+*mi ne vide tu.*
 – I don't see you.  
-*mi vize ne tu ama homen.*
+*mi vide ne tu ama de.*
 – I see, not you, but them.
 
 *mi ples tu safi la kamre.*
@@ -871,11 +871,11 @@ and
 *ne*
 are used also for answering questions.
 
-*sual tu vize mi?* 
+*sual tu vide mi?* 
 – Do you see me?  
-*ya. (mi ya vize tu.)* 
+*ya. (mi ya vide tu.)* 
 – Yes. (I do see you.)  
-*ne. (mi ne vize tu.)* 
+*ne. (mi ne vide tu.)* 
 – No. (I don't see you.)
 
 Negative questions are answered so that
@@ -884,11 +884,11 @@ and
 *ne*
 apply to the verb alone and not the sentence as a whole.
 
-*sual tu ne vize mi?* 
+*sual tu ne vide mi?* 
 – Don't you see me?  
-*ya. (mi ya vize tu.)* 
+*ya. (mi ya vide tu.)* 
 – Yes. (I do see you.)  
-*ne. (mi ne vize tu.)* 
+*ne. (mi ne vide tu.)* 
 – No. (I don't see you.)
 
 
@@ -912,13 +912,13 @@ The same particle is used with with personal pronouns too.
 – my house  
 *tu su haus*
 – your house  
-*ho su haus*
+*he su haus*
 – his or her house  
-*mimen su haus*
+*wi su haus*
 – our house  
-*tumen su haus*
+*yu su haus*
 – your house  
-*homen su haus*
+*de su haus*
 – their house
 
 
@@ -940,35 +940,35 @@ indicates a suggestion or a command.
 indicates disdainment, disrespect or contempt.
 It translates as *bah*, *fie*.
 
-*tu fete ho, fi.*
+*tu fete he, fi.*
 – You did it, bah.  
 *fi! piza! mi ne voli.*
 – Bah! Pizza! I don't want (it).
 
 
-*he*
+*ha*
 asks a direct *yes or no* question.
 It translates as *eh?* or *huh?*.
 
-*tu love kafe, he?*
+*tu love kafe, ha?*
 – You love coffee, huh?
 
 *me*
 indicates indifference, boredom or lack of excitement.
 
-*me. ho ne es nova.*
+*me. he ne es nova.*
 – Meh. It's not new.
 
 *ne*
 asks for the listener's point of view on the matter,
 usually their agreement.
-It is different from *he* in that it's not directly asking a question but it only seeks confirmation.
+It is different from *ha* in that it's not directly asking a question but it only seeks confirmation.
 It roughly translates as *right?*, *isn't it?*, *isn't that so?*, etc.
 One uses it at the end of sentence if one is not completely sure about something but thinks it's probably true.
 
 *tu suka kafe, ne? sepe un kupa ba!*
 – You like coffee, right? Grab a cup!  
-*ho es nova, ne?*
+*he es nova, ne?*
 – It is new, isn't it?
 
 *na*
@@ -976,16 +976,16 @@ is used to introduce a statement.
 It can fill a pause, particularly at the beginning of a response to a question.
 It can also introduce a statement that may be contrary to expectations.
 
-*tu kitab ho, he? – na, ne haf.*
+*tu kitab he, ha? – na, ne haf.*
 – Did you write it? – Well, not yet.  
-*ho es hao, ne? – na, ya.*
+*he es hao, ne? – na, ya.*
 – It's good, isn't it? – Well, yes.
 
 *o*
 indicates that the speaker is uncertain of the matter.
 It roughly translates as *or...?*.
 
-*ho es okei do tu, o...*
+*he es okei do tu, o...*
 – It is okay for you, or...
 
 *va*
@@ -994,9 +994,9 @@ It can be used on its own or at the start or end of a sentence to express how am
 
 *va!*
 Wow!  
-*va, ho es dai!*
+*va, he es dai!*
 – Wow, it's big!  
-*ho es dai, va!*
+*he es dai, va!*
 – It's so big!
 
 *ya*
@@ -1005,11 +1005,11 @@ or indicates agreement.
 The speaker is absolutely sure of what they are saying.
 It can be translated as *indeed* or *truly*.
 
-*mi ha vize tu ya.*
+*mi ha vide tu ya.*
 – I truly saw you.  
-*ho es ver, ya.*
+*he es ver, ya.*
 – It is true indeed.  
-*ho es nova, ne? – ho es nova, ya.*
+*he es nova, ne? – he es nova, ya.*
 – It is new, right? – It's new indeed.
 
 

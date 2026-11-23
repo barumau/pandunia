@@ -51,35 +51,35 @@ They are described in more detail later in this document.
     'I',
     *tu*
     'you' (singular),
-    *ho*
+    *he*
     'he, she, it',
-    *mimen*
+    *wi*
     'we',
-    *tumen*
+    *yu*
     'you' (plural),
-    *homen*
+    *de*
     'they'.
 
     The possessive pronouns are:  
-    *mi su*
+    *mi oun*
     'my',
-    *tu su*
+    *tu oun*
     'your',
-    *ho su*
+    *he oun*
     'his or her',
-    *mimen su*
+    *wi oun*
     'our',
-    *tumen su*
+    *yu oun*
     'your',
-    *homen su*
+    *de oun*
     'their'.
 
     The interrogative pronouns are:
-    *ke*
+    *wa ting*
     'what',
-    *ke jen*
+    *wa person*
     'who',
-    *ke su* ~ *ke jen su*
+    *wa oun*
     'whose'.
 
     [Read more!](G-PRO.md)
@@ -96,19 +96,19 @@ They are described in more detail later in this document.
 7.  **Numerals**
 
     The cardinal numbers are:  
-    0 *nil*, 1 *un*, 2 *du*, 3 *tri*, 4 *char*, 5 *pen*, 6 *luk*,
-    7 *set*, 8 *bat*, 9 *nau*, 10 *des*.  
+    0 *nil*, 1 *un*, 2 *du*, 3 *tri*, 4 *for*, 5 *faif*, 6 *six*,
+    7 *seven*, 8 *eit*, 9 *nain*, 10 *ten*.  
     Greater than ten:
-    11 *des un*, 12 *des du*, 13 *des tri*,
+    11 *ten un*, 12 *ten du*, 13 *ten tri*,
     etc.  
     Tens:
-    20 *du des*, 30 *tri des*, 40 *char des*,
+    20 *du ten*, 30 *tri ten*, 40 *for ten*,
     etc.  
     Hundreds:
-    100 *un cent*, 200 *du cent*, 300 *tri cent*,
+    100 *un hunde*, 200 *du hunde*, 300 *tri hunde*,
     etc.  
     Thousands:
-    1000 *un kil*, 2000 *du kil*, 3000 *tri kil*,
+    1000 *un tauzen*, 2000 *du tauzen*, 3000 *tri tauzen*,
     etc.
 
     When a number is put after the noun, it becomes the corresponding ordinal number:  
@@ -136,7 +136,7 @@ They are described in more detail later in this document.
     Adverbs modify verbs, adjectives, other adverbs and complete sentences.
     They come before the word that they modify or very last in the sentence.
 
-    *tre rapid loge*
+    *ver rapid loge*
     – very fast speech  
     *tu rapid loge.*
     – You talk fast.
@@ -149,21 +149,21 @@ They are described in more detail later in this document.
     Therefore a plain verb can be understood in many ways
     (though usually only one interpretation is fitting in the context of the discussion).
 
-    *mi darse pandunia.*  
+    *mi stude pandunia.*  
     'I study ~ studied ~ will study Pandunia.'
 
     Auxiliary verbs can be used to indicate the moment, the duration and the lasting impact of an action.
 
     -   *sta*
         indicates an ongoing event.
-    -   *ha*
+    -   *hav*
         indicates a completed event, which has an effect on the present situation.
-    -   *le*
+    -   *did*
         indicates a past event.
-    -   *fu*
+    -   *wil*
         indicates a future event.
 
-    *mi ha darse pandunia.*  
+    *mi hav stude pandunia.*  
     'I have studied Pandunia.'
 
     [Read more!](G-V.md)
@@ -175,10 +175,12 @@ They are described in more detail later in this document.
 
     A passive sentence is created with the help of the passive auxiliary verb
     **bi**.
+    A similar effect can also be reached with the impersonal pronoun
+    **won**.
 
     *pandunia bi loge.*
     – Pandunia is spoken.   
-    *bi loge pandunia.*
+    *won loge pandunia.*
     – One speaks Pandunia.
 
     In the **pivot construction**, the object of the transitive verb functions as the subject of the following verb.
@@ -188,7 +190,7 @@ They are described in more detail later in this document.
 
     Pronouns can be left out when they are obvious and redundant.
     
-    *mi que tu basa pandunia?* → *que tu basa pandunia?*  
+    *mi sual tu loge pandunia?* → *sual tu loge pandunia?*  
     'Do you speak Panlingue?'
 
     *me ples tu loge klar.* →  *ples loge klar.*  

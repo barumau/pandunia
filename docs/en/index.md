@@ -6,7 +6,7 @@ hide:
 
 # Pandunia
 
-**sal, dunia!**
+***halo, dunia!***
 – Hello, world!
 
 Welcome to learn about Pandunia,
@@ -66,7 +66,7 @@ One sound = one letter or a pair of letters.
 
 The stress is on that syllable that is before the last consonant of the root word.
 Prefixes and suffixes are either unstressed or they may carry a secondary stress.  
-**múlti hóm póte bása pandúnia.**
+*múlti hóm kán lóge pandúnia.*
 – Many people can speak Pandunia.
 
 Words stay always the same in Pandunia.
@@ -74,16 +74,16 @@ There aren't any special _inflected_ forms for cases, tenses, moods, singular an
 
 The normal word order is subject–verb–object
 so the doer comes first, then the action word and finally the object of the action.  
-**mi ame tu.**
+*mi love tu.*
 – I love you.
 
 ![](http://www.kupsala.net/PanGlobish/grafe/Freepik_love.png)  
 [Designed by Freepik](http://www.freepik.com)
 
 The word order is the same also in questions.  
-**tu ame ke?**
+*tu love wa person?*
 – Who do you love?  
-**tu ame mi, he?**
+*tu love mi, ne?*
 – Do you love me? (i.e. Do you love, eh?)
 
 Singular and plural are indicated with number words.
@@ -100,48 +100,46 @@ Singular and plural are indicated with number words.
 – many books
 
 Comparison is done with helping words:
-**max**
+*mor*
 – more;
-**min**
+*les*
 – less;
-**ka**
-– than; and
-**par**
+*pas*
+– than (surpass); and
+*par*
 – as, same, equally.
 
-**mi es max hao ka tu.**
+**mi es mor gud pas tu.**
 – I am better (_more good_) than you.  
-**ne, tu es par hao ka mi.**
+**ne, tu es par gud as mi.**
 – No, you are as good as me.  
-**ho loge max rapid ka tu.**
+**he loge mor rapid pas tu.**
 – He or she talks faster (_more fast_) than you.
 
 Time is expressed with auxiliary verbs:
-**pas**
+*did*
 – past events  
-**fu**
+*wil*
 – future events  
-**ha**
+*hav*
 – past events that are still relevant  
-**zai**
+*sta*
 – ongoing events
 
-**homen pas lese mi su buk.**
+**de did lese mi buk.**
 – They read my book.  
-**mimen ha lese multi buk.**
+**vi hav lese multi buk.**
 – We have read many books.  
-**mi zai lese un buk.**
+**mi sta lese un buk.**
 – I am reading one book.  
-**tu fu basa Pandunia.**
-– You will talk Pandunia.
+**yu wil loge Pandunia.**
+– You will speak Pandunia.
 
 Sentence-final particles express why the sentence is said,
 i.e. is the sentence, for example, a statement, a question or a command.  
-**tu ame kafe, he?**
+**yu love kafe, wa?**
 – You love coffee, eh? (question)  
-**tu ame kafe, ya.**
-– You love coffee, indeed. (statement)  
-**tu ame kafe, ne?**
+**yu love kafe, ne?**
 – You love coffee, don't you? (need for response)
 
 
@@ -172,13 +170,15 @@ Find Pandunia speakers near you in [Amikumu](https://amikumu.com/) app!
 - [Searchable dictionary](../lexia/index.html?d=eng)
 - [Origins of words](lexaslia.md)
 - Go to the
-  [Pandunia lexe na dunia karta](http://www.pandunia.info/lexekarta/index.html)
+  [Pandunia lexe en dunia karta](http://www.pandunia.info/lexekarta/index.html)
   pages to see where every Pandunia word is from on a world map.
 - [Stories in Pandunia](https://www.pandunia.info/kitabe)
 - [Counting in Pandunia](https://www.languagesandnumbers.com/how-to-count-in-pandunia/en/pandunia/) in _Of Languages and Numbers_
 
-![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "mimen basa pandunia!")  
+<!--
+![](http://www.pandunia.info/grafe/mimen_baxe_pandunia.png "wi loge pandunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
+-->
 
 You can contact the creator and a main developer of Pandunia, Risto Kupsala, via email
 [risto@pandunia.info](mailto:risto@pandunia.info) and in the aforementioned forums.
@@ -187,6 +187,6 @@ You can contact the creator and a main developer of Pandunia, Risto Kupsala, via
 
 ![](http://www.pandunia.info/grafe/bandera.png "The flag of Pandunia")
 
-**ze hol dunia, do hol dunia**  
+***of hol dunia, do hol dunia***  
 – from the whole world, for the whole world
 

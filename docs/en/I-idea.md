@@ -212,10 +212,10 @@ The place of the stress is decided by two simple rules.
 In the examples that follow, primary accent is indicated by an acute accent (*á*) and secondary accent by a grave accent (*à*) over the first vowel of a stressed syllable.
 
 1. Root words are stressed on the syllable that is before the last consonant of the word.  
-   **hálo! mí vóli lóge un háo dúnia bása.**  
+   **hálo! mí vóli lóge un háo dúnia língue.**  
    (_Hello! I want to speak a good world language._)
 2. Derived and compound words are stressed according to their components so that the primary stress is in the main word.  
-   **pandúnia es dèmokrátik bása.**  
+   **pandúnia es dèmokrátik língue.**  
    (_Pandunia is a democratic language._)
 
 Regular stress is easier to learn and more comfortable to use
@@ -394,29 +394,31 @@ So it covers the English third-person pronouns _he_, _she_ and _it_, all at once
 |------------|------------|------------|
 | I          | mi         | wǒ         |
 | you        | tu         | nǐ         |
-| he/she/it  | ho         | tā         |
-| we         | mimen      | wǒmen      |
-| you all    | tumen      | nǐmen      |
-| they       | homen      | tāmen      |
+| he/she/it  | he         | tā         |
+| we         | wi         | wǒmen      |
+| you all    | yu         | nǐmen      |
+| they       | de         | tāmen      |
 
 The possessive pronouns follow the super simple pattern of Standard Chinese.
-Simply add **su** to form the possessive, as below.
+Simply add
+*oun*
+to form the possessive, as below.
 
 | English    | Pandunia   | Chinese    |
 |------------|------------|------------|
-| my         | mi su      | wǒ de      |
-| your       | tu su      | nǐ de      |
-| his/her/its| ho su      | tā de      |
-| our        | mimen su   | wǒmen de   |
-| your       | tumen su   | nǐmen de   |
-| their      | homen su   | tāmen de   |
+| my         | mi oun     | wǒ de      |
+| your       | tu oun     | nǐ de      |
+| his/her/its| he oun     | tā de      |
+| our        | wi oun     | wǒmen de   |
+| your       | yu oun     | nǐmen de   |
+| their      | de oun     | tāmen de   |
 
 The personal pronouns in Pandunia attain three important goals.
 
 1. The basic pronouns
-   (**mi**, **tu**, **ho**)
+   (**mi**, **tu**, **he**)
    look and sound distinct.
-2. The plurals and the possessives are built in a systematic way.
+2. The possessive forms are built in a systematic way.
    They are not only a bunch of random words.
 3. The words are international
    and come from many different language families.
@@ -431,7 +433,7 @@ The normal sentence word order is subject–verb–object
 – just like in English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  mi ame tu, tu ame mi.
+    Pandunia:  mi love tu, tu love mi.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The auxiliary verb
@@ -447,13 +449,13 @@ is used when the object of the action comes first in the sentence.
 but it is also close to some uses of English *to be*.
 
     English:   It can not be eaten.
-    Pandunia:  ho ne pote bi yam.
+    Pandunia:  he no kan bi yam.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I ask him to drink coffee.
-    Pandunia:  mi ples ho yam kafe.
+    Pandunia:  mi ples he yam kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words.
@@ -464,10 +466,10 @@ In Pandunia, one word,
 is used instead of _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  ho es aple.
+    Pandunia:  he es aple.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  homen es aple.
+    Pandunia:  de es aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 
