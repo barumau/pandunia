@@ -189,8 +189,8 @@ It is usually paired with another word to ask a complete question.
 The interrogative pronoun takes the place of the questioned thing in the phrase.
 It is not placed in the beginning of the phrase unlike normally in English.
 
-*wa es he?*
-– What is it?  
+*wa es da?*
+– What is that?  
 *wa es da jen?*
 – Who is that person ~ he ~ she?  
 *tu voli wa?*

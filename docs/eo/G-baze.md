@@ -44,35 +44,35 @@
     'mi',
     *tu*
     'vi (ununombre)',
-    *ho*
+    *he*
     'ĝi, li aŭ ŝi',
-    *mimen*
+    *wi*
     'ni',
-    *tumen*
+    *yu*
     'vi (multenombre)',
-    *homen*
+    *de*
     'ili'.
     
     La posedaj pronomoj estas:  
-    *mi di*
+    *mi* ~ *mi oun*
     'mia',
-    *tu di*
+    *tu* ~ *tu oun*
     'via',
-    *ho di*
+    *he* ~ *he oun*
     'ĝia, lia aŭ ŝia',
-    *mimen di*
+    *wi* ~ *wi oun*
     'nia',
-    *tumen di*
+    *yu* ~ *yu oun*
     'via',
-    *homen di*
+    *de* ~ *de oun*
     'ilia'.
     
     La demandaj pronomoj estas:  
-    *ke*
+    *wa ting*
     'kio',
-    *ke jan*
+    *wa person*
     'kiu',
-    *ke jan di*
+    *wa oun*
     'kies'.
 
     [Legu pli](G-PRO.md).
@@ -159,16 +159,16 @@
     Helpaj verboj indikas tencon, aspekton kaj modon.
     
     -   La helpverbo
-        **zai**
+        **sta**
         indikas daŭran agon.
     -    La helpverbo
-         **leu**
+         **hav**
          indikas kompletan agon, kies rezulto influas la nunan situacion.
     -    La helpverbo
-         **pas**
+         **did**
          indikas pasintan agon.
     -    La helpverbo
-         **vil**
+         **wil**
          indikas estontan agon.
     
     [Legu pli](G-V.md).

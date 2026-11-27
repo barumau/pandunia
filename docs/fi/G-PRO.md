@@ -1,65 +1,66 @@
 
-# 4. Pronominit
+# Pronominit
 
 ## Persoonapronominit
 
 | Yksikkö     | Monikko      |
 |:------------|:-------------|
-| **mi**      | **vi**       |
+| *mi*        | *wi*         |
 | minä        | me           |
-| **tu**      | **yu**       |
+| *tu*        | *yu*         |
 | sinä        | te           |
-| **hi**      | **de**       |
+| *he*        | *de*         |
 | hän         | he           |
 
 Persoonapronominien omistusmuodot muodostetaan partikkelilla
-**'s**.
+*oun*.
 
 | Yksikkö     | Monikko      |
 |:------------|:-------------|
-| **mi's**    | **vi's**     |
+| *mi oun*    | *wi oun*     |
 | minun       | meidän       |
-| **tu's**    | **yu's**     |
+| *tu oun*    | *yu oun*     |
 | sinun       | teidän       |
-| **hi's**    | **de's**     |
+| *he oun*    | *de oun*     |
 | hänen       | heidän       |
 
 Persoonapronominit korvaavat kokonaisia lausekkeita.
 
-**un yun man sta haus. _hi_ lete un buk.**
+*un yun man sta haus. _he_ lese un buk.*
 – _Yksi nuori mies on kotona. Hän lukee kirjaa._
 
 ## Refleksiivipronomini
 
-**sef**
-= itse
+*sef*
+– itse
 
 Refleksiivipronominia
-**sef**
+*sef*
 käytetään sellaisenaan kaikissa persoonissa.
 
-**mi vize sef.**
+*mi vize sef.*
 – Minä näen itseni.  
-**hi vize sef.**
+*he vize sef.*
 – Hän näkee itsensä.  
-**vi vize sef.**
+*wi vize sef.*
 – Me näemme itsemme.
 
-Sen omistusmuoto on **sef se**.
+Sen omistusmuoto on
+*sef oun*.
 
-**hi vize sef's muka a mirer.**
+*he vide sef oun muka a mirer.*
 – Hän näkee kasvonsa peilissä.
 
 Sana
-**unaltre**
+*unaltre*
 viittaa tekijöihin vastavuoroisesti.
 
-**unaltre**
+*unaltre*
 – toinen toistaan ~ toisiaan
 
-**tu e mi vize unaltre.**
+*tu e mi vide unaltre.*
 – Sinä ja minä näemme toisemme.  
-**vi vize unaltre.**
+*wi vide unaltre.*
 – Me näemme toisemme.
 
 
@@ -67,33 +68,26 @@ viittaa tekijöihin vastavuoroisesti.
 
 Osoittava pronomini on:
 
-**da**
-– tämä, tuo, se  
 **di**
-– nämä, nuo, ne
+– tämä, nämä  
+**di**
+– tuo, nuo, se, ne
 
 
-Pronomini
-**da hir**
-osoittaa puhujan lähellä oleviin asioihin,
-ja pronomini
-**da der**
-osoittaa puhujasta kaukana oleviin asioihin.
-
-**tu van da der buk, he?**
+*tu voli da buku, he?*
 – Haluatko sinä tuon kirjan?  
-**no, mi van da hir buk, no da der.**
+*no, mi voli di buku, no da.*
 – Minä haluan tämän kirjan, en tuota.
 
 Panduniassa osoittavat pronomiinit toimivat subjekteina ja objekteina samalla tavalla kuin substantiivit.
 
-**da hir es gud.**
+**di es gud.**
 – Tämä on hyvä.  
-**da der es bad.**
+*da es bad.*
 – Tuo on huono.  
-**tu van da hir, he?**
+*tu voli di, he?*
 – Haluatko sinä tämän?  
-**no, mi van da der.**
+*no, mi voli da.*
 – Ei, minä haluan tuon.
 
 
@@ -101,9 +95,9 @@ Panduniassa osoittavat pronomiinit toimivat subjekteina ja objekteina samalla ta
 
 Panduniassa on kaksi kysyvää pronominia.
 
-**vat**
-– mikä  
-**hu**
+*wa ting*
+– mikä (esine tai asia)  
+*wa won*
 – kuka
 
 Kysymyssana sijoittuu lauseessa kysyttävän asian paikalle.
@@ -113,42 +107,42 @@ Sitä ei siis sijoiteta lauseen alkuun toisin kuin yleensä suomen kielessä.
  `mikä olla se`  
 'Mikä se on?'
 
-**vat es da?**
+*wa es da?*
 – Mikä se on?  
-**hu es da?**
+*wa es da jen?*
 – Kuka hän on?  
-**yu van vat?**
+*tu voli wa?*
 – Mitä sinä haluat?  
-**vat es a meza.**
+*wa es na meza.*
 – Mitä on pöydällä?  
-**hu es en haus.**
+*wa es na haus.*
 – Kuka on talossa?
 
 Omistusta kysyvä pronomini rakennetaan samalla tavalla kuin muutkin omistuspronominit.
 
-**hu's**
+*wa oun*
 – kenen
 
-**hu's haus es da?**
+*wa oun haus es da?*
 – Kenen talo tuo on?
 
-Adjektiivit voi saattaa kyseenalaisiksi sanalla
-**hau**.
+Adjektiivit voi kyseenalaistaa myös sanalla
+*wa*.
 
-**hau nove?**
+*wa nova?*
 – Kuinka uusi?  
-**hau koste?**
+*wa koste?*
 – Minkä hintainen? Kuinka kallis?  
-**hau meni?**
+*wa multi?*
 – Kuinka monta?  
-**hau kam?**
+*wa kam?*
 – Kuinka vähän?  
-**hau dai?**
+*wa dai?*
 – Kuinka iso?  
-**hau let?**
+*wa lit?*
 – Kuinka pieni?
 
-**tu have hau dai mau?**
+*tu have wa dai mau?*
 – Kuinka iso kissa sinulla on?
 
 
@@ -160,20 +154,20 @@ Pandunian pro-sanat voidaan järjestää säännönmukaisesti taulukkoon kuten a
 
 | Kategoria     | Kysyvät       | Osoittavat    | Epämääräiset  | Kaikenkattavat| Kieltävät     | Vaihtoehtoiset| Sallivat      |
 |:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| **ting**      | **vat ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   | **otre ting** | **eni ting**  |
+| *ting*        | *wa ting*     | *da ting*     | *som ting*    | *evri ting*   | *no ting*     | *altre ting*  | *eni ting*    |
 | Asia          | mikä          | tuo asia      | jokin         | kaikki        | ei mikään     | toinen, muu   | mikä tahansa  |
-| **von**       |**hu; vat von**| **da von**    | **som von**   | **evri von**  | **no von**    | **otre von**  | **eni von**   |
+| *won*         | *wa won*      | *da won*      | *som won*     | *evri won*    | *no won*      | *altre won*   | *eni won*     |
 | Henkilö       | kuka          | tuo henkilö   | joku          | jokainen      | ei kukaan     | toinen, muu   | kuka tahansa  |
-| **have**      | **hu's**      | **da von's**  | **som von's** |**evri von's** | **no von's**  |**otre von's** | **eni von's** |
+| *oun*         | *wa (won) oun*| *da won oun*  | *som won oun* |*evri won oun* | *no won oun*  |*altre won oun*| *eni won oun* |
 | Omistus       | kenen         | tuon henkilön | jonkun        | jokaisen      | ei kenenkään  | toisen        | kenen tahansa |
-| **plas**      | **vat plas**  | **da plas**   | **som plas**  | **evri plas** | **no plas**   | **otre plas** | **eni plas**  |
+| *plas*        | *wa plas*     | *da plas*     | *som plas*    | *evri plas*   | *no plas*     | *altre plas*  | *eni plas*    |
 | Paikka        | missä         | tuolla        | jossakin      | kaikkialla    | ei missään    | toisaalla     | missä tahansa |
-| **tem**       | **vat tem**   | **da tem**    | **som tem**   | **evri tem**  | **no tem**    | **otre tem**  | **eni tem**   |
+| *tem*         | *wa tem*      | *da tem*      | *som tem*     | *evri tem*    | *no tem*      | *altre tem*   | *eni tem*     |
 | Aika          | milloin       | silloin       | joskus        | aina          | ei koskaan    | toiste        |milloin tahansa|
-| **vei**       | **vat vei**   | **da vei**    | **som vei**   | **evri vei**  | **no vei**    | **otre vei**  | **eni vei**   |
+| *wey*         | *wa wey*      | *da wey*      | *som wey*     | *evri wey*    | *no wey*      | *altre wey*   | *eni wey*     |
 | Tapa          | miten         | siten         | jotenkin      | kaikin tavoin | ei mitenkään  | muuten        | miten tahansa |
-| **tip**       | **vat tip**   | **da tip**    | **som tip**   | **evri tip**  | **no tip**    | **otre tip**  | **eni tip**   |
+| *tipe*        | *wa tipe*     | *da tipe*     | *som tipe*    | *evri tipe*   | *no tipe*     | *altre tipe*  | *eni tipe*    |
 | Laatu         | millainen     | tuollainen    | jonkinlainen  | kaikenlainen  |ei minkään lainen|toisen lainen|millainen tahansa|
-| **monta**     | **vat monta** | **da monta**  | **som monta** | **evri monta**| **no monta**  | **otre monta**| **eni monta** |
+| *muche*       | *wa muche*    | *da muche*    | *som muche*   | *evri muche*  | *no muche*    | *altre muche* | *eni muche*   |
 | Määrä         | montako       | noin monta    | jonkin verran | kaikki        | ei yhtään     | toisen verran |kuinka paljon tahansa|
 

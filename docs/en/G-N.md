@@ -105,15 +105,6 @@ means 'X and other people associated with X'.
 *Maria men*
 – Maria and her people
 
-The same particle is used also for forming the plural personal pronouns.
-
-*mimen*
-– we = 'I and my people' (not 'many mes')  
-*tumen*
-– you = 'you and your people' (not 'many yous')  
-*homen*
-– they = 'a certain group of associated people'
-
 
 ## Proper names
 

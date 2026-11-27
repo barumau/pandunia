@@ -1,3 +1,4 @@
+
 # Pronomoj
 
 ## Personaj pronomoj
@@ -6,25 +7,25 @@ Pronomoj povas aperi anstataŭ substantivoj.
 
 | Ununombra   | Multenombra  |
 |:------------|:-------------|
-| **mi**      | **mimen**    |
+| *mi*        | *wi*         |
 | mi          | ni           |
-| **tu**      | **tumen**    |
+| *tu*        | *yu*         |
 | vi, ci      | vi           |
-| **da**      | **damen**    |
+| *he*        | *de*         |
 | li, ŝi, ĝi  | ili          |
 
 
-La posedaj pronomoj estas formata per aldo de partiklo
-**su**.
+La posedaj pronomoj estas formata per aldonante la partiklo
+**oun**.
 
 | Ununombra   | Multenombra  |
 |:------------|:-------------|
-| **mi su**   | **mimen su** |
-| mia         | nia          |
-| **tu su**   | **tumen su** |
-| via, cia    | via          |
-| **da su**   | **damen su** |
-|lia, ŝia, ĝia| ilia         |
+| *mi oun*    | *wi oun*     |
+| mia          | nia         |
+| *tu oun*    | *yu oun*     |
+| via, cia     | via         |
+| *he oun*    | *de oun*     |
+|lia, ŝia, ĝia | ilia        |
 
 ## Refleksiva pronomo
 
@@ -36,23 +37,23 @@ Rimarko: La refleksiva pronomo
 povas uziĝi por ĉiuj personoj.
 Do ĝi rilatas al ĉiuj tiaj uzadoj en Esperanto, kiel: _mi(n) mem_, _vi(n) mem_, _ni(n) mem_ kaj _si(n)_.
 
-**mi vi se**
+**mi vide se**
 – Mi vidas min.  
-**da vi se**
+**he vide se**
 – Ŝi vidas sin.  
-**mimen vi se.**
+**mimen vide se.**
 – Ni vidas nin.
 
 Oni uzas
-**semen**
+*unaltre*
 por esprimi reciprokecon.
 
-**semen**
+*unaltre*
 – unu la alia
 
-**tu e mi vi semen.**
+*tu e mi vide unaltre.*
 – Mi kaj vi vidas unu la alian.  
-**mimen vi semen.**
+**mimen vide semen.**
 – Ni vidas unu la alian.
 
 
@@ -60,66 +61,67 @@ por esprimi reciprokecon.
 
 La montrovorto estas:
 
-**ye**
+**di**
 – tiu(j) ĉi  
-**vo**
+**da**
 – tiu(j)
 
-**ye haus**
+**di haus**
 – tiu ĉi domo  
-**vo haus**
+**da haus**
 – tiu domo  
 
 La montrovortoj povas roli kiel subjekto same kiel substantivoj.
 
-**ye es bon.**
+**di es bon.**
 – ĉi tiu (aĵo) estas bone.  
-**vo es dus.**
+**da es dus.**
 – Tiu (aĵo) estas malbone.  
-**tu vol ye, he?**
+**tu voli di, he?**
 – ĉu vi volas ĉi tiun?  
-**no, mi vol vo.**
+**no, mi voli da.**
 – Ne, mi volas tiun tie.
 
 
 ## Demandovortoj
 
-**ke**
+**wa**
 estas la ĝenerala demandovorto en pandunio.
 Ĝi funckias kiel la demanda senco de la vorto *kio*.
 
-**ke?**
-– kio?, kiu?
+*wa ting*
+– kio?
+*wa won*
+– kiu?
 
-**ke es da?**
+*wa es da?*
 – Kio estas tio?  
-**ke es vo jen?**
+*wa es da jen?*
 – Kiu estas li ~ ŝi?  
-**tu vol ke?**
+*tu voli wa?*
 – Kion vi volas? (Laŭvorte: Vi volas kion?)  
-**ke es na meza.**
+*wa es na meza.*
 – Kio estas ĉe la tablo?  
-**ke es na haus.**
+*wa es na haus.*
 – Kiu estas en la domo?
 
 Adjektivoj estas demandataj per
-**ke**.
+**wa**.
 
-**ke nove?**
+**wa nove?**
 – Kiom nova?  
-**ke koste?**
+**wa koste?**
 – Kiom multekosta?  
-**ke multi?**
+**wa multi?**
 – Kiom multe?  
-**ke dai?**
+**wa dai?**
 – Kiom granda?  
-**ke lit?**
+**wa lit?**
 – Kiom eta?
 
-**tu have ke dai mau?**
+**tu have wa dai mau?**
 – Kiom granda kato vi havas?
 
-<!--
 ## Tabelvortoj
 
 "Tabelvortoj" estas vortoj, kiuj rolas kiel pronomoj kaj estas konstruitaj laŭ fiksita principo.
@@ -127,21 +129,20 @@ Oni povas aranĝi tiajn vortojn en tabelo kaj en Esperanto kaj en Pandunia.
 
 | Kategorio     | Demanda       | Montranta     | Nedifinita    | Tutampleksa   | Nea           | Diferenca     | Elektenda     |
 |:--------------|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| **she**       | **ke she**    | **da she**    | **yo she**    | **pan she**   | **no she**    | **ale she**   | **eni she**   |
-| **ting**      | **vat ting**  | **da ting**   | **som ting**  | **evri ting** | **no ting**   | **otre ting** | **eni ting**  |
+| *ting*        | *wa ting*     | *da ting*     | *som ting*    | *evri ting*   | *no ting*     | *altre ting*  | *eni ting*    |
 | Aĵo           | kio           | tio           | io            | ĉio           | nenio         | alio          | io ajn        |
-| **yen**       |**ke yen**     | **da yen**    | **yo yen**    | **pan yen**   | **no yen**    | **ale yen**   | **eni yen**   |
+| *won*         | *wa won*      | *da won*      | *som won*     | *evri won*    | *no won*      | *altre won*   | *eni won*     |
 | Homo          | kiu           | tiu           | iu            | ĉiu           | neniu         | aliulo        | iu ajn        |
-| **have**      | **ke su**     | **da yen su** | **yo yen su** |**pan yen su** | **no yen su** |**ale yen su** | **eni yen su**|
+| *oun*         | *wa (won) oun*| *da won oun*  | *som won oun* |*evri won oun* | *no won oun*  |*altre won oun*| *eni won oun* |
 | Aparteno      | kies          | ties          | ies           | ĉies          | nenies        | de alia       | ies ajn       |
-| **loka**      | **ke loka**   | **da loka**   | **yo loka**   | **pan loka**  | **no loka**   | **ale loka**  | **eni loka**  |
+| *plas*        | *wa plas*     | *da plas*     | *som plas*    | *evri plas*   | *no plas*     | *altre plas*  | *eni plas*    |
 | Loko          | kie           | tie           | ie            | ĉie           | nenie         | aliloke       | ie ajn        |
-| **tem**       | **ke tem**    | **da tem**    | **yo tem**    | **pan tem**   | **no tem**    | **ale tem**   | **eni tem**   |
+| *tem*         | *wa tem*      | *da tem*      | *som tem*     | *evri tem*    | *no tem*      | *altre tem*   | *eni tem*     |
 | Tempo         | kiam          | tiam          | iam           | ĉiam          | neniam        | alifoje       | iam ajn       |
-| **vei**       | **ke vei**    | **da vei**    | **yo vei**    | **pan vei**   | **no vei**    | **ale vei**   | **eni vei**   |
+| *wey*         | *wa wey*      | *da wey*      | *som wey*     | *evri wey*    | *no wey*      | *altre wey*   | *eni wey*     |
 | Maniero       | kiel          | tiel          | iel           | ĉiel          | neniel        | alimaniere    | iel ajn       |
-| **tip**       | **ke tip**    | **da tip**    | **yo tip**    | **pan tip**   | **no tip**    | **ale tip**   | **eni tip**   |
+| *tipe*        | *wa tipe*     | *da tipe*     | *som tipe*    | *evri tipe*   | *no tipe*     | *altre tipe*  | *eni tipe*    |
 | Kvalito       | kia           | tia           | ia            | ĉia           | nenia         | alispeca      | ia ajn        |
-| **monta**     | **ke monta**  | **da monta**  | **yo monta**  | **pan monta** | **no monta**  | **ale monta** | **eni monta** |
+| *muche*       | *wa muche*    | *da muche*    | *som muche*   | *evri muche*  | *no muche*    | *altre muche* | *eni muche*   |
 | Kvanto        | kiom          | tiom          | iom           | ĉiom          | neniom        | alikvante     | iom ajn       |
--->
+

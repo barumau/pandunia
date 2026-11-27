@@ -12,17 +12,17 @@ in the real world but their grammatical use is different.)
 The grammatical structure of Pandunia is not based on empty grammatical markers,
 but rather it is based on word order and word classes (or "parts of speech").
 Each Pandunia word belongs to a default word class that represents its natural meaning. For example,
-*baca*
+*bacha*
 'child' and
 *kursi*
 'chair' are nouns (thing words),
-*hao*
+*gud*
 'good' and
 *jun*
 'young' are adjectives (quality words), and
 *vide*
 'to see' and
-*marce*
+*marche*
 'to walk' are verbs (action words).
 
 The key to understanding the structure of clauses in Pandunia is to identify the verbs in the clause.
@@ -37,14 +37,19 @@ The most common verbs pop up in text again and again, so one learns to identify 
 When one can identify the verb, it is easy to understand the structure of also those phrases that don't include any pronouns
 thanks to the fixed word order patterns of Pandunia.
 
-     baca      vide     lit        mau.
+     bacha     vide     let        mau.
      child     see      little     cat    ⇒ 'The child sees a little cat.'
       ↑         ↑        ↑          ↑
     noun      verb    adjective    noun
 
 The word order pattern in the sentence above is subject–verb–object.
-The first noun (*baca*) is the subject, then there is the verb (*vide*), which forms the core of the phrase,
-and it is followed by the object, which is a noun phrase that consists of two words (*lit mau*).
+The first noun
+(*bacha*)
+is the subject, then there is the verb
+(*vide*),
+which forms the core of the phrase,
+and it is followed by the object, which is a noun phrase that consists of two words
+(*let mau*).
 
 But what words, phrases and word order patterns are, actually?
 

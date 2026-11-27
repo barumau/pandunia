@@ -105,13 +105,14 @@ Here are some of the most frequently used adverbs:
 *maxo*
 – additionally  
 
-A complement can be added with the preposition *da*.
+A complement can be added with the preposition
+*of*.
 
-*me viza homen cheno.*
+*mi vide de pre.*
 – I have seen them before.  
-*me viza homen cheno da unyom.*
+*mi vide de pre lundey.*
 – I have seen them before Monday.
 
-*me vola shopa tougar maxo da motogar.*
+*mi voli shope tougar plus of motogar.*
 – I want to buy a trailer in addition to the car.
 -->
